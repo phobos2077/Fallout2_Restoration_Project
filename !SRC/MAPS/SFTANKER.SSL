@@ -1,0 +1,75 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: San Fran Tanker
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: April 14, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\sftanker.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_SFTANKER
+
+#include "..\headers\command.h"
+
+#include "..\headers\sanfran.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure Initial_Inven;
+
+export variable i_suze_obj;
+export variable i_tgun_table_swap;
+export variable i_tgun_merchant;
+export variable i_tmer_table_swap;
+export variable i_tmer_merchant;
+
+variable inited := 0;
+
+procedure start begin
+   if (inited == 0) then begin
+      inited := 1;
+      i_suze_obj := -1;
+      i_tgun_merchant := -1;
+      i_tmer_merchant := -1;
+   end
+end
+
+
+procedure map_enter_p_proc begin
+//   override_map_start_hex(14095,0,2);
+   if (map_first_run) then begin
+   end
+   Enclave_Lighting;
+end
+
+procedure map_update_p_proc begin
+   Enclave_Lighting;
+end
+
+
+procedure Initial_Inven begin
+end

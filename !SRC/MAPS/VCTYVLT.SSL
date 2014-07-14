@@ -1,0 +1,65 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Vault City Vault map
+        Location: Vault City
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: Jun 1, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_VCTYVLT
+
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+export variable vault_city_martin_obj; // Seraph's Code
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   if( map_first_run ) then
+      display_msg( mstr(100) );
+
+//   if( global_var( GVAR_DROP_PLAYER_BY_VAULT_8 ) == 1 ) then begin
+//      //set_global_var( GVAR_DROP_PLAYER_BY_VAULT_8, 0 );
+//      //override_map_start_hex(20897,0,5);
+//      move_to( dude_obj, 20897, 0 );
+//      critter_attempt_placement( dude_obj, 20897, 0 );
+//      animate_rotation( 5 );
+//   end
+
+   Full_Light;
+end
+
+procedure map_update_p_proc begin
+   if( elevation( dude_obj ) == 0 ) then
+      set_vault_city_wrong_place;
+
+   Full_Light;
+end

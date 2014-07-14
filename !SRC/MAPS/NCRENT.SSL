@@ -1,0 +1,148 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Ncr map Entrance
+        Location: NCR
+        Description: This is the Map Script for the Ncr map Entrance
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: April 14, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\ncrent.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_NCRENT
+
+#include "..\headers\command.h"
+
+export variable scmikey_inventory_box_obj   := 0;
+export variable scmikey_player_molest_stand := 0;
+export variable book_obj1     := 0;
+export variable book_obj2     := 0;
+export variable book_obj3     := 0;
+export variable book_obj_look := 0;
+export variable buster_obj    := 0;
+export variable playerTmpBox  := 0;
+export variable playerTmpBox2  := 0;
+export variable lenny_obj     := 0;
+export variable patrolGuard   := 0;
+export variable merk_obj      := 0;
+export variable merk_guard1_obj := 0; //added by killap
+export variable merk_guard2_obj := 0; //added by killap
+export variable merk_guard_count := 0;
+export variable merk_visible  := 0;
+export variable Field1a_Ptr   := 0;
+export variable i_guard_captain_obj := 0;
+export variable i_vortis_obj  := 0;
+export variable i_vortis_door := 0;
+
+/* Slave doors */
+   /* group 1*/
+export variable slvdor_g1d1 := 0;
+export variable slvdor_g1d2 := 0;
+export variable slvdor_g1d3 := 0;
+export variable slvdor_g1d4 := 0;
+   /* group 2 */
+export variable slvdor_g2d1 := 0;
+export variable slvdor_g2d2 := 0;
+export variable slvdor_g2d3 := 0;
+   /* group 3 */
+export variable slvdor_g3d1 := 0;
+export variable slvdor_g3d2 := 0;
+export variable slvdor_g3d3 := 0;
+   /* group 4 */
+export variable slvdor_g4d1 := 0;
+export variable slvdor_g4d2 := 0;
+export variable slvdor_g4d3 := 0;
+/* end slave doors */
+
+export variable i_entrace_emitter_obj := 0;
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure Initial_Inven;
+
+variable once;
+
+procedure start begin
+   if (not once) then begin
+      once := 1;
+      i_entrace_emitter_obj := -1;
+      i_guard_captain_obj := -1;
+      i_vortis_obj := -1;
+   end
+end
+
+#define ROPE_LOAD_POS 29903
+procedure map_enter_p_proc begin
+   if (global_var(GVAR_LOAD_MAP_INDEX) == 5) then begin
+      fadein(1);
+      set_global_var(GVAR_LOAD_MAP_INDEX, 0);
+      override_map_start_hex(ROPE_LOAD_POS,0,4);
+   end else begin
+      override_map_start_hex(20472,0,3);
+   end
+   if (map_first_run) then begin
+      display_msg(mstr(100)); //added by killap
+   end
+   
+   //added by killap - prevent car from disappearing if the car runs out of gas while on the town circle
+   if ((metarule(30, 0) == 21) and (cur_map_index != MAP_CAR_DESERT) and (car_out_of_fuel)) then begin
+      set_global_var(GVAR_CAR_PLACED_TILE, 0);
+      Create_Car(CAR_NCR_HEX,CAR_NCR_ELEV)
+      if (tile_contains_pid_obj(CAR_NCR_HEX, CAR_NCR_ELEV, PID_DRIVABLE_CAR) != 0) then begin
+         Create_Trunk(CAR_NCR_HEX,CAR_NCR_ELEV)
+      end 
+   end else 
+      Check_Create_Car(CAR_NCR_HEX, CAR_NCR_ELEV)
+   //end added
+   
+   //Check_Create_Car(CAR_NCR_HEX, CAR_NCR_ELEV)
+
+   //edit by killap
+   if( elevation( dude_obj ) == 1 ) then
+      Basement_Lighting;
+   else
+      Lighting;
+
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   
+end
+
+procedure map_update_p_proc begin
+   // Setting global for Stark's NCR recon in Vault City.
+   if( elevation( dude_obj ) == 0 ) then begin
+      if( global_var( GVAR_FINISHED_STARK_RECON ) == 0 ) then
+         set_global_var( GVAR_FINISHED_STARK_RECON, 1 );
+   end
+
+   //edit by killap
+   if( elevation( dude_obj ) == 1 ) then
+      Basement_Lighting;
+   else
+      Lighting;
+end
+
+
+procedure Initial_Inven begin
+end

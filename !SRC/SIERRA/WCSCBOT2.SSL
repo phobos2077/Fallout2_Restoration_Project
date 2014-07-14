@@ -1,0 +1,870 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\depolvb.h"
+#include "..\headers\depolva.h"
+
+#define NAME                    SCRIPT_WCSCBOT2
+
+#include "..\headers\command.h"
+
+#define PID_ROBO_ROCKETS                PID_ROBO_ROCKET_AMMO
+
+#define FLOAT_TIME_MIN                  (20)            // in seconds
+#define FLOAT_TIME_MAX                  (40)            // in seconds
+
+#define REQUEST_NONE                    (0)
+#define REQUEST_COMPLETE                (0)
+#define REQUEST_MADE                    (1)
+
+#define ROCKET_MIN                      (2)
+#define ROCKET_MAX                      (3)
+#define BULLETS_MIN                     (1)
+#define BULLETS_MAX                     (3)
+#define SHELLS_MIN                      (1)
+#define SHELLS_MAX                      (3)
+
+procedure start;
+procedure critter_p_proc;
+procedure talk_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure combat_p_proc;
+procedure damage_p_proc;
+procedure destroy_p_proc;
+procedure timed_event_p_proc;
+//procedure push_p_proc;
+
+procedure Security;
+procedure RepairMe;
+procedure AmmoReplacement;
+procedure Replace_Ammo_Type;
+procedure CheckRequest;
+
+procedure Set_Map_Info_1;
+procedure Set_Map_Info_2;
+procedure Set_Map_Info_3;
+procedure Set_Map_Info_4;
+procedure Set_Map_Info_5;
+procedure Set_Map_Info_6;
+procedure Set_Map_Info_7;
+procedure Set_Map_Info_8;
+procedure Set_Map_Info_9;
+procedure Set_Map_Info_10;
+procedure Set_Map_Info_11;
+procedure Set_Map_Info_12;
+
+#define LVAR_Timed_Event                (0)
+#define LVAR_Active                     (1)             // 0 == Active, 1 == Inactive
+#define LVAR_Gave_Exp                   (2)
+#define LVAR_Repair_Request             (3)
+#define LVAR_Have_Request_Num           (4)
+#define LVAR_Ammo_Rocket                (5)
+#define LVAR_Ammo_5mm                   (6)
+#define LVAR_Ammo_Shells                (7)
+#define LVAR_Initialized_Ammo           (8)
+
+variable Ammo_Type;
+variable Ammo_Difference;
+variable Repair_Counter;
+
+procedure start begin
+   variable Ammo1;
+   variable Ammo2;
+   variable Amount1;
+   variable Amount2;
+   variable Weapon1;
+   variable Weapon2;
+
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SIERRA_BASE);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SECURITY_BOT);
+
+   if (local_var(LVAR_Initialized_Ammo) == 0) then begin
+       set_local_var(LVAR_Initialized_Ammo,1);
+       if (obj_pid(self_obj) == PID_MISSILE_BOT) then begin
+           if (random(0,1) == 1) then begin
+               Ammo1:=create_object(PID_ROBO_ROCKETS,0,0);
+               Amount1:=random(ROCKET_MIN,ROCKET_MAX);
+
+               Weapon1:=create_object(PID_ROBO_ROCKET_LAUNCHER,0,0);
+
+               set_local_var(LVAR_Ammo_Rocket,Amount1);
+               set_local_var(LVAR_Ammo_5mm,-1);
+               set_local_var(LVAR_Ammo_Shells,-1);
+           end
+           else begin
+               Ammo1:=create_object(PID_5MM_AP,0,0);
+               Amount1:=random(BULLETS_MIN,BULLETS_MAX);
+
+               Weapon1:=create_object(PID_MINIGUN,0,0);
+
+               set_local_var(LVAR_Ammo_Rocket,-1);
+               set_local_var(LVAR_Ammo_5mm,Amount1);
+               set_local_var(LVAR_Ammo_Shells,-1);
+           end
+
+           add_mult_objs_to_inven(self_obj,Ammo1,Amount1);
+           add_mult_objs_to_inven(self_obj,Weapon1,1);
+       end
+       else if (obj_pid(self_obj) == PID_TOUGH_MISSILE_BOT) then begin
+           Ammo1:=create_object(PID_ROBO_ROCKETS,0,0);
+           Ammo2:=create_object(PID_5MM_AP,0,0);
+
+           Amount1:=random(ROCKET_MIN,ROCKET_MAX);
+           Amount2:=random(BULLETS_MIN,BULLETS_MAX);
+
+           Weapon1:=create_object(PID_MINIGUN,0,0);
+           Weapon2:=create_object(PID_ROBO_ROCKET_LAUNCHER,0,0);
+
+           add_mult_objs_to_inven(self_obj,Ammo1,Amount1);
+           add_mult_objs_to_inven(self_obj,Ammo2,Amount2);
+           add_mult_objs_to_inven(self_obj,Weapon1,1);
+           add_mult_objs_to_inven(self_obj,Weapon2,1);
+
+           set_local_var(LVAR_Ammo_Rocket,Amount1);
+           set_local_var(LVAR_Ammo_5mm,Amount2);
+           set_local_var(LVAR_Ammo_Shells,-1);
+       end
+       else if (obj_pid(self_obj) == PID_ROBOBRAIN) then begin
+           Ammo1:=create_object(PID_SHOTGUN_SHELLS,0,0);
+           Amount1:=random(SHELLS_MIN,SHELLS_MAX);
+
+           Weapon1:=create_object(PID_COMBAT_SHOTGUN,0,0);
+
+           add_mult_objs_to_inven(self_obj,Ammo1,Amount1);
+           add_mult_objs_to_inven(self_obj,Weapon1,1);
+
+           set_local_var(LVAR_Ammo_Rocket,-1);
+           set_local_var(LVAR_Ammo_5mm,-1);
+           set_local_var(LVAR_Ammo_Shells,Amount1);
+       end
+   end
+end
+
+procedure critter_p_proc begin
+
+   /*if (cur_map_index == MAP_SIERRA_123) then begin
+       if (tile_in_tile_rect(17910,17890,22310,22290,tile_num(self_obj))) then begin
+           if ((elevation(self_obj) == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 0)) then begin
+               set_obj_visibility(self_obj,1);      // invis
+           end
+           else if (elevation(self_obj) == LEVEL_ONE) then begin
+               set_obj_visibility(self_obj,0);      // vis
+           end
+       end
+       else if (tile_in_tile_rect(16280,16274,19880,19874,tile_num(self_obj))) then begin
+           if ((elevation(self_obj) == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 0)) then begin
+               set_obj_visibility(self_obj,1);      // invis
+           end
+           else if (elevation(self_obj) == LEVEL_THREE) then begin
+               set_obj_visibility(self_obj,0);      // vis
+           end
+       end
+       else begin
+           set_obj_visibility(self_obj,0);      // vis
+       end
+   end*/
+   
+   //new code - killap
+   /*if (cur_map_index == MAP_SIERRA_123) then begin
+       if (tile_in_tile_rect(17910,17890,19110,19090,tile_num(self_obj)) or tile_in_tile_rect(20702,20693,22302,22293,tile_num(self_obj))) then begin
+           if ((elevation(self_obj) == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 0)) then begin
+               set_obj_visibility(self_obj,1);      // invis
+           end
+           else if (elevation(self_obj) == LEVEL_ONE) then begin
+               set_obj_visibility(self_obj,0);      // vis
+           end
+       end
+       else if (tile_in_tile_rect(16280,16274,19880,19874,tile_num(self_obj))) then begin
+           if ((elevation(self_obj) == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 0)) then begin
+               set_obj_visibility(self_obj,1);      // invis
+           end
+           else if (elevation(self_obj) == LEVEL_THREE) then begin
+               set_obj_visibility(self_obj,0);      // vis
+           end
+       end
+       else begin
+           set_obj_visibility(self_obj,0);      // vis
+       end
+   end else if (cur_map_index == MAP_SIERRA_4) then begin
+       if (tile_in_tile_rect(20290,20274,21490,21474,tile_num(self_obj))) then begin
+          if (map_var(MVAR_Security_Level_4) == 0) then begin
+               set_obj_visibility(self_obj,1);      // invis
+          end else begin
+               set_obj_visibility(self_obj,0);      // vis
+          end
+       end
+       else begin
+           set_obj_visibility(self_obj,0);      // vis
+       end
+   end */
+   //end killap
+
+   if ((global_var(GVAR_SIERRA_BASE_ENEMY) == 0) and (tile_in_tile_rect(16280,16274,19880,19874,tile_num(self_obj))) and ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4))) then begin
+   end
+   else
+       call Security;
+
+   Repair_Counter+=1;
+   if (((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4)) and (Repair_Counter == 40)) then begin
+       Repair_Counter:=0;
+       call RepairMe;
+   end
+
+   if ((local_var(LVAR_Initialized_Ammo) != 0) and ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4))) then begin
+       call AmmoReplacement;
+   end
+
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then begin
+       set_local_var(LVAR_Timed_Event,0);
+       if( self_visible ) then //added by killap
+         floater(random(105,108));
+   end
+end
+
+procedure talk_p_proc begin
+   script_overrides;
+
+   if ((global_var(GVAR_SIERRA_BASE_SECURITY) == SIERRA_SECURITY_OFF) or
+       (local_var(LVAR_Active) == 1)) then begin
+       display_msg(mstr(104));
+   end
+   else if (global_var(GVAR_SIERRA_BASE_SECURITY) == SIERRA_SECURITY_ON) then begin
+       display_msg(mstr(103));
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   variable Skill;
+   variable cur_hp;
+   variable max_hp;
+
+   Skill:=action_being_used;
+
+   if (Skill == SKILL_REPAIR) then begin
+       if (skill_success(dude_obj,skill,-40)) then begin
+           script_overrides;
+           display_msg(mstr(150));
+           if (local_var(LVAR_Gave_Exp) == 0) then begin
+               set_local_var(LVAR_Gave_Exp,1);
+               give_xp(EXP_DISABLE_ROBOT);
+           end
+           set_local_var(LVAR_Active,1);
+       end
+       else begin
+           cur_hp:=get_critter_stat(self_obj,STAT_current_hp);
+           max_hp:=get_critter_stat(self_obj,STAT_max_hp);
+           display_msg(mstr(151));
+           critter_heal(self_obj,max_hp-cur_hp);
+           if (local_var(LVAR_Gave_Exp) == 0) then begin
+               set_local_var(LVAR_Gave_Exp,1);
+               give_xp(EXP_REPAIR_NEG_40);
+           end
+       end
+   end
+
+   else if (Skill == SKILL_STEAL) then begin
+       script_overrides;
+   end
+
+end
+
+procedure use_obj_on_p_proc begin
+   variable Tool;
+   variable cur_hp;
+   variable max_hp;
+
+   //Tool:=obj_being_used_with; //comment out by killap
+   Tool:=obj_pid(obj_being_used_with); //edit by killap
+
+   if ((Tool == PID_MULTI_TOOL) or (Tool == PID_SUPER_TOOL_KIT)) then begin //added super_tool_kit - killap
+       if (skill_success(dude_obj,SKILL_REPAIR,(-20 + ((obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT) * 20)))) then begin //edit by killap - + ((obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT) * 20)
+           script_overrides;
+           display_msg(mstr(150));
+           if (local_var(LVAR_Gave_Exp) == 0) then begin
+               set_local_var(LVAR_Gave_Exp,1);
+               give_xp(EXP_DISABLE_ROBOT);
+           end
+           set_local_var(LVAR_Active,1);
+       end
+       else begin
+           cur_hp:=get_critter_stat(self_obj,STAT_current_hp);
+           max_hp:=get_critter_stat(self_obj,STAT_max_hp);
+           display_msg(mstr(151));
+           critter_heal(self_obj,max_hp-cur_hp);
+           if (local_var(LVAR_Gave_Exp) == 0) then begin
+               set_local_var(LVAR_Gave_Exp,1);
+               give_xp(EXP_REPAIR_NEG_40);
+           end
+       end
+   end
+end
+
+procedure combat_p_proc begin
+   //added by killap
+   if ((fixed_param == COMBAT_SUBTYPE_TURN) and (local_var(LVAR_Active) == 1)) then begin
+       script_overrides;
+       debug_msg("I am disabled and won't attack!");
+   end
+   //end added
+end 
+
+procedure damage_p_proc begin
+   if (local_var(LVAR_Active) == 0) then begin //added check - killap
+      set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+      if ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4)) then begin
+         if (cur_map_index == MAP_SIERRA_4) then begin
+           set_map_var(MVAR_Security_Level_4,1);
+         end
+         else if (elevation(self_obj) == LEVEL_ONE) then begin
+           set_map_var(MVAR_Security_Level_1,1);
+         end
+         else if (elevation(self_obj) == LEVEL_TWO) then begin
+           set_map_var(MVAR_Security_Level_2,1);
+         end
+         else if (elevation(self_obj) == LEVEL_THREE) then begin
+           set_map_var(MVAR_Security_Level_3,1);
+         end
+      end
+   end
+end
+
+procedure destroy_p_proc begin
+
+   if (((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4)) and (map_var(MVAR_Repair_Request1) != -1)) then begin
+       if (map_var(MVAR_Repair_Request1) == REPAIR_NONE) then begin
+           call Set_Map_Info_1;
+           set_map_var(MVAR_Repair_Request1,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 1");
+       end
+       else if (map_var(MVAR_Repair_Request2) == REPAIR_NONE) then begin
+           call Set_Map_Info_2;
+           set_map_var(MVAR_Repair_Request2,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 2");
+       end
+       else if (map_var(MVAR_Repair_Request3) == REPAIR_NONE) then begin
+           call Set_Map_Info_3;
+           set_map_var(MVAR_Repair_Request3,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 3");
+       end
+       else if (map_var(MVAR_Repair_Request4) == REPAIR_NONE) then begin
+           call Set_Map_Info_4;
+           set_map_var(MVAR_Repair_Request4,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 4");
+       end
+       else if (map_var(MVAR_Repair_Request5) == REPAIR_NONE) then begin
+           call Set_Map_Info_5;
+           set_map_var(MVAR_Repair_Request5,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 5");
+       end
+       else if (map_var(MVAR_Repair_Request6) == REPAIR_NONE) then begin
+           call Set_Map_Info_6;
+           set_map_var(MVAR_Repair_Request6,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 6");
+       end
+       else if (map_var(MVAR_Repair_Request7) == REPAIR_NONE) then begin
+           call Set_Map_Info_7;
+           set_map_var(MVAR_Repair_Request7,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 7");
+       end
+       else if (map_var(MVAR_Repair_Request8) == REPAIR_NONE) then begin
+           call Set_Map_Info_8;
+           set_map_var(MVAR_Repair_Request8,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 8");
+       end
+       else if (map_var(MVAR_Repair_Request9) == REPAIR_NONE) then begin
+           call Set_Map_Info_9;
+           set_map_var(MVAR_Repair_Request9,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 9");
+       end
+       else if (map_var(MVAR_Repair_Request10) == REPAIR_NONE) then begin
+           call Set_Map_Info_10;
+           set_map_var(MVAR_Repair_Request10,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 10");
+       end
+       else if (map_var(MVAR_Repair_Request11) == REPAIR_NONE) then begin
+           call Set_Map_Info_11;
+           set_map_var(MVAR_Repair_Request11,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 11");
+       end
+       else if (map_var(MVAR_Repair_Request12) == REPAIR_NONE) then begin
+           call Set_Map_Info_12;
+           set_map_var(MVAR_Repair_Request12,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 12");
+       end       
+       else if (map_var(MVAR_Repair_Request1) < REPAIR_PICKUP) then begin
+           call Set_Map_Info_1;
+           set_map_var(MVAR_Repair_Request1,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 1");
+       end
+       else if (map_var(MVAR_Repair_Request2) < REPAIR_PICKUP) then begin
+           call Set_Map_Info_2;
+           set_map_var(MVAR_Repair_Request2,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 2");
+       end
+       else if (map_var(MVAR_Repair_Request3) < REPAIR_PICKUP) then begin
+           call Set_Map_Info_3;
+           set_map_var(MVAR_Repair_Request3,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 3");
+       end
+       else if (map_var(MVAR_Repair_Request4) < REPAIR_PICKUP) then begin
+           call Set_Map_Info_4;
+           set_map_var(MVAR_Repair_Request4,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 4");
+       end
+       else if (map_var(MVAR_Repair_Request5) < REPAIR_PICKUP) then begin
+           call Set_Map_Info_5;
+           set_map_var(MVAR_Repair_Request5,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 5");
+       end
+       else if (map_var(MVAR_Repair_Request6) < REPAIR_PICKUP) then begin
+           call Set_Map_Info_6;
+           set_map_var(MVAR_Repair_Request6,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 6");
+       end
+       else if (map_var(MVAR_Repair_Request7) < REPAIR_PICKUP) then begin
+           call Set_Map_Info_7;
+           set_map_var(MVAR_Repair_Request7,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 7");
+       end
+       else if (map_var(MVAR_Repair_Request8) < REPAIR_PICKUP) then begin
+           call Set_Map_Info_8;
+           set_map_var(MVAR_Repair_Request8,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 8");
+       end
+       else if (map_var(MVAR_Repair_Request9) < REPAIR_PICKUP) then begin
+           call Set_Map_Info_9;
+           set_map_var(MVAR_Repair_Request9,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 9");
+       end
+       else if (map_var(MVAR_Repair_Request10) < REPAIR_PICKUP) then begin
+           call Set_Map_Info_10;
+           set_map_var(MVAR_Repair_Request10,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 10");
+       end       
+       else if (map_var(MVAR_Repair_Request11) < REPAIR_PICKUP) then begin
+           call Set_Map_Info_11;
+           set_map_var(MVAR_Repair_Request11,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 11");
+       end       
+       else if (map_var(MVAR_Repair_Request12) < REPAIR_PICKUP) then begin
+           call Set_Map_Info_12;
+           set_map_var(MVAR_Repair_Request12,REPAIR_PICKUP);
+           debug_msg("Pickup on Unit 12");
+       end                      
+   end
+
+end
+
+procedure RepairMe begin
+   variable max_hp;
+   variable cur_hp;
+
+   cur_hp:=get_critter_stat(self_obj,STAT_current_hp);
+   max_hp:=get_critter_stat(self_obj,STAT_max_hp);
+
+   call CheckRequest;
+
+   if ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4)) then begin
+       if ((max_hp > cur_hp) and (local_var(LVAR_Repair_Request) == REQUEST_NONE) and (map_var(MVAR_Free_Bots) != 0)) then begin
+
+           debug_msg("Send Repair Bot to section "+tile_num(self_obj)+" on level "+elevation(self_obj)+".");
+
+           if (map_var(MVAR_Repair_Request1) == REPAIR_NONE) then begin
+               call Set_Map_Info_1;
+               set_map_var(MVAR_Repair_Request1,REPAIR_REQUEST);
+           end
+           else if (map_var(MVAR_Repair_Request2) == REPAIR_NONE) then begin
+               call Set_Map_Info_2;
+               set_map_var(MVAR_Repair_Request2,REPAIR_REQUEST);
+           end
+           else if (map_var(MVAR_Repair_Request3) == REPAIR_NONE) then begin
+               call Set_Map_Info_3;
+               set_map_var(MVAR_Repair_Request3,REPAIR_REQUEST);
+           end
+           else if (map_var(MVAR_Repair_Request4) == REPAIR_NONE) then begin
+               call Set_Map_Info_4;
+               set_map_var(MVAR_Repair_Request4,REPAIR_REQUEST);
+           end
+           else if (map_var(MVAR_Repair_Request5) == REPAIR_NONE) then begin
+               call Set_Map_Info_5;
+               set_map_var(MVAR_Repair_Request5,REPAIR_REQUEST);
+           end
+           else if (map_var(MVAR_Repair_Request6) == REPAIR_NONE) then begin
+               call Set_Map_Info_6;
+               set_map_var(MVAR_Repair_Request6,REPAIR_REQUEST);
+           end
+           else if (map_var(MVAR_Repair_Request7) == REPAIR_NONE) then begin
+               call Set_Map_Info_7;
+               set_map_var(MVAR_Repair_Request7,REPAIR_REQUEST);
+           end           
+           else if (map_var(MVAR_Repair_Request8) == REPAIR_NONE) then begin
+               call Set_Map_Info_8;
+               set_map_var(MVAR_Repair_Request8,REPAIR_REQUEST);
+           end
+           else if (map_var(MVAR_Repair_Request9) == REPAIR_NONE) then begin
+               call Set_Map_Info_9;
+               set_map_var(MVAR_Repair_Request9,REPAIR_REQUEST);
+           end
+           else if (map_var(MVAR_Repair_Request10) == REPAIR_NONE) then begin
+               call Set_Map_Info_10;
+               set_map_var(MVAR_Repair_Request10,REPAIR_REQUEST);
+           end
+           else if (map_var(MVAR_Repair_Request11) == REPAIR_NONE) then begin
+               call Set_Map_Info_11;
+               set_map_var(MVAR_Repair_Request11,REPAIR_REQUEST);
+           end
+           else if (map_var(MVAR_Repair_Request12) == REPAIR_NONE) then begin
+               call Set_Map_Info_12;
+               set_map_var(MVAR_Repair_Request12,REPAIR_REQUEST);
+           end
+           
+       end
+
+       else if (max_hp == cur_hp) then begin
+           set_local_var(LVAR_Repair_Request,REQUEST_COMPLETE);
+           set_local_var(LVAR_Have_Request_Num,0);
+       end
+   end
+end
+
+procedure Security begin
+   if ((global_var(GVAR_SIERRA_BASE_SECURITY) == SIERRA_SECURITY_ON) and (local_var(LVAR_Active) == 0)) then begin
+       if ((obj_can_see_obj(self_obj,dude_obj)) and ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4))) then begin
+           if ((elevation(self_obj) == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 1)) then begin
+               attack(dude_obj);
+           end
+           else if ((elevation(self_obj) == LEVEL_TWO) and (map_var(MVAR_Security_Level_2) == 1)) then begin
+               attack(dude_obj);
+           end
+           else if ((elevation(self_obj) == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 1)) then begin
+               attack(dude_obj);
+           end
+           //else if ((cur_map_index == MAP_SIERRA_4) and (global_var(GVAR_SIERRA_BASE_ALERT) == 1)) then begin
+           else if ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1)) then begin
+               //set_map_var(MVAR_Security_Level_4,1);
+               attack(dude_obj);
+           end
+       end
+       else if ((get_critter_stat(self_obj,STAT_current_hp) == get_critter_stat(self_obj,STAT_max_hp)) and
+                ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4))) then begin
+           if (elevation(self_obj) == elevation(dude_obj)) then begin
+               if ((elevation(self_obj) == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 1)) then
+                   animate_move_to_tile(tile_num_in_direction(tile_num(dude_obj),random(0,5),random(1,5)));
+               else if ((elevation(self_obj) == LEVEL_TWO) and (map_var(MVAR_Security_Level_2) == 1)) then
+                   animate_move_to_tile(tile_num_in_direction(tile_num(dude_obj),random(0,5),random(1,5)));
+               else if ((elevation(self_obj) == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 1)) then
+                   animate_move_to_tile(tile_num_in_direction(tile_num(dude_obj),random(0,5),random(1,5)));
+               //else if ((cur_map_index == MAP_SIERRA_4) and (global_var(GVAR_SIERRA_BASE_ALERT) == 1)) then
+               else if ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1)) then
+                   animate_move_to_tile(tile_num_in_direction(tile_num(dude_obj),random(0,5),random(1,5)));
+           end
+           else if ( (cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4) )then begin //edit by killap - or (cur_map_index == MAP_SIERRA_4)
+               if ((elevation(self_obj) == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 1)) then
+                   animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(3,6)));
+               else if ((elevation(self_obj) == LEVEL_TWO) and (map_var(MVAR_Security_Level_2) == 1)) then
+                   animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(3,6)));
+               else if ((elevation(self_obj) == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 1)) then
+                   animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(3,6)));
+               //else if ((cur_map_index == MAP_SIERRA_4) and (global_var(GVAR_SIERRA_BASE_ALERT) == 1)) then
+               else if ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1)) then
+                   animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(3,6)));
+           end
+
+           if ( (cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4) ) then begin //edit by killap - or (cur_map_index == MAP_SIERRA_4)
+               if ((elevation(self_obj) == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 1) and (local_var(LVAR_Timed_Event) == 0)) then begin
+                   set_local_var(LVAR_Timed_Event,1);
+                   add_timer_event(self_obj,game_ticks(random(FLOAT_TIME_MIN,FLOAT_TIME_MAX)),1);
+               end
+               else if ((elevation(self_obj) == LEVEL_TWO) and (map_var(MVAR_Security_Level_2) == 1) and (local_var(LVAR_Timed_Event) == 0)) then begin
+                   set_local_var(LVAR_Timed_Event,1);
+                   add_timer_event(self_obj,game_ticks(random(FLOAT_TIME_MIN,FLOAT_TIME_MAX)),1);
+               end
+               else if ((elevation(self_obj) == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 1) and (local_var(LVAR_Timed_Event) == 0)) then begin
+                   set_local_var(LVAR_Timed_Event,1);
+                   add_timer_event(self_obj,game_ticks(random(FLOAT_TIME_MIN,FLOAT_TIME_MAX)),1);
+               end
+               //else if ((cur_map_index == MAP_SIERRA_4) and (global_var(GVAR_SIERRA_BASE_ALERT) == 1)) then begin
+               else if ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1) and (local_var(LVAR_Timed_Event) == 0)) then begin //edit by killap - added (local_var(LVAR_Timed_Event) == 0)
+                   set_local_var(LVAR_Timed_Event,1);
+                   add_timer_event(self_obj,game_ticks(random(FLOAT_TIME_MIN,FLOAT_TIME_MAX)),1);
+               end
+           end
+       end
+   end
+end
+
+procedure CheckRequest begin
+   if ((local_var(LVAR_Have_Request_Num) == 1) and (map_var(MVAR_Repair_Request1) == REPAIR_DESTROYED)) then begin
+       set_local_var(LVAR_Repair_Request,REQUEST_NONE);
+   end
+   else if ((local_var(LVAR_Have_Request_Num) == 2) and (map_var(MVAR_Repair_Request2) == REPAIR_DESTROYED)) then begin
+       set_local_var(LVAR_Repair_Request,REQUEST_NONE);
+   end
+   else if ((local_var(LVAR_Have_Request_Num) == 3) and (map_var(MVAR_Repair_Request3) == REPAIR_DESTROYED)) then begin
+       set_local_var(LVAR_Repair_Request,REQUEST_NONE);
+   end
+   else if ((local_var(LVAR_Have_Request_Num) == 4) and (map_var(MVAR_Repair_Request4) == REPAIR_DESTROYED)) then begin
+       set_local_var(LVAR_Repair_Request,REQUEST_NONE);
+   end
+   else if ((local_var(LVAR_Have_Request_Num) == 5) and (map_var(MVAR_Repair_Request5) == REPAIR_DESTROYED)) then begin
+       set_local_var(LVAR_Repair_Request,REQUEST_NONE);
+   end
+   else if ((local_var(LVAR_Have_Request_Num) == 6) and (map_var(MVAR_Repair_Request6) == REPAIR_DESTROYED)) then begin
+       set_local_var(LVAR_Repair_Request,REQUEST_NONE);
+   end
+   else if ((local_var(LVAR_Have_Request_Num) == 7) and (map_var(MVAR_Repair_Request7) == REPAIR_DESTROYED)) then begin
+       set_local_var(LVAR_Repair_Request,REQUEST_NONE);
+   end
+   else if ((local_var(LVAR_Have_Request_Num) == 8) and (map_var(MVAR_Repair_Request8) == REPAIR_DESTROYED)) then begin
+       set_local_var(LVAR_Repair_Request,REQUEST_NONE);
+   end
+   else if ((local_var(LVAR_Have_Request_Num) == 9) and (map_var(MVAR_Repair_Request9) == REPAIR_DESTROYED)) then begin
+       set_local_var(LVAR_Repair_Request,REQUEST_NONE);
+   end
+   else if ((local_var(LVAR_Have_Request_Num) == 10) and (map_var(MVAR_Repair_Request10) == REPAIR_DESTROYED)) then begin
+       set_local_var(LVAR_Repair_Request,REQUEST_NONE);
+   end
+   else if ((local_var(LVAR_Have_Request_Num) == 11) and (map_var(MVAR_Repair_Request11) == REPAIR_DESTROYED)) then begin
+       set_local_var(LVAR_Repair_Request,REQUEST_NONE);
+   end
+   else if ((local_var(LVAR_Have_Request_Num) == 12) and (map_var(MVAR_Repair_Request12) == REPAIR_DESTROYED)) then begin
+       set_local_var(LVAR_Repair_Request,REQUEST_NONE);
+   end
+
+end
+
+procedure AmmoReplacement begin
+   variable Ammo;
+   variable Current_Count;
+
+   if (local_var(LVAR_Ammo_Rocket) != -1) then begin
+       Current_Count:=local_var(LVAR_Ammo_Rocket)/2;
+       if (obj_is_carrying_obj_pid(self_obj,PID_ROBO_ROCKETS) < (Current_Count)) then begin
+           Ammo_Difference:=local_var(LVAR_Ammo_Rocket) - obj_is_carrying_obj_pid(self_obj,PID_ROBO_ROCKETS);
+           Ammo_Type:=PID_ROBO_ROCKETS;
+           call Replace_Ammo_Type;
+       end
+   end
+
+   else if (local_var(LVAR_Ammo_5mm) != -1) then begin
+       Current_Count:=local_var(LVAR_Ammo_5mm)/2;
+       if (obj_is_carrying_obj_pid(self_obj,PID_5MM_AP) < (Current_Count)) then begin
+           Ammo_Difference:=local_var(LVAR_Ammo_5mm) - obj_is_carrying_obj_pid(self_obj,PID_5MM_AP);
+           Ammo_Type:=PID_5MM_AP;
+           call Replace_Ammo_Type;
+       end
+   end
+
+   else if (local_var(LVAR_Ammo_Shells) != -1) then begin
+       Current_Count:=local_var(LVAR_Ammo_Shells)/2;
+       if (obj_is_carrying_obj_pid(self_obj,PID_SHOTGUN_SHELLS) < (Current_Count)) then begin
+           Ammo_Difference:=local_var(LVAR_Ammo_Shells) - obj_is_carrying_obj_pid(self_obj,PID_SHOTGUN_SHELLS);
+           Ammo_Type:=PID_SHOTGUN_SHELLS;
+           call Replace_Ammo_Type;
+       end
+   end
+end
+
+procedure Replace_Ammo_Type begin
+
+   if ((local_var(LVAR_Repair_Request) == REQUEST_NONE) and (map_var(MVAR_Free_Bots) != 0)) then begin
+       if (map_var(MVAR_Repair_Request1) == REPAIR_NONE) then begin
+           call Set_Map_Info_1;
+           set_map_var(MVAR_Repair_Request1,REPAIR_REQUEST);
+           set_map_var(MVAR_Ammo_Request_1a,Ammo_Type);
+           set_map_var(MVAR_Ammo_Request_1b,Ammo_Difference);
+       end
+       else if (map_var(MVAR_Repair_Request2) == REPAIR_NONE) then begin
+           call Set_Map_Info_2;
+           set_map_var(MVAR_Repair_Request2,REPAIR_REQUEST);
+           set_map_var(MVAR_Ammo_Request_2a,Ammo_Type);
+           set_map_var(MVAR_Ammo_Request_2b,Ammo_Difference);
+       end
+       else if (map_var(MVAR_Repair_Request3) == REPAIR_NONE) then begin
+           call Set_Map_Info_3;
+           set_map_var(MVAR_Repair_Request3,REPAIR_REQUEST);
+           set_map_var(MVAR_Ammo_Request_3a,Ammo_Type);
+           set_map_var(MVAR_Ammo_Request_3b,Ammo_Difference);
+       end
+       else if (map_var(MVAR_Repair_Request4) == REPAIR_NONE) then begin
+           call Set_Map_Info_4;
+           set_map_var(MVAR_Repair_Request4,REPAIR_REQUEST);
+           set_map_var(MVAR_Ammo_Request_4a,Ammo_Type);
+           set_map_var(MVAR_Ammo_Request_4b,Ammo_Difference);
+       end
+       else if (map_var(MVAR_Repair_Request5) == REPAIR_NONE) then begin
+           call Set_Map_Info_5;
+           set_map_var(MVAR_Repair_Request5,REPAIR_REQUEST);
+           set_map_var(MVAR_Ammo_Request_5a,Ammo_Type);
+           set_map_var(MVAR_Ammo_Request_5b,Ammo_Difference);
+       end
+       else if (map_var(MVAR_Repair_Request6) == REPAIR_NONE) then begin
+           call Set_Map_Info_6;
+           set_map_var(MVAR_Repair_Request6,REPAIR_REQUEST);
+           set_map_var(MVAR_Ammo_Request_6a,Ammo_Type);
+           set_map_var(MVAR_Ammo_Request_6b,Ammo_Difference);
+       end
+       else if (map_var(MVAR_Repair_Request7) == REPAIR_NONE) then begin
+           call Set_Map_Info_7;
+           set_map_var(MVAR_Repair_Request7,REPAIR_REQUEST);
+           set_map_var(MVAR_Ammo_Request_7a,Ammo_Type);
+           set_map_var(MVAR_Ammo_Request_7b,Ammo_Difference);
+       end       
+       else if (map_var(MVAR_Repair_Request8) == REPAIR_NONE) then begin
+           call Set_Map_Info_8;
+           set_map_var(MVAR_Repair_Request8,REPAIR_REQUEST);
+           set_map_var(MVAR_Ammo_Request_8a,Ammo_Type);
+           set_map_var(MVAR_Ammo_Request_8b,Ammo_Difference);
+       end       
+       else if (map_var(MVAR_Repair_Request9) == REPAIR_NONE) then begin
+           call Set_Map_Info_9;
+           set_map_var(MVAR_Repair_Request9,REPAIR_REQUEST);
+           set_map_var(MVAR_Ammo_Request_9a,Ammo_Type);
+           set_map_var(MVAR_Ammo_Request_9b,Ammo_Difference);
+       end
+       else if (map_var(MVAR_Repair_Request10) == REPAIR_NONE) then begin
+           call Set_Map_Info_10;
+           set_map_var(MVAR_Repair_Request10,REPAIR_REQUEST);
+           set_map_var(MVAR_Ammo_Request_10a,Ammo_Type);
+           set_map_var(MVAR_Ammo_Request_10b,Ammo_Difference);
+       end
+       else if (map_var(MVAR_Repair_Request11) == REPAIR_NONE) then begin
+           call Set_Map_Info_11;
+           set_map_var(MVAR_Repair_Request11,REPAIR_REQUEST);
+           set_map_var(MVAR_Ammo_Request_11a,Ammo_Type);
+           set_map_var(MVAR_Ammo_Request_11b,Ammo_Difference);
+       end
+       else if (map_var(MVAR_Repair_Request12) == REPAIR_NONE) then begin
+           call Set_Map_Info_12;
+           set_map_var(MVAR_Repair_Request12,REPAIR_REQUEST);
+           set_map_var(MVAR_Ammo_Request_12a,Ammo_Type);
+           set_map_var(MVAR_Ammo_Request_12b,Ammo_Difference);
+       end
+       
+   end
+end
+
+procedure Set_Map_Info_1 begin
+   set_local_var(LVAR_Have_Request_Num,1);
+   set_local_var(LVAR_Repair_Request,REQUEST_MADE);
+   set_map_var(MVAR_Pid_Request1,obj_pid(self_obj));
+   set_map_var(MVAR_Elevation_Request1,elevation(self_obj));
+   set_map_var(MVAR_Tile_Request1,tile_num(self_obj));
+end
+
+procedure Set_Map_Info_2 begin
+   set_local_var(LVAR_Have_Request_Num,2);
+   set_local_var(LVAR_Repair_Request,REQUEST_MADE);
+   set_map_var(MVAR_Pid_Request2,obj_pid(self_obj));
+   set_map_var(MVAR_Elevation_Request2,elevation(self_obj));
+   set_map_var(MVAR_Tile_Request2,tile_num(self_obj));
+end
+
+procedure Set_Map_Info_3 begin
+   set_local_var(LVAR_Have_Request_Num,3);
+   set_local_var(LVAR_Repair_Request,REQUEST_MADE);
+   set_map_var(MVAR_Pid_Request3,obj_pid(self_obj));
+   set_map_var(MVAR_Elevation_Request3,elevation(self_obj));
+   set_map_var(MVAR_Tile_Request3,tile_num(self_obj));
+end
+
+procedure Set_Map_Info_4 begin
+   set_local_var(LVAR_Have_Request_Num,4);
+   set_local_var(LVAR_Repair_Request,REQUEST_MADE);
+   set_map_var(MVAR_Pid_Request4,obj_pid(self_obj));
+   set_map_var(MVAR_Elevation_Request4,elevation(self_obj));
+   set_map_var(MVAR_Tile_Request4,tile_num(self_obj));
+end
+
+procedure Set_Map_Info_5 begin
+   set_local_var(LVAR_Have_Request_Num,5);
+   set_local_var(LVAR_Repair_Request,REQUEST_MADE);
+   set_map_var(MVAR_Pid_Request5,obj_pid(self_obj));
+   set_map_var(MVAR_Elevation_Request5,elevation(self_obj));
+   set_map_var(MVAR_Tile_Request5,tile_num(self_obj));
+end
+
+procedure Set_Map_Info_6 begin
+   set_local_var(LVAR_Have_Request_Num,6);
+   set_local_var(LVAR_Repair_Request,REQUEST_MADE);
+   set_map_var(MVAR_Pid_Request6,obj_pid(self_obj));
+   set_map_var(MVAR_Elevation_Request6,elevation(self_obj));
+   set_map_var(MVAR_Tile_Request6,tile_num(self_obj));
+end
+
+procedure Set_Map_Info_7 begin
+   set_local_var(LVAR_Have_Request_Num,7);
+   set_local_var(LVAR_Repair_Request,REQUEST_MADE);
+   set_map_var(MVAR_Pid_Request7,obj_pid(self_obj));
+   set_map_var(MVAR_Elevation_Request7,elevation(self_obj));
+   set_map_var(MVAR_Tile_Request7,tile_num(self_obj));
+end
+
+procedure Set_Map_Info_8 begin
+   set_local_var(LVAR_Have_Request_Num,8);
+   set_local_var(LVAR_Repair_Request,REQUEST_MADE);
+   set_map_var(MVAR_Pid_Request8,obj_pid(self_obj));
+   set_map_var(MVAR_Elevation_Request8,elevation(self_obj));
+   set_map_var(MVAR_Tile_Request8,tile_num(self_obj));
+end
+
+procedure Set_Map_Info_9 begin
+   set_local_var(LVAR_Have_Request_Num,9);
+   set_local_var(LVAR_Repair_Request,REQUEST_MADE);
+   set_map_var(MVAR_Pid_Request9,obj_pid(self_obj));
+   set_map_var(MVAR_Elevation_Request9,elevation(self_obj));
+   set_map_var(MVAR_Tile_Request9,tile_num(self_obj));
+end
+
+procedure Set_Map_Info_10 begin
+   set_local_var(LVAR_Have_Request_Num,10);
+   set_local_var(LVAR_Repair_Request,REQUEST_MADE);
+   set_map_var(MVAR_Pid_Request10,obj_pid(self_obj));
+   set_map_var(MVAR_Elevation_Request10,elevation(self_obj));
+   set_map_var(MVAR_Tile_Request10,tile_num(self_obj));
+end
+
+procedure Set_Map_Info_11 begin
+   set_local_var(LVAR_Have_Request_Num,11);
+   set_local_var(LVAR_Repair_Request,REQUEST_MADE);
+   set_map_var(MVAR_Pid_Request11,obj_pid(self_obj));
+   set_map_var(MVAR_Elevation_Request11,elevation(self_obj));
+   set_map_var(MVAR_Tile_Request11,tile_num(self_obj));
+end
+
+procedure Set_Map_Info_12 begin
+   set_local_var(LVAR_Have_Request_Num,12);
+   set_local_var(LVAR_Repair_Request,REQUEST_MADE);
+   set_map_var(MVAR_Pid_Request12,obj_pid(self_obj));
+   set_map_var(MVAR_Elevation_Request12,elevation(self_obj));
+   set_map_var(MVAR_Tile_Request12,tile_num(self_obj));
+end

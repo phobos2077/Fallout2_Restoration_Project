@@ -1,0 +1,255 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Porn Actress
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: April 25, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCACTRES
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure map_update_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                     (0)
+
+#define hidden_for_fight_bit           bit_10
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+import variable new_reno_porn_actress_obj;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if ((combat_is_initialized == false) and (self_visible) and (making_porn == false)) then begin
+      if ((self_can_see_dude) and (self_distance_from_dude <= 3)) then begin
+         if (enclave_destroyed) then begin
+            if (dude_is_female) then begin
+               call Node002;
+            end else begin
+               call Node001;
+            end
+         end else if (dude_wearing_power_armor) then begin
+            call Node003;
+         end else if (dude_has_porn_star_rep) then begin
+            call Node004;
+         end else if (dude_is_prizefighter) then begin
+            call Node005;
+         end else if (dude_is_made_man) then begin
+            call Node006;
+         end else begin
+            call Node007;
+         end
+      end
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_PORNO_STUDIO);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+procedure map_update_p_proc begin
+   check_hide_durring_boxing_fight
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (hostile or porn_studio_hostile) then begin
+         self_attack_dude;
+      end else set_new_reno_watcher(new_reno_porn_actress_obj)
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      set_porn_studio_hostile;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_hostile;
+   end
+end
+
+procedure talk_p_proc begin
+   if (dude_is_female) then begin
+      if (enclave_destroyed) then begin
+         call Node002;
+      end else if (dude_wearing_power_armor) then begin
+         call Node008;
+      end else if (dude_has_porn_star_rep) then begin
+         call Node010;
+      end else if ((dude_is_prizefighter) or (dude_is_made_man)) then begin
+         call Node012;
+      end else if (dude_wearing_leather_armor) then begin
+         call Node013;
+      end else begin
+         call Node014;
+      end
+   end else begin
+      if (enclave_destroyed) then begin
+         call Node001;
+      end else if (dude_wearing_power_armor) then begin
+         call Node008;
+      end else if (dude_has_porn_star_rep) then begin
+         call Node009;
+      end else if ((dude_is_prizefighter) or (dude_is_made_man)) then begin
+         call Node011;
+      end else if (dude_wearing_leather_armor) then begin
+         call Node013;
+      end else begin
+         call Node014;
+      end
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (examined) then begin
+      display_mstr_rand(151, 152);
+   end else begin
+      display_mstr(150);
+   end
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+#define is_insert_message(x)  ((x == 230) or (x == 231) or  \
+                               (x == 250) or (x == 265) or  \
+                               (x == 305) or (x == 350) or  \
+                               (x == 367))
+procedure floater_rand_with_check_cust(variable x, variable y, variable z) begin
+variable the_msg;
+variable the_patch;
+   the_msg := random(x, y);
+   if (is_insert_message(the_msg)) then begin
+      if (the_msg == 350) then begin
+         the_patch := prizefighter_name;
+      end else if (the_msg == 367) then begin
+         the_patch := made_man_name;
+      end else begin
+         the_patch := z;
+      end
+      float_msg(self_obj, mstr(the_msg) + the_patch + mstr(the_msg + 1000), FLOAT_COLOR_NORMAL);
+   end else
+      floater(the_msg);
+end
+
+procedure Node001 begin
+   floater_rand(200,203);
+end
+procedure Node002 begin
+   floater_rand(210,212);
+end
+procedure Node003 begin
+   floater_rand(220,222);
+end
+procedure Node004 begin
+   call floater_rand_with_check_cust(233-(3*dude_is_male), 238+(6*dude_is_female), porn_star_name);
+end
+procedure Node005 begin
+   call floater_rand_with_check_cust(256-(6*dude_is_male), 260, prizefighter_name);
+end
+procedure Node006 begin
+   call floater_rand_with_check_cust(271-(6*dude_is_male), 275, made_man_name);
+end
+procedure Node007 begin
+   floater_rand(280,288+(2*dude_is_female));
+end
+procedure Node008 begin
+   floater_rand(295,299);
+end
+procedure Node009 begin
+   call floater_rand_with_check_cust(305, 324, porn_star_name);
+end
+procedure Node010 begin
+   floater_rand(330,346);
+end
+procedure Node011 begin
+   call floater_rand_with_check_cust(355-(5*dude_is_prizefighter), 366+(4*dude_is_made_man), "");
+end
+procedure Node012 begin
+   floater_rand(382-(2*dude_is_prizefighter), 388+(2*dude_is_made_man));
+end
+procedure Node013 begin
+   floater_rand(395,399);
+end
+procedure Node014 begin
+   floater_rand(426-((426-410)*dude_is_male), 431+((439-431)*dude_is_female));
+end

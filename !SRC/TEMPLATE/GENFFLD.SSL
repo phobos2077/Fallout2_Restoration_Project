@@ -1,0 +1,364 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+//#include "..\headers\ncrent.h"
+
+#define NAME                    SCRIPT_WSEMIT1A         // contains all the .msg info
+
+#include "..\headers\command.h"
+
+/********************************************************************************
+   User settable defines to make this script specific
+
+*********************************************************************************/
+
+//I am attempting to make the emitter control the force field completely
+
+/* Use the below to setup a variable that will also control the force field instead of using
+   Direct commands with the timer event */
+#define CONTROL_MAC             0 //map_var(MVAR_Emitter_Control)
+#define CONTROL_MAC_CLEAR       0 //set_map_var(MVAR_Emitter_Control, 0)
+#define CONTROL_MAC_SET(x)      0 //used to do shit
+
+#include "..\headers\genffld.h"
+
+#define POWER_ON_CHECK          (1)  /* The script uses this macro to see if there is an overlying power system.
+                                        If the "power" is always on then set this to 1 other wise put the check in there.*/
+#define FFIELD_PID              ()   /* ex: PID_EW_FORCE_FIELD or PID_NS_FORCE_FIELD */
+#define FFIELD_TILE             ()   /* The tile that the foce field is on */
+#define FFIELD_ELEV             ()   /* Elevation of the force Field */
+
+#define NOTIFY_THRESH           (3)  /* When to set the below notification flags. */
+
+#define MAP_NOTIFY              (-1) /* use this macro for the script to set a notification when the player fails to
+                                        disable the field. -1 means no notification, map_variable, set to:
+                                        1 when repair failed has passed the threshold
+                                        2 when the field has been damaged
+                                        3 when the player is tampering with the emitter (doing anything)
+                                        4 when it is destroyed */
+
+#define GLOBAL_NOTIFY           (-1) /* use this macro for the script to set a notification when the player fails to
+                                        disable the field. -1 means no notifiction, global_variable, set to:
+                                        1 when repair failed has passed the threshold
+                                        2 when the field has been damaged
+                                        3 when the player is tampering with the emitter (doing anything)
+                                        4 when it is destroyed */
+
+#define TRAPS_PENALTY           (-20)
+#define SCIENCE_PENALTY         (-40)
+#define TOOL_BONUS              (SCIENCE_PENALTY + 20)
+
+#include "..\headers\genffld.h"
+
+/********************************************************************************
+   End User settable defines
+*********************************************************************************/
+
+
+procedure start;
+procedure use_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_update_p_proc;
+procedure timed_event_p_proc;
+procedure map_enter_p_proc;
+
+#define LVAR_Field_State                        (0) //State of the force Field
+#define LVAR_Gave_Exp                           (1) //Gave experice to the player for tampering with the emitter.
+#define LVAR_Fail_Repair                        (2) //Failed Repair count
+#define LVAR_Flicker_Stop                       (3) //What time to stop the flickering.
+#define LVAR_Power_On                           (4) // is the power on?
+
+variable fieldPtr;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   variable destroyOnLoad := 0;
+
+   if (MAP_NOTIFY != -1) then begin
+      if (map_var(MAP_NOTIFY) == 4) then begin
+         destroyOnLoad := 1;
+      end
+   end
+
+   if (GLOBAL_NOTIFY != -1) then begin
+      if (global_var(GLOBAL_NOTIFY) == 4) then begin
+         destroyOnLoad := 1;
+      end
+   end
+
+#ifdef CONTROL_MAC
+      // This is used if a control macro is defined
+      add_timer_event(self_obj, ONE_GAME_SECOND / 2, TIMER_CONTROL);
+#endif
+
+   if (not FIELD_DESTROYED and not destroyOnLoad) then begin
+      fieldPtr := tile_contains_pid_obj(FFIELD_TILE, FFIELD_ELEV, FFIELD_PID);
+      if (obj_is_visible_flag(fieldPtr)) then begin
+         set_local_var(LVAR_Power_On, 1);
+      end
+      add_timer_event(self_obj, 0, TIMER_CHECK_POWER);
+
+      if (not is_loading_game) then begin
+         SET_FIELD_ON;
+      end
+   end else begin
+      fieldPtr := tile_contains_pid_obj(FFIELD_TILE, FFIELD_ELEV, FFIELD_PID);
+      destroy_object(fieldPtr);
+      set_local_var(LVAR_Field_State, F_DESTROYED);
+      destroy_object(self_obj);
+   end
+end
+
+procedure use_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure use_skill_on_p_proc begin
+   variable skill;
+
+   skill:=action_being_used;
+
+   if (MAP_NOTIFY != -1) then begin
+      set_map_var(MAP_NOTIFY, 3);
+   end
+   if (GLOBAL_NOTIFY != -1) then begin
+      set_global_var(GLOBAL_NOTIFY, 3);
+   end
+
+
+   if ((skill == SKILL_REPAIR) and (not FIELD_DESTROYED)) then begin
+      script_overrides;
+      if (skill_success(source_obj,skill,SCIENCE_PENALTY)) then begin
+         if (FIELD_ON) then begin
+            SET_FIELD_DELAY;
+            if (source_obj == dude_obj) then begin
+               display_msg(mstr(112));
+            end else begin
+               display_msg(obj_name(source_obj)+mstr(113));
+            end
+         end else begin
+            SET_FIELD_ON;
+            if (source_obj == dude_obj) then begin
+               display_msg(mstr(114));
+            end else begin
+               display_msg(obj_name(source_obj)+mstr(115));
+            end
+         end
+         if (local_var(LVAR_Gave_Exp) == 0) then begin
+            set_local_var(LVAR_Gave_Exp, 1);
+            give_xp(EXP_DISABLE_FORCE_FIELD);
+         end
+      end else begin
+         if (source_obj == dude_obj) then begin
+            inc_local_var(LVAR_Fail_Repair);
+            display_msg(mstr(109));
+         end else begin
+            display_msg(mstr(110));
+         end
+
+         if (local_var(LVAR_Fail_Repair) == NOTIFY_THRESH) then begin
+            if (MAP_NOTIFY != -1) then begin
+               set_map_var(MAP_NOTIFY, 1);
+            end
+            if (GLOBAL_NOTIFY != -1) then begin
+               set_global_var(GLOBAL_NOTIFY, 1);
+            end
+            set_local_var(LVAR_Fail_Repair, 0);
+         end
+      end
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   variable Tool;
+
+   Tool:=obj_pid(obj_being_used_with);
+
+   if (MAP_NOTIFY != -1) then begin
+      set_map_var(MAP_NOTIFY, 3);
+   end
+   if (GLOBAL_NOTIFY != -1) then begin
+      set_global_var(GLOBAL_NOTIFY, 3);
+   end
+
+   if ((Tool == PID_MULTI_TOOL) and (not FIELD_DESTROYED)) then begin
+      script_overrides;
+      if (skill_success(source_obj,SKILL_SCIENCE,TOOL_BONUS)) then begin
+         if (FIELD_ON) then begin
+            SET_FIELD_DELAY;
+            if (source_obj == dude_obj) then begin
+               display_msg(mstr(112));
+            end else begin
+               display_msg(obj_name(source_obj)+mstr(113));
+            end
+         end else begin
+            SET_FIELD_ON;
+            if (source_obj == dude_obj) then begin
+               display_msg(mstr(114));
+            end else begin
+               display_msg(obj_name(source_obj)+mstr(115));
+            end
+         end
+         if (local_var(LVAR_Gave_Exp) == 0) then begin
+            set_local_var(LVAR_Gave_Exp, 1);
+            give_xp(EXP_DISABLE_FORCE_FIELD);
+         end
+      end else begin
+         if (source_obj == dude_obj) then begin
+            inc_local_var(LVAR_Fail_Repair);
+            display_msg(mstr(109));
+         end else begin
+            display_msg(mstr(110));
+         end
+
+         if (local_var(LVAR_Fail_Repair) == NOTIFY_THRESH) then begin
+            if (MAP_NOTIFY != -1) then begin
+               set_map_var(MAP_NOTIFY, 1);
+            end
+            if (GLOBAL_NOTIFY != -1) then begin
+               set_global_var(GLOBAL_NOTIFY, 1);
+            end
+            set_local_var(LVAR_Fail_Repair, 0);
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (skill_success(dude_obj, SKILL_TRAPS, TRAPS_PENALTY)) then begin
+      SET_FIELD_DESTROYED;
+   end else begin
+      SET_FIELD_FLICKER;
+   end
+
+   if (MAP_NOTIFY != -1) then begin
+      set_map_var(MAP_NOTIFY, 2);
+   end
+
+   if (GLOBAL_NOTIFY != -1) then begin
+      set_global_var(GLOBAL_NOTIFY, 2);
+   end
+end
+
+procedure map_update_p_proc begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_SET_STATE_ON) then begin
+      if (not FIELD_DESTROYED and not FIELD_ON) then begin
+         set_obj_visibility(fieldPtr, OBJ_VIS);
+         set_local_var(LVAR_Field_State, F_ON);
+      end
+   end else if (fixed_param == TIMER_SET_STATE_DELAY) then begin
+      if (not FIELD_DESTROYED and not FIELD_DELAY) then begin
+         set_local_var(LVAR_Field_State, F_DELAY);
+         set_obj_visibility(fieldPtr, OBJ_INVIS);
+         add_timer_event(self_obj, ONE_GAME_MINUTE, TIMER_SET_STATE_ON); // Turn the field back on
+      end
+   end else if (fixed_param == TIMER_SET_STATE_DESTROYED) then begin
+      if (not FIELD_DESTROYED and not FIELD_DESTROYED) then begin
+         if (MAP_NOTIFY != -1) then begin
+            set_map_var(MAP_NOTIFY, 4);
+         end
+         if (GLOBAL_NOTIFY != -1) then begin
+            set_global_var(GLOBAL_NOTIFY, 4);
+         end
+         destroy_object(fieldPtr);
+         display_msg(mstr(116));
+         set_local_var(LVAR_Field_State, F_DESTROYED);
+         destroy_object(self_obj);
+      end
+   end else if (fixed_param == TIMER_SET_STATE_FLICKER) then begin
+      if (not FIELD_DESTROYED and not FIELD_FLICKER) then begin
+         set_local_var(LVAR_Field_State, F_FLICKER);
+         set_local_var(LVAR_Flicker_Stop, game_time + Random(ONE_GAME_MINUTE, ONE_GAME_MINUTE * 2));
+         add_timer_event(self_obj, 0, TIMER_DO_FLICKER);
+      end
+   end else if (fixed_param == TIMER_DO_FLICKER) then begin
+      if (not FIELD_DESTROYED and FIELD_FLICKER) then begin
+         if (game_time < local_var(LVAR_Flicker_Stop)) then begin
+            if (obj_is_visible_flag(fieldPtr)) then begin
+               set_obj_visibility(fieldPtr, OBJ_INVIS);
+            end else begin
+               set_obj_visibility(fieldPtr, OBJ_VIS);
+            end
+            add_timer_event(self_obj, Random(0,5), TIMER_DO_FLICKER);
+         end else begin
+            add_timer_event(self_obj, 0, TIMER_SET_STATE_ON);
+         end
+      end
+   end else if (fixed_param == TIMER_CHECK_POWER) then begin
+      if (not POWER_ON_CHECK) then begin
+         set_local_var(LVAR_Power_On, 0);
+         if (not FIELD_DESTROYED) then begin
+            if (obj_is_visible_flag(fieldPtr)) then begin
+               set_obj_visibility(fieldPtr, OBJ_INVIS);
+            end
+         end
+      end else begin
+         set_local_var(LVAR_Power_On, 1);
+         if (not FIELD_DESTROYED and FIELD_ON) then begin
+            if (not obj_is_visible_flag(fieldPtr)) then begin
+               set_obj_visibility(fieldPtr, OBJ_VIS);
+            end
+         end
+      end
+
+      if (not FIELD_DESTROYED) then begin
+         add_timer_event(self_obj, game_ticks(5), TIMER_CHECK_POWER);
+      end
+   end else if (fixed_param == TIMER_CONTROL) then begin
+      if (CONTROL_MAC == EMITTER_CONTROL_ON) then begin
+         add_timer_event(self_obj, 0, TIMER_SET_STATE_ON);
+         //put it on a delay so anything else running of the control macro can process before clearing it
+         add_timer_event(self_obj, (ONE_GAME_SECOND / 2) - 1, TIMER_CLEAR_CONTROL);
+      end else if (CONTROL_MAC == EMITTER_CONTROL_DELAY) then begin
+         add_timer_event(self_obj, 0, TIMER_SET_STATE_DELAY);
+         //put it on a delay so anything else running of the control macro can process before clearing it
+         add_timer_event(self_obj, (ONE_GAME_SECOND / 2) - 1, TIMER_CLEAR_CONTROL);
+      end else if (CONTROL_MAC == EMITTER_CONTROL_DESTROYED) then begin
+         add_timer_event(self_obj, 0, TIMER_SET_STATE_DESTROYED);
+         //put it on a delay so anything else running of the control macro can process before clearing it
+         add_timer_event(self_obj, (ONE_GAME_SECOND / 2) - 1, TIMER_CLEAR_CONTROL);
+      end else if (CONTROL_MAC == EMITTER_CONTROL_FLICKER) then begin
+         add_timer_event(self_obj, 0, TIMER_SET_STATE_FLICKER);
+         //put it on a delay so anything else running of the control macro can process before clearing it
+         add_timer_event(self_obj, (ONE_GAME_SECOND / 2) - 1, TIMER_CLEAR_CONTROL);
+      end
+      add_timer_event(self_obj, ONE_GAME_SECOND / 2, TIMER_CONTROL);
+   end else if (fixed_param == TIMER_CLEAR_CONTROL) then begin
+#ifdef CONTROL_MAC_CLEAR
+      CONTROL_MAC_CLEAR;
+#endif
+   end
+end

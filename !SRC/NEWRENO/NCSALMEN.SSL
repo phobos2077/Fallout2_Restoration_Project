@@ -1,0 +1,411 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Salvatore's Men
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: April 27, 1998
+
+           Updated:
+*/
+
+#define WARNING_FAMILY_ACTION                      if (is_float) then begin   \
+                                                      call Node004;           \
+                                                   end else begin             \
+                                                      call Node018;           \
+                                                   end
+#define WARNING_WEAPON_ACTION                      if (dude_is_prizefighter) then begin               \
+                                                      call Node006;                                   \
+                                                   end else if (dude_has_porn_star_rep) then begin    \
+                                                      if (dude_is_male) then begin                    \
+                                                         call Node006;                                \
+                                                      end else begin                                  \
+                                                         call Node007;                                \
+                                                      end                                             \
+                                                   end else if (has_rep_slaver) then begin            \
+                                                      if (is_float) then begin                        \
+                                                         call Node008;                                \
+                                                      end else begin                                  \
+                                                         call Node022;                                \
+                                                      end                                             \
+                                                   end else if (is_float) then begin                  \
+                                                      call Node010;                                   \
+                                                   end else begin                                     \
+                                                      call Node024;                                   \
+                                                   end
+#define WARNING_SNEAK_ACTION                       if (has_rep_slaver) then begin                     \
+                                                      if (is_float) then begin                        \
+                                                         call Node009;                                \
+                                                      end else begin                                  \
+                                                         call Node023;                                \
+                                                      end                                             \
+                                                   end else if (is_float) then begin                  \
+                                                      call Node011;                                   \
+                                                   end else begin                                     \
+                                                      call Node025;                                   \
+                                                   end
+#define WARNING_ROBOBRAIN_ACTION                   call Node012;
+#define WARNING_MARCUS_ACTION                      call Node013;
+#define WARNING_LENNY_ACTION                       call Node030;
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCSALMEN
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure map_update_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node015;
+procedure Node016;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (4)
+
+#define hidden_for_fight_bit              bit_10
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+#define self_family                       family_salvatore
+
+
+/* Local variables which do not need to be saved between map changes. */
+
+variable warning_result;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == warning_loop_param) then begin
+      check_all_warnings
+      call_warning_loop;
+   end else if (fixed_param == float_param) then begin
+      if (self_visible) then begin
+         if (self_can_see_dude) then begin
+            if ((combat_is_initialized == false) and (obj_on_family_property(dude_obj, self_family))) then begin
+               set_is_float;
+               check_all_warnings
+               if (warning_result == warning_result_none) then begin
+                  if (enclave_destroyed) then begin
+                     call Node002;
+                  end else if (dude_is_sneaking) then begin
+                     call Node003;
+                  end
+               end
+            end
+         end
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_SALVATORE);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+      call_warning_loop;
+   end
+end
+
+procedure map_update_p_proc begin
+   check_hide_durring_boxing_fight
+end
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if ((hostile) or (warned_attack)) then begin
+         self_attack_dude;
+      end
+   end else if (salvatore_called_guards) then begin
+      if (self_elevation == dude_elevation) then begin
+         if (self_is_armed == false) then begin
+            wield_best_new_reno_weapon
+         end
+         Follow_Dude(1,1)
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      attack_family(family_salvatore)
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   Evil_Critter:=1;
+   Slavery_Tolerant := SLAVE_TOLERANT;
+   Karma_Perception := KARMA_PERCEPTION2;
+   CheckKarma;
+   GetReaction;
+   ReactToLevel; //added by killap
+
+   set_is_click;
+   check_all_warnings
+   if (warning_result == warning_result_none) then begin
+      if (enclave_destroyed) then call Node002;
+      else if (dude_wearing_power_armor) then call Node015;
+      else if (dude_is_sneaking) then call Node003;
+      else if (dude_family == self_family) then call Node016;
+      else if (dude_is_prizefighter) then call Node019;
+      else if (dude_has_porn_star_rep) then begin
+         if (dude_is_male) then begin
+            call Node020;
+         end else begin
+            call Node021;
+         end
+      end else if (good_critter_reaction) then begin
+         if (has_rep_slaver) then begin
+            call Node027;
+         end else begin
+            call Node028;
+         end
+      end else begin
+         if (has_rep_slaver) then begin
+            call Node026;
+         end else begin
+            call Node029;
+         end
+      end
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure destroy_p_proc begin
+   inc_evil_critter
+   dec_family_counter(self_family);
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (examined) then begin
+      display_mstr_rand(152, 155);
+   end else begin
+      display_mstr(150+self_carrying_laser_pistol);
+   end
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   if (hostile == false) then begin
+      set_hostile;
+      warning_result := warning_result_none;
+   end
+   attack_family(self_family) //added by killap
+end
+procedure Node999 begin
+end
+
+#define is_insert_message(x)  ((x == 180) or (x == 185) or (x == 278) or (x == 279))
+
+procedure Node002 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(160, 160+(4*is_click));
+   //else
+   //   floater(616);
+end
+procedure Node003 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(170, 173);
+   //else
+   //   floater(172);
+end
+procedure Node004 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      floater_rand_with_check(183-(3*dude_is_male), 184+(3*dude_is_female), made_man_name, 1000);
+   //end else
+   //   floater_rand(183, 184);
+end
+procedure Node006 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(195, 196);
+   //else
+   //   floater(196);
+end
+procedure Node007 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(200, 201);
+   //else
+   //   floater(200);
+end
+procedure Node008 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(205, 208);
+   //else
+   //   floater(206);
+end
+procedure Node009 begin
+   floater(210);
+end
+procedure Node010 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(215, 218);
+   //else
+   //   floater(216);
+end
+procedure Node011 begin
+   floater(220);
+end
+procedure Node012 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(225, 226);
+   //else
+   //   floater(226);
+end
+procedure Node013 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(230, 231);
+   //else
+   //   floater(230);
+end
+procedure Node015 begin
+   floater(235);
+end
+procedure Node016 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(245-(5*dude_is_male), 258+(5*dude_is_female));
+   //else
+   //   floater_rand(241, 242);
+end
+procedure Node018 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      floater_rand_with_check(275, 280, made_man_name, 1000);
+   //end else
+   //   floater(275);
+end
+procedure Node019 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(285, 295);
+   //else
+   //   floater_rand(285, 286);
+end
+procedure Node020 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(305, 307);
+   //else
+   //   floater(306);
+end
+procedure Node021 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(310, 316);
+   //else
+   //   floater(315);
+end
+procedure Node022 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(325, 327);
+   //else
+   //   floater(327);
+end
+procedure Node023 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(330, 332);
+   //else
+   //   floater(330);
+end
+procedure Node024 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(335, 338);
+   //else
+   //   floater(336);
+end
+procedure Node025 begin
+   floater(340);
+end
+procedure Node026 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(345, 349);
+   //else
+   //   floater(345);
+end
+procedure Node027 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(355, 356);
+   //else
+   //   floater(355);
+end
+procedure Node028 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(360, 361);
+   //else
+   //   floater(360);
+end
+procedure Node029 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(366-(dude_is_male), 368+(3*dude_is_female));
+   //else
+   //   floater(366);
+end
+procedure Node030 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(380, 382);
+   //else
+   //   floater(381);
+end

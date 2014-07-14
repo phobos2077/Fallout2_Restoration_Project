@@ -1,0 +1,135 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: CowBomb
+        Location: Low luck encounter
+        Description: This is a low luck encounter. Cows run at you and explode.. Probably going to be really cool.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: April 14, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_RNDEXCOW
+
+#include "..\headers\command.h"
+
+#include "..\headers\rndexcow.h"
+#include "..\headers\specenc.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure map_exit_p_proc;
+
+procedure Initial_Inven;
+
+procedure LoadCritters;
+procedure loadParts(variable count, variable starttile);
+procedure loadBlood(variable count, variable starttile);
+
+procedure start begin
+end
+
+procedure map_exit_p_proc begin
+   if (not car_out_of_fuel) then begin
+      if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 0, PID_DRIVABLE_CAR) != 0 or
+          tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 1, PID_DRIVABLE_CAR) != 0 or
+          tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 2, PID_DRIVABLE_CAR) != 0) then begin
+         debug_msg("car_give_to_party");
+         set_global_var(GVAR_CAR_PLACED_TILE, 0);
+         car_give_to_party;
+      end
+   end
+end
+
+
+procedure map_enter_p_proc begin
+   set_global_var(GVAR_SPECIAL_ENCOUNTER_BRAHMIN,1);
+
+   if (map_first_run) then begin
+      display_msg(mstr(100));
+      call loadParts(CHUNCK_COUNT, LOAD_TILE);
+   end
+
+   Check_Create_Car(CAR_RND_MAD_BRAHMIN_HEX, dude_elevation)
+
+   Lighting;
+//   call LoadCritters;
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+   call LoadCritters;
+end
+
+
+procedure Initial_Inven begin
+end
+
+procedure LoadCritters begin
+   variable numLoad := 0;
+   variable obj;
+   variable tile;
+
+   debug_msg("MVAR_Current_Cow_Bombs: " + map_var(MVAR_Current_Cow_Bombs));
+   numLoad := NUM_COWS - map_var(MVAR_Current_Cow_Bombs);
+   while (numLoad > 0) do begin
+      tile := tile_num_in_direction(LOAD_TILE, Random(0, 5), Random(1, 10));
+      obj := create_object_sid(COW_PID, tile, elevation(dude_obj), COW_SID);
+      critter_attempt_placement(obj, tile, elevation(dude_obj));
+
+      numLoad -= 1;
+   end
+   set_map_var(MVAR_Current_Cow_Bombs, NUM_COWS);
+end
+
+procedure loadParts(variable count, variable starttile) begin
+   variable brah_chunk_count := 0;
+   variable temp_chunk;
+   variable tile;
+
+   brah_chunk_count := count;
+   while (brah_chunk_count > 0) do begin
+      brah_chunk_count -= 1;
+      tile := tile_num_in_direction(starttile, Random(0, 5), Random(1, 10));
+      temp_chunk := create_object_sid(random(PID_BRAHMIN_CHUNK_1, PID_BRAHMIN_CHUNK_6), 0, 0, SCRIPT_MIBRAMEA);
+      critter_attempt_placement(temp_chunk, tile, elevation(dude_obj));
+      if (Random(1, 2) == 1) then
+         starttile := tile;
+   end
+end
+
+procedure loadBlood(variable count, variable starttile) begin
+   variable brah_chunk_count := 0;
+   variable temp_chunk;
+   variable tile;
+
+   brah_chunk_count := 0;
+   while (brah_chunk_count > 0) do begin
+      brah_chunk_count -= 1;
+      tile := tile_num_in_direction(starttile, Random(0, 5), Random(1, 10));
+      temp_chunk := create_object_sid(random(PID_BLOOD_1, PID_BLOOD_9), 0, 0, SCRIPT_MIBRAMEA);
+      critter_attempt_placement(temp_chunk, tile, elevation(dude_obj));
+      if (Random(1, 2) == 1) then
+         starttile := tile;
+   end
+end

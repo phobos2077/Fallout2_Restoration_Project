@@ -1,0 +1,207 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Orville Wright's Safe
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created:
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NIOWRISF
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure pickup_p_proc;
+procedure use_p_proc;
+procedure damage_p_proc;
+
+#define LVAR_BoomW                           (0)
+#define LVAR_Knocks                          (1)
+#define LVAR_Flags                           (2)
+
+#define gave_exp_bit                         bit_10
+#define found_trap_bit                       bit_11
+
+#define gave_exp                             lvar_bit(LVAR_Flags, gave_exp_bit)
+#define set_gave_exp                         if (gave_exp == false) then begin            \
+                                                give_xp(EXP_DISARM_WRIGHT_SAFE);          \
+                                             end                                          \
+                                             set_lvar_bit_on(LVAR_Flags, gave_exp_bit)
+
+#define found_trap                           lvar_bit(LVAR_Flags, found_trap_bit)
+#define set_found_trap                       set_lvar_bit_on(LVAR_Flags, found_trap_bit)
+#define off_found_trap                       set_lvar_bit_off(LVAR_Flags, found_trap_bit)
+
+#define boomw_none                           (0)
+#define boomw_boom                           (1)
+#define boomw_disarmed                       (2)
+#define set_boomw(x)                         if (x == boomw_boom) then begin                                               \
+                                                if (get_boomw(boomw_none)) then begin                                      \
+                                                   if (new_reno_orville_wright_obj != 0) then begin                        \
+                                                      nr_add_timer_event(new_reno_orville_wright_obj, 0, attack_param);    \
+                                                   end                                                                     \
+                                                   explosion(self_tile, self_elevation, 40);                               \
+                                                end                                                                        \
+                                             end else if (x == boomw_none) then begin                                      \
+                                                if (get_boomw(boomw_none) == false) then begin                             \
+                                                   off_found_trap;                                                         \
+                                                end                                                                        \
+                                             end else begin                                                                \
+                                                give_pid_qty(source_obj, PID_DYNAMITE, 1)                                  \
+                                                set_gave_exp;                                                              \
+                                             end                                                                           \
+                                             set_local_var(LVAR_BoomW, x)
+
+#define get_boomw(x)                         (local_var(LVAR_BoomW) == x)
+
+#define check_safe_tamper(x)                 if (new_reno_orville_wright_obj != 0) then begin                                    \
+                                                if ((obj_can_see_obj(new_reno_orville_wright_obj, source_obj)) or (obj_can_see_obj(new_reno_orville_wright_obj, self_obj))) then begin         \
+                                                   x := true;                                                                    \
+                                                   script_overrides;                                                             \
+                                                   if (obj_is_open(self_obj)) then begin                                         \
+                                                      nr_add_timer_event(new_reno_orville_wright_obj, 0, attack_param);          \
+                                                   end else begin                                                                \
+                                                      nr_add_timer_event(new_reno_orville_wright_obj, 0, tamper_safe_param);     \
+                                                   end                                                                           \
+                                                end                                                                              \
+                                             end
+#define open_chance                          ((5 * (get_critter_stat(source_obj,STAT_iq) >= 7)) + (5 * ((has_skill(source_obj, SKILL_LOCKPICK) >= 50) or (is_success(roll_vs_skill(dude_obj,SKILL_LOCKPICK,0))))) + (5 * ((get_critter_stat(source_obj,STAT_lu) == 9) or (get_critter_stat(source_obj,STAT_pe) == 9) or (is_success(do_check(source_obj, STAT_lu, 0))))) + (25 * ((get_critter_stat(source_obj,STAT_lu) == 10) or (get_critter_stat(source_obj,STAT_pe) == 10))))
+
+variable prev_node;
+import variable new_reno_orville_wright_obj;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   set_boomw(boomw_boom);
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (wright_dead == false) then begin
+         if (obj_is_open(self_obj)) then begin
+            obj_close(self_obj);
+         end
+         if (obj_is_locked(self_obj) == false) then begin
+            obj_lock(self_obj);
+         end
+         if (map_first_run) then begin
+            set_boomw(boomw_none);
+         end
+      end
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + (obj_is_open(self_obj)));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(100 + (obj_is_open(self_obj)));
+end
+
+procedure damage_p_proc begin
+variable set_off;
+   if (target_obj != 0) then begin
+      if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
+         set_off := true;
+         add_timer_event(self_obj, 3, 1);
+         if (new_reno_orville_wright_obj != 0) then begin
+            nr_add_timer_event(new_reno_orville_wright_obj, 0, attack_param);
+         end
+      end
+   end
+   if ((source_obj != 0) and (set_off == false)) then begin
+      if (weapon_dmg_type(source_obj) == DMG_explosion) then begin
+         add_timer_event(self_obj, 3, 1);
+         if (new_reno_orville_wright_obj != 0) then begin
+            nr_add_timer_event(new_reno_orville_wright_obj, 0, attack_param);
+         end
+      end
+   end
+end
+
+procedure pickup_p_proc begin
+variable send_warning := false;
+   check_safe_tamper(send_warning)
+end
+
+procedure use_p_proc begin
+variable send_warning := false;
+   check_safe_tamper(send_warning)
+end
+
+procedure use_skill_on_p_proc begin
+variable send_warning := false;
+variable the_roll;
+   check_safe_tamper(send_warning)
+   if (send_warning == false) then begin
+      if (obj_is_locked(self_obj)) then begin
+         if (action_being_used == SKILL_LOCKPICK) then begin
+            script_overrides;
+            if (get_boomw(boomw_none)) then begin
+               if ((is_success(roll_vs_skill(dude_obj,SKILL_TRAPS,-10))) or (found_trap)) then begin
+                  display_mstr(120 + found_trap);
+                  set_found_trap;
+               end else begin
+                  set_boomw(boomw_boom);
+               end
+            end else begin
+               the_roll := roll_vs_skill(dude_obj, SKILL_LOCKPICK, 0);
+               gfade_out(ONE_GAME_MINUTE);
+                  game_time_advance(15 * ONE_GAME_MINUTE);
+                  if (is_success(the_roll)) then begin
+                     display_mstr(150);
+                     obj_unlock(self_obj);
+                  end else if ((random(1,100) <= dude_luck) and (is_critical(the_roll) == false)) then begin
+                     display_mstr(160);
+                     obj_unlock(self_obj);
+                  end else begin
+                     display_mstr(170 + (has_skill(source_obj,SKILL_LOCKPICK) < 50));
+                  end
+               gfade_in(ONE_GAME_MINUTE);
+            end
+         end else if (action_being_used == SKILL_TRAPS) then begin
+            script_overrides;
+            gfade_out(ONE_GAME_MINUTE);
+               game_time_advance(15 * ONE_GAME_MINUTE);
+               if (get_boomw(boomw_none)) then begin
+                  the_roll := roll_vs_skill(dude_obj,SKILL_TRAPS,-50);
+                  if (is_success(the_roll)) then begin
+                     set_boomw(boomw_disarmed);
+                     display_mstr(180 + found_trap);
+                  end else if ((is_success(roll_vs_skill(dude_obj,SKILL_TRAPS,-10))) and (found_trap == false)) then begin
+                     set_found_trap;
+                     display_mstr(190);
+                  end else if ((is_critical(the_roll)) and (found_trap)) then begin
+                     display_mstr(181);
+                     set_boomw(boomw_disarmed); //added by killap
+                  end else begin
+                     display_mstr(200 + found_trap);
+                  end
+               end else begin
+                  display_mstr(200);
+               end
+            gfade_in(ONE_GAME_MINUTE);
+         end
+      end
+   end
+end

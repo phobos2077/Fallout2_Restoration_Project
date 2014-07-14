@@ -1,0 +1,336 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: GECKO POWER PLANT MAP SCRIPT
+        Location: Broken Hills
+        Description: This is the Map Script for the Village of Broken Hills
+
+        Log:
+
+           Created: July 16, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\gecko.h"
+#include "..\headers\geckpwpl.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_GECKPWPL
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure map_update_p_proc;
+procedure timed_event_p_proc;
+procedure radiate;
+procedure check_em;
+procedure make_em_glow;
+procedure green_like_the_hulk;
+
+//export variable broken_hills_liz_box_obj;
+export variable robot_obj;
+
+variable k;
+variable glow_obj;
+variable uh_oh_chernobl;
+variable my_tile;
+variable started_chain:=0;
+/*
+variable cow_ptr;
+variable cow_hex;
+variable smiley_ptr;
+variable smiley_hex;
+*/
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   if (map_first_run) then begin
+       display_msg(mstr(100));
+   end
+/*
+   override_map_start_hex(17962,0,2);
+   if (map_first_run) then begin
+       display_msg(mstr(100));
+   end
+*/
+
+/*
+  if ((map_var(MVAR_Made_Car) == 0) and (global_var(GVAR_PLAYER_GOT_CAR) != 0)) then begin
+       set_map_var(MVAR_Made_Car,1);
+       Create_Car(CAR_BROKEN_HILLS_HEX,CAR_BROKEN_HILLS_ELEV)
+  end
+*/
+
+   Cavern_Lighting;
+
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+end
+
+procedure map_exit_p_proc begin
+//leave map and everything dies if meltdown in progress
+
+//WILL ALSO NEED TO CHECK HERE TO SEE IF THE PLANT WAS SCHEDULED FOR REPAIRS!!!
+   if ( (global_var(GVAR_GECKO_MELTDOWN) > 0) or
+        (global_var(GVAR_PLANT_SCHEDULED_FOR_CHANGE) == SCHEDULED_FOR_DESTRUCTION) ) then begin
+      set_global_var(GVAR_GECKO_MELTDOWN,1); //just in case I am using meltdown as a conditional anywhere else
+      set_global_var(GVAR_VAULT_GECKO_PLANT, PLANT_DESTROYED);
+      set_global_var(GVAR_VAULT_PLANT_STATUS, PLANT_DESTROYED);
+      display_msg(mstr(200));
+      give_xp(EXP_DESTROY_REACTOR);
+      GC_REP_ADJUST(-75)
+      inc_general_rep(REP_BONUS_GC_PLANT_DESTROYED);
+   end
+//Not sure about following code as the player could start the robot up to
+//repair, go destroy the reactor by hand and then leave. Of course they could
+//also do the opposite -destroy reactor by hand while robot has been sent to fix.
+//
+//With destruction I know the player will not be entering the plant again.
+//
+//The player should not be able to start robot up and set Scheduled for repair
+//unless he/she gave the only part to the robot in which case they cannot run over
+//and attempt to repair the power plant while the robot is on it's way.
+//Need to prevent player from ever taking the part back from the robot as this
+//will most likely cause bugs. -Scheduled for repairs should prevent repairs from
+//being made.
+
+   else if (global_var(GVAR_PLANT_SCHEDULED_FOR_CHANGE) == SCHEDULED_FOR_REPAIRS) then begin
+      set_global_var(GVAR_PLANT_SCHEDULED_FOR_CHANGE, 0); //can't repair twice
+      //double check to make sure plant has not been repaired
+      if (global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_REPAIRED) then begin
+         set_global_var(GVAR_VAULT_GECKO_PLANT, PLANT_REPAIRED);
+         set_global_var(GVAR_VAULT_PLANT_STATUS, PLANT_REPAIRED);
+         //I need a line in the message file for this
+         display_msg(mstr(300));
+         give_xp(EXP_REPAIR_REACTOR);
+         GC_REP_ADJUST(30)
+         inc_general_rep(REP_BONUS_GC_PLANT_REPAIRED);
+      end
+   end
+
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 0) then begin
+      call radiate;
+
+      if (global_var(GVAR_GECKO_MELTDOWN) > 0) then begin
+         set_global_var(GVAR_GECKO_TIMER_MELTDOWN, global_var(GVAR_GECKO_TIMER_MELTDOWN)+1);
+         //k:=k+1;
+         if (global_var(GVAR_GECKO_TIMER_MELTDOWN) > 2) then begin
+         //if (k > 2) then begin
+            set_global_var(GVAR_GECKO_TIMER_MELTDOWN,0);
+            //k:=0;
+            //apply damage to player and party members
+            call make_em_glow;
+         end
+      end
+      add_timer_event(self_obj,game_ticks(10),0);
+   end
+//   else if (fixed_param == 1) then begin //held weapon too long
+//   end
+end
+
+//first map update will start the chain of timed events...
+procedure map_update_p_proc begin
+   if (started_chain == 0) then begin
+      started_chain:=1;
+      add_timer_event(self_obj,game_ticks(10),0);
+   end
+   Full_Light;
+end
+
+procedure make_em_glow begin
+   //IF ANYONE IS ON THE MAP THEY TAKE DAMAGE FROM THE MELTDOWN
+   //POWER ARMOR WILL NOT PROTECT!
+   //GHOULS ARE IMMUNE
+
+   glow_obj:=dude_obj;
+   call green_like_the_hulk;
+
+   if Vic_In_Party then begin
+      glow_obj:=Vic_Ptr;
+      call green_like_the_hulk;
+   end
+   if Myron_In_Party then begin
+      glow_obj:=Myron_Ptr;
+      call green_like_the_hulk;
+   end
+   if Marcus_In_Party then begin
+      glow_obj:=Marcus_Ptr;
+      call green_like_the_hulk;
+   end
+   if MacRae_In_Party then begin
+      glow_obj:=MacRae_Ptr;
+      call green_like_the_hulk;
+   end
+   if Sulik_In_Party then begin
+      glow_obj:=Sulik_Ptr;
+      call green_like_the_hulk;
+   end
+/* Lenny is a ghoul so is immune
+   if Lenny_In_Party then begin
+      glow_obj:=Lenny_Ptr;
+      call check_em;
+   end
+*/
+   if Cyberdog_In_Party then begin
+      glow_obj:=Cyberdog_Ptr;
+      call green_like_the_hulk;
+   end
+   if Doc_In_Party then begin
+      glow_obj:=Doc_Ptr;
+      call green_like_the_hulk;
+   end
+   if Goris_In_Party then begin
+      glow_obj:=Goris_Ptr;
+      call green_like_the_hulk;
+   end
+   if Davin_In_Party then begin
+      glow_obj:=Davin_Ptr;
+      call green_like_the_hulk;
+   end
+   if Miria_In_Party then begin
+      glow_obj:=Miria_Ptr;
+      call green_like_the_hulk;
+   end
+   if Robobrain_In_Party then begin
+      glow_obj:=Robobrain_Ptr;
+      call green_like_the_hulk;
+   end
+   if Dogmeat_In_Party then begin
+      glow_obj:=Dogmeat_Ptr;
+      call green_like_the_hulk;
+   end
+   if K9_In_Party then begin
+      glow_obj:=K9_Ptr;
+      call green_like_the_hulk;
+   end
+end
+
+
+procedure radiate begin
+   //IF ANYONE IS IN THIS AREA HE/SHE TAKES RADIATION AND HEAT DAMAGE
+   //POWER ARMOR WILL NOT PROTECT!
+   //GHOULS ARE IMMUNE
+
+   //display_msg("begin radiate proc");
+
+   glow_obj:=dude_obj;
+   call check_em;
+
+   if Vic_In_Party then begin
+      glow_obj:=Vic_Ptr;
+      call check_em;
+   end
+   if Myron_In_Party then begin
+      glow_obj:=Myron_Ptr;
+      call check_em;
+   end
+   if Marcus_In_Party then begin
+      glow_obj:=Marcus_Ptr;
+      call check_em;
+   end
+   if MacRae_In_Party then begin
+      glow_obj:=MacRae_Ptr;
+      call check_em;
+   end
+   if Sulik_In_Party then begin
+      glow_obj:=Sulik_Ptr;
+      call check_em;
+   end
+/* Lenny is a ghoul so is immune
+   if Lenny_In_Party then begin
+      glow_obj:=Lenny_Ptr;
+      call check_em;
+   end
+*/
+   if Cyberdog_In_Party then begin
+      glow_obj:=Cyberdog_Ptr;
+      call check_em;
+   end
+   if Doc_In_Party then begin
+      glow_obj:=Doc_Ptr;
+      call check_em;
+   end
+   if Goris_In_Party then begin
+      glow_obj:=Goris_Ptr;
+      call check_em;
+   end
+   if Davin_In_Party then begin
+      glow_obj:=Davin_Ptr;
+      call check_em;
+   end
+   if Miria_In_Party then begin
+      glow_obj:=Miria_Ptr;
+      call check_em;
+   end
+   if Robobrain_In_Party then begin
+      glow_obj:=Robobrain_Ptr;
+      call check_em;
+   end
+   if Dogmeat_In_Party then begin
+      glow_obj:=Dogmeat_Ptr;
+      call check_em;
+   end
+   if K9_In_Party then begin
+      glow_obj:=K9_Ptr;
+      call check_em;
+   end
+   //display_msg("end radiate proc");
+end
+
+procedure check_em begin
+   //display_msg("...called check_em");
+   uh_oh_chernobl:=0;
+   my_tile:=tile_num(glow_obj);
+   if (obj_in_loc(glow_obj, 12491, 12461, 18261, 18291, MAP_GECKO_POWER_PLANT, PWPL_ELEV) ) then begin
+      //debug_msg("In the Hot Area.");
+      uh_oh_chernobl:=1;
+   end
+/*
+   if (tile_in_tile_rect(12491, 12461, 18291, 18261, tile_num(glow_obj))) then begin
+       debug_msg("In Rob's Hot area.");
+   end
+*/
+   if (tile_distance(my_tile,19488)) < 5 then begin
+      uh_oh_chernobl:=1;
+   end
+   if (tile_distance(my_tile,18888)) < 5 then begin
+      uh_oh_chernobl:=1;
+   end
+   if (uh_oh_chernobl == 1) then begin
+      if (global_var(GVAR_GECKO_MELTDOWN) > 0) then
+         k:=15;
+      else
+         k:=10;
+      radiation_inc(glow_obj,k);
+      if ( (get_critter_stat(glow_obj,STAT_current_hp)) < 11 ) then
+         critter_dmg(glow_obj,50,DMG_plasma BWOR DMG_BYPASS_ARMOR); //make sure they melt
+      else
+         critter_dmg(glow_obj,k,DMG_plasma BWOR DMG_BYPASS_ARMOR);
+   end
+end
+
+procedure green_like_the_hulk begin
+      radiation_inc(glow_obj,10);
+      if ( (get_critter_stat(glow_obj,STAT_current_hp)) < 11 ) then
+         critter_dmg(glow_obj,50,DMG_plasma BWOR DMG_BYPASS_ARMOR); //make sure they melt
+      else
+         critter_dmg(glow_obj,10,DMG_plasma BWOR DMG_BYPASS_ARMOR);
+end

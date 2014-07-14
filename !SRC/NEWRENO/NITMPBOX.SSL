@@ -1,0 +1,47 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Box For all Bartender
+        Location : New Reno
+        Description: This box is for the Bartender's personal inventory when bartering
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: May 13, 1998
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_NITMPBOX
+
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+/* Defines and Macros */
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+import variable new_reno_temp_box;
+
+procedure start begin
+   new_reno_temp_box := self_obj;
+end
+
+procedure map_enter_p_proc begin
+   new_reno_temp_box := self_obj;
+end
+
+procedure map_update_p_proc begin
+   new_reno_temp_box := self_obj;
+end

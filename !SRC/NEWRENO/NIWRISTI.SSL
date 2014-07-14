@@ -1,0 +1,188 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Wright's Still
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                        SCRIPT_NIWRISTI
+#define TOWN_REP_VAR                GVAR_TOWN_REP_THE_DEN
+
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+procedure start;
+procedure map_update_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+
+import variable new_reno_wright_teen_obj;
+variable tampered;
+variable the_roll;
+
+#define check_tamper                                                                   \
+         tampered := false;                                                            \
+         if (new_reno_wright_teen_obj != 0) then begin                                 \
+            if ((obj_can_see_obj(new_reno_wright_teen_obj, dude_obj)) or               \
+                (obj_can_see_obj(new_reno_wright_teen_obj, source_obj)) or             \
+                (obj_can_hear_obj(new_reno_wright_teen_obj, dude_obj)) or              \
+                (obj_can_hear_obj(new_reno_wright_teen_obj, source_obj))) then begin   \
+               tampered := true;                                                       \
+               script_overrides;                                                       \
+               nr_add_timer_event_tic(new_reno_wright_teen_obj, 0, call_guards_param); \
+            end else begin                                                             \
+               debug_msg("wright child can't see dude");                               \
+            end                                                                        \
+         end
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (get_still_status(still_status_wrecked)) then begin
+      float_msg(self_obj, mstr(random(200, 204)), FLOAT_MSG_WHITE);
+   end else begin
+      float_msg(self_obj, mstr(random(250, 251)), FLOAT_MSG_WHITE);
+   end
+   nr_add_timer_event_rand(self_obj, 5, 15, float_param);
+end
+
+procedure map_update_p_proc begin
+end
+
+procedure map_enter_p_proc begin
+   if (map_first_run) then begin
+      nr_add_timer_event_rand(self_obj, 5, 15, float_param);
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   check_tamper
+   if (tampered == false) then begin
+      if ((action_being_used == SKILL_SCIENCE) or (action_being_used == SKILL_REPAIR)) then begin
+         the_roll := roll_vs_skill(dude_obj, action_being_used, 0);
+         if (is_success(the_roll)) then begin
+            script_overrides;
+            if (get_still_status(still_status_wrecked) == false) then begin
+               set_still_status(still_status_wrecked);
+               display_mstr(130);
+               display_mstr(300); //added by killap
+            end else begin
+               display_mstr(150);
+            end
+         end else if ((is_critical(the_roll)) and (action_being_used == SKILL_REPAIR)) then begin
+            if (new_reno_wright_teen_obj != 0) then begin
+               nr_add_timer_event_tic(new_reno_wright_teen_obj, 0, call_guards_param);
+            end
+         end
+      end
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   variable used_obj;
+   check_tamper
+   if (tampered == false) then begin
+      used_obj := obj_pid(obj_being_used_with);
+      //added code about small scorpion tails - killap (expansion)
+      if ((used_obj == PID_SCORPION_TAIL) or (used_obj == PID_SMALL_SCORPION_TAIL)) then begin
+         if (get_still_status(still_status_none)) then begin
+            script_overrides;
+            set_still_status(still_status_poisoned);
+            display_mstr(140);
+            if (used_obj == PID_SCORPION_TAIL) then begin
+               remove_pid_qty(source_obj, PID_SCORPION_TAIL, 1)
+            end else begin
+               remove_pid_qty(source_obj, PID_SMALL_SCORPION_TAIL, 1)
+            end
+         end
+      end else if (get_still_status(still_status_wrecked) == false) then begin
+         if ((obj_pid(obj_being_used_with) == PID_WRENCH) or (obj_pid(obj_being_used_with) == PID_CROWBAR) or (obj_pid(obj_being_used_with) == PID_MULTI_TOOL)) then begin
+            script_overrides;
+            set_still_status(still_status_wrecked);
+            display_mstr(130);
+            display_mstr(300); //added by killap
+            the_roll := roll_vs_skill(dude_obj, SKILL_REPAIR, 0);
+            if ((is_success(the_roll) == false) and (is_critical(the_roll))) then begin
+               if (new_reno_wright_teen_obj != 0) then begin
+                  nr_add_timer_event_tic(new_reno_wright_teen_obj, 0, call_guards_param);
+               end
+            end
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   tampered := false;
+   if (get_still_status(still_status_wrecked) == false) then begin
+      if (source_obj != 0) then begin
+         if (weapon_dmg_type(source_obj) == DMG_explosion) then begin
+            set_still_status(still_status_wrecked);
+            display_mstr(300); //added by killap
+            if (new_reno_wright_teen_obj != 0) then begin
+               tampered := true;
+               nr_add_timer_event_tic(new_reno_wright_teen_obj, 0, call_guards_param);
+            end
+         end
+      end
+      if (get_still_status(still_status_wrecked) == false) then begin
+         if (target_obj != 0) then begin
+            if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
+               set_still_status(still_status_wrecked);
+               display_mstr(300); //added by killap
+               if (new_reno_wright_teen_obj != 0) then begin
+                  tampered := true;
+                  nr_add_timer_event_tic(new_reno_wright_teen_obj, 0, call_guards_param);
+               end
+            end
+         end
+      end
+   end
+   if (tampered == false) then begin
+      if (new_reno_wright_teen_obj != 0) then begin
+         nr_add_timer_event_tic(new_reno_wright_teen_obj, 0, call_guards_param);
+      end
+   end
+end
+
+procedure look_at_p_proc begin
+   set_know_still;
+   script_overrides;
+   if (get_still_status(still_status_wrecked)) then begin
+      display_mstr(120);
+   end else if (get_still_status(still_status_poisoned)) then begin
+      display_mstr(110);
+   end else begin
+      display_mstr(100);
+   end
+end
+
+procedure description_p_proc begin
+   set_know_still;
+   script_overrides;
+   if (get_still_status(still_status_wrecked)) then begin
+      display_mstr(120);
+   end else if (get_still_status(still_status_poisoned)) then begin
+      display_mstr(110);
+   end else begin
+      display_mstr(100);
+   end
+end

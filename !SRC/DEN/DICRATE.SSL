@@ -1,0 +1,42 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Crate in Church
+        Location: Den
+        Description:
+
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                        SCRIPT_DICRATE
+#define TOWN_REP_VAR                GVAR_TOWN_REP_THE_DEN
+
+#include "..\headers\command.h"
+#include "..\headers\Den.h"
+
+procedure start;
+procedure use_p_proc;
+
+procedure start begin
+end
+
+//added by killap
+procedure use_skill_on_p_proc begin
+  script_overrides;
+end
+//added
+
+procedure use_p_proc begin
+   script_overrides;
+   display_mstr(100);
+   set_crates_ID;
+end

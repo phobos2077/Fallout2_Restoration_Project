@@ -1,0 +1,867 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Computer
+        Description: This the computer that you need to fix or the power goes off.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_OSCOMPTR
+#define CUR_COMP_SCRIPT         SCRIPT_OSCOMPTR
+
+#include "..\headers\command.h"
+#include "..\headers\vault13.h"
+
+#include "..\headers\v13.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure timed_event_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+
+//added by killap - expansion pack
+procedure Node009;
+procedure Node009a;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node016a;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+procedure Node046;
+
+procedure Node999;
+procedure Node900;
+procedure Node901;
+procedure Node902;
+//end added
+
+
+#define TIMER_DOING_SEQUENCE 1
+#define TIMER_DO_SKILL 2
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+ #define LVAR_Herebefore                (0)
+ #define LVAR_Did_Seq                   (1)
+ #define LVAR_Gave_V13_Info_XP          (2)  //added by killap - RP
+ #define LVAR_Gave_VExperiments_Info_XP (3)  //added by killap - RP
+ #define LVAR_Hack_Attempts             (4)  //added by killap - RP
+ 
+variable begin
+   doSequence := 0;
+   sequenceCount := 0;
+
+   lastDudeTile := 0;
+   lastDudeRot := 0;
+
+   body;
+   g1;
+   g2;
+   g3;
+   g4;
+   g5;
+   gruth;
+   
+   came_from :=0; //added by killap - expansion pack
+end
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+procedure sequence;
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_DOING_SEQUENCE) then begin
+      call sequence;
+   end else if (fixed_param == TIMER_DO_SKILL) then begin
+      call use_skill_on_p_proc;
+   end
+end
+
+procedure start begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+   if (not combat_is_initialized) then
+      call use_skill_on_p_proc;
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   variable item;
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+      
+   /*critter_mod_skill(dude_obj, SKILL_SCIENCE, 100);
+   item:=create_object(PID_COMPUTER_VOICE_MODULE,0,0);
+   add_obj_to_inven(dude_obj, item);*/
+   
+end
+
+
+/**********************************************************************************
+**********************************************************************************/
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+
+/**********************************************************************************
+   Make sure the door is working.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+   if (not combat_is_initialized) then begin
+      script_overrides;
+
+      if (map_var(MVAR_Computer_Status) == COMP_FIXED) then begin
+            //added by killap - expansion
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node009;
+            gSay_End;
+            end_dialogue;
+            //end added
+         /*if (local_var(LVAR_Did_Seq) or not VAULT13_SEQ) then begin
+            call Node007;
+         end else begin
+            debug_msg("OSCOMPTR: called node 8 through skill proc");
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node008;
+            gSay_End;
+            end_dialogue;
+         end*/
+      end else if (map_var(MVAR_Computer_Status) == COMP_DUMB_PART or map_var(MVAR_Computer_Status) == COMP_PART) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node006;
+         gSay_End;
+         end_dialogue;
+      end else begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node001;
+         gSay_End;
+         end_dialogue;
+      end
+      set_local_var(LVAR_Herebefore, 1);
+   end
+
+   if (doSequence == 1) then begin
+      doSequence := 0;
+      call sequence;
+   end
+end
+
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+
+procedure use_obj_on_p_proc begin
+   script_overrides;
+   add_timer_event(self_obj, 2, TIMER_DO_SKILL);
+end
+
+
+/******************************************************************************************
+   IF it gets damaged it breaks
+******************************************************************************************/
+
+procedure damage_p_proc begin
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   Reply(103);
+   NOption(104, Node002, 1);
+   NOption(105, Node003, 1);
+   if (has_skill(dude_obj, SKILL_SCIENCE) > 25) then
+      NOption(106, Node004, 1);
+   if (has_skill(dude_obj, SKILL_SCIENCE) > 50) then
+      NOption(107, Node005, 1);
+   NOption(108, Node999, 1);
+end
+
+procedure Node002 begin
+   Reply(109);
+   NOption(110, Node003, 1);
+   if (has_skill(dude_obj, SKILL_SCIENCE) > 25) then
+      NOption(111, Node004, 1);
+   if (has_skill(dude_obj, SKILL_SCIENCE) > 50) then
+      NOption(112, Node005, 1);
+   NOption(113, Node999, 1);
+end
+
+procedure Node003 begin
+   Reply(114);
+   if (has_skill(dude_obj, SKILL_SCIENCE) > 25) then
+      NOption(115, Node004, 1);
+   NOption(116, Node005, 1);
+   NOption(117, Node999, 1);
+end
+
+procedure Node004 begin
+   Reply(118);
+   NOption(119, Node005, 1);
+   NOption(120, Node999, 1);
+end
+
+procedure Node005 begin
+   set_v13_status(FLG_SABOTAGE);
+   SETDSTATUS(GDPART);
+   Reply(121);
+   if (dude_iq < 4) then begin
+      set_map_var(MVAR_Computer_Status, COMP_DUMB_PART);
+      ENDOPTION;
+   end else begin
+      set_map_var(MVAR_Computer_Status, COMP_PART);
+      ENDOPTION;
+   end
+end
+//122
+//123
+
+procedure Node006 begin
+   if (obj_carrying_pid_obj(dude_obj, VOICE_CHIP_PID)) then begin
+      destroy_object(obj_carrying_pid_obj(dude_obj, VOICE_CHIP_PID));
+      set_map_var(MVAR_Computer_Status, COMP_FIXED);
+      SETDSTATUS(GDFIXED);
+      set_global_var(GVAR_V13_COMP_QST, 2); // Seraph's Code
+      Reply(124);
+      ENDOPTION;
+   end else begin
+      Reply(125);
+      ENDOPTION;
+   end
+end
+
+procedure Node007 begin
+   display_msg(mstr(127));
+end
+
+procedure NodeDoSeq begin
+   doSequence := 1;
+   call Node999;
+end
+
+procedure Node008 begin
+   Reply(128);
+   MOREOPTION(NodeDoSeq);
+end
+
+//added by killap - expansion pack
+procedure Node009 begin
+   Reply(200);
+   if (local_var(LVAR_Herebefore) != 2) then
+      NOption(201, Node010, 4);
+   NOption(202, Node011, 4);
+   NOption(203, Node012, 4);
+   
+   NLowOption(206,Node009a);
+      
+   if ( not(local_var(LVAR_Did_Seq)) and (VAULT13_SEQ) )then
+      NOption(204, Node008, 1);
+   NOption(205, Node999, 1);
+   set_local_var(LVAR_Herebefore, 2);
+end
+
+procedure Node009a begin
+   Reply(520);
+   NOption(521, Node999, 1);
+end
+
+procedure Node010 begin
+   Reply(210);
+   NOption(211, Node011, 1);
+   NOption(212, Node012, 1);
+   if ( not(local_var(LVAR_Did_Seq)) and (VAULT13_SEQ) )then
+      NOption(213, Node008, 1);
+   NOption(214, Node999, 1);
+end
+
+procedure Node011 begin
+   Reply(220);
+   NOption(221, Node009, 1);
+   NOption(222, Node999, 1);
+end
+
+procedure Node012 begin
+   Reply(230);
+   NOption(231, Node013, 1);
+   NOption(232, Node999, 1);
+end
+
+
+procedure Node013 begin
+   Reply(240);
+   NOption(241, Node014, 1);
+   NOption(242, Node023, 1);
+   if (local_var(LVAR_Hack_Attempts < 3)) then
+      NOption(243, Node027, 1);
+   NOption(244, Node999, 1);
+end
+
+procedure Node014 begin
+   Reply(250);
+   NOption(251, Node015, 1);
+end
+
+procedure Node015 begin
+   Reply(252);
+   NOption(253, Node016, 1);
+end
+
+procedure Node016 begin
+   Reply(254);
+   NOption(255, Node016a, 1);
+end
+
+procedure Node016a begin
+   Reply(2541);
+   NOption(255, Node017, 1);
+end
+
+procedure Node017 begin
+   Reply(256);
+   NOption(257, Node018, 1);
+end
+
+procedure Node018 begin
+   Reply(258);
+   NOption(259, Node019, 1);
+end
+
+procedure Node019 begin
+   Reply(260);
+   NOption(261, Node020, 1);
+end
+
+procedure Node020 begin
+   Reply(262);
+   NOption(263, Node021, 1);
+end
+
+procedure Node021 begin
+   Reply(264);
+   NOption(265, Node022, 1);
+end
+
+
+procedure Node022 begin
+   Reply(266);
+   NOption(267, Node023, 1);
+   if (local_var(LVAR_Hack_Attempts < 3)) then
+      NOption(268, Node027, 1);
+   NOption(269, Node999, 1);
+end
+
+
+procedure Node023 begin
+   Reply(270);
+   NOption(271, Node024, 1);
+end
+
+procedure Node024 begin
+   Reply(272);
+   NOption(273, Node025, 1);
+end
+
+procedure Node025 begin
+   Reply(274);
+   NOption(275, Node026, 1);
+end
+
+procedure Node026 begin
+   Reply(276);
+   NOption(277, Node014, 1);
+   if (local_var(LVAR_Hack_Attempts < 3)) then
+      NOption(278, Node027, 1);
+   NOption(279, Node999, 1);
+end
+
+procedure Node027 begin
+   Reply(280);
+   NOption(281, Node013, 1);
+   NOption(282, Node900, 1);
+   NOption(283, Node901, 1);
+   NOption(284, Node999, 1);
+end
+
+procedure Node900 begin
+   if (local_var(LVAR_Hack_Attempts >= 3)) then begin
+      call Node029;
+   end else if (is_success(do_check(dude_obj, STAT_lu, -2)))  then begin
+      call Node031;
+   end else begin
+      call Node028;
+   end
+end
+
+procedure Node028 begin
+   set_local_var(LVAR_Hack_Attempts,local_var(LVAR_Hack_Attempts)+1);
+   Reply(290);
+   if (local_var(LVAR_Hack_Attempts < 3)) then
+      NOption(291, Node027, 1);
+   NOption(292, Node900, 1);
+   NOption(293, Node901, 1);
+   NOption(294, Node999, 1);
+end
+
+procedure Node029 begin
+   Reply(300);
+   NOption(301, Node009, 1);
+   NOption(302, Node026, 1);
+   NOption(303, Node999, 1);
+end
+
+procedure Node901 begin
+   if (has_skill(dude_obj, SKILL_SCIENCE) > 80) then
+      call Node032;
+   else begin
+      call Node030;
+   end
+end
+
+//fail to hack
+procedure Node030 begin
+   Reply(310);
+   NOption(311, Node011, 1);
+   NOption(312, Node012, 1);
+   if ( not(local_var(LVAR_Did_Seq)) and (VAULT13_SEQ) )then
+      NOption(313, Node008, 1);
+   NOption(314, Node999, 1);
+end
+
+procedure Node031 begin
+   Reply(320);
+   NOption(322, Node033, 1);
+   NOption(323, Node999, 1);
+end
+
+procedure Node032 begin
+   Reply(321);
+   NOption(322, Node033, 1);
+   NOption(323, Node999, 1);
+end
+
+procedure Node033 begin
+   Reply(330);
+   NOption(331, Node034, 1);
+end
+
+procedure Node034 begin
+   Reply(332);
+   NOption(333, Node035, 1);
+end
+
+procedure Node035 begin
+   Reply(334);
+   NOption(335, Node036, 1);
+end
+
+procedure Node036 begin
+   Reply(336);
+   NOption(337, Node037, 1);
+end
+
+procedure Node037 begin
+   Reply(338);
+   NOption(339, Node902, 1);
+   NOption(340, Node999, 1);
+   
+   if (local_var(LVAR_Gave_V13_Info_XP) == 0) then begin
+      set_local_var(LVAR_Gave_V13_Info_XP,1);
+      give_xp(800);
+      display_msg(mstr(510));
+   end
+end
+
+procedure Node902 begin
+   if (is_success(do_check(dude_obj, STAT_lu, -1)))  then begin
+      call Node039;
+   end else begin
+      call Node038;
+   end
+end
+
+procedure Node038 begin
+   game_time_advance(ONE_GAME_HOUR*3);
+   Reply(350);
+   NOption(351, Node999, 1);
+end
+
+procedure Node039 begin
+   game_time_advance(ONE_GAME_HOUR*3);
+   Reply(360);
+   NOption(361, Node040, 1);
+end
+
+procedure Node040 begin
+   Reply(362);
+   NOption(363, Node041, 1);
+end
+
+procedure Node041 begin
+   Reply(364);
+   NOption(365, Node042, 1);
+end
+
+procedure Node042 begin
+   Reply(366);
+   NOption(367, Node043, 1);
+end
+
+procedure Node043 begin
+   Reply(368);
+   NOption(369, Node044, 1);
+end
+
+procedure Node044 begin
+   Reply(370);
+   NOption(371, Node045, 1);
+end
+
+procedure Node045 begin
+   Reply(372);
+   NOption(373, Node046, 1);
+end
+
+procedure Node046 begin
+   Reply(374);
+   NOption(375, Node999, 1);
+   
+   if (local_var(LVAR_Gave_VExperiments_Info_XP) == 0) then begin
+      set_local_var(LVAR_Gave_VExperiments_Info_XP,1);
+      set_global_var(GVAR_VAULT_EXPERIMENTS,2);
+      give_xp(1000);
+      display_msg(mstr(500));
+   end
+end
+//end added
+
+#define BOS_TILE      21913
+#define BOS_ROT       2
+
+#define GUARD_TILE_1  22309
+#define GUARD_ROT_1   2
+
+#define GUARD_TILE_2  22707
+#define GUARD_ROT_2   3
+
+#define GUARD_TILE_3  22718
+#define GUARD_ROT_3   1
+
+#define GUARD_TILE_4  22116
+#define GUARD_ROT_4   2
+
+#define GUARD_TILE_5  21313
+#define GUARD_ROT_5   2
+
+#define GRUTHAR_TILE  22713
+#define GRUTHAR_ROT   5
+
+#define TILE 22313
+
+procedure loadPid(variable pid, variable tile, variable rot, variable ele) begin
+   variable retObj;
+
+   retObj := create_object(pid, tile, ele);
+   if (retObj) then begin
+      reg_anim_clear(retObj);
+      reg_anim_begin();
+      anim(retObj, ANIMATE_ROTATION, rot);
+      reg_anim_end();
+   end
+
+   return retObj;
+end
+/*
+#define HIDEMEMBER(x)    \
+   if (x) then begin     \
+      hid_##x := 1;      \
+      set_obj_visibility(x, OBJ_INVIS); \
+   end
+
+#define UNHIDE(x)        \
+   if (x) then begin     \
+      if (hid_##x) then begin \
+         hid_##x := 0;        \
+         set_obj_visibility(x, OBJ_VIS);\
+      end                               \
+   end
+
+variable begin
+   hid_Vic_Ptr;
+   hid_Myron_Ptr;
+   hid_Marcus_Ptr;
+   hid_MacRae_Ptr;
+   hid_Sulik_Ptr;
+   hid_Lenny_Ptr;
+   hid_Cyberdog_Ptr;
+   hid_Doc_Ptr;
+   hid_Goris_Ptr;
+   hid_Davin_Ptr;
+   hid_Miria_Ptr;
+   hid_Robobrain_Ptr;
+   hid_Dogmeat_Ptr;
+   hid_Pariah_Dog_Ptr;
+   hid_K9_Ptr;
+   hid_Robobrain_Human_Ptr;
+   hid_Robobrain_Abnormal_Ptr;
+   hid_Robobrain_Chimp_Ptr;
+end
+
+procedure hideParty begin
+   HIDEMEMBER(Vic_Ptr)
+   HIDEMEMBER(Myron_Ptr)
+   HIDEMEMBER(Marcus_Ptr)
+   HIDEMEMBER(MacRae_Ptr)
+   HIDEMEMBER(Sulik_Ptr)
+   HIDEMEMBER(Lenny_Ptr)
+   HIDEMEMBER(Cyberdog_Ptr)
+   HIDEMEMBER(Doc_Ptr)
+   HIDEMEMBER(Goris_Ptr)
+   HIDEMEMBER(Davin_Ptr)
+   HIDEMEMBER(Miria_Ptr)
+   HIDEMEMBER(Robobrain_Ptr)
+   HIDEMEMBER(Dogmeat_Ptr)
+   HIDEMEMBER(Pariah_Dog_Ptr)
+   HIDEMEMBER(K9_Ptr)
+   HIDEMEMBER(Robobrain_Human_Ptr)
+   HIDEMEMBER(Robobrain_Abnormal_Ptr)
+   HIDEMEMBER(Robobrain_Chimp_Ptr)
+end
+
+procedure unhideParty begin
+   UNHIDE(Vic_Ptr)
+   UNHIDE(Myron_Ptr)
+   UNHIDE(Marcus_Ptr)
+   UNHIDE(MacRae_Ptr)
+   UNHIDE(Sulik_Ptr)
+   UNHIDE(Lenny_Ptr)
+   UNHIDE(Cyberdog_Ptr)
+   UNHIDE(Doc_Ptr)
+   UNHIDE(Goris_Ptr)
+   UNHIDE(Davin_Ptr)
+   UNHIDE(Miria_Ptr)
+   UNHIDE(Robobrain_Ptr)
+   UNHIDE(Dogmeat_Ptr)
+   UNHIDE(Pariah_Dog_Ptr)
+   UNHIDE(K9_Ptr)
+   UNHIDE(Robobrain_Human_Ptr)
+   UNHIDE(Robobrain_Abnormal_Ptr)
+   UNHIDE(Robobrain_Chimp_Ptr)
+end
+  */
+
+
+procedure sequence begin
+   variable sound;
+
+
+   if (sequenceCount == 0) then begin
+      game_ui_disable;
+      party_no_follow_on;
+      fadeout(500);
+
+      party_member_hide_all // Seraph's Fix: Uncommented out this line
+
+      set_obj_visibility(dude_obj, OBJ_INVIS);
+      lastdudetile := dude_tile;
+      lastduderot := obj_get_rot(dude_obj);
+
+      body := loadPid(PID_END_BOSS, BOS_TILE, BOS_ROT, elevation(self_obj));
+      g1 := loadPid(PID_MALE_ENCALVE_PATROL, GUARD_TILE_1, GUARD_ROT_1, elevation(self_obj));
+      g2 := loadPid(PID_MALE_ENCALVE_PATROL, GUARD_TILE_2, GUARD_ROT_2, elevation(self_obj));
+      g3 := loadPid(PID_MALE_ENCALVE_PATROL, GUARD_TILE_3, GUARD_ROT_3, elevation(self_obj));
+      g4 := loadPid(PID_MALE_ENCALVE_PATROL, GUARD_TILE_4, GUARD_ROT_4, elevation(self_obj));
+      g5 := loadPid(PID_MALE_ENCALVE_PATROL, GUARD_TILE_5, GUARD_ROT_5, elevation(self_obj));
+      gruth := loadPid(PID_LARGE_DEATHCLAW, GRUTHAR_TILE, GRUTHAR_ROT, elevation(self_obj));
+
+      move_to(dude_obj, GRUTHAR_TILE, elevation(self_obj));
+
+      fadein(500);
+      float_msg(body, mstr(129), FLOAT_MSG_NORMAL);
+      sequenceCount += 1;
+      add_timer_event(self_obj, game_ticks(5), TIMER_DOING_SEQUENCE);
+   end else if (sequenceCount == 1) then begin
+      float_msg(gruth, mstr(130), FLOAT_MSG_RED);
+      sequenceCount += 1;
+      add_timer_event(self_obj, game_ticks(5), TIMER_DOING_SEQUENCE);
+   end else if (sequenceCount == 2) then begin
+      float_msg(body, mstr(131), FLOAT_MSG_NORMAL);
+      sequenceCount += 1;
+      add_timer_event(self_obj, game_ticks(5), TIMER_DOING_SEQUENCE);
+   end else if (sequenceCount == 3) then begin
+      float_msg(gruth, mstr(132), FLOAT_MSG_RED);
+      sequenceCount += 1;
+      add_timer_event(self_obj, game_ticks(5), TIMER_DOING_SEQUENCE);
+   end else if (sequenceCount == 4) then begin
+      float_msg(body, mstr(133), FLOAT_MSG_RED);
+      animate_move_obj_to_tile(body, TILE, ANIMATE_WALK);
+      sequenceCount += 1;
+      add_timer_event(self_obj, game_ticks(2), TIMER_DOING_SEQUENCE);
+   end else if (sequenceCount == 5) then begin
+      if (not anim_busy(body)) then begin
+         sound := sfx_build_char_name(body, ANIM_throw_punch, snd_contact);
+         reg_anim_clear(body);
+         reg_anim_begin();
+         reg_anim_animate(body, ANIM_throw_punch, -1);
+         reg_anim_play_sfx(body, sound, 0);
+         reg_anim_end();
+         sequenceCount += 1;
+      end
+      add_timer_event(self_obj, 5, TIMER_DOING_SEQUENCE);
+   end else if (sequenceCount == 6) then begin
+      sound := sfx_build_char_name(gruth, ANIM_chunks_of_flesh, snd_die);
+      reg_anim_clear(gruth);
+      reg_anim_begin();
+      reg_anim_animate(gruth, ANIM_chunks_of_flesh, -1);
+      reg_anim_play_sfx(gruth, sound, 0);
+      reg_anim_end();
+      sequenceCount += 1;
+      add_timer_event(self_obj, game_ticks(4), TIMER_DOING_SEQUENCE);
+   end else if (sequenceCount == 7) then begin
+      float_msg(body, mstr(134), FLOAT_MSG_NORMAL);
+      sequenceCount += 1;
+      add_timer_event(self_obj, game_ticks(3), TIMER_DOING_SEQUENCE);
+   end else if (sequenceCount == 8) then begin
+      fadeout(1000);
+      destroy_object(body);
+      destroy_object(g1);
+      destroy_object(g2);
+      destroy_object(g3);
+      destroy_object(g4);
+      destroy_object(g5);
+      destroy_object(gruth);
+
+      move_to(dude_obj, lastdudetile, elevation(self_obj));
+      anim(dude_obj, ANIMATE_ROTATION, lastduderot);
+      set_obj_visibility(dude_obj, OBJ_VIS);
+
+      party_member_unhide_all // Seraph's Fix: Uncommented out this line
+
+      fadein(500);
+      game_ui_enable;
+      if (Goris_In_Party) then begin
+         float_msg(Goris_Ptr, mstr(135), FLOAT_MSG_RED);
+      end
+      set_local_var(LVAR_Did_Seq, 1);
+      party_no_follow_off;
+      ON_VAULT13_SEQ_DONE;
+   end
+end

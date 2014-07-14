@@ -1,0 +1,375 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Ring Fighters
+        Location: New Reno
+        Description:
+
+        Log: MOCK FIGHT
+
+           Created: April 21, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCBOXER
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure map_update_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                     (0)
+#define LVAR_Home_Tile                 (1)
+#define LVAR_Hit_Points                (2)
+#define LVAR_Count_Out                 (3)
+#define LVAR_Boxer_Num                 (4)
+
+#define block_float_bit                bit_10
+#define self_down_bit                  bit_11
+#define other_down_bit                 bit_12
+
+#define block_float                    lvar_bit(LVAR_Flags, block_float_bit)
+#define set_block_float                set_lvar_bit_on(LVAR_Flags, block_float_bit)
+#define off_block_float                set_lvar_bit_off(LVAR_Flags, block_float_bit)
+
+#define self_down                      lvar_bit(LVAR_Flags, self_down_bit)
+#define set_self_down                  set_lvar_bit_on(LVAR_Flags, self_down_bit)
+#define off_self_down                  set_lvar_bit_off(LVAR_Flags, self_down_bit)
+
+#define other_down                     lvar_bit(LVAR_Flags, other_down_bit)
+#define set_other_down                 set_lvar_bit_on(LVAR_Flags, other_down_bit)
+#define off_other_down                 set_lvar_bit_off(LVAR_Flags, other_down_bit)
+
+#define boxer_is_black                 (false) // ###
+#define boxer_is_white                 (false) // ###
+
+#define boxer_starting_hp              (50)
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+#define set_other_boxer                if (self_obj == fighting_boxer_1_obj) then begin            \
+                                          other_boxer_obj := fighting_boxer_2_obj;                 \
+                                       end else if (self_obj == fighting_boxer_2_obj) then begin   \
+                                          other_boxer_obj := fighting_boxer_1_obj;                 \
+                                       end
+
+#define boxing_floater_rand(x, y)      if ((block_float == false) or (boxer_resting)) then begin                  \
+                                          if ((other_boxer_obj != 0) and (boxer_resting == false)) then begin     \
+                                             float_msg(other_boxer_obj, " ", FLOAT_COLOR_NORMAL);                 \
+                                          end                                                                     \
+                                          floater_rand(x, y);                                                     \
+                                          nr_add_timer_event_rand(self_obj, 5, 15, float_param);                  \
+                                       end                                                                        \
+                                       set_block_float
+
+
+#define set_self_knocked_down                                                       \
+         set_self_down;                                                             \
+         set_other_boxer                                                            \
+         if (other_boxer_obj != 0) then begin                                       \
+            nr_add_timer_event_tic(other_boxer_obj, 0, other_boxer_down_param);     \
+         end
+
+#define set_self_got_up                                                             \
+         off_self_down;                                                             \
+         set_other_boxer                                                            \
+         if (other_boxer_obj != 0) then begin                                       \
+            nr_add_timer_event_tic(other_boxer_obj, 0, other_boxer_up_param);       \
+         end
+
+/* Local variables which do not need to be saved between map changes. */
+import variable fighting_boxer_1_obj;
+import variable fighting_boxer_2_obj;
+variable temp_tile;
+variable the_sound;
+variable the_sound2;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+variable other_boxer_obj;
+variable the_punch;
+   if (self_visible) then begin
+      if (currently_fighting) then begin
+         check_set_obj_visiblility(self_obj, true);
+      end else if (fixed_param == float_param) then begin
+         off_block_float;
+      end else if (fixed_param == change_round_param) then begin
+         // control rounds
+         if (boxer_killed == false) then begin
+            if (boxer_resting) then begin
+               off_boxer_resting;
+               nr_add_timer_event(self_obj,ONE_GAME_MINUTE, change_round_param);
+               if (fighting_boxer_1_obj != 0) then begin
+                  nr_add_timer_event_tic(fighting_boxer_1_obj, 0, new_round_param);
+               end
+               if (fighting_boxer_2_obj != 0) then begin
+                  nr_add_timer_event_tic(fighting_boxer_2_obj, 0, new_round_param);
+               end
+            end else begin
+               set_boxer_resting;
+               nr_add_timer_event_tic(self_obj, 15 * ONE_GAME_SECOND, change_round_param);
+            end
+         end
+      end else if (fixed_param == other_boxer_down_param) then begin
+         set_other_down;
+      end else if (fixed_param == other_boxer_up_param) then begin
+         off_other_down;
+      end else if (fixed_param == punch_thrown_param) then begin
+         // check hit, etc
+         if (self_down == false) then begin
+            if (is_success(do_check(self_obj, STAT_st, -random(0,5)))) then begin
+               //avoid punch
+               reg_anim_clear(self_obj);
+               reg_anim_begin();
+                  reg_anim_animate(self_obj, ANIM_dodge_anim, -1);
+               reg_anim_end();
+               boxing_floater_rand(310, 315);
+            end else begin
+               dec_local_var_amt(LVAR_Hit_Points, random(1,5));
+               if (local_var(LVAR_Hit_Points) > 0) then begin
+                  the_sound := sfx_build_char_name(self_obj, ANIM_throw_punch, snd_contact);
+                  reg_anim_clear(self_obj);
+                  reg_anim_begin();
+                     reg_anim_animate(self_obj,ANIM_hit_from_front,-1);
+                     reg_anim_play_sfx(self_obj, the_sound, 1);
+                  reg_anim_end();
+                  boxing_floater_rand(300, 305);
+               end else begin
+                  set_self_knocked_down
+                  the_sound := sfx_build_char_name(self_obj, ANIM_throw_punch, snd_contact);
+                  the_sound2 := sfx_build_char_name(self_obj, ANIM_fall_back, snd_knock_down);
+                  reg_anim_clear(self_obj);
+                  reg_anim_begin();
+                     reg_anim_animate(self_obj,ANIM_fall_back,-1);
+                     reg_anim_play_sfx(self_obj, the_sound, 1);
+                     reg_anim_play_sfx(self_obj, the_sound2, 5);
+                  reg_anim_end();
+                  boxing_floater_rand(330, 335);
+               end
+            end
+         end
+      end else if (fixed_param == new_round_param) then begin
+         inc_local_var_amt(LVAR_Hit_Points, ((boxer_starting_hp - local_var(LVAR_Hit_Points)) / 2));
+      end else if (fixed_param == control_boxers_param) then begin
+         if (combat_is_initialized == false) then begin
+            if (boxer_killed == false) then begin
+               if (self_down) then begin
+                  inc_local_var(LVAR_Count_Out);
+                  if (local_var(LVAR_Hit_Points) < random(0,4)) then begin
+                     inc_local_var_amt(LVAR_Hit_Points, random(0,2));
+                     if (local_var(LVAR_Count_Out) > 3) then begin
+                        if (boxer_resting == false) then begin
+                           if (fighting_boxer_1_obj != 0) then begin
+                              nr_add_timer_event_tic(fighting_boxer_1_obj, 0, change_round_param);
+                           end
+                        end
+                     end
+                  end else begin
+                     set_self_got_up
+                     reg_anim_clear(self_obj);
+                     reg_anim_begin();
+                        reg_anim_animate(self_obj, ANIM_back_to_standing, -1);
+                     reg_anim_end();
+                  end
+               end else if (boxer_resting) then begin
+                  if (self_tile != local_var(LVAR_Home_Tile)) then begin
+                     animate_move_to_tile(local_var(LVAR_Home_Tile));
+                  end else begin
+                     boxing_floater_rand(360, 368);
+                  end
+               end else begin
+                  set_local_var(LVAR_Count_Out, 0);
+                  set_other_boxer
+                  if ((other_boxer_obj != 0) and (anim_busy(self_obj) == false)) then begin
+                     Meet_Obj_Face(other_boxer_obj)
+                     else if (anim_busy(other_boxer_obj) == false) then begin
+                        if ((random(1, 6) == 3) or (other_down)) then begin
+                           // move
+                           if (other_down) then begin
+                              boxing_floater_rand(320, 323);
+                           end
+                           if (tile_distance_objs(self_obj, other_boxer_obj) < 4) then begin
+                              animate_move_to_tile(tile_num_in_direction(self_tile, (self_cur_rot + random(2, 4)) % 6, random(1,3)));
+                           end
+                        end else if (random(1, 15) != 2) then begin
+                           if (random(1,7) == 2) then begin
+                              if (self_is_armed) then begin
+                                 inven_unwield(self_obj);
+                              end else if (self_fid == FID_BOXER) then begin
+                                 if (obj_is_carrying_obj_pid(self_obj, PID_SPECIAL_BOXER_WEAPON) > 0) then begin
+                                    wield_obj(obj_carrying_pid_obj(self_obj, PID_SPECIAL_BOXER_WEAPON));
+                                 end
+                              end
+                           end else begin
+                              boxing_floater_rand(340, 347);
+                              // punch
+                              reg_anim_clear(self_obj);
+                              reg_anim_begin();
+                                 the_punch := random(1, 2) + (2 * self_is_armed);
+                                 if (the_punch == 1) then begin
+                                    reg_anim_animate(self_obj, ANIM_kick_leg, -1);
+                                 end else if (the_punch == 2) then begin
+                                    reg_anim_animate(self_obj, ANIM_throw_punch, -1);
+                                 end else if (the_punch == 3) then begin
+                                    reg_anim_animate(self_obj, ANIM_thrust_anim, -1);
+                                 end else begin
+                                    reg_anim_animate(self_obj, ANIM_swing_anim, -1);
+                                 end
+                              reg_anim_end();
+                              nr_add_timer_event_tic(other_boxer_obj, 3, punch_thrown_param);
+                           end
+                        end else begin
+                           // taunt
+                           boxing_floater_rand(350, 357);
+                        end
+                     end
+                  end
+               end
+            end
+         end
+      end
+      nr_add_timer_event_rand(self_obj, 1, 2, control_boxers_param);
+   end
+end
+
+procedure map_update_p_proc begin
+   if (currently_fighting) then begin
+      check_set_obj_visiblility(self_obj, true);
+   end
+end
+
+procedure map_enter_p_proc begin
+variable the_cnt;
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_BOXER);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_BOXER);
+         set_local_var(LVAR_Hit_Points, boxer_starting_hp);
+         set_local_var(LVAR_Home_Tile, self_tile);
+         if (self_fid == FID_BOXER) then begin
+            give_pid_qty(self_obj, PID_SPECIAL_BOXER_WEAPON, 1)
+         end
+      end else if (boxer_killed) then begin
+         destroy_object(self_obj);
+      end
+      check_set_obj_visiblility(self_obj, false);
+      the_cnt := 0;
+      while ((tile_boxing_gym_ring(self_tile) == false) and (the_cnt <= 5)) do begin
+         the_cnt += 1;
+         debug_msg("trying to find a place for the boxer to be in the ring");
+         random_tile_in_gym;
+         critter_attempt_placement(self_obj, temp_tile, self_elevation);
+      end
+      nr_add_timer_event_rand(self_obj, 1, 3, control_boxers_param);
+   end
+
+   if (tile_boxing_gym_ring(self_tile)) then begin
+      if (local_var(LVAR_Boxer_Num) == 1) then begin
+         fighting_boxer_1_obj := self_obj;
+      end else if (local_var(LVAR_Boxer_Num) == 2) then begin
+         fighting_boxer_2_obj := self_obj;
+      end else if (fighting_boxer_1_obj == 0) then begin
+         fighting_boxer_1_obj := self_obj;
+         set_local_var(LVAR_Boxer_Num, 1);
+      end else begin
+         fighting_boxer_2_obj := self_obj;
+         set_local_var(LVAR_Boxer_Num, 2);
+      end
+   end
+   if (local_var(LVAR_Boxer_Num) == 1) then begin
+      if (random(0,1)) then begin
+         set_boxer_resting;
+         nr_add_timer_event_rand(self_obj, 5, 15, change_round_param);
+      end else begin
+         off_boxer_resting;
+         nr_add_timer_event_rand(self_obj, 15, 60, change_round_param);
+      end
+   end
+end
+
+procedure critter_p_proc begin
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_hostile;
+   end
+end
+
+procedure talk_p_proc begin
+   call Node001;
+end
+
+procedure destroy_p_proc begin
+   remove_pid_qty(self_obj, PID_SPECIAL_BOXER_WEAPON, 1)
+   inc_neutral_critter
+   set_boxer_killed;
+   if (self_obj == fighting_boxer_1_obj) then begin
+      fighting_boxer_1_obj := 0;
+   end else if (self_obj == fighting_boxer_2_obj) then begin
+      fighting_boxer_2_obj := 0;
+   end
+end
+
+procedure look_at_p_proc begin
+   debug_msg("look_at_p_proc for boxer #" + local_var(LVAR_Boxer_Num));
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr_rand(160-(boxer_is_black*10), 162+(boxer_is_white*6));
+end
+
+procedure use_skill_on_p_proc begin
+   // ### give stealing bonus
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   if ((dude_wearing_power_armor) or (dude_is_prizefighter)) then begin
+      floater_rand(203,211);
+   end else begin
+      floater_rand(216-(dude_is_female*4), 219+(dude_is_female*8));
+   end
+end

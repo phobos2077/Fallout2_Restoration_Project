@@ -1,0 +1,53 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Lloyd's box of money
+        Location : New Reno Golgotha
+        Description: This is where lloyd hid the loot
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: May 13, 1998
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_NILYDBOX
+
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+/* Defines and Macros */
+
+#define LVAR_Stripped_Money                     (0)
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   if (map_first_run) then begin
+      item_caps_adjust(self_obj, 1000);
+   end
+end
+
+procedure map_update_p_proc begin
+   if (local_var(LVAR_Stripped_Money) == false) then begin
+      if ((get_escape(escape_follow)) or (get_escape(escape_betrayed)) or (lloyd_took_money and (lloyd_dead == false))) then begin
+         set_local_var(LVAR_Stripped_Money, true);
+         item_caps_adjust(self_obj, -self_caps);
+      end
+   end
+end

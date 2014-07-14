@@ -1,0 +1,48 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Ghost Farm Trap Door
+        Location: Ghost Farm Trap Door
+        Description:
+
+        Log:
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_MITRPDOR
+#include "..\headers\command.h"
+#include "..\headers\Modoc.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure map_enter_p_proc;
+
+#define check_trap_door                      if (entered_caves) then begin                         \
+                                                debug_msg("SHOULD BE SHOWING TRAP DOOR");          \
+                                                check_set_obj_visiblility(self_obj, false);               \
+                                             end else if (map_first_run) then begin                \
+                                                debug_msg("SHOULD BE FUCKING HIDING TRAP DOOR");   \
+                                                check_set_obj_visiblility(self_obj, true);                \
+                                             end
+
+procedure start begin
+end
+
+procedure description_p_proc begin
+end
+
+procedure use_p_proc begin
+end
+
+procedure map_enter_p_proc begin
+   debug_msg("trap door map_enter_p_proc: " + map_is_known(MAP_GHOST_CAVERN));
+   check_trap_door
+end

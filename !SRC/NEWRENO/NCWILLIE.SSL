@@ -1,0 +1,168 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                     SCRIPT_NCWILLIE
+#define TOWN_REP_VAR             GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+procedure combat_p_proc;
+
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node002;
+
+#define LVAR_Flags                        (0)
+
+#define leaving_bit                       bit_10
+#define can_talk_bit                      bit_11
+
+#define leaving                           lvar_bit(LVAR_Flags, leaving_bit)
+#define set_leaving                       set_lvar_bit_on(LVAR_Flags, leaving_bit)
+
+#define can_talk                          lvar_bit(LVAR_Flags, can_talk_bit)
+#define set_can_talk                      set_lvar_bit_on(LVAR_Flags, can_talk_bit)
+
+#define willie_exit_tile                  (34095)
+
+variable next_param;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   debug_msg("willie timed_event_p_proc("+fixed_param+")");
+   next_param := fixed_param;
+   if (next_param == 205) then begin
+      if (Lenny_In_Party) then begin
+         float_msg(Lenny_Ptr, mstr(next_param), FLOAT_COLOR_NORMAL);
+      end
+      next_param += 1 + (5 * (Lenny_In_Party == false));
+   end else if (next_param == 206) then begin
+      if (Lenny_In_Party) then begin
+         floater(next_param);
+      end
+      next_param += 1;
+   end else if (next_param <= 202) then begin
+      gfade_in(ONE_GAME_SECOND);
+      dude_floater(next_param + (500*dude_is_stupid)); //edit by killap -added (500*dude_is_stupid)
+      next_param += 1;
+   end else if (combat_is_initialized == false) then begin
+      if (next_param > 206) then begin
+         set_can_talk;
+         set_is_float;
+         call Node002;
+      end else begin
+         if (next_param == 203) then begin
+            reg_anim_clear(self_obj);
+            reg_anim_begin();
+               reg_anim_animate(self_obj, ANIM_back_to_standing, -1);
+            reg_anim_end();
+            game_ui_enable;
+         end else begin
+            set_leaving;
+         end
+         floater(next_param);
+         next_param += 1;
+      end
+   end
+   flush_add_timer_event_sec(self_obj, random(3, 5), next_param);
+end
+
+
+procedure map_enter_p_proc begin
+end
+
+procedure map_exit_p_proc begin
+   destroy_object(self_obj);
+end
+
+procedure combat_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if (leaving) then begin
+      if (self_tile != willie_exit_tile) then begin
+         anim_move_to_point_rate(willie_exit_tile, 5)
+      end else if (anim_busy(self_obj) == false) then begin
+         destroy_object(self_obj);
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+end
+
+procedure talk_p_proc begin
+   if (can_talk) then begin
+      set_is_click;
+      call Node002;
+      set_herebefore;
+      if (next_param != 0) then begin
+         flush_add_timer_event_sec(self_obj, random(3, 5), next_param);
+      end
+   end
+end
+
+procedure destroy_p_proc begin
+   inc_neutral_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150);
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+procedure Node002 begin
+   floater_rand(300, 304 + (2 * is_click));
+end

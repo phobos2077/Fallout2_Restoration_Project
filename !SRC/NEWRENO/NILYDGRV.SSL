@@ -1,0 +1,335 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Lloyd's loot Grave
+        Location: New Reno
+        Description:
+
+        Log:These generic graves generate a name and tombstone message
+               generated. It's random to so it'll be different every game.
+
+
+            Created: January 15, 1998
+
+            Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_NILYDGRV
+
+#include "..\headers\command.h"
+#include "..\headers\newreno.h"
+
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure map_enter_p_proc;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure use_obj_on_p_proc;
+procedure use_skill_on_p_proc;
+
+procedure Set_Trap;
+procedure Explode_Grave;
+procedure Disarm_Traps;
+
+#define grv_mstr(x)                       message_str(SCRIPT_ZIGENGRV, x)
+#define display_grave_mstr(x)             display_msg(message_str(SCRIPT_ZIGENGRV, x))
+// headstone related
+#define is_headstone                      (((PID_GRAVE_HEADSTONE_1 <= self_pid) and (self_pid <= PID_GRAVE_HEADSTONE_4)) or ((PID_GRAVE_CROSS_1 <= self_pid) and (self_pid <= PID_GRAVE_CROSS_6)))
+#define set_headstone_generic             set_local_var(LVAR_Status, random(250,253))
+
+// trap states
+#define Trap_Init_Pid                     (PID_PLASTIC_EXPLOSIVES) // PID_DYNAMITE or PID_PLASTIC_EXPLOSIVES or 0 for no trap
+#define Trap_Set_Bonus                    (-10)
+#define Trap_Disarm_Bonus                 (-10)
+#define Trap_Detect_Bonus                 (-20)
+
+#define Traps_Exp                         (EXP_TRAPS_NORMAL)
+
+// grave site related
+#define state_covered                     (1)
+#define state_uncovered                   (-1)
+#define grave_starting_state              state_covered
+#define is_grave_site                     (is_headstone == false)
+#define site_is_covered                   (local_var(LVAR_Status) == state_covered)
+#define site_is_uncovered                 (local_var(LVAR_Status) == state_uncovered)
+#define do_cover_grave_site               set_local_var(LVAR_Status, state_covered);      \
+                                          off_uncovered_lloyd_grave;                      \
+                                          animate_set_frame(0)
+#define do_uncover_grave_site             set_local_var(LVAR_Status, state_uncovered);    \
+                                          set_uncovered_lloyd_grave;                      \
+                                          animate_set_frame(1)
+
+#define LVAR_Status                       (0)
+#define LVAR_Uncovered                    (1)
+#define LVAR_Trapped                      (2)
+#define LVAR_Found_Trap                   (3)
+#define LVAR_Gave_Traps_XP                (4)
+#define LVAR_Lloyd_Change_State           (5)
+
+variable trap_roll;
+import variable new_reno_lloyd_grave_obj;
+
+procedure start begin
+   if (is_grave_site) then begin
+      new_reno_lloyd_grave_obj := self_obj;
+   end
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == open_grave_param) then begin
+      if (site_is_covered) then begin
+         do_uncover_grave_site;
+      end
+      set_local_var(LVAR_Trapped, 0);
+   end else if (fixed_param == disarm_grave_param) then begin
+      set_local_var(LVAR_Trapped, 0);
+   end else if (fixed_param == blow_up_grave_param) then begin
+      if (local_var(LVAR_Trapped) != 0) then begin
+         call Explode_Grave;
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_grave_site) then begin
+      new_reno_lloyd_grave_obj := self_obj;
+   end
+   if (is_loading_game == false) then begin
+      if (local_var(LVAR_Status) == 0) then begin
+         if (is_grave_site) then begin
+            if (grave_starting_state == state_uncovered) then begin
+               do_uncover_grave_site;
+            end else begin
+               set_local_var(LVAR_Status, grave_starting_state);
+            end
+            set_local_var(LVAR_Trapped, Trap_Init_Pid);
+         end else begin
+            set_headstone_generic;
+         end
+      end
+      if (local_var(LVAR_Lloyd_Change_State) == false) then begin
+         if (get_escape(escape_none) == false) then begin
+            set_local_var(LVAR_Lloyd_Change_State, true);
+            if (get_escape(escape_follow) or get_escape(escape_betrayed)) then begin
+               if (site_is_covered) then begin
+                  do_uncover_grave_site;
+               end
+               set_local_var(LVAR_Trapped, 0);
+            end else begin
+               if (site_is_uncovered) then begin
+                  do_cover_grave_site;
+               end
+               set_local_var(LVAR_Trapped, Trap_Init_Pid);
+               set_local_var(LVAR_Found_Trap, false);
+            end
+         end
+      end
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (is_grave_site) then begin
+      display_grave_mstr(100 + site_is_uncovered);
+   end else begin
+      display_grave_mstr(200);
+   end
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (is_grave_site) then begin
+      if ((local_var(LVAR_Trapped) != 0) and (is_success(roll_vs_skill(dude_obj,SKILL_TRAPS,Trap_Detect_Bonus)))) then begin
+         set_local_var(LVAR_Found_Trap, true);
+         if (source_obj == dude_obj) then begin
+            display_grave_mstr(515);
+         end else begin
+            display_msg(obj_name(source_obj) + grv_mstr(520));
+         end
+      end else begin
+         display_grave_mstr(102 + site_is_uncovered);
+      end
+   end else begin
+      display_grave_mstr(local_var(LVAR_Status));
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   if (action_being_used == SKILL_TRAPS) then begin
+      script_overrides;
+      if (local_var(LVAR_Trapped) != 0) then begin
+         call Disarm_Traps;
+      end else begin
+         if (source_obj == dude_obj) then begin
+            display_grave_mstr(516);
+         end else begin
+            display_msg(obj_name(source_obj) + grv_mstr(521));
+         end
+      end
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   script_overrides;
+   if (is_grave_site) then begin
+      if (local_var(LVAR_Trapped) != 0) then begin
+         if ((is_success(roll_vs_skill(dude_obj,SKILL_TRAPS,Trap_Detect_Bonus))) and (local_var(LVAR_Found_Trap) == false)) then begin
+            set_local_var(LVAR_Found_Trap, true);
+            if (source_obj == dude_obj) then begin
+               display_grave_mstr(515);
+            end else begin
+               display_msg(obj_name(source_obj) + grv_mstr(520));
+            end
+         end else begin
+            call Explode_Grave;
+         end
+      end else if (obj_pid(obj_being_used_with) == PID_SHOVEL) then begin
+         gfade_out(1);
+            if (site_is_uncovered) then begin
+               do_cover_grave_site;
+            end else begin
+               do_uncover_grave_site;
+            end
+            display_grave_mstr(150 + site_is_uncovered);
+            game_time_advance(ONE_GAME_MINUTE * (15 + (random(30,45)/dude_strength)));
+         gfade_in(1);
+      end else if ((obj_pid(obj_being_used_with) == PID_DYNAMITE) or (obj_pid(obj_being_used_with) == PID_PLASTIC_EXPLOSIVES)) then begin
+         call Set_Trap;
+      end
+   end
+end
+
+procedure use_p_proc begin
+   debug_msg("grave tile == "+self_tile);
+   if (is_grave_site) then begin
+      debug_msg("  is_grave_site");
+      if (local_var(LVAR_Trapped) != 0) then begin
+         script_overrides;
+         if ((is_success(roll_vs_skill(dude_obj,SKILL_TRAPS,Trap_Detect_Bonus))) and (local_var(LVAR_Found_Trap) == false)) then begin
+            set_local_var(LVAR_Found_Trap, true);
+            if (source_obj == dude_obj) then begin
+               display_grave_mstr(515);
+            end else begin
+               display_msg(obj_name(source_obj) + grv_mstr(520));
+            end
+         end else begin
+            call Explode_Grave;
+         end
+      end else if (site_is_uncovered) then begin
+         script_overrides;
+         debug_msg(" (source_obj == dude_obj)== " + (source_obj == dude_obj));
+         debug_msg(" get_escape(escape_none) == " + get_escape(escape_none));
+         if ((source_obj == dude_obj) and (get_escape(escape_none) == false)) then begin
+            gfade_out(5);
+            move_to(dude_obj, 22295, 1);
+            gfade_in(5);
+         end
+      end else begin
+         script_overrides; //added by killap
+      end
+   end
+end
+
+procedure pickup_p_proc begin
+   if (is_grave_site) then begin
+      set_local_var(LVAR_Found_Trap, false);
+      if (local_var(LVAR_Trapped) != 0) then begin
+         if (is_success(roll_vs_skill(dude_obj,SKILL_TRAPS,Trap_Detect_Bonus))) then begin
+            if (source_obj == dude_obj) then begin
+               display_grave_mstr(515);
+            end else begin
+               display_msg(obj_name(source_obj) + grv_mstr(520));
+            end
+         end else begin
+            call Explode_Grave;
+         end
+      end else if (site_is_covered) then begin
+         script_overrides;
+      end
+   end
+end
+
+procedure Set_Trap begin
+variable temp;
+   script_overrides;
+   if (local_var(LVAR_Trapped) == 0) then begin
+      trap_roll := roll_vs_skill(dude_obj,SKILL_TRAPS,Trap_Set_Bonus);
+      if (is_success(trap_roll)) then begin
+         set_local_var(LVAR_Trapped, obj_pid(obj_being_used_with));
+         temp := rm_mult_objs_from_inven(source_obj,obj_being_used_with,1);
+         if (source_obj == dude_obj) then begin
+            display_grave_mstr(500);
+         end else begin
+            display_msg(obj_name(source_obj) + grv_mstr(510));
+         end
+      end else if (is_critical(trap_roll)) then begin
+         set_local_var(LVAR_Trapped, obj_pid(obj_being_used_with));
+         temp := rm_mult_objs_from_inven(source_obj,obj_being_used_with,1);
+         call Explode_Grave;
+      end else begin
+         if (source_obj == dude_obj) then begin
+            display_grave_mstr(501);
+         end else begin
+            display_msg(obj_name(source_obj) + grv_mstr(511));
+         end
+      end
+   end else begin
+      if (source_obj == dude_obj) then begin
+         display_grave_mstr(501);
+      end else begin
+         display_msg(obj_name(source_obj) + grv_mstr(511));
+      end
+   end
+end
+
+procedure Explode_Grave begin
+   if (local_var(LVAR_Trapped) == PID_PLASTIC_EXPLOSIVES) then begin
+      explosion(self_tile, self_elevation, random(40,80));
+   end else begin
+      explosion(self_tile, self_elevation, random(30,50));
+   end
+   set_local_var(LVAR_Trapped, 0);
+end
+
+procedure Disarm_Traps begin
+   script_overrides;
+   trap_roll := roll_vs_skill(dude_obj,SKILL_TRAPS,Trap_Disarm_Bonus);
+   if (is_success(trap_roll)) then begin
+      give_pid_qty(source_obj, local_var(LVAR_Trapped), 1)
+      set_local_var(LVAR_Trapped, 0);
+      if (source_obj == dude_obj) then begin
+         display_grave_mstr(525);
+      end else begin
+         display_msg(obj_name(source_obj) + grv_mstr(530));
+      end
+      if (local_var(LVAR_Found_Trap) == true) then begin
+         if (local_var(LVAR_Gave_Traps_XP) == false) then begin
+            set_local_var(LVAR_Gave_Traps_XP, true);
+            give_xp(Traps_Exp);
+         end
+      end else begin
+         set_local_var(LVAR_Found_Trap, true);
+      end
+   end else if (is_critical(trap_roll)) then begin
+      call Explode_Grave;
+   end else if (local_var(LVAR_Found_Trap) == false) then begin
+      if (source_obj == dude_obj) then begin
+         display_grave_mstr(516);
+      end else begin
+         display_msg(obj_name(source_obj) + grv_mstr(521));
+      end
+   end else begin
+      if (source_obj == dude_obj) then begin
+         display_grave_mstr(526);
+      end else begin
+         display_msg(obj_name(source_obj) + grv_mstr(531));
+      end
+   end
+end

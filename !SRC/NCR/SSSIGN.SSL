@@ -1,0 +1,225 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_SSSIGN
+#define CUR_COMP_SCRIPT         SCRIPT_SSSIGN
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Herebefore                                (0)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+   dialogue_system_enter;
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+
+/**********************************************************************************
+**********************************************************************************/
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+
+/**********************************************************************************
+   Make sure the door is working.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+end
+
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged it breaks
+******************************************************************************************/
+
+procedure damage_p_proc begin
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   start_gdialog(NAME,self_obj,4,-1,-1);
+   gSay_Start;
+      call Node001;
+   gSay_End;
+   end_dialogue;
+   set_local_var(LVAR_Herebefore, 1);
+end
+
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   Reply(103);
+   NOption(104, Node002, 1);
+   NOption(105, Node003, 1);
+   NOption(106, Node004, 1);
+   NOption(107, Node005, 1);
+   NOption(108, Node006, 1);
+end
+
+procedure Node002 begin
+   if (dude_is_armed) then
+      Reply(109);
+   else
+      Reply(110);
+   NOption(111, Node001, 1);
+   NOption(112, Node999, 4); //was , 1
+   NLowOption(130,Node999); //added by killap
+end
+
+procedure Node003 begin
+   if (dude_is_addict) then
+      Reply(113);
+   else
+      Reply(114);
+   NOption(115, Node001, 1);
+   NOption(116, Node999, 4); //was , 1
+   NLowOption(130,Node999); //added by killap
+end
+
+procedure Node004 begin
+   if (has_rep_slaver) then
+      Reply(117);
+   else
+      Reply(118);
+  NOption(119, Node001, 1);
+  NOption(120, Node999, 4); //was , 1
+  NLowOption(130,Node999); //added by killap
+end
+
+procedure Node005 begin
+   if (check_general_rep < KARMA_BETRAYER) then
+      Reply(121);
+   else
+      Reply(122);
+   NOption(123, Node001, 1);
+   NOption(124, Node999, 4); //was , 1
+   NLowOption(130,Node999); //added by killap
+end
+
+procedure Node006 begin
+   if (check_general_rep < KARMA_BETRAYER) then
+      Reply(125);
+   else
+      Reply(126);
+   NOption(127, Node001, 1);
+   NOption(128, Node999, 4);
+   NLowOption(130,Node999); //added by killap
+end

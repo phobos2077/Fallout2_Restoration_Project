@@ -1,0 +1,205 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Modoc Brahmin
+        Location: Modoc
+        Description: Modoc brahmin. If these brahmin are on the brahmin seed map, they increment the
+                     brahmin count for the seed. When brahmin die and they decrement the counter and
+                     set it to -1 if all have been killed. Also if the map is left, all brahmin are
+                     killed.
+
+        Log:
+
+           Created: December 02, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_MCBRAHMN
+
+#include "..\headers\command.h"
+#include "..\headers\modoc.h"
+#include "..\headers\ModBrah.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+
+#define br_mstr(x)                        message_str(SCRIPT_ZCBRAHMN,x)
+#define br_floater(x)                     float_msg(self_obj, br_mstr(x), FLOAT_COLOR_NORMAL)
+
+#define LVAR_Graze_Tile                   (0)
+#define LVAR_Flags                        (1)
+
+#define set_graze_tile                    set_local_var(LVAR_Graze_Tile, tile_num_in_direction(local_var(LVAR_Graze_Tile), random(0,5), random(1,3)));
+#define set_brahimin_obj                  if (brahmin_object == self_obj) then begin         \
+                                             if (is_critter_dead(self_obj)) then begin       \
+                                                brahmin_object := 0;                         \
+                                             end                                             \
+                                          end else if (brahmin_object == 0) then begin       \
+                                             brahmin_object := self_obj;                     \
+                                          end else if (dog_object == 0) then begin           \
+                                          end else if (brahmin_seed_dog_attacked) then begin \
+                                             if (tile_distance_objs(self_obj, dog_object) < tile_distance_objs(brahmin_object, dog_object)) then begin \
+                                                brahmin_object := self_obj;                  \
+                                             end                                             \
+                                          end else if (tile_distance_objs(self_obj, dog_object) > tile_distance_objs(brahmin_object, dog_object)) then \
+                                             brahmin_object := self_obj
+
+#define damaged_bit                       bit_10
+
+#define damaged                           lvar_bit(LVAR_Flags, damaged_bit)
+#define set_damaged                       if (damaged == false) then begin                   \
+                                             if (brahmin_object == self_obj) then begin      \
+                                                brahmin_object := 0;                         \
+                                             end                                             \
+                                          end                                                \
+                                          set_lvar_bit_on(LVAR_Flags, damaged_bit)
+
+import variable dog_object;
+import variable brahmin_object;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+variable temp_poo;
+   if (fixed_param == 1) then begin
+      if (combat_is_initialized == false) then begin
+         set_graze_tile
+      end
+      flush_add_timer_event_sec(self_obj, random(45, 90), 1);
+   end if (fixed_param == 2) then begin
+      if (combat_is_initialized == false) then begin
+         br_floater(random(201, 205));
+      end
+      flush_add_timer_event_sec(self_obj, random(30, 45), 2);
+   end else if (fixed_param == 3) then begin
+      if (combat_is_initialized == false) then begin
+         if (random(1,3) == 1) then begin
+            br_floater(206);
+            debug_msg("BRAHMIN IS POOING!!! hehehehe");
+            temp_poo := create_object_sid(random(PID_SMALL_GOO_1, PID_SMALL_GOO_3), 0, 0, SCRIPT_ZIBRAPOO);
+            move_to(temp_poo, tile_num_in_direction(self_tile, self_inv_rot, 1), 0);
+         end
+      end
+      flush_add_timer_event_sec(self_obj, random(120, 300), 3);
+   end
+end
+procedure combat_p_proc begin
+   set_brahimin_obj;
+end
+
+procedure critter_p_proc begin
+   set_brahimin_obj;
+   else if (anim_busy(self_obj) == false) then begin
+      if (tile_distance(self_tile, local_var(LVAR_Graze_Tile)) > 0) then begin
+         if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == FALSE) then begin
+            animate_move_to_tile(local_var(LVAR_Graze_Tile));
+         end
+      end
+   end
+end
+
+procedure pickup_p_proc begin
+end
+
+procedure talk_p_proc begin
+end
+
+procedure destroy_p_proc begin
+   if (self_obj == brahmin_object) then begin
+      brahmin_object := 0;
+   end
+   do_kill_brahmin;
+end
+
+procedure damage_p_proc begin
+   if (source_obj) then begin
+      if ((source_obj == dude_obj) or (obj_in_party(source_obj))) then begin
+      end else begin
+         set_damaged;
+      end
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(br_mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(br_mstr(105));
+end
+
+procedure use_obj_on_p_proc begin
+   // if you give a Brahmin beer or booze, it'll fall down and take damage. This was pulled from the original
+   //    fallout script
+   if ((obj_pid(obj_being_used_with) == PID_BEER) or (obj_pid(obj_being_used_with) == PID_BOOZE)) then begin
+      variable item := 0;
+      script_overrides;
+      item := obj_being_used_with;
+      rm_obj_from_inven(source_obj,obj_being_used_with);
+      destroy_object(item);
+      if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == FALSE) then begin
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+            reg_anim_animate(self_obj,ANIM_hit_from_front,-1);
+            reg_anim_animate(self_obj,ANIM_fall_back,5);
+            reg_anim_animate(self_obj,ANIM_fall_back_sf,-1);
+         reg_anim_end();
+         critter_injure(self_obj,DAM_KNOCKED_DOWN);
+      end
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   // a good science skill check will give you a little more info about the brahmin.
+   if (action_being_used == SKILL_SCIENCE) then begin
+      script_overrides;
+      display_msg(br_mstr(101 + (is_success(roll_vs_skill(dude_obj,action_being_used,0)))));
+   end else if (action_being_used == SKILL_STEAL) then
+      script_overrides;
+end
+
+procedure map_enter_p_proc begin
+   match_dude_elevation;
+   if (is_loading_game == false) then begin
+      if (local_var(LVAR_Graze_Tile) == false) then begin
+         set_local_var(LVAR_Graze_Tile, self_tile);
+         inc_global_var(GVAR_MODOC_BRAHMIN_ALIVE);
+      end
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC_SEED_BRAHMIN);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SCARED_BRAHMIN);
+      end
+      flush_add_timer_event_sec(self_obj, random(15, 90), 1);
+      flush_add_timer_event_sec(self_obj, random(5, 15), 2);
+      flush_add_timer_event_sec(self_obj, random(0, 300), 3);
+   end
+end
+
+procedure map_exit_p_proc begin
+   //added by killap
+   if (cur_map_index == MAP_MODOC_BRAHMINPASTURES) then begin
+     rm_timer_event(self_obj);
+   end
+   //end added
+end

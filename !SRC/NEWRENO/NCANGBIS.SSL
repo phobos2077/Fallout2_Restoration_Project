@@ -1,0 +1,761 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCANGBIS
+#define TOWN_REP_VAR         GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+#include "..\headers\NewR2.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+procedure combat_p_proc;
+
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+procedure Node046;
+procedure Node047;
+
+procedure Node102;
+procedure Node103;
+procedure Node104;
+procedure Node105;
+procedure Node106;
+
+#define LVAR_Flags                        (0)
+#define LVAR_Home_Tile                    (1)
+#define LVAR_Home_Rotation                (2)
+#define LVAR_Home_Elev                    (3)
+
+#define angela_warned_bit                 bit_10
+
+#define angela_warned                     lvar_bit(LVAR_Flags, angela_warned_bit)
+#define set_angela_warned                 set_lvar_bit_on(LVAR_Flags, angela_warned_bit)
+
+#define angela_in_bed                     ((self_tile == angela_bed_tile) and (self_elevation == angela_self_room_elev))
+
+variable prev_node;
+
+import variable angela_guard_obj;
+import variable angela_bishop_safe_obj;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == float_param) then begin
+      if (combat_is_initialized == false) then begin
+         if ((angela_in_bed) and (angela_rape == false)) then begin
+            call Node102;
+         end else if (self_can_see_dude) then begin
+            if (angela_rape) then begin
+               call Node103;
+            end else if (bishop_dead) then begin
+               call Node003;
+            end else if ((angela_rejected) and (dude_is_male)) then begin
+               call Node002;
+            end else if ((Fallout2_enclave_destroyed) and (dude_is_female)) then begin
+               call Node004;
+            end else if (dude_wearing_power_armor) then begin
+               call Node005;
+            end else if (dude_is_male) then begin
+               call Node006;
+            end else begin
+               call Node007;
+            end
+         end
+      end
+      nr_add_timer_event_rand(self_obj, 15, 30, float_param);
+   end else if (fixed_param == post_sex_param) then begin
+      game_ui_enable;
+      gfade_in(ONE_GAME_SECOND);
+      force_dialog_start("Node104");
+   end else if (fixed_param == attack_param) then begin
+   end else if (fixed_param == wander_param) then begin
+   end else begin
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_local_var(LVAR_Home_Tile, self_tile);
+         set_local_var(LVAR_Home_Rotation, self_cur_rot);
+         set_local_var(LVAR_Home_Elev, self_elevation);
+         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_NEW_RENO_BISHOP);
+         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_TOUGH_GUARD);
+      end
+      if ((self_tile != local_var(LVAR_Home_Tile)) or (self_elevation != local_var(LVAR_Home_Elev))) then begin
+         animate_stand_obj(self_obj);
+         move_to(self_obj, local_var(LVAR_Home_Tile), local_var(LVAR_Home_Elev));
+         if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
+            animate_rotation(local_var(LVAR_Home_Rotation));
+         end
+      end
+      nr_add_timer_event_rand(self_obj, 15, 30, float_param);
+   end
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure combat_p_proc begin
+   //added by killap - prevent angela from getting stuck in bed during combat
+   if (angela_in_bed) then begin
+      if (hostile) then begin
+         reg_anim_clear( self_obj );
+         //reg_anim_begin();
+            anim(self_obj, ANIM_stand, 2);
+         //reg_anim_end();
+         critter_attempt_placement(self_obj, 13691, angela_self_room_elev);
+      end else begin
+         script_overrides;
+      end
+   end
+   //end added
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (hostile) then begin
+         if (angela_guard_obj == 0) then begin
+            self_attack_dude;
+         end else if (anim_busy(self_obj) == false) then begin
+            if (tile_distance_objs(self_obj, dude_obj) < tile_distance_objs(angela_guard_obj, dude_obj)) then begin
+               anim_run_to_point(tile_num(angela_guard_obj))
+            end
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if ((source_obj == dude_obj) or (obj_in_party(source_obj))) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   check_forced_dialog
+   if (angela_rape) then begin
+      call Node046;
+   end else if (angela_in_bed) then begin
+      call Node102;
+   end else if (bishop_dead) then begin
+      call Node003;
+   end else if ((angela_rejected) and (dude_is_male)) then begin
+      call Node002;
+   end else if (angela_banged) then begin
+      start_dialog_at_node(Node027);
+   end else if (Fallout2_enclave_destroyed) then begin
+      if (dude_is_female) then begin
+         call Node003;
+      end else begin
+         start_dialog_at_node(Node028);
+      end
+   end else if (dude_wearing_power_armor) then begin
+      call Node005;
+   end else if (dude_is_male) then begin
+      if ((dude_has_porn_star_rep) or (dude_is_prizefighter)) then begin
+         start_dialog_at_node(Node028);
+      end else begin
+         start_dialog_at_node(Node008);
+      end
+   end else if (herebefore) then begin
+      call Node046;
+   end else begin
+      start_dialog_at_node(Node030);
+   end
+   set_herebefore;
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure destroy_p_proc begin
+   set_angela_dead
+   inc_evil_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + angela_rape);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (angela_rape) then begin
+      display_mstr(690);
+   end else if (angela_in_bed) then begin
+      display_mstr(680);
+   //added by killap
+   end else if (bishop_dead) then begin
+      display_mstr(150 + 2*(examined and herebefore));
+   //end added
+   end else if (dude_is_male) then begin
+      display_mstr(150 + (examined and herebefore));
+   end else begin
+      display_mstr(175 + (examined and herebefore));
+   end
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+   attack_family(family_bishop)
+   if (angela_guard_obj != 0) then begin
+      debug_msg("sending call guard to bismen");
+      nr_add_timer_event_tic(angela_guard_obj, 0, heard_help_param);
+   end
+end
+procedure Node999 begin
+end
+procedure Node990 begin
+   game_ui_disable;
+   gfade_out(ONE_GAME_SECOND);
+      move_to(self_obj, angela_self_room_tile, angela_self_room_elev);
+      move_to(dude_obj, angela_dude_room_tile, angela_self_room_elev);
+      Face_Critter(dude_obj,self_obj);
+      Face_Critter(self_obj,dude_obj);
+      party_member_hide_all
+      nr_add_timer_event_tic(self_obj, 5, post_sex_param);
+end
+procedure Node989 begin
+   if (angela_warned) then begin
+      call Node015;
+   end else begin
+      call Node014;
+   end
+end
+procedure Node988 begin
+   if ((dude_charisma > 7) or (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,20)))) then begin
+      call Node036;
+   end else begin
+      call Node045;
+   end
+end
+procedure Node987 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+      call Node037;
+   end else begin
+      call Node038;
+   end
+end
+procedure Node986 begin
+   set_angela_rejected
+end
+procedure Node985 begin
+   use_obj_on_obj(create_object(PID_JET,0,0), dude_obj);
+   call Node105;
+end
+procedure Node984 begin
+   gfade_out(ONE_GAME_SECOND);
+      set_angela_banged
+      if (obj_is_carrying_obj_pid(dude_obj, PID_BLUE_CONDOM) > 0) then begin
+         remove_pid_qty(dude_obj, PID_BLUE_CONDOM, 1)
+      end else if (obj_is_carrying_obj_pid(dude_obj, PID_GREEN_CONDOM) > 0) then begin
+         remove_pid_qty(dude_obj, PID_GREEN_CONDOM, 1)
+      end else if (obj_is_carrying_obj_pid(dude_obj, PID_RED_CONDOM) > 0) then begin
+         remove_pid_qty(dude_obj, PID_RED_CONDOM, 1)
+      end else begin
+         set_angela_pregnant
+      end
+      do_default_sex;
+      move_to(self_obj, angela_bed_tile, angela_self_room_elev);
+      reg_anim_clear(self_obj);
+      anim(self_obj, ANIMATE_ROTATION, angela_bed_rotation);
+      anim(self_obj, ANIM_fall_back_sf, ANIMATE_FORWARD);
+   gfade_in(ONE_GAME_SECOND);
+end
+
+procedure Node002 begin
+   floater(200);
+end
+procedure Node003 begin
+   floater(205);
+end
+procedure Node004 begin
+   floater(210);
+end
+procedure Node005 begin
+   floater(215);
+end
+procedure Node006 begin
+   floater_rand(220, 226);
+end
+procedure Node007 begin
+   floater_rand(230, 232);
+end
+procedure Node008 begin
+   if (herebefore) then begin
+      Reply(241);
+   end else begin
+      Reply(240);
+      NOption(242, Node009, -003);
+      NOption(243, Node009, -003);
+   end
+   NOption(244, Node009, -003);
+   NOption(245, Node012, -003);
+   BOption(246, Node014, 004);
+   NOption(248, Node016, 004);
+   if (check_general_rep >= 0) then begin
+      NOption(247, Node018, 004);
+      BOption(250, Node014, 004);
+   end else begin
+      BOption(249, Node019, 004);
+      BOption(535, Node014, 004);
+   end
+   prev_node := 8;
+end
+procedure Node009 begin
+   Reply(260);
+   NOption(261, Node990, -003);
+   NOption(262, Node010, -003);
+   BOption(263, Node012, -003);
+   prev_node := 9;
+end
+procedure Node010 begin
+   Reply(270);
+   NOption(271, Node011, -003);
+   BOption(272, Node012, -003);
+   prev_node := 10;
+end
+procedure Node011 begin
+   Reply(280);
+   NOption(281, Node990, 001);
+   prev_node := 11;
+end
+procedure Node012 begin
+   Reply(290);
+   BOption(291, Node013, -003);
+   NOption(292, Node990, -003);
+   BOption(293, Node013, -003);
+   prev_node := 12;
+end
+procedure Node013 begin
+   Reply(300);
+   NOption(466, Node999, 001);
+   prev_node := 13;
+end
+procedure Node014 begin
+   set_angela_warned;
+   set_angela_known
+   if (dude_family == family_bishop) then begin
+      Reply(mstr(310) + mstr(311) + mstr(312));
+   end else begin
+      Reply(mstr(310) + mstr(312));
+   end
+   BOption(313, Node015, 004);
+   NOption(314, Node990, 004);   // <-- NOTICE, THIS IS GOING TO SEX, CHRIS IS PROBABLY, WELL, HE IS, AN IDIOT
+   if (check_general_rep >= 0) then begin
+      BOption(315, Node015, 004);
+      BOption(320, Node015, 004);
+   end else begin
+      BOption(317, Node019, 004);
+      BOption(318, Node019, 004);
+      BOption(316, Node015, 004);
+   end
+   BOption(468, Node015, 004);
+   prev_node := 14;
+end
+procedure Node015 begin
+   set_angela_rejected
+   Reply(330);
+   NOption(521, Node999, 004);
+   BOption(522, Node999, 004);
+   prev_node := 15;
+end
+procedure Node016 begin
+   Reply(340);
+   BOption(341, Node014, 004);
+   BOption(342, Node014, 004);
+   if (check_general_rep >= 0) then begin
+      NOption(343, Node017, 004);
+   end
+   NOption(344, Node018, 004);
+   BOption(345, Node014, 004);
+   BOption(535, Node014, 004);
+   prev_node := 16;
+end
+procedure Node017 begin
+   Reply(350);
+   BOption(342, Node014, 004);
+   NOption(354, Node018, 004);
+   if (check_general_rep >= 0) then begin
+      BOption(352, Node014, 004);
+      BOption(534, Node014, 004);
+   end else begin
+      BOption(353, Node014, 004);
+      BOption(535, Node014, 004);
+   end
+   prev_node := 17;
+end
+procedure Node018 begin
+   if (prev_node == 17) then begin
+      Reply(mstr(360) + mstr(361));
+   end else begin
+      Reply(361);
+   end
+   NOption(362, Node990, 004);
+   NOption(363, Node990, 004);
+   if (angela_warned) then begin
+      BOption(364, Node025, 004);
+   end
+   if (check_general_rep >= 0) then begin
+      BOption(365, Node989, 004);
+   end else begin
+      BOption(366, Node019, 004);
+   end
+   prev_node := 18;
+end
+procedure Node019 begin
+   set_angela_warned;
+   set_angela_known
+   Reply(370);
+   BOption(371, Node020, 004);
+   NOption(372, Node023, 004);
+   NOption(373, Node024, 004);
+   BOption(374 + (check_general_rep < 0), Node015, 004);
+   prev_node := 19;
+end
+procedure Node020 begin
+   Reply(380);
+   BOption(381, Node021, 004);
+   BOption(382, Node022, 004);
+   BOption(383, Node024, 004);
+   BOption(384 + (check_general_rep < 0), Node989, 004);
+   prev_node := 20;
+end
+procedure Node021 begin
+   Reply(390);
+   BOption(391, Node989, 004);
+   BOption(392, Node989, 004);
+   BOption(393 + (check_general_rep < 0), Node989, 004);
+   prev_node := 21;
+end
+procedure Node022 begin
+   Reply(400);
+   NOption(401, Node990, 004);
+   BOption(402, Node989, 004);
+   prev_node := 22;
+end
+procedure Node023 begin
+   Reply(410);
+   NOption(411, Node018, 004);
+   NOption(422, Node018, 004);
+   NOption(413, Node018, 004);
+   prev_node := 23;
+end
+procedure Node024 begin
+   Reply(420);
+   NOption(411, Node018, 004);
+   NOption(422, Node018, 004);
+   NOption(413, Node018, 004);
+   prev_node := 24;
+end
+procedure Node025 begin
+   Reply(430);
+   BOption(246, Node989, 004);
+   NOption(432, Node990, 004);
+   if (check_general_rep >= 0) then begin
+      BOption(433, Node026, 004);
+      BOption(434, Node989, 004);
+   end else begin
+      BOption(435, Node989, 004);
+   end
+   prev_node := 25;
+end
+procedure Node026 begin
+   Reply(440);
+   NOption(441, Node990, 004);
+   BOption(442, Node989, 004);
+   BOption(443, Node989, 004);
+   prev_node := 26;
+end
+procedure Node027 begin
+   Reply(450 + (Fallout2_enclave_destroyed == false));
+   BOption(452, Node999, 004);
+   NOption(453, Node990, 004);
+   prev_node := 27;
+end
+procedure Node028 begin
+   if (Fallout2_enclave_destroyed) then begin
+      Reply(mstr(460) + dude_name + mstr(1460) + mstr(463));
+   end else if (dude_has_porn_star_rep) then begin
+      Reply(mstr(462) + porn_star_name + mstr(1461) + mstr(463));
+   end else if (dude_is_prizefighter) then begin
+      Reply(mstr(462) + prizefighter_name + mstr(1462) + mstr(463));
+   end else begin
+      Reply(463);
+   end
+   NOption(464, Node009, -003);
+   NOption(465, Node011, -003);
+   NOption(466, Node011, -003);
+   NOption(467, Node029, 004);
+   BOption(468 + (check_general_rep < 0), Node989, 004);
+   prev_node := 28;
+end
+procedure Node029 begin
+   Reply(480);
+   NOption(481, Node047, 004);
+   NOption(482, Node047, 004);
+   NOption(483, Node047, 004);
+   prev_node := 29;
+end
+procedure Node030 begin
+   set_angela_known
+   Reply(490);
+   NOption(491, Node031, -003);
+   NOption(466, Node999, -003);
+   BOption(493, Node033, 004);
+   NOption(494, Node032, 004);
+   if (dude_family == family_bishop) then begin
+      NOption(495, Node034, 004);
+      BOption(496, Node034, 004);
+      if (check_general_rep >= 0) then begin
+         BOption(544, Node043, 004);
+      end
+   end else begin
+      BOption(497, Node034, 004);
+   end
+   if (check_general_rep < 0) then begin
+      BOption(499, Node033, 004);
+   end
+   prev_node := 30;
+end
+procedure Node031 begin
+   Reply(510);
+   NOption(511, Node999, 004);
+   prev_node := 31;
+end
+procedure Node032 begin
+   Reply(520);
+   NOption(521, Node999, 004);
+   BOption(522, Node999, 004);
+   prev_node := 32;
+end
+procedure Node033 begin
+   set_angela_warned;
+   set_angela_known
+   Reply(370);
+   BOption(531, Node035, 004);
+   NOption(532, Node042, 004);
+   NOption(373, Node040, 004);
+   BOption(534 + (check_general_rep < 0), Node044, 004);
+   prev_node := 33;
+end
+procedure Node034 begin
+   Reply(540 + (dude_family != family_bishop));
+   BOption(542, Node035, 004);
+   NOption(543, Node041, 004);
+   if (check_general_rep >= 0) then begin
+      BOption(544, Node043, 004);
+   end else begin
+      BOption(375, Node044, 004);
+   end
+   prev_node := 34;
+end
+procedure Node035 begin
+   Reply(550);
+   BOption(551, Node988, 004);
+   BOption(552, Node044, 004);
+   prev_node := 35;
+end
+procedure Node036 begin
+   Reply(560);
+   BOption(561, Node987, 004);
+   BOption(642, Node039, 006);
+   NOption(563, Node040, 004);
+   BOption(564, Node044, 004);
+   prev_node := 36;
+end
+procedure Node037 begin
+   Reply(570);
+   BOption(571, Node038, 004);
+   NOption(642, Node039, 004);
+   BOption(573, Node040, 004);
+   BOption(564, Node044, 004);
+   prev_node := 37;
+end
+procedure Node038 begin
+   Reply(580);
+   NOption(581, Node999, 004);
+   prev_node := 38;
+end
+procedure Node039 begin
+   Reply(590);
+   NOption(591, Node999, 004);
+   prev_node := 39;
+end
+procedure Node040 begin
+   Reply(600);
+   NOption(521, Node999, 004);
+   BOption(522, Node999, 004);
+   prev_node := 40;
+end
+procedure Node041 begin
+   Reply(610);
+   NOption(521, Node999, 004);
+   BOption(522, Node999, 004);
+   prev_node := 41;
+end
+procedure Node042 begin
+   Reply(620);
+   NOption(521, Node999, 004);
+   BOption(522, Node999, 004);
+   prev_node := 42;
+end
+procedure Node043 begin
+   Reply(630);
+   NOption(521, Node999, 004);
+   BOption(522, Node999, 004);
+   prev_node := 43;
+end
+procedure Node044 begin
+   if (dude_iq > 5) then begin
+      Reply(mstr(640) + mstr(641));
+   end else begin
+      Reply(640);
+   end
+   BOption(642, Node039, 006);
+   NOption(643, Node986, 004);
+   prev_node := 44;
+end
+procedure Node045 begin
+   Reply(650);
+   BOption(651, Node998, 004);
+   NOption(652, Node044, 004);
+   prev_node := 45;
+end
+procedure Node046 begin
+   floater(660 + angela_rejected);
+end
+procedure Node047 begin
+   Reply(670);
+   NOption(671 + has_rep_champion, Node990, 004);
+   if (check_general_rep >= 0) then begin
+      BOption(468, Node989, 004);
+   end else begin
+      BOption(673, Node989, 004);
+      BOption(469, Node989, 004);
+   end
+   prev_node := 47;
+end
+procedure Node102 begin
+variable the_rand;
+   the_rand := 700 + random(0,1);
+   float_msg(self_obj, mstr(the_rand) + dude_name + mstr(1000 + the_rand), FLOAT_COLOR_NORMAL);
+end
+procedure Node103 begin
+   floater_rand(800, 802);
+end
+procedure Node104 begin
+   use_obj_on_obj(create_object(PID_JET,0,0),self_obj);
+   set_angela_known
+   if (angela_bishop_safe_obj != 0) then begin
+      if (obj_is_locked(angela_bishop_safe_obj)) then begin
+         obj_unlock(angela_bishop_safe_obj);
+      end
+      if (obj_is_open(angela_bishop_safe_obj) == false) then begin
+         obj_open(angela_bishop_safe_obj);
+      end
+   end
+   Reply(810 + (dude_iq > 3));
+   NOption(812, Node985, -003);
+   BOption(813, Node105, -003);
+   NOption(247, Node985, 004);
+   BOption(246, Node105, 004);
+end
+procedure Node105 begin
+   Reply(820);
+   NOption(812, Node984, -003);
+   BOption(813, Node106, -003);
+   NOption(821, Node984, 004);
+   BOption(822, Node106, 004);
+end
+procedure Node106 begin
+   set_angela_rape
+   Reply(830);
+   BOption(831, Node998, -003);
+   BOption(832, Node998, -003);
+   BOption(833, Node998, 004); //edit by killap - was NOption
+end

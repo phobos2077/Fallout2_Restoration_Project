@@ -1,0 +1,410 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\depolva.h"
+
+#define NAME                    SCRIPT_WSTERM3B
+
+#include "..\headers\command.h"
+
+#define LOW_DAMAGE              (20)
+#define HIGH_DAMAGE             (30)
+
+procedure start;
+procedure use_p_proc;
+procedure talk_p_proc;
+procedure look_p_proc;
+procedure description_p_proc;
+
+procedure Node001;
+procedure Node001a;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node018a;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+
+procedure Node999;
+procedure Node998;
+
+#define LVAR_Skynet                     (0)
+#define LVAR_Help                       (1)
+#define LVAR_Said_4                     (3)
+
+#define Skynet_Retrieve                 (1)
+#define Skynet_Brain                    (2)
+
+#define Help_None                       (0)
+#define Help_No                         (1)
+#define Help_Yes                        (2)
+
+procedure start begin
+end
+
+procedure look_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+procedure use_p_proc begin
+   variable Damage;
+
+   if (get_critter_stat(source_obj,STAT_iq) < 4) then begin
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(102));
+           floater(110); //added by killap
+       end
+       else begin
+           display_msg(obj_name(source_obj)+mstr(250));
+       end
+   end
+   else begin
+       dialogue_system_enter;
+   end
+end
+
+procedure talk_p_proc begin
+   //edit by killap - commented out
+   //if (global_var(GVAR_SKYNET) == Skynet_Brain) then begin
+   if (global_var(GVAR_BRAIN_BOT_BRAIN) != 0) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node003;
+       gSay_End;
+       end_dialogue;
+   end 
+
+   else if (map_var(MVAR_Skynet_Defeat) == 1) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node007;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if ((global_var(GVAR_SIERRA_BASE_ENEMY) == 1) and (global_var(GVAR_SKYNET) == Skynet_Retrieve)) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node011;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if ((global_var(GVAR_SIERRA_BASE_ENEMY) == 1) and (global_var(GVAR_SKYNET) == Skynet_Brain)) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node002;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if (global_var(GVAR_SIERRA_BASE_ENEMY) == 1) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node001;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if (local_var(LVAR_Help) == Help_No) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node006;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if (global_var(GVAR_SKYNET) == Skynet_Retrieve) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node011;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if (global_var(GVAR_SKYNET) == Skynet_Brain) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node002;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node004;
+       gSay_End;
+       end_dialogue;
+   end
+end
+
+procedure Node001 begin
+   Reply(mstr(103));
+
+   NOption(107,Node010,004);
+   NOption(108,Node010,004);
+   NOption(109,Node001a,004);
+   NOption(111,Node998,004);
+end
+
+procedure Node001a begin
+   set_global_var(GVAR_SKYNET,Skynet_Retrieve);
+   call Node011;
+end
+
+procedure Node002 begin
+   Reply(mstr(113));
+
+   NOption(118,Node999,004);
+end
+
+procedure Node003 begin
+   if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_CYBERNETIC) then
+       Reply(mstr(120));
+   else
+       Reply(121);
+
+   NOption(123,Node999,004);
+end
+
+procedure Node004 begin
+   if (local_var(LVAR_Said_4) == 0) then begin
+       set_local_var(LVAR_Said_4,1);
+       Reply(mstr(126));
+   end
+   else
+       Reply(129);
+
+   NOption(130,Node012,004);
+   NOption(131,Node020,004);
+   NOption(132,Node021,004);
+   NOption(133,Node022,004);
+   NOption(135,Node999,004);
+end
+
+procedure Node005 begin
+   Reply(136);
+
+   NOption(137,Node012,004);
+   NOption(138,Node020,004);
+   NOption(139,Node021,004);
+   NOption(140,Node022,004);
+   NOption(141,Node999,004);
+end
+
+procedure Node006 begin
+   Reply(143);
+
+   NOption(144,Node999,004);
+end
+
+procedure Node007 begin
+   Reply(mstr(146)+mstr(147));
+
+   NOption(149,Node999,004);
+end
+
+procedure Node010 begin
+   Reply(150);
+
+   NOption(151,Node001a,004);
+   NOption(152,Node998,004);
+end
+
+procedure Node011 begin
+   if ((global_var(GVAR_SKYNET) == Skynet_Retrieve) and (global_var(GVAR_SIERRA_BASE_ENEMY) == 1)) then begin
+       set_map_var(MVAR_Security_Level_1,1);
+       set_map_var(MVAR_Security_Level_2,1);
+       set_map_var(MVAR_Security_Level_3,0);
+   end
+
+   Reply(mstr(153));
+   
+   NOption(161,Node999,004); //added by killap
+end
+
+procedure Node012 begin
+   Reply(162);
+
+   NOption(163,Node013,004);
+   NOption(164,Node018,004);
+   NOption(165,Node016,004);
+   NOption(166,Node023,004);
+end
+
+procedure Node013 begin
+   Reply(167);
+
+   NOption(168,Node014,004);
+   NOption(169,Node025,008);
+   NOption(170,Node024,004);
+end
+
+procedure Node014 begin
+   Reply(171);
+
+   NOption(172,Node015,004);
+   NOption(173,Node024,004);
+end
+
+procedure Node015 begin
+   Reply(mstr(174)+mstr(175));
+
+   NOption(176,Node016,004);
+   NOption(177,Node024,004);
+   NOption(178,Node024,004);
+end
+
+procedure Node016 begin
+   set_global_var(GVAR_SKYNET,Skynet_Retrieve);
+
+   Reply(mstr(179));
+
+   NOption(183,Node017,004);
+   NOption(184,Node999,004);
+end
+
+procedure Node017 begin
+   set_map_var(MVAR_Security_Level_1,0);
+   set_map_var(MVAR_Security_Level_2,0);
+   set_map_var(MVAR_Security_Level_3,0);
+   set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_OFF);
+
+   Reply(mstr(185));
+
+   NOption(188,Node999,004);
+end
+
+procedure Node018 begin
+   Reply(mstr(189));
+
+   if (has_skill(dude_obj,SKILL_CONVERSANT) > 75) then
+       NOption(194,Node019,004);
+   NOption(195,Node018a,004);
+end
+
+procedure Node018a begin
+   set_global_var(GVAR_SIERRA_BASE_ENEMY,1);
+   call Node998;
+end
+
+procedure Node019 begin
+   Reply(mstr(196));
+
+   NOption(201,Node013,004);
+   NOption(202,Node016,004);
+   NOption(203,Node023,004);
+end
+
+procedure Node020 begin
+   Reply(204);
+
+   NOption(205,Node005,004);
+   NOption(206,Node999,004);
+end
+
+procedure Node021 begin
+   Reply(207);
+
+   NOption(205,Node005,004);
+   NOption(206,Node999,004);
+end
+
+procedure Node022 begin
+   Reply(mstr(210));
+
+   NOption(212,Node012,004);
+   NOption(213,Node999,004);
+end
+
+procedure Node023 begin
+   set_global_var(GVAR_SKYNET,Skynet_Retrieve);
+
+   Reply(mstr(214));
+
+   NOption(220,Node999,004);
+end
+
+procedure Node024 begin
+   set_local_var(LVAR_Help,Help_No);
+
+   Reply(mstr(221)+mstr(222));
+
+   NOption(223,Node999,004);
+end
+
+procedure Node025 begin
+   Reply(mstr(224)+mstr(225));
+
+   NOption(226,Node026,004);
+end
+
+procedure Node026 begin
+   Reply(227);
+
+   NOption(228,Node016,004);
+   NOption(229,Node024,004);
+end
+
+procedure Node999 begin
+end
+
+procedure Node998 begin
+// need to set up combat
+   set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+   set_map_var(MVAR_Security_Level_3,1);
+   set_map_var(MVAR_Skynet_Battle_3,1);
+   set_global_var(GVAR_SIERRA_BASE_ENEMY,1);
+   obj_close(tile_contains_pid_obj(16282,dude_elevation,33554450)); //close door to room -added by killap
+
+end

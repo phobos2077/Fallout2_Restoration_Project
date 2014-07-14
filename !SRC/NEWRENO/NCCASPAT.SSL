@@ -1,0 +1,330 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Casino Patron
+        Location: New Reno
+        Description:
+
+        Log: // ### make them wander around the casinos
+
+           Created: April 21, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCCASPAT
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure map_update_p_proc;
+procedure push_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (0)
+#define LVAR_Home_Tile                    (1)
+
+#define hidden_for_fight_bit              bit_10
+
+//#define self_family                       self_family_var // added by killap - expansion
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+variable slot_obj;
+//variable self_family_var; // added by killap - expansion
+
+#define dir_tile_has_pid(x, dir)             tile_contains_pid_obj(tile_num_in_direction(self_tile, dir, 1), self_elevation, x)
+
+#define get_slot_obj_facing                  slot_obj := dir_tile_has_pid(PID_SLOT_FACING_2, 5);      \
+                                             if (slot_obj == 0) then begin                            \
+                                                slot_obj := dir_tile_has_pid(PID_SLOT_FACING_3, 0);   \
+                                             end
+
+procedure start begin
+end
+
+procedure push_p_proc begin
+   get_slot_obj_facing
+   if (slot_obj != 0) then begin
+      script_overrides;
+   end
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == float_param) then begin
+      if (self_visible) then begin
+         if (combat_is_initialized == false) then begin
+            if (random(1,5) == 2) then begin
+               if (self_can_see_dude) then begin
+                  if (enclave_destroyed) then begin
+                     call Node003;
+                  end else if (dude_wearing_power_armor) then begin
+                     call Node004;
+                  end else if ((dude_is_made_man) or (has_rep_berserker)) then begin
+                     call Node005;
+                  end else if (dude_is_prizefighter) then begin
+                     call Node006;
+                  end else if ((dude_has_porn_star_rep) and ((dude_is_female)and(self_is_male))) then begin
+                     call Node007;
+                  end else if ((dude_has_porn_star_rep) and ((dude_is_male)and(self_is_female))) then begin
+                     call Node008;
+                  end else if (robobrain_is_dude_companion) then begin
+                     call Node009;
+                  end
+               end
+            end else if (anim_busy(self_obj) == false) then begin
+               get_slot_obj_facing
+               if ((slot_obj != 0) and (self_caps > 0) and (random(1,20) != 14)) then begin
+                  if (random(0,1)) then begin
+                     call Node010;
+                  end
+                  if (rotation_to_tile(self_tile, tile_num(slot_obj)) != self_cur_rot) then begin
+                     animate_rotation(rotation_to_tile(self_tile, tile_num(slot_obj)));
+                  end else begin
+                     reg_anim_clear(self_obj);
+                     reg_anim_begin();
+                        reg_anim_animate(self_obj, ANIM_magic_hands_middle, -1);
+                     reg_anim_end();
+                     if ((random(0,100) <= 17) and (self_caps < 30)) then begin
+                        // winner
+                        item_caps_adjust(self_obj, random(1, 10));
+                        nr_add_timer_event_tic(self_obj, 5, slot_win_param);
+                     end else if (self_caps > 3) then begin
+                        item_caps_adjust(self_obj, -1);
+                     end
+                  end
+               end else if ((tile_distance(self_tile, local_var(LVAR_Home_Tile)) > 4) and (random(1,10) != 2)) then begin
+                  animate_move_to_tile(local_var(LVAR_Home_Tile));
+               end else begin
+                  animate_move_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile), random(0,5), random(1,5)));
+               end
+            end
+         end
+      end
+      nr_add_timer_event_rand(self_obj, 10, 20, float_param);
+   end else if (fixed_param == slot_win_param) then begin
+      play_sfx("winner");
+   end
+end
+
+procedure map_enter_p_proc begin
+   variable temp;
+
+   /*// added by killap
+   if (self_team == TEAM_NEW_RENO_SALVATORE) then begin
+      self_family_var := family_salvatore;
+   end else if (self_team == TEAM_NEW_RENO_BISHOP) then begin
+      self_family_var := family_bishop;
+   end else if (self_team == TEAM_NEW_RENO_MORDINO) then begin
+      self_family_var := family_mordino;
+   end
+
+   if ( (self_family == family_salvatore and salvatore_dead and warned_attack) or 
+       (self_family == family_bishop and bishop_dead and warned_attack) or
+       (self_family == family_mordino and big_jesus_dead and lil_jesus_dead and warned_attack) ) then begin
+         destroy_object(self_obj);
+         return;
+   end
+   // end added*/
+
+   if (is_loading_game == false) then begin
+      check_poison_kill_critter
+      if (map_first_run) then begin
+         set_local_var(LVAR_Home_Tile, self_tile);
+         get_and_set_family(temp);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET, AI_COWARD);
+      end
+      check_visible_townsperson
+      nr_add_timer_event_rand(self_obj, 10, 20, float_param);
+   end
+end
+
+procedure map_update_p_proc begin
+   check_hide_durring_boxing_fight
+end
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (hostile) then begin
+         self_attack_dude;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_hostile;
+   end
+end
+
+procedure talk_p_proc begin
+   script_overrides;
+   // added by killap - expansion
+   /*if ( (self_family == family_salvatore and salvatore_dead and warned_attack) or 
+       (self_family == family_bishop and bishop_dead and warned_attack) or
+       (self_family == family_mordino and big_jesus_dead and lil_jesus_dead and warned_attack) ) then begin
+         float_msg(self_obj, message_str(SCRIPT_DCGAMBLE,200), FLOAT_COLOR_NORMAL);
+   // end added
+   end else*/ if (enclave_destroyed) then begin
+      call Node011;
+   end else if (dude_wearing_power_armor) then begin
+      call Node012;
+   end else if (dude_is_made_man) then begin
+      call Node013;
+   end else if (dude_is_prizefighter) then begin
+      call Node006;
+   end else if ((dude_has_porn_star_rep) and ((dude_is_female)and(self_is_male))) then begin
+      call Node014;
+   end else if ((dude_has_porn_star_rep) and ((dude_is_male)and(self_is_female))) then begin
+      call Node008;
+   end else if (robobrain_is_dude_companion) then begin
+      call Node009;
+   end else begin
+      call Node010;
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (self_is_female) then begin
+      display_mstr_rand(156, 161);
+   end else begin
+      display_mstr_rand(150, 155);
+   end
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+#define is_insert_message(x)     (((x>=203)and(x<=205)) or (x==325) or (x==330) or (x==331))
+
+procedure Node003 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      floater_rand_with_check(200, 205, dude_name, 300);
+   //end else
+   //   floater(202);
+end
+procedure Node004 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(206, 215);
+   //else
+   //   floater(206);
+end
+procedure Node005 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(222-(6*dude_is_male), 225+(7*dude_is_female));
+   //else
+   //   floater_rand(223, 225);
+end
+procedure Node006 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(234-(dude_is_male), 241+(2*dude_is_female));
+   //else
+   //   floater_rand(235, 236);
+end
+procedure Node007 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(244, 267);
+   //else
+   //   floater_rand(244, 245);
+end
+procedure Node008 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(268, 276);
+   //else
+   //   floater_rand(268, 269);
+end
+procedure Node009 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(277, 279);
+   //else
+   //   floater(278);
+end
+procedure Node010 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(280, 320);
+   //else
+   //   floater_rand(281, 288);
+end
+procedure Node011 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      floater_rand_with_check(321, 331, dude_name, 300);
+   //end else
+   //   floater(321);
+end
+procedure Node012 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(332, 352);
+   //else
+   //   floater_rand(340, 341);
+end
+procedure Node013 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(353, 358);
+   //else
+   //   floater_rand(353, 354);
+end
+procedure Node014 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(359, 376);
+   //else
+   //   floater_rand(372, 373);
+end

@@ -1,0 +1,80 @@
+/*        Script from item templete*          /
+
+/*
+        Name: EPLKR
+        Location: EPA
+        Description: Script attached to the lockers which store the belongings of the NPCs you can find at the EPA
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_EPLKR
+
+#include "..\headers\command.h"
+#include "..\headers\epasl.h"
+
+procedure start;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure drop_p_proc;
+
+#define KITSUNE_LOCKER_HEX        (15705)
+#define DEX_LOCKER_HEX            (15694)
+#define CATJULES_LOCKER_HEX       (15700)
+
+procedure start begin
+end
+
+procedure pickup_p_proc
+begin
+
+end
+
+procedure destroy_p_proc
+begin
+
+end
+
+procedure drop_p_proc
+begin
+
+end
+ 
+procedure use_p_proc begin
+   
+   if (tile_num(self_obj) == KITSUNE_LOCKER_HEX) then begin
+      if (map_var(MVAR_Kitsune_Free) == 0) then begin
+         script_overrides;
+         display_msg(mstr(100));
+      end
+   end
+
+   else if (tile_num(self_obj) == DEX_LOCKER_HEX) then begin
+
+      if (map_var(MVAR_Dex_Free) == 0) then begin
+         script_overrides;
+         display_msg(mstr(100));
+      end
+      
+   end
+   
+   else if (tile_num(self_obj) == CATJULES_LOCKER_HEX) then begin
+
+      if (map_var(MVAR_Cat_Jules_Free) == 0) then begin
+         script_overrides;
+         display_msg(mstr(100));
+      end
+      
+   end
+ 
+end

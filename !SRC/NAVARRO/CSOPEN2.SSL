@@ -1,0 +1,28 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+#include "..\headers\define.h"
+#include "..\headers\navarro.h"
+
+#define NAME                    SCRIPT_CSOPEN2
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure use_p_proc;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   obj_close( self_obj );
+end
+
+procedure use_p_proc begin
+   if( ( map_var( MVAR_Deathclaw_Allowed ) == 0 ) and ( map_var( MVAR_Med_Guard_Dead ) == 0 ) ) then begin
+      script_overrides;
+      set_map_var( MVAR_Door, 1 );
+   end
+end

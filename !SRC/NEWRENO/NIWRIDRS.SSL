@@ -1,0 +1,52 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item:
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created:
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NIWRIDRS
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+
+#define LVAR_Flags                     (0)
+
+#define empty_jet_canister_bit         bit_10
+
+#define empty_jet_canister             lvar_bit(LVAR_Flags, empty_jet_canister_bit)
+#define set_empty_jet_canister         set_lvar_bit_on(LVAR_Flags, empty_jet_canister_bit)
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   if (richard_wright_room) then begin
+      script_overrides;
+      if (empty_jet_canister) then begin
+         dude_floater(202);
+      end else begin
+         display_mstr(200);
+         dude_floater(201);
+         display_mstr(250);
+         give_xp(EXP_NEW_RENO_EMPTY_JET_CANISTER);
+         set_empty_jet_canister;
+         give_pid_qty(dude_obj, PID_EMPTY_JET, 1)
+      end
+   end
+end

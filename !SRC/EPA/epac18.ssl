@@ -1,0 +1,111 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\define.h"
+//#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAC18          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\command.h"
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\ModReact.h"
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure combat_p_proc;
+procedure critter_p_proc;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+procedure timed_event_p_proc;
+
+#define POISON_MIN              (1)
+#define POISON_MAX              (6)
+
+procedure start
+begin
+  add_timer_event(self_obj, game_ticks(5), 1);
+end
+
+procedure combat_p_proc
+begin
+   if (fixed_param == COMBAT_SUBTYPE_HIT_SUCCEEDED) then begin
+       //if (target_obj == dude_obj) then begin
+     poison(target_obj,random(POISON_MIN,POISON_MAX));
+       //end
+   end
+end
+
+procedure critter_p_proc
+begin
+  if (obj_can_see_obj(self_obj, dude_obj)) then
+    attack(dude_obj);
+end
+
+procedure use_p_proc
+begin
+end
+
+procedure look_at_p_proc
+begin
+end
+
+procedure description_p_proc
+begin
+end
+
+procedure use_skill_on_p_proc
+begin
+   if (action_being_used == SKILL_STEAL) then
+      script_overrides;
+end
+
+procedure use_obj_on_p_proc
+begin
+end
+
+procedure damage_p_proc
+begin
+  attack(dude_obj);
+end
+
+procedure map_enter_p_proc
+begin
+   add_timer_event(self_obj, game_ticks(5), 1);
+end
+
+procedure map_update_p_proc
+begin
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_EPA_FLIES);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_FLOATER);
+end
+
+procedure talk_p_proc
+begin
+end
+
+procedure timed_event_p_proc
+begin
+  if (fixed_param == 1) then
+  begin
+    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
+    begin
+      reg_anim_clear( self_obj);
+      reg_anim_begin();
+      animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(self_obj), random(0, 5), 5), 0);
+      reg_anim_end();
+    end
+    add_timer_event(self_obj, game_ticks(random(2, 3)), 1);
+  end
+end

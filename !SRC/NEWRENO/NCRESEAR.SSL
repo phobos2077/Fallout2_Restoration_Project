@@ -1,0 +1,364 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Marjorie Reed, Stable Researcher
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCRESEAR
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+#include "..\headers\NewRSt.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (5)
+
+#define node_6_bit                        bit_10
+#define saw_myron_leave_bit               bit_11
+
+#define node_6                            lvar_bit(LVAR_Flags, node_6_bit)
+#define set_node_6                        set_lvar_bit_on(LVAR_Flags, node_6_bit)
+
+#define saw_myron_leave                   lvar_bit(LVAR_Flags, saw_myron_leave_bit)
+#define set_saw_myron_leave               set_lvar_bit_on(LVAR_Flags, saw_myron_leave_bit)
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+variable temp_tile;
+   if (fixed_param == call_guards_param) then begin
+      call Node008;
+   end else if (marjorie_called_guards) then begin
+      off_marjorie_called_guards;
+   end else begin
+      if (combat_is_initialized == false) then begin
+         if (self_can_see_dude) then begin
+            if (myron_is_dude_companion) then begin
+               call Node001;
+            end else begin
+               call Node002;
+            end
+         end
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_MORDINO);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+      end
+      if ((myron_left_stables) or (critter_is_fleeing(self_obj))) then begin
+         check_set_obj_visiblility(self_obj,false);
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (hostile) then begin
+         critter_set_flee_state(self_obj, 1);
+         self_attack_dude;
+         if (marjorie_called_guards == false) then begin
+            set_marjorie_called_guards;
+            nr_add_timer_event(self_obj, 0, call_guards_param);
+            nr_add_timer_event(self_obj, 5, float_param);
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   if (myron_is_dude_companion) then begin
+      call Node003;
+   end else if (gave_ident) then begin
+      call Node002;
+   end else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node004;
+      gSay_End;
+      end_dialogue;
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure destroy_p_proc begin
+   inc_evil_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150 + (examined));
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+procedure Node990 begin
+   if ((dude_is_female) or (dude_charisma<6)) then begin
+      call Node020;
+   end else begin
+      call Node021;
+   end
+end
+
+procedure Node001 begin
+   floater_rand(200,204);
+end
+procedure Node002 begin
+   floater_rand(215,228);
+end
+procedure Node003 begin
+   floater_rand(235,246);
+end
+procedure Node004 begin
+   Reply(250);
+   BOption(251, Node005, -003);
+   BOption(252, Node005, -003);
+   BOption(253, Node005, -003);
+   BOption(254, Node005, -003);
+   NOption(255, Node999, -003);
+   NOption(256, Node006, 004);
+   NOption(257, Node999, 004);
+end
+procedure Node005 begin
+   Reply(265);
+   NOption(266, Node998, -003);
+   NOption(255, Node998, -003);
+end
+procedure Node006 begin
+   if (node_6) then begin
+      Reply(276);
+   end else begin
+      Reply(275);
+      BOption(277, Node998, 004);
+   end
+   if (dude_charisma > 5) then begin
+      BOption(278, Node009, 004);
+   end
+   if (get_myron_flag(MYRON_KNOWN_BIT)) then begin
+      NOption(279, Node026, 004);
+   end
+   if (((dude_iq < 7) and ((has_skill(dude_obj,SKILL_DOCTOR) > 95) or (has_skill(dude_obj,SKILL_SCIENCE) > 95))) or
+       ((dude_iq >= 7) and ((has_skill(dude_obj,SKILL_DOCTOR) > 75) or (has_skill(dude_obj,SKILL_SCIENCE) > 75)))) then begin
+      GOption(280, Node010, 004);
+   end
+   GOption(282, Node999, 004);
+   set_node_6;
+end
+procedure Node007 begin
+   Reply(295);
+   BOption(296, Node998, 004);
+   if (dude_charisma > 5) then begin
+      BOption(278, Node009, 004);
+   end
+   if (((dude_iq < 7) and ((has_skill(dude_obj,SKILL_DOCTOR) > 95) or (has_skill(dude_obj,SKILL_SCIENCE) > 95))) or
+       ((dude_iq >= 7) and ((has_skill(dude_obj,SKILL_DOCTOR) > 75) or (has_skill(dude_obj,SKILL_SCIENCE) > 75)))) then begin
+      GOption(280, Node010, 004);
+   end
+   NOption(300, Node999, 004);
+end
+procedure Node008 begin
+   floater(310);
+end
+procedure Node009 begin
+   Reply(315);
+   NOption(316, Node010, 005);
+   if ((dude_charisma > 6) or (has_skill(dude_obj,SKILL_CONVERSANT) > 65) or (dude_smooth_talker)) then begin
+      NOption(317, Node990, 004);
+   end
+   NOption(318, Node999, 004);
+end
+procedure Node010 begin
+   Reply(325);
+   NOption(326, Node011, 004);
+   if (has_skill(dude_obj,SKILL_SCIENCE) > 75) then begin
+      NOption(327, Node012, 007);
+   end
+   NOption(328, Node999, 004);
+end
+procedure Node011 begin
+   Reply(335);
+   NOption(336 + (check_general_rep<0), Node999, 004);
+end
+procedure Node012 begin
+   Reply(345);
+   NOption(346, Node013, 004);
+   NOption(347, Node999, 004);
+end
+procedure Node013 begin
+   Reply(355);
+   NOption(356, Node015, 004);
+   NOption(357, Node014, 004);
+   NOption(358, Node999, 004);
+end
+procedure Node014 begin
+   set_redding_problem_know_jet;
+   Reply(365);
+   NOption(366, Node016, 004);
+   NOption(367, Node999, 004);
+end
+procedure Node015 begin
+   Reply(375);
+   //NOption(366, Node014, 004);
+   NOption(357, Node014, 004); //edit by killap
+   NOption(377, Node999, 004);
+end
+procedure Node016 begin
+   Reply(385);
+   NOption(386, Node017, 004);
+   NOption(377, Node999, 004);
+end
+procedure Node017 begin
+   set_mordino_known;
+   set_myron_flag(MYRON_KNOWN_BIT);
+   Reply(395);
+   NOption(396, Node018, 004);
+   NOption(377, Node999, 004);
+end
+procedure Node018 begin
+   set_know_myron_whores;
+   Reply(405);
+   if ((obj_is_carrying_obj_pid(self_obj, id_badge_pid) > 0) and (gave_ident == false)) then begin
+      NOption(406, Node019, 004);
+   end
+   NOption(407, Node999, 004);
+end
+procedure Node019 begin
+   set_gave_ident;
+   give_pid_qty(dude_obj, id_badge_pid, 1)
+   display_mstr(1000);
+   give_xp(EXP_GOT_MARJORIE_BADGE);
+   Reply(415 + ((dude_is_female) and (dude_charisma > 5)));
+   NOption(417, Node999, 004);
+end
+procedure Node020 begin
+   Reply(425 + dude_is_female);
+   NOption(427, Node999, 004);
+   NOption(428 + (check_general_rep<0), Node999, 004);
+end
+procedure Node021 begin
+   Reply(435);
+   if ((dude_charisma > 6) or (has_skill(dude_obj,SKILL_CONVERSANT) > 75) or (dude_smooth_talker)) then begin
+      NOption(436, Node022, 004);
+   end
+   NOption(437, Node999, 004);
+end
+procedure Node022 begin
+   Reply(445);
+   BOption(446, Node023, 004);
+   GOption(447, Node025, 004);
+   NOption(448, Node013, 004);
+   NOption(449, Node999, 004);
+end
+procedure Node023 begin
+   Reply(455);
+   BOption(456, Node024, 004);
+   NOption(457, Node999, 004);
+end
+procedure Node024 begin
+   Reply(465);
+   BOption(466, Node998, 004);
+   NOption(467, Node999, 004);
+end
+procedure Node025 begin
+   Reply(475);
+   NOption(476, Node013, 004);
+   NOption(477, Node999, 004);
+end
+procedure Node026 begin
+   Reply(485);
+   NOption(318, Node999, 004);
+end

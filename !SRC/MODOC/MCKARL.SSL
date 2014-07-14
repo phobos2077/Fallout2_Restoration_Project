@@ -1,0 +1,598 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Karl
+        Location: Modoc
+        Description: Drunk person
+
+        Log: the following defines need to be changed:
+
+
+          Created: February 15, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                        SCRIPT_MCKARL
+#define TOWN_REP_VAR                GVAR_TOWN_REP_MODOC
+
+#include "..\headers\command.h"
+#include "..\headers\modoc.h"
+#include "..\headers\den.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure map_update_p_proc;
+
+// dialog nodes
+procedure Node000;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node020;
+procedure Node021;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+procedure Node046;
+
+procedure Node999;                                      // This is the do nothing node
+procedure Node998;                                      // This Node is Always Combat
+procedure Node996;
+procedure Node995;
+
+#define LVAR_Flags                        (4)
+#define LVAR_Passed_Out                   (5)
+
+#define karl_nuts_bit                     bit_10
+#define karl_gave_money_bit               bit_11
+#define karl_angry_bit                    bit_12
+#define karl_garden_bit                   bit_14
+#define karl_story_bit                    bit_15
+
+#define karl_flag_state(x)                lvar_bit(LVAR_Flags, x)
+#define set_karl_flag_state(x, y)         if (y) then begin                   \
+                                             set_lvar_bit_on(LVAR_Flags, x);  \
+                                          end else begin                      \
+                                             set_lvar_bit_off(LVAR_Flags, x); \
+                                          end
+#define karl_in_den                       (cur_map_index == MAP_DEN_BUSINESS)
+#define karl_in_modoc                     (cur_map_index == MAP_MODOC_MAINSTREET)
+#define passed_out                        (local_var(LVAR_Passed_Out) > 0)
+#define karl_angry                        (karl_flag_state(karl_angry_bit))
+#define gave_money                        (karl_flag_state(karl_gave_money_bit))
+#define karl_story                        (karl_flag_state(karl_story_bit))
+#define garden_known                      (karl_flag_state(karl_garden_bit))
+#define karl_nuts                         (karl_flag_state(karl_nuts_bit))
+#define no_hey                            (karl_flag_state(no_hey_bit))
+#define give_karl_money(x)                item_caps_adjust(self_obj,x);                      \
+                                          set_karl_flag_state(karl_gave_money_bit, true)     \
+                                          item_caps_adjust(dude_obj,-x)
+#define set_passed_out(x)                 if (x == true) then begin                                                           \
+                                             if (local_var(LVAR_Passed_Out) == 0) then begin                                  \
+                                                reg_anim_clear(self_obj);                                                     \
+                                                reg_anim_begin();                                                             \
+                                                   reg_anim_animate(self_obj,ANIM_fall_back,-1);                              \
+                                                reg_anim_end();                                                               \
+                                                critter_injure(self_obj,DAM_KNOCKED_DOWN);                                    \
+                                             end                                                                              \
+                                             set_local_var(LVAR_Passed_Out,game_time + (ONE_GAME_MINUTE * random(15,120)));   \
+                                          end else begin                                                                      \
+                                             animate_stand;                                                                   \
+                                             set_local_var(LVAR_Passed_Out, 0);                                                \
+                                          end                                                                                 \
+                                          debug_msg("set karl passed out == " + x)
+
+
+variable say_message_time := 0;
+variable last_message_said := 0;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   //add_timer_event(self_obj,game_ticks(random(1,7)),1);
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      //if (map_first_run) then begin --comment out by killap
+         if (karl_in_modoc) then begin
+            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+         end else begin
+            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_MOMS);
+         end
+      //end
+      debug_msg("karl: map_enter_p_proc");
+      if (karl_dead) then begin
+         debug_msg("   karl_dead");
+         destroy_object(self_obj);
+      end else if (karl_in_modoc) then begin
+         debug_msg("   karl_in_modoc");
+         match_dude_elevation;
+         check_set_obj_visiblility(self_obj, (karl_going_home == false));
+      end else if (karl_going_home) then begin
+         debug_msg("   karl_going_home");
+         destroy_object(self_obj);
+      end
+   end
+end
+
+procedure map_exit_p_proc begin
+   if (karl_going_home) then begin
+      if (hostile) then begin
+         set_enemy_modoc;
+      end
+   end
+end
+
+procedure map_update_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if (self_visible) then begin
+      if (self_tile == 30302) then begin //edit by killap - was map_exit_tile
+         destroy_object(self_obj);
+      end else if (karl_nuts) then begin
+         anim_run_to_point_rate(map_next_tile, 4)
+      end else if ( (karl_going_home) and not(karl_in_modoc)) then begin //edit by killap - added not(karl_in_modoc)
+         anim_move_to_point_rate(map_next_tile, 4)
+      end else if ((passed_out) or (is_critter_prone(self_obj))) then begin
+         if (game_time > say_message_time) then begin
+            if (game_time >= local_var(LVAR_Passed_Out)) then begin
+               // wake karl up
+               if (anim_busy(self_obj) == false) then begin
+                  set_passed_out(false);
+               end
+            end else begin
+               // snoring messages
+               if (last_message_said <= 5) then begin
+                  floater(250 + last_message_said);
+               end else begin
+                  last_message_said := 0;
+               end
+               say_message_time := game_time + (ONE_GAME_SECOND * random(5,15));
+            end
+         end
+      end else if (self_can_see_dude) then begin
+         if (karl_in_den) then begin
+            if ((hostile) or (mom_attacked)) then begin
+               self_attack_dude;
+            end else if (game_time > say_message_time) then begin
+               if (dude_charisma <= 1) then begin
+                  floater(161);
+               end else if (last_message_said <= 3) then begin
+                  // hey, hey, HEY! messages
+                  floater(153 + last_message_said);
+                  last_message_said += 1;
+               end
+               say_message_time := game_time + (ONE_GAME_SECOND * random(15,30));
+            end
+         end else begin
+            if ((hostile) or (dude_enemy_modoc)) then begin
+               self_attack_dude;
+            end
+         end
+      end else begin
+         say_message_time := 0;
+         last_message_said := 0;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (anim_busy(self_obj) == false) then begin
+      set_passed_out(false);
+   end
+   if (source_obj == dude_obj) then begin
+      if (karl_in_modoc) then begin
+         set_enemy_modoc;
+      end
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   script_overrides;
+   
+   //added by killap
+   if ((hostile)) then begin 
+      self_attack_dude;  
+   //end added
+   end else if (passed_out) then begin
+      debug_msg("passed_out");
+      if (herebefore) then begin
+         display_msg(mstr(159));
+      end else begin
+         display_msg(mstr(160));
+      end
+   end else begin
+      if (karl_in_modoc) then begin
+         floater(157);
+      end else if (karl_going_home) then begin
+         floater(300);
+      end else if (karl_come_home) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node003;
+         gSay_End;
+         end_dialogue;
+      end else if (karl_story) then begin
+         floater(156);
+      end else begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            if (karl_angry) then begin
+               call Node004;
+            end else if (gave_money) then begin
+               call Node001;
+            end else if (herebefore) then begin
+               call Node002;
+            end else begin
+               call Node000;
+            end
+         gSay_End;
+         end_dialogue;
+      end
+      set_herebefore;
+   end
+   last_message_said := 4;
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+   set_karl_dead;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if ((herebefore) or (karl_in_modoc)) then begin
+      if (passed_out == false) then begin
+         display_mstr(101);
+      end else begin
+         display_mstr(159);
+      end
+   end else begin
+      display_mstr(100);
+   end
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (passed_out == false) then begin
+      display_mstr(102);
+   end else begin
+      display_mstr(160);
+   end
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+// dialog action functions
+procedure Node999 begin
+  // do absolutely everything that pertains to nothing
+end
+procedure Node998 begin
+   set_hostile;
+end
+
+procedure Node996 begin
+   if (dude_caps >= 1000) then begin
+      give_karl_money(1000);
+      call Node011;
+   end else begin
+      call Node012;
+   end
+end
+procedure Node995 begin
+   if ((self_caps >= 1000) and (dude_charisma >= 8)) then begin
+      call Node043;
+   end else begin
+      call Node013;
+   end
+end
+procedure Node994 begin
+   if (dude_caps >= 100) then begin
+      give_karl_money(100);
+      call Node016;
+   end else begin
+      call Node012;
+   end
+end
+procedure Node993 begin
+   transfer_pid_between_objs(dude_obj, self_obj, PID_BEER, 1)
+   call Node026;
+end
+procedure Node992 begin
+   transfer_pid_between_objs(dude_obj, self_obj, PID_BOOZE, 1)
+   call Node026;
+end
+procedure Node991 begin
+   transfer_pid_between_objs(dude_obj, self_obj, PID_NUKA_COLA, 1)
+   call Node027;
+end
+procedure Node990 begin
+   if (dude_caps >= 25) then begin
+      give_karl_money(25);
+      call Node016;
+   end else begin
+      call Node012;
+   end
+end
+procedure Node989 begin
+   set_passed_out(true);
+end
+
+// dialog nodes
+procedure Node000 begin
+   Reply(162);
+   NOption(163,Node010,004);
+   NOption(164,Node020,004);
+   NOption(165,Node025,004);
+   NOption(166,Node046,004);
+   if (dude_caps >= 2) then begin
+      NOption(167,Node030,-003);
+   end
+   NOption(168,Node031,-003);
+end
+
+
+procedure Node001 begin
+   Reply(169);
+   NOption(170,Node994,004);              // give $100
+   if (obj_is_carrying_obj_pid(dude_obj, PID_BEER)) then begin
+      NOption(150,Node993,004);           // give beer
+   end
+   if (obj_is_carrying_obj_pid(dude_obj, PID_BOOZE)) then begin
+      NOption(151,Node992,004);           // give booze
+   end
+   if (obj_is_carrying_obj_pid(dude_obj, PID_NUKA_COLA)) then begin
+      NOption(152,Node991,004);           // give nuke cola
+   end
+   NOption(173,Node999,004);
+   NOption(174,Node013,004);
+   if (garden_known) then begin
+      NOption(175,Node042,004);
+   end
+   NOption(166,Node046,004);              // what's your story
+   if (dude_caps >= 2) then begin
+      NOption(167,Node030,-003);
+   end
+   NOption(178,Node999,-003);
+end
+procedure Node002 begin
+   Reply(179);
+   NOption(180,Node990,004);              // give $25
+   if (dude_caps >= 1) then begin
+      NOption(184,Node033,004);           // give $1
+   end
+   if (garden_known) then begin
+      NOption(175,Node042,004);
+   end
+   NOption(173,Node025,004);
+   NOption(166,Node046,004);              // what's your story
+   if (dude_caps >= 2) then begin
+      NOption(185,Node030,-003);
+   end
+   NOption(186,Node032,-003);
+end
+procedure Node003 begin
+   Reply(187);
+   NOption(188,Node040,004);
+   NOption(189,Node041,004);
+   NOption(190,Node999,-003);
+end
+procedure Node004 begin
+   Reply(191);
+   NOption(170,Node994,004);              // give $100
+   if (obj_is_carrying_obj_pid(dude_obj, PID_BEER)) then begin
+      NOption(150,Node993,004);           // give beer
+   end
+   if (obj_is_carrying_obj_pid(dude_obj, PID_BOOZE)) then begin
+      NOption(151,Node992,004);           // give booze
+   end
+   if (obj_is_carrying_obj_pid(dude_obj, PID_NUKA_COLA)) then begin
+      NOption(152,Node991,004);           // give nuke cola
+   end
+   NOption(173,Node999,004);
+   NOption(174,Node013,004);
+   if (garden_known) then begin
+      NOption(175,Node042,004);
+   end
+   if (dude_caps >= 2) then begin
+      NOption(167,Node030,-003);
+   end
+   NOption(178,Node999,-003);
+end
+procedure Node010 begin
+   Reply(198);
+   NOption(199,Node996,001);
+   NOption(200,Node990,001);
+   NOption(201,Node999,001);
+end
+procedure Node011 begin
+   Reply(202);
+   NOption(203,Node995,001);
+   NOption(204,Node989,001);
+end
+procedure Node012 begin
+   set_karl_flag_state(karl_angry_bit, true)
+   Reply(205);
+   NOption(g_mstr(350),Node989,001);
+end
+procedure Node013 begin
+   Reply(206);
+   NOption(207,Node014,001);
+   NOption(208,Node999,001);
+end
+procedure Node014 begin
+   Reply(209);
+   NOption(210,Node015,001);
+   NOption(208,Node999,001);
+end
+procedure Node015 begin
+   set_karl_flag_state(karl_garden_bit, true)
+   Reply(212);
+   NOption(213,Node989,001);
+end
+procedure Node016 begin
+   set_karl_flag_state(karl_angry_bit, false)
+   Reply(214);
+   NOption(215,Node013,001);
+   NOption(216,Node999,001);
+end
+procedure Node020 begin
+   Reply(217);
+   NOption(180,Node990,001);              // give $25
+   NOption(219,Node021,001);
+   NOption(g_bye,Node999,001);
+end
+procedure Node021 begin
+   set_karl_flag_state(karl_angry_bit, true)
+   Reply(220);
+   NOption(221,Node989,001);
+end
+procedure Node025 begin
+   Reply(222);
+   if (obj_is_carrying_obj_pid(dude_obj, PID_BEER)) then begin
+      NOption(150,Node993,001);           // give beer
+   end
+   if (obj_is_carrying_obj_pid(dude_obj, PID_BOOZE)) then begin
+      NOption(151,Node992,001);           // give booze
+   end
+   if (obj_is_carrying_obj_pid(dude_obj, PID_NUKA_COLA)) then begin
+      NOption(152,Node991,001);           // give nuke cola
+   end
+   NOption(173,Node999,001);
+end
+procedure Node026 begin
+   set_passed_out(true);
+   set_karl_flag_state(karl_angry_bit, false)
+   Reply(224);
+   NOption(225,Node999,001);
+end
+procedure Node027 begin
+   set_karl_flag_state(karl_angry_bit, true)
+   Reply(226);
+   NOption(g_mstr(350),Node999,001);
+end
+procedure Node030 begin
+variable the_caps;
+   the_caps := dude_caps/2;
+   give_karl_money(the_caps);
+   Reply(227);
+   NOption(228,Node015,001);
+   NOption(229,Node999,001);
+end
+procedure Node031 begin
+   Reply(230);
+   NOption(g_mstr(350),Node999,001);
+end
+procedure Node032 begin
+   Reply(231);
+   NOption(g_mstr(350),Node999,001);
+end
+procedure Node033 begin
+   Reply(232);
+   NOption(g_mstr(350),Node999,001);
+end
+procedure Node040 begin
+   display_mstr(400);
+   set_ghost_pip(state_ghost_pip_complete);  //added by killap
+   set_ghost_farm_seeds_inactive; //added by killap
+   set_karl_going_home;
+   set_karl_seed_inactive;
+   Reply(233);
+   NOption(g_mstr(350),Node999,001);
+end
+procedure Node041 begin
+   set_ghost_pip(state_ghost_pip_complete);
+   set_karl_flag_state(karl_nuts_bit, true)
+   set_karl_seed_declined;
+   inc_global_var_amt(GVAR_TOWN_REP_MODOC,REP_TOWN_DRIVE_KARL_NUTS); // Seraph's Fix: changed 'inc_global_var' to 'inc_global_var_amt'. Thanks Rob!
+   Reply(234);
+   NOption(g_mstr(350),Node999,001);
+end
+procedure Node042 begin
+   Reply(235);
+   NOption(236,Node013,001);
+   NOption(237,Node999,001);
+end
+procedure Node043 begin
+   Reply(238);
+   if (dude_is_male) then begin
+      NOption(239,Node044,001);
+   end
+   NOption(240,Node045,001);
+   NOption(241,Node014,001); //edit by killap - was 010
+   NOption(242,Node999,001);
+end
+procedure Node044 begin
+   Reply(243);
+   NOption(244,Node999,001);
+   NOption(245,Node045,001);
+end
+procedure Node045 begin
+variable karl_money;
+   up_sex_status; //added by killap
+   karl_money := self_caps;
+   if (karl_money > 0) then begin
+      if (karl_money >= 1000) then begin
+         give_karl_money(-1000);
+         Reply(246);
+      end else begin
+         give_karl_money(-karl_money);
+         Reply(mstr(260) + karl_money + mstr(261));
+      end
+   end else begin
+      Reply(262);
+   end
+   NOption(g_mstr(350),Node999,001);
+end
+procedure Node046 begin
+   set_karl_found;
+   set_karl_flag_state(karl_story_bit, true)
+   Reply(247);
+   NOption(g_mstr(350),Node999,001);
+end

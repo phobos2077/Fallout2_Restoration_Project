@@ -1,0 +1,170 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCANOUNC
+#define TOWN_REP_VAR         GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure destroy_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure map_update_p_proc;
+
+#define LVAR_Flags                        (0)
+#define LVAR_Home_Tile                    (1)
+#define LVAR_Anouncement                  (2)
+
+import variable announcer_obj;
+import variable ring_girl_obj;
+import variable prize_fighter_obj;
+import variable stuart_little_obj;
+import variable new_reno_temp_box;
+
+#define anouncement_mod                   ((local_var(LVAR_Anouncement)%4) * 20)
+variable allow_anim;
+
+procedure start begin
+   announcer_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+variable winning_score;
+variable losing_score;
+   if (fixed_param == check_ui_param) then begin
+      if (ui_should_be_disabled) then begin
+         if (combat_is_initialized == false) then begin
+            game_ui_disable;
+         end else begin
+            terminate_combat;
+            rm_fixed_timer_event(self_obj, check_ui_param);
+            add_timer_event(self_obj, 3, check_ui_param);
+         end
+      end else begin
+         game_ui_enable;
+      end
+   end else if (fixed_param == 110) then begin
+      float_msg(self_obj, " ", FLOAT_COLOR_NORMAL);
+      start_boxing_round;
+   end else if (self_visible) then begin
+      debug_msg("announcer timed event, fixed param == "+fixed_param);
+      debug_msg("  fight_status == " + fight_status);      
+      if ((103 <= fixed_param) and (fixed_param <= 105)) then begin
+         floater(fixed_param + anouncement_mod);
+         nr_add_timer_event(announcer_obj, 3, fixed_param + 1);
+      end else if (fixed_param == 106) then begin
+         inc_local_var(LVAR_Anouncement);
+         float_msg(self_obj, mstr(106) + dude_weight + mstr(1106) + prizefighter_name + mstr(2106), FLOAT_COLOR_NORMAL);
+         Face_Critter(dude_obj, self_obj);
+         nr_add_timer_event(announcer_obj, 8, fixed_param + 1);
+      end else if (fixed_param == 107) then begin
+         if (prize_fighter_obj != 0) then begin
+            float_msg(self_obj, mstr(107) + critter_weight(prize_fighter_obj) + mstr(1107) + vs_boxer_name + mstr(2107), FLOAT_COLOR_NORMAL);
+            Face_Critter(prize_fighter_obj, self_obj);
+         end
+         nr_add_timer_event(announcer_obj, 8, fixed_param + 1);
+      end else if (fixed_param == 201) then begin
+         if (fight_status != fight_status_decision) then begin
+            floater(200 + fight_status);
+         end else begin
+            if (dude_won_fight) then begin
+               winning_score := dude_score;
+               losing_score := boxer_score;
+            end else begin
+               winning_score := boxer_score;
+               losing_score := dude_score;
+            end
+            losing_score := losing_score - (losing_score == winning_score);
+            float_msg(self_obj, mstr(204) + winning_score + mstr(205) + losing_score + mstr(206), FLOAT_COLOR_NORMAL);
+         end
+         nr_add_timer_event(announcer_obj, 4, 210);
+      end else if (fixed_param == 210) then begin
+         if (dude_won_fight) then begin
+            allow_anim := true;
+            float_msg(self_obj, prizefighter_name + mstr(210), FLOAT_COLOR_NORMAL);
+            reg_anim_clear(dude_obj);
+            reg_anim_begin();
+               reg_anim_animate(dude_obj, ANIM_throw_punch, -1);
+               reg_anim_animate(dude_obj, ANIM_throw_punch, 10);
+            reg_anim_end();
+         end else begin
+            float_msg(self_obj, vs_boxer_name + mstr(210), FLOAT_COLOR_NORMAL);
+            reg_anim_clear(prize_fighter_obj);
+            reg_anim_begin();
+               reg_anim_animate(prize_fighter_obj, ANIM_throw_punch, -1);
+               reg_anim_animate(prize_fighter_obj, ANIM_throw_punch, 10);
+            reg_anim_end();
+         end
+         nr_add_timer_event(announcer_obj, 4, fixed_param + 1);
+      end else if (fixed_param == 211) then begin
+         cleanup_boxing_match;
+      end else begin
+         if (self_cur_rot != 3) then begin
+            animate_rotation(3);
+         end
+         floater(fixed_param);
+         nr_add_timer_event(announcer_obj, 4, fixed_param + 1);
+      end
+   end
+end
+
+procedure combat_p_proc begin
+   if (self_visible) then begin
+      terminate_combat;
+   end
+end
+
+procedure damage_p_proc begin
+   set_ui_should_be_disabled;
+   if (self_cur_hits < self_max_hits) then
+      critter_heal(self_obj, self_max_hits - self_cur_hits);
+end
+
+procedure map_enter_p_proc begin
+   announcer_obj := self_obj;
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_local_var(LVAR_Home_Tile, self_tile);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_BOXER);
+         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_LONER_CITIZEN);
+      end
+      check_set_obj_visiblility(self_obj, true);
+   end
+end
+
+procedure map_update_p_proc begin
+   announcer_obj := self_obj;
+end
+
+procedure critter_p_proc begin
+   if (self_visible) then begin
+      if (allow_anim == false) then begin
+         reg_anim_clear(dude_obj);
+      end else if (combat_is_initialized == false) then begin
+         set_ui_should_be_disabled;
+      end
+   end
+end
+
+procedure destroy_p_proc begin
+   announcer_obj := 0;
+end

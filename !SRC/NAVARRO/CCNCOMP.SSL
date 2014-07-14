@@ -1,0 +1,270 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Navarro Computer
+        Location: Navarro
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: Sept 10, 1998
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+//#include "..\headers\navdef.h"
+#include "..\headers\SanFran.h"
+#include "..\headers\navarro.h"
+
+#define NAME                    SCRIPT_CCNCOMP
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_p_proc;
+procedure use_skill_on_p_proc;
+procedure map_enter_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+#define LVAR_second_look                (0)
+#define LVAR_q1                         (1)
+#define LVAR_q2                         (2)
+#define LVAR_q3                         (3)
+#define LVAR_q4                         (4)
+#define LVAR_02_before                  (5)
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable said_intruder:=0;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NAVARRO);
+   //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+end
+
+procedure critter_p_proc begin
+end
+
+procedure talk_p_proc begin
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure use_p_proc begin
+   if (combat_is_initialized == false) then begin
+      if (global_var(GVAR_NAVARRO_BASE_ALERT) > 0) then begin
+          start_gdialog(NAME,self_obj,4,-1,-1);
+          gSay_Start;
+             call Node012;
+          gSay_End;
+          end_dialogue;
+      end
+      else begin
+          start_gdialog(NAME,self_obj,4,-1,-1);
+          gSay_Start;
+             call Node001;
+          gSay_End;
+          end_dialogue;
+      end
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+/* Increment the aligned critter counter*/
+   set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+   inc_neutral_critter
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_second_look) == 0) then begin
+      set_local_var(LVAR_second_look,1);
+      display_msg(mstr(100));
+   end
+   else begin
+      display_msg(mstr(101));
+   end
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+   //if (action_being_used == SKILL_STEAL) then begin
+      //if (is_success(roll_vs_skill(dude_obj,action_being_used,0))) then begin
+      //end
+   //end
+end
+
+procedure Node001 begin
+   Reply(103);
+
+   if (map_var(MVAR_Snookie) == 1) then
+      NOption(104,Node002,001);
+   NLowOption(105,Node999);
+   NOption(106,Node999,004);
+   NOption(107,Node011,04);
+end
+
+procedure Node002 begin
+   if (local_var(LVAR_02_before) == 0) then begin
+      set_local_var(LVAR_02_before,1);
+      Reply(108);
+   end
+   else begin
+      Reply(109);
+   end
+
+   if ( ( local_var(LVAR_q1) == 0 ) and ( took_plans_quest ) ) then begin
+      NLowOption(110,Node003);
+      NOption(115,Node003,004);
+   end
+   if (local_var(LVAR_q2) == 0) then begin
+      NLowOption(111,Node005);
+      NOption(116,Node005,004);
+   end
+   if (local_var(LVAR_q3) == 0) then begin
+      NLowOption(112,Node008);
+      NOption(117,Node008,004);
+   end
+   if (local_var(LVAR_q4) == 0) then begin
+      NLowOption(113,Node009);
+      NOption(118,Node009,004);
+   end
+   NLowOption(114,Node010);
+   NOption(119,Node010,004);
+end
+
+procedure Node003 begin
+   set_local_var(LVAR_q1,1);
+   Reply(120);
+
+   NLowOption(121,Node004);
+   NOption(122,Node004,004);
+end
+
+procedure Node004 begin
+   Reply(123);
+
+   NOption(124,Node002,001);
+end
+
+procedure Node005 begin
+   set_local_var(LVAR_q2,1);
+   Reply(125);
+
+   NLowOption(126,Node006);
+   NOption(127,Node006,004);
+end
+
+procedure Node006 begin
+   Reply(128);
+
+   NLowOption(129,Node007);
+   NOption(130,Node007,004);
+end
+
+procedure Node007 begin
+   if (global_var(GVAR_NAVARRO_FOB) == 0) then
+      set_global_var(GVAR_NAVARRO_FOB, NAVARRO_NEED_FOB);
+   Reply(131);
+
+   NLowOption(132,Node002);
+   NOption(133,Node002,004);
+end
+
+procedure Node008 begin
+   set_local_var(LVAR_q3,1);
+   Reply(134);
+
+   NLowOption(135,Node002);
+   NOption(136,Node002,004);
+end
+
+procedure Node009 begin
+   set_local_var(LVAR_q4,1);
+   Reply(137);
+
+   NLowOption(138,Node002);
+   NOption(139,Node002,004);
+end
+
+procedure Node010 begin
+   Reply(140);
+
+   NOption(141,Node999,001);
+end
+
+procedure Node011 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SCIENCE,-50))) then begin
+      Reply(142);
+      NOption(144,Node002,004);
+   end
+   else begin
+      set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+      Reply(143);
+      NOption(145,Node999,004);
+   end
+end
+
+procedure Node012 begin
+   Reply(146);
+
+   NOption(145,Node999,001);
+end
+
+procedure Node998 begin
+   set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+end
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end

@@ -1,0 +1,168 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Vault City Downtown entrance door.
+        Description: This door can be opened freely when the player is on the inside,
+                     but the player will be contested if opening it on the outside.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\VCtyDwtn.h"
+
+#define NAME                    SCRIPT_VIENTDOR
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure map_update_p_proc;
+procedure timed_event_p_proc;
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+import variable Entrance_Door_Ptr;
+
+#define behind_gate  ( ( tile_num(dude_obj) == 28520 ) or \
+                       ( tile_num(dude_obj) == 28519 ) or \
+                       ( tile_num(dude_obj) == 28518 ) or \
+                       ( tile_num(dude_obj) == 28517 ) or \
+                       ( tile_num(dude_obj) == 28516 ) or \
+                       ( tile_num(dude_obj) == 28515 ) or \
+                       ( tile_num(dude_obj) == 28514 ) )
+
+procedure start begin
+end
+
+/********************************************************************
+   Any time that a critter tries to use this door will call this
+   procedure. it will check to see if the door is trapped and locked.
+********************************************************************/
+
+procedure timed_event_p_proc begin
+    if (fixed_param == 1) then begin
+      obj_close( self_obj );
+      obj_lock( self_obj );
+    end
+   else if( fixed_param == 2 ) then
+      destroy_object(tile_contains_pid_obj( 28917, 0, PID_BLOCKING_HEX));
+end
+
+procedure use_p_proc begin
+   if( ( map_var( MVAR_Gate_Guard_Count ) == 0 ) or ( behind_gate ) ) then begin
+      script_overrides;
+      obj_unlock( self_obj );
+      obj_open( self_obj );
+      rm_timer_event( self_obj );
+      add_timer_event(self_obj,game_ticks(10),1);
+   end
+   else begin
+      script_overrides;
+      set_map_var( MVAR_Picking_Front_Gate, 1 );
+   end
+end
+
+/**********************************************************************************
+   Should the player try using a skill on the door, here are where the skill rolls
+   will be made. The ones which need to be in here are: Lockpick and Traps. Science
+   and Repair can be added to this list to give more information about the door.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+   variable Skill_Used;
+
+   Skill_Used:=action_being_used;
+   if (Skill_Used == SKILL_LOCKPICK) then begin
+      if( ( map_var( MVAR_Gate_Guard_Count ) == 0 ) or ( behind_gate ) ) then begin
+         script_overrides;
+         obj_unlock( self_obj );
+         obj_open( self_obj );
+         rm_timer_event( self_obj );
+         add_timer_event(self_obj,game_ticks(10),1);
+      end
+      else begin
+         script_overrides;
+         set_map_var( MVAR_Picking_Front_Gate, 1 );
+      end
+   end                                                          // End of Skill_Lockpick
+end
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+
+procedure use_obj_on_p_proc begin
+   variable Tool;
+
+   Tool:=obj_pid(obj_being_used_with);
+
+   if( ( Tool == PID_LOCKPICKS ) or
+       ( Tool == PID_EXP_LOCKPICK_SET ) or
+       ( Tool == PID_ELECTRONIC_LOCKPICKS ) or
+       ( Tool == PID_ELEC_LOCKPICK_MKII ) or
+       ( Tool == PID_CROWBAR ) ) then begin
+      if( ( map_var( MVAR_Gate_Guard_Count ) == 0 ) or ( behind_gate ) ) then begin
+         script_overrides;
+         obj_unlock( self_obj );
+         obj_open( self_obj );
+         rm_timer_event( self_obj );
+         add_timer_event(self_obj,game_ticks(10),1);
+      end
+      else begin
+         script_overrides;
+         set_map_var( MVAR_Picking_Front_Gate, 1 );
+      end
+   end
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called. The main purpose of
+   this procedure is to lock the door from the outset, rather than having to worry about
+   it through Mapper. After the door has been unlocked, it will remain as such, unless
+   the player locks it once more.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   rm_timer_event( self_obj );
+   create_object( PID_BLOCKING_HEX, 28917, 0 );
+   obj_close( self_obj );
+   obj_lock( self_obj );
+   add_timer_event( self_obj, 5, 2 );
+end
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time. It is used to make
+   sure that the door does not lock on it's own and that the player will be able to get
+   through once he has unlocked the door. Once more, this is so that locking and
+   unlocking do not need to be done in Mapper.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+   Entrance_Door_Ptr:=self_obj;
+end
+
+procedure map_exit_p_proc begin
+   reg_anim_clear( self_obj );
+end

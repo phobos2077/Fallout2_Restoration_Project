@@ -1,0 +1,67 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Arroyo Bridge
+        Location: Arroyo
+        Description: This is the Map Script for the Bridge of Arroyo
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_VCTYDWTN
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+export variable Entrance_Door_Ptr;
+export variable vault_city_darrow_box;
+export variable vault_city_farrell_box;
+export variable vault_city_randal_box;
+export variable vault_city_downtown_temp_box;
+export variable vault_city_barkus_box;
+export variable Randal_Ptr;
+export variable Stark_Ptr;
+export variable Val_Ptr;
+export variable Wallace_Ptr;
+export variable Barkus_Ptr;
+export variable Skeeve_Ptr;
+export variable Locker_Watcher;
+export variable Shack_Shelf_Watcher;
+export variable Shack_Locker_Watcher;
+export variable Family_Watcher;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   if( map_first_run ) then
+      display_msg( mstr(100) );
+   Lighting;
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+end

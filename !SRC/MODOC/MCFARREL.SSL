@@ -1,0 +1,426 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Farrel
+        Location: Modoc
+        Description: Old guy who supposidly stole the watch from Cornelius
+
+        Log: the following defines need to be changed:
+
+
+          Created: February 15, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                        SCRIPT_MCFARREL
+#define TOWN_REP_VAR                GVAR_TOWN_REP_MODOC
+
+#include "..\headers\command.h"
+#include "..\headers\modoc.h"
+#include "..\headers\ModInn.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure timed_event_p_proc;
+procedure combat_p_proc;
+
+// dialog nodes
+procedure Node000;
+procedure Node001;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+
+procedure Node999;                                      // This is the do nothing node
+procedure Node998;                                      // This Node is Always Combat
+procedure Node996;
+procedure Node995;
+procedure Node994;
+
+#define LVAR_Hostile                      (4)
+#define LVAR_Here_Before                  (5)
+#define LVAR_Last_Thief_Message           (6)
+#define LVAR_Yell_State                   (7)
+
+#define set_export_obj(x)                 if (cur_map_index == MAP_MODOC_BEDNBREAKFAST) then modoc_farrel_obj := x
+#define export_self_obj                   set_export_obj(self_obj)
+
+variable only_once := 0;
+import variable modoc_farrel_obj;
+import variable modoc_cornelius_obj;
+import variable ghost_farm_slag_obj;
+import variable door_obj
+
+procedure start begin
+   export_self_obj;
+end
+procedure combat_p_proc begin
+   if (dude_enemy_modoc) then begin
+      if (self_team == TEAM_PLAYER) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+      end
+   end else if (cur_map_index == MAP_GHOST_FARM) then begin
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+   end
+end
+
+procedure timed_event_p_proc begin
+variable the_time;
+   if (fixed_param == 2) then begin
+      float_msg(self_obj, " ", FLOAT_COLOR_NORMAL);
+   end else if (modoc_cornelius_obj != 0) then begin
+      export_self_obj;
+      if ((local_var(LVAR_Yell_State) <= 0) or (local_var(LVAR_Yell_State) > 3)) then begin
+         set_local_var(LVAR_Yell_State, 1);
+      end
+      floater_bad(500 + local_var(LVAR_Yell_State));
+      inc_local_var(LVAR_Yell_State);
+      the_time := random(3,5);
+      add_timer_event(self_obj,game_ticks(the_time) - 1,2);
+      add_timer_event(modoc_cornelius_obj,game_ticks(the_time) + 1,1);
+   end else begin
+      set_local_var(LVAR_Yell_State, 0);
+   end
+end
+procedure map_update_p_proc begin
+   export_self_obj;
+end
+
+procedure map_enter_p_proc begin
+   if (farrel_dead) then begin
+      destroy_object(self_obj);
+   end
+   match_dude_elevation;
+   export_self_obj;
+   if (map_first_run) then begin
+      if (cur_map_index != MAP_GHOST_FARM) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+      end
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+      check_restock_item(PID_MEAT_JERKY, 2, 2, 100)
+   end
+   check_show_ghost_farm_attackers
+end
+
+procedure critter_p_proc begin
+   if (((local_var(LVAR_Hostile) != 0) or (dude_enemy_modoc)) and (self_can_see_dude)) then begin
+      self_attack_dude;
+   end else if (cur_map_index == MAP_GHOST_FARM) then begin
+      Do_Attacking_Slag(12,9)
+   end else if (local_var(LVAR_Last_Thief_Message) < wall_safe_attempts) then begin
+      if (local_var(LVAR_Last_Thief_Message) < 3) then begin
+         floater(150 + local_var(LVAR_Last_Thief_Message));
+      end
+      inc_local_var(LVAR_Last_Thief_Message);
+      if (local_var(LVAR_Last_Thief_Message) >= 3) then begin
+         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_PEASANT_KAMAKAZI);
+         call Node998;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_enemy_modoc;
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   if (cur_map_index == MAP_GHOST_FARM) then begin
+      kill_them_all_floater;
+   end else if (local_var(LVAR_Yell_State) == 0) then begin
+      script_overrides;
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         if ((local_var(LVAR_Here_Before) == 0) and (family_feud_seed_unknown))then begin   //fix by killap: added (family_feud_seed_unknown)
+            call Node000;
+         end else begin
+            call Node001;
+         end
+      gSay_End;
+      end_dialogue;
+      inc_local_var(LVAR_Here_Before);
+   end else begin
+      display_msg(mstr(550)); //edit by killap - was missing mstr
+   end
+end
+
+procedure destroy_p_proc begin
+   set_export_obj(0);
+   set_farrel_dead;
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Here_Before) > 0) then begin
+      display_msg(mstr(101));
+   end else begin
+      display_msg(mstr(100));
+   end
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+// dialog action functions
+procedure Node999 begin
+  // do absolutely everything that pertains to nothing
+end
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,true);
+end
+procedure Node996 begin
+   load_map(MAP_MODOC_GARDEN,0);
+end
+procedure Node995 begin
+   if (vermin_hunter_seed_unknown) then begin
+      call Node026;
+   end else begin
+      call Node999;
+   end
+end
+procedure Node994 begin
+   set_vermin_hunter_seed_active;
+   call Node996;
+end
+procedure Node993 begin
+   set_feud_help_farrel_seed_active;
+   call Node024;
+end
+
+// dialog nodes
+procedure Node000 begin
+   debug_msg("Node000");
+   Reply(153);
+   if ((feud_help_cornelius_seed_active) and (feud_help_farrel_seed_accepted == false) and (dude_has_cornelius_watch == false)) then begin
+      NOption(154,Node010,004);
+   end
+   if (tool_flag) then begin
+      NOption(155,Node011,004);
+   end
+   NOption(156,Node017,004);
+   if (vermin_hunter_seed_accepted == false) then begin
+      NOption(157,Node018,004);
+   end
+   if (family_feud_seed_unknown) then begin
+      NOption(158,Node023,004);
+   end
+   NOption(g_mstr(209),Node999,004);
+   NOption(g_mstr(302),Node026,-003);
+end
+procedure Node001 begin
+   debug_msg("Node001");
+   Reply(159);
+   if ((feud_help_cornelius_seed_active) and (feud_help_farrel_seed_accepted == false) and (dude_has_cornelius_watch == false)) then begin
+      NOption(154,Node010,004);
+   end
+   if (tool_flag) then begin
+      NOption(155,Node011,004);
+   end
+   if (wall_safe_found) then begin
+      NOption(162,Node016,004);
+   end
+   NOption(156,Node017,004);
+   if (vermin_hunter_seed_accepted == false) then begin
+      NOption(157,Node018,004);
+   end
+   if (vermin_hunter_seed_active) then begin
+      debug_msg("/nvermin_hunter_seed_active");
+      if (all_rats_killed) then begin
+         debug_msg("/nall_rats_killed");
+         NOption(166,Node021,004);
+         NOption(169,Node029,-003);
+      end else begin
+         NOption(165,Node994,004);
+         NOption(170,Node994,-003);
+      end
+   end
+   if (family_feud_seed_unknown) then begin
+      NOption(167,Node023,004);
+   end
+   if ((feud_help_farrel_seed_active) and (dude_has_cornelius_watch)) then begin
+      NOption(168,Node025,004);
+   end
+   //NOption(g_mstr(209),Node999,004);
+   NOption(g_mstr(376),Node999,004); //edit by killap
+   NOption(g_mstr(302),Node995,-003);
+end
+procedure Node010 begin
+   debug_msg("Node010");
+   Reply(171);
+   NOption(172,Node999,004);
+end
+procedure Node011 begin
+   debug_msg("Node011");
+   Reply(173);
+   NOption(174,Node015,004);
+   NOption(175,Node012,004);
+   NOption(176,Node014,004);
+   NOption(g_mstr(209),Node999,004);
+end
+procedure Node012 begin
+   debug_msg("Node012");
+   Reply(177);
+   NOption(178,Node013,004);
+   NOption(g_mstr(209),Node999,004);
+end
+procedure Node013 begin
+   debug_msg("Node013");
+   Reply(179);
+   NOption(180,Node014,004);
+   NOption(g_mstr(209),Node999,004);
+end
+procedure Node014 begin
+   debug_msg("Node014");
+   Reply(181);
+   NOption(182,Node001,004);
+   NOption(g_mstr(209),Node999,004);
+end
+procedure Node015 begin
+   debug_msg("Node015");
+   Reply(183);
+   NOption(g_mstr(350),Node999,004);
+end
+procedure Node016 begin
+   debug_msg("Node016");
+   Reply(184);
+   NOption(g_mstr(350),Node999,004);
+end
+procedure Node017 begin
+   debug_msg("Node017");
+   Reply(185);
+   NOption(182,Node001,004);
+   NOption(g_mstr(209),Node999,004);
+end
+procedure Node018 begin
+   debug_msg("Node018");
+   if (family_feud_seed_active) then begin
+      Reply(187);
+      NOption(191,Node022,004);
+   end else begin
+      Reply(188);
+   end
+   NOption(189,Node019,004);
+   NOption(190,Node020,004);
+   NOption(182,Node001,004);
+   NOption(g_mstr(209),Node999,004);
+end
+procedure Node019 begin
+   debug_msg("Node019");
+   Reply(193);
+   NOption(194,Node020,004);
+   NOption(195,Node999,004);
+end
+procedure Node020 begin
+   debug_msg("Node020");
+   Reply(196);
+   NOption(g_mstr(350),Node994,004);
+end
+procedure Node021 begin
+   debug_msg("Node021");
+   set_vermin_hunter_seed_inactive;
+   inc_global_var_amt(GVAR_TOWN_REP_MODOC,REP_TOWN_FINISH_VERMIN_HUNT); // Seraph's Fix: changed 'inc_global_var' to 'inc_global_var_amt'. Thanks Rob!
+   Reply(197);
+   NOption(198,Node001,004);
+   NOption(g_mstr(209),Node999,004);
+end
+procedure Node022 begin
+   debug_msg("Node022");
+   Reply(199);
+   NOption(g_mstr(350),Node999,004);
+end
+procedure Node023 begin
+   debug_msg("Node023");
+   Reply(200);
+   NOption(201,Node993,004);
+   NOption(202,Node001,004);
+   NOption(g_mstr(209),Node999,004);
+end
+procedure Node024 begin
+   debug_msg("Node024");
+   Reply(203);
+   NOption(182,Node001,004);
+   NOption(g_mstr(209),Node999,004);
+end
+procedure Node025 begin
+   debug_msg("Node025");
+   remove_pid_qty(dude_obj, cornelius_watch_pid, 1)
+   set_family_feud_seed_inactive
+   inc_general_rep(REP_POINT_MODOC_RETURN_WATCH);
+   display_mstr(600);
+   give_xp(EXP_SOLVE_FAMILY_FEUD_BEST);
+   Reply(205);
+   NOption(g_mstr(350),Node999,004);
+end
+procedure Node026 begin
+   debug_msg("Node026");
+   Reply(206);
+   NOption(207,Node027,-003);
+   NOption(208,Node994,-003);
+   NOption(209,Node999,-003);
+end
+procedure Node027 begin
+   debug_msg("Node027");
+   Reply(210);
+   NOption(g_mstr(350),Node999,-003);
+end
+procedure Node028 begin
+   debug_msg("Node028");
+   Reply(211 + dude_is_female);
+   NOption(g_mstr(350),Node994,-003);
+end
+procedure Node029 begin
+   debug_msg("Node029");
+   add_obj_to_inven(dude_obj,create_object(cookie_pid,0,0));
+   inc_global_var_amt(GVAR_TOWN_REP_MODOC,REP_TOWN_FINISH_VERMIN_HUNT); // Seraph's Fix: changed 'inc_global_var' to 'inc_global_var_amt'. Thanks Rob!
+   set_vermin_hunter_seed_inactive;
+   Reply(213);
+   NOption(g_mstr(350),Node999,-003);
+end

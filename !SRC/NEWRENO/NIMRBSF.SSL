@@ -1,0 +1,366 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Mr. Bishop's Safe
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created:
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NIOWRISF
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure pickup_p_proc;
+procedure use_p_proc;
+procedure damage_p_proc;
+procedure map_exit_p_proc;
+procedure map_update_p_proc;
+procedure use_obj_on_p_proc;
+
+#define LVAR_BoomW                           (0)
+#define LVAR_Knocks                          (1)
+#define LVAR_Flags                           (2)
+#define LVAR_Trap_Type                       (3)
+
+#define gave_exp_bit                         bit_10
+#define found_trap_bit                       bit_11
+
+#define gave_exp                             lvar_bit(LVAR_Flags, gave_exp_bit)
+#define set_gave_exp                         if (gave_exp == false) then begin            \
+                                                give_xp(EXP_DISARM_WRIGHT_SAFE);          \
+                                             end                                          \
+                                             set_lvar_bit_on(LVAR_Flags, gave_exp_bit)
+
+#define found_trap                           ((lvar_bit(LVAR_Flags, found_trap_bit)) or (get_boomw(boomw_trapped)) or (mrs_bishop_warning))
+#define set_found_trap                       set_lvar_bit_on(LVAR_Flags, found_trap_bit)
+
+#define boomw_none                           (0)
+#define boomw_boom                           (1)
+#define boomw_trapped                        (2)
+#define boomw_trap_boom                      (3)
+#define boomw_disarmed                       (4)
+#define set_boomw(x)                         if (x == boomw_boom) then begin                                               \
+                                                if (get_boomw(boomw_none)) then begin                                      \
+                                                   call_bishop_safe_guard                                                  \
+                                                   explosion_tile := tile_num_in_direction(self_tile, 2, 1);               \
+                                                   if (local_var(LVAR_Trap_Type) == PID_PLASTIC_EXPLOSIVES) then begin     \
+                                                      explosion(explosion_tile, self_elevation, 60);                       \
+                                                   end else begin                                                          \
+                                                      explosion(explosion_tile, self_elevation, 40);                       \
+                                                   end                                                                     \
+                                                end                                                                        \
+                                             end else if (x == boomw_disarmed) then begin                                  \
+                                                if (local_var(LVAR_Trap_Type) == PID_PLASTIC_EXPLOSIVES) then begin        \
+                                                   give_pid_qty(dude_obj, PID_PLASTIC_EXPLOSIVES, 1)                     \
+                                                end else begin                                                             \
+                                                   give_pid_qty(dude_obj, PID_DYNAMITE, 1)                               \
+                                                end                                                                        \
+                                                set_gave_exp;                                                              \
+                                             end else if (x == boomw_trap_boom) then begin                                 \
+                                                if (get_boomw(boomw_trapped)) then begin                                   \
+                                                   display_mstr(300);                                                      \
+                                                   if (mr_bishop_obj != 0) then begin                                      \
+                                                      destroy_object(mr_bishop_obj);                                       \
+                                                      mr_bishop_obj := 0;                                                  \
+                                                      set_bishop_dead                                                      \
+                                                      inc_evil_critter                                                     \
+                                                      set_family_crushed(family_bishop)                                    \
+                                                      /*move_to(mr_bishop_obj, tile_num_in_direction(self_tile, 2, 1), self_elevation);*/ \
+                                                   end                                                                     \
+                                                   explosion(self_tile, self_elevation, 60);                              \
+                                                end                                                                        \
+                                             end                                                                           \
+                                             set_local_var(LVAR_BoomW, x)
+#define trap_on_safe                         ((get_boomw(boomw_none)) or (get_boomw(boomw_trapped)))
+
+#define get_boomw(x)                         (local_var(LVAR_BoomW) == x)
+
+#define check_safe_tamper(x)                 if (bishop_roof_guard_obj != 0) then begin                                    \
+                                                if ((obj_can_see_obj(bishop_roof_guard_obj, source_obj)) or (obj_can_see_obj(bishop_roof_guard_obj, self_obj))) then begin         \
+                                                   x := true;                                                                    \
+                                                   script_overrides;                                                             \
+                                                   if (obj_is_open(self_obj)) then begin                                         \
+                                                      nr_add_timer_event(bishop_roof_guard_obj, 0, attack_param);          \
+                                                   end else begin                                                                \
+                                                      nr_add_timer_event(bishop_roof_guard_obj, 0, tamper_safe_param);     \
+                                                   end                                                                           \
+                                                end                                                                              \
+                                             end
+#define open_chance                          ((5 * (get_critter_stat(source_obj,STAT_iq) >= 7)) + (5 * ((has_skill(source_obj, SKILL_LOCKPICK) >= 50) or (is_success(roll_vs_skill(dude_obj,SKILL_LOCKPICK,0))))) + (5 * ((get_critter_stat(source_obj,STAT_lu) == 9) or (get_critter_stat(source_obj,STAT_pe) == 9) or (is_success(do_check(source_obj, STAT_lu, 0))))) + (25 * ((get_critter_stat(source_obj,STAT_lu) == 10) or (get_critter_stat(source_obj,STAT_pe) == 10))))
+
+variable explosion_tile;
+import variable mr_bishop_obj;
+import variable bishop_roof_guard_obj;
+import variable help_me_obj;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == move_bishop_to_safe_param) then begin
+      if (bishop_dead == false) then begin
+         if ((dude_elevation != self_elevation) and (get_boomw(boomw_trapped))) then begin
+            set_boomw(boomw_trap_boom);
+            nr_add_timer_event(self_obj, 5, move_bishop_to_safe_param);
+         end else begin
+            nr_add_timer_event(self_obj, random(25, 30), move_bishop_to_safe_param);
+         end
+      end if (get_boomw(boomw_trap_boom)) then begin
+         set_bishop_dead //added by killap
+         set_bishop_assassinated;
+      end
+   end else begin
+      set_boomw(boomw_boom);
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (bishop_dead == false) then begin
+         if (obj_is_open(self_obj)) then begin
+            obj_close(self_obj);
+         end
+         if (obj_is_locked(self_obj) == false) then begin
+            obj_lock(self_obj);
+         end
+         if (map_first_run) then begin
+            set_boomw(boomw_none);
+         end
+      end
+   end
+end
+
+procedure map_exit_p_proc begin
+   if ((get_boomw(boomw_trap_boom)) and (bishop_dead)) then begin
+      set_bishop_dead //added by killap
+      set_bishop_assassinated;
+   end
+end
+
+
+procedure map_update_p_proc begin
+   if (get_boomw(boomw_trapped)) then begin
+      if (dude_elevation != self_elevation) then begin
+         nr_add_timer_event(self_obj, 15, move_bishop_to_safe_param);
+      end
+   end else if ((get_boomw(boomw_trap_boom)) and (bishop_dead)) then begin
+      set_bishop_dead //added by killap
+      set_bishop_assassinated;
+   end
+   if (obj_is_open(self_obj)) then begin
+      set_mr_bishop_safe(mr_bishop_safe_know);
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   set_mr_bishop_safe(mr_bishop_safe_touched);
+   display_mstr(100 + (obj_is_open(self_obj)));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   set_mr_bishop_safe(mr_bishop_safe_touched);
+   display_mstr(100 + (obj_is_open(self_obj)));
+end
+
+procedure damage_p_proc begin
+variable set_off := false;
+   debug_msg("safe damage_p_proc");
+   if (target_obj != 0) then begin
+      if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
+         set_off := true;
+      end
+   end
+   if ((source_obj != 0) and (set_off == false)) then begin
+      if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
+         set_off := true;
+      end
+   end
+   if (set_off) then begin
+      obj_unlock(self_obj);
+      add_timer_event(self_obj, 3, 1);
+      call_bishop_safe_guard
+   end
+end
+
+procedure pickup_p_proc begin
+variable send_warning := false;
+   check_safe_tamper(send_warning)
+end
+
+procedure use_p_proc begin
+variable send_warning := false;
+   set_mr_bishop_safe(mr_bishop_safe_touched);
+   check_safe_tamper(send_warning)
+   if (obj_is_locked(self_obj)) then begin
+      if (mr_bishop_safe(mr_bishop_safe_know)) then begin
+         display_mstr(150);
+         obj_unlock(self_obj);
+      end else begin
+         script_overrides;
+      end
+   end
+end
+
+procedure use_obj_on_p_proc begin
+variable the_roll;
+   if (obj_is_open(self_obj) == false) then begin
+      if ((obj_pid(obj_being_used_with) == PID_DYNAMITE) or (obj_pid(obj_being_used_with) == PID_PLASTIC_EXPLOSIVES)) then begin
+         script_overrides;
+         gfade_out(ONE_GAME_MINUTE);
+            game_time_advance(30 * ONE_GAME_MINUTE);
+            the_roll := roll_vs_skill(dude_obj,SKILL_TRAPS,-10);
+            if (trap_on_safe) then begin
+               if (found_trap) then begin
+                  display_mstr(121);
+               end else if (is_success(the_roll)) then begin
+                  display_mstr(260);
+                  set_found_trap;
+               end else if (is_critical(the_roll)) then begin
+                  set_boomw(boomw_boom);
+               end else if (source_obj == dude_obj) then begin
+                  display_mstr(270);
+               end else begin
+                  display_msg(obj_name(source_obj) + mstr(271));
+               end
+            end else if (get_boomw(boomw_trapped)) then begin
+               display_mstr(121);
+            end else if (is_success(the_roll)) then begin
+               set_local_var(LVAR_Trap_Type, obj_pid(obj_being_used_with));
+               rm_obj_from_inven(dude_obj,obj_being_used_with); //added by killap
+               destroy_object(obj_being_used_with);
+ //              set_boomw(boomw_trapped);
+               set_boomw(boomw_none);
+               script_overrides;
+               display_mstr(280);
+/*            end else if (is_critical(the_roll)) then begin
+               set_local_var(LVAR_Trap_Type, obj_pid(obj_being_used_with));
+               destroy_object(obj_being_used_with);
+               set_boomw(boomw_none);
+               set_boomw(boomw_boom);*/
+            end else if (source_obj == dude_obj) then begin
+               display_mstr(270);
+            end else begin
+               display_msg(obj_name(source_obj) + mstr(271));
+            end
+         gfade_in(ONE_GAME_MINUTE);
+      end
+   end
+end
+
+procedure use_skill_on_p_proc begin
+variable send_warning := false;
+variable the_roll;
+    script_overrides;
+   check_safe_tamper(send_warning)
+   if (send_warning == false) then begin
+  //    if (obj_is_locked(self_obj)) then begin
+         if (action_being_used == SKILL_LOCKPICK) then begin
+            script_overrides;
+            if (trap_on_safe) then begin
+               script_overrides;
+               if ((is_success(roll_vs_skill(dude_obj,SKILL_TRAPS,-10))) or (found_trap)) then begin
+                  display_mstr(120 + found_trap);
+                  set_found_trap;
+               end else begin
+                  set_boomw(boomw_boom);
+               end
+            end else begin
+               script_overrides;
+               the_roll := roll_vs_skill(dude_obj, SKILL_LOCKPICK, 0);
+               gfade_out(ONE_GAME_MINUTE);
+                  if (mr_bishop_safe(mr_bishop_safe_know) == false) then begin
+                     game_time_advance(15 * ONE_GAME_MINUTE);
+                  end
+                  if ((is_success(the_roll)) or (mr_bishop_safe(mr_bishop_safe_know))) then begin
+                     display_mstr(150);
+                     obj_unlock(self_obj);
+                  end else if ((random(1,100) <= dude_luck) and (is_critical(the_roll) == false)) then begin
+                     display_mstr(160);
+                     obj_unlock(self_obj);
+                  end else begin
+                     display_mstr(170 + (has_skill(source_obj,SKILL_LOCKPICK) < 50));
+                  end
+               gfade_in(ONE_GAME_MINUTE);
+            end
+         end else if (action_being_used == SKILL_TRAPS) then begin
+            debug_msg("action_being_used == SKILL_TRAPS");
+            gfade_out(ONE_GAME_MINUTE);
+            script_overrides;
+               game_time_advance(15 * ONE_GAME_MINUTE);
+               if (trap_on_safe) then begin
+                  script_overrides;
+                  debug_msg("trap_on_safe");
+                  the_roll := roll_vs_skill(dude_obj,SKILL_TRAPS,-25);
+                  if (is_success(the_roll)) then begin
+                     debug_msg("should disarm safe");
+                     set_boomw(boomw_disarmed);
+                     display_mstr(180 + found_trap);
+                  end else if ((is_success(roll_vs_skill(dude_obj,SKILL_TRAPS,-10))) and (found_trap == false)) then begin
+                     debug_msg("detect trap");
+                     set_found_trap;
+                     display_mstr(190);
+                  end else if (is_critical(the_roll)) then begin
+                     debug_msg("traps critical fail");
+                     display_mstr(290 + found_trap);
+                     set_boomw(boomw_boom);
+                  end else begin
+                     debug_msg("fell through on traps");
+                     display_mstr(200 + found_trap);
+                  end
+               end else begin
+                  debug_msg("trap_on_safe == false");
+                  display_mstr(200);
+               end
+            gfade_in(ONE_GAME_MINUTE);
+         end else if (action_being_used == SKILL_STEAL) then begin
+            script_overrides;
+         end else if (action_being_used == SKILL_REPAIR) then begin
+//            if (trap_safe) then begin  //killap's fix: changed from (trap_safe)
+               script_overrides;
+               if (obj_is_open(self_obj) == false) then begin
+                  script_overrides;
+                  if (has_skill(source_obj, SKILL_REPAIR) > 75) then begin
+                     script_overrides;
+                     if (get_boomw(boomw_trapped)) then begin
+                        display_mstr(231);
+                     end else if (trap_on_safe) then begin
+                        gfade_out(ONE_GAME_MINUTE);
+                           game_time_advance(30 * ONE_GAME_MINUTE);
+                           script_overrides;
+                           display_mstr(230);
+                           set_boomw(boomw_trapped);
+                        gfade_in(ONE_GAME_MINUTE);
+                     end else begin
+                        display_mstr(220);
+                     end
+                  end else if (source_obj == dude_obj) then begin
+                     display_mstr(240);
+                  end else begin
+                     display_msg(obj_name(source_obj) + mstr(241));
+                  end
+               end else begin
+                  display_mstr(250);
+               end
+//            end
+         end
+  //    end
+   end
+end

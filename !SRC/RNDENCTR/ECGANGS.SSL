@@ -1,0 +1,153 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/* Random Encounter scripts. These will be filled in more once they
+   have been designed.
+*/
+
+procedure start;
+
+#include "..\headers\define.h"
+#include "..\headers\bhrnddst.h"
+
+#define NAME                    SCRIPT_ECGANGS
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure description_p_proc;
+procedure look_at_p_proc;
+procedure timed_event_p_proc;
+procedure combat_p_proc;
+procedure talk_p_proc;
+procedure use_obj_on_p_proc;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+#define TAUNT_CHANCE 50 //edit by killap - was 100
+
+procedure NodeFleeing;
+procedure NodeFighting;
+
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+#define LVAR_Herebefore                             (0)
+#define LVAR_Hostile                                (1)
+
+variable Only_Once:=0;
+
+procedure start begin
+end
+
+procedure combat_p_proc begin
+   if (critter_is_fleeing(self_obj)) then begin
+      if (Random(1, 100) <= TAUNT_CHANCE) then begin
+         call NodeFleeing;
+      end
+   end else begin
+      if (Random(1, 100) <= TAUNT_CHANCE) then begin
+         call NodeFighting;
+      end
+   end
+end
+
+procedure timed_event_p_proc begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_GANGS);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+end
+
+
+procedure look_at_p_proc begin
+end
+
+procedure use_obj_on_p_proc begin
+end
+
+procedure description_p_proc begin
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+
+   set_local_var(LVAR_Hostile, 2);
+   if (local_var(LVAR_Hostile) == 2 and obj_can_see_obj(self_obj,dude_obj)) then begin
+      set_local_var(LVAR_Hostile, 1);
+      attack(dude_obj);
+   end
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+
+   if (source_obj == dude_obj) then
+      set_local_var(LVAR_Hostile, 2);
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then
+      set_local_var(LVAR_Hostile, 2);
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+   if (cur_map_index == MAP_BH_RND_DESERT) then begin
+       dec_map_var(MVAR_Hostile_Total);
+   end
+/* Set global_variable for Enemy status*/
+end
+
+procedure Node999 begin
+end
+
+procedure talk_p_proc begin
+end
+
+procedure NodeFighting begin
+   float_msg(self_obj, mstr(Random(100, 105)), FLOAT_MSG_RED);
+end
+
+procedure NodeFleeing begin
+   float_msg(self_obj, mstr(Random(106, 108)), FLOAT_MSG_YELLOW);
+end

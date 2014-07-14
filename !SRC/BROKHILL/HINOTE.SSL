@@ -1,0 +1,48 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_HINOTE
+#define CUR_COMP_SCRIPT         SCRIPT_HINOTE
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure description_p_proc;
+procedure use_p_proc;
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   script_overrides;
+   if( global_var( GVAR_READ_FRANCIS_NOTE ) == 0 ) then
+      set_global_var( GVAR_READ_FRANCIS_NOTE, 1 );
+   display_msg( mstr(100) );
+   float_msg( dude_obj, mstr(101), FLOAT_COLOR_AFRAID );
+end
+
+procedure description_p_proc begin
+   if( global_var( GVAR_READ_FRANCIS_NOTE ) == 0 ) then
+      set_global_var( GVAR_READ_FRANCIS_NOTE, 1 );
+   float_msg( dude_obj, mstr(101), FLOAT_COLOR_AFRAID );
+end

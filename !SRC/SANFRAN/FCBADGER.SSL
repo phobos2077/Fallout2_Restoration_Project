@@ -1,0 +1,866 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Badger
+        Location: San Fran
+        Description: He is a computer hacker punck.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+//#include "..\headers\<TownName.h>"
+
+#define NAME                    SCRIPT_FCBADGER
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_SAN_FRANCISCO)
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#include "..\headers\sanfran.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+
+procedure startDeath;
+procedure continueDeath;
+procedure doDeathWalk;
+
+#define TILE_LEAVE  27101
+#define DOING_DEATH (local_var(LVAR_Doing_Death) != 0)
+#define TIMER_CONTINUE_DEATH 1
+#define TIMER_DO_DEATH_WALK  2
+
+#define G1_TILE 27703
+#define G2_TILE 27699
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_GFriend_Count              (7)
+#define LVAR_Hacking                    (8)
+#define LVAR_Hacking_Done_Time          (9)
+#define LVAR_Morn                       (10)
+#define LVAR_Do_Death                   (11)
+#define LVAR_Doing_Death                (12)
+
+#define SHI_FUEL   1
+#define SHI_PLANS  2
+#define SHI_BOTH   3
+#define SHI_HACKED 4
+
+#define ELE_FUEL   5
+#define ELE_PLANS  6
+#define ELE_BOTH   7
+#define ELE_HACKED 8
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable g1;
+variable g2;
+variable cDeathCount;
+
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_CONTINUE_DEATH) then begin
+      call continueDeath;
+   end else if (fixed_param == TIMER_DO_DEATH_WALK) then begin
+      call doDeathWalk;
+   end
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_PUNKS);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SF_BADGER);
+//Temp
+//   set_local_var(LVAR_Do_Death, 1);
+   if (badger_flag(BADGER_DONESHI) and local_var(LVAR_Do_Death) == 0) then begin
+     set_local_var(LVAR_Do_Death, game_time + (ONE_GAME_DAY * Random(1, 3)));
+   end
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       self_attack_dude;
+   end
+
+   if (san_fran_flag(SF_PUNKS_ENEMY) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+      set_local_var(LVAR_Hostile, 2);
+   end
+
+   if ((local_var(LVAR_Do_Death) != 0) and (obj_on_screen(self_obj)) and (not combat_is_initialized)) then begin
+      if (game_time > local_var(LVAR_Do_Death)) then begin
+         set_local_var(LVAR_Do_Death, 0);
+         call StartDeath;
+      end
+   end
+
+   if (local_var(LVAR_Doing_Death)  == 1 and self_tile == TILE_LEAVE) then begin
+      set_local_var(LVAR_Doing_Death, 2);
+      g1 := create_object(PID_SHI_GUARD, G1_TILE, 0);
+      g2 := create_object(PID_SHI_GUARD, G2_TILE, 0);
+      reg_anim_clear(g1);
+      reg_anim_begin();
+      anim(g1, ANIMATE_ROTATION, rotation_to_tile(G1_TILE, self_tile));
+      reg_anim_end();
+
+      reg_anim_clear(g2);
+      reg_anim_begin();
+      anim(g2, ANIMATE_ROTATION, rotation_to_tile(G2_TILE, self_tile));
+      reg_anim_end();
+
+      float_msg(self_obj, mstr(203), FLOAT_MSG_RED);
+
+      add_timer_event(self_obj, game_ticks(3), TIMER_CONTINUE_DEATH);
+   end else if (local_var(LVAR_Doing_Death) == 1) then begin
+      if (tile_distance_objs(self_obj, dude_obj) >= 10) then begin
+         move_to(dude_obj, self_tile, 0);
+      end
+   end
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (obj_in_party(source_obj)) then begin
+      set_local_var(LVAR_Personal_Enemy,1);
+      set_san_fran_flag(SF_PUNKS_ENEMY);
+   end
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_INTOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION0;
+
+   CheckKarma;
+
+   GetReaction;
+
+
+   if (not DOING_DEATH) then begin
+      if (san_fran_flag(SF_PUNKS_ENEMY)) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node028;
+         gSay_End;
+         end_dialogue;
+      end else if (badger_flag(BADGER_DONEELE)) then begin
+         call Node031;
+      end else if (badger_flag(BADGER_DONESHI)) then begin
+         call Node030;
+      end else if (badger_flag(BADGER_GFRIEND2) and not local_var(LVAR_Hacking)) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node025;
+         gSay_End;
+         end_dialogue;
+      end else if (badger_flag(BADGER_GFRIEND1) and not local_var(LVAR_Hacking)) then begin
+         if (local_var(LVAR_GFriend_Count) == 1) then begin
+            if (game_time > local_var(LVAR_Morn)) then begin
+               start_gdialog(NAME,self_obj,4,-1,-1);
+               gSay_Start;
+                  call Node024;
+               gSay_End;
+               end_dialogue;
+            end else begin
+               start_gdialog(NAME,self_obj,4,-1,-1);
+               gSay_Start;
+                  call Node029;
+               gSay_End;
+               end_dialogue;
+            end
+         end else if (local_var(LVAR_GFriend_Count) == 0) then begin
+            inc_local_var(LVAR_GFriend_Count);
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node023;
+            gSay_End;
+            end_dialogue;
+         end
+      end else if (badger_flag(BADGER_FGFRIEND)) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node022;
+         gSay_End;
+         end_dialogue;
+      end else if (local_var(LVAR_Hacking_Done_Time)) then begin
+         debug_msg("FCBADGER: hacking : " + local_var(LVAR_Hacking));
+         if (game_time >= local_var(LVAR_Hacking_Done_Time) and local_var(LVAR_Hacking) < SHI_HACKED) then begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node026;
+            gSay_End;
+            end_dialogue;
+         end else if (game_time >= local_var(LVAR_Hacking_Done_Time) and local_var(LVAR_Hacking) < ELE_HACKED) then begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node027;
+            gSay_End;
+            end_dialogue;
+         end else if (game_time < local_var(LVAR_Hacking_Done_Time)) then begin
+            call Node008;
+          end
+      end else begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node001;
+         gSay_End;
+         end_dialogue;
+      end
+   end else begin
+      //Mabe do a float if I don't lock the player out.
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+   set_badger_flag(BADGER_DEADCBT);
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node171819 begin
+   if (badger_flag(BADGER_GFRIEND2)) then begin
+      call Node017;
+   end else if (badger_flag(BADGER_GFRIEND1)) then begin
+      call Node018;
+   end else begin
+      set_badger_flag(BADGER_MET);
+      call Node019;
+   end
+end
+
+procedure Node001 begin
+   Reply(103);
+   NOption(104, Node002, 1);
+   NLowOption(105, Node004);
+   NOption(106, Node004, 4); 
+   NOption(107, Node006, 4);
+   NOption(108, Node007, 4);
+   if ( (not badger_flag(0)) and (san_fran_flag(SF_FUEL_COMP_KNOWN) or elron_whirly(EL_WH_STEALSHI) or shi_whirly(SH_WH_STEALELE) or san_fran_flag(SF_BROTHER_PLANS)) ) then //added san_fran_flag(SF_BROTHER_PLANS) - killap
+      NOption(109, Node171819, 4);
+   if (local_var(LVAR_Hacking) != 0) then
+      NOption(110, Node008, 4);
+   if (tanker_flag(TANK_KNOWN) and not tanker_flag(TANK_FUEL)) then
+      NOption(199, Node032, 4);
+   NOption(111, Node999, 4);
+end
+
+procedure Node002 begin
+   Reply(112);
+   NOption(113, Node003, 1);
+   NOption(114, Node999, 1);
+end
+
+procedure Node003 begin
+   Reply(115);
+   NOption(116, Node999, 4);
+end
+
+procedure Node010a begin
+   DownReactMajor;
+   call Node010;
+end
+
+procedure Node004 begin
+   Reply(117);
+   NLowOption(118, Node005);
+   NOption(119, Node009, 4);
+   BOption(120, Node010a, 4);
+   NOption(121, Node011, 4);
+   NOption(122, Node999, 4);
+end
+
+procedure Node005 begin
+   Reply(123);
+   NOption(124, Node999, 1);
+end
+
+procedure Node006 begin
+   Reply(125);
+   NOption(126, Node012, 4);
+   NOption(127, Node013, 4);
+end
+
+procedure Node007 begin
+   Reply(128);
+   NOption(129, Node009, 4);
+   NOption(130, Node999, 4);
+end
+
+procedure Node008 begin
+   float_msg(self_obj, mstr(131), FLOAT_MSG_NORMAL);
+/*   Reply(131);
+   NOption(132, Node999, 4);*/
+end
+
+procedure Node009 begin
+   Reply(133);
+   if (san_fran_flag(SF_FUEL_COMP_KNOWN) or elron_whirly(EL_WH_STEALSHI) or shi_whirly(SH_WH_STEALELE)) then
+      NOption(134, Node171819, 4);
+   NOption(135, Node015, 4);
+end
+
+procedure Node010 begin
+   Reply(136);
+   NOption(137, Node999, 4);
+   BOption(138, Node998, 4); //edit by killap - was NOption
+end
+
+procedure Node016a begin
+   UpReactModerate;
+   call Node016;
+end
+
+procedure Node011 begin
+   Reply(139);
+   NOption(140, Node016a, 4);
+   NOption(141, Node001, 4);
+   NOption(142, Node010a, 4);
+end
+
+procedure Node012 begin
+   Reply(143);
+   NOption(144, Node001, 4);
+   NOption(145, Node999, 4);
+end
+
+procedure Node013 begin
+   Reply(146);
+   NOption(147, Node001, 4);
+   NOption(148, Node999, 4);
+end
+
+procedure Node014 begin
+   Reply(149);
+   NOption(150, Node171819, 4);
+   NOption(151, Node999, 4);
+end
+
+procedure Node015 begin
+   Reply(152);
+   if (san_fran_flag(SF_FUEL_COMP_KNOWN) or elron_whirly(EL_WH_STEALSHI) or shi_whirly(SH_WH_STEALELE)) then
+      NOption(153, Node014, 4);
+   NOption(154, Node001, 4);
+   NOption(155, Node999, 4);
+end
+
+procedure Node016 begin
+   Reply(156);
+   NOption(157, Node001, 4);
+   NOption(158, Node999, 4);
+end
+
+procedure Node017 begin
+   Reply(159);
+   NOption(160, Node020, 4);
+   NOption(161, Node021, 4);
+   NOption(162, Node999, 4);
+end
+
+procedure Node018 begin
+   Reply(163);
+   NOption(164, Node020, 4);
+   NOption(165, Node021, 4);
+   NOption(166, Node999, 4);
+end
+
+procedure Node999b begin
+   SHOW_BADGER_GFRIEND_QUEST;
+   call Node999;
+end
+
+procedure Node019 begin
+   Reply(167);
+   NOption(168, Node999b, 4);
+   NOption(169, Node999, 4);
+end
+
+procedure Node034a begin
+   if (badger_flag(BADGER_GFRIEND1)) then
+      set_local_var(LVAR_Hacking_Done_Time, game_time + (ONE_GAME_DAY * 3));
+   else
+      set_local_var(LVAR_Hacking_Done_Time, game_time + ONE_GAME_DAY);
+   set_local_var(LVAR_Hacking, SHI_FUEL);
+   call Node034;
+end
+
+procedure Node034b begin
+   if (badger_flag(BADGER_GFRIEND1)) then
+      set_local_var(LVAR_Hacking_Done_Time, game_time + (ONE_GAME_DAY * 3));
+   else
+      set_local_var(LVAR_Hacking_Done_Time, game_time + ONE_GAME_DAY);
+   set_local_var(LVAR_Hacking, SHI_PLANS);
+   call Node034;
+end
+
+procedure Node034c begin
+   if (badger_flag(BADGER_GFRIEND1)) then
+      set_local_var(LVAR_Hacking_Done_Time, game_time + (ONE_GAME_DAY * 3));
+   else
+      set_local_var(LVAR_Hacking_Done_Time, game_time + ONE_GAME_DAY);
+   set_local_var(LVAR_Hacking, SHI_BOTH);
+   call Node034;
+end
+
+procedure Node034d begin
+   if (badger_flag(BADGER_GFRIEND1)) then
+      set_local_var(LVAR_Hacking_Done_Time, game_time + (ONE_GAME_DAY * 3));
+   else
+      set_local_var(LVAR_Hacking_Done_Time, game_time + ONE_GAME_DAY);
+   set_local_var(LVAR_Hacking, ELE_FUEL);
+   call Node034;
+end
+
+procedure Node034e begin
+   if (badger_flag(BADGER_GFRIEND1)) then
+      set_local_var(LVAR_Hacking_Done_Time, game_time + (ONE_GAME_DAY * 3));
+   else
+      set_local_var(LVAR_Hacking_Done_Time, game_time + ONE_GAME_DAY);
+   set_local_var(LVAR_Hacking, ELE_PLANS);
+   call Node034;
+end
+
+procedure Node034f begin
+   if (badger_flag(BADGER_GFRIEND1)) then
+      set_local_var(LVAR_Hacking_Done_Time, game_time + (ONE_GAME_DAY * 3));
+   else
+      set_local_var(LVAR_Hacking_Done_Time, game_time + ONE_GAME_DAY);
+   set_local_var(LVAR_Hacking, ELE_BOTH);
+   call Node034;
+end
+
+procedure Node020 begin
+   if (san_fran_flag(SF_ELRON_DRIVE_FORMAT)) then begin
+      Reply(196);
+      NOption(154, Node001, 4);
+      NOption(158, Node999, 4);
+   end else begin
+      Reply(170);
+      if (san_fran_flag(SF_GAS_ELRONS) and not tanker_flag(TANK_FUEL)) then
+         NOption(209, Node034d, 4);
+      if (elron_whirly(EL_WH_GIVEN) and (shi_whirly(SH_WH_STEALELE) or san_fran_flag(SF_BROTHER_PLANS))) then
+         NOption(210, Node034e, 4);
+      if ((san_fran_flag(SF_GAS_ELRONS) and not tanker_flag(TANK_FUEL)) and (elron_whirly(EL_WH_GIVEN) and (shi_whirly(SH_WH_STEALELE) or san_fran_flag(SF_BROTHER_PLANS))  )) then
+         NOption(211, Node034f, 4);
+      NOption(217, Node999, 4);
+   end
+end
+
+procedure Node021 begin
+   if (san_fran_flag(SF_EMPEROR_FORMATTED)) then begin
+      Reply(196);
+      NOption(154, Node001, 4);
+      NOption(158, Node999, 4);
+   end else begin
+      Reply(173);
+      NOption(212, Node033, 4);
+      NOption(213, Node999, 4);
+   end
+end
+
+procedure Node022 begin
+   Reply(176);
+   NOption(177, Node999, 4);
+end
+
+procedure Node023 begin
+   set_local_var(LVAR_Morn, game_time + (ONE_GAME_HOUR * 3));
+   if (global_var(GVAR_SAN_FRAN_BADGER_GFRIEND_QST) != 2) then begin
+      COMPLETE_BADGER_GFRIEND_QUEST_DEAD;
+   end
+   Reply(178);
+   NOption(179, Node999, 4);
+   NOption(180, Node010a, 4);
+end
+
+procedure Node024 begin
+   Reply(181);
+   NOption(182, Node001, 4);
+   NOption(183, Node999, 4);
+end
+
+procedure Node999a begin
+   UpReactModerate;
+   call Node999;
+end
+
+procedure Node025 begin
+   if (global_var(GVAR_SAN_FRAN_BADGER_GFRIEND_QST) != 2) then begin
+      COMPLETE_BADGER_GFRIEND_QUEST_ALIVE;
+   end
+
+   Reply(184);
+   NOption(185, Node001, 4);
+   NOption(186, Node999a, 4);
+end
+
+procedure Node026 begin
+   set_badger_flag(BADGER_DONESHI);
+   Reply(187);
+   NOption(219, Node035, 4);
+end
+
+procedure Node027 begin
+   set_badger_flag(BADGER_DONEELE);
+   Reply(190);
+   NOption(219, Node035, 4);
+end
+
+procedure Node028 begin
+   set_san_fran_flag(SF_SHI_ENEMY);
+   set_san_fran_flag(SF_ELRON_ENEMY);	//added by killap
+   set_san_fran_flag(SF_LOPAN_ENEMY);
+   set_san_fran_flag(SF_PUNKS_ENEMY);
+   Reply(193);
+   BOption(194, Node998, 4); //edit by killap - was NOption
+end
+
+procedure Node029 begin
+   Reply(195);
+   NOption(179, Node999, 4);
+   NOption(180, Node010a, 4);
+end
+
+procedure Node030 begin
+   float_msg(self_obj, mstr(197), FLOAT_MSG_NORMAL);
+end
+
+procedure Node031 begin
+   float_msg(self_obj, mstr(198), FLOAT_MSG_NORMAL);
+end
+
+procedure Node032 begin
+   set_san_fran_flag(SF_FUEL_COMP_KNOWN);
+   if (san_fran_flag(SF_GAS_ELRONS)) then
+      Reply(200);
+   else
+      Reply(201);
+   NOption(202, Node014, 4);
+   NOption(192, Node999, 4);
+end
+
+procedure Node033 begin
+   Reply(214);
+   if (not san_fran_flag(SF_GAS_ELRONS) and not tanker_flag(TANK_FUEL)) then
+      NOption(215, Node034a, 4);
+   if (shi_whirly(SH_WH_GIVEN) and (elron_whirly(EL_WH_STEALSHI) or san_fran_flag(SF_BROTHER_PLANS))) then
+      NOption(210, Node034b, 4);
+   if (not san_fran_flag(SF_GAS_ELRONS) and not tanker_flag(TANK_FUEL)) and (shi_whirly(SH_WH_GIVEN) and (elron_whirly(EL_WH_STEALSHI or san_fran_flag(SF_BROTHER_PLANS)) )) then
+      NOption(211, Node034c, 4);
+   if (not san_fran_flag(SF_GAS_ELRONS) and not tanker_flag(TANK_FUEL)) or (shi_whirly(SH_WH_GIVEN) and elron_whirly(EL_WH_STEALSHI)) then
+      NOption(216, Node999, 4);
+   NOption(217, Node999, 4);
+end
+
+procedure Node034 begin
+   Reply(218);
+   NOption(130, Node999, 4);
+end
+
+procedure Node035 begin
+   if (local_var(LVAR_Hacking) == SHI_FUEL) then begin
+      if (not tanker_flag(TANK_FUEL)) then //added by killap
+         COMPLETE_TANKER_FUEL;
+      set_local_var(LVAR_Hacking, SHI_HACKED);
+      Reply(220);
+   end else if (local_var(LVAR_Hacking) == SHI_PLANS) then begin
+      set_local_var(LVAR_Hacking, SHI_HACKED);
+      add_obj_to_inven(dude_obj, create_object(PID_VERTIBIRD_PLANS, 0,0));
+      Reply(221);
+   end else if (local_var(LVAR_Hacking) == SHI_BOTH) then begin
+      if (not tanker_flag(TANK_FUEL)) then   //added by killap
+         COMPLETE_TANKER_FUEL;
+      set_local_var(LVAR_Hacking, SHI_HACKED);
+      add_obj_to_inven(dude_obj, create_object(PID_VERTIBIRD_PLANS, 0,0));
+      Reply(222);
+   end else if (local_var(LVAR_Hacking) == ELE_FUEL) then begin
+      set_local_var(LVAR_Hacking, ELE_HACKED);
+      if (not tanker_flag(TANK_FUEL)) then   //added by killap
+         COMPLETE_TANKER_FUEL;
+      //COMPLETE_ELRON_GAS_QUEST;
+      unset_san_fran_flag(SF_GAS_ELRONS); //added by killap
+      Reply(220);
+   end else if (local_var(LVAR_Hacking) == ELE_PLANS) then begin
+      set_local_var(LVAR_Hacking, ELE_HACKED);
+      add_obj_to_inven(dude_obj, create_object(PID_VERTIBIRD_PLANS, 0,0));
+      Reply(221);
+   end else if (local_var(LVAR_Hacking) == ELE_BOTH) then begin
+      set_local_var(LVAR_Hacking, ELE_HACKED);
+      add_obj_to_inven(dude_obj, create_object(PID_VERTIBIRD_PLANS, 0,0));
+      if (not tanker_flag(TANK_FUEL)) then   //added by killap
+         COMPLETE_TANKER_FUEL;
+      //COMPLETE_ELRON_GAS_QUEST;
+      unset_san_fran_flag(SF_GAS_ELRONS); //added by killap
+      Reply(222);
+   end
+   NOption(223, Node999, 4);
+end
+
+variable counter;
+procedure DoDeathWalk begin
+   if (self_tile != TILE_LEAVE) then begin
+      if (not anim_busy(self_obj)) then begin
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+         animate_move_to_tile(TILE_LEAVE);
+         reg_anim_end();
+      end
+      if (counter > 20) then begin
+         reg_anim_clear(self_obj);
+         move_to(dude_obj, tile_num_in_direction(TILE_LEAVE, 0, 1), dude_elevation);
+         move_to(self_obj, TILE_LEAVE, self_elevation);
+      end else begin
+         counter += 1;
+         add_timer_event(self_obj, 10, TIMER_DO_DEATH_WALK);
+      end
+   end
+end
+
+procedure StartDeath begin
+   fadeout(1);
+   game_ui_disable;
+   game_time_advance(5*ONE_GAME_MINUTE); //added by killap
+   set_obj_visibility(dude_obj, OBJ_INVIS);
+   move_to(dude_obj, tile_num_in_direction(self_tile, 0, 1), 0);
+   fadein(1);
+   float_msg(self_obj, mstr(206), FLOAT_MSG_NORMAL);
+   add_timer_event(self_obj, game_ticks(1), TIMER_DO_DEATH_WALK);
+   set_local_var(LVAR_Doing_Death, 1);
+end
+
+procedure continueDeath begin
+   variable gun1;
+   variable gun2;
+   variable sound;
+   variable sound1;
+   variable sound2;
+
+   cDeathCount += 1;
+
+   if (cDeathCount == 1) then begin
+      float_msg(g1, mstr(204), FLOAT_MSG_NORMAL);
+      add_timer_event(self_obj, game_ticks(3), TIMER_CONTINUE_DEATH);
+   end else if (cDeathCount == 2) then begin
+      float_msg(g2, mstr(205), FLOAT_MSG_RED);
+      reg_anim_clear(g1);
+      gun1 := create_object(PID_HK_G11E, 0, 0);
+      add_obj_to_inven(g1, gun1);
+      wield_obj_critter(g1, gun1);
+
+      reg_anim_clear(g2);
+      gun2 := create_object(PID_HK_G11E, 0, 0);
+      add_obj_to_inven(g2, gun2);
+      wield_obj_critter(g2, gun2);
+      add_timer_event(self_obj, game_ticks(3), TIMER_CONTINUE_DEATH);
+   end else if (cDeathCount == 3) then begin
+      float_msg(self_obj, mstr(208), FLOAT_MSG_GREEN);
+      add_timer_event(self_obj, game_ticks(3), TIMER_CONTINUE_DEATH);
+   end else if (cDeathCount == 4) then begin
+      sound := sfx_build_weapon_name(snd_weapon_attack, obj_carrying_pid_obj(g1, PID_HK_G11E), hit_left_weapon_primary, self_obj);
+      reg_anim_clear(g1);
+      reg_anim_begin();
+      reg_anim_animate(g1, ANIM_fire_burst, -1);
+  //    reg_anim_play_sfx(g1, sound, 4);
+      reg_anim_end();
+
+      reg_anim_clear(g2);
+      reg_anim_begin();
+      reg_anim_animate(g2, ANIM_fire_burst, -1);
+      reg_anim_play_sfx(g2, sound, 0);
+      reg_anim_play_sfx(g2, sound, -1);
+      reg_anim_play_sfx(g2, sound, -1);
+      reg_anim_play_sfx(g2, sound, -1);
+      reg_anim_end();
+
+      add_timer_event(self_obj, game_ticks(1), TIMER_CONTINUE_DEATH);
+   end else if (cDeathCount == 5) then begin
+      sound1 := sfx_build_weapon_name(snd_weapon_hitting, obj_carrying_pid_obj(g1, PID_HK_G11E), hit_left_weapon_primary, self_obj);
+      sound2 := sfx_build_char_name(self_obj, ANIM_chunks_of_flesh, snd_die);
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+      reg_anim_animate(self_obj, ANIM_chunks_of_flesh, -1);
+      //reg_anim_play_sfx(self_obj, sound1, 0);
+      reg_anim_play_sfx(self_obj, sound2, 0);
+      reg_anim_end();
+      add_timer_event(self_obj, game_ticks(1), TIMER_CONTINUE_DEATH);
+   end else begin
+      if (not anim_busy(self_obj)) then begin
+         fadeout(1);
+         destroy_object(g1);
+         destroy_object(g2);
+         game_ui_enable;
+         set_obj_visibility(dude_obj, OBJ_VIS);
+         fadein(1);
+         float_msg(dude_obj, mstr(207), FLOAT_MSG_NORMAL);
+         set_badger_flag(BADGER_DEADSHI);
+         critter_heal(self_obj, -500);
+      end else begin
+         add_timer_event(self_obj, 2, TIMER_CONTINUE_DEATH);
+      end
+   end
+end
+//xxxxxxxxxxxxxxxxxxxx

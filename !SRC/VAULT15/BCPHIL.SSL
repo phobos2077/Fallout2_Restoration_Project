@@ -1,0 +1,399 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Phil
+        Location: Vault 15
+        Description: Vault 15 Scecret Entrance Guard
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#define NPC_REACTION_TYPE       REACTION_TG
+#include "..\headers\define.h"
+#include "..\headers\v15sent.h"
+
+#define NAME                    SCRIPT_BCPHIL
+#define TOWN_REP_VAR            GVAR_TOWN_REP_VAULT_15
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#include "..\headers\v15.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+
+procedure canSeeDude;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+import variable i_girl_obj;
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable checkVar := 0;
+variable starttile := 0;
+variable look_Dude := 0;
+
+procedure start begin
+end
+
+#define TIMER_CHECK_DOOR 1
+#define TIMER_WALK_BACK  2
+
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_CHECK_DOOR) then begin
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+      animate_move_to_tile(PHIL_CHECK_TILE);
+      reg_anim_end();
+      add_timer_event(self_obj, game_ticks(5), TIMER_WALK_BACK);
+   end else if (fixed_param == TIMER_WALK_BACK) then begin
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+      animate_move_to_tile(starttile);
+      reg_anim_end();
+   end
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_KHAN);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_V15_TOUGH_KHAN);
+   starttile := self_tile;
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       self_attack_dude;
+   end
+
+
+   if (not combat_is_initialized and (not andV15Status(V15_PHIL_LET_GO))) then begin
+      if (andV15Status(V15_FOUND) and not andV15Status(V15_TRUST)) then begin
+         if (i_girl_obj != -1) then begin
+            if (obj_can_see_obj(self_obj, i_girl_obj)) then begin
+               set_local_var(LVAR_Hostile, 2);
+               set_v15_status(V15_PHIL_HOSTILE);
+            end
+         end else begin
+            set_local_var(LVAR_Hostile, 2);
+            set_v15_status(V15_PHIL_HOSTILE);
+         end
+      end
+
+      if (map_var(MVAR_Khans_Check) and LVAR_Hostile != 2) then begin
+         set_map_var(MVAR_Khans_Check, 0);
+         checkVar += 1;
+         if (checkVar >= GUARDS_PER_CHECK) then begin
+            if (stat_success(self_obj, STAT_pe, -(dude_is_sneaking * has_skill(dude_obj, SKILL_SNEAK)) + 50)) then begin
+               set_local_var(LVAR_Hostile, 2);
+               add_timer_event(self_obj, 0, TIMER_CHECK_DOOR);
+            end
+         end
+      end
+   end
+
+   if (canSeeDude and local_var(LVAR_Herebefore) == 0 and not andV15Status(V15_GIRL_DEAD)) then begin
+      if (obj_on_screen(self_obj)) then begin
+         dialogue_system_enter;
+      end
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+   end
+   set_local_var(LVAR_Hostile, 2);
+   set_v15_status(V15_PHIL_HOSTILE);
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=1;
+   Slavery_Tolerant:=SLAVE_PROUD;
+   Karma_Perception:=KARMA_PERCEPTION0;
+
+   CheckKarma;
+
+   GetReaction;
+
+   if (andV15Status(V15_GIRL_DEAD)) then begin
+      call Node012;
+   end if (local_var(LVAR_Herebefore) == 0) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node001;
+       gSay_End;
+       end_dialogue;
+   end else begin
+      call Node011;
+   end
+   set_local_var(LVAR_Herebefore, 1);
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+procedure Node997 begin
+   Reply("UNDEFINED JUMP");
+   ENDOPTION;
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   Reply(103);
+   NLowOption(104, Node002);
+   NLowOption(105, Node010);
+   NLowOption(106, Node009);
+   BLowOption(107, Node998); //edit by killap - was NLowOption
+
+   if (andV15Status(V15_SPY)) then
+      NOption(109, Node002, 4);
+   if (andV15Status(V15_LOOK_GIRL)) then
+      NOption(110, Node010, 4);
+   NOption(111, Node009, 4);
+   BOption(112, Node998, 4); //edit by killap - was NOption
+end
+
+procedure Node002 begin
+   Reply(114);
+   NLowOption(115, Node003);
+   BLowOption(116, Node998); //edit by killap - was NLowOption
+   NLowOption(117, Node009);
+   NOption(118, Node003, 4);
+   BOption(119, Node998, 4); //edit by killap - was NOption
+   NOption(120, Node009, 4);
+end
+
+procedure Node003 begin
+   Reply(121);
+   BLowOption(122, Node998); //edit by killap - was NLowOption
+   NLowOption(123, Node004);
+   NLowOption(124, Node009);
+   BOption(125, Node998, 4); //edit by killap - was NOption
+   BOption(126, Node009, 4);
+   GOption(127, Node005, 4);
+end
+
+procedure Node004 begin
+   Reply(128);
+   ENDHOSTILE;
+end
+
+procedure Node005 begin
+   Reply(131);
+   NOption(132, Node006, 4);
+   BOption(133, Node007, 4);
+   GOption(134, Node008, 4);
+end
+
+procedure Node006 begin
+   Reply(135);
+   ENDHOSTILE;
+end
+
+procedure Node007 begin
+   Reply(138);
+   ENDHOSTILE;
+end
+
+procedure giveKey begin
+   variable obj;
+
+   obj := objhas(self_obj, PHIL_KEY_PID);
+
+   if (obj) then begin
+      rm_obj_from_inven(self_obj, obj);
+      add_obj_to_inven(dude_obj, obj);
+   end
+end
+
+procedure Node008 begin
+   if (skill_success(dude_obj, SKILL_CONVERSANT, 0)) then begin
+      call giveKey;
+      orV15Status(V15_PHIL_LET_GO);
+      Reply(141);
+      NOption(143, Node999, 4);
+   end else begin
+      Reply(142);
+      ENDHOSTILE;
+   end
+end
+
+procedure Node009 begin
+   Reply(144);
+   ENDHOSTILE;
+end
+
+procedure Node010 begin
+   Reply(147);
+   BLowOption(148, Node998); //edit by killap - was NLowOption
+   NLowOption(149, Node004);
+   NLowOption(150, Node009);
+   BOption(151, Node998, 4); //edit by killap - was NOption
+   BOption(152, Node009, 4);
+   GOption(153, Node005, 4);
+end
+
+procedure Node011 begin
+   float_msg(self_obj, mstr(154), FLOAT_MSG_RED);
+   call Node998;
+end
+
+procedure Node012 begin
+   float_msg(self_obj, mstr(155), FLOAT_MSG_RED);
+   call Node998;
+end
+
+procedure canSeeDude begin
+   if (game_time > look_Dude) then begin
+      if (obj_can_see_obj(self_obj, dude_obj)) then begin
+         return 1;
+      end
+      look_Dude := game_time + ONE_GAME_SECOND;
+   end
+   return 0;
+end
+//xxxxxxxxxxxxxxxxxxxx

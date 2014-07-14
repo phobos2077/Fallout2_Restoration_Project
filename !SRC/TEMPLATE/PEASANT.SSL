@@ -1,0 +1,461 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+//#include "..\headers\<TownName.h>"
+
+#define NAME                    SCRIPT_
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_)
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+// Lifestyles
+#define LIFESTYLE_ALCOHOLIC     (0)
+#define LIFESTYLE_SHOPPER       (1)
+#define LIFESTYLE_GLUTTON       (2)
+#define LIFESTYLE_HOME_BODY     (3)
+#define LIFESTYLE_WANDERER      (4)
+#define LIFESTYLE_GAMBLER       (5)
+#define LIFESTYLE_BAR_TRASH     (6)
+#define LIFESTYLE_BEGGAR        (7)
+#define LIFESTYLE_DRUNKARD      (8)
+
+// Personalities
+#define PERSONALITY_HAPPY       (0)
+#define PERSONALITY_SAD         (1)
+#define PERSONALITY_ANGRY       (2)
+#define PERSONALITY_AIRHEAD     (3)
+#define PERSONALITY_TIMID       (4)
+#define PERSONALITY_LOSER       (5)
+#define PERSONALITY_WIMPY       (6)
+
+// Schedules
+#define TIME_EARLY_MORNING      (0)     // 6:00  - 15:00
+#define TIME_MORNING            (1)     // 9:00  - 18:00
+#define TIME_EARLY_AFTERNOON    (2)     // 12:00 - 21:00
+#define TIME_AFTERNOON          (3)     // 15:00 - 0:00
+#define TIME_EVENING            (4)     // 18:00 - 3:00
+#define TIME_NIGHT              (5)     // 21:00 - 6:00
+#define TIME_LATE_NIGHT         (6)     // 0:00  - 9:00
+#define TIME_CUSTOM             (7)     // Set Start Time and End Time
+
+#define EARLY_MORNING_START     (630)
+#define EARLY_MORNING_END       (1530)
+#define MORNING_START           (930)
+#define MORNING_END             (1830)
+#define EARLY_AFTERNOON_START   (1230)
+#define EARLY_AFTERNOON_END     (2130)
+#define AFTERNOON_START         (1530)
+#define AFTERNOON_END           (30)
+#define EVENING_START           (1830)
+#define EVENING_END             (330)
+#define NIGHT_START             (2130)
+#define NIGHT_END               (630)
+#define LATE_NIGHT_START        (30)
+#define LATE_NIGHT_END          (930)
+#define CUSTOM_START            (30)    // Please have the last 2 numbers be 30 for randomness
+#define CUSTOM_END              (2330)  // Please have the last 2 numbers be 30 for randomness
+
+// Destinations
+#define TILE_LEAVE_HOME         (20100)         // This is where the NPC will walk to when it is his time to leave the map
+                                                // This could be on the map itself (if the NPC is to walk home)
+#define TILE_ENTER_HOME         (20111)         // This is where the NPC will enter the map (or will be in his home)
+#define TILE_BAR                (20200)         // This is where the center of the bar is
+#define TILE_DINER              (20211)         // This is where the food is
+#define TILE_SHOP1              (10099)         // This is wher the first shop is
+#define TILE_SHOP2              (10100)         // This is where the second shop it
+#define TILE_STREET             (9852)          // This is just some spot on the street
+
+#define TOTAL_DESTINATIONS      (6)
+
+#define RADIUS_HOME             (4)
+#define RADIUS_BAR              (4)
+#define RADIUS_DINER            (4)
+#define RADIUS_SHOP1            (4)
+#define RADIUS_SHOP2            (4)
+
+#define AT_HOME                 (0)
+#define AT_BAR                  (1)
+#define AT_DINER                (2)
+#define AT_SHOP1                (3)
+#define AT_SHOP2                (4)
+#define AT_STREET               (5)
+#define IN_TRANSIT              (6)
+
+// Teams
+#define HOME_TEAM               TEAM_
+#define BAR_TEAM                TEAM_
+#define DINER_TEAM              TEAM_
+#define SHOP1_TEAM              TEAM_
+#define SHOP2_TEAM              TEAM_
+
+// Chance to Change (in Percentages)
+#define CHANCE_SCHEDULE         (1)
+#define CHANCE_PERSONALITY      (5)
+#define CHANCE_LIFESTYLE        (1)
+#define CHANCE_ATTENTION_SPAN   (10)
+
+// Attention Span
+#define ATTENTION_SPAN_MIN      (5)             // IN minutes
+#define ATTENTION_SPAN_MAX      (8)             // in minutes
+
+// Starting Settings
+#define START_SCHEDULE          (TIME_)
+#define START_PERSONALITY       (PERSONALITY_)
+#define START_LIFESTYLE         (LIFESTYLE_)
+#define START_ATTENTION_SPAN    (random(ATTENTION_SPAN_MIN,ATTENTION_SPAN_MAX))
+#define START_WHERE_TO_GO       (TILE_)
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Find_Me;
+procedure Roam_Around;
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+// For Generic Information
+#define LVAR_Schedule                   (7)     // save the Schedule of this person
+#define LVAR_Personality                (8)
+#define LVAR_Lifestyle                  (9)
+#define LVAR_Attention_Span             (10)
+#define LVAR_Where_Am_I                 (11)
+#define LVAR_Where_To_Go                (12)
+#define LVAR_Change_Position            (13)
+#define LVAR_Current_Position           (14)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=1;
+variable Show_Me_Out:=0;
+
+// Need to fill in this information
+
+procedure start begin
+   if (local_var(LVAR_Personality) == 0) then begin
+       set_local_var(LVAR_Schedule,START_SCHEDULE);
+       set_local_var(LVAR_Personality,START_PERSONALITY);
+       set_local_var(LVAR_Lifestyle,START_LIFESTYLE);
+       set_local_var(LVAR_Attention_Span,START_ATTENTION_SPAN);
+       set_local_var(LVAR_Where_To_Go,START_WHERE_TO_GO);
+   end
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+
+   if ((tile_distance(TILE_LEAVE_HOME,tile_num(self_obj)) <= RADIUS_HOME) or
+       (tile_distance(TILE_ENTER_HOME,tile_num(self_obj)) <= RADIUS_HOME)) then begin
+       set_local_var(LVAR_Where_Am_I,AT_HOME);
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,HOME_TEAM);
+   end
+   else if (tile_distance(TILE_BAR,tile_num(dude_obj)) <= RADIUS_BAR) then begin
+       set_local_var(LVAR_Where_Am_I,AT_BAR);
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,BAR_TEAM);
+   end
+   else if (tile_distance(TILE_DINER,tile_num(dude_obj)) <= RADIUS_DINER) then begin
+       set_local_var(LVAR_Where_Am_I,AT_DINER);
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,DINER_TEAM);
+   end
+   else if (tile_distance(TILE_SHOP1,tile_num(dude_obj)) <= RADIUS_SHOP1) then begin
+       set_local_var(LVAR_Where_Am_I,AT_SHOP1);
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,SHOP1_TEAM);
+   end
+   else if (tile_distance(TILE_SHOP2,tile_num(dude_obj)) <= RADIUS_SHOP2) then begin
+       set_local_var(LVAR_Where_Am_I,AT_SHOP2);
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,SHOP2_TEAM);
+   end
+   else begin
+       set_local_var(LVAR_Where_Am_I,AT_STREET);
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,HOME_TEAM);
+   end
+end
+
+procedure timed_event_p_proc begin
+   variable Attention_Chance;
+
+   set_local_var(LVAR_Change_Position,0);
+
+   Attention_Chance:=random(1,100);
+   if (Attention_Chance <= CHANCE_ATTENTION_SPAN) then begin
+       if (random(0,4) == 1) then begin
+           set_local_var(LVAR_Attention_Span,local_var(LVAR_Attention_Span) - random(1,5));
+       end
+       else begin
+           set_local_var(LVAR_Attention_Span,local_var(LVAR_Attention_Span) + random(2,6));
+       end
+   end
+
+   // Home Tile
+   if (fixed_param == 0) then begin
+       set_local_var(LVAR_Where_To_Go,AT_HOME);
+   end
+
+   // Bar Tile
+   else if (fixed_param == 1) then begin
+       set_local_var(LVAR_Where_To_Go,AT_BAR);
+       if (local_var(LVAR_Lifestyle) != LIFESTYLE_HOME_BODY) then begin
+           set_obj_visibility(self_obj,0);              // Go visible
+       end
+   end
+
+   // Diner Tile
+   else if (fixed_param == 2) then begin
+       set_local_var(LVAR_Where_To_Go,AT_DINER);
+       if (local_var(LVAR_Lifestyle) != LIFESTYLE_HOME_BODY) then begin
+           set_obj_visibility(self_obj,0);              // Go visible
+       end
+   end
+
+   // Shop 1 Tile
+   else if (fixed_param == 3) then begin
+       set_local_var(LVAR_Where_To_Go,AT_SHOP1);
+       if (local_var(LVAR_Lifestyle) != LIFESTYLE_HOME_BODY) then begin
+           set_obj_visibility(self_obj,0);              // Go visible
+       end
+   end
+
+   // Shop 2 Tile
+   else if (fixed_param == 4) then begin
+       set_local_var(LVAR_Where_To_Go,AT_SHOP2);
+       if (local_var(LVAR_Lifestyle) != LIFESTYLE_HOME_BODY) then begin
+           set_obj_visibility(self_obj,0);              // Go visible
+       end
+   end
+
+   // Street_Tile
+   else if (fixed_param == 5) then begin
+       set_local_var(LVAR_Where_To_Go,AT_STREET);
+       if (local_var(LVAR_Lifestyle) != LIFESTYLE_HOME_BODY) then begin
+           set_obj_visibility(self_obj,0);              // Go visible
+       end
+   end
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+   variable Next_Jump;
+   variable Time;
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+   // Go to the place where you need to be at now
+   if (local_var(LVAR_Where_To_Go) != local_var(LVAR_Where_Am_I)) then begin
+       call Find_Me;
+   end
+
+   // Roam around in the place you are supposed to be at
+   else begin
+       call Roam_Around;
+   end
+
+   if (local_var(LVAR_Change_Position) == 0) then begin
+       set_local_var(LVAR_Current_Position,local_var(LVAR_Current_Position)+1);
+       Time:=local_var(LVAR_Attention_Span)*ONE_GAME_MINUTE;
+       Next_Jump:=local_var(LVAR_Current_Position)%TOTAL_DESTINATIONS;
+       debug_msg("Time Delay is "+Time+". Next Place to go is "+Next_Jump+".");
+       add_timer_event(self_obj,Time,Next_Jump);
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+procedure Find_Me begin
+   if (local_var(LVAR_Where_To_Go) == AT_HOME) then begin
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,HOME_TEAM);
+       if (Show_Me_Out == 0) then begin
+           Show_Me_Out:=random(1,10);
+       end
+
+       if (Show_Me_Out == 1) then begin
+           animate_move_to_tile(TILE_ENTER_HOME);
+       end
+       else begin
+           animate_move_to_tile(TILE_LEAVE_HOME);
+       end
+   end
+   else if (local_var(LVAR_Where_To_Go) == AT_BAR) then begin
+       animate_move_to_tile(TILE_BAR);
+   end
+   else if (local_var(LVAR_Where_To_Go) == AT_DINER) then begin
+       animate_move_to_tile(TILE_DINER);
+   end
+   else if (local_var(LVAR_Where_To_Go) == AT_SHOP1) then begin
+       animate_move_to_tile(TILE_SHOP1);
+   end
+   else if (local_var(LVAR_Where_To_Go) == AT_SHOP2) then begin
+       animate_move_to_tile(TILE_SHOP2);
+   end
+   else if (local_var(LVAR_Where_To_Go) == AT_STREET) then begin
+       animate_move_to_tile(TILE_STREET);
+   end
+end
+
+procedure Roam_Around begin
+   if (local_var(LVAR_Where_Am_I) == AT_HOME) then begin
+       Show_Me_Out:=0;
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,HOME_TEAM);
+       if (local_var(LVAR_Lifestyle) != LIFESTYLE_HOME_BODY) then begin
+           set_obj_visibility(self_obj,1);              // Go invisible
+       end
+   end
+   else if (local_var(LVAR_Where_Am_I) == AT_BAR) then begin
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,BAR_TEAM);
+       if (tile_distance(TILE_BAR,tile_num(self_obj)) > RADIUS_BAR) then
+           animate_move_to_tile(TILE_BAR);
+       else
+           animate_move_to_tile(tile_num_in_direction(TILE_BAR,random(0,5),random(0,RADIUS_BAR)));
+   end
+   else if (local_var(LVAR_Where_Am_I) == AT_DINER) then begin
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,DINER_TEAM);
+       if (tile_distance(TILE_DINER,tile_num(self_obj)) > RADIUS_DINER) then
+           animate_move_to_tile(TILE_DINER);
+       else
+           animate_move_to_tile(tile_num_in_direction(TILE_DINER,random(0,5),random(0,RADIUS_BAR)));
+   end
+   else if (local_var(LVAR_Where_Am_I) == AT_SHOP1) then begin
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,SHOP1_TEAM);
+       if (tile_distance(TILE_SHOP1,tile_num(self_obj)) > RADIUS_SHOP1) then
+           animate_move_to_tile(TILE_SHOP1);
+       else
+           animate_move_to_tile(tile_num_in_direction(TILE_SHOP1,random(0,5),random(0,RADIUS_BAR)));
+   end
+   else if (local_var(LVAR_Where_Am_I) == AT_SHOP2) then begin
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,SHOP2_TEAM);
+       if (tile_distance(TILE_SHOP2,tile_num(self_obj)) > RADIUS_SHOP2) then
+           animate_move_to_tile(TILE_SHOP2);
+       else
+           animate_move_to_tile(tile_num_in_direction(TILE_SHOP2,random(0,5),random(0,RADIUS_BAR)));
+   end
+   else if (local_var(LVAR_Where_Am_I) == AT_STREET) then begin
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,STREET_TEAM);
+       if (tile_distance(TILE_STREET,tile_num(self_obj)) > RADIUS_STREET) then
+           animate_move_to_tile(TILE_STREET);
+       else
+           animate_move_to_tile(tile_num_in_direction(TILE_STREET,random(0,5),random(0,RADIUS_BAR)));
+   end
+end

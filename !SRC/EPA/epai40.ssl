@@ -1,0 +1,51 @@
+/*        Script from item templete*          /
+
+/*
+        Name: Greenhouse Empergency Stairs
+        Location: EPA (epax)
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_EPAI40
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure description_p_proc;
+procedure look_at_p_proc;
+procedure use_p_proc;
+procedure destroy_p_proc;
+
+procedure start begin
+end
+
+procedure destroy_p_proc begin
+
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+ 
+ 
+procedure use_p_proc begin
+   script_overrides;
+   display_msg(mstr(200));
+end

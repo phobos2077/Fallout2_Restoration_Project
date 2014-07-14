@@ -1,0 +1,63 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Car Spacial Hex for when the car's Stolen 1
+        Location: New Reno 1
+        Description:
+
+        Log:
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NTCAR1
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+#define LVAR_Flags               (0)
+
+#define said_message_bit         bit_10
+
+#define said_message             lvar_bit(LVAR_Flags, said_message_bit)
+#define set_said_message         set_lvar_bit_on(LVAR_Flags, said_message_bit)
+#define off_said_message         set_lvar_bit_off(LVAR_Flags, said_message_bit)
+
+/* Standard Script Procedures */
+procedure start;
+procedure spatial_p_proc;
+procedure map_update_p_proc;
+
+procedure start begin
+end
+procedure spatial_p_proc begin
+   if (source_obj == dude_obj) then begin
+      if (get_stolen_car(stolen_car_stolen)) then begin
+         if (said_message == false) then begin
+            if (car_is_now_being_stolen) then begin
+               off_car_is_now_being_stolen;
+               set_stolen_car(stolen_car_stolen);
+            end
+            set_said_message;
+            dude_floater((100 + herebefore) + (10*dude_is_stupid)); //edit by killap - (10*dude_is_stupid)
+            set_herebefore;
+         end else begin
+            debug_msg("said_message");
+         end
+      end else begin
+         debug_msg("get_stolen_car(stolen_car_stolen) == false");
+      end
+   end else begin
+      debug_msg("source_obj != dude_obj");
+   end
+end
+procedure map_update_p_proc begin
+   if (tile_distance(self_tile, dude_tile) > 10) then begin
+      off_said_message;
+   end
+end

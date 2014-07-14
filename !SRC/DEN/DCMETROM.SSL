@@ -1,0 +1,176 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_DCMETROM
+#define TOWN_REPUTATION         GVAR_TOWN_REP_THE_DEN
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+#include "..\headers\Den.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (4)
+#define LVAR_Type                         (5)
+#define LVAR_Home_Tile                    (6)
+#define LVAR_Home_Rotation                (7)
+
+#define door_warned_bit                   bit_10
+
+#define door_warned                       lvar_bit(LVAR_Flags, door_warned_bit)
+#define set_door_warned                   set_lvar_bit_on(LVAR_Flags, door_warned_bit)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+import variable metzger_room_door_guard_obj;
+
+procedure start begin
+   metzger_room_door_guard_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == timed_event_float) then begin
+   end else if (fixed_param == timed_event_door_tamper) then begin
+      if (door_warned) then begin
+         call Node998;
+      end else begin
+         set_door_warned;
+         call Node001;
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   metzger_room_door_guard_obj := self_obj;
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_local_var(LVAR_Type, random(0,1));
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_SLAVER);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SLAVER);
+         set_local_var(LVAR_Home_Tile, self_tile);
+         set_local_var(LVAR_Home_Rotation, self_cur_rot);
+      end
+      if (self_tile != local_var(LVAR_Home_Tile)) then begin
+         critter_attempt_placement(self_obj, local_var(LVAR_Home_Tile), self_elevation);
+      end
+      if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
+         animate_rotation(local_var(LVAR_Home_Rotation));
+      end
+   end
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if ((hostile) or (hostile_slavers)) then begin
+         self_attack_dude;
+      end
+   end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
+      animate_move_to_tile(local_var(LVAR_Home_Tile));
+   end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
+      animate_rotation(local_var(LVAR_Home_Rotation));
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      set_hostile_slavers;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   if ((hostile) or (hostile_slavers)) then begin
+      call Node998;
+   end else begin
+      call Node002;
+      set_herebefore;
+   end
+end
+
+procedure destroy_p_proc begin
+   inc_evil_critter
+   metzger_room_door_guard_obj := 0;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + local_var(LVAR_Type));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150 + local_var(LVAR_Type));
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+   set_hostile_slavers;
+end
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   floater(random(200, 201 + has_rep_slaver) + (3 * dude_is_female));
+end
+procedure Node002 begin
+   if (has_rep_slaver) then begin
+      floater_rand(258 - dude_is_male, 260 + (4 * dude_is_female));
+   end else begin
+      if (dude_is_male) then begin
+         floater_rand(250, 253);
+      end else begin
+         floater_rand(254, 256);
+      end
+   end
+end

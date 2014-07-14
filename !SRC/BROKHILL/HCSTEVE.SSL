@@ -1,0 +1,639 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Steve
+        Location: Broken Hills
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\broken.h"
+
+#define NAME                    SCRIPT_HCSTEVE
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#define Vault_Known             (1)     // Temp Until get command from Jesse
+#define Visited_City            (1)     // Temp Until get command from Jesse
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure combat;
+
+/* Script Specific Procedure Calls */
+//procedure Node920;
+procedure Node995;
+procedure Node996;
+procedure Node997;
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node010a;
+procedure Node011;
+procedure Node011a;
+procedure Node011b;
+procedure Node012;
+procedure Node012a;
+procedure Node012b;
+procedure Node012c;
+procedure Node012d;
+procedure Node012e;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node015a;
+procedure Node016;
+procedure Node017;
+procedure Node017a;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node021a;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node026a;
+procedure Node027;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_name_known                 (7)
+#define LVAR_07_before                  (8)
+#define LVAR_Down_React_1               (9)
+#define LVAR_Down_React_2               (10)
+#define LVAR_Down_React_3               (11)
+#define LVAR_Down_React_4               (12)
+#define LVAR_Down_React_5               (13)
+#define LVAR_Up_React_1                 (14)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable stuff;
+variable k;
+variable item;
+variable drink;
+variable owe;
+variable big_tip;
+variable fromWTG:=1;
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+       set_global_var(GVAR_ENEMY_BROKEN_HILLS,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   GetReaction;
+   ReactToLevel; //added by killap
+   
+   if (local_var(LVAR_Personal_Enemy) == 1) then begin
+       call Node998;
+   end
+   else if (global_var(GVAR_ENEMY_BROKEN_HILLS) == 1) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+             call Node027;
+       gSay_End;
+       end_dialogue;
+   end
+   else If_Party_Is_Armed then begin
+      call Node008;
+   end
+   else if (critter_is_armed(dude_obj)) then begin
+      call Node008;
+   end
+   else if (Marcus_In_Party) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+             call Node026;
+       gSay_End;
+       end_dialogue;
+   end
+   else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+             if (local_var(LVAR_Herebefore) == 0) then begin
+                set_local_var(LVAR_Herebefore,1);
+                call Node001;
+             end
+             else begin
+                if (dude_iq < 3) then begin
+                   call Node007;
+                end
+                else begin
+                   call Node013;
+                end
+             end
+       gSay_End;
+       end_dialogue;
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+procedure combat begin
+end
+
+/*
+procedure Node910 begin
+//if player money < 5 goto 13 and set nogive
+//else goto 5 subtract 5 coins and set give
+   if (item_caps_total(dude_obj) > 4) then begin
+      item_caps_adjust(dude_obj,-5); //subtract 5 coins
+      set_local_var(LVAR_Give, 1);
+      call Node005;
+   end
+   else begin
+      //set_local_var(LVAR_Nogive,1);
+      call Node013;
+   end
+end
+*/
+
+procedure Node995 begin
+   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+       TopReact;
+   end
+   else begin
+       BottomReact;
+   end
+end
+
+procedure Node996 begin
+   BottomReact;
+end
+
+procedure Node997 begin
+   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+       call Node004;
+   else
+       call Node005;
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   // Set this here since when we leave this node we won't be coming from WTG anymore.
+   fromWTG := 0;
+   Reply(103);
+
+   if( dude_iq == 1 ) then
+      NOption(104, Node002, 001);
+   if ( (dude_iq == 2) or (dude_iq == 3) ) then
+      NOption(105, Node004, 002);
+   NOption(106,Node009,004);
+   NOption(107,Node010,004);
+   NOption(108,Node011,004);
+   NOption(109,Node012,004);
+   NOption(110,Node023,004);
+   NOption(111,Node999,004);
+end
+
+procedure Node002 begin
+   Reply(112);
+   NLowOption(113,Node003);
+end
+
+procedure Node003 begin
+   Reply(114);
+   NLowOption(115,Node999);
+end
+
+procedure Node004 begin
+   Reply(116);
+   NLowOption(117,Node005);
+   NLowOption(118,Node006);
+end
+
+procedure Node005 begin
+   Reply(119);
+   NLowOption(120,Node007);
+   NLowOption(121,Node006);
+end
+
+procedure Node006 begin
+   Reply(122);
+   NLowOption(123,Node999);
+end
+
+procedure Node007 begin
+   // Set this here since when we leave this node we won't be coming from WTG anymore.
+   fromWTG := 0;
+   if (local_var(LVAR_07_before) == 0) then begin
+      set_local_var(LVAR_07_before,1);
+      Reply(124);
+   end
+   else begin
+      Reply(125);
+   end
+   NLowOption(126,Node999);
+end
+
+procedure Node008 begin
+   floater(127);
+end
+
+procedure Node009 begin
+   Reply(128);
+   NOption(129,Node014,004);
+   NOption(130,Node013,004);
+end
+
+procedure Node010 begin
+   Reply(131);
+   BOption(132,Node010a,004); //reaction down small
+   NOption(133,Node015,004);
+   NOption(134,Node999,004);
+end
+
+procedure Node010a begin
+   if( local_var(LVAR_Down_React_1) == 0 ) then begin
+      set_local_var(LVAR_Down_React_1, 1);
+      DownReactMinor;
+   end
+   call Node015;
+end
+
+procedure Node011 begin
+   Reply(135);
+   BOption(136,Node011a,004); //reaction down small
+   GOption(137,Node011b,004); //reaction up small
+   NOption(138,Node016,004);
+   NOption(139,Node017,006);
+   NOption(140,Node999,004);
+end
+
+procedure Node011a begin
+   if( local_var(LVAR_Down_React_2) == 0 ) then begin
+      set_local_var(LVAR_Down_React_2, 1);
+      DownReactMinor;
+   end
+   call Node016;
+end
+
+procedure Node011b begin
+   if( local_var(LVAR_Up_React_1) == 0 ) then begin
+      set_local_var(LVAR_Up_React_1, 1);
+      UpReactMinor;
+   end
+   call Node016;
+end
+
+procedure Node012 begin
+   if (global_var(GVAR_BH_FTM) == FTM_SUCCESSFUL) then begin
+      Reply(141);
+
+      NOption(301, Node012a, 004);
+   end
+   else
+      call Node012a;
+end
+
+procedure Node012a begin
+   if (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL) then begin
+      Reply(142);
+
+      NOption(302, Node012b, 004);
+   end
+   else
+      call Node012b;
+end
+
+procedure Node012b begin
+   if (global_var(GVAR_BH_JAIL) == JAIL_DOUBLECROSS) then begin
+      Reply(143);
+
+      NOption(303, Node012c, 004);
+   end
+   else
+      call Node012c;
+end
+
+procedure Node012c begin
+   if ( (global_var(GVAR_BH_JAIL) == JAIL_FORCE) or (global_var(GVAR_BH_JAIL) == JAIL_STEALTH) or (global_var(GVAR_BH_JAIL) == JAIL_CHARISMA) ) then begin
+      Reply(144);
+
+      NOption(304, Node012d, 004);
+   end
+   else
+      call Node012d;
+end
+
+procedure Node012d begin
+   if ( (global_var(GVAR_BH_CHAD) == CHAD_ARRESTED) or (global_var(GVAR_BH_CHAD) == CHAD_KILLED) ) then begin
+      Reply(145);
+
+      NOption(305, Node012e, 004);
+   end
+   else
+      call Node012e;
+end
+
+procedure Node012e begin
+   Reply(146);
+
+   NOption(147,Node013,004);
+   NOption(148,Node999,004);
+end
+
+procedure Node013 begin
+   if (fromWTG == 1) then begin
+      if (bad_critter_reaction) then begin
+         Reply( mstr(149) + " " + mstr(152) );
+      end
+      else if (neutral_critter_reaction) then begin
+         Reply( mstr(150) + " " + mstr(152) );
+      end
+      else if (good_critter_reaction) then begin
+         Reply( mstr(151) + " " + mstr(152) );
+      end
+   end
+   else begin
+      Reply(152);
+   end
+
+   fromWTG := 0;
+
+   NOption(153,Node012,004);
+   NOption(154,Node011,004);
+   NOption(155,Node009,004);
+   NOption(156,Node010,004);
+   NOption(157,Node023,004);
+   NOption(158,Node999,004);
+end
+
+procedure Node014 begin
+   Reply(159);
+   NOption(160,Node018,004);
+   NOption(161,Node013,004);
+end
+
+procedure Node015 begin
+   Reply(162);
+   BOption(163,Node015a,004); //reaction down small. goto 19
+   NOption(164,Node020,004);
+   NOption(165,Node021,007);
+   NOption(166,Node999,004);
+end
+
+procedure Node015a begin
+   if( local_var(LVAR_Down_React_3) == 0 ) then begin
+      set_local_var(LVAR_Down_React_3, 1);
+      DownReactMinor;
+   end
+   call Node019;
+end
+
+procedure Node016 begin
+   Reply(167);
+   NOption(168,Node025,004);
+   NOption(169,Node999,004);
+end
+
+procedure Node017 begin
+   Reply(170);
+   BOption(171,Node017a,004); //reaction down small
+   NOption(172,Node024,004);
+   NOption(173,Node016,004);
+   NOption(174,Node999,004);
+end
+
+procedure Node017a begin
+   if( local_var(LVAR_Down_React_4) == 0 ) then begin
+      set_local_var(LVAR_Down_React_4, 1);
+      DownReactMinor;
+   end
+   call Node015;
+end
+
+procedure Node018 begin
+   Reply(175);
+   NOption(176,Node013,004);
+   NOption(177,Node999,004);
+end
+
+procedure Node019 begin
+   Reply(178);
+   BOption(179,Node022,004);
+   NOption(180,Node013,004);
+end
+
+procedure Node020 begin
+   Reply(181);
+   NOption(182,Node013,004);
+   NOption(183,Node999,004);
+end
+
+procedure Node021 begin
+   Reply(184);
+   NOption(185,Node013,004);
+   BOption(186,Node021a,004); //reaction down small
+   NOption(187,Node999,004);
+end
+
+procedure Node021a begin
+   if( local_var(LVAR_Down_React_5) == 0 ) then begin
+      set_local_var(LVAR_Down_React_5, 1);
+      DownReactMinor;
+   end
+   call Node022;
+end
+
+procedure Node022 begin
+   Reply(188);
+   NOption(189,Node999,004);
+   BOption(190,Node998,004);
+end
+
+procedure Node023 begin
+   Reply(191);
+   NOption(192,Node013,004);
+   NOption(193,Node999,004);
+end
+
+procedure Node024 begin
+   Reply(194);
+   NOption(195,Node025,004);
+   NOption(196,Node013,004);
+   NOption(197,Node999,004);
+end
+
+procedure Node025 begin
+   Reply(300);
+   NOption(196,Node013,004);
+   NOption(197,Node999,004);
+end
+
+procedure Node026 begin
+   // Set this here since when we leave this node we won't be coming from WTG anymore.
+   fromWTG := 0;
+   Reply(198);
+
+   NOption(200, Node026a, 004);
+end
+
+procedure Node026a begin
+   Reply(199);
+   NOption(200,Node013,004);
+end
+
+procedure Node027 begin
+   // Set this here since when we leave this node we won't be coming from WTG anymore.
+   fromWTG := 0;
+   Reply(201);
+   NOption(202,Node999,004);
+end
+//XXXXXXXXXXXXXXXXXX

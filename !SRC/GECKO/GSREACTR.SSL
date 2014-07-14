@@ -1,0 +1,98 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+//This script is put on the reactor room
+//equipment to make it animate. Uses a semaphore
+//system so that they don't all animate at
+//once.
+
+#include "..\headers\define.h"
+#include "..\headers\gecko.h"
+#include "..\headers\geckpwpl.h"
+
+procedure start;
+procedure timed_event_p_proc;
+procedure use_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure map_enter_p_proc;
+procedure power_me;
+procedure bright_lights;
+
+//this is the semaphore..if it equals my key
+//we can grab it and start the animation.
+
+#define LVAR_Herebefore                 (0)
+#define LVAR_Me                         (1) //this is my key to nuclear power
+#define LVAR_On                         (2)
+
+procedure start begin
+   if (local_var(LVAR_Herebefore) == 0) then begin //never number us again
+      set_local_var(LVAR_Herebefore,1);
+      set_map_var(MVAR_Nuclearpower,map_var(MVAR_Nuclearpower)+1);
+      set_local_var(LVAR_Me,map_var(MVAR_Nuclearpower));
+   end
+end
+
+procedure map_enter_p_proc begin
+   add_timer_event(self_obj,game_ticks(1),0);
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 0) then begin
+      if (map_var(MVAR_Nuclearpower) == local_var(LVAR_Me)) then begin
+         call power_me;
+      end
+      else begin
+         add_timer_event(self_obj,game_ticks(1),0);
+      end
+   end
+   else if (fixed_param == 1) then begin
+      set_map_var(MVAR_Nuclearpower,map_var(MVAR_Nuclearpower)+1); //let the next guy have nuclear power
+      if (map_var(MVAR_Nuclearpower) > 5) then begin
+         set_map_var(MVAR_Nuclearpower,1);
+      end
+      //Complete the Animation
+      call bright_lights;
+      add_timer_event(self_obj,game_ticks(1),0); //wait for the key
+   end
+end
+
+procedure bright_lights begin
+   if (local_var(LVAR_On) == 0) then begin
+      set_local_var(LVAR_On,1);
+      if (obj_pid(self_obj) == 33555436) then           // if you are the big computer
+          play_sfx("jupiter");
+      else if (obj_pid(self_obj) == 33555437) then      // Lights Computer
+          play_sfx("neptune");
+      else if (obj_pid(self_obj) == 33555434) then      // Frankenstein Computer
+          play_sfx("pluto");
+      else if (obj_pid(self_obj) == 33555435) then      // Blue Tip Computer
+          play_sfx("saturn");
+      else if (obj_pid(self_obj) == 33555438) then      // Electrity and Lights Computer
+          play_sfx("uranium");
+      animate_stand;
+   end
+   else begin
+      set_local_var(LVAR_On,0);
+      animate_stand_reverse;
+   end
+end
+
+procedure use_p_proc begin
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure use_obj_on_p_proc begin
+end
+
+procedure pickup_p_proc begin
+end
+
+procedure power_me begin
+   call bright_lights;
+   add_timer_event(self_obj,game_ticks(1),1); //wait enough time to let most of animation run thru
+end

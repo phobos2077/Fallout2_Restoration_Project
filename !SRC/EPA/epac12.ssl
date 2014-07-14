@@ -1,0 +1,1265 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+/*
+        Name:  Kitsune
+        Location: EPA
+        Description: The stealth NPC found at the EPA
+
+        Log:
+
+           Created: June, 2008
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+#include "..\headers\EPAMAIN.h"
+#include "..\headers\NEWR1.h" //added by killap
+#include "..\headers\EPASL.h"
+
+#define NAME                    SCRIPT_EPAC12               //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_EPA           //Global variable name for this Town
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#define PARTY_NODE_X                   Node1000
+
+#define kitsune_party_member_options                                         \
+         if (local_var(LVAR_Told_Real_Past) == 0) then                       \
+            NOption(310,Node029,004);                                        \
+         if (local_var(LVAR_Told_About_Eyes) == 0) then                      \
+            NOption(370,Node054,004);                                        \
+         party_member_default_options
+
+#define kitsune_joins_party               party_add_self;                                                   \
+                                          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER)
+
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_WAITING                    (7)
+#define LVAR_FOLLOW_DISTANCE            (8)
+#define LVAR_TEAM                       (9)
+#define LVAR_Joined                     (10)
+#define LVAR_Wait                       (11)
+#define LVAR_Told_Real_Past             (12)
+#define LVAR_Told_About_Eyes            (13)
+#define LVAR_Kill_NPC                   (14)
+
+procedure critter_p_proc;
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+procedure kill_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node012a;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node025b;
+procedure Node025c;
+procedure Node026;
+procedure Node027;
+
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+procedure Node046;
+procedure Node047;
+procedure Node048;
+procedure Node049;
+procedure Node050;
+procedure Node051;
+procedure Node052;
+procedure Node053;
+procedure Node054;
+procedure Node055;
+procedure Node056;
+procedure Node060;
+
+procedure Node900;
+procedure Node901;
+procedure Node902;
+procedure Node903;
+procedure Node904;
+
+procedure Node1000;
+procedure Node1001;
+procedure Node1002;
+procedure Node1003;
+procedure Node1004;
+procedure Node1005;
+procedure Node1006;
+procedure Node1007;
+procedure Node1008;
+procedure Node1009;
+procedure Node1010;
+procedure Node1100;
+
+procedure Node2000;
+procedure Node2001;
+procedure Node2002;
+procedure Node2003;
+procedure Node2004;
+procedure Node2005;
+procedure Node2006;
+procedure Node2007;
+procedure Node2008;
+procedure Node2009;
+procedure Node2010;
+procedure Node2011;
+procedure Node2012;
+procedure Node2013;
+procedure Node2014;
+procedure Node2015;
+procedure Node2016;
+procedure Node2017;
+procedure Node2018;
+procedure Node2019;
+procedure Node2020;
+procedure Node2021;
+procedure Node2022;
+procedure Node2023;
+procedure Node2024;
+procedure Node2025;
+procedure Node2026;
+procedure Node2027;
+procedure Node2028;
+procedure Node2029;
+
+procedure Node3000;
+procedure Node3001;
+procedure Node3002;
+procedure Node3003;
+procedure Node3004;
+procedure Node3005;
+procedure Node3006;
+
+procedure Node4000;
+procedure Node4001;
+procedure Node4002;
+procedure Node4003;
+procedure Node4004;
+procedure Node4005;
+
+procedure Node5000;
+procedure Node5001;
+procedure Node5002;
+procedure Node5003;
+procedure Node5004;
+
+procedure Node999;
+
+variable Perform_Critter_Float := 0;
+variable Delete_Self := 0;
+variable chamber := 0;
+variable waiting := 0;
+
+#define KITSUNE_HIB_HEX           (17102)
+#define KITSUNE_LOCKER_HEX        (15705)
+	      
+procedure timed_event_p_proc;
+
+procedure start begin
+   //critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_TOUGH_GUARD);
+end
+
+procedure push_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_KITSUNE)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_KITSUNE))) then begin 
+      set_map_var(MVAR_Kitty_Drug, 0);
+      waiting := 1;
+      if (get_critter_stat(self_obj, STAT_st) < 10) then begin
+         use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
+      end
+   end 
+   
+   if( Perform_Critter_Float == 1 ) then begin
+      Perform_Critter_Float := 0;
+      // Float an appropriate message based on where we are.
+      if( cur_map_index == MAP_EPA_SUBLEVELS_1 or cur_map_index == MAP_EPA_SUBLEVELS_2) then
+         call Node2000;
+      else if( cur_map_index == MAP_ARROYO_VILLAGE ) then
+         call Node2001;
+      else if( cur_map_index == MAP_ARROYO_CAVES ) then
+         call Node2002;
+      else if( cur_map_index == MAP_DEN_ENTRANCE ) then
+         call Node2003;
+      else if( cur_map_index == MAP_KLAMATH_1 ) then
+         call Node2004;
+      else if( cur_map_index == MAP_KLAMATH_TOXICCAVES ) then
+         call Node2005;
+      else if( cur_map_index == MAP_MODOC_MAINSTREET ) then
+         call Node2006;
+      else if( cur_map_index == MAP_GHOST_FARM ) then
+         call Node2007;
+      else if( cur_map_index == MAP_GECKO_SETTLEMENT ) then
+         call Node2018;
+      else if( cur_map_index == MAP_VAULTCITY_COURTYARD ) then
+         call Node2019;
+      else if( cur_map_index == MAP_VAULTCITY_DOWNTOWN ) then
+         call Node2010;
+      else if( cur_map_index == MAP_REDDING_DOWNTOWN  ) then
+         call Node2011;
+      else if( cur_map_index == MAP_PRIMITIVE_TRIBE2 ) then
+         call Node2012;
+      else if( cur_map_index == MAP_RAIDERS_CAMP2 ) then
+         call Node2013;
+      else if( cur_map_index == MAP_SIERRA_BATTLE ) then
+         call Node2014;
+      else if( cur_map_index == MAP_NEW_RENO_1 ) then
+         call Node2015;
+      else if( cur_map_index == MAP_NEW_RENO_STABLES ) then
+         call Node2016;
+      else if( cur_map_index == MAP_NEW_RENO_GOLGATHA ) then
+         call Node2017;
+      else if( cur_map_index == MAP_BROKEN_HILLS1 ) then
+         call Node2018;
+      else if( cur_map_index == MAP_SAN_FRAN_CHINATOWN ) then
+         call Node2019;
+      else if( cur_map_index == MAP_MILITARY_BASE_ENTRANCE ) then
+         call Node2020;
+      else if( cur_map_index == MAP_VAULT_13 ) then
+         call Node2021;
+      else if( cur_map_index == MAP_NCR_BAZAAR ) then
+         call Node2022;
+      else if( cur_map_index == MAP_VAULT_15 ) then
+         call Node2023;
+      else if( cur_map_index == MAP_ABBEY_OUTSIDE ) then
+         call Node2024;  
+      else if (cur_town == AREA_RND_DESERT) then
+         call Node2025;
+      else if (cur_town == AREA_RND_MOUNTAIN) then
+         call Node2026;
+      else if (cur_town == AREA_RND_COAST) then
+         call Node2027;
+      else if( ( cur_map_index == MAP_RND_CAVERN0 ) or ( cur_map_index == MAP_RND_CAVERN1 ) or 
+      ( cur_map_index == MAP_RND_CAVERN2 ) or ( cur_map_index == MAP_RND_CAVERN3 ) or 
+      ( cur_map_index == MAP_RND_CAVERN4 ) or ( cur_map_index == MAP_RND_CAVERN5 )  or 
+      ( cur_map_index == MAP_RND_CAVERN_6 )  or ( cur_map_index == MAP_RND_CAVERN_7 ) or 
+      ( cur_map_index == MAP_ABBEY_CAVE ) ) then
+         call Node2028;
+      else if (cur_town == AREA_RND_CITY) then
+         call Node2029;
+   end
+     
+   
+   if (local_var(LVAR_Herebefore) == 0) then begin
+      call talk_p_proc;
+   end else if (Kitsune_In_Party) then begin
+      if (party_is_waiting == false) then begin
+         if (waiting != 1) then begin //check added by killap - needed for "hacky fix" for kitty drug... :(
+            party_member_follow_dude
+         end
+      end
+   end
+end
+
+procedure look_at_p_proc begin
+  script_overrides;
+  display_msg(mstr(101));
+end
+
+procedure description_p_proc begin
+  script_overrides;
+  display_msg(mstr(random(102,104)));
+end
+
+procedure use_skill_on_p_proc
+begin
+end
+
+procedure use_obj_on_p_proc begin
+
+   if ( (obj_pid(obj_being_used_with) == PID_MICRO_FUSION_CELL) or (obj_pid(obj_being_used_with) == PID_SMALL_ENERGY_CELL) ) then begin
+      script_overrides;
+      display_msg(g_mstr(20000));
+   end
+
+   if (Kitsune_In_Party) then begin
+         if ( (obj_pid(obj_being_used_with) == PID_FIRST_AID_KIT) or
+            (obj_pid(obj_being_used_with) == PID_DOCTORS_BAG) or
+            (obj_pid(obj_being_used_with) == PID_RADAWAY) or
+            (obj_pid(obj_being_used_with) == PID_ANTIDOTE) or
+            (obj_pid(obj_being_used_with) == PID_STIMPAK) or
+            (obj_pid(obj_being_used_with) == PID_SUPER_STIMPAK) ) then
+            call Node4000;
+         else if( (obj_pid(obj_being_used_with) == PID_BEER ) or
+            (obj_pid(obj_being_used_with) == PID_BOOZE ) or
+            (obj_pid(obj_being_used_with) == PID_ROT_GUT ) or
+            (obj_pid(obj_being_used_with) == PID_ROENTGEN_RUM ) or
+            (obj_pid(obj_being_used_with) == PID_GAMMA_GULP_BEER ) ) then
+            call Node4001;
+         else if ( obj_pid(obj_being_used_with) == PID_PSYCHO ) then
+            call Node4002;
+         else if ( obj_pid(obj_being_used_with) == PID_BUFFOUT ) then
+            call Node4003;
+         else if ( obj_pid(obj_being_used_with) == PID_MENTATS ) then
+            call Node4004;
+         else if ( obj_pid(obj_being_used_with) == PID_JET ) then
+            call Node4005;
+   end
+
+end
+
+procedure damage_p_proc
+begin
+end
+
+procedure map_enter_p_proc begin
+   //critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_TOUGH_GUARD);
+   party_member_map_enter;
+   if( Kitsune_Ptr != 0 ) then
+      Perform_Critter_Float := 1;
+   else
+      Perform_Critter_Float := 0;
+   
+   flush_add_timer_event_sec(self_obj, random(25, 40), 1);
+end
+
+procedure map_update_p_proc begin
+   if (combat_is_initialized == false) then begin
+      if (anim_busy(self_obj) == false) then begin
+         if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+            if (chem_use_level(self_obj) == 1) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 2) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 30) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 3) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 50) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 4) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 50) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end
+         end
+      end
+   end
+   
+   //added by killap - needed for "hacky fix" for kitty drug... :(
+   if (waiting == 1) then begin
+      waiting := 0;
+   end
+   //end added
+   
+end
+
+procedure kill_p_proc begin
+   float_msg(dude_obj, message_str(NAME,5002), 8);
+   critter_dmg(self_obj,10000,DMG_plasma);
+end
+
+procedure talk_p_proc begin
+   //B-team mod code
+   /*variable loc1;
+   variable loc2;
+   loc1:=critter_inven_obj(self_obj,0);*/
+   //end B-team mod code
+
+  if (local_var(LVAR_Herebefore) == 0) then begin
+      set_local_var(LVAR_Herebefore,1);
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+      end_dialogue;
+  end else begin
+      if ((Kitsune_In_Party) or (party_is_waiting)) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node1000;
+         gSay_End;
+         end_dialogue;
+      end else begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node060;
+         gSay_End;
+         end_dialogue;
+      end
+  end
+  
+  if (Delete_Self == 1) then
+   destroy_object(self_obj);
+   
+  if (local_var(LVAR_Kill_NPC) == 1) then begin
+      set_obj_visibility(self_obj,0); //visi
+      call kill_p_proc;
+  end
+   
+   //B-team mod code
+/*loc2:= critter_inven_obj(self_obj, 2);
+if (loc2 == 0) then begin
+   loc2 := critter_inven_obj(self_obj, 1);
+end 
+if  (critter_inven_obj(self_obj,0)!=loc1) then
+ begin
+  if (critter_inven_obj(self_obj,0)== 0 ) then
+  begin
+  //no armor
+  metarule3(107,self_obj,FID_HFMAXX,0);
+  end
+  else
+  if ((obj_pid(critter_inven_obj(self_obj,0))== 1) or (obj_pid(critter_inven_obj(self_obj,0))==379)) then
+  begin
+  // Ustawianie grafiki dla Lether Armor
+  metarule3(107,self_obj,FID_HFLTHR,0);
+  end
+  else
+  if ((obj_pid(critter_inven_obj(self_obj,0))== 232) or (obj_pid(critter_inven_obj(self_obj,0))== 3 )) then
+  begin
+  // Ustawianie grafiki dla Power Armor
+  metarule3(107,self_obj,FID_HAPOWR,0);
+  end
+  else
+  if ((obj_pid(critter_inven_obj(self_obj,0))==349) or (obj_pid(critter_inven_obj(self_obj,0))==348 )) then
+  begin
+  // Ustawianie grafiki dla Advenced Power Armor
+  metarule3(107,self_obj,FID_HANPWR,0);
+  end
+  else
+  if ((obj_pid(critter_inven_obj(self_obj,0))==240) or (obj_pid(critter_inven_obj(self_obj,0))==380) or (obj_pid(critter_inven_obj(self_obj,0))==2 )) then
+  begin
+  // Ustawianie grafiki dla Metal Armor
+  metarule3(107,self_obj,FID_HFMETL,0);
+  end
+  else
+  if ((obj_pid(critter_inven_obj(self_obj,0))==74) or (obj_pid(critter_inven_obj(self_obj,0))==265)) then
+  begin
+  // Ustawianie grafiki dla Lether Jacket
+  metarule3(107,self_obj,FID_HFMAXX,0);
+  end
+  else
+  if ((obj_pid(critter_inven_obj(self_obj,0))==239) or (obj_pid(critter_inven_obj(self_obj,0))==17) or (obj_pid(critter_inven_obj(self_obj,0))==381 )) then
+  begin
+  // Ustawianie grafiki dla Combat Armor
+  metarule3(107,self_obj,FID_HFCMBT,0);
+  end
+  else
+  if ((obj_pid(critter_inven_obj(self_obj,0))==524) or (obj_pid(critter_inven_obj(self_obj,0))==113)) then
+  begin
+  // Ustawianie grafiki dla habitu
+  metarule3(107,self_obj,FID_HAROBE,0);
+  end
+  restock_obj := critter_inven_obj(self_obj, 1);
+  debug_msg("armour pid == " + obj_pid(restock_obj));
+  rm_obj_from_inven(self_obj, restock_obj);
+  add_obj_to_inven(self_obj, restock_obj);
+  if (loc2 != 0) then begin
+   wield_obj_critter(self_obj, loc2);
+  end
+ end*/
+//end B-team mod code
+   
+end
+
+procedure Node001 begin
+   Reply(200);
+   NOption(201,Node002,004);
+end
+
+procedure Node002 begin
+   if (map_var(MVAR_Kitsune_Free) == 2) then begin
+      Reply(5000);
+	   NOption(5001,Node999,004);
+	   set_local_var(LVAR_Kill_NPC,1);
+      destroy_object(tile_contains_pid_obj(KITSUNE_HIB_HEX,dude_elevation,33556339));
+      chamber:=create_object_sid(33556343,KITSUNE_HIB_HEX,dude_elevation,-1);
+   end else begin
+      Reply(202);
+      NOption(203,Node003,004);
+   end
+end
+
+procedure Node003 begin
+   Reply(204);
+   NOption(205,Node004,004);
+   NOption(206,Node005,004);
+end
+
+procedure Node004 begin
+   Reply(207);
+   NOption(209,Node006,004);
+end
+
+procedure Node005 begin
+   Reply(208);
+   NOption(209,Node006,004);
+end
+
+procedure Node006 begin
+   Reply(210);
+   NOption(211,Node007,004);
+end
+
+procedure Node007 begin
+   Reply(212);
+   NOption(213,Node008,004);
+end
+
+procedure Node008 begin
+   Reply(214);
+   NOption(215,Node009,004);
+end
+
+procedure Node009 begin
+   Reply(216);
+   NOption(217,Node010,004);
+end
+
+procedure Node010 begin
+   Reply(218);
+   NOption(219,Node011,004);
+end
+
+procedure Node011 begin
+   Reply(220);
+   NOption(221,Node012,004);
+   NOption(245,Node012a,004);
+end
+
+procedure Node012a begin
+   Reply(246);
+   NOption(247,Node012,004);
+end
+
+procedure Node012 begin
+   Reply(222);
+   NOption(223,Node013,004);
+   NOption(224,Node013,004);
+end
+
+procedure Node013 begin
+   Reply(225);
+   NOption(226,Node014,004);
+end
+
+procedure Node014 begin
+   Reply(227);
+   NOption(228,Node015,004);
+end
+
+procedure Node015 begin
+   Reply(229);
+   NOption(230,Node016,004);
+end
+
+procedure Node016 begin
+   Reply(231);
+   NOption(mstr(232) + dude_name + mstr(233),Node017,004);
+   NOption(mstr(2330) + dude_name + ".",Node017,004);
+end
+
+procedure Node017 begin
+   Reply(234);
+   NOption(235,Node018,004);
+end
+
+procedure Node018 begin
+   Reply(236);
+   NOption(237,Node019,004);
+end
+
+procedure Node019 begin
+   Reply(238);
+   NOption(239,Node020,004);
+end
+
+procedure Node020 begin
+   Reply(240);
+   NOption(241,Node021,004);
+end
+
+procedure Node021 begin
+   Reply(242);
+   NOption(250,Node022,004);
+end
+
+procedure Node022 begin
+   Reply(251);
+   NOption(252,Node900,004);
+   NOption(253,Node904,004);
+end
+
+//joined
+procedure Node023 begin
+   Reply(260);
+   NOption(261,Node901,004);
+end
+
+//join fail
+procedure Node024 begin
+   Reply(270);
+   NOption(271,Node903,004);
+end
+
+//join 2nd chance
+procedure Node025 begin
+   Reply(272);
+   NOption(280,Node026,004);
+end
+
+//NPC does not join and leaves for good.
+procedure Node025b begin
+   Reply(287);
+   NOption(288,Node025c,004);
+end
+
+procedure Node025c begin
+   destroy_object(tile_contains_pid_obj(KITSUNE_HIB_HEX,dude_elevation,33556339));
+   chamber:=create_object_sid(33556343,KITSUNE_HIB_HEX,dude_elevation,-1);
+   Delete_Self := 1;
+end
+
+//2nd chance, if smart
+procedure Node026 begin
+   Reply(281);
+   NOption(282,Node027,004);
+end
+
+
+procedure Node027 begin
+   Reply(283);
+   NOption(284,Node028,004);
+end
+
+procedure Node028 begin
+   Reply(285);
+   NOption(286,Node901,004);
+end
+
+procedure Node029 begin
+   Reply(311);
+   NOption(312,Node030,004);
+end
+
+procedure Node030 begin
+   Reply(313);
+   NOption(326,Node031,004);
+end
+
+procedure Node031 begin
+   Reply(314);
+   NOption(315,Node032,004);
+end
+
+procedure Node032 begin
+   Reply(316);
+   NOption(317,Node033,004);
+end
+
+procedure Node033 begin
+   Reply(318);
+   NOption(319,Node034,004);
+end
+
+procedure Node034 begin
+   Reply(320);
+   NOption(321,Node035,004);
+   NOption(3210,Node035,004);
+end
+
+procedure Node035 begin
+   Reply(322);
+   
+   if (dude_iq > 6) then
+      NOption(324,Node036,004);
+   else
+      NOption(323,Node036,004);
+end
+
+procedure Node036 begin
+   Reply(325);
+   NOption(326,Node037,004);
+   NOption(3260,Node037,004);
+   BOption(3261,Node037,004);
+end
+
+procedure Node037 begin
+   Reply(327);
+   NOption(328,Node038,004);
+end
+
+procedure Node038 begin
+   Reply(329);
+   NOption(330,Node039,004);
+end
+
+procedure Node039 begin
+   Reply(331);
+   NOption(332,Node040,004);
+end
+
+procedure Node040 begin
+   Reply(333);
+   NOption((g_mstr(353)),Node041,004);
+end
+
+procedure Node041 begin
+   Reply(334);
+   NOption(335,Node042,004);
+end
+
+procedure Node042 begin
+   Reply(336);
+   NOption(337,Node043,004);
+end
+
+procedure Node043 begin
+   Reply(338);
+   NOption(339,Node044,004);
+end
+
+procedure Node044 begin
+   Reply(340);
+   NOption(341,Node045,004);
+end
+
+//edit time
+
+procedure Node045 begin
+   Reply(342);
+   NOption(345,Node046,004);
+   NOption(350,Node048,004);
+end
+
+procedure Node046 begin
+   Reply(346);
+   NOption(347,Node047,004);
+end
+
+procedure Node047 begin
+   Reply(348);
+   NOption(360,Node052,004);
+end
+
+procedure Node048 begin
+   Reply(351);
+   NOption(352,Node049,004);
+end
+
+procedure Node049 begin
+   Reply(353);
+   NOption(354,Node050,004);
+end
+
+procedure Node050 begin
+   Reply(355);
+   NOption(356,Node051,004);
+end
+
+procedure Node051 begin
+   Reply(357);
+   NOption(360,Node052,004);
+end
+
+procedure Node052 begin
+   Reply(361);
+   NOption((g_mstr(353)),Node902,004);
+end
+
+procedure Node053 begin
+   Reply(362);
+   NOption(363,Node999,004);
+end
+
+//about eyes
+procedure Node054 begin
+   Reply(371);
+   if (dude_iq > 7) then
+      NOption(373,Node055,004);
+   else
+      NOption(372,Node055,004);
+end
+
+procedure Node055 begin
+   Reply(374);
+   NOption(375,Node056,004);
+end
+
+procedure Node056 begin
+   Reply(376);
+   NOption(377,Node1000,004);
+   set_local_var(LVAR_Told_About_Eyes,1);
+end
+
+//party was full when first tried to recruit
+procedure Node060 begin
+   Reply(462);
+   NOption(463,Node1100,004);
+   NOption(464,Node999,004);
+end
+
+
+procedure Node900 begin
+   if (dude_charisma >= 5) then begin
+      call Node023;
+   end else begin
+      call Node024;
+   end
+end
+
+procedure Node904 begin
+   if (dude_charisma >= 7) then begin
+      call Node023;
+   end else begin
+      call Node024;
+   end
+end
+
+procedure Node901 begin
+   variable locker := 0;
+   
+   if (dude_charisma <= 1) then begin
+      Reply(470);
+      NOption((g_mstr(352)), Node025b, 4);
+   end else if (dude_at_max_party_size) then begin
+      Reply(random(460,461));
+      set_local_var(LVAR_Wait,1);
+      NOption(g_mstr(10007),Node999,001);
+   end else begin
+      kitsune_joins_party;
+      set_local_var(LVAR_Joined,1);
+      floater(262);
+   end
+   
+   locker:=tile_contains_pid_obj(KITSUNE_LOCKER_HEX,dude_elevation,PID_LOCKER_CLEAN_LEFT);
+   move_obj_inven_to_obj(locker, self_obj);
+   obj_open( locker );
+   
+   set_obj_visibility(self_obj,0); //visi
+   destroy_object(tile_contains_pid_obj(KITSUNE_HIB_HEX,dude_elevation,33556339));
+   chamber:=create_object_sid(33556343,KITSUNE_HIB_HEX,dude_elevation,-1);
+end
+
+procedure Node902 begin
+   set_local_var(LVAR_Told_Real_Past,1);
+   critter_mod_skill(dude_obj, SKILL_SNEAK, 10);
+   critter_mod_skill(dude_obj, SKILL_STEAL, 10);
+   critter_mod_skill(dude_obj, SKILL_LOCKPICK, 10);
+   game_time_advance(2*ONE_GAME_HOUR);
+   
+   call Node053;
+end
+
+procedure Node903 begin
+   if ((has_skill(dude_obj,SKILL_CONVERSANT) > 80)) then
+      call Node025;
+   else
+      call Node025b;
+end
+
+//party member stuff
+procedure Node1000 begin
+   if (party_is_waiting) then begin
+      Reply(random(440,446));
+      party_member_default_options;
+   end else begin
+      Reply(random(300,305));
+      kitsune_party_member_options;
+   end
+end
+
+procedure Node1001 begin
+   // heal yourself
+   obj_heal(self_obj)
+   global_temp := 0;
+   if (party_healed_max) then begin
+      Reply(490);
+   end else if (party_healed_good) then begin
+      Reply(491);
+   end else if (party_healed_hurt) then begin
+      Reply(492);
+   end else begin
+      Reply(493);
+   end
+   kitsune_party_member_options;
+end
+
+procedure Node1002 begin
+   // wait here
+   set_party_waiting;
+   Reply(random(430,432));
+   party_member_default_options;
+end
+
+procedure Node1003 begin
+   // put your weapon away
+   inven_unwield(self_obj);
+   Reply(500);
+   kitsune_party_member_options;
+end
+
+procedure Node1004 begin
+   // follow close
+   set_follow_close;
+   Reply(423);
+   kitsune_party_member_options;
+end
+
+procedure Node1005 begin
+   // follow medium
+   set_follow_medium;
+   Reply(425);
+   kitsune_party_member_options;
+end
+
+procedure Node1006 begin
+   // follow far
+   set_follow_far;
+   Reply(427);
+   kitsune_party_member_options;
+end
+
+procedure Node1007 begin
+   // distance
+   //Reply("TEMP MESSAGE: DISTANCE");
+   Reply(421);
+   party_member_def_follow_options;
+end
+
+procedure Node1008 begin
+   // gear
+   //Reply("TEMP MESSAGE: GEAR");
+   Reply(410);
+   party_member_def_gear_options;
+end
+
+procedure Node1009 begin
+   // remove armor
+   //NEED TO FIND OUT WHY THIS DOESNT WORK!!! - NBK
+   remove_armor(self_obj)
+   //Reply("TEMP MESSAGE: REMOVE ARMOR");
+   Reply(480);
+   kitsune_party_member_options;
+end
+
+procedure Node1010 begin
+   // weapons that can be used
+   //Reply("TEMP MESSAGE: CAN USE...");
+   Reply(411);
+   kitsune_party_member_options;
+end
+
+procedure Node1100 begin
+   // join me
+   if (dude_charisma <= 1) then begin
+      set_self_abandon_party;
+      Reply(470);
+      NOption((g_mstr(352)), Node025b, 4);
+   end else if (dude_at_max_party_size) then begin
+      set_self_abandon_party;
+      Reply(random(460,461));
+      NOption(g_mstr(10007),Node999,001);
+   end else begin
+      end_party_waiting;
+      Reply(random(450,454));
+      kitsune_party_member_options;
+   end
+end
+
+procedure Node999 begin
+
+end
+
+procedure timed_event_p_proc begin
+ if (obj_is_visible_flag(self_obj)) then begin
+   if (combat_is_initialized == false) then begin
+      if (Kitsune_In_Party == false) then begin
+      //blah
+      end else begin
+         if (party_healed_bad) then begin
+            call Node5000;
+         end else if (self_is_poisoned) then begin
+            call Node5001;
+         end else if (get_critter_stat(self_obj, STAT_current_rad) > 0) then begin
+            call Node5002;
+         end else if (Is_Crippled(self_obj)) then begin
+            call Node5003;
+         end else if (Is_Blind(self_obj)) then begin
+            call Node5004; 
+         end else if ( (Sulik_In_Party) and (random(1,2) == 2) ) then begin
+            call Node3001;
+         end else if ( (Vic_In_Party) and (random(1,2) == 2) ) then begin
+            call Node3002;
+         end else if ( (Miria_In_Party) and (random(1,2) == 2) ) then begin
+            call Node3003;
+         end else if ( (Myron_In_Party) and (random(1,2) == 2) ) then begin
+            call Node3004;
+         end else if ( (Marcus_In_Party) and (random(1,2) == 2) ) then begin
+            call Node3005;
+         end else begin
+            call Node3000;
+         end
+      end
+   end
+ end
+ flush_add_timer_event_sec(self_obj, random(90, 120), 1);
+end
+
+procedure Node2000 begin
+   floater(1000);
+end
+
+procedure Node2001 begin
+   floater(1010);
+end
+
+procedure Node2002 begin
+   floater(1020);
+end
+
+procedure Node2003 begin
+   floater(1030);
+end
+
+procedure Node2004 begin
+   floater(1040);
+end
+
+procedure Node2005 begin
+   floater(1050);
+end
+
+procedure Node2006 begin
+   floater(1060);
+end
+
+procedure Node2007 begin
+   floater(1070);
+end
+
+procedure Node2008 begin
+   floater(1080);
+end
+
+procedure Node2009 begin
+   floater(1090);
+end
+
+procedure Node2010 begin
+   floater(1100);
+end
+
+procedure Node2011 begin
+   floater(1110);
+end
+
+procedure Node2012 begin
+   floater(1120);
+end
+
+procedure Node2013 begin
+   floater(1130);
+end
+
+procedure Node2014 begin
+   floater(1140);
+end
+
+procedure Node2015 begin
+   floater(1150);
+end
+
+procedure Node2016 begin
+   floater(1160);
+end
+
+procedure Node2017 begin
+   floater(random(1170,1171));
+end
+
+procedure Node2018 begin
+   floater(1180);
+end
+
+procedure Node2019 begin
+   floater(1190);
+end
+
+procedure Node2020 begin
+   floater(1200);
+end
+
+procedure Node2021 begin
+   floater(1210);
+end
+
+procedure Node2022 begin
+   floater(1220);
+end
+
+procedure Node2023 begin
+   floater(1230);
+end
+
+procedure Node2024 begin
+   floater(1240);
+end
+
+procedure Node2025 begin
+   floater(random(1250,(1253+Sulik_In_Party)));
+end
+
+procedure Node2026 begin
+   floater(1260);
+end
+
+procedure Node2027 begin
+   floater(random(1270,1273));
+end
+
+procedure Node2028 begin
+   floater(random(1280,1285));
+end
+
+procedure Node2029 begin
+   floater(random(1290,1292));
+end
+
+//npc specific floats
+procedure Node3000 begin
+   floater(random(2001,2013));
+end
+
+procedure Node3001 begin
+   floater(2020);
+end
+
+procedure Node3002 begin
+   floater(2030);
+end
+
+procedure Node3003 begin
+   floater(random(2040,2041));
+end
+
+procedure Node3004 begin
+   floater(random(2050,2053));
+end
+
+procedure Node3005 begin
+   floater(2060);
+end
+
+procedure Node3006 begin
+   floater(2070);
+end
+
+//using items on the NPC
+
+//stimpack
+procedure Node4000 begin
+   floater(random(3000,3004));
+end
+
+//booze
+procedure Node4001 begin
+   floater(random(3010,3015));
+end
+
+//psycho
+procedure Node4002 begin
+   floater(3020);
+end
+
+//buffout
+procedure Node4003 begin
+   floater(3030);
+end
+
+//mentats
+procedure Node4004 begin
+   floater(3040);
+end
+
+//jet
+procedure Node4005 begin
+   floater(random(3050,3059));
+end
+
+//hurt
+procedure Node5000 begin
+   floater(random(494,495));
+end
+
+//poisoned
+procedure Node5001 begin
+   floater(random(2100,2101));
+end
+
+//radiated
+procedure Node5002 begin
+   floater(random(2110,2114));
+end
+
+//broken limb
+procedure Node5003 begin
+   floater(random(2120,2121));
+end
+
+//blind
+procedure Node5004 begin
+   floater(random(2130,2131));
+end

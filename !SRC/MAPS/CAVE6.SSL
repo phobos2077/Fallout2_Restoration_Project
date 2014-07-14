@@ -1,0 +1,46 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+   Map for Vault13 Fake entrance
+*/
+
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_CAVE6
+
+#include "..\headers\cave06.h"
+#include "..\headers\command.h"
+#include "..\headers\ncr.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure start begin
+end
+
+
+procedure map_enter_p_proc begin
+   Cavern_Lighting;
+
+   Check_Create_Car(CAR_VAULT_13_HEX, CAR_VAULT_13_ELEV)
+
+   if (not is_loading_game) then begin
+      if (global_var(GVAR_NCR_FAKE_VAULT13_MAP) == DUDE_HAS_FAKE_MAP) then begin
+         set_global_var(GVAR_NCR_FAKE_VAULT13_MAP, DUDE_FIGURED_FAKE_MAP);
+         mark_vault_fake_13B_on_map
+      end
+
+      override_map_start_hex(26148,0,1);
+   end
+   debug_msg("CAVE6: here I am");
+   display_mstr(100);
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+end
+
+procedure map_update_p_proc begin
+   Cavern_Lighting;
+end

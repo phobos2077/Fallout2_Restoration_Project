@@ -1,0 +1,67 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item:
+        Location : New Reno
+        Description: This box is for the Bartender's Goods
+
+        Log:
+
+           Created: May 13, 1998
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_NEWRVB
+
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+/* Defines and Macros */
+/* Standard Script Procedures */
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_p_proc;
+procedure use_skill_on_p_proc;
+procedure map_enter_p_proc;
+
+import variable vertibird_obj;
+import variable power_armor_1_obj;
+import variable power_armor_2_obj;
+import variable handy_obj;
+
+procedure start begin
+   vertibird_obj := self_obj;
+end
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(130)); //edit by killap - added mstr
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(140)); //edit by killap - added mstr
+end
+
+procedure use_p_proc begin
+   if ((source_obj == dude_obj) or (obj_in_party(source_obj))) then begin
+      script_overrides;
+      display_msg(mstr(150)); //edit by killap - added mstr
+   end else if (source_obj == handy_obj) then begin
+      script_overrides;
+      flush_add_timer_event(source_obj, 0, -1);
+   end
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure map_enter_p_proc begin
+   vertibird_obj := self_obj;
+end

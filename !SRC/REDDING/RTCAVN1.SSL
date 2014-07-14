@@ -1,0 +1,112 @@
+#include "..\headers\define.h"
+#include "..\headers\klaratcv.h"
+#include "..\headers\klamath.h"
+
+#define NAME                    SCRIPT_RTCAVN1
+
+#include "..\headers\command.h"
+
+procedure damage_p_proc;
+
+#define LVAR_Destroyed                     (0)
+
+procedure damage_p_proc begin
+ variable rubble;
+ variable blocker;
+ variable count := 0;
+ variable check := 0;
+ variable obj;
+ 
+ if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
+   if (local_var(LVAR_Destroyed) == 0) then begin
+       set_local_var(LVAR_Destroyed,1);
+       rubble:=create_object(33554510,14486,elevation(self_obj));
+       rubble:=create_object(33554513,14083,elevation(self_obj));
+       rubble:=create_object(33554839,13083,elevation(self_obj));
+       rubble:=create_object(33554839,13681,elevation(self_obj));
+       rubble:=create_object(33554839,13683,elevation(self_obj));
+       rubble:=create_object(33554839,14682,elevation(self_obj));
+       
+       blocker:=create_object(PID_BLOCKING_HEX,14487,elevation(self_obj));
+       blocker:=create_object(PID_BLOCKING_HEX,14687,elevation(self_obj));
+       blocker:=create_object(PID_BLOCKING_HEX,14887,elevation(self_obj));
+       blocker:=create_object(PID_BLOCKING_HEX,12886,elevation(self_obj));
+       blocker:=create_object(PID_BLOCKING_HEX,13086,elevation(self_obj));
+       blocker:=create_object(PID_BLOCKING_HEX,13286,elevation(self_obj));
+       blocker:=create_object(PID_BLOCKING_HEX,14476,elevation(self_obj));
+       blocker:=create_object(PID_BLOCKING_HEX,14676,elevation(self_obj));
+       blocker:=create_object(PID_BLOCKING_HEX,14876,elevation(self_obj));
+       blocker:=create_object(PID_BLOCKING_HEX,15077,elevation(self_obj));
+
+       display_msg(message_str(SCRIPT_REDWAN1, 101));
+       
+      while (count < 18) do begin
+
+         if (check == 0) then begin
+            obj := Vic_Ptr;
+            check := check + 1;
+         end else if (check == 1) then begin
+            obj := Myron_Ptr;
+            check := check + 1;
+         end else if (check == 2) then begin
+            obj := Marcus_Ptr;
+            check := check + 1;
+         end else if (check == 3) then begin
+            obj := MacRae_Ptr;
+            check := check + 1;
+         end else if (check == 4) then begin
+            obj := Sulik_Ptr;
+            check := check + 1;
+         end else if (check == 5) then begin
+            obj := Lenny_Ptr;
+            check := check + 1;
+         end else if (check == 6) then begin
+            obj := Cyberdog_Ptr;
+            check := check + 1;
+         end else if (check == 7) then begin
+            obj := Goris_Ptr;
+            check := check + 1;
+         end else if (check == 8) then begin
+            obj := Davin_Ptr;
+            check := check + 1;
+         end else if (check == 9) then begin
+            obj := Miria_Ptr;
+            check := check + 1;
+         end else if (check == 10) then begin
+            obj := Robobrain_Ptr;
+            check := check + 1;
+         end else if (check == 11) then begin
+            obj := Dogmeat_Ptr;
+            check := check + 1;
+         end else if (check == 12) then begin
+            obj := Pariah_Dog_Ptr;
+            check := check + 1;
+         end else if (check == 13) then begin
+            obj := K9_Ptr;
+            check := check + 1;
+         end else if (check == 14) then begin
+            obj := Robobrain_Human_Ptr;
+            check := check + 1;
+         end else if (check == 15) then begin
+            obj := Robobrain_Abnormal_Ptr;
+            check := check + 1;
+         end else if (check == 16) then begin
+            obj := Robobrain_Chimp_Ptr ;
+            check := check + 1;
+         end else if (check == 17) then begin
+            obj := dude_obj;
+            check := check + 1;
+         end
+         
+         //ul, ur, ll, lr, x)
+         if (tile_in_tile_rect(12887, 12678, 15087, 15078, tile_num(obj))) then begin
+            critter_dmg(obj, 9999999, DMG_normal_dam);
+         end
+         
+         count := count + 1;
+       end        
+       
+       destroy_object(self_obj);
+   end
+ end
+end

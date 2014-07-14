@@ -1,0 +1,296 @@
+/*
+	Script for critter tmplete
+*/
+
+
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_FCSBTEC2
+
+#include "..\headers\command.h"
+#include "..\headers\sfsub.h"
+#include "..\headers\sanfran.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+procedure critter_p_proc;
+procedure timed_event_p_proc;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Helped                     (7)
+#define LVAR_Said_Once                  (8)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+
+procedure Node999;
+procedure Node998;
+procedure Node990;
+procedure Node991;
+procedure Node992;
+procedure Node993;
+procedure Node994;
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then begin
+      floater(random(200,203));
+      add_timer_event(self_obj,game_ticks(random(20,30)),1);
+   end
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+
+   if (source_obj == dude_obj) then begin
+      set_local_var(LVAR_Hostile,2);
+      set_san_fran_flag(SF_SHI_ENEMY);
+      set_map_var(MVAR_Attack_Player,1);
+   end
+
+end
+
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   if (sub_flag(SHI_SUB_ALONE)) then
+      destroy_object(self_obj);
+   add_timer_event(self_obj,game_ticks(random(20,30)),1);
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+
+procedure critter_p_proc begin
+
+   if ( ( (local_var(LVAR_Hostile) == 2) or (map_var(MVAR_Attack_Player)) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end else if ( (local_var(LVAR_Said_Once) == 1) and obj_can_see_obj(self_obj,dude_obj) and (dude_is_sneaking) ) then begin
+      set_local_var(LVAR_Said_Once,1);
+      floater(random(150,151));
+   end
+   
+end
+
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   if (global_var(GVAR_SAN_FRAN_SUB) >= SHI_SUB_DISABLED) then begin
+      call Node008;
+   end else if (local_var(LVAR_Helped) == 1) then begin
+      call Node007;
+   end else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+      end_dialogue;
+   end
+end
+
+procedure Node001 begin
+   Reply(300);
+   if ( (global_var(GVAR_SAN_FRAN_SUB) == SHI_SUB_WITH_CREW) and (has_skill(dude_obj,SKILL_CONVERSANT) > 80) ) then
+      NOption(301, Node990, 4);
+   if (has_skill(dude_obj,SKILL_SCIENCE) > 80) then
+      NOption(302, Node991, 4);
+   NOption(303, Node999, 4);
+end
+
+procedure Node002 begin
+   Reply(310);
+   NOption(311, Node994, 4);
+end
+
+procedure Node003 begin
+   Reply(320);
+   NOption(321, Node992, 4);
+   NOption(322, Node999, 4);
+end
+
+procedure Node004 begin
+   Reply(330);
+   NOption(331, Node994, 4);
+end
+
+procedure Node005 begin
+   Reply(350);
+   
+   if (sub_flag(SHI_SUB_WITH_CREW)) then
+      NOption(351, Node993, 4);
+   NOption(352, Node999, 4);
+end
+
+procedure Node006 begin
+   Reply(360);
+   NOption(361, Node999, 4);
+end
+
+procedure Node007 begin
+   floater(340);
+end
+
+procedure Node008 begin
+   floater(random(370,371));
+end
+
+procedure Node990 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-20))) then begin
+      call Node002;
+   end else begin
+      call Node003;
+   end
+end
+
+procedure Node991 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SCIENCE,-20))) then begin
+      call Node004;
+   end else begin
+      call Node005;
+   end
+end
+
+procedure Node992 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SCIENCE,-25))) then begin
+      call Node004;
+   end else begin
+      call Node006;
+   end
+end
+
+procedure Node993 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-25))) then begin
+      call Node002;
+   end else begin
+      call Node006;
+   end
+end
+
+procedure Node994 begin
+   set_local_var(LVAR_Helped,1);
+   set_sub_flag(SHI_SUB_DISABLED);
+   display_msg(mstr(400));
+end
+
+procedure Node999 begin
+
+end
+
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+   set_san_fran_flag(SF_SHI_ENEMY);
+   set_map_var(MVAR_Attack_Player,1);
+end

@@ -1,0 +1,306 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Sheila the prostitute from the Hole
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: January 8, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\den.h"
+
+#define NAME                        SCRIPT_DCSHEILA
+#define TOWN_REP_VAR                GVAR_TOWN_REP_THE_DEN
+
+#include "..\headers\command.h"
+//#include "..\headers\ModReact.h"
+#include "..\headers\denbus2.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure use_p_proc;
+procedure push_p_proc;
+procedure timed_event_p_proc;
+
+// dialog nodes
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+
+procedure Node998;                                      // This Node is Always Combat
+
+procedure Node996;
+procedure Node995;
+
+#define LVAR_Flags                        (0)
+#define LVAR_Lucky                        (1)
+#define LVAR_Home_Tile                    (2)
+#define LVAR_Home_Rotation                (3)
+
+#define got_lucky                         ((local_var(LVAR_Lucky) < game_time) and (local_var(LVAR_Lucky) != 0))
+#define luck_roll_bonus                   ((got_lucky == false) and (is_success(do_check(dude_obj, STAT_lu, 0))))
+#define calc_sex_cost                     sex_cost := (((11 - dude_charisma) * 100) * (1 + true_party_size)) / (1 + luck_roll_bonus); \
+                                          if (got_lucky == false) then begin                                                     \
+                                             set_local_var(LVAR_Lucky, 0);                                                       \
+                                             set_local_var(LVAR_Lucky, game_time + ONE_GAME_DAY);                                \
+                                          end
+
+variable sex_cost;
+
+procedure start begin
+end
+procedure timed_event_p_proc begin
+   if (fixed_param == timed_event_post_sex) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         if (dude_sex_rating >= sex_rating_great) then begin
+            call Node009;
+         end else if (dude_sex_rating >= sex_rating_good) then begin
+            call Node010;
+         end else if (dude_sex_rating >= sex_rating_normal) then begin
+            call Node011;
+         end else begin
+            call Node012;
+         end
+      gSay_End;
+      end_dialogue;
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (frankie_dead) then begin
+         destroy_object(self_obj);
+      end
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_HOLE);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+         set_local_var(LVAR_Home_Tile,self_tile);
+      end
+   end
+end
+
+procedure critter_p_proc begin
+   if ((self_can_see_dude) and (hostile)) then begin
+      self_attack_dude;
+   end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
+      animate_move_to_tile(local_var(LVAR_Home_Tile));
+   end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
+      animate_rotation(local_var(LVAR_Home_Rotation));
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   script_overrides;
+   calc_sex_cost
+   start_dialog_at_node(Node995);
+   set_herebefore;
+end
+
+procedure push_p_proc begin
+   if (self_tile == local_var(LVAR_Home_Tile)) then begin
+      script_overrides;
+   end
+end
+
+procedure destroy_p_proc begin
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150);
+end
+
+procedure use_p_proc begin
+   floater(222);
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node999 begin
+   // to exit dialogs
+end
+procedure Node998 begin
+   // sets up combat
+   set_hostile;
+end
+
+
+procedure Node996 begin
+   // if player doesn't have the money goto 8, else
+   // if end > 8, goto 9
+   // if end > 5, goto 10
+   // if end > 2, goto 11
+   // else goto 12
+   if (dude_caps >= sex_cost) then begin
+      gfade_out(ONE_GAME_SECOND);
+         do_default_sex;
+         item_caps_adjust(self_obj,sex_cost);
+         item_caps_adjust(dude_obj,-sex_cost);
+         critter_attempt_placement(self_obj, sheila_sex_tile, self_elevation);
+         move_to(self_obj, self_tile, self_elevation);
+         critter_attempt_placement(dude_obj, sheila_player_sex_tile, self_elevation);
+         move_to(dude_obj, dude_tile, self_elevation);
+         Face_Critter(dude_obj,self_obj);
+         Face_Critter(self_obj,dude_obj);
+      gfade_in(ONE_GAME_SECOND);
+      flush_add_timer_event_sec(self_obj, 0, timed_event_post_sex); //moved from 2 lines above - killap
+   end else begin
+      call Node008;
+   end
+end
+procedure Node995 begin
+   if (dude_is_female) then begin
+      call Node001;
+   end else if (true_party_size > 0) then begin
+      call Node002;
+   end else if (dude_charisma > 8) then begin
+      call Node003;
+   end else if (dude_iq < 4) then begin
+      call Node004;
+   end else if (dude_strength > 7) then begin
+      call Node005;
+   end else begin
+      call Node006;
+   end
+end
+
+procedure Node001 begin
+   Reply(153);
+   NOption(154,Node999,004);
+   NOption(155,Node999,004);
+   NOption(156,Node999,-003);
+end
+procedure Node002 begin
+   Reply(157);
+   NOption(158,Node006,006);
+   NOption(159,Node006,004);
+   NOption(160,Node999,004);
+   NOption(161,Node006,-003);
+end
+procedure Node003 begin
+   Reply(162);
+   NOption(163,Node006,004);
+   NOption(164,Node006,004);
+   NOption(165,Node007,004);
+   NOption(166,Node004,-003);
+end
+procedure Node004 begin
+   Reply(167);
+   NOption(168,Node006,-003);
+   NOption(169,Node006,-003);
+   NOption(170,Node999,-003);
+end
+procedure Node005 begin
+   Reply(171);
+   NOption(172,Node006,006);
+   NOption(173,Node006,004);
+   NOption(174,Node007,004);
+end
+procedure Node006 begin
+   Reply(mstr(213) + sex_cost + mstr(214));
+   NOption(176,Node996,001);
+   NOption(177,Node007,001);
+end
+procedure Node007 begin
+   Reply(178);
+   NOption(179,Node999,004);
+   NOption(180,Node999,004);
+   NOption(181,Node999,-003);
+end
+procedure Node008 begin
+   Reply(182);
+   NOption(183,Node999,004);
+   NOption(184,Node007,004);
+   NOption(185,Node999,-003);
+end
+procedure Node009 begin
+   Reply(186);
+   NOption(187,Node013,004);
+   NOption(188,Node013,004);
+   NOption(189,Node013,004);
+   NOption(190,Node013,-003);
+end
+procedure Node010 begin
+   Reply(191);
+   NOption(192,Node013,004);
+   NOption(193,Node013,004);
+   NOption(194,Node014,004);
+   NOption(195,Node013,-003);
+end
+procedure Node011 begin
+   Reply(196);
+   NOption(197,Node007,004);
+   NOption(198,Node999,004);
+   NOption(199,Node013,004);
+   NOption(200,Node999,-003);
+end
+procedure Node012 begin
+   if (dude_sex_rating > sex_rating_horrible) then begin
+      Reply(201);
+   end else begin
+      Reply(230);
+   end
+   NOption(202,Node007,004);
+   NOption(203,Node007,004);
+   NOption(204,Node999,004);
+   NOption(205,Node999,-003);
+end
+procedure Node013 begin
+   Reply(206);
+   NOption(207,Node999,004);
+   NOption(208,Node007,004);
+   NOption(209,Node999,-003);
+end
+procedure Node014 begin
+   Reply(210);
+   NOption(211,Node999,004);
+   NOption(212,Node999,-003);
+end

@@ -1,0 +1,139 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Raiders Map 1
+        Location: Raiders
+        Description: East Side
+
+        Log:
+
+           Created: July 28, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\Raiders1.h"
+#include "..\headers\updatmap.h"
+
+// For Raiders Map from Safe flag.
+
+#define NAME                    SCRIPT_RAIDERS1
+
+#include "..\headers\command.h"
+#include "..\headers\Raiders.h"
+#include "..\headers\Raiders2.h"
+#include "..\headers\NewReno.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+variable start_hex_car :=0;   //added by killap
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   //set_map_exit_tiles(0,0);
+
+   // Give the player the Raiders EXP.
+   if( ( ( raiders_dead ) and (not(map_var(MVAR_Scout_Left))) ) and
+       ( map_var( MVAR_Gave_Raiders_Reward ) == 0 ) ) then begin
+      set_map_var( MVAR_Gave_Raiders_Reward, 1 );
+      display_msg( mstr( 102 ) );
+      give_xp( EXP_RAIDERS_DESTROYED );
+      inc_general_rep( REP_BONUS_RAIDERS_DESTROYED );
+   end
+   
+   // Determine if the Player finds the secret entrance.
+   // Condition #1 - Player has already found this entrance at some point.
+   // Condition #2 - Found Map in Bishop's Safe.
+   // Condition #3 - Successful roll_vs_skill( OUTDOORSMAN );
+   if( map_first_run ) then begin
+      if( ( ( raiders_secret_enterance ) or
+            ( is_success( roll_vs_skill( dude_obj, SKILL_OUTDOORSMAN, -30 ) ) ) ) ) then begin
+         set_global_var( GVAR_RAIDER_SECRET_ENTRANCE_KNOWN, 1 );
+         //override_map_start_hex(20508,1,0);
+         override_map_start_hex(23697,1,0); //edit by killap - RP
+         display_msg( mstr(101) );
+      end
+      else
+         display_msg( mstr(100) );
+   end
+//begin killap comment out
+/*   if (is_loading_game == 0) then begin
+      if (dude_elevation == 0) then begin
+         set_global_var(GVAR_COMING_FROM_INSIDE_RAIDERS, 0);
+         set_global_var(GVAR_RAIDERS_CAR_ELEVATION, 0);
+         if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), CAR_RAIDERS_CAMP_ELEV_SECRET, PID_DRIVABLE_CAR) != 0) then begin
+            Dest_Car(CAR_RAIDERS_CAMP_HEX_SECRET, CAR_RAIDERS_CAMP_ELEV_SECRET)
+            set_global_var(GVAR_CAR_PLACED_TILE, 0);
+            Create_Car(CAR_RAIDERS_CAMP_HEX_NORMAL, CAR_RAIDERS_CAMP_ELEV_NORMAL)
+            if (tile_contains_pid_obj(CAR_RAIDERS_CAMP_HEX_NORMAL, CAR_RAIDERS_CAMP_ELEV_NORMAL, PID_DRIVABLE_CAR) != 0) then begin
+               Create_Trunk(CAR_RAIDERS_CAMP_HEX_NORMAL, CAR_RAIDERS_CAMP_ELEV_NORMAL)
+            end
+         end else begin
+            Check_Create_Car(CAR_RAIDERS_CAMP_HEX_NORMAL, CAR_RAIDERS_CAMP_ELEV_NORMAL)
+         end
+      end else begin
+         set_global_var(GVAR_RAIDERS_CAR_ELEVATION, CAR_RAIDERS_CAMP_ELEV_SECRET);
+         if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), CAR_RAIDERS_CAMP_ELEV_NORMAL, PID_DRIVABLE_CAR) != 0) then begin
+            Dest_Car(CAR_RAIDERS_CAMP_HEX_NORMAL, CAR_RAIDERS_CAMP_ELEV_NORMAL)
+            set_global_var(GVAR_CAR_PLACED_TILE, 0);
+            Create_Car(CAR_RAIDERS_CAMP_HEX_SECRET, CAR_RAIDERS_CAMP_ELEV_SECRET)
+            if (tile_contains_pid_obj(CAR_RAIDERS_CAMP_HEX_SECRET, CAR_RAIDERS_CAMP_ELEV_SECRET, PID_DRIVABLE_CAR) != 0) then begin
+               Create_Trunk(CAR_RAIDERS_CAMP_HEX_SECRET, CAR_RAIDERS_CAMP_ELEV_SECRET)
+            end
+         end else begin
+            Check_Create_Car(CAR_RAIDERS_CAMP_HEX_SECRET, CAR_RAIDERS_CAMP_ELEV_SECRET)
+         end
+      end
+   end*/
+//end killap comment out   
+   
+//begin killap's code - Thanks Avega!
+   if dude_elevation == 0 then 
+      start_hex_car:=CAR_RAIDERS_CAMP_HEX_NORMAL;
+   else 
+      start_hex_car:=CAR_RAIDERS_CAMP_HEX_SECRET;
+
+   if (is_loading_game == 0) then begin
+      //Check_Create_Car(start_hex_car, dude_elevation)
+         
+      //added by killap - prevent car from disappearing if the car runs out of gas while on the town circle
+      if ((metarule(30, 0) == 21) and (cur_map_index != MAP_CAR_DESERT) and (car_out_of_fuel)) then begin
+         set_global_var(GVAR_CAR_PLACED_TILE, 0);
+         Create_Car(start_hex_car,dude_elevation)
+         if (tile_contains_pid_obj(start_hex_car, dude_elevation, PID_DRIVABLE_CAR) != 0) then begin
+            Create_Trunk(start_hex_car,dude_elevation)
+         end 
+      end else 
+         Check_Create_Car(start_hex_car, dude_elevation)
+   //end added
+      
+   end
+      
+
+   if (is_loading_game == 0) then begin
+      if (dude_elevation == 0) then begin
+         set_global_var(GVAR_COMING_FROM_INSIDE_RAIDERS, 0);
+         set_global_var(GVAR_RAIDERS_CAR_ELEVATION, 0);
+      end else begin
+         set_global_var(GVAR_RAIDERS_CAR_ELEVATION, CAR_RAIDERS_CAMP_ELEV_SECRET);
+      end
+   end 
+//end killap's code
+   Lighting;
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+end
+
+procedure map_update_p_proc begin
+   if( dude_elevation == 1 ) then
+      set_global_var( GVAR_RAIDER_SECRET_ENTRANCE_KNOWN, 1 );
+
+   Lighting;
+end

@@ -1,0 +1,242 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Broken Hills Village
+        Location: Broken Hills
+        Description: This is the Map Script for the Village of Broken Hills
+
+        Log:
+
+           Created: July 2, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+//#include "..\headers\broken.h" - comment out by killap
+#include "..\headers\broken2.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_BROKEN2
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+
+procedure CauseDamage;
+
+variable k;
+variable frank_ptr;
+variable frank_hex;
+variable manson_ptr;
+variable manson_hex;
+variable Damage_Timer_Started := 0;
+variable damage;
+
+/*#define wearing_protective_gear(x)  ( ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_POWERED_ARMOR ) or \
+                                      ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_HARDENED_POWER_ARMOR ) or \
+                                      ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_ADVANCED_POWER_ARMOR ) or \
+                                      ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_ADVANCED_POWER_ARMOR_MK2 ) )*/
+//edited below for expansion - killap                                     
+#define wearing_protective_gear(x)  ( ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_POWERED_ARMOR ) or \
+                                      ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_HARDENED_POWER_ARMOR ) or \
+                                      ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_ADVANCED_POWER_ARMOR ) or \
+                                      ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_ADVANCED_POWER_ARMOR_MK2 ) or \
+                                      ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_ENVIRONMENTAL_ARMOUR ) or \
+                                      ((obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_RIGHT_HAND)) == PID_GAS_MASK) or (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_LEFT_HAND)) == PID_GAS_MASK)) )                                      
+
+#define apply_radon_damage(x)    damage := random( 10, 15 ); \
+                                 critter_dmg( x, damage, ( DMG_normal_dam BWOR DMG_NOANIMATE BWOR DMG_BYPASS_ARMOR ));
+
+export variable frank_obj;
+export variable manson_obj;
+export variable broken_hills_cavein;
+export variable professor_obj;
+export variable scorpion_obj;
+export variable Professor_Box1;
+export variable Professor_Box2;
+export variable seymour_obj;
+
+export variable Chad_Ptr; //added by killap - expansion pack
+
+/*
+variable cow_ptr;
+variable cow_hex;
+variable smiley_ptr;
+variable smiley_hex;
+*/
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   override_map_start_hex(21144,0,0);
+
+   //set_map_var( MVAR_Came_From_Broken2, 1 ); - comment out by killap
+
+   Damage_Timer_Started := 0;
+
+   //override_map_start_hex(17945,0,2);
+   if (map_first_run) then begin
+       display_msg(mstr(100));
+   end
+
+  /*
+  if ((map_var(MVAR_Made_Car) == 0) and (global_var(GVAR_PLAYER_GOT_CAR) != 0)) then begin
+       set_map_var(MVAR_Made_Car,1);
+       Create_Car(CAR_BROKEN_HILLS_HEX,CAR_BROKEN_HILLS_ELEV)
+  end
+  */
+
+   if (global_var(GVAR_JAIL_BREAK) == JB_SUCCESSFUL) then begin
+      set_global_var(GVAR_JAIL_BREAK, JB_OVER);
+/*
+      debug_msg("Making Frank");
+      frank_ptr := create_object_sid(PID_MASTER_TRADER_MALE,0,0,SCRIPT_HCFRANK);
+      critter_add_trait(frank_ptr,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+      frank_hex := 24530;
+      critter_attempt_placement(frank_ptr,frank_hex, 1);
+
+      debug_msg("Making Manson");
+      manson_ptr := create_object_sid(PID_MELEE_THUG_MALE,0,0,SCRIPT_HCMANSON);
+      critter_add_trait(manson_ptr,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+      manson_hex := 24728;
+      critter_attempt_placement(manson_ptr,manson_hex, 1);
+*/
+   end
+
+   if( elevation( dude_obj ) == 0 ) then
+      Lighting;
+   else
+      Cavern_Lighting;
+
+   if( ( global_var(GVAR_BH_MINE) < MINE_FIXED_CASH ) and ( Damage_Timer_Started == 0 ) ) then begin
+      Damage_Timer_Started := 1;
+      add_timer_event( self_obj, game_ticks(20), 2 );
+   end
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+end
+
+procedure map_update_p_proc begin
+   //set_map_var( MVAR_Came_From_Broken2, 1 ); - comment out by killap
+
+   if( elevation( dude_obj ) == 0 ) then
+      Lighting;
+   else
+      Cavern_Lighting;
+
+   if( map_var(MVAR_Blew_Up_Purifier) == 1 ) then begin
+      debug_msg( "Doin' Blow up");
+      set_map_var(MVAR_Blew_Up_Purifier, 0);
+      // Get the player out of the mine and "destroy" it.
+      move_to( dude_obj, 14095, 0 );
+      critter_attempt_placement( dude_obj, 14095, 0 );
+      move_to( broken_hills_cavein, 9091, 0 );
+
+      // Add new blocking hexes to prevent entry into mine.
+      create_object( PID_BLOCKING_HEX, 9493, 0 );
+      create_object( PID_BLOCKING_HEX, 9292, 0 );
+      create_object( PID_BLOCKING_HEX, 9491, 0 );
+
+      add_timer_event( self_obj, game_ticks(2), 1);
+   end
+
+end
+
+//added by killap
+procedure map_exit_p_proc begin
+   set_global_var( GVAR_CAME_FROM_BROKEN2, 1 );
+end
+//end added
+
+procedure timed_event_p_proc begin
+   if( fixed_param == 1 ) then begin
+      gfade_in(600);
+   end
+   else if( fixed_param == 2 ) then begin
+      if( global_var(GVAR_BH_MINE) < MINE_FIXED_CASH ) then begin
+         if( elevation( dude_obj ) == 2 ) then
+            call CauseDamage;
+         add_timer_event( self_obj, game_ticks(20), 2);
+      end
+   end
+end
+
+procedure CauseDamage begin
+   variable dmg;
+
+   // This function is meant to apply the mine's Radon damage to
+   // unprotected party members in the mine.
+   if( not( wearing_protective_gear( dude_obj ) ) ) then begin
+      apply_radon_damage( dude_obj )
+   end
+   if (Vic_In_Party) then begin
+      if( not( wearing_protective_gear( Vic_Ptr ) ) ) then begin
+         apply_radon_damage( Vic_Ptr )
+      end
+   end
+   if (Myron_In_Party) then begin
+      if( not( wearing_protective_gear( Myron_Ptr ) ) ) then begin
+         apply_radon_damage( Myron_Ptr )
+      end
+   end
+   if (Marcus_In_Party) then begin
+      if( not( wearing_protective_gear( Marcus_Ptr ) ) ) then begin
+         apply_radon_damage( Marcus_Ptr )
+      end
+   end
+   if (MacRae_In_Party) then begin
+      if( not( wearing_protective_gear( MacRae_Ptr ) ) ) then begin
+         apply_radon_damage( MacRae_Ptr )
+      end
+   end
+   if (Sulik_In_Party) then begin
+      if( not( wearing_protective_gear( Sulik_Ptr ) ) ) then begin
+         apply_radon_damage( Sulik_Ptr )
+      end
+   end
+   if (Lenny_In_Party) then begin
+      if( not( wearing_protective_gear( Lenny_Ptr ) ) ) then begin
+         apply_radon_damage( Lenny_Ptr )
+      end
+   end
+   if (Cyberdog_In_Party) then begin
+      if( not( wearing_protective_gear( Cyberdog_Ptr ) ) ) then begin
+         apply_radon_damage( Cyberdog_Ptr )
+      end
+   end
+   if (Doc_In_Party) then begin
+      if( not( wearing_protective_gear( Doc_Ptr ) ) ) then begin
+         apply_radon_damage( Doc_Ptr )
+      end
+   end
+   if (Goris_In_Party) then begin
+      if( not( wearing_protective_gear( Goris_Ptr ) ) ) then begin
+         apply_radon_damage( Goris_Ptr )
+      end
+   end
+   if (Davin_In_Party) then begin
+      if( not( wearing_protective_gear( Davin_Ptr ) ) ) then begin
+         apply_radon_damage( Davin_Ptr )
+      end
+   end
+   if (Miria_In_Party) then begin
+      if( not( wearing_protective_gear( Miria_Ptr ) ) ) then begin
+         apply_radon_damage( Miria_Ptr )
+      end
+   end
+end

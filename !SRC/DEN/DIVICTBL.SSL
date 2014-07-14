@@ -1,0 +1,43 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Vic's workbench
+        Location: DenBus2
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: April 20, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+#include "..\headers\Den.h"
+
+#define NAME                        SCRIPT_DIVICTBL
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+import variable vic_table_obj;
+
+procedure start begin
+   vic_table_obj := self_obj;
+end
+procedure map_enter_p_proc begin
+   vic_table_obj := self_obj;
+end
+procedure map_update_p_proc begin
+   vic_table_obj := self_obj;
+end

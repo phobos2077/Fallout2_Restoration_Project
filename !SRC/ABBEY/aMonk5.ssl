@@ -1,0 +1,284 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\define.h"
+//#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\<TownMapName.h>"
+
+#define NAME                    SCRIPT_AMONK5          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_ABBEY           //Global variable name for this Town
+
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\command.h"
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\ModReact.h"
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\partybkg.h"
+
+#define LVAR_Flags                      (0)
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_stolen_before              (7)
+
+procedure start;
+procedure description_p_proc;
+procedure destroy_p_proc;
+procedure map_enter_p_proc;
+procedure look_at_p_proc;
+procedure pickup_p_proc;
+procedure timed_event_p_proc;
+procedure talk_p_proc;
+
+#define LVAR_Abbey_Card                    (2)
+
+procedure fNode;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node011a;
+procedure Node011b;
+procedure Node011c;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node999; // Exit dialog
+procedure push_p_proc;
+
+procedure start
+begin
+end
+
+procedure critter_p_proc begin
+   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+      attack(dude_obj);
+   end
+end
+
+procedure look_at_p_proc
+begin
+ script_overrides;
+ if (local_var(LVAR_Herebefore) == 0) then
+   display_msg(mstr(100));
+ else
+   display_msg(mstr(101)); 
+end
+
+procedure description_p_proc
+begin
+ script_overrides;
+ display_msg(mstr(102));
+end
+
+procedure timed_event_p_proc
+begin
+ if (fixed_param == 1) and
+    (not combat_is_initialized) and
+    (self_can_see_dude) and
+    (self_distance_from_dude <= 4) then
+  call Node001;
+ add_timer_event(self_obj, random(5,10)*ONE_GAME_SECOND, 1);
+end
+
+procedure talk_p_proc
+begin
+ if (not dude_is_stupid) then begin
+  start_gdialog(NAME,self_obj,4,-1,-1);
+  gSay_start;
+  if (local_var(LVAR_Herebefore) == 0) then begin
+      call Node010;
+      set_local_var(LVAR_Herebefore,1);
+  end else
+      call Node001;
+  gSay_end;
+  end_dialogue;
+ end
+ else
+  float_msg(self_obj, mstr(203), FLOAT_MSG_LIGHT_RED);
+end
+
+procedure map_enter_p_proc
+begin
+ critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ABBEY);
+ add_timer_event(self_obj, random(5,10)*ONE_GAME_SECOND, 1);
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      if (global_var(GVAR_TOWN_REP_ABBEY) != -30) then
+         set_global_var(GVAR_TOWN_REP_ABBEY, -30);
+   end
+end
+
+procedure destroy_p_proc
+begin
+ inc_good_critter
+end
+
+procedure pickup_p_proc
+begin
+ if (source_obj == dude_obj) then begin
+  if (local_var(LVAR_stolen_before) == 1) then begin
+   set_global_var(GVAR_TOWN_REP_ABBEY, -30);
+   attack(dude_obj);
+  end else begin
+   float_msg(self_obj, mstr(500), FLOAT_MSG_RED);
+   set_local_var(LVAR_stolen_before, 1);
+  end
+ end
+end
+
+procedure fNode
+begin
+ floater_rand(200, 202);
+end
+
+procedure Node001
+begin
+ Reply(300);
+
+ if ( (global_var(GVAR_ABBEY_BEAST) >= 4) and (local_var(LVAR_Abbey_Card) == 0) ) then
+   NOption(600,Node009,4);
+ if ( (global_var(GVAR_ABBEY_KNOWLEDGE_EPA) == 2) and (obj_is_carrying_obj_pid(dude_obj, PID_EPA_BOTANY_HOLODISK )) ) then
+   NOption(430,Node014,4);
+ if (global_var(GVAR_ABBEY_KNOWLEDGE_EPA) == 0) then
+   NOption(301,Node002,4);
+ NOption(302,Node003,4);
+ if (global_var(GVAR_ABBEY_BEAST) < 4) then 
+   NOption(303,Node004,4);
+ NOption(307,Node013,4);
+ NOption(306,Node999,4);
+end
+
+procedure Node002
+begin
+ Reply(400);
+ if (has_skill(dude_obj, SKILL_SCIENCE) > 69) then
+   NOption(420,Node011,4);
+ NOption(401,Node001,4);
+end
+
+procedure Node003
+begin
+ Reply(402);
+ NOption(403,Node001,4);
+end
+
+procedure Node004
+begin
+ Reply(404);
+ NOption(405,Node007,4);
+end
+
+procedure Node007
+begin
+ Reply(406);
+ NOption(407,Node008,4);
+end
+
+procedure Node008
+begin
+ Reply(408);
+ NOption(409,Node001,4);
+end
+
+procedure Node005
+begin
+ if (global_var(GVAR_ABBEY_BEAST) >= 4) then
+   Reply(550);
+ else
+   Reply(414);
+   
+ NOption(415,Node001,4);
+end
+
+procedure Node006
+begin
+ Reply(412);
+ NOption(413,Node001,4);
+end
+
+procedure Node009 begin
+   give_pid_qty(dude_obj,140,1)
+   set_local_var(LVAR_Abbey_Card,1);
+   Reply(601);
+   NOption(602,Node999,4);
+end
+
+procedure Node010 begin
+   Reply(650);
+   NOption(651,Node001,4);
+   NOption(652,Node999,4);
+end
+
+procedure Node011 begin
+   Reply(421);
+   NOption(4210,Node011a,4);
+   NOption(423,Node001,4);
+end
+
+procedure Node011a begin
+   Reply(4211);
+   NOption(4212,Node011b,4);
+   NOption(423,Node001,4);
+end
+
+procedure Node011b begin
+   Reply(4213);
+   NOption(422,Node012,4);
+   NOption(4220,Node011c,4);
+end
+
+procedure Node011c begin
+   Reply(4221);
+   NOption(4222,Node001,4);
+end
+
+procedure Node012 begin
+   set_global_var(GVAR_ABBEY_KNOWLEDGE_EPA,1);
+   Reply(424);
+   NOption(425,Node001,4);
+   NOption(426,Node999,4);
+end
+
+procedure Node013 begin
+   Reply(308);
+   NOption(304,Node005,4);
+   NOption(305,Node006,4);
+end
+
+procedure Node014 begin
+   Reply(431);
+   NOption(433,Node015,4);
+end
+
+procedure Node015 begin
+   //check if dude has access to the computers
+   if (local_var(LVAR_Abbey_Card) == 0) then begin
+      if (obj_is_carrying_obj_pid(dude_obj,PID_EPA_BOTANY_HOLODISK)) then
+         remove_pid_qty(dude_obj, PID_EPA_BOTANY_HOLODISK, 1)
+      set_global_var(GVAR_ABBEY_KNOWLEDGE_EPA,4);
+      display_msg(message_str(SCRIPT_ACOMPU, 1000));
+      give_xp(750);
+      Reply(432);
+      NOption(435,Node999,4);
+   end else begin
+      Reply(436);
+      NOption(437,Node999,4);
+      set_global_var(GVAR_ABBEY_KNOWLEDGE_EPA,3);
+   end
+   NOption(434,Node001,4);
+end
+procedure Node999
+begin
+end
+
+procedure push_p_proc begin
+end

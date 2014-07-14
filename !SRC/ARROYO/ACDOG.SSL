@@ -1,0 +1,104 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Arroyo Villager
+        Location: Arroyo
+        Description: Generic villager in Arroyo. No weapons, flees if confronted.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 01, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_GENERIC
+
+#include "..\headers\command.h"
+#include "..\headers\argarden.h"
+
+
+procedure start;
+procedure critter_p_proc;
+procedure destroy_p_proc;
+procedure map_enter_p_proc;
+
+#define LVAR_Joined_Player              (0)
+
+import variable Nagor_Tile;
+variable Dog_Tile;
+
+procedure start begin
+   if ((local_var(LVAR_Joined_Player) != 1) or (cur_map_index == MAP_ARROYO_VILLAGE)) then begin
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ARROYO);
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_DOG);
+   end
+end
+
+procedure map_enter_p_proc begin
+   if ( (global_var(GVAR_ARROYO_DOG) == QUEST_NONE) or (reached_tl_4) or (global_var(GVAR_ARROYO_DOG) == DOG_RUN_OFF) ) then begin //edit by killap - added: or (reached_tl_4) or (global_var(GVAR_ARROYO_DOG) == DOG_RUN_OFF)
+       set_obj_visibility(self_obj,1);          // invis
+   end
+   else begin
+       set_obj_visibility(self_obj,0);          // vis
+   end
+end
+
+procedure critter_p_proc begin
+   if ((cur_map_index == MAP_ARROYO_WILDERNESS) and (obj_is_visible_flag(self_obj))) then begin
+       if ((tile_distance_objs(self_obj,dude_obj) < 6) and (local_var(LVAR_Joined_Player) == 0)) then begin
+           set_local_var(LVAR_Joined_Player,1);
+           party_add(self_obj);
+           floater(905);
+           critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+           set_global_var(GVAR_ARROYO_DOG,DOG_RETURNED);
+       end
+       if (local_var(LVAR_Joined_Player) == 1) then begin
+           Dog_Tile:=tile_num_in_direction(tile_num(dude_obj),random(0,5),random(1,3));
+           if (tile_distance(tile_num(self_obj),Dog_Tile) > 5) then begin
+               animate_run_to_tile(Dog_Tile);
+           end
+           else begin
+               animate_move_to_tile(Dog_Tile);
+           end
+       end
+   end
+   else if (obj_is_visible_flag(self_obj)) then begin
+       if (local_var(LVAR_Joined_Player) == 1) then begin
+           party_remove(self_obj);
+           critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ARROYO);
+           set_local_var(LVAR_Joined_Player,2);
+       end
+       if (random(0,49) == 1) then begin
+           Dog_Tile:=tile_num_in_direction(Nagor_Tile,random(0,5),random(1,3));
+           if (tile_distance(tile_num(self_obj),Dog_Tile) > 5) then begin
+               animate_run_to_tile(Dog_Tile);
+           end
+           else begin
+               animate_move_to_tile(Dog_Tile);
+           end
+       end
+   end
+end
+
+procedure destroy_p_proc begin
+   set_global_var(GVAR_ARROYO_DOG,DOG_DEAD);
+   if (cur_map_index == MAP_ARROYO_WILDERNESS) then
+       set_map_var(MVAR_Dog_Already_Dead,1);
+
+end

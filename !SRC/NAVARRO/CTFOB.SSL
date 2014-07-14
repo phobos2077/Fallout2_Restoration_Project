@@ -1,0 +1,28 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_CTFOB
+#include "..\headers\command.h"
+
+procedure spatial_p_proc;
+procedure start;
+
+#define LVAR_Gave_Reward         (0)
+
+procedure start begin
+end
+
+procedure spatial_p_proc begin
+   if( ( local_var( LVAR_Gave_Reward ) == 0 ) and
+       ( obj_is_carrying_obj_pid( dude_obj, PID_TANKER_FOB ) > 0 ) ) then begin
+      set_local_var( LVAR_Gave_Reward, 1 );
+      if (global_var(GVAR_NAVARRO_FOB) < NAVARRO_HAVE_FOB) then begin
+         display_msg(mstr(100));
+         give_xp(EXP_RETRIEVE_FOB);
+         set_global_var(GVAR_NAVARRO_FOB, NAVARRO_HAVE_FOB);
+      end
+   end
+end

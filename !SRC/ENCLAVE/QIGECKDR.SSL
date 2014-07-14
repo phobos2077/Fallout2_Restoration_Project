@@ -1,0 +1,68 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Wood Door
+        Locked: NO
+        Trapped: NO
+        Closing: YES
+        Description: This is a generic locked and trapped wooden door.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_QIGECKDR
+
+#include "..\headers\command.h"
+
+/* Defines and Macros */
+
+procedure start;
+procedure use_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure use_obj_on_p_proc;
+
+#define LVAR_Used_GECK          (0)
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   if (not(obj_is_carrying_obj_pid(dude_obj,PID_GECK))) then begin
+       script_overrides;
+       float_msg(dude_obj,g_mstr(1016),FLOAT_MSG_WHITE);
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (local_var(LVAR_Used_GECK) == 0) then
+       obj_lock(self_obj);
+end
+
+procedure map_update_p_proc begin
+   if (local_var(LVAR_Used_GECK) == 0) then
+       obj_lock(self_obj);
+end
+
+procedure use_obj_on_p_proc begin
+   if (obj_pid(obj_being_used_with) == PID_GECK) then begin
+       script_overrides;
+       explosion(tile_num(self_obj),elevation(self_obj),60);
+       set_local_var(LVAR_Used_GECK,1);
+       display_msg(g_mstr(1017));
+       destroy_object(self_obj);
+   end
+end

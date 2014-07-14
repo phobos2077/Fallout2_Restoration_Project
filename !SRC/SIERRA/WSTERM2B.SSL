@@ -1,0 +1,584 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\depolva.h"
+
+#define NAME                    SCRIPT_WSTERM2B
+
+#include "..\headers\command.h"
+
+#define Check_Force_Fields      (map_var(MVAR_Level2_Fields) == FIELD_DISABLED)
+#define LOW_DAMAGE              (20)
+#define HIGH_DAMAGE             (30)
+
+#define PID_ELECTRIC_FLOOR      (33555661)
+
+/* Standard Script Procedures */
+procedure start;
+procedure talk_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_p_proc;
+procedure damage_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+/*/ Disabled by Seraph
+procedure Node001a;
+procedure Node001b;
+//*/
+procedure Node010;
+procedure Node010a;
+procedure Node010b;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node013a;
+procedure Node013b;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node016a;
+procedure Node016b;
+procedure Node016c;
+procedure Node016d;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Comp_Off                   (4)
+/* Disabled by Seraph
+#define LVAR_Shock_1                    (1)
+#define LVAR_Field_1                    (2)
+//*/
+#define LVAR_Hack_10                    (5)
+#define LVAR_Guess_10                   (6)
+#define LVAR_Hack_13                    (7)
+#define LVAR_Guess_13                   (8)
+#define LVAR_Seen_16                    (9)
+#define LVAR_Order_16                   (10)
+#define LVAR_Notice_16                  (11)
+#define LVAR_Penpal_16                  (12)
+#define LVAR_Trade_16                   (13)
+#define LVAR_Gave_Xp_Shock              (14)
+#define LVAR_Gave_Xp_Field              (15)
+#define LVAR_Hex_Field2a                (16)
+#define LVAR_Hex_Field2b                (17)
+#define LVAR_Hex_Field2c                (18)
+#define LVAR_Hex_Field2d                (19)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+import variable Field2a_Ptr;
+import variable Field2b_Ptr;
+import variable Field2c_Ptr;
+import variable Field2d_Ptr;
+
+/* Local variables which do not need to be saved between map changes. */
+variable Injure_Player:=0;
+
+procedure start begin
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+end
+
+procedure use_p_proc begin
+   variable Damage;
+
+   script_overrides;
+
+   if (local_var(LVAR_Comp_Off) == 1) then
+       display_msg(mstr(200));
+   else if (get_critter_stat(source_obj,STAT_iq) < 4) then begin
+       if (source_obj == dude_obj) then
+           // display_msg(message_str(SCRIPT_WSTERM1B,102)); // Disabled by Seraph
+           display_mstr(102); // Seraph's Code
+       else
+           // display_msg(obj_name(source_obj)+message_str(SCRIPT_WSTERM1B,200)); // Disabled by Seraph
+           display_mstr(400); // Seraph's Code
+   end else
+       dialogue_system_enter;
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   start_gdialog(NAME,self_obj,4,-1,-1);
+   gSay_Start;
+       call Node001;
+   gSay_End;
+   end_dialogue;
+
+   if (Injure_Player == 1) then begin
+       Injure_Player+=1;
+       critter_dmg(source_obj,LOW_DAMAGE,DMG_explosion);
+   end
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   if ((map_var(MVAR_Electric_Floor_2) == 1) and (map_var(MVAR_Level2_Fields) == 1)) then
+       Reply(103);
+   else if ((map_var(MVAR_Electric_Floor_2) == 0) and (map_var(MVAR_Level2_Fields) == 1)) then
+       Reply(104);
+   else if ((map_var(MVAR_Electric_Floor_2) == 1) and (map_var(MVAR_Level2_Fields) == 0)) then
+       Reply(105);
+   else
+       Reply(106);
+
+   if (map_var(MVAR_Electric_Floor_2) == 0) then
+       NOption(107,Node010,004);
+   if (map_var(MVAR_Level2_Fields) == 0) then
+       NOption(108,Node013,004);
+   NOption(109,Node016,004);
+   NOption(110,Node999,004);
+end
+
+/* Disabled by Seraph
+procedure Node001a begin
+   inc_local_var(LVAR_Shock_1);
+
+   call Node010;
+end
+
+procedure Node001b begin
+   inc_local_var(LVAR_Field_1);
+
+   call Node013;
+end
+//*/
+
+procedure Node010 begin
+   Reply(112);
+
+   if (local_var(LVAR_Hack_10) == 0) then
+       NOption(113,Node010a,008);
+   if (local_var(LVAR_Guess_10) == 0) then
+       NOption(114,Node010b,004);
+   NOption(115,Node001,004);
+   NOption(116,Node999,004);
+end
+
+procedure Node010a begin
+   variable test;
+
+   inc_local_var(LVAR_Hack_10);
+
+   if (has_skill(dude_obj,SKILL_SCIENCE) > 89) then
+       call Node012;
+   else begin
+       test:=roll_vs_skill(dude_obj,SKILL_SCIENCE,-40);
+       if (is_success(test)) then
+           call Node012;
+       else if (is_critical(test)) then
+           call Node025;
+       else
+           call Node011;
+   end
+end
+
+procedure Node010b begin
+   inc_local_var(LVAR_Guess_10);
+
+   if (is_success(do_check(dude_obj,STAT_lu,-2))) then // Seraph's Fix: Replaced "source_obj" with "dude_obj"
+       call Node021;
+   else
+       call Node022;
+end
+
+procedure Node011 begin // Shock Plates on (Fail Hacking)
+   variable floor_ptr;
+
+   if (tile_contains_obj_pid(25299,elevation(self_obj),PID_ELECTRIC_FLOOR)) then begin
+       floor_ptr:=tile_contains_pid_obj(25299,elevation(self_obj),PID_ELECTRIC_FLOOR);
+       set_obj_visibility(floor_ptr,0);
+   end
+
+   set_map_var(MVAR_Electric_Floor_2,0);
+
+   Reply(117);
+
+   NOption(118,Node001,004);
+   NOption(119,Node999,004);
+end
+
+procedure Node013 begin // Force Fields
+   Reply(123);
+
+   if (local_var(LVAR_Hack_13) == 0) then
+       NOption(124,Node013a,004);
+   if (local_var(LVAR_Guess_13) == 0) then
+       NOption(125,Node013b,004);
+   NOption(126,Node001,004);
+   NOption(127,Node999,004);
+end
+
+procedure Node013a begin
+   variable test;
+
+   inc_local_var(LVAR_Hack_13);
+
+   if (has_skill(dude_obj,SKILL_SCIENCE) > 89) then
+       call Node015;
+   else begin
+       test:=roll_vs_skill(dude_obj,SKILL_SCIENCE,-40);
+       if (is_success(test)) then
+           call Node015;
+       else if (is_critical(test)) then
+           call Node025;
+       else
+           call Node014; //was Node011 - killap
+   end
+end
+
+procedure Node013b begin
+   inc_local_var(LVAR_Guess_13);
+
+   if (is_success(do_check(dude_obj,STAT_lu,-2))) then
+       call Node023;
+   else
+       call Node024;
+end
+
+procedure Node014 begin
+   set_map_var(MVAR_Level2_Fields,FIELD_ENABLED);
+   //set_map_var(MVAR_Field_2a,0);
+   //set_map_var(MVAR_Field_2b,0);
+   //set_map_var(MVAR_Field_2c,0);
+   //set_map_var(MVAR_Field_2d,0);
+
+   //Field2a_Ptr:=create_object_sid(PID_NS_FORCE_FIELD,local_var(LVAR_Hex_Field2a),elevation(self_obj),SCRIPT_WSFELD2A);
+   //Field2b_Ptr:=create_object_sid(PID_NS_FORCE_FIELD,local_var(LVAR_Hex_Field2b),elevation(self_obj),SCRIPT_WSFELD2B);
+   //Field2c_Ptr:=create_object_sid(PID_NS_FORCE_FIELD,local_var(LVAR_Hex_Field2c),elevation(self_obj),SCRIPT_WSFELD2C);
+   //Field2d_Ptr:=create_object_sid(PID_NS_FORCE_FIELD,local_var(LVAR_Hex_Field2d),elevation(self_obj),SCRIPT_WSFELD2D);
+
+   Reply(128);
+
+   NOption(129,Node001,004);
+   NOption(130,Node999,004);
+end
+
+procedure Node016 begin
+   if (local_var(LVAR_Seen_16) == 0) then begin
+       set_local_var(LVAR_Seen_16,1);
+       Reply(134);
+   end
+   else
+       Reply(135);
+
+   if (local_var(LVAR_Order_16) == 0) then
+       NOption(136,Node016a,004);
+   if (local_var(LVAR_Notice_16) == 0) then
+       NOption(137,Node016b,004);
+   if (local_var(LVAR_Penpal_16) == 0) then
+       NOption(138,Node016c,004);
+   if (local_var(LVAR_Trade_16) == 0) then
+       NOption(139,Node016d,004);
+   NOption(140,Node001,004);
+   NOption(141,Node999,004);
+end
+
+procedure Node016a begin
+   inc_local_var(LVAR_Order_16);
+   call Node017;
+end
+
+procedure Node016b begin
+   inc_local_var(LVAR_Notice_16);
+   call Node018;
+end
+
+procedure Node016c begin
+   inc_local_var(LVAR_Penpal_16);
+   call Node019;
+end
+
+procedure Node016d begin
+   inc_local_var(LVAR_Trade_16);
+   call Node020;
+end
+
+procedure Node017 begin
+   Reply(142);
+
+   NOption(143,Node016,004);
+   NOption(144,Node999,004);
+end
+
+procedure Node018 begin
+   Reply(145);
+
+   NOption(143,Node016,004);
+   NOption(144,Node999,004);
+end
+
+procedure Node020 begin
+   Reply(150);
+
+   NOption(143,Node016,004);
+   NOption(144,Node999,004);
+end
+
+procedure Node019 begin // Shock Plates off (Virus)
+   variable floor_ptr;
+
+   if (tile_contains_obj_pid(25299,elevation(self_obj),PID_ELECTRIC_FLOOR)) then begin
+       floor_ptr:=tile_contains_pid_obj(25299,elevation(self_obj),PID_ELECTRIC_FLOOR);
+       set_obj_visibility(floor_ptr,1);
+   end
+
+   //added by killap - disable forcefield as well (makes sense since computer controlling them is gone
+   set_map_var(MVAR_Level2_Fields,FIELD_DISABLED);
+   set_map_var(MVAR_Field_2a,FIELD_DESTROYED);
+   set_map_var(MVAR_Field_2b,FIELD_DESTROYED);
+   set_map_var(MVAR_Field_2c,FIELD_DESTROYED);
+   set_map_var(MVAR_Field_2d,FIELD_DESTROYED);
+
+   destroy_object(Field2a_Ptr);
+   destroy_object(Field2b_Ptr);
+   destroy_object(Field2c_Ptr);
+   destroy_object(Field2d_Ptr);
+
+   Field2a_Ptr:=0;
+   Field2b_Ptr:=0;
+   Field2c_Ptr:=0;
+   Field2d_Ptr:=0;
+   //end add
+   
+   set_local_var(LVAR_Comp_Off,1);
+   set_map_var(MVAR_Electric_Floor_2,1);
+
+   Reply(148);
+
+   NOption(144,Node999,004);
+end
+
+procedure Node012 begin // Shock Plates off (Success Hacking)
+   variable floor_ptr;
+
+   if (tile_contains_obj_pid(25299,elevation(self_obj),PID_ELECTRIC_FLOOR)) then begin
+       floor_ptr:=tile_contains_pid_obj(25299,elevation(self_obj),PID_ELECTRIC_FLOOR);
+       set_obj_visibility(floor_ptr,1);
+   end
+
+   set_map_var(MVAR_Electric_Floor_2,1);
+
+   if (local_var(LVAR_Gave_Xp_Shock) == 0) then begin
+       inc_local_var(LVAR_Gave_Xp_Shock);
+// Begin Seraph's Code
+       display_msg(message_str(SCRIPT_GENERIC,1019));
+// End Seraph's Code
+       give_xp(EXP_HACK_SIERRA_COMP_2B_SHOCK);
+   end
+
+   Reply(120);
+
+   NOption(121,Node001,004);
+   NOption(122,Node999,004);
+end
+
+procedure Node021 begin // Shock Plates off (Success Guessing)
+   variable floor_ptr;
+
+   if (tile_contains_obj_pid(25299,elevation(self_obj),PID_ELECTRIC_FLOOR)) then begin
+       floor_ptr:=tile_contains_pid_obj(25299,elevation(self_obj),PID_ELECTRIC_FLOOR);
+       set_obj_visibility(floor_ptr,1);
+   end
+
+   set_map_var(MVAR_Electric_Floor_2,1);
+
+   Reply(153);
+
+   NOption(154,Node001,004);
+   NOption(155,Node999,004);
+end
+
+procedure Node022 begin // Shock Plates on (Fail Guessing)
+   variable floor_ptr;
+
+   if (tile_contains_obj_pid(25299,elevation(self_obj),PID_ELECTRIC_FLOOR)) then begin
+       floor_ptr:=tile_contains_pid_obj(25299,elevation(self_obj),PID_ELECTRIC_FLOOR);
+       set_obj_visibility(floor_ptr,0);
+   end
+
+   set_map_var(MVAR_Electric_Floor_2,0);
+
+   Reply(156);
+
+   NOption(157,Node001,004);
+   NOption(158,Node999,004);
+end
+
+procedure Node015 begin // Force Fields Off (Success Hacking)
+   set_map_var(MVAR_Level2_Fields,1);
+   set_map_var(MVAR_Field_2a,FIELD_DESTROYED);
+   set_map_var(MVAR_Field_2b,FIELD_DESTROYED);
+   set_map_var(MVAR_Field_2c,FIELD_DESTROYED);
+   set_map_var(MVAR_Field_2d,FIELD_DESTROYED);
+
+   destroy_object(Field2a_Ptr);
+   destroy_object(Field2b_Ptr);
+   destroy_object(Field2c_Ptr);
+   destroy_object(Field2d_Ptr);
+
+   Field2a_Ptr:=0;
+   Field2b_Ptr:=0;
+   Field2c_Ptr:=0;
+   Field2d_Ptr:=0;
+
+
+   if (local_var(LVAR_Gave_Xp_Field) == 0) then begin
+       inc_local_var(LVAR_Gave_Xp_Field);
+       give_xp(EXP_HACK_SIERRA_COMP_2B_FIELD);
+   end
+
+   Reply(131);
+
+   NOption(132,Node001,004);
+   NOption(133,Node999,004);
+end
+
+procedure Node023 begin // Force Fields off (Success Guessing)
+   set_map_var(MVAR_Level2_Fields,FIELD_DISABLED);
+   set_map_var(MVAR_Field_2a,FIELD_DESTROYED);
+   set_map_var(MVAR_Field_2b,FIELD_DESTROYED);
+   set_map_var(MVAR_Field_2c,FIELD_DESTROYED);
+   set_map_var(MVAR_Field_2d,FIELD_DESTROYED);
+
+   destroy_object(Field2a_Ptr);
+   destroy_object(Field2b_Ptr);
+   destroy_object(Field2c_Ptr);
+   destroy_object(Field2d_Ptr);
+
+   Field2a_Ptr:=0;
+   Field2b_Ptr:=0;
+   Field2c_Ptr:=0;
+   Field2d_Ptr:=0;
+
+   Reply(159);
+
+   NOption(160,Node001,004);
+   NOption(161,Node999,004);
+end
+
+/*procedure Node024 begin // Force Fields on (Fail Guessing)
+   set_map_var(MVAR_Level2_Fields,FIELD_ENABLED);
+   set_map_var(MVAR_Field_2a,0);
+   set_map_var(MVAR_Field_2b,0);
+   set_map_var(MVAR_Field_2c,0);
+   set_map_var(MVAR_Field_2d,0);
+
+   Field2a_Ptr:=create_object_sid(PID_NS_FORCE_FIELD,local_var(LVAR_Hex_Field2a),elevation(self_obj),SCRIPT_WSFELD2A);
+   Field2b_Ptr:=create_object_sid(PID_NS_FORCE_FIELD,local_var(LVAR_Hex_Field2b),elevation(self_obj),SCRIPT_WSFELD2B);
+   Field2c_Ptr:=create_object_sid(PID_NS_FORCE_FIELD,local_var(LVAR_Hex_Field2c),elevation(self_obj),SCRIPT_WSFELD2C);
+   Field2d_Ptr:=create_object_sid(PID_NS_FORCE_FIELD,local_var(LVAR_Hex_Field2d),elevation(self_obj),SCRIPT_WSFELD2D);
+
+   Reply(162);
+
+   NOption(163,Node001,004);
+   NOption(164,Node999,004);
+end*/
+
+//added by killap
+procedure Node024 begin // Force Fields on (Fail Guessing)
+   set_map_var(MVAR_Level2_Fields,FIELD_ENABLED);
+
+   Reply(162);
+
+   NOption(163,Node001,004);
+   NOption(164,Node999,004);
+end 
+//end added
+
+procedure Node025 begin
+   set_local_var(LVAR_Comp_Off,1);
+   Injure_Player:=1;
+
+   Reply(165);
+
+   NOption(166,Node999,004);
+end
+
+//xxxxxxxxxxxxxxxxxxxx

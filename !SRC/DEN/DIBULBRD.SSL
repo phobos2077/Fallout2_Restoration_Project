@@ -1,0 +1,250 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_DIBULBRD
+#include "..\headers\command.h"
+#include "..\headers\Den.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+procedure use_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (0)
+#define LVAR_DEN_BB_NOTE                  (1)
+#define LVAR_Remove_Post_time             (2)
+
+/*
+#define state_bb_note_no                           (0)
+#define state_bb_note_seen                         (1)
+#define state_bb_note_removed                      (2)
+#define state_bb_note_done                         (3)
+#define bb_note(x)                                 (local_var(LVAR_DEN_BB_NOTE) == x)
+#define set_bb_note(x)                             if (x > local_var(LVAR_DEN_BB_NOTE)) then set_local_var(LVAR_DEN_BB_NOTE, x)
+*/
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+      end
+   end
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure use_p_proc begin
+   if (combat_is_initialized  == false) then begin
+      if (dude_is_stupid) then begin
+         call Node010;
+      end else if (becky_dead) then begin
+         call Node013;
+      end else begin
+         start_dialog_at_node(Node001);
+      end
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150);
+   set_examined;
+end
+
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   set_bb_note(state_bb_note_seen);
+   check_remove_time
+   if (bb_note(state_bb_note_seen)) then begin
+      Reply(200);
+      NOption(202, Node009, 004);
+   end else begin
+      Reply(201);
+      if (bb_note(state_bb_note_removed)) then begin
+         NOption(203, Node009, 004);
+      end
+   end
+   NOption(204, Node002, 004);
+   NOption(205, Node006, 004);
+   NOption(206, Node012, 004);
+   NOption(207, Node014, 004);
+end
+procedure Node002 begin
+   Reply(225);
+   NOption(1000, Node003, 004); // continue
+   NOption(1060, Node001, 004); // Return to Main Page
+   NOption(1020, Node999, 004); // Exit
+end
+procedure Node003 begin
+   set_metzger_known;
+   Reply(250);
+   NOption(1080, Node005, 004); // Special Note
+   NOption(1010, Node004, 004); // directions
+   NOption(1060, Node001, 004); // Return to Main Page
+   NOption(1020, Node999, 004); // Exit
+end
+procedure Node004 begin
+   Reply(275);
+   NOption(1080, Node005, 004); // Special Note
+   NOption(1060, Node001, 004); // Return to Main Page
+   NOption(1020, Node999, 004); // Exit
+end
+procedure Node005 begin
+   Reply(300);
+   NOption(1010, Node004, 004); // directions
+   NOption(1060, Node001, 004); // Return to Main Page
+   NOption(1020, Node999, 004); // Exit
+end
+procedure Node006 begin
+   Reply(325);
+   NOption(1050, Node007, 004); // Rebecca
+   NOption(1040, Node011, 004); // Frankie
+   NOption(1060, Node001, 004); // Return to Main Page
+   NOption(1020, Node999, 004); // Exit
+end
+procedure Node007 begin
+   set_becky_known;
+   Reply(350);
+   NOption(1010, Node008, 004); // directions
+   NOption(1040, Node011, 004); // Frankie
+   NOption(1060, Node001, 004); // Return to Main Page
+   NOption(1020, Node999, 004); // Exit
+end
+procedure Node008 begin
+   Reply(375);
+   NOption(1040, Node011, 004); // Frankie
+   NOption(1060, Node001, 004); // Return to Main Page
+   NOption(1020, Node999, 004); // Exit
+end
+procedure Node009 begin
+   Reply(400 + (bb_note(state_bb_note_seen) == false));
+   NOption(1060, Node001, 004); // Return to Main Page
+   NOption(1020, Node999, 004); // Exit
+end
+procedure Node010 begin
+   display_mstr(425);
+   dude_floater(426);
+end
+procedure Node011 begin
+   set_frankie_known;
+   Reply(450);
+   NOption(1050, Node007, 004); // Rebecca
+   NOption(1060, Node001, 004); // Return to Main Page
+   NOption(1020, Node999, 004); // Exit
+end
+procedure Node012 begin
+   Reply(475);
+   NOption(1060, Node001, 004); // Return to Main Page
+   NOption(1020, Node999, 004); // Exit
+end
+procedure Node013 begin
+   display_mstr(500);
+end
+procedure Node014 begin
+   Reply(525);
+   NOption(1090, Node015, 004); // Tubby
+   NOption(1030, Node017, 004); // Flick
+   NOption(1070, Node018, 004); // Smitty
+   NOption(1060, Node001, 004); // Return to Main Page
+   NOption(1020, Node999, 004); // Exit
+end
+procedure Node015 begin
+   Reply(550);
+   NOption(1010, Node016, 004); // directions
+   NOption(1030, Node017, 004); // Flick
+   NOption(1070, Node018, 004); // Smitty
+   NOption(1060, Node001, 004); // Return to Main Page
+   NOption(1020, Node999, 004); // Exit
+end
+procedure Node016 begin
+   Reply(575);
+   NOption(1030, Node017, 004); // Flick
+   NOption(1070, Node018, 004); // Smitty
+   NOption(1060, Node001, 004); // Return to Main Page
+   NOption(1020, Node999, 004); // Exit
+end
+procedure Node017 begin
+   Reply(600);
+   NOption(1090, Node015, 004); // Tubby
+   NOption(1070, Node018, 004); // Smitty
+   NOption(1060, Node001, 004); // Return to Main Page
+   NOption(1020, Node999, 004); // Exit
+end
+procedure Node018 begin
+   Reply(625);
+   NOption(1010, Node019, 004); // directions
+   NOption(1090, Node015, 004); // Tubby
+   NOption(1030, Node017, 004); // Flick
+   NOption(1060, Node001, 004); // Return to Main Page
+   NOption(1020, Node999, 004); // Exit
+end
+procedure Node019 begin
+   Reply(650);
+   NOption(1090, Node015, 004); // Tubby
+   NOption(1030, Node017, 004); // Flick
+   NOption(1060, Node001, 004); // Return to Main Page
+   NOption(1020, Node999, 004); // Exit
+end

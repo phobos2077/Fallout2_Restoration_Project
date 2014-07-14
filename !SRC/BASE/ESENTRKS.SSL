@@ -1,0 +1,72 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_ESENTRKS
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure use_p_proc;
+procedure description_p_proc;
+procedure map_enter_p_proc;
+procedure damage_p_proc;
+
+import variable base_enterance_rocks;
+
+procedure start begin
+   base_enterance_rocks := self_obj;
+end
+
+procedure map_enter_p_proc begin
+   base_enterance_rocks := self_obj;
+end
+
+procedure use_p_proc begin
+end
+
+procedure description_p_proc begin
+end
+
+procedure damage_p_proc begin
+variable should_say_message;
+   if (source_obj != 0) then begin
+      if (weapon_dmg_type(source_obj) == DMG_explosion) then begin
+         should_say_message := true;
+      end
+   end
+   if (target_obj != 0) then begin
+      if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
+         should_say_message := true;
+      end
+   end
+
+   if (should_say_message) then begin
+      display_mstr(100);
+   end
+end

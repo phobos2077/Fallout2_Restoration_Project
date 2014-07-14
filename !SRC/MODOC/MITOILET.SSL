@@ -1,0 +1,44 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Toilet
+        Location: Modoc Inn outhouse toilet
+        Description:
+
+        Log:
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_MITOILET
+#include "..\headers\command.h"
+#include "..\headers\Modoc.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+
+#define LVAR_Examined 0
+
+procedure start begin
+end
+
+procedure description_p_proc begin
+   if (obj_is_open(self_obj)) then begin
+      script_overrides;
+      display_mstr(100);
+   end
+end
+
+procedure use_p_proc begin
+   if (obj_is_open(self_obj)) then begin
+      script_overrides;
+      load_map(MAP_MODOC_DOWNTHESHITTER,0);
+   end
+end

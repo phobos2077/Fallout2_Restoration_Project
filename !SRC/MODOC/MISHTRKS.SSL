@@ -1,0 +1,145 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Shitter Rocks
+        Location: Modoc shitter rocks
+        Description:
+
+        Log:
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_MISHTRKS
+#include "..\headers\command.h"
+#include "..\headers\Modoc.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure destroy_p_proc;
+
+#define LVAR_Gave_XP                      (0)
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define destroy_rocks(xp)                 if (xp != 0) then begin                                        \
+                                             if (local_var(LVAR_Gave_XP) == false) then begin            \
+                                                set_local_var(LVAR_Gave_XP, true);                       \
+                                                give_xp(xp);                                             \
+                                             end                                                         \
+                                          end                                                            \
+                                          destroy_object(self_obj)
+#define remove_rocks(xp)                  gfade_out(1);                                                  \
+                                          check_set_obj_visiblility(self_obj,true);                             \
+                                          if (local_var(LVAR_Gave_XP) == false) then begin               \
+                                             set_local_var(LVAR_Gave_XP, true);                          \
+                                             display_mstr(200);                                          \
+                                             give_xp(xp);                                                \
+                                          end                                                            \
+                                          gfade_in(1)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+procedure start begin
+end
+procedure look_at_p_proc begin
+end
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+procedure use_p_proc begin
+end
+procedure use_skill_on_p_proc begin
+end
+
+#define shitter_explosion(tile)           if (combat_is_initialized == false) then begin     \
+                                             terminate_combat;                               \
+                                          end                                                \
+                                          explosion(tile, dude_elevation, 10000)
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 0) then begin
+   end else if (fixed_param == 1) then begin
+      shitter_explosion(20698);
+   end else if (fixed_param == 2) then begin
+      shitter_explosion(20102);
+   end else if (fixed_param == 3) then begin
+      shitter_explosion(21495);
+   end else if (fixed_param == 4) then begin
+      shitter_explosion(21298);
+   end else if (fixed_param == 5) then begin
+      shitter_explosion(20303);
+   end else if (fixed_param == 6) then begin
+      shitter_explosion(21102);
+   end else if (fixed_param == 7) then begin
+      shitter_explosion(dude_tile);
+   end
+end
+#define add_explosion(x)         add_timer_event(self_obj, (x * 6), x)
+procedure damage_p_proc begin
+variable should_explode := false;
+   if (shitter_has_blown == false) then begin
+      if (source_obj != 0) then begin
+         debug_msg(" obj_pid(source_obj) == "+obj_pid(source_obj));
+         if (weapon_dmg_type(source_obj) == DMG_explosion) then begin
+            should_explode := true;
+         end
+      end
+      if (target_obj != 0) then begin
+         debug_msg(" obj_pid(target_obj) == "+obj_pid(target_obj));
+         if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
+            should_explode := true;
+         end
+      end
+
+      if (should_explode) then begin
+         set_shitter_blown;
+         debug_msg("setting set_shitter_blown");
+         if (leaving_shitter) then begin
+            debug_msg("doing leaving_shitter");
+            set_did_fade_out;
+            gfade_out(5);
+            remove_rocks(EXP_BLOW_UP_ROCKS);
+         end else begin
+            set_global_var(GVAR_MODOC_SHITTY_DEATH, 1);
+            debug_msg("variable being set!");
+            debug_msg("doing death_explostion");
+            add_explosion(0);
+            add_explosion(1);
+            add_explosion(2);
+            add_explosion(3);
+            add_explosion(4);
+            add_explosion(5);
+            add_explosion(6);
+            add_explosion(7);
+         end
+      end
+   end
+end
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (shitter_has_blown) then begin
+         destroy_rocks(EXP_BLOW_UP_ROCKS);
+      end
+   end
+end
+procedure destroy_p_proc begin
+end

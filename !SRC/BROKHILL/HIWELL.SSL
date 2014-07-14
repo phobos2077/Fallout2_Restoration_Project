@@ -1,0 +1,367 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\broken1.h"
+
+#define NAME                    SCRIPT_HIWELL
+#define CUR_COMP_SCRIPT         SCRIPT_HIWELL
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+procedure timed_event_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node015a;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+
+procedure Node999;
+
+procedure HandleDwarf;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+   if( global_var( GVAR_TYPHON_QUEST_STATUS ) >= TYPHON_TREASURE_TOLD ) then begin
+      script_overrides;
+      dialogue_system_enter;
+   end
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+
+/**********************************************************************************
+**********************************************************************************/
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+
+/**********************************************************************************
+   Make sure the door is working.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+end
+
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged it breaks
+******************************************************************************************/
+
+procedure damage_p_proc begin
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   rm_timer_event( self_obj );
+   add_timer_event( self_obj, 1, 0 );
+   if( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_TREASURE_FOUND ) then
+      add_timer_event( self_obj, game_ticks( random( 10, 15 ) ), 1 );
+end
+
+procedure timed_event_p_proc begin
+   if( fixed_param == 0 ) then begin
+      if( map_var( MVAR_Dwarf_In_Well ) == 1 ) then begin
+         set_map_var( MVAR_Dwarf_In_Well, 2 );
+         call HandleDwarf;
+      end
+      else if( map_var( MVAR_Dwarf_In_Well ) == 0 ) then begin
+         add_timer_event( self_obj, 1, 0 );
+      end
+   end
+   else if( fixed_param == 1 ) then begin
+      if( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_TREASURE_FOUND ) then begin
+         float_msg( self_obj, mstr( random( 156, 165 ) ), FLOAT_COLOR_AFRAID );
+         add_timer_event( self_obj, game_ticks( random( 10, 15 ) ), 1 );
+      end
+   end
+end
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+
+   if( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_TREASURE_TOLD ) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+      end_dialogue;
+   end
+   else if( ( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_TREASURE_DOWN_WELL ) and
+            ( map_var( MVAR_Dwarf_In_Well ) == 0 ) ) then begin
+      if( dude_iq <= 3 ) then
+         float_msg( dude_obj, mstr(115), FLOAT_COLOR_NORMAL );
+      else
+         float_msg( dude_obj, mstr(116), FLOAT_COLOR_NORMAL );
+   end
+   else if( ( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_TREASURE_DOWN_WELL ) and
+            ( map_var( MVAR_Dwarf_In_Well ) > 0 ) ) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node006;
+      gSay_End;
+      end_dialogue;
+   end
+   else if( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_TREASURE_FOUND ) then begin
+      if( dude_iq <= 3 ) then
+         float_msg( dude_obj, mstr(154), FLOAT_COLOR_NORMAL );
+      else
+         float_msg( dude_obj, mstr(155), FLOAT_COLOR_NORMAL );
+   end
+end
+
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   Reply(102);
+
+   NLowOption(103, Node002);
+   NOption(104, Node002, 004);
+end
+
+procedure Node002 begin
+   Reply(105);
+
+   NLowOption(106, Node003);
+   NOption(107, Node003, 004);
+end
+
+procedure Node003 begin
+   Reply(108);
+
+   NLowOption(109, Node004);
+   NOption(110, Node004, 004);
+end
+
+procedure Node004 begin
+   Reply(111);
+
+   NLowOption(112, Node005);
+   NOption(113, Node005, 004);
+end
+
+procedure Node005 begin
+   set_global_var( GVAR_TYPHON_QUEST_STATUS, TYPHON_TREASURE_DOWN_WELL );
+   NMessage(114);
+end
+
+procedure Node006 begin
+   Reply(117);
+
+   BLowOption(118, Node007);
+   NLowOption(119, Node007);
+   BOption(120, Node007, 004);
+   NOption(121, Node007, 004);
+end
+
+procedure Node007 begin
+   Reply(122);
+
+   NLowOption(123, Node008);
+   NOption(124, Node008, 004);
+end
+
+procedure Node008 begin
+   Reply(125);
+
+   NLowOption(126, Node009);
+   NOption(127, Node009, 004);
+end
+
+procedure Node009 begin
+   Reply(128);
+
+   NLowOption(129, Node010);
+   NOption(130, Node010, 004);
+end
+
+procedure Node010 begin
+   Reply(131);
+
+   NLowOption(132, Node011);
+   NOption(133, Node011, 004);
+end
+
+procedure Node011 begin
+   NMessage(134);
+   call Node012;
+end
+
+procedure Node012 begin
+   Reply(135);
+
+   NLowOption(136, Node013);
+   NOption(137, Node013, 004);
+end
+
+procedure Node013 begin
+   Reply(138);
+
+   NLowOption(139, Node014);
+   NOption(140, Node014, 004);
+end
+
+procedure Node014 begin
+   variable caps;
+
+   set_global_var( GVAR_TYPHON_QUEST_STATUS, TYPHON_TREASURE_FOUND );
+   caps := create_object( PID_TYPHON_TREASURE, 0, 0 );
+   add_obj_to_inven( dude_obj, caps );
+   Reply(141);
+
+   NLowOption(142, Node015);
+   NOption(143, Node015, 004);
+end
+
+procedure Node015 begin
+   Reply(144);
+
+   NLowOption(145, Node015a);
+   NOption(146, Node016, 004);
+end
+
+procedure Node015a begin
+   add_timer_event( self_obj, game_ticks( random( 10, 15 ) ), 1 );
+   float_msg( self_obj, mstr(157), FLOAT_COLOR_AFRAID );
+end
+
+procedure Node016 begin
+   Reply(147);
+
+   NOption(148, Node017, 004);
+end
+
+procedure Node017 begin
+   Reply(149);
+
+   NOption(150, Node018, 004);
+end
+
+procedure Node018 begin
+   Reply(151);
+
+   NOption(152, Node019, 004);
+end
+
+procedure Node019 begin
+   NMessage(153);
+   add_timer_event( self_obj, game_ticks( random( 10, 15 ) ), 1 );
+   float_msg( self_obj, mstr(157), FLOAT_COLOR_AFRAID );
+end
+
+procedure HandleDwarf begin
+   dialogue_system_enter;
+end

@@ -1,0 +1,289 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Slave
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: April 24, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCSLAVE
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (0)
+#define LVAR_Slave_Type                   (1)
+#define LVAR_Home_Tile                    (2)
+
+#define slave_generic                     (0)
+#define slave_beaten                      (1)
+#define slave_sickly                      (2)
+#define slave_drugged                     (3)
+#define slave_type                        (local_var(LVAR_Slave_Type))
+#define slave_is_generic                  (slave_type == slave_generic)
+#define slave_is_sickly                   (slave_type == slave_sickly)
+#define slave_is_drugged                  (slave_type == slave_drugged)
+#define slave_is_beaten                   (slave_type == slave_beaten)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == float_param) then begin
+      if (combat_is_initialized == false) then begin
+         if (slave_is_sickly) then begin
+            call Node007;
+         end else if (slave_is_drugged) then begin
+            call Node008;
+         end if (cur_map_index == MAP_NEW_RENO_4) then begin
+            if (anim_busy(self_obj) == false) then begin
+               reg_anim_clear(self_obj);
+               reg_anim_begin();
+                  reg_anim_animate(self_obj, ANIM_magic_hands_middle, -1);
+               reg_anim_end();
+            end
+         end
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure push_p_proc begin
+   if (local_var(LVAR_Home_Tile) == self_tile) then begin
+      script_overrides;
+   end
+end
+
+procedure map_enter_p_proc begin
+variable temp;
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_local_var(LVAR_Home_Tile, self_tile);
+         //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_MORDINO);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_SLAVE); //edit by killap - RP
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+         if (tile_distance(self_tile, 20878) <= 17) then begin
+            set_local_var(LVAR_Slave_Type, random(slave_generic, slave_beaten));
+         end else if (tile_distance(self_tile, 20323) <= 9) then begin
+            set_local_var(LVAR_Slave_Type, slave_drugged);
+         end else if (tile_distance(self_tile, 20142) <= 13) then begin
+            set_local_var(LVAR_Slave_Type, slave_sickly);
+         end else begin
+            set_local_var(LVAR_Slave_Type, random(slave_generic, slave_drugged));
+         end
+      end else if (cur_map_index == MAP_NEW_RENO_4) then begin
+         if (get_still_status(still_status_wrecked)) then begin
+            destroy_object(self_obj);
+         end
+      end
+      critter_set_flee_state(self_obj, 1);
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure critter_p_proc begin
+   if ((hostile) and (self_can_see_dude)) then begin
+      self_attack_dude;
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_hostile;
+   end
+end
+
+procedure talk_p_proc begin
+   if (slave_is_sickly) then begin
+      call Node009;
+   end else if (slave_is_drugged) then begin
+      call Node010;
+   end else if (has_rep_slaver) then begin
+      call Node011;
+   end else begin
+      call Node012;
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure destroy_p_proc begin
+   inc_inv_good_crit
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (slave_is_sickly) then begin
+      display_mstr(100);
+   end else if (slave_is_drugged) then begin
+      display_mstr(101);
+   end else begin
+      display_mstr(102);
+   end
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (slave_is_sickly) then begin
+      if (self_is_female) then begin
+         call Node002;
+      end else begin
+         call Node001;
+      end
+   end else if (slave_is_drugged) then begin
+      if (self_is_female) then begin
+         call Node004;
+      end else begin
+         call Node003;
+      end
+   end else begin
+      if (self_is_female) then begin
+         call Node006;
+      end else begin
+         call Node005;
+      end
+   end
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   if (examined) then begin
+      display_mstr_rand(151, 156);
+   end else begin
+      display_mstr(150);
+   end
+end
+procedure Node002 begin
+   if (examined) then begin
+      display_mstr_rand(161, 167);
+   end else begin
+      display_mstr(160);
+   end
+end
+procedure Node003 begin
+   if (examined) then begin
+      display_mstr_rand(171, 175);
+   end else begin
+      display_mstr(170);
+   end
+end
+procedure Node004 begin
+   if (examined) then begin
+      display_mstr_rand(181, 185);
+   end else begin
+      display_mstr(180);
+   end
+end
+procedure Node005 begin
+   if (examined) then begin
+      display_mstr_rand(191, 192);
+   end else begin
+      display_mstr(190);
+   end
+end
+procedure Node006 begin
+   if (examined) then begin
+      display_mstr_rand(196, 197);
+   end else begin
+      display_mstr(195);
+   end
+end
+procedure Node007 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(200, 204);
+   //else
+   //   floater_rand(201, 202);
+end
+procedure Node008 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(210, 214);
+   //else
+   //   floater_rand(213, 214);
+end
+procedure Node009 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(220, 229);
+   //else
+   //   floater_rand(220, 221);
+end
+procedure Node010 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(240, 252);
+   //else
+   //   floater_rand(240, 242);
+end
+procedure Node011 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(260, 270);
+   //else
+   //   floater_rand(261, 262);
+end
+procedure Node012 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(283-(3*slave_is_beaten), 296+(16*slave_is_generic));
+   //else
+   //   floater_rand(281-(slave_is_beaten), 282);
+end

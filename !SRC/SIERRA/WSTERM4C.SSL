@@ -1,0 +1,459 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\depolvb.h"
+
+#define NAME                    SCRIPT_WSTERM4C
+
+#include "..\headers\command.h"
+
+#define LOW_DAMAGE              (20)
+#define HIGH_DAMAGE             (30)
+
+#define Brain_Level0            (0)
+#define Brain_Level1            (40)
+#define Brain_Level2            (80)
+#define Brain_Level3            (120)
+
+#define Brain_Abnormal          (PID_ABNORMAL_BRAIN)
+#define Brain_Chimp             (PID_CHIMP_BRAIN)
+#define Brain_Human             (PID_HUMAN_BRAIN)
+#define Brain_Cyber             (PID_CYBERNETIC_BRAIN)
+
+procedure start;
+procedure use_p_proc;
+procedure talk_p_proc;
+procedure look_p_proc;
+procedure description_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node013a;
+procedure Node013b;
+procedure Node013c;
+procedure Node013d;
+procedure Node013e;
+procedure Node014;
+procedure Node015;
+procedure Node015a;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node022a;
+procedure Node023;
+procedure Node023a;
+procedure Node024;
+procedure Node024a;
+procedure Node025;
+procedure Node025a;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node028a;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+
+procedure Node999;
+
+#define LVAR_Broken                     (0)
+#define LVAR_Heart                      (1)
+#define LVAR_Brain                      (2)
+#define LVAR_Kidney                     (3)
+#define LVAR_Liver                      (4)
+#define LVAR_Lung                       (5)
+#define LVAR_Adjustments                (6)
+
+variable Brain_Status:=0;
+variable Brain_Type:=0;
+
+procedure start begin
+end
+
+procedure look_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+procedure use_p_proc begin
+   variable Damage;
+
+   if (get_critter_stat(source_obj,STAT_iq) < 4) then begin
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(102));
+       end
+       else begin
+           display_msg(obj_name(source_obj)+mstr(300));
+       end
+   end
+   else begin
+       dialogue_system_enter;
+   end
+end
+
+procedure talk_p_proc begin
+   variable Critter;
+
+   if (local_var(LVAR_Broken) == 1) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node002;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node001;
+       gSay_End;
+       end_dialogue;
+   end
+
+   if (local_var(LVAR_Broken) == 1) then begin
+       if (tile_contains_obj_pid(11311,elevation(self_obj),PID_REPAIR_BOT_2)) then begin
+           Critter:=tile_contains_pid_obj(11311,elevation(self_obj),PID_REPAIR_BOT_2);
+           critter_dmg(Critter,1000,DMG_explosion);
+       end
+   end
+end
+
+procedure Node001 begin
+   Reply(mstr(103)+mstr(104)+mstr(105)+mstr(106));
+
+   NOption(107,Node010,004);
+   NOption(108,Node031,004);
+   NOption(109,Node999,004);
+end
+
+procedure Node002 begin
+   Reply(mstr(112)+mstr(113));
+
+   NOption(115,Node999,004);
+end
+
+procedure Node010 begin
+   Reply(mstr(116)+mstr(117)+mstr(118)+mstr(119));
+
+   if (global_var(GVAR_SIERRA_BASE_CONTAMINATION_TIMER) == 0) then
+       NOption(120,Node011,004);
+   NOption(121,Node013,004);
+   if (map_var(MVAR_Made_Dobbs) == 0) then
+       NOption(122,Node027,004);
+   else
+       NOption(122,Node030,004);
+   NOption(123,Node001,004);
+   NOption(124,Node999,004);
+end
+
+procedure Node011 begin
+   Reply(mstr(125)+mstr(126)+mstr(127)+mstr(128)+mstr(129)+mstr(130));
+
+   NOption(131,Node012,004);
+   NOption(132,Node012,004);
+   NOption(133,Node012,004);
+   NOption(134,Node012,004);
+   NOption(135,Node012,004);
+//   NOption(136,Node012,004);
+   NOption(137,Node010,004); //was Node001 - killap
+   NOption(138,Node999,004);
+end
+
+procedure Node012 begin
+   set_global_var(GVAR_SIERRA_BASE_CONTAMINATION_TIMER,game_time);
+
+   Reply(139);
+
+   NOption(140,Node999,004);
+end
+
+procedure Node013 begin
+   Reply(mstr(141)+mstr(142)+mstr(143)+mstr(144)+mstr(145)+mstr(146));
+
+   if (local_var(LVAR_Heart) == 0) then
+       NOption(147,Node013a,004);
+   if (local_var(LVAR_Brain) == 0) then
+       NOption(148,Node013b,004);
+   if (local_var(LVAR_Kidney) == 0) then
+       NOption(149,Node013c,004);
+   if (local_var(LVAR_Liver) == 0) then
+       NOption(150,Node013d,004);
+   if (local_var(LVAR_Lung) == 0) then
+       NOption(151,Node013e,004);
+   NOption(152,Node010,004);
+   NOption(153,Node999,004);
+end
+
+procedure Node013a begin
+   set_local_var(LVAR_Heart,1);
+   call Node014;
+end
+
+procedure Node013b begin
+   call Node015;
+end
+
+procedure Node013c begin
+   set_local_var(LVAR_Kidney,1);
+   call Node014;
+end
+
+procedure Node013d begin
+   set_local_var(LVAR_Liver,1);
+   call Node014;
+end
+
+procedure Node013e begin
+   set_local_var(LVAR_Lung,1);
+   call Node014;
+end
+
+procedure Node014 begin
+   Reply(mstr(154)+mstr(155));
+
+   NOption(156,Node013,004);
+   NOption(157,Node010,004);
+   NOption(158,Node999,004);
+end
+
+procedure Node015 begin
+   Reply(mstr(159)+mstr(160)+mstr(161)+mstr(162));
+
+   if (local_var(LVAR_Adjustments) == 0) then
+       NOption(163,Node015a,004);
+   NOption(164,Node010,004);
+   NOption(165,Node999,004);
+end
+
+procedure Node015a begin
+   variable Modifier:=0;
+   variable Skill;
+
+   set_local_var(LVAR_Adjustments,1);
+
+   if (skill_success(dude_obj,SKILL_SCIENCE,-30)) then
+       Modifier:=0;
+   else
+       Modifier:=-40;
+
+   Skill:=has_skill(dude_obj,SKILL_SCIENCE)+Modifier;
+
+   if (Skill <= Brain_Level0) then
+       call Node016;
+   else if (Skill <= Brain_Level1) then
+       call Node017;
+   else if (Skill <= Brain_Level2) then
+       call Node018;
+   else if (Skill <= Brain_Level3) then
+       call Node019;
+   else
+       call Node020;
+end
+
+procedure Node016 begin
+   Reply(166);
+
+   NOption(167,Node999,004);
+end
+
+procedure Node017 begin
+   Brain_Status:=1;
+
+   Reply(168);
+
+   NOption(169,Node021,004);
+end
+
+procedure Node018 begin
+   Brain_Status:=2;
+
+   Reply(170);
+
+   NOption(171,Node021,004);
+end
+
+procedure Node019 begin
+   Brain_Status:=3;
+
+   Reply(172);
+
+   NOption(173,Node021,004);
+end
+
+procedure Node020 begin
+   Brain_Status:=4;
+
+   Reply(174);
+
+   NOption(175,Node021,004);
+end
+
+procedure Node021 begin
+   if (Brain_Status == 4) then
+       Reply(176);
+   else if (Brain_Status == 3) then
+       Reply(177);
+   else if (Brain_Status == 2) then
+       Reply(178);
+   else if (Brain_Status == 1) then
+       Reply(179);
+
+   NOption(196,Node022,004);
+   if (Brain_Status > 1) then
+       NOption(197,Node023,004);
+   if (Brain_Status > 2) then
+       NOption(198,Node024,004);
+   if (Brain_Status > 3) then
+       NOption(199,Node025,004);
+end
+
+procedure Node022 begin
+   Reply(mstr(200));
+
+   NOption(202,Node022a,004);
+   NOption(203,Node021,004);
+end
+
+procedure Node022a begin
+   Brain_Type:=Brain_Abnormal;
+
+   call Node026;
+end
+
+procedure Node023 begin
+   Reply(mstr(204));
+
+   NOption(202,Node023a,004);
+   NOption(203,Node021,004);
+end
+
+procedure Node023a begin
+   Brain_Type:=Brain_Chimp;
+
+   call Node026;
+end
+
+procedure Node024 begin
+   Reply(mstr(208));
+
+   NOption(202,Node024a,004);
+   NOption(203,Node021,004);
+end
+
+procedure Node024a begin
+   Brain_Type:=Brain_Human;
+   call Node026;
+end
+
+procedure Node025 begin
+   Reply(mstr(212));
+
+   NOption(202,Node025a,004);
+   NOption(203,Node021,004);
+end
+
+procedure Node025a begin
+   Brain_Type:=Brain_Cyber;
+   call Node026;
+end
+
+procedure Node026 begin
+   variable item;
+
+   set_local_var(LVAR_Brain,1);
+   item:=create_object(Brain_Type,0,0);
+   set_global_var(GVAR_SKYNET,2);
+   add_obj_to_inven(dude_obj,item);
+   set_local_var(LVAR_Broken,1);
+
+   Reply(216);
+
+   NOption(217,Node999,004);
+end
+
+procedure Node027 begin
+   Reply(mstr(218)+mstr(219));
+
+   NOption(220,Node028,004);
+   NOption(221,Node010,004);
+   NOption(222,Node999,004);
+end
+
+procedure Node028 begin
+   Reply(mstr(223)+mstr(224));
+
+   NOption(225,Node028a,004);
+   NOption(226,Node027,004);
+end
+
+procedure Node028a begin
+   variable Critter;
+
+   set_map_var(MVAR_Made_Dobbs,1);
+
+   Critter:=create_object_sid(PID_VAULT_CITY_GUARD_MALE,0,0,SCRIPT_WCDOBBS);
+   critter_attempt_placement(Critter,11910,0);
+
+   call Node029;
+end
+
+procedure Node029 begin
+   Reply(227);
+
+   NOption(228,Node999,004);
+end
+
+procedure Node030 begin
+   Reply(229);
+
+   NOption(230,Node010,004);
+   NOption(231,Node999,004);
+end
+
+procedure Node031 begin
+   Reply(232);
+
+   NOption(233,Node001,004);
+   NOption(234,Node999,004);
+end
+
+procedure Node999 begin
+end

@@ -1,0 +1,113 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Wolf Pack
+        Location: Military Base
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\mbclose.h"
+
+#define NAME                    SCRIPT_GENERIC
+
+#include "..\headers\command.h"
+
+#define Howl_Time                       (10)            // in seconds
+#define Roaming_Time                    (7)             // in seconds
+#define Roaming                         (1)
+#define Howling                         (2)
+#define Following_Distance              (6)
+
+procedure start;
+procedure critter_p_proc;
+procedure timed_event_p_proc;
+
+#define LVAR_Following_Player           (0)
+#define LVAR_Inc_Pack                   (1)
+
+variable In_Timed_Event:=0;
+variable Need_Howl:=0;
+
+procedure start begin
+end
+
+procedure critter_p_proc begin
+   variable tile;
+
+   if (local_var(LVAR_Following_Player) == 1) then begin
+       if (map_var(MVAR_Pack_Following) >= PACK_COUNT) then begin
+           tile:=tile_num_in_direction(tile_num(dude_obj),random(0,5),1);
+           animate_run_to_tile(tile);
+           attack(dude_obj);
+       end
+       else begin
+           tile:=tile_num_in_direction(tile_num(dude_obj),random(0,5),Following_Distance);
+           animate_move_to_tile(tile);
+       end
+
+       if (Need_Howl == 0) then begin
+           Need_Howl:=1;
+           add_timer_event(self_obj,game_ticks(random(Howl_Time-4,Howl_Time+4)),Howling);
+       end
+   end
+
+   else if (tile_distance_objs(self_obj,dude_obj) < 5) then begin
+       if (local_var(LVAR_Inc_Pack) == 0) then begin
+           set_local_var(LVAR_Inc_Pack,1);
+           inc_map_var(MVAR_Pack_Following);
+           set_local_var(LVAR_Following_Player,1);
+           floater(930);
+       end
+
+       if (map_var(MVAR_Wolf_Pack_Gathered) == PACK_ROAMING) then begin
+           set_map_var(MVAR_Wolf_Pack_Gathered,PACK_FOUND_PLAYER);
+       end
+   end
+
+   else if (map_var(MVAR_Wolf_Pack_Gathered) == PACK_FOUND_PLAYER) then begin
+       tile:=tile_num_in_direction(tile_num(dude_obj),random(0,5),Following_Distance);
+       animate_run_to_tile(tile);
+
+       if (Need_Howl == 0) then begin
+           Need_Howl:=1;
+           add_timer_event(self_obj,game_ticks(random(Howl_Time-4,Howl_Time+4)),Howling);
+       end
+   end
+
+   else if (In_Timed_Event == 0) then begin
+       In_Timed_Event:=1;
+       add_timer_event(self_obj,game_ticks(random(Roaming_Time-3,Roaming_Time+3)),Roaming);
+   end
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == Roaming) then begin
+       animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(2,6)));
+       In_Timed_Event:=0;
+   end
+
+   if (fixed_param == Howling) then begin
+       Need_Howl:=0;
+       floater(930);
+   end
+end

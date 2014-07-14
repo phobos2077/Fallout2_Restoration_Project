@@ -1,0 +1,41 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Item:
+        Location : New Reno
+        Description:
+
+        Log:
+
+           Created: May 13, 1998
+
+           Updated:
+*/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_NICATPW5
+
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+/* Defines and Macros */
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   script_overrides;
+   gfade_out(ONE_GAME_SECOND);
+      critter_mod_skill(dude_obj, SKILL_ENERGY_WEAPONS, 10);
+      display_mstr(100);
+   gfade_in(ONE_GAME_SECOND);
+   scr_return(1);
+end

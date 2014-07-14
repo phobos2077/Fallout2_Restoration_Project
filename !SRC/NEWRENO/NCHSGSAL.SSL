@@ -1,0 +1,162 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#define GENERIC_HS_GUARD
+#include "..\headers\define.h"
+#define NAME                 SCRIPT_NEWRVB
+#define TOWN_REP_VAR         GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure map_update_p_proc;
+procedure timed_event_p_proc;
+procedure combat_p_proc;
+
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+#define LVAR_Flags                        (0)
+#define LVAR_Home_Tile                    (1)
+
+#define said_message_bit         bit_10
+
+#define said_message             lvar_bit(LVAR_Flags, said_message_bit)
+#define set_said_message         set_lvar_bit_off(LVAR_Flags, said_message_bit)
+#define off_said_message         set_lvar_bit_on(LVAR_Flags, said_message_bit)
+
+import variable salvatore_guard_1_obj;
+import variable salvatore_guard_2_obj;
+import variable salvatore_guard_obj;
+import variable power_armor_1_obj;
+import variable power_armor_2_obj;
+import variable crate_obj;
+import variable handy_obj;
+
+#define set_salvatore_guard_obj           if (salvatore_guard_obj == 0) then begin           \
+                                             salvatore_guard_obj := self_obj;                \
+                                             nr_add_timer_event(self_obj, 1, float_param);   \
+                                          end
+
+procedure start begin
+   set_salvatore_guard_obj
+end
+
+procedure timed_event_p_proc begin
+   helicopter_script_timed_event_p_proc
+end
+
+procedure map_enter_p_proc begin
+   set_salvatore_guard_obj
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_local_var(LVAR_Home_Tile, self_tile);
+         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_NEW_RENO_SALVATORE);
+         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_TOUGH_GUARD);
+      end else if (secret_trade_disrupted) then begin
+         destroy_object(self_obj);
+      end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
+         critter_attempt_placement(self_obj, local_var(LVAR_Home_Tile), self_elevation);
+      end
+   end
+end
+
+procedure map_update_p_proc begin
+   set_salvatore_guard_obj
+end
+
+procedure map_exit_p_proc begin
+   if (secret_trade_disrupted) then begin
+      attack_family(family_salvatore)
+   end
+end
+
+procedure combat_p_proc begin
+   helicopter_script_combat_p_proc
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if ((hostile) or (secret_trade_disrupted)) then begin
+         self_attack_dude;
+      end if (get_guard_assignment(guard_assignment_none)) then begin
+         call Node998;
+      end
+   end
+   if (told_to_move_out) then begin
+      if (self_tile != map_exit_tile) then begin
+         anim_move_to_point_rate(map_exit_tile, 5)
+      end else begin
+         check_set_obj_visiblility(self_obj, true);
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if ((source_obj == dude_obj) or (obj_in_party(source_obj))) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   if (get_guard_assignment(guard_assignment_none)) then begin
+      call Node998;
+   end else begin
+      display_msg(mstr(550)); //edit by killap - added mstr
+   end
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   inc_evil_critter
+   if (salvatore_guard_obj == self_obj) then begin
+      salvatore_guard_obj := 0;
+   end
+end
+
+procedure look_at_p_proc begin
+end
+
+procedure description_p_proc begin
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   helicopter_script_node998
+end
+procedure Node999 begin
+end

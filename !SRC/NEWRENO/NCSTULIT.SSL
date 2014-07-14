@@ -1,0 +1,758 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCSTULIT
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+//added by killap - expansion
+procedure doVaultBoxerAppearance;
+procedure removeVaultBoxerAppearance;
+//end added
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+#define LVAR_Flags                     (5)
+#define LVAR_Ear                       (6)
+
+#define know_stuart                    herebefore
+#define set_know_stuart                set_herebefore
+
+#define boxing_bit                     bit_10
+#define boxing_fail_bit                bit_11
+#define gave_gloves_bit                bit_12
+#define gave_second_chance_bit         bit_13
+
+#define boxing                         lvar_bit(LVAR_Flags, boxing_bit)
+#define set_boxing                     set_lvar_bit_on(LVAR_Flags, boxing_bit)
+#define off_boxing                     set_lvar_bit_off(LVAR_Flags, boxing_bit)
+
+#define boxing_fail                    lvar_bit(LVAR_Flags, boxing_fail_bit)
+#define set_boxing_fail                set_lvar_bit_on(LVAR_Flags, boxing_fail_bit)
+#define off_boxing_fail                set_lvar_bit_off(LVAR_Flags, boxing_fail_bit)
+
+#define gave_gloves                    lvar_bit(LVAR_Flags, gave_gloves_bit)
+#define set_gave_gloves                if (gave_gloves == false) then begin                  \
+                                          give_pid_qty(dude_obj, PID_BOXING_GLOVES, 1)       \
+                                       end                                                   \
+                                       set_lvar_bit_on(LVAR_Flags, gave_gloves_bit)
+
+#define gave_second_chance             lvar_bit(LVAR_Flags, gave_second_chance_bit)
+#define set_gave_second_chance         set_lvar_bit_on(LVAR_Flags, gave_second_chance_bit)
+
+//added by killap - expansion
+#define REG_HAIR                        (0)
+#define LONG_HAIR                       (1)
+#define BALD_HAIR                       (2)
+//end added
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+import variable announcer_obj;
+import variable ring_girl_obj;
+import variable stuart_little_obj;
+import variable prize_fighter_obj;
+import variable fighting_boxer_1_obj;
+import variable fighting_boxer_2_obj;
+import variable new_reno_temp_box;
+import variable mckneely_obj;
+import variable hollyfeld_obj;
+
+variable prev_node;
+
+procedure start begin
+   stuart_little_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == fight_over_param) then begin
+      debug_msg("stu: fight_status_raw == " + fight_status_raw);
+      off_ui_should_be_disabled;
+      check_set_obj_visiblility(ring_girl_obj, true);
+      check_set_obj_visiblility(announcer_obj, true);
+      gfade_in(ONE_GAME_SECOND);
+      call removeVaultBoxerAppearance; //added by killap - expansion
+      if (dude_won_fight) then begin
+         collect_fight_money
+         inc_fight_level;
+         if (dude_is_prizefighter) then begin
+            dialogue_system_enter;
+         end else begin
+            force_dialog_start("Node017");
+         end
+      end else begin
+         force_dialog_start("Node014");
+      end
+   end else if (fixed_param == start_fight_param) then begin
+      start_boxing_match;
+   end else if (fixed_param == float_param) then begin
+      if (combat_is_initialized == false) then begin
+         if (Fallout2_enclave_destroyed) then begin
+            if (dude_is_prizefighter) then begin
+               call Node001;
+            end else begin
+               call Node002;
+            end
+         end else if (dude_is_prizefighter) then begin
+            call Node003;
+         end else begin
+            call Node005;
+         end
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure map_enter_p_proc begin
+   stuart_little_obj := self_obj;
+   if (is_loading_game == false) then begin
+      /*if ((masticator_dead) and (dude_is_prizefighter == false)) then begin -- COMMENT OUT BY KILLAP
+         destroy_object(self_obj);
+      end else */if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_BOXER);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if ((hostile) or (boxer_killed)) then begin
+         self_attack_dude;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   check_forced_dialog
+   else if (Fallout2_enclave_destroyed) then begin
+      if (dude_is_prizefighter) then begin
+         call Node001;
+      //added by killap
+      end else if ( (boxing) or (boxing_fail) ) then begin
+         start_dialog_at_node(Node024);
+      //end added by killap
+      end else begin
+         start_dialog_at_node(Node006);
+      end
+   end else if (dude_is_prizefighter) then begin
+      call Node003;
+   end else if (boxing) then begin
+      start_dialog_at_node(Node024);
+   end else begin
+      start_dialog_at_node(Node006);
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure destroy_p_proc begin
+   inc_inv_good_crit
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + know_stuart);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (know_stuart) then begin
+      display_mstr_rand(151, 152);
+   end else begin
+      display_mstr(150);
+   end
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+//added by killap - option in RP installer
+procedure doVaultBoxerAppearance begin
+   variable armor;
+   set_global_var(GVAR_TMP_GLOBAL_VAR,1);
+   if (dude_is_male) then begin
+      if ((get_sfall_global_int("HApStyle")) == LONG_HAIR) then begin
+         if (obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_LONG_HAIR) == 0) then begin
+            armor := create_object(PID_VAULT_BOXER_MALE_LONG_HAIR,0,0);
+            add_obj_to_inven(dude_obj,armor);
+            wield_obj_critter(dude_obj, armor);
+            refresh_pc_art;
+            //metarule3(107,dude_obj,FID_HMBOXL,0);
+         end
+      end else if ((get_sfall_global_int("HApStyle")) == BALD_HAIR) then begin
+         if (obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_BALD) == 0) then begin
+            armor := create_object(PID_VAULT_BOXER_MALE_BALD,0,0);
+            add_obj_to_inven(dude_obj,armor);
+            wield_obj_critter(dude_obj, armor);
+            refresh_pc_art;
+            //metarule3(107,dude_obj,FID_HMBOXB,0);
+         end
+      end else if ((get_sfall_global_int("HApStyle")) == REG_HAIR) then begin
+         if (obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_NORMAL) == 0) then begin
+            armor := create_object(PID_VAULT_BOXER_MALE_NORMAL,0,0);
+            add_obj_to_inven(dude_obj,armor);
+            wield_obj_critter(dude_obj, armor);
+            refresh_pc_art;
+            //metarule3(107,dude_obj,FID_HMBOXS,0);
+         end
+      end
+   end
+end
+
+procedure removeVaultBoxerAppearance begin
+   set_global_var(GVAR_TMP_GLOBAL_VAR,0);
+   if (dude_is_male) then begin
+      if ((get_sfall_global_int("HApStyle")) == LONG_HAIR) then begin
+         remove_armor(dude_obj)   
+         destroy_object(obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_LONG_HAIR));
+         refresh_pc_art;
+      end else if ((get_sfall_global_int("HApStyle")) == BALD_HAIR) then begin
+         remove_armor(dude_obj)       
+         destroy_object(obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_BALD));
+         refresh_pc_art;
+      end else if ((get_sfall_global_int("HApStyle")) == REG_HAIR) then begin
+         remove_armor(dude_obj)
+         destroy_object(obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_NORMAL));
+         refresh_pc_art;
+      end
+   end
+end
+//end added
+
+procedure Node998 begin
+   if (hostile == false) then begin
+      set_hostile;
+   end
+end
+procedure Node999 begin
+end
+
+procedure Node990 begin
+   if ((dude_is_female) or (dude_strength < 6)) then begin
+      call Node007;
+   end else begin
+      call Node008;
+   end
+end
+procedure Node989 begin
+   set_global_var(GVAR_NEW_RENO_PRIZEFIGHTER, 97); //fix by killap: was set_global_var(global_var(GVAR_NEW_RENO_PRIZEFIGHTER, 497);
+   call Node012;
+end
+procedure Node988 begin
+   set_global_var(GVAR_NEW_RENO_PRIZEFIGHTER, 98); //fix by killap: was set_global_var(global_var(GVAR_NEW_RENO_PRIZEFIGHTER, 498);
+   call Node012;
+end
+procedure Node987 begin
+   set_global_var(GVAR_NEW_RENO_PRIZEFIGHTER, 99); //fix by killap: was set_global_var(global_var(GVAR_NEW_RENO_PRIZEFIGHTER, 499);
+   call Node012;
+end
+procedure Node986 begin
+   set_gave_gloves;
+   set_boxing;
+   nr_add_timer_event(self_obj, 0, start_fight_param);
+end
+procedure Node985 begin
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) and (gave_second_chance == false)) then begin
+      call Node016;
+   end else begin
+      call Node015;
+   end
+   set_gave_second_chance;
+end
+procedure Node984 begin
+   set_global_var(GVAR_NEW_RENO_PRIZEFIGHTER, 96); //killap fix: was 496
+   call Node012;
+end
+procedure Node983 begin
+   off_boxing_fail;
+   set_stuart_deal(75);
+end
+procedure Node982 begin
+   if (boxing) then begin
+      call Node021;
+   end else begin
+      set_know_stuart;
+      call Node011;
+   end
+end
+procedure Node981 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+      call Node028;
+   end else begin
+      call Node026;
+   end
+end
+procedure Node980 begin
+   if ((has_skill(dude_obj, SKILL_BARTER) > 75) and (has_skill(dude_obj, SKILL_CONVERSANT) > 75)) then begin
+      set_stuart_deal(25);
+      call Node029;
+   end else begin
+      call Node032;
+   end
+end
+procedure Node979 begin
+   call Node983;
+   call Node986;
+end
+procedure Node978 begin
+   if ((dude_is_female) or (dude_strength < 6)) then begin
+      call Node025;
+   end else begin
+      call Node028;
+   end
+end
+procedure Node977 begin
+   if ((Fallout2_enclave_destroyed == false) and (boxing_fail)) then begin
+      call Node015;
+   end else begin
+      call Node021;
+   end
+end
+procedure Node976 begin
+   if ((Fallout2_enclave_destroyed) or (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0)))) then begin
+      call Node015;
+   end else begin
+      call Node016;
+   end
+end
+procedure Node975 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,20))) then begin
+      call Node028;
+   end else begin
+      call Node027;
+   end
+end
+
+procedure Node001 begin
+   floater_rand(200, 202);
+end
+procedure Node002 begin
+   floater_rand(210, 212);
+end
+procedure Node003 begin
+   floater_rand(222 - (2 * dude_is_male), 224 + (2 * dude_is_female));
+end
+procedure Node005 begin
+   floater_rand(230, 233);
+end
+procedure Node006 begin
+   if (Fallout2_enclave_destroyed == false) then begin
+      Reply(mstr(240) + mstr(241 + dude_is_female));
+   end else begin
+      Reply(mstr(240) + mstr(243));
+   end
+   NOption(244, Node990, -003);
+   BOption(245, Node990, -003);
+   NOption(246, Node999, -003);
+   NOption(247, Node022, 004);
+   NOption(248, Node999, 004);
+   prev_node := 6;
+end
+procedure Node007 begin
+   Reply(250);
+   NOption(251, Node999, -003);
+   prev_node := 7;
+end
+procedure Node008 begin
+   Reply(260);
+   BOption(261, Node009, -003);
+   BOption(262, Node009, -003);
+   NOption(363, Node999, -003);
+   prev_node := 8;
+end
+procedure Node009 begin
+   Reply(270);
+   BOption(271, Node010, -003);
+   GOption(272, Node011, -003);
+   NOption(273, Node018, -003);
+   BOption(274, Node020, -003);
+   NOption(275, Node999, -003);
+   prev_node := 9;
+end
+procedure Node010 begin
+   Reply(280);
+   NOption(281, Node011, -003);
+   NOption(273, Node018, -003);
+   NOption(283, Node020, -003);
+   NOption(363, Node999, -003);
+   prev_node := 10;
+end
+procedure Node011 begin
+   set_know_stuart;
+   Reply(290);
+   BOption(mstr(291) + dude_name + mstr(1322), Node998, -003);
+   NOption(292, Node989, -003);
+   BOption(293, Node984, -003);
+   NOption(nr_mstr(498), Node988, -003);
+   NOption(nr_mstr(499), Node987, -003);
+   NOption(296, Node999, -003);
+   prev_node := 11;
+end
+procedure Node012 begin
+   debug_msg("GVAR_NEW_RENO_PRIZEFIGHTER == " + dude_prizefighter_number + " / dude_prizefighter_number == " + dude_prizefighter_number + " / prizefighter_name == " + prizefighter_name);
+   if (dude_prizefighter_number == 97) then begin  //killap fix: was 497
+      Reply(300);
+   end else if (dude_prizefighter_number == 96) then begin //killap fix: was 496
+      Reply(301);
+   end else begin
+      Reply(prizefighter_name + mstr(302) + prizefighter_name + mstr(1302)); //killap fix: added prizefighter_name in the front
+   end
+   NOption(391, Node986, -003);
+   NOption(305, Node999, -003);
+   prev_node := 12;
+end
+procedure Node013 begin
+   Reply(310);
+   BOption(311, Node040, 004);
+   prev_node := 13;
+end
+procedure Node014 begin
+   set_boxing_fail;
+   Reply(mstr(329) + mstr(320 + dude_is_female));
+   BOption(mstr(322) + dude_name + mstr(1322), Node998, -003);
+   NOption(323, Node015, -003);
+   NOption(324, Node999, -003);
+   NOption(363, Node999, -003);
+   BOption(326, Node998, -003);
+   NOption(327, Node985, 004);
+   NOption(328, Node999, 004);
+   prev_node := 14;
+end
+procedure Node015 begin
+   Reply(mstr(337) + mstr(330 + dude_is_female) + mstr(332));
+   BOption(333, Node998, -003);
+   NOption(334, Node999, -003);
+   BOption(326, Node998, 004);
+   NOption(336, Node999, 004);
+   prev_node := 15;
+end
+procedure Node016 begin
+   Reply(mstr(345) + mstr(340 + (stuart_deal == 75)) + mstr(346));
+   set_stuart_deal(75);
+   NOption(342, Node979, 004);
+   NOption(343, Node983, 004);
+   BOption(344, Node999, 004);
+   prev_node := 16;
+end
+procedure Node017 begin
+   Reply(mstr(350) + prizefighter_name + mstr(1350));
+   if (has_rep_berserker) then begin
+      NOption(351, Node021, -003);
+   end
+   NOption(352, Node999, -003);
+   NOption(353, Node018, -003);
+   NOption(363, Node999, -003);
+   NOption(355, Node021, 004);
+   NOption(356, Node999, 004);
+   BOption(357, Node020, 004);
+   NOption(336, Node999, 004);
+   prev_node := 17;
+end
+procedure Node018 begin
+   Reply(360);
+   NOption(361, Node019, -003);
+   NOption(362, Node019, -003);
+   NOption(363, Node999, -003);
+   prev_node := 18;
+end
+procedure Node019 begin
+   Reply(mstr(370) + mstr(371 + dude_is_female) + mstr(373));
+   NOption(374, Node982, -003);
+   if (boxing) then begin
+      NOption(375, Node999, -003);
+   end
+   NOption(376, Node020, -003);
+   NOption(363, Node999, -003);
+   prev_node := 19;
+end
+procedure Node020 begin
+   Reply(380);
+   NOption(363, Node999, -003);
+   prev_node := 20;
+end
+procedure Node021 begin
+   Reply(390);
+   NOption(391, Node986, 001);
+   prev_node := 21;
+end
+procedure Node022 begin
+   if (prev_node == 6) then begin
+      Reply(mstr(400) + mstr(401 + dude_is_female) + mstr(411 + ((dude_is_female) and (dude_charisma > 5))));
+      if ((dude_is_female) and (dude_charisma > 5)) then begin
+         NOption(409, Node013, 004);
+      end
+   end else begin
+      Reply(404);
+   end
+   set_know_stuart;
+   NOption(mstr(405) + dude_name + mstr(1405), Node023, 004);
+   NOption(mstr(405) + dude_name + mstr(1406), Node978, 004);
+   BOption(407, Node034, 004);
+   NOption(408, Node033, 009);
+   NOption(410, Node999, 004);
+   prev_node := 22;
+end
+procedure Node023 begin
+   if ((dude_is_female) and (dude_charisma > 5)) then begin
+      Reply(mstr(420) + dude_name + mstr(422) + dude_name + mstr(1422) + dude_name + mstr(3422) + mstr(423));
+   end else begin
+      Reply(mstr(420) + mstr(421) + dude_name + mstr(1421) + mstr(423));
+   end
+   set_know_stuart;
+   NOption(424, Node978, 004);
+   NOption(410, Node999, 004);
+   prev_node := 23;
+end
+procedure Node024 begin
+   if (Fallout2_enclave_destroyed) then begin
+      Reply(430);
+   end else if (boxing_fail) then begin
+      Reply(mstr(432) + prizefighter_name + mstr(1432));
+   end else begin
+      Reply(mstr(431) + prizefighter_name + mstr(1431));
+   end
+   if (boxing_fail == false) then begin
+      NOption(435, Node021, 004);
+   end else if (Fallout2_enclave_destroyed == false) then begin
+      //NOption(436, Node976, 004);
+      NOption(436, Node985, 004); //edit by killap
+   //added by killap
+   end else begin
+      NOption(436, Node977, 004);
+   end
+   //end added
+   NOption(437, Node999, 004);
+   NOption(433, Node977, -003);
+   NOption(434, Node999, -003);
+   prev_node := 24;
+end
+procedure Node025 begin
+   if (dude_is_male) then begin
+      Reply(440);
+   end else begin
+      if (dude_charisma < 6) then begin
+         Reply(441);
+         BOption(444, Node981, 004);
+      end else begin
+         Reply(442);
+      end
+      if (has_skill(dude_obj, SKILL_CONVERSANT) >= 50) then begin
+         NOption(452, Node975, 006);
+      end
+   end
+   NOption(445, Node981, 004);
+   NOption(446, Node999, 004);
+   prev_node := 25;
+end
+procedure Node026 begin
+   Reply(450 + dude_is_male);
+   if (has_skill(dude_obj, SKILL_CONVERSANT) >= 50) then begin
+      GOption(452 + dude_is_male, Node975, 006);
+   end
+   NOption(454, Node999, 004);
+   prev_node := 26;
+end
+procedure Node027 begin
+   Reply(460 + dude_is_male);
+   if (prev_node == 27) then begin
+      if ((has_skill(dude_obj, SKILL_CONVERSANT) >= 50) and (dude_is_female) and (dude_charisma > 5)) then begin
+         GOption(462, Node975, 006);
+      end
+   end
+   NOption(454, Node999, 004);
+   prev_node := 27;
+end
+procedure Node028 begin
+   set_stuart_deal(50);
+   Reply(470 + ((dude_is_male) and (dude_strength > 5)));
+   NOption(472, Node030, 004);
+   BOption(473, Node980, 004);
+   BOption(454, Node999, 004);
+   prev_node := 28;
+end
+procedure Node029 begin
+   set_stuart_deal(25);
+   Reply(480);
+   NOption(481, Node030, 004);
+   prev_node := 29;
+end
+procedure Node030 begin
+   setup_set_prizefighter_name(mstr(490) + dude_name + mstr(1490) + dude_name + mstr(2490), "Node031")
+end
+procedure Node031 begin
+   if (dude_prizefighter_number == 34) then begin //was 11 - killap
+      Reply(500);
+   end else if (dude_prizefighter_number == 37) then begin //was 12 - killap
+      Reply(501);
+   end else if (dude_prizefighter_number == 39) then begin //was 13 - killap
+      Reply(502);
+   end else if (dude_prizefighter_number == 40) then begin //was 14 - killap
+      Reply(503);
+   end else if (dude_prizefighter_number == 48) then begin //was 15 - killap
+      Reply(504);
+   end else begin
+      Reply(mstr(505) + prizefighter_name + mstr(422) + prizefighter_name + mstr(2505));
+   end
+   NOption(506, Node986, 001);
+   prev_node := 31;
+end
+procedure Node032 begin
+   Reply(510);
+   BOption(511, Node030, 004);
+   NOption(512, Node030, 004);
+   NOption(513, Node030, 004);
+   BOption(514, Node999, 004);
+   prev_node := 32;
+end
+procedure Node033 begin
+   if (prev_node == 39) then begin
+      Reply(521);
+      NOption(408, Node033, 009);
+   end else begin
+      Reply(520);
+      BOption(407, Node034, 004);
+   end
+   NOption(mstr(405) + dude_name + mstr(1405), Node023, 004);
+   NOption(mstr(405) + dude_name + mstr(1406), Node978, 004);
+   NOption(526, Node999, 004);
+   prev_node := 33;
+end
+procedure Node034 begin
+   Reply(530);
+   BOption(531, Node035, 004);
+   prev_node := 34;
+end
+procedure Node035 begin
+   Reply(540);
+   BOption(541, Node036, 004);
+   prev_node := 35;
+end
+procedure Node036 begin
+   Reply(550);
+   NOption(551, Node037, 004);
+   prev_node := 36;
+end
+procedure Node037 begin
+   Reply(560);
+   NOption(561, Node038, 004);
+   prev_node := 37;
+end
+procedure Node038 begin
+   Reply(570);
+   NOption(571, Node041, 004);
+   prev_node := 38;
+end
+procedure Node039 begin
+   Reply(580);
+   NOption(581, Node033, 004);
+   prev_node := 39;
+end
+procedure Node040 begin
+   Reply(590);
+   NOption(591, Node022, 004);
+   prev_node := 40;
+end
+procedure Node041 begin
+   Reply(600 + dude_is_female);
+   NOption(602, Node042, 004);
+   prev_node := 41;
+end
+procedure Node042 begin
+   Reply(610 + dude_is_female);
+   NOption(612, Node039, 004);
+   prev_node := 42;
+end

@@ -1,0 +1,71 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Modoc Rug
+        Location: Ghost Farm
+        Description: Drops the player to the slag area
+
+        Log:
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NTRICROM
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+#define LVAR_Flags            (0)
+
+#define near_room_bit         bit_1
+#define inside_room_bit       bit_2
+
+#define near_room             (lvar_bit(LVAR_Flags, near_room_bit))
+#define set_near_room         if (near_room == false) then begin        \
+                                 dude_floater(100);                     \
+                              end                                       \
+                              set_lvar_bit_on(LVAR_Flags, near_room_bit)
+#define off_near_room         set_lvar_bit_off(LVAR_Flags, near_room_bit)
+
+#define inside_room           (lvar_bit(LVAR_Flags, inside_room_bit))
+#define set_inside_room       if (inside_room == false) then begin      \
+                                 dude_floater(200);                     \
+                              end                                       \
+                              set_lvar_bit_on(LVAR_Flags, inside_room_bit)
+#define off_inside_room       set_lvar_bit_off(LVAR_Flags, inside_room_bit)
+
+procedure start;
+procedure spatial_p_proc;
+procedure map_enter_p_proc;
+
+procedure start begin
+end
+
+procedure spatial_p_proc begin
+   if (inside_room == false) then begin
+      if (source_obj == dude_obj) then begin
+         if (richard_wright_room) then begin
+            if (obj_wright_richards_room(dude_obj)) then begin
+               if ((get_mystery_flag(MYSTERY_STATE_ASSIGNED)) and (know_scott)) then begin
+                  set_inside_room;
+               end
+            end else if (tile_distance(dude_tile, self_tile) <= 3) then begin
+               set_near_room;
+            end
+         end
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      off_near_room;
+      off_inside_room;
+   end
+end

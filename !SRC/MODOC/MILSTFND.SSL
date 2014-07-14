@@ -1,0 +1,30 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+#define EXTRA_HEADER                         "..\headers\Modoc.h"
+
+#define LOCKER_LOCKABLE                      (false)
+#define genereral_caught_action              if (caught_tamper) then begin          \
+                                                script_overrides;                   \
+                                                add_timer_event(WATCHER_OBJ, 0, 1); \
+                                             end
+#define WATCHER_OBJ                          modoc_rose_obj
+#define DO_CHECK_TAMPER_CONDITION            (lost_and_found_unlocked == false)
+#define map_enter_action                     match_dude_elevation;                                       \
+                                             if (is_loading_game == false) then begin                    \
+                                                if (dude_enemy_modoc == false) then begin                \
+                                                   check_restock_item(PID_10MM_SMG, 0, 1, 1)             \
+                                                   check_restock_item(PID_THROWING_KNIFE, 0, 3, 40)      \
+                                                   check_restock_item(PID_KNIFE, 0, 5, 40)               \
+                                                   check_restock_item(PID_10MM_PISTOL, 0, 1, 15)         \
+                                                   check_restock_item(PID_10MM_AP, 0, 2, 15)             \
+                                                   check_restock_item(PID_LEATHER_JACKET, 0, 1, 10)      \
+                                                   check_restock_item(PID_STIMPAK, 0, 1, 10)             \
+                                                end                                                      \
+                                             end
+#define look_at_action                       script_overrides; display_msg(message_str(SCRIPT_MILSTFND, 100));
+#define description_action                   script_overrides; display_msg(message_str(SCRIPT_MILSTFND, 110));
+
+#include "..\headers\ModInn.h"
+#include "..\generic\ziLocker.ssl"

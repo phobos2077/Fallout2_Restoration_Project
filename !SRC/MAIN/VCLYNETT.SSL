@@ -1,0 +1,2671 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\VCtyCocl.h"
+
+#define NAME                    SCRIPT_VCLYNETT
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_VAULT_CITY)
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+
+#define dude_speech             has_skill(dude_obj,SKILL_CONVERSANT)
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node017a;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node034a;
+procedure Node034b;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+procedure Node046;
+procedure Node047;
+procedure Node047a;
+procedure Node047b;
+procedure Node047c;
+procedure Node047d;
+procedure Node047e;
+procedure Node047f;
+procedure Node048;
+procedure Node049;
+procedure Node050;
+procedure Node051;
+procedure Node052;
+procedure Node053;
+procedure Node054;
+procedure Node055;
+procedure Node056;
+procedure Node057;
+procedure Node058;
+procedure Node059;
+procedure Node060;
+procedure Node061;
+procedure Node062;
+procedure Node063;
+procedure Node064;
+procedure Node065;
+procedure Node066;
+procedure Node067;
+procedure Node068;
+procedure Node069;
+procedure Node070;
+procedure Node071;
+procedure Node072;
+procedure Node073;
+procedure Node073a; //added by killap
+procedure Node074;
+procedure Node075;
+procedure Node076;
+procedure Node077;
+procedure Node077a;
+procedure Node078;
+procedure Node079;
+procedure Node080;
+procedure Node081;
+procedure Node082;
+procedure Node083;
+procedure Node084;
+procedure Node085;
+procedure Node086;
+procedure Node087;
+procedure Node088;
+procedure Node089;
+procedure Node090;
+procedure Node091;
+procedure Node092;
+procedure Node093;
+procedure Node094;
+procedure Node095;
+procedure Node096;
+procedure Node097;
+procedure Node098;
+procedure Node099;
+procedure Node100;
+procedure Node101;
+procedure Node102;
+procedure Node103;
+procedure Node104;
+procedure Node105;
+procedure Node106;
+procedure Node107;
+procedure Node108;
+procedure Node109;
+procedure Node110;
+procedure Node111;
+procedure Node112;
+procedure Node113;
+procedure Node114;
+procedure Node115;
+procedure Node116;
+procedure Node117;
+procedure Node118;
+procedure Node119;
+procedure Node120;
+procedure Node121;
+procedure Node122;
+procedure Node123;
+procedure Node124;
+procedure Node125;
+procedure Node126;
+procedure Node127;
+procedure Node128;
+procedure Node129;
+procedure Node130;
+procedure Node131;
+procedure Node132;
+procedure Node133;
+procedure Node134;
+procedure Node135;
+procedure Node136;
+procedure Node137;
+procedure Node138;
+
+procedure Node010a;
+procedure Node011a;
+procedure Node011b;
+procedure Node011c;
+procedure Node011d;
+procedure Node012a;
+procedure Node012b;
+procedure Node012c;
+procedure Node018a;
+procedure Node026a;
+procedure Node032a;
+procedure Node008a;
+procedure Node031a;
+procedure Node033a;
+procedure Node037a;
+procedure Node037b;
+procedure Node042a;
+procedure Node038a;
+procedure Node040a;
+procedure Node040b;
+procedure Node043a;
+procedure Node044a;
+procedure Node047a;
+procedure Node048a;
+procedure Node049a;
+procedure Node049b;
+procedure Node050a;
+procedure Node052a;
+procedure Node053a;
+procedure Node054a;
+procedure Node056a;
+procedure Node056b;
+procedure Node058a;
+procedure Node063a;
+procedure Node062a;
+procedure Node076a;
+procedure Node076b;
+procedure Node076c;
+procedure Node078a;
+procedure Node081a;
+procedure Node081b;
+procedure Node082a;
+procedure Node084a;
+procedure Node084b;
+procedure Node084c;
+procedure Node085a;
+procedure Node085b;
+procedure Node087a;
+procedure Node089a;
+procedure Node094a;
+procedure Node096a;
+procedure Node097a;
+procedure Node097b;
+procedure Node097c;
+procedure Node103a;
+procedure Node107a;
+procedure Node116a;
+procedure Node117a;
+procedure Node117b;
+procedure Node117c;
+procedure Node117d;
+procedure Node119a;
+procedure Node120a;
+procedure Node123a;
+procedure Node130a;
+procedure Node138a;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Looked_Before              (7)
+#define LVAR_Lynette_Respect            (8)
+#define LVAR_Info_Paid                  (9)
+// LVAR_Bribe is no longer in use. Use MVAR_Bribe instead. McClure needs to know about it.
+// Retain this LVAR for simplicity sake.
+#define LVAR_Bribe                      (10)
+#define LVAR_Reactor_Done               (11)
+#define LVAR_Raiders_Done               (12)
+#define LVAR_Said_1                     (13)
+#define LVAR_Said_15                    (14)
+#define LVAR_Said_87                    (15)
+#define LVAR_Said_110                   (16)
+#define LVAR_Said_111                   (17)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+import variable Lynette_Ptr;
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable From_WTG:=0;
+variable From_12:=0;
+variable From_31:=0;
+variable From_33:=0;
+variable From_34:=0;
+variable From_8:=0;
+variable From_54:=0;
+variable From_55:=0;
+variable From_40:=0;
+variable From_41:=0;
+variable From_42:=0;
+variable From_62:=0;
+
+procedure start begin
+   Lynette_Ptr := self_obj;
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Lynette_Ptr := self_obj;
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+
+   if( not( is_loading_game ) ) then begin
+      if( ( game_time_hour > 700 ) and ( game_time_hour < 1800 ) ) then begin
+         if( not( self_visible ) ) then
+            set_obj_visibility(self_obj, false);
+      end
+      else begin
+         if( self_visible ) then
+            set_obj_visibility(self_obj, true);
+      end
+   end
+
+   if( map_first_run ) then begin
+      TopReact;
+      ReactToLevel;
+   end
+end
+
+procedure map_update_p_proc begin
+   Lynette_Ptr := self_obj;
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ( ( ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+       set_global_var( GVAR_ENEMY_VAULT_CITY, 1 );
+       set_global_var( GVAR_VAULT_CITIZEN, CITIZEN_KICKED_OUT );
+       set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_KICKED_OUT ) );
+       set_global_var( GVAR_VAULT_CITIZENSHIP, 0 );
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_PROUD;
+   Karma_Perception:=KARMA_PERCEPTION7;
+
+   CheckKarma;
+
+   GetReaction;
+
+   ReactToLevel; //added by killap
+      
+   if (Fallout2_enclave_destroyed) then begin
+       start_gdialog(NAME,self_obj,4,HEAD_LYNETTE,BACKGROUND_ADOBE);
+       gSay_Start;
+           call Node002;
+       gSay_End;
+       end_dialogue;
+   end
+   else if ((Marcus_Ptr != 0) or (Lenny_Ptr != 0)) then begin
+       From_WTG:=1;
+       start_gdialog(NAME,self_obj,4,HEAD_LYNETTE,BACKGROUND_ADOBE);
+       gSay_Start;
+           call Node069;
+       gSay_End;
+       end_dialogue;
+   end
+   else if( night ) then begin
+        call Node001;
+   end
+   else if (local_var(LVAR_Herebefore) == 0) then begin
+       inc_local_var(LVAR_Herebefore);
+       start_gdialog(NAME,self_obj,4,HEAD_LYNETTE,BACKGROUND_ADOBE);
+       gSay_Start;
+// the following macro has an if in it
+           dude_wearing_vault_suit
+               call Node008;
+           else
+               call Node011;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if (local_var(LVAR_reaction_level) < REACTION_NEUTRAL) then begin
+       start_gdialog(NAME,self_obj,4,HEAD_LYNETTE,BACKGROUND_ADOBE);
+       gSay_Start;
+           call Node056;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else begin
+       start_gdialog(NAME,self_obj,4,HEAD_LYNETTE,BACKGROUND_ADOBE);
+       gSay_Start;
+           call Node053;
+       gSay_End;
+       end_dialogue;
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+   set_global_var(GVAR_VAULT_LYNETTE_STATUS,1);
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Looked_Before) == 0) then begin
+       inc_local_var(LVAR_Looked_Before);
+       display_msg(mstr(100));
+   end
+   else
+       display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+   floater( 885 );
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   variable line;
+
+   if (local_var(LVAR_Said_1) > 14) then
+       set_local_var(LVAR_Said_1,0);
+
+   line:=103+local_var(LVAR_Said_1);
+
+   floater(line);
+
+   inc_local_var(LVAR_Said_1);
+end
+
+procedure Node002 begin
+   // Set this here since when we leave this node we won't be coming from WTG anymore.
+   From_WTG := 0;
+   Reply(118);
+
+   NLowOption(119,Node003);
+   NOption(120,Node005,004);
+   NOption(121,Node007,004);
+end
+
+procedure Node003 begin
+   Reply(122);
+
+   NLowOption(123,Node004);
+   NLowOption(124,Node999);
+end
+
+procedure Node004 begin
+   Reply(125);
+
+   NLowOption(126,Node999);
+   NLowOption(127,Node999);
+end
+
+procedure Node005 begin
+   Reply(128);
+
+   NOption(129,Node006,004);
+   NOption(130,Node007,004);
+end
+
+procedure Node006 begin
+   Reply(131);
+
+   NOption(132,Node007,004);
+   NOption(133,Node007,004);
+   NOption(134,Node007,004);
+end
+
+procedure Node007 begin
+   Reply(135);
+
+   if (check_general_rep >= 0) then
+       NOption(136,Node999,004);
+   else
+       BOption(137,Node999,004);
+end
+
+procedure Node008 begin
+   // Set this here since when we leave this node we won't be coming from WTG anymore.
+   From_WTG := 0;
+   Reply(138);
+
+   BLowOption(139,Node009);
+   BLowOption(140,Node009);
+   BLowOption(141,Node009);
+   NLowOption(142,Node999);
+   NOption(143,Node035,004);
+   BOption(144,Node008a,004);
+   NOption(145,Node037,004);
+   NOption(146,Node999,004);
+end
+
+procedure Node008a begin
+   From_8:=1;
+   call Node036;
+end
+
+procedure Node009 begin
+   Reply(147);
+
+   BLowOption(148,Node010);
+   BLowOption(149,Node010);
+   BLowOption(150,Node010);
+   NLowOption(151,Node999);
+end
+
+procedure Node010 begin
+   Reply(152);
+
+   BLowOption(153,Node998);
+   if (not(has_rep_berserker)) then
+       NLowOption(obj_name(dude_obj)+mstr(154),Node010a);
+end
+
+procedure Node010a begin
+    variable DayPass_KickOutObj                     :=0;
+    variable DayPass_KickOutCount                   :=0;
+    variable CitizenPapers_KickOutObj               :=0;
+    variable CitizenPapers_KickOutCount             :=0;
+    variable KickOutTemp                            :=0;
+
+    gfade_out(600);
+    set_global_var(GVAR_VAULT_CITIZEN,CITIZEN_KICKED_OUT);
+    set_global_var(GVAR_VAULT_CITIZENSHIP,0);
+    set_global_var(GVAR_DAY_PASS_SHOWN, 0);
+    DayPass_KickOutCount := obj_is_carrying_obj_pid(dude_obj, PID_DAY_PASS);
+    if( DayPass_KickOutCount > 0 ) then begin
+        DayPass_KickOutObj := obj_carrying_pid_obj(dude_obj, PID_DAY_PASS);
+        KickOutTemp := rm_mult_objs_from_inven(dude_obj, DayPass_KickOutObj, DayPass_KickOutCount );
+        destroy_object(DayPass_KickOutObj); //added by killap
+    end
+    CitizenPapers_KickOutCount := obj_is_carrying_obj_pid(dude_obj, PID_FAKE_CITIZENSHIP);
+    if( CitizenPapers_KickOutCount > 0 ) then begin
+        CitizenPapers_KickOutObj := obj_carrying_pid_obj(dude_obj, PID_FAKE_CITIZENSHIP);
+        KickOutTemp := rm_mult_objs_from_inven(dude_obj, CitizenPapers_KickOutObj, CitizenPapers_KickOutCount );
+        destroy_object(CitizenPapers_KickOutObj); //added by killap
+    end
+    set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_KICKED_OUT ) );
+    load_map(MAPSTR_VCTYCTYD,0);
+    gfade_in(600);
+end
+
+procedure Node011 begin
+   // Set this here since when we leave this node we won't be coming from WTG anymore.
+   From_WTG := 0;
+   Reply(155);
+
+   BLowOption(156,Node010);
+   BLowOption(157,Node010);
+   NLowOption(158,Node999);
+   if ((not(dude_found_geck)) and (dude_speech < 75)) then
+       NOption(159,Node011d,004);
+   if ((not(dude_found_geck)) and (dude_speech >=75)) then
+       NOption(160,Node011a,004);
+   if (dude_speech < 75) then
+       NOption(161,Node015,004);
+   if (dude_speech >= 75) then
+       NOption(162,Node011b,004);
+   NOption(163,Node018,004);
+   if (dude_speech < 75) then
+       NOption(164,Node999,004);
+   if (dude_speech >= 75) then
+       NOption(165,Node011c,004);
+end
+
+procedure Node011a begin
+    From_12:=1;
+
+   inc_local_var(LVAR_Lynette_Respect);
+   call Node011d;
+end
+
+procedure Node011b begin
+   inc_local_var(LVAR_Lynette_Respect);
+   call Node015;
+end
+
+procedure Node011c begin
+   inc_local_var(LVAR_Lynette_Respect);
+end
+
+procedure Node011d begin
+   Reply(166);
+
+   NOption(876, Node012, 004);
+end
+
+procedure Node012 begin
+   Reply(167);
+
+   if (dude_is_male) then
+       BOption(168,Node012a,004);
+   else
+       BOption(169,Node012b,004);
+   if (dude_speech >= 75) then
+       NOption(170,Node013,004);
+   else
+       NOption(171,Node016,004);
+   if (dude_speech >= 75) then
+       NOption(172,Node012c,004);
+   if (dude_is_male) then
+       BOption(173,Node017,004);
+   else
+       BOption(174,Node017,004);
+   NOption(175,Node999,004);
+end
+
+procedure Node012a begin
+   if (dude_charisma > 7) then
+       call Node013;
+   else
+       call Node014;
+end
+
+procedure Node012b begin
+   if (dude_charisma > 7) then
+       call Node013;
+   else
+       call Node014;
+end
+
+procedure Node012c begin
+   inc_local_var(LVAR_Lynette_Respect);
+   call Node016;
+end
+
+procedure Node013 begin
+   Reply(176);
+
+   NOption(177,Node015,004);
+   NOption(178,Node027,004);
+   NOption(179,Node028,004);
+   NOption(180,Node999,004);
+   if (dude_speech >= 75) then
+       NOption(181,Node999,004);
+end
+
+procedure Node014 begin
+   set_bad_critter_reaction;
+
+   Reply(182);
+
+   BOption(183,Node017,004);
+   BOption(184,Node998,004);
+   BOption(185,Node999,004);
+   NOption(186,Node999,004);
+end
+
+procedure Node015 begin
+   if (local_var(LVAR_Said_15) == 0) then begin
+       inc_local_var(LVAR_Said_15);
+       Reply(187);
+   end
+   else
+       Reply(188);
+
+   NOption(189,Node016,004);
+   NOption(190,Node019,004);
+   if (dude_is_male) then
+       BOption(191,Node017,004);
+   else
+       BOption(192,Node017,004);
+   NOption(193,Node999,004);
+end
+
+procedure Node016 begin
+   Reply(194);
+
+   NOption(195,Node030,004);
+   if (dude_is_male) then
+       BOption(196,Node017,004);
+   else
+       BOption(197,Node017,004);
+   NOption(198,Node999,004);
+end
+
+procedure Node017 begin
+   set_bad_critter_reaction;
+
+   if ( ( From_33 ) or ( From_41 ) ) then begin
+       From_33 := 0;
+       From_41 := 0;
+       Reply(199);
+   end
+   else
+       Reply(200);
+
+   BOption(877, Node017a, 004);
+   BOption(878, Node999, 004);
+end
+
+procedure Node017a begin
+   set_bad_critter_reaction;
+   Reply(201);
+
+   BOption(202,Node998,004);
+   NOption(203,Node999,004);
+end
+
+procedure Node018 begin
+   Reply(204);
+
+   NOption(205,Node020,007);
+   NOption(206,Node019,004);
+   if (dude_is_male) then
+       BOption(207,Node017,004);
+   else
+       BOption(208,Node017,004);
+   NOption(209,Node999,004);
+   if (dude_speech >= 75) then
+       NOption(210,Node018a,004);
+end
+
+procedure Node018a begin
+   inc_local_var(LVAR_Lynette_Respect);
+end
+
+procedure Node019 begin
+   Reply(211);
+
+   NOption(212,Node031,004);
+   NOption(213,Node032,004);
+   BOption(214,Node033,004);
+   NOption(215,Node999,004);
+end
+
+procedure Node020 begin
+   Reply(216);
+
+   NOption(217,Node021,007);
+   NOption(218,Node026,004);
+   NOption(219,Node015,004);
+   NOption(220,Node024,004);
+   BOption(221,Node025,004);
+   NOption(222,Node999,004);
+end
+
+procedure Node021 begin
+   Reply(223);
+
+   NOption(224,Node022,007);
+   NOption(225,Node023,007);
+   NOption(226,Node015,004);
+   BOption(227,Node025,004);
+   NOption(228,Node999,004);
+end
+
+procedure Node022 begin
+   Reply(229);
+
+   NOption(230,Node023,007);
+   NOption(231,Node019,004);
+   BOption(232,Node025,004);
+   NOption(233,Node999,004);
+end
+
+procedure Node023 begin
+   Reply(234);
+
+   NOption(235,Node022,007);
+   NOption(236,Node026,004);
+   NOption(237,Node015,004);
+   BOption(238,Node025,004);
+   NOption(239,Node999,004);
+end
+
+procedure Node024 begin
+   Reply(240);
+
+   NOption(241,Node026,004);
+   NOption(242,Node015,004);
+   BOption(243,Node025,004);
+   NOption(244,Node999,004);
+end
+
+procedure Node025 begin
+   set_bad_critter_reaction;
+
+   Reply(245);
+
+   BOption(246,Node998,004);
+   NOption(247,Node999,004);
+end
+
+procedure Node026 begin
+   Reply(248);
+
+   NOption(249,Node015,004);
+   if ((global_var(GVAR_VAULT_CITIZENSHIP) == CITIZEN_TRUE) or (global_var(GVAR_VAULT_CITIZEN) == CITIZEN_GUARD_BELIEVE_FAKE) or
+                                                               (global_var(GVAR_VAULT_CITIZEN) == CITIZEN_CAPTAIN_GUARD) ) then
+       NOption(250,Node026a,004);
+   if (global_var(GVAR_VAULT_CITIZENSHIP) == 0) then begin
+       NOption(251,Node027,004);
+       NOption(252,Node034,007);
+   end
+   NOption(253,Node999,004);
+end
+
+procedure Node026a begin
+   if (global_var(GVAR_VAULT_CITIZEN) == CITIZEN_GUARD_BELIEVE_FAKE) then
+       call Node058;
+   else
+       call Node052;
+end
+
+procedure Node027 begin
+   Reply(254);
+
+   NOption(255,Node034,004);
+   NOption(256,Node016,004);
+   NOption(257,Node999,004);
+end
+
+procedure Node028 begin
+   Reply(258);
+
+   NOption(259,Node015,004);
+   BOption(260,Node029,004);
+   NOption(261,Node999,004);
+end
+
+procedure Node029 begin
+   set_bad_critter_reaction;
+
+   Reply(262);
+
+   BOption(263,Node998,004);
+   //BOption(264,Node998,004);
+   BOption(264,Node019,004);
+   NOption(265,Node999,004);
+   if( (dude_charisma > 7) or (dude_speech >= 75) ) then
+    NOption(266,Node999,004);
+end
+
+procedure Node030 begin
+   Reply(267);
+
+   NOption(268,Node035,004);
+   BOption(269,Node036,004);
+   NOption(270,Node037,004);
+   NOption(271,Node999,004);
+end
+
+procedure Node031 begin
+   Reply(272);
+
+   NOption(273,Node031a,004);
+   NOption(274,Node032,004);
+   NOption(275,Node038,008);
+   NOption(276,Node999,004);
+end
+
+procedure Node031a begin
+   From_31:=1;
+
+   call Node012;
+end
+
+procedure Node032 begin
+   Reply(277);
+
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(278,Node032a,004);
+   NOption(279,Node039,004);
+   NOption(280,Node999,004);
+end
+
+procedure Node032a begin
+   inc_local_var(LVAR_Lynette_Respect);
+   call Node039;
+end
+
+procedure Node033 begin
+   Reply(281);
+
+   NOption(282,Node046,004);
+   BOption(283,Node046,004);
+   if (dude_is_male) then
+       BOption(284,Node033a,004);
+   else
+       BOption(285,Node033a,004);
+   NOption(286,Node999,004);
+end
+
+procedure Node033a begin
+   From_33:=1;
+   call Node017;
+end
+
+procedure Node034 begin
+   From_34 := 1;
+
+   Reply(287);
+
+   NOption(291, Node034a, 004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(292,Node034a,004);
+end
+
+procedure Node034a begin
+   if( ( global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_ACCEPTED_QUEST ) and
+       ( local_var( LVAR_Reactor_Done ) == 0 ) ) then
+      call Node034b;
+   else
+      call Node999;
+end
+
+procedure Node034b begin
+   Reply(288);
+
+   NOption(289, Node044, 004);
+   if (dude_speech < 75) then
+      NOption(290,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+      NOption(292,Node999,004);
+end
+
+procedure Node035 begin
+   Reply(293);
+
+   BOption(294,Node017,004);
+   NOption(295,Node045,004);
+   NOption(296,Node038,004);
+   NOption(297,Node999,004);
+end
+
+procedure Node036 begin
+   if (From_8) then begin
+       From_8 := 0;
+       Reply(298);
+   end
+   else
+       Reply(299);
+
+   NOption(300,Node037,004);
+   if (dude_is_male) then
+       BOption(301,Node017,004);
+   else
+       BOption(302,Node017,004);
+   NOption(303,Node999,004);
+end
+
+procedure Node037 begin
+   Reply(304);
+
+   if( obj_is_carrying_obj_pid(dude_obj,PID_VIC_WATER_FLASK) ) then
+      NOption(305,Node042,004);
+   else
+      NOption(847,Node042,004);
+   if (obj_is_carrying_obj_pid(dude_obj,PID_VIC_WATER_FLASK)) then begin
+       if (dude_iq < 7) then
+           NOption(306,Node037b,004);
+       else
+           NOption(307,Node037b,007);
+   end
+   BOption(308,Node037a,004);
+   NOption(309,Node999,004);
+end
+
+procedure Node037a begin
+   set_bad_critter_reaction;
+end
+
+procedure Node037b begin
+   if( dude_charisma < 6 ) then
+      call Node040;
+   else
+      call Node050;
+end
+
+procedure Node038 begin
+   Reply(310);
+
+   NOption(311,Node043,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(312,Node038a,004);
+   NOption(313,Node999,004);
+end
+
+procedure Node038a begin
+   inc_local_var(LVAR_Lynette_Respect);
+   call Node043;
+end
+
+procedure Node039 begin
+   Reply(314);
+
+   if (From_54) then begin
+       From_54 := 0;
+       NOption(315,Node053,004);
+   end
+   else if(From_55) then begin
+       From_55 := 0;
+       NOption(315,Node053,004);
+   end
+   NOption(316,Node038,004);
+   NOption(317,Node999,004);
+end
+
+procedure Node040 begin
+   Reply(318);
+
+   NOption(319,Node040a,004);
+   if (dude_is_male) then
+       BOption(320,Node040b,004);
+   else
+       BOption(321,Node040b,004);
+   NOption(322,Node999,004);
+end
+
+procedure Node040a begin
+   // Skill roll removed.
+   call Node050;
+end
+
+procedure Node040b begin
+   From_40:=1;
+   call Node041;
+end
+
+procedure Node041 begin
+   set_bad_critter_reaction;
+   From_41 := 1;
+
+   if ( ( From_40 ) or ( From_42 ) ) then begin
+       From_40 := 0;
+       From_42 := 0;
+       Reply(323);
+   end
+   else
+      Reply(324);
+
+   BOption(879,Node017,004);
+   NOption(880,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(328,Node999,004);
+end
+
+procedure Node042 begin
+   Reply(329);
+
+   if (obj_is_carrying_obj_pid(dude_obj,PID_VIC_WATER_FLASK)) then begin
+       if (dude_iq < 7) then
+           NOption(330,Node040,004);
+       else
+           NOption(331,Node040,007);
+   end
+   BOption(332,Node042a,004);
+   NOption(333,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(334,Node999,004);
+end
+
+procedure Node042a begin
+   From_42:=1;
+   call Node041;
+end
+
+procedure Node043 begin
+   Reply(335);
+
+   if ((global_var(GVAR_VAULT_CITIZENSHIP) == CITIZEN_TRUE) or (global_var(GVAR_VAULT_CITIZEN) == CITIZEN_GUARD_BELIEVE_FAKE)) then
+       NOption(336,Node043a,004);
+   if (global_var(GVAR_VAULT_CITIZENSHIP) == 0) then
+       NOption(337,Node034,004);
+   NOption(338,Node999,004);
+end
+
+procedure Node043a begin
+   if (global_var(GVAR_VAULT_CITIZEN) == CITIZEN_GUARD_BELIEVE_FAKE) then
+       call Node058;
+   else
+       call Node052;
+end
+
+procedure Node044 begin
+   Reply(339);
+
+   NOption(340,Node047,004);
+   GOption(341,Node047,004);
+   if( From_34 == 1 ) then begin
+      From_34 := 0;
+      BOption(342,Node044a,004);
+   end
+   BOption(343,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(344,Node999,004);
+end
+
+procedure Node044a begin
+   call Node051;
+//   if (skill_success(dude_obj,SKILL_CONVERSANT,-10)) then
+//       call Node051;
+//   else
+//       call Node041;
+end
+
+procedure Node045 begin
+   Reply(345);
+
+   NOption(346,Node038,004);
+   if (global_var(GVAR_VAULT_CITIZENSHIP) == 0) then
+       NOption(347,Node034,004);
+   NOption(348,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(349,Node999,004);
+end
+
+procedure Node046 begin
+   Reply(350);
+
+   NOption(351,Node038,004);
+   BOption(352,Node025,004);
+   NOption(353,Node999,004);
+end
+
+procedure Node047 begin
+   mark_gecko_on_map
+   set_map_var(MVAR_Bribe,1);
+
+   Reply(354);
+
+   if( global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_NEED_PART ) then
+      NOption(848, Node047a, 004);
+   if( global_var(GVAR_VAULT_GECKO_PLANT) != PLANT_NEED_PART ) then
+      NOption(355,Node049,004);
+   if( global_var(GVAR_VAULT_GECKO_PLANT) != PLANT_NEED_PART ) then
+      NOption(356,Node048,004);
+   BOption(357,Node047f,004);
+end
+
+procedure Node047a begin
+   Reply(624);
+
+   if( dude_iq == 4 ) then
+      BOption(849, Node047b, 004);
+   BOption(850, Node047b, 005);
+   NOption(851, Node999, 004);
+end
+
+procedure Node047b begin
+   Reply(852);
+
+   if( dude_iq == 4 ) then
+      BOption(853, Node047c, 004);
+   BOption(854, Node047c, 005);
+   NOption(855, Node999, 004);
+   if( ( has_skill( dude_obj, SKILL_CONVERSANT ) >= 75 ) or ( dude_charisma > 7 ) ) then
+      NOption(856, Node999, 004);
+end
+
+procedure Node047c begin
+   Reply(513);
+
+   BOption(857, Node047d, 004);
+   if( ( has_skill( dude_obj, SKILL_CONVERSANT ) >= 75 ) or ( dude_charisma > 7 ) ) then
+      BOption(858, Node047d, 004);
+   NOption(859, Node999, 004);
+   if( ( has_skill( dude_obj, SKILL_CONVERSANT ) >= 75 ) or ( dude_charisma > 7 ) ) then
+      NOption(860, Node999, 004);
+end
+
+procedure Node047d begin
+   if( not(bad_critter_reaction) ) then
+      set_neutral_critter_reaction;
+
+   Reply(362);
+
+   BOption(861, Node047e, 004);
+   NOption(862, Node999, 004);
+   if( ( has_skill( dude_obj, SKILL_CONVERSANT ) >= 75 ) or ( dude_charisma > 7 ) ) then
+      NOption(863, Node999, 004);
+end
+
+procedure Node047e begin
+   set_bad_critter_reaction;
+   Reply(864);
+
+   BOption(866, Node998, 004);
+   NOption(867, Node999, 004);
+   if( ( has_skill( dude_obj, SKILL_CONVERSANT ) >= 75 ) or ( dude_charisma > 7 ) ) then
+      NOption(868, Node999, 004);
+end
+
+procedure Node047f begin
+   if( global_var(GVAR_VAULT_GECKO_PLANT) != PLANT_NEED_PART ) then
+      set_global_var(GVAR_VAULT_GECKO_PLANT,PLANT_DECLINED_QUEST);
+end
+
+procedure Node048 begin
+   Reply(358);
+
+   NOption(359,Node048a,004);
+   NOption(360,Node049,004);
+   NOption(361,Node049a,004);
+end
+
+procedure Node048a begin
+   set_global_var(GVAR_VAULT_GECKO_PLANT,PLANT_ACCEPTED_QUEST);
+end
+
+procedure Node049 begin
+   Reply(362);
+   NOption(356,Node048,004); //added by killap
+   NOption(363,Node048a,004);
+   BOption(364,Node049a,004);
+   NOption(365,Node049b,004);
+end
+
+procedure Node049a begin
+   set_bad_critter_reaction;
+   set_global_var(GVAR_VAULT_GECKO_PLANT,PLANT_DECLINED_QUEST);
+end
+
+procedure Node049b begin
+   set_global_var(GVAR_VAULT_GECKO_PLANT,PLANT_DECLINED_QUEST);
+end
+
+procedure Node050 begin
+   Reply(366);
+
+   NOption(367,Node038,004);
+   if (not(dude_found_geck)) then
+       NOption(368,Node039,004);
+   BOption(369,Node050a,004);
+   NOption(370,Node999,004);
+end
+
+procedure Node050a begin
+   set_bad_critter_reaction;
+end
+
+procedure Node051 begin
+   Reply(371);
+
+   NOption(372,Node047,004);
+   GOption(373,Node047,004);
+   BOption(374,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(375,Node999,004);
+end
+
+procedure Node052 begin
+   set_good_critter_reaction;
+
+   Reply(376);
+
+   NOption(377,Node053,004);
+   if (not(dude_found_geck)) then
+       NOption(378,Node039,004);
+   NOption(379,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(380,Node052a,004);
+end
+
+procedure Node052a begin
+   inc_local_var(LVAR_Lynette_Respect);
+end
+
+procedure Node053 begin
+   // Set this here since when we leave this node we won't be coming from WTG anymore.
+   From_WTG := 0;
+   if (local_var(LVAR_reaction_level) > REACTION_NEUTRAL) then
+       Reply(381);
+   else
+       Reply(382);
+
+   BLowOption(383,Node053a);
+   BLowOption(384,Node053a);
+   BLowOption(385,Node053a);
+   NLowOption(386,Node999);
+   if (global_var(GVAR_VAULT_CITIZENSHIP) == CITIZEN_TRUE) then
+       NOption(387,Node054,004);
+   if (global_var(GVAR_VAULT_CITIZENSHIP) == 0) then
+       BOption(388,Node055,004);
+   if ((global_var(GVAR_VAULT_GECKO_PLANT) == 0) and (global_var(GVAR_VAULT_CITIZENSHIP) == 0)) then
+       NOption(389,Node034,004);
+   if ((global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_DECLINED_QUEST) and (global_var(GVAR_VAULT_CITIZENSHIP) == 0)) then
+       GOption(390,Node063,004);
+   if ( ( local_var(LVAR_Reactor_Done) == 0 ) and
+        ( (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_ACCEPTED_QUEST) or
+           (global_var(GVAR_VAULT_GECKO_PLANT) > PLANT_DECLINED_QUEST) ) and
+        ( global_var(GVAR_GECKO_ASSIGNED) == 0 ) ) then
+      GOption(391,Node065,004);
+   if( ( global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_NEED_PART ) and
+       ( global_var(GVAR_GECKO_ASSIGNED) == 1 ) ) then
+      NOption(869,Node047a,004);
+   if ((global_var(GVAR_VAULT_RAIDERS) == RAIDERS_FOUND) and (local_var(LVAR_Raiders_Done) == 0)) then
+       GOption(392,Node107,004);
+   if ((global_var(GVAR_VAULT_RAIDERS) == RAIDERS_FOUND) and (local_var(LVAR_Raiders_Done) == 1)) then
+       GOption(393,Node057,004);
+   if ((global_var(GVAR_VAULT_RAIDERS) == RAIDERS_PLANS_KNOWN_RENO) and (obj_is_carrying_obj_pid(dude_obj,PID_BISHOPS_HOLODISK))) then
+       GOption(394,Node136,004);
+   if ((global_var(GVAR_VAULT_JET_QUEST) == JET_WILL_GET) or (global_var(GVAR_VAULT_JET_QUEST) == JET_DECLINED_JOB) and (global_var(GVAR_DR_TROY_STATUS) == 0)) then
+       NOption(395,Node078,004);
+   if ((global_var(GVAR_VAULT_DELIVER_HOLODISK) == HOLODISK_ACCEPTED) or (global_var(GVAR_VAULT_DELIVER_HOLODISK) == HOLODISK_DELIVERED)) then
+       NOption(396,Node125,004);
+   if (global_var(GVAR_VAULT_DELIVER_HOLODISK) == HOLODISK_DECLINED) then
+       GOption(397,Node126,004);
+   NOption(398,Node999,004);
+end
+
+procedure Node053a begin
+   dude_wearing_vault_suit
+       call Node009;
+   else
+       call Node010;
+end
+
+procedure Node054 begin
+   if (global_var(GVAR_VAULT_CITIZEN) == CITIZEN_REAL_CITIZEN) then
+       Reply(399);
+   else
+       Reply(400);
+
+   if (global_var(GVAR_VAULT_RAIDERS) == RAIDERS_PROBLEM_KNOWN) then
+       NOption(401,Node104,004);
+   if (global_var(GVAR_MOORE_STATE) == MOORE_KNOWN) then
+       NOption(402,Node087,004);
+   if (not(dude_found_geck)) then
+       NOption(403,Node054a,004);
+   if (not(vault_13_visible_on_map)) then
+       NOption(404,Node038,004);
+   NOption(405,Node018,004);
+   NOption(406,Node096,004);
+   NOption(407,Node999,004);
+end
+
+procedure Node054a begin
+   From_54:=1;
+   call Node039;
+end
+
+procedure Node055 begin
+   dec_local_var(LVAR_Lynette_Respect);
+
+   Reply(408);
+
+   if (global_var(GVAR_VAULT_CITIZEN) == CITIZEN_GUARD_BELIEVE_FAKE) then
+       NOption(409,Node058,004);
+   if (not(dude_found_geck)) then
+       NOption(410,Node054a,004);
+   if (not(vault_13_visible_on_map)) then
+       NOption(411,Node038,004);
+   if ((global_var(GVAR_VAULT_GECKO_PLANT) == 0) or (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_DECLINED_QUEST)) then
+       NOption(412,Node034,004);
+   NOption(413,Node018,004);
+   NOption(414,Node096,004);
+   NOption(415,Node999,004);
+end
+
+procedure Node056 begin
+   // Set this here since when we leave this node we won't be coming from WTG anymore.
+   From_WTG := 0;
+   Reply(416);
+
+   //added by killap
+   BLowOption(383,Node053a);
+   BLowOption(384,Node053a);
+   BLowOption(385,Node053a);
+   NLowOption(386,Node999);
+   //added by killap
+   
+   BOption(417,Node056a,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(418,Node056b,004);
+   BOption(419,Node041,009);
+   NOption(420,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(421,Node999,004);
+end
+
+procedure Node056a begin
+   if (skill_success(dude_obj,SKILL_CONVERSANT,-20)) then begin
+       set_neutral_critter_reaction;
+       call Node053;
+   end
+   else
+       call Node041;
+end
+
+procedure Node056b begin
+   //if (skill_success(dude_obj,SKILL_CONVERSANT,-20)) then begin
+       set_neutral_critter_reaction;
+       call Node053;
+   //end
+   //else
+//       call Node041;
+end
+
+procedure Node057 begin
+   Reply(422);
+
+   NOption(423,Node110,004);
+   NOption(424,Node999,004);
+end
+
+procedure Node058 begin
+   Reply(425);
+
+   if (obj_is_carrying_obj_pid(dude_obj,PID_FAKE_CITIZENSHIP)) then
+       NOption(426,Node060,004);
+   BOption(427,Node041,004);
+   if (dude_charisma < 8) then
+       NOption(428,Node058a,008);
+   else
+       NOption(429,Node058a,004);
+end
+
+procedure Node058a begin
+   if (skill_success(dude_obj,SKILL_CONVERSANT,0)) then
+       call Node061;
+   else
+       call Node069;
+end
+
+procedure Node059 begin
+   set_bad_critter_reaction;
+
+   Reply(430);
+
+   NOption(431,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(432,Node999,004);
+end
+
+procedure Node060 begin
+   variable item;
+
+   item:=obj_carrying_pid_obj(dude_obj,PID_FAKE_CITIZENSHIP);
+   rm_obj_from_inven(dude_obj,item);
+   add_obj_to_inven(self_obj,item);
+
+   set_bad_critter_reaction;
+
+   Reply(433);
+
+   NOption(434,Node062,004);
+   BOption(435,Node069,004);
+   BOption(436,Node998,004); //edit by killap: was NOption
+end
+
+procedure Node061 begin
+   Reply(437);
+
+   NOption(438,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(439,Node999,004);
+end
+
+procedure Node062 begin
+   set_global_var(GVAR_BUST_SKEEVE,1);
+   set_bad_critter_reaction;
+
+   Reply(440);
+
+   NOption(441,Node062a,004);
+   BOption(442,Node998,004);
+   NOption(443,Node010a,004);
+end
+
+procedure Node062a begin
+   From_62:=1;
+   call Node069;
+end
+
+procedure Node063 begin
+   Reply(444);
+
+   NOption(445,Node064,004);
+   NOption(446,Node063a,004);
+end
+
+procedure Node063a begin
+   if (global_var(GVAR_VAULT_CITIZENSHIP) == CITIZEN_TRUE) then
+       call Node101;
+   else
+       call Node069;
+end
+
+procedure Node064 begin
+   set_global_var(GVAR_VAULT_GECKO_PLANT,PLANT_ACCEPTED_QUEST);
+
+   Reply(447);
+
+   NOption(448,Node053,004);
+   NOption(449,Node999,004);
+end
+
+procedure Node065 begin
+   Reply(450);
+
+   if (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_NEED_PART) then
+       NOption(451,Node067,004);
+   if (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_DESTROYED) then
+       NOption(452,Node070,004);
+   if (global_var(GVAR_VAULT_GECKO_PLANT) >= PLANT_REPAIRED) then
+       NOption(453,Node073,004);
+   BOption(454,Node066,004);
+end
+
+procedure Node066 begin
+   Reply(455);
+
+   NOption(456,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(457,Node999,004);
+end
+
+procedure Node067 begin
+   Reply(458);
+
+   BOption(460,Node068,004);
+   NOption(461,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(462,Node999,004);
+end
+
+procedure Node068 begin
+   Reply(463);
+
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       BOption(464,Node063a,004);
+   BOption(465,Node063a,004);
+   NOption(466,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(467,Node999,004);
+end
+
+procedure Node069 begin
+   set_bad_critter_reaction;
+
+   if (From_WTG) then begin
+       Reply(468);
+   end
+   else if (From_62) then begin
+       From_62 := 0;
+       Reply(469);
+   end
+   else
+       Reply(470);
+
+   BLowOption(471,Node998);
+   NLowOption(472,Node010a);
+   if (From_WTG) then begin
+       From_WTG := 0;
+       BOption(473,Node998,004);
+   end
+   BOption(474,Node998,004);
+   NOption(475,Node010a,004);
+end
+
+procedure Node070 begin
+   set_bad_critter_reaction;
+
+   set_local_var(LVAR_Reactor_Done,1);
+
+   Reply(476);
+
+   if (global_var(GVAR_VAULT_CITIZENSHIP) == 0) then
+       BOption(477,Node069,004);
+   NOption(478,Node069,004);
+   NOption(479,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(480,Node999,004);
+end
+
+procedure Node071 begin
+   set_bad_critter_reaction;
+
+   Reply(481);
+
+   BOption(482,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(483,Node999,004);
+end
+
+procedure Node072 begin
+   if (local_var(LVAR_Info_Paid) == 0) then begin
+       inc_local_var(LVAR_Info_Paid);
+       inc_local_var(LVAR_Raiders_Done); // Seraph's Fix: inc_local_var only takes 1 arg. Thanks Rob!
+       item_caps_adjust(dude_obj,1000);
+       display_msg( mstr(872) );
+       give_xp(EXP_FINISHED_RAIDERS);
+       set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_TOLD_LYNETTE_ABOUT_RAIDERS ) );
+       Reply(484);
+   end
+   else
+       Reply(485);
+
+   NOption(486, Node110, 004);
+end
+
+procedure Node073 begin
+   set_local_var(LVAR_Reactor_Done,1);
+   Reply(487);
+
+   BOption(488,Node074,004);
+   //GOption(489,Node076,004);
+   GOption(489,Node073a,004); //edit by killap
+end
+
+procedure Node073a begin
+   if( ( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_REAL_CITIZEN ) or
+       ( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_CAPTAIN_GUARD ) ) then
+      call Node076; //edit by killap - was Node076c
+   else
+      call Node076c; //edit by killap - was Node076
+end
+
+procedure Node074 begin
+   set_bad_critter_reaction;
+
+   Reply(490);
+
+   BOption(491,Node075,004);
+   BOption(492,Node075,004);
+   BOption(493,Node075,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       BOption(494,Node075,004);
+end
+
+procedure Node075 begin
+   Reply(495);
+
+   if (check_general_rep < 0) then
+       BOption(496,Node998,004);
+   else
+       BOption(497,Node071,004);
+   BOption(498,Node071,004);
+   NOption(499,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(500,Node999,004);
+end
+
+procedure Node076 begin
+   Reply(501);
+
+   NOption(881,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+      NOption(882,Node999,004);
+end
+
+procedure Node076a begin
+   set_global_var(GVAR_VAULT_CITIZEN,CITIZEN_REAL_CITIZEN);
+   set_global_var(GVAR_VAULT_CITIZENSHIP,CITIZEN_TRUE);
+end
+
+procedure Node076b begin
+   set_global_var(GVAR_VAULT_CITIZEN,CITIZEN_REAL_CITIZEN);
+   set_global_var(GVAR_VAULT_CITIZENSHIP,CITIZEN_TRUE);
+
+   inc_local_var(LVAR_Lynette_Respect);
+end
+
+procedure Node076c begin
+   if (global_var(GVAR_VAULT_CITIZENSHIP) == 0) then
+      Reply(502);
+   else
+      Reply(501);
+
+   BOption(503,Node077,004);
+   if (global_var(GVAR_VAULT_CITIZENSHIP) == CITIZEN_TRUE) then begin
+       NOption(504,Node999,004);
+       NOption(505,Node999,004);
+   end
+   else begin
+      NOption(506, Node076a, 004);
+      if ((dude_speech >= 75) or (dude_charisma > 7)) then
+         NOption(507, Node076b, 004);
+   end
+end
+
+procedure Node077 begin
+   if (global_var(GVAR_VAULT_CITIZENSHIP) == 0) then begin
+       set_global_var(GVAR_VAULT_CITIZEN,CITIZEN_REAL_CITIZEN);
+       set_global_var(GVAR_VAULT_CITIZENSHIP,CITIZEN_TRUE);
+       set_bad_critter_reaction;
+       Reply(508);
+   end
+   else
+       Reply(509);
+
+   BOption(510,Node998,004);
+   NOption(511,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(512,Node999,004);
+end
+
+procedure Node077a begin
+   Reply(513);
+
+   BOption(514,Node998,004);
+   NOption(515,Node999,004);
+end
+
+procedure Node078 begin
+   Reply(516);
+
+   NOption(517,Node078a,004);
+   NOption(518,Node085,004);
+   BOption(519,Node084,004);
+end
+
+procedure Node078a begin
+   if (global_var(GVAR_VAULT_CITIZENSHIP) == CITIZEN_TRUE) then
+       call Node080;
+   else
+       call Node079;
+end
+
+procedure Node079 begin
+   Reply(520);
+
+   BOption(521,Node998,004);
+   NOption(522,Node010a,004);
+   BOption(523,Node010a,004);
+end
+
+procedure Node080 begin
+   Reply(524);
+
+   NOption(525,Node081,004);
+   NOption(526,Node083,004);
+   BOption(527,Node084,004);
+   NOption(528,Node999,004);
+end
+
+procedure Node081 begin
+   set_global_var(GVAR_DR_TROY_STATUS,TROY_EXILED);
+   set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_EXILE_TROY ) );
+
+   Reply(529);
+
+   NOption(530,Node081a,004);
+   NOption(531,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(532,Node081b,004);
+end
+
+procedure Node081a begin
+   set_neutral_critter_reaction;
+   call Node053;
+end
+
+procedure Node081b begin
+   inc_local_var(LVAR_Lynette_Respect);
+end
+
+procedure Node082 begin
+   Reply(533);
+
+   NOption(535,Node053,004);
+   NOption(536,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(537,Node082a,004);
+end
+
+procedure Node082a begin
+   inc_local_var(LVAR_Lynette_Respect);
+end
+
+procedure Node083 begin
+   Reply(538);
+
+   if (map_var(MVAR_Bribe) == 1) then
+       BOption(539,Node069,004);
+   NOption(540,Node081,004);
+   BOption(541,Node084,004);
+   NOption(542,Node999,004);
+end
+
+procedure Node084 begin
+   if (global_var(GVAR_VAULT_CITIZENSHIP) == CITIZEN_TRUE) then
+       Reply(543);
+   else
+       Reply(544);
+
+   BOption(883, Node084c, 004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       BOption(884,Node084c,004);
+end
+
+procedure Node084a begin
+   set_bad_critter_reaction;
+end
+
+procedure Node084b begin
+   set_neutral_critter_reaction;
+end
+
+procedure Node084c begin
+   Reply(545);
+
+   BOption(546, Node041, 004);
+   BOption(547, Node084a, 004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(548,Node084b,004);
+end
+
+procedure Node085 begin
+   Reply(549);
+
+   NOption(550,Node085a,004);
+   NOption(551,Node085b,004);
+   BOption(552,Node086,004);
+   if ( ( dude_speech < 75 ) and ( dude_charisma < 8 ) ) then
+       NOption(553,Node999,004);
+   else
+       NOption(554,Node999,004);
+end
+
+procedure Node085a begin
+   if (global_var(GVAR_VAULT_CITIZENSHIP) == CITIZEN_TRUE) then
+       call Node080;
+   else
+       call Node079;
+end
+
+procedure node085b begin
+   set_neutral_critter_reaction;
+   call Node053;
+end
+
+procedure Node086 begin
+   set_bad_critter_reaction;
+
+   Reply(555);
+
+   BOption(556,Node041,004);
+   NOption(557,Node999,004);
+end
+
+procedure Node087 begin
+   Reply(558);
+
+   if (global_var(GVAR_MOORE_ACCEPT_DELIVERY) == ACCEPT_DELIVERY_HAPPY) then
+       NOption(559,Node099,004);
+   NOption(560,Node088,004);
+   NOption(561,Node053,004);
+   BOption(562,Node092,004);
+   BOption(563,Node087a,004);
+   BOption(564,Node102,004);
+   NOption(565,Node999,004);
+end
+
+procedure Node087a begin
+   if (local_var(LVAR_Said_87) == 0) then begin
+       inc_local_var(LVAR_Said_87);
+       call Node100;
+   end
+   else
+       call Node101;
+end
+
+procedure Node088 begin
+   Reply(566);
+
+   NOption(567,Node089,008);
+   NOption(568,Node091,004);
+   BOption(569,Node087a,004);
+   NOption(570,Node102,004);
+   NOption(571,Node053,004);
+   NOption(572,Node999,004);
+end
+
+procedure Node089 begin
+   Reply(573);
+
+   NOption(574,Node090,004);
+   NOption(575,Node091,004);
+   NOption(576,Node053,004);
+   NOption(577,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(578,Node089a,004);
+end
+
+procedure Node089a begin
+   inc_local_var(LVAR_Lynette_Respect);
+end
+
+procedure Node090 begin
+   Reply(579);
+
+   NOption(580,Node091,004);
+   NOption(581,Node053,004);
+   NOption(582,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(583,Node089a,004);
+end
+
+procedure Node091 begin
+   Reply(584);
+
+   BOption(585,Node087a,004);
+   BOption(586,Node092,004);
+   NOption(587,Node102,004);
+   NOption(588,Node999,004);
+end
+
+procedure Node092 begin
+   set_bad_critter_reaction;
+
+   Reply(589);
+
+   NOption(590,Node041,004);
+   BOption(591,Node086,006);
+   BOption(592,Node093,004);
+   BOption(593,Node094,004);
+   NOption(594,Node999,004);
+end
+
+procedure Node093 begin
+   Reply(595);
+
+   if (global_var(GVAR_MOORE_ACCEPT_DELIVERY) == ACCEPT_DELIVERY_HAPPY) then
+       NOption(596,Node099,004);
+   BOption(597,Node094,004);
+   BOption(598,Node086,004);
+   NOption(599,Node999,004);
+end
+
+procedure Node094 begin
+   Reply(600);
+
+   BOption(601,Node095,004);
+   BOption(602,Node097,004);
+   BOption(603,Node094a,004);
+end
+
+procedure Node094a begin
+   set_bad_critter_reaction;
+end
+
+procedure Node095 begin
+   Reply(604);
+
+   BOption(605,Node097,004);
+   BOption(606,Node094a,004);
+end
+
+procedure Node096 begin
+   Reply(607);
+
+   NOption(608,Node053,004);
+   BOption(609,Node097,004);
+   BOption(610,Node096a,004);
+   NOption(611,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(612,Node999,004);
+end
+
+procedure Node096a begin
+   if (has_rep_slaver) then
+       call Node098;
+   else
+       call Node097;
+end
+
+procedure Node097 begin
+   Reply(613);
+
+   BOption(614,Node097a,004);
+   BOption(615,Node097a,004);
+   NOption(616,Node053,004);
+   BOption(617,Node097b,004);
+   NOption(618,Node097c,004);
+end
+
+procedure Node097a begin
+   if (has_rep_slaver) then
+       call Node098;
+   else
+       call Node086;
+end
+
+procedure Node097b begin
+   set_bad_critter_reaction;
+end
+
+procedure Node097c begin
+   set_neutral_critter_reaction;
+end
+
+procedure Node098 begin
+   Reply(619);
+
+   BOption(620,Node086,004);
+   BOption(621,Node086,004);
+   BOption(622,Node086,004);
+   BOption(623,Node097b,004);
+end
+
+procedure Node099 begin
+   Reply(624);
+
+   if (global_var(GVAR_MOORE_ACCEPT_DELIVERY) == ACCEPT_DELIVERY_HAPPY) then
+       GOption(625,Node103,004);
+   NOption(626,Node053,004);
+   NOption(627,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(628,Node999,004);
+end
+
+procedure Node100 begin
+   set_neutral_critter_reaction;
+
+   Reply(629);
+
+   NOption(630,Node053,004);
+   BOption(631,Node101,004);
+   NOption(632,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(633,Node999,004);
+end
+
+procedure Node101 begin
+   set_bad_critter_reaction;
+
+   Reply(634);
+
+   BOption(635,Node998,004);
+   NOption(636,Node010a,004);
+end
+
+procedure Node102 begin
+   Reply(637);
+
+   BOption(638,Node087a,004);
+   if (global_var(GVAR_MOORE_ACCEPT_DELIVERY) == ACCEPT_DELIVERY_HAPPY) then
+       NOption(639,Node099,004);
+   NOption(640,Node053,004);
+   NOption(641,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(642,Node999,004);
+end
+
+procedure Node103 begin
+   set_global_var(GVAR_MOORE_STATE,MOORE_EXILED);
+   display_msg( mstr(873) );
+   give_xp( EXP_EXILED_MOORE );
+   set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_EXPOSED_MOORE ) );
+   set_good_critter_reaction;
+
+   Reply(643);
+
+   NOption(644,Node053,004);
+   NOption(645,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(646,Node103a,004);
+end
+
+procedure Node103a begin
+   inc_local_var(LVAR_Lynette_Respect);
+end
+
+procedure Node104 begin
+   Reply(647);
+
+   NOption(648,Node105,004);
+   NOption(649,Node053,004);
+   NOption(650,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(651,Node999,004);
+end
+
+procedure Node105 begin
+   Reply(652);
+
+   NOption(653,Node106,004);
+   NOption(654,Node053,004);
+   NOption(655,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(656,Node103a,004);
+end
+
+procedure Node106 begin
+   Reply(657);
+
+   NOption(658,Node053,004);
+   NOption(659,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(660,Node103a,004);
+end
+
+procedure Node107 begin
+   Reply(661);
+
+
+   if (raiders_scout_left) then //added by killap - expansion
+       NOption(1663,Node072,004);
+   else if (raiders_dead) then
+       NOption(663,Node072,004);
+   else
+       NOption(662,Node108,004);
+       
+   if (local_var(LVAR_Info_Paid) == 0) then
+       BOption(664,Node107a,004);
+   NOption(665,Node999,004);
+end
+
+procedure Node107a begin
+   if (global_var(GVAR_VAULT_CITIZENSHIP) == CITIZEN_TRUE) then begin
+       if (skill_success(dude_obj,SKILL_BARTER,0)) then
+           call Node117;
+       else
+           call Node101;
+   end
+
+   else
+       call Node069;
+end
+
+procedure Node108 begin
+   Reply(666);
+
+   BOption(667,Node109,004);
+   NOption(668,Node999,004);
+end
+
+procedure Node109 begin
+   set_bad_critter_reaction;
+
+   Reply(669);
+
+   BOption(670,Node041,004);
+   NOption(671,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(672,Node999,004);
+end
+
+procedure Node110 begin
+   if (local_var(LVAR_Said_110) == 0) then begin
+       inc_local_var(LVAR_Said_110);
+       Reply(673);
+   end
+   else
+       Reply(674);
+
+   if ((town_known(AREA_RAIDERS) != MARK_STATE_UNKNOWN) and (not(obj_is_carrying_obj_pid(dude_obj,PID_ACCOUNT_BOOK)))) then
+       NOption(675,Node111,004);
+   else
+       NOption(676,Node111,004);
+   NOption(677,Node082,004);
+end
+
+procedure Node111 begin
+   if (local_var(LVAR_Said_111) == 0) then begin
+       inc_local_var(LVAR_Said_111);
+       Reply(678);
+   end
+   else
+       Reply(679);
+
+   if ((town_known(AREA_RAIDERS) != MARK_STATE_UNKNOWN) and (not(obj_is_carrying_obj_pid(dude_obj,PID_ACCOUNT_BOOK)))) then
+       NOption(680,Node112,004);
+   else
+       NOption(681,Node114,004);
+   NOption(682,Node082,004);
+end
+
+procedure Node112 begin
+   Reply(683);
+
+   NOption(684,Node113,004);
+end
+
+procedure Node113 begin
+   set_good_critter_reaction;
+
+   Reply(685);
+
+   NOption(686,Node053,004);
+   NOption(687,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(688,Node103a,004);
+end
+
+procedure Node114 begin
+   variable obj; //added by killap
+
+   set_global_var(GVAR_VAULT_RAIDERS,RAIDERS_PLANS_KNOWN_RENO);
+
+   Reply(689);
+
+   //added by killap
+   if (obj_is_carrying_obj_pid(dude_obj,PID_ACCOUNT_BOOK)) then begin
+      obj := obj_carrying_pid_obj(dude_obj, PID_ACCOUNT_BOOK);
+      rm_obj_from_inven(dude_obj, obj);
+   end
+   //end added
+   
+   if (obj_is_carrying_obj_pid(dude_obj,PID_BISHOPS_HOLODISK)) then begin
+   //killap code
+      item_caps_adjust(dude_obj,500);
+      display_msg( mstr(874) );
+      give_xp(EXP_RENO_RAIDER_CONNECTION);
+      set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_EXPOSED_BISHOP_RAIDERS ) );
+      set_good_critter_reaction;
+      
+      NOption(690,Node116,004);
+   end
+   //end killap code
+   else
+       NOption(691,Node115,004);
+end
+
+procedure Node115 begin
+   item_caps_adjust(dude_obj,500);
+   display_msg( mstr(874) );
+   give_xp(EXP_RENO_RAIDER_CONNECTION);
+   set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_EXPOSED_BISHOP_RAIDERS ) );
+   set_good_critter_reaction;
+
+   Reply(692);
+
+   NOption(693,Node053,004);
+   NOption(694,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(695,Node103a,004);
+end
+
+procedure Node116 begin
+   display_msg( mstr(875) );
+   give_xp(EXP_NCR_RAIDER_CONNECTION);
+   set_global_var(GVAR_VAULT_RAIDERS,RAIDERS_PLANS_KNOWN_NCR);
+   set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_EXPOSED_BISHOP_NCR ) );
+
+   Reply(696);
+
+   if ((global_var(GVAR_MOORE_ACCEPT_DELIVERY) == ACCEPT_DELIVERY_HAPPY) and
+       (global_var(GVAR_MOORE_STATE) < MOORE_EXILED)) then
+       NOption(697,Node137,004);
+   NOption(698,Node116a,004);
+   NOption(699,Node119,004);
+end
+
+procedure Node116a begin
+   inc_general_rep(REP_BONUS_BUST_MOORE);
+   call Node119;
+end
+
+procedure Node117 begin
+   Reply(700);
+
+   NOption(701,Node117a,004);
+   NOption(702,Node117b,004);
+   NOption(703,Node117c,004);
+   NOption(704,Node117d,004);
+   NOption(705,Node107,004);
+end
+
+procedure Node117a begin
+   if (skill_success(dude_obj,SKILL_BARTER,20)) then begin
+       item_caps_adjust(dude_obj,100);
+       call Node118;
+   end
+   else
+       call Node101;
+end
+
+procedure Node117b begin
+   if (skill_success(dude_obj,SKILL_BARTER,10)) then begin
+       item_caps_adjust(dude_obj,200);
+       call Node118;
+   end
+   else
+       call Node101;
+end
+
+procedure Node117c begin
+   if (skill_success(dude_obj,SKILL_BARTER,-20)) then begin
+       item_caps_adjust(dude_obj,400);
+       call Node118;
+   end
+   else
+       call Node101;
+end
+
+procedure Node117d begin
+   if (skill_success(dude_obj,SKILL_BARTER,-50)) then begin
+       item_caps_adjust(dude_obj,500);
+       call Node118;
+   end
+   else
+       call Node101;
+end
+
+procedure Node118 begin
+   set_local_var(LVAR_Info_Paid,1);
+
+   Reply(706);
+
+   if (raiders_scout_left) then //added by killap - expansion
+       NOption(1708,Node072,004);
+   else if (raiders_dead) then
+       NOption(708,Node072,004);
+   else
+       NOption(707,Node108,004);
+       
+   BOption(709,Node101,004);
+   BOption(710,Node101,004);
+end
+
+procedure Node119 begin
+   mark_new_CA_republic_on_map
+
+   Reply(711);
+
+   if (get_westin_flag(WESTIN_DEAD)) then
+       NOption(712,Node120,004);
+   else begin
+       NOption(713,Node122,004);
+       NOption(714,Node123,004);
+   end
+   NOption(715,Node119a,004);
+end
+
+procedure Node119a begin
+   set_global_var(GVAR_VAULT_DELIVER_HOLODISK,HOLODISK_DECLINED);
+   call Node109;
+end
+
+procedure Node120 begin
+   Reply(716);
+
+   NOption(717,Node120a,004);
+   NOption(718,Node124,004);
+end
+
+procedure Node120a begin
+   inc_general_rep(REP_BONUS_TOLD_LYNETTE_KILLED_WESTIN);
+   call Node121;
+end
+
+procedure Node121 begin
+   if (local_var(LVAR_Info_Paid) == 1) then begin
+       set_bad_critter_reaction;
+       Reply(719);
+   end
+   else begin
+       inc_local_var(LVAR_Info_Paid);
+       set_neutral_critter_reaction;
+       item_caps_adjust(dude_obj,500);
+       Reply(720);
+   end
+
+   if (local_var(LVAR_Info_Paid) == 1) then begin
+       BOption(721,Node069,004);
+       BOption(722,Node041,004);
+       NOption(723,Node999,004);
+   end
+   else begin
+       NOption(724,Node053,004);
+       NOption(725,Node999,004);
+       NOption(726,Node999,004);
+   end
+end
+
+procedure Node122 begin
+   Reply(727);
+
+   NOption(728,Node123,004);
+   NOption(729,Node119a,004);
+end
+
+procedure Node123 begin
+   set_global_var(GVAR_VAULT_DELIVER_HOLODISK,HOLODISK_ACCEPTED);
+
+   Reply(730);
+
+   NOption(731,Node123a,004);
+   NOption(732,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(733,Node103a,004);
+end
+
+procedure Node123a begin
+   set_neutral_critter_reaction;
+   call Node053;
+end
+
+procedure Node124 begin
+   item_caps_adjust(dude_obj,500);
+
+   Reply(734);
+
+   NOption(735,Node053,004);
+   NOption(736,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(737,Node999,004);
+end
+
+procedure Node125 begin
+   Reply(738);
+
+   BOption(739,Node127,004);
+   BOption(740,Node128,004);
+   NOption(741,Node123a,004);
+   if ( global_var(GVAR_VAULT_DELIVER_HOLODISK) == HOLODISK_DELIVERED ) then
+       NOption(742,Node129,004);
+   NOption(743,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(744,Node999,004);
+end
+
+procedure Node126 begin
+   mark_new_CA_republic_on_map
+
+   set_global_var(GVAR_VAULT_DELIVER_HOLODISK,HOLODISK_ACCEPTED);
+
+   Reply(745);
+
+   NOption(746,Node053,004);
+   NOption(747,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(748,Node999,004);
+end
+
+procedure Node127 begin
+   Reply(749);
+
+   NOption(750,Node123a,004);
+   NOption(751,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(752,Node999,004);
+end
+
+procedure Node128 begin
+   set_bad_critter_reaction;
+   set_global_var(GVAR_VAULT_DELIVER_HOLODISK,0);
+
+   Reply(753);
+
+   BOption(754,Node998,004);
+   NOption(755,Node010a,004);
+end
+
+procedure Node129 begin
+   set_global_var(GVAR_NCR_LYNETTE_HOLO_QST, 2);
+   set_global_var( GVAR_VAULT_DELIVER_HOLODISK, HOLODISK_DONE );
+   set_good_critter_reaction;
+
+   Reply(756);
+
+   if (obj_is_carrying_obj_pid(dude_obj,PID_WESTIN_HOLO)) then
+       NOption(757,Node130,004);
+   BOption(758,Node134,004);
+   NOption(759,Node135,004);
+end
+
+procedure Node130 begin
+   variable disc;
+
+   disc := obj_carrying_pid_obj( dude_obj, PID_WESTIN_HOLO );
+   destroy_object( disc );
+   set_global_var(GVAR_VAULT_RAIDERS,RAIDERS_GIVE_REWARD);
+   set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_GOT_LYNETTE_HOLODISK_BACK ) );
+
+   //Reply(760);
+   NMessage(760);
+
+   gfade_out(600);
+   gfade_in(600);
+   set_good_critter_reaction;
+
+   Reply(762);
+
+   GOption(763,Node130a,004);
+end
+
+procedure Node130a begin
+   if ((local_var(LVAR_Lynette_Respect) > 10) and (dude_charisma > 7)) then
+       call Node132;
+   else
+       call Node131;
+end
+
+procedure Node131 begin
+   set_global_var(GVAR_VAULT_GET_LYNETTE_REWARD,REWARD_OFFERED);
+   display_msg( mstr(870) );
+   give_xp( EXP_GAVE_LYNETTE_HOLODISK );
+
+   Reply(764);
+
+   NOption(765,Node053,004);
+   NOption(766,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(767,Node999,004);
+end
+
+procedure Node132 begin
+   set_global_var(GVAR_VAULT_CITIZEN,CITIZEN_CAPTAIN_GUARD);
+   set_global_var(GVAR_VAULT_CITIZENSHIP,CITIZEN_TRUE);
+   display_msg( mstr(871) );
+   give_xp( EXP_GAVE_LYNETTE_HOLODISK_CAPTAIN );
+   set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_CAPTAIN_GUARD ) );
+
+   Reply(768);
+
+   NOption(769,Node133,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(770,Node133,004);
+end
+
+procedure Node133 begin
+   set_global_var(GVAR_VAULT_GET_LYNETTE_REWARD,REWARD_OFFERED);
+
+   Reply(771);
+
+   NOption(772,Node053,004);
+   NOption(773,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(774,Node999,004);
+end
+
+procedure Node134 begin
+   item_caps_adjust(dude_obj,1000);
+   set_bad_critter_reaction;
+
+   Reply(775);
+
+   NOption(776,Node041,004);
+   NOption(777,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(778,Node999,004);
+end
+
+procedure Node135 begin
+   item_caps_adjust(dude_obj,1000);
+   set_neutral_critter_reaction;
+
+   Reply(779);
+
+   NOption(780,Node053,004);
+   NOption(781,Node999,004);
+   if ((dude_speech >= 75) or (dude_charisma > 7)) then
+       NOption(782,Node999,004);
+end
+
+procedure Node136 begin
+   Reply(783);
+
+   NOption(784,Node116,004);
+end
+
+procedure Node137 begin
+   Reply(785);
+
+   NOption(786,Node138,004);
+end
+
+procedure Node138 begin
+   set_good_critter_reaction;
+   set_global_var(GVAR_MOORE_STATE,MOORE_EXILED);
+   display_msg( mstr(873) );
+   give_xp( EXP_EXILED_MOORE );
+   set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_EXPOSED_MOORE ) );
+
+   Reply(787);
+
+   NOption(788,Node138a,004);
+   NOption(789,Node119,004);
+end
+
+procedure Node138a begin
+   inc_general_rep(REP_BONUS_BUST_MOORE);
+   call Node119;
+end
+
+//xxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,72 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+
+#include "..\headers\define.h"
+#include "..\headers\depolva.h"
+#include "..\headers\depolvb.h"
+
+#define WALL_BLOCKING_HEX       (50332269)
+
+procedure start;
+procedure map_update_p_proc;
+
+procedure start begin
+end
+
+procedure map_update_p_proc begin
+   if (global_var(GVAR_SIERRA_BASE_SECURITY) == SIERRA_SECURITY_ON) then begin
+       if ((elevation(self_obj) == 0) and (map_var(MVAR_Security_Level_1) == 1)) then begin
+           animate_stand;
+           if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),WALL_BLOCKING_HEX)) then
+               destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),WALL_BLOCKING_HEX));
+       end
+       if ((elevation(self_obj) == 1) and (map_var(MVAR_Security_Level_2) == 1)) then begin
+           animate_stand;
+           if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),WALL_BLOCKING_HEX)) then
+               destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),WALL_BLOCKING_HEX));
+       end
+       if ((elevation(self_obj) == 2) and (global_var(GVAR_SIERRA_BASE_ENEMY) == 1)) then begin //edit by killap (expansion)
+       //if ((elevation(self_obj) == 2) and (map_var(MVAR_Security_Level_3) == 1)) then begin
+           animate_stand;
+           if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),WALL_BLOCKING_HEX)) then
+               destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),WALL_BLOCKING_HEX));
+       end
+       //added by killap
+       if ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1)) then begin
+           animate_stand;
+           if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),WALL_BLOCKING_HEX)) then
+               destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),WALL_BLOCKING_HEX));
+       end 
+       //end added by killap 
+   end
+   else begin
+       animate_stand_reverse;
+       if (not(tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),WALL_BLOCKING_HEX))) then
+           create_object(WALL_BLOCKING_HEX,tile_num(self_obj),elevation(self_obj));
+   end
+end

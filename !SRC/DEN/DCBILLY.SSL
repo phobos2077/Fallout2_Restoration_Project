@@ -1,0 +1,430 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: One-tooth Billy
+        Location: Den
+        Description:
+
+        Log: the following defines need to be changed:
+
+           Created: January 8, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\den.h"
+
+#define NAME                        SCRIPT_DCBILLY
+#define TOWN_REP_VAR                GVAR_TOWN_REP_THE_DEN
+
+#include "..\headers\command.h"
+#include "..\headers\denbus2.h"
+
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure push_p_proc;
+procedure timed_event_p_proc;
+
+// dialog nodes
+procedure Node000;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+
+procedure Node998;                                      // This Node is Always Combat
+
+procedure Node996;
+procedure Node995;
+procedure Node994;
+procedure Node993;
+procedure Node992;
+#define LVAR_Flags                        (0)
+#define LVAR_Had_Sex                      (1)
+#define LVAR_Home_Tile                    (2)
+#define LVAR_Jerkin_State                 (3)
+#define LVAR_Home_Rotation                (4)
+
+#define frankie_message_bit               bit_10
+#define said_jerkin_bit                   bit_11
+#define pay_more_bit                      bit_12
+#define bad_sex_bit                       bit_13
+
+#define frankie_message                   lvar_bit(LVAR_Flags, frankie_message_bit)
+#define set_frankie_message               set_lvar_bit_on(LVAR_Flags, frankie_message_bit)
+#define off_frankie_message               set_lvar_bit_off(LVAR_Flags, frankie_message_bit)
+
+#define said_jerkin                       lvar_bit(LVAR_Flags, said_jerkin_bit)
+#define set_said_jerkin                   set_lvar_bit_on(LVAR_Flags, said_jerkin_bit)
+#define off_said_jerkin                   set_lvar_bit_off(LVAR_Flags, said_jerkin_bit)
+
+#define pay_more                          lvar_bit(LVAR_Flags, pay_more_bit)
+#define set_pay_more                      set_lvar_bit_on(LVAR_Flags, pay_more_bit)
+#define off_pay_more                      set_lvar_bit_off(LVAR_Flags, pay_more_bit)
+
+#define bad_sex                           lvar_bit(LVAR_Flags, bad_sex_bit)
+#define set_bad_sex                       set_lvar_bit_on(LVAR_Flags, bad_sex_bit)
+#define off_bad_sex                       set_lvar_bit_off(LVAR_Flags, bad_sex_bit)
+
+#define billy_had_sex                     (local_var(LVAR_Had_Sex) != 0)
+
+#define billy_in_hole_time                ((game_time_hour >= 800) or (game_time_hour <= 300))
+
+//#define billy_leave_map_tile              (13742)
+#define billy_leave_map_tile              (15136) //changed by killap
+
+variable sex_money;
+variable sex_partner;
+
+import variable frankie_obj;
+
+procedure start begin
+end
+procedure timed_event_p_proc begin
+   if (fixed_param == timed_event_float) then begin
+      if (combat_is_initialized == false) then begin
+         floater_rand(410, 414);
+      end
+   end else if (fixed_param == timed_event_post_sex) then begin
+      set_frankie_message;
+      if (combat_is_initialized == false) then begin
+         if (sex_partner == dude_obj) then begin
+            if (dude_sex_rating >= sex_rating_great) then begin
+               call Node010;
+               off_bad_sex;
+            end else if (dude_sex_rating >= sex_rating_normal) then begin
+               call Node011;
+               off_bad_sex;
+            end else begin
+               set_bad_sex;
+               call Node012;
+               set_local_var(LVAR_Jerkin_State, random(3, 10));
+               flush_add_timer_event_sec(self_obj, random(5, 15), timed_event_jerkin);
+               set_said_jerkin;
+            end
+         end else if (sex_partner != 0) then begin
+            float_msg(sex_partner, mstr(500), FLOAT_COLOR_NORMAL);
+            call Node011;
+         end
+      end
+   end else if (fixed_param == timed_event_jerkin) then begin
+      dec_local_var(LVAR_Jerkin_State);
+      if (local_var(LVAR_Jerkin_State) > 0) then begin
+         call Node013;
+         flush_add_timer_event_sec(self_obj, random(5, 15), timed_event_jerkin);
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_local_var(LVAR_Home_Tile, self_tile);
+      end
+      if (frankie_dead) then begin
+         debug_msg("KILLING BILLY, SINCE FRANKIE'S DEAD");
+         destroy_object(self_obj);
+      end
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_HOLE);
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+      set_local_var(LVAR_Jerkin_State, 0);
+      off_said_jerkin;
+      off_frankie_message;
+      //set_local_var(LVAR_Home_Tile, self_tile); --comment out by killap
+   end
+end
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (hostile) then begin
+         self_attack_dude;
+      end else if (local_var(LVAR_Jerkin_State) > 0) then begin
+         set_said_jerkin;
+         call Node014;
+      end
+   end else if (local_var(LVAR_Jerkin_State) > 0) then begin
+      off_said_jerkin;
+   end else if (billy_in_hole_time == false) then begin
+      if (self_tile != billy_leave_map_tile) then begin //edit by killap
+      //if (tile_distance(self_tile, billy_leave_map_tile) > 1) then begin
+         anim_move_to_point(billy_leave_map_tile) /*, 5)*/
+      end else if (self_visible) then begin
+         check_set_obj_visiblility(self_obj, true);
+      end
+   end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
+      if (self_visible == false) then begin
+         check_set_obj_visiblility(self_obj, false);
+      end else begin
+         anim_move_to_point(local_var(LVAR_Home_Tile))/*, 5)*/
+      end
+   end else if (frankie_message) then begin
+      if (frankie_obj == 0) then begin
+         off_frankie_message;
+      end else if (obj_can_see_obj(frankie_obj, self_obj)) then begin
+         off_frankie_message;
+         if (combat_is_initialized == false) then begin
+            float_msg(frankie_obj, mstr(random(400, 404)), FLOAT_COLOR_NORMAL);
+         end
+      end
+   end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
+      animate_rotation(local_var(LVAR_Home_Rotation));
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+      set_local_var(LVAR_Jerkin_State, 0);
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Jerkin_State) > 0) then begin
+      call Node013;
+   end else if (billy_in_hole_time == false) then begin
+      call Node016;
+   end else if (tile_in_hole(self_tile) == false) then begin
+      call Node015;
+   end else begin
+      sex_partner := dude_obj;
+      if ((billy_had_sex) and (game_time >= local_var(LVAR_Had_Sex))) then begin
+         set_local_var(LVAR_Had_Sex,0);
+         set_pay_more;
+      end
+      if (billy_had_sex) then begin
+         start_dialog_at_node(Node005);
+      end else begin
+         start_dialog_at_node(Node000);
+      end
+      set_herebefore;
+   end
+end
+
+procedure push_p_proc begin
+   if (local_var(LVAR_Jerkin_State) > 0) then begin
+      script_overrides;
+      call Node013;
+   end
+end
+
+procedure destroy_p_proc begin
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150 + herebefore);
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node999 begin
+   // to exit dialogs
+end
+procedure Node998 begin
+   // sets up combat
+   set_hostile;
+end
+
+procedure Node996 begin
+   // set money to 50 and goto 3
+   sex_money := 50;
+   call Node993;
+end
+procedure Node995 begin
+   //set money to 200, roll speech and if success goto 3 else goto 7
+   sex_money := 200;
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+      call Node993;
+   end else begin
+      call Node007;
+   end
+end
+procedure Node994 begin
+variable see_miria;
+   if (Miria_In_Party) then begin
+      if (obj_can_see_obj(self_obj, Miria_Ptr)) then begin
+         see_miria := true;
+      end
+   end
+
+   if ((dude_is_male) and (see_miria)) then begin
+      call Node001;
+   end else if (((bad_sex) and (dude_sex_rating < sex_rating_normal)) or (dude_is_male) or (dude_charisma <= 5)) then begin
+      call Node008;
+   end else begin
+      call Node006;
+   end
+end
+procedure Node993 begin
+   // setup sex with billy
+   gfade_out(ONE_GAME_SECOND);
+      item_caps_adjust(dude_obj, sex_money);
+      set_local_var(LVAR_Had_Sex, game_time + ONE_GAME_DAY);
+      critter_attempt_placement(self_obj, billy_sex_tile, self_elevation);
+      critter_attempt_placement(sex_partner, billy_player_sex_tile, self_elevation);
+      Face_Critter(sex_partner, self_obj);
+      Face_Critter(self_obj, sex_partner);
+      flush_add_timer_event(self_obj, 0, timed_event_post_sex);
+      if (sex_partner == dude_obj) then begin
+         do_default_sex;
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+            reg_anim_animate(self_obj,ANIM_fall_back_sf,-1);
+         reg_anim_end();
+      end else begin
+         game_time_advance(have_sex_time_obj(self_obj));
+      end
+   gfade_in(ONE_GAME_SECOND);
+end
+procedure Node992 begin
+   // give billy his caps back and exit
+end
+
+procedure Node000 begin
+   call Node994;
+end
+
+procedure Node001 begin
+   Reply(153);
+   NOption(154,Node004,004);
+   NOption(155,Node002,004);
+   NOption(156,Node002,004);
+   NOption(157,Node002,-003);
+end
+procedure Node002 begin
+   sex_partner := Miria_Ptr;
+   sex_money := 0;
+   Reply(158);
+   NOption(159,Node993,004);
+   NOption(160,Node996,004);
+   if (pay_more) then begin
+      NOption(161,Node995,004);
+   end
+   NOption(162,Node004,004);
+   NOption(163,Node993,-003);
+   NOption(164,Node004,-003);
+end
+procedure Node003 begin
+   // had sex with billy
+   Reply(202);
+   NOption(166,Node004,004);
+   NOption(167,Node999,004);
+   NOption(168,Node999,-003);
+end
+procedure Node begin
+end
+procedure Node004 begin
+   Reply(169);
+   NOption(170,Node999,001);
+end
+procedure Node005 begin
+   Reply(171);
+   NOption(172,Node999,004);
+   NOption(173,Node999,-003);
+end
+procedure Node006 begin
+   sex_partner := dude_obj;
+   if (bad_sex) then begin
+      Reply(530);
+      off_bad_sex;
+   end else begin
+      Reply(174);
+   end
+   NOption(175,Node004,004);
+   NOption(176,Node995,004);
+   NOption(177,Node996,004);
+   NOption(178,Node999,-003);
+end
+procedure Node007 begin
+   Reply(179);
+   NOption(180,Node996,004);
+   NOption(181,Node004,004);
+   NOption(182,Node999,004);
+end
+procedure Node008 begin
+   if (bad_sex) then begin
+      Reply(530);
+   end else begin
+      Reply(183);
+   end
+   NOption(184,Node004,004);
+   if (dude_is_female) then begin
+      NOption(185,Node009,004);
+   end
+   NOption(186,Node999,004);
+   NOption(187,Node999,-003);
+end
+procedure Node009 begin
+   Reply(188);
+   NOption(189,Node999,004);
+   NOption(190,Node999,004);
+   NOption(191,Node004,004);
+end
+
+procedure Node010 begin
+   floater_rand(300, 305);
+end
+procedure Node011 begin
+   floater_rand(320, 324);
+end
+procedure Node012 begin
+   floater_rand(350, 352);
+end
+procedure Node013 begin
+   if (self_can_see_dude) then begin
+      call Node014;
+   end else begin
+      floater_rand(370, 377);
+   end
+end
+procedure Node014 begin
+   floater_rand(390, 393);
+end
+procedure Node015 begin
+variable see_miria;
+   if (Miria_In_Party) then begin
+      if (miria_is_dude_companion) then begin
+         see_miria := true;
+      end
+   end
+   floater_rand(511 - ((dude_is_male) and (see_miria)), 512 + ((dude_is_female) and (dude_charisma > 5)));
+end
+procedure Node016 begin
+   floater_rand(520, 522);
+end

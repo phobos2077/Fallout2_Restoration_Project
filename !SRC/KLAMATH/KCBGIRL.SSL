@@ -1,0 +1,202 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Klamath bath girl
+        Location: Klamath
+        Description: Same as the name.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: April 19, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+//#include "..\headers\<TownName.h>"
+
+#define NAME                    SCRIPT_KCBGIRL
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_KLAMATH)
+
+#include "..\headers\command.h"
+#include "..\headers\klamath.h"
+#include "..\headers\kladwtn.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure damage_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure saysomething;
+procedure rate_dude;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Personal_Enemy             (0)
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable pick;
+variable In_Timed_Event:=0;
+variable k;
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_KLAMATH);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+   if (  ( (global_var(GVAR_ENEMY_KLAMATH) == 1)
+        or (global_var(GVAR_BATH_HOUSE_REJECT) == 1)
+        or (local_var(LVAR_Personal_Enemy) == 1) ) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+      self_attack_dude;
+      //Flee_From_Dude
+   end
+
+
+   else if ( (map_var(MVAR_Just_Had_Sex) == 1) and (tile_distance(tile_num(self_obj),tile_num(dude_obj)) < 3) ) then begin
+      set_map_var(MVAR_Just_Had_Sex,0);
+      call rate_dude;
+   end
+   else if ((random(0,200) == 1) and (In_Timed_Event == 0)) then begin
+       In_Timed_Event:=1;
+       add_timer_event(self_obj,game_ticks(random(17,37)),1);
+   end
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_local_var(LVAR_Personal_Enemy,1);
+      set_global_var(GVAR_ENEMY_KLAMATH,1);
+   end
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      floater(random(170,186));
+      set_local_var(LVAR_Personal_Enemy,1);
+      set_global_var(GVAR_BATH_HOUSE_REJECT,1);
+   end
+end
+
+procedure talk_p_proc begin
+   call saysomething;
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   k:=random(100,106);
+   script_overrides;
+   display_msg(mstr(k));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   k:=random(110,113);
+   script_overrides;
+   display_msg(mstr(k));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+   if (action_being_used == SKILL_STEAL) then begin
+      if (is_success(roll_vs_skill(dude_obj,action_being_used,0))) then begin
+        //CHANGE -nbk
+        //inc_general_rep(REP_BONUS_ARROYO_MONEY_THEFT);
+      end
+      else
+         display_msg(mstr(186));
+   end
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then begin
+       if (tile_distance(tile_num(dude_obj),tile_num(self_obj)) < 3) then begin
+          call saysomething;
+       end
+       In_Timed_Event:=0;
+   end
+end
+
+procedure rate_dude begin
+   if dude_is_male then begin
+      if (dude_endurance < 5) then begin
+         floater(random(120,127));
+      end
+      else if (dude_endurance >= 9) then begin
+         floater(random(140,145));
+      end
+      else begin
+         floater(random(130,137));
+      end
+   end
+   else begin
+      if (dude_charisma < 5) then begin
+         floater(random(150,155));
+      end
+      else begin
+         floater(random(160,166));
+      end
+   end
+end
+
+procedure saysomething begin
+   floater(random(170,186));
+end
+
+procedure Node998 begin
+   set_local_var(LVAR_Personal_Enemy,1);
+end
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end

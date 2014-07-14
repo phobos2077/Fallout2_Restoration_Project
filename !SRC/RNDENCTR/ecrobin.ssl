@@ -1,0 +1,300 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Robin
+        Location: Special Random encounter
+        Description: He is a knight with arthur
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+//#include "..\headers\<TownName.h>"
+
+#define NAME                    SCRIPT_ECROBIN
+//#define TOWN_REP_VAR            (GVAR_TOWN_REP_)
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#include "..\headers\specenc.h"
+#include "..\headers\rndholy1.h"
+
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+import variable i_robin_obj;
+import variable i_vorpal_obj;
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable begin
+   tileone;
+   tileonea;
+   tileexit;
+   movedPos1;
+   movedLeave;
+
+   node1rep;
+   node2rep;
+end
+
+
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_MOVE_POS_A) then begin
+      if (not combat_is_initialized) then begin
+         if (not anim_busy(self_obj) and self_tile != tileonea) then begin
+            reg_anim_clear(self_obj);
+            reg_anim_begin();
+            animate_move_to_tile(tileonea);
+            reg_anim_end();
+            add_timer_event(self_obj, 10, TIMER_MOVE_POS_A);
+         end else if (self_tile == tileonea) then begin
+            set_mvar_bit_on(MVAR_Arthur_Leave, ROBIN_IN_POS);
+         end else
+            add_timer_event(self_obj, 10, TIMER_MOVE_POS_A);
+      end else
+         add_timer_event(self_obj, 10, TIMER_MOVE_POS_A);
+   end else if (fixed_param == TIMER_MOVE_EXIT) then begin
+      if (not combat_is_initialized) then begin
+         if (not anim_busy(self_obj) and self_tile != tileexit) then begin
+            reg_anim_clear(self_obj);
+            reg_anim_begin();
+            animate_move_to_tile(tileexit);
+            reg_anim_end();
+            add_timer_event(self_obj, 10, TIMER_MOVE_EXIT);
+         end else if (self_tile == tileexit) then begin
+            i_robin_obj := -2;
+            destroy_object(self_obj);
+         end else
+            add_timer_event(self_obj, 10, TIMER_MOVE_EXIT);
+      end else
+         add_timer_event(self_obj, 10, TIMER_MOVE_EXIT);
+   end
+end
+
+procedure start begin
+   i_robin_obj := self_obj;
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_KNIGHTS);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+
+   if (ARTHUR_ENCOUNTER_ONE) then begin
+      tileone := tile_num_in_direction(ARTHUR_TILE_ONE, 0, 2);
+      tileonea := tile_num_in_direction(ARTHUR_TILE_ONE_A, 5, 2);
+      tileexit := tile_num_in_direction(ARTHUR_TILE_ONE_EXIT, 5, 2);
+
+      move_to(self_obj, tileone, 0);
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+      animate_rotation(4);
+      reg_anim_end();
+   end
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+   if (ARTHUR_ENCOUNTER_ONE) then begin
+      if (mvar_bit(MVAR_Arthur_Leave, BIT_LEAVE) and movedPos1 == 0) then begin
+         movedPos1 := 1;
+         add_timer_event(self_obj, 0, TIMER_MOVE_POS_A);
+         debug_msg("ECROBIN: moving to pos a");
+      end
+
+      if (mvar_bit(MVAR_Arthur_Leave, ALL_LEAVE_BIT) and movedLeave == 0) then begin
+         movedLeave := 1;
+         add_timer_event(self_obj, 0, TIMER_MOVE_EXIT);
+         debug_msg("ECROBIN: moving to exit");
+      end
+   end else begin
+      if (i_vorpal_obj != -1 and elevation(self_obj) == elevation(dude_obj)) then begin
+         attack(i_vorpal_obj);
+      end
+   end
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   call Node002;
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+  Slavery_Tolerant:=SLAVE_TOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION1;
+
+//   CheckKarma;
+
+//   GetReaction;
+
+   call Node001;
+   set_local_var(LVAR_Herebefore, 1);
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+   variable obj;
+   obj := obj_carrying_pid_obj(self_obj, PID_PLASMA_RIFLE);
+   if (obj) then
+      destroy_object(obj);
+
+   //added by killap
+   if (global_var(GVAR_SPECIAL_ENCOUNTER_HOLY2) == 0) then
+      set_global_var(GVAR_SPECIAL_ENCOUNTER_HOLY2,1); //so you no longer encounter them a second time despite you killing them
+   //end added
+   
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+   i_robin_obj := -1; //edit by killap
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(101));
+   else
+      display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   if (node1rep > 3) then node1rep := 0;
+   float_msg(self_obj, mstr(103 + node1rep), FLOAT_MSG_NORMAL);
+   node1rep += 1; //moved here by killap - was at the start of the procedure.
+end
+
+procedure Node002 begin
+   if (node2rep > 2) then node2rep := 0;
+   float_msg(self_obj, mstr(200 + node2rep), FLOAT_MSG_RED);
+   node2rep += 1; //moved here by killap - was at the start of the procedure.
+end
+
+//xxxxxxxxxxxxxxxxxxxx

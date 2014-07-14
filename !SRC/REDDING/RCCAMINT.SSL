@@ -1,0 +1,533 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+//#include "..\headers\<TownName.h>"
+
+#define NAME                    SCRIPT_RCCAMINT
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_REDDING)
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+
+#define Tile1                   (22281)
+#define Tile2                   (24081)
+#define Tile3                   (23286)
+
+#define In_Bar(who)             (tile_in_tile_rect(14923,14900,17923,17900,tile_num(who)) and (cur_map_index == MAP_REDDING_DOWNTOWN))
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017; // Seraph's Code
+
+procedure Node008a;
+procedure Node008b;
+procedure Node010a;
+procedure Node011a;
+procedure Node013a;
+procedure Node014a;
+procedure Node014b;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Argue_Line                 (7)
+#define LVAR_Times_Argued               (8)
+#define LVAR_Looked_Before              (9)
+#define LVAR_Second_Round               (10)
+#define LVAR_Started_Conversation       (11)
+#define LVAR_Jail_Timer                 (12)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+import variable Bette_Ptr;
+import variable Caminetto_Ptr;
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_update_p_proc begin
+   Caminetto_Ptr:=self_obj;
+end
+
+procedure map_enter_p_proc begin
+   Caminetto_Ptr:=self_obj;
+
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_REDDING);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_REDDING_MINER);
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       attack(dude_obj);
+   end
+
+   if (global_var(GVAR_BAR_BRAWL) == 0) then begin
+       set_obj_visibility(self_obj,1);
+   end
+   else begin
+       set_obj_visibility(self_obj,0);
+   end
+
+   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then
+       call Node001;
+
+   else if (fixed_param == 2) then
+       call Node002;
+
+   else if (fixed_param == 3) then begin
+       set_local_var(LVAR_Jail_Timer,0);
+       call Node003;
+   end
+
+   else if (fixed_param == 4) then begin
+       set_local_var(LVAR_Jail_Timer,0);
+       call Node004;
+   end
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_TOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION1;
+
+   CheckKarma;
+
+   GetReaction;
+
+   if (In_Bar(self_obj) and global_var(GVAR_BAR_BRAWL) != BRAWL_TALKED_CAMINT and global_var(GVAR_BAR_BRAWL) != BRAWL_TALKED_BOTH) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node005;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if (global_var(GVAR_BAR_BRAWL) == BRAWL_BOTH_JAILED) then
+       call Node003;
+// Begin Seraph's Code
+   else if (global_var(GVAR_BAR_BRAWL) == BRAWL_TALKED_CAMINT or global_var(GVAR_BAR_BRAWL) == BRAWL_TALKED_BOTH) then
+       call Node017;
+// End Seraph's Code
+   else
+       call Node004;
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+   set_global_var(GVAR_BAR_BRAWL,BRAWL_KILLED);
+   set_global_var(GVAR_ENEMY_REDDING,1);
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Looked_Before) == 0) then begin
+       inc_local_var(LVAR_Looked_Before);
+       display_msg(mstr(100));
+   end
+   else
+       display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   variable line;
+
+   line:=103+local_var(LVAR_Argue_Line);
+
+   if (line > 130) then begin
+       set_local_var(LVAR_Argue_Line,0);
+       inc_local_var(LVAR_Times_Argued);
+   end
+
+   if (local_var(LVAR_Times_Argued) > 1) then
+       call Node002;
+
+   else  begin
+       if ((line % 2) == 1) then
+           float_msg(Bette_Ptr,mstr(line),FLOAT_MSG_RED);
+       else
+           float_msg(Caminetto_Ptr,mstr(line),FLOAT_MSG_GREEN);
+
+       inc_local_var(LVAR_Argue_Line);
+
+       add_timer_event(self_obj,game_ticks(10),1);
+   end
+end
+
+procedure Node002 begin
+   variable line;
+
+   line:=131+local_var(LVAR_Second_Round);
+
+   if (line > 133) then begin
+       attack_setup(Caminetto_Ptr,dude_obj);
+       attack(dude_obj);
+   end
+
+   else begin
+       if ((line % 2) == 1) then
+           float_msg(Bette_Ptr,mstr(line),FLOAT_MSG_RED);
+       else
+           float_msg(Caminetto_Ptr,mstr(line),FLOAT_MSG_GREEN);
+
+       inc_local_var(LVAR_Argue_Line);
+
+       add_timer_event(self_obj,game_ticks(10),2);
+   end
+end
+
+procedure Node003 begin
+   floater(random(134,138));
+
+   if (local_var(LVAR_Jail_Timer) == 0) then begin
+       inc_local_var(LVAR_Jail_Timer);
+       add_timer_event(self_obj,game_ticks(random(25,35)),3);
+   end
+end
+
+procedure Node004 begin
+   floater(random(139,143));
+
+   if (local_var(LVAR_Jail_Timer) == 0) then begin
+       inc_local_var(LVAR_Jail_Timer);
+       add_timer_event(self_obj,game_ticks(random(25,35)),4);
+   end
+end
+
+procedure Node005 begin
+   Reply(144);
+
+   BOption(145,Node008,004);
+   NOption(146,Node006,004);
+end
+
+procedure Node006 begin
+   Reply(147);
+
+   NOption(148,Node007,004);
+   BOption(149,Node008,004);
+end
+
+procedure Node007 begin
+   Reply(150);
+
+   NOption(151,Node008,004);
+   GOption(152,Node999,004);
+end
+
+procedure Node008 begin
+   Reply(153);
+
+   BOption(154,Node012,004);
+   BOption(155,Node008a,004);
+   GOption(156,Node008b,004);
+end
+
+procedure Node008a begin
+   if (skill_success(dude_obj,SKILL_CONVERSANT,(2*get_pc_stat(PCSTAT_level)))) then
+       call Node013;
+   else
+       call Node014;
+end
+
+procedure Node008b begin
+   if (skill_success(dude_obj,SKILL_CONVERSANT,0)) then
+       call Node009;
+   else
+       call Node010;
+end
+
+procedure Node009 begin
+// Begin Seraph's Code
+
+   if (global_var(GVAR_BAR_BRAWL) == BRAWL_TALKED_BETTE) then begin
+      gfade_out(600);
+      set_global_var(GVAR_BAR_BRAWL,BRAWL_TALKED_BOTH);
+      display_msg(g_mstr(1020)); //added by killap
+      give_xp(EXP_STOP_BAR_BRAWL);
+      inc_global_var_amt(GVAR_TOWN_REP_REDDING, 10); //added by killap
+
+      move_to(self_obj,5000,0);
+      move_to(Bette_Ptr,5000,0);
+      set_obj_visibility(Bette_Ptr,1);
+      set_obj_visibility(self_obj,1);
+      
+      gfade_in(600);
+      
+      
+   end
+   else if (global_var(GVAR_BAR_BRAWL) != BRAWL_TALKED_BOTH) then
+      set_global_var(GVAR_BAR_BRAWL,BRAWL_TALKED_CAMINT);
+
+// End Seraph's Code
+
+   Reply(157);
+
+   GOption(158,Node999,004);
+end
+
+procedure Node010 begin
+   Reply(159);
+
+   BOption(160,Node010a,004);
+   GOption(161,Node999,004);
+end
+
+procedure Node010a begin
+   if (skill_success(dude_obj,SKILL_CONVERSANT,(2*get_pc_stat(PCSTAT_level)))) then
+       call Node011;
+   else
+       call Node012;
+end
+
+procedure Node011 begin
+   Reply(162);
+
+   BOption(163,Node008a,004);
+   BOption(164,Node011a,004);
+end
+
+procedure Node011a begin
+   gfade_out(600);
+   gfade_in(600);
+
+   move_to(Bette_Ptr,Tile1,0);
+   move_to(Caminetto_Ptr,Tile2,0);
+   move_to(dude_obj,Tile3,0);
+   display_msg(g_mstr(1020)); //added by killap
+   give_xp(EXP_STOP_BAR_BRAWL);
+   
+   set_global_var(GVAR_BAR_BRAWL,BRAWL_BOTH_JAILED);
+end
+
+procedure Node012 begin
+   Reply(165);
+
+   GOption(166,Node015,004);
+   BOption(167,Node008a,004);
+end
+
+procedure Node013 begin
+   Reply(168);
+
+   NOption(169,Node013a,004);
+   GOption(170,Node016,004);
+end
+
+procedure Node013a begin
+   gfade_out(600);
+   gfade_in(600);
+
+   move_to(Caminetto_Ptr,Tile2,0);
+   move_to(Bette_Ptr,5000,0);
+   set_obj_visibility(Bette_Ptr,1);
+   move_to(dude_obj,Tile3,0);
+   display_msg(g_mstr(1020)); //added by killap
+   give_xp(EXP_STOP_BAR_BRAWL);
+   inc_global_var_amt(GVAR_TOWN_REP_REDDING, 2); //added by killap
+   
+   set_global_var(GVAR_BAR_BRAWL,BRAWL_KOKOWEEF_JAILED); // Seraph's Fix: changed 'BRAWL_MORNINGSTAR_JAILED' to 'BRAWL_KOKOWEEF_JAILED'
+end
+
+procedure Node014 begin
+   Reply(171);
+
+   NOption(172,Node014a,004);
+   BOption(173,Node014b,004);
+   GOption(174,Node999,004);
+end
+
+procedure Node014a begin
+   if (skill_success(dude_obj,SKILL_CONVERSANT,(2*get_pc_stat(PCSTAT_level)))) then
+       call Node016;
+   else
+       call Node998;
+end
+
+procedure Node014b begin
+   if (skill_success(dude_obj,SKILL_CONVERSANT,(2*get_pc_stat(PCSTAT_level)))) then
+       call Node016;
+   else
+       call Node998;
+end
+
+procedure Node015 begin
+   Reply(175);
+
+   NOption(176,Node008a,004);
+   NOption(177,Node999,004);
+end
+
+procedure Node016 begin
+   Reply(178);
+
+   NOption(179,Node011a,004);
+   BOption(180,Node998,004);
+end
+
+// Begin Seraph's Code
+procedure Node017 begin
+   floater(181);
+end
+// End Seraph's Code
+
+//xxxxxxxxxxxxxxxxxxxx

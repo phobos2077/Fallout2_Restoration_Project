@@ -1,0 +1,681 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Typhon, the old Ghoul
+        Location: Broken Hills 2
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+
+//Overrides the pickup p proc.
+#define NPC_REACTION_TYPE       REACTION_TC /* REACTION_TC REACTION_TG REACTION_C REACTION_G */
+#define NPC_REACTION_VAR        7 /* same as thief variable */
+
+#include "..\headers\define.h"
+#include "..\headers\Broken2.h"
+
+#define NAME                    SCRIPT_HCTYPHON
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node006a;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node018a;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node021a;
+procedure Node022;
+procedure Node023;
+procedure Node023a;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node027a;
+procedure Node027b;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Caught_Thief               (7)
+#define LVAR_Doll_Timer                 (8)
+#define LVAR_Magazine_Timer             (9)
+#define LVAR_Typhon_Apologized          (10)
+#define LVAR_Gave_Karma                 (11)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+import variable seymour_obj;
+
+#define float_plant(x)     float_msg( seymour_obj, mstr(x), FLOAT_MSG_GREEN )
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable current_dialog := 0;
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+
+   if( not( is_loading_game ) ) then begin
+      if( ( global_var( GVAR_TYPHON_QUEST_STATUS ) >= TYPHON_TREASURE_TOLD ) and
+          ( map_var( MVAR_Seymour_Status ) == SEYMOUR_PLANTED ) and
+          ( tile_num( self_obj ) != 18482 ) ) then begin
+         move_to( self_obj, 18482, 0 );
+         critter_attempt_placement( self_obj, 18482, 0 );
+         anim( self_obj, ANIMATE_ROTATION, 5 );
+         add_timer_event( self_obj, game_ticks( random( 5, 10 ) ), 0 );
+      end
+      else if( ( global_var( GVAR_TYPHON_QUEST_STATUS ) >= TYPHON_TREASURE_TOLD ) and
+               ( map_var( MVAR_Seymour_Status ) == SEYMOUR_PLANTED ) and
+               ( tile_num( self_obj ) == 18482 ) ) then begin
+         add_timer_event( self_obj, game_ticks( random( 5, 10 ) ), 0 );
+      end
+   end
+end
+
+procedure timed_event_p_proc begin
+   if( fixed_param == 0 ) then begin
+      // Seymour/Typhon dialog.
+      current_dialog := random( 0, 21 );
+      if( ( current_dialog == 1 ) or
+          ( current_dialog == 2 ) or
+          ( current_dialog == 6 ) or
+          ( current_dialog == 8 ) or
+          ( current_dialog == 11 ) or
+          ( current_dialog == 14 ) or
+          ( current_dialog == 17 ) ) then begin
+         // Typhon starts
+         floater( 300 + ( current_dialog * 2 ) );
+      end
+      else begin
+         // Seymour starts
+         float_plant( 300 + ( current_dialog * 2 ) );
+      end
+      add_timer_event( self_obj, game_ticks( 3 ), 1 );
+   end
+   else if( fixed_param == 1 ) then begin
+      // Response from second "talker"
+      if( ( current_dialog == 1 ) or
+          ( current_dialog == 2 ) or
+          ( current_dialog == 6 ) or
+          ( current_dialog == 8 ) or
+          ( current_dialog == 11 ) or
+          ( current_dialog == 14 ) or
+          ( current_dialog == 17 ) ) then begin
+         // Seymour Ends
+         float_plant( 300 + ( current_dialog * 2 ) + 1 );
+      end
+      else begin
+         // Typhon Ends
+         floater( 300 + ( current_dialog * 2 ) + 1 );
+      end
+      add_timer_event( self_obj, game_ticks( random( 10, 15 ) ), 0 );
+   end
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) != 0) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       self_attack_dude;
+       //Macro made by Tom to keep the critter fleeing.
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (obj_in_party(source_obj)) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+       set_global_var( GVAR_ENEMY_BROKEN_HILLS, 1 );
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_TOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION1;
+
+   CheckKarma;
+
+   GetReaction;
+
+   if( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_TREASURE_FOUND ) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node026;
+      gSay_End;
+      end_dialogue;
+   end
+   else if( ( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_TREASURE_TOLD ) or
+            ( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_TREASURE_DOWN_WELL ) ) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node024;
+      gSay_End;
+      end_dialogue;
+   end
+   else if( ( ( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_GAVE_BLOW_UP_DOLL ) and
+              ( local_var( LVAR_Doll_Timer ) != 0 ) and
+              ( game_time - local_var( LVAR_Doll_Timer ) >= ( 3 * ONE_GAME_HOUR ) ) ) or
+            ( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_GET_ROTGUT ) ) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node021;
+      gSay_End;
+      end_dialogue;
+   end
+   else if( ( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_GAVE_BLOW_UP_DOLL ) and
+            ( local_var( LVAR_Doll_Timer ) != 0 ) and
+            ( game_time - local_var( LVAR_Doll_Timer ) < ( 3 * ONE_GAME_HOUR ) ) ) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node020;
+      gSay_End;
+      end_dialogue;
+   end
+   else if( ( ( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_GAVE_MAGAZINE ) and
+              ( local_var( LVAR_Magazine_Timer ) != 0 ) and
+              ( game_time - local_var( LVAR_Magazine_Timer ) >= ONE_GAME_HOUR ) ) or
+            ( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_GET_BLOW_UP_DOLL ) ) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node018;
+      gSay_End;
+      end_dialogue;
+   end
+   else if( ( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_GAVE_MAGAZINE ) and
+            ( local_var( LVAR_Magazine_Timer ) != 0 ) and
+            ( game_time - local_var( LVAR_Magazine_Timer ) < ONE_GAME_HOUR ) ) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node008;
+      gSay_End;
+      end_dialogue;
+   end
+   else if( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_GET_MAGAZINE ) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node016;
+      gSay_End;
+      end_dialogue;
+   end
+   else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         if( local_var( LVAR_Herebefore ) == 0 ) then begin
+            call Node001;
+            set_local_var( LVAR_Herebefore, 1 );
+         end
+         else begin
+            call Node010;
+         end
+      gSay_End;
+      end_dialogue;
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+/* inc_evil_critter */
+/* inc_neutral_critter */
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_mstr(100);
+   else
+      display_mstr(101);
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(102);
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   Reply(103);
+
+   NLowOption(104, Node002);
+   NOption(105, Node012, 004);
+   NOption(106, Node013, 004);
+   NOption(107, Node014, 004);
+   NOption(108, Node999, 001);
+end
+
+procedure Node002 begin
+   Reply(109);
+
+   NLowOption(110, Node003);
+   NLowOption(111, Node004);
+end
+
+procedure Node003 begin
+   Reply(112);
+
+   NLowOption(113, Node005);
+   NLowOption(114, Node004);
+   NOption(115, Node009, 004);
+   NOption(116, Node006, 004);
+   NOption(117, Node011, 004);
+   NOption(118, Node999, 001);
+end
+
+procedure Node004 begin
+   Reply(119);
+
+   NLowOption(120, Node999);
+   NOption(120, Node999, 001);
+end
+
+procedure Node005 begin
+   Reply(121);
+
+   NLowOption(122, Node006);
+   NLowOption(123, Node004);
+   NOption(124, Node006, 004);
+   NOption(125, Node004, 004);
+end
+
+procedure Node006 begin
+   if( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_UNKNOWN ) then
+      set_global_var( GVAR_TYPHON_QUEST_STATUS, TYPHON_GET_MAGAZINE );
+   Reply(126);
+
+   if( obj_is_carrying_obj_pid( dude_obj, PID_CATS_PAW ) > 0 ) then
+      NLowOption(127, Node006a);
+   NLowOption(128, Node999);
+   NLowOption(129, Node004);
+   if( obj_is_carrying_obj_pid( dude_obj, PID_CATS_PAW ) > 0 ) then
+      NOption(130, Node006a, 004);
+   NOption(131, Node999, 004);
+   NOption(132, Node004, 004);
+end
+
+procedure Node006a begin
+   variable magazine;
+
+   set_global_var( GVAR_TYPHON_QUEST_STATUS, TYPHON_GAVE_MAGAZINE );
+   magazine := obj_carrying_pid_obj( dude_obj, PID_CATS_PAW );
+   rm_obj_from_inven( dude_obj, magazine );
+   add_obj_to_inven( self_obj, magazine );
+   call Node007;
+end
+
+procedure Node007 begin
+   set_local_var( LVAR_Magazine_Timer, game_time );
+   Reply(133);
+
+   NOption(134, Node999, 001);
+end
+
+procedure Node008 begin
+   NMessage(135);
+end
+
+procedure Node009 begin
+   Reply(137);
+
+   NOption(138, Node005, 004);
+   NOption(139, Node004, 004);
+end
+
+procedure Node010 begin
+   Reply(140);
+
+   NLowOption(141, Node005);
+   NLowOption(142, Node004);
+   NOption(143, Node009, 004);
+   NOption(144, Node005, 004);
+   NOption(145, Node011, 004);
+   NOption(146, Node999, 004);
+end
+
+procedure Node011 begin
+   Reply(147);
+
+   NOption(148, Node012, 004);
+   NOption(149, Node014, 004);
+   NOption(150, Node013, 004);
+   if( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_UNKNOWN ) then
+      NOption(151, Node003, 004);
+end
+
+procedure Node012 begin
+   Reply(152);
+
+   NOption(153, Node011, 004);
+   NOption(154, Node999, 004);
+end
+
+procedure Node013 begin
+   Reply(155);
+
+   NOption(156, Node015, 004);
+   NOption(157, Node015, 004);
+   NOption(158, Node011, 004);
+   NOption(159, Node999, 004);
+end
+
+procedure Node014 begin
+   Reply(160);
+
+   NOption(161, Node011, 004);
+   NOption(162, Node999, 004);
+end
+
+procedure Node015 begin
+   Reply(163);
+
+   NOption(164, Node011, 004);
+   NOption(165, Node999, 004);
+end
+
+procedure Node016 begin
+   Reply(166);
+
+   if( obj_is_carrying_obj_pid( dude_obj, PID_CATS_PAW ) > 0 ) then
+      NLowOption(167, Node006a);
+   NLowOption(168, Node017);
+   if( obj_is_carrying_obj_pid( dude_obj, PID_CATS_PAW ) > 0 ) then
+      NOption(169, Node006a, 004);
+   NOption(170, Node011, 004);
+   NOption(171, Node017, 004);
+end
+
+procedure Node017 begin
+   NMessage(172);
+end
+
+procedure Node018 begin
+   set_global_var( GVAR_TYPHON_QUEST_STATUS, TYPHON_GET_BLOW_UP_DOLL );
+   Reply(174);
+
+   if( obj_is_carrying_obj_pid( dude_obj, PID_BLOW_UP_DOLL ) > 0 ) then
+      NLowOption(177, Node018a);
+   NLowOption(176, Node004);
+   NLowOption(175, Node017);
+   if( obj_is_carrying_obj_pid( dude_obj, PID_BLOW_UP_DOLL ) > 0 ) then
+      NOption(181, Node018a, 004);
+   NOption(178, Node011, 004);
+   NOption(179, Node017, 004);
+   NOption(180, Node004, 004);
+end
+
+procedure Node018a begin
+   variable doll;
+
+   set_global_var( GVAR_TYPHON_QUEST_STATUS, TYPHON_GAVE_BLOW_UP_DOLL );
+   doll := obj_carrying_pid_obj( dude_obj, PID_BLOW_UP_DOLL );
+   rm_obj_from_inven( dude_obj, doll );
+   add_obj_to_inven( self_obj, doll );
+   call Node019;
+end
+
+procedure Node019 begin
+   set_local_var( LVAR_Doll_Timer, game_time );
+   NMessage(182);
+end
+
+procedure Node020 begin
+   NMessage(184);
+end
+
+procedure Node021 begin
+   variable doll;
+   variable dollCount;
+
+   set_global_var( GVAR_TYPHON_QUEST_STATUS, TYPHON_GET_ROTGUT );
+
+   // Pop the Rubber woman.
+   dollCount := obj_is_carrying_obj_pid( self_obj, PID_BLOW_UP_DOLL );
+   if( dollCount > 0 ) then begin
+      doll := obj_carrying_pid_obj( self_obj, PID_BLOW_UP_DOLL );
+      rm_obj_from_inven( self_obj, doll );
+      doll := create_object( PID_POPPED_BLOW_UP_DOLL, 0, 0 );
+      add_obj_to_inven( self_obj, doll );
+   end
+   Reply(186);
+
+   if( obj_is_carrying_obj_pid( dude_obj, PID_ROT_GUT ) > 0 ) then
+      NLowOption(189, Node021a);
+   NLowOption(188, Node004);
+   NLowOption(187, Node999);
+   if( obj_is_carrying_obj_pid( dude_obj, PID_ROT_GUT ) > 0 ) then
+      NOption(190, Node021a, 004);
+   NOption(191, Node022, 004);
+   NOption(193, Node004, 004);
+   NOption(192, Node999, 004);
+end
+
+procedure Node021a begin
+   variable rotgut;
+
+   set_global_var( GVAR_TYPHON_QUEST_STATUS, TYPHON_TREASURE_TOLD );
+   rotgut := obj_carrying_pid_obj( dude_obj, PID_ROT_GUT );
+   rm_obj_from_inven( dude_obj, rotgut );
+   add_obj_to_inven( self_obj, rotgut );
+   call Node023;
+end
+
+procedure Node022 begin
+   Reply(194);
+
+   NOption(195, Node999, 004);
+   NOption(196, Node004, 004);
+end
+
+procedure Node023 begin
+   display_msg( mstr(224) );
+   give_xp( EXP_TYPHON_TOLD_TREASURE );
+   inc_general_rep( REP_BONUS_TYPHON_TOLD_TREASURE );
+   set_global_var( GVAR_TOWN_REP_BROKEN_HILLS, ( global_var( GVAR_TOWN_REP_BROKEN_HILLS ) + REP_TOWN_TYPHON_TOLD_TREASURE ) );
+   Reply(197);
+
+   NLowOption(221, Node023a);
+   NOption(222, Node023a, 004);
+end
+
+procedure Node023a begin
+   Reply(223);
+
+   NLowOption(198, Node999);
+   NOption(199, Node011, 004);
+   NOption(200, Node999, 004);
+end
+
+procedure Node024 begin
+   Reply(201);
+
+   NLowOption(202, Node025);
+   NOption(203, Node025, 004);
+   NOption(204, Node011, 004);
+   NOption(205, Node999, 004);
+end
+
+procedure Node025 begin
+   Reply(206);
+
+   NLowOption(207, Node999);
+   NOption(208, Node999, 004);
+end
+
+procedure Node026 begin
+   Reply(209);
+
+   if( local_var( LVAR_Typhon_Apologized ) == 0 ) then
+      NLowOption(210, Node027);
+   else
+      NLowOption(214, Node999);
+   if( local_var( LVAR_Typhon_Apologized ) == 0 ) then
+      NOption(211, Node027, 004);
+   else begin
+      NOption(212, Node011, 004);
+      NOption(213, Node999, 004);
+   end
+end
+
+procedure Node027 begin
+   set_local_var( LVAR_Typhon_Apologized, 1 );
+   Reply(215);
+
+   NLowOption(216, Node999);
+   BOption(217, Node998, 004); //edit by killap: was NOption
+   NOption(218, Node027a, 004);
+   NOption(219, Node999, 004);
+   NOption(220, Node027b, 004);
+end
+
+procedure Node027a begin
+   if( local_var( LVAR_Gave_Karma ) == 0 ) then begin
+      set_local_var( LVAR_Gave_Karma, 1 );
+      inc_general_rep( REP_BONUS_DIDNT_KILL_TYPHON );
+   end
+   call Node011;
+end
+
+procedure Node027b begin
+   if( local_var( LVAR_Gave_Karma ) == 0 ) then begin
+      set_local_var( LVAR_Gave_Karma, 1 );
+      inc_general_rep( REP_BONUS_DIDNT_KILL_TYPHON );
+   end
+end
+
+//xxxxxxxxxxxxxxxxxxxx

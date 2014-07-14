@@ -1,0 +1,416 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Old Man McGee
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCMCGEE
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+#include "..\headers\NewR2.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure map_update_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+procedure Node990;
+procedure Node989;
+procedure Node988;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+#define LVAR_Flags                     (0)
+#define LVAR_Stole_Winnings            (1)
+#define LVAR_Last_Played               (2)
+#define LVAR_Warning                   (3)
+
+#define hidden_for_fight_bit           bit_10
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+
+#define mcgee_easy_on_dude                ((dude_charisma > 8) or (has_trait(TRAIT_TRAIT,dude_obj,TRAIT_good_natured))) //killap's fix: changed from self_obj
+#define give_warning                      if (mcgee_easy_on_dude == false) then begin  \
+                                             set_local_var(LVAR_Warning, true);        \
+                                          end
+
+#define payoff_mcgee(x)                   if (x >= 500) then begin                                          \ 
+                                             inc_general_rep(REP_BONUS_NEW_RENO_MCGEE_JACKPOT_FULL);    /*swapped -killap*/    \
+                                          end else begin                                                    \
+                                             inc_general_rep(REP_BONUS_NEW_RENO_MCGEE_JACKPOT_HALF);   /*swapped -killap*/     \
+                                          end                                                               \
+                                          item_caps_adjust(self_obj, x);                                    \
+                                          item_caps_adjust(dude_obj, -x);                                   \
+                                          set_mcgee_jackpot_settled
+#define reply_w_rifle_check(x)            if (obj_is_carrying_obj_pid(self_obj, PID_HUNTING_RIFLE) == 0) then begin     \
+                                             Reply(mstr(x) + " " + mstr(317));                                                \
+                                          end else begin                                                                \
+                                             Reply(x);                                                                  \
+                                          end
+#define option_w_rifle_check(x,y)         BOption(x+(obj_is_carrying_obj_pid(self_obj, PID_HUNTING_RIFLE)), Node998, y); 
+
+
+import variable mcGeeSlotMachineOBJ;
+import variable mcGeeOBJ;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == float_param) then begin
+      if ((combat_is_initialized == false) and (self_visible)) then begin
+         if (mcgee_jackpot) then begin
+            if (self_can_see_dude) then begin
+               if (dude_is_female) then begin
+                  call Node002;
+               end else begin
+                  call Node001;
+               end
+            end else begin
+               // ### give him a tile to wait at
+            end
+         end else if (mcgee_jackpot_settled) then begin
+            if ((self_caps < 250) and (local_var(LVAR_Stole_Winnings) == false)) then begin
+               set_local_var(LVAR_Stole_Winnings, true);
+               inc_general_rep(REP_BONUS_NEW_RENO_MCGEE_STEAL_WINNINGS);
+            end
+            // ### give him a tile to wait at
+         end else if ((self_can_see_dude) and (mcgee_played_machine)) then begin
+            call Node004;
+         end else if (self_caps <= 0) then begin
+            call Node005;
+            // ### make him go get money if he's out
+         end else if (mcgee_playing_slots) then begin
+            if (rotation_to_tile(tile_num(self_obj),tile_num(mcGeeSlotMachineOBJ)) != self_cur_rot) then begin
+               animate_rotation(rotation_to_tile(tile_num(self_obj),tile_num(mcGeeSlotMachineOBJ)));
+            end else if (anim_busy(self_obj) == false) then begin
+               call Node003;
+               if ((local_var(LVAR_Last_Played) <= game_time) and (random(1,10) != 5)) then begin
+                  debug_msg("McGee's playing the slots");
+                  set_local_var(LVAR_Last_Played, game_time + (random(1,5) * ONE_GAME_MINUTE));
+                  reg_anim_clear(self_obj);
+                  reg_anim_begin();
+                     reg_anim_animate(self_obj, ANIM_magic_hands_middle, -1);
+                  reg_anim_end();
+                  item_caps_adjust(self_obj, -1);
+               end else begin
+                  reg_anim_clear(self_obj);
+                  reg_anim_begin();
+                     reg_anim_animate(self_obj,ANIM_throw_punch,-1);
+                  reg_anim_end();
+               end
+            end
+         end else begin
+            animate_run_to_tile(tile_num_in_direction(tile_num(mcGeeSlotMachineOBJ),2,1));
+         end
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_MCGEE);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+      end
+      if (mcgee_jackpot_settled == false) then begin
+         mcGeeOBJ := self_obj;
+         item_caps_adjust(self_obj, random(1,32) - self_caps);
+      end else begin
+         mcGeeOBJ := 0;
+         destroy_object(self_obj);
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure map_update_p_proc begin
+   check_hide_durring_boxing_fight
+end
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+   //begin killap's code
+      if ((mcgee_jackpot) and (not(mcgee_jackpot_settled)) and (not(hostile))) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node007;
+         gSay_End;
+         end_dialogue;
+      end
+   //end killap cdoe
+      if ((hostile) or ((mcgee_jackpot) and (local_var(LVAR_Warning)) and (dude_leaving_mcgee_casino))) then begin
+         self_attack_dude;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      if (global_var(GVAR_NEW_RENO_MCGEE_ATTACKED) == 0) then begin
+         set_global_var(GVAR_NEW_RENO_MCGEE_ATTACKED, true);
+      end
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   if (mcgee_jackpot_settled) then begin
+      call Node006;
+   end else if (mcgee_jackpot) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node007;
+      gSay_End;
+      end_dialogue;
+   end else if (mcgee_played_machine) then begin
+      call Node004;
+   end else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node017;
+      gSay_End;
+      end_dialogue;
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   inc_inv_good_crit
+   set_mcgee_dead;
+   mcGeeOBJ := 0;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + (mcgee_known));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150 + (mcgee_known));
+end
+
+procedure use_skill_on_p_proc begin
+   // ### give steal + 25 bonus
+end
+
+procedure Node998 begin
+   if (hostile == false) then begin
+      set_hostile;
+   end
+end
+procedure Node999 begin
+end
+procedure Node990 begin
+   // if dude has charisma > 8, or trait good natured, or speech skill is good, goto 8 else 23
+   if ((mcgee_easy_on_dude) or (has_skill(dude_obj, SKILL_CONVERSANT) > 35)) then begin
+      call Node008;
+   end else begin
+      call Node023;
+   end
+end
+procedure Node989 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,10*(mcgee_known)))) then begin
+      call Node009;
+   end else begin
+      call Node010;
+   end
+end
+procedure Node988 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+      call Node012;
+   end else begin
+      call Node014;
+   end
+end
+procedure Node987 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_BARTER,0))) then begin
+      call Node013;
+   end else begin
+      call Node014;
+   end
+end
+
+procedure Node001 begin
+   floater_rand(200, 210);
+end
+procedure Node002 begin
+   floater_rand(225, 228);
+end
+procedure Node003 begin
+   floater_rand(235, 248);
+end
+procedure Node004 begin
+   floater_rand(255, 256);
+end
+procedure Node005 begin
+   floater_rand(260, 263);
+end
+procedure Node006 begin
+   floater_rand(270, 272);
+end
+procedure Node007 begin
+   Reply(mstr(275 + (mcgee_unknown)) + mstr(277));
+   NOption(278, Node990, -003);
+   NOption(279, Node990, 004);
+end
+procedure Node008 begin
+   Reply(mstr(285) + mstr(286 + dude_is_female));
+   NOption(mstr(288 + (dude_is_female)), Node021, -003);
+   NOption(mstr(290 + (dude_is_female)) + dude_name + mstr(1290), Node021, -003);
+   NOption(mstr(292 + (mcgee_unknown)) , Node989, 004);
+   NOption(294, Node011, 004);
+   NOption(295, Node012, 004);
+   NOption(mstr(296 + dude_is_female), Node998, 004);
+   NOption(298, Node016, 004);
+end
+procedure Node009 begin
+   Reply(305);
+   NOption(294, Node011, 004);
+   NOption(307, Node011, 004);
+   NOption(295, Node988, 004);
+   NOption(309, Node022, 004);
+   NOption(310, Node016, 004);
+end
+procedure Node010 begin
+   reply_w_rifle_check(315 + dude_is_female)
+   option_w_rifle_check(318+(dude_is_stupid*2), 001)
+end
+procedure Node011 begin
+   reply_w_rifle_check(325 + dude_is_female)
+   option_w_rifle_check(318+(dude_is_stupid*2), 001)
+end
+procedure Node012 begin
+   Reply(335);
+   if (dude_caps >= 250) then begin
+      NOption(336, Node987, 004);
+   end
+   if (dude_caps >= 500) then begin
+      NOption(337, Node015, 004);
+   end
+   NOption(338, Node022, 004);
+   NOption(339, Node016, 004);
+end
+procedure Node013 begin
+   payoff_mcgee(250)
+   Reply(mstr(345 + (mcgee_unknown)) + mstr(347) + mstr(348 + dude_is_female));
+   NOption(350, Node999, 001);
+end
+procedure Node014 begin
+   reply_w_rifle_check(355 + dude_is_female)
+   option_w_rifle_check(318+(dude_is_stupid*2), 001)
+end
+procedure Node015 begin
+   payoff_mcgee(500)
+   Reply(mstr(345 + (mcgee_unknown)) + mstr(367) + mstr(368 + dude_is_female));
+   NOption(370, Node024, 001);
+end
+procedure Node016 begin
+   reply_w_rifle_check(375 + dude_is_female)
+   option_w_rifle_check(318+(dude_is_stupid*2), 001)
+end
+procedure Node017 begin
+   Reply(mstr(385) + mstr(387 + (2*(herebefore)) + dude_is_female));
+   NOption(391, Node018, -003);
+   NOption(dude_name + mstr(392), Node020, -003);
+   NOption(393, Node999, -003);
+   NOption(394, Node018, 004);
+   NOption(395, Node018, 004);
+   NOption(396, Node020, 004);
+   NOption(397, Node999, 004);
+end
+procedure Node018 begin
+   Reply(405);
+   NOption(dude_name + mstr(392), Node020, -003);
+   NOption(dude_name + mstr(407), Node999, -003);
+   NOption(393, Node999, -003);
+   NOption(409, Node019, 004);
+   NOption(410, Node999, 004);
+end
+procedure Node019 begin
+   Reply(mstr(415 + (mcgee_unknown)) + mstr(417));
+   NOption(418, Node999, 004);
+   NOption(419, Node999, 001);
+end
+procedure Node020 begin
+   Reply(mstr(425 + (mcgee_unknown)) + mstr(427));
+   NOption(428, Node999, 001);
+end
+procedure Node021 begin
+   reply_w_rifle_check(435)
+   option_w_rifle_check(318+(dude_is_stupid*2), 001)
+end
+procedure Node022 begin
+   reply_w_rifle_check(445 + dude_is_female)
+   option_w_rifle_check(318+(dude_is_stupid*2), 001)
+end
+procedure Node023 begin
+   reply_w_rifle_check(455)
+   option_w_rifle_check(318+(dude_is_stupid*2), 001)
+end
+procedure Node024 begin
+   Reply(mstr(465) + mstr(466 + dude_is_female));
+   NOption(468, Node999, 001);
+end

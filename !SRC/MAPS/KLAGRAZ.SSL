@@ -1,0 +1,113 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Klamath Graze Map
+        Location: Klamath
+        Description: This is the Map Script for Klamath Graze Map
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: April 18, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\klamath.h"
+#include "..\headers\klagraz.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_KLAGRAZ
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   if (map_first_run) then begin
+       display_msg(mstr(100));
+   end
+
+   //Make sure duntons are gone if one is dead
+   if (global_var(GVAR_DUNTON_DEAD) > 0) then
+      kill_critter_type(PID_MASTER_TRADER_MALE,KILL_DONT_LEAVE_BODY);
+
+   if (global_var(GVAR_LOAD_MAP_INDEX) == 13) then begin
+      override_map_start_hex(17704,0,1);
+      gfade_in(600);
+   end
+
+   Lighting;
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+
+end
+
+procedure map_exit_p_proc begin
+   //NOW RUSTLE IS ALWAYS OVER ON EXIT OF MAP
+   //if (global_var(GVAR_RUSTLE_OVER) == 0) then begin //rustle is not over yet
+      //only do something if Torr has shown up
+      if (map_var(MVAR_Torr_On_Map) == 1) then begin //we gave the player a chance to help Torr
+         //killap code - gvar_rustle_over was already set in the Dunton script, but crossing the quest out if you either help Torr or leave the map is not set
+         if (global_var(GVAR_RUSTLE_ACCEPT) == 1) then begin
+            set_global_var(GVAR_RUSTLE_FAIL, 1);
+            set_global_var(GVAR_QUEST_RUSTLE_CATTLE, RUSTLE_FAIL);
+         end
+         //end killap code
+ //        set_global_var(GVAR_RUSTLE_OVER,1); //rustle is over if player leaves Torr now - COMMENT OUT BY KILLAP
+         if (global_var(GVAR_TORR_GUARD_STATUS) == TORR_GUARD_ACCEPT) then begin
+            //if ( (map_var(MVAR_Scorps_Killed) < MAX_SCORPS ) or (global_var(GVAR_TORR_BRAHMIN_KILLED) > 0)
+            //if ( (global_var(GVAR_KLAMATH_SCORPIONS_KILLED) < global_var(GVAR_KLAMATH_SCORPIONS_TOTAL) ) or (global_var(GVAR_TORR_BRAHMIN_KILLED) > 0)
+            //   or (global_var(GVAR_TORR_DEAD) == 1) or (global_var(GVAR_ENEMY_TORR) == 1) ) then begin
+            
+            //added by killap - a hack since this variable sometimes get REALLY large and it shouldn't
+            if (global_var(GVAR_TORR_BRAHMIN_KILLED) > 4) then //there is no way to have more than 4, so if it is larger, reset to 0
+               set_global_var(GVAR_TORR_BRAHMIN_KILLED,0);
+            //end added
+            
+            if ( ( A_SCORP_SURVIVES ) or (global_var(GVAR_TORR_BRAHMIN_KILLED) > 0)
+               or (global_var(GVAR_TORR_DEAD) == 1) or (global_var(GVAR_ENEMY_TORR) == 1) ) then begin
+               display_msg(mstr(202));
+               set_global_var(GVAR_TORR_GUARD_STATUS, TORR_GUARD_FAIL); //added by killap
+            end //only way to get GUARD BRAHMIN SUCCESS is if:
+                //   1)You have accepted to guard.
+                //   2)Torr is on the map.
+                //   3)Killed all the scorps.
+                //   4)All Brahmin survive.
+                //   5)Torr is not dead.
+                //   6)You have not attacked Torr.
+            else begin
+               display_msg(mstr(200));
+               //added this line 8/06/98 NBK
+               set_global_var(GVAR_TORR_GUARD_STATUS, TORR_GUARD_SUCCESS);
+               give_xp(EXP_KC_GUARD_SUCCESS);
+               KC_REP_ADJUST(3)
+               inc_general_rep(REP_BONUS_KC_GUARD_SUCCESS);
+            //SUCCESS!!! give exp
+            end
+         end
+      end //Torr on map
+
+   //end//Rustle not over
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+end

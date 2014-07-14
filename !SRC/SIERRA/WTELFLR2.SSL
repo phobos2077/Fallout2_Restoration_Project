@@ -1,0 +1,53 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\depolva.h"
+
+#define NAME                    SCRIPT_WTELFLR2         // contains all the .msg info
+
+#include "..\headers\command.h"
+
+#define MIN_DMG_SPATIAL                 (16)
+#define MAX_DMG_SPATIAL                 (28)
+#define DAMAGE_TYPE                     DMG_electrical
+
+procedure start;
+procedure spatial_p_proc;
+
+procedure start begin
+end
+
+procedure spatial_p_proc begin
+   if (map_var(MVAR_Electric_Floor_2) == 0) then begin
+       if (source_obj == dude_obj) then
+           display_msg(g_mstr(910));
+       else
+           display_msg("" + obj_name(source_obj) + g_mstr(911)); //edit by killap - added obj_name(source_obj)
+       critter_dmg(source_obj,random(MIN_DMG_SPATIAL,MAX_DMG_SPATIAL),DAMAGE_TYPE);
+   end
+end

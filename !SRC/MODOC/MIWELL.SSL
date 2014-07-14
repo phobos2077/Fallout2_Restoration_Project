@@ -1,0 +1,93 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Well
+        Location: Modoc Main Well
+        Description:
+
+        Log:
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_MIWELL
+#include "..\headers\command.h"
+#include "..\headers\Modoc.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure use_obj_on_p_proc;
+procedure map_enter_p_proc;
+procedure description_p_proc;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Frame                        (0)
+
+#define covered_frame                     (0)
+#define uncovered_frame                   (1)
+#define rope_frame                        (2)
+
+#define set_well_frame(x)                 if (local_var(LVAR_Frame) != x) then begin      \
+                                             gfade_out(1);                                \
+                                                set_local_var(LVAR_Frame, x);             \
+                                                animate_set_frame(x);                     \
+                                             gfade_in(1);                                 \
+                                          end
+
+#define uncover_well                      play_sfx("brdswell");                           \
+                                          set_well_frame(uncovered_frame)
+#define rope_well                         set_well_frame(rope_frame)
+
+#define well_covered                      (local_var(LVAR_Frame) == covered_frame)
+#define well_uncovered                    (local_var(LVAR_Frame) == uncovered_frame)
+#define well_roped                        (local_var(LVAR_Frame) == rope_frame)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+procedure start begin
+end
+procedure use_p_proc begin
+   if (well_covered) then begin
+      script_overrides;
+      uncover_well
+   end else if (well_roped) then begin
+      script_overrides;
+      load_map(MAP_MODOC_WELL,0);
+   end
+end
+procedure description_p_proc begin
+variable the_string;
+   script_overrides;
+   the_string := 100 + local_var(LVAR_Frame);
+   display_mstr(the_string);
+end
+procedure use_obj_on_p_proc begin
+   if (well_uncovered) then begin
+      if (obj_pid(obj_being_used_with) == PID_ROPE) then begin
+         script_overrides;
+         rope_well
+         rm_obj_from_inven(dude_obj,obj_being_used_with); //added by killap
+         destroy_object(obj_being_used_with);
+      end
+   end else if (well_covered) then begin
+      if (obj_pid(obj_being_used_with) == PID_CROWBAR) then begin
+         script_overrides;
+         uncover_well
+      end
+   end
+end
+procedure map_enter_p_proc begin
+   match_dude_elevation;
+end

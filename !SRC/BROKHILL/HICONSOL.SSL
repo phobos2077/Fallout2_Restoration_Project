@@ -1,0 +1,150 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Power Station Console
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_HICONSOL
+#define CUR_COMP_SCRIPT         SCRIPT_HICONSOL
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_p_proc;
+procedure use_skill_on_p_proc;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+   script_overrides;
+   if( global_var( GVAR_BH_POWER ) <= POWER_REJECTED ) then
+      display_msg( mstr(102) );
+   else if( ( global_var( GVAR_BH_POWER ) > POWER_REJECTED ) and
+            ( global_var( GVAR_BH_POWER ) < POWER_DONE ) ) then
+      display_msg( mstr(103) );
+   else
+      display_msg( mstr(104) );
+end
+
+procedure use_skill_on_p_proc begin
+   variable skill;
+   variable roll;
+
+   skill := action_being_used;
+
+   if( skill == SKILL_SCIENCE ) then begin
+      if( global_var( GVAR_BH_POWER ) <= POWER_REJECTED ) then begin
+         script_overrides;
+         display_msg( mstr(105) );
+      end
+      else if( ( global_var( GVAR_BH_POWER ) > POWER_REJECTED ) and
+               ( global_var( GVAR_BH_POWER ) < POWER_DONE ) ) then begin
+         // Roll vs. Science to see if the player was successful.
+         roll := roll_vs_skill( source_obj, SKILL_SCIENCE, -30 );
+         if( is_success( roll ) ) then begin
+            // If critical Success, give extra XP, else just success
+            if( is_critical( roll ) ) then begin
+               script_overrides;
+               set_global_var( GVAR_BH_POWER, POWER_DONE );
+               display_msg( mstr(109) );
+               give_xp( EXP_OPTIMIZED_POWER_GRID );
+               inc_general_rep( REP_BONUS_OPTIMIZED_POWER_GRID );
+               set_global_var( GVAR_TOWN_REP_BROKEN_HILLS, (global_var(GVAR_TOWN_REP_BROKEN_HILLS) + REP_TOWN_OPTIMIZED_POWER_GRID ) );
+            end
+            else begin
+               script_overrides;
+               set_global_var( GVAR_BH_POWER, POWER_DONE );
+               display_msg( mstr(108) );
+               give_xp( EXP_GAVE_ERIC_POWER );
+               set_global_var( GVAR_TOWN_REP_BROKEN_HILLS, (global_var(GVAR_TOWN_REP_BROKEN_HILLS) + REP_TOWN_GAVE_ERIC_POWER ) );
+            end
+         end
+         else begin
+            // If critical failure, shock the player.
+            if( is_critical( roll ) ) then begin
+               script_overrides;
+               display_msg( mstr(107) );
+               critter_dmg( source_obj, random( 10, 15 ), DMG_electrical );
+            end
+            else begin
+               script_overrides;
+               display_msg( mstr(106) );
+            end
+         end
+      end
+      else begin
+         script_overrides;
+         display_msg( mstr(110) );
+      end
+   end
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+
+/**********************************************************************************
+**********************************************************************************/
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end

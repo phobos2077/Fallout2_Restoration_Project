@@ -1,0 +1,199 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\depolva.h"
+
+#define NAME                    SCRIPT_WSTERM3C
+
+#include "..\headers\command.h"
+
+#define LOW_DAMAGE              (20)
+#define HIGH_DAMAGE             (30)
+
+procedure start;
+procedure use_p_proc;
+procedure talk_p_proc;
+procedure look_p_proc;
+procedure description_p_proc;
+procedure push_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node010;
+procedure Node011;
+
+procedure Node999;
+
+#define LVAR_Robot_Active               (0)
+
+procedure start begin
+end
+
+procedure look_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+procedure push_p_proc begin
+end
+
+procedure use_p_proc begin
+   variable Damage;
+
+/*   if (global_var(GVAR_SIERRA_BASE_ENEMY) == 1) then begin
+       Damage:=random(LOW_DAMAGE,HIGH_DAMAGE);
+       critter_damage(source_obj,Damage);
+       display_msg(mstr(300));
+   end
+
+   else*/
+   if (get_critter_stat(source_obj,STAT_iq) < 4) then begin
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(102));
+       end
+       else begin
+           display_msg(obj_name(source_obj)+mstr(200));
+       end
+   end
+   else begin
+       dialogue_system_enter;
+   end
+end
+
+procedure talk_p_proc begin
+   if (local_var(LVAR_Robot_Active) == 1) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node002;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node001;
+       gSay_End;
+       end_dialogue;
+   end
+end
+
+procedure Node001 begin
+   Reply(mstr(103)+mstr(104));
+
+   NOption(105,Node010,004);
+   NOption(106,Node011,004);
+   NOption(107,Node999,004);
+end
+
+procedure Node002 begin
+   Reply(110);
+
+   NOption(111,Node999,004);
+end
+
+procedure Node010 begin
+   if (map_var(MVAR_Bio_Brain) == 1) then begin
+       if (map_var(MVAR_Bio_Motivator) == 1) then begin
+           if (map_var(MVAR_Bio_Gel) == 1) then
+               Reply(113);
+           else
+               Reply(117);
+       end else if (map_var(MVAR_Bio_Gel) == 1) then
+           Reply(115);
+       else
+           Reply(119);
+   end else if (map_var(MVAR_Bio_Motivator) == 1) then begin
+       if (map_var(MVAR_Bio_Gel) == 1) then
+           Reply(114);
+       else
+           Reply(118);
+   end else if (map_var(MVAR_Bio_Gel) == 1) then
+       Reply(116);
+   else
+       Reply(120);
+
+   NOption(153,Node011,004);
+   NOption(154,Node999,004);
+end
+
+procedure Node011 begin
+   variable item;
+   variable critter;
+
+
+   set_local_var(LVAR_Robot_Active,1);
+
+   if ((map_var(MVAR_Bio_Motivator) == 0) or (map_var(MVAR_Bio_Gel) == 0) or (map_var(MVAR_Bio_Brain) == 0)) then begin
+       set_map_var(MVAR_Explode_Robot,1);
+       Reply(mstr(155)+mstr(156));
+   end
+   else begin
+       gfade_out(600);
+       gfade_in(600);
+
+       if (tile_contains_obj_pid(8908,elevation(self_obj),PID_BROKEN_BRAINBOT)) then begin
+           item:=tile_contains_pid_obj(8908,elevation(self_obj),PID_BROKEN_BRAINBOT);
+           destroy_object(item);
+           if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_CYBERNETIC) then begin
+               critter:=create_object_sid(PID_BRAINBOT,8908,elevation(self_obj),SCRIPT_WCBRNBOT);
+               debug_msg("Made Cybernetic Robobrain "+obj_pid(critter));
+           end
+           else if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_HUMAN) then begin
+               critter:=create_object_sid(PID_ROBOBRAIN_HUMAN,8908,elevation(self_obj),SCRIPT_WCBRNBOT);
+               debug_msg("Made Human Robobrain "+obj_pid(critter));
+           end
+           else if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_CHIMP) then begin
+               critter:=create_object_sid(PID_ROBOBRAIN_CHIMP,8908,elevation(self_obj),SCRIPT_WCBRNBOT);
+               debug_msg("Made Chimp Robobrain "+obj_pid(critter));
+           end
+           else if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_ABNORMAL) then begin
+               critter:=create_object_sid(PID_ROBOBRAIN_ABNORMAL,8908,elevation(self_obj),SCRIPT_WCBRNBOT);
+               debug_msg("Made Abnormal Robobrain "+obj_pid(critter));
+           end
+       end
+       if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_CYBERNETIC) then
+           Reply(500);
+       else if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_HUMAN) then
+            Reply(mstr(164)+mstr(165)+mstr(166)+mstr(167));
+       else if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_CHIMP) then
+            Reply(mstr(164)+mstr(165)+mstr(170)+mstr(167));
+       else if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_ABNORMAL) then
+            Reply(mstr(164)+mstr(165)+mstr(174)+mstr(167));
+   end
+
+   NOption(176,Node999,004);
+end
+
+procedure Node999 begin
+end

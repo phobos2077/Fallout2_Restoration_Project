@@ -1,0 +1,487 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Jimmy Vault13
+        Location: Vault 13
+        Description: He is an NPC you can talk too. Wow like that description is real informative
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+
+#define NPC_REACTION_TYPE       REACTION_TC
+#define NPC_REACTION_VAR        7 /* same as thief variable */
+
+#include "..\headers\define.h"
+#include "..\headers\vault13.h"
+
+#define NAME                    SCRIPT_OCJIMMY
+#define TOWN_REP_VAR            GVAR_TOWN_REP_VAULT_13
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#include "..\headers\v13.h"
+
+procedure tvar_callback(variable currentTile);
+
+#include "..\vault13\waypnt.ssl"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure push_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node009a;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Caught_Thief               (7)
+#define LVAR_Gave_Quest                 (8)
+#define LVAR_Node004_Count              (9)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable begin
+   q1 := 0;
+   q2 := 0;
+   q3 := 0;
+   q4 := 0;
+   q5 := 0;
+end
+
+procedure start begin
+   if (VAULT13_SEQ) then begin
+      DO_KILL_SELF
+   end
+end
+
+procedure push_p_proc begin
+end
+
+procedure timed_event_p_proc begin
+   if (tvarProcess(fixed_param)) then begin
+      tvarSetTimer(game_ticks(5));
+   end
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT13);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+
+   tvarSetNum(4);
+   tvarCBack("tvar_callback");
+   tvarTile(0, JIM_TILE1);
+   tvarTime(0, game_ticks(1));
+
+   tvarTile(1, JIM_TILE2);
+   tvarTime(1, game_ticks(1));
+
+   tvarTile(2, JIM_TILE3);
+   tvarTime(2, game_ticks(1));
+
+   tvarTile(3, JIM_TILE4);
+   tvarTime(3, game_ticks(1));
+
+   if (not is_loading_game) then begin
+      tvarWarpToPos(0, game_ticks(Random(10, 20)));
+   end
+   tvarSetTimer(game_ticks(5));
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if (((local_var(LVAR_Hostile) == 2) or map_var(MVAR_Vault13_Enemy)) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       set_map_var(MVAR_Vault13_Enemy, 1);
+       attack(dude_obj);
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+       set_map_var(MVAR_Vault13_Enemy, 1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_TOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION1;
+
+   CheckKarma;
+
+   GetReaction;
+
+   if (lvar(LVAR_Hostile)) then begin
+      call Node019;
+   end else if (GETDSTATUS == GDFIXED) then begin
+      call Node020;
+   end else if (GETDSTATUS == GDCOMPLETE) then begin
+      call Node018;
+   end else if (lvar(LVAR_Herebefore) == 0) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node001;
+       gSay_End;
+       end_dialogue;
+   end else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node016;
+      gSay_End;
+      end_dialogue;
+   end
+   set_local_var(LVAR_Herebefore, 1);
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   Reply(103);
+   NLowOption(104, Node002);
+   NLowOption(mstr(105) + " " + dude_name + mstr(180), Node004);
+   NLowOption(106, Node999);
+
+   NOption(107, Node002, 4);
+   GOption(mstr(108) + " " + dude_name + mstr(181), Node004, 4);
+   BOption(109, Node003, 4);
+   NOption(110, node999, 4);
+end
+
+procedure Node002 begin
+   Reply(111);
+   NLowOption(112, Node999);
+   NOption(113, Node999, 4);
+   BOption(114, Node003, 4);
+end
+
+procedure Node003 begin
+   Reply(115);
+   NOption(116, Node999, 4);
+end
+
+procedure Node005a begin
+   q1 := 1;
+   call Node005;
+end
+
+procedure Node009a begin
+   q2 := 1;
+   call Node009;
+end
+
+procedure Node010a begin
+   q3 := 1;
+   call Node010;
+end
+
+procedure Node013a begin
+   q4 := 1;
+   call Node013;
+end
+
+procedure Node014a begin
+   q5 := 1;
+   call Node014;
+end
+
+procedure Node004 begin
+   if (local_var(LVAR_Node004_Count) == 0) then begin
+      inc_local_var(LVAR_Node004_Count);
+      Reply(mstr(117) + " " + dude_name + mstr(182));
+   end else begin
+      Reply(118);
+   end
+   if (not q1) then begin
+      NLowOption(119, Node005a);
+      NOption(126, Node005a, 4);
+   end
+   if (not q2) then begin
+      NLowOption(120, Node009a);
+      NOption(127, Node009a, 4);
+   end
+   if (not q3) then begin
+      NLowOption(121, Node010a);
+      NOption(128, Node010a, 4);
+   end
+   if (not q4) then begin
+      NLowOption(122, Node013a);
+      NOption(129, Node013a, 4);
+   end
+   if (not q5) then begin
+      NLowOption(123, Node014a);
+      NOption(130, Node014a, 4);
+   end
+   if (GETDSTATUS == GDLOOK or GETDSTATUS == GDPART) then begin
+      NLowOption(124, Node017);
+      NOption(131, Node017, 4);
+   end
+   NLowOption(125, Node999);
+   NOption(132, Node999, 4);
+end
+
+procedure Node005 begin
+   Reply(133);
+   NLowOption(134, Node006);
+   NOption(135, Node006, 4);
+   if (GETDSTATUS == GDACCEPT or GETDSTATUS == GDLOOK) then
+      NOption(136, Node008, 4);
+end
+
+procedure Node006 begin
+   Reply(137);
+   NLowOption(138, Node007);
+   NOption(139, Node007, 4);
+end
+
+procedure Node007 begin
+   Reply(140);
+   NLowOption(141, Node008);
+   NOption(142, Node008, 4);
+   if (GETDSTATUS == GDACCEPT or GETDSTATUS == GDLOOK) then
+      NOption(143, Node008, 4);
+end
+
+procedure Node008 begin
+   if (not global_var(GVAR_V13_COMP_QST)) then
+     set_global_var(GVAR_V13_COMP_QST, 1);
+
+   if (dude_iq < 3) then
+      Reply(144);
+   else
+      Reply(145);
+
+   NLowOption(146, Node004);
+   NOption(147, Node004, 4);
+end
+
+procedure Node009 begin
+   Reply(148);
+   NLowOption(149, Node004);
+   NOption(150, Node004, 4);
+end
+
+procedure Node010 begin
+   Reply(151);
+   NLowOption(152, Node011);
+   NLowOption(153, Node004);
+   NOption(154, Node011, 4);
+   NOption(155, Node004, 4);
+end
+
+procedure Node011 begin
+   Reply(156);
+   NLowOption(157, Node012);
+   NOption(158, Node012, 4);
+end
+
+procedure Node012 begin
+   Reply(159);
+   NLowOption(160, Node004);
+   NOption(161, Node004, 4);
+end
+
+procedure Node013 begin
+   Reply(162);
+   NLowOption(163, Node004);
+   NOption(164, Node004, 4);
+end
+
+procedure Node014 begin
+   Reply(165);
+   NLowOption(166, Node015);
+   NOption(167, Node015, 4);
+end
+
+procedure Node015 begin
+   Reply(168);
+   NLowOption(169, Node004);
+   NOption(170, Node004, 4);
+end
+
+procedure Node016 begin
+   Reply(171);
+   NLowOption(172, Node004);
+   NLowOption(173, Node999);
+   NOption(174, Node004, 4);
+   NOption(175, Node999, 4);
+end
+
+procedure Node017 begin
+   Reply(176);
+   NOption(177, Node004, 1);
+end
+
+procedure Node018 begin
+   float_msg(self_obj, mstr(178), FLOAT_MSG_NORMAL);
+end
+
+procedure Node019 begin
+   float_msg(self_obj, mstr(179), FLOAT_MSG_RED);
+   call Node998;
+end
+
+procedure Node020 begin
+   float_msg(self_obj, mstr(183), FLOAT_MSG_NORMAL);
+end
+
+procedure tvar_callback(variable currentTile) begin
+   debug_msg("OCJIMMY: callback called");
+
+end
+
+
+
+//xxxxxxxxxxxxxxxxxxxx

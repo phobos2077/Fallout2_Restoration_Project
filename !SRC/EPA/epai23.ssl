@@ -1,0 +1,133 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\define.h"
+//#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAI23          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\command.h"
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\ModReact.h"
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure use_skill_on_p_proc;
+procedure use_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure description_p_proc;
+procedure look_at_p_proc;
+procedure Node999;
+procedure Node990;
+procedure Node991;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+
+import variable cell1_obj;
+import variable cell2_obj;
+import variable cell3_obj;
+
+#define LEFT_CELL 16116
+#define MIDDLE_CELL 16108
+#define RIGHT_CELL 16100
+
+procedure start
+begin
+end
+
+procedure use_skill_on_p_proc begin
+
+end
+
+procedure use_p_proc
+begin
+   if (combat_is_initialized == 0) then begin
+      script_overrides;
+      call talk_p_proc;
+   end
+end
+
+procedure talk_p_proc begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+      call Node001;
+    gsay_end;
+    end_dialogue;
+end
+
+procedure Node999 begin
+end
+
+procedure Node990 begin
+   if (has_skill(dude_obj, SKILL_SCIENCE) >= 85) then
+      call Node002;
+   else
+      call Node003;
+end
+
+procedure Node001 begin
+   Reply(200);
+   if (global_var(GVAR_LOWER_EPAFIELDS) == 0) then
+      NOption(201,Node999,004);
+   NOption(202,Node999,004);
+end
+
+procedure Node002 begin
+   Reply(204);
+   NOption(202,Node991,004);
+end
+
+procedure Node003 begin
+   Reply(203);
+   NOption(202,Node999,004);
+end
+
+procedure Node991 begin
+   if (tile_contains_pid_obj(MIDDLE_CELL,dude_elevation,33555078)) then begin
+      call Node005;
+   end else if (tile_contains_pid_obj(RIGHT_CELL,dude_elevation,33555078)) then begin
+      call Node006;
+   end else begin
+      call Node004;
+   end
+end
+
+procedure Node004 begin
+   set_global_var(GVAR_LOWER_EPAFIELDS, 1);
+   give_xp(100);
+end
+
+procedure Node005 begin
+   add_timer_event(cell2_obj, ONE_GAME_SECOND*5, 1);
+end
+
+procedure Node006 begin
+   add_timer_event(cell3_obj, ONE_GAME_SECOND*5, 1);
+end
+
+procedure destroy_p_proc
+begin
+end
+
+
+procedure description_p_proc
+begin
+  script_overrides;
+  display_msg(message_str(NAME, 101));
+end
+
+procedure look_at_p_proc
+begin
+  script_overrides;
+  display_msg(message_str(NAME, 100));
+end

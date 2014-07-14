@@ -1,0 +1,227 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Death Claw
+        Location: NCR 4
+        Description: Death Claw.
+
+        Log:
+
+           Created: December 02, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+#include "..\headers\ncr4.h"
+
+#define NAME                    SCRIPT_SCDTHCLA
+
+#include "..\headers\command.h"
+//#include "..\headers\ModReact.h"
+
+#include "..\headers\ncr.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure combat_p_proc;
+
+//Defines
+#define TIMER_APPEAR      1
+#define TIMER_TALK        2
+#define TIMER_PLAYER_BLAB 3
+#define TIMER_ENDSEQ      4
+
+#define TMP_PLYR_TILE      19059
+#define DEATHCLAW_TILE1    (21861)
+#define DEATHCLAW_TILE2    (tile_num_in_direction(DEATHCLAW_TILE1, 1, 2))
+#define DEATHCLAW_CONVERSE (tile_num_in_direction(DEATHCLAW_TILE1, 1, 1))
+
+
+#define dclaw_mstr(x)  message_str(SCRIPT_ZCLDTHCL, x)
+
+//Imports
+import variable cBraObj;
+import variable tBrahmn;
+import variable numDeathClaws;
+import variable i_deathclaw_1;
+import variable i_deathclaw_2;
+
+
+//Local vars
+#define LVAR_Blab_Count                      (0)
+#define LVAR_Talk_Count                      (1)
+
+// Local variables which do not need to be saved between map changes.
+
+variable begin
+   hostile1 := 0;
+   fleeing  := 0;
+   visible  := 0;
+   tmpPlyr := 0;
+end
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_APPEAR) then begin
+      if (self_obj == i_deathclaw_1) then begin
+         fadeout(1);
+         set_obj_visibility(self_obj, OBJ_VIS);
+         game_ui_disable;
+
+         reg_anim_clear(tmpPlyr);
+         reg_anim_begin();
+            anim(self_obj, ANIMATE_ROTATION, 4);
+         reg_anim_end();
+
+         set_obj_visibility(dude_obj, OBJ_INVIS);
+         move_to(self_obj, DEATHCLAW_TILE1, 0);
+         move_to(dude_obj, DEATHCLAW_CONVERSE, 0);
+      end else begin
+         set_obj_visibility(self_obj, OBJ_VIS);
+         move_to(self_obj, DEATHCLAW_TILE2, 0);
+         fadein(1);
+         add_timer_event(i_deathclaw_1, 0, TIMER_TALK);
+         add_timer_event(i_deathclaw_2, 0, TIMER_TALK);
+      end
+   end else if (fixed_param == TIMER_TALK) then begin
+      variable obj;
+
+      if (self_obj == i_deathclaw_1) then begin
+         if (local_var(LVAR_Talk_Count) == 0) then begin
+            if (not global_var(GVAR_GRUTHAR_DSTATUS)) then begin
+               float_msg(self_obj, mstr(105), FLOAT_MSG_NORMAL);
+            end else begin
+               inc_local_var(LVAR_Talk_Count);
+               float_msg(self_obj, mstr(107) + " " + dude_name + " " + mstr(108), FLOAT_MSG_NORMAL);
+            end
+            add_timer_event(self_obj, game_ticks(2), TIMER_TALK);
+         end else if (local_var(LVAR_Talk_Count) == 1) then begin
+            float_msg(self_obj, mstr(106), FLOAT_MSG_NORMAL);
+            add_timer_event(self_obj, game_ticks(2), TIMER_TALK);
+         end else begin
+            add_timer_event(i_deathclaw_1, 0, TIMER_ENDSEQ);
+            add_timer_event(i_deathclaw_2, 0, TIMER_ENDSEQ);
+         end
+      end
+      inc_local_var(LVAR_Talk_Count);
+   end else if (fixed_param == TIMER_PLAYER_BLAB) then begin
+      fadeout(1);
+      reg_anim_clear(dude_obj);
+      game_time_advance(ONE_GAME_HOUR);
+      fadein(1);
+
+
+      if (self_obj == i_deathclaw_1) then begin
+         if (dude_iq < 4) then begin
+            float_msg(dude_obj, mstr(103 + local_var(LVAR_Blab_Count)), FLOAT_MSG_NORMAL);
+         end else begin
+            float_msg(dude_obj, mstr(101 + local_var(LVAR_Blab_Count)), FLOAT_MSG_NORMAL);
+         end
+      end
+
+      if (local_var(LVAR_Blab_Count) == 0) then begin
+         add_timer_event(self_obj, game_ticks(5), TIMER_PLAYER_BLAB);
+         inc_local_var(LVAR_Blab_Count);
+      end else begin
+         add_timer_event(self_obj, game_ticks(5), TIMER_APPEAR);
+      end
+   end else if (fixed_param == TIMER_ENDSEQ) then begin
+      if (self_obj == i_deathclaw_1) then begin
+         fadeout(1);
+         move_to(dude_obj, TMP_PLYR_TILE, 0);
+         set_obj_visibility(dude_obj, OBJ_VIS);
+         game_ui_enable;
+      end else begin
+         fadein(1);
+         if (not global_var(GVAR_GRUTHAR_DSTATUS)) then begin
+            if (dude_iq < 4) then begin
+               float_msg(dude_obj, mstr(109), FLOAT_MSG_NORMAL);
+            end else begin
+               float_msg(dude_obj, mstr(110), FLOAT_MSG_NORMAL);
+            end
+         end
+      end
+      set_local_var(LVAR_Talk_Count, 5);
+   end
+end
+
+procedure combat_p_proc begin
+   if (not obj_on_screen(self_obj)) then begin
+      if (numDeathClaws > 0) then
+         numDeathClaws -= 1;
+      destroy_object(self_obj);
+   end else begin
+      critter_set_flee_state(self_obj, 1);
+   end
+end
+
+procedure critter_p_proc begin
+   if (local_var(LVAR_Talk_Count) == 5) then begin
+      if (obj_on_screen(self_obj)) then begin
+         if (not anim_busy(self_obj)) then begin
+            //animate_run_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 5));
+            animate_run_to_tile(27055); // edit by killap - this way they will actually be hidden and not just stand there in plain view
+         end
+      end else begin
+         if (numDeathClaws > 0) then
+            numDeathClaws -= 1;
+         destroy_object(self_obj);
+      end
+   end
+end
+
+procedure destroy_p_proc begin
+   if (numDeathClaws > 0) then
+      numDeathClaws -= 1;
+end
+
+procedure damage_p_proc begin
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(dclaw_mstr(100));
+end
+
+procedure description_p_proc begin
+end
+
+procedure use_obj_on_p_proc begin
+end
+
+procedure use_skill_on_p_proc begin
+   if (action_being_used == SKILL_STEAL) then
+      script_overrides;
+end
+
+procedure map_enter_p_proc begin
+   if (numDeathClaws == -1) then begin
+      numDeathClaws := 1;
+      i_deathclaw_1 := self_obj;
+   end else begin
+      numDeathClaws += 1;
+      i_deathclaw_2 := self_obj;
+   end
+
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT13);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_VAULT_DEATHCLAW);
+   if (is_loading_game == FALSE) then begin
+      set_obj_visibility(self_obj, OBJ_INVIS);
+
+      add_timer_event(self_obj, game_ticks(5), TIMER_PLAYER_BLAB);
+   end
+end

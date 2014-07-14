@@ -1,0 +1,113 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Car Trunk
+        Location: Arroyo
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_ZICRTRNK
+
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure map_update_p_proc;
+procedure use_p_proc;
+
+#define LVAR_In_Party           (0)
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   debug_msg("Using Car Trunk");
+end
+
+procedure map_enter_p_proc begin
+   debug_msg("trunk: map_enter_p_proc");
+   if (global_var(GVAR_CAR_PLACED_TILE) == -1) then begin
+      set_global_var(GVAR_CAR_PLACED_TILE, 0);
+   end
+   if (dude_has_car != 0) then begin
+      if (Trunk_Ptr != 0) then begin
+         debug_msg("   Trunk_In_Party: start");
+         debug_msg("   GVAR_CAR_PLACED_TILE == " + global_var(GVAR_CAR_PLACED_TILE));
+         if (global_var(GVAR_CAR_PLACED_TILE) > 0) then begin
+            if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), self_elevation, PID_DRIVABLE_CAR) != 0) then begin
+               debug_msg("   Car_On_Elev(self_elevation)");
+               Create_Trunk(global_var(GVAR_CAR_PLACED_TILE), self_elevation)
+               check_set_obj_visiblility(self_obj, false);
+            end else begin
+               debug_msg("  trying to hide trunk");
+               check_set_obj_visiblility(self_obj, true);
+            end
+         end else if (global_var(GVAR_CAR_PLACED_TILE) != -1) then begin
+            debug_msg("  trying to hide trunk");
+            check_set_obj_visiblility(self_obj, true);
+         end
+         debug_msg("   Trunk_In_Party: end");
+      end else begin
+         debug_msg("   global_var(GVAR_PLAYER_GOT_CAR) == " + global_var(GVAR_PLAYER_GOT_CAR));
+         party_add(self_obj);
+      end
+   end else begin
+      debug_msg("   player hasn't gotten trunk");
+   end
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure map_update_p_proc begin
+   debug_msg("trunk: map_update_p_proc");
+   if (dude_has_car != 0) then begin
+      if (Trunk_Ptr != 0) then begin
+         debug_msg("   Trunk_In_Party: start");
+         debug_msg("   GVAR_CAR_PLACED_TILE == " + global_var(GVAR_CAR_PLACED_TILE));
+         if (global_var(GVAR_CAR_PLACED_TILE) > 0) then begin
+            if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), self_elevation, PID_DRIVABLE_CAR) != 0) then begin
+               debug_msg("   Car_On_Elev(self_elevation)");
+               Create_Trunk(global_var(GVAR_CAR_PLACED_TILE), self_elevation)
+               check_set_obj_visiblility(self_obj, false);
+            end else begin
+               debug_msg("  trying to hide trunk");
+               check_set_obj_visiblility(self_obj, true);
+            end
+         end else if (global_var(GVAR_CAR_PLACED_TILE) != -1) then begin
+            debug_msg("  trying to hide trunk");
+            check_set_obj_visiblility(self_obj, true);
+         end
+         debug_msg("   Trunk_In_Party: end");
+      end else begin
+         debug_msg("   global_var(GVAR_PLAYER_GOT_CAR) == " + global_var(GVAR_PLAYER_GOT_CAR));
+         party_add(self_obj);
+      end
+   end else begin
+      debug_msg("   player hasn't gotten trunk");
+   end
+end

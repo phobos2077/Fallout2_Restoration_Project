@@ -1,0 +1,22 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+#include "..\headers\define.h"
+#include "..\headers\Broken2.h"
+
+#define NAME                    SCRIPT_HTCHUCK
+#include "..\headers\command.h"
+
+procedure spatial_p_proc;
+procedure start;
+
+#define LVAR_herebefore (0)
+
+procedure start begin
+end
+
+procedure spatial_p_proc begin
+   if ((source_obj == dude_obj) and (map_var( MVAR_Chuck_Awoke ) == 0) ) then // edit by killap - added (source_obj == dude_obj)
+      set_map_var( MVAR_Chuck_Awoke, 1 );
+end

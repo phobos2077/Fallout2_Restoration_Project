@@ -1,0 +1,19 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/* Random Encounter scripts. These will be filled in more once they
+   have been designed.
+*/
+
+procedure start;
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_ECSLVRUN
+
+#include "..\headers\command.h"
+
+procedure start begin
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_SLAVE_RUN);
+end

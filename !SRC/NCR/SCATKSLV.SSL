@@ -1,0 +1,218 @@
+/*
+	Script for critter tmplete
+*/
+
+
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_SCATKSLV
+
+#include "..\headers\command.h"
+#include "..\headers\safehs1.h"
+#include "..\headers\safehs2.h"
+#include "..\headers\safehs3.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node999;
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   if (critter_is_male) then
+      display_msg(mstr(101));
+   else
+      display_msg(mstr(102));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+end
+
+procedure destroy_p_proc begin
+   if (cur_map_index == MAP_RANGER_SAFE_HOUSE1) then begin
+      set_map_var(MVAR_SF1_Num_Of_Slavers,(map_var(MVAR_SF1_Num_Of_Slavers) - 1));
+      set_global_var(GVAR_TMP_GLOBAL_VAR,(map_var(MVAR_SF1_Num_Of_Slavers) - 1)); // added by killap - expansion
+      if (map_var(MVAR_SF1_Num_Of_Slavers) == 0) then begin
+         set_exit_grids(0,-2,0,0,0);
+         set_global_var(GVAR_LOAD_MAP_INDEX,0);
+      end
+   end else if (cur_map_index == MAP_RANGER_SAFE_HOUSE2) then begin
+      set_map_var(MVAR_SF2_Num_Of_Slavers,(map_var(MVAR_SF2_Num_Of_Slavers) - 1));
+      set_global_var(GVAR_TMP_GLOBAL_VAR,(map_var(MVAR_SF2_Num_Of_Slavers) - 1)); // added by killap - expansion
+      if (map_var(MVAR_SF2_Num_Of_Slavers) == 0) then begin
+         set_exit_grids(0,-2,0,0,0);
+         set_global_var(GVAR_LOAD_MAP_INDEX,0);
+      end
+   end else if (cur_map_index == MAP_RANGER_SAFE_HOUSE3) then begin
+      //no need to do anything
+   end
+   
+   inc_evil_critter
+end
+
+
+
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   if (cur_map_index == MAP_RANGER_SAFE_HOUSE1) then begin
+      set_map_var(MVAR_SF1_Num_Of_Slavers,(map_var(MVAR_SF1_Num_Of_Slavers) + 1));
+   end else if (cur_map_index == MAP_RANGER_SAFE_HOUSE2) then begin
+      set_map_var(MVAR_SF2_Num_Of_Slavers,(map_var(MVAR_SF2_Num_Of_Slavers) + 1));
+   end else if (cur_map_index == MAP_RANGER_SAFE_HOUSE3) then begin
+      set_map_var(MVAR_SF3_Num_Of_Slavers,(map_var(MVAR_SF3_Num_Of_Slavers) + 1));
+   end
+end
+
+procedure map_exit_p_proc begin
+   if (cur_map_index == MAP_RANGER_SAFE_HOUSE1) then begin
+      if (map_var(MVAR_SH1_RANGERS) <= 0) then
+         destroy_object(self_obj);
+   end else if (cur_map_index == MAP_RANGER_SAFE_HOUSE2) then begin
+      if (map_var(MVAR_SH2_RANGERS) <= 0) then
+         destroy_object(self_obj);
+   end else if (cur_map_index == MAP_RANGER_SAFE_HOUSE3) then begin
+      if (map_var(MVAR_SH3_RANGERS) <= 0) then
+         destroy_object(self_obj);
+   end
+end
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   if (cur_map_index == MAP_RANGER_SAFE_HOUSE1) then begin
+      if (map_var(MVAR_SH1_RANGERS) <= 0) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node001;
+         gSay_End;
+         end_dialogue;
+      end else
+         floater(250);
+   end else if (cur_map_index == MAP_RANGER_SAFE_HOUSE2) then begin
+      if (map_var(MVAR_SH2_RANGERS) <= 0) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node001;
+         gSay_End;
+         end_dialogue;
+      end else
+         floater(250);
+   end else if (cur_map_index == MAP_RANGER_SAFE_HOUSE3) then begin
+      if (map_var(MVAR_SH3_RANGERS) <= 0) then
+         floater(300);
+   end
+end
+
+procedure Node001 begin
+   Reply(200);
+   NOption(201, Node999, 4);
+   NOption(202, Node002, 4);
+end
+
+procedure Node002 begin
+   if (cur_map_index == MAP_RANGER_SAFE_HOUSE1) then begin
+      load_map(MAP_RANGER_SAFE_HOUSE2, 5);
+   end else if (cur_map_index == MAP_RANGER_SAFE_HOUSE2) then begin
+      load_map(MAP_RANGER_SAFE_HOUSE3, 5);
+   end
+end
+
+procedure Node999 begin
+
+end

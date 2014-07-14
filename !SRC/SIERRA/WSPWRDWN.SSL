@@ -1,0 +1,55 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_WSPWRDWN
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure use_p_proc;
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   script_overrides;
+
+   if (global_var(GVAR_SIERRA_BASE_POWER) == 0) then begin              // Power On
+       set_global_var(GVAR_SIERRA_BASE_POWER,1);                        // Power Off
+       display_msg(g_mstr(912));
+       play_sfx("pwrswtch");
+       animate_stand;
+   end
+   else begin
+       set_global_var(GVAR_SIERRA_BASE_POWER,0);                        // Power On
+       display_msg(g_mstr(913));
+       play_sfx("pwrswtch");
+       animate_stand_reverse;
+   end
+end

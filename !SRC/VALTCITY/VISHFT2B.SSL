@@ -1,0 +1,113 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_VISHFT2B
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure use_skill_on_p_proc;
+
+#define LVAR_Looked_Before              (0)
+
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+        add_timer_event( self_obj, game_ticks(6), 0 );
+end
+
+procedure use_skill_on_p_proc begin
+   // Only allow a repair if the vent hasn't already been fixed.
+   if ((action_being_used == SKILL_REPAIR) and (global_var(GVAR_VAULT_CITY_VENT) != VENT_REPAIRED)) then begin
+      variable item;
+      script_overrides;
+
+      if ((global_var(GVAR_VAULT_CITY_VENT) == VENT_KNOWN) or (dude_perception > 5)) then begin
+        display_msg(mstr(108));
+        set_global_var(GVAR_VAULT_CITY_VENT, VENT_REPAIRED);
+        give_xp(EXP_FIXED_VENT);
+        float_msg(dude_obj,mstr(109 + (3*dude_is_stupid)),FLOAT_MSG_NORMAL); //edit by killap - added (3*dude_is_stupid)
+        item:=create_object(PID_MICRO_FUSION_CELL,0,0);
+        add_obj_to_inven(dude_obj,item);
+      end
+      else begin
+        display_msg(mstr(107));
+      end
+   end
+end
+
+procedure timed_event_p_proc begin
+        // Display the RATTLE floater if the player's perception is high enough
+        // or the damaged vent is known.
+        if( fixed_param == 0 ) then begin
+                if((global_var(GVAR_VAULT_CITY_VENT) != VENT_REPAIRED)) then begin
+                        if((global_var(GVAR_VAULT_CITY_VENT) == VENT_KNOWN) or (dude_perception > 5)) then begin
+                                floater(106);
+                        end
+                        add_timer_event( self_obj, game_ticks(6), 0 );
+                end
+        end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+
+   if (((global_var(GVAR_VAULT_CITY_VENT) == VENT_KNOWN) or (dude_perception > 5)) and (global_var(GVAR_VAULT_CITY_VENT) != VENT_REPAIRED)) then begin
+        if (local_var(LVAR_Looked_Before) == 0) then begin
+           inc_local_var(LVAR_Looked_Before);
+           display_msg(mstr(100));
+       end
+       else
+           display_msg(mstr(101));
+   end
+
+   else begin
+       if (local_var(LVAR_Looked_Before) == 0) then begin
+           inc_local_var(LVAR_Looked_Before);
+           display_msg(mstr(103));
+       end
+       else
+           display_msg(mstr(104));
+   end
+end
+
+procedure description_p_proc begin
+   script_overrides;
+
+   if (((global_var(GVAR_VAULT_CITY_VENT) == VENT_KNOWN) or (dude_perception > 5)) and (global_var(GVAR_VAULT_CITY_VENT) != VENT_REPAIRED)) then
+       display_msg(mstr(102));
+   else
+       display_msg(mstr(105));
+end

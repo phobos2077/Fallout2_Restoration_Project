@@ -1,0 +1,644 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Oz9
+        Location: San Francisco
+        Description: He is the head honcho of the Elronologists
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+//#include "..\headers\<TownName.h>"
+
+#define NAME                    SCRIPT_FCOZ9
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_SAN_FRANCISCO)
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#include "..\headers\sanFran.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027a;
+procedure Node027b;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+
+
+procedure doCallGuards;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_EMP_PAYMENT                (7)  //added by killap
+#define LVAR_SHIP_FUEL                  (8)  //added by killap
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable callGuards;
+
+procedure start begin
+
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_ELRONS);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SF_OZ9);
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       self_attack_dude;
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (obj_in_party(source_obj)) then begin
+      set_san_fran_flag(SF_ELRON_ENEMY);
+       set_local_var(LVAR_Personal_Enemy,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=1;
+   Slavery_Tolerant:=SLAVE_TOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION4;
+
+   CheckKarma;
+
+   GetReaction;
+
+   if (san_fran_flag(SF_ELRON_ENEMY)) then begin
+      call Node001;
+   end else if (struggle_flag(STRUG_SHIRECRUIT)) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node032;
+      gSay_End;
+      end_dialogue;
+   end else if (struggle_flag(STRUG_SHIDOUBLE)) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node035;
+      gSay_End;
+      end_dialogue;
+   end else if ((struggle_flag(STRUG_ELRECRUIT) or struggle_flag(STRUG_ELRECRUIT2) or struggle_flag(STRUG_ELDOUBLE)) and not (san_fran_flag(SF_LEE_DEAD) or san_fran_flag(SF_EMPEROR_FORMATTED)) ) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node010;
+      gSay_End;
+      end_dialogue;
+   end else if (san_fran_flag(SF_EMPEROR_FORMATTED) or san_fran_flag(SF_LEE_DEAD)) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node012;
+      gSay_End;
+      end_dialogue;
+   end else if (local_var(LVAR_Herebefore) == 1 and not DUDE_ADJUSTED and dude_iq < 4) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node004;
+      gSay_End;
+      end_dialogue;
+   end else if (elron_flag(EL_ACCEPTED)) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node024;
+      gSay_End;
+      end_dialogue;
+   end else if (elron_flag(EL_ACBADGER)) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node010;
+      gSay_End;
+      end_dialogue;
+   end else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node002;
+      gSay_End;
+      end_dialogue;
+   end
+
+   if (callGuards) then begin
+      callGuards := 0;
+      call doCallGuards;
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+
+/* Set global_variable for Enemy status*/
+   set_san_fran_flag(SF_OZ9_DEAD);
+   set_struggle_flag(STRUG_OZ9DEAD);
+   
+   //added by killap
+   if (global_var(GVAR_SAN_FRAN_ELRON_GAS_QST) == 1) then
+      set_global_var(GVAR_SAN_FRAN_ELRON_GAS_QST, 3); //set to failed - killap
+   else if (global_var(GVAR_SAN_FRAN_KILL_EMP_QST) == 1) then
+      set_global_var(GVAR_SAN_FRAN_KILL_EMP_QST, 3); //set to failed - killap
+   //end added by killap
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_mstr(101);
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   float_msg(self_obj, mstr(Random(103, 105)), FLOAT_MSG_RED);
+   callGuards := 1;
+end
+
+procedure Node34 begin
+   if (DUDE_ADJUSTED) then
+      call Node003;
+   else
+      call Node004;
+end
+
+procedure Node21a begin
+   DownReactMinor;
+   call Node021;
+end
+
+procedure Node23a begin
+   UpReactMinor;
+   debug_msg("FCOZ9: in node 23a");
+
+   call Node023;
+end
+
+procedure Node998a begin
+   callGuards := 1;
+   set_san_fran_flag(SF_ELRON_ENEMY);
+   call Node998;
+end
+
+procedure Node002 begin
+   Reply(106);
+   NLowOption(107, Node34);
+   if (DUDE_LETTER) then begin
+      BOption(110, Node21a, 4);
+      NOption(111, Node023, 4);
+      GOption(112, Node23a, 4);
+   end else begin
+      //if (Fallout2_tribe_kidnapped) then //added by killap
+      if ((f2_flag_any >= f2_state_tribe_kidnapped) and (f2_flag_any < f2_state_enclave_destroyed)) then //edit by killap
+         NOption(108, Node014, 4);
+      NOption(109, Node022, 4);
+      BOption(113, Node998a, 4);
+      NOption(114, Node999, 4);
+   end
+end
+
+procedure Node003 begin
+   Reply(115);
+   NLowOption(116, Node005);
+   //if (Fallout2_tribe_kidnapped) then //added by killap
+   if ((f2_flag_any >= f2_state_tribe_kidnapped) and (f2_flag_any < f2_state_enclave_destroyed)) then //edit by killap
+      NLowOption(117, Node006);
+   NLowOption(118, NOde999);
+end
+
+procedure Node004 begin
+   Reply(119);
+   NOption(120, Node999, 1);
+end
+
+procedure Node005 begin
+   Reply(121);
+   //if (Fallout2_tribe_kidnapped) then //added by killap
+   if ((f2_flag_any >= f2_state_tribe_kidnapped) and (f2_flag_any < f2_state_enclave_destroyed)) then //edit by killap
+      NLowOption(122, Node006);
+   NLowOption(123, Node999);
+end
+
+procedure Node006 begin
+   Reply(124);
+   NLowOption(125, Node007);
+   NLowOption(126, Node008);
+end
+
+procedure Node009a begin
+   SHOW_KILL_EMP_QST;
+   set_struggle_flag(STRUG_ELRECRUIT2);
+   call Node009;
+end
+
+procedure Node007 begin
+   Reply(127);
+   NLowOption(128, Node009a);
+   NLowOption(129, Node008);
+end
+
+procedure Node008 begin
+   Reply(130);
+   NLowOption(131, Node007);
+   NLowOption(132, Node999);
+end
+
+procedure Node009 begin
+   Reply(133);
+   NLowOption(134, Node999);
+end
+
+procedure Node010 begin
+   if (struggle_flag(STRUG_ELRECRUIT) or struggle_flag(STRUG_ELRECRUIT2) or struggle_flag(STRUG_ELDOUBLE)) then
+      Reply(135);
+   else
+      Reply(213);
+   NLowOption(136, Node011);
+   NOption(137, Node024, 4);
+   if (DUDE_LETTER) then
+      NOption(112, Node23a, 4);
+
+   NOption(138, Node999, 4);
+end
+
+procedure Node011 begin
+   Reply(139);
+   NLowOption(140, Node999);
+end
+
+procedure Node012 begin\
+//killap's code
+   if((local_var(LVAR_EMP_PAYMENT) == 0)) then begin
+      COMPLETE_KILL_EMP_QST
+      set_local_var(LVAR_EMP_PAYMENT,1);
+   end
+//end killap's code
+   Reply(141);
+   NLowOption(142, Node013);
+   NOption(143, Node019, 4);
+end
+
+procedure Node013 begin
+//killap's code
+   if((local_var(LVAR_SHIP_FUEL) == 0)) then begin
+      if (not tanker_flag(TANK_FUEL)) then begin //added check by killap
+         set_tanker_flag(TANK_NAVCOMP);
+         COMPLETE_TANKER_FUEL;
+      end
+      set_local_var(LVAR_SHIP_FUEL,1);
+   end
+//end killap's code  
+   Reply(144);
+   NLowOption(145, Node999);
+end
+
+procedure Node014 begin
+   Reply(146);
+   NOption(147, Node015, 4);
+   NOption(148, Node016, 4);
+end
+
+procedure Node015 begin
+   Reply(149);
+   NOption(150, Node016, 4);
+end
+
+procedure Node016 begin
+   Reply(151);
+   NOption(152, Node017, 4);
+   NOption(153, Node018, 4);
+end
+
+procedure Node017 begin
+   Reply(154);
+   NOption(155, Node002, 4);
+   NOption(156, Node018, 4);
+   NOption(157, Node999, 4);
+end
+
+procedure Node018 begin
+   Reply(158);
+   NOption(159, Node002, 4);
+   NOption(160, Node999, 4);
+end
+
+procedure Node019 begin
+   Reply(161);
+   NOption(162, Node020, 4);
+end
+
+procedure Node020 begin
+   Reply(163);
+   BOption(164, Node998a, 4); //edit by killap - was NOption
+   NOption(165, Node999, 4);
+end
+
+procedure TakeLetter begin
+   variable obj;
+   if (DUDE_LETTER) then begin
+      obj := DUDE_LETTER;
+      rm_obj_from_inven(dude_obj, obj);
+      destroy_object(obj);
+   end
+   give_xp(EXP_DELIVERED_OZ9_LETTER);
+   inc_general_rep(-REP_BONUS_NCR_OZ9_DELIVER_LETTER);
+   set_global_var(GVAR_NCR_ENLONE_LETTER_QST, 2);
+end
+
+procedure Node2224 begin
+   if (elron_flag_any < EL_ACCEPTED) then
+      call Node022;
+   else
+      call Node024;
+end
+
+procedure Node021 begin
+   call TakeLetter;
+   Reply(166);
+   BOption(167, Node998a, 4); //edit by killap - was NOption
+   NOption(168, Node2224, 4);
+   NOption(169, Node999, 4);
+end
+
+procedure Node022 begin
+   Reply(170);
+   BOption(171, Node998a, 4); //edit by killap - was NOption
+   NOption(172, Node999, 4);
+end
+
+procedure Node023 begin
+   debug_msg("FCOZ9: in node 023");
+   call TakeLetter;
+   Reply(173);
+   NOption(174, Node2224, 4);
+   NOption(175, Node999, 4);
+end
+
+procedure Node2526 begin
+   if (not BADGER_DEAD) then //Assign badger quest if the badger is not dead. All other conditions should be caught before here
+      call Node026;
+   else if (not san_fran_flag(SF_ELRON_DRIVE_FORMAT) and not san_fran_flag(SF_LEE_DEAD)) then
+      call Node025; //Assign kill Empror Quest
+   else
+      call Node036; //Blow off
+end
+
+procedure Node024 begin
+   Reply(176);
+   NOption(177, Node031, 4);
+   NOption(178, Node2526, 4);
+   NOption(179, Node030, 4);
+   NOption(180, Node999, 4);
+end
+
+procedure NodeRecruit begin
+   set_struggle_flag(STRUG_ELRECRUIT);
+   SHOW_KILL_EMP_QST;
+   call Node999;
+end
+
+procedure Node025 begin
+   Reply(181);
+   NOption(182, NodeRecruit, 4);
+   NOption(183, Node027a, 4);
+end
+
+procedure NodeBadger begin
+   set_elron_flag(EL_ACBADGER);
+   call Node999;
+end
+
+procedure Node026 begin
+   Reply(184);
+   NOption(185, NodeBadger, 4);
+   NOption(186, Node027b, 4);
+end
+
+procedure Node027a begin
+   Reply(187);
+   NOption(188, Node028, 4);
+   NOption(189, NodeRecruit, 4);
+end
+
+procedure Node027b begin
+   Reply(187);
+   NOption(188, Node028, 4);
+   NOption(189, NodeBadger, 4);
+end
+
+procedure Node028 begin
+   Reply(190);
+   BOption(191, Node998a, 4); //edit by killap - was NOption
+   NOption(192, Node029, 4);
+end
+
+procedure Node029 begin
+   Reply(193);
+   NOption(194, Node998a, 4);
+end
+
+procedure Node030 begin
+   Reply(195);
+   NOption(196, Node024, 4);
+   NOption(197, Node999, 4);
+end
+
+procedure Node031 begin
+   Reply(198);
+   NOption(199, Node024, 4);
+   NOption(200, Node999, 4);
+end
+
+procedure Node032 begin
+   Reply(201);
+   NOption(202, Node033, 4);
+   BOption(203, Node998a, 4); //edit by killap - was NOption
+   BOption(204, Node998a, 4); //edit by killap - was NOption
+end
+
+procedure Node034a begin
+   set_struggle_flag(STRUG_ELDOUBLE);
+   SHOW_KILL_EMP_QST;
+   call Node034;
+end
+
+procedure Node033 begin
+   Reply(205);
+   BOption(206, Node998a, 4); //edit by killap - was NOption
+   NOption(207, Node034a, 4);
+end
+
+procedure Node034 begin
+   Reply(208);
+   NOption(209, Node999, 4);
+   BOption(210, Node998a, 4); //edit by killap - was NOption
+end
+
+procedure Node035 begin
+   Reply(211);
+   BOption(212, Node998a, 4); //edit by killap - was NOption
+end
+
+procedure Node036 begin
+   Reply(214);
+   NOption(196, Node024, 4);
+   NOption(160, Node036, 4);
+end
+
+procedure doCallGuards begin
+   SET_GUARD_NOTIFY(dude_obj);
+end
+//xxxxxxxxxxxxxxxxxxxx

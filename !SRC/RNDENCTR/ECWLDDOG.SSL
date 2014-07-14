@@ -1,0 +1,35 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/* Random Encounter scripts. These will be filled in more once they
+   have been designed.
+*/
+
+procedure start;
+
+#include "..\headers\define.h"
+#include "..\headers\bhrnddst.h"
+
+#define NAME                    SCRIPT_ECWLDDOG
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure destroy_p_proc;
+procedure critter_p_proc;
+
+procedure start begin
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_WILD_DOG);
+end
+
+procedure critter_p_proc begin
+   if (obj_can_see_obj(self_obj,dude_obj)) then
+       attack(dude_obj);
+end
+
+procedure destroy_p_proc begin
+   if (cur_map_index == MAP_BH_RND_DESERT) then begin
+       dec_map_var(MVAR_Hostile_Total);
+   end
+end

@@ -1,0 +1,78 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: CowBomb
+        Location: Low luck encounter
+        Description: This is a low luck encounter. Cows run at you and explode.. Probably going to be really cool.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: April 14, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_COWBOMB
+
+#include "..\headers\command.h"
+
+#include "..\headers\cowbomb.h"
+#include "..\headers\specenc.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure Initial_Inven;
+
+procedure LoadCritters;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   if (map_first_run) then begin
+   end
+   Lighting;
+//   call LoadCritters;
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+   call LoadCritters;
+end
+
+
+procedure Initial_Inven begin
+end
+
+procedure LoadCritters begin
+   variable numLoad := 0;
+   variable obj;
+   variable tile;
+
+   numLoad := NUM_COWS - map_var(MVAR_Current_Cow_Bombs);
+   while (numLoad > 0) do begin
+      tile := tile_num_in_direction(LOAD_TILE, Random(0, 5), Random(1, 10));
+      obj := create_object_sid(COW_PID, tile, elevation(dude_obj), COW_SID);
+      critter_attempt_placement(obj, tile, elevation(dude_obj));
+
+      numLoad -= 1;
+   end
+end

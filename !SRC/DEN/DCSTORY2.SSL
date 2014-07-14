@@ -1,0 +1,324 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_DCSTORY2
+#define TOWN_REPUTATION         GVAR_TOWN_REP_THE_DEN
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+#include "..\headers\Den.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node004a;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node008a;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node017a;
+procedure Node018;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (4)
+#define LVAR_Story_Status                 (5)
+#define LVAR_Been_At_9                    (6)
+
+#define STORY_UNTOLD             (0)
+#define STORY_CAT_MENTIONED      (1)
+#define STORY_DRINK_PURCHASED    (2)
+#define STORY_TOLD               (3)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == timed_event_float) then begin
+      if (combat_is_initialized == false) then begin
+      end
+      // ### flush_add_timer_event_sec(self_obj, random(, ), timed_event_float);
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_THE_DEN);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+      end
+      // ### flush_add_timer_event_sec(self_obj, random(, ), timed_event_float);
+   end
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (hostile) then begin
+         self_attack_dude;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   GetReaction;
+
+   if( hostile ) then
+      call Node001;
+   else if( mom_dead ) then
+      call Node002;
+   else if( local_var( LVAR_Story_Status ) == STORY_TOLD ) then
+      call Node003;
+   else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node004;
+      gSay_End;
+      end_dialogue;
+   end
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if( herebefore ) then
+      display_mstr(101); //edit by killap - was 100
+   else
+      display_mstr(100); //edit by killap - was 101
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(102);
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   floater( random( 103, 107 ) );
+end
+
+procedure Node002 begin
+   floater( random( 108, 111 ) );
+end
+
+procedure Node003 begin
+   floater( random( 112, 116 ) );
+end
+
+procedure Node004 begin
+   if( not( herebefore ) ) then
+      Reply(117);
+   else
+      Reply(118);
+
+   NLowOption(123, Node006);
+   NLowOption(124, Node999);
+   if( local_var( LVAR_Story_Status ) >= STORY_CAT_MENTIONED ) then
+      NOption(119, Node004a, 004);
+   else begin
+      NOption(120, Node007, 004);
+      if( dude_is_male ) then
+         NOption(121, Node009, 004);
+   end
+   NOption(122, Node999, 004);
+end
+
+procedure Node004a begin
+   if( local_var( LVAR_Story_Status ) == STORY_DRINK_PURCHASED ) then
+      call Node010;
+   else
+      call Node008;
+end
+
+procedure Node005 begin
+end
+
+procedure Node006 begin
+   Reply(131);
+
+   NLowOption(132, Node999);
+   NLowOption(133, Node999);
+end
+
+procedure Node007 begin
+   set_local_var( LVAR_Story_Status, STORY_CAT_MENTIONED );
+   Reply(134);
+
+   NOption(135, Node008, 004);
+   NOption(136, Node999, 004);
+end
+
+procedure Node008 begin
+   if( not( herebefore ) ) then
+      Reply(137);
+   else
+      Reply(138);
+
+   if( item_caps_total( dude_obj ) >= 10 ) then begin
+      GOption(139, Node008a, 004);
+      NOption(140, Node008a, 004);
+   end
+   NOption(141, Node999, 004);
+end
+
+procedure Node008a begin
+   set_local_var( LVAR_Story_Status, STORY_DRINK_PURCHASED );
+   item_caps_adjust( dude_obj, -10 );
+   call Node010;
+end
+
+procedure Node009 begin
+   if( local_var( LVAR_Been_At_9 ) == 0 ) then begin
+      set_local_var( LVAR_Been_At_9, 1 );
+      Reply(142);
+   end
+   else
+      Reply(143);
+
+   if( local_var( LVAR_Story_Status ) == 0 ) then
+      NOption(144, Node007, 004);
+   NOption(145, Node999, 004);
+end
+
+procedure Node010 begin
+   Reply(146);
+
+   NOption(147, Node011, 004);
+   NOption(148, Node011, 004);
+end
+
+procedure Node011 begin
+   Reply(149);
+
+   NOption(150, Node012, 004);
+end
+
+procedure Node012 begin
+   Reply(151);
+
+   NOption(152, Node013, 004);
+end
+
+procedure Node013 begin
+   Reply(153);
+
+   NOption(154, Node014, 004);
+   NOption(155, Node014, 004);
+end
+
+procedure Node014 begin
+   Reply(156);
+
+   NOption(157, Node015, 004);
+end
+
+procedure Node015 begin
+   Reply(158);
+
+   NOption(159, Node016, 004);
+end
+
+procedure Node016 begin
+   Reply(160);
+
+   NOption(161, Node017, 004);
+   NOption(162, Node017, 004);
+end
+
+procedure Node017 begin
+   Reply(163);
+
+   NOption(164, Node018, 004);
+   NOption(165, Node018, 004);
+   NOption(166, Node017a, 004);
+end
+
+procedure Node017a begin
+   set_local_var( LVAR_Story_Status, STORY_TOLD );
+   display_msg( mstr(169) );
+   give_xp( EXP_STACY_TOLD_STORY );
+end
+
+procedure Node018 begin
+   set_local_var( LVAR_Story_Status, STORY_TOLD );
+   display_msg( mstr(169) );
+   give_xp( EXP_STACY_TOLD_STORY );
+   Reply(167);
+   NOption(168, Node999, 004);
+end

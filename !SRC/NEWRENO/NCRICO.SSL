@@ -1,0 +1,144 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Rico, Monte's Thug
+        Location: New Reno
+        Description:
+
+        Log: *** If Monte moves, Rico Moves! Make it happen!
+
+           Created: April 24, 1998
+
+           Updated:
+*/
+
+/*
+NOTES:
+   Need to add a global var to have Rico attack dud_obj when Monte is under attack.
+*/
+
+
+
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCRICO
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+#include "..\headers\NEWR1.H"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+#define LVAR_Flags                    (0)
+
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == false) then begin
+      if (combat_is_initialized == false) then begin
+         call Node001;
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_MONTE);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure critter_p_proc begin
+   if ( ( (hostile) or (map_var(MVAR_Monte_Attacked)) ) and (self_can_see_dude) ) then begin
+      self_attack_dude;
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_hostile;
+   end
+end
+
+procedure talk_p_proc begin
+   call Node002;
+end
+
+procedure destroy_p_proc begin
+   inc_evil_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + (herebefore));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150 + (herebefore));
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   floater_rand(175, 180);
+end
+procedure Node002 begin
+   if (herebefore) then begin
+      floater_rand(200, 210 + (4*dude_is_female));
+   end else begin
+      floater(215);
+      set_herebefore;
+   end
+end

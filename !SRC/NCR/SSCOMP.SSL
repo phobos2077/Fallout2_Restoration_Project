@@ -1,0 +1,266 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Computer
+        Description: This the computer that you need to fix or the power goes off.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_SSCOMP
+#define CUR_COMP_SCRIPT         SCRIPT_SSCOMP
+
+#include "..\headers\command.h"
+#include "..\headers\ncr1.h"
+
+#include "..\headers\ncr.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure use_fail;
+procedure use_success;
+
+procedure loadDestroyed;
+procedure doExplosion;
+
+#define STATE_WORKING    1
+#define STATE_NOTWORKING 2
+
+#define USE_WITH_SKILL1   SKILL_REPAIR
+#define ROLL_ADJUSTMENT1  0
+
+#define CONSOLE_STATE STATE_WORKING
+
+#define TIMER_CHECK_STATE 1
+#define TIMER_COUNTDOWN   2
+#define TIMER_EXPLODE     3
+
+#define EXPLOSION_D1      200
+#define EXPLOSION_D2      100
+
+#define NUM_EXPLOSIONS    4
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Working             (0)
+#define LVAR_Count_Down          (1)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+variable count := NUM_EXPLOSIONS;
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   variable tile;
+
+   if (fixed_param == TIMER_CHECK_STATE) then begin
+      if (global_var(GVAR_NCR_POWERPLANT) == PP_DAMAGED and local_var(LVAR_Count_Down) == 0) then begin
+         set_local_var(LVAR_Count_Down, 1);
+         add_timer_event(self_obj, game_ticks(1), TIMER_COUNTDOWN);
+      end
+      add_timer_event(self_obj, 1, TIMER_CHECK_STATE);
+   end else if (fixed_param == TIMER_COUNTDOWN) then begin
+      if (global_var(GVAR_NCR_POWERPLANT) != PP_REPAIRED) then begin
+         inc_local_var(LVAR_Count_Down);
+         if (local_var(LVAR_Count_Down) >= 30) then
+            call doexplosion;
+         else
+            add_timer_event(self_obj, game_ticks(1), TIMER_COUNTDOWN);
+      end else begin
+         set_local_var(LVAR_Count_Down, 0);
+      end
+   end else if (fixed_param == TIMER_EXPLODE) then begin
+      tile := tile_num_in_direction(self_tile, Random(0, 5), Random(1, 2));
+      explosion(tile, 0, EXPLOSION_D2);
+      count -= 1;
+      if (count > 0) then begin
+         add_timer_event(self_obj, game_ticks(2), TIMER_EXPLODE);
+      end else begin
+         call loadDestroyed;
+      end
+   end
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+   call use_skill_on_p_proc;
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+
+/**********************************************************************************
+**********************************************************************************/
+
+procedure description_p_proc begin
+   script_overrides;
+   if (global_var(GVAR_NCR_POWERPLANT) != PP_DAMAGED and global_var(GVAR_NCR_POWERPLANT) != PP_DESTROYED) then
+      display_msg(mstr(101));
+   else
+      display_msg(mstr(102));
+end
+
+
+/**********************************************************************************
+   Make sure the door is working.
+**********************************************************************************/
+
+/*procedure use_skill_on_p_proc begin
+   script_overrides;
+   debug_msg("SSCOMP: using sscomp console");
+   if (local_var(LVAR_Working) == STATE_WORKING) then begin
+      if (skill_success(source_obj,USE_WITH_SKILL1,ROLL_ADJUSTMENT1)) then begin
+         call use_success;
+      end
+      else begin
+         call use_fail;
+      end
+   end else call use_fail;
+end*/
+
+//edit by killap
+procedure use_skill_on_p_proc begin
+   script_overrides;
+   if (global_var(GVAR_NCR_POWERPLANT) != 0) then begin
+      debug_msg("SSCOMP: using sscomp console");
+      if (local_var(LVAR_Working) == STATE_WORKING) then begin
+         if (skill_success(source_obj,USE_WITH_SKILL1,ROLL_ADJUSTMENT1)) then begin
+            call use_success;
+         end
+         else begin
+            call use_fail;
+         end
+      end else call use_fail;
+   end
+end 
+//end
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+
+procedure use_obj_on_p_proc begin
+   call use_skill_on_p_proc;
+end
+
+
+/******************************************************************************************
+   IF it gets damaged it breaks
+******************************************************************************************/
+
+procedure damage_p_proc begin
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+
+   if (global_var(GVAR_NCR_POWER_ON) != POWER_OFF) then begin
+      add_timer_event(self_obj, 1, TIMER_CHECK_STATE);
+      set_local_var(LVAR_Working, CONSOLE_STATE);
+      set_local_var(LVAR_Count_Down, 0);
+   end
+   else begin
+      set_local_var(LVAR_Working, STATE_NOTWORKING);
+   end
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+
+/* addtional function section */
+procedure use_success begin
+   if ((global_var(GVAR_NCR_POWERPLANT) != PP_DONE) and (global_var(GVAR_NCR_POWERPLANT) != PP_REPAIRED)) then begin
+      set_global_var(GVAR_NCR_POWERPLANT, PP_REPAIRED);
+      display_msg(mstr(103));
+   end
+end
+
+procedure use_fail begin
+   if ((global_var(GVAR_NCR_POWERPLANT) != PP_DONE) and (global_var(GVAR_NCR_POWERPLANT) != PP_REPAIRED)) then begin
+      set_global_var(GVAR_NCR_POWERPLANT, PP_REPAIR_FAILED);
+      display_msg(mstr(104));
+   end
+end
+
+procedure doExplosion begin
+   set_local_var(LVAR_Working, STATE_NOTWORKING);
+   set_global_var(GVAR_NCR_POWERPLANT, PP_DESTROYED);
+   set_global_var(GVAR_NCR_POWER_ON, POWER_OFF);
+   explosion(self_tile, 0, EXPLOSION_D1);
+
+   add_timer_event(self_obj, game_ticks(2), TIMER_EXPLODE);
+end
+
+procedure loadDestroyed begin
+   variable old_obj;
+
+   create_object_sid(PID_VDU_NOT_WORKING, self_tile, 0, CUR_COMP_SCRIPT);
+   destroy_object(self_obj);
+end

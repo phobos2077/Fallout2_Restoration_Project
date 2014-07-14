@@ -1,0 +1,66 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\enctrp.h"
+
+#define NAME                    SCRIPT_QIWIRES
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure use_obj_on_p_proc;
+procedure description_p_proc;
+
+procedure start begin
+end
+
+procedure use_obj_on_p_proc begin
+   if (((obj_pid(obj_being_used_with) == PID_MULTI_TOOL) or (obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT)) and (map_var(MVAR_Electric_Floor) == FLOOR_ACTIVE)) then begin //added super_tool_kit - killap
+       script_overrides;
+       if (is_success(roll_vs_skill(source_obj,SKILL_REPAIR,-30))) then begin
+           set_map_var(MVAR_Electric_Floor,FLOOR_INACTIVE);
+           if (source_obj == dude_obj) then
+               display_msg(mstr(110));
+           else
+               display_msg(obj_name(source_obj)+mstr(111));
+
+           give_xp(EXP_CUTTING_POWER_CABLE);
+
+       end
+       else if (source_obj == dude_obj) then
+           display_msg(mstr(120));
+       else
+           display_msg(obj_name(source_obj)+mstr(121));
+   end
+
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end

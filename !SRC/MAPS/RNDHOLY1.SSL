@@ -1,0 +1,88 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Holy Knights Map 1
+        Location: Random
+        Description: This is for the first holy knight encounter
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: April 14, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+#include "..\headers\rndholy1.h"
+
+#define NAME                    SCRIPT_RNDHOLY1
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure map_exit_p_proc;
+
+procedure Initial_Inven;
+
+
+export variable i_arthur_obj;
+export variable i_robin_obj;
+export variable i_launcelot_obj;
+export variable i_galahad_obj;
+export variable i_bedemir_obj;
+export variable i_vorpal_obj;
+
+procedure start begin
+   i_arthur_obj    := -1;
+   i_robin_obj     := -1;
+   i_launcelot_obj := -1;
+   i_galahad_obj   := -1;
+   i_bedemir_obj   := -1;
+   i_vorpal_obj    := -1;
+end
+
+procedure map_exit_p_proc begin
+   if (not car_out_of_fuel) then begin
+      if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 0, PID_DRIVABLE_CAR) != 0 or
+          tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 1, PID_DRIVABLE_CAR) != 0 or
+          tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 2, PID_DRIVABLE_CAR) != 0) then begin
+         debug_msg("car_give_to_party");
+         set_global_var(GVAR_CAR_PLACED_TILE, 0);
+         car_give_to_party;
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+//   override_map_start_hex(14095,0,2);
+
+   set_global_var(GVAR_SPECIAL_ENCOUNTER_HOLY1,1);
+
+   Check_Create_Car(CAR_RND_HOLY1_HEX, 0)
+
+   Lighting;
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+end
+
+
+procedure Initial_Inven begin
+end

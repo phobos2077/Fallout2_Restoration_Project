@@ -1,0 +1,493 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_DCVICGRD
+#define TOWN_REPUTATION         GVAR_TOWN_REP_THE_DEN
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+#include "..\headers\Den.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (4)
+#define LVAR_Unlock_Attempts              (5)
+#define LVAR_Node_19                      (6)
+#define LVAR_Home_Tile                    (7)
+#define LVAR_Home_Rotation                (8)
+
+#define door_warned_bit                   bit_10
+#define node_4_bit                        bit_11
+#define node_5_bit                        bit_12
+#define node_18_bit                       bit_13
+#define node_20_bit                       bit_14
+#define node_25_bit                       bit_15
+
+#define door_warned                       lvar_bit(LVAR_Flags, door_warned_bit)
+#define set_door_warned                   set_lvar_bit_on(LVAR_Flags, door_warned_bit)
+
+#define node_4                            lvar_bit(LVAR_Flags, node_4_bit)
+#define set_node_4                        set_lvar_bit_on(LVAR_Flags, node_4_bit)
+
+#define node_5                            lvar_bit(LVAR_Flags, node_5_bit)
+#define set_node_5                        set_lvar_bit_on(LVAR_Flags, node_5_bit)
+
+#define node_18                           lvar_bit(LVAR_Flags, node_18_bit)
+#define set_node_18                       set_lvar_bit_on(LVAR_Flags, node_18_bit)
+
+#define node_20                           lvar_bit(LVAR_Flags, node_20_bit)
+#define set_node_20                       set_lvar_bit_on(LVAR_Flags, node_20_bit)
+
+#define node_25                           lvar_bit(LVAR_Flags, node_25_bit)
+#define set_node_25                       set_lvar_bit_on(LVAR_Flags, node_25_bit)
+
+#define open_vic_door                     door_was_locked := 0;                                             \
+                                          if (vic_door_obj != 0) then begin                                 \
+                                             if (obj_is_open(vic_door_obj) == false) then begin             \
+                                                if (obj_is_locked(vic_door_obj)) then begin                 \
+                                                   door_was_locked := true;                                 \
+                                                   obj_unlock(vic_door_obj);                                \
+                                                end                                                         \
+                                                obj_open(vic_door_obj);                                     \
+                                                flush_add_timer_event(self_obj, 1, timed_event_special);    \
+                                             end                                                            \
+                                          end
+
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+import variable vic_door_guard_obj;
+import variable vic_door_obj;
+variable door_was_locked;
+
+procedure start begin
+   vic_door_guard_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == timed_event_float) then begin
+   end else if (fixed_param == timed_event_door_tamper) then begin
+      call Node001;
+   end else if (fixed_param == timed_event_door_lockpick) then begin
+      call Node002;
+   end else if (fixed_param == timed_event_special) then begin
+      call Node003;
+   end
+end
+
+procedure map_enter_p_proc begin
+   vic_door_guard_obj := self_obj;
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_SLAVER);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SLAVER);
+         set_local_var(LVAR_Home_Tile, self_tile);
+         set_local_var(LVAR_Home_Rotation, self_cur_rot);
+      end
+      if (self_tile != local_var(LVAR_Home_Tile)) then begin
+         critter_attempt_placement(self_obj, local_var(LVAR_Home_Tile), self_elevation);
+      end
+      if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
+         animate_rotation(local_var(LVAR_Home_Rotation));
+      end
+   end
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if ((hostile) or (hostile_slavers)) then begin
+         self_attack_dude;
+      end
+   end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
+      animate_move_to_tile(local_var(LVAR_Home_Tile));
+   end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
+      animate_rotation(local_var(LVAR_Home_Rotation));
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      set_hostile_slavers;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   if ((hostile) or (hostile_slavers)) then begin
+      call Node021;
+   end else if (vic_free) then begin
+      call Node026;
+   end else begin
+      start_dialog_at_node(Node004);
+   end
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   vic_door_guard_obj := 0;
+   inc_evil_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150);
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+   set_hostile_slavers;
+end
+procedure Node999 begin
+end
+
+procedure Node990 begin
+   if ((has_rep_slaver) or (see_vic(state_see_vic_okay))) then begin
+      call Node009;
+   end else if (radio_fixed) then begin
+      call Node008;
+   end else if (see_vic(state_see_vic_never)) then begin
+      call Node019;
+   end else begin
+      call Node018;
+   end
+end
+procedure Node989 begin
+   if ((is_skill_tagged(SKILL_REPAIR)) or (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-10)))) then begin
+      set_see_vic(state_see_vic_okay);
+      call Node006;
+   end else begin
+      call Node025;
+   end
+end
+procedure Node988 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_BARTER,-20))) then begin
+      call Node023;
+   end else begin
+      call Node025;
+   end
+end
+procedure Node987 begin
+   set_see_vic(state_see_vic_never);
+   call Node024;
+end
+
+procedure Node001 begin
+   if (door_warned) then begin
+      floater(201);
+      call Node998;
+   end else begin
+      floater(200);
+      set_door_warned;
+   end
+end
+procedure Node002 begin
+   floater(local_var(LVAR_Unlock_Attempts));
+   if (local_var(LVAR_Unlock_Attempts) < 2) then inc_local_var(LVAR_Unlock_Attempts);
+end
+procedure Node003 begin
+   floater(220);
+end
+procedure Node004 begin
+   if (has_rep_slaver) then begin
+      Reply(231 + node_4);
+      set_node_4;
+      NOption(236, Node999, 004);
+   end else begin
+      Reply(230);
+      NOption(235, Node999, 004);
+      NOption(237, Node020, -003);
+   end
+   if (vic_known(state_vic_known_name)) then begin
+      NOption(234, Node005, 004);
+      NOption(238, Node015, -003);
+   end else begin
+      NOption(233, Node005, 004);
+   end
+   NOption(239, Node014, -003);
+   NOption(240, Node014, -003);
+end
+procedure Node005 begin
+   if (node_5) then begin
+      Reply(254);
+   end else begin
+      set_node_5;
+      //edit by killap - swapped the replies below
+      if (vic_known(state_vic_known_name)) then begin
+         //Reply(250 + has_rep_slaver);
+         Reply(252 + has_rep_slaver);
+      end else begin
+         //Reply(252 + has_rep_slaver);
+         Reply(250 + has_rep_slaver);
+      end
+   end
+   set_vic_known(state_vic_known_name);
+   NOption(255, Node007, 004); //edit by killap - was 010
+   if (metzger_known == false) then begin
+      NOption(256, Node010, 004);
+   end
+   if (see_vic(state_see_vic_okay) == false) then begin
+      NOption(257, Node990, 004);
+   end else if (vic_door_obj != 0) then begin
+      if (obj_is_locked(vic_door_obj)) then begin
+         NOption(260, Node009, 004);
+      end
+   end
+   if ((is_skill_tagged(SKILL_REPAIR)) or (has_skill(dude_obj, SKILL_REPAIR) >= 60)) then begin
+      GOption(258, Node017, 004);
+   end
+   if ((is_skill_tagged(SKILL_SCIENCE)) or (has_skill(dude_obj, SKILL_SCIENCE) >= 60)) then begin
+      GOption(259, Node017, 004);
+   end
+   NOption(261, Node999, 004);
+end
+procedure Node006 begin
+   open_vic_door
+   if (see_vic(state_see_vic_waiting)) then begin
+      item_caps_adjust(dude_obj, -300);
+      set_see_vic(state_see_vic_okay);
+      Reply(275);
+   end else begin
+      Reply(276);
+   end
+   set_see_vic(state_see_vic_okay);
+   set_metzger_known;
+   NOption(277, Node999, 004);
+end
+procedure Node007 begin
+   Reply(285 + radio_fixed);
+   if (metzger_known == false) then begin
+      NOption(287, Node010, 004);
+   end
+   if (see_vic(state_see_vic_okay) == false) then begin
+      NOption(257, Node990, 004);
+   end
+   NOption(290, Node999, 004);
+end
+procedure Node008 begin
+   set_see_vic(state_see_vic_okay);
+   Reply(295 + (has_rep_slaver == false));
+   if (vic_door_obj != 0) then begin
+      if (obj_is_locked(vic_door_obj)) then begin
+         NOption(297, Node009, 004);
+      end
+   end
+   NOption(298, Node999, 004);
+end
+procedure Node009 begin
+   open_vic_door
+   set_see_vic(state_see_vic_okay);
+   Reply(305);
+   NOption(306, Node999, 004);
+end
+procedure Node010 begin
+   Reply(310);
+   NOption(311, Node012, 004);
+   NOption(312, Node011, 004);
+   NOption(313, Node999, 004);
+end
+procedure Node011 begin
+   Reply(320);
+   BOption(321, Node999, 004);
+   GOption(322, Node999, 004);
+end
+procedure Node012 begin
+   Reply(330 + dude_is_female);
+   NOption(332, Node013, 004);
+   NOption(333, Node999, 004);
+end
+procedure Node013 begin
+   Reply(340);
+   NOption(341, Node999, 004);
+end
+procedure Node014 begin
+   Reply(350);
+   NOption(351, Node999, -003);
+end
+procedure Node015 begin
+   Reply(360 + has_rep_slaver);
+   GOption(362, Node016, -003);
+   NOption(363, Node014, -003);
+   NOption(364, Node999, -003);
+end
+procedure Node016 begin
+   open_vic_door
+   Reply(370 + door_was_locked);
+   set_see_vic(state_see_vic_okay);
+   NOption(372, Node999, -003);
+end
+procedure Node017 begin
+   open_vic_door
+   Reply(380);
+   NOption(381, Node999, 004);
+end
+procedure Node018 begin
+   if (see_vic(state_see_vic_waiting)) then begin
+      Reply(392);
+      if (dude_caps >= 300) then begin
+         NOption(395, Node006, 004);
+      end
+      NOption(396, Node999, 004);
+   end else if (node_18) then begin
+      Reply(391);
+      if (see_vic(state_see_vic_no)) then begin
+         NOption(394, Node022, 004);
+      end
+   end else begin
+      set_node_18;
+      Reply(390);
+      if (see_vic(state_see_vic_no)) then begin
+         NOption(393, Node022, 004);
+      end
+   end
+   if (metzger_known == false) then begin
+      NOption(397, Node010, 004);
+   end
+   NOption(398, Node999, 004);
+end
+procedure Node019 begin
+   if (local_var(LVAR_Node_19) <= 2) then begin
+      Reply(410 + local_var(LVAR_Node_19));
+      inc_local_var(LVAR_Node_19);
+      NOption(414, Node999, 004);
+   end else begin
+      Reply(413);
+      open_vic_door
+      set_see_vic(state_see_vic_okay);
+      NOption(415, Node999, 004);
+   end
+end
+procedure Node020 begin
+   if (node_20) then begin
+      Reply(432);
+   end else begin
+      set_node_20;
+      Reply(430 + dude_is_female);
+   end
+   NOption(433, Node014, -003);
+   NOption(434, Node999, -003);
+   NOption(435, Node999, -003);
+end
+procedure Node021 begin
+   floater(450 + dude_is_female);
+   call Node998;
+end
+procedure Node022 begin
+   Reply(460);
+   NOption(461, Node989, 004);
+   NOption(462, Node988, 004);
+   NOption(463, Node999, 004);
+end
+procedure Node023 begin
+   set_see_vic(state_see_vic_waiting);
+   Reply(470);
+   NOption(471, Node024, 004);
+   BOption(472, Node987, 004);
+   if (dude_caps >= 300) then begin
+      NOption(473, Node006, 004);
+   end
+   NOption(474, Node999, 004);
+end
+procedure Node024 begin
+   Reply(480);
+   NOption(481, Node999, 004);
+   BOption(482, Node999, 004);
+end
+procedure Node025 begin
+   if (node_25) then begin
+      set_see_vic(state_see_vic_never);
+      Reply(491);
+   end else begin
+      set_node_25;
+      Reply(490);
+   end
+   NOption(492, Node999, 004);
+end
+procedure Node026 begin
+   if (vic_dead == false) then begin
+      floater_rand(503, 504);
+   end else if (has_rep_slaver) then begin
+      floater_rand(505, 507);
+   end else begin
+      floater_rand(500, 502);
+   end
+end

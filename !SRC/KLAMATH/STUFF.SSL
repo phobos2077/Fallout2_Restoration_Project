@@ -1,0 +1,58 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+//__#####__#####__#__#__####__####
+//__#________#____#__#__#_____#___
+//__#####____#____#__#__###___###_
+//______#____#____#__#__#_____#___
+//__#####____#____####__#_____#___
+//
+
+//This script can be put on inventory objects
+//to allow nearby critters to detect when
+//dude attempts to steal from the inventory
+//object. You will have a map_var(19) called
+//Stealing or make a specific version for
+//your area.  nbk
+
+
+#include "..\headers\define.h"
+#include "..\headers\kladwtn.h"
+
+procedure start;
+procedure timed_event_p_proc;
+procedure use_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure signal_critter;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   set_map_var(MVAR_Stealing,0);
+end
+
+procedure use_p_proc begin
+   call signal_critter;
+end
+
+procedure use_skill_on_p_proc begin
+   call signal_critter;
+end
+
+procedure use_obj_on_p_proc begin
+   call signal_critter;
+end
+
+procedure pickup_p_proc begin
+   call signal_critter;
+end
+
+procedure signal_critter begin
+   set_map_var(MVAR_Stealing,1);
+   //tell the critter guarding me that someone is messing with me
+   //display_msg("don't touch me there!");
+   add_timer_event(self_obj,game_ticks(3),0);
+end

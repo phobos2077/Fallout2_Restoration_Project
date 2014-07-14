@@ -1,0 +1,586 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Fake K9
+        Location: Navarro
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: Sept 10, 1998
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+#include "..\headers\navdef.h"
+#include "..\headers\navarro.h"
+//#include "..\headers\<TownName.h>"
+
+#define NAME                    SCRIPT_CCK9
+#define DOG_HEX                 16914
+#define PARTY_NODE_X            Node1000
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+#define k9_joins_party                    party_add(self_obj);                                                   \
+                                          add_timer_event(self_obj,game_ticks(1),1);                             \
+                                          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER)
+#define dude_has_free_slot_for_k9         ((dude_at_max_party_size == false) and (K9_In_Party == false))
+#define k9_party_member_options                                                                \
+         party_member_default_options
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+//procedure Node016;
+procedure Node017;
+procedure Node018;
+
+/* Script Specific Procedure Calls */
+procedure Node800;
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+procedure Node1000;
+procedure Node1001;
+procedure Node1002;
+procedure Node1003;
+procedure Node1004;
+procedure Node1005;
+procedure Node1006;
+procedure Node1007;
+procedure Node1008;
+procedure Node1009;
+procedure Node1010;
+procedure Node1100;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Hostile                    (0)
+#define LVAR_second_look                (1)
+#define LVAR_Herebefore                 (2)
+#define LVAR_Personal_Enemy             (3)
+#define LVAR_fixed                      (4)
+#define LVAR_WAITING                    (5)
+#define LVAR_FOLLOW_DISTANCE            (6)
+#define LVAR_TEAM                       (7)
+#define LVAR_k9_rep                     (8)
+#define LVAR_Part                       (9)
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable worn;
+variable temp;
+variable repair_check;
+variable dog;
+variable Tool;
+variable item;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   party_member_map_enter;
+
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DUNTONS);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CYBERDOG);
+end
+
+procedure critter_p_proc begin
+
+   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+      if (local_var(LVAR_Hostile) == 2) then begin
+         set_local_var(LVAR_Hostile,1);
+         attack(dude_obj);
+      end
+   end //can see dude
+
+end
+
+procedure damage_p_proc begin
+  if (source_obj == dude_obj) then begin
+     set_local_var(LVAR_Personal_Enemy,1);
+  end
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   //do nothing
+end
+
+procedure talk_p_proc begin
+   call use_p_proc; //added by killap
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure use_p_proc begin
+   if (not combat_is_initialized) then begin //added by killap
+      if (local_var(LVAR_Personal_Enemy) == 1) then begin
+          if (local_var(LVAR_fixed) == 0) then begin
+             call Node017;
+          end
+          else begin
+             call Node018;
+             call Node998;
+          end
+      end
+   //   else if (leaving PC's party) then begin
+   //   end
+   //   else if (learning attempt) then begin
+   //   end
+   //   else if ((Lenny_In_Party) or (party_is_waiting)) then begin
+   //      start_gdialog(NAME,self_obj,4,-1,-1);
+   //      gSay_Start;
+   //         call Node1000;
+   //      gSay_End;
+   //      end_dialogue;
+   //   end
+      //THIS NEEDS TO BE ADDED!
+      else if (map_var(MVAR_Doctor_Dead) == 0) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node012;
+         gSay_End;
+         end_dialogue;
+      end
+      else if ( local_var( LVAR_Part ) == 1 ) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node013;
+         gSay_End;
+         end_dialogue;
+      end
+      else if (local_var(LVAR_Herebefore) == 0) then begin
+          set_local_var(LVAR_Herebefore,1);
+          start_gdialog(NAME,self_obj,4,-1,-1);
+          gSay_Start;
+             call Node001;
+          gSay_End;
+          end_dialogue;
+      end
+      else begin
+          start_gdialog(NAME,self_obj,4,-1,-1);
+          gSay_Start;
+             call Node011;
+          gSay_End;
+          end_dialogue;
+      end
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+   //do nothing
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_second_look) == 0) then begin
+      set_local_var(LVAR_second_look,1);
+      display_msg(mstr(100));
+   end
+   else begin
+      display_msg(mstr(101));
+   end
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+   script_overrides;
+
+   if( map_var(MVAR_Doctor_Dead) == 0 ) then begin
+      dialogue_system_enter;
+   end
+   else if (action_being_used == SKILL_REPAIR) then begin
+      if (obj_is_carrying_obj_pid(dude_obj, PID_K9_MOTIVATOR)) then begin
+         repair_check:=roll_vs_skill(dude_obj,SKILL_REPAIR,-10);
+         if (is_success(repair_check)) then begin
+            item:=obj_carrying_pid_obj(dude_obj, PID_K9_MOTIVATOR);
+            rm_obj_from_inven(dude_obj,item);
+            destroy_object(item); //added by killap
+            //floater(154); --comment out by killap
+            call Node800;
+         end
+         else begin
+            floater(155);
+         end
+      end
+      else begin //dont have the part
+         display_msg(mstr(400));
+      end
+   end
+   else begin //using skill other than repair
+      display_msg(mstr(410));
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   script_overrides;
+
+   if( map_var(MVAR_Doctor_Dead) == 0 ) then begin
+      dialogue_system_enter;
+   end
+   else begin
+      Tool:=obj_pid(obj_being_used_with);
+      if (Tool == PID_K9_MOTIVATOR) then begin
+         repair_check:=roll_vs_skill(dude_obj,SKILL_REPAIR,-10);
+         if (is_success(repair_check)) then begin
+            item:=obj_carrying_pid_obj(dude_obj, PID_K9_MOTIVATOR);
+            rm_obj_from_inven(dude_obj,item);
+            destroy_object(item); //added by killap
+            //floater(154); -- comment out by killap
+            call Node800;
+         end
+         else begin
+            floater(155);
+         end
+      end
+      else begin //using wrong part
+         display_msg(mstr(420));
+      end
+   end
+end
+
+procedure map_update_p_proc begin
+   if (combat_is_initialized == false) then begin
+      if (anim_busy(self_obj) == false) then begin
+         if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+            if (chem_use_level(self_obj) == 1) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 2) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 30) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 3) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 50) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 4) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 50) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end
+         end
+      end
+   end
+end
+
+procedure Node001 begin
+   Reply(103);
+   NLowOption(104,Node002);
+   NLowOption(105,Node008);
+   NLowOption(106,Node010);
+   NOption(107,Node002,004);
+   NOption(292,Node008,004);
+   NOption(293,Node010,004);
+end
+
+procedure Node002 begin
+   if (dude_iq < 4) then
+      Reply(108);
+   else
+      Reply(109);
+   NLowOption(110,Node003);
+   NOption(111,Node005,001);
+   NOption(112,Node010,001);
+end
+
+procedure Node003 begin
+   Reply(113);
+   NLowOption(114,Node004);
+   NLowOption(115,Node005);
+end
+
+procedure Node004 begin
+   Reply(116);
+   NLowOption(117,Node005);
+end
+
+procedure Node005 begin
+   Reply(118);
+   NLowOption(119,Node006);
+   NLowOption(120,Node008);
+   NLowOption(121,Node010);
+   NOption(122,Node008,001);
+   NOption(123,Node010,001);
+end
+
+procedure Node006 begin
+   Reply(124);
+   NLowOption(125,Node007);
+end
+
+procedure Node007 begin
+   Reply(126);
+   NLowOption(127,Node008);
+   NLowOption(128,Node010);
+end
+
+procedure Node008 begin
+   set_local_var( LVAR_Part, 1 );
+   Reply(129);
+   NLowOption(130,Node009);
+   NOption(131,Node009,004);
+end
+
+procedure Node009 begin
+   if (global_var(GVAR_NAVARRO_K9) == 0) then
+      set_global_var(GVAR_NAVARRO_K9, NAVARRO_K9_NEED_PART);
+   Reply(132);
+   NLowOption(133,Node999);
+   NOption(134,Node999,004);
+end
+
+procedure Node010 begin
+   Reply(135);
+   NLowOption(136,Node999);
+   NOption(137,Node999,004);
+end
+
+procedure Node011 begin
+   Reply(138);
+   NLowOption(139,Node008);
+   NLowOption(140,Node010);
+   NOption(141,Node008,004);
+   NOption(142,Node010,004);
+end
+
+procedure Node012 begin
+   Reply(143);
+   NOption(144,Node999,001);
+end
+
+procedure Node013 begin
+   Reply(145);
+
+   if (obj_is_carrying_obj_pid(dude_obj, PID_K9_MOTIVATOR)) then begin
+      NLowOption(147,Node015);
+      NOption(149,Node015,004);
+   end
+   else begin
+      NLowOption(146,Node014);
+      NOption(148,Node014,004);
+   end
+end
+
+procedure Node014 begin
+   Reply(150);
+   NOption(151,Node999,004);
+end
+
+procedure Node015 begin
+   Reply(152);
+   NOption(153,Node999,004);
+end
+
+/*
+procedure Node016 begin
+   repair_check:=roll_vs_skill(dude_obj,SKILL_REPAIR,-10);
+   if (is_success(repair_check)) then begin
+      Reply(154);
+      NLowOption(156,Node800); //join party, end
+      NOption(158,Node800,004); //join party, end
+   end
+   else begin
+      Reply(155);
+      NLowOption(157,Node016);
+      NLowOption(300,Node999);
+      NOption(159,Node016,004);
+      NOption(301,Node999,004);
+   end
+end
+*/
+
+procedure Node017 begin
+   floater(random(160,162));
+end
+
+procedure Node018 begin
+   floater(random(163,165));
+end
+
+/*
+procedure Node019 begin
+   Reply(166);
+   if (local_var(LVAR_Waiting) == 0) then begin
+      NLowOption(167,Node016);
+      NLowOption(168,Node016);
+      //NLowOption(169,Node016);
+      if (local_var(LVAR_follow_dist) != 0) then
+         NLowOption(170,Node016);
+      if (local_var(LVAR_follow_dist) != 1) then
+         NLowOption(171,Node016);
+      if (local_var(LVAR_follow_dist) != 2) then
+         NLowOption(172,Node016);
+   end
+   else begin
+      NLowOption(173,Node016);
+   end
+   NLowOption(174,Node999);
+   if (local_var(LVAR_Waiting) == 0) then
+      NOption(175,Node016,004);
+      NOption(176,Node016,004);
+      //NOption(177,Node016,004);
+      if (local_var(LVAR_follow_dist) != 0) then
+         NOption(178,Node016,004);
+      if (local_var(LVAR_follow_dist) != 1) then
+         NOption(179,Node016,004);
+      if (local_var(LVAR_follow_dist) != 2) then
+         NOption(180,Node016,004);
+   end
+   else begin
+      NOption(181,Node016,004);
+   end
+   NOption(182,Node999,004);
+end
+*/
+
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+   //set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+end
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+procedure Node800 begin
+   if (local_var(LVAR_k9_rep) == 0) then begin
+      set_local_var(LVAR_k9_rep,1);
+      display_msg(mstr(800));
+      give_xp(EXP_K9_FIXED);
+      set_global_var(GVAR_NAVARRO_K9, NAVARRO_K9_FIXED);
+      dog := create_object_sid(PID_K9,0,0,SCRIPT_CCK9);
+      move_to(dog, DOG_HEX, elevation(dude_obj));
+      destroy_object(self_obj);
+   end
+end
+
+procedure Node1000 begin
+   Reply(1000);
+   k9_party_member_options;
+end
+
+procedure Node1001 begin
+   // heal yourself
+   obj_heal(self_obj)
+   global_temp := 0;
+   if (party_healed_max) then begin
+      Reply(1100);
+   end else if (party_healed_good) then begin
+      Reply(1200);
+   end else if (party_healed_hurt) then begin
+      Reply(1300);
+   end else begin
+      Reply(1400);
+   end
+   k9_party_member_options;
+end
+procedure Node1002 begin
+   // wait here
+   set_party_waiting;
+   Reply(1500);
+   k9_party_member_options;
+end
+procedure Node1003 begin
+   // put your weapon away
+   //inven_unwield( self_obj );
+   Reply(1600);
+   k9_party_member_options;
+end
+procedure Node1004 begin
+   // follow close
+   set_follow_close;
+   Reply(1700);
+   k9_party_member_options;
+end
+procedure Node1005 begin
+   // follow medium
+   set_follow_medium;
+   Reply(1800);
+   k9_party_member_options;
+end
+procedure Node1006 begin
+   // follow far
+   set_follow_far;
+   Reply(1900);
+   k9_party_member_options;
+end
+procedure Node1007 begin
+end
+procedure Node1008 begin
+end
+procedure Node1009 begin
+end
+procedure Node1010 begin
+end
+procedure Node1100 begin
+   // join me
+   if (dude_at_max_party_size) then begin
+      Reply(2000);
+      NOption(g_mstr(10007),Node999,001);
+//   end else if (town_rep_is_hated) then begin
+//      Reply(2100);
+//      NOption(g_mstr(10007),Node999,001);
+   end else begin
+      end_party_waiting;
+      Reply(2200);
+      k9_party_member_options;
+   end
+end

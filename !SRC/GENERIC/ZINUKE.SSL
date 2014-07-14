@@ -1,0 +1,249 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Nukeacola machine
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_ZINUKE
+#define CUR_COMP_SCRIPT         SCRIPT_ZINUKE
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+#define ROF                (500)
+//#define INITIAL_TILE       (tile_num_in_direction(self_obj, rotation_to_tile(self_tile, tile_num(source_obj)), 1))
+#define INITIAL_TILE       (self_tile)
+#define MIN_DMG            (1)
+#define MAX_DMG            (2)
+#define TIMER_CREATE       (1)
+#define FLY_TIME           (0)
+#define MAX_STOCK          (30)
+#define PROJECTILE_CREATED PID_NUKA_COLA
+
+variable Final_Hex;
+variable projectile;
+
+#define LVAR_Stock                             (0)
+#define LVAR_Restock_Time                      (1)
+#define LVAR_Restock_Time_Fix                  (2)  //added by killap
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+procedure checkHit;
+procedure Missile_Fired;
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_CREATE) then begin
+       destroy_object(Projectile);
+       if (PROJECTILE_CREATED != 0) then begin
+           Projectile:=create_object(PROJECTILE_CREATED,Final_Hex,elevation(self_obj));
+           anim(Projectile,ANIMATE_ROTATION,rotation_to_tile(INITIAL_TILE,Final_Hex));
+       end
+   end
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+end
+
+/**********************************************************************************
+**********************************************************************************/
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+
+/**********************************************************************************
+   Make sure the door is working.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+end
+
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+
+
+
+procedure use_obj_on_p_proc begin
+   variable tool;
+
+   tool := obj_pid(obj_being_used_with);
+
+   if (tool == PID_BOTTLE_CAPS) then begin
+      script_overrides;
+      debug_msg("ZINUKE: stock: " + local_var(LVAR_Stock));
+      if (local_var(LVAR_Stock) > 0) then begin
+         set_local_var(LVAR_Stock, local_var(LVAR_Stock) - 1);
+
+         item_caps_adjust(source_obj, -1);
+         display_mstr(101);
+
+         if (not stat_success(source_obj, STAT_lu, 0)) then begin
+            Projectile:=create_object(PID_FLYING_KNIFE, INITIAL_TILE, elevation(self_obj));
+            call CheckHit;
+         end else begin
+            display_mstr(102);
+            add_obj_to_inven(source_obj, create_object(PROJECTILE_CREATED,0,0));
+         end
+      end else begin
+         display_mstr(106);
+      end
+   end
+end
+
+procedure checkHit begin
+   if (stat_success(source_obj, STAT_ag, 0)) then begin
+       if (source_obj == dude_obj) then
+           display_mstr(104);
+       else
+           display_msg(obj_name(source_obj)+mstr(105));
+
+       Final_Hex:=tile_num_in_direction(tile_num(source_obj),rotation_to_tile(INITIAL_TILE,tile_num(source_obj)),3);
+       call Missile_Fired;
+   end else begin
+       Final_Hex:=tile_num(source_obj);
+       call Missile_Fired;
+       float_msg(dude_obj, mstr(103), FLOAT_MSG_RED);
+       critter_dmg(source_obj,random(MIN_DMG,MAX_DMG),(DMG_BYPASS_ARMOR BWOR DMG_NOANIMATE));
+   end
+
+   add_timer_event(self_obj,game_ticks(FLY_TIME), TIMER_CREATE);
+end
+
+procedure Missile_Fired begin
+   variable Cur_Tile_Num;
+   variable Counter:=0;
+
+   while ((tile_num(Projectile) != Final_Hex) and (counter < 10000)) do begin
+       if ((Counter % ROF) == 0) then begin
+           Cur_Tile_Num:=tile_num_in_direction(tile_num(Projectile),rotation_to_tile(tile_num(Projectile),Final_Hex),1);
+           move_to(Projectile,Cur_Tile_Num,elevation(self_obj));
+           if (Final_Hex == tile_num(source_obj)) then begin
+               anim(source_obj,ANIM_hit_from_back,ANIMATE_FORWARD);
+           end
+           else begin
+               anim(source_obj,ANIM_dodge_anim,ANIMATE_FORWARD);
+           end
+           debug_msg("Projectile == "+tile_num(Projectile)+". Final_Hex == "+Final_Hex);
+       end
+       Counter+=1;
+   end
+
+   debug_msg("ZINUKE: " + Counter);
+end
+
+
+
+
+/******************************************************************************************
+   IF it gets damaged it breaks
+******************************************************************************************/
+
+procedure damage_p_proc begin
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+
+   //added by killap - fix for game_time going negative after 7 years
+   if (((game_time) < 0) and (local_var(LVAR_Restock_Time_Fix) == 0)) then begin
+      set_local_var(LVAR_Restock_Time, game_time - 1);
+      set_local_var(LVAR_Restock_Time_Fix, 1);
+   end
+   //end added
+
+   if (game_time > local_var(LVAR_Restock_Time)) then begin
+      if (local_var(LVAR_Stock) < MAX_STOCK) then
+         set_local_var(LVAR_Stock, Random(MAX_STOCK / 2, MAX_STOCK));
+
+      set_local_var(LVAR_Restock_Time, game_time + (ONE_GAME_WEEK * (Random(1, 7))));
+   end
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+end

@@ -1,0 +1,255 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Force Field
+        Description: This is the force field that gets turned on when the power comes on.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_BSFIELD
+#define CUR_COMP_SCRIPT         SCRIPT_BSFILED
+
+#include "..\headers\command.h"
+#include "..\headers\vault15.h"
+#include "..\headers\v15.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Field_Off_Time                               (0)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+import variable i_field_obj;
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+variable field_count;
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+procedure Do_Damage_Critter(variable source);
+procedure Check_State;
+procedure Delay_Field;
+procedure Destroy_Field;
+procedure Do_Flicker;
+
+
+//Defines
+#define MIN_FIELD_DAMAGE    10
+#define MAX_FIELD_DAMAGE    20
+#define FIELD_FLICKER_COUNT 30
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+   i_field_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == FIELD_TIMER_CHECK_STATE) then begin
+      call Check_State;
+      if (mvar_bit(MVAR_Vault15_Field, FIELD_FLICKER)) then
+         add_timer_event(self_obj, Random(1, 5), FIELD_TIMER_CHECK_STATE);
+      else
+         add_timer_event(self_obj, ONE_GAME_SECOND, FIELD_TIMER_CHECK_STATE);
+   end else if (fixed_param == FIELD_TIMER_DELAY) then begin
+      call Delay_Field;
+   end else if (fixed_param == FIELD_TIMER_DESTROY) then begin
+      call Destroy_Field;
+   end else if (fixed_param == FIELD_TIMER_FLICKER) then begin
+      call Do_Flicker;
+   end
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+   script_overrides;
+
+   call Do_Damage_Critter(source_obj);
+
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+end
+
+
+/**********************************************************************************
+**********************************************************************************/
+
+procedure description_p_proc begin
+end
+
+
+/**********************************************************************************
+   Make sure the door is working.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+   variable Skill_Used;
+
+   Skill_Used:=action_being_used;
+
+   if (Skill_Used == SKILL_SCIENCE) then begin
+      if (skill_success(dude_obj, Skill_Used, 0)) then begin
+         script_overrides;
+         display_msg(mstr(200));
+      end else
+         call use_p_proc;
+   end else
+      call use_p_proc;
+end
+
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+
+procedure use_obj_on_p_proc begin
+   call use_p_proc;
+end
+
+
+/******************************************************************************************
+   IF it gets damaged it breaks
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   script_overrides;
+   display_msg(mstr(151));
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   add_timer_event(self_obj, 0, FIELD_TIMER_CHECK_STATE);
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+end
+
+procedure Do_Damage_Critter(variable source) begin
+   if (source == dude_obj) then begin
+      critter_damage(dude_obj, Random(MIN_FIELD_DAMAGE, MAX_FIELD_DAMAGE));
+      display_msg(mstr(150));
+   end
+end
+
+procedure Check_State begin
+   variable val;
+
+   if (mvar(MVAR_Vault15_Power) == 1) then begin
+      if (mvar_bit(MVAR_Vault15_Field, FIELD_FLICKER)) then begin
+         field_count += 1;
+         if (field_count < FIELD_FLICKER_COUNT) then begin
+            set_obj_visibility(self_obj, field_count bwand 1);
+         end else begin
+            set_mvar_bit_off(MVAR_Vault15_Field, FIELD_FLICKER);
+            field_count := 0;
+         end
+      end else if (mvar_bit(MVAR_Vault15_Field, FIELD_DELAY)) then begin
+         if (local_var(LVAR_Field_Off_Time) < FIELD_DELAY_COUNT) then begin
+            slvar(LVAR_Field_Off_Time, lvar(LVAR_Field_Off_Time) + 1);
+            set_obj_visibility(self_obj, OBJ_INVIS);
+         end else begin
+            set_mvar_bit_off(MVAR_Vault15_Field, FIELD_DELAY);
+            slvar(LVAR_Field_Off_Time, 0);
+            if (mvar_bit(MVAR_Vault15_Field, FIELD_ON)) then begin
+               set_obj_visibility(self_obj, OBJ_VIS);
+            end
+         end
+      end else if (andmvar(MVAR_Vault15_Field, FIELD_ON)) then begin
+         set_obj_visibility(self_obj, OBJ_VIS);
+      end else if (andmvar(MVAR_Vault15_Field, FIELD_OFF)) then begin
+         set_obj_visibility(self_obj, OBJ_INVIS);
+         debug_msg("BSFIELD: field should be off and invisible");
+      end else if (andmvar(MVAR_Vault15_Field, FIELD_DESTROYED)) then begin
+         set_obj_visibility(self_obj, OBJ_INVIS);
+         debug_msg("BSFIELD: field should be destroyed and invis");
+      end
+   end else begin
+      set_obj_visibility(self_obj, OBJ_INVIS);
+   end
+end
+
+procedure Delay_Field begin
+   set_mvar_bit_on(MVAR_Vault15_Field, FIELD_DELAY);
+//   set_local_var(LVAR_Field_Off_Time, game_time);
+   display_msg(mstr(152));
+   call Check_State; //added by killap
+end
+
+procedure Destroy_Field begin
+   smvar(MVAR_Vault15_Field, 0);
+   set_mvar_bit_on(MVAR_Vault15_Field, FIELD_DESTROYED);
+   debug_msg("BSFIELD: cleard the field var should only have destoryed set:" + mvar(MVAR_Vault15_Field));
+   debug_msg("BSFIELD: cleard the field var should only have destoryed set:" + mvar(MVAR_Vault15_Field));
+   debug_msg("BSFIELD: cleard the field var should only have destoryed set:" + mvar(MVAR_Vault15_Field));
+   destroy_object(self_obj);
+end
+
+procedure Do_Flicker begin
+   set_mvar_bit_on(MVAR_Vault15_Field, FIELD_FLICKER);
+   call Check_State;
+end

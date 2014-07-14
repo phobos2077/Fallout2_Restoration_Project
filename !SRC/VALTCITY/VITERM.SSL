@@ -1,0 +1,197 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Vault 8 Terminal
+        Description: Give medical suppiles.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_VITERM
+#define CUR_COMP_SCRIPT         SCRIPT_VITERM
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+procedure timed_event_p_proc;
+
+procedure Distribute_Booty;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Reward_Given        (0)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+variable Terminal_State := 0;
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if( fixed_param == 1 ) then begin
+      if( Terminal_State == 0 ) then begin
+         game_ui_disable;
+         floater(101);
+         Terminal_State += 1;
+         add_timer_event( self_obj, game_ticks(2), 1 );
+      end
+      else if( Terminal_State == 1 ) then begin
+         floater(102);
+         Terminal_State += 1;
+         add_timer_event( self_obj, game_ticks(2), 1 );
+      end
+      else if( Terminal_State == 2 ) then begin
+         floater(103);
+         Terminal_State += 1;
+         add_timer_event( self_obj, game_ticks(3), 1 );
+      end
+      else if( Terminal_State == 3 ) then begin
+         floater(104);
+         Terminal_State += 1;
+         add_timer_event( self_obj, game_ticks(2), 1 );
+      end
+      else if( Terminal_State == 4 ) then begin
+         floater(105);
+         Terminal_State += 1;
+         add_timer_event( self_obj, game_ticks(3), 1 );
+      end
+      else if( Terminal_State == 5 ) then begin
+         // Play magic hands.
+         reg_anim_clear( dude_obj );
+         reg_anim_begin();
+         reg_anim_animate( dude_obj, ANIM_magic_hands_middle, -1 );
+         reg_anim_end();
+
+         Terminal_State += 1;
+         add_timer_event( self_obj, game_ticks(2), 1 );
+      end
+      else if( Terminal_State == 6 ) then begin
+         float_msg( dude_obj, mstr(106), FLOAT_MSG_GREEN );
+         call Distribute_Booty;
+         Terminal_State += 1;
+         add_timer_event( self_obj, game_ticks(2), 1 );
+      end
+      else if( Terminal_State == 7 ) then begin
+         floater(107);
+         game_ui_enable;
+      end
+   end
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure Distribute_Booty begin
+   variable item;
+
+   item := create_object( PID_STIMPAK, 0, 0 );
+   add_mult_objs_to_inven( dude_obj, item, 2 );
+   item := create_object( PID_SUPER_STIMPAK, 0, 0 );
+   add_obj_to_inven( dude_obj, item );
+end
+
+procedure use_p_proc begin
+   if( ( global_var( GVAR_8_BALL_VAULT_TERMINAL ) == 1 ) and
+       ( local_var( LVAR_Reward_Given ) == 0 ) ) then begin
+      set_local_var( LVAR_Reward_Given, 1 );
+      add_timer_event( self_obj, 1, 1 );
+   end
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+/**********************************************************************************
+**********************************************************************************/
+
+/**********************************************************************************
+   Make sure the door is working.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+end
+
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged it breaks
+******************************************************************************************/
+
+procedure damage_p_proc begin
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+end

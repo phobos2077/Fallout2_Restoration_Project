@@ -1,0 +1,45 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Box for swapping personal inventory for merchants
+        Location : Generic
+        Description: This box can be used anywhere you need to swap out personal inventory
+                     of a merchant before giving them their merchant inventory
+                     Note: to use, put
+                     export variable generic_temp_box;
+                     into the map script you will be using it in
+
+        Log:
+
+           Created: June 1, 1998
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_ZITMPBOX
+#include "..\headers\command.h"
+/* Defines and Macros */
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+import variable generic_temp_box;
+
+procedure start begin
+   generic_temp_box := self_obj;
+end
+
+procedure map_enter_p_proc begin
+   generic_temp_box := self_obj;
+end
+
+procedure map_update_p_proc begin
+   generic_temp_box := self_obj;
+end

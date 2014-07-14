@@ -1,0 +1,165 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Modoc
+        Description:
+
+        Log: the following defines need to be changed:
+
+
+          Created: August 3, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                        SCRIPT_MCSLGEXT
+#define TOWN_REP_VAR                GVAR_TOWN_REP_GHOST_FARM
+
+#include "..\headers\command.h"
+#include "..\headers\modoc.h"
+//#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure push_p_proc;
+procedure combat_p_proc;
+procedure map_update_p_proc;
+
+// dialog nodes
+procedure Node000;
+procedure Node001;
+procedure Node002;
+
+procedure Node999;                                      // This is the do nothing node
+procedure Node998;                                      // This Node is Always Combat
+
+#define LVAR_Flags                           (0)
+#define LVAR_Home_Tile                       (1)
+#define LVAR_Home_Rot                        (2)
+
+procedure start begin
+end
+
+procedure map_update_p_proc begin
+   if (local_var(LVAR_Home_Rot) != self_cur_rot) then begin
+      if (anim_busy(self_obj) == false) then begin
+         animate_rotation(rotation_to_tile(self_tile,local_var(LVAR_Home_Tile)));
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   match_dude_elevation;
+   if (is_loading_game == false) then begin
+      check_destroy_slag
+      if (map_first_run) then begin
+         inc_slag_cnt;
+         set_local_var(LVAR_Home_Tile, self_tile);
+         set_local_var(LVAR_Home_Rot, self_cur_rot);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAG);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+      end
+   end
+end
+
+
+procedure combat_p_proc begin
+   if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
+   end
+end
+
+procedure critter_p_proc begin
+   if (self_visible) then begin
+      if (self_can_see_dude) then begin
+         if ((hostile) or (enemy_slags)) then begin
+            self_attack_dude;
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+      set_enemy_slags;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   script_overrides;
+   call Node000;
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+   set_examined;
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure push_p_proc begin
+   if (message_flag_none) then begin
+      call Node001;
+   end
+end
+// dialog action functions
+procedure Node999 begin
+  // do absolutely everything that pertains to nothing
+end
+procedure Node998 begin
+   set_hostile;
+end
+
+procedure Node000 begin
+   if (message_flag_none) then begin
+      call Node001;
+   end else begin
+      call Node002;
+   end
+end
+procedure Node001 begin
+   script_overrides;
+   floater_bad(200);
+   if (self_tile != local_var(LVAR_Home_Tile)) then begin
+      animate_move_to_tile(local_var(LVAR_Home_Tile));
+   end
+end
+procedure Node002 begin
+   if (self_tile == local_var(LVAR_Home_Tile)) then begin
+      animate_move_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile), 2, random(2,4)));
+   end
+   floater(210);
+end

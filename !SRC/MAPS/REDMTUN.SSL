@@ -1,0 +1,75 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Arroyo Caves
+        Location: Arroyo
+        Description: This is the Map Script for the Caves in Arroyo
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_REDMTUN
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+#define WELL_PID        (33555426)
+#define DOWN_TOWN_WELL  (33554882)
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+
+
+   Cavern_Lighting;
+
+/*   override_map_start(x,y,elev,rot);
+
+     x == Tilenum mod 200
+
+     y == Tilenum div 200
+
+     elev == 0,1,2
+
+     rot == 5 /\ 0
+            4 || 1
+            3 \/ 2
+*/
+//   override_map_start(90,137,0,3);
+//   override_map_start_hex(28906, 0, 5);
+
+   if (global_var(GVAR_LOAD_MAP_INDEX) == 1) then
+       override_map_start_hex(17074,0,5);  //16874
+   else if (global_var(GVAR_LOAD_MAP_INDEX) == 2) then
+       override_map_start_hex(13075,0,2); //13075
+
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+end
+
+procedure map_update_p_proc begin
+   Cavern_Lighting;
+end

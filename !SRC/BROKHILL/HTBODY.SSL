@@ -1,0 +1,28 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_HTBODY
+#include "..\headers\command.h"
+
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure start;
+
+procedure start begin
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (dude_iq > 3) then
+      display_msg(mstr(101));
+   else
+      display_msg(mstr(102));
+end

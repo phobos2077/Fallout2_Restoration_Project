@@ -1,0 +1,46 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Box for temp inventory during transactions
+        Location : Broken Hills 1
+        Description: This box is for shopkeeper's personal inventory when bartering
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: May 13, 1998
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_HIBH1BOX
+
+#include "..\headers\command.h"
+/* Defines and Macros */
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+import variable broken_hills_temp_box;
+
+procedure start begin
+   broken_hills_temp_box := self_obj;
+end
+
+procedure map_enter_p_proc begin
+   broken_hills_temp_box := self_obj;
+end
+
+procedure map_update_p_proc begin
+   broken_hills_temp_box := self_obj;
+end

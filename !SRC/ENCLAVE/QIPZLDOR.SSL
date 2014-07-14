@@ -1,0 +1,223 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\enctrp.h"
+
+#define NAME                    SCRIPT_QIPZLDOR
+
+#include "..\headers\command.h"
+
+#define MIN_SHOCK               (20)
+#define MAX_SHOCK               (40)
+
+#define Traps_Bonus             (-40)
+#define Locks_Bonus             (map_var(MVAR_Lockpick_Penalty))
+#define Lockpick_Bonus          (Locks_Bonus+20)
+#define Super_Lock_Bonus        (Locks_Bonus+40)
+
+procedure start;
+procedure map_enter_p_proc;
+procedure use_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure use_skill_on_p_proc;
+procedure look_p_proc;
+procedure description_p_proc;
+procedure timed_event_p_proc;
+
+#define LVAR_Active_Shock       (0)
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+end
+
+procedure use_p_proc begin
+   if (obj_is_locked(self_obj)) then begin
+       script_overrides;
+
+       if (local_var(LVAR_Active_Shock) == 0) then begin
+           if (source_obj == dude_obj) then
+               display_msg(mstr(120));
+           else
+               display_msg(obj_name(source_obj)+mstr(121));
+
+           critter_dmg(source_obj,random(MIN_SHOCK,MAX_SHOCK),DMG_electrical BWOR DMG_BYPASS_ARMOR);
+       end
+
+       else if (source_obj == dude_obj) then
+           display_msg(mstr(125));
+       else
+           display_msg(mstr(126));
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   variable Tool;
+   variable Skill;
+
+   Tool:=obj_pid(obj_being_used_with);
+
+   if (local_var(LVAR_Active_Shock) == 0) then begin
+       script_overrides; //added by killap
+       if (source_obj == dude_obj) then
+           display_msg(mstr(120));
+       else
+           display_msg(obj_name(source_obj)+mstr(121));
+
+       critter_dmg(source_obj,random(MIN_SHOCK,MAX_SHOCK),DMG_electrical BWOR DMG_BYPASS_ARMOR);
+   end
+
+   else if (Tool == PID_ELECTRONIC_LOCKPICKS) then begin
+       script_overrides; //added by killap
+       Skill:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Lockpick_Bonus);
+
+       if (is_success(Skill)) then begin
+           if (source_obj == dude_obj) then
+               display_msg(mstr(135));
+           else
+               display_msg(mstr(136));
+
+           give_xp(EXP_LOCKPICK_NEG_90);
+
+           obj_unlock(self_obj);
+           obj_open(self_obj);
+       end
+
+       else if (source_obj == dude_obj) then
+           display_msg(mstr(130));
+       else
+           display_msg(mstr(131));
+   end
+
+   else if (Tool == PID_ELEC_LOCKPICK_MKII) then begin
+       script_overrides; //added by killap
+       Skill:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Super_Lock_Bonus);
+
+       if (is_success(Skill)) then begin
+           if (source_obj == dude_obj) then
+               display_msg(mstr(135));
+           else
+               display_msg(mstr(136));
+
+           give_xp(EXP_LOCKPICK_NEG_90);
+
+           obj_unlock(self_obj);
+           obj_open(self_obj);
+       end
+
+       else if (source_obj == dude_obj) then
+           display_msg(mstr(130));
+       else
+           display_msg(mstr(131));
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   variable skill;
+
+   if (action_being_used == SKILL_LOCKPICK) then begin
+       script_overrides;
+
+       skill:=roll_vs_skill(source_obj,action_being_used,Locks_Bonus);
+       set_map_var(MVAR_Lockpick_Penalty,map_var(MVAR_Lockpick_Penalty)-10);
+
+       if (local_var(LVAR_Active_Shock) == 0) then begin
+           if (source_obj == dude_obj) then
+               display_msg(mstr(120));
+           else
+               display_msg(obj_name(source_obj)+mstr(121));
+
+           critter_dmg(source_obj,random(MIN_SHOCK,MAX_SHOCK),DMG_electrical BWOR DMG_BYPASS_ARMOR);
+       end
+
+       else if (is_success(skill)) then begin
+           if (source_obj == dude_obj) then
+               display_msg(mstr(135));
+           else
+               display_msg(mstr(136));
+
+           give_xp(EXP_LOCKPICK_NEG_90);
+
+           obj_unlock(self_obj);
+           obj_open(self_obj);
+       end
+
+       else if (source_obj == dude_obj) then
+           display_msg(mstr(130));
+       else
+           display_msg(mstr(131));
+   end
+
+   else if (action_being_used == SKILL_TRAPS) then begin
+       script_overrides;
+       skill:=roll_vs_skill(source_obj,action_being_used,Traps_Bonus);
+       if (is_success(skill)) then begin
+           if (source_obj == dude_obj) then
+               display_msg(mstr(105));
+           else
+               display_msg(obj_name(source_obj)+mstr(106));
+           set_local_var(LVAR_Active_Shock,1);
+           add_timer_event(self_obj,game_ticks(30),1);
+       end
+       else if (is_critical(skill)) then begin
+           if (source_obj == dude_obj) then
+               display_msg(mstr(110));
+           else
+               display_msg(obj_name(source_obj)+mstr(111));
+
+           critter_dmg(source_obj,2*random(MIN_SHOCK,MAX_SHOCK),DMG_electrical BWOR DMG_BYPASS_ARMOR);
+       end
+       else begin
+           if (source_obj == dude_obj) then
+               display_msg(mstr(115));
+           else
+               display_msg(obj_name(source_obj)+mstr(116));
+
+           critter_dmg(source_obj,random(MIN_SHOCK,MAX_SHOCK),DMG_electrical BWOR DMG_BYPASS_ARMOR);
+       end
+   end
+end
+
+procedure damage_p_proc begin
+end
+
+procedure timed_event_p_proc begin
+   set_local_var(LVAR_Active_Shock,0);
+end
+
+procedure look_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end

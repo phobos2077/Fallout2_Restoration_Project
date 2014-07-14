@@ -1,0 +1,199 @@
+/*
+	Script for critter tmplete
+*/
+
+
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+
+#define NAME                    SCRIPT_HCGUARD
+
+#include "..\headers\command.h"
+#include "..\headers\sanfran.h"
+#include "..\headers\hubstash.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure destroy_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+import variable guard1a_obj;
+import variable guard1b_obj;
+import variable guard1c_obj;
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+   if (self_tile == 23937 ) then
+      guard1a_obj := self_obj;
+   else if (self_tile == 21933) then
+      guard1b_obj := self_obj;
+   else if (self_tile == 23128) then
+      guard1c_obj := self_obj;
+end
+
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+   if ( ((san_fran_flag(SF_ELRON_ENEMY)) or (map_var(MVAR_Attack_Player) == 1)) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+       attack(dude_obj);
+   end
+
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 2) then begin
+      float_msg(self_obj, mstr(300), FLOAT_MSG_RED);
+   end
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+      script_overrides;
+   if (self_tile == 24525) then
+      display_msg(mstr(110));
+   else
+      display_msg(mstr(100));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+    if (self_tile == 24525) then
+      display_msg(mstr(111));
+   else
+      display_msg(mstr(101));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   if (local_var(LVAR_Hostile) == 0 ) then begin
+      set_map_var(MVAR_Attack_Player,1);
+      set_local_var(LVAR_Hostile,1);
+   end
+end
+
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   if (self_tile == 23937 ) then
+      guard1a_obj := self_obj;
+   else if (self_tile == 21933) then
+      guard1b_obj := self_obj;
+   else if (self_tile == 23128) then
+      guard1c_obj := self_obj;
+      
+   critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_HUBOLOGIST_STASH);
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+   if (self_tile == 23937 ) then
+      guard1a_obj := self_obj;
+   else if (self_tile == 21933) then
+      guard1b_obj := self_obj;
+   else if (self_tile == 23128) then
+      guard1c_obj := self_obj;
+end
+
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_map_var(MVAR_Attack_Player,1);
+   end
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   floater(random(200,203));
+end
+
+
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+   guard1a_obj := 0;
+   guard1b_obj := 0;
+   guard1c_obj := 0;
+/* Set global_variable for Enemy status*/
+end

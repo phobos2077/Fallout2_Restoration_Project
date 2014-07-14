@@ -1,0 +1,195 @@
+variable ProtoOfItemGiven := 0;
+variable ValueOfRollCheck := 1;
+variable Scenery_Creation := 0;
+variable Scenery_Creation_Hex := 0;
+variable Scenery_Creation_Count := 0;
+variable Temp_Scenery_Creation_Hex := 0;
+variable Scenery_Creation_Ptr := 0;
+variable How_Many_Party_Members_Are_Injured := 0;
+variable How_Many_Party_Members_Armed := 0;
+variable PartyHealingItem := 0;
+
+procedure checkPartyMembersNearDoor;
+
+variable global_temp := 0;
+variable dest_tile := 0;
+variable step_tile := 0;
+variable in_dialog := 0;
+variable forced_node := 0;
+variable restock_amt := 0;
+variable restock_obj := 0;
+variable restock_trash := 0;
+variable removed_qty := 0;
+
+procedure start;
+procedure use_obj_on_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure drop_p_proc;
+
+procedure checkPartyMembersNearDoor
+begin
+  if (op_party_member_obj(16777278) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777278)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777376) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777376)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777377) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777377)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777305) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777305)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777313) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777313)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777323) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777323)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777352) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777352)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777378) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777378)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777368) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777368)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777379) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777379)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777380) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777380)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777295) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777295)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777381) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777381)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777407) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777407)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777411) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777411)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777412) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777412)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777413) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777413)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777481) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777481)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777558) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777558)) <= 5) then
+      return(1);
+  end
+  if (op_party_member_obj(16777600) != 0) then
+  begin
+    if (op_tile_distance_objs(op_self_obj(), op_party_member_obj(16777600)) <= 5) then
+      return(1);
+  end
+  return(0);
+end
+
+procedure start
+begin
+  op_obj_lock(op_self_obj());
+end
+
+procedure use_obj_on_p_proc
+begin
+  variable LVar1 := 0;
+
+  LVar1 := op_obj_pid(op_obj_being_used_with());
+  if (LVar1 == 629) then
+  begin
+    op_script_overrides();
+    op_display_msg(op_msg_string(1383, 103));
+    op_obj_unlock(op_self_obj());
+    op_reg_anim_func(2, op_self_obj());
+    op_reg_anim_func(1, 1);
+    op_obj_open(op_self_obj());
+    op_reg_anim_func(3, 0);
+    op_set_local_var(4, 1);
+  end
+end
+
+procedure look_at_p_proc
+begin
+  op_script_overrides();
+  op_display_msg(op_msg_string(1383, 102));
+end
+
+procedure description_p_proc
+begin
+  op_script_overrides();
+  op_display_msg(op_msg_string(1383, 101));
+end
+
+procedure use_p_proc
+begin
+  if (op_local_var(4) == 0) then
+  begin
+    op_script_overrides();
+    op_display_msg(op_msg_string(1383, 100));
+  end
+  else if (op_local_var(4) == 1) then
+    op_display_msg(op_msg_string(1383, 104));
+end
+
+procedure pickup_p_proc
+begin
+end
+
+procedure destroy_p_proc
+begin
+end
+
+procedure drop_p_proc
+begin
+end
+

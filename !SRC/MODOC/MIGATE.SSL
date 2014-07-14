@@ -1,0 +1,76 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Item: Generic Gates
+        Description:
+
+        Log:
+
+           Updated:
+*/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_MIGATE
+#include "..\headers\command.h"
+#include "..\headers\Modoc.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure use_p_proc;
+procedure timed_event_p_proc;
+
+variable last_source_obj;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (obj_is_open(self_obj)) then begin
+      if not combat_is_initialized then begin //added by killap
+         
+         if ((tile_distance_objs(dude_obj, self_obj) > 15) and
+               (checkPartyMembersNearDoor == false) and
+               ((tile_distance_objs(self_obj, last_source_obj) > 6) or
+               (critter_state(last_source_obj) == CRITTER_IS_DEAD))) then begin
+               
+               obj_close(self_obj);
+         end
+         
+         
+         
+         /*if ((tile_distance_objs(self_obj, dude_obj) > 15) or (last_source == 0)) then begin
+            obj_close(self_obj);
+         end else if (tile_distance_objs(self_obj, last_source) > 6) then begin
+            obj_close(self_obj);
+            last_source := 0;
+         end*/
+      end
+   end
+   mod_add_timer_event(self_obj, 10, 1);
+end
+
+procedure map_enter_p_proc begin
+   match_dude_elevation;
+   if (is_loading_game == false) then begin
+      if (obj_is_open(self_obj)) then begin
+         obj_close(self_obj);
+      end
+      mod_add_timer_event(self_obj, 10, 1);
+   end
+end
+
+procedure use_p_proc begin
+   //last_source := source_obj;
+   
+   if (source_obj != dude_obj) then begin
+      last_source_obj := source_obj;
+   end else begin
+      last_source_obj := 0;
+   end
+
+end

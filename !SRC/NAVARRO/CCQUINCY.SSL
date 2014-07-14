@@ -1,0 +1,367 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Quincy
+        Location: Navarro
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: Sept 10, 1998
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+//#include "..\headers\navdef.h"
+#include "..\headers\navarro.h"
+
+#define NAME                    SCRIPT_CCQUINCY
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NAVARRO
+
+#include "..\headers\SanFran.h"
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure timed_event_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_second_look                (7)
+#define LVAR_q1                         (8)
+#define LVAR_02_before                  (9)
+#define LVAR_get_auth                   (10)
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable said_intruder:=0;
+
+import variable quincy_ptr;
+
+procedure start begin
+   quincy_ptr:=self_obj;
+end
+
+procedure map_enter_p_proc begin
+   quincy_ptr:=self_obj;
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NAVARRO);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_NAV_GUARD);
+end
+
+procedure map_update_p_proc begin
+   quincy_ptr:=self_obj;
+end
+
+procedure timed_event_p_proc begin
+   if( fixed_param == 0 ) then
+      floater( 301 );
+   else if( fixed_param == 1 ) then
+      floater( 302 );
+end
+
+procedure critter_p_proc begin
+   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+      if (local_var(LVAR_Hostile) == 2) then begin
+         set_local_var(LVAR_Hostile,1);
+         attack(dude_obj);
+      end
+      else if (global_var(GVAR_NAVARRO_BASE_ALERT) > 0) then begin
+         //if (said_intruder == 0) then
+            //call Node013;
+         set_local_var(LVAR_Hostile,1);
+         attack(dude_obj);
+      end
+      else if( not_alone ) then begin
+         call Node012;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   GetReaction;
+
+   if (map_var(MVAR_Argument) == 1) then begin
+      script_overrides;
+   end
+   else begin
+      if( global_var(GVAR_NAVARRO_BASE_ALERT) > 0 ) then begin
+         call Node998;
+      end
+      else if (map_var(MVAR_Fight) == 1) then begin
+         floater(300);
+      end
+      else if( not_wearing_power_armor ) then begin //not wearing power armor
+         call Node011;
+      end
+      else begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+         if(local_var(LVAR_Herebefore) == 0) then begin
+            set_local_var(LVAR_Herebefore,1);
+            call Node001;
+         end
+         else begin
+            call Node010;
+         end
+         gSay_End;
+         end_dialogue;
+      end
+   end // Override Talk
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+   inc_evil_critter
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   //remove this - only for testing Raul, NBK
+   //set_map_var(MVAR_See_Me,1);
+   if (local_var(LVAR_second_look) == 0) then begin
+      set_local_var(LVAR_second_look,1);
+      display_msg(mstr(100));
+   end
+   else begin
+      display_msg(mstr(101));
+   end
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+   //if (action_being_used == SKILL_STEAL) then begin
+      //if (is_success(roll_vs_skill(dude_obj,action_being_used,0))) then begin
+      //end
+   //end
+end
+
+procedure Node001 begin
+   Reply(103);
+
+   NLowOption(104,Node002);
+   NLowOption(105,Node999);
+   NOption(106,Node002,004);
+   NOption(107,Node999,004);
+end
+
+procedure Node002 begin
+   if (local_var(LVAR_02_before) == 0) then begin
+      set_local_var(LVAR_02_before,1);
+      Reply(108);
+   end
+   else begin
+      Reply(109);
+   end
+
+   if (local_var(LVAR_q1) == 0) then
+      NLowOption(110,Node003);
+   if ( took_plans_quest ) then
+      NLowOption(111,Node005);
+   if ( map_var(MVAR_Plans) == 1 ) then
+      NLowOption(112,Node008);
+   NLowOption(113,Node999);
+
+   if (local_var(LVAR_q1) == 0) then
+      NOption(114,Node003,004);
+   if ( took_plans_quest ) then
+      NOption(115,Node005,004);
+   if ( map_var(MVAR_Plans) == 1 ) then
+      NOption(116,Node008,004);
+   NOption(117,Node999,004);
+end
+
+procedure Node003 begin
+   set_local_var(LVAR_q1,1);
+   Reply(118);
+
+   NLowOption(119,Node004);
+   NOption(120,Node004,004);
+end
+
+procedure Node004 begin
+   Reply(121);
+
+   NLowOption(122,Node002);
+   NOption(123,Node002,004);
+end
+
+procedure Node005 begin
+   Reply(124);
+
+   NLowOption(125,Node006);
+   NLowOption(126,Node007);
+   NOption(127,Node006,004);
+   NOption(128,Node007,004);
+end
+
+procedure Node006 begin
+   Reply(129);
+
+   BLowOption(130,Node998);
+   BOption(131,Node998,004);
+end
+
+procedure Node007 begin
+   set_local_var(LVAR_get_auth,1);
+   if (dude_iq < 4) then begin
+      Reply(132);
+   end
+   else begin
+      Reply(133);
+   end
+
+   NLowOption(134,Node999);
+   BLowOption(135,Node998);
+   NOption(136,Node999,004);
+   BOption(137,Node998,004);
+end
+
+procedure Node008 begin
+   Reply(138);
+
+   NLowOption(139,Node009);
+   NLowOption(140,Node007);
+   NOption(141,Node009,004);
+   NOption(142,Node007,004);
+end
+
+procedure Node009 begin
+   set_map_var( MVAR_Quincy_Allows_Plans, 1 );
+   set_map_var(MVAR_See_Me,1);
+   
+   //added by killap
+   if (map_var(MVAR_Plans) == 1) then
+      set_map_var(MVAR_Plans,2);
+   //end added
+   
+   Reply(143);
+
+   NOption(144,Node999,001);
+end
+
+procedure Node010 begin
+   if (local_var(LVAR_get_auth) == 1) then
+      Reply(145);
+   else
+      Reply(146);
+
+   if (local_var(LVAR_get_auth) == 1) then begin
+      BLowOption(147, Node998);
+      NLowOption(148, Node007);
+      if ( map_var(MVAR_Plans) == 1 ) then
+         NLowOption(112,Node008);
+      if ( map_var(MVAR_Plans) == 1 ) then
+         NOption(116,Node008,004);
+      BOption(149, Node998, 004);
+      NOption(150, Node007, 004);
+   end
+   else begin
+      NLowOption(151, Node002);
+      NLowOption(152, Node999);
+      if( map_var(MVAR_Plans) == 1 ) then
+         NLowOption(112,Node008);
+      if ( map_var(MVAR_Plans) == 1 ) then
+         NOption(116,Node008,004);
+      NOption(153, Node002, 004);
+      NOption(154, Node999, 004);
+   end
+end
+
+procedure Node011 begin
+   floater(random(155,157));
+end
+
+procedure Node012 begin
+   set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+   floater(random(158,160));
+end
+
+procedure Node013 begin
+   said_intruder:=1;
+   floater(random(161,163));
+end
+
+procedure Node014 begin
+   // Unneeded. Handled by Generic Locker script now.
+end
+
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+   set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end

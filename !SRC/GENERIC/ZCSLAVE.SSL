@@ -1,0 +1,155 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Slave
+        Location: Generic
+        Description: This is for generic slaves. They run away when unattended.
+
+        Log: the following defines need to be changed:
+
+
+           Created: January 13, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_ZCSLAVE
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+
+// dialog nodes
+//
+
+procedure Node998;                                      // This Node is Always Combat
+
+#define LVAR_Hostile                   (0)
+#define LVAR_Here_Before               (1)
+#define LVAR_Free                      (2)
+#define LVAR_Fleeing                   (3)
+#define LVAR_Dude_Tile                 (4)
+
+#define temp_map_exit_tile             9688
+
+#define slave_is_attractive            ((obj_pid(self_obj) == PID_HANDSOME_SLAVE_MALE) or (obj_pid(self_obj) == PID_CUTE_SLAVE_FEMALE))
+#define slave_is_healthy               ((obj_pid(self_obj) == PID_HEALTHY_SLAVE_MALE) or (obj_pid(self_obj) == PID_HEALTHY_SLAVE_FEMALE))
+#define slave_is_strong                ((obj_pid(self_obj) == PID_STRONG_SLAVE_MALE) or (obj_pid(self_obj) == PID_STRONG_SLAVE_FEMALE))
+#define slave_is_combat                ((obj_pid(self_obj) == PID_COMBAT_SLAVE_MALE) or (obj_pid(self_obj) == PID_COMBAT_SLAVE_FEMALE))
+#define slave_is_clever                ((obj_pid(self_obj) == PID_CLEVER_SLAVE_MALE) or (obj_pid(self_obj) == PID_CLEVER_SLAVE_FEMALE))
+#define slave_is_generic               ((obj_pid(self_obj) == PID_GENERIC_SLAVE_MALE) or (obj_pid(self_obj) == PID_GENERIC_SLAVE_FEMALE))
+
+#define slave_is_fleeing               (local_var(LVAR_Fleeing))
+#define dude_is_obstructing_flee       ((tile_distance_objs(self_obj,dude_obj) < 20) or ((dude_is_armed == false) and (tile_distance_objs(self_obj,dude_obj) < 15) and (slave_is_fleeing)))
+#define slave_at_exit_tile             (tile_distance(self_tile,temp_map_exit_tile) <= 1)
+#define dude_tile_changed              (local_var(LVAR_Dude_Tile) != dude_tile)
+
+variable only_once:=0;
+variable is_attacking:=false;
+
+procedure start begin
+   if (only_once == 0) then begin
+      only_once := 1;
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAVES);
+      if ((slave_is_combat) or (slave_is_strong)) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_THUG);
+      end else begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+      end
+      //add_timer_event(self_obj,game_ticks(random(3,5)),1);
+   end
+end
+
+procedure timed_event_p_proc begin
+   add_timer_event(self_obj,game_ticks(random(3,5)),1);
+end
+
+procedure map_enter_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if (slave_is_fleeing) then begin
+      if (dude_is_obstructing_flee) then begin
+         // stop fleeing and say something in a floater
+         set_local_var(LVAR_Fleeing,false);
+      end else if (slave_at_exit_tile) then begin
+         // remove from party and hide slave!!!
+      end
+   end else if (dude_is_obstructing_flee == false) then begin
+      debug_msg("   telling slave to run");
+      anim_run_to_point_rate(temp_map_exit_tile, 3)
+      set_local_var(LVAR_Fleeing,true);
+   end else if (local_var(LVAR_Free) == false) then begin
+      follow_dude_point(7,3)
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+   end
+end
+
+procedure talk_p_proc begin
+   script_overrides;
+   start_gdialog(NAME,self_obj,4,-1,-1);
+   gSay_Start;
+   gSay_End;
+   end_dialogue;
+   inc_local_var(LVAR_Here_Before);
+end
+
+procedure destroy_p_proc begin
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Here_Before)) then begin
+      display_msg(mstr(101));
+   end else begin
+      display_msg(mstr(100));
+   end
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Here_Before) > 0) then begin
+      display_msg(mstr(151));
+   end else begin
+      display_msg(mstr(150));
+   end
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node999 begin
+   // to exit dialogs
+end
+procedure Node998 begin
+   // sets up combat
+   if (is_attacking == false) then begin
+      is_attacking := true;
+      set_local_var(LVAR_Hostile,true);
+      attack(dude_obj);
+   end
+end

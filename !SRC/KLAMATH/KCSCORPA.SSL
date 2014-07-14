@@ -1,0 +1,117 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Attack Scorpion with code added for rustle
+        Location: KLAMATH
+        Description: Generic lesser small scorpion.
+
+        Log:
+
+           Created: December 02, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+#include "..\headers\klamath.h"
+#include "..\headers\klagraz.h"
+//#include "..\headers\<TownName.h>"
+
+#define NAME                    SCRIPT_ZCLSCORP
+
+#include "..\headers\command.h"
+//#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure combat_p_proc;
+procedure push_p_proc;
+
+/* Local variables which do not need to be saved between map changes. */
+#define LVAR_Counted                  (0)
+
+procedure start begin
+end
+
+procedure critter_p_proc begin
+   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+      attack(dude_obj);
+   end
+end
+
+procedure destroy_p_proc begin
+   variable tail := 0;
+   // Small scorpions now drop small tails. Makes much more sense - killap (expansion)
+   if ((self_pid == PID_SMALL_RADSCORPION) or (self_pid == PID_BLACK_SCORPION)) then
+      tail := create_object(PID_SMALL_SCORPION_TAIL,0,0);
+   else
+      tail := create_object(PID_SCORPION_TAIL,0,0);
+
+   add_obj_to_inven(self_obj,tail);
+   //set_global_var(GVAR_KLAMATH_SCORPIONS_KILLED,global_var(GVAR_KLAMATH_SCORPIONS_KILLED)+1);
+   ADJUST_SCORPS_KILLED
+   //if (map_var(MVAR_Scorps_Killed) >= MAX_SCORPS) then begin
+   //if (global_var(GVAR_KLAMATH_SCORPIONS_KILLED) >= global_var(GVAR_KLAMATH_SCORPIONS_TOTAL)) then begin
+   if ( KILLED_ALL_SCORPS ) then begin
+      display_msg(mstr(500));
+   end
+   //display_msg("Scorps dead = "+map_var(MVAR_Scorps_Killed));
+   //display_msg("Scorps left = "+map_var(MVAR_Total_Scorps));
+end
+
+procedure damage_p_proc begin
+   attack(dude_obj);
+end
+
+procedure combat_p_proc begin
+   if (fixed_param == COMBAT_SUBTYPE_HIT_SUCCEEDED) then begin
+      if (target_obj == dude_obj) then begin
+         if (not(is_success(do_check(dude_obj,STAT_lu,-1)))) then begin
+            poison(target_obj,random(1,6));
+         end
+      end
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+end
+
+procedure push_p_proc begin
+   script_overrides;
+end
+
+procedure use_obj_on_p_proc begin
+end
+
+procedure use_skill_on_p_proc begin
+   if (action_being_used == SKILL_STEAL) then
+      script_overrides;
+end
+
+procedure map_enter_p_proc begin
+   if (local_var(LVAR_Counted) == 0) then begin
+      set_local_var(LVAR_Counted,1);
+      //set_global_var(GVAR_KLAMATH_SCORPIONS_TOTAL, global_var(GVAR_KLAMATH_SCORPIONS_TOTAL) + 1);
+      COUNT_A_SCORP
+      //set_map_var(MVAR_Total_Scorps, map_var(MVAR_Total_Scorps) + 1);
+   end
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SCORPION);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_SCORPION);
+   //add_timer_event(self_obj,game_ticks(random(1,5)),0);
+end

@@ -1,0 +1,32 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_HTCORPSE
+#include "..\headers\command.h"
+
+procedure spatial_p_proc;
+procedure start;
+
+#define LVAR_herebefore (0)
+
+procedure start begin
+end
+
+procedure spatial_p_proc begin
+   if ( ( ( global_var(GVAR_BH_MISSING) == MISSING_TUNNELS_CASH ) or //edit by killap - was *_ACCEPT_*
+          ( global_var(GVAR_BH_MISSING) == MISSING_TUNNELS_FREE ) ) and //edit by killap - was *_ACCEPT_*
+        (source_obj == dude_obj) and
+        (local_var(LVAR_herebefore) == 0) ) then begin
+      inc_local_var(LVAR_herebefore);
+      if( global_var(GVAR_BH_MISSING) == MISSING_TUNNELS_FREE ) then //edit by killap - was *_ACCEPT_*
+         set_global_var(GVAR_BH_MISSING, MISSING_DISCOVERED_FREE );
+      else
+         set_global_var(GVAR_BH_MISSING, MISSING_DISCOVERED_CASH );
+      display_msg(mstr(100));
+      give_xp( EXP_BODIES_FOUND );
+      set_global_var( GVAR_TOWN_REP_BROKEN_HILLS, (global_var(GVAR_TOWN_REP_BROKEN_HILLS) + REP_TOWN_BODIES_FOUND ) );
+   end
+end

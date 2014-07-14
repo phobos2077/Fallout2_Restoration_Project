@@ -1,0 +1,202 @@
+//MUST USE pickup_p_proc command and not the use command.
+
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Sam Pritchard's Grave (Programmed by Seraph) - edited by killap
+        Location: New Reno
+        Description:
+
+        Log: The old NIPriGrv.SSL file didn't seem to work right, so I just started
+            over from scratch. I used ZIGenGrv.SSL as a basic outline, trimmed away 
+            the trap and karma-related code, added in a few lines of code from the 
+            old NIPriGrv.SSL file, and then added a couple lines of my own to complete 
+            it. You need 8 or more perception to get SAD added to your map.
+
+
+            Created: October 27, 2004
+
+            Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_NIPRIGRV
+
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure map_enter_p_proc;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure use_obj_on_p_proc;
+procedure use_skill_on_p_proc;
+
+#define grv_mstr(x)                       message_str(SCRIPT_NIPRIGRV, x)
+#define display_grave_mstr(x)             display_msg(message_str(SCRIPT_NIPRIGRV, x))
+// headstone related
+#define self_is_cross                     ((PID_GRAVE_CROSS_1 <= self_pid) and (self_pid <= PID_GRAVE_CROSS_6))
+#define self_is_headstone                 ((PID_GRAVE_HEADSTONE_1 <= self_pid) and (self_pid <= PID_GRAVE_HEADSTONE_4))
+#define is_headstone                      ((self_is_cross) or (self_is_headstone))
+
+// grave site related
+#define state_covered                     (1)
+#define state_uncovered                   (-1)
+#define grave_starting_state              state_covered
+#define is_grave_site                     (is_headstone == false)
+#define site_is_covered                   (local_var(LVAR_Status) == state_covered)
+#define site_is_uncovered                 (local_var(LVAR_Status) == state_uncovered)
+#define do_cover_grave_site               set_local_var(LVAR_Status, state_covered);      \
+                                          play_sfx("iccntnre");                           \
+                                          animate_set_frame(0)
+#define do_uncover_grave_site             set_local_var(LVAR_Status, state_uncovered);    \
+                                          play_sfx("iocntnre");                           \
+                                          animate_set_frame(1)
+
+#ifndef GIVE_HEADSTONE_NAME
+#define GIVE_HEADSTONE_NAME               true
+#endif
+
+#define LVAR_Status                       (0)
+#define LVAR_Uncovered                    (1)
+
+procedure start begin
+end
+
+procedure num_to_bit(variable the_num) begin
+variable temp := 1;
+   the_num := (the_num % 32);
+   while (the_num > 1) do begin
+      temp := temp * 2;
+      the_num -= 1;
+   end
+   return temp;
+end
+
+#define head_stone_top              84
+procedure give_headstone_name begin
+variable temp;
+variable temp_bit;
+   temp := random(0,head_stone_top + (head_stone_top/10));
+   while ((local_var(LVAR_Status) == 0) and (temp <= head_stone_top)) do begin
+      temp_bit := num_to_bit(temp);
+      if ((global_var(GVAR_GRAVE_FLAGS_1 + (temp / 32)) bwand temp_bit) == false) then begin
+         set_global_var(GVAR_GRAVE_FLAGS_1 + (temp / 32), global_var(GVAR_GRAVE_FLAGS_1 + (temp / 32)) bwor temp_bit);
+         set_local_var(LVAR_Status, 300 + temp);
+      end
+      temp += 1;
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (local_var(LVAR_Status) == 0) then begin
+      if (is_grave_site) then begin
+         if (grave_starting_state == state_uncovered) then begin
+            do_uncover_grave_site;
+         end else begin
+            set_local_var(LVAR_Status, grave_starting_state);
+         end
+      end else if (GIVE_HEADSTONE_NAME) then begin
+         call give_headstone_name;
+      end
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (is_grave_site) then begin
+      if (site_is_covered) then begin
+         display_msg(message_str(SCRIPT_ZIGENGRV, 100));
+      end else begin
+         display_grave_mstr(101);   //killap's fix: changed from 100
+      end
+   end else begin
+      display_msg(message_str(SCRIPT_ZIGENGRV, 200 + self_is_cross));
+   end
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (is_grave_site) then begin
+      if (site_is_uncovered) then begin
+         display_grave_mstr(101); //killap's fix: changed from 100
+      end else begin
+         display_msg(message_str(SCRIPT_ZIGENGRV, 102));
+      end
+   end else begin
+      display_grave_mstr(200);
+   end
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure use_obj_on_p_proc begin
+   script_overrides;
+   if (is_grave_site) then begin
+      if (obj_pid(obj_being_used_with) == PID_SHOVEL) then begin
+         gfade_out(1);
+            if (site_is_uncovered) then begin
+               do_cover_grave_site;
+            end else begin
+               do_uncover_grave_site;
+            end
+            display_msg(message_str(SCRIPT_ZIGENGRV, 150 + site_is_uncovered));
+            game_time_advance(ONE_GAME_MINUTE * (15 + (random(30,45)/dude_strength)));
+         gfade_in(1);
+      end
+   end
+end
+
+procedure use_p_proc begin
+   variable item;
+   if (is_grave_site) then begin
+      //script_overrides;
+      if (site_is_covered) then
+         script_overrides;
+      else begin
+         if ((pritchard_exp == false) and ((dude_perception > 7) or (pritchard))) then begin
+            script_overrides;
+            dude_floater(255 + dude_is_stupid);
+            display_mstr(250);
+            //give_xp(EXP_NEW_RENO_PRITCHARD_GRAVE);
+            item:=create_object(532,0,0);
+            add_obj_to_inven(dude_obj, item);
+            set_pritchard_exp;
+            //mark_sierra_army_base_on_map
+         end
+         else
+             display_mstr(100);  //added by killap
+      end
+   end
+end
+
+procedure pickup_p_proc begin //fix by killap: added code from use_p_proc (does not run if code is in used, needs to be in pickup (not player "picking up" the grave))
+   variable item;
+   if (is_grave_site) then begin
+      //script_overrides;
+      if (site_is_covered) then
+         script_overrides;
+      else begin
+         if ((pritchard_exp == false) and ((dude_perception > 7) or (pritchard))) then begin
+            script_overrides;
+            dude_floater(255 + dude_is_stupid);
+            display_mstr(250);
+            //give_xp(EXP_NEW_RENO_PRITCHARD_GRAVE);
+            item:=create_object(532,0,0);
+            add_obj_to_inven(dude_obj, item);
+            set_pritchard_exp;
+            //mark_sierra_army_base_on_map
+         end
+         else
+            display_mstr(100);   //added by killap
+      end
+   end
+end

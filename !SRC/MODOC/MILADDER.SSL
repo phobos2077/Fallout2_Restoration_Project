@@ -1,0 +1,36 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Shitter Ladder
+        Location: Modoc Inn shitter ladder
+        Description:
+
+        Log:
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_MILADDER
+#include "..\headers\command.h"
+#include "..\headers\Modoc.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   if (global_var(GVAR_MODOC_SHITTY_DEATH) == 0) then begin
+      set_leaving_shitter;
+   end else begin
+      script_overrides;
+   end
+end

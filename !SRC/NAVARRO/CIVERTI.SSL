@@ -1,0 +1,196 @@
+/*        Script from item templete*          /
+
+/*
+        Name: civerti
+        Location: Navarro
+        Description: This script controls the veribird you can take to the Enclave.
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+#include "..\headers\navarro.h"
+
+#define NAME                    SCRIPT_CIVERTI
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure use_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node999;
+procedure Node990;
+procedure Tamper_Proc1;
+procedure Tamper_Proc2;
+procedure Tamper_Proc3;
+
+#define LVAR_Key_Inserted   (0)
+
+import variable guard1_obj;
+import variable guard2_obj;
+import variable guard3_obj;
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   if (combat_is_initialized == false) then begin
+      if (Fallout2_enclave_destroyed) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node010;
+         gSay_End;
+         end_dialogue;
+      end else
+      if (map_var(MVAR_Verti_Status) == 1) then begin
+         set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+      end else if (map_var(MVAR_Verti_Status) == 0) then begin
+         if ( (obj_is_visible_flag(guard1_obj)) ) then begin
+            call Tamper_Proc1;
+         end else if ( (obj_is_visible_flag(guard2_obj)) ) then begin
+            call Tamper_Proc2;
+         end else if ( (obj_is_visible_flag(guard3_obj)) ) then begin
+            call Tamper_Proc3;
+         end else begin
+            set_map_var(MVAR_Verti_Status,2);
+            call use_p_proc;
+         end
+      end else if (local_var(LVAR_Key_Inserted) == 0) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node001;
+         gSay_End;
+         end_dialogue;
+      end else begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node007;
+         gSay_End;
+         end_dialogue;
+      end
+   end
+end
+
+procedure Node001 begin
+   Reply(200);
+   NOption(201,Node002,001);
+   NOption(202,Node999,001);
+end
+
+procedure Node002 begin
+   Reply(203);
+   NOption(204,Node003,001);
+   NOption(205,Node999,001);
+end
+
+procedure Node003 begin
+   Reply(206);
+   if (obj_carrying_pid_obj(dude_obj, PID_YELLOW_REACTOR_KEYCARD)) then
+      NOption(207,Node004,001);
+   else
+      NOption(208,Node999,001);
+end
+
+procedure Node004 begin
+   set_local_var(LVAR_Key_Inserted,1);
+   Reply(209);
+   NOption(210,Node005,001);
+   NOption(211,Node999,001);
+end
+
+procedure Node005 begin
+   Reply(212);
+   if (map_var(MVAR_Verti_Satellite_Alignment) != 2) then
+      NOption(213,Node006,001);
+   else
+      NOption(213,Node008,001);
+end
+
+procedure Node006 begin
+   Reply(214);
+   if (dude_is_stupid) then
+      NOption(216,Node999,001);
+   else
+      NOption(215,Node999,004);
+   
+   set_map_var(MVAR_Verti_Satellite_Alignment,1);
+end
+
+procedure Node007 begin
+   Reply(220);
+   NOption(221,Node005,001);
+   NOption(222,Node999,001);
+end
+
+procedure Node008 begin
+   Reply(230);
+   NOption(231,Node009,001);
+   NOption(232,Node999,001);
+end
+
+procedure Node009 begin
+   Reply(240);
+   
+   if (dude_is_stupid) then
+      NOption(mstr(243) + dude_name + mstr(244),Node990,001);
+   else
+      NOption(mstr(241) + dude_name + mstr(242),Node990,004);
+end
+
+procedure Node010 begin
+   Reply(300);
+   NOption(301,Node011,001);
+   NOption(302,Node999,001);
+end
+
+procedure Node011 begin
+   Reply(303);
+   NOption(304,Node999,001);
+end
+
+procedure Node999 begin
+
+end
+
+procedure Node990 begin
+   fadeout(500);
+   move_to(dude_obj, 17134, elevation(dude_obj));
+   set_obj_visibility(dude_obj, 1);
+   give_xp(15000);
+   game_time_advance(ONE_GAME_HOUR * 6);
+   set_global_var(GVAR_CAME_ON_VERTIBIRD,1);
+   load_map(MAP_ENCLAVE_DOCK, 11);
+end
+
+procedure Tamper_Proc1 begin
+   script_overrides;
+   add_timer_event(guard1_obj,5,2);
+end
+
+procedure Tamper_Proc2 begin
+   script_overrides;
+   add_timer_event(guard2_obj,5,2);
+end
+
+procedure Tamper_Proc3 begin
+   script_overrides;
+   add_timer_event(guard3_obj,5,2);
+end

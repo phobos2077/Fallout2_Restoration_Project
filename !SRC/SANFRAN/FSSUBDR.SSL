@@ -1,0 +1,36 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_FSSUBDR
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure use_p_proc;
+
+
+procedure start begin
+end
+
+
+ 
+procedure use_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end

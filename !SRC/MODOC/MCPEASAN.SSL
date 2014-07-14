@@ -1,0 +1,130 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Peasant
+        Location: Modoc
+        Description: Peasant, currently just for the slag farm attack.
+
+        Log: the following defines need to be changed:
+
+
+          Created: February 15, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                        SCRIPT_MCPEASAN
+#define TOWN_REP_VAR                GVAR_TOWN_REP_MODOC
+
+#include "..\headers\command.h"
+#include "..\headers\modoc.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure combat_p_proc;
+procedure timed_event_p_proc;
+procedure push_p_proc;
+
+procedure Node999;                                      // This is the do nothing node
+procedure Node998;                                      // This Node is Always Combat
+
+#define LVAR_Hostile                      (4)
+
+variable current_seat;
+import variable ghost_farm_slag_obj;
+
+procedure start begin
+end
+
+procedure push_p_proc begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+procedure combat_p_proc begin
+   if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
+   end
+end
+
+procedure map_enter_p_proc begin
+   match_dude_elevation;
+   check_show_ghost_farm_attackers
+   if (map_first_run) then begin
+      if (cur_map_index != MAP_GHOST_FARM) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+      end
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   end
+end
+procedure map_exit_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if (cur_map_index == MAP_GHOST_FARM) then begin
+      Do_Attacking_Slag(13,10)
+   end
+   if (self_visible) then begin
+      if (self_can_see_dude) then begin
+         if ((local_var(LVAR_Hostile) > 0) or (dude_enemy_modoc)) then begin
+
+            self_attack_dude;
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_local_var(LVAR_Hostile, 2);
+      set_enemy_modoc;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   if (cur_map_index == MAP_GHOST_FARM) then begin
+      kill_them_all_floater;
+   end
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+end
+
+procedure description_p_proc begin
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+// dialog action functions
+procedure Node999 begin
+  // do absolutely everything that pertains to nothing
+end
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,true);
+end

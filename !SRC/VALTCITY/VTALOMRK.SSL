@@ -1,0 +1,46 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************
+   Filename: iiMine.ssl
+
+   Purpose: This is for the mines in the Raiders Cave.
+
+   Created: December 18, 1997   RWH2
+
+   Updated:
+        April 14, 1998          rwh2
+                Made the template more generic for any weapon to be
+                fired from any floor plate. All defines at the top
+                are the only things that will need to be changed
+                from now on
+******************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_VTALOMRK
+#define CUR_SCRIPT              SCRIPT_VTALOMRK
+
+#include "..\headers\command.h"
+
+variable floated := 0;
+
+procedure start;
+procedure map_enter_p_proc;
+procedure spatial_p_proc;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+end
+
+procedure spatial_p_proc begin
+   if( ( global_var(GVAR_VAULT_PIP) == PIP_REWARD ) and ( floated == 0 ) ) then begin
+      floated := 1;
+      float_msg( dude_obj, message_str( SCRIPT_VIALOCOM, 106 ), FLOAT_COLOR_NORMAL );
+   end
+end

@@ -1,0 +1,88 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+import variable metzger_room_door_guard_obj;
+
+procedure def_use_p_proc;
+procedure def_use_skill_on_p_proc;
+procedure my_map_update_proc; //added by killap
+
+procedure test_use_tamper;
+procedure test_use_skill_tamper;
+
+procedure use_p_proc begin
+   if (test_use_tamper == false) then begin
+      call def_use_p_proc;
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   if (test_use_tamper == false) then begin
+      call def_use_skill_on_p_proc;
+   end
+end
+
+//added by killap
+procedure map_update_p_proc begin
+   call my_map_update_proc;
+end
+//end added by killap
+
+#define use_p_proc                        def_use_p_proc
+#define use_skill_on_p_proc               def_use_skill_on_p_proc
+#define map_update_p_proc                 def_map_update_p_proc //added by killap
+
+#define LOCKED_STATUS                STATE_ACTIVE //added by killap
+
+#include "..\den\diDoor.ssl"
+
+//added by killap
+variable do_once := false;
+procedure my_map_update_proc begin
+   if (metzger_sex and obj_is_locked(self_obj) and do_once == false) then begin
+      obj_unlock(self_obj);
+      do_once := true;
+   end
+   call def_map_update_p_proc;
+end
+//end added
+
+procedure test_use_tamper begin
+   if (metzger_sex == false) then begin
+      if (metzger_room_door_guard_obj != 0) then begin
+         if ((obj_can_see_obj(metzger_room_door_guard_obj, self_obj)) or (obj_can_see_obj(metzger_room_door_guard_obj, source_obj))) then begin
+            if (source_obj == dude_obj) then begin
+               script_overrides;
+               flush_add_timer_event(metzger_room_door_guard_obj, 0, timed_event_door_tamper);
+               return true;
+            end else if (obj_in_party(source_obj)) then begin
+               script_overrides;
+               return true;
+            end
+         end
+      end
+   end
+   return false;
+end
+
+procedure test_use_skill_tamper begin
+   if (metzger_sex == false) then begin
+      if (metzger_room_door_guard_obj != 0) then begin
+         if ((action_being_used == SKILL_LOCKPICK) or (action_being_used == SKILL_TRAPS)) then begin
+            if (obj_can_see_obj(metzger_room_door_guard_obj, source_obj)) then begin
+               if (source_obj == dude_obj) then begin
+                  script_overrides;
+                  flush_add_timer_event(metzger_room_door_guard_obj, 0, timed_event_door_tamper);
+                  return true;
+               end else if (obj_in_party(source_obj)) then begin
+                  script_overrides;
+                  flush_add_timer_event(metzger_room_door_guard_obj, 0, timed_event_door_tamper);
+                  return true;
+               end
+            end
+         end
+      end
+   end
+   return false;
+end

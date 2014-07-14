@@ -1,0 +1,52 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NIBISSTA
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+#include "..\headers\NewR2.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+
+import variable bishop_stair_guard_obj;
+/* Local variables which do not need to be saved between map changes. */
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   if (bishop_permission == false) then begin
+      if (bishop_stair_guard_obj != 0) then begin
+         if ((obj_can_see_obj(bishop_stair_guard_obj, dude_obj)) or (obj_can_see_obj(bishop_stair_guard_obj, self_obj))) then begin
+            script_overrides;
+            if (combat_is_initialized == false) then begin
+               nr_add_timer_event(bishop_stair_guard_obj, 0, tamper_door_param);
+            end
+         end else begin
+            debug_msg("obj_can_see_obj(bishop_stair_guard_obj, dude_obj) == false");
+         end
+      end else begin
+         debug_msg("bishop_stair_guard_obj == 0");
+      end
+   end else begin
+      debug_msg("bishop_permission is true");
+   end
+end

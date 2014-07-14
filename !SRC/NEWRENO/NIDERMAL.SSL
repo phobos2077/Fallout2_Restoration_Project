@@ -1,0 +1,37 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Box to be delivered to Ramirez
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NIDERMAL
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   display_mstr(100);
+   give_xp(EXP_NEW_RENO_USE_DERMAL);
+   critter_mod_skill(dude_obj, SKILL_CONVERSANT, 10);
+   dude_floater(200);
+   scr_return(1);
+end

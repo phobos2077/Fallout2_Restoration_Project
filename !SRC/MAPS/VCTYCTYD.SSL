@@ -1,0 +1,89 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Map Script for Sierra Army Base, Outside area
+*/
+
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+#include "..\headers\vctyctyd.h"
+
+#define NAME                    SCRIPT_VCTYCTYD
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+export variable vault_city_harry_box;
+export variable vault_city_courtyard_temp_box;
+export variable plow1;
+export variable plow2;
+export variable Harry_Ptr;
+export variable Ed_Ptr;
+export variable Andrew_Ptr;
+export variable Cassidy_Ptr;
+export variable Prison_Door_Watcher;
+export variable Greeting_Watcher;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   variable critter;
+
+   set_global_var( GVAR_DAY_PASS_SHOWN, 0 );
+
+   if (map_first_run) then begin
+       display_msg( mstr(100) );
+      // Set Town Rep to -5 to start with.
+      set_global_var( GVAR_TOWN_REP_VAULT_CITY, -5 );
+   end
+
+   Lighting;
+
+   /*debug_msg("Check_Create_Car(" + CAR_VAULT_CITY_HEX + "," + CAR_VAULT_CITY_ELEV + ")");
+   if (not is_loading_game) then begin
+      if (dude_has_car != false) then begin
+         debug_msg("car_current_town == " + car_current_town + " / map_get_load_area == " + map_get_load_area);
+         if ((car_current_town == map_get_load_area) or ((AREA_RND_DESERT <= car_current_town) and (car_current_town <= AREA_RND_COAST) and (map_get_load_area == -1))) then begin
+            Create_Car(CAR_VAULT_CITY_HEX, CAR_VAULT_CITY_ELEV)
+            if (tile_contains_pid_obj(CAR_VAULT_CITY_HEX, CAR_VAULT_CITY_ELEV, PID_DRIVABLE_CAR) != 0) then begin
+               Create_Trunk(CAR_VAULT_CITY_HEX, CAR_VAULT_CITY_ELEV)
+            end
+         end else if (tile_contains_pid_obj(CAR_VAULT_CITY_HEX, CAR_VAULT_CITY_ELEV, PID_DRIVABLE_CAR) != 0) then begin
+            Dest_Car(CAR_VAULT_CITY_HEX, CAR_VAULT_CITY_ELEV)
+         end
+      end else begin
+         debug_msg("the player hasn't gotten the car, can't place it");
+      end
+   end else begin
+      debug_msg("sorry, can't place the car, the game's loading");
+   end*/
+   
+   //added by killap - prevent car from disappearing if the car runs out of gas while on the town circle
+   if ((metarule(30, 0) == 21) and (cur_map_index != MAP_CAR_DESERT) and (car_out_of_fuel)) then begin
+      set_global_var(GVAR_CAR_PLACED_TILE, 0);
+      Create_Car(CAR_VAULT_CITY_HEX,CAR_VAULT_CITY_ELEV)
+      if (tile_contains_pid_obj(CAR_VAULT_CITY_HEX, CAR_VAULT_CITY_ELEV, PID_DRIVABLE_CAR) != 0) then begin
+         Create_Trunk(CAR_VAULT_CITY_HEX,CAR_VAULT_CITY_ELEV)
+      end 
+   end else 
+      Check_Create_Car(CAR_VAULT_CITY_HEX, CAR_VAULT_CITY_ELEV)
+   //end added
+
+   if ((global_var(GVAR_WADE_PAYOUT) == 0) and (global_var(GVAR_WADE_STATUS) == 1) and (map_var(MVAR_Made_Payoff) == 0)) then begin
+       inc_map_var(MVAR_Made_Payoff);
+       Critter:=create_object_sid(PID_MALE_VAULT_CITIZEN,0,0,SCRIPT_RCFERN);
+       critter_attempt_placement(Critter,29109,0);
+   end
+
+   override_map_start_hex(27706,0,5);
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+end

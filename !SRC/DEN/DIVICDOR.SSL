@@ -1,0 +1,127 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+import variable vic_door_guard_obj;
+import variable vic_door_obj;
+
+#define LOCKED_STATUS                   ((STATE_ACTIVE * (metzger_dead == false)) + (STATE_INACTIVE * metzger_dead))
+
+procedure def_use_p_proc;
+procedure def_use_skill_on_p_proc;
+procedure def_map_update_p_proc;
+procedure def_map_enter_p_proc;
+procedure def_start;
+procedure def_destroy_p_proc;
+
+procedure test_use_tamper;
+procedure test_use_skill_tamper;
+procedure check_unlock_door;
+procedure check_timed_event;
+
+procedure use_p_proc begin
+   if (test_use_tamper == false) then begin
+      call def_use_p_proc;
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   if (test_use_tamper == false) then begin
+      call def_use_skill_on_p_proc;
+   end
+end
+
+procedure map_update_p_proc begin
+   call check_unlock_door;
+end
+
+procedure timed_event_p_proc begin
+   call check_timed_event;
+end
+
+procedure start begin
+   vic_door_obj := self_obj;
+   call def_start;
+end
+
+procedure map_enter_p_proc begin
+   vic_door_obj := self_obj;
+   call def_map_enter_p_proc;
+end
+
+procedure destroy_p_proc begin
+   vic_door_obj := 0;
+   call def_destroy_p_proc;
+end
+
+#define use_p_proc                        def_use_p_proc
+#define use_skill_on_p_proc               def_use_skill_on_p_proc
+#define timed_event_p_proc                def_map_timed_event_p_proc
+#define map_update_p_proc                 def_map_update_p_proc
+#define start                             def_start
+#define map_enter_p_proc                  def_map_enter_p_proc
+#define destroy_p_proc                    def_destroy_p_proc
+
+#include "..\den\diDoor.ssl"
+
+procedure check_timed_event begin
+end
+
+procedure test_use_tamper begin
+   if (vic_door_guard_obj != 0) then begin
+      if ((obj_can_see_obj(vic_door_guard_obj, self_obj)) or (obj_can_see_obj(vic_door_guard_obj, source_obj))) then begin
+         if (source_obj == dude_obj) then begin
+            if (((has_rep_slaver == false) and (see_vic(state_see_vic_okay) == false)) or (obj_is_locked(self_obj))) then begin
+               script_overrides;
+               flush_add_timer_event(vic_door_guard_obj, 0, timed_event_door_tamper);
+               return true;
+            end
+         end else if (obj_in_party(source_obj)) then begin
+            script_overrides;
+            return true;
+         end
+      end
+   end
+   return false;
+end
+
+procedure test_use_skill_tamper begin
+   if (action_being_used == SKILL_TRAPS) then begin
+      if (vic_door_guard_obj != 0) then begin
+         if (obj_can_see_obj(vic_door_guard_obj, source_obj)) then begin
+            if (source_obj == dude_obj) then begin
+               script_overrides;
+               flush_add_timer_event(vic_door_guard_obj, 0, timed_event_door_tamper);
+               return true;
+            end else if (obj_in_party(source_obj)) then begin
+               script_overrides;
+               flush_add_timer_event(vic_door_guard_obj, 0, timed_event_door_tamper);
+               return true;
+            end
+         end
+      end
+   end else if (action_being_used == SKILL_LOCKPICK) then begin
+      if (vic_door_guard_obj != 0) then begin
+         if ((obj_can_see_obj(vic_door_guard_obj, self_obj)) or (obj_can_see_obj(vic_door_guard_obj, source_obj))) then begin
+            if (((has_rep_slaver == false) and (see_vic(state_see_vic_okay) == false)) or (obj_is_locked(self_obj))) then begin
+               if (source_obj == dude_obj) then begin
+                  script_overrides;
+                  flush_add_timer_event(vic_door_guard_obj, 0, timed_event_door_lockpick);
+                  return true;
+               end else if (obj_in_party(source_obj)) then begin
+                  script_overrides;
+                  flush_add_timer_event(vic_door_guard_obj, 0, timed_event_door_lockpick);
+                  return true;
+               end
+            end
+         end
+      end
+   end
+   return false;
+end
+
+procedure check_unlock_door begin
+   if ((vic_free) and (metzger_dead == false)) then begin
+      obj_unlock(self_obj);
+   end
+end

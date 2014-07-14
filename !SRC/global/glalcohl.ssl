@@ -1,0 +1,47 @@
+procedure start;
+
+#include "..\headers\scripts.h" 
+
+variable do_once;
+variable count;
+variable game_timer;
+variable game_timer2;
+
+procedure start begin
+   if (metarule(22,0)) then return;
+	if (game_loaded) then begin
+	  	set_global_script_repeat(60);
+		set_global_script_type(3);
+		do_once := 0;
+		count := 0;
+		//display_msg("var: " + do_once);
+	end else begin
+      if (global_var(26) == 1) then begin
+	     if (do_once != 1) then begin
+	         do_once := 1;
+            game_timer := game_time;
+            game_timer2 := game_time;
+            //display_msg("var: " + do_once);
+            //display_msg("var: " + game_timer);
+            //display_msg("var: " + game_timer2);
+        end
+        if (((game_time - game_timer) >= ((2*(24*(60*(60*(10)))))))) then begin
+            if (in_world_map) then
+               force_encounter(0);
+            game_timer := game_time;
+            if (count > 0) then
+               display_msg(message_str(SCRIPT_OBJ_DUDE,800));
+            else
+               display_msg(message_str(SCRIPT_OBJ_DUDE,801));
+            count := count + 1;
+        end
+        if (((game_time - game_timer2) >= ((7*(24*(60*(60*(10)))))))) then begin
+            set_global_var(26,0);
+            set_critter_stat(dude_obj, 1, 2);
+            display_msg(message_str(SCRIPT_OBJ_DUDE,802));
+            if not(has_trait(2, dude_obj, 11)) then
+               hide_iface_tag(4);
+        end 
+      end
+   end
+end

@@ -1,0 +1,166 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Baltha's Wife
+        Location: Modoc
+        Description: She has sex with the guy who runs the tannery in Modoc.
+
+        Log: the following defines need to be changed:
+
+
+          Created: February 15, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                        SCRIPT_MCBALWIF
+#define TOWN_REP_VAR                GVAR_TOWN_REP_MODOC
+
+#include "..\headers\command.h"
+#include "..\headers\modoc.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure combat_p_proc;
+
+// dialog nodes
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+
+procedure Node999;                                      // This is the do nothing node
+procedure Node998;                                      // This Node is Always Combat
+
+#define LVAR_Flags                        (5)
+#define LVAR_Home_Tile                    (6)
+#define LVAR_Home_Rotation                (7)
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+procedure map_enter_p_proc begin
+   match_dude_elevation;
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_local_var(LVAR_Home_Tile, self_tile);
+         set_local_var(LVAR_Home_Rotation, self_cur_rot);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+      end else if (jonny_arriving_at_home) then begin
+         if (self_tile != 14120) then begin
+            critter_attempt_placement(self_obj, 14120, self_elevation);
+         end
+         Face_Critter(dude_obj,self_obj);
+         Face_Critter(self_obj,dude_obj);
+      end
+   end
+end
+
+
+procedure combat_p_proc begin
+   if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
+   end
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if ((hostile) or (dude_enemy_modoc)) then begin
+         self_attack_dude;
+      end
+   end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
+      animate_move_to_tile(local_var(LVAR_Home_Tile));
+   end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
+      animate_rotation(local_var(LVAR_Home_Rotation));
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_enemy_modoc;
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   if (jonny_dead) then begin
+      call Node001;
+   end else if (jonny_at_home) then begin
+      call Node004;
+   end else if (jonny_seed_active) then begin
+      //added by killap
+      if (gave_jonny_gun) and not(jonny_known) then begin
+         call Node001;
+      end else
+      //end added
+      if (jonny_known) then begin
+         call Node003;
+      end else begin
+         call Node002;
+      end
+   end else begin
+      call Node001;
+   end
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(150);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(151 + (jonny_at_home));
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+// dialog action functions
+procedure Node999 begin
+  // do absolutely everything that pertains to nothing
+end
+procedure Node998 begin
+   set_hostile;
+end
+
+procedure Node001 begin
+   floater_rand(100, 103);
+end
+procedure Node002 begin
+   floater(110);
+end
+procedure Node003 begin
+   floater(120);
+end
+procedure Node004 begin
+   floater(121);
+end

@@ -1,0 +1,120 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+//#include "..\headers\<TownName.h>"
+
+#define NAME                    SCRIPT_ECGRUNDE
+
+#include "..\headers\command.h"
+#include "..\headers\base.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+variable setup_attack;
+
+#define LVAR_Flags                     (0)
+
+#define grundel_attacked_bit           bit_10
+
+#define grundel_attacked               lvar_bit(LVAR_Flags, grundel_attacked_bit)
+#define set_grundel_attacked           if (grundel_attacked == false) then begin       \
+                                          floater(110);                                \
+                                       end                                             \
+                                       set_lvar_bit_on(LVAR_Flags, grundel_attacked_bit)
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (combat_is_initialized == false) then begin
+      call Node001;
+   end
+   flush_add_timer_event_sec(self_obj, random(5, 15), fixed_param);
+end
+
+procedure map_enter_p_proc begin
+   if (map_first_run) then begin
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SUPER_MUTANT);
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SUPER_MUTANT);
+      flush_add_timer_event_sec(self_obj, random(5, 15), fixed_param);
+   end
+end
+
+procedure critter_p_proc begin
+   if ((self_can_see_dude) or (setup_attack)) then begin
+      if (grundel_attacked) then begin
+         self_attack_dude;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_grundel_attacked;
+      self_attack_dude;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_grundel_attacked;
+      self_attack_dude;
+   end
+end
+
+procedure talk_p_proc begin
+   set_grundel_attacked;
+   setup_attack := true;
+end
+
+procedure destroy_p_proc begin
+   inc_evil_critter
+end
+
+procedure Node998 begin
+end
+
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   floater_rand(100, 107);
+end

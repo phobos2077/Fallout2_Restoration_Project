@@ -1,0 +1,44 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+import variable becky_guard_obj;
+
+procedure def_pickup_p_proc;
+procedure def_talk_p_proc;
+procedure check_pickup;
+procedure do_talk_p_proc;
+
+procedure pickup_p_proc begin
+   call check_pickup;
+end
+
+procedure talk_p_proc begin
+   call do_talk_p_proc;
+end
+
+#define pickup_p_proc            def_pickup_p_proc
+#define talk_p_proc              def_talk_p_proc
+
+#include "..\generic\ziBlkJck.ssl"
+#include "..\headers\Den.h"
+
+#undef NAME
+#define NAME            SCRIPT_DCCRAPS
+
+procedure check_pickup begin
+   if ((source_obj == dude_obj) or (obj_in_party(source_obj))) then begin
+      check_catch_thief
+      if (caught_thief == false) then begin
+         call def_pickup_p_proc;
+      end
+   end
+end
+
+procedure do_talk_p_proc begin
+   if (player_has_destroyed_still) then begin
+      floater(100);
+   end else begin
+      call def_talk_p_proc;
+   end
+end

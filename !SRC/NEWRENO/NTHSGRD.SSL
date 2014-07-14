@@ -1,0 +1,71 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NEWRVB
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+#define LVAR_Flags               (0)
+
+#define said_message_bit         bit_10
+
+#define said_message             lvar_bit(LVAR_Flags, said_message_bit)
+#define set_said_message         set_lvar_bit_off(LVAR_Flags, said_message_bit)
+#define off_said_message         set_lvar_bit_on(LVAR_Flags, said_message_bit)
+
+/* Standard Script Procedures */
+
+procedure start;
+procedure spatial_p_proc;
+procedure map_update_p_proc;
+
+import variable salvatore_guard_obj;
+import variable salvatore_guard_1_obj;
+import variable salvatore_guard_2_obj;
+
+#define check_violate_mission                                                                      \
+         if (get_guard_assignment(guard_assignment_assigned)) then begin                           \
+            if (tile_distance(self_tile, dude_tile) <= safe_distance) then begin                   \
+               off_said_message;                                                                   \
+            end else if (tile_distance(self_tile, dude_tile) <= warn_distance) then begin          \
+               if ((said_message == false) and (salvatore_guard_obj != 0)) then begin              \
+                  set_said_message;                                                                \
+                  flush_add_timer_event(salvatore_guard_obj, 0, random(300, 302));                 \
+               end                                                                                 \
+            end else if (salvatore_guard_1_obj != 0) then begin                                    \
+               flush_add_timer_event(salvatore_guard_1_obj, 0, 350);                               \
+            end else if (salvatore_guard_2_obj != 0) then begin                                    \
+               flush_add_timer_event(salvatore_guard_2_obj, 0, 350);                               \
+            end else begin                                                                         \
+               helicopter_script_node998                                                           \
+            end                                                                                    \
+         end
+
+procedure start begin
+end
+
+procedure spatial_p_proc begin
+   if (source_obj == dude_obj) then begin
+      check_violate_mission
+   end
+end
+procedure map_update_p_proc begin
+   if (source_obj == dude_obj) then begin
+      check_violate_mission
+   end
+end

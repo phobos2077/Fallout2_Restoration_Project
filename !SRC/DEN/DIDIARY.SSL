@@ -1,0 +1,55 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Anna's Diary
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+#include "..\headers\Den.h"
+
+#define NAME                        SCRIPT_DIDIARY
+#define TOWN_REP_VAR                GVAR_TOWN_REP_THE_DEN
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_p_proc;
+
+procedure start begin
+end
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+procedure description_p_proc begin
+   if ((obj_is_carrying_obj_pid(dude_obj,PID_ANNA_DIARY))) then begin
+      //do nothing
+   end else begin
+      script_overrides;
+      display_msg(mstr(100));
+   end
+end
+procedure use_p_proc begin
+   script_overrides;
+   if (global_var(GVAR_PIP_BOY_ANNA_DIARY)) then begin
+      display_msg(mstr(102));
+   end else begin
+      set_global_var(GVAR_PIP_BOY_ANNA_DIARY,true);
+      display_msg(mstr(101));
+      give_xp(EXP_READ_ANNA_DIARY);
+   end
+end

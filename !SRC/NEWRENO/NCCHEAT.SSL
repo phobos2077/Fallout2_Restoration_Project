@@ -1,0 +1,337 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCCODY
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+procedure map_enter_p_proc begin
+   destroy_object(self_obj);
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+      end
+   end
+end
+
+procedure critter_p_proc begin
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+variable the_bit := 1;
+variable the_value := 1;
+   while (the_bit <= 32) do begin
+      debug_msg("#define bit_"+the_bit+"                        ("+the_value+")");
+      the_bit += 1;
+      the_value := the_value * 2;
+   end
+   start_dialog_at_node(Node001);
+end
+
+procedure destroy_p_proc begin
+   // ### inc__critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   // display_mstr(100); ***
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   // display_mstr_rand(,); ***
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+end
+procedure Node999 begin
+end
+/*
+#define is_insert_message(x)  ((x == ) or (x == ) or        \
+                               ((<= x) and (x <= )) or     \
+                               (x == ))
+*/
+
+procedure Node001 begin
+   Reply("WHAT CAN I CHEAT FOR YOU");
+   if (has_rep_childkiller == false) then begin
+      NOption("CHILDKILLER", Node002, 001);
+   end
+   if (has_rep_berserker == false) then begin
+      NOption("BESERKER", Node003, 001);
+   end
+   if (has_rep_slaver == false) then begin
+      NOption("SLAVER", Node004, 001);
+   end
+   if (dude_is_pornstar == false) then begin
+      NOption("PORN STAR", Node005, 001);
+   end
+   if (dude_is_prizefighter == false) then begin
+      NOption("PRIZEFIGHTER", Node013, 001);
+   end
+   NOption("MADE MAN", Node006, 001);
+   NOption("KARMA", Node007, 001);
+   NOption("FALLOUT 2 FLAGS", Node008, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node002 begin
+   set_global_var(GVAR_CHILDKILLER_REPUTATION, 2);
+   Reply("CHILDKILLER");
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node003 begin
+   give_berserker;
+   Reply("BESERKER");
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node004 begin
+   set_global_var(GVAR_REPUTATION_SLAVER, 1);
+   Reply("SLAVER");
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node005 begin
+   set_global_var(GVAR_NEW_RENO_PORN_STAR, random(1,24));
+   Reply("PORN STAR == " + porn_star_name);
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node006 begin
+   Reply("MADE MAN");
+   if (dude_family != family_salvatore) then begin
+      NOption("SALVATORE", Node009, 001);
+   end
+   if (dude_family != family_bishop) then begin
+      NOption("BISHOP", Node010, 001);
+   end
+   if (dude_family != family_mordino) then begin
+      NOption("MORDINO", Node012, 001);
+   end
+   if (dude_family != family_wright) then begin
+      NOption("WRIGHT", Node011, 001);
+   end
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node007 begin
+   Reply("KARMA == " + check_general_rep);
+   NOption("-100", Node023, 001);
+   NOption("+100", Node024, 001);
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node008 begin
+   Reply("FALLOUT 2 FLAGS");
+   if (Fallout2_vault13_looking == false) then begin
+      NOption("Fallout2_vault13_looking", Node014, 001);
+   end
+   if (Fallout2_vault13_location_known == false) then begin
+      NOption("Fallout2_vault13_location_known", Node015, 001);
+   end
+   if (Fallout2_vault13_found == false) then begin
+      NOption("Fallout2_vault13_found", Node016, 001);
+   end
+   if (Fallout2_vault13_entered == false) then begin
+      NOption("Fallout2_vault13_entered", Node017, 001);
+   end
+   if (Fallout2_tribe_kidnapped == false) then begin
+      NOption("Fallout2_tribe_kidnapped", Node018, 001);
+   end
+   if (Fallout2_fix_tanker == false) then begin
+      NOption("Fallout2_fix_tanker", Node019, 001);
+   end
+   if (Fallout2_tanker_known == false) then begin
+      NOption("Fallout2_tanker_known", Node020, 001);
+   end
+   if (Fallout2_tanker_fixed == false) then begin
+      NOption("Fallout2_tanker_fixed", Node021, 001);
+   end
+   if (Fallout2_enclave_destroyed == false) then begin
+      NOption("Fallout2_enclave_destroyed", Node022, 001);
+   end
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node009 begin
+   set_global_var(GVAR_NEW_RENO_MADE_MAN, (family_salvatore * 100) + random(1, 15));
+   Reply("SALVATORE == " + dude_family_name + " / " + made_man_name);
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node010 begin
+   set_global_var(GVAR_NEW_RENO_MADE_MAN, (family_bishop * 100) + random(1, 15));
+   Reply("BISHOP == " + dude_family_name + " / " + made_man_name);
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node011 begin
+   set_global_var(GVAR_NEW_RENO_MADE_MAN, (family_wright * 100) + random(1, 15));
+   Reply("WRIGHT == " + dude_family_name + " / " + made_man_name);
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node012 begin
+   set_global_var(GVAR_NEW_RENO_MADE_MAN, (family_mordino * 100) + random(1, 15));
+   Reply("MORDINO == " + dude_family_name + " / " + made_man_name);
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node013 begin
+   set_global_var(GVAR_NEW_RENO_PRIZEFIGHTER, random(1,15));
+   set_global_var(GVAR_NEW_RENO_HAS_REP_PRIZEFIGHTER, 1);
+   Reply("PRIZEFIGHTER == " + prizefighter_name);
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node014 begin
+   force_f2(f2_state_v13_looking);
+   Reply("f2_state_v13_looking");
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node015 begin
+   force_f2(f2_state_v13_known);
+   Reply("f2_state_v13_known");
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node016 begin
+   force_f2(f2_state_v13_found);
+   Reply("f2_state_v13_found");
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node017 begin
+   force_f2(f2_state_v13_entered);
+   Reply("f2_state_v13_entered");
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node018 begin
+   force_f2(f2_state_tribe_kidnapped);
+   Reply("f2_state_tribe_kidnapped");
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node019 begin
+   force_f2(f2_state_fix_tanker);
+   Reply("f2_state_fix_tanker");
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node020 begin
+   force_f2(f2_state_tanker_fix_known);
+   Reply("f2_state_tanker_fix_known");
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node021 begin
+   force_f2(f2_state_tanker_fixed);
+   Reply("f2_state_tanker_fixed");
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node022 begin
+   force_f2(f2_state_enclave_destroyed);
+   Reply("f2_state_enclave_destroyed");
+   NOption("SOMETHING ELSE", Node001, 001);
+   NOption("EXIT", Node999, 001);
+end
+procedure Node023 begin
+   inc_general_rep(-100);
+   call Node007;
+end
+procedure Node024 begin
+   inc_general_rep(100);
+   call Node007;
+end

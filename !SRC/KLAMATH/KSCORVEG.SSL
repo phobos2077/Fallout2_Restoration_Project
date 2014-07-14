@@ -1,0 +1,177 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Klamath Corvega
+        Location: Klamath
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: April 18, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_KSCORVEG
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_KLAMATH)
+#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
+
+#include "..\headers\command.h"
+
+#define Vault_Known             (1)     // Temp Until get command from Jesse
+#define Visited_City            (1)     // Temp Until get command from Jesse
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure repair_it;
+procedure zamin_it;
+procedure Node999;                                      // This Node is Always Ending
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Part_Given                 (0)
+
+//#define LVAR_Center                     (13) //is Torr at center of map
+//#define LVAR_Edge                       (14) //is Torr at edge
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable item;
+variable repair_check;
+variable per_check;
+variable Tool;
+variable skill_used;
+
+procedure Node999 begin
+end
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+/*
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+end
+
+procedure map_update_p_proc begin
+end
+
+procedure critter_p_proc begin
+end
+
+procedure damage_p_proc begin
+end
+
+procedure pickup_p_proc begin
+end
+*/
+procedure use_p_proc begin
+   if (local_var(LVAR_Part_Given) == 0) then begin
+      set_local_var(LVAR_Part_Given,1);
+      item:=create_object(PID_CAR_FUEL_INJECTION,0,0);
+      add_obj_to_inven(dude_obj,item);
+      display_msg(mstr(130));
+      give_xp(EXP_KC_FIND_CAR_PART); //killap's fix: changed from give_exp_points
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   script_overrides;
+
+   Tool:=obj_pid(obj_being_used_with);
+   if (Tool == PID_CAR_FUEL_INJECTION) then begin
+   //make a repair roll
+      call repair_it;
+   end
+end
+
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   call zamin_it;
+   //display_msg(mstr(111)); //NEED TO ADD SKILL ROLL FOR THIS
+end
+
+procedure use_skill_on_p_proc begin
+   script_overrides;
+
+   skill_used:=action_being_used;
+   if (skill_used == SKILL_REPAIR) then
+      call repair_it;
+end
+
+procedure repair_it begin
+   repair_check:=roll_vs_skill(dude_obj,SKILL_REPAIR,0);
+   if (is_success(repair_check)) then begin
+      if (is_critical(repair_check)) then
+         display_msg(mstr(120)); //critical success
+      else
+         display_msg(mstr(121));
+   end
+   else begin
+      if (is_critical(repair_check)) then
+         display_msg(mstr(122)); //critical failure --//changed from 124 by killap
+      else
+         display_msg(mstr(123));
+   end
+end
+
+procedure zamin_it begin
+   per_check:=do_check(dude_obj, STAT_pe, 0);
+   if (local_var(LVAR_Part_Given) == 0) then begin //added check by killap
+      if (is_success(per_check)) then begin
+         if (is_critical(per_check)) then
+            display_msg(mstr(110)); //critical success
+         else
+            display_msg(mstr(111));
+      end
+      else begin
+         if (is_critical(per_check)) then
+            display_msg(mstr(113)); //critical failure
+         else
+            display_msg(mstr(112));
+      end
+   end
+end
+
+//xxxxxxxxxxxxxxxxxxxx

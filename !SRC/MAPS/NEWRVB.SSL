@@ -1,0 +1,78 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Vertibird Map
+        Location: new Reno
+        Description:
+
+        Log:
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_NEWRVB
+
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure map_exit_p_proc;
+
+export variable salvatore_guard_1_obj;
+export variable salvatore_guard_2_obj;
+export variable salvatore_guard_obj;
+export variable power_armor_1_obj;
+export variable power_armor_2_obj;
+export variable crate_obj;
+export variable vertibird_obj;
+export variable handy_obj;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+
+      if (map_first_run) then begin
+         display_mstr(100);
+      end
+      if (night == false) then begin
+         game_time_advance_hour(0000);
+      end else begin
+         game_time_advance(ONE_GAME_MINUTE * 15); //added by killap - takes time
+      end
+      if (get_guard_assignment(guard_assignment_assigned)) then begin
+         override_map_start_hex(hs_assignment_tile, 0, 5);
+      end else begin
+         override_map_start_hex(21932, 0, 0);
+      end
+   end
+   set_map_exit_tiles(31542,0);
+   Lighting;
+end
+
+procedure map_exit_p_proc begin
+   game_time_advance(ONE_GAME_MINUTE * 15); //added by killap - takes time
+   set_saw_secret_trade;
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+end

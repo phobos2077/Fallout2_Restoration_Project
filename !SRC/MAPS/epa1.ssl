@@ -1,0 +1,120 @@
+/* Include Files */
+
+#include "..\headers\define.h"
+#include "..\headers\epa.h"
+#include "..\headers\updatmap.h"
+
+
+#define NAME                    SCRIPT_EPA1
+
+#include "..\headers\command.h"
+
+#define Create_Car(Hex_Num,Elevation)
+
+procedure start;
+procedure map_exit_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure doRepostion;
+
+procedure start
+begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then begin
+      call doRepostion;
+   end 
+end 
+
+procedure doRepostion begin
+   //game_time_advance(ONE_GAME_MINUTE);
+   
+   tile_set_center(19553);
+   debug_msg("ECKAGA1: tile_set_center(dude_obj): " + tile_set_center(19553)); //screen will recenter on kaga
+   
+   tile_set_center(tile_num(dude_obj));
+   debug_msg("ECKAGA1: tile_set_center(dude_obj): " + tile_set_center(tile_num(dude_obj))); //screen will recenter on kaga
+   
+   //debug_msg("ECKAGA1: tile_set_center(16081): " + tile_set_center(tile_num(dude_obj))); //screen will recenter on kaga
+end
+
+
+procedure map_enter_p_proc begin
+   override_map_start_hex(33688,0,4);
+   
+   if (map_first_run) then begin
+       display_msg(message_str(NAME, 100));
+   end
+   //added by killap - prevent car from disappearing if the car runs out of gas while on the town circle
+   if ((metarule(30, 0) == 21) and (cur_map_index != MAP_CAR_DESERT) and (car_out_of_fuel)) then begin
+      set_global_var(GVAR_CAR_PLACED_TILE, 0);
+      Create_Car(CAR_EPA_HEX,CAR_EPA_ELEV)
+      if (tile_contains_pid_obj(CAR_EPA_HEX, CAR_EPA_ELEV, PID_DRIVABLE_CAR) != 0) then begin
+         Create_Trunk(CAR_EPA_HEX,CAR_EPA_ELEV)
+      end 
+   end else 
+      Check_Create_Car(CAR_EPA_HEX, CAR_EPA_ELEV)
+   //end added
+   
+   /*if ((map_var(MVAR_Made_Car) == 0) and (global_var(GVAR_PLAYER_GOT_CAR) != 0) and (car_current_town == AREA_EPA)) then begin
+       set_map_var(MVAR_Made_Car,1);
+       Create_Car(CAR_EPA_HEX, CAR_EPA_ELEV)
+   end
+   else if ((map_var(MVAR_Made_Car) == 1) and (car_current_town != AREA_EPA)) then begin
+         set_map_var(MVAR_Made_Car,0);
+         Dest_Car(CAR_EPA_HEX, CAR_EPA_ELEV)
+   end*/
+   
+   /*if (global_var(GVAR_LOAD_MAP_INDEX)==4) then begin
+         //debug_msg("ECKAGA1: tile_set_center(15684): " + tile_set_center(15684)); //screen will recenter
+         override_map_start_hex(15684,2,0);
+         move_to(dude_obj, 15684, 2);
+         set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   end
+   
+   else if (global_var(GVAR_LOAD_MAP_INDEX)==5) then begin
+         //debug_msg("ECKAGA1: tile_set_center(18757): " + tile_set_center(18757)); //screen will recenter
+         
+         //if (not obj_on_screen(dude_obj)) then
+            //debug_msg("ECKAGA1: tile_set_center(16081): " + tile_set_center(tile_num(dude_obj))); //screen will recenter on kaga
+         
+         override_map_start_hex(18757,2,2);
+         move_to(dude_obj, 18757, 2);
+         set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   end*/
+   
+   if ((cur_map_index == MAP_EPA_SUBLEVELS_1) and (elevation(dude_obj) == 2)) then begin
+      Lighting;
+   end else if (elevation(dude_obj) == 0) then begin
+      Lighting;
+   end else if (((elevation(dude_obj) == 1) or (elevation(dude_obj) == 2)) and (global_var(GVAR_EPALIGHTING_GEN)!= 4 ) ) then begin
+      Cavern_Lighting;
+   end else begin
+      Military_Base_Lighting;
+   end
+   
+   //add_timer_event(self_obj, game_ticks(0), 1);
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+end
+
+procedure map_update_p_proc begin
+
+
+   //if ( (elevation(dude_obj) == 2) and (tile_in_tile_rect(19490, 19431, 32089, 31840, dude_tile)) ) then begin //day/night cycle on the Greenhouse level
+   if ((cur_map_index == MAP_EPA_SUBLEVELS_1) and (elevation(dude_obj) == 2)) then begin
+      Lighting;
+   end else if (elevation(dude_obj) == 0) then begin
+      Lighting;
+   end else if (((elevation(dude_obj) == 1) or (elevation(dude_obj) == 2)) and (global_var(GVAR_EPALIGHTING_GEN)!= 4 ) ) then begin
+      Cavern_Lighting;
+   end else begin
+      Military_Base_Lighting;
+   end
+   
+end
+ 
+procedure map_exit_p_proc
+begin
+ 
+end

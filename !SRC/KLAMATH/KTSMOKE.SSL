@@ -1,0 +1,23 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_KTSMOKE
+#include "..\headers\command.h"
+
+procedure spatial_p_proc;
+procedure start;
+
+#define LVAR_herebefore (0)
+
+procedure start begin
+end
+
+procedure spatial_p_proc begin
+   if ( (source_obj == dude_obj) and (local_var(LVAR_herebefore) == 0) ) then begin
+      inc_local_var(LVAR_herebefore);
+      display_msg(mstr(100));
+   end
+end

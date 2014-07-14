@@ -1,0 +1,217 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: HSPurify
+        Location: Broken Hills
+        Description: Broken Hills Air Purifier
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: August 19, 1998
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\Broken2.h"
+
+#define NAME                    SCRIPT_HSPURIFY
+
+#include "..\headers\command.h"
+#include "..\headers\broken.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure use_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node999;                                      // This Node is Always Ending
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+import variable broken_hills_cavein;
+
+/* Local variables which do not need to be saved between map changes. */
+variable item;
+variable Tool;
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   add_timer_event( self_obj, game_ticks(6), 1 );
+
+   //added by killap - expansion
+   if ( global_var(GVAR_BH_MINE) >= MINE_FIXED_CASH ) then begin
+      reg_anim_begin();
+      reg_anim_animate_forever(self_obj, ANIM_stand);
+      reg_anim_end();
+   end
+   add_timer_event(self_obj, 1, 2);
+   //end added
+end
+
+//added by killap - expansion
+procedure map_update_p_proc begin
+   if ((combat_is_initialized == 0) and ( global_var(GVAR_BH_MINE) >= MINE_FIXED_CASH ) ) then
+   begin
+      reg_anim_begin();
+      reg_anim_animate_forever(self_obj, ANIM_stand);
+      reg_anim_end();
+   end
+end
+//end added
+
+procedure timed_event_p_proc begin
+   if( fixed_param == 1 ) then begin
+      if( global_var(GVAR_BH_MINE) >= MINE_FIXED_CASH ) then
+         floater( 134 );
+      else
+         floater( random(131, 133) );
+      add_timer_event( self_obj, game_ticks(6), 1 );
+   //added by killap - expansion
+   end else if( fixed_param == 2 ) then begin
+      if ( ( global_var(GVAR_BH_MINE) >= MINE_FIXED_CASH ) and (anim_busy(self_obj) == false) and (combat_is_initialized == 0) ) then begin
+         reg_anim_begin();
+         reg_anim_animate_forever(self_obj, ANIM_stand);
+         reg_anim_end();
+      end
+      add_timer_event(self_obj, 1, 2);   
+   end
+   //end added
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure use_p_proc begin
+   //GetReaction;
+ end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   if( global_var(GVAR_BH_MINE) >= MINE_FIXED_CASH ) then
+      display_msg(mstr(102));
+   else
+      display_msg(mstr(101));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+   //if (action_being_used == SKILL_STEAL) then begin
+      //if (is_success(roll_vs_skill(dude_obj,action_being_used,0))) then begin
+      //end
+   //end
+end
+
+procedure use_obj_on_p_proc begin
+
+//do I need another state for mine such as mine_fixed?
+   Tool:=obj_pid(obj_being_used_with);
+
+   // Check to see if the player is trying to fix the machine.
+   if (Tool == PID_MINE_PART) then begin
+      script_overrides;
+
+      if( global_var(GVAR_BH_MINE) >= MINE_FIXED_CASH ) then begin
+         script_overrides;
+         display_msg( mstr(130) );
+      end
+      else begin
+         item := obj_carrying_pid_obj(dude_obj, PID_MINE_PART);
+         rm_obj_from_inven(dude_obj, item);
+         destroy_object(item);
+         display_msg( mstr(120) );
+         give_xp( EXP_PURIFIER_FIXED );
+         set_global_var( GVAR_TOWN_REP_BROKEN_HILLS, (global_var(GVAR_TOWN_REP_BROKEN_HILLS) + REP_TOWN_PURIFIER_FIXED ) );
+         // Set the fixed flag based on whether or not the player requested cash or not.
+         if( ( global_var(GVAR_BH_MINE) == MINE_HAS_PARTS_CASH ) or ( global_var(GVAR_BH_MINE) == MINE_REWARD_CASH ) ) then
+            set_global_var( GVAR_BH_MINE, MINE_FIXED_CASH );
+         else
+            set_global_var( GVAR_BH_MINE, MINE_FIXED_FREE );
+      end
+   end
+   // Check to see if the player is trying to blow up the machine.
+   else if(Tool == PID_EXPLOSIVE_SWITCH) then begin
+      script_overrides;
+      item := obj_carrying_pid_obj(dude_obj, PID_EXPLOSIVE_SWITCH);
+      rm_obj_from_inven(dude_obj, item);
+      destroy_object(item);
+
+      if( ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_BROKEN_DOUBLECROSS ) or
+          ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_BROKEN_HERO ) ) then
+         display_msg( mstr(129) );
+      else begin
+         display_msg( mstr(125) );
+         give_xp( EXP_PURIFIER_DESTROYED );
+         set_global_var( GVAR_TOWN_REP_BROKEN_HILLS, (global_var(GVAR_TOWN_REP_BROKEN_HILLS) + REP_TOWN_PURIFIER_DESTROYED ) );
+         inc_general_rep( REP_BONUS_PURIFIER_DESTROYED );
+         set_global_var( GVAR_BH_CONSPIRACY, CONSPIRACY_SUCCESSFUL );
+
+         gfade_out(600);
+         set_map_var(MVAR_Blew_Up_Purifier, 1);
+         load_map( MAP_BROKEN_HILLS2, 0 );
+      end
+   end
+end
+
+procedure Node999 begin
+end

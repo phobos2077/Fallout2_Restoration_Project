@@ -1,0 +1,55 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: SFSHUTL1
+        Location: Entrance to Hubologist base (where the shuttle is)
+        Description: This is the Map Script for the Klamath mall
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: January 23, 2006 - killap
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\SANFRAN.H"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_SFSHUTL1
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   if (map_first_run) then begin
+   end
+
+   Lighting;
+
+
+
+end
+
+procedure map_update_p_proc begin
+      Lighting;
+end

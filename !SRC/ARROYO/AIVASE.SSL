@@ -1,0 +1,111 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Vase
+        Location: Arroyo
+        Description: Vase in Arroyo Hut that contains money and will lower the player's Karma
+                     should he steal from the vase
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\ArVillag.h"
+
+#define NAME                    SCRIPT_AIVASE
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+/* Script Specific Procedure Calls */
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Placed_Money               (0)
+#define LVAR_Lowered_Karma              (1)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   /*if (local_var(LVAR_Placed_Money) == 0) then begin
+       set_local_var(LVAR_Placed_Money,1);
+       item_caps_adjust(self_obj,100);
+   end --comment out by killap; money already placed on the map itself*/
+end
+
+procedure map_update_p_proc begin
+   if ((item_caps_total(self_obj) < 100) and (local_var(LVAR_Lowered_Karma) == 0)) then begin
+       display_msg(g_mstr(30000)); //added by killap - expansion
+       set_local_var(LVAR_Lowered_Karma,1);
+       inc_general_rep(REP_BONUS_ARROYO_MONEY_THEFT);
+   end
+end
+
+procedure damage_p_proc begin
+   destroy_object(self_obj);
+end
+
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+//xxxxxxxxxxxxxxxxxxxx

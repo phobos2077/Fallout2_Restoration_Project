@@ -1,0 +1,64 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+#include "..\headers\define.h"
+#include "..\headers\ncr1.h"
+
+#define NAME                       SCRIPT_SIDSHELF
+
+#include "..\headers\command.h"
+#include "..\headers\ncr.h"
+
+/* Standard script procedures */
+
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+/* Saved Local vars */
+
+/* Non saved locals */
+
+/* Imported vars */
+import variable i_doc_shelf_obj;
+import variable i_doc_shelf_notify;
+
+
+procedure start begin
+   i_doc_shelf_obj := self_obj;
+end
+
+procedure use_p_proc begin
+   i_doc_shelf_notify := 1;
+end
+
+procedure description_p_proc begin
+end
+
+procedure use_skill_on_p_proc begin
+   call use_p_proc;
+end
+
+procedure use_obj_on_p_proc begin
+   call use_p_proc;
+end
+
+procedure damage_p_proc begin
+end
+
+procedure look_at_p_proc begin
+end
+
+procedure map_enter_p_proc begin
+end
+
+procedure map_update_p_proc begin
+   i_doc_shelf_obj := self_obj; //added by killap
+end

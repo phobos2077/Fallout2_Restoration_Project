@@ -1,0 +1,55 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Arroyo Caves
+        Location: Arroyo
+        Description: This is the Map Script for the Caves in Arroyo
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+//#include "..\headers\enctrp.h"
+
+#define NAME                    SCRIPT_ENCDET
+
+#include "..\headers\command.h"
+#include "..\headers\enc.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+export variable Frank_Ptr;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   Enclave_Lighting;
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+end
+
+procedure map_update_p_proc begin
+   Enclave_Lighting;
+   check_countdown
+   check_poisoning;
+end

@@ -1,0 +1,446 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\define.h"
+//#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\<TownMapName.h>"
+
+#define NAME                    SCRIPT_ABBEY          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\command.h"
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\ModReact.h"
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+export variable abbey_bill_box_obj;
+
+procedure start
+begin
+end
+
+procedure map_enter_p_proc
+begin
+  if (metarule(14, 0)) then
+    display_msg(message_str(SCRIPT_ABBEY, 100));
+  debug_msg("Check_Create_Car(" + 23520 + "," + 0 + ")");
+  if (not metarule(22, 0)) then
+  begin
+    if (global_var(GVAR_PLAYER_GOT_CAR) != 0) then
+    begin
+      debug_msg("car_current_town == " + metarule(30, 0) + " / map_get_load_area == " + metarule3(111, 0, 0, 0));
+      if ((metarule(30, 0) == metarule3(111, 0, 0, 0)) or ((26 <= metarule(30, 0)) and (metarule(30, 0) <= 29) and (metarule3(111, 0, 0, 0) == -1))) then
+      begin
+        debug_msg("Place_Car(" + 23520 + "," + 0 + ")");
+        debug_msg("   GVAR_CAR_PLACED_TILE == " + global_var(GVAR_CAR_PLACED_TILE));
+        debug_msg("   Car_At_Loc == " + (tile_contains_pid_obj(23520, 0, 33555441) != 0));
+        if ((global_var(GVAR_CAR_PLACED_TILE) <= 0) or (23520 == global_var(GVAR_CAR_PLACED_TILE))) then
+        begin
+          set_global_var(GVAR_CAR_PLACED_TILE, 23520);
+          if (not(tile_contains_pid_obj(23520, 0, 33555441) != 0)) then
+          begin
+            Scenery_Creation := create_object_sid(PID_DRIVABLE_CAR, 23520, 0, 304);
+            Scenery_Creation_Hex := 23520;
+            Scenery_Creation_Count := 0;
+            while (Scenery_Creation_Count < 2) do
+            begin
+              Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 1, 1);
+              Scenery_Creation := create_object_sid(PID_BLOCKING_HEX, Scenery_Creation_Hex, 0, -1);
+              Scenery_Creation_Count := Scenery_Creation_Count + 1;
+            end
+            Scenery_Creation_Count := 0;
+            while (Scenery_Creation_Count < 2) do
+            begin
+              Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 2, 1);
+              Scenery_Creation := create_object_sid(PID_BLOCKING_HEX, Scenery_Creation_Hex, 0, -1);
+              Scenery_Creation_Count := Scenery_Creation_Count + 1;
+            end
+            Scenery_Creation_Count := 0;
+            while (Scenery_Creation_Count < 2) do
+            begin
+              Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 3, 1);
+              Scenery_Creation := create_object_sid(PID_BLOCKING_HEX, Scenery_Creation_Hex, 0, -1);
+              Scenery_Creation_Count := Scenery_Creation_Count + 1;
+            end
+            Scenery_Creation_Count := 0;
+            while (Scenery_Creation_Count < 2) do
+            begin
+              Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 4, 1);
+              Scenery_Creation := create_object_sid(PID_BLOCKING_HEX, Scenery_Creation_Hex, 0, -1);
+              Scenery_Creation_Count := Scenery_Creation_Count + 1;
+            end
+            Scenery_Creation_Count := 0;
+            while (Scenery_Creation_Count < 1) do
+            begin
+              Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 5, 1);
+              Scenery_Creation := create_object_sid(PID_BLOCKING_HEX, Scenery_Creation_Hex, 0, -1);
+              Scenery_Creation_Count := Scenery_Creation_Count + 1;
+            end
+            Scenery_Creation_Count := 0;
+            while (Scenery_Creation_Count < 1) do
+            begin
+              Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 4, 1);
+              Scenery_Creation := create_object_sid(PID_BLOCKING_HEX, Scenery_Creation_Hex, 0, -1);
+              Scenery_Creation_Count := Scenery_Creation_Count + 1;
+            end
+            Scenery_Creation_Count := 0;
+            while (Scenery_Creation_Count < 1) do
+            begin
+              Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 5, 1);
+              Scenery_Creation := create_object_sid(PID_BLOCKING_HEX, Scenery_Creation_Hex, 0, -1);
+              Scenery_Creation_Count := Scenery_Creation_Count + 1;
+            end
+            Scenery_Creation_Count := 0;
+            while (Scenery_Creation_Count < 1) do
+            begin
+              Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 4, 1);
+              Scenery_Creation := create_object_sid(PID_BLOCKING_HEX, Scenery_Creation_Hex, 0, -1);
+              Scenery_Creation_Count := Scenery_Creation_Count + 1;
+            end
+            Scenery_Creation_Count := 0;
+            while (Scenery_Creation_Count < 1) do
+            begin
+              Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 5, 1);
+              Scenery_Creation := create_object_sid(PID_BLOCKING_HEX, Scenery_Creation_Hex, 0, -1);
+              Scenery_Creation_Count := Scenery_Creation_Count + 1;
+            end
+            Scenery_Creation_Count := 0;
+            while (Scenery_Creation_Count < 1) do
+            begin
+              Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 4, 1);
+              Scenery_Creation := create_object_sid(PID_BLOCKING_HEX, Scenery_Creation_Hex, 0, -1);
+              Scenery_Creation_Count := Scenery_Creation_Count + 1;
+            end
+            Scenery_Creation_Count := 0;
+            while (Scenery_Creation_Count < 1) do
+            begin
+              Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 0, 1);
+              Scenery_Creation := create_object_sid(PID_BLOCKING_HEX, Scenery_Creation_Hex, 0, -1);
+              Scenery_Creation_Count := Scenery_Creation_Count + 1;
+            end
+            Scenery_Creation_Count := 0;
+            while (Scenery_Creation_Count < 1) do
+            begin
+              Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 5, 1);
+              Scenery_Creation := create_object_sid(PID_BLOCKING_HEX, Scenery_Creation_Hex, 0, -1);
+              Scenery_Creation_Count := Scenery_Creation_Count + 1;
+            end
+            Scenery_Creation_Count := 0;
+            while (Scenery_Creation_Count < 2) do
+            begin
+              Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 0, 1);
+              Scenery_Creation := create_object_sid(PID_BLOCKING_HEX, Scenery_Creation_Hex, 0, -1);
+              Scenery_Creation_Count := Scenery_Creation_Count + 1;
+            end
+            Scenery_Creation_Count := 0;
+            while (Scenery_Creation_Count < 1) do
+            begin
+              Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 1, 1);
+              Scenery_Creation := create_object_sid(PID_BLOCKING_HEX, Scenery_Creation_Hex, 0, -1);
+              Scenery_Creation_Count := Scenery_Creation_Count + 1;
+            end
+            Scenery_Creation_Count := 0;
+            while (Scenery_Creation_Count < 1) do
+            begin
+              Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 2, 1);
+              Scenery_Creation := create_object_sid(PID_BLOCKING_HEX, Scenery_Creation_Hex, 0, -1);
+              Scenery_Creation_Count := Scenery_Creation_Count + 1;
+            end
+          end
+        end
+        if (tile_contains_pid_obj(23520, 0, 33555441) != 0) then
+        begin
+          if (not(tile_contains_pid_obj(tile_num_in_direction(tile_num_in_direction(23520, 5, 2), 4, 1), 0, 455) != 0)) then
+          begin
+            debug_msg("placing trunk:");
+            Scenery_Creation_Ptr := 0;
+            if (party_member_obj(455) != 0) then
+              Scenery_Creation_Ptr := party_member_obj(455);
+            else if (global_var(GVAR_PLAYER_GOT_CAR) == 0) then
+              Scenery_Creation_Ptr := create_object_sid(PID_CAR_TRUNK, 0, 0, 920);
+            if (Scenery_Creation_Ptr != 0) then
+            begin
+              Scenery_Creation_Hex := tile_num_in_direction(tile_num_in_direction(23520, 5, 2), 4, 1);
+              move_to(Scenery_Creation_Ptr, Scenery_Creation_Hex, 0);
+              Scenery_Creation_Count := 0;
+              while (Scenery_Creation_Count < 1) do
+              begin
+                Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 1, 1);
+                Scenery_Creation := create_object_sid(PID_BLOCKING_HEX, Scenery_Creation_Hex, 0, -1);
+                Scenery_Creation_Count := Scenery_Creation_Count + 1;
+              end
+              Scenery_Creation_Count := 0;
+              while (Scenery_Creation_Count < 1) do
+              begin
+                Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 2, 1);
+                Scenery_Creation := create_object_sid(PID_BLOCKING_HEX, Scenery_Creation_Hex, 0, -1);
+                Scenery_Creation_Count := Scenery_Creation_Count + 1;
+              end
+            end
+            else
+              debug_msg("WE HAD AN ERROR WITH THE TRUNK PTR, OHHH FUCK");
+          end
+        end
+      end
+      else if (tile_contains_pid_obj(23520, 0, 33555441) != 0) then
+      begin
+        debug_msg("Dest_Car_Loc(" + 23520 + "," + 0 + ")");
+        Scenery_Creation_Ptr := tile_contains_pid_obj(23520, 0, 33555441);
+        if (Scenery_Creation_Ptr != 0) then
+        begin
+          destroy_object(Scenery_Creation_Ptr);
+          Scenery_Creation_Hex := 23520;
+          Scenery_Creation_Count := 0;
+          while (Scenery_Creation_Count < 2) do
+          begin
+            Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 1, 1);
+            Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, 0, 33554499);
+            destroy_object(Scenery_Creation_Ptr);
+            Scenery_Creation_Count := Scenery_Creation_Count + 1;
+          end
+          Scenery_Creation_Count := 0;
+          while (Scenery_Creation_Count < 2) do
+          begin
+            Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 2, 1);
+            Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, 0, 33554499);
+            destroy_object(Scenery_Creation_Ptr);
+            Scenery_Creation_Count := Scenery_Creation_Count + 1;
+          end
+          Scenery_Creation_Count := 0;
+          while (Scenery_Creation_Count < 2) do
+          begin
+            Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 3, 1);
+            Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, 0, 33554499);
+            destroy_object(Scenery_Creation_Ptr);
+            Scenery_Creation_Count := Scenery_Creation_Count + 1;
+          end
+          Scenery_Creation_Count := 0;
+          while (Scenery_Creation_Count < 2) do
+          begin
+            Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 4, 1);
+            Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, 0, 33554499);
+            destroy_object(Scenery_Creation_Ptr);
+            Scenery_Creation_Count := Scenery_Creation_Count + 1;
+          end
+          Scenery_Creation_Count := 0;
+          while (Scenery_Creation_Count < 1) do
+          begin
+            Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 5, 1);
+            Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, 0, 33554499);
+            destroy_object(Scenery_Creation_Ptr);
+            Scenery_Creation_Count := Scenery_Creation_Count + 1;
+          end
+          Scenery_Creation_Count := 0;
+          while (Scenery_Creation_Count < 1) do
+          begin
+            Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 4, 1);
+            Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, 0, 33554499);
+            destroy_object(Scenery_Creation_Ptr);
+            Scenery_Creation_Count := Scenery_Creation_Count + 1;
+          end
+          Scenery_Creation_Count := 0;
+          while (Scenery_Creation_Count < 1) do
+          begin
+            Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 5, 1);
+            Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, 0, 33554499);
+            destroy_object(Scenery_Creation_Ptr);
+            Scenery_Creation_Count := Scenery_Creation_Count + 1;
+          end
+          Scenery_Creation_Count := 0;
+          while (Scenery_Creation_Count < 1) do
+          begin
+            Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 4, 1);
+            Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, 0, 33554499);
+            destroy_object(Scenery_Creation_Ptr);
+            Scenery_Creation_Count := Scenery_Creation_Count + 1;
+          end
+          Scenery_Creation_Count := 0;
+          while (Scenery_Creation_Count < 1) do
+          begin
+            Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 5, 1);
+            Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, 0, 33554499);
+            destroy_object(Scenery_Creation_Ptr);
+            Scenery_Creation_Count := Scenery_Creation_Count + 1;
+          end
+          Scenery_Creation_Count := 0;
+          while (Scenery_Creation_Count < 1) do
+          begin
+            Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 4, 1);
+            Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, 0, 33554499);
+            destroy_object(Scenery_Creation_Ptr);
+            Scenery_Creation_Count := Scenery_Creation_Count + 1;
+          end
+          Scenery_Creation_Count := 0;
+          while (Scenery_Creation_Count < 1) do
+          begin
+            Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 0, 1);
+            Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, 0, 33554499);
+            destroy_object(Scenery_Creation_Ptr);
+            Scenery_Creation_Count := Scenery_Creation_Count + 1;
+          end
+          Scenery_Creation_Count := 0;
+          while (Scenery_Creation_Count < 1) do
+          begin
+            Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 5, 1);
+            Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, 0, 33554499);
+            destroy_object(Scenery_Creation_Ptr);
+            Scenery_Creation_Count := Scenery_Creation_Count + 1;
+          end
+          Scenery_Creation_Count := 0;
+          while (Scenery_Creation_Count < 2) do
+          begin
+            Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 0, 1);
+            Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, 0, 33554499);
+            destroy_object(Scenery_Creation_Ptr);
+            Scenery_Creation_Count := Scenery_Creation_Count + 1;
+          end
+          Scenery_Creation_Count := 0;
+          while (Scenery_Creation_Count < 1) do
+          begin
+            Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 1, 1);
+            Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, 0, 33554499);
+            destroy_object(Scenery_Creation_Ptr);
+            Scenery_Creation_Count := Scenery_Creation_Count + 1;
+          end
+          Scenery_Creation_Count := 0;
+          while (Scenery_Creation_Count < 1) do
+          begin
+            Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 2, 1);
+            Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, 0, 33554499);
+            destroy_object(Scenery_Creation_Ptr);
+            Scenery_Creation_Count := Scenery_Creation_Count + 1;
+          end
+          Scenery_Creation_Count := 0;
+          while (Scenery_Creation_Count < 1) do
+          begin
+            Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 1, 1);
+            Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, 0, 33554499);
+            destroy_object(Scenery_Creation_Ptr);
+            Scenery_Creation_Count := Scenery_Creation_Count + 1;
+          end
+          Scenery_Creation_Count := 0;
+          while (Scenery_Creation_Count < 1) do
+          begin
+            Scenery_Creation_Hex := tile_num_in_direction(Scenery_Creation_Hex, 2, 1);
+            Scenery_Creation_Ptr := tile_contains_pid_obj(Scenery_Creation_Hex, 0, 33554499);
+            destroy_object(Scenery_Creation_Ptr);
+            Scenery_Creation_Count := Scenery_Creation_Count + 1;
+          end
+        end
+        Scenery_Creation_Ptr := tile_contains_pid_obj(tile_num_in_direction(tile_num_in_direction(23520, 5, 2), 4, 1), 0, 455);
+        if (Scenery_Creation_Ptr != 0) then
+        begin
+          if (Scenery_Creation_Ptr == party_member_obj(455)) then
+            set_obj_visibility(Scenery_Creation_Ptr, 1);
+          else
+            destroy_object(Scenery_Creation_Ptr);
+        end
+      end
+    end
+    else
+      debug_msg("the player hasn't gotten the car, can't place it");
+  end
+  else
+    debug_msg("sorry, can't place the car, the game's loading");
+  if (elevation(dude_obj) == 0) then
+  begin
+  if ((get_month >= 3) and (get_month < 5)) then
+  begin
+    if ((game_time_hour >= 600) and (game_time_hour < (600 + 100))) then
+      set_light_level(game_time_hour - 600 + 40);
+    else if ((game_time_hour >= (600 + 100)) and (game_time_hour < 1800)) then
+      set_light_level(100);
+    else if ((game_time_hour >= 1800) and (game_time_hour < (1800 + 100))) then
+      set_light_level(100 - (game_time_hour - 1800));
+    else
+      set_light_level(40);
+  end
+  else if ((get_month >= 5) and (get_month < 9)) then
+  begin
+    if ((game_time_hour >= 500) and (game_time_hour < (500 + 100))) then
+      set_light_level(game_time_hour - 500 + 40);
+    else if ((game_time_hour >= (500 + 100)) and (game_time_hour < 1900)) then
+      set_light_level(100);
+    else if ((game_time_hour >= 1900) and (game_time_hour < (1900 + 100))) then
+      set_light_level(100 - (game_time_hour - 1900));
+    else
+      set_light_level(40);
+  end
+  else if ((get_month >= 9) and (get_month < 11)) then
+  begin
+    if ((game_time_hour >= 600) and (game_time_hour < (600 + 100))) then
+      set_light_level(game_time_hour - 600 + 40);
+    else if ((game_time_hour >= (600 + 100)) and (game_time_hour < 1800)) then
+      set_light_level(100);
+    else if ((game_time_hour >= 1800) and (game_time_hour < (1800 + 100))) then
+      set_light_level(100 - (game_time_hour - 1800));
+    else
+      set_light_level(40);
+  end
+  else if ((game_time_hour >= 700) and (game_time_hour < (700 + 100))) then
+    set_light_level(game_time_hour - 700 + 40);
+  else if ((game_time_hour >= (700 + 100)) and (game_time_hour < 1700)) then
+    set_light_level(100);
+  else if ((game_time_hour >= 1700) and (game_time_hour < (1700 + 100))) then
+    set_light_level(100 - (game_time_hour - 1700));
+  else
+    set_light_level(40);
+  end
+end
+
+procedure map_update_p_proc
+begin
+  if (elevation(dude_obj) == 0) then
+  begin
+    if ((get_month >= 3) and (get_month < 5)) then
+    begin
+      if ((game_time_hour >= 600) and (game_time_hour < (600 + 100))) then
+        set_light_level(game_time_hour - 600 + 40);
+      else if ((game_time_hour >= (600 + 100)) and (game_time_hour < 1800)) then
+        set_light_level(100);
+      else if ((game_time_hour >= 1800) and (game_time_hour < (1800 + 100))) then
+        set_light_level(100 - (game_time_hour - 1800));
+      else
+        set_light_level(40);
+    end
+    else if ((get_month >= 5) and (get_month < 9)) then
+    begin
+      if ((game_time_hour >= 500) and (game_time_hour < (500 + 100))) then
+        set_light_level(game_time_hour - 500 + 40);
+      else if ((game_time_hour >= (500 + 100)) and (game_time_hour < 1900)) then
+        set_light_level(100);
+      else if ((game_time_hour >= 1900) and (game_time_hour < (1900 + 100))) then
+        set_light_level(100 - (game_time_hour - 1900));
+      else
+        set_light_level(40);
+    end
+    else if ((get_month >= 9) and (get_month < 11)) then
+    begin
+      if ((game_time_hour >= 600) and (game_time_hour < (600 + 100))) then
+        set_light_level(game_time_hour - 600 + 40);
+      else if ((game_time_hour >= (600 + 100)) and (game_time_hour < 1800)) then
+        set_light_level(100);
+      else if ((game_time_hour >= 1800) and (game_time_hour < (1800 + 100))) then
+        set_light_level(100 - (game_time_hour - 1800));
+      else
+        set_light_level(40);
+    end
+    else if ((game_time_hour >= 700) and (game_time_hour < (700 + 100))) then
+      set_light_level(game_time_hour - 700 + 40);
+    else if ((game_time_hour >= (700 + 100)) and (game_time_hour < 1700)) then
+      set_light_level(100);
+    else if ((game_time_hour >= 1700) and (game_time_hour < (1700 + 100))) then
+      set_light_level(100 - (game_time_hour - 1700));
+    else
+      set_light_level(40);
+  end
+  else
+    set_light_level(50);
+end

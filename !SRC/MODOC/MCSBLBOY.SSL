@@ -1,0 +1,193 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Modoc
+        Description:
+
+        Log: the following defines need to be changed:
+
+
+          Created: August 3, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                        SCRIPT_MCSBLBOY
+#define TOWN_REP_VAR                GVAR_TOWN_REP_MODOC
+
+#include "..\headers\command.h"
+#include "..\headers\modoc.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure combat_p_proc;
+
+// dialog nodes
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+
+procedure Node999;                                      // This is the do nothing node
+procedure Node998;                                      // This Node is Always Combat
+
+
+#define pen_tile_1                           (18926)
+#define pen_tile_2                           (19133)
+#define pen_tile_3                           (19141)
+#define pen_tile_4                           (21143)
+#define pen_tile_5                           (21133)
+#define room_tile                            (21527)
+
+#define LVAR_Flags                           (4)
+#define LVAR_Where_To_Go_Tile                (5)
+
+#define given_new_loc_bit                    bit_10
+#define given_new_loc                        lvar_bit(LVAR_Flags, given_new_loc_bit)
+#define set_given_new_loc                    set_lvar_bit_on(LVAR_Flags, given_new_loc_bit)
+#define off_given_new_loc                    set_lvar_bit_off(LVAR_Flags, given_new_loc_bit)
+
+#define went_to_loc_bit                      bit_11
+#define went_to_loc                          lvar_bit(LVAR_Flags, went_to_loc_bit)
+#define set_went_to_loc                      set_lvar_bit_on(LVAR_Flags, went_to_loc_bit)
+#define off_went_to_loc                      set_lvar_bit_off(LVAR_Flags, went_to_loc_bit)
+
+#define need_new_loc_param                   (999)
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == need_new_loc_param) then begin
+      off_given_new_loc;
+   end else begin
+      if (night) then begin
+         set_local_var(LVAR_Where_To_Go_Tile, room_tile);
+      end else if (given_new_loc == false) then begin
+         set_given_new_loc;
+         if (local_var(LVAR_Where_To_Go_Tile) == pen_tile_1) then begin
+            set_local_var(LVAR_Where_To_Go_Tile, pen_tile_2);
+         end else if (local_var(LVAR_Where_To_Go_Tile) == pen_tile_2) then begin
+            set_local_var(LVAR_Where_To_Go_Tile, pen_tile_3);
+         end else if (local_var(LVAR_Where_To_Go_Tile) == pen_tile_3) then begin
+            set_local_var(LVAR_Where_To_Go_Tile, pen_tile_4);
+         end else if (local_var(LVAR_Where_To_Go_Tile) == pen_tile_4) then begin
+            set_local_var(LVAR_Where_To_Go_Tile, pen_tile_5);
+         end else begin
+            set_local_var(LVAR_Where_To_Go_Tile, pen_tile_1);
+         end
+         off_went_to_loc;
+         mod_add_timer_event_rand(self_obj, 15, 30, need_new_loc_param);
+      end
+      if (tile_distance(self_tile, local_var(LVAR_Where_To_Go_Tile)) > 2) then begin
+         animate_move_to_tile(local_var(LVAR_Where_To_Go_Tile));
+      end else if ((went_to_loc == false) and (local_var(LVAR_Where_To_Go_Tile) != room_tile)) then begin
+         set_went_to_loc;
+         call Node003;
+      end
+   end
+   mod_add_timer_event_rand(self_obj, 1, 3, 1);
+end
+
+procedure map_enter_p_proc begin
+   match_dude_elevation;
+   if (map_first_run) then begin
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CHILD);
+   end
+   mod_add_timer_event_rand(self_obj, 1, 3, 1);
+end
+
+
+procedure combat_p_proc begin
+   match_dude_elevation;
+   if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
+   end
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if ((hostile) or (dude_enemy_modoc)) then begin
+         self_attack_dude;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_enemy_modoc;
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   if (night) then begin
+      call Node004;
+   end else if (shitter_has_blown) then begin
+      call Node002;
+   end else begin
+      call Node001;
+   end
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + examined);
+   set_examined;
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150);
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+// dialog action functions
+procedure Node999 begin
+  // do absolutely everything that pertains to nothing
+end
+procedure Node998 begin
+   set_hostile;
+end
+
+procedure Node001 begin
+   floater_rand(200, 201);
+end
+procedure Node002 begin
+   floater_rand(250, 252);
+end
+procedure Node003 begin
+   floater_rand(300, 304);
+end
+procedure Node004 begin
+   floater_rand(350, 354);
+end

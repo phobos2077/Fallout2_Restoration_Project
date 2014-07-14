@@ -1,0 +1,1088 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Big Jesus Mordino
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCBIGJES
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+procedure map_update_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+procedure Node046;
+procedure Node047;
+procedure Node048;
+procedure Node049;
+procedure Node050;
+procedure Node051;
+procedure Node052;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+#define self_family                    family_mordino
+
+#define LVAR_Flags                     (4)
+#define LVAR_Assassination_State       (5)
+
+#define pissed_bit                     bit_10
+#define know_big_jesus_bit             bit_11
+#define sold_slave_bit                 bit_12
+#define node_22_bit                    bit_13
+#define node_29_bit                    bit_14
+#define node_30_bit                    bit_15
+#define killed_bit                     bit_16
+#define offer_slave_bit                bit_17
+#define haggle_slave_bit               bit_18
+#define started_assassination_bit      bit_19
+#define fell_down_bit                  bit_20
+#define forced_dialog_bit              bit_21
+
+#define pissed                         lvar_bit(LVAR_Flags, pissed_bit)
+#define set_pissed                     set_lvar_bit_on(LVAR_Flags, pissed_bit)
+
+#define know_big_jesus                 lvar_bit(LVAR_Flags, know_big_jesus_bit)
+#define set_know_big_jesus             set_lvar_bit_on(LVAR_Flags, know_big_jesus_bit)
+
+#define sold_slave                     lvar_bit(LVAR_Flags, sold_slave_bit)
+#define set_sold_slave                 set_lvar_bit_on(LVAR_Flags, sold_slave_bit)
+
+#define node_22                        lvar_bit(LVAR_Flags, node_22_bit)
+#define set_node_22                    set_lvar_bit_on(LVAR_Flags, node_22_bit)
+
+#define node_29                        lvar_bit(LVAR_Flags, node_29_bit)
+#define set_node_29                    set_lvar_bit_on(LVAR_Flags, node_29_bit)
+
+#define node_30                        lvar_bit(LVAR_Flags, node_30_bit)
+#define set_node_30                    set_lvar_bit_on(LVAR_Flags, node_30_bit)
+
+#define killed                         lvar_bit(LVAR_Flags, killed_bit)
+#define set_killed                     set_lvar_bit_on(LVAR_Flags, killed_bit)
+
+#define offer_slave                    lvar_bit(LVAR_Flags, offer_slave_bit)
+#define set_offer_slave                set_lvar_bit_on(LVAR_Flags, offer_slave_bit)
+
+#define haggle_slave                   lvar_bit(LVAR_Flags, haggle_slave_bit)
+#define set_haggle_slave               set_lvar_bit_on(LVAR_Flags, haggle_slave_bit)
+
+#define started_assassination          lvar_bit(LVAR_Flags, started_assassination_bit)
+#define set_started_assassination      set_lvar_bit_on(LVAR_Flags, started_assassination_bit)
+
+#define fell_down                      lvar_bit(LVAR_Flags, fell_down_bit)
+#define set_fell_down                  set_lvar_bit_on(LVAR_Flags, fell_down_bit)
+
+#define forced_dialog                  lvar_bit(LVAR_Flags, forced_dialog_bit)
+#define set_forced_dialog              set_lvar_bit_on(LVAR_Flags, forced_dialog_bit)
+#define off_forced_dialog              set_lvar_bit_off(LVAR_Flags, forced_dialog_bit)
+
+#define check_myron_in_room            myron_in_room := false;                                                                          \
+                                       if (Myron_In_Party) then begin                                                                   \
+                                          if ((tile_in_big_jesus_room(tile_num(Myron_Ptr))) or (myron_is_dude_companion)) then begin    \
+                                             myron_in_room := true;                                                                     \
+                                          end                                                                                           \
+                                       end
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+variable prev_node := 0;
+variable slave_price := 0;
+variable myron_in_room;
+import variable new_reno_big_jesus_obj;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == assassinate_param) then begin
+      if (combat_is_initialized == false) then begin
+         call Node004;
+      end else begin
+         nr_add_timer_event_rand(self_obj, 4, 6, assassinate_param);
+      end
+   end else if (combat_is_initialized == false) then begin
+      call Node002;
+   end
+   if (fixed_param != assassinate_param) then begin
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end else begin
+      rm_fixed_timer_event(self_obj, float_param);
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_MORDINO);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+   new_reno_big_jesus_obj := self_obj;
+end
+
+procedure map_update_p_proc begin
+   if (forced_dialog) then begin
+      if (self_elevation != dude_elevation) then begin
+         off_forced_dialog;
+      end
+   end
+end
+
+procedure map_exit_p_proc begin
+   if ((started_assassination) or (local_var(LVAR_Assassination_State) != 0)) then begin
+      set_assassinated_big_jesus;
+      call destroy_p_proc;
+      kill_critter(self_obj, ANIM_fall_back_sf);
+   end
+end
+
+procedure combat_p_proc begin
+   if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
+      if (started_assassination) then begin
+         script_overrides;
+         call Node004;
+      end
+   end
+end
+
+procedure critter_p_proc begin
+   if (started_assassination == false) then begin
+      if (self_can_see_dude) then begin
+         if (hostile) then begin
+            self_attack_dude;
+         end if (forced_dialog == false) then begin
+            set_forced_dialog;
+            dialogue_system_enter;
+         end if (myron_is_dude_companion) then begin
+            set_forced_dialog;
+            dialogue_system_enter;
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      attack_family(self_family)
+   end
+end
+
+procedure use_obj_on_p_proc begin
+variable the_item;
+   if ((obj_pid(obj_being_used_with) == PID_JET) or (obj_pid(obj_being_used_with) == PID_NUKA_COLA) or
+       (obj_pid(obj_being_used_with) == PID_BUFFOUT) or (obj_pid(obj_being_used_with) == PID_PSYCHO)) then begin
+      script_overrides;
+      call node004;
+      the_item := obj_being_used_with;
+      rm_obj_from_inven(source_obj,obj_being_used_with);
+      destroy_object(the_item);
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   set_forced_dialog;
+   if (started_assassination == false) then begin
+      check_myron_in_room
+      prev_node := 0;
+      slave_price := 0;
+      if ((myron_in_room) or (pissed)) then begin
+         debug_msg("Node006");
+         start_dialog_at_node(Node006);
+      end else if (dude_family == self_family) then begin
+         debug_msg("Node003");
+         call Node003;
+      end else if ((get_delivery(delivery_assigned)) or (get_delivery(delivery_delivered))) then begin
+         debug_msg("Node021");
+         start_dialog_at_node(Node021);
+      end else if ((get_extortion_bros(extortion_bros_assigned)) or (get_extortion_bros(extortion_bros_collected))) then begin
+         if (bros_dead) then begin
+            debug_msg("Node028");
+            start_dialog_at_node(Node028);
+         end else begin
+            debug_msg("Node029");
+            start_dialog_at_node(Node029);
+         end
+      end else if (get_assassination(assassination_assigned)) then begin
+         debug_msg("Node039");
+         start_dialog_at_node(Node039);
+      end else if (know_big_jesus) then begin
+         debug_msg("Node007");
+         start_dialog_at_node(Node007);
+      end else begin
+         debug_msg("Node005");
+         start_dialog_at_node(Node005);
+      end
+      set_herebefore;
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure destroy_p_proc begin
+   if (killed == false) then begin
+      set_killed;
+      set_family_crushed(self_family)
+      inc_evil_critter
+   end
+   set_big_jesus_dead;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150 + examined);
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   if (hostile == false) then begin
+      set_hostile;
+   end
+   attack_family(self_family) //added by killap
+end
+procedure Node999 begin
+end
+procedure Node990 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-20))) then begin
+      if ((dude_has_power_armor) or (dude_wearing_combat_armor) or ((dude_is_male) and (dude_strength > 5))) then begin
+         call Node018;
+      end else begin
+         call Node008;
+      end
+   end else begin
+      call Node050;
+   end
+end
+procedure Node989 begin
+   if ((dude_has_power_armor) or ((dude_is_male) and (dude_strength > 5))) then begin
+      call Node018;
+   end else begin
+      call Node008;
+   end
+end
+procedure Node988 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-20))) then begin
+      call Node018;
+   end else begin
+      call Node009;
+   end
+end
+procedure Node987 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,10))) then begin
+      call Node018;
+   end else begin
+      call Node009;
+   end
+end
+procedure Node984 begin
+   if (haggle_slave == false) then begin
+      set_haggle_slave;
+      inc_general_rep(REP_BONUS_HAGGLE_SLAVE);
+   end
+   if (is_success(roll_vs_skill(dude_obj,SKILL_BARTER,10))) then begin
+      call Node015;
+   end else begin
+      call Node014;
+   end
+end
+procedure Node982 begin
+   set_delivery(delivery_assigned);
+   give_pid_qty(dude_obj, PID_RAMIREZ_BOX_CLOSED, 1)
+   game_time_advance(2 * ONE_GAME_HOUR);
+   load_map(MAP_NEW_RENO_STABLES, 0);
+end
+procedure Node981 begin
+   if (bros_dead == false) then begin
+      call Node026;
+   end else begin
+      call Node025;
+   end
+end
+procedure Node980 begin
+   if (salvatore_dead == false) then begin
+      call Node032;
+   end else begin
+      call Node025;
+   end
+end
+procedure Node979 begin
+   if (dude_charisma > 5) then begin
+      call Node042;
+   end else begin
+      call Node025;
+   end
+end
+procedure Node978 begin
+   if (dude_charisma > 8) then begin
+      call Node042;
+   end else begin
+      call Node025;
+   end
+end
+
+procedure Node001 begin
+   floater_bad_rand(200, 202);
+end
+procedure Node002 begin
+   floater_sick_rand(210, 212);
+end
+procedure Node003 begin
+   floater_sick_rand(220, 221);
+end
+procedure Node004 begin
+   set_started_assassination;
+   if (local_var(LVAR_Assassination_State) < 3) then begin
+      floater_sick(230 + local_var(LVAR_Assassination_State));
+      inc_local_var(LVAR_Assassination_State);
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+         reg_anim_animate(self_obj,ANIM_hit_from_front,-1);
+      reg_anim_end();
+   end else if (fell_down == false) then begin
+      set_fell_down;
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+         reg_anim_animate(self_obj,ANIM_hit_from_front,-1);
+         reg_anim_animate(self_obj,ANIM_fall_back,5);
+      reg_anim_end();
+      critter_injure(self_obj,DAM_KNOCKED_DOWN);
+   end else if (anim_busy(self_obj) == false) then begin
+      set_assassinated_big_jesus;
+      call destroy_p_proc;
+      kill_critter(self_obj, ANIM_fall_back_sf);
+   end
+   nr_add_timer_event_rand(self_obj, 4, 6, assassinate_param);
+end
+procedure Node005 begin
+   Reply(mstr(240) + mstr(241 + (myron_in_room == false)));
+   BOption(243, Node006, -003);
+   BOption(244, Node006, -003);
+   BOption(245, Node006, -003);
+   BOption(246, Node006, -003);
+   NOption(247, Node999, -003);
+   if (know_big_jesus == false) then begin
+      NOption(248, Node007, 004);
+   end
+   if ((get_lil_jesus_refers(lil_jesus_refers_yes)) or (get_lil_jesus_refers(lil_jesus_refers_slaver))) then begin
+      NOption(249, Node007, 004);
+   end
+   NOption(250, Node999, 004);
+   prev_node := 5;
+end
+procedure Node006 begin
+   if (myron_in_room) then begin
+      Reply(260);
+   end else begin
+      Reply(261 + know_big_jesus);
+   end
+   BOption(263, Node998, -003);
+   BOption(264, Node998, -003);
+   BOption(265, Node998, -003); //edit by killap - was NOption
+   BOption(266, Node998, 004);
+   BOption(267, Node998, 004);
+   BOption(mstr(268) + dude_name + mstr(5268), Node998, 004);
+   prev_node := 6;
+end
+procedure Node007 begin
+   Reply(275 + know_big_jesus);
+   set_know_big_jesus;
+   if ((get_lil_jesus_refers(lil_jesus_refers_none)) or (get_lil_jesus_refers(lil_jesus_refers_no))) then begin
+      NOption(277, Node990, 004);
+   end else if (get_lil_jesus_refers(lil_jesus_refers_yes)) then begin
+      NOption(278 + (1000 * has_rep_slaver), Node989, 004);
+   end else if (get_lil_jesus_refers(lil_jesus_refers_slaver)) then begin
+      NOption(1278, Node989, 004);
+      NOption(279, Node012, 004);
+   end
+   if (get_mystery_flag(MYSTERY_STATE_ASSIGNED)) then begin
+      BOption(280, Node046, 004);
+   end
+   if ((has_skill(dude_obj, SKILL_DOCTOR) > 50) or (has_skill(dude_obj, SKILL_SCIENCE) > 75)) then begin
+      NOption(281, Node049, 006);
+   end
+   NOption(282, Node999, 004);
+   prev_node := 7;
+end
+procedure Node008 begin
+   if (dude_is_male) then begin
+      Reply(290);
+      NOption(294, Node988, 004);
+      if (dude_charisma > 5) then begin
+         GOption(295, Node987, 005);
+      end
+   end else begin
+      Reply(291);
+      NOption(292, Node988, 004);
+      if (dude_charisma > 5) then begin
+         GOption(293, Node987, 005);
+      end
+   end
+   if (get_lil_jesus_refers(lil_jesus_refers_slaver)) then begin
+      NOption(1291, Node012, 004);
+   end
+   NOption(296, Node999, 004);
+   prev_node := 8;
+end
+procedure Node009 begin
+   set_pissed;
+   Reply(305);
+   BOption(306, Node998, 004);
+   NOption(307, Node999, 004);
+   prev_node := 9;
+end
+procedure Node010 begin
+   Reply(315);
+   BOption(316, Node998, 004);
+   BOption(317, Node998, 004);
+   BOption(318, Node998, 004); //edit by killap - was NOption
+   BOption(319, Node998, 004); //edit by killap - was NOption
+   prev_node := 10;
+end
+procedure Node011 begin
+   Reply(325);
+   if ((get_lil_jesus_refers(lil_jesus_refers_none)) or (get_lil_jesus_refers(lil_jesus_refers_no))) then begin
+      NOption(277, Node990, 004);
+   end else if (get_lil_jesus_refers(lil_jesus_refers_yes)) then begin
+      NOption(278 + (1000 * has_rep_slaver), Node989, 004);
+   end else if (get_lil_jesus_refers(lil_jesus_refers_slaver)) then begin
+      NOption(1278, Node989, 004);
+   end
+   if (has_rep_slaver) then begin
+      NOption(326, Node012, 004);
+   end
+   if (get_mystery_flag(MYSTERY_STATE_ASSIGNED)) then begin
+      BOption(327, Node046, 004);
+   end
+   if ((has_skill(dude_obj, SKILL_DOCTOR) > 50) or (has_skill(dude_obj, SKILL_SCIENCE) > 75)) then begin
+      NOption(281, Node049, 006);
+   end
+   NOption(329, Node999, 004);
+   prev_node := 11;
+end
+procedure Node012 begin
+   if (prev_node == 7) then begin
+      Reply(mstr(335) + mstr(336));
+   end else begin
+      Reply(336);
+   end
+   if (true_party_size > 0) then begin
+      NOption(337, Node013, 004);
+   end
+   NOption(338, Node989, 004);
+   NOption(339, Node011, 004);
+   NOption(340, Node999, 004);
+   prev_node := 12;
+end
+#define set_slave(x,y)     Reply(x); slave_price := y
+procedure Node013 begin
+   if (offer_slave == false) then begin
+      set_offer_slave;
+      inc_general_rep(REP_BONUS_OFFER_SLAVE);
+   end
+   if (Miria_In_Party) then begin
+      set_slave(345, 250);
+   end else if (Davin_In_Party) then begin
+      set_slave(346, 200);
+   end else if (Sulik_In_Party) then begin
+      set_slave(347, 200);
+   end else if (Vic_In_Party) then begin
+      set_slave(348, 100);
+   end else if (MacRae_In_Party) then begin
+      set_slave(349, 100);
+   end else if (Robobrain_In_Party) then begin
+      set_slave(350, 500);
+   end else if (Cyberdog_In_Party) then begin
+      set_slave(351, 500);
+   end else begin
+      set_slave(352, 0);
+   end
+   if (slave_price > 0) then begin
+      BOption(353, Node984, 004);
+      GOption(354, Node016, 004);
+      NOption(355, Node011, 004);
+      NOption(356, Node999, 004);
+   end else begin
+      NOption(357, Node011, 004);
+      NOption(358, Node999, 004);
+   end
+   prev_node := 13;
+end
+procedure Node014 begin
+   if (Miria_In_Party) then begin
+      set_slave(370, 250);
+   end else if (Davin_In_Party) then begin
+      set_slave(371, 200);
+   end else if (Sulik_In_Party) then begin
+      set_slave(372, 100);
+   end else if (Vic_In_Party) then begin
+      set_slave(373, 100);
+   end else if (MacRae_In_Party) then begin
+      set_slave(373, 100);
+   end else if (Robobrain_In_Party) then begin
+      set_slave(375, 500);
+   end else if (Cyberdog_In_Party) then begin
+      set_slave(375, 500);
+   end
+   BOption(377, Node017, 004);
+   NOption(354, Node016, 004);
+   NOption(355, Node011, 004);
+   NOption(356, Node999, 004);
+   prev_node := 14;
+end
+procedure Node015 begin
+   if (Miria_In_Party) then begin
+      set_slave(390, 500);
+   end else if (Davin_In_Party) then begin
+      set_slave(391, 400);
+   end else if (Sulik_In_Party) then begin
+      set_slave(392, 200);
+   end else if (Vic_In_Party) then begin
+      set_slave(393, 200);
+   end else if (MacRae_In_Party) then begin
+      set_slave(394, 200);
+   end else if (Robobrain_In_Party) then begin
+      set_slave(395, 1000);
+   end else if (Cyberdog_In_Party) then begin
+      set_slave(396, 1000);
+   end
+   BOption(377, Node017, 004);
+   NOption(354, Node016, 004);
+   NOption(355, Node011, 004);
+   NOption(356, Node999, 004);
+   prev_node := 15;
+end
+//#define remove_party(x, y)    Reply(x);   debug_msg("destroying: "+obj_name(y)); party_remove(y);   destroy_object(y) //killap comment out
+procedure Node016 begin
+   set_sold_slave;
+   inc_general_rep(REP_BONUS_SELL_SLAVE);
+   item_caps_adjust(dude_obj, slave_price);
+   
+   if (Miria_In_Party) then begin
+//      remove_party(410, Miria_Ptr);  //killap comment out
+//begin killap code
+      gfade_out(ONE_GAME_SECOND);
+      if (critter_is_armed(Miria_Ptr)) then begin
+         inven_unwield(Miria_Ptr);
+      end
+      move_obj_inven_to_obj(Miria_Ptr, dude_obj);  
+      move_to(Miria_Ptr, 0, 0);
+      critter_heal(Miria_Ptr, -10000);
+      party_remove(Miria_Ptr);
+      gfade_in(ONE_GAME_SECOND);
+      Reply(410);
+//end killap code           
+   end else if (Davin_In_Party) then begin
+//      remove_party(411, Davin_Ptr);  //killap comment out
+//begin killap code
+      gfade_out(ONE_GAME_SECOND);
+      if (critter_is_armed(Davin_Ptr)) then begin
+         inven_unwield(Davin_Ptr);
+      end
+      move_obj_inven_to_obj(Davin_Ptr, dude_obj);  
+      move_to(Davin_Ptr, 0, 0);
+      critter_heal(Davin_Ptr, -10000);
+      party_remove(Davin_Ptr);
+      gfade_in(ONE_GAME_SECOND); 
+      Reply(411);
+//end killap code
+  end else if (Sulik_In_Party) then begin
+//      remove_party(412, Sulik_Ptr);  //killap comment out
+//begin killap code
+      gfade_out(ONE_GAME_SECOND);
+      if (critter_is_armed(Sulik_Ptr)) then begin
+         inven_unwield(Sulik_Ptr);
+      end
+      move_obj_inven_to_obj(Sulik_Ptr, dude_obj);  
+      move_to(Sulik_Ptr, 0, 0);
+      critter_heal(Sulik_Ptr, -10000);
+      party_remove(Sulik_Ptr);
+      gfade_in(ONE_GAME_SECOND);
+      Reply(412);
+//end killap code
+   end else if (Vic_In_Party) then begin
+//      remove_party(413, Vic_Ptr); //killap comment out
+//begin killap code
+      gfade_out(ONE_GAME_SECOND);
+      if (critter_is_armed(Vic_Ptr)) then begin
+         inven_unwield(Vic_Ptr);
+      end
+      move_obj_inven_to_obj(Vic_Ptr, dude_obj);  
+      move_to(Vic_Ptr, 0, 0);
+      critter_heal(Vic_Ptr, -10000);
+      party_remove(Vic_Ptr);
+      gfade_in(ONE_GAME_SECOND);
+      Reply(413);  
+//end killap code
+   end else if (MacRae_In_Party) then begin
+ //     remove_party(414, MacRae_Ptr); //killap comment out
+ //begin killap code
+      gfade_out(ONE_GAME_SECOND);
+      if (critter_is_armed(MacRae_Ptr)) then begin
+         inven_unwield(MacRae_Ptr);
+      end
+      move_obj_inven_to_obj(MacRae_Ptr, dude_obj);  
+      move_to(MacRae_Ptr, 0, 0);
+      critter_heal(MacRae_Ptr, -10000);
+      party_remove(MacRae_Ptr);
+      gfade_in(ONE_GAME_SECOND);
+      Reply(414);   
+//end killap code  
+   end else if (Robobrain_In_Party) then begin
+//      remove_party(415, Robobrain_Ptr); //killap comment out
+//begin killap code
+      gfade_out(ONE_GAME_SECOND);
+      if (critter_is_armed(Robobrain_Ptr)) then begin
+         inven_unwield(Robobrain_Ptr);
+      end
+      move_obj_inven_to_obj(Robobrain_Ptr, dude_obj);  
+      move_to(Robobrain_Ptr, 0, 0);
+      critter_heal(Robobrain_Ptr, -10000);
+      party_remove(Robobrain_Ptr);
+      gfade_in(ONE_GAME_SECOND); 
+      Reply(415);
+//end killap code
+   end else if (Cyberdog_In_Party) then begin
+//      remove_party(416, Cyberdog_Ptr);  //killap comment out
+//begin killap code
+      gfade_out(ONE_GAME_SECOND);
+      if (critter_is_armed(Cyberdog_Ptr)) then begin
+         inven_unwield(Cyberdog_Ptr);
+      end
+      move_obj_inven_to_obj(Cyberdog_Ptr, dude_obj);  
+      move_to(Cyberdog_Ptr, 0, 0);
+      critter_heal(Cyberdog_Ptr, -10000);
+      party_remove(Cyberdog_Ptr);
+      gfade_in(ONE_GAME_SECOND);
+      Reply(416); 
+//end killap code
+   end
+   if (true_party_size > 0) then begin
+      NOption(417, Node013, 004);
+   end
+   NOption(418, Node011, 004);
+   NOption(419, Node999, 004);
+   prev_node := 16;
+end
+procedure Node017 begin
+   set_pissed;
+   Reply(430);
+   BOption(431, Node010, 004);
+   NOption(432, Node999, 004);
+   prev_node := 17;
+end
+procedure Node018 begin
+   Reply(440);
+   NOption(441, Node020, 004);
+   if (dude_charisma > 5) then begin
+      GOption(442, Node020, 004);
+   end
+   BOption(443, Node019, 004);
+   BOption(444, Node033, 004);
+   prev_node := 18;
+end
+procedure Node019 begin
+   Reply(450);
+   NOption(451, Node006, 004);
+   NOption(452, Node020, 004);
+   if (dude_charisma > 5) then begin
+      GOption(442, Node020, 004);
+   end
+   BOption(444, Node033, 004);
+   prev_node := 19;
+end
+procedure Node020 begin
+   Reply(460);
+   NOption(461, Node982, 004);
+   prev_node := 20;
+end
+procedure Node021 begin
+   Reply(470);
+   if (get_delivery(delivery_delivered)) then begin
+      NOption(472, Node023, 004);
+      BOption(473, Node024, 004);
+      NOption(474, Node051, 007);
+   end else begin
+      BOption(471, Node022, 004);
+   end
+   prev_node := 21;
+end
+procedure Node022 begin
+   Reply(480);
+   BOption(481, Node006, 004);
+   if (node_22 == false) then begin
+      set_node_22;
+      NOption(482, Node999, 004);
+   end else begin
+      BOption(483, Node006, 004);
+   end
+   prev_node := 22;
+end
+procedure Node023 begin
+   item_caps_adjust(dude_obj, 100);
+   set_delivery(delivery_done);
+   Reply(490);
+   NOption(491, Node981, 004);
+   if (dude_charisma > 5) then begin
+      GOption(492, Node981, 004);
+   end
+   prev_node := 23;
+end
+procedure Node024 begin
+   Reply(500);
+   BOption(501, Node998, 004);
+   NOption(502, Node023, 004);
+   prev_node := 24;
+end
+procedure Node025 begin
+   set_pissed;
+   Reply(510);
+   BOption(511, Node009, 004);
+   NOption(512, Node999, 004);
+   NOption(432, Node999, 004);
+   prev_node := 25;
+end
+procedure Node026 begin
+   Reply(520);
+   NOption(441, Node027, 004);
+   if (dude_charisma > 5) then begin
+      GOption(442, Node027, 004);
+   end
+   BOption(523, Node033, 004);
+   prev_node := 26;
+end
+procedure Node027 begin
+   set_extortion_bros(extortion_bros_assigned);
+   Reply(530);
+   NOption(531, Node999, 004);
+   if (dude_charisma > 5) then begin
+      GOption(532, Node999, 004);
+   end
+   prev_node := 27;
+end
+procedure Node028 begin
+   Reply(540);
+   BOption(541, Node006, 004);
+   BOption(542, Node006, 004);
+   BOption(543, Node006, 004);
+   prev_node := 28;
+end
+procedure Node029 begin
+   Reply(470);
+   if (get_extortion_bros(extortion_bros_collected)) then begin
+      if (dude_caps < 250) then begin
+         BOption(551, Node030, 004);
+      end else begin
+         NOption(552, Node031, 004);
+      end
+   end else begin
+      BOption(553 + node_29, Node030, 004);
+      set_node_29;
+   end
+   prev_node := 29;
+end
+procedure Node030 begin
+   Reply(560);
+   BOption(561, Node006, 004);
+   if (node_30 == false) then begin
+      set_node_30;
+      NOption(562, Node999, 004);
+   end else begin
+      BOption(483, Node006, 004);
+   end
+   prev_node := 30;
+end
+procedure Node031 begin
+   display_mstr(850);
+   give_xp(EXP_NEW_RENO_COR_BRO_EXTORTION);
+   inc_reno_rep(REP_NEW_RENO_BIG_JESUS_TRIBUTE);
+   set_extortion_bros(extortion_bros_done);
+   item_caps_adjust(dude_obj, -125);
+   Reply(570);
+   NOption(571, Node980, 004);
+   if (dude_charisma > 5) then begin
+      GOption(492, Node980, 004);
+   end
+   prev_node := 31;
+end
+procedure Node032 begin
+   Reply(580);
+   NOption(581, Node034, 004);
+   if (dude_charisma > 5) then begin
+      GOption(583, Node034, 004);
+      BOption(585, Node033, 004);
+   end else begin
+      NOption(582, Node034, 004);
+      BOption(584, Node033, 004);
+   end
+   prev_node := 32;
+end
+procedure Node033 begin
+   set_pissed;
+   Reply(595 + (prev_node != 52));
+   BOption(597, Node010, 004);
+   BOption(598, Node010, 004);
+   if (dude_charisma > 5) then begin
+      NOption(599, Node999, 004);
+   end
+   BOption(600, Node006, 004);
+   NOption(432, Node999, 004);
+   prev_node := 33;
+end
+procedure Node034 begin
+   Reply(610);
+   NOption(611, Node035, 004);
+   NOption(615, Node037, 004);
+   if ((know_salvatore) and (know_lasers)) then begin
+      BOption(612, Node036, 004);
+   end
+   if (dude_charisma > 5) then begin
+      GOption(613, Node037, 004);
+   end
+   BOption(614, Node033, 004);
+   prev_node := 34;
+end
+procedure Node035 begin
+   Reply(620);
+   if ((know_salvatore) and (know_lasers)) then begin
+      BOption(621, Node036, 004);
+   end
+   NOption(1621, Node037, 004);
+   if (dude_charisma > 6) then begin
+      GOption(613, Node037, 004);
+   end
+   BOption(623, Node033, 004);
+   BOption(614, Node033, 004);
+   prev_node := 35;
+end
+procedure Node036 begin
+   Reply(630);
+   NOption(631, Node037, 004);
+   if (dude_charisma > 6) then begin
+      GOption(613, Node037, 004);
+   end
+   BOption(633, Node033, 004);
+   prev_node := 36;
+end
+procedure Node037 begin
+   set_assassination(assassination_assigned);
+   Reply(640);
+   NOption(641, Node038, 007);
+   NOption(642, Node999, 004);
+   if (dude_charisma > 6) then begin
+      GOption(652, Node999, 004);
+   end
+   prev_node := 37;
+end
+procedure Node038 begin
+   Reply(650);
+   NOption(651, Node999, 007);
+   if (dude_charisma > 6) then begin
+      GOption(652, Node999, 004);
+   end
+   prev_node := 38;
+end
+procedure Node039 begin
+   if (salvatore_dead) then begin
+      Reply(661);
+      GOption(662, Node041, 004);
+   end else begin
+      Reply(660);
+      BOption(663, Node999, 004);
+   end
+   BOption(664, Node040, 004);
+   prev_node := 39;
+end
+procedure Node040 begin
+   Reply(670);
+   NOption(671, Node999, 004);
+   BOption(672, Node998, 004);
+   prev_node := 40;
+end
+procedure Node041 begin
+   set_assassination(assassination_done);
+   display_mstr(925);
+   if (salvatore_assassinated) then begin
+      give_xp(EXP_ASSASSINATE_SALVATORE_ASSIGNED);
+   end else begin
+      give_xp(EXP_KILL_SALVATORE_ASSIGNED);
+   end
+   if (dude_charisma > 5) then begin
+      Reply(mstr(680) + mstr(683));
+      give_pid_qty(dude_obj, PID_GREASE_GUN, 1)
+      give_pid_qty(dude_obj, PID_LEATHER_ARMOR_MK_II, 1)
+   end else begin
+      Reply(680);
+   end
+   item_caps_adjust(dude_obj, 500);
+   NOption(681, Node979, 004);
+   BOption(682, Node978, 004);
+end
+procedure Node042 begin
+   Reply(690);
+   GOption(691, Node044, 004);
+   BOption(692, Node043, 004);
+   BOption(693, Node043, 004);
+   prev_node := 42;
+end
+procedure Node043 begin
+   Reply(700);
+   BOption(266, Node998, 004);
+   BOption(267, Node998, 004);
+   BOption(mstr(268) + dude_name + mstr(5268), Node998, 004);
+   prev_node := 43;
+end
+procedure Node044 begin
+   setup_set_made_man_name(710, "Node045", family_mordino)
+   prev_node := 44;
+end
+procedure Node045 begin
+   display_mstr(900);
+   give_xp(EXP_NEW_RENO_MORDINO_MADE_MAN);
+   Reply(720);
+   NOption(571, Node999, 004);
+   GOption(492, Node999, 004);
+   prev_node := 45;
+end
+procedure Node046 begin
+   Reply(730);
+   if (know_mordino) then begin
+      BOption(731, Node047, 004);
+   end
+   NOption(732, Node048, 004);
+   NOption(733, Node011, 004);
+   NOption(734, Node999, 004);
+   prev_node := 46;
+end
+procedure Node047 begin
+   Reply(740);
+   BOption(741, Node010, 004);
+   NOption(742, Node048, 004);
+   NOption(743, Node011, 004);
+   NOption(744, Node999, 004);
+   prev_node := 47;
+end
+procedure Node048 begin
+   Reply(750);
+   NOption(751, Node011, 004);
+   NOption(752, Node999, 004);
+   prev_node := 48;
+end
+procedure Node049 begin
+   Reply(760);
+   NOption(761, Node011, 004);
+   NOption(762, Node999, 004);
+   prev_node := 49;
+end
+procedure Node050 begin
+   Reply(770);
+   BOption(771, Node009, 004);
+   NOption(762, Node999, 004);
+   prev_node := 50;
+end
+procedure Node051 begin
+   Reply(780);
+   BOption(781, Node052, 004);
+   NOption(782, Node023, 004);
+   prev_node := 51;
+end
+procedure Node052 begin
+   Reply(790);
+   BOption(501, Node998, 004);
+   BOption(792, Node033, 004);
+   NOption(782, Node023, 004);
+   prev_node := 52;
+end

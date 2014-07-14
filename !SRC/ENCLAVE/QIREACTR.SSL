@@ -1,0 +1,80 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\encrctr.h"
+
+#define NAME                    SCRIPT_QIREACTR
+
+#include "..\headers\command.h"
+
+#define ShockPerson(who)        if ((who != 0) and (tile_in_tile_rect(13480,13468,16680,16668,tile_num(who)))) then          \
+                                    critter_dmg(who,40,DMG_electrical)
+
+procedure start;
+procedure damage_p_proc;
+procedure description_p_proc;
+
+procedure start begin
+end
+
+procedure damage_p_proc begin
+   if ( ((weapon_dmg_type(target_obj) == DMG_explosion) and (map_var(MVAR_Reactor_Off) == 0)) and (global_var(GVAR_ENCLAVE_REACTOR) < ENCLAVE_REACTOR_OFF) ) then begin //edit by killap
+       set_map_var(MVAR_Reactor_Off,1);
+       set_global_var(GVAR_ENCLAVE_REACTOR,ENCLAVE_REACTOR_OFF);
+       if (global_var(GVAR_ENCLAVE_COUNTDOWN) == 0) then
+           set_global_var(GVAR_ENCLAVE_COUNTDOWN,game_time);
+       set_global_var(GVAR_ENCLAVE_ALARM,ALARM_REACTOR);
+       set_global_var(GVAR_ENCLAVE_COMPUTER,COMPUTER_DESTROYED);  //added by killap
+       display_msg(g_mstr(1011));
+       give_xp(EXP_DESTROY_REACTOR_COMPUTER);
+
+       ShockPerson(dude_obj);
+       ShockPerson(Vic_Ptr);
+       ShockPerson(Myron_Ptr);
+       ShockPerson(Marcus_Ptr);
+       ShockPerson(MacRae_Ptr);
+       ShockPerson(Sulik_Ptr);
+       ShockPerson(Lenny_Ptr);
+       ShockPerson(Cyberdog_Ptr);
+       ShockPerson(Doc_Ptr);
+       ShockPerson(Goris_Ptr);
+       ShockPerson(Davin_Ptr);
+       ShockPerson(Miria_Ptr);
+       ShockPerson(Robobrain_Ptr);
+       ShockPerson(Dogmeat_Ptr);
+       ShockPerson(Pariah_Dog_Ptr); //added by killap
+       ShockPerson(K9_Ptr); //added by killap
+       ShockPerson(Robobrain_Human_Ptr);
+       ShockPerson(Robobrain_Abnormal_Ptr); //added by killap
+       ShockPerson(Robobrain_Chimp_Ptr); //added by killap
+       ShockPerson(Laddie_Ptr);  //added by killap
+   end
+end
+
+procedure description_p_proc begin
+end

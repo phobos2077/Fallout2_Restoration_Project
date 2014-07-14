@@ -1,0 +1,78 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+variable grave_was_open;
+
+procedure def_use_p_proc;
+procedure def_description_p_proc;
+procedure def_look_at_p_proc;
+procedure grave_description_proc;
+procedure grave_use_proc;
+procedure grave_look_proc;
+
+procedure description_p_proc begin
+   call grave_description_proc;
+end
+
+procedure use_p_proc begin
+   call grave_use_proc;
+end
+
+procedure look_at_p_proc begin
+   call grave_look_proc;
+end
+
+#define look_at_p_proc                          def_look_at_p_proc
+#define use_p_proc                              def_use_p_proc
+#define description_p_proc                      def_description_p_proc
+
+#define GIVE_HEADSTONE_NAME                     false
+#define TOWN_REP_VAR                            GVAR_TOWN_REP_NEW_RENO
+
+#include "..\generic\ziGenGrv.ssl"
+#include "..\headers\NewReno.h"
+
+#undef NAME
+#define NAME                                    SCRIPT_NIWRIGRV
+
+#define check_set_examine_body(def_process)                    \
+         if (examined_body == false) then begin                \
+            script_overrides;                                  \
+            display_mstr(201);                                 \
+            display_mstr(300);                                 \
+            floater(202);                                      \
+            if (jet_canister_poison == false) then begin       \
+               give_xp(EXP_NEW_RENO_RICHARD_POISONED);         \
+            end                                                \
+            set_examined_body;                                 \
+         end else begin                                        \
+            call def_process;                                  \
+         end
+
+procedure grave_description_proc begin
+   if (is_headstone) then begin
+      script_overrides;
+      display_mstr(100);
+   end else if ((get_mystery_flag(MYSTERY_STATE_ASSIGNED)) and (site_is_uncovered)) then begin
+      check_set_examine_body(def_description_p_proc)
+   end else begin
+      call def_description_p_proc;
+   end
+end
+
+procedure grave_use_proc begin
+   if ((get_mystery_flag(MYSTERY_STATE_ASSIGNED)) and (site_is_uncovered)) then begin
+      check_set_examine_body(def_use_p_proc)
+   end else begin
+      call def_use_p_proc;
+   end
+end
+
+procedure grave_look_proc begin
+   if ((is_headstone) or (site_is_covered)) then begin
+      call def_look_at_p_proc;
+   end else begin
+      display_mstr(200);
+   end
+end

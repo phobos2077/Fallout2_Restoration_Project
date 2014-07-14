@@ -1,0 +1,395 @@
+/*
+	Script for critter tmplete
+*/
+
+
+
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\tribe02.H" 
+#define NAME                    SCRIPT_TRIBEC9
+
+#define TOWN_REP_VAR            GVAR_TOWN_REP_PRIMITIVE_TRIBE
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+procedure Node999;
+procedure Node990;
+procedure Node991;
+procedure Node992;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Wounded_In_Cave            (7)
+#define LVAR_Move_To_Exit               (8)
+#define LVAR_Do_Once                    (9)
+#define LVAR_Destroy_Once               (10)
+#define LVAR_Do_Once_2                  (11)
+#define LVAR_Time                       (12)
+
+
+import variable WARRIOR_obj;
+import variable GECKO_obj;
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+   WARRIOR_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   if (global_var(GVAR_MISSING_WARRIOR) > 6) then
+      display_msg(mstr(106));
+   else if ( (global_var(GVAR_MISSING_WARRIOR) == 5) or (global_var(GVAR_MISSING_WARRIOR) == 6) ) then
+      display_msg(mstr(105));
+   else if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(102));
+   else if (local_var(LVAR_Wounded_In_Cave) == 1) then
+      display_msg(mstr(103));
+   else if (local_var(LVAR_Wounded_In_Cave) == 0) then
+      display_msg(mstr(104));
+end
+
+procedure use_skill_on_p_proc begin
+   if ( (action_being_used == SKILL_DOCTOR) or (action_being_used == SKILL_FIRST_AID) ) then begin
+      script_overrides;
+      floater(700);
+   end
+end
+
+
+procedure use_obj_on_p_proc begin
+   if ( (obj_pid(obj_being_used_with) == PID_DOCTORS_BAG) or (obj_pid(obj_being_used_with) == PID_FIRST_AID_KIT) or (obj_pid(obj_being_used_with) == PID_PARAMEDICS_BAG) ) then begin
+      script_overrides;
+      floater(700);
+   end
+end
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure destroy_p_proc begin
+   WARRIOR_obj := -1;
+   
+   if (global_var(GVAR_MISSING_WARRIOR) < 4) then
+      set_global_var(GVAR_MISSING_WARRIOR,2); //evil outcome - (failure)
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_global_var(GVAR_ENEMY_PRIMITIVE_TRIBE,1);
+      attack(dude_obj);
+   end
+end
+
+procedure critter_p_proc begin
+
+   if ( (global_var(GVAR_MISSING_WARRIOR) < 3) and (not(combat_is_initialized)) and (self_distance_from_dude <= 2) ) then begin
+      call talk_p_proc;
+   end
+
+   if ( (REP_ENEMY_PRIMITIVE_TRIBE) and (self_can_see_dude) ) then begin
+       attack(dude_obj);
+   end else begin
+   
+      if ( (self_tile != 22727) and (local_var(LVAR_Move_To_Exit) == 1) ) then begin
+         anim_move_to_point_rate(22727, 1)
+      end else if ( (self_tile == 22727) and (local_var(LVAR_Move_To_Exit) == 1) ) then begin 
+         set_local_var(LVAR_Move_To_Exit,2);
+      end
+   
+   end
+end
+
+
+procedure combat_p_proc begin
+   script_overrides;
+   if ( (GECKO_obj == -1) and (local_var(LVAR_Do_Once_2) == 0) ) then begin
+      set_local_var(LVAR_Do_Once_2,1);
+      terminate_combat;
+   end
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PRIMITIVE_TRIBE);
+   if ( (global_var(GVAR_MISSING_WARRIOR) == 1) ) then begin
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+      if (local_var(LVAR_Do_Once) == 0) then begin
+         set_local_var(LVAR_Do_Once,1);
+      
+         critter_injure(self_obj,DAM_CRIP_LEG_RIGHT);
+         critter_heal(self_obj,-((get_critter_stat(self_obj,STAT_max_hp))-1));
+        
+         set_local_var(LVAR_Wounded_In_Cave,1);
+           
+         reg_anim_clear( self_obj );
+         reg_anim_begin();
+            reg_anim_animate( self_obj,ANIM_fall_back_sf,-1);
+         reg_anim_end();
+         critter_injure( self_obj,DAM_KNOCKED_DOWN);
+      end
+   end  
+      
+   if (cur_map_index == MAP_PRIMITIVE_TRIBE1) then begin
+      if (global_var(GVAR_MISSING_WARRIOR) == 4) then begin
+         move_to(self_obj, 18517, 1);
+         reg_anim_clear( self_obj );
+         reg_anim_begin();
+            reg_anim_animate(self_obj,ANIM_fall_back_sf,ANIMATE_FORWARD);
+         reg_anim_end();
+         
+         animate_rotation(3);
+         
+         set_global_var(GVAR_MISSING_WARRIOR,5);
+         set_local_var(LVAR_Time,game_time);
+      end else if ( ((game_time - local_var(LVAR_Time)) >= 2*ONE_GAME_DAY) and ( (global_var(GVAR_MISSING_WARRIOR) == 5) or (global_var(GVAR_MISSING_WARRIOR) == 6) ) ) then begin
+         set_global_var(GVAR_MISSING_WARRIOR,7);
+         reg_anim_clear( self_obj );
+         reg_anim_begin();
+            reg_anim_animate(self_obj,ANIM_stand,ANIMATE_FORWARD);
+         reg_anim_end();
+         
+         move_to(self_obj, 21890, 1);
+         
+         animate_rotation(3);
+      end
+   end
+   
+   if( (global_var(GVAR_MISSING_WARRIOR) >= 5) and (cur_map_index == MAP_PRIMITIVE_TRIBE2) ) then
+      destroy_object(self_obj);
+   
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+   if( (REP_ENEMY_PRIMITIVE_TRIBE) and (cur_map_index == MAP_PRIMITIVE_TRIBE2) ) then
+      destroy_object(self_obj);
+
+   //if ((local_var(LVAR_Wounded_In_Cave) == 0) and (dude_elevation == 0) and (global_var(GVAR_MISSING_WARRIOR) >= 3) and (local_var(LVAR_Destroy_Once) == 0) ) then begin
+   //   set_local_var(LVAR_Destroy_Once,1);
+   //   destroy_object(self_obj);
+   //end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_global_var(GVAR_ENEMY_PRIMITIVE_TRIBE,1);
+   end
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+
+   set_local_var(LVAR_Herebefore,1);
+   if (local_var(LVAR_Wounded_In_Cave) == 1) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+      end_dialogue;
+   end else if (global_var(GVAR_MISSING_WARRIOR) == 4) then begin
+      floater(300);
+   end else if ( (global_var(GVAR_MISSING_WARRIOR) == 5) or (global_var(GVAR_MISSING_WARRIOR) == 6) ) then begin
+      float_msg(self_obj, message_str(NAME,random(500,501)), FLOAT_MSG_PURPLE);
+   end else if (global_var(GVAR_MISSING_WARRIOR) == 7) then begin
+      if (Fallout2_enclave_destroyed) then begin
+         floater(random(1000,1001));
+      end else begin
+         floater(400);
+      end
+   end
+end
+
+procedure Node001 begin
+   Reply(200);
+   NOption(201,Node002,004);
+end
+
+procedure Node002 begin
+   Reply(202);
+   NOption(203,Node003,004);
+end
+
+procedure Node003 begin
+   Reply(204);
+   NOption(205,Node004,004);
+end
+
+procedure Node004 begin
+   Reply(206);
+   NOption(207,Node005,004);
+end
+
+procedure Node005 begin
+   Reply(208);
+   NOption(209,Node006,004);
+end
+
+procedure Node006 begin
+   Reply(210);
+   NOption(211,Node007,004);
+end
+
+procedure Node999 begin
+
+end
+
+procedure Node007 begin
+   Reply(212);
+   if ( (has_skill(dude_obj,SKILL_DOCTOR) > 90) ) then
+      NOption(213,Node008,004);
+   else if (dude_strength > 5) then
+      NOption(214,Node011,004);
+   else if (Marcus_In_Party) then
+      NOption(217,Node011,004);
+   else if (Sulik_In_Party) then
+      NOption(216,Node011,004);
+   else
+      NOption(215,Node012,004);
+end
+
+procedure Node008 begin
+   critter_uninjure(self_obj,DAM_CRIP_LEG_RIGHT);
+   display_msg(mstr(600));
+   give_xp(25);
+   Reply(218);
+   NOption(209,Node009,004);
+end
+
+procedure Node009 begin
+   critter_uninjure(self_obj,DAM_CRIP_LEG_RIGHT);
+   critter_heal(self_obj,10);
+   game_time_advance(ONE_GAME_MINUTE * 15);
+   Reply(219);
+   NOption(220,Node010,004);
+   
+end
+
+procedure Node010 begin
+   gfade_out(600);
+   gfade_in(600);
+   game_time_advance(ONE_GAME_MINUTE*15);
+   Reply(221);
+   NOption(222,Node990,004);
+   
+end
+
+procedure Node011 begin
+   call Node991;
+   move_to(self_obj, 18517, 1);
+   load_map(MAP_PRIMITIVE_TRIBE1,0);
+end
+
+procedure Node012 begin
+   call Node992;
+   //load_map((156),0);
+end
+
+procedure Node990 begin
+   //reg_anim_begin();
+      anim(self_obj, ANIM_stand, 2);
+	//reg_anim_end();
+	
+	set_local_var(LVAR_Move_To_Exit,1);
+	call Node991;
+end
+
+procedure Node991 begin
+   set_local_var(LVAR_Wounded_In_Cave,0);
+   set_global_var(GVAR_MISSING_WARRIOR,4);
+end
+
+procedure Node992 begin
+   set_local_var(LVAR_Wounded_In_Cave,0);
+   set_global_var(GVAR_MISSING_WARRIOR,3);
+end

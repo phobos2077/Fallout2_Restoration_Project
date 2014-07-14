@@ -1,0 +1,1815 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Merk
+        Location: NCR Entrance, NCR middle, NCR somewhere else
+        Description: Merk he likes to be a pain in the ass to script. He is kind of the crime
+        boss.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\ncrent.h"
+
+#define NAME                    SCRIPT_SCMERK
+#define TOWN_REP_VAR         GVAR_TOWN_REP_NCR
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#include "..\headers\ncr.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+procedure combat_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+#define ndef(x) procedure Node##x
+#define nbody(x) procedure Node##x begin
+#define nbodyEnd end
+
+ndef(001);
+ndef(002);
+ndef(003);
+ndef(004);
+ndef(005);
+ndef(006);
+ndef(007);
+ndef(008);
+ndef(009);
+ndef(010);
+ndef(011);
+ndef(012);
+ndef(013);
+ndef(014);
+ndef(015);
+ndef(016);
+ndef(017);
+ndef(018);
+ndef(019);
+ndef(020);
+ndef(021);
+ndef(022);
+ndef(023);
+ndef(024);
+ndef(025);
+ndef(026);
+ndef(027);
+ndef(028);
+ndef(029);
+ndef(030);
+ndef(031);
+ndef(032);
+ndef(033);
+ndef(034);
+ndef(035);
+ndef(036);
+ndef(037);
+ndef(038);
+ndef(039);
+ndef(040);
+ndef(041);
+ndef(042);
+ndef(043);
+ndef(044);
+ndef(045);
+ndef(046);
+ndef(047);
+ndef(048);
+ndef(049);
+ndef(050);
+ndef(051);
+ndef(052);
+ndef(053);
+ndef(054);
+procedure Node055;
+
+procedure loadMapPosition;
+procedure enterMap;
+procedure exitMap;
+procedure shouldBeHere;
+procedure onValidMap;
+procedure ensureAnimation;
+procedure whatTile;
+procedure whereAmI;
+procedure doMerkAttack;
+procedure LennyFight;
+procedure EndFight;
+procedure ReturnWeapons;
+
+procedure unHideParty;
+procedure checktime;
+
+//#define MERK_ACTIVE (Active_Map)
+#define MERK_ACTIVE (local_var(LVAR_Active_Map)) //edit by killap
+#define MERK_TIMER_APPEAR 1
+#define MERK_TIMER_LEAVE  2
+#define MERK_TIMER_DELETE 3
+#define MERK_TIMER_ENSURE_ANIM 4
+#define MERK_TIMER_PRIVACY     5
+#define MERK_TIMER_STAIRS_TOUCHED 6
+#define MERK_TIMER_ENSURE_NO_STUCK_FIGHT 7 //added by killap
+
+#define set_merk_seed_status(x) set_mss(x)
+//#define set_merk_seed_status(x) set_global_var(GVAR_NCR_SCMERK_SEED_STATUS, (x bwor global_var(GVAR_NCR_SCMERK_SEED_STATUS)))
+
+#define IN_CARLSON 1
+#define IN_HOME    2
+#define IN_RAWHIDE 3
+#define IN_TRANSIT 4
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+//#define LVAR_Herebefore                 (4)
+//#define LVAR_Hostile                    (5)
+//#define LVAR_Personal_Enemy             (6)
+#define LVAR_Do_Lenny_Fight               (4)   //added by killap
+#define LVAR_doLennyDeadDialog            (5)   //added by killap
+#define LVAR_Active_Map                   (6)
+#define LVAR_Should_Animate               (7)
+#define LVAR_Time                         (8)
+#define LVAR_Retval                       (9)
+#define LVAR_Timeres                      (10)
+#define LVAR_Time_Map                     (11)
+#define LVAR_Where                        (12)
+#define LVAR_Hit_Check_Point              (13) //added by killap
+#define LVAR_Previous_Destination         (14) //added by killap
+#define LVAR_Warn                         (15) //added by killap - expansion
+/*************** Globals that were locals ***************************
+GVAR_NCR_SCMERK_HEREBEFORE
+GVAR_NCR_SCMERK_HOSTILE
+GVAR_NCR_SCMERK_PERSONAL_ENEMY
+*********************************************************************/
+
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+import variable playerTmpBox;
+import variable playerTmpBox2;  //added by killap
+import variable lenny_obj;
+import variable merk_obj;
+import variable merk_visible;
+import variable merk_guard1_obj; //added by killap
+import variable merk_guard2_obj; //added by killap
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once         := 0;
+//variable Active_Map        := 0;
+//variable should_animate    := 0;
+variable Node020Repeat     := 0;
+variable Node029Repeat     := 0;
+variable Merk_Question     := 0;
+//variable Do_Lenny_Fight    := 0;
+//variable doLennyDeadDialog := 0;
+variable do_once :=0; //added by killap
+variable called_timer :=0; //added by killap
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == MERK_TIMER_APPEAR) then begin
+      set_local_var(LVAR_Active_Map,shouldBeHere); //edit by killap
+      //Active_Map := shouldBeHere;
+      if (local_var(LVAR_Active_Map)) then begin //edit by killap
+      //if (Active_Map) then begin
+         set_local_var(LVAR_Previous_Destination,local_var(LVAR_Should_Animate)); //NEW KILLAP
+         call enterMap;
+         add_timer_event(self_obj, game_ticks(1), MERK_TIMER_LEAVE); //was ONE_GAME_MINUTE
+      end else begin
+         add_timer_event(self_obj, game_ticks(1), MERK_TIMER_APPEAR); //was ONE_GAME_MINUTE
+      end
+   end else if (fixed_param == MERK_TIMER_LEAVE) then begin
+      set_local_var(LVAR_Active_Map,shouldBeHere); //edit by killap
+      //Active_Map := shouldBeHere;
+      if not (local_var(LVAR_Active_Map)) then begin //edit by killap
+      //if not (Active_Map) then begin
+         set_local_var(LVAR_Previous_Destination,local_var(LVAR_Should_Animate)); //NEW KILLAP
+         call exitMap;
+         add_timer_event(self_obj, game_ticks(1), MERK_TIMER_APPEAR); //was ONE_GAME_MINUTE - killap
+      end else begin
+         if (tile_num(self_obj) != whatTile and (local_var(LVAR_Should_Animate) == 0)) then begin //edit by killap
+         //if (tile_num(self_obj) != whatTile and should_animate == 0) then begin
+            //should_animate := whatTile;
+            set_local_var(LVAR_Should_Animate,whatTile); //edit by killap
+            call ensureAnimation;
+         end
+         add_timer_event(self_obj, game_ticks(1), MERK_TIMER_LEAVE); //was ONE_GAME_MINUTE - killap
+      end
+   end else if (fixed_param == MERK_TIMER_DELETE) then begin
+      if (cur_map_index == MAP_NCR_BAZAAR) then begin
+         if (tile_num(self_obj) == MERK_ENTER_BAZAAR_MAP) then begin
+            set_obj_visibility(self_obj, OBJ_INVIS);
+            merk_visible := 0;
+         end
+         else
+            add_timer_event(self_obj, game_ticks(1), MERK_TIMER_DELETE); //was 2 tick
+      end
+      else if (cur_map_index == MAP_NCR_COUNCIL) then begin
+         if (tile_num(self_obj) == MERK_ENTER_COUNCIL_MAP) then begin
+            set_obj_visibility(self_obj, OBJ_INVIS);
+            merk_visible := 0;
+         end
+         else
+            add_timer_event(self_obj, game_ticks(1), MERK_TIMER_DELETE); //was ONE_GAME_MINUTE
+      end
+   end else if (fixed_param == MERK_TIMER_ENSURE_ANIM) then begin
+      call ensureAnimation;
+      if (local_var(LVAR_Should_Animate) == 0) then begin //edit by killap
+      //if (should_Animate == 0) then begin 
+         set_local_var(LVAR_Hit_Check_Point,0);
+         //if (cur_map_index == MAP_NCR_BAZAAR) then --comment out by killap
+            animate_rotation(1);
+      end
+   end else if (fixed_param == MERK_TIMER_PRIVACY) then begin
+      if (obj_can_see_obj(self_obj, dude_obj)) then
+         call doMerkAttack;
+   //added by killap - expansion
+   end else if (fixed_param == MERK_TIMER_STAIRS_TOUCHED) then begin
+      if (local_var(LVAR_Warn) == 0) then begin
+         float_msg(self_obj, mstr(300), FLOAT_MSG_RED);
+         set_local_var(LVAR_Warn,1);
+      end else begin
+         float_msg(self_obj, mstr(301), FLOAT_MSG_RED);
+         call doMerkAttack;
+      end
+   end else if (fixed_param == MERK_TIMER_ENSURE_NO_STUCK_FIGHT) then begin
+      if ( (map_var(MVAR_Do_Lenny_Fight) == 1) and (not(combat_is_initialized)) ) then begin
+         call EndFight;
+      end else begin
+         add_timer_event(self_obj, game_ticks(4), MERK_TIMER_ENSURE_NO_STUCK_FIGHT);
+      end
+   end
+   //end added by killap
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   merk_obj := self_obj;
+   Only_Once:=0;
+   merk_visible := 1;
+   set_local_var(LVAR_Previous_Destination,0);
+   called_timer :=0; //added by killap
+   
+   if (merk_status == MERK_STATUS_DEAD) then begin
+      debug_msg("MERK: Killing merk because he was killed on another map.");
+      move_to(self_obj, 7000, 0);
+      destroy_object(self_obj);
+   end else begin
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_MERK);
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+      
+      set_local_var(LVAR_Active_Map,loadMapPosition); //edit by killap
+
+      //Active_Map := loadMapPosition;
+      if (local_var(LVAR_Active_Map)) then begin //edit by killap
+      //if (Active_Map) then begin
+         if (is_loading_game == FALSE) then begin
+            debug_msg("MERK: Should be visible");
+            set_obj_visibility(self_obj, OBJ_VIS);
+            merk_visible := 1;
+         end
+         add_timer_event(self_obj, game_ticks(1), MERK_TIMER_LEAVE); //was ONE_GAME_MINUTE
+      end else begin
+         debug_msg("MERK: Should be invisible");
+         if (is_loading_game == FALSE) then
+            set_obj_visibility(self_obj, OBJ_INVIS);
+            merk_visible := 0;
+         if (onValidMap) then begin
+            debug_msg("MERK: onVailMap");
+            add_timer_event(self_obj, game_ticks(1), MERK_TIMER_APPEAR); //was ONE_GAME_MINUTE
+         end
+      end
+   end
+
+   if (elevation(self_obj) == 1) then
+      set_local_var(LVAR_Do_Lenny_Fight, 1);   //added by killap
+      //Do_Lenny_Fight := 1;
+      
+end
+
+//added by killap
+procedure map_update_p_proc begin
+   merk_obj := self_obj;
+end
+//end added
+
+procedure map_exit_p_proc begin
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   //added by killap
+   if ( (do_once !=1) and self_visible ) then begin
+      do_once := 1;
+      merk_visible := 1;
+      debug_msg("merk is visible.");
+   end
+   //end added
+   
+   if ((global_var(GVAR_NCR_SCMERK_HOSTILE) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_global_var(GVAR_NCR_SCMERK_HOSTILE,1);
+       self_attack_dude;
+   end
+
+   //if ((((map_var(MVAR_Do_Lenny_Fight) == 1) and map_var(MVAR_Lenny_Dead) == 1)) or ((ncr_flag(NCR_KILLED_LENNY_SERUM_FLAG)) and (not(ncr_flag(NCR_MERK_SERUM_FLAG))) and (map_var(MVAR_Do_Lenny_Fight) == 1))) then begin //edit by killap
+   if (map_var(MVAR_Do_Lenny_Fight) == 1) and ( (lenny_obj == -1) or (map_var(MVAR_Lenny_Dead) == 1) or ((ncr_flag(NCR_KILLED_LENNY_SERUM_FLAG)) and (not(ncr_flag(NCR_MERK_SERUM_FLAG)))) ) then begin //edit by killap
+      debug_msg("MERK: should end fight");
+      call EndFight;
+      //display_msg("hello!");
+   //added by killap
+   end else if ( (map_var(MVAR_Do_Lenny_Fight) == 1) and (not(combat_is_initialized)) ) then begin
+      if (called_timer == 0) then begin
+         called_timer:=1;
+         add_timer_event(self_obj, game_ticks(4), MERK_TIMER_ENSURE_NO_STUCK_FIGHT);
+      end
+   end
+   //end added
+   
+   if (ncr_flag(NCR_KILLED_LENNY_SERUM_FLAG) and (not(ncr_flag(NCR_MERK_SERUM_FLAG))) and (map_var(MVAR_Do_Lenny_Fight) == 0)) then begin //edit by killap
+      if (obj_can_see_obj(self_obj, dude_obj) and self_visible) then begin
+         set_ncr_flag(NCR_MERK_SERUM_FLAG);
+         float_msg(self_obj, mstr(265), FLOAT_MSG_RED);
+         set_global_var(GVAR_NCR_SCMERK_HOSTILE,1);
+      end
+   end
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_global_var(GVAR_NCR_SCMERK_PERSONAL_ENEMY,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_global_var(GVAR_NCR_SCMERK_HOSTILE,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   //variable where;
+//display_msg("enetered dialoguenode");
+   Evil_Critter:=1;
+   Slavery_Tolerant:=SLAVE_TOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION1;
+
+   CheckKarma;
+
+   GetReaction;
+
+   ReactToLevel; //added by killap
+   
+   //where := whereAmI;
+   set_local_var(LVAR_Where,whereAmI);
+
+//   if (obj_is_carrying_obj_pid(dude_obj, PID_DOC_PAPERS)) then
+//
+
+   //This is gettting messy. After the lenny fight and your still in the game
+   //I need to jump to node019 but this is probably the only time I should do it.
+   //It is more of a continuation from the Lenny Fight string in the dialogs.
+   
+
+   if (global_var(GVAR_NCR_SCMERK_HOSTILE) == 1) then begin
+      call Node998;
+   end else begin
+
+      //if (doLennyDeadDialog) then begin
+      if (local_var(LVAR_doLennyDeadDialog) == 1) then begin
+         //display_msg("lennydeaddialog");
+         set_merk_status(MERK_STATUS_PLEASED); //added by killap
+         set_local_var(LVAR_doLennyDeadDialog, 0); //added by killap
+   //      doLennyDeadDialog := 0;
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node019;
+         gSay_End;
+         end_dialogue;
+         fadeout(1);
+         move_to(dude_obj, FIGHTRETURNTILE, 0);
+        // move_to(merk_guard1_obj, 22355, 0); // added by killap
+        // move_to(merk_guard2_obj, 22352, 0); // added by killap
+        // move_to(self_obj, 22354, 0); // added by killap
+         call ReturnWeapons;
+         call unHideParty;
+         fadein(1);
+      end else begin
+         //display_msg("NOT_lennydeaddialog");
+         debug_msg("MERK: Current Status: " + local_var(LVAR_Where));
+         if (local_var(LVAR_Where) == IN_CARLSON) then begin
+            if (merk_status == 0) then
+               call Node002;
+            else
+               call Node003;
+         end else if (local_var(LVAR_Where) == IN_HOME) then begin
+            call Node001;
+         end else if (local_var(LVAR_Where) == IN_RAWHIDE) then begin
+  //          if (merk_seed_status(MSS_DR_HENRY_DONE)) then
+    //           call Node054;
+           /* else */if (merk_seed_status(MSS_DR_HENRY_ACCEPT) and not merk_seed_status(MSS_DR_HENRY_DONE)) then begin
+               start_gdialog(NAME,self_obj,4,-1,-1);
+               gSay_Start;
+                  call Node048;
+               gSay_End;
+               end_dialogue;
+            end else if (merk_status == MERK_STATUS_BAD_REACTION) then begin
+               start_gdialog(NAME,self_obj,4,-1,-1);
+               gSay_Start;
+                  call Node043;
+               gSay_End;
+               end_dialogue;
+            end else if (merk_status == MERK_STATUS_PLEASED and not merk_seed_status(MSS_DR_HENRY_DONE)) then begin
+               start_gdialog(NAME,self_obj,4,-1,-1);
+               gSay_Start;
+                  call Node042;
+               gSay_End;
+               end_dialogue;
+            end else if ((merk_seed_status(MSS_KILL_SKEETER) and merk_seed_status(MSS_SKEETER_DEAD) == 0) or (merk_seed_status(MSS_KILL_ELRON) and merk_seed_status(MSS_ELRON_DEAD) == 0)) then begin
+               start_gdialog(NAME,self_obj,4,-1,-1);
+               gSay_Start;
+                  call Node006;
+               gSay_End;
+               end_dialogue;
+            end else begin
+               start_gdialog(NAME,self_obj,4,-1,-1);
+               gSay_Start;
+                  call Node005;
+               gSay_End;
+               end_dialogue;
+               set_global_var(GVAR_NCR_SCMERK_HEREBEFORE, 1);
+            end
+         end else if (local_var(LVAR_Where) == IN_TRANSIT) then begin
+            call Node004;
+         end
+         if (global_var(GVAR_NCR_CAR_JACKED) == 2) then begin
+            //Restore car now.
+	    // added by killap - expansion
+            move_obj_inven_to_obj(playerTmpBox2, Trunk_Ptr);
+            //reset jacking
+            set_global_var(GVAR_NCR_CAR_JACKED, 0);
+	    // end added
+         end
+         if (map_var(MVAR_Do_Lenny_Fight) == 1) then begin //added by killap
+         //if (Do_lenny_fight == 1) then begin
+            call LennyFight;
+         end
+      end
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+   set_merk_status(MERK_STATUS_DEAD);
+   debug_msg("MERK: should have set merk to be dead. Arg");
+
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (global_var(GVAR_NCR_SCMERK_HEREBEFORE) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_global_var(GVAR_NCR_SCMERK_HOSTILE,2);
+   //Need to make his goons attack too.
+
+   set_merk_status(MERK_STATUS_BAD_REACTION);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+procedure Node997 begin
+   //Lenny fight... ugg
+   //Do_lenny_fight := 1;
+   set_map_var(MVAR_Do_Lenny_Fight,1);
+   //set_local_var(LVAR_Do_Lenny_Fight, 1); //added by killap
+end
+
+procedure doMerkAttack begin
+//Simply a filler to make merk attack but called when not in dialog
+   call Node998;
+//   set_global_var(GVAR_NCR_SCMERK_HOSTILE, 2);
+end
+
+nbody(001)
+   if (dude_is_pornstar) then
+      float_msg(self_obj, mstr(103), FLOAT_MSG_NORMAL);
+   else begin
+      floater((104));
+      add_timer_event(self_obj, game_ticks(5), MERK_TIMER_PRIVACY);
+   end
+nbodyEnd
+
+nbody(002)
+   variable msgNum := 105;
+
+   msgNum += Random(0, 8);
+   if (msgNum == 107 and not dude_is_pornstar) then
+      msgNum := 105;
+   if (msgNum == 108 and not has_rep_childkiller) then
+      msgNum := 105;
+   else
+      set_merk_status(MERK_STATUS_MET);
+   if (msgNum == 109 and ( (check_general_rep < KARMA_DEFENDER) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) ) then //edit by killap - added and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+      msgNum := 105;
+   if (msgNum == 113 and dude_is_male) then
+      msgNum := 105;
+
+   float_msg(self_obj, mstr(msgNum), FLOAT_MSG_NORMAL);
+nbodyEnd
+
+nbody(003)
+   variable msgNum := 114;
+
+   msgNum += Random(0, 6);
+   if (msgNum == 115 and not has_rep_childkiller) then
+      msgNum := 114;
+   if (msgNum == 116 and ( (check_general_rep < KARMA_DEFENDER) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) ) then //edit by killap - added and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+      msgNum := 114;
+   if (msgNum == 117 and dude_is_male) then
+      msgNum := 114;
+
+   float_msg(self_obj, mstr(msgNum), FLOAT_MSG_NORMAL);
+nbodyEnd
+
+nbody(004)
+   float_msg(self_obj, mstr(121 + Random(0, 3)), FLOAT_MSG_NORMAL);
+nbodyEnd
+
+procedure Node1011a begin
+   if (bad_critter_reaction or merk_status == MERK_STATUS_BAD_REACTION) then
+      call Node010;
+   else
+      call Node011;
+end
+
+procedure Node1211a begin
+   if (skill_success(dude_obj, SKILL_CONVERSANT, 0)) then
+      call Node012;
+   else
+      call Node011;
+end
+
+/*nbody(005)
+   if (merk_status == MERK_STATUS_MET or global_var(GVAR_NCR_SCMERK_HEREBEFORE) == 1) then
+      Reply(126);
+   else if (bad_critter_reaction or merk_status == MERK_STATUS_BAD_REACTION) then
+      Reply(127);
+   else
+      Reply(125);
+
+   NLowOption(128, Node007);
+   //if ( (not merk_seed_status(MSS_ELRON_DEAD)) )then //Means you proved yourself and he already gave you the job
+   if (not(merk_status == MERK_STATUS_PLEASED)) then //edit by killap
+      NOption(129, Node008, 4);
+   if (global_var(GVAR_NCR_MERK_WORK) == 1) then
+      NOption(130, Node009, 4);
+   if (global_var(GVAR_NCR_CAR_JACKED) == 1) then
+      BOption(131, Node1011a, 4);
+   NOption(132, Node020, 4);
+   if (global_var(GVAR_NCR_CAR_JACKED) == 1) then
+      NOption(133, Node1211a, 7);
+   if (global_var(GVAR_NCR_FAKE_VAULT13_MAP) == DUDE_FIGURED_FAKE_MAP) then
+      NOption(266, Node037, 4);
+
+nbodyEnd*/
+
+nbody(005)
+   if (merk_status == MERK_STATUS_MET or global_var(GVAR_NCR_SCMERK_HEREBEFORE) == 1) then
+      Reply(126);
+   else if (bad_critter_reaction or merk_status == MERK_STATUS_BAD_REACTION) then
+      Reply(127);
+   else
+      Reply(125);
+
+   NLowOption(128, Node007);
+   if (not merk_seed_status(MSS_DR_HENRY_DONE)) then
+      NOption(129, Node008, 4);
+   if (global_var(GVAR_NCR_MERK_WORK) == 1) then begin
+      if (not merk_seed_status(MSS_DR_HENRY_DONE)) then begin
+         if ((not merk_seed_status(MSS_KILL_SKEETER)) and (not merk_seed_status(MSS_SKEETER_DEAD))) then begin
+            NOption(130, Node009, 4);
+         end else begin
+            NOption(130, Node008, 4);
+         end
+      end
+   end
+   if (global_var(GVAR_NCR_CAR_JACKED) == 1) then
+      BOption(131, Node1011a, 4);
+   NOption(132, Node020, 4);
+   if (global_var(GVAR_NCR_CAR_JACKED) == 1) then
+      NOption(133, Node1211a, 7);
+   if (global_var(GVAR_NCR_FAKE_VAULT13_MAP) == DUDE_FIGURED_FAKE_MAP) then
+      NOption(266, Node037, 4);
+
+nbodyEnd 
+
+nbody(006)
+   Reply(134);
+   NLowOption(135, Node044);
+   NOption(136, Node045, 4);
+   NOption(137, Node046, 4);
+nbodyEnd
+
+nbody(007)
+   if (dude_strength > 6) then
+      Reply(138);
+   else
+      Reply(139);
+
+   NOption(ENDSTRING, Node999, 0);
+nbodyEnd
+
+procedure Node2122a begin
+   if (has_rep_childkiller or has_rep_berserker) then
+      call Node021;
+   else
+      call Node022;
+end
+
+procedure Node999a begin
+   set_merk_status(MERK_STATUS_BAD_REACTION);
+end
+
+nbody(008)
+   debug_msg("SCMERK: " + merk_seed_status(MSS_ELRON_DEAD));
+   Reply(140);
+   if (global_var(GVAR_NCR_LENNY_MET) == 1 and map_var(MVAR_Lenny_Dead) == 0) then
+      BOption(141, Node014, 4);
+   if (not merk_seed_status(MSS_ELRON_DEAD)) then
+      NOption(142, Node016, 4);
+   if (Myron_In_Party) then
+      NOption(143, Node017, 4);
+   NOption(mstr(144) +  " " + dude_name + mstr(258) , Node2122a, 4);
+   NOption(145, Node999a, 4);
+nbodyEnd
+
+procedure Node999b begin
+   inc_general_rep(REP_BONUS_KILLED_GOOD_CRITTER);
+   //Take some rep off because the design said so.
+   set_merk_seed_status(MSS_KILL_SKEETER);
+   call Node999;
+end
+
+nbody(009)
+   Reply(146);
+   NOption(147, Node999b, 4);
+   NOption(148, Node022, 4);
+nbodyEnd
+
+nbody(010)
+   Reply(149);
+   NOption(ENDSTRING, Node998, 0);
+nbodyEnd
+
+procedure Node2413a begin
+   set_merk_status(MERK_STATUS_BAD_REACTION);
+//   if (check_general_rep <= KARMA_SWORD_OF_DESPAIR) then
+   if (dude_strength >= 8) then //added by killap
+      call Node024;
+   else
+      call Node013;
+end
+
+procedure Node1312a begin
+   if (merk_status == MERK_STATUS_BAD_REACTION) then
+      call Node013;
+   else begin
+      set_merk_status(MERK_STATUS_BAD_REACTION);
+      call Node012;
+   end
+end
+
+nbody(011)
+   Reply(150);
+   BOption(151, Node2413a, 4);
+   NOption(152, Node1312a, 4);
+   NOption(153, Node999, 4);
+nbodyEnd
+
+procedure Node25a begin
+   UpReact;
+   call Node025;
+end
+
+nbody(012)
+   Reply(154);
+   if (get_critter_stat(dude_obj, SKILL_BARTER) > 60) then
+      NOption(155, Node25a, 4);
+   BOption(156, Node2413a, 4);
+   NOption(157, Node027, 4);
+nbodyEnd
+
+nbody(013)
+   Reply(158);
+   NOption(ENDSTRING, Node998, 4);
+nbodyEnd
+
+nbody(014)
+   Reply(159);
+   NOption(160, Node015, 4);
+   NOption(161, Node999, 4);
+nbodyEnd
+
+nbody(015)
+   variable str := 0;
+   if (dude_is_male) then str := mstr(259);
+   else str := mstr(260);
+   Reply(mstr(162) + str);
+   NOption(ENDSTRING, Node997, 4);
+nbodyEnd
+
+nbody(016)
+   Reply(163);
+   NOption(164, Node028, 4);
+nbodyEnd
+
+nbody(017) // Note already check to see if Myron was in team
+   Reply(165);
+   GOption(166, Node018, 4);
+   NOption(167, Node023, 4);
+nbodyEnd
+
+procedure Node19a begin //Just making sure he is in the party.
+/*   if (Myron_In_Party) then begin
+      // Begin Seraph's Code
+         gfade_out(ONE_GAME_SECOND);
+         item_caps_adjust(dude_obj, 1000);
+         set_merk_status(MERK_STATUS_PLEASED);
+         if (critter_is_armed(Myron_Ptr)) then begin
+            inven_unwield(Myron_Ptr);
+         end
+         move_obj_inven_to_obj(Myron_Ptr, dude_obj); //killap's fix: need dude_obj, else inven goes to merk.
+         // remove & destroy Myron
+         party_remove(Myron_Ptr);
+         destroy_object(Myron_Ptr);
+         gfade_in(ONE_GAME_SECOND);
+      // End Seraph's Code
+      call Node019;
+   end*/
+//begin killap's code   
+    if (Myron_In_Party) then begin
+         gfade_out(ONE_GAME_SECOND);
+         item_caps_adjust(dude_obj, 1000);
+         set_merk_status(MERK_STATUS_PLEASED);
+         if (critter_is_armed(Myron_Ptr)) then begin
+            inven_unwield(Myron_Ptr);
+         end
+         move_obj_inven_to_obj(Myron_Ptr, dude_obj);
+         // destroy Myron. automatically remove ;)
+         move_to(Myron_Ptr, 0, 0);           //Thanks Avega
+         critter_heal(Myron_Ptr, -10000);    //Thanks Avega
+         party_remove(Myron_Ptr);
+         gfade_in(ONE_GAME_SECOND);
+      call Node019;
+   end
+//end killap's code   
+end
+
+nbody(018)
+   Reply(168);
+   NOption(169, Node19a, 4);
+   NOption(170, Node999, 4);
+nbodyEnd
+
+procedure Node39a begin
+   set_merk_seed_status(MSS_DR_HENRY_ACCEPT);
+   set_global_var(GVAR_NCR_DRPAPR_QST, 1);
+   call Node039;
+end
+
+nbody(019)
+   Reply(171);
+   NOption(172, Node39a, 4);
+   NOption(173, Node023, 4);
+nbodyEnd
+
+procedure Node20Rep begin
+   Merk_Question := 1;
+   item_caps_adjust(dude_obj, -50);
+   item_caps_adjust(self_obj, 50);
+   Node020Repeat += 1;
+   call Node020;
+end
+
+nbody(020)
+   if (Merk_Question == 1) then
+      call Node029;
+   else begin
+      if (Node020Repeat == 0) then begin
+         Reply(174);
+      end else begin
+         Reply(175);
+      end
+      if (dude_caps >= 50) then
+         NOption(176, Node20Rep, 4);
+      NOption(177, Node999, 4);
+   end
+nbodyEnd
+
+nbody(021)
+   Reply(178);
+   MOREOPTION(Node019); //178 == continue used more instead
+nbodyEnd
+
+nbody(022)
+   set_merk_status(MERK_STATUS_BAD_REACTION);
+   Reply(180);
+   ENDOPTION;
+nbodyEnd
+
+nbody(023)
+   set_merk_status(MERK_STATUS_BAD_REACTION);
+   Reply(181);
+   ENDOPTION;
+nbodyEnd
+
+procedure Node999c begin
+   set_global_var(GVAR_NCR_CAR_JACKED, 2);
+   call Node999;
+end
+
+nbody(024)
+   Reply(182);
+   NOption(183, Node999c, 4);
+   BOption(184, Node998, 4);
+nbodyEnd
+
+procedure NodeBarter begin
+   gdialog_barter;
+   call Node026;
+end
+
+nbody(025)
+   Reply(185);
+   MOREOPTION(NodeBarter);
+nbodyEnd
+
+nbody(026)
+   Reply(186);
+   ENDOPTION;
+nbodyEnd
+
+procedure Node4041a begin
+   if (get_critter_stat(dude_obj, SKILL_CONVERSANT) >= 90) then
+      call Node040;
+   else
+      call Node041;
+end
+
+nbody(027)
+   Reply(187);
+   NOption(188, Node4041a, 4);
+   NOption(189, Node026, 4);
+nbodyEnd
+
+procedure Node055d begin
+   set_merk_seed_status(MSS_KILL_ELRON);
+   set_global_var(GVAR_NCR_KILL_ELRON_QST, 1);
+   call Node055;
+end
+
+nbody(028)
+   Reply(190);
+   GOption(191, Node055d, 4);
+   if (global_var(GVAR_NCR_ELRON_ADJUST) == 1) then
+      BOption(192, Node998, 4);
+   NOption(193, Node023, 4);
+nbodyEnd
+
+procedure Node3731a begin
+   Merk_Question := 0;
+   if (global_var(GVAR_NCR_FAKE_VAULT13_MAP) == DUDE_HAS_FAKE_MAP or
+       global_var(GVAR_NCR_FAKE_VAULT13_MAP) == DUDE_FIGURED_FAKE_MAP) then
+      call Node037;
+   else
+      call Node031;
+end
+
+procedure Node32a begin
+   Merk_Question := 0;
+   call Node032;
+end
+
+procedure Node33a begin
+   Merk_Question := 0;
+   call Node033;
+end
+
+procedure Node34a begin
+   Merk_Question := 0;
+   call Node034;
+end
+
+procedure Node35a begin
+   Merk_Question := 0;
+   call Node035;
+end
+
+nbody(029)
+   if (Node029Repeat == 0) then
+      Reply(194);
+   else
+      Reply(195);
+   if (not vault_13_visible_on_map) then
+      NOption(196, Node3731a, 4);
+   if (dude_found_geck == 0) then
+      NOption(197, Node32a, 4);
+   if (ncr_rangers_known) then
+      NOption(198, Node33a, 4);
+   if (get_westin_flag(WESTIN_ACCEPT_SNUFF) and not get_westin_flag(WESTIN_DEAD)) then
+      NOption(199, Node34a, 4);
+   if (get_carlson_flag(CARLSON_ACCEPT_SNUFF) and not get_carlson_flag(CARLSON_DEAD)) then
+      NOption(200, Node35a, 4);
+   NOption(201, Node999, 4);
+nbodyEnd
+
+procedure Node29a begin
+   Merk_Question := 1;
+   item_caps_adjust(dude_obj, -50);
+   item_caps_adjust(self_obj, 50);
+   call Node029;
+end
+
+nbody(030)
+   Reply(202);
+   if (dude_caps >= 50) then
+      NOption(203, Node29a, 4);
+   NOption(204, Node999, 4);
+nbodyEnd
+
+procedure Node36a begin
+   variable holodisk;
+   if (global_var(GVAR_NCR_FAKE_VAULT13_MAP) == 0) then begin
+      //Need to make the holodisk script
+      item_caps_adjust(dude_obj, -1000);
+      item_caps_adjust(self_obj, 1000);
+      holodisk := create_object_sid(FAKE_HOLODISK, tile_num(self_obj), 0, SCRIPT_SIFAKHLO);
+      if (holodisk) then begin
+         add_obj_to_inven(dude_obj, holodisk);
+         set_global_var(GVAR_NCR_FAKE_VAULT13_MAP, DUDE_HAS_FAKE_MAP);
+         mark_vault_fake_13A_on_map
+      end else begin
+         debug_msg("sHolodisk wasn't created. UGG");
+      end
+   end
+   call Node036;
+end
+
+nbody(031)
+   Reply(205);
+   if (dude_caps > 999) then
+      NOption(206, Node36a, 4);
+   NOption(207, Node037, 7);
+   if (dude_iq <= 6) then
+      NOption(208, Node036, 1);
+nbodyEnd
+
+nbody(032)
+   Reply(209);
+   NOption(210, Node030, 4);
+   NOption(211, Node999, 4);
+nbodyEnd
+
+nbody(033)
+   Reply(212);
+   NOption(213, Node030, 4);
+   NOption(214, Node999, 4);
+nbodyEnd
+
+nbody(034)
+   Reply(215);
+   NOption(216, Node030, 4);
+   NOption(217, Node999, 4);
+nbodyEnd
+
+procedure Node3836a begin
+   if (merk_seed_status(MSS_DR_HENRY_DONE)) then
+      call Node038;
+   else
+      call Node036;
+end
+
+nbody(035)
+   Reply(218);
+   if (not (bad_critter_reaction) and (merk_status != MERK_STATUS_BAD_REACTION)) then
+      NOption(219, Node3836a, 4);
+   NOption(220, Node999, 4);
+nbodyEnd
+
+nbody(036)
+   Reply(221);
+   NOption(222, Node030, 4);
+   NOption(223, Node999, 4);
+nbodyEnd
+
+procedure Node37a begin
+   Reply(268);
+   BOption(269, Node998, 4);
+   NOption(270, Node999, 4);
+end
+
+nbody(037)
+   if (global_var(GVAR_NCR_FAKE_VAULT13_MAP) == 0) then
+      Reply(224);
+   else if (global_var(GVAR_NCR_FAKE_VAULT13_MAP) == DUDE_FIGURED_FAKE_MAP) then
+      Reply(226);
+   else if (global_var(GVAR_NCR_FAKE_VAULT13_MAP) == DUDE_HAS_FAKE_MAP) then
+      Reply(225);
+   NOption(227, Node030, 4);
+   NOption(228, Node999, 4);
+   if (global_var(GVAR_NCR_FAKE_VAULT13_MAP) == DUDE_FIGURED_FAKE_MAP) then
+      BOption(267, Node37a, 4);
+nbodyEnd
+
+procedure NodeCarlsonSec begin
+   set_carlson_flag(CARLSON_SECURITY_DUTY);
+   call Node999;
+end
+
+nbody(038)
+   Reply(229);
+   NOption(230, NodeCarlsonSec, 4);
+   NOption(231, Node999, 4);
+nbodyEnd
+
+nbody(039)
+   Reply(232);
+   ENDOPTION;
+nbodyEnd
+
+nbody(040)
+   Reply(233);
+   ENDHOSTILE;
+nbodyEnd
+
+nbody(041)
+   set_merk_status(MERK_STATUS_BAD_REACTION);
+   Reply(234);
+   ENDOPTION;
+nbodyEnd
+
+nbody(042)
+
+   //moved here from scenlone.ssl - killap
+   if (global_var(GVAR_NCR_SCMERK_SEED_STATUS) bwand (MSS_KILL_ELRON+MSS_ELRON_DEAD)) then begin
+      display_msg(mstr(271));
+      give_xp(EXP_MERK_HUB_DEAD);
+   end 
+   //end
+
+   Reply(235);
+   NOption(236, Node019, 4);
+   NOption(237, Node047, 4);
+   NOption(264, Node020, 4);
+   
+   set_merk_status(MERK_STATUS_PLEASED); //added by killap
+nbodyEnd
+
+procedure Node522a begin
+   if (dude_charisma >= 7) then
+      call Node005;
+   else
+      call Node022;
+end
+
+nbody(043)
+   Reply(238);
+   NOption(239, Node522a, 4);
+   NOption(240, Node013, 4);
+nbodyEnd
+
+nbody(044)
+   Reply(241);
+   ENDOPTION;
+nbodyEnd
+
+nbody(045)
+   Reply(242);
+   ENDOPTION;
+nbodyEnd
+
+nbody(046)
+   if (merk_seed_status(MSS_DR_HENRY_ACCEPT) and not merk_seed_status(MSS_DR_HENRY_DONE)) then
+      Reply(263);
+   else
+      Reply(243);
+   ENDOPTION;
+nbodyEnd
+
+nbody(047)
+   set_merk_status(MERK_STATUS_BAD_REACTION);
+   Reply(244);
+   ENDOPTION;
+nbodyEnd
+
+nbody(048)
+   Reply(245);
+   if (obj_is_carrying_obj_pid(dude_obj, PID_DOC_PAPERS)) then
+      NOption(246, Node049, 4);
+   NOption(247, Node046, 4);
+nbodyEnd
+
+procedure Node5051a begin
+   variable papers;
+
+   papers := obj_carrying_pid_obj(dude_obj, PID_DOC_PAPERS);
+
+   if (papers) then begin
+      item_caps_adjust(dude_obj, 1000);
+      rm_obj_from_inven(dude_obj, papers);
+      add_obj_to_inven(self_obj, papers);
+      set_merk_seed_status(MSS_DR_HENRY_DONE);
+      set_global_var(GVAR_NCR_DRPAPR_QST, 2);
+      
+      display_msg(mstr(272));
+      give_xp(EXP_MERK_GET_PAPERS); 
+      
+      //give_exp_points(EXP_MERK_GET_PAPERS);
+      //display_msg(mstr(271) + EXP_MERK_GET_PAPERS + mstr(272));
+   end
+   if (merk_seed_status(MSS_DR_HENRY_DEAD)) then
+      call Node050;
+   else
+      call Node051;
+end
+
+nbody(049)
+   Reply(248);
+   MOREOPTION(Node5051a);
+nbodyEnd
+
+procedure Node5253a begin
+   if (dude_charisma >= 9) then
+      call Node052;
+   else
+      call Node053;
+end
+
+nbody(050)
+   Reply(249);
+   NOption(250, Node5253a, 4);
+   NOption(251, Node053, 4);
+nbodyEnd
+
+nbody(051)
+   Reply(252);
+   NOption(253, Node999, 4);
+nbodyEnd
+
+nbody(052)
+   item_caps_adjust(dude_obj, -500);
+   item_caps_adjust(self_obj, 500);
+   Reply(254);
+   ENDOPTION;
+nbodyEnd
+
+nbody(053)
+   Reply(255);
+   ENDHOSTILE;
+nbodyEnd
+
+nbody(054)
+   if (merk_seed_status(MSS_DR_HENRY_DEAD)) then begin
+      floater((256));
+      call doMerkAttack;
+   end else
+      float_msg(self_obj, mstr(257), FLOAT_MSG_NORMAL);
+nbodyEnd
+
+procedure Node055 begin
+   Reply(261);
+   NOption(262, Node999, 4);
+end
+
+
+procedure checktime begin
+   set_local_var(LVAR_Time,game_time_hour); //edit by killap
+   //variable time := 0;
+   //time := game_time_hour;
+   debug_msg("time is: " + local_var(LVAR_Time));
+   if ((local_var(LVAR_Time) >= 800) and (local_var(LVAR_Time) < 1201)) then begin//edit by killap
+   //if (time >= 800 and time < 1201) then
+      return MAP_NCR_DOWNTOWN;
+   end else if ((local_var(LVAR_Time) >= 1200) and (local_var(LVAR_Time) < 1601)) then begin//edit by killap
+   //if (time >= 1200 and time < 1601) then
+      return MAP_NCR_COUNCIL;
+   end else if ((local_var(LVAR_Time) >= 400) and (local_var(LVAR_Time) < 2401)) then begin//edit by killap
+   //if (time >= 400 and time < 2401) then
+      return MAP_NCR_BAZAAR;
+   end else if ((local_var(LVAR_Time) >= 2400) or ((local_var(LVAR_Time) >= 0) and (local_var(LVAR_Time) < 801))) then begin//edit by killap
+   //if (time >= 2400 or (time >= 0 and time < 801)) then
+      return MAP_NCR_BAZAAR;
+   end
+end
+
+procedure loadMapPosition begin
+   //variable retval := 0;
+   
+   set_local_var(LVAR_Retval,0);
+
+   if (cur_map_index == MAP_NCR_BAZAAR) then begin
+      if (checktime == MAP_NCR_BAZAAR) then begin
+         move_to(self_obj, MERK_BAZAAR_POS, 0);
+         animate_rotation(1); //added by killap
+         //retval := 1;
+         set_local_var(LVAR_Retval,1);
+      end
+   end else if (cur_map_index == MAP_NCR_COUNCIL) then begin
+   //end else if (cur_map_index == MAP_NCR_DOWNTOWN) then begin //edit by killap
+      if (checktime == MAP_NCR_DOWNTOWN) then begin
+         move_to(self_obj, MERK_HOME_POS, 0);
+         animate_rotation(1); //added by killap
+         //retval := 1;
+         set_local_var(LVAR_Retval,1);
+      end
+   //end else if (cur_map_index == MAP_NCR_COUNCIL) then begin --comment out by killap
+      if (checktime == MAP_NCR_COUNCIL) then begin
+         move_to(self_obj, MERK_CARLSON_POS, 0);
+         animate_rotation(1); //added by killap
+         //retval := 1;
+         set_local_var(LVAR_Retval,1);
+      end
+   end
+   debug_msg("MERK: active " + local_var(LVAR_Retval) + " Map Index: " + cur_map_index);
+   return local_var(LVAR_Retval);
+end
+
+procedure shouldBeHere begin
+   //variable timeres;
+   //variable retval := 0;
+   set_local_var(LVAR_Retval,0);
+
+   //timeres := checktime;
+   
+   set_local_var(LVAR_Timeres,checktime);
+
+   if (cur_map_index == MAP_NCR_COUNCIL) then
+      if ((local_var(LVAR_Timeres) == MAP_NCR_COUNCIL) or (local_var(LVAR_Timeres) == MAP_NCR_DOWNTOWN)) then set_local_var(LVAR_Retval,1);
+   if (cur_map_index == MAP_NCR_BAZAAR) then
+      if (local_var(LVAR_Timeres) == MAP_NCR_BAZAAR) then set_local_var(LVAR_Retval,1);
+   debug_msg("MERK: shouldBeHere returning: " + local_var(LVAR_Retval));
+   return local_var(LVAR_Retval);
+end
+
+procedure onValidMap begin
+   //variable retval := 0;
+   
+   set_local_var(LVAR_Retval,0);
+
+   if (cur_map_index == MAP_NCR_BAZAAR) then
+      //retval := 1;
+      set_local_var(LVAR_Retval,1);
+   if (cur_map_index == MAP_NCR_COUNCIL) then
+      //retval := 1;
+      set_local_var(LVAR_Retval,1);
+   if (cur_map_index == MAP_NCR_DOWNTOWN) then
+      //retval := 1;
+      set_local_var(LVAR_Retval,1);
+   return local_var(LVAR_Retval);
+end
+
+procedure enterMap begin
+   debug_msg("MERK: enter map called");
+   set_obj_visibility(self_obj, OBJ_VIS);
+   merk_visible := 1;
+
+   if (cur_map_index == MAP_NCR_COUNCIL) then begin
+      //move_to(self_obj, MERK_ENTER_COUNCIL_MAP, 0);
+
+//      if (checktime == MAP_NCR_COUNCIL) then begin
+//         reg_anim_clear(self_obj);
+//         reg_anim_begin();
+//            //animate_move_to_tile(MERK_ENTER_COUNCIL_WAY1/*MERK_CARLSON_POS*/);
+//            animate_move_to_tile(MERK_CARLSON_POS);
+//         reg_anim_end();
+//         //should_animate := MERK_CARLSON_POS;
+//         set_local_var(LVAR_Should_Animate,MERK_CARLSON_POS); //edit by killap
+//      end else if (checktime == MAP_NCR_DOWNTOWN) then begin
+//         reg_anim_clear(self_obj);
+//         reg_anim_begin();
+//            //animate_move_to_tile(MERK_ENTER_COUNCIL_WAY1/*MERK_HOME_POS*/);
+//         animate_move_to_tile(MERK_HOME_POS); //edit by killap
+//         reg_anim_end();
+//         //should_animate := MERK_HOME_POS;
+//         set_local_var(LVAR_Should_Animate,MERK_HOME_POS); //edit by killap
+//      end
+      
+      if ( (local_var(LVAR_Previous_Destination) == MERK_ENTER_COUNCIL_WAY2) ) then begin
+         debug_msg("MERK: enter council map");
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+            animate_move_to_tile(whatTile);
+         reg_anim_end();
+         set_local_var(LVAR_Should_Animate,whatTile); //edit by killap  
+      end else if ( tile_num(self_obj) == MERK_ENTER_COUNCIL_MAP ) then begin
+         debug_msg("MERK: leave council map to way point1");
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+            animate_move_to_tile(MERK_ENTER_COUNCIL_WAY1);
+         reg_anim_end();
+         //should_animate := MERK_ENTER_COUNCIL_WAY1;
+         set_local_var(LVAR_Should_Animate,MERK_ENTER_COUNCIL_WAY1);
+      end else if (checktime == MAP_NCR_COUNCIL) then begin
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+            animate_move_to_tile(MERK_CARLSON_POS);
+         reg_anim_end();
+         set_local_var(LVAR_Should_Animate,MERK_CARLSON_POS); 
+      end else if (checktime == MAP_NCR_DOWNTOWN) then begin
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+         animate_move_to_tile(MERK_HOME_POS);
+         reg_anim_end();
+         set_local_var(LVAR_Should_Animate,MERK_HOME_POS);
+      end
+   end else if (cur_map_index == MAP_NCR_BAZAAR) then begin
+      //move_to(self_obj, MERK_ENTER_BAZAAR_MAP, 0);
+      debug_msg("MERK: should be moving to bazaar pos");
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+         animate_move_to_tile(MERK_BAZAAR_POS);
+      reg_anim_end();
+      //should_animate := MERK_BAZAAR_POS;
+      set_local_var(LVAR_Should_Animate,MERK_BAZAAR_POS); //edit by killap
+   end
+   //if (should_animate != 0) then
+   if (local_var(LVAR_Should_Animate) != 0) then //edit by killap
+      add_timer_event(self_obj, game_ticks(1), MERK_TIMER_ENSURE_ANIM); //was 2 ticks
+end
+
+procedure exitMap begin
+   debug_msg("MERK: Should be exiting map");
+   if (cur_map_index == MAP_NCR_BAZAAR) then begin
+      debug_msg("MERK: leave bazaar map");
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+         animate_move_to_tile(MERK_ENTER_BAZAAR_MAP);
+      reg_anim_end();
+      add_timer_event(self_obj, game_ticks(1), MERK_TIMER_DELETE); //was 2 ticks
+      //should_animate := MERK_ENTER_BAZAAR_MAP;
+      set_local_var(LVAR_Should_Animate,MERK_ENTER_BAZAAR_MAP); //edit by killap
+   end else if (cur_map_index == MAP_NCR_COUNCIL) then begin
+      /*display_msg("MERK: leave council map");
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+         animate_move_to_tile(MERK_ENTER_COUNCIL_WAY1);
+      reg_anim_end();
+      display_msg("About to call addtimer");
+      add_timer_event(self_obj, game_ticks(1), MERK_TIMER_DELETE); //was 2 ticks
+      //should_animate := MERK_ENTER_COUNCIL_WAY1;
+      set_local_var(LVAR_Should_Animate,MERK_ENTER_COUNCIL_WAY1); //edit by killap
+      display_msg("MERK: Made it to the end of the function");*/
+      
+      if ( (local_var(LVAR_Previous_Destination) == MERK_ENTER_COUNCIL_WAY1) ) then begin
+         debug_msg("MERK: leave council map");
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+            animate_move_to_tile(MERK_ENTER_COUNCIL_MAP);
+         reg_anim_end();
+         add_timer_event(self_obj, game_ticks(1), MERK_TIMER_DELETE); //was 2 ticks
+         //should_animate := MERK_ENTER_COUNCIL_WAY1;
+         set_local_var(LVAR_Should_Animate,MERK_ENTER_COUNCIL_MAP); //edit by killap
+      end else begin
+         debug_msg("MERK: leave council map to way point2");
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+            animate_move_to_tile(MERK_ENTER_COUNCIL_WAY2);
+         reg_anim_end();
+         add_timer_event(self_obj, game_ticks(1), MERK_TIMER_DELETE); //was 2 ticks
+         //should_animate := MERK_ENTER_COUNCIL_WAY1;
+         set_local_var(LVAR_Should_Animate,MERK_ENTER_COUNCIL_WAY2); //edit by killap
+      end
+      
+      
+      
+      
+   end
+   //if (should_animate != 0) then
+   if (local_var(LVAR_Should_Animate) != 0) then //edit by killap
+      add_timer_event(self_obj, game_ticks(1), MERK_TIMER_ENSURE_ANIM); //was 2 ticks
+end
+
+procedure ensureAnimation begin
+   if not anim_busy(self_obj) then begin
+      //if (should_animate != 0) then begin
+      if (local_var(LVAR_Should_Animate) != 0) then begin //edit by killap
+         if (tile_num(self_obj) != (local_var(LVAR_Should_Animate))) then begin //edit by killap
+         //if (tile_num(self_obj) != should_animate) then begin
+            animate_move_to_tile(local_var(LVAR_Should_Animate)); //edit by killap
+            //animate_move_to_tile(should_animate);
+            add_timer_event(self_obj, game_ticks(1), MERK_TIMER_ENSURE_ANIM); //was 2 ticks
+            debug_msg( "MERK: told to animate");
+         end else begin
+            if (cur_map_index == MAP_NCR_COUNCIL) then begin
+               /*if ( (local_var(LVAR_Should_Animate) == MERK_ENTER_COUNCIL_WAY1) or (local_var(LVAR_Should_Animate) == MERK_ENTER_COUNCIL_WAY2) ) then begin //edit by killap
+               //if (should_animate == MERK_ENTER_COUNCIL_WAY1) then begin
+                  if (shouldBeHere == 0) then begin
+                     display_msg("MERK: hit way1 walking to enter point");
+                     //should_animate := MERK_ENTER_COUNCIL_MAP;
+                     set_local_var(LVAR_Should_Animate,MERK_ENTER_COUNCIL_MAP); //edit by killap
+                     add_timer_event(self_obj, game_ticks(1), MERK_TIMER_ENSURE_ANIM); //was 5
+                  end else begin
+                     display_msg("MERK: hit way1 walking to stand point");
+                     //should_animate := whatTile;
+                     set_local_var(LVAR_Should_Animate,whatTile); //edit by killap
+                     add_timer_event(self_obj, game_ticks(1), MERK_TIMER_ENSURE_ANIM); //was 5
+                  end
+               end else*/
+               if (local_var(LVAR_Should_Animate) == MERK_ENTER_COUNCIL_WAY2) then begin //edit by killap
+                  debug_msg("I should be moving to my standing point location.");
+                  if (local_var(LVAR_Hit_Check_Point) != 1) then begin
+                     debug_msg("Hit Check Point : " + local_var(LVAR_Hit_Check_Point));
+                     set_local_var(LVAR_Hit_Check_Point,2);
+                     set_local_var(LVAR_Should_Animate,MERK_ENTER_COUNCIL_MAP); //edit by killap
+                     add_timer_event(self_obj, game_ticks(1), MERK_TIMER_ENSURE_ANIM); //was 5
+                  end else begin
+                     debug_msg("I should be moving to my standing point location.");
+                     set_local_var(LVAR_Should_Animate,whatTile); //edit by killap
+                     add_timer_event(self_obj, game_ticks(1), MERK_TIMER_ENSURE_ANIM); //was 5
+                  end
+               end else if (local_var(LVAR_Should_Animate) == MERK_ENTER_COUNCIL_WAY1) then begin
+                  debug_msg("I should be moving to point 2.");
+                  set_local_var(LVAR_Hit_Check_Point,1);
+                  debug_msg("Hit Check Point : " + local_var(LVAR_Hit_Check_Point));
+                  set_local_var(LVAR_Should_Animate,MERK_ENTER_COUNCIL_WAY2); //edit by killap  
+                  add_timer_event(self_obj, game_ticks(1), MERK_TIMER_ENSURE_ANIM); //was 5
+               end else
+                  //should_animate := 0;
+                  set_local_var(LVAR_Should_Animate,0); //edit by killap
+            end else
+               //should_animate := 0;
+               set_local_var(LVAR_Should_Animate,0); //edit by killap
+         end
+      end
+   end else begin
+      add_timer_event(self_obj, game_ticks(1), MERK_TIMER_ENSURE_ANIM); //was 2 ticks
+   end
+end
+
+procedure whatTile begin
+   //variable time_map;
+
+   //time_map := checkTime;
+   
+   set_local_var(LVAR_Time_Map,checkTime);
+   
+   if (local_var(LVAR_Time_Map) == MAP_NCR_DOWNTOWN) then
+      return MERK_HOME_POS;
+
+   if (local_var(LVAR_Time_Map) == MAP_NCR_COUNCIL) then
+      return MERK_CARLSON_POS;
+
+   if (local_var(LVAR_Time_Map) == MAP_NCR_BAZAAR) then
+      return MERK_BAZAAR_POS;
+end
+
+procedure whereAmI begin
+   //variable retval := 0;
+   //variable time_map := 0;
+   set_local_var(LVAR_Time_Map,0);
+   set_local_var(LVAR_Retval,0);
+
+   //time_map := checkTime;
+   set_local_var(LVAR_Time_Map,checkTime);
+
+   /*if (cur_map_index == MAP_NCR_COUNCIL) then begin
+      if (local_var(LVAR_Time_Map) == MAP_NCR_COUNCIL) then begin
+         if (tile_num(self_obj) == whatTile) then
+            //retval := IN_CARLSON;
+            set_local_var(LVAR_Retval,IN_CARLSON);
+         else
+            //retval := IN_TRANSIT;
+            set_local_var(LVAR_Retval,IN_TRANSIT);
+      end
+      if (local_var(LVAR_Time_Map) == MAP_NCR_DOWNTOWN) then begin
+         if (tile_num(self_obj) == whatTile) then
+            //retval := IN_HOME;
+            set_local_var(LVAR_Retval,IN_HOME);
+         else
+            //retval := IN_TRANSIT;
+            set_local_var(LVAR_Retval,IN_TRANSIT);
+      end
+   end else if (cur_map_index == MAP_NCR_BAZAAR) then begin
+      if (local_var(LVAR_Time_Map) == MAP_NCR_BAZAAR) then begin //added begin/end by killap
+         if (tile_num(self_obj) == whatTile) then
+            //retval := IN_RAWHIDE;
+            set_local_var(LVAR_Retval,IN_RAWHIDE);
+         else
+            //retval := IN_TRANSIT;
+            set_local_var(LVAR_Retval,IN_TRANSIT);
+      end
+   end*/
+   
+   //code by killap
+   if (cur_map_index == MAP_NCR_COUNCIL) then begin
+      if (tile_num(merk_obj) == MERK_CARLSON_POS) then
+         set_local_var(LVAR_Retval,IN_CARLSON);
+      else if (tile_num(merk_obj) == MERK_HOME_POS) then
+         set_local_var(LVAR_Retval,IN_HOME);
+      else
+         set_local_var(LVAR_Retval,IN_TRANSIT);    
+   end else if (cur_map_index == MAP_NCR_BAZAAR) then begin
+      if (tile_num(merk_obj) == MERK_BAZAAR_POS) then
+         set_local_var(LVAR_Retval,IN_RAWHIDE);
+      else    
+         set_local_var(LVAR_Retval,IN_TRANSIT);
+   end
+   //end code
+      
+   return local_var(LVAR_Retval);
+end
+
+procedure goodWeapon(variable inpid, variable subType) begin
+   debug_msg("MERK: analyzing item");
+   if (subType != item_type_weapon) then
+      debug_msg("MERK: Item is not weapon.");
+   if (subType != item_type_container) then
+      debug_msg("MERK: Item is not container.");
+
+   if (subType != item_type_weapon and subType != item_type_container) then
+      return 1;
+   debug_msg("MERK: item is past check");
+
+   if (inpid == PID_KNIFE) then
+      return 1;
+   if (inpid == PID_CLUB) then
+      return 1;
+   if (inpid == PID_SLEDGEHAMMER) then
+      return 1;
+   if (inpid == PID_SPEAR) then
+      return 1;
+   if (inpid == PID_ROCK) then
+      return 1;
+   if (inpid == PID_CROWBAR) then
+      return 1;
+   if (inpid == PID_BRASS_KNUCKLES) then
+      return 1;
+   if (inpid == PID_SUPER_SLEDGE) then
+      return 1;
+   if (inpid == PID_RIPPER) then
+      return 1;
+   if (inpid == PID_CATTLE_PROD) then
+      return 1;
+   if (inpid == PID_SPIKED_KNUCKLES) then
+      return 1;
+   if (inpid == PID_POWER_FIST) then
+      return 1;
+   if (inpid == PID_COMBAT_KNIFE) then
+      return 1;
+   if (inpid == PID_SHARP_SPEAR) then
+      return 1;
+   return 0;
+end
+procedure putAllInBox(variable object, variable pid) begin
+   variable count := 0;
+   variable JunkIt := 0; //added by killap
+   
+   if (playerTmpBox > 0) then begin
+      count := obj_is_carrying_obj_pid(dude_obj, pid);
+      if (count > 0) then begin
+         JunkIt:=rm_mult_objs_from_inven(dude_obj,object,count); //added by killap
+         add_mult_objs_to_inven(playerTmpBox, object, JunkIt); //added by killap
+         //destroy_object(object); //comment out by killap
+         //add_mult_objs_to_inven(playerTmpBox, create_object(pid, tile_num(playerTmpBox), 0), JunkIt); //comment out by killap
+         debug_msg("PID: " + pid + " count: " + count);
+      end
+   end else
+      debug_msg("MERK: putallinbox: no playertmpbox.");
+end
+procedure CheckRemove(variable object) begin
+   if not (goodWeapon(obj_pid(object), obj_item_subtype(object))) then begin
+      call putAllInBox(object, obj_pid(object));
+   end
+end
+
+procedure StripPlayer begin
+   variable obj;
+   variable nObjs;
+   variable count;
+
+   nObjs := inven_count(dude_obj);
+   while (nObjs > 0) do begin
+      obj := inven_ptr(dude_obj, nObjs);
+      call CheckRemove(obj);
+      nObjs -= 1;
+   end
+end
+
+procedure HideParty begin
+/*   if (Vic_In_Party) then
+      set_obj_visibility(Vic_Ptr, OBJ_INVIS);
+   if (Myron_In_Party) then
+      set_obj_visibility(Myron_Ptr, OBJ_INVIS);
+   if (Marcus_In_Party) then
+      set_obj_visibility(Marcus_Ptr, OBJ_INVIS);
+   if (MacRae_In_Party) then
+      set_obj_visibility(MacRae_Ptr, OBJ_INVIS);
+   if (Sulik_In_Party) then
+      set_obj_visibility(Sulik_Ptr, OBJ_INVIS);
+   if (Lenny_In_Party) then
+      set_obj_visibility(Lenny_Ptr, OBJ_INVIS);
+   if (Cyberdog_In_Party) then
+      set_obj_visibility(Cyberdog_Ptr, OBJ_INVIS);
+   if (Doc_In_Party) then
+      set_obj_visibility(Goris_Ptr, OBJ_INVIS);
+   if (Davin_In_Party) then
+      set_obj_visibility(Davin_Ptr, OBJ_INVIS);
+   if (Miria_In_Party) then
+      set_obj_visibility(Miria_Ptr, OBJ_INVIS);
+   if (Robobrain_In_Party) then
+      set_obj_visibility(Robobrain_Ptr, OBJ_INVIS);*/
+   party_member_hide_all  //added by killap
+end
+procedure unHideParty begin
+/*   if (Vic_In_Party) then
+      set_obj_visibility(Vic_Ptr, OBJ_VIS);
+   if (Myron_In_Party) then
+      set_obj_visibility(Myron_Ptr, OBJ_VIS);
+   if (Marcus_In_Party) then
+      set_obj_visibility(Marcus_Ptr, OBJ_VIS);
+   if (MacRae_In_Party) then
+      set_obj_visibility(MacRae_Ptr, OBJ_VIS);
+   if (Sulik_In_Party) then
+      set_obj_visibility(Sulik_Ptr, OBJ_VIS);
+   if (Lenny_In_Party) then
+      set_obj_visibility(Lenny_Ptr, OBJ_VIS);
+   if (Cyberdog_In_Party) then
+      set_obj_visibility(Cyberdog_Ptr, OBJ_VIS);
+   if (Doc_In_Party) then
+      set_obj_visibility(Goris_Ptr, OBJ_VIS);
+   if (Davin_In_Party) then
+      set_obj_visibility(Davin_Ptr, OBJ_VIS);
+   if (Miria_In_Party) then
+      set_obj_visibility(Miria_Ptr, OBJ_VIS);
+   if (Robobrain_In_Party) then
+      set_obj_visibility(Robobrain_Ptr, OBJ_VIS); */
+   party_member_unhide_all //added by killap
+end
+
+
+procedure combat_p_proc begin
+         debug_msg("SCMERK: Combat p proc");
+   //if (Do_Lenny_Fight) then begin
+   if (map_var(MVAR_Do_Lenny_Fight) == 1) then begin //added by killap
+      debug_msg("SCMERK: Lenney fighting");
+      //if (is_critter_dead(lenny_obj)) then begin
+      if (map_var(MVAR_Lenny_Dead) == 1) then begin
+         debug_msg("SCMERK: uhh trying to terminate");
+         terminate_combat;
+      end
+   end
+end
+
+procedure LennyFight begin
+   call StripPlayer;
+   fadeout(1);
+   call HideParty;
+   move_to(lenny_obj, LENNYBOXSTART, 1);
+   move_to(dude_obj, PLAYERBOXSTART, 1);
+   
+   //move_to(self_obj, 21148, 1); // added by killap
+   //if (obj_is_visible_flag(merk_guard1_obj)) then
+   //   move_to(merk_guard1_obj, 21354, 1); // added by killap
+   //if (obj_is_visible_flag(merk_guard2_obj)) then
+    //  move_to(merk_guard2_obj, 21945, 1); // added by killap
+   
+   /* Seraph's Fix: animate_rotation only affects self_obj. Thanks Rob!
+   animate_rotation(dude_obj, 2);
+   animate_rotation(lenny_obj, 5);
+   */
+   anim(dude_obj, ANIMATE_ROTATION, 2); // Seraph's Code
+   anim(lenny_obj, ANIMATE_ROTATION, 5); // Seraph's Code
+   
+   //anim(self_obj, ANIMATE_ROTATION, 2); // added by killap
+   //if (obj_is_visible_flag(merk_guard1_obj)) then
+   //   anim(merk_guard1_obj, ANIMATE_ROTATION, 1); // added by killap
+   //if (obj_is_visible_flag(merk_guard2_obj)) then
+   //   anim(merk_guard2_obj, ANIMATE_ROTATION, 3); // added by killap
+   
+   attack_setup(lenny_obj, dude_obj);
+   fadein(1);
+   debug_msg("MERK: Lenny Should attack");
+end
+
+procedure ReturnWeapons begin
+   if (playerTmpBox > 0) then
+      move_obj_inven_to_obj(playerTmpBox, dude_obj);
+end
+
+procedure EndFight begin
+   //set_local_var(LVAR_Do_Lenny_Fight, 0); //added by killap
+   set_map_var(MVAR_Do_Lenny_Fight, 0); //added by killap
+//   Do_Lenny_Fight := 0;
+   set_local_var(LVAR_doLennyDeadDialog, 1); //added by killap
+//   doLennyDeadDialog := 1;
+   if ((ncr_flag(NCR_KILLED_LENNY_SERUM_FLAG))) then begin
+      set_ncr_flag(NCR_MERK_SERUM_FLAG);
+      debug_msg("MERK: Leeny killed by serum");
+   end else if (lenny_obj != -1) then begin
+      destroy_object(lenny_obj);
+   end
+   lenny_obj := -1;
+   dialogue_system_enter;
+   //display_msg("endfight");
+end
+//xxxxxxxxxxxxxxxxxxxx

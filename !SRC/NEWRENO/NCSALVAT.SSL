@@ -1,0 +1,877 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Louis Salvatore
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCSALVAT
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node037a;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (5)
+#define LVAR_Dying_Message                (6)
+#define LVAR_Player_Said_Have_Info        (7) //added by killap
+
+#define salvatore_has_oxygen              (obj_is_carrying_obj_pid(self_obj, PID_OXYGEN_TANK) > 0)
+#define self_family                       family_salvatore
+#define kill_salvatore                    if ((dude_can_see_self) or (self_can_see_dude)) then begin   \
+                                             dude_floater_bad(660);                                   \
+                                             inc_general_rep(REP_BONUS_NEW_RENO_WATCH_SALVATORE_DIE); \
+                                          end                                                         \
+                                          reg_anim_clear(self_obj);                                   \
+                                          reg_anim_begin();                                           \
+                                             reg_anim_animate(self_obj,ANIM_fall_back_blood_sf,-1);   \
+                                          reg_anim_end();                                             \
+                                          call destroy_p_proc;                                        \
+                                          kill_critter(self_obj, ANIM_fall_back_blood_sf)
+
+#define check_assassinate_salvatore       if (salvatore_has_oxygen == false) then begin                              \
+                                             if (obj_is_carrying_obj_pid(self_obj, PID_POISON_TANK) > 0) then begin /* Seraph's Fix: changed 'dude_obj' to 'self_obj' */ \
+                                                debug_msg("salvatore_assassinated == "+salvatore_assassinated);      \
+                                                debug_msg("personal_enemy         == "+personal_enemy);              \
+                                                if ((salvatore_assassinated == false) and (personal_enemy == false)) then begin  \
+                                                   set_salvatore_assassinated                                        \
+                                                   display_mstr(800);                                                \
+                                                   give_xp(EXP_ASSASSINATE_SALVATORE);                               \
+                                                end                                                                  \
+                                             end                                                                     \
+                                          end
+#define give_salvatore_money(x)           item_caps_adjust(self_obj, x);   \
+                                          item_caps_adjust(dude_obj, -x)
+variable prev_node;
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+variable temp_tile;
+   if (fixed_param == float_param) then begin
+      if (salvatore_has_oxygen == false) then begin
+         call Node042;
+         nr_add_timer_event_rand(self_obj, 5, 7, float_param);
+      end else begin
+         if (local_var(LVAR_Dying_Message) > 0) then begin
+            attack_family(family_salvatore)
+         end
+         if (combat_is_initialized == false) then begin
+            if (self_can_see_dude) then begin
+               if (random(1,3) == 1) then begin
+                  call Node001;
+               end
+            end else if (anim_busy(self_obj) == false) then begin
+               if (random(1,5) == 1) then begin
+                  if (anim_busy(self_obj) == false) then begin
+                     temp_tile := tile_num_in_direction(self_tile, random(0, 5), random(2,7));
+                     if (tile_in_box(temp_tile, 25914, 25906, 28506, 28514)) then begin
+                        animate_move_to_tile(temp_tile);
+                     end
+                  end
+               end
+            end
+         end
+         nr_add_timer_event_rand(self_obj, 15, 20, float_param);
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_SALVATORE);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure map_exit_p_proc begin
+   if (salvatore_has_oxygen == false) then begin
+      kill_salvatore;
+   end
+end
+
+procedure critter_p_proc begin
+   if (salvatore_has_oxygen) then begin
+      if (self_can_see_dude) then begin
+         if ((hostile) or (warned_attack)) then begin
+            critter_set_flee_state(self_obj, true);
+            Flee_From_Dude
+            if (salvatore_called_guards == false) then begin
+               call Node002;
+            end
+         end
+      end else if (salvatore_called_guards) then begin
+         set_salvatore_called_guards_off;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if ((source_obj == dude_obj) or (obj_in_party(source_obj))) then begin
+      set_personal_enemy;
+      attack_family(family_salvatore)
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   if ((salvatore_has_oxygen) and (hostile == false) and (warned_attack == false)) then begin
+      debug_msg("salvatore_permission                          == "+salvatore_permission);
+      debug_msg("get_tribute(tribute_failed)                   == "+get_tribute(tribute_failed));
+      debug_msg("get_guard_assignment(guard_assignment_failed) == "+get_guard_assignment(guard_assignment_failed));
+      if (self_family == dude_family) then begin
+         call Node040;  //killap's fix: changed from Node041
+      end else if (salvatore_done) then begin
+         call Node041; //moved up by killap - was never being called before.
+//      end else if ((salvatore_permission == false) or (get_tribute(tribute_failed)) or (get_guard_assignment(guard_assignment_failed))) then begin
+//         start_dialog_at_node(Node003);
+      end else if ((get_track_lloyd(track_lloyd_mason)) or (get_track_lloyd(track_lloyd_assigned))) then begin
+         call Node015;
+      end else if (get_track_lloyd(track_lloyd_salvatore)) then begin
+         start_dialog_at_node(Node016);
+      end else if ((get_tribute(tribute_mason)) or (get_tribute(tribute_assigned)) or (get_tribute(tribute_refused)) or (get_tribute(tribute_collected))) then begin
+         call Node015;
+      end else if (get_tribute(tribute_salvatore)) then begin
+         start_dialog_at_node(Node027);
+      end else if ((get_guard_assignment(guard_assignment_mason)) or (get_guard_assignment(guard_assignment_assigned))) then begin
+         call Node015;
+      end else if (get_guard_assignment(guard_assignment_success)) then begin
+         if (salvatore_respect > 9) then begin
+            start_dialog_at_node(Node037);
+         end else begin
+            start_dialog_at_node(Node032);
+         end
+   /* Begin killap comment out
+      end else if (salvatore_done) then begin
+         call Node041;
+   End killap comment out*/ 
+      end else if ((salvatore_permission == false) or (get_tribute(tribute_failed)) or (get_guard_assignment(guard_assignment_failed))) then begin //moved by killap
+         start_dialog_at_node(Node003); //moved by killap
+      end else begin
+         start_dialog_at_node(Node004);
+      end
+      set_herebefore;
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure destroy_p_proc begin
+   check_assassinate_salvatore
+   inc_evil_critter
+   set_family_crushed(self_family)
+   if (salvatore_dead == false) then begin
+      inc_reno_rep(REP_NEW_RENO_KILLED_BOSS_SALVATORE);
+      set_salvatore_dead
+      if (salvatore_assassinated == false) then begin
+         display_mstr(825);
+         give_xp(EXP_NEW_RENO_WHACK_SALVATORE);
+      end
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150 + (examined));
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   if (hostile == false) then begin
+      set_hostile;
+   end
+   attack_family(self_family) //added by killap
+   set_salvatore_called_guards_on //added by killap
+end
+procedure Node999 begin
+end
+
+procedure Node995 begin
+   inc_salvatore_respect(-1);
+   call Node006;
+end
+procedure Node994 begin
+   inc_salvatore_respect(1);
+   set_local_var(LVAR_Player_Said_Have_Info,1); //added by killap
+   call Node006;
+end
+procedure Node993 begin
+   inc_salvatore_respect(-1);
+   call Node008;
+end
+procedure Node992 begin
+   inc_salvatore_respect(1);
+   call Node009;
+end
+procedure Node991 begin
+   inc_salvatore_respect(-1);
+   call Node007;
+end
+procedure Node990 begin
+   inc_salvatore_respect(-1);
+   call Node010;
+end
+procedure Node989 begin
+   inc_salvatore_respect(-1);
+   call Node011;
+end
+procedure Node988 begin
+   inc_salvatore_respect(1);
+   call Node011;
+end
+procedure Node987 begin
+   inc_salvatore_respect(-1);
+   call Node009;
+end
+procedure Node986 begin
+   inc_salvatore_respect(-2);
+   set_track_lloyd(track_lloyd_mason);
+   call Node014;
+end
+procedure Node985 begin
+   inc_salvatore_respect(-1);
+end
+procedure Node984 begin
+   inc_salvatore_respect(1);
+end
+procedure Node983 begin
+   inc_salvatore_respect(-1);
+   if (lloyd_dead == false) then begin
+      call Node026;
+   end else begin
+      call Node018;
+   end
+end
+procedure Node982 begin
+   inc_salvatore_respect(1);
+   if (lloyd_dead == false) then begin
+      call Node026;
+   end else begin
+      call Node018;
+   end
+end
+procedure Node981 begin
+   inc_salvatore_respect(-1);
+   call Node020;
+end
+procedure Node980 begin
+   inc_salvatore_respect(1);
+   call Node020;
+end
+procedure Node979 begin
+   inc_salvatore_respect(-1);
+   if (renesco_dead == false) then begin
+      call Node024;
+   end else begin
+      call Node032;
+   end
+end
+procedure Node978 begin
+   inc_salvatore_respect(1);
+   if (renesco_dead == false) then begin
+      call Node024;
+   end else begin
+      call Node032;
+   end
+end
+procedure Node975 begin
+   inc_salvatore_respect(-1);
+   if (renesco_dead == false) then begin
+      call Node024;
+   end else begin
+      call Node032;
+   end
+end
+procedure Node974 begin
+   inc_salvatore_respect(-1);
+   call Node025;
+end
+procedure Node973 begin
+   inc_salvatore_respect(1);
+   call Node025;
+end
+procedure Node972 begin
+   inc_salvatore_respect(1);
+   call Node029;
+end
+procedure Node971 begin
+   inc_salvatore_respect(-1);
+   call Node029;
+end
+procedure Node970 begin
+   inc_salvatore_respect(-1);
+   call Node028;
+end
+procedure Node969 begin
+   inc_salvatore_respect(-1);
+   if ((salvatore_respect >= 8) and (secret_trade_nothing)) then begin
+      call Node033;
+   end else begin
+      call Node032;
+   end
+end
+procedure Node968 begin
+   inc_salvatore_respect(1);
+   if ((salvatore_respect >= 8) and (secret_trade_nothing)) then begin
+      call Node033;
+   end else begin
+      call Node032;
+   end
+end
+procedure Node967 begin
+   inc_salvatore_respect(-1);
+   call Node034;
+end
+procedure Node966 begin
+   inc_salvatore_respect(1);
+   call Node034;
+end
+procedure Node965 begin
+   if (salvatore_respect < 9) then begin
+      call Node014;
+   end else begin
+      call Node036;
+   end
+end
+procedure Node964 begin
+   inc_salvatore_respect(-1);
+   call Node038;
+end
+procedure Node963 begin
+   inc_salvatore_respect(1);
+   call Node038;
+end
+
+
+procedure Node001 begin
+   floater_sick_rand(200, 202);
+end
+procedure Node002 begin
+   floater_bad(210);
+   set_salvatore_called_guards_on
+   nr_add_timer_event(self_obj, 5, float_param);
+   prev_node := 2;
+end
+procedure Node003 begin
+   Reply(215);
+   BOption(216, Node998, -003);
+   BOption(217, Node998, -003);
+   BOption(218, Node998, 004);
+   if (salvatore_permission == false) then begin
+      BOption(219, Node998, 004);
+   end
+   BOption(220, Node998, 004);
+   BOption(221, Node998, 004);
+   prev_node := 3;
+end
+procedure Node004 begin
+   Reply(230);
+   NOption(231, Node003, -003); //edit by killap - was Node005
+   NOption(232, Node003, -003); //edit by killap - was Node005
+   NOption(mstr(233) + dude_name + mstr(5233), Node003, -003); //edit by killap - was Node005
+   NOption(234, Node999, -003); 
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      if (local_var(LVAR_Player_Said_Have_Info) == 0) then // added by killap
+        GOption(236, Node994, 004);
+      GOption(238, Node992, 004);
+   end else begin
+      NOption(235, Node995, 004);
+      NOption(237, Node993, 004);
+   end
+   if ((know_lasers) and (get_salvatore_pistol(salvatore_pistol_none))) then begin
+      BOption(239, Node005, 004);
+   end
+   if (know_scott) then begin
+      BOption(240, Node043, 004);
+   end
+   BOption(241, Node999, 004);
+   prev_node := 4;
+end
+procedure Node005 begin
+   Reply(250 + (prev_node != 43));
+   BOption(216, Node998, -003);
+   BOption(217, Node998, -003);
+   BOption(254, Node998, 004);
+   BOption(220, Node998, 004);
+   BOption(221, Node998, 004);
+   prev_node := 5;
+end
+procedure Node006 begin
+   Reply(mstr(270) + dude_name + mstr(5270));
+   BOption(271, Node991, 004);
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      GOption(238, Node992, 004);
+   end else begin
+      NOption(272, Node993, 004);
+   end
+   if ((know_lasers) and (get_salvatore_pistol(salvatore_pistol_none))) then begin
+      BOption(239, Node005, 004);
+   end
+   if (know_scott) then begin
+      BOption(240, Node043, 004);
+   end
+   BOption(276, Node999, 004);
+   prev_node := 6;
+end
+procedure Node007 begin
+   Reply(mstr(290) + dude_name + mstr(5290));
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      GOption(238, Node992, 004);
+   end else begin
+      NOption(291, Node993, 004);
+   end
+   if ((know_lasers) and (get_salvatore_pistol(salvatore_pistol_none))) then begin
+      BOption(239, Node005, 004);
+   end
+   if (know_scott) then begin
+      BOption(240, Node043, 004);
+   end
+   BOption(276, Node999, 004);
+   prev_node := 7;
+end
+procedure Node008 begin
+   Reply(305);
+   NOption(306, Node990, 004);
+   BOption(307, Node013, 004);
+   prev_node := 8;
+end
+procedure Node009 begin
+   Reply(315);
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      GOption(317, Node988, 004);
+   end else begin
+      NOption(316, Node989, 004);
+   end
+   BOption(307, Node013, 004);
+   prev_node := 9;
+end
+procedure Node010 begin
+   Reply(325);
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      GOption(327, Node988, 004);
+   end else begin
+      NOption(326, Node987, 004);
+   end
+   BOption(307, Node013, 004);
+   prev_node := 10;
+end
+procedure Node011 begin
+   Reply(335);
+   NOption(336, Node012, 004);
+   NOption(338, Node012, 004);
+   if ((know_lasers) and (get_salvatore_pistol(salvatore_pistol_none))) then begin
+      BOption(339, Node986, 004);
+   end
+   BOption(340, Node013, 004);
+   prev_node := 11;
+end
+procedure Node012 begin
+   set_track_lloyd(track_lloyd_mason);
+ //  set_salvatore_permission;
+   Reply(350);
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      GOption(352, Node984, 004);
+   end else begin
+      NOption(351, Node985, 004);
+   end
+   BOption(340, Node013, 004);
+   prev_node := 12;
+end
+procedure Node013 begin
+   set_salvatore_done;
+   Reply(360);
+   BOption(361, Node005, 004);
+   NOption(362, Node999, 004);
+   prev_node := 13;
+end
+procedure Node014 begin
+   Reply(370);
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      GOption(372, Node999, 004);
+   end else begin
+      NOption(371, Node985, 004);
+   end
+   BOption(373, Node005, 004);
+   prev_node := 14;
+end
+procedure Node015 begin
+   floater_sick(380);
+   nr_add_timer_event(self_obj, 5, float_param);
+end
+procedure Node016 begin
+   Reply(385);
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      BOption(389, Node017, 004);
+      NOption(390, Node982, 004);
+      BOption(391, Node017, 004);
+   end else begin
+      BOption(386, Node017, 004);
+      NOption(387, Node983, 004);
+      BOption(388, Node017, 004);
+   end
+   prev_node := 16;
+end
+procedure Node017 begin
+   Reply(400);
+   BOption(401, Node005, 004);
+   prev_node := 17;
+end
+procedure Node018 begin
+   Reply(405);
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      BOption(410, Node019, 004);
+      BOption(411, Node019, 004);
+      NOption(412, Node980, 004);
+      BOption(391, Node019, 004);
+   end else begin
+      BOption(406, Node019, 004);
+      BOption(407, Node019, 004);
+      NOption(408, Node981, 004);
+      BOption(388, Node019, 004);
+   end
+   prev_node := 18;
+end
+procedure Node019 begin
+   Reply(420);
+   BOption(421, Node005, 004);
+   NOption(422, Node020, 004);
+   BOption(423, Node005, 004);
+   prev_node := 19;
+end
+procedure Node020 begin
+   Reply(430);
+   if (dude_caps >= 250) then begin
+      NOption(432, Node021, 004);
+      if (dude_caps >= 500) then begin
+         NOption(433, Node021, 004);
+         if (dude_caps >= 750) then begin
+            NOption(434, Node021, 004);
+            if (dude_caps >= 1000) then begin
+               NOption(435 + thousand_caps, Node022, 004);
+            end
+         end
+      end
+   end else begin
+      BOption(431, Node005, 004);
+   end
+   NOption(437, Node005, 004);
+   prev_node := 20;
+end
+procedure Node021 begin
+   Reply(450);
+   BOption(451, Node005, 004);
+   prev_node := 21;
+end
+procedure Node022 begin
+   give_salvatore_money(500);
+   display_mstr(850);
+   give_xp(EXP_NEW_RENO_LLOYD_SITUATION_DONE);
+   set_track_lloyd(track_lloyd_done);
+   inc_reno_rep(REP_NEW_RENO_RESOLVE_LLOYD_SITUATION);
+   Reply(455);
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      NOption(468, Node978, 004);
+   end else begin
+      NOption(456, Node979, 004);
+   end
+   prev_node := 22;
+end
+procedure Node024 begin
+   Reply(475);
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      GOption(477, Node973, 004);
+      BOption(479, Node013, 004);
+   end else begin
+      NOption(476, Node974, 004);
+      BOption(478, Node013, 004);
+   end
+   prev_node := 24;
+end
+procedure Node025 begin
+   set_tribute(tribute_mason);
+ //  set_salvatore_permission;
+   Reply(485);
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      //NOption(487, Node984, 004);
+      GOption(487, Node984, 004); //edit by killap
+   end else begin
+      NOption(351, Node985, 004);
+   end
+   BOption(488, Node013, 004);
+   prev_node := 25;
+end
+procedure Node026 begin
+   Reply(495);
+   BOption(401, Node005, 004);
+   prev_node := 26;
+end
+procedure Node027 begin
+   Reply(500);
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      GOption(501, Node972, 004);
+      BOption(504, Node970, 004);
+   end else begin
+      NOption(502, Node971, 004);
+      BOption(503, Node970, 004);
+   end
+   prev_node := 27;
+end
+procedure Node028 begin
+   Reply(515);
+   BOption(421, Node005, 004);
+   NOption(422, Node029, 004);
+   BOption(423, Node005, 004);
+   prev_node := 28;
+end
+procedure Node029 begin
+   Reply(525);
+   if (dude_caps >= 800) then begin
+      if (dude_caps >= 900) then begin
+         if (dude_caps >= 1000) then begin
+            NOption(435, Node031, 004);
+         end
+         NOption(527, Node030, 004);
+      end
+      NOption(528, Node030, 004);
+   end else begin
+      BOption(529, Node970, 004);
+   end
+   NOption(437, Node005, 004);
+   prev_node := 29;
+end
+procedure Node030 begin
+   Reply(540);
+   BOption(451, Node005, 004);
+   prev_node := 30;
+end
+procedure Node031 begin
+   if (salvatore_respect >= 8) then begin
+      Reply(545);
+      give_salvatore_money(750);
+   end else begin
+      Reply(546);
+      give_salvatore_money(900);
+   end
+   display_mstr(875);
+   inc_reno_rep(REP_NEW_RENO_SALVATORE_TRIBUTE);
+   give_xp(EXP_NEW_RENO_COLLECT_TRIBUTE);
+   set_tribute(tribute_done);
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      NOption(468, Node968, 004);
+   end else begin
+      NOption(456, Node969, 004);
+   end
+   prev_node := 31;
+end
+procedure Node032 begin
+   set_salvatore_done;
+   off_salvatore_permission
+   Reply(555);
+   NOption(556, Node999, 004);
+   if ((know_lasers) and (get_salvatore_pistol(salvatore_pistol_none))) then begin
+      NOption(557, Node003, 004);
+   end
+   prev_node := 32;
+end
+procedure Node033 begin
+   Reply(565);
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      GOption(477, Node966, 004);
+      BOption(479, Node013, 004);
+   end else begin
+      NOption(566, Node967, 004);
+      BOption(568, Node013, 004);
+   end
+   prev_node := 33;
+end
+procedure Node034 begin
+   set_guard_assignment(guard_assignment_mason);
+//   set_salvatore_permission;
+   Reply(575);
+   NOption(576, Node035, 004);
+   NOption(577, Node035, 004);
+   if ((know_lasers) and (get_salvatore_pistol(salvatore_pistol_none))) then begin
+      NOption(578, Node965, 004);
+   end
+   BOption(579, Node013, 004);
+   prev_node := 34;
+end
+procedure Node035 begin
+   Reply(585);
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      //NOption(412, Node984, 004);
+      GOption(487, Node984, 004); //edit by killap
+   end else begin
+      NOption(351, Node985, 004);
+   end
+   BOption(579, Node013, 004);
+   prev_node := 35;
+end
+procedure Node036 begin
+   set_salvatore_pistol(salvatore_pistol_mason);
+   Reply(595);
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      //NOption(412, Node984, 004);
+      GOption(412, Node984, 004); //edit by killap
+   end else begin
+      NOption(596, Node985, 004);
+   end
+   prev_node := 36;
+end
+procedure Node037 begin
+   if (dude_iq >=4) then begin   //check added by killap - prevent cheating
+      display_mstr(925);
+      give_xp(EXP_NEW_RENO_SECRET_TRANS_GUARD);
+   end
+   Reply(mstr(605) + dude_name + mstr(5605));
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      NOption(607, Node963, 004);
+      NOption(610, Node037a, 004);
+   end else begin
+      NOption(596, Node964, 004);
+      NOption(608, Node037a, 004);
+   end
+   prev_node := 37;
+end
+procedure Node037a begin
+   Reply(mstr(615) + dude_name + mstr(5640));
+   NOption(616, Node998, 004);
+   BOption(617, Node998, 004);
+end
+procedure Node038 begin
+   setup_set_made_man_name(620, "Node039", family_salvatore)
+end
+procedure Node039 begin
+   display_mstr(900);
+   give_xp(EXP_NEW_RENO_MADE_MAN_SALVATORE);
+   set_salvatore_permission
+   Reply(630);
+   if ((dude_charisma > 5) or (dude_iq > 7)) then begin
+      //NOption(468, Node984, 004);
+      GOption(468, Node984, 004); //edit by killap
+   end else begin
+      NOption(596, Node985, 004);
+   end
+   prev_node := 39;
+end
+procedure Node040 begin
+   float_msg(self_obj, mstr(640) + made_man_name + mstr(5640), FLOAT_COLOR_NORMAL); //added by killap
+// floater_good(mstr(640) + made_man_name + mstr(5640));
+end
+procedure Node041 begin
+   float_msg(self_obj, mstr(645) + dude_name + mstr(5645), FLOAT_COLOR_BAD);  //added by killap
+// floater_sick(mstr(645) + dude_name + mstr(5645));
+   prev_node := 41;
+end
+procedure Node042 begin
+   set_hostile;
+   if (local_var(LVAR_Dying_Message) >= 10) then begin
+      kill_salvatore;
+   end else begin
+      floater_sick(650 + local_var(LVAR_Dying_Message));
+      inc_local_var(LVAR_Dying_Message);
+   end
+end
+procedure Node043 begin
+   Reply(675);
+   BOption(676, Node005, 004);
+   BOption(677, Node005, 004);
+   BOption(678, Node005, 004);
+   prev_node := 43;
+end

@@ -1,0 +1,174 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\depolvb.h"
+
+#define NAME                    SCRIPT_WSEMIT1A       // contains all the .msg info
+#define CUR_SCRIPT              SCRIPT_WSFELD4B       // for creating new objects w/ this script
+
+#include "..\headers\command.h"
+
+#define FEILD_DOWN_TIME         (20)            // in seconds
+
+#define MIN_DMG_USE_LOW         (5)
+#define MAX_DMG_USE_LOW         (15)
+#define MIN_DMG_USE_HI          (10)
+#define MAX_DMG_USE_HI          (20)
+#define MIN_DMG_SPATIAL         (15)
+#define MAX_DMG_SPATIAL         (30)
+#define DAMAGE_TYPE             DMG_electrical
+
+#define FIELD_STATUS            MVAR_Field_4b
+
+procedure start;
+procedure use_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure map_update_p_proc;
+procedure spatial_p_proc;
+procedure timed_event_p_proc;
+procedure map_enter_p_proc;   //added by killap
+
+#define LVAR_Timed_Event                (0)
+
+import variable Field4b_Ptr;
+#define FIELD_PTR Field4b_Ptr
+
+variable Field_Ptr;
+
+procedure start begin
+end
+
+//added by killap
+procedure map_enter_p_proc begin
+   if (obj_pid(self_obj) != -1) then begin
+       FIELD_PTR:=self_obj;
+   end
+
+   //this can only happen if the player leaves the map before a timed event has expired
+   if (local_var(LVAR_Timed_Event) == 1) then begin
+       set_local_var(LVAR_Timed_Event,0);
+       set_map_var(FIELD_STATUS,FIELD_ENABLED);
+       if (obj_pid(self_obj) != -1) then begin
+           set_obj_visibility(self_obj,0);                  // vis
+       end
+   end
+end 
+//end added
+
+procedure map_update_p_proc begin
+   if (obj_pid(self_obj) != -1) then begin
+       FIELD_PTR:=self_obj;
+   end
+
+   if (global_var(GVAR_SIERRA_BASE_POWER) == 0) then begin              // power on
+       if ((obj_pid(self_obj) != -1) and (map_var(FIELD_STATUS) != FIELD_DAMAGED)) then begin
+           if (obj_pid(self_obj) == PID_NS_PAIN_FIELD) then begin
+               FIELD_PTR:=create_object_sid(PID_NS_FORCE_FIELD,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
+               destroy_object(self_obj);
+           end
+           else if (obj_pid(self_obj) == PID_EW_PAIN_FIELD) then begin
+               FIELD_PTR:=create_object_sid(PID_EW_FORCE_FIELD,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
+               destroy_object(self_obj);
+           end
+       end
+
+       if ((map_var(FIELD_STATUS) == FIELD_DISABLED) and (local_var(LVAR_Timed_Event) == 0)) then begin
+           set_local_var(LVAR_Timed_Event,1);
+           set_obj_visibility(self_obj,1);              // invis
+           add_timer_event(self_obj,game_ticks(FEILD_DOWN_TIME),1);
+       end
+   end
+
+   else if (obj_pid(self_obj) != -1) then begin
+       if (obj_pid(self_obj) == PID_NS_FORCE_FIELD) then begin
+           FIELD_PTR:=create_object_sid(PID_NS_PAIN_FIELD,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
+           destroy_object(self_obj);
+       end
+       else if (obj_pid(self_obj) == PID_EW_FORCE_FIELD) then begin
+           FIELD_PTR:=create_object_sid(PID_EW_PAIN_FIELD,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
+           destroy_object(self_obj);
+       end
+   end
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then begin
+       set_local_var(LVAR_Timed_Event,0);
+       set_map_var(FIELD_STATUS,FIELD_ENABLED);
+       if (obj_pid(self_obj) != -1) then begin
+           set_obj_visibility(self_obj,0);                  // vis
+       end
+   end
+end
+
+procedure use_p_proc begin
+   variable damage;
+
+   script_overrides;
+
+// Pain Field
+   if (global_var(GVAR_SIERRA_BASE_POWER) == 1) then begin      // Power off
+       damage:=random(MIN_DMG_USE_LOW,MAX_DMG_USE_LOW);
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(102));
+       end
+       else begin
+           display_msg(obj_name(source_obj)+mstr(103));
+       end
+       critter_dmg(source_obj,damage,DMG_electrical BWOR DMG_NOANIMATE);
+   end
+// Force Field
+   else begin
+       damage:=random(MIN_DMG_USE_HI,MAX_DMG_USE_HI);
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(107));
+       end
+       else begin
+           display_msg(obj_name(source_obj)+mstr(108));
+       end
+       critter_dmg(source_obj,damage,DMG_electrical BWOR DMG_NOANIMATE);
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   call use_p_proc;
+end
+
+procedure use_obj_on_p_proc begin
+   call use_p_proc;
+end
+
+procedure spatial_p_proc begin
+   if ((global_var(GVAR_SIERRA_BASE_POWER) == 1) and (map_var(FIELD_STATUS) != FIELD_DESTROYED)) then begin              // power off
+       critter_dmg(source_obj,random(MIN_DMG_SPATIAL,MAX_DMG_SPATIAL),DAMAGE_TYPE);
+   end
+   else if (map_var(FIELD_STATUS) == FIELD_DAMAGED) then begin
+       critter_dmg(source_obj,random(MIN_DMG_SPATIAL,MAX_DMG_SPATIAL),DAMAGE_TYPE);
+   end
+end

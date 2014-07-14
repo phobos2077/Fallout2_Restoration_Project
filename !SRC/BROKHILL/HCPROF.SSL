@@ -1,0 +1,862 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Professor
+        Location: Broken Hills
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+
+//Overrides the pickup p proc.
+#define NPC_REACTION_TYPE       REACTION_TC /* REACTION_TC REACTION_TG REACTION_C REACTION_G */
+#define NPC_REACTION_VAR        7 /* same as thief variable */
+
+#include "..\headers\define.h"
+#include "..\headers\Broken2.h"
+
+#define NAME                    SCRIPT_HCPROF
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure StartAgility;
+procedure StartPerception;
+procedure StartIntelligence;
+
+procedure PerformAgilityTest;
+procedure PerformPerceptionTest;
+procedure PerformIntelligenceTest;
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Caught_Thief               (7)
+#define LVAR_Told_About_Tests           (8)
+#define LVAR_Agility_Reward             (9)
+#define LVAR_Perception_Reward          (10)
+#define LVAR_Intelligence_Reward        (11)
+#define LVAR_Player_Score               (12)
+#define LVAR_Scorpion_Score             (13)
+
+#define float_scorp(x)            float_msg(scorpion_obj, message_str(NAME,x), FLOAT_MSG_GREEN)
+#define float_dude(x)             float_msg(dude_obj, message_str(NAME,x), FLOAT_MSG_BLUE)
+
+#define PLAYER_HOME_HEX                 (24669)
+#define PLAYER_AGILITY_HEX              (23663)
+#define PLAYER_PERCEPTION_HEX           (24466)
+#define PLAYER_INTELLIGENCE_HEX         (25470)
+#define PLAYER_HOME_ROT                 (1)
+#define PLAYER_AGILITY_ROT              (5)
+#define PLAYER_PERCEPTION_ROT           (5)
+#define PLAYER_INTELLIGENCE_ROT         (5)
+
+#define SCORP_HOME_HEX                 (23667)
+#define SCORP_AGILITY_HEX              (23661)
+#define SCORP_PERCEPTION_HEX           (24468)
+#define SCORP_INTELLIGENCE_HEX         (24870)
+#define SCORP_HOME_ROT                 (2)
+#define SCORP_AGILITY_ROT              (5)
+#define SCORP_PERCEPTION_ROT           (5)
+#define SCORP_INTELLIGENCE_ROT         (2)
+
+#define PROF_HOME_HEX                 (24667)
+#define PROF_AGILITY_HEX              (23466)
+#define PROF_PERCEPTION_HEX           (24063)
+#define PROF_INTELLIGENCE_HEX         (25067)
+#define PROF_HOME_ROT                 (3)
+#define PROF_AGILITY_ROT              (1)
+#define PROF_PERCEPTION_ROT           (3)
+#define PROF_INTELLIGENCE_ROT         (3)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+import variable professor_obj;
+import variable scorpion_obj;
+import variable Professor_Box1;
+import variable Professor_Box2;
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable Agility_State := 0;
+variable Perception_State := 0;
+variable Intelligence_State := 0;
+variable lost := 1;
+variable float_mentats := 0;
+
+procedure start begin
+   professor_obj := self_obj;
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   professor_obj := self_obj;
+   // The professor is on his own team because he isn't cared about by anyone
+   // and doesn't care about anyone (even the scorpion).
+   //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
+   //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PACIFIST);
+end
+
+procedure map_update_p_proc begin
+   professor_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+   if( fixed_param == 0 ) then begin
+      // Agility Test
+      call PerformAgilityTest;
+   end
+   else if( fixed_param == 1 ) then begin
+      // Perception Test
+      call PerformPerceptionTest;
+   end
+   else if( fixed_param == 2 ) then begin
+      // Intelligence Test
+      call PerformIntelligenceTest;
+   end
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       self_attack_dude;
+       //Macro made by Tom to keep the critter fleeing.
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (obj_in_party(source_obj)) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_TOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION1;
+
+   CheckKarma;
+
+   GetReaction;
+
+   Agility_State := 0;
+   Perception_State := 0;
+   Intelligence_State := 0;
+   lost := 1;
+
+   if( map_var( MVAR_Scorpion_Dead ) == 1 ) then
+      call Node012;
+   else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+      end_dialogue;
+      set_local_var( LVAR_Herebefore, 1 );
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+/* inc_evil_critter */
+/* inc_neutral_critter */
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_mstr(100);
+   else
+      display_mstr(101);
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(102);
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   if( local_var( LVAR_Herebefore ) == 0 ) then
+      Reply(104);
+   else
+      Reply( mstr(103) + " " + mstr(104) );
+
+   NLowOption(105, Node002);
+   if( local_var( LVAR_Told_About_Tests ) == 1 ) then
+      NLowOption(106, Node003);
+   NLowOption(148, Node999);
+   NOption(107, Node009, 004);
+   if( local_var( LVAR_Told_About_Tests ) == 1 ) then
+      NOption(108, Node005, 004);
+   NOption(109, Node999, 004);
+end
+
+procedure Node002 begin
+   set_local_var( LVAR_Told_About_Tests, 1 );
+   Reply(110);
+
+   NLowOption(111, Node003);
+   NLowOption(112, Node004);
+end
+
+procedure Node003 begin
+   Reply(113);
+
+   NLowOption(114, Node006);
+   NLowOption(115, Node007);
+   NLowOption(116, Node008);
+   NLowOption(117, Node004);
+end
+
+procedure Node004 begin
+   Reply(118);
+
+   NLowOption(119, Node999);
+   NOption(120, Node999, 004);
+end
+
+procedure Node005 begin
+   Reply(121);
+
+   NOption(122, Node006, 004);
+   NOption(123, Node007, 004);
+   NOption(124, Node008, 004);
+   NOption(125, Node004, 004);
+end
+
+procedure Node006 begin
+   Reply(126);
+
+   NLowOption(127, StartAgility);
+   NOption(128, StartAgility, 004);
+end
+
+procedure Node007 begin
+   Reply(129);
+
+   NLowOption(130, StartPerception);
+   NOption(131, StartPerception, 004);
+end
+
+procedure Node008 begin
+   Reply(132);
+
+   NLowOption(133, StartIntelligence);
+   NOption(134, StartIntelligence, 004);
+end
+
+procedure Node009 begin
+   set_local_var( LVAR_Told_About_Tests, 1 );
+   set_map_var( MVAR_Know_About_Professor, 1 );
+   Reply(135);
+
+   NOption(136, Node010, 004);
+   NOption(137, Node005, 004);
+   NOption(138, Node011, 004);
+   NOption(139, Node999, 004);
+end
+
+procedure Node010 begin
+   Reply(140);
+
+   NOption(141, Node011, 004);
+   NOption(142, Node005, 004);
+   NOption(143, Node999, 004);
+end
+
+procedure Node011 begin
+   Reply(144);
+
+   NOption(145, Node005, 004);
+   NOption(146, Node999, 004);
+end
+
+procedure Node012 begin
+   floater(147);
+end
+
+procedure StartAgility begin
+   add_timer_event( self_obj, 1, 0 );
+end
+
+procedure StartPerception begin
+   add_timer_event( self_obj, 1, 1 );
+end
+
+procedure StartIntelligence begin
+   add_timer_event( self_obj, 1, 2 );
+end
+
+procedure PerformAgilityTest begin
+   variable val;
+   variable str;
+   variable mentats;
+
+   float_msg(self_obj, " ", FLOAT_COLOR_NORMAL);
+   float_msg(dude_obj, " ", FLOAT_COLOR_NORMAL);
+   float_msg(scorpion_obj, " ", FLOAT_COLOR_NORMAL);
+   float_msg_clear(self_obj);
+   float_msg_clear(dude_obj);
+   float_msg_clear(scorpion_obj);
+
+   if( Agility_State == 0 ) then begin
+      set_map_var( MVAR_Test_In_Progress, 1 );
+      lost := 1;
+      game_ui_disable;
+      gfade_out(600);
+
+      // Make sure Boxes are closed
+      obj_close( Professor_Box1 );
+      obj_lock( Professor_Box1 );
+      obj_close( Professor_Box2 );
+      obj_lock( Professor_Box2 );
+
+      // Move Professor
+      move_to( self_obj, PROF_AGILITY_HEX, 0 );
+      critter_attempt_placement( self_obj, PROF_AGILITY_HEX, 0 );
+      anim( self_obj, ANIMATE_ROTATION, PROF_AGILITY_ROT );
+
+      // Move Scorpion
+      move_to( scorpion_obj, SCORP_AGILITY_HEX, 0 );
+      critter_attempt_placement( scorpion_obj, SCORP_AGILITY_HEX, 0 );
+      anim( scorpion_obj, ANIMATE_ROTATION, SCORP_AGILITY_ROT );
+
+      // Move Player
+      move_to( dude_obj, PLAYER_AGILITY_HEX, 0 );
+      critter_attempt_placement( dude_obj, PLAYER_AGILITY_HEX, 0 );
+      anim( dude_obj, ANIMATE_ROTATION, PLAYER_AGILITY_ROT );
+
+      gfade_in(600);
+      Agility_State += 1;
+      add_timer_event( self_obj, 5, 0 );
+   end
+   else if( Agility_State == 1 ) then begin
+      // Play Dude's Magic fingers animation.
+      reg_anim_clear( dude_obj );
+      reg_anim_begin();
+      reg_anim_animate( dude_obj,ANIM_magic_hands_middle,-1 );
+      reg_anim_end();
+      Agility_State += 1;
+      add_timer_event( self_obj, game_ticks(1), 0 );
+   end
+   else if( Agility_State == 2 ) then begin
+      // Roll vs. Agility for opening box.
+      val := do_check( dude_obj, STAT_ag, -1 );
+
+      if( is_success( val ) ) then begin
+         // Open box
+         obj_unlock( Professor_Box1 );
+         obj_open( Professor_Box1 );
+         lost := 0;
+         inc_local_var( LVAR_Player_Score );
+
+         if( local_var( LVAR_Agility_Reward ) == 0 ) then begin
+            set_local_var( LVAR_Agility_Reward, 1 );
+            display_msg( mstr(214) );
+            if( dude_iq >= 4 ) then begin
+               give_xp( EXP_AGILITY_TEST_HIGH_INT );
+            end
+            else begin
+               give_xp( EXP_AGILITY_TEST_LOW_INT );
+
+               // Also give Mentats. Professor will mention these below.
+               float_mentats := 1;
+               mentats := create_object( PID_MENTATS, 0, 0 );
+               add_obj_to_inven( dude_obj, mentats );
+            end
+         end
+
+         if( dude_iq >= 4 ) then
+            float_dude(200);
+         else
+            float_dude(201);
+      end
+      else begin
+         if( dude_iq >= 4 ) then
+            float_dude(202);
+         else
+            float_dude(203);
+      end
+
+      Agility_State += 1;
+      add_timer_event( self_obj, game_ticks(3), 0 );
+   end
+   else if( Agility_State == 3 ) then begin
+      // Play Scorpion's "Magic fingers" animation.
+      reg_anim_clear( scorpion_obj );
+      reg_anim_begin();
+      reg_anim_animate( scorpion_obj,ANIM_stand,-1 );
+      reg_anim_end();
+      Agility_State += 1;
+      add_timer_event( self_obj, game_ticks(1), 0 );
+   end
+   else if( Agility_State == 4 ) then begin
+      obj_unlock( Professor_Box2 );
+      obj_open( Professor_Box2 );
+      inc_local_var( LVAR_Scorpion_Score );
+
+      float_scorp(204);
+      Agility_State += 1;
+      add_timer_event( self_obj, game_ticks(2), 0 );
+   end
+   else if( Agility_State == 5 ) then begin
+      // "How'd you pick with claws"?
+      if( dude_iq >= 4 ) then
+         float_dude(205);
+      else
+         float_dude(206);
+      Agility_State += 1;
+      add_timer_event( self_obj, game_ticks(3), 0 );
+   end
+   else if( Agility_State == 6 ) then begin
+      // Chitter
+      float_scorp(207);
+      Agility_State += 1;
+      add_timer_event( self_obj, game_ticks(2), 0 );
+   end
+   else if( Agility_State == 7 ) then begin
+      // Professor Response
+      if( lost == 0 ) then begin
+         floater(208);
+      end
+      else begin
+         str := mstr(209) + local_var( LVAR_Scorpion_Score ) + mstr(210) + dude_name + mstr(211) + local_var( LVAR_Player_Score ) + mstr(212);
+         float_msg( self_obj, str, FLOAT_COLOR_NORMAL );
+      end
+
+      Agility_State += 1;
+      add_timer_event( self_obj, game_ticks(3), 0 );
+   end
+   else if( Agility_State == 8 ) then begin
+      // If Int <= 3, Prof gives Mentats
+      if( ( lost == 0 ) and ( dude_iq <= 3 ) and ( float_mentats == 1 ) ) then begin
+         float_mentats := 0;
+         floater(215);
+         Agility_State += 1;
+         add_timer_event( self_obj, game_ticks(3), 0 );
+      end
+      else begin
+         Agility_State += 1;
+         add_timer_event( self_obj, 1, 0 );
+      end
+   end
+   else if( Agility_State == 9 ) then begin
+      // If Int <= 3, float "Errr?", otherwise jump to next case.
+      if( ( lost == 1 ) and ( dude_iq <= 3 ) ) then begin
+         float_dude(213);
+         Agility_State += 1;
+         add_timer_event( self_obj, game_ticks(2), 0 );
+      end
+      else begin
+         Agility_State += 1;
+         add_timer_event( self_obj, 1, 0 );
+      end
+   end
+   else if( Agility_State == 10 ) then begin
+      gfade_out(600);
+      set_map_var( MVAR_Test_In_Progress, 0 );
+
+      // Make sure Boxes are closed
+      obj_close( Professor_Box1 );
+      obj_lock( Professor_Box1 );
+      obj_close( Professor_Box2 );
+      obj_lock( Professor_Box2 );
+
+      // Move Professor
+      move_to( self_obj, PROF_HOME_HEX, 0 );
+      critter_attempt_placement( self_obj, PROF_HOME_HEX, 0 );
+      anim( self_obj, ANIMATE_ROTATION, PROF_HOME_ROT );
+
+      // Move Scorpion
+      move_to( scorpion_obj, SCORP_HOME_HEX, 0 );
+      critter_attempt_placement( scorpion_obj, SCORP_HOME_HEX, 0 );
+      anim( scorpion_obj, ANIMATE_ROTATION, SCORP_HOME_ROT );
+
+      // Move Player
+      move_to( dude_obj, PLAYER_HOME_HEX, 0 );
+      critter_attempt_placement( dude_obj, PLAYER_HOME_HEX, 0 );
+      anim( dude_obj, ANIMATE_ROTATION, PLAYER_HOME_ROT );
+
+      game_ui_enable;
+      gfade_in(600);
+   end
+end
+
+procedure PerformPerceptionTest begin
+   variable val;
+
+   float_msg(self_obj, " ", FLOAT_COLOR_NORMAL);
+   float_msg(dude_obj, " ", FLOAT_COLOR_NORMAL);
+   float_msg(scorpion_obj, " ", FLOAT_COLOR_NORMAL);
+   float_msg_clear(self_obj);
+   float_msg_clear(dude_obj);
+   float_msg_clear(scorpion_obj);
+
+   if( Perception_State == 0 ) then begin
+      set_map_var( MVAR_Test_In_Progress, 1 );
+      lost := 1;
+      game_ui_disable;
+      gfade_out(600);
+
+      // Move Professor
+      move_to( self_obj, PROF_PERCEPTION_HEX, 0 );
+      critter_attempt_placement( self_obj, PROF_PERCEPTION_HEX, 0 );
+      anim( self_obj, ANIMATE_ROTATION, PROF_PERCEPTION_ROT );
+
+      // Move Scorpion
+      move_to( scorpion_obj, SCORP_PERCEPTION_HEX, 0 );
+      critter_attempt_placement( scorpion_obj, SCORP_PERCEPTION_HEX, 0 );
+      anim( scorpion_obj, ANIMATE_ROTATION, SCORP_PERCEPTION_ROT );
+
+      // Move Player
+      move_to( dude_obj, PLAYER_PERCEPTION_HEX, 0 );
+      critter_attempt_placement( dude_obj, PLAYER_PERCEPTION_HEX, 0 );
+      anim( dude_obj, ANIMATE_ROTATION, PLAYER_PERCEPTION_ROT );
+
+      gfade_in(600);
+      Perception_State += 1;
+      add_timer_event( self_obj, 5, 1 );
+   end
+   else if( Perception_State == 1 ) then begin
+      // Did player successfully read the sign?
+      val := do_check( dude_obj, STAT_pe, -1 );
+
+      if( is_success( val ) ) then begin
+
+         // Reward
+         if( local_var( LVAR_Perception_Reward ) == 0 ) then begin
+            set_local_var( LVAR_Perception_Reward, 1 );
+            display_msg( mstr(306) );
+            inc_local_var( LVAR_Player_Score );
+            if( dude_iq >= 4 ) then begin
+               give_xp( EXP_PERCEPTION_TEST_HIGH_INT );
+            end
+            else begin
+               give_xp( EXP_PERCEPTION_TEST_LOW_INT );
+            end
+         end
+
+         lost := 0;
+         float_dude(300);
+      end
+      else begin
+         float_dude(302);
+      end
+
+      Perception_State += 1;
+      add_timer_event( self_obj, game_ticks(3), 1 );
+   end
+   else if( Perception_State == 2 ) then begin
+      // Professor response to player
+      if( lost == 0 ) then begin
+         floater(301);
+      end
+      else begin
+         floater(303);
+      end
+
+      Perception_State += 1;
+      add_timer_event( self_obj, game_ticks(3), 1 );
+   end
+   else if( Perception_State == 3 ) then begin
+      // Scorpion's turn
+      float_scorp(304);
+      inc_local_var( LVAR_Scorpion_Score );
+      Perception_State += 1;
+      add_timer_event( self_obj, game_ticks(3), 1 );
+   end
+   else if( Perception_State == 4 ) then begin
+      // Gooood Booy!!!
+      floater(305);
+      Perception_State += 1;
+      add_timer_event( self_obj, game_ticks(4), 1 );
+   end
+   else if( Perception_State == 5 ) then begin
+      gfade_out(600);
+      set_map_var( MVAR_Test_In_Progress, 0 );
+
+      // Move Professor
+      move_to( self_obj, PROF_HOME_HEX, 0 );
+      critter_attempt_placement( self_obj, PROF_HOME_HEX, 0 );
+      anim( self_obj, ANIMATE_ROTATION, PROF_HOME_ROT );
+
+      // Move Scorpion
+      move_to( scorpion_obj, SCORP_HOME_HEX, 0 );
+      critter_attempt_placement( scorpion_obj, SCORP_HOME_HEX, 0 );
+      anim( scorpion_obj, ANIMATE_ROTATION, SCORP_HOME_ROT );
+
+      // Move Player
+      move_to( dude_obj, PLAYER_HOME_HEX, 0 );
+      critter_attempt_placement( dude_obj, PLAYER_HOME_HEX, 0 );
+      anim( dude_obj, ANIMATE_ROTATION, PLAYER_HOME_ROT );
+
+      game_ui_enable;
+      gfade_in(600);
+   end
+end
+
+procedure PerformIntelligenceTest begin
+   variable val;
+
+   float_msg(self_obj, " ", FLOAT_COLOR_NORMAL);
+   float_msg(dude_obj, " ", FLOAT_COLOR_NORMAL);
+   float_msg(scorpion_obj, " ", FLOAT_COLOR_NORMAL);
+   float_msg_clear(self_obj);
+   float_msg_clear(dude_obj);
+   float_msg_clear(scorpion_obj);
+
+   if( Intelligence_State == 0 ) then begin
+      set_map_var( MVAR_Test_In_Progress, 1 );
+      lost := 1;
+      game_ui_disable;
+      gfade_out(600);
+
+      // Move Professor
+      move_to( self_obj, PROF_INTELLIGENCE_HEX, 0 );
+      critter_attempt_placement( self_obj, PROF_INTELLIGENCE_HEX, 0 );
+      anim( self_obj, ANIMATE_ROTATION, PROF_INTELLIGENCE_ROT );
+
+      // Move Scorpion
+      move_to( scorpion_obj, SCORP_INTELLIGENCE_HEX, 0 );
+      critter_attempt_placement( scorpion_obj, SCORP_INTELLIGENCE_HEX, 0 );
+      anim( scorpion_obj, ANIMATE_ROTATION, SCORP_INTELLIGENCE_ROT );
+
+      // Move Player
+      move_to( dude_obj, PLAYER_INTELLIGENCE_HEX, 0 );
+      critter_attempt_placement( dude_obj, PLAYER_INTELLIGENCE_HEX, 0 );
+      anim( dude_obj, ANIMATE_ROTATION, PLAYER_INTELLIGENCE_ROT );
+
+      gfade_in(600);
+      Intelligence_State += 1;
+      add_timer_event( self_obj, 5, 2 );
+   end
+   else if( Intelligence_State == 1 ) then begin
+      // Play Dude's Magic fingers animation.
+      reg_anim_clear( dude_obj );
+      reg_anim_begin();
+      reg_anim_animate( dude_obj,ANIM_magic_hands_middle,-1 );
+      reg_anim_end();
+
+      // Now it gets kind of weird.  If the player has heard how to beat the
+      // the scorpion from the plant, we branch to a "Player wins" scenario.
+      // Otherwise, we let the scorpion win. Watch the Intelligence_State vals.
+      if( map_var( MVAR_Plant_Told_About_Chess ) == 1 ) then begin
+         Intelligence_State := 6;
+         add_timer_event( self_obj, game_ticks(1), 2 );
+      end
+      else begin
+         Intelligence_State += 1;
+         add_timer_event( self_obj, game_ticks(2), 2 );
+      end
+   end
+   else if( Intelligence_State == 2 ) then begin
+      // Play Scorpion's "Magic fingers" animation.
+      reg_anim_clear( scorpion_obj );
+      reg_anim_begin();
+      reg_anim_animate( scorpion_obj,ANIM_stand,-1 );
+      reg_anim_end();
+      Intelligence_State += 1;
+      add_timer_event( self_obj, game_ticks(1), 2 );
+   end
+   else if( Intelligence_State == 3 ) then begin
+      // Scorpion wins
+      float_scorp(400);
+      inc_local_var( LVAR_Scorpion_Score );
+      Intelligence_State += 1;
+      add_timer_event( self_obj, game_ticks(2), 2 );
+   end
+   else if( Intelligence_State == 4 ) then begin
+      if( dude_iq >= 4 ) then
+         float_dude(401);
+      else
+         float_dude(402);
+
+      Intelligence_State += 1;
+      add_timer_event( self_obj, game_ticks(2), 2 );
+   end
+   else if( Intelligence_State == 5 ) then begin
+      // Professor response
+      floater(403);
+
+      Intelligence_State := 100;
+      add_timer_event( self_obj, game_ticks(2), 2 );
+   end
+   else if( Intelligence_State == 6 ) then begin
+      // Player wins
+      if( local_var( LVAR_Intelligence_Reward ) == 0 ) then begin
+         set_local_var( LVAR_Intelligence_Reward, 1 );
+         display_msg( mstr(407) );
+         inc_local_var( LVAR_Player_Score );
+         if( dude_iq >= 4 ) then begin
+            give_xp( EXP_PERCEPTION_TEST_HIGH_INT );
+         end
+         else begin
+            give_xp( EXP_PERCEPTION_TEST_LOW_INT );
+         end
+      end
+
+      if( dude_iq >= 4 ) then begin
+         float_dude(404);
+      end
+      else begin
+         float_dude(405);
+      end
+      Intelligence_State += 1;
+      add_timer_event( self_obj, game_ticks(2), 2 );
+   end
+   else if( Intelligence_State == 7 ) then begin
+      float_scorp(406);
+      attack_setup( scorpion_obj, dude_obj );
+      game_ui_enable;
+   end
+   else if( Intelligence_State == 100 ) then begin
+      gfade_out(600);
+      set_map_var( MVAR_Test_In_Progress, 0 );
+
+      // Move Professor
+      move_to( self_obj, PROF_HOME_HEX, 0 );
+      critter_attempt_placement( self_obj, PROF_HOME_HEX, 0 );
+      anim( self_obj, ANIMATE_ROTATION, PROF_HOME_ROT );
+
+      // Move Scorpion
+      move_to( scorpion_obj, SCORP_HOME_HEX, 0 );
+      critter_attempt_placement( scorpion_obj, SCORP_HOME_HEX, 0 );
+      anim( scorpion_obj, ANIMATE_ROTATION, SCORP_HOME_ROT );
+
+      // Move Player
+      move_to( dude_obj, PLAYER_HOME_HEX, 0 );
+      critter_attempt_placement( dude_obj, PLAYER_HOME_HEX, 0 );
+      anim( dude_obj, ANIMATE_ROTATION, PLAYER_HOME_ROT );
+
+      game_ui_enable;
+      gfade_in(600);
+   end
+end
+
+//xxxxxxxxxxxxxxxxxxxx

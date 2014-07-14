@@ -1,0 +1,109 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Bess Map
+        Location: Desert
+        Description: This is the Bess Heard random encounter map
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: April 14, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\rndbess.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_RNDBESS
+
+#include "..\headers\command.h"
+
+#define CHECK_RNDBESS_FLOAT (3)
+#define DEATH_TILE          (19894)
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure map_exit_p_proc;
+
+procedure Initial_Inven;
+procedure LoadBrahmn;
+
+//Local Vars
+
+procedure start begin
+end
+
+procedure map_exit_p_proc begin
+   if (not car_out_of_fuel) then begin
+      if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 0, PID_DRIVABLE_CAR) != 0 or
+          tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 1, PID_DRIVABLE_CAR) != 0 or
+          tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 2, PID_DRIVABLE_CAR) != 0) then begin
+         debug_msg("car_give_to_party");
+         set_global_var(GVAR_CAR_PLACED_TILE, 0);
+         car_give_to_party;
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   override_map_start_hex(26724,0,0);
+   if (not is_loading_game) then begin
+      call LoadBrahmn;
+      add_timer_event(dude_obj, 1, CHECK_RNDBESS_FLOAT);
+   end
+
+   Check_Create_Car(CAR_RND_BESS_HEX, 0)
+
+   if (map_first_run) then begin
+      display_msg(mstr(100));
+   end
+   Lighting;
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+end
+
+
+procedure Initial_Inven begin
+end
+
+procedure LoadBrahmn begin
+   variable obj;
+   variable tile;
+
+   while (global_var(GVAR_MODOC_BRAHMIN_ESCAPED) > 0) do begin
+      obj := 0;
+      tile := 0;
+      if (global_var(GVAR_MODOC_BRAHMIN_ESCAPED) == 1) then begin
+         tile := DEATH_TILE;
+         obj := create_object_sid(PID_BESS, tile, elevation(dude_obj), SCRIPT_ECBESS);
+      end else begin
+         tile := tile_num_in_direction(DEATH_TILE, Random(0, 5), Random(1, 10));
+         obj := create_object_sid(PID_BRAHMIN, tile, elevation(self_obj), SCRIPT_ECBESCOW);
+      end
+      if (obj) then begin
+         critter_attempt_placement(obj, tile, elevation(dude_obj));
+         anim(obj, ANIMATE_ROTATION, Random(0, 5));
+      end
+      set_global_var(GVAR_MODOC_BRAHMIN_ESCAPED, global_var(GVAR_MODOC_BRAHMIN_ESCAPED) - 1);
+   end
+   kill_critter_type(PID_BESS, ANIM_fall_front_sf);
+   kill_critter_type(PID_BRAHMIN, ANIM_fall_front_sf);
+end

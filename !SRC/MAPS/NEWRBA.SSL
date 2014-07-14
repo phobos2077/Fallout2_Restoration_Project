@@ -1,0 +1,41 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: NewRBa
+        Location: New Reno
+        Description: Bishop Basement
+
+        Log:
+
+           Created: April 27, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\NewRBa.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_NEWRBA
+
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   set_map_exit_tiles(0, 0);
+   Basement_Lighting;
+end
+
+procedure map_update_p_proc begin
+   Basement_Lighting;
+end

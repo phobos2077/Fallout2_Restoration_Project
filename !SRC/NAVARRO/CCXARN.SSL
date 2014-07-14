@@ -1,0 +1,669 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Xarn
+        Location: Navarro
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: Sept 10, 1998
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+//#include "..\headers\navdef.h"
+#include "..\headers\navarro.h"
+//#include "..\headers\<TownName.h>"
+
+#define NAME                    SCRIPT_CCXARN
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NAVARRO
+
+#define TILE_ZER                24104
+#define TILE_ONE                25705
+#define TILE_TWO                27305
+#define TILE_THR                27316
+#define TILE_FOU                27326
+#define TILE_FIV                27336
+#define TILE_SIX                27346
+#define TILE_SEV                27356
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure leave_player;
+procedure push_p_proc;
+procedure escape;
+procedure finish;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node004a; //added by killap
+procedure Node005;
+procedure Node05a;
+procedure Node05b;
+procedure Node05c;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node19a;
+procedure Node19b;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+
+/* Script Specific Procedure Calls */
+procedure Node800;
+procedure Node997;
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_second_look                (7)
+//#define LVAR_Follow_Dude                (8)     // UNUSED!!!!
+#define LVAR_met                        (8)
+#define LVAR_dq_accept                  (9)
+#define LVAR_dq_think                   (10)
+#define LVAR_dq_refuse                  (11)
+#define LVAR_dq_kill                    (12)
+#define LVAR_THEX                       (13)
+#define LVAR_freed                      (14)
+#define LVAR_Said_Thanks                (15)
+
+import variable xarn_ptr;
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable repair_check;
+variable dtile;
+variable dlev;
+variable mytile;
+variable mylev;
+variable newtile;
+variable here;
+variable door;
+variable talk_to_dude:=0;
+
+procedure start begin
+   xarn_ptr := self_obj;
+end
+
+procedure map_enter_p_proc begin
+   xarn_ptr := self_obj;
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT13);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_VAULT_DEATHCLAW);
+end
+
+procedure map_update_p_proc begin
+   xarn_ptr := self_obj;
+end
+
+procedure combat_p_proc begin
+   if ((map_var(MVAR_Xarn_In_Party) == 1) and (map_var(MVAR_Exit) == 1)) then begin
+      call leave_player;
+   end
+end
+
+procedure push_p_proc begin
+end
+
+procedure escape begin
+   here:=tile_num(self_obj);
+   if (local_var(LVAR_THEX) == 0) then
+      set_local_var(LVAR_THEX, TILE_ZER);
+   else if ( (local_var(LVAR_THEX) == TILE_ZER) and (here == TILE_ZER) ) then begin
+      set_local_var(LVAR_THEX, TILE_ONE);
+      door:=tile_contains_pid_obj(24704,1,PID_NS_NAVARRO_BUNKER_DOOR);
+      obj_open(door);
+   end
+   else if (here == TILE_ONE) then
+      set_local_var(LVAR_THEX, TILE_TWO);
+   else if (here == TILE_TWO) then
+      set_local_var(LVAR_THEX, TILE_THR);
+   else if (here == TILE_THR) then
+      set_local_var(LVAR_THEX, TILE_FOU);
+   else if (here == TILE_FOU) then
+      set_local_var(LVAR_THEX, TILE_FIV);
+   else if (here == TILE_FIV) then
+      set_local_var(LVAR_THEX, TILE_SIX);
+   else if (here == TILE_SIX) then
+      set_local_var(LVAR_THEX, TILE_SEV);
+   else if (here == TILE_SEV) then
+      call finish; //fadeout and finish
+end
+
+procedure finish begin
+   gfade_out(600);
+   move_to(self_obj,0,0);
+   set_local_var(LVAR_freed,2);
+   gfade_in(600);
+end
+
+procedure critter_p_proc begin
+
+   if ( ( map_var(MVAR_Xarn_Door) == 1 ) and ( local_var( LVAR_met ) == 0 ) ) then begin
+      dialogue_system_enter;
+   //end else if ( ( map_var(MVAR_Xarn_Door) == 1 ) and ( local_var( LVAR_Said_Thanks ) == 0 ) ) then begin
+   end else if ( ( map_var(MVAR_Xarn_Door) == 1 ) and ( local_var( LVAR_Said_Thanks ) == 0 ) and ( not ( map_var(MVAR_Xarn_In_Party) == 1 ) ) ) then begin
+      set_local_var( LVAR_Said_Thanks, 1 );
+      call Node016;
+   end
+   else if (local_var(LVAR_freed) == 2) then begin
+      //do nothing (i am already free)
+   end
+   else if (  ((local_var(LVAR_Hostile) == 2) or (local_var(LVAR_Personal_Enemy) == 1)) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       call Node021;
+       attack(dude_obj);
+   end
+   else if (local_var(LVAR_freed) == 1) then begin
+      call escape;
+      if (local_var(LVAR_THEX) > 0) then begin //don't move unless you have a target hex
+         animate_move_to_tile(local_var(LVAR_THEX));
+      end
+   end
+   else if ( (local_var(LVAR_met) == 0) and (obj_can_see_obj(self_obj,dude_obj)) and (global_var(GVAR_NAVARRO_BASE_ALERT) > 0)) then begin
+      talk_to_dude:=1;
+      dialogue_system_enter;
+   end
+   else if (map_var(MVAR_Xarn_In_Party) == 1) then begin
+      dtile:=tile_num(dude_obj);
+      dlev:=elevation(dude_obj);
+      if (map_var(MVAR_Exit) == 1) then begin
+         call leave_player;
+      end
+      //if ( ((tile_distance(dtile,OUTSIDE)) < 5 ) and (dlev == 0) ) then begin
+      //   call leave_player;
+      //end
+      else begin
+         mytile:=tile_num(self_obj);
+         mylev:=elevation(self_obj);
+         if (mylev != dlev) then begin
+            newtile:=tile_num_in_direction(dtile,random(0,5),1);
+            move_to(self_obj,newtile,dlev);
+            critter_attempt_placement(self_obj,newtile,dlev);
+         end
+         else if (tile_distance(mytile,dtile) > 5) then begin
+            newtile:=tile_num_in_direction(dtile,random(0,5),1);
+            animate_run_to_tile(newtile);
+         end
+      end
+   end//follow
+end
+
+procedure leave_player begin
+   if (map_var(MVAR_Xarn_In_Party) == 1) then begin
+      floater(500);
+      set_map_var(MVAR_Xarn_In_Party, 0);
+      gfade_out(600);
+      move_to(self_obj,0,0);
+      set_local_var(LVAR_freed,2);
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT13);  //added by killap
+      gfade_in(600);
+   end
+end
+
+procedure damage_p_proc begin
+  if (source_obj == dude_obj) then begin
+     set_local_var(LVAR_Personal_Enemy,1);
+  end
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+
+   if (local_var(LVAR_Personal_Enemy) == 1) then begin
+       call Node998;
+   end
+
+   //added by killap
+   /*if ( map_var(MVAR_Xarn_Door) == 1 ) then begin
+      floater(178); //Xarn needs to exit thru door
+   end
+   //end added by killap
+   else */if (talk_to_dude == 1) then begin
+      talk_to_dude:=0;
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node017;
+      gSay_End;
+      end_dialogue;
+   end
+   else if (map_var(MVAR_Xarn_In_Party) == 1) then begin
+      call Node022;
+   end
+   //added by killap
+   else if (local_var(LVAR_freed) == 1) then begin
+      floater(178);
+   end 
+   //end added
+   else if( global_var(GVAR_NAVARRO_BASE_ALERT) > 0 ) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node017;
+      gSay_End;
+      end_dialogue;
+   end
+   else if (local_var(LVAR_dq_accept) == 1) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node014;
+      gSay_End;
+      end_dialogue;
+   end
+   else if (local_var(LVAR_dq_think) == 1) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node013;
+      gSay_End;
+      end_dialogue;
+   end
+   else if (local_var(LVAR_dq_refuse) == 1) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node012;
+      gSay_End;
+      end_dialogue;
+   end
+   else if (local_var(LVAR_dq_kill) == 1) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node011;
+      gSay_End;
+      end_dialogue;
+   end
+   else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+          call Node001;
+       gSay_End;
+       end_dialogue;
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+/* Increment the aligned critter counter*/
+
+  //need to check if dude killed him as it might be someone else
+   if (source_obj == dude_obj) then begin
+      set_map_var(MVAR_Xarn_In_Party,0); //xarn no longer in party if dead
+      if (global_var(GVAR_NAVARRO_XARN) < NAVARRO_XARN_FINISHED) then begin//added by killap
+         display_msg(mstr(800));
+         give_xp(EXP_XARN_KILL);
+         inc_general_rep(REP_BONUS_CC_XARN_KILL);
+         set_global_var(GVAR_NAVARRO_XARN, NAVARRO_XARN_FINISHED); //player has dealt w/xarn
+      end
+      inc_good_critter
+   end
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_second_look) == 0) then begin
+      set_local_var(LVAR_second_look,1);
+      display_msg(mstr(700));
+   end
+   else begin
+      display_msg(mstr(701));
+   end
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(702));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+   //if (action_being_used == SKILL_STEAL) then begin
+      //if (is_success(roll_vs_skill(dude_obj,action_being_used,0))) then begin
+      //end
+   //end
+end
+
+procedure Node001 begin
+   set_local_var(LVAR_met,1);
+   Reply(100);
+
+   NLowOption(101,Node002);
+   GLowOption(102,Node003);
+   NLowOption(103,Node005);
+   BOption(104,Node002,004);
+   GOption(105,Node003,004);
+   NOption(106,Node005,004);
+end
+
+procedure Node002 begin
+   set_local_var(LVAR_dq_kill,1);
+   Reply(107);
+
+   BLowOption(108,Node998);
+   NLowOption(109,Node005);
+   BOption(110,Node998,004);
+   NOption(111,Node005,004);
+end
+
+procedure Node003 begin
+   Reply(112);
+
+   if (map_var(MVAR_Xarn_Door)) then begin
+      NLowOption(900,Node004a);
+      NOption(901,Node004a,004);
+   end else begin
+      NLowOption(113,Node004);
+      NOption(114,Node004,004);
+   end
+end
+
+procedure Node004a begin
+   set_global_var(GVAR_NAVARRO_XARN, NAVARRO_XARN_KNOW_ABOUT);
+   set_local_var(LVAR_dq_accept, 1);
+   Reply(175);
+
+   NLowOption(176,Node999);
+   NOption(177,Node999,004); 
+end
+
+procedure Node004 begin
+   set_global_var(GVAR_NAVARRO_XARN, NAVARRO_XARN_KNOW_ABOUT);
+   Reply(115);
+
+   NLowOption(116,Node997); //set D_q accept
+   NLowOption(117,Node008);
+   NOption(118,Node997,004); //set D_q accept
+   NOption(119,Node008,004);
+end
+
+procedure Node005 begin
+   if ( (check_general_rep >= 0) or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)) ) then begin //KARMA not bad --added by killap  (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+      call Node05a;
+   end
+   else begin
+      call Node05c;
+   end
+end
+
+procedure Node05a begin
+   Reply(120);
+
+   NOption(200,Node05b,001);
+end
+
+procedure Node05b begin
+   Reply(121);
+
+   NOption(200,Node05c,001);
+end
+
+procedure Node05c begin
+   if ( (check_general_rep >= 0) or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)) ) then begin //KARMA not bad --added by killap -  (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+      Reply(122);
+
+      NLowOption(124,Node006);
+      NOption(126,Node006,004);
+   end
+   else begin
+      Reply(123);
+
+      BLowOption(125,Node998);
+      BOption(127,Node998,004);
+   end
+end
+
+procedure Node006 begin
+   Reply(128);
+
+   if (map_var(MVAR_Doctor_Dead) == 1) then begin
+      NLowOption(129,Node007);
+      NOption(131,Node007,004);
+   end
+   else begin
+      NLowOption(130,Node010);
+      NOption(132,Node010,004);
+   end
+end
+
+procedure Node007 begin
+   Reply(133);
+
+   GLowOption(134,Node004);
+   NLowOption(135,Node008);
+   BLowOption(136,Node009);
+   GOption(137,Node004,004);
+   NOption(138,Node008,004);
+   BOption(139,Node009,004);
+end
+
+procedure Node008 begin
+   set_local_var(LVAR_dq_think,1);
+   Reply(140);
+
+   NOption(141,Node999,001);
+end
+
+procedure Node009 begin
+   set_local_var(LVAR_dq_refuse,1);
+   Reply(142);
+
+   NLowOption(143,Node999);
+   NOption(144,Node999,004);
+end
+
+procedure Node010 begin
+   Reply(145);
+
+   GLowOption(146,Node004);
+   NLowOption(147,Node008);
+   BLowOption(148,Node009);
+   GOption(149,Node004,004);
+   NOption(150,Node008,004);
+   BOption(151,Node009,004);
+end
+
+procedure Node011 begin
+   Reply(152);
+
+   NLowOption(153,Node005);
+   NLowOption(154,Node003);
+   NLowOption(155,Node999);
+   BLowOption(156,Node998);
+   NOption(157,Node005,004);
+   NOption(158,Node003,004);
+   NOption(159,Node999,004);
+   BOption(160,Node998,004);
+end
+
+procedure Node012 begin
+   Reply(161);
+
+   NOption(162,Node004,001);
+   NOption(163,Node999,001);
+end
+
+procedure Node013 begin
+   Reply(164);
+
+   NOption(165,Node004,001);
+   NLowOption(166,Node999);
+   NLowOption(167,Node009);
+   NOption(168,Node999,004);
+   NOption(169,Node009,004);
+end
+
+procedure Node014 begin
+   Reply(170);
+
+   if( obj_is_carrying_obj_pid( dude_obj, PID_BLUE_PASS_KEY ) > 0 ) then
+      NLowOption(171,Node015);
+   NLowOption(172,Node999);
+   if( obj_is_carrying_obj_pid( dude_obj, PID_BLUE_PASS_KEY ) > 0 ) then
+      NOption(173,Node015,004);
+   NOption(174,Node999,004);
+end
+
+procedure Node015 begin
+   Reply(175);
+
+   NLowOption(176,Node999);
+   NOption(177,Node999,004);
+end
+
+procedure Node016 begin
+   if (global_var(GVAR_NAVARRO_XARN) < NAVARRO_XARN_FINISHED) then begin   //everthing moved under conditional
+      set_local_var(LVAR_freed,1);
+      floater(178); //Xarn needs to exit thru door
+      display_msg(mstr(810));
+      give_xp(EXP_XARN_FREED);
+      inc_general_rep(REP_BONUS_CC_XARN_FREED);
+      set_global_var(GVAR_NAVARRO_XARN, NAVARRO_XARN_FINISHED); //player has dealt w/xarn
+   end 
+   //give_xp();
+end
+
+procedure Node017 begin
+   if (local_var(LVAR_met) == 0) then begin
+      Reply(179);
+
+      NLowOption(181,Node018); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
+      NOption(201,Node018,004);
+   end
+   else begin
+      Reply(180);
+
+      NLowOption(182,Node018); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
+      NOption(202,Node018,004);
+   end
+end
+
+procedure Node018 begin
+   if (local_var(LVAR_met) == 0) then begin
+      Reply(183);
+      set_local_var(LVAR_met,1);
+   end
+   else begin
+      Reply(184);
+      set_local_var(LVAR_met,1);
+   end
+
+   NLowOption(185,Node019);
+   NLowOption(186,Node020);
+   NLowOption(187,Node999);
+   NOption(188,Node019,004);
+   NOption(189,Node020,004);
+   NOption(190,Node999,004);
+end
+
+procedure Node019 begin
+   Reply(300);
+
+   NOption(200,Node19a,001);
+end
+
+procedure Node19a begin
+   Reply(301);
+
+   NOption(200,Node19b,001);
+end
+
+procedure Node19b begin
+   Reply(302);
+
+   NLowOption(191,Node020);
+   NLowOption(192,Node999);
+   NOption(193,Node020,004);
+   NOption(194,Node999,004);
+end
+
+procedure Node020 begin
+   Reply(195);
+
+   NOption(196,Node800,001);
+end
+
+procedure Node021 begin
+   floater(random(501,503));
+end
+
+procedure Node022 begin
+   floater(random(600,602));
+end
+
+procedure Node800 begin
+   if (global_var(GVAR_NAVARRO_XARN) < NAVARRO_XARN_FINISHED) then begin //all moved under condition - killap
+      display_msg(mstr(820));
+      give_xp(EXP_XARN_JOIN);
+      inc_general_rep(REP_BONUS_CC_XARN_JOIN);
+      set_global_var(GVAR_NAVARRO_XARN, NAVARRO_XARN_FINISHED); //player has dealt w/ xarn
+      set_map_var(MVAR_Xarn_In_Party,1);
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+   end 
+end
+
+procedure Node997 begin
+   set_local_var(LVAR_dq_accept,1);
+end
+
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+   //set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+end
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end

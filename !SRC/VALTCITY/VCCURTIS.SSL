@@ -1,0 +1,383 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Curtis
+        Location: Vault City Courtyard
+        Description: Amanda and Joshua's son
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\VCtyCtyd.h"
+
+#define NAME                    SCRIPT_VCCURTIS
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_VAULT_CITY)
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure map_exit_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Nixon_Quest                (7)
+
+#define NIXON_UNKNOWN      (0)
+#define NIXON_ASSIGNED     (1)
+#define NIXON_RETURNED     (2)
+#define NIXON_SADIST       (3)
+
+#define WRENCH_UNKNOWN     (0)
+#define WRENCH_KNOWN       (1)
+#define WRENCH_FOUND       (2)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable Nixon_Floats := 0;
+variable Help_Floats := 0;
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   // Joshua and family leave the Courtyard after the player collects reward.
+   if( ( not( is_loading_game ) ) and ( global_var(GVAR_QUEST_JOSHUA) == JOSHUA_REWARDED ) ) then begin
+      set_obj_visibility(self_obj, true);
+      move_to( self_obj, 0, 0 );
+   end
+   else begin
+      Only_Once:=0;
+      Nixon_Floats := 0;
+      Help_Floats := 0;
+
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
+      //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CHILD);
+      // Tough kid. He throws rocks.
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_VAULT_GUARD);
+      add_timer_event(self_obj, game_ticks( random(20, 30) ), 1);
+   end
+end
+
+procedure map_exit_p_proc begin
+   if( global_var(GVAR_QUEST_JOSHUA) == JOSHUA_REWARDED ) then begin
+      destroy_object( self_obj );
+   end
+end
+
+procedure timed_event_p_proc begin
+   if( fixed_param == 1 ) then begin
+      if( not( combat_is_initialized ) ) then begin
+         if( local_var( LVAR_Nixon_Quest ) != NIXON_RETURNED ) then
+            call Node003;
+         else begin
+            call Node004;
+         end
+      end
+   end
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ( ( ( local_var(LVAR_Hostile) == 2 ) or ( ( global_var( GVAR_ENEMY_VAULT_COURTYARD ) == 1 ) ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+      set_local_var(LVAR_Personal_Enemy,1);
+      set_global_var( GVAR_ENEMY_VAULT_COURTYARD, 1 );
+      set_global_var( GVAR_ENEMY_VAULT_CITY, 1 );
+      set_global_var( GVAR_VAULT_CITIZEN, CITIZEN_KICKED_OUT );
+      set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_KICKED_OUT ) );
+      set_global_var( GVAR_VAULT_CITIZENSHIP, 0 );
+   end
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_TOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION1;
+
+   CheckKarma;
+
+   GetReaction;
+
+   if( local_var( LVAR_Nixon_Quest ) == NIXON_SADIST ) then
+      call Node013;
+   else if( Lenny_Ptr != 0 ) then
+      call Node008;
+   else if( Marcus_Ptr != 0 ) then
+      call Node007;
+   else if( Cyberdog_Ptr != 0 ) then
+      call Node009;
+   else if( ( local_var( LVAR_Nixon_Quest ) == NIXON_ASSIGNED ) and ( obj_is_carrying_obj_pid( dude_obj, PID_MR_NIXON_DOLL ) > 0 ) ) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node010;
+       gSay_End;
+       end_dialogue;
+   end
+   else if( ( local_var( LVAR_Nixon_Quest ) == NIXON_UNKNOWN ) or ( local_var( LVAR_Nixon_Quest ) == NIXON_ASSIGNED )  ) then
+      call Node005;
+   else
+      call Node006;
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+   /*if (source_obj == dude_obj) then begin
+      inc_childkiller
+   end*-comment out by killap - counts as two childkills then/
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+
+   if( local_var( LVAR_Nixon_Quest ) == NIXON_RETURNED ) then
+      display_msg(mstr(104));
+   else
+      display_msg(mstr(101));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node003 begin
+   floater(107);
+   add_timer_event(self_obj, game_ticks( random(20, 30) ), 1);
+end
+
+procedure Node004 begin
+   floater( 108 + Nixon_Floats );
+
+   if( ( Nixon_Floats == 7 ) and ( map_var( MVAR_Wrench ) != WRENCH_FOUND ) ) then
+      set_map_var( MVAR_Wrench, WRENCH_KNOWN );
+
+   if( Nixon_Floats == 8 ) then
+      Nixon_Floats := 0;
+   else
+      Nixon_Floats += 1;
+
+   add_timer_event(self_obj, game_ticks(5), 1);
+end
+
+procedure Node005 begin
+   floater( 117 + Help_Floats );
+
+   if( ( Help_Floats == 0 ) and ( local_var( LVAR_Nixon_Quest ) == NIXON_UNKNOWN ) ) then
+      set_local_var( LVAR_Nixon_Quest, NIXON_ASSIGNED );
+
+   if( Help_Floats == 2 ) then
+      Help_Floats := 0;
+   else
+      Help_Floats += 1;
+end
+
+procedure Node006 begin
+   floater(120);
+end
+
+procedure Node007 begin
+   floater(121);
+
+   // Curtis shouldn't attack here
+   //call Node998;
+end
+
+procedure Node008 begin
+   floater(122);
+
+   // Curtis shouldn't attack here
+   //call Node998;
+end
+
+procedure Node009 begin
+   floater(123);
+
+   // Curtis shouldn't attack here
+   //call Node998;
+end
+
+procedure Node010 begin
+   Reply(124);
+
+   GLowOption(125, Node011);
+   NLowOption(126, Node999);
+   GOption(127, Node011, 004);
+   BOption(128, Node012, 004);
+   NOption(129, Node999, 004);
+end
+
+procedure Node011 begin
+   variable toy;
+
+   toy := obj_carrying_pid_obj( dude_obj, PID_MR_NIXON_DOLL );
+   rm_obj_from_inven( dude_obj, toy );
+   add_obj_to_inven( self_obj, toy );
+
+   inc_general_rep( REP_BONUS_RETURNED_NIXON );
+   set_local_var( LVAR_Nixon_Quest, NIXON_RETURNED );
+   display_msg( mstr(138) );
+   give_xp( EXP_CURTIS_REWARD );
+   set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_RETURNED_CURTIS_DOLL ) );
+
+   Reply(130);
+
+   GLowOption(131, Node999);
+   GOption(132, Node999, 004);
+end
+
+procedure Node012 begin
+   variable toy;
+
+   toy := obj_carrying_pid_obj( dude_obj, PID_MR_NIXON_DOLL );
+   rm_obj_from_inven( dude_obj, toy );
+   destroy_object( toy );
+
+   inc_general_rep( REP_BONUS_TORTURED_NIXON );
+   set_local_var( LVAR_Nixon_Quest, NIXON_SADIST );
+   display_msg( mstr(139) );
+   give_xp( EXP_CURTIS_REWARD );
+   set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_TORTURED_CURTIS ) );
+
+   Reply(133);
+
+   BOption(134, Node999, 004);
+end
+
+procedure Node013 begin
+   floater( random(135, 137) );
+end
+
+
+//xxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,132 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\depolva.h"
+#include "..\headers\depolvb.h"
+
+#define NAME                    SCRIPT_WIELVDOR
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure use_p_proc;
+procedure use_skill_p_proc;
+procedure use_obj_on_p_proc;
+procedure look_p_proc;
+procedure description_p_proc;
+
+procedure map_update_p_proc;
+
+
+procedure start begin
+end
+
+//modified code by killap
+procedure map_update_p_proc begin
+   if (cur_map_index == MAP_SIERRA_123) then begin
+       if ((elevation(self_obj) == map_var(MVAR_Eyeball_Used)) and (tile_num(self_obj) != 19918)) then begin
+           obj_open(self_obj);
+       end
+
+       else if ((elevation(self_obj) == map_var(MVAR_Eyeball_Level)) and (tile_num(self_obj) == 19918)) then begin
+           obj_open(self_obj);
+       end
+   end
+
+   else if (map_var(MVAR_Eyeball_Used_4) == elevation(self_obj)) then begin
+       obj_open(self_obj);
+   end
+
+end
+
+procedure use_p_proc begin
+   script_overrides;
+   if (source_obj == dude_obj) then //added by killap
+      display_msg(mstr(100));
+end 
+//end modified
+
+/*procedure map_update_p_proc begin
+   if (cur_map_index == MAP_SIERRA_123) then begin
+       if ((elevation(self_obj) == map_var(MVAR_Eyeball_Used)) and (tile_num(self_obj) != 19918)) then begin
+           obj_open(self_obj);
+       end
+
+       else if ((elevation(self_obj) == map_var(MVAR_Eyeball_Level)) and (tile_num(self_obj) == 19918)) then begin
+           obj_open(self_obj);
+       end
+   end
+
+end
+
+procedure use_p_proc begin
+   if (cur_map_index == MAP_SIERRA_123) then begin
+       if ((elevation(self_obj) == map_var(MVAR_Eyeball_Used)) and (tile_num(self_obj) != 19918)) then begin
+           debug_msg("Clearance Granted");
+       end
+
+       else if ((elevation(self_obj) == map_var(MVAR_Eyeball_Level)) and (tile_num(self_obj) == 19918)) then begin
+           debug_msg("Clearance Granted");
+       end
+
+       else begin
+           script_overrides;
+           display_msg(mstr(100));
+       end
+   end
+
+   else if (map_var(MVAR_Eyeball_Used_4) != elevation(self_obj)) then begin
+       script_overrides;
+       display_msg(mstr(100));
+   end
+end*/
+
+procedure use_skill_p_proc begin
+   if (action_being_used == SKILL_LOCKPICK) then begin
+       script_overrides;
+       display_msg(mstr(101));
+   end
+end
+
+procedure use_obj_on_p_proc begin
+
+   if ((obj_pid(obj_being_used_with) == PID_ELEC_LOCKPICK_MKII) or (obj_pid(obj_being_used_with) == PID_ELECTRONIC_LOCKPICKS)) then begin
+       script_overrides;
+       display_msg(mstr(101));
+  end
+end
+
+procedure look_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(103));
+end

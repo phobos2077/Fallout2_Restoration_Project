@@ -1,0 +1,63 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+//#include "..\headers\<TownName.h>"
+
+//#define TOWN_REP_VAR            (GVAR_TOWN_REP_REDDING)
+
+#include "..\headers\command.h"
+
+#define WELL_PID        (33555425) //killap's fix: was 33555426 (pid of well is actually 993)
+#define DOWN_TOWN_WELL  (33554882) //pid is actually 450
+
+procedure start;
+procedure use_p_proc;
+procedure pickup_p_proc;
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+    script_overrides;
+
+   if (obj_pid(self_obj) == WELL_PID) then begin
+       load_map(MAPSTR_REDMTUN,1);
+   end
+
+   else if (obj_pid(self_obj) == DOWN_TOWN_WELL) then begin
+       load_map(MAPSTR_REDDTUN,2);
+   end
+
+   else begin
+       load_map(MAPSTR_REDMTUN,2);
+   end
+end
+
+procedure pickup_p_proc begin
+   call use_p_proc;
+end

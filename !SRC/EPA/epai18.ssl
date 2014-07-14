@@ -1,0 +1,63 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\define.h"
+//#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAI18          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\command.h"
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\ModReact.h"
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure damage_p_proc;
+procedure use_p_proc;
+procedure destroy_p_proc;
+
+import variable cell2_obj;
+
+procedure start begin
+   cell2_obj := self_obj;
+end
+
+procedure enter_p_proc begin
+   cell2_obj := self_obj;
+end
+
+procedure update_p_proc begin
+   cell2_obj := self_obj;
+end
+
+procedure damage_p_proc
+begin
+  variable LVar1 := 0;
+
+  if (metarule(49, target_obj) == 6) then
+  begin
+    LVar1 := random(10, 20);
+    explosion(tile_num(self_obj), elevation(self_obj), LVar1);
+    destroy_object(self_obj);
+  end
+end
+
+procedure use_p_proc
+begin
+end
+
+procedure destroy_p_proc
+begin
+end
+
+procedure timed_event_p_proc begin
+  if (fixed_param == 1) then begin
+      cell2_obj := 0;
+      destroy_object(self_obj);
+  end
+end

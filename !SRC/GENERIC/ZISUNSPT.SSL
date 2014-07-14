@@ -1,0 +1,23 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+#define NAME                    SCRIPT_ZISUNSPT
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_update_p_proc;
+
+#define set_self_light_level(x)           obj_set_light_level(self_obj, x, 8)
+
+procedure start begin
+end
+procedure map_update_p_proc begin
+   if (morning) then set_self_light_level((game_time_hour - 600) + DUSK_LIGHT);
+   else if (day) then set_self_light_level(100);
+   else if (evening) then set_self_light_level(BRIGHT_LIGHT - (game_time_hour - 1800));
+   else set_self_light_level(DUSK_LIGHT);
+end

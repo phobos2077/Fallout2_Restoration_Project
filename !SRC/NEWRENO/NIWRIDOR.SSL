@@ -1,0 +1,105 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+import variable new_reno_keith_wright_obj;
+
+#define LOCKED_STATUS                   STATE_INACTIVE
+
+procedure def_use_p_proc;
+procedure def_use_skill_on_p_proc;
+procedure my_map_update_proc;
+procedure my_map_enter_proc;
+
+procedure test_use_tamper;
+procedure test_use_skill_tamper;
+
+procedure use_p_proc begin
+   if (test_use_tamper == false) then begin
+      call def_use_p_proc;
+   end
+end
+
+//edit by killap
+procedure use_skill_on_p_proc begin
+   if (test_use_tamper == false) then begin
+      call def_use_skill_on_p_proc;
+   end
+end
+//end
+
+/*procedure use_skill_on_p_proc begin
+   if (test_use_tamper == false) then begin
+      call use_skill_on_p_proc;
+   end
+end*/
+
+procedure map_update_p_proc begin
+   call my_map_update_proc;
+end
+procedure map_enter_p_proc begin
+   call my_map_enter_proc;
+end
+
+#define use_p_proc                        def_use_p_proc
+#define use_skill_on_p_proc               def_use_skill_on_p_proc
+#define map_update_p_proc                 def_map_update_p_proc
+#define map_enter_p_proc                  def_map_enter_p_proc
+
+#include "..\NewReno\niDoor.ssl"
+
+procedure my_map_update_proc begin
+   if (dude_elevation != self_elevation) then begin
+      if (obj_is_open(self_obj)) then begin
+         obj_close(self_obj);
+      end
+   end
+end
+
+procedure my_map_enter_proc begin
+   if (is_loading_game == false) then begin
+      if (obj_is_open(self_obj)) then begin
+         obj_close(self_obj);
+      end
+   end
+   call def_map_enter_p_proc;
+end
+
+procedure test_use_tamper begin
+   if (new_reno_keith_wright_obj != 0) then begin
+      if (wright_permission == false) then begin
+         if ((obj_can_see_obj(new_reno_keith_wright_obj, self_obj)) or (obj_can_see_obj(new_reno_keith_wright_obj, source_obj))) then begin
+            if (dude_family != family_wright) then begin
+               if (source_obj == dude_obj) then begin
+                  script_overrides;
+                  flush_add_timer_event(new_reno_keith_wright_obj, 0, door_use_param);
+                  return true;
+               end else if (obj_in_party(source_obj)) then begin
+                  script_overrides;
+                  return true;
+               end
+            end
+         end
+      end
+   end
+   return false;
+end
+
+procedure test_use_skill_tamper begin
+   if ((action_being_used == SKILL_TRAPS) or (action_being_used == SKILL_LOCKPICK)) then begin
+      if (new_reno_keith_wright_obj != 0) then begin
+         if (obj_can_see_obj(new_reno_keith_wright_obj, source_obj)) then begin
+            if (source_obj == dude_obj) then begin
+               script_overrides;
+               flush_add_timer_event(new_reno_keith_wright_obj, 0, door_use_param);
+               return true;
+            end else if (obj_in_party(source_obj)) then begin
+               script_overrides;
+               flush_add_timer_event(new_reno_keith_wright_obj, 0, door_use_param);
+               return true;
+            end
+         end
+      end
+   end
+   return false;
+end

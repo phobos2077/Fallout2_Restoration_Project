@@ -1,0 +1,40 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Lloyd Grave that drops you into the bunker
+        Location: Gologatha
+        Description: Drops the player into the bunker
+
+        Log:
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NTLYDGRV
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure spatial_p_proc;
+
+procedure start begin
+end
+procedure spatial_p_proc begin
+   if (source_obj == dude_obj) then begin
+      if ((get_escape(escape_none) == false) and (uncovered_lloyd_grave)) then begin
+         if ((dude_tile == 13066) or (dude_tile == 13067) or (dude_tile == 13068)) then begin
+            gfade_out(5);
+               //critter_attempt_placement(dude_obj, under_grave_tile_dude, 1);
+               move_to(dude_obj, under_grave_tile_dude, 1);
+            gfade_in(5);
+         end
+      end
+   end
+end

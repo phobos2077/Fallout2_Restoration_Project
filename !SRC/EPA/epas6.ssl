@@ -1,0 +1,43 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_EPAS6          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "..\headers\command.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure spatial_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure start
+begin
+end
+
+procedure spatial_p_proc
+begin
+  if (source_obj == dude_obj) then
+  begin
+    if (local_var(LVAR_Herebefore) == 0) then
+    begin
+      display_msg(message_str(SCRIPT_EPAS6, 100));
+      set_local_var(LVAR_Herebefore, 1);
+    end
+  end
+end
+
+procedure map_enter_p_proc
+begin
+end
+
+procedure map_update_p_proc
+begin
+end

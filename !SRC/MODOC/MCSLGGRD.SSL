@@ -1,0 +1,247 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Modoc
+        Description:
+
+        Log: the following defines need to be changed:
+
+
+          Created: August 3, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                        SCRIPT_MCSLGGRD
+#define TOWN_REP_VAR                GVAR_TOWN_REP_GHOST_FARM
+
+#include "..\headers\command.h"
+#include "..\headers\modoc.h"
+//#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure combat_p_proc;
+procedure map_update_p_proc;
+
+// dialog nodes
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+
+procedure Node999;                                      // This is the do nothing node
+procedure Node998;                                      // This Node is Always Combat
+
+#define LVAR_Flags                           (0)
+#define LVAR_Home_Tile                       (1)
+#define LVAR_Home_Rot                        (2)
+#define LVAR_Guard_Num                       (3)
+#define LVAR_Dropped_Cnt                     (4)
+#define LVAR_Node_7                          (5)
+
+#define say_message_bit                      bit_10
+#define say_message                          lvar_bit(LVAR_Flags, say_message_bit)
+#define set_say_message_on                   set_lvar_bit_on(LVAR_Flags, say_message_bit)
+#define set_say_message_off                  set_lvar_bit_off(LVAR_Flags, say_message_bit)
+
+import variable slag_guard_obj;
+
+procedure start begin
+end
+
+procedure map_update_p_proc begin
+   if (local_var(LVAR_Home_Rot) != self_cur_rot) then begin
+      if (anim_busy(self_obj) == false) then begin
+         animate_rotation(local_var(LVAR_Home_Rot));
+      end
+   end
+   if (say_message) then begin
+      set_say_message_off;
+      call Node002;
+   end
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 777) then begin
+      if ((combat_is_initialized == false) and (fall_comment)) then begin
+         call Node002;
+      end
+   end else begin
+      dialogue_system_enter;
+   end
+end
+
+procedure map_enter_p_proc begin
+   match_dude_elevation;
+   if (is_loading_game == false) then begin
+      check_destroy_slag
+      if (map_first_run) then begin
+         set_local_var(LVAR_Guard_Num, setup_slag_guard);
+         inc_slag_cnt;
+         set_setup_slag_guard;
+         set_local_var(LVAR_Home_Tile, self_tile);
+         set_local_var(LVAR_Home_Rot, self_cur_rot);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAG);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+      end
+      if ((global_var(GVAR_LOAD_MAP_INDEX) == 777) and (hostile == false) and (enemy_slags == false)) then begin
+         mod_add_timer_event(self_obj, 0, 777);
+      end
+   end
+end
+
+
+procedure combat_p_proc begin
+   if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
+   end
+end
+
+procedure critter_p_proc begin
+   if (self_visible) then begin
+      if (self_can_see_dude) then begin
+         if ((hostile) or (enemy_slags)) then begin
+            self_attack_dude;
+         end else if (slag_guard_obj == 0) then begin
+            slag_guard_obj := self_obj;
+         end
+      end else if (self_obj == slag_guard_obj) then begin
+         slag_guard_obj := 0;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+      set_enemy_slags;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   script_overrides;
+   if (spoke_to_vegeir) then begin
+      call Node007;
+   end else begin
+      if (combat_is_initialized) then begin
+         terminate_combat;
+      end
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node003;
+      gSay_End;
+      end_dialogue;
+   end
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   if (slag_guard_obj == self_obj) then begin
+      slag_guard_obj := 0;
+   end
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + examined);
+   set_examined;
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150);
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+// dialog action functions
+procedure Node999 begin
+  // do absolutely everything that pertains to nothing
+end
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node990 begin
+   gfade_out(5);
+      animate_stand_obj(dude_obj);
+      move_to(dude_obj, 25702, dude_elevation);
+      critter_attempt_placement(dude_obj, 25702, dude_elevation);
+      attempt_place_party(25702, dude_elevation)
+      set_surrender_to_guards_on;
+end
+
+procedure Node002 begin
+   if (local_var(LVAR_Dropped_Cnt) == 0) then begin
+      floater(200 + local_var(LVAR_Guard_Num));
+   end else if (local_var(LVAR_Dropped_Cnt) == 1) then begin
+      floater(210 + local_var(LVAR_Guard_Num));
+   end else if (local_var(LVAR_Dropped_Cnt) == 2) then begin
+      floater(212 + local_var(LVAR_Guard_Num));
+   end else begin
+      floater(214 + local_var(LVAR_Guard_Num));
+      // comment out by killap - 
+      // broken and would look too strange if it did work.
+      /*if (local_var(LVAR_Guard_Num) == 1) then begin
+         if (random(0,1) == 1) then begin
+            reg_anim_animate(self_obj,ANIM_fall_back_sf,-1);
+         end else begin
+            reg_anim_animate(self_obj,ANIM_fall_front_sf,-1);
+         end
+      end*/
+   end
+   inc_local_var(LVAR_Dropped_Cnt);
+end
+procedure Node003 begin
+   Reply(220);
+   BOption(221, Node004, 004);
+   NOption(222, Node005, 004);
+   NOption(223, Node006, -003);
+end
+procedure Node004 begin
+   Reply(224);
+   NOption(226, Node990, 004);
+   BOption(225, Node998, 004);
+end
+procedure Node005 begin
+   Reply(230);
+   NOption(231, Node990, 004);
+   BOption(232, Node004, 004);
+end
+procedure Node006 begin
+   Reply(240);
+   NOption(241, Node990, 001);
+   BOption(242, Node998, 001);
+end
+procedure Node007 begin
+   if (local_var(LVAR_Node_7) >= 3) then begin
+      floater(253);
+   end else begin
+      floater(250 + local_var(LVAR_Node_7));
+   end
+   inc_local_var(LVAR_Node_7);
+end

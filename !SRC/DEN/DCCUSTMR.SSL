@@ -1,0 +1,333 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+
+#define NAME                        SCRIPT_DCCUSTMR
+#define TOWN_REP_VAR                GVAR_TOWN_REP_THE_DEN
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+#include "..\headers\Den.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure push_p_proc;
+
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+#define LVAR_Flags                        (4)
+#define LVAR_Visible_Time                 (5)
+#define LVAR_Patron_To_Store              (6)
+#define LVAR_Home_Tile                    (7)
+
+#define in_transit_bit                    bit_10
+
+#define in_transit                        lvar_bit(LVAR_Flags, in_transit_bit)
+#define set_in_transit                    set_lvar_bit_on(LVAR_Flags, in_transit_bit)
+#define off_in_transit                    set_lvar_bit_off(LVAR_Flags, in_transit_bit)
+
+#define check_set_store_patron(box, def, closed)                                       \
+         if (box(self_tile)) then begin                                                \
+            debug_msg("setting customer of "+ def);                                    \
+            if (random(0, 7) != 0) then begin                                          \
+               check_set_obj_visiblility(self_obj, false);                                    \
+            end else begin                                                             \
+               check_set_obj_visiblility(self_obj, true);                                     \
+            end                                                                        \
+            if (closed) then begin                                                     \
+               set_local_var(LVAR_Patron_To_Store, 0);                                 \
+               if (cur_map_index == MAP_DEN_ENTRANCE) then begin                       \
+                  random_tile_in_street_1_box;                                         \
+               end else if (cur_map_index == MAP_DEN_BUSINESS) then begin              \
+                  random_tile_in_street_2_box;                                         \
+               end                                                                     \
+               if (global_temp != 0) then begin                                          \
+                  set_local_var(LVAR_Home_Tile, global_temp);                            \
+                  critter_attempt_placement(self_obj, global_temp, self_elevation);      \
+               end                                                                     \
+            end else begin                                                             \
+               set_local_var(LVAR_Patron_To_Store, def);                               \
+            end                                                                        \
+         end
+
+#define set_store_patron                                                                        \
+         if (cur_map_index == MAP_DEN_ENTRANCE) then begin                                      \
+            check_set_store_patron(tile_in_tubbys, store_def_tubby, tubby_dead)                 \
+            else check_set_store_patron(tile_in_beckys, store_def_becky, becky_dead)            \
+            else check_set_store_patron(tile_in_flicks, store_def_flick, flick_dead)            \
+            else set_local_var(LVAR_Patron_To_Store, 0);                                        \
+         end else if (cur_map_index == MAP_DEN_BUSINESS) then begin                             \
+            check_set_store_patron(tile_in_hole, store_def_hole, frankie_dead)                  \
+            else check_set_store_patron(tile_in_moms, store_def_mom, mom_dead)                  \
+            else set_local_var(LVAR_Patron_To_Store, 0);                                        \
+         end                                                                                    \
+         if (local_var(LVAR_Patron_To_Store) == 0) then begin                                   \
+            set_new_home_tile                                                                   \
+         end                                                                                    \
+         debug_msg("set_store_patron")
+
+#define new_tile_in_store(store, rand_tile_in_box, closed)                                      \
+         if (local_var(LVAR_Patron_To_Store) == store) then begin                               \
+            if (closed == false) then begin                                                     \
+               rand_tile_in_box;                                                                \
+               if (global_temp != 0) then begin                                                   \
+                  set_local_var(LVAR_Home_Tile, global_temp);                                     \
+               end                                                                              \
+            end                                                                                 \
+         end
+
+#define set_new_home_tile                                                                       \
+         stored_store := local_var(LVAR_Patron_To_Store);                                       \
+         global_temp := 0;                                                                        \
+         if (cur_map_index == MAP_DEN_ENTRANCE) then begin                                      \
+            if ((random(1, 5) == 1) or (local_var(LVAR_Patron_To_Store) == 0)) then begin       \
+               set_in_transit;                                                                  \
+               set_local_var(LVAR_Patron_To_Store, random(store_def_tubby, store_def_flick));   \
+            end                                                                                 \
+            new_tile_in_store(store_def_tubby, random_tile_in_tubbys, tubby_dead)               \
+            else new_tile_in_store(store_def_becky, random_tile_in_beckys, becky_dead)          \
+            else new_tile_in_store(store_def_flick, random_tile_in_flicks, flick_dead)          \
+            else begin                                                                          \
+               random_tile_in_street_1_box;                                                     \
+               if (global_temp != 0) then begin                                                   \
+                  set_local_var(LVAR_Home_Tile, global_temp);                                     \
+               end                                                                              \
+            end                                                                                 \
+         end else if (cur_map_index == MAP_DEN_BUSINESS) then begin                             \
+            if ((random(1, 5) == 1) or (local_var(LVAR_Patron_To_Store) == 0)) then begin       \
+               set_in_transit;                                                                  \
+               set_local_var(LVAR_Patron_To_Store, random(store_def_hole, store_def_mom));      \
+            end                                                                                 \
+            new_tile_in_store(store_def_hole, random_tile_in_hole, frankie_dead)                \
+            else new_tile_in_store(store_def_mom, random_tile_in_moms, mom_dead)                \
+            else begin                                                                          \
+               random_tile_in_street_2_box;                                                     \
+               if (global_temp != 0) then begin                                                   \
+                  set_local_var(LVAR_Home_Tile, global_temp);                                     \
+               end                                                                              \
+            end                                                                                 \
+         end                                                                                    \
+         if (global_temp == 0) then begin                                                         \
+            set_local_var(LVAR_Patron_To_Store, stored_store);                                  \
+         end
+
+variable stored_store;
+import variable becky_guard_obj;
+
+procedure start begin
+end
+
+procedure push_p_proc begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == timed_event_float) then begin
+      if (self_visible) then begin
+      end
+   end else if (fixed_param == timed_event_wander) then begin
+      if (anim_busy(self_obj) == false) then begin
+         if (random(0,1)) then begin
+            set_new_home_tile
+         end
+      end
+      flush_add_timer_event_sec(self_obj, random(15, 90), timed_event_wander);
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_local_var(LVAR_Home_Tile, self_tile);
+         set_store_patron;
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+      end
+      flush_add_timer_event_sec(self_obj, random(30, 60), timed_event_float);
+      flush_add_timer_event_sec(self_obj, random(15, 120), timed_event_wander);
+   end
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (hostile) then begin
+         if (self_visible) then begin
+            self_attack_dude;
+         end
+      end
+   end
+   if (self_tile != local_var(LVAR_Home_Tile)) then begin
+      anim_move_to_point_rate(local_var(LVAR_Home_Tile), 5)
+      if (step_tile <= -1) then begin
+         set_new_home_tile
+      end
+   end else if (in_transit) then begin
+      off_in_transit;
+      set_store_patron;
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_personal_enemy;
+   end
+end
+
+procedure pickup_p_proc begin
+   if ((source_obj == dude_obj) or (obj_in_party(source_obj))) then begin
+      check_catch_thief
+      if (caught_thief == false) then begin
+         call Node998;
+      end
+   end
+end
+
+procedure talk_p_proc begin
+   if (hostile) then begin
+      call Node001;
+   end else if (in_transit) then begin
+      call Node002;
+   end else if (local_var(LVAR_Patron_To_Store) == store_def_tubby) then begin
+      call Node005;
+   end else if (local_var(LVAR_Patron_To_Store) == store_def_becky) then begin
+      call Node003;
+   end else if (local_var(LVAR_Patron_To_Store) == store_def_flick) then begin
+      call Node006;
+   end else if (local_var(LVAR_Patron_To_Store) == store_def_hole) then begin
+      call Node004;
+   end else if (local_var(LVAR_Patron_To_Store) == store_def_mom) then begin
+      call Node007;
+   end else begin
+      call Node002;
+   end
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + (local_var(LVAR_Patron_To_Store) == 0));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if ((local_var(LVAR_Patron_To_Store) == store_def_tubby) and (tile_in_tubbys(self_tile))) then begin
+      display_mstr(154 + self_is_female);
+   end else if ((local_var(LVAR_Patron_To_Store) == store_def_becky) and (tile_in_beckys(self_tile))) then begin
+      display_mstr(152 + self_is_female);
+   end else if ((local_var(LVAR_Patron_To_Store) == store_def_flick) and (tile_in_flicks(self_tile))) then begin
+      display_mstr(156 + self_is_female);
+   end else if ((local_var(LVAR_Patron_To_Store) == store_def_hole) and (tile_in_hole(self_tile))) then begin
+      display_mstr(152 + self_is_female);
+   end else if ((local_var(LVAR_Patron_To_Store) == store_def_mom) and (tile_in_moms(self_tile))) then begin
+      display_mstr(152 + self_is_female);
+   end else begin
+      display_mstr(150 + self_is_female);
+   end
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   floater_rand(200, 204);
+   self_attack_dude;
+end
+procedure Node002 begin
+   floater_rand(300, 304);
+end
+procedure Node003 begin
+   if (becky_dead) then begin
+      floater_rand(340, 345);
+   end else begin
+      floater_rand(305, 321);
+   end
+end
+procedure Node004 begin
+   if (frankie_dead) then begin
+      floater_rand(390, 395);
+   end else begin
+      floater_rand(360, 370);
+   end
+end
+procedure Node005 begin
+   if (tubby_dead) then begin
+      floater_rand(430, 435);
+   end else begin
+      floater_rand(410, 416);
+   end
+end
+procedure Node006 begin
+   if (flick_dead) then begin
+      floater_rand(460, 465);
+   end else begin
+      floater_rand(440, 447);
+   end
+end
+procedure Node007 begin
+   if (mom_dead) then begin
+      floater_rand(500, 505);
+   end else begin
+      floater_rand(480, 488);
+   end
+end

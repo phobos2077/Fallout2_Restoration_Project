@@ -1,0 +1,608 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCWRIPLY
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+#define LVAR_Flags                     (4)
+#define LVAR_Home_Tile                 (5)
+
+#define screaming_bit                  bit_10
+#define gave_me_gun_bit                bit_11
+#define running_bit                    bit_12
+#define me_kill_daddy_bit              bit_13
+
+#define screaming                      lvar_bit(LVAR_Flags, screaming_bit)
+#define set_screaming                  set_running;                                 \
+                                       set_lvar_bit_on(LVAR_Flags, screaming_bit)
+
+#define gave_me_gun                    lvar_bit(LVAR_Flags, gave_me_gun_bit)
+#define set_gave_me_gun                if (gave_me_gun == false) then begin                              \
+                                          inc_general_rep(REP_POINT_NEW_RENO_KIDS_AND_GUNS_DONT_MIX);    \
+                                       end                                                               \
+                                       set_lvar_bit_on(LVAR_Flags, gave_me_gun_bit)
+
+#define running                        lvar_bit(LVAR_Flags, running_bit)
+#define set_running                    set_lvar_bit_on(LVAR_Flags, running_bit)
+#define off_running                    set_lvar_bit_off(LVAR_Flags, running_bit)
+
+#define me_kill_daddy                  lvar_bit(LVAR_Flags, me_kill_daddy_bit)
+#define set_me_kill_daddy              set_lvar_bit_on(LVAR_Flags, me_kill_daddy_bit)
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+#define child_playing_time             ((800 < game_time_hour) and (game_time_hour <= 2100))
+
+#define get_obj_pistol(x)                                                                          \
+         if (obj_is_carrying_obj_pid(x, PID_10MM_PISTOL) > 0) then begin                           \
+            the_pistol := PID_10MM_PISTOL;                                                         \
+         end else if (obj_is_carrying_obj_pid(x, PID_9MM_MAUSER) > 0) then begin                   \
+            the_pistol := PID_9MM_MAUSER;                                                          \
+         end else if (obj_is_carrying_obj_pid(x, PID_44_MAGNUM_REVOLVER) > 0) then begin           \
+            the_pistol := PID_44_MAGNUM_REVOLVER;                                                  \
+         end else if (obj_is_carrying_obj_pid(x, PID_44_MAGNUM_SPEEDLOADER) > 0) then begin        \
+            the_pistol := PID_44_MAGNUM_SPEEDLOADER;                                               \
+         end else if (obj_is_carrying_obj_pid(x, PID_DESERT_EAGLE) > 0) then begin                 \
+            the_pistol := PID_DESERT_EAGLE;                                                        \
+         end else if (obj_is_carrying_obj_pid(x, PID_DESERT_EAGLE_EXT_MAG) > 0) then begin         \
+            the_pistol := PID_DESERT_EAGLE_EXT_MAG;                                                \
+         end else if (obj_is_carrying_obj_pid(x, PID_14MM_PISTOL) > 0) then begin                  \
+            the_pistol := PID_14MM_PISTOL;                                                         \
+         end else if (obj_is_carrying_obj_pid(x, PID_223_PISTOL) > 0) then begin                   \
+            the_pistol := PID_223_PISTOL;                                                          \
+         end else begin                                                                            \
+            the_pistol := 0;                                                                       \
+         end
+         
+#define self_family                       family_wright //added by killap
+
+variable the_pistol;
+variable set_flee;
+
+import variable wright_child_playing_obj;
+import variable new_reno_wright_teen_obj;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+variable temp_tile;
+   if (self_visible) then begin
+      if (fixed_param == float_param) then begin
+         if (combat_is_initialized == false) then begin
+            if ((self_can_see_dude) and (running)) then begin
+               if (screaming) then begin
+                  call Node037;
+               end
+            end else if (Fallout2_enclave_destroyed) then begin
+               call Node002;
+            end else begin
+               call Node003;
+            end
+         end
+         nr_add_timer_event_rand(self_obj, 10, 30, float_param);
+      end else if (fixed_param == wander_param) then begin
+         if (combat_is_initialized == false) then begin
+            if ((self_can_see_dude) and (screaming)) then begin
+               if (new_reno_wright_teen_obj != 0) then begin
+                  if (tile_distance_objs(new_reno_wright_teen_obj, self_obj) <= 15) then begin
+                     nr_add_timer_event_tic(new_reno_wright_teen_obj, 0, call_guards_param);
+                  end
+               end
+            end else if (anim_busy(self_obj) == false) then begin
+               if (wright_child_playing_obj == 0) then begin
+                  wright_child_playing_obj := self_obj;
+               end else if (wright_child_playing_obj != self_obj) then begin
+                  if (tile_distance_objs(self_obj, wright_child_playing_obj) <= 1) then begin
+                     wright_child_playing_obj := self_obj;
+                  end
+               end
+
+               if (wright_child_playing_obj == self_obj) then begin
+                  if (tile_distance(self_tile, local_var(LVAR_Home_Tile)) > 10) then begin
+                     temp_tile := tile_num_in_direction(self_tile, rotation_to_tile(self_tile, local_var(LVAR_Home_Tile)), random(5, 10));
+                  end else begin
+                     temp_tile := tile_num_in_direction(self_tile, random(0,5), random(5, 10));
+                  end
+                  animate_run_to_tile(temp_tile);
+               end else begin
+                  Follow_Obj_Run_Only(wright_child_playing_obj, 1, 1)
+               end
+            end
+         end
+         nr_add_timer_event_rand(self_obj, 2, 5, wander_param);
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_local_var(LVAR_Home_Tile, self_tile);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_WRIGHT);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CHILD);
+      end
+      if (kill_daddy) then begin
+         destroy_object(self_obj);
+      end else if (gave_gun) then begin
+         kill_critter(self_obj, random(ANIM_fall_back_blood_sf, ANIM_fall_front_blood_sf));
+      end else if (child_playing_time) then begin
+         check_set_obj_visiblility(self_obj, false);
+         nr_add_timer_event_rand(self_obj, 10, 30, float_param);
+         nr_add_timer_event_rand(self_obj, 2, 5, wander_param);
+      end else begin
+         check_set_obj_visiblility(self_obj, true);
+      end
+   end
+end
+
+procedure map_exit_p_proc begin
+   get_obj_pistol(self_obj)
+   if (the_pistol != 0) then begin
+      set_gave_gun;
+      if (me_kill_daddy) then begin
+         set_kill_daddy;
+         set_global_var(GVAR_NEW_RENO_KILL_DADDY_WEAPON, the_pistol);
+      end
+   end
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (hostile) then begin
+         self_attack_dude;
+      end else if (running) then begin
+         Flee_From_Dude
+      end else if (screaming) then begin
+         if (anim_busy(self_obj) == false) then begin
+            set_flee := false;
+            if (new_reno_wright_teen_obj != 0) then begin
+               if ((elevation(self_obj)) == (elevation(new_reno_wright_teen_obj))) then begin
+                  if (tile_distance_objs(self_obj, dude_obj) < tile_distance_objs(new_reno_wright_teen_obj, dude_obj)) then begin
+                     set_flee := true;
+                     point_run_next_and_face(new_reno_wright_teen_obj)
+                  end
+               end
+            end
+            if (set_flee == false) then begin
+               Flee_From_Dude
+            end
+         end
+      end
+   end else begin
+      off_running;
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      attack_family(self_family) //added by killap
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   script_overrides;
+   if (Fallout2_enclave_destroyed) then begin
+      call Node004;
+   end else if (screaming) then begin
+      call Node037;
+   end else if (gave_me_gun) then begin
+      get_obj_pistol(self_obj)
+      if (the_pistol != 0) then begin
+         call Node038;
+      end else begin
+         call Node039;
+      end
+   end else if (dude_wearing_power_armor) then begin
+      call Node005;
+   end else begin
+      Evil_Critter:=0; //edit by killap - was 1
+      Slavery_Tolerant := SLAVE_VERY_INTOLERANT;
+      Karma_Perception := KARMA_PERCEPTION5;
+      CheckKarma;
+      GetReaction;
+      ReactToLevel; //added by killap
+      if ((local_var(LVAR_reaction_level) < REACTION_LEVEL_NEUTRAL) or (has_rep_slaver) or ((dude_is_made_man) and (dude_family != family_wright))) then begin
+         call Node006;
+      end else begin
+         start_dialog_at_node(Node007);
+      end
+   end
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (Fallout2_enclave_destroyed) then begin
+      display_mstr_rand(150, 152);
+   end else begin
+      display_mstr_rand(200, 201);
+   end
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   if (hostile == false) then begin
+      set_hostile;
+   end
+end
+procedure Node999 begin
+end
+
+procedure Node990 begin
+   gfade_out(ONE_GAME_SECOND);
+      game_time_advance(ONE_GAME_HOUR);
+   gfade_in(ONE_GAME_SECOND);
+end
+procedure Node987 begin
+   if ((dude_charisma > 6) or (is_success(roll_vs_skill(dude_obj, SKILL_CONVERSANT, 0))) or (has_trait(TRAIT_PERK, dude_obj, PERK_empathy)) or (local_var(LVAR_reaction_level) > REACTION_LEVEL_NEUTRAL)) then begin
+      call Node024;
+   end else begin
+      call Node023;
+   end
+end
+procedure Node986 begin
+   if ((dude_charisma > 8) or (is_success(roll_vs_skill(dude_obj, SKILL_CONVERSANT, -20))) or (has_trait(TRAIT_PERK, dude_obj, PERK_empathy)) or (local_var(LVAR_reaction_level) > REACTION_LEVEL_GOOD)) then begin
+      call Node027;
+   end else begin
+      call Node026;
+   end
+end
+procedure Node985 begin
+   TopReact;
+   call Node022;
+end
+procedure Node984 begin
+   load_map(MAP_NEW_RENO_VB, 0);
+end
+
+#define is_insert_message(x)              ((x == 277) or (x == 278) or (x == 279) or (x == 282))
+
+procedure Node002 begin
+   floater_rand(210, 228);
+end
+procedure Node003 begin
+   floater_rand(240, 255);
+end
+procedure Node004 begin
+   floater_rand_with_check(270, 282, dude_name, 5000);
+end
+procedure Node005 begin
+   floater_rand(300, 302);
+   Flee_From_Dude
+end
+procedure Node006 begin
+   floater_rand(310, 312);
+   Flee_From_Dude
+end
+procedure Node007 begin
+   Reply(320);
+   NOption(mstr(321) + dude_name + mstr(5321), Node008, -003);
+   NOption(322, Node999, -003);
+   BOption(323, Node017, 004);
+   NOption(324, Node020, 004);
+   NOption(325, Node032, 004);
+   NOption(326, Node999, 004);
+end
+procedure Node008 begin
+   Reply(330);
+   NOption(331, Node009, -003);
+   NOption(dude_name + mstr(332), Node009, -003);
+   NOption(333, Node010, -003);
+   BOption(mstr(334) + dude_name + mstr(5334), Node010, -003);
+   NOption(335, Node999, -003);
+end
+procedure Node009 begin
+   Reply(340);
+   NOption(341, Node990, -003);
+   NOption(342, Node999, -003);
+   NOption(343, Node999, 004);
+end
+procedure Node010 begin
+   Reply(350);
+   BOption(351, Node011, -003);
+   BOption(352, Node013, -003);
+   BOption(mstr(353) + dude_name + mstr(5353), Node013, -003);
+   BOption(mstr(354) + dude_name + mstr(5354) + dude_name + mstr(6354) + dude_name + mstr(7354), Node015, -003);
+   if (has_rep_childkiller) then begin
+      BOption(dude_name + mstr(355), Node019, -003);
+   end
+   NOption(356, Node999, -003);
+end
+procedure Node011 begin
+   Reply(360);
+   BOption(351, Node012, -003);
+   NOption(362, Node014, -003);
+   NOption(363, Node014, -003);
+   NOption(364, Node999, -003);
+end
+procedure Node012 begin
+   Reply(mstr(370 + (child_playing_time)) + mstr(372));
+   NOption(373, Node036, -003);
+   NOption(374, Node999, -003);
+end
+procedure Node013 begin
+   Reply(380);
+   BOption(381, Node019, -003);
+   BOption(mstr(382) + dude_name + mstr(5382) + dude_name + mstr(6382), Node019, -003);
+   NOption(383, Node999, -003);
+   BOption(384, Node999, 004);
+   NOption(343, Node999, 004);
+end
+procedure Node014 begin
+   Reply(390);
+   NOption(391, Node016, -003);
+   NOption(356, Node999, -003);
+end
+procedure Node015 begin
+   Reply(mstr(400 + (child_playing_time)) + mstr(412));
+   BOption(403, Node013, -003);
+   NOption(404, Node036, -003);
+   NOption(405, Node999, -003);
+end
+procedure Node016 begin
+   Reply(mstr(410 + (child_playing_time)) + mstr(412));
+   NOption(404, Node036, -003);
+   NOption(405, Node999, -003);
+end
+procedure Node017 begin
+   Reply(420);
+   if (check_general_rep >= 0) then begin
+      NOption(421, Node018, 004);
+   end
+   BOption(422, Node019, 004);
+   NOption(423, Node999, 004);
+end
+procedure Node018 begin
+   Reply(430);
+   if (dude_charisma > 5) then begin
+      NOption(432, Node020, 004);
+   end else begin
+      NOption(324, Node020, 004);
+   end
+   NOption(433, Node032, 004);
+   NOption(434, Node999, 004);
+end
+procedure Node019 begin
+   set_screaming;
+   Reply(440 + (dude_iq > 3));
+   NOption(442, Node999, -003);
+   NOption(443, Node999, 004);
+end
+procedure Node020 begin
+   get_obj_pistol(dude_obj)
+   if (the_pistol != 0) then begin
+      Reply(mstr(450) + mstr(451));
+      BOption(452, Node021, 004);
+      BOption(453, Node021, 004);
+      GOption(454, Node028, 004);
+      NOption(456, Node021, 004);
+      NOption(458, Node021, 004);
+   end else begin
+      Reply(450);
+      NOption(456, Node022, 004);
+      NOption(457, Node999, 004);
+   end
+end
+procedure Node021 begin
+   Reply(470);
+   if (check_general_rep >= 0) then begin
+      BOption(471, Node021, 004);
+   end else begin
+      BOption(473, Node013, 004);
+   end
+   BOption(472, Node013, 004);
+   GOption(474, Node028, 004);
+   NOption(476, Node999, 004);
+end
+procedure Node022 begin
+   Reply(485);
+   if (dude_charisma > 5) then begin
+      GOption(486, Node987, 004);
+   end
+   NOption(487, Node986, 004);
+   BOption(488, Node026, 004);
+   BOption(489, Node999, 004);
+   NOption(490, Node999, 004);
+end
+procedure Node023 begin
+   Reply(500);
+   NOption(501, Node035, 004);
+   NOption(502, Node035, 004);
+   NOption(503, Node999, 004);
+end
+procedure Node024 begin
+   Reply(mstr(510 + (child_playing_time)) + mstr(412));
+   if ( ((saw_secret_trade) and (secret_trade_disrupted)) or (global_var(GVAR_NEW_RENO_GUARD_ASSIGNMENT) > 1) ) then begin //added (global_var(GVAR_NEW_RENO_GUARD_ASSIGNMENT) > 1) - killap
+      NOption(515, Node025, 004);
+   end else if (secret_trade_nothing) then begin
+      NOption(513 + (dude_iq < 9), Node036, 001);
+   end
+   NOption(516, Node034, 004);
+   NOption(326, Node999, 004);
+end
+procedure Node025 begin
+   Reply(530);
+   if (dude_iq < 8) then begin
+      NOption(531, Node034, 004);
+   end else begin
+      NOption(532, Node034, 004);
+   end
+   BOption(533, Node034, 004);
+end
+procedure Node026 begin
+   Reply(540);
+   NOption(541, Node035, 004);
+   NOption(542, Node035, 004);
+   NOption(543, Node999, 004);
+end
+procedure Node027 begin
+   Reply(mstr(550 + (child_playing_time)) + mstr(552));
+   if ( ((saw_secret_trade) and (secret_trade_disrupted)) or (global_var(GVAR_NEW_RENO_GUARD_ASSIGNMENT) > 1) ) then begin //added (global_var(GVAR_NEW_RENO_GUARD_ASSIGNMENT) > 1) - killap
+      NOption(515, Node025, 004);
+   end else if (secret_trade_nothing) then begin
+      NOption(514, Node036, 001);
+   end
+   NOption(516, Node034, 004);
+   NOption(556, Node999, 004);
+end
+procedure Node028 begin
+   set_gave_me_gun;
+   transfer_pid_between_objs(dude_obj, self_obj, the_pistol, 1)
+   Reply(mstr(560) + mstr(561));
+   BOption(562, Node029, 004);
+   GOption(563, Node985, 004);
+   NOption(564, Node031, 004);
+   NOption(565, Node999, 004);
+end
+procedure Node029 begin
+   Reply(570);
+   BOption(571, Node030, 004);
+   NOption(572, Node030, 004);
+   NOption(573, Node999, 004);
+end
+procedure Node030 begin
+   set_running;
+   Reply(580);
+   BOption(581, Node999, 001);
+   NOption(277, Node999, 001);
+end
+procedure Node031 begin
+   set_kill_daddy_karma;
+   set_running;
+   set_me_kill_daddy;
+   Reply(590);
+   NOption(591, Node999, 001);
+   NOption(592, Node999, 001);
+end
+procedure Node032 begin
+   Reply(600);
+   BOption(323, Node017, 004);
+   NOption(324, Node020, 004);
+   NOption(603, Node999, 004);
+end
+procedure Node033 begin
+   Reply(610);
+   NOption(343, Node999, 001);
+end
+procedure Node034 begin
+   Reply(620);
+   NOption(343, Node999, 001);
+end
+procedure Node035 begin
+   Reply(630);
+   NOption(631, Node999, 001);
+   BOption(632, Node999, 004);
+end
+procedure Node036 begin
+   Reply(640 + (night == false));
+   NOption(642, Node984, 001);
+end
+procedure Node037 begin
+   Flee_From_Dude
+   floater_rand(701 - dude_is_male, 703 + dude_is_female); // Seraph's Fix: floater only takes 1 arg; changed to floater_rand. Thanks Rob!
+end
+procedure Node038 begin
+   floater_rand(711 - dude_is_male, 711 + dude_is_female); // Seraph's Fix: floater only takes 1 arg; changed to floater_rand. Thanks Rob!
+end
+procedure Node039 begin
+   floater_rand(721 - dude_is_male, 722 + dude_is_female); // Seraph's Fix: floater only takes 1 arg; changed to floater_rand. Thanks Rob!
+end

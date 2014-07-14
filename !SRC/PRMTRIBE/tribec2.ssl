@@ -1,0 +1,461 @@
+/*
+	Script for critter tmplete
+*/
+
+
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_TRIBEC2
+
+#define TOWN_REP_VAR            GVAR_TOWN_REP_PRIMITIVE_TRIBE
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure combat_p_proc;
+procedure critter_p_proc;
+procedure destroy_p_proc;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+procedure talk_two_p_proc;
+
+procedure Node003a;
+procedure Node006a;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node006b;
+procedure Node007;
+procedure Node007b;
+procedure Node008;
+procedure Node008b;
+procedure Node008c;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+
+procedure Node998;
+procedure Node999;
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Gave_SMG                   (7)
+
+#define RUN_TILE  (17470)
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      //display_msg(message_str(1306, 101));
+      display_msg(mstr(101));
+   else
+      //display_msg(message_str(1306, 102));
+      display_msg(mstr(102));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   //display_msg(message_str(1306, 103));
+   display_msg(mstr(103));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   set_global_var(GVAR_ENEMY_PRIMITIVE_TRIBE,1);
+   attack(dude_obj);
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   if ((Fallout2_enclave_destroyed) and (local_var(LVAR_Gave_SMG) == 2)) then begin
+     move_to(self_obj,22921,1);
+     set_obj_visibility(self_obj,0); // go vis
+   end
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PRIMITIVE_TRIBE);
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_global_var(GVAR_ENEMY_PRIMITIVE_TRIBE,1);
+   end
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   if ((local_var(LVAR_Gave_SMG) == 2) and not(Fallout2_enclave_destroyed)) then begin
+      floater(411);
+   end else if ((global_var(GVAR_MERCHANT_MEETING) > 1) or (global_var(GVAR_TRIBE_WEAPONS) == 2) or (global_var(GVAR_TRIBE_GHOST) == 3) or (global_var(GVAR_SULIK_SISTER) >= 3) ) then begin
+      call talk_two_p_proc;
+   end else begin
+     if (global_var(GVAR_FIXTRIBE_WELL) == 5) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+         call Node010;
+       gSay_End;
+       end_dialogue;
+     end else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+         call Node001;
+       gSay_End;
+       end_dialogue;
+     end
+   end
+end
+
+procedure talk_two_p_proc
+begin
+   if (global_var(GVAR_FIXTRIBE_WELL) == 1) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node004;
+      gSay_End;
+      end_dialogue;
+   end
+   else if (global_var(GVAR_FIXTRIBE_WELL) == 2) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node005;
+      gSay_End;
+      end_dialogue;
+   end
+   else if (global_var(GVAR_FIXTRIBE_WELL) == 3) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node007;
+      gSay_End;
+      end_dialogue;
+   end
+   else if ( (global_var(GVAR_FIXTRIBE_WELL) == 4) or (global_var(GVAR_FIXTRIBE_WELL) == 5) ) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         if (local_var(LVAR_Herebefore) == 1) then begin
+            call Node008;
+         end else begin
+            call Node010;
+         end
+      gSay_End;
+      end_dialogue;
+   end
+   else if (global_var(GVAR_FIXTRIBE_WELL) >= 6) then begin
+	  if (Fallout2_enclave_destroyed) then
+	     floater(random(2000,2000+(local_var(LVAR_Gave_SMG) == 2)));
+	  else
+	     floater(random(200,202));
+   end
+   else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node002;
+      gSay_End;
+      end_dialogue;
+   end
+   set_local_var(LVAR_Herebefore,1);
+end
+ 
+procedure destroy_p_proc
+begin
+   inc_good_critter
+   set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE, global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) - 10);
+   set_global_var(GVAR_ENEMY_PRIMITIVE_TRIBE,1);
+end
+
+procedure critter_p_proc
+begin
+   variable newtile;
+   if (not(Fallout2_enclave_destroyed) and local_var(LVAR_Gave_SMG) == 2) then begin
+     if ( self_visible and not(obj_on_screen(self_obj)) or (self_tile == RUN_TILE) ) then begin
+       set_obj_visibility(self_obj,1); // go invis
+     end else begin
+       anim_run_to_point(RUN_TILE)
+     end
+   end
+
+   if (self_can_see_dude) then begin
+      if (has_rep_slaver) then begin
+         floater(210);
+         attack(dude_obj);
+      end else if (REP_ENEMY_PRIMITIVE_TRIBE) then begin
+         attack(dude_obj);
+      end
+   end
+end
+
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+   if ( (global_var(GVAR_FIXTRIBE_WELL) >= 6) and (obj_is_carrying_obj_pid(dude_obj,PID_10MM_SMG)) and (local_var(LVAR_Gave_SMG) == 0)) then begin
+      call Node011;
+   end
+end
+
+procedure Node001
+begin
+	//gsay_reply(1306, 110);
+	Reply(110);
+	//giq_option(4, 1306, 111, Node999, 50);
+	NOption(111,Node999,004);
+end
+
+procedure Node010
+begin
+   set_global_var(GVAR_FIXTRIBE_WELL,6);
+   display_msg(mstr(1000));
+   give_xp(EXP_TRIBE_WELL_GOOD);
+   inc_general_rep(REP_TOWN_TRIBE_WELL);
+   set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE,global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 5);
+
+	Reply(112);
+
+	NOption(113,Node999,004);
+	BOption(114,Node999,004);
+end
+
+procedure Node011 begin
+   set_local_var(LVAR_Gave_SMG,1);
+
+	Reply(400);
+   
+	NOption(401,Node012,004);
+	BOption(402,Node012,004);
+	NOption(403,Node999,004);
+	BOption(404,Node999,004);
+end
+
+procedure Node012 begin
+   variable item;
+   give_xp(50);
+   remove_pid_qty(dude_obj, PID_10MM_SMG, 1)
+   item:=create_object(PID_NUKA_COLA,0,0);
+   add_obj_to_inven(dude_obj,item);   
+   set_local_var(LVAR_Gave_SMG,2);
+	Reply(410);
+	NOption(301,Node999,004);
+end
+
+procedure Node002
+begin
+	//gsay_reply(1306, 120);
+	Reply(120);
+	//giq_option(4, 1306, 121, Node003, 50);
+	NOption(121,Node003,004);
+end
+
+procedure Node003
+begin
+	//gsay_reply(1306, 130);
+	Reply(130);
+	//giq_option(4, 1306, 131, Node003a, 50);
+	if (obj_is_carrying_obj_pid(dude_obj,PID_ROPE)) then
+      NOption(132,Node003a,004);
+   else
+      NOption(131,Node003a,004);
+   //giq_option(4, 1306, 132, Node999, 50);
+   NOption(133,Node999,004);
+end
+
+procedure Node003a
+begin
+   set_global_var(GVAR_FIXTRIBE_WELL,1);
+end
+
+procedure Node004
+begin
+	//gsay_reply(1306,140 );
+	Reply(140);
+	//giq_option(4, 1306,141 , Node999, 50);
+	NOption(141,Node999,004);
+	BOption(142,Node999,004);
+end
+
+procedure Node005
+begin
+	//gsay_reply(1306,150 );
+	Reply(150);
+	//giq_option(4, 1306,151 , Node006, 50);
+	NOption(151,Node006,004);
+end
+
+procedure Node006
+begin
+	//gsay_reply(1306,160);
+	Reply(160);
+	//giq_option(4, 1306,161, Node006a, 50);
+	NOption(161,Node006a,004);
+	BOption(162,Node006b,004);
+end
+
+procedure Node006a
+begin
+   set_global_var(GVAR_FIXTRIBE_WELL,3);
+end
+
+procedure Node006b
+begin
+	set_global_var(GVAR_FIXTRIBE_WELL,6);
+   give_xp(EXP_TRIBE_WELL_BAD);
+   if (tile_contains_obj_pid(22919,elevation(self_obj),PID_BUCKET)) then begin
+      destroy_object(tile_contains_pid_obj(22919,elevation(self_obj),PID_BUCKET));
+   end
+   Reply(300);
+   
+   NOption(301,Node999,004);
+
+end
+
+procedure Node007
+begin
+	//gsay_reply(1306,170);
+	Reply(170);
+	//giq_option(4, 1306,171 , Node999, 50);
+	NOption(171,Node999,004);
+	BOption(172,Node007b,004);
+end
+
+procedure Node007b
+begin
+
+	Reply(310);
+
+	BOption(311,Node999,004);
+end
+
+procedure Node008
+begin
+	//gsay_reply(1306,180);
+	Reply(180);
+	//giq_option(4, 1306,181 , Node009, 50);
+	NOption(181,Node009,004);
+	BOption(182,Node008b,004);
+end
+
+procedure Node008b
+begin
+	Reply(320);
+	BOption(321,Node008c,004);
+end
+
+procedure Node008c
+begin
+
+	set_global_var(GVAR_FIXTRIBE_WELL,6);
+	display_msg(mstr(1000));
+   give_xp(EXP_TRIBE_WELL_GOOD);
+   item_caps_adjust(dude_obj, 150);
+
+	Reply(330);
+	BOption(331,Node999,004);
+end
+
+procedure Node009
+begin
+	//gsay_reply(1306,190);
+	Reply(190);
+	//giq_option(4, 1306,191 , Node999, 50);
+	NOption(191,Node999,004);
+	set_global_var(GVAR_FIXTRIBE_WELL,6);
+	display_msg(mstr(1000));
+   give_xp(EXP_TRIBE_WELL_GOOD);
+   inc_general_rep(REP_TOWN_TRIBE_WELL);
+   //set_global_var((65),global_var((65))+5);
+   set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE,global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 5);
+   item_caps_adjust(dude_obj, 150);
+end
+ 
+procedure combat_p_proc
+begin
+   if (global_var(GVAR_ENEMY_PRIMITIVE_TRIBE)==1) then begin
+      attack(dude_obj);
+   end
+end

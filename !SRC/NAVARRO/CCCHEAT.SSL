@@ -1,0 +1,146 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Cheater
+        Location: Navarro
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: Sept 10, 1998
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+//#include "..\headers\navdef.h"
+#include "..\headers\navarro.h"
+#include "..\headers\SanFran.h"
+
+#define NAME                    SCRIPT_CCCHEAT
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+
+procedure Node999;                                      // This Node is Always Ending
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Hostile                    (0)
+#define LVAR_second_look                (1)
+#define LVAR_Herebefore                 (2)
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable worn;
+variable temp;
+variable said_intruder:=0;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+end
+
+procedure critter_p_proc begin
+end
+
+procedure damage_p_proc begin
+end
+
+procedure pickup_p_proc begin
+end
+
+procedure talk_p_proc begin
+   start_gdialog(NAME,self_obj,4,-1,-1);
+   gSay_Start;
+      call Node001;
+   gSay_End;
+   end_dialogue;
+end
+
+procedure destroy_p_proc begin
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node001 begin
+   Reply(200);
+   NOption(201,Node002,001);
+   NOption(202,Node003,001);
+   NOption(203,Node004,001);
+   NOption(204,Node005,001);
+   NOption(205,Node006,001);
+end
+
+procedure Node002 begin
+  //set tribe kidnapped (doesn't actually kidnap tribe -this is the var I check in Navarro)
+  //mark_area_known(MARK_TYPE_TOWN, AREA_VAULT_13, MARK_STATE_VISITED);
+  force_f2( f2_state_tribe_kidnapped );
+  Reply(206);
+  NOption(211,Node999,001);
+end
+
+procedure Node003 begin
+  //set_global_var(GVAR_SAN_FRAN_SHI_WHIRLY,1);
+  set_shi_whirly( SH_WH_ACCEPTED );
+  Reply(207);
+  NOption(211,Node999,001);
+end
+
+procedure Node004 begin
+  //set_global_var(GVAR_SAN_FRAN_ELRON_WHIRLY,1);
+  set_elron_whirly( EL_WH_ACCEPTED );
+  Reply(208);
+  NOption(211,Node999,001);
+end
+
+procedure Node005 begin
+  //set_global_var(GVAR_SAN_FRAN_BOS_WHIRLY,1);
+  set_san_fran_flag( SF_BROTHER_PLANS );
+  Reply(209);
+  NOption(211,Node999,001);
+end
+
+procedure Node006 begin
+  mark_area_known(MARK_TYPE_TOWN, AREA_MILITARY_BASE, MARK_STATE_VISITED);
+  Reply(210);
+  NOption(211,Node999,001);
+end
+
+procedure Node999 begin
+end

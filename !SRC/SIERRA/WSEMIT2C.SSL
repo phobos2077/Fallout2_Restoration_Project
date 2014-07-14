@@ -1,0 +1,199 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\depolva.h"
+
+#define NAME                    SCRIPT_WSEMIT1A         // contains all the .msg info
+#define CUR_SCRIPT              SCRIPT_WSEMIT2C         // for creating new objects w/ this script
+#define CUR_FIELD_SCRIPT        SCRIPT_WSFELD2C         // for creating new force fields w/ this script
+
+#include "..\headers\command.h"
+
+#define TRAPS_PENALTY           (-20)
+#define SCIENCE_PENALTY         (-40)
+#define TOOL_BONUS              (SCIENCE_PENALTY + 20 + ((obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT) * 20))
+
+#define LEVEL_MAP_VAR           MVAR_Security_Level_2
+#define FIELD_STATUS            MVAR_Field_2c
+
+procedure start;
+procedure use_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_update_p_proc;
+
+#define LVAR_Failed_Repair                      (0)
+#define LVAR_Destroyed_Field                    (1)
+#define LVAR_Gave_Exp                           (2)
+
+import variable Field2c_Ptr;
+
+variable Field_Ptr;
+
+procedure start begin
+end
+
+procedure map_update_p_proc begin
+   Field_Ptr:=Field2c_Ptr;
+end
+
+procedure use_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure use_skill_on_p_proc begin
+   variable skill;
+
+   skill:=action_being_used;
+
+   if ((skill == SKILL_REPAIR) and (map_var(FIELD_STATUS) < FIELD_DAMAGED) and (global_var(GVAR_SIERRA_BASE_POWER) == 0)) then begin
+       script_overrides;
+       if (skill_success(source_obj,skill,SCIENCE_PENALTY)) then begin
+           if (map_var(FIELD_STATUS) == FIELD_ENABLED) then begin
+               set_map_var(FIELD_STATUS,FIELD_DISABLED);
+               set_obj_visibility(Field_Ptr,1);         // invis
+               if (source_obj == dude_obj) then
+                   display_msg(mstr(112));
+               else
+                   display_msg(obj_name(source_obj)+mstr(113));
+           end
+           else begin
+               set_map_var(FIELD_STATUS,FIELD_ENABLED);
+               set_obj_visibility(Field_Ptr,0);         // vis
+               if (source_obj == dude_obj) then
+                   display_msg(mstr(114));
+               else
+                   display_msg(obj_name(source_obj)+mstr(115));
+           end
+
+           if (local_var(LVAR_Gave_Exp) == 0) then begin
+               set_local_var(LVAR_Gave_Exp,1);
+               give_xp(EXP_DISABLE_FORCE_FIELD);
+           end
+       end
+       else begin
+           set_local_var(LVAR_Failed_Repair,local_var(LVAR_Failed_Repair)+1);
+           if (source_obj == dude_obj) then
+               display_msg(mstr(109));
+           else
+               display_msg(obj_name(source_obj)+mstr(110));
+           if ((local_var(LVAR_Failed_Repair) == 3) and (map_var(LEVEL_MAP_VAR) == 0)) then begin
+               set_map_var(LEVEL_MAP_VAR,1);
+               set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+               display_msg(mstr(111));
+           end
+       end
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   variable Tool;
+
+   Tool:=obj_pid(obj_being_used_with);
+
+   if (((Tool == PID_MULTI_TOOL) or (Tool == PID_SUPER_TOOL_KIT)) and (map_var(FIELD_STATUS) < FIELD_DAMAGED) and (global_var(GVAR_SIERRA_BASE_POWER) == 0)) then begin //added super_tool_kit - killap
+       script_overrides;
+       if (skill_success(source_obj,SKILL_SCIENCE,TOOL_BONUS)) then begin
+           if (map_var(FIELD_STATUS) == FIELD_ENABLED) then begin
+               set_map_var(FIELD_STATUS,FIELD_DISABLED);
+               set_obj_visibility(Field_Ptr,1);         // invis
+               if (source_obj == dude_obj) then
+                   display_msg(mstr(112));
+               else
+                   display_msg(obj_name(source_obj)+mstr(113));
+           end
+           else begin
+               set_map_var(FIELD_STATUS,FIELD_ENABLED);
+               set_obj_visibility(Field_Ptr,0);         // vis
+               if (source_obj == dude_obj) then
+                   display_msg(mstr(114));
+               else
+                   display_msg(obj_name(source_obj)+mstr(115));
+           end
+
+           if (local_var(LVAR_Gave_Exp) == 0) then begin
+               set_local_var(LVAR_Gave_Exp,1);
+               give_xp(EXP_DISABLE_FORCE_FIELD);
+           end
+       end
+       else begin
+           set_local_var(LVAR_Failed_Repair,local_var(LVAR_Failed_Repair)+1);
+           if (source_obj == dude_obj) then
+               display_msg(mstr(109));
+           else
+               display_msg(obj_name(source_obj)+mstr(110));
+           if ((local_var(LVAR_Failed_Repair) == 3) and (map_var(LEVEL_MAP_VAR) == 0)) then begin
+               set_map_var(LEVEL_MAP_VAR,1);
+               set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+               set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+               display_msg(mstr(111));
+           end
+       end
+   end
+end
+
+procedure damage_p_proc begin
+   variable Field_Hex;
+   variable Field_Pid;
+   variable Field_Elev;
+
+   if (map_var(FIELD_STATUS) != FIELD_DESTROYED) then begin //added check by killap
+      if (skill_success(dude_obj,SKILL_TRAPS,TRAPS_PENALTY)) then begin
+         set_map_var(FIELD_STATUS,FIELD_DESTROYED);
+         destroy_object(Field_Ptr);
+         Field_Ptr:=0;
+         display_msg(mstr(116));
+         debug_msg("Successfully destroyed the Field.");
+      end
+      else begin
+         if (map_var(FIELD_STATUS) != FIELD_DAMAGED) then begin //added check by killap
+            set_map_var(FIELD_STATUS,FIELD_DAMAGED);
+            Field_Hex:=tile_num(Field_Ptr);
+            Field_Pid:=obj_pid(Field_Ptr);
+            Field_Elev:=elevation(Field_Ptr);
+            destroy_object(Field_Ptr);
+            Field_Ptr:=0;
+            if (Field_Pid == PID_NS_FORCE_FIELD) then begin
+               debug_msg("Make NW Pain Field.");
+               create_object_sid(PID_NS_PAIN_FIELD,Field_Hex,Field_Elev,CUR_FIELD_SCRIPT);
+            end
+            else begin
+               debug_msg("Make EW Pain Field.");
+               create_object_sid(PID_EW_PAIN_FIELD,Field_Hex,Field_Elev,CUR_FIELD_SCRIPT);
+            end
+         end
+      end
+
+      set_map_var(LEVEL_MAP_VAR,1);
+      set_global_var(GVAR_SIERRA_BASE_ALERT,SIERRA_ALERT_ON);
+      set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+      display_msg(mstr(111));
+   end
+end

@@ -1,0 +1,93 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Arroyo Caves
+        Location: Arroyo
+        Description: This is the Map Script for the Caves in Arroyo
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+#include "..\headers\enc.h"
+//#include "..\headers\enctrp.h"
+
+#define NAME                    SCRIPT_ENCFITE
+
+#include "..\headers\command.h"
+
+#define ENCLAVE_DOOR_PID1       (33556008)
+#define ENCLAVE_DOOR_PID2       (33556007)
+//#define ENCLAVE_DOOR_TILE1      (19280)
+#define ENCLAVE_DOOR_TILE1      (22701)
+#define ENCLAVE_DOOR_TILE2      (16719)
+
+//killap comments...
+//22701 - door for verti elevator...
+//pid2 is used for the above door...
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure map_exit_p_proc;
+
+export variable Frank_Ptr;
+
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   if (global_var(GVAR_LOAD_MAP_INDEX) == 12) then begin
+      override_map_start_hex( 24502, 0, 0 );
+   end
+   
+   Enclave_Lighting;
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+end
+
+procedure map_update_p_proc begin
+   variable door;
+
+   Enclave_Lighting;
+   check_countdown
+   check_poisoning;
+
+   if (global_var(GVAR_ENCLAVE_FRANK_DEAD) != 0) then begin
+      if (global_var(GVAR_ENCLAVE_FRANK_DEAD) != 0) then begin
+          set_exit_grids(0,MAP_SAN_FRAN_DOCK,0,13908,2);
+          door:=tile_contains_pid_obj(ENCLAVE_DOOR_TILE2,elevation(self_obj),ENCLAVE_DOOR_PID2);
+          obj_unlock(door);
+      end
+   end
+
+end
+
+procedure map_exit_p_proc begin
+   if (global_var(GVAR_ENCLAVE_FRANK_DEAD) == 1) then begin
+      set_global_var(GVAR_ENCLAVE_FRANK_DEAD,2);
+      gfade_out(600);
+      game_time_advance(ONE_GAME_DAY); //added by killap
+      set_global_var(GVAR_ARROYO_RETURN_GECK,1);
+      play_gmovie(DERRICK_MOVIE);
+      endgame_slideshow;
+   end
+end

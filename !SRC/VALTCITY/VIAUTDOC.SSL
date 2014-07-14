@@ -1,0 +1,157 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Auto-Doc
+        Location: Vault City Courtyard
+        Description: This is Andrew's Autodoc
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\Vctyctyd.h"
+
+#define NAME                    SCRIPT_VIAUTDOC
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_VAULT_CITY)
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+
+procedure start begin
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+
+   if( map_var(MVAR_Auto_Doc_Fixed) == 1 ) then
+      display_msg(mstr(101));
+   else
+      display_msg(mstr(104));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+   variable Skill_Used;
+
+   Skill_Used := action_being_used;
+
+   script_overrides;
+   if( map_var(MVAR_Auto_Doc_Fixed) == 0 ) then begin
+      if( (Skill_Used == SKILL_SCIENCE) or (Skill_Used == SKILL_DOCTOR) ) then
+         display_msg(mstr(107));
+      else if( Skill_Used == SKILL_REPAIR ) then begin
+         if( is_success( roll_vs_skill( source_obj, SKILL_REPAIR, -25 ) ) ) then begin
+            gfade_out(600);
+            // One hour passes
+            game_time_advance(ONE_GAME_HOUR);
+            set_map_var( MVAR_Auto_Doc_Fixed, 1);
+            gfade_in(600);
+            set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_FIXED_AUTODOC ) );
+            display_msg(mstr(108));
+            give_xp(EXP_AUTODOC_REPAIRED);
+         end
+         else begin
+            // One hour passes
+            gfade_out(600);
+            game_time_advance(ONE_GAME_HOUR);
+            gfade_in(600);
+            display_msg(mstr(109));
+         end
+      end
+   end
+   else begin
+      if( (Skill_Used == SKILL_REPAIR) or (Skill_Used == SKILL_SCIENCE) or (Skill_Used == SKILL_DOCTOR) ) then
+         display_msg( mstr(110) );
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   variable Object_Used;
+   variable Object_Used_PID;
+
+   Object_Used := obj_being_used_with;
+   Object_Used_PID := obj_pid(Object_Used);
+
+   script_overrides;
+   if ( map_var(MVAR_Auto_Doc_Fixed) == 0 ) then begin
+      if ( (Object_Used_PID == PID_WRENCH) or (Object_Used_PID == PID_MULTI_TOOL) or (Object_Used_PID == PID_SUPER_TOOL_KIT) ) then begin //added super_tool_kit - killap
+         if( is_success( roll_vs_skill( source_obj, SKILL_REPAIR, -15 ) ) ) then begin
+            gfade_out(600);
+            // One hour passes
+            game_time_advance(ONE_GAME_HOUR);
+            set_map_var( MVAR_Auto_Doc_Fixed, 1);
+            gfade_in(600);
+            set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_FIXED_AUTODOC ) );
+            display_msg(mstr(108));
+            give_xp(EXP_AUTODOC_REPAIRED);
+         end
+         else begin
+            // One hour passes
+            gfade_out(600);
+            game_time_advance(ONE_GAME_HOUR);
+            gfade_in(600);
+            display_msg(mstr(109));
+         end
+      end
+   end
+   else begin
+      if ( (Object_Used_PID == PID_WRENCH) or (Object_Used_PID == PID_MULTI_TOOL) ) then
+         display_msg( mstr(110) );
+   end
+end
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+//xxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,126 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Modoc Brahmin
+        Location: Modoc
+        Description:
+
+        Log:
+
+           Created: December 02, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_MCKILDOG
+
+#include "..\headers\command.h"
+#include "..\headers\ModMain.h"
+#include "..\headers\modoc.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+procedure use_p_proc;
+procedure map_update_p_proc;
+
+#define LVAR_Bark_Time                                (0)
+#define LVAR_Home_Tile                                (1)
+
+import variable brahmin_1_object;
+import variable brahmin_2_object;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+variable temp_tile;
+   temp_tile := tile_num_in_direction(local_var(LVAR_Home_Tile), random(0,5), random(5,10));
+   if (tile_in_brahmin_pen(temp_tile)) then begin
+      set_local_var(LVAR_Home_Tile, temp_tile);
+   end
+   add_timer_event(self_obj,game_ticks(random(30,90)),1);
+end
+
+procedure critter_p_proc begin
+variable follow_obj := 0;
+   if (anim_busy(self_obj) == false) then begin
+      if (night == false) then begin
+         if ((is_slaughter_1_time) and (brahmin_1_object != 0)) then begin
+            if (tile_in_brahmin_pen(tile_num(brahmin_1_object))) then begin
+               follow_obj := brahmin_1_object;
+            end
+         end
+      end
+
+      if (follow_obj != 0) then begin
+         Follow_Obj_Run_Only(follow_obj, 2, 2)
+         if (game_time >= local_var(LVAR_Bark_Time)) then begin
+            set_local_var(LVAR_Bark_Time, game_time + (random(1,5) * ONE_GAME_SECOND));
+            if (random(0,2) != 1) then begin
+               play_sfx("dogbark2");
+            end
+            floater_bad_rand(100, 102);
+         end
+      end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
+         animate_move_to_tile(local_var(LVAR_Home_Tile));
+      end
+   end
+end
+
+procedure pickup_p_proc begin
+end
+
+procedure talk_p_proc begin
+end
+
+procedure destroy_p_proc begin
+end
+
+procedure damage_p_proc begin
+end
+
+procedure look_at_p_proc begin
+end
+
+procedure description_p_proc begin
+end
+
+procedure use_obj_on_p_proc begin
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure map_enter_p_proc begin
+
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_DOG);
+   if (local_var(LVAR_Home_Tile) == 0) then begin
+      set_local_var(LVAR_Home_Tile, self_tile);
+      add_timer_event(self_obj,game_ticks(random(90,120)),1);
+   end
+end
+procedure map_exit_p_proc begin
+end
+procedure use_p_proc begin
+end
+
+procedure map_update_p_proc begin
+end

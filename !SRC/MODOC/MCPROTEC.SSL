@@ -1,0 +1,215 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Protector
+        Location: Modoc
+        Description: Ghost town protectors
+
+        Log: the following defines need to be changed:
+
+
+          Created: February 15, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                        SCRIPT_MCPROTEC
+#define TOWN_REP_VAR                GVAR_TOWN_REP_GHOST_FARM
+
+#include "..\headers\command.h"
+#include "..\headers\modoc.h"
+//#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure map_update_p_proc;
+
+// dialog nodes
+procedure Node000;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+
+procedure Node999;                                      // This is the do nothing node
+procedure Node998;                                      // This Node is Always Combat
+procedure Node996;
+
+#define LVAR_Flags                     (0)
+#define LVAR_Home_Tile                 (1)
+#define LVAR_Told_Surrender            (2)
+
+#define set_update_time             update_time := game_time + (15 * ONE_GAME_MINUTE)
+#define late_update                 (game_time > update_time)
+
+variable update_time;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   //add_timer_event(self_obj,game_ticks(random(1,7)),1);
+end
+
+procedure map_enter_p_proc begin
+   set_update_time;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAG);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         inc_slag_cnt;
+         set_local_var(LVAR_Home_Tile, self_tile);
+         check_set_obj_visiblility(self_obj, true);
+      end
+      off_protector_said_message;
+      check_put_slags_out
+      check_destroy_slag
+   end
+end
+
+procedure map_update_p_proc begin
+   if (late_update) then begin
+      check_put_slags_out
+   end
+   set_update_time;
+end
+
+procedure map_exit_p_proc begin
+   if (slag_in_cave) then begin
+      if ((attacking_slags) or (all_slags_dead)) then begin
+         destroy_object(self_obj);
+      end
+   end
+end
+
+procedure critter_p_proc begin
+   if (self_visible) then begin
+      if (self_can_see_dude) then begin
+         if ((hostile) or (attacking_slags) or (enemy_slags)) then begin
+            self_attack_dude;
+         end else if (protector_said_message == false) then begin
+            if ((spoke_to_vegeir == false) and (slag_in_farm)) then begin
+               dialogue_system_enter;
+            end
+         end
+      end else if (slags_spot_dude) then begin
+         if (spoke_to_vegeir == false) then begin
+            point_run_next_and_face_Rate(dude_obj, 7)
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   if ((attacking_slags) or (enemy_slags)) then begin
+      self_attack_dude;
+   end else if ( (get_ending_state == ending_state_happy) and (global_var(GVAR_MODOC_JONNY_HOME) == home_flag_jonny_at_home) ) then begin
+      call Node004;
+   end else if ( (slag_in_cave) or (global_var(GVAR_MODOC_MESSAGE) == message_state_given) ) then begin
+      if (ghost_farm_seed_completed) then begin
+         call node004;
+      end else begin
+         call node003;
+      end
+   end else begin
+      script_overrides;
+      set_protector_said_message;
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         if (message_flag_given) then begin
+            call Node002;
+         end else begin
+            call Node000;
+         end
+      gSay_End;
+      end_dialogue;
+      set_herebefore;
+   end
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+   dec_slag_cnt;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+// dialog action functions
+procedure Node999 begin
+  // do absolutely everything that pertains to nothing
+end
+procedure Node998 begin
+   set_enemy_slags;
+   set_hostile;
+end
+procedure Node996 begin
+   set_surrendered_to_slag_on;
+   gfade_out(5);
+   load_map(MAP_GHOST_CAVERN, vegier_talk_tile);
+end
+
+// dialog nodes
+procedure Node000 begin
+   set_global_var(GVAR_MODOC_SPOKE_PROTECTOR,true);
+   Reply(150);
+   NOption(151,Node996,004);
+   BOption(152,Node998,004);
+   NOption(g_grunt,Node005,-003);
+end
+procedure Node002 begin
+   Reply(154);
+   NOption(156,Node996,004);
+   NOption(155,Node999,004);
+   NOption(g_grunt,Node005,-003);
+end
+
+procedure Node003 begin
+   floater_rand(200, 203);
+end
+
+procedure Node004 begin
+   floater_rand(220, 222);
+end
+
+procedure Node005 begin
+   Reply(160);
+   NOption(g_grunt,Node999,001);
+end

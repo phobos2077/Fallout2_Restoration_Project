@@ -1,0 +1,121 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Klamath Brahmin for Graze map
+        Location: Wherever
+        Description: same as above
+
+        Log:
+
+           Created: April 20,1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+#include "..\headers\kladwtn.h"
+
+#define NAME                    SCRIPT_ZCBRAHMN
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure push_p_proc;
+
+#define br_mstr(x)                              message_str(SCRIPT_ZCBRAHMN,x)
+
+procedure timed_event_p_proc begin
+end
+
+procedure start begin
+end
+
+procedure critter_p_proc begin
+end
+
+procedure pickup_p_proc begin
+end
+procedure talk_p_proc begin
+end
+
+procedure destroy_p_proc begin
+  set_global_var(GVAR_TORR_BRAHMIN_KILLED,global_var(GVAR_TORR_BRAHMIN_KILLED)+1);
+  if (source_obj == dude_obj) then begin
+     set_global_var(GVAR_RUSTLE_FAIL,1); //if dude starts killing brahmin rustle will fail
+     set_map_var(MVAR_Dude_Bad,1);
+  end
+end
+
+procedure damage_p_proc begin
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(br_mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(br_mstr(105));
+end
+
+procedure push_p_proc begin
+   script_overrides;
+end
+
+procedure use_obj_on_p_proc begin
+   // if you give a Brahmin beer or booze, it'll fall down and take damage. This was pulled from the original
+   //    fallout script
+   if ((obj_pid(obj_being_used_with) == PID_BEER)
+    or (obj_pid(obj_being_used_with) == PID_BOOZE)) then begin
+      variable item := 0;
+      script_overrides;
+      item := obj_being_used_with;
+      rm_obj_from_inven(source_obj,obj_being_used_with);
+      destroy_object(item);
+      if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == FALSE) then begin
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+            reg_anim_animate(self_obj,ANIM_hit_from_front,-1);
+            reg_anim_animate(self_obj,ANIM_fall_back,5);
+            reg_anim_animate(self_obj,ANIM_fall_back_sf,-1);
+         reg_anim_end();
+         critter_injure(self_obj,DAM_KNOCKED_DOWN);
+      end
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   // a good science skill check will give you a little more info about the brahmin.
+   if (action_being_used == SKILL_SCIENCE) then begin
+      script_overrides;
+      if (is_success(roll_vs_skill(dude_obj,action_being_used,0))) then
+         display_msg(br_mstr(101));
+      else
+         display_msg(br_mstr(102));
+   end else if (action_being_used == SKILL_STEAL) then
+      script_overrides;
+end
+
+procedure map_enter_p_proc begin
+   if (global_var(GVAR_RUSTLE_SUCCESS) != 0) then begin //Hack for alpah...use critter attempt placement
+        set_obj_visibility(self_obj,1);
+   end
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BRAHMIN);
+   //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ARROYO_VILLAGER);
+end

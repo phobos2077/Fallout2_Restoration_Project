@@ -1,0 +1,746 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: McGee's Slot Machine
+        Location: NewReno
+        Description:
+
+        Log:
+
+           Created: April 24, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                              SCRIPT_NIMCGSLT
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+#include "..\headers\NewR2.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node000;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Slot_Type                    (0)
+#define LVAR_Jackpot                      (1)
+#define LVAR_Caps                         (2)
+#define LVAR_Repaired                     (3)
+#define LVAR_Flags                        (4)
+
+#define normal_low_bet                    (1)
+#define normal_penalty                    (0)
+#define normal_max_level                  level_5_payoff_mult
+#define normal_coin_max                   (5)
+
+#define high_roller_low_bet               (1)
+#define high_roller_penalty               (-10)
+#define high_roller_max_level             level_7_payoff_mult
+#define high_roller_coin_max              (5)
+
+#define jackpot_low_bet                   (1)
+#define jackpot_penalty                   ((-45 * (dude_luck < 9)) + (75 * (dude_luck >= 9)))  // easy if dude has lots of luck
+#define jackpot_max_level                 level_8_payoff_mult
+#define jackpot_coin_max                  (5)
+
+#define won_jackpot                       (local_var(LVAR_Jackpot) == true)    /*killap's fix: added == true*/  // this can include conditions
+                                                                           //    such as including time into the formula
+                                                                           //    so they can play again
+                                                                           //    note: setting this to false
+                                                                           //          will allow the player to continue
+                                                                           //          will continue playing even after
+                                                                           //          getting a jackpot
+#define set_won_jackpot                   set_local_var(LVAR_Jackpot, true);     // if more people need to know, you can
+                                                                                       //    change to a global or map var
+
+#define set_slot_type                     if (local_var(LVAR_Slot_Type) == slot_type_none) then begin       \
+                                             set_local_var(LVAR_Slot_Type, slot_type_jackpot);              \
+                                          end
+#define level_penalty                     (-5 * (dude_luck < 9))              // this is the penalty added every payoff level
+// keeping these numbers in order is important since this is part of the game/script mechanics
+#define cherry_msg_num                    (1001)
+#define orange_msg_num                    (1002)
+#define plum_msg_num                      (1003)
+#define bell_msg_num                      (1004)
+#define bar_msg_num                       (1005)
+#define melon_msg_num                     (1006)
+#define seven_msg_num                     (1007)
+// these could be changed but they are set at the standard
+#define level_1_payoff_mult               (2)
+#define level_2_payoff_mult               (5)
+#define level_3_payoff_mult               (10)
+#define level_4_payoff_mult               (15)
+#define level_5_payoff_mult               (25)
+#define level_6_payoff_mult               (100)
+#define level_7_payoff_mult               (100)
+#define level_8_payoff_mult               (200)
+
+#define level_1_payoff                    (level_1_payoff_mult * (coin_mult*low_bet))
+#define level_2_payoff                    (level_2_payoff_mult * (coin_mult*low_bet))
+#define level_3_payoff                    (level_3_payoff_mult * (coin_mult*low_bet))
+#define level_4_payoff                    (level_4_payoff_mult * (coin_mult*low_bet))
+#define level_5_payoff                    (level_5_payoff_mult * (coin_mult*low_bet))
+#define level_6_payoff                    (level_6_payoff_mult * (coin_mult*low_bet))
+#define level_7_payoff                    (level_7_payoff_mult * (coin_mult*low_bet))
+#define level_8_payoff                    (level_8_payoff_mult * (coin_mult*low_bet))
+
+#define restock_time                      (0)                // set this to 0 for no restock
+
+#define machine_max_payoff                (max_level * low_bet * coin_max)
+#define machine_starting_caps             (3*machine_max_payoff)
+
+// defines
+#define slot_type_none                    (0)
+#define slot_type_normal                  (1)
+#define slot_type_high_roller             (2)
+#define slot_type_jackpot                 (3)
+#define normal_machine                    (local_var(LVAR_Slot_Type) == slot_type_normal)
+#define high_roller_machine               (local_var(LVAR_Slot_Type) == slot_type_high_roller)
+#define jackpot_machine                   (local_var(LVAR_Slot_Type) == slot_type_jackpot)
+
+#define coin_max                          ((normal_coin_max*normal_machine) + (high_roller_coin_max*high_roller_machine) + (jackpot_coin_max*jackpot_machine))
+#define max_level                         ((normal_max_level*normal_machine) + (high_roller_max_level*high_roller_machine) + (jackpot_max_level*jackpot_machine))
+#define low_bet                           ((normal_low_bet*normal_machine) + (high_roller_low_bet*high_roller_machine) + (jackpot_low_bet*jackpot_machine))
+#define slot_penalty                      (jackpot_penalty*jackpot_machine)
+
+#define repair_none                       (0)
+#define repair_critical_fail              (1)
+#define repair_failure                    (2)
+#define repair_success                    (3)
+#define repair_critical_success           (4)
+#define machine_repair_bonus              ((-50 * (local_var(LVAR_Repaired) == repair_critical_fail)) +  \
+                                           (-25 * (local_var(LVAR_Repaired) == repair_failure)) +         \
+                                           (5 * (local_var(LVAR_Repaired) == repair_success)) +   /*changed from 0*/     \
+                                           (10 * (local_var(LVAR_Repaired) == repair_critical_success))) /*changed from == machine_repair_bonus*/
+#define get_slot_penalty                  ((slot_penalty + (win_payoff * jackpot_penalty)) + machine_repair_bonus) /*added bonus-killap*/
+#define slot_roll                         (roll_vs_skill(dude_obj, SKILL_GAMBLING, get_slot_penalty)) 
+
+#define slot_floater(x)                   float_msg(self_obj, message_str(NAME,x), FLOAT_COLOR_SFX)
+#define slot_floater_rand(x,y)            slot_floater(random(x,y))
+#define slot_mstr(x)                      message_str(SCRIPT_ZISLOTS, x)
+#define slot_reply(x)                     gSay_Reply(SCRIPT_ZISLOTS,x)
+#define slot_display_mstr(x)              display_msg(slot_mstr(x))
+#define slot_option(x, y, z)              giQ_Option(z,SCRIPT_ZISLOTS,x,y,NEUTRAL_REACTION)
+
+#define rand_sym_num                      (random(orange_msg_num,seven_msg_num))    // note: this does not include cherries since 1 or more is a payoff
+#define rand_bar_num(the_num)             (the_num + ((random(1,2) == 1) * (bar_msg_num - the_num)))
+#define slot_tube_size                    (local_var(LVAR_Caps))
+#define lowest_jackpot_payoff             (level_6_payoff_mult * low_bet * coin_mult)
+
+//comment out by killap
+//#define do_slot_payoff(x)                 if (x < 473) then begin                                                 \
+//                                            item_caps_adjust(dude_obj, 473);                                     \
+//                                          end else begin                                                          \
+//                                            item_caps_adjust(dude_obj, x);                                       \
+//                                          end                                                                     \
+//                                          if ((x>=lowest_jackpot_payoff) and (coin_mult==coin_max)) then begin    \
+//                                            set_won_jackpot                                                      \
+//                                            set_global_var(GVAR_NEW_RENO_MCGEE_SEED, mcgee_state_jackpot); /*added by killap*/  \
+//                                          end                                                                     \
+//                                          debug_msg("\nSlot money remaining == "+local_var(LVAR_Caps));
+//end comment out by killap                                       
+                                         
+#define block_play_check                  (won_jackpot) or (dude_caps < low_bet)
+
+
+//killap code
+#define do_slot_payoff(x)                 item_caps_adjust(dude_obj, x);                                          \
+                                          if ((x>=lowest_jackpot_payoff) and (coin_mult==coin_max)) then begin    \
+                                             set_won_jackpot                                                      \
+                                             set_global_var(GVAR_NEW_RENO_MCGEE_SEED, mcgee_state_jackpot);       \
+                                          end                                                                     \
+                                          if (x > 0) then begin                                                   \
+                                             play_sfx("winner");                                                  \
+                                          end else if (x == 0) then begin                                         \
+                                             play_sfx("looser");                                                  \
+                                          end                                                                     \
+                                          debug_msg("\nSlot money remaining == "+local_var(LVAR_Caps));
+//end killap code
+
+//((slot_tube_size <= 0) or 
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+variable coin_mult;
+variable win_payoff;
+variable reel_1;
+variable reel_2;
+variable reel_3;
+
+import variable mcGeeSlotMachineOBJ;
+import variable mcGeeOBJ;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if ((combat_is_initialized == false) and (self_distance_from_dude <= 5)) then begin
+      slot_floater_rand(203-(3*dude_is_male*dude_is_high), 212+(4*dude_is_female*dude_is_high));
+   end
+   nr_add_timer_event_rand(self_obj, 15, 30, float_param);
+end
+
+procedure map_enter_p_proc begin
+variable temp;
+   mcGeeSlotMachineOBJ := self_obj;
+   if (map_first_run) then begin
+      set_slot_type
+   end
+   nr_add_timer_event_rand(self_obj, 5, 30, float_param);
+end
+
+procedure damage_p_proc begin
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   start_gdialog(NAME,self_obj,4,-1,-1);
+   gSay_Start;
+      call Node000;
+   gSay_End;
+   end_dialogue;
+end
+
+procedure use_p_proc begin
+   if (source_obj == dude_obj) then begin
+      dialogue_system_enter;
+   end
+end
+
+procedure destroy_p_proc begin
+   mcGeeSlotMachineOBJ := 0;
+end
+
+
+#define rand_description      slot_mstr((high_roller_machine*random(165,165)) +        \
+                                        (jackpot_machine*random(180,180)) +            \
+                                        (normal_machine*random(151-dude_is_high,151)))
+procedure look_at_p_proc begin
+   script_overrides;
+   if (dude_has_gambling_skills) then begin
+      display_mstr(150);
+   end else begin
+      slot_display_mstr(100);
+   end
+end
+procedure description_p_proc begin
+variable the_text;
+   script_overrides;
+   if (dude_has_gambling_skills) then begin
+      display_mstr(150 + (examined));
+   end else begin
+      display_msg(slot_mstr(100) + slot_mstr(random(130,130)));
+   end
+   set_examined;
+end
+
+procedure use_obj_on_p_proc begin
+   variable Tool;
+   variable the_roll;
+   variable item;
+   
+   script_overrides;
+   
+   if (mcgee_playing_slots) then begin
+         display_mstr(321);
+   end else if ((mcgee_jackpot) or (mcgee_jackpot_settled)) then begin
+         display_mstr(322);
+   end else if (local_var(LVAR_Repaired) != repair_none) then begin
+         display_mstr(323);
+   end else begin
+         Tool:=obj_pid(obj_being_used_with);
+         
+         if ( Tool == PID_MULTI_TOOL) then begin
+            the_roll:=roll_vs_skill(dude_obj,SKILL_REPAIR,-20);
+         end else if ( Tool == PID_SUPER_TOOL_KIT ) then begin
+            the_roll:=roll_vs_skill(dude_obj,SKILL_REPAIR,-10);
+         end
+         
+         if (not(is_success(the_roll))) then begin //killap's fix: added (not(
+            if (is_critical(the_roll)) then begin
+               display_mstr(324);
+               set_local_var(LVAR_Repaired, repair_critical_fail);
+            end else begin
+               display_mstr(325);
+               set_local_var(LVAR_Repaired, repair_failure);
+            end
+         end else begin
+            display_mstr(326);
+            if (is_critical(the_roll)) then begin
+               set_local_var(LVAR_Repaired, repair_critical_success);
+               give_xp(EXP_REPAIR_MCGEE_SLOT_MACHINE_BEST);
+            end else begin
+               set_local_var(LVAR_Repaired, repair_success);
+               give_xp(EXP_REPAIR_MCGEE_SLOT_MACHINE_GOOD);
+            end
+         end
+   end
+end
+
+procedure use_skill_on_p_proc begin
+variable the_roll;
+   //killap code
+   if (not(mcgee_jackpot_settled)) then
+      set_mcgee_played_machine
+   //end killap code
+   
+   if ((action_being_used == SKILL_GAMBLING) and (dude_has_gambling_skills)) then begin
+      script_overrides;
+      display_mstr(320);
+//      set_mcgee_played_machine - killap comment out
+   end else if (action_being_used == SKILL_REPAIR) then begin
+      script_overrides;
+      the_roll := roll_vs_skill(dude_obj, action_being_used ,0);
+      if (mcgee_playing_slots) then begin
+         display_mstr(321);
+      end else if ((mcgee_jackpot) or (mcgee_jackpot_settled)) then begin
+         display_mstr(322);
+      end else if (local_var(LVAR_Repaired) != repair_none) then begin
+         display_mstr(323);
+      end else begin
+//         set_mcgee_played_machine - killap comment out
+         the_roll := roll_vs_skill(dude_obj, SKILL_REPAIR, 0);
+         if (not(is_success(the_roll))) then begin //killap's fix: added (not(
+            if (is_critical(the_roll)) then begin
+               display_mstr(324);
+               set_local_var(LVAR_Repaired, repair_critical_fail);
+            end else begin
+               display_mstr(325);
+               set_local_var(LVAR_Repaired, repair_failure);
+            end
+         end else begin
+            display_mstr(326);
+            if (is_critical(the_roll)) then begin
+               set_local_var(LVAR_Repaired, repair_critical_success);
+               give_xp(EXP_REPAIR_MCGEE_SLOT_MACHINE_BEST);
+            end else begin
+               set_local_var(LVAR_Repaired, repair_success);
+               give_xp(EXP_REPAIR_MCGEE_SLOT_MACHINE_GOOD);
+            end
+         end
+      end
+   end
+end
+
+procedure Node998 begin
+end
+procedure Node999 begin
+end
+
+procedure Node997 begin
+ variable the_roll1;
+ variable penalty;
+ 
+ penalty := ( ((-145 * (dude_luck < 9)) + (75 * (dude_luck >= 8))) + (machine_repair_bonus) + (coin_mult*10) );
+ 
+ debug_msg("machine bonus" + machine_repair_bonus);
+ debug_msg("total penalty" + penalty);
+ the_roll1 := (roll_vs_skill(dude_obj, SKILL_GAMBLING, penalty));
+ 
+ if (is_success(the_roll1)) then begin
+   win_payoff := 500;
+   call Node002; 
+ end else begin
+   win_payoff := 0;
+   call Node002;
+ end
+
+end
+
+
+
+/*procedure Node997 begin
+variable the_roll1;
+variable the_roll2;
+   // pull handle
+   if (block_play_check == false) then begin
+      win_payoff := 0;
+      the_roll1 := slot_roll;
+      if ((is_success(the_roll1)) and (max_level >= level_1_payoff_mult)) then begin
+         win_payoff := 1;
+         the_roll2 := slot_roll;
+         if (((is_critical(the_roll1)) or (is_success(the_roll2))) and (max_level >= level_2_payoff_mult)) then begin
+            win_payoff := 2;
+            the_roll1 := slot_roll;
+            if (((is_critical(the_roll2)) or (is_success(the_roll1))) and (max_level >= level_3_payoff_mult)) then begin
+               win_payoff := 3;
+               the_roll2 := slot_roll;
+               if (((is_critical(the_roll1)) or (is_success(the_roll2))) and (max_level >= level_4_payoff_mult)) then begin
+                  win_payoff := 4;
+                  the_roll1 := slot_roll;
+                  if (((is_critical(the_roll2)) or (is_success(the_roll1))) and (max_level >= level_5_payoff_mult)) then begin
+                     win_payoff := 5;
+                     the_roll2 := slot_roll;
+                     if (((is_critical(the_roll1)) or (is_success(the_roll2))) and (max_level >= level_6_payoff_mult)) then begin
+                        win_payoff := 6;
+                        the_roll1 := slot_roll;
+                        if (((is_critical(the_roll2)) or (is_success(the_roll1))) and (max_level >= level_7_payoff_mult)) then begin
+                           win_payoff := 7;
+                           the_roll2 := slot_roll;
+                           if (((is_critical(the_roll1)) or (is_success(the_roll2))) and (max_level >= level_8_payoff_mult)) then begin
+                              win_payoff := 8;
+                           end
+                        end
+                     end
+                  end
+               end
+            end
+         end
+      end
+      display_msg("variable: " + get_slot_penalty);
+      // goto display results node
+      call Node002;
+   end else begin
+      debug_msg("\nPLAY BLOCKED");
+      debug_msg("\n   slot_tube_size == "+slot_tube_size);
+      debug_msg("\n   won_jackpot == "+won_jackpot);
+   end
+end*/
+// related to the number of coins inserted
+procedure Node981 begin
+   coin_mult := 1;
+   call Node997;
+end
+procedure Node982 begin
+   coin_mult := 2;
+   call Node997;
+end
+procedure Node983 begin
+   coin_mult := 3;
+   call Node997;
+end
+procedure Node984 begin
+   coin_mult := 4;
+   call Node997;
+end
+procedure Node985 begin
+   coin_mult := 5;
+   call Node997;
+end
+
+#define rand_luck_message           (slot_mstr(3000) + slot_mstr(random(1105,1107)) + slot_mstr(random(3001,3002)))
+#define insert_coin_options(the_slot, the_node)                                                                         \
+        if ((coin_max >= the_slot) and (dude_caps >= (the_slot*low_bet))) then begin                                    \
+           if (dude_caps == low_bet) then begin                                                                         \
+              slot_option(slot_mstr(252) + (the_slot*low_bet) + slot_mstr(253), the_node, 001);                         \
+           end else if ((the_slot == coin_max) and (has_skill(dude_obj, SKILL_GAMBLING) >= 50)) then begin              \
+              slot_option(slot_mstr(250) + (the_slot*low_bet) + slot_mstr(251) + rand_luck_message, the_node, 001);     \
+           end else begin                                                                                               \
+              slot_option(slot_mstr(250) + (the_slot*low_bet) + slot_mstr(251), the_node, 001);                         \
+           end                                                                                                          \
+        end
+#define show_insert_coin_options    if (won_jackpot) then begin                                       \
+                                       NOption(311, Node003, 001);                                    \
+                                    end else begin                                                    \
+                                       insert_coin_options(1, Node981)                                \
+                                       insert_coin_options(2, Node982)                                \
+                                       insert_coin_options(3, Node983)                                \
+                                       insert_coin_options(4, Node984)                                \
+                                       insert_coin_options(5, Node985)                                \
+                                       if (dude_is_high == false) then begin                          \
+                                          slot_option(254+(dude_caps==0)+(night*2), Node999, 001);    \
+                                       end else begin                                                 \
+                                          slot_option(258+dude_is_male, Node999, 001);                \
+                                       end                                                            \
+                                    end
+
+procedure Node000 begin
+   if (dude_has_gambling_skills == false) then begin
+      call Node004;
+   end else if (block_play_check) then begin
+      call Node003;
+   end else begin
+      call Node001;
+   end
+   //killap code
+   if (not(mcgee_jackpot_settled)) then
+      set_mcgee_played_machine
+   //end killap code
+end
+
+procedure Node001 begin
+   // play
+   Reply(245 + (dude_is_high));   //killap's fix: changed from slot_replay
+   show_insert_coin_options
+end
+
+#define payoff_msg_bonus      ((win_payoff>=level_6_payoff)+(win_payoff>=level_3_payoff)+(win_payoff>=level_2_payoff))
+procedure Node002 begin
+variable temp;
+   // take initial money
+   do_slot_payoff(-(coin_mult*low_bet))
+
+   temp := random(1,3);
+   // these setup the reels to match the payoff as well as the pay off multiplier
+   if (win_payoff == 1) then begin
+      win_payoff := level_1_payoff_mult;
+      // this will put the cherry in a random spot
+      if (temp == 1) then reel_1 := cherry_msg_num;
+      else reel_1 := rand_sym_num;
+      if (temp == 2) then reel_2 := cherry_msg_num;
+      else reel_2 := rand_sym_num;
+      if (temp == 3) then reel_3 := cherry_msg_num;
+      else reel_3 := rand_sym_num;
+   end else if (win_payoff == 2) then begin
+      win_payoff := level_2_payoff_mult;
+      // this will put the cherries in random spots
+      if (temp != 1) then reel_1 := cherry_msg_num;
+      else reel_1 := rand_sym_num;
+      if (temp != 2) then reel_2 := cherry_msg_num;
+      else reel_2 := rand_sym_num;
+      if (temp != 3) then reel_3 := cherry_msg_num;
+      else reel_3 := rand_sym_num;
+   end else if (win_payoff == 3) then begin
+      win_payoff := level_3_payoff_mult;
+      // this will possibly put in a random bar
+      if (temp == 1) then reel_1 := rand_bar_num(orange_msg_num);
+      else reel_1 := orange_msg_num;
+      if (temp == 2) then reel_2 := rand_bar_num(orange_msg_num);
+      else reel_2 := orange_msg_num;
+      if (temp == 3) then reel_3 := rand_bar_num(orange_msg_num);
+      else reel_3 := orange_msg_num;
+   end else if (win_payoff == 4) then begin
+      win_payoff := level_4_payoff_mult;
+      // this will possibly put in a random bar
+      if (temp == 1) then reel_1 := rand_bar_num(plum_msg_num);
+      else reel_1 := plum_msg_num;
+      if (temp == 2) then reel_2 := rand_bar_num(plum_msg_num);
+      else reel_2 := plum_msg_num;
+      if (temp == 3) then reel_3 := rand_bar_num(plum_msg_num);
+      else reel_3 := plum_msg_num;
+   end else if (win_payoff == 5) then begin
+      win_payoff := level_5_payoff_mult;
+      // this will possibly put in a random bar
+      if (temp == 1) then reel_1 := rand_bar_num(bell_msg_num);
+      else reel_1 := bell_msg_num;
+      if (temp == 2) then reel_2 := rand_bar_num(bell_msg_num);
+      else reel_2 := bell_msg_num;
+      if (temp == 3) then reel_3 := rand_bar_num(bell_msg_num);
+      else reel_3 := bell_msg_num;
+   end else if (win_payoff == 6) then begin
+      win_payoff := level_7_payoff_mult;
+      // this will possibly put in a random bar
+      if (temp == 1) then reel_1 := rand_bar_num(melon_msg_num);
+      else reel_1 := melon_msg_num;
+      if (temp == 2) then reel_2 := rand_bar_num(melon_msg_num);
+      else reel_2 := melon_msg_num;
+      if (temp == 3) then reel_3 := rand_bar_num(melon_msg_num);
+      else reel_3 := melon_msg_num;
+   end else if (win_payoff == 7) then begin
+      win_payoff := level_6_payoff_mult;
+      reel_1 := bar_msg_num;
+      reel_2 := bar_msg_num;
+      reel_3 := bar_msg_num;
+   end else if (win_payoff == 8) then begin
+      win_payoff := level_8_payoff_mult;
+      reel_1 := seven_msg_num;
+      reel_2 := seven_msg_num;
+      reel_3 := seven_msg_num;
+   end else begin
+      if (win_payoff != 500) then
+         win_payoff := 0;
+      reel_1 := rand_sym_num;
+      reel_2 := rand_sym_num;
+      if (reel_1 != reel_2) then reel_3 := rand_sym_num;
+      else begin
+         // makes sure the player doesn't get three
+         reel_3 := rand_sym_num;
+         while ((reel_3 == reel_1) or (reel_3 == bar_msg_num)) do begin
+            reel_3 += 1;
+            if (reel_3 > seven_msg_num) then reel_3 := orange_msg_num;
+         end
+      end
+   end
+
+   // build the message
+   //if ((level_6_payoff_mult <= win_payoff) and (coin_mult==coin_max)) then begin
+   if (win_payoff == 500) then begin
+     set_won_jackpot
+     set_global_var(GVAR_NEW_RENO_MCGEE_SEED, mcgee_state_jackpot);  //added by killap
+     temp := mstr(310);
+   end else begin
+      temp := mstr(260 /*+ (win_payoff==0) - comment out by killap*/) + slot_mstr(reel_1) + slot_mstr(599) + slot_mstr(reel_2) + slot_mstr(599) + slot_mstr(reel_3) + slot_mstr(599);
+      if ((level_8_payoff_mult <= win_payoff) and (coin_mult==coin_max)) then begin
+         // double jackpot
+         temp += slot_mstr(605);
+      end else if ((level_6_payoff_mult <= win_payoff) and (coin_mult==coin_max)) then begin
+         // jackpot
+         temp += slot_mstr(604);
+      end else if (level_3_payoff_mult <= win_payoff) then begin
+         // three match
+         //    note: the formula for the reel is to make sure it doesn't print three bar unless it's three bars
+         temp += (slot_mstr(603) + slot_mstr(((reel_1 * (reel_1 != bar_msg_num)) + (reel_2 * (reel_1 == bar_msg_num)))+100) + slot_mstr(613));
+      end else if (level_2_payoff_mult <= win_payoff) then begin
+         // two cherries
+         temp += slot_mstr(602);
+      end else if (level_1_payoff_mult <= win_payoff) then begin
+         // one cherry
+         temp += slot_mstr(601);
+      end else begin
+         // nothing
+         temp += slot_mstr(600);
+      end
+      win_payoff := win_payoff * (coin_mult*low_bet);
+      if (win_payoff > 0) then begin
+         temp += slot_mstr(700) + win_payoff + slot_mstr(701);
+      end
+      if (dude_is_high) then begin
+         if (win_payoff == 0) then begin
+            temp += mstr(251);
+         end else if (win_payoff/(coin_mult*low_bet) >= level_3_payoff_mult) then begin
+            temp += mstr(265);
+         end else if (win_payoff/(coin_mult*low_bet) >= level_2_payoff_mult) then begin
+            temp += mstr(261);
+         end else begin
+            temp += mstr(255);
+         end
+      end
+   end
+
+   // pay them off now
+   //added by killap
+   if (won_jackpot) then
+      win_payoff := 500;
+   //end added by killap  
+   do_slot_payoff(win_payoff)
+
+   slot_reply(temp);
+   show_insert_coin_options
+end
+procedure Node003 begin
+   if ((dude_caps < low_bet) and (won_jackpot == false)) then begin
+      slot_reply(2175);
+      slot_option(2176,Node999,001);
+   end else begin
+      Reply(315);
+      slot_option(2186,Node999,001);
+   end
+end
+procedure Node004 begin
+   Reply(230);
+   slot_option(slot_mstr(2101) + dude_name + slot_mstr(2102),Node005,-003);
+   slot_option(slot_mstr(2103) + dude_name + slot_mstr(2104),Node005,-003);
+   slot_option(2105,Node006,-003);
+   slot_option(2106,Node005,-003);
+   slot_option(2107,Node005,-003);
+   slot_option(2108,Node005,-003);
+   slot_option(2109,Node999,-003);
+   slot_option(2110,Node999,004);
+end
+procedure Node005 begin
+   Reply(235);
+   slot_option(slot_mstr(2131) + dude_name + slot_mstr(2132), Node005, -003);
+   slot_option(2133,Node006,-003);
+   slot_option(2134,Node005,-003);
+   slot_option(2135,Node005,-003);
+   slot_option(2136,Node005,-003);
+   slot_option(2137,Node999,-003);
+   slot_option(2138,Node999,004);
+end
+procedure Node006 begin
+   Reply(240);
+   slot_option(2152,Node999,001);
+   slot_option(2153,Node999,004);
+end
+
+procedure Node013 begin
+   Reply(270);
+   slot_option(2282,Node014,001);
+   slot_option(2283,Node014,001);
+   slot_option(2284,Node999,001);
+end
+
+procedure Node014 begin
+   Reply(275);
+   slot_option(2302,Node015,001);
+   slot_option(2303,Node001,001);
+   if (dude_is_male) then begin
+      slot_option(2304,Node999,001);
+   end
+   slot_option(2305,Node999,001);
+end
+
+procedure Node015 begin
+   Reply(280);
+   slot_option(2322,Node016,001);
+   slot_option(2303,Node001,001);
+   if (dude_is_male) then begin
+      slot_option(2304,Node999,001);
+   end
+   slot_option(2305,Node999,001);
+end
+
+procedure Node016 begin
+   Reply(285);
+   if (enclave_destroyed) then begin
+      slot_option(2345,Node017,001);
+      slot_option(2346,Node017,001);
+      slot_option(2347,Node017,001);
+   //end else if (on_fix_tanker_quest) then begin
+   end else if (Fallout2_fix_tanker) or (Fallout2_tanker_known) then begin //edit by killap
+      slot_option(2344,Node017,001);
+   end else if (tribe_kidnapped) then begin
+      slot_option(2343,Node017,001);
+   end else if (looking_for_vault_13) then begin
+      slot_option(2342,Node017,001);
+   end
+   slot_option(2348,Node017,001);
+   slot_option(2305,Node999,001);
+end
+
+procedure Node017 begin
+   slot_option(2372,Node018,001);
+   slot_option(2373,Node018,001);
+   slot_option(2305,Node999,001);
+end
+
+procedure Node018 begin
+   Reply(300);
+   NOption(301,Node019,001);
+end
+
+procedure Node019 begin
+   Reply(305);
+   NOption(306,Node999,001);
+end

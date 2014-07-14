@@ -1,0 +1,55 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Plow 1
+        Description: Vault City
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_VIPLOW1
+#define CUR_COMP_SCRIPT         SCRIPT_VIPLOW1
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+import variable plow1;
+
+procedure start begin
+   plow1 := self_obj;
+end
+
+procedure map_enter_p_proc begin
+   plow1 := self_obj;
+
+   if( ( global_var( GVAR_VAULT_PLOW_PROBLEM ) == PLOW_FIXED ) or
+       ( global_var( GVAR_VAULT_PLOW_PROBLEM ) == PLOW_NEED_REWARD ) ) then begin
+      if( not( self_visible ) ) then
+         set_obj_visibility( self_obj, false );
+   end
+   else begin
+      if( self_visible ) then
+         set_obj_visibility( self_obj, true );
+   end
+end
+
+procedure map_update_p_proc begin
+   plow1 := self_obj;
+end

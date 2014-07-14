@@ -1,0 +1,639 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Joey the Thug
+        Location: Den
+        Description:
+
+        Log: the following defines need to be changed:
+
+           Created: December 31, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\den.h"
+
+#define NAME                        SCRIPT_DCJOEY
+#define TOWN_REP_VAR                GVAR_TOWN_REP_THE_DEN
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+#include "..\headers\DenRes1.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+// dialog nodes
+procedure Node000;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+/*
+procedure Node026;
+procedure Node027;
+procedure Node028;
+*/
+
+procedure Node998;                                      // This Node is Always Combat
+
+procedure Node996;
+procedure Node995;
+procedure Node994;
+procedure Node993;
+procedure Node992;
+procedure Node991;
+procedure Node990;
+procedure Node989;
+procedure Node988;
+procedure Node987;
+procedure Node986;
+procedure Node985;
+procedure Node984;
+procedure Node983;
+procedure Node982;
+procedure Node981;
+procedure Node980;
+procedure Node979;
+procedure Node978;
+procedure Node977;
+
+#define LVAR_Flags                        (4)
+#define LVAR_Next_Sex_Time                (5)
+#define LVAR_Home_Tile                    (6)
+
+#define gave_locket_bit                   bit_10
+
+#define gave_locket                       lvar_bit(LVAR_Flags, gave_locket_bit)
+#define set_gave_locket                   set_lvar_bit_on(LVAR_Flags, gave_locket_bit)
+
+variable locket_cost := 0;
+import variable joey_obj;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == timed_event_post_sex) then begin
+      force_dialog_start("Node014");
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_local_var(LVAR_Home_Tile, tile_num(self_obj));
+         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_DEN_THUG);
+         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_THUG);
+      end else if ((tile_num(self_obj)) != local_var(LVAR_Home_Tile)) then begin
+//       critter_attempt_placement(self_obj, LVAR_Home_Tile, self_elevation);    //commented out by killap
+         set_local_var(LVAR_Home_Tile, tile_num(self_obj));                     //added by killap
+      end
+   end
+   joey_obj := self_obj;
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if ((hostile) or (thugs_hostile)) then begin
+         self_attack_dude;
+      end
+   end
+   
+   // added by killap
+   if ((tile_num(self_obj) != local_var(LVAR_Home_Tile)) and not((hostile) or (thugs_hostile)) and not(combat_is_initialized) ) then begin
+      animate_move_to_tile(local_var(LVAR_Home_Tile));
+   end
+   // end added
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   check_forced_dialog
+   else begin
+      GetReaction;
+      ReactToLevel; //added by killap
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         if ((hostile) or (mom_attacked) or (mom_dead)) then begin
+            call Node001;
+         end else if (herebefore) then begin
+            if (bad_critter_reaction) then begin
+               call Node002;
+            end else begin
+               call Node009;
+            end
+         end else begin
+            call Node000;
+         end
+      gSay_End;
+      end_dialogue;
+      script_overrides;
+      set_herebefore;
+   end
+end
+
+procedure destroy_p_proc begin
+   inc_evil_critter
+   joey_obj := 0;
+   set_joey_dead;
+   if (gave_locket == false) then begin
+      give_pid_qty(self_obj, PID_ANNA_GOLD_LOCKET, 1)
+      set_gave_locket;
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + herebefore);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150);
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node999 begin
+   // to exit dialogs
+end
+procedure Node998 begin
+   // sets up combat
+   set_thugs_hostile;
+   set_hostile;
+end
+
+// dialog nodes that make changes/skill checks from options
+procedure Node996 begin
+   // check speech, if successful goto 2, else start combat
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) and (dude_strength > self_strength)) then begin
+      call Node002;
+   end else call Node998;
+end
+procedure Node995 begin
+   // check speech at +10%, if successful goto 2, else start combat
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,10))) and (dude_strength > self_strength)) then begin
+      call Node002;
+   end else call Node998;
+end
+procedure Node994 begin
+   // go to propper node for male or female
+   if (dude_is_male) then call Node010;
+   else call Node011;
+end
+procedure Node993 begin
+   // roll speech, on success goto 7, on failure start combat
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) and (dude_strength > self_strength)) then begin
+      call Node007;
+   end else call Node998;
+end
+procedure Node992 begin
+   // roll speech, on success goto 7, on failure goto 6
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) and (dude_strength > self_strength)) then begin
+      call Node007;
+   end else call Node006;
+end
+procedure Node991 begin
+   // if player has money($50) take money and goto 7, else goto 8
+   if (dude_caps >= 50) then begin
+      locket_cost := 50;
+      item_caps_adjust(self_obj,50);
+      item_caps_adjust(dude_obj,-50);
+      call Node007;
+   end else begin
+      call Node008;
+   end
+end
+procedure Node990 begin
+   // roll barter, if successful and player has money(20), take money and goto 7,
+   //   else if no money goto 8, else if fail barter start combat
+   if (is_success(roll_vs_skill(dude_obj,SKILL_BARTER,0))) then begin
+      if (dude_caps >= 20) then begin
+         locket_cost := 20;
+         item_caps_adjust(self_obj,20);
+         item_caps_adjust(dude_obj,-20);
+         call Node007;
+      end else begin
+         call Node008;
+      end
+   end else begin
+      call Node998;
+   end
+end
+procedure Node989 begin
+   set_gave_locket;
+   give_pid_qty(dude_obj, PID_ANNA_GOLD_LOCKET, 1)
+end
+procedure Node988 begin
+   // if male, goto 12, if female goto 13
+   if (dude_is_male) then call Node012;
+   else call Node013;
+end
+procedure Node987 begin
+   // lower reaction, goto 4
+   DownReactMinor;
+   call Node004;
+end
+procedure Node986 begin
+   // roll speech, if successful goto 14, else 15
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) and (dude_strength > self_strength)) then begin
+      call Node014;
+   end else call Node015;
+end
+procedure Node985 begin
+   // if player alone and charisma > 5 goto 13, else 12
+   if ((true_party_size > 0) and (dude_charisma > 5)) then begin
+      call Node013;
+   end else begin
+      call Node012;
+   end
+end
+procedure Node984 begin
+   // setup sex
+   gfade_out(ONE_GAME_SECOND);
+      do_default_sex;
+      UpReact;
+      set_local_var(LVAR_Next_Sex_Time, game_time + ONE_GAME_DAY);
+      critter_attempt_placement(self_obj, joey_sex_tile, self_elevation);
+      critter_attempt_placement(dude_obj, joey_player_sex_tile, self_elevation);
+      Face_Critter(dude_obj,self_obj);
+      Face_Critter(self_obj,dude_obj);
+   gfade_in(ONE_GAME_SECOND);
+   flush_add_timer_event_sec(self_obj, 1, timed_event_post_sex);
+end
+procedure Node983 begin
+   // roll speech. if successful, goto 14, else lower reaction and start combat
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) and (dude_strength > self_strength)) then begin
+      call Node014;
+   end else begin
+      DownReactMinor;
+      call Node998;
+   end
+end
+procedure Node982 begin
+   // lower reaction and start combat
+   DownReactMinor;
+   call Node998;
+end
+procedure Node981 begin
+   // roll speech, if successful, goto 12, else lower reaction and start combat
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) and (dude_strength > self_strength)) then begin
+      call Node012;
+   end else begin
+      DownReactMinor;
+      call Node998;
+   end
+end
+procedure Node980 begin
+   // roll barter, if successful goto 24, else 23
+   if (is_success(roll_vs_skill(dude_obj,SKILL_BARTER,0))) then begin
+      call Node024;
+   end else begin
+      call Node023;
+   end
+end
+procedure Node979 begin
+   // if player has money($500) take it and give jet and goto 14, else goto 23
+   if (dude_caps >= 500) then begin
+      give_pid_qty(dude_obj, PID_JET, 1)
+      item_caps_adjust(self_obj,500);
+      item_caps_adjust(dude_obj,-500);
+      call Node014;
+   end else begin
+      call Node023;
+   end
+end
+procedure Node978 begin
+   // take money ($500) and give jet and goto 14
+   if (dude_caps >= 500) then begin
+      give_pid_qty(dude_obj, PID_JET, 1)
+      item_caps_adjust(self_obj,500);
+      item_caps_adjust(dude_obj,-500);
+      call Node014;
+   end else begin
+      call Node023;
+   end
+end
+procedure Node977 begin
+variable jet := 0;
+   // if player has money (350), take money and give jet and goto 14.
+   //   else goto 23
+   if (dude_caps >= 350) then begin
+      item_caps_adjust(self_obj,350);
+      item_caps_adjust(dude_obj,-350);
+      give_pid_qty(dude_obj, PID_JET, 1)
+      call Node014;
+   end else begin
+      call Node023;
+   end
+end
+
+
+procedure Node000 begin
+   call Node994;
+end
+procedure Node001 begin
+   debug_msg("Node001");
+   Reply(152);
+   BOption(153,Node998,004); //edit by killap: was NOption
+   NOption(154,Node996,004);
+   NOption(155,Node995,006);
+end
+procedure Node002 begin
+   Reply(156);
+   debug_msg("Node002");
+   debug_msg("gave_locket == "+gave_locket+" / get_anna_locket_pip(anna_locket_pip_assigned) == "+get_anna_locket_pip(anna_locket_pip_assigned)+" / mom_fingered_joey == "+mom_fingered_joey);
+   if (get_anna_locket_pip(anna_locket_pip_done) == false) then begin
+      if (gave_locket == false) then begin
+         if ((get_anna_locket_pip(anna_locket_pip_assigned)) and (mom_fingered_joey)) then begin
+            NOption(157,Node003,004);
+         end
+      end
+   end
+   BOption(159,Node998,004); //edit by killap: was NOption
+   NOption(160,Node999,004);
+end
+procedure Node003 begin
+   debug_msg("Node003");
+   Reply(161);
+   if (mom_fingered_joey) then begin
+      NOption(162,Node004,004);
+   end
+   NOption(163,Node999,004);
+   BOption(164,Node998,007); //edit by killap: was NOption
+end
+procedure Node004 begin
+   debug_msg("Node004");
+   Reply(165);
+   NOption(166, Node005, 004);
+   BOption(167, Node998, 004); //edit by killap: was NOption
+   NOption(300, Node999, 004);
+end
+procedure Node005 begin
+   debug_msg("Node005");
+   Reply(168);
+   NOption(169,Node006,004);
+   NOption(170,Node993,004);
+   NOption(171,Node992,006);
+end
+procedure Node006 begin
+   debug_msg("Node006");
+   Reply(172);
+   NOption(173,Node991,004);
+   NOption(174,Node990,004);
+   NOption(175,Node999,004);
+   NOption(176,Node993,004);
+end
+procedure Node007 begin
+   debug_msg("Node007");
+   Reply(177);
+   NOption(178,Node989,004);
+   NOption(179,Node989,006);
+end
+procedure Node008 begin
+   debug_msg("Node008");
+   Reply(180);
+   NOption(181,Node999,004);
+   NOption(182,Node993,004);
+end
+procedure Node009 begin
+   debug_msg("Node009");
+   Reply(183);
+   NOption(184,Node988,004);
+   NOption(185,Node012,004);
+   debug_msg("gave_locket == "+gave_locket+" / get_anna_locket_pip(anna_locket_pip_assigned) == "+get_anna_locket_pip(anna_locket_pip_assigned)+" / mom_fingered_joey == "+mom_fingered_joey);
+   if (get_anna_locket_pip(anna_locket_pip_done) == false) then begin
+      if (gave_locket == false) then begin
+         if ((get_anna_locket_pip(anna_locket_pip_assigned)) and (mom_fingered_joey)) then begin
+            NOption(186,Node003,004);
+         end
+      end
+   end
+end
+procedure Node010 begin
+   debug_msg("Node010");
+   Reply(188);
+   NOption(189,Node015,004);
+   NOption(190,Node012,004);
+   NOption(191,Node999,004);
+   NOption(192,Node016,004);
+end
+procedure Node011 begin
+   debug_msg("Node011");
+   Reply(193);
+   NOption(194,Node986,004);
+   NOption(195,Node985,004);
+   NOption(196,Node016,004);
+   NOption(197,Node014,004);
+end
+procedure Node012 begin
+   debug_msg("Node012");
+   Reply(198);
+   NOption(199,Node014,004);
+   NOption(200,Node022,004);
+   NOption(201,Node016,004);
+   NOption(202,Node999,004);
+end
+procedure Node013 begin
+   debug_msg("Node013");
+   Reply(203);
+   NOption(204,Node984,004);
+   NOption(205,Node983,004);
+   NOption(206,Node016,004);
+end
+procedure Node014 begin
+   debug_msg("Node014");
+   Reply(207);
+   NOption(208,Node999,004);
+   NOption(209,Node999,004);
+   NOption(210,Node016,004);
+end
+procedure Node015 begin
+   debug_msg("Node015");
+   Reply(211);
+   NOption(212,Node982,004);
+   NOption(213,Node981,004);
+   NOption(214,Node012,004);
+end
+procedure Node016 begin
+   debug_msg("Node016");
+   Reply(215);
+   debug_msg("gave_locket == "+gave_locket+" / get_anna_locket_pip(anna_locket_pip_assigned) == "+get_anna_locket_pip(anna_locket_pip_assigned)+" / mom_fingered_joey == "+mom_fingered_joey);
+   if (get_anna_locket_pip(anna_locket_pip_done) == false) then begin
+      if (gave_locket == false) then begin
+         if ((get_anna_locket_pip(anna_locket_pip_assigned)) and (mom_fingered_joey)) then begin
+            NOption(157,Node003,004);
+         end
+      end
+   end
+   if (know_church) then begin
+      NOption(218,Node017,004);
+   end
+   NOption(219,Node015,004);
+   if (vault_13_visible_on_map == false) then begin
+      NOption(220,Node025,004);
+   end
+   NOption(221,Node999,004);
+end
+procedure Node017 begin
+   debug_msg("Node017");
+   Reply(222);
+   NOption(223,Node018,004);
+   NOption(224,Node016,004);
+   NOption(225,Node999,004);
+end
+procedure Node018 begin
+   debug_msg("Node018");
+   if (gangwar(state_gangwar_2won)) then begin
+      Reply(350 + lara_dead);
+   end else begin
+      Reply(226);
+   end
+   NOption(227,Node019,004);
+   if (new_reno_visible_on_map == false) then begin
+      NOption(228,Node020,004);
+   end
+   NOption(229,Node021,004);
+   NOption(230,Node016,004);
+   NOption(231,Node999,004);
+end
+procedure Node019 begin
+   debug_msg("Node019");
+   Reply(232);
+   NOption(233,Node018,004);
+   NOption(234,Node016,004);
+   NOption(235,Node999,004);
+end
+procedure Node020 begin
+   debug_msg("Node020");
+   mark_new_reno_on_map
+   Reply(236);
+   NOption(237,Node018,004);
+   NOption(238,Node016,004);
+   NOption(239,Node999,004);
+end
+procedure Node021 begin
+   debug_msg("Node021");
+   Reply(240);
+   NOption(241,Node018,004);
+   NOption(242,Node016,004);
+   NOption(243,Node999,004);
+end
+procedure Node022 begin
+   debug_msg("Node022");
+   Reply(244);
+   NOption(245,Node014,004);
+   NOption(246,Node016,004);
+   NOption(247,Node980,004);
+   NOption(248,Node979,004);
+end
+procedure Node023 begin
+   debug_msg("Node023");
+   Reply(249);
+   NOption(250,Node978,004);
+   NOption(251,Node016,004);
+   NOption(252,Node999,004);
+end
+procedure Node024 begin
+   debug_msg("Node024");
+   Reply(253);
+   NOption(254,Node016,004);
+   NOption(255,Node977,004);
+   NOption(256,Node999,004);
+end
+procedure Node025 begin
+   debug_msg("Node025");
+   Reply(257);
+   NOption(258,Node015,004);
+   NOption(259,Node016,004);
+   NOption(260,Node012,004);
+   NOption(261,Node999,004);
+end
+/*
+procedure Node026 begin
+   // joey is missing the locket for some reason, namingly the player stole it
+   Reply(263);
+   NOption(264,Node998,004);
+   NOption(265,Node999,004);
+   if (locket_cost > 0) then begin
+      NOption(267,Node027,004);
+   end
+   NOption(266,Node028,004);
+   NOption(243,Node999,004);
+end
+procedure Node027 begin
+   // if player scares joey then joey gives the money back
+   // otherwise he tells the player to fuck him/herself
+   if (((dude_is_armed) or (true_party_size > 1)) and (dude_strength > self_strength)) then begin
+      locket_cost := 0;
+      Reply(268);
+      NOption(243,Node999,004);
+   end else begin
+      Reply(269);
+      NOption(270,Node998,004);
+      NOption(271,Node999,004);
+   end
+end
+procedure Node028 begin
+   // if dude_scares_joey, then joey will play it off
+   // otherwise joey accuses the player of stealing
+   if (((dude_is_armed) or (true_party_size > 1)) and (dude_strength > self_strength)) then begin
+      Reply(272);
+      NOption(273,Node999,004);
+   end else begin
+      Reply(274);
+      NOption(153,Node998,004);
+      NOption(154,Node996,004);
+      NOption(155,Node995,006);
+   end
+end
+*/

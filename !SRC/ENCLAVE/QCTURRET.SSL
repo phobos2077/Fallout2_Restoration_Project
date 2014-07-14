@@ -1,0 +1,157 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_QCTURRET
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_ENCLAVE)
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+procedure start;
+procedure critter_p_proc;
+procedure map_enter_p_proc;
+procedure Security_Check(variable Security);
+procedure damage_p_proc; //added by killap
+
+import variable Frank_Ptr;
+variable countdown;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   variable item;
+
+   if (map_first_run) then begin
+       item:=obj_carrying_pid_obj(self_obj,PID_HEAVY_DUAL_MINIGUN);
+       wield_obj(item);
+   end
+end
+
+procedure critter_p_proc begin
+   if (cur_map_index == MAP_ENCLAVE_DETENTION) then begin
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ENCLAVE);
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GUN_TURRET);
+       call Security_Check(GVAR_ENCLAVE_TURRET_DETENTION);
+   end
+
+   else if (cur_map_index == MAP_ENCLAVE_PRESIDENT) then begin
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ENCLAVE);
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GUN_TURRET);
+       call Security_Check(GVAR_ENCLAVE_TURRET_PRESIDENT);
+   end
+
+   else if (cur_map_index == MAP_ENCLAVE_BARRACKS) then begin
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ENCLAVE);
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GUN_TURRET);
+       call Security_Check(GVAR_ENCLAVE_TURRET_GUARD);
+   end
+
+   else if (cur_map_index == MAP_ENCLAVE_REACTOR) then begin
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ENCLAVE);
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GUN_TURRET);
+       call Security_Check(GVAR_ENCLAVE_TURRET_SCIENCE);
+   end
+
+   else if (cur_map_index == MAP_ENCLAVE_END_FIGHT) then begin
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GUN_TURRET);
+       if (global_var(GVAR_ENCLAVE_TURRET_HELP_PLAYER) == 1) then begin
+           critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+           if (countdown == 10) then
+               attack(Frank_Ptr);
+           countdown+=1;
+       end
+       else begin
+           critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ENCLAVE);
+//           if (global_var(GVAR_ENCLAVE_FRANK_DEAD) != 0) then
+//              call Security_Check(GVAR_ENCLAVE_TURRET_MAIN);
+       end
+   end
+
+   else begin
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ENCLAVE);
+       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GUN_TURRET);
+       call Security_Check(GVAR_ENCLAVE_TURRET_MAIN);
+   end
+end
+
+procedure Security_Check(variable Security) begin
+   if ((global_var(Security) == TURRET_NORMAL) and (cur_map_index != MAP_ENCLAVE_END_FIGHT)) then begin
+       if (obj_can_see_obj(self_obj,dude_obj)) then begin
+           if (party_size > 1) then begin
+               attack(dude_obj);
+           end
+           else if ((obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_ADVANCED_POWER_ARMOR_MK2) or
+                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_ADVANCED_POWER_ARMOR) or
+                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_POWERED_ARMOR) or
+                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_HARDENED_POWER_ARMOR)) then begin
+               // do nothing
+           end
+           else begin
+               attack(dude_obj);
+           end
+       end
+   end
+
+   else if (global_var(Security) == TURRET_ALERT) then begin
+       if (obj_can_see_obj(self_obj,dude_obj)) then
+           attack(dude_obj);
+   end
+
+   else if (cur_map_index == MAP_ENCLAVE_END_FIGHT) then begin
+       if ((global_var(GVAR_ENCLAVE_ALARM) > 0) and (global_var(GVAR_ENCLAVE_TURRET_HELP_PLAYER) == 0)) then begin
+           if (obj_can_see_obj(self_obj,dude_obj)) then
+               attack(dude_obj);
+       end
+       else if (global_var(GVAR_ENCLAVE_ALARM) > 0) then begin
+           attack(Frank_Ptr);
+       end
+   end
+
+   else if ((obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_ADVANCED_POWER_ARMOR_MK2) and
+                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_ADVANCED_POWER_ARMOR) and
+                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_POWERED_ARMOR) and
+                    (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_HARDENED_POWER_ARMOR)) then begin
+       if ((tile_distance_objs(self_obj,dude_obj) < 2) and (obj_can_see_obj(self_obj,dude_obj))) then
+           attack(dude_obj);
+   end
+end
+
+//added by killap
+procedure damage_p_proc begin
+   if (cur_map_index == MAP_ENCLAVE_DETENTION) then
+       set_global_var(GVAR_ENCLAVE_TURRET_DETENTION,TURRET_ALERT);
+   else if (cur_map_index == MAP_ENCLAVE_BARRACKS) then
+       set_global_var(GVAR_ENCLAVE_TURRET_GUARD,TURRET_ALERT);
+   else if (cur_map_index == MAP_ENCLAVE_PRESIDENT) then
+       set_global_var(GVAR_ENCLAVE_TURRET_PRESIDENT,TURRET_ALERT);
+   else if (cur_map_index == MAP_ENCLAVE_REACTOR) then
+       set_global_var(GVAR_ENCLAVE_TURRET_SCIENCE,TURRET_ALERT);
+end
+//end added

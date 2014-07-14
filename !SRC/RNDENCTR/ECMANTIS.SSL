@@ -1,0 +1,50 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/* Random Encounter scripts. These will be filled in more once they
+   have been designed.
+*/
+
+procedure start;
+
+#include "..\headers\define.h"
+#include "..\headers\bhrnddst.h"
+
+#define NAME                    SCRIPT_ECMANTIS
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure destroy_p_proc;
+procedure critter_p_proc;
+
+procedure start begin
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_MANTIS);
+end
+
+procedure critter_p_proc begin
+   if ((obj_can_see_obj(self_obj,dude_obj)) and (not(critter_is_fleeing(self_obj)))) then
+       attack(dude_obj);
+end
+
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+//   inc_evil_critter
+
+   if (cur_map_index == MAP_BH_RND_DESERT) then begin
+       dec_map_var(MVAR_Hostile_Total);
+   end
+
+/* Set global_variable for Enemy status*/
+end
+
+//added by killap - expansion pack
+procedure use_obj_on_p_proc begin
+   if ((obj_pid(obj_being_used_with) == PID_BUG_SPRAY)) then begin
+      kill_critter(self_obj, ANIM_melted_to_nothing_sf);
+      //critter_dmg(self_obj,get_critter_stat(self_obj,STAT_current_hp)+10,DMG_plasma);
+   end
+end
+//end added - expansion pack

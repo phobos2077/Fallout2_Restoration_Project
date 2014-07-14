@@ -1,0 +1,242 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_DCREBDOR
+#define TOWN_REPUTATION         GVAR_TOWN_REP_THE_DEN
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+#include "..\headers\Den.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (4)
+#define LVAR_Post_State                   (5)
+#define LVAR_Home_Tile                    (6)
+#define LVAR_Home_Rotation                (7)
+
+#define post_state_none                   (0)
+#define post_state_moving                 (1)
+#define post_state_waiting                (2)
+#define post_state_done                   (3)
+
+#define post_state                        (local_var(LVAR_Post_State))
+#define set_post_state(x)                 if (x == post_state_none) then begin                                                   \
+                                             flush_add_timer_event_sec(self_obj, random(120, 270), timed_event_post_change);     \
+                                          end else if (x == post_state_waiting) then begin                                       \
+                                             if (post_state != x) then begin                                                     \
+                                                floater_rand(300, 307);                                                          \
+                                                flush_add_timer_event_sec(self_obj, random(15, 20), timed_event_post_change);    \
+                                             end                                                                                 \
+                                          end else if (x == post_state_done) then begin                                          \
+                                             if (post_state == post_state_waiting) then begin                                    \
+                                                animate_move_to_tile(wander_tile);                                               \
+                                                floater_rand(350, 357);                                                          \
+                                             end                                                                                 \
+                                          end                                                                                    \
+                                          debug_msg("guard post state == "+x);                                                   \
+                                          set_local_var(LVAR_Post_State, x)
+
+#define check_door_open                   the_door := false;                           \
+                                          if (becky_door_obj != 0) then                \
+                                             if ((obj_is_open(becky_door_obj)) and (obj_can_see_obj(self_obj, becky_door_obj))) then     \
+                                                the_door := true
+
+#define wander_tile                       (17267)
+
+#define set_becky_guard                                                                                                    \
+         if (becky_guard_obj == 0) then begin                                                                              \
+            becky_guard_obj := self_obj;                                                                                   \
+         end else if (tile_distance_objs(self_obj, dude_obj) < tile_distance_objs(becky_guard_obj, dude_obj)) then begin   \
+            becky_guard_obj := self_obj;                                                                                   \
+         end
+
+import variable becky_guard_obj;
+import variable becky_door_guard_obj;
+import variable becky_door_obj;
+
+variable the_door;
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+procedure start begin
+   becky_door_guard_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == timed_event_door_tamper) then begin
+      call Node003;
+   end else if (fixed_param == timed_event_attack) then begin
+      call Node004;
+      self_attack_dude;
+   end else if (fixed_param == timed_event_thief) then begin
+      call Node005;
+      self_attack_dude;
+   end else if (fixed_param == timed_event_post_change) then begin
+      if (post_state == post_state_none) then begin
+         set_post_state(post_state_moving);
+      end else begin
+         set_post_state(post_state_done);
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   becky_door_guard_obj := self_obj;
+   if (becky_dead) then begin
+      destroy_object(self_obj);
+   end else if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_THE_DEN);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_local_var(LVAR_Home_Tile, self_tile);
+         set_local_var(LVAR_Home_Rotation, self_cur_rot);
+      end
+      set_post_state(post_state_done);
+   end
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      check_door_open;
+      if ((hostile) or (the_door)) then begin
+         self_attack_dude;
+      end set_becky_guard
+   end else if (anim_busy(self_obj) == false) then begin
+      if (post_state == post_state_done) then begin
+         check_door_open;
+         if (the_door) then begin
+            if (anim_busy(becky_door_obj) == false) then begin
+               use_obj_on_obj(self_obj, becky_door_obj);
+               display_mstr(375);
+            end
+         end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
+            animate_move_to_tile(local_var(LVAR_Home_Tile));
+         end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
+            animate_rotation(local_var(LVAR_Home_Rotation));
+         end else begin
+            set_post_state(post_state_none);
+         end
+      end else if (post_state == post_state_moving) then begin
+         if (tile_distance(self_tile, wander_tile) > 1) then begin
+            animate_move_to_tile(wander_tile);
+         end else begin
+            set_post_state(post_state_waiting);
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+   end
+end
+
+procedure pickup_p_proc begin
+   if ((source_obj == dude_obj) or (obj_in_party(source_obj))) then begin
+      check_catch_thief
+      if (caught_thief == false) then begin
+         call Node998;
+      end
+   end
+end
+
+procedure talk_p_proc begin
+   if (hostile) then begin
+      call Node001;
+   end else begin
+      call Node002;
+   end
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   becky_door_guard_obj := 0;
+   if (becky_guard_obj == self_obj) then begin
+      becky_guard_obj := 0;
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + becky_known);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150);
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   floater(200);
+   self_attack_dude;
+end
+procedure Node002 begin
+   floater_rand(210,215);
+end
+procedure Node003 begin
+   floater_rand(230,234);
+end
+procedure Node004 begin
+   floater(240);
+end
+procedure Node005 begin
+   floater(250);
+end

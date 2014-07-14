@@ -1,0 +1,517 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Frankie
+        Location: Den
+        Description:
+
+        Log: the following defines need to be changed:
+
+           Created: December 31, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\den.h"
+
+#define NAME                        SCRIPT_DCFRANKI
+#define TOWN_REP_VAR                GVAR_TOWN_REP_THE_DEN
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+#include "..\headers\denbus2.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure push_p_proc;
+
+// dialog nodes
+procedure Node000;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node018a; //added by killap
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+
+procedure Node998;                                      // This Node is Always Combat
+
+procedure Node996;
+procedure Node995;
+procedure Node994;
+procedure Node993;
+procedure Node992;
+procedure Node991;
+procedure Node990;
+procedure Node988;
+procedure Node987;
+procedure Node986;
+procedure Node985;
+procedure Node984;
+
+#define LVAR_Flags                        (4)
+#define LVAR_Can_Drop_Cost_Time           (5)
+#define LVAR_Home_Tile                    (6)
+#define LVAR_Next_Sex_Time                (7)
+#define LVAR_Home_Rotation                (8)
+
+#define find_still_money                  (100)
+#define destroy_still_money               (500)
+
+#define whiskey_cost                      (20 - (14 * ((game_time > local_var(LVAR_Can_Drop_Cost_Time)) and (local_var(LVAR_Can_Drop_Cost_Time) != 0) and (rebecca_dead == false) and (still_broken == false))))
+
+#define home_tile                         (local_var(LVAR_Home_Tile))
+#define sex_time_up                       ((game_time > local_var(LVAR_Next_Sex_Time)) and (local_var(LVAR_Next_Sex_Time) != 0))
+
+import variable frankie_obj;
+
+procedure start begin
+   frankie_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == timed_event_post_sex) then begin
+      call Node024;
+   end
+end
+
+procedure map_enter_p_proc begin
+   frankie_obj := self_obj;
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_local_var(LVAR_Home_Tile,self_tile);
+         set_local_var(LVAR_Home_Rotation, self_cur_rot);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_HOLE);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_MERCHANT);
+      end
+      critter_attempt_placement(self_obj, local_var(LVAR_Home_Tile), 0);
+   end
+end
+
+procedure critter_p_proc begin
+   if ((self_can_see_dude) and (hostile)) then begin
+      self_attack_dude;
+   end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
+      animate_move_to_tile(local_var(LVAR_Home_Tile));
+   end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
+      animate_rotation(local_var(LVAR_Home_Rotation));
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   script_overrides;
+   GetReaction;
+   ReactToLevel; //added by killap
+   if ((bad_critter_reaction) or (REP_ENEMY_DEN) or (mom_attacked)) then begin
+      start_dialog_at_node(Node007);
+   end else if ( (still_quest(state_still_quest_asked_to_destroy)) or (still_quest(state_still_quest_destroyed)) ) then begin //added (still_quest(state_still_quest_asked_to_destroy)) - by killap
+      start_dialog_at_node(Node014);
+   end else if (still_quest(state_still_quest_serching)) then begin
+      start_dialog_at_node(Node012);
+   end else if (herebefore) then begin
+      start_dialog_at_node(Node002);
+   end else begin
+      start_dialog_at_node(Node000);
+   end
+   set_herebefore;
+end
+
+procedure push_p_proc begin
+   if (self_tile == local_var(LVAR_Home_Tile)) then begin
+      script_overrides;
+   end
+end
+
+procedure destroy_p_proc begin
+   frankie_obj := 0;
+   set_frankie_dead;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + herebefore);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150 + herebefore);
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node999 begin
+   // to exit dialogs
+end
+procedure Node998 begin
+   // sets up combat
+   set_hostile;
+end
+
+procedure Node996 begin
+variable whiskey_bottle;
+   // if player has money, take it and give him whiskey and goto 5
+   //    else goto 6
+   if (dude_caps >= whiskey_cost) then begin
+      item_caps_adjust(self_obj,whiskey_cost);
+      item_caps_adjust(dude_obj,-whiskey_cost);
+      use_obj_on_obj(create_object(PID_BOOZE,0,0), dude_obj);
+      call Node005;
+   end else begin
+      call Node006;
+   end
+end
+procedure Node995 begin
+   // lower reaction a little
+   DownReactTiny;
+end
+procedure Node994 begin
+   // set find still quest accepted
+   set_still_quest(state_still_quest_serching);
+end
+procedure Node993 begin
+   // set destroy still quest flag
+   set_still_quest(state_still_quest_asked_to_destroy);
+end
+procedure Node992 begin
+   // set quest declined flag and goto 5
+   set_still_quest(state_still_quest_finished);
+   call Node005;
+end
+procedure Node991 begin
+   // roll speech: success goto 19, else 18
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+      call Node019;
+   end else begin
+      if (still_quest(state_still_quest_finished) == false) then
+         call Node018;
+      else
+         call Node018a; //added by killap 
+   end
+end
+procedure Node990 begin
+   if (still_quest(state_still_quest_finished) == false) then begin
+      call Node018;
+   end
+end
+procedure Node988 begin
+   // set quest declined flag
+   set_still_quest(state_still_quest_finished);
+end
+procedure Node987 begin
+   // raise reaction goto 5
+   UpReact;
+   call Node005;
+end
+procedure Node986 begin
+   // if player charisma is 6 or better goto 23, else goto 22
+   if (dude_charisma >= 6) then begin
+      call Node023;
+   end else begin
+      call Node022;
+   end
+end
+procedure Node985 begin
+   // lower reaction a little and goto 2
+   DownReactTiny;
+   call Node002;
+end
+procedure Node984 begin
+   gfade_out(ONE_GAME_SECOND);
+      do_default_sex;
+      set_local_var(LVAR_Next_Sex_Time, game_time + ONE_GAME_DAY);
+      critter_attempt_placement(self_obj, frankie_sex_tile, self_elevation);
+      critter_attempt_placement(dude_obj, frankie_player_sex_tile, self_elevation);
+      Face_Critter(dude_obj,self_obj);
+      Face_Critter(self_obj,dude_obj);
+      flush_add_timer_event_sec(self_obj, 1, timed_event_post_sex);
+   gfade_in(ONE_GAME_SECOND);
+end
+
+procedure Node000 begin
+   call Node001;
+end
+procedure Node001 begin
+   Reply(153);
+   NOption(154,Node002,004);
+   NOption(155,Node985,004);
+   NOption(156,Node003,004);
+   NOption(157,Node009,-003);
+end
+procedure Node002 begin
+   Reply(158);
+   NOption(159,Node004,004);
+   if (dude_is_male) then begin
+      NOption(160,Node021,004);
+   end else begin
+      NOption(161,Node986,004);
+   end
+   NOption(162,Node020,004);
+   NOption(163,Node999,004);
+   NOption(164,Node009,-003);
+end
+procedure Node003 begin
+   Reply(165);
+   DownReactMinor;
+   BOption(166,Node998,004); //was NOption - killap
+   if (rebecca_dead == false) then begin
+      NOption(167,Node004,004);
+   end
+   NOption(168,Node999,004);
+end
+procedure Node004 begin
+   Reply(mstr(169)+whiskey_cost+mstr(170));
+   NOption(171,Node996,004);
+   if (whiskey_cost >= 20) then begin
+      NOption(172,Node003,004);
+   end
+   if ((becky_cost) and (rebecca_dead == false) and (still_quest(state_still_quest_no))) then begin
+      NOption(173,Node010,006);
+   end
+   NOption(174,Node005,004);
+end
+procedure Node005 begin
+   Reply(175);
+   NOption(176,Node002,004);
+   NOption(177,Node999,004);
+end
+procedure Node006 begin
+   Reply(178);
+   NOption(179,Node005,004);
+   NOption(180,Node999,004);
+end
+procedure Node007 begin
+   Reply(181);
+   NOption(182,Node009,004);
+   NOption(183,Node008,004);
+   NOption(184,Node009,-003);
+end
+procedure Node008 begin
+   Reply(185);
+   NOption(186,Node999,001);
+end
+procedure Node009 begin
+   Reply(187);
+   NOption(188,Node999,004);
+   NOption(189,Node008,-003);
+end
+procedure Node010 begin
+   Reply(190);
+   NOption(191,Node011,004);
+   NOption(192,Node011,005);
+   if (still_known) then begin
+      NOption(193,Node012,004);
+   end
+   NOption(194,Node995,004);
+end
+procedure Node011 begin
+   Reply(195);
+   NOption(196,Node994,004);
+   NOption(197,Node005,004);
+end
+procedure Node012 begin
+   if (rebecca_dead == false) then begin
+      Reply(198);
+      if (still_known) then begin
+         NOption(199,Node013,004);
+      end
+      NOption(200,Node999,004);
+   end else begin
+      Reply(300);
+      BOption(155,Node003,004);
+      NOption(186,Node999,004);
+      set_still_quest(state_still_quest_finished);
+   end
+end
+procedure Node013 begin
+   den_display_mstr(400);
+   give_xp(EXP_FIND_STILL_FOR_FRANKIE);
+   item_caps_adjust(dude_obj, find_still_money);
+   set_still_quest(state_still_quest_asked_to_destroy);
+   Reply(201);
+   if (still_broken) then begin
+      NOption(202,Node015,004);
+   end
+   NOption(203,Node993,004);
+   NOption(204,Node992,004);
+   NOption(205,Node017,006);
+end
+procedure Node014 begin
+   if (rebecca_dead == false) then begin
+      Reply(206);
+      if (still_broken) then begin
+         NOption(207,Node015,004);
+      end
+      if not(still_quest(state_still_quest_destroyed)) then //added check by killap
+         NOption(208,Node017,006);
+      NOption(209,Node999,004);
+   end else begin
+      Reply(300);
+      BOption(155,Node003,004);
+      NOption(186,Node999,004);
+      set_still_quest(state_still_quest_finished);
+   end
+end
+procedure Node015 begin
+   item_caps_adjust(dude_obj, destroy_still_money);
+   den_display_mstr(500);
+   give_xp(EXP_DESTROY_STILL_FOR_FRANKIE);
+   inc_general_rep(REP_BONUS_DESTROY_BECKY_STILL);
+   set_still_quest(state_still_quest_finished);
+   Reply(210);
+   NOption(211,Node005,004);
+   NOption(212,Node016,006);
+   NOption(213,Node999,004);
+end
+procedure Node016 begin
+   Reply(214);
+   NOption(215,Node017,006);
+   NOption(216,Node017,006);
+end
+procedure Node017 begin
+   Reply(217);
+   NOption(218,Node991,006);
+   NOption(219,Node018,004);
+   NOption(220,Node990,004);
+end
+procedure Node018 begin
+   Reply(221);
+   NOption(222,Node993,004);
+   NOption(223,Node988,004);
+end
+//added by killap
+procedure Node018a begin
+   Reply(420);
+   NOption(222,Node999,004);
+   BOption(266,Node998,004);
+end
+//end added
+procedure Node019 begin
+   den_display_mstr(600);
+   give_xp(EXP_CONVINCE_FRANKIE_TRADE);
+   inc_general_rep(REP_BONUS_CONVINCE_FRANKIE_TRADE);
+   set_still_quest(state_still_quest_finished);
+   set_local_var(LVAR_Can_Drop_Cost_Time,game_time + (24 * ONE_GAME_HOUR));
+   Reply(224);
+   NOption(225,Node987,006);
+   NOption(226,Node999,006);
+end
+procedure Node020 begin
+   Reply(227);
+   if ((becky_cost) and (rebecca_dead == false) and (still_quest(state_still_quest_no))) then begin
+      NOption(228,Node010,006);
+   end
+   NOption(229,Node005,004);
+   NOption(230,Node999,004);
+end
+procedure Node021 begin
+   Reply(231);
+   NOption(232,Node002,004);
+   NOption(233,Node999,004);
+end
+procedure Node022 begin
+   Reply(234);
+   NOption(235,Node002,004);
+   NOption(236,Node999,004);
+   NOption(237,Node999,004);
+end
+procedure Node023 begin
+   if ((local_var(LVAR_Next_Sex_Time) == -1) and (dude_sex_rating < sex_rating_normal)) then begin
+      Reply(400);
+      NOption(260,Node999,004);
+   end else if (sex_time_up) then begin
+      Reply(238);
+      NOption(239,Node984,004);
+      NOption(240,Node005,004);
+   end else begin
+      Reply(410);
+      NOption(260,Node999,004);
+   end
+end
+procedure Node024 begin
+variable the_score;
+   the_score := dude_sex_rating;
+   if (the_score >= sex_rating_great) then begin
+      floater(350);
+   end else if (the_score >= sex_rating_good) then begin
+      floater(351);
+   end else if (the_score >= sex_rating_normal) then begin
+      floater(352);
+   end else begin
+      set_local_var(LVAR_Next_Sex_Time, -1);
+      if (the_score >= sex_rating_bad) then begin
+         floater(353);
+      end else begin
+         floater(354);
+      end
+   end
+end
+procedure Node025 begin
+   Reply(246);
+   NOption(247,Node999,004);
+end
+procedure Node026 begin
+   // player stood frankie up
+   Reply(259);
+   NOption(260,Node999,004);
+   NOption(261,Node027,006);
+   NOption(262,Node003,004);
+end
+procedure Node027 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+      Reply(263);
+      NOption(264,Node999,004);
+   end else begin
+      Reply(267);
+      NOption(188,Node999,004);
+      BOption(266,Node998,004); //was NOption - killap
+   end
+end

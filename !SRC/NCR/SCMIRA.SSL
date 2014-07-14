@@ -1,0 +1,554 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Mira
+        Location: NCR Entrance area
+        Description: Bartender
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: 4-27-98
+
+           Updated:
+*/
+
+/* Include Files */
+
+ /* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\ncrent.h"
+
+#define NAME                    SCRIPT_SCMIRA
+#define TOWN_REP_VAR         GVAR_TOWN_REP_NCR
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#include "..\headers\ncr.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_N3_Count                   (7)
+#define LVAR_N25_Count                  (8)
+#define LVAR_N1_Count                   (9)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable Node12Repeat := 0;
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_MERK);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=1;
+   Slavery_Tolerant:=SLAVE_TOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION1;
+
+   CheckKarma;
+
+   GetReaction;
+
+   if (map_var(MVAR_Lenny_Dead) == 1) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node003;
+       gSay_End;
+       end_dialogue;
+   end else if (dude_iq <= 3 and dude_strength >= 7) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node002;
+      gSay_End;
+      end_dialogue;
+   end else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+       end_dialogue;
+   end
+   set_local_var(LVAR_Herebefore, 1);
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   if (local_var(LVAR_N1_Count) == 0) then begin
+      inc_local_var(LVAR_N1_Count);
+      Reply(103);
+   end else begin
+      Reply(104);
+   end
+
+   NLowOption(105, Node004);
+   if (not vault_13_visible_on_map) then
+      NLowOption(106, Node005);
+   if (dude_found_geck == FALSE) then
+      NLowOption(107, Node005);
+   NOption(108, Node006, 4);
+   NOption(109, Node007, 4);
+   NOption(110, Node005, 4);
+   NOption(111, Node008, 4);
+   if (ncr_flag(NCR_BOMB_JACK) or global_var(GVAR_NCR_MIRA_STATE) == MJACKDEAD and local_var(LVAR_N25_Count) == 0) then begin
+      NOption(186, Node025, 4);
+      NLowOption(187, Node025); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
+   end
+end
+
+procedure NodeCheck begin
+   if (global_var(GVAR_NCR_MIRA_STATE) == MJOBTAKEN) then
+      call Node022;
+   else if (global_var(GVAR_NCR_MIRA_STATE) == MJOBJACKEDWHACKED) then
+      call Node023;
+   else if (global_var(GVAR_NCR_MIRA_STATE) == MJOBDONE) then
+      call Node005;
+   else if (global_var(GVAR_NCR_MIRA_STATE) == MJACKDEAD) then
+      call Node001;
+   else
+      call Node019;
+end
+
+procedure Node002 begin
+   if (local_var(LVAR_Herebefore) == 0) then
+      Reply(112);
+   else
+      Reply(113);
+
+   NOption(114, NodeCheck, 1);
+end
+
+procedure Node003 begin
+   if (ncr_flag(NCR_KILLED_LENNY_SERUM_FLAG)) then begin
+      if (local_var(LVAR_N3_Count) == 0) then begin
+         Reply(184);
+         ENDOPTION;
+      end else begin
+         Reply(185);
+         MOREOPTION(Node001); //edit by killap
+         //MOREOPTION(Node005);
+      end
+   end else begin
+      if (local_var(LVAR_N3_Count) == 0) then begin
+         add_obj_to_inven(dude_obj, create_object(PID_BOOZE, tile_num(self_obj), 0));
+         Reply(115);
+         ENDOPTION;
+      end else begin
+         Reply(116);
+         MOREOPTION(Node001); //edit by killap
+         //MOREOPTION(Node005);
+      end
+   end
+   inc_local_var(LVAR_N3_Count);
+end
+
+procedure Node9a begin
+   item_caps_adjust(dude_obj, -10);
+   item_caps_adjust(self_obj, 10);
+   add_obj_to_inven(dude_obj, create_object(PID_BOOZE, tile_num(self_obj), 0));
+   call Node009;
+end
+
+procedure Node004 begin
+   Reply(117);
+   if (dude_caps > 10) then
+      NOption(118, Node9a, 1);
+   NOption(119, Node010, 1);
+end
+
+procedure Node005 begin
+   Reply(120);
+   if (dude_caps > 10) then
+      NOption(121, Node9a, 1);
+   NOption(122, Node010, 1);
+end
+
+procedure Node006 begin
+   Reply(123);
+   if (dude_caps > 10) then
+      NOption(124, Node9a, 4);
+   NOption(125, Node010, 4);
+end
+
+procedure Node9b begin
+   item_caps_adjust(dude_obj, -1);
+   item_caps_adjust(self_obj, 1);
+   add_obj_to_inven(dude_obj, create_object(PID_BEER, tile_num(self_obj), 0));
+   call Node009;
+end
+
+procedure Node007 begin
+   Reply(126);
+   if (dude_caps > 1) then
+      NOption(127, Node9b, 4);
+   NOption(128, Node010, 4);
+end
+
+procedure Node008 begin
+   variable time;
+   time := game_time_hour;
+   if (global_var(GVAR_NCR_SCMERK_STATUS) != MERK_STATUS_DEAD) then begin
+      if ((time >= 1600 and time <= 2459) or (time >= 000 and time <= 759)) then
+         Reply(129);
+      else
+         Reply(183);
+   end
+   else
+      Reply(130);
+   NOption(131, Node999, 4);
+end
+
+procedure Node009 begin
+   Reply(132);
+
+   if (not vault_13_visible_on_map) then
+      NLowOption(133, Node005);
+   if (dude_found_geck == FALSE) then
+      NLowOption(134, Node005);
+   NOption(135, Node011, 4);
+   NLowOption(136, Node999);
+   NOption(137, Node999, 4);
+end
+
+procedure Node010 begin
+   Reply(138);
+   ENDOPTION;
+end
+
+procedure Node011 begin
+   if (dude_charisma < 8 and local_var(LVAR_Herebefore) == 0) then
+      Reply(139);
+   else if (dude_charisma > 7 and local_var(LVAR_Herebefore) == 0) then
+      Reply(140);
+   else
+      Reply(141);
+
+   NOption(142, Node012, 4);
+   if (not vault_13_visible_on_map) then
+      NOption(143, Node013, 4);
+   if (dude_found_geck == FALSE) then
+      NOption(144, Node014, 4);
+   if (global_var(GVAR_NCR_SCMERK_STATUS) == MERK_STATUS_MET) then
+      NOption(145, Node015, 4);
+   if (global_var(GVAR_NCR_MIRA_STATE) == MJACKTALK) then
+      NOption(146, Node016, 4);
+   
+
+   if (dude_charisma < 8 and local_var(LVAR_Herebefore) == 0) then //added by killap
+      NOption(147, Node999, 4);
+   else  //added by killap
+      NOption(168, Node999, 4); //added by killap
+end
+
+procedure Node12Rep begin
+   Node12Repeat += 1;
+   call Node012;
+end
+
+procedure Node011a begin
+   Node12Repeat := 0;
+   call Node011;
+end
+
+procedure Node999a begin
+   Node12Repeat := 0;
+   call Node999;
+end
+
+procedure Node012 begin
+   if (Node12Repeat == 0) then
+      Reply(148);
+   else if (Node12Repeat == 1) then
+      Reply(149);
+   else
+      Reply(150);
+
+   if (Node12Repeat < 2) then
+      NOption(151, Node12Rep, 1);
+   NOption(152, Node011a, 4);
+   NOption(153, Node999a, 4);
+end
+
+procedure Node013 begin
+   Reply(154);
+   NLowOption(155, Node999);
+   NOption(156, Node011, 4);
+   NOption(157, Node999, 4);
+end
+
+procedure Node014 begin
+   Reply(158);
+   NLowOption(159, Node017);
+   NOption(160, Node018, 4);
+   NOption(161, Node011, 4);
+   NOption(162, Node999, 4);
+end
+
+procedure Node015 begin
+   Reply(163);
+   NOption(164, Node011, 4);
+   NOption(165, Node999, 4);
+end
+
+procedure Node016 begin
+   Reply(166);
+   NOption(167, Node011, 4);
+   NOption(168, Node999, 4);
+end
+
+procedure Node017 begin
+   Reply(169);
+   ENDOPTION;
+end
+
+procedure Node018 begin
+   Reply(170);
+   NOption(171, Node011, 4);
+   NOption(172, Node999, 4);
+end
+
+procedure Node019 begin
+   Reply(173);
+   NOption(174, Node021, 1);
+   NOption(175, Node005, 1);
+end
+
+procedure Node020 begin
+   Reply(176);
+   NOption(177, Node021, 1);
+   NOption(178, Node024, 1);
+end
+
+procedure Node021 begin
+   set_global_var(GVAR_NCR_ROPE_KNOWN, 1);
+   set_global_var(GVAR_NCR_MIRA_STATE, MJOBTAKEN);
+   Reply(179);
+   ENDOPTION;
+end
+
+procedure Node022 begin
+   Reply(180);
+   ENDOPTION;
+end
+
+procedure Node023 begin
+   set_global_var(GVAR_NCR_MIRA_STATE, MJOBDONE);
+   add_obj_to_inven(dude_obj, create_object(HKP90C_PID, tile_num(self_obj), 0));
+   Reply(181);
+   ENDOPTION;
+end
+
+procedure Node024 begin
+   Reply(182);
+   ENDOPTION;
+end
+
+procedure Node025 begin
+   inc_local_var(LVAR_N25_Count);
+   Reply(188);
+   if (ncr_flag(NCR_BOMB_JACK)) then begin
+      NLowOption(189, Node026);
+      NOption(191, Node026, 4);
+   end else if (global_var(GVAR_NCR_MIRA_STATE) == MJACKDEAD) then begin
+      NLowOption(190, Node028);
+      NOption(192, node027, 4);
+   end
+end
+
+procedure Node026 begin
+   add_obj_to_inven(dude_obj, create_object(PID_BOOZE, tile_num(self_obj), 0)); //added by killap
+   Reply(193);
+   NLowOption(194, Node009);
+   NLowOption(195, Node999);
+   NOption(196, Node011, 4);
+   NOption(197, Node999, 4);
+end
+
+procedure Node027 begin
+   add_obj_to_inven(dude_obj, create_object(HKP90C_PID, tile_num(self_obj), 0));
+   Reply(198);
+   NOption(199, Node011, 4);
+   NOption(200, Node999, 4);
+end
+
+procedure Node028 begin
+   add_obj_to_inven(dude_obj, create_object(HKP90C_PID, tile_num(self_obj), 0));
+   Reply(201);
+   NLowOption(202, Node009);
+   NLowOption(203, Node999);
+end
+
+//xxxxxxxxxxxxxxxxxxxx

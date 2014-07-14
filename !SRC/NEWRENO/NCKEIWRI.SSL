@@ -1,0 +1,419 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Keith Wright
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCKEIWRI
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (0)
+#define LVAR_Home_Tile                    (1)
+#define LVAR_Home_Rotation                (2)
+
+#define know_keith_bit                    bit_5
+#define wright_reject_bit                 bit_6
+#define first_sight_bit                   bit_7
+#define node_6_bit                        bit_8
+
+#define know_keith                        lvar_bit(LVAR_Flags, know_keith_bit)
+#define set_know_keith                    set_lvar_bit_on(LVAR_Flags, know_keith_bit)
+#define wright_reject                     lvar_bit(LVAR_Flags, wright_reject_bit)
+#define set_wright_reject                 set_lvar_bit_on(LVAR_Flags, wright_reject_bit)
+#define first_sight                       lvar_bit(LVAR_Flags, first_sight_bit)
+#define set_first_sight                   set_lvar_bit_on(LVAR_Flags, first_sight_bit)
+#define node_6                            lvar_bit(LVAR_Flags, node_6_bit)
+#define set_node_6                        set_lvar_bit_on(LVAR_Flags, node_6_bit)
+
+#define self_family                       family_wright
+
+variable prev_node := 0;
+
+import variable new_reno_keith_wright_obj;
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+procedure start begin
+   new_reno_keith_wright_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == door_use_param) then begin
+      if (warned_door) then begin
+         set_warning_on(warning_attack);
+      end else begin
+         set_warning_on(warning_door);
+         call Node004;
+      end
+   end else if (fixed_param == attack_param) then begin
+      if (self_can_see_dude) then begin
+         call Node998;
+      end
+   end else if (combat_is_initialized == false) then begin
+      if (self_can_see_dude) then begin
+         if (self_family == dude_family) then begin
+            call Node003;
+         end else if (know_keith) then begin
+            call Node002;
+         end else begin
+            call Node001;
+         end
+      end
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_WRIGHT);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_local_var(LVAR_Home_Tile, self_tile);
+         set_local_var(LVAR_Home_Rotation, self_cur_rot);
+      end
+      if (self_tile != local_var(LVAR_Home_Tile)) then begin
+         critter_attempt_placement(self_obj, local_var(LVAR_Home_Tile), self_elevation);
+      end
+      if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
+         animate_rotation(local_var(LVAR_Home_Rotation));
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+   new_reno_keith_wright_obj := self_obj;
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if ((hostile) or (warned_attack)) then begin
+         self_attack_dude;
+      end else if (first_sight == false) then begin
+         set_first_sight;
+         Face_Critter(dude_obj, self_obj);
+         nr_add_timer_event(self_obj, 0, float_param);
+      end
+   end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
+      animate_move_to_tile(local_var(LVAR_Home_Tile));
+   end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
+      animate_rotation(local_var(LVAR_Home_Rotation));
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      attack_family(self_family)
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   if (wright_dead) then begin
+      call Node005;
+   end else begin
+      start_dialog_at_node(Node006);
+   end
+   set_herebefore;
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+   dec_family_counter_amt(self_family, 2);
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150 + examined);
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   if (hostile == false) then begin
+      set_hostile;
+   end
+   attack_family(self_family) //added by killap
+end
+procedure Node999 begin
+end
+procedure Node990 begin
+   if ( (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) and ( (has_rep_berserker) or (has_rep_childkiller) or (check_general_rep < -100) ) ) then begin //edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+      call Node014;
+   end else if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,(-30 * has_rep_slaver)))) then begin
+      call Node013;
+   end else begin
+      call Node014;
+   end
+end
+procedure Node989 begin
+   if (mrs_wright_destroyed_still) then begin
+      call Node020;
+   end else begin
+      call Node018;
+   end
+end
+
+procedure Node001 begin
+   floater_bad_rand(200, 201);
+end
+procedure Node002 begin
+   floater_bad(201);
+end
+procedure Node003 begin
+   float_msg(self_obj, mstr(220) + made_man_name + mstr(1220), FLOAT_COLOR_NORMAL);
+end
+procedure Node004 begin
+   floater_bad(230);
+end
+procedure Node005 begin
+   floater_afraid(240);
+end
+procedure Node006 begin
+   if (node_6) then begin
+      if (self_family == dude_family) then begin
+         Reply(mstr(252) + made_man_name + mstr(1252));
+      end else if ((get_mystery_flag(MYSTERY_STATE_SOLVED)) or (get_mystery_flag(MYSTERY_STATE_BAD_SOLVED))) then begin
+         Reply(mstr(253) + dude_name + mstr(1253));
+      end else begin
+         Reply(254);
+      end
+   end else begin
+      set_node_6;
+      Reply(250 + (has_rep_slaver == false));
+   end
+   BOption(255, Node007, -003);
+   BOption(256, Node007, -003);
+   NOption(257, Node999, -003);
+   if (know_keith) then begin
+      if (wright_permission == false) then begin
+         NOption(258, Node990, 004);
+         if (chris_recommends) then begin
+            NOption(259, Node012, 004);
+         end
+      end
+      if ((know_mrs_wright) and (mrs_wright_dead == false)) then begin
+         NOption(262, Node017, 004);
+      end
+      if (get_mystery_flag(MYSTERY_STATE_ASSIGNED)) then begin
+         BOption(263, Node021, 004);
+      end
+   end else begin
+      NOption(200, Node010, 004);
+      NOption(315, Node011, 004);
+   end
+   NOption(264, Node999, 004);
+end
+procedure Node007 begin
+   Reply(280);
+   BOption(281, Node008, -003);
+   BOption(282, Node008, -003);
+   NOption(257, Node999, -003);
+end
+procedure Node008 begin
+   Reply(290);
+   BOption(291, Node009, -003);
+   BOption(292, Node009, -003);
+   NOption(257, Node999, -003);
+end
+procedure Node009 begin
+   Reply(300);
+   BOption(301, Node998, 004);
+end
+procedure Node010 begin
+   set_know_keith;
+   Reply(310);
+   NOption(258, Node990, 004);
+   if ((chris_recommends) and not(get_mystery_flag(MYSTERY_STATE_ASSIGNED))) then begin //edit by killap - added not(get_mystery_flag(MYSTERY_STATE_ASSIGNED))
+      GOption(312, Node012, 004);
+   end
+   if ((know_mrs_wright) and (mrs_wright_dead == false)) then begin
+      NOption(313, Node017, 004);
+   end
+   if (get_mystery_flag(MYSTERY_STATE_ASSIGNED)) then begin
+      BOption(263, Node021, 004);
+   end
+   NOption(315, Node011, 004);
+   NOption(264, Node999, 004);
+end
+procedure Node011 begin
+   Reply(325);
+   NOption(258, Node990, 004);
+   if (chris_recommends) then begin
+      GOption(312, Node012, 004);
+   end
+   NOption(200, Node010, 004);
+   NOption(264, Node999, 004);
+end
+procedure Node012 begin
+   Reply(335);
+   NOption(336, Node026, 004);
+end
+procedure Node013 begin
+   set_wright_permission;
+   Reply(345);
+   NOption(346, Node026, 004);
+end
+procedure Node014 begin
+   Reply(mstr(355 + has_rep_slaver) + mstr(357));
+   BOption(358, Node015, 004);
+   NOption(359, Node999, 004);
+end
+procedure Node015 begin
+   Reply(365);
+   BOption(366, Node016, 004);
+   NOption(367, Node999, 004);
+end
+procedure Node016 begin
+   Reply(375);
+   BOption(376, Node998, 004);
+end
+procedure Node017 begin
+   Reply(380);
+   NOption(381, Node989, 007);
+   if (get_still_mission(still_mission_none)) then begin
+      NOption(391, Node019, 004);
+   end
+   NOption(383, Node999, 004);
+end
+procedure Node018 begin
+   Reply(390);
+   if (get_still_mission(still_mission_none)) then begin
+      NOption(391, Node019, 004);
+   end
+   NOption(392, Node999, 004);
+end
+procedure Node019 begin
+   set_know_still;
+   Reply(400);
+   NOption(401, Node999, 004);
+end
+procedure Node020 begin
+   Reply(410);
+   NOption(401, Node999, 004);
+end
+procedure Node021 begin
+   Reply(420);
+   NOption(421, Node022, 004);
+   NOption(422, Node999, 004);
+end
+procedure Node022 begin
+   Reply(430);
+   NOption(431, Node023, 004);
+   NOption(432, Node024, 006);
+   NOption(422, Node999, 004);
+end
+procedure Node023 begin
+   suspect_jagged_jimmy_j
+   suspect_jules
+   suspect_renesco
+   suspect_lil_jesus
+   Reply(440);
+   NOption(441, Node027, 004);
+   NOption(442, Node024, 006);
+   NOption(443, Node999, 004);
+end
+procedure Node024 begin
+   Reply(450);
+   NOption(451, Node025, 007);
+   NOption(452, Node023, 004);
+   if (dude_iq < 7) then begin
+      NOption(443, Node999, 004);
+   end
+   NOption(454, Node999, 007);
+end
+procedure Node025 begin
+   set_richard_wright_room;
+   Reply(460);
+   NOption(461, Node999, 004);
+end
+procedure Node026 begin
+   set_wright_permission;
+   Reply(470);
+   NOption(471, Node999, 004);
+end
+procedure Node027 begin
+   suspect_jagged_jimmy_j
+   suspect_jules
+   suspect_renesco
+   suspect_lil_jesus
+   Reply(480);
+   NOption(442, Node024, 006);
+   NOption(443, Node999, 004);
+end

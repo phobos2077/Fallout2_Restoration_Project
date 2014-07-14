@@ -1,0 +1,841 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_FSFACE
+#define CUR_COMP_SCRIPT         SCRIPT_FSFACE
+
+#include "..\headers\command.h"
+#include "..\headers\sanfran.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Herebefore                          (0)
+#define LVAR_Bit_Adjust                          (1)
+#define LVAR_Bit_Discs                           (2)
+
+#define STR bit_1
+#define INT bit_2
+#define PER bit_3
+#define CHR bit_4
+
+#define adjust(x)     (lvar_bit(LVAR_Bit_Adjust, x))
+#define set_adjust(x) set_lvar_bit_on(LVAR_Bit_Adjust, x)
+
+//Uses same bits above
+#define disc(x)       (lvar_bit(LVAR_Bit_Discs, x))
+#define set_disc(x)   set_lvar_bit_on(LVAR_Bit_Discs, x)
+
+#define DISC_STR_PID PID_MEM_CHIP_RED
+#define DISC_INT_PID PID_MEM_CHIP_YELLOW
+#define DISC_PER_PID PID_MEM_CHIP_GREEN
+#define DISC_CHR_PID PID_MEM_CHIP_BLUE
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+
+procedure sequence;
+
+variable begin
+   q1 := 0;
+   q2 := 0;
+   q3 := 0;
+   doSeq := 0;
+   seqCnt := 0;
+
+   lastDudePos;
+   lastDudeRot;
+   guard1;
+   guard2;
+   body;
+   matt;
+   wep;
+end
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+#define TIMER_SEQUENCE 1
+
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_SEQUENCE) then begin
+      call sequence;
+   end
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+   dialogue_system_enter;
+end
+
+procedure talk_p_proc begin
+   start_gdialog(NAME,self_obj,4,-1,-1);
+   gSay_Start;
+      call Node001;
+   gSay_End;
+   end_dialogue;
+
+   if (doSeq == 1) then begin
+      doSeq := 0;
+      call sequence;
+   end
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+end
+
+
+/**********************************************************************************
+**********************************************************************************/
+
+procedure description_p_proc begin
+end
+
+
+/**********************************************************************************
+   Make sure the door is working.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+end
+
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged it breaks
+******************************************************************************************/
+
+procedure damage_p_proc begin
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   Reply(100);
+   NOption(101, Node002, 1);
+   NOption(102, Node999, 1);
+   NLowOption(103, Node016);
+   NOption(104, Node016, 4);
+
+
+   if (BOS_SEQ and not BOS_SEQ_DONE) then
+      NOption(223, Node024, 4);
+end
+
+procedure Node002 begin
+   Reply(105);
+   if (dude_cur_hits != dude_max_hits) then begin
+      NLowOption(106, Node003);
+      NOption(115, Node003, 4);
+   end
+   if (dude_is_poisoned) then begin
+      NLowOption(107, Node004);
+      NOption(116, Node004, 4);
+   end
+   if (dude_is_irradiated) then begin
+      NLowOption(108, Node005);
+      NOption(117, Node005, 4);
+   end
+   if (dude_is_crippled) then begin
+      NLowOption(109, Node006);
+      NOption(118, Node006, 4);
+   end
+   if (not adjust(STR) and dude_strength < 10) then begin
+      NLowOption(110, Node007);
+      NOption(119, Node007, 4);
+   end
+   if (not adjust(INT) and dude_iq < 10) then begin
+      NLowOption(111, Node009);
+      NOption(120, Node009, 4);
+   end
+   if (not adjust(PER) and dude_perception < 10) then begin
+      NLowOption(112, Node011);
+      NOption(121, Node011, 4);
+   end
+   if (not adjust(CHR) and dude_charisma < 10) then begin
+      NLowOption(113, Node013);
+      NOption(122, Node013, 4);
+   end
+   NLowOption(114, Node999);
+   NOption(123, Node999, 4);
+end
+
+procedure NodeHeal15 begin
+   fadeout(500);
+   critter_heal(dude_obj, dude_max_hits - dude_cur_hits);
+   game_time_advance(ONE_GAME_MINUTE * 5);
+   fadein(500);
+   call Node015;
+end
+
+procedure NodePois15 begin
+   fadeout(500);
+   poison(dude_obj, -dude_is_poisoned);
+   game_time_advance(ONE_GAME_MINUTE * 30);
+   fadein(500);
+   call Node015;
+end
+
+procedure NodeRad15 begin
+   fadeout(500);
+   radiation_dec(dude_obj, dude_is_irradiated);
+   game_time_advance(ONE_GAME_MINUTE * 60);
+   fadein(500);
+   call Node015;
+end
+
+procedure NodeCrip15 begin
+   fadeout(500);
+   critter_uninjure(dude_obj, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+   game_time_advance(ONE_GAME_DAY);
+   fadein(500);
+   call Node015;
+end
+
+procedure NodeStr15 begin
+   fadeout(500);
+      game_time_advance(ONE_GAME_WEEK * 2);
+      set_critter_stat(dude_obj, STAT_st, 1);
+   fadein(500);
+   set_adjust(STR);
+   call Node015;
+end
+
+procedure NodeInt15 begin
+   fadeout(500);
+      game_time_advance(ONE_GAME_WEEK * 4);
+      set_critter_stat(dude_obj, STAT_iq, 1);
+   fadein(500);
+   set_adjust(INT);
+   call Node015;
+end
+
+procedure NodePer15 begin
+   fadeout(500);
+      game_time_advance(ONE_GAME_WEEK * 2);
+      set_critter_stat(dude_obj, STAT_pe, 1);
+   fadein(500);
+   set_adjust(PER);
+   call Node015;
+end
+
+procedure NodeChr15 begin
+   variable extra_ch := 0; //added by killap
+   fadeout(500);
+      game_time_advance(ONE_GAME_WEEK * 3);
+      
+      // added by killap - expansion
+      if (has_trait(TRAIT_PERK, dude_obj, PERK_dermal_enhancement_perk) or has_trait(TRAIT_PERK, dude_obj, PERK_phoenix_enhancement_perk)) then
+         set_pc_extra_stat(STAT_ch, get_pc_extra_stat(STAT_ch) + 1);
+      else
+         set_critter_stat(dude_obj, STAT_ch, 1); 
+         
+      //edit by killap - requires sfall functions; odd hack for one user. Not sure if others are affected, or why it happened...
+      extra_ch := get_pc_extra_stat(STAT_ch);
+      if (extra_ch < 0) then
+         set_pc_extra_stat(STAT_ch, extra_ch + 1);
+      //end
+   fadein(500);
+   set_adjust(CHR);
+   call Node015;
+end
+
+procedure Node003 begin
+   Reply(124);
+   NLowOption(125, NodeHeal15);
+   NLowOption(126, Node002);
+   NOption(127, NodeHeal15, 4);
+   NOption(128, Node002, 4);
+end
+
+procedure Node004 begin
+   Reply(129);
+   NLowOption(130, NodePois15);
+   NLowOption(131, Node002);
+   NOption(132, NodePois15, 4);
+   NOption(133, Node002, 4);
+end
+
+procedure Node005 begin
+   Reply(134);
+   NLowOption(135, NodeRad15);
+   NLowOption(136, Node002);
+   NOption(137, NodeRad15, 4);
+   NOption(138, Node002, 4);
+end
+
+procedure Node006 begin
+   Reply(139);
+   NLowOption(140, NodeCrip15);
+   NLowOption(141, Node002);
+   NOption(142, NodeCrip15, 4);
+   NOption(143, Node002, 4);
+end
+
+procedure Node007s begin
+   variable obj;
+
+   obj := dude_item(DISC_STR_PID);
+   rm_obj_from_inven(dude_obj, obj);
+   destroy_object(obj);
+   set_disc(STR);
+   call Node007;
+end
+
+procedure Node007 begin
+   if (not disc(STR)) then begin
+      Reply(144);
+      if (dude_item(DISC_STR_PID)) then begin
+         NLowOption(145, Node007s);
+         NOption(147, Node007s, 4);
+      end else begin
+         NLowOption(146, Node999);
+         NOption(148, Node999, 4);
+      end
+   end else begin
+      Reply(149);
+      NLowOption(150, Node008);
+      NLowOption(151, Node002);
+      NOption(152, Node008, 4);
+      NOption(153, Node002, 4);
+   end
+end
+
+procedure Node008 begin
+   Reply(154);
+   NOption(155, NodeStr15, 1);
+end
+
+procedure Node009s begin
+   variable obj;
+
+   obj := dude_item(DISC_INT_PID);
+   rm_obj_from_inven(dude_obj, obj);
+   destroy_object(obj);
+   set_disc(INT);
+   call Node009;
+end
+
+procedure Node009 begin
+   if (not disc(INT)) then begin
+      Reply(156);
+      if (dude_item(DISC_INT_PID)) then begin
+         NLowOption(157, Node009s);
+         NOption(159, Node009s, 4);
+      end else begin
+         NLowOption(158, Node999);
+         NOption(160, Node999, 4);
+      end
+   end else begin
+      Reply(161);
+      NLowOption(162, Node010);
+      NLowOption(163, Node002);
+      NOption(164, Node010, 4);
+      NOption(165, Node002, 4);
+   end
+end
+
+procedure Node010 begin
+   Reply(166);
+   NOption(167, NodeInt15, 1);
+end
+
+procedure Node011s begin
+   variable obj;
+
+   obj := dude_item(DISC_PER_PID);
+   rm_obj_from_inven(dude_obj, obj);
+   destroy_object(obj);
+   set_disc(PER);
+   call Node011;
+end
+
+procedure Node011 begin
+   if (not disc(PER)) then begin
+      Reply(168);
+      if (dude_item(DISC_PER_PID)) then begin
+         NLowOption(169, Node011s);
+         NOption(171, Node011s, 4);
+      end else begin
+         NLowOption(170, Node999);
+         NOption(172, Node999, 4);
+      end
+   end else begin
+      Reply(173);
+      NLowOption(174, Node012);
+      NLowOption(175, Node002);
+      NOption(176, Node012, 4);
+      NOption(177, Node002, 4);
+   end
+end
+
+procedure Node012 begin
+   Reply(178);
+   NOption(179, NodePer15, 1);
+end
+
+procedure Node013s begin
+   variable obj;
+
+   obj := dude_item(DISC_CHR_PID);
+   rm_obj_from_inven(dude_obj, obj);
+   destroy_object(obj);
+   set_disc(CHR);
+   call Node013;
+end
+
+procedure Node013 begin
+   if (not disc(CHR)) then begin
+      Reply(180);
+      if (dude_item(DISC_CHR_PID)) then begin
+         NLowOption(181, Node013s);
+         NOption(183, Node013s, 4);
+      end else begin
+         NLowOption(182, Node999);
+         NOption(184, Node999, 4);
+      end
+   end else begin
+      Reply(185);
+      NLowOption(186, Node014);
+      NLowOption(187, Node002);
+      NOption(188, Node014, 4);
+      NOption(189, Node002, 4);
+   end
+end
+
+procedure Node014 begin
+   Reply(190);
+   NOption(191, NodeChr15, 1);
+end
+
+procedure Node015 begin
+   Reply(192);
+   NOption(193, Node999, 1);
+end
+
+procedure Node017a begin
+   q1 := 1;
+   call Node017;
+end
+procedure Node022a begin
+   q2 := 1;
+   call Node022;
+end
+procedure Node023a begin
+   q3 := 1;
+   call Node023;
+end
+
+procedure Node016 begin
+   Reply(194);
+   if (not q1) then begin
+      NLowOption(195, Node017a);
+      NOption(199, Node017a, 4);
+   end
+   if (not q2) then begin
+      NLowOption(196, Node022a);
+      NOption(200, Node022a, 4);
+   end
+   if (not q3) then begin
+      NLowOption(197, Node023a);
+      NOption(201, Node023a, 4);
+   end
+   NLowOption(198, Node999);
+   NOption(202, Node999, 4);
+end
+
+procedure Node017 begin
+   Reply(203);
+   NLowOption(204, Node018);
+   NOption(205, Node019, 4);
+end
+
+procedure Node018 begin
+   Reply(206);
+   NLowOption(207, Node019);
+end
+
+procedure Node019 begin
+   Reply(208);
+   NOption(209, Node020, 1);
+end
+
+procedure Node020 begin
+   Reply(210);
+   NLowOption(211, Node021);
+   NLowOption(212, Node016);
+   NOption(213, Node021, 4);
+   NOption(214, Node016, 4);
+end
+
+procedure Node021 begin
+   Reply(215);
+   NLowOption(216, Node016);
+   NOption(217, Node016, 4);
+end
+
+procedure Node022 begin
+   Reply(218);
+   NLowOption(219, Node016);
+   NOption(220, Node016, 4);
+end
+
+procedure Node023 begin
+   Reply(221);
+   NOption(222, Node016, 1);
+end
+
+procedure NodeSequence begin
+   doSeq := 1;
+   call Node999;
+end
+
+procedure Node024 begin
+   Reply(224);
+   NOption(225, NodeSequence, 1);
+   NOption(226, Node001, 1);
+end
+
+#define CAMERATILE 15125
+#define GUARD1TILE 14324
+#define GUARD2TILE 14328
+#define BODYTILE   14726
+#define MATTTILE   15326
+
+#define BODYHITTILE 15126
+
+/*
+#define HIDEMEMBER(x)    \
+   if (x) then begin     \
+      hid_##x := 1;      \
+      set_obj_visibility(x, OBJ_INVIS); \
+   end
+
+#define UNHIDE(x)        \
+   if (x) then begin     \
+      if (hid_##x) then begin \
+         hid_##x := 0;        \
+         set_obj_visibility(x, OBJ_VIS);\
+      end                               \
+   end
+
+variable begin
+   hid_Vic_Ptr;
+   hid_Myron_Ptr;
+   hid_Marcus_Ptr;
+   hid_MacRae_Ptr;
+   hid_Sulik_Ptr;
+   hid_Lenny_Ptr;
+   hid_Cyberdog_Ptr;
+   hid_Doc_Ptr;
+   hid_Goris_Ptr;
+   hid_Davin_Ptr;
+   hid_Miria_Ptr;
+   hid_Robobrain_Ptr;
+   hid_Dogmeat_Ptr;
+   hid_Pariah_Dog_Ptr;
+   hid_K9_Ptr;
+   hid_Robobrain_Human_Ptr;
+   hid_Robobrain_Abnormal_Ptr;
+   hid_Robobrain_Chimp_Ptr;
+end
+
+procedure hideParty begin
+   HIDEMEMBER(Vic_Ptr)
+   HIDEMEMBER(Myron_Ptr)
+   HIDEMEMBER(Marcus_Ptr)
+   HIDEMEMBER(MacRae_Ptr)
+   HIDEMEMBER(Sulik_Ptr)
+   HIDEMEMBER(Lenny_Ptr)
+   HIDEMEMBER(Cyberdog_Ptr)
+   HIDEMEMBER(Doc_Ptr)
+   HIDEMEMBER(Goris_Ptr)
+   HIDEMEMBER(Davin_Ptr)
+   HIDEMEMBER(Miria_Ptr)
+   HIDEMEMBER(Robobrain_Ptr)
+   HIDEMEMBER(Dogmeat_Ptr)
+   HIDEMEMBER(Pariah_Dog_Ptr)
+   HIDEMEMBER(K9_Ptr)
+   HIDEMEMBER(Robobrain_Human_Ptr)
+   HIDEMEMBER(Robobrain_Abnormal_Ptr)
+   HIDEMEMBER(Robobrain_Chimp_Ptr)
+end
+
+procedure unhideParty begin
+   UNHIDE(Vic_Ptr)
+   UNHIDE(Myron_Ptr)
+   UNHIDE(Marcus_Ptr)
+   UNHIDE(MacRae_Ptr)
+   UNHIDE(Sulik_Ptr)
+   UNHIDE(Lenny_Ptr)
+   UNHIDE(Cyberdog_Ptr)
+   UNHIDE(Doc_Ptr)
+   UNHIDE(Goris_Ptr)
+   UNHIDE(Davin_Ptr)
+   UNHIDE(Miria_Ptr)
+   UNHIDE(Robobrain_Ptr)
+   UNHIDE(Dogmeat_Ptr)
+   UNHIDE(Pariah_Dog_Ptr)
+   UNHIDE(K9_Ptr)
+   UNHIDE(Robobrain_Human_Ptr)
+   UNHIDE(Robobrain_Abnormal_Ptr)
+   UNHIDE(Robobrain_Chimp_Ptr)
+end
+*/
+
+procedure sequence begin
+   variable sound;
+   variable sound1;
+
+   if (seqCnt == 0) then begin
+      fadeout(500);
+      party_member_hide_all // Seraph's Fix: Uncommented out this line
+
+      game_ui_disable;
+      lastDudePos := dude_tile;
+      lastDudeRot := obj_get_rot(dude_obj);
+      set_obj_visibility(dude_obj, OBJ_INVIS);
+      guard1 := create_object(PID_MALE_ENCALVE_PATROL, GUARD1TILE, 2);
+      guard2 := create_object(PID_MALE_ENCALVE_PATROL, GUARD2TILE, 2);
+      body   := create_object(PID_END_BOSS, BODYTILE, 2);
+      matt   := create_object(PID_TOUGH_GUARD_MALE, MATTTILE, 2);
+
+      anim(guard1, ANIMATE_ROTATION, rotation_to_tile(tile_num(guard1), tile_num(matt)));
+      anim(guard2, ANIMATE_ROTATION, rotation_to_tile(tile_num(guard2), tile_num(matt)));
+      anim(body, ANIMATE_ROTATION, rotation_to_tile(tile_num(body), tile_num(matt)));
+      anim(matt, ANIMATE_ROTATION, rotation_to_tile(tile_num(matt), tile_num(body)));
+
+      party_no_follow_on;
+      move_to(dude_obj, CAMERATILE, 2);
+      fadein(500);
+      float_msg(matt, mstr(227), FLOAT_MSG_NORMAL);
+      seqCnt += 1;
+      add_timer_event(self_obj, game_ticks(3), TIMER_SEQUENCE);
+   end else if (seqCnt == 1) then begin
+      float_msg(body, mstr(228), FLOAT_MSG_NORMAL);
+      seqCnt += 1;
+      add_timer_event(self_obj, game_ticks(3), TIMER_SEQUENCE);
+   end else if (seqCnt == 2) then begin
+      float_msg(matt, mstr(229), FLOAT_MSG_NORMAL);
+      seqCnt += 1;
+      add_timer_event(self_obj, game_ticks(3), TIMER_SEQUENCE);
+   end else if (seqCnt == 3) then begin
+      float_msg(body, mstr(230), FLOAT_MSG_RED);
+      seqCnt += 1;
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
+   end else if (seqCnt == 4) then begin
+      float_msg(matt, mstr(231), FLOAT_MSG_NORMAL);
+      seqCnt += 1;
+      add_timer_event(self_obj, game_ticks(3), TIMER_SEQUENCE);
+   end else if (seqCnt == 5) then begin
+      float_msg(body, mstr(232), FLOAT_MSG_GREEN);
+      seqCnt += 1;
+      add_timer_event(self_obj, game_ticks(3), TIMER_SEQUENCE);
+   end else if (seqCnt == 6) then begin
+      wep := create_object(PID_TURBO_PLASMA_RIFLE,0,0);
+      add_obj_to_inven(matt, wep);
+      wield_obj_critter(matt, wep);
+      seqCnt += 1;
+      add_timer_event(self_obj, game_ticks(2), TIMER_SEQUENCE);
+   end else if (seqCnt == 7) then begin
+      float_msg(body, mstr(233), FLOAT_MSG_NORMAL);
+      seqCnt += 1;
+      add_timer_event(self_obj, game_ticks(1), TIMER_SEQUENCE);
+   end else if (seqCnt > 7 and seqCnt < 10) then begin
+      sound := sfx_build_weapon_name(snd_weapon_attack, wep, hit_left_weapon_primary, self_obj);
+      sound1 := sfx_build_char_name(body, ANIM_hit_from_front, snd_contact);
+      reg_anim_clear(matt);
+      reg_anim_begin();
+      reg_anim_animate(matt, ANIM_fire_single, -1);
+      reg_anim_play_sfx(matt, sound, 0);
+      reg_anim_end();
+
+      reg_anim_clear(body);
+      reg_anim_begin();
+      reg_anim_animate(body, ANIM_hit_from_front, -1);
+      reg_anim_play_sfx(body, sound1, 0);
+      reg_anim_end();
+      seqCnt += 1;
+      add_timer_event(self_obj, game_ticks(1), TIMER_SEQUENCE);
+   end else if (seqCnt == 10) then begin
+      float_msg(body, mstr(234), FLOAT_MSG_GREEN);
+      seqCnt += 1;
+      add_timer_event(self_obj, game_ticks(3), TIMER_SEQUENCE);
+   end else if (seqCnt == 11) then begin
+      float_msg(body, mstr(235), FLOAT_MSG_GREEN);
+      seqCnt += 1;
+      add_timer_event(self_obj, game_ticks(3), TIMER_SEQUENCE);
+   end else if (seqCnt == 12) then begin
+      float_msg(matt, mstr(236), FLOAT_MSG_GREEN);
+      seqCnt += 1;
+      add_timer_event(self_obj, game_ticks(1), TIMER_SEQUENCE);
+   end else if (seqCnt == 13) then begin
+      reg_anim_clear(body);
+      reg_anim_begin();
+      animate_move_obj_to_tile(body, BODYHITTILE, ANIMATE_WALK);
+      reg_anim_end();
+      seqCnt += 1;
+      add_timer_event(self_obj, game_ticks(1), TIMER_SEQUENCE);
+   end else if (seqCnt == 14) then begin
+      sound := sfx_build_char_name(body, ANIM_throw_punch, snd_contact);
+      sound1 := sfx_build_char_name(matt, ANIM_big_hole, snd_die);
+      reg_anim_clear(body);
+      reg_anim_begin();
+      reg_anim_animate(body, ANIM_throw_punch, -1);
+      reg_anim_play_sfx(body, sound, 0);
+      reg_anim_end();
+
+      reg_anim_clear(matt);
+      reg_anim_begin();
+      reg_anim_animate(matt, ANIM_big_hole, -1);
+      reg_anim_play_sfx(matt, sound1, 0);
+      reg_anim_end();
+      seqCnt += 1;
+      add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
+   end else if (seqCnt == 15) then begin
+      anim(body, ANIMATE_ROTATION, rotation_to_tile(tile_num(body), tile_num(guard1)));
+      float_msg(matt, mstr(237), FLOAT_MSG_NORMAL);
+      seqCnt += 1;
+      add_timer_event(self_obj, game_ticks(3), TIMER_SEQUENCE);
+   end else if (seqCnt == 16) then begin
+      float_msg(guard1, mstr(238), FLOAT_MSG_GREEN);
+      seqCnt += 1;
+      add_timer_event(self_obj, game_ticks(1), TIMER_SEQUENCE);
+   end else if (seqCnt == 17) then begin
+      float_msg(guard2, mstr(239), FLOAT_MSG_NORMAL);
+      seqCnt += 1;
+      add_timer_event(self_obj, game_ticks(3), TIMER_SEQUENCE);
+   end else if (seqCnt == 18) then begin
+      fadeout(500);
+      seqCnt := 0;
+      destroy_object(matt);
+      destroy_object(guard1);
+      destroy_object(guard2);
+      destroy_object(body);
+
+      matt := 0;
+      guard1 := 0;
+      guard2 := 0;
+      body := 0;
+
+      move_to(dude_obj, 14547, 1);
+      party_no_follow_off;
+      anim(dude_obj, ANIMATE_ROTATION, lastDudeRot); // Seraph's Fix: animate_rotation only affects self_obj. Thanks Rob!
+      set_obj_visibility(dude_obj, OBJ_VIS);
+      game_ui_enable;
+
+      party_member_unhide_all // Seraph's Fix: Uncommented out this line
+
+      ON_BOS_SEQ_DONE;
+      fadein(500);
+   end
+end
+/*
+*/

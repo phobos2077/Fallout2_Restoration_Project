@@ -1,0 +1,33 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Modoc Rug
+        Location: Ghost Farm
+        Description: Drops the player to the slag area
+
+        Log:
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_MTRUG
+#include "..\headers\command.h"
+#include "..\headers\Modoc.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure spatial_p_proc;
+
+procedure start begin
+end
+procedure spatial_p_proc begin
+   if (source_obj == dude_obj) then begin
+      load_map(MAP_GHOST_CAVERN, 777);
+   end
+end

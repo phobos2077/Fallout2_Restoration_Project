@@ -1,0 +1,426 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/* Random Encounter scripts. These will be filled in more once they
+   have been designed.
+*/
+
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_ECNOMSHA
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure combat_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+#define LVAR_Herebefore                 (0)
+#define LVAR_Hostile                    (1)
+#define LVAR_Personal_Enemy             (2)
+
+#define MIN_HEALING_PRICE 100
+#define MAX_HEALING_PRICE 300
+
+#define MIN_CRIPPLE_PRICE 300
+#define MAX_CRIPPLE_PRICE 400
+
+#define MIN_RADATION_PRICE 200
+#define MAX_RADATION_PRICE 300
+
+#define MIN_POISON_PRICE  50
+#define MAX_POISON_PRICE  200
+
+#define MIN_RADHEAL 20
+#define MAX_RADHEAL 100
+
+#define MIN_POIHEAL 30
+#define MAX_POIHEAL 100
+
+#define MIN_POWDER  20
+#define MAX_POWDER  50
+
+variable begin
+   n1count;
+   healing_price;
+   cripple_price;
+   radation_price;
+   poison_price;
+   radation_heal_amt;
+   poison_heal_amt;
+
+   powder_price;
+end
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+#define TAUNT_CHANCE 40
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+
+procedure NodeFleeing;
+procedure NodeFighting;
+
+
+procedure start begin
+end
+
+procedure combat_p_proc begin
+   if (critter_is_fleeing(self_obj)) then
+      if (Random(1, 100) <= TAUNT_CHANCE) then
+         call NodeFleeing;
+   else
+      if (Random(1, 100) <= TAUNT_CHANCE) then
+         call NodeFighting;
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   if (cur_map_index == MAP_RND_MOUNTAIN_4) then
+      move_to(self_obj, 17076, 0);
+   else if (cur_map_index == MAP_RND_MOUNTAIN_5) then
+      move_to(self_obj, 18303, 0);
+   else if (cur_map_index == MAP_RND_DESERT4) then
+      move_to(self_obj, 19098, 0);
+   else if (cur_map_index == MAP_RND_DESERT5) then
+      move_to(self_obj, 20686, 0);
+   else if (cur_map_index == MAP_RND_DESERT_9) then
+      move_to(self_obj, 17894, 0);
+   else if (cur_map_index == MAP_RND_COAST7) then
+      move_to(self_obj, 21302, 0);
+   else if (cur_map_index == MAP_RND_COAST8) then
+      move_to(self_obj, 18682, 0);
+   else if (cur_map_index == MAP_RND_COAST9) then
+      move_to(self_obj, 18089, 0);
+   else if (cur_map_index == MAP_RND_COAST_10) then
+      move_to(self_obj, 17305, 0);
+   else if (cur_map_index == MAP_RND_COAST_11) then
+      move_to(self_obj, 17894, 0);
+   else if (cur_map_index == MAP_RND_COAST_12) then
+      move_to(self_obj, 19088, 0);
+   
+   
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_NOMAD);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+
+   check_restock_item(PID_SPEAR, 2, 5, 30)
+   check_restock_item(PID_CLUB, 5, 7, 40)
+   check_restock_item(PID_KNIFE, 3, 5, 30)
+   check_restock_item(PID_SHARPENED_POLE, 4, 6, 80)
+   //check_restock_item(PID_RADSCORPION_PARTS, 5, 6, 10)
+   check_restock_item(PID_GECKO_PELT, 5, 6, 20)
+
+   healing_price  := Random(MIN_HEALING_PRICE, MAX_HEALING_PRICE);
+   cripple_price  := Random(MIN_CRIPPLE_PRICE, MAX_CRIPPLE_PRICE);
+   radation_price := Random(MIN_RADATION_PRICE, MAX_RADATION_PRICE);
+   poison_price   := Random(MIN_POISON_PRICE, MAX_POISON_PRICE);
+   radation_heal_amt := Random(MIN_RADHEAL, MAX_RADHEAL);
+   poison_heal_amt   := Random(MIN_POIHEAL, MAX_POIHEAL);
+   powder_price      := Random(MIN_POWDER, MAX_POWDER);
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   start_gdialog(NAME,self_obj,4,-1,-1);
+   gSay_Start;
+   call Node001;
+   gSay_End;
+   end_dialogue;
+
+   set_local_var(LVAR_Herebefore, 1);
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   n1count += 1;
+   if (n1count == 1) then
+      Reply(103);
+   else
+      Reply(104);
+   if (dude_cur_hits != dude_max_hits or dude_is_crippled or dude_is_poisoned) then
+      NOption(105, Node002, 4);
+   NOption(106, Node008, 4);
+   //NOption(107, Node003, 4); //commented out by killap, new code placed below.
+   NOption(107, Node999, 4);
+   NLowOption(108, Node011);
+end
+
+procedure Node002 begin
+   Reply(109);
+   NOption(110, Node003, 4);
+end
+
+procedure Node003 begin
+   variable str;
+
+   str := mstr(111);
+
+   if (dude_is_crippled) then
+      str += " " + mstr(139);
+   if (dude_cur_hits < dude_max_hits) then
+      str += " " + mstr(137);
+   if (dude_is_irradiated) then
+      str += " " + mstr(138);
+   if (dude_is_poisoned) then
+      str += " " + mstr(136);
+
+   Reply(str);
+   NOption(112, Node004, 4);
+end
+
+procedure NodeCurePoison begin
+   if (dude_caps >= poison_price) then begin
+      item_caps_adjust(dude_obj, -poison_price);
+      item_caps_adjust(self_obj, poison_price);
+      if (poison_heal_amt > get_poison(dude_obj)) then
+         poison(dude_obj, -get_poison(dude_obj));
+      else
+         poison(dude_obj, -poison_heal_amt);
+      call Node005;
+   end else
+      call Node010;
+end
+
+procedure NodeCureHits begin
+   if (dude_caps >= healing_price) then begin
+      item_caps_adjust(dude_obj, -healing_price);
+      item_caps_adjust(self_obj, healing_price);
+      critter_heal(dude_obj, dude_max_hits - dude_cur_hits);
+      call Node005;
+   end else
+      call Node010;
+end
+
+procedure NodeCureCripple begin
+   if (dude_caps >= cripple_price) then begin
+      item_caps_adjust(dude_obj, -cripple_price);
+      item_caps_adjust(self_obj, cripple_price);
+      critter_uninjure(dude_obj, DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT);
+      call Node005;
+   end else
+      call Node010;
+end
+
+procedure Node004 begin
+   variable str;
+
+   str := mstr(113);
+   if (dude_is_crippled) then
+      str += " " + mstr(141) + cripple_price;
+   if (dude_cur_hits < dude_max_hits) then
+      str += " " + mstr(142) + healing_price;
+   if (dude_is_poisoned) then
+      str += " " + mstr(140) + poison_price;
+
+   Reply(str);
+   if (dude_is_poisoned) then
+      NOption(114, NodeCurePoison, 4);
+   if (dude_cur_hits < dude_max_hits) then
+      NOption(115, NodeCureHits, 4);
+   if (dude_is_crippled) then
+      NOption(116, NodeCureCripple, 4);
+   NOption(117, Node999, 4);
+end
+
+procedure Node005 begin
+   Reply(118);
+   if (dude_is_poisoned or dude_cur_hits < dude_max_hits or dude_is_crippled) then
+      NOption(121, Node004, 4);
+   NOption(122, Node999, 4);
+end
+
+procedure Node006 begin
+   Reply(123);
+   NOption(124, Node004, 4);
+end
+
+procedure Node007 begin
+   Reply(125);
+   NOption(126, Node004, 4);
+end
+
+procedure NodeCombine begin
+   variable root;
+   variable broc;
+   variable rootamt;
+   variable brocamt;
+   variable cnt;
+
+   rootamt := obj_is_carrying_obj_pid(dude_obj, PID_XANDER_ROOT);
+   brocamt := obj_is_carrying_obj_pid(dude_obj, PID_BROC_FLOWER);
+   root := obj_carrying_pid_obj(dude_obj, PID_XANDER_ROOT);
+   broc := obj_carrying_pid_obj(dude_obj, PID_BROC_FLOWER);
+
+   item_caps_adjust(dude_obj, -powder_price);
+   item_caps_adjust(self_obj, powder_price); //edit by killap - was dude_obj
+
+   while (rootamt > 0 and brocamt > 0) do begin
+      cnt += 1;
+      rootamt -= 1;
+      brocamt -= 1;
+   end
+
+   if (cnt > 0) then begin
+      rootamt := rm_mult_objs_from_inven(dude_obj, root, root);
+      brocamt := rm_mult_objs_from_inven(dude_obj, broc, cnt);
+      add_mult_objs_to_inven(dude_obj, create_object(PID_HEALING_POWDER, self_tile, 0), cnt);
+   end
+   call Node009;
+end
+
+procedure Node008 begin
+   Reply(mstr(127) + " " + powder_price + " " + mstr(150));
+   if (obj_carrying_pid_obj(dude_obj, PID_XANDER_ROOT) and  obj_carrying_pid_obj(dude_obj, PID_BROC_FLOWER)) then
+      NOption(128, NodeCombine, 4);
+   NOption(129, Node999, 4);
+end
+
+procedure Node009 begin
+   Reply(130);
+   NOption(131, Node999, 4);
+end
+
+procedure Node010 begin
+   Reply(132);
+   NOption(133, Node999, 4);
+end
+
+procedure Node011 begin
+   Reply(134);
+   //NOption(135, Node999, 4);
+   NOption(135, Node999, 1); //commented out by killap, new code placed below.
+end
+
+procedure NodeFleeing begin
+   //float_msg(self_obj, mstr(Random(120, 122)), FLOAT_MSG_YELLOW); //commented out by killap, new code placed below.
+   float_msg(self_obj, mstr(Random(147, 149)), FLOAT_MSG_YELLOW);
+end
+
+procedure NodeFighting begin
+   //float_msg(self_obj, mstr(Random(116, 119)), FLOAT_MSG_RED); //commented out by killap, new code placed below.
+   float_msg(self_obj, mstr(Random(143, 146)), FLOAT_MSG_RED);
+end
+
+
+//xxxxxxxxxxxxxxxxxxxx

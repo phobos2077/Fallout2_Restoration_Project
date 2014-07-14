@@ -1,0 +1,794 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Francis
+        Location: Broken Hills
+        Description:
+
+        Log:
+            NEED TO GIVE FRANCIS A SCHEDULE...CURRENTLY HE STAYS IN HIS ROOM
+            AFTER THE GIMP SCENARIO.
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\broken.h"
+#include "..\headers\broken1.h"
+
+#define NAME                    SCRIPT_HCFRANCI
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#define SPOT1_NEAR_BED          19476
+#define SPOT2_NEAR_BED          19475
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure combat;
+procedure armwrestle;
+
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node027a;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_03_before                  (7)
+#define LVAR_19_before                  (8)
+#define LVAR_Down_React_1               (9)
+#define LVAR_Town_Down_React            (10)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+import variable Phil_Ptr;
+
+#define float_phil(x)             if( map_var( MVAR_Phil_Dead ) == 0 ) then \
+                                    float_msg(Phil_Ptr, message_str(NAME,x), FLOAT_MSG_GREEN)
+
+#define float_dude(x)             float_msg(dude_obj, message_str(NAME,x), FLOAT_MSG_BLUE)
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable Start_Gimp := 0;
+variable you_lose := 0;
+variable fight_response := 0;
+variable fight_round := 0;
+variable Player_Start := 0;
+variable Francis_Start := 0;
+variable Francis_Leaves := 0;
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   you_lose := 0;
+   fight_response := 0;
+   Francis_Leaves := 0;
+
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+
+   if( ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_SUCCESSFUL ) or ( global_var( GVAR_BH_FTM ) == FTM_SUCCESSFUL ) ) then
+      set_obj_visibility( self_obj, true );
+   else
+      set_obj_visibility( self_obj, false );
+end
+
+procedure timed_event_p_proc begin
+   if( fixed_param == 1 ) then begin
+      float_msg(self_obj, " ", FLOAT_COLOR_NORMAL);
+      float_msg(dude_obj, " ", FLOAT_COLOR_NORMAL);
+      if( map_var( MVAR_Phil_Dead ) == 0 ) then
+         float_msg(Phil_Ptr, " ", FLOAT_COLOR_NORMAL);
+      float_msg_clear(self_obj);
+      float_msg_clear(dude_obj);
+      if( map_var( MVAR_Phil_Dead ) == 0 ) then
+         float_msg_clear(Phil_Ptr);
+
+      if( fight_round == 0 ) then begin
+         game_ui_disable;
+         gfade_out( 600 );
+         //set_obj_visibility( self_obj, true );
+         //set_obj_visibility( dude_obj, true );
+         Francis_Start := tile_num( self_obj );
+         Player_Start := tile_num( dude_obj );
+         move_to( self_obj, 20689, 0 );
+         //set_obj_visibility( self_obj, false );
+         critter_attempt_placement( self_obj, 20689, 0 );
+         move_to( dude_obj, 21089, 0 );
+         //set_obj_visibility( dude_obj, false );
+         critter_attempt_placement( dude_obj, 21089, 0 );
+         Face_Critter( self_obj, dude_obj );
+         Face_Critter( dude_obj, self_obj );
+         gfade_in( 600 );
+      end
+
+      // Handle arm-wrestling floats.
+      if( fight_round < 4 ) then begin
+         floater( random( 400, 409 ) );
+         float_dude( random( 400, 409 ) );
+         if( map_var( MVAR_Phil_Dead ) == 0 ) then
+            float_phil( random( 500, 513 ) );
+
+         fight_round += 1;
+         add_timer_event( self_obj, game_ticks(4), 1 );
+      end
+      else if( fight_round == 4 ) then begin
+         if( you_lose == 0 ) then begin
+            floater( 410 );
+            float_dude( 411 );
+            if( map_var( MVAR_Phil_Dead ) == 0 ) then
+               float_phil(532);
+         end
+         else begin
+            floater( 411 );
+            float_dude( 410 );
+            if( map_var( MVAR_Phil_Dead ) == 0 ) then begin
+               if( dude_is_male ) then begin
+                  float_phil(531);
+               end
+               else begin
+                  float_phil(530);
+               end
+            end
+         end
+
+         fight_round += 1;
+         add_timer_event( self_obj, game_ticks(4), 1 );
+      end
+      else if( fight_round >= 5 ) then begin
+         gfade_out( 600 );
+         //set_obj_visibility( self_obj, true );
+         //set_obj_visibility( dude_obj, true );
+         move_to( self_obj, Francis_Start, 0 );
+         //set_obj_visibility( self_obj, false );
+         critter_attempt_placement( self_obj, Francis_Start, 0 );
+         move_to( dude_obj, Player_Start, 0 );
+         //set_obj_visibility( dude_obj, false );
+         critter_attempt_placement( dude_obj, Player_Start, 0 );
+         Face_Critter( self_obj, dude_obj );
+         Face_Critter( dude_obj, self_obj );
+         gfade_in( 600 );
+         game_ui_enable;
+         fight_round := 0;
+         fight_response := 1;
+         dialogue_system_enter;
+      end
+   end
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+       set_global_var(GVAR_ENEMY_BROKEN_HILLS,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   variable ballGag;
+
+   GetReaction;
+   ReactToLevel; //added by killap
+   
+   Francis_Leaves := 0;
+
+   if( fight_response == 1 ) then begin
+      fight_response := 0;
+      if (you_lose == 0) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node014;
+         gSay_End;
+         end_dialogue;
+      end
+      else begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node015;
+         gSay_End;
+         end_dialogue;
+      end
+   end
+   else if (local_var(LVAR_Personal_Enemy) == 1) then begin
+       call Node998;
+   end
+   else if (bad_critter_reaction) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node012;
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(GVAR_BH_MIGHTY_MAN) == MIGHTY_MAN_CHALLENGED) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node006;
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(GVAR_BH_MIGHTY_MAN) == MIGHTY_MAN_ACCEPTED) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node006;
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(GVAR_BH_MIGHTY_MAN) == MIGHTY_MAN_REJECTED) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node010;
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(GVAR_BH_MIGHTY_MAN) == MIGHTY_MAN_WON) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node016;
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(GVAR_BH_MIGHTY_MAN) == MIGHTY_MAN_LOST) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node017;
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(TOWN_REP_VAR) < 5) then begin //was TOWN_REP_VAR, changed to global_var(TOWN_REP_VAR) - killap
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node018;
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(GVAR_BH_FTM) == FTM_EXPOSED) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node019;
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(GVAR_ENEMY_BROKEN_HILLS) == 1) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node020;
+       gSay_End;
+       end_dialogue;
+   end
+   else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+          call Node001;
+       gSay_End;
+       end_dialogue;
+   end
+   set_local_var( LVAR_Herebefore, 1 );
+
+   if( Start_Gimp == 1 ) then begin
+      Start_Gimp := 0;
+      ballGag := create_object( PID_BALL_GAG, 0, 0 );
+      add_obj_to_inven( dude_obj, ballGag );
+
+      set_global_var(GVAR_BH_MIGHTY_MAN, MIGHTY_MAN_LOST);
+      set_global_var(GVAR_GIMP_FLAG,1); // mark that player was a gimp
+
+      gfade_out(600);
+      move_to(dude_obj,SPOT1_NEAR_BED,elevation(dude_obj));
+      //move_to(self_obj,SPOT2_NEAR_BED,elevation(dude_obj));
+      game_time_advance(game_ticks(8*3600));//8 hours
+      gfade_in(600);
+      display_msg( mstr(302) );
+      //fadeout. reappear in francis's home.
+      //set clock to next morning. Add gimp flag. etc...
+      //check design.
+   end
+
+   if( Francis_Leaves == 1 ) then begin
+      //added by killap
+      if (obj_is_carrying_obj_pid(dude_obj,PID_MEMO_FROM_FRANCIS)) then begin
+         remove_pid_qty(dude_obj, PID_MEMO_FROM_FRANCIS, 1)
+      end
+      //destroy_object(note);
+      //end added
+      set_global_var( GVAR_READ_FRANCIS_NOTE, 2 );
+      Francis_Leaves := 0;
+      gfade_out( 600 );
+      move_to( self_obj, 0, 0 );
+      gfade_in( 600 );
+      destroy_object( self_obj );
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if( local_var( LVAR_Herebefore) == 0 ) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   if( global_var(GVAR_BH_MIGHTY_MAN) == MIGHTY_MAN_WON ) then
+      display_msg(mstr(102));
+   else
+      display_msg(mstr(301));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+procedure combat begin
+end
+
+procedure armwrestle begin
+   variable dpower;
+   variable fpower;
+   variable diff;
+   variable ddiff;
+   variable fdiff;
+   variable droll;
+   variable froll;
+
+   if (dude_level > 5) then begin
+      //set_global_var(GVAR_BH_MIGHTY_MAN, MIGHTY_MAN_ACCEPTED);
+
+      you_lose:=0;
+      // Give dude -10 to +5 random bonus
+      dpower:= (dude_strength * dude_endurance) + random(0, 5) - random(0, 10);
+      // Give Francis -5 to +10 random bonus
+      fpower:=(get_critter_stat(self_obj,STAT_st)) * (get_critter_stat(self_obj,STAT_en)) + random(0, 10) - random(0, 5);
+
+      if( dpower > fpower ) then
+         you_lose := 0;
+      else
+         you_lose := 1;
+
+      fight_round := 0;
+      add_timer_event( self_obj, 1, 1 );
+/*
+      debug_msg( "Dude_power: " + dpower );
+      debug_msg( "Francis_power: " + fpower );
+      if (fpower > dpower) then begin
+         diff:=fpower - dpower;
+         if (diff > 20) then
+            you_lose:=1;
+      end
+      if (you_lose == 0) then begin //player has a chance
+         droll:=random(1,100);
+         debug_msg( "Dude_random: " + droll );
+         if (droll > dpower) then begin
+            you_lose:=1; //nope failed his roll
+         end
+         else begin
+            ddiff:=dpower-droll; //still has a chance
+         end
+         froll:=random(1,100);
+         debug_msg( "Francis_random: " + froll );
+         if (froll > fpower) then begin
+            fdiff:=0; //Francis cannot fail unless you overpower him
+         end
+         else begin
+            fdiff:=fpower-froll;
+         end
+      end
+
+      debug_msg( "Dude_diff: " + ddiff );
+      debug_msg( "Francis_diff: " + fdiff );
+
+      if (you_lose == 0) then begin
+         if (ddiff < fdiff) then begin
+            you_lose:=0; //actually you win
+         end
+         else begin
+            you_lose:=1;
+         end
+      end
+*/
+   end
+   else begin
+      NMessage(300);
+   end
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   Reply(103);
+
+   if( dude_iq == 1 ) then
+      NOption(104, Node002, 001);
+   if( ( dude_iq == 2 ) or ( dude_iq == 3 ) ) then
+      NOption(105,Node003,002);
+   NOption(106,Node003,004);
+   NOption(107,Node004,004);
+   if ( global_var( GVAR_READ_FRANCIS_NOTE ) == 1 ) then
+     NOption(599, Node025, 004 );
+   if (global_var(GVAR_BH_MIGHTY_MAN) == MIGHTY_MAN_KNOWN) then
+     NOption(108,Node005,004);
+end
+
+procedure Node002 begin
+   NMessage(109);
+end
+
+procedure Node003 begin
+   if (local_var(LVAR_03_before) == 0) then begin
+      set_local_var(LVAR_03_before,1);
+      if( global_var( GVAR_BH_MIGHTY_MAN ) == 0 ) then
+         set_global_var( GVAR_BH_MIGHTY_MAN, MIGHTY_MAN_KNOWN );
+      Reply(110);
+   end
+   else begin
+      Reply(111);
+   end
+
+   if( ( dude_iq == 2 ) or ( dude_iq == 3 ) ) then
+      NOption(112,Node006,002);
+   if (dude_strength < 8) then
+      GOption(113,Node007,004);
+   else
+      NOption(114,Node006,004);
+   GOption(115,Node007,004);
+end
+
+procedure Node004 begin
+   Reply(116);
+   BOption(117,Node008,004);
+   NOption(118,Node009,004);
+   NOption(119,Node021,004);
+end
+
+procedure Node005 begin
+   //set_global_var(GVAR_BH_MIGHTY_MAN, MIGHTY_MAN_CHALLENGED);
+   Reply(120);
+   BOption(121,Node010,004);
+   NOption(122,Node013,004);
+   NOption(123,Node006,004);
+end
+
+procedure Node006 begin
+   if (dude_strength < 8) then
+      Reply(124);
+   else
+      Reply(125);
+
+   if( ( dude_iq == 2 ) or ( dude_iq == 3 ) ) then begin
+      if (dude_strength >= 8) then begin
+         NOption(126,Node011,002);
+         NOption(127,armwrestle,002);
+      end
+      else
+         NOption(800,Node999,002);
+   end
+   if (dude_strength >= 8) then begin
+      NOption(128,Node011,004);
+      NOption(129,armwrestle,004);
+      BOption(130,Node013,004);
+   end
+   else
+      NOption(800,Node999,004);
+end
+
+procedure Node007 begin
+   Reply(131);
+   NOption(132,Node999,004);
+   BOption(133,Node012,004);
+end
+
+procedure Node008 begin
+   NMessage(134);
+end
+
+procedure Node009 begin
+   Reply(135);
+   NOption(201,Node999,001);
+end
+
+procedure Node010 begin
+   if( local_var(LVAR_Down_React_1) == 0 ) then begin
+      set_local_var( LVAR_Down_React_1, 1 );
+      DownReactMinor;
+   end
+   Reply(136);
+
+   NOption(137,Node006,001);
+   BOption(138,Node013,001);
+   if ( global_var( GVAR_READ_FRANCIS_NOTE ) == 1 ) then
+     NOption(599, Node025, 004 );
+end
+
+procedure Node011 begin
+   //set_global_var(GVAR_BH_MIGHTY_MAN, MIGHTY_MAN_CHALLENGED);
+   NMessage(139);
+end
+
+procedure Node012 begin
+   BottomReact;
+   if ( global_var( GVAR_READ_FRANCIS_NOTE ) == 1 ) then begin
+     Reply(140);
+     NOption(599, Node025, 004 );
+   end else
+     NMessage(140);
+end
+
+procedure Node013 begin
+   if( local_var(LVAR_Town_Down_React) == 0 ) then begin
+      set_local_var( LVAR_Town_Down_React, 1 );
+      set_global_var(GVAR_TOWN_REP_BROKEN_HILLS,TOWN_REPUTATION - 5);
+   end
+   set_global_var(GVAR_BH_MIGHTY_MAN, MIGHTY_MAN_REJECTED);
+   Reply(141);
+   NOption(142,Node006,004);
+   NOption(143,Node999,004);
+end
+
+procedure Node014 begin
+   variable item;
+   set_global_var(GVAR_BH_MIGHTY_MAN, MIGHTY_MAN_WON);
+   item:=create_object(PID_POWER_FIST,0,0);
+   add_obj_to_inven(dude_obj,item);
+   display_msg( mstr(700) );
+   give_xp(EXP_MIGHTY_SUCCESS);
+   set_global_var( GVAR_TOWN_REP_BROKEN_HILLS, (global_var(GVAR_TOWN_REP_BROKEN_HILLS) + REP_TOWN_MIGHTY_SUCCESS ) );
+   Reply(144);
+   NOption(202,Node999,004);
+end
+
+procedure Node015 begin
+   Start_Gimp := 1;
+   NMessage(145);
+end
+
+procedure Node016 begin
+   Reply(146);
+   if ( global_var( GVAR_READ_FRANCIS_NOTE ) == 1 ) then
+     NOption(599, Node025, 004 );
+   NOption(201,Node999,001);
+end
+
+procedure Node017 begin
+   Reply(147);
+   NOption(148,armwrestle,004);
+   if ( global_var( GVAR_READ_FRANCIS_NOTE ) == 1 ) then
+     NOption(599, Node025, 004 );
+   NOption(149,Node999,004);
+end
+
+procedure Node018 begin
+   Reply(150); //if townrep low
+   if ( global_var( GVAR_READ_FRANCIS_NOTE ) == 1 ) then
+     NOption(599, Node025, 004 );
+   NOption(200,Node999,004);
+end
+
+procedure Node019 begin
+   variable item;
+
+   if (local_var(LVAR_19_before) == 0) then begin
+      set_local_var(LVAR_19_before,1);
+      item:=create_object(PID_BEER,0,0);
+      add_obj_to_inven(dude_obj,item);
+      //NMessage(151); //add beer to inventory, check other flags
+      
+      //added by killap
+      Reply(151);
+      
+      if ( global_var( GVAR_READ_FRANCIS_NOTE ) == 1 ) then
+         NOption(599, Node025, 004 );
+      if (global_var(GVAR_BH_MIGHTY_MAN) == MIGHTY_MAN_KNOWN) then
+         NOption(108,Node005,004);
+      NOption(202,Node999,001);
+      //end added
+      
+   end
+   else begin
+   //if 2nd or > time
+      //NMessage(152);  //check other flags...what does Colin mean by this?
+      
+      //added by killap
+      Reply(152);
+      
+      if ( global_var( GVAR_READ_FRANCIS_NOTE ) == 1 ) then
+         NOption(599, Node025, 004 );
+      if (global_var(GVAR_BH_MIGHTY_MAN) == MIGHTY_MAN_KNOWN) then
+         NOption(108,Node005,004);
+      NOption(201,Node999,001);
+      //end added
+      
+   end
+end
+
+procedure Node020 begin
+   floater(153);
+   call Node998;
+end
+
+procedure Node021 begin
+   Reply(154);
+   GOption(155,Node022,004);
+   NOption(156,Node023,004);
+   BOption(157,Node024,004); //town rep down med
+end
+
+procedure Node022 begin
+   Reply(158);
+   NOption(202,Node999,004);
+end
+
+procedure Node023 begin
+   Reply(160);
+   NOption(161,Node999,004);
+end
+
+procedure Node024 begin
+   BottomReact;
+   BMessage(162);
+end
+
+procedure Node025 begin
+   Reply(600);
+
+   NOption(601, Node026, 004);
+   NOption(602, Node027, 004);
+end
+
+procedure Node026 begin
+   Reply(603);
+
+   NOption(604, Node027, 004);
+   BOption(605, Node998, 004);
+end
+
+procedure Node027 begin
+   Reply(606);
+
+   NOption(607, Node027a, 004);
+   BOption(608, Node998, 004);
+end
+
+procedure Node027a begin
+   display_msg( mstr(701) );
+   give_xp( EXP_CONFRONTED_FRANCIS );
+   set_global_var( GVAR_TOWN_REP_BROKEN_HILLS, (global_var(GVAR_TOWN_REP_BROKEN_HILLS) + REP_TOWN_CONFRONTED_FRANCIS ) );
+   Francis_Leaves := 1;
+end
+
+//xxxxxxxxxxxxxxxxxxxx

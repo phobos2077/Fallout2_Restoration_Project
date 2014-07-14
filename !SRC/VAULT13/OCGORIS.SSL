@@ -1,0 +1,1038 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Goris
+        Location: Vault 13
+        Description: He can be a party member.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\vault13.h"
+
+#define NAME                    SCRIPT_OCGORIS
+#define TOWN_REP_VAR            GVAR_TOWN_REP_VAULT_13
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+#include "..\headers\partybkg.h"
+
+#include "..\headers\v13.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure push_p_proc;
+procedure timed_event_p_proc;
+procedure combat_p_proc;
+//procedure combat_is_starting_p_proc; // comment out by killap - this procedure was never implemented by the original devs
+//procedure combat_is_over_p_proc; // comment out by killap - this procedure was never implemented by the original devs
+procedure map_update_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+
+procedure Node1000;
+procedure Node1001;
+procedure Node1002;
+procedure Node1003;
+procedure Node1004;
+procedure Node1005;
+procedure Node1006;
+procedure Node1007;
+procedure Node1008;
+procedure Node1009;
+procedure Node1010;
+procedure Node1100;
+
+
+
+#define STATE_PARTY_MEMBER      bit_1
+#define STATE_GAVE_NAME         bit_2
+#define STATE_GRUTHAR_SENT      bit_3
+#define STATE_DEAL              bit_4
+#define STATE_TRAVEL            bit_5
+#define STATE_ENCLAVE           bit_6
+#define STATE_TAGGING           bit_7
+#define STATE_SAID_FEEL         bit_8
+#define STATE_PACK_TROUBLE      bit_9
+#define STATE_PACK_TROUBLE_TALK bit_10
+#define STATE_TALK_DCLAW        bit_11
+
+#define TIMER_DESTROY      1
+#define TIMER_RETURN       2
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_State                      (7)
+#define LVAR_First_Combat               (8)
+
+#define LVAR_WAITING                    (9)
+#define LVAR_FOLLOW_DISTANCE            (10)
+#define LVAR_TEAM                       (11)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable begin
+   Node3Rep := 0;
+   Node7Rep := 0;
+   Node15Rep := 0;
+   q1 := 0;
+   q2 := 0;
+   q3 := 0;
+   q4 := 0;
+   q5 := 0;
+   q6 := 0;
+   q7 := 0;
+   q8 := 0;
+   q9 := 0;
+   explain := 0;
+   addParty := 0;
+   leavePack := 0;
+end
+
+procedure start begin
+end
+
+// comment out by killap - these procedures were never implemented by the original devs
+/*procedure combat_is_starting_p_proc begin
+   inc_local_var(LVAR_First_Combat);
+
+//   if (self_visible) then
+//      art_change_fid_num(self_obj, 100); Taken out per Jesse
+end
+
+procedure combat_is_over_p_proc begin
+//   if (self_visible) then
+//      art_change_fid_num(self_obj, 99);
+end*/
+
+procedure combat_p_proc begin
+   variable fid;
+   variable over;
+
+   if (self_visible) then begin
+      if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
+         debug_msg("OCGORIS: umm my turn");
+         if (Goris_In_Party and has_trait(TRAIT_OBJECT, target_obj, OBJECT_TEAM_NUM) == TEAM_VAULT13) then begin
+            debug_msg("OCGORIS: Attcking player");
+            set_self_abandon_party;
+            self_attack_dude;
+            set_local_var(LVAR_Hostile, 2);
+         end
+      end
+   end else begin
+      script_overrides;
+   end
+end
+
+procedure push_p_proc begin
+end
+
+procedure timed_event_p_proc begin
+   //added by killap
+   if (fixed_param == 900) then begin
+      if (self_visible) then begin
+         if (Goris_In_Party) then begin
+            if (Is_Crippled(self_obj)) then
+               floater(2000);
+            else if (get_critter_stat(self_obj, STAT_current_rad)) then 
+               floater(2001);
+            else if (get_poison(self_obj)) then
+               floater(2002);
+         end
+      end
+      add_timer_event(self_obj, random(50, 80), 900);
+   //end added by killap
+   end else if (fixed_param == TIMER_DESTROY) then begin
+      if (not obj_on_screen(self_obj)) then
+         if (not Goris_In_Party) then
+            destroy_object(self_obj);
+      else
+         add_timer_event(self_obj, 2, TIMER_DESTROY);
+   end else if (fixed_param == TIMER_RETURN) then begin
+      if (not anim_busy(self_obj)) then begin
+         if (not obj_on_screen(self_obj)) then begin
+            debug_msg("OCGORIS: adding self to party for tagging 1");
+            party_add(self_obj);
+            bworlvar(LVAR_State, STATE_TAGGING);
+            set_obj_visibility(self_obj, OBJ_INVIS);
+         end else begin
+            Flee_From_Dude
+         end
+      end
+      if (not bwandlvar(LVAR_State, STATE_TAGGING)) then
+         add_timer_event(self_obj, 1, TIMER_RETURN);
+   end
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   party_member_map_enter;
+   if (not Goris_In_Party) then begin
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT13);
+   end else begin
+      if (local_var(LVAR_First_Combat) == 0) then
+         set_local_var(LVAR_First_Combat,1);
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+   end
+//   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_VAULT_DEATHCLAW);
+
+   //added by killap
+   add_timer_event(self_obj, random(25, 40), 900);
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if (lvar_bit(LVAR_State, STATE_TAGGING)) then begin
+      if (cur_map_index == MAP_VAULT_13) then begin
+         set_lvar_bit_off(LVAR_State, STATE_TAGGING);
+         move_to(self_obj, GORISSTANDTILE, GORISELEVATION);
+         party_remove(self_obj);
+         set_obj_visibility(self_obj, OBJ_VIS);
+      end
+   end else begin
+      if (local_var(LVAR_Hostile) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+         self_attack_dude;
+      end
+
+      if (Goris_In_Party and self_visible) then begin
+         party_member_follow_dude
+
+         if ( (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) and (has_rep_berserker or has_rep_childkiller or check_general_rep < 0) ) then begin //edit by killap - added (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+            float_msg(self_obj, mstr(1160), FLOAT_MSG_RED);
+            set_self_abandon_party;
+            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT13);
+            add_timer_event(self_obj, 0, TIMER_RETURN);
+         end
+
+         if (VAULT13_SEQ and not lvar_bit(LVAR_State, STATE_PACK_TROUBLE)) then begin
+            set_lvar_bit_on(LVAR_State, STATE_PACK_TROUBLE);
+            dialogue_system_enter;
+         end
+      end
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+
+   if not (bwandlvar(LVAR_State, STATE_TAGGING)) then begin
+      if (source_obj == dude_obj) then begin
+         set_local_var(LVAR_Personal_Enemy,1);
+         set_self_abandon_party;
+         set_local_var(LVAR_Hostile, 2);
+      end
+   end
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      if (Goris_In_Party == false) then begin //added by killap
+         set_local_var(LVAR_Hostile,2);
+      end
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_TOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION6;
+
+   CheckKarma;
+
+   GetReaction;
+
+   ReactToLevel; //added by killap
+   
+   find_party_background; //added by killap
+
+   if (lvar_bit(LVAR_State, STATE_PACK_TROUBLE) and not lvar_bit(LVAR_State, STATE_PACK_TROUBLE_TALK)) then begin
+      if (not combat_is_initialized) then begin
+         set_lvar_bit_on(LVAR_State, STATE_PACK_TROUBLE_TALK);
+         //start_gdialog(NAME,self_obj,4,HEAD_GORIS,PartyMemberBackground);
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node024;
+         gSay_End;
+         end_dialogue;
+      end else begin
+         set_lvar_bit_off(LVAR_State, STATE_PACK_TROUBLE);
+      end
+   end else if (cur_map_index == MAP_VAULT_13 and VAULT13_SEQ and not VAULT13_SEQ_DONE) then begin
+      call Node025;
+   end else if (cur_map_index == MAP_VAULT_13 and VAULT13_SEQ and VAULT13_SEQ_DONE and not Goris_In_Party) then begin
+      //start_gdialog(NAME,self_obj,4,HEAD_GORIS,PartyMemberBackground);
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node026;
+      gSay_End;
+      end_dialogue;
+   end else if (lvar(LVAR_Hostile) == 1) then
+      call Node015;
+   else if (lvar(LVAR_Herebefore) == 0 and cur_map_index == MAP_VAULT_13) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      //start_gdialog(NAME,self_obj,4,HEAD_GORIS,PartyMemberBackground);
+      gSay_Start;
+          call Node001;
+      gSay_End;
+      end_dialogue;
+   end
+   else if ((lvar(LVAR_Herebefore) > 0 and cur_map_index == MAP_VAULT_13 and not Goris_In_Party) or party_is_waiting) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      //start_gdialog(NAME,self_obj,4,HEAD_GORIS,PartyMemberBackground);
+      gSay_Start;
+          call Node020;
+      gSay_End;
+      end_dialogue;
+   end else if (Goris_In_Party) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      //start_gdialog(NAME,self_obj,4,HEAD_GORIS,PartyMemberBackground);
+      gSay_Start;
+          call Node1000;
+      gSay_End;
+      end_dialogue;
+   end
+
+   if (addParty == 1) then begin
+      addParty := 0;
+      end_party_waiting;
+   end
+
+   if (addParty == -1) then begin
+      addParty := 0;
+      set_party_waiting;
+      add_timer_event(self_obj, 0, TIMER_RETURN);
+   end
+
+   if (leavePack == 1) then begin
+      fadeout(500);
+      set_self_abandon_party;
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT13);
+      debug_msg("OCGORIS: adding self for tagging 2");
+      party_add(self_obj);
+      bworlvar(LVAR_State, STATE_TAGGING);
+      set_obj_visibility(self_obj, OBJ_INVIS);
+      fadein(500);
+   end
+
+   if (global_var(GVAR_V13_GORIS_QST) == 1) then
+      set_global_var(GVAR_V13_GORIS_QST, 2);
+
+   set_local_var(LVAR_Herebefore, 1);
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   if (combat_is_initialized) then begin
+      display_mstr(222);
+   end else begin
+      if (local_var(LVAR_Herebefore) == 0) then begin
+         display_mstr(102);
+      end else begin
+         display_mstr(223);
+      end
+   end
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+//added by killap
+procedure use_obj_on_p_proc begin
+   if ( (obj_pid(obj_being_used_with) == PID_MICRO_FUSION_CELL) or (obj_pid(obj_being_used_with) == PID_SMALL_ENERGY_CELL) ) then begin
+      script_overrides;
+      display_msg(g_mstr(20000));
+   end
+end
+//end added
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure NodeLeavePack begin
+   leavePack := 1;
+   call Node999;
+end
+
+//#define STATE_GAVE_NAME    2
+//#define STATE_GRUTHAR_SENT 3
+procedure Node002a begin
+   bworlvar(LVAR_State, STATE_GAVE_NAME);
+   call Node002;
+end
+
+procedure Node002b begin
+   bworlvar(LVAR_State, STATE_GRUTHAR_SENT);
+   call Node002;
+end
+
+procedure Node001 begin
+   Reply(103);
+   NLowOption(mstr(104) + " " + dude_name + mstr(213), Node002a);
+   NLowOption(105, Node999);
+   BOption(106, Node002, 4);
+   GOption(mstr(107) + " " + dude_name + mstr(214), Node002a, 4);
+   if (TALKED_ABOUT_GORIS) then
+      GOption(108, Node002b, 4);
+   NOption(109, Node003, 4);
+   NOption(110, Node999, 4);
+end
+
+procedure Node003a begin
+   bworlvar(LVAR_State, STATE_DEAL);
+   call Node003;
+end
+
+procedure Node002 begin
+   if (bwandlvar(LVAR_State, STATE_GAVE_NAME)) then
+      Reply(mstr(111) + " " + dude_name + mstr(215) + " " + mstr(113));
+   else if (bwandlvar(LVAR_State, STATE_GRUTHAR_SENT)) then
+      Reply(mstr(112) + " " + mstr(113));
+   else
+      Reply(113);
+   NLowOption(114, Node016);
+   NLowOption(115, Node999);
+   NOption(116, Node999, 4);
+   GOption(117, Node003a, 4);
+   BOption(118, Node018, 4);
+   NOption(119, Node003, 4);
+end
+
+procedure Node13999 begin
+   if (bwandlvar(LVAR_State, STATE_DEAL)) then
+      call Node013;
+   else
+      call Node999;
+end
+
+procedure Node004a begin
+   q1 := 1;
+   call Node004;
+end
+procedure Node005a begin
+   q2 := 1;
+   call Node005;
+end
+procedure Node006a begin
+   q3 := 1;
+   call Node006;
+end
+procedure Node007a begin
+   q4 := 1;
+   call Node007;
+end
+procedure Node008a begin
+   q5 := 1;
+   call Node008;
+end
+procedure Node009a begin
+   q6 := 1;
+   call Node009;
+end
+procedure Node010a begin
+   q7 := 1;
+   call Node010;
+end
+procedure Node011a begin
+   q8 := 1;
+   call Node011;
+end
+procedure Node012a begin
+   q9 := 1;
+   call Node012;
+end
+
+procedure Node003 begin
+   Node3Rep += 1;
+   if (Node3Rep == 1) then begin
+      if (bwandlvar(LVAR_State, STATE_DEAL)) then begin
+         Reply(mstr(120) + " " + mstr(122));
+      end else if (bwandlvar(LVAR_State, STATE_GRUTHAR_SENT)) then begin
+         Reply(mstr(121) + " " + mstr(122));
+      end
+   end else begin
+      Reply(122);
+   end
+
+   if (q1 == 0) then begin
+      NOption(123, Node004a, 4);
+   end
+   if (q2 == 0) then begin
+      NOption(124, Node005a, 4);
+   end
+   if (q3 == 0) then begin
+      NOption(125, Node006a, 4);
+   end
+   if (q4 == 0) then begin
+      NOption(126, Node007a, 4);
+   end
+   if (q5 == 0) then begin
+      NOption(127, Node008a, 4);
+   end
+
+   if (q6 == 0 and q1) then begin
+      NOption(128, Node009a, 4);
+   end
+   if (q7 == 0 and q2) then begin
+      NOption(129, Node010a, 4);
+   end
+   if (q8 == 0 and bwandlvar(LVAR_State, STATE_ENCLAVE) and q3) then begin
+      NOption(130, Node011a, 4);
+   end
+   if (q9 == 0 and bwandlvar(LVAR_State, STATE_ENCLAVE) and q4) then begin
+      NOption(131, Node012a, 4);
+   end
+   if (bwandlvar(LVAR_State, STATE_TRAVEL) and q5) then
+      NOption(132, Node014, 4);
+   NOption(133, Node13999, 4);
+end
+
+procedure Node004 begin
+   if (explain == 0 and bwandlvar(LVAR_State, STATE_GRUTHAR_SENT)) then begin
+      explain := 1;
+      Reply(134);
+      MOREOPTION(Node004);
+   end else begin
+      Reply(135);
+      NOption(136, Node003, 4);
+      GOption(137, Node003, 4);
+      BOption(138, Node003, 4);
+   end
+end
+
+procedure Node005 begin
+   Reply(139);
+   NOption(140, Node003, 4);
+   BOption(141, Node003, 4);
+   GOption(142, Node003, 4);
+end
+
+procedure Node006 begin
+   Reply(143);
+   GOption(144, Node003, 4);
+   BOption(145, Node003, 4);
+   NOption(146, Node003, 4);
+end
+
+procedure Node007 begin
+   bworlvar(LVAR_State, STATE_TRAVEL);
+   Node7Rep += 1;
+   if (Node7Rep == 1) then begin
+      Reply(147);
+      MOREOPTION(Node007);
+   end else begin
+      bworlvar(LVAR_State, STATE_ENCLAVE);
+      set_global_var(GVAR_NCR_ENCLAVE_INFO,1 );
+      Reply(217);
+      BOption(148, Node003, 4);
+      GOption(149, Node003, 4);
+      NOption(150, Node003, 4);
+   end
+end
+
+procedure Node008 begin
+   debug_msg("Made it to node8");
+   if (bwandlvar(LVAR_State, STATE_ENCLAVE)) then begin
+      Reply(151);
+   end else begin
+      bworlvar(LVAR_State, STATE_ENCLAVE);
+      Reply(152);
+   end
+   NOption(153, Node003, 4);
+   BOption(154, Node003, 4);
+   GOption(155, Node003, 4);
+end
+
+procedure Node009 begin
+   Reply(156);
+   GOption(157, Node003, 4);
+   NOption(158, Node003, 4);
+   BOption(159, Node003, 4);
+end
+
+procedure Node010 begin
+   Reply(160);
+   BOption(161, Node003, 4);
+   GOption(162, Node003, 4);
+   NOption(163, Node003, 4);
+end
+
+procedure Node011 begin
+   mark_military_base_on_map
+   Reply(164);
+   GOption(165, Node003, 4);
+   BOption(166, Node003, 4);
+   NOption(167, NOde003, 4);
+end
+
+procedure Node012 begin
+   Reply(168);
+   NOption(169, Node003, 4);
+   BOption(170, Node003, 4);
+   GOption(171, Node003, 4);
+end
+
+procedure NodeAdvance19 begin
+   fadeout(1);
+   game_time_advance(ONE_GAME_HOUR * 3);
+   fadein(1);
+end
+
+procedure NodeAdvance999 begin
+   fadeout(1);
+   game_time_advance(ONE_GAME_HOUR);
+   fadein(1);
+   call Node999;
+end
+
+procedure Node013 begin
+   Reply(172);
+   GOption(173, NodeAdvance19, 4);
+   BOption(174, Node999, 4);
+   NOption(175, NodeAdvance999, 4);
+end
+
+procedure Node014 begin
+   if ( (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)) or ((global_var(TOWN_REP_VAR) >= 0) and ( (check_general_rep >= 0) and (not has_rep_childkiller) and (not has_rep_berserker)) ) ) then begin //edit by killap - added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+      debug_msg("OCGORIS: true_party_size " + true_party_size);
+      debug_msg("OCGORIS: party_max_formula " + party_max_formula);
+      debug_msg("OCGORIS: ((true_party_size >= (party_max_formula)) or (true_party_size >= 5)): " + ((true_party_size >= (party_max_formula)) or (true_party_size >= 5)));
+      debug_msg("OCGORIS: uhh PARTY_MAX_FORMULA info");
+      debug_msg("OCGORIS: (floor(dude_charisma/2): " + (floor(dude_charisma/2)));
+      debug_msg("OCGORIS: (has_trait(TRAIT_PERK,dude_obj,PERK_magnetic_personality_perk)): " + (has_trait(TRAIT_PERK,dude_obj,PERK_magnetic_personality_perk)));
+      debug_msg("OCGORIS: (floor(dude_charisma/2) + (has_trait(TRAIT_PERK,dude_obj,PERK_magnetic_personality_perk))): " + (floor(dude_charisma/2) + (has_trait(TRAIT_PERK,dude_obj,PERK_magnetic_personality_perk))));
+
+      if not (dude_at_max_party_size) then begin
+         addParty := 1;
+         Reply(176);
+         ENDOPTION;
+      end else begin
+         addParty := 0;
+         Reply(dude_name + mstr(1158));
+         ENDOPTION;
+      end
+   end else begin
+      addParty := 0;
+      Reply(177);
+      NLowOption(178, Node999);
+      GOption(179, Node003, 4);
+      BOption(180, Node999, 4);
+      NOption(181, Node003, 4);
+   end
+end
+
+procedure Node015 begin
+   Node15Rep += 1;
+   if (Node15Rep == 1) then begin
+      float_msg(self_obj, mstr(182), FLOAT_MSG_RED);
+   end
+   else begin
+      float_msg(self_obj, mstr(183), FLOAT_MSG_RED);
+      call Node998;
+   end
+end
+
+procedure Node016 begin
+   Reply(185);
+   NLowOption(186, Node017);
+   NLowOption(187, Node999);
+end
+
+procedure NodeAdd begin
+   addParty := 1;
+   call Node999;
+end
+
+procedure Node017 begin
+   if (not bad_critter_reaction) then begin
+      Reply(188);
+      NLowOption(190, Node1100);
+   end
+   else begin
+      Reply(189);
+   end
+   NLowOption(191, Node999);
+end
+
+procedure Node018 begin
+   Reply(192);
+   BOption(193, Node999, 4);
+   NOption(194, Node003, 4);
+   GOption(195, Node003, 4);
+end
+
+procedure NodeUnset3 begin
+   bwxorlvar(LVAR_State, STATE_DEAL);
+   call Node003;
+end
+
+procedure Node019 begin
+   if (not bad_critter_reaction) then begin
+      Reply(196);
+      NOption(198, NodeUnset3, 4);
+   end
+   else begin
+      Reply(197);
+      ENDOPTION;
+   end
+end
+
+procedure Node020 begin
+   Reply(199);
+   NLowOption(200, Node014);
+   NLowOption(201, Node999);
+   NOption(202, Node999, 4);
+   NOption(203, Node014, 4);
+end
+
+procedure Node021 begin
+   //Reply(204);
+   Reply(mstr(204) + " " + dude_name + mstr(216)); // edit by killap 
+   NLowOption(205, Node022); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
+   NOption(206, Node022, 4);
+end
+
+procedure NodeRemove begin
+   addParty := -1;
+   call Node999;
+end
+
+procedure Node022 begin
+   //set_lvar_bit_on(LVAR_State, STATE_TALK_DCLAW);
+   set_local_var(LVAR_First_Combat,2); // added by killap
+   if (dude_iq < 4) then
+      Reply(207);
+   else
+      Reply(208);
+
+   NLowOption(209, Node1002); // edit by killap - was NodeRemove
+   GLowOption(210, Node999);
+   NOption(211, Node1002, 4); // edit by killap - was NodeRemove
+   GOption(212, Node999, 4);
+end
+
+procedure Node023 begin
+   float_msg(self_obj, "SCRIPTOR: there ain't shit here", FLOAT_MSG_NORMAL);
+end
+
+#define GORIS_FOLLOW_OPTIONS      \
+      if (local_var(LVAR_FOLLOW_DISTANCE) != FOLLOW_DISTANCE_CLOSE) then \
+         NLowOption(1064, Node1004); \
+      if (local_var(LVAR_FOLLOW_DISTANCE) != FOLLOW_DISTANCE_MEDIUM) then \
+         NLowOption(1065, Node1005); \
+      if (local_var(LVAR_FOLLOW_DISTANCE) != FOLLOW_DISTANCE_FAR) then \
+         NLowOption(1066, Node1006); \
+      NLowOption(1009, Node999);     \
+      if (local_var(LVAR_FOLLOW_DISTANCE) != FOLLOW_DISTANCE_CLOSE) then \
+         NOption(1073, Node1004, 4); \
+      if (local_var(LVAR_FOLLOW_DISTANCE) != FOLLOW_DISTANCE_MEDIUM) then \
+         NOption(1074, Node1005, 4); \
+      if (local_var(LVAR_FOLLOW_DISTANCE) != FOLLOW_DISTANCE_FAR) then \
+         NOption(1075, Node1006, 4); \
+      NOption(1018, Node999, 4)
+
+#define GORISDEFAULTPARTYOPTIONS                                        \
+   if (self_cur_hits != self_max_hits) then                             \
+      NLowOption(1001, Node1001);                                       \
+   NLowOption(1002, Node1002);                                          \
+   NLowOption(1003, Node1003);                                          \
+   NLowOption(1167, Node1007);                                          \
+   if (party_is_waiting) then                                           \
+      NLowOption(200, Node1100); /* edit by killap - was 1007 */        \
+   if (local_var(LVAR_First_Combat) == 1) then                          \
+      NLowOption(1008, Node022);                                        \
+   NLowOption(1009, Node999);                                           \
+                                                                        \
+   if (self_cur_hits != self_max_hits) then                             \
+      NOption(1010, Node1001, 4);                                       \
+   NOption(1011, Node1002, 4);                                          \
+   NOption(1012, Node1003, 4);                                          \
+   NOption(1166, Node1007, 4);                                          \
+   if (party_is_waiting) then                                           \
+      NOption(1016, Node1100, 4); /* edit by killap - was NLowOption */ \
+   if (local_var(LVAR_First_Combat) == 1) then                          \
+      NOption(1017, Node022, 4);                                        \
+   NOption(1018, Node999, 4)
+
+procedure Node1000 begin
+/* should never get to this node because it is only called if they are in
+   the pary */
+
+   Reply(mstr(1000) + " " + dude_name + mstr(1156));
+   GORISDEFAULTPARTYOPTIONS;
+end
+
+procedure Node1001 begin // heal yourself
+   obj_heal(self_obj)
+   global_temp := 0;
+   if (party_healed_max) then begin
+      Reply(mstr(1019) + " " + dude_name + mstr(1157));
+   end else if (party_healed_good) then begin
+      Reply(mstr(1020) + " " + dude_name + mstr(1157));
+   end else if (party_healed_hurt) then begin
+      Reply(mstr(1021) + " " + dude_name + mstr(1157));
+   end else begin
+      Reply(mstr(1022) + " " + dude_name + mstr(1157));
+   end
+   GORISDEFAULTPARTYOPTIONS;
+end
+
+procedure Node1002 begin // wait here
+   set_party_waiting;
+   Reply(mstr(1041) + " " + dude_name + mstr(1157));
+   GORISDEFAULTPARTYOPTIONS;
+end
+
+procedure Node1003 begin // put your weapon away
+   inven_unwield(self_obj);
+   Reply(mstr(1060) + " " + dude_name + mstr(1157));
+   GORISDEFAULTPARTYOPTIONS;
+end
+
+procedure Node1004 begin // follow close
+   set_follow_close;
+   call Node1007;
+end
+
+procedure Node1005 begin// follow medium
+   set_follow_medium;
+   call Node1007;
+end
+
+procedure Node1006 begin // follow far
+   set_follow_far;
+   call Node1007;
+end
+
+procedure Node1007 begin
+   if (local_var(LVAR_FOLLOW_DISTANCE) == FOLLOW_DISTANCE_CLOSE) then begin
+      Reply(mstr(1079) + " " + dude_name + mstr(1157));
+   end else if (local_var(LVAR_FOLLOW_DISTANCE) == FOLLOW_DISTANCE_MEDIUM) then begin
+      Reply(mstr(1098) + " " + dude_name + mstr(1157));
+   end else if (local_var(LVAR_FOLLOW_DISTANCE) == FOLLOW_DISTANCE_FAR) then begin
+      Reply(mstr(1117) + " " + dude_name + mstr(1157));
+   end
+   GORIS_FOLLOW_OPTIONS;
+end
+
+procedure Node1008 begin
+end
+
+procedure Node1009 begin
+end
+
+procedure Node1010 begin
+end
+
+procedure Node1100 begin // rejoin party
+   if (dude_at_max_party_size) then begin
+      Reply(mstr(1136) + " " + dude_name + mstr(1158));
+      NOption(g_mstr(10007),Node999,001);
+   end else if (town_rep_is_hated) then begin
+      Reply(1159);
+      NOption(190,Node999,001);
+   end else begin
+      end_party_waiting;
+      Reply(mstr(1137) + " " + dude_name + mstr(1157));
+      GORISDEFAULTPARTYOPTIONS;
+   end
+end
+
+
+procedure Node024 begin
+   Reply(219);
+   NOption(220, NodeLeavePack, 1);
+end
+
+procedure Node025 begin
+   float_msg(self_obj, mstr(221), FLOAT_MSG_BLUE);
+end
+
+procedure Node026 begin
+   Reply(1161);
+   
+   set_lvar_bit_on(LVAR_State, STATE_PACK_TROUBLE_TALK); //added by killap
+   NOption(1162, Node014, 4);
+   NOption(1163, Node999, 4);
+   NLowOption(1164, Node014);
+   NLowOption(1165, Node999);
+end
+
+procedure checkHidden begin
+   variable res;
+
+   party_member_hidden(self_obj, res)
+
+   debug_msg("OCGORIS: res " + res);
+end
+
+procedure map_update_p_proc begin
+   call checkHidden;
+   if (combat_is_initialized == false) then begin
+      if (anim_busy(self_obj) == false) then begin
+         if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+            if (chem_use_level(self_obj) == 1) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 2) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 30) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 3) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 50) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 4) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 50) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end
+         end
+      end
+   end
+end
+
+//xxxxxxxxxxxxxxxxxxxx

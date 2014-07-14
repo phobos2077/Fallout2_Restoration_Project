@@ -1,0 +1,172 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: The Working Car
+        Location: Global
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: April 20, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                        SCRIPT_ZSDRVCAR
+
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+#include "..\headers\Den.h"
+
+procedure start;
+procedure use_p_proc;
+procedure use_obj_on_p_proc;
+procedure map_exit_p_proc;
+procedure map_enter_p_proc;
+
+import variable chop_shop_boy_obj;
+import variable smitty_obj;
+variable stop_car_use := false;
+variable car_was_used_to_exit;
+
+procedure start begin
+end
+
+procedure map_exit_p_proc begin
+   if (cur_map_index == MAP_NEW_RENO_1) then begin
+      if (get_stolen_car(stolen_car_none)) then begin
+         if (car_was_used_to_exit == false) then begin
+            set_car_is_now_being_stolen;
+            debug_msg("STEALING THE CAR!!!");
+         end else begin
+            debug_msg("can't steal car, the player used it on exit");
+         end
+      end
+   end
+   car_was_used_to_exit := false;
+end
+
+procedure map_enter_p_proc begin
+   if (global_var(GVAR_CAR_PLACED_TILE) != self_tile) then begin
+      destroy_object(self_obj);
+   end
+end
+
+procedure use_p_proc begin
+variable lvar1;
+
+   if (not car_out_of_fuel) then begin
+      stop_car_use := false;
+      if (global_var(GVAR_PLAYER_GOT_CAR) != 0) then begin
+         if (get_stolen_car(stolen_car_stolen)) then begin
+            if (chop_shop_boy_obj != 0) then begin
+               if (critter_state(chop_shop_boy_obj) != CRITTER_IS_DEAD) then begin
+                  if (obj_can_see_obj(chop_shop_boy_obj, dude_obj)) then begin
+                     stop_car_use := true;
+                     nr_add_timer_event(chop_shop_boy_obj, 0, attack_param);
+                  end
+               end
+            end
+         end
+      end else begin
+      stop_car_use := true;
+      display_mstr(100 + (smitty_part(state_smitty_part_unknown) == false));
+      end
+
+      if (stop_car_use == false) then begin
+         set_car_part_pip(car_part_pip_done);
+         set_took_car_off_den_bus_1;
+         if (get_stolen_car(stolen_car_stolen)) then begin  //killap's fix: changed from (get_stolen_car(stolen_car_none)==false)
+            set_stolen_car(stolen_car_drive_away);  
+            display_msg(message_str(SCRIPT_NCTRAY, 1001));
+            give_xp(EXP_NEW_RENO_RECOVER_CAR);
+            inc_reno_rep(REP_NEW_RENO_NON_VIOLENT_CAR_RECOVER); 
+         end
+         if ((Trunk_Ptr != 0) == false) then begin
+            if (tile_contains_pid_obj(tile_num_in_direction(tile_num_in_direction(self_tile, 5, 2), 4, 1), self_elevation, PID_CAR_TRUNK) != 0) then begin
+               debug_msg("car never added to the party, adding now");
+               party_add(tile_contains_pid_obj(tile_num_in_direction(tile_num_in_direction(self_tile, 5, 2), 4, 1), self_elevation, PID_CAR_TRUNK));
+            end
+         end
+         car_was_used_to_exit := true;
+         play_sfx("carstart");
+
+         // DJS - Added this flag to handle creation/deletion of car
+         // from multiple Raiders map entrances on RAIDERS1.
+         if( cur_map_index == MAP_RAIDERS_CAMP1 ) then
+            set_global_var( GVAR_LEFT_CAR_AT_RAIDERS, 0 );
+
+         debug_msg("car_give_to_party");
+         set_global_var(GVAR_CAR_PLACED_TILE, 0);
+         car_give_to_party;
+         set_global_var(GVAR_CAR_PLACED_TILE, -1);
+         debug_msg("Party has the car");
+      end else begin
+         script_overrides;
+         debug_msg("car use stopped by script");
+      end
+   end else begin
+      script_overrides;
+      display_mstr(250); // added by killap
+   end
+
+end
+
+procedure use_obj_on_p_proc begin
+   if (global_var(GVAR_PLAYER_GOT_CAR) == 0) then begin
+      if (smitty_obj != 0) then begin
+         script_overrides;
+         display_mstr(400);
+         nr_add_timer_event(smitty_obj, 0, timed_event_car_tamper);
+      end else if (obj_pid(obj_being_used_with) == PID_CAR_FUEL_CELL_CONTROLLER) then begin
+         script_overrides;
+         gfade_out(ONE_GAME_SECOND);
+            game_time_advance(ONE_GAME_HOUR);
+            if (is_success(roll_vs_skill(source_obj, SKILL_REPAIR, -100))) then begin
+               debug_msg("CAR WAS JUST STOLEN!!!");
+               play_sfx("carrepar");
+               destroy_object(obj_being_used_with);
+               set_global_var(GVAR_PLAYER_GOT_CAR, 1);
+               display_mstr(200);
+            end else begin
+               display_mstr(210);
+            end
+         gfade_in(ONE_GAME_SECOND);
+      end
+   end
+   //added by killap
+   else if (obj_pid(obj_being_used_with) == PID_CAR_FUEL_INJECTION) then begin
+      script_overrides;
+         gfade_out(ONE_GAME_SECOND);
+            game_time_advance(ONE_GAME_HOUR);
+            if (is_success(roll_vs_skill(source_obj, SKILL_REPAIR, -100))) then begin
+               debug_msg("Upgrade was a success");
+               play_sfx("carrepar");
+               set_car_upgrade_fuel_cell_regulator;
+               destroy_object(obj_being_used_with);
+               display_mstr(220);
+            end else begin
+               display_mstr(230);
+            end
+         gfade_in(ONE_GAME_SECOND);
+   end
+   //end added by killap
+end
+
+procedure use_skill_on_p_proc begin
+   if (global_var(GVAR_PLAYER_GOT_CAR) == 0) then begin
+      if ((action_being_used == SKILL_REPAIR) and (smitty_part(state_smitty_part_unknown) == false)) then begin
+         script_overrides;
+         display_mstr(300);
+      end
+   end
+end

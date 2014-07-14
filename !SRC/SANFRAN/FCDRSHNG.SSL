@@ -1,0 +1,635 @@
+/*
+	Script for critter tmplete
+*/
+
+
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_FCDRSHNG
+
+#include "..\headers\command.h"
+#include "..\headers\sanfran.h"
+#include "..\headers\sfsheng.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Clear_Lab_For_Money        (7)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+import variable creature_1;
+import variable creature_2;
+import variable creature_3;
+import variable creature_4;
+import variable creature_5;
+import variable creature_6;
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node011a;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node015a;
+procedure Node016;
+procedure Node017;
+procedure Node017a;
+procedure Node018;
+procedure Node019; 
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node041a;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+
+procedure Node999;
+procedure Node998;
+procedure Node990;
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+   variable Tool;
+   
+   if (global_var(GVAR_SHI_ELIMINATE_DR_WONG) > 0) then begin
+      Tool:=obj_pid(obj_being_used_with);
+      if (Tool == PID_HYPO_POISON) then begin
+         float_msg(self_obj, mstr(800), FLOAT_MSG_GREEN);
+         critter_heal(self_obj, -self_max_hits*2);
+         set_map_var(MVAR_Attack_Player,1);
+      end
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_map_var(MVAR_Attack_Player,1);
+   end
+end
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+     set_map_var(MVAR_Attack_Player,1);
+   end
+end
+
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+   
+   set_san_fran_flag(SF_SHENG_MING_DEAD);
+   
+   if (global_var(GVAR_SHI_DELIVER_SEEDS_TO_DR_SHENG) > 0) then
+     set_global_var(GVAR_SHI_DELIVER_SEEDS_TO_DR_SHENG,PLANT_QUEST_DELIVERED_SEEDS_TO_DRSHENG);
+   if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) < PLANT_QUEST_DELIVERED_SEED_SAMPLE_DESTROYED) )then
+     set_global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG,PLANT_QUEST_DELIVERED_SEED_SAMPLE);
+   if (global_var(GVAR_SHI_ELIMINATE_DR_WONG) > 0) then
+     set_global_var(GVAR_SHI_ELIMINATE_DR_WONG,PLANT_QUEST_KILLED_DRWONG);
+   if (global_var(GVAR_SHI_FIND_DR_SHENG) < PLANT_QUEST_FOUND_DRSHENG) then
+      set_global_var(GVAR_SHI_FIND_DR_SHENG,PLANT_QUEST_FOUND_DRSHENG);
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (map_var(MVAR_Attack_Player) == 1) then begin
+         self_attack_dude;
+      end else if (local_var(LVAR_Herebefore) == 0) then begin
+         call talk_p_proc;
+      end
+   end
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+
+   if (global_var(GVAR_SHI_FIND_DR_SHENG) < PLANT_QUEST_FOUND_DRSHENG) then
+      set_global_var(GVAR_SHI_FIND_DR_SHENG,PLANT_QUEST_FOUND_DRSHENG);
+
+   if (global_var(GVAR_CLEAR_OUT_DR_SHENG_LAB) == 1) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node042;
+      gSay_End;
+      end_dialogue;      
+   end else if (global_var(GVAR_SHI_DELIVER_SEEDS_TO_DR_SHENG) == PLANT_QUEST_GET_SEEDS_FOR_DRSHENG) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node016;
+      gSay_End;
+      end_dialogue;   
+   end else if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) >= PLANT_QUEST_RETURN_TO_DRWONG) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node025;
+      gSay_End;
+      end_dialogue;   
+   end else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+      end_dialogue;   
+   end
+   set_local_var(LVAR_Herebefore,1);
+end
+
+procedure Node998 begin
+  set_map_var(MVAR_Attack_Player,1);
+
+  if (self_elevation == 0) then begin
+    critter_attempt_placement(creature_1,19495,0);
+    critter_attempt_placement(creature_2,19094,0);
+    critter_attempt_placement(creature_3,19093,0);  
+  end
+end
+
+procedure Node999 begin
+
+end
+
+procedure Node001 begin
+   Reply(200);
+   NOption(201, Node002, 4);
+   NOption(202, Node003, 4);
+   NOption(203, Node004, 4);
+   NOption(204, Node005, 4);
+   NOption(205, Node006, 4);
+end
+
+procedure Node002 begin
+   Reply(210);
+   NOption(211, Node004, 4);
+   BOption(212, Node004, 4);
+end
+
+procedure Node003 begin
+   Reply(220);
+   NOption(221, Node008, 4);
+   NOption(222, Node004, 4);
+end
+
+procedure Node004 begin
+   Reply(230);
+   NOption(231, Node007, 4);
+   NOption(232, Node009, 4);
+   if (global_var(GVAR_MET_SEYMOUR) == 1) then
+      NOption(233, Node026, 4);
+   if (has_skill(dude_obj, SKILL_SCIENCE) >= 90) then
+     GOption(234, Node028, 4);
+end
+
+procedure Node005 begin
+   Reply(240);
+   NOption(241, Node038, 4);
+end
+
+procedure Node006 begin
+   Reply(250);
+   NOption(251, Node008, 4);
+   NOption(252, Node004, 4);
+end
+
+procedure Node007 begin
+   Reply(260);
+   NOption(261, Node008, 4);
+end
+
+procedure Node008 begin
+   Reply(270);
+   NOption(271, Node038, 4);
+end
+
+procedure Node009 begin
+   Reply(280);
+   NOption(281, Node007, 4);
+   BOption(282, Node012, 4);
+end
+
+procedure Node010 begin
+   Reply(290);
+   if ((obj_is_carrying_obj_pid(dude_obj,PID_EXPERIMENTAL_SEEDS))) then
+      NOption(291, Node013, 4);
+   BOption(292, Node012, 4);
+   NOption(293, Node014, 4);
+   BOption(294, Node012, 4);
+end
+
+procedure Node011 begin
+   Reply(300+EPA_visit);
+   NOption(302, Node011a, 4);
+   BOption(303, Node017, 4);
+end
+
+procedure Node011a begin
+   mark_EPA_on_map
+   set_global_var(GVAR_SHI_DELIVER_SEEDS_TO_DR_SHENG,PLANT_QUEST_GET_SEEDS_FOR_DRSHENG);
+end
+
+procedure Node012 begin
+   Reply(310+dude_is_female);
+   NOption(312, Node998, 4);
+end
+
+procedure Node013 begin
+   Reply(320);
+   NOption(321, Node018, 4);
+   BOption(322, Node017, 4);
+end
+
+procedure Node014 begin
+   set_global_var(GVAR_SHI_DELIVER_SEEDS_TO_DR_SHENG,PLANT_QUEST_GET_SEEDS_FOR_DRSHENG);
+   Reply(330);
+   NOption(331, Node999, 4);
+end
+
+procedure Node015 begin
+   Reply(340);
+   NOption(341, Node015a, 4);
+   BOption(342, Node017, 4);
+end
+
+procedure Node015a begin
+   mark_EPA_on_map
+   set_global_var(GVAR_SHI_DELIVER_SEEDS_TO_DR_SHENG,PLANT_QUEST_GET_SEEDS_FOR_DRSHENG);
+end
+
+procedure Node016 begin
+   Reply(350);
+   if ((obj_is_carrying_obj_pid(dude_obj,PID_EXPERIMENTAL_SEEDS))) then
+      NOption(351, Node013, 4);
+   else
+      NOption(352, Node999, 4);
+end
+
+procedure Node017 begin
+   Reply(360+dude_is_female);
+   NOption(362, Node998, 4);
+end
+
+procedure Node017a begin
+   set_global_var(GVAR_SHI_ELIMINATE_DR_WONG,PLANT_QUEST_KILLED_DRWONG);
+   call Node017;
+end
+
+procedure Node018 begin
+   variable item;
+   variable JunkIt;
+   item:=obj_carrying_pid_obj(dude_obj,PID_EXPERIMENTAL_SEEDS);
+   JunkIt:=rm_mult_objs_from_inven(dude_obj,item,1);
+   destroy_object(item);   
+   set_global_var(GVAR_SHI_DELIVER_SEEDS_TO_DR_SHENG,PLANT_QUEST_DELIVERED_SEEDS_TO_DRSHENG);
+   game_time_advance(ONE_GAME_HOUR);
+   
+   display_msg(mstr(710));
+   give_xp(EXP_DELIVER_SEEDS_TO_DR_SHENG);
+   
+   Reply(370);
+   NOption(371, Node019, 4);
+   BOption(372, Node012, 4);
+end
+
+procedure Node019 begin
+   Reply(380);
+   NOption(381, Node020, 4);
+   NOption(382, Node020, 4);
+end
+
+procedure Node020 begin
+   Reply(390);
+   NOption(391, Node021, 4);
+   NOption(392, Node036, 4);
+   NOption(393, Node036, 4);
+   BOption(394, Node017, 4);
+end
+
+procedure givePlayerSeed begin
+   variable item;
+   item := create_object(PID_DR_SHENG_PLANT_SEED,0,0);
+   add_obj_to_inven(dude_obj,item);  
+   set_global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG,PLANT_QUEST_RETURN_TO_DRWONG);
+end
+
+procedure Node021 begin
+   call givePlayerSeed;
+   set_global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG,PLANT_QUEST_RETURN_TO_DRWONG_KNOW_SEED_TRUTH);
+   Reply(400);
+   NOption(401, Node036, 4);
+   BOption(402, Node017, 4);
+   NOption(403, Node023, 4);
+end
+
+procedure Node022 begin
+   Reply(410);
+   if ((obj_is_carrying_obj_pid(dude_obj,PID_EXPERIMENTAL_SEEDS))) then begin
+      NOption(411, Node013, 4);
+   end else begin
+      NOption(412, Node011, 4);
+      NOption(413, Node015, 4);
+   end
+end
+
+procedure Node023 begin
+   Reply(420);
+   NOption(421, Node990, 4);
+   if (has_skill(dude_obj, SKILL_CONVERSANT) >= 95) then
+      NOption(422, Node024, 4);
+   BOption(423, Node012, 4);
+   BOption(424, Node017, 4);
+end
+
+procedure Node024 begin
+   variable item;
+   item:=create_object(PID_HYPO_POISON,0,0);
+   add_obj_to_inven(dude_obj,item);
+   Reply(430);
+   NOption(431, Node990, 4);
+end
+
+procedure Node025 begin
+   Reply(440);
+   if (global_var(GVAR_SAN_FRAN_FLAGS) bwand SF_SHI_ENEMY) then
+      BOption(444, Node017a, 4);
+   else if ((gvar_bit(GVAR_SAN_FRAN_FLAGS, SF_WONG_YI_TZE_DEAD)) and (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_DELIVERED_SEED_SAMPLE)) then
+      BOption(443, Node017a, 4);
+   else if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_DELIVERED_SEED_SAMPLE) then
+      NOption(442, Node037, 4);
+   else if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_DELIVERED_SEED_SAMPLE_DESTROYED) then
+      BOption(446, Node017a, 4);      
+   else if (gvar_bit(GVAR_SAN_FRAN_FLAGS, SF_WONG_YI_TZE_DEAD)) then
+      NOption(445, Node045, 4);
+   else
+      NOption(441, Node999, 4);
+end
+
+procedure Node026 begin
+   Reply(450);
+   NOption(451, Node008, 4);
+   NOption(452, Node027, 4);
+end
+
+procedure Node027 begin
+   Reply(460);
+   NOption(461, Node008, 4);
+   BOption(462, Node998, 4);
+end
+
+procedure Node028 begin
+   Reply(470);
+   NOption(471, Node029, 4);
+end
+
+procedure Node029 begin
+   Reply(480);
+   NOption(481, Node030, 4);
+   NOption(482, Node031, 4);
+   NOption(483, Node031, 4);
+end
+
+procedure Node030 begin
+   Reply(490);
+   NOption(491, Node032, 4);
+end
+
+procedure Node031 begin
+   Reply(500);
+   NOption(501, Node032, 4);
+end
+
+procedure Node032 begin
+   Reply(510);
+   NOption(511, Node033, 4);
+end
+
+procedure Node033 begin
+   Reply(520);
+   NOption(521, Node034, 4);
+end
+
+procedure Node034 begin
+   game_time_advance(ONE_GAME_HOUR*2);
+   Reply(530);
+   NOption(531, Node035, 4);
+end
+
+procedure Node035 begin
+   Reply(540);
+   NOption(541, Node007, 4);
+end
+
+procedure Node036 begin
+   if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == 0) then begin
+      call givePlayerSeed;
+   end
+   Reply(550);
+   NOption(551, Node990, 4);
+   NOption(552, Node024, 4);
+   BOption(553, Node012, 4);
+   BOption(554, Node017, 4);
+end
+
+procedure Node037 begin
+   Reply(560);
+   NOption(561, Node999, 4);
+   BOption(562, Node017, 4);
+end
+
+procedure Node038 begin
+   Reply(570);
+   NOption(571, Node039, 4);
+   NOption(572, Node041, 4);
+   NOption(573, Node040, 4);
+   BOption(574, Node017, 4);
+end
+
+procedure Node039 begin
+   Reply(580);
+   NOption(581, Node041, 4);
+   NOption(582, Node040, 4);
+   BOption(583, Node017, 4);
+end
+
+procedure Node040 begin
+   set_local_var(LVAR_Clear_Lab_For_Money,1);
+   Reply(600);
+   NOption(601, Node041, 4);
+   BOption(602, Node017, 4);
+end
+
+procedure Node041 begin
+   Reply(590);
+   NOption(591, Node041a, 4);
+   BOption(592, Node017, 4);
+end
+
+procedure Node041a begin
+   //give lab clearing quest
+   set_global_var(GVAR_CLEAR_OUT_DR_SHENG_LAB,1);
+end
+
+procedure Node042 begin
+   Reply(610);
+   if (map_var(MVAR_Failed_Creature_Count) > 0) then begin
+      NOption(611, Node999, 4);
+   end else begin
+      if (dude_is_poisoned) then
+         NOption(613, Node043, 4);
+      else
+         NOption(612, Node044, 4);
+   end
+end
+
+procedure Node043 begin
+   poison(dude_obj,-(get_poison(dude_obj)));
+   Reply(620);
+   NOption(621, Node044, 4);
+end
+
+procedure Node044 begin
+   set_global_var(GVAR_CLEAR_OUT_DR_SHENG_LAB,2);
+   display_msg(mstr(700));
+   if (local_var(LVAR_Clear_Lab_For_Money) == 1) then begin
+      Reply(630);
+      give_xp(200);
+      item_caps_adjust(dude_obj, 1000);
+   end else begin
+      Reply(631);
+      give_xp(500);
+   end
+   NOption(632, Node022, 4);
+   BOption(633, Node017, 4);
+end
+
+procedure Node045 begin
+   Reply(640);
+   BOption(641, Node017a, 4);
+end
+
+procedure Node990 begin
+  set_global_var(GVAR_SHI_ELIMINATE_DR_WONG,PLANT_QUEST_KILL_DRWONG);
+end

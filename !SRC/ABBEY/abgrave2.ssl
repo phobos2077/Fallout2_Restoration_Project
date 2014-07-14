@@ -1,0 +1,57 @@
+/*
+        Name: abgrave2
+        Location: Abbey
+        Description: Grave stones.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: killap - 7/01/2006
+
+           Updated:
+*/
+
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_ABGRAVE2
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_ABBEY)
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+
+
+
+procedure start begin
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(101);
+end
+ 
+procedure use_p_proc
+begin
+ script_overrides;
+end
+
+procedure map_enter_p_proc begin
+end

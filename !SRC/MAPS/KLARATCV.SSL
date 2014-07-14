@@ -1,0 +1,54 @@
+/*     Script from map templete       */
+/*
+        Name: Nazwa
+        Location: Polozenie
+        Description: Opis
+
+        Log:
+           
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+//#include "..\headers\nazwamapy.h"
+#include "..\headers\updatmap.h"
+#include "..\headers\klaratcv.h"
+#define NAME                    SCRIPT_KLARATCV
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_exit_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+export variable support_beam_1;
+export variable support_beam_2;
+export variable support_beam_3;
+export variable support_beam_4;
+
+procedure start
+begin
+end
+
+procedure map_enter_p_proc begin
+   if (map_first_run) then begin
+       display_msg(mstr(100));
+   end
+   Cavern_Lighting;
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+
+end
+
+procedure map_update_p_proc begin
+   Cavern_Lighting;
+end
+ 
+procedure map_exit_p_proc begin
+ 
+end

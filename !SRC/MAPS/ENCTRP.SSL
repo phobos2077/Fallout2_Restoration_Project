@@ -1,0 +1,168 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Arroyo Caves
+        Location: Arroyo
+        Description: This is the Map Script for the Caves in Arroyo
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+#include "..\headers\enctrp.h"
+#include "..\headers\enc.h"
+
+#define NAME                    SCRIPT_ENCTRP
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+export variable Frank_Ptr;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   variable Door_Ptr;
+
+   if (map_first_run) then begin
+       if (tile_contains_obj_pid(DOOR_1E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+           debug_msg("Close Door 1e");
+           Door_Ptr:=tile_contains_pid_obj(DOOR_1E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+           obj_close(Door_Ptr);
+           obj_lock(Door_Ptr);
+       end
+
+       if (tile_contains_obj_pid(DOOR_1S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+           debug_msg("Close Door 1s");
+           Door_Ptr:=tile_contains_pid_obj(DOOR_1S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+           obj_close(Door_Ptr);
+           obj_lock(Door_Ptr);
+       end
+
+       if (tile_contains_obj_pid(DOOR_2E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+           debug_msg("Close Door 2e");
+           Door_Ptr:=tile_contains_pid_obj(DOOR_2E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+           obj_close(Door_Ptr);
+           obj_lock(Door_Ptr);
+       end
+
+       if (tile_contains_obj_pid(DOOR_2S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+           debug_msg("Close Door 2s");
+           Door_Ptr:=tile_contains_pid_obj(DOOR_2S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+           obj_close(Door_Ptr);
+           obj_lock(Door_Ptr);
+       end
+
+       if (tile_contains_obj_pid(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+           debug_msg("Close Door 3s");
+           Door_Ptr:=tile_contains_pid_obj(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+           obj_close(Door_Ptr);
+           obj_lock(Door_Ptr);
+       end
+
+       if (tile_contains_obj_pid(DOOR_4E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+           debug_msg("Close Door 4e");
+           Door_Ptr:=tile_contains_pid_obj(DOOR_4E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+           obj_close(Door_Ptr);
+           obj_lock(Door_Ptr);
+       end
+
+       if (tile_contains_obj_pid(DOOR_4S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+           debug_msg("Close Door 4s");
+           Door_Ptr:=tile_contains_pid_obj(DOOR_4S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+           obj_close(Door_Ptr);
+           obj_lock(Door_Ptr);
+       end
+
+       if (tile_contains_obj_pid(DOOR_5E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+           debug_msg("Close Door 5e");
+           Door_Ptr:=tile_contains_pid_obj(DOOR_5E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+           obj_close(Door_Ptr);
+           obj_lock(Door_Ptr);
+       end
+
+       if (tile_contains_obj_pid(DOOR_5S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+           debug_msg("Close Door 5s");
+           Door_Ptr:=tile_contains_pid_obj(DOOR_5S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+           obj_close(Door_Ptr);
+           obj_lock(Door_Ptr);
+       end
+
+       if (tile_contains_obj_pid(DOOR_6S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+           debug_msg("Close Door 6s");
+           Door_Ptr:=tile_contains_pid_obj(DOOR_6S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+           obj_close(Door_Ptr);
+           obj_lock(Door_Ptr);
+       end
+
+       if (tile_contains_obj_pid(DOOR_7E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+           debug_msg("Close Door 7e");
+           Door_Ptr:=tile_contains_pid_obj(DOOR_7E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+           obj_close(Door_Ptr);
+           obj_lock(Door_Ptr);
+       end
+
+       if (tile_contains_obj_pid(DOOR_8E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+           debug_msg("Close Door 8e");
+           Door_Ptr:=tile_contains_pid_obj(DOOR_8E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+           obj_close(Door_Ptr);
+           obj_lock(Door_Ptr);
+       end
+
+       if (tile_contains_obj_pid(DOOR_2N,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+           debug_msg("Open Door 2n");
+           Door_Ptr:=tile_contains_pid_obj(DOOR_2N,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+           obj_open(Door_Ptr);
+       end
+
+       if (tile_contains_obj_pid(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+           debug_msg("Open Door 4w");
+           Door_Ptr:=tile_contains_pid_obj(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+           obj_open(Door_Ptr);
+       end
+
+       if (tile_contains_obj_pid(DOOR_6E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+           debug_msg("Open Door 6e");
+           Door_Ptr:=tile_contains_pid_obj(DOOR_6E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+           obj_open(Door_Ptr);
+       end
+
+       if (tile_contains_obj_pid(DOOR_8S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+           debug_msg("Open Door 8s");
+           Door_Ptr:=tile_contains_pid_obj(DOOR_8S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+           obj_open(Door_Ptr);
+       end
+   end
+
+   Enclave_Lighting;
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+end
+
+procedure map_update_p_proc begin
+   Enclave_Lighting;
+
+   check_countdown
+   check_poisoning;
+end

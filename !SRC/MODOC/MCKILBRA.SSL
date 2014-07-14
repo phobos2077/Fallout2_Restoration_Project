@@ -1,0 +1,249 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Modoc Brahmin
+        Location: Modoc
+        Description:
+
+        Log:
+
+           Created: December 02, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_MCKILBRA
+
+#include "..\headers\command.h"
+#include "..\headers\ModMain.h"
+#include "..\headers\modoc.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+procedure use_p_proc;
+procedure map_update_p_proc;
+
+#define br_mstr(x)                        message_str(SCRIPT_ZCBRAHMN,x)
+#define br_floater(x)                     float_msg(self_obj, br_mstr(x), FLOAT_COLOR_NORMAL)
+
+#define LVAR_Home_Tile                    (0)
+#define LVAR_Brahmin_Did_Replace          (1)
+#define LVAR_Graze_Tile                   (2)
+
+#define set_graze_tile                    if (is_slaughter_house_brahmin) then begin                                                                       \
+                                             temp_tile := tile_num_in_direction(local_var(LVAR_Graze_Tile), random(0,5), random(1,3));                     \
+                                             if (tile_in_brahmin_pen(temp_tile)) then begin                                                                \
+                                                set_local_var(LVAR_Graze_Tile, temp_tile);                                                                 \
+                                             end                                                                                                           \
+                                          end
+#define check_did_replace                 if (local_var(LVAR_Brahmin_Did_Replace) == false) then begin                               \
+                                             set_local_var(LVAR_Brahmin_Did_Replace, true);                                          \
+                                             temp_brahmin := create_object_sid(PID_BRAHMIN,0,0,SCRIPT_MCKILBRA);                     \
+                                             check_set_obj_visiblility(temp_brahmin, true);                                                 \
+                                             move_to(temp_brahmin, local_var(LVAR_Home_Tile), self_elevation);                       \
+                                             check_set_obj_visiblility(temp_brahmin, true);                                                 \
+                                          end
+
+import variable brahmin_1_object;
+variable temp_brahmin;
+variable temp_tile;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+variable temp_poo;
+   if (self_visible) then begin
+      if (fixed_param == 1) then begin
+         if (cur_map_index != MAP_GHOST_FARM) then begin
+            if (combat_is_initialized == false) then begin
+               set_graze_tile
+            end
+            flush_add_timer_event_sec(self_obj, random(2, 10), 1);
+         end
+      end if (fixed_param == 2) then begin
+         br_floater(random(201, 205));
+         flush_add_timer_event_sec(self_obj, random(30, 45), 2);
+      end else if (fixed_param == 3) then begin
+         if (random(1,3) == 1) then begin
+            br_floater(206);
+            debug_msg("BRAHMIN IS POOING!!! hehehehe");
+            temp_poo := create_object_sid(random(PID_SMALL_GOO_1, PID_SMALL_GOO_3), 0, 0, SCRIPT_ZIBRAPOO);
+            move_to(temp_poo, tile_num_in_direction(self_tile, self_inv_rot, 1), 0);
+         end
+         flush_add_timer_event_sec(self_obj, random(120, 300), 3);
+      //added by killap
+      end else if (fixed_param == 4) then begin
+         if not anim_busy(self_obj) then begin
+            animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),1,3));
+            add_timer_event(self_obj, game_ticks(1), 4);
+         end
+      //end added
+      end else begin
+         check_did_replace
+      end
+   end
+end
+
+procedure critter_p_proc begin
+   // setup pointers
+   if (self_visible) then begin
+      if (is_slaughter_house_brahmin) then begin
+         if (brahmin_1_object == self_obj) then begin
+            if ((freed_bess) and (tile_in_slaughter_house_area(self_tile))) then begin
+               brahmin_1_object := 0;
+            end else begin
+               send_to_slaughter
+            end
+         end else if (freed_bess) then begin
+            if (tile_distance(self_tile, map_next_tile) > 1) then begin
+               animate_move_to_tile(map_next_tile);
+               //added by killap
+               if not anim_busy(self_obj) then begin
+                  add_timer_event(self_obj, game_ticks(1), 4);
+               end
+               //end added
+               if (step_tile < 0) then begin
+                  animate_move_to_tile(local_var(LVAR_Graze_Tile));
+               end
+            end else begin
+               check_did_replace
+               inc_global_var(GVAR_MODOC_BRAHMIN_ESCAPED);
+               debug_msg("GVAR_MODOC_BRAHMIN_ESCAPED == " + global_var(GVAR_MODOC_BRAHMIN_ESCAPED));
+               if (brahmin_1_object == self_obj) then begin
+                  brahmin_1_object := 0;
+               end
+               destroy_object(self_obj);
+            end
+         end else begin
+            assign_brahmin_number
+            else if (tile_distance(self_tile, local_var(LVAR_Graze_Tile)) > 0) then begin
+               if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == FALSE) then begin
+                  animate_move_to_tile(local_var(LVAR_Graze_Tile));
+               end
+            end
+         end
+      end
+   end
+end
+
+procedure pickup_p_proc begin
+end
+
+procedure talk_p_proc begin
+end
+
+procedure destroy_p_proc begin
+   check_did_replace
+   if (brahmin_1_object == self_obj) then begin
+      brahmin_1_object := 0;
+   end
+end
+
+procedure damage_p_proc begin
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(br_mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(br_mstr(105));
+end
+
+procedure use_obj_on_p_proc begin
+   // if you give a Brahmin beer or booze, it'll fall down and take damage. This was pulled from the original
+   //    fallout script
+   if ((obj_pid(obj_being_used_with) == PID_BEER) or (obj_pid(obj_being_used_with) == PID_BOOZE)) then begin
+      variable item := 0;
+      script_overrides;
+      item := obj_being_used_with;
+      rm_obj_from_inven(source_obj,obj_being_used_with);
+      destroy_object(item);
+      if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == FALSE) then begin
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+            reg_anim_animate(self_obj,ANIM_hit_from_front,-1);
+            reg_anim_animate(self_obj,ANIM_fall_back,5);
+            reg_anim_animate(self_obj,ANIM_fall_back_sf,-1);
+         reg_anim_end();
+         critter_injure(self_obj,DAM_KNOCKED_DOWN);
+      end
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   // a good science skill check will give you a little more info about the brahmin.
+   if (action_being_used == SKILL_SCIENCE) then begin
+      script_overrides;
+      display_msg(br_mstr(101 + (is_success(roll_vs_skill(dude_obj,action_being_used,0)))));
+   end else if (action_being_used == SKILL_STEAL) then
+      script_overrides;
+end
+
+procedure map_enter_p_proc begin
+   match_dude_elevation;
+   if (is_loading_game == false) then begin
+      if (local_var(LVAR_Brahmin_Did_Replace)) then begin
+         destroy_object(self_obj);
+      end else begin
+         if (is_slaughter_house_brahmin) then begin
+            assign_brahmin_number
+         end
+         if (local_var(LVAR_Graze_Tile) == 0) then begin
+            set_local_var(LVAR_Home_Tile, self_tile);
+            set_local_var(LVAR_Graze_Tile, self_tile);
+            add_timer_event(self_obj, (random(1,15) * ONE_GAME_MINUTE), 1);
+         end
+         if (self_tile != local_var(LVAR_Graze_Tile)) then begin
+            critter_attempt_placement(self_obj, local_var(LVAR_Graze_Tile), self_elevation);
+         end
+         if ((self_visible == false) and (night == false)) then begin
+            check_set_obj_visiblility(self_obj, false);
+         end
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_BRAHMIN_WIMPY);
+      end
+   end
+end
+procedure map_exit_p_proc begin
+   if (is_slaughter_house_brahmin) then begin
+      if ((freed_bess) and (tile_in_slaughter_house_area(self_tile) == false)) then begin
+         check_did_replace
+         inc_global_var(GVAR_MODOC_BRAHMIN_ESCAPED);
+         debug_msg("GVAR_MODOC_BRAHMIN_ESCAPED == " + global_var(GVAR_MODOC_BRAHMIN_ESCAPED));
+         destroy_object(self_obj);
+      end else if (brahmin_1_object == self_obj) then begin
+         critter_attempt_placement(self_obj, slaughter_1_tile, self_elevation);
+      end
+   end
+end
+procedure use_p_proc begin
+end
+
+procedure map_update_p_proc begin
+   if (local_var(LVAR_Graze_Tile) == 0) then begin
+      set_local_var(LVAR_Graze_Tile, self_tile);
+      add_timer_event(self_obj, (random(1,15) * ONE_GAME_MINUTE), 1);
+      add_timer_event(self_obj,game_ticks(random(5,15)),2);
+   end
+end

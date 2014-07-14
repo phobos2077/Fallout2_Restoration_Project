@@ -1,0 +1,802 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Torr
+        Location: Klamath
+        Description:
+
+        Note: Currently this script cannot be loaded by the scripting tool.
+              NEED CODE TO DETERMINE WHAT MAP TORR IS ON AND BEHAVE
+              ACCORDINGLY. NEED PARTY CODE. NEED WANDER CODE.
+              CHECK NODE007.
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: Febuary 3, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\klamath.h"
+#include "..\headers\klagraz.h"
+#include "..\headers\den.h" //added by killap
+
+#define NAME                    SCRIPT_KCTORR
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_KLAMATH)
+#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_NORMAL)
+#define NOW                     1
+#define TONIGHT                 2
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#define WAYPOINTA     23893
+#define WAYPOINTB     25079
+#define WAYPOINTC     24062
+#define WAYPOINTD     21045
+#define WAYPOINTE     19028
+
+#define WAYPOINTV     17701 //near center of map
+#define WAYPOINTW     18514
+#define WAYPOINTX     19725
+#define WAYPOINTY     22541
+#define WAYPOINTZ     24358 //near edge of map
+
+#define OUTSIDE       19450
+#define HOME          WAYPOINTA
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure map_update_p_proc;
+procedure timed_event_p_proc;
+procedure push_p_proc;
+procedure rustle_status;
+procedure set_critter;
+procedure leave_player;
+//procedure follow_player;
+//procedure Random_Following;
+procedure scampera;
+procedure scamperb;
+procedure scamperc;
+
+/* Script Specific Procedure Calls */
+procedure Node910;
+procedure Node920;
+procedure Node930;
+procedure Node940;
+procedure Node995;
+procedure Node996;
+procedure Node997;
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node020;
+procedure Node021;
+procedure Node031;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Torr_Search_Success        (6)
+#define LVAR_THEX                       (7)
+#define LVAR_not_first_time_downtown    (8)
+#define LVAR_not_first_time_canyon      (9)
+//#define LVAR_Torr_In_Party              (11)
+#define LVAR_Follow_Dude                (10)
+
+#define LVAR_Torr_Guard_Wait           (11)
+
+//#define LVAR_Center                     (13) //is Torr at center of map
+//#define LVAR_Edge                       (14) //is Torr at edge
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable k;
+variable my_hex;
+variable temp;
+variable rustle_triggered:=0;
+variable dest;
+variable tym;
+variable In_Timed_Event;
+variable dtile;
+variable mytile;
+variable newtile;
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   if (cur_map_index == MAP_KLAMATH_GRAZE) then
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BRAHMIN);
+   else
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_KLAMATH);
+
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TORR);
+   call set_critter;
+end
+
+procedure map_update_p_proc begin
+   //call pop_critter;
+end
+
+procedure map_exit_p_proc begin
+   call set_critter;
+end
+
+procedure set_critter begin
+call rustle_status;
+//This procedure is used to set Local vars and critter position.
+//It makes sure things will work after map enter/exit.
+
+   if ( (cur_map_index == MAP_KLAMATH_1) and (global_var(GVAR_QUEST_RESCUE_TORR) == TORR_RESCUE_SUCCESS) ) then begin
+         set_obj_visibility(self_obj,0);
+         set_map_var(MVAR_Torr_On_Map,1);
+   end
+   else if ( (cur_map_index == MAP_KLAMATH_1) and (rustle_triggered) ) then begin
+           set_obj_visibility(self_obj,1);
+   end //of KLAMATH_1
+   else if (cur_map_index == MAP_KLAMATH_GRAZE) then begin
+      if (rustle_triggered) then begin
+              move_to(self_obj,WAYPOINTV,elevation(self_obj));
+              animate_rotation(3);
+              set_obj_visibility(self_obj,0);
+              set_map_var(MVAR_Torr_On_Map,1);
+      end //rustle_triggered
+      else begin
+         set_obj_visibility(self_obj,1);
+      end
+   end //of KLAMATH_GRAZE
+   else if (cur_map_index == MAP_KLAMATH_CANYON) then begin
+      if (global_var(GVAR_QUEST_RESCUE_TORR) == TORR_RESCUE_ACCEPT) then begin
+              //PLACE TORR IN CANYON AREA
+              set_obj_visibility(self_obj,0);
+              set_map_var(MVAR_Torr_On_Map,1);
+      end
+      else begin
+         set_obj_visibility(self_obj,1); //Torr is not here
+      end
+   end //of KLAMATH_CANYON
+
+end
+
+procedure leave_player begin
+//on leaving canyon map we need to remove Torr from players party
+   //floater(600);
+   float_msg(self_obj, message_str(NAME,600),FLOAT_MSG_GREEN); //edit by killap
+   set_global_var(GVAR_TORR_MISSING, 0);
+   set_global_var(GVAR_QUEST_RESCUE_TORR, TORR_RESCUE_SUCCESS);
+   set_local_var(LVAR_Follow_Dude, 0);
+   display_msg(mstr(800));
+   give_xp(EXP_KC_RESCUE_TORR);
+   KC_REP_ADJUST(5)
+   inc_general_rep(REP_BONUS_KC_RESCUE_TORR);
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+   call rustle_status;
+
+   /* DUDE_BAD is set if player starts killing the brahmin */
+   if ( (local_var(LVAR_Hostile) == 0) and (map_var(MVAR_Dude_Bad) > 0) and (self_visible) ) then begin //dude must've killed brahmin; added (self_visible) by killap
+      call Node021;
+      set_local_var(LVAR_Hostile,2);
+   end
+   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+   else if (local_var(LVAR_Follow_Dude) == 1) then begin
+      dtile:=tile_num(dude_obj);
+      if ((tile_distance(dtile,OUTSIDE)) < 14 ) then begin
+         call leave_player;
+      end
+      else begin
+         mytile:=tile_num(self_obj);
+         if (tile_distance(mytile,dtile) > 5) then begin
+            newtile:=tile_num_in_direction(dtile,random(0,5),1);
+            animate_run_to_tile(newtile);
+         end
+      end
+   end//follow
+
+
+//NOTE DONT EXECUTE FOLLOWING CODE IF TORR IS IN PARTY
+   //else if (local_var(LVAR_Torr_In_Party) == 0) then begin
+   else if (local_var(LVAR_Follow_Dude) == 0) then begin
+
+   if (cur_map_index == MAP_KLAMATH_1) then begin
+         if ( (random(1,100)) and (In_Timed_Event == 0) ) then begin
+            debug_msg("Torr can move");
+            In_Timed_Event:=1;
+            add_timer_event(self_obj,game_ticks(random(17,37)),5);
+         end
+   end
+
+   end //Torr not in party
+end
+
+procedure timed_event_p_proc begin
+     if (fixed_param == 5) then begin
+        animate_move_to_tile(tile_num_in_direction(HOME,random(0,5),random(3,7)));
+        In_Timed_Event:=0;
+     end
+     //else if (fixed_param == 1) then
+     //    call follow_player;
+     //else if (fixed_param == 2) then
+     //    call Random_Following;
+     else if (fixed_param == 3) then
+          call scamperb;
+     else if (fixed_param == 4) then
+          call scamperc;
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_global_var(GVAR_ENEMY_TORR,1);
+      if (cur_map_index == MAP_KLAMATH_1) then
+         set_global_var(GVAR_ENEMY_KLAMATH,1);
+   end
+
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+procedure talk_p_proc begin
+   if ( (game_time_hour > 1800) or (game_time_hour < 600) ) then
+      tym:=NOW;
+   else
+      tym:=TONIGHT;
+
+   GetReaction;
+
+   if ((REP_ENEMY_KLAMATH) or (global_var(GVAR_ENEMY_TORR) == 1)) then begin
+       call Node998;
+   end
+
+   else if (local_var(LVAR_Torr_Search_Success) == 1) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node015;
+       gSay_End;
+       end_dialogue;
+   end
+
+//waiting for canyon map from Scotty
+   else if (cur_map_index == MAP_KLAMATH_CANYON) then begin//TORR ON CANYON MAP
+
+      if (global_var(GVAR_QUEST_RESCUE_TORR) == TORR_RESCUE_SUCCESS) then begin
+         //floater(600);
+         float_msg(self_obj, message_str(NAME,600),FLOAT_MSG_GREEN); //edit by killap
+      end
+      else begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+         if (local_var(LVAR_not_first_time_canyon) == 0) then begin //first_time? (ask Matt)
+            set_local_var(LVAR_not_first_time_canyon,1);
+            call Node002;
+         end
+         else
+            call Node003;
+         gSay_End;
+         end_dialogue;
+      end
+   end
+
+//following code will never run as
+//as previous code will make Torr attack
+//player in this situation...check
+//with Matt on this.
+   else if (0) then begin //PC HAS HURT TORR
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+      call Node001;
+      gSay_End;
+      end_dialogue;
+   end
+
+   else if (cur_map_index == MAP_KLAMATH_1) then begin
+      if ( ( (local_var(LVAR_not_first_time_downtown) == 0) or (local_var(LVAR_Torr_Guard_Wait) == 1) ) and (global_var(GVAR_RUSTLE_OVER) != 1) ) then begin //first_time? (ask Matt); added Torr guard wait variable check - killap
+         set_local_var(LVAR_not_first_time_downtown,1);
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+         call Node004;
+         gSay_End;
+         end_dialogue;
+      end
+      else begin
+         if dude_low_iq then begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+            call Node017;
+            gSay_End;
+            end_dialogue;
+         end
+         else
+            call Node016;
+      end
+   end
+
+   else if (cur_map_index == MAP_KLAMATH_GRAZE) then begin
+      if (global_var(GVAR_TORR_GUARD_STATUS) == TORR_GUARD_ACCEPT) then begin
+            if ( A_SCORP_SURVIVES ) then begin
+               start_gdialog(NAME,self_obj,4,-1,-1);
+               gSay_Start;
+               call Node013;
+               gSay_End;
+               end_dialogue;
+            end
+            else begin
+               float_msg(self_obj, message_str(NAME,301),FLOAT_MSG_GREEN);
+//               floater(301); //tell player he can go..danger is gone
+            end
+      end
+      else begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+            call Node014;
+            gSay_End;
+            end_dialogue;
+      end
+   end
+
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+   set_global_var(GVAR_TORR_DEAD,1);
+   set_global_var(GVAR_QUEST_RUSTLE_CATTLE, RUSTLE_FAIL);
+   set_global_var(GVAR_RUSTLE_FAIL_VIOLENT,1); //dont know circumstances this should be set/not set..need to test
+   if (cur_map_index == MAP_KLAMATH_1) then begin
+      set_global_var(GVAR_ENEMY_KLAMATH,1); //only enemy of klamath if killed in downtown
+   end
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+procedure push_p_proc begin
+   script_overrides;
+   debug_msg("I'm being pushed, but I won't Move.");
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+procedure rustle_status begin
+   if (global_var(GVAR_RUSTLE_ACCEPT) == 1) then
+      rustle_triggered := 1;
+   if (global_var(GVAR_RUSTLE_REFUSE) == 1) then
+      rustle_triggered := 0; //edit by killap - was 1
+   if (global_var(GVAR_TORR_GUARD_STATUS) == TORR_GUARD_ACCEPT) then
+      rustle_triggered := 1;
+   if (global_var(GVAR_RUSTLE_SUCCESS) == 1) then
+      rustle_triggered := 0;
+   if (global_var(GVAR_RUSTLE_FAIL) == 1) then
+      rustle_triggered := 0;
+   //if (global_var(GVAR_DUNTON_DEAD) == 1) then //Torr shows up even if Duntons dead
+   //   rustle_triggered := 0;
+   if (global_var(GVAR_RUSTLE_OVER) == 1) then //to prevent rustle from happening more than once
+      rustle_triggered := 0;
+end
+
+procedure scampera begin
+   add_timer_event(self_obj,game_ticks(1),3);
+end
+
+procedure scamperb begin
+   dest:=tile_num_in_direction(tile_num(self_obj), 3, 12);
+   animate_run_to_tile(dest);
+   add_timer_event(self_obj,game_ticks(1),4);
+end
+
+procedure scamperc begin
+   gfade_out(600);
+   //game_time_advance(game_ticks(604800));
+      set_map_var(MVAR_Torr_On_Map,0);
+      set_obj_visibility(self_obj,1);
+      //set_global_var(GVAR_RUSTLE_OVER, 1);
+   gfade_in(600);
+end
+
+procedure Node910 begin
+   critter_heal(dude_obj,(get_critter_stat(dude_obj,STAT_heal_rate)*4));//standard rate of healing/24 hours..Matt wants room to help healing
+   gfade_out(600);
+   game_time_advance(game_ticks(8*3600));
+   gfade_in(600);
+//end, fade out, advance clock 8 hours, heal pc and party 1 day
+//of natural healing. move PC to Torrs room, fade back in.
+   call Node008;
+end
+
+procedure Node915 begin
+   set_global_var(GVAR_TORR_GUARD_STATUS, TORR_GUARD_ACCEPT);
+//set torr_guard_acept flag, set Brahmin Guard Quest in log, end
+end
+
+procedure Node920 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then
+      call Node011;
+   else
+      call Node004;
+end
+
+procedure Node930 begin
+   inc_general_rep(REP_BONUS_KLAMATH_RUSTLE_BRAHMIN);
+   set_global_var(GVAR_QUEST_RUSTLE_CATTLE, RUSTLE_SUCCESS);
+   set_global_var(GVAR_RUSTLE_SUCCESS,1);
+   KC_REP_ADJUST(-8)
+   set_global_var(GVAR_RUSTLE_OVER,1);
+   set_global_var(GVAR_TORR_MISSING,1); //now that Torr is missing, Ardin will ask about him
+   set_global_var(GVAR_TORR_GUARD_STATUS,3);  //set to failure - killap
+   call scampera;
+   //mark Brahmin Rustling Quest Completed in log
+   //if Torr_Guard_Accept then set_Torr_Guard_Fail
+end
+
+procedure Node940 begin
+   //set_local_var(LVAR_Torr_In_Party, 1);
+   set_local_var(LVAR_Follow_Dude, 1);
+   //party_add(self_obj);
+   //call follow_player;
+end
+
+procedure Node995 begin
+   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+       TopReact;
+   end
+   else begin
+       BottomReact;
+   end
+end
+
+procedure Node996 begin
+   BottomReact;
+end
+
+procedure Node997 begin
+   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+       call Node004;
+   else
+       call Node005;
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   if (dude_is_male) then
+      Reply(110);
+   else
+      Reply(111);
+
+   NLowOption(112,Node002);
+   NLowOption(113,Node002);
+   NLowOption(mstr(114) + dude_name,Node002);
+   NLowOption(115,Node003);
+end
+
+procedure Node002 begin
+   if dude_low_iq then
+      Reply(120);
+   else
+      Reply(121);
+
+   GLowOption(dude_name + mstr(122), Node003);
+   GOption(123, Node003, 004);
+end
+
+procedure Node003 begin
+   if dude_low_iq then
+      Reply(130);
+   else
+      Reply(131);
+
+   GLowOption(132, Node940);
+   NOption(133, Node940, 004);
+end
+
+procedure Node004 begin
+   if dude_low_iq then
+      Reply(140);
+   else
+      Reply(141);
+
+   GLowOption(142, Node006);
+   //added by killap
+   if (local_var(LVAR_Torr_Guard_Wait) == 1) then
+      NOption(144, Node007, 004);
+   //end added
+   NOption(143, Node006, 004);
+end
+
+procedure Node005 begin
+   if dude_low_iq then
+      Reply(150);
+   else
+      Reply(151);
+
+   GLowOption(152, Node006);
+   NOption(153, Node006, 004);
+end
+
+procedure Node006 begin
+   if dude_low_iq then
+      Reply(160);
+   else
+      Reply(161);
+
+   GLowOption(162, Node007);
+   NLowOption(163, Node999);
+   NLowOption(166, Node031);
+   GOption(164, Node007, 004);
+   NOption(165, Node999, 004);
+end
+
+procedure Node007 begin
+   //set_global_var(GVAR_TORR_GUARD_STATUS, TORR_GUARD_ACCEPT); //moved to node20 by killap
+   set_local_var(LVAR_Torr_Guard_Wait,1); //added by killap
+   if dude_low_iq then begin
+      //if (tym == TONIGHT) then
+      //   Reply(170);
+      //else
+         Reply(400);
+   end
+   else begin
+      //if (tym == TONIGHT) then
+      //   Reply(171);
+      //else
+         Reply(401);
+   end
+
+   //else begin
+      GLowOption(dude_name + mstr(402), Node020);
+      //NLowOption(173, Node008);
+      GOption(404, Node020, 004);
+      BOption(405, Node999, 004);
+   //end
+end
+
+procedure Node008 begin
+   Reply(180);
+   NLowOption(dude_name + mstr(181),Node009);
+   NLowOption(dude_name + mstr(182),Node010);
+   NLowOption(183,Node011);
+   if not(dude_found_geck) then
+      NLowOption(184,Node012);
+   NLowOption(185,Node999);
+end
+
+procedure Node009 begin
+   Reply(190);
+   GLowOption(701,Node006); //added by killap
+   NLowOption(191,Node008); //edit by killap - was GOption
+   NLowOption(192,Node999);
+end
+
+procedure Node010 begin
+   Reply(200);
+   GLowOption(201,Node910);
+   GLowOption(202,Node008);
+   GLowOption(203,Node999);
+end
+
+procedure Node011 begin
+   Reply(210);
+   GLowOption(211,Node008);
+   NLowOption(212,Node999);
+end
+
+procedure Node012 begin
+   Reply(220);
+   if not(vic_free) then
+      GLowOption(221,Node008);
+   GLowOption(222,Node999);
+end
+
+procedure Node013 begin
+   if dude_low_iq then
+      Reply(mstr(229) + dude_name + mstr(230));
+   else
+      Reply(mstr(229) + dude_name + mstr(231));
+
+   NLowOption(232, Node999);
+   NOption(233, Node999, 004);
+   if ((global_var(GVAR_RUSTLE_ACCEPT) == 1) and (global_var(GVAR_RUSTLE_FAIL) != 1)) then   //killap's fix: added gvar_rustle_fail
+      GOption(234, Node018, 004);
+end
+
+procedure Node014 begin
+   if dude_low_iq then
+      Reply(240);
+   else
+      Reply(241);
+
+   GLowOption(dude_name + mstr(242), Node915);
+   NLowOption(243, Node999);
+   GOption(244, Node915, 004);
+   if ((global_var(GVAR_RUSTLE_ACCEPT) == 1) and (global_var(GVAR_RUSTLE_FAIL) != 1)) then   //added by killap   
+      GOption(245, Node018, 004); //need to have a speech roll here...this is too easy
+   NOption(246, Node999, 004); //was GOption - killap
+end
+
+procedure Node015 begin
+   if dude_low_iq then
+      Reply(mstr(249) + dude_name + mstr(250));
+   else
+      Reply(mstr(249) + dude_name + mstr(251));
+
+   GLowOption(252, Node008);
+   GLowOption(253, Node999);
+   GOption(254, Node999, 004);
+   BOption(255, Node999, 004);
+end
+
+procedure Node016 begin
+   floater(random(260,277)); //edit by killap
+   
+   /*k:=random(1,18);
+   if (k == 1) then floater(260);
+   else if (k == 2) then floater(261);
+   else if (k == 3) then floater(262);
+   else if (k == 4) then floater(263);
+   else if (k == 5) then floater(264);
+   else if (k == 6) then floater(265);
+   else if (k == 7) then floater(266);
+   else if (k == 8) then floater(267);
+   else if (k == 9) then floater(268);
+   else if (k == 10) then floater(269);
+   else if (k == 11) then floater(270);
+   else if (k == 12) then floater(271);
+   else if (k == 13) then floater(272);
+   else if (k == 14) then floater(273);
+   else if (k == 15) then floater(274);
+   else if (k == 16) then floater(275);
+   else if (k == 17) then floater(276);
+   else if (k == 18) then floater(277);*/
+end
+
+procedure Node017 begin //shouldn't get here with iq > 3
+   Reply(mstr(279) + dude_name + mstr(280));
+   NLowOption(dude_name + mstr(281), Node008);
+   NLowOption(282, Node999);
+end
+
+procedure Node018 begin
+   NMessage(300);
+   call Node930;
+end
+
+procedure Node020 begin
+   set_global_var(GVAR_TORR_GUARD_STATUS, TORR_GUARD_ACCEPT); //moved by killap
+   set_local_var(LVAR_Torr_Guard_Wait,0);
+   gfade_out(600);
+   game_time_advance(game_ticks(900)); //15min to get to other map
+   load_map(MAP_KLAMATH_GRAZE, 13); //signal map script to set up things
+end
+
+procedure Node021 begin
+   k:=random(1,5);
+   if (k == 1) then float_msg(self_obj, message_str(NAME,500),FLOAT_MSG_RED);
+   else if (k == 2) then float_msg(self_obj, message_str(NAME,501),FLOAT_MSG_RED);
+   else if (k == 3) then begin
+      if dude_is_female then
+         float_msg(self_obj, message_str(NAME,502),FLOAT_MSG_RED);
+      else
+         float_msg(self_obj, message_str(NAME,503),FLOAT_MSG_RED);
+   end
+   else if (k == 4) then begin
+      if dude_is_female then
+         float_msg(self_obj, message_str(NAME,504),FLOAT_MSG_RED);
+      else
+         float_msg(self_obj, message_str(NAME,505),FLOAT_MSG_RED);
+   end
+   else if (k == 5) then float_msg(self_obj, message_str(NAME,506),FLOAT_MSG_RED);
+   else if (k == 6) then float_msg(self_obj, message_str(NAME,507),FLOAT_MSG_RED);
+end
+
+procedure Node031 begin
+mark_den_on_map
+   Reply(700);
+   GLowOption(701, Node006);
+   NLowOption(702, Node999);
+end
+//xxxxxxxxxxxxxxxxxxxx

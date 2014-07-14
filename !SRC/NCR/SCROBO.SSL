@@ -1,0 +1,507 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Robodog
+        Location: NCR 1
+        Description: He is a robot dog that helps protect Dr. Henry and you can possibly
+        get him as a party member. Good luck.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\ncr1.h"
+
+#define NAME                    SCRIPT_SCROBO
+#define TOWN_REP_VAR         GVAR_TOWN_REP_NCR
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#include "..\headers\ncr.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure push_p_proc;
+
+#define PARTY_NODE_X Node1000
+
+procedure Node1000; //Main party member node
+procedure Node1001; // heal yourself
+procedure Node1002; // wait here
+procedure Node1003; // put your weapon away
+procedure Node1004; // follow close
+procedure Node1005; // follow medium
+procedure Node1006; // follow far
+procedure Node1007; // Distance
+procedure Node1008; // Gear .. but he doesn't have any
+procedure Node1009; // Remove armor
+procedure Node1010; // Weapons that Can be used... NA
+procedure Node1100; // rejoin party
+
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+
+procedure Heal_Robo(variable bonus);
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_On_Players_Team            (7)
+#define LVAR_Wants_On_Team              (8)
+//Stuff for party member crap
+#define LVAR_WAITING                    (9)
+#define LVAR_FOLLOW_DISTANCE            (10)
+#define LVAR_TEAM                       (11)
+#define LVAR_Heal_Count                 (12)
+#define LVAR_Heal_Dec_Time              (13)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+
+#define MULTI_TOOL 10
+#define SUPER_TOOL 30
+
+procedure use_skill_on_p_proc begin
+   if (action_being_used == SKILL_REPAIR) then begin
+      script_overrides;
+      call Heal_Robo(0);
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   variable tool;
+
+   //added by killap
+   if ( (obj_pid(obj_being_used_with) == PID_MICRO_FUSION_CELL) or (obj_pid(obj_being_used_with) == PID_SMALL_ENERGY_CELL) ) then begin
+      script_overrides;
+      display_msg(g_mstr(20000));
+   end
+   //end added
+
+   tool := obj_pid(obj_being_used_with);
+
+   if (tool == PID_MULTI_TOOL) then begin
+      script_overrides;
+      call Heal_Robo(MULTI_TOOL);
+   end else if (tool == PID_SUPER_TOOL_KIT) then begin
+      script_overrides;
+      call Heal_Robo(SUPER_TOOL);
+   end
+end
+
+procedure push_p_proc begin
+end
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   //added by killap - expansion
+   if (fixed_param == 40893) then begin
+      set_party_waiting;
+      critter_attempt_placement( self_obj, 15698, 0 );
+   end
+   //end added
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   party_member_map_enter;
+   if (Cyberdog_In_Party) then begin
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+   end else begin
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
+   end
+end
+
+procedure map_update_p_proc begin
+   if (combat_is_initialized == false) then begin
+      if (anim_busy(self_obj) == false) then begin
+         if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+            if (chem_use_level(self_obj) == 1) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 2) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 30) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 3) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 50) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 4) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 50) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end
+         end
+      end
+   end
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+   if (Cyberdog_In_Party) then begin
+      party_member_follow_dude
+   end
+
+   if (local_var(LVAR_Heal_Count)) then begin
+      if (game_time > local_var(LVAR_Heal_Dec_Time)) then begin
+         set_local_var(LVAR_Heal_Count, local_var(LVAR_Heal_Count) - 50);
+         if (local_var(LVAR_Heal_Count) < 50) then set_local_var(LVAR_Heal_Count, 0);
+         set_local_var(LVAR_Heal_Dec_Time, game_time + ONE_GAME_HOUR);
+      end
+   end
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_TOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION0;
+
+   CheckKarma;
+
+   GetReaction;
+   if (global_var(GVAR_NCR_HENRY_HYPO) == CYBER_DOG_JOIN) then begin
+      set_global_var(GVAR_NCR_HENRY_HYPO, CYBER_DOG_JOINED);
+      set_party_waiting;
+   end
+
+   if (party_is_waiting or Cyberdog_In_Party) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node1000;
+      gSay_End;
+      end_dialogue;
+   end else begin
+      call Node001;
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   float_msg(self_obj, mstr(103 + Random(0, 5)), FLOAT_MSG_NORMAL);
+end
+
+procedure Node002 begin
+   float_msg(self_obj, mstr(109), FLOAT_MSG_NORMAL);
+end
+
+procedure Node003 begin
+   if (dude_at_max_party_size) then
+      float_msg(self_obj, mstr(110), FLOAT_MSG_NORMAL);
+   else
+      float_msg(self_obj, mstr(111), FLOAT_MSG_NORMAL);
+end
+
+procedure Node004 begin
+   float_msg(self_obj, mstr(112 + Random(0, 1)), FLOAT_MSG_NORMAL);
+end
+
+procedure Node005 begin
+   float_msg(self_obj, mstr(114 + Random(0, 2)), FLOAT_MSG_NORMAL);
+end
+
+procedure Node006 begin
+   float_msg(self_obj, mstr(117 + Random(0, 2)), FLOAT_MSG_NORMAL);
+end
+
+procedure NodeRejoin begin
+   if (not dude_at_max_party_size) then begin
+      set_local_var(LVAR_On_Players_Team, 1);
+      set_local_var(LVAR_Wants_On_Team, 0);
+      party_add_self;
+   end
+   call Node999;
+end
+
+procedure Node007 begin
+   Reply(120);
+   NOption(121, NodeRejoin, 1);
+   NOption(122, Node999, 1);
+end
+
+procedure NodeStat begin
+   display_msg(mstr(130) + self_cur_hits + "/" + self_max_hits);
+   call Node008;
+end
+
+procedure Node008 begin
+   Reply(123);
+   NOption(124, NodeStat, 1);
+   NOption(125, Node009, 1);
+   NOption(126, Node999, 1);
+end
+
+procedure NodeLeave begin
+   set_local_var(LVAR_On_Players_Team, 0);
+   set_local_var(LVAR_Wants_On_Team, 1);
+   party_remove_self;
+   call Node999;
+end
+
+procedure Node009 begin
+   Reply(127);
+   NOption(128, Node008, 1);
+   NOption(129, NodeLeave, 1);
+end
+
+#define DEF_ROBO  \
+   party_member_options(def_heal_msg, def_follow_msg, 0, def_wait_msg, def_nowait_msg, def_end_msg, def_stupid_msg)
+#define DEF_ROBO_FOLLOW \
+   party_follow_options(def_close_msg, def_med_msg, def_far_msg, mstr(2204))
+
+procedure Node1000 begin
+   Reply(1000);
+   DEF_ROBO;
+end
+
+procedure Node1001 begin // heal yourself
+   obj_heal(self_obj)
+   global_temp := 0;
+   if (party_healed_max) then begin
+      Reply(1100);
+   end else if (party_healed_good) then begin
+      Reply(1200);
+   end else if (party_healed_hurt) then begin
+      Reply(1300);
+   end else begin
+      Reply(1400);
+   end
+   DEF_ROBO;
+end
+
+procedure Node1002 begin // wait here
+   set_party_waiting;
+   Reply(1500);
+   DEF_ROBO;
+end
+
+procedure Node1003 begin // put your weapon away
+   inven_unwield(self_obj);
+   call Node1007;
+/*   Reply(1600);
+   DEF_ROBO;*/
+end
+
+procedure Node1004 begin // follow close
+   set_follow_close;
+   call Node1007;
+/*   Reply(1700);
+   DEF_ROBO;*/
+end
+
+procedure Node1005 begin// follow medium
+   set_follow_medium;
+   call Node1007;
+/*   Reply(1800);
+   DEF_ROBO;*/
+end
+
+procedure Node1006 begin // follow far
+   set_follow_far;
+   call Node1007;
+/*   Reply(1900);
+   DEF_ROBO;*/
+end
+
+procedure Node1007 begin
+   if (local_var(LVAR_FOLLOW_DISTANCE) == FOLLOW_DISTANCE_CLOSE) then begin
+      Reply(1700);
+   end else if (local_var(LVAR_FOLLOW_DISTANCE) == FOLLOW_DISTANCE_MEDIUM) then begin
+      Reply(1800);
+   end else if (local_var(LVAR_FOLLOW_DISTANCE) == FOLLOW_DISTANCE_FAR) then begin
+      Reply(1900);
+   end
+   DEF_ROBO_FOLLOW;
+end
+
+procedure Node1008 begin
+end
+
+procedure Node1009 begin
+end
+
+procedure Node1010 begin
+end
+
+
+procedure Node1100 begin // rejoin party
+   if (dude_at_max_party_size) then begin
+      Reply(2000);
+      NOption(g_mstr(10007),Node999,001);
+//   end else if (town_rep_is_hated) then begin
+//      Reply(2100);
+//      NOption(g_mstr(10007),Node999,001);
+   end else begin
+      end_party_waiting;
+      Reply(2200);
+      DEF_ROBO;
+   end
+end
+
+procedure Heal_Robo(variable bonus) begin
+   if (local_var(LVAR_Heal_Count) < has_skill(source_obj, SKILL_CONVERSANT)) then begin
+      if (skill_success(source_obj, SKILL_REPAIR, bonus)) then begin
+         critter_heal(self_obj, Random(10, 40));
+         set_local_var(LVAR_Heal_Count, local_var(LVAR_Heal_Count) + 50);
+      end
+
+      if (self_cur_hits != self_max_hits) then begin
+         display_mstr(132);
+      end else begin
+         display_mstr(133);
+      end
+   end else begin
+      display_mstr(131);
+   end
+end
+
+//xxxxxxxxxxxxxxxxxxxx

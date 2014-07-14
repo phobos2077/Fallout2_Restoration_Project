@@ -1,0 +1,535 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Raul
+        Location: Navarro
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: Sept 10, 1998
+
+           NOTE: NEED TO SCRIPT FOR RAUL CATCHING THE PLAYER PLACING EXPLOSIVES.
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+//#include "..\headers\navdef.h"
+#include "..\headers\navarro.h"
+//#include "..\headers\<TownName.h>"
+
+#define NAME                    SCRIPT_CCRAUL
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NAVARRO
+
+#include "..\headers\ModReact.h"
+
+//#define HEX_ONE          11922
+//#define HEX_TWO          13319
+//#define HEX_THR          14917
+//#define HEX_FOU          17317
+#define HEX_ONE          10715
+#define HEX_TWO          12512
+#define HEX_THR          14518
+#define HEX_FOU          16314
+#define HEX_FIV          18108
+#define HEX_SIX          19495
+#define HEX_SEV          18081
+#define HEX_EIG          15281
+#define HEX_NIN          14074
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure timed_event_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure find_way;
+procedure go_back;
+procedure process_status;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_second_look                (7)
+#define LVAR_07_before                  (8)
+#define LVAR_take_part                  (9)
+#define LVAR_WAYPOINT                   (10)
+#define LVAR_THEX                       (11)
+#define LVAR_status                     (12)
+#define LVAR_next_hex                   (13)
+#define LVAR_home                       (14)
+#define LVAR_Had_Fight                  (15)
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable said_intruder:=0;
+variable myhex;
+variable time_set:=0;
+
+import variable quincy_ptr;
+import variable raul_ptr;
+
+procedure start begin
+   raul_ptr := self_obj;
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 0) then begin
+      //now I can get angry if player touches the shelf
+      set_local_var(LVAR_take_part,2);
+   end
+   else if (fixed_param == 1) then begin //processing argument or fight
+      if (local_var(LVAR_status) == 2) then begin
+         float_msg(quincy_ptr, message_str(SCRIPT_CCQUINCY,200),FLOAT_MSG_RED);
+         set_local_var(LVAR_status,3);
+      end
+      else if (local_var(LVAR_status) == 3) then begin
+         floater(201);
+         set_local_var(LVAR_status,4);
+      end
+      else if (local_var(LVAR_status) == 4) then begin
+         anim(quincy_ptr, ANIMATE_ROTATION, 2); //quincy faces raul
+         float_msg(quincy_ptr, message_str(SCRIPT_CCQUINCY,201),FLOAT_MSG_RED);
+         set_local_var(LVAR_status,5);
+      end
+      else if (local_var(LVAR_status) == 5) then begin //give time to read last float
+         set_local_var(LVAR_status,6);
+      end
+      else if (local_var(LVAR_status) == 11) then begin
+         anim(quincy_ptr, ANIMATE_ROTATION, 0); //quincy faces locker
+         anim(self_obj, ANIMATE_ROTATION, 0); //raul faces locker
+         set_local_var(LVAR_status,12);
+         set_map_var(MVAR_Fight,0);
+      end
+      else begin //fight
+         reg_anim_clear(self_obj);
+         reg_anim_clear(quincy_ptr);
+         reg_anim_begin();
+         if (local_var(LVAR_status) == 6) then begin
+            reg_anim_animate(self_obj, ANIM_throw_punch, -1);
+            reg_anim_animate(quincy_ptr, ANIM_dodge_anim, 4);
+            set_local_var(LVAR_status,7);
+         end
+         else if (local_var(LVAR_status) == 7) then begin
+            reg_anim_animate(self_obj, ANIM_throw_punch, -1);
+            reg_anim_animate(quincy_ptr, ANIM_hit_from_front, 4);
+            set_local_var(LVAR_status,8);
+         end
+         else if (local_var(LVAR_status) == 8) then begin
+            reg_anim_animate(self_obj, ANIM_throw_punch, -1);
+            reg_anim_animate(quincy_ptr, ANIM_fall_back, 4);
+            set_map_var(MVAR_Argument,0); //if you want quincy to not respond until standing up move this line to the next status
+            set_local_var(LVAR_status,9);
+         end
+         else if (local_var(LVAR_status) == 10) then begin
+            reg_anim_animate(quincy_ptr, ANIM_back_to_standing, -1);
+            set_local_var(LVAR_status,11);
+         end
+         reg_anim_end();
+
+      end //end fight
+   end
+   else if( fixed_param == 2 ) then
+      floater(150);
+   else if( fixed_param == 3 ) then
+      floater(151);
+   time_set:=0;
+end
+
+procedure map_enter_p_proc begin
+   raul_ptr := self_obj;
+   if (local_var(LVAR_home) == 0) then begin
+      set_local_var(LVAR_home, tile_num(self_obj));
+   end
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NAVARRO);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_NAV_GUARD);
+end
+
+procedure map_update_p_proc begin
+   raul_ptr := self_obj;
+end
+
+procedure find_way begin
+   myhex:=tile_num(self_obj);
+   if (myhex == local_var(LVAR_next_hex)) then begin
+      if (local_var(LVAR_WAYPOINT) < 9) then begin
+         set_local_var(LVAR_WAYPOINT, local_var(LVAR_WAYPOINT)+1);
+      end
+      else begin
+         set_map_var(MVAR_Argument,1);
+         animate_rotation(5); //face quincy
+         floater(200);
+         set_local_var(LVAR_status,2); //turn off walk over to quincy
+      end
+   end
+   if (local_var(LVAR_WAYPOINT) == 1) then begin
+      set_local_var(LVAR_next_hex, HEX_ONE);
+   end
+   else if (local_var(LVAR_WAYPOINT) == 2) then begin
+      set_local_var(LVAR_next_hex, HEX_TWO);
+   end
+   else if (local_var(LVAR_WAYPOINT) == 3) then begin
+      set_local_var(LVAR_next_hex, HEX_THR);
+   end
+   else if (local_var(LVAR_WAYPOINT) == 4) then begin
+      set_local_var(LVAR_next_hex, HEX_FOU);
+   end
+   else if (local_var(LVAR_WAYPOINT) == 5) then begin
+      set_local_var(LVAR_next_hex, HEX_FIV);
+   end
+   else if (local_var(LVAR_WAYPOINT) == 6) then begin
+      set_local_var(LVAR_next_hex, HEX_SIX);
+   end
+   else if (local_var(LVAR_WAYPOINT) == 7) then begin
+      set_local_var(LVAR_next_hex, HEX_SEV);
+   end
+   else if (local_var(LVAR_WAYPOINT) == 8) then begin
+      set_local_var(LVAR_next_hex, HEX_EIG);
+   end
+   else if (local_var(LVAR_WAYPOINT) == 9) then begin
+      set_local_var(LVAR_next_hex, HEX_NIN);
+   end
+   animate_move_to_tile(local_var(LVAR_next_hex));
+end
+
+procedure go_back begin
+   myhex:=tile_num(self_obj);
+   if (myhex == local_var(LVAR_home)) then begin
+      set_local_var(LVAR_status,10);
+   end
+   else if (myhex == local_var(LVAR_next_hex)) then begin
+      if (local_var(LVAR_WAYPOINT) > 0) then begin
+         set_local_var(LVAR_WAYPOINT, local_var(LVAR_WAYPOINT)-1);
+      end
+   end
+   if (local_var(LVAR_WAYPOINT) == 0) then begin
+      set_local_var(LVAR_next_hex, local_var(LVAR_home));
+   end
+   if (local_var(LVAR_WAYPOINT) == 1) then begin
+      set_local_var(LVAR_next_hex, HEX_ONE);
+   end
+   else if (local_var(LVAR_WAYPOINT) == 2) then begin
+      set_local_var(LVAR_next_hex, HEX_TWO);
+   end
+   else if (local_var(LVAR_WAYPOINT) == 3) then begin
+      set_local_var(LVAR_next_hex, HEX_THR);
+   end
+   else if (local_var(LVAR_WAYPOINT) == 4) then begin
+      set_local_var(LVAR_next_hex, HEX_FOU);
+   end
+   else if (local_var(LVAR_WAYPOINT) == 5) then begin
+      set_local_var(LVAR_next_hex, HEX_FIV);
+   end
+   else if (local_var(LVAR_WAYPOINT) == 6) then begin
+      set_local_var(LVAR_next_hex, HEX_SIX);
+   end
+   else if (local_var(LVAR_WAYPOINT) == 7) then begin
+      set_local_var(LVAR_next_hex, HEX_SEV);
+   end
+   else if (local_var(LVAR_WAYPOINT) == 8) then begin
+      set_local_var(LVAR_next_hex, HEX_EIG);
+   end
+   else if (local_var(LVAR_WAYPOINT) == 9) then begin
+      set_local_var(LVAR_next_hex, HEX_NIN);
+   end
+   animate_move_to_tile(local_var(LVAR_next_hex));
+end
+
+procedure process_status begin
+   if (local_var(LVAR_status) == 1) then begin
+      call find_way;
+   end
+   else if (local_var(LVAR_status) < 6) then begin //processing argument
+      if (time_set == 0) then begin
+         add_timer_event(self_obj,game_ticks(6),1);
+         time_set:=1;
+      end
+   end
+   else if (local_var(LVAR_status) < 9) then begin // processing fight
+      if (time_set == 0) then begin
+         add_timer_event(self_obj,game_ticks(2),1);
+         time_set:=1;
+      end
+   end
+   //else if (local_var(LVAR_status) < 11) then begin
+   else if (local_var(LVAR_status) < 10) then begin
+      call go_back;
+   end
+   else if (local_var(LVAR_status) < 11) then begin
+      if (time_set == 0) then begin
+         add_timer_event(self_obj,game_ticks(2),1);
+         time_set:=1;
+      end
+   end
+   else begin
+      if (time_set == 0) then begin
+         add_timer_event(self_obj,game_ticks(2),1);
+         time_set:=1;
+      end
+   end
+end
+
+procedure critter_p_proc begin
+
+   if ( (local_var(LVAR_status) > 0) and (local_var(LVAR_status) < 12) ) then begin
+      call process_status;
+   end
+/*
+   else if (local_var(LVAR_status) == 3) then begin
+   end
+*/
+   else if (obj_can_see_obj(self_obj,dude_obj)) then begin
+      if (local_var(LVAR_Hostile) == 2) then begin
+         call Node012;
+         set_local_var(LVAR_Hostile,1);
+         attack(dude_obj);
+      end
+      else if (global_var(GVAR_NAVARRO_BASE_ALERT) > 0) then begin
+         //if (said_intruder == 0) then
+            //call Node011;
+         set_local_var(LVAR_Hostile,1);
+         attack(dude_obj);
+      end
+      else if( not_alone ) then begin
+         call Node010;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   GetReaction;
+
+   if (map_var(MVAR_Argument) == 1) then begin
+      script_overrides;
+   end
+   else begin
+      if ( global_var(GVAR_NAVARRO_BASE_ALERT) > 0 ) then begin
+         call Node998;
+      end
+      else if (map_var(MVAR_Fight) == 1) then begin
+         floater(300);
+      end
+      else if( not_wearing_power_armor ) then begin //dude is not alone
+         call Node009;
+      end
+      else begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node001;
+         gSay_End;
+         end_dialogue;
+      end
+   end // Override Talk
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_second_look) == 0) then begin
+      set_local_var(LVAR_second_look,1);
+      display_msg(mstr(100));
+   end
+   else begin
+      display_msg(mstr(101));
+   end
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+   //if (action_being_used == SKILL_STEAL) then begin
+      //if (is_success(roll_vs_skill(dude_obj,action_being_used,0))) then begin
+      //end
+   //end
+end
+
+procedure Node001 begin
+   Reply(103);
+
+   if ( (global_var(GVAR_NAVARRO_K9) == NAVARRO_K9_NEED_PART) and (map_var(MVAR_Take_It) == 0) ) then
+      NLowOption(104,Node013);
+   NLowOption(105,Node999);
+   if ( ( map_var(MVAR_See_Me) == 1 ) and ( local_var( LVAR_Had_Fight ) == 0 ) ) then
+      NLowOption(106,Node002);
+   if ( (global_var(GVAR_NAVARRO_K9) == NAVARRO_K9_NEED_PART) and (map_var(MVAR_Take_It) == 0) ) then
+      NOption(107,Node013,004);
+   NOption(108,Node999,004);
+   if ( ( map_var(MVAR_See_Me) == 1 ) and ( local_var( LVAR_Had_Fight ) == 0 ) ) then
+      NOption(109,Node002,004);
+end
+
+procedure Node002 begin
+   Reply(110);
+
+   NLowOption(111,Node999);
+   NLowOption(112,Node003);
+   NOption(113,Node999,004);
+   NOption(114,Node003,004);
+end
+
+procedure Node003 begin
+   Reply(115);
+
+   NLowOption(116,Node004);
+   NOption(117,Node004,004);
+end
+
+procedure Node004 begin
+   Reply(118);
+
+   NLowOption(119,Node005);
+   NOption(120,Node005,004);
+end
+
+procedure Node005 begin
+   Reply(121);
+
+   NLowOption(122,Node006);
+   NOption(123,Node006,004);
+end
+
+procedure Node006 begin
+   set_local_var(LVAR_status,1); //start Raul walking over to Quincy
+   set_local_var(LVAR_WAYPOINT,1); //will need to prevent player from talking to raul while walking
+   set_map_var(MVAR_Fight,1); //tells me not to let player interfere (short of combat) with raul or quincy
+   set_local_var( LVAR_Had_Fight, 1 );
+   Reply(124);
+
+   NOption(125,Node999,001);
+end
+
+procedure Node007 begin
+   if (local_var(LVAR_07_before) == 0) then begin
+      set_local_var(LVAR_07_before,1);
+      Reply(126);
+   end
+   else begin
+      Reply(127);
+   end
+
+   NLowOption(128,Node008);
+   BLowOption(129,Node998);
+   NOption(130,Node008,004);
+   BOption(131,Node998,004);
+end
+
+procedure Node008 begin
+   Reply(132);
+
+   NOption(133,Node999,001);
+end
+
+procedure Node009 begin
+   floater(random(134,136));
+end
+
+procedure Node010 begin
+   set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+   floater(random(137,139));
+end
+
+procedure Node011 begin
+   said_intruder:=1;
+   floater(random(140,142));
+end
+
+procedure Node012 begin
+   floater(random(143,145));
+end
+
+procedure Node013 begin
+   //Desk should unset K9...maybe only allow them to get the part if they hit this node
+   //the desk could possibly create on the fly after this.
+   //unset K9
+   set_map_var(MVAR_Take_It,1);
+   Reply(146);
+
+   NOption(147,Node999,001);
+end
+
+procedure Node014 begin
+   // Removed. Taken care of by generic locker script.
+end
+
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+   set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end

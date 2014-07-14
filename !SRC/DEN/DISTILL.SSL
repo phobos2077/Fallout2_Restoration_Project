@@ -1,0 +1,131 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Maggie's Still
+        Location: Den
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\Den.h"
+
+#define NAME                        SCRIPT_DISTILL
+#define TOWN_REP_VAR                GVAR_TOWN_REP_THE_DEN
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_update_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+
+
+#define LVAR_Becky_Repair_Still_Time      (1) //added by killap
+
+
+procedure start begin
+end
+
+procedure map_update_p_proc begin
+end
+
+procedure map_enter_p_proc begin
+   //added by killap
+   if ( (becky_dead == false) and (still_broken) ) then begin
+      if (local_var(LVAR_Becky_Repair_Still_Time) == 0) then begin
+            set_local_var(LVAR_Becky_Repair_Still_Time, game_time + (ONE_GAME_DAY * (random(3, 7))));
+      end else if (local_var(LVAR_Becky_Repair_Still_Time) < game_time) then begin
+            off_still_broken;
+            set_local_var(LVAR_Becky_Repair_Still_Time, 0);
+      end
+   end
+   //end added by killap
+   
+   if (still_broken) then begin
+      animate_set_frame(1);
+   end else begin
+      animate_set_frame(0);
+   end
+end
+
+procedure damage_p_proc begin
+   if (still_broken == false) then begin
+      gfade_out(ONE_GAME_SECOND);
+         if (still_quest(state_still_quest_asked_to_destroy)) then begin
+            set_still_quest(state_still_quest_destroyed);
+         end
+         set_player_has_destroyed_still;
+         set_still_broken;
+         display_mstr(103); //killap's fix: was 102
+         animate_set_frame(1);
+         set_local_var(LVAR_Becky_Repair_Still_Time, game_time + (ONE_GAME_DAY * (random(3, 7)))); //added by killap
+      gfade_in(ONE_GAME_SECOND);
+   end
+end
+
+procedure destroy_p_proc begin
+end
+
+procedure use_obj_on_p_proc begin
+   script_overrides;
+   if ((obj_pid(obj_being_used_with) == PID_WRENCH) or (obj_pid(obj_being_used_with) == PID_CROWBAR) or (obj_pid(obj_being_used_with) == PID_MULTI_TOOL)) then begin
+      gfade_out(ONE_GAME_SECOND);
+         if (still_quest(state_still_quest_asked_to_destroy)) then begin
+            set_still_quest(state_still_quest_destroyed);
+         end
+         set_player_has_destroyed_still;
+         set_still_broken;
+         display_mstr(103); //killap's fix: was 102
+         animate_set_frame(1);
+         set_local_var(LVAR_Becky_Repair_Still_Time, game_time + (ONE_GAME_DAY * (random(3, 7)))); //added by killap
+      gfade_in(ONE_GAME_SECOND);
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   set_still_known;
+   if (still_broken) then begin
+      display_mstr(102);
+   end else if (still_quest(state_still_quest_serching)) then begin
+      display_mstr(101);
+   end else begin
+      display_mstr(100);
+   end
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   set_still_known;
+   if (still_broken) then begin
+      display_mstr(102);
+   //end else if (still_quest(state_still_quest_no) == false) then begin
+   end else if (still_quest(state_still_quest_serching)) then begin //edit by killap
+      dude_floater(101); //edit by killap
+      display_mstr(100); //added by killap
+      //display_mstr(101);
+   end else begin
+      display_mstr(100);
+   end
+end

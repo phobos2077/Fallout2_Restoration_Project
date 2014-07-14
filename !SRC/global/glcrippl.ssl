@@ -1,0 +1,41 @@
+// By Darek
+
+procedure start;
+variable unhealthy_members;
+variable only_once;
+variable only_once2;
+
+procedure start
+begin
+   if (game_loaded) then begin
+      hide_iface_tag(5);
+      hide_iface_tag(6);
+      set_global_script_repeat(60);
+   end
+   // player is crippled
+   if (critter_state(dude_obj) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) then begin
+      if only_once == 0 then begin
+         show_iface_tag(5);
+         only_once := 1;
+      end
+   end
+   else begin   
+      if only_once == 1 then begin
+         hide_iface_tag(5);
+         only_once := 0;
+      end
+   end
+   // companion is crippled
+   if ((critter_state(party_member_obj(16777278 )) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777376)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777377)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777305)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777313)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777323)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777352)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777368)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777379)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777380)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777381)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777295)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777558)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777687)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777718)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777719)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777720)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777595)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777596)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777597)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777600)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64))) then begin
+      if only_once2 == 0 then begin
+         show_iface_tag(6);
+         only_once2 := 1;
+      end
+   end
+   else begin   
+      if only_once2 == 1 then begin
+         hide_iface_tag(6);
+         only_once2 := 0;
+      end
+   end
+end

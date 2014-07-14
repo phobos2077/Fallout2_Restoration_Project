@@ -1,0 +1,284 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                        SCRIPT_DCSLVRUN
+
+#include "..\headers\command.h"
+
+#define CRITTER_KNOCKED_OUT             (5)         // temp var
+#define MIN_STUN                        (2)
+#define MAX_STUN                        (5)
+#define STUN_KNOCKOUT                   (2 * get_critter_stat(self_obj,STAT_en))
+#define ENDURANCE_BONUS                 (0)
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure combat_p_proc;
+procedure talk_p_proc;
+procedure timed_event_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Hostile                      (0)
+#define LVAR_Initialized                  (1)
+#define LVAR_Is_Warrior                   (2)
+#define LVAR_Description                  (3)
+
+#define set_description                   if (self_pid == PID_PRIMITIVE_VILLAGER_MALE) then begin              \
+                                             set_local_var(LVAR_Description, 100);                             \
+                                          end else if (self_pid == PID_PRIMITIVE_VILLAGER_FEMALE) then begin   \
+                                             set_local_var(LVAR_Description, 110);                             \
+                                          end else if (self_is_female) then begin                              \
+                                             set_local_var(LVAR_Description, 150 + (random(0,2)*10));          \
+                                          end else begin                                                       \
+                                             set_local_var(LVAR_Description, 120 + (random(0,2)*10));          \
+                                          end
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (combat_is_initialized == false) then begin
+      if (self_can_see_dude == false) then begin
+         animate_move_to_tile(tile_num_in_direction(self_tile, random(0,5), random(2,4)));
+         if (random(0,1)) then begin
+            if ((self_pid == PID_PRIMITIVE_VILLAGER_MALE) or (self_pid == PID_PRIMITIVE_VILLAGER_FEMALE)) then begin
+               if (self_ai == AI_KAMAKAZI) then begin
+                  call Node008;
+               end else begin
+                  call Node010;
+               end
+            end else begin
+               if (self_ai == AI_KAMAKAZI) then begin
+                  call Node009;
+               end else begin
+                  call Node011;
+               end
+            end
+         end
+      end
+   end
+   add_timer_event(self_obj, game_ticks(random(5,30)), 1);
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (local_var(LVAR_Initialized) == false) then begin
+         if (self_is_armed) then begin
+            set_local_var(LVAR_Hostile,2);
+            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_KAMAKAZI);
+            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_HOSTILE_SLAVES);
+            set_local_var(LVAR_Is_Warrior, true);
+         end else begin
+            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SLAVE);
+            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAVES);
+         end
+         set_local_var(LVAR_Initialized, true);
+      end
+   end
+   add_timer_event(self_obj, game_ticks(random(5,30)), 1);
+end
+
+procedure talk_p_proc begin
+   if ((self_pid == PID_PRIMITIVE_VILLAGER_MALE) or (self_pid == PID_PRIMITIVE_VILLAGER_FEMALE)) then begin
+      if (self_ai == AI_KAMAKAZI) then begin
+         call Node004;
+      end else begin
+         call Node006;
+      end
+   end else begin
+      if (self_ai == AI_KAMAKAZI) then begin
+         call Node005;
+      end else begin
+         call Node007;
+      end
+   end
+end
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Description) == 0) then begin
+      set_description
+   end
+   display_mstr(local_var(LVAR_Description));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Description) == 0) then begin
+      set_description
+      display_mstr(local_var(LVAR_Description));
+   end else begin
+      display_mstr(local_var(LVAR_Description) + 1);
+   end
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+   if (self_can_see_dude) then begin
+      if (self_ai == AI_KAMAKAZI) then begin
+         set_local_var(LVAR_Hostile,1);
+         attack(dude_obj);
+      end else begin
+         Flee_From_Dude
+         // *** set flag so hostiles no to follow dude
+         // *** say help!!!
+      end
+   end else if ((self_is_armed) and (self_pid != PID_PRIMITIVE_VILLAGER_MALE) and (self_pid != PID_PRIMITIVE_VILLAGER_FEMALE)) then begin
+      inven_unwield;
+   end
+end
+
+procedure combat_p_proc begin
+   if (critter_is_fleeing(self_obj) == false) then begin
+      if (local_var(LVAR_Hostile) == 2) then begin
+         if (has_trait(TRAIT_OBJECT,self_obj,OBJECT_AI_PACKET) != AI_KAMAKAZI) then begin
+            inc_global_var(GVAR_HOSTILE_SLAVE_COUNT);
+            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_HOSTILE_SLAVES);
+            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_KAMAKAZI);
+            set_local_var(LVAR_Hostile,1);
+         end else if (self_ai == AI_SLAVE) then begin
+            critter_set_flee_state(self_obj, true);
+         end
+         set_local_var(LVAR_Hostile,1);
+         attack(dude_obj);
+      end
+   end else if (self_ai == AI_KAMAKAZI) then begin
+      set_local_var(LVAR_Is_Warrior, false);
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SLAVE);
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAVES);
+      dec_global_var(GVAR_HOSTILE_SLAVE_COUNT);
+      inc_global_var(GVAR_SLAVES_COUNT);
+   end
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+   if (local_var(LVAR_Hostile) == 0) then begin
+      set_local_var(LVAR_Hostile,2);
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_HOSTILE_SLAVES);
+      critter_set_flee_state(self_obj, 0);
+   end
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+   debug_msg("\ndestroying slave");
+   inc_global_var(GVAR_SLAVE_RUN_KILLED);
+   if (source_obj == dude_obj) then begin
+      inc_good_critter
+   end
+   if (local_var(LVAR_Hostile) == 1) then begin
+      dec_global_var(GVAR_HOSTILE_SLAVE_COUNT);
+   end
+   if (local_var(LVAR_Is_Warrior) == false) then begin
+      inc_global_var(GVAR_SLAVES_LOST);
+   end
+   debug_msg("\n  GVAR_SLAVES_COUNT         == "+global_var(GVAR_SLAVES_COUNT));
+   debug_msg("\n  GVAR_SLAVERS_LOST         == "+global_var(GVAR_SLAVERS_LOST));
+   debug_msg("\n  GVAR_SLAVES_LOST          == "+global_var(GVAR_SLAVES_LOST));
+   debug_msg("\n  GVAR_HOSTILE_SLAVE_COUNT  == "+global_var(GVAR_HOSTILE_SLAVE_COUNT));
+end
+
+procedure Node004 begin
+   floater_rand(200, 202);
+end
+procedure Node005 begin
+   floater_rand(210, 212);
+end
+procedure Node006 begin
+   floater_rand(220, 223);
+end
+procedure Node007 begin
+   floater_rand(230, 235);
+end
+procedure Node008 begin
+   floater_rand(245, 250);
+end
+procedure Node009 begin
+   floater_rand(260, 265);
+end
+procedure Node010 begin
+   floater_rand(270, 276);
+end
+procedure Node011 begin
+   floater_rand(280, 285);
+end

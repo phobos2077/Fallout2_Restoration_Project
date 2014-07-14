@@ -1,0 +1,35 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Message Spatial
+        Location:
+        Description:
+
+        Log:
+
+           Created: December 01, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\base.h"
+
+#define NAME                     SCRIPT_ETBATTLE
+
+#include "..\headers\command.h"
+#include "..\headers\base.h"
+
+procedure start;
+procedure spatial_p_proc;
+
+procedure start begin
+end
+
+procedure spatial_p_proc begin
+   display_mstr(100);
+   destroy_object(self_obj);
+end

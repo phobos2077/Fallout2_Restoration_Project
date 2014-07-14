@@ -1,0 +1,208 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Brother Hood door
+        Description: Should be generic enough for each area.. Make sure to have imported brother
+        hood object;
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_FSBRODOR
+#define CUR_COMP_SCRIPT         SCRIPT_FSBRODOR
+
+#include "..\headers\command.h"
+#include "..\headers\sanfran.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure checkState;
+procedure validHandle(variable handle);
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Delay_Time                 (0)
+
+#define TIMER_CHECK_STATE 1
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+import variable i_brother_obj;
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_CHECK_STATE) then begin
+      call checkState;
+      add_timer_event(self_obj, ONE_GAME_SECOND, TIMER_CHECK_STATE);
+   end
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+   if (not IS_BOS) then begin
+      script_overrides;
+      //added by killap
+      if (source_obj == dude_obj) then begin
+         display_mstr(100);
+      end
+      //end added by killap
+      if (validHandle(i_brother_obj)) then begin
+         add_timer_event(i_brother_obj, 0, TIMER_SCREW_WITH_DOOR);
+      end
+   end else begin
+      if (not obj_is_open(self_obj)) then begin
+         if (obj_is_locked(self_obj)) then begin
+            obj_unlock(self_obj);
+         end
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+         obj_open(self_obj);
+         reg_anim_end();
+         set_local_var(LVAR_Delay_Time, game_time + (ONE_GAME_SECOND * 5));
+      end else begin
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+         obj_close(self_obj);
+         reg_anim_end();
+         if (not obj_is_locked(self_obj)) then begin
+            obj_lock(self_obj);
+         end
+         set_local_var(LVAR_Delay_Time, 0);
+      end
+   end
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+end
+
+
+/**********************************************************************************
+**********************************************************************************/
+
+procedure description_p_proc begin
+end
+
+
+/**********************************************************************************
+   Make sure the door is working.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+   if (validHandle(i_brother_obj)) then begin
+      add_timer_event(i_brother_obj, 0, TIMER_SCREW_WITH_DOOR);
+   end
+end
+
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+
+procedure use_obj_on_p_proc begin
+   if (validHandle(i_brother_obj)) then begin
+      add_timer_event(i_brother_obj, 0, TIMER_SCREW_WITH_DOOR);
+   end
+end
+
+
+/******************************************************************************************
+   IF it gets damaged it breaks
+******************************************************************************************/
+
+procedure damage_p_proc begin
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   if (not is_loading_game) then
+      add_timer_event(self_obj, ONE_GAME_SECOND, TIMER_CHECK_STATE);
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+procedure checkState begin
+   if (local_var(LVAR_Delay_Time)) then begin
+      if (game_time > local_var(LVAR_Delay_Time)) then begin
+         if (obj_is_open(self_obj)) then begin
+            reg_anim_clear(self_obj);
+            reg_anim_begin();
+            obj_close(self_obj);
+            reg_anim_end();
+            if (not obj_is_locked(self_obj)) then begin
+               obj_lock(self_obj);
+            end
+            set_local_var(LVAR_Delay_Time, 0);
+         end
+      end
+   end
+end
+
+procedure validHandle(variable handle) begin
+   if (handle != 0 and handle != -1) then begin
+      return 1;
+   end
+   return 0;
+end

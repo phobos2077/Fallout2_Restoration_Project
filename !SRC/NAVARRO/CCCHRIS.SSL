@@ -1,0 +1,737 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Chris
+        Location: Navarro
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: Sept 10, 1998
+
+           NOTE:  SPECIAL STILL NEEDS TO BE CODED FOR CHRIS SO HE ATTEMPTS
+                  TO WARN THE BASE AND GIVES THE PLAYER A CHANCE TO STOP HIM.
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+#include "..\headers\navarro.h"
+
+#define NAME                    SCRIPT_CCCHRIS
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NAVARRO
+
+#include "..\headers\SanFran.h"
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure map_exit_p_proc;
+procedure combat_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node019a;
+procedure Node019b;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node022a;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+
+procedure TriggerRadio;
+
+/* Script Specific Procedure Calls */
+procedure Node997;
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_second_look                (7)
+#define LVAR_Misled                     (8)
+#define LVAR_Attempted_Lie              (9)
+#define LVAR_Info_Given                 (10)
+#define LVAR_Radio_Combat               (11)
+
+import variable chris_ptr;
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable said_intruder:=0;
+variable Add_Insult:=0;
+variable Radio_State := 0;
+variable Fired_Dialogue := 0;
+variable Door_Dialogue := 0;
+variable Last_Elevation := 0;
+
+procedure start begin
+   chris_ptr := self_obj;
+end
+
+procedure combat_p_proc begin
+   // This makes sure that Chris doesn't set off alert.
+   rm_timer_event( self_obj );
+end
+
+procedure map_enter_p_proc begin
+   last_elevation := 0;
+   chris_ptr := self_obj;
+   Only_Once:=0;
+   Fired_Dialogue := 0;
+   Door_Dialogue := 0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NAVARRO);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_NAV_GUARD);
+
+   // Chris changes position depending on whether or not you come in with the car.
+   if( ( global_var(GVAR_PLAYER_GOT_CAR) != 0 ) and
+       ( car_current_town == AREA_NAVARRO ) ) then begin
+      move_to( self_obj, 28089, 0 );
+      critter_attempt_placement( self_obj, 28089, 0 );
+      anim( self_obj, ANIMATE_ROTATION, 3 );
+      // Force dialog
+      Fired_Dialogue := 1;
+      add_timer_event( self_obj, 2, 2 );
+   end
+   else begin
+      move_to( self_obj, 25900, 0 );
+      critter_attempt_placement( self_obj, 25900, 0 );
+      anim( self_obj, ANIMATE_ROTATION, 2 );
+   end
+end
+
+procedure map_update_p_proc begin
+   chris_ptr := self_obj;
+
+   // If the player started combat with Chris, but left the map or
+   // changed elevations before killing him, put the entire base on alert.
+   if( ( last_elevation != elevation( dude_obj ) ) and ( local_var( LVAR_Radio_Combat ) == 1 ) ) then begin
+      set_local_var( LVAR_Radio_Combat, 0 );
+      set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+   end
+
+   last_elevation := elevation( dude_obj );
+end
+
+procedure map_exit_p_proc begin
+   // If the player started combat with Chris, but left the map before
+   // killing him, put the entire base on alert.
+   if (local_var(LVAR_Hostile) == 1) then begin
+      set_local_var(LVAR_Hostile,2);
+      set_local_var( LVAR_Radio_Combat, 0 );
+      set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+   end
+   if( local_var( LVAR_Radio_Combat ) == 1 ) then begin
+      set_local_var( LVAR_Radio_Combat, 0 );
+      set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+   end
+end
+
+procedure critter_p_proc begin
+   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+      if (local_var(LVAR_Hostile) == 2) then begin
+         call Node027;
+         set_local_var(LVAR_Hostile,1);
+         attack(dude_obj);
+      end
+      else if (global_var(GVAR_NAVARRO_BASE_ALERT) > 0) then begin
+         if (said_intruder == 0) then
+            call Node026;
+         set_local_var(LVAR_Hostile,1);
+         attack(dude_obj);
+      end
+      else if( Fired_Dialogue == 0 ) then begin
+         //add_timer_event( self_obj, 2, 2 );
+         Fired_Dialogue := 1;
+         dialogue_system_enter; //back by killap
+      end
+   end //can see dude
+end
+
+procedure damage_p_proc begin
+   // This makes sure that Chris doesn't set off alert.
+   rm_timer_event( self_obj );
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Add_Insult := 0;
+   Radio_State := 0;
+
+   if( Door_Dialogue == 1 ) then begin
+       Door_Dialogue := 0;
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+          call Node023;
+       gSay_End;
+       end_dialogue;
+   end
+   else if( local_var( LVAR_Radio_Combat ) == 1 ) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+          call Node028;
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(GVAR_NAVARRO_BASE_ALERT) > 0) then begin
+      call Node026;
+   end
+   else if ( (local_var(LVAR_Misled) == 1) and ( been_to_base ) ) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+          call Node024;
+       gSay_End;
+       end_dialogue;
+   end
+   else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         // Node025 Reply is handled inside Node001. Dialog doesn't make sense otherwise.
+         call Node001;
+      gSay_End;
+      end_dialogue;
+      set_local_var( LVAR_Herebefore, 1 );
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+/* Increment the aligned critter counter*/
+   //set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+   variable item; //added by killap
+   
+   inc_evil_critter
+
+   if ( local_var(LVAR_Radio_Combat) == 1 ) then begin //player killed Chris before he could use radio
+      set_local_var( LVAR_Radio_Combat, 0 );
+      // This makes sure that Chris doesn't set off alert.
+      rm_timer_event( self_obj );
+
+      display_msg(mstr(810));
+      give_xp(EXP_STOP_CHRIS_RADIO);
+   end
+   
+   //added by killap
+   item:=create_object(PID_RADIO,0,0);
+   add_obj_to_inven(self_obj,item);
+   //end added
+   
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_second_look) == 0) then begin
+      set_local_var(LVAR_second_look,1);
+      display_msg(mstr(100));
+   end
+   else begin
+      display_msg(mstr(101));
+   end
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 0) then begin
+      if( Radio_State == 0 ) then begin
+         // Start up Chris walking away from player.
+         game_ui_disable;
+
+         // Move Chris to his "Radio" hex
+         if( ( global_var(GVAR_PLAYER_GOT_CAR) != 0 ) and
+             ( car_current_town == AREA_NAVARRO )) then begin
+            // Go to a "car" hex.
+            animate_move_to_tile( 26690 );
+         end
+         else begin
+            // Go to hex near trapdoor room.
+            animate_move_to_tile( 24307 );
+         end
+
+         Radio_State += 1;
+         add_timer_event( self_obj, game_ticks(5), 0 );
+      end
+      if( Radio_State == 1 ) then begin
+         // Float "He's pullin' a radio!"
+         float_msg( dude_obj, mstr(232 + dude_is_stupid), FLOAT_COLOR_AFRAID ); //edit by killap - added dude_is_stupid
+         Radio_State += 1;
+         add_timer_event( self_obj, game_ticks(3), 0 );
+      end
+      else if( Radio_State == 2 ) then begin
+         set_local_var( LVAR_Radio_Combat, 1 );
+         add_timer_event( self_obj, game_ticks(20), 1 );
+         game_ui_enable;
+      end
+   end
+   else if( fixed_param == 1 ) then begin
+      set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+   end
+   else if( fixed_param == 2 ) then begin
+      dialogue_system_enter;
+   end
+   else if( fixed_param == 3 ) then begin
+      if( tile_num( self_obj ) != 25900 ) then begin
+         game_ui_disable;
+         gfade_out(600);
+         move_to( self_obj, 25900, 0 );
+         critter_attempt_placement( self_obj, 25900, 0 );
+         anim( self_obj, ANIMATE_ROTATION, 5 );
+         add_timer_event( self_obj, game_ticks(1), 4 );
+      end
+      else begin
+         Door_Dialogue := 1;
+         dialogue_system_enter;
+      end
+   end
+   else if( fixed_param == 4 ) then begin
+      gfade_in(600);
+      game_ui_enable;
+      Door_Dialogue := 1;
+      dialogue_system_enter;
+   end
+end
+
+procedure Node001 begin
+   if( ( global_var(GVAR_PLAYER_GOT_CAR) != 0 ) and
+       ( car_current_town == AREA_NAVARRO ) and 
+       (local_var(LVAR_Herebefore) == 0) ) then begin //edit by killap - added (local_var(LVAR_Herebefore) == 0)
+      Reply(103);
+   end
+   else begin
+      if (local_var(LVAR_Herebefore) == 0) then begin
+         Reply(104);
+      end
+      else begin
+         Reply(214); //this is actually Node025
+      end
+   end
+
+   NLowOption(105,Node002);
+   if( looking_for_navarro ) then begin
+      NLowOption(106,Node003);
+      NLowOption(107,Node008);
+   end
+   if( brotherhood_wants_plans ) then
+      NLowOption(108,Node018);
+   NLowOption(109,Node023);
+
+   NOption(110,Node002,004);
+   if( looking_for_navarro ) then begin
+      NOption(111,Node003,004);
+      NOption(112,Node008,004);
+   end
+   if( brotherhood_wants_plans ) then
+      NOption(113,Node018,004);
+   NOption(114,Node023,004);
+end
+
+procedure Node002 begin
+   Reply(115);
+
+   if( looking_for_navarro ) then begin
+      NLowOption(116,Node003);
+      NLowOption(117,Node008);
+   end
+   if( brotherhood_wants_plans ) then
+      NLowOption(118,Node018);
+   NLowOption(119,Node007);
+
+   if( looking_for_navarro ) then begin
+      NOption(120,Node003,004);
+      NOption(121,Node008,004);
+   end
+   if( brotherhood_wants_plans ) then
+      NOption(122,Node018,004);
+   NOption(123,Node007,004);
+end
+
+procedure Node003 begin
+   set_local_var(LVAR_Misled,1);
+   Reply(124);
+   
+   mark_san_francisco_on_map  //added by killap
+   mark_military_base_on_map  //added by killap
+   
+   if( been_to_base ) then
+      NLowOption(125,Node004);
+   else
+      NLowOption(126,Node007);
+   if( took_plans_quest ) then
+      BLowOption(127,Node005);
+
+   if( been_to_base ) then
+      NOption(128,Node004,004);
+   else
+      NOption(129,Node007,004);
+   if( took_plans_quest ) then
+      BOption(130,Node005,004);
+end
+
+procedure Node004 begin
+   Reply(131);
+
+   NLowOption(132,Node005);
+   NOption(133,Node005,004);
+end
+
+procedure Node005 begin
+   Reply(134);
+
+   BLowOption(135,Node998); //was 998 - killap
+   NLowOption(136,Node006);
+   NLowOption(137,Node006);
+   BOption(138,Node998,004); //was 998 - killap
+   NOption(139,Node006,004);
+   NOption(140,Node006,004);
+end
+
+procedure Node006 begin
+   set_local_var( LVAR_Radio_Combat, 0 );
+   // This makes sure that Chris doesn't set off alert again after this node terminates.
+   rm_timer_event( self_obj );
+
+   set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+   BMessage(141);
+   call Node998;
+end
+
+procedure Node007 begin
+   if( Add_Insult == 1 ) then begin
+      Add_Insult := 0;
+      Reply( mstr(231) + " " + mstr(143) );
+   end
+   else
+      Reply(143);
+
+   NOption(144,Node999,001);
+end
+
+procedure Node008 begin
+   if (dude_iq < 4) then begin
+      Reply(145);
+   end
+   else begin
+      Reply(146);
+   end
+
+   //if( f2_flag_any == f2_state_tribe_kidnapped ) then
+   if ((f2_flag_any >= f2_state_tribe_kidnapped) and (f2_flag_any < f2_state_enclave_destroyed)) then //edit by killap
+      NLowOption(147,Node009);
+   if( took_plans_quest ) then
+      NLowOption(148,Node010);
+   NLowOption(149,Node017);
+
+   //if( f2_flag_any == f2_state_tribe_kidnapped ) then
+   if ((f2_flag_any >= f2_state_tribe_kidnapped) and (f2_flag_any < f2_state_enclave_destroyed)) then //edit by killap
+      NOption(150,Node009,004);
+   if( took_plans_quest ) then
+      NOption(151,Node010,004);
+   NOption(152,Node017,004);
+end
+
+procedure Node009 begin
+   Reply(153);
+
+   NLowOption(154,Node007);
+   NOption(155,Node007,004);
+end
+
+procedure Node010 begin
+   Reply(156);
+
+   NLowOption(157,Node007);
+   if( took_shi_quest ) then
+      NLowOption(158,Node011);
+   if( took_brotherhood_quest ) then
+      NLowOption(159,Node012);
+   if( took_elron_quest ) then
+      NLowOption(160,Node013);
+   if ( ( took_shi_quest ) and
+        ( took_brotherhood_quest ) and
+        ( took_elron_quest ) ) then
+      NLowOption(161,Node014);
+
+   NOption(162,Node007,004);
+   if( took_shi_quest ) then
+      NOption(163,Node011,004);
+   if( took_brotherhood_quest ) then
+      NOption(164,Node012,004);
+   if( took_elron_quest ) then
+      NOption(165,Node013,004);
+   if ( ( took_shi_quest ) and
+        ( took_brotherhood_quest ) and
+        ( took_elron_quest ) ) then
+      NOption(166,Node014,004);
+end
+
+procedure Node011 begin
+   Reply(167);
+
+   NLowOption(168,Node015);
+   NOption(169,Node015,004);
+end
+
+procedure Node012 begin
+   Reply(170);
+
+   NLowOption(171,Node015);
+   NOption(172,Node015,004);
+end
+
+procedure Node013 begin
+   Reply(173);
+
+   NLowOption(174,Node015);
+   NOption(175,Node015,004);
+end
+
+procedure Node014 begin
+   Reply(176);
+
+   NLowOption(177,Node015);
+   NOption(178,Node015,004);
+end
+
+procedure Node015 begin
+   Reply(179);
+
+   NLowOption(180,Node016);
+   NOption(181,Node016,004);
+end
+
+procedure Node016 begin
+   //this node triggers Special (chris walks away and tries to use radio)
+   Reply(182);
+
+   NLowOption(183,TriggerRadio);
+   NOption(184,TriggerRadio,004);
+end
+
+procedure Node017 begin
+   Reply(185);
+
+   NLowOption(186,Node007);
+   if( took_plans_quest ) then
+      NLowOption(187,Node010);
+
+   NOption(188,Node007,004);
+   if( took_plans_quest ) then
+      NOption(189,Node010,004);
+end
+
+procedure Node018 begin
+   Reply(190);
+
+   NLowOption(191,Node019);
+   NOption(192,Node019,004);
+end
+
+procedure Node019 begin
+   // Although the guards inside don't care about whether you have K-9 or
+   // not, Chris should since he will assume he's caught you before entering
+   // the hidden base.
+   if( party_size == 1 ) then begin
+      Reply(193);
+
+      NLowOption(195,Node019a);
+      NOption(197,Node019a,004);
+   end
+   else begin
+      Reply(194);
+
+      NLowOption(196,Node019b);
+      NOption(198,Node019b,004);
+   end
+end
+
+procedure Node019a begin
+   if( ( local_var( LVAR_Attempted_Lie ) == 0 ) and
+       ( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -10 ) ) ) ) then
+      call Node020;
+   else begin
+      Add_Insult := 1;
+      set_local_var( LVAR_Attempted_Lie, 1 );
+      call Node007;
+   end
+end
+
+procedure Node019b begin
+   if( ( local_var( LVAR_Attempted_Lie ) == 0 ) and
+       ( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -10 ) ) ) ) then
+      call Node022;
+   else begin
+      Add_Insult := 1;
+      set_local_var( LVAR_Attempted_Lie, 1 );
+      call Node007;
+   end
+end
+
+procedure Node020 begin
+   if (dude_iq < 4) then begin
+      Reply(199);
+   end
+   else begin
+      Reply(200);
+   end
+
+   NLowOption(201,Node021);
+   NOption(202,Node021,004);
+end
+
+procedure Node021 begin
+   Reply(203);
+
+   NOption(204,Node997,001);
+end
+
+procedure Node022 begin
+   if (dude_iq < 4) then begin
+      Reply(205);
+   end
+   else begin
+      Reply(206);
+   end
+
+   NLowOption(207,Node022a);
+   NOption(208,Node022a,004);
+end
+
+procedure Node022a begin
+   if( ( local_var( LVAR_Attempted_Lie ) == 0 ) and
+       ( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -10 ) ) ) ) then
+      call Node021;
+   else begin
+      Add_Insult := 1;
+      set_local_var( LVAR_Attempted_Lie, 1 );
+      call Node007;
+   end
+end
+
+procedure Node023 begin
+   Reply(209);
+
+   NOption(210,Node999,001);
+end
+
+procedure Node024 begin
+   Reply(211);
+
+   NLowOption(212,Node004);
+   NOption(213,Node004,004);
+end
+
+procedure Node025 begin
+   // This node's functionality moved to Node001.
+end
+
+procedure Node026 begin
+   set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+   said_intruder:=1;
+   floater(random(215,217));
+   call Node998;
+end
+
+procedure Node027 begin
+   floater(random(218,220));
+end
+
+procedure Node028 begin
+   Reply(221);
+
+   NLowOption(222,Node029);
+   NOption(223,Node029,004);
+end
+
+procedure Node029 begin
+   Reply(224);
+
+   BLowOption(225,Node998); //was 998 - killap
+   NLowOption(226,Node006);
+   NLowOption(227,Node006);
+   BOption(228,Node998,004); //was 998 - killap
+   NOption(229,Node006,004);
+   NOption(230,Node006,004);
+end
+
+procedure Node997 begin
+  set_map_var(MVAR_Replace,1);
+  if (local_var(LVAR_Info_Given) == 0) then begin
+     set_local_var(LVAR_Info_Given,1);
+     display_msg(mstr(800));
+     give_xp(EXP_GET_CHRIS_INFO);
+   end
+end
+
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+procedure TriggerRadio begin
+   Radio_State := 0;
+   add_timer_event( self_obj, 1, 0 );
+end

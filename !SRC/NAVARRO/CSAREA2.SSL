@@ -1,0 +1,22 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+#include "..\headers\define.h"
+#include "..\headers\command.h"
+#include "..\headers\navarro.h"
+
+procedure spatial_p_proc;
+procedure start;
+
+procedure start begin
+end
+
+procedure spatial_p_proc begin
+   if ( ( source_obj == dude_obj ) and
+        ( global_var(GVAR_PLAYER_GOT_CAR) != 0 ) and
+        ( car_current_town == AREA_NAVARRO ) and
+        ( map_var( MVAR_Xarn_In_Party ) == 1 ) ) then begin
+      set_map_var(MVAR_Exit,1);
+   end
+end

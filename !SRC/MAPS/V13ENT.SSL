@@ -1,0 +1,60 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Map Script for Sierra Army Base, Outside area
+*/
+
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+#include "..\headers\v13ent.h"
+
+#define NAME                    SCRIPT_V13ENT
+
+#include "..\headers\command.h"
+
+export variable i_vault13_door;
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   Cavern_Lighting;
+
+   i_vault13_door := -1;
+
+   set_f2(f2_state_v13_found);
+
+
+   //added by killap - prevent car from disappearing if the car runs out of gas while on the town circle
+   if ((metarule(30, 0) == 21) and (cur_map_index != MAP_CAR_DESERT) and (car_out_of_fuel)) then begin
+      set_global_var(GVAR_CAR_PLACED_TILE, 0);
+      Create_Car(CAR_VAULT_13_HEX,CAR_VAULT_13_ELEV)
+      if (tile_contains_pid_obj(CAR_VAULT_13_HEX, CAR_VAULT_13_ELEV, PID_DRIVABLE_CAR) != 0) then begin
+         Create_Trunk(CAR_VAULT_13_HEX,CAR_VAULT_13_ELEV)
+      end 
+   end else 
+      Check_Create_Car(CAR_VAULT_13_HEX, CAR_VAULT_13_ELEV)
+   //end added
+   //Check_Create_Car(CAR_VAULT_13_HEX, CAR_VAULT_13_ELEV)
+
+   if (not is_loading_game) then begin
+      debug_msg("V13ENT: FIXED_PRAM " + fixed_param);
+      if (global_var(GVAR_LOAD_MAP_INDEX) == 5) then begin
+         override_map_start_hex(17290,0,2);
+         //set_global_var(global_var(GVAR_LOAD_MAP_INDEX), 0);
+         set_global_var(GVAR_LOAD_MAP_INDEX, 0); //edit by killap
+      end else begin
+         override_map_start_hex(26148,0,1);
+      end
+   end
+end
+
+procedure map_update_p_proc begin
+   Cavern_Lighting;
+end

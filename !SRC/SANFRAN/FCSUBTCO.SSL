@@ -1,0 +1,105 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_FCSUBTCO
+
+#include "..\headers\command.h"
+#include "..\headers\sanfran.h"
+#include "..\headers\sfsub.h"
+
+#define REPAIR_BONUS                            (-50)
+#define TOOL_BONUS                              (REPAIR_BONUS+20)
+
+import variable subTech3_ptr;
+
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then begin
+      float_msg(self_obj, message_str(NAME, random(212, 213)), FLOAT_MSG_YELLOW);
+      add_timer_event(self_obj, game_ticks(random(25, 35)), 1);
+   end
+end
+
+procedure map_enter_p_proc begin
+   add_timer_event(self_obj, game_ticks(random(5, 10)), 1);
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   if (map_var(MVAR_Torpedo_Permission) == 0) then begin
+      script_overrides;
+      add_timer_event(subTech3_ptr,5,2);
+   end else if (global_var(GVAR_SAN_FRAN_SUB) < SHI_SUB_DISABLED) then begin
+      script_overrides;
+      display_msg(mstr(200));
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   if (map_var(MVAR_Torpedo_Permission) == 0) then begin
+      script_overrides;
+      add_timer_event(subTech3_ptr,5,2);
+   end else if (global_var(GVAR_SAN_FRAN_SUB) < SHI_SUB_DISABLED) then begin
+      if ( (action_being_used == SKILL_REPAIR) ) then begin
+         if (is_success(roll_vs_skill(source_obj,SKILL_REPAIR,REPAIR_BONUS))) then begin
+            script_overrides;
+            display_msg(mstr(210));
+            set_sub_flag(SHI_SUB_DISABLED);
+         end else begin
+            script_overrides;
+            display_msg(mstr(211));
+         end
+      end
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   if (map_var(MVAR_Torpedo_Permission) == 0) then begin
+      script_overrides;
+      add_timer_event(subTech3_ptr,5,2);
+   end else if (global_var(GVAR_SAN_FRAN_SUB) < SHI_SUB_DISABLED) then begin
+      if ( (obj_pid(obj_being_used_with) == PID_MULTI_TOOL) or (obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT) ) then begin
+         if (skill_success(source_obj,SKILL_REPAIR,TOOL_BONUS)) then begin
+            script_overrides;
+            display_msg(mstr(210));
+            set_sub_flag(SHI_SUB_DISABLED);
+         end else begin
+            script_overrides;
+            display_msg(mstr(211));
+         end
+      end
+   end
+end

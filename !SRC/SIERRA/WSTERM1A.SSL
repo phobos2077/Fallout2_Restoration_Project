@@ -1,0 +1,393 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\depolva.h"
+
+#define NAME                    SCRIPT_WSTERM1A
+
+#include "..\headers\command.h"
+
+#define Check_Force_Fields      (map_var(MVAR_Level1_Fields) == FIELD_DISABLED)
+#define LOW_DAMAGE              (20)
+#define HIGH_DAMAGE             (30)
+
+/* Standard Script Procedures */
+procedure start;
+procedure talk_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_p_proc;
+procedure damage_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node001a;
+procedure Node001b;
+procedure Node001c;
+procedure Node001d;
+procedure Node002;
+procedure Node004;
+procedure Node005;
+procedure Node010;
+procedure Node011;
+procedure Node011a;
+procedure Node011b;
+procedure Node011c;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+#define LVAR_Gave_Xp            (0)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+import variable Field1a_Ptr;
+import variable Field1b_Ptr;
+import variable Field1c_Ptr;
+import variable Field1d_Ptr;
+import variable Field1e_Ptr;
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable Said_Ali_Babba:=0;
+variable Said_Sierra:=0;
+variable Said_Armageddon:=0;
+variable Said_Wrong:=0;
+variable Tried_Hack:=0;
+
+procedure start begin
+end
+
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+end
+
+procedure use_p_proc begin
+   variable Damage;
+
+   if (global_var(GVAR_SIERRA_BASE_ENEMY) == 1) then begin
+       Damage:=random(LOW_DAMAGE,HIGH_DAMAGE);
+       critter_damage(source_obj,Damage);
+       display_msg(mstr(300));
+   end
+
+   else if (get_critter_stat(source_obj,STAT_iq) < 4) then begin
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(102));
+       end
+       else begin
+           display_msg(obj_name(source_obj)+mstr(200));
+       end
+   end
+   else begin
+       dialogue_system_enter;
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+
+
+   if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_CYBERNETIC) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node005;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if (map_var(MVAR_Security_Level_1) == 1) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node004;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if (Check_Force_Fields) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node002;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node001;
+       gSay_End;
+       end_dialogue;
+   end
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   if (global_var(GVAR_SIERRA_BASE_POWER) == 1) then      // power off
+       Reply(103);
+   else
+       Reply(104);
+
+   if (global_var(GVAR_SIERRA_PASSWORD) == SIERRA_PASSWORD_KNOWN) then
+       NOption(105,Node010,004);
+   NOption(106,Node001a,004);
+   NOption(107,Node001b,004);
+   NOption(108,Node001c,004);
+   NOption(109,Node001d,008);
+   NOption(110,Node999,004);
+end
+
+procedure Node001a begin
+   Said_Wrong+=1;
+   Said_Ali_Babba+=1;
+   call Node011;
+end
+
+procedure Node001b begin
+   Said_Wrong+=1;
+   Said_Sierra+=1;
+   call Node011;
+end
+
+procedure Node001c begin
+   Said_Wrong+=1;
+   Said_Armageddon+=1;
+   call Node011;
+end
+
+procedure Node001d begin
+    Tried_Hack+=1;
+
+   if (has_skill(dude_obj,SKILL_SCIENCE) >= 75) then begin
+       call Node012;
+   end
+   else if (skill_success(dude_obj,SKILL_SCIENCE,-30)) then begin
+       call Node012;
+   end
+   else begin
+       call Node014;
+   end
+end
+
+procedure Node002 begin
+   Reply(113);
+
+   NOption(115,Node999,004);
+end
+
+procedure Node004 begin
+   Reply(117);
+
+   NOption(119,Node999,004);
+end
+
+procedure Node005 begin
+   Reply(121);
+
+   NOption(123,Node999,004);
+end
+
+procedure Node010 begin
+   set_map_var(MVAR_Level1_Fields,FIELD_DISABLED);
+   set_map_var(MVAR_Field_1a,FIELD_DESTROYED);
+   set_map_var(MVAR_Field_1b,FIELD_DESTROYED);
+   set_map_var(MVAR_Field_1c,FIELD_DESTROYED);
+   set_map_var(MVAR_Field_1d,FIELD_DESTROYED);
+   set_map_var(MVAR_Field_1e,FIELD_DESTROYED);
+
+   destroy_object(Field1a_Ptr);
+   destroy_object(Field1b_Ptr);
+   destroy_object(Field1c_Ptr);
+   destroy_object(Field1d_Ptr);
+   destroy_object(Field1e_Ptr);
+
+   Field1a_Ptr:=0;
+   Field1b_Ptr:=0;
+   Field1c_Ptr:=0;
+   Field1d_Ptr:=0;
+   Field1e_Ptr:=0;
+
+   Reply(124);
+
+   NOption(125,Node999,004);
+end
+
+procedure Node011 begin
+   Reply(126);
+
+   if (global_var(GVAR_SIERRA_PASSWORD) == SIERRA_PASSWORD_KNOWN) then
+       NOption(127,Node010,004);
+   if (Said_Ali_Babba == 0) then
+       NOption(128,Node011a,004);
+   if (Said_Sierra == 0) then
+       NOption(129,Node011b,004);
+   if (Said_Armageddon == 0) then
+       NOption(130,Node011c,004);
+   if (Tried_Hack == 0) then
+       NOption(131,Node001d,004);
+   NOption(132,Node999,004);
+
+end
+
+procedure Node011a begin
+   Said_Ali_Babba+=1;
+   Said_Wrong+=1;
+
+   if (Said_Wrong > 1) then
+       call Node013;
+   else
+       call Node011;
+end
+
+procedure Node011b begin
+   Said_Sierra+=1;
+   Said_Wrong+=1;
+
+   if (Said_Wrong > 1) then
+       call Node013;
+   else
+       call Node011;
+end
+
+procedure Node011c begin
+   Said_Armageddon+=1;
+   Said_Wrong+=1;
+
+   if (Said_Wrong > 1) then
+       call Node013;
+   else
+       call Node011;
+end
+
+procedure Node012 begin
+   if (local_var(LVAR_Gave_Xp) == 0) then begin
+       set_local_var(LVAR_Gave_Xp,1);
+       display_msg(message_str(SCRIPT_GENERIC,1003));
+       give_xp(EXP_DISABLE_FIELDS_LEVEL_1);
+   end
+
+   set_map_var(MVAR_Level1_Fields,FIELD_DISABLED);
+   set_map_var(MVAR_Field_1a,FIELD_DESTROYED);
+   set_map_var(MVAR_Field_1b,FIELD_DESTROYED);
+   set_map_var(MVAR_Field_1c,FIELD_DESTROYED);
+   set_map_var(MVAR_Field_1d,FIELD_DESTROYED);
+   set_map_var(MVAR_Field_1e,FIELD_DESTROYED);
+
+   destroy_object(Field1a_Ptr);
+   destroy_object(Field1b_Ptr);
+   destroy_object(Field1c_Ptr);
+   destroy_object(Field1d_Ptr);
+   destroy_object(Field1e_Ptr);
+
+   Field1a_Ptr:=0;
+   Field1b_Ptr:=0;
+   Field1c_Ptr:=0;
+   Field1d_Ptr:=0;
+   Field1e_Ptr:=0;
+
+
+   Reply(133);
+
+   NOption(134,Node999,004);
+end
+
+procedure Node013 begin
+   set_map_var(MVAR_Security_Level_1,1);
+   set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+
+   Reply(135);
+
+   NOption(136,Node999,004);
+end
+
+procedure Node014 begin
+   if (skill_success(dude_obj,SKILL_SCIENCE,-30)) then
+       Reply(137);
+   else begin
+       set_map_var(MVAR_Security_Level_1,1);
+       set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+
+       Reply(138);
+   end
+
+   NOption(139,Node999,004);
+end
+
+//xxxxxxxxxxxxxxxxxxxx

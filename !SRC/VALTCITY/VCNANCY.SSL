@@ -1,0 +1,815 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+//#include "..\headers\<TownName.h>"
+
+#define NAME                    SCRIPT_VCNANCY
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_VAULT_CITY)
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#define daytime         ( ( game_time_hour <= 1800 ) and ( game_time_hour >= 700 ) )
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node037a;
+procedure Node037b;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+procedure Node046;
+procedure Node046a;
+procedure Node047;
+procedure Node048;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Phyllis_State              (7)
+#define LVAR_Phyllis_Date               (8)
+#define LVAR_Phyllis_World              (9)
+#define LVAR_Phyllis_Sterility          (10)
+#define LVAR_Donated_For_Vault_City     (11)
+
+#define PHYLLIS_NOTHING                 (0)
+#define PHYLLIS_KNOWN                   (1)
+#define PHYLLIS_PISSED                  (2)
+
+#define DATE_NOTHING                    (0)
+#define DATE_HAD                        (1)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable Syndrome_Comment := 0;
+variable From_WTG := 0;
+variable Date_Floats := 0;
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+
+   if( not( is_loading_game ) ) then begin
+      if( ( game_time_hour > 1800 ) or ( game_time_hour < 700 ) ) then
+         set_obj_visibility( self_obj, true );
+      else begin
+         set_obj_visibility( self_obj, false );
+         add_timer_event( self_obj, game_ticks( random( 20, 40 ) ), 1 );
+      end
+   end
+end
+
+procedure timed_event_p_proc begin
+   if( fixed_param == 1 ) then begin
+      if( not( combat_is_initialized ) ) then begin
+         if( Fallout2_enclave_destroyed ) then
+            call Node001;
+         else if( ( daytime ) and
+                  ( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_CAPTAIN_GUARD ) and
+                  ( global_var( GVAR_DR_TROY_STATUS ) == TROY_EXILED ) ) then
+            call Node007;
+         else if( ( daytime ) and
+                  ( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_CAPTAIN_GUARD ) and
+                  ( global_var( GVAR_DR_TROY_STATUS ) < TROY_EXILED ) ) then
+            call Node005;
+         else if( ( daytime ) and
+                  ( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_KICKED_OUT ) ) then
+            call Node002;
+         else if( ( daytime ) and ( Marcus_Ptr != 0 ) ) then
+            call Node003;
+         else if( ( daytime ) and ( Lenny_Ptr != 0 ) ) then
+            call Node004;
+         else if( ( daytime ) and ( global_var( GVAR_DR_TROY_STATUS ) == TROY_EXILED ) ) then
+            call Node007;
+         else if( daytime ) then
+            call Node005;
+      end
+      add_timer_event( self_obj, game_ticks( random( 20, 40 ) ), 1 );
+   end
+   else if( fixed_param == 2 ) then begin
+      float_msg( dude_obj, mstr(283), FLOAT_COLOR_NORMAL );
+      game_ui_enable;
+   end
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+      set_local_var(LVAR_Personal_Enemy,1);
+      set_global_var( GVAR_ENEMY_VAULT_CITY, 1 );
+      set_global_var( GVAR_VAULT_CITIZEN, CITIZEN_KICKED_OUT );
+      set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_KICKED_OUT ) );
+      set_global_var( GVAR_VAULT_CITIZENSHIP, 0 );
+   end
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_TOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION4;
+
+   CheckKarma;
+
+   GetReaction;
+
+   Syndrome_Comment := 0;
+   From_WTG := 1;
+   Date_Floats := 0;
+
+   if( Fallout2_enclave_destroyed ) then
+      call Node001;
+   else if( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_KICKED_OUT ) then
+      call Node002;
+   else if( ( global_var( GVAR_VAULT_CITIZEN ) != CITIZEN_CAPTAIN_GUARD ) and ( Marcus_Ptr != 0 ) ) then
+      call Node003;
+   else if( ( global_var( GVAR_VAULT_CITIZEN ) != CITIZEN_CAPTAIN_GUARD ) and ( Lenny_Ptr != 0 ) ) then
+      call Node004;
+   else if( ( daytime ) and ( global_var( GVAR_DR_TROY_STATUS ) == TROY_EXILED ) ) then
+      call Node007;
+   else if( not( daytime ) ) then
+      call Node006;
+   else if( local_var( LVAR_Phyllis_State ) == PHYLLIS_PISSED ) then
+      call Node008;
+   else if( ( local_var( LVAR_Phyllis_State ) == PHYLLIS_NOTHING ) or ( dude_iq < 4 ) ) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node009;
+      gSay_End;
+      end_dialogue;
+   end
+   else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node019;
+      gSay_End;
+      end_dialogue;
+   end
+   set_local_var( LVAR_Herebefore, 1 );
+
+   if( Syndrome_Comment == 1 ) then begin
+      Syndrome_Comment := 0;
+      floater(149);
+   end
+
+   if( Date_Floats == 1 ) then begin
+      game_ui_disable;
+      floater(282);
+      add_timer_event( self_obj, game_ticks(4), 2 );
+      Date_Floats := 0;
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if( local_var( LVAR_Herebefore ) == 0 ) then
+      display_msg( mstr(101) );
+   else
+      display_msg( mstr(100) );
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   floater(104);
+end
+
+procedure Node002 begin
+   floater(105);
+   call Node998;
+end
+
+procedure Node003 begin
+   floater(106);
+   call Node998;
+end
+
+procedure Node004 begin
+   floater(107);
+   call Node998;
+end
+
+procedure Node005 begin
+   floater( random( 108, 113 ) );
+end
+
+procedure Node006 begin
+   floater( random( 114, 118 ) );
+end
+
+procedure Node007 begin
+   floater( random( 119, 121 ) );
+end
+
+procedure Node008 begin
+   floater(122);
+end
+
+procedure Node009 begin
+   From_WTG := 0;
+
+   if( local_var( LVAR_Herebefore ) == 0 ) then
+      Reply(123);
+   else
+      Reply(124);
+
+   if( local_var( LVAR_Herebefore ) == 0 ) then
+      NLowOption(125, Node011);
+   else
+      NLowOption(126, Node011);
+   if( Is_Injured( dude_obj ) or Is_Crippled( dude_obj ) or ( dude_is_poisoned ) or ( dude_is_irradiated ) ) then
+      NLowOption(127, Node010);
+
+   if( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_CAPTAIN_GUARD ) then
+      NOption(128, Node015, 004);
+   else if( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_REAL_CITIZEN ) then
+      NOption(129, Node015, 004);
+   else
+      NOption(130, Node015, 004);
+   NOption(131, Node999, 004);
+end
+
+procedure Node010 begin
+   Reply(132);
+
+   NLowOption(133, Node999);
+   NOption(134, Node019, 004);
+   NOption(135, Node999, 004);
+end
+
+procedure Node011 begin
+   if( local_var( LVAR_Herebefore ) == 0 ) then
+      Reply(136);
+   else
+      Reply(137);
+
+   NLowOption(138, Node012);
+   if( Is_Injured( dude_obj ) or Is_Crippled( dude_obj ) or ( dude_is_poisoned ) or ( dude_is_irradiated ) ) then
+      NLowOption(139, Node010);
+   NLowOption(140, Node014);
+end
+
+procedure Node012 begin
+   Reply(141);
+
+   NLowOption(142, Node013);
+   if( Is_Injured( dude_obj ) or Is_Crippled( dude_obj ) or ( dude_is_poisoned ) or ( dude_is_irradiated ) ) then
+      NLowOption(143, Node010);
+   NLowOption(144, Node014);
+end
+
+procedure Node013 begin
+   Reply(145);
+
+   NLowOption(146, Node014);
+   if( Is_Injured( dude_obj ) or Is_Crippled( dude_obj ) or ( dude_is_poisoned ) or ( dude_is_irradiated ) ) then
+      NLowOption(147, Node010);
+   NLowOption(148, Node014);
+end
+
+procedure Node014 begin
+   Syndrome_Comment := 1;
+   // End dialog.
+end
+
+procedure Node015 begin
+   if( local_var( LVAR_Phyllis_State ) == PHYLLIS_NOTHING ) then
+      set_local_var( LVAR_Phyllis_State, PHYLLIS_KNOWN );
+
+   if( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_CAPTAIN_GUARD ) then
+      Reply( mstr(150) + " " + mstr(152) );
+   else
+      Reply( mstr(151) + " " + mstr(152) );
+
+   NOption( mstr(153) + dude_name + mstr(288), Node018, 004);
+   NOption( mstr(154) + dude_name + mstr(289), Node019, 004);
+   BOption(155, Node016, 004);
+   NOption(156, Node999, 004);
+end
+
+procedure Node016 begin
+   set_local_var( LVAR_Phyllis_State, PHYLLIS_PISSED );
+   Reply(157);
+
+   BOption(158, Node017, 004);
+   BOption(159, Node999, 004);
+end
+
+procedure Node017 begin
+   Reply(160);
+
+   BOption(161, Node998, 004);
+end
+
+procedure Node018 begin
+   Reply(162);
+
+   if( ( global_var( GVAR_VAULT_JET_QUEST ) > 0 ) and
+       ( global_var( GVAR_VAULT_JET_QUEST ) < JET_GIVEN_JET ) ) then
+      NOption(163, Node020, 004);
+   NOption(164, Node019, 004);
+   if( Is_Injured( dude_obj ) or Is_Crippled( dude_obj ) or ( dude_is_poisoned ) or ( dude_is_irradiated ) ) then
+      NOption(165, Node010, 004);
+   NOption(166, Node999, 004);
+end
+
+procedure Node019 begin
+   if( From_WTG == 1 ) then begin
+      From_WTG := 0;
+      Reply(167);
+   end
+   else
+      Reply(168);
+
+   if( ( global_var( GVAR_VAULT_JET_QUEST ) > 0 ) and
+       ( global_var( GVAR_VAULT_JET_QUEST ) < JET_GIVEN_JET ) ) then
+      NOption(169, Node020, 004);
+   NOption(170, Node024, 004);
+   if( Is_Injured( dude_obj ) or Is_Crippled( dude_obj ) or ( dude_is_poisoned ) or ( dude_is_irradiated ) ) then
+      NOption(171, Node010, 004);
+   NOption(172, Node018, 004);
+   NOption(173, Node027, 004);
+   NOption(174, Node999, 004);
+end
+
+procedure Node020 begin
+   Reply(175);
+
+   BOption(176, Node022, 004);
+   NOption(177, Node019, 004);
+   NOption(178, Node999, 004);
+end
+
+procedure Node021 begin
+   // NULL
+end
+
+procedure Node022 begin
+   Reply(181);
+
+   BOption(182, Node023, 004);
+   NOption(183, Node019, 004);
+   NOption(184, Node999, 004);
+end
+
+procedure Node023 begin
+   Reply(185);
+
+   NOption(186, Node019, 004);
+   NOption(187, Node999, 004);
+end
+
+procedure Node024 begin
+   Reply(188);
+
+   NOption(189, Node025, 004);
+   NOption(190, Node019, 004);
+   NOption(191, Node999, 004);
+end
+
+procedure Node025 begin
+   Reply(192);
+
+   if( dude_iq == 4 ) then
+      NOption(193, Node026, 004);
+   NOption(194, Node019, 005);
+   NOption(195, Node999, 005);
+end
+
+procedure Node026 begin
+   Reply(196);
+
+   NOption(197, Node019, 004);
+   NOption(198, Node999, 004);
+end
+
+procedure Node027 begin
+   Reply(199);
+
+   if( ( has_trait( TRAIT_TRAIT, dude_obj, TRAIT_sex_appeal ) ) or
+       ( has_trait( TRAIT_PERK, dude_obj, PERK_kama_sutra_perk ) ) or
+       ( dude_charisma > 8 ) or
+       ( has_skill( dude_obj, SKILL_CONVERSANT ) >= 75 ) and
+       ( local_var( LVAR_Phyllis_Date ) == DATE_NOTHING ) ) then
+      NOption(200, Node045, 004);
+   NOption(201, Node028, 004);
+   NOption(202, Node019, 004);
+   NOption(203, Node999, 004);
+end
+
+procedure Node028 begin
+   Reply(204);
+
+   NOption(205, Node029, 004);
+   NOption(206, Node019, 004);
+   NOption(207, Node999, 004);
+end
+
+procedure Node029 begin
+   Reply(208);
+
+   if( dude_iq == 4 ) then
+      NOption(209, Node030, 004);
+   if( dude_perception > 5 ) then
+      NOption(210, Node031, 004);
+   if( local_var( LVAR_Phyllis_World ) == 0 ) then
+      NOption(211, Node041, 005);
+   NOption(212, Node999, 005);
+end
+
+procedure Node030 begin
+   Reply(213);
+
+   if( dude_perception > 5 ) then
+      NOption(297, Node031, 004);
+   NOption(214, Node019, 004);
+   NOption(215, Node999, 004);
+end
+
+procedure Node031 begin
+   Reply(216);
+
+   NOption(217, Node032, 004);
+   NOption(218, Node019, 004);
+   NOption(219, Node999, 004);
+   NOption(290, Node999, 008);
+end
+
+procedure Node032 begin
+   Reply(220);
+
+   NOption(221, Node033, 004);
+   NOption(222, Node019, 004);
+   NOption(223, Node999, 004);
+end
+
+procedure Node033 begin
+   Reply(224);
+
+   NOption(225, Node034, 004);
+   NOption(226, Node019, 004);
+   NOption(227, Node999, 004);
+end
+
+procedure Node034 begin
+   Reply(228);
+
+   NOption(229, Node035, 004);
+   NOption(230, Node019, 004);
+   NOption(231, Node999, 004);
+end
+
+procedure Node035 begin
+   Reply(232);
+
+   NOption(233, Node036, 004);
+   NOption(234, Node019, 004);
+   NOption(235, Node999, 004);
+end
+
+procedure Node036 begin
+   Reply(236);
+
+   if( ( dude_is_male ) and ( local_var( LVAR_Donated_For_Vault_City ) == 0 ) ) then begin
+      NOption(237, Node037, 004);
+   end
+   if( local_var( LVAR_Phyllis_Sterility ) == 0 ) then
+      NOption(238, Node039, 004);
+   NOption(239, Node019, 004);
+   NOption(240, Node999, 004);
+   NOption(241, Node999, 004);
+end
+
+procedure Node037 begin
+   set_local_var( LVAR_Donated_For_Vault_City, 1 );
+   Reply(242);
+
+   NOption(243, Node037a, 004);
+   NOption(244, Node037b, 004);
+end
+
+procedure Node037a begin
+   gfade_out(600);
+   game_time_advance( ONE_GAME_HOUR );
+   gfade_in(600);
+   call Node038;
+end
+
+procedure Node037b begin
+   variable magazine;
+
+   gfade_out(600);
+   magazine := create_object( PID_CATS_PAW, 0, 0 );
+   add_obj_to_inven( dude_obj, magazine );
+   game_time_advance( ONE_GAME_HOUR );
+   gfade_in(600);
+   call Node038;
+end
+
+procedure Node038 begin
+   if( dude_iq > 6 ) then begin
+      display_msg( mstr(291) );
+      give_xp( EXP_SPERM_DONOR_SMART );
+      set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_DONATE_GREAT ) );
+      inc_general_rep( REP_BONUS_DONATE_GREAT );
+      Reply(245);
+      NOption(248, Node999, 007);
+   end
+   else if( ( dude_iq == 5 ) or ( dude_iq == 6 ) ) then begin
+      display_msg( mstr(292) );
+      give_xp( EXP_SPERM_DONOR_NORMAL );
+      set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_DONATE_GOOD ) );
+      inc_general_rep( REP_BONUS_DONATE_GOOD );
+      Reply(246);
+      NOption(249, Node999, 005);
+   end
+   else begin
+      display_msg( mstr(293) );
+      give_xp( EXP_SPERM_DONOR_STUPID );
+      Reply(247);
+      NOption(250, Node999, 004);
+   end
+end
+
+procedure Node039 begin
+   Reply(251);
+
+   if( has_skill( dude_obj, SKILL_DOCTOR ) >= 75 ) then
+      NOption(252, Node040, 004);
+   NOption(253, Node035, 004);
+   NOption(254, Node999, 004);
+end
+
+procedure Node040 begin
+   set_local_var( LVAR_Phyllis_Sterility, 1 );
+   display_msg( mstr(294) );
+   give_xp( EXP_PHYLLIS_STERILITY_CHECK );
+   set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_PHYLLIS_STERILITY ) );
+   inc_general_rep( REP_BONUS_PHYLLIS_OUTSIDE );
+   Reply(255);
+
+   NOption(256, Node019, 004);
+   NOption(257, Node999, 004);
+end
+
+procedure Node041 begin
+   Reply(258);
+
+   NOption(259, Node042, 007);
+   NOption(260, Node999, 004);
+end
+
+procedure Node042 begin
+   Reply(261);
+
+   NOption(262, Node043, 004);
+   NOption(263, Node019, 004);
+   NOption(264, Node999, 004);
+end
+
+procedure Node043 begin
+   Reply(265);
+
+   NOption(266, Node044, 004);
+   NOption(267, Node019, 004);
+   NOption(268, Node999, 004);
+end
+
+procedure Node044 begin
+   set_local_var( LVAR_Phyllis_World, 1 );
+   display_msg( mstr(295) );
+   give_xp( EXP_PHYLLIS_GO_OUTSIDE );
+   Reply(269);
+
+   NOption(270, Node019, 004);
+   NOption(271, Node999, 004);
+end
+
+procedure Node045 begin
+   Reply(272);
+
+   NOption(273, Node046, 004);
+   NOption(274, Node019, 004);
+   NOption(275, Node999, 004);
+end
+
+procedure Node046 begin
+   if( ( ( dude_is_male ) and ( dude_charisma < 6 ) ) or
+       ( dude_is_female ) ) then
+      Reply(276);
+   else
+      Reply(277);
+
+   if( ( ( dude_is_male ) and ( dude_charisma < 6 ) ) or
+       ( dude_is_female ) ) then begin
+      BOption(278, Node048, 004);
+      NOption(279, Node019, 004);
+      NOption(280, Node999, 004);
+   end
+   else
+      GOption(281, Node046a, 004);
+end
+
+procedure Node046a begin
+   gfade_out(600);
+   set_local_var( LVAR_Phyllis_Date, DATE_HAD );
+   display_msg( mstr(296) );
+   give_xp( EXP_PHYLLIS_DATE );
+   gfade_in(600);
+   Date_Floats := 1;
+end
+
+procedure Node047 begin
+   // NULL node. Taken care of with Timer.
+end
+
+procedure Node048 begin
+   Reply(284);
+
+   NOption(285, Node019, 004);
+   if( dude_is_male ) then begin
+      NOption(286, Node999, 004);
+   end
+   else begin
+      NOption(287, Node999, 004);
+   end
+end

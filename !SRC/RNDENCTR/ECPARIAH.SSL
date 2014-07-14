@@ -1,0 +1,340 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_ECPARIAH
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure use_obj_on_p_proc;
+procedure push_p_proc;
+procedure combat_p_proc;
+
+/*
+    You can't talk to this dog he just screwes you
+    He makes your luck 1 and gives you the jixed trait. He is very hard to kill and always flees from
+    combat. If he manages to die he will restore your luck and get rid of the jinxed flag
+*/
+
+procedure Node1000; //Main party member node
+procedure Node1001; // heal yourself
+procedure Node1002; // wait here
+procedure Node1003; // put your weapon away
+procedure Node1004; // follow close
+procedure Node1005; // follow medium
+procedure Node1006; // follow far
+procedure Node1100; // rejoin party
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+//#define LVAR_Dude_True_Luck             (7)
+#define LVAR_Removed_Luck               (7)
+#define LVAR_Dude_Base_Luck             (8)
+#define LVAR_Dude_Extra_Luck            (9)
+
+
+#define NO_REMOVE_JINXED 1
+#define REMOVE_JINXED    2
+
+//Stuff for party member crap
+#define LVAR_WAITING                    (10)
+#define LVAR_FOLLOW_DISTANCE            (11)
+#define LVAR_TEAM                       (12)
+
+#define DUDE_LUCK_GREATER_THAN_MIN (dude_luck > (1 + has_trait(TRAIT_TRAIT, dude_obj, TRAIT_gifted))) //killap's fix: was self_obj
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable doWalking;
+variable add_party_check;
+variable tmp_add;
+
+procedure combat_p_proc begin
+   if (not critter_is_fleeing(self_obj)) then begin
+      critter_set_flee_state(self_obj, 1);
+   end
+end
+
+procedure push_p_proc begin
+end
+
+procedure use_obj_on_p_proc begin
+end
+
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+
+   party_member_map_enter;
+
+   if (Pariah_Dog_In_Party) then begin
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+   end else begin
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
+   end
+end
+
+procedure map_update_p_proc begin
+   if (combat_is_initialized == false) then begin
+      if (anim_busy(self_obj) == false) then begin
+         if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+            if (chem_use_level(self_obj) == 1) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 2) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 30) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 3) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 50) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 4) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 50) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end
+         end
+      end
+   end
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+   variable val;
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if (Pariah_Dog_In_Party /* or tmp_add*/) then begin
+      party_member_follow_dude
+
+      if ( (DUDE_LUCK_GREATER_THAN_MIN) and (local_var(LVAR_Removed_Luck) == 0) ) then begin
+         /*if (local_var(LVAR_Dude_True_Luck) < 10 and local_var(LVAR_Dude_True_Luck) != 0) then begin
+            set_local_var(LVAR_Dude_True_Luck, (local_var(LVAR_Dude_True_Luck) + dude_luck - 1));
+            debug_msg("ECPARIA: First setting of true luck" + local_var(LVAR_Dude_True_Luck));
+         end else begin*/
+         set_local_var(LVAR_Removed_Luck,1);
+         set_local_var(LVAR_Dude_Base_Luck,get_pc_base_stat(STAT_lu));
+         debug_msg("base luck: " + local_var(LVAR_Dude_Base_Luck));
+         set_local_var(LVAR_Dude_Extra_Luck,get_pc_extra_stat(STAT_lu));
+         debug_msg("extra luck: " + local_var(LVAR_Dude_Extra_Luck));
+         //set_local_var(LVAR_Dude_True_Luck, dude_luck);
+         //debug_msg("ECPARIA: First setting of true luck" + local_var(LVAR_Dude_True_Luck));
+         //end
+         //Set is really an INC
+         //val := (1 - dude_luck);
+         //debug_msg("ECPARIA: luck adjust" + val);
+         
+         if (has_trait(TRAIT_TRAIT, dude_obj, TRAIT_gifted)) then begin//killap's fix: was self_obj
+            set_pc_base_stat(STAT_lu, 2);
+            set_pc_extra_stat(STAT_lu, 0);
+            debug_msg("base luck: " + get_pc_base_stat(STAT_lu));
+            debug_msg("extra luck: " + get_pc_extra_stat(STAT_lu));
+            //val += 1;
+            //debug_msg("ECPARIA: luck adjust for gifted state" + val);
+         end else begin
+            set_pc_base_stat(STAT_lu, 1);
+            set_pc_extra_stat(STAT_lu, 0);
+            debug_msg("base luck: " + get_pc_base_stat(STAT_lu));
+            debug_msg("extra luck: " + get_pc_extra_stat(STAT_lu));
+         end  
+         //debug_msg("ECPARIA: luck adjust " + val);
+         //set_critter_stat(dude_obj, STAT_lu, val);
+         //debug_msg("ECPARIA: dude's luck wasn't 1: true value: " + local_var(LVAR_Dude_True_Luck));
+         //debug_msg("ECPARIA: dude_luck: " + dude_luck);
+      end
+   end else if (add_party_check < game_time) then begin
+      if ((obj_can_see_obj(self_obj, dude_obj)) and (not is_critter_dead(self_obj))) then begin //added is not dead - killap
+         if (not stat_success(dude_obj, STAT_lu, 0)) then begin
+            debug_msg("ECPARIAH: added self to party");
+            //tmp_add := 1;
+            display_mstr(103);
+            if (not is_critter_dead(self_obj)) then begin
+               party_add_self;
+               critter_add_trait(dude_obj, TRAIT_PERK, PERK_jinxed_perk, 1);
+            end
+         end else begin
+            add_party_check := game_time + (ONE_GAME_SECOND * 10);
+         end
+      end
+   end else if (doWalking < game_time) then begin
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+      animate_move_to_tile(tile_num_in_direction(dude_obj, Random(0, 5), Random(5, 10)));
+      reg_anim_end();
+      doWalking := game_time + (ONE_GAME_SECOND * (Random(1, 30)));
+   end
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+      if (not anim_busy(self_obj)) then begin
+         Flee_From_Dude
+      end
+   end
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   add_party_check := game_time;
+   set_local_var(LVAR_Herebefore, 1);
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+
+/* Set global_variable for Enemy status*/
+   critter_add_trait(dude_obj, TRAIT_PERK, PERK_jinxed_perk, 0);
+
+   if (local_var(LVAR_Removed_Luck)) then begin
+      set_pc_base_stat(STAT_lu, local_var(LVAR_Dude_Base_Luck));
+      set_pc_extra_stat(STAT_lu, local_var(LVAR_Dude_Extra_Luck));
+   end
+   /*if (local_var(LVAR_Dude_True_Luck)) then begin
+      debug_msg("ECPARIAH: setting luck back to : " + local_var(LVAR_Dude_True_Luck));
+      if (local_var(LVAR_Dude_True_Luck) > 10) then 
+         set_local_var(LVAR_Dude_True_Luck, 10);
+      set_critter_stat(dude_obj, STAT_lu, (local_var(LVAR_Dude_True_Luck) - (1 + has_trait(TRAIT_TRAIT, dude_obj, TRAIT_gifted)))); //killap's fix: was self_obj
+   end*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node1000 begin //Main node
+end
+
+procedure Node1001 begin //heal self dogmeat can't
+end
+
+procedure Node1002 begin //Wait here message
+end
+
+procedure Node1003 begin //Unarm self
+end
+
+procedure Node1004 begin //Follow Close
+end
+
+procedure Node1005 begin //Follow Medium
+end
+
+procedure Node1006 begin //Follow Far
+end
+
+procedure Node1100 begin //Stop waiting
+end

@@ -1,0 +1,127 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NEWRVB
+#define TOWN_REP_VAR         GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+procedure combat_p_proc;
+
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+#define LVAR_Flags                        (0)
+#define LVAR_Home_Tile                    (1)
+
+#define handy_active_bit                  bit_10
+#define delivering_bit                    bit_11
+
+#define handy_active                      lvar_bit(LVAR_Flags, handy_active_bit)
+#define set_handy_active                  set_lvar_bit_on(LVAR_Flags, handy_active_bit)
+
+#define delivering                        lvar_bit(LVAR_Flags, delivering_bit)
+#define set_delivering                    set_lvar_bit_on(LVAR_Flags, delivering_bit)
+#define off_delivering                    set_lvar_bit_off(LVAR_Flags, delivering_bit)
+
+import variable handy_obj;
+import variable vertibird_obj;
+import variable crate_obj;
+
+procedure start begin
+   handy_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+   if (handy_active == false) then begin
+      set_handy_active;
+   end
+end
+
+procedure map_enter_p_proc begin
+   handy_obj := self_obj;
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_NEW_RENO_SALVATORE);
+      end
+   end
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure combat_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if (handy_active) then begin
+      if (anim_busy(self_obj) == false) then begin
+         if (delivering) then begin
+            animate_move_to_tile(tile_num_in_direction(tile_num(vertibird_obj), rotation_to_tile(tile_num(vertibird_obj),tile_num(self_obj)), 1));
+            off_delivering;
+         end else begin
+            animate_move_to_tile(tile_num_in_direction(tile_num(crate_obj), rotation_to_tile(tile_num(crate_obj),tile_num(self_obj)), 1));
+            set_delivering;
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+   end
+end
+
+procedure pickup_p_proc begin
+end
+
+procedure talk_p_proc begin
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   handy_obj := 0;
+end
+
+procedure look_at_p_proc begin
+end
+
+procedure description_p_proc begin
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+end
+procedure Node999 begin
+end

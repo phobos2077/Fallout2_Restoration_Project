@@ -1,0 +1,431 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: GCRobot
+        Location: Gecko
+        Description: Robot
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: May 5, 1998
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+//#include "..\headers\<TownName.h>"
+
+#define NAME                    SCRIPT_GCROBOT  //should be gsterm
+
+//#define PLUTO                   14467
+//#define NEPTUNE                 15085
+//#define URANUS                  12482
+//#define SATURN                  12667
+//#define JUPITER                 14667
+//#define COOLANTPUMP             16664
+//#define DOCK                    18079
+
+//This is also the order the robot must visit these stations
+#define PLUTO                   17087
+#define URANUS                  12885
+#define NEPTUNE                 15085
+#define JUPITER                 14667
+#define SATURN                  13067
+#define COOLANTPUMP             16265
+#define DOCK                    18079
+
+#include "..\headers\command.h"
+#include "..\headers\gecko.h"
+#include "..\headers\geckpwpl.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure timed_event_p_proc;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure use_p_proc;
+procedure destroy_p_proc;
+procedure combat_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure getcommand;
+procedure checkdone;
+procedure checkerr;
+procedure godock;
+procedure analyze_prog;
+procedure punch_it;
+
+/* Script Specific Procedure Calls */
+procedure Node999;                                      // This Node is Always Ending
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_CommandExecuting           (0)
+#define LVAR_ProgramPtr                 (1)
+#define LVAR_Error                      (2)
+#define LVAR_CurrentCommand             (3)
+#define LVAR_first_run                  (4)
+#define LVAR_one_punch                  (5)
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable mycommand;
+variable myhex;
+variable item;
+variable k;
+variable good_prog;
+import variable robot_obj;
+
+
+procedure start begin
+   robot_obj := self_obj;
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   robot_obj := self_obj;
+end
+
+procedure map_update_p_proc begin
+   robot_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+   set_local_var(LVAR_one_punch,0);
+   set_local_var(LVAR_CommandExecuting,0);
+end
+
+procedure getcommand begin
+   set_local_var(LVAR_CommandExecuting,1);
+   set_local_var(LVAR_ProgramPtr, local_var(LVAR_ProgramPtr)+1);
+   if (local_var(LVAR_ProgramPtr) == 1) then begin
+      set_local_var(LVAR_CurrentCommand, map_var(MVAR_MoveVar1));
+   end
+   else if (local_var(LVAR_ProgramPtr) == 2) then begin
+      set_local_var(LVAR_CurrentCommand, map_var(MVAR_MoveVar2));
+   end
+   else if (local_var(LVAR_ProgramPtr) == 3) then begin
+      set_local_var(LVAR_CurrentCommand, map_var(MVAR_MoveVar3));
+   end
+   else if (local_var(LVAR_ProgramPtr) == 4) then begin
+      set_local_var(LVAR_CurrentCommand, map_var(MVAR_MoveVar4));
+   end
+   else if (local_var(LVAR_ProgramPtr) == 5) then begin
+      set_local_var(LVAR_CurrentCommand, map_var(MVAR_MoveVar5));
+   end
+   else if (local_var(LVAR_ProgramPtr) == 6) then begin
+      set_local_var(LVAR_CurrentCommand, map_var(MVAR_MoveVar6));
+   end
+   call checkerr;
+end
+
+procedure checkerr begin
+   if ( (local_var(LVAR_ProgramPtr) == 1) and (local_var(LVAR_CurrentCommand) != 2) ) then begin
+      set_local_var(LVAR_Error,1);
+      set_map_var(MVAR_CommandError,1);
+   end
+   if ( (local_var(LVAR_ProgramPtr) == 2) and (local_var(LVAR_CurrentCommand) != 4) ) then begin
+      set_local_var(LVAR_Error,1);
+      set_map_var(MVAR_CommandError,1);
+   end
+   if ( (local_var(LVAR_ProgramPtr) == 3) and (local_var(LVAR_CurrentCommand) != 1) ) then begin
+      set_local_var(LVAR_Error,1);
+      set_map_var(MVAR_CommandError,1);
+   end
+   if ( (local_var(LVAR_ProgramPtr) == 4) and (local_var(LVAR_CurrentCommand) != 3) ) then begin
+      set_local_var(LVAR_Error,1);
+      set_map_var(MVAR_CommandError,1);
+   end
+   if ( (local_var(LVAR_ProgramPtr) == 5) and (local_var(LVAR_CurrentCommand) != 5) ) then begin
+      set_local_var(LVAR_Error,1);
+      set_map_var(MVAR_CommandError,1);
+   end
+   if ( (local_var(LVAR_ProgramPtr) == 6) and (local_var(LVAR_CurrentCommand) < 6) ) then begin
+      set_local_var(LVAR_Error,1);
+      set_map_var(MVAR_CommandError,1);
+   end
+end
+
+procedure punch_it begin
+    if (local_var(LVAR_one_punch) == 0) then begin
+       set_local_var(LVAR_one_punch,1);
+       reg_anim_clear(self_obj);
+       reg_anim_begin();
+          reg_anim_animate(self_obj, ANIM_throw_punch, -1);
+       reg_anim_end();
+       add_timer_event(self_obj,game_ticks(2),0);
+    end
+end
+
+procedure checkdone begin
+   mycommand:=local_var(LVAR_CurrentCommand);
+   if (mycommand == 1) then begin
+      myhex:=tile_num(self_obj);
+      if (myhex == URANUS) then begin
+         animate_rotation(5);
+         call punch_it;
+         //set_local_var(LVAR_CommandExecuting,0);
+      end
+      else begin
+         animate_move_to_tile(URANUS);
+      end
+   end
+   else if (mycommand == 2) then begin
+      myhex:=tile_num(self_obj);
+      if (myhex == PLUTO) then begin
+         animate_rotation(1);
+         call punch_it;
+         //set_local_var(LVAR_CommandExecuting,0);
+      end
+      else begin
+         animate_move_to_tile(PLUTO);
+      end
+   end
+   else if (mycommand == 3) then begin
+      myhex:=tile_num(self_obj);
+      if (myhex == SATURN) then begin
+         animate_rotation(0);
+         call punch_it;
+         //set_local_var(LVAR_CommandExecuting,0);
+      end
+      else begin
+         animate_move_to_tile(SATURN);
+      end
+   end
+   else if (mycommand == 4) then begin
+      myhex:=tile_num(self_obj);
+      if (myhex == NEPTUNE) then begin
+         animate_rotation(5);
+         call punch_it;
+         //set_local_var(LVAR_CommandExecuting,0);
+      end
+      else begin
+         animate_move_to_tile(NEPTUNE);
+      end
+   end
+   else if (mycommand == 5) then begin
+      myhex:=tile_num(self_obj);
+      if (myhex == JUPITER) then begin
+         animate_rotation(5);
+         call punch_it;
+         //set_local_var(LVAR_CommandExecuting,0);
+      end
+      else begin
+         animate_move_to_tile(JUPITER);
+      end
+   end
+   else if (mycommand == 6) then begin
+      myhex:=tile_num(self_obj);
+      if (myhex == COOLANTPUMP) then begin
+         if (obj_is_carrying_obj_pid(self_obj, PID_HY_MAG_PART)) then begin
+            item:=obj_carrying_pid_obj(self_obj, PID_HY_MAG_PART);
+            rm_obj_from_inven(self_obj,item);
+            destroy_object(item); //added by killap
+            //need to give exp and KARMA here -NBK
+            if (global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_REPAIRED) then begin
+               if (global_var(GVAR_PLANT_SCHEDULED_FOR_CHANGE) == SCHEDULED_FOR_REPAIRS) then
+                  set_global_var(GVAR_PLANT_SCHEDULED_FOR_CHANGE, 0);
+               set_global_var(GVAR_VAULT_GECKO_PLANT, PLANT_REPAIRED);
+               set_global_var(GVAR_VAULT_PLANT_STATUS, PLANT_REPAIRED);
+               display_msg(mstr(200));
+               k:=EXP_ROBOT_REPAIR_BONUS + EXP_REPAIR_REACTOR;
+               give_xp(k);
+               GC_REP_ADJUST(30)
+               inc_general_rep(REP_BONUS_GC_PLANT_REPAIRED);
+            end
+         end
+         else begin
+            //without the Hydroelecric Magnetosphere robot
+            //should end in an error condition here
+            set_local_var(LVAR_Error,1);
+            set_map_var(MVAR_CommandError,1);
+         end
+         set_local_var(LVAR_CommandExecuting,0);
+      end
+      else begin
+         animate_move_to_tile(COOLANTPUMP);
+      end
+   end
+   else if (mycommand == 7) then begin
+      myhex:=tile_num(self_obj);
+      if (myhex == COOLANTPUMP) then begin
+         set_local_var(LVAR_CommandExecuting,0);
+         if (global_var(GVAR_GECKO_MELTDOWN) == 0) then begin
+            set_global_var(GVAR_GECKO_MELTDOWN, 1); //start meltdown
+            set_global_var(GVAR_ENEMY_GECKO,1);
+            display_msg(mstr(300));
+            give_xp(EXP_CLEVER_DESTROY_BONUS);
+         end
+      end
+      else begin
+         animate_move_to_tile(COOLANTPUMP);
+      end
+   end
+   else if (mycommand == 8) then begin
+      myhex:=tile_num(self_obj);
+      if (myhex == COOLANTPUMP) then begin
+         set_local_var(LVAR_CommandExecuting,0);
+         //MATT says that the meltdown cannot be stopped
+         // this section of code may need to be removed. -NBK
+         //set_global_var(GVAR_GECKO_MELTDOWN, 0); //stop meltdown
+      end
+      else begin
+         animate_move_to_tile(COOLANTPUMP);
+      end
+   end
+end
+
+procedure godock begin
+      myhex:=tile_num(self_obj);
+      if (myhex != DOCK) then begin
+         animate_move_to_tile(DOCK);
+         //move_to(self_obj,DOCK,elevation(self_obj));
+      end
+      else begin
+         set_local_var(LVAR_first_run,0); //reset so next time robot runs the program will be analyzed
+         set_local_var(LVAR_ProgramPtr,0);
+         set_local_var(LVAR_CommandExecuting,0);
+         set_local_var(LVAR_Error,0);
+         set_local_var(LVAR_CurrentCommand,0);
+         set_map_var(MVAR_ProgramRunning,0);
+         set_gvar_bit_off(GVAR_GECKO_WORKING_ON_PLANT,2);
+      end
+end
+
+procedure analyze_prog begin
+   set_gvar_bit_on(GVAR_GECKO_WORKING_ON_PLANT,2); //take fix plant flag
+   good_prog := 1;
+   if (map_var(MVAR_MoveVar1) != 2) then
+      good_prog := 0;
+   if (map_var(MVAR_MoveVar2) != 4) then
+      good_prog := 0;
+   if (map_var(MVAR_MoveVar3) != 1) then
+      good_prog := 0;
+   if (map_var(MVAR_MoveVar4) != 3) then  //killap's fix: was !=5
+      good_prog := 0;
+   if (map_var(MVAR_MoveVar5) != 5) then  //killap's fix: was !=3
+      good_prog := 0;
+   if (good_prog == 1) then begin //proper command sequence was given and robot should eventually do something
+      if (map_var(MVAR_MoveVar6) == 6) then begin //repairing
+         //need to check inventory of robot here
+         if (obj_is_carrying_obj_pid(self_obj, PID_HY_MAG_PART)) then begin
+            //may need to set some global so part is removed from robot later
+            //if still in inventory
+            set_global_var(GVAR_PLANT_SCHEDULED_FOR_CHANGE, SCHEDULED_FOR_REPAIRS);
+         end
+      end
+      else if (map_var(MVAR_MoveVar6) == 7) then begin //destroying
+         set_global_var(GVAR_PLANT_SCHEDULED_FOR_CHANGE, SCHEDULED_FOR_DESTRUCTION);
+      end
+   end
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+   if (map_var(MVAR_ProgramRunning) == 1) then begin
+      if (local_var(LVAR_first_run) == 0) then begin
+         set_local_var(LVAR_first_run,1);
+         call analyze_prog;
+      end
+      if ( (local_var(LVAR_CommandExecuting) == 0) and
+           (local_var(LVAR_Error) == 0) ) then begin //get next command
+            if ( map_var(MVAR_CommandCount) > local_var(LVAR_ProgramPtr) ) then begin
+               call getcommand;
+            end
+            else begin
+               call godock; //always return after program
+            end
+      end //no command
+      else begin
+      //continue execution of command
+         if (local_var(LVAR_Error) == 1) then begin
+            call godock; //always return on error
+         end
+         else begin
+            call checkdone;
+         end
+      end
+   end
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   script_overrides; //prevent player from stealing from robot as this could cause major bugs
+   //ex. player starts robot fixing power plant, steal hydro mag from robot and leaves before robot attempts repair
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure use_p_proc begin
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+   //if i was the one working on the plant now it is not scheduled for change
+   if (gvar_bit(GVAR_GECKO_WORKING_ON_PLANT,2)) then begin
+      //also may need to make sure part will not be removed from inventory
+      //if scheduled for repairs.
+      set_global_var(GVAR_PLANT_SCHEDULED_FOR_CHANGE, 0);
+   end
+  set_gvar_bit_off(GVAR_GECKO_WORKING_ON_PLANT,2); //release fix plant flag
+end
+
+procedure combat_p_proc begin //I dont want robot to fight back ..it continues on it's task
+   script_overrides;
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+   //if (action_being_used == SKILL_STEAL) then begin
+      //if (is_success(roll_vs_skill(dude_obj,action_being_used,0))) then begin
+      //end
+   //end
+end
+
+procedure Node999 begin
+end

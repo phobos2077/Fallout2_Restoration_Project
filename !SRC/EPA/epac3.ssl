@@ -1,0 +1,299 @@
+/*
+	Name: The Brave Little Toaster
+   Location: EPA Main
+   Description: Script to a talking Toaster on the Blue level of EPA Main
+                He can give if code to jinx slot machines.
+*/
+
+
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_EPAC3
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node999;
+
+
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Herebefore2                (5)
+#define LVAR_Toaster_Repaired           (6)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+    if (combat_is_initialized == 0) then begin
+       script_overrides;
+       start_gdialog(NAME, self_obj, 4, -1, -1);
+       gsay_start;
+         if (local_var(LVAR_Toaster_Repaired) == 1) then begin
+            call Node013;
+         end else if (local_var(LVAR_Herebefore) == 0) then begin
+            call Node001;
+            set_local_var(LVAR_Herebefore,1);
+         end else begin
+            call Node011;
+         end
+       gsay_end;
+       end_dialogue;
+    end
+end
+
+procedure pickup_p_proc begin
+   script_overrides;
+   call use_p_proc;
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+   if (action_being_used == SKILL_REPAIR) then begin
+      script_overrides;
+      if (local_var(LVAR_Toaster_Repaired) == 0) then begin
+         if( is_success( roll_vs_skill( source_obj, SKILL_REPAIR, -10 ) ) ) then begin
+            if (source_obj == dude_obj) then
+               display_msg(mstr(400));
+            else
+               display_msg(obj_name(source_obj)+mstr(403));
+            give_xp(450);
+            set_local_var(LVAR_Toaster_Repaired,1);
+         end else begin
+            if (source_obj == dude_obj) then
+               display_msg(mstr(401));
+            else
+               display_msg(obj_name(source_obj)+mstr(404));
+         end
+      end else begin
+         display_msg(mstr(402));
+      end
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   if ((obj_pid(obj_being_used_with) == PID_MULTI_TOOL) or (obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT)) then begin
+      script_overrides;
+      if (local_var(LVAR_Toaster_Repaired) == 0) then begin
+         if( is_success( roll_vs_skill( dude_obj, SKILL_REPAIR, 0 ) ) ) then begin
+            display_msg(mstr(400));
+            give_xp(450);
+            set_local_var(LVAR_Toaster_Repaired,1);
+         end else begin
+            display_msg(mstr(401));
+         end
+      end else begin
+         display_msg(mstr(402));
+      end
+   end
+end
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+
+procedure Node001 begin
+   Reply(200);
+   NOption(201,Node002,004);
+   NOption(202,Node999,004);
+end
+
+procedure Node002 begin
+   set_local_var(LVAR_Herebefore2,1);
+   Reply(210);
+   NOption(211,Node003,004);
+end
+
+procedure Node003 begin
+   Reply(220);
+   NOption(221,Node004,004);
+end
+
+procedure Node004 begin
+   Reply(230);
+   NOption(231,Node005,004);
+   NOption(232,Node005,004);
+end
+
+procedure Node005 begin
+   Reply(240);
+   NOption(241,Node006,004);
+end
+
+procedure Node006 begin
+   Reply(250);
+   NOption(251,Node008,004);
+   NOption(252,Node999,004);
+end
+
+// no longer used
+procedure Node007 begin
+   Reply(260);
+   NOption(261,Node008,004);
+   NOption(262,Node999,004);
+end
+
+procedure Node008 begin
+   Reply(270);
+   NOption(271,Node009,004);
+end
+
+procedure Node009 begin
+   Reply(280);
+   NOption(281,Node010,004);
+end
+
+procedure Node010 begin
+   Reply(290);
+   NOption(291,Node999,004);
+end
+
+procedure Node011 begin
+   if (local_var(LVAR_Toaster_Repaired) == 2) then
+      Reply(301);
+   else
+      Reply(300);
+   
+   if (local_var(LVAR_Toaster_Repaired) < 2) then begin
+      if (local_var(LVAR_Herebefore2) == 1) then
+         NOption(302,Node012,004);
+      else
+         NOption(302,Node002,004);
+   end
+
+   NOption(303,Node999,004);
+end
+
+procedure Node012 begin
+   Reply(310);
+   NOption(311,Node006,004);
+   NOption(312,Node999,004);
+end
+
+procedure Node013 begin
+   Reply(350);
+   NOption(351,Node014,004);
+end
+
+procedure Node014 begin
+   Reply(352);
+   NOption(353,Node015,004);
+end
+
+procedure Node015 begin
+   set_fake_perk(g_mstr(40000),1,154,g_mstr(40001));
+   set_global_var(GVAR_TOASTER_SLOTMACHINES,1);
+   set_local_var(LVAR_Toaster_Repaired,2);
+   Reply(354);
+   NOption(355,Node999,004);
+end
+
+procedure Node999 begin
+
+end

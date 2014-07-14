@@ -1,0 +1,156 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Manhole to Basement in Liz's Store
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\broken1.h"
+
+#define NAME                    SCRIPT_HIMANHOL
+#define CUR_COMP_SCRIPT         SCRIPT_HIMANHOL
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Gave_Exp   (0)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+   variable time;
+
+   script_overrides;
+   // The dude must be sneaking and must succeed a stealth roll to get into
+   // the basement without Liz's permission
+   if( map_var( MVAR_Liz_Dead ) == 1 ) then begin
+      if( local_var( LVAR_Gave_Exp ) == 0 ) then begin
+         set_local_var( LVAR_Gave_Exp, 1 );
+         give_xp(EXP_FOUND_LIZ_WEAPONS); //added by killap
+         display_msg( mstr(100) );
+      end
+
+      move_to( dude_obj, 11513, 1 );
+   end
+   else if( map_var( MVAR_Basement_Permission ) == 1 ) then begin
+      if( local_var( LVAR_Gave_Exp ) == 0 ) then begin
+         set_local_var( LVAR_Gave_Exp, 1 );
+         give_xp(EXP_FOUND_LIZ_WEAPONS); //added by killap
+         display_msg( mstr(100) );
+      end
+
+      move_to( dude_obj, 11513, 1 );
+   end
+   else if( dude_is_sneaking ) then begin
+      // The Sneak roll is harder at night when Liz is in the room.
+      if( (time >= 2000) or (time < 800) ) then begin
+         if( is_success( roll_vs_skill( dude_obj,SKILL_SNEAK,-50 ) ) ) then begin
+            if( local_var( LVAR_Gave_Exp ) == 0 ) then begin
+               set_local_var( LVAR_Gave_Exp, 1 );
+               give_xp(EXP_FOUND_LIZ_WEAPONS); //added by killap
+               display_msg( mstr(100) );
+            end
+
+            move_to( dude_obj, 11513, 1 );
+         end
+         else
+            set_map_var( MVAR_Player_Tried_Basement, 1 );
+      end
+      else begin
+         if( is_success( roll_vs_skill( dude_obj,SKILL_SNEAK,-20 ) ) ) then begin
+            if( local_var( LVAR_Gave_Exp ) == 0 ) then begin
+               set_local_var( LVAR_Gave_Exp, 1 );
+               give_xp(EXP_FOUND_LIZ_WEAPONS); //added by killap
+               display_msg( mstr(100) );
+            end
+
+            move_to( dude_obj, 11513, 1 );
+         end
+         else
+            set_map_var( MVAR_Player_Tried_Basement, 1 );
+      end
+   end
+   else
+      set_map_var( MVAR_Player_Tried_Basement, 1 );
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+/**********************************************************************************
+**********************************************************************************/
+
+/******************************************************************************************
+   IF it gets damaged it breaks
+******************************************************************************************/
+
+procedure damage_p_proc begin
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end

@@ -1,0 +1,422 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Laddie
+        Location: Modoc
+        Description: Dog that acts like lassie
+
+        Log: the following defines need to be changed:
+
+
+          Created: February 15, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                        SCRIPT_MCLADDIE
+#define TOWN_REP_VAR                GVAR_TOWN_REP_MODOC
+
+#include "..\headers\command.h"
+#include "..\headers\modoc.h"
+//#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure push_p_proc;
+
+// dialog nodes
+procedure Node000;
+procedure Node001;
+procedure Node002;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+
+procedure Node999;                                      // This is the do nothing node
+procedure Node998;                                      // This Node is Always Combat
+procedure Node996;
+procedure Node995;
+procedure Node981;
+procedure Node982;
+procedure Node983;
+procedure Node984;
+procedure Node985;
+procedure Node986;
+procedure Node987;
+procedure Node988;
+procedure Node989;
+
+#define LVAR_Home_Tile                    (0)
+#define LVAR_Flags                        (1)
+#define LVAR_TEAM                         (3)
+#define LVAR_FOLLOW_DISTANCE              (4)
+#define LVAR_WAITING                      (5)
+
+variable only_once := 0;
+variable laddie_answer;
+
+#define dude_found_bb_gun_bit             bit_10
+#define q1_bit                            bit_11
+#define q2_bit                            bit_12
+#define q3_bit                            bit_13
+#define q4_bit                            bit_14
+#define q5_bit                            bit_15
+#define q6_bit                            bit_16
+#define q7_bit                            bit_17
+#define q8_bit                            bit_18
+#define q9_bit                            bit_19
+#define q10_bit                           bit_20
+
+#define set_bark_yes                      laddie_answer := 151
+#define set_bark_no                       laddie_answer := 150
+#define laddie_bit(x)                     lvar_bit(LVAR_Flags, x)
+#define set_laddie_bit(x)                 set_lvar_bit_on(LVAR_Flags, x)
+#define show_q1                           ((laddie_bit(q1_bit) == false) and (slaughter_flag))
+#define show_q2                           ((laddie_bit(q2_bit) == false) and (tannery_flag))
+#define show_q3                           ((laddie_bit(q3_bit) == false) and (post_flag))
+#define show_q4                           (laddie_bit(q4_bit) == false)
+#define show_q5                           ((laddie_bit(q5_bit) == false) and (rose_flag))
+#define show_q6                           (laddie_bit(q6_bit) == false)
+#define show_q7                           (laddie_bit(q7_bit) == false)
+#define show_q8                           (laddie_bit(q8_bit) == false)
+#define show_q9                           (laddie_bit(q9_bit) == false)
+#define dude_found_bb_gun                 ((laddie_bit(dude_found_bb_gun_bit)) or (jonny_bb_gun_found))
+
+import variable jonny_obj;
+variable temp_tile;
+#define laddie_run_to_well                                        \
+         if (anim_busy(self_obj) == false) then begin             \
+            if (laddie_at_well == false) then begin               \
+               closest_clear_tile(self_obj, well_tile, temp_tile) \
+               anim_run_to_point(temp_tile)                       \
+            end                                                   \
+         end
+
+procedure start begin
+end
+
+procedure push_p_proc begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 999) then begin
+      set_self_abandon_party;
+   end else begin
+   end
+end
+
+procedure map_update_p_proc begin
+   if (laddie_join_party) then begin
+      set_global_var(GVAR_LADDIE_STATE, laddie_set_party);
+      party_add_self;
+   end
+end
+
+procedure map_enter_p_proc begin
+   match_dude_elevation; //added by killap
+   if (is_loading_game == false) then begin
+      /*if ((cur_map_index == MAP_GHOST_LAKE) or jonny_at_home) then begin
+         if (obj_is_visible_flag(self_obj) == false) then begin
+            set_obj_visibility(self_obj, false); //visible
+         end
+      end else if (laddie_bit(q10_bit)) then begin
+         if (obj_is_visible_flag(self_obj) == true) then begin
+            set_obj_visibility(self_obj, true); //invisible
+         end*/
+      if (jonny_at_home) then begin //edits by killap
+         if (cur_map_index == MAP_GHOST_LAKE) then begin
+            destroy_object(self_obj);
+         end else if (obj_is_visible_flag(self_obj) == false) then begin
+            set_obj_visibility(self_obj, false); //visible
+         end
+      end else if (cur_map_index == MAP_MODOC_MAINSTREET) then begin
+         if (map_first_run) then begin
+            set_local_var(LVAR_Home_Tile, self_tile);
+            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+         end else if (jonny_bb_gun_found) then begin
+            set_laddie_bit(dude_found_bb_gun_bit);
+         end
+      end
+   end
+end
+
+procedure critter_p_proc begin
+   if (obj_is_visible_flag(self_obj)) then begin
+      if ((self_can_see_dude) and ((hostile) or (dude_enemy_modoc))) then begin
+         //killap code
+         if (dude_enemy_modoc) then
+            set_self_abandon_party;
+         //end killap code
+         self_attack_dude;
+      end else if (Laddie_In_Party) then begin
+         if (cur_map_index == MAP_MODOC_MAINSTREET) then begin
+            if (jonny_at_home) then begin
+               set_self_abandon_party;
+            end else if (dude_found_bb_gun == false) then begin
+               laddie_run_to_well
+            end else begin
+               party_member_follow_dude
+            end
+         end if (cur_map_index == MAP_GHOST_LAKE) then begin
+            if (jonny_obj != 0) then begin
+               set_laddie_bit(q10_bit);
+               Get_In_Face_Run_Dist(jonny_obj, random(1,3))
+               set_self_abandon_party; //added by killap
+            end
+         end else begin
+            party_member_follow_dude
+         end
+      end if (cur_map_index == MAP_MODOC_MAINSTREET) then begin
+         if ((jonny_at_home) and (anim_busy(self_obj) == false)) then begin
+            if (jonny_obj != 0) then begin
+               Get_In_Face_Run_Dist(jonny_obj, random(1,3))
+            end
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_self_abandon_party;
+   end
+end
+
+procedure talk_p_proc begin
+   script_overrides;
+   if ((jonny_at_home) or (dude_found_bb_gun)) then begin
+      floater(random(150,152));
+   end else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         if (Laddie_In_Party) then begin
+            if (laddie_at_well) then begin
+               call Node002;
+            end else begin
+               call Node001;
+            end
+         end else begin
+            call Node000;
+         end
+      gSay_End;
+      end_dialogue;
+   end
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+   set_laddie_dead;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + (jonny_seed_unknown == false));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102 + dude_is_stupid));
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+//added by killap
+procedure use_obj_on_p_proc begin
+   if ( (obj_pid(obj_being_used_with) == PID_MICRO_FUSION_CELL) or (obj_pid(obj_being_used_with) == PID_SMALL_ENERGY_CELL) ) then begin
+      script_overrides;
+      display_msg(g_mstr(20000));
+   end
+end
+//end added
+
+// dialog action functions
+procedure Node999 begin
+  // do absolutely everything that pertains to nothing
+  if (party_is_waiting) then begin
+     end_party_waiting;
+  end
+end
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node996 begin
+   // if rep < 0 goto 10, else goto 11
+   if (global_var(TOWN_REP_VAR) < 0) then begin
+      call Node010;
+   end else begin
+      call Node011;
+   end
+end
+procedure Node995 begin
+   // yes -> 15
+   set_bark_yes;
+   call Node015;
+end
+procedure Node994 begin
+   set_party_waiting;
+end
+procedure Node981 begin
+   // q1 -> 15
+   set_laddie_bit(q1_bit);
+   call Node015;
+end
+procedure Node982 begin
+   // q2 -> 15
+   set_laddie_bit(q2_bit);
+   call Node015;
+end
+procedure Node983 begin
+   // q3 -> 15
+   set_laddie_bit(q3_bit);
+   call Node015;
+end
+procedure Node984 begin
+   set_bark_yes;
+   set_laddie_bit(q4_bit);
+   call Node015;
+   // q4 -> 15 als set answer to yes
+end
+procedure Node985 begin
+   // q5 -> 15
+   set_laddie_bit(q5_bit);
+   call Node015;
+end
+procedure Node986 begin
+   // q6 -> 17
+   set_laddie_bit(q6_bit);
+   call Node015;
+end
+procedure Node987 begin
+   // q7 -> 17
+   set_laddie_bit(q7_bit);
+   call Node015;
+end
+procedure Node988 begin
+   // q8 -> 17
+   set_laddie_bit(q8_bit);
+   call Node015;
+end
+procedure Node989 begin
+   // q9 -> 17
+   set_laddie_bit(q9_bit);
+   call Node015;
+end
+
+// dialog nodes
+procedure Node000 begin
+   Reply(152);
+   NOption(153,Node999,010);
+   NOption(154,Node996,004);
+   NOption(150,Node012,-003);
+end
+procedure Node001 begin
+   Reply(152);
+   NOption(155,Node013,010);
+   NOption(156,Node994,004);
+   NOption(157,Node999,004);
+   NOption(150,Node012,-003);
+end
+procedure Node002 begin
+   Reply(152);
+   set_bark_yes;
+   NOption(158,Node013,010);
+   NOption(159,Node014,004);
+   NOption(150,Node012,-003);
+end
+procedure Node010 begin
+   Reply(160);
+   NOption(161,Node999,004);
+end
+procedure Node011 begin
+   Reply(162);
+   NOption(163,Node999,004);
+end
+procedure Node012 begin
+   Reply(164);
+   NOption(165,Node999,-003);
+end
+procedure Node013 begin
+   Reply(150);
+   NOption(190 + (dude_has_rope != 0),Node999,001);
+end
+procedure Node014 begin
+   Reply(laddie_answer);
+   set_bark_no;
+   NOption(167,Node995,004);
+   NOption(168,Node017,004);
+   NOption(169,Node018,004);
+   NOption(170,Node999,004);
+end
+procedure Node015 begin
+   Reply(laddie_answer);
+   set_bark_no;
+   if (show_q1) then begin
+      NOption(171,Node981,004);
+   end
+   if (show_q2) then begin
+      NOption(172,Node982,004);
+   end
+   if (show_q3) then begin
+      NOption(173,Node983,004);
+   end
+   if (show_q4) then begin
+      NOption(174,Node984,004);
+   end else begin
+      // same as well flag set
+      NOption(158,Node016,004);
+   end
+   NOption(175,Node014,004);
+   if (show_q5) then begin
+      NOption(177,Node985,004);
+   end
+   NOption(157,Node999,004);
+end
+procedure Node016 begin
+   Reply(150);
+   NOption(190 + dude_has_rope,Node999,004);
+end
+procedure Node017 begin
+   Reply(151);
+   set_bark_yes;
+   if (show_q6) then begin
+      NOption(180,Node986,004);
+   end
+   if (show_q7) then begin
+      NOption(181,Node987,004);
+   end
+   if (show_q8) then begin
+      NOption(182,Node988,004);
+   end
+   if (show_q9) then begin
+      NOption(183,Node989,004);
+   end
+   NOption(175,Node014,004);
+   NOption(157,Node999,004);
+end
+procedure Node018 begin
+   Reply(186);
+   set_bark_yes;
+   NOption(187,Node014,004);
+   NOption(157,Node999,004);
+end

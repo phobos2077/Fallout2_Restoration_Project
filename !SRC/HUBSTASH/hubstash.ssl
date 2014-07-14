@@ -1,0 +1,67 @@
+/*     Script from map templete       */
+/*
+        Name: Nazwa
+        Location: Polozenie
+        Description: Opis
+
+        Log:
+           
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+//#include "..\headers\nazwamapy.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_HUBSTASH
+
+#include "..\headers\command.h"
+#include "..\headers\hubstash.h"
+
+procedure start;
+procedure map_exit_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+export variable stashdoor_obj;
+export variable object_tamper;
+export variable guard2_obj;
+export variable guard1a_obj;
+export variable guard1b_obj;
+export variable guard1c_obj;
+
+
+procedure start
+begin
+end
+
+procedure map_enter_p_proc
+begin
+   if (map_first_run) then
+      display_msg(mstr(100));
+      
+   if (dude_elevation == 0) then
+      Lighting;
+   else
+      Basement_Lighting;
+      
+   Check_Create_Car(HUBOLOGIST_STASH_HEX, 0)
+end
+
+procedure map_update_p_proc
+begin
+   if (dude_elevation == 0) then
+      Lighting;
+   else
+      Basement_Lighting;
+end
+ 
+procedure map_exit_p_proc
+begin
+ 
+end

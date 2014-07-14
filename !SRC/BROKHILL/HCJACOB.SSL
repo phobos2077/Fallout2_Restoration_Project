@@ -1,0 +1,888 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Jacob
+        Location: Broken Hills
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\broken.h"
+#include "..\headers\broken1.h"
+
+#define NAME                    SCRIPT_HCJACOB
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure combat;
+
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node001a;
+procedure Node001b;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+// Nodes taken out from Ore Refining.
+procedure Node013;
+procedure Node013a;
+procedure Node013b;
+procedure Node013c;
+procedure Node014;
+procedure Node014a;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node021a;
+procedure Node021b;
+procedure Node021c;
+procedure Node022;
+procedure Node022a;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node025a;
+procedure Node026;
+procedure Node027;
+// Nodes taken out for Chemical mixing.
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+// Nodes taken out for Ore Refining
+// Nodes taken out for Chemical mixing.
+procedure Node048;
+procedure Node048a;
+procedure Node049;
+procedure Node049a;
+procedure Node050;
+procedure Node050a;
+procedure Node051;
+procedure Node052;
+procedure Node053;
+procedure Node054;
+procedure Node055;
+procedure Node056;
+procedure Node057;
+procedure Node058;
+// Nodes taken out for Ore Refining
+procedure Node061;
+procedure Node062;
+procedure Node063;
+procedure Node064;
+procedure Node064a;
+procedure Node065;
+procedure Node066;
+procedure Node067;
+procedure Node068;
+procedure Node069;
+procedure Node070;
+procedure Node071;
+procedure Node072;
+procedure Node073;
+procedure Node074;
+procedure Node075;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Distraction_Suggested      (7)
+#define LVAR_Up_React_1                 (8)
+#define LVAR_Down_React_1               (9)
+#define LVAR_Down_React_2               (10)
+#define LVAR_Down_React_3               (11)
+#define LVAR_Down_React_4               (12)
+#define LVAR_Distraction_Attempts       (13)
+#define LVAR_Mutant_Questioned          (14)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+import variable broken_hills_jacob_box;
+import variable broken_hills_temp_box;
+import variable Jacob_Ptr;
+
+#define move_inven_to_box              move_obj_inven_to_obj(self_obj, broken_hills_jacob_box);
+#define move_inven_from_box            move_obj_inven_to_obj(broken_hills_jacob_box, self_obj);
+#define move_inven_to_temp_box         move_obj_inven_to_obj(self_obj, broken_hills_temp_box);
+#define move_inven_from_temp_box       move_obj_inven_to_obj(broken_hills_temp_box, self_obj);
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable From_WTG:=1;
+variable From_13:=0;
+variable made_trigger:=0; //added by killap
+
+procedure start begin
+   Jacob_Ptr := self_obj;
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Jacob_Ptr := self_obj;
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RACIST);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+end
+
+procedure map_update_p_proc begin
+   Jacob_Ptr := self_obj;
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+   if ( ( ( global_var( GVAR_ENEMY_CONSPIRATORS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+       set_global_var( GVAR_ENEMY_CONSPIRATORS, 1 );
+       set_global_var(GVAR_ENEMY_BROKEN_HILLS,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   GetReaction;
+   ReactToLevel; //added by killap
+   
+   From_WTG := 1;
+   From_13 := 0;
+
+   //added by killap
+   if ( not((dude_iq == 2)) or not((dude_iq == 3)) ) then
+       gdialog_set_barter_mod(-20);
+   //end added by killap
+   
+   move_inven_to_temp_box
+   move_inven_from_box
+
+   if (local_var(LVAR_Personal_Enemy) == 1) then begin
+       call Node998;
+   end
+   else if ( (global_var(GVAR_BH_JAIL) == JAIL_DOUBLECROSS) or
+             (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_BROKEN_DOUBLECROSS) ) then
+      call Node054;
+   else if (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_REJECTED) then
+      call Node055;
+   else if (global_var(GVAR_BH_JAIL) == JAIL_REJECTED) then
+      call Node066;
+   else if (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node056;
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_BROKEN_HERO) then
+      call Node065;
+   else if (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_ACCEPTED) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node052;
+       gSay_End;
+       end_dialogue;
+   end
+   else if( ( global_var(GVAR_BH_JAIL) == 0 ) and
+            ( map_var( MVAR_Frank_Dead ) == 1 ) and
+            ( map_var( MVAR_Manson_Dead ) == 1 ) ) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node070;
+       gSay_End;
+       end_dialogue;
+   end
+   else if( ( global_var(GVAR_BH_JAIL) == JAIL_ENLISTED ) and
+            ( map_var( MVAR_Frank_Dead ) == 1 ) and
+            ( map_var( MVAR_Manson_Dead ) == 1 ) ) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node068;
+       gSay_End;
+       end_dialogue;
+   end
+   else if( global_var(GVAR_BH_JAIL) == JAIL_ENLISTED ) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node067;
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(GVAR_BH_JAIL) == JAIL_STEALTH) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node037;
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(GVAR_BH_JAIL) == JAIL_FORCE) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node038;
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(GVAR_BH_JAIL) == JAIL_CHARISMA) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node039;
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(GVAR_BH_JAIL) == JAIL_COINCIDENTAL) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node075;
+       gSay_End;
+       end_dialogue;
+   end
+/*
+
+   else if (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_FAILED) then
+      call Node057;
+   else if ( (global_var(GVAR_BH_CHAD) == CHAD_ARRESTED) or (global_var(GVAR_BH_CHAD) == CHAD_KILLED) ) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node036;
+       gSay_End;
+       end_dialogue;
+   end
+*/
+   else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+             if (local_var(LVAR_Herebefore) == 0) then begin
+                call Node001;
+             end
+             else begin
+                if (dude_iq < 2) then begin
+                   call Node002;
+                end
+                if ( (dude_iq == 2) or (dude_iq == 3) ) then begin
+                   call Node003;
+                end
+                else begin
+                   call Node001;
+                end
+             end
+       gSay_End;
+       end_dialogue;
+   end
+   move_inven_to_box
+   move_inven_from_temp_box
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+   set_map_var( MVAR_Jacob_Dead, 1 );
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if( local_var(LVAR_Herebefore) == 0 ) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+procedure combat begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   if (local_var(LVAR_Herebefore) == 0) then begin
+      set_local_var(LVAR_Herebefore,1);
+      Reply(103);
+   end
+   else if ( ( bad_critter_reaction ) or ( From_WTG == 0 ) ) then
+      Reply(104);
+   else if (good_critter_reaction) then
+      Reply(105);
+   else
+      Reply(106);
+
+   From_WTG := 1;
+
+   if( dude_iq == 1 ) then
+      NOption(107, Node002, 001);
+   if( ( dude_iq == 2 ) or ( dude_iq == 3 ) ) then
+      NOption(108, Node003, 002);
+   NOption(290, Node064, 004);
+   NOption(110,Node001a,004);
+   if (global_var(GVAR_BH_JAIL) == JAIL_QUESTIONED) then
+      NOption(112,Node001b,004);
+
+// This node is for the jailbreak distraction.  This will be added
+// again if there is time to code the distraction.
+/*
+   if( ( global_var(GVAR_BH_JAIL) == JAIL_ENLISTED ) and
+       ( local_var( LVAR_Distraction_Suggested ) == 1 ) and
+       ( local_var( LVAR_Distraction_Attempts ) == 0 ) ) then
+      NOption(287,Node061,004);
+   else if( ( global_var(GVAR_BH_JAIL) == JAIL_ENLISTED ) and
+            ( local_var( LVAR_Distraction_Suggested ) == 1 ) and
+            ( local_var( LVAR_Distraction_Attempts ) > 0 ) ) then
+      NOption(288,Node061,004);
+*/
+   NOption(113,Node999,004);
+end
+
+procedure Node001a begin
+   if( local_var( LVAR_Mutant_Questioned ) == 0 ) then
+      call Node013;
+   else
+      call Node074;
+end
+
+procedure Node001b begin
+   // Make sure Jacob never asks you about Mutants now.
+   set_local_var( LVAR_Mutant_Questioned, 1 );
+   set_global_var( GVAR_BH_JAIL, JAIL_ENLISTED );
+   call Node025;
+end
+
+procedure Node002 begin
+   BMessage(114);
+end
+
+procedure Node003 begin
+   if (From_WTG == 1) then begin
+      From_WTG := 0;
+      Reply(117);
+   end
+   else
+      Reply(116);
+
+   NLowOption(118,Node004);
+   NLowOption(119,Node005);
+end
+
+procedure Node004 begin
+   NMessage(120);
+   gdialog_mod_barter(0);
+
+   Reply(313);
+   NLowOption(314, Node006);
+end
+
+procedure Node005 begin
+   NMessage(122);
+end
+
+procedure Node006 begin
+   variable val;
+
+   val:=random(5,10);
+   if (item_caps_total(dude_obj) >= val) then
+      item_caps_adjust(dude_obj, -val);
+   else
+      item_caps_adjust(dude_obj, -item_caps_total( dude_obj ) );
+
+   Reply(124);
+   NLowOption(125,Node999);
+end
+
+// Ore refining Nodes removed.
+
+procedure Node013 begin
+   From_13 := 1;
+   set_local_var( LVAR_Mutant_Questioned, 1 );
+   Reply(148);
+   NOption(149,Node013a,004); //reaction up small
+   NOption(150,Node013b,004); //reaction down small
+   NOption(151,Node013c,004); //reaction down medium
+end
+
+procedure Node013a begin
+   if( local_var( LVAR_Up_React_1 ) == 0 ) then begin
+      set_local_var( LVAR_Up_React_1, 1 );
+      UpReactMinor;
+   end
+   call Node014;
+end
+
+procedure Node013b begin
+   if( local_var( LVAR_Down_React_1 ) == 0 ) then begin
+      set_local_var( LVAR_Down_React_1, 1 );
+      DownReactMinor;
+   end
+   call Node015;
+end
+
+procedure Node013c begin
+   if( local_var( LVAR_Down_React_2 ) == 0 ) then begin
+      set_local_var( LVAR_Down_React_2, 1 );
+      DownReactModerate;
+   end
+   call Node016;
+end
+
+procedure Node014 begin
+   if ( From_13 == 1 ) then begin
+      From_13 := 0;
+      Reply( mstr(152) + " " + mstr(153) );
+   end
+   else
+      Reply(153);
+   NOption(154,Node014a,004); //reaction down medium
+   NOption(155,Node018,004);
+end
+
+procedure Node014a begin
+   if( local_var( LVAR_Down_React_3 ) == 0 ) then begin
+      set_local_var( LVAR_Down_React_3, 1 );
+      DownReactModerate;
+   end
+end
+
+procedure Node015 begin
+   Reply(156);
+   NOption(157,Node014,004);
+   NOption(158,Node013c,004);
+end
+
+procedure Node016 begin
+   Reply(159);
+   NOption(160,Node001,004);
+   NOption(161,Node017,004);
+end
+
+procedure Node017 begin
+   Reply(162);
+   NOption(163,Node999,004);
+end
+
+procedure Node018 begin
+   Reply(164);
+   NOption(165,Node019,004);
+   NOption(166,Node014a,004); //reaction down medium
+end
+
+procedure Node019 begin
+   Reply(167);
+   NOption(168,Node020,004);
+   NOption(169,Node021,004);
+end
+
+procedure Node020 begin
+   Reply(170);
+   NOption(171,Node021,004);
+   NOption(172,Node999,004);
+end
+
+procedure Node021 begin
+   Reply(173);
+   NOption(174,Node021a,004);
+   NOption(175,Node021b,004);
+   NOption(176,Node021c,004);
+end
+
+procedure Node021a begin
+   set_global_var( GVAR_BH_JAIL, JAIL_REJECTED );
+   call Node022;
+end
+
+procedure Node021b begin
+   set_global_var( GVAR_BH_JAIL, JAIL_REJECTED );
+   call Node024;
+end
+
+procedure Node021c begin
+   set_global_var( GVAR_BH_JAIL, JAIL_ENLISTED );
+   call Node025;
+end
+
+procedure Node022 begin
+   Reply(177);
+   NOption(178,Node023,004);
+   NOption(179,Node022a,004);
+end
+
+procedure Node022a begin
+   set_global_var( GVAR_BH_JAIL, JAIL_ENLISTED );
+   call Node025;
+end
+
+procedure Node023 begin
+   Reply(180);
+   NOption(181,Node999,004);
+end
+
+procedure Node024 begin
+   Reply(182);
+   BOption(183,Node998,004); //edit by killap: was NOption
+end
+
+procedure Node025 begin
+   Reply(184);
+   NOption(185,Node026,004);
+   NOption(186,Node027,004);
+   NOption(187,Node025a,004);
+
+   // Removed until distraction is coded... If ever.
+/*
+   if( has_skill( dude_obj, SKILL_SNEAK ) >= 50 ) then
+      NOption(289, Node061, 004);
+*/
+
+   NOption(188,Node999,004);
+end
+
+procedure Node025a begin
+   set_global_var( GVAR_BH_JAIL, JAIL_REJECTED );
+   call Node024;
+end
+
+procedure Node026 begin
+   Reply(189);
+   NOption(190,Node027,004);
+   NOption(191,Node999,004);
+end
+
+procedure Node027 begin
+   Reply(192);
+   NOption(194,Node001a,004);
+   NOption(196,Node999,004);
+end
+
+// Chemical Mixture nodes Removed
+
+procedure Node036 begin
+   Reply(222);
+   NOption(223,Node999,004);
+end
+
+procedure Node037 begin
+   Reply(224);
+   NOption(225,Node040,004);
+end
+
+procedure Node038 begin
+   Reply(226);
+   NOption(227,Node040,004);
+end
+
+procedure Node039 begin
+   Reply(228);
+   NOption(229,Node040,004);
+end
+
+procedure Node040 begin
+   if (global_var(GVAR_BH_CONSPIRACY) != CONSPIRACY_ACCEPTED) then
+      Reply(230);
+   else
+      Reply(231);
+
+   if (global_var(GVAR_BH_CONSPIRACY) != CONSPIRACY_ACCEPTED) then begin
+      NOption(232,Node048,004);
+   end
+   NOption(235,Node999,004);
+end
+
+// Ore refining Node removed
+
+// Chemical mixing nodes removed
+
+procedure Node048 begin
+   Reply(258);
+   NOption(259,Node049,004);
+   NOption(260,Node048a,004); //reaction down small
+end
+
+procedure Node048a begin
+   if( local_var( LVAR_Down_React_4 ) == 0 ) then begin
+      set_local_var( LVAR_Down_React_4, 1 );
+      DownReactMinor;
+   end
+   call Node050;
+end
+
+procedure Node049 begin
+   variable trigger;
+
+   if (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_ACCEPTED) then begin
+      Reply(262);
+   end
+   else begin
+      // Give the explosive trigger to the player.
+      if (made_trigger == 0) then begin //added by killap
+         made_trigger := 1; //added by killap
+         trigger := create_object( PID_EXPLOSIVE_SWITCH, 0, 0 );
+         add_obj_to_inven( dude_obj, trigger );
+         Reply( mstr(261) + " " + mstr(262) );
+      end
+   end
+   NOption(263,Node049a,004);
+   NOption(264,Node048a,004); //reaction down small
+end
+
+procedure Node049a begin
+   set_global_var( GVAR_BH_CONSPIRACY, CONSPIRACY_ACCEPTED );
+end
+
+procedure Node050 begin
+   Reply(265);
+   NOption(266,Node050a,004);
+   NOption(267,Node049,004);
+end
+
+procedure Node050a begin
+   set_global_var( GVAR_BH_CONSPIRACY, CONSPIRACY_REJECTED );
+   call Node051;
+end
+
+procedure Node051 begin
+   variable trigger;
+   variable triggerCount;
+   variable dummy;
+
+   // The player has totally rejected the conspiracy. Be sure to
+   // remove all Explosive Switches from the player's inventory.
+   triggerCount := obj_is_carrying_obj_pid( dude_obj, PID_EXPLOSIVE_SWITCH );
+   if( triggerCount > 0 ) then begin
+      trigger := obj_carrying_pid_obj( dude_obj, PID_EXPLOSIVE_SWITCH );
+      dummy := rm_mult_objs_from_inven( dude_obj, trigger, triggerCount );
+      destroy_object(trigger); //added by killap
+   end
+
+   BMessage(268);
+end
+
+procedure Node052 begin
+   Reply(270);
+   NOption(272,Node053,004);
+   NOption(273,Node048a,004); //reaction down small
+end
+
+procedure Node053 begin
+   Reply(274);
+   NOption(275,Node999,004);
+   NOption(276,Node048a,004); //reaction down small
+end
+
+procedure Node054 begin
+   floater(277);
+end
+
+procedure Node055 begin
+   floater(278);
+end
+
+procedure Node056 begin
+   set_map_var( MVAR_Know_Liz_Guns, 1 );
+   set_map_var( MVAR_Jacob_Told_About_Guns, 1 );
+   GMessage(279);
+end
+
+procedure Node057 begin
+   floater(280);
+end
+
+procedure Node058 begin
+   floater(281);
+end
+
+procedure Node061 begin
+end
+
+procedure Node062 begin
+   inc_local_var( LVAR_Distraction_Attempts );
+   // Increment game clock to night.
+end
+
+procedure Node063 begin
+end
+
+procedure Node064 begin
+   gdialog_mod_barter( -20 );
+
+   Reply(313);
+   NOption(314, Node064a, 004);
+end
+
+procedure Node064a begin
+   Reply(291);
+
+   NOption(292, Node001, 004);
+   NOption(293, Node999, 004);
+end
+
+procedure Node065 begin
+   floater(294);
+end
+
+procedure Node066 begin
+   floater(295);
+end
+
+procedure Node067 begin
+   Reply(296);
+
+   NOption(297, Node999, 004);
+end
+
+procedure Node068 begin
+   Reply(298);
+   NOption(299, Node069, 004);
+end
+
+procedure Node069 begin
+   BMessage(300);
+   call Node998;
+end
+
+procedure Node070 begin
+   Reply(301);
+
+   NLowOption(302, Node999);
+   NOption(303, Node999, 004);
+   NOption(304, Node071, 004);
+end
+
+procedure Node071 begin
+   Reply(305);
+
+   NOption(306, Node072, 004);
+   NOption(307, Node073, 004);
+end
+
+procedure Node072 begin
+   BMessage(308);
+   call Node998;
+end
+
+procedure Node073 begin
+   NMessage(309);
+end
+
+procedure Node074 begin
+   Reply(310);
+
+   NOption(311, Node001, 004);
+   NOption(312, Node999, 004);
+end
+
+procedure Node075 begin
+   set_local_var( LVAR_Mutant_Questioned, 1 );
+   Reply(315);
+   NOption(316,Node040,004);
+end
+//xxxxxxxxxxxxxxxxxxxx

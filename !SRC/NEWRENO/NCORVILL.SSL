@@ -1,0 +1,745 @@
+/*
+        Name: Orville Wright
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCORVILL
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node034;
+procedure Node035;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+procedure Node046;
+procedure Node047;
+procedure Node048;
+procedure Node049;
+procedure Node050;
+procedure Node051;
+procedure Node052;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (5)
+
+#define node_7_bit                        bit_5
+#define node_22_bit                       bit_6
+#define node_31_bit                       bit_7
+#define node_34_bit                       bit_8
+#define pissed_bit                        bit_9
+
+#define node_7                            lvar_bit(LVAR_Flags, node_7_bit)
+#define set_node_7                        set_lvar_bit_on(LVAR_Flags, node_7_bit)
+#define node_22                           lvar_bit(LVAR_Flags, node_22_bit)
+#define set_node_22                       set_lvar_bit_on(LVAR_Flags, node_22_bit)
+#define node_31                           lvar_bit(LVAR_Flags, node_31_bit)
+#define set_node_31                       set_lvar_bit_on(LVAR_Flags, node_31_bit)
+#define node_34                           lvar_bit(LVAR_Flags, node_34_bit)
+#define set_node_34                       set_lvar_bit_on(LVAR_Flags, node_34_bit)
+#define pissed                            lvar_bit(LVAR_Flags, pissed_bit)
+#define set_pissed                        set_lvar_bit_on(LVAR_Flags, pissed_bit)
+
+#define self_family                       family_wright
+
+variable prev_node := 0;
+import variable new_reno_orville_wright_obj;
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+procedure start begin
+   new_reno_orville_wright_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == tamper_safe_param) then begin
+      if (warned_safe) then begin
+         set_warning_on(warning_attack);
+      end else begin
+         call Node001;
+         set_warning_on(warning_safe);
+      end
+   end else if (fixed_param == attack_param) then begin
+      if (self_can_see_dude) then begin
+         call Node998;
+      end
+   end else if (combat_is_initialized == false) then begin
+      call Node003;
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure map_enter_p_proc begin
+variable the_obj;
+   if (is_loading_game == false) then begin
+      if (wright_dead) then begin
+         kill_critter(self_obj, random(ANIM_fall_back_blood_sf, ANIM_fall_front_blood_sf));
+      end else if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_WRIGHT);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+      end else if (global_var(GVAR_NEW_RENO_KILL_DADDY_WEAPON) != 0) then begin
+         set_wright_dead; //added by killap
+         the_obj := create_object(global_var(GVAR_NEW_RENO_KILL_DADDY_WEAPON), tile_num_in_direction(self_tile, random(0,5), 1), self_elevation);
+         kill_critter(self_obj, random(ANIM_fall_back_blood_sf, ANIM_fall_front_blood_sf));
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+   new_reno_orville_wright_obj := self_obj;
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if ((hostile) or (warned_attack)) then begin
+         self_attack_dude;
+      end else if (((dude_is_made_man) and (dude_family != family_wright)) or (wright_permission == false)) then begin
+         call Node002;
+         call Node998;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      attack_family(family_wright)
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   prev_node := 0;
+   start_gdialog(NAME,self_obj,4,-1,-1);
+   gSay_Start;
+      if (pissed) then begin
+         call Node006;
+      end else if (self_family == dude_family) then begin
+         call Node038;
+      end else if ((sad_assigned) or (sad_done)) then begin
+         call Node031;
+      end else if ((get_mystery_flag(MYSTERY_STATE_BAD_SOLVED)) or ((get_mystery_flag(MYSTERY_STATE_SOLVED)) and (sad_nothing))) then begin
+         call Node029;
+      end else if (get_mystery_flag(MYSTERY_STATE_ASSIGNED)) then begin
+         call Node018;
+      end else begin
+         call Node004;
+      end
+   gSay_End;
+   end_dialogue;
+   set_herebefore;
+   nr_add_timer_event_rand(self_obj, 10, 25, float_param);
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+   set_family_crushed(self_family)
+   set_wright_dead;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (examined) then begin
+      display_mstr_rand(151,152);
+   end else begin
+      display_mstr(150);
+   end
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   if (hostile == false) then begin
+      set_hostile;
+   end
+   attack_family(self_family) //added by killap
+end
+procedure Node999 begin
+end
+
+procedure Node990 begin
+   if (has_rep_slaver) then begin
+      call Node008;
+   end else begin
+      call Node009;
+   end
+end
+procedure Node989 begin
+   set_mystery_flag(MYSTERY_STATE_NOTHING);
+   call Node007;
+end
+procedure Node988 begin
+   inc_general_rep(REP_BONUS_NEW_RENO_PIN_WRONG_SUSPECT);
+   set_mystery_flag(MYSTERY_STATE_BAD_SOLVED);
+   display_mstr(775);
+   give_xp(EXP_NEW_RENO_BAD_SOLVE_MYSTERY);
+   if (jules_dead) then begin
+      call Node019;
+   end else begin
+      call Node020;
+   end
+   set_jules_dead;
+end
+procedure Node987 begin
+   inc_general_rep(REP_BONUS_NEW_RENO_PIN_WRONG_SUSPECT);
+   set_mystery_flag(MYSTERY_STATE_BAD_SOLVED);
+   display_mstr(775);
+   give_xp(EXP_NEW_RENO_BAD_SOLVE_MYSTERY);
+   if (jjj_dead) then begin
+      call Node019;
+   end else begin
+      call Node020;
+   end
+   set_jjj_dead;
+end
+procedure Node986 begin
+   inc_general_rep(REP_BONUS_NEW_RENO_PIN_WRONG_SUSPECT);
+   set_mystery_flag(MYSTERY_STATE_BAD_SOLVED);
+   display_mstr(775);
+   give_xp(EXP_NEW_RENO_BAD_SOLVE_MYSTERY);
+   if (renesco_dead) then begin
+      call Node019;
+   end else begin
+      call Node020;
+   end
+   set_renesco_dead;
+end
+procedure Node985 begin
+   inc_general_rep(REP_BONUS_NEW_RENO_PIN_WRONG_SUSPECT);
+   set_mystery_flag(MYSTERY_STATE_BAD_SOLVED);
+   display_mstr(775);
+   give_xp(EXP_NEW_RENO_BAD_SOLVE_MYSTERY);
+   if (lil_jesus_dead) then begin
+      call Node019;
+   end else begin
+      call Node020;
+   end
+   set_lil_jesus_dead;
+   set_family_warning_on(warning_attack, family_mordino);
+end
+procedure Node984 begin
+   inc_general_rep(REP_BONUS_NEW_RENO_TELL_POISONED);
+   call Node044;
+end
+procedure Node983 begin
+   inc_general_rep(REP_BONUS_NEW_RENO_TELL_POISONED);
+   off_renesco_dead;
+   call Node048;
+end
+procedure Node982 begin
+   setup_set_made_man_name(584, "Node035", family_wright)
+end
+procedure Node981 begin
+   if ((mrs_wright_destroyed_still) or (get_still_status(still_status_poisoned)) or (get_still_status(still_status_wrecked))) then begin
+      call Node040;
+   end else if (gave_gun) then begin
+      call Node041;
+   end else begin
+      call Node039;
+   end
+end
+procedure Node980 begin
+   display_mstr(800);
+   give_xp(EXP_MYSTERY_SOLVED);
+   call Node049;
+end
+procedure Node979 begin
+   force_sad_done;
+   call Node037;
+end
+
+procedure Node001 begin
+   floater_bad(200);
+end
+procedure Node002 begin
+   floater_bad_rand(210, 214);
+end
+procedure Node003 begin
+   floater_rand(220, 234);
+end
+procedure Node004 begin
+   Reply(mstr(240) + mstr(241 + has_rep_slaver));
+   BOption(mstr(243) + dude_name + mstr(5243), Node005, -003);
+   BOption(244, Node005, -003);
+   BOption(245, Node005, -003);
+   BOption(246, Node005, -003);
+   BOption(247, Node005, -003);
+   BOption(248, Node008, 004);
+   BOption(mstr(249) + dude_name + mstr(5249), Node990, 004);
+   BOption(250, Node007, 004);
+   prev_node := 4;
+end
+procedure Node005 begin
+   Reply(260);
+   BOption(mstr(243) + dude_name + mstr(5261), Node006, -003);
+   BOption(262, Node006, -003);
+   BOption(263, Node006, -003);
+   BOption(264, Node006, -003);
+   NOption(265, Node999, -003);
+   prev_node := 5;
+end
+procedure Node006 begin
+   Reply(mstr(275 + (prev_node != 0)) + mstr(277));
+   BOption(278, Node998, -003); // edit by killap - was NOption
+   if (check_general_rep >= 0) then begin
+      BOption(279, Node998, 004);
+   end else if (prev_node != 0) then begin
+      BOption(280, Node998, 004);
+   end
+   BOption(281, Node998, 004);
+   BOption(282, Node998, 001);
+   prev_node := 6;
+end
+procedure Node007 begin
+   if (node_7) then begin
+      Reply(291);
+      NOption(293, Node998, 001);
+      BOption(294, Node998, 001);
+   end else begin
+      Reply(290);
+      NOption(292, Node999, 001);
+      nr_add_timer_event(self_obj, 5, attack_param);
+      set_node_7;
+   end
+   prev_node := 7;
+end
+procedure Node008 begin
+   if (has_rep_slaver == false) then begin
+      Reply(300);
+      BOption(302, Node010, 004);
+      BOption(303, Node007, 004);
+   end else begin
+      set_pissed;
+      Reply(301);
+      BOption(304, Node006, 004);
+      BOption(305, Node007, 004);
+   end
+   prev_node := 8;
+end
+procedure Node009 begin
+   Reply(mstr(310) + dude_name + mstr(5310));
+   BOption(302, Node010, 004);
+   BOption(303, Node007, 004);
+   prev_node := 9;
+end
+procedure Node010 begin
+   Reply(mstr(320) + mstr(321 + dude_is_female));
+   NOption(323, Node011, 004);
+   BOption(324, Node001, 004);
+   prev_node := 10;
+end
+procedure Node011 begin
+   Reply(330);
+   NOption(331 + dude_is_female, Node012, 004);
+   prev_node := 11;
+end
+procedure Node012 begin
+   Reply(340);
+   NOption(341, Node013, 004);
+   BOption(342, Node013, 004);
+   prev_node := 12;
+end
+procedure Node013 begin
+   Reply(350);
+   BOption(351, Node014, 004);
+   NOption(352, Node015, 004);
+   BOption(353, Node007, 004);
+   prev_node := 13;
+end
+procedure Node014 begin
+   Reply(360);
+   BOption(361, Node006, 004);
+   NOption(362, Node015, 004);
+   BOption(353, Node007, 004);
+   prev_node := 14;
+end
+procedure Node015 begin
+   set_mystery_flag(MYSTERY_STATE_ASSIGNED);
+   Reply(370);
+   BOption(371, Node016, 004);
+   NOption(372, Node017, 004);
+   NOption(373, Node999, 004);
+   prev_node := 15;
+end
+procedure Node016 begin
+   Reply(380);
+   NOption(372, Node017, 004);
+   NOption(373, Node999, 004);
+   BOption(383, Node989, 004);
+   prev_node := 16;
+end
+procedure Node017 begin
+   Reply(390);
+   NOption(391, Node043, 006);
+   NOption(373, Node999, 004);
+   BOption(393, Node989, 004);
+   prev_node := 17;
+end
+procedure Node018 begin
+   Reply(400);
+   BOption(401, Node022, 004);
+   if (know_jules) then begin
+      NOption(402, Node988, 004);
+   end
+   if (know_jjj) then begin
+      NOption(403, Node987, 004);
+   end
+   if (know_renesco) then begin
+      NOption(404, Node986, 004);
+   end
+   if (know_lil_jesus) then begin
+      NOption(405, Node985, 004);
+   end
+   if ((jet_canister_poison) or (examined_body)) then begin
+      BOption(406, Node984, 004);
+   end
+   prev_node := 18;
+end
+procedure Node019 begin
+   Reply(415);
+   BOption(416, Node006, 004);
+   BOption(417, Node006, 004);
+   prev_node := 19;
+end
+procedure Node020 begin
+   Reply(425);
+   NOption(426, Node021, 004);
+   NOption(427, Node021, 004);
+   if (prev_node == 47) then begin
+      NOption(428, Node983, 004);
+   end
+   prev_node := 20;
+end
+procedure Node021 begin
+   if (prev_node == 20) then begin
+      Reply(mstr(435) + mstr(437));
+   end else begin
+      Reply(mstr(436) + mstr(437));
+      give_pid_qty(dude_obj, PID_SHOTGUN_SHELLS, 1)
+      item_caps_adjust(dude_obj, 100);
+   end
+   give_pid_qty(dude_obj, PID_SHOTGUN_SHELLS, 1)
+   give_pid_qty(dude_obj, PID_BOOZE, 2)
+   item_caps_adjust(dude_obj, 250);
+   NOption(438, Node024, 004);
+   NOption(439, Node028, 004);
+   prev_node := 21;
+end
+procedure Node022 begin
+   if (node_22) then begin
+      Reply(446);
+      BOption(279, Node998, 004);
+      if (has_rep_berserker) then begin
+         BOption(451, Node998, 004);
+      end
+      BOption(281, Node998, 004);
+      BOption(453, Node998, 001);
+   end else begin
+      set_node_22;
+      Reply(445);
+      NOption(447, Node999, 004);
+      BOption(448, Node022, 004);
+      BOption(449, Node022, 004);
+   end
+   prev_node := 22;
+end
+procedure Node024 begin
+   Reply(465);
+   NOption(466, Node030, -003);
+   NOption(dude_name + mstr(467) + dude_name + mstr(5467) + dude_name + mstr(6467), Node030, -003);
+   if (sad_got_in) then begin
+      if (sad_contaminated) then begin
+         BOption(472, Node979, 004);
+      end else begin
+         GOption(471, Node979, 004);
+      end
+   end else begin
+      NOption(468, Node030, 004);
+      NOption(469, Node025, 007);
+   end
+   NOption(470, Node999, 004);
+   prev_node := 24;
+end
+procedure Node025 begin
+   Reply(480);
+   NOption(481, Node026, 004);
+   prev_node := 25;
+end
+procedure Node026 begin
+   Reply(485);
+   BOption(486, Node027, 004);
+   NOption(487, Node030, 004);
+   BOption(488, Node028, 004);
+   prev_node := 26;
+end
+procedure Node027 begin
+   set_pritchard;
+   Reply(495);
+   NOption(496, Node030, 004);
+   NOption(497, Node028, 004);
+   prev_node := 27;
+end
+procedure Node028 begin
+   Reply(505);
+   NOption(506, Node999, 004);
+   prev_node := 28;
+end
+procedure Node029 begin
+   Reply(515);
+   NOption(516, Node024, 004);
+   NOption(517, Node028, 004);
+   prev_node := 29;
+end
+procedure Node030 begin
+   set_sad_assigned;
+   mark_sierra_army_base_on_map
+   Reply(525);
+   NOption(526, Node999, 004);
+   prev_node := 30;
+end
+procedure Node031 begin
+   if (node_31) then begin
+      Reply(536);
+      NOption(540, Node034, 004);
+   end else begin
+      Reply(535);
+      NOption(537, Node032, 004);
+   end
+   if (sad_contaminated) then begin
+      BOption(539, Node037, 004);
+   end else if (sad_got_in) then begin
+      GOption(538, Node037, 004);
+   end
+   BOption(541, Node999, 004);
+   set_node_31;
+   prev_node := 31;
+end
+procedure Node032 begin
+   Reply(550);
+   NOption(551, Node999, 004);
+   BOption(541, Node006, 004);
+   prev_node := 32;
+end
+procedure Node034 begin
+   if (node_34) then begin
+      Reply(561);
+      BOption(279, Node998, 004);
+      if (has_rep_berserker) then begin
+         BOption(280, Node998, 004);
+      end
+      BOption(281, Node998, 004);
+      BOption(453, Node998, 001);
+   end else begin
+      set_node_34;
+      Reply(560);
+      NOption(562, Node999, 004);
+      BOption(541, Node006, 004);
+   end
+   prev_node := 34;
+end
+procedure Node035 begin
+   display_mstr(825);
+   give_xp(EXP_NEW_RENO_MADE_MAN_WRIGHT);
+   Reply("" + made_man_name + mstr(575));
+   NOption(576, Node999, 001);
+   prev_node := 35;
+end
+procedure Node037 begin
+   if (sad_contaminated) then begin
+      set_pissed;
+      Reply(581);
+      NOption(583, Node999, 004);
+   end else begin
+      Reply(mstr(580) + dude_name + mstr(5580));
+      NOption(582, Node982, 004);
+   end
+   prev_node := 37;
+end
+procedure Node038 begin
+   Reply(mstr(590) + made_man_name + mstr(5590));
+   NOption(591, Node981, 004);
+   NOption(592, Node999, 004);
+   prev_node := 38;
+end
+procedure Node039 begin
+   Reply(600);
+   NOption(601, Node999, 004);
+   prev_node := 39;
+end
+procedure Node040 begin
+   if (mrs_wright_destroyed_still) then begin
+      Reply(610);
+      NOption(613, Node042, 004);
+   end else if (get_still_status(still_status_wrecked)) then begin
+      Reply(611);
+      NOption(614, Node042, 004);
+   end else begin
+      Reply(612);
+      NOption(615, Node042, 004);
+   end
+   prev_node := 40;
+end
+procedure Node041 begin
+   Reply(620);
+   NOption(621, Node042, 004);
+   prev_node := 41;
+end
+procedure Node042 begin
+   Reply(625);
+   NOption(626, Node999, 004);
+   prev_node := 42;
+end
+procedure Node043 begin
+   Reply(630);
+   NOption(373, Node999, 004);
+   BOption(393, Node989, 004);
+   prev_node := 43;
+end
+procedure Node044 begin
+   Reply(640);
+   if (examined_body) then begin
+      BOption(641, Node045, 004);
+   end
+   NOption(642 + (dude_has_empty_jet_canister == false), Node047, 004);
+   NOption(644, Node047, 004);
+   prev_node := 44;
+end
+procedure Node045 begin
+   Reply(650);
+   BOption(651, Node046, 004);
+   BOption(652, Node046, 004);
+   BOption(653, Node046, 004);
+   prev_node := 45;
+end
+procedure Node046 begin
+   Reply(mstr(660 + dude_is_female) + mstr(662));
+   BOption(663, Node998, 004);
+   BOption(664, Node998, 004);
+   BOption(665, Node998, 004);
+   prev_node := 46;
+end
+procedure Node047 begin
+   Reply(670);
+   if (know_scott) then begin
+      NOption(671, Node048, 004);
+      NOption(672, Node986, 004);
+   end
+   NOption(673, Node052, 004);
+   prev_node := 47;
+end
+procedure Node048 begin
+   Reply(680);
+   if ((know_mordino) and (know_salvatore) and (bishop_known)) then begin
+      NOption(681, Node980, 007);
+   end
+   NOption(682, Node049, 004);
+   prev_node := 48;
+end
+procedure Node049 begin
+   set_mystery_flag(MYSTERY_STATE_SOLVED);
+   Reply(690);
+   NOption(691, Node050, 004);
+   NOption(692, Node050, 004);
+   prev_node := 49;
+end
+procedure Node050 begin
+   Reply(700);
+   NOption(701, Node021, 004);
+   if (global_var(GVAR_SALVATORE_FAMILY_COUNTER) < 5) then begin
+      NOption(702, Node051, 004);
+   end
+   prev_node := 50;
+end
+procedure Node051 begin
+   Reply(710);
+   NOption(701, Node021, 004);
+   prev_node := 51;
+end
+procedure Node052 begin
+   Reply(720);
+   if (examined_body) then begin
+      BOption(721, Node045, 004);
+   end
+   NOption(722, Node022, 004);
+   prev_node := 52;
+end

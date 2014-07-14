@@ -1,0 +1,241 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Cave02
+        Location: Cave01 Random encounter map
+        Description: This is a cave random encounter
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: April 14, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_CAVE02
+
+#define mstr_cave1(x) message_str(SCRIPT_CAVE01, x)
+
+#include "..\headers\command.h"
+#include "..\headers\cvgenenc.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure map_exit_p_proc;
+
+procedure LoadCritters;
+procedure LoadCritterPos;
+procedure LoadChests;
+
+#define AREA_1 24065
+#define AREA_2 26067
+#define AREA_3 18890
+#define AREA_4 18112
+#define AREA_5 19710
+#define AREA_6 25497
+
+#define CHEST_1 18089
+#define CHEST_2 17314
+#define CHEST_3 27067
+
+variable Critter;
+variable Critter_Tile;
+
+procedure start begin
+end
+
+procedure map_exit_p_proc begin
+   if (not car_out_of_fuel) then begin
+      if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 0, PID_DRIVABLE_CAR) != 0 or
+          tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 1, PID_DRIVABLE_CAR) != 0 or
+          tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 2, PID_DRIVABLE_CAR) != 0) then begin
+         debug_msg("car_give_to_party");
+         set_global_var(GVAR_CAR_PLACED_TILE, 0);
+         car_give_to_party;
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   variable the_hex;
+   variable the_elev;
+
+   set_cur_exit;
+   if (not is_loading_game) then begin
+      call LoadCritters;
+
+      if (special_theif_encounter) then begin
+         call LoadChests;
+      end
+   end
+
+   if (cur_map_index == MAP_RND_CAVERN0) then begin
+       the_hex := CAR_RANDOM_MOUNTAIN_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CAVERN1) then begin
+       the_hex := CAR_RND_CAVE1_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CAVERN2) then begin
+       the_hex := CAR_RND_CAVE2_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CAVERN3) then begin
+       the_hex := CAR_RND_CAVE3_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CAVERN4) then begin
+       the_hex := CAR_RND_CAVE4_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CAVERN5) then begin
+       the_hex := CAR_RND_CAVE5_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   if (the_hex != 0) then begin
+      Check_Create_Car(the_hex, the_elev)
+   end else
+      debug_msg("DIDN'T HAVE MAP HEX FOR CAR, WE NEED TO CREATE ONE");
+
+   if (map_first_run) then begin
+      display_msg(mstr_cave1(100));
+   end
+   Cavern_Lighting;
+
+   if ((map_first_run) and (not(get_stranger_flag(STRANGER_DEAD))) and (random(0,99) < (30 + (2*dude_luck))) and ((has_trait(TRAIT_PERK,dude_obj,PERK_mysterious_stranger)))) then begin
+       if (not(get_stranger_flag(STRANGER_GENDER))) then begin
+           set_stranger_flag(STRANGER_GENDER);
+           debug_msg("Set the Stranger Gender");
+           if (random(0,99) < 50) then
+               set_stranger_flag(STRANGER_FEMALE);
+       end
+       if (get_stranger_flag(STRANGER_FEMALE)) then begin
+           if (dude_level > 26) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_FEMALE_21,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 22) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_FEMALE_16_20,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 18) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_FEMALE_11_15,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 14) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_FEMALE_5_10,0,0,SCRIPT_ECMSTSTR);
+           else
+               Critter:=create_object_sid(PID_MYSTERIOUS_STRANGER_FEMALE,0,0,SCRIPT_ECMSTSTR);
+       end
+       else begin
+           if (dude_level > 26) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_MALE_21,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 22) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_MALE_16_20,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 18) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_MALE_11_15,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 14) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_MALE_5_10,0,0,SCRIPT_ECMSTSTR);
+           else
+               Critter:=create_object_sid(PID_MYSTERIOUS_STRANGER_MALE,0,0,SCRIPT_ECMSTSTR);
+       end
+       Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),random(0,5),random(5,10));
+       critter_attempt_placement(Critter,Critter_Tile,elevation(dude_obj));
+   end
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+end
+
+procedure map_update_p_proc begin
+   //added by killap
+   if( elevation( dude_obj ) == 0 ) then
+      Lighting;
+   else
+   //end
+      Cavern_Lighting;
+end
+
+
+procedure Initial_Inven begin
+end
+
+procedure LoadCritters begin
+   call Choose_Encounter;
+   call LoadCritterPos;
+end
+
+#define AREABLK(area)                                         \
+   count := total_encounter_mobs;                             \
+   while (count > 0) do begin                                 \
+      call Choose_Pid;                                        \
+      call placeCritter(choose_enc_pid, choose_enc_sid, area);\
+      count -= 1;                                             \
+   end
+
+procedure LoadCritterPos begin
+   variable tile;
+   variable count;
+   variable obj;
+
+   AREABLK(AREA_1)
+   AREABLK(AREA_2)
+   AREABLK(AREA_3)
+   AREABLK(AREA_4)
+   AREABLK(AREA_5)
+   AREABLK(AREA_6)
+end
+
+procedure LoadChests begin
+   variable obj;
+
+   obj := create_object(PID_CHEST, CHEST_1, 1);
+   if (obj) then begin
+      if (Random(1, 2) == 1) then
+         add_mult_objs_to_inven(obj, create_object(PID_STIMPAK, CHEST_1, 1), Random(1, 5));
+      if (Random(1, 4) == 1) then
+         if (dude_level > 7) then
+            add_obj_to_inven(obj, create_object(PID_POWER_FIST, CHEST_1, 1));
+         else
+            add_obj_to_inven(obj, create_object(PID_CATTLE_PROD, CHEST_1, 1));
+      item_caps_adjust(obj, 20 * Random(1, dude_luck));
+   end
+
+   obj := create_object(PID_CHEST, CHEST_2, 1);
+   if (obj) then begin
+      if (Random(1, 2) == 1) then
+         add_mult_objs_to_inven(obj, create_object(PID_STIMPAK, CHEST_2, 1), Random(1, 5));
+      if (Random(1, 4) == 1) then
+         if (dude_level > 5) then
+            add_obj_to_inven(obj, create_object(PID_SUPER_SLEDGE, CHEST_2, 1));
+         else
+            add_obj_to_inven(obj, create_object(PID_HUNTING_RIFLE, CHEST_2, 1));
+      item_caps_adjust(obj, 20 * Random(dude_luck, dude_luck * dude_luck));
+   end
+
+   obj := create_object(PID_CHEST, CHEST_3, 1);
+   if (obj) then begin
+      if (Random(1, 2) == 1) then
+         if (dude_level < 7) then
+            add_mult_objs_to_inven(obj, create_object(PID_FRAG_GRENADE, CHEST_3, 1), Random(1, 5));
+         else
+            add_mult_objs_to_inven(obj, create_object(PID_PLASMA_GRENADE, CHEST_3, 1), Random(1, 5));
+
+      if (Random(1, 4) == 1) then
+         if (dude_level > 10) then
+            add_obj_to_inven(obj, create_object(PID_PLASMA_RIFLE, CHEST_3, 1));
+         else
+            add_obj_to_inven(obj, create_object(PID_HUNTING_RIFLE, CHEST_3, 1));
+      item_caps_adjust(obj, 20 * Random(dude_luck, dude_luck * dude_luck));
+   end
+end

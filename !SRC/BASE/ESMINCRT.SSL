@@ -1,0 +1,166 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Mine Cart
+        Description: This is a generic locked and trapped wooden door.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_ESMINCRT
+
+#include "..\headers\command.h"
+#include "..\headers\base.h"
+
+#define STRENGTH_BONUS                  (0)
+#define PLANK_PID                       PID_PLANK
+
+procedure start;
+procedure use_p_proc;
+procedure use_obj_on_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure damage_p_proc;
+
+#define LVAR_State                           (0)
+
+#define cart_state_none                      (0)
+#define cart_state_plank_only                (1)
+#define cart_state_plank_dynamite            (2)
+#define cart_state_plank_dynamite_armed      (3)
+
+#define change_cart_to_pid(the_pid, the_msg)       move_to(create_object_sid(the_pid, self_tile, self_elevation, NAME), self_tile, self_elevation);                          \
+                                                   if (the_msg != 0) then begin                                   \
+                                                      display_mstr(the_msg);                                      \
+                                                   end                                                            \
+                                                   destroy_object(self_obj)
+#define create_pid(the_pid, the_tile, the_elev)    move_to(create_object(the_pid, the_tile, the_elev), the_tile, self_elevation)
+#define make_destoyed_mining_cart(the_tile)        Scenery_Creation_Hex := the_tile;                                                                  \
+                                                   Blocking_Cycle(4 , 1, self_elevation)                                                              \
+                                                   Scenery_Creation_Hex := the_tile;                                                                  \
+                                                   Blocking_Cycle(5 , 1, self_elevation)                                                              \
+                                                   create_pid(PID_MINING_CART_DESTROYED, the_tile, self_elevation)
+#define create_pile_of_rocks                       create_pid(PID_MB_DESTROYED_ROCKS_1, 20475, self_elevation);      \
+                                                   create_pid(PID_MB_DESTROYED_ROCKS_2, 20674, self_elevation);      \
+                                                   create_pid(PID_MB_DESTROYED_ROCKS_3, 21875, self_elevation);      \
+                                                   create_pid(PID_MB_DESTROYED_ROCKS_4, 21678, self_elevation)
+
+import variable base_enterance_rocks;
+
+procedure start begin
+end
+
+
+procedure use_p_proc begin
+   script_overrides;
+   if (self_pid == PID_MINING_CART_EXPLOSIVE) then begin
+      if (is_success(do_check(source_obj,STAT_st,STRENGTH_BONUS))) then begin
+         gfade_out(ONE_GAME_SECOND);
+            set_base_opened;
+            // give xp
+            display_msg(mstr(107));
+            give_xp(EXP_MILITARY_BASE_OPEN_ENTERANCE);
+
+            // clear the path
+            remove_blocking_hex(21474, self_elevation);
+            remove_blocking_hex(21274, self_elevation);
+            remove_blocking_hex(21273, self_elevation);
+            remove_blocking_hex(21074, self_elevation);
+            remove_blocking_hex(21275, self_elevation);
+            remove_blocking_hex(21475, self_elevation);
+            remove_blocking_hex(21675, self_elevation);
+
+            if (tile_contains_obj_pid(self_tile, self_elevation, PID_ACTIVE_DYNAMITE)) then
+               move_to(tile_contains_pid_obj(self_tile, self_elevation, PID_ACTIVE_DYNAMITE), self_tile, 2);
+            if (tile_contains_obj_pid(self_tile, self_elevation, PID_ACTIVE_PLASTIC_EXPLOSIVE)) then
+               move_to(tile_contains_pid_obj(self_tile, self_elevation, PID_ACTIVE_PLASTIC_EXPLOSIVE), self_tile, 2);
+
+            // create destroyed mining cart
+            set_obj_visibility(self_obj, true);
+            make_destoyed_mining_cart(20877);
+
+            // create blown up rocks
+            set_obj_visibility(base_enterance_rocks, true);
+            explosion(tile_num(base_enterance_rocks), self_elevation, 500);
+            create_pile_of_rocks;
+            destroy_object(base_enterance_rocks);
+         gfade_in(ONE_GAME_SECOND);
+         destroy_object(self_obj);
+      end else begin
+         display_msg(mstr(106));
+      end
+   end else begin
+       display_msg(mstr(108));
+   end
+end
+
+procedure damage_p_proc begin
+   debug_msg("cart damage p proc");
+   if (self_pid == PID_MINING_CART_EXPLOSIVE) then begin
+      change_cart_to_pid(PID_MINING_CART_PLANK, 0);
+   end
+end
+
+procedure use_obj_on_p_proc begin
+variable Junkit;
+variable item;
+variable item_pid;
+variable usable_item := false;
+   item:=obj_being_used_with;
+   item_pid:=obj_pid(obj_being_used_with);
+   if (self_pid == PID_MINING_CART) then begin
+      if (item_pid == PLANK_PID) then begin
+         script_overrides;
+         Junkit:=rm_mult_objs_from_inven(source_obj,item,1);
+         destroy_object(item);
+         change_cart_to_pid(PID_MINING_CART_PLANK, 111);
+      end
+   end else if (self_pid == PID_MINING_CART_PLANK) then begin
+      if ((item_pid == PID_PLASTIC_EXPLOSIVES) or (item_pid == PID_DYNAMITE) or (item_pid == PID_ACTIVE_DYNAMITE) or (item_pid == PID_ACTIVE_PLASTIC_EXPLOSIVE)) then begin
+         script_overrides;
+         Junkit := rm_mult_objs_from_inven(source_obj, item, 1);
+         if ((item_pid == PID_ACTIVE_DYNAMITE) or (item_pid == PID_ACTIVE_PLASTIC_EXPLOSIVE)) then begin
+            move_to(item, self_tile, self_elevation);
+         end else begin
+            destroy_object(item);
+         end
+         change_cart_to_pid(PID_MINING_CART_EXPLOSIVE, 112);
+      end
+   end else begin
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (self_pid == PID_MINING_CART_EXPLOSIVE) then begin
+      display_mstr(104);
+   end else if (self_pid == PID_MINING_CART_PLANK) then begin
+      display_mstr(103);
+   end else begin
+      display_mstr(102);
+   end
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (self_pid == PID_MINING_CART_EXPLOSIVE) then begin
+      display_mstr(105);
+   end else if (self_pid == PID_MINING_CART_PLANK) then begin
+      display_mstr(103);
+   end else begin
+      display_mstr(110);
+   end
+end

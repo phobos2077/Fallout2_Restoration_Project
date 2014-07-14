@@ -1,0 +1,46 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+   Random Big Head Encounter fun..
+*/
+
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_RNDBHEAD
+
+#include "..\headers\command.h"
+#include "..\headers\rndbhead.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure start begin
+end
+
+procedure map_exit_p_proc begin
+   if (not car_out_of_fuel) then begin
+      if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 0, PID_DRIVABLE_CAR) != 0 or
+          tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 1, PID_DRIVABLE_CAR) != 0 or
+          tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 2, PID_DRIVABLE_CAR) != 0) then begin
+         debug_msg("car_give_to_party");
+         set_global_var(GVAR_CAR_PLACED_TILE, 0);
+         car_give_to_party;
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   Lighting;
+
+   set_global_var(GVAR_SPECIAL_ENCOUNTER_HEAD, 1);
+
+   Check_Create_Car(CAR_RND_BHEAD_HEX, CAR_RND_BHEAD_ELEV)
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+end

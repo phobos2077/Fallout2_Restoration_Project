@@ -1,0 +1,84 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCRNGGRL
+#define TOWN_REP_VAR         GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure destroy_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure map_update_p_proc;
+
+#define LVAR_Flags                        (0)
+#define LVAR_Home_Tile                    (1)
+
+import variable announcer_obj;
+import variable ring_girl_obj;
+import variable prize_fighter_obj;
+
+procedure start begin
+   ring_girl_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+end
+
+procedure map_enter_p_proc begin
+   ring_girl_obj := self_obj;
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_local_var(LVAR_Home_Tile, self_tile);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_BOXER);
+         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_LONER_CITIZEN);
+      end
+      check_set_obj_visiblility(self_obj, true);
+   end
+end
+
+procedure map_update_p_proc begin
+   ring_girl_obj := self_obj;
+end
+
+procedure critter_p_proc begin
+   if (anim_busy(self_obj) == false) then begin
+      if (self_tile != local_var(LVAR_Home_Tile)) then begin
+         animate_move_to_tile(local_var(LVAR_Home_Tile));
+      end else if (self_visible) then begin
+         // float round message
+         float_msg(self_obj, mstr(100) + global_var(GVAR_NEW_RENO_ROUND_NUMBER) + mstr(101), FLOAT_COLOR_NORMAL);
+         if (self_tile == 24672) then begin
+            set_local_var(LVAR_Home_Tile, 24678);
+         end else if (self_tile == 24678) then begin
+            set_local_var(LVAR_Home_Tile, 26078);
+         end else if (self_tile == 26078) then begin
+            set_local_var(LVAR_Home_Tile, 26072);
+         end else begin
+            set_local_var(LVAR_Home_Tile, 24672);
+         end
+      end
+   end
+end
+
+procedure destroy_p_proc begin
+   ring_girl_obj := 0;
+end

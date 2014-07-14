@@ -1,0 +1,513 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/****************************************************************
+        Fighting Mole Rats
+
+        Created: May 28, 1998
+
+        Updated:
+****************************************************************/
+
+#include "..\headers\define.h"
+#include "..\headers\RedMent.h"
+
+#define NAME                    SCRIPT_RCFITRAT
+
+#include "..\headers\command.h"
+
+#define min_damage(who)         (1)
+#define max_damage(who)         (get_critter_stat(who,STAT_melee_dmg))
+
+#define half_critter_dist(who1,who2)    (tile_distance_objs(who1,who2)/2)
+#define close_on(who1,who2)             Closing_Tile:=tile_num_in_direction(tile_num(who1),rotation_to_tile(tile_num(who1),tile_num(who2)),half_critter_dist(who1,who2)-1);        \
+                                        animate_move_obj_to_tile(who1,Closing_Tile,ANIMATE_RUN)
+
+#define sequence(who)           get_critter_stat(who,STAT_sequence)
+#define armour(who)             get_critter_stat(who,STAT_ac)
+#define max_ap(who)             get_critter_stat(who,STAT_max_move_points)
+#define max_hp(who)             get_critter_stat(who,STAT_max_hp)
+#define roll_to_hit(who1,who2)  roll_vs_skill(who1,SKILL_UNARMED_COMBAT,-armour(who2))
+
+// Fixed Params for Timed_Event
+#define MOVE_IN                 (0)
+#define CHECK_DISTANCE          (1)
+#define CHECK_FIGHT             (2)
+#define START_FIGHTER1          (3)
+#define START_FIGHTER2          (4)
+
+// Combat Point Costs
+#define AP_COST_ATTACK          (3)
+#define AP_COST_MOVE            (1)
+
+procedure start;
+procedure map_enter_p_proc;
+procedure critter_p_proc;
+procedure look_p_proc;
+procedure description_p_proc;
+procedure timed_event_p_proc;
+procedure destroy_p_proc;
+procedure map_update_p_proc;
+
+procedure Find_Rat_Num;
+procedure Find_Ptr;
+procedure Setup_Fighting;
+procedure Start_Fighting;
+procedure Attack_Round;
+procedure End_Fight(variable Combatant);
+procedure Fighter_Sequence(variable Combat1, variable Combat2);
+
+import variable Molerat_Ptr1;
+import variable Molerat_Ptr2;
+import variable Molerat_Ptr3;
+import variable Molerat_Ptr4;
+import variable Molerat_Ptr5;
+import variable Molerat_Ptr6;
+
+#define LVAR_Setup_Info         (0)
+#define LVAR_Rat_Number         (1)
+#define LVAR_Fight_Status       (2)
+#define LVAR_Fighter1_AP        (3)
+#define LVAR_Fighter2_AP        (4)
+#define LVAR_Current_Fighter    (5)
+#define LVAR_Fighter1_HP        (6)
+#define LVAR_Fighter2_HP        (7)
+
+#define FIGHT_INIT              (0)
+#define FIGHT_ON                (1)
+#define FIGHT_FINISHED          (2)
+
+variable Fighter1;
+variable Fighter2;
+variable Closing_Tile;
+variable RoundNumber;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_LONER);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_RAT);
+
+   if (local_var(LVAR_Setup_Info) == 0) then begin
+       set_local_var(LVAR_Setup_Info,1);
+       call Find_Rat_Num;
+   end
+
+   call Find_Ptr;
+end
+
+procedure map_update_p_proc begin
+   if (local_var(LVAR_Setup_Info) == 0) then begin
+       set_local_var(LVAR_Setup_Info,1);
+       call Find_Rat_Num;
+   end
+
+   call Find_Ptr;
+end
+
+procedure critter_p_proc begin
+   if ((map_var(MVAR_Rat_Fighter1) == 0) and (map_var(MVAR_Rat_Fighter2) == 0)) then
+       set_local_var(LVAR_Fight_Status,FIGHT_INIT);
+
+   if ((map_var(MVAR_Rat_Fighter1) != 0) and (map_var(MVAR_Rat_Fighter2) != 0) and (local_var(LVAR_Fight_Status) == FIGHT_INIT)) then begin
+       debug_msg("ECKAGA1: tile_set_center(21336): " + tile_set_center(21336)); //screen will recenter - added by killap
+       if (map_var(MVAR_Rat_Fighter1) == local_var(LVAR_Rat_Number)) then begin
+           set_local_var(LVAR_Fight_Status,FIGHT_ON);
+           call Setup_Fighting;
+       end
+       else if (map_var(MVAR_Rat_Fighter2) == local_var(LVAR_Rat_Number)) then begin
+           set_local_var(LVAR_Fight_Status,FIGHT_ON);
+           call Setup_Fighting;
+       end
+   end
+end
+
+procedure destroy_p_proc begin
+   debug_msg("Someone just died");
+
+   call End_Fight(self_obj);
+end
+
+procedure look_p_proc begin
+end
+
+procedure description_p_proc begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == MOVE_IN) then begin
+       close_on(Fighter1,Fighter2);
+       close_on(Fighter2,Fighter1);
+       add_timer_event(self_obj,game_ticks(1),CHECK_DISTANCE);
+       debug_msg("Adding Timer event");
+   end
+
+   else if (fixed_param == CHECK_DISTANCE) then begin
+       if (half_critter_dist(Fighter1,Fighter2) > 1) then
+           add_timer_event(self_obj,1,MOVE_IN);
+       else if ((Fighter1 != 0) or (Fighter2 != 0) or (local_var(LVAR_Fighter2_HP) > 0) or (local_var(LVAR_Fighter1_HP) > 0)) then
+           call Attack_Round;
+   end
+
+   else if (fixed_param == CHECK_FIGHT) then begin
+       if ((Fighter1 == 0) or (Fighter2 == 0) or (local_var(LVAR_Fighter2_HP) <= 0) or (local_var(LVAR_Fighter1_HP) <= 0)) then begin
+           set_local_var(LVAR_Fight_Status,FIGHT_FINISHED);
+           if (Fighter1 == 0) then
+               set_map_var(MVAR_Rat_Fighter1,0);
+           else
+               set_map_var(MVAR_Rat_Fighter2,0);
+       end
+       else begin
+           RoundNumber+=1;
+           debug_msg("Going to Next Round. Round "+RoundNumber);
+           call Attack_Round;
+       end
+   end
+
+   else if (fixed_param == START_FIGHTER2) then begin
+       call Fighter_Sequence(Fighter2,Fighter1);
+       add_timer_event(self_obj,game_ticks(4),CHECK_FIGHT);
+   end
+
+   else if (fixed_param == START_FIGHTER1) then begin
+       call Fighter_Sequence(Fighter1,Fighter2);
+       add_timer_event(self_obj,game_ticks(4),CHECK_FIGHT);
+   end
+end
+
+procedure Find_Rat_Num begin
+
+   if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_1) then
+       set_local_var(LVAR_Rat_Number,1);
+   else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_2) then
+       set_local_var(LVAR_Rat_Number,2);
+   else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_3) then
+       set_local_var(LVAR_Rat_Number,3);
+   else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_4) then
+       set_local_var(LVAR_Rat_Number,4);
+   else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_5) then
+       set_local_var(LVAR_Rat_Number,5);
+   else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_6) then
+       set_local_var(LVAR_Rat_Number,6);
+   else
+       debug_msg("Prototype "+obj_pid(self_obj)+" is trying to use RCFitRat script.");
+
+end
+
+procedure Find_Ptr begin
+   if (local_var(LVAR_Rat_Number) == 1) then
+       Molerat_Ptr1:=self_obj;
+   else if (local_var(LVAR_Rat_Number) == 2) then
+       Molerat_Ptr2:=self_obj;
+   else if (local_var(LVAR_Rat_Number) == 3) then
+       Molerat_Ptr3:=self_obj;
+   else if (local_var(LVAR_Rat_Number) == 4) then
+       Molerat_Ptr4:=self_obj;
+   else if (local_var(LVAR_Rat_Number) == 5) then
+       Molerat_Ptr5:=self_obj;
+   else if (local_var(LVAR_Rat_Number) == 6) then
+       Molerat_Ptr6:=self_obj;
+   else
+       debug_msg("ERROR: Local_var(LVAR_Rat_Number) has an invalid value.");
+end
+
+procedure Setup_Fighting begin
+   game_ui_disable; //added by killap
+   // Getting the Pointer to Fighter 1
+   if (map_var(MVAR_Rat_Fighter1) == 1) then
+       Fighter1:=Molerat_Ptr1;
+   else if (map_var(MVAR_Rat_Fighter1) == 2) then
+       Fighter1:=Molerat_Ptr2;
+   else if (map_var(MVAR_Rat_Fighter1) == 3) then
+       Fighter1:=Molerat_Ptr3;
+   else if (map_var(MVAR_Rat_Fighter1) == 4) then
+       Fighter1:=Molerat_Ptr4;
+   else if (map_var(MVAR_Rat_Fighter1) == 5) then
+       Fighter1:=Molerat_Ptr5;
+   else if (map_var(MVAR_Rat_Fighter1) == 6) then
+       Fighter1:=Molerat_Ptr6;
+   else
+       debug_msg("ERROR: Tried getting pointer to Fighter 1 Failed.");
+
+   // Getting the Pointer to Fighter 2
+   if (map_var(MVAR_Rat_Fighter2) == 1) then
+       Fighter2:=Molerat_Ptr1;
+   else if (map_var(MVAR_Rat_Fighter2) == 2) then
+       Fighter2:=Molerat_Ptr2;
+   else if (map_var(MVAR_Rat_Fighter2) == 3) then
+       Fighter2:=Molerat_Ptr3;
+   else if (map_var(MVAR_Rat_Fighter2) == 4) then
+       Fighter2:=Molerat_Ptr4;
+   else if (map_var(MVAR_Rat_Fighter2) == 5) then
+       Fighter2:=Molerat_Ptr5;
+   else if (map_var(MVAR_Rat_Fighter2) == 6) then
+       Fighter2:=Molerat_Ptr6;
+   else
+       debug_msg("ERROR: Tried getting pointer to Fighter 2 Failed.");
+
+   if ((Fighter1 == 0) or (Fighter2 == 0)) then begin
+       debug_msg("ERROR: A fighter is missing a pointer. Aborting Fight.");
+   end
+
+   else begin
+       call Start_Fighting;
+   end
+end
+
+procedure Start_Fighting begin
+
+   // Fighter1 will direct the entire fight
+   if (Fighter1 == self_obj) then begin
+       set_local_var(LVAR_Fighter1_HP,max_hp(Fighter1));
+       set_local_var(LVAR_Fighter2_HP,max_hp(Fighter2));
+
+       debug_msg("map_var(MVAR_Rat_Fighter1) == "+map_var(MVAR_Rat_Fighter1)+". map_var(MVAR_Rat_Fighter2) == "+map_var(MVAR_Rat_Fighter2));
+
+       add_timer_event(self_obj,game_ticks(1),MOVE_IN);
+   end                                                                  // End of if (Fighter1 == self_obj) then begin
+
+   else if (Fighter2 == self_obj) then begin
+        debug_msg("I am taking instructions from Fighter1");
+   end                                                                  // End of if (Fighter2 == self_obj) then begin
+
+   else begin
+       debug_msg("ERROR: I am fighting when I should not be.");
+   end                                                                  // End of else begin
+end
+
+procedure Attack_Round begin
+
+   set_local_var(LVAR_Fighter1_AP,max_ap(Fighter1));
+   set_local_var(LVAR_Fighter2_AP,max_ap(Fighter2));
+
+   if ((critter_state(Fighter1) == (CRITTER_IS_NORMAL BWOR DAM_CRIP_LEG_LEFT)) or
+       (critter_state(Fighter1) == (CRITTER_IS_NORMAL BWOR DAM_CRIP_LEG_RIGHT))) then begin
+       set_local_var(LVAR_Fighter1_AP,local_var(LVAR_Fighter1_AP)/2);
+   end
+
+   if ((critter_state(Fighter2) == (CRITTER_IS_NORMAL BWOR DAM_CRIP_LEG_LEFT)) or
+       (critter_state(Fighter2) == (CRITTER_IS_NORMAL BWOR DAM_CRIP_LEG_RIGHT))) then begin
+       set_local_var(LVAR_Fighter2_AP,local_var(LVAR_Fighter2_AP)/2);
+   end
+
+//   reg_anim_clear(Fighter1);
+//   reg_anim_clear(Fighter2);
+
+//   reg_anim_begin();
+
+   if (sequence(Fighter1) > sequence(Fighter2)) then begin
+       debug_msg("[SEQUENCE] Fighter 1 goes first.");
+       call Fighter_Sequence(Fighter1,Fighter2);
+       if ((Fighter2 != 0) and (map_var(MVAR_Rat_Fighter2) != 0)) then
+           add_timer_event(self_obj,game_ticks(2),START_FIGHTER2);
+//       call Fighter_Sequence(Fighter2,Fighter1);
+   end
+
+   else if (sequence(Fighter2) > sequence(Fighter1)) then begin
+       debug_msg("[SEQUENCE] Fighter 2 goes first.");
+       call Fighter_Sequence(Fighter2,Fighter1);
+       if (Fighter1 != 0) then
+       if ((Fighter1 != 0) and (map_var(MVAR_Rat_Fighter1) != 0)) then
+           add_timer_event(self_obj,game_ticks(2),START_FIGHTER1);
+//       call Fighter_Sequence(Fighter1,Fighter2);
+   end
+
+   else if (random(0,99) < 50) then begin
+       debug_msg("[RANDOM] Fighter 1 goes first.");
+       call Fighter_Sequence(Fighter1,Fighter2);
+       if (Fighter2 != 0) then
+       if ((Fighter2 != 0) and (map_var(MVAR_Rat_Fighter2) != 0)) then
+           add_timer_event(self_obj,game_ticks(2),START_FIGHTER2);
+//       call Fighter_Sequence(Fighter2,Fighter1);
+   end
+
+   else begin
+       debug_msg("[RANDOM] Fighter 2 goes first.");
+       call Fighter_Sequence(Fighter2,Fighter1);
+       if ((Fighter1 != 0) and (map_var(MVAR_Rat_Fighter1) != 0)) then
+           add_timer_event(self_obj,game_ticks(2),START_FIGHTER1);
+//       call Fighter_Sequence(Fighter1,Fighter2);
+   end
+
+//   reg_anim_end();
+
+end
+
+procedure Fighter_Sequence(variable Combat1, variable Combat2) begin
+   variable Critter_Distance;
+   variable Combat1_LVAR;
+   variable Combat1_HP;
+   variable Combat2_LVAR;
+   variable Combat2_HP;
+   variable Closest_Tile;
+   variable Roll;
+   variable Damage;
+
+   debug_msg("Starting Fighter Sequence");
+
+   if ((Combat1 != 0) and (Combat2 != 0) and (local_var(LVAR_Fighter1_HP) > 0) and (local_var(LVAR_Fighter2_HP) > 0)) then begin
+       if (Combat1 == Fighter1) then begin
+           Combat1_LVAR:=LVAR_Fighter1_AP;
+           Combat1_HP:=LVAR_Fighter1_HP;
+           Combat2_LVAR:=LVAR_Fighter2_AP;
+           Combat2_HP:=LVAR_Fighter2_HP;
+       end
+       else begin
+           Combat1_LVAR:=LVAR_Fighter2_AP;
+           Combat1_HP:=LVAR_Fighter2_HP;
+           Combat2_LVAR:=LVAR_Fighter1_AP;
+           Combat2_HP:=LVAR_Fighter1_HP;
+       end
+
+       reg_anim_clear(Fighter1);
+       reg_anim_clear(Fighter2);
+       reg_anim_begin();
+
+       while ((local_var(Combat1_LVAR) > 0) and (Fighter1 != 0) and (Fighter2 != 0)) do begin
+           debug_msg("Fighter "+Combat1_LVAR+" has "+local_var(Combat1_LVAR)+" AP Left. And has "+local_var(Combat1_HP)+" Hp left.");
+           Critter_Distance:=tile_distance_objs(Combat1,Combat2);
+
+           if ((Critter_Distance > 2) and (local_var(Combat1_LVAR) >= Critter_Distance)) then begin
+               close_on(Combat1,Combat2);
+               set_local_var(Combat1_LVAR,local_var(Combat1_LVAR)-Critter_Distance);
+               debug_msg("Moving to opponent. "+Combat1_LVAR);
+           end
+
+           else if (Critter_Distance > 2) then begin
+               Closest_Tile:=tile_num_in_direction(tile_num(Combat1),rotation_to_tile(tile_num(Combat1),tile_num(Combat2)),local_var(Combat1_LVAR));
+               animate_move_obj_to_tile(Combat1,Closest_Tile,-1);
+               set_local_var(Combat1_LVAR,0);
+               debug_msg("Moving In closer. "+Combat1_LVAR);
+           end
+
+           else if (local_var(Combat1_LVAR) >= AP_COST_ATTACK) then begin
+               debug_msg("Attempting to Hit. "+Combat1_LVAR);
+               Roll:=roll_to_hit(Combat1,Combat2);
+               anim(Combat1, ANIMATE_ROTATION,rotation_to_tile(tile_num(Combat1),tile_num(Combat2)));
+               reg_anim_animate(Combat1,ANIM_throw_punch,-1);
+               set_local_var(Combat1_LVAR,local_var(Combat1_LVAR)-AP_COST_ATTACK);
+               if (is_success(Roll)) then begin
+                   Damage:=random(min_damage(Combat1),max_damage(Combat1));
+                   if (skill_success(dude_obj,SKILL_GAMBLING,-30)) then
+                       Damage+=4;
+                   if (is_critical(Roll)) then begin
+                       debug_msg("Damage == "+Damage*2);
+//                       critter_damage(Combat2,(Damage*2));
+                       reg_anim_animate(Combat2,ANIM_hit_from_front,1);
+                       set_local_var(Combat2_HP,local_var(Combat2_HP)-(Damage*2));
+                       debug_msg("Critical Hit. "+Combat1_LVAR);
+                   end
+                   else begin
+                       debug_msg("Damage == "+Damage);
+//                       critter_damage(Combat2,Damage);
+                       reg_anim_animate(Combat2,ANIM_hit_from_front,1);
+                       set_local_var(Combat2_HP,local_var(Combat2_HP)-Damage);
+                       debug_msg("Hit. "+Combat1_LVAR);
+                   end
+               end
+               else if (is_critical(Roll)) then begin
+                   set_local_var(Combat1_LVAR,0);
+                   reg_anim_animate(Combat2,ANIM_dodge_anim,1);
+                   debug_msg("Critical Miss. "+Combat1_LVAR);
+               end
+               else begin
+                   reg_anim_animate(Combat2,ANIM_dodge_anim,1);
+                   debug_msg("Miss. "+Combat1_LVAR);
+               end
+           end
+
+           else begin
+               debug_msg("Moving Around. "+Combat1_LVAR);
+               Closest_Tile:=tile_num_in_direction(tile_num(Combat1),random(0,5),local_var(Combat1_LVAR));
+               animate_move_obj_to_tile(Combat1,Closest_Tile,0);
+               set_local_var(Combat1_LVAR,0);
+           end
+       end
+
+       if (local_var(Combat2_HP) <= 0) then begin
+           call End_Fight(Combat2);
+           display_msg(g_mstr(951));
+           reg_anim_animate(Combat1,ANIM_throw_punch,-1);
+           critter_damage(Combat2,max_hp(Combat2)*2);
+           display_msg(g_mstr(952));
+       end
+       reg_anim_end();
+   end
+end
+
+procedure End_Fight(variable Combatant) begin
+   game_ui_enable; //added by killap
+
+   debug_msg("map_var(MVAR_Rat_Fighter1) == "+map_var(MVAR_Rat_Fighter1)+". map_var(MVAR_Rat_Fighter2) == "+map_var(MVAR_Rat_Fighter2)+". local_var(LVAR_Rat_Number) == "+local_var(LVAR_Rat_Number));
+
+   set_local_var(LVAR_Fight_Status,FIGHT_INIT);
+
+   rm_timer_event(Fighter1);
+   rm_timer_event(Fighter2);
+
+   if (Combatant == Fighter1) then
+       Fighter1:=0;
+   else
+       Fighter2:=0;
+
+   if (Combatant == self_obj) then begin
+       if (map_var(MVAR_Rat_Fighter1) == local_var(LVAR_Rat_Number)) then begin
+           if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_1) then begin
+               Molerat_Ptr1:=0;
+               set_map_var(MVAR_Rat_Fighter1,0);
+           end
+           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_2) then begin
+               Molerat_Ptr2:=0;
+               set_map_var(MVAR_Rat_Fighter1,0);
+           end
+           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_3) then begin
+               Molerat_Ptr3:=0;
+               set_map_var(MVAR_Rat_Fighter1,0);
+           end
+           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_4) then begin
+               Molerat_Ptr4:=0;
+               set_map_var(MVAR_Rat_Fighter1,0);
+           end
+           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_5) then begin
+               Molerat_Ptr5:=0;
+               set_map_var(MVAR_Rat_Fighter1,0);
+           end
+           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_6) then begin
+               Molerat_Ptr6:=0;
+               set_map_var(MVAR_Rat_Fighter1,0);
+           end
+       end
+
+       else begin
+           if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_1) then begin
+               Molerat_Ptr1:=0;
+               set_map_var(MVAR_Rat_Fighter2,0);
+           end
+           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_2) then begin
+               Molerat_Ptr2:=0;
+               set_map_var(MVAR_Rat_Fighter2,0);
+           end
+           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_3) then begin
+               Molerat_Ptr3:=0;
+               set_map_var(MVAR_Rat_Fighter2,0);
+           end
+           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_4) then begin
+               Molerat_Ptr4:=0;
+               set_map_var(MVAR_Rat_Fighter2,0);
+           end
+           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_5) then begin
+               Molerat_Ptr5:=0;
+               set_map_var(MVAR_Rat_Fighter2,0);
+           end
+           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_6) then begin
+               Molerat_Ptr6:=0;
+               set_map_var(MVAR_Rat_Fighter2,0);
+           end
+       end
+   end
+
+   debug_msg("map_var(MVAR_Rat_Fighter1) == "+map_var(MVAR_Rat_Fighter1)+". map_var(MVAR_Rat_Fighter2) == "+map_var(MVAR_Rat_Fighter2)+". local_var(LVAR_Rat_Number) == "+local_var(LVAR_Rat_Number));
+
+end

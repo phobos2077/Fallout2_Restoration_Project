@@ -1,0 +1,809 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Phil the Bartender
+        Location: Broken Hills
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\broken.h"
+#include "..\headers\Broken1.h"
+
+#define NAME                    SCRIPT_HCPHIL
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure combat;
+
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node004a;
+procedure Node004b;
+procedure Node004c;
+procedure Node004d;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node015a;
+procedure Node015b;
+procedure Node016;
+procedure Node016a;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+//procedure Node027a; --comment out by killap
+procedure Node028;
+procedure Node029; //uncomment out by killap
+procedure Node030;
+procedure Node031;
+//procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+
+//added by killap
+procedure Node022a;
+procedure Node022b;
+procedure Node022c;
+//end added
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Name_Known                 (7)
+#define LVAR_Tip_Total                  (8)
+#define LVAR_Clue_Given                 (9)
+#define LVAR_Down_React_1               (10)
+#define LVAR_Down_React_2               (11)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+import variable Phil_Ptr;
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once := 0;
+variable Drink_Type := 0;
+variable Drink_Cost := 0;
+variable From_36 := 0;
+variable Tip_Type := 0;
+   
+procedure start begin
+   Phil_Ptr := self_obj;
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   Phil_Ptr := self_obj;
+end
+
+procedure map_update_p_proc begin
+   Phil_Ptr := self_obj;
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+       set_global_var(GVAR_ENEMY_BROKEN_HILLS,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_INTOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION3;
+
+   GetReaction;
+   ReactToLevel; //added by killap
+   
+   Drink_Type := 0;
+   Drink_Cost := 0;
+   From_36 := 0;
+   Tip_Type := 0;
+
+   if (local_var(LVAR_Personal_Enemy) == 1) then begin
+       call Node998;
+   end
+   else if ( ( dude_iq == 2 ) or ( dude_iq == 3 ) ) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+       //added by killap
+       if (local_var(LVAR_Herebefore) == 0) then begin
+         set_local_var(LVAR_Herebefore,1);
+         call Node001;
+       //end added
+       end else begin
+         call Node013;
+       end
+       gSay_End;
+       end_dialogue;
+   end
+   else if (dude_iq == 1) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+       //added by killap
+       if (local_var(LVAR_Herebefore) == 0) then begin
+         set_local_var(LVAR_Herebefore,1);
+         call Node001;
+       //end added
+       end else begin
+         call Node014;
+       end
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(GVAR_ENEMY_BROKEN_HILLS) == 1) then
+      call Node035;
+   else if (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node034;
+       gSay_End;
+       end_dialogue;
+   end
+   else if ( ( global_var(GVAR_BH_CHAD) == CHAD_ARRESTED ) or ( global_var(GVAR_BH_CHAD) == CHAD_KILLED ) ) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node033;
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node024;
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(GVAR_BH_JAIL) == JAIL_STEALTH) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node024;
+       gSay_End;
+       end_dialogue;
+   end
+   else if (global_var(GVAR_BH_JAIL) == JAIL_FORCE) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node024;
+       gSay_End;
+       end_dialogue;
+   end
+   else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+             if (local_var(LVAR_Herebefore) == 0) then begin
+                set_local_var(LVAR_Herebefore,1);
+                call Node001;
+             end
+             else begin
+                call Node020;
+             end
+       gSay_End;
+       end_dialogue;
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+   set_map_var( MVAR_Phil_Dead, 1 );
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if( local_var( LVAR_Herebefore ) == 0 ) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+procedure combat begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   Reply(103);
+
+   if( dude_iq == 1 ) then
+      NOption(104, Node002, 001);
+   if( ( dude_iq == 2 ) or ( dude_iq == 3 ) ) then
+      NOption( dude_name + mstr(105), Node003, 002);
+   NOption( dude_name + mstr(106), Node004, 004);
+   BOption(107,Node005,004);
+   NOption(108,Node006,004);
+end
+
+procedure Node001a begin
+   DownReactMinor;
+   call Node005;
+end
+
+procedure Node002 begin
+   variable item;
+
+   item:=create_object(PID_NUKA_COLA,0,0);
+   add_obj_to_inven(dude_obj,item);
+   Reply(109);
+   NLowOption(110,Node999);
+end
+
+procedure Node003 begin
+   set_local_var(LVAR_Name_Known,1);
+   Reply(dude_name + mstr(111));
+   NLowOption(112,Node007);
+   NLowOption(113,Node008);
+end
+
+procedure Node004 begin
+   set_local_var(LVAR_Name_Known,1);
+   Reply(mstr(302) + dude_name + mstr(114));
+   NOption(115,Node004a,004); //Drinktype=NukaCola
+   NOption(116,Node004b,004); //Drinktype=Beer
+   NOption(117,Node004c,004); //Drinktype=Rotgut
+   BOption(118,Node004d,004); //Drinktype=Nothing
+   NOption(119,Node999,004);
+end
+
+procedure Node004a begin
+   Drink_Type := PID_NUKA_COLA;
+   Drink_Cost := 2;
+   call Node015;
+end
+
+procedure Node004b begin
+   Drink_Type := PID_BEER;
+   Drink_Cost := 4;
+   call Node015;
+end
+
+procedure Node004c begin
+   Drink_Type := PID_ROT_GUT;
+   Drink_Cost := 5;
+   call Node015;
+end
+
+procedure Node004d begin
+   Drink_Type := 0;
+   call Node016;
+end
+
+procedure Node005 begin
+   Reply(120);
+   NOption(115,Node004a,004); //Drinktype=NukaCola
+   NOption(116,Node004b,004); //Drinktype=Beer
+   NOption(117,Node004c,004); //Drinktype=Rotgut
+   BOption(118,Node004d,004); //Drinktype=Nothing
+   NOption(119,Node999,004);
+end
+
+procedure Node006 begin
+   Reply(126);
+   NOption(115,Node004a,004); //Drinktype=NukaCola
+   NOption(116,Node004b,004); //Drinktype=Beer
+   NOption(117,Node004c,004); //Drinktype=Rotgut
+   BOption(118,Node004d,004); //Drinktype=Nothing
+   NOption(119,Node999,004);
+end
+
+procedure Node007 begin
+   Reply(132);
+   NLowOption(133,Node009);
+   NLowOption(134,Node010);
+   NLowOption(135,Node011);
+end
+
+procedure Node008 begin
+   Reply(136);
+   NLowOption(137,Node999);
+end
+
+procedure Node009 begin
+   Drink_Type := PID_BEER;
+   Drink_Cost := 4;
+
+   Reply(138);
+
+   if (item_caps_total(dude_obj) >= 4) then
+      NLowOption(139,Node012);
+   else
+      NLowOption(140,Node013);
+end
+
+procedure Node010 begin
+   Drink_Type := PID_ROT_GUT;
+   Drink_Cost := 6;
+
+   if dude_is_male then
+      Reply(141); //Drink$=$6,Drinktype=Rotgut
+   else
+      Reply(142);
+
+   if (item_caps_total(dude_obj) >= 6) then
+      NLowOption(139,Node012);
+   else
+      NLowOption(140,Node013);
+end
+
+procedure Node011 begin
+   Drink_Type := PID_NUKA_COLA;
+   Drink_Cost := 2;
+
+   Reply(145);
+
+   if (item_caps_total(dude_obj) >= 2) then
+      NLowOption(139,Node012);
+   else
+      NLowOption(140,Node013);
+end
+
+procedure Node012 begin
+   variable item;
+
+   //remove Drink$ from inven and add Drinktype
+   item_caps_adjust( dude_obj, -Drink_Cost );
+   item := create_object( Drink_Type, 0, 0 );
+   add_obj_to_inven( dude_obj, item );
+
+   Reply(mstr(303) + dude_name + mstr(148));
+   NLowOption(149,Node999);
+end
+
+procedure Node013 begin
+   Reply(mstr(304) + dude_name + mstr(150));
+   NLowOption(151,Node007);
+   NLowOption(152,Node008);
+end
+
+procedure Node014 begin
+   Reply(153);
+   NLowOption(154,Node999);
+end
+
+procedure Node015 begin
+   if( Drink_Type == PID_NUKA_COLA ) then
+      Reply(155);
+   else if( Drink_Type == PID_BEER ) then
+      Reply(156);
+   else if( Drink_Type == PID_ROT_GUT ) then
+      Reply(157);
+
+   if( item_caps_total( dude_obj ) >= Drink_Cost ) then
+      NOption(158, Node018, 004);
+   if( item_caps_total( dude_obj ) >= Drink_Cost + 1 ) then
+      GOption(159, Node015a, 004);
+   if( item_caps_total( dude_obj ) >= Drink_Cost + 2 ) then
+      GOption(160, Node015b, 004);
+   NOption(161, Node019, 004);
+end
+
+procedure Node015a begin
+   variable val;
+
+   val := local_var( LVAR_Tip_Total );
+   set_local_var( LVAR_Tip_Total, val + 1 );
+
+   Tip_Type := 1;
+   if( ( local_var( LVAR_Tip_Total ) >= 20 ) and ( local_var( LVAR_Clue_Given ) == 0 ) ) then
+      call Node036;
+   else
+      call Node018;
+end
+
+procedure Node015b begin
+   variable val;
+
+   val := local_var( LVAR_Tip_Total );
+   set_local_var( LVAR_Tip_Total, val + 2 );
+
+   Tip_Type := 2;
+   if( ( local_var( LVAR_Tip_Total ) >= 20 ) and ( local_var( LVAR_Clue_Given ) == 0 ) ) then
+      call Node036;
+   else
+      call Node018;
+end
+
+procedure Node016 begin
+   Reply(162);
+   NOption(115,Node004a,004); //Drinktype=NukaCola
+   NOption(116,Node004b,004); //Drinktype=Beer
+   NOption(117,Node004c,004); //Drinktype=Rotgut
+   BOption(118,Node016a,004); //Drinktype=Nothing
+   NOption(167,Node999,004);
+end
+
+procedure Node016a begin
+   Drink_Type := 0;
+   call Node017;
+end
+
+procedure Node017 begin
+   Reply(168);
+   NOption(115,Node004a,004); //Drinktype=NukaCola
+   NOption(116,Node004b,004); //Drinktype=Beer
+   NOption(117,Node004c,004); //Drinktype=Rotgut
+   BOption(118,Node999,004); //reaction down small
+   BOption(173,Node999,004); //reaction down med
+end
+
+procedure Node017a begin
+   if( local_var( LVAR_Down_React_1 ) == 0 ) then begin
+      set_local_var( LVAR_Down_React_1, 1 );
+      DownReactMinor;
+   end
+end
+
+procedure Node017b begin
+   if( local_var( LVAR_Down_React_2 ) == 0 ) then begin
+      set_local_var( LVAR_Down_React_2, 1 );
+      DownReactModerate;
+   end
+end
+
+procedure Node018 begin
+   variable item;
+
+   // Give the drink to the player. Remove cash.
+   item := create_object( Drink_Type, 0, 0 );
+   add_obj_to_inven( dude_obj, item );
+   item_caps_adjust( dude_obj, -(Drink_Cost + Tip_Type) ); //aded Tip_Type - killap
+
+   if( From_36 == 1 ) then begin
+      From_36 := 0;
+      Reply(307);
+   end
+   else if( Tip_Type == 0 ) then begin
+      Reply(174);
+   end
+   else if( Tip_Type == 1 ) then begin
+      Reply(175);
+   end
+   else if( Tip_Type == 2 ) then begin
+      Reply(176);
+   end
+   Tip_Type := 0;
+
+   NOption(177, Node021, 004);
+   NOption(178, Node022, 004);
+   NOption(179, Node023, 004);
+   NOption(180, Node024, 004);
+   NOption(181, Node999, 004);
+end
+
+procedure Node019 begin
+   Reply(182);
+   NOption(183,Node999,004);
+end
+
+procedure Node020 begin
+   if( good_critter_reaction ) then
+      Reply(185);
+   else if( neutral_critter_reaction ) then
+      Reply(186);
+   else
+      Reply(187);
+
+   NOption(115,Node004a,004);
+   NOption(116,Node004b,004);
+   NOption(117,Node004c,004);
+   BOption(118,Node016,004);
+   NOption(193,Node999,004);
+end
+
+procedure Node021 begin
+   Reply(194);
+   NOption(115,Node004a,004);
+   NOption(116,Node004b,004);
+   NOption(117,Node004c,004);
+end
+
+procedure Node022 begin
+   Reply(198);
+   
+   NOption(202,Node022a,004);
+   
+   //NOption(199,Node031,004);
+   //NOption(200,Node999,004);
+end
+
+//added by killap
+procedure NOde022a begin
+   if ( (global_var(GVAR_BH_JAIL) < JAIL_STEALTH) ) then begin
+      Reply(1981);
+      NOption(1984,Node022b,004);
+      NOption(199,Node031,004);
+      NOption(200,Node999,004);
+   end else begin
+      call Node022b;
+   end
+end
+
+procedure Node022b begin
+   if( global_var( GVAR_BH_MINE ) < MINE_FIXED_CASH ) then begin
+      Reply(1982);
+      NOption(1984,Node022c,004);
+      NOption(199,Node031,004);
+      NOption(200,Node999,004);
+   end else begin
+      call Node022c;
+   end
+end
+
+procedure Node022c begin
+   Reply(1983);
+   NOption(199,Node031,004);
+   NOption(200,Node999,004);
+end
+//end added
+
+procedure Node023 begin
+   Reply(201);
+   NOption(202, Node025, 004);
+end
+
+procedure Node024 begin
+   if (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL) then
+      Reply(204);
+   else if ( (global_var(GVAR_BH_JAIL) == JAIL_STEALTH) or (global_var(GVAR_BH_JAIL) == JAIL_FORCE) ) then
+      Reply(203);
+   else if (global_var(GVAR_BH_FTM) == FTM_SUCCESSFUL) then
+      Reply(205);
+   else
+      Reply(206);
+
+   NOption(207,Node031,004);
+   NOption(208,Node999,004);
+end
+
+procedure Node025 begin
+   //added - ( ( global_var( GVAR_BH_CONSPIRACY ) != CONSPIRACY_SUCCESSFUL ) and ( global_var( GVAR_BH_FTM ) != FTM_SUCCESSFUL ) ) - killap
+   if ( ( global_var(GVAR_BH_MIGHTY_MAN) < MIGHTY_MAN_WON ) and
+      ( ( global_var( GVAR_BH_CONSPIRACY ) != CONSPIRACY_SUCCESSFUL ) and 
+      ( global_var( GVAR_BH_FTM ) != FTM_SUCCESSFUL ) ) ) then begin
+      if( global_var(GVAR_BH_MIGHTY_MAN) == 0 ) then
+         set_global_var(GVAR_BH_MIGHTY_MAN, MIGHTY_MAN_KNOWN);
+      Reply(209);
+      NOption(210,Node026,004);
+      NOption(211,Node999,004);
+   end else begin
+      call Node026;
+   end
+end
+
+procedure Node026 begin
+   if( global_var(GVAR_BH_MISSING) < MISSING_FINISHED_CASH ) then begin
+      Reply(212);
+      NOption(213,Node027,004);
+      NOption(214,Node999,004);
+   end else begin
+      call Node027;
+   end
+end
+
+procedure Node027 begin
+   if ( global_var( GVAR_BH_CONSPIRACY ) >= CONSPIRACY_SUCCESSFUL ) then begin
+      call Node029;
+   end else if ( global_var( GVAR_BH_MINE ) < MINE_FIXED_CASH ) then begin
+      if( global_var( GVAR_BH_MINE ) == 0 ) then
+         set_global_var(GVAR_BH_MINE, MINE_KNOWN);
+      Reply(215);
+      NOption(216,Node029,004); //edit by killap - was 027a
+      NOption(217,Node999,004);
+   end else begin
+      call Node028;
+   end
+end
+
+/*procedure Node027a begin --comment out by killap
+   if( ( global_var(GVAR_BH_MINE) == MINE_FIXED_CASH ) or
+       ( global_var(GVAR_BH_MINE) == MINE_FIXED_FREE ) or
+       ( global_var(GVAR_BH_MINE) == MINE_REWARDED ) ) then
+      call Node028;
+   else
+      call Node030;
+end*/
+
+procedure Node028 begin
+   Reply(218);
+   NOption(219,Node029,004);
+   NOption(220,Node999,004);
+end
+
+//added by killap
+
+procedure Node029 begin
+   if ( (global_var(GVAR_BH_JAIL) == JAIL_STEALTH) or (global_var(GVAR_BH_JAIL) == JAIL_FORCE) or (global_var(GVAR_BH_JAIL) == JAIL_CHARISMA) ) then begin
+      Reply(221);
+      NOption(222,Node030,004);
+      NOption(223,Node999,004);
+   end else begin
+      call Node030;
+   end
+end
+//end added
+
+procedure Node030 begin
+   Reply(224);
+   NOption(225,Node031,004);
+   NOption(226,Node999,004);
+end
+
+procedure Node031 begin
+   Reply(227);
+   NOption(228,Node021,004);
+   NOption(229,Node022,004);
+   NOption(230,Node023,004);
+   NOption(231,Node024,004);
+   NOption(232,Node999,004);
+end
+
+procedure Node033 begin
+   Reply(236);
+   NOption(237,Node021,004);
+   NOption(238,Node031,004);
+end
+
+procedure Node034 begin
+   Reply(239);
+   NOption(240,Node021,004);
+   NOption(241,Node031,004);
+end
+
+procedure Node035 begin
+   floater(242);
+end
+
+procedure Node036 begin
+   item_caps_adjust( dude_obj, -(Drink_Cost + Tip_Type) ); //aded by killap
+   From_36 := 1;
+   set_local_var( LVAR_Clue_Given, 1 );
+   set_map_var( MVAR_Phil_Told_About_Guns, 1 );
+   set_map_var( MVAR_Know_Liz_Guns, 1 );
+   Reply(308);
+
+   NOption(309, Node018, 004);
+end
+
+//XXXXXXXXXXXXXXXXXX

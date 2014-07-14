@@ -1,0 +1,233 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Modoc Coop Death Claw
+        Location: Modoc
+        Description: Generic Lesser Death Claw.
+
+        Log:
+
+           Created: December 02, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+#include "..\headers\ModInn.h"
+
+#define NAME                    SCRIPT_MCDTHCLW
+
+#include "..\headers\command.h"
+#include "..\headers\Modoc.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure combat_p_proc;
+
+#define LVAR_Maps_Killed                        (4)
+#define LVAR_TEAM                               (5)
+#define LVAR_FOLLOW_DISTANCE                    (6)
+#define LVAR_WAITING                            (7)
+
+#define kill_map_main                           bit_1
+#define kill_map_inn                            bit_2
+#define kill_map_brah                           bit_3
+#define kill_map_gard                           bit_4
+#define attack_dogs_bit                         bit_5
+
+#define map_index_to_bit                        (((cur_map_index == MAP_MODOC_MAINSTREET) * kill_map_main) +      \
+                                                 ((cur_map_index == MAP_MODOC_BEDNBREAKFAST) * kill_map_inn) +    \
+                                                 ((cur_map_index == MAP_MODOC_BRAHMINPASTURES) * kill_map_brah) + \
+                                                 ((cur_map_index == MAP_MODOC_GARDEN) * kill_map_gard))
+
+#define chicken_in_coup                         (tile_in_cage_area(self_tile) and (cur_map_index == MAP_MODOC_BEDNBREAKFAST))
+#define chicken_escaped                         (chicken_in_coup == false)
+#define chicken_in_party                        (Chicken_In_Party)
+#define killed_all_maps                         ((killed_map(kill_map_main)) and (killed_map(kill_map_inn)) and (killed_map(kill_map_brah)) and (killed_map(kill_map_gard)))
+#define killed_map(x)                           (lvar_bit(LVAR_Maps_Killed, x))
+#define set_killed_map(x)                       set_lvar_bit_on(LVAR_Maps_Killed, x)
+#define check_attacking_dogs                    if (lvar_bit(LVAR_Maps_Killed, attack_dogs_bit) == false) then begin    \
+                                                   set_lvar_bit_on(LVAR_Maps_Killed, attack_dogs_bit);                  \
+                                                   if (dog_that_can_see_dude != 0) then begin                           \
+                                                      if (obj_can_see_obj(self_obj, dog_that_can_see_dude)) then begin  \
+                                                         set_lvar_bit_on(LVAR_Maps_Killed, attack_dogs_bit);            \
+                                                         attack(dog_that_can_see_dude);                                 \
+                                                      end                                                               \
+                                                   end                                                                  \
+                                                end
+
+import variable cage_door_obj;
+import variable coup_door_obj;
+import variable modoc_death_claw_obj;
+import variable dog_that_can_see_dude;
+
+/* Local variables which do not need to be saved between map changes. */
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+variable temp_tile;
+   if (fixed_param == 999) then begin
+      if (did_chicken_message == false) then begin
+         set_chicken_message;
+         display_mstr(110);
+      end
+   end else if (chicken_escaped == false) then begin
+      if (self_visible) then begin
+         set_chicken_let_out_off;
+         if (tile_in_coup_area(self_tile)) then begin
+            if (coup_door_obj == 0) then begin
+               animate_move_to_tile(death_claw_cage_tile);
+            end else if (obj_is_open(coup_door_obj)) then begin
+               animate_move_to_tile(death_claw_cage_tile);
+            end else if (anim_busy(self_obj) == false) then begin
+               temp_tile := tile_num_in_direction(self_tile, random(0,5), random(3,10));
+               if (tile_in_coup_area(temp_tile)) then begin
+                  animate_move_to_tile(temp_tile);
+               end
+            end
+         end else begin
+            if (cage_door_obj == 0) then begin
+               animate_move_to_tile(death_claw_escape_tile);
+            end else if (obj_is_open(cage_door_obj)) then begin
+               animate_move_to_tile(death_claw_escape_tile);
+            end else if (anim_busy(self_obj) == false) then begin
+               temp_tile := tile_num_in_direction(self_tile, random(0,5), random(3,10));
+               if ((tile_in_cage_area(temp_tile)) and (tile_in_coup_area(temp_tile) == false)) then begin
+                  animate_move_to_tile(temp_tile);
+               end
+            end
+         end
+      end
+      add_timer_event(self_obj,game_ticks(random(5,15)),2);
+   end else begin
+      set_chicken_let_out_on;
+   end
+end
+
+procedure combat_p_proc begin
+   if (chicken_set_1st_visible == false) then begin
+      if ((obj_is_open(coup_door_obj)) or (coup_door_obj == 0) or (self_can_see_dude)) then begin
+         check_set_obj_visiblility(self_obj, false);
+         self_attack_dude;
+         set_chicken_1st_visible;
+      end
+   end
+   check_attacking_dogs
+end
+
+procedure critter_p_proc begin
+   if (chicken_set_1st_visible == false) then begin
+      if ((obj_is_open(coup_door_obj)) or (coup_door_obj == 0) or (self_can_see_dude)) then begin
+         self_attack_dude;
+         check_set_obj_visiblility(self_obj, false);
+         set_chicken_1st_visible;
+      end
+   end
+
+   if (self_visible) then begin
+      check_attacking_dogs
+      if (self_can_see_dude) then begin
+         self_attack_dude;
+      end if (chicken_escaped) then begin
+         Follow_Dude(1,1)
+      end
+   end
+end
+
+procedure destroy_p_proc begin
+   set_chicken_dead;
+end
+
+procedure damage_p_proc begin
+end
+
+procedure look_at_p_proc begin
+end
+
+procedure description_p_proc begin
+   if (dude_met_rose) then begin
+      script_overrides;
+      display_mstr(100);
+   end
+end
+
+procedure use_obj_on_p_proc begin
+end
+
+procedure use_skill_on_p_proc begin
+   if (action_being_used == SKILL_STEAL) then script_overrides;
+end
+
+procedure map_enter_p_proc begin
+variable temp;
+
+   if (cur_map_index == MAP_MODOC_BEDNBREAKFAST) then begin
+      modoc_death_claw_obj := self_obj;
+   end
+   if (is_loading_game == false) then begin
+      flush_add_timer_event_sec(self_obj, random(0, 45), 2);
+      if (chicken_escaped) then begin
+         debug_msg("chicken_escaped");
+         if (is_killable_map) then begin
+            debug_msg("  is_killable_map");
+            temp := map_index_to_bit;
+            if (killed_map(temp) == false) then begin
+               do_kill_everyone_on_map;
+               set_killed_map(temp);
+               check_set_obj_visiblility(self_obj,false);
+            end else if (Chicken_In_Party) then begin
+               set_self_abandon_party;
+               check_set_obj_visiblility(self_obj, true);
+               critter_attempt_placement(self_obj, map_to_death_claw_wait_tile, dude_elevation);
+            end
+         end
+      end
+   end
+   if (map_first_run) then begin
+      check_set_obj_visiblility(self_obj,true);
+   end
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEATH_CLAW);
+   match_dude_elevation;
+end
+
+procedure map_exit_p_proc begin
+   if (chicken_escaped == false) then begin
+      if (tile_in_coup_area(self_tile)) then begin
+         if (coup_door_obj == 0) then begin
+            move_to(self_obj, death_claw_cage_tile, 0);
+         end else if (obj_is_open(coup_door_obj)) then begin
+            move_to(self_obj, death_claw_cage_tile, 0);
+         end
+      end
+      // must keep seperate since the other can move him out of the coup
+      if (tile_in_coup_area(self_tile) == false) then begin
+         kill_critter_type(PID_DOG, random(ANIM_fall_back_blood_sf, ANIM_fall_front_blood_sf));
+         if (cage_door_obj == 0) then begin
+            move_to(self_obj, death_claw_escape_tile, 0);
+         end else if (obj_is_open(cage_door_obj)) then begin
+            move_to(self_obj, death_claw_escape_tile, 0);
+         end
+      end
+   end
+   if ((chicken_escaped) and (killed_all_maps == false)) then begin
+      if (is_killable_map) then begin
+         if (killed_map(map_index_to_bit)) then begin
+            debug_msg("telling chicken to join party");
+            party_add_self;
+         end
+      end
+   end
+end

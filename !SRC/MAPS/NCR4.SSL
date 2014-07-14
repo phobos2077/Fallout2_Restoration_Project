@@ -1,0 +1,70 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Ncr map 4
+        Location: NCR
+        Description: This is the Map Script for the Ncr map 4
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: April 14, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\ncr4.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_NCR4
+
+#include "..\headers\command.h"
+
+export variable cBraObj;
+export variable tBrahmn := 0;
+export variable numDeathClaws := 0;
+export variable i_deathclaw_1 := 0;
+export variable i_deathclaw_2 := 0;
+
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure Initial_Inven;
+
+procedure start begin
+   cBraObj := -1;
+   numDeathClaws := -1;
+end
+
+procedure map_enter_p_proc begin
+   if (fixed_param == 1) then begin
+      override_map_start_hex(18479,0,3);
+   end
+   if (map_first_run) then begin
+   end
+   Lighting;
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+end
+
+
+procedure Initial_Inven begin
+end

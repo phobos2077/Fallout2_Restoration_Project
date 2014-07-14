@@ -1,0 +1,8 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+#define LOCKED_STATUS                   STATE_ACTIVE
+
+#include "..\generic\ziMtlDor.ssl"
+#include "..\headers\NewReno.h"

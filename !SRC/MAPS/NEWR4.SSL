@@ -1,0 +1,57 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: NewR4
+        Location: New Reno
+        Description: East Side
+
+        Log:
+
+           Created: April 27, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\NewR4.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_NEWR4
+
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+#define newr4_lighting                    if (dude_elevation == 1) then begin       \
+                                             set_went_to_still_map;                 \
+                                             Basement_Lighting;                     \
+                                          end else                                  \
+                                             Lighting
+
+export variable new_reno_orville_wright_obj;
+export variable new_reno_ethyl_wright_box;
+export variable new_reno_wright_teen_obj;
+export variable wright_child_playing_obj;
+export variable new_reno_temp_box;
+export variable new_reno_keith_wright_obj;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   set_map_exit_tiles(17546, 0);
+
+   Check_Create_Car(CAR_NEW_RENO4_HEX, CAR_NEW_RENO_ELEV)
+
+   newr4_lighting;
+end
+
+procedure map_update_p_proc begin
+   newr4_lighting;
+end

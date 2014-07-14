@@ -1,0 +1,85 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Ghost Farm Props
+        Location: Props are blood and stakes w/ & w/o bodies
+        Description:
+
+        Log:
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_MIGSTPRP
+#include "..\headers\command.h"
+#include "..\headers\Modoc.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+
+procedure start begin
+end
+procedure look_at_p_proc begin
+end
+procedure description_p_proc begin
+   if ((self_pid >= PID_STAKE_1) and (self_pid <= PID_STAKE_6)) then begin
+      script_overrides;
+      if (is_success(do_check(dude_obj, STAT_pe, 0))) then begin
+         display_mstr(100);
+         set_examined_bodies;
+      end else begin
+         display_mstr(101);
+      end
+   end
+end
+procedure map_enter_p_proc begin
+variable blood_cnt;
+variable temp_blood;
+variable direction;
+   if (map_first_run) then begin
+      if ((self_pid >= PID_STAKE_1) and (self_pid <= PID_STAKE_12)) then begin
+         blood_cnt := random(1,3);
+         while (blood_cnt > 0) do begin
+            blood_cnt -= 1;
+            temp_blood := create_object_sid(random(PID_BLOOD_1, PID_BLOOD_9), 0, 0, SCRIPT_MIGSTPRP);
+            move_to(temp_blood, tile_num_in_direction(self_tile, random(0,5), random(1,7)), 0);
+         end
+         // put blood puddle under bodies
+         if (self_pid <= PID_STAKE_6) then begin
+            if ((self_pid >= PID_STAKE_1) and (self_pid <= PID_STAKE_6)) then begin
+               blood_cnt := random(1,2);
+               direction := random(0, 5);
+               while (blood_cnt > 0) do begin
+                  blood_cnt -= 1;
+                  temp_blood := create_object_sid(random(PID_BLOOD_4, PID_BLOOD_6), 0, 0, SCRIPT_MIGSTPRP);
+                  if (blood_cnt > 0) then begin
+                     move_to(temp_blood, tile_num_in_direction(self_tile, direction, random(0,1)), 0);
+                     direction := (direction + random(1,2)) % 6;
+                  end else begin
+                     move_to(temp_blood, self_tile, 0);
+                  end
+               end
+            end
+         end
+      end
+   end else if (destroy_prop_state) then begin
+      if (((self_pid >= PID_STAKE_1) and (self_pid <= PID_STAKE_6)) or (random(1,3) != 1)) then begin
+         check_set_obj_visiblility(self_obj, true);
+      end
+   end
+end
+procedure map_exit_p_proc begin
+   if (self_visible == false) then begin
+      destroy_object(self_obj);
+   end
+end

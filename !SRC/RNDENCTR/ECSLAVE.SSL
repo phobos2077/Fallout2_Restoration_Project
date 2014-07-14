@@ -1,0 +1,25 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/* Random Encounter scripts. These will be filled in more once they
+   have been designed.
+*/
+
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_ECSLAVE
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure talk_p_proc;
+
+procedure start begin
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_SLAVE);
+end
+
+procedure talk_p_proc begin
+   floater(random(100,104));
+end

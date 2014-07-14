@@ -1,0 +1,309 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Raider
+        Location: Random Encounters
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_ECMRCHNT
+
+#include "..\headers\command.h"
+//#include "..\headers\ModReact.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+
+procedure Make_Inven;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure NodeBarter;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+#define LVAR_Said_Line                          (0)
+#define LVAR_Herebefore                         (1)
+#define LVAR_Made_Inven                         (2)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+
+procedure start begin
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_CARAVAN);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_STORE_OWNER);
+
+   if (local_var(LVAR_Made_Inven) == 0) then begin
+       set_local_var(LVAR_Made_Inven,1);
+       call Make_Inven;
+   end
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((obj_can_see_obj(self_obj,dude_obj)) and (local_var(LVAR_Said_Line) == 0)) then begin
+       set_local_var(LVAR_Said_Line,1);
+       floater(random(102,105));
+       debug_msg("Need to set up shop");
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+
+   attack(source_obj);
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   attack(source_obj);
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+
+   if (local_var(LVAR_Herebefore) == 0) then begin
+       set_local_var(LVAR_Herebefore,1);
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node001;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node003;
+       gSay_End;
+       end_dialogue;
+   end
+
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   Reply(random(200,202));
+
+   NOption(250,NodeBarter,004);
+   NOption(251,Node999,004);
+   NLowOption(252,NodeBarter);
+   NLowOption(253,Node999);
+end
+
+procedure Node002 begin
+   Reply(260);
+
+   NOption(261,Node999,000);
+end
+
+procedure Node003 begin
+   Reply(270);
+
+   NOption(250,NodeBarter,004);
+   NOption(251,Node999,004);
+   NLowOption(252,NodeBarter);
+   NLowOption(253,Node999);
+end
+
+procedure NodeBarter begin
+   gdialog_mod_barter(0);
+   call Node002;
+end
+
+
+procedure Make_Inven begin
+   variable item;
+
+   if (random(1,20) <= 15) then begin
+       item:=create_object(PID_MUTATED_FRUIT,0,0);
+       add_mult_objs_to_inven(self_obj,item,random(2,5));
+   end
+
+   if (random(1,20) <= 10) then begin
+       item:=create_object(PID_HEALING_POWDER,0,0);
+       add_mult_objs_to_inven(self_obj,item,random(1,3));
+   end
+
+   if (random(1,20) <= 3) then begin
+       item:=create_object(PID_STIMPAK,0,0);
+       add_mult_objs_to_inven(self_obj,item,random(1,2));
+   end
+
+   if (random(1,20) <= 5) then begin
+       item:=create_object(PID_10MM_PISTOL,0,0);
+       add_mult_objs_to_inven(self_obj,item,random(1,2));
+   end
+
+   if (random(1,20) <= 7) then begin
+       item:=create_object(PID_10MM_JHP,0,0);
+       add_mult_objs_to_inven(self_obj,item,random(2,3));
+   end
+
+   if (random(1,20) <= 1) then begin
+       item:=create_object(PID_LEATHER_ARMOR,0,0);
+       add_mult_objs_to_inven(self_obj,item,1);
+   end
+
+   if (random(1,20) <= 2) then begin
+       item:=create_object(PID_SHOTGUN,0,0);
+       add_mult_objs_to_inven(self_obj,item,1);
+   end
+
+   if (random(1,20) <= 3) then begin
+       item:=create_object(PID_SHOTGUN_SHELLS,0,0);
+       add_mult_objs_to_inven(self_obj,item,random(1,2));
+   end
+
+   if (random(1,20) <= 5) then begin
+       item:=create_object(PID_BRASS_KNUCKLES,0,0);
+       add_mult_objs_to_inven(self_obj,item,random(1,2));
+   end
+
+   if (random(1,20) <= 10) then begin
+       item:=create_object(PID_ROPE,0,0);
+       add_mult_objs_to_inven(self_obj,item,random(2,3));
+   end
+
+   if (random(1,20) <= 3) then begin
+       item:=create_object(PID_DESERT_EAGLE,0,0);
+       add_mult_objs_to_inven(self_obj,item,random(1,2));
+   end
+
+   if (random(1,20) <= 4) then begin
+       item:=create_object(PID_44_FMJ_MAGNUM,0,0);
+       add_mult_objs_to_inven(self_obj,item,random(1,2));
+   end
+
+   if (random(1,20) <= 15) then begin
+       item:=create_object(PID_NUKA_COLA,0,0);
+       add_mult_objs_to_inven(self_obj,item,random(2,5));
+   end
+
+   if (random(1,20) <= 10) then begin
+       item:=create_object(PID_KNIFE,0,0);
+       add_mult_objs_to_inven(self_obj,item,random(2,3));
+   end
+
+   if (random(1,20) <= 6) then begin
+       item:=create_object(PID_THROWING_KNIFE,0,0);
+       add_mult_objs_to_inven(self_obj,item,random(3,5));
+   end
+end

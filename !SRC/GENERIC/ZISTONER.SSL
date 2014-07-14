@@ -1,0 +1,166 @@
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_STONER
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure use_p_proc;
+procedure sequence;
+variable count;
+procedure timed_event_p_proc;
+variable temp;
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+variable temp;
+temp := random(1, 100);
+     
+      if (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_POWERED_ARMOR) and (obj_is_carrying_obj_pid(dude_obj, 101) == 1) then begin
+      script_overrides;
+      display_msg("You smoke a joint");
+      reg_anim_clear(dude_obj);
+      reg_anim_begin();
+      reg_anim_animate(dude_obj, 5, -1);
+      reg_anim_play_sfx(dude_obj, "powr", 6);   
+      reg_anim_animate(dude_obj, 2, -1);
+      reg_anim_play_sfx(dude_obj, "zippo", 9);
+      reg_anim_animate_reverse(dude_obj, 5, -1);
+      reg_anim_play_sfx(dude_obj, "powrb", 8);
+      reg_anim_end();
+      end
+     
+      else if (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_HARDENED_POWER_ARMOR) and (obj_is_carrying_obj_pid(dude_obj, 101) == 1) then begin
+      script_overrides;
+      display_msg("You smoke a joint");
+      reg_anim_clear(dude_obj);
+      reg_anim_begin();
+      reg_anim_animate(dude_obj, 5, -1);
+      reg_anim_play_sfx(dude_obj, "powr", 6);   
+      reg_anim_animate(dude_obj, 2, -1);
+      reg_anim_play_sfx(dude_obj, "zippo", 9);
+      reg_anim_animate_reverse(dude_obj, 5, -1);
+      reg_anim_play_sfx(dude_obj, "powrb", 8);
+      reg_anim_end();
+      end
+     
+      else if (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_ADVANCED_POWER_ARMOR) then begin
+      display_msg("inside your helmet there's a warning: 'DANGER! - No smoking!!'.  You think you better do as it says.");
+      end
+     
+      else if (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_ADVANCED_POWER_ARMOR_MK2) then begin
+      display_msg("inside your helmet there's a warning: 'DANGER! - No smoking!!'.  You think you better do as it says.");
+      end
+     
+      else if (dude_is_male) and (source_obj == dude_obj) and (obj_is_carrying_obj_pid(dude_obj, 101) == 1) then begin
+      script_overrides;
+      display_msg("You smoke a joint");
+      reg_anim_clear(dude_obj);
+      reg_anim_begin();
+      reg_anim_animate(dude_obj, 2, -1);
+      reg_anim_play_sfx(dude_obj, "zippo", 10);
+      reg_anim_end();
+      end
+      call sequence;
+           
+end
+
+procedure sequence begin
+
+   if (count == 3) then begin
+   float_msg(dude_obj, "Whoa. That is some herb SUPERB.", 3);
+   end
+   
+   else begin
+      if (count == 4) then begin
+
+float_msg(dude_obj, "Okay, i'm just gonna lie down here for a while", 3);
+script_overrides;
+reg_anim_clear(dude_obj);
+reg_anim_begin();
+reg_anim_animate_reverse(dude_obj, 37, -1);
+reg_anim_animate(dude_obj, ANIM_fall_back_sf, -1);
+//animate_set_frame(ANIM_fall_back_sf);
+reg_anim_end();
+      end
+     
+      else begin
+         if (count == 5) then
+         begin
+            display_msg("You begin to feel VERY light headed");
+            float_msg(dude_obj, "I am feeling really f****ed up right now...", 3);
+         end
+         
+         else begin
+                  if (count == 6) then
+         begin
+
+            float_msg(dude_obj, ".. this must be how Hakunin feels in his garden", 3);
+         end
+         
+         else
+         begin
+            if (count == 7) then
+            begin
+script_overrides;
+reg_anim_clear(dude_obj);
+reg_anim_begin();
+reg_anim_animate(dude_obj, 37, -1);
+reg_anim_end();
+            end
+           
+            else begin
+                  if (count == 8) then
+         begin
+
+            float_msg(dude_obj, "That was crazy. But i feel better now", 3);
+         end
+           
+         else begin
+         if (count == 9) then begin
+float_msg(dude_obj, "Oh shit ....", 2);
+display_msg("You pass out");
+script_overrides;
+reg_anim_clear(dude_obj);
+reg_anim_begin();
+reg_anim_animate(dude_obj, 21, -1);
+reg_anim_end();
+               end
+               end
+               
+          else begin
+         if (count == 10) then begin
+script_overrides;
+reg_anim_clear(dude_obj);
+reg_anim_begin();
+reg_anim_animate(dude_obj, 37, -1);
+reg_anim_end();
+display_msg("you wake up feeling dazed and confused");
+gfade_out(600);
+game_time_advance((13 - dude_endurance)* ONE_GAME_HOUR);
+gfade_in(600);
+                  end
+                  end
+                  end
+                  end
+end
+
+   count := count + 1;
+   if (count > 10) then begin
+      count := 0;
+   end
+   else
+   begin
+      add_timer_event(self_obj, game_ticks(3), 1);
+   end
+end
+
+procedure timed_event_p_proc
+begin
+   if (fixed_param == 1) then
+   begin
+      call sequence;
+   end
+end

@@ -1,0 +1,659 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+
+
+#include "..\headers\define.h"
+//#include "..\headers\<TownName.h>"
+
+#define NAME                    SCRIPT_QITURTRM
+
+#include "..\headers\command.h"
+
+#define Science_Skill           (has_skill(dude_obj,SKILL_SCIENCE))
+#define CompOption(x,y)         NOption(x,y,Needed_IQ)
+
+procedure start;
+procedure use_p_proc;
+procedure use_skill_on_p_proc;
+procedure talk_p_proc;
+procedure look_p_proc;
+procedure description_p_proc;
+procedure timed_event_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node022a; //added by killap
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure NodeEnd;
+
+procedure Node021a;
+procedure Node025a;
+procedure Node026a;
+procedure Node027a;
+procedure Node028a;
+procedure Node029a;
+
+procedure Node020a;   //added by killap
+procedure Node030a;   //added by killap
+procedure Node033;    //added by killap
+
+procedure Alarm_Reactive;
+
+#define LVAR_Diagnostics                (0)
+#define LVAR_Shut_Down                  (1)
+#define LVAR_Looked_Before              (2)
+#define LVAR_Said_4                     (3)
+
+variable Needed_IQ:=6;
+
+variable hacked_system := 0;   //added by killap
+variable here_before := 0;     //added by killap
+variable current_userid := 0;  //added by killap
+
+//added by killap
+#define NOUSER  0
+#define SMITH   1
+#define MURRAY  2
+#define CURLING 3
+#define BIRD    4 
+//end
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   script_overrides;
+
+   if ((is_skill_tagged(SKILL_SCIENCE)) or (skill_success(dude_obj,SKILL_SCIENCE,-70))) then // Seraph's Fix: is_skill_tagged only takes one parameter. Thanks Rob! Also changed from SKILL_SNEAK to SKILL_SCIENCE - killap
+       Needed_IQ:=4;
+   else
+       Needed_IQ:=6;
+
+   if ((local_var(LVAR_Shut_Down) == 1) or (get_critter_stat(dude_obj,STAT_iq) < Needed_IQ)) then begin
+       call Node002;
+   end
+
+   else if (local_var(LVAR_Diagnostics) == 1) then
+       call Node015;
+
+   else
+       dialogue_system_enter;
+end
+
+procedure look_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Looked_Before) == 0) then begin
+       inc_local_var(LVAR_Looked_Before);
+       display_msg(mstr(100));
+   end
+   else if (local_var(LVAR_Shut_Down) == 1) then
+       call Node002;
+   else
+       display_msg(mstr(101));
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then
+       call Alarm_Reactive;
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Shut_Down) == 1) then
+       display_msg(mstr(102));
+   else
+       display_msg(mstr(103));
+end
+
+procedure use_skill_on_p_proc begin
+   if (action_being_used == SKILL_SCIENCE) then
+       call use_p_proc;
+end
+
+procedure talk_p_proc begin
+   start_gdialog(NAME,self_obj,4,-1,-1);
+   gSay_Start;
+      call Node001;
+   gSay_End;
+   end_dialogue;
+end
+
+procedure Node001 begin
+   Reply(104);
+
+   CompOption(105,Node003);
+   CompOption(106,Node017);
+   CompOption(107,NodeEnd);
+end
+
+procedure Node002 begin
+   display_msg(mstr(random(108,117)));
+end
+
+procedure Node003 begin
+   Reply(118);
+
+   if (Science_Skill >= 100) then
+       CompOption(119,Node004);
+   if (dude_luck >= 8) then
+       CompOption(120,Node008);
+   CompOption(121,Node001);
+   CompOption(123,NodeEnd);
+end
+
+procedure Node004 begin
+   if (local_var(LVAR_Said_4) == 0) then begin
+       inc_local_var(LVAR_Said_4);
+       if (dude_iq >= 7) then
+           Reply(124);
+       else
+           Reply(125);
+   end
+   else
+       Reply(126);
+
+   current_userid := NOUSER;
+
+   CompOption(127,Node008);
+   CompOption(128,Node020);
+   if (Science_Skill >= 125) then
+       CompOption(129,Node005);
+   if (Science_Skill >= 150) then
+       CompOption(130,Node006);
+   if (Science_Skill >= 175) then
+       CompOption(131,Node007);
+   CompOption(132,NodeEnd);
+end
+
+procedure Node005 begin
+   Reply(mstr(133)+mstr(134)+mstr(135));
+   current_userid := MURRAY;
+
+   CompOption(136,Node014);
+   CompOption(137,Node009);
+   CompOption(138,Node004);
+end
+
+procedure Node006 begin
+   Reply(mstr(139)+mstr(140)+mstr(141)+mstr(142)+mstr(143));
+   current_userid := CURLING;
+
+   CompOption(144,Node012);
+   CompOption(145,Node013);
+   CompOption(146,Node014);
+   CompOption(147,Node009);
+   CompOption(148,Node004);
+end
+
+procedure Node007 begin
+   Reply(mstr(149)+mstr(150)+mstr(151)+mstr(152)+mstr(153)+mstr(154)+mstr(155));
+   current_userid := BIRD;
+
+   CompOption(156,Node010);
+   CompOption(157,Node011);
+   CompOption(158,Node012);
+   CompOption(159,Node013);
+   CompOption(160,Node014);
+   CompOption(161,Node009);
+   CompOption(162,Node004);
+end
+
+procedure Node008 begin
+   Reply(163);
+   current_userid := SMITH;
+
+   CompOption(164,Node009);
+   CompOption(165,Node004);
+end
+
+procedure Node009 begin
+   // downloaded Security Status
+   set_global_var(GVAR_HOLODISK_ENCLAVE_SECURITY,1);
+
+   Reply(166);
+
+   if (current_userid >= BIRD) then begin
+       CompOption(167,Node010);
+       CompOption(168,Node011);
+   end
+   if (current_userid >= CURLING) then begin
+       CompOption(169,Node012);
+       CompOption(170,Node013);
+   end
+   if (current_userid >= MURRAY) then
+       CompOption(171,Node014);
+   CompOption(172,Node004);
+end
+
+procedure Node010 begin
+   // download State of the Nation
+   set_global_var(GVAR_HOLODISK_ENCLAVE_STATE,1);
+
+   Reply(173);
+
+   if (current_userid >= BIRD) then
+       CompOption(174,Node011);
+   if (current_userid >= CURLING) then begin
+       CompOption(175,Node012);
+       CompOption(176,Node013);
+   end
+   if (current_userid >= MURRAY) then
+       CompOption(177,Node014);
+   if (current_userid >= SMITH) then
+       CompOption(178,Node004);
+   CompOption(179,Node004);
+end
+
+procedure Node011 begin
+   // download Word List
+   set_global_var(GVAR_HOLODISK_ENCLAVE_WORD,1);
+
+   Reply(180);
+
+   if (current_userid >= BIRD) then
+       CompOption(181,Node010);
+   if (current_userid >= CURLING) then begin
+       CompOption(182,Node012);
+       CompOption(183,Node013);
+   end
+   if (current_userid >= MURRAY) then
+       CompOption(184,Node014);
+   if (current_userid >= SMITH) then
+       CompOption(185,Node009);
+   CompOption(186,Node004);
+end
+
+procedure Node012 begin
+   if (cur_map_index == MAP_ENCLAVE_BARRACKS) then begin
+       if (global_var(GVAR_ENCLAVE_TURRET_GUARD) == TURRET_ALERT) then
+           Reply(187);
+       else if (global_var(GVAR_ENCLAVE_TURRET_GUARD) == TURRET_NORMAL) then
+           Reply(188);
+       else
+           Reply(189);
+   end
+
+   else if (cur_map_index == MAP_ENCLAVE_DETENTION) then begin
+       if (global_var(GVAR_ENCLAVE_TURRET_DETENTION) == TURRET_ALERT) then
+           Reply(190);
+       else if (global_var(GVAR_ENCLAVE_TURRET_DETENTION) == TURRET_NORMAL) then
+           Reply(191);
+       else
+           Reply(192);
+   end
+
+   else if (cur_map_index == MAP_ENCLAVE_REACTOR) then begin
+       if (global_var(GVAR_ENCLAVE_TURRET_SCIENCE) == TURRET_ALERT) then
+           Reply(193);
+       else if (global_var(GVAR_ENCLAVE_TURRET_SCIENCE) == TURRET_NORMAL) then
+           Reply(194);
+       else
+           Reply(195);
+   end
+
+   else if (cur_map_index == MAP_ENCLAVE_PRESIDENT) then begin
+       if (global_var(GVAR_ENCLAVE_TURRET_PRESIDENT) == TURRET_ALERT) then
+           Reply(196);
+       else if (global_var(GVAR_ENCLAVE_TURRET_PRESIDENT) == TURRET_NORMAL) then
+           Reply(197);
+       else
+           Reply(198);
+   end
+
+   else begin
+       if (global_var(GVAR_ENCLAVE_TURRET_MAIN) == TURRET_ALERT) then
+           Reply(199);
+       else if (global_var(GVAR_ENCLAVE_TURRET_MAIN) == TURRET_NORMAL) then
+           Reply(200);
+       else
+           Reply(201);
+   end
+
+   // The check below is useless since one needs a science skill of at least
+   // 150 to reach Node012 in the first place, but it is left in place just
+   // in case...
+   if (Science_Skill >= 125) then
+       CompOption(202,Node020);
+   if (current_userid >= BIRD) then begin
+       CompOption(203,Node010);
+       CompOption(204,Node011);
+   end
+   if (current_userid >= CURLING) then
+       CompOption(205,Node013);
+   if (current_userid >= MURRAY) then
+       CompOption(206,Node014);
+   if (current_userid >= SMITH) then
+       CompOption(207,Node009);
+   CompOption(208,Node004);
+end
+
+procedure Node013 begin
+   set_global_var(GVAR_HOLODISK_ENCLAVE_CHEMICAL,1);
+
+   Reply(209);
+
+   if (current_userid >= BIRD) then begin
+       CompOption(210,Node010);
+       CompOption(211,Node011);
+   end
+   if (current_userid >= CURLING) then
+       CompOption(212,Node012);
+   if (current_userid >= MURRAY) then
+       CompOption(213,Node014);
+   if (current_userid >= SMITH) then
+       CompOption(215,Node009);
+   CompOption(216,Node004);
+end
+
+procedure Node014 begin
+   set_global_var(GVAR_HOLODISK_ENCLAVE_ATOMIC,1);
+
+   Reply(217);
+
+   if (current_userid >= BIRD) then begin
+       CompOption(218,Node010);
+       CompOption(219,Node011);
+   end
+   if (current_userid >= CURLING) then begin
+       CompOption(220,Node012);
+       CompOption(221,Node013);
+   end
+   if (current_userid >= SMITH) then
+       CompOption(222,Node009);
+   CompOption(223,Node004);
+end 
+
+procedure Node015 begin
+   display_msg(mstr(224));
+end
+
+procedure Node016 begin
+end
+
+procedure Node017 begin
+   Reply(225);
+
+   CompOption(226,Node019);
+   CompOption(227,Node001);
+end
+
+procedure Node018 begin
+end
+
+procedure Node019 begin
+   Reply(228);
+
+   CompOption(229,Node001); //edit by killap - was 004
+   CompOption(230,NodeEnd);
+end
+
+procedure Node020 begin
+   Reply(231);
+
+   CompOption(232,Node021);
+   CompOption(233,Node025);
+   CompOption(234,Node004);
+   CompOption(235,NodeEnd);
+end
+
+procedure Node021 begin
+   Reply(236);
+
+   CompOption(237,Node021a);
+   if (hacked_system) then //added by killap
+      CompOption(238,Node020a);
+   else
+      CompOption(238,Node020);
+   CompOption(239,NodeEnd);
+end
+
+procedure Node021a begin
+   if (obj_is_carrying_obj_pid(dude_obj,PID_PRES_ACCESS_KEY)) then begin
+       if (cur_map_index == MAP_ENCLAVE_END_FIGHT) then begin
+           //added check and call to 022a - killap
+           if (global_var(GVAR_ENCLAVE_REACTOR) == ENCLAVE_REACTOR_OFF) then
+              call Node022;
+           else
+              call Node022a;
+       end else
+          call Node023;
+   end
+   else
+       call Node024;
+end 
+
+procedure Node022 begin
+   set_global_var(GVAR_ENCLAVE_TURRET_HELP_PLAYER,1);
+
+   Reply(240);
+
+   CompOption(241,NodeEnd);
+end
+
+//added by killap
+procedure Node022a begin
+   Reply(266);
+
+   CompOption(267,Node004);
+   if (hacked_system) then
+      CompOption(268,Node020a);
+   else
+      CompOption(268,Node020);
+end 
+//end added
+
+procedure Node023 begin
+   Reply(242);
+
+   CompOption(243,Node004);
+   if (hacked_system) then //added by killap
+      CompOption(244,Node020a);
+   else
+      CompOption(244,Node020);
+end
+
+procedure Node024 begin
+   Reply(245);
+   if (Science_Skill >= 75) then  //added by killap
+      CompOption(255,Node027a);	//killap's fix: changed from 246 and from Node20
+   else
+      CompOption(256,Node020);
+end
+
+procedure Node025 begin
+   Reply(247);
+
+   CompOption(248,Node025a);
+   if (hacked_system) then //added by killap
+      CompOption(249,Node020a);
+   else
+      CompOption(249,Node020);
+   CompOption(250,NodeEnd);
+end
+
+procedure Node025a begin
+   if (obj_is_carrying_obj_pid(dude_obj,PID_PRES_ACCESS_KEY)) then
+       call Node026;
+   else
+       call Node027;
+end
+
+procedure Node026 begin
+   Reply(251);
+   
+   if (hacked_system) then //added by killap
+      CompOption(252,Node020a);
+   else
+      CompOption(252,Node020);
+   CompOption(253,Node026a);
+end
+
+procedure Node026a begin
+   if (cur_map_index == MAP_ENCLAVE_DETENTION) then
+       set_global_var(GVAR_ENCLAVE_TURRET_DETENTION,TURRET_MAINTENANCE);
+   else if (cur_map_index == MAP_ENCLAVE_END_FIGHT) then
+       set_global_var(GVAR_ENCLAVE_TURRET_MAIN,TURRET_MAINTENANCE);
+   else if (cur_map_index == MAP_ENCLAVE_BARRACKS) then
+       set_global_var(GVAR_ENCLAVE_TURRET_GUARD,TURRET_MAINTENANCE);
+   else if (cur_map_index == MAP_ENCLAVE_PRESIDENT) then
+       set_global_var(GVAR_ENCLAVE_TURRET_PRESIDENT,TURRET_MAINTENANCE);
+   else if (cur_map_index == MAP_ENCLAVE_REACTOR) then
+       set_global_var(GVAR_ENCLAVE_TURRET_SCIENCE,TURRET_MAINTENANCE);
+   else
+       set_global_var(GVAR_ENCLAVE_TURRET_MAIN,TURRET_MAINTENANCE);
+
+   add_timer_event(self_obj,(random(1,3)*ONE_GAME_MINUTE),1);
+end
+
+procedure Node027 begin
+   Reply(254);
+
+   if (Science_Skill >= 75) then
+       CompOption(255,Node027a);
+   else
+       CompOption(256,Node020);
+end
+
+procedure Node027a begin
+   if (skill_success(dude_obj,SKILL_SCIENCE,-75)) then
+       call Node028;
+   else
+       call Node030;
+end
+
+procedure Node028 begin
+   Reply(257);
+
+   if (Science_Skill >= 125) then
+       CompOption(258,Node028a);
+   else
+       CompOption(259,Node020);
+end
+
+procedure Node028a begin
+   if (skill_success(dude_obj,SKILL_SCIENCE,-125)) then
+       call Node029;  //killap's fix: changed from Node028
+   else
+       call Node030;
+end
+
+procedure Node029 begin
+   Reply(260);
+
+   CompOption(261,Node029a);
+end
+
+procedure Node029a begin
+   if (skill_success(dude_obj,SKILL_SCIENCE,-150)) then
+       call Node030a;  //killap's fix: changed from Node028
+   else
+       call Node030;
+end
+
+procedure Node030 begin
+   set_local_var(LVAR_Shut_Down,1);
+
+   Reply(262);
+
+   CompOption(263,NodeEnd);
+end
+
+procedure NodeEnd begin
+end
+
+procedure Alarm_Reactive begin
+   if (cur_map_index == MAP_ENCLAVE_DETENTION) then
+       set_global_var(GVAR_ENCLAVE_TURRET_DETENTION,TURRET_NORMAL);
+   else if (cur_map_index == MAP_ENCLAVE_END_FIGHT) then
+       set_global_var(GVAR_ENCLAVE_TURRET_MAIN,TURRET_NORMAL);
+   else if (cur_map_index == MAP_ENCLAVE_BARRACKS) then
+       set_global_var(GVAR_ENCLAVE_TURRET_GUARD,TURRET_NORMAL);
+   else if (cur_map_index == MAP_ENCLAVE_PRESIDENT) then
+       set_global_var(GVAR_ENCLAVE_TURRET_PRESIDENT,TURRET_NORMAL);
+   else if (cur_map_index == MAP_ENCLAVE_REACTOR) then
+       set_global_var(GVAR_ENCLAVE_TURRET_SCIENCE,TURRET_NORMAL);
+   else
+       set_global_var(GVAR_ENCLAVE_TURRET_MAIN,TURRET_NORMAL);
+end
+
+//begin killap added code 
+procedure Node030a begin
+    if (Science_Skill >= 200) then begin
+      call Node020a;
+   end else
+      call Node030;
+   hacked_system := 1;  
+end
+ 
+procedure Node020a begin
+   Reply(264 + here_before);
+   
+   CompOption(237,Node033);
+   CompOption(248,Node026);
+   CompOption(234,Node004);
+   CompOption(235,NodeEnd);
+   here_before :=1;
+end
+
+procedure Node033 begin
+   if (cur_map_index == MAP_ENCLAVE_END_FIGHT) then begin
+      if (global_var(GVAR_ENCLAVE_REACTOR) == ENCLAVE_REACTOR_OFF) then
+         call Node022;
+      else
+         call Node022a;
+   end else
+      call Node023;
+end 
+//end killap added code

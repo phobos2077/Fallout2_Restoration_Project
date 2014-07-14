@@ -1,0 +1,69 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Dead Body
+        Description: This body only shows up when the player has been given the
+                     "Missing Persons" quest from Marcus.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_HIDEAD
+#define CUR_COMP_SCRIPT         SCRIPT_HIDEAD
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure map_enter_p_proc;
+
+procedure start begin
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   // Give unique messages to woman with note.
+   if( tile_num( self_obj ) == 18453 ) then
+      display_msg( mstr(102) );
+   else
+      display_msg( mstr(100) );
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   // Give unique messages to woman with note.
+   if( tile_num( self_obj ) == 18453 ) then begin
+      if( obj_is_carrying_obj_pid( self_obj, PID_MEMO_FROM_FRANCIS ) > 0 ) then
+         display_msg( mstr(103) );
+      else
+         display_msg( mstr(104) );
+   end
+   else
+      display_msg( mstr(101) );
+end
+
+procedure map_enter_p_proc begin
+   if( global_var(GVAR_BH_MISSING) >= MISSING_ACCEPT_CASH ) then begin
+      if( not( self_visible ) ) then
+         set_obj_visibility( self_obj, false );
+   end
+   else begin
+      if( self_visible ) then
+         set_obj_visibility( self_obj, true );
+   end
+end

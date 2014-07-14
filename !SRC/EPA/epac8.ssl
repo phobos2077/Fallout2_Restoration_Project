@@ -1,0 +1,118 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\define.h"
+//#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAC8          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\command.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure critter_p_proc;
+procedure map_enter_p_proc;
+procedure destroy_p_proc;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+procedure timed_event_p_proc;
+
+procedure start begin
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_SPORE_PLANT);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SPORE_PLANT);
+end
+
+procedure critter_p_proc
+begin
+   if (obj_can_see_obj(self_obj,dude_obj)) then
+       attack(dude_obj);
+  /*if (global_var(GVAR_SPRAY_KILLPLANTS) == 1) then
+  begin
+    if (tile_distance_objs(dude_obj, self_obj) < 8) then
+    begin
+      call destroy_p_proc;
+      critter_dmg(self_obj, 40, DMG_normal_dam);
+      set_global_var(GVAR_SPRAY_KILLPLANTS, 0);
+    end
+    else if (tile_distance_objs(dude_obj, self_obj) >= 8) then
+      add_timer_event(self_obj, game_ticks(random(3, 5)), 1);
+  end*/
+end
+
+procedure map_enter_p_proc begin
+   variable item;
+
+   if (map_first_run) then begin
+       item:=create_object(PID_PLANT_SPIKE,0,0);
+       add_mult_objs_to_inven(self_obj,item,10);
+   end
+
+end
+
+procedure destroy_p_proc
+begin
+  inc_global_var(GVAR_KILL_EPAPLANTS);
+  if (global_var(GVAR_KILL_EPAPLANTS) >= 26) then begin
+   display_msg(mstr(100));
+  end
+end
+
+procedure use_p_proc
+begin
+end
+
+procedure look_at_p_proc
+begin
+end
+
+procedure description_p_proc
+begin
+end
+
+procedure use_skill_on_p_proc begin
+   if (action_being_used == SKILL_STEAL) then
+      script_overrides;
+end
+
+
+procedure damage_p_proc
+begin
+   if (source_obj == dude_obj) then begin
+      attack(dude_obj);
+   end
+end
+
+procedure map_update_p_proc
+begin
+end
+
+procedure talk_p_proc
+begin
+end
+
+procedure timed_event_p_proc
+begin
+end
+
+procedure use_obj_on_p_proc begin
+   //variable sound1;
+   if ((obj_pid(obj_being_used_with) == PID_PLANT_SPRAY)) then begin
+      inc_global_var(GVAR_KILL_EPAPLANTS);
+      if (global_var(GVAR_KILL_EPAPLANTS) >= 26) then begin
+        display_msg(mstr(100));
+      end
+      kill_critter(self_obj, ANIM_melted_to_nothing_sf);
+   end
+end

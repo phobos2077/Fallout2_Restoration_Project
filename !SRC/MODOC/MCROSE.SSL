@@ -1,0 +1,489 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Rose
+        Location: Modoc
+        Description: Owner of Rose's Bed and Breakfast
+
+        Log: the following defines need to be changed:
+
+          Created: February 15, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                        SCRIPT_MCROSE
+#define TOWN_REP_VAR                GVAR_TOWN_REP_MODOC
+
+#include "..\headers\command.h"
+#include "..\headers\modoc.h"
+#include "..\headers\ModInn.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc; //added by killap
+procedure combat_p_proc;
+
+// dialog nodes
+procedure Node000;
+procedure Node001;
+procedure Node002;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+
+procedure Node999;                                      // This is the do nothing node
+procedure Node998;                                      // This Node is Always Combat
+procedure Node996;
+procedure Node995;
+procedure Node994;
+procedure Node993;
+procedure Node991;
+procedure Node990;
+procedure Node989;
+procedure Node988;
+procedure Node987;
+
+#define LVAR_Scrotum_Eaten                (4)
+#define LVAR_Flags                        (5)
+
+#define gave_cookie_bit                   bit_10
+#define omlet_bit                         bit_11
+
+#define gave_cookie                       lvar_bit(LVAR_Flags, gave_cookie_bit)
+#define set_gave_cookie                   if (gave_cookie == false) then begin            \
+                                             give_pid_qty(dude_obj, PID_COOKIE, 1)        \
+                                          end                                             \
+                                          set_lvar_bit_on(LVAR_Flags, gave_cookie_bit)
+
+#define omlet                             lvar_bit(LVAR_Flags, omlet_bit)
+#define set_omlet                         set_lvar_bit_on(LVAR_Flags, omlet_bit)
+
+#define old_scrotum_record                (36)
+
+#define set_export_obj(x)                 if (cur_map_index == MAP_MODOC_BEDNBREAKFAST) then modoc_rose_obj := x
+#define export_self_obj                   set_export_obj(self_obj)
+
+variable only_once := 0;
+variable food_cost := 0;
+import variable modoc_rose_obj;
+
+procedure start begin
+   modoc_rose_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+   if (lost_and_found_attempts <= 3) then begin
+      floater(151 + lost_and_found_attempts);
+      inc_lost_and_found_attempt;
+   end
+   if (lost_and_found_attempts >= 3) then begin
+      call Node998;
+   end
+end
+
+procedure combat_p_proc begin
+   if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
+   end
+end
+
+//added by killap
+procedure map_update_p_proc begin
+   modoc_rose_obj := self_obj;
+end
+//end added
+
+procedure map_enter_p_proc begin
+
+   modoc_rose_obj := self_obj;
+   match_dude_elevation;
+   if (only_once == 0) then begin
+      only_once := 1;
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   end
+   if (map_first_run) then begin
+      check_restock_item(PID_BOTTLE_CAPS, 20, 20, 100)
+   end
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if ((hostile) or  (dude_enemy_modoc)) then begin
+         self_attack_dude;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_enemy_modoc;
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   script_overrides;
+   if (cornelius_dead) then begin
+      floater(150);
+   end else begin
+      set_dude_met_rose;
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         if (ghost_farm_seed_completed) then begin
+            call Node002;
+         end else if (herebefore == false) then begin
+            call Node000;
+         end else begin
+            call Node001;
+         end
+      gSay_End;
+      end_dialogue;
+   end
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+   modoc_rose_obj := 0;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + (herebefore));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(102);
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+// dialog action functions
+procedure Node999 begin
+  // do absolutely everything that pertains to nothing
+end
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node996 begin
+   // if deathclaw dead goto 34 else 31
+   if (death_claw_dead) then begin
+      call Node034;
+   end else begin
+      call Node031;
+   end
+end
+procedure Node995 begin
+   // if deathclaw dead goto 34 else 21
+   if (death_claw_dead) then begin
+      call Node034;
+   end else begin
+      call Node021;
+   end
+end
+procedure Node994 begin
+   if (dude_caps >= 5) then begin
+      food_cost := 5;
+      call Node012;
+   end else begin
+      call Node011;
+   end
+end
+procedure Node993 begin
+   if (death_claw_dead) then begin
+      call Node034;
+   end else if (dude_caps >= 25) then begin
+      food_cost := 25;
+      call Node021;
+   end else begin
+      call Node011;
+   end
+end
+procedure Node991 begin
+   if (dude_caps >= 5) then begin
+      food_cost := 5;
+      call Node022;
+   end else begin
+      call Node011;
+   end
+end
+procedure Node990 begin
+   if (dude_caps >= 7) then begin
+      food_cost := 7;
+      call Node022;
+   end else begin
+      call Node011;
+   end
+end
+procedure Node989 begin
+   if (dude_caps >= 3) then begin
+      food_cost := 3;
+      call Node022;
+   end else begin
+      call Node011;
+   end
+end
+procedure Node988 begin
+   if (dude_caps >= 20) then begin
+      food_cost := 20;
+      call Node014;
+   end else begin
+      call Node011;
+   end
+end
+procedure Node987 begin
+   if (dude_caps >= 1000) then begin
+      food_cost := 1000;
+      call Node022;
+   end else begin
+      call Node011;
+   end
+end
+
+// dialog nodes
+procedure Node000 begin
+   if (dude_is_male) then begin
+      Reply(154);
+   end else begin
+      Reply(155);
+   end
+   NOption(156,Node010,004);
+   NOption(157,Node032,004);
+   NOption(158,Node023,004);
+   NOption(g_bye,Node999,004);
+   NOption(159,Node996,-003);
+   NOption(g_grunt,Node999,-003);
+end
+procedure Node001 begin
+   Reply(160);
+   NOption(156,Node010,004);
+   NOption(157,Node032,004);
+   NOption(158,Node023,004);
+   NOption(g_bye,Node999,004);
+   NOption(159,Node996,-003);
+   NOption(g_grunt,Node999,-003);
+end
+procedure Node002 begin
+   food_cost := 0;
+   if (lost_and_found_unlocked) then begin
+      Reply(166);
+   end else begin
+      set_lost_and_found_unlocked;
+      Reply(165);
+   end
+   NOption(167,Node995,004);
+   NOption(g_bye,Node999,004);
+end
+procedure Node010 begin
+   if (dude_is_male) then begin
+      Reply(168);
+   end else begin
+      Reply(169);
+   end
+   NOption(170,Node994,004);
+   NOption(171,Node993,004);
+   if ((ghost_farm_seed_completed == false) and (gave_cookie == false)) then begin
+      NOption(172,Node033,004);
+   end
+   NOption(173,Node991,004);
+   NOption(174,Node990,004);
+   NOption(175,Node989,004);
+   NOption(176,Node999,004);
+end
+procedure Node011 begin
+   Reply(177);
+   if (dude_caps >= 3) then begin
+      NOption(178,Node010,004);
+   end
+   NOption(179,Node023,004);
+   NOption(g_bye,Node999,004);
+end
+procedure Node012 begin
+   if (local_var(LVAR_Scrotum_Eaten) > old_scrotum_record) then begin
+      Reply(180);
+      NOption(182,Node022,004);
+   end else begin
+      Reply(181);
+      NOption(183,Node013,004);
+      NOption(184,Node022,004);
+   end
+end
+procedure Node013 begin
+   Reply(185);
+   NOption(186,Node022,004);
+   NOption(187,Node988,004);
+end
+procedure Node014 begin
+   item_caps_adjust(self_obj,food_cost);
+   item_caps_adjust(dude_obj,-food_cost);
+   Reply(188);
+   NOption(g_mstr(352),Node015,004);
+end
+procedure Node015 begin
+   Reply(189);
+   NOption(g_mstr(352),Node016,004);
+end
+procedure Node016 begin
+   Reply(190);
+   NOption(191,Node017,004);
+end
+procedure Node017 begin
+   Reply(192);
+   NOption(193,Node018,004);
+end
+procedure Node018 begin
+   Reply(194);
+   NOption(195,Node019,004);
+end
+procedure Node019 begin
+   set_local_var(LVAR_Scrotum_Eaten, old_scrotum_record + 1);
+   Reply(196);
+   NOption(197,Node020,004);
+end
+procedure Node020 begin
+   poison(dude_obj, 1);
+   item_caps_adjust(dude_obj,20);
+   Reply(198);
+   NOption(199,Node999,004);
+end
+procedure Node021 begin
+   item_caps_adjust(self_obj,food_cost);
+   item_caps_adjust(dude_obj,-food_cost);
+   critter_heal(dude_obj, (dude_max_hits - dude_cur_hits));
+   poison(dude_obj, -get_poison(dude_obj));
+   set_omlet;
+   Reply(200);
+   NOption(201,Node999,004);
+end
+procedure Node022 begin
+   item_caps_adjust(self_obj,food_cost);
+   item_caps_adjust(dude_obj,-food_cost);
+   if (food_cost == 1000) then begin
+      set_gave_cookie;
+      Reply(300);
+   end else begin
+      Reply(202);
+   end
+   NOption(203,Node024,004);
+   NOption(g_bye,Node999,004);
+end
+procedure Node023 begin
+   Reply(204);
+   NOption(205,Node010,004);
+   NOption(g_bye,Node999,004);
+end
+procedure Node024 begin
+   Reply(206);
+   if ((feud_help_cornelius_seed_active) or (feud_help_farrel_seed_active)) then begin
+      NOption(207,Node025,004);
+   end
+   NOption(208,Node027,004);
+   if (ghost_farm_seed_active) then begin
+      NOption(209,Node028,004);
+   end
+   if (omlet) then begin
+      NOption(210,Node029,006);
+   end
+   NOption(211,Node030,004);
+   NOption(g_bye,Node999,004);
+end
+procedure Node025 begin
+   Reply(212);
+   NOption(g_mstr(353),Node026,004);
+end
+procedure Node026 begin
+   Reply(213);
+   NOption(214,Node023,004);
+   NOption(215,Node010,004);
+   NOption(g_bye,Node999,004);
+   NOption(g_grunt,Node999,-003); //added by killap
+end
+procedure Node027 begin
+   Reply(216);
+   NOption(g_mstr(353),Node026,004);
+end
+procedure Node028 begin
+   Reply(217);
+   NOption(g_mstr(353),Node026,004);
+end
+procedure Node029 begin
+   Reply(218);
+   NOption(g_mstr(353),Node026,004);
+end
+procedure Node030 begin
+   Reply(220);
+   NOption(g_mstr(353),Node026,004);
+end
+procedure Node031 begin
+   critter_heal(dude_obj, (dude_max_hits - dude_cur_hits));
+   poison(dude_obj, -get_poison(dude_obj));
+   Reply(221);
+   NOption(g_mstr(random(202 + (100*dude_is_stupid),203 + (100*dude_is_stupid))),Node026,001); //edit by killap - 100*dude_is_stupid
+end
+procedure Node032 begin
+   Reply(222);
+   NOption(156,Node010,004);
+   NOption(158,Node023,004);
+   NOption(g_bye,Node999,004);
+end
+procedure Node033 begin
+   food_cost := 1000;
+   Reply(225);
+   NOption(226,Node987,004);
+   NOption(227,Node010,004);
+   NOption(g_bye,Node999,004);
+end
+procedure Node034 begin
+   Reply(228);
+   if (ghost_farm_seed_completed == false) then begin
+      NOption(229,Node010,004);
+   end
+   NOption(230,Node999,004);
+   NOption(231,Node999,-003);
+end

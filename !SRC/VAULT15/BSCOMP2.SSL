@@ -1,0 +1,195 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Darion's computer has spy holodisk and info.
+        Description: It gives you spy information.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_BSCOMP2
+#define CUR_COMP_SCRIPT         SCRIPT_BSCOMP2
+
+#include "..\headers\command.h"
+#include "..\headers\v15.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Got_Holodisk                (0)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+variable Skill_Roll;
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+procedure Node001;
+procedure Node002;
+procedure Node999;
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+   script_overrides;
+   Skill_Roll := roll_vs_skill(dude_obj, SKILL_SCIENCE, 0);
+   dialogue_system_enter;
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+
+/**********************************************************************************
+**********************************************************************************/
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+
+/**********************************************************************************
+   Make sure the door is working.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+   if (action_being_used == SKILL_SCIENCE) then
+      call use_p_proc;
+end
+
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged it breaks
+******************************************************************************************/
+
+procedure damage_p_proc begin
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   if (local_var(LVAR_Got_Holodisk) == 1) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node002;
+      gSay_End;
+      end_dialogue;
+   end else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+      end_dialogue;
+   end
+end
+
+procedure giveHolodisk begin
+   set_local_var(LVAR_Got_Holodisk, 1);
+   set_global_var(GVAR_V15_NCR_SPY, 1);
+   add_obj_to_inven(dude_obj, create_object_sid(SPY_HOLO_PID, self_tile, elevation(self_obj), SCRIPT_BISPYHOL));
+   set_global_var(GVAR_NCR_SPY_KNOWN, 1);
+end
+
+procedure Node001 begin
+   if (is_success(Skill_Roll)) then begin
+      call giveHolodisk;
+      Reply(103);
+      ENDOPTION;
+   end else begin
+      Reply(104);
+      ENDOPTION;
+   end
+end
+
+procedure Node002 begin
+   Reply(106);
+   ENDOPTION;
+end
+
+procedure Node999 begin
+end

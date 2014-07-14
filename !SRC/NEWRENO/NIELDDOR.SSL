@@ -1,0 +1,114 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+import variable new_reno_eldridge_obj;
+
+#define LOCKED_STATUS                   check_lock_eldridge_door
+
+procedure def_use_p_proc;
+procedure def_use_skill_on_p_proc;
+procedure def_map_update_p_proc;
+procedure def_map_enter_p_proc;
+
+procedure check_lock_eldridge_door;
+
+procedure check_map_update;
+
+procedure test_use_tamper;
+procedure test_use_skill_tamper;
+
+procedure use_p_proc begin
+      call def_use_p_proc;
+end
+
+procedure use_skill_on_p_proc begin
+      call def_use_skill_on_p_proc;
+end
+
+procedure map_update_p_proc begin
+   call check_map_update;
+end
+
+// added by killap
+procedure map_enter_p_proc begin
+  // eldridge_open time
+  if not((game_time_hour >= 600) and (game_time_hour <= 2100)) then
+    obj_close(self_obj); 
+  call def_map_enter_p_proc;
+end
+// end added
+
+#define use_p_proc                        def_use_p_proc
+#define use_skill_on_p_proc               def_use_skill_on_p_proc
+#define timed_event_p_proc                def_map_timed_event_p_proc
+#define map_update_p_proc                 def_map_update_p_proc
+#define map_enter_p_proc                  def_map_enter_p_proc
+#define look_at_p_proc                    def_look_at_p_proc
+#define description_p_proc                def_description_p_proc
+
+#include "..\NewReno\niDoor.ssl"
+
+procedure check_lock_eldridge_door begin
+   if (eldridge_dead == false) then begin
+      if (tile_is_eldridge_front_door(self_tile)) then begin
+         if (eldridge_open) then begin
+            return STATE_INACTIVE;
+         end
+      end
+   end
+   return STATE_ACTIVE;
+end
+
+procedure test_use_tamper begin
+   if ((tile_is_eldridge_front_door(self_tile) == false) or (eldridge_open == false)) then begin
+      if (new_reno_eldridge_obj != 0) then begin
+         if ((obj_can_see_obj(new_reno_eldridge_obj, self_obj)) or (obj_can_see_obj(new_reno_eldridge_obj, source_obj))) then begin
+            if (source_obj == dude_obj) then begin
+               script_overrides;
+               flush_add_timer_event(new_reno_eldridge_obj, 0, tamper_door_param);
+               return true;
+            end else if (obj_in_party(source_obj)) then begin
+               script_overrides;
+               return true;
+            end
+         end
+      end
+   end
+   return false;
+end
+
+procedure test_use_skill_tamper begin
+   if ((action_being_used == SKILL_TRAPS) or (action_being_used == SKILL_LOCKPICK)) then begin
+      if (new_reno_eldridge_obj != 0) then begin
+         if (obj_can_see_obj(new_reno_eldridge_obj, source_obj)) then begin
+            if (source_obj == dude_obj) then begin
+               script_overrides;
+               flush_add_timer_event(new_reno_eldridge_obj, 0, tamper_door_param);
+               return true;
+            end else if (obj_in_party(source_obj)) then begin
+               script_overrides;
+               flush_add_timer_event(new_reno_eldridge_obj, 0, tamper_door_param);
+               return true;
+            end
+         end
+      end
+   end
+   return false;
+end
+
+procedure check_map_update begin
+   if (eldridge_dead == false) then begin
+      if (tile_is_eldridge_front_door(self_tile)) then begin
+         if (eldridge_open) then begin
+            obj_unlock(self_obj);
+         end else if (obj_in_eldridge_store_area(dude_obj) == false) then begin
+            obj_lock(self_obj);
+         end
+      end else begin
+         call def_map_update_p_proc;
+      end
+   end else begin
+      call def_map_update_p_proc;
+   end
+end

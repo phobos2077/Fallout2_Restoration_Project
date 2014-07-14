@@ -1,0 +1,71 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+variable grave_was_open;
+
+procedure def_use_obj_on_p_proc;
+procedure pre_use_obj_on_p_proc;
+procedure post_use_obj_on_p_proc;
+procedure grave_description_proc;
+
+procedure use_obj_on_p_proc begin
+   call pre_use_obj_on_p_proc;
+   call def_use_obj_on_p_proc;
+   call post_use_obj_on_p_proc;
+end
+
+procedure description_p_proc begin
+   call grave_description_proc;
+end
+
+#define use_obj_on_p_proc                       def_use_obj_on_p_proc
+#define description_p_proc                      def_description_p_proc
+
+#ifndef GIVE_HEADSTONE_NAME
+#define GIVE_HEADSTONE_NAME                     false
+#endif
+#define TOWN_REP_VAR                            GVAR_TOWN_REP_THE_DEN
+
+#include "..\generic\ziGenGrv.ssl"
+#include "..\headers\Den.h"
+
+#undef NAME
+#define NAME                                    SCRIPT_DIANNGRV
+
+
+procedure pre_use_obj_on_p_proc begin
+   if (site_is_uncovered) then begin
+      grave_was_open := true;
+      if (obj_pid(obj_being_used_with) == PID_ANNA_BONES) then begin
+         transfer_all_pid_between_objs(source_obj, self_obj, PID_ANNA_BONES)
+      end
+   end else begin
+      grave_was_open := false;
+      no_karma_penalty := anna_spoken;
+   end
+end
+procedure post_use_obj_on_p_proc begin
+   if (grave_was_open) then begin
+      if (site_is_covered) then begin
+         if (obj_carrying_pid_obj(self_obj, PID_ANNA_BONES)) then begin
+            remove_pid_qty(self_obj, PID_ANNA_BONES, 1)
+ //           give_xp(EXP_BURY_ANNA_BONES);
+            inc_general_rep(REP_BONUS_DEN_BURY_ANNA_BONES);
+            inc_den_rep(REP_TOWN_BURY_ANNA);
+            display_mstr(200);
+            give_xp(EXP_BURY_ANNA_BONES); //killap's fix: changed to "give_xp"
+         end
+      end
+   end
+   no_karma_penalty := false;
+end
+
+procedure grave_description_proc begin
+   if (is_headstone) then begin
+      script_overrides;
+      display_mstr(101);
+   end else begin
+      call def_description_p_proc;
+   end
+end

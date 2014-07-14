@@ -1,0 +1,130 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Guardian of Forever Vault 13 termial.
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_ECGRDTRM
+#define CUR_COMP_SCRIPT         SCRIPT_ECGRDTRM
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure Break_Chip;
+
+#define LVAR_Broke_Chip       (0)
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if( fixed_param == 0 ) then begin
+      floater( random( 104, 106 ) );
+      add_timer_event( self_obj, game_ticks(4), 0 );
+   end
+   else if( fixed_param == 1 ) then begin
+      gfade_out(600);
+      move_to( dude_obj, 18095, 0 );
+      critter_attempt_placement( dude_obj, 18095, 0 );
+      anim( dude_obj, ANIMATE_ROTATION, 5 );
+      gfade_in(600);
+   end
+end
+
+procedure use_p_proc begin
+   if( local_var( LVAR_Broke_Chip ) == 0 ) then begin
+      script_overrides;
+      call Break_Chip;
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if( local_var( LVAR_Broke_Chip ) == 0 ) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if( local_var( LVAR_Broke_Chip ) == 0 ) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+procedure use_skill_on_p_proc begin
+   if( local_var( LVAR_Broke_Chip ) == 0 ) then begin
+      script_overrides;
+      call Break_Chip;
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   if( local_var( LVAR_Broke_Chip ) == 0 ) then begin
+      script_overrides;
+      call Break_Chip;
+   end
+end
+
+/******************************************************************************************
+   IF it gets damaged it breaks
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   if( local_var( LVAR_Broke_Chip ) == 0 ) then begin
+      script_overrides;
+      call Break_Chip;
+   end
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   add_timer_event( self_obj, game_ticks(4), 0 );
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+procedure Break_Chip begin
+   set_local_var( LVAR_Broke_Chip, 1 );
+   float_msg( dude_obj, mstr(103), FLOAT_COLOR_AFRAID );
+   display_msg( mstr(102) );
+   give_xp( EXP_BROKE_WATER_CHIP );
+   add_timer_event( self_obj, game_ticks(10), 1 );
+end

@@ -1,0 +1,124 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Item: Farrel wall safe
+        Description: Farrels infamous wall safe
+
+        Log:
+
+           Created: September 26, 1997
+
+           Updated:
+*/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_MIWALSFE
+#include "..\headers\command.h"
+#include "..\headers\modoc.h"
+#include "..\headers\ModInn.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_p_proc;
+procedure use_obj_on_p_proc;
+procedure use_skill_on_p_proc;
+
+#define LVAR_Locked                                   (0)
+
+variable farrel_caught;
+import variable modoc_farrel_obj;
+
+/*
+   Local variables which do not need to be saved between map changes.
+*/
+#define check_farrel_catch       farrel_caught := false;                                              \
+                                 if (not(farrel_dead)) then begin                                \
+                                    if (obj_can_see_obj(modoc_farrel_obj, source_obj)) then begin     \
+                                       debug_msg("farrel caught source_obj");                         \
+                                       script_overrides;                                              \
+                                       farrel_caught := true;                                         \
+                                       inc_wall_safe_attempt;                                         \
+                                    end else begin                                                    \
+                                       debug_msg("farrel can't see source obj");                      \
+                                    end                                                               \
+                                 end else begin                                                       \
+                                    debug_msg("modoc_farrel_obj == 0");                               \
+                                 end                                                                  \
+                                 set_wall_safe_found
+
+#define roll_lock_and_switch(x)  if (is_success(roll_vs_skill(dude_obj,SKILL_LOCKPICK,x))) then begin     \
+                                    debug_msg("message pass == "+mstr(200));                                \
+                                    give_xp(EXP_LOCKPICK_NORMAL);                                           \
+                                    if (local_var(LVAR_Locked) == 1) then begin                             \
+                                       set_local_var(LVAR_Locked, 0);                                       \
+                                    end else begin                                                          \
+                                       set_local_var(LVAR_Locked, 1);                                       \
+                                    end                                                                     \
+                                    display_msg(mstr(200 + local_var(LVAR_Locked))); \
+                                 end else begin                                                             \
+                                    debug_msg("message fail == "+mstr(210));                                \
+                                    display_msg(mstr(210 + local_var(LVAR_Locked))); \
+                                 end
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+/* Set up the door state when the player first enters the map */
+   match_dude_elevation;
+   if ((is_loading_game == false) and (farrel_dead == false)) then begin
+      if (obj_is_open(self_obj)) then obj_close(self_obj);
+      set_local_var(LVAR_Locked, 1);
+   end
+end
+
+procedure map_update_p_proc begin
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+   set_wall_safe_found;
+end
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(100);
+   set_wall_safe_found;
+end
+
+procedure use_p_proc begin
+   debug_msg("use_p_proc");
+   check_farrel_catch;
+   if (local_var(LVAR_Locked) == 1) then begin
+      script_overrides;
+      display_mstr(110);
+   end
+end
+procedure use_obj_on_p_proc begin
+   debug_msg("use_obj_on_p_proc");
+   check_farrel_catch;
+   if (farrel_caught == false) then begin
+      if ( (obj_pid(obj_being_used_with) == PID_LOCKPICKS) or (obj_pid(obj_being_used_with) == PID_EXP_LOCKPICK_SET) ) then begin //added exp_lockpick_set - killap
+         script_overrides;
+         roll_lock_and_switch(-10)
+      end
+   end
+end
+procedure use_skill_on_p_proc begin
+   debug_msg("use_skill_on_p_proc");
+   check_farrel_catch;
+   if (farrel_caught == false) then begin
+      if (action_being_used == SKILL_LOCKPICK) then begin
+         script_overrides;
+         roll_lock_and_switch(-60)
+      end
+   end
+end

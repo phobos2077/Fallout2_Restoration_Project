@@ -1,0 +1,122 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/* Random Encounter scripts. These will be filled in more once they
+   have been designed.
+*/
+
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_ECMONSHN
+
+#include "..\headers\command.h"
+#include "..\headers\modreact.h"
+
+procedure start;
+procedure talk_p_proc;
+procedure critter_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc; //added by killap
+procedure pickup_p_proc; //added by killap
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node999;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   variable item;
+
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_MOONSHINER);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ADDICT);
+   add_timer_event(self_obj,game_ticks(random(10,30)),1);
+
+   if (map_first_run) then begin
+       item:=create_object(PID_BEER,0,0);
+       add_mult_objs_to_inven(self_obj,item,random(2,5));
+       if (random(0,99) < 10) then begin
+           item:=create_object(PID_BOOZE,0,0);
+           add_mult_objs_to_inven(self_obj,item,random(2,4));
+       end
+       if (random(0,99) < 10) then begin
+           item:=create_object(PID_ROT_GUT,0,0);
+           add_mult_objs_to_inven(self_obj,item,random(2,4));
+       end
+       if (random(0,99) < 10) then begin
+           item:=create_object(PID_JET,0,0);
+           add_mult_objs_to_inven(self_obj,item,random(2,4));
+       end
+       if (random(0,99) < 10) then begin
+           item:=create_object(PID_NUKA_COLA,0,0);
+           add_mult_objs_to_inven(self_obj,item,random(2,4));
+       end
+   end
+end
+
+procedure talk_p_proc begin
+   floater(random(106,107));
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure critter_p_proc begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then begin
+       add_timer_event(self_obj,game_ticks(random(10,30)),1);
+       floater(random(106,107));
+   end
+end
+
+procedure Node001 begin
+   Reply(101);
+
+   NOption(102,Node003,004);
+   NOption(103,Node002,004);
+   NLowOption(104,Node999);
+end
+
+procedure Node002 begin
+   NMessage(105);
+end
+
+procedure Node003 begin
+   gdialog_mod_barter(0);
+
+   NMessage(108);
+end
+
+procedure Node999 begin
+end
+
+//added by killap
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+     self_attack_dude;
+   end
+end
+//end added

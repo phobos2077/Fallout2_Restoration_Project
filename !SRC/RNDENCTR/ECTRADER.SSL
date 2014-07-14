@@ -1,0 +1,374 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/* Random Encounter scripts. These will be filled in more once they
+   have been designed.
+*/
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_ECTRADER
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure combat_p_proc;
+procedure timed_event_p_proc;
+
+#define STATE_SOLD   1
+#define STATE_BEATIT 2
+
+#define ITEM_KNIFE   1
+#define ITEM_PISTOL  2
+#define ITEM_SPEAR   3
+#define ITEM_H2H     4
+#define ITEM_RIFLE   5
+#define ITEM_SPECIAL 6
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Restock_Time               (7)
+#define LVAR_Leave                      (8)
+#define LVAR_State                      (9)
+#define LVAR_Item_Pid                   (10)
+#define LVAR_Item_Type                  (11)
+#define LVAR_Item_Price                 (12)
+#define LVAR_Restock_Time_Fix           (13) //added by killap
+
+procedure NodeFleeing;
+procedure NodeFighting;
+
+#define TAUNT_CHANCE 20
+#define TIMER_DESTROY 1
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+
+procedure ChooseItem;
+
+variable nodeFCount;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_DESTROY) then begin
+      destroy_object(self_obj);
+   end
+end
+
+procedure map_enter_p_proc begin
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_TRADER);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+   if (not is_loading_game) then begin
+      call ChooseItem;
+      
+      //added by killap - fix for game_time going negative after 7 years
+      if (((game_time) < 0) and (local_var(LVAR_Restock_Time_Fix) == 0)) then begin
+         set_local_var(LVAR_Restock_Time, game_time - 1);
+         set_local_var(LVAR_Restock_Time_Fix, 1);
+      end
+      //end added      
+      
+      if (local_var(LVAR_Restock_Time) < game_time) then begin
+         check_restock_item(local_var(LVAR_Item_Pid), 1, 5, 100));
+         set_local_var(LVAR_Restock_Time, (random(6,12) * ONE_GAME_DAY) + game_time);
+      end
+   end
+
+   if (global_var(GVAR_RND_SALES_NAME) == 0) then begin
+      set_global_var(GVAR_RND_SALES_NAME, Random(143, 151));
+   end
+end
+
+procedure critter_p_proc begin
+   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+   if (local_var(LVAR_Leave) == 1) then begin
+      if (obj_on_screen(self_obj)) then begin
+         if (not anim_busy(self_obj)) then begin
+            reg_anim_clear(self_obj);
+            reg_anim_begin();
+            animate_move_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 6));
+            reg_anim_end();
+         end
+      end else begin
+         add_timer_event(self_obj, 0, TIMER_DESTROY);
+      end
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+procedure talk_p_proc begin
+   if (local_var(LVAR_State) == 0) then begin
+      if (global_var(GVAR_RND_SALES_ENCOUNTER) == 0) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node001;
+         gSay_End;
+         end_dialogue;
+      end else begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node007;
+         gSay_End;
+         end_dialogue;
+      end
+      set_global_var(GVAR_RND_SALES_ENCOUNTER, global_var(GVAR_RND_SALES_ENCOUNTER) + 1);
+   end else if (local_var(LVAR_State) == STATE_BEATIT) then begin
+      call Node008;
+   end else if (local_var(LVAR_State) == STATE_SOLD) then begin
+      call Node009;
+   end
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+
+   set_global_var(GVAR_RND_SALES_NAME, Random(143, 151));
+   set_global_var(GVAR_RND_SALES_ENCOUNTER, 0);
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(101));
+   else
+      display_msg(mstr(global_var(GVAR_RND_SALES_NAME)) );
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+   end
+end
+
+procedure combat_p_proc begin
+   if (critter_is_fleeing(self_obj)) then begin
+      if (Random(1, 100) <= TAUNT_CHANCE) then begin
+         call NodeFleeing;
+      end
+   end else begin
+      if (Random(1, 100) <= TAUNT_CHANCE) then begin
+         call NodeFighting;
+      end
+   end
+end
+
+procedure Node999 begin
+end
+
+procedure Node002a begin
+   fadeout(1);
+   game_time_advance(ONE_GAME_HOUR * 3);
+   fadein(1);
+   call Node002;
+end
+
+procedure Node001 begin
+   Reply(103);
+   NOption(104, Node002a, 1);
+end
+
+procedure Node002 begin
+   Reply(105);
+   NOption(106, Node003, 4);
+   NLowOption(107, Node006);
+end
+/*
+ITEM_KNIFE
+ITEM_PISTOL
+ITEM_SPEAR
+ITEM_H2H
+ITEM_RIFLE
+ITEM_SPECIAL
+*/
+procedure Node0405a begin
+   if (dude_caps >= local_var(LVAR_Item_Price)) then begin
+      call Node004;
+   end else begin
+      call Node005;
+   end
+end
+
+procedure Node003 begin
+   variable rnum := 0;
+
+   if (local_var(LVAR_Item_Type) == ITEM_KNIFE) then begin
+      rnum := 108;
+   end else if (local_var(LVAR_Item_Type) == ITEM_SPEAR) then begin
+      rnum := 109;
+   end else if (local_var(LVAR_Item_Type) == ITEM_PISTOL) then begin
+      rnum := 110;
+   end else if (local_var(LVAR_Item_Type) == ITEM_SPECIAL) then begin
+      rnum := 111;
+   end else if (local_var(LVAR_Item_Type) == ITEM_RIFLE) then begin
+      rnum := 112;
+   end else if (local_var(LVAR_Item_Type) == ITEM_H2H) then begin
+      rnum := 113;
+   end
+
+   Reply(mstr(rnum) + local_var(LVAR_Item_Price) + mstr(200));
+   NOption(114, Node0405a, 4);
+   NOption(115, Node005, 4);
+end
+
+procedure Node004 begin
+   variable obj;
+
+   set_local_var(LVAR_State, STATE_SOLD);
+   set_local_var(LVAR_Leave, 1);
+   obj := obj_carrying_pid_obj(self_obj, local_var(LVAR_Item_Pid));
+   if (obj) then begin
+      item_caps_adjust(dude_obj, -local_var(LVAR_Item_Price));
+      rm_obj_from_inven(self_obj, obj);
+      add_obj_to_inven(dude_obj, obj);
+   end
+   Reply(116);
+   NOption(117, Node999, 1);
+end
+
+procedure Node005 begin
+   set_local_var(LVAR_State, STATE_BEATIT);
+   set_local_var(LVAR_Leave, 1);
+   Reply(118);
+   NOption(119, Node999, 1);
+end
+
+procedure Node006 begin
+   Reply(mstr(120) + local_var(LVAR_Item_Price) + mstr(152) );
+   NLowOption(121, Node004);
+   NLowOption(122, Node005);
+end
+
+procedure Node007 begin
+   Reply(123);
+   NOption(124, Node003, 4);
+   NOption(125, Node005, 4);
+   NLowOption(126, Node004);
+   NLowOption(127, Node005);
+end
+
+procedure Node008 begin
+   float_msg(self_obj, mstr(128 + Random(0, 2)), FLOAT_MSG_NORMAL);
+end
+
+procedure Node009 begin
+   float_msg(self_obj, mstr(131 + Random(0, 3)), FLOAT_MSG_NORMAL);
+end
+
+procedure NodeFleeing begin
+   float_msg(self_obj, mstr(138 + nodeFCount), FLOAT_MSG_YELLOW);
+   nodeFCount += 1;
+   if (nodeFCount > 4) then nodeFCount := 4;
+end
+
+procedure NodeFighting begin
+   float_msg(self_obj, mstr(135 + Random(0, 2)), FLOAT_MSG_RED);
+end
+
+#define ITEM_MAC(ItemPid, lowLvl, hiLvl, type, price)           \
+   if (dude_level >= lowLvl and dude_level <= hiLvl) then begin \
+      set_local_var(LVAR_Item_Pid, ItemPid);                    \
+      set_local_var(LVAR_Item_Type, type);                      \
+      set_local_var(LVAR_Item_Price, price);                    \
+   end
+
+procedure ChooseItem begin
+   variable val;
+   variable mod;
+
+   mod := 11 - dude_luck;
+
+   while (local_var(LVAR_Item_Pid) == 0) do begin
+      val := Random(1, 25);
+      if (val == 1) then begin
+         ITEM_MAC(PID_KNIFE, 1, 3, ITEM_KNIFE, 40 * mod)
+      end else if (val == 2) then begin
+         ITEM_MAC(PID_COMBAT_KNIFE, 3, 5, ITEM_KNIFE, 165 * mod)
+      end else if (val == 3) then begin
+         ITEM_MAC(PID_THROWING_KNIFE, 1, 5, ITEM_KNIFE, 100 * mod)
+      end else if (val == 4) then begin
+         ITEM_MAC(PID_RIPPER, 8, 1000, ITEM_KNIFE, 900 * mod)
+      end else if (val == 5) then begin
+         ITEM_MAC(PID_10MM_PISTOL, 1, 5, ITEM_PISTOL, 250 * mod)
+      end else if (val == 6) then begin
+         ITEM_MAC(PID_DESERT_EAGLE, 3, 5, ITEM_PISTOL, 800 * mod)
+      end else if (val == 7) then begin
+         ITEM_MAC(PID_10MM_SMG, 6, 10, ITEM_PISTOL, 1000 * mod)
+      end else if (val == 8) then begin
+         ITEM_MAC(PID_14MM_PISTOL, 6, 1000, ITEM_PISTOL, 1100 * mod)
+      end else if (val == 9) then begin
+         ITEM_MAC(PID_ROCK, 1, 3, ITEM_SPEAR, 1 * mod)
+      end else if (val == 10) then begin
+         ITEM_MAC(PID_SPEAR, 1, 3, ITEM_SPEAR, 80 * mod)
+      end else if (val == 11) then begin
+         ITEM_MAC(PID_SHARPENED_POLE, 1, 10, ITEM_SPEAR, 4 * mod)
+      end else if (val == 12) then begin
+         ITEM_MAC(PID_SHARP_SPEAR, 1, 1000, ITEM_SPEAR, 100 * mod)
+      end else if (val == 13) then begin
+         ITEM_MAC(PID_CATTLE_PROD, 6, 1000, ITEM_H2H, 600 * mod)
+      end else if (val == 14) then begin
+         ITEM_MAC(PID_CROWBAR, 1, 5, ITEM_H2H, 65 * mod)
+      end else if (val == 15) then begin
+          ITEM_MAC(PID_CLUB, 1, 5, ITEM_H2H, 30 * mod)
+      end else if (val == 16) then begin
+          ITEM_MAC(PID_SPIKED_KNUCKLES, 1, 1000, ITEM_H2H, 250 * mod)
+      end else if (val == 17) then begin
+          ITEM_MAC(PID_BRASS_KNUCKLES, 1, 5, ITEM_H2H, 40 * mod)
+      end else if (val == 18) then begin
+          ITEM_MAC(PID_POWER_FIST, 10, 1000, ITEM_H2H, 2200 * mod)
+      end else if (val == 19) then begin
+          ITEM_MAC(PID_SHOTGUN, 3, 5, ITEM_RIFLE, 800 * mod)
+      end else if (val == 20) then begin
+          ITEM_MAC(PID_HUNTING_RIFLE, 3, 5, ITEM_RIFLE, 1000 * mod)
+      end else if (val == 21) then begin
+          ITEM_MAC(PID_ASSAULT_RIFLE, 11, 15, ITEM_RIFLE, 1300 * mod)
+      end else if (val == 22) then begin
+          ITEM_MAC(PID_MINIGUN, 15, 20, ITEM_RIFLE, 3800 * mod)
+      end else if (val == 23) then begin
+          ITEM_MAC(PID_RED_RYDER_BB_GUN, 1, 5, ITEM_RIFLE, 200 * mod)
+      end else if (val == 24) then begin
+          ITEM_MAC(PID_SNIPER_RIFLE, 11, 15, ITEM_RIFLE, 2200 * mod)
+      end else if (val == 25) then begin
+          if (stat_success(dude_obj, STAT_lu, 0)) then
+            ITEM_MAC(PID_ALIEN_LASER_PISTOL, 13, 1000, ITEM_SPECIAL, 10000 * mod)
+      end
+   end
+end

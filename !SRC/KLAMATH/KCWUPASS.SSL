@@ -1,0 +1,72 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Attack Robot
+        Location: KLAMATH
+
+        Log:
+
+           Created: December 02, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+#include "..\headers\klamath.h"
+//#include "..\headers\<TownName.h>"
+
+#define NAME                    SCRIPT_KCWUPASS
+
+#include "..\headers\command.h"
+//#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+
+/* Local variables which do not need to be saved between map changes. */
+
+procedure start begin
+end
+
+procedure critter_p_proc begin
+   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+      attack(dude_obj);
+   end
+end
+
+procedure destroy_p_proc begin
+end
+
+procedure damage_p_proc begin
+   attack(dude_obj);
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+procedure use_skill_on_p_proc begin
+   script_overrides;
+end
+
+procedure map_enter_p_proc begin
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_LONER);
+   //add_timer_event(self_obj,game_ticks(random(1,5)),0);
+end

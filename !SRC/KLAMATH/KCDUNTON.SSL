@@ -1,0 +1,1664 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Dunton
+        Location: Klamath
+        Description:
+
+        Note: Currently this script cannot be loaded by the scripting tool.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Hostility is now kept track with GVAR_ENEMY_DUNTON...once the
+           Duntons are mad at the player, they stay mad. Could modify this
+           to allow for different levels (similar to Hostile) if they
+           should forgive the player
+
+           Created: Febuary 3, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\klamath.h"
+#include "..\headers\klagraz.h"
+#include "..\headers\KLADWTN.H." //added by killap - expansion
+
+#define NAME                    SCRIPT_KCDUNTON
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_KLAMATH)
+#define floater(x)              float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
+#define UNKNOWN     0
+#define GOLDENGECKO 1
+#define SHOP        2
+#define PASTURE     3  //if duntons on herd map
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#define Vault_Known             (1)     // Temp Until get command from Jesse
+#define Visited_City            (1)     // Temp Until get command from Jesse
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure timed_event_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure combat_p_proc;
+procedure map_enter_p_proc;
+procedure push_p_proc;
+procedure checkarea; //checks where the dunton is
+procedure checktile; //checks tile being move to
+procedure gettarget;
+procedure duntonbarter;
+procedure rustle_status;
+procedure should_i_be_here;
+procedure combat;
+//procedure scampera;
+procedure scamper;
+
+/* Script Specific Procedure Calls */
+procedure Node900;   //added by killap - expansion
+procedure Node901;   //added by killap - expansion
+procedure Node902;   //added by killap - expansion
+procedure Node903;   //added by killap - expansion
+procedure Node910;
+procedure Node920;
+procedure Node921;
+procedure Node922;
+procedure Node923;
+procedure Node924;
+procedure Node930;
+procedure Node931;
+procedure Node932;
+procedure Node934;
+procedure Node935;
+procedure Node936;
+procedure Node937;
+procedure Node938;
+procedure Node939;
+procedure Node940;
+procedure Node941;
+procedure Node942;
+procedure Node944;
+procedure Node945;
+procedure Node946;
+procedure Node948;
+procedure Node950;
+procedure Node951;
+procedure Node952;
+procedure Node955;
+procedure Node960;
+procedure Node961;
+procedure Node962;
+procedure Node963;
+procedure Node964;
+procedure Node965;
+procedure Node966;
+procedure Node967;
+procedure Node970;
+procedure Node971;
+procedure Node972;
+procedure Node973;
+procedure Node975;
+procedure Node980;
+procedure Node983;
+procedure Node985;
+procedure Node988;
+procedure Node989;
+procedure Node990;
+procedure Node991;
+procedure Node992;
+procedure Node993;
+procedure Node994;
+procedure Node995;
+procedure Node996;
+procedure Node997;
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node06a;
+procedure Node06b;
+procedure Node06c;
+procedure Node06d;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_THEX                       (5)
+#define LVAR_attempted_barter           (6)
+#define LVAR_talk_bout_work             (7)
+#define LVAR_maxws                      (8)
+#define LVAR_maxwf                      (9)
+#define LVAR_warned_dude                (10)
+#define LVAR_Weapon_Check               (11) //added by killap
+
+//following should be changed to mapvars
+//even herebefore,hostile and personal_enemy might be changed to mapvar
+//#define LVAR_11_before                  (7)
+//#define LVAR_21_before                  (8)
+//#define LVAR_23_before                  (9)
+
+//these should be map vars as both duntons need to read them
+//#define LVAR_Duntons_Angry              (7)
+//#define LVAR_Rustle_Fail                (8)
+//#define LVAR_Rustle_Fail_Violent        (9)
+//#define LVAR_Rustle_Refuse              (10)
+//#define LVAR_Rustle_Accept              (11)
+//#define LVAR_Rustle_success             (12)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable from_10:=0;
+variable from_14:=0;
+variable from_18:=0;
+variable who_am_i:=0;//get random brother chuck or buck
+variable here;
+variable area;
+variable k;
+variable needtomove:=0;
+variable tile;
+variable new_tile;
+variable lock_out_events:=0;
+//variable active:=0;
+variable rustle_triggered:=0; //use this variable rather than checking five globals
+variable dest;
+variable item;
+
+import variable klam_dunton_box_obj;
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+
+//the Duntons behave different if on GRAZE map...
+//they will be there if the player has triggered the
+//rustling incident..otherwise they will be invisible
+//On the downtown map they have a schedule between
+//working and drinking in the bar...they always
+//beat the player back to town.
+   Only_Once:=0;
+   //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DUNTONS);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_DUNTON);
+
+   if (cur_map_index == MAP_KLAMATH_1) then begin
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_KLAMATH_CROOKS);
+      set_local_var(LVAR_THEX, 0);
+      //active:=1;
+   end
+   else if (cur_map_index == MAP_KLAMATH_GRAZE) then begin
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DUNTONS);
+      call rustle_status;
+      call should_i_be_here;
+   end
+   
+   //added by killap - expansion (remove Duntons when accused of rustling)
+   if (global_var(GVAR_KLAMATH_FIND_RUSTLERS) == FIND_RUSTLERS_SUCCESS) then
+      destroy_object(self_obj);
+   //end
+   
+end
+
+procedure rustle_status begin
+   if (global_var(GVAR_RUSTLE_ACCEPT) == 1) then
+      rustle_triggered := 1;
+   if (global_var(GVAR_RUSTLE_REFUSE) == 1) then
+      rustle_triggered := 1;
+   if (global_var(GVAR_TORR_GUARD_STATUS) == TORR_GUARD_ACCEPT) then
+      rustle_triggered := 1;
+   if (global_var(GVAR_RUSTLE_SUCCESS) == 1) then
+      rustle_triggered := 0;
+   if (global_var(GVAR_RUSTLE_FAIL) == 1) then
+      rustle_triggered := 0;
+   if (global_var(GVAR_TORR_DEAD) == 1) then //cant rustle from Torr if Torr is dead
+      rustle_triggered := 0;
+   if (global_var(GVAR_DUNTON_DEAD) == 1) then
+      rustle_triggered := 0;
+   if (global_var(GVAR_RUSTLE_OVER) == 1) then //to prevent rustle from happening more than once
+      rustle_triggered := 0;
+end
+
+procedure should_i_be_here begin
+   if rustle_triggered then begin
+        //they are here
+        set_obj_visibility(self_obj,0);
+        //active:=1; //enable all p_procs
+        add_timer_event(self_obj,game_ticks(4),2);
+   end
+   else begin
+        //they are gone
+        set_obj_visibility(self_obj,1);
+        //active:=0; //disable all p_procs
+   end
+end
+
+procedure combat_p_proc begin
+   if ( (local_var(LVAR_Weapon_Check) == 0) and (obj_is_carrying_obj_pid(self_obj,PID_SPIKED_KNUCKLES) == 0) ) then begin
+      item := create_object(PID_SPIKED_KNUCKLES,0,0);
+      add_obj_to_inven(self_obj, item);
+      set_local_var(LVAR_Weapon_Check,1);
+   end
+end
+
+procedure combat begin
+   debug_msg("COMBAT");
+   set_global_var(GVAR_ENEMY_DUNTON,1);
+   //set_local_var(LVAR_Hostile,2);
+end
+
+procedure timed_event_p_proc begin
+   //if active then begin
+      if (fixed_param == 0) then begin
+         lock_out_events:=0;//can allow another timed event now that this one is over
+         new_tile := tile_num_in_direction(tile_num(self_obj), random(0,5), random(1,3));
+         call checktile;
+         if (tile != UNKNOWN) then //don't move to an unknown tile...prevents walking outside
+            animate_move_to_tile(new_tile);
+      end
+      else if (fixed_param == 1) then begin
+         call scamper;
+      end
+   //end
+end
+
+procedure scamper begin
+//this should only be called on a failure
+//will turn off duntons on this map
+   if (map_var(MVAR_Duntons_Off_Map) == 0) then begin
+      set_map_var(MVAR_Duntons_Off_Map,1);
+      call rustle_status;
+      gfade_out(900);
+      if ( (global_var(GVAR_RUSTLE_OVER) == 1) and (cur_map_index == MAP_KLAMATH_GRAZE) ) then begin
+         reg_anim_clear(self_obj);
+         move_to(self_obj,0,0);
+      end
+      call should_i_be_here;
+      gfade_in(900);
+   end
+   else begin
+      call rustle_status;
+      call should_i_be_here;
+   end
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+/* if the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+//if active then begin
+
+   if ( (global_var(GVAR_ENEMY_DUNTON) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       //set_local_var(LVAR_Hostile,1); //changing ENEMY DUNTON here could allow Duntons to forgive
+       attack(dude_obj);
+   end
+   else if (cur_map_index == MAP_KLAMATH_1) then begin
+      call checkarea;
+      //if the dude is stealing from the Duntons then they get angry
+      if ( (area == 2) and (map_var(MVAR_Stealing) > 0) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+         set_map_var(MVAR_Stealing,0);
+         floater(600);
+         set_global_var(GVAR_ENEMY_DUNTON,1);
+         //set_local_var(LVAR_Hostile,2);
+         attack(dude_obj);
+      end
+      else begin //dude not stealing
+
+         needtomove:=0;//don't need to move unless gettarget sets needtomove
+         call gettarget;
+         if (needtomove == 1) then begin
+            if (local_var(LVAR_THEX) > 0) then begin //don't move unless you have a target hex
+              //debug_msg("target_hex= "+local_var(LVAR_THEX));
+              //debug_msg("\n");
+              animate_move_to_tile(local_var(LVAR_THEX));
+           end
+         end
+         else begin
+            if (lock_out_events == 0) then begin
+               lock_out_events:=1;
+               add_timer_event(self_obj, game_ticks(random(10,15)), 0);
+            end
+         end
+
+      end //dude not stealing
+   end //if downtown
+   else begin //we are active on pasture map
+      //did dude just kill Brahmin, Torr, or fail in some way?
+      //added if dude kills all scorps
+      if ( (global_var(GVAR_RUSTLE_FAIL) == 1) or
+           (global_var(GVAR_RUSTLE_FAIL_VIOLENT) == 1) or
+           ( KILLED_ALL_SCORPS and (global_var(GVAR_RUSTLE_SUCCESS) != 1) ) ) then begin //added rustle success check - killap
+         set_global_var(GVAR_RUSTLE_OVER,1);
+         dest:=tile_num_in_direction(tile_num(self_obj), 5, 12);
+         //lets get outta here
+         animate_run_to_tile(dest);
+         add_timer_event(self_obj,game_ticks(2),1);
+      end
+   end
+
+//end //if active
+
+end
+
+procedure checktile begin
+//need to check what map they are on also
+   here:=new_tile;
+   tile:=UNKNOWN;
+   if (tile_distance(here,17926) < 5) then tile:=GOLDENGECKO;//these distances should be small
+   else if (tile_distance(here,18100) < 4) then tile:=SHOP;//so the duntons wont block doorways
+end
+
+
+procedure checkarea begin
+//need to check what map they are on also
+   here:=tile_num(self_obj);
+   area:=UNKNOWN;
+   if (cur_map_index == MAP_KLAMATH_GRAZE) then area:=PASTURE;
+   else if (tile_distance(here,17926) < 5) then area:=GOLDENGECKO;//these distances should be small
+   else if (tile_distance(here,18100) < 4) then area:=SHOP;//so the duntons wont block doorways
+   //else if (tile_distance(here,18093) < 2) then area:=HOME;
+/*
+   if (area == UNKNOWN) then
+      debug_msg("i am at UNKNOWN\n");
+   else if (area == SHOP) then
+      debug_msg("i am at SHOP\n");
+   //else if (area == HOME) then
+   //   debug_msg("i am at HOME\n");
+   else if (area == GOLDENGECKO) then
+      debug_msg("i am at GOLDENGECKO\n");
+*/
+end
+
+
+procedure gettarget begin
+//The Duntons move between their shop and the golden gecko.
+//They move to a random tile near the center..this was done
+//to reduce the times that they try to move to the same hex
+//in which case they stand one behind the other and it looks
+//odd.
+   if ( (game_time_hour < 1601) and (area != SHOP) ) then begin
+      //need to move shop
+      new_tile := tile_num_in_direction(18100, random(0,5), random(1,2));//gives 18 destinations
+      set_local_var(LVAR_THEX,new_tile);//was 18100
+      needtomove:=1;
+   end
+   else if ( (game_time_hour > 1600) and (area != GOLDENGECKO) ) then begin
+      //need to move to goldengecko
+      new_tile := tile_num_in_direction(17926, random(0,5), random(1,2));//gives 18 destinations
+      set_local_var(LVAR_THEX,new_tile);
+      needtomove:=1;
+   end
+   //else if ( ((game_time_hour > 800) and (game_time_hour < 1601)) and (area != SHOP) ) then begin
+   //set_local_var(LVAR_THEX,18100);
+   //needtomove:=1;
+   //need to move to shop
+   //end
+end
+
+procedure duntonbarter begin
+  gdialog_mod_barter(0);
+  set_local_var(LVAR_attempted_barter,1);
+  //NMessage("");//replace with KCSLIM
+  call Node013;
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+//if active then begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_global_var(GVAR_ENEMY_DUNTON,1);
+       //set_global_var(GVAR_ENEMY_KLAMATH,1);
+   end
+
+//end //if active
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+
+//if active then begin
+
+   if (source_obj == dude_obj) then begin
+       set_global_var(GVAR_ENEMY_DUNTON,1);
+       //set_local_var(LVAR_Hostile,2);
+   end
+
+//end //if active
+
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+
+//if active then begin
+
+   script_overrides;
+   GetReaction;
+
+   //commented out and moved below
+   //if (cur_map_index == MAP_KLAMATH_1) then
+   //   move_obj_inven_to_obj(klam_dunton_box_obj,self_obj);
+
+
+   call checkarea; //find out where the Duntons are
+   //if (who_am_i == 0) then
+   who_am_i := 1 + random(0,1);
+   //debug_msg("i am #"+who_am_i);
+
+   //move and edited by killap
+   if (area == SHOP) then
+      move_obj_inven_to_obj(klam_dunton_box_obj,self_obj);
+   //end
+
+   if (global_var(GVAR_ENEMY_DUNTON) == 1) then begin
+       call Node998;
+   end
+   else if (global_var(GVAR_SCARE_DUNTONS) == 1) then begin   //added by killap
+         floater(709);                                 //added by killap
+   end                                                //added by killap
+   else begin//(1)
+
+   if (area == UNKNOWN) then begin
+      call Node035;
+   end
+
+   else if ((get_critter_stat(dude_obj,STAT_iq) <= (0-LOW_IQ))) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+      call Node032;
+      gSay_End;
+      end_dialogue;
+   end
+
+   else if (area == PASTURE) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+         //Duntons should run away on violent failure so this will never happen
+         //if (global_var(GVAR_RUSTLE_FAIL_VIOLENT) == 1) then
+         //   call Node004;
+         if (global_var(GVAR_RUSTLE_FAIL) == 1) then
+            call Node007;
+         else if (global_var(GVAR_RUSTLE_SUCCESS) == 1) then
+            call Node008;
+         else if (global_var(GVAR_RUSTLE_REFUSE) == 1) then
+            call Node012;
+         else if (global_var(GVAR_RUSTLE_ACCEPT) == 1) then
+            call Node025;
+          else
+            call Node024;
+         gSay_End;
+         end_dialogue;
+   end
+
+   /*else if (global_var(GVAR_DUNTONS_ANGRY) == 1) then begin -- never run; GVAR_DUNTONS_ANGRY now used for Torr's brahmin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+      call Node001;
+      gSay_End;
+      end_dialogue;
+   end*/
+
+   else if (global_var(GVAR_RUSTLE_FAIL_VIOLENT) == 1) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+      call Node004;
+      gSay_End;
+      end_dialogue;
+   end
+
+   else if (global_var(GVAR_RUSTLE_FAIL) == 1) then begin               
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+         call Node007;
+         gSay_End;
+         end_dialogue;
+   end
+
+   else if (global_var(GVAR_RUSTLE_SUCCESS) == 2) then begin //edit by killap - was == 1
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+      call Node008;
+      gSay_End;
+      end_dialogue;
+   end
+
+   else if (global_var(GVAR_RUSTLE_REFUSE) == 1) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+      call Node012;
+      gSay_End;
+      end_dialogue;
+   end
+
+   else if ( (global_var(GVAR_RUSTLE_ACCEPT) == 1) and
+             (global_var(GVAR_RUSTLE_OVER) == 0) ) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+      call Node014;
+      gSay_End;
+      end_dialogue;
+   end
+
+   else if ( (global_var(GVAR_RUSTLE_ACCEPT) == 1) and
+             (global_var(GVAR_RUSTLE_OVER) == 1) and
+             (local_var(LVAR_warned_dude) == 0) ) then begin
+      set_local_var(LVAR_warned_dude,1);
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+      call Node031;
+      gSay_End;
+      end_dialogue;
+   end
+
+   else if (area == GOLDENGECKO) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+      call Node015;
+      gSay_End;
+      end_dialogue;
+   end
+
+   else if (area == SHOP) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+      call Node021;
+      gSay_End;
+      end_dialogue;
+   end
+/*
+   else if ( (area == PASTURE) and (global_var(GVAR_RUSTLE_ACCEPT) == 1) ) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+      call Node025;
+      gSay_End;
+      end_dialogue;
+   end
+
+   else if (area == PASTURE) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+      call Node024;
+      gSay_End;
+      end_dialogue;
+   end
+*/
+   else
+      call Node036;
+
+   end//(1)
+
+   //edits by killap
+   //if (cur_map_index == MAP_KLAMATH_1) then
+   //   move_obj_inven_to_obj(self_obj,klam_dunton_box_obj);
+   if (area == SHOP) then
+      move_obj_inven_to_obj(self_obj,klam_dunton_box_obj);
+
+//end //if active
+
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+//if active then begin
+   //this moves all inventory to the dunton killed
+   //shouldn't be a problem since the other one will
+   //be too mad to barter
+   if (cur_map_index == MAP_KLAMATH_1) then
+      move_obj_inven_to_obj(klam_dunton_box_obj,self_obj);
+
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+   set_global_var(GVAR_DUNTON_DEAD,1);
+   //if a Dunton dies then we cannot do the rustle
+   // and should perhaps remove them from downtown
+   //map
+
+//end //if active
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+
+//if active then begin
+
+   script_overrides;
+   display_msg(mstr(100));
+
+//end //if active
+
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+
+//if active then begin
+
+   script_overrides;
+   display_msg(mstr(101));
+
+//end //if active
+
+end
+
+
+procedure push_p_proc begin
+   script_overrides;
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node910 begin
+//if player money < 5 goto 8
+//else subtract 5 coins and goto 7
+   if (item_caps_total(dude_obj) > 4) then begin
+      item_caps_adjust(dude_obj,-5); //subtract 5 coins
+      //set_local_var(LVAR_Give, 1);
+      call Node007;
+   end
+   else begin
+      //set_local_var(LVAR_Nogive,1);
+      call Node008;
+   end
+end
+
+procedure Node920 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then
+      call Node011;
+   else
+      call Node004;
+end
+
+procedure Node921 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-30))) then
+      call Node028;
+   else
+      call Node029;
+end
+
+procedure Node922 begin
+   DownReactMinor;
+   call Node030;
+end
+
+procedure Node923 begin
+   DownReactMinor;
+   call Node012;
+end
+
+procedure Node924 begin
+   //UpReactMajor;
+   DownReactMajor; //changed from up to down - killap
+   call Node031;
+end
+
+procedure Node930 begin
+   DownReactMinor;
+   call Node003;
+//Reaction -10,goto3
+end
+
+procedure Node931 begin
+   DownReactModerate;
+   call Node003;
+//Reaction -20,goto3
+end
+
+procedure Node932 begin
+   DownReactMajor;
+   call Node003;
+//Reaction -30,goto3
+end
+
+procedure Node934 begin
+   DownReactHuge;
+//Reaction -50
+end
+
+procedure Node935 begin
+   UpReactMinor;
+   call Node003;
+//Reaction +10,goto3
+end
+
+procedure Node936 begin
+   UpReactModerate;
+   call Node003;
+//Reaction +20,goto3
+end
+
+procedure Node937 begin
+   set_local_var(LVAR_attempted_barter,1);
+   call duntonbarter;
+//Barter,goto13
+end
+
+procedure Node938 begin //wrestle success
+   Reply(510);
+   NOption(520,Node016,001);
+end
+
+procedure Node939 begin //wrestle failure
+   Reply(500);
+   NOption(520,Node017,001);
+end
+
+/*
+procedure Node930 begin
+   UpReactModerate;
+   call Node003;
+//Reaction +20,goto3
+end
+
+procedure Node931 begin
+   DownReactModerate;
+   call Node003;
+//Reaction -20,goto3
+end
+*/
+procedure Node940 begin
+   DownReactMinor;
+//Reaction -10,end
+end
+
+procedure Node941 begin
+   DownReactModerate;
+//Reaction -20,end
+end
+
+procedure Node942 begin
+   DownReactMajor;
+//Reaction -30,end
+end
+
+/*
+procedure Node940 begin
+   DownReactMajor;
+   call Node003;
+//Reaction -30,goto3
+end
+*/
+procedure Node944 begin
+   if (dude_stat_win(STAT_st,0)) then begin
+      set_map_var(MVAR_Arm_Wrestle_Success,1);
+      if (local_var(LVAR_maxws) == 0) then begin
+         set_local_var(LVAR_maxws,1);
+         KC_REP_ADJUST(-5)
+      end
+      call Node938;//Node016
+   end
+   else begin
+      set_map_var(MVAR_Arm_Wrestle_Fail,1);
+      if (local_var(LVAR_maxwf) == 0) then begin
+         set_local_var(LVAR_maxwf,1);
+         KC_REP_ADJUST(-2)
+      end
+      call Node939;//Node017
+   end
+end
+
+procedure Node945 begin
+   if (who_am_i == 1) then
+      call Node010;
+   else
+      call Node011;
+end
+
+procedure Node946 begin
+   if (who_am_i == 2) then //changed to 2 (from 0) - killap
+      call Node010;
+   else
+      call Node011;
+end
+
+procedure Node948 begin
+   UpReactMinor;
+   //call Node027;
+   call Node010; //edit by killap
+end
+
+procedure Node950 begin
+   DownReactHuge;
+   call Node002;
+//Reaction -50,goto2
+end
+
+procedure Node951 begin
+   if (who_am_i == 1) then
+      call Node011;
+end
+
+procedure Node952 begin
+   UpReactTiny;
+   set_local_var(LVAR_attempted_barter,1);
+   call duntonbarter;
+//barter..goto013
+end
+
+procedure Node955 begin
+   UpReactMinor;
+   call Node003;
+//Reaction +10,goto3
+end
+
+procedure Node960 begin
+   UpReactMinor;
+//Reaction +10,end
+end
+
+procedure Node961 begin
+   UpReactModerate;
+//Reaction +20,end
+end
+
+procedure Node962 begin
+   UpReactMajor;
+//Reaction +30,end
+end
+
+procedure Node963 begin
+   UpReactTiny;
+   call Node021;
+end
+
+procedure Node964 begin
+   UpReactTiny;
+   call Node023;
+end
+
+procedure Node965 begin
+   DownReactMajor;
+   call Node003;
+//Reaction -30,goto3
+end
+
+procedure Node966 begin
+   DownReactModerate;
+   call Node001;
+end
+
+procedure Node967 begin
+//add a beer to inventory
+   UpReactModerate;
+   call Node003;
+end
+
+procedure Node970 begin
+   DownReactHuge;
+//Reaction -50,end
+end
+
+procedure Node971 begin
+   DownReactModerate;
+   call Node012;
+end
+
+procedure Node972 begin
+   DownReactMajor;
+   call Node001;
+end
+
+procedure Node973 begin
+   set_global_var(GVAR_QUEST_RUSTLE_CATTLE, RUSTLE_ACCEPT);
+   set_global_var(GVAR_RUSTLE_ACCEPT,1);
+//Set Rustle_Accept Flag
+//Set Brahmin Rustling quest in log
+//if b4 6pm set Torr_left to be set at 7am
+//goto3
+//goto12
+   call Node003;
+end
+
+procedure Node975 begin
+   set_global_var(GVAR_QUEST_RUSTLE_CATTLE, RUSTLE_ACCEPT);
+   set_global_var(GVAR_RUSTLE_ACCEPT,1);
+   if (area != PASTURE) then begin
+      gfade_out(600);
+      game_time_advance(game_ticks(900)); //15min to get to other map
+      load_map(MAP_KLAMATH_GRAZE, 13); //signal map script to set up things
+   end
+
+//Set Rustle_Accept Flag
+//Set Brahmin Rustling quest in log
+//if b4 6pm set Torr_left to be set at 7am
+end
+
+procedure Node980 begin
+   DownReactModerate;
+   call Node002;
+//Reaction -20,goto2
+end
+
+procedure Node981 begin
+   if (who_am_i == 2) then //changed to 2 - killap
+      call Node011;
+end
+
+procedure Node983 begin
+   DownReactMinor;
+   call Node003;
+//Reaction +15,goto3
+end
+
+procedure Node985 begin
+   UpReactMinor;
+   call Node009;
+//Reaction +10,goto9
+end
+
+procedure Node988 begin
+   DownReactMajor;
+   //added by killap - RP
+   display_msg(mstr(700));
+   set_global_var(GVAR_RUSTLE_REWARD, 1);
+   //end added
+//Reaction -30,end
+end
+
+procedure Node989 begin
+   UpReactMinor;
+   set_global_var(GVAR_QUEST_RUSTLE_CATTLE, RUSTLE_ACCEPT);
+   set_global_var(GVAR_RUSTLE_ACCEPT, 1);
+//set Brahmin Rustling quest in log
+end
+
+procedure Node990 begin
+   DownReactHuge;
+   call Node002;
+//Reaction -50,goto2
+end
+
+procedure Node991 begin
+//earlier than 6pm
+   //Reply(mstr(198) + mstr(200));
+   Reply(198);
+      //GOption(mstr(202) + mstr(206),Node973,004);
+      GOption(202,Node975,004);
+      BOption(204,Node993,004);//if from_14 set Rustle_Refuse flag else reaction-10
+      //if (from_14) then
+         //GOption(mstr(199) + mstr(202) + mstr(207),Node999,004);
+end
+
+procedure Node992 begin
+//later than 6pm
+   //Reply(mstr(198) + mstr(201));
+   Reply(mstr(198) + mstr(601));
+      //GOption(mstr(203) + mstr(206),Node973,004);
+      GOption(202,Node975,004);
+      BOption(204,Node993,004);//if from_14 set Rustle_Refuse flag else reaction-10
+      //if (from_14) then
+         //GOption(mstr(199) + mstr(203) + mstr(207),Node999,004);
+end
+
+procedure Node993 begin
+   if (from_14) then
+      set_global_var(GVAR_RUSTLE_REFUSE, 1);
+   else begin
+      DownReactMinor;
+      call Node012;
+   end
+end
+
+procedure Node994 begin
+//send duntons home
+//delete brahmin Rustling quest from log
+//+10 Karma
+//+25EP
+   set_global_var(GVAR_RUSTLE_FAIL, 1);
+   set_global_var(GVAR_QUEST_RUSTLE_CATTLE, RUSTLE_FAIL);
+ //  set_global_var(GVAR_TORR_GUARD_STATUS, TORR_GUARD_SUCCESS); - comment out by killap
+   inc_general_rep(REP_BONUS_KC_GUARD_SUCCESS);
+   give_xp(EXP_KC_GUARD_SUCCESS);   //killap's fix: changed to give_xp
+end
+
+
+procedure Node995 begin
+   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+       TopReact;
+   end
+   else begin
+       BottomReact;
+   end
+end
+
+procedure Node996 begin
+   BottomReact;
+end
+
+procedure Node997 begin
+   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+       call Node004;
+   else
+       call Node005;
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_global_var(GVAR_ENEMY_DUNTON,1);
+   //set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   Reply(110);
+
+   GOption(111,Node936,004);
+   NOption(112,Node999,004);
+   BOption(113,Node932,004);
+   BOption(114,Node950,004);
+end
+
+procedure Node002 begin
+   Reply(120);
+
+   GOption(121,Node961,004);
+   NOption(122,Node999,004);
+   BOption(123,combat,004); //changed from 970 to combat
+end
+
+procedure Node003 begin
+   if (from_18) then
+      Reply(132);
+   else begin
+      if (TOWN_REPUTATION < 5 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+         Reply(130);
+      else
+         Reply(131);
+   end
+
+   NOption(133,Node019,004);
+   if (area == SHOP) then
+      NOption(134,Node005,004);
+   if (local_var(LVAR_talk_bout_work) == 0) then begin
+      set_local_var(LVAR_talk_bout_work,1);
+      NOption(135,Node006,004);
+   end
+   
+   //added by killap - expansion pack
+   if ( (obj_is_carrying_obj_pid(dude_obj, 285 ) > 0) and (global_var(GVAR_KLAMATH_FIND_RUSTLERS) == FIND_RUSTLERS_ACCEPT) ) then
+      NOption(800,Node026,004);
+   //end added
+   
+   NOption(136,Node011,004);
+   NOption(137,Node020,004);
+   NOption(138,Node999,004);
+end
+
+procedure Node004 begin
+   Reply(140);
+
+   if (global_var(GVAR_RUSTLE_ACCEPT) == 1) then begin
+      NOption(141,Node999,004);
+      BOption(142,Node980,004);
+   end
+   BOption(143,Node990,004);
+end
+
+procedure Node005 begin
+   Reply(150);
+
+   NOption(151,Node937,004);
+   NOption(152,Node003,004);
+   NOption(153,Node999,004);
+end
+
+procedure Node006 begin
+   if (global_var(GVAR_RUSTLE_REFUSE) == 1) then
+      call Node06a;
+   else if (global_var(GVAR_RUSTLE_OVER) == 1) then
+      call Node06b;
+   else begin
+      if (TOWN_REPUTATION > 5 or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then  //killap's fix: changed from 4 and added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+         call Node06c;
+      else
+         call Node06d;
+   end
+end
+
+procedure Node06a begin
+   Reply(160);
+   if ( (TOWN_REPUTATION > 4 or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) and (area == PASTURE) ) then // added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+      NOption(531,Node999,004);
+   if (area != PASTURE) then
+      NOption(166,Node003,004);
+   if (global_var(GVAR_RUSTLE_OVER) == 0) then
+      GOption(167,Node948,004);
+   NOption(168,Node999,004);
+end
+
+procedure Node06b begin
+   Reply(161);
+   NOption(169,Node999,004);
+end
+
+procedure Node06c begin
+   if (area == PASTURE) then
+      Reply(530);
+   else
+      Reply(161);
+   NOption(169,Node999,004);
+end
+
+procedure Node06d begin
+   Reply(162);
+   if (area != PASTURE) then begin
+      NOption(163,Node945,004);
+      NOption(164,Node946,004);
+   end
+   NOption(165,Node010,004);
+end
+
+procedure Node007 begin
+   if (global_var(GVAR_SCARE_DUNTONS) == 1) then    //added by killap
+      floater(709);                                 //added by killap
+   else begin
+      Reply(170);
+
+      GOption(171,Node955,004);
+      if (area != PASTURE) then NOption(172,Node003,004);
+         BOption(173,combat,004); //changed from 965 to combat
+   end
+end
+
+procedure Node008 begin
+   if (global_var(GVAR_RUSTLE_REWARD) == 1) then
+      Reply(180);
+   else
+      Reply(181);
+
+   if ( (global_var(GVAR_RUSTLE_REWARD) == 1) and (area != PASTURE) )then
+      GOption(182,Node983,004);
+   if (global_var(GVAR_RUSTLE_REWARD) == 0) then begin
+      GOption(183,Node985,004);
+      BOption(184,Node988,004); //moved into this conditional - killap
+   end
+   NOption(185,Node999,004);
+end
+
+procedure Node009 begin
+//add 5 sticks of dunton drymeat to inventory
+item:=create_object(PID_MEAT_JERKY,0,0);
+add_obj_to_inven(dude_obj,item);
+item:=create_object(PID_MEAT_JERKY,0,0);
+add_obj_to_inven(dude_obj,item);
+item:=create_object(PID_MEAT_JERKY,0,0);
+add_obj_to_inven(dude_obj,item);
+item:=create_object(PID_MEAT_JERKY,0,0);
+add_obj_to_inven(dude_obj,item);
+item:=create_object(PID_MEAT_JERKY,0,0);
+add_obj_to_inven(dude_obj,item);
+item_caps_adjust(dude_obj,50);//and $50
+set_global_var(GVAR_RUSTLE_REWARD, 1);
+//check off Brahmin Rustlin in quest log
+display_msg(mstr(700));
+give_xp(EXP_KC_RUSTLE_BRAHMIN);
+inc_general_rep(REP_BONUS_KC_RUSTLE_BRAHMIN);
+//+100EP
+set_global_var(GVAR_TORR_GUARD_STATUS,3); //added by killap (guard brahmin is never crossed off if you rustle them instead - 3 is for "fail" as 2 is for success)
+   Reply(190);
+
+   if (area != PASTURE) then NOption(191,Node003,004);
+   NOption(192,Node999,004);
+end
+
+procedure Node010 begin
+   from_10 := 1;
+/*
+   if ( (game_time_hour > 600) and (game_time_hour < 1800) ) then
+      call Node991;
+   else
+      call Node992;
+*/
+   if (area == PASTURE) then
+      call Node991;
+   else
+      call Node992;
+end
+
+procedure Node011 begin
+//randomize these replies
+   if (who_am_i == 1) then begin
+      k := random(1,5);
+      if (k == 1) then Reply(208);
+      else if (k == 2) then Reply(210);
+      else if (k == 3) then Reply(212);
+      else if (k == 4) then Reply(214);
+      else if (k == 5) then Reply(216);
+   end
+   else begin
+      k := random(1,5);
+      if (k == 1) then Reply(209);
+      else if (k == 2) then Reply(211);
+      else if (k == 3) then Reply(213);
+      else if (k == 4) then Reply(215);
+      else if (k == 5) then Reply(217);
+   end
+
+   GOption(218,Node935,004);
+   NOption(219,Node003,004);
+   BOption(220,Node931,004);
+   BOption(221,combat,004); //changed from 934 to combat - killap
+   if (from_10) then
+      NOption(222,Node010,004);
+end
+
+procedure Node012 begin
+   set_global_var(GVAR_RUSTLE_REFUSE,1);
+   Reply(230);
+
+   GOption(231,Node960,004);
+   if (area != PASTURE) then NOption(232,Node003,004);
+   BOption(233,combat,004); //changed from 941 to combat - killap
+end
+
+procedure Node013 begin
+   Reply(240);
+
+   NOption(241,Node937,004);
+   NOption(242,Node003,004);
+   NOption(243,Node981,004);
+   NOption(244,Node951,004);
+end
+
+procedure Node014 begin
+   from_14:=1;
+   Reply(250);
+
+   BOption(251,Node971,004);
+   if (area != PASTURE) then NOption(252,Node003,004);
+   NOption(253,Node999,004);
+end
+
+procedure Node015 begin
+   if (map_var(MVAR_Arm_Wrestle_Success) == 1) then
+      Reply(259);
+   else if (map_var(MVAR_Arm_Wrestle_Fail) == 1) then
+      Reply(260);
+   else begin
+      if (get_critter_stat(dude_obj,STAT_st) < 5) then begin
+         if (TOWN_REPUTATION > 4 or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // edit by killap - added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+            Reply(261);
+         else begin
+            if (who_am_i == 1) then
+               Reply(262);
+            else
+               Reply(263);
+         end
+      end
+      else begin
+         if (who_am_i == 1) then begin
+            if (TOWN_REPUTATION > 4 or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // edit by killap - added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+               Reply(264);
+            else
+               Reply(266);
+         end
+         else begin
+            if (TOWN_REPUTATION > 4 or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // edit by killap - added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+               Reply(265);
+            else
+               Reply(267);
+         end
+      end
+   end
+
+   GOption(268,Node944,004);// Opposed str roll
+   NOption(269,Node018,004);
+   BOption(270,Node930,004);
+   NOption(271,Node999,004);
+end
+
+procedure Node016 begin
+//arm wrestle success (need to give player a beer)
+   Reply(280);
+
+   GOption(281,Node967,004);
+   NOption(282,Node999,004);
+   BOption(283,Node930,004);
+   BOption(284,Node941,004);
+end
+
+procedure Node017 begin
+//arm wrestle failure
+  if (map_var(MVAR_11_before) == 1) then
+     Reply(291);
+  else begin
+     set_map_var(MVAR_11_before,1);
+     Reply(290);
+  end
+
+   GOption(292, Node944, 004);//opposed str roll, success set ArmWrestleSucc Flag and goto16,else set fail and goto17
+   NOption(293, Node003, 004);
+   NOption(294, Node999, 004);
+end
+
+procedure Node018 begin
+   from_18 := 1;
+   Reply(300);
+
+   GOption(301,Node935,004);
+   NOption(302,Node003,004);
+   BOption(303,Node941,004);
+   BOption(304,Node942,004);
+end
+
+procedure Node019 begin
+   Reply(310);
+
+   NOption(311,Node003,004);
+   NOption(312,Node999,004);
+end
+
+procedure Node020 begin
+   Reply(320);
+
+   NOption(321,Node003,004);
+   NOption(322,Node999,004);
+end
+
+procedure Node021 begin
+  if (map_var(MVAR_21_before) == 0) then begin
+     set_map_var(MVAR_21_before,1);
+     Reply(330);
+  end
+  else
+     Reply(331);
+   //added by killap - expansion pack
+   if ( (obj_is_carrying_obj_pid(dude_obj, 285 ) > 0) and (global_var(GVAR_KLAMATH_FIND_RUSTLERS) == FIND_RUSTLERS_ACCEPT) ) then
+      NOption(800,Node026,004);
+   //end added
+   GOption(332, Node952, 004);//reaction+5,barter,goto13
+   GOption(333, Node964, 004);
+   NOption(334, Node003, 004);
+   NOption(335, Node999, 004);
+   //if ( is_success(do_check(dude_obj,STAT_pe,0)) ) then //edit by killap - expansion
+   if (map_var(MVAR_Different_Brands) == 1) then
+      BOption(336, Node022, 004);
+end
+
+procedure Node022 begin
+   Reply(340);
+
+   BOption(341,Node972,004);
+   NOption(342,Node999,004);
+   NOption(343,Node021,004);
+end
+
+procedure Node023 begin
+   if (map_var(MVAR_23_before) == 0) then begin
+     set_map_var(MVAR_23_before,1);
+     Reply(350);
+   end
+   else begin
+     k := random(1,7);
+     if (k == 1) then Reply(351);
+     else if (k == 2) then Reply(352);
+     else if (k == 3) then Reply(353);
+     else if (k == 4) then Reply(354);
+     else if (k == 5) then Reply(355);
+     else if (k == 6) then Reply(356);
+     else if (k == 7) then Reply(357);
+   end
+
+   GOption(358,Node963,004);
+   GOption(359,Node023,004);
+   NOption(360,Node999,004);
+   BOption(361,Node966,004);
+end
+
+procedure Node024 begin
+   if (global_var(GVAR_RUSTLE_REFUSE) == 1) then
+     Reply(370);
+   else
+     Reply(371);
+
+   NOption(372,Node006,004);
+   NOption(373,Node941,004);
+   if ((obj_is_carrying_obj_pid(dude_obj, 285 ) > 0) and (global_var(GVAR_KLAMATH_FIND_RUSTLERS) == FIND_RUSTLERS_ACCEPT)) then //killap's fix: based off of carrying and not map PID_BUG_PARTS
+      NOption(374,Node026,004);
+end
+
+procedure Node025 begin
+   if (global_var(GVAR_SCARE_DUNTONS) == 1) then    //added by killap
+      floater(709);                                 //added by killap
+   else begin
+      Reply(380);
+
+      NOption(381,Node999,004);
+      NOption(382,Node921,004);
+      NOption(383,Node027,004);
+      if ( (obj_is_carrying_obj_pid(dude_obj, 285 ) > 0) and (global_var(GVAR_KLAMATH_FIND_RUSTLERS) == FIND_RUSTLERS_ACCEPT) ) then //killap's fix: based off of carrying and not map
+         NOption(384,Node026,004);
+   end
+end
+
+procedure Node026 begin
+   Reply(390);
+
+   BOption(391,Node922,004);
+   NOption(392,Node999,004);
+end
+
+procedure Node027 begin
+   if (map_var(MVAR_Torr_On_Map) == 1) then
+      Reply(mstr(400) + mstr(405));
+   else
+      Reply(mstr(404) + mstr(405)); // Seraph's Fix: changed '505' to '405'
+
+   GOption(401,Node989,004);
+   BOption(402,Node923,004);
+   NOption(403,Node921,004);
+end
+
+procedure Node028 begin
+   Reply(410);
+
+   NOption(411,Node994,004);
+end
+
+procedure Node029 begin
+   if (map_var(MVAR_Torr_On_Map) == 1) then
+      Reply(mstr(420) + mstr(424));
+   else
+      Reply(mstr(420) + mstr(533));
+
+   GOption(421,Node960,004);
+   BOption(422,Node999,004);
+   NOption(423,Node942,004);
+end
+
+procedure Node030 begin
+   Reply(430);
+
+   BOption(431,Node924,004);
+   NOption(432,Node999,004);
+end
+
+procedure Node031 begin
+   Reply(440);
+
+   //if (global_var(GVAR_RUSTLE_OVER) == 0) then
+      GOption(441,Node903,004);
+   if ((has_skill(dude_obj,SKILL_CONVERSANT) > 50)) then  //killap fix: added speech check
+      BOption(702,Node900,004);
+   NOption(442,Node999,004);
+   BOption(443,Node940,004);
+   BOption(444,Node998,004);  //killap fix: changed to Node998
+end
+
+procedure Node032 begin
+   if (who_am_i == 1) then
+      Reply(mstr(449) + mstr(450));
+   else
+      Reply(mstr(449) + mstr(451));
+
+   BLowOption(452,Node033);
+   NLowOption(dude_name + mstr(453),Node034);
+end
+
+procedure Node033 begin
+   Reply(460);
+
+   NLowOption(461,Node999);
+end
+
+procedure Node034 begin
+   Reply(470);
+
+   NLowOption(mstr(471) + dude_name + mstr(472),Node999);
+end
+
+procedure Node035 begin
+   floater(490);
+end
+
+procedure Node036 begin
+   floater(530);
+end
+
+//added by killap - expansion
+procedure Node900
+begin
+   Reply(703);
+
+   NOption(704,Node901,004);
+end
+
+procedure Node901
+begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+      Reply(706);
+      
+      NOption(708,Node902,004);
+   end
+   else begin
+      Reply(705);
+      
+      BOption(708,Node998,004);
+   end 
+end
+ 
+procedure Node902
+begin
+   display_msg(mstr(707));
+   
+   if ( (global_var(GVAR_RUSTLE_ACCEPT) == 1) or (area == PASTURE) ) then
+      set_global_var(GVAR_RUSTLE_FAIL, 1);
+   set_global_var(GVAR_SCARE_DUNTONS, 1);
+   give_xp(EXP_KC_GUARD_SUCCESS);
+end
+
+procedure Node903
+begin
+   Reply(710);
+   NOption(708,Node999,004);
+end
+//end killap code
+
+//xxxxxxxxxxxxxxxxxxxx

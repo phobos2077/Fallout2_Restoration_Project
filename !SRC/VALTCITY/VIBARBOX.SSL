@@ -1,0 +1,47 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Depository for Sold Companion's Inventory
+        Location : Vault City
+        Description: This box is for holding all of the inventory items that were in the
+                     possession of the party member you have sold
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: August 22, 1998
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_VIBARBOX
+
+#include "..\headers\command.h"
+/* Defines and Macros */
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+import variable vault_city_barkus_box;
+
+procedure start begin
+   vault_city_barkus_box := self_obj;
+end
+
+procedure map_enter_p_proc begin
+   vault_city_barkus_box := self_obj;
+end
+
+procedure map_update_p_proc begin
+   vault_city_barkus_box := self_obj;
+end

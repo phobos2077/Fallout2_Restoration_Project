@@ -1,0 +1,56 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Item:
+        Location : Den Rebecca's book
+        Description:
+
+        Log:
+
+           Created: May 13, 1998
+
+           Updated:
+*/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_DIREBBOK
+
+#include "..\headers\command.h"
+#include "..\headers\Den.h"
+/* Defines and Macros */
+
+#define LVAR_Read_Count                   (0)
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+variable the_line;
+   script_overrides;
+   gfade_out(ONE_GAME_SECOND);
+      if (local_var(LVAR_Read_Count) == 0) then begin
+         inc_local_var(LVAR_Read_Count);
+         the_line := 100;
+         display_mstr(200);
+      end else if (local_var(LVAR_Read_Count) == 1) then begin
+         inc_local_var(LVAR_Read_Count);
+         the_line := 101;
+      end else if (local_var(LVAR_Read_Count) < 10) then begin
+         the_line := 102;
+         inc_local_var(LVAR_Read_Count);
+      end else begin
+         the_line := 103;
+      end
+      game_time_advance((11 - dude_iq) * (ONE_GAME_HOUR));
+      dude_floater(the_line);
+   gfade_in(ONE_GAME_SECOND);
+end

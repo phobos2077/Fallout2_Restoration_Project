@@ -1,0 +1,18 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+#include "..\headers\define.h"
+#include "..\headers\command.h"
+
+#include "..\headers\ncr2.h"
+#include "..\headers\ncr.h"
+
+procedure start begin
+end
+
+procedure spatial_p_proc begin
+   if (source_obj == dude_obj and get_carlson_flag(CARLSON_SECURITY_DUTY) == 0 and map_var(MVAR_Player_has_pass) == 0 and map_var(MVAR_Player_Said_Bishop) == 0) then begin
+      set_map_var(MVAR_Carlson_Team_Attack, 1);
+   end
+end

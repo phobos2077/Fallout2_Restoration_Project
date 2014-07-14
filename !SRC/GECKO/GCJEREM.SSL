@@ -1,0 +1,338 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Jeremy
+        Location: Gecko
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: January 14, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\gecko.h"
+
+#define NAME                    SCRIPT_GCJEREM
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO)
+#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
+#define PID_REQUEST_FORM            212  //CHANGE THIS FROM TANDI_OBJ TO NUMBER FOR REQUEST_FORM
+                                         //AND ADD TO ITEMPID.
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#define Vault_Known             (1)     // Temp Until get command from Jesse
+#define Visited_City            (1)     // Temp Until get command from Jesse
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node910;
+//procedure Node920;
+procedure Node995;
+procedure Node996;
+procedure Node997;
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Give                       (7)
+#define LVAR_01_before                  (8)
+#define LVAR_06_before                  (9)
+#define LVAR_Gave_Part                  (10)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable k;
+variable my_form;
+variable visit_09_before;
+variable item;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_GECKO);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+end
+
+
+procedure critter_p_proc begin
+   if ( ( (global_var(GVAR_GECKO_MELTDOWN) == 1) or (global_var(GVAR_ENEMY_GECKO)) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin //edit by killap - added (global_var(GVAR_ENEMY_GECKO))
+      set_local_var(LVAR_Hostile,1);
+      attack(dude_obj);
+   end
+   else if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+       set_global_var(GVAR_ENEMY_GECKO,1);
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+procedure talk_p_proc begin
+   visit_09_before:=0;
+
+   GetReaction;
+
+   if (local_var(LVAR_Personal_Enemy) == 1) then begin
+       call Node998;
+   end
+
+   else if (global_var(GVAR_GECKO_REQ_FORM) == REQ_FORM_JEREMY) then begin
+      call Node006;
+   end
+
+   else if ((get_critter_stat(dude_obj,STAT_iq) <= 3)) then begin
+      call Node008;
+   end
+
+   else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node001;
+       gSay_End;
+       end_dialogue;
+   end
+
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node910 begin
+   if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_REPAIRED) then
+      call Node008;
+   else
+      call Node007;
+end
+
+procedure Node920 begin
+   if obj_carrying_pid_obj(dude_obj, PID_PART_REQUISITION_FORM) then begin /* condition added by Seraph */
+      my_form := obj_carrying_pid_obj(dude_obj, PID_PART_REQUISITION_FORM);
+      rm_obj_from_inven(dude_obj, my_form);
+      destroy_object(my_form);
+      item:=create_object(PID_PLASMA_TRANSFORMER,0,0); //need to define circuit board
+      add_obj_to_inven(dude_obj,item);
+      set_local_var(LVAR_Gave_Part,1); //added by killap
+      
+      //MAY NEED TO SET A GLOBAL HERE -NBK (test it)
+      //set_map_var(MVAR_skeeter_part_given, 1); //may need to be global...check this
+   end
+   else
+      call Node002; // Added by Seraph
+end
+
+procedure Node995 begin
+   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+       TopReact;
+   end
+   else begin
+       BottomReact;
+   end
+end
+
+procedure Node996 begin
+   BottomReact;
+end
+
+procedure Node997 begin
+   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+       call Node004;
+   else
+       call Node005;
+end
+
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+procedure Node999 begin
+end
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   if (local_var(LVAR_01_before) == 0) then begin
+      set_local_var(LVAR_01_before, 1);
+      Reply(110);
+   end
+   else begin
+      Reply(111);
+   end
+   NOption(112,Node007,004);
+   NOption(113,Node010,004);
+   NOption(114,Node999,004);
+end
+
+procedure Node002 begin
+   Reply(120);
+
+   if obj_carrying_pid_obj(dude_obj, PID_PART_REQUISITION_FORM) then
+      NOption(121,Node003,004);
+   NOption(122,Node012,004);
+end
+
+procedure Node003 begin
+   Reply(130);
+   if ( (global_var(GVAR_GECKO_SKEETER_PART) == SKEETER_ASKED) and (local_var(LVAR_Gave_Part) == 0) ) then begin /* Added by Seraph */
+     NOption(131,Node004,004);  //WHY ARE TWO REPLIES NECESSARY? -NBK
+     NOption(132,Node005,004);
+   end // Added by Seraph
+   if (visit_09_before == 0) then
+      NOption(133,Node009,004); //**
+   NOption(300,Node999,004); // Added by Seraph
+end
+
+procedure Node004 begin
+   Reply(140);
+   NOption(141,Node920,004);
+ //place special circuit board in pc inven set skeeter part=given, end
+end
+
+procedure Node005 begin
+   Reply(150);
+   NOption(151,Node920,004); //place special circuit board in pc inven set skeeter part=given, end
+end
+
+procedure Node006 begin
+   if (local_var(LVAR_06_before) == 0) then begin
+      set_local_var(LVAR_06_before, 1);
+      //floater(160);
+      float_msg(self_obj, message_str(NAME,160),FLOAT_MSG_NORMAL); //edit by killap
+      
+   end
+   else begin
+      /*k := random(1,7);
+      if (k == 1) then floater(161);
+      else if (k == 2) then floater(162);
+      else if (k == 3) then floater(163);
+      else if (k == 4) then floater(164);
+      else if (k == 5) then floater(165);
+      else if (k == 6) then floater(166);
+      else if (k == 7) then floater(167);*/
+      float_msg(self_obj, message_str(NAME,random(161,167)),FLOAT_MSG_NORMAL); //edit by killap
+   end
+end
+
+procedure Node007 begin
+   Reply(170);
+   NOption(171,Node002,004);
+   NOption(172,Node999,004);
+end
+
+procedure Node008 begin
+   //floater(random(180,184));
+   float_msg(self_obj, message_str(NAME,random(180,184)),FLOAT_MSG_NORMAL); //edit by killap
+end
+
+procedure Node009 begin
+   visit_09_before:=1;
+   Reply(190);
+   if ((global_var(GVAR_GECKO_SKEETER_PART) == SKEETER_ASKED) and (local_var(LVAR_Gave_Part) == 0)) then /* Added by Seraph */
+      NOption(191,Node004,004); //edit by killap - was 003
+   NOption(192,Node999,004);
+end
+
+procedure Node010 begin
+   Reply(200);
+   NOption(201,Node011,004);
+   NOption(202,Node002,004);
+   NOption(203,Node002,004);
+end
+
+procedure Node011 begin
+   Reply(210);
+   NOption(211,Node002,004);
+end
+
+procedure Node012 begin
+   Reply(220);
+   NOption(222,Node999,004);
+end
+//xxxxxxxxxxxxxxxxxxxx

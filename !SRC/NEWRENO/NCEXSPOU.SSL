@@ -1,0 +1,117 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                     SCRIPT_NCEXSPOU
+#define TOWN_REP_VAR             GVAR_TOWN_REP_MODOC
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+procedure combat_p_proc;
+
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+#define LVAR_Flags                        (0)
+
+#define run_away_tile                     (33551)
+
+procedure start begin
+end
+
+procedure Node001 begin
+   floater_rand(200, 203); // Seraph's Fix: floater only takes 1 arg; changed to floater_rand. Thanks Rob!
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == float_param) then begin
+      if (combat_is_initialized == false) then begin
+         call Node001;
+      end
+      nr_add_timer_event_rand(self_obj, 5, 10, float_param);
+   end
+end
+
+procedure map_enter_p_proc begin
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure combat_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if ((self_can_see_dude) and (hostile)) then begin
+      self_attack_dude;
+   end else if (tile_distance(self_tile, run_away_tile) > 1) then begin
+      anim_run_to_point_rate(run_away_tile, 5)
+   end else begin
+      destroy_object(self_obj);
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if ((source_obj == dude_obj) or (obj_in_party(source_obj))) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   call Node001;
+   set_herebefore;
+   nr_add_timer_event_rand(self_obj, 5, 10, float_param);
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+end
+
+procedure description_p_proc begin
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end

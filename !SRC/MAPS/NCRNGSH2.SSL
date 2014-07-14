@@ -1,0 +1,107 @@
+/*     Script from map templete       */
+/*
+        Name: Nazwa
+        Location: Polozenie
+        Description: Opis
+
+        Log:
+           
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+//#include "..\headers\nazwamapy.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_NCRNGSH2
+
+#include "..\headers\command.h"
+#include "..\headers\safehs1.h"
+#include "..\headers\safehs2.h"
+
+procedure start;
+procedure map_exit_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+#define LVAR_Said_Message               (0)
+
+procedure start
+begin
+end
+
+procedure map_enter_p_proc begin
+   variable Critter;
+   variable item;
+   
+   if (map_first_run) then
+      display_msg(mstr(100));
+      
+      
+   //help slavers attack Ranger safe houses
+   if (global_var(GVAR_LOAD_MAP_INDEX) == 5) then begin
+      
+      //set_exit_grids(0,MAP_RANGER_SAFE_HOUSE3,0,19290,0);
+
+      set_map_var(MVAR_Came_With_Slavers,1);
+      move_to(dude_obj, 19694, 0);
+      
+      if (global_var(GVAR_TMP_GLOBAL_VAR) >= 1) then begin
+         Critter := create_object_sid(PID_MALE_SLAVER,20299,elevation(dude_obj),SCRIPT_SCATKSLV);
+         critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+         item:=create_object(PID_HUNTING_RIFLE,0,0);
+         add_obj_to_inven(Critter,item);
+         wield_obj_critter(Critter,item);
+         item:=create_object(PID_223_FMJ,0,0);
+         add_obj_to_inven(Critter,item);
+         item:=create_object(PID_STIMPAK,0,0);
+         add_obj_to_inven(Critter,item);
+      end
+      
+      if (global_var(GVAR_TMP_GLOBAL_VAR) == 2) then begin
+         Critter := create_object_sid(PID_MALE_SLAVER,19890,elevation(dude_obj),SCRIPT_SCATKSLV);
+         critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+         item:=create_object(PID_HUNTING_RIFLE,0,0);
+         add_obj_to_inven(Critter,item);
+         wield_obj_critter(Critter,item);
+         item:=create_object(PID_223_FMJ,0,0);
+         add_obj_to_inven(Critter,item);
+         item:=create_object(PID_STIMPAK,0,0);
+         add_obj_to_inven(Critter,item);
+      end
+      
+      set_map_var(MVAR_Safe_House2_Under_Attack,1);
+      
+   end else begin
+      set_exit_grids(0,-2,0,20100,0);
+      set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   end
+   
+   //added by killap - prevent car from disappearing if the car runs out of gas while on the town circle
+   if ((metarule(30, 0) == 21) and (cur_map_index != MAP_CAR_DESERT) and (car_out_of_fuel)) then begin
+      set_global_var(GVAR_CAR_PLACED_TILE, 0);
+      Create_Car(CAR_RNGR_SAFE_HOUSE2,CAR_RANDOM_DESERT_ELEV)
+      if (tile_contains_pid_obj(CAR_RND_DESERT8_HEX, CAR_RANDOM_DESERT_ELEV, PID_DRIVABLE_CAR) != 0) then begin
+         Create_Trunk(CAR_RNGR_SAFE_HOUSE2,CAR_RANDOM_DESERT_ELEV)
+      end 
+   end else 
+      Check_Create_Car(CAR_RNGR_SAFE_HOUSE2, CAR_RANDOM_DESERT_ELEV)
+   //end added
+   
+   Lighting;
+end
+
+procedure map_update_p_proc begin
+   //display_msg("num of rangers: " + map_var(MVAR_SH2_RANGERS));
+   Lighting;
+end
+ 
+procedure map_exit_p_proc
+begin
+ 
+end

@@ -1,0 +1,97 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Broken Hills Ventilator Shaft
+        Location: BROKEN HILLS
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: August 25, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_CSVENT
+#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
+
+#include "..\headers\command.h"
+
+#define Vault_Known             (1)     // Temp Until get command from Jesse
+#define Visited_City            (1)     // Temp Until get command from Jesse
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure use_obj_on_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node999;                                      // This Node is Always Ending
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable Tool;
+variable repair_check;
+variable skill_used;
+variable item;
+
+procedure Node999 begin
+end
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   gfade_out(600);
+   if (elevation(dude_obj) == 0) then
+      move_to(dude_obj,26963,1);
+   else
+      display_msg(mstr(120));
+   //move_to(dude_obj,25360,0);
+   game_time_advance(game_ticks(300)); //5 minutes to climb shaft
+   gfade_in(600);
+end
+
+procedure use_obj_on_p_proc begin
+   script_overrides;
+   display_msg(mstr(110));
+end
+
+
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (elevation(dude_obj) == 0) then
+      display_msg(mstr(101)); //switch to "a boulder" (100) if want to make this more difficult
+   else
+      display_msg(mstr(200));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   if (elevation(dude_obj) == 0) then
+      display_msg(mstr(101));
+   else
+      display_msg(mstr(200));
+end
+
+procedure use_skill_on_p_proc begin
+   script_overrides;
+   display_msg(mstr(110));
+end
+//xxxxxxxxxxxxxxxxxxxx

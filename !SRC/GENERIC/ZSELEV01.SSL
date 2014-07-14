@@ -1,0 +1,51 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Generic Elevator
+        Location: Various Places (Sierra Base, etc.)
+        Description:
+
+        Log:
+
+            Created: April 1, 1998
+
+            Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_ZSELEV01
+
+#include "..\headers\command.h"
+#include "..\headers\base.h"
+
+procedure start;
+procedure spatial_p_proc;
+
+procedure start begin
+end
+
+procedure spatial_p_proc begin
+   if (source_obj == dude_obj) then begin
+      debug_msg("cur_town == "+cur_town+" / Generator_Fixed == "+Generator_Fixed);
+      if ((cur_town == AREA_MILITARY_BASE) and (Generator_Fixed == false)) then begin
+         debug_msg("ELEVATOR IS OUT OF ACTION");
+      end else begin
+         elevator(-1);
+         /*
+         if(cur_map_index == MAP_SIERRA_123) then
+            elevator(ELEV_SIERRA1);
+         else if(cur_map_index == MAP_SIERRA_4) then
+            elevator(ELEV_SIERRA2);
+         else if() then
+            elevator(ELEV_SIERRA1);
+         */
+      end
+   end
+end
+
+

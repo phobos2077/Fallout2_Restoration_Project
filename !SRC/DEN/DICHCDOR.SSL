@@ -1,0 +1,160 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+import variable church_door_obj;
+import variable gang_1_member_1;
+import variable gang_1_member_2;
+import variable gang_1_member_3;
+import variable gang_1_member_4;
+import variable gang_1_member_5;
+variable temp_gang_member;
+
+#define LOCKED_STATUS                   (STATE_ACTIVE)
+
+procedure def_use_p_proc;
+procedure def_use_skill_on_p_proc;
+procedure def_start;
+procedure def_map_enter_p_proc;
+procedure def_destroy_p_proc;
+procedure check_unlock_door;
+
+procedure test_use_tamper;
+procedure test_use_skill_tamper;
+procedure check_timed_event;
+procedure check_close_door;
+
+procedure use_p_proc begin
+   call check_unlock_door;
+   if (test_use_tamper == false) then begin
+      call def_use_p_proc;
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   if (test_use_tamper == false) then begin
+      call def_use_skill_on_p_proc;
+   end
+end
+
+procedure timed_event_p_proc begin
+   call check_timed_event;
+end
+
+procedure start begin
+   church_door_obj := self_obj;
+   call def_start;
+end
+
+procedure map_enter_p_proc begin
+   church_door_obj := self_obj;
+   call def_map_enter_p_proc;
+end
+
+//added by killap
+procedure map_update_p_proc begin
+   church_door_obj := self_obj;
+end
+//end added
+
+procedure destroy_p_proc begin
+   church_door_obj := 0;
+   call check_close_door;
+   call def_destroy_p_proc;
+end
+
+#define use_p_proc                        def_use_p_proc
+#define use_skill_on_p_proc               def_use_skill_on_p_proc
+#define timed_event_p_proc                def_map_timed_event_p_proc
+#define start                             def_start
+#define map_enter_p_proc                  def_map_enter_p_proc
+#define map_update_p_proc                 def_map_update_p_proc //added by killap
+#define destroy_p_proc                    def_destroy_p_proc
+
+#include "..\den\diDoor.ssl"
+
+procedure check_close_door begin
+   if (obj_is_open(self_obj)) then begin
+      obj_close(self_obj);
+   end
+   if (obj_is_locked(self_obj) == false) then begin
+      obj_lock(self_obj);
+   end
+end
+
+procedure check_unlock_door begin
+   //this code doesn't make sense to me. How can a piece of scenery be part of a TEAM -- killap
+   /*if (has_trait(TRAIT_OBJECT,source_obj,OBJECT_TEAM_NUM) == TEAM_DEN_GANG_1) then begin
+      obj_unlock(self_obj);
+   end*/
+end
+
+procedure check_timed_event begin
+   if (fixed_param == timed_event_unlock_door) then begin
+      obj_unlock(self_obj);
+   end
+end
+
+#define check_gang_member_spot(x)      if (temp_gang_member == 0) then begin                                                                                     \
+                                          if (gang_1_member_##x != 0) then begin                                                                                 \
+                                             if ((obj_can_see_obj(gang_1_member_##x, self_obj)) or (obj_can_see_obj(gang_1_member_##x, source_obj))) then begin  \
+                                                temp_gang_member := gang_1_member_##x;                                                                           \
+                                             end                                                                                                                 \
+                                          end                                                                                                                    \
+                                       end
+
+#define test_gang_spot                 temp_gang_member := 0;        \
+                                       check_gang_member_spot(1)     \
+                                       check_gang_member_spot(2)     \
+                                       check_gang_member_spot(3)     \
+                                       check_gang_member_spot(4)     \
+                                       check_gang_member_spot(5)
+
+procedure test_use_tamper begin
+   test_gang_spot
+   if (temp_gang_member != 0) then begin
+      if (source_obj == dude_obj) then begin
+         if (gang_door(state_gang_door_yes) == false) then begin
+            script_overrides;
+            flush_add_timer_event(temp_gang_member, 0, timed_event_door_tamper);
+            return true;
+         end
+      end else if (obj_in_party(source_obj)) then begin
+         script_overrides;
+         return true;
+      end
+   end
+   return false;
+end
+
+procedure test_use_skill_tamper begin
+   test_gang_spot
+   if (action_being_used == SKILL_TRAPS) then begin
+      if (temp_gang_member != 0) then begin
+         if (source_obj == dude_obj) then begin
+            script_overrides;
+            flush_add_timer_event(temp_gang_member, 0, timed_event_door_tamper);
+            return true;
+         end else if (obj_in_party(source_obj)) then begin
+            script_overrides;
+            flush_add_timer_event(temp_gang_member, 0, timed_event_door_tamper);
+            return true;
+         end
+      end
+   end else if (action_being_used == SKILL_LOCKPICK) then begin
+      if (temp_gang_member != 0) then begin
+         if (gang_door(state_gang_door_yes) == false) then begin
+            if (source_obj == dude_obj) then begin
+               script_overrides;
+               flush_add_timer_event(temp_gang_member, 0, timed_event_door_tamper);
+               return true;
+            end else if (obj_in_party(source_obj)) then begin
+               script_overrides;
+               flush_add_timer_event(temp_gang_member, 0, timed_event_door_tamper);
+               return true;
+            end
+         end
+      end
+   end
+   return false;
+end

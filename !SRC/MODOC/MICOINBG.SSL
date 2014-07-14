@@ -1,0 +1,56 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Coin Bag
+        Location: Modoc
+        Description:
+
+        Log: the following defines need to be changed:
+
+
+          Created: February 15, 1998
+
+           Updated:
+*/
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                        SCRIPT_MCCOINBG
+#define TOWN_REP_VAR                GVAR_TOWN_REP_MODOC
+
+#include "..\headers\command.h"
+#include "..\headers\modoc.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure pickup_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+procedure pickup_p_proc begin
+   if (source_obj != 0) then begin
+      if ((source_obj == dude_obj) or (obj_in_party(source_obj))) then begin
+         set_stole_wish;
+         inc_general_rep(REP_BONUS_MODOC_STEAL_COIN_BAG);
+         item_caps_adjust(source_obj, 1);
+         destroy_object(self_obj);
+      end
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(modoc_mstr(600));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(modoc_mstr(601));
+end

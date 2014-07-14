@@ -1,0 +1,70 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+   Mutanigin Serim. It kills mutants thats about it.
+*/
+
+#include "..\headers\define.h"
+
+#define NAME   SCRIPT_SIMSERUM
+
+#include "..\headers\command.h"
+#include "..\headers\ncr.h"
+
+procedure use_obj_on_p_proc;
+procedure timed_event_p_proc;
+
+procedure start begin
+end
+
+variable owner;
+
+#define TIMER_DOKILL 1
+#define TIMER_REAL_KILL 2
+
+procedure timed_event_p_proc begin
+   variable sound;
+
+   if (fixed_param == TIMER_DOKILL) then begin
+      sound := sfx_build_char_name(owner, ANIM_melted_to_nothing, snd_die);
+      reg_anim_clear(owner);
+      reg_anim_begin();
+      reg_anim_animate(owner, ANIM_melted_to_nothing, -1);
+      reg_anim_play_sfx(owner, sound, 0);
+      reg_anim_end();
+
+      add_timer_event(self_obj, game_ticks(2), TIMER_REAL_KILL);
+   end else if (fixed_param == TIMER_REAL_KILL) then begin
+      critter_heal(owner, -get_critter_stat(owner,STAT_max_hp));
+      destroy_object(self_obj);
+   end
+end
+
+procedure use_obj_on_p_proc begin
+//Source_obj == user
+//Target_obj == use on
+   script_overrides;
+   if (critter_kill_type(target_obj) == KILL_TYPE_super_mutant_kills) then begin
+      script_overrides;
+      if (global_var(GVAR_NCR_HENRY_HYPO) < HYPO_USED) then begin
+         script_overrides;
+         set_global_var(GVAR_NCR_HENRY_HYPO, HYPO_USED);
+         
+         display_msg(mstr(101));
+         give_xp(EXP_DOCHENRY_MUTA_TEST); 
+         
+         //give_exp_points(EXP_DOCHENRY_MUTA_TEST);
+         //display_msg(mstr(101) + EXP_DOCHENRY_MUTA_TEST + mstr(102));
+      end
+      rm_obj_from_inven(source_obj, self_obj);
+      add_obj_to_inven(target_obj, self_obj);
+      set_obj_visibility(self_obj, OBJ_INVIS);
+      owner := target_obj;
+      add_timer_event(self_obj, 2, TIMER_DOKILL);
+   end else begin
+      script_overrides;
+      display_mstr(100);
+   end
+end

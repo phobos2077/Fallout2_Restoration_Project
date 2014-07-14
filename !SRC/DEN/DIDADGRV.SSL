@@ -1,0 +1,27 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+procedure grave_description_proc;
+
+procedure description_p_proc begin
+   call grave_description_proc;
+end
+
+#define description_p_proc                      def_description_p_proc
+
+#ifndef GIVE_HEADSTONE_NAME
+#define GIVE_HEADSTONE_NAME                     false
+#endif
+
+#include "..\generic\ziGenGrv.ssl"
+#include "..\headers\Den.h"
+
+procedure grave_description_proc begin
+   if (is_headstone) then begin
+      script_overrides;
+      display_msg(message_str(SCRIPT_DIDADGRV,101));
+   end else begin
+      call def_description_p_proc;
+   end
+end

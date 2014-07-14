@@ -1,0 +1,135 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Evan Hollyfeld
+        Location: New Reno
+        Description: Boxer guy
+
+        Log:
+
+           Created: April 21, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCHOLLYF
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+#define LVAR_Flags                    (0)
+
+import variable hollyfeld_obj;
+
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+
+procedure start begin
+   hollyfeld_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+   if (combat_is_initialized == false) then begin
+      floater_rand(200,203);
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (holyfeld_dead) then begin
+         destroy_object(self_obj);
+      end else if (map_first_run == false) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_BOXER);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_BOXER);
+      end
+      check_set_obj_visiblility(self_obj, false);
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+   hollyfeld_obj := self_obj;
+end
+
+procedure critter_p_proc begin
+   if ((hostile) and (self_can_see_dude)) then begin
+
+      self_attack_dude;
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_hostile;
+   end
+end
+
+procedure talk_p_proc begin
+   call Node001;
+   set_herebefore;
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure destroy_p_proc begin
+   inc_evil_critter
+   set_holyfeld_dead;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + (herebefore));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150 + (examined));
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   floater_rand(301-(dude_is_male and dude_is_prizefighter), 309+((dude_is_female and (dude_is_prizefighter==false))*13));
+end

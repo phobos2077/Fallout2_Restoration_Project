@@ -1,0 +1,218 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Emitter for the force field
+        Description: It emitts the force field. You can destroy it or tamper with it to delay the field
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_BSEMTR
+#define CUR_COMP_SCRIPT         SCRIPT_BSEMTR
+
+#include "..\headers\command.h"
+#include "..\headers\vault15.h"
+#include "..\headers\v15.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Known                                (0)
+#define LVAR_Damage                               (1)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+import variable i_field_obj;
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+#define MULTI_TOOL_BONUS 30
+#define SUPER_TOOL_BONUS 50
+#define EMITTER_THRESH   20
+
+#define MAX_EXPLOSION_DAMAGE 50
+#define MIN_EXPLOSION_DAMAGE 25
+
+#define TIMER_REMOVE_SELF 1
+#define TIMER_REMOVE_FIELD 2
+#define TIMER_EXPLODE 3
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_REMOVE_FIELD) then begin
+      if (i_field_obj != -1) then
+         add_timer_event(i_field_obj, 0, FIELD_TIMER_DESTROY);
+   end else if (fixed_param == TIMER_REMOVE_SELF) then begin
+      destroy_object(self_obj);
+   end else if (fixed_param == TIMER_EXPLODE) then begin
+      explosion(self_tile, elevation(self_obj), Random(MIN_EXPLOSION_DAMAGE, MAX_EXPLOSION_DAMAGE));
+   end
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Known) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+
+/**********************************************************************************
+**********************************************************************************/
+
+procedure description_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Known) == 0) then
+      display_msg(mstr(102));
+   else
+      display_msg(mstr(103));
+end
+
+
+/**********************************************************************************
+   Make sure the door is working.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+   variable Skill_Used;
+
+   Skill_Used:=action_being_used;
+
+   if (Skill_Used == SKILL_SCIENCE) then begin
+      if (skill_success(dude_obj, Skill_Used, 0)) then begin
+         script_overrides; //added by killap
+         slvar(LVAR_Known, 1);
+         display_msg(mstr(103));
+      end
+   end else if (Skill_Used == SKILL_REPAIR) then begin
+      if (skill_success(dude_obj, Skill_Used, 0)) then begin
+         script_overrides; //added by killap
+         if (i_field_obj != -1) then
+            add_timer_event(i_field_obj, 0, FIELD_TIMER_DELAY);
+      end
+   end
+end
+
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+
+procedure use_obj_on_p_proc begin
+   variable Tool;
+
+   Tool:=obj_pid(obj_being_used_with);
+   if (Tool == PID_MULTI_TOOL) then begin
+      script_overrides;
+      if (skill_success(dude_obj, SKILL_REPAIR, MULTI_TOOL_BONUS)) then begin
+         if (i_field_obj != -1) then
+            add_timer_event(i_field_obj, 0, FIELD_TIMER_DELAY);
+      end
+   end else if (tool == PID_SUPER_TOOL_KIT) then begin
+      script_overrides;
+      if (skill_success(dude_obj, SKILL_REPAIR, SUPER_TOOL_BONUS)) then begin
+         if (i_field_obj != -1) then
+            add_timer_event(i_field_obj, 0, FIELD_TIMER_DELAY);
+      end
+   end
+end
+
+
+/******************************************************************************************
+   IF it gets damaged it breaks
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   if (lvar(LVAR_Damage) < EMITTER_THRESH) then begin
+      slvar(LVAR_Damage, lvar(LVAR_Damage) + Random(10, 25));
+
+      if (lvar(LVAR_Damage) > EMITTER_THRESH) then begin
+         display_msg(mstr(104));
+         add_timer_event(self_obj, 0, TIMER_EXPLODE);
+         add_timer_event(self_obj, game_ticks(1), TIMER_REMOVE_FIELD);
+      end else begin
+         if (i_field_obj != -1) then
+            add_timer_event(i_field_obj, 0, FIELD_TIMER_FLICKER);
+      end
+   end
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+end

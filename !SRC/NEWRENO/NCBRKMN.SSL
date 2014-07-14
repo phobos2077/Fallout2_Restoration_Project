@@ -1,0 +1,249 @@
+/*
+	Script for critter tmplete
+*/
+
+
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_NCBRKMN
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node090;
+procedure Node999;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Cured                      (7)
+#define LVAR_Dumb_Scare                 (8)
+#define LVAR_Diagnose                   (9)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then begin
+      if (local_var(LVAR_Cured) == 0) then begin
+         floater(random(350,352));
+         add_timer_event(self_obj,game_ticks(random(50,100)),1);
+      end
+   end
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if ( (local_var(LVAR_Hostile) == 1) and (self_can_see_dude) ) then begin
+      self_attack_dude;
+   end
+end
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_local_var(LVAR_Personal_Enemy,1);
+      set_local_var(LVAR_Hostile,1);
+   end
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   add_timer_event(self_obj,random(50,100),1);
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   if ( (local_var(LVAR_Cured) == 1) ) then begin
+      floater(400);
+   end else if (local_var(LVAR_Dumb_Scare) == 1) then begin
+      floater(random(600,601));
+   end else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+      end_dialogue;
+   end
+end
+
+procedure Node001 begin
+   Reply(150);
+   if ( (global_var(GVAR_FOUND_EPILEPSY_CURE) == 1) and (local_var(LVAR_Diagnose) == 1) ) then
+      NOption(153,Node006,004);
+   NOption(151,Node002,004);
+   NOption(152,Node999,004);
+   NOption(250, Node003, -003);
+   NOption(256, Node999, -003);
+end
+
+procedure Node002 begin
+   set_local_var(LVAR_Diagnose,1);
+   Reply(160);
+   if ( (global_var(GVAR_FOUND_EPILEPSY_CURE) == 1) ) then begin
+      NOption(153,Node006,004);
+   end else begin
+      if (has_skill(dude_obj, SKILL_SCIENCE) > 70) then
+         NOption(154,Node999,004);
+      else
+         NOption(152,Node999,004);
+   end
+end
+
+procedure Node003 begin
+   Reply(251);
+   NOption(252, Node004, -003);
+end
+
+procedure Node004 begin
+   Reply(253);
+   if ( (dude_strength) > (get_critter_stat(self_obj,STAT_st)) ) then
+      NOption(255, Node005, -003);
+   else
+      NOption(254, Node999, -003);
+end
+
+procedure Node005 begin
+   Reply(256);
+   NOption(258, Node999, -003);
+   set_local_var(LVAR_Dumb_Scare,1);
+end
+
+procedure Node006 begin
+   Reply(300);
+   NOption(301,Node007,004);
+end
+
+procedure Node007 begin
+   Reply(302);
+   NOption(303,Node008,004);
+end
+
+procedure Node008 begin
+   Reply(304);
+   NOption(305,Node009,004);
+end
+
+procedure Node009 begin
+   Reply(306);
+   NOption(307,Node090,004);
+end
+
+procedure Node090 begin
+   variable item;
+   
+   item:=create_object(PID_STIMPAK,0,0);
+   add_mult_objs_to_inven(dude_obj,item,3);
+   display_msg(mstr(500));
+   give_xp(100);
+   set_local_var(LVAR_Cured,1);
+end
+
+procedure Node999 begin
+
+end

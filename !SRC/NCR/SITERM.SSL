@@ -1,0 +1,289 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Terminal
+        Description: This is a generic terminal
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_SITERM
+
+#include "..\headers\command.h"
+#include "..\headers\ncrent.h"
+
+#include "..\headers\ncr.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+/* additional functions */
+procedure use_success;
+procedure use_fail;
+
+/* specific functions */
+procedure open_slave_doors;
+procedure close_slave_doors;
+
+
+//States
+#define STATE_WORKING     (1)
+#define STATE_NOTWORKING  (0)
+
+//Inital configuration
+#define CONSOLE_STATE    STATE_WORKING
+#define USE_WITH_SKILL1  SKILL_SCIENCE /* other possibles: SKILL_REPAIR SKILL_LOCKPICK */
+#define USE_WITH_SKILL2  SKILL_LOCKPICK
+#define ROLL_ADJUSTMENT1  (30)
+#define ROLL_ADJUSTMENT2  (-20)
+
+#define dmsg(x) display_msg(mstr(x))
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Working                        (0)
+// Specific to this terminal
+#define LVAR_Doors_Open                     (1)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+/* Slave doors */
+   /* group 1*/
+import variable slvdor_g1d1;
+import variable slvdor_g1d2;
+import variable slvdor_g1d3;
+import variable slvdor_g1d4;
+   /* group 2 */
+import variable slvdor_g2d1;
+import variable slvdor_g2d2;
+import variable slvdor_g2d3;
+   /* group 3 */
+import variable slvdor_g3d1;
+import variable slvdor_g3d2;
+import variable slvdor_g3d3;
+   /* group 4 */
+import variable slvdor_g4d1;
+import variable slvdor_g4d2;
+import variable slvdor_g4d3;
+/* end slave doors */
+
+
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+   call use_skill_on_p_proc;
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides; //added by killap
+   dmsg(100);
+end
+
+
+/**********************************************************************************
+**********************************************************************************/
+
+procedure description_p_proc begin
+   script_overrides; //added by killap
+   dmsg(101);
+end
+
+
+/**********************************************************************************
+   Make sure the door is working.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Working) == STATE_WORKING) then begin
+      if (skill_success(source_obj,USE_WITH_SKILL1,ROLL_ADJUSTMENT1)) then begin
+         if (skill_success(source_obj,USE_WITH_SKILL2,ROLL_ADJUSTMENT2)) then begin
+            call use_success;
+         end
+         else begin
+            dmsg(201);
+            call use_fail;
+         end
+      end
+      else begin
+         dmsg(205);
+         call use_fail;
+      end
+   end
+end
+
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+
+procedure use_obj_on_p_proc begin
+   dmsg(204);
+end
+
+
+/******************************************************************************************
+   IF it gets damaged it breaks
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   set_local_var(LVAR_Working, STATE_NOTWORKING);
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   set_local_var(LVAR_Working, CONSOLE_STATE);
+   set_local_var(LVAR_Doors_Open,0);
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+
+/* addtional function section */
+procedure use_success begin
+   if (local_var(LVAR_Doors_Open) == 0) then begin
+      set_local_var(LVAR_Doors_Open, 1);
+      call open_slave_doors;
+//      dmsg(202);
+   end else begin
+      set_local_var(LVAR_Doors_Open, 0);
+      call close_slave_doors;
+//      dmsg(203);
+   end
+end
+
+procedure use_fail begin
+end
+
+/* specific functions */
+procedure close_slave_doors begin
+   debug_msg("SITERM: doors closing");
+   if (self_tile == TERMINAL1) then begin
+      debug_msg("SITERM: You were on terminal 1");
+      close_slave_door(g1d1);
+      close_slave_door(g1d2);
+      close_slave_door(g1d3);
+      close_slave_door(g1d4);
+   end
+   else if (self_tile == TERMINAL2) then begin
+      debug_msg("SITERM: You were on terminal 2");
+      close_slave_door(g2d1);
+      close_slave_door(g2d2);
+      close_slave_door(g2d3);
+   end
+   else if (self_tile == TERMINAL3) then begin
+      debug_msg("SITERM: You were on terminal 3");
+      close_slave_door(g3d1);
+      close_slave_door(g3d2);
+      close_slave_door(g3d3);
+   end
+   else if (self_tile == TERMINAL4) then begin
+      debug_msg("SITERM: You were on terminal 4");
+      close_slave_door(g4d1);
+      close_slave_door(g4d2);
+      close_slave_door(g4d3);
+   end else begin
+      debug_msg("SITERM: Unknown terminal tileNum: " + self_tile);
+   end
+end
+
+procedure open_slave_doors begin
+   debug_msg("SITERM: doors opening");
+   ncr_set_global_state(NCR_SLAVES_FREE);
+   set_map_var(MVAR_NCR_ENT_SLAVES_FREED, 1);
+   set_map_var(MVAR_Slavers_Attack, 1);
+   if (self_tile == TERMINAL1) then begin
+      debug_msg("SITERM: You were on terminal 1");
+      open_slave_door(g1d1);
+      open_slave_door(g1d2);
+      open_slave_door(g1d3);
+      open_slave_door(g1d4);
+   end
+   else if (self_tile == TERMINAL2) then begin
+      debug_msg("SITERM: You were on terminal 2");
+      open_slave_door(g2d1);
+      open_slave_door(g2d2);
+      open_slave_door(g2d3);
+   end
+   else if (self_tile == TERMINAL3) then begin
+      debug_msg("SITERM: You were on terminal 3");
+      open_slave_door(g3d1);
+      open_slave_door(g3d2);
+      open_slave_door(g3d3);
+   end
+   else if (self_tile == TERMINAL4) then begin
+      debug_msg("SITERM: You were on terminal 4");
+      open_slave_door(g4d1);
+      open_slave_door(g4d2);
+      open_slave_door(g4d3);
+   end else begin
+      debug_msg("SITERM: Unknown terminal tileNum: " + self_tile);
+   end
+end

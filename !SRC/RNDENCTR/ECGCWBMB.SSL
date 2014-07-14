@@ -1,0 +1,116 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/* Random Encounter scripts. These will be filled in more once they
+   have been designed.
+*/
+
+procedure start;
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_ECGCWBMB
+
+#include "..\headers\command.h"
+
+#include "..\headers\specenc.h"
+
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure combat_p_proc;
+procedure critter_p_proc;
+procedure timed_event_p_proc;
+
+#define TIMER_MOO     1
+#define TIMER_EXPLODE 2
+
+variable calledMapEnter;
+
+
+procedure doExplosion;
+
+procedure start begin
+   if (calledMapEnter == 0) then begin
+      calledMapEnter := 1;
+      call map_enter_p_proc;
+   end
+end
+
+procedure use_p_proc begin
+end
+
+procedure look_at_p_proc begin
+end
+
+procedure description_p_proc begin
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure use_obj_on_p_proc begin
+end
+
+procedure damage_p_proc begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_MOO) then begin
+      float_msg(self_obj, message_str(SCRIPT_ZCBRAHMN, 201 + Random(0, 5)), FLOAT_MSG_RED);
+      add_timer_event(self_obj, Random(10, 50), TIMER_MOO);
+   end else if (fixed_param == TIMER_EXPLODE) then begin
+      call doExplosion;
+      add_timer_event(self_obj, game_ticks(1), TIMER_EXPLODE);
+   end
+end
+
+procedure map_enter_p_proc begin
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_BRAHMIN);
+   add_timer_event(self_obj, Random(10, 50), TIMER_MOO);
+   add_timer_event(self_obj, game_ticks(1), TIMER_EXPLODE);
+end
+
+procedure map_update_p_proc begin
+end
+
+procedure talk_p_proc begin
+end
+
+procedure destroy_p_proc begin
+end
+
+procedure combat_p_proc begin
+   attack(dude_obj);
+end
+
+procedure critter_p_proc begin
+//   if (not doExplosion) then begin
+      if (not anim_busy(self_obj)) then begin
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+         animate_run_to_tile(tile_num_in_direction(dude_tile, Random(0, 5), 1));
+         reg_anim_end();
+      end
+//   end
+end
+
+procedure doExplosion begin
+   debug_msg("ECGCWBMB: check explosion range");
+   if (tile_distance_objs(self_obj, dude_obj) < COW_BLOW_DISTANCE) then begin
+      debug_msg("ECGCWBMB: should be exploding");
+      terminate_combat;
+      explosion(self_tile, elevation(self_obj), COW_BLOW_DAMAGE);
+      return 1;
+   end
+   return 0;
+end

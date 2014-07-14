@@ -1,0 +1,115 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+//#include "..\headers\depolvb.h"
+
+#define NAME                    SCRIPT_WSTERM4A
+
+#include "..\headers\command.h"
+
+#define LOW_DAMAGE              (20)
+#define HIGH_DAMAGE             (30)
+
+procedure start;
+procedure use_p_proc;
+procedure talk_p_proc;
+procedure look_p_proc;
+procedure description_p_proc;
+
+procedure Node001;
+procedure Node002;
+
+procedure Node999;
+
+procedure start begin
+end
+
+procedure look_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+procedure use_p_proc begin
+   variable Damage;
+
+   if (global_var(GVAR_SIERRA_BASE_ENEMY) == 1) then begin
+       Damage:=random(LOW_DAMAGE,HIGH_DAMAGE);
+       critter_damage(source_obj,Damage);
+       display_msg(mstr(300));
+   end
+
+   else if (get_critter_stat(source_obj,STAT_iq) < 4) then begin
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(102));
+       end
+       else begin
+           display_msg(obj_name(source_obj)+mstr(200));
+       end
+   end
+   else begin
+       dialogue_system_enter;
+   end
+end
+
+procedure talk_p_proc begin
+   if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_CYBERNETIC) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node002;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node001;
+       gSay_End;
+       end_dialogue;
+   end
+end
+
+procedure Node001 begin
+   Reply(mstr(103)+mstr(104));
+
+   NOption(105,Node999,004);
+end
+
+procedure Node002 begin
+   Reply(mstr(106)+mstr(107)+mstr(108));
+
+   NOption(109,Node999,004);
+end
+
+procedure Node999 begin
+end

@@ -1,0 +1,876 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Juan-Vikki
+        Location: Elrononlogists camp
+        Description: They are converted porno stars
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\sfelronb.h"
+
+#define NAME                    SCRIPT_FCJUAVKI
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_SAN_FRANCISCO)
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#include "..\headers\sanfran.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+
+procedure doSequence;
+procedure CheckTalkSequence;
+procedure doEndSequence;
+procedure checkLoadPos;
+procedure DoCallGuards;
+procedure DoAdjust;
+procedure DoIndoctranation;
+procedure doAdjustLesson1;
+procedure doAdjustEnd;
+
+#define REAL_TILE_HIM 12288
+#define REAL_TILE_HER 12487
+
+#define DUDE_ADJUST_TILE 9910
+#define DUDE_ADJUST_ROT  5
+#define HIM_ADJUST_TILE  9308
+#define HIM_ADJUST_ROT   2
+#define HER_ADJUST_TILE  9707
+#define HER_ADJUST_ROT   3
+
+
+#define ELRON_HOLO_PID PID_ELRON_MEMBER_HOLO
+
+#define TALK_DONE 21 /* number of times they float back and forth to each other + 1 */
+
+#define TIMER_CHECK_SEQUENCE   2
+#define TIMER_DOADJUST_LESSON1 3
+#define TIMER_DOADJUST_END     4
+
+#define IN_SEQUENCE_BOX (tile_in_tile_rect(11698, 11482, 16700, 16683, dude_tile))
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Did_Speech                 (7)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+import variable i_he_obj;
+import variable i_she_obj;
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable begin
+   lastDudeTile := 0;
+   lastMapNum := 0;
+
+   callGuards := 0;
+   callAdjust := 0;
+   callIndoctranation := 0;
+   adjustLesson := 0;
+
+   her_last_tile := 0;
+   her_last_rot  := 0;
+   him_last_tile := 0;
+   him_last_rot := 0;
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_CHECK_SEQUENCE) then begin
+      call CheckTalkSequence;
+   end else if (fixed_param == TIMER_DOADJUST_LESSON1) then begin
+      call doAdjustLesson1;
+   end else if (fixed_param == TIMER_DOADJUST_END) then begin
+      call doAdjustEnd;
+   end
+
+end
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   //begin killap code
+   if (map_var(MVAR_Talk_Sequence) > 0) then
+      set_map_var(MVAR_Talk_Sequence, TALK_DONE);
+   //end killap code
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_ELRONS);
+   if (self_is_male) then
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SF_RON_CRUZ);
+   else
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SF_NIKKI_GOLDMAN);
+   if (not is_loading_game) then begin
+      call checkLoadPos;
+   end
+end
+
+
+   
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((local_var(LVAR_Hostile) > 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       self_attack_dude;
+   end
+
+   if (self_is_male) then
+      i_he_obj := self_obj;
+   else
+      i_she_obj := self_obj;
+
+
+   if (map_var(MVAR_Talk_Sequence) == 0) then begin
+      if (self_is_male) then begin
+         if (obj_on_screen(self_obj)) then begin
+            if (tile_distance_objs(self_obj, dude_obj) <= 5) then begin
+               call doSequence;
+            end
+         end
+      end
+   end else if (map_var(MVAR_Talk_Sequence) == TALK_DONE) then begin
+      if (self_is_male) then begin
+         if (self_tile != REAL_TILE_HIM and self_tile != HIM_ADJUST_TILE) then begin
+            if (not anim_busy(self_obj)) then begin
+               reg_anim_clear(self_obj);
+               reg_anim_begin();
+               animate_move_to_tile(REAL_TILE_HIM);
+               reg_anim_end();
+            end
+         end
+      end else begin
+         if (self_tile != REAL_TILE_HER) then begin
+            if (not anim_busy(self_obj) and self_tile != HER_ADJUST_TILE) then begin
+               reg_anim_clear(self_obj);
+               reg_anim_begin();
+               animate_move_to_tile(REAL_TILE_HER);
+               reg_anim_end();
+            end
+         end
+      end
+   end
+
+   if (self_tile == REAL_TILE_HIM and self_is_male) then begin
+      if (not anim_busy(self_obj)) then begin
+         reg_anim_begin();
+         animate_rotation(3);
+         reg_anim_end();
+      end
+   end
+
+   if (self_tile == REAL_TILE_HER and self_is_female) then begin
+      if (not anim_busy(self_obj)) then begin
+         reg_anim_begin();
+         animate_rotation(2);
+         reg_anim_end();
+      end
+   end
+//   call CheckTalkSequence;
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   variable noTalk := 0;
+   Evil_Critter:=1;
+   Slavery_Tolerant:=SLAVE_TOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION0;
+
+   if (map_var(MVAR_Talk_Sequence) == TALK_DONE) then begin
+      CheckKarma;
+
+      GetReaction;
+
+
+      if (self_is_male) then begin
+         if (i_she_obj == -1) then begin
+            set_local_var(LVAR_Hostile, 2);
+            noTalk := 1;
+            callGuards := 1;
+         end
+      end else begin
+         if (i_he_obj == -1) then begin
+            set_local_var(LVAR_Hostile, 2);
+            noTalk := 1;
+            callGuards := 1;
+         end
+      end
+
+      if (noTalk == 0) then begin
+         if (san_fran_flag(SF_ELRON_ENEMY)) then begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node023;
+            gSay_End;
+            end_dialogue;
+         end else if (local_var(LVAR_Herebefore) == 1 and (elron_flag(EL_SPOKEN) or elron_flag(EL_REJECTED))) then begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node028;
+            gSay_End;
+            end_dialogue;
+         end else if (local_var(LVAR_Herebefore) == 1 and elron_flag_any < EL_ACCEPTED) then begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node008;
+            gSay_End;
+            end_dialogue;
+         end else if ((local_var(LVAR_Herebefore) == 1) and ((elron_flag_any >= EL_ACCEPTED) and (not (san_fran_flag(SF_ELRON_ENEMY))))) then begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node024;
+            gSay_End;
+            end_dialogue;
+         end else begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               set_local_var(LVAR_Herebefore, 1); //added here by killap
+               call Node001;
+            gSay_End;
+            end_dialogue;
+         end
+      end
+      set_local_var(LVAR_Herebefore, 1);
+
+      if (callGuards == 1) then begin
+         callGuards := 0;
+         call DoCallGuards;
+      end
+
+      if (callAdjust == 1) then begin
+         callAdjust := 0;
+         call DoAdjust;
+      end
+
+      if (callIndoctranation == 1) then begin
+         callIndoctranation := 0;
+         call DoIndoctranation;
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node021;
+         gSay_End;
+         end_dialogue;
+      end
+   end
+ end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+/* Set global_variable for Enemy status*/
+
+   if (self_is_female) then
+      i_she_obj := -1;
+   else
+      i_he_obj := -1;
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure NodeAdjust begin
+   if not (DUDE_ADJUSTED) then begin
+      callAdjust := 1;
+      call Node999;
+   end else begin
+      call Node019;
+   end
+end
+
+procedure Node001 begin
+   Reply(103);
+   NLowOption(104, Node002);
+   NOption(105, Node006, 4);
+   NOption(106, Node011, 7);
+   NOption(107, Node016, 4);
+   if (dave_flag(DAVE_LOVE)) then
+      NOption(108, Node020, 4);
+   NOption(109, Node999, 4);
+end
+
+procedure Node002 begin
+   Reply(110);
+   NOption(111, NodeAdjust, 1);
+   NOption(112, Node004, 1);
+end
+
+procedure Node003 begin
+   Reply(113);
+   NLowOption(114, Node999);
+   NOption(115, Node005, 4);
+end
+
+procedure Node004 begin
+   Reply(116);
+   NOption(117, Node999, 1);
+end
+
+procedure Node005 begin
+   Reply(118);
+   NOption(119, Node008, 4);
+   NOption(120, NOde999, 4);
+end
+
+procedure Node009a begin
+   DownReactMinor;
+   call Node009;
+end
+
+procedure Node006 begin
+   if not (dude_is_pornstar) then
+      Reply(121);
+   else
+      Reply(mstr(121) + " " + mstr(122));
+   BOption(123, Node009a, 4);
+   NOption(124, Node007, 4);
+   NOption(125, Node008, 4);
+   NOption(126, Node999, 4);
+end
+
+procedure Node007 begin
+   Reply(127);
+   NOption(128, Node010, 4);  //killap's fix: changed to Node010
+   NOption(129, Node012, 4);
+   NOption(130, Node016, 4);
+   NOption(131, Node008, 4);
+   NOption(132, Node999, 4);
+end
+
+procedure Node008 begin
+   Reply(133);
+//   NOption(134, Node016, 4);
+   NOption(135, Node006, 4);
+   NOption(136, Node015, 4);
+   NOption(137, Node016, 4);
+   if (dave_flag(DAVE_LOVE) or dave_flag(DAVE_NOTALKLOVE)) then
+      NOption(138, Node020, 4);
+   NOption(139, Node999, 4);
+end
+
+procedure Node009 begin
+   Reply(140);
+   NOption(141, Node008, 4);
+   NOption(142, Node999, 4);
+end
+
+procedure Node013a begin
+   DownReactModerate;
+   set_elron_flag(EL_REJECTED);
+   set_san_fran_flag(SF_ELRON_ENEMY);
+   call Node013;
+end
+
+procedure Node010 begin
+   Reply(143);
+   NOption(144, Node008, 4);
+   BOption(145, Node013a, 4);
+   NOption(146, Node016, 4);
+   NOption(147, Node999, 4);
+end
+
+procedure Node011 begin
+   Reply(148);
+   NOption(149, Node008, 4);
+   NOption(150, Node999, 4);
+end
+
+procedure Node017a begin
+   set_elron_flag(EL_REJECTED);
+   call Node017;
+end
+
+procedure Node012 begin
+   Reply(151);
+   NOption(152, Node014, 4);
+   NOption(153, Node016, 4);
+   BOption(154, Node017a, 4);
+   NOption(155, Node999, 4);
+end
+
+procedure Node998a begin
+   callGuards := 1;
+   call Node998;
+end
+
+procedure Node013 begin
+   Reply(156);
+   BOption(157, Node998a, 4); //edit by killap - was NOption
+   NOption(158, Node999, 4);
+   NOption(159, Node999, 4);
+end
+
+procedure Node014 begin
+   Reply(160);
+   NOption(161, Node016, 4);
+   BOption(162, Node013a, 4);
+   NOption(163, Node016, 4);
+   NOption(164, Node008, 4);
+   NOption(165, Node999, 4);
+end
+
+procedure Node015 begin
+   Reply(166);
+   NOption(167, Node008, 4);
+   NOption(168, Node016, 4);
+   NOption(169, Node999, 4);
+end
+
+procedure NodeJoin begin
+   callIndoctranation := 1;
+   //add_obj_to_inven(dude_obj, create_object_sid(ELRON_HOLO_PID,0,0, SCRIPT_FIELRDSK));
+   add_obj_to_inven(dude_obj, create_object_sid(ELRON_HOLO_PID,0,0, -1)); //edit by killap - this is now done through the dude_obj script; part of the too many items fix
+end
+
+procedure Node016 begin
+   Reply(170);
+   NOption(171, NodeJoin, 4);
+   NOption(172, Node022, 4);
+end
+
+procedure Node017 begin
+   Reply(173);
+   GOption(174, Node018, 4);
+   BOption(175, Node998a, 4);
+   NOption(176, Node999, 4);
+end
+
+procedure Node018 begin
+   Reply(177);
+   BOption(178, Node998a, 4);
+   NOption(179, Node016, 4);
+   BOption(180, Node998a, 4);
+   NOption(181, Node999, 4);
+end
+
+procedure Node019 begin
+   Reply(182);
+   NOption(183, Node999, 1);
+end
+
+procedure Node248a begin
+   set_dave_flag(DAVE_REJECTED);
+   if ((elron_flag_any >= EL_ACCEPTED) and (not (san_fran_flag(SF_ELRON_ENEMY)))) then
+      call Node024;
+   else
+      call Node008;
+end
+
+procedure Node999a begin
+   set_dave_flag(DAVE_REJECTED);
+   call Node999;
+end
+
+procedure Node020 begin
+   Reply(184);
+   NOption(185, Node248a, 4);
+   NOption(186, Node999a, 4);
+end
+
+procedure Node999b begin
+   set_elron_flag(EL_SPOKEN);
+   call Node999;
+end
+
+procedure Node021 begin
+   Reply(187);
+   NOption(188, Node999b, 4);
+end
+
+procedure Node022 begin
+   Reply(189);
+   NOption(190, NodeJoin, 4);
+end
+
+procedure Node023 begin
+   Reply(191);
+   NOption(192, Node998a, 4);
+end
+
+procedure Node2627 begin
+   if (dude_charisma > 5) then
+      call Node026;
+   else
+      call Node027;
+end
+
+procedure Node024 begin
+   Reply(mstr(193) + " " + dude_name + mstr(228));
+   NOption(194, Node025, 4);
+   NOption(195, Node2627, 4);
+   if (dave_flag(DAVE_LOVE) or dave_flag(DAVE_NOTALKLOVE)) then
+      NOption(138, Node020, 4);
+   NOption(196, Node999, 4);
+end
+
+procedure Node025 begin
+   Reply(199);
+   NOption(200, Node2627, 4);
+   NOption(201, Node999, 4);
+end
+
+procedure Node026 begin
+   Reply(202);
+   NOption(203, Node025, 4);
+   NOption(204, Node999, 4);
+end
+
+procedure Node027 begin
+   Reply(205);
+   NOption(206, Node025, 4);
+   NOption(207, Node999, 4);
+end
+
+procedure Node028 begin
+   Reply(231);
+   ENDOPTION;
+end
+
+//Only the dude's script is running currently so all self shit has to do with him.
+procedure doSequence begin
+   if (self_is_male) then begin
+//      fadeout(1);
+//      game_ui_disable;
+//      lastDudeTile := dude_tile;
+//      set_obj_visibility(dude_obj, OBJ_INVIS);
+//      move_to(dude_obj, tile_num_in_direction(self_tile, 2, 4), 0);
+      set_map_var(MVAR_Talk_Sequence, 1);
+//      fadein(1);
+      add_timer_event(self_obj, 0, TIMER_CHECK_SEQUENCE);
+   end
+end
+
+procedure CheckTalkSequence begin
+   //Added
+   if (not combat_is_initialized) then begin
+   //Added
+      if (map_var(MVAR_Talk_Sequence) > 0 and map_var(MVAR_Talk_Sequence) < 20) then begin
+         if (map_var(MVAR_Talk_Sequence) bwand 1) then begin
+            if (self_is_male) then begin
+               float_msg_clear(i_she_obj);
+               float_msg(self_obj, mstr(207 + map_var(MVAR_Talk_Sequence)), FLOAT_MSG_BLUE);
+               inc_map_var(MVAR_Talk_Sequence);
+               add_timer_event(i_she_obj, game_ticks(3), TIMER_CHECK_SEQUENCE);
+            end
+         end else begin
+            if (self_is_female) then begin
+               float_msg(self_obj, mstr(207 + map_var(MVAR_Talk_Sequence)), FLOAT_MSG_GREEN);
+               float_msg_clear(i_he_obj);
+               inc_map_var(MVAR_Talk_Sequence);
+               add_timer_event(i_he_obj, game_ticks(3), TIMER_CHECK_SEQUENCE);
+            end
+         end
+      end else if (map_var(MVAR_Talk_Sequence) == 20) then begin
+         display_mstr(227);
+         inc_map_var(MVAR_Talk_Sequence);
+         add_timer_event(i_he_obj, game_ticks(1), TIMER_CHECK_SEQUENCE);
+         add_timer_event(i_she_obj, game_ticks(1), TIMER_CHECK_SEQUENCE);
+      end else if (map_var(MVAR_Talk_Sequence) == 21) then begin
+         call DoEndSequence;
+      end
+//Added
+   end else begin
+      call DoEndSequence;
+   end
+//Added
+end
+
+procedure doEndSequence begin
+/*   if (self_is_male) then begin
+      fadeout(1);
+      game_ui_enable;
+      set_obj_visibility(dude_obj, OBJ_VIS);
+      move_to(dude_obj, lastDudeTile, 0);
+      fadein(1);
+      if (not combat_is_initialized and not anim_busy(self_obj)) then begin
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+         animate_move_to_tile(REAL_TILE_HIM);
+         reg_anim_end();
+      end
+   end else begin
+      if (not combat_is_initialized and not anim_busy(self_obj)) then begin
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+         animate_move_to_tile(REAL_TILE_HER);
+         reg_anim_end();
+      end
+   end*/
+end
+
+procedure checkLoadPos begin
+   if (local_var(LVAR_Did_Speech) == 1) then begin
+      if (self_is_male) then begin
+         if (self_tile != REAL_TILE_HIM) then begin
+            move_to(self_obj, REAL_TILE_HIM, 0);
+         end
+      end else begin
+         if (self_tile != REAL_TILE_HER) then begin
+            move_to(self_obj, REAL_TILE_HER, 0);
+         end
+      end
+   end
+end
+
+procedure DoCallGuards begin
+   SET_GUARD_NOTIFY(dude_obj);
+end
+
+procedure DoIndoctranation begin
+   fadeout(1);
+   fadein(1);
+end
+
+procedure doAdjust begin
+   fadeout(1);
+   game_ui_disable;
+   adjustLesson := 1;
+
+//   lastDudetile := dude_tile;
+//   lastDuderot  := obj_get_rot(dude_obj);
+
+   him_last_tile := tile_num(i_he_obj);
+   him_last_rot  := obj_get_rot(i_he_obj);
+
+   her_last_tile := tile_num(i_she_obj);
+   her_last_rot  := obj_get_rot(i_she_obj);
+
+   move_to(dude_obj, DUDE_ADJUST_TILE, 0);
+
+   move_to(i_he_obj, HIM_ADJUST_TILE, 0);
+   move_to(i_she_obj, HER_ADJUST_TILE, 0);
+
+   reg_anim_clear(dude_obj);
+   reg_anim_begin();
+   anim(dude_obj, ANIMATE_ROTATION, DUDE_ADJUST_ROT);
+   reg_anim_end();
+
+   reg_anim_clear(i_he_obj);
+   reg_anim_begin();
+   anim(self_obj, ANIMATE_ROTATION, HIM_ADJUST_ROT);
+   reg_anim_end();
+
+   reg_anim_clear(i_she_obj);
+   reg_anim_begin();
+   anim(self_obj, ANIMATE_ROTATION, HER_ADJUST_ROT);
+   reg_anim_end();
+
+   fadein(1);
+
+   add_timer_event(self_obj, game_ticks(1), TIMER_DOADJUST_LESSON1);
+end
+
+procedure doAdjustLesson1 begin
+   if (adjustLesson == 1) then begin
+      adjustLesson += 1;
+      float_msg(self_obj, mstr(229), FLOAT_MSG_GREEN);
+      add_timer_event(self_obj, game_ticks(5), TIMER_DOADJUST_LESSON1);
+   end else if (adjustLesson == 2) then begin
+      adjustLesson += 1;
+      if (dude_iq >= 4) then
+         float_msg(dude_obj, mstr(230), FLOAT_MSG_YELLOW);
+      add_timer_event(self_obj, game_ticks(2), TIMER_DOADJUST_LESSON1);
+   end else if (adjustLesson == 3) then begin
+      game_ui_enable;
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node003;
+      gSay_End;
+      end_dialogue;
+      game_ui_disable;
+      add_timer_event(self_obj, 0, TIMER_DOADJUST_END);
+   end
+end
+
+procedure doAdjustEnd begin
+   fadeout(1);
+   set_global_var(GVAR_NCR_ELRON_ADJUST, 1);
+
+   if (Random(1, 100) <= 50) then begin
+      set_critter_stat(dude_obj, STAT_lu, 1);
+      set_critter_stat(dude_obj, STAT_iq, 1);
+      debug_msg("FCOZ7: uhh made luck and iq");
+   end else begin
+      debug_msg("FCOZ7: uhh lost luck");
+      set_critter_stat(dude_obj, STAT_lu, -1);
+   end
+
+//   move_to(dude_obj, dude_last_tile, 0);
+   move_to(i_he_obj, him_last_tile, 0);
+   move_to(i_she_obj, her_last_tile, 0);
+
+/*   reg_anim_clear(dude_obj);
+   reg_anim_begin();
+   anim(dude_obj, ANIMATE_ROTATION, dude_last_rot);
+   reg_anim_end();*/
+
+   reg_anim_clear(i_he_obj);
+   reg_anim_begin();
+   anim(i_he_obj, ANIMATE_ROTATION, him_last_rot);
+   reg_anim_end();
+
+   reg_anim_clear(i_she_obj);
+   reg_anim_begin();
+   anim(i_she_obj, ANIMATE_ROTATION, her_last_rot);
+   reg_anim_end();
+
+   game_ui_enable;
+   adjustLesson := 0;
+
+   fadein(1);
+end
+
+
+//xxxxxxxxxxxxxxxxxxxx

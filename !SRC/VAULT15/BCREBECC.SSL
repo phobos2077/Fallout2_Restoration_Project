@@ -1,0 +1,706 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Rebecca
+        Location: Vault 15 Entrance
+        Description: Her daughter is lost, can you find her?
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#define NPC_REACTION_TYPE       REACTION_C
+#include "..\headers\define.h"
+#include "..\headers\v15ent.h"
+
+#define NAME                    SCRIPT_BCREBECC
+#define TOWN_REP_VAR            GVAR_TOWN_REP_VAULT_15
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#include "..\headers\v15.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure push_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+
+procedure game_time_8_hour;
+procedure game_time_12_hour;
+procedure game_time_24_hour;
+procedure do_trans;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_State                      (7)
+
+#define STATE_DARION bit_1
+#define STATE_VAULT  bit_2
+#define STATE_ZEKE   bit_3
+
+#define TIMER_MOVE  1
+#define IN_TENT    (self_tile == TENT_TILE_POS)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable begin
+   Node6Rep := 0;
+   Node8Rep := 0;
+   Node12Rep := 0;
+   q1 := 0;
+   q2 := 0;
+   q3 := 0;
+   q4 := 0;
+   q5 := 0;
+   starttile := 0;
+   called8   := 0;
+   called12  := 0;
+   called24  := 0;
+   roam := 0;
+   dotrans := 0;
+end
+
+procedure start begin
+end
+
+procedure combat_p_proc begin
+   CHECK_SQUATTERS_RUN
+end
+
+procedure push_p_proc begin
+end
+
+procedure timed_event_p_proc begin
+   variable time;
+   if (fixed_param == TIMER_MOVE) then begin
+/*      time := getTimeBit;
+      if (time bwand bit_8 and called8 == 0) then begin
+         called12 := 0;
+         called24 := 0;
+         called8 := 1;
+         call game_time_8_hour;
+      end
+      if (time bwand bit_12 and called12 == 0) then begin
+         called24 := 0;
+         called8  := 0;
+         called12 := 1;
+         call game_time_12_hour;
+      end
+      if (time bwand bit_24 and called24 == 0) then begin
+         called24 := 1;
+         called8  := 0;
+         called12 := 0;
+         call game_time_24_hour;
+      end
+
+      if (roam == 1) then begin
+         if (not anim_busy(self_obj)) then begin
+            if (Random(1, 10) == 1) then begin
+               reg_anim_clear(self_obj);
+               reg_anim_begin();
+               animate_move_to_tile(tile_num_in_direction(starttile, Random(0, 5), Random(5, 10)));
+               reg_anim_end();
+            end else begin
+               animate_rotation(Random(0, 5));
+            end
+         end
+      end else begin
+         if (not anim_busy(self_obj)) then begin
+            if (Random(1, 10) == 1) then begin
+               reg_anim_clear(self_obj);
+               reg_anim_begin();
+               animate_rotation(Random(0, 5));
+               reg_anim_end();
+            end
+         end
+      end
+      add_timer_event(self_obj, game_ticks(1), TIMER_MOVE);*/
+   end
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   CHECK_LEVEL
+
+
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT15);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   starttile := self_tile;
+   add_timer_event(self_obj, 0, TIMER_MOVE);
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_INTOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION1;
+
+   CheckKarma;
+
+   GetReaction;
+
+   if (dotrans == 1) then begin
+      dotrans := 0;
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node005;
+      gSay_End;
+      end_dialogue;
+   end else begin
+
+      if (lvar(LVAR_Hostile) == 1) then begin
+         call Node016;
+      end else if (andV15Status(V15_TRUST)) then begin  //Complete
+         call Node022;
+     end else if (andV15Status(V15_FOUND)) then begin     //Found
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node019;
+         gSay_End;
+         end_dialogue;
+      end else if (andV15Status(V15_LOOK_GIRL)) then begin //Accept
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node021;
+         gSay_End;
+         end_dialogue;
+      end else if (andV15Status(V15_REFUSE)) then begin    //Refuse
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node018;
+         gSay_End;
+         end_dialogue;
+      end else if (andV15Status(V15_KNOWS)) then begin     //Knows
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node017;
+         gSay_End;
+         end_dialogue;
+      end else begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node001;
+         gSay_End;
+         end_dialogue;
+      end
+   end
+
+   if (doTrans) then begin
+      call do_trans;
+   end
+
+   set_local_var(LVAR_Herebefore, 1);
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+   if (lvar(LVAR_Personal_Enemy)) then begin
+       orV15Status(V15_KILLED_SQUATTERS);
+   end
+
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   Reply(103);
+   if (not IN_TENT) then
+      NLowOption(104, Node002);
+   else
+      NLowOption(104, Node002);
+
+   if (not IN_TENT) then
+      NLowOption(105, Node003);
+   if (not IN_TENT) then
+      NLowOption(106, Node004);
+   else
+      NLowOption(106, Node003);
+   NLowOption(107, Node999);
+   BOption(108, Node999, 4);
+
+   if (not IN_TENT) then
+      NOption(109, Node002, 4);
+   else
+      NOption(109, Node002, 4);
+
+   if (not IN_TENT) then
+      GOption(110, Node004, 4);
+   if (not IN_TENT) then
+      NOption(111, Node003, 4);
+end
+
+procedure Node002 begin
+   Reply(112);
+   NLowOption(113, Node004);
+   NLowOption(114, Node003);
+   NLowOption(115, Node999);
+   NOption(116, Node004, 4);
+   NOption(117, Node003, 4);
+   NOption(118, Node999, 4);
+end
+
+procedure Node003 begin
+   Reply(119);
+   NLowOption(120, Node004);
+   NLowOption(121, Node999);
+   NOption(122, Node004, 4);
+   NOption(123, Node999, 4);
+end
+
+procedure do_trans begin
+   fadeout(1);
+   move_to(self_obj, REBECCA_TENT_POS, elevation(self_obj));
+   move_to(dude_obj, DUDE_TENT_POS, elevation(self_obj));
+
+   reg_anim_clear(self_obj);
+   reg_anim_begin();
+   reg_anim_animate(self_obj, ANIMATE_ROTATION, 4);
+   reg_anim_end();
+
+   reg_anim_clear(dude_obj);
+   reg_anim_begin();
+   reg_anim_animate(dude_obj, ANIMATE_ROTATION, 1);
+   reg_anim_end();
+
+   fadein(1);
+   dialogue_system_enter;
+end
+
+procedure NodeTrans begin
+   doTrans := 1;
+   call Node999;
+end
+
+procedure Node004 begin
+   Reply(124);
+   if (not IN_TENT) then
+      NOption(125, NodeTrans, 1);
+   else
+      NOption(125, Node005, 1);
+end
+
+procedure Node005 begin
+   Reply(126);
+//   NLowOption(127, Node006);
+   NLowOption(128, Node007);
+//   NOption(129, Node006, 4);
+   NOption(130, Node007, 4);
+end
+
+procedure Node999Ref begin
+   orV15Status(V15_REFUSE);
+   call Node999;
+end
+
+procedure Node999Acc begin
+   orV15Status(V15_LOOK_GIRL);
+   set_global_var(GVAR_V15_CRISSY_QUEST, 1);
+   call Node999;
+end
+
+procedure Node015Acc begin
+   orV15Status(V15_LOOK_GIRL);
+   set_global_var(GVAR_V15_CRISSY_QUEST, 1);
+   call Node015;
+end
+
+procedure Node006 begin
+   Node6Rep += 1;
+   if (Node6Rep == 1) then begin
+      orV15Status(V15_KNOWS);
+      Reply(131);
+      MOREOPTION(Node006);
+   end else begin
+      Reply(207);
+      NLowOption(132, Node999Ref);
+      NLowOption(133, Node999);
+      GLowOption(134, Node015Acc);
+      BOption(135, Node999Ref, 4);
+      NOption(136, Node999, 4);
+      GOption(137, Node015Acc, 4);
+      BOption(138, Node014, 4);
+   end
+end
+
+procedure Node008a begin
+   q1 := 1;
+   call Node008;
+end
+procedure Node010a begin
+   q2 := 1;
+   call Node010;
+end
+procedure Node011a begin
+   q3 := 1;
+   call Node011;
+end
+procedure Node012a begin
+   q4 := 1;
+   call Node012;
+end
+procedure Node013a begin
+   q5 := 1;
+   call Node013;
+end
+
+procedure Node007 begin
+   Reply(139);
+   if (q1 == 0) then begin
+      NLowOption(140, Node008a);
+      NOption(146, Node008a, 4);
+   end
+   if (q2 == 0) then begin
+      NLowOption(141, Node010a);
+      NOption(147, Node010a, 4);
+   end
+   if (q3 == 0 and not town_known(AREA_VAULT_13)) then begin
+      NLowOption(142, Node011a);
+      NOption(148, Node011a, 4);
+   end
+   if (q4 == 0 and andlvar(LVAR_State, STATE_VAULT)) then begin
+      NLowOption(143, Node012a);
+      NOption(149, Node012a, 4);
+   end
+   if (q5 == 0 and andlvar(LVAR_State, STATE_DARION)) then begin
+      NLowOption(144, Node013a);
+      NOption(150, Node013a, 4);
+   end
+   NLowOption(145, Node006);
+   NOption(151, Node006, 4);
+end
+
+procedure Node008 begin
+   Node8Rep += 1;
+   if (Node8Rep == 1) then begin
+      Reply(152);
+      MOREOPTION(Node008);
+   end else begin
+      Reply(208);
+      NLowOption(153, Node007);
+      NLowOption(154, Node009);
+      NOption(155, Node007, 4);
+      NOption(156, Node009, 4);
+   end
+end
+
+procedure Node009 begin
+   orlvar(LVAR_State, STATE_VAULT);
+   Reply(157);
+   NLowOption(158, Node007);
+   BOption(159, Node007, 4);
+   NOption(160, Node007, 4);
+   GOption(161, Node007, 4);
+end
+
+procedure Node010 begin
+   Reply(162);
+   NLowOption(163, Node007);
+   NOption(164, Node007, 4);
+end
+
+procedure Node011 begin
+   Reply(165);
+   NLowOption(166, Node007);
+   NOption(167, Node007, 4);
+end
+
+procedure Node012 begin
+   orlvar(LVAR_State, STATE_DARION);
+   Node12Rep += 1;
+   if (Node12Rep == 1) then begin
+      Reply(168);
+      MOREOPTION(Node012);
+   end else begin
+      Reply(209);
+      NLowOption(169, Node007);
+      NOption(170, Node007, 4);
+   end
+end
+
+procedure Node013 begin
+   Reply(171);
+   NLowOption(172, Node007);
+   BOption(173, Node007, 4);
+   NOption(174, Node007, 4);
+   GOption(175, Node007, 4);
+end
+
+procedure Node014 begin
+   Reply(176);
+   GOption(177, Node015Acc, 4);
+   BOption(178, Node999Ref, 4);
+   NOption(179, Node015Acc, 4);
+end
+
+procedure Node015 begin
+   orV15Status(V15_SPY);
+   Reply(180);
+   NLowOption(181, Node999);
+   NLowOption(182, Node999);
+   NLowOption(183, Node999);
+   NOption(184, Node999, 4);
+   GOption(185, Node999, 4);
+   BOption(186, Node999, 4);
+end
+
+procedure Node016 begin
+   float_msg(self_obj, mstr(187), FLOAT_MSG_NORMAL);
+end
+
+procedure Node017 begin
+   Reply(188);
+   NLowOption(189, Node007);
+   NLowOption(190, Node999);
+   NOption(191, Node999, 4);
+   NOption(192, Node007, 4);
+end
+
+procedure Node018 begin
+   Reply(193);
+   NOption(194, Node999, 1);
+   NLowOption(195, Node015Acc);
+   NOption(196, Node015Acc, 4);
+end
+
+procedure Node020a begin
+   fadeout(1);
+   game_time_advance(ONE_GAME_HOUR * 2);
+   fadein(1);
+   call Node020;
+end
+
+procedure Node019 begin
+   if (local_var(LVAR_Herebefore) == 0 and andV15Status(V15_GIRL_DEAD) == 0) then begin
+      Reply(197);
+   end else begin
+      Reply(198);
+   end
+   NOption(199, Node020a, 1);
+end
+
+procedure Node999b begin
+   if (andV15Status(V15_GIRL_DEAD) == 0) then begin
+      inc_general_rep(REP_BONUS_V15_SAVED_GIRL_ALIVE);
+      inc_vault15_rep(REP_HERO_V15_CRISSY_ALIVE);
+      give_xp(EXP_SAVED_GIRL_ALIVE);
+   end else begin
+      inc_vault15_rep(REP_HERO_V15_CRISSY_DEAD);
+      inc_general_rep(REP_BONUS_V15_SAVED_GIRL_DEAD);
+      give_xp(EXP_SAVED_GIRL_DEAD);
+   end
+   orV15Status(V15_TRUST);
+   set_global_var(GVAR_V15_CRISSY_QUEST, 2);
+
+   call Node999;
+end
+
+procedure Node020 begin
+//   if (andV15Status(V15_GIRL_DEAD) == 0) then begin
+   Reply(200);
+//   end else begin
+//      Reply(201);
+//   end
+   NOption(202, Node999b, 1);
+end
+
+procedure Node021 begin
+   Reply(203);
+   NLowOption(204, Node999);
+   NOption(205, Node999, 4);
+end
+
+procedure Node022 begin
+   float_msg(self_obj, mstr(206), FLOAT_MSG_NORMAL);
+end
+
+procedure game_time_8_hour begin
+   if (self_tile != TENT_TILE_POS) then begin
+      roam := 0;
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+      animate_move_to_tile(TENT_TILE_POS);
+      reg_anim_end();
+   end
+end
+
+procedure game_time_12_hour begin
+   if (self_tile != starttile) then begin
+      roam := 1;
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+      animate_move_to_tile(starttile);
+      reg_anim_end();
+   end
+end
+
+procedure game_time_24_hour begin
+   if (self_tile != TENT_TILE_POS) then begin
+      roam := 0;
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+      animate_move_to_tile(TENT_TILE_POS);
+      reg_anim_end();
+   end
+end
+//xxxxxxxxxxxxxxxxxxxx

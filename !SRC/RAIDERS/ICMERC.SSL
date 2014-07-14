@@ -1,0 +1,204 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: RAIDERS
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_ICMERC
+#define TOWN_REP_VAR            GVAR_TOWN_REP_RAIDERS
+#include "..\headers\command.h"
+#include "..\headers\Raiders.h"
+#include "..\headers\Raiders2.h" //added by killap - expansion
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure map_update_p_proc;
+procedure combat_p_proc;
+procedure push_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+#define LVAR_Flags                     (0)
+#define LVAR_Home_Tile                 (1)
+#define LVAR_Home_Rot                  (2)
+#define LVAR_Leave_Time                (3)
+
+#define attempt_alarm_bit              bit_10
+
+#define attempt_alarm                  (lvar_bit(LVAR_Flags, attempt_alarm_bit))
+#define set_attempt_alarm              set_lvar_bit_on(LVAR_Flags, attempt_alarm_bit)
+#define off_attempt_alarm              set_lvar_bit_off(LVAR_Flags, attempt_alarm_bit)
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == patrol_param) then begin
+      if (combat_is_initialized == false) then begin
+         if (self_tile != local_var(LVAR_Home_Tile)) then begin
+            animate_move_to_tile(local_var(LVAR_Home_Tile));
+         end else begin
+            animate_move_to_tile(tile_num_in_direction(self_tile, local_var(LVAR_Home_Rot), random(3, 5)));
+         end
+      end
+      raider_add_timer_event_rand(self_obj, 15, 45, patrol_param);
+   end else begin
+      if (combat_is_initialized == false) then begin
+         if (self_can_see_dude == false) then call Node002;
+         else begin
+            call Node998;
+         end
+      end
+      raider_add_timer_event_rand(self_obj, 20, 35, float_param);
+   end
+end
+
+procedure map_enter_p_proc begin
+   //added by killap - expansion
+   if (map_first_run) then begin
+      if (random(1,2) == 1) then
+         set_local_var(LVAR_Leave_Time,ONE_GAME_DAY);
+      else
+         set_local_var(LVAR_Leave_Time,(ONE_GAME_DAY*2));
+   end
+   
+   if (map_var(MVAR_Scout_Left)) then begin
+      if ( (game_time - map_var(MVAR_Raiders_Leave_Time)) >= (local_var(LVAR_Leave_Time)) ) then
+         destroy_object(self_obj);
+   end
+   //end added by killap
+
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         inc_raiders_counter;
+         set_local_var(LVAR_Home_Tile, self_tile);
+         set_local_var(LVAR_Home_Rot, self_cur_rot);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RAIDERS);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_MERC_RAIDER);
+      end
+      raider_add_timer_event_rand(self_obj, 20, 35, float_param);
+      raider_add_timer_event_rand(self_obj, 5, 45, patrol_param);
+      check_kill_raider;
+   end
+end
+
+procedure map_update_p_proc begin
+   check_set_raider_party_flags;
+end
+
+procedure combat_p_proc begin
+   check_set_raider_party_flags;
+end
+
+procedure critter_p_proc begin
+   check_set_raider_party_flags;
+   if ( self_can_see_dude ) then begin
+      call Node998;
+
+   end else if (anim_busy(self_obj) == false) then begin
+      if (raiders_alarm) then begin
+         if (attempt_alarm == false) then begin
+            set_attempt_alarm;
+            if ((self_perception*2) >= tile_distance(self_tile, safe_tile)) then begin
+               animate_move_to_tile(tile_num_in_direction(safe_tile, rotation_to_tile(self_tile,local_var(LVAR_Home_Tile)), random(1, 3)));
+            end
+         end
+      end else begin
+         off_attempt_alarm;
+         if (self_tile == local_var(LVAR_Home_Tile)) then begin
+            if (self_cur_rot != local_var(LVAR_Home_Rot)) then begin
+               animate_rotation(local_var(LVAR_Home_Rot));
+            end
+         end else begin
+            animate_rotation(rotation_to_tile(self_tile,local_var(LVAR_Home_Tile)));
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure push_p_proc begin
+   script_overrides;
+   call Node998;
+end
+
+procedure talk_p_proc begin
+end
+
+procedure destroy_p_proc begin
+   inc_inv_evil_crit
+   dec_raiders_counter;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr_rand(150, 151);
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   if (hostile == false) then begin
+      call Node001;
+   end
+   self_attack_dude;
+   set_hostile;
+end
+
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   floater_bad_rand(201 - (dude_is_male), 207 + (2 * dude_is_female));
+end
+procedure Node002 begin
+   floater_rand(250, 268);
+end

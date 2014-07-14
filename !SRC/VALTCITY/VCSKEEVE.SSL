@@ -1,0 +1,885 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\VCtyDwtn.h"
+
+#define NAME                    SCRIPT_VCSKEEVE
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_VAULT_CITY)
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node012a;
+procedure Node013;
+procedure Node013a;
+procedure Node013b;
+procedure Node013c;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node018a;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node021a;
+procedure Node021b;
+procedure Node022;
+procedure Node023;
+procedure Node023a;
+procedure Node024;
+procedure Node025;
+procedure Node025a;
+procedure Node025b;
+procedure Node025c;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node028a;
+procedure Node029;
+procedure Node030;
+procedure Node030a;
+procedure Node031;
+procedure Node032;
+procedure Node032a;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node035a;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Offered_Citizenship        (7)
+#define LVAR_Skeeve_Status              (8)
+
+#define SKEEVE_UNKNOWN        (0)
+#define SKEEVE_KNOWN          (1)
+#define SKEEVE_PISSED         (2)
+
+// Vals for MVAR_Player_As_Slave
+#define SLAVE_NOTHING      (0)
+#define SLAVE_SKEEV        (1)
+#define SLAVE_BARKUS       (2)
+
+#define float_barkus(x)           float_msg(Barkus_Ptr, message_str(NAME,x), FLOAT_MSG_GREEN)
+#define float_dude(x)             float_msg(dude_obj, message_str(NAME,x), FLOAT_MSG_BLUE)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+import variable Skeeve_Ptr;
+import variable Barkus_Ptr;
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable From_Branch := 0;
+variable Move_Player_To_Barkus := 0;
+variable Start_Barkus_Cutscene := 0;
+variable Cut_Scene_State := 0;
+variable Allow_Floats := 1;
+
+procedure start begin
+   Skeeve_Ptr := self_obj;
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   Skeeve_Ptr := self_obj;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+
+   if( global_var( GVAR_BUST_SKEEVE ) == 1 ) then begin
+      if( self_visible ) then
+         set_obj_visibility( self_obj, true );
+   end
+   else if( not( is_loading_game ) ) then begin
+      if( ( game_time_hour > 700 ) and ( game_time_hour < 1800 ) ) then begin
+         if( not( self_visible ) ) then begin
+            move_to( self_obj, 29704, 0 );
+            critter_attempt_placement( self_obj, 29704, 0 );
+            animate_rotation( 2 );
+            set_obj_visibility(self_obj, false);
+            add_timer_event( self_obj, game_ticks( random( 20, 40 )), 1 );
+         end
+      end
+      else begin
+         if( self_visible ) then
+            set_obj_visibility(self_obj, true);
+      end
+   end
+end
+
+procedure timed_event_p_proc begin
+   if( fixed_param == 1 ) then begin
+      if( ( not( combat_is_initialized ) ) and
+          ( obj_can_see_obj( self_obj, dude_obj ) ) ) then begin
+         if( Allow_Floats == 1 ) then begin
+            if( Fallout2_enclave_destroyed ) then
+               call Node001;
+            else if( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_CAPTAIN_GUARD ) then
+               call Node003;
+            else if( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_KICKED_OUT ) then
+               call Node002;
+            else if( Marcus_Ptr != 0 ) then
+               call Node006;
+            else if( Lenny_Ptr != 0 ) then
+               call Node007;
+            else if( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_REAL_CITIZEN ) then
+               call Node004;
+            else if( ( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_SKEEVE_GIVEN_FAKE ) or
+                     ( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_GUARD_BELIEVE_FAKE ) ) then
+               call Node005;
+            else if( map_var( MVAR_Player_As_Slave ) == SLAVE_SKEEV ) then
+               call Node034;
+         end
+      end
+      add_timer_event( self_obj, game_ticks( random( 20, 40 ) ), 1 );
+   end
+   else if( fixed_param == 2 ) then begin
+      // Clear out any previous floaters so they don't overlap
+      float_msg(dude_obj, " ", FLOAT_COLOR_NORMAL);
+      float_msg(Barkus_Ptr, " ", FLOAT_COLOR_NORMAL);
+      float_msg(self_obj, " ", FLOAT_COLOR_NORMAL);
+      float_msg_clear(self_obj);
+      float_msg_clear(dude_obj);
+      float_msg_clear(Barkus_Ptr);
+
+      if( Cut_Scene_State == 0 ) then begin
+         gfade_out( 600 );
+         Allow_Floats := 0;
+         move_to( self_obj, 14498, 0 );
+         critter_attempt_placement( self_obj, 14498, 0 );
+         move_to( dude_obj, 15297, 0 );
+         critter_attempt_placement( dude_obj, 15297, 0 );
+         Face_Critter( self_obj, dude_obj );
+         Face_Critter( dude_obj, self_obj );
+         game_ui_disable;
+         gfade_in( 600 );
+         Cut_Scene_State += 1;
+         add_timer_event( self_obj, game_ticks(1), 2 );
+      end
+      else if( Cut_Scene_State == 1 ) then begin
+         if( party_size == 1 ) then
+            floater(209);
+         else
+            floater(210);
+         Cut_Scene_State += 1;
+         add_timer_event( self_obj, game_ticks(4), 2 );
+      end
+      else if( Cut_Scene_State == 2 ) then begin
+         float_barkus(212);
+         Cut_Scene_State += 1;
+         add_timer_event( self_obj, game_ticks(4), 2 );
+      end
+      else if( Cut_Scene_State == 3 ) then begin
+         float_dude(214);
+         Cut_Scene_State += 1;
+         add_timer_event( self_obj, game_ticks(4), 2 );
+      end
+      else if( Cut_Scene_State == 4 ) then begin
+         floater(216);
+         Cut_Scene_State += 1;
+         add_timer_event( self_obj, game_ticks(4), 2 );
+      end
+      else if( Cut_Scene_State == 5 ) then begin
+         float_dude(218);
+         Cut_Scene_State += 1;
+         add_timer_event( self_obj, game_ticks(4), 2 );
+      end
+      else if( Cut_Scene_State == 6 ) then begin
+         float_barkus(220);
+         Cut_Scene_State += 1;
+         add_timer_event( self_obj, game_ticks(4), 2 );
+      end
+      else if( Cut_Scene_State == 7 ) then begin
+         floater(222);
+         Cut_Scene_State += 1;
+         add_timer_event( self_obj, game_ticks(4), 2 );
+      end
+      else if( Cut_Scene_State == 8 ) then begin
+         float_dude(224);
+         Cut_Scene_State += 1;
+         add_timer_event( self_obj, game_ticks(4), 2 );
+      end
+      else if( Cut_Scene_State == 9 ) then begin
+         float_barkus(226);
+         Cut_Scene_State += 1;
+         add_timer_event( self_obj, game_ticks(4), 2 );
+      end
+      else if( Cut_Scene_State == 10 ) then begin
+         game_ui_enable;
+         Cut_Scene_State := 0;
+         Allow_Floats := 1;
+         set_global_var( GVAR_DROP_PLAYER_BY_VAULT_8, 1 );
+         load_map( MAP_VAULT_CITY_VAULT, 0 );
+      end
+   end
+end
+
+procedure map_update_p_proc begin
+   Skeeve_Ptr := self_obj;
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+      set_local_var(LVAR_Personal_Enemy,1);
+      set_global_var( GVAR_ENEMY_VAULT_CITY, 1 );
+      set_global_var( GVAR_VAULT_CITIZEN, CITIZEN_KICKED_OUT );
+      set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_KICKED_OUT ) );
+      set_global_var( GVAR_VAULT_CITIZENSHIP, 0 );
+   end
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_TOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION3;
+
+   CheckKarma;
+
+   GetReaction;
+
+   From_Branch := 0;
+   Cut_Scene_State := 0;
+
+   if( Fallout2_enclave_destroyed ) then
+      call Node001;
+   else if( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_CAPTAIN_GUARD ) then
+      call Node003;
+   else if( ( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_KICKED_OUT ) or
+            ( local_var( LVAR_Skeeve_Status ) == SKEEVE_PISSED ) ) then
+      call Node002;
+   else if( Marcus_Ptr != 0 ) then
+      call Node006;
+   else if( Lenny_Ptr != 0 ) then
+      call Node007;
+   else if( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_REAL_CITIZEN ) then
+      call Node004;
+   else if( ( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_SKEEVE_GIVEN_FAKE ) or
+            ( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_GUARD_BELIEVE_FAKE ) ) then
+      call Node005;
+   else if( map_var( MVAR_Player_As_Slave ) == SLAVE_SKEEV ) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node035;
+      gSay_End;
+      end_dialogue;
+   end
+   else if( night ) then begin
+      call Node008;
+   end
+   else begin
+      if( local_var( LVAR_Skeeve_Status ) == SKEEVE_UNKNOWN ) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node009;
+         gSay_End;
+         end_dialogue;
+      end
+      else begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node030;
+         gSay_End;
+         end_dialogue;
+      end
+   end
+   set_local_var( LVAR_Herebefore, 1 );
+
+   if( Start_Barkus_Cutscene == 1 ) then begin
+      Start_Barkus_Cutscene := 0;
+      add_timer_event( self_obj, 1, 2 );
+   end
+
+   if( Move_Player_To_Barkus == 1 ) then begin
+      Move_Player_To_Barkus := 0;
+      gfade_out( 600 );
+      move_to( dude_obj, 16697, 0 );
+      critter_attempt_placement( dude_obj, 16697, 0 );
+      gfade_in( 600 );
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+   set_map_var( MVAR_Skeeve_Dead, 1 );
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   //if( local_var( LVAR_Herebefore ) == 0 ) then
+//      display_msg(mstr(101));
+//   else
+      display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   floater(104);
+end
+
+procedure Node002 begin
+   floater( random( 105, 106 ) );
+end
+
+procedure Node003 begin
+   floater(107);
+end
+
+procedure Node004 begin
+   floater(108);
+end
+
+procedure Node005 begin
+   floater(109);
+end
+
+procedure Node006 begin
+   floater(110);
+end
+
+procedure Node007 begin
+   floater(111);
+end
+
+procedure Node008 begin
+   floater(112);
+end
+
+procedure Node009 begin
+   set_local_var( LVAR_Skeeve_Status, SKEEVE_KNOWN );
+   Reply(113);
+
+   BLowOption(114, Node031);
+   NLowOption(115, Node999);
+   NOption(116, Node010, 004);
+   NOption(117, Node999, 004);
+end
+
+procedure Node010 begin
+   Reply(118);
+
+   NOption(119, Node011, 004);
+   NOption(120, Node012, 004);
+   if( ( global_var( GVAR_VAULT_BOOZE_SMUGGLING ) == BOOTLEG_ASSIGNED ) or
+       ( global_var( GVAR_VAULT_JET_QUEST ) == JET_WILL_GET ) or
+       ( global_var( GVAR_VAULT_JET_QUEST ) == JET_DECLINED_JOB ) ) then
+      NOption(121, Node013, 004);
+   NOption(122, Node999, 004);
+end
+
+procedure Node011 begin
+   Reply(123);
+
+   NOption(124, Node012, 004);
+   NOption(125, Node999, 004);
+end
+
+procedure Node012 begin
+   Reply(126);
+
+   NOption(127, Node012a, 004);
+   NOption(128, Node999, 004);
+end
+
+procedure Node012a begin
+   if( local_var( LVAR_Offered_Citizenship ) == 1 ) then
+      call Node021;
+   else
+      call Node020;
+end
+
+procedure Node013 begin
+   Reply(129);
+
+   if( ( has_skill( dude_obj, SKILL_BARTER ) >= 75 ) and
+       ( item_caps_total( dude_obj ) >= 50 ) ) then
+      NOption(130, Node013a, 004);
+   if( ( has_skill( dude_obj, SKILL_BARTER ) >= 50 ) and
+       ( item_caps_total( dude_obj ) >= 75 ) ) then
+      NOption(131, Node013b, 004);
+   if( ( has_skill( dude_obj, SKILL_BARTER ) < 50 ) and
+       ( item_caps_total( dude_obj ) >= 100 ) ) then
+      NOption(132, Node013c, 004);
+   if( item_caps_total( dude_obj ) < 50 ) then
+      NOption(133, Node999, 004);
+   NOption(134, Node999, 004);
+end
+
+procedure Node013a begin
+   item_caps_adjust( dude_obj, -50 );
+   call Node014;
+end
+
+procedure Node013b begin
+   item_caps_adjust( dude_obj, -75 );
+   call Node014;
+end
+
+procedure Node013c begin
+   item_caps_adjust( dude_obj, -100 );
+   call Node014;
+end
+
+procedure Node014 begin
+   Reply(135);
+
+   NOption(136, Node015, 004);
+   NOption(137, Node018, 004);
+   NOption(138, Node999, 004);
+end
+
+procedure Node015 begin
+   Reply(139);
+
+   NOption(140, Node016, 004);
+   NOption(141, Node018, 004);
+   NOption(142, Node999, 004);
+end
+
+procedure Node016 begin
+   Reply(143);
+
+   NOption(144, Node017, 004);
+   NOption(145, Node018, 004);
+   NOption(146, Node999, 004);
+end
+
+procedure Node017 begin
+   Reply(147);
+
+   NOption(148, Node018, 004);
+   NOption(149, Node999, 004);
+end
+
+procedure Node018 begin
+   Reply(150);
+
+   NOption(151, Node018a, 004);
+   NOption(152, Node999, 004);
+end
+
+procedure Node018a begin
+   if( local_var( LVAR_Offered_Citizenship ) == 0 ) then
+      call Node021;
+   else
+      call Node019;
+end
+
+procedure Node019 begin
+   Reply(153);
+
+   NOption(154, Node020, 004);
+   NOption(155, Node999, 004);
+end
+
+procedure Node020 begin
+   Reply(156);
+
+   NOption(157, Node021, 004);
+   NOption(158, Node999, 004);
+end
+
+procedure Node021 begin
+   if( From_Branch == 1 ) then begin
+      From_Branch := 0;
+      Reply(159);
+   end
+   else if( local_var( LVAR_Offered_Citizenship ) == 1 ) then begin
+      Reply(231);
+   end
+   else begin
+      set_local_var( LVAR_Offered_Citizenship, 1 );
+      Reply(160);
+   end
+
+   BOption(161, Node022, 004);
+   NOption(232, Node036, 004);
+   if( item_caps_total( dude_obj ) >= 200 ) then
+      GOption(162, Node021a, 004);
+   if( item_caps_total( dude_obj ) >= 150 ) then
+      NOption(163, Node021b, 004);
+   if( item_caps_total( dude_obj ) < 200 ) then
+      NOption(164, Node999, 004);
+   if( item_caps_total( dude_obj ) >= 200 ) then
+      NOption(165, Node999, 004);
+end
+
+procedure Node021a begin
+   gfade_out(600);
+   item_caps_adjust( dude_obj, -200 );
+   gfade_in(600);
+   call Node024;
+end
+
+procedure Node021b begin
+   if( has_skill( dude_obj, SKILL_BARTER ) >= 50 ) then
+      call Node023;
+   else
+      call Node028;
+end
+
+procedure Node022 begin
+   Reply(166);
+
+   NOption(232, Node036, 004);
+   if( item_caps_total( dude_obj ) >= 200 ) then
+      NOption(167, Node021a, 004);
+   if( item_caps_total( dude_obj ) >= 150 ) then
+      NOption(168, Node021b, 004);
+   if( item_caps_total( dude_obj ) < 200 ) then
+      NOption(169, Node999, 004);
+   if( item_caps_total( dude_obj ) >= 200 ) then
+      NOption(170, Node999, 004);
+end
+
+procedure Node023 begin
+   item_caps_adjust( dude_obj, -150 );
+   Reply(171);
+
+   NOption(172, Node023a, 004);
+   BOption(173, Node023a, 004);
+end
+
+procedure Node023a begin
+   gfade_out(600);
+   gfade_in(600);
+   call Node024;
+end
+
+procedure Node024 begin
+   variable item;
+
+   item := create_object( PID_FAKE_CITIZENSHIP, 0, 0 );
+   add_obj_to_inven( dude_obj, item );
+
+   game_time_advance( 5 * ONE_GAME_MINUTE );
+   set_global_var( GVAR_VAULT_CITIZEN, CITIZEN_SKEEVE_GIVEN_FAKE );
+   set_global_var( GVAR_VAULT_CITIZENSHIP, CITIZEN_FALSE );
+   Reply(174);
+
+   BOption(175, Node025, 008);
+   BOption(233, Node025, 004);
+   NOption(176, Node999, 004);
+end
+
+procedure Node025 begin
+   set_local_var( LVAR_Skeeve_Status, SKEEVE_PISSED );
+   Reply(177);
+
+   if( obj_is_carrying_obj_pid( dude_obj, PID_FAKE_CITIZENSHIP ) > 0 ) then
+      BOption(178, Node025a, 008);
+   BOption(234, Node025b, 004);
+   NOption(235, Node999, 004);
+end
+
+procedure Node025a begin
+   inc_general_rep( REP_BONUS_THREATENED_SKEEV );
+   call Node026;
+end
+
+procedure Node025b begin
+   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -20 ) ) ) then
+      call Node026;
+   else
+      call Node025c;
+end
+
+procedure Node025c begin
+   Reply(236);
+   if( obj_is_carrying_obj_pid( dude_obj, PID_FAKE_CITIZENSHIP ) > 0 ) then // added by killap
+      BOption(237, Node025a, 004);
+   BOption(238, Node999, 004);
+end
+
+procedure Node026 begin
+   Reply(180);
+
+   BOption(181, Node027, 004);
+   BOption(182, Node027, 004);
+end
+
+procedure Node027 begin
+   item_caps_adjust( dude_obj, 300 );
+   Reply(183);
+
+   BOption(184, Node999, 004);
+   NOption(185, Node999, 004);
+end
+
+procedure Node028 begin
+   Reply(186);
+
+   BOption(187, Node029, 004);
+   if( item_caps_total( dude_obj ) >= 200 ) then
+      NOption(239, Node028a, 004);
+   if( item_caps_total( dude_obj ) < 200 ) then
+      NOption(240, Node999, 004);
+   if( item_caps_total( dude_obj ) >= 200 ) then
+      NOption(241, Node999, 004);
+end
+
+procedure Node028a begin
+   gfade_out(600);
+   item_caps_adjust( dude_obj, -200 );
+   gfade_in(600);
+   call Node024;
+end
+
+procedure Node029 begin
+   From_Branch := 1;
+   Reply(189);
+
+   BOption(190, Node999, 004);
+   NOption(242, Node036, 004);
+   NOption(243, Node021, 004);
+   BOption(244, Node999, 004);
+end
+
+procedure Node030 begin
+   if( local_var( LVAR_Offered_Citizenship ) == 1 ) then
+      Reply(192);
+   else
+      Reply(193);
+
+   BLowOption(194, Node031);
+   NLowOption(195, Node999);
+   NOption(196, Node010, 004);
+   if( local_var( LVAR_Offered_Citizenship ) == 0 ) then
+      NOption(197, Node012, 004);
+   if( local_var( LVAR_Offered_Citizenship ) == 1 ) then
+      NOption(198, Node030a, 004);
+   if( local_var( LVAR_Offered_Citizenship ) == 1 ) then
+      BOption(199, Node025, 004);
+   if( local_var( LVAR_Offered_Citizenship ) == 1 ) then
+      NOption(245, Node036, 004);
+   if( ( global_var( GVAR_VAULT_BOOZE_SMUGGLING ) == BOOTLEG_ASSIGNED ) or
+       ( global_var( GVAR_VAULT_JET_QUEST ) == JET_WILL_GET ) or
+       ( global_var( GVAR_VAULT_JET_QUEST ) == JET_DECLINED_JOB ) ) then
+      NOption(200, Node013, 004);
+   if( local_var( LVAR_Offered_Citizenship ) == 0 ) then
+      NOption(246, Node999, 004);
+   if( local_var( LVAR_Offered_Citizenship ) == 1 ) then
+      NOption(247, Node999, 004);
+end
+
+procedure Node030a begin
+   From_Branch := 1;
+   call Node021;
+end
+
+procedure Node031 begin
+   if( ( map_var( MVAR_Barkus_Dead ) == 1 ) or
+       ( map_var( MVAR_Player_As_Slave ) == SLAVE_BARKUS ) ) then
+      Reply(202);
+   else
+      Reply(203);
+
+   if( ( map_var( MVAR_Barkus_Dead ) == 0 ) and
+       ( map_var( MVAR_Player_As_Slave ) != SLAVE_BARKUS ) ) then
+      NLowOption(204, Node032);
+   NLowOption(205, Node999);
+end
+
+procedure Node032 begin
+   Reply(206);
+
+   NLowOption(207, Node032a);
+   NLowOption(208, Node999);
+end
+
+procedure Node032a begin
+   item_caps_adjust( self_obj, 200 );
+   call Node033;
+end
+
+procedure Node033 begin
+   set_map_var( MVAR_Player_As_Slave, SLAVE_SKEEV );
+   Start_Barkus_Cutscene := 1;
+end
+
+procedure Node034 begin
+   floater(227);
+end
+
+procedure Node035 begin
+   Reply(228);
+
+   NLowOption(229, Node035a);
+   NLowOption(230, Node999);
+end
+
+procedure Node035a begin
+   Move_Player_To_Barkus := 1;
+end
+
+procedure Node036 begin
+   From_Branch := 1;
+   Reply(248);
+
+   NOption(249, Node037, 004);
+   NOption(250, Node021, 004);
+   NOption(251, Node999, 004);
+end
+
+procedure Node037 begin
+   From_Branch := 1;
+   Reply(252);
+
+   NOption(253, Node038, 004);
+   NOption(254, Node021, 004);
+   NOption(255, Node999, 004);
+end
+
+procedure Node038 begin
+   From_Branch := 1;
+   Reply(256);
+
+   NOption(257, Node021, 004);
+   NOption(258, Node999, 004);
+end

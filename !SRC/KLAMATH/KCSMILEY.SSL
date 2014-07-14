@@ -1,0 +1,631 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Smiley
+        Location: Klamath
+        Description:
+
+        Note: Currently this script cannot be loaded by the scripting tool.
+              NEED PARTY CODE. NEED CODE TO CHECK FOR SMILEY IN TOXIC CAVES.
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: Febuary 3, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\klamath.h"
+#include "..\headers\kladwtn.h"
+
+#define NAME                    SCRIPT_KCSMILEY
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_KLAMATH)
+#define OUTSIDE                 18335
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#define Vault_Known             (1)     // Temp Until get command from Jesse
+#define Visited_City            (1)     // Temp Until get command from Jesse
+
+#define Add_Skinner             critter_add_trait(dude_obj,TRAIT_PERK,PERK_gecko_skinning_perk,1)
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure combat_p_proc;
+procedure should_i_be_here;
+procedure leave_player;
+procedure push_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node910;
+procedure Node920;
+procedure Node930;
+procedure Node940;
+procedure Node970;
+procedure Node980;
+procedure Node995;
+procedure Node996;
+procedure Node997;
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node012; // added by killap
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Smiley_Reward              (6)
+#define LVAR_10_before                  (7)
+#define LVAR_12_before                  (8)
+#define LVAR_15_before                  (9)
+#define LVAR_Follow_Dude                (10)
+//#define LVAR_Smiley_Dead                (12)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable learn;
+variable dtile;
+variable dlev;
+variable mytile;
+variable mylev;
+variable newtile;
+//variable active;
+
+procedure start begin
+   debug_msg("test");
+   debug_msg("LVAR_Follow_Dude == "+local_var(LVAR_Follow_Dude));
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_KLAMATH);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   call should_i_be_here;
+end
+
+//need code for smiley in KLAMATH after the rescue
+procedure should_i_be_here begin
+   //active:=1;
+   if (cur_map_index == MAP_KLAMATH_TOXICCAVES) then begin
+      if (global_var(GVAR_SMILEY_STATUS) < SMILEY_RETURNED) then begin
+        //he is here
+        set_obj_visibility(self_obj,0);
+        //active:=1; //enable all p_procs
+      end
+      else begin
+        //he is gone
+        move_to(self_obj,0,0);
+        set_obj_visibility(self_obj,1);
+        //active:=0; //disable all p_procs
+      end
+   end
+end
+
+procedure map_exit_p_proc begin
+/*
+   if ( (local_var(LVAR_Follow_Dude) == 1) and (local_var(LVAR_Smiley_Success) == 0) ) then begin
+      debug_msg("You saved SMILEY!");
+      inc_general_rep(REP_BONUS_SAVE_SMILEY);
+      set_local_var(LVAR_Smiley_Success, 1);
+      set_local_var(LVAR_Follow_Dude, 0);
+      give_exp_points(EXP_SAVE_SMILEY);
+   end
+*/
+end
+
+procedure leave_player begin
+   if ( (local_var(LVAR_Follow_Dude) == 1) and (global_var(GVAR_SMILEY_STATUS) < SMILEY_RETURNED) ) then begin
+      floater(300);
+      set_global_var(GVAR_SMILEY_STATUS, SMILEY_RETURNED);
+      set_local_var(LVAR_Follow_Dude, 0);
+      display_msg(mstr(320) + EXP_KC_SAVE_SMILEY + mstr(330));
+      give_exp_points(EXP_KC_SAVE_SMILEY);
+      KC_REP_ADJUST(8)
+      inc_general_rep(REP_BONUS_KC_SAVE_SMILEY);
+   end
+end
+
+procedure combat_p_proc begin
+   if (cur_map_index == MAP_KLAMATH_TOXICCAVES) then begin //(5)
+      if (global_var(GVAR_SMILEY_STATUS) < SMILEY_RETURNED) then begin //(4)
+         //if (local_var(LVAR_Follow_Dude) == 0) then begin //(3)
+            if (global_var(GVAR_ENEMY_SMILEY) == 0) then begin //(2)
+               if (tile_distance(tile_num(self_obj),tile_num(dude_obj)) < 7) then begin //(1)
+                  critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+               end //(1)
+            end //(2)
+         //end //(3)
+      end //(4)
+   end //(5)
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+   //if active then begin
+
+       if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+           set_local_var(LVAR_Hostile,1);
+           attack(dude_obj);
+       end
+       else if (local_var(LVAR_Follow_Dude) == 1) then begin
+          dtile:=tile_num(dude_obj);
+          dlev:=elevation(dude_obj);
+          mytile:=tile_num(self_obj);
+          mylev:=elevation(self_obj);
+          if ( ((tile_distance(mytile,OUTSIDE)) < 7 ) and (mylev == 0) ) then begin
+             call leave_player;
+          end
+          else begin
+             if (mylev != dlev) then begin
+                newtile:=tile_num_in_direction(dtile,random(0,5),1);
+                critter_attempt_placement(self_obj,newtile,dlev);
+             end
+             else if (tile_distance(mytile,dtile) > 5) then begin
+                newtile:=tile_num_in_direction(dtile,random(0,5),1);
+                animate_run_to_tile(newtile);
+             end
+          end
+       end//follow
+
+   //end//active
+end
+
+procedure damage_p_proc begin
+   //if active then begin
+      if (source_obj == dude_obj) then begin
+         set_global_var(GVAR_ENEMY_SMILEY,1);
+         if (cur_map_index == MAP_KLAMATH_TOXICCAVES) then begin
+            //do nothing
+         end
+         else begin
+            set_global_var(GVAR_ENEMY_KLAMATH,1);
+         end
+      end
+   //end//active
+
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+procedure talk_p_proc begin
+   GetReaction;
+
+   if ((REP_ENEMY_KLAMATH) or (global_var(GVAR_ENEMY_SMILEY) == 1)) then begin
+       call Node998;
+   end
+
+   else if ( (local_var(LVAR_Herebefore) == 0) and (global_var(GVAR_SMILEY_STATUS) < SMILEY_RETURNED) ) then begin
+       set_local_var(LVAR_Herebefore, 1);
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node001;
+       gSay_End;
+       end_dialogue;
+   end
+
+//NOTE need to set smiley reward if smiley makes
+//it back to Buckner house even if not talked to
+//by player while walking back (dialogue makes
+//more sense)
+
+
+//THIS IS NOW TAKEN CARE OF BY A FLOAT in leave_player
+/*
+   else if (global_var(GVAR_SMILEY_SUCCESS) == 1) then begin
+       //while smiley is walking back to buckner
+       //house he will say this
+       set_global_var(GVAR_SMILEY_SUCCESS,0);//can't succeed twice
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node011;
+       gSay_End;
+       end_dialogue;
+   end
+*/
+
+   else if ( (global_var(GVAR_SMILEY_STATUS) == SMILEY_IS_HERE) and (local_var(LVAR_Smiley_Reward) == 0) ) then begin
+       //if you've already talked to Smiley while
+       //he walked back ...now he will say this
+       set_local_var(LVAR_Smiley_Reward,1);//don't reward more than once
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node013;
+       gSay_End;
+       end_dialogue;
+   end
+
+//NBK:FIX -check if smiley on toxic cave map
+//   else if (not on TOXIC_CAVE_MAP) then
+   else if (cur_map_index != MAP_KLAMATH_TOXICCAVES) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node012;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else begin
+       if (global_var(GVAR_SMILEY_STATUS) < SMILEY_RETURNED) then begin
+          start_gdialog(NAME,self_obj,4,-1,-1);
+          gSay_Start;
+             call Node006;
+          gSay_End;
+          end_dialogue;
+       end
+       else
+         floater(310);
+   end
+
+
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+   //if active then begin
+//   set_local_var(LVAR_Smiley_Dead,1);
+
+   set_global_var(GVAR_SMILEY_STATUS, SMILEY_DEAD);
+/* Increment the aligned critter counter*/
+   inc_good_critter
+   //end//active
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (global_var(GVAR_SMILEY_STATUS) == SMILEY_IS_HERE) then
+      display_msg(mstr(102));
+   else
+      display_msg(mstr(100));
+   //display_msg("SMILEY_STATUS=" + global_var(GVAR_SMILEY_STATUS));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   if (global_var(GVAR_SMILEY_STATUS) == SMILEY_IS_HERE) then //added by killap
+      display_msg(mstr(104));
+   else if (local_var(LVAR_Herebefore)) then //added check by killap
+      display_msg(mstr(101));
+   else
+      display_msg(mstr(103)); //added by killap
+end
+
+procedure push_p_proc begin
+   script_overrides;
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node910 begin
+//if player money < 5 goto 8
+//else subtract 5 coins and goto 7
+   if (item_caps_total(dude_obj) > 4) then begin
+      item_caps_adjust(dude_obj,-5); //subtract 5 coins
+      //set_local_var(LVAR_Give, 1);
+      call Node007;
+   end
+   else begin
+      //set_local_var(LVAR_Nogive,1);
+      call Node008;
+   end
+end
+
+procedure Node920 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then
+      call Node011;
+   else
+      call Node004;
+end
+
+procedure Node930 begin
+   inc_general_rep(REP_BONUS_KLAMATH_TAKE_NO_REWARD);
+  //+5 KARMA
+end
+
+procedure Node940 begin
+   learn:= random(1,6);
+   critter_mod_skill(dude_obj,SKILL_OUTDOORSMAN,learn);
+   gfade_out(600);
+   game_time_advance(game_ticks(6*3600));//6 hours
+   gfade_in(600);
+end
+
+//procedure Node950 begin
+//   display_msg(mstr(110) + EXP_STILL_SUCCESS + mstr(111));
+//   set_global_var(GVAR_STILL_STATUS, STILL_SUCCESS);
+//   give_exp_points(EXP_STILL_SUCCESS);
+   //place springer in inventory + 10 rocks
+//   call Node014;
+//end
+
+procedure Node970 begin
+   set_local_var(LVAR_Follow_Dude,1);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+   //set smiley join flag
+end
+
+procedure Node980 begin
+   inc_general_rep(REP_BONUS_KLAMATH_LEAVE_SMILEY);
+   //-2 KARMA
+end
+
+procedure Node995 begin
+   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+       TopReact;
+   end
+   else begin
+       BottomReact;
+   end
+end
+
+procedure Node996 begin
+   BottomReact;
+end
+
+procedure Node997 begin
+   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+       call Node004;
+   else
+       call Node005;
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   Reply(110);
+
+   NLowOption(111,Node002);
+   NOption(112,Node005,004);
+   BOption(113,Node004,004);
+end
+
+procedure Node002 begin
+   Reply(120);
+
+   NLowOption(mstr(121) + dude_name + mstr(122),Node003);
+end
+
+procedure Node003 begin
+   Reply(130);
+
+   GLowOption(mstr(131) + dude_name + mstr(132),Node970);
+   NLowOption(mstr(133) + dude_name + mstr(134),Node999);
+end
+
+procedure Node004 begin
+   Reply(140);
+
+   NOption(141,Node006,004);
+   NOption(142,Node006,004);
+   BOption(143,Node980,004);
+end
+
+procedure Node005 begin
+   Reply(150);
+
+   NOption(151,Node007,004);
+end
+
+procedure Node006 begin
+   Reply(160);
+
+   NOption(161,Node970,004);
+   if (local_var(LVAR_10_before) == 0) then
+      NOption(162,Node010,004);
+end
+
+procedure Node007 begin
+   Reply(170);
+
+   NOption(171,Node008,004);
+end
+
+procedure Node008 begin
+   Reply(180);
+
+   NOption(181,Node009,004);
+end
+
+procedure Node009 begin
+//set smiley join flag
+   Reply(190);
+
+   GOption(191,Node970,004);
+   NOption(192,Node970,004);
+end
+
+procedure Node010 begin
+set_local_var(LVAR_10_before,1);
+   Reply(200);
+
+   NOption(201,Node970,004);
+end
+
+procedure Node011 begin
+   //inc_general_rep(REP_BONUS_SAVE_SMILEY);
+   //set_local_var(LVAR_Smiley_Success, 1);
+   //give_exp_points(EXP_SAVE_SMILEY);
+
+   //check off smiley rescued in log
+   Reply(210);
+
+   GOption(211,Node999,004);
+   NOption(212,Node999,004);
+   BOption(213,Node999,004);
+end
+
+procedure Node012 begin
+   if (get_critter_stat(dude_obj,STAT_iq) < 4) then
+      Reply(220);
+   else begin
+      if (local_var(LVAR_12_before) == 0) then begin
+         set_local_var(LVAR_12_before,1);
+         Reply(221);
+      end
+      else
+         Reply(222);
+   end
+
+   NOption(223, Node015, 004);
+   NOption(224, Node018, 004);
+   NOption(225, Node019, 004);
+   NOption(226, Node999, 004);
+end
+
+procedure Node012b begin
+   set_local_var(LVAR_12_before,0);
+   call Node012;
+end
+
+procedure Node013 begin
+   Reply(230);
+
+   NOption(231,Node014,001);
+   GOption(232,Node014,004);
+end
+
+procedure Node014 begin
+   critter_add_trait(dude_obj,TRAIT_PERK,PERK_gecko_skinning_perk,1);
+   Reply(240);
+
+   NLowOption(241,Node999);
+   NOption(242,Node012b,004); //edit by killap - was Node012
+   NOption(243,Node999,004);
+end
+
+procedure Node015 begin
+   if (local_var(LVAR_15_before) == 1) then
+      Reply(250);
+   else begin
+      if (has_skill(dude_obj, SKILL_OUTDOORSMAN) > 49) then begin
+         Reply(251);
+      end else begin
+         Reply(252);
+         NOption(255, Node016, 007); //made this only part of the above reply - killap
+      end
+      NOption(253, Node016, 004);
+   end
+   NOption(254, Node012b, 004); //edit by killap - was Node012
+end
+
+procedure Node016 begin
+   Reply(260);
+
+   GOption(261,Node017,004);
+   NOption(262,Node017,004);
+   NOption(263,Node017,007);
+   NOption(264,Node999,004);
+end
+
+procedure Node017 begin
+   set_local_var(LVAR_15_before,1);
+   Reply(270);
+
+   NOption(271,Node940,004);
+end
+
+procedure Node018 begin
+   Reply(280);
+
+   NOption(281,Node012b,004); //edit by killap - was Node012
+   NOption(282,Node999,004);
+end
+
+procedure Node019 begin
+   Reply(290);
+
+   GOption(291,Node012b,004); //edit by killap - was Node012
+   NOption(292,Node999,004);
+end
+//xxxxxxxxxxxxxxxxxxxx

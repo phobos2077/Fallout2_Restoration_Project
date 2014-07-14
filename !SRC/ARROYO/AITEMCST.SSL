@@ -1,0 +1,23 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\ARCaves.h"
+
+#define NAME                    SCRIPT_AITEMCST
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_update_p_proc;
+
+import variable temple_chest_ptr;
+
+procedure start begin
+end
+
+procedure map_update_p_proc begin
+   temple_chest_ptr:=self_obj;
+end

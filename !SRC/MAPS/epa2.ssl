@@ -1,0 +1,128 @@
+/*
+        Name: EPA
+        Location: EPA
+        Description: This is the Map Script for the EPA
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: MAY 2006
+
+           Updated:
+
+/* Include Files */
+
+#include "..\headers\define.h"
+//#include "..\headers\nazwamapy.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_EPA2
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_exit_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure doRepostion;
+
+procedure start
+begin
+end
+
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then begin
+      call doRepostion;
+   end 
+end 
+
+procedure doRepostion begin
+   //game_time_advance(ONE_GAME_MINUTE);
+
+   tile_set_center(23452);
+   debug_msg("ECKAGA1: tile_set_center(dude_obj): " + tile_set_center(23452)); //screen will recenter on kaga
+   
+   tile_set_center(tile_num(dude_obj));
+   debug_msg("ECKAGA1: tile_set_center(dude_obj): " + tile_set_center(tile_num(dude_obj))); //screen will recenter on kaga
+end
+
+procedure map_enter_p_proc begin
+   if (map_first_run) then begin
+       display_msg(message_str(NAME, 100));
+   end
+   
+   if (global_var(GVAR_LOAD_MAP_INDEX)==12) then begin\
+      override_map_start_hex(30062,1,3);
+   end
+   
+   //add_timer_event(self_obj, game_ticks(0), 1);
+
+   /*if (global_var(GVAR_LOAD_MAP_INDEX)==1) then begin
+       //debug_msg("ECKAGA1: tile_set_center(23442): " + tile_set_center(23442)); //screen will recenter
+       override_map_start_hex(23442,0,0);
+       set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   
+   end
+   
+   else if (global_var(GVAR_LOAD_MAP_INDEX)==2) then begin
+        //debug_msg("ECKAGA1: tile_set_center(23442): " + tile_set_center(23442)); //screen will recenter
+        override_map_start_hex(23442,1,0);
+        set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   
+   end
+   
+   else if (global_var(GVAR_LOAD_MAP_INDEX)==3) then begin
+         //debug_msg("ECKAGA1: tile_set_center(23442): " + tile_set_center(23442)); //screen will recenter
+         override_map_start_hex(23442,2,0);
+         set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   end
+   
+   else if (global_var(GVAR_LOAD_MAP_INDEX)==6) then begin
+         //debug_msg("ECKAGA1: tile_set_center(21908): " + tile_set_center(21908)); //screen will recenter
+         override_map_start_hex(21908,0,0);
+         set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   end
+   
+   else if (global_var(GVAR_LOAD_MAP_INDEX)==7) then begin
+         //debug_msg("ECKAGA1: tile_set_center(21908): " + tile_set_center(21908)); //screen will recenter
+         override_map_start_hex(21908,1,0);
+         set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   end
+   
+   else if (global_var(GVAR_LOAD_MAP_INDEX)==8) then begin
+         //debug_msg("ECKAGA1: tile_set_center(21908): " + tile_set_center(21908)); //screen will recenter
+         override_map_start_hex(21908,2,0);
+         set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   end*/
+   
+   if (global_var(GVAR_EPALIGHTING_GEN)!=4) then begin
+      Cavern_Lighting;
+   end
+   else begin
+      Military_Base_Lighting;
+   end
+      
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   
+end
+
+
+procedure map_update_p_proc
+begin
+ 
+   if (global_var(GVAR_EPALIGHTING_GEN)!=4) then begin
+      Cavern_Lighting;
+   end
+   else begin
+      Military_Base_Lighting;
+   end
+
+end
+ 
+procedure map_exit_p_proc
+begin
+ 
+end

@@ -1,0 +1,58 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\navarro.h"
+
+#define NAME                    SCRIPT_CSXDOOR
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure use_p_proc;
+procedure use_obj_on_p_proc;
+procedure use_skill_on_p_proc;
+procedure map_enter_p_proc;
+
+variable Allow_Open := 0;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   Allow_Open := 0;
+   obj_close( self_obj );
+   obj_lock( self_obj );
+end
+
+procedure use_p_proc begin
+   if( Allow_Open == 0 ) then begin
+      script_overrides;
+      display_msg( mstr(100) );
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   variable tool;
+
+   tool := obj_pid(obj_being_used_with);
+
+   if( tool != PID_BLUE_PASS_KEY ) then begin
+      script_overrides;
+      display_msg( mstr(100) );
+   end
+   else begin
+      script_overrides;
+      Allow_Open := 1;
+      set_map_var( MVAR_Xarn_Door, 1 );
+      obj_unlock( self_obj );
+      display_msg( mstr(101) );
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   script_overrides;
+   display_msg( mstr(100) );
+end

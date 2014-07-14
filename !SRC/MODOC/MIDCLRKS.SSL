@@ -1,0 +1,95 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Deathclaw Rocks
+        Location: Modoc blocking the deathclaw enterance
+        Description:
+
+        Log:
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_MIDCLRKS
+#include "..\headers\command.h"
+#include "..\headers\Modoc.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure destroy_p_proc;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Attempts                     (0)
+
+#define remove_rocks(xp)                  gfade_out(1);                                                        \
+                                          check_set_obj_visiblility(self_obj,true);                                   \
+                                          gfade_in(1);                                                         \
+                                          if (xp != 0) then begin                                              \
+                                             game_time_advance((10-dude_strength+5) * ONE_GAME_MINUTE);        \
+                                             give_xp(xp);                                                      \
+                                          end                                                                  \
+                                          add_timer_event(modoc_death_claw_obj,game_ticks(random(1,2)),999);   \
+                                          destroy_object(self_obj)
+
+import variable modoc_death_claw_obj;
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+procedure start begin
+end
+procedure look_at_p_proc begin
+end
+procedure description_p_proc begin
+end
+procedure use_p_proc begin
+   if (source_obj == dude_obj) then begin
+      script_overrides;
+      if ((dude_strength < 8) or (local_var(LVAR_Attempts) == 3)) then begin
+         display_mstr(100);
+      end else if ((dude_strength == 10) or (is_success(do_check(dude_obj, STAT_st, 0)))) then begin
+         remove_rocks(EXP_MODOC_CLEAR_COUP_ROCKS);
+      end else begin
+         inc_local_var(LVAR_Attempts);
+         display_mstr(100 + local_var(LVAR_Attempts));
+      end
+   end
+end
+procedure use_skill_on_p_proc begin
+end
+procedure damage_p_proc begin
+   if (target_obj != 0) then begin
+      if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
+         remove_rocks(0);
+      end
+   end
+   if (source_obj != 0) then begin
+      if (weapon_dmg_type(source_obj) == DMG_explosion) then begin
+         remove_rocks(0);
+      end
+   end
+end
+procedure map_enter_p_proc begin
+   match_dude_elevation;
+end
+procedure timed_event_p_proc begin
+end
+procedure destroy_p_proc begin
+end

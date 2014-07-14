@@ -1,0 +1,905 @@
+/*
+	Script for critter tmplete
+*/
+
+
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_TRIBEC1
+
+#define TOWN_REP_VAR            GVAR_TOWN_REP_PRIMITIVE_TRIBE
+
+#include "..\headers\command.h"
+#include "..\headers\merchant.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure combat_p_proc;
+procedure critter_p_proc;
+procedure destroy_p_proc;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+procedure Node001;
+procedure Node001a;
+procedure Node001b;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+procedure Node046;
+
+procedure Node900;
+procedure Node901;
+procedure Node902;
+
+procedure Node999;
+procedure Node998;
+
+procedure removeWeapons;
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Accept_Spear_Quest         (7)
+#define LVAR_Ready_To_Go                (8)
+#define LVAR_Warrior_Quest_Wait         (9)
+#define LVAR_Time                       (10)
+#define LVAR_Give_Thanks                (11)
+#define LVAR_Accepted_Hunters_Quest     (12)
+#define LVAR_Pissed                     (13)
+
+variable sharpenedSpearCount:=0;
+variable regularSpearCount:=0;
+variable to_home:=0;
+variable from_home:=0;
+
+#define ATTRACTIVE_FEMALE ((dude_is_female) and (get_critter_stat(dude_obj,STAT_ch) >= 7))
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+   wield_obj(self_item(PID_SHARP_SPEAR));
+end
+
+procedure timed_event_p_proc begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+procedure destroy_p_proc
+begin
+   inc_good_critter
+   set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE, global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) - 10);
+   set_global_var(GVAR_ENEMY_PRIMITIVE_TRIBE,1);
+end
+
+procedure critter_p_proc
+begin
+   if (self_can_see_dude) then begin
+      if (cur_map_index == MAP_MERCHANT) then begin
+         if (map_var(MVAR_Roy_Killed) == 1) then
+            call talk_p_proc;
+      end else if (has_rep_slaver) then begin
+         floater(3000);
+         attack(dude_obj);
+      end else if (REP_ENEMY_PRIMITIVE_TRIBE) then begin
+         attack(dude_obj);
+      end
+   end
+end
+ 
+procedure combat_p_proc
+begin
+   if (global_var(GVAR_ENEMY_PRIMITIVE_TRIBE) == 1) then begin
+      attack(dude_obj);
+   end
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+       display_msg(mstr(100));
+   else
+       display_msg(mstr(101));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_global_var(GVAR_ENEMY_PRIMITIVE_TRIBE,1);
+      attack(dude_obj);
+   end
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   if ( (global_var(GVAR_MERCHANT_MEETING) == MERCHANT_DONE) and (local_var(LVAR_Time) == 0) ) then begin
+      set_local_var(LVAR_Time,game_time);
+   end
+
+   if (cur_map_index == MAP_MERCHANT) then
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+   else
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PRIMITIVE_TRIBE);
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_global_var(GVAR_ENEMY_PRIMITIVE_TRIBE,1);
+   end
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   variable timeticks;
+
+   if (dude_is_stupid) then begin
+      if (global_var(GVAR_TRIBE_WEAPONS) == 0) then begin
+         if (local_var(LVAR_Accept_Spear_Quest) == 0) then begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node039;
+            gSay_End;
+            end_dialogue;
+         end else begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node042;
+            gSay_End;
+            end_dialogue;
+         end
+      end else if (global_var(GVAR_TRIBE_WEAPONS) == 1) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node043;
+         gSay_End;
+         end_dialogue;
+      end else if (global_var(GVAR_TRIBE_WEAPONS) == 2) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node044;
+         gSay_End;
+         end_dialogue;
+      end
+   end else begin
+      if (local_var(LVAR_Pissed) == 1) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node045;
+         gSay_End;
+         end_dialogue;
+      end else if (cur_map_index == MAP_MERCHANT) then begin
+         if (map_var(MVAR_Roy_Killed) == 1) then begin
+            if (global_var(GVAR_MERCHANT_MEETING) == MERCHANT_REALIZE_FAKE) then begin
+               start_gdialog(NAME,self_obj,4,-1,-1);
+               gSay_Start;
+                  call Node021;
+               gSay_End;
+               end_dialogue;
+            end else begin
+               start_gdialog(NAME,self_obj,4,-1,-1);
+               gSay_Start;
+                  call Node019;
+               gSay_End;
+               end_dialogue;
+            end
+         end else begin
+            floater(380);
+         end
+      end else if ( (global_var(GVAR_MERCHANT_MEETING) > MERCHANT_START) and (global_var(GVAR_MERCHANT_MEETING) < MERCHANT_DONE) ) then begin
+         if (global_var(GVAR_MERCHANT_MEETING) == MERCHANT_BOUGHT_TRICKED) then begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node017;
+            gSay_End;
+            end_dialogue;
+         end else if (global_var(GVAR_MERCHANT_MEETING) == MERCHANT_NO_DEAL) then begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node022;
+            gSay_End;
+            end_dialogue;
+         end else if (global_var(GVAR_MERCHANT_MEETING) == MERCHANT_BOUGHT_DISCOUNT) then begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node017;
+            gSay_End;
+            end_dialogue;
+         end else if (global_var(GVAR_MERCHANT_MEETING) == MERCHANT_REALIZE_FAKE) then begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node023;
+            gSay_End;
+            end_dialogue;
+         end
+      end else if (local_var(LVAR_Ready_To_Go) == 1) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node038;
+         gSay_End;
+         end_dialogue;
+      end else if ( ((global_var(GVAR_MERCHANT_MEETING) == MERCHANT_DONE) and (global_var(GVAR_TRIBE_GHOST) >= 3) and (global_var(GVAR_MISSING_WARRIOR) < 4)) and ((game_time - local_var(LVAR_Time)) >= ONE_GAME_DAY) ) then begin
+         if (local_var(LVAR_Accepted_Hunters_Quest) == 0) then begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node031;
+            gSay_End;
+            end_dialogue;
+         end else begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node034;
+            gSay_End;
+            end_dialogue;
+         end   
+      end else if ( ((global_var(GVAR_MISSING_WARRIOR) >= 4) and (global_var(GVAR_MISSING_WARRIOR) <= 7)) and (local_var(LVAR_Give_Thanks) == 0) ) then begin
+         set_local_var(LVAR_Give_Thanks,1);
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node037;
+         gSay_End;
+         end_dialogue;
+      end else if (local_var(LVAR_Herebefore) > 0) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node024;
+         gSay_End;
+         end_dialogue;
+      end else begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            set_local_var(LVAR_Herebefore,1);
+            call Node001;
+         gSay_End;
+         end_dialogue;
+      end
+   end
+   
+   if (from_home) then begin
+      from_home := 0;
+
+      // Make sure we do this during the day. And if it isn't currently day,
+      // make sure we go out the next day to arrive by noon.
+      if (game_time_hour >= 1600 or game_time_hour < 600) then begin
+         timeticks := ticks_til_hour(1200);
+      end else begin
+         timeticks := ONE_GAME_HOUR; // Takes an hour to travel to that destination
+      end
+
+      game_time_advance(timeticks);
+      load_map(MAP_MERCHANT, 0);
+   end else if (to_home) then begin
+      to_home := 0;
+      game_time_advance(ONE_GAME_HOUR);
+      load_map(MAP_PRIMITIVE_TRIBE1,901);
+   end
+   
+end
+
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+   set_global_var(GVAR_ENEMY_PRIMITIVE_TRIBE,1);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+//agree to help in trader meeting
+procedure Node900 begin
+   variable time;
+   set_local_var(LVAR_Ready_To_Go,2);
+   set_global_var(GVAR_MERCHANT_MEETING,MERCHANT_START);
+   
+   //advance time to 1 pm
+   /*if (game_time_hour != 1100) then begin
+      time := game_time_hour - 1100;
+      if (time < 0) then
+         time := (time * -1);
+      game_time_advance(ONE_GAME_HOUR * time);
+   end -- not sure what I was thinking here...*/
+   
+   from_home := 1;
+   
+end
+
+//not ready to go yet for trader meeting
+procedure Node901 begin
+   set_local_var(LVAR_Ready_To_Go,1);
+end
+
+procedure Node902 begin
+   set_global_var(GVAR_MISSING_WARRIOR,1);
+   set_local_var(LVAR_Accepted_Hunters_Quest,1);
+end
+
+procedure Node001 begin
+   if (ATTRACTIVE_FEMALE) then begin
+      Reply(201);
+      NOption(207,Node001a,004);
+      NOption(208,Node001b,004);
+      NOption(209,Node999,004);
+   end else begin
+      Reply(200);
+      if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then 
+         NOption(mstr(202)+obj_name(dude_obj)+mstr(203),Node002,004);
+      else
+         NOption(mstr(204)+obj_name(dude_obj)+mstr(205),Node002,004);
+      NOption(206,Node999,004);
+   end
+   
+   NLowOption(800,Node036,4);
+
+end
+
+procedure Node001a begin
+   Reply(270);
+   if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then 
+      NOption(mstr(202)+obj_name(dude_obj)+mstr(203),Node002,004);
+   else
+      NOption(mstr(204)+obj_name(dude_obj)+mstr(205),Node002,004);
+   NOption(206,Node999,004);
+end
+
+procedure Node001b begin
+   Reply(280);
+   if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then 
+      NOption(mstr(202)+obj_name(dude_obj)+mstr(203),Node002,004);
+   else
+      NOption(mstr(204)+obj_name(dude_obj)+mstr(205),Node002,004);
+   NOption(206,Node999,004);
+end
+
+procedure Node002 begin
+   Reply(210);
+   if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then 
+      NOption(211,Node003,004);
+   else
+      NOption(212,Node003,004);
+end
+
+procedure Node003 begin
+   if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then begin
+      Reply(220);
+      NOption(222,Node004,004);
+      BOption(223,Node005,004);
+   end else begin
+      Reply(221);
+      NOption(224,Node007,004);
+   end
+end
+
+procedure Node004 begin
+   Reply(230);
+   NOption(231,Node007,004);
+   BOption(232,Node006,004);
+end
+
+procedure Node005 begin
+   if (ATTRACTIVE_FEMALE) then begin
+      Reply(241);
+      NOption(244,Node999,004);
+      BOption(245,Node998,004);
+      BOption(246,Node013,004);
+      BOption(247,Node008,004);
+   end else begin
+      set_local_var(LVAR_Pissed,1);
+      Reply(240);
+      NOption(242,Node999,004);
+      BOption(243,Node998,004);
+   end
+end
+
+procedure Node006 begin
+   set_local_var(LVAR_Pissed,1);
+   Reply(250);
+   NOption(251,Node999,004);
+   BOption(252,Node998,004);
+end
+
+procedure Node007 begin
+   if (ATTRACTIVE_FEMALE) then begin
+      Reply(261);
+      NOption(264,Node013,004);
+      BOption(265,Node013,004);
+      BOption(266,Node999,004);
+      BOption(267,Node998,004);
+      BOption(268,Node008,004);
+   end else begin
+      Reply(260);
+      NOption(262,Node013,004);
+      BOption(263,Node999,004);
+   end
+end
+
+procedure Node008 begin
+   Reply(290);
+   NOption(291,Node010,004);
+   BOption(292,Node009,004);
+end
+
+procedure Node009 begin
+   set_local_var(LVAR_Pissed,1);
+   Reply(300);
+   BOption(301,Node999,004);
+   NOption(302,Node999,004);
+end
+
+procedure Node010 begin
+   up_sex_status;
+   game_time_advance(2*ONE_GAME_HOUR);
+   
+   Reply(310);
+   NOption(311,Node011,004);
+   NOption(312,Node011,004);
+end
+
+procedure Node011 begin
+   Reply(320);
+   NOption(321,Node013,004);
+   NOption(322,Node999,004);
+   NOption(323,Node012,004);
+end
+
+procedure Node012 begin
+   Reply(330);
+   NOption(331,Node013,004);
+end
+
+procedure Node013 begin
+   Reply(340);
+   NOption(341,Node014,004);
+   NOption(342,Node014,004);
+end
+
+procedure Node014 begin
+   Reply(350);
+   NOption(351,Node015,004);
+   NOption(352,Node999,004);
+end
+
+procedure Node015 begin
+   if (ATTRACTIVE_FEMALE) then
+      Reply(361);
+   else
+      Reply(360);
+   NOption(362,Node900,004);
+   NOption(363,Node901,004);
+   NOption(364,Node016,004);
+
+end
+
+procedure Node016 begin
+   Reply(370);
+   NOption(371,Node900,004);
+   NOption(372,Node901,004);
+   NOption(373,Node999,004);
+end
+
+// PC agrees to purchasing the goods
+procedure Node017 begin
+   Reply(390);
+   NOption(391,Node018,004);
+   NOption(392,Node018,004);
+end
+
+procedure Node018 begin
+   set_local_var(LVAR_Time,game_time);
+   display_msg(mstr(2500));
+   give_xp(EXP_TRIBE_MERCHANT_MEETING_NORMAL);
+   inc_general_rep(REP_BONUS_TRIBE_MERCHANT_MEETING_NORMAL);
+   set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE,global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 5);
+   set_global_var(GVAR_MERCHANT_MEETING,MERCHANT_DONE);
+   
+   Reply(400);
+   NOption(g_mstr(350),Node999,004);
+end
+
+// PC kills trader, not knowing about the fake goods
+procedure Node019 begin
+   if (ATTRACTIVE_FEMALE) then
+      Reply(411);
+   else
+      Reply(410);
+   NOption(412,Node020,004);
+   NOption(413,Node020,004);
+   NOption(414,Node020,004);
+end
+
+procedure Node020 begin
+   set_local_var(LVAR_Time,game_time);
+   display_msg(mstr(2501));
+   give_xp(EXP_TRIBE_MERCHANT_MEETING_BAD);
+   set_global_var(GVAR_MERCHANT_MEETING,MERCHANT_DONE_BAD);
+   
+   Reply(420);
+   NOption(g_mstr(350),Node999,004);
+   to_home := 1;
+end
+
+// PC kills trader, knowing about the fake goods
+procedure Node021 begin
+   set_local_var(LVAR_Time,game_time);
+   display_msg(mstr(2502));
+   give_xp(EXP_TRIBE_MERCHANT_MEETING_BAD);
+   inc_general_rep(REP_BONUS_TRIBE_MERCHANT_MEETING_NORMAL);
+   set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE,global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 5);
+   set_global_var(GVAR_MERCHANT_MEETING,MERCHANT_DONE);
+   
+   if (ATTRACTIVE_FEMALE) then
+      Reply(431);
+   else
+      Reply(430);
+   NOption(g_mstr(350),Node999,004);
+   to_home := 1;
+end
+
+// PC does not purchase goods, not knowing they are fake
+procedure Node022 begin
+   set_local_var(LVAR_Time,game_time);
+   display_msg(mstr(2503));
+   give_xp(EXP_TRIBE_MERCHANT_MEETING_NORMAL);
+   inc_general_rep(REP_BONUS_TRIBE_MERCHANT_MEETING_NORMAL);
+   set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE,global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 5);
+   set_global_var(GVAR_MERCHANT_MEETING,MERCHANT_DONE);
+   
+   if (ATTRACTIVE_FEMALE) then
+      Reply(441);
+   else
+      Reply(440);
+   NOption(442,Node999,004);
+   NOption(443,Node999,004);
+   NOption(444,Node999,004);
+end
+
+// PC does not purchase goods, knowing they are fake
+procedure Node023 begin
+   set_local_var(LVAR_Time,game_time);
+   display_msg(mstr(2504));
+   give_xp(EXP_TRIBE_MERCHANT_MEETING_GOOD);
+   inc_general_rep(REP_BONUS_TRIBE_MERCHANT_MEETING_GOOD);
+   set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE,global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 10);
+   set_global_var(GVAR_MERCHANT_MEETING,MERCHANT_DONE);
+
+   if (ATTRACTIVE_FEMALE) then
+      Reply(451);
+   else
+      Reply(450);
+   NOption(452,Node999,004);
+   NOption(453,Node999,004);
+   NOption(454,Node999,004);
+end
+
+procedure Node024 begin
+   if (ATTRACTIVE_FEMALE) then
+      Reply(461);
+   else
+      Reply(460);
+   NOption(462,Node025,004);
+   NOption(463,Node999,004);
+end
+
+procedure Node025 begin
+   Reply(470);
+   NOption(471,Node026,004);
+   NOption(472,Node029,004);
+   if (global_var(GVAR_MERCHANT_MEETING) < MERCHANT_START) then
+      NOption(473,Node013,004);
+   else if (global_var(GVAR_FIXTRIBE_WELL) < 5) then
+      NOption(473,Node030,004);
+      
+   NOption(474,Node999,004);
+end
+
+procedure Node026 begin
+   Reply(480);
+   NOption(481,Node027,004);
+   NOption(482,Node025,004);
+end
+
+procedure Node027 begin
+   Reply(490);
+   NOption(491,Node028,004);
+end
+
+procedure Node028 begin
+   Reply(500);
+   NOption(501,Node025,004);
+   NOption(502,Node999,004);
+end
+
+procedure Node029 begin
+   Reply(510);
+   NOption(511,Node025,004);
+   NOption(512,Node999,004);
+end
+
+procedure Node030 begin
+   Reply(520);
+   NOption(521,Node999,004);
+   NOption(522,Node025,004);
+end
+
+procedure Node031 begin
+   if (ATTRACTIVE_FEMALE) then
+      Reply(531);
+   else
+      Reply(530);
+   NOption(532,Node032,004);
+   NOption(533,Node999,004);
+end
+
+procedure Node032 begin
+   Reply(540);
+   NOption(541,Node033,004);
+   NOption(542,Node999,004);
+   NOption(543,Node999,004);
+end
+
+procedure Node033 begin
+   Reply(550);
+   NOption(551,Node902,004);
+   NOption(552,Node999,004);
+end
+
+//any news on the hunters?
+procedure Node034 begin
+   Reply(560);
+   NOption(561,Node999,004);
+   if (global_var(GVAR_MISSING_WARRIOR) == 2) then
+      NOption(562,Node035,004);
+end
+
+procedure Node035 begin
+   Reply(570);
+   NOption(571,Node036,004);
+end
+
+procedure Node036 begin
+   Reply(580);
+   NOption(581,Node999,004);
+   NOption(582,Node999,004);
+   
+   set_global_var(GVAR_MISSING_WARRIOR,8); //failure
+end
+
+// Serin rescued
+procedure Node037 begin
+   if (ATTRACTIVE_FEMALE) then
+      Reply(591);
+   else
+      Reply(590);
+   NOption(592,Node999,004);
+   
+   set_global_var(GVAR_MISSING_WARRIOR,6); //success
+end
+
+procedure Node038 begin
+   Reply(375);
+   NOption(376,Node999,004);
+   NOption(377,Node900,004);
+   NOption(364,Node016,004);
+end
+
+procedure Node039 begin
+   Reply(801);
+   NLowOption(802,Node040,4);
+   NLowOption(803,Node999,4);
+end
+
+procedure Node040 begin
+   set_local_var(LVAR_Accept_Spear_Quest,1);
+   
+   sharpenedSpearCount := obj_is_carrying_obj_pid(dude_obj, PID_SHARP_SPEAR);
+   regularSpearCount := obj_is_carrying_obj_pid(dude_obj, PID_SPEAR);
+   
+   set_global_var(GVAR_TRIBE_WEAPONS,1);
+   
+   Reply(810);
+   
+   if (((sharpenedSpearCount + regularSpearCount) >= 5) and (obj_is_carrying_obj_pid(dude_obj, PID_KNIFE) >= 10)) then
+      NLowOption(812,Node038,4);
+   else
+      NLowOption(811,Node902,4);
+end
+
+procedure Node041 begin
+   call removeWeapons;
+   Reply(840);
+   NLowOption(841,Node999,4);
+end
+
+//dumb, change mind?
+procedure Node042 begin
+   Reply(820);
+   NLowOption(821,Node040,4);
+   NLowOption(803,Node999,4);
+end
+
+procedure Node043 begin
+   sharpenedSpearCount := obj_is_carrying_obj_pid(dude_obj, PID_SHARP_SPEAR);
+   regularSpearCount := obj_is_carrying_obj_pid(dude_obj, PID_SPEAR);
+   
+   Reply(830);
+   
+   if (((sharpenedSpearCount + regularSpearCount) >= 5) and (obj_is_carrying_obj_pid(dude_obj, PID_KNIFE) >= 10)) then
+      NLowOption(831,Node041,4);
+   else
+      NLowOption(832,Node999,4);
+end
+
+procedure Node044 begin
+   Reply(850);
+   NLowOption(851,Node999,4);
+end
+
+procedure Node045 begin
+   Reply(860);
+   NOption(861,Node998,004);
+   NOption(862,Node046,004);
+   NOption(863,Node999,004);
+end
+
+procedure Node046 begin
+   set_local_var(LVAR_Pissed,0);
+   Reply(870 + ATTRACTIVE_FEMALE);
+   NOption(462,Node025,004);
+   NOption(872,Node999,004);
+end
+
+procedure removeWeapons begin
+   variable Obj;
+   variable Obj2;
+   variable Obj3;
+   variable Remove;
+   variable count := 0;
+   variable count2 := 0;
+   
+   set_global_var(GVAR_TRIBE_WEAPONS,2);
+   display_msg(mstr(2000));
+   give_xp(EXP_TRIBE_WEAPONS);
+   inc_general_rep(REP_BONUS_TRIBE_WEAPONS);
+   set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE,global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 10);
+   Obj := obj_carrying_pid_obj(dude_obj,PID_KNIFE);
+   Remove := rm_mult_objs_from_inven(dude_obj, Obj, 10 );
+   
+   Obj2 := obj_carrying_pid_obj(dude_obj,PID_SHARP_SPEAR);
+   Obj3 := obj_carrying_pid_obj(dude_obj,PID_SPEAR);
+   
+   if (sharpenedSpearCount >= 5) then
+      count := 5;
+   else if (sharpenedSpearCount < 5) then begin
+      count2 := 5 - sharpenedSpearCount;
+      count := sharpenedSpearCount;
+   end
+   
+   Remove := rm_mult_objs_from_inven(dude_obj, Obj2, count );
+   Remove := rm_mult_objs_from_inven(dude_obj, Obj3, count2 );
+   
+   destroy_object(Obj);
+   
+   if (count > 0) then
+      destroy_object(Obj2);
+   
+   if (count2 > 0) then
+      destroy_object(Obj3);
+end

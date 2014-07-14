@@ -1,0 +1,179 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+#ifndef _INC_TILE_TIME
+#define _INC_TILE_TIME
+
+//#define WAYPNT_RUN  1
+//#define WAYPNT_WALK 2
+
+#define tvarInit              \
+   variable numTvars    := 0; \
+   variable cbFunc      := 0; \
+   variable target_tile := 0; \
+   variable tt_num      := 0; \
+   variable tt_time     := 0; \
+   variable tt_go       := 0
+
+#define tvarSetNum(x)    numTvars := x
+#define tvarCBack(x)     cbFunc   := x
+#define tvarWarpToPos(tileNum, nextTime) call tvar_Warp_To_Pos(tileNum, nextTime)
+
+
+
+#define tvarMK(x)          \
+   variable tile##x  := 0; \
+   variable lTime##x := 0
+
+#define tvarTile(x, y)  tile##x  := y
+#define tvarTime(x, y)  lTime##x := y
+
+#define TVAR_TIMER -1
+
+#define tvarSetTimer(x) add_timer_event(self_obj, x, TVAR_TIMER)
+#define tvarProcess(x)  check_tile_events(x)
+
+#define TILEBLK(x)       \
+   if (number == x) then \
+      return tile##x
+
+tvarInit;
+
+tvarMK(0);
+tvarMK(1);
+tvarMK(2);
+tvarMK(3);
+tvarMK(4);
+tvarMK(5);
+tvarMK(6);
+tvarMK(7);
+tvarMK(8);
+tvarMK(9);
+tvarMK(10);
+tvarMK(11);
+tvarMK(12);
+tvarMK(13);
+tvarMK(14);
+tvarMK(15);
+tvarMK(16);
+tvarMK(17);
+tvarMK(18);
+tvarMK(19);
+tvarMK(20);
+tvarMK(21);
+tvarMK(22);
+tvarMK(23);
+tvarMK(24);
+tvarMK(25);
+
+procedure getTile(variable number) begin
+   TILEBLK(0);
+   TILEBLK(1);
+   TILEBLK(2);
+   TILEBLK(3);
+   TILEBLK(4);
+   TILEBLK(5);
+   TILEBLK(6);
+   TILEBLK(7);
+   TILEBLK(8);
+   TILEBLK(9);
+   TILEBLK(10);
+   TILEBLK(11);
+   TILEBLK(12);
+   TILEBLK(13);
+   TILEBLK(14);
+   TILEBLK(15);
+   TILEBLK(16);
+   TILEBLK(17);
+   TILEBLK(18);
+   TILEBLK(19);
+   TILEBLK(20);
+   TILEBLK(21);
+   TILEBLK(22);
+   TILEBLK(23);
+   TILEBLK(24);
+   TILEBLK(25);
+end
+
+#define TILEBLKTIME(x)         \
+   if (number == x) then       \
+      return lTime##x
+
+procedure getTileTime(variable number) begin
+   TILEBLKTIME(0);
+   TILEBLKTIME(1);
+   TILEBLKTIME(2);
+   TILEBLKTIME(3);
+   TILEBLKTIME(4);
+   TILEBLKTIME(5);
+   TILEBLKTIME(6);
+   TILEBLKTIME(7);
+   TILEBLKTIME(8);
+   TILEBLKTIME(9);
+   TILEBLKTIME(10);
+   TILEBLKTIME(11);
+   TILEBLKTIME(12);
+   TILEBLKTIME(13);
+   TILEBLKTIME(14);
+   TILEBLKTIME(15);
+   TILEBLKTIME(16);
+   TILEBLKTIME(17);
+   TILEBLKTIME(18);
+   TILEBLKTIME(19);
+   TILEBLKTIME(20);
+   TILEBLKTIME(21);
+   TILEBLKTIME(22);
+   TILEBLKTIME(23);
+   TILEBLKTIME(24);
+   TILEBLKTIME(25);
+end
+
+procedure curTimeIsGreater(variable intime) begin
+   if (game_time > intime) then
+      return 1;
+   return 0;
+end
+
+procedure check_tile_events(variable curr_timer) begin
+   variable count;
+   if (curr_timer == TVAR_TIMER) then begin
+      if (tt_go) then begin
+         if (self_tile == target_tile) then begin
+            call cbFunc(target_tile);
+            tt_go := 0;
+            tt_num += 1;
+            if (tt_num >= numTvars) then tt_num := 0;
+            target_tile := getTile(tt_num);
+            tt_time := game_time + getTileTime(tt_num);
+         end
+      end else begin
+         if (curTimeIsGreater(tt_time)) then begin
+            debug_msg("should be going to tile: " + target_tile);
+            tt_go := 1;
+            if (not combat_is_initialized) then begin
+               reg_anim_clear(self_obj);
+               reg_anim_begin();
+#ifdef WAYPNT_RUN
+               animate_run_to_tile(target_tile);
+#else
+               animate_move_to_tile(target_tile);
+#endif
+               reg_anim_end();
+            end
+         end
+      end
+      return 1;
+   end else
+      return 0;
+end
+
+procedure tvar_Warp_To_Pos(variable tileNum, variable nextTime) begin
+   move_to(self_obj, getTile(tileNum), elevation(self_obj));
+   tileNum += 1;
+   if (tileNum >= numTvars) then tileNum := 0;
+   target_tile := getTile(tileNum);
+   tt_go := 0;
+   tt_time := nextTime;
+end
+#endif

@@ -1,0 +1,919 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Pretty Boy Lloyd
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCLLOYD
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure map_exit_p_proc;
+procedure map_update_p_proc;
+
+procedure go_golgatha;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node035;
+procedure Node036;
+// golgotha script
+procedure Node101;
+procedure Node102;
+procedure Node103;
+procedure Node104;
+procedure Node105;
+procedure Node106;
+procedure Node107;
+procedure Node108;
+procedure Node109;
+procedure Node110;
+procedure Node111;
+procedure Node112;
+procedure Node114;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+#define LVAR_TEAM                         (4)
+#define LVAR_WAITING                      (5)
+#define LVAR_FOLLOW_DISTANCE              (6)
+#define LVAR_Flags                        (7)
+#define LVAR_Last_Message                 (8)
+#define LVAR_Attack                       (9) //added by killap
+
+#define run_bit                           bit_10
+#define small_karma_bit                   bit_11
+#define medium_karma_bit                  bit_12
+#define extra_karma_bit                   bit_13
+#define lloyd_golgatha_init               bit_14
+#define remove_lloyd_bit                  bit_15
+#define did_golgotha_speech_bit           bit_16
+#define traps_bit                         bit_17
+#define bomb_lloyd_bit                    bit_18
+
+#define init_golgatha                     (lvar_bit(LVAR_Flags, lloyd_golgatha_init))
+#define set_init_golgatha                 set_lvar_bit_on(LVAR_Flags, lloyd_golgatha_init)
+
+#define did_golgatha_speech               (lvar_bit(LVAR_Flags, did_golgotha_speech_bit))
+#define set_did_golgatha_speech           set_lvar_bit_on(LVAR_Flags, did_golgotha_speech_bit)
+
+#define lloyd_traps                       (lvar_bit(LVAR_Flags, traps_bit))
+#define set_lloyd_traps                   set_lvar_bit_on(LVAR_Flags, traps_bit)
+
+#define lloyd_run                         (lvar_bit(LVAR_Flags, run_bit))
+#define set_lloyd_run                     set_lvar_bit_on(LVAR_Flags, run_bit)
+#define off_lloyd_run                     set_lvar_bit_off(LVAR_Flags, run_bit)
+
+#define small_karma                       (lvar_bit(LVAR_Flags, small_karma_bit))
+#define set_small_karma                   set_lvar_bit_on(LVAR_Flags, small_karma_bit)
+#define medium_karma                      (lvar_bit(LVAR_Flags, medium_karma_bit))
+#define set_medium_karma                  set_lvar_bit_on(LVAR_Flags, medium_karma_bit)
+#define extra_karma                       (lvar_bit(LVAR_Flags, extra_karma_bit))
+#define set_extra_karma                   set_lvar_bit_on(LVAR_Flags, extra_karma_bit)
+
+#define bomb_lloyd                        (lvar_bit(LVAR_Flags, bomb_lloyd_bit))
+#define set_bomb_lloyd                    set_lvar_bit_on(LVAR_Flags, bomb_lloyd_bit)
+
+#define remove_lloyd                      (lvar_bit(LVAR_Flags, remove_lloyd_bit))
+#define set_remove_lloyd                  set_lvar_bit_on(LVAR_Flags, remove_lloyd_bit)
+
+#define lloyd_in_new_reno                 (cur_map_index == MAP_NEW_RENO_1)
+#define lloyd_in_golgatha                 (cur_map_index == MAP_NEW_RENO_GOLGATHA)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+import variable new_reno_lloyd_grave_obj;
+variable prev_node;
+variable going_to_golgatha;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == attack_param) then begin
+      call Node998;
+   end else if (fixed_param == force_talk_param) then begin
+      game_ui_enable;
+      dialogue_system_enter;
+   end else if (fixed_param == float_param) then begin
+      if (combat_is_initialized == false) then begin
+         if (lloyd_in_new_reno) then begin
+            if (((self_distance_from_dude < 7) or (dude_can_see_self)) and (dude_perception > 6)) then begin
+               call Node001;
+            end
+         end else if (get_escape(escape_follow)) then begin
+            call Node101;
+         end
+      end
+      nr_add_timer_event_rand(self_obj, 5 + (15 * herebefore), 10 + (25 * herebefore), float_param);
+   end
+end
+
+procedure map_exit_p_proc begin
+   //added by killap
+   if ( (remove_lloyd) or (not(self_visible)) ) then begin
+      set_lloyd_dead; //not really, but for the sake of Salvatore's script
+      destroy_object(self_obj);
+   end
+   //end added by killap
+   
+   else if ((lloyd_run) or (lloyd_dead) or (lloyd_in_golgatha)) then begin
+      if (lloyd_dead == false) then begin
+         set_lloyd_took_money;
+      end
+      debug_msg("DESTROYING LLOYD");
+      set_destroy_me;
+   end
+end
+
+procedure map_enter_p_proc begin
+   debug_msg("LLOYD MAP ENTER start");
+   if (is_loading_game == false) then begin
+      if (lloyd_in_new_reno) then begin
+         if (map_first_run) then begin
+            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_LLOYD);
+            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+         end
+      end else if (init_golgatha == false) then begin
+         set_init_golgatha;
+         give_pid_qty(self_obj, PID_SHOVEL, 1)
+         critter_attempt_placement(self_obj, 12669, 0);
+         if (get_escape(escape_follow)) then begin
+            debug_msg("get_escape(escape_follow)");
+            if ((is_success(roll_vs_skill(dude_obj,SKILL_SNEAK,0))) or (is_success(roll_vs_skill(dude_obj,SKILL_OUTDOORSMAN,0)))) then begin
+               debug_msg("   successful follow");
+               display_mstr(1001);
+               item_caps_adjust(self_obj, 1000);
+               check_set_obj_visiblility(self_obj, false);
+            end else begin
+               debug_msg("   lloyd escaped");
+               // lloyd's gone
+               set_escape(escape_betrayed);
+               display_mstr(1002);
+               check_set_obj_visiblility(self_obj, true);
+               set_destroy_me;
+            end
+         end else begin
+            debug_msg("   lloyd came with you");
+            check_set_obj_visiblility(self_obj, false);
+            Face_Critter(dude_obj,self_obj);
+            Face_Critter(self_obj,dude_obj);
+            display_mstr(1000);
+         end
+      end
+      nr_add_timer_event_rand(self_obj, 10, 17, float_param);
+   end
+   debug_msg("LLOYD MAP ENTER exit");
+end
+
+procedure map_update_p_proc begin
+   if ((dude_strength) >= (self_strength)) then begin
+      if ( ((elevation(dude_obj)) == (elevation(self_obj))) and (prev_node == 947) ) then begin
+         display_msg(mstr(1053));
+         prev_node :=0;
+      end
+   end
+   
+   
+   if (init_golgatha) then begin
+      if (Lloyd_In_Party) then begin
+         set_self_abandon_party;
+         nr_add_timer_event_tic(self_obj, 0, force_talk_param);
+      end
+   end
+   if (destroy_me) then begin
+      if (self_visible == false) then begin
+         destroy_object(self_obj);
+      end
+   end
+end
+
+procedure critter_p_proc begin
+   //added by killap
+   if (get_escape(escape_betrayed)) then begin
+      if (anim_busy(self_obj) == false) then begin
+         set_obj_visibility(self_obj, 1); //invisible
+      end
+   end
+   //end added by killap
+   
+   if (remove_lloyd) then begin
+      gfade_in(0);
+      debug_msg("remove_lloyd in critter_p_proc");
+      
+      if ((dude_strength) < (self_strength)) then begin
+         if ( (local_var(LVAR_Attack) == 1) and not((hostile)) ) then begin
+            floater(1054);
+            attack(dude_obj);
+         end else if (local_var(LVAR_Attack) != 1) then begin
+           set_local_var(LVAR_Attack,1);
+           floater(1054);
+           attack(dude_obj);
+         end
+      end
+      else begin
+      //added by killap
+         if (prev_node == 947) then
+            set_obj_visibility(self_obj, 1); //invisible
+      //end added by killap
+         else if (anim_busy(self_obj) == false) then begin
+            //anim_move_to_point_rate(33105, 5)
+            anim_move_to_point_rate(map_exit_tile, 5)
+         //end else if (anim_busy(self_obj) == false) then begin
+         //  destroy_object(self_obj);
+         end
+      end
+
+      //if (self_visible) then begin
+            //check_set_obj_visiblility(self_obj, true);
+       
+      //end
+      //destroy_object(self_obj);
+   end else if ((lloyd_in_golgatha) and (bomb_lloyd)) then begin
+      dude_floater(706);
+      explosion(self_tile, self_elevation, 666);
+      call destroy_p_proc;
+      kill_critter(self_obj, ANIM_exploded_to_nothing_sf);
+   end else if (self_can_see_dude) then begin
+      if ((hostile) or (lloyd_traps)) then begin
+         //added check since his script crashes if he cannot see you when he is mad - killap
+         if (self_can_see_dude) then begin
+           self_attack_dude;
+         end
+      end else if (herebefore == false) then begin
+         dialogue_system_enter;
+      end else if ((lloyd_in_golgatha) and (get_escape(escape_follow))) then begin
+         call Node998;
+      end
+   end else if ((lloyd_in_golgatha) and (get_escape(escape_follow))) then begin
+      if (tile_distance(self_tile, map_exit_tile) <= 1) then begin
+         destroy_object(self_obj);
+      end else if (anim_busy(self_obj) == false) then begin
+         anim_move_to_point_rate(map_exit_tile, 3)
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   going_to_golgatha := false;
+   //added by killap
+   if ( (remove_lloyd) and (local_var(LVAR_Attack) != 1) ) then begin
+      floater(1052);
+   end
+   //end added by killap
+   
+   //added by killap
+   if ((hostile)) then begin
+      //added check since his script crashes if he cannot see you when he is mad - killap
+      if (self_can_see_dude) then begin
+        self_attack_dude;
+      end
+   //end added
+   end else if (lloyd_in_new_reno) then begin
+      if (lloyd_run) then begin
+         start_dialog_at_node(Node035);
+      end else begin
+         start_dialog_at_node(Node002);
+      end
+   end else begin
+      if (get_escape(escape_follow)) then begin
+         call Node998;
+      end else if (did_golgatha_speech == false) then begin
+         set_did_golgatha_speech;
+         start_dialog_at_node(Node103);
+      end
+   end
+   set_herebefore;
+   nr_add_timer_event_rand(self_obj, 5, 30, float_param);
+   if (going_to_golgatha) then call go_golgatha;
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+   set_lloyd_dead;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(151);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (examined) then begin
+      display_mstr_rand(151, 152);
+   end else begin
+      display_mstr(150);
+   end
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure go_golgatha begin
+   gfade_out(0);
+   off_lloyd_run;
+   party_add_self;
+   load_map(MAP_NEW_RENO_GOLGATHA,0);
+end
+
+procedure Node998 begin
+   if (hostile == false) then begin
+      set_hostile;
+   end
+end
+procedure Node999 begin
+end
+procedure Node981 begin
+   //added by killap
+   if ( (prev_node == 22) or (prev_node == 964) ) then
+      set_escape(escape_half);
+   else if (prev_node == 963) then
+      set_escape(escape_all);
+   else if (get_escape(escape_none)) then
+      set_escape(escape_threaten);
+   //end added
+   
+   going_to_golgatha := true;
+end
+procedure Node979 begin
+   if ((dude_strength > 5) or (dude_wearing_power_armor) or (dude_wearing_combat_armor) or (true_party_size > 0) or (has_trait(TRAIT_TRAIT, dude_obj, TRAIT_bruiser)) or (has_trait(TRAIT_OBJECT , dude_obj, TRAIT_kamikaze)) or (has_rep_berserker)) then begin //was (has_trait(TRAIT_OBJECT, dude_obj, TRAIT_bruiser)) - killap 
+      call Node006;
+   end else begin
+      call Node005;
+   end
+end
+procedure Node978 begin
+   if (small_karma == false) then begin
+      set_small_karma;
+      inc_general_rep(REP_BONUS_NEW_RENO_INSULT_LLOYD);
+   end
+   call Node007;
+end
+procedure Node977 begin
+   if ((dude_strength > 5) or (dude_wearing_power_armor) or (dude_wearing_combat_armor) or (true_party_size > 0) or (has_trait(TRAIT_TRAIT, dude_obj, TRAIT_bruiser)) or (has_trait(TRAIT_OBJECT , dude_obj, TRAIT_kamikaze)) or (has_rep_berserker)) then begin //was (has_trait(TRAIT_OBJECT, dude_obj, TRAIT_bruiser)) - killap 
+      call Node008;
+   end else begin
+      call Node007;
+   end
+end
+procedure Node976 begin
+   if (small_karma == false) then begin
+      set_small_karma;
+      inc_general_rep(REP_BONUS_NEW_RENO_INSULT_LLOYD);
+   end
+   if (self_caps > 0) then begin
+      call Node009;
+   end else begin
+      call Node010;
+   end
+end
+procedure Node975 begin
+   if (self_caps > 0) then begin
+      call Node011;
+   end else begin
+      call Node014;
+   end
+end
+procedure Node974 begin
+   if (small_karma == false) then begin
+      set_small_karma;
+      inc_general_rep(REP_BONUS_NEW_RENO_INSULT_LLOYD);
+   end
+   call Node014;
+end
+procedure Node973 begin
+   if (medium_karma == false) then begin
+      set_medium_karma;
+      inc_general_rep(REP_BONUS_NEW_RENO_THREATEN_LLOYD);
+   end
+   call Node998;
+end
+procedure Node972 begin
+   gfade_out(0);
+      set_remove_lloyd;
+      floater(1051);
+   //anim_move_to_point_rate(map_exit_tile, 5) //test
+      
+end
+procedure Node971 begin
+   set_escape(escape_follow);
+   call Node981;
+end
+procedure Node970 begin
+   set_lloyd_run;
+end
+procedure Node969 begin
+   call Node981;
+end
+procedure Node968 begin
+   if (small_karma == false) then begin
+      set_small_karma;
+      inc_general_rep(REP_BONUS_NEW_RENO_INSULT_LLOYD);
+   end
+   call Node020;
+end
+procedure Node967 begin
+   set_escape(escape_bodyguard);
+   call Node981;
+end
+procedure Node964 begin
+   //set_escape(escape_half); --comment out by killap
+   prev_node := 964; //added by killap
+   call Node027;
+end
+procedure Node963 begin
+   //set_escape(escape_all); --comment out by killap
+   prev_node := 963; //added by killap
+   call Node027;
+end
+procedure Node959 begin
+   if (extra_karma == false) then begin
+      set_extra_karma;
+      inc_general_rep(REP_BONUS_NEW_RENO_HELP_LLOYD);
+   end
+
+   call Node972;
+end
+procedure Node958 begin
+   off_lloyd_run;
+   call Node981;
+end
+// golgatha extra nodes
+procedure Node950 begin
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_TRAPS,0))) or ((has_skill(dude_obj, SKILL_TRAPS) > 50) and (dude_iq >= 7))) then begin //was SKILL_SNEAK - killap
+      call Node107;
+   end else begin
+      call Node108;
+   end
+end
+procedure Node949 begin
+   nr_add_timer_event(new_reno_lloyd_grave_obj, 0, blow_up_grave_param);
+   set_hostile;
+   nr_add_timer_event(self_obj, 1, attack_param);
+end
+procedure Node948 begin
+   if ((has_skill(dude_obj, SKILL_TRAPS) > 50) or (is_success(roll_vs_skill(dude_obj,SKILL_TRAPS,0)))) then begin
+      call Node109;
+   end else begin
+      call Node949;
+   end
+end
+procedure Node947 begin
+//   set_lloyd_traps; - comment out by killap
+   //critter_attempt_placement(dude_obj, under_grave_tile_dude, 1);
+   move_to(dude_obj, under_grave_tile_dude, 1);
+   
+   //added by killap
+   set_remove_lloyd;
+   prev_node := 947;
+   //endadded by killap
+end
+procedure Node946 begin
+   inc_general_rep(REP_BONUS_NEW_RENO_BOMB_LLOYD);
+   set_bomb_lloyd;
+   remove_pid_qty(dude_obj, PID_PLASTIC_EXPLOSIVES, 1)
+   critter_attempt_placement(self_obj, under_grave_tile_lloyd, 1);
+end
+procedure Node945 begin
+   //critter_attempt_placement(dude_obj, under_grave_tile_dude, 1);
+   move_to(dude_obj, under_grave_tile_dude, 1);
+   critter_attempt_placement(self_obj, under_grave_tile_lloyd, 1);
+   floater(1054); //added by killap
+   nr_add_timer_event(self_obj, 0, attack_param);
+end
+procedure Node944 begin
+   check_set_obj_visiblility(self_obj, true);
+   set_escape(escape_betrayed);
+   set_remove_lloyd;
+end
+procedure Node942 begin
+   set_lloyd_traps;
+end
+procedure Node941 begin
+   if (dude_strength) >= (self_strength) then begin//added by killap
+      display_mstr(1050);
+      call Node959;  //killap's fix: was Node972
+   end else begin
+      gfade_out(0);
+      set_remove_lloyd;
+   end
+end
+procedure Node940 begin
+   set_escape(escape_betrayed);
+   set_remove_lloyd;
+end
+
+procedure Node001 begin
+   floater(200);
+end
+procedure Node002 begin
+   Reply(210 + (herebefore));
+   BOption(212, Node003, -003);
+   BOption(mstr(213) + dude_name + mstr(5213) + dude_name + mstr(5213) + dude_name + mstr(7213), Node004, -003);
+   NOption(214, Node999, -003);
+   if (get_track_lloyd(track_lloyd_assigned)) then begin
+      BOption(217, Node023, 004);
+   end else begin
+      BOption(215, Node004, 004);
+      if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_CONVERSANT) > 75) or (dude_smooth_talker)) then begin
+         NOption(216, Node004, 005);
+      end
+   end
+   NOption(218, Node999, 004);
+   prev_node := 2;
+end
+procedure Node003 begin
+   Reply(225);
+   NOption(226, Node999, -003);
+   prev_node := 3;
+end
+procedure Node004 begin
+   Reply(230);
+   NOption(231, Node999, -003);
+   NOption(232, Node999, -003);
+   BOption(233, Node979, 004);
+   if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_CONVERSANT) > 75) or (dude_smooth_talker)) then begin
+      GOption(234, Node018, 005);
+   end
+   BOption(235, Node978, 006);
+   NOption(261, Node999, 004);
+   prev_node := 4;
+end
+procedure Node005 begin
+   Reply(mstr(245) + mstr(246 + dude_is_female));
+   BOption(248, Node977, 004);
+   if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_CONVERSANT) > 75) or (dude_smooth_talker)) then begin
+      GOption(234, Node018, 005);
+   end
+   BOption(235, Node978, 006);
+   NOption(236, Node999, 004);
+   prev_node := 5;
+end
+procedure Node006 begin
+   Reply(255 + (dude_is_female * (1 + (dude_charisma > 5))));
+   BOption(258, Node976, 004);
+   if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_CONVERSANT) > 75) or (dude_smooth_talker)) then begin
+      GOption(234, Node018, 004);
+   end
+   BOption(260, Node978, 004);
+   NOption(261 + ((dude_is_female) and (dude_charisma > 5)), Node999, 004);
+   prev_node := 6;
+end
+procedure Node007 begin
+   Reply(mstr(270) + mstr(271 + dude_is_female) + mstr(273));
+   BOption(274, Node998, 004);
+   prev_node := 7;
+end
+procedure Node008 begin
+   Reply(283);
+   BOption(284, Node976, 004);
+   if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_CONVERSANT) > 75) or (dude_smooth_talker)) then begin
+      GOption(285, Node018, 004);
+   end
+   BOption(286, Node978, 004);
+   NOption(287, Node999, 004);
+   prev_node := 8;
+end
+procedure Node009 begin
+   Reply(295);
+   NOption(296, Node975, 004);
+   NOption(297, Node999, 004);
+   BOption(298, Node998, 004);
+   prev_node := 9;
+end
+procedure Node010 begin
+   Reply(305);
+   BOption(306, Node998, 004);
+   prev_node := 10;
+end
+procedure Node011 begin
+   Reply(315);
+   NOption(316, Node012, 004);
+   BOption(298, Node998, 004);
+   NOption(318, Node999, 004);
+   prev_node := 11;
+end
+procedure Node012 begin
+   item_caps_adjust(dude_obj, self_caps);
+   item_caps_adjust(self_obj, -self_caps);
+   Reply(325);
+   BOption(326, Node013, 004);
+   BOption(327, Node998, 004);
+   NOption(328, Node999, 004);
+   prev_node := 12;
+end
+procedure Node013 begin
+   Reply(335);
+   BOption(336, Node974, 006);
+   BOption(337, Node973, 004);
+   NOption(328, Node999, 004);
+   prev_node := 13;
+end
+procedure Node014 begin
+   Reply(345 + (prev_node != 13));
+   NOption(347, Node015, 004);
+   BOption(348, Node973, 004);
+   BOption(349, Node999, 004);
+   prev_node := 14;
+end
+procedure Node015 begin
+   set_golgotha_known
+   Reply(355);
+   NOption(446, Node017, 006);
+   NOption(357, Node016, 005);
+   BOption(358, Node973, 004);
+   BOption(359, Node999, 004);
+   prev_node := 15;
+end
+procedure Node016 begin
+   set_lloyd_treasure;
+   set_escape(escape_threaten);
+   Reply(365);
+   BOption(366, Node017, 006);
+   NOption(367, Node941, 004);
+   BOption(368, Node973, 004);
+   prev_node := 16;
+end
+procedure Node017 begin
+   Reply(375);
+   if ((has_skill(dude_obj, SKILL_SNEAK) > 75) or (is_skill_tagged(SKILL_SNEAK))) then begin
+      NOption(376, Node971, 006);
+   end
+   NOption(377, Node970, 004);
+   NOption(378, Node981, 004);
+   prev_node := 17;
+end
+procedure Node018 begin
+   Reply(385 + (dude_is_female * (1 + (dude_charisma > 5))));
+   NOption(388, Node036, 004);
+   prev_node := 18;
+end
+procedure Node019 begin
+   set_salvatore_known
+   Reply(395);
+   BOption(396, Node021, 006);
+   GOption(397, Node020, 004);
+   NOption(398, Node968, 004);
+   NOption(399, Node999, 004);
+   prev_node := 19;
+end
+procedure Node020 begin
+   Reply(405);
+   BOption(396, Node021, 006);
+   NOption(407, Node967, 004);
+   NOption(399, Node999, 004);
+   prev_node := 20;
+end
+procedure Node021 begin
+   Reply(415 + ((dude_is_female) and (dude_charisma > 5)));
+   BOption(417, Node022, 006);
+   NOption(418, Node022, 006);
+   NOption(419, Node967, 004);
+   NOption(420, Node999, 004);
+   prev_node := 21;
+end
+procedure Node022 begin
+   //set_escape(escape_half);
+   Reply(425);
+   NOption(378, Node981, 004);
+   NOption(427, Node970, 004);
+   prev_node := 22;
+end
+procedure Node023 begin
+   Reply(435 + ((dude_is_female) and (dude_charisma > 5)));
+   BOption(437, Node024, 004);
+   NOption(438, Node025, 005);
+   if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_CONVERSANT) > 75) or (dude_smooth_talker)) then begin
+      NOption(439, Node026, 006);
+   end
+   prev_node := 23;
+end
+procedure Node024 begin
+   set_golgotha_known
+   set_escape(escape_threaten);
+   Reply(445);
+   NOption(446, Node017, 006);
+   NOption(357, Node016, 004);
+   BOption(448, Node973, 004);
+   BOption(359, Node999, 004);
+   prev_node := 24;
+end
+procedure Node025 begin
+   set_golgotha_known
+   set_escape(escape_threaten);
+   Reply(455);
+   NOption(446, Node017, 006);
+   NOption(357, Node016, 004);
+   BOption(448, Node973, 004);
+   BOption(459, Node999, 004);
+   prev_node := 25;
+end
+procedure Node026 begin
+   Reply(465);
+   NOption(466, Node964, 006);
+   BOption(467, Node963, 006);
+   if ((has_skill(dude_obj, SKILL_SNEAK) > 75) or (is_skill_tagged(SKILL_SNEAK))) then begin
+      GOption(468, Node981, 006);
+   end
+   NOption(469, Node999, 004);
+   prev_node := 26;
+end
+procedure Node027 begin
+   Reply(475);
+   if ((has_skill(dude_obj, SKILL_SNEAK) > 75) or (is_skill_tagged(SKILL_SNEAK))) then begin
+      NOption(476, Node971, 006);
+   end
+   NOption(477, Node970, 004);
+   NOption(478, Node981, 004);
+   //prev_node := 27; --comment out by killap
+end
+procedure Node035 begin
+   Reply(555);
+   NOption(556, Node958, 004);
+   NOption(557, Node999, 004);
+   prev_node := 35;
+end
+procedure Node036 begin
+   Reply(565);
+   NOption(566, Node019, 004);
+   BOption(399, Node999, 004);
+   prev_node := 36;
+end
+// golgotha script
+procedure Node101 begin
+   floater_afraid(585 + local_var(LVAR_Last_Message));
+   inc_local_var(LVAR_Last_Message);
+   if (local_var(LVAR_Last_Message) >= 3) then begin
+      set_local_var(LVAR_Last_Message, 0);
+   end
+end
+procedure Node102 begin
+   floater_afraid(595 + local_var(LVAR_Last_Message));
+   inc_local_var(LVAR_Last_Message);
+   if (local_var(LVAR_Last_Message) >= 2) then begin
+      set_local_var(LVAR_Last_Message, 0);
+   end
+end
+procedure Node103 begin
+   Reply(605);
+   BOption(606, Node104, 004);
+   NOption(607, Node950, 004);
+   NOption(609, Node949, 004);
+   BOption(610, Node114, 004);
+   prev_node := 103;
+end
+procedure Node104 begin
+   Reply(615 + (get_escape(escape_bodyguard) == false));
+   BOption(617, Node105, 004);
+   NOption(607, Node950, 004);
+   BOption(620, Node949, 004);
+   prev_node := 104;
+end
+procedure Node105 begin
+   if (prev_node == 109) then begin
+      Reply(625);
+      BOption(627, Node106, 004);
+   end else begin
+      give_pid_qty(dude_obj, PID_PLASTIC_EXPLOSIVES, 1)
+      nr_add_timer_event(new_reno_lloyd_grave_obj, 0, disarm_grave_param);
+      Reply(626);
+      BOption(628, Node106, 004);
+   end
+   prev_node := 105;
+end
+procedure Node106 begin
+   gfade_out(ONE_GAME_SECOND);
+      game_time_advance(ONE_GAME_MINUTE * 30);
+   gfade_in(ONE_GAME_SECOND);
+   nr_add_timer_event(new_reno_lloyd_grave_obj, 0, open_grave_param);
+   Reply(635 + (prev_node != 105));
+   NOption(637, Node110, 004);
+   BOption(638, Node110, 004);
+   prev_node := 106;
+end
+procedure Node107 begin
+   Reply(645);
+   BOption(646, Node104, 004);
+   NOption(647, Node948, 007);
+   NOption(648, Node949, 004);
+   BOption(610, Node114, 004);
+   prev_node := 107;
+end
+procedure Node108 begin
+   Reply(655);
+   BOption(646, Node104, 004);
+   NOption(648, Node949, 004);
+   BOption(610, Node114, 004);
+   prev_node := 108;
+end
+procedure Node109 begin
+   nr_add_timer_event(new_reno_lloyd_grave_obj, 0, disarm_grave_param);
+   give_pid_qty(dude_obj, PID_PLASTIC_EXPLOSIVES, 1)
+   Reply(665);
+   BOption(666, Node998, 004);
+   BOption(667, Node105, 004);
+   BOption(668, Node106, 004);
+   BOption(610, Node114, 004);
+   prev_node := 109;
+end
+procedure Node110 begin
+   Reply(675);
+   NOption(676, Node111, 004);
+   NOption(677, Node947, 004);
+   prev_node := 110;
+end
+procedure Node111 begin
+   critter_attempt_placement(self_obj, under_grave_tile_lloyd, 1);
+   Reply(685);
+   NOption(686, Node112, 004);
+   BOption(687, Node946, 004);
+   NOption(688, Node945, 004);
+   prev_node := 111;
+end
+procedure Node112 begin
+   Reply(695);
+   NOption(696, Node940, 004);
+   BOption(687, Node946, 004);
+   NOption(698, Node945, 004);
+   prev_node := 112;
+end
+procedure Node114 begin
+   Reply(715);
+   NOption(716, Node941, 004);   //was Node942 - killap
+   BOption(717, Node998, 004);
+   prev_node := 114;
+end

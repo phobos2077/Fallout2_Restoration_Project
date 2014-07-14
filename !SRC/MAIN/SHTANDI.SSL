@@ -1,0 +1,902 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Tandi
+        Location: NCR1.MAP
+        Description: Script for Tandi in the NCR area.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: April 03, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\ncr2.h"
+
+#define NAME                    SCRIPT_SHTANDI
+#define TOWN_REPUTATION			global_var(GVAR_TOWN_REP_NCR)
+
+#ifndef MORESTRING
+#define MORESTRING    290
+#endif
+#define DONESTRING    291
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#include "..\headers\ncr.h"
+#include "..\headers\newreno.h"
+#include "..\headers\v13.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node033a;
+procedure Node033b;
+procedure Node034;
+procedure Node034a;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node040a;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+procedure Node046;
+procedure Node047;
+procedure Node048;
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Talked_Tandi               (7)
+#define LVAR_Job_Offered                (8)
+#define LVAR_Tandi_Node24               (9)
+#define LVAR_Tandi_Node37               (10)
+#define LVAR_Node002_Count              (11)
+#define LVAR_Node7_Rep                  (12)
+#define LVAR_Tandi_Done                 (13)
+#define LVAR_Tandi_Node32               (14) //added by killap
+
+#define TANDI_HOLO_PID PID_NCR_HISTORY_HOLODISK
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable begin
+   q1 := 0;
+   q2 := 0;
+   q3 := 0;
+   q4 := 0;
+   q5 := 0;
+   q6 := 0;
+   q7 := 0;
+
+   n14Rep := 0;
+end
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_TANDI);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       self_attack_dude;
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+       set_ncr_flag(NCR_GUARD_ENEMY);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_TOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION1;
+
+   CheckKarma;
+
+   GetReaction;
+
+   ReactToLevel; //added by killap
+   //WTG
+   set_local_var(LVAR_Talked_Tandi,1);//added by killap
+   
+   if (NCR_ENEMY) then
+      set_local_var(LVAR_Hostile, 2);
+
+   if (local_var(LVAR_Hostile)) then begin
+      start_gdialog(NAME, self_obj, 4, HEAD_TANDI, BACKGROUND_ADOBE);
+      gSay_Start;
+         call Node047;
+      gSay_End;
+      end_dialogue;
+   end else if (global_var(GVAR_NCR_TANDI_JOB_ACCEPT) == TJOB_ACCEPT) then begin
+      start_gdialog(NAME, self_obj, 4, HEAD_TANDI, BACKGROUND_ADOBE);
+      gSay_Start;
+         call Node040;
+      gSay_End;
+      end_dialogue;
+   // added by killap
+   end else if ((global_var(GVAR_NCR_V15_DARION_DEAL) == 1) and (global_var(GVAR_V15_NCR_DEAL) != 2)) then begin
+      start_gdialog(NAME, self_obj, 4, HEAD_TANDI, BACKGROUND_ADOBE);
+      gSay_Start;
+         call Node040a;
+      gSay_End;
+      end_dialogue;      
+   // end added
+   end else if (global_var(GVAR_NCR_TANDI_JOB_ACCEPT) == TJOB_DONE or local_var(LVAR_Tandi_Done)) then begin
+      call Node048;
+   end else if (local_var(LVAR_Job_Offered)) then begin
+      start_gdialog(NAME, self_obj, 4, HEAD_TANDI, BACKGROUND_ADOBE);
+      gSay_Start;
+         call Node039;
+      gSay_End;
+      end_dialogue;
+   end else if (good_critter_reaction) then begin
+      start_gdialog(NAME, self_obj, 4, HEAD_TANDI, BACKGROUND_ADOBE);
+      gSay_Start;
+         call Node038;
+      gSay_End;
+      end_dialogue;
+   end else if (global_var(GVAR_NCR_BEAT_HOSS) == 1) then begin
+      start_gdialog(NAME, self_obj, 4, HEAD_TANDI, BACKGROUND_ADOBE);
+      gSay_Start;
+         call Node037;
+      gSay_End;
+      end_dialogue;
+   end else begin
+      start_gdialog(NAME, self_obj, 4, HEAD_TANDI, BACKGROUND_ADOBE);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+      end_dialogue;
+      if (map_var(MVAR_Tandi_Talked) == 0) then
+         set_map_var(MVAR_Tandi_Talked, 1);
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   //if (LVAR_Talked_Tandi) then
+   if (local_var(LVAR_Talked_Tandi)) then //edit by killap
+      display_msg(mstr(101));
+   else
+      display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+procedure checkSpyHolo begin
+   if (dude_item(SPY_HOLO_PID)) then
+      return 1;
+   return 0;
+end
+
+procedure checkVaultParts begin
+   if (obj_is_carrying_obj_pid(dude_obj, VAULTPARTS) > 0) then
+      return 1;
+   return 0;
+end
+
+procedure TakeParts begin
+   variable obj;
+
+   obj := obj_carrying_pid_obj(dude_obj, VAULTPARTS);
+   if (obj) then begin
+      rm_obj_from_inven(dude_obj, obj);
+      destroy_object(obj);
+   end
+end
+
+procedure Node006a begin
+   set_global_var(GVAR_NCR_TANDI_JOB_ACCEPT, TJOB_ACCEPT);
+   set_map_var(MVAR_Tandi_reward, 1);
+   call Node006;
+end
+
+procedure Node007a begin
+   set_global_var(GVAR_NCR_TANDI_JOB_ACCEPT, TJOB_ACCEPT);
+   set_map_var(MVAR_Tandi_pay, 1);
+   call Node007;
+end
+
+
+procedure Node1215a begin
+   q3 := 1;
+   dude_wearing_vault_suit
+      call Node012;
+   else
+      call Node015;
+end
+
+procedure Node008a begin
+   q1 := 1;
+   call Node008;
+end
+
+procedure Node010a begin
+   q2 := 1;
+   call Node010;
+end
+
+procedure Node017a begin
+   q4 := 1;
+   call Node017;
+end
+
+procedure Node018a begin
+   q5 := 1;
+   call Node018;
+end
+
+procedure Node022a begin
+   q6 := 1;
+   call Node022;
+end
+
+procedure Node023a begin
+   q7 := 1;
+   call Node023;
+end
+
+procedure Node001 begin
+   Reply(103);
+
+   if ((has_skill(dude_obj, SKILL_SMALL_GUNS) > 70) or
+       (has_skill(dude_obj, SKILL_BIG_GUNS) > 70) or
+       (has_skill(dude_obj, SKILL_ENERGY_WEAPONS) > 70)) then begin
+      NLowOption(104, Node002);
+      NOption(110, Node002, 4);
+   end
+   if ((has_skill(dude_obj, SKILL_CONVERSANT) > 60)) then begin
+      GLowOption(105, Node003);
+      NOption(111, Node003, 4);
+   end
+   if ((has_skill(dude_obj, SKILL_UNARMED_COMBAT) > 60)) then begin
+      NLowOption(106, Node002);
+      NOption(112, Node002, 4);
+   end
+   if ((has_skill(dude_obj, SKILL_SNEAK) > 60)) then begin
+      NLowOption(107, Node002);
+      NOption(113, Node002, 4);
+   end
+   NLowOption(108, Node002);
+   BLowOption(109, Node002);
+   NOption(114, Node002, 4);
+   NOption(115, Node002, 4);
+end
+
+procedure Node002 begin
+   Reply(116);
+   NLowOption(117, Node004);
+   NLowOption(118, Node003);
+   NOption(119, Node004, 4);
+   NOption(120, Node003, 4);
+end
+
+procedure NodeCheck521 begin
+   if (is_success(roll_vs_skill(dude_obj, SKILL_CONVERSANT, 0))) then begin
+      call Node005;
+   end else begin
+      call Node021;
+   end
+end
+
+procedure Node003 begin
+   UpReactTiny;
+   Reply(121);
+   NLowOption(122, Node004);
+   NOption(123, Node004, 4);
+end
+
+procedure Node033a begin
+   set_map_var(MVAR_Tandi_reward, 1);
+   call Node033;
+end
+
+procedure Node034a begin
+   set_map_var(MVAR_Tandi_reward, 1);
+   call Node034;
+end
+
+procedure Node004 begin
+   set_local_var(LVAR_Job_Offered, 1);
+   Reply(124);
+   NLowOption(125, Node005);
+   NLowOption(126, Node006a);
+   if (global_var(GVAR_NCR_V15_DARION_DEAL) == 1 and not checkVaultParts) then begin
+      NLowOption(127, Node033a);
+      NOption(133, Node033a, 4);
+   end
+   if (global_var(GVAR_NCR_V15_DARION_DEAL) == 0 and checkVaultParts) then begin
+      NLowOption(128, Node034a);
+      NOption(134, Node034a, 4);
+   end
+   if (global_var(GVAR_NCR_V15_DARION_DEAL) == 1 and checkVaultParts) then begin
+      NLowOption(129, Node033a);
+      NOption(135, Node033a, 4);
+   end
+   NOption(130, Node005, 4);
+   NOption(131, Node006a, 4);
+   NOption(132, Node036, 4);
+end
+
+procedure Node005 begin
+   Reply(136);
+   NOption(137, Node999, 1);
+end
+
+procedure Node006 begin
+   if (dude_iq > 3) then begin
+      Reply(138);
+   end else begin
+      Reply(139);
+   end
+   NLowOption(140, Node999);
+   NLowOption(141, Node007);
+   NOption(142, Node999, 4);
+   NOption(143, Node007, 4);
+end
+
+procedure Node007 begin
+   if (local_var(LVAR_Node7_Rep) == 0) then begin
+      set_local_var(LVAR_Node7_Rep, 1);
+      Reply(144);
+   end else begin
+      Reply(145);
+   end
+
+   if (not q1) then begin
+      NLowOption(146, Node008a);
+      NOption(156, Node008a, 4);
+   end
+   if (not q2) then begin
+      NLowOption(147, Node010a);
+      NOption(157, Node010a, 4);
+   end
+   if (not q3) then begin
+      NLowOption(148, Node1215a);
+      NOption(158, Node1215a, 4);
+   end
+   if (not q4) then begin
+      NLowOption(149, Node017a);
+      NOption(159, Node017a, 4);
+   end
+   if (not q5) then begin
+      NLowOption(150, Node018a);
+      NOption(160, Node018a, 4);
+   end
+   if (not q6 and q1 and get_westin_flag(WESTIN_ACCEPT_SNUFF) and (not westin_dead) ) then begin //edit by killap - (not westin_dead)
+      NLowOption(151, Node022a);
+      NOption(161, Node022a, 4);
+   end
+   if (not q7 and q2 and get_carlson_flag(CARLSON_ACCEPT_SNUFF) and (not carlson_dead) ) then begin //edit by killap - (not carlson_dead)
+      NLowOption(152, Node023a);
+      NOption(162, Node023a, 4);
+   end
+   NLowOption(153, Node027);
+   NLowOption(154, Node031);
+   NLowOption(155, Node999);
+   NOption(163, Node027, 4);
+   NOption(164, Node031, 4);
+   NOption(165, Node999, 4);
+end
+
+
+procedure Node008 begin
+   Reply(166);
+   NLowOption(167, Node009);
+   NOption(168, Node009, 4);
+end
+
+procedure Node009 begin
+   Reply(169);
+   NLowOption(170, Node007);
+   NOption(171, Node007, 4);
+end
+
+procedure Node010 begin
+   Reply(172);
+   NLowOption(173, Node011);
+   NOption(174, Node011, 4);
+end
+
+procedure Node011 begin
+   Reply(175);
+   NLowOption(176, Node007);
+   NOption(177, Node007, 4);
+end
+
+procedure Node012 begin
+   Reply(178);
+   NLowOption(179, Node013);
+   NOption(180, Node013, 4);
+end
+
+procedure Node013 begin
+   Reply(181);
+   NOption(182, Node014, 1);
+end
+
+procedure Node014 begin
+   if (n14Rep == 0) then begin
+      n14Rep := 1;
+      Reply(183);
+      NOption(message_str(SCRIPT_GENERIC, 352), Node014, 1);
+   end else begin
+      n14Rep := 0;
+      Reply(315);
+      NLowOption(184, Node007); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
+      NOption(185, Node007, 4);
+   end
+end
+
+procedure Node015 begin
+   Reply(186);
+   NLowOption(187, Node016);
+   NLowOption(188, Node013);
+   NLowOption(189, Node007);
+   NOption(190, Node016, 4);
+   NOption(191, Node013, 4);
+   NOption(192, Node007, 4);
+end
+
+procedure Node016 begin
+   Reply(193);
+   NLowOption(194, Node013);
+   NLowOption(195, Node007);
+   NOption(196, Node013, 4);
+   NOption(197, Node007, 4);
+end
+
+procedure Node017 begin
+   Reply(198);
+   NLowOption(199, Node007);
+   NOption(200, Node007, 4);
+end
+
+procedure Node018 begin
+   Reply(201);
+
+   if (bishop_known) then begin
+      NLowOption(202, Node019);
+      NOption(205, Node019, 4);
+   end
+   NLowOption(203, Node021);
+   NLowOption(204, Node007);
+   NOption(206, Node021, 4);
+   NOption(207, Node007, 4);
+end
+
+procedure Node019 begin
+   Reply(208);
+   NLowOption(209, Node020);
+   NLowOption(210, Node007);
+   NOption(211, Node020, 4);
+   NOption(212, Node007, 4);
+end
+
+procedure Node020 begin
+   Reply(213);
+   NLowOption(214, Node007);
+   NOption(215, Node007, 4);
+end
+
+procedure Node021 begin
+   Reply(216);
+   NLowOption(217, Node007);
+   if ( (not know_westin) and (not get_westin_flag(WESTIN_DEAD)) ) then begin
+      NLowOption(218, Node022);
+      NOption(220, Node022, 4);
+   end
+   NOption(219, Node007, 4);
+end
+
+procedure Node022 begin
+   set_know_westin;
+   Reply(221);
+   NOption(222, Node007, 1);
+end
+
+procedure Node023 begin
+   Reply(223);
+   if (not get_westin_flag(WESTIN_DEAD)) then begin
+      NLowOption(224, Node024);
+      NOption(226, Node024, 4);
+   end else begin
+      NLowOption(225, Node025);
+      NOption(227, Node024, 4);
+   end
+end
+
+procedure Node024 begin
+   Reply(228);
+   NOption(229, NOde026, 1);
+end
+
+procedure Node025 begin
+   //Reply(230);
+   Reply(231); //edit by killap - was 230
+   //NLowOption(231, Node007); --comment out
+   NOption(232, Node007, 1);
+end
+
+procedure Node026 begin
+   Reply(233);
+   NLowOption(234, Node007);
+   NOption(235, Node007, 4);
+end
+
+procedure Node027 begin
+   Reply(236);
+   NLowOption(237, Node028);
+   NOption(238, Node028, 4);
+end
+
+procedure Node028 begin
+   Reply(239);
+   NLowOption(240, Node029); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
+   NOption(241, Node029, 4);
+end
+
+procedure Node029 begin
+   Reply(242);
+   NLowOption(243, Node030);
+   NOption(244, Node030, 4);
+end
+
+procedure Node030 begin
+   Reply(245);
+   NLowOption(246, Node011);
+   NOption(247, Node011, 4);
+end
+
+procedure Node031 begin
+   Reply(248);
+   if (local_var(LVAR_Tandi_Node32) == 0) then begin //added check by killap
+      NLowOption(249, Node032);
+      NOption(251, Node032, 4);
+   end
+   NLowOption(250, Node007);
+   NOption(252, Node007, 4);
+end
+
+procedure Node032 begin
+   set_local_var(LVAR_Tandi_Node32,1);
+   //add_obj_to_inven(dude_obj, create_object_sid(TANDI_HOLO_PID, 0, 0, SCRIPT_SIHISHOL));
+   add_obj_to_inven(dude_obj, create_object_sid(TANDI_HOLO_PID, 0, 0, -1)); //edit by killap - this is now done through the dude_obj script; part of the too manly items fix
+   Reply(253);
+   NOption(254, Node007, 1);
+end
+
+procedure Node033 begin
+   set_global_var(GVAR_V15_NCR_DEAL, 2);
+   Reply(255);
+   NLowOption(256, Node034);
+   NOption(257, Node034, 4);
+end
+
+procedure Node033b begin
+   set_global_var(GVAR_V15_NCR_DEAL, 2);
+   Reply(255);
+   NLowOption(410, Node999);
+   NOption(411, Node999, 4);
+end
+
+procedure Node034 begin
+   set_local_var(LVAR_Tandi_Done, 1);
+   set_map_var(MVAR_Tandi_Talked, 2);
+   set_global_var(GVAR_NCR_TANDI_JOB_ACCEPT, TJOB_ACCEPT);
+   //set_global_var(GVAR_NCR_TANDI_JOB_ACCEPT, TJOB_DONE);
+   call TakeParts;
+   Reply(258);
+
+   if (checkSpyHolo) then begin
+      NLowOption(259, Node035);
+      NOption(261, Node035, 4);
+   end
+   if (GETDSTATUS) then begin //Vault 13 included
+      NLowOption(260, Node042);
+      NOption(262, Node042, 4);
+   end
+   NOption(263, Node999, 4);
+end
+
+procedure Node035 begin
+   Reply(264);
+   NLowOption(265, Node999);  // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
+   if (GETDSTATUS) then begin
+      NLowOption(266, Node042);
+      NOption(267, Node042, 4);
+   end
+   NOption(268, Node999, 4);
+end
+
+procedure Node036 begin
+   Reply(269);
+   NLowOption(270, Node007a);
+   NLowOption(271, Node005);
+   NOption(272, Node007a, 4);
+   NOption(273, Node005, 4);
+end
+
+
+procedure Node037 begin
+   if (dude_is_male) then begin
+      Reply(274);
+   end else begin
+      Reply(275);
+   end
+   NLowOption(276, Node004);
+   NOption(277, Node004, 4);
+end
+
+procedure Node038 begin
+   Reply(278);
+   NLowOption(279, Node004);
+   NOption(280, Node004, 4);
+end
+
+procedure Node039 begin
+   Reply(281);
+   NOption(282, Node005, 1);
+   NOption(283, Node006a, 1);
+end
+
+procedure Node040 begin
+   Reply(284);
+   if (global_var(GVAR_NCR_V15_DARION_DEAL) == 0 and not checkVaultParts) then begin
+      NLowOption(285, Node041);
+      NOption(289, Node041, 4);
+   end
+   if (global_var(GVAR_NCR_V15_DARION_DEAL) == 1 and not checkVaultParts) then begin
+      NLowOption(286, Node033);
+      NOption(290, Node033, 4);
+   end
+   if (global_var(GVAR_NCR_V15_DARION_DEAL) == 0 and checkVaultParts) then begin
+      NLowOption(287, Node034);
+      NOption(291, Node034, 4);
+   end
+   if (global_var(GVAR_NCR_V15_DARION_DEAL) == 1 and checkVaultParts) then begin
+      NLowOption(288, Node033);
+      NOption(292, Node033, 4);
+   end
+end
+
+procedure Node040a begin
+   Reply(301);
+   NLowOption(400, Node033b);
+   NOption(401, Node033b, 4);
+end
+
+procedure Node041 begin
+   Reply(293);
+   NOption(294, Node999, 1);
+end
+
+procedure Node042 begin
+   Reply(295);
+
+   if (not v13_status(FLG_GRUTHAR_DEAD)) then begin
+      NLowOption(296, Node043);
+      NOption(298, Node043, 4);
+   end else begin
+      GLowOption(297, Node045); // Seraph's Fix: GLowOption only takes 2 args. Thanks Rob!
+      NOption(299, Node045, 4);
+      BOption(300, Node046, 4);
+   end
+end
+
+procedure Node043 begin
+   Reply(301);
+   NLowOption(302, Node044);
+   NOption(303, Node044, 4);
+end
+
+procedure Node044 begin
+   if (dude_iq < 4) then begin
+      Reply(304);
+   end else begin
+      Reply(305);
+   end
+   NLowOption(306, Node999);
+   NOption(307, Node999, 4);
+end
+
+procedure Node045 begin
+   set_local_var(LVAR_Tandi_Done, 1);
+   set_map_var(MVAR_Tandi_Talked, 2);
+//   set_global_var(GVAR_NCR_TANDI_JOB_ACCEPT, TJOB_DONE);
+   set_map_var(MVAR_Vault_reward, 1);
+   call TakeParts;
+
+   Reply(308);
+   NOption(310, Node999, 1);
+end
+
+procedure Node046 begin
+   set_local_var(LVAR_Tandi_Done, 1);
+   set_map_var(MVAR_Tandi_Talked, 2);
+//   set_global_var(GVAR_NCR_TANDI_JOB_ACCEPT, TJOB_DONE);
+   set_map_var(MVAR_Vault_reward, 2);
+   call TakeParts;
+
+   Reply(311);
+   NOption(312, Node999, 4);
+end
+
+procedure Node047 begin
+   Reply(313);
+   NOption(314, Node999, 1);
+end
+
+procedure Node048 begin
+   float_msg(self_obj, mstr(316), FLOAT_MSG_NORMAL);
+//   Reply(316);
+//   ENDOPTION;
+end

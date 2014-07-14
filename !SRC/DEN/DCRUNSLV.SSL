@@ -1,0 +1,254 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_DCRUNSLV
+#include "..\headers\command.h"
+#include "..\headers\Den.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+procedure combat_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (0)
+#define LVAR_Type                         (1)
+#define LVAR_Home_Tile                    (2)
+
+#define saw_slaver_bit                    bit_10
+#define on_last_slave_run_bit             bit_11
+
+#define saw_slaver                        lvar_bit(LVAR_Flags, saw_slaver_bit)
+#define set_saw_slaver                    set_lvar_bit_on(LVAR_Flags, saw_slaver_bit)
+#define off_saw_slaver                    set_lvar_bit_off(LVAR_Flags, saw_slaver_bit)
+
+#define on_last_slave_run                 lvar_bit(LVAR_Flags, on_last_slave_run_bit)
+#define set_on_last_slave_run             set_lvar_bit_on(LVAR_Flags, on_last_slave_run_bit)
+
+#define set_club_me                       if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == false) then begin              \
+                                             if (club_slave_object == 0) then begin                                              \
+                                                off_slave_tagged;                                                                \
+                                                club_slave_object := self_obj;                                                   \
+                                             end else if ((critter_state(club_slave_object) bwand DAM_KNOCKED_DOWN) or (Current_Distance_From_Dude < tile_distance_objs(club_slave_object, dude_obj))) then begin    \
+                                                off_slave_tagged;                                                                \
+                                                club_slave_object := self_obj;                                                   \
+                                             end                                                                                 \
+                                          end else if (self_obj == club_slave_object) then begin                                 \
+                                             club_slave_object := 0;                                                             \
+                                          end
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+import variable club_slave_object;
+import variable slaver_1_obj;
+import variable slaver_2_obj;
+variable the_sound;
+
+procedure start begin
+end
+
+procedure combat_p_proc begin
+   set_club_me
+   if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
+      critter_set_flee_state(self_obj, true);
+   end
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == timed_event_float) then begin
+      if (random(1,3) == 1) then begin
+         if (combat_is_initialized == false) then begin
+            if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == false) then begin
+               if (slave_is_primitive) then begin
+                  floater_rand(270, 276);
+               end else begin
+                  floater_rand(280, 285);
+               end
+            end
+         end
+      end
+      flush_add_timer_event_sec(self_obj, random(10, 30), timed_event_float);
+      set_club_me
+   end else if (fixed_param == timed_event_wander) then begin
+      if (random(1,2) == 1) then begin
+         if (combat_is_initialized == false) then begin
+            if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == false) then begin
+               if (local_var(LVAR_Home_Tile) == 0) then begin
+                  set_local_var(LVAR_Home_Tile, self_tile);
+               end
+               if (tile_distance(self_tile, local_var(LVAR_Home_Tile)) > slave_leash_length) then begin
+                  animate_move_to_tile(tile_num_in_direction(self_tile, (self_cur_rot + random(5,7)) % 6, random(5, 10)));
+               end else begin
+                  animate_move_to_tile(tile_num_in_direction(self_tile, rotation_to_tile(self_tile, local_var(LVAR_Home_Tile)), random(5, 10)));
+               end
+            end
+         end
+      end
+      flush_add_timer_event_sec(self_obj, random(15, 60), timed_event_wander);
+      set_club_me
+   end else if (fixed_param == timed_event_clubbed) then begin
+      if (combat_is_initialized == false) then begin
+         if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == false) then begin
+            the_sound := sfx_build_char_name(self_obj, ANIM_fall_back, snd_knock_down);
+            reg_anim_clear(self_obj);
+            reg_anim_begin();
+            reg_anim_play_sfx(self_obj, the_sound, 5);
+            if (random(0,1) == 1) then begin
+               reg_anim_animate(self_obj,ANIM_fall_back_sf,-1);
+            end else begin
+               reg_anim_animate(self_obj,ANIM_fall_front_sf,-1);
+            end
+            reg_anim_end();
+            critter_injure(self_obj,DAM_KNOCKED_DOWN);
+         end
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (on_last_slave_run) then begin
+      destroy_object(self_obj);
+   end else if (initialized == false) then begin
+      set_initialized;
+      set_local_var(LVAR_Type, random(0,2));
+      critter_set_flee_state(self_obj, true);
+   end
+   if (is_loading_game == false) then begin
+      flush_add_timer_event_sec(self_obj, random(10, 30), timed_event_float);
+      flush_add_timer_event_sec(self_obj, random(15, 60), timed_event_wander);
+   end
+end
+
+procedure map_exit_p_proc begin
+   set_on_last_slave_run;
+end
+
+procedure map_update_p_proc begin
+   set_club_me
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == false) then begin
+         Flee_From_Dude
+         if (dude_spotted_on_slave_run == false) then begin
+            set_saw_slaver;
+            set_dude_spotted_on_slave_run;
+            if (slave_is_primitive) then begin
+               floater_rand(300, 308);
+            end else begin
+               floater_rand(350, 363);
+            end
+         end
+      end
+   end else if (anim_busy(self_obj) == false) then begin
+      if (saw_slaver) then begin
+         off_saw_slaver;
+         off_dude_spotted_on_slave_run;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+      set_personal_enemy;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == false) then begin
+      Flee_From_Dude
+      set_dude_spotted_on_slave_run;
+      if (slave_is_primitive) then begin
+         floater_rand(300, 308);
+      end else begin
+         floater_rand(350, 363);
+      end
+      set_herebefore;
+   end
+end
+
+procedure destroy_p_proc begin
+   if (club_slave_object == self_obj) then begin
+      club_slave_object := 0;
+   end
+   set_killed_slave_on_run;
+   inc_global_var(GVAR_SLAVES_LOST);
+   dec_global_var(GVAR_SLAVES_COUNT);
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (slave_is_primitive) then begin
+      display_mstr(100 + self_is_female);
+   end else begin
+      display_mstr(200 + (10 * self_is_female) + local_var(LVAR_Type));
+   end
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (slave_is_primitive) then begin
+      display_mstr(100 + self_is_female);
+   end else begin
+      display_mstr(200 + (10 * self_is_female) + local_var(LVAR_Type));
+   end
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   // ### floater_rand(,);
+end

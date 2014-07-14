@@ -1,0 +1,109 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_WIBRKBRN
+
+#include "..\headers\command.h"
+#include "..\headers\depolva.h"
+
+#define BIOMED_GEL              440
+#define ROBO_MOTIVATOR_PID      364
+
+procedure start;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure map_update_p_proc;
+
+procedure start begin
+end
+
+procedure use_skill_on_p_proc begin
+   if ((action_being_used == SKILL_SCIENCE) or (action_being_used == SKILL_REPAIR)) then begin
+       script_overrides;
+       //added by killap - expansion
+       if ( (map_var(MVAR_Bio_Motivator) >= 1) and (map_var(MVAR_Bio_Gel) >= 1) and (map_var(MVAR_Bio_Brain) >= 1) ) then
+         display_msg(mstr(104));
+       else
+       //end added
+         display_msg(mstr(100));
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   variable Tool;
+
+   Tool:=obj_pid(obj_being_used_with);
+
+   if (Tool == ROBO_MOTIVATOR_PID) then begin
+      if (map_var(MVAR_Bio_Motivator) == 0) then begin
+         script_overrides;
+         inc_map_var(MVAR_Bio_Motivator);
+         display_msg(mstr(101));
+         rm_obj_from_inven(dude_obj,obj_being_used_with);
+         destroy_object(obj_being_used_with);
+      end
+   end
+
+   else if (Tool == BIOMED_GEL) then begin
+      if (map_var(MVAR_Bio_Gel) == 0) then begin
+         script_overrides;
+         inc_map_var(MVAR_Bio_Gel);
+         display_msg(mstr(103));
+         rm_obj_from_inven(dude_obj,obj_being_used_with);
+         destroy_object(obj_being_used_with);
+      end
+   end
+
+   else if ((Tool == PID_CYBERNETIC_BRAIN) or (Tool == PID_HUMAN_BRAIN) or (Tool == PID_CHIMP_BRAIN) or (Tool == PID_ABNORMAL_BRAIN)) then begin
+      if (map_var(MVAR_Bio_Brain) == 0) then begin
+         script_overrides;
+         give_xp(500);
+         inc_map_var(MVAR_Bio_Brain);
+         if (Tool == PID_CYBERNETIC_BRAIN) then
+            set_global_var(GVAR_BRAIN_BOT_BRAIN,BRAIN_CYBERNETIC);
+         else if (Tool == PID_HUMAN_BRAIN) then
+            set_global_var(GVAR_BRAIN_BOT_BRAIN,BRAIN_HUMAN);
+         else if (Tool == PID_CHIMP_BRAIN) then
+            set_global_var(GVAR_BRAIN_BOT_BRAIN,BRAIN_CHIMP);
+         else
+            set_global_var(GVAR_BRAIN_BOT_BRAIN,BRAIN_ABNORMAL);
+         display_msg(mstr(102));
+         rm_obj_from_inven(dude_obj,obj_being_used_with);
+         destroy_object(obj_being_used_with);
+      end
+   end
+
+end
+
+procedure map_update_p_proc begin
+   if (map_var(MVAR_Explode_Robot) == 1) then begin
+       explosion(tile_num(self_obj),elevation(self_obj),100);
+       destroy_object(self_obj);
+   end
+end

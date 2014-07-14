@@ -1,0 +1,204 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCPRZFTR
+#define TOWN_REP_VAR         GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure combat_p_proc;
+procedure pickup_p_proc;
+procedure timed_event_p_proc;
+
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+#define LVAR_Flags                        (0)
+#define LVAR_Dude_Punches                 (1)
+#define LVAR_Self_Punches                 (2)
+
+import variable announcer_obj;
+import variable ring_girl_obj;
+import variable prize_fighter_obj;
+variable the_roll;
+
+procedure start begin
+   if (killed_opponent == false) then prize_fighter_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == knockout_param) then begin
+      debug_msg("prizefighter got timed event: knockout_param");
+      if (is_critter_prone(dude_obj)) then begin
+         lose_boxing_match(fight_status_ko);
+      end else begin
+         win_boxing_match(fight_status_ko);
+      end
+   end else if (fixed_param == round_over_param) then begin
+      debug_msg("prizefighter got timed event: round_over_param");
+      end_boxing_round;
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (killed_opponent == false) then prize_fighter_obj := self_obj;
+end
+
+procedure map_update_p_proc begin
+   if (killed_opponent == false) then prize_fighter_obj := self_obj;
+end
+
+procedure combat_p_proc begin
+   debug_msg("seconds til round is over == " + seconds_til_round_over);
+   debug_msg("   critter_state(self_obj) == " + critter_state(self_obj));
+   debug_msg("   critter_state(dude_obj) == " + critter_state(dude_obj));
+   if (round_time_over) then begin
+      end_boxing_round;
+   end if (currently_fighting) then begin
+      if (fixed_param == COMBAT_SUBTYPE_HIT_SUCCEEDED) then begin
+         inc_boxer_punches;
+         if (self_pid == PID_MASTICATOR) then begin
+            the_roll := roll_vs_skill(self_obj, SKILL_UNARMED_COMBAT, -dude_max_hits);
+            if (is_success(the_roll)) then begin
+               if (is_critical(the_roll)) then begin
+                  set_masticator_bit_ear;
+               end
+            end
+         end
+      end else if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
+         debug_msg("boxer: COMBAT_SUBTYPE_TURN");
+         if (critter_is_fleeing(self_obj)) then begin
+            win_boxing_match(fight_status_tko);
+         end else if (is_critter_prone(self_obj)) then begin
+            win_boxing_match(fight_status_ko);
+         end else if (is_critter_prone(dude_obj)) then begin
+            lose_boxing_match(fight_status_ko);
+         end else if ((currently_fighting) and (killed_opponent == false)) then begin
+            if (anim_busy(self_obj) == false) then begin
+               //attack(dude_obj);
+               if (is_critter_dead(self_obj)) then begin
+                  // do nothing
+               end else if (Current_Distance_From_Dude > 2) then begin
+                  if (random(1,3) != 2) then begin
+                     if (self_is_armed) then begin
+                        debug_msg("unweilding boxer weapon");
+                        inven_unwield(self_obj);
+                     //end else if (self_fid == FID_BOXER) then begin
+                     end else if (self_fid == FID_NMBOXX) then begin //edit by killap due to changes to the artfid.h file
+                        if (obj_is_carrying_obj_pid(self_obj, PID_SPECIAL_BOXER_WEAPON) > 0) then begin
+                           debug_msg("weilding boxer weapon");
+                           wield_obj(obj_carrying_pid_obj(self_obj, PID_SPECIAL_BOXER_WEAPON));
+                        end
+                     end
+                  end
+                  attack(dude_obj);
+               end
+            end
+         end
+      end
+   end
+end
+
+procedure critter_p_proc begin
+   if (currently_fighting) then begin
+      debug_msg("prizefighter critter_p_proc");
+      if (critter_is_fleeing(self_obj)) then begin
+         win_boxing_match(fight_status_tko);
+      end else if (is_critter_prone(self_obj)) then begin
+         win_boxing_match(fight_status_ko);
+      end else if (is_critter_prone(dude_obj)) then begin
+         lose_boxing_match(fight_status_ko);
+      end else begin
+         attack(dude_obj);
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      inc_dude_punches;
+      if (target_obj != 0) then begin
+         if ((obj_pid(target_obj) != PID_SPECIAL_PLATED_BOXING_GLOVES) and (obj_pid(target_obj) != PID_SPECIAL_BOXING_GLOVES)) then begin
+            lose_boxing_match(fight_status_disqualified);
+         end else if (masticator_bit_ear) then begin
+            if (self_pid == PID_MASTICATOR) then begin
+               the_roll := roll_vs_skill(dude_obj, SKILL_UNARMED_COMBAT, -self_max_hits);
+               if (is_success(the_roll)) then begin
+                  if (is_critical(the_roll)) then begin
+                     set_player_bites_masticator_ear;
+                  end
+               end
+            end
+         end
+      end
+   end
+end
+
+procedure pickup_p_proc begin
+   script_overrides;
+end
+
+procedure destroy_p_proc begin
+   debug_msg("prizefighter destroy_p_proc");
+   if (self_pid == PID_MCKNEELY) then begin
+      set_mckneely_dead;
+   end else if (self_pid == PID_HOLYFELD) then begin
+      set_holyfeld_dead;
+   end else if (self_pid == PID_MASTICATOR) then begin
+      set_masticator_dead;
+   end
+   set_killed_opponent;
+   win_boxing_match(fight_status_ko);
+   remove_pid_qty(self_obj, PID_SPECIAL_BOXER_WEAPON, 1)
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100) + vs_boxer_name + mstr(101));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   //added by killap
+   if (self_pid == PID_MCKNEELY) then begin
+      display_mstr(200 + (random(1,3)*(examined)));
+      set_examined;
+   end else if (self_pid == PID_HOLYFELD) then begin
+      display_mstr(210 + (examined));
+      set_examined;
+   end else if (self_pid == PID_MASTICATOR) then begin
+      display_mstr_rand(220,224);
+   end else begin
+   //end added
+      display_mstr_rand(150, 152);
+   end
+end
+
+procedure Node998 begin
+end
+procedure Node999 begin
+end

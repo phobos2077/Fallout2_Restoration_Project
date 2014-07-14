@@ -1,0 +1,195 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Slave Run Map script
+        Location: Den
+        Description: special slave run map that generates slaves on each level
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_DNSLVRUN
+
+#include "..\headers\command.h"
+#include "..\headers\den.h"
+
+
+// new slave run macros
+#define get_running_slave_count                 (random(8, 12))
+#define get_hostile_slave_count(x)              ((x * 2) / (random(3, 4))) // x is the running slave count
+#define create_slave_for_map(the_script)                                                     \
+         if (the_elev != 2) then begin                                                       \
+            if (random(0,1)) then begin                                                      \
+               the_obj := create_object_sid(PID_PRIMITIVE_VILLAGER_MALE,0,0,the_script);     \
+            end else begin                                                                   \
+               the_obj := create_object_sid(PID_PRIMITIVE_VILLAGER_FEMALE,0,0,the_script);   \
+            end                                                                              \
+         end else begin                                                                      \
+            temp := random(0,3);                                                             \
+            if (temp == 0) then begin                                                        \
+               the_obj := create_object_sid(PID_WEAK_PEASANT_MALE,0,0,the_script);           \
+            end else if (temp == 1) then begin                                               \
+               the_obj := create_object_sid(PID_STRONG_PEASANT_FEMALE,0,0,the_script);       \
+            end else if (temp == 2) then begin                                               \
+               the_obj := create_object_sid(PID_STRONG_SLAVE_FEMALE,0,0,the_script);         \
+            end else begin                                                                   \
+               the_obj := create_object_sid(PID_STRONG_SLAVE_MALE,0,0,the_script);           \
+            end                                                                              \
+         end                                                                                 \
+         temp := tile_num_in_direction(slave_run_heart, random(0,5), random(2,8));           \
+         while (temp == 0) do begin                                                          \
+            if (tile_is_blocked(temp, the_elev)) then begin                                  \
+               temp := 0;                                                                    \
+            end                                                                              \
+         end                                                                                 \
+         critter_attempt_placement(the_obj, temp, the_elev)
+
+// old slave run macros
+#define elevation_to_rotation(x)                ((5 * (x==0)) + (4 * (x==1)) + (4 * (x==2)))
+#define get_slaver_heart(x)                     ((26905 * (x==0)) +  \
+                                                 (22285 * (x==1)) +  \
+                                                 (22492 * (x==2)))
+#define get_slave_heart(x,y)                    ((((22499 * (y==1)) + (21127 * (y==2)) + (16677 * (y==3))) * (x==0)) +  \
+                                                 (((15678 * (y==1)) + (25123 * (y==2)) + (17916 * (y==3))) * (x==1)) +  \
+                                                 (((24910 * (y==1)) + (15301 * (y==2)) + (18894 * (y==3))) * (x==2)))
+#define slave_count_to_slaver_count(x)          (x/(random(1,3)))
+#define slave_count_to_hostile_slave_count(x)   (random(x/3, (x*2)/3))
+
+export variable club_slave_object;
+export variable slaver_1_obj;
+export variable slaver_2_obj;
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure map_exit_p_proc;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+variable num_critters;
+variable temp;
+variable slave_run_heart;
+variable the_obj;
+variable temp_map_loc_x := 0;
+variable temp_map_loc_y := 0;
+variable the_elev;
+variable last_critter := 0;
+
+   if (is_loading_game == false) then begin
+      // set map exit shit
+      off_dude_spotted_on_slave_run;
+      off_killed_slave_on_run;
+      while (temp_map_loc_x == 0) do begin
+         temp_map_loc_x := random(375, 575);
+         temp_map_loc_y := random(175, 375);
+         if (((temp_map_loc_x >= 440) and (temp_map_loc_x <= 510)) and ((temp_map_loc_y >= 240) and (temp_map_loc_y <= 310))) then begin
+            temp_map_loc_x := 0;
+         end
+      end
+      wm_area_set_pos(AREA_DEN_SLAVE_RUN, temp_map_loc_x, temp_map_loc_y);
+      // init slave run
+      set_global_var(GVAR_SLAVERS_LOST, 0);
+      set_global_var(GVAR_SLAVES_LOST, 0);
+
+      // place the dude first
+      the_elev := random(0,2);
+      override_map_start_hex(get_slaver_heart(the_elev), the_elev, elevation_to_rotation(the_elev));
+      debug_msg("slave run elevation set to " + the_elev);
+
+      // set heart of slave run area
+      temp := random(1,3);
+      slave_run_heart := get_slave_heart(the_elev, temp);
+      debug_msg("slave heart tile set to " + slave_run_heart);
+
+      // make fleeing slaves
+      num_critters := get_running_slave_count;
+      set_global_var(GVAR_SLAVES_COUNT, num_critters);
+      while (num_critters > 0) do begin
+         create_slave_for_map(SCRIPT_DCRUNSLV);
+         if (last_critter != 0) then begin
+            Face_Critter(the_obj, last_critter);
+         end
+         critter_add_trait(the_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAVES);
+         if (the_elev != 2) then begin
+            critter_add_trait(the_obj,TRAIT_OBJECT, OBJECT_AI_PACKET, AI_PRIMITIVE_COWARD);
+         end else begin
+            critter_add_trait(the_obj,TRAIT_OBJECT, OBJECT_AI_PACKET, AI_COWARD);
+         end
+         last_critter := the_obj;
+         num_critters -= 1;
+      end
+      // make hostile slaves
+      last_critter := 0;
+      num_critters := get_hostile_slave_count(global_var(GVAR_SLAVES_COUNT));
+      set_global_var(GVAR_HOSTILE_SLAVE_COUNT, num_critters);
+      while (num_critters > 0) do begin
+         create_slave_for_map(SCRIPT_DCATKSLV);
+         if (last_critter != 0) then begin
+            Face_Critter(the_obj, last_critter);
+         end
+         critter_add_trait(the_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_HOSTILE_SLAVES);
+         if (the_elev != 2) then begin
+            critter_add_trait(the_obj,TRAIT_OBJECT, OBJECT_AI_PACKET, AI_PRIMITIVE_KAMAKAZI);
+         end else begin
+            critter_add_trait(the_obj,TRAIT_OBJECT, OBJECT_AI_PACKET, AI_PEASANT_KAMAKAZI);
+         end
+         last_critter := the_obj;
+         num_critters -= 1;
+      end
+
+      // make slavers slaves
+      last_critter := 0;
+      num_critters := 2;
+      while (num_critters > 0) do begin
+         debug_msg("created slaver #" + num_critters);
+         the_obj := create_object_sid(PID_WEAK_GUN_GUARD_MALE,0,0,SCRIPT_DCRNSLVR);
+         temp := 0;
+         while (temp == 0) do begin
+            temp := tile_num_in_direction(tile_num(dude_obj), random(0,5), random(3,5));
+            if (tile_is_blocked(temp, the_elev)) then begin
+               temp := 0;
+            end
+         end
+         critter_attempt_placement(the_obj, temp, the_elev);
+         critter_add_trait(the_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_PLAYER);
+         critter_add_trait(the_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_SLAVER);
+         Face_Critter(dude_obj, the_obj);
+         num_critters -= 1;
+      end
+   end
+   Lighting;
+end
+
+procedure map_update_p_proc begin
+   debug_msg("dude_elevation == "+dude_elevation);
+   Lighting;
+end
+
+procedure map_exit_p_proc begin
+   if (global_var(GVAR_HOSTILE_SLAVE_COUNT) > 0) then begin
+      set_global_var(GVAR_SLAVES_COUNT, 0);
+   end
+   off_hostile_slavers;
+end

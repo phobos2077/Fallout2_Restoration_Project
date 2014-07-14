@@ -1,0 +1,211 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Slaughterhouse butcher
+        Location: Modoc
+        Description:
+
+        Log:
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_MCBUTCHR
+#define TOWN_REPUTATION         global_var(GVAR_TOWN_REP_MODOC)
+#include "..\headers\command.h"
+#include "..\headers\ModMain.h"
+#include "..\headers\Modoc.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Told_Move_Time               (4)
+#define LVAR_Home_Tile                    (5)
+#define LVAR_Hostile                      (6)
+#define LVAR_Uses_To_Kill                 (7)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+import variable brahmin_1_object;
+
+#define butcher_work_tile           (local_var(LVAR_Home_Tile))
+
+#define is_slaughter_time           (game_time > map_var(MVAR_Butcher_Time_1))
+#define reset_uses_to_kill          set_local_var(LVAR_Uses_To_Kill, random(3,7))
+#define check_on_butcher            if ((is_slaughter_time) and (brahmin_1_object != 0) and (is_staging_wedding == false)) then begin  \
+                                       if (dude_tile == slaughter_1_tile) then begin                                                                          \
+                                          if (local_var(LVAR_Told_Move_Time) == 0) then begin                                                                 \
+                                             floater_rand(201 - dude_is_male, 202 + dude_is_female);                                                          \
+                                             set_local_var(LVAR_Told_Move_Time, game_time + (15 * ONE_GAME_SECOND));                                          \
+                                          end else if (game_time >= local_var(LVAR_Told_Move_Time)) then begin                                                \
+                                             call Node998;                                                                                                    \
+                                          end                                                                                                                 \
+                                       end else if (local_var(LVAR_Told_Move_Time) != 0) then begin                                                           \
+                                          set_local_var(LVAR_Told_Move_Time, 0);                                                                              \
+                                       end else if (tile_num(brahmin_1_object) == slaughter_1_tile) then begin                                           \
+                                          use_obj(brahmin_1_object);                                                                                          \
+                                          dec_local_var(LVAR_Uses_To_Kill);                                                                                   \
+                                          set_map_var(MVAR_Butcher_Time_1, game_time + (random(5, 10) * ONE_GAME_SECOND));                                    \
+                                          if (critter_state(brahmin_1_object) == CRITTER_IS_DEAD) then begin                                                  \
+                                             if ((random(1, (5 + local_var(LVAR_Uses_To_Kill))) <= 1) or (local_var(LVAR_Uses_To_Kill) <= -5)) then begin     \
+                                                set_map_var(MVAR_Butcher_Time_1, game_time + (random(5, 15) * ONE_GAME_MINUTE));                             \
+                                                brahmin_1_object := 0;                                                                                        \
+                                                reset_uses_to_kill;                                                                                           \
+                                             end                                                                                                              \
+                                          end else begin                                                                                                      \
+                                             if (local_var(LVAR_Uses_To_Kill) <= 0) then begin                                                                \
+                                                if (obj_pid(brahmin_1_object) != PID_BESS) then begin                                                         \
+                                                   floater_rand(100,105);                                                                                     \
+                                                end else begin                                                                                                \
+                                                   floater(120);                                                                                              \
+                                                end                                                                                                           \
+                                                critter_damage(brahmin_1_object, 100);                                                                        \
+                                             end else begin                                                                                                   \
+                                                add_timer_event(brahmin_1_object, 7, 666);                                                                    \
+                                             end                                                                                                              \
+                                          end                                                                                                                 \
+                                       end                                                                                                                    \
+                                    end
+
+#define do_leave_map(the_msg)       if (tile_distance(self_tile, map_next_tile) > 1) then begin       \
+                                       anim_move_to_point(map_next_tile)                              \
+                                       if (butcher_said_leaving == false) then begin                  \
+                                          on_butcher_said_leaving;                                    \
+                                          floater(the_msg);                                           \
+                                       end                                                            \
+                                    end else begin                                                    \
+                                       check_set_obj_visiblility(self_obj, true);                            \
+                                    end
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+procedure map_enter_p_proc begin
+   match_dude_elevation;
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_local_var(LVAR_Home_Tile, self_tile);
+      end
+      if (local_var(LVAR_Uses_To_Kill) <= 0) then begin
+         reset_uses_to_kill;
+      end
+      set_map_var(MVAR_Butcher_Time_1, game_time + (random(0, 10) * ONE_GAME_MINUTE));
+      if (night) then begin
+         critter_attempt_placement(self_obj, map_next_tile, self_elevation);
+      end else begin
+         critter_attempt_placement(self_obj, butcher_work_tile, self_elevation);
+      end
+   end
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (obj_is_visible_flag(self_obj)) then begin
+         if ((local_var(LVAR_Hostile) > 0) or (dude_enemy_modoc)) then begin
+            set_local_var(LVAR_Hostile, 1);
+            self_attack_dude;
+         end
+      end
+   end
+   if ((is_slaughter_time) and (self_tile != butcher_work_tile)) then begin
+      set_map_var(MVAR_Butcher_Time_1, game_time + (random(1, 5) * ONE_GAME_MINUTE));
+   end else if (anim_busy(self_obj) == false) then begin
+      if (night) then begin
+         do_leave_map(random(280,282))
+      end else if (butcher_said_leaving) then begin
+         check_set_obj_visiblility(self_obj, false);
+         off_butcher_said_leaving;
+      end else if (self_tile != butcher_work_tile) then begin
+         if (tile_distance(self_tile, butcher_work_tile) > 10) then begin
+            anim_move_to_point(tile_num_in_direction(butcher_work_tile, rotation_to_tile(butcher_work_tile, self_tile), 1))
+         end else if (self_tile != butcher_work_tile) then begin
+            anim_move_to_point(tile_num_in_direction(butcher_work_tile, rotation_to_tile(butcher_work_tile, self_tile), 1))
+         end else begin
+            anim_move_to_point(tile_num_in_direction(butcher_work_tile, rotation_to_tile(slaughter_1_tile, butcher_work_tile), 1))
+         end
+      end else if (self_cur_rot == rotation_to_tile(self_tile, butcher_work_tile)) then begin
+         check_on_butcher
+      end else begin
+         animate_rotation(rotation_to_tile(self_tile, butcher_work_tile));
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_local_var(LVAR_Hostile, 2);
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   debug_msg(" my tile == "+self_tile);
+   call Node001;
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(250);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr_rand(251, 252 + (tile_distance(dude_tile, self_tile) > 5));
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   if (local_var(LVAR_Hostile) == 0) then begin
+      set_local_var(LVAR_Hostile,2);
+   end
+end
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   floater_rand(300, 312);
+end

@@ -1,0 +1,67 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: NewRSt
+        Location: New Reno
+        Description: Stables
+
+        Log:
+
+           Created: April 27, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\NewRSt.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_NEWRST
+
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure map_exit_p_proc;
+
+export variable myron_guard_obj;
+export variable new_reno_myron_obj;
+export variable new_reno_mordino_men_obj;
+
+#define newrst_lighting                   if (dude_elevation == 1) then          \
+                                             Basement_Lighting;                  \
+                                          else                                   \
+                                             Lighting
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+
+      Check_Create_Car(CAR_RENO_STABLES_HEX, CAR_RENO_STABLES_ELEV)
+
+      if (map_first_run) then begin
+         set_stables_known
+         display_msg(nr_mstr(103));
+      end
+      override_map_start_hex(25915,0,(5 + random(0,1))%6);
+      set_map_exit_tiles(0,0);
+   end
+   set_map_exit_tiles(29326, 0);
+   newrst_lighting;
+end
+
+procedure map_exit_p_proc begin
+   off_myron_permission;
+   off_marjorie_called_guards;
+end
+
+procedure map_update_p_proc begin
+   newrst_lighting;
+end

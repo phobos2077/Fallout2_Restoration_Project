@@ -1,0 +1,410 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Jonny
+        Location: Modoc
+        Description: Little boy who falls in the well
+
+        Log: the following defines need to be changed:
+
+
+          Created: February 15, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                        SCRIPT_MCJONNY
+#define TOWN_REP_VAR                GVAR_TOWN_REP_MODOC
+
+#include "..\headers\command.h"
+#include "..\headers\Modoc.h"
+#include "..\headers\GstCav2.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure push_p_proc;
+
+// dialog nodes
+procedure Node000;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+
+procedure Node999;                                      // This is the do nothing node
+procedure Node998;                                      // This Node is Always Combat
+procedure Node996;
+procedure Node995;
+
+#define LVAR_Flags                        (0)
+#define LVAR_Home_Tile                    (1)
+
+#define cry_bit                           bit_10
+#define called_laddie_bit                 bit_11
+
+#define cry                               lvar_bit(LVAR_Flags, cry_bit)
+#define set_cry                           set_lvar_bit_on(LVAR_Flags, cry_bit)
+
+#define called_laddie                     lvar_bit(LVAR_Flags, called_laddie_bit)
+#define set_called_laddie                 set_lvar_bit_on(LVAR_Flags, called_laddie_bit)
+
+variable temp;
+import variable jonny_obj;
+
+procedure start begin
+   jonny_obj := self_obj;
+end
+
+procedure push_p_proc begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then begin
+      floater_good(300);
+   end else if (fixed_param == 2) then begin
+      if (anim_busy(self_obj) == false) then begin
+         run_to_wander_tile(temp)
+      end
+      mod_add_timer_event_rand(self_obj, 5, 15, 2);
+   end else if (fixed_param == 3) then begin
+      if (cry) then begin
+         floater_rand(150, 152);
+         mod_add_timer_event_rand(self_obj, 5, 15, 3);
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   jonny_obj := 0;
+   match_dude_elevation;
+   if (jonny_dead) then begin
+      debug_msg("destroy_object(JONNY)");
+      destroy_object(self_obj);
+   end else if (jonny_at_home) then begin
+      if (cur_map_index == MAP_GHOST_LAKE) then begin
+         debug_msg("destroy_object(JONNY)");
+         check_set_obj_visiblility(self_obj, true);
+         destroy_object(self_obj);
+      end else begin
+         debug_msg("making jonny visible");
+         check_set_obj_visiblility(self_obj, false);
+      end
+   end else if (is_loading_game == false) then begin
+      if (all_slags_dead) then begin
+         debug_msg("destroy_object(JONNY)");
+         check_set_obj_visiblility(self_obj, true);
+         destroy_object(self_obj);
+      end else if (map_first_run) then begin
+         if (cur_map_index == MAP_MODOC_MAINSTREET) then begin
+            check_set_obj_visiblility(self_obj, true);
+            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+         end else begin
+            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAG);
+         end
+      end
+      if (self_visible) then begin
+         mod_add_timer_event_rand(self_obj, 5, 15, 2);
+         mod_add_timer_event_rand(self_obj, 5, 15, 3);
+      end
+      if (called_laddie) then begin
+         if (Laddie_In_Party) then begin
+            set_called_laddie;
+            mod_add_timer_event(self_obj, 10, 1);
+         end
+      end
+   end
+   jonny_obj := self_obj;
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure map_update_p_proc begin
+end
+
+
+procedure critter_p_proc begin
+   if (self_visible) then begin
+      if (self_can_see_dude) then begin
+         if ((hostile) or (enemy_slags) or (dude_enemy_modoc)) then begin
+            Flee_From_Dude
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      if (cur_map_index == MAP_MODOC_MAINSTREET) then begin
+         set_enemy_modoc;
+      end else begin
+         set_enemy_slags;
+      end
+      if (Laddie_In_Party) then begin
+         add_timer_event(Laddie_Ptr, 0, 999);
+      end
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   script_overrides;
+   if (cry) then begin
+      floater_rand(150, 152);
+   end else if (jonny_at_home) then begin
+      if (jonny_sad_laddie_died) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node004;
+         gSay_End;
+         end_dialogue;
+      end else begin
+         call Node025;
+      end
+   end else if (sleezy_stranger_flag) then begin
+      floater(153);
+      Flee_From_Dude
+   end else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         if (jonny_request_home) then begin
+            call Node003;
+         end else if (jonny_spoken) then begin
+            call Node002;
+         end else if (herebefore) then begin
+            call Node001;
+         end else begin
+            call Node000;
+         end
+      gSay_End;
+      end_dialogue;
+   end
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+   //inc_childkiller - redundant and makes it seem you killed two children when only was was killed  - killap
+   jonny_obj := 0;
+   set_jonny_dead;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + herebefore);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(102);
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node999 begin
+  // do absolutely everything that pertains to nothing
+end
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node996 begin
+   inc_global_var_amt(GVAR_TOWN_REP_MODOC, REP_TOWN_GAVE_ROSE_DOG); // Seraph's Fix: changed 'inc_global_var' to 'inc_global_var_amt'. Thanks Rob!
+   call Node024;
+end
+procedure Node995 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+      call Node017;
+   end else begin
+      call Node018;
+   end
+end
+
+// dialog nodes
+procedure Node000 begin
+   if (Laddie_In_Party) then begin
+      Reply(154);
+   end else begin
+      Reply(155);
+   end
+   if ((Laddie_In_Party) and (jonny_seed_active)) then begin
+      NOption(156,Node020,004);
+   end else begin
+      NOption(157,Node010,004);
+   end
+   NOption(158,Node011,004);
+   NOption(159,Node012,004);
+   NOption(g_bye,Node999,004);
+   NOption(g_grunt,Node999,-003);
+end
+procedure Node001 begin
+   Reply(160);
+   if ((Laddie_In_Party) and (jonny_seed_active)) then begin
+      NOption(156,Node020,004);
+   end else begin
+      NOption(157,Node010,004);
+   end
+   NOption(158,Node011,004);
+   NOption(159,Node012,004);
+   NOption(g_bye,Node999,004);
+   NOption(g_grunt,Node999,-003);
+end
+procedure Node002 begin
+   Reply(160);
+   if (jonny_seed_active) then begin
+      NOption(166,Node014,004);
+   end
+   NOption(159,Node012,004);
+   NOption(g_bye,Node999,004);
+end
+procedure Node003 begin
+   Reply(168);
+   //if (jonny_sent_home) then begin
+   //   NOption(169,Node021,004);
+   //end
+   NOption(170,Node022,004);
+   NOption(g_bye,Node999,004);
+end
+procedure Node004 begin
+   set_cry;
+   Reply(171);
+   NOption(172,Node023,004);
+   NOption(173,Node996,004);
+end
+procedure Node010 begin
+   set_jonny_known;
+   set_jonny_name_known;
+   Reply(174);
+   NOption(mstr(175) + dude_name + mstr(176),Node013,004);
+   NOption(177,Node019,004);
+   NOption(g_bye,Node999,004);
+end
+procedure Node011 begin
+   set_jonny_known;
+   set_jonny_name_known;
+   Reply(178);
+   NOption(g_mstr(350),Node999,004);
+end
+procedure Node012 begin
+   set_sleezy_stranger_flag;
+   Reply(179);
+   NOption(g_mstr(350),Node999,004);
+end
+procedure Node013 begin
+   Reply(mstr(180) + dude_name + mstr(181));
+   if (jonny_seed_active) then begin
+      NOption(166,Node014,004);
+   end
+   NOption(182,Node999,004);
+end
+procedure Node014 begin
+   Reply(183);
+   NOption(184,Node015,004);
+   NOption(185,Node015,004);
+   NOption(187,Node015,004);
+   NOption(186,Node016,004);
+   NOption(188,Node015,004);
+   NOption(189,Node995,004);
+end
+procedure Node015 begin
+   if (Laddie_In_Party) then begin
+      Reply(190);
+   end else begin
+      Reply(191);
+   end
+   NOption(g_mstr(350),Node999,004);
+end
+procedure Node016 begin
+   set_jonny_request_home;
+   Reply(192);
+   NOption(g_mstr(350),Node999,004);
+end
+procedure Node017 begin
+   set_jonny_request_home;
+   if (dude_is_male) then begin
+      Reply(193);
+   end else begin
+      Reply(194);
+   end
+   NOption(g_bye,Node999,004);
+end
+procedure Node018 begin
+   Reply(195);
+   NOption(g_mstr(350),Node999,004);
+end
+procedure Node019 begin
+   Reply(196);
+   NOption(g_mstr(350),Node999,004);
+end
+procedure Node020 begin
+   //added by killap
+   set_jonny_known;
+   set_jonny_name_known;
+   //end added by killap
+   
+   Reply(197);
+   if (jonny_seed_active) then begin
+      NOption(166,Node014,004);
+      NOption(199,Node012,004);
+   end
+   NOption(g_bye,Node999,004);
+end
+procedure Node021 begin
+   Reply(200);
+   NOption(g_bye,Node999,004);
+end
+procedure Node022 begin
+   Reply(201);
+   NOption(g_bye,Node999,004);
+end
+procedure Node023 begin
+   set_cry;
+   Reply(202);
+   NOption(g_mstr(350),Node999,004);
+end
+procedure Node024 begin
+   set_cry;
+   Reply(203);
+   NOption(g_mstr(350),Node999,004);
+end
+procedure Node025 begin
+   floater_rand(401 - dude_is_male, 403 + dude_is_female);
+end

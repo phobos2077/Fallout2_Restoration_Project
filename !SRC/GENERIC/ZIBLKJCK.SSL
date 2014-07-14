@@ -1,0 +1,423 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Generic Black Jack Table
+        Location: generic
+        Description: This is a generic black jack table. There is no need to
+                     copy the default .msg file if you make any changes for
+                     a specific area. The messages are already defaulted at the
+                     default black jack table file. just change the name to your
+                     script before changing stuff. options that can be changed:
+                     MIN_BET - this is the minimum betting amount
+                     max_win - this is the maximum amount the player can win
+                     TABLE_BONUS - bonus for the gambling roll make negative
+                                   for bad effect
+                     good_hand_min - lowest hand value on a good hand
+                     good_hand_max - highest hand value on a good hand
+                     bad_hand_min - lowest hand value on a bad hand
+                     bad_hand_max - highest hand value on a bad hand
+
+        Log:
+
+           Created: January 20, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_ZIBLKJCK
+// do not touch this!!! this is used by the BJ_NOption & BJ_Reply
+#define BJ_NAME                 SCRIPT_ZIBLKJCK
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure talk_p_proc;
+procedure pickup_p_proc;
+procedure timed_event_p_proc;
+
+procedure Node000;
+procedure Node001;
+procedure Node002;
+procedure Node005;
+procedure Node006;
+
+// local variables
+#define LVAR_Hostile                            (0)
+#define LVAR_Player_Winnings                    (1)
+
+// card defines
+#define card_ace                                (1)
+#define card_two                                (2)
+#define card_three                              (3)
+#define card_four                               (4)
+#define card_five                               (5)
+#define card_six                                (6)
+#define card_seven                              (7)
+#define card_eight                              (8)
+#define card_nine                               (9)
+#define card_ten                                (10)
+#define card_jack                               (11)
+#define card_queen                              (12)
+#define card_king                               (13)
+
+#define suit_heart                              (1)
+#define suit_diamond                            (2)
+#define suit_club                               (3)
+#define suit_spade                              (4)
+
+#define TABLE_BONUS                             (0)
+#define MIN_BET                                 (20)
+
+#define player_def                              (0)
+#define dealer_def                              (1)
+
+#define good_hand_min                           (18)
+#define good_hand_max                           (21)
+#define bad_hand_min                            (15)
+#define bad_hand_max                            (17)
+#define max_win                                 (0)
+#define player_won_max                          ((local_var(LVAR_Player_Winnings) > max_win) or (max_win == 0))
+#define suit_card(the_card,the_suit)            (the_card + ((the_suit - 1) * card_king))
+#define PLAYER_HAS_CARD(the_card)               ((player_1_card == the_card) or \
+                                                 (player_2_card == the_card) or \
+                                                 (player_3_card == the_card))
+#define DEALER_HAS_CARD(the_card)               ((dealer_1_card == the_card) or \
+                                                 (dealer_2_card == the_card) or \
+                                                 (dealer_3_card == the_card))
+#define CARD_IS_USED(the_card)                  ((PLAYER_HAS_CARD(the_card)) or (DEALER_HAS_CARD(the_card)))
+#define ALL_CARD_TYPES_IN_USE(the_type)         ((CARD_IS_USED(suit_card(the_type,suit_heart))) or    \
+                                                 (CARD_IS_USED(suit_card(the_type,suit_diamond))) or  \
+                                                 (CARD_IS_USED(suit_card(the_type,suit_club))) or     \
+                                                 (CARD_IS_USED(suit_card(the_type,suit_spade))))
+#define CARD_IS_ACE(the_card)                   ((the_card == suit_card(card_ace,suit_heart)) or      \
+                                                 (the_card == suit_card(card_ace,suit_diamond)) or    \
+                                                 (the_card == suit_card(card_ace,suit_club)) or       \
+                                                 (the_card == suit_card(card_ace,suit_spade)))
+
+#define set_player_cards(card_1,card_2,card_3)  player_1_card := card_1;                              \
+                                                player_2_card := card_2;                              \
+                                                player_3_card := card_3;                              \
+                                                player_hand_total := TotalCards(card_1,card_2,card_3)
+#define set_dealer_cards(card_1,card_2,card_3)  dealer_1_card := card_1;                              \
+                                                dealer_2_card := card_2;                              \
+                                                dealer_3_card := card_3;                              \
+                                                dealer_hand_total := TotalCards(card_1,card_2,card_3)
+#define suit_to_text(the_suit)                  BJ_mstr(250 + the_suit)
+#define face_to_text(the_face)                  BJ_mstr(200 + the_face)
+#define card_to_text(the_card)                  face_to_text(get_card_face(the_card)) +   \
+                                                BJ_mstr(113) +                            \
+                                                suit_to_text(get_card_suit(the_card))
+
+#define BJ_NOption(x,y,z)                       giQ_Option(z,BJ_NAME,x,y,NEUTRAL_REACTION)
+#define BL_Reply(x)                             gSay_Reply(BJ_NAME,x)
+#define BJ_mstr(x)                              message_str(BJ_NAME,x)
+#define card_is_suit(the_card,the_suit)         ((the_card > ((card_king * the_suit) - card_king)) and (the_card <= (card_king * the_suit)))
+#define card_is_heart(the_card)                 card_is_suit(the_card,suit_heart)
+#define card_is_diamond(the_card)               card_is_suit(the_card,suit_diamond)
+#define card_is_club(the_card)                  card_is_suit(the_card,suit_club)
+#define card_is_spade(the_card)                 card_is_suit(the_card,suit_spade)
+// this formula returns the cards suit
+#define get_card_suit(the_card)                 ((card_is_suit(the_card,suit_heart) * suit_heart) +       \
+                                                 (card_is_suit(the_card,suit_diamond) * suit_diamond) +   \
+                                                 (card_is_suit(the_card,suit_club) * suit_club) +         \
+                                                 (card_is_suit(the_card,suit_spade) * suit_spade))
+// this formula returns the cards face (ace through king)
+#define get_card_face(the_card)                 (the_card - ((get_card_suit(the_card) - 1) * card_king))
+#define inc_player_winnings(x)                  set_local_var(LVAR_Player_Winnings, local_var(LVAR_Player_Winnings) + x);  \
+                                                item_caps_adjust(dude_obj,x)
+
+variable player_hand_total;
+variable player_1_card;
+variable player_2_card;
+variable player_3_card;
+
+variable dealer_hand_total;
+variable dealer_1_card;
+variable dealer_2_card;
+variable dealer_3_card;
+
+procedure timed_event_p_proc begin
+   if (obj_type(self_obj) == 1) then begin
+      if (tile_distance_objs(self_obj, dude_obj) <= 4) then begin
+         if (random(0,4) != 3) then begin
+            play_sfx("shuffle");
+         end
+      end
+   end
+end
+
+procedure start begin
+end
+procedure look_at_p_proc begin
+   script_overrides;
+   // if it's a critter, then say it's a dealer, otherwise it's a table
+   if (obj_type(self_obj) == 1) then begin
+      display_msg(BJ_mstr(101));
+   end else begin
+      display_msg(BJ_mstr(100));
+   end
+end
+procedure description_p_proc begin
+   script_overrides;
+   if (obj_type(self_obj) == 1) then begin
+      display_msg(BJ_mstr(101));
+   end else begin
+      display_msg(BJ_mstr(110) + MIN_BET + BJ_mstr(111));
+   end
+end
+
+procedure talk_p_proc begin
+   call Node000;
+end
+
+procedure pickup_p_proc begin
+   if (obj_type(self_obj) == 1) then begin
+      self_attack_dude;
+   end
+end
+
+// draws a card that hasn't been used
+procedure DrawCard(variable value) begin
+variable the_type := 0;
+variable the_suit := 0;
+   if (value > 0) then begin
+      if (value == 11) then begin
+         the_type := card_ace;
+      end else if (value >= 10) then begin
+         the_type := random(card_ten,card_king);
+      end else begin
+         the_type := value;
+      end
+      // make sure all the types aren't in use example: all four aces are used
+      // if it is used, draw the previous card type
+      while (ALL_CARD_TYPES_IN_USE(the_type)) do begin
+         if (the_type == card_ace) then begin
+            the_type := card_king;
+         end else begin
+            the_type -= 1;
+         end
+      end
+      // makes sure the card isn't being held by anyone
+      the_suit := random(suit_heart,suit_spade);
+      while (CARD_IS_USED(suit_card(the_type,the_suit))) do begin
+         the_suit += 1;
+         if (the_suit > suit_spade) then the_suit := suit_heart;
+      end
+      return suit_card(the_type,the_suit);
+   end else begin
+      // return null card if ranges are invalid
+      return 0;
+   end
+end
+procedure GetCardValue(variable the_card) begin
+variable temp_card;
+   temp_card := get_card_face(the_card);
+   if (temp_card > 10) then begin
+      return 10;
+   end else begin
+      // note: aces are always equal to 1, the extra 10 is calculated
+      //       in the hand calc procedure
+      return temp_card;
+   end
+end
+procedure TotalCards(variable card_1, variable card_2, variable card_3) begin
+variable total;
+   total := GetCardValue(card_1) + GetCardValue(card_2) + GetCardValue(card_3);
+   if (((CARD_IS_ACE(card_1)) or (CARD_IS_ACE(card_2)) or (CARD_IS_ACE(card_3))) and (total <= 11)) then begin
+      total += 10;
+   end
+   return total;
+end
+
+#define card_draw_success(the_draw)    (((is_success(the_draw)) and (who == player_def)) or   \
+                                        ((is_success(the_draw) == false) and (who == dealer_def)))
+procedure GiveCards(variable who) begin
+variable card_1 := 0;
+variable card_2 := 0;
+variable card_3 := 0;
+variable target_total;
+variable hand_total;
+variable the_roll;
+   // this procedure uses the card_draw_success define because if the player
+   //    rolls a critical success on their hand, the cards should blackjack
+   //    but if the critical success is on the dealers' hand, it should do the
+   //    opposite and make the dealer bust
+   the_roll := roll_vs_skill(dude_obj,SKILL_GAMBLING,TABLE_BONUS);
+   if (is_critical(the_roll)) then begin
+      if (card_draw_success(the_roll)) then begin
+         // black jack
+         card_1 := DrawCard(11);
+         card_2 := DrawCard(10);
+      end else begin
+         // bust
+         card_1 := DrawCard(random(9,10));
+         card_2 := DrawCard(random(4,8));
+         card_3 := DrawCard(random(9,10));
+      end
+   end else begin
+      // set the hi top amount the cards should reach
+      if (card_draw_success(the_roll)) then begin
+         target_total := random(good_hand_min,good_hand_max);
+      end else begin
+         target_total := random(bad_hand_min,bad_hand_max);
+      end
+      // draw card 1
+      card_1 := DrawCard(random(card_ace,card_king));
+      // draw propper card 2
+      if ((GetCardValue(card_1)+10) <= target_total) then begin
+         card_2 := DrawCard(10);
+      end begin
+         card_2 := DrawCard(random(1,target_total - GetCardValue(card_1)));
+      end
+      // draw card 3 if needed
+      hand_total := TotalCards(card_1,card_2,0);
+      if (target_total > hand_total) then begin
+         card_3 := DrawCard(target_total - hand_total);
+      end
+   end
+   // assign the cards to the correct player
+   if (who == player_def) then begin
+      set_player_cards(card_1,card_2,card_3);
+   end else begin
+      set_dealer_cards(card_1,card_2,card_3);
+   end
+end
+
+procedure Node999 begin
+   // do nothing and exit
+end
+procedure Node998 begin
+   // start combat and exit
+   set_local_var(LVAR_Hostile,true);
+   // attack(dude_obj);
+end
+
+procedure Node000 begin
+   if (local_var(LVAR_Hostile) == 0) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         if (player_won_max == false) then begin
+            // ask to play black jack
+            BL_Reply(BJ_mstr(102) + MIN_BET + BJ_mstr(103));
+            BJ_NOption(104,Node001,004);
+            BJ_NOption(105,Node999,004);
+            BJ_NOption(106,Node999,-003);
+         end else begin
+            // player asked to leave
+            BL_Reply(129);
+            BJ_NOption(127,Node999,001);
+            if (player_won_max) then begin
+               BJ_NOption(128,Node998,001);
+            end
+         end
+      gSay_End;
+      end_dialogue;
+   end else if (obj_type(self_obj) == 1) then begin
+      //floater(BJ_mstr(129));
+      float_msg(self_obj,BJ_mstr(129),FLOAT_COLOR_NORMAL); //edit by killap
+   end
+end
+procedure Node001 begin
+   // play
+   if (dude_caps >= MIN_BET) then begin
+      // player has enough dough to play
+      //    note : we don't take the money till the game is over
+      // reset useful variables
+      set_player_cards(0,0,0);
+      set_dealer_cards(0,0,0);
+      call Node002;
+      //BL_Reply(108);
+      //BJ_NOption(109,Node002,001);
+   end else begin
+      // player can't make min bet
+      BL_Reply(107);
+   end
+end
+
+procedure PrintDrawCardMessages(variable who, variable card_1, variable card_2, variable card_3, variable hand_total) begin
+variable the_line;
+variable last_card;
+   // add first card to the message
+   the_line := card_to_text(card_1);
+   // if card three is used, print out second and set last card to 3
+   //    else set last card to 2
+   if (card_3 == 0) then begin
+      last_card := card_2;
+   end else begin
+      the_line += BJ_mstr(114) + card_to_text(card_2);
+      last_card := card_3;
+   end
+   // printout the last card in the hand
+   the_line += BJ_mstr(115) + card_to_text(last_card) + BJ_mstr(116) + hand_total;
+
+   // add hand detail to end of line
+   if ((hand_total == 21) and (card_3 == 0)) then begin
+      // black jack
+      the_line += BJ_mstr(117);
+   end else if (hand_total > 21) then begin
+      // bust
+      the_line += BJ_mstr(118);
+   end
+   the_line += BJ_mstr(119);
+   // add who the hand belongs to at the front of the line
+   //    this is at the end because it goes to the propper node after as well
+   if (who == player_def) then begin
+      the_line := BJ_mstr(112) + the_line;
+   end else begin
+      the_line := BJ_mstr(120) + the_line;
+   end
+   return the_line;
+end
+
+procedure Node002 begin
+   // deal cards
+   call GiveCards(player_def);
+   call GiveCards(dealer_def);
+   call Node005;
+end
+procedure Node005 begin
+variable the_results;
+variable win_amt;
+   the_results := PrintDrawCardMessages(player_def,player_1_card,player_2_card,player_3_card,player_hand_total) + "  " + PrintDrawCardMessages(dealer_def,dealer_1_card,dealer_2_card,dealer_3_card,dealer_hand_total) + "  ";
+   // compare hands
+   if ((player_hand_total == dealer_hand_total) or ((player_hand_total > 21) and (dealer_hand_total > 21))) then begin
+      // game is a push
+      Reply(the_results + BJ_mstr(126));
+   end else if (((player_hand_total > dealer_hand_total) or (dealer_hand_total > 21)) and (player_hand_total <= 21)) then begin
+      // player wins
+      if ((player_hand_total == 21) and (player_3_card == 0)) then begin
+         win_amt := (3*MIN_BET)/2;
+      end else begin
+         win_amt := MIN_BET;
+      end
+      inc_player_winnings(win_amt);
+      BL_Reply(the_results + BJ_mstr(131) + win_amt + BJ_mstr(132));
+   end else begin
+      // player loses
+      inc_player_winnings(-MIN_BET);
+      Reply(the_results + BJ_mstr(125));
+   end
+   BJ_NOption(121,Node006,001);
+end
+procedure Node006 begin
+   if (player_won_max) then begin
+      play_sfx("shuffle");
+      // ask to play again
+      BL_Reply(122);
+      BJ_NOption(104,Node001,001);
+      BJ_NOption(105,Node999,001);
+   end else begin
+      // player asked to leave
+      BL_Reply(123);
+      BJ_NOption(127,Node999,001);
+      BJ_NOption(128,Node998,001);
+   end
+end

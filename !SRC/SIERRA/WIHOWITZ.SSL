@@ -1,0 +1,107 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_WIHOWITZ
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure use_p_proc;
+procedure use_obj_on_p_proc;
+procedure look_p_proc;
+procedure description_p_proc;
+procedure timed_event_p_proc;
+
+#define LVAR_Loaded_Howitzer            (0)
+#define LVAR_Fired                      (1)
+
+import variable Entrance_Door_Ptr;
+
+procedure start begin
+end
+
+procedure look_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+
+   if (local_var(LVAR_Fired) == 0) then
+       display_msg(mstr(101));
+   else
+       display_msg(mstr(102));
+end
+
+procedure use_p_proc begin
+
+   script_overrides;
+   if (local_var(LVAR_Loaded_Howitzer) == 1) then begin
+       set_local_var(LVAR_Loaded_Howitzer,0);
+       if (local_var(LVAR_Fired) == 1) then
+           display_msg(mstr(212));
+       else begin
+           play_sfx("howitzer");
+           add_timer_event(self_obj,10,1);
+       end
+   end
+
+   else begin
+       display_msg(mstr(211));
+   end
+end
+
+procedure timed_event_p_proc begin
+   variable door_tile;
+
+   door_tile:=tile_num(Entrance_Door_Ptr);
+   create_object(PID_SIERRA_ENTRANCE_DOOR_EXP,door_tile,elevation(self_obj));
+   create_object(33555781,door_tile,elevation(self_obj));
+   destroy_object(tile_contains_pid_obj(door_tile,elevation(self_obj),PID_SIERRA_ENTRANCE_DOOR));
+   set_local_var(LVAR_Fired,1);
+   explosion(11710,elevation(self_obj),200);
+   display_msg(mstr(210));
+end
+
+procedure use_obj_on_p_proc begin
+   if (obj_pid(obj_being_used_with) == PID_HOWITZER_SHELL) then begin
+       script_overrides;
+       if (local_var(LVAR_Loaded_Howitzer) == 1) then begin
+           display_msg(mstr(200));
+       end
+
+       else begin
+           set_local_var(LVAR_Loaded_Howitzer,1);
+           rm_obj_from_inven(source_obj,obj_being_used_with);
+           destroy_object(obj_being_used_with);
+           display_msg(mstr(201));
+       end
+   end
+end

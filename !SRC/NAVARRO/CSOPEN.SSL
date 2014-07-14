@@ -1,0 +1,41 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+#include "..\headers\define.h"
+#include "..\headers\navarro.h"
+
+#define NAME                    SCRIPT_CSOPEN
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure use_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure signal_critter;
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   call signal_critter;
+end
+
+procedure use_skill_on_p_proc begin
+   call signal_critter;
+end
+
+procedure use_obj_on_p_proc begin
+   call signal_critter;
+end
+
+procedure pickup_p_proc begin
+   call signal_critter;
+end
+
+procedure signal_critter begin
+   if (map_var(MVAR_Pass) == 0) then begin
+      set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+   end
+end

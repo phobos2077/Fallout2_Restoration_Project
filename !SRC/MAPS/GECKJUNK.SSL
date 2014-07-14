@@ -1,0 +1,89 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: GECKO JUNKYARD MAP
+        Location: GECKO
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+#include "..\headers\define.h"
+//#include "..\headers\GeckSetl.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_GECKJUNK
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure ghost_town;
+
+export variable gecko_percy_box;
+export variable gecko_junkyard_temp_box;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   if (map_first_run) then begin
+       display_msg(mstr(100));
+   end
+
+/*
+   if ((map_var(MVAR_Made_Car) == 0) and (global_var(GVAR_PLAYER_GOT_CAR) != 0) and (car_current_town == AREA_GECKO)) then begin
+       set_map_var(MVAR_Made_Car,1);
+       Create_Car(CAR_GECKO_HEX,CAR_GECKO_ELEV)
+   end
+   else if ((map_var(MVAR_Made_Car) == 1) and (car_current_town != AREA_GECKO)) then begin
+       set_map_var(MVAR_Made_Car,0);
+       Dest_Car(CAR_GECKO_HEX,CAR_GECKO_ELEV)
+   end
+*/
+
+   if (global_var(GVAR_GECKO_MELTDOWN) == 2) then begin
+      if ( (GAME_TIME_IN_HOURS - global_var(GVAR_GECKO_TIMER_MELTDOWN))  > 24) then begin
+         call ghost_town;
+      end
+   end
+
+   Lighting;
+
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+end
+
+procedure ghost_town begin
+      //a bunch of ghouls leave Town...No Power
+      kill_critter_type(PID_GENA_GHOUL,KILL_DONT_LEAVE_BODY);
+      kill_critter_type(PID_GENERIC_GHOUL,KILL_DONT_LEAVE_BODY);
+      kill_critter_type(PID_TOUGH_GHOUL,KILL_DONT_LEAVE_BODY);
+      kill_critter_type(PID_WOOZ,KILL_DONT_LEAVE_BODY);
+      kill_critter_type(PID_SKEETER,KILL_DONT_LEAVE_BODY);
+      kill_critter_type(PID_HAROLD,KILL_DONT_LEAVE_BODY);
+      kill_critter_type(PID_BRAHMIN,KILL_DONT_LEAVE_BODY);
+      kill_critter_type(PID_WEAK_BRAHMIN,KILL_DONT_LEAVE_BODY);
+      kill_critter_type(PID_WILD_BRAHMIN,KILL_DONT_LEAVE_BODY);
+      kill_critter_type(PID_LUMPY,KILL_DONT_LEAVE_BODY); //added by killap
+      kill_critter_type(PID_DOG,KILL_DONT_LEAVE_BODY); //added by killap
+       
+      if Lenny_In_Party then begin
+         //do nothing
+      end
+      else begin
+         kill_critter_type(PID_LENNY,KILL_DONT_LEAVE_BODY);
+      end
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+end

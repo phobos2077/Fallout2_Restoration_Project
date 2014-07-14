@@ -1,0 +1,229 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Boxing Fan
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: April 21, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCBOXFAN
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure map_exit_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                    (0)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+import variable prize_fighter_obj;
+import variable announcer_obj;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fight_is_on) then begin
+      if ((announcer_obj != 0) and (prize_fighter_obj != 0)) then begin
+         if (obj_is_visible_flag(announcer_obj) == false) then begin
+            if (check_fight_status(fight_status_fighting)) then begin
+               call Node007;
+            end
+         end
+      end
+   end else if (combat_is_initialized == false) then begin
+      if ((obj_on_screen(self_obj)) and (random(1, 5) == 3)) then begin
+         if ((dude_is_prizefighter) and (self_can_see_dude)) then begin
+            if (dude_is_female) then begin
+               call Node003;
+            end else begin
+               call Node002;
+            end
+         end else begin
+            call Node001;
+         end
+      end
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_BOXING_FAN);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_BOXING_FAN);
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (hostile) then begin
+         self_attack_dude;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_hostile;
+   end
+end
+
+procedure talk_p_proc begin
+   if (dude_is_prizefighter) then begin
+      if (dude_is_female) then begin
+         call Node006;
+      end else begin
+         call Node005;
+      end
+   end else begin
+      call Node004;
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   //if (dude_is_female) then begin
+   if (critter_is_female) then begin //edit by killap
+      display_mstr_rand(152, 153);
+   end else begin
+      display_mstr_rand(150, 151);
+   end
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+#define is_insert_message(x)              (((202 <= x) and (x <= 204)) or ((206 <= x) and (x <= 214)) or    \
+                                           ((250 <= x) and (x <= 254)) or ((256 <= x) and (x <= 259)) or    \
+                                           ((268 <= x) and (x <= 271)) or ((281 <= x) and (x <= 287)) or    \
+                                           ((289 <= x) and (x <= 292)) or ((301 <= x) and (x <= 304)) or    \
+                                           ((354 <= x) and (x <= 358)) or ((360 <= x) and (x <= 362)) or    \
+                                           ((387 <= x) and (x <= 392)) or ((394 <= x) and (x <= 396)) or    \
+                                           (x == 216) or (x == 261) or (x == 262) or (x == 265) or          \
+                                           (x == 266) or (x == 294) or (x == 295) or (x == 298) or          \
+                                           (x == 299) or (x == 350) or (x == 352) or (x == 364) or          \
+                                           (x == 366) or (x == 381) or (x == 382) or (x == 385) or          \
+                                           (x == 398) or (x == 400))
+
+procedure Node001 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      floater_rand_with_check(202 - (2*self_is_male), 211 + (5*self_is_female), other_boxer_name, 1000);
+   //end else begin
+   //   floater_rand_with_check(201, 202, other_boxer_name, 1000);
+   //end
+end
+procedure Node002 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      floater_rand_with_check(254 - (4*dude_is_male), 265 + (6*dude_is_female), prizefighter_name, 1000);
+   //end else begin
+   //   floater_rand_with_check(256, 257, prizefighter_name, 1000);
+   //end
+end
+procedure Node003 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      floater_rand_with_check(287, 290, prizefighter_name, 1000);
+   //end else begin
+   //   // do nothing
+   //end
+end
+procedure Node004 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      float_msg(self_obj, other_boxer_name + mstr(random(320, 326 + (2*self_is_female))), FLOAT_COLOR_NORMAL);
+   //else
+   //   float_msg(self_obj, other_boxer_name + mstr(324), FLOAT_COLOR_NORMAL);
+end
+procedure Node005 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      floater_rand_with_check(351 - dude_is_male, 363 + (3*dude_is_female), prizefighter_name, 1000);
+   //end else begin
+   //   floater_rand_with_check(351, 355, prizefighter_name, 1000);
+   //end
+end
+procedure Node006 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      floater_rand_with_check(384 - (4*dude_is_male), 398 + (2*dude_is_female), prizefighter_name, 1000); //was (3*dude_is_female) - killap
+   //end else begin
+   //   floater_rand_with_check(385, 389, prizefighter_name, 1000);
+   //end
+end
+procedure Node007 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      // watching fight
+      if (((dude_score > boxer_score) or (dude_cur_hits > get_critter_stat(prize_fighter_obj,STAT_current_hp))) and (random(1,3) != 2)) then begin
+         floater_rand_with_check(256, 264, prizefighter_name, 1000);
+      end else begin
+         floater_rand_with_check(256, 264, vs_boxer_name, 1000);
+      end
+   //end else if (((dude_score > boxer_score) or (dude_cur_hits > get_critter_stat(prize_fighter_obj,STAT_current_hp))) and (random(1,3) != 2)) then begin
+   //   floater_rand_with_check(256, 257, prizefighter_name, 1000);
+   //end else begin
+   //   floater_rand_with_check(256, 257, vs_boxer_name, 1000);
+   //end
+end

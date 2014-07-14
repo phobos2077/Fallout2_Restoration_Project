@@ -1,0 +1,118 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+import variable becky_guard_obj;
+import variable becky_door_guard_obj;
+import variable becky_obj;
+import variable becky_door_obj;
+variable check_guard;
+variable user_of_door;
+
+#define LOCKED_STATUS                   (((becky_dead == false) * STATE_ACTIVE) + (becky_dead * STATE_INACTIVE))
+
+#define send_tamper_to_guard_who_sees                                                                    \
+         check_guard := 0;                                                                               \
+         if (becky_guard_obj != 0) then begin                                                            \
+            if (obj_can_see_obj(becky_guard_obj, user_of_door)) then begin                               \
+               check_guard := becky_guard_obj;                                                           \
+            end                                                                                          \
+         end else if (becky_obj != 0) then begin                                                         \
+            if (obj_can_see_obj(becky_obj, user_of_door)) then begin                                     \
+               check_guard := becky_obj;                                                                 \
+            end                                                                                          \
+         end                                                                                             \
+         if (becky_door_guard_obj != 0) then begin                                                       \
+            if ((obj_can_see_obj(becky_door_guard_obj, user_of_door)) or (check_guard != 0)) then begin  \
+               check_guard := becky_door_guard_obj;                                                      \
+            end                                                                                          \
+         end
+
+procedure def_use_p_proc;
+procedure def_use_skill_on_p_proc;
+procedure def_map_update_p_proc;
+
+procedure test_use_tamper;
+procedure test_door_open;
+procedure test_use_skill_tamper;
+
+procedure use_p_proc begin
+   user_of_door := source_obj;
+   if (test_use_tamper == false) then begin
+      if (test_door_open == false) then begin
+         call def_use_p_proc;
+      end
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   user_of_door := source_obj;
+   if (test_use_tamper == false) then begin
+      call def_use_skill_on_p_proc;
+   end
+end
+
+procedure map_update_p_proc begin
+   becky_door_obj := self_obj;
+end
+
+#define use_p_proc                        def_use_p_proc
+#define use_skill_on_p_proc               def_use_skill_on_p_proc
+#define map_update_p_proc                 def_map_update_p_proc
+
+#include "..\den\diDoor.ssl"
+
+procedure test_use_tamper begin
+   debug_msg("test_use_tamper");
+   send_tamper_to_guard_who_sees
+   if (check_guard != 0) then begin
+      if (user_of_door == dude_obj) then begin
+         debug_msg("   user_of_door == dude_obj");
+         script_overrides;
+         flush_add_timer_event(check_guard, 0, timed_event_door_tamper);
+         return true;
+      end else if (obj_in_party(user_of_door)) then begin
+         debug_msg("   obj_in_party(user_of_door)");
+         script_overrides;
+         return true;
+      end
+   end
+   return false;
+end
+
+procedure test_door_open begin
+   if ((obj_is_open(self_obj) == false) and (obj_is_locked(self_obj) == false)) then begin
+      send_tamper_to_guard_who_sees
+      if (check_guard != 0) then begin
+         if (user_of_door == dude_obj) then begin
+            flush_add_timer_event(check_guard, 0, timed_event_attack);
+            return true;
+         end else if (obj_in_party(user_of_door)) then begin
+            script_overrides;
+            return true;
+         end
+      end
+   end
+   return false;
+end
+
+procedure test_use_skill_tamper begin
+   send_tamper_to_guard_who_sees
+   debug_msg("test_use_skill_tamper");
+   if (check_guard != 0) then begin
+      if ((action_being_used == SKILL_LOCKPICK) or (action_being_used == SKILL_TRAPS)) then begin
+         if (obj_can_see_obj(check_guard, user_of_door)) then begin
+            if (user_of_door == dude_obj) then begin
+               script_overrides;
+               flush_add_timer_event(check_guard, 0, timed_event_door_tamper);
+               return true;
+            end else if (obj_in_party(user_of_door)) then begin
+               script_overrides;
+               flush_add_timer_event(check_guard, 0, timed_event_door_tamper);
+               return true;
+            end
+         end
+      end
+   end
+   return false;
+end

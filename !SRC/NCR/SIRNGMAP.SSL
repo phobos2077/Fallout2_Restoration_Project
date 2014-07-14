@@ -1,0 +1,42 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_SIRNGMAP
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure use_p_proc;
+
+#define LVAR_Gave_Locations    (0)
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   if (local_var(LVAR_Gave_Locations) == 0) then begin
+      set_local_var(LVAR_Gave_Locations,1);
+      mark_area_known(0, AREA_RANGER_SAFE1, MARK_STATE_KNOWN);
+      mark_area_known(0, AREA_RANGER_SAFE2, MARK_STATE_KNOWN);
+      mark_area_known(0, AREA_RANGER_SAFE3, MARK_STATE_KNOWN);
+      display_msg(mstr(100));
+   end else begin
+      display_msg(mstr(101));
+   end
+end

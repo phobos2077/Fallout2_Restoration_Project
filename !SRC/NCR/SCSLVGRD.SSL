@@ -1,0 +1,456 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Slaver Guard
+        Location: NCR Entrance
+        Description: Guards the slaves.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\ncrent.h"
+
+#define NAME                    SCRIPT_SCSLVGRD
+#define TOWN_REP_VAR         GVAR_TOWN_REP_NCR
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#include "..\headers\ncr.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+#define T8TO11 (bit_8 bwor bit_9 bwor bit_10 bwor bit_11)
+#define T12TO3 (bit_12 bwor bit_13 bwor bit_14 bwor bit_15)
+#define T4TO11 (bit_16 bwor bit_17 bwor bit_18 bwor bit_19)
+#define T12TO7 (bit_20 bwor bit_21 bwor bit_22 bwor bit_23 bwor  \
+                bit_24 bwor bit_1  bwor bit_2  bwor bit_4  bwor  \
+                bit_5  bwor bit_6  bwor bit_7)
+
+#define TIMER_SCHEDUAL 1
+
+
+procedure Node001;
+procedure Node002;
+
+procedure getTimeBit;
+procedure timer_proc;
+procedure anim_end_call;
+procedure canSeePlayer;
+procedure startPatrol;
+procedure go_tile(variable tile);
+procedure checkOfficePos;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+#define DIR_FORWARD  1
+#define DIR_BACKWARD 2
+
+variable Only_Once:=0;
+variable anim_flag := 0;
+
+import variable patrolGuard;
+variable self_patrolGuard := 0;
+variable successCount := 0;
+
+variable onPatrol := 0;
+variable patrolTarget := 0;
+variable patrolDir := 0;
+variable attacked := 0;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_SCHEDUAL) then begin
+      call timer_proc;
+      add_timer_event(self_obj, ONE_GAME_MINUTE, TIMER_SCHEDUAL);
+   end
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once :=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_VORTIS);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   patrolGuard += 1;
+   if (patrolGuard == 2) then begin
+      self_patrolGuard := 1;
+      onPatrol := 1;
+      if (is_loading_game == FALSE) then
+         call startPatrol;
+      add_timer_event(self_obj, ONE_GAME_MINUTE, TIMER_SCHEDUAL);
+   end else if (patrolGuard == 1) then begin
+      if (is_loading_game == FALSE) then
+         call checkOfficePos;
+      add_timer_event(self_obj, ONE_GAME_MINUTE, TIMER_SCHEDUAL);
+   end
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+   variable seep;
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   seep := obj_can_see_obj(self_obj, dude_obj);
+
+   if ((local_var(LVAR_Hostile) != 0) and seep) then begin
+       set_local_var(LVAR_Hostile,1);
+       self_attack_dude;
+   end
+
+   do_self_anim_callback
+
+   if (map_var(MVAR_Slavers_Attack) == 1) then begin
+      set_local_var(LVAR_Hostile, 2);
+   end else begin
+      if (/*onPatrol and */seep) then begin
+         if (tile_in_tile_rect(13725, 12485, 19125, 19085, dude_tile)) then begin
+            set_map_var(MVAR_Slavers_Attack, 1);
+         end
+      end
+   end
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (obj_in_party(source_obj)) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+       set_map_var(MVAR_Slavers_Attack, 1);
+   end
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=1;
+   Slavery_Tolerant:=SLAVE_PROUD;
+   Karma_Perception:=KARMA_PERCEPTION2;
+
+   CheckKarma;
+
+   GetReaction;
+
+   if (onPatrol == 0) then
+      call Node001;
+   else if ( (obj_can_see_obj(self_obj, dude_obj)) and (tile_in_tile_rect(13725, 12485, 19125, 19085, dude_tile)) ) then begin //added check by killap
+      call Node002;
+      set_map_var(MVAR_Slavers_Attack, 1);
+      reg_anim_clear(self_obj);
+   end
+
+   set_local_var(LVAR_Herebefore, 1);
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   float_msg(self_obj, mstr(103 + Random(0, 3)), FLOAT_MSG_NORMAL);
+end
+
+procedure Node002 begin
+   variable mnum;
+
+   mnum := 107 + Random(0, 3);
+   float_msg(self_obj, mstr(mnum), FLOAT_MSG_RED);
+end
+
+procedure chooseNewTarget begin
+   if (patrolDir == DIR_FORWARD) then begin
+      if (patrolTarget == SLVGRD_PT_1) then begin
+         patrolTarget := SLVGRD_PT_2;
+      end
+      else if (patrolTarget == SLVGRD_PT_2) then begin
+         patrolTarget := SLVGRD_PT_3;
+      end
+      else if (patrolTarget == SLVGRD_PT_3) then begin
+         patrolTarget := SLVGRD_PT_4;
+      end
+      else if (patrolTarget == SLVGRD_PT_4) then begin
+         patrolTarget := SLVGRD_PT_5;
+      end
+      else if (patrolTarget == SLVGRD_PT_5) then begin
+         patrolTarget := SLVGRD_PT_6;
+      end
+      else if (patrolTarget == SLVGRD_PT_6) then begin
+         patrolTarget := SLVGRD_PT_7;
+      end
+      else if (patrolTarget == SLVGRD_PT_7) then begin
+         patrolDir := DIR_BACKWARD;
+         patrolTarget := SLVGRD_PT_6;
+      end
+   end else begin
+      if (patrolTarget == SLVGRD_PT_1) then begin
+         patrolDir := DIR_FORWARD;
+         patrolTarget := SLVGRD_PT_2;
+      end
+      else if (patrolTarget == SLVGRD_PT_2) then begin
+         patrolTarget := SLVGRD_PT_1;
+      end
+      else if (patrolTarget == SLVGRD_PT_3) then begin
+         patrolTarget := SLVGRD_PT_2;
+      end
+      else if (patrolTarget == SLVGRD_PT_4) then begin
+         patrolTarget := SLVGRD_PT_3;
+      end
+      else if (patrolTarget == SLVGRD_PT_5) then begin
+         patrolTarget := SLVGRD_PT_4;
+      end
+      else if (patrolTarget == SLVGRD_PT_6) then begin
+         patrolTarget := SLVGRD_PT_5;
+      end
+      else if (patrolTarget == SLVGRD_PT_7) then begin
+         patrolTarget := SLVGRD_PT_6;
+      end
+   end
+end
+
+procedure anim_end_call begin
+   if (onPatrol == 1) then begin
+      if (self_tile == patrolTarget) then begin
+         call chooseNewTarget;
+      end
+      call go_tile(patrolTarget);
+   end
+end
+
+procedure checkOfficePos begin
+   if (not anim_busy(self_obj)) then begin
+      if (self_tile != SLVGRD_OFFICE_POS) then
+         call go_tile(SLVGRD_OFFICE_POS);
+   end
+end
+
+procedure startPatrol begin
+   patrolTarget := SLVGRD_PT_1;
+   patrolDir    := DIR_FORWARD;
+   call go_tile(patrolTarget);
+end
+
+procedure check8to11pos begin
+   if not (self_patrolGuard) then begin
+      onPatrol := 0;
+      call checkOfficePos;
+   end
+end
+
+procedure check12to3pos begin
+   if not (self_patrolGuard) then begin
+      onPatrol := 0;
+      call checkOfficePos;
+   end
+end
+
+procedure check4to11pos begin
+   if (onPatrol == 0) then begin
+      onPatrol := 1;
+      call startPatrol;
+   end
+end
+
+procedure check12to7pos begin
+   if (onPatrol == 0) then begin
+      onPatrol := 1;
+      call startPatrol;
+   end
+end
+
+procedure timer_proc begin
+   variable bittime := 0;
+
+   bittime := getTimeBit;
+
+   if (bittime bwand T8TO11) then
+      call check8to11pos;
+   else if (bittime bwand T12TO3) then
+      call check12to3pos;
+   else if (bittime bwand T4TO11) then
+      call check4to11pos;
+   else if (bittime bwand T12TO7) then
+      call check12to7pos;
+end
+
+procedure go_tile(variable tile) begin
+   reg_anim_clear(self_obj);
+   reg_anim_begin();
+      animate_move_to_tile(tile);
+   reg_anim_end();
+end
+
+procedure canSeePlayer begin
+   variable retval := 0;
+
+   if not (successCount) then begin
+      if (obj_can_see_obj(self_obj, dude_obj)) then begin
+         retval := 1;
+      end
+      else begin
+         successCount := SUCCESSNOCHECK;
+         retval := 0;
+      end
+   end else begin
+      successCount -= 1;
+      retval := 0;
+   end
+
+   if (retval) then
+      retval := tile_distance_objs(self_obj, dude_obj);
+   return retval;
+end
+
+procedure getTimeBit begin
+   variable time := 0;
+
+   time := game_time_hour;
+   if (time >= 100 and time <= 159) then return bit_1;
+   if (time >= 200 and time <= 259) then return bit_2;
+   if (time >= 300 and time <= 359) then return bit_3;
+   if (time >= 400 and time <= 459) then return bit_4;
+   if (time >= 500 and time <= 559) then return bit_5;
+   if (time >= 600 and time <= 659) then return bit_6;
+   if (time >= 700 and time <= 759) then return bit_7;
+   if (time >= 800 and time <= 859) then return bit_8;
+   if (time >= 900 and time <= 959) then return bit_9;
+   if (time >= 1000 and time <= 1059) then return bit_10;
+   if (time >= 1100 and time <= 1159) then return bit_11;
+   if (time >= 1200 and time <= 1259) then return bit_12;
+   if (time >= 1300 and time <= 1359) then return bit_13;
+   if (time >= 1400 and time <= 1459) then return bit_14;
+   if (time >= 1500 and time <= 1559) then return bit_15;
+   if (time >= 1600 and time <= 1659) then return bit_16;
+   if (time >= 1700 and time <= 1759) then return bit_17;
+   if (time >= 1800 and time <= 1859) then return bit_18;
+   if (time >= 1900 and time <= 1959) then return bit_19;
+   if (time >= 2000 and time <= 2059) then return bit_20;
+   if (time >= 2100 and time <= 2159) then return bit_21;
+   if (time >= 2200 and time <= 2259) then return bit_22;
+   if (time >= 2300 and time <= 2359) then return bit_23;
+   if (time >= 2400 and time <= 2459) then return bit_24;
+end
+
+
+//xxxxxxxxxxxxxxxxxxxx

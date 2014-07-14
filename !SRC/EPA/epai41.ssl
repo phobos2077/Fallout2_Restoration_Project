@@ -1,0 +1,94 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_EPAI41
+
+#include "..\headers\command.h"
+
+
+procedure start;
+procedure use_p_proc;
+procedure use_obj_on_p_proc;
+procedure destroy_p_proc;
+
+#define PARTY_NON_BIPED_SIZE (Cyberdog_In_Party+Robobrain_In_Party+Robobrain_Chimp_In_Party+Robobrain_Abnormal_In_Party+Robobrain_Human_In_Party+K9_In_Party+Pariah_Dog_In_Party+Dogmeat_In_Party)
+
+procedure start begin
+
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(message_str(NAME, 102));
+end
+
+procedure description_p_proc begin
+  script_overrides;
+  display_msg(message_str(NAME, 103));
+end
+
+procedure destroy_p_proc begin
+
+end
+
+procedure use_p_proc begin
+   if (Cyberdog_In_Party) then begin
+      add_timer_event(Cyberdog_Ptr,game_ticks(0),40893);
+      //party_member_hide(Cyberdog_Ptr, hidden_cyberdog_bit)
+   end if (Robobrain_In_Party) then begin
+      add_timer_event(Robobrain_Ptr,game_ticks(0),40893);
+      //party_member_hide(Robobrain_Ptr, hidden_robobrain_bit)
+   end if (Robobrain_Chimp_In_Party) then begin
+      add_timer_event(Robobrain_Chimp_Ptr,game_ticks(0),40893);
+      //party_member_hide(Robobrain_Chimp_Ptr, hidden_robobrain_chimp_bit)
+   end if (Robobrain_Abnormal_In_Party) then begin
+      add_timer_event(Robobrain_Abnormal_Ptr,game_ticks(0),40893);
+      //party_member_hide(Robobrain_Abnormal_Ptr, hidden_robobrain_abnormal_bit)
+   end if (Robobrain_Human_In_Party) then begin
+      add_timer_event(Robobrain_Human_Ptr,game_ticks(0),40893);
+      //party_member_hide(Robobrain_Human_Ptr, hidden_robobrain_human_bit)
+   end if (K9_In_Party) then begin
+      add_timer_event(K9_Ptr,game_ticks(0),40893);
+      //party_member_hide(K9_Ptr, hidden_k9_bit)
+   end if (Dogmeat_In_Party) then begin
+      add_timer_event(Dogmeat_Ptr,game_ticks(0),40893);
+      //party_member_hide(Dogmeat_Ptr, hidden_dogmeat_bit)
+   end
+
+end
+
+procedure use_obj_on_p_proc begin
+   variable door;
+   if (tile_contains_pid_obj(self_tile,self_elevation,33556366)) then begin
+      script_overrides;
+      if ((obj_pid(obj_being_used_with) == PID_ROPE)) then begin
+         script_overrides;
+         remove_pid_qty(dude_obj, PID_ROPE, 1)
+         door:=tile_contains_pid_obj(17124,1,33554902);
+         obj_open(door);
+         gfade_out(ONE_GAME_SECOND);
+         gfade_in(ONE_GAME_SECOND);
+         if (PARTY_NON_BIPED_SIZE > 1) then
+            float_msg(dude_obj, message_str(NAME, 100), FLOAT_MSG_YELLOW);
+         else if (PARTY_NON_BIPED_SIZE == 1) then
+            float_msg(dude_obj, message_str(NAME, 101), FLOAT_MSG_YELLOW);
+         destroy_object(self_obj);
+      end
+   end
+end

@@ -1,0 +1,255 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item:   Door to the craps table
+        Description: It stops the player from getting to the craps table unless he knows about it
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_SSCRPDOR
+#define CUR_COMP_SCRIPT         SCRIPT_SSCRPDOR
+
+#include "..\headers\command.h"
+#include "..\headers\ncr.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Door_Unlocked                              (0)
+
+#define dude_in_back_room(x) tile_in_tile_rect(14537, 14523, 16537, 16523, x) //added by killap
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+procedure Node001;
+procedure Node002;
+procedure Node003;
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+   //added by killap
+   if (dude_in_back_room(dude_tile) and (local_var(LVAR_Door_Unlocked) == 0)) then
+      set_local_var(LVAR_Door_Unlocked, 1);
+   //end added
+   
+   if ((local_var(LVAR_Door_Unlocked) == 0) and not(dude_in_back_room(dude_tile)))then begin //added dude_in_back_room - killap
+      script_overrides;
+      if (source_obj == dude_obj) then begin
+         dialogue_system_enter;
+      end
+   end
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+
+/**********************************************************************************
+**********************************************************************************/
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+
+/**********************************************************************************
+   Make sure the door is working.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+   variable Skill_Used;
+
+   Skill_Used:=action_being_used;
+   if (Skill_Used == SKILL_LOCKPICK) then begin
+      script_overrides; //added by killap
+      display_msg(mstr(110));
+   end
+
+   else if (Skill_Used == SKILL_TRAPS) then begin
+      script_overrides; //added by killap
+      display_msg(mstr(111));
+   end
+end
+
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+
+procedure use_obj_on_p_proc begin
+   variable Tool;
+
+   Tool:=obj_pid(obj_being_used_with);
+
+   if (Tool == PID_LOCKPICKS) then begin
+      script_overrides;
+      display_msg(mstr(110));
+   end else if (Tool == PID_EXP_LOCKPICK_SET) then begin
+      script_overrides;
+      display_msg(mstr(110));
+   end else if (Tool == PID_ELECTRONIC_LOCKPICKS) then begin
+      script_overrides;
+      display_msg(mstr(110));
+   end else if (Tool == PID_ELEC_LOCKPICK_MKII) then begin
+      script_overrides;
+      display_msg(mstr(110));
+   end else if (Tool == PID_CROWBAR) then begin
+      script_overrides;
+      if (dude_strength > 8) then begin
+         if (stat_success(dude_obj, STAT_st, 0)) then begin
+            if (local_var(LVAR_Door_Unlocked) == 0) then begin
+               ncr_set_global_state(NCR_CRAPS_KNOWN);  //added by killap
+               obj_unlock(self_obj); //added by killap
+               set_local_var(LVAR_Door_Unlocked, 1);
+               display_msg(mstr(112));
+            end else begin
+               display_msg(mstr(113));
+            end
+         end
+      end else begin
+         display_msg(mstr(114));
+      end
+   end else if ((Tool == PID_DYNAMITE) or (Tool == PID_PLASTIC_EXPLOSIVES)) then begin
+      script_overrides;
+      display_msg(mstr(111));
+   end
+end
+
+
+/******************************************************************************************
+   IF it gets damaged it breaks
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   display_msg(mstr(102));
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   //added by killap
+   if (local_var(LVAR_Door_Unlocked) == 0) then begin
+      obj_close(self_obj);
+      obj_lock(self_obj);
+   end 
+   //end added
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+   //added by killap
+   if (local_var(LVAR_Door_Unlocked) == 0) then begin
+      obj_close(self_obj);
+      obj_lock(self_obj);
+   end 
+   //end added
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   start_gdialog(NAME,self_obj,4,-1,-1);
+   gSay_Start;
+      call Node001;
+   gSay_End;
+   end_dialogue;
+end
+
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   Reply(103);
+   
+   NLowOption(120,Node003); //added by killap
+   NLowOption(121,Node003); //added by killap
+   
+   NOption(104, Node003, 4); //edit by killap - was , 1
+   NOption(105, Node003, 4); //edit by killap - was , 1
+   NOption(106, Node003, 4); //edit by killap - was , 1
+   if (ncr_global_state(NCR_CRAPS_KNOWN)) then
+      NOption(107, Node002, 1);
+end
+
+procedure Node002 begin
+   set_local_var(LVAR_Door_Unlocked, 1);
+   obj_unlock(self_obj); //added by killap
+   Reply(108);
+   ENDOPTION;
+end
+
+procedure Node003 begin
+   Reply(109);
+   ENDOPTION;
+end

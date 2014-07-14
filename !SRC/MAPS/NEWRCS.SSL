@@ -1,0 +1,72 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: NewRCS
+        Location: New Reno
+        Description: Chop Shop
+
+        Log:
+
+           Created: April 27, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\NewRCS.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_NEWRCS
+
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+export variable chop_shop_boy_obj;
+export variable new_reno_t_ray_box;
+export variable new_reno_t_ray_obj;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   debug_msg("global_var(GVAR_LOAD_MAP_INDEX) == "+global_var(GVAR_LOAD_MAP_INDEX));
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_chop_shop_known;
+         display_msg(nr_mstr(102));
+         if (global_var(GVAR_LOAD_MAP_INDEX) == 999) then begin
+            display_msg(nr_mstr(1000));
+         end else if (global_var(GVAR_LOAD_MAP_INDEX) == 888) then begin
+            display_msg(nr_mstr(1100));
+         end else if (global_var(GVAR_LOAD_MAP_INDEX) == 777) then begin
+            display_msg(nr_mstr(1300));
+         end
+      end
+      set_global_var(GVAR_LOAD_MAP_INDEX, 0);
+
+      if (get_stolen_car(stolen_car_stolen)) then begin //killap's fix: changed from (car_at_chop_shop)
+         set_global_var(GVAR_CAR_PLACED_TILE, 0);
+         Create_Car(CAR_NEW_RENO_CHOP_SHOP_HEX, CAR_NEW_RENO_ELEV)
+         if (tile_contains_pid_obj(CAR_NEW_RENO_CHOP_SHOP_HEX, CAR_NEW_RENO_ELEV, PID_DRIVABLE_CAR) != 0) then begin
+            Create_Trunk(CAR_NEW_RENO_CHOP_SHOP_HEX, CAR_NEW_RENO_ELEV)
+         end
+      end else begin
+         Check_Create_Car(CAR_NEW_RENO_CHOP_SHOP_HEX, CAR_NEW_RENO_ELEV)
+      end
+      override_map_start_hex(24341,0,0);
+   end
+
+   set_map_exit_tiles(22953, 0);
+   Lighting;
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+end

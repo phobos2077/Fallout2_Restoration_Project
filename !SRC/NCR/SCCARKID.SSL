@@ -1,0 +1,512 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Carlson's Kid
+        Location: NCR 2
+        Description: He runs around. He also runs into his fathers room. So you can plant a bomb on him to
+         blow up carlson.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#define NPC_REACTION_TYPE       REACTION_TC
+#include "..\headers\define.h"
+#include "..\headers\ncr2.h"
+
+#define NAME                    SCRIPT_SCCARKID
+#define TOWN_REP_VAR         GVAR_TOWN_REP_NCR
+
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+
+#include "..\headers\ncr.h"
+#define WAYPNT_RUN
+#include "..\ncr\waypnt.ssl"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure push_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+
+procedure destCall(variable tileNum);
+procedure anim_end_call;
+procedure walkToCarlson;
+//procedure checkTime;
+
+
+#define BAD_MAN                1
+#define REALLY_BAD_MAN         2
+#define GOTO_CARLSON           3
+#define BISHOP_NEWS            4
+#define BACK_FROM_GOTO_CARLSON 5
+#define BACK_FROM_BISHOP_NEWS  6
+
+#define TIMER_WALKBACK         1
+#define TELL_ON_PLAYER         2 //added by killap
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_State                      (7)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable doNormalWalking := 0;
+variable anim_flag := 0;
+
+procedure push_p_proc begin
+end
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (doNormalWalking) then begin
+      if (tvarProcess(fixed_param)) then begin
+         tvarSetTimer(game_ticks(1));
+      end
+   end else begin
+      if (fixed_param == TIMER_WALKBACK) then begin
+         if (local_var(LVAR_State) == GOTO_CARLSON) then
+            set_local_var(LVAR_State, BACK_FROM_GOTO_CARLSON);
+         if (local_var(LVAR_State) == BISHOP_NEWS) then
+            set_local_var(LVAR_State, BACK_FROM_BISHOP_NEWS);
+         call anim_end_call;
+      //added by killap
+      end else if (fixed_param == TELL_ON_PLAYER) then begin
+         call walkToCarlson;
+      end
+      //end added
+   end
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_CARLSON);
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CHILD);
+   tvarSetNum(6);
+   tvarTile(0, 19139);
+   tvarTile(1, 17129);
+   tvarTile(2, 16928);
+   tvarTile(3, 19524);
+   tvarTile(4, 21928);
+   tvarTile(5, 20139);
+   //Extranious tiles
+   tvarTile(6, 19749);
+   tvarTile(7, 21348);
+   tvarTile(8, 21752);
+
+   tvarTime(0, game_ticks(Random(0, 4)));
+   tvarTime(1, game_ticks(Random(0, 4)));
+   tvarTime(2, game_ticks(Random(0, 4)));
+   tvarTime(3, game_ticks(Random(0, 4)));
+   tvarTime(4, game_ticks(Random(0, 4)));
+   tvarTime(5, game_ticks(Random(0, 4)));
+   if (is_loading_game == FALSE) then
+      tvarWarpToPos(0, game_time + game_ticks(1));
+   tvarCBack("destCall");
+   tvarSetTimer(game_ticks(1));
+   doNormalWalking := 1;
+//   add_timer_event(self_obj, 0, TIMER_CHECK_TIME);
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+   do_self_anim_callback
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_TOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION0;
+
+   CheckKarma;
+
+   GetReaction;
+
+   if (get_carlson_flag(CARLSON_DEAD)) then begin
+      call Node016;
+   end else if (get_carlson_flag(CARLSON_SECURITY_DUTY) and local_var(LVAR_State) == 0) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+          call Node001;
+      gSay_End;
+      end_dialogue;
+   end else if (local_var(LVAR_State) == REALLY_BAD_MAN) then
+      call Node015;
+   else if (local_var(LVAR_State) == BAD_MAN) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node014;
+      gSay_End;
+      end_dialogue;
+   end else if (local_var(LVAR_State) == BACK_FROM_GOTO_CARLSON) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node011;
+      gSay_End;
+      end_dialogue;
+   end else if (local_var(LVAR_State) == BACK_FROM_BISHOP_NEWS) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node013;
+      gSay_End;
+      end_dialogue;
+   end else begin
+      if (local_var(LVAR_Herebefore) ==  0) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node001;
+         gSay_End;
+         end_dialogue;
+      end
+      else begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node007;
+         gSay_End;
+         end_dialogue;
+      end
+   end
+
+   if (local_var(LVAR_State) == GOTO_CARLSON or local_var(LVAR_State) == BISHOP_NEWS) then begin
+      call walkToCarlson;
+   end
+
+   set_local_var(LVAR_Herebefore, 1);
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   Reply(103);
+   NOption(dude_name + ".", Node002, 1);
+   if (get_carlson_flag(CARLSON_SECURITY_DUTY)) then
+      NOption(105, Node003, 4);
+   NOption(106, Node004, 4);
+   if (has_rep_childkiller) then
+      BOption(107, Node006, 4);
+   if (has_rep_berserker) then
+      BOption(108, Node007, 4);
+   NOption(109, Node999, 4);
+end
+
+procedure Node002 begin
+   Reply(dude_name + mstr(110));
+   ENDOPTION;
+end
+
+procedure Node003 begin
+   Reply(111);
+   NOption(112, Node006, 4);
+   NOption(113, Node999, 4);
+end
+
+procedure Node004 begin
+   Reply(114);
+   NOption(115, Node005, 4);
+   NOption(116, Node999, 4);
+end
+
+procedure Node999a begin
+   set_local_var(LVAR_State, BAD_MAN);
+   call Node999;
+   add_timer_event(self_obj, game_ticks(3), TELL_ON_PLAYER); //added by killap
+end
+
+procedure Node005 begin
+   Reply(117);
+   NOption(118, Node999a, 4);
+   NOption(119, Node999, 4);
+end
+
+procedure Node006 begin
+   Reply(120);
+   set_local_var(LVAR_State, BAD_MAN);
+   ENDOPTION;
+   add_timer_event(self_obj, game_ticks(3), TELL_ON_PLAYER); //added by killap
+end
+
+procedure Node129a begin
+   if (local_var(LVAR_State) == BACK_FROM_GOTO_CARLSON) then begin
+      set_local_var(LVAR_State, 0);
+      call Node012;
+   end else
+      call Node009;
+end
+
+procedure Node007 begin
+   Reply(121);
+   NOption(122, Node129a, 4);
+   if (get_carlson_flag(CARLSON_ACCEPT_SNUFF)) then
+      NOption(123, Node010, 7);
+   NLowOption(124, Node008);
+end
+
+procedure Node008 begin
+   Reply(125);
+   ENDOPTION;
+end
+
+procedure Node009 begin
+   set_local_var(LVAR_State, GOTO_CARLSON);
+   Reply(126);
+   ENDOPTION;
+end
+
+procedure Node999b begin
+   set_local_var(LVAR_State, BISHOP_NEWS);
+   call Node999;
+end
+
+procedure Node010 begin
+   Reply(127);
+   NOption(128, Node999b, 7);
+end
+
+procedure Node011 begin
+   set_local_var(LVAR_State, 0);
+   Reply(129);
+   ENDOPTION;
+end
+
+procedure Node012 begin
+   set_local_var(LVAR_State, 0);
+   Reply(130);
+   ENDOPTION;
+end
+
+procedure Node013 begin
+   Reply(131);
+   set_map_var(MVAR_Player_Said_Bishop, 1);
+   //Possible global set so the guard won't attack if you go in the house.
+   ENDOPTION;
+end
+
+procedure Node999c begin
+   set_local_var(LVAR_State, REALLY_BAD_MAN);
+   call Node999;
+   add_timer_event(self_obj, game_ticks(3), TELL_ON_PLAYER); //added by killap
+end
+
+procedure Node014 begin
+   Reply(132);
+   NOption(133, Node999c, 4);
+   NOption(134, Node999, 4);
+end
+
+procedure Node015 begin
+   //float_msg(self_obj, mstr(134), FLOAT_MSG_NORMAL);
+   float_msg(self_obj, mstr(135), FLOAT_MSG_NORMAL); //edit by killap
+end
+
+procedure Node016 begin
+   //float_msg(self_obj, mstr(135), FLOAT_MSG_NORMAL);
+   float_msg(self_obj, mstr(136), FLOAT_MSG_NORMAL); //edit by killap
+end
+
+procedure destCall(variable tileNum) begin
+   debug_msg("SCCARKID: hit tile: " + tileNum);
+end
+
+procedure anim_end_call begin
+   if (doNormalWalking == 0 and not combat_is_initialized) then begin
+      if (self_tile == getTile(5)) then begin
+         doNormalWalking := 1;
+         tvarWarpToPos(5, game_time + game_ticks(1));
+         tvarSetTimer(game_ticks(1));
+      end else if (self_tile == getTile(6)) then begin
+         if (local_var(LVAR_State) == GOTO_CARLSON or local_var(LVAR_State) == BISHOP_NEWS) then begin
+            reg_anim_clear(self_obj);
+            reg_anim_begin();
+            animate_run_to_tile(getTile(7));
+            reg_anim_end();
+         end else begin
+            reg_anim_clear(self_obj);
+            reg_anim_begin();
+            animate_run_to_tile(getTile(5));
+            reg_anim_end();
+         end
+      end else if (self_tile == getTile(7)) then begin
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+         if (local_var(LVAR_State) == GOTO_CARLSON or local_var(LVAR_State) == BISHOP_NEWS) then
+            animate_run_to_tile(getTile(8));
+         else if (local_var(LVAR_State) == BACK_FROM_GOTO_CARLSON or local_var(LVAR_State) == BACK_FROM_BISHOP_NEWS) then
+            animate_run_to_tile(getTile(6));
+         reg_anim_end();
+      end else if (self_tile == getTile(8)) then begin
+         if (local_var(LVAR_State) == GOTO_CARLSON or local_var(LVAR_State) == BISHOP_NEWS) then begin
+            reg_anim_clear(self_obj);
+            add_timer_event(self_obj, game_ticks(10), TIMER_WALKBACK);
+         end else begin
+            reg_anim_clear(self_obj);
+            reg_anim_begin();
+            animate_run_to_tile(getTile(7));
+            reg_anim_end();
+         end
+      end
+   end
+end
+
+procedure walkToCarlson begin
+   doNormalWalking := 0;
+   reg_anim_clear(self_obj);
+   reg_anim_begin();
+   animate_run_to_tile(getTile(6));
+   reg_anim_end();
+end
+
+//xxxxxxxxxxxxxxxxxxxx

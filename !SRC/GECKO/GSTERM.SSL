@@ -1,0 +1,846 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: GSTerm
+        Location: Gecko
+        Description: Robot control terminal
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: May 5, 1998
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+//#include "..\headers\<TownName.h>"
+
+#define NAME                    SCRIPT_GSTERM  //should be gsterm
+
+#define INITIATED               1
+#define CONTROLLED              2
+#define LOCKED_DOWN             3
+#define PRE_INITIATED           4 //added by killap
+
+#include "..\headers\command.h"
+#include "..\headers\gecko.h"
+#include "..\headers\geckpwpl.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure use_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure decode;
+procedure compile;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+procedure Node046;
+procedure Node047;
+procedure Node048;
+procedure Node050;
+
+procedure Node016a; //added by killap
+
+/* Script Specific Procedure Calls */
+procedure Node999;                                      // This Node is Always Ending
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Robot                      (0)
+#define LVAR_16_before                  (1)
+#define LVAR_23_before                  (2)
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable pick;
+variable from34:=0;
+variable line;
+variable mycommand;
+variable item;
+variable Tool;
+variable off_ptr;
+variable off_hex;
+variable came_from_node := 0; //added by killap
+
+import variable robot_obj;
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure use_p_proc begin
+   //GetReaction;
+
+   dialogue_system_enter;
+
+ end
+
+procedure talk_p_proc begin
+   set_global_var(GVAR_ENCLAVE_COM_LINE,1); //hold com line while using terminal
+   start_gdialog(NAME,self_obj,4,-1,-1);
+   gSay_Start;
+   if ((get_critter_stat(dude_obj,STAT_iq) <= 3)) then begin
+      call Node005;
+   end
+   else if (global_var(GVAR_GECKO_WORKING_ON_PLANT) > 0) then begin
+      call Node050;
+   end
+   else if (local_var(LVAR_Robot) == LOCKED_DOWN) then begin
+      call Node015;
+   end
+   else if (local_var(LVAR_Robot) == CONTROLLED) then begin
+      call Node034;
+   end
+   //added by killap
+   else if (local_var(LVAR_Robot) == PRE_INITIATED) then begin
+      call Node027;
+   end
+   //end added
+   else if (local_var(LVAR_Robot) == INITIATED) then begin
+      call Node009;
+   end
+   else begin
+      call Node001;
+   end
+   gSay_End;
+   end_dialogue;
+   set_global_var(GVAR_ENCLAVE_COM_LINE,0); //release com line so officer can speak
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+   //if (action_being_used == SKILL_STEAL) then begin
+      //if (is_success(roll_vs_skill(dude_obj,action_being_used,0))) then begin
+      //end
+   //end
+end
+
+procedure use_obj_on_p_proc begin
+   script_overrides;
+
+   if (global_var(GVAR_QUEST_OPTIMIZE_POWER_PLANT) != OPTIMIZE_POWER_PLANT_SUCCESS) then begin
+      Tool:=obj_pid(obj_being_used_with);
+      if (Tool == PID_REACTOR_DATA_DISK) then begin
+         if (global_var(GVAR_VAULT_GECKO_PLANT) >= PLANT_REACTOR_DATA_ANALYZED) then begin
+            item := obj_carrying_pid_obj(dude_obj, PID_REACTOR_DATA_DISK);
+            rm_obj_from_inven(dude_obj, item);
+            destroy_object(item);
+            set_global_var(GVAR_QUEST_OPTIMIZE_POWER_PLANT, OPTIMIZE_POWER_PLANT_SUCCESS);
+            set_global_var(GVAR_VAULT_GECKO_PLANT, PLANT_OPTIMIZED);
+            set_global_var(GVAR_VAULT_PLANT_STATUS, PLANT_OPTIMIZED);
+            display_msg(mstr(800));
+            give_xp(EXP_OPTIMIZE_REACTOR);
+            GC_REP_ADJUST(15)
+            inc_general_rep(REP_BONUS_GC_PLANT_OPTIMIZED);
+         end else
+            //floater(mstr(730));
+            float_msg(self_obj,mstr(730),FLOAT_COLOR_NORMAL); //edit by killap
+      end
+   end
+
+end
+
+procedure Node001 begin
+   Reply(110);
+   NOption(111,Node002,004);
+   NOption(112,Node003,004);
+   NOption(113,Node004,004);
+   NOption(114,Node006,004);
+   NOption(115,Node999,004);
+end
+
+procedure Node002 begin
+   Reply(120);
+   NOption(121,Node003,004);
+   NOption(122,Node006,004);
+   NOption(123,Node999,004);
+end
+
+procedure Node003 begin
+   Reply(130);
+   NOption(131,Node002,004);
+   NOption(132,Node006,004);
+   NOption(133,Node999,004);
+end
+
+procedure Node004 begin
+   Reply(140);
+   NOption(141,Node006,004);
+   //if (science > 49) then
+   //if (has_skill(dude_obj, SKILL_SCIENCE) > 49) then
+      NOption(142,Node012,004);
+   NOption(143,Node999,004);
+end
+
+procedure Node005 begin
+   Reply(150);
+   NOption(151,Node999,001);
+   NOption(152,Node999,001);
+end
+
+procedure Node006 begin
+   Reply(160);
+   NOption(161,Node003,004);
+   NOption(162,Node004,004);
+   NOption(163,Node016,004);
+   NOption(164,Node007,004);
+   NOption(165,Node016,004);
+   NOption(166,Node999,004);
+   came_from_node := 6; //added by killap
+end
+
+procedure Node007 begin
+   Reply(170);
+   NOption(171,Node006,004);
+   NOption(172,Node003,004);
+   NOption(173,Node004,004);
+   NOption(174,Node016,004);
+   NOption(175,Node016,004);
+   NOption(176,Node008,004);
+   NOption(177,Node999,004);
+   came_from_node := 7; //added by killap
+end
+
+procedure Node008 begin
+   Reply(180);
+   NOption(181,Node006,004);
+   NOption(182,Node003,004);
+   NOption(183,Node004,004);
+   NOption(184,Node009,004);
+   NOption(185,Node016,004);
+   NOption(186,Node016,004);
+   NOption(187,Node999,004);
+   came_from_node := 8; //added by killap
+end
+
+procedure Node009 begin
+   if (from34) then begin
+      Reply(191);
+   end
+   else begin
+      set_local_var(LVAR_Robot, INITIATED);
+      Reply(190);
+   end
+   NOption(192,Node010,004);
+   NOption(193,Node013,004);
+   NOption(194,Node010,004);
+   NOption(195,Node014,004);
+   NOption(196,Node999,004);
+end
+
+procedure Node010 begin
+   Reply(200);
+   NOption(201,Node011,004);
+   NOption(202,Node009,004);
+   NOption(203,Node999,004);
+end
+
+procedure Node011 begin
+   Reply(210);
+   NOption(211,Node009,004);
+   //if (science > 49) then
+   if (has_skill(dude_obj, SKILL_SCIENCE) > 49) then
+      NOption(212,Node012,004);
+   NOption(213,Node999,004);
+end
+
+procedure Node012 begin
+   Reply(220);
+   NOption(221,Node016,004);
+   NOption(222,Node016,004);
+   NOption(223,Node017,004);
+   NOption(224,Node016,004);
+   NOption(225,Node999,004);
+   came_from_node := 12; //added by killap
+end
+
+procedure Node013 begin
+   Reply(230);
+   NOption(231,Node027,004);
+   NOption(232,Node999,004);
+end
+
+procedure Node014 begin
+   Reply(240);
+   //if (PC has hydroelectric magnetosphere) then
+   if (obj_is_carrying_obj_pid(dude_obj, PID_HY_MAG_PART)) then
+      NOption(241,Node025,004); //special...
+   NOption(242,Node024,004);
+   NOption(243,Node999,004);
+end
+
+procedure Node015 begin
+   Reply(250);
+   NOption(251,Node999,004);
+   //1st time
+   NOption(252,Node001,006); //repair roll -20, succ to 1 else 2nd repair roll -30, succ to 1, fail to 15
+end
+
+procedure Node016 begin
+   if (local_var(LVAR_16_before) < 4) then
+      set_local_var(LVAR_16_before, local_var(LVAR_16_before) + 1);
+
+   if (local_var(LVAR_16_before) == 1) then begin
+      Reply(300);
+      //NOption(304,Node011,004);
+      NOption(304,Node016a,004); //edit by killap
+   end
+   else if (local_var(LVAR_16_before) == 2) then begin
+      Reply(301);
+      //NOption(305,Node011,004);
+      NOption(305,Node016a,004); //edit by killap
+   end
+   else if (local_var(LVAR_16_before) == 3) then begin
+      Reply(302);
+      //NOption(306,Node011,004);
+      NOption(306,Node016a,004); //edit by killap
+   end
+   else if (local_var(LVAR_16_before) > 3) then begin
+      set_local_var(LVAR_Robot, LOCKED_DOWN);
+      Reply(303);
+      NOption(307,Node999,004);
+   end
+
+   NOption(308,Node999,004);
+end
+
+//added by killap
+procedure Node016a begin
+   if (came_from_node == 6) then
+      call Node006;
+   else if (came_from_node == 7) then
+      call Node007;
+   else if (came_from_node == 8) then
+      call Node008;
+   else if (came_from_node == 12) then
+      call Node012;
+   else if (came_from_node == 17) then
+      call Node017;
+   else if (came_from_node == 18) then
+      call Node018;
+end
+//end added
+
+procedure Node017 begin
+   Reply(310);
+   NOption(311,Node018,004);
+   NOption(312,Node016,004);
+   NOption(313,Node016,004);
+   NOption(314,Node016,004);
+   NOption(315,Node999,004);
+   came_from_node := 17; //added by killap
+end
+
+procedure Node018 begin
+   Reply(320);
+   NOption(321,Node016,004);
+   NOption(322,Node019,004);
+   NOption(323,Node016,004);
+   NOption(324,Node016,004);
+   NOption(325,Node999,004);
+   came_from_node := 18; //added by killap
+end
+
+procedure Node019 begin
+   Reply(330);
+   NOption(331,Node020,004);
+   NOption(332,Node021,004);
+   NOption(333,Node999,004);
+end
+
+procedure Node020 begin
+   Reply(340);
+   NOption(341,Node019,004);
+   NOption(342,Node021,004);
+   NOption(343,Node999,004);
+end
+
+procedure Node021 begin
+   Reply(350);
+   NOption(351,Node020,004);
+   NOption(352,Node022,004);
+   NOption(353,Node999,004);
+end
+
+procedure Node022 begin
+   Reply(360);
+   NOption(361,Node023,004);
+   NOption(362,Node023,006);
+   NOption(363,Node009,004);
+end
+
+procedure Node023 begin
+   if (local_var(LVAR_23_before) < 9) then
+      set_local_var(LVAR_23_before, local_var(LVAR_23_before) + 1);
+
+   if (local_var(LVAR_23_before) == 1) then begin
+         off_ptr := create_object_sid(PID_SEYMORE,0,0,SCRIPT_GCPACOFF);
+         //critter_add_trait(off_ptr,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_BRAHMIN);
+         off_hex := 18477;
+         move_to(off_ptr, off_hex, elevation(dude_obj));
+         //critter_attempt_placement(off_ptr,off_hex, 0);
+   //com officer
+   end
+   else begin
+      if (local_var(LVAR_23_before) == 2) then begin
+         Reply(370);
+      end
+      else if (local_var(LVAR_23_before) == 3) then begin
+         Reply(371);
+      end
+      else if (local_var(LVAR_23_before) == 4) then begin
+         Reply(372);
+      end
+      else if (local_var(LVAR_23_before) == 5) then begin
+         Reply(373);
+      end
+      else if (local_var(LVAR_23_before) == 6) then begin
+         Reply(374);
+      end
+      else if (local_var(LVAR_23_before) == 7) then begin
+         Reply(375);
+      end
+      else if (local_var(LVAR_23_before) > 7) then begin
+         Reply(376); //inflict 35 pts of electric damage on pc, end
+         //added by killap
+         if ( get_critter_stat(dude_obj, STAT_current_hp) < 35) then
+            critter_dmg( dude_obj, get_critter_stat(dude_obj, STAT_current_hp) - 1, DMG_electrical );
+         else
+            critter_dmg( dude_obj, 35, DMG_electrical );
+         //end added
+      end
+
+      if (local_var(LVAR_23_before) < 9) then begin
+         NOption(377,Node023,004);
+      end
+      NOption(378,Node009,006);
+      NOption(379,Node999,004);
+   end
+end
+
+procedure Node024 begin
+   Reply(380);
+   NOption(381,Node013,004);
+   NOption(382,Node999,004);
+end
+
+procedure Node025 begin
+   //robot now has part...need to signal that it can fix reactor
+   //What if player attempts to pickpocket the robot?
+   item:=obj_carrying_pid_obj(dude_obj, PID_HY_MAG_PART);
+   rm_obj_from_inven(dude_obj,item);
+   add_obj_to_inven(robot_obj,item);
+   set_local_var(LVAR_Robot, PRE_INITIATED); //added by killap
+   Reply(390);
+   NOption(391,Node027,004);
+   NOption(392,Node999,004);
+end
+
+procedure Node026 begin
+   Reply(400);
+   NOption(401,Node030,004);
+   NOption(402,Node999,004);
+end
+
+procedure Node027 begin
+   Reply(410);
+   NOption(411,Node028,004);
+   NOption(412,Node030,004);
+end
+
+procedure Node028 begin
+   Reply(420);
+   NOption(421,Node029,004);
+   NOption(422,Node030,004);
+end
+
+procedure Node029 begin
+   Reply(430);
+   NOption(431,Node026,004);
+   NOption(432,Node030,004);
+end
+
+procedure Node030 begin
+   Reply(440);
+   NOption(441,Node031,004);
+   NOption(442,Node034,004);
+   NOption(443,Node999,004);
+end
+
+procedure Node031 begin
+   Reply(450);
+   if (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_HAS_PART) then
+   //if hydroelectric magnetosphere reg given
+      NOption(451,Node032,004);
+   NOption(452,Node033,004);
+   NOption(453,Node999,004);
+end
+
+procedure Node032 begin
+   Reply(460);
+   NOption(461,Node033,004);
+   NOption(462,Node034,004);
+   NOption(463,Node999,004);
+end
+
+procedure Node033 begin
+   Reply(470);
+   NOption(471,Node030,004);
+   NOption(472,Node034,004);
+   NOption(473,Node999,004);
+end
+
+procedure Node034 begin
+   from34:=1;
+   set_local_var(LVAR_Robot, CONTROLLED);
+   if (map_var(MVAR_Damage) > 10) then begin
+      Reply(710);
+      NOption(740,Node999,004);
+   //give some kind of error message
+   end
+   else if (map_var(MVAR_ProgramRunning) == 1) then begin
+      Reply(700);
+      NOption(740,Node999,004);
+   //give some kind of error message
+   end
+   else if (map_var(MVAR_CommandError) > 0) then begin
+      set_map_var(MVAR_CommandError,0);
+      set_map_var(MVAR_CommandCount,0);
+      Reply(720);
+      NOption(740,Node034,004);
+   //give some kind of error message
+   end
+   else begin
+      Reply(535);
+      NOption(540,Node035,004);
+      NOption(541,Node036,004);
+      //NOption(542,Node037,004);
+      //NOption(543,Node038,004);
+      NOption(544,Node039,004);
+      NOption(545,Node040,004);
+      NOption(546,Node009,004);
+      NOption(547,Node999,004);
+   end
+end
+
+procedure Node035 begin
+   if (map_var(MVAR_ProgramRunning) == 1) then
+      debug_msg("RUNNING");
+   if (map_var(MVAR_CommandCount) > 5) then begin
+      Reply(730);
+   end
+   else begin
+//ADD A COMMAND
+      Reply(600);
+      NOption(601,Node041,004);
+      NOption(602,Node042,004);
+      NOption(603,Node043,004);
+      NOption(604,Node044,004);
+      NOption(605,Node045,004);
+
+//FOLLOWING 3 only appear if at the proper machine
+//or 6th command
+      if (map_var(MVAR_CommandCount) > 4) then begin
+         NOption(606,Node046,004);
+         if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_TURNED_OFF) then
+            NOption(608,Node048,004);
+         else
+            NOption(607,Node047,004);
+      end
+   end
+
+   NOption(550,Node034,004);
+end
+
+procedure decode begin
+   if (line == 1) then begin
+      mycommand:=map_var(MVAR_MoveVar1);
+   end
+   else if (line == 2) then begin
+      mycommand:=map_var(MVAR_MoveVar2);
+   end
+   else if (line == 3) then begin
+      mycommand:=map_var(MVAR_MoveVar3);
+   end
+   else if (line == 4) then begin
+      mycommand:=map_var(MVAR_MoveVar4);
+   end
+   else if (line == 5) then begin
+      mycommand:=map_var(MVAR_MoveVar5);
+   end
+   else if (line == 6) then begin
+      mycommand:=map_var(MVAR_MoveVar6);
+   end
+end
+
+procedure Node036 begin
+//LIST PROGRAM
+   Reply(620);
+
+   if (map_var(MVAR_CommandCount) > 0) then begin
+      line:=1;
+      //call decode;
+      NOption("1) "+mstr(600+map_var(MVAR_MoveVar1)),Node034,004);
+   end
+   if (map_var(MVAR_CommandCount) > 1) then begin
+      line:=2;
+      //call decode;
+      //NOption("2) "+mstr(600+mycommand),Node035,004);
+      NOption("2) "+mstr(600+map_var(MVAR_MoveVar2)),Node034,004);
+   end
+   if (map_var(MVAR_CommandCount) > 2) then begin
+      line:=3;
+      //call decode;
+      //NOption("3) "+mstr(600+mycommand),Node035,004);
+      NOption("3) "+mstr(600+map_var(MVAR_MoveVar3)),Node034,004);
+   end
+   if (map_var(MVAR_CommandCount) > 3) then begin
+      line:=4;
+      //call decode;
+      //NOption("4) "+mstr(600+mycommand),Node035,004);
+      NOption("4) "+mstr(600+map_var(MVAR_MoveVar4)),Node034,004);
+   end
+   if (map_var(MVAR_CommandCount) > 4) then begin
+      line:=5;
+      //call decode;
+      //NOption("5) "+mstr(600+mycommand),Node035,004);
+      NOption("5) "+mstr(600+map_var(MVAR_MoveVar5)),Node034,004);
+   end
+   if (map_var(MVAR_CommandCount) > 5) then begin
+      line:=6;
+      //call decode;
+      //NOption("6) "+mstr(600+mycommand),Node035,004);
+      NOption("6) "+mstr(600+map_var(MVAR_MoveVar6)),Node034,004);
+   end
+   NOption(660,Node034,004);
+   NOption(550,Node034,004);
+end
+
+procedure Node037 begin
+//ENVIRONMENTAL SENSORS REPORT
+   Reply(630);
+   NOption(550,Node034,004);
+end
+
+procedure Node038 begin
+//DAMAGE REPORT
+   Reply(640);
+   NOption(550,Node034,004);
+end
+
+procedure Node039 begin
+//DELETE ALL COMMANDS
+   set_map_var(MVAR_CommandCount,0);
+   Reply(650);
+   NOption(550,Node034,004);
+end
+
+
+procedure Node040 begin
+//EXECUTE PROGRAM
+   debug_msg("RUNNING");
+   set_map_var(MVAR_ProgramRunning,1); //signal robot to go
+end
+
+procedure compile begin
+   if (line == 1) then begin
+      set_map_var(MVAR_MoveVar1,mycommand);
+   end
+   else if (line == 2) then begin
+      set_map_var(MVAR_MoveVar2,mycommand);
+   end
+   else if (line == 3) then begin
+      set_map_var(MVAR_MoveVar3,mycommand);
+   end
+   else if (line == 4) then begin
+      set_map_var(MVAR_MoveVar4,mycommand);
+   end
+   else if (line == 5) then begin
+      set_map_var(MVAR_MoveVar5,mycommand);
+   end
+   else if (line == 6) then begin
+      set_map_var(MVAR_MoveVar6,mycommand);
+   end
+end
+
+procedure Node041 begin
+   line:=map_var(MVAR_CommandCount)+1;
+   set_map_var(MVAR_CommandCount, line);
+   mycommand:=1;
+   call compile;
+   call Node036;
+end
+
+procedure Node042 begin
+   line:=map_var(MVAR_CommandCount)+1;
+   set_map_var(MVAR_CommandCount, line);
+   mycommand:=2;
+   call compile;
+   call Node036;
+end
+
+procedure Node043 begin
+   line:=map_var(MVAR_CommandCount)+1;
+   set_map_var(MVAR_CommandCount, line);
+   mycommand:=3;
+   call compile;
+   call Node036;
+end
+
+procedure Node044 begin
+   line:=map_var(MVAR_CommandCount)+1;
+   set_map_var(MVAR_CommandCount, line);
+   mycommand:=4;
+   call compile;
+   call Node036;
+end
+
+procedure Node045 begin
+   line:=map_var(MVAR_CommandCount)+1;
+   set_map_var(MVAR_CommandCount, line);
+   mycommand:=5;
+   call compile;
+   call Node036;
+end
+
+procedure Node046 begin
+   line:=map_var(MVAR_CommandCount)+1;
+   set_map_var(MVAR_CommandCount, line);
+   mycommand:=6;
+   call compile;
+   call Node036;
+end
+
+procedure Node047 begin
+   line:=map_var(MVAR_CommandCount)+1;
+   set_map_var(MVAR_CommandCount, line);
+   mycommand:=7;
+   call compile;
+   call Node036;
+end
+
+procedure Node048 begin
+   line:=map_var(MVAR_CommandCount)+1;
+   set_map_var(MVAR_CommandCount, line);
+   mycommand:=8;
+   call compile;
+   call Node036;
+end
+
+procedure Node050 begin
+   Reply(900);
+   NOption(910,Node999,001);
+end
+
+procedure Node999 begin
+end

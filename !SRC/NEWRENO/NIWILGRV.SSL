@@ -1,0 +1,103 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+variable grave_was_open;
+
+procedure def_description_p_proc;
+procedure def_map_enter_p_proc;
+// procedure def_use_obj_on_p_proc;
+procedure grave_description_proc;
+procedure timed_event_p_proc;
+procedure willie_grave_map_enter;
+procedure check_free_willie_proc;
+procedure willie_use_obj_on_p_proc;
+
+procedure description_p_proc begin
+   call grave_description_proc;
+end
+
+procedure use_obj_on_p_proc begin
+   call willie_use_obj_on_p_proc;
+end
+
+procedure map_enter_p_proc begin
+   call willie_grave_map_enter;
+end
+
+#define description_p_proc                      def_description_p_proc
+#define map_enter_p_proc                        def_map_enter_p_proc
+#define use_obj_on_p_proc                       def_use_obj_on_p_proc
+
+#define GIVE_HEADSTONE_NAME                     false
+#define TOWN_REP_VAR                            GVAR_TOWN_REP_NEW_RENO
+
+#include "..\generic\ziGenGrv.ssl"
+#include "..\headers\NewReno.h"
+
+#undef NAME
+#define NAME                                    SCRIPT_NCWILLIE
+
+#define willie_rotation                         (2)
+
+procedure timed_event_p_proc begin
+variable willie_obj;
+   if (fixed_param == diggin_willie_param) then begin
+      float_msg_clear(self_obj); //added by killap
+      dude_floater(201 + (500*dude_is_stupid));
+      nr_add_timer_event(self_obj, 2, back_to_diggin_param);
+   end else if (fixed_param == back_to_diggin_param) then begin
+      gfade_out(ONE_GAME_SECOND);
+         willie_obj := create_object_sid(PID_TOUGH_GHOUL, 0, 0, NAME);
+         anim(willie_obj, ANIMATE_ROTATION, willie_rotation);
+         anim(willie_obj, ANIM_fall_back_sf, ANIMATE_FORWARD);
+         move_to(willie_obj, tile_num_in_direction(self_tile, willie_rotation, 2), self_elevation);
+         nr_add_timer_event(willie_obj, 2, 202);
+   end else if (dug_up_willie == false) then begin
+      if (tile_distance_objs(dude_obj, self_obj) <= 5) then begin
+         float_msg(self_obj, mstr(random(600, 605)), FLOAT_MSG_GREY);
+      end
+      flush_add_timer_event_sec(self_obj, random(5, 7), float_param);
+   end
+end
+
+procedure grave_description_proc begin
+   if (is_headstone) then begin
+      script_overrides;
+      display_mstr(500);
+   end else if (dug_up_willie == false) then begin
+      script_overrides;
+      display_mstr(550);
+   end else begin
+      call def_description_p_proc;
+   end
+end
+
+procedure willie_grave_map_enter begin
+   if (is_headstone == false) then begin
+      if (dug_up_willie == false) then begin
+         if (is_loading_game == false) then begin
+            flush_add_timer_event_sec(self_obj, random(5, 15), float_param);
+         end
+      end
+   end
+   call def_map_enter_p_proc;
+end
+
+procedure check_free_willie_proc begin
+   if (dug_up_willie == false) then begin
+      if (site_is_uncovered) then begin
+         set_dug_up_willie;
+         game_ui_disable;
+         float_msg(self_obj, " ", FLOAT_MSG_GREY);
+         dude_floater(200 + (500*dude_is_stupid)); //edit by killap - added (500*dude_is_stupid)
+         nr_add_timer_event(self_obj, 2, diggin_willie_param);
+      end
+   end
+end
+
+procedure willie_use_obj_on_p_proc begin
+   no_karma_penalty := (dug_up_willie == false);
+   call def_use_obj_on_p_proc;
+   call check_free_willie_proc;
+end

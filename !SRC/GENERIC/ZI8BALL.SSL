@@ -1,0 +1,74 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Magic Eight Ball
+        Location: EPA
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_ZI8BALL
+#define TOWN_REPUTATION         global_var(GVAR_TOWN_REP_EPA)
+#include "..\headers\command.h"
+//#include "..\headers\EPA.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure timed_event_p_proc;
+procedure map_enter_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+variable temp;
+
+   if(dude_luck <= 3) then
+      temp := random( 199, 228 );
+   else if(dude_luck < 9) then
+      temp := random( 200, 228 );
+   else if( dude_luck >= 9 ) then
+      temp := random( 200, 243 );
+   if (temp == 232) then begin
+      set_global_var(GVAR_8_BALL_TOILET_SECRET, true);
+   end else if (temp == 233) then begin
+      set_global_var(GVAR_8_BALL_TRASH_SECRET, true);
+   end else if (temp == 243) then begin
+      set_global_var(GVAR_8_BALL_VAULT_TERMINAL, 1);
+   end
+   display_mstr(temp);
+end
+
+procedure timed_event_p_proc begin
+   //add_timer_event(self_obj,game_ticks(random(5,30)),1);
+end
+
+procedure map_enter_p_proc begin
+   //add_timer_event(self_obj,game_ticks(random(1,30)),1);
+end
+
+procedure pickup_p_proc begin
+end
+
+procedure destroy_p_proc begin
+end
+
+procedure look_at_p_proc begin
+end
+
+procedure description_p_proc begin
+end

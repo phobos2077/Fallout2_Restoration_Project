@@ -1,0 +1,169 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Door
+        Description: Door that shows Gruthar and the other deathclaw when the player opens the door
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_OSDOOR1
+#define CUR_COMP_SCRIPT         SCRIPT_OSDOOR1
+
+#include "..\headers\command.h"
+#include "..\headers\vault13.h"
+#include "..\headers\v13.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+import variable i_gruthar_obj;
+import variable i_thearn_obj;
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+/********************************************************************
+********************************************************************/
+
+#define TIMER_INIT_V13_SEQUENCE    (4)
+
+procedure use_p_proc begin
+   if (map_var(MVAR_Dude_See) == 0) then begin
+      if (i_gruthar_obj != -1) then
+         add_timer_event(i_gruthar_obj, 0, TIMER_DUDE_SEE);
+      if (i_thearn_obj != -1) then
+         add_timer_event(i_thearn_obj, 0, TIMER_DUDE_SEE);
+      set_map_var(MVAR_Dude_See, 1);
+   end
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+end
+
+
+/**********************************************************************************
+**********************************************************************************/
+
+procedure description_p_proc begin
+end
+
+
+/**********************************************************************************
+   Make sure the door is working.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+end
+
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged it breaks
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   debug_msg("OSDOOR1: target_obj:  " + target_obj + " source_obj: " + source_obj);
+   if (target_obj != 0) then begin
+      debug_msg("OSDOOR1: target_obj:" + target_obj + " weapon_dmg_type: " + weapon_dmg_type(target_obj));
+      if (weapon_dmg_type(target_obj) != DMG_explosion) then
+         script_overrides;
+   end else
+      script_overrides;
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   if (not is_loading_game) then begin
+      if (obj_is_open(self_obj)) then begin
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+         obj_close(self_obj);
+         reg_anim_end();
+      end
+   end
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+end

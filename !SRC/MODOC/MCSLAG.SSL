@@ -1,0 +1,223 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Slag
+        Location: Modoc Ghost Farm
+        Description: Ghost town slag
+
+        Log: the following defines need to be changed:
+
+
+          Created: February 15, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                        SCRIPT_MCSLAG
+#define TOWN_REP_VAR                GVAR_TOWN_REP_GHOST_FARM
+
+#include "..\headers\command.h"
+#include "..\headers\modoc.h"
+#include "..\headers\ModReact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+// dialog nodes
+procedure Node999;                                      // This is the do nothing node
+procedure Node998;                                      // This Node is Always Combat
+
+#define LVAR_Flags                     (4)
+#define LVAR_Home_Tile                 (5)
+
+#define slag_flee_message           Flee_From_Dude_Force                \
+                                    set_slags_spot_dude_on;             \
+                                    floater_afraid(random(100, 104))
+#define slag_attack_message         floater_bad(random(150, 153))
+#define slag_scary_message          floater_bad(random(200, 202 + (2 * slag_walking)))
+#define slag_below_message          floater_rand(250, 254)
+
+#define facing_tile_has_pid(x)      tile_contains_obj_pid(tile_num_in_direction(self_tile, self_cur_rot, 1), self_elevation, x)
+#define corn_in_front               ((facing_tile_has_pid(PID_CORN_1)) or (facing_tile_has_pid(PID_CORN_2)) or    \
+                                     (facing_tile_has_pid(PID_CORN_3)) or (facing_tile_has_pid(PID_CORN_4)) or    \
+                                     (facing_tile_has_pid(PID_CORN_5)) or (facing_tile_has_pid(PID_CORN_6)))
+#define set_update_time             update_time := game_time + (15 * ONE_GAME_MINUTE)
+#define late_update                 (game_time > update_time)
+#define export_slag_ptr             if (ghost_farm_slag_obj == 0) then ghost_farm_slag_obj := self_obj;     \
+                                    else if (tile_distance_objs(self_obj, dude_obj) < tile_distance_objs(ghost_farm_slag_obj, dude_obj)) then ghost_farm_slag_obj := self_obj
+
+variable only_once := 0;
+variable temp_tile;
+variable slag_walking;
+variable update_time;
+import variable ghost_farm_slag_obj;
+
+
+
+procedure start begin
+   export_slag_ptr;
+end
+
+procedure timed_event_p_proc begin
+   if (self_visible) then begin
+      if (slag_in_farm) then begin
+         if (slags_spot_dude == false) then begin
+            if (self_can_see_dude) then begin
+               if (random(1,2) != 1) then begin
+                  if (attacking_slags) then begin
+                     slag_attack_message;
+                  end else begin
+                     slag_flee_message;
+                  end
+               end
+            end else if (random(1,2) != 1) then begin
+               slag_scary_message;
+            end
+         end
+      end else if (random(1,7) != 1) then begin
+         animate_move_to_tile(tile_num_in_direction(self_tile, random(0,5), random(0, 10)));
+      end
+   end
+   mod_add_timer_event_rand(self_obj, 10, 30, 1);
+end
+
+procedure map_update_p_proc begin
+   export_slag_ptr;
+   if (late_update) then begin
+      check_put_slags_out
+   end
+   set_update_time;
+end
+
+procedure map_enter_p_proc begin
+   export_slag_ptr;
+   set_update_time;
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         if (slag_in_farm) then begin
+            inc_slag_cnt;
+         end
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAG);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SLAG);
+         set_local_var(LVAR_Home_Tile, self_tile);
+      end
+      mod_add_timer_event_rand(self_obj, 10, 30, 1);
+      check_destroy_slag
+      check_put_slags_out
+   end
+end
+
+procedure critter_p_proc begin
+   slag_walking := true;
+   if (self_visible) then begin
+      if (self_can_see_dude) then begin
+         if ((enemy_slags) or (hostile)) then begin
+            self_attack_dude;
+         end else if (slag_in_farm) then begin
+            set_slags_spot_dude_on;
+            Flee_From_Dude
+         end
+      end else if (slag_in_farm) then begin
+         if (slags_visible_in_farm_time == false) then begin
+            if (tile_distance(self_tile, local_var(LVAR_Home_Tile)) <= 1) then begin
+               check_set_obj_visiblility(self_obj, true);
+            end else if (tile_distance(self_tile, dude_tile) > 20) then begin
+               anim_move_to_point_rate(local_var(LVAR_Home_Tile), 5)
+            end
+         end else if (anim_busy(self_obj) == false) then begin
+            if (tile_in_ghost_farm_shack(self_tile)) then begin
+               temp_tile := tile_num_in_direction(self_tile, random(0,5), random(20, 30));
+               anim_move_to_point_rate(temp_tile, 5)
+            end else begin
+               if (random(1,20) == 1) then begin
+                  temp_tile := tile_num_in_direction(self_tile, random(0,5), random(5, 30));
+                  if (tile_in_ghost_farm_shack(temp_tile) == false) then begin
+                     anim_move_to_point_rate(temp_tile, 3)
+                  end
+               end else if (corn_in_front) then begin
+                  slag_walking := false;
+                  reg_anim_begin();
+                     anim(self_obj, random(ANIM_magic_hands_middle, ANIM_magic_hands_up), 0);
+                  reg_anim_end();
+               end
+            end
+         end
+      end
+   end else if (slag_in_farm) then begin
+      if (tile_in_ghost_farm_shack(self_tile) == false) then begin
+         anim_move_to_point_rate(local_var(LVAR_Home_Tile), 5)
+      end else if (slags_visible_in_farm_time) then begin
+         if (tile_distance(slag_rug_tile, dude_tile) > 25) then begin
+            check_set_obj_visiblility(self_obj, false);
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+      set_enemy_slags;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   if (ghost_farm_seed_completed) then begin
+      floater_rand(300, 302);
+   end else if (slag_in_farm) then begin
+      if (attacking_slags) then begin
+         slag_attack_message;
+      end else begin
+         slag_flee_message;
+      end
+   end else begin
+      slag_below_message;
+   end
+end
+
+procedure destroy_p_proc begin
+   dec_slag_cnt;
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   //script_overrides;
+   //display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   //script_overrides;
+   //display_msg(mstr(100));
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+// dialog action functions
+procedure Node999 begin
+  // do absolutely everything that pertains to nothing
+end
+procedure Node998 begin
+   set_hostile;
+end

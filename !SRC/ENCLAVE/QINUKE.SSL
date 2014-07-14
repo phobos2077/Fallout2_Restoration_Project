@@ -1,0 +1,120 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_QINUKE
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure timed_event_p_proc;
+
+procedure Node000;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node999;
+procedure Node990;
+
+
+procedure start begin
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+
+end
+
+
+procedure use_p_proc begin
+   if (combat_is_initialized == false) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node000;
+      gSay_End;
+      end_dialogue;
+   end
+end
+
+procedure Node000 begin
+   Reply(200);
+   NOption(201,Node001,004);
+   NOption(202,Node999,004);
+end
+
+procedure Node001 begin
+   Reply(210);
+   if (obj_carrying_pid_obj(dude_obj, PID_RED_REACTOR_KEYCARD)) then
+      NOption(221,Node002,004);
+   else
+      NOption(220,Node999,004);
+      
+   NOption(202,Node999,004);
+end
+
+procedure Node002 begin
+   Reply(222);
+   if (obj_is_carrying_obj_pid(dude_obj,PID_PRES_ACCESS_KEY)) then
+      NOption(223,Node003,004);
+   else
+      NOption(224,Node999,004);
+   NOption(202,Node999,004);
+   
+end
+
+procedure Node003 begin
+   Reply(225);
+   NOption(226,Node004,004);
+   NOption(227,Node999,004);
+end
+
+procedure Node004 begin
+   Reply(228);
+   NOption(229,Node990,004);
+end
+
+procedure Node990 begin
+   add_timer_event(self_obj,2,2);
+end
+
+procedure Node999 begin
+
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 2) then begin
+      gfade_out(600);
+         critter_dmg(dude_obj,999999,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
+         explosion(tile_num(self_obj), elevation(self_obj), 999999);
+      //gfade_in(600);
+   end
+end

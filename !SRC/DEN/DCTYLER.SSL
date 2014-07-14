@@ -1,0 +1,595 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_DCTYLER
+#define TOWN_REPUTATION         GVAR_TOWN_REP_THE_DEN
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+#include "..\headers\Den.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+procedure map_update_p_proc;
+procedure combat_p_proc;
+procedure push_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+
+procedure Node034; //added by killap - expansion
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (4)
+#define LVAR_Home_Tile                    (5)
+#define LVAR_Home_Rotation                (6)
+#define LVAR_Player_Lockout               (7)
+#define LVAR_Said_Drunk_Attack            (8) //added by killap - expansion
+
+#define self_gang                         gang_1
+
+#define node_6_bit                        bit_10
+#define node_7_bit                        bit_11
+#define node_16_bit                       bit_12
+#define node_24_bit                       bit_13
+#define node_25_bit                       bit_14
+#define gave_money_bit                    bit_15
+#define door_warned_bit                   bit_16
+#define node_33_bit                       bit_17
+
+#define node_6                            lvar_bit(LVAR_Flags, node_6_bit)
+#define set_node_6                        set_lvar_bit_on(LVAR_Flags, node_6_bit)
+
+#define node_7                            lvar_bit(LVAR_Flags, node_7_bit)
+#define set_node_7                        set_lvar_bit_on(LVAR_Flags, node_7_bit)
+
+#define node_16                           lvar_bit(LVAR_Flags, node_16_bit)
+#define set_node_16                       set_lvar_bit_on(LVAR_Flags, node_16_bit)
+
+#define node_24                           lvar_bit(LVAR_Flags, node_24_bit)
+#define set_node_24                       set_lvar_bit_on(LVAR_Flags, node_24_bit)
+
+#define node_25                           lvar_bit(LVAR_Flags, node_25_bit)
+#define set_node_25                       set_lvar_bit_on(LVAR_Flags, node_25_bit)
+
+#define gave_money                        ((lvar_bit(LVAR_Flags, gave_money_bit)) or (gang_trap(state_gang_trap_no)))
+#define set_gave_money(the_obj)           if (gave_money == false) then begin             \
+                                             item_caps_adjust(the_obj, 100);              \
+                                          end                                             \
+                                          set_lvar_bit_on(LVAR_Flags, gave_money_bit)
+
+#define door_warned                      lvar_bit(LVAR_Flags, door_warned_bit)
+#define set_door_warned                  set_lvar_bit_on(LVAR_Flags, door_warned_bit)
+
+#define node_33                           lvar_bit(LVAR_Flags, node_33_bit)
+#define set_node_33                       set_lvar_bit_on(LVAR_Flags, node_33_bit)
+
+#define set_lockout_timer                 set_local_var(LVAR_Player_Lockout, game_time + ONE_GAME_HOUR);
+#define check_lockout_timer               game_time <= local_var(LVAR_Player_Lockout)
+
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+import variable gang_1_member_1;
+import variable gang_1_member_2;
+import variable gang_1_member_3;
+import variable gang_1_member_4;
+import variable gang_1_member_5;
+import variable gang_2_member_1;
+import variable gang_2_member_2;
+import variable gang_2_member_3;
+import variable gang_2_member_4;
+import variable gang_2_member_5;
+import variable church_door_obj;
+
+procedure start begin
+end
+
+procedure push_p_proc begin
+   gang_member_push_proc
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == timed_event_float) then begin
+      if (gave_money == false) then begin
+         if (combat_is_initialized == false) then begin
+            if (self_can_see_dude) then begin
+               if ((gangwar(state_gangwar_1won)) and (gang_trap(state_gang_trap_set)) and (gang_hostile == false)) then begin
+                  set_global_var(GVAR_LOAD_MAP_INDEX,0); //added by killap - expansion
+                  dialogue_system_enter;
+               end
+            end
+         end
+         flush_add_timer_event_sec(self_obj, 1, timed_event_float);
+      end
+   end else if (fixed_param == timed_event_door_tamper) then begin
+      call Node001;
+   end
+end
+
+procedure map_update_p_proc begin
+   gang_map_update_p_proc
+end
+
+procedure map_enter_p_proc begin
+
+   // added by killap - expansion
+   CHECK_LEVEL
+   debug_msg("count: " + (global_var(GVAR_DEN_GANG_1_COUNT)));
+   // end added
+   
+   gang_member_map_enter
+   
+   // added by killap
+   if (gang_door(state_gang_door_yes)) then
+      unlock_church_door
+
+   //added by killap - expansion   
+   if (cur_map_index == MAP_DEN_RESIDENTIAL) then begin 
+      if ((gangwar(state_gangwar_in_fight)) and (at_party_fight)) then begin
+         set_obj_visibility(self_obj, false);
+      end else begin
+         set_obj_visibility(self_obj, true);
+      end
+   end
+   
+   debug_msg("tyler count" + global_var(GVAR_DEN_GANG_1_COUNT));
+   debug_msg("lara count" + global_var(GVAR_DEN_GANG_2_COUNT));
+
+   if (at_party_fight) then begin
+      if (get_critter_stat(self_obj,STAT_pe) > 3) then begin
+         set_critter_base_stat(self_obj, STAT_pe, 3);
+      end
+      if (get_critter_stat(self_obj,STAT_pe) > 5) then begin
+         set_critter_base_stat(self_obj, STAT_ag, 5);
+      end      
+   end
+   //end added
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure combat_p_proc begin
+   gang_combat_p_proc
+end
+
+procedure critter_p_proc begin
+
+   //added by killap - expansion
+   if ((self_visible) and (self_can_see_dude)) then begin 
+      
+      if (hostile) then begin
+         self_attack_dude;
+      end else if (cur_map_index == MAP_DEN_RESIDENTIAL) then begin 
+         if not(local_var(LVAR_Said_Drunk_Attack)) then begin
+               start_dialog_at_node(Node034);
+         end
+      end
+   end
+   //end added
+   
+   gang_critter_p_proc
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      gang_member_damage
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   debug_msg("global_var(GVAR_DEN_GANGWAR) == "+global_var(GVAR_DEN_GANGWAR));
+   if ((hostile) or (gang_hostile)) then begin
+      call Node002;
+   //added by killap - expansion
+   end else if (cur_map_index == MAP_DEN_RESIDENTIAL) then begin    
+      start_dialog_at_node(Node034);
+   //end added
+   end else if (gangwar(state_gangwar_1won)) then begin
+      if (gave_money) then begin
+         call Node003;
+      end else begin
+         start_dialog_at_node(Node027);
+      end
+   end else if (gang_trap(state_gang_trap_noshow)) then begin
+      call Node004;
+   end else if (gang_trap(state_gang_trap_set)) then begin
+      call Node005;
+   end else if ((gangwar(state_gangwar_fight)) or (gangwar(state_gangwar_coward))) then begin
+      start_dialog_at_node(Node024);
+   end else if (gangwar(state_gangwar_find)) then begin
+      start_dialog_at_node(Node018);
+   end else if (gangwar(state_gangwar_weakness)) then begin
+      call Node023;
+   end else if (gang_door(state_gang_door_never)) then begin
+      if (check_lockout_timer) then begin
+         call Node012;
+      end else begin
+         start_dialog_at_node(Node033);
+      end
+   end else if (gang_door(state_gang_door_yes)) then begin
+      call Node032;
+   end else begin
+      start_dialog_at_node(Node006);
+   end
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   dest_gang_member;
+   set_gave_money(self_obj);
+   debug_msg("count: " + (global_var(GVAR_DEN_GANG_1_COUNT)));
+   set_tyler_dead; // added by killap
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + herebefore);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150);
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+   set_personal_enemy;
+   set_gang_1_hostile;
+   //self_attack_dude; - comment out by killap
+end
+procedure Node999 begin
+end
+procedure Node990 begin
+   if ((has_rep_slaver) or (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0)))) then begin
+      call Node009;
+   end else begin
+      call Node008;
+   end
+end
+procedure Node989 begin
+   if ((has_rep_slaver) or (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,5)))) then begin
+      call Node009;
+   end else begin
+      call Node008;
+   end
+end
+procedure Node988 begin
+   if (dude_strength > 7) then begin
+      call Node010;
+   end else if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,5))) then begin
+      call Node009;
+   end else begin
+      call Node011;
+   end
+end
+procedure Node987 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,20))) then begin
+      call Node009;
+   end else begin
+      call Node015;
+   end
+end
+procedure Node986 begin
+   if ((has_rep_slaver) or (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,5)))) then begin
+      call Node009;
+   end else begin
+      call Node015;
+   end
+end
+procedure Node985 begin
+   if (is_success(do_check(dude_obj, STAT_ch, -3 + (5 * (gang_door(state_gang_door_never) == false))))) then begin
+      call Node019;
+   end else begin
+      call Node022;
+   end
+end
+
+procedure Node001 begin
+   if (door_warned == false) then begin
+      floater(200);
+   end else begin
+      floater(201);
+      call Node998;
+      //self_attack_dude; - comment out by killap
+   end
+end
+procedure Node002 begin
+   floater(210);
+   //self_attack_dude;
+   set_hostile; // replaced the above with this since the script crashes if we attack from dialogue. -killap
+end
+procedure Node003 begin
+   // added by killap - expansion
+   if (gang_trap(state_gang_trap_no)) then
+      floater(222);
+   else
+      floater_rand(220, 223);
+end
+procedure Node004 begin
+   floater_rand(230, 235);
+end
+procedure Node005 begin
+   floater_rand(240, 245);
+end
+procedure Node006 begin
+   Reply(250 + node_6);
+   set_node_6;
+   if (metzger_known) then begin
+      NOption(252, Node007, 004);
+   end else begin
+      NOption(253, Node016, 004);
+   end
+   NOption(254, Node999, 004);
+   NOption(mstr(255) + dude_name + mstr(1255), Node013, -003);
+   NOption(256, Node014, -003);
+end
+procedure Node007 begin
+   if (node_7) then begin
+      Reply(261 + has_rep_slaver);
+   end else begin
+      Reply(260);
+      set_node_7;
+   end
+   NOption(263, Node990, 004);
+   NOption(264, Node989, 006);
+   NOption(265, Node999, 004);
+end
+procedure Node008 begin
+   Reply(270);
+   NOption(271, Node988, 004);
+   NOption(272, Node987, 008);
+   NOption(273, Node999, 004);
+end
+procedure Node009 begin
+   unlock_church_door
+   set_gang_door(state_gang_door_yes);
+   Reply(280 + (has_rep_slaver == false));
+   NOption(282, Node999, 004);
+end
+procedure Node010 begin
+   unlock_church_door
+   set_gang_door(state_gang_door_yes);
+   Reply(290);
+   NOption(291, Node999, 004);
+   NOption(292, Node999, 004);
+end
+procedure Node011 begin
+   set_gang_door(state_gang_door_never);
+   set_lockout_timer
+   if (dude_is_male) then begin
+      Reply(300);
+      BOption(302, Node998, 004);
+   end else begin
+      Reply(301);
+      BOption(303, Node998, 004);
+   end
+   NOption(304, Node999, 004);
+end
+procedure Node012 begin
+   if (random(1, 4) == 1) then begin
+     floater(310);
+   end else begin
+     floater(random(700, 702));
+   end
+end
+procedure Node013 begin
+   Reply(320);
+   NOption(321, Node999, -003);
+   NOption(322, Node999, -003);
+end
+procedure Node014 begin
+   Reply(330);
+   NOption(331, Node999, -003);
+   NOption(332, Node999, -003);
+end
+procedure Node015 begin
+   set_gang_door(state_gang_door_never);
+   set_lockout_timer
+   Reply(340);
+   NOption(341, Node999, 004);
+   NOption(342, Node999, 004);
+   NOption(343, Node999, 004);
+end
+procedure Node016 begin
+   Reply(350 + node_16);
+   set_node_16;
+   NOption(352, Node986, 004);
+   NOption(353, Node017, 004);
+   NOption(354, Node999, 004);
+end
+procedure Node017 begin
+   set_gang_door(state_gang_door_never);
+   set_lockout_timer
+   Reply(360);
+   NOption(361, Node999, 004);
+   NOption(362, Node999, 004);
+end
+procedure Node018 begin
+   if (gang_door(state_gang_door_no)) then begin
+      Reply(370);
+   end else if (gang_door(state_gang_door_yes)) then begin
+      unlock_church_door
+      Reply(371);
+   end else begin
+      Reply(372);
+   end
+   NOption(373, Node985, 004);
+   NOption(374, Node999, 004);
+   NOption(375, Node999, -003);
+   NOption(376, Node014, -003);
+end
+procedure Node019 begin
+   Reply(380 + (gang_door(state_gang_door_never)));
+   GOption(382, Node020, 004);
+   GOption(383, Node020, 004);
+end
+procedure Node020 begin
+   set_gangwar(state_gangwar_weakness);
+   Reply(390 + dude_is_female);
+   GOption(392, Node021, 004);
+   if (dude_is_female) then begin
+      GOption(393, Node021, 004);
+   end
+   NOption(394, Node999, 004);
+end
+procedure Node021 begin
+   Reply(400);
+   GOption(401, Node999, 004);
+end
+procedure Node022 begin
+   Reply_Rand(410, 417);
+   NOption(418, Node999, 004);
+end
+procedure Node023 begin
+   floater_rand(430, 433);
+end
+procedure Node024 begin
+   Reply(440 + node_24);
+   set_node_24;
+   GOption(442, Node026, 004);
+   NOption(443, Node999, 004);
+   NOption(444, Node025, -003);
+   NOption(445, Node025, -003);
+end
+procedure Node025 begin
+   if (node_25) then begin
+      Reply(451 + dude_is_female);
+   end else begin
+      Reply(450);
+      set_node_25;
+   end
+   NOption(453, Node999, 001);
+end
+procedure Node026 begin
+   Reply(460);
+   NOption(461, Node028, 004);
+   NOption(462, Node029, 004);
+   NOption(463, Node999, 004);
+end
+procedure Node027 begin
+   set_gave_money(dude_obj);
+   GMessage(470);
+end
+procedure Node028 begin
+   Reply(480);
+   NOption(481, Node029, 004);
+   BOption(482, Node999, 004);
+end
+procedure Node029 begin
+   set_gang_trap(state_gang_trap_set);
+   Reply(490);
+   NOption(491, Node030, 004);
+end
+procedure Node030 begin
+   Reply(500);
+   NOption(501, Node031, 004);
+   NOption(502, Node999, 004);
+end
+procedure Node031 begin
+   Reply(510);
+   NOption(511, Node999, 004);
+end
+procedure Node032 begin
+   floater_rand(601 - dude_is_male, 608 + dude_is_female);
+end
+procedure Node033 begin
+   Reply(710 + node_33);
+   set_node_33;
+   if (has_rep_slaver) then begin
+      NOption(712, Node009, 004);
+   end
+   if (metzger_known) then begin
+      if (dude_is_female) then begin
+         NOption(713, Node009, 006);
+      end
+      NOption(714, Node990, 004);
+   end
+   NOption(715, Node989, 004);
+   NOption(716, Node999, 004);
+   NOption(717, Node014, -003);
+end
+
+//added by killap - expansion
+procedure Node034 begin
+   set_local_var(LVAR_Said_Drunk_Attack,1);
+   Reply(800);
+   BOption(801, Node998, 001);
+end
+//end added

@@ -1,0 +1,40 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Manhole where lloyd's loot is
+        Location : New Reno Golgotha
+        Description: This leads to where lloyd hid the loot
+
+           Created: May 13, 1998
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_NIMANHOL
+
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+/* Defines and Macros */
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (get_escape(escape_none)) then begin
+         check_set_obj_visiblility(self_obj, true);
+      end else if (false) then begin // ### change if extra stuff gets put in
+         check_set_obj_visiblility(self_obj, false);
+      end
+   end
+end

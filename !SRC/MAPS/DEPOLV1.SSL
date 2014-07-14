@@ -1,0 +1,88 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Map Script for Sierra Army Base, Outside area
+*/
+
+#include "..\headers\define.h"
+#include "..\headers\updatmap.h"
+#include "..\headers\depolv1.h"
+
+#define NAME                    SCRIPT_DEPOLV1
+
+#include "..\headers\command.h"
+
+
+#define MIN_ELECTRIC_DMG                (10)
+#define MAX_ELECTRIC_DMG                (30)
+
+//#define Inner_UL
+//#define Inner_UR
+//#define Inner_LL
+//#define Inner_LR
+
+#define Outer_UL                        (9880)
+#define Outer_UR                        (9864)
+#define Outer_LL                        (13880)
+#define Outer_LR                        (13864)
+
+
+#define obj_in_box(who)                 (tile_in_tile_rect(Outer_UL,Outer_UR,Outer_LL,Outer_LR,tile_num(who)))
+
+//#define obj_in_box(who)                 ((tile_in_tile_rect(Outer_UL,Outer_UR,Outer_LL,Outer_LR,tile_num(who))) and             \
+//                                         (not(tile_in_tile_rect(Inner_UL,Inner_UR,Inner_LL,Inner_LR,tile_num(who)))))
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+export variable Entrance_Door_Ptr;
+
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   if (elevation(dude_obj) == 0) then begin
+       Lighting;
+   end
+   else begin
+       Darkness;
+   end
+
+
+   //added by killap - prevent car from disappearing if the car runs out of gas while on the town circle
+   if ((metarule(30, 0) == 21) and (cur_map_index != MAP_CAR_DESERT) and (car_out_of_fuel)) then begin
+      set_global_var(GVAR_CAR_PLACED_TILE, 0);
+      Create_Car(CAR_SIERRA_ARMY_BASE_HEX,CAR_SIERRA_ARMY_BASE_ELEV)
+      if (tile_contains_pid_obj(CAR_SIERRA_ARMY_BASE_HEX, CAR_SIERRA_ARMY_BASE_ELEV, PID_DRIVABLE_CAR) != 0) then begin
+         Create_Trunk(CAR_SIERRA_ARMY_BASE_HEX,CAR_SIERRA_ARMY_BASE_ELEV)
+      end 
+   end else 
+      Check_Create_Car(CAR_SIERRA_ARMY_BASE_HEX, CAR_SIERRA_ARMY_BASE_ELEV)
+   //end added
+   
+   //Check_Create_Car(CAR_SIERRA_ARMY_BASE_HEX, CAR_SIERRA_ARMY_BASE_ELEV)
+
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+
+end
+
+procedure map_update_p_proc begin
+   if (elevation(dude_obj) == 0) then begin
+       Lighting;
+
+       if (global_var(GVAR_SIERRA_BASE_POWER) == 0) then begin               // Power On
+           if (obj_in_box(dude_obj)) then begin
+               debug_msg("Dude is in area");
+               critter_dmg(dude_obj,random(MIN_ELECTRIC_DMG,MAX_ELECTRIC_DMG),DMG_electrical);
+           end
+       end
+
+   end
+   else begin
+       Darkness;
+   end
+end

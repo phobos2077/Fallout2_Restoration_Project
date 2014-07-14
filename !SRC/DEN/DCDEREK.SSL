@@ -1,0 +1,220 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_DCDEREK
+#define TOWN_REPUTATION         GVAR_TOWN_REP_THE_DEN
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+#include "..\headers\Den.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure push_p_proc; //added by killap
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (4)
+#define LVAR_Node_8                       (5)
+#define LVAR_Node_9                       (6)
+#define LVAR_Home_Tile                    (7)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+procedure start begin
+end
+
+//added by killap
+procedure push_p_proc begin
+end
+//end added
+
+procedure timed_event_p_proc begin
+   if (fixed_param == timed_event_wander) then begin
+      if ((combat_is_initialized == false) and (random(0,1)) and (night == false)) then begin
+         if (tile_distance(self_tile, local_var(LVAR_Home_Tile)) > 20) then begin
+            animate_move_to_tile(tile_num_in_direction(self_tile, rotation_to_tile(self_tile, local_var(LVAR_Home_Tile)), random(5, 10)));
+         end else begin
+            animate_move_to_tile(tile_num_in_direction(self_tile, random(0,5), random(5, 10)));
+         end
+         flush_add_timer_event_sec(self_obj, random(10, 60), timed_event_wander);
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_ADDICT);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ADDICT);
+      end
+      flush_add_timer_event_sec(self_obj, random(10, 60), timed_event_wander);
+   end
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (hostile) then begin
+         self_attack_dude;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   debug_msg("becky_job(state_becky_job_book) == " + (becky_job(state_becky_job_book)) + " / becky_work == " + (becky_work));
+   if (night) then begin
+      call Node001;
+   end else if ((becky_job(state_becky_job_book))) then begin
+      if (dude_is_stupid) then begin
+         call Node010;
+      end else if (derek_talk) then begin
+         start_dialog_at_node(Node005);
+      end else begin
+         start_dialog_at_node(Node004);
+      end
+      set_herebefore;
+   end else if (derek_talk) then begin
+      call Node003;
+   end else begin
+      call Node002;
+   end
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+   set_derek_dead;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + herebefore);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150);
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   floater_rand(200, 207);
+end
+procedure Node002 begin
+   floater_rand(220, 228);
+end
+procedure Node003 begin
+   floater_rand(240, 252);
+end
+procedure Node004 begin
+   set_derek_talk;
+   Reply(260);
+   NOption(261, Node006, 004);
+   NOption(262, Node008, 004);
+   NOption(263, Node999, 004);
+end
+procedure Node005 begin
+   Reply(270);
+   NOption(271, Node008, 004);
+   NOption(272, Node009, 004);
+   NOption(273, Node999, 004);
+end
+procedure Node006 begin
+   Reply(280);
+   NOption(281, Node007, 004);
+   NOption(282, Node008, 004);
+   NOption(283, Node999, 004);
+end
+procedure Node007 begin
+   Reply(290 + dude_is_female);
+   NOption(292, Node999, 004);
+   NOption(293, Node999, 004);
+end
+procedure Node008 begin
+   Reply(300 + local_var(LVAR_Node_8));
+   if (local_var(LVAR_Node_8) < 4) then begin
+      inc_local_var(LVAR_Node_8);
+   end
+   NOption(305, Node999, 004);
+   NOption(306, Node999, 004);
+end
+procedure Node009 begin
+   Reply(310 + local_var(LVAR_Node_9));
+   if (local_var(LVAR_Node_9) < 2) then begin
+      inc_local_var(LVAR_Node_9);
+   end
+   NOption(313, Node999, 004);
+   NOption(314, Node999, 004);
+end
+procedure Node010 begin
+   set_derek_talk;
+   floater_rand(320, 321);
+end

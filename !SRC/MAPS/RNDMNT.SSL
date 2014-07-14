@@ -1,0 +1,170 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: modMain
+        Location: Modoc
+        Description: Modoc main area
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+//#include "..\headers\modMain.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_RNDMNT
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure map_exit_p_proc;
+
+procedure Initial_Inven;
+
+procedure start begin
+end
+
+procedure map_exit_p_proc begin
+   if (not car_out_of_fuel) then begin
+      if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 0, PID_DRIVABLE_CAR) != 0 or
+          tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 1, PID_DRIVABLE_CAR) != 0 or
+          tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 2, PID_DRIVABLE_CAR) != 0) then begin
+         debug_msg("car_give_to_party");
+         set_global_var(GVAR_CAR_PLACED_TILE, 0);
+         car_give_to_party;
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   variable Critter;
+   variable Critter_Tile;
+   variable the_hex;
+   variable the_elev;
+
+   Lighting;
+
+   if (cur_map_index == MAP_RND_CAVERN0) then begin
+       the_hex := CAR_RANDOM_MOUNTAIN_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CAVERN1) then begin
+       the_hex := CAR_RND_CAVE1_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CAVERN2) then begin
+       the_hex := CAR_RND_CAVE2_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CAVERN3) then begin
+       the_hex := CAR_RND_CAVE3_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CAVERN4) then begin
+       the_hex := CAR_RND_CAVE4_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CAVERN5) then begin
+       the_hex := CAR_RND_CAVE5_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CAVERN_6) then begin
+       the_hex := CAR_RND_CAVE6_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CAVERN_7) then begin
+       the_hex := CAR_RND_CAVE7_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_MOUNTAIN1) then begin
+       the_hex := CAR_RND_MOUNTAIN1_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_MOUNTAIN2) then begin
+       the_hex := CAR_RND_MOUNTAIN2_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_MOUNTAIN_3) then begin
+       the_hex := CAR_RND_MOUNTAIN3_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_MOUNTAIN_4) then begin
+       the_hex := CAR_RND_MOUNTAIN4_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_MOUNTAIN_5) then begin
+       the_hex := CAR_RND_MOUNTAIN5_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_MOUNTAIN_6) then begin
+       the_hex := CAR_RND_MOUNTAIN6_HEX;
+       the_elev := CAR_RANDOM_MOUNTAIN_ELEV;
+   end
+   if (the_hex != 0) then begin
+      Check_Create_Car(the_hex, the_elev)
+   end else
+      debug_msg("DIDN'T HAVE MAP HEX FOR CAR, WE NEED TO CREATE ONE");
+
+   if ((map_first_run) and (not(get_stranger_flag(STRANGER_DEAD))) and (random(0,99) < (30 + (2*dude_luck))) and ((has_trait(TRAIT_PERK,dude_obj,PERK_mysterious_stranger)))) then begin
+       if (not(get_stranger_flag(STRANGER_GENDER))) then begin
+           debug_msg("Set the Stranger Gender");
+           set_stranger_flag(STRANGER_GENDER);
+           if (random(0,99) < 50) then
+               set_stranger_flag(STRANGER_FEMALE);
+       end
+       if (get_stranger_flag(STRANGER_FEMALE)) then begin
+           if (dude_level > 26) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_FEMALE_21,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 22) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_FEMALE_16_20,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 18) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_FEMALE_11_15,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 14) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_FEMALE_5_10,0,0,SCRIPT_ECMSTSTR);
+           else
+               Critter:=create_object_sid(PID_MYSTERIOUS_STRANGER_FEMALE,0,0,SCRIPT_ECMSTSTR);
+       end
+       else begin
+           if (dude_level > 26) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_MALE_21,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 22) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_MALE_16_20,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 18) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_MALE_11_15,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 14) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_MALE_5_10,0,0,SCRIPT_ECMSTSTR);
+           else
+               Critter:=create_object_sid(PID_MYSTERIOUS_STRANGER_MALE,0,0,SCRIPT_ECMSTSTR);
+       end
+       Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),random(0,5),random(5,10));
+       critter_attempt_placement(Critter,Critter_Tile,elevation(dude_obj));
+   end
+
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+end
+
+
+procedure Initial_Inven begin
+end

@@ -1,0 +1,154 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NCBITCH
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node002;
+procedure Node003;
+procedure Node004;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+#define LVAR_Flags                     (0)
+#define LVAR_Talk_Attempts             (1)
+
+#define hidden_for_fight_bit           bit_10
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+import variable new_reno_bitch_obj;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_PORNO_STUDIO);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+      end
+   end
+end
+
+procedure map_update_p_proc begin
+   check_hide_durring_boxing_fight
+end
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (hostile or porn_studio_hostile) then begin
+         self_attack_dude;
+      end else set_new_reno_watcher(new_reno_bitch_obj)
+   end else if (herebefore) then begin
+      off_herebefore;
+      if (random(1,3) == 1) then begin
+         call Node004;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      set_porn_studio_hostile;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   if (enclave_destroyed) then begin
+      call Node002;
+   end else begin
+      call Node003;
+   end
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   inc_evil_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr_rand(150,151);
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   if (hostile == false) then begin
+      set_hostile;
+   end
+end
+procedure Node999 begin
+end
+
+procedure Node002 begin
+   floater_bad_rand(200, 201);
+end
+procedure Node003 begin
+   inc_local_var(LVAR_Talk_Attempts);
+   if (obj_can_see_obj(dude_obj, self_obj)) then begin
+      if (local_var(LVAR_Talk_Attempts) >= random(3,5)) then begin
+         dude_floater(random(300, 301 + (2*(dude_is_stupid == false)))); //corrected paren error - killap
+      end
+   end
+   if (herebefore == false) then begin
+      display_mstr(random(500, 501));
+   end
+end
+procedure Node004 begin
+   if (dude_has_porn_star_rep) then begin
+      floater_rand(602 - (2 * dude_is_male), 602 + (3 * dude_is_female)); //was 3* dude_is_male ... was 4* dude_is_female
+   end else begin
+      floater_bad_rand(402 - ((1 + (dude_charisma < 3)) * dude_is_male), 404 + ((1 + (dude_charisma < 3)) * dude_is_female));
+   end
+end

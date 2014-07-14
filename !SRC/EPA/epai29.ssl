@@ -1,0 +1,70 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+
+#define NAME                    SCRIPT_EPAI29
+
+#include "..\headers\command.h"
+
+#define LVAR_Said_Message       (0)
+#define LVAR_Placed_Rope        (1)
+#define LVAR_Said_Entry_Message (2)
+
+#define AIRVENTS_HEX          (29927)
+#define ROPE_XP               (75)
+
+procedure start;
+procedure use_p_proc;
+procedure use_obj_on_p_proc;
+
+procedure start begin
+end
+
+procedure use_p_proc
+begin
+  script_overrides;
+   if (local_var(LVAR_Placed_Rope) == 0) then begin
+      if (local_var(LVAR_Said_Message) == 0) then begin
+         dude_floater(200);
+         set_local_var(LVAR_Said_Message,1);
+      end else begin
+         dude_floater(201);
+      end
+   end
+   else begin
+      move_to(dude_obj,AIRVENTS_HEX,1);
+      if (local_var(LVAR_Said_Entry_Message) == 0) then begin
+         display_msg(mstr(400));
+         set_local_var(LVAR_Said_Entry_Message,1);
+      end
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   script_overrides;
+   if ( (obj_pid(obj_being_used_with) == PID_ROPE) and (local_var(LVAR_Placed_Rope) == 0) ) then begin
+      rm_obj_from_inven(dude_obj,obj_being_used_with);
+      destroy_object(obj_being_used_with);
+      dude_floater(300);
+      set_local_var(LVAR_Placed_Rope,1);
+      display_msg(mstr(302));
+      give_xp(ROPE_XP);
+   end else begin
+      dude_floater(301);
+   end
+end

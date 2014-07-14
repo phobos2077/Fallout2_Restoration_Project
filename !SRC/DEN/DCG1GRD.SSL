@@ -1,0 +1,223 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_DCG1GRD
+#define TOWN_REPUTATION         GVAR_TOWN_REP_THE_DEN
+#include "..\headers\command.h"
+#include "..\headers\ModReact.h"
+#include "..\headers\Den.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+procedure map_update_p_proc;
+procedure combat_p_proc;
+procedure push_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (4)
+#define LVAR_Home_Tile                    (5)
+#define LVAR_Home_Rotation                (6)
+
+#define self_gang                         gang_1
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+import variable gang_1_member_1;
+import variable gang_1_member_2;
+import variable gang_1_member_3;
+import variable gang_1_member_4;
+import variable gang_1_member_5;
+import variable gang_2_member_1;
+import variable gang_2_member_2;
+import variable gang_2_member_3;
+import variable gang_2_member_4;
+import variable gang_2_member_5;
+import variable church_door_obj;
+
+procedure start begin
+end
+
+procedure push_p_proc begin
+   gang_member_push_proc
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == timed_event_float) then begin
+   end else if (fixed_param == timed_event_door_tamper) then begin
+      call Node998;
+   end
+end
+
+procedure map_update_p_proc begin
+   gang_map_update_p_proc
+end
+
+procedure map_enter_p_proc begin
+   CHECK_LEVEL
+   debug_msg("count: " + (global_var(GVAR_DEN_GANG_1_COUNT)));
+   gang_member_map_enter // Seraph: uncommented this line. Part of Haenlomal's gang fixes.
+   
+   /*//added by killap
+   if (gang_1_member_2 == 0) then
+      destroy_object(gang_1_member_2);
+   if (gang_1_member_3 == 0) then
+      destroy_object(gang_1_member_3);
+   if (gang_1_member_4 == 0) then
+      destroy_object(gang_1_member_4);
+   if (gang_1_member_5 == 0) then
+      destroy_object(gang_1_member_5);
+   //end added*/
+   
+   //added by killap - expansion 
+   if (cur_map_index == MAP_DEN_BUSINESS) then begin
+      if (map_first_run) then begin
+         if (global_var(GVAR_DEN_GANG_1_COUNT) < 10) then begin
+            inc_global_var(GVAR_DEN_GANG_1_COUNT); 
+         end
+      end else if (gang_war_dude_stray_message) then begin
+         set_obj_visibility(self_obj, true); //invisi
+      end
+   end else if (cur_map_index == MAP_DEN_RESIDENTIAL) then begin 
+      if ((gangwar(state_gangwar_in_fight)) and (at_party_fight)) then begin
+         set_obj_visibility(self_obj, false); //visi
+      end else begin
+         set_obj_visibility(self_obj, true); //invisi
+      end
+   end
+   //end added
+
+   debug_msg("tyler count" + global_var(GVAR_DEN_GANG_1_COUNT));
+   debug_msg("lara count" + global_var(GVAR_DEN_GANG_2_COUNT));
+
+   if (at_party_fight) then begin
+      if (get_critter_stat(self_obj,STAT_pe) > 3) then begin
+         set_critter_base_stat(self_obj, STAT_pe, 1);
+      end
+      if (get_critter_stat(self_obj,STAT_pe) > 5) then begin
+         set_critter_base_stat(self_obj, STAT_ag, 5);
+      end      
+   end
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure combat_p_proc begin
+   gang_combat_p_proc
+end
+
+procedure critter_p_proc begin
+   gang_critter_p_proc
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      gang_member_damage
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   debug_msg("global_var(GVAR_DEN_GANGWAR) == "+global_var(GVAR_DEN_GANGWAR));
+   if ((hostile) or (gang_hostile)) then begin
+      call Node001;
+   end else if (gangwar(state_gangwar_1won)) then begin
+      call Node002;
+   end else if (gang_trap(state_gang_trap_noshow)) then begin
+      call Node005;
+   end else if (gang_trap(state_gang_trap_set)) then begin
+      call Node004;
+   end else begin
+      call Node003;
+   end
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   dest_gang_member;
+   debug_msg("count: " + (global_var(GVAR_DEN_GANG_1_COUNT)));
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150 + self_is_female); // Seraph: Added "+ self_is_female". Part of Haenlomal's gang fixes.
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   floater(200);
+   //self_attack_dude;
+   set_hostile;
+end
+procedure Node002 begin
+   floater_rand(210,216);
+end
+procedure Node003 begin
+   floater_rand(225,232);
+end
+procedure Node004 begin
+   floater_rand(233,239);
+end
+procedure Node005 begin
+   floater_rand(240,246);
+end

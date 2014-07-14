@@ -1,0 +1,84 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Broken Hills Random Mountain Map Script
+        Location: Broken Hills Caravan Route
+        Description: This is the Map Script for the Village of Broken Hills
+
+        Log:
+
+           Created: July 2, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\broken.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_BHRNDMTN
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+variable k;
+variable master;
+variable master_hex;
+variable cguard;
+variable cguard_hex;
+variable stuff;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   Check_Create_Car(CAR_RANDOM_MOUNTAIN_HEX, CAR_RANDOM_MOUNTAIN_ELEV)
+
+        // Attempt to place some caravan guards
+        k:=elevation(dude_obj);
+        master := create_object_sid(PID_TOUGH_GUARD_MALE,0,0,SCRIPT_HCENCHA);
+        critter_add_trait(master,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+        master_hex := tile_num_in_direction(tile_num(dude_obj),0,3);
+        //critter_attempt_placement(master,master_hex, k);
+
+        cguard := create_object_sid(PID_TOUGH_GUARD_MALE,0,0,SCRIPT_HCENCHB);
+        critter_add_trait(cguard,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+        cguard_hex := tile_num_in_direction(master_hex,1,2);
+        critter_attempt_placement(cguard,cguard_hex, k);
+
+        cguard := create_object_sid(PID_TOUGH_GUARD_MALE,0,0,SCRIPT_HCENCHB);
+        critter_add_trait(cguard,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+        cguard_hex := tile_num_in_direction(master_hex,2,2);
+        critter_attempt_placement(cguard,cguard_hex, k);
+
+        cguard := create_object_sid(PID_TOUGH_GUARD_MALE,0,0,SCRIPT_HCENCHB);
+        critter_add_trait(cguard,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+        cguard_hex := tile_num_in_direction(master_hex,4,8);
+
+        critter_attempt_placement(cguard,master_hex, k);
+        critter_attempt_placement(master,cguard_hex, k); //made master swap places with a guard
+
+
+        stuff:=tile_num_in_direction(master_hex,5,4);
+        Create_EW_Red_Caravan(stuff, k)
+
+   Lighting;
+
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+end

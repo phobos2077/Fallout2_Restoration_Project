@@ -1,0 +1,266 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Anna the Ghost
+        Location: Den
+        Description:
+
+        Log: the following defines need to be changed:
+
+
+           Created: January 7, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\den.h"
+
+#define NAME                        SCRIPT_DCANNA
+#define TOWN_REP_VAR                GVAR_TOWN_REP_THE_DEN
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+// dialog nodes
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+
+procedure Node998;                                      // This Node is Always Combat
+
+#define LVAR_Flags                        (4)
+
+#define destroy_anna_bit                  bit_10
+
+#define helped_anna                       (obj_is_carrying_obj_pid(self_obj, PID_ANNA_GOLD_LOCKET) > 0)
+#define set_helped_anna                   if (helped_anna == false) then begin                           \
+                                             debug_msg("SETTING ANNA HELPED");                           \
+                                             remove_pid_qty(dude_obj, PID_ANNA_GOLD_LOCKET, 1)           \
+                                             give_pid_qty(self_obj, PID_ANNA_GOLD_LOCKET, 1)             \
+                                             set_gave_anna_locket;                                       \
+                                             inc_general_rep(REP_BONUS_DEN_GAVE_ANNA_LOCKET);            \
+                                             den_display_mstr(1000);                                     \
+                                             give_xp(EXP_ANNA_LOCKET);                                   \
+                                             set_anna_locket_pip(anna_locket_pip_done);                  \
+                                             flush_add_timer_event_sec(self_obj, 3, timed_event_float);  \
+                                          end
+
+#define destroy_anna                      lvar_bit(LVAR_Flags, destroy_anna_bit)
+#define set_destroy_anna                  debug_msg("SETTING DESTROY ANNA");              \
+                                          set_lvar_bit_on(LVAR_Flags, destroy_anna_bit)
+
+#define anna_floater(x)                   float_msg(self_obj, message_str(NAME,x), FLOAT_MSG_WHITE)
+
+// needs to be the locket for anna
+#define CHECK_ANNA_VISIBILITY             if (destroy_anna) then begin                       \
+                                             debug_msg("DESTROYING ANNA");                   \
+                                             give_pid_qty(self_obj, PID_ANNA_BONES, 1)       \
+                                             drop_obj(restock_obj);                          \
+                                             if (tile_in_anna_room(dude_tile)) then begin    \
+                                                if (dude_is_stupid) then                     \
+                                                   dude_floater(551);                        \
+                                                else                                         \
+                                                   dude_floater(550);                        \
+                                             end                                             \
+                                             destroy_object(self_obj);                       \
+                                          end else if (helped_anna) then begin               \
+                                             debug_msg("setting DESTROY_ANNA");              \
+                                             debug_msg(" obj_is_carrying_obj_pid(self_obj, PID_ANNA_GOLD_LOCKET) == "+obj_is_carrying_obj_pid(self_obj, PID_ANNA_GOLD_LOCKET)); \
+                                             set_destroy_anna;                               \
+                                          end else if (game_time_hour <= 400) then begin     \
+                                             check_set_obj_visiblility(self_obj,false);             \
+                                          end else begin                                     \
+                                             check_set_obj_visiblility(self_obj,true);              \
+                                          end
+
+variable temp_room_tile;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == timed_event_float) then begin
+      if (self_visible) then begin
+         if (combat_is_initialized == false) then begin
+            if (helped_anna) then begin
+               call Node008;
+            end else if (self_visible) then begin
+               anna_floater(random(200,203));
+            end
+         end
+      end
+      flush_add_timer_event_sec(self_obj, random(10, 30), timed_event_float);
+   end else if (fixed_param == timed_event_wander) then begin
+      if (combat_is_initialized == false) then begin
+         temp_room_tile := tile_num_in_direction(self_tile, random(0, 5), random(1, 5));
+         if (tile_in_anna_room(temp_room_tile)) then begin
+            animate_move_to_tile(temp_room_tile);
+         end
+      end
+      flush_add_timer_event_sec(self_obj, random(5, 15), timed_event_wander);
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_THE_DEN);
+         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+      end
+      flush_add_timer_event_sec(self_obj, random(10, 30), timed_event_float);
+      flush_add_timer_event_sec(self_obj, random(5, 15), timed_event_wander);
+   end
+end
+
+procedure map_update_p_proc begin
+   CHECK_ANNA_VISIBILITY
+end
+
+procedure critter_p_proc begin
+   if (self_visible) then begin
+      if (self_can_see_dude) then begin
+         if (hostile) then begin
+            self_attack_dude;
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   script_overrides;
+end
+
+procedure talk_p_proc begin
+   script_overrides;
+   if (helped_anna) then begin
+      call Node008;
+   end else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         if (obj_is_carrying_obj_pid(dude_obj,PID_ANNA_GOLD_LOCKET)) then begin
+            call Node006;
+         end else begin
+            call Node001;
+         end
+      gSay_End;
+      end_dialogue;
+      set_herebefore;
+   end
+   flush_add_timer_event_sec(self_obj, random(5, 15), timed_event_wander);
+   set_anna_spoken;
+end
+
+procedure destroy_p_proc begin
+// set_vic_dead;  //killap's fix: setting vic to dead if anna dies? wahh?
+   //added by killap
+   if (get_anna_locket_pip(anna_locket_pip_assigned)) then
+      set_anna_locket_pip(anna_locket_pip_done);
+   //added by killap
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + herebefore);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(100 + herebefore);
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node999 begin
+   // to exit dialogs
+end
+procedure Node998 begin
+   // sets up combat
+   set_hostile;
+end
+procedure Node001 begin
+   debug_msg("Node001");
+   Reply(153);
+   NOption(154,Node003,004);
+   NOption(155,Node002,004);
+   BOption(156,Node005,006);
+   BOption(560, Node999, -003);
+   NOption(561, Node999, -003);
+end
+procedure Node002 begin
+   debug_msg("Node002");
+   Reply(157);
+   NOption(158,Node003,004);
+   BOption(159,Node005,004);
+end
+procedure Node003 begin
+   debug_msg("Node003");
+   Reply(160);
+   NOption(161,Node004,004);
+   BOption(162,Node005,004);
+end
+procedure Node004 begin
+   debug_msg("Node004");
+   set_anna_locket_pip(anna_locket_pip_assigned);
+   Reply(163);
+   NOption(164,Node005,004);
+   NOption(165,Node005,004);
+end
+procedure Node005 begin
+   debug_msg("Node005");
+   Reply(166);
+   NOption(167,Node999,004);
+   NOption(168,Node999,004);
+   NOption(169,Node999,004);
+end
+procedure Node006 begin
+   debug_msg("Node006");
+   Reply(170);
+   BOption(171,Node999,004);
+   NOption(172,Node007,004);
+   NOption(173,Node007,006);
+   NOption(174,Node007,-003);
+   BOption(175,Node999,-003);
+   BOption(560, Node999, -003);
+end
+procedure Node007 begin
+variable the_locket;
+   debug_msg("Node007");
+   set_helped_anna
+   Reply(176);
+   NOption(177,Node999,004);
+   NOption(178,Node999,004);
+   NOption(179,Node999,006);
+   NOption(561, Node999, -003);
+end
+
+procedure Node008 begin
+   anna_floater(random(500, 503));
+end

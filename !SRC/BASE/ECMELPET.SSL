@@ -1,0 +1,141 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Generic Lesser Rat
+        Location: Arroyo
+        Description: Generic lesser rat when you need a small, not very strong rat.
+
+        Log:
+
+           Created: December 02, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+#include "..\headers\mbase34.h"
+
+#define NAME                    SCRIPT_ZCLRAT
+
+#include "..\headers\command.h"
+#include "..\headers\Base.h"
+//#include "..\headers\ModReact.h"
+
+#define POISON_MIN              (2)
+#define POISON_MAX              (8)
+#define RAD_MIN                 (3)
+#define RAD_MAX                 (15)
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure combat_p_proc;
+
+#define LVAR_Place_Number                 (0)
+#define LVAR_Home_Tile                    (1)
+
+/* Local variables which do not need to be saved between map changes. */
+import variable melchior_obj;
+
+variable i_died;
+
+procedure start begin
+   critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_SUPER_MUTANT); // added by killap
+end
+
+procedure combat_p_proc begin
+variable pet_var;
+variable checked_spots;
+variable temp_tile;
+   if ((obj_is_visible_flag(self_obj)) and (is_critter_dead(self_obj) == false)) then begin
+      if (fixed_param == COMBAT_SUBTYPE_HIT_SUCCEEDED) then begin
+         if (target_obj == dude_obj) then begin
+            if (pid_is_poisoning_pid(self_pid)) then begin
+               poison(target_obj,random(POISON_MIN,POISON_MAX));
+            end
+            if (pid_is_radiating_pid(self_pid)) then begin
+               radiation_inc(target_obj,random(RAD_MIN,RAD_MAX));
+            end
+         end
+      end else if (fixed_param == COMBAT_SUBTYPE_NONCOM_TURN) then begin
+         if (self_tile == local_var(LVAR_Home_Tile)) then begin
+            pet_var := pid_to_mvar_num(self_pid);
+            if (local_var(LVAR_Place_Number) > map_var(pet_var)) then begin
+               temp_tile := current_portal_tile;
+               if (clump_is_free(temp_tile)) then begin
+                  debug_msg("moving pet");
+                  move_to(self_obj, temp_tile, self_elevation);
+                  Face_Critter(dude_obj, self_obj);
+                  attack(dude_obj);
+               end else begin
+                  debug_msg("pet can't be released, clump is blocked");
+               end
+               inc_portal_num;
+            end
+         end
+      end
+   end
+end
+
+procedure critter_p_proc begin
+   // the rat attacks if it sees the player
+   if (self_can_see_dude) then begin
+      attack(dude_obj);
+   end
+end
+
+procedure destroy_p_proc begin
+   if (i_died == 0 and melchior_obj >= 0) then begin
+      i_died := 1;
+      add_timer_event(melchior_obj, 0, OBJECT_VISIBILITY);
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      attack(dude_obj);
+   end
+end
+
+procedure look_at_p_proc begin
+   //script_overrides;
+   //display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+end
+
+procedure use_obj_on_p_proc begin
+end
+
+procedure use_skill_on_p_proc begin
+   if (action_being_used == SKILL_STEAL) then
+      script_overrides;
+end
+
+procedure map_update_p_proc begin
+end
+
+procedure map_enter_p_proc begin
+variable pet_var;
+   if (map_first_run) then begin
+      set_local_var(LVAR_Home_Tile, self_tile);
+      pet_var := pid_to_mvar_num(self_pid);
+      inc_map_var(pet_var);
+      set_local_var(LVAR_Place_Number, map_var(pet_var));
+      debug_msg(""+obj_name(self_obj)+": Place Num == "+local_var(LVAR_Place_Number)+". Map Var ("+pet_var+") == "+map_var(pet_var)+" , pid_to_ai("+self_pid+") == "+pid_to_ai(self_pid));
+      critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_SUPER_MUTANT);
+      critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, pid_to_ai(self_pid));
+   end
+end

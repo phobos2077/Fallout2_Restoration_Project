@@ -1,0 +1,308 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\VCtyVlt.h"
+
+#define NAME                    SCRIPT_VIMEDCOM
+//#define TOWN_REP_VAR            (GVAR_TOWN_REP_)
+
+#include "..\headers\command.h"
+//#include "..\headers\ModReact.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+
+procedure Node004a;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Looked_Before              (0)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   add_timer_event( self_obj, game_ticks(random(2, 30)), 1);
+end
+
+procedure timed_event_p_proc begin
+   variable val;
+
+   if( fixed_param == 1 ) then begin
+      val := random(0, 6);
+
+      // Play random silly floats at 6
+      if( val == 6 ) then
+         floater( random(208, 214) );
+      else
+         floater( random(203, 207) );
+
+      add_timer_event( self_obj, game_ticks(random(10, 30)), 1);
+   end
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure use_p_proc begin
+   script_overrides;
+   display_msg( mstr(103) );
+end
+
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   start_gdialog(NAME,self_obj,4,-1,-1);
+   gSay_Start;
+       call Node004;
+   gSay_End;
+   end_dialogue;
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Looked_Before) == 0) then begin
+       inc_local_var(LVAR_Looked_Before);
+       display_msg(mstr(100));
+   end
+   else
+       display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+   script_overrides;
+
+   if ((get_critter_stat(dude_obj,STAT_iq) > 3) and ((has_skill(dude_obj,SKILL_DOCTOR) > 75) or (has_skill(dude_obj,SKILL_SCIENCE) > 50))) then
+       dialogue_system_enter;
+   else begin
+       display_msg(mstr(104));
+       if (get_critter_stat(source_obj,STAT_iq) > 3) then
+           float_msg(source_obj, message_str(NAME,105), FLOAT_COLOR_NORMAL);
+       else
+           float_msg(source_obj, message_str(NAME,107), FLOAT_COLOR_NORMAL);
+   end
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node004 begin
+   inc_map_var(MVAR_Said_4);
+
+   Reply(108);
+
+   NOption(109,Node005,004);
+   NOption(110,Node006,004);
+   if (map_var(MVAR_Said_4) > 1) then
+       NOption(111,Node004a,004);
+   NOption(112,Node999,004);
+end
+
+procedure Node004a begin
+   if (has_skill(dude_obj,SKILL_DOCTOR) < 75) then
+       call Node007;
+   else
+       call Node008;
+end
+
+procedure Node005 begin
+   Reply(113);
+
+   NOption(114,Node006,004);
+   NOption(115,Node004a,004);
+   NOption(116,Node999,004);
+end
+
+procedure Node006 begin
+   Reply(117);
+
+   NOption(118,Node005,004);
+   NOption(119,Node004a,004);
+   NOption(120,Node999,004);
+end
+
+procedure Node007 begin
+   Reply(121);
+
+   NOption(122,Node011,004);
+   NOption(123,Node999,004);
+end
+
+procedure Node008 begin
+   inc_map_var(MVAR_Said_8);
+   game_time_advance(ONE_GAME_HOUR);
+
+   if (map_var(MVAR_Said_8) == 1) then
+       Reply(124);
+   else if (map_var(MVAR_Said_8) == 2) then
+       Reply(125);
+   else if ((map_var(MVAR_Said_8) >= 3) and (map_var(MVAR_Said_8) < 23)) then
+       Reply(126);
+   else if (map_var(MVAR_Said_8) == 23) then
+       Reply(127);
+   else if (map_var(MVAR_Said_8) == 24) then
+       Reply(128);
+   else if (map_var(MVAR_Said_8) == 25) then
+       Reply(129);
+   else if (map_var(MVAR_Said_8) == 26) then
+       Reply(130);
+   else if (map_var(MVAR_Said_8) == 27) then
+       Reply(131);
+   else if (map_var(MVAR_Said_8) == 28) then
+       Reply(132);
+   else if (map_var(MVAR_Said_8) == 29) then
+       Reply(133);
+   else if (map_var(MVAR_Said_8) == 30) then
+       Reply(134);
+   else if ((map_var(MVAR_Said_8) >= 31) and (map_var(MVAR_Said_8) < 53)) then
+       Reply(135);
+   else if (map_var(MVAR_Said_8) == 53) then
+       Reply(136);
+   else if (map_var(MVAR_Said_8) == 54) then
+       Reply(137);
+   else if (map_var(MVAR_Said_8) == 55) then
+       Reply(138);
+   else
+       Reply(139);
+
+   if (map_var(MVAR_Said_8) == 1) then
+       NOption(140,Node009,004);
+   else begin
+       NOption(141,Node008,004);
+       NOption(142,Node011,004);
+       NOption(143,Node999,004);
+   end
+end
+
+procedure Node009 begin
+   set_global_var(GVAR_IMPLANTS_KNOWN,1);
+
+   if (map_var(MVAR_Gave_XP) == 0) then begin
+       inc_map_var(MVAR_Gave_XP);
+       display_msg(mstr(200));
+       give_xp(EXP_SEARCH_MED_DATABASE);
+   end
+
+   Reply(144);
+
+   NOption(145,Node010,004);
+end
+
+procedure Node010 begin
+   Reply(146);
+
+   NOption(147,Node011,004);
+   NOption(148,Node999,004);
+end
+
+procedure Node011 begin
+   Reply(149);
+
+   NOption(150,Node005,004);
+   NOption(151,Node006,004);
+   NOption(152,Node004a,004);
+   NOption(153,Node999,004);
+end
+
+//xxxxxxxxxxxxxxxxxxxx

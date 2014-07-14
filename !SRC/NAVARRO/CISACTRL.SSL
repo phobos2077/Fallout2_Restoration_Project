@@ -1,0 +1,102 @@
+/*        Script from item templete*          /
+
+/*
+        Name: CISACTRL
+        Location: Navarro
+        Description: Controls the satellite. Used for allowing the verti to reach the Enclave
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#include "..\headers\define.h"
+#include "..\headers\navarro.h"
+
+#define NAME                    SCRIPT_CISACTRL
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node999;
+procedure Tamper_Proc;
+
+import variable air_guard_obj;
+
+procedure start begin
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+procedure use_p_proc begin
+   if (combat_is_initialized == false) then begin
+      if ( (obj_is_visible_flag(air_guard_obj)) ) then begin
+         if (not(skill_success(dude_obj,SKILL_SNEAK,-60))) then begin
+            call Tamper_Proc;
+         end else begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node001;
+            gSay_End;
+            end_dialogue;
+         end
+      end else begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node001;
+         gSay_End;
+         end_dialogue;
+      end
+   end
+end
+
+procedure Node001 begin
+   Reply(102);
+   if (map_var(MVAR_Verti_Satellite_Alignment) == 1) then
+      NOption(104,Node002,001);
+   else
+      NOption(103,Node999,001);
+end
+
+procedure Node002 begin
+   Reply(105);
+   NOption(106,Node003,001);
+end
+
+procedure Node003 begin
+   set_map_var(MVAR_Verti_Satellite_Alignment,2);
+   Reply(107);
+   NOption(108,Node999,001);
+end
+
+procedure Node999 begin
+
+end
+
+procedure Tamper_Proc begin
+   script_overrides;
+   add_timer_event(air_guard_obj,5,2);
+end

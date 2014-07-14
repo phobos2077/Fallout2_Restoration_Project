@@ -1,0 +1,260 @@
+/*
+	Script for critter tmplete
+*/
+
+
+
+
+/* Include Files */
+#include "..\headers\define.h"
+#include "..\headers\tribe01.H"
+
+#define NAME                    SCRIPT_TRIBEC5
+
+#include "..\headers\command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node998;
+procedure Node999;
+procedure Node991;
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Blew_Off                   (7)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+#define CHECK_GHOST_VISIBILITY            if (game_time_hour <= 400) then begin     \
+                                             if (global_var(GVAR_TRIBE_GHOST) >= 1) then  \
+                                                check_set_obj_visiblility(self_obj,false);             \
+                                          end else begin                                            \
+                                             check_set_obj_visiblility(self_obj,true);              \
+                                          end
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+import variable GHOST_obj;
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+  GHOST_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param==1) then begin
+      GHOST_obj := -1;
+      destroy_object(self_obj);
+   end else if (fixed_param == 2) then begin
+      if (self_visible and self_elevation == 0) then begin
+         floater(random(103, 105));
+      end
+      add_timer_event(self_obj,game_ticks(random(10,15)),2);
+   end
+end
+
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+       display_msg(mstr(100));
+   else
+       display_msg(mstr(101));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+procedure pickup_p_proc begin
+   script_overrides;
+end
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   add_timer_event(self_obj,game_ticks(random(10,15)),2);
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+   GHOST_obj := self_obj;
+   CHECK_GHOST_VISIBILITY
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   if (local_var(LVAR_Blew_Off) == 1) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node003;
+      gSay_End;
+      end_dialogue;
+   end
+   else if (global_var(GVAR_TRIBE_GHOST) == 1) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+      end_dialogue;
+   end
+   else if (global_var(GVAR_TRIBE_GHOST) == 2) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node006;
+      gSay_End;
+      end_dialogue;
+   end
+end
+
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+   debug_msg("LVAR_Herebefore == "+local_var(LVAR_Herebefore));
+   if (local_var(LVAR_Herebefore)==0) then
+   begin
+      set_local_var(LVAR_Herebefore,1);
+   end
+end
+
+
+procedure Node001
+begin
+	Reply(110);
+	
+	NLowOption(300,Node002);
+   NOption(111,Node002,004);
+end
+
+procedure Node002
+begin
+	Reply(120);
+	
+	NLowOption(310,Node004);
+	NOption(121,Node003,004);
+	BOption(122,Node991,004);
+end
+
+procedure Node003
+begin
+	Reply(130);
+
+	NLowOption(320,Node004);
+	NOption(131,Node004,004);
+end
+
+procedure Node004
+begin
+	Reply(140);
+	
+	NLowOption(330,Node005);
+	NOption(141,Node005,004);
+end
+
+procedure Node005
+begin
+   if not(dude_is_stupid) then
+      set_global_var(GVAR_TRIBE_GHOST,2);
+
+	Reply(150);
+
+	NOption(151,Node999,001);
+end
+
+procedure Node006
+begin
+	Reply(160);
+
+	NOption(161,Node999,004);
+end
+ 
+procedure critter_p_proc
+begin
+   if (global_var(GVAR_TRIBE_GHOST) == 3) then begin
+      add_timer_event(self_obj,15,1);
+   end
+end
+
+procedure Node991 begin
+   set_local_var(LVAR_Blew_Off,1);
+end

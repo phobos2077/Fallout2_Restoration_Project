@@ -1,0 +1,129 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: GstCav1
+        Location: Modoc
+        Description: Ghost cave 1
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\GstCav1.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_GSTCAV1
+
+#include "..\headers\command.h"
+#include "..\headers\Modoc.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure map_exit_p_proc;
+
+export variable ghost_farm_slag_obj;
+export variable slag_guard_obj;
+
+procedure start begin
+end
+#define check_obj_fall(x)     if ((x == dude_obj) or (x != 0)) then begin                       \
+                                 if (obj_is_visible_flag(x)) then begin                         \
+                                    the_roll := do_check(x, STAT_ag, -8);                       \
+                                    if (is_success(the_roll) == false) then begin               \
+                                       set_fall_comment;                                        \
+                                       critter_damage(x, random(1,6));                          \
+                                       reg_anim_clear(x);                                    \
+                                       reg_anim_begin();                                     \
+                                          if (random(0,1)) then begin                        \
+                                             reg_anim_animate(x,ANIM_fall_back_sf,-1);       \
+                                          end else begin                                     \
+                                             reg_anim_animate(x,ANIM_fall_front_sf,-1);      \
+                                          end                                                \
+                                          reg_anim_animate(self_obj, ANIM_back_to_standing, -1);   \
+                                       reg_anim_end();                                       \
+                                       the_roll := do_check(x, STAT_ag, -2);                    \
+                                       if (is_success(the_roll) == false) then begin            \
+                                          the_roll := random(1,4);                              \
+                                          if (the_roll == 1) then begin                         \
+                                             critter_injure(x, DAM_CRIP_LEG_LEFT);              \
+                                          end else if (the_roll == 2) then begin                \
+                                             critter_injure(x, DAM_CRIP_LEG_RIGHT);             \
+                                          end else if (the_roll == 3) then begin                \
+                                             critter_injure(x, DAM_CRIP_ARM_LEFT);              \
+                                          end else begin                                        \
+                                             critter_injure(x, DAM_CRIP_ARM_RIGHT);             \
+                                          end                                                   \
+                                       end else begin                                           \
+                                          critter_injure(x, DAM_KNOCKED_DOWN);                  \
+                                       end                                                      \
+                                    end else begin                                              \
+                                       debug_msg("" + obj_name(x) + " PASSED AGILITY CHECK");   \
+                                    end                                                         \
+                                 end                                                            \
+                              end
+
+procedure map_enter_p_proc begin
+variable the_roll;
+   set_entered_caves;
+   debug_msg("global_var(GVAR_LOAD_MAP_INDEX) == " + global_var(GVAR_LOAD_MAP_INDEX));
+   if (is_loading_game == false) then begin
+      if (came_from_cave_2) then begin
+         off_came_from_cave_2;
+         override_map_start_hex(11293,0,3);
+      end else if (global_var(GVAR_LOAD_MAP_INDEX) == 777) then begin
+         off_fall_comment;
+         if (said_fell == false) then begin
+            set_said_fell;
+            display_msg(modoc_mstr(1100));
+         end
+         override_map_start_hex(14057,0,4);
+         check_obj_fall(dude_obj)
+         check_obj_fall(Vic_Ptr)
+         check_obj_fall(Myron_Ptr)
+         check_obj_fall(Marcus_Ptr)
+         check_obj_fall(MacRae_Ptr)
+         check_obj_fall(Sulik_Ptr)
+         check_obj_fall(Lenny_Ptr)
+         check_obj_fall(Cyberdog_Ptr)
+         check_obj_fall(Doc_Ptr)
+         check_obj_fall(Goris_Ptr)
+         check_obj_fall(Davin_Ptr)
+         check_obj_fall(Miria_Ptr)
+         check_obj_fall(Robobrain_Ptr)
+         check_obj_fall(Laddie_Ptr)
+         check_obj_fall(Bess_Ptr)
+         check_obj_fall(Jonny_Ptr)
+      end else if (surrendered_to_slag) then begin
+         override_map_start_hex(25702,0,2);
+      end
+   end
+   set_map_exit_tiles(0,6893);
+   Cavern_Lighting;
+end
+
+procedure map_exit_p_proc begin
+   set_global_var(GVAR_LOAD_MAP_INDEX, 0);
+end
+
+procedure map_update_p_proc begin
+   debug_msg("cur_map_index == "+cur_map_index);
+   Cavern_Lighting;
+end

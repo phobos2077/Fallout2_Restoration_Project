@@ -1,0 +1,55 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: CSAlarm.ssl
+        Location: Navarro Base
+        Description: The alarm script to attach to lights in Navarro
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+//#include "..\headers\depolva.h"
+
+//#define NAME                    SCRIPT_WSEMIT1A
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure map_update_p_proc;
+
+#define LVAR_Once                       (0)
+
+procedure start begin
+end
+
+procedure map_update_p_proc begin
+   variable Item;
+
+   if ((global_var(GVAR_NAVARRO_BASE_ALERT) > 0) and (local_var(LVAR_Once) == 0)) then begin
+       set_local_var(LVAR_Once,1);
+       if (obj_pid(self_obj) == PID_NS_LIGHT) then begin
+           item:=create_object(PID_NS_FLASHING_LIGHT,tile_num(self_obj),elevation(self_obj));
+       end
+       else begin
+           item:=create_object(PID_EW_FLASHING_LIGHT,tile_num(self_obj),elevation(self_obj));
+       end
+   end
+end

@@ -1,0 +1,160 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Mr. Bishop's Safe
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created:
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#include "..\headers\define.h"
+#define NAME                    SCRIPT_NIOWRISF
+#include "..\headers\command.h"
+#include "..\headers\NewReno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure pickup_p_proc;
+procedure use_p_proc;
+procedure damage_p_proc;
+procedure map_exit_p_proc;
+procedure map_update_p_proc;
+procedure use_obj_on_p_proc;
+
+#define LVAR_Flags                           (0)
+
+#define found_compartment_bit                bit_10
+
+#define found_compartment                    lvar_bit(LVAR_Flags, found_compartment_bit)
+#define set_found_compartment                if (found_compartment == false) then begin         \
+                                                give_xp(EXP_NEW_RENO_MRS_B_SAFE_COMPARTMENT);   \
+                                                display_mstr(400);                              \
+                                             end                                                \
+                                             set_lvar_bit_on(LVAR_Flags, found_compartment_bit)
+
+#define open_chance                          ((5 * (get_critter_stat(source_obj,STAT_iq) >= 7)) + (5 * ((has_skill(source_obj, SKILL_LOCKPICK) >= 50) or (is_success(roll_vs_skill(dude_obj,SKILL_LOCKPICK,0))))) + (5 * ((get_critter_stat(source_obj,STAT_lu) == 9) or (get_critter_stat(source_obj,STAT_pe) == 9) or (is_success(do_check(source_obj, STAT_lu, 0))))) + (25 * ((get_critter_stat(source_obj,STAT_lu) == 10) or (get_critter_stat(source_obj,STAT_pe) == 10))))
+
+variable prev_node;
+import variable mrs_bishop_safe_obj;
+import variable bishop_roof_guard_obj;
+import variable help_me_obj;
+
+procedure start begin
+   mrs_bishop_safe_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+end
+
+procedure map_enter_p_proc begin
+   mrs_bishop_safe_obj := self_obj;
+   if (is_loading_game == false) then begin
+      if (mrs_bishop_dead == false) then begin
+         if (obj_is_open(self_obj)) then begin
+            obj_close(self_obj);
+         end
+         if (obj_is_locked(self_obj) == false) then begin
+            obj_lock(self_obj);
+         end
+      end
+   end
+end
+
+procedure map_exit_p_proc begin
+end
+
+
+procedure map_update_p_proc begin
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + (obj_is_open(self_obj)));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(100 + (obj_is_open(self_obj)));
+end
+
+procedure damage_p_proc begin
+variable set_off := false;
+   debug_msg("safe damage_p_proc");
+   if (target_obj != 0) then begin
+      if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
+         set_off := true;
+      end
+   end
+   if ((source_obj != 0) and (set_off == false)) then begin
+      if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
+         set_off := true;
+      end
+   end
+   if (set_off) then begin
+      obj_unlock(self_obj);
+      call_bishop_safe_guard
+   end
+end
+
+procedure pickup_p_proc begin
+   if (compartment) then begin
+      set_found_compartment;
+   end
+end
+
+procedure use_p_proc begin
+end
+
+procedure use_obj_on_p_proc begin
+end
+
+procedure use_skill_on_p_proc begin
+variable the_roll;
+   if (obj_is_locked(self_obj)) then begin
+      if (action_being_used == SKILL_LOCKPICK) then begin
+         script_overrides;
+         if (know_mrs_bishop_combination) then begin
+            float_msg(dude_obj, mrs_bishop_combination, FLOAT_COLOR_NORMAL);
+            display_mstr(150);
+            obj_unlock(self_obj);
+         end else begin
+            gfade_out(ONE_GAME_SECOND);
+               game_time_advance(15 * ONE_GAME_MINUTE);
+               the_roll := roll_vs_skill(dude_obj, SKILL_LOCKPICK, 0);
+               /*if (is_success(the_roll)) then begin
+               end else if ((random(1,100) <= dude_luck) and (is_critical(the_roll) == false)) then begin
+                  display_mstr(160);
+                  obj_unlock(self_obj);
+               end else begin
+                  display_mstr(170 + (has_skill(source_obj,SKILL_LOCKPICK) < 50));
+               end*/
+               //edit by killap
+               if (is_success(the_roll)) then begin
+                     display_mstr(150);
+                     obj_unlock(self_obj);
+               end else if ((random(1,100) <= dude_luck) and (is_critical(the_roll) == false)) then begin
+                     display_mstr(160);
+                     obj_unlock(self_obj);
+               end else begin
+                     display_mstr(170 + (has_skill(source_obj,SKILL_LOCKPICK) < 50));
+               end
+               //end edit by killap
+            gfade_in(ONE_GAME_SECOND);
+         end
+      end else if (action_being_used == SKILL_STEAL) then begin
+         script_overrides;
+      end
+   end
+end

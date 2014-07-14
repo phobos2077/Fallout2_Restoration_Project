@@ -1,0 +1,75 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\arvillag.h"
+
+#define NAME                    SCRIPT_ASWELL
+
+#include "..\headers\command.h"
+
+procedure start;
+procedure use_skill_on_p_proc;
+procedure description_p_proc;
+procedure look_at_p_proc;
+
+#define LVAR_Gave_Xp            (0)
+
+procedure start begin
+end
+
+procedure description_p_proc begin
+   script_overrides;
+debug_msg("in description");
+   if (map_var(MVAR_Fixed_Well) == 0) then begin
+       display_msg(mstr(100));
+   end
+   else begin
+       display_msg(mstr(101));
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+debug_msg("in look");
+   if (map_var(MVAR_Fixed_Well) == 0) then begin
+       display_msg(mstr(100));
+   end
+   else begin
+       display_msg(mstr(101));
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   if ((action_being_used == SKILL_REPAIR) and (local_var(LVAR_Gave_Xp) == 0)) then begin
+       script_overrides;
+       display_msg(message_str(SCRIPT_GENERIC,1005));
+       give_xp(EXP_FIX_WELL);
+       set_map_var(MVAR_Fixed_Well,1);
+       set_local_var(LVAR_Gave_Xp,1);
+   end
+end

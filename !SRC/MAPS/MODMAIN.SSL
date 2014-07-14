@@ -1,0 +1,160 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: modMain
+        Location: Modoc
+        Description: Modoc main area
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#include "..\headers\define.h"
+#include "..\headers\ModMain.h"
+#include "..\headers\updatmap.h"
+
+#define NAME                    SCRIPT_MODMAIN
+
+#include "..\headers\command.h"
+#include "..\headers\Modoc.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure map_exit_p_proc;
+procedure clear_items_on_map;
+
+export variable modoc_grisham_box_obj;
+export variable modoc_jo_box_obj;
+export variable modoc_balthas_box_obj;
+export variable generic_temp_box;
+export variable modoc_jo_obj;
+export variable brahmin_1_object;
+export variable modoc_jerky_box_obj;
+export variable jonny_obj;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+variable brah_chunk_count;
+variable temp_chunk;
+variable temp_tile;
+variable slaughter_tile;
+variable laddie; //added by killap
+   debug_msg("start: map_enter_p_proc for MODOC");
+   debug_msg("global_var(GVAR_LOAD_MAP_INDEX) == " + global_var(GVAR_LOAD_MAP_INDEX));
+   
+   
+   //added by killap - prevent car from disappearing if the car runs out of gas while on the town circle
+   if ((metarule(30, 0) == 21) and (cur_map_index != MAP_CAR_DESERT) and (car_out_of_fuel)) then begin
+      set_global_var(GVAR_CAR_PLACED_TILE, 0);
+      Create_Car(CAR_MODOC_HEX,CAR_MODOC_ELEV)
+      if (tile_contains_pid_obj(CAR_MODOC_HEX, CAR_MODOC_ELEV, PID_DRIVABLE_CAR) != 0) then begin
+         Create_Trunk(CAR_MODOC_HEX,CAR_MODOC_ELEV)
+      end 
+   end else 
+      Check_Create_Car(CAR_MODOC_HEX, CAR_MODOC_ELEV)
+   //end added
+   
+   //Check_Create_Car(CAR_MODOC_HEX, CAR_MODOC_ELEV)
+   
+   set_global_var(GVAR_LOAD_MAP_INDEX, 0);
+   if (jonny_arriving_at_home) then begin
+      override_map_start_hex(15121,0,5);
+      //added by killap
+      if ( (laddie_dead == false) and (not(laddie_none)) ) then
+         laddie:=create_object_sid(PID_LADDIE,13519,0,SCRIPT_MCLADDIE);
+      //end
+   end else begin
+      override_map_start_hex(23533,0,5);
+   end
+   set_map_exit_tiles(27950,9061);
+   if (get_ending_state == ending_state_none) then begin
+      set_modoc_ending_default;
+   end
+   if (map_first_run) then begin
+       display_msg(mstr(100));
+   end
+   if (is_loading_game==false) then begin
+      if (attacking_slags) then begin
+         set_townspeople_kill_all_slags;
+      end
+      if (freed_bess) then begin
+         set_freed_bess_off;
+      end
+
+      // brahmin chunks
+      brah_chunk_count := random(15,20);
+      while (brah_chunk_count > 0) do begin
+         brah_chunk_count -= 1;
+         temp_chunk := create_object_sid(random(PID_BRAHMIN_CHUNK_1, PID_BRAHMIN_CHUNK_6), 0, 0, SCRIPT_MIBRAMEA);
+         if (random(1,2) == 1) then begin
+            slaughter_tile := slaughter_1_tile;
+         end else begin
+            slaughter_tile := slaughter_2_tile;
+         end
+         temp_tile := tile_num_in_direction(slaughter_tile, random(0,5), random(1,8));
+         while (tile_in_slaughter_house(temp_tile) == false) do begin
+            temp_tile := tile_num_in_direction(slaughter_tile, random(0,5), random(1,8));
+         end
+         move_to(temp_chunk, temp_tile, 0);
+      end
+      brah_chunk_count := random(15,20);
+      while (brah_chunk_count > 0) do begin
+         brah_chunk_count -= 1;
+         temp_chunk := create_object_sid(random(PID_BLOOD_1, PID_BLOOD_9), 0, 0, SCRIPT_MIBRAMEA);
+         if (random(1,2) == 1) then begin
+            slaughter_tile := slaughter_1_tile;
+         end else begin
+            slaughter_tile := slaughter_2_tile;
+         end
+         temp_tile := tile_num_in_direction(slaughter_tile, random(0,5), random(1,8));
+         while (tile_in_slaughter_house(temp_tile) == false) do begin
+            temp_tile := tile_num_in_direction(slaughter_tile, random(0,5), random(1,8));
+         end
+         move_to(temp_chunk, temp_tile, 0);
+      end
+   end
+   Lighting;
+   debug_msg("end: map_enter_p_proc for MODOC");
+end
+
+procedure map_exit_p_proc begin
+   check_set_clear_props
+   off_jonny_arriving_at_home;
+   
+   call clear_items_on_map;
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+end
+
+procedure clear_items_on_map begin
+variable i := 1;   //just a counter
+   
+   while (i < 600) do begin  //Items pids start from 1 to 5xx  
+      if (tile_contains_obj_pid(1,0,i)) then
+         destroy_object(tile_contains_pid_obj(1,0,i));
+      else
+         i := (i + 1);
+   end
+   
+end
