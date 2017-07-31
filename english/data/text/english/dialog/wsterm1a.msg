@@ -47,8 +47,8 @@
                                    User access to this terminal is terminated
                       End Transmission}
 {136}{}{Exit}
-{137}{}{Your ineptness has caused you to set off the alarm system.}
-{138}{}{It's no use, the program is just too complicated for you to understand.}
+{137}{}{It's no use. The program is just too complicated for you to understand.}
+{138}{}{Your ineptness has caused you to set off the alarm system.}
 {139}{}{Exit}
 
 {300}{}{The computer seems to have some sort of defense mechanism.}

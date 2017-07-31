@@ -8,6 +8,7 @@
 {201}{}{Your money or your life.}
 {202}{}{This is a stick up.}
 {203}{}{Give me all your valuables.}
+{204}{}{Don't move! This is a holdup.}
 {205}{}{Put yer hands up.}
 {206}{}{Stick 'em up.}
 {207}{}{Don't panic; this will be over in a minute.}

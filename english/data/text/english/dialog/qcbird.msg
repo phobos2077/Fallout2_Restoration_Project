@@ -43,11 +43,11 @@
 {142}{}{Well you can't be too careful, after all, people that are really very weird can get into sensitive positions and have a tremendous impact on history.}
 {143}{}{Yes, I can see that.}
 {144}{}{What impact are you planning to have on history?}
-{145}{}{Yes, I like that direction. I have made good judgements in the past. I have made good judgements in the future. So, by all means, let's go in that direction.}
+{145}{}{Yes, I like that direction. I have made good judgments in the past. I have made good judgments in the future. So, by all means, let's go in that direction.}
 {146}{}{Uh, yes.}
 {147}{}{I believe we are on an irreversible trend toward more freedom and democracy - but that could change.}
 {148}{}{The polluted environment of the Wastes could use a little freedom for a change.}
-{149}{}{I can't take it any more. You've just got to be killed.}
+{149}{}{I can't take it anymore. You've just got to be killed.}
 {150}{}{Don't be silly. It isn't pollution that's harming the environment. It's the impurities in our air and water that are doing it.}
 {151}{}{I really have to be going.}
 {152}{}{You wouldn't be so flippant about it if you were on the mainland.}
@@ -85,13 +85,13 @@
 {184}{}{T-O-M-A-T-O-E}
 {185}{}{T-O-M-A-T-O}
 {186}{}{Where did my two gallons of strawberry ice-cream go?}
-{187}{}{The Caine is my ship. Mine, do you here me?}
+{187}{}{The Caine is my ship. Mine, do you hear me?}
 {188}{}{You're all against me, aren't you? Aren't you?}
 {189}{}{Fast as fast can be, they won't catch me.}
 {190}{}{Pretty, pretty.}
 {191}{}{Shiny.}
 {192}{}{No, mommy, I didn't do it. Don't hit me again!}
-{193}{}{Mother! Where are you mother?}
+{193}{}{Mother! Where are you Mother?}
 {194}{}{I don't want to be the patient this time.}
 {195}{}{No, not the needles, anything but the needles.}
 {196}{}{No, no, uh-uh, no. Nooooo!}

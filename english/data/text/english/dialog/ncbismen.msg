@@ -196,7 +196,7 @@
 {422}{}{I thought about becoming a slaver, but I hate all the traveling.}
 {423}{}{You looking for the stables? That's where they keep most of the slaves.}
 {424}{}{Being in the Bishop Family's a good gig.}
-{425}{}{You bring a new crop of slaves in, or are you caravaning some out?}
+{425}{}{You bring a new crop of slaves in, or are you caravanning some out?}
 {426}{}{You guys need to find some new stock… that last batch of slaves was piss-poor.}
 {427}{}{You guys catch any more tribal slaves?}
 {428}{}{What's the going rate for slaves nowadays?}
@@ -208,7 +208,7 @@
 
 # 31. CLICK DIALOGUE: MALE, NO REP (Bad Reaction)
 {445}{}{Piss off, tribal.}
-{446}{}{I ain't got no chems for you, tribal.}
+{446}{}{I ain't got no drugs for you, tribal.}
 {447}{}{Go smoke your peace pipe, tribal.}
 {448}{}{I DON'T feel like chatting. Beat it.}
 {449}{}{Scram, tribal.}
@@ -223,7 +223,7 @@
 {462}{}{No, I don't know where that is, now piss off! ::Stupid tribals.::}
 {463}{}{Piss off, tribal.}
 {464}{}{Bishops don't talk to tribal trash, we got better things to do.}
-{465}{}{I ain't got no chems for you, tribal.}
+{465}{}{I ain't got no drugs for you, tribal.}
 {466}{}{Go smoke your peace pipe, tribal.}
 {467}{}{I DON'T feel like chatting. Beat it.}
 {468}{}{Scram, tribal.}

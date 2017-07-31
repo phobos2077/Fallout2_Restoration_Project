@@ -1,4 +1,4 @@
-{100}{}{You see a young man wearing the badge of the NCR police}
+{100}{}{You see a young man wearing the badge of the NCR police.}
 {101}{}{It's Karl, the town deputy.}
 {102}{}{You see a young man barely out of his teens. He looks eager to please.}
 {103}{}{Welcome, stranger. I'm Deputy Karl. What can I do for you?}
@@ -12,7 +12,7 @@
 {111}{}{Where can I find Roger Westin?}
 {112}{}{Okay, had a little too much party did you? Look, there's an unlocked cell back there. Why don't you go in back and sleep it off?}
 {113}{}{Look, take my advice - get your friends to take you home so you can sleep it off. Drunk in public's a crime here.}
-{114}{}{This is NCR, capitol of the New California Republic. Population 3000 and growing. No slavery, no gambling, no chems. President is Mrs. Tandi, my boss is Sheriff Dumont. That answer your questions?}
+{114}{}{This is NCR, capitol of the New California Republic. Population 3000 and growing. No slavery, no gambling, no drugs. President is Mrs. Tandi, my boss is Sheriff Dumont. That answer your questions?}
 {115}{}{Well, I've got some other questions.}
 {116}{}{Yeah, that's all.}
 {117}{}{So did I when I was a kid. Let me know if you find it!}
@@ -37,11 +37,11 @@
 {136}{}{Can I see him now?}
 {137}{}{Hang the bastard, I hope. Him and his buddies killed two good men. Won't be any pain for me to see him dead.}
 {138}{}{Can I see him now?}
-{139}{}{She and Jack used to be married, you know. Had themselves a really messy divorce. I wouldn't believe spit from her, not about Jack.
+{139}{}{She and Jack used to be married, you know. Had themselves a really messy divorce. I wouldn't believe spit from her, not about Jack. 
 Do yourself a favor, stay out of it. Jack's a good man, it's just this stuff's got him a little high-strung.}
 {140}{}{Okay, let's move on to other topics.}
 {141}{}{Well, thank you kindly for that advice, deputy.}
-{142}{}{His ex, that's all. If he's not here, he might be over at the powerplant. He's been moonlighting over there for Dorothy.}
+{142}{}{His ex, that's all. If he's not here, he might be over at the power plant. He's been moonlighting over there for Dorothy.}
 {143}{}{Well, I've got some other questions.}
 {144}{}{Thanks.}
 {145}{}{Guess I'm pretty obvious. Lot of folks look up to him because he's a councilman, but not me. He thinks he's a big man, like the law don't always apply to him. I'd like to take him down a notch or two someday.}
@@ -52,3 +52,5 @@ Do yourself a favor, stay out of it. Jack's a good man, it's just this stuff's g
 {150}{}{Well, a couple of years ago he had a stroke and now Doc Jubilee's got him on some kind of medicine. What's it to you, anyway?}
 {151}{}{Nothing, just talk. I'll quit wasting your time.}
 {152}{}{. I'm in need of some honest work.}
+{153}{}{Tandi say you got bad man here.}
+{154}{}{Me want to see bad man.}

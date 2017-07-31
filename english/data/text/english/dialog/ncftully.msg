@@ -232,7 +232,7 @@
 {604}{}{Look, maybe I'll come back when you're sober.}
 
 # 32. NO/YES/KEEP YOUR VOICE DOWN (31)
-{610}{}{(Ignoes you.) See, a few months back, oul' Bishop sends a caravan to Vault City, SUGGESTING a marriage o' convenience 'tween
+{610}{}{(Ignores you.) See, a few months back, oul' Bishop sends a caravan to Vault City, SUGGESTING a marriage o' convenience 'tween
  Vault City n' New Reno.}
 {611}{}{Did they reach an agreement?}
 {612}{}{I trust they didn't reach an agreement?}
@@ -391,7 +391,7 @@
 
 # 55. WHO'S IN CHARGE? (54)
 {840}{}{Louie…LOUIS…Salvatore runz th' show. (Drains bottle, coughs slightly.) Cripple. Needz an oxygen tank ta keep breathin'... his
- lungs are messed up. Stays in th' top floor of his establisshment, never comes out.}
+ lungs are messed up. Stays in th' top floor of his establishment, never comes out.}
 {841}{}{Interesting. Can I ask you some other questions, Father?}
 {842}{}{Hmmmm. Tank of oxygen, huh? Interesting. Well, thanks for talking with me, Father.}
 

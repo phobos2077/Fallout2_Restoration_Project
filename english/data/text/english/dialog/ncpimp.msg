@@ -147,7 +147,7 @@
 {428}{}{Yo, Myron! You need a friend for tonight, Myron? I get you a sweeeet one.}
 {429}{}{These ain't slaves, these are professionals, hear what I'm saying?}
 {430}{}{Myron! Boy, you still owe me for last week!}
-{431}{}{Can she suck a garden hose through a golf ball? Hell, yes.}
+{431}{}{Can she suck a golf ball through a garden hose? Hell, yes.}
 {432}{}{I got women that make you a real man, only cost a few chips.}
 {433}{}{I got the mother lode in my stable.}
 {434}{}{What you doin' outta the stables, Myron? Lookin' for some talent?}
@@ -188,7 +188,7 @@
 {479}{}{You need a friend for tonight, slaver? I get you a sweeeet one.}
 {480}{}{These are better than slaves. These are professionals, hear what I'm saying?}
 {481}{}{You got any stock, slaver? I need some new blood.}
-{482}{}{Can she suck a garden hose through a golf ball? Hell, yes.}
+{482}{}{Can she suck a golf ball through a garden hose? Hell, yes.}
 {483}{}{I got women that make you a real man, only cost a few chips.}
 {484}{}{I got the mother lode in my stable.}
 {485}{}{Slaver, if any o' my women go missing, I'll expect you to be paying up, understand?}
@@ -235,7 +235,7 @@
 {530}{}{You need a friend for tonight, brother? I get you a sweeeet one.}
 {531}{}{These ain't slaves, these are professionals, hear what I'm saying?}
 {532}{}{The finest ladies in all o' New Reno. Yours for the asking...if you got the chips.}
-{533}{}{Can she suck a garden hose through a golf ball? Hell, yes.}
+{533}{}{Can she suck a golf ball through a garden hose? Hell, yes.}
 {534}{}{I got women that make you a real man, only cost a few chips.}
 {535}{}{I got the mother lode in my stable.}
 {536}{}{Let me set you up, man. I was pimp of the year two years running.}

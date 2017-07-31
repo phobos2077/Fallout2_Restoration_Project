@@ -160,7 +160,7 @@
 {14400}{}{Tandi}
 {14500}{}{Merc}
 {14600}{}{Ratch}
-{14700}{}{Skeeter}
+{14700}{}{Doofus}
 {14800}{}{Mikey}
 {14900}{}{NCR Bartender}
 {15000}{}{Shop Owner}
@@ -305,8 +305,8 @@
 {28800}{}{Pres. Bodyguard}
 {28900}{}{Deathclaw Egg}
 {29000}{}{Metzger}
-{29100}{}{Enclave Guard}
-{29200}{}{Enclave Guard}
+{29100}{}{Person}
+{29200}{}{Person in strange type of armor}
 {29300}{}{President}
 {29400}{}{Vice President}
 {29500}{}{Technicion}
@@ -499,4 +499,4 @@
 {48100}{}{Special Gecko Critter}
 {48200}{}{Grim Reaper}
 {48300}{}{Frank Horrigan}
-{48301}{}{The President's Body Guard}
+{48301}{}{The President's Body Guard.}

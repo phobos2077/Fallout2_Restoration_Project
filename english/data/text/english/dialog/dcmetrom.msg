@@ -3,7 +3,7 @@
 {101}{}{You see a rather large slaver.}
 
 {150}{}{There's a slaver who seems to enjoy his work.}
-{151}{}{This slaver seems to be very strong but not to bright.}
+{151}{}{This slaver seems to be very strong but not too bright.}
 
 # 1. Metzger's Bedroom Guard (2nd Time = Hostile)
 {200}{}{Get the hell away from the door.}

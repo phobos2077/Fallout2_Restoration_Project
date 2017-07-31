@@ -1,5 +1,5 @@
 {100}{}{A computer terminal.}
-{101}{}{The screen saver is active}
+{101}{}{The screen saver is active.}
 {103}{}{Skynet Security Systems
                                   Intruder Level 2
                                                    Activating Counter Measures Level 2
@@ -18,24 +18,31 @@
 {109}{}{Attempt to turn off alarm.}
 {110}{}{Exit.}
 {111}{}{Arg! [You slam you fist into the keyboard in frustration.]}
-{113}{}{Skynet Security Systems
-                                         Warning! Intruder Detected Level 1
-                                Retina Scanner Activated
-                                       Scanning
-                                                             Searching Database}
-{300}{}{ - ID Confirmed}
-{301}{}{Last Accessed: }
-{302}{}{Releasing Elevator Lock}
-
+{113}{}{Skynet Security Systems}
+{114}{}{Retina Scanner Activated
+                                           Scanning...
+                                                              Searching Database}
+{300}{}{ - ID Confirmed: }
+{301}{}{
+            Terminal Last Accessed: }
 {303}{}{Corporal Dixon}
 {304}{}{General Clifton}
-{305}{}{December 5, 2120}
+{305}{}{August 5, 2077}
 {306}{}{ days ago.}
 
-{114}{}{Skynet Security Systems
+{307}{}{
                                              Warning! Intruder Detected Level }
-{307}{}{Skynet Security Systems
-                                     Warning! Intruder Detected Levels: }
+{308}{}{
+                                             Warning! Intruder Detected Levels: }
+#no security breach - spaces to align text
+{310}{}{
+                                             }
+#security breach, only one level - spaces to align text
+{309}{}{
+                               }
+#security breach, multiple levels - spaces to align text
+{311}{}{
+                       }
 {115}{}{Activate Alarm System Level 2}
 {116}{}{Run self-diagnostic program.}
 {117}{}{Exit}

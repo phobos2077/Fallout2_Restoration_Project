@@ -13,3 +13,6 @@
 {112}{}{The door creaks and breaks under the strain.}
 {113}{}{The door is already unlocked.}
 {114}{}{The door feels no challenge from you.}
+
+{120}{}{Herro, Ra Ra?}
+{121}{}{Hehe, door talkie. Hi!}

@@ -21,7 +21,7 @@
 {117}{}{::hack into computer::}
 {118}{}{::leave::}
 {119}{}{Intruder alert activated. Shutting down. Have a nice day.}
-{120}{}{-done-}
+{120}{}{[DONE]}
 {121}{}{Diagnostic functions?}
 {122}{}{Network scan.}
 {123}{}{Format drive.}
@@ -42,7 +42,7 @@
 {138}{}{Tanker vagrants 0% likely to clear creature infestation without outside assistance. Processing desirability of providing assistance.}
 {139}{}{Input: Poseidon Oil tanker unfit for travel. Require more input.}
 {140}{}{Not processing. Require input.}
-{141}{}{-more-}
+{141}{}{[MORE]}
 {142}{}{Back.}
 {143}{}{Biology station: Active}
 {144}{}{Biology station: Inactive}
@@ -69,8 +69,8 @@
 {165}{}{Yes.}
 {166}{}{No.}
 {167}{}{Formatting... formatting... formatting complete. Reboot requires full install. Shutting down. Shutting... down... complete...}
-{168}{}{-done-}
-{169}{}{Data to find: - Botany program  - Genetic program - Xeno program}
+{168}{}{[DONE]}
+{169}{}{Data to find: - Botany program - Genetic program - Xeno program}
 {170}{}{Botany program.}
 {171}{}{Genetic program.}
 {172}{}{Xeno program.}
@@ -99,9 +99,9 @@
 {195}{}{(Once you have waded past the symbology and technical discussion, you discover that the Shi are working on a new kind of polymeric combat armor that is resistant to both flame and penetration. It is still years from completion. You also see mention of new weaponry and construction capabilities. Apparently the Shi have some plans for the future.)}
 {196}{}{Back.}
 {197}{}{Fuel directed accordingly. Storage tanks = Empty. Closing program.}
-{198}{}{-done-}
+{198}{}{[DONE]}
 {199}{}{Fuel directed accordingly. Storage tanks = Empty. Closing program.}
-{200}{}{-done-}
+{200}{}{[DONE]}
 {201}{}{Physics database: Exploration - Theory}
 {202}{}{Exploration}
 {203}{}{Theory}
@@ -111,7 +111,7 @@
 {207}{}{Back.}
 {208}{}{"We are still preparing a working model of an aerial vehicle. None of the designs we have created have proven to be safe or aerodynamic. Perhaps if we had access to the plans of the ancients..." -Dr. Wong}
 {209}{}{Back.}
-{210}{}{(After wading through the introduction and the mathematics, you discover that the Shi are learning to develop nuclear power again, rebuilding the space travel theories of the ancients - and they mock the Hubologists while doing so - and harnessing the energy of the sun, wind, and sea.  At least, that's what the notes read like.)}
+{210}{}{(After wading through the introduction and the mathematics, you discover that the Shi are learning to develop nuclear power again, rebuilding the space travel theories of the ancients - and they mock the Hubologists while doing so - and harnessing the energy of the sun, wind, and sea. At least, that's what the notes read like.)}
 {211}{}{Back.}
 {212}{}{Station activated.}
 {213}{}{Back.}

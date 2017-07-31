@@ -18,7 +18,7 @@
 {117}{}{Oh, hi.}
 {118}{}{Oh, you again.}
 {119}{}{Tell me about your cat.}
-{120}{}{Why the glum flace?}
+{120}{}{Why the glum face?}
 {121}{}{You come here often?}
 {122}{}{I'll have to catch you later. Bye.}
 {123}{}{Okah?}
@@ -39,7 +39,7 @@
 {141}{}{Sorry, I can't spare $10 right now.}
 {142}{}{Obviously.}
 {143}{}{Do you think you're funny or something? Get a better line.}
-{144}{}{So why the glum flace?}
+{144}{}{So why the glum face?}
 {145}{}{Whatever, bye.}
 {146}{}{I hear there used to be ones that were as big as you and me. They used to eat animals as big as a brahmin. Now that's scary stuff.}
 {147}{}{That's nothing.}

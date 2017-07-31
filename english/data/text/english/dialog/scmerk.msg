@@ -4,7 +4,7 @@
 {103}{}{Hey, I've seen you in the movies! Come to show me some action, have you?}
 {104}{}{Whaddya mean, disturbing my peace like this? Get outta here.}
 {105}{}{Excuse me, I got business to conduct.}
-{106}{}{You wanna talk business, see me at the Rawhide . Otherwise leave me alone.}
+{106}{}{You wanna talk business, see me at the Rawhide. Otherwise leave me alone.}
 {107}{}{I've seen you on the silver screen, ain't I? You got impressive, uh, credentials.}
 {108}{}{You got that certain look in your eyes. Stop by the Rawhide - I could always use somebody like you.}
 {109}{}{Shit, what's that smell? Something just walked into the room.}
@@ -42,9 +42,9 @@
 {141}{}{How about I just shoot Lenny, there? He deserves it.}
 {142}{}{Prove like how?}
 {143}{}{You know anybody who'd like some jet, maybe?}
-{144}{}{Listen, I'm} //258
+{144}{}{Listen, I'm} #258
 {145}{}{Right. Like I got to prove myself to you. Forget you, slugwort.}
-{146}{}{It was that goddamn Doofus, wasn't it? That little junkie talks to much for his own good. Tell you what - you cap him for me -- call it a favor -- and then we'll talk.}
+{146}{}{It was that goddamn Doofus, wasn't it? That little junkie talks too much for his own good. Tell you what - you cap him for me -- call it a favor -- and then we'll talk.}
 {147}{}{Deal.}
 {148}{}{Whoa - I'm not that cold-blooded!}
 {149}{}{And they're gonna say you were a dumb ass. Boys-}
@@ -53,7 +53,7 @@
 {152}{}{Cute. You gonna answer my question or not?}
 {153}{}{Oh, it's just something I heard. Just wanted to see what you'd say.}
 {154}{}{Supposing I do know something. What of it?}
-{155}{}{Now if a man had some things missing, do you suppose he could buy those things back?}
+{155}{}{Now if a person had some things missing, do you suppose such a person could buy those things back?}
 {156}{}{I want my shit back, fat man!}
 {157}{}{How about I talk to the law?}
 {158}{}{I'm tired of this. Boys - take care of our guest.}
@@ -66,7 +66,7 @@
 {165}{}{Jet? Are you proposing something...?}
 {166}{}{My friend here knows how to make it. Interested?}
 {167}{}{Something illegal? No, I wouldn't do that.}
-{168}{}{Intriguing. I'll give you $1000 for his services - permanently.}
+{168}{}{Intriguing. I'll give you $1000 for his services.}
 {169}{}{Deal.}
 {170}{}{No, I can't do that to a friend.}
 {171}{}{Looks like we can do business, friend. Here's the deal - there's a loopy scientist in town - Dr. Henry. He's got some papers I'd like. I'll pay $1000 for them. Oh, and I don't want no harm to come to Dr Henry. He's useful alive. Interested? }
@@ -89,7 +89,7 @@
 {188}{}{Yeah, sure.}
 {189}{}{Never mind.}
 {190}{}{Such as there's a damn Hubologist in town who has irritated me. Once this itch is scratched, come back and talk to me.}
-{191}{}{Consider it done. I got just the backscratcher for him but... what's an Hubologist and where do I find him?}
+{191}{}{Consider it done. I got just the backscratcher for him but... what's a Hubologist and where do I find him?}
 {192}{}{How dare you speak against the true belief!}
 {193}{}{Sorry, I don't get involved in religious wars.}
 {194}{}{Well, I am a learned man. What's your question?}
@@ -131,9 +131,7 @@
 {230}{}{I'm on it, Merk.}
 {231}{}{I don't need a job. Thanks anyway.}
 {232}{}{Excellent. Come back when you're done.}
-{233}{}{That is very troubling.
-
-Boys, kill him and recover this evidvence.}
+{233}{}{That is very troubling. Boys, kill him and recover this evidence.}
 {234}{}{Your feeble attempts to intimidate me are almost amusing, but now I suggest you leave before I tire of this game.}
 {235}{}{Ah, I've heard the news. You still interested in a job?}
 {236}{}{Yeah, I'm tired of freebies. I could use the work.}
@@ -167,11 +165,11 @@ Boys, kill him and recover this evidvence.}
 {263}{}{I'm not talking to you until the job's done! I need those papers from Dr. Henry's place, pronto.}
 {264}{}{No, but I need some information.}
 {265}{}{I know Lenny's death ain't no accident, you bastard.}
-{266}{}{Hey that map was a fake.}
-{267}{}{Well what about the money I gave you.}
+{266}{}{Hey, that map was a fake.}
+{267}{}{Well, what about the money I gave you.}
 {268}{}{Like I said sorry it didn't pan out for you.}
 {269}{}{Well how bout you eat this bullet for my trouble.}
 {270}{}{Hmmphf.}
 
-{271}{}{You gain }
-{272}{}{exp for Retriving Dr. Henry's papers.}
+{271}{}{You have "taken care of" the Hubologist for Merk.}
+{272}{}{You retrieved Dr. Henry's papers.}

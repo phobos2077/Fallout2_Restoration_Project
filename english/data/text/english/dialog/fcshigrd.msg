@@ -1,5 +1,5 @@
 {100}{}{You see a guard in loose clothing, wearing a look of wary boredom.}
-{101}{}{You see a palace guard}
+{101}{}{You see a palace guard.}
 {102}{}{You see a palace guard carrying a dangerous-looking weapon.}
 {103}{}{Just keep moving along and there'll be no problem.}
 {104}{}{You have business here?}

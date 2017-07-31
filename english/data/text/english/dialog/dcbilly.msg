@@ -10,8 +10,8 @@
 {157}{}{Yup.}
 {158}{}{I sure would like to do her.}
 {159}{}{Go right ahead.}
-{160}{}{OK. That’ll be $50.}
-{161}{}{Sure, but it’ll cost you $200.}
+{160}{}{OK. That'll be $50.}
+{161}{}{Sure, but it'll cost you $200.}
 {162}{}{No way! Get away from us!}
 {163}{}{OK.}
 {164}{}{No.}
@@ -20,26 +20,26 @@
 {167}{}{Thanks. Bye.}
 {168}{}{Bye.}
 {169}{}{Aw, shucks.}
-{170}{}{[done]}
+{170}{}{[DONE]}
 {171}{}{I am plumb tuckered out.}
-{172}{}{I’ll come back.}
+{172}{}{I'll come back.}
 {173}{}{OK.}
 {174}{}{You sure are a pretty thing.}
 {175}{}{Get away from me.}
 {176}{}{Give me $200 and you can spend some time with me.}
 {177}{}{I cost $50, Mac.}
 {178}{}{Hee hee. Thanks.}
-{179}{}{I don’t have enough money.}
+{179}{}{I don't have enough money.}
 {180}{}{Ok, $50 then.}
 {181}{}{Too bad for you.}
 {182}{}{See you around.}
-{183}{}{Don’t bother me. I’m scoping for nice-looking chicks.}
-{184}{}{Good luck. You’ll need it.}
+{183}{}{Don't bother me. I'm scoping for nice-looking chicks.}
+{184}{}{Good luck. You'll need it.}
 {185}{}{What am I, chopped liver?}
 {186}{}{Bye.}
 {187}{}{Oooh. OK. Bye.}
 {188}{}{[looks you up and down] No. I like chopped liver.}
-{189}{}{I don’t need this from you!}
+{189}{}{I don't need this from you!}
 {190}{}{Excuse me, I have to go.}
 {191}{}{Too bad. I thought you were cute.}
 
@@ -81,7 +81,7 @@
 {321}{}{I might even pay for that again.}
 {322}{}{Mmmm...}
 {323}{}{Not bad, not bad.}
-{324}{}{We'll have to do that again and work on our... flexability.}
+{324}{}{We'll have to do that again and work on our... flexibility.}
 
 # 12.
 {350}{}{Looks like I'm going to be getting Handy again.}
@@ -124,7 +124,7 @@
 {513}{}{How about you meet me at The Hole and I buy you a drink?}
 
 {520}{}{Sorry, I'm a hurry to get home. I just got some new porn in.}
-{523}{}{I'm uhhh, tired, please let me go home and uhhh, sleep...}
+{521}{}{I'm uhhh, tired, please let me go home and uhhh, sleep...}
 {522}{}{I'm going over to Dave's. He's got a whole porn wing!}
 
 {530}{}{Uhhh, no thanks. I don't have money to piss away on that again.}

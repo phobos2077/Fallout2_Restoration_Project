@@ -2,7 +2,7 @@
 {100}{}{You encounter rogues and wolves.}
 {101}{}{You encounter rogues.}
 {102}{}{You encounter wolves.}
-{103}{}{You encounter scorpions.}
+{103}{}{You encounter radscorpions.}
 {104}{}{You encounter spore plants.}
 {105}{}{You encounter a Unity Patrol fighting rogues.}
 {106}{}{You encounter a Unity Patrol fighting wolves.}
@@ -35,11 +35,11 @@
 # VNNB Encounter Table
 {250}{}{You encounter marauders.}
 {251}{}{You encounter wolves.}
-{252}{}{You encounter scorpions.}
+{252}{}{You encounter radscorpions.}
 {253}{}{You encounter a caravan fending off marauders.}
 {254}{}{You encounter a caravan fending off marauders.}
 {255}{}{You encounter a caravan fending off wolves.}
-{256}{}{You encounter a caravan fending off scorpions.}
+{256}{}{You encounter a caravan fending off radscorpions.}
 {257}{}{You encounter a caravan.}
 {258}{}{You encounter a caravan.}
 {259}{}{You encounter a caravan.}
@@ -52,7 +52,7 @@
 {302}{}{You encounter NCR Rangers battling remnants of the Master's army.}
 {303}{}{You encounter NCR Rangers fighting marauders.}
 {304}{}{You encounter farmers fending off remnants of the Master's army.}
-{305}{}{You encounter famers fending off marauders.}
+{305}{}{You encounter farmers fending off marauders.}
 {306}{}{You encounter NCR Rangers.}
 {307}{}{You encounter farmers.}
 
@@ -74,25 +74,25 @@
 {400}{}{You encounter highwaymen.}
 {401}{}{You encounter robbers.}
 {402}{}{You encounter robbers and highwaymen.}
-{403}{}{You encounter golden geckos and scorpions.}
+{403}{}{You encounter golden geckos and radscorpions.}
 {404}{}{You encounter golden geckos.}
 {405}{}{You encounter mole rats and pig rats.}
-{406}{}{You encounter scorpions.}
+{406}{}{You encounter radscorpions.}
 {407}{}{You encounter spore plants.}
 {408}{}{You encounter robbers fighting highwaymen.}
 {409}{}{You encounter a caravan fending off highwaymen.}
 {410}{}{You encounter a caravan fending off robbers.}
-{411}{}{You encounter a caravan fending off scorpions.}
-{412}{}{You encounter geckos fighting scorpions.}
+{411}{}{You encounter a caravan fending off radscorpions.}
+{412}{}{You encounter geckos fighting radscorpions.}
 {413}{}{You encounter a caravan.}
 
 # Band Encounter Table
 {450}{}{You encounter highwaymen and robbers.}
 {451}{}{You encounter highwaymen and geckos.}
 {452}{}{You encounter golden geckos.}
-{453}{}{You encounter scorpions and spore plants.}
-{454}{}{You encounter robbers fighting scorpions.}
-{455}{}{You encounter scorpions fighting robbers.}
+{453}{}{You encounter radscorpions and spore plants.}
+{454}{}{You encounter robbers fighting radscorpions.}
+{455}{}{You encounter radscorpions fighting robbers.}
 {456}{}{You encounter a caravan fending off highwaymen.}
 {457}{}{You encounter a caravan fending off robbers.}
 {458}{}{You encounter some highwaymen weeding out some spore plants.}

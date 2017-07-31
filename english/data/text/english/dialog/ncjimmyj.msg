@@ -50,7 +50,7 @@
 {271}{}{Wherez Jet? Me no see it in sky}
 {272}{}{Me have TO GO N--}
 {273}{}{Jagged Jimmy J, huh? Say, I had some quest--}
-{274}{}{Look, I'm not  interest --}
+{274}{}{Look, I'm not interest --}
 
 # 6. SPIEL 3 (5)
 {280}{}{OTHER dealers, they don't care about quality, but me, I like KEEPING my customer base and keeping 'em HAPPY, know what I'm
@@ -66,8 +66,7 @@
 {5201}{}{! If you're lookin' to celebrate with some Jet, come talk to Jimmy J…}
 #related
 # 7. 2nd TIME, PLAYER GOT THE BULLSHIT SPEECH (WTG)
-{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that be the WAY? Keep 'em happy, and they'll never let you down. So
- my pilot friend…what can Jagged Jimmy J can do for you today?}
+{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that it would be that WAY? Keep 'em happy, and they'll never let you down. So my pilot friend…what can Jagged Jimmy J do for you today?}
 {291}{}{Well, well, if it ain't my pilot "friend"…you comin' back round cause you NEED something from Jagged Jimmy?}
 {292}{}{Um...Me forgot what me goin' to say. Me go}
 {294}{}{We trad stuf? Me LIKE stuf}
@@ -79,9 +78,9 @@
 {300}{}{Nothing today, thanks, Jimmy.}
 
 # 8. SPIEL 4 (6, 10, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 33, 36, 39, 40, 41, 42, 43, 44, 45)
-{310}{}{So what you SAY? What can Jagged Jimmy J can do for you today?}
+{310}{}{So what do you SAY? What can Jagged Jimmy J do for you today?}
 {311}{}{Yeah, what do you want? Keep it quick...I ain't got time to burn talkin' with you.}
-{312}{}{You got wants, you got questions…what is it that can Jagged Jimmy J do for you today?}
+{312}{}{You got wants, you got questions…what is it that Jagged Jimmy J can do for you today?}
 {314}{}{Me forgot! Me finally had a thought and Me forgot! }
 {5314}{}{ KILL YOU}
 

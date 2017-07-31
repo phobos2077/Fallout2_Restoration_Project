@@ -22,7 +22,7 @@
 {221}{}{Looking good, fella.}
 {222}{}{Fists like gold is what you have.}
 {223}{}{Ya eat lightning and crap thunder, kid.}
-{224}{}{You dropped that sonuva bitch like a bad habit. Good job.}
+{224}{}{You dropped that sonuvabitch like a bad habit. Good job.}
 {225}{}{Glad I took the chance on you, sweetheart.}
 {226}{}{Looking good, darling.}
 
@@ -39,7 +39,7 @@
 {243}{}{Hey there, hero. What can I do for you?}
 {244}{}{Hunh?}
 {245}{}{Why you soooo small?}
-{246}{}{Wander off}
+{246}{}{[Wander off.]}
 {247}{}{Who are you?}
 {248}{}{Nothing. I was just looking around.}
 
@@ -73,7 +73,7 @@
 {291}{}{Me }
 {292}{}{Me…uh…me…}
 {293}{}{Me Big Stu}
-{296}{}{Wander away in search of adventure}
+{296}{}{[Wander away in search of adventure.]}
 
 # 12. ALL RIGHT NAME (11)
 {300}{}{Me-a-me, huh? "Miami…" I LIKE it. I LIKE it. All right then, let's go do some damage.}
@@ -81,7 +81,7 @@
  damage.}
 {302}{}{, huh? All right then, }
 {1302}{}{ let's go do some damage.}
-{305}{}{Run away and hide}
+{305}{}{[Run away and hide.]}
 
 # 13. SEXY (22)
 {310}{}{(Puffs up indignantly.) Look. Just because I'm not of so-called "average height" does not mean I have to receive my thrills
@@ -94,24 +94,24 @@
 {322}{}{ME }
 {1322}{}{ NOT ASS HEAD ME KILL YOU KILL YOU KILL Y--}
 {323}{}{What about ice cream}
-{324}{}{Run off crying}
-{326}{}{(Smile calmly, nod, then attack him.)}
+{324}{}{[Run off crying.]}
+{326}{}{[Smile calmly, nod, then attack him.]}
 {327}{}{Give me another chance, Stuart. Come on, just ONE more chance. I can go the distance!}
-{328}{}{(Leave.)}
+{328}{}{[Leave.]}
 {329}{}{(Stuart looks disgusted with you as you're hauled out of the ring.) }
 
 # 15. ANOTHER CHANCE…HELL NO (14, 24)
 {330}{}{What, the Masticator bite your ears off, boy?! }
 {331}{}{What, the Masticator bite your ears off, girl?! }
 {332}{}{I said BEAT it! Get outta here!}
-{333}{}{Kick the loud red little man}
-{334}{}{Tromp out angrily}
-{336}{}{(Hit the road.)}
+{333}{}{[Kick the loud red little man.]}
+{334}{}{[Tromp out angrily.]}
+{336}{}{[Hit the road.]}
 {337}{}{(Turns red.) }
 
 # 16. ANOTHER CHANCE…HELL NO (14, 24)
-{340}{}{(One more chance. I get 75%, no arguments. }
-{341}{}{(One more chance. I still get 75%, no arguments. }
+{340}{}{One more chance. I get 75%, no arguments. }
+{341}{}{One more chance. I still get 75%, no arguments. }
 {342}{}{Done. I'm ready to fight again right now. Lead on, Stuart.}
 {343}{}{Done. Give me a little time to rest up, and I'll be ready to fight again.}
 {344}{}{Nothing's worth this much grief.}
@@ -132,12 +132,12 @@
 {360}{}{(The midget blinks, then frowns.) Ice…what?}
 {361}{}{I scream, you scream, everybody screams for ice cream}
 {362}{}{Uh-uh. Ice CREAM}
-{363}{}{Wander off in search of adventure}
+{363}{}{[Wander off in search of adventure.]}
 
 # 19. ICE CREAM (18)
 {370}{}{(The midget smiles uneasily.) }
-{371}{}{Well, I can get you some cream, pal…mostly of the whore or chem variety…but that's about it. }
-{372}{}{Well, I can get you some cream, honey…mostly of the male prostitute or chem variety…but that's about it. }
+{371}{}{Well, I can get you some cream, pal…mostly of the whore or drug variety…but that's about it. }
+{372}{}{Well, I can get you some cream, honey…mostly of the male prostitute or drug variety…but that's about it. }
 {373}{}{Now you wanna fight or what?}
 {374}{}{Okay}
 {375}{}{Me want to rest a bit first.}
@@ -149,7 +149,7 @@
 
 # 21. WIN, FIGHT AGAIN (17, 24, 30, 31)
 {390}{}{All right then! Let's get this circus on the road!}
-{391}{}{Follow him.}
+{391}{}{[Follow him.]}
 
 # 22. WHO ARE YOU? (6, 40)
 {400}{}{Wha…you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? }
@@ -180,7 +180,7 @@
 # 24. BOXED BEFORE (WTG)
 {430}{}{(Stuart nods and smiles as you approach.) Hey, hero! Heard about what you did. Congratulations. What's up?}
 {431}{}{(Stuart nods as you approach.) Heeeey, }
-{1431}{}{(! What's up? Ready to get back in the ring?}
+{1431}{}{! What's up? Ready to get back in the ring?}
 {432}{}{(Stuart sneers as you approach.) Well, if it ain't "}
 {1432}{}{." What brings you back around?}
 {433}{}{Me wanta fight more}
@@ -239,7 +239,7 @@
 
 # 31. SPECIAL HANDLE (30)
 {500}{}{(The midget frowns.) Didn't he die against that Russian guy way back when? Aw, whatever. Shall we hit the ring?}
-{501}{}{(The midget smirks.) Looks like you and th e "Masticator" will be getting along just fine. Just don't bite off too many
+{501}{}{(The midget smirks.) Looks like you and the "Masticator" will be getting along just fine. Just don't bite off too many
  ears. Well…shall we hit the ring?}
 {502}{}{(The midget smirks.) You don't look Russian. But whatever works for you…shall we hit the ring?}
 {503}{}{(The midget smirks.) "Pity the fo," huh? Well, okay…but let's hope YOUR career goes somewhere. Shall we head to the ring?}
@@ -254,7 +254,7 @@
 {511}{}{Fine. Though I wasn't aware vampires came in your size.}
 {512}{}{Okay. 50/50. What's next?}
 {513}{}{Did I say 25/75? I MEANT 50/50. We'll split the profit right down the middle. No problems here.}
-{514}{}{Walk.}
+{514}{}{[Walk.]}
 
 # 33. STUART LITTLE (22, 33, 39)
 {520}{}{Yeah, yeah, I know, "Stuart Little." My Mom used to read a lotta E.B. White. Now, you got a name?}
@@ -296,7 +296,7 @@
 # 41. . . . (38)
 {600}{}{I've taken in your ridiculously overly-muscled physique, your gritty Mad Maxx wanna-be demeanor, your unimaginative
  character point allocation and concluded you are a mini-maxing munchkin.}
-{601}{}{I've taken in your over-pixellated breasts, your ridiculous sashay when you walk, your unimaginative character point
+{601}{}{I've taken in your over-pixilated breasts, your ridiculous sashay when you walk, your unimaginative character point
  allocation and concluded you are a mini-maxing Laura Kroft wannabe…a "munchkin."}
 {602}{}{I…}
 

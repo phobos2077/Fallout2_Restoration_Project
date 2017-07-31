@@ -107,7 +107,7 @@
 {341}{}{Thanks. Can I ask you a question?}
 {342}{}{Okay, thanks.}
 {343}{}{Thankey youey.}
-{344}{}{Nopey nopey.}
+{344}{}{Asky?}
 
 # 8. (From )
 {350}{}{Sorry. I don't think so.}
@@ -124,7 +124,7 @@
 # 9. Job 1 & 2 Introductions (From 8)
 {370}{}{Catch? Oh, well, if you knew Fred you'd understand. He's owed me the money
  for quite a long time. I'd written it off as a loss, but if you can get it back, I'd be
- amazed… and grateful. He's somewhere in town, I'm sure.}
+ amazed... and grateful. He's somewhere in town, I'm sure.}
 {371}{}{The book was The Lavender Flower. Derek should be over around Mom's on the east side.}
 {372}{}{I'll see what I can do.}
 {373}{}{Sure sounds easy.}
@@ -150,9 +150,10 @@
 
 # 12. Deaths (From 10)
 {410}{}{I can't believe they are both dead. I'm sorry. Thank you for finding out for
- me. If you'll excuse me…}
-{411}{}{I can't believe he's dead… after all these years.}
+ me. If you'll excuse me...}
+{411}{}{I can't believe he's dead... after all these years.}
 {412}{}{Sure.}
+{413}{}{...}
 
 # 13. Vic (From 3)
 {420}{}{Yeah, I know who that is. That's Vic - the guy Metzger has locked up.}
@@ -184,7 +185,7 @@
 {461}{}{Where to?}
 
 # 18. Buffy 3 (From 17)
-{470}{}{Something about a commando… or that he was going after a commando. Not sure
+{470}{}{Something about a commando... or that he was going after a commando. Not sure
  exactly. Something like that.}
 {471}{}{Oh.}
 
@@ -195,7 +196,7 @@
 
 # 20. Buffy 5 (From 19)
 {490}{}{Oh, just a few trinkets. Here you go. [Becky hands you $1000, 5 Stimpaks,
- Metal Armor, an Uzi, 5 clips of ammo, a Plasma Grenade, and flower]}
+ Metal Armor, an Uzi, 5 clips of ammo, a Plasma Grenade, and a flower]}
 {491}{}{Thanks!}
 
 # 21. Buffy 6 (From 20)
@@ -207,16 +208,16 @@
  evil man.}
 {511}{}{He sure put up a good fight.}
 {512}{}{I have a question.}
-{513}{}{Yes, hHe was. Goodbye.}
+{513}{}{Yes, he was. Goodbye.}
 {514}{}{ kill!}
 
 # 23. Metzger's dead 2 (From 22)
-{520}{}{What? You? I… don't know what to say. He was such an evil man…}
+{520}{}{What? You? I... don't know what to say. He was such an evil man...}
 {521}{}{A thank you would be enough.}
 {522}{}{Humph.}
 
 # 24. Metzger Reward (From 23)
-{530}{}{Oh, a thank you would be enough. I know this isn't right but… here, take this
+{530}{}{Oh, a thank you would be enough. I know this isn't right but... here, take this
  money. [Becky gives you 1000 dollars]}
 {531}{}{Keep your money, Rebecca.}
 {532}{}{Thank you very much.}
@@ -251,4 +252,4 @@
 
 # 29. Still 3(From 28)
 {580}{}{So, you're a coward too? Figures.}
-{581}{}{…}
+{581}{}{...}

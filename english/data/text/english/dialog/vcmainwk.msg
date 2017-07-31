@@ -222,7 +222,7 @@
 {319}{}{Ub nuwb ub}
 {320}{}{2 Seconds}
 {321}{}{If you give him ALL the parts, right?}
-{322}{}{I see you're travelling with people slightly smarter than you are.}
+{322}{}{I see you're traveling with people slightly smarter than you are.}
 {323}{}{2 Seconds}
 {324}{}{Well, yes.}
 {325}{}{Ub nuwm ub?}
@@ -244,7 +244,7 @@
 {341}{}{Yeah, sure, Dad.}
 {342}{}{2 Seconds}
 {343}{}{Fade out for 3 Seconds}
-{344}{}{Hey! Glad you made it back. Last I heard, you were travelling down south, gunning up old tankers and blowing up oil derricks.}
+{344}{}{Hey! Glad you made it back. Last I heard, you were traveling down south, gunning up old tankers and blowing up oil derricks.}
 {345}{}{You come back here for a little peace and quiet, Mr. Big Hero?}
 {346}{}{You come back here for a little peace and quiet, Ms. Big Heroine?}
 {347}{}{HE-wo? Hee-hee! Yup!}

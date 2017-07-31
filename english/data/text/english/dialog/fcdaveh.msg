@@ -2,7 +2,7 @@
 {101}{}{You see Dave H.}
 {102}{}{You see a sandy-haired man with a hopeful glint to his eye.}
 {103}{}{Why do you want to hurt us?}
-{104}{}{Greetings, enlightened one.}
+{104}{}{How can I help you, enlightened one?}
 {105}{}{I'm going to move on Vikki... umm... soon.}
 {106}{}{How can I help you?}
 {107}{}{What do you want?}
@@ -12,10 +12,10 @@
 {111}{}{I talked to Vikki. She and Juan made fun of you and said you're not a real man.}
 {112}{}{I talked to Vikki. She said you're hot and she wants you sometime.}
 {113}{}{You want me to talk Vikki up for you?}
-{114}{}{In no way. Thanks.}
+{114}{}{Nevermind. Bye.}
 {115}{}{Ummm... oookay. Whatever. Say, what's that over there?
 [as you turn to look, he whips back to what he was doing and ignores you]}
-{116}{}{-done-}
+{116}{}{[DONE]}
 {117}{}{I'm Dave Handy. I'm down from Canada.}
 {118}{}{So, what do you do here?}
 {119}{}{What brought you down?}
@@ -30,7 +30,7 @@
 {128}{}{No, forget it.}
 {129}{}{The Hub recruiter, Vikki Goldman. I saw one of her movies up in Canada, and I just knew that she'd fall in love with me. It hasn't happened yet, but I'm working on it.}
 {130}{}{I'll keep it under my hat. I have some more questions.}
-{131}{}{Ha ha! What a schlepp you are! She's a porn star, buddy. She doesn't want you.}
+{131}{}{Ha ha! What a schlep you are! She's a porn star, buddy. She doesn't want you.}
 {132}{}{You realize that she'll just act interested in you to make sure you stay a good Hubologist, right?}
 {133}{}{Well, yeah... but it's worth it in case something happens!}
 {134}{}{If you say so... if you say so. I have more questions.}
@@ -90,16 +90,17 @@ Oh well.
 {185}{}{Can't think of anything specific right now. I'll let you know.}
 {186}{}{Oh, like:}
 {187}{}{"Does my terminal have 3D-card support?"}
-{188}{}{"Why can't I get multiuser hookup?"}
+{188}{}{"Why can't I get multi-user hookup?"}
 {189}{}{"I think we ought to change the interface, even though this one works perfectly well!"}
 {190}{}{"Why can't I use a sword or a chainsaw on my monitor?"}
 {191}{}{"I should be able to have two guns. Why can't I use two guns?"}
-{192}{}{"The interface on my terminal is slow and clunky. I think it's your fault".}
+{192}{}{"The interface on my terminal is slow and clunky. I think it's your fault."}
 {193}{}{Like that.}
 {194}{}{I see. Those people sound like they're lots of fun. I have more questions.}
 {195}{}{I see. Well, so long.}
 {196}{}{I could do that. But I'd need a good reason to do it, and I just don't have that. Sorry. Anything else?}
 {197}{}{Yes, I have more questions.}
 {198}{}{No, I guess not.}
-{199}{}{Sorry, their system hasn't been responding for a while. There's no way for me to get into it.}
+{199}{}{Sorry, their system hasn't been responding for a while. There's no way for me to get into it. Anything else?}
 {200}{}{I'm going to move on Vikki... umm... soon. What can I help you with?}
+{201}{}{Their system hasn't been responding for a while. Looks like someone formatted their databases. Like what I'll be doing here once I'm done with you. Anything else?}

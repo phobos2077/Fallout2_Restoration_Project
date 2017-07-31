@@ -74,7 +74,7 @@
 {409}{}{Sierra Depot GNN Transcript}
 {410}{}{Sierra Mission Statement}
 {411}{}{Hubologist Teachings}
-{412}{}{Vault City Desginer Notes}
+{412}{}{Vault City Designer Notes}
 {413}{}{Vault City Travel Log}
 {414}{}{NCR Spy Holodisk}
 {415}{}{NCR History Holodisk}
@@ -194,7 +194,7 @@
 #
 {1000}{}{VAULT 13 HOLO by Ziggy}
 {1001}{}{**END-PAR**}
-{1002}{}{This holodisk gives the location of Vault13. The       }
+{1002}{}{This holodisk gives the location of Vault 13. The       }
 {1003}{}{location has been marked on your map.                  }
 {1004}{}{**END-DISK**}
 # *** ***
@@ -217,7 +217,7 @@
 {3000}{}{This is Captain Pickard reporting at checkpoint 1.}
 {3001}{}{Contact with checkpoints 2 & 3 has been cut off. We}
 {3002}{}{can only assume the worst. The monsters are swarming}
-{3003}{}{up the mineshafts.  All efforts to delay them have}
+{3003}{}{up the mineshafts. All efforts to delay them have}
 {3004}{}{failed. We'll try to hold them at this position as long}
 {3005}{}{as we can.}
 {3006}{}{**END-DISK**}
@@ -228,7 +228,7 @@
 {4001}{}{mine elevators as a precaution, but I can hear them}
 {4002}{}{coming up the mineshaft. Holy shit! Huge, ugly,}
 {4003}{}{green, creatures are climbing out of the lower levels!}
-{4004}{}{This must be what the brass is after.  Some kind of}
+{4004}{}{This must be what the brass is after. Some kind of}
 {4005}{}{super soldier. As fast as we shoot them two more climb}
 {4006}{}{out of the mineshaft and the ones we shoot get up and}
 {4007}{}{keep coming at us! We need reinforc_}
@@ -247,7 +247,7 @@
 {5008}{}{out of this forsaken place. It gives me the creeps.}
 {5009}{}{Hold on a second, another load is coming up the}
 {5010}{}{mineshaft. My god! What are they? They're swarming}
-{5011}{}{our position! Send help! Repeat, this is check point 3}
+{5011}{}{our position! Send help! Repeat, this is; check point 3}
 {5012}{}{send he_}
 {5013}{}{**END-DISK**}
 
@@ -266,11 +266,11 @@
 {6009}{}{They seem to be showing signs of increased strength,}
 {6010}{}{stamina and a slight change in skin tone; obvious}
 {6011}{}{signs of mutations by the FEV. The men are getting}
-{6012}{}{nervous, as they too have noticed the change. Although I've}
-{6013}{}{increased the number of guards, I fear if the workers}
-{6014}{}{completely mutate, we'll be vastly outnumbered. It is}
-{6015}{}{my hope, that since we are using the local inhabitants}
-{6016}{}{as a work force, full mutation won't occur}
+{6012}{}{nervous, as they too have noticed the change. Although}
+{6013}{}{I've increased the number of guards, I fear if the}
+{6014}{}{workers completely mutate, we'll be vastly outnumbered.}
+{6015}{}{It is my hope, that since we are using the local}
+{6016}{}{inhabitants as a work force, full mutation won't occur}
 {6017}{}{unless they are directly exposed (dipped) in a pure}
 {6018}{}{source or prolonged exposure to the virus occurs. As}
 {6019}{}{you recall, minute amounts of the virus have been}
@@ -297,42 +297,42 @@
 {7009}{}{the operating room without a colon. Good thing he was}
 {7010}{}{dead already or I'd be in trouble. I hardwired}
 {7011}{}{the machine to extract only brains so this wouldn't}
-{7012}{}{happen again.  I'll get them back for this.}
+{7012}{}{happen again. I'll get them back for this.}
 {7013}{}{**END-PAR**}
 {7014}{}{June 29, 2077}
-{7015}{}{I removed Private Callow's liver and cooked it.  I}
+{7015}{}{I removed Private Callow's liver and cooked it. I}
 {7016}{}{then had it sent down to the boys in bio storage}
 {7017}{}{with fava beans and a nice Chianti. They think it}
 {7018}{}{was a special thank you from the general for a job}
-{7019}{}{well done.  I love my job.}
+{7019}{}{well done. I love my job.}
 {7020}{}{**END-PAR**}
 {7021}{}{June 30, 2077}
 {7022}{}{I tried a new chem cocktail of Buffout and Psychos}
-{7023}{}{on one of my patients and mixed with some special}
+{7023}{}{on one of my patients, mixed with some special}
 {7024}{}{enhancers I've been toying with. The results were}
-{7025}{}{promising, if not messy.  The subject became very}
+{7025}{}{promising, if not messy. The subject became very}
 {7026}{}{violent and managed to break out of his room.}
 {7027}{}{Luckily, the new security robots were in place}
-{7028}{}{and managed to subdue him.  I'll have}
+{7028}{}{and managed to subdue him. I'll have}
 {7029}{}{maintenance come down and replace that door.}
 {7030}{}{**END-PAR**}
 {7031}{}{July 1, 2077}
-{7032}{}{My favorite experiment died.  I've been feeding}
+{7032}{}{My favorite experiment died. I've been feeding}
 {7033}{}{him a steady diet of Mentats mixed with my}
-{7034}{}{special enhancers.  He went from an IQ of 39 to}
-{7035}{}{an IQ of 200 in just a few weeks.  I am saddened}
+{7034}{}{special enhancers. He went from an IQ of 39 to}
+{7035}{}{an IQ of 200 in just a few weeks. I am saddened}
 {7036}{}{since he was one of the few people I could}
-{7037}{}{really talk to.  He will be sorely missed.}
+{7037}{}{really talk to. He will be sorely missed.}
 {7038}{}{**END-PAR**}
 {7039}{}{July 5, 2077}
 {7040}{}{We think the new cybernetic brain is finally}
-{7041}{}{ready.  We have to run some more tests, but it}
+{7041}{}{ready. We have to run some more tests, but it}
 {7042}{}{looks promising.}
 {7043}{}{**END-PAR**}
 {7044}{}{July 6, 2077}
 {7045}{}{Robotics isn't happy that their precious}
 {7046}{}{computer is being modified to run the base's}
-{7047}{}{security for the evacuation.  I can't say I'm}
+{7047}{}{security for the evacuation. I can't say I'm}
 {7048}{}{happy either, since Skynet has been invaluable}
 {7049}{}{in the development of the new cybernetic brain.}
 {7050}{}{**END-PAR**}
@@ -341,7 +341,7 @@
 {7053}{}{timing. We were just about to start on the}
 {7054}{}{installation of the new cybernetic brain. They}
 {7055}{}{say the evacuation is temporary, so I'll get}
-{7056}{}{to continue my research when I come back.  This}
+{7056}{}{to continue my research when I come back. This}
 {7057}{}{will probably be my last log for some time,}
 {7058}{}{since I will be busy gathering up as much of my}
 {7059}{}{research as possible.}
@@ -355,7 +355,7 @@
 {8005}{}{**END-PAR**}
 {8006}{}{Subject was attempting to arm an attack mine in}
 {8007}{}{storage bay as part of Sierra Army Depot's}
-{8008}{}{evacuation defenses.  Mine detonated prematurely}
+{8008}{}{evacuation defenses. Mine detonated prematurely,}
 {8009}{}{severely injuring Corporal Dixon and General}
 {8010}{}{Clifton.  Corporal Dixon suffered severe}
 {8011}{}{lacerations to hands, chest and facial area.}
@@ -373,21 +373,21 @@
 {8023}{}{able to reattach the eye at a later date.}
 {8024}{}{This experimental Biomed gel shows great}
 {8025}{}{promise in stimulating growth in living cells.}
-{8026}{}{It is however unfortunate to test this new gel}
+{8026}{}{It is, however, unfortunate to test this new gel}
 {8027}{}{under such circumstances.}
 {8028}{}{**END-DISK**}
 #
-{9000}{}{June 9, 2077}
+{9000}{}{July 9, 2077}
 {9001}{}{Priority Release}
 {9002}{}{General Posting}
 {9003}{}{}
 {9004}{}{Notice to all personnel. Evacuation of Sierra}
 {9005}{}{Army Depot has been advanced 1 week.}
 {9006}{}{Installation of security and defense measures}
-{9007}{}{must be completed by then.  All personnel must}
+{9007}{}{must be completed by then. All personnel must}
 {9008}{}{check in with section chiefs for revised}
 {9009}{}{orders. During this time, security will be}
-{9010}{}{be strictly enforced; ID badges must be worn}
+{9010}{}{strictly enforced; ID badges must be worn}
 {9011}{}{at all times.}
 {9012}{}{}
 {9013}{}{By order of General Clifton}
@@ -423,7 +423,7 @@
 {10026}{}{Mission Statement 2077}
 {10027}{}{Due to trained personnel shortage, Sierra Army Depot is }
 {10028}{}{to be modified into an automated defense base. All }
-{10029}{}{personnel to be relocated to neighboring installations or }
+{10029}{}{personnel are to be relocated to neighboring installations or }
 {10030}{}{sent to the front line. }
 {10031}{}{**END-DISK**}
 
@@ -439,7 +439,7 @@
 {11008}{}{With the world's supply of oil nearing depletion,}
 {11009}{}{a race to be the first to create a method to}
 {11010}{}{extract this deposit ensued. We at the GNN}
-{11011}{}{are proud to announce that US is the first to do}
+{11011}{}{are proud to announce that the US is the first to do}
 {11012}{}{so and thus claim the oil as property of the United}
 {11013}{}{States. Way to go US!}
 {11014}{}{**END-PAR**}
@@ -497,7 +497,7 @@
 {11066}{}{Jets battled it out at Super Bowl CXII. It was a real}
 {11067}{}{nail-biter, but J. Montana IV managed to save the day}
 {11068}{}{by running the ball all the way from the 5 yard line}
-{11069}{}{to score the winning touch down during the final seconds}
+{11069}{}{to score the winning touchdown during the final seconds}
 {11070}{}{of the game. The final score 95 - 90. The Anaheim}
 {11071}{}{Jets win Super Bowl CXII.}
 {11072}{}{**END-PAR**}
@@ -514,8 +514,8 @@
 {11083}{}{Transcript of Broadcast March 30, 2076}
 {11084}{}{Today the President ordered the Pacific Fleet to the}
 {11085}{}{Poseidon deep sea oil derrick located at a secret }
-{11086}{}{location out in the Pacific. He cited concerns over that}
-{11087}{}{military exercises staged by the Chinese fleet are}
+{11086}{}{location out in the Pacific. He cited concerns over}
+{11087}{}{military exercises staged by the Chinese fleet that are}
 {11088}{}{"unacceptably close to our strategic oil reserves."}
 {11089}{}{The Chinese government denied any hostile intentions.}
 {11090}{}{**END-PAR**}
@@ -530,7 +530,7 @@
 {11099}{}{it takes to keep the country running smoothly.}
 {11100}{}{**END-PAR**}
 {11101}{}{Galaxy News Network}
-{11102}{}{Transcript of Broadcast October, 10 2077}
+{11102}{}{Transcript of Broadcast October 10, 2077}
 {11103}{}{WAR! A state of war is declared as China invades the }
 {11104}{}{United States by way of Alaska! Protests by the US fall }
 {11105}{}{on deaf ears as the UN council chooses to ignore this }
@@ -542,21 +542,21 @@
 {11111}{}{Freedom and Mom's Apple Pie.}
 {11112}{}{**END-PAR**}
 {11113}{}{Galaxy News Network}
-{11114}{}{Transcript of Broadcast October, 22, 2077}
+{11114}{}{Transcript of Broadcast October 22, 2077}
 {11115}{}{Thanks to the brave souls of the armed forces and our }
 {11116}{}{newly developed power armored combat suits, US forces}
 {11117}{}{have pushed back the Chinese invaders. Crippled by lack of }
-{11118}{}{fuel, US forces have pushed the invaders back to their}
+{11118}{}{fuel, the invaders have been pushed back to their}
 {11119}{}{home capital of Beijing.}
 {11120}{}{**END-DISK**}
 
 
 # Elron Bible
 {12000}{}{Welcome!}
-{12001}{}{Welcome to the Hubology Holodisc! Within these electronic}
+{12001}{}{Welcome to the Hubology Holodisk! Within these electronic}
 {12002}{}{pages, you'll find a quick description of our beliefs, }
 {12003}{}{including the formerly-repressed teachings of the Hub. }
-{12004}{}{This holodisc isn't meant to represent the final word on}
+{12004}{}{This holodisk isn't meant to represent the final word on}
 {12005}{}{Hubology - think of it as a primer, and us as your }
 {12006}{}{spiritual guardians.}
 {12007}{}{**END-PAR**}
@@ -573,7 +573,7 @@
 {12018}{}{and of the failure of religion, and of the failure of }
 {12019}{}{government. He knew that the world needed something }
 {12020}{}{new...the world needed Hubology. Inspired by music of the }
-{12021}{}{time and hs own personal experience with extraterrestrial}
+{12021}{}{time and his own personal experience with extraterrestrial}
 {12022}{}{beings, he set out to show us wheels in the sky, to keep }
 {12023}{}{them burning, and to understand the Great Wheel of Life.}
 {12024}{}{**END-PAR**}
@@ -597,9 +597,9 @@
 {12042}{}{Hubology was driven underground for a time, marshalling}
 {12043}{}{its forces against the attacks of those who envied its}
 {12044}{}{simplicity and ease of use for the common man. When at}
-{12045}{}{last the Hubologists of that time struck back,  they did}
+{12045}{}{last the Hubologists of that time struck back, they did}
 {12046}{}{it in such a way that few could stand against them - they}
-{12047}{}{infiltrated the  organizations that sought to destroy them}
+{12047}{}{infiltrated the organizations that sought to destroy them}
 {12048}{}{and created "television" shows that sought to expose the}
 {12049}{}{lies the government had fed the people.}
 {12050}{}{**END-PAR**}
@@ -627,7 +627,7 @@
 {12072}{}{PHILOSOPHY}
 {12073}{}{Hubology contains a simple philosophy, culled from the}
 {12074}{}{finest religious and philosophical minds of pre-Deluge}
-{12075}{}{Earth  -  we believe that life, the universe, and}
+{12075}{}{Earth - we believe that life, the universe, and}
 {12076}{}{everything can best be symbolized by a turning wheel.}
 {12077}{}{The outer rim of wheel contains those who do not}
 {12078}{}{understand our teachings and who do not understand the}
@@ -676,7 +676,7 @@
 {12121}{}{**END-PAR**}
 {12122}{}{And arise it did, on the planet Terra, as on other planets}
 {12123}{}{across the universe. (We focus mainly on the life that}
-{12124}{}{arose on Terra, for while we blieve that we will once }
+{12124}{}{arose on Terra, for while we believe that we will once }
 {12125}{}{again heal the sundered spokes of the Wheel with our }
 {12126}{}{starry brothers, we must first concentrate on making }
 {12127}{}{ourselves useful spokes.) This new life was polluted by}
@@ -698,7 +698,7 @@
 {12143}{}{**END-PAR**}
 {12144}{}{Alignment : When a neurodyne is polluted and keeps a }
 {12145}{}{seeker's Zeta levels down, we "align" the levels to the }
-{12146}{}{universal Wheel by  running a Zeta Scan on the affected }
+{12146}{}{universal Wheel by running a Zeta Scan on the affected }
 {12147}{}{neurodyne, cleansing it of taint. Too much alignment too }
 {12148}{}{quickly is harmful for the spirit, however.}
 {12149}{}{**END-PAR**}
@@ -774,7 +774,7 @@
 
 {13000}{}{VAULT CITY DESIGNER NOTES}
 {13001}{}{**END-PAR**}
-{13002}{}{Vault City went trough many incarnations. It was}
+{13002}{}{Vault City went through many incarnations. It was}
 {13003}{}{designed by Leonard Boyarsky, Jason Anderson, Feargus}
 {13004}{}{Urquhart, and Chris Avellone. Scott Everts built the}
 {13005}{}{maps, and the brave men who scripted this architectural}
@@ -849,7 +849,7 @@
 {14018}{}{REDDING: Small mining community located west of Vault}
 {14019}{}{City. Redding trades gold ore for medical supplies}
 {14020}{}{from Vault City. All Vault Citizens are encouraged}
-{14021}{}{to exercise extreme caution when travelling inside}
+{14021}{}{to exercise extreme caution when traveling inside}
 {14022}{}{Redding, as the provincial miners are not strongly}
 {14023}{}{governed.}
 {14024}{}{}
@@ -936,7 +936,7 @@
 
 {15000}{}{NEW CALIFORNIA REPUBLIC INFORMATION DISK 5}
 {15001}{}{**END-PAR**}
-{15002}{}{This disk is seems to filled with reports about NCR - }
+{15002}{}{This disk seems to be filled with reports about NCR - }
 {15003}{}{monthly production totals, caravan schedules,         }
 {15004}{}{security rosters, minutes of Congressional hearings,  }
 {15005}{}{secret council reports, diplomatic correspondence     }
@@ -966,7 +966,7 @@
 {16016}{}{The New California Republic is dedicated to bringing  }
 {16017}{}{peace, security and justice to the people of the great}
 {16018}{}{west.  NCR's fine police forces constantly patrol and }
-{16019}{}{arrest any raiders, cannibals, slaverd, and lawless  }
+{16019}{}{arrest any raiders, cannibals, slavers, and lawless  }
 {16020}{}{mutants within the country, and the NCR army valiantly}
 {16021}{}{protects the borders against outside marauders. To    }
 {16022}{}{ensure justice and liberty, all citizens have access  }
@@ -983,7 +983,7 @@
 {16033}{}{representatives to the Hall of Congress. These        }
 {16034}{}{representatives select the President and              }
 {16035}{}{Vice-President to head the council and it is their    }
-{16036}{}{advice which guides the President's decisions.  For   }
+{16036}{}{advice which guides the President's decisions. For   }
 {16037}{}{ten terms now, President Tandi has been the unanimous }
 {16038}{}{choice of the council, who respect her wisdom and     }
 {16039}{}{foresight.                                            }
@@ -993,7 +993,7 @@
 {16043}{}{are eligible to become citizens of NCR. To become a   }
 {16044}{}{citizen all you have to do is move to NCR and present }
 {16045}{}{your claim for immigration. After citizenship training}
-{16046}{}{and processing your application,  you will be notified}
+{16046}{}{and processing your application, you will be notified}
 {16047}{}{of your new status as a PC (Provisional Citizen). From}
 {16048}{}{there, it's only a short step to full citizenship!}
 {16049}{}{**END-PAR**}
@@ -1014,7 +1014,7 @@
 {16064}{}{**END-PAR**}
 {16065}{}{So remember - WE'RE HERE. WHY NOT JOIN US?}
 {16066}{}{**END-PAR**}
-{16067}{}{Prepared by the New California Relations Advisory Panel}
+{16067}{}{Prepared by the New California Relations Advisory Panel.}
 {16068}{}{**END-PAR**}
 {16069}{}{NCRAP Pub. #A7-7893b}
 {16070}{}{This page was intentionally left blank.}
@@ -1053,7 +1053,7 @@
 {18010}{}{**END-PAR**}
 {18011}{}{It's been a long wait, and the work that has made this }
 {18012}{}{possible has been difficult. At times it seemed }
-{18013}{}{impossible, however through the brave and tireless }
+{18013}{}{impossible; however, through the brave and tireless }
 {18014}{}{efforts of our own head of the Chemical Corps, Dr. }
 {18015}{}{Charles Curling, the hour of our salvation is now at }
 {18016}{}{hand.}
@@ -1063,10 +1063,10 @@
 {18020}{}{**END-PAR**}
 {18021}{}{--Notes to self-}
 {18022}{}{1)  Go on like this for a bit to cover Curling's project.}
-{18023}{}{2)  Tell everyone how steadfast, etc., they are}
-{18024}{}{     Yadda, yadda, yadda}
+{18023}{}{2)  Tell everyone how steadfast, etc., they are.}
+{18024}{}{     Yadda, yadda, yadda.}
 {18025}{}{**END-PAR**}
-{18026}{}{Be sure to make a plug for reelection.}
+{18026}{}{Be sure to make a plug for re-election.}
 {18027}{}{**END-PAR**}
 {18028}{}{Remember NOT to hug my intern on the way down from the}
 {18029}{}{podium.}
@@ -1137,7 +1137,7 @@
 {20028}{}{contrast, the subjects extracted from Vault 13 tend }
 {20029}{}{to suffer subdural hemorrhaging and convulsions within }
 {20030}{}{one-hour of exposure, with death not occurring, on }
-{20031}{}{average, for another 14.5-hours.}
+{20031}{}{average, for another 14.5 hours.}
 {20032}{}{**END-PAR**}
 {20033}{}{In either case, the F.E.V.'s toxicity levels are now }
 {20034}{}{sufficient to insure a "clean-sweep" of all infested }
@@ -1150,7 +1150,7 @@
 {20041}{}{reach our .0001% saturation and 99.5% extermination }
 {20042}{}{level goal.}
 {20043}{}{**END-PAR**}
-{20044}{}{Current F.E.V. Curling-13, production levels show that}
+{20044}{}{Current F.E.V. Curling-13 production levels show that}
 {20045}{}{we'll reach our release goal, of 250,000 gallons, within}
 {20046}{}{six weeks.}
 {20047}{}{**END-PAR**}
@@ -1163,7 +1163,7 @@
 {21000}{}{Memo: A.E.C., Status Brief}
 {21001}{}{From: Tom Murray, Chairman, Atomic Energy Commission}
 {21002}{}{To: Cabinet}
-{21003}{}{Subject: Danger of overdependence  upon central computer }
+{21003}{}{Subject: Danger of overdependence upon central computer }
 {21004}{}{for all reactor control.}
 {21005}{}{**END-PAR**}
 {21006}{}{NOTE to the CABINET: I hate to be a nag by bringing }
@@ -1223,7 +1223,7 @@
 {21060}{}{some backup batteries that can be used to power vital }
 {21061}{}{systems throughout the Enclave until power is restored.}
 {21062}{}{However, these do not include extraneous and high energy }
-{21063}{}{items such as forcefields. Also, as a safety precaution,}
+{21063}{}{items such as forcefields. Also, as a safety precaution}
 {21064}{}{certain watertight doors throughout the station, will }
 {21065}{}{close when power is reduced (to prevent flooding in case }
 {21066}{}{of an emergency). This will restrict movement through the}

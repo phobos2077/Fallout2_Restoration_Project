@@ -83,14 +83,14 @@
 {170}{}{Disturbin' is what it is. Now miners are tellin' me that they'd rather rest out their final days
  here inside, rather than get planted only to be pulled back up like an overripe turnip. Hell, I wouldn't
  mind saving the cute ones inside, but not everyone. I don't know what all to do about it.}
-{171}{}{What a pleasant image that is. I'm sure that I'll wake up in a cold sweat thinking about that
+{171}{}{What a pleasant image that is. I'm sure that I'll wake up in cold sweat thinking about that
  one. Let me ask you something else.}
 {172}{}{It's a mystery, all right. Well, I'll see you around, Josh. Goodbye.}
 {173}{}{Well, I guess as long as you cook… Hold on a gol-darned minute. That's still cannibalism! You're
  one sick little unit, even for a tribal.}
 {174}{}{Relax, Josh. I was just kidding. Heh, heh. Heck, we just cook parts of them.}
 {175}{}{Parts, huh? Which parts 'xactly?}
-{176}{}{Who cares? (you shrug) Parts is parts.}
+{176}{}{Who cares? (you shrug) Parts are parts.}
 {177}{}{I was just pulling your leg, Josh. Let me ask you about something else.}
 {178}{}{Yeah, well I guess that makes a kind of sense.}
 {179}{}{Sure it does. Hey, let me ask you about something else.}

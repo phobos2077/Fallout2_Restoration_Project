@@ -13,9 +13,9 @@
 {112}{}{::nod head::}
 {113}{}{::shake head::}
 {114}{}{This is what we have, then.}
-{115}{}{- end -}
+{115}{}{[DONE]}
 {116}{}{Well, I'm afraid that's all I can do for you. Good day.}
-{117}{}{-done-}
+{117}{}{[DONE]}
 {118}{}{I'm Lao Chou. I run this establishment, Flying Dragon 8, a general store. I have been known to trade in... information.}
 {119}{}{What sort of information?}
 {120}{}{I see. I'd like some equipment.}
@@ -37,7 +37,7 @@
 {136}{}{Have you tried looking in the old Vaults? I hear that they are a wealth of information and technology of the ancients.}
 {137}{}{Thanks. I want more information.}
 {138}{}{Thanks. Bye.}
-{139}{}{A spleen? Ha ha! Yes, Chip from the Valdez lost his spleen in a card game the other day. I sold it to Dr. Wong.  He was fascinated by it.}
+{139}{}{A spleen? Ha ha! Yes, Chip from the Valdez lost his spleen in a card game the other day. I sold it to Dr. Wong. He was fascinated by it.}
 {140}{}{Dr. Wong? Where can I find him?}
 {141}{}{How do you lose a spleen?}
 {142}{}{Thanks. I have more questions.}
@@ -58,7 +58,7 @@
 {157}{}{They did not. They came from the north and flew over us, heading out over the sea.}
 {158}{}{Over the horizon? How the hell do I get there?}
 {159}{}{Yeah, right they did. Tell me where they are before I open you like a can of sardines.}
-{160}{}{Well... none of our boats are capable of that kind of distance.  Unless...}
+{160}{}{Well... none of our boats are capable of that kind of distance. Unless...}
 {161}{}{Unless...?}
 {162}{}{Thanks for your "help". I'm going to get me some real advice.}
 {163}{}{... unless you can get the old tanker on the docks working. It's an old ship, but probably still functional, if some work is put into it. Ask the punks for more information.}

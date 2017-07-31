@@ -116,7 +116,7 @@
 {194}{}{Sorry, no.}
 {195}{}{Me help.}
 {196}{}{Yes, I'll help you.}
-{197}{}{You must be the person who saved my daughter. I can never repay you for your kindness.Thank you.
+{197}{}{You must be the person who saved my daughter. I can never repay you for your kindness. Thank you.
  Please wait here, I need to talk to Chrissy and then I'd like to talk to you.}
 {198}{}{You saved my daughter. I can never repay you for your kindness. Thank you.
  Please wait here, I need to talk to Chrissy and then I'd like to talk to you.}

@@ -26,7 +26,8 @@
 {123}{}{Have you ever heard about something called a Garden of Eden Creation Kit?}
 {124}{}{I was just looking around, Jimmy. Thanks. Goodbye.}
 {125}{}{That I don't know. You'd have to ask the caravan drivers. You can usually find a caravan here
- on the 1st, 11th, and 21st of each month. Real neat and tidy that way. You see here, this is the way
+ on the 1st, 11th, and 21st of each month. If they are not here on those days, then that means the caravan is on its way
+ to arrive at Redding rather than leave it. Real neat and tidy that way. You see here, this is the way
  it works: When a caravan's in town and looking for help, the caravan master has his tent set up
  here just south of my castle. Real neat and tidy that way.}
 {126}{}{Your castle? What do you mean?}
@@ -53,9 +54,9 @@
 {142}{}{What can you tell me about the NCR?}
 {143}{}{Thanks. Let me ask you about something else.}
 {144}{}{That's all I need to know for now. Goodbye.}
-{145}{}{Now that's a town. Just make sure you keep your wits about you and your gun handy. Lot's of
+{145}{}{Now that's a town. Just make sure you keep your wits about you and your gun handy. Lots of
  fighting going on there. If those families ever worked together on something, then New Reno'd really be
- a power to be reckoned with. The way it is though…Pffft. You want to get there, join up with Savinelli -
+ a power to be reckoned with. The way it is though...Pffft. You want to get there, join up with Savinelli -
  he leaves here on the 21st of each month.}
 {146}{}{What can you tell me about Vault City?}
 {147}{}{What can you tell me about the NCR?}
@@ -76,7 +77,7 @@
 {157}{}{Thanks for the tip. Goodbye.}
 {158}{}{Yeah, I hear that they got some newbie to go scrounging around the Wanamingo mine for an old
  part.}
-{159}{}{I heard that the Sheriff got someone to do some of his his dirty work for him.}
+{159}{}{I heard that the Sheriff got someone to do some of his dirty work for him.}
 {160}{}{Not a whole lot going on lately, I guess. Just the usual digging, and caravans and stuff.}
 {161}{}{Yeah, well, that newbie is me. Got a problem with that?}
 {162}{}{Someone's got to keep order in this flea-pit of a town.}
@@ -89,9 +90,9 @@
  put the other mine outta business.}
 {169}{}{And…?}
 {170}{}{That's called capitalism, my friend. Goodbye.}
-{171}{}{Well, if the mine you give the chip to happens to be the Kokoweef Mine, then we're going to see
- a lot more Jet in town. If you give the chip to Dan McGrew over at the Morningstar, we're gonna get a
- lot of those NCR pukes nosing around, instead. Either way, someone wins an' someone loses.}
+{171}{}{Well, if the mine you give the chip to happens to be the Kokoweef Mine, then we're gonna get a
+ lot of those NCR pukes nosing around. If you give the chip to Dan McGrew over at the Morningstar, then 
+ we're going to see a lot more Jet in town, instead. Either way, someone wins an' someone loses.}
 {172}{}{If I didn't do it, someone else would. Tell me about something else.}
 {173}{}{That's the way of the world, isn't it? Goodbye.}
 {174}{}{As long as it's not me, pally. Long as it's not me.}

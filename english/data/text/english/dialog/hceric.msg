@@ -1,6 +1,6 @@
-{100}{}{You see a greasy, sweating man.}
+{100}{}{You see a greasy, sweating ghoul.}
 {101}{}{You see Eric.}
-{102}{}{You see a greasy, sweating man. He looks quite miserable.}
+{102}{}{You see a greasy, sweating ghoul. He looks quite miserable.}
 {103}{}{Like this town needed any more hard luck. Like *I* needed any more.}
 {104}{}{Come in already! Close the door behind you! Don't let in the flies!}
 {105}{}{Dries? F-f-f!}

@@ -72,6 +72,7 @@
 {159}{}{Interesting, but I need to get going.}
 {160}{}{Yeah, he's got a dog. Personally, I think it's the meanest, most vile creature on the face of
  the earth. It seems to love Darion, though, so I guess it can't be all that bad.}
+{161}{}{Me ask more.}
 {162}{}{Uh, bye.}
 {163}{}{I see. Well, thanks for the warning.}
 {164}{}{Ah. Well, I've got to go.}

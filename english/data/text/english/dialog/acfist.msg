@@ -1,6 +1,6 @@
 {100}{}{You see Lucas.}
 {101}{}{Lucas is the chief warrior of your tribe.}
-{102}{}{So there you are, the Chosen One. Hmmmph! How goes your quest?}
+{102}{}{So there you are, Chosen One. Hmmmph! How goes your quest?}
 {103}{}{Pretty well.}
 {104}{}{Not so good.}
 {105}{}{Ugh?!}

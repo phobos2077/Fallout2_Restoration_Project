@@ -1,4 +1,4 @@
-{100}{}{You see bar patron.}
+{100}{}{You see a bar patron.}
 {101}{}{You see Leanne.}
 {102}{}{She's very beautiful, but seems to be lost in thought.}
 {103}{}{Stop it!}
@@ -15,7 +15,7 @@
 {114}{}{Thanks for listening.}
 {115}{}{Nice to see you again.}
 {116}{}{Safe travels.}
-{117}{}{Why hello! Nice to see a new face around here. My name's Leanne. How are you, care to sit down?}
+{117}{}{Why hello! Nice to see a new face around here. My name's Leanne. How are you? Care to sit down?}
 {118}{}{Hello again. Doing well, I hope?}
 {119}{}{So, tell me what you know about the Master.}
 {120}{}{Great. How are things with you?}
@@ -34,7 +34,7 @@
 {136}{}{Yes. I am the Chosen One. My ancestor saved the world from one called the Master.}
 {137}{}{Yeah. My ancestor supposedly saved the world from someone called the 'Master.'}
 {138}{}{I've got to go.}
-{139}{}{Uh, okay. Nice to meet you Chosen One... Actually. I've heard something about a master before...}
+{139}{}{Uh, okay. Nice to meet you Chosen One... Actually, I've heard something about a master before...}
 {140}{}{How interesting. That reminds me of a story I heard a long time ago. Something about a master.}
 {141}{}{Really? What was it?}
 {142}{}{Tell me.}

@@ -42,7 +42,7 @@
 {141}{}{I found out where it is, but I think Dr. Wong has eaten it.}
 {142}{}{No, not yet. But I will.}
 {143}{}{No. Actually, I'm not looking.}
-{144}{}{All right. ::pant:: Before I do, maybe we ought to set up a way to get it back in me. Talk to Dr. Fung about that, right? Thanks.}
+{144}{}{All right. ::pant:: Before I do, maybe we ought to set up a way to get it back in me. Talk to Dr. Fung about that, all right? Thanks.}
 {145}{}{All right.}
 {146}{}{No.}
 {147}{}{I really appreciate what you're doing for me. I won't forget it.}

@@ -60,7 +60,7 @@
 {301}{}{"Chris Jones. Nightwing."}
 {302}{}{"Christopher Michael Holland, aka 'Chris Holland', aka 'Chris': There are two and a half reasons to read this headstone... Normally you would expect those reasons to be listed."}
 {303}{}{"Colin McComb: Another pointless life"}
-{304}{}{"David Hendee: the loudest amoung the dead. May he rest in peace, quietly."}
+{304}{}{"David Hendee: the loudest among the dead. May he rest in peace, quietly."}
 {305}{}{"Ed Hyland. He told the world to 'suck it.'"}
 {306}{}{"Eric Demilt. The TRUE Combat Boy."}
 {307}{}{"Feargus Urquhart: Made just one damn list too many."}
@@ -86,7 +86,7 @@
 {327}{}{"Tim Cain. Founder, Lover, Fighter, Programmer."}
 {328}{}{"Tramell Ray Isaac: Hear lies one of the hardest working men in this business. Animator extraordinare(sp?). I think. R.I.P. T.Ray"}
 {329}{}{"Zeb -- Still Older Than Dirt"}
-{330}{}{"Dennis Presnell. We can almost here him now. 'You call that a funeral?! That sucked! You guys are !@#holes! I'm never dying again! Blah blah blah...'" Scratched below it says, "God rest 'Cryin' D, shoulda kept on the patch."}
+{330}{}{"Dennis Presnell. We can almost hear him now. 'You call that a funeral?! That sucked! You guys are !@#holes! I'm never dying again! Blah blah blah...'" Scratched below it says, "God rest 'Cryin' D, shoulda kept on the patch."}
 {331}{}{"Rupert Diukos, died 9/24/96"}
 {332}{}{"Sal De Ban, died 9/24/96"}
 {333}{}{"Greg Zeschule, Fall '99"}
@@ -95,10 +95,10 @@
 {336}{}{"Here lies Moose, cold and dead. We found him here, without his head."}
 {337}{}{"Amy Presnell"}
 {338}{}{"Stephen Bokkes, age 25. Cut down in his prime by the slings and arrows of outrageous fortune." }
-{339}{}{"R.I.P. Doug "Skully" Finch (Date does not matter) Killed for smoking in the French Market. Last words - `Donkey Punches to ya!'"}
+{339}{}{"R.I.P. Doug "Skully" Finch (Date does not matter) Killed for smoking in the French Market. Last words - 'Donkey Punches to ya!'"}
 {340}{}{"Here lies Donnie Cornwell, good and dead.  In an extra large coffin to fit his extra large head."}
 {341}{}{"Rob Giampa lived his life like he liked his women: fast, cheap, and easy."}
-{342}{}{"T. D. Hamilton: Hear lies a stank hoe that should have been dead a long time ago. rest in hell, BITCH!"}
+{342}{}{"T. D. Hamilton: Hear lies a stank hoe that should have been dead a long time ago. Rest in hell, BITCH!"}
 {343}{}{"Another victim of the deadline."}
 {344}{}{"Dogbomb is dead. Long live the Dog."}
 {345}{}{"Kris Snider: Too competitive"}

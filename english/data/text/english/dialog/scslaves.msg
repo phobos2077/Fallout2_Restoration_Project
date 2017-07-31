@@ -12,14 +12,14 @@
 {111}{}{No more! Please, not the House of Pain!}
 {112}{}{Stay away from me!}
 {113}{}{Monster! You and your kind did this to me!}
-{114}{}{The judgement of the Almighty shall fall upon you!}
+{114}{}{The judgment of the Almighty shall fall upon you!}
 {115}{}{I obey your every word.}
 {116}{}{And the meek shall inherit the earth.}
 {117}{}{I'll be good. I'm a good slave.}
 {118}{}{Freedom! Sweet blessed freedom!}
 {119}{}{Look what you've done - you've ruined my life!}
 {120}{}{Can't stop. Gotta run. Can't let them catch me.}
-{121}{}{Shit! I doomed - they're gonna hunt me down and kill me.}
+{121}{}{Shit! I'm doomed - they're gonna hunt me down and kill me.}
 {122}{}{Where do I go now? What do I do?}
 {123}{}{Thanks a lot. Now I got some slaver blood to spill.}
 {124}{}{I don't believe it - I'm free!}

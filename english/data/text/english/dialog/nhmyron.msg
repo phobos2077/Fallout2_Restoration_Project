@@ -112,23 +112,23 @@
 
 # 14. USE DRUGS ON MYRON (WTG)
 {465}{}{Hey, thanks. I could use a little pick me up.}
-{466}{}{Nothing like a strict chem regimen to keep my mind limber.}
+{466}{}{Nothing like a strict drug regimen to keep my mind limber.}
 {467}{}{This doesn't mean we're married, does it?}
 {468}{}{Got any weed?}
 {469}{}{Let me hold the stimpacks, okay?}
 {470}{}{Ahhhhhhhhh.}
 {471}{}{Ooooooohhh. Aaaaaaaah. Mmmmmm.}
 {472}{}{I love it when you do that.}
-{473}{}{Chems make me feel all pixellated.}
+{473}{}{Drugs make me feel all pixilated.}
 
 # 15. USE JET ON MYRON (WTG)
-{485}{}{Hey, don't use that shit on me! Save it for reliants!}
+{485}{}{Hey, don't use that shit on me! Save it for addicts!}
 {486}{}{Look, I don't want to fly, and you don't either. Bury that shit somewhere.}
 {487}{}{Why don't you give that shit to ol' Bone-nose?}
 
 # 16. USE JET ON MYRON W/MARCUS + LENNY (WTG)
 {495}{}{Why don't you give that shit to ol' Marcus?}
-{496}{}{Hey, don't use that shit on me! Save it for reliants!}
+{496}{}{Hey, don't use that shit on me! Save it for addicts!}
 {497}{}{Man, I don't want to fly and you don't either. Bury that shit somewhere.}
 {498}{}{Why don't you give that shit to ol' Lenny?}
 
@@ -157,7 +157,7 @@
 {533}{}{Crap! I tried everything…}
 {534}{}{I can't do anything with this.}
 {535}{}{I didn't find out anything. This time.}
-{536}{}{Maybe with some mentats I could pull this off…mmmm. Mentats.}
+{536}{}{Maybe with some Mentats I could pull this off…mmmm. Mentats.}
 {537}{}{My skill ain't high enough. Spend some skill points on me, then I'll try again. Ha-Ha.}
 {538}{}{I didn't learn anything.}
 {539}{}{I can't make a successful Science Roll under these conditions.}
@@ -173,8 +173,8 @@
 # 21. USE HEALING (WOUNDED) (WTG)
 {560}{}{Don't need to tell me twice.}
 {561}{}{I could use some womanly healing, know what I mean?}
-{562}{}{Ahhhhhhh. Good thing stimpacks aren't too habit-forming.}
-{563}{}{Oooooh, yeah. Good thing stimpacks aren't too habit-forming.}
+{562}{}{Ahhhhhhh. Good thing stimpacks aren't too addictive.}
+{563}{}{Oooooh, yeah. Good thing stimpacks aren't too addictive.}
 
 # 22. USE HEALING (NOT WOUNDED) (WTG)
 {570}{}{Don't inject me with that shit. I'm fine, okay?}
@@ -232,7 +232,7 @@
 # 106. I HAD SOME QUESTIONS . . . (101, 108, 109, 112-131, 133-137, 143, 145-149, 151-154, 1001, 1003, 1004, 1005, 1006)
 {645}{myn106}{Yeah. What's on your mind?}
 {646}{}{Tell me about Jet.}
-{647}{}{Can you make any Chems?}
+{647}{}{Can you make any drugs?}
 {648}{}{You don't look in top shape, Myron. Try and patch yourself up.}
 {650}{}{Where was that Mordino stash you were talking about?}
 
@@ -269,7 +269,7 @@
 {701}{}{Uh, about the Jet --?}
 
 # 112. HOW DID YOU DEVELOP IT, SMART GUY, 3? (111)
-{710}{myn112}{Plus, a peyote trip is too long. The profit's in fast turn around and high addiction. Like, uh, barbitutates before the Big One, y'know?}
+{710}{myn112}{Plus, a peyote trip is too long. The profit's in fast turn around and high addiction. Like, uh, barbiturates before the Big One, y'know?}
 {711}{}{I hope this is leading somewhere.}
 {712}{}{If you say so.}
 {713}{}{Barbiturates…like old school cocaine, crank, all that?}
@@ -288,7 +288,7 @@
 
 # 114A.
 {740}{myn114a}{Couldn't grow coca plants, opium poppies -- and man did we try -- so we figured our best bet was shrooms. }
-{741}{myn114b}{Right, sherlock. And we tried -- so we figured our best bet was shrooms. }
+{741}{myn114b}{Right, Sherlock. And we tried -- so we figured our best bet was shrooms. }
 {5741}{}{Why?}
 
 # 114B. CONTINUE 2 . . . (113)
@@ -322,7 +322,7 @@
 {801}{}{And you say…}
 
 # 120. EXPLAIN TO ME ABOUT REDDING AGAIN (119)
-{810}{myn120}{And I say, 'okay, what timeframe we looking at?' He goes - of course - 'yesterday.' Crime lords. Want everything done fast and sloppy. Least they don't have a marketing department.}
+{810}{myn120}{And I say, 'Okay, what timeframe we looking at?' He goes - of course - 'Yesterday.' Crime lords. Want everything done fast and sloppy. Least they don't have a marketing department.}
 {811}{}{I see. Go back to talking about Jet production.}
 
 # 121. PROTEIN 1? (118)
@@ -357,19 +357,19 @@
 {862}{}{Uh, how much testing?}
 {863}{}{How much testing exactly?}
 {865}{}{Nevermind, Myron.}
-{866}{}{This sounds like a load of crap…literally. It doesn't sound like you know anything about chem manufacture. "Brahmin Shit Fumes?" Please. I've heard enough.}
+{866}{}{This sounds like a load of crap…literally. It doesn't sound like you know anything about drug manufacture. "Brahmin Shit Fumes?" Please. I've heard enough.}
 
 # 126. TESTING? (125)
 {870}{myn126}{Hmmm...about a hundred slaves? Mostly heart attacks, cerebral hemorrhages, psychotic episodes...that sort of thing.}
-{871}{}{Are you insane? You killed a hundred human beings just for chem testing?!}
+{871}{}{Are you insane? You killed a hundred human beings just for drug testing?!}
 {872}{}{Figures…Jet can be pretty powerful stuff. Least nobody important died. Still, hard to believe you killed that many, though…}
 {873}{}{I see. Look, I had some other questions...}
 
 # 127. YOU KILLED A HUNDRED HUMAN BEINGS . . . (126)
 {880}{myn127}{Well, not on purpose. I mean, slaves are expensive. Still, we made the money back in the first few months, so the Mordino Family wasn't too pissed at me.}
 {881}{}{I think you and I are going to get along, Myron. Ends justify the means. Say, I had some other questions…}
-{882}{}{Myron, you are lower than a snake's shadow. Killing humans for chem testing…that's the coldest thing I've ever heard.}
-{883}{}{Myron, you killed over a hundred humans beings for the sake of chem testing? Did you get your conscience lobotomized when you were a kid?}
+{882}{}{Myron, you are lower than a snake's shadow. Killing humans for drug testing…that's the coldest thing I've ever heard.}
+{883}{}{Myron, you killed over a hundred humans beings for the sake of drug testing? Did you get your conscience lobotomized when you were a kid?}
 {884}{}{Tell me about it. Slave prices keep going up. If humans only bred faster. Anyway, I had some other questions…}
 {885}{}{I…see. Look, I had some other questions…}
 {886}{}{I think I've heard enough.}
@@ -389,12 +389,12 @@
 
 # 130. YOU'RE PRETTY SMART . . . (129)
 {910}{myn130}{Ah for fuck's sake, it can't be done, all right? It's a goddamn drug, not a bacterial infection.}
-{911}{}{It's basically a highly habitual meta-amphetamine, right? Couldn't you use a nervous system suppressant to break the reliance?}
+{911}{}{It's basically a highly addictive meta-amphetamine, right? Couldn't you use a nervous system suppressant to break the addiction?}
 {913}{}{Nevermind, Myron. Forget I asked.}
 
 # 131. IT'S BASICALLY A HIGHLY ADDICTIVE . . . (130)
 {920}{myn131}{Nice try, no dice. Jet ain't blocked that easy. Once it's in your system, it ain't coming out.}
-{921}{}{What about using some kind of endorphin blocker? That would repress the chemical and psychological addition, wouldn't it?}
+{921}{}{What about using some kind of endorphin blocker? That would repress the chemical and psychological addiction, wouldn't it?}
 {924}{}{Nevermind then.}
 
 # 132. WHAT ABOUT AN ENDORPHINE BLOCKER 1 . . . ? (131)
@@ -402,7 +402,7 @@
 {931}{}{Well?}
 
 # 133. WHAT ABOUT AN ENDORPHINE BLOCKER 2 . . . ? (132)
-{940}{myn133}{Well...maybe it would work, but I'm pretty sure Jet would just chew right through that shit. Now wh-wh-why the hell are we even talking about this?! Wh-where would you get your hands on endorphine blockers anyway?}
+{940}{myn133}{Well...maybe it would work, but I'm pretty sure Jet would just chew right through that shit. Now wh-wh-why the hell are we even talking about this?! Wh-where would you get your hands on endorphin blockers anyway?}
 {941}{}{You tell me, Myron. You're a bright guy.}
 
 # 134. YOU TELL ME . . . (133)
@@ -463,7 +463,7 @@
 # 145. I NEED SOME RAD-SCORPION ANTIDOTE (NO TAILS) (143)
 {1050}{myn145a}{Uhm, I'm gonna need some radscorpion venom sacs first. Ironic, in'it?}
 {1051}{myn145b}{Oh, well, I'd looove to, beautiful, but I need radscorpion tails. Oh, well.}
-{1052}{}{Can you make any other chems?}
+{1052}{}{Can you make any other drugs?}
 {1053}{}{Forget it then. I had some questions…}
 
 # 146. I NEED SOME RAD-SCORPION ANTIDOTE (TAILS) (143)
@@ -473,7 +473,7 @@
 {1063}{}{Just one.}
 {1065}{}{Three's a charm.}
 {1066}{}{Make antidote out of all the tails that we have. They aren't good for much else.}
-{1067}{}{Forget it. Can you make any other chems?}
+{1067}{}{Forget it. Can you make any other drugs?}
 {1068}{}{None; I've changed my mind. I had some questions…}
 
 # 147. FINISHED RAD-SCORPION ANTIDOTE (TAILS) (146)
@@ -497,8 +497,8 @@
 {1114}{}{Forget it. I had some questions...}
 
 # 151. CAN'T MAKE STIM-PACKS (143)
-{1125}{myn151}{Sorry, we just ain't got what I need to whip up a stim. Let's see: You'll need some xander root…some rockflower...and an empty hypo.}
-{1126}{}{Can you make some other chems?}
+{1125}{myn151}{Sorry, we just ain't got what I need to whip up a stim. Let's see: You'll need some xander root…some broc flower...and an empty hypo.}
+{1126}{}{Can you make some other drugs?}
 {1127}{}{If you can make stimpacks, couldn't you make some super stimpacks?}
 {1128}{}{All right then. I had some questions...}
 
@@ -612,7 +612,7 @@
 {1347}{myn216c}{You bet, beautiful. }
 {1348}{myn216d}{I-I can give you drugs. You lookin' to fly?}
 {1349}{}{Actually, I want everything you have. Hand it over, and I'll let you live.}
-{1350}{}{Sure. Give me all the chems you got.}
+{1350}{}{Sure. Give me all the drugs you got.}
 {1351}{}{I don't want anything right now. Maybe later.}
 
 # 217. GIVE ME EVERYTHING (216)
@@ -634,8 +634,8 @@
 # 219. I'M [x]/I'M JUST A TRAVELER PASSING THROUGH (218)
 {1395}{myn219a}{That so? Why are you here? Huh? Thought you could hit Myron up for some free drugs?}
 {1396}{myn219b}{Whatever, beautiful. Want some drugs to break the ice, or should we just get down to some mattress dancing?}
-{1397}{}{I would, but I don't have ten seconds to spare right now. What chems are you talking about?}
-{1398}{}{Chems? Like what?}
+{1397}{}{I would, but I don't have ten seconds to spare right now. What drugs are you talking about?}
+{1398}{}{Drugs? Like what?}
 {1399}{}{I'm definitely in the wrong room. Pardon me.}
 
 # 220. DRUGS? LIKE WHAT? (219)
@@ -740,11 +740,11 @@
 {1576}{myn232b}{All right, beautiful. }
 {1577}{myn232c}{Why the hell not? Let's blow this popsicle stand.}
 {1578}{}{We're outta here.}
-{1579}{}{It's 106 miles to Arroyo, we got a full fusion cell, half a pack of Radaway, it's midnight, and I'm wearing a 50-year old Vault 13 jumpsuit. Let's hit it.}
+{1579}{}{It's 106 miles to Arroyo, we got a full fusion cell, half a pack of RadAway, it's midnight, and I'm wearing a 50-year old Vault 13 jumpsuit. Let's hit it.}
 
 # 233. WHAT CAN YOU DO? (229, 247)
 {1585}{myn233}{Ah! What, you need Myron's resume? I'm the science guy. Know all, see all. Not to mention I can make whatever drugs you need. With the right raw materials.}
-{1586}{}{All right then, you've passed the interview. The part about the chems helped. Follow me.}
+{1586}{}{All right then, you've passed the interview. The part about the drugs helped. Follow me.}
 {1587}{}{I'll think about it. I have a few more questions for you...}
 {1588}{}{Well, I'll think about it...it's just that, well, no offense, but science guys have a notorious reputation for being near worthless in combat.}
 {1589}{}{I'll need to think about it. I'll be back.}
@@ -930,3 +930,8 @@
 {3005}{}{Nevermind, there's something else I needed from you.}
 
 {3025}{}{Whatever.}
+
+#added by kilap - NPC info
+{5000}{}{Fuck! Fuck! I can't feel this limb anymore!}
+{5001}{}{I feel like I am fucking melting!}
+{5002}{}{I'm puking my fucking guts out over here!}

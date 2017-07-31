@@ -28,7 +28,7 @@
  we requested. *Zzzttt*}
 {206}{}{Right, of course. Uh, and you brought the lightbringers...?}
 {207}{}{*Zztttt* The laser weapons are in our cargo bay. *Zzzttt**}
-{208}{}{*Zztttt* To insure your cooperation, we will transmit the arming sequence for them
+{208}{}{*Zztttt* To ensure your cooperation, we will transmit the arming sequence for them
  once the chemicals are loaded. *Zzzttt*}
 {209}{}{Uh...well...all right then. Load her up, boys --}
 {210}{}{*Zztttt* No. *Zzzttt*}

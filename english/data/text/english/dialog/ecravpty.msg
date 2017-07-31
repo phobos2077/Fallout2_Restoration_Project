@@ -1,7 +1,8 @@
 {100}{}{This person seems to be swaying slightly.}
 {101}{}{You see the party bartender.}
 {102}{}{It seems he's been sampling some of his merchandise.}
-{202}{}{It seems she's been sampling some of her own merchandise.}
+#edit below by killap - was 202
+{210}{}{It seems she's been sampling some of her own merchandise.}
 {103}{}{Wha...whas..what cans I gets yas. [Hick.]}
 {104}{}{Nuka Cola [$6]}
 {105}{}{Beer [$15]}
@@ -20,7 +21,7 @@
 {117}{}{Ahhh man! You don't have enuf money! Cum back when ya gets sum.}
 {118}{}{[End]}
 {119}{}{He has a bit of a wild look to him.}
-{120}{}{You see a reliant.}
+{120}{}{You see an addict.}
 {121}{}{He seems a bit jittery.}
 {122}{}{Whatdoyawant? Igotitall!}
 {123}{}{Mentats [$560]}
@@ -51,7 +52,7 @@
 {157}{}{Go get jiggy ..somewhere else.}
 #prop Drunk
 {158}{}{How about you and me get away from the crowd?}
-{159}{}{Uhh, lets do it!}
+{159}{}{Uhh, let's do it!}
 {160}{}{Naa, I'm drunk.}
 {161}{}{[Burb] ::smile::}
 

@@ -58,7 +58,7 @@
 {157}{}{Do you know how you're going to do that?}
 {158}{}{I have other questions.}
 {159}{}{Thanks. Bye.}
-{160}{}{We're hoping that if we can avoid society's mistakes. Hell, things can't get much worse.}
+{160}{}{We're hoping that we can avoid society's mistakes. Hell, things can't get much worse.}
 {161}{}{Have you figured out to move the tanker?}
 {162}{}{Tell me about the Hubologists.}
 {163}{}{Tell me about the Shi.}

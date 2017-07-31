@@ -51,12 +51,12 @@
 {150}{}{I was looking for that. Hey, are you the Overseer?}
 {151}{}{A GECK? We must have a couple of them. You're welcome to one. I think I saw some troopers loading one of our GECKs into a vertibird.}
 {152}{}{You saw them load a GECK? Do you know where they put it?}
-{153}{}{That's Okay. I already helped myself to a GECK from our vault. Let me ask you something else.}
+{153}{}{That's okay. I already helped myself to a GECK from our vault. Let me ask you something else.}
 {154}{}{I don't know exactly where they put it but I did hear them say that they were going to leave it in the barrier level, just below this level, I think.}
 {155}{}{That's great. Thanks. I better be going.}
 {156}{}{Ah, I see. Let me ask you something else.}
 {157}{}{Wait! You've got to get us out of this place.}
-{158}{}{I plan to. I'm going downstairs to the powerplant to shut the power off and free you. When the fields are down, run topside for the ship I've got there.}
+{158}{}{I plan to. I'm going downstairs to the power plant to shut the power off and free you. When the fields are down, run topside for the ship I've got there.}
 {159}{}{How can I do that?}
 {160}{}{You should have thought of that *before* you kicked my ancestor out of the vault. I hope you all rot here. Goodbye.}
 {161}{}{Thank you. Godspeed and good luck to you friend.}
@@ -83,3 +83,4 @@
 {182}{}{I wish I knew how to save you.}
 {183}{}{I'll think about it.}
 {184}{}{What a bizarre coincidence! Let me ask you about something else.}
+

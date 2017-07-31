@@ -60,13 +60,13 @@
 {292}{}{I wanna be you when I grow up.}
 {293}{}{Why you wanna be me? Me DUMB}
 {294}{}{Me once wear girl head like hat.}
-{295}{}{Wander off}
+{295}{}{[Wander off]}
 {296}{}{Heh-heh. Why thank you, little one. But take a tip from }
 {297}{}{Follow your dreams. You can achieve your goals. I'm living proof.}
 {298}{}{Sure you can. Say, I was sorry to hear about your brother, Richie. Do you know what happened to him?}
 {299}{}{I once drove through three states wearing this one little girl's head like a hat.}
-{300}{}{(Let him go back to playing.)}
-{301}{}{(Let her go back to playing.)}
+{300}{}{[Let him go back to playing.]}
+{301}{}{[Let her go back to playing.]}
 
 # 11. WHY YOU WANNA BE ME? ME DUMB. (10)
 {310}{}{Uh-uh! Yer SMART! Yer a HERO and yer BRAVE and I wanna be YOU when I grow up. Thanks fer savin' us, }
@@ -109,7 +109,7 @@
 # 18. POOR RESPONSE (16, 17)
 {395}{}{Nuh-uh, DUMBHEAD! (The kid runs off, his laughter ringing cruelly in your ears.)}
 {396}{}{Me no want to talk to you ANYWAY... *snfff*... me... *snfff*... have a PARTY...
- with *snfff* CAKE and ICE CREAM... and YOU cant come [Leave.]}
+ with *snfff* CAKE and ICE CREAM... and YOU can't come [Leave.]}
 
 # 19. YER DUMB-ESSTT-ERR (17)
 {405}{}{(The kid blinks, opens his mouth, then closes it. A tear wells up and turns into a full sob.)}
@@ -293,12 +293,12 @@
 {933}{}{Mommy's been really sad since my brother Richie died.}
 {934}{}{Mommy's down by the church again.}
 {935}{}{Our family is the best.}
-{936}{}{Phfttttt}
+{936}{}{Phfttttt!}
 {937}{}{Poopy-head! Poopy-head!}
 {938}{}{Uncle Nick says cussing isn't necessary. Uncle Nick needs to get out more.}
 {939}{}{Wanna play tribals and slavers?}
 {940}{}{We have seventeen brothers and sisters.}
-{941}{}{Wheeeeeeee}
+{941}{}{Wheeeeeeee!}
 {942}{}{Yer it!}
 {943}{}{You got cooties!}
 {944}{}{You look like a radscorpion!}

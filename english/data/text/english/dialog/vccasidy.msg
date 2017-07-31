@@ -152,7 +152,7 @@
 {327}{}{Redding's a mining town. Gold, mostly. A lot of caravans came to Vault City from here.}
 {328}{}{Broken Hills is a mining town...mostly uranium ore. It can be a rough place, so watch yourself.}
 {329}{}{I got some poison runnin' through my system. Got any antidote?}
-{330}{}{I'm glowing like a neon sign over here. Got any anti-radiation chems?}
+{330}{}{I'm glowing like a neon sign over here. Got any anti-radiation drugs?}
 {331}{}{I'm hurting pretty bad over here. Got any stims?}
 {332}{}{You keep your nose clean, Myron. I'm watching you.}
 {333}{}{Step outta line, Myron, and I'm gonna cut you.}
@@ -194,6 +194,7 @@
 {369}{}{I'm about due for some crutches and a wheelchair over here.}
 {370}{}{Cassidy dies of a heart attack.}
 {371}{}{You have convinced Cassidy to join your party.}
+{372}{}{Just let me pop a heart pill first...} # Seraph's Code
 
 {1000}{}{Well...all right, then. I'll wait here 'til you get back. }
 {1100}{}{Sure. Can't promise I won't pull it out again if there's trouble, though.}

@@ -1,4 +1,4 @@
-{100}{}{A man dressed in standard military combat armor.}
+{100}{}{You see a man dressed in standard military combat armor.}
 {101}{}{He looks healthy, but seems quite disoriented.}
 {102}{}{Oh, my head.}
 {103}{}{Who are you?}

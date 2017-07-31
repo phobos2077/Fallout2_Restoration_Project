@@ -2,6 +2,8 @@
 {100}{}{You see a guard.}
 
 {150}{}{He's one of Tyler's guards.}
+# Seraph: Part of Haenlomal's gang fixes.
+{151}{}{She's one of Tyler's guards.}
 
 # 1. Hostile
 {200}{}{You still alive?}

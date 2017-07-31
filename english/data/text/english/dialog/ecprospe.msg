@@ -1,4 +1,4 @@
-{100}{}{Prospector}
+{100}{}{You see a Prospector.}
 {101}{}{Hold it right there, stranger! I'm not used to ambushing strangers, but I need supplies and I
  can't leave my claim. Want to do a quick trade?}
 {102}{}{Sure.}

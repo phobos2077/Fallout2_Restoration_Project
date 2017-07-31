@@ -52,7 +52,7 @@
 {146}{aeld11}{Klamath is to the east.}
 {147}{}{There are other things I would learn.}
 {148}{}{I am ready. Goodbye.}
-{149}{aeld12}{The holy Thirteen? I can not help you. Only the Vault Dweller knew. His tales have
+{149}{aeld12}{The holy Thirteen? I cannot help you. Only the Vault Dweller knew. His tales have
  the sound of a perilous journey. }
 {150}{}{I see. There is much I need to know.}
 {151}{}{Goodbye, Elder.}
@@ -64,7 +64,7 @@
 {156}{aeld14b}{You are a traitor!}
 {157}{aeld14c}{Why do you do this?}
 {158}{aeld14d}{I knew you had the soul of darkness!}
-{159}{aeld15}{Then take this flask. It is from the holy Vault 13.  Vic, a trader in Klamath,
+{159}{aeld15}{Then take this flask. It is from the holy Vault 13. Vic, a trader in Klamath,
  brought it to us. He may know where the vault is. You may also need some of what they
  call money. Here.}
 {160}{}{Uh… What was my quest again?}
@@ -78,7 +78,7 @@
 {166}{}{All right, I'm going.}
 {167}{}{I will not fail you elder.}
 {168}{}{I'm working on it, Ok?}
-{169}{aeld18}{Once again you return without the GECK.  Our crops begin to fail us, Chosen. Our
+{169}{aeld18}{Once again you return without the GECK. Our crops begin to fail us, Chosen. Our
  need becomes greater with the passage of time. Go find the holy Thirteen!}
 {170}{}{Ok, me go now.}
 {171}{}{Yes, Elder.}
@@ -122,7 +122,7 @@
 {218}{eeld6}{If you destroy the machine, we will find the ship. Hurry, there are not many of us left. }
 {219}{}{What happened?}
 {220}{}{I understand.}
-{221}{eeld7}{You must destroy the machine and kill the devils in this place. We will meet you outside! And Chosen One, if you have not found the GECK, seek it here. Our freedom is nothing if we can not save our village. Now go!}
+{221}{eeld7}{You must destroy the machine and kill the devils in this place. We will meet you outside! And Chosen One, if you have not found the GECK, seek it here. Our freedom is nothing if we cannot save our village. Now go!}
 {222}{}{Goodbye.}
 {223}{eeld8}{I am still the Elder. Remember your place! Apologize or I will not help you anymore.}
 {224}{}{Sorry, you're not an old bitch. What's going on?}
@@ -133,7 +133,7 @@
 {229}{}{Where was I supposed to go?}
 {230}{}{Just wanted to annoy you. I'm on it. Don't worry.}
 {231}{eeld11}{(sigh) Go below. Kill. Smash machines. Go now!}
-{232}{eeld12}{Listen this time! Go to the levels below us. Find the machine that makes power. Stop it and we can escape. The men here are not true to the Vault dream. They are evil. Also, if you have not yet found the GECK, seek it here. Our freedom is nothing if our village can not be saved. Now go!}
+{232}{eeld12}{Listen this time! Go to the levels below us. Find the machine that makes power. Stop it and we can escape. The men here are not true to the Vault dream. They are evil. Also, if you have not yet found the GECK, seek it here. Our freedom is nothing if our village cannot be saved. Now go!}
 {233}{}{Got it.}
 {234}{eeld13}{That is what they call it. They stick needles into our skin, like stimpacks, but then terrible things happen. Then... (chokes up)}
 {235}{}{Then what?}
@@ -141,3 +141,4 @@
 {237}{eeld13a}{Then the skin bubbles like maggots beneath it. Boils grow and burst. Blood runs from your ears and your tongue swells. Those who are lucky choke to death. Those who are not…}
 {238}{}{They'll pay.}
 {239}{}{That certainly was disgusting. What am I supposed to do?}
+

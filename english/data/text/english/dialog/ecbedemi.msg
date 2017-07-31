@@ -1,5 +1,5 @@
-{100}{}{A man in power armor.}
-{101}{}{Sir Bedemir.}
+{100}{}{You see a man in power armor.}
+{101}{}{This is Sir Bedemir.}
 {102}{}{He seems to be deep in thought.}
 {103}{}{Sir Bedemir at your service.}
 {104}{}{...and that is how we know that the Earth is banana-shaped.}

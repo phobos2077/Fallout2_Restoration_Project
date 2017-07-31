@@ -74,7 +74,7 @@
 {166}{}{You may be correct, }
 {167}{}{, but not in our current situation. You must defeat me to succeed in your trial.}
 {168}{}{Look, I don't know all of your strengths and weaknesses, and you don't know mine.
- Accidents do happen, so what if one of us inadvertently kills the other other? Let's just
+ Accidents do happen, so what if one of us inadvertently kills the other? Let's just
  end this now rather than take that chance, okay?}
 {169}{}{Hmm... I see your point. I wouldn't want to be responsible for
  killing you when all I meant to do was test your mettle. Very well -- you may
@@ -89,10 +89,10 @@
 {201}{}{You have a tongue of purest silver, Chosen One. Your skill with words will open many doors
  for you.}
 
-{300}{}{And to you as well, Chosen One. May the spirits guid you on your quest.}
+{300}{}{And to you as well, Chosen One. May the spirits guide you on your quest.}
 {301}{}{Thanks, Cameron.}
 
-{302}{}{Chosen One, I could not help but notice that you lack strong combat skills. It has been my experience that you can not always rely on your wits or words for protection. With your permission I will teach you a few things that I think you will find most useful.}
+{302}{}{Chosen One, I could not help but notice that you lack strong combat skills. It has been my experience that you cannot always rely on your wits or words for protection. With your permission I will teach you a few things that I think you will find most useful.}
 {303}{}{Yes, you teach.}
 {304}{}{No, me not need.}
 {305}{}{Yes, please teach me all that you can.}

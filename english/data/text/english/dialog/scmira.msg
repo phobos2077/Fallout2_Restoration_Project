@@ -1,5 +1,5 @@
 {100}{}{You'd guess that even with the green hair and the scowl, she's the bartender of this joint.}
-{101}{}{That's Mira. She mixes a mean Rad-A-Waster}
+{101}{}{That's Mira. She mixes a mean Rad-A-Waster.}
 {102}{}{Well, she's young and attractive, but there's just a look in her eye that says she don't take no crap from anybody. That and the spiked knuckles hanging on the chain around her neck.}
 {103}{}{Mira's the name. What'll ya have, stranger?}
 {104}{}{Hello again. What'll it be?}
@@ -13,7 +13,7 @@
 {112}{}{Well, aren't you the one! Just the way I like them.}
 {113}{}{Back again?}
 {114}{}{Yubba.}
-{115}{}{Whoa - ya just worked Lenny. Immmpressive! Have a drink on the house.}
+{115}{}{Whoa - ya just worked Lenny. Impressive! Have a drink on the house.}
 {116}{}{What ya did to Lenny - it was wicked!}
 {117}{}{Oh my, a stunning conversationalist. What'll ya take - a Rad-A-Waster? Only ten bucks.}
 {118}{}{Yes.}
@@ -82,7 +82,7 @@
 {181}{}{Mira hear Jack got hurt. Good work, Dumbo. Here gun, ya take. Thanks.}
 {182}{}{Screw ya, too. I'm never gonna be free of that bastard.}
 #latter additions
-{183}{}{You need to talk to Merk, but he’s not here. Come back at night. That’s more his time.}
+{183}{}{You need to talk to Merk, but he's not here. Come back at night. That's more his time.}
 {184}{}{I don't know what you did to Lenny, but I wouldn't hang around here. It ain't gonna make you to popular.}
 {185}{}{Hey, I warned you. Oh, well. ..}
 

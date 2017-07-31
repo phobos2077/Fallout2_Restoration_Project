@@ -57,7 +57,7 @@
 {156}{}{Raiders?}
 {157}{}{About those Raiders...}
 {158}{}{Can I ask you some questions?}
-{159}{}{Thanks.  Goodbye.}
+{159}{}{Thanks. Goodbye.}
 {160}{}{Permission to speak freely, sir.}
 {161}{}{Granted.}
 {162}{}{No. I had some other questions for you, first.}
@@ -73,7 +73,7 @@
 {172}{}{Maybe your friend Cassidy there didn't tell you that he had illegal substances on the premises, and his license for alcohol distribution had expired. You forget to tell your friend here that, Cassidy?}
 {173}{}{Cassidy says he was all paid up and you raided his place anyway.}
 {174}{}{Forget it. I had some other questions...}
-{175}{}{Never mind then.  Goodbye.}
+{175}{}{Never mind then. Goodbye.}
 {176}{}{No, sir. Mr. Cassidy had not paid his licensing fee for alcohol for the month, yet was still selling it on the premises. His list of payments are logged in the computer.}
 {177}{}{Cassidy was guilty of possession without a license. He doesn't like it, he can leave Vault City. That simple.}
 {178}{}{I believe you, Sergeant. Well done. Now listen to me: I want you to pardon Mr. Cassidy, wipe his record clean, and pay him restitution for the damages you caused his establishment.}
@@ -198,7 +198,7 @@
 {297}{}{If that's what it takes...thanks for the information.}
 {298}{}{Yeah, we have a small group of patrols. Can barely spare the men to protect Vault City, much less do all the reconnaissance that needs to be done.}
 {299}{}{Recon-o-what?}
-{300}{}{I do a lot of travelling. Anything I can help with?}
+{300}{}{I do a lot of traveling. Anything I can help with?}
 {301}{}{Sorry to hear that. I had some other questions...}
 {302}{}{Never mind then. Goodbye.}
 {303}{}{Scouting.}
@@ -207,7 +207,7 @@
 {306}{}{Forget it. I had some other questions...}
 {307}{}{Never mind then. Goodbye.}
 {308}{}{No, you'd need a Pip Boy to get the job done right, and I can't spare one right now.}
-{309}{}{I already got a Pip Boy. It's old... and cranky... and seems to have wires and buttons yanked out everywhere... but it works.}
+{309}{}{I already got a Pip Boy. It's old...and cranky...and seems to have wires and buttons yanked out everywhere...but it works.}
 {310}{}{Well, all right. I had some other questions...}
 {311}{}{Never mind then. Goodbye.}
 {312}{}{Yeah? Has it got a Northern California world map installed?}

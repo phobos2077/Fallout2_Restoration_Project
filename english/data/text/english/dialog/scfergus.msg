@@ -1,6 +1,6 @@
 {100}{}{You see a plain-looking young man in respectable clothing.}
 {101}{}{It's the building receptionist.}
-{102}{}{There's nothing partiuclarly exceptional about the guy. He looks like the epitome of a budding bureaucrat.}
+{102}{}{There's nothing particularly exceptional about the guy. He looks like the epitome of a budding bureaucrat.}
 {103}{}{Welcome to Congress House. How can I help you?}
 {104}{}{Back again, I see. How can I help you this time?}
 {105}{}{Now, what can I do for you?}
@@ -56,7 +56,7 @@
 {154}{}{Yeah, there's something else -- something about a spy.}
 {155}{}{What a rel-I mean, I'm glad it's all over. Go right on in.}
 
-#messages for when the player is tampering with somthing he shouldn't
+#messages for when the player is tampering with something he shouldn't
 {500}{}{Excuse me, but you cannot enter there without permission.}
 {501}{}{I have to ask you to stop tampering with that.}
 {502}{}{This is your last warning - leave or be dealt with.}

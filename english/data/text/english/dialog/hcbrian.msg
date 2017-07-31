@@ -22,15 +22,15 @@
 {121}{}{A GECK? Never heard of it. I'd imagine no-one else here has either. It sounds like an animal or something that has nasty claws, though.}
 {122}{}{No, not really. I have more questions.}
 {123}{}{That's not it at all. Bye.}
-{124}{}{Eric wants more power? Eric can't HAVE more power.  This is a very delicate balance of energy we run through here, and if Eric gets more power, then the hospital shuts down. Or the lights. Or the mine. We can't have that.}
+{124}{}{Eric wants more power? Eric can't HAVE more power. This is a very delicate balance of energy we run through here, and if Eric gets more power, then the hospital shuts down. Or the lights. Or the mine. We can't have that.}
 {125}{}{If this machine is run on uranium slugs, you have more than enough power to fill this place AND New Reno and not even notice the drain. Now cough it up.}
 {126}{}{But... but... he's suffering.}
 {127}{}{So there's no way you can make a couple of small adjustments?}
-{128}{}{[he looks sullenly down at his dials and says in a small voice:] You're mean.}
+{128}{}{[He looks sullenly down at his dials and says in a small voice] You're mean.}
 {129}{}{Yup. Bye!}
 {130}{}{Hey! Don't touch anything! This is delicate equipment! Out! Outside! Go on! Go home!}
 {131}{}{Ooooh! Butunz!}
-{132}{}{Well, no, it's not. Not really. I mostly just sit here and make sure none of the dials flip out.  I make some minor adjustments. I flip some switches. That's about all. Anyone could do it.}
+{132}{}{Well, no, it's not. Not really. I mostly just sit here and make sure none of the dials flip out. I make some minor adjustments. I flip some switches. That's about all. Anyone could do it.}
 {133}{}{So, say, you could send more power to Eric's home?}
 {134}{}{Anyone, eh? I have other questions.}
 {135}{}{Thanks. Bye.}
@@ -39,7 +39,7 @@
 {138}{}{Right. Bye.}
 {139}{}{Well, sure, technically that's true, but...}
 {140}{}{But nothing. You're just lazy. Get a move on.}
-{141}{}{You don't have to be mean about it. [he ducks his head and turns a dial] There. Please tell him to stop complaining now.}
+{141}{}{You don't have to be mean about it. [He ducks his head and turns a dial.] There. Please tell him to stop complaining now.}
 {142}{}{You're all heart, big guy.}
 {143}{}{Go shove it up the lips you never kiss with. No thanks to you for making this harder than it had to be.}
 {144}{}{Maybe he just ought to bathe more often. Good day.}

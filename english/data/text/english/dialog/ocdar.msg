@@ -1,6 +1,6 @@
-{100}{}{You see a deathclaw. It watches you with strangely intelligent eyes.}
-{101}{}{You see Dar, the deathclaw.}
-{102}{}{You see a typical deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
+{100}{}{You see a Deathclaw. It watches you with strangely intelligent eyes.}
+{101}{}{You see Dar, the Deathclaw.}
+{102}{}{You see a typical Deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
  claws.}
 {103}{}{Hello, human.}
 {104}{}{What you want?}
@@ -25,7 +25,7 @@
 {123}{}{Ok.}
 {124}{}{Well, you're doing fine, Dar. Just keep it up.}
 {125}{}{Yeah, I figured as much.}
-{126}{}{Nothing new here. I quess I'll be going.}
+{126}{}{Nothing new here. I guess I'll be going.}
 {127}{}{With a face like yours, how can you keep the peace?}
 {128}{}{You not nice. Go away.}
 {129}{}{Not much but I learn. Gruthar -- he leader -- tell us all learn.}

@@ -33,6 +33,7 @@
 {234}{}{You sound like a man in trouble. I might be able to help you.}
 {235}{}{You look like a man who values his privacy. For someone as talkative as I am, forgetting
  you could be very expensive.}
+{236}{}{All right then…sorry to bother you.}
 
 # 5. WHAT SEEMS TO BE THE PROBLEM HERE? [LLOYD NOT AFRAID] (4)
 {245}{}{Problem? The problem's standing right in front of me. }
@@ -310,6 +311,10 @@
 {1001}{}{You follow Lloyd to Golgotha. Once there, he digs up one of the graves.}
 {1002}{}{You lose Lloyd once you get outside of New Reno.}
 {1050}{}{You let Lloyd leave.}
+{1051}{}{*grumble* Coulda been my money.}
+{1052}{}{Uh...Thanks for letting me live.}
+{1053}{}{When you reemerge from the grave Llyod is nowhere to be seen.}
+{1054}{}{Forget you. This is my money and you aint getting any of it!}
 
 # END LINES
 {5213}{}{ Me }

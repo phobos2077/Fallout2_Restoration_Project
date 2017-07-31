@@ -11,11 +11,11 @@
 {108}{}{You cheap bastard! You'll pay for stiffing me. Goodbye.}
 {109}{}{Well, sometimes you just get luckier than others. This was one of the unlucky times. Goodbye.}
 {110}{}{We didn't quite lose everything on the caravan, but we lost more we can afford. If you'd done
- your job right, you'd be getting more than this $500.}
+ your job right, you'd be getting more than this $50.}
 {111}{}{Well, something is better than nothing, I guess. Goodbye.}
 {112}{}{You lousy bastard. Nobody could have done a better job. You'll regret stiffing me. Goodbye.}
-{113}{}{That wasn't too bad at all. Here's your $1000. It'll be a while before we get another caravan
- master, so I don't know when we'll be travelling again.}
+{113}{}{That wasn't too bad at all. Here's your $100. It'll be a while before we get another caravan
+ master, so I don't know when we'll be traveling again.}
 {114}{}{I don't think I ever want to spend so much time looking at the ass-end of a brahmin again. Goodbye.}
 {115}{}{That wasn't too bad at all. See you later. Goodbye.}
 {116}{}{That was a good run. Might not have worked out that way if you weren't along. Here's your $100,
@@ -28,3 +28,4 @@
 {121}{}{I'm sorry to lose Ben Wade. He was a good man and a hard one to replace. My name's Ferndown, and
  I'll take care of what we owe you.}
 {122}{}{Uh, thanks.}
+{123}{}{Too bad for Ben Wade, he was a good man.}

@@ -31,25 +31,32 @@
 {127}{}{*Ahem*}
 {128}{}{WHO DARES APPROACH THE SACRED HEAD OF THE VAULT DWELLER?!}
 {129}{}{It is I, the Chosen One.}
+{1129}{}{Me Chosen One.}
 {130}{}{HA HA HA HA HA HA!}
 {131}{}{*YOU*?! THE CHOSEN ONE?!}
 {132}{}{YOU ARE NO BIGGER THAN MY FINGER!}
 {133}{}{YOU ARE *NOT* THE CHOSEN ONE.}
 {134}{}{Yes, I am.}
+{1134}{}{Me am too.}
 {135}{}{NO, YOU'RE NOT.}
 {136}{}{Yes, I am.}
+{1136}{}{Am too!}
 {137}{}{UH-UH.}
 {138}{}{Uh-huh.}
+{1138}{}{Uh-huh.}
 {139}{}{UH-UH.}
 {140}{}{Uh-huh.}
+{1140}{}{Uh-huh.}
 {141}{}{UH...UH...}
 {142}{}{Uh...huh...}
+{1142}{}{Uh...huh...}
 {143}{}{UH...ENOUGH OF THIS!}
 {144}{}{VERY WELL! YOU HAVE PROVEN YOURSELF!}
 {145}{}{YOU *ARE* THE CHOSEN ONE!}
 {146}{}{TAKE THIS!}
 {147}{}{NOW LEAVE ME!}
 {148}{}{Hey, thanks!}
+{1148}{}{Tankee!}
 {149}{}{YEAH, WHATEVER. NOW GET OUTTA HERE.}
 {150}{}{DAMN TOURISTS.}
 {151}{}{I ALREADY GAVE YOU A GIFT.}

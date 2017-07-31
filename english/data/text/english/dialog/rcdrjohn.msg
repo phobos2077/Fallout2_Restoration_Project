@@ -52,7 +52,7 @@
 {142}{}{Aww, come on, Doc. We sure need your help.}
 {143}{}{I'll come back when I have more money. Goodbye. }
 {144}{}{Well, okay. I'll do it this once - but you better have the money to pay me next time.}
-{145}{}{That worked…once. Just like I told you. This time I need the money. You aren't going to get
+{145}{}{That worked...once. Just like I told you. This time I need the money. You aren't going to get
  anything in this world for free - my services included.}
 {146}{}{Thanks, Doc. I sure appreciate it. Next time I'll have cash. I promise.}
 {147}{}{I feel kind of guilty imposing on you like that. I better come back when I have money to pay
@@ -146,7 +146,7 @@
  I've been the doctor here for a long time.}
 {219}{}{I'm glad that you're not in trouble. Let me ask you about something else, Doc.}
 {220}{}{Good. I bet things would get ugly if they ever suspected. Well, goodbye, Doc.}
-{221}{}{Well, everyone wants a part of the gold here in Redding, so we're going to go to be controlled
+{221}{}{Well, everyone wants a part of the gold here in Redding, so we're going to be controlled
  by someone, eventually. I just want us to have the master that's going to do the best job for Redding.}
 {222}{}{And who do you think that is?}
 {223}{}{The way I see it, Redding's best chance is with Vault City controlling things here. That's where
@@ -189,9 +189,9 @@
 {247}{}{Here it is, Doc.}
 {248}{}{Not so fast Doc. What's it worth to you?}
 {249}{}{I don't think I'm ready to hand it over just yet. See you around, Doc. Goodbye.}
-{250}{}{What's it worth to me? Why, you little weasel! I oughta…}
+{250}{}{What's it worth to me? Why, you little weasel! I oughta...}
 {251}{}{Easy there, Doc; that kind of talk makes me feel so bad that I get all shaky. I could drop
- things…like this antidote bottle.}
+ things...like this antidote bottle.}
 {252}{}{Okay, okay. Hey, I was just kidding. Here it is.}
 {253}{}{Thank you. I'll make sure the miners get a little something *extra* with the next batch of
  Jet that they pick up.}
@@ -247,11 +247,11 @@
 {292}{}{The Phoenix Armor Implant.}
 {293}{}{The Assault Enhancement for the Dermal Impact Armor.}
 {294}{}{The Assault Enhancement for the Phoenix Armor Implants.}
-{295}{}{Doc, I think I'd rather ask you about something less…uh, invasive.}
+{295}{}{Doc, I think I'd rather ask you about something less...uh, invasive.}
 {296}{}{I guess I don't want to hear about an operation right now. Goodbye.}
 {297}{}{According to what I've read, Dermal Impact Armor gives you 5% resistance to normal and explosive
  damage - over and above any other armor you're wearing. The operation takes about two days, one suit of
- Combat Armor (for parts), and it will cost you $5,000. This procedure should be fairly simple…I think.
+ Combat Armor (for parts), and it will cost you $5,000. This procedure should be fairly simple...I think.
  Hmm, you may not even scar all that badly.}
 {298}{}{That sounds great, Doc. Let's do it. I just hate getting shot, stabbed, and blown up all the
  damn time.}
@@ -268,7 +268,7 @@
  try not to give you tail-fins.}
 {304}{}{The Assault Enhancement of the Dermal Impact Armor should give you a total of 10% resistance to
  normal and explosive damage - over and above any other armor you're wearing. The operation takes a few
- days and it'll cost you $30,000. In addition, you're not going to be too Charismatic after I finish.
+ days and it'll cost you $30,000. In addition, you're not going to be too charismatic after I finish.
  Cramming all those impact plates under your skin is going to make you look pretty damn angular, but in
  a very streamlined way. But who doesn't like the way a new car looks - I'll try not to give you tail-fins.
  Ready to begin?}
@@ -290,8 +290,8 @@
 {316}{}{You need to have the Phoenix Armor Implants before I can give you the Assault Enhancement. But
  I'll tell you what it should do. The Assault Enhancement should give you a total of 10% resistance to
  thermal damage (fire, laser, and plasma) - over and above any other armor you're wearing. The operation
- takes a few days and it'll cost you $48,000. In addition, you're not going to be too Charismatic after
- I finish. Layering all those thermal dissipators under your skin is going to make you look a bit lumpy,
+ takes a few days and it'll cost you $48,000. In addition, you're not going to be too charismatic after
+ I finish. Layering all those thermal dissipaters under your skin is going to make you look a bit lumpy,
  sort of like an overstuffed burrito.}
 {317}{}{The Assault Enhancement of the Phoenix Armor Implants should give you a total of 10% resistance
  to thermal damage (fire, laser, and plasma) - over and above any other armor you're wearing. The
@@ -311,8 +311,9 @@
 {325}{}{That turned out rather well, I think. The Phoenix Armor implanted much more neatly than I would
  have thought it would. That burning and itching feeling will probably go away in a few weeks...once your
  innards get used to the fibers.}
-{326}{}{Coming around, are we? You're just jam-packed with thermal-dissipators and dissipative membranes.
+{326}{}{Coming around, are we? You're just jam-packed with thermal-dissipaters and dissipative membranes.
  You won't look quite so lumpy in a few weeks, but you won't be winning any beauty pageants again,
  either. Try not to pick at the pus-crusts near the drainage incisions until they stop suppurating.}
 {327}{}{Thanks for the advice, Doc. This is great. Hey, let me ask you about something else.}
 {328}{}{Thanks for your handiwork, Doc. I better be moving on now. Goodbye.}
+{329}{}{You deliver the Jet antidote to Dr. John.}

@@ -39,13 +39,13 @@
 {1200}{}{Rowf? <boing> Raggy?}
 {1300}{}{<click> whimper.}
 {1400}{}{How-woooo! <click-click> How-wooo!}
-{1500}{}{Ee-bee-dee-bee-ee-bee-dee-bee!} //Wait here resoponse
-{1600}{}{Sure thing, I'll put it away.}  //Put weapons away
-{1700}{}{Arf-arf proximity set to close.} //Close
-{1800}{}{Arf-arf proximity set to medium.} //Medium
-{1900}{}{Arf-arf proximity set to far.} //Far
+{1500}{}{Ee-bee-dee-bee-ee-bee-dee-bee!} #Wait here resoponse
+{1600}{}{Sure thing, I'll put it away.}  #Put weapons away
+{1700}{}{Arf-arf proximity set to close.} #Close
+{1800}{}{Arf-arf proximity set to medium.} #Medium
+{1900}{}{Arf-arf proximity set to far.} #Far
 {2000}{}{.whirrrrr...I am not a Daggit.}
 {2100}{}{GRRR-ROWF!}
 {2200}{}{Woof! Wo-wo-wo-<click>woof?}
 
-{2204}{}{Ok your at a good distance for now.}
+{2204}{}{Ok, you're at a good distance for now.}

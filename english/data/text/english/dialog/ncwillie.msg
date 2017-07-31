@@ -34,3 +34,8 @@
 {603}{}{Quick, GET A SHOVEL!}
 {604}{}{Would somebody dig me up already? I need a drink!}
 {605}{}{That a worm I feel? Oh...nevermind.}
+
+# 1. DIG UP (WTG) - low int character --added by killap
+{700}{}{Ug, smellie in hole.}
+{701}{}{Me dig more for smellie shinies.}
+{702}{}{Huh, You not shini-!?}

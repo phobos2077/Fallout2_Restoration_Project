@@ -1,9 +1,9 @@
-{100}{}{A computer.}
-{101}{}{A computer.}
-{102}{}{The central computer for Navarro.}
+{100}{}{You see a computer.}
+{101}{}{You see a computer.}
+{102}{}{You see the central computer for Navarro.}
 
 {103}{}{Please enter your password.}
-{104}{}{Enter ‘Snookie’}
+{104}{}{Enter 'Snookie'}
 {105}{}{Forget this doo doo.}
 {106}{}{Screw this.}
 {107}{}{Try to hack the system.}
@@ -18,8 +18,8 @@
 {115}{}{Where are the vertibird plans located?}
 {116}{}{Where is the Enclave main base located?}
 {117}{}{Where is the armory located?}
-{118}{}{Where is the base commander’s office located?}
-{119}{}{I guess that’s all.}
+{118}{}{Where is the base commander's office located?}
+{119}{}{I guess that's all.}
 
 {120}{}{Searching... Accessing current inventory records... Data acquired. Current records indicate that 1 set of vertibird schematics are in stock. Four copies of the vertibird schematics have been ordered this quarter. Four copies of the vertibird schematics have been delivered this quarter. Three copies of the vertibird schematics have been reported lost this quarter. The vertibird schematics are housed in maintenance.}
 {121}{}{Okay. Where maintenance?}
@@ -28,11 +28,11 @@
 {123}{}{Searching... Accessing base architectural files... Data acquired. Maintenance is located above ground in the northeast quadrant of the base. }
 {124}{}{Thanks.}
 
-{125}{}{Searching... Accessing geographical maps... Data acquired. Enclave headquarters is located 175 miles off of the coast of California in the Pacific ocean. Coordinates are 37 degrees 18 minutes north latitude by 120 degrees 7 minutes west longitude.}
+{125}{}{Searching... Accessing geographical maps... Data acquired. Enclave headquarters is located 175 miles off of the coast of California in the Pacific Ocean. Coordinates are 37 degrees 18 minutes north latitude by 120 degrees 7 minutes west longitude.}
 {126}{}{What the hell all that mean?}
 {127}{}{What the hell does all that crap mean?}
 
-{128}{}{Searching... Accessing English slang dictionary... Data acquired. Translation follows: 1) It’s a long ways out in the ocean. 2) It’s off the coast of California. 3) It’s west of the city of San Francisco. 4) If you do not understand the geographical coordinate system then you will not find it.}
+{128}{}{Searching... Accessing English slang dictionary... Data acquired. Translation follows: 1) It's a long ways out in the ocean. 2) It's off the coast of California. 3) It's west of the city of San Francisco. 4) If you do not understand the geographical coordinate system then you will not find it.}
 {129}{}{How get there?}
 {130}{}{How can I get there?}
 
@@ -44,7 +44,7 @@
 {135}{}{Me got it.}
 {136}{}{Yeah, got it.}
 
-{137}{}{Searching... Accessing base architectural files... Data acquired. Base commander’s office is located below ground in the northeast quadrant of the base.}
+{137}{}{Searching... Accessing base architectural files... Data acquired. Base commander's office is located below ground in the northeast quadrant of the base.}
 {138}{}{Fine.}
 {139}{}{Sounds good.}
 

@@ -7,7 +7,7 @@
 {151}{}{Each arm looks like it could double as a tank barrel.}
 {152}{}{When he moves, it's like watching an ocean of muscle.}
 {153}{}{He's looking at your ear hungrily.}
-{157}{}{His face looks like a raw slab of meat.}
+{154}{}{His face looks like a raw slab of meat.}
 
 # FLOAT DIALOGUE
 {158}{}{Hurgghhh.}

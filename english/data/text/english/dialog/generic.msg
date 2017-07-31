@@ -120,7 +120,7 @@
 #############################################################
 
 {1000}{}{You passed the Citizenship Test.}
-{1001}{}{You reported the Jet Reliance of Redding to McClure.}
+{1001}{}{You reported the Jet addiction of Redding to McClure.}
 {1002}{}{You freed up trade with Redding.}
 {1003}{}{You disable the force fields.}
 {1004}{}{You hack into the computer.}
@@ -138,6 +138,9 @@
 {1016}{}{Oops, I nearly forgot the GECK. I wonder if one might be somewhere around here.}
 {1017}{}{The door blasts open from your GECK code.}
 {1018}{}{You wiped out Frog Morton's Gang.}
+{1019}{}{You disable the shock plates.}
+{1020}{}{You broke up the bar brawl.}
+{1021}{}{You disabled the Robot Repair Terminal.}
 
 {1050}{}{You grind the scorpion toxin into antidote.}
 {1051}{}{You mix the xander root and broc flower into healing powder.}
@@ -296,11 +299,11 @@
 {3300}{}{}
 
 # Guard (3325-3349)
-{3325}{}{Why don’t you put everything right back where you found it?}
-{3326}{}{You know, it ain’t nice to take what’s not yours.}
+{3325}{}{Why don't you put everything right back where you found it?}
+{3326}{}{You know, it ain't nice to take what's not yours.}
 {3327}{}{Get away from there, punk!}
-{3328}{}{Now don’t go telling me you’re "just looking for your keys." Get outta here!}
-{3329}{}{Whatever you’re looking for, it ain’t there. Understand?}
+{3328}{}{Now don't go telling me you're "just looking for your keys." Get outta here!}
+{3329}{}{Whatever you're looking for, it ain't there. Understand?}
 
 # Tough Citizen (3350-3374)
 {3350}{}{}
@@ -319,10 +322,10 @@
 {3600}{}{}
 
 # Guard (3625-3649)
-{3625}{}{Hey, you! What’re you poking around that for?}
-{3626}{}{If you ain’t got a key in you hand, you’d better be stepping away.}
-{3627}{}{It’s locked for a reason, punk.}
-{3628}{}{Knock it off before there’s trouble!}
+{3625}{}{Hey, you! What're you poking around that for?}
+{3626}{}{If you ain't got a key in you hand, you'd better be stepping away.}
+{3627}{}{It's locked for a reason, punk.}
+{3628}{}{Knock it off before there's trouble!}
 
 # Tough Citizen (3650-3674)
 {3650}{}{}
@@ -341,11 +344,11 @@
 {3900}{}{}
 
 # Guard (3925-3949)
-{3925}{}{Hey you! What’re you doing there?}
-{3926}{}{You’re not supposed to be here!}
-{3927}{}{If you think you’re just walking by me, you can forget that!}
-{3928}{}{You better not be planning what I think you’re planning, stranger.}
-{3929}{}{What? Like you think I don’t notice you? Get outta here!}
+{3925}{}{Hey you! What're you doing there?}
+{3926}{}{You're not supposed to be here!}
+{3927}{}{If you think you're just walking by me, you can forget that!}
+{3928}{}{You better not be planning what I think you're planning, stranger.}
+{3929}{}{What? Like you think I don't notice you? Get outta here!}
 
 # Tough Citizen (3950-3974)
 {3950}{}{}
@@ -458,3 +461,12 @@
 
 # default join me again message
 {10100}{}{Let's go.}
+
+#added by killap - default msgs
+{20000}{}{That does nothing.}
+
+#added by killap - default msgs
+{20100}{}{There is no lock on this door.}
+
+#added by killap
+{30000}{}{You have stolen from your own tribe.}

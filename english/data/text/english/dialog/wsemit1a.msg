@@ -4,7 +4,7 @@
 {103}{}{ is shocked by the weakened force field.}
 {107}{}{You are shocked by the force field.}
 {108}{}{ is shocked by the force field.}
-{109}{}{You fail to lower the force field.}
+{109}{}{You fail to affect the force field.}
 {110}{}{ fails to lower the force field.}
 {111}{}{You hear over the loud speaker: Warning! Intruder Alert! Enable Security Systems.}
 {112}{}{You disable the force field.}

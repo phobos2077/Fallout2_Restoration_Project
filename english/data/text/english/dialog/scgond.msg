@@ -6,4 +6,4 @@
 {105}{}{You ain't supposed to be here.}
 {106}{}{Greetings fellow Ranger.}
 {107}{}{A Ranger's work is never done.}
-{108}{}{Take heart! Our brother's hit a slave camp last week.}
+{108}{}{Take heart! Our brothers hit a slave camp last week.}

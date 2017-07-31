@@ -2,7 +2,7 @@
 {101}{}{It has a little sticker on it that says I*tel inside.}
 {102}{}{[You are unable to read what's on the monitor.]}
 {103}{}{Control Terminal
-                                                       Project: Organic and Robotic Sythesis Experiment}
+                                                       Project: Organic and Robotic Synthesis Experiment}
 {104}{}{}
 {105}{}{Systems Check.}
 {106}{}{Activate Robot}
@@ -19,7 +19,7 @@
                           Ready to Activate}
 {114}{}{Please Wait...
                                                            Robot Body - OK
-                                                     Biomed gel reservoirs - Refill
+                                                     Biomed gel reservoirs - Full
                                        Organic Storage Device - Not Present
                   Activation not recommended}
 {115}{}{Please Wait...
@@ -28,9 +28,9 @@
                                         Organic Storage Device - Responding
                    Activation not recommended}
 {116}{}{Please Wait...
-                                                           Robot Body - OK
-                                                   Biomed gel reservoirs - Refill
-                                       Organic Storage Device - Not Present
+                                                           Robot Body - Replace Motivator
+                                   Biomed gel reservoirs - Full
+                                        Organic Storage Device - Not Present
                    Activation not recommended}
 {117}{}{Please Wait...
                                                            Robot Body - OK

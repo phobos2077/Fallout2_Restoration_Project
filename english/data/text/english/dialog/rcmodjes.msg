@@ -32,7 +32,7 @@
 {126}{}{Jet? What's Jet?}
 {127}{}{I see. Goodbye.}
 {128}{}{I am…Madame Modjeska. What do you wish of me?}
-{129}{}{Hello there. What can I help you with?}
+{129}{}{What can I help you with?}
 {130}{}{I don't have time to waste. What do you want of Madame Modjeska?}
 {131}{}{I can hardly be bothered with this now. What do you want?}
 {132}{}{Madame Modjeska feels indisposed today. What do you want of her?}
@@ -57,7 +57,7 @@
 {149}{}{I used to work in the Malamute Saloon. As part of that job, people called me Madame. The name
  just stuck, even though I don't work there any more.}
 {150}{}{Where do you work now?}
-{151}{}{Uh, not really. Let me ask you something else.}
+{151}{}{Let me ask you something else.}
 {152}{}{I think that's all I need to know. Goodbye.}
 {153}{}{I flew a bit of Jet a few days back and it made me feel quite unwell. Must have been a tainted
  batch. I 'm not eager to try that again. Oh well, back to the bottle, I suppose.}
@@ -144,10 +144,10 @@
  for a stretch.}
 {212}{}{Let me ask you about something else.}
 {213}{}{I think I've listened to you long enough. Goodbye.}
-{214}{}{Jet is a wonderful chem that helps me to take the edge of this miserable existence, darling.}
+{214}{}{Jet is a wonderful drug that helps me to take the edge of this miserable existence, darling.}
 {215}{}{Let me ask you something else.}
 {216}{}{Interesting. Thanks and goodbye.}
-{217}{}{Jet's a chem that helps me to feel truly alive. I'm a real sky-pilot with Jet.}
+{217}{}{Jet's a drug that helps me to feel truly alive. I'm a real sky-pilot with Jet.}
 {218}{}{Let me ask you something else.}
 {219}{}{Interesting. Thanks, and goodbye.}
 {220}{}{Mmmm, I'll tell you what Jet is. It's delicious, that's what it is. Jet has something for

@@ -15,11 +15,11 @@
 {113}{}{That's it. Enough is enough.}
 {114}{}{The Holy Hand Grenade of Antioch? Why, 'tis only the greatest hand held, anti-personnel weapon
  of its kind.}
-{115}{}{Why do you search for such terrible weapon?}
+{115}{}{Why do you search for such a terrible weapon?}
 {116}{}{We of the Brotherhood of Steel seek to find this most devastating weapon of our ancestors, and
  secure it from those who would abuse the power of the Holy Hand Grenade of Antioch.}
 {117}{}{Why?}
-{118}{}{Well...because the Brotherhood of Steel is dedicated protecting the weak and defenseless, and
+{118}{}{Well...because the Brotherhood of Steel is dedicated to protecting the weak and defenseless, and
  this thing could really hurt someone.}
 {119}{}{Why?}
 {120}{}{Umm...because it's really the only moral thing to do.}
@@ -31,8 +31,8 @@
 {125}{}{Well, why didn't you just say so? If you could just tell us where, we'll be off and you can get
  back to whatever it is you were doing.}
 {126}{}{[You point in a random direction.]}
-{127}{}{Right then. Thank you for you help. Something for your trouble.}
-{128}{}{Wait! I am also on quest. I seek the holy GECK. Have you seen it?}
+{127}{}{Right then. Thank you for your help. Something for your trouble.}
+{128}{}{Wait! I am also on a quest. I seek the holy GECK. Have you seen it?}
 {129}{}{Well then, no sense in continuing this conversation. We're off.}
 {130}{}{[END]}
 {131}{}{Bloody peasant!}

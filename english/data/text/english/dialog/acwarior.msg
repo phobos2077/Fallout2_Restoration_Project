@@ -39,22 +39,21 @@
  pants fashioned from animal hides.}
 {151}{}{[TALK]}
 {152}{}{Hello, Chosen One, can I help you in your quest?}
-{153}{}{I’m just looking around the village one last time before
- I leave.}
+{153}{}{I'm just looking around the village one last time before I leave.}
 {154}{}{What can you tell me of the traders who trade with us?}
 {155}{}{Could you tell me where I can find more healing powder?}
 {156}{}{Gods give you speed to bring back Eden before it is too late.}
 {157}{}{I do have a question for you.}
 {158}{}{Goodbye, my friend.}
-{159}{}{Oh, you're testing me. Go see Hakunin in the north corner of the village. He makes our
+{159}{}{Oh, you're testing me. Go see Hakunin in the northern corner of the village. He makes our
  medicines.}
 {160}{}{Thank you. Goodbye.}
 {161}{}{Well, I've seen them when Mynoc has us guard the bridge, but he does all the dealing.
- Talk to him at the great bridge.}
+ Talk to him at the Great Bridge.}
 {162}{}{Thank you. Goodbye.}
-{163}{}{Could tell me where the great bridge is located?}
+{163}{}{Could tell me where the Great Bridge is located?}
 {164}{}{One more question, if I may.}
-{165}{}{Chosen One? The great bridge is at the south end of the village. You know,
+{165}{}{Chosen One? The Great Bridge is at the southern end of the village. You know,
  you've been there many times.}
 {166}{}{Thank you. Goodbye.}
 {167}{}{One more question, if I may.}
@@ -75,13 +74,13 @@
  of the wastes to live.}
 {181}{}{Could you tell me where I can find some healing herbs?}
 {182}{}{Thank you. Goodbye.}
-{183}{}{One more question, if i may.}
+{183}{}{One more question, if I may.}
 
 # Starting Dialog after 1st Hakunin Movie
 {300}{}{Hello again, Chosen One. May the warrior spirits protect and guide you.}
 
 # Starting Dialog after 2nd Hakunin Movie
-{301}{}{Are you having difficulites, Chosen One? You must not fail us - please hurry.}
+{301}{}{Are you having difficulties, Chosen One? You must not fail us - please hurry.}
 
 # Starting Dialog after 3rd Hakunin Movie
 {302}{}{Why do you wait so long? We must have the GECK soon. Chosen One, our village is dying.}
@@ -135,12 +134,12 @@
 {1101}{}{Our great ancestor who gave us knowledge.}
 {1102}{}{The first to fight and win over chaos.}
 {1103}{}{That would be our beautiful village.}
-{1104}{}{That’s a trading outpost a few days east of here.}
+{1104}{}{That's a trading outpost a few days east of here.}
 {1105}{}{The Vault is heaven.}
 {1106}{}{You are the Chosen One.}
-{1107}{}{He heals us with his herbs and magic. He is in the north
+{1107}{}{He heals us with his herbs and magic. He is in the northern
  part of our village.}
-{1108}{}{He heals us with his herbs and magic. He is in the north
+{1108}{}{He heals us with his herbs and magic. He is in the northern
  part of our village.}
 {1109}{}{It is a magic powder which will heal you, but will make
  you sleepy.}

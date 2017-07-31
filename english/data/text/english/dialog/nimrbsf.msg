@@ -5,7 +5,7 @@
 {150}{}{You see a safe set securely into the wall. It is open.}
 
 # 2.  EXAMINE SAFE, CLOSED (WTG, 10, 11)
-{200}{}{(There is a little door in the wall. A very, very small perhsun must live inside! There is a doorknob with numbers on it in the middle of the door.)}
+{200}{}{(There is a little door in the wall. A very, very small person must live inside! There is a doorknob with numbers on it in the middle of the door.)}
 {000}{}{(You examine the wall safe. It looks securely fastened into the wall and has a combination dial on the outside.)}
 {000}{}{Knock on door}
 {000}{}{Turn the knob}

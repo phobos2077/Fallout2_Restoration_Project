@@ -35,7 +35,7 @@
 {153}{}{Yes.}
 {154}{}{Yes. But before I go, I would like to ask you some
  questions.}
-{155}{}{Not just yet. I’m going to look around a little
+{155}{}{Not just yet. I'm going to look around a little
  bit more.}
 {156}{}{Well, may the gods watch over you.}
 {157}{}{Thank you, goodbye.}
@@ -47,7 +47,7 @@
 {161}{}{Nothing, never mind.}
 {162}{}{Very well, but don't waste too much time. Without the GECK,
  we're doomed.}
-{163}{}{I know, don’t worry -- I’ve got it all under control.}
+{163}{}{I know, don't worry -- I've got it all under control.}
 {164}{}{Why?}
 {165}{}{I must be going. Goodbye.}
 {166}{}{The traders? They come from Klamath about every two months. There
@@ -59,7 +59,7 @@
 {169}{}{Looks like a metal water gourd. Maybe the
  vault sent it to us as an omen.}
 {170}{}{Can you tell me who brought this item to our village?}
-{171}{}{Thank you. I must going. Goodbye.}
+{171}{}{Thank you. I must be going. Goodbye.}
 {172}{}{I hope you do.}
 {173}{}{Your overconfidence makes all of us suffer! Goodbye!}
 {174}{}{Goodbye.}
@@ -86,15 +86,15 @@
 {188}{}{You have? Wonderful! Did you bring back the
  GECK?}
 {189}{}{No.}
-{190}{}{No. I haven’t spoken to the people of the vault yet.}
-{191}{}{I don’t believe that’s any business of yours, my friend.}
+{190}{}{No. I haven't spoken to the people of the vault yet.}
+{191}{}{I don't believe that's any business of yours, my friend.}
 {192}{}{No? Chosen One, three old ones have died since you left. You must
  not waste any more time.}
-{193}{}{I’ll find it, don’t worry.}
-{194}{}{I’m getting sick of your constant nagging.}
+{193}{}{I'll find it, don't worry.}
+{194}{}{I'm getting sick of your constant nagging.}
 {195}{}{Well, why are you talking to me? Talk to them, and get the GECK.}
 {196}{}{I will -- all in good time, my friend.}
-{197}{}{I’m getting sick of your constant nagging.}
+{197}{}{I'm getting sick of your constant nagging.}
 {198}{}{What news of the GECK, Chosen One?}
 {199}{}{I have found the vault!}
 {200}{}{I have not been able to find Vault 13.}
@@ -118,7 +118,7 @@
 {300}{}{My father taught me how to make stronger blades than most. Get me a piece
  of flint and I'll fix your spear, too. You'll need it in the wilderness.}
 {301}{}{Where would I get some of this flint?}
-{302}{}{They say your aunt Morlis has been hoarding a piece. She's so
+{302}{}{They say your Aunt Morlis has been hoarding a piece. She's so
  ill-tempered I don't think anyone's asked her. Of course, the witch will want
  something in return.}
 {303}{}{Thanks. Goodbye.}
@@ -144,7 +144,7 @@
 {403}{}{I'm not in the mood for your questions. Goodbye.}
 {404}{}{Things are not going well, Chosen One. The drought is getting worse and our crops are
  sure to fail. We are trying to salvage what we can to build up our food reserves.}
-{405}{}{Why no trade with other village?}
+{405}{}{Why no trade with other villages?}
 {406}{}{Me doing best me can. Me find GECK. Me return.}
 {407}{}{Why can't we trade with other villages for the food we need? }
 {408}{}{I'm doing my best. When I find the GECK I'll return with it.}
@@ -152,7 +152,7 @@
  contacted while you were away have shown no interest in helping us.}
 {410}{}{Me see.}
 {411}{}{I see.}
-{412}{}{You are our hope, Chosen One. Please do not fail us!}
+{412}{}{You are our only hope, Chosen One. Please do not fail us!}
 {413}{}{It is good to see you, Chosen One. How fares your quest?}
 {414}{}{Me still look.}
 {415}{}{I'm still looking.}
@@ -199,11 +199,11 @@
 {1101}{}{Our great ancestor who gave us knowledge.}
 {1102}{}{The first to fight and win over chaos.}
 {1103}{}{That would be our beautiful village.}
-{1104}{}{That’s a trading outpost a few days east of here.}
+{1104}{}{That's a trading outpost a few days east of here.}
 {1105}{}{The Vault is heaven.}
 {1106}{}{You are the Chosen One.}
 {1107}{}{He heals us with his herbs and magic. He is in the
- north part of our village.}
+ northern part of our village.}
 {1108}{}{He heals us with his herbs and magic. He is in the
  north part of our village.}
 {1109}{}{It is a magic powder which will heal you, but will

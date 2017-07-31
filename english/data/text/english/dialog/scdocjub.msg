@@ -20,7 +20,7 @@
 {119}{}{You make better.}
 {120}{}{Me go now.}
 {121}{}{Nope. Never joke. Best I cut that leg off before gangrene sets in.}
-{122}{}{No way you're cuting anything off, understand?}
+{122}{}{No way you're cutting anything off, understand?}
 {123}{}{That's it, I'm leaving.}
 {124}{}{Well, if it festers, don't blame me.}
 {125}{}{I don't run a charity hospital. You'll need to get some cash before I do anything.}
@@ -28,7 +28,7 @@
 {127}{}{Shoot.}
 {128}{}{Vault 13?}
 {129}{}{Know where I could find Vault 13?}
-{130}{}{I heard somebody saying Mr. Westin's not well. That true? I'm worried something might happen to him. He owes me some money.}
+{130}{}{I heard somebody saying Mr. Westin's not well. That true? I'm worried something might happen to him. He owes me money.}
 {131}{}{There's this Saltbeef fellow says you stole a map from him. What's the deal?}
 {132}{}{I'm looking for a job. Know of any?}
 {133}{}{Doc, you wouldn't know anything about a group that's fighting those evil slavers, would you?}
@@ -64,7 +64,7 @@
 {162}{}{Another question...}
 {163}{}{Thanks.}
 {164}{}{Hey, get your hands off that, punk!}
-{165}{}{Careful there! Just takes tiny amout to expose yourself.}
+{165}{}{Careful there! Just takes tiny amount to expose yourself.}
 {166}{}{Put that back! You could seriously hurt yourself with that stuff.}
 {167}{}{Those meds are for Mr. Westin, not you. Put them back.}
 {168}{}{Get away from that. Got to be careful, see. Wouldn't want Mr. Westin getting the wrong meds now.}

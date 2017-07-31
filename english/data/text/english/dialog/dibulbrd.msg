@@ -14,7 +14,7 @@
 {207}{}{Shops}
 
 # 2. Slaver's Guild
-{225}{}{The Slavers's Guild is the best and only supplier of slaves in the wastes.}
+{225}{}{The Slaver's Guild is the best and only supplier of slaves in the wastes.}
 
 # 3. Slaver's - Continue
 {250}{}{For employment opportunities, buying or selling of slaves, see Slave Master Metzger.}
@@ -39,7 +39,7 @@
 {401}{}{[The message that was here is neatly torn off.]}
 
 # 10. Dumb Board
-{425}{}{Words words… by… words… Bar… words… in the Den.}
+{425}{}{Words words... by... words... Bar... words... in the Den.}
 {426}{}{You find it all very confusing and your head starts to hurt.}
 
 # 11. Frankie's
@@ -55,7 +55,7 @@
 {525}{}{[There are three posts.]}
 
 # 15. Tubby's
-{550}{}{Tubby sells all sorts of items, but primarily chems and ammo.}
+{550}{}{Tubby sells all sorts of items, but primarily drugs and ammo.}
 
 # 16. Tubby's Directions
 {575}{}{Tubby's is located west of this bulletin board. It's the first building on the right as you enter town.}
@@ -79,4 +79,4 @@
 {1060}{}{Return to Main Page}
 {1070}{}{Smitty}
 {1080}{}{Special Note:}
-{1090}{}{Tubby's}s
+{1090}{}{Tubby's}

@@ -47,7 +47,7 @@
 {253}{}{I got some Jet here, Cody. You want to fly high with Uncle }
 {254}{}{I got some Jet here, Cody. You want to fly high with Auntie }
 {1254}{}{?}
-{255}{}{Hey, Cody…want some powerful metamphetamines? You could catch and eat your own game. Other children, even.}
+{255}{}{Hey, Cody…want some powerful methamphetamines? You could catch and eat your own game. Other children, even.}
 {256}{}{Uh, well, take care of yourself, Cody.}
 {257}{}{Sorry kid, looks like I don't have anything to give you.}
 
@@ -138,7 +138,7 @@
 # 19. THANKS (18)
 {390}{}{(Cody blinks, then mumbles it again. You barely catch it, but it sounded like 'thank you.')}
 {391}{}{(Cody blinks, then mumbles it again. You barely catch it, but it sounded like 'fuck you.')}
-{392}{}{Thank YOU, Codee. Witout Npee Cees like you, me in VERY borrin world}
+{392}{}{Thank YOU, Codee. Witout Npee Cees like you, me in VERY borrin world.}
 {393}{}{ME KILL YOU ME KILL YOU}
 {394}{}{Hey, no problem, Cody. Saving the world seems to be in the blood. Take care now, you hear?}
 {395}{}{You little shit! I'll kill you! I'll kill you --!}

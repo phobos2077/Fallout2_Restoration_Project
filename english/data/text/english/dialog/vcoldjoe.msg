@@ -31,7 +31,7 @@
  got some advice for you. You be careful out there. This place ain't as peachy as it seems. }
 {124}{}{What's going on here?}
 {125}{}{Well, the Vault Citizens think very highly of their bloodline and don't care much for
- people like me and you. You take this gun. It'll protect you if things get a little out of control.
+ people like me and you. You take this. It'll protect you if things get a little out of control.
  You probably shouldn't be seen talking with this crazy old man. Best get on your way.}
 {126}{}{Thanks for your help.}
 {127}{}{Let an old man rest.}

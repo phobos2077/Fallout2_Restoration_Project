@@ -4,7 +4,7 @@
 {103}{}{So what do you want?}
 {104}{}{Brother, welcome to Vortis' hall. How can I help you?}
 {105}{}{You're starting to annoy me.}
-{106}{}{This place is my place and I, Vortis, run an honest and legitimate busines no matter what anybody in NCR tells you. Since NCR doesn't allow slaves inside the gates, I mind them for folks who've got business inside.}
+{106}{}{This place is my place and I, Vortis, run an honest and legitimate business no matter what anybody in NCR tells you. Since NCR doesn't allow slaves inside the gates, I mind them for folks who've got business inside.}
 {107}{}{What are you, dense? This is a slave pen. I got licenses for it.}
 {108}{}{}
 {109}{}{Just got some questions.}
@@ -63,9 +63,9 @@
 {162}{}{Alright. I'll be back.}
 {163}{}{You're back again. Did you get that map?}
 {164}{}{Yes.}
-{165}{}{No}
+{165}{}{No.}
 {166}{}{I'm still waiting for you to finish the first job!}
-{167}{}{Oh yeah, I forgot}
+{167}{}{Oh yeah, I forgot.}
 {168}{}{Not since you did your job. Thanks.}
 {169}{}{Just a question or two.}
 {170}{}{No problem. Bye.}
@@ -75,3 +75,7 @@
 {174}{}{All right, I get the hint.}
 {175}{}{What the fuck? Guards! We got an intruder!}
 {176}{}{Go in there and I'll blow your head off. Understand?}
+
+#added by killap
+{177}{}{It's late and we're closed. Come back in the morning.}
+

@@ -12,10 +12,10 @@
  you'd get paid for that failure. Get out of here.}
 {108}{}{You cheap bastard! You'll pay for stiffing me. Goodbye.}
 {109}{}{Well, sometimes you just get luckier than others. This was one of the unlucky times. Goodbye.}
-{110}{}{I'll pay you for the half-ass job you did. Here's $500. Now get out of here.}
+{110}{}{I'll pay you for the half-ass job you did. Here's $50. Now get out of here.}
 {111}{}{Well, something is better than nothing, I guess. Goodbye.}
 {112}{}{You lousy bastard! Nobody could have done a better job. You'll regret stiffing me. Goodbye.}
-{113}{}{Well, most of the caravan made it, even if Savinelli didn't. Here's your $1500. I don't know when
+{113}{}{Well, most of the caravan made it, even if Savinelli didn't. Here's your $100. I don't know when
  we'll get someone else to run the caravan, though.}
 {114}{}{I don't think I ever want to spend so much time looking at the ass-end of a brahmin again. Goodbye.}
 {115}{}{That wasn't too bad at all. See you later. Goodbye.}
@@ -28,3 +28,4 @@
 {120}{}{Ook?}
 {121}{}{Savinelli got killed. Shit, I still don't believe it. I'm Velani. I'll settle up for what we owe.}
 {122}{}{Uh, thanks.}
+{123}{}{Shit, I still can't believe Savinelli got killed.}

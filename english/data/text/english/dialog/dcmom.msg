@@ -7,13 +7,13 @@
 # 1. Low Intelligence (WtG)
 {200}{}{Hello there, I'm Mom. I haven't seen you around here before.}
 {201}{}{Hello again. What can Mom do for you?}
-{202}{}{Me .}
+{202}{}{Me }
 {203}{}{Mmmm. Ook? Bye bye Mommy.}
 
 # 2. Low IQ more (1)
 {220}{}{You already half-ate me out of house and home. Why dontcha find someplace else to hang out for a while? You've eaten here enough today.}
-{221}{}{Well.}
-{222}{}{ you sure do look as though you're a might confused. I hate to see a critter suffer. Want something to eat?}
+{221}{}{Well }
+{222}{}{ you sure do look as though you're a mite confused. I hate to see a critter suffer. Want something to eat?}
 {223}{}{Me full. Mom food good. Bye Mom.}
 {224}{}{Me pay?}
 {225}{}{Me go. Bye Mom.}
@@ -128,7 +128,7 @@
 {476}{}{I won't help you out until you keep your word.}
 {477}{}{Hurry up now.}
 {478}{}{Go give Smitty his meal. Hurry up.}
-{479}{}{Stop your lollygaging and get that meal to Smitty.}
+{479}{}{Stop your lollygagging and get that meal to Smitty.}
 
 # 20. Reward (WtG)
 {485}{}{That was good work. You must have worked up quite an appetite.
@@ -169,5 +169,5 @@
 {581}{}{Thanks. I have another question for you.}
 {582}{}{Thanks, bye.}
 
-# 13b. PC Responce line added to node 13
+# 13b. PC Response line added to node 13
 {600}{}{What do you know about that haunted house?}

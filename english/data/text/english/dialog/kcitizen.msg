@@ -68,7 +68,7 @@
 {197}{}{You're not like Sulik at all.}
 {198}{}{You're the most civilized tribal I've ever met.}
 {199}{}{Watch out for geckos that have changed color.}
-{200}{}{Hello, traveller.}
+{200}{}{Hello, traveler.}
 {201}{}{Glad to have you in Klamath.}
 {202}{}{Howdy, stranger.}
 {203}{}{Watch out for those Duntons; they're dangerous.}
@@ -94,7 +94,7 @@
 {1101}{}{Our great ancestor who gave us knowledge.}
 {1102}{}{The first to fight and win over chaos.}
 {1103}{}{That would be our beautiful village.}
-{1104}{}{That’s trading outpost a few days east of here.}
+{1104}{}{That's trading outpost a few days east of here.}
 {1105}{}{The Vault is heaven.}
 {1106}{}{You are the Chosen One.}
 {1107}{}{He heals us with his herbs and magic. He is in the north part

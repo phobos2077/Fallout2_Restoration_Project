@@ -152,7 +152,7 @@
 
 {430}{}{Winner! You've tripled your money!}
 {431}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
-{432}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
+{432}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, ma'am!}
 
 {440}{}{Call it a day.}
 {441}{}{Call it a night.}

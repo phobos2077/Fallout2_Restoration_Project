@@ -29,8 +29,8 @@
 {210}{}{on fire}
 {211}{}{had your armor bypassed}
 {212}{}{your weapon exploded}
-{213}{}{your weapon destroyed}
-{214}{}{your weapon dropped}
+{213}{}{destroyed your weapon}
+{214}{}{dropped your weapon}
 {215}{}{lost your next turn}
 {216}{}{hit yourself}
 {217}{}{lost the rest of your ammo}
@@ -55,8 +55,8 @@
 {260}{}{on fire}
 {261}{}{had your armor bypassed}
 {262}{}{your weapon exploded}
-{263}{}{your weapon destroyed}
-{264}{}{your weapon dropped}
+{263}{}{destroyed your weapon}
+{264}{}{dropped your weapon}
 {265}{}{lost your next turn}
 {266}{}{hit yourself}
 {267}{}{lost the rest of your ammo}
@@ -81,8 +81,8 @@
 {310}{}{on fire}
 {311}{}{had his armor bypassed}
 {312}{}{his weapon exploded}
-{313}{}{his weapon destroyed}
-{314}{}{his weapon dropped}
+{313}{}{destroyed his weapon}
+{314}{}{dropped his weapon}
 {315}{}{lost his next turn}
 {316}{}{hit himself}
 {317}{}{lost the rest of his ammo}
@@ -107,7 +107,7 @@
 {410}{}{on fire}
 {411}{}{had her armor bypassed}
 {412}{}{her weapon exploded}
-{413}{}{her weapon destroyed}
+{413}{}{destroyed her weapon}
 {414}{}{her weapon dropped}
 {415}{}{lost her next turn}
 {416}{}{hit herself}
@@ -648,20 +648,34 @@
 {2017}{}{the regulator}
 {2018}{}{uncalled}
 
+#
+# Fruit Fly
+#
+{2030}{}{the head}
+{2031}{}{the stinger}
+{2032}{}{the antennae}
+{2033}{}{the thorax}
+{2034}{}{the forelegs}
+{2035}{}{the hindlegs}
+{2036}{}{the eyes}
+{2037}{}{the wings}
+{2038}{}{uncalled}
+
+
 
 #
 # Critical Hit Messages
 #
 # 5000 series - men (including generics)
 #
-{5000}{}{ and really hurts}
+{5000}{}{. That really hurts}
 {5001}{}{. A serious wound is inflicted}
 {5002}{}{ with no armor defenses}
 {5003}{}{. The damaging attack knocks him unconscious}
 {5004}{}{. The blow knocks him to the ground}
 {5005}{}{. The strong blow to the head knocks him out}
 {5006}{}{. The attack crushes the temple. Good night, Gracie}
-{5007}{}{, death is instantaneous}
+{5007}{}{. Death is instantaneous}
 {5008}{}{, causing severe tennis elbow}
 {5009}{}{, pushing the arm out of the way}
 {5010}{}{, leaving a big bruise}
@@ -671,38 +685,38 @@
 {5014}{}{, leaving a crippled right arm}
 {5015}{}{. His right arm is pulverized by this powerful blow}
 {5016}{}{ in a forceful blow}
-{5017}{}{ blowing through the armor}
+{5017}{}{, blowing through the armor}
 {5018}{}{, inflicting an extra helping of damage}
 {5019}{}{ with no armor, knocking the combatant to the ground}
-{5020}{}{ knocking the air out, he slumps to the ground out of the fight}
+{5020}{}{, knocking the air out. He slumps to the ground out of the fight}
 {5021}{}{. Unfortunately, his spine is now clearly visible from the front}
-{5022}{}{ putting a major hurt on his leg}
+{5022}{}{, putting a major hurt on his leg}
 {5023}{}{, knocking him to the ground like a bowling pin in a league game}
 {5024}{}{, bowling him over and crippling that leg}
 {5025}{}{, smashing the knee into the next town. He falls}
 {5026}{}{. The intense pain of having a leg removed causes him to quit}
-{5027}{}{ inflicting some extra pain}
-{5028}{}{ causing blindness, unluckily for him}
-{5029}{}{, and with no protection there, causing serious pain}
+{5027}{}{, inflicting some extra pain}
+{5028}{}{. Unluckily for him, it causes blindness}
+{5029}{}{. With no protection there, it causes serious pain}
 {5030}{}{, and blinding him with a stunning blow}
 {5031}{}{. The loss of an eye is too much for him, and he falls to the ground}
-{5032}{}{, sadly, he is too busy feeling the rush of air on the brain to notice death approaching}
+{5032}{}{. Sadly, he is too busy feeling the rush of air on the brain to notice death approaching}
 {5033}{}{. Ouch! That had to hurt}
 {5034}{}{, and he's not wearing a cup, either}
-{5035}{}{ and without protection, he falls over, groaning in agony}
+{5035}{}{. Without protection, he falls over, groaning in agony}
 {5036}{}{. The pain is too much for him and he collapses like a rag}
 {5037}{}{. He mumbles "Mother", as his eyes roll into the back of his head}
 #
 # series 5100 - women
 #
-{5100}{}{ and really hurts}
+{5100}{}{. That really hurts}
 {5101}{}{. A serious wound is inflicted}
 {5102}{}{ with no armor}
 {5103}{}{. The damaging attack knocks her unconscious}
 {5104}{}{. The blow knocks her to the ground}
 {5105}{}{. The strong blow to the head knocks her out}
 {5106}{}{. The attack crushes her temple. Good night, Gracie}
-{5107}{}{, death is instantaneous}
+{5107}{}{. Death is instantaneous}
 {5108}{}{, causing severe tennis elbow}
 {5109}{}{, pushing the arm out of the way}
 {5110}{}{, leaving a big bruise}
@@ -712,22 +726,22 @@
 {5114}{}{, leaving a crippled right arm}
 {5115}{}{. Her right arm is turned into hamburger by the blow}
 {5116}{}{ in a forceful blow}
-{5117}{}{ piercing through her defenses}
+{5117}{}{, piercing through her defenses}
 {5118}{}{, inflicting an extra helping of damage}
 {5119}{}{ with no armor, knocking the female fighter to the ground}
-{5120}{}{ knocking the air out, she slumps to the ground}
+{5120}{}{, knocking the air out. She slumps to the ground}
 {5121}{}{. Unfortunately, her major organs have been exposed to the light}
-{5122}{}{ putting a major hurt on her leg}
+{5122}{}{, putting a major hurt on her leg}
 {5123}{}{, knocking her over like a bad blind date}
 {5124}{}{, knocking her down and crippling that leg}
 {5125}{}{, smashing the knee into the next town. She takes the fast track to the ground}
 {5126}{}{. She screams in pain from the broken leg}
-{5127}{}{ inflicting some extra pain}
-{5128}{}{ causing blindness. She grimaces}
-{5129}{}{, and with no protection there, causing serious pain}
+{5127}{}{, inflicting some extra pain}
+{5128}{}{, causing blindness. She grimaces}
+{5129}{}{. With no protection there, it causes serious pain}
 {5130}{}{. The wound causes severe blindness, as if there is any other kind}
 {5131}{}{. She faints from the blinding attack}
-{5132}{}{, sadly, she doesn't get to pray to her gods before she meets them}
+{5132}{}{. Sadly, she doesn't get to pray to her gods before she meets them}
 {5133}{}{. She takes it like a man. That is to say, it hurts}
 {5134}{}{, knocking her to the ground}
 {5135}{}{. Her childbearing days are in trouble as she collapses in a limp heap}
@@ -757,7 +771,7 @@
 {5220}{}{, bashing in the youthful looking nose}
 {5221}{}{. A cut appears above the eyes and the blood starts to flow freely}
 {5222}{}{, which opens an eye like an exploding grape. The child looks bewildered}
-{5223}{}{ causing blindness. The young child drops to the ground}
+{5223}{}{, causing blindness. The young child drops to the ground}
 {5224}{}{, the blow continues into the small brain}
 {5225}{}{. The child looks confused and shaken}
 {5226}{}{, knocking this young target to the ground}
@@ -775,7 +789,7 @@
 {5308}{}{. The blow breaks the elbow and probably didn't feel too good}
 {5309}{}{, breaking the thick arm and spewing mutant blood over the ground}
 {5310}{}{, causing the giant to stumble for a moment and then collapse like a felled tree}
-{5311}{}{, and gallons of viscera splurt to the ground}
+{5311}{}{, and gallons of viscera spurt to the ground}
 {5312}{}{, sending the giant flying to the floor}
 {5313}{}{. The mutant stumbles and falls, his leg barely able to support him}
 {5314}{}{, striking a vital location. The mutant crumples under a broken leg}
@@ -790,7 +804,7 @@
 # series 5400 - Ghouls
 #
 {5400}{}{. The ghoul is surprised, and fails to defend against this attack}
-{5401}{}{. This blow buries this ghoul}
+{5401}{}{. The blow buries this ghoul}
 {5402}{}{. The stunned ghoul's hand flies open}
 {5403}{}{, sneaking through his armor and striking a critical joint}
 {5404}{}{, sneaking through his armor and lopping the arm off}
@@ -811,22 +825,22 @@
 {5507}{}{, blinding both sets of eyes with a single blow}
 {5508}{}{, blinding both heads and stunning the mutant cow}
 {5509}{}{, completely blinding the Brahmin and knocking it out}
-{5510}{}{, the large mutant bovine stumbles for a moment}
+{5510}{}{. The large mutant bovine stumbles for a moment}
 {5511}{}{. The Brahmin shakes with rage}
 {5512}{}{. The Brahmin snorts with pain}
 {5513}{}{. The Brahmin is most upset with this udderly devastating attack}
 #
 # series 5600 - Radscorpions
 #
-{5600}{}{, sending the Radscorpion flying on it's back}
+{5600}{}{, sending the Radscorpion flying on its back}
 {5601}{}{, separating the head from the carapace}
 {5602}{}{, seriously damaging the tail}
-{5603}{}{, putting a major hurt on it's claws}
+{5603}{}{, putting a major hurt on its claws}
 {5604}{}{. The blow slips between the cracks of the Radscorpion's tough carapace}
 {5605}{}{, striking through the tough carapace without pausing}
 {5606}{}{, passing through the natural armor and knocking the Radscorpion over}
 {5607}{}{. The Radscorpion cannot cope with a new sensation, like missing internal organs}
-{5608}{}{, sending the 'scorpion flying and crippling some of it's legs}
+{5608}{}{, sending the 'scorpion flying and crippling some of its legs}
 {5609}{}{. The attack cuts through an unprotected joint on the leg, severing it}
 {5610}{}{, seriously wounding and blinding the mutant creature}
 {5611}{}{, penetrating almost to the brain. Talk about squashing a bug}
@@ -854,26 +868,26 @@
 #
 # series 5800 - Floaters
 #
-{5800}{}{, the floater drops to the ground}
-{5801}{}{, the floater falls to the ground, seemingly lifeless}
-{5802}{}{, with serious consequences to the creatures continued existance}
+{5800}{}{. The floater drops to the ground}
+{5801}{}{. The floater falls to the ground, seemingly lifeless}
+{5802}{}{, with serious consequences to the creature's continued existence}
 {5803}{}{, stunning the foul creature}
 {5804}{}{, hitting a sensitive spot there and stunning the floater}
 {5805}{}{. The blow causes the floater to shudder violently in a spray of crimson}
-{5806}{}{, the blow causing some sort of violent reaction in the creature}
+{5806}{}{. The blow causing some sort of violent reaction in the creature}
 {5807}{}{. The floater suddenly bursts into flames}
-{5808}{}{ then it jerks wildly and quivers like a pudding surprise}
+{5808}{}{. It jerks wildly and quivers like a pudding surprise}
 {5809}{}{, with the blow hitting a sensitive spot}
 {5810}{}{. The creature is obviously agitated}
 #
 # series 5900 - Centaurs
 #
-{5900}{}{, pushed like a bad habit, the centaur falls over and is stunned}
+{5900}{}{. Pushed like a bad habit, the centaur falls over and is stunned}
 {5901}{}{ as the blow strikes a critical spot}
-{5902}{}{, causing a massive neurological failure}
+{5902}{}{, causing massive neurological failure}
 {5903}{}{, stunning it with your violent attack}
 {5904}{}{, crippling the arm}
-{5905}{}{ striking a critical spot, and crippling the arm}
+{5905}{}{, striking a critical spot. The arm is crippled}
 {5906}{}{, knocking the creature over and crippling the leg}
 {5907}{}{, stunning the centaur as it is knocked over with a crippled leg}
 {5908}{}{, blinding a head}
@@ -885,7 +899,7 @@
 # series 6000 - Robots
 #
 {6000}{}{, inflicting some structural damage}
-{6001}{}{, sparks fly and the robot goes momentarily out of control}
+{6001}{}{. Sparks fly and the robot goes momentarily out of control}
 {6002}{}{, hitting a critical component and forcing the robot out of control}
 {6003}{}{, hitting a critical component and causing a massive malfunction}
 {6004}{}{. The robot attempts to compensate}
@@ -904,7 +918,7 @@
 {6100}{}{, knocking the pooch to the ground}
 {6101}{}{, right across the snout}
 {6102}{}{. The dog falls over, but it is still breathing}
-{6103}{}{, the animal coughs up a splurt of blood}
+{6103}{}{. The animal coughs up a spurt of blood}
 {6104}{}{, crippling the leg}
 {6105}{}{, crippling the leg. The animal tries to remain standing, but fails}
 {6106}{}{. The blinded animal howls in pain}
@@ -913,13 +927,13 @@
 # series 6200 - Manti
 #
 {6200}{}{, knocking down this mutated insect}
-{6201}{}{, which collapses}
-{6202}{}{. The manti ponders whether to continue living}
+{6201}{}{. It collapses}
+{6202}{}{. The manti ponders whether or not to continue living}
 {6203}{}{, crippling the limb}
-{6204}{}{, causing the Manti to lick it's wounds. It holds the limb oddly}
+{6204}{}{, causing the manti to lick its wounds. It holds the limb oddly}
 {6205}{}{, bypassing the chitinous armor}
-{6206}{}{. The manti shrieks and shivers must unhuman like}
-{6207}{}{, which causes the manti to fall over. A limb is bent at an odd shape}
+{6206}{}{. The manti shrieks and shivers most inhuman like}
+{6207}{}{, which causes the manti to fall over. A limb is bent at an odd angle}
 {6208}{}{, shredding the wings}
 {6209}{}{, bypassing the chitinous armor and throwing the manti around}
 {6210}{}{, blinding the insect with an accurate blow}
@@ -937,7 +951,7 @@
 {6402}{}{, breaking some of its fronds}
 {6403}{}{, damaging its chlorophyll intake}
 {6404}{}{, knocking the pollen out of it}
-{6405}{}{. almost tipping it over}
+{6405}{}{, almost tipping it over}
 {6406}{}{, damaging some of its branches}
 #
 # series 6500 - The Player
@@ -946,7 +960,7 @@
 {6501}{}{. Your armor provides no protection from this well-aimed blow}
 {6502}{}{. You feel the pain for just a moment, and then darkness takes you..}
 {6503}{}{, bypassing your armor. The blow knocks you off your feet}
-{6504}{}{, the shock makes your vision go dark. After a moment, you notice that your vision has not returned}
+{6504}{}{. The shock makes your vision go dark. After a moment, you notice that your vision has not returned}
 {6505}{}{. You get a nice view of your body as your head sails through the air}
 {6506}{}{. Surprisingly, the damage feels no worse than normal}
 {6507}{}{, stunning you for a moment}
@@ -956,23 +970,20 @@
 {6511}{}{, bypassing your armor. Your arm now hangs limply at your side}
 {6512}{}{. The bruise will look nice, and maybe the scars will make good party talk}
 {6513}{}{, crushing your internal organs. All you can do is gurgle blood}
-{6514}{}{, sending head over heels}
+{6514}{}{, sending you head over heels}
 {6515}{}{, sending you flying and breaking your leg}
 {6516}{}{, melting through your armor. The blow knocks you over and seriously hurts your knee}
 {6517}{}{. The pain from your broken leg sends you into unconsciousness}
 {6518}{}{. The painful blow makes you flinch, but does little else}
-{6519}{}{. Unlucky for you, it also causes immediate vision loss}
+{6519}{}{. Unluckily for you, it also causes immediate vision loss}
 {6520}{}{. It takes you a moment to wipe the blood from your eyes}
 {6521}{}{, slipping past your armor. You stand stunned as your realize you cannot see anymore}
 {6522}{}{. You feel a strange sensation in your head. You realize it's imminent brain-death}
 {6523}{}{, making you cringe}
 {6524}{}{. You cup your groin and fall to the floor in pain}
 {6525}{}{. The pain is sufficient to knock you out. Ouch}
-{6526}{}{. There are not enough words in the universe to describe the pain your are feeling at this moment}
-
-
+{6526}{}{. There are not enough words in the universe to describe the pain you are feeling at this moment}
 # Fallout 2:
-
 #
 # series 6700 - Gecko
 #
@@ -1013,12 +1024,13 @@
 {7004}{}{, knocking it around a bit}
 {7005}{}{, almost tipping it over}
 {7006}{}{, damaging some of its exoskeleton}
-
+#
 # Series 7100 - End Boss
+#
 {7100}{}{, blowing past the Bodyguard's armor}
 {7101}{}{, bringing the Bodyguard to his knees}
 {7102}{}{, destroying his arm control mechanism}
 {7103}{}{, destroying his leg rotator mechanism}
 {7104}{}{, shattering his bionic eye}
-{7105}{}{, causing him to pause and shake of your massive attack}
+{7105}{}{, causing him to pause and shake off your massive attack}
 {7106}{}{, compacting his chest plate}

@@ -14,6 +14,6 @@
 {121}{}{Thank you for returning Jonny to me.}
 
 # looks
-{150}{}{You see Baltha's wife.}
-{151}{}{You see Baltha's wife. She looks pretty upset.}
-{152}{}{You see Baltha's wife. She appears to be in a pleasant mood now.}
+{150}{}{You see Balthas' wife.}
+{151}{}{You see Balthas' wife. She looks pretty upset.}
+{152}{}{You see Balthas' wife. She appears to be in a pleasant mood now.}

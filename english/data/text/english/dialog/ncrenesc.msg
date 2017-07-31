@@ -31,7 +31,7 @@
 {238}{}{Okee dokee it coming out…you better stand back (Zip.)}
 {239}{}{Okee dokee. Need open bra first. Hold on (Zip.)}
 {240}{}{Whut me WANT? Whut you GOT?}
-{241}{}{Stare at him for a second, just to make sure he's real, then wander away}
+{241}{}{[Stare at him for a second, just to make sure he's real, then wander away]}
 {242}{}{Who are you?}
 {243}{}{Hey, I have a pair of glasses, if you want them.}
 {244}{}{How's the glasses?}
@@ -74,13 +74,13 @@
 {295}{}{I'm outta here.}
 
 # 7. WHAT DO YOU SELL? (6, 36, 42)
-{305}{}{I sell recreational chems mostly. That's why they gave me that idiotic appellation, 'the Rocketman.' Hmmmph. I
+{305}{}{I sell recreational drugs mostly. That's why they gave me that idiotic appellation, 'the Rocketman.' Hmmmph. I
  also sell some caravan supplies. You NEED anything or can I get back to something important?}
 {306}{}{Rocketman, huh? Know the line in that Elton John song, "Rocketman, burning off the mmmncfnfm there at home?' What's
  he really saying there?}
 {307}{}{Can I see what you have in stock?}
-{308}{}{You sell chems here in the STORE?}
-{309}{}{You mean like selling chems to Wright's son?}
+{308}{}{You sell drugs here in the STORE?}
+{309}{}{You mean like selling drugs to Wright's son?}
 {310}{}{Go on back to what you were doing.}
 
 # 8. ROCKETMAN/IGNORE QUEST (6, 7, 32, 36)
@@ -89,7 +89,7 @@
 {322}{}{Nevermind, then.}
 
 # 9. YOU SELL DRUGS IN THE STORE? (7)
-{330}{}{(Renesco looks at you in disgust.) Yes. In the STORE. This isn't the 20th century where chems are sold by
+{330}{}{(Renesco looks at you in disgust.) Yes. In the STORE. This isn't the 20th century where drugs are sold by
  street corner cockroaches who live in constant fear of the authorities.}
 {331}{}{Well, then -}
 {332}{}{But -}
@@ -101,7 +101,7 @@
 {351}{}{All except one: Was Richard Wright one of your customers?}
 {352}{}{All right, all right...what have you got in stock?}
 {353}{}{Actually, I had some more questions...}
-{354}{}{But, like you said, the chems are…poisonous. They kill the spirit. Doesn't it bother you to sell them?}
+{354}{}{But, like you said, the drugs are…poisonous. They kill the spirit. Doesn't it bother you to sell them?}
 {355}{}{Sure does. I'll be going now.}
 
 # 11. DOES IT BOTHER YOU TO SELL DRUGS IN THE STORE? (10)
@@ -109,7 +109,7 @@
  without? Primate, three words: get out more.}
 {366}{}{OK...can I see what you have in stock?}
 {367}{}{All right, all right. Look, I had some other questions...}
-{368}{}{The chems here in New Reno are finding their way to other places, and hurting people there. Doesn't that concern you?}
+{368}{}{The drugs here in New Reno are finding their way to other places, and hurting people there. Doesn't that concern you?}
 {369}{}{I'll start by leaving right now.}
 
 # 12. YOU SELL DRUGS IN THE STORE 2? (11)
@@ -143,7 +143,7 @@
 
 # 16. WHO'S SUPPLYING REDDING? (15)
 {420}{}{Well, tribal, I doubt you have the sense to notice this yet, but New Reno doesn't produce anything useful.
- It's like a big, brightly-lit prairie tick sitting out in the desert.  Now, Redding, on the other hand…}
+ It's like a big, brightly-lit prairie tick sitting out in the desert. Now, Redding, on the other hand…}
 {421}{}{Go on.}
 {422}{}{…DOES produce something useful.}
 {423}{}{I've heard enough.}
@@ -157,9 +157,9 @@
 
 # 18. GO ON ABOUT REDDING (16, 17)
 {440}{}{Redding has a stable work force that mines raw materials, mostly gold. New Reno sure could use that gold. Somebody
- figures all we gotta do is get those miners hooked, and we got 'em for life. You understand now?}
+ figures all we gotta do is get those miners addicted, and we got 'em for life. You understand now?}
 {441}{}{Yes…except for one thing: Where did Jet come from?}
-{442}{}{Who's trying to hook all the miners?}
+{442}{}{Who's trying to addict all the miners?}
 {443}{}{Yeah, I understand. Look, I had some other questions...}
 {444}{}{I don't want to hear anymore. I must be going now.}
 
@@ -179,7 +179,7 @@
 {463}{}{I see. Look, I had some other questions...}
 
 # 21. TALK ABOUT MYRON (19, 24)
-{470}{}{Horny as a toad and all the morals of one. Smart kid, though. High IQ. Wasting his brains manufacturing chems, that's
+{470}{}{Horny as a toad and all the morals of one. Smart kid, though. High IQ. Wasting his brains manufacturing drugs, that's
  for damn certain.}
 {471}{}{Where can I find him?}
 {472}{}{I see. I had some other questions…}
@@ -189,13 +189,13 @@
 {481}{}{Thanks for the information. Can I see what you have in stock?}
 
 # 23. ANY CURE FOR JET? (19, 20)
-{490}{}{A CURE for metamphetamine reliance?! Ha! I only know two: one is death. The other is locking yourself
+{490}{}{A CURE for methamphetamine addiction?! Ha! I only know two: one is death. The other is locking yourself
  in a cage for a year without Jet and sweat it out of your system. Hmmmph. "Cure," my ass! What nonsense!}
 {492}{}{There must be a cure. What's Jet's chemical composition?}
 
 # 24. JET COMPOSITON? (23)
-{505}{}{Why don't you ask your friend there? He designed the chem.}
-{506}{}{I just sell the stuff. I'd ask a scientist. Or Myron. He designed the chem.}
+{505}{}{Why don't you ask your friend there? He designed the drug.}
+{506}{}{I just sell the stuff. I'd ask a scientist. Or Myron. He designed the drug.}
 
 # 25. TALK ABOUT VILLAGE (6, 42)
 {515}{}{(Renesco glares at you in silence.)}
@@ -278,13 +278,13 @@
 # 36. YOUR VOCABULARY IS IMPRESSIVE (6, 42)
 {630}{}{A person's past ain't a smart topic of conversation here in New Reno. Now, what is you want?}
 {632}{}{You sound like an educated man. Have you ever heard of a GECK or a place called Vault 13?}
-{634}{}{Nothing, nevermind. }
+{634}{}{Nothing, nevermind.}
 
 # 37. GLASSES (3, 42)
 {640}{}{(Renesco snatches the glasses from you and puts them on. His eyes widen.) Sweet Reno! THAT'S what this damn
  shop looks like. (Frowns.) What a mess…and what is that on the shelves? Looks like brahmin shit.}
 {641}{}{You're welcome…}
-{642}{}{Enjoy. }
+{642}{}{Enjoy.}
 
 # 38. YOU'RE WELCOME (37)
 {650}{}{Hmpphh! I…hmmm…uh…where did you get these?}
@@ -347,7 +347,7 @@
 {749}{}{Uh, I don't have two hundred on me…I'll be back later with the cash. }
 
 # 46.  HE SAID: SHIT (43)
-{755}{}{I STRONGLY doubt that is what he said.  It wasn't 'The canary's kicked the bucket,' was it?}
+{755}{}{I STRONGLY doubt that is what he said. It wasn't 'The canary's kicked the bucket,' was it?}
 {756}{}{Well, yes.}
 
 # 47.  HE SAID: AND . . . (43, 46)
@@ -401,7 +401,7 @@
  of you is lying.}
 {827}{}{JULES says he didn't sell to the kid. JIMMY says he didn't sell to the kid. YOU say you didn't sell to him. Either
  you all are lying, or...somebody else is responsible.}
-{828}{}{Can you tell me anything else about Richard Wright? Who did he hang around who might have used chems?}
+{828}{}{Can you tell me anything else about Richard Wright? Who did he hang around who might have used drugs?}
 {829}{}{All right...look, I had some other questions...}
 {830}{}{Okay, okay...I'm going now. }
 
@@ -410,7 +410,7 @@
  sell 90% of the Jet in Reno, and that's the only place the 'boy' we're talking about could've gotten it from.}
 {836}{}{Or somebody that bought from one of you three. Who were your customers last month who might have had contact
  with…the victim?}
-{837}{}{Can you tell me anything else about Richard Wright? Did he hang around anyone else who might have used chems?}
+{837}{}{Can you tell me anything else about Richard Wright? Did he hang around anyone else who might have used drugs?}
 {838}{}{I see...I had some other questions...}
 {839}{}{I'm going now. }
 
@@ -465,7 +465,7 @@
 {924}{}{I'll try and figure something out…I'll be back.}
 
 # 64. IN EXCHANGE FOR FREE ACCESS TO YOUR STORE (63)
-{930}{}{Now hold on, you neanderthal…}
+{930}{}{Now hold on, you Neanderthal…}
 {931}{}{I will not argue with you anymore. My patience is at an end. Those are my terms.}
 
 # 65. THOSE ARE MY TERMS (64)
@@ -474,7 +474,7 @@
 {943}{}{I don't want anything now, but don't worry, I'll be back. }
 
 # 66. HOW'S THE GLASSES (64)
-{950}{}{(Folds arms.) Adequate. If you are expecting some handout for being a good samaritan, you are GRAVELY
+{950}{}{(Folds arms.) Adequate. If you are expecting some handout for being a Good Samaritan, you are GRAVELY
  mistaken. Now…what do you want?}
 {951}{}{Goddamn whatever Deathclaw or marketing director spawned you! You WANT something?! Here! HERE! Take THIS!
  Take ALL I have! Anything to get you to LEAVE ME ALONE!}
@@ -510,7 +510,7 @@
 {995}{}{The Salvatores requested it -- they said it was a..."special order." I didn't know they were going to give
  it to the Wright kid. You HAVE to believe me...I don't poison kids!}
 {996}{}{Just adults, huh, Renesco? You sorry son of a bitch...}
-{997}{}{WHY did you poison the Jet?  You had to know they were going to kill someone with it.}
+{997}{}{WHY did you poison the Jet? You had to know they were going to kill someone with it.}
 {998}{}{All right, all right, I believe you. I had some other questions...}
 {999}{}{Just shut up. Look, I had some other questions...}
 {1000}{}{The Salvatores, huh? I think Mr. Wright will want to know about this. }

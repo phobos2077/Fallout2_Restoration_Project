@@ -53,22 +53,22 @@
 {145}{tand7b}{What do you want to know?}
 {146}{}{What you tell about Vault 15?}
 {147}{}{Why no make deal with squatters?}
-{148}{}{You know where vault 13?}
+{148}{}{You know where Vault 13?}
 {149}{}{Me look for geck. You have?}
 {150}{}{What you tell about New Reno?}
-{151}{}{What you tell about Frank Westin?}
+{151}{}{What you tell about Roger Westin?}
 {152}{}{What you tell about Carlson?}
 {153}{}{Elder tell story. Talk about Vaultdweller, Tandi. You that Tandi?}
 {154}{}{This Shadeesans Elder talk about?}
 {155}{}{That all. Me go now.}
-{156}{}{What can you tell me about vault 15?}
+{156}{}{What can you tell me about Vault 15?}
 {157}{}{Why haven't you made a deal with the squatters?}
-{158}{}{Do you know where vault 13 is?}
-{159}{}{I'm looking for a geck. Would you happen to have one?}
+{158}{}{Do you know where Vault 13 is?}
+{159}{}{I'm looking for a GECK. Would you happen to have one?}
 {160}{}{What can you tell me about New Reno?}
-{161}{}{What can you tell me about Frank Westin?}
+{161}{}{What can you tell me about Roger Westin?}
 {162}{}{What you can tell me about Carlson?}
-{163}{}{The Elder tells a story about the Vaultdweller and someone named Tandi. Are you that Tandi?}
+{163}{}{The Elder tells a story about the Vault Dweller and someone named Tandi. Are you that Tandi?}
 {164}{}{Is this the Shadeesands the Elder speaks of?}
 {165}{}{That's all for now. I'll be going.}
 
@@ -90,7 +90,7 @@
 
 {178}{tand12}{With that suit you're wearing I figured you already knew.}
 {179}{}{Suit been in village long time. Belong to Vaultdweller, tribe founder.}
-{180}{}{This suit has been in our village since the beginning. It belonged to the Vaultdweller, our founder.}
+{180}{}{This suit has been in our village since the beginning. It belonged to the Vault Dweller, our founder.}
 
 {181}{tand13}{You're serious aren't you? If we're talking about the same person, he saved my life. (snorts) Then vanished. When I start thinking it was only a dream, I go look at the statue out front.}
 {182}{}{Statue?}
@@ -104,13 +104,13 @@
 {188}{}{Me Chosen One. Me descendant Vaultdweller.}
 {189}{}{Not matter. Me ask questions.}
 {190}{}{I've heard stories and I'm curious.}
-{191}{}{I'm the Chosen One of my village. I am a descendant of the Vaultdweller.}
+{191}{}{I'm the Chosen One of my village. I am a descendant of the Vault Dweller.}
 {192}{}{Never mind. I was just curious.}
 
 {193}{tand16}{It's just a damn myth like lost uranium mines. I did meet a stranger once who claimed to be from there. Lot of folks died trying to find that vault afterward.}
 {194}{}{Vaultdweller real. Me descendant.}
 {195}{}{Me need know more.}
-{196}{}{The Vaultdweller was real. I'm one of his descendants.}
+{196}{}{The Vault Dweller was real. I'm one of his descendants.}
 {197}{}{I see. Let me ask you about something else.}
 
 {198}{tand17}{A geck? Like the lizard? We got them all over.}
@@ -161,17 +161,17 @@
 {234}{}{Yeah. Me understand.}
 {235}{}{Yes, I understand.}
 
-{236}{tand27}{Lord, that was a long time ago! Hardly remember who I was then - just a naïve girl. The one you call the Vaultdweller - is he still alive?}
+{236}{tand27}{Lord, that was a long time ago! Hardly remember who I was then - just a naive girl. The one you call the Vault Dweller - is he still alive?}
 {237}{}{He ancestor now. Live with spirits. Live in me.}
-{238}{}{The Vaultdweller is my ancestor. He lives on in me.}
+{238}{}{The Vault Dweller is my ancestor. He lives on in me.}
 
 {239}{tand28}{Yes... there's a resemblance - you've got the same fire, too. I was always afraid that he was nothing but a skeleton somewhere in the desert.}
 {240}{}{Me want hear you story.}
 {241}{}{I'd like to hear your story.}
 
-{242}{tand29}{Figures. (sigh) Well, I was pretty young when we met. There was a gang of raiders - The Khans - Who'd gotten hold of me. Things were looking pretty bad when, all of a sudden, this stranger shows up and rescues me. Your Vaultdweller.}
+{242}{tand29}{Figures. (sigh) Well, I was pretty young when we met. There was a gang of raiders - The Khans - Who'd gotten hold of me. Things were looking pretty bad when, all of a sudden, this stranger shows up and rescues me. Your Vault Dweller.}
 {243}{}{Vaultdweller have many adventures.}
-{244}{}{The Vaultdweller had many such adventures.}
+{244}{}{The Vault Dweller had many such adventures.}
 
 {245}{tand30}{I used to envy 'em that. I wanted a life of adventure, but I stayed here and took over as mayor when my dad died. Been running this place and building NCR ever since. Guess it turned out to be a pretty big life after all.}
 {246}{}{Elder be happy know you still alive. Sorry, but me need ask more.}
@@ -192,15 +192,15 @@
 
 {258}{tand34}{I've always believed in fair pay for fair work. My assistant will square things up.}
 {259}{}{Me find problem. You look disk. There spy at NCR.}
-{260}{}{Me need know one more thing. What if me found vault 13?}
+{260}{}{Me need know one more thing. What if me found Vault 13?}
 {261}{}{I'm afraid you have another problem. If you'll look at this holodisk you'll see that you have a spy in the NCR.}
-{262}{}{Just one more thing. What if I told you that I found vault 13?}
+{262}{}{Just one more thing. What if I told you that I found Vault 13?}
 {263}{}{Thanks.}
 
 {264}{tand35}{Damn, the only person who knew all this was Feargus! I'm not suggesting anything, but maybe Gunther should know about this.}
 {265}{}{Me tell. Me go now.}
-{266}{}{Me need know one more thing. What if me found vault 13?}
-{267}{}{Just one more thing. What if I told you that I found vault 13?}
+{266}{}{Me need know one more thing. What if me found Vault 13?}
+{267}{}{Just one more thing. What if I told you that I found Vault 13?}
 {268}{}{I'll talk to him. Bye.}
 
 {269}{tand36}{It's all business, huh? Fine. Five hundred, when it's done. I don't haggle, so take it or don't waste my time.}
@@ -258,10 +258,16 @@
 {311}{tand46}{A real horse trader you are. Fine, see Gunther. He'll handle the arrangements.}
 {312}{}{Thanks.}
 
-{313}{tand47}{Boys, get this glob of brahmin spit out of my office! Time for you to head on out stranger.}
+{313}{tand47}{Boys, get this glob of brahmin spit out of my office! Time for you to head on out, stranger.}
 {314}{}{Done}
 
 {315}{tand14b}{My dad and Seth searched for years trying to find Vault 13. They died looking - always said it was west of here. If somebody were to find Vault 13, that'd do us even better than 15.}
 
 # Float
 {316}{}{You'll have to talk to my aide, Gunther, about that.}
+
+# Added by killap
+{400}{}{Squatters want deal. You teach, you help, they give you vault.}
+{401}{}{The squatters want a deal. You help them become self sufficient and they'll give you access to the vault.}
+{410}{}{As me said. Lowlifes there but me kick ass. Bye-bye.}
+{411}{}{As I mentioned before, there were some lowlifes there but I kicked their ass. See you around.}

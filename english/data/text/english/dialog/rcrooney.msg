@@ -52,8 +52,8 @@
  now. Goodbye.}
 {139}{}{Threatening a frail old woman with Gross Bodily Harm? You and Ascorti are cut from the same
  cloth. All right. I'll leave, but I'll leave you a little extra something from my gypsy ancestors.
- (she makes a sign with her hands) There; you have the evil eye on you now. I hope you like it.}
-{140}{}{I've got a couple of gestures that you'll like, too. Here they are! (you make a few choice ones)
+ (She makes a sign with her hands.) There; you have the evil eye on you now. I hope you like it.}
+{140}{}{I've got a couple of gestures that you'll like, too. Here they are! [You make a few choice ones.]
  Now get out!}
 {141}{}{Gypsies, huh? Well if you're some sort of witch, maybe we should just burn you, then. Get out.}
 {142}{}{Just doing a job, lady. You don't want me to have to get rough with you. Now get out. Please?}

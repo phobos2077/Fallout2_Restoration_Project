@@ -1,5 +1,5 @@
 {100}{}{You see one of the Vault City gate guards.}
-{101}{}{You see a diligent-looking guard. The guard is wearing metal armor and carrying a powerful-looking shotgun.}
+{101}{}{You see a diligent-looking guard. The guard is wearing metal armor and carrying a powerful-looking rifle.}
 {102}{}{Hey! Get away from there!}
 {103}{}{We warned you once...}
 {104}{}{Hey! It's the one who defeated the Enclave. Open the gate.}
@@ -100,11 +100,11 @@
 {199}{}{Okay. Goodbye.}
 {200}{}{Yeah, you have a DAY Pass. Does it look like day to you? Move along.}
 {201}{}{Okay, okay.}
-{202}{}{Sometimes Outworlders try to smuggle alcohol or habit-forming chems into Vault City: Buffout, Jet, Psycho,
+{202}{}{Sometimes Outworlders try to smuggle alcohol or addictive drugs into Vault City: Buffout, Jet, Psycho,
  Mentats...that sort of thing.}
 {203}{}{Oh, okay. Feel free to search me.}
 {204}{}{Forget it, then. I don't need to get into Vault City that badly.}
-{205}{}{Sorry, can't let you in with those items in your possession. Chems and alcohol are not permitted in Vault
+{205}{}{Sorry, can't let you in with those items in your possession. Drugs and alcohol are not permitted in Vault
  City. Ditch them then come back, all right?}
 {206}{}{Okay.}
 {207}{}{All right, it looks like you're clean. You can head on in.}

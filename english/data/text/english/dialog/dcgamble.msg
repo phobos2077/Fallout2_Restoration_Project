@@ -3,7 +3,7 @@
 {101}{}{This gambler seems to be doing extremely well.}
 {102}{}{He seems to be winning, but all his money is on the table.}
 {103}{}{She seems to be winning, but all her money is on the table.}
-{104}{}{This person doesn't seem to be winning or losing}
+{104}{}{This person doesn't seem to be winning or losing.}
 {105}{}{This person hasn't won in a while.}
 {106}{}{She looks like she's about to cry and seems to almost be out of money.}
 {107}{}{He looks very angry and seems to be losing big.}
@@ -47,7 +47,7 @@
 {326}{}{Another payday lost for good.}
 {327}{}{I'm almost broke!}
 {328}{}{Damn it. This sucks.}
-{329}{}{Why is does this always happen to me?}
+{329}{}{Why does this always happen to me?}
 {330}{}{I can't win.}
 {331}{}{I hate this game.}
 
@@ -55,7 +55,7 @@
 {400}{}{Damn, Becky's was the only place to gamble around here!}
 {401}{}{Stay away.}
 {402}{}{Don't shoot!}
-{403}{}{Please leave us lone.}
+{403}{}{Please leave us alone.}
 
 # 4. BGF: Gambling (From Where to go)
 {500}{}{Don't stop there.}
@@ -68,7 +68,7 @@
 {507}{}{Give me another good bounce!}
 {508}{}{Yes!}
 {509}{}{All right!}
-{510}{}{Again, lets see that again.}
+{510}{}{Again, let's see that again.}
 {511}{}{Come on.}
 {512}{}{That's what I wanted.}
 {513}{}{Almost.}

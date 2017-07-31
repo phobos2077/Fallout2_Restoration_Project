@@ -61,7 +61,7 @@
 {151}{}{What's that?}
 {152}{}{I bet you do. Sorry, but I'm too busy right now. Goodbye.}
 {153}{}{I've got a great big ol' digger machine down in my mine. Problem is that the control chip for it
- don't work any more. I need a new one if I want to expand my operations.}
+ don't work anymore. I need a new one if I want to expand my operations.}
 {154}{}{That's interesting, but how do I fit in?}
 {155}{}{The Great Wanamingo Mine, just west of town, should have one of those same excavator machines.
  It's been abandoned for quite a while, so I'm guessing that they still have a working chip in their
@@ -106,8 +106,8 @@
  my drift - a while back. They swore up-and-down that they saw a ship fly past, going southwest.}
 {181}{}{What about the other rumors?}
 {182}{}{I guess that's all I need to know for now. Goodbye.}
-{183}{}{Well, Dan and his Morningstar boys favor those prissy NCR buggers. I guess that Redding'll be
- part of the New California Republic before too long.}
+{183}{}{Well, Dan and his Morningstar boys favor those mobsters from New Reno. I guess that Redding'll be
+ one big jet addict slum before too long.}
 {184}{}{Not really my concern. Tell me about something else.}
 {185}{}{Oh well. Goodbye.}
 {186}{}{In a town this size, everyone knows more than they want to about everyone else. So how about it?}

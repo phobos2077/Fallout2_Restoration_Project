@@ -1,5 +1,5 @@
 {100}{}{You see a Shi in white clothing.}
-{101}{}{You see a Shi lab tech}
+{101}{}{You see a Shi lab tech.}
 {102}{}{You see a Shi in white clothing in a science lab.}
 
 {103}{}{Man... Wong sure is a slave driver.}

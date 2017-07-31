@@ -10,7 +10,7 @@
 {109}{}{Let's see. We have three Servant inoculations scheduled for 1400...}
 {110}{}{All that beeping is driving me crazy...}
 {111}{}{I swear those medical databases are talking amongst themselves...}
-{112}{}{Let's see... three hypodermics, antiseptic, three ampules of RadX...}
+{112}{}{Let's see... three hypodermics, antiseptic, three ampoules of RadX...}
 {113}{}{Better prep Dr. Troy on that seminar for tomorrow...}
 {114}{}{Yeah, they have me working late AGAIN. Mostly making lists.}
 {115}{}{You might want to come back in the morning.}
@@ -74,7 +74,7 @@
 {173}{}{Can you tell me about Vault City?}
 {174}{}{Actually, never mind. Thanks anyway.}
 {175}{}{Oh, Dr. Troy can be pretty strict sometimes, but all in all, he's a good man. Vault City's fortunate to have him.}
-{176}{}{Well, he asked me to smuggle some chems into the city for him.}
+{176}{}{Well, he asked me to smuggle some drugs into the city for him.}
 {177}{}{Can I ask you another question?}
 {178}{}{Thanks for your time. Goodbye.}
 {179}{}{}
@@ -107,11 +107,11 @@
 {206}{}{That's too bad. I had some other questions...}
 {207}{}{Oh, well. Sorry to hear it.}
 {208}{}{I mean, have you noticed how similar everyone is? And OLD? Most of the seminars and extracurricular activities are geared towards octogenarians. I'm barely twenty-five, and this city makes me feel like I'm fifty.}
-{209}{}{Uh... octo-generians? You mean the guards?}
+{209}{}{Uh... octo-genarians? You mean the guards?}
 {210}{}{Speaking of old, I noticed there aren't any children in the city.}
 {211}{}{I DID notice the similarity of Citizens.}
 {212}{}{Oh, well. Just thought I'd ask.}
-{213}{}{Uh no… "octogenerian" is an adjective that refers to a person who is eighty years old. }
+{213}{}{Uh no… "octogenarian" is an adjective that refers to a person who is eighty years old. }
 {214}{}{Uh, okay. Can I ask you another question?}
 {215}{}{All right then. Maybe we'll speak later.}
 {216}{}{Well... yes. Actually, there aren't. Yet. I don't know if anyone told you yet, Vault City is a planned community. We're not due for another pregnancy cycle until a few years from now.}

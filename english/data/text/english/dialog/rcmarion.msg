@@ -44,7 +44,7 @@
  gecko was trying to make a lunch outta my kneecap. Damn thing almost had it, too. Another good bite and
  I'd be sitting down permanent-like.}
 {139}{}{So your leg's still in bad shape, huh?}
-{140}{}{Well, I wasn't much of a dancer before this happened, and I rechon I won't be afterwards, neither.
+{140}{}{Well, I wasn't much of a dancer before this happened, and I reckon I won't be afterwards, neither.
  I can gimp around, but Doc Johnson said I better not if'n I want it to heal right. Sure could use some
  help, though.}
 {141}{}{Not that I can do much right now, with my leg all banged up. Gotta stay off it for a time yet,
@@ -66,7 +66,7 @@
 {153}{}{How can I help out?}
 {154}{}{As a Ranger, I could do no less than help you out in your time of need.}
 {155}{}{I don't think I can help you out right now, Sheriff. Maybe another time. Goodbye.}
-{156}{}{I wouldn't get any bright ideas. I can still whup any two of you, with or without a good leg.}
+{156}{}{I wouldn't get any bright ideas. I can still whoop any two of you, with or without a good leg.}
 {157}{}{Hey, I was just kidding. Let me ask you something else.}
 {158}{}{Yeah, you and what army?}
 {159}{}{I was just pulling your leg. Uh, what I mean to say is…uh. Goodbye, Sheriff.}
@@ -211,7 +211,7 @@
 {258}{}{Didn't I? Must have plum darn slipped my mind. Yup, that's what it did. Well, he's got three
  older brothers...even meaner than he was, from what I hear. Let's see...Toad, Newt and Snake Morton, if
  I remember aright. Heck, you know how tall tales can get. By the way, keep that badge I gave you. You
- earned it…Sheriff. (he smiles)}
+ earned it…Sheriff. (He smiles.)}
 {259}{}{Uh, yeah. Sure. Well, I better be moving on. I have an appointment, someplace else. Someplace
  far away from Redding. Goodbye.}
 {260}{}{Just three more notches on my gun. No problem. So long, Sheriff.}
@@ -250,7 +250,14 @@
 {284}{}{Hey there, you've got a job to do. Come on back when you've croaked that Frog for us.}
 {285}{}{I was just resupplying. I'm on it. Goodbye.}
 {286}{}{On my way out there right now, Sheriff. Goodbye.}
+# Begin Seraph's Code
+{287}{}{Well, I don't know how you did it, but that's the quietest I've ever heard the Malamute Saloon.
+ Here's your money. Ready for your next job?}
+# End Seraph's Code
 
 {300}{}{This job may be a bit too tough for you. Come back when you've got a bit more
  experience under your belt.}
-{301}{}{Okay, Sherriff}
+{301}{}{Okay, Sheriff.}
+
+#added by killap
+{302}{}{There is nothing more that can be done with this leg. Only time will heal it.}

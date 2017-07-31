@@ -63,7 +63,7 @@
  too.}
 {145}{}{Happy sauce?}
 {146}{}{Everybody needs a little sunshine in their lives from time to time. Goodbye, Dan.}
-{147}{}{Booze, chems, all sorts of chemical recreation. You name it and New Reno supplies it. It's just
+{147}{}{Booze, drugs, all sorts of chemical recreation. You name it and New Reno supplies it. It's just
  about the only thing that some of my miners work for. Be hell to pay if something ever happened to
  that.}
 {148}{}{How's your Jet supply lately?}
@@ -77,14 +77,14 @@
  of it. Makes for happy workers, though, so I can't complain. Lined up two deep in front of Doc
  Johnson's, they are. If there was much more, though, I'd start to worry.}
 {155}{}{Who's Doc Johnson?}
-{156}{}{Intersting. Let me ask you about something else, Dan.}
+{156}{}{Interesting. Let me ask you about something else, Dan.}
 {157}{}{I better be moseying, Dan. Goodbye.}
 {158}{}{Damn; there's just too much Jet in this town. We're drowning in the stuff. Nobody wants to work;
  they just want to get high. I can't make my ore quotas with half my damn miners flying high on Jet.
  Goddamn that Doc Johnson.}
 {159}{}{Who's Doc Johnson?}
 {160}{}{Sounds like a problem. Let me ask you about something else, Dan.}
-{161}{}{I better be travelling, Dan. Goodbye.}
+{161}{}{I better be traveling, Dan. Goodbye.}
 {162}{}{Most of the miners that were real Jet Jockeys have crashed hard. That last batch that Doc
  Johnson sold must have been real bad, somehow.}
 {163}{}{Who's Doc Johnson?}
@@ -207,7 +207,7 @@
 {254}{}{I think I'll hold on to it for now. Goodbye.}
 {255}{}{If I find one, I'll let you know. Goodbye.}
 {256}{}{It's in the Great Wanamingo Mine just west of town. Down inside the mine there's a great big
- mining machine. You can't hardly miss it. The chip's in that machine. You just need to yank it out and
+ mining machine. You can hardly miss it. The chip's in that machine. You just need to yank it out and
  bring it to me.}
 {257}{}{Let me ask you about some other stuff going on in town.}
 {258}{}{If you need it so bad, how come you haven't gone to get it yourself?}
@@ -242,10 +242,10 @@
 {282}{}{Thanks for the tip. Goodbye.}
 {283}{}{"Painless" Doc Johnson is our town quack. Oh, I suppose he knows something about doctoring, but
  I don't guess he knows too much. He's on the west side of Downtown. Anyhow, he usually sells all the
- medicine and chems that we get here in town.}
+ medicine and drugs that we get here in town.}
 {284}{}{He sells all of it?}
 {285}{}{I'll see you later, Dan. Goodbye.}
-{286}{}{Yeah, well, when we get Jet in it's often sent in bulk, and so he fills the ampules. Folks trust
+{286}{}{Yeah, well, when we get Jet in it's often sent in bulk, and so he fills the ampoules. Folks trust
  him to do it. Makes a big show about it being all clean and all. Simple remedies for simple minds, I say.}
 {287}{}{Ahh. Let me ask you about something else, then.}
 {288}{}{Thanks for the information, Dan. Goodbye.}

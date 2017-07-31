@@ -168,7 +168,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
  measures their intelligence and perception, and you have to be damned lucky to pass it, too.
  Most Citizens would have trouble with it.}
 {253}{}{So what makes it so hard?}
-{254}{}{I see. How much for those pspers again?}
+{254}{}{I see. How much for those papers again?}
 {255}{}{Hmmmm. Maybe we'll talk some other time.}
 {256}{}{Since most Outsiders can't read, do trigonometry, or spell "Australopithecus," you figure it
  out. It's just an excuse to keep Outsiders from becoming Citizens.}

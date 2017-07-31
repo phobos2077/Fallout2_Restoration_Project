@@ -26,12 +26,12 @@
 {122}{}{Grink? (you hold out your purse in your hand)}
 {123}{}{Room?}
 {124}{}{No grink. Bye bye.}
-{125}{}{You want a room, huh? Well I might have some room somewheres for you. It'll cost you $50 for a
+{125}{}{You want a room, huh? Well I might have some room somewhere for you. It'll cost you $50 for a
  cozy spot.}
 {126}{}{Room. (you hold out your purse in your hand)}
 {127}{}{Grink?}
 {128}{}{No room. Bye bye.}
-{129}{}{You can come in here, but your travelling freakshow stays outside.}
+{129}{}{You can come in here, but your traveling freak show stays outside.}
 {130}{}{Didn't you hear me? No freaks in my saloon.}
 {131}{}{Those *things* aren't coming into my saloon. Leave them outside.}
 {132}{}{Cain't rightly say that I've heard of one of those afore. What is it?}
@@ -47,15 +47,15 @@
 {141}{}{Interesting. Let me ask you about something else, though.}
 {142}{}{Well, we trade gold ore to Vault City in return for medical supplies. We trade ore to the New
  California Republic in return for fresh brahmin and other victuals, and we trade gold to New Reno for
- chems and booze.}
+ drugs and booze.}
 {143}{}{You mine the gold here?}
 {144}{}{Interesting. Let me ask you about something else, though.}
 {145}{}{Jist a big dog.}
 {146}{}{Oh, I see. Hmm, let me ask you about something else.}
 {147}{}{Of course. That's all I really wanted to know. Thanks. Goodbye.}
-{148}{}{San Fransisco is quite a ways south of here. You're a long ways from there. South and jist a
- tich to the west. It's right next to the ocean, don'tcha know. Don't know why any sane person'd want
- to go there for.}
+{148}{}{San Francisco is quite a ways south of here. You're a long ways from there. South and jist a
+ tich to the west. It's right next to the ocean, don'tcha know. Here, I'll mark it on your map. Don't
+ know why any sane person'd want to go there for, though.}
 {149}{}{Why? Is it dangerous?}
 {150}{}{Interesting. Let me ask you about something else, though.}
 {151}{}{Thanks for the information. Goodbye.}
@@ -88,7 +88,7 @@
 {172}{}{Let me ask you something else.}
 {173}{}{I'll sort this out for you. You can count on me. Goodbye.}
 {174}{}{Well, there was some screaming and carrying on and so I went to the room. When I got there, the
- bastard what did it was already gone and my girl was in a bad way. So I called the doc and then the
+ bastard who did it was already gone and my girl was in a bad way. So I called the doc and then the
  Sheriff. You know the rest.}
 {175}{}{Do you know who did it?}
 {176}{}{Can I see the girl?}
@@ -137,7 +137,7 @@
  talking to Fannie Mae. She's in back someplace here. You can make the arrangements with her.}
 {209}{}{Sounds like a good idea. I'll go do that. Goodbye.}
 {210}{}{But I didn't…okay. Goodbye.}
-{211}{}{I cain't believe that you were dumb enough to give Fannie enough money all at once to overdose
+{211}{}{I can't believe that you were dumb enough to give Fannie enough money all at once to overdose
  herself. You're just an idjit, ain't ya?}
 {212}{}{I didn't know. Honest. Come on, Lou…I need to ask you about something.}
 {213}{}{What she did with her life was her own business. Goodbye.}
@@ -163,3 +163,12 @@
 {226}{}{I've heard it all before. Let's get down to other business.}
 {227}{}{Thanks, I'll think about what you've told me. Let me ask you about something else, though.}
 {228}{}{I'll have to think this over. Goodbye.}
+{229}{}{Hmmm...I may have a solution to that. [Give Lou the jet antidote]}
+{230}{}{What the hell's this stuff?}
+{231}{}{It'll get the addiction out of her system. The next time she orders a drink, slip this into it.}
+{232}{}{Well...alright. Now, is there anything else you wanted?}
+{233}{}{I'm interested in getting something here.}
+{234}{}{What's going on in this town?}
+
+{300}{}{You helped cure Fannie's addiction.}
+{301}{}{Goodbye.}

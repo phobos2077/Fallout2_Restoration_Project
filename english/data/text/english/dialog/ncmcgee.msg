@@ -92,15 +92,18 @@
 {316}{}{Girlie, we ain't gonna talk about SHIT. Only thing yer gonna be doin' is catching bullets.}
 {317}{}{(Reaches for his rifle, clutches air) Eh? Where the hell is my rifle…?}
 {318}{}{Let me show you...}
+{319}{}{Uh oh...}
+{320}{}{I tookie when yoo no lookie.}
+{321}{}{Uh...}
 
 # 11. JACKPOT, SQUARE AND FAIR (8, 9)
 {325}{}{Square and fair, my lily white ASS! Boy, you gone and done signed yore own death warrant!}
 {326}{}{Square and fair, my lily white ASS! Girlie, you gone and done signed yore own death warrant!}
 
 # 12. RECOMPENSATE McGEE . . .? (8, 9)
-{335}{}{What? (Blinks) You talkin' about givin' me my winnings back? All 473 chips?}
+{335}{}{What? (Blinks) You talkin' about givin' me my winnings back? All 500 chips?}
 {336}{}{Uh, how about 250 chips?}
-{337}{}{Sure. All 473 chips. Here ya go.}
+{337}{}{Sure. All 500 chips. Here ya go.}
 {338}{}{Well, I can't yet. I don't have that much on me.}
 {339}{}{Forget it. I'm leaving.}
 

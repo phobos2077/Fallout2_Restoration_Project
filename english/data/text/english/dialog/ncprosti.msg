@@ -2,7 +2,7 @@
 {100}{}{You see a prostitute.}
 
 # EXAMINE
-{150}{}{You see a…lady of the evening. Her tattered clothes are draped seductively around her body.}
+{150}{}{You see a...lady of the evening. Her tattered clothes are draped seductively around her body.}
 {151}{}{You see a prostitute. She winks at you.}
 {152}{}{You see a prostitute. Her eyes are like blown fuses.}
 {153}{}{You see a prostitute. She smells like flowers.}
@@ -13,13 +13,13 @@
 {158}{}{You see a prostitute. Her tattered clothes are draped seductively around her body.}
 
 # 1. [MALE, ENCLAVE DESTROYED]
-{175}{}{Oh my…it's him. .}
+{175}{}{Oh my...it's him. .}
 {176}{}{You are the biggest stud in the world.}
 {177}{}{::Swoons::}
 {178}{}{Yeah, }
 {179}{}{::Claps::}
 {180}{}{::Cheers::}
-{181}{}{Oh my…it's her. }
+{181}{}{Oh my...it's her. }
 {182}{}{You go, girl!}
 {183}{}{::Gives you the thumbs up sign::}
 
@@ -43,33 +43,33 @@
 {208}{}{Can I have your autograph? On my chest?}
 {209}{}{Could I act in your next movie?}
 {210}{}{I would never fake it for YOU, }
-{211}{}{Getting…weak. Can't…hold out…much longer. Must…have…sex…with you…}
+{211}{}{Getting...weak. Can't...hold out...much longer. Must...have...sex...with you...}
 
 # 4. [PORN STAR, FEMALE]
 {212}{}{She's no star, she's just tribal trash...}
 {213}{}{I didn't realize they allowed porn stars to get THAT fat...}
 {214}{}{She's fugly.}
-{215}{}{She has all the sex appeal of a wet paper bag…}
-{216}{}{Ugly as sin…}
+{215}{}{She has all the sex appeal of a wet paper bag...}
+{216}{}{Ugly as sin...}
 {217}{}{The way she acts, you'd think she was a hero model instead of a porn star.}
-{218}{}{She tries anything, I'll scar her…}
-{219}{}{I don't know what the Corsican Brothers SEE in her…}
+{218}{}{She tries anything, I'll scar her...}
+{219}{}{I don't know what the Corsican Brothers SEE in her...}
 {220}{}{She's as talented as a rock and twice as ugly.}
 {221}{}{That's right, you KEEP on walking.}
-{222}{}{Makes me nauseous just looking at her…}
-{223}{}{Look at her, strutting around like that…}
+{222}{}{Makes me nauseous just looking at her...}
+{223}{}{Look at her, strutting around like that...}
 {224}{}{She's got a face only a brahmin could love.}
 {225}{}{Well, if it isn't grand Queen Turd.}
-{226}{}{If it ain't little miss bitchy…}
-{227}{}{If it ain't little-miss-porn-star…}
+{226}{}{If it ain't little miss bitchy...}
+{227}{}{If it ain't little-miss-porn-star...}
 {228}{}{Uglier than a brahmin's ass.}
 {229}{}{Push off! This is our area, bitch!}
 {230}{}{Haul your fat ass outta my sight.}
 {231}{}{You're as talented as my shoe.}
 {232}{}{Stay on this street, and we'll cut you.}
 {233}{}{Bitch.}
-{234}{}{Stuck-up whore…}
-{235}{}{Trash…}
+{234}{}{Stuck-up whore...}
+{235}{}{Trash...}
 {236}{}{Hmphh!}
 {237}{}{Get outta here, yer spoiling the biz.}
 {238}{}{Scrawny whore.}
@@ -82,22 +82,22 @@
 {245}{}{::Makes an obscene gesture::}
 {246}{}{Get outta here, "Miss Movie Star."}
 {247}{}{Beat it, whore.}
-{248}{}{You try anything, I'll scar you…}
-{249}{}{I don't know what the Corsican Brothers SEE in you…}
+{248}{}{You try anything, I'll scar you...}
+{249}{}{I don't know what the Corsican Brothers SEE in you...}
 {250}{}{You're as talented as a rock and twice as ugly.}
 {251}{}{I don't talk to TRASH like you.}
 
 # 5. [MALE, PRIZEFIGHTER]
-{252}{}{Look at those muscles! Makes me weak…}
+{252}{}{Look at those muscles! Makes me weak...}
 {253}{}{Daaaamn!}
 {254}{}{::Whistles::}
 {255}{}{He's built like a tank. Check out that barrel.}
-{256}{}{Check out the barrel on that tank…}
-{257}{}{He's all mine…}
+{256}{}{Check out the barrel on that tank...}
+{257}{}{He's all mine...}
 {258}{}{::Sigh::}
 {259}{}{What a badass.}
 {260}{}{That boy makes me weak.}
-{261}{}{If it ain't the King of Sting…}
+{261}{}{If it ain't the King of Sting...}
 {262}{}{He has lead in his pencil, that's for damn sure.}
 {263}{}{Look! It's }
 {264}{}{}
@@ -113,7 +113,7 @@
 {274}{}{You make me weak, you know that?}
 {275}{}{Nice unit you got there.}
 {276}{}{Need someone to take care of that for you, champ?}
-{277}{}{Hey…watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
+{277}{}{Hey...watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
 
 # 6. [FEMALE, PRIZEFIGHTER]
 {278}{}{Look! It's }
@@ -121,12 +121,12 @@
 {280}{}{}
 {281}{}{She is SUCH a badass. I wish I could kick guy's asses like she does.}
 {282}{}{There goes one tough woman.}
-{283}{}{She looks so…(shivers)…dangerous.}
+{283}{}{She looks so...(shivers)...dangerous.}
 {284}{}{She's pretty sexy.}
 
 # 7. [MADE MAN]
-{285}{}{Oh my…it's him. }
-{286}{}{He looks so…(shivers)…dangerous.}
+{285}{}{Oh my...it's him. }
+{286}{}{He looks so...(shivers)...dangerous.}
 {287}{}{Daaaamn!}
 {288}{}{::Whistles::}
 {289}{}{What a badass.}
@@ -135,15 +135,15 @@
 {292}{}{Hellooooo, }
 {293}{}{Need some company, }
 {294}{}{}
-{295}{}{Oh my…it's her. }
+{295}{}{Oh my...it's her. }
 {296}{}{She is such a badass.}
 {297}{}{There goes one tough bitch.}
-{298}{}{She looks so…(shivers)…dangerous.}
+{298}{}{She looks so...(shivers)...dangerous.}
 {299}{}{She's pretty sexy.}
 
 # 8. [SLAVER]
 {300}{}{My name's Easy, slaver. What's yours?}
-{301}{}{Hey, slaver, need some comapny?}
+{301}{}{Hey, slaver, need some company?}
 {302}{}{Let me teach you some things only a woman can teach.}
 {303}{}{Need someone to share your bedroll, slaver?}
 {304}{}{Got some hot-rocks there, slaver.}
@@ -156,7 +156,7 @@
 {311}{}{Wanna dance?}
 {312}{}{Slaver, you ain't never had love 'til you had Reno love.}
 {313}{}{Sure, I'll be one of your 'companions' for a few chips.}
-{314}{}{New stranger in towm, looks like…}
+{314}{}{New stranger in towm, looks like...}
 {315}{}{Wanna fly, slaver?}
 {316}{}{Wanna play slaver and servant?}
 {317}{}{Nice dill.}
@@ -184,7 +184,7 @@
 {339}{}{Taste of paradise'll cost you ten chips.}
 {340}{}{Wanna play master and servant, slaver?}
 {341}{}{Myron: All wax. No wick.}
-{342}{}{Myron's a real twister…}
+{342}{}{Myron's a real twister...}
 {343}{}{AC-DC, B n' D, whatever.}
 {344}{}{What does he expect me to do, bend down for him?}
 {345}{}{Need someone to yank your leash, slaver?}
@@ -209,29 +209,29 @@
 {364}{}{I'm Homely Spice.}
 {365}{}{I'm Slutty Spice.}
 {366}{}{I'm Old Spice.}
-{367}{}{I'm Syphilis…er, Slutty Spice.}
+{367}{}{I'm Syphilis...er, Slutty Spice.}
 {368}{}{I'm Dirty Spice.}
 {369}{}{Wranglers in the dust, that's what I want.}
 {370}{}{I've got a friend if you want a double-header, slaver.}
 {371}{}{Wish Myron was gay.}
-{372}{}{New blood in town…}
-{373}{}{Still don't know why they call it Virgin Street…}
+{372}{}{New blood in town...}
+{373}{}{Still don't know why they call it Virgin Street...}
 {374}{}{Can you hammer a six-inch spike through a board with your penis?}
-{375}{}{I wish he'd wear a paper bag sometimes…}
+{375}{}{I wish he'd wear a paper bag sometimes...}
 {376}{}{Buy a girl a drink, slaver?}
 {377}{}{Take a lonely lady on the town, slaver?}
 {378}{}{Need a friend for tonight, slaver?}
 {379}{}{Looking for some new merchandise, slaver?}
-{380}{}{Come over here, slaver, the show's about to begin…}
+{380}{}{Come over here, slaver, the show's about to begin...}
 {381}{}{I heard some of the girls uptown killed their pimp.}
 {382}{}{Most beautiful woman in the wastes, right here...}
 {383}{}{That Jules better leave me alone.}
-{384}{}{Still got that bruise from the headboard…}
-{385}{}{Been worn out ever since that last convention…}
+{384}{}{Still got that bruise from the headboard...}
+{385}{}{Been worn out ever since that last convention...}
 {386}{}{I wish that slaver convention took place in some other town.}
 {387}{}{I felt the Earth move, but it was just the chili.}
 {388}{}{Make me melt.}
-{389}{}{He keeps it up, he's gonna bust his ticker…}
+{389}{}{He keeps it up, he's gonna bust his ticker...}
 {390}{}{I'll take care of you, slaver.}
 {391}{}{I'm a virgin. I'm just not very good at it.}
 {392}{}{Jules keeps trying to deal on 2nd Street...}
@@ -240,7 +240,7 @@
 {395}{}{Need your cage rattled, slaver?}
 {396}{}{I hear the families are getting tense again.}
 {397}{}{Things are pretty slow. I wish that caravan would show.}
-{398}{}{So he dresses up in this Deathclaw costume, then…}
+{398}{}{So he dresses up in this Deathclaw costume, then...}
 {399}{}{I need help getting out of this dress.}
 {400}{}{Zip me up? Then down again?}
 {401}{}{Mmm-mmm. Looks like mating season.}
@@ -275,7 +275,7 @@
 {430}{}{I was with Myron last night. For about five seconds.}
 {431}{}{Wish they'd come out with some Jet-smelling body oils...}
 {432}{}{My ass is going to fall off, Myron keeps it up.}
-{433}{}{Damn Temperance Union came around again…}
+{433}{}{Damn Temperance Union came around again...}
 {434}{}{::Whistles::}
 {435}{}{I guarantee I'm better than that Pip Boy attachment you've been using.}
 {436}{}{Want me to tighten your screws, slaver?}
@@ -308,7 +308,7 @@
 {461}{}{Is that robot FULLY functional?}
 {462}{}{Is that some kind of slot machine that's following you around?}
 {463}{}{Is that a robo-slot machine?}
-{464}{}{Does your robot do tricks? Uh…magic tricks, I mean.}
+{464}{}{Does your robot do tricks? Uh...magic tricks, I mean.}
 {465}{}{Tell me that ain't a mutant.}
 {466}{}{That mutant'll be extra. LOTS extra.}
 {467}{}{Uh-oh. Mutants in New Reno. Must mean trouble.}
@@ -347,7 +347,7 @@
 {496}{}{Wanna dance?}
 {497}{}{Forget the slot machines. My payoff's MUCH better.}
 {498}{}{I can't believe how many strippers were at Feargus' bachelor party.}
-{499}{}{New stranger in town, looks like…}
+{499}{}{New stranger in town, looks like...}
 {500}{}{Can you hammer a six-inch spike through a board with your penis?}
 {501}{}{Wanna fly?}
 {502}{}{Haven't seen any caravans from Redding in a while.}
@@ -372,7 +372,7 @@
 {521}{}{If I have to talk to you afterwards, that's extra.}
 {522}{}{Anything I can help you with, stranger?}
 {523}{}{You ain't never had love 'til you had Reno love.}
-{524}{}{Your friend with the bone in his nose…great gimmick.}
+{524}{}{Your friend with the bone in his nose...great gimmick.}
 {525}{}{Does your friend with the bone do tricks with his nose or sumthin'?}
 {526}{}{Maybe I should put a bone in my nose. Might attract more female customers.}
 {527}{}{That fella's got a bone in his nose the size of my arm. Keeee-rist.}
@@ -406,27 +406,27 @@
 {555}{}{I'm Homely Spice.}
 {556}{}{I'm Slutty Spice.}
 {557}{}{I'm Old Spice.}
-{558}{}{I'm Syphilis…er, Slutty Spice.}
+{558}{}{I'm Syphilis...er, Slutty Spice.}
 {559}{}{I'm Dirty Spice.}
 {560}{}{Wranglers in the dust, that's what I want.}
 {561}{}{I've got a girlfriend if you want a double-header.}
 {562}{}{Wish Myron was gay.}
-{563}{}{New blood in town…}
-{564}{}{Still don't know why they call it Virgin Street…}
-{565}{}{I wish he'd wear a paper bag sometimes…}
+{563}{}{New blood in town...}
+{564}{}{Still don't know why they call it Virgin Street...}
+{565}{}{I wish he'd wear a paper bag sometimes...}
 {566}{}{Buy a girl a drink?}
 {567}{}{Take a lonely lady on the town?}
 {568}{}{Oh, boy! A tourist!}
-{569}{}{Come over here, honey, the show's about to begin…}
+{569}{}{Come over here, honey, the show's about to begin...}
 {570}{}{I heard some of the girls uptown killed their pimp.}
 {571}{}{Hellooooo, stranger.}
 {572}{}{That Jules better leave me alone.}
-{573}{}{Still got that bruise from the headboard…}
-{574}{}{Been worn out ever since that last convention…}
+{573}{}{Still got that bruise from the headboard...}
+{574}{}{Been worn out ever since that last convention...}
 {575}{}{I wish those tribals would go to some other town.}
 {576}{}{I felt the Earth move, but it was just the chili.}
 {577}{}{Make me melt.}
-{578}{}{He keeps it up, he's gonna bust his ticker…}
+{578}{}{He keeps it up, he's gonna bust his ticker...}
 {579}{}{The buzzing of the neon keeps driving me crazy...}
 {580}{}{I'm a virgin. I'm just not very good at it.}
 {581}{}{To think I came from the Den for this...}
@@ -434,7 +434,7 @@
 {583}{}{Jules keeps wanting freebies.}
 {584}{}{I hear the families are getting tense again.}
 {585}{}{Things are pretty slow. I wish that caravan would show.}
-{586}{}{So he dresses up in this Deathclaw costume, then…}
+{586}{}{So he dresses up in this Deathclaw costume, then...}
 {587}{}{I need help getting out of this dress.}
 {588}{}{Zip me up? Then down again?}
 {589}{}{Mmm-mmm. Looks like mating season.}
@@ -473,7 +473,7 @@
 {622}{}{Wish they'd come out with some Jet-smelling body oils...}
 {623}{}{Want to help a virgin lose her virginity?}
 {624}{}{My ass is going to fall off, Myron keeps it up.}
-{625}{}{Damn Temperance Union came around again…}
+{625}{}{Damn Temperance Union came around again...}
 {626}{}{::Whistles::}
 {627}{}{Biting is extra.}
 {628}{}{I guarantee I'm better than that Pip Boy attachment you've been using.}
@@ -521,7 +521,7 @@
 {668}{}{Wanna dance?}
 {669}{}{Forget the slot machines. My payoff's MUCH better.}
 {670}{}{I can't believe how many strippers were at Feargus' bachelor party.}
-{671}{}{New stranger in town, looks like…}
+{671}{}{New stranger in town, looks like...}
 {672}{}{Can you hammer a six-inch spike through a board with your penis?}
 {673}{}{Wanna fly?}
 {674}{}{Haven't seen any caravans from Redding in a while...}
@@ -571,27 +571,27 @@
 {718}{}{I'm Homely Spice.}
 {719}{}{I'm Slutty Spice.}
 {720}{}{I'm Old Spice.}
-{721}{}{I'm Syphilis…er, Slutty Spice.}
+{721}{}{I'm Syphilis...er, Slutty Spice.}
 {722}{}{I'm Dirty Spice.}
 {723}{}{Wranglers in the dust, that's what I want.}
 {724}{}{I've got a girlfriend if you want a double-header.}
 {725}{}{Wish Myron was gay.}
-{726}{}{New blood in town…}
-{727}{}{Still don't know why they call it Virgin Street…}
-{728}{}{I wish he'd wear a paper bag sometimes…}
+{726}{}{New blood in town...}
+{727}{}{Still don't know why they call it Virgin Street...}
+{728}{}{I wish he'd wear a paper bag sometimes...}
 {729}{}{Buy a girl a drink?}
 {730}{}{Take a lonely lady on the town?}
 {731}{}{Oh, boy! A tourist!}
-{732}{}{Come over here, honey, the show's about to begin…}
+{732}{}{Come over here, honey, the show's about to begin...}
 {733}{}{I heard some of the girls uptown killed their pimp.}
 {734}{}{Helloooo, stranger.}
 {735}{}{That Jules better leave me alone.}
-{736}{}{Still got that bruise from the headboard…}
-{737}{}{Been worn out ever since that last convention…}
+{736}{}{Still got that bruise from the headboard...}
+{737}{}{Been worn out ever since that last convention...}
 {738}{}{Wish tribals would stop coming through here.}
 {739}{}{I felt the Earth move, but it was just the chili.}
 {740}{}{Make me melt.}
-{741}{}{He keeps it up, he's gonna bust his ticker…}
+{741}{}{He keeps it up, he's gonna bust his ticker...}
 {742}{}{Buzzing of the neon is driving me crazy...}
 {743}{}{I'm a virgin. I'm just not very good at it.}
 {744}{}{To think I came from the Den for this...}
@@ -599,7 +599,7 @@
 {746}{}{Jules keeps wanting freebies.}
 {747}{}{I hear the families are getting tense again.}
 {748}{}{Things are pretty slow. I wish that caravan would show.}
-{749}{}{So he dresses up in this Deathclaw costume, then…}
+{749}{}{So he dresses up in this Deathclaw costume, then...}
 {750}{}{I need help getting out of this dress.}
 {751}{}{Zip me up? Then down again?}
 {752}{}{Mmm-mmm. Looks like mating season.}
@@ -638,7 +638,7 @@
 {785}{}{Wish they'd come out with some Jet-smelling body oils...}
 {786}{}{Want to help a virgin lose her virginity?}
 {787}{}{My ass is going to fall off, Myron keeps it up.}
-{788}{}{Damn Temperance Union came around again…}
+{788}{}{Damn Temperance Union came around again...}
 {789}{}{::Whistles::}
 {790}{}{Biting is extra.}
 {791}{}{I guarantee I'm better than that Pip Boy attachment you've been using.}
@@ -676,8 +676,8 @@
 {821}{}{You are a total badass. I mean, you start from a simple spear-chucking tribal
  - no offense - and go on to save the whole world. You kick ass. End of story.}
 {822}{}{You should replay the game as a different kind of character.}
-{823}{}{Tell me everything about your fight with the Enclave…}
-{824}{}{Hey, if you want a freebie after saving the world, I'm sure you can talk me into it…}
+{823}{}{Tell me everything about your fight with the Enclave...}
+{824}{}{Hey, if you want a freebie after saving the world, I'm sure you can talk me into it...}
 {825}{}{I don't know how you survived those Enclave bastards, but you are the bravest person I've
  ever known.}
 {826}{}{Tim Cain? Yes, he's one of my regulars.}
@@ -690,7 +690,7 @@
 {832}{}{New Reno was designed by Chris Avellone and Tom French. Both of them are sexual GODS.}
 {833}{}{Feargus got that frowny-look on his face when he saw how many float text messages I have.
  He's such a sour-puss.}
-{834}{}{You score is 192 out of 208. You really should have used the mutated toe on Horrigan.}
+{834}{}{You say that Locutus served with the Enclave? And I gave that bastard for free!}
 
 # 14. [POWER ARMOR]
 {835}{}{Some woman must have broken your heart terribly for you to have retreated inside that armored suit. Let me help.}
@@ -704,7 +704,7 @@
 {843}{}{If you want me to have sex with you in that thing, that's extra.}
 {844}{}{If you want to get it on, you'll have to step outta there.}
 {845}{}{Will my moisture make you rust?}
-{846}{}{Well…okay. But no way in HELL are you going to be on top.}
+{846}{}{Well...okay. But no way in HELL are you going to be on top.}
 {847}{}{How the hell do you go to the bathroom with that thing on?}
 {848}{}{Am I going to need the Jaws of Life to get you outta there?}
 {849}{}{Is that some new kind of vibrator?}
@@ -723,12 +723,12 @@
 {860}{}{Why don't you come around more often?}
 {861}{}{Need some company, }
 {862}{}{Nice rack you got there.}
-{863}{}{Hey…watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
+{863}{}{Hey...watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
 {864}{}{You're pretty sexy, girl, y'know that?}
 
 # 16. [MADE MAN]
 {865}{}{}
-{866}{}{If you're looking for a little company later…}
+{866}{}{If you're looking for a little company later...}
 {867}{}{}
 {868}{}{Hello, }
 {869}{}{Put in a good word with the boss for me?}
@@ -736,7 +736,7 @@
 {871}{}{I can do ANYTHING you want...it's all for the asking.}
 {872}{}{Put in a good word with the boss for me?}
 {873}{}{}
-{874}{}{Um, if you're looking for a little company later, ma'am…}
+{874}{}{Um, if you're looking for a little company later, ma'am...}
 
 # 17. [SLAVER]
 {875}{}{My name's Easy, slaver. What's yours?}
@@ -779,7 +779,7 @@
 {912}{}{Where's the fire, slaver?}
 {913}{}{Childe, let me make you a man.}
 {914}{}{Wanna dance, slaver?}
-{915}{}{Oh, hello, Mr. Tyler. Going…down?}
+{915}{}{Oh, hello, Mr. Tyler. Going...down?}
 {916}{}{If I have to talk to you afterwards, that's extra.}
 {917}{}{Yes, they ARE real, and NO, you can't check.}
 {918}{}{This one guy, Fred Hatch, he wanted to know if there were any "big girls" in town. Weird.}
@@ -819,11 +819,11 @@
 {952}{}{I'm Homely Spice.}
 {953}{}{I'm Slutty Spice.}
 {954}{}{I'm Old Spice.}
-{955}{}{I'm Syphilis…er, Slutty Spice.}
+{955}{}{I'm Syphilis...er, Slutty Spice.}
 {956}{}{I'm Dirty Spice.}
-{957}{}{Say…I've got a girlfriend if you want a double-header.}
+{957}{}{Say...I've got a girlfriend if you want a double-header.}
 {958}{}{Wish Myron was gay.}
-{959}{}{Still don't know why they call it Virgin Street…}
+{959}{}{Still don't know why they call it Virgin Street...}
 {960}{}{I wish he'd wear a paper bag sometimes.}
 {961}{}{Buy me a drink, slaver?}
 {962}{}{Take a lonely lady on the town, slaver?}
@@ -831,7 +831,7 @@
 {964}{}{I heard some of the girls uptown killed their pimp.}
 {965}{}{Helloooo, stranger.}
 {966}{}{That Jules better leave me alone.}
-{967}{}{Still got that bruise from the headboard…}
+{967}{}{Still got that bruise from the headboard...}
 {968}{}{Been worn out ever since that last slaver convention.}
 {969}{}{I wish Gen Con took place in some other town.}
 {970}{}{You could melt metal, you know that?}
@@ -843,7 +843,7 @@
 {976}{}{Jules keeps wanting freebies.}
 {977}{}{I hear the families are getting tense again.}
 {978}{}{Things are pretty slow. I wish that caravan would show.}
-{979}{}{So he dresses up in this Deathclaw costume, then…}
+{979}{}{So he dresses up in this Deathclaw costume, then...}
 {980}{}{I need help getting out of this dress.}
 {981}{}{Zip me up? Then down again?}
 {982}{}{Sorry, what were you saying? I was too busy staring at your ass.}
@@ -884,7 +884,7 @@
 {1017}{}{Wish they'd come out with some Jet-smelling body oils...}
 {1018}{}{Want to help a virgin lose her virginity?}
 {1019}{}{My ass is going to fall off, Myron keeps it up.}
-{1020}{}{Damn Temperance Union came around again…}
+{1020}{}{Damn Temperance Union came around again...}
 {1021}{}{You make my Geiger counter tick.}
 {1022}{}{::Whistles::}
 {1023}{}{Biting is extra.}
@@ -955,10 +955,10 @@
 {1086}{}{Where's the fire?}
 {1087}{}{You got the money, I got the time.}
 {1088}{}{Childe, let me make you a man.}
-{1089}{}{Oh, hello, Mr. Tyler. Going…down?}
+{1089}{}{Oh, hello, Mr. Tyler. Going...down?}
 {1090}{}{If I have to talk to you afterwards, that's extra.}
 {1091}{}{This one guy, Fred Hatch, he wanted to know if there were any "big girls" in town. Weird.}
-{1092}{}{Your friend with the bone in his nose…great gimmick.}
+{1092}{}{Your friend with the bone in his nose...great gimmick.}
 {1093}{}{Does your friend with the bone do tricks with his nose or sumthin'?}
 {1094}{}{Maybe I should put a bone in my nose. Might attract more female customers.}
 {1095}{}{That fella's got a bone in his nose the size of my arm. Keeee-rist.}
@@ -996,11 +996,11 @@
 {1127}{}{I'm Homely Spice.}
 {1128}{}{I'm Old Spice.}
 {1129}{}{I'm Slutty Spice.}
-{1130}{}{I'm Syphilis…er, Slutty Spice.}
+{1130}{}{I'm Syphilis...er, Slutty Spice.}
 {1131}{}{I'm Dirty Spice.}
 {1132}{}{I've got a girlfriend if you want a double-header.}
 {1133}{}{Wish Myron was gay.}
-{1134}{}{Still don't know why they call it Virgin Street…}
+{1134}{}{Still don't know why they call it Virgin Street...}
 {1135}{}{I wish he'd wear a paper bag sometimes.}
 {1136}{}{Buy me a drink?}
 {1137}{}{Take a lonely lady on the town?}
@@ -1008,8 +1008,8 @@
 {1139}{}{I heard some of the girls uptown killed their pimp.}
 {1140}{}{Helloooo, stranger.}
 {1141}{}{That Jules better leave me alone.}
-{1142}{}{Still got that bruise from the headboard…}
-{1143}{}{Been worn out ever since that last convention…}
+{1142}{}{Still got that bruise from the headboard...}
+{1143}{}{Been worn out ever since that last convention...}
 {1144}{}{I wish Gen Con took place in some other town.}
 {1145}{}{You could melt metal, you know that?}
 {1146}{}{I felt the Earth move, but it was just the chili.}
@@ -1020,7 +1020,7 @@
 {1151}{}{Jules keeps wanting freebies.}
 {1152}{}{I hear the families are getting tense again.}
 {1153}{}{Things are pretty slow. I wish that caravan would show.}
-{1154}{}{So he dresses up in this Deathclaw costume, then…}
+{1154}{}{So he dresses up in this Deathclaw costume, then...}
 {1155}{}{I need help getting out of this dress.}
 {1156}{}{Zip me up? Then down again?}
 {1157}{}{Sorry, what were you saying? I was too busy staring at your ass.}
@@ -1061,7 +1061,7 @@
 {1192}{}{Wish they'd come out with some Jet-smelling body oils...}
 {1193}{}{Want to help a virgin lose her virginity?}
 {1194}{}{My ass is going to fall off, Myron keeps it up.}
-{1195}{}{Damn Temperance Union came around again…}
+{1195}{}{Damn Temperance Union came around again...}
 {1196}{}{You make my Geiger counter tick.}
 {1197}{}{::Whistles::}
 {1198}{}{Biting is extra.}
@@ -1130,7 +1130,7 @@
 {1259}{}{Where's the fire?}
 {1260}{}{You got the chips, I got the time.}
 {1261}{}{Childe, let me make you a man.}
-{1262}{}{Oh, hello, Mr. Tyler. Going…down?}
+{1262}{}{Oh, hello, Mr. Tyler. Going...down?}
 {1263}{}{If I have to talk to you afterwards, that's extra.}
 {1264}{}{This one guy, Fred Hatch, he wanted to know if there were any "big girls" in town. Weird.}
 {1265}{}{If you want me to stay awake after sex, that's extra.}
@@ -1171,11 +1171,11 @@
 {1300}{}{I'm Homely Spice.}
 {1301}{}{I'm Slutty Spice.}
 {1302}{}{I'm Old Spice.}
-{1303}{}{I'm Syphilis…er, Slutty Spice.}
+{1303}{}{I'm Syphilis...er, Slutty Spice.}
 {1304}{}{I'm Dirty Spice.}
 {1305}{}{I've got a girlfriend if you want a double-header.}
 {1306}{}{Wish Myron was gay.}
-{1307}{}{Still don't know why they call it Virgin Street…}
+{1307}{}{Still don't know why they call it Virgin Street...}
 {1308}{}{I wish he'd wear a paper bag sometimes.}
 {1309}{}{Buy me a drink?}
 {1310}{}{Take a lonely lady on the town?}
@@ -1183,8 +1183,8 @@
 {1312}{}{I heard some of the girls uptown killed their pimp.}
 {1313}{}{Best love in all the wastes, right here.}
 {1314}{}{That Jules better leave me alone.}
-{1315}{}{Still got that bruise from the headboard…}
-{1316}{}{Been worn out ever since that last convention…}
+{1315}{}{Still got that bruise from the headboard...}
+{1316}{}{Been worn out ever since that last convention...}
 {1317}{}{I wish Gen Con took place in some other town.}
 {1318}{}{You could melt metal, you know that?}
 {1319}{}{I felt the Earth move, but it was just the chili.}
@@ -1195,7 +1195,7 @@
 {1324}{}{Jules keeps wanting freebies.}
 {1325}{}{I hear the families are getting tense again.}
 {1326}{}{Things are pretty slow. I wish that caravan would show.}
-{1327}{}{So he dresses up in this Deathclaw costume, then…}
+{1327}{}{So he dresses up in this Deathclaw costume, then...}
 {1328}{}{I need help getting out of this dress.}
 {1329}{}{Zip me up? Then down again?}
 {1330}{}{Sorry, what were you saying? I was too busy staring at your taut body.}
@@ -1236,7 +1236,7 @@
 {1365}{}{Where's the fire?}
 {1366}{}{Want to help me lose your virginity?}
 {1367}{}{My ass is going to fall off, Myron keeps it up.}
-{1368}{}{Damn Temperance Union came around again…}
+{1368}{}{Damn Temperance Union came around again...}
 {1369}{}{You make my Geiger counter tick.}
 {1370}{}{::Whistles::}
 {1371}{}{Biting is extra.}
@@ -1270,23 +1270,23 @@
 {3100}{}{You see one of the Cat's Paw girls.}
 
 # EXAMINES
-{3150}{}{You see a…lady of the evening. Her tattered clothes are draped seductively around her body.}
+{3150}{}{You see a...lady of the evening. Her tattered clothes are draped seductively around her body.}
 {3151}{}{You see one of the Cat's Paw girls. She winks at you.}
-{3151}{}{You see one of the Cat's Paw girls. Her eyes are like blown fuses.}
-{3152}{}{You see one of the Cat's Paw girls. She smells like flowers.}
-{3153}{}{You see one of the Cat's Paw girls. She smells like mother.}
-{3154}{}{You see one of the Cat's Paw girls. It is a mystery to you how her tattered rags manage to hold her breasts in.}
-{3155}{}{You see one of the Cat's Paw girls. She looks as if she kills her mates and eats them.}
-{3156}{}{You see one of the Cat's Paw girls. She is appraising you like a jeweler.}
-{3157}{}{You see one of the Cat's Paw girls. Her tattered clothes are draped seductively around her body.}
+{3152}{}{You see one of the Cat's Paw girls. Her eyes are like blown fuses.}
+{3153}{}{You see one of the Cat's Paw girls. She smells like flowers.}
+{3154}{}{You see one of the Cat's Paw girls. She smells like mother.}
+{3155}{}{You see one of the Cat's Paw girls. It is a mystery to you how her tattered rags manage to hold her breasts in.}
+{3156}{}{You see one of the Cat's Paw girls. She looks as if she kills her mates and eats them.}
+{3157}{}{You see one of the Cat's Paw girls. She is appraising you like a jeweler.}
+{3158}{}{You see one of the Cat's Paw girls. Her tattered clothes are draped seductively around her body.}
 
 #1. SOME OTHER RANDOM FLOAT TEXT [ANY DISTANCE] (WTG)
-{3200}{}{Oh, Gawd! Oh Gawd! OhGawdohGawdohGawd…ooooooh Gaaaawd.}
+{3200}{}{Oh, Gawd! Oh Gawd! OhGawdohGawdohGawd...ooooooh Gaaaawd.}
 {3201}{}{Yes! Yes! Yeeeeeeeees YesYesYesYes YES YES YESSSSS! Now go pay the
  cashier.}
 {3202}{}{Hurry up. Meter's running.}
 {3203}{}{Need a moist towelette?}
-{3204}{}{Give it to me, Fr…Ni…Sco…uh, sorry what was your name again?}
+{3204}{}{Give it to me, Fr...Ni...Sco...uh, sorry what was your name again?}
 {3205}{}{Oh Gawd, oh Gawd, oh Gawd! NOW are we finished?}
 {3206}{}{Whoa. THAT'S gonna cost extra.}
 {3207}{}{Yes! You are Columbus, I am America!}
@@ -1316,15 +1316,15 @@
 {2279}{}{?}
 {2280}{}{ kicks so much ass, you'd think she was a boot in another life.}
 {2285}{}{.}
-{2292}{}{…}
+{2292}{}{...}
 {2293}{}{?}
-{2294}{}{… over heeere, sweetie…}
+{2294}{}{... over heeere, sweetie...}
 {2295}{}{.}
 {2855}{}{?}
 {2858}{}{?}
 {2861}{}{?}
-{2865}{}{, you big hunk o' man…what have you been up to?}
+{2865}{}{, you big hunk o' man...what have you been up to?}
 {2867}{}{! How are you?}
-{2868}{}{. Can I help you with…*anything?*}
+{2868}{}{. Can I help you with...*anything?*}
 {2870}{}{.}
-{2873}{}{, you little temptress…what have you been up to?}
+{2873}{}{, you little temptress...what have you been up to?}

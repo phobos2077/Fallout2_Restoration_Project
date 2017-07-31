@@ -30,7 +30,7 @@
 # look_at_proc
 {100}{}{You see a wooden crate.}
 {101}{}{You see a metal locker.}
-{212}{}{You see a refridgerator.}
+{212}{}{You see a refrigerator.}
 
 # description_proc
 
@@ -305,9 +305,9 @@
 
 # NPC finds trap
 # The following line is to be translated as:
-# NPC notices a trap in the door jam.
+# NPC notices a trap in the door jamb.
 
-{205}{}{ notices a trap on the container jam.}
+{205}{}{ notices a trap on the container jamb.}
 
 #############################################################
 #  Setting traps on a door and whether the door is open or  #

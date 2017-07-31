@@ -1,6 +1,6 @@
 {100}{}{You see the Broken Hills town well.}
-{101}{}{The town well is built with cracked and loose bricks. A dank, musty odor emantes from below.}
-{102}{}{Remembering what Typhon said about hiding the treasure somewhere "indispensible" and "that
+{101}{}{The town well is built with cracked and loose bricks. A dank, musty odor emanates from below.}
+{102}{}{Remembering what Typhon said about hiding the treasure somewhere "indispensable" and "that
  wasn't likely to be torn down or plowed over", you make a thorough check of the old well. A few feet
  down on the inside, you notice one brick jutting out substantially from the rest of the wall.}
 {103}{}{Goodeee! Trezhur!}

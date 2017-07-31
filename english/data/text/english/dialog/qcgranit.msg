@@ -44,7 +44,7 @@
 {143}{}{I don't like to talk about it. It gives me nightmares. Let's just say that those walls aren't covered with *rust* exactly.}
 {144}{}{Sounds like I'm going to have a hard time getting past him.}
 {145}{}{That's the understatement of the year. I pity ya, pal, really do.}
-{146}{}{Pity me? You should feel bad for yourself. Your powerplant's control computer got fried and now you're headed for a meltdown. You're all dead men unless…}
+{146}{}{Pity me? You should feel bad for yourself. Your power plant's control computer got fried and now you're headed for a meltdown. You're all dead men unless…}
 {147}{}{I don't need your pity. I just need you to die.}
 {148}{}{I've got things to do. You're all dead men anyway. Try to enjoy your last few minutes on this earth. Smoke 'em if you got 'em. Goodbye.}
 {149}{}{Unless what?!?}
@@ -52,7 +52,7 @@
 {151}{}{Never mind. I don't have time to discuss this. Goodbye.}
 {152}{}{Oh, yeah. Tell me another one. If the reactor's scragged how come the light's are still on? Huh, smartie? Heh, heh, tell me another one.}
 {153}{}{That's just the *emergency* lighting. Hey, I saw where the computer *was.* It's not broken, it's *gone.* I'm telling you, you're all goin' down for the count unless….}
-{154}{}{I don't have time to argue about this any more. Hope you're all strong swimmers. Goodbye.}
+{154}{}{I don't have time to argue about this anymore. Hope you're all strong swimmers. Goodbye.}
 {155}{}{Don't you tell a pretty story. You make me laugh. Y'know, I think you might even last over the one-minute mark with Horrigan. That'd be a new record. Good luck, mutie.}
 {156}{}{Gee, aren't you generous. I better warm up first. On you and your squad.}
 {157}{}{You better hope that armor floats. Goodbye.}

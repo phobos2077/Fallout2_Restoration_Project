@@ -24,7 +24,7 @@
  wish to be left in peace, allowed to wander the wastes in search of my place in this new world. Goodbye, First Citizen...forever.}
 {122}{lyn003}{From the simplest things - and that certainly is you - even greatness may grow.
  Take care, my sweet imbecile... all Vault City thanks you.}
-{123}{}{Hug her.}
+{123}{}{(Hug her.)}
 {124}{}{Oo. Bye-bye.}
 {125}{lyn004}{Awwwww... there, there. Anytime you need a hug, you come see Aunt Lynette, all right?}
 {126}{}{Okeee-dokeee.}
@@ -167,7 +167,7 @@
  Leave! You are no longer welcome in this city.}
 {246}{}{I'm not leaving until I get some answers!}
 {247}{}{I shall leave... for now.}
-{248}{lyn026}{The archives is stored within our vault. Only Citizens have access to them... they are
+{248}{lyn026}{The archives are stored within our vault. Only Citizens have access to them... they are
  NOT for Outsiders.}
 {249}{}{Fine. Where is the Overseer? I will ask him about these archives.}
 {250}{}{But I am a Citizen.}
@@ -346,8 +346,8 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {393}{}{I found out some more information on those raiders who were attacking the city.}
 {394}{}{I found something in Bishop's safe you might be interested in.}
 {395}{}{I believe Dr. Troy is involved in something illegal.}
-{396}{}{I must speak with you on the delivery of that holo disk.}
-{397}{}{I've changed my mind. I will deliver that holo disk to the Counselor in the NCR.}
+{396}{}{I must speak with you on the delivery of that holodisk.}
+{397}{}{I've changed my mind. I will deliver that holodisk to the Counselor in the NCR.}
 {398}{}{Nothing. Sorry to disturb you.}
 {399}{lyn054a}{Of course. What can I help you with, Citizen?}
 {400}{lyn054b}{Of course. What can I help you with, Captain?}
@@ -445,7 +445,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {482}{}{You watch yourself, "First Citizen." Goodbye.}
 {483}{}{Good day, First Citizen.}
 {484}{lyn072a}{You did it! Excellent! You have performed a valuable service for Vault City. Please
- accept this as a token of our appreciation.  To think a band of RAIDERS was causing so much trouble...}
+ accept this as a token of our appreciation. To think a band of RAIDERS was causing so much trouble...}
 {485}{lyn072b}{Excellent. No more than they deserved. To think a band of RAIDERS was causing so much trouble...}
 {486}{}{Well, they weren't really a roving band of raiders... turns out they were mercenaries.}
 {487}{lyn073}{So you disabled their plant?}
@@ -479,7 +479,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {514}{}{I wonder who'll take over after you're dead... in about a minute from now.}
 {515}{}{No problem... Thought I'd give it a try. Goodbye.}
 {516}{lyn078}{Dr. Troy?! What makes you say that?}
-{517}{}{He asked me to smuggle in some illegal chems into the city.}
+{517}{}{He asked me to smuggle in some illegal drugs into the city.}
 {518}{}{He only administers healing to Citizens.}
 {519}{}{Nothing... I misspoke. Good day.}
 {520}{lyn079}{Who are you to be accusing a Citizen of such crimes? Guards! Escort this Outsider to the gates!}
@@ -512,12 +512,12 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {544}{lyn084b}{You had best watch what you say, Outsider.}
 {545}{lyn084c}{If I hear of you making trouble for Dr. Troy, or any other Citizen, you will never walk
  the streets of Vault City again. Understood?}
-{546}{}{Uh...s ure. Sorry. I had some other questions...}
+{546}{}{Uh...sure. Sorry. I had some other questions...}
 {547}{}{Crystal clear. I'll just be going now.}
 {548}{}{My apologies, First Citizen. Good day.}
 {549}{lyn085}{Of COURSE he only treats Citizens. He has no time to treat Outsiders... we have an Auto Doc
  in the courtyard for that.}
-{550}{}{Well, you might want to know that the Doctor asked me to smuggle some illegal chems into the city.}
+{550}{}{Well, you might want to know that the Doctor asked me to smuggle some illegal drugs into the city.}
 {551}{}{Oh. Look, I had some other questions...}
 {552}{}{Yeah, for those that can pay... and that's assuming they come out of the Autodoc in one piece.}
 {553}{}{All right, never mind then. Goodbye.}
@@ -605,11 +605,11 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {624}{lyn099}{What do you mean?}
 {625}{}{Moore's actually working for the New California Republic.}
 {626}{}{Never mind. I had some other questions...}
-{627}{}{Nothing.  I have to be going. Goodbye.}
+{627}{}{Nothing. I have to be going. Goodbye.}
 {628}{}{Nothing. I misspoke. Good day, First Citizen.}
 {629}{lyn100}{Kill him?! Murder is not in any way, shape, or form permitted in Vault City -- even if for the best. Never speak of this again.}
 {630}{}{Understood. Can I ask you some other questions?}
-{631}{}{Look, 'murder' is such an ugly word. I could arrange some sort of accident. . . a chem overdose,
+{631}{}{Look, 'murder' is such an ugly word. I could arrange some sort of accident. . . a drug overdose,
  mauled by a brahmin...any of a number of things can happen in this dangerous world.}
 {632}{}{All right. I'm leaving.}
 {633}{}{Very well, First Citizen. Good day.}
@@ -679,7 +679,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {688}{}{I will, First Citizen. Good day.}
 {689}{lyn114}{I'm not surprised. Bishop visited not long ago and suggested an alliance. I refused, of
  course. We don't associate with criminals.}
-{690}{}{I think he expected that. I found this holodisc in Bishop's safe. HE was hired by NCR to get
+{690}{}{I think he expected that. I found this holodisc in Bishop's safe. He was hired by NCR to get
  Vault City to join the Republic. When you refused his offer, he hired the mercenaries to attack you
  so you would ask NCR for help.}
 {691}{}{Maybe this was his way of forcing you into an alliance.}
@@ -705,7 +705,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {709}{}{Actually, I don't really know much of anything.}
 {710}{}{Thanks for the cash. I have to be going now.}
 {711}{lyn119}{I need you to go immediately to New California Republic and find Counselor Westin,
- Roger Westin. Give him the holo disk. That should insure that no more "raiders" get hired.}
+ Roger Westin. Give him the holodisk. That should insure that no more "raiders" get hired.}
 {712}{}{Uh... didn't you hear? Westin's dead. I mean, he had an accident. A deadly one. It's a long story.}
 {713}{}{Wait a minute. Go to NCR? Weren't they responsible for all this?}
 {714}{}{All right, I'll do it. }
@@ -726,7 +726,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {727}{lyn122}{Roger Westin is probably the only honest man in the New Republic and sympathetic to our cause. }
 {728}{}{All right, I'll deliver the disk to him.}
 {729}{}{No thanks. I'm too busy right now.}
-{730}{lyn123}{Your patriotism will not go unrewarded. Now make haste. Time is of the essence.}
+{730}{lyn123}{Your patriotism will not go unrewarded. Now go. Time is of the essence.}
 {731}{}{Before I go, I had some other questions...}
 {732}{}{I'm on it.}
 {733}{}{You can count on me, First Citizen. I'll return after I have delivered the disk to Westin.}
@@ -746,7 +746,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {746}{}{Before I go, I had some other questions...}
 {747}{}{I'm on it.}
 {748}{}{You can count on me, First Citizen. I'll return after I have delivered the disk to Westin.}
-{749}{lyn127}{Believe me, you will not be disappointed. Now please deliver that Holo Disk.}
+{749}{lyn127}{Believe me, you will not be disappointed. Now please deliver that holodisk.}
 {750}{}{Before I go, I had some other questions...}
 {751}{}{All right. I'm on it.}
 {752}{}{You can count on me, First Citizen. I'll return after I have delivered the disk to Westin.}
@@ -824,7 +824,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {813}{}{Guards!}
 {814}{}{I love Scott Rodenhiser.}
 {815}{}{My little dreadlocks are cute.}
-{816}{}{T-Ray thinks a little toooo highly of himself.}
+{816}{}{T-Ray thinks a little too highly of himself.}
 {817}{}{This is good news.}
 {818}{}{Very well.}
 {819}{}{Good day.}
@@ -851,9 +851,9 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {840}{}{*Snorts*}
 {841}{}{*Zzzzzzzzzzz*}
 {842}{}{What is contained on the disk should put a stop to them; the raiders have been exposed, and if
- the contents of the disk  were to get out to NCR's outer districts they would never be trusted again.}
+ the contents of the disk were to get out to NCR's outer districts they would never be trusted again.}
 {843}{}{My sources at Gecko assure me that there are still ghouls within the city. Your Citizenship
- depends  on resolving this situation... completely. Am I making myself clear?}
+ depends on resolving this situation...completely. Am I making myself clear?}
 {844}{}{Sorry, thought I'd killed them all.}
 {845}{}{That's a good start, but our ground water is still being contaminated. You need to disable
  their plant.}
@@ -862,7 +862,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 # End of Unused Dialog
 
 {847}{}{The Elder of my village gave me a water flask, but I don't have it with me. Still, the stories
- the Elder  told us said that my ancestor was from a Vault.}
+ the Elder told us said that my ancestor was from a Vault.}
 {848}{}{You mean the ghouls? Yeah, I found out what's wrong with their plant.}
 {849}{}{The plant needs a hydro-magnet, uh, thingie to make it work. The ghouls
  said you had one here, so I just need that, and they can make the plant clean.}

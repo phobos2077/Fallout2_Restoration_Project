@@ -6,7 +6,8 @@
 #responses 1
 {104}{}{I got my ID right here! Let me show ya.}
 {105}{}{The name's... umm... Pat, and I'm new here.}
-{110}{}{Die!}
+#edit below by killap - was 110
+{145}{}{Die!}
 
 #node 2
 {106}{}{All right, wise-ass. Take your best shot.}

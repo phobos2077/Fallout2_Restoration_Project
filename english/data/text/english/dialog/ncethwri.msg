@@ -206,7 +206,7 @@
 
 # 31. RICHARD WRIGHT: JET 2? (30)
 {405}{}{I don't know! (Hands clench into fists.) They sell that poison on every corner here in New Reno! EVERYWHERE you go, they're
- peddling it…!}
+ peddling it…}
 {406}{}{Do you know any specific dealers?}
 {407}{}{Look, forget I brought it up. I had some other questions…}
 
@@ -331,7 +331,7 @@
 {543}{}{Fine. Goodbye.}
 
 # 52. YOUR HUSBAND IS THE LEADER OF CRIME FAMILY (27)
-{545}{}{Furthermore, he has resolved to help me and any other unfortunates reliant on alcohol break the habit. Shameful!
+{545}{}{Furthermore, he has resolved to help me and any other unfortunates addicted to alcohol break the habit. Shameful!
  To even SUGGEST my husband was selling the alcohol to others is…}
 {546}{}{Completely true. Mrs. Wright, your husband is selling alcohol here in New Reno and promoting drunkenness. It is making
  the city a worse place to live. Help me, and we can put an end to the whole nasty business.}

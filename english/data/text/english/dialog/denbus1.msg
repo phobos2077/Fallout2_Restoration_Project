@@ -5,10 +5,10 @@
 {500}{}{You've destroyed Becky's still.}
 {600}{}{You convinced Frankie to buy from Becky.}
 {700}{}{You finished your first slave run.}
-{800}{}{You pay Fred's debt off to Rebecca.}
-{900}{}{You return Rebecca's book.}
-{1000}{}{You return Anna's locket.}
-{1100}{}{You manage to fast talk your way inside the church.}
-{1200}{}{You deliver Smitty's meal.}
+{800}{}{You paid Fred's debt off to Rebecca.}
+{900}{}{You returned Rebecca's book.}
+{1000}{}{You returned Anna's locket.}
+{1100}{}{You managed to fast talk your way inside the church.}
+{1200}{}{You delivered Smitty's meal.}
 {1300}{}{You have found a weakness in Tyler's gang.}
 {1400}{}{You have gotten permission for Lara's gang to attack.}

@@ -1,5 +1,5 @@
 {100}{}{You see a plump, clerkish man.}
-{101}{}{You see Nording the pay-clerk.}
+{101}{}{You see Nording, the pay-clerk.}
 {102}{}{You see a nervous, plump, little pigeon of a man.}
 {103}{}{You can't be paid for abandoning the caravan.}
 {104}{}{Uh, there were some things missing from the caravan. NCR bylaws don't allow me to pay a
@@ -9,10 +9,10 @@
 {107}{}{I cannot reward such a catastrophic caravan. You will receive nothing from me.}
 {108}{}{You cheap bastard! You'll pay for stiffing me. Goodbye.}
 {109}{}{Well, sometimes you just get luckier than others. This was one of the unlucky times. Goodbye.}
-{110}{}{That was a very unprofitable caravan. I cannot give you more than $500 as your share.}
+{110}{}{That was a very unprofitable caravan. I cannot give you more than $50 as your share.}
 {111}{}{Well, something is better than nothing, I guess. Goodbye.}
 {112}{}{You lousy bastard! Nobody could have done a better job. You'll regret stiffing me. Goodbye.}
-{113}{}{That wasn't too bad at all. Here's your $1500. I don't know when we'll find someone else to run
+{113}{}{That wasn't too bad at all. Here's your $100. I don't know when we'll find someone else to run
  the caravan, but if we do you can work for us again.}
 {114}{}{I don't think I ever want to spend so much time looking at the ass-end of a brahmin again. Goodbye.}
 {115}{}{That wasn't too bad at all. See you later. Goodbye.}
@@ -25,3 +25,4 @@
 {120}{}{Ook?}
 {121}{}{Damn shame that Stanwell got himself killed off. My name's Nording. I'll settle the debt.}
 {122}{}{Uh, thanks.}
+{123}{}{Damn shame that Stanwell got himself killed off.}

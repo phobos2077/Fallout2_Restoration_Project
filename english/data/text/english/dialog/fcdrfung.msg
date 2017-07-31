@@ -1,6 +1,6 @@
 {100}{}{You see a wizened old man wearing a white smock.}
 {101}{}{This is Dr. Fung.}
-{102}{}{You see a wizened old man wearing a white smock}
+{102}{}{You see a wizened old man wearing a white smock.}
 {103}{}{Help you with something?}
 {104}{}{Owie! Ouch! Owwwwwww!}
 {105}{}{Yeah - I'm hurt and it looks like you're a doctor.}
@@ -13,7 +13,7 @@
 {112}{}{Let me take a look at that. Hmm. Yes. I'll have to charge you, of course.}
 {113}{}{How much?}
 {114}{}{Forget it.}
-{115}{}{I can heal... but  for a price, you understand.}
+{115}{}{I can heal... but for a price, you understand.}
 {116}{}{How much?}
 {117}{}{Forget it.}
 {118}{}{Who am I? I am Dr. Fung. I teach and I heal.}
@@ -35,7 +35,7 @@
 {134}{}{Those are impressive wounds. $300 is all it takes to procure my services.}
 {135}{}{I'll pay.}
 {136}{}{Forget it.}
-{137}{}{For this much damage, I'm afraid that I will have to demand  $400.}
+{137}{}{For this much damage, I'm afraid that I will have to demand $400.}
 {138}{}{I'll pay.}
 {139}{}{Forget it.}
 {140}{}{Sit down. You'll need to when you hear my bill. Crippled limbs cost $600.}
@@ -92,34 +92,34 @@
 {205}{}{Honored sir, I recommend you seek out your cult's doctors.}
 
 {206}{}{What can you tell me about armor implants?}
-{207}{}{I helped write the article on armor implants. All it takes is my expertise and your materials. What sort of implants do you desire?}
-{208}{}{What sort are there?}
+{207}{}{I helped write the article on armor implants. All it takes is my expertise and your materials. What types of implants do you desire?}
+{208}{}{What types are there?}
 {209}{}{The dermal implants.}
 {210}{}{The dermal upgrade.}
 {211}{}{Phoenix implants.}
 {212}{}{The Phoenix upgrade.}
 {213}{}{Umm… forget it. I have other questions.}
 {214}{}{None, actually. Bye.}
-{215}{}{We have dermal implants, which protect against concussive damage. If you like that work, we can add a single enhancement to it. We also have Phoenix implants, which protect against heat-based attacks, and which also have an upgrade available. If you’re interested in the upgrades, you will of course have to wait until the initial set has been installed. And before you ask, yes, you CAN have all four operations.}
-{216}{}{Great. I’ll take the dermal implants.}
+{215}{}{We have dermal implants, which protect against concussive damage. If you like that work, we can add a single enhancement to it. We also have Phoenix implants, which protect against heat-based attacks, and which also have an upgrade available. If you're interested in the upgrades, you will of course have to wait until the initial set has been installed. And before you ask, yes, you CAN have all four operations.}
+{216}{}{Great. I'll take the dermal implants.}
 {217}{}{I want the dermal implants.}
 {218}{}{Give me the dermal upgrade.}
-{219}{}{I’d like the Phoenix implants.}
+{219}{}{I'd like the Phoenix implants.}
 {220}{}{Time for the Phoenix upgrade.}
 {221}{}{Umm… forget it. I have other questions.}
 {222}{}{None, actually. Bye.}
-{223}{}{Excellent. I’ll need a set of combat armor and, oh, $5500. You’ll need two days and the ability not to pick at scabs.}
-{224}{}{Let’s do it.}
+{223}{}{Excellent. I'll need a set of combat armor and, oh, $5500. You'll need two days and the ability not to pick at scabs.}
+{224}{}{Let's do it.}
 {225}{}{Forget it. So long.}
-{226}{}{The dermal upgrade, eh? That will cost you several days of your life, $33000, combat armor, and a brand-new set of scars that you’ll never ever lose as long as you live.}
+{226}{}{The dermal upgrade, eh? That will cost you several days of your life, $33000, combat armor, and a brand-new set of scars that you'll never ever lose as long as you live.}
 {227}{}{So? I can afford ALL of that.}
-{228}{}{Hmm. I don’t think I want to pay that much. So long.}
+{228}{}{Hmm. I don't think I want to pay that much. So long.}
 {229}{}{If you do not mind parting with $8500, a few days, and a set of combat armor, we can begin the operation now.}
-{230}{}{Strap me down, doc. I’m ready to go.}
-{231}{}{That’s a little steep. Let me get back to you.}
+{230}{}{Strap me down, doc. I'm ready to go.}
+{231}{}{That's a little steep. Let me get back to you.}
 {232}{}{This is a major operation. It will cost you your "good looks", a set of combat armor, and $49000. Are you willing to invest in this?}
-{233}{}{Hell yes. Let’s do it.}
-{234}{}{Wow. That’s… expensive. I’ll get back to you.}
+{233}{}{Hell yes. Let's do it.}
+{234}{}{Wow. That's… expensive. I'll get back to you.}
 {235}{}{::he shakes his head:: Do not toy with me. You are missing necessary ingredients. Listen more carefully to me next time. Now go, and come back when I can help you.}
 {236}{}{Okay.}
 {237}{}{There you go! You are … enhanced. Remember… do not pick at the scabs unless you want horrid scarring to add to your suddenly not-entirely-pleasing appearance.}

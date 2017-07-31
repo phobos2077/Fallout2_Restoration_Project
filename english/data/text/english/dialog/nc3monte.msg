@@ -48,7 +48,7 @@
 {000}{}{(Monte smiles, and the skin around his eyes crinkles.) Looking to play, lady?}
 {000}{}{(Monte smiles, and the skin around his eyes crinkles.) Looking to play, hero?}
 {000}{}{Three-Card Monte's the name, and the game's the same as the name. Slap down 20 chips, and we'll get down to it.}
-{000}{}{You cheeter. You no play fair}
+{000}{}{You cheater. You no play fair}
 {000}{}{Okay here chips me not sure how many 20 is so herez a bunch}
 {000}{}{Uh, me flattered but me not want to get down to it now...byyyyye}
 {000}{}{Shamble off}
@@ -89,7 +89,7 @@
 {000}{}{Sorry, pal, not this time, but you were CLOSE.}
 {000}{}{Sorry, lady, not this time, but you were CLOSE.}
 {000}{}{You sure do got the eye for it, though. Wanna try again?}
-{000}{}{You cheeter. You no play fair}
+{000}{}{You cheater. You no play fair}
 {000}{}{Okay here chips me not sure how many 20 is so herez a bunch}
 {000}{}{Nuh-uh Me no LIKE game BYYYYE}
 {000}{}{I'm not playing with a cheater like you.}

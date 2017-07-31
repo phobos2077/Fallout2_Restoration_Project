@@ -1,4 +1,4 @@
-{100}{}{Fisherman.}
+{100}{}{You see a Fisherman.}
 {101}{}{You are just in time to witness the blessings of the Goddess of the Sea.}
 {102}{}{[More]}
 {103}{}{}
@@ -15,12 +15,12 @@
 {109}{}{Ug}
 {110}{}{Here is what the great Goddess has given us this year. We will gladly share her blessings with
  you, for a price.}
-{111}{}{Junk [10]}
+{111}{}{Junk [$10]}
 {112}{}{Laser Pistol [$10000]}
-{113}{}{Sharpened sticks [40]}
-{114}{}{Fruit [5]}
-{115}{}{Xander [20]}
-{116}{}{Broc [10]}
+{113}{}{Sharpened sticks [$40]}
+{114}{}{Fruit [$5]}
+{115}{}{Xander [$20]}
+{116}{}{Broc [$10]}
 {117}{}{Bye.}
 {118}{}{[He points you in the direction of the sea.] Just keep walking. The Goddess wishes to meet you
  personally.}

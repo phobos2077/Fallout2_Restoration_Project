@@ -126,7 +126,7 @@
 {302}{slk23b}{We and I only use herb superb.}
 
 {310}{slk25a}{She's the boss. We pay off and go find sis.}
-{311}{slk25b}{Maida used to run our life. She think she like us - she's not happy we're free.}
+{311}{slk25b}{Maida used to run our life. We think she like us - she's not happy we're free.}
 {312}{}{Hmm, tell me about something else.}
 
 {320}{slk26a}{They don't want to talk right now.}
@@ -190,9 +190,9 @@
 {471}{slk27mb}{The ground glows with a light not of the spirits.}
 
 {480}{slk27na}{You must be a bridge between sides.}
-{482}{slk27nb}{Quiet that which is under the water or the salvation of your tribe will also go under.}
-{483}{slk27nc}{That which pushes the great steel tree into the sky must go to cradle the tribe.}
-{484}{slk27nd}{Your people are worth more than the dark gold. Carry them with no less care.}
+{481}{slk27nb}{Quiet that which is under the water or the salvation of your tribe will also go under.}
+{482}{slk27nc}{That which pushes the great steel tree into the sky must go to cradle the tribe.}
+{483}{slk27nd}{Your people are worth more than the dark gold. Carry them with no less care.}
 
 {490}{}{Those who appear to be spirits but are not carry many secrets.}
 {491}{}{Like an onion, there are many layers, most hidden.}
@@ -219,7 +219,7 @@
 {542}{slk27tc}{The pathway of evil is laid clear here.}
 
 {550}{}{There is great knowledge here.}
-{551}{}{A stonger path through the future starts in such small places.}
+{551}{}{A stronger path through the future starts in such small places.}
 
 {560}{slk28a}{We need a little time to be by ourself.}
 {561}{slk28b}{Be needing some time off. A little smoke, a little think.}
@@ -311,7 +311,7 @@
 
 {771}{slk45}{The tribe's home is next to Great Salt Water. Two moons from here, fren.}
 {772}{}{Let me ask you something else.}
-{773}{}{Two moons? That's a long ways. How did you travel so far safely.}
+{773}{}{Two moons? That's a long ways. How did you travel so far safely?}
 {774}{}{That's all I need for now. Goodbye.}
 
 {775}{slk46}{Geckos. The little dudes don't bite hard. It's the Goldens. They go through your leg like an
@@ -506,7 +506,7 @@
 {945}{slk80a}{Locals start to hear strange noises. Spirits in torment, say we and I. A few even
  see something there. Spirit-creature not wearing the shape of a man.}
 {946}{}{Huh.}
-{947}{}{Sounds dangerous. What's Torr got to do with it.}
+{947}{}{Sounds dangerous. What's Torr got to do with it?}
 
 {948}{slk80b}{Torr be the butt of many jokes. So him think finding and killing this bad spirit
  make him hero. We think he in trouble. You be helping Torr?}
@@ -561,14 +561,14 @@
 {3005}{}{To the Southeast.}
 {3006}{}{To the rising sun.}
 {3007}{}{To the Northeast.}
-{3008}{}{We don’t know anything about that.}
+{3008}{}{We don't know anything about that.}
 {3009}{}{Yes.}
 {3010}{}{No.}
 {3011}{}{What do you expect from us?}
 {3012}{}{That not be nice.}
 {3013}{}{Thank-you.}
 {3014}{}{This is good.}
-{3015}{}{This isn’t good.}
+{3015}{}{This isn't good.}
 {3016}{}{We have a good feeling about this.}
 {3017}{}{We have a bad feeling about this.}
 {3018}{}{These people are crazy.}
@@ -592,8 +592,8 @@
 {3036}{}{You need to unlock this.}
 {3037}{}{You need to open this.}
 {3038}{}{Maybe we should come back here.}
-{3039}{}{We don’t understand.}
-{3040}{}{We don’t know.}
+{3039}{}{We don't understand.}
+{3040}{}{We don't know.}
 
 {3050}{slk86}{Being home is cool, but the place is looking a might small now. We've missed the road
  and the company of so fine a fren as you. Wan us to walk by-and-by again.}
@@ -627,3 +627,11 @@
 {3070}{}{Sulik, can you consult the spirits for me?}
 {3071}{}{Sulik, please holster your weapon.}
 {3080}{}{You be no fren of mine. Grampy Bone say no talk to you.}
+
+#added by killap - patch
+{3200}{}{Yes, I spoke with Mrs. Buckner regarding your debt. I just now need to make all the arrangements with Maida. I'll check with you again after I speak  with her.}
+
+#added by killap - warns the player if something is wrong with the NPC
+{3500}{}{We and I think something be wrong with us. You better be having a look at this limb of ours.}
+{3501}{}{We and I think something be wrong with us. We be glowing like the sun.}
+{3502}{}{We and I think something be wrong with us. We be feeling poisoned.}

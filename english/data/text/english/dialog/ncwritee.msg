@@ -131,7 +131,7 @@
 {343}{}{Damn hot…}
 {344}{}{Ain't seen Mom for a while. If you see her, don't mention nothin' about the stills, 'kay?}
 {345}{}{Keith took apart the piano last week and put it back together. Smart kid.}
-{346}{}{We're going huntin' for radscoroions again in a few days.}
+{346}{}{We're going huntin' for radscorpions again in a few days.}
 {347}{}{If you're lookin' for alcohol, head on over to the train station in the north part of town…we don't sell it here.}
 {348}{}{Watch out for the kids around here, they're always underfoot.}
 {349}{}{Can you teach me to fight, too?}
@@ -158,7 +158,7 @@
 {370}{}{Chris's gonna get a whippin' if he keeps sneakin' inta the whorehouse.}
 {371}{}{Damn hot…}
 {372}{}{Keith took apart the piano last week and put it back together. Smart kid.}
-{373}{}{We're going huntin' for radscoroions again in a few days.}
+{373}{}{We're going huntin' for radscorpions again in a few days.}
 {374}{}{Are you REALLY talkin' to God when you're havin' sex on stage?}
 {375}{}{Mom says yer a tool of the devil.}
 {376}{}{Mom says yer a harlot. A brazen strumpet. I have no idea what's she goin' on about.}
@@ -172,7 +172,7 @@
 {390}{}{Better take off…we don't take kindly to slavers.}
 {391}{}{Don't you even THINK about kidnapping anyone here. You cause any trouble, we'll gut you.}
 {392}{}{Just keep your distance, slaver. If you've got business with Pa, do it, then get.}
-{393}{}{You better not have brought any chems, or else Dad'll kill you. Then I'LL kill you.}
+{393}{}{You better not have brought any drugs, or else Dad'll kill you. Then I'LL kill you.}
 {394}{}{I'm watchin' you, slaver, so you watch what you do, hear?}
 {395}{}{You touch any of those kids, slaver, and I'll shoot you so much you'll fly outta your boots.}
 {396}{}{Touch any of those kids, slaver, and I'll kill you.}
@@ -184,7 +184,7 @@
 {410}{}{Better take off…no offense, but Dad doesn't like tribals much.}
 {411}{}{Don't you even THINK about causing any trouble. We Wrights outnumber you by…uh, by a lot.}
 {412}{}{Just keep your distance. If you've got business, do it, then get.}
-{413}{}{You better not have brought any chems, or else Dad'll kill you. Then I'LL kill you.}
+{413}{}{You better not have brought any drugs, or else Dad'll kill you. Then I'LL kill you.}
 {414}{}{I'm watching you, so you watch what you do, hear?}
 {415}{}{Where you from? Ain't seen your kind around here in a while.}
 {416}{}{If you're lookin' for alcohol, head on over to the train station in the north part of town…we don't sell it here.}

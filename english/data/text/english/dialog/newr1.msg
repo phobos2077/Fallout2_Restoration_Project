@@ -111,7 +111,7 @@
 {385}{}{Caesar}
 {386}{}{Mickey}
 {387}{}{Drifter}
-{388}{}{Killer}
+{388}{}{Giuseppe}
 {389}{}{Butcher}
 {390}{}{Red}
 {391}{}{Ruby}
@@ -150,7 +150,7 @@
 {427}{}{Black Widow}
 {428}{}{Smash}
 {429}{}{Delilah}
-{430}{}{Lightning }
+{430}{}{Lightning}
 {431}{}{Jocco}
 {432}{}{Sister Steel}
 {433}{}{Super Sledge}
@@ -353,9 +353,10 @@
 {1402}{}{You have defeated your third challenger.}
 {1403}{}{You have defeated the Masticator!}
 {1404}{}{You have become the Heavyweight Champion of New Reno.}
+{1405}{}{You have defeated your last challenger!}
 
 {1500}{}{You have convinced Mrs. Wright to destroy the stills.}
 {1550}{}{You have witnessed the secret transaction.}
 
 {1600}{}{In the heat of the fight, the Masticator tears your ear off.}
-{1700}{}{Enraged, you tear the Masticators' ear off.}
+{1700}{}{Enraged, you tear the Masticator's ear off.}

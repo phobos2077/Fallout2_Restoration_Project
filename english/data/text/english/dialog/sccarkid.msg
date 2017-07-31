@@ -1,5 +1,5 @@
 {100}{}{You see a snot-nosed little kid.}
-{101}{}{It's Vice-President Carlson's kid}
+{101}{}{It's Vice-President Carlson's kid.}
 {102}{}{Looks like a spoiled little runt. Fat, too.}
 {103}{}{My dad's Vice-President Carlson, so you better treat me nice! Who are you?}
 {104}{}{[Player name]}

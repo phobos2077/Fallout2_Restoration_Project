@@ -1,5 +1,5 @@
-{100}{}{A man in power armor.}
-{101}{}{Sir Robin.}
+{100}{}{You see a man in power armor.}
+{101}{}{This is Sir Robin.}
 {102}{}{He looks like he's ready to run.}
 {103}{}{Sir Robin, at your service.}
 {104}{}{You're not going to try to hurt me are you?}

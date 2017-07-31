@@ -105,7 +105,7 @@
 {197}{}{Leave the terminal.}
 {198}{}{Boy! The two seem to have a LOT to talk about! They talk in funny words that sound like
  grinding, beeping, and mantis-chirping. Eventually, there is a beep, and your Pip Boy slides out.}
-{199}{}{Take your Pip Boyeee and leave}
+{199}{}{Take your Pip Boy and leave.}
 {200}{}{A small window opens on the terminal screen with a smiling Pip Boy next to it. As you watch, the
  Pip Boy starts whistling silently and tapping his feet. A red light is flashing beside the computer slot.}
 {201}{}{Wait...}
@@ -170,12 +170,12 @@
 {248}{}{Give the Pip Boy a thumbs up.}
 {249}{}{Give the Pip Boy the finger.}
 {250}{}{Fallout 2 Development Information is being entered into Pip Boy database. Copying file...
- Vault City Developement Credits... Download complete.}
-{251}{}{Danke.}
+ Vault City Development Credits... Download complete.}
+{251}{}{Thank you.}
 {252}{}{This time-waster better be worth some extra skill points, or I'm going to be pissed off.}
 {253}{}{The Pip Boy on the screen waves good-bye, and then the screen turns black. The terminal has shut
  down.}
-{254}{}{Leave.}
+{254}{}{[Leave.]}
 {255}{}{Yeah, you better run, you little shit.}
 {256}{}{The terminal has shut down. You have no idea how to turn the system back on.}
 {257}{}{Leave.}

@@ -1,21 +1,21 @@
 {100}{}{You see a little grease-stained guy.}
 {101}{}{You're looking at Buster, the gun guy.}
 {102}{}{This guy's clothes are ragged and he's got gun-bluing all over his hands, arms, and face. Still, he seems pretty cheerful.}
-{103}{}{Hey, welcome to Buster's Fine Emporium of Armament! I'm Buster and there ain't nobody else. Got some fine goods here and on my shelves. Check it out. I'm ready to deal.}
+{103}{}{Hey, welcome to Buster's Fine Emporium of Armament! I'm Buster and there ain't nobody else. Got some fine goods for sale here. And if you don't see something you like, then make sure you check out my shelves for additional product. I'm bound to have somethin' that'll tickle yer fancy.}
 {104}{}{Hey, back again? What can I do for you?}
 {105}{}{Anything else?}
 {106}{}{Want gun.}
 {107}{}{What do you got?}
 {108}{}{Maybe you can fix me up something special?}
-{109}{}{I've got some questions}
+{109}{}{I've got some questions.}
 {110}{}{Goodbye.}
 {111}{}{A fine choice!}
 {112}{}{Well, you got yourself a steal there, partner.}
 {113}{}{Not to rush you, stranger, but I got work to do.}
 {114}{}{Sure, stranger, what do you want to know?}
-{115}{}{Tell me about NCR}
+{115}{}{Tell me about NCR.}
 {116}{}{What's the deal with Merk?}
-{117}{}{What can you tell me about Frank Westin?}
+{117}{}{What can you tell me about Roger Westin?}
 {118}{}{I'm looking for a meeting with Old Man Carlson. Know anybody who could help me?}
 {119}{}{Do you have a GECK?}
 {120}{}{That's nice stranger, but I ain't no charity.}
@@ -29,15 +29,15 @@
 {128}{}{I don't mess with Mr. Merk and it don't pay to go gossiping about him. You got questions, go ask about him at the Rawhide.}
 {129}{}{I see.}
 {130}{}{Goodbye.}
-{131}{}{Frank Westin? You mean that Congress guy? Got himself a spread out west of town.  Brahmin man - big wheel in the Stockman's Association. He's always looking for hands, if you're wanting work.}
+{131}{}{Roger Westin? You mean that Congress guy? Got himself a spread out west of town.  Brahmin man - big wheel in the Stockman's Association. He's always looking for hands, if you're wanting work.}
 {132}{}{I see.}
 {133}{}{Goodbye.}
-{134}{}{Funny you go asking that after what happened to Frank Westin. Not that I'd know, but there's a fellow - Merk - down at the Rawhide who might be able to help you.}
+{134}{}{Funny you go asking that after what happened to Roger Westin. Not that I'd know, but there's a fellow - Merk - down at the Rawhide who might be able to help you.}
 {135}{}{I see.}
-{136}{}{Goodbye}
+{136}{}{Goodbye.}
 {137}{}{That one of them pre-war imports? Let me guess, 14mm ammo? Nope, ain't got one.}
 {138}{}{I see.}
-{139}{}{Goodbye}
+{139}{}{Goodbye.}
 {140}{}{Look, I can't do this on anything but a hunting rifle. It's the way the mount's built, understand?}
 {141}{}{I see.}
 {142}{}{Goodbye.}

@@ -8,4 +8,4 @@
 {106}{}{This will take a little while.}
 {107}{}{You're a swift student -- it looks like you've learned all I can
  teach you.}
-{108}{}{Thanks, Jordan, that's going to help a lot.}
+{108}{}{Thanks Jordan, that's going to help a lot.}

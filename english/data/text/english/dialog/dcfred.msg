@@ -46,7 +46,7 @@
 
 # 5. Covered and Loaned, Floats (From Where to go)
 {275}{}{Master plan is in action!}
-{276}{}{Thanks for the loan! You're money's in good hands!}
+{276}{}{Thanks for the loan! Your money's in good hands!}
 {277}{}{Those tables sure are rough, but don't worry.}
 {278}{}{I'll win big some day, thanks to you.}
 {279}{}{I'm due any day! I can feel it.}
@@ -75,7 +75,7 @@
 {322}{}{So, where's my money?}
 
 # 9. Look bad (From 7)
-{330}{}{You don't like my threads? You know, I think your right. I don't like them either. Time for some new ones - I can afford it!}
+{330}{}{You don't like my threads? You know, I think you're right. I don't like them either. Time for some new ones - I can afford it!}
 {331}{}{So, you won it big after all?}
 {332}{}{Where's my money?}
 {333}{}{Hmph.}
@@ -122,7 +122,7 @@
 {401}{}{Bye.}
 
 # 17. Dumb, beat it (From 6)
-{410}{}{What? You doing some strange chem? You don't look like a jethead. Get away from me you freak.}
+{410}{}{What? You doing some strange drug? You don't look like a jethead. Get away from me you freak.}
 {411}{}{Beat it!}
 {412}{}{Ug.}
 

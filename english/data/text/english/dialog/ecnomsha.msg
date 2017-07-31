@@ -1,10 +1,10 @@
-{100}{}{A nomad.}
-{101}{}{Nomad shaman.}
+{100}{}{You see a nomad shaman.}
+{101}{}{He appears to be a nomad shaman.}
 {102}{}{The strong smell of herbs cling to this one's clothing.}
 {103}{}{Hello, stranger. I am the tribe shaman. I am skilled in the art of healing.}
 {104}{}{Hello again.}
 {105}{}{I am in need of healing.}
-{106}{}{Can you combine the xander root and the broc flower?}
+{106}{}{Can you combine the Xander root and the Broc flower?}
 {107}{}{Bye.}
 {108}{}{Ooga.}
 {109}{}{Be still and I will examine you.}
@@ -16,7 +16,7 @@
 {115}{}{Please heal me.}
 {116}{}{See what you can do for my broken limb.}
 {117}{}{Bye.}
-{118}{}{Your have been healed.}
+{118}{}{You have been healed.}
 {119}{}{You have been healed.}
 {120}{}{You have been healed.}
 {121}{}{I am in need of more of your skills.}

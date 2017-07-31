@@ -1,6 +1,6 @@
 # 0. Look
 {100}{}{Seems to be a guard of some sort.}
-{101}{}{A Protector.}
+{101}{}{You see a Protector.}
 
 {150}{}{Besides the pale skin and enlarged pupils, he looks to be an ordinary person.}
 

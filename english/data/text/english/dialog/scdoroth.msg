@@ -1,6 +1,6 @@
 {100}{}{You see a young woman, very much a tomboy, dressed in work overalls.}
 {101}{}{It's Dorothy, the city engineer.}
-{102}{}{From all the grease and dirt on her, she's a hands-on tool type, especially since that maintainence bot follows her everywhere.}
+{102}{}{From all the grease and dirt on her, she's a hands-on tool type, especially since that maintenance bot follows her everywhere.}
 {103}{}{Oh my god, somebody's got to do something! What do I do? I need some help quick.}
 {104}{}{Huh? Gug?}
 {105}{}{What's going on?}
@@ -17,9 +17,9 @@
 {116}{}{Crap! He's damaged the core unit. It's got to be fixed before things really go to hell. You any good at repairing things?}
 {117}{}{Urrgh.}
 {118}{}{Yes.}
-{119}{}{No}
+{119}{}{No.}
 {120}{}{What was I thinking?}
-{121}{}{Look, do what you can with the generator. I've got to stablize the core. You've got about 30 seconds, I think. After that it'll be too late. Come on, Toto.}
+{121}{}{Look, do what you can with the generator. I've got to stabilize the core. You've got about 30 seconds, I think. After that it'll be too late. Come on, Toto.}
 {122}{}{Damn! Then stand back. Unless I'm real lucky, the whole thing's going to blow. Let's go, Toto.}
 {123}{}{You fixed it? Without any parts? That's amazing! Where'd you learn to do that?}
 {124}{}{Huh-huh!}
@@ -38,7 +38,7 @@
 {137}{}{Can't chat, stranger. Name's Dorothy, city engineer, and that's Toto. Got to run.}
 {138}{}{You don't have an illudium Q-38 space modulator, do you? Didn't think so.}
 {139}{}{You talked him out of it? That's amazing! The town owes you big, mister. Look, it's not much, but here's some manuals I've been collecting. Maybe you can sell them or something.}
-{140}{}{I just want you to know I'm still impressed by what you did with Jack. Me and Toto have to run now. `Bye!}
+{140}{}{I just want you to know I'm still impressed by what you did with Jack. Me and Toto have to run now. 'Bye!}
 {141}{}{Crap! I got one word of advice-RUN!}
 
 {142}{}{Hey look, Toto. It's the stranger who helped us out. Thanks again, miss.}

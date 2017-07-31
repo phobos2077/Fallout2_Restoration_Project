@@ -9,10 +9,10 @@
 {108}{}{Who U?}
 {109}{}{Bye.}
 {110}{}{No, not today. If I run across any, I'll let you know, though.}
-{111}{}{Well, yes, actually. I think you'd be the perfect partner for a, shall we say, "joint venture.".}
+{111}{}{Well, yes, actually. I think you'd be the perfect partner for a, shall we say, "joint venture".}
 {112}{}{What's your name?}
 {113}{}{Never mind.}
-{114}{}{Me? I'm Micky, suave and debonaire Treasure Hunter of Broken Hills.}
+{114}{}{Me? I'm Micky, suave and debonair Treasure Hunter of Broken Hills.}
 {115}{}{Hunnterr?}
 {116}{}{Bye-bye.}
 {117}{}{Treasure Hunter?}

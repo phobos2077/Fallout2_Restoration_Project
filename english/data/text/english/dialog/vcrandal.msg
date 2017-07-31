@@ -54,16 +54,16 @@
 {153}{}{What is this place again?}
 {154}{}{Do you happen to have a GECK in stock?}
 {155}{}{Valerie over at the maintenance shed could use a new wrench and some pliers.}
-{156}{}{Councillor McClure said you'd have a... uh, hydro-magneto-thingie that I could have for the Gecko power plant.}
-{157}{}{Councillor McClure said you'd have a hydroelectric magnetosphere regulator in stock that I could have.}
+{156}{}{Councilor McClure said you'd have a... uh, hydro-magneto-thingie that I could have for the Gecko power plant.}
+{157}{}{Councilor McClure said you'd have a hydroelectric magnetosphere regulator in stock that I could have.}
 {158}{}{The First Citizen sent me here to claim my reward.}
 {159}{}{Nothing today, actually.}
 {160}{}{This is the Amenities Office. Got your typical stock... basic living necessities, some books, "how to" manuals, some tools, stimpacks, medical supplies, this and that.}
 {161}{}{Sounds great. Can I see what you have in stock?}
 {162}{}{Do you have a GECK?}
 {163}{}{Valerie over at the maintenance shed could use a new wrench and some pliers.}
-{164}{}{Councillor McClure said you'd have a... uh, hydro-magneto-thingie that I could have for the Gecko power plant.}
-{165}{}{Councillor McClure said you'd have a hydroelectric magnetosphere regulator in stock that I could have.}
+{164}{}{Councilor McClure said you'd have a... uh, hydro-magneto-thingie that I could have for the Gecko power plant.}
+{165}{}{Councilor McClure said you'd have a hydroelectric magnetosphere regulator in stock that I could have.}
 {166}{}{The First Citizen sent me here to claim my reward.}
 {167}{}{Mind if I ask you some other questions?}
 {168}{}{I may be back some other time.}
@@ -72,7 +72,7 @@
 {171}{}{How can I become a Citizen?}
 {172}{}{But... uh, I am a Citizen. Don't you remember me?}
 {173}{}{Look, my money's just as good as any Citizen's.}
-{174}{}{Councillor McClure said you'd have a hydroelectric magentosphere regulator in stock that I could have.}
+{174}{}{Councilor McClure said you'd have a hydroelectric magnetosphere regulator in stock that I could have.}
 {175}{}{The First Citizen sent me here to claim my reward.}
 {176}{}{Mind if I ask you some other questions?}
 {177}{}{Fine. Goodbye.}

@@ -65,7 +65,7 @@
 {159}{}{Uh, but I am a Citizen.}
 {160}{}{Can I ask you some other questions?}
 {161}{}{Thanks for the information.}
-{162}{}{Yes, well, everthing is being transcribed because... hmmm. This is a somewhat delicate matter, but I believe my post here
+{162}{}{Yes, well, everything is being transcribed because... hmmm. This is a somewhat delicate matter, but I believe my post here
  in Vault City has become obsolete.}
 {163}{}{Ob-so-lete? What do you mean?}
 {164}{}{Obsolete?}

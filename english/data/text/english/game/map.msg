@@ -24,9 +24,9 @@
 {103}{}{Arroyo}                           // arcaves.MAP
 {104}{}{Arroyo}                           // arvillag.MAP
 {105}{}{Arroyo}                           // arbridge.MAP
-{106}{}{Den}                              // denbus1.MAP
-{107}{}{Den}                              // denbus2.MAP
-{108}{}{Den}                              // denres1.MAP
+{106}{}{The Den}                              // denbus1.MAP
+{107}{}{The Den}                              // denbus2.MAP
+{108}{}{The Den}                              // denres1.MAP
 {109}{}{Klamath}                          // .MAP  ;Downtown
 {110}{}{Klamath}                          // .MAP  ;Mall
 {111}{}{Klamath}                          // .MAP  ;Rat Caves
@@ -115,11 +115,11 @@
 {216}{}{Destroyed Bridge}
 {217}{}{}
 # 06: Den, denbus1.MAP
-{218}{}{Businesses}
+{218}{}{West Side}
 {219}{}{}
 {220}{}{}
 # 07: Den, denbus2.MAP
-{221}{}{Businesses}
+{221}{}{East Side}
 {222}{}{}
 {223}{}{}
 # 08: Den, denres1.MAP
@@ -139,9 +139,9 @@
 {234}{}{Rat Caves}
 {235}{}{Rat Caves}
 # 12: , .MAP ;Klamath Toxic Caves
-{236}{}{Toxic Caves}
-{237}{}{Toxic Caves}
-{238}{}{Toxic Caves}
+{236}{}{Entrance}
+{237}{}{Waste Tunnels}
+{238}{}{Storage}
 # 13: , .MAP ;Klamath Trapping Caves
 {239}{}{Trapping Grounds}
 {240}{}{Trapping Grounds}
@@ -168,7 +168,7 @@
 {256}{}{}
 # 19: , .MAP ; Modoc Bed & Breakfast
 {257}{}{Bed & Breakfast}
-{258}{}{}
+{258}{}{Bed & Breakfast}
 {259}{}{}
 # 20: , .MAP ; Modoc Brahmin Pastures
 {260}{}{Brahmin Pastures}
@@ -179,7 +179,7 @@
 {264}{}{}
 {265}{}{}
 # 22: , .MAP ; Modoc Down the Shitter
-{266}{}{Caves}
+{266}{}{Down the John}
 {267}{}{}
 {268}{}{}
 # 23: , .MAP ; Modoc Town Hall
@@ -312,7 +312,7 @@
 {364}{}{Desperado 2nd Floor}
 # 55: New Reno 2 newr2.MAP
 {365}{}{2nd Street}
-{366}{}{2nd Floor}
+{366}{}{Shark Club 2nd Floor}
 {367}{}{Shark Club 3rd Floor}
 # 56: New Reno 3 newr3.MAP
 {368}{}{Commercial Row}
@@ -331,7 +331,7 @@
 {378}{}{Fallout Shelter}
 {379}{}{}
 # 60: New Reno ST newrst.MAP
-{380}{}{}
+{380}{}{Slave Pens}
 {381}{}{Lab}
 {382}{}{}
 # 61: New Reno Boxing Arena newrba.MAP
@@ -351,9 +351,9 @@
 {393}{}{Downtown}
 {394}{}{Downtown}
 # 65: Redding Mine Entrance   RedMEnt.MAP
-{395}{}{Mine Entrance}
-{396}{}{Mine Entrance}
-{397}{}{Mine Entrance}
+{395}{}{Mining Camp}
+{396}{}{Mining Camp}
+{397}{}{Mining Camp}
 # 66: Redding Downtown Tunnels  RedDTun.MAP
 {398}{}{Tunnels}
 {399}{}{Tunnels}
@@ -408,7 +408,7 @@
 {436}{}{Unused}
 # 79: Broken Hills 2 broken2.map
 {437}{}{Residential}
-{438}{}{Undeground}
+{438}{}{Underground}
 {439}{}{Mine}
 # 80: Random Encounter Cavern 5
 {440}{}{Cavern}
@@ -520,7 +520,7 @@
 {520}{}{Toxic Waste Dump}
 # 107. Special Encounter: Pahiahs
 {521}{}{Desert}
-{522}{}{Deset}
+{522}{}{Desert}
 {523}{}{Desert}
 # 108. Special Encounter: Mad Brahmin
 {524}{}{Desert}
@@ -611,9 +611,9 @@
 {588}{}{Dock}
 {589}{}{Dock}
 # [Map 130] lookup_name=Enclave End Fight
-{590}{}{Enclave}
-{591}{}{Enclave}
-{592}{}{Enclave}
+{590}{}{Entry Hall}
+{591}{}{Entry Hall}
+{592}{}{Entry Hall}
 # [Map 131] lookup_name=Enclave Guard Barracks
 {593}{}{Guard Barracks}
 {594}{}{Guard Barracks}
@@ -684,8 +684,8 @@
 {643}{}{Vertibird Area}
 # 148. Shi Temple
 {644}{}{Shi Temple}
-{645}{}{Shi Temple}
-{646}{}{Shi Temple}
+{645}{}{}
+{646}{}{Brotherhood Base}
 # 149. In Game Movie
 {647}{}{Desert}
 {648}{}{Desert}
@@ -694,13 +694,20 @@
 {650}{}{Desert}
 {651}{}{Desert}
 {652}{}{Desert}
-
+# 151. Abbey
+{653}{}{Entrance}
+{654}{}{Downstairs}
+{655}{}{Desert}
+# 151. EPA
+{656}{}{}
+{657}{}{}
+{658}{}{}
 
 #
 #	Short City names
 #
 {1500}{}{Arroyo}
-{1501}{}{Den}
+{1501}{}{The Den}
 {1502}{}{Klamath}
 {1503}{}{Modoc}
 {1504}{}{Vault City}
@@ -748,3 +755,5 @@
 {1546}{}{Fake Vault 13}
 {1547}{}{Random Encounter}
 {1548}{}{Stables}
+{1549}{}{Abbey}
+{1550}{}{EPA}

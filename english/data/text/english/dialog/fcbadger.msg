@@ -57,7 +57,7 @@
 {156}{}{Yeah, you would have. Anyway, I have to get back to this.}
 {157}{}{Wait. I have more questions.}
 {158}{}{Thanks. See ya.}
-{159}{}{I think I like you enough that I can do it for you now. Who you want me to visit?}
+{159}{}{I think I like you enough that I can do it for you now. Who do you want me to visit?}
 {160}{}{The Hubologists.}
 {161}{}{The Shi.}
 {162}{}{Neither. Just checking.}
@@ -91,7 +91,7 @@
 {190}{}{Got the Hubologists. No problem. Need anything else?}
 {191}{}{Yes.}
 {192}{}{No. See ya.}
-{193}{}{You just made a big mistake, pal. I just turned the Shi and the Hubologists against you through their computers. You're finished in San Francisco. }
+{193}{}{You just made a big mistake, pal. I just turned the Shi against you through their computers. You're finished in San Francisco. }
 {194}{}{I guess I'd better kill you then.}
 
 {195}{}{Give me a few hours to get myself together.}

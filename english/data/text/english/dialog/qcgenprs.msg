@@ -2,7 +2,7 @@
 {101}{}{You see a prisoner from Vault 13.}
 {102}{}{You see a very pale person wearing a Vault 13 vault suit.}
 {103}{}{You see a member of your tribe.}
-{104}{}{You see a fellow tribemember.}
+{104}{}{You see a fellow tribe member.}
 {105}{}{You see a member of your tribe, they don't look well.}
 {106}{}{This place is too rusty to be a vault.}
 {107}{}{I think I can hear the ocean. }

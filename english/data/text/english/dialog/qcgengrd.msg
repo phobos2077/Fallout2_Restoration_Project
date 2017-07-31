@@ -13,7 +13,7 @@
 {112}{}{Keep on keeping on.}
 {113}{}{Button up.}
 {114}{}{This is no drill, repeat, no drill.}
-{115}{}{Start containment procedues.}
+{115}{}{Start containment procedures.}
 {116}{}{Get yourself into a clear area. Now!}
 {117}{}{We've got a hazardous situation here.}
 {118}{}{You better get yourself to cover.}
@@ -24,12 +24,12 @@
 {123}{}{I love my work.}
 {124}{}{Did you hear something?}
 {125}{}{My feet are *killing* me.}
-{126}{}{So, did you hear the one about the new second louie?}
+{126}{}{So, did you hear the one about the new second Louie?}
 {127}{}{Nothing ever happens here anyway.}
 {128}{}{I sure wish something exciting would happen.}
 {129}{}{I hear that the Vice-President's real sick, as in the head.}
 {130}{}{You aren't asleep are you?}
-{131}{}{Radio check. Check , check. You reading me?}
+{131}{}{Radio check. Check, check. You reading me?}
 {132}{}{(Yawwwwn)}
 {133}{}{Hey, poker game tonight. Man, do I feel lucky too.}
 {134}{}{Stay alert people.}
@@ -41,7 +41,7 @@
 {140}{}{They're close, I can sense it.}
 {141}{}{Stay frosty, people.}
 {142}{}{We've got a job to do here.}
-{143}{}{You bet, sarge.}
+{143}{}{You bet, Sarge.}
 {144}{}{Yes, sir.}
 {145}{}{Section B, all clear.}
 {146}{}{Corridor clear.}

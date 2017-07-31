@@ -18,16 +18,17 @@
 # Den Quests
 #
 {200}{}{Free Vic from his debt by getting his radio from his house in Klamath and paying Metzger.}
-{201}{}{Sabotage Becky's still.}
-{202}{}{Get car part for Smitty.}
-{203}{}{Return Anna's locket.}
-{204}{}{Collect money from Fred.}
-{205}{}{Get book from Derek.}
-{206}{}{Deliver a meal to Smitty for Mom.}
-{207}{}{Lara wants to know what is being guarded in the church.}
-{208}{}{Get permission from Metzger for gang war.}
-{209}{}{Find weakness in Tyler's gang guarding the church.}
-{210}{}{Help Lara attack Tyler's gang.}
+{201}{}{Find out how Becky can sell her booze for such low prices.}
+{202}{}{Sabotage Becky's still.}
+{203}{}{Get car part for Smitty.}
+{204}{}{Return Anna's locket.}
+{205}{}{Collect Rebecca's money from Fred.}
+{206}{}{Get Rebecca's book from Derek.}
+{207}{}{Deliver a meal to Smitty for Mom.}
+{208}{}{Lara wants to know what is being guarded in the church.}
+{209}{}{Get permission from Metzger for the gang war.}
+{210}{}{Find a weakness in Tyler's gang guarding the church.}
+{211}{}{Help Lara attack Tyler's gang.}
 
 #
 # Klamath Quests
@@ -48,9 +49,10 @@
 {403}{}{Jonny is missing. Find him and bring him home to Balthas.}
 {404}{}{Jonny's in the Slag caves. Find a way to get Jonny back home to Balthas.}
 {405}{}{Farrel has a rodent problem in his garden. Remove the infestation.}
-{406}{}{Deliver Slag message to Jo in Modoc.}
-{407}{}{Jo is suspecious of the Slags. Find out about the dead bodies at the Ghost Farm and find out what happened to Karl.}
+{406}{}{Deliver the Slag's message to Jo in Modoc.}
+{407}{}{Jo is suspicious of the Slags. Find out about the dead bodies at the Ghost Farm and find out what happened to Karl.}
 {408}{}{Go to the Den and tell Karl it's alright to come back home.}
+{409}{}{Guard Grisham's brahmin.}
 
 #
 # Vault City Quests
@@ -72,9 +74,10 @@
 {600}{}{Solve the Gecko powerplant problem.}
 {601}{}{Repair the powerplant.}
 {602}{}{Optimize the powerplant.}
-{603}{}{Get super repair kit for Skeeter.}
-{604}{}{Get 3-step plasma transformer for Skeeter.}
-{605}{}{Find Woody the ghoul for Percy. Try the Den.}
+{603}{}{Retrieve the Economy Disk and deliver it to McClure in Vault City.}
+{604}{}{Get super repair kit for Skeeter.}
+{605}{}{Get 3-step plasma transformer for Skeeter.}
+{606}{}{Find Woody the ghoul for Percy. Try the Den.}
 
 #
 # Broken Hills Quests
@@ -82,7 +85,7 @@
 {700}{}{}
 {701}{}{Fix the mine's air purifier.}
 {702}{}{Find the missing people for Marcus.}
-{703}{}{Beat Francis at armwrestling.}
+{703}{}{Beat Francis at arm wrestling.}
 {704}{}{Break Manson and Franc out of prison.}
 {705}{}{Blow up the mine's air purifier.}
 {706}{}{Divert more electrical power to Eric's home.}
@@ -97,7 +100,7 @@
 {804}{}{     Suspect: Lil' Jesus Mordino}
 {805}{}{     Suspect: Renesco}
 {806}{}{Find a way into the Sierra Army Base.}
-{807}{}{Track down Pretty Boy Lloyd, recover the stolen money, and make an… example of him.}
+{807}{}{Track down Pretty Boy Lloyd, recover the stolen money, and make an... example of him.}
 {808}{}{Go visit Renesco the Rocketman and collect Mr. Salvatore's tribute of $1000.}
 {809}{}{Help guard a secret transaction taking place in the desert.}
 {810}{}{Find some endorphin blockers to make a cure for Jet.}
@@ -106,7 +109,7 @@
 {813}{}{Murder Carlson in NCR.}
 {814}{}{Deliver ten Cat's Paw magazines to Miss Kitty.}
 {815}{}{Deliver a laser pistol to Eldridge.}
-{816}{}{Deliver Big Jesus's package to Ramirez at the Stables.}
+{816}{}{Deliver Big Jesus' package to Ramirez at the Stables.}
 {817}{}{Collect tribute from the Corsican Brothers.}
 {818}{}{Assassinate Boss Salvatore for Big Jesus Mordino.}
 
@@ -123,18 +126,18 @@
 #
 # New California Republic Quests
 #
-{1100}{}{Retrive Parts/Gain Access to Vault 15.}
-{1101}{}{"Take care of Officer Jack" for Mira.}
-{1102}{}{Complete brahmin drive.}
-{1103}{}{Retrive papers from Dr Henry.}
-{1104}{}{Test mutagenic serum on a super-mutant. Try Broken Hills.}
+{1100}{}{Retrieve Parts/Gain Access to Vault 15.}
+{1101}{}{"Take care of" Officer Jack for Mira.}
+{1102}{}{Complete the brahmin drive.}
+{1103}{}{Retrieve the papers from Dr. Henry.}
+{1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
 {1105}{}{Eliminate Mr. Bishop.}
 {1106}{}{Deliver Westin's holodisk to Lynette in Vault City.}
 {1107}{}{Get the map from the NCR Rangers, for Vortis the slaver.}
 {1108}{}{Free the slaves in the slave pen, for the Rangers.}
-{1109}{}{Deliver Hubologist's field report to AHS-9 in San Francisco.}
-{1110}{}{Kill Hubologist in NCR for Merk.}
-{1111}{}{Stop brahmin raids}
+{1109}{}{Deliver the Hubologist's field report to AHS-9 in San Francisco.}
+{1110}{}{Kill the Hubologist for Merk.}
+{1111}{}{Stop the brahmin raids.}
 #
 # Vault 13 Quests
 #
@@ -149,9 +152,9 @@
 #
 # Redding Quests
 #
-{1400}{}{Find out who cut the whore.}
-{1401}{}{Find the excavator chip}
-{1402}{}{Break up the bar brawl.}
+{1400}{}{Find the excavator chip.}
+{1401}{}{Break up the bar brawl.}
+{1402}{}{Find out who cut the whore.}
 {1403}{}{Kill Frog Morton.}
 
 #
@@ -171,14 +174,14 @@
 {1511}{}{Find Badger's girlfriend in the hold below the ship.}
 {1512}{}{The Dragon wants you to take out Lo Pan - hand to hand.}
 {1513}{}{Lo Pan wants you to take out the Dragon - hand to hand, if possible.}
-{1514}{}{Get Chip's spleen.}
+{1514}{}{Get Chip's spleen back.}
 {1515}{}{Get some hardened power armor from Crockett.}
 {1516}{}{Get the vertibird plans for the Brotherhood of Steel.}
 #
 # Navarro Quests
 #
 #1515, ...
-{1600}{}{Deal with the deathclaw.}
+{1600}{}{Deal with the Deathclaw.}
 {1601}{}{Fix K9.}
 {1602}{}{Retrieve the FOB from the base Commander.}
 
@@ -261,7 +264,7 @@
 #
 # Vault 15 Quests
 #
-{3200}{}{Rescue Chrissy}
-{3201}{}{Kill Darion}
-{3202}{}{Complete Deal with NCR.}
-{3203}{}{Give Spy Holodisk to authority in NCR.}
+{3200}{}{Rescue Chrissy.}
+{3201}{}{Kill Darion.}
+{3202}{}{Complete the deal with NCR.}
+{3203}{}{Give the Spy Holodisk to the authorities in NCR.}

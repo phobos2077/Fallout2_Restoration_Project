@@ -25,4 +25,4 @@
 {141}{}{Oh my God, it's Bess!}
 
 {150}{}{You gain }
-{151}{}{xp for getting the GECK.}
+{151}{}{ experience points for getting the GECK.}

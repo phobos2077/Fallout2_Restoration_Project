@@ -1,4 +1,4 @@
-{100}{}{A nomad.}
+{100}{}{You see a nomad.}
 {101}{}{Hello, you look new around here.}
 {102}{}{You should talk to the chief.}
 {103}{}{I don't think it is as hot today as it was yesterday.}

@@ -8,7 +8,7 @@
 {107}{}{You look like you're good with your hands. You do have hands, don't you?}
 {108}{}{I got $5. You got any good gossip?}
 {109}{}{Goodbye.}
-{110}{}{See that one there? That's my favorite - that one's Edna. I name all my stuff, see - they're like chidlren to me. I hate having to sell 'em, but I got to eat.}
+{110}{}{See that one there? That's my favorite - that one's Edna. I name all my stuff, see - they're like children to me. I hate having to sell 'em, but I got to eat.}
 {111}{}{You're messing with all my children!}
 {112}{}{Yeah, right. Here's a fiver. You know any good gossip?}
 {113}{}{O-kay - aren't you just special! Maybe I should shop someplace else.}
@@ -23,7 +23,7 @@
 {122}{}{Maybe something else.}
 {123}{}{Heard tell there's a doc here in town, says he's got some miracle cure. I ain't taking it though...}
 {124}{}{Then there's Saltbeef. Old coot says he's found a gold mine...}
-{125}{}{Miss Dorothy and Toto was out here last week, looking for some parts to fix the powerplant. I couldn't help them, though...}
+{125}{}{Miss Dorothy and Toto was out here last week, looking for some parts to fix the power plant. I couldn't help them, though...}
 {126}{}{There's talk in town that what happened to Westin wasn't no accident. Some folks thinking there's too many suspicious strangers around...}
 {127}{}{Thanks for the money, but I don't know anything more.}
 {128}{}{Here's another fiver.}

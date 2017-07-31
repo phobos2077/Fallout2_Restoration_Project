@@ -28,7 +28,7 @@
 {127}{}{SHOOT yew? Ok-ay.}
 {128}{}{Shamble off}
 {129}{}{*Tchh* Those Servants seem to get stupider every day.}
-{130}{}{I am Proconsul Gregory. Is the office you were looking for, or...?}
+{130}{}{I am Proconsul Gregory. Is this the office you were looking for, or...?}
 {131}{}{"Proconsul?" What the hell is a "Proconsul?"}
 {132}{}{What do you do here?}
 {133}{}{Just looking around, thanks.}
@@ -41,7 +41,7 @@
 {140}{}{Yes, I am responsible for administering the Citizenship test to anyone who wishes to become a Citizen of Vault City.}
 {141}{}{What is the test, exactly?}
 {142}{}{I want to take the test again.}
-{143}{}{What's the benefits of being a Citizen?}
+{143}{}{What are the benefits of being a Citizen?}
 {144}{}{Can I ask you some other questions?}
 {145}{}{I see. Maybe we'll talk again later.}
 {146}{}{Benefits? Why, look around you... Vault City is the safest, richest city in all the wastes. Citizens receive free medical treatment, food and water is plentiful, and there is no crime or disease to speak of.}

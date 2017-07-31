@@ -182,7 +182,7 @@
 {386}{}{Punch me! Punch me! I want to tell my kids you punched me!}
 {387}{}{You're the best }
 {1387}{}{! Give 'em hell!}
-{388}{}{Kill him, !}
+{388}{}{Kill 'em, !}
 {1388}{}{!}
 {389}{}{You're the best, }
 {1389}{}{!}

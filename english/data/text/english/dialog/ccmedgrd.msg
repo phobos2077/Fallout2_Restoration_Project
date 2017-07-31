@@ -16,7 +16,7 @@
 {111}{}{Multiple intruders! Sound the alarm!}
 
 {112}{}{Security alert! Seal the base!}
-{113}{}{Secure all stations! We're on alert}
+{113}{}{Secure all stations! We're on alert!}
 {114}{}{Intruder alert! Go code red!}
 
 {115}{}{We're going to put you under!}

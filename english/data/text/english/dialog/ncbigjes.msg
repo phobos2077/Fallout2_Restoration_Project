@@ -131,7 +131,7 @@
 
 # 15. SLAVE DEALINGS 2, BARTER SUCCEED (13)
 {390}{}{(Mordino walks around Miria, examines her face carefully, then slaps her ass.) Hmmmm. 500 chips for her, then.}
-{391}{}{(Mordino walks around Davin, rolls up the boy's sleeve and examines his muscles, then checks his eyes for chem use.)
+{391}{}{(Mordino walks around Davin, rolls up the boy's sleeve and examines his muscles, then checks his eyes for drug use.)
  Hmmmm. He looks strong enough. 400 chips for him, then.}
 {392}{}{(Mordino walks around Sulik, frowning.) Hmmmm. He looks strong... and tolerant of pain, to stick a bone in his
  nose so far. 200 chips for him.}
@@ -181,7 +181,7 @@
 {471}{}{No, I haven't delivered the package yet.}
 {472}{}{Yes, I delivered it to Ramirez as you asked.}
 {473}{}{Yes, I've been to the Stables and dropped off your package… do you know what they DO there? They're torturing
- slaves with chems.}
+ slaves with drugs.}
 {474}{}{Yes, I gave your package to that guard, Ramirez… you know that guy's a Jet head? He was REEKING of Jet fumes.}
 
 # 22. HAVE YOU DONE AS I ASKED (21)
@@ -358,7 +358,7 @@
 # 49. I HAVE A HEART CONDITION . . . (7, 11)
 {760}{}{The temperature does not… agree with me. My breathing is… sometimes difficult. In times of stress or other physical
  activity, I tire quickly. Sometimes, I have chest pains.}
-{761}{}{Really. Well, it's good you don't take any metamphetamines or stimulants, then. I had some other questions...}
+{761}{}{Really. Well, it's good you don't take any methamphetamines or stimulants, then. I had some other questions...}
 {762}{}{I see. I better be going now.}
 
 # 50. I HAVE A HEART CONDITION . . . (7)

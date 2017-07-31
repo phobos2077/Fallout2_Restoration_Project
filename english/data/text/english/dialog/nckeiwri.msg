@@ -141,12 +141,12 @@
 {471}{}{Thanks.}
 
 # 27. LIL' JESUS (23)
-{480}{}{He's Big Jesus's son. A bastard, more like. He mighta caught Richard alone, then pumped him fulla
+{480}{}{He's Big Jesus' son. A bastard, more like. He mighta caught Richard alone, then pumped him fulla
  Jet outta spite. You looking for him, check out the Desperado. Little Jesus hangs out there with his old man.}
 
 
 
 # END LINES
 {1220}{}{. What's goin' on?}
-{1252}{}{ Everybody treating you all right? Anything I can do for you?}
+{1252}{}{. Everybody treating you all right? Anything I can do for you?}
 {1253}{}{. We owe you big, and the Wrights always pay their debts. What can I do for you?}

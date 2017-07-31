@@ -53,7 +53,7 @@
 {140}{}{No.}
 {141}{}{All right.}
 {142}{}{No thanks.}
-{143}{}{You are not my master. I can not speak to you. Good bye.}
+{143}{}{You are not my master. I cannot speak to you. Good bye.}
 {144}{}{Okay.}
 {145}{}{Hello master. Have you found my motivation unit?}
 {146}{}{No, me look more.}
@@ -93,7 +93,7 @@
 {177}{}{Put your weapon away, okay?}
 {178}{}{Stay close to me.}
 {179}{}{Don't get too far away.}
-{180}{}{We should spread out a bit}
+{180}{}{We should spread out a bit.}
 {181}{}{Let's go.}
 {182}{}{That's it for now.}
 {183}{}{All systems are functioning at full capacity, master.}
@@ -113,7 +113,7 @@
 {195}{}{Put your weapon away.}
 {196}{}{Stay close to me.}
 {197}{}{Don't get too far away.}
-{198}{}{We should spread out a bit}
+{198}{}{We should spread out a bit.}
 {199}{}{Let's go.}
 {200}{}{That's it for now.}
 {201}{}{I will wait here for your return, master.}
@@ -212,13 +212,13 @@
 {293}{}{No, thanks.}
 
 {300}{}{Me sad. Me no can fix.}
-{301}{}{I'm sorry I can't fix you.}
+{301}{}{I'm sorry; I can't fix you.}
 
 {400}{}{You seem to be missing a part.}
 {410}{}{That does nothing.}
 {420}{}{That does not fit.}
 
-{800}{}{You fixed K9.}
+{800}{}{You fixed K-9.}
 
 {1000}{}{Yes, master?}
 
@@ -229,21 +229,21 @@
 {1400}{}{I have performed what repairs I can master, but system failure
  is imminent without assistance.}
 
-{1500}{}{I will await your return master.}
+{1500}{}{I will await your return, master.}
 
-{1600}{}{Do you expect me to swallow my teeth master?}
+{1600}{}{Do you expect me to swallow my teeth, master?}
 
-{1700}{}{I will follow at your heel master.}
-{1800}{}{I will move to a medium distance master.}
-{1900}{}{I will move to maximum acceptable range master.}
+{1700}{}{I will follow at your heel, master.}
+{1800}{}{I will move to a medium distance, master.}
+{1900}{}{I will move to maximum acceptable range, master.}
 
 {2000}{}{I am sorry, master, but there does not appear to be room for me in
  your party. I will wait here until a position opens.}
 {2200}{}{As you command, master.}
-{2300}{}{I have fur master. I carry no other gear.}
+{2300}{}{I have fur, master. I carry no other gear.}
 {2400}{}{I have no desire to remove my fur, master.}
 {2500}{}{Teeth, master. The shiny white things installed in my mouth.}
 
 {2700}{}{You are a bigger asshole than Schreber. I will not join you.}
-{2800}{}{Very well master. I am at your command.}
+{2800}{}{Very well, master. I am at your command.}
 {2900}{}{You are a cretin. I will not go anywhere with you. Go away.}

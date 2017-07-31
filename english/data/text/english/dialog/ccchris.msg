@@ -49,7 +49,7 @@
 {139}{}{What do you think you're doing?}
 {140}{}{Hey, I'm outta here.}
 {141}{}{(speaking into radio) Alert! We got an intruder at the station! Alert!}
-{142}{}{Done.}
+{142}{}{[DONE]}
 {143}{}{Well, nice talking with you. Here's some advice though - ain't nothing
  in these parts except wasteland and radiation. Civilization's south of here. I'd be heading that way if I was you.}
 {144}{}{Thanks.}
@@ -134,8 +134,8 @@
 {195}{}{Me serious. Me join Enclave.}
 {196}{}{Me serious. Me Join Enclave.}
 {197}{}{I'm serious. I'm looking to join the Enclave.}
-{198}{}{I'm serious. I'm looking to join the Enclave}
-{199}{}{Wait a minute,dummy. Are you trying to say you're one of the Enclave
+{198}{}{I'm serious. I'm looking to join the Enclave.}
+{199}{}{Wait a minute, dummy. Are you trying to say you're one of the Enclave
  replacements?}
 {200}{}{Wait a minute. Are you trying to say you're one of the Enclave
  replacements?}
@@ -153,7 +153,7 @@
 {208}{}{I hired an escort!}
 {209}{}{Well, I don't mean to be rude or nothing, but this here's private property.
  If you're going to be poking around somewhere, don't be doing it here.}
-{210}{}{Done.}
+{210}{}{[DONE]}
 {211}{}{You're back. What can old Chris help you with?}
 {212}{}{You tell me Navarro south. You lie! Me here for truth.}
 {213}{}{You told me Navarro was to the south, old man. Now I want to know the truth.}
@@ -177,6 +177,7 @@
 {230}{}{Hey, I'm outta here.}
 {231}{}{Yeah, right.}
 {232}{}{He's pulling out a radio. He's going to alert the whole base! I've got to deal with him quickly.}
+{233}{}{Oh, no. Man pull out talkie box. He tell on me. Must stop him.}
 
 {800}{}{You conned Chris to give you the password.}
 {810}{}{You killed Chris before he could warn the base.}

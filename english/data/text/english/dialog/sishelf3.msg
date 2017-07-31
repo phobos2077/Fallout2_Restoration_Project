@@ -1,5 +1,5 @@
 {100}{}{You see a bookcase used to store inventory.}
-{101}{}{An old bookcase stands here. It seems sturdy enough you could probably store things on it's shelves.}
+{101}{}{An old bookcase stands here. It seems sturdy enough you could probably store things on its shelves.}
 {195}{}{This bookcase doesn't seem to be trapped.}
 {200}{}{ doesn't think this bookcase is trapped.}
 {206}{}{Hey, don't plant that here.}

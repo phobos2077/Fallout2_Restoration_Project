@@ -38,7 +38,7 @@
 
 # 6. Got work? (From 1, 3-5)
 {260}{}{Well it depends on what you're good at. There is something I'm curious about. If you can find out, I'll pay you a bit.}
-{261}{}{As I said, I'm looking for more information on a certain something… or someplace. I'll pay of course.}
+{261}{}{As I said, I'm looking for more information on a certain something... or someplace. I'll pay of course.}
 {262}{}{Sure what's that?}
 {263}{}{Maybe later.}
 
@@ -54,7 +54,7 @@
 {283}{}{I'll see what I can do.}
 
 # 9. Thanks (From 8)
-{290}{}{Thanks. Don't get in a fight… yet. I have a plan.}
+{290}{}{Thanks. Don't get in a fight... yet. I have a plan.}
 {291}{}{No problem.}
 {292}{}{I'll be right back.}
 
@@ -70,17 +70,17 @@
 {312}{}{No problem. Bye.}
 
 # 12. Makes Sense? (From 11)
-{320}{}{I've seen caravan's from Vault City come in and then some of it gets picked up by caravans from New Reno.}
+{320}{}{I've seen caravans from Vault City come in and then some of it gets picked up by caravans from New Reno.}
 {321}{}{So? Why does that make sense?}
 {322}{}{Oh.}
 
 # 13. Makes Sense, Bye (From 12)
-{340}{}{New Reno is the chem capital around here. They have to get the raw materials to make there chems from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
+{340}{}{New Reno is the chem capital around here. They have to get the raw materials to make their chems from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
 {341}{}{Where's New Reno?}
 {342}{}{Okay, thanks.}
 
 # 14. Located? (From 13)
-{350}{}{Not sure exactly. Some where to the south I think. I've never been there, I just see their caravans stop buy once in a while - once in a long while.}
+{350}{}{Not sure exactly. Somewhere to the south I think. I've never been there, I just see their caravans stop by once in a while - once in a long while.}
 {351}{}{Oh, okay. Thanks.}
 
 # 15. (From 11-14)
@@ -89,14 +89,14 @@
 {362}{}{Make it quick.}
 
 # 16. Set Ask (From 15)
-{370}{}{I need you to check with Metzger to see if he'd be okay if Tyler and I settled some old maters. He'll understand what I mean.}
+{370}{}{I need you to check with Metzger to see if he'd be okay if Tyler and I settled some old matters. He'll understand what I mean.}
 {371}{}{Why do you want me to ask?}
-{372}{}{If I get a chance}
+{372}{}{If I get a chance.}
 {373}{}{Okay.}
 
 # 17. Why PC ask Metzger (From 16)
 {380}{}{Because I don't want Tyler to see any of my people going into or out of Metzger's place. I don't want to tip our hand.}
-{381}{}{Don't you get it. If Tyler sees me all of a sudden talking to Metzger he might catch wind of something fishy.}
+{381}{}{Don't you get it? If Tyler sees me all of a sudden talking to Metzger he might catch wind of something fishy.}
 {382}{}{We'll see.}
 {383}{}{Okay.}
 
@@ -116,7 +116,7 @@
 {411}{}{I assume there's something else now?}
 {412}{}{Thanks. Bye.}
 
-# 21. Wait, need info… (From 20)
+# 21. Wait, need info... (From 20)
 {420}{}{I have one more job for you. I'm not sure how you'll do it, but since you were able to get inside maybe they trust you.}
 {421}{}{I snuck inside.}
 {422}{}{What is it?}
@@ -127,7 +127,7 @@
 
 # 23. Setting Find (From 20-22)
 {440}{}{We can't take them at their present strength. They have extra funding
- and slightly out number us. If you can find some kind of weakness we could use
+ and slightly outnumber us. If you can find some kind of weakness we could use
  to balance out the odds or something we can exploit...}
 {441}{}{Huh? Find a weakness? How am I supposed to do that?}
 {442}{}{How much?}
@@ -164,7 +164,7 @@
 {494}{}{No way. Keep your money!}
 
 # 29. Wait to fight. (From 28, 30)
-{500}{}{Okay, but we've got to act soon so don't take to long or we'll ruin our chance.}
+{500}{}{Okay, but we've got to act soon so don't take too long or we'll ruin our chance.}
 {501}{}{Okay.}
 
 # 30. Coward (From WTG & 28)
@@ -191,7 +191,7 @@
 {534}{}{Thank you again.}
 
 # 33. CF: Metzger Dead (From WTG)
-{540}{}{Now that's Metzger's dead, I don't know what'll happen.}
+{540}{}{Now that Metzger's dead, I don't know what'll happen.}
 {541}{}{Maybe we should just pack up.}
 {542}{}{Did you hear Metzger died? I don't know what to do now.}
 {543}{}{What's going to happen to the Den now? Maybe something better.}
@@ -217,7 +217,7 @@
 # 37. Gang Dead Cont. (From 36)
 {590}{}{I told you we would go together. Since no one was there to watch the place, it got ransacked and now Metzger's madder than hell.}
 {591}{}{I told you to find a weakness, not kill them! Since no one was there to watch the place, it got ransacked and now Metzger's madder than hell.}
-{592}{}{Damn it! I told you to ask Metzger not to kill them! Since no one was there to watch the place, it got ransacked and now Metzger's madder than hell.}
+{592}{}{Damn it! I told you to ask Metzger, not to kill them! Since no one was there to watch the place, it got ransacked and now Metzger's madder than hell.}
 {593}{}{Damn it! I told you not to attack them! Since no one was there to watch the place, it got ransacked and now Metzger's madder than hell.}
 {594}{}{Oh, well, I've got to go.}
 {595}{}{That's a shame.}

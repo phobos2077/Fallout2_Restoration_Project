@@ -9,6 +9,7 @@
 {108}{}{Don't worry, boy. I'll come back and get you when I have some room in my party.}
 {109}{}{Sorry, Dogmeat. Not this time.}
 {110}{}{The dog greedily swallows the iguana on a stick, then looks at you expectantly.}
+{1110}{}{The dog greedily swallows the contents of the can of dog food, then looks at you expectantly.}
 {111}{}{Whistle}
 {112}{}{Maybe you ken come wif me when I haf more ruum.}
 {113}{}{Uh-uh, doggie. Yu stay.}
@@ -38,3 +39,7 @@
 {137}{}{Ey'e mate, you screwen with me dog.}
 {138}{}{Grrrrr....}
 {139}{}{(I wonder if I can get Dogmeat to follow me differently?)}
+
+#added by killap - NPC info
+{300}{}{*Wimper*}
+{301}{}{Awooooooooooo! *wimper*}

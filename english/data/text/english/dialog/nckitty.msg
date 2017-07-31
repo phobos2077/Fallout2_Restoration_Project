@@ -278,7 +278,7 @@
 {703}{}{Wow.}
 {704}{}{*Whew*}
 # marcus
-{705}{}{I sure hope I didn't get her pregnant.}
+{705}{}{Heh...I sure hope I didn't get her pregnant.}
 
 {710}{}{You talk for hours. The girls at the Cat's Paw have amazing insight into human nature.}
 {711}{}{The Mordino lieutenant arrives, and seems impressed with you. He leads you north out of

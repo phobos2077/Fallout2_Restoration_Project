@@ -92,3 +92,6 @@
  (to Caminetto) Right, my little fuckface?}
 {179}{}{That's more like it.}
 {180}{}{Nope. Too late now. I'm gonna have to open up a can of whoop-ass on you two. }
+# Begin Seraph's Code
+{181}{}{I guess I'll just kick Caminetto's ass another day.}
+# End Seraph's Code

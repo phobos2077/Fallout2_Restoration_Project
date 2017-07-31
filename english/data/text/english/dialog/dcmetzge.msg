@@ -8,11 +8,11 @@
 {200}{}{You'll pay for that.}
 
 # 2. 1st Time, Self Initiated (From 2-WTG)
-{210}{}{What the fuck do you want? This is the Slaver's Guild not some safe
+{210}{}{What the fuck do you want? This is the Slaver's Guild, not some safe
  house for you fucking jet heads.}
 {211}{}{What the hell do you want, you ugly bitch? This is the Slaver's
- Guild not some fucking whorehouse.}
-{212}{}{What the hell do you want, bitch? This is the Slaver's Guild not some
+ Guild, not some fucking whorehouse.}
+{212}{}{What the hell do you want, bitch? This is the Slaver's Guild, not some
  fucking whorehouse.}
 {213}{}{You're starting to piss me off. What the hell do you want now?}
 {214}{}{Now what, damn it?}
@@ -38,7 +38,7 @@
 {234}{}{Davin}
 {235}{}{Vic}
 {236}{}{Myron}
-{237}{}{MacRae}
+{237}{}{Cassidy}
 {238}{}{Sulik}
 {239}{}{Can I ask you another question instead?}
 {240}{}{I changed my mind. Bye.}
@@ -52,8 +52,8 @@
 {250}{}{Maybe.}
 
 # 5. Main body, yes? (From 3)
-{255}{}{I have something I'd like to sell.}
-{256}{}{About Vic…}
+{255}{}{I have someone I'd like to sell.}
+{256}{}{About Vic...}
 {257}{}{I'm looking for a merchant.}
 {258}{}{Lara wanted me to ask you for permission to fight Tyler.}
 {259}{}{Can I join the guild?}
@@ -67,7 +67,7 @@
 {270}{}{You think you can cut it? I don't take in just anyone... What the hell. If
  you fuck up, I'll sell you off. You'll have to get a tattoo on your forehead
  identifying you as a slaver to everyone. It's permanent, so no second thoughts.}
-{271}{}{So, our delicate little flower girl returns… You changed your mind then?
+{271}{}{So, our delicate little flower girl returns... You changed your mind then?
  Going to get that tat after all?}
 {272}{}{Yeah, you might do... You don't need much in the way of brains to go on a run.
  If you fuck up, I'll just sell you off. If you think you can cut it you'll have
@@ -97,7 +97,7 @@
 {311}{}{Thanks. Bye.}
 {312}{}{I'm ready right now.}
 {313}{}{Me Kill NOW!}
-{314}{}{Okey-Dokey}
+{314}{}{Okey-Dokey.}
 
 # 10. Slave Run (From 9)
 {320}{}{Two of my men will get you fairly close to your targets. Your pay will be based
@@ -136,14 +136,14 @@
 {362}{}{You fucking idiot. What the hell makes you think I want that moron back? It took
  him forever to fix a damn radio! A radio! You're stuck with him. I don't want him
  breaking anything else around here.}
-{363}{}{I don't know this one's pretty skinny... but a smart one? That might be worth something. I'll give you $}
+{363}{}{I don't know, this one's pretty skinny... but a smart one? That might be worth something. I'll give you $}
 {1363}{}{.}
-{364}{}{This one looks like he could really put up a fight. Hmm… $}
+{364}{}{This one looks like he could really put up a fight. Hmm... $}
 {1364}{}{.}
 {365}{}{Another primitive. This one's a freak show. Still, he looks strong and that look might fetch something extra. $}
 {1365}{}{?}
 {366}{}{How about someone else?}
-{367}{}{Well, let me ask you another question then}
+{367}{}{Well, let me ask you another question then.}
 {368}{}{Okay.}
 {369}{}{Fine.}
 {370}{}{Okay.}
@@ -156,7 +156,7 @@
 {382}{}{Right, boss.}
 
 # 15. Turned down Selling NPC (From 13)
-{390}{}{Well don't waste my fucking time then. If you ever get something you're
+{390}{}{Well don't waste my fucking time then. If you ever get someone you're
  looking to part with, come see me.}
 {391}{}{I've got another question for you.}
 {392}{}{Okay. Bye.}
@@ -186,7 +186,7 @@
 {432}{}{Okay, thanks.}
 
 # 20. I'm looking for a Merchant (From 5, 20)
-{440}{}{What the fuck are you asking me for? Do I look like some kind of fucking… oh,
+{440}{}{What the fuck are you asking me for? Do I look like some kind of fucking... oh,
  wait. You're probably looking for Vic?}
 {441}{}{He's the one that 'specializes' in vault technology, or so he says. He's my
  property now. He's not going anywhere.}
@@ -205,7 +205,7 @@
  him off that easy.}
 {458}{}{He still tried to screw me over.}
 {459}{}{Can I see him?}
-{460}{}{What kind transmissions are you talking about?}
+{460}{}{What kind of transmissions are you talking about?}
 {461}{}{Okay, thanks.}
 {462}{}{Maybe some money might help clear things up?}
 {463}{}{What kind transmissions were you talking about before?}
@@ -217,7 +217,7 @@
 {477}{}{Thanks.}
 
 # 23. Transmissions (From 21)
-{485}{}{The Enclave and New… hey. What the hell you care for? It's business. I need to be sure no one's trying to fuck me over. That's all you need to know.}
+{485}{}{The Enclave and New... Hey, what the hell you care for? It's business. I need to be sure no one's trying to fuck me over. That's all you need to know.}
 {486}{}{Mind your own business.}
 {487}{}{Okay.}
 
@@ -250,37 +250,38 @@
 
 # 28. Paying for Run (From WTG)
 {540}{}{Here's $}
-{1540}{}{. Pretty fucking good job .}
+{1540}{}{. Pretty fucking good job.}
+{15401}{}{. Pretty fucking good job, }
 {2540}{}{.}
 {541}{}{Here's your $}
 {1541}{}{. You kicked some serious ass. Keep it up.}
-{542}{}{Good job out there. Here's $.}
+{542}{}{Good job out there. Here's $}
 {1542}{}{.}
-{543}{}{Here's your money .}
-{1543}{}{, $.}
+{543}{}{Here's your money, }
+{1543}{}{. $}
 {2543}{}{.}
-{544}{}{$.}
-{1544}{}{ isn't something to laugh at but you can't make a lot more than that.}
+{544}{}{$}
+{1544}{}{ isn't something to laugh at, but you can't make a lot more than that.}
 {545}{}{Well it's $}
 {1545}{}{ this time. Pretty good job.}
-{546}{}{It wasn't that tough, now was it? Next time no mistakes. Here's $.}
+{546}{}{It wasn't that tough, now was it? Next time no mistakes. Here's $}
 {1546}{}{.}
 {547}{}{$}
 {1547}{}{? Not bad.}
-{548}{}{Come on! $.}
+{548}{}{Come on! $}
 {1548}{}{? You can do better than that.}
-{549}{}{Remember, watch each other's backs and only kill the hostile slaves. Here's $.}
+{549}{}{Remember, watch each other's backs and only kill the hostile slaves. Here's $}
 {1549}{}{.}
-{550}{}{Only $.}
+{550}{}{Only $}
 {1550}{}{! That's fucking pitiful! Shape up or I'll kick your ass out.}
 {551}{}{You want to make any money or not? You're pissing me off. How fucking
- hard can it be? Now take your $.}
+ hard can it be? Now take your $}
 {1551}{}{ and get out.}
 {552}{}{What the hell was your problem? You don't earn shit this time. We're
  in this to make money, not dick around.}
 {553}{}{I'll do better next time.}
 {554}{}{Thanks for nothing.}
-{555}{}{Thanks}
+{555}{}{Thanks.}
 {556}{}{Ug.}
 
 # 29. (From WTG)
@@ -292,14 +293,14 @@
 {575}{}{Damn! You were the best piece of ass I've ever had, and I've had a lot.}
 
 # 43. Abandon Slave Run
-{600}{}{YOU STUPID FUCK! How dare you abandon your fellow slavers out there. [Spits in your face] KILL HIM!}
+{600}{}{YOU STUPID FUCK! How dare you abandon your fellow slavers out there? [Spits in your face] KILL HIM!}
 {601}{}{But I...}
 {602}{}{Alright, let's do this.}
 
 # 30. Returned from run, attacked slaver and lived to tell about it. (From WTG)
 {620}{}{Well, nice to see you could make it back.}
 {621}{}{Yeah, it was a tough run.}
-{622}{}{Thanks. Things got a little harry out there.}
+{622}{}{Thanks. Things got a little hairy out there.}
 {623}{}{Agra Moo ne!}
 
 # 31. Dumb hostile run (From 30)
@@ -308,8 +309,8 @@
 {632}{}{Ugh.}
 
 # 32. Dumb 2 (From 31)
-{640}{}{Of course I'd LOVE to help you out but… there's this slight problem I have… something about attacking one of my men.}
-{641}{}{Sorry! I didn't mean to- I mean… Ug?}
+{640}{}{Of course I'd LOVE to help you out but... there's this slight problem I have... something about attacking one of my men.}
+{641}{}{Sorry! I didn't mean to- I mean... Ug?}
 {642}{}{Uh, oh.}
 
 # 33. Dumb 3 (From 32)
@@ -318,10 +319,10 @@
  take this bitch down.}
 {652}{}{Oops.}
 {653}{}{Garaka!}
-{654}{}{Uh… Tank?}
+{654}{}{Uh... Tank?}
 
 # 34. Tough run, hostile (From 30)
-{670}{}{Oh, I'm sure. This line of work isn't to be take lightly. It takes trust and loyalty. We watch each other's backs. Good policy don't you think?}
+{670}{}{Oh, I'm sure. This line of work isn't to be taken lightly. It takes trust and loyalty. We watch each other's backs. Good policy don't you think?}
 {671}{}{I guess.}
 {672}{}{Uh, what's going on?}
 {673}{}{Definitely.}
@@ -344,13 +345,13 @@
 {703}{}{Make them pay.}
 
 # 38. Trust, warn? (From 37)
-{710}{}{You think so? Honestly? I don't know. I was thinking of something a little more… permanent. [With an evil grin, Metzger looks to his guards and nods.]}
+{710}{}{You think so? Honestly? I don't know. I was thinking of something a little more... permanent. [With an evil grin, Metzger looks to his guards and nods.]}
 {711}{}{What?}
-{712}{}{Oh boy…}
+{712}{}{Oh boy...}
 
 # 39. Trust Pay? (From 37)
 {720}{}{I'm glad we're in agreement. [Metzger looks to his guards.] Men, it's payday.}
-{721}{}{Uh…}
+{721}{}{Uh...}
 
 # 40. Really? (From 36)
 {730}{}{Yes. It's a shame really. This person just doesn't seem to get it, but

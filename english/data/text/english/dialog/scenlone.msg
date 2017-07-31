@@ -16,7 +16,7 @@
 {115}{}{Oh dear, a Level One. Still trapped in primitive state. Perhaps a zeta-scan alignment would help. Would you like that?}
 {116}{}{Zay-ta!}
 {117}{}{No!}
-{118}{}{Please don't mock the Church of Hubology. It's oppressives like you who make things hard for the rest of us. Oh, dear. I'm all turbulent!}
+{118}{}{Please don't mock the Church of Hubology. It's oppressors like you who make things hard for the rest of us. Oh, dear. I'm all turbulent!}
 {119}{}{Chosen One? Don't you mean AHS-One? Just what text are you working from?}
 {120}{}{It's simple. I am the Chosen One because that is what must be.}
 {121}{}{AHS one?}
@@ -48,7 +48,7 @@
 {147}{}{Of course the universe is deterministic! After all, we've been put here for some purpose that's already known to our creator.}
 {148}{}{Nonsense. There is no organizing force determining our fates. In fact there's no 'higher power' behind anything. The universe is just chance. I am the Chosen One because others have declared it. That's all.}
 {149}{}{Aligned Hub Seeker. You are obviously not Enlightened.}
-{150}{}{A primitive belief - but you show signs of great promise.  We can show you the higher path. Would you like to know more?}
+{150}{}{A primitive belief - but you show signs of great promise. We can show you the higher path. Would you like to know more?}
 {151}{}{Yes.}
 {152}{}{No.}
 {153}{}{I can't help you with that. However, our scientists in San Francisco might know something. Perhaps you should travel there.}
@@ -97,7 +97,7 @@
 {194}{}{Excellent. Here is the letter. Now, can I do anything else for you? A zeta-scan?}
 {195}{}{A scan? Why not.}
 {196}{}{You've already done enough. Bye.}
-{197}{}{Then I've spoken too much already. Goodbye}
+{197}{}{Then I've spoken too much already. Goodbye.}
 {198}{}{Greetings again. How can the Church of Hubology help you?}
 {199}{}{<Drool>}
 {200}{}{So you're the itch Merk wants scratched!}
@@ -120,4 +120,4 @@
 {216}{}{Wonderful, sister. So what level are you?}
 {217}{}{ }
 {218}{}{You gain }
-{219}{}{experience for taking care of the Hubologist for Merk.}
+{219}{}{ experience points for "taking care of" the Hubologist for Merk.}

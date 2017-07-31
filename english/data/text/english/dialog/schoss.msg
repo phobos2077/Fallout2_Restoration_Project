@@ -1,5 +1,5 @@
 {100}{}{You see a big, dumb-looking and over-muscled lunk.}
-{101}{}{It's Hoss}
+{101}{}{It's Hoss.}
 {102}{}{He doesn't appear to be armed, with weapons or wit.}
 {103}{}{Hey you, turd-face. I don't like you. I think you should buy me a drink.}
 {104}{}{Hey baby, come on over here and I'll give you a nice big wet one.}

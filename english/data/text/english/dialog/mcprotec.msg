@@ -13,12 +13,12 @@
 
 # caves
 # - general
-{200}{}{I don't trust "surfacers.'}
+{200}{}{I don't trust "surfacers."}
 {201}{}{Vegeir said not to harm you...YET!}
 {202}{}{We are charged with protecting our people.}
 {203}{}{I'm watching you.}
 
 # - mission complete
-{220}{}{I guess you're OK... for a "surfacer.'}
+{220}{}{I guess you're OK... for a "surfacer."}
 {221}{}{Maybe we can get along with the "surfacers."}
 {222}{}{I'm glad I was wrong about you.}

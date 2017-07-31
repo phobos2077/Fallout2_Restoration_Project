@@ -8,7 +8,7 @@
 {107}{}{You shore you don't want to help ole Percy out with his problem? I shore could use the help.}
 {108}{}{Uh, let me think about it a bit longer. In the meantime, got anything to trade?}
 {109}{}{Well, why don't you tell me about it again.}
-{110}{}{I didn't know you were going to pester me about that everytime I came in. Sheesh. Goodbye.}
+{110}{}{I didn't know you were going to pester me about that every time I came in. Sheesh. Goodbye.}
 {111}{}{You find Woody yet? I'm a-gettin' real worried-like. He ain't never been gone so long afore.}
 {112}{}{Uh, not yet, but I'm still looking. Hey, do you have anything I could barter for?}
 {113}{}{No, I sure haven't. I better get back out there and keep looking.}

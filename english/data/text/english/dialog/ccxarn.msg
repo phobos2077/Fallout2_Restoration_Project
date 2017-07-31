@@ -141,7 +141,7 @@
 {195}{}{I thank you, human. Let us kick some Enclave ass! Pack Gruthar! Grrrrrrrhh!}
 {196}{}{Okay.}
 
-{200}{}{[More]}
+{200}{}{[MORE]}
 {201}{}{Yes. Who are you?}
 {202}{}{Yes. Why?}
 {300}{}{Very well. The Enclave created my people as a slave warrior race.
@@ -173,3 +173,6 @@
 {800}{}{You killed Xarn.}
 {810}{}{You freed Xarn.}
 {820}{}{You joined Xarn.}
+
+{900}{}{No. Me here rescue you. Really. Me already open door for leave. You go.}
+{901}{}{Look, I really am here to rescue you! I already unlocked the other door. You are free to leave.}

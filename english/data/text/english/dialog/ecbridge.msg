@@ -76,6 +76,7 @@
 {169}{}{Player is disintegrated.}
 {170}{}{Heh-heh.}
 {171}{}{For some reason, I think I should save my game in a brand new slot.}
+{1171}{}{Uh, oh. Me should save game in new slot.}
 
 {172}{}{wat yore name?}
 

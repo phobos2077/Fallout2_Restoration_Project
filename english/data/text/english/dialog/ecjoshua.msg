@@ -1,6 +1,6 @@
-{100}{}{A man strumming a lute.}
-{101}{}{Joshua.}
-{102}{}{A traveling minstrel.}
+{100}{}{You see a man strumming a lute.}
+{101}{}{This is Joshua.}
+{102}{}{He is a traveling minstrel.}
 
 {103}{}{Brave Sir Robin ran away...}
 {104}{}{Bravely ran away, away...}

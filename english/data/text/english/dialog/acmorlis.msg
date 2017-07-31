@@ -15,7 +15,7 @@
 {111}{}{Now don't waste my time. Do you have the powders?}
 {112}{}{Yes, here they are.}
 {113}{}{Umm, I guess not.}
-{114}{}{Here is the flint.  Now off with you! I don't have time to gossip.}
+{114}{}{Here is the flint. Now off with you! I don't have time to gossip.}
 {115}{}{Thank you, Aunt Morlis.}
 {116}{}{Again you waste my time, worthless nephew! How did you ever become
  the Chosen One?}
@@ -52,3 +52,12 @@
 {214}{}{Yes, Aunt Morlis.}
 {215}{}{Then get yourself out of here and find the GECK! People are depending on you!}
 {216}{}{Yes, Aunt Morlis.}
+
+#added by killap
+{300}{}{Well, I seem to have misplaced the flint. Oh well, at least I got my powders. Now off with you! I don't have time to gossip.}
+{302}{}{Well, I can't seem to find the flint. I'm sure you took it from me when I wasn't looking though. I caught you before. Now off with you! I don't have time to gossip.}
+{303}{}{Well... Oh, I'm sorry but I seem to have misplaced the flint. I wish you a safe journey though, child. }
+
+#added by Darek
+{304}{}{I already gave you the flint, stupid. Now stop wasting my time and get out of here!}
+{305}{}{I already gave you the flint, stupid. Oh well, at least I got my powders. Now off with you! I don't have time to gossip.}

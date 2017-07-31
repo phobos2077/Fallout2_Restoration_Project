@@ -94,9 +94,9 @@
 {402}{}{I'm ready, I'm available, you put me in a movie, okay? We're talking box office, }
 {403}{}{I am the ultimate Latin lover. There is no Latin lover like me.}
 {404}{}{Talk to the Brothers about me, }
-{405}{}{Give a good word to the brothers for me, allright?}
+{405}{}{Give a good word to the brothers for me, alright?}
 {406}{}{You are doin' the right thing, brushing up with the Mordinos. We're going places.}
-{407}{}{Need some chems? Hootch? Some chips? I can set you up. I'm co-nnected, see?}
+{407}{}{Need some drugs? Hootch? Some chips? I can set you up. I'm co-nnected, see?}
 {408}{}{So how about you and me doing a film? I'll treat you right, chica. I show you what a Latin lover can do.}
 {409}{}{Why don't you stop by after work?}
 {410}{}{You got any friends?}
@@ -210,7 +210,7 @@
 {648}{}{Nevermind. Catch you later.}
 
 # 38. WHO ARE YOU? (30, 31, 32, 33, 34, 36, 63, 64, 65)
-{660}{}{Me? If you gotta ask…heh. Name's Jesus. Jesus Mordino. Same as my Dad, he's the BIG Jesus, head of WHOLE Mordino family
+{660}{}{Me? If you gotta ask…heh. Name's Jesus. Jesus Mordino. Same as my Dad, he's the BIG Jesus, head of the WHOLE Mordino family
  here in Reno. So most call me Lil' Jesus. Prevents confusion, y'know?}
 {661}{}{Family Mordino? Who are they?}
 {662}{}{I've heard about your family. I hear you guys are a force to be reckoned with.}
@@ -233,7 +233,7 @@
 {701}{}{To the northwest, chica. }
 {702}{}{If you ain't been there, you ain't missing nothing. Bunch of no-neck miners who like to FLY, know what I'm saying?}
 {703}{}{Not really. What do you mean?}
-{704}{}{They're a bunch of chem reliants?}
+{704}{}{They're a bunch of drug addicts?}
 {705}{}{I hear you. I had some other questions…}
 {706}{}{I have to go. Later, Jesus.}
 
@@ -254,17 +254,17 @@
 {780}{}{The Jet? It comes from HERE. See, we don't dig for gold, we MAKE it: liquid gold. Jet. Worth a fortune to the miners, costs
  next to nothing to make. We ship it to Redding, they shoot up, they fly, they ship us gold. That simple.}
 {781}{}{How long has this been going on? It seems like you would have controlled all of Northern California by now if Jet was that
- habit-forming.}
+ addictive.}
 
 # 45. HOW LONG HAS IT BEEN GOING ON? (44)
 {800}{}{You're right about that…see, we didn't always HAVE Jet. But we stumbled across this kid - he took a look at the shitty
- chems we was selling and said he could do 'better.' And he did. Now he works for us. That simple.}
+ drugs we was selling and said he could do 'better.' And he did. Now he works for us. That simple.}
 {801}{}{Who is this kid and where is he?}
 
 # 46. WHO IS THIS KID? (45)
 {820}{}{Kid's name's Myron. As for where he IS, that's somethin' you don't need to know.}
-{821}{}{Kid's name's Myron. We got him set up in the stables, north of town, testing new chems. You could go over and see him if
- you want, but he's busy most of the time…either with the chems or the women.}
+{821}{}{Kid's name's Myron. We got him set up in the stables, north of town, testing new drugs. You could go over and see him if
+ you want, but he's busy most of the time…either with the drugs or the women.}
 {822}{}{Why don't you get smart and tell me anyway?}
 {823}{}{Got it. I had some other questions…}
 {824}{}{Myron, huh? All right then, Jesus. Thanks for the conversation.}
@@ -365,7 +365,7 @@
 
 # 58. ANY IDEA WHO MIGHT'VE SOLD IT TO HIM (56, 57)
 {980}{}{Yeah, Renesco…the "Rocketman." Sells so much Jet, he could shoot you to the moon. He's on the west side, in Salvatore
- territory. He don't like the Wrights none, and his chems ain't PURE, know what I'm saying?}
+ territory. He don't like the Wrights none, and his drugs ain't PURE, know what I'm saying?}
 {981}{}{He can't be the only dealer in a town this size.}
 {982}{}{West side, huh? I might stop by. I had some other questions, though…}
 {983}{}{All right. I'll check it out. Thanks, Jesus.}
@@ -387,7 +387,7 @@
 # 61. WHAT OTHER DEALERS ARE THERE? (59, 60)
 {1010}{}{There's Jules, front of town, peddles mostly to newcomers…n' Jagged Jimmy J, up on 2nd street by the gym…can't
  miss that punk-ass cause he cut his face up one night while on Jet…it's so bad his entire face is all scars.}
-{1011}{}{I hear you deal chems, too, Jesus. How come YOUR name wasn't on that list?}
+{1011}{}{I hear you deal drugs, too, Jesus. How come YOUR name wasn't on that list?}
 {1012}{}{What makes you think Renesco's responsible?}
 {1013}{}{Interesting. I had some other questions…}
 {1014}{}{Renesco, Jules and Jagged Jimmy J. Got it. Thanks for the information.}
@@ -395,7 +395,7 @@
 # 62. HOW COME YOUR NAME AIN'T COME UP? (61)
 {1020}{}{CAUSE, mother fucker, I AIN'T a dealer. }
 {1021}{}{CAUSE I AIN'T a dealer, BITCH. }
-{1022}{}{I may sell Jet sometimes, but I'm Lil' Jesus MORDINO, not some two-bit Jet-pushing punk that's got to work ten
+{1022}{}{I may sell Jet sometimes, but I'm Lil' Jesus MORDINO, not some two-bit Jet-pushing punk that's got to addict ten
  customers a day just to make enough to eat. So FUCK you.}
 {1023}{}{You better watch your mouth with me, Jesus.}
 {1024}{}{Easy, easy, just curious…look, I had some other questions…}

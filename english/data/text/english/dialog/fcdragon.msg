@@ -1,6 +1,6 @@
-{100}{}{You see a barechested Shi man.}
+{100}{}{You see a bare-chested Shi man.}
 {101}{}{You see the Dragon, hero to many of the Shi peasants.}
-{102}{}{You see a barechested, well-muscled man whose hands look like dangerous weapons.}
+{102}{}{You see a bare-chested, well-muscled man whose hands look like dangerous weapons.}
 {103}{}{How may I be of assistance?}
 {104}{}{Dinkle humper doo!}
 {105}{}{You who?}
@@ -11,11 +11,11 @@
 {110}{}{Forget it.}
 {111}{}{I am afraid I do not understand your language. ::he bows:: Good day.}
 {112}{}{Byeeeee!}
-{113}{}{I am the Dragon, friend. I fight oppression and my enemy, Lo Pan, who desires to control this town.  I fight, and I teach others to fight.}
+{113}{}{I am the Dragon, friend. I fight oppression and my enemy, Lo Pan, who desires to control this town. I fight, and I teach others to fight.}
 {114}{}{Teach me!}
 {115}{}{Tank yu.}
 {116}{}{Then we will begin.}
-{117}{}{-done-}
+{117}{}{[DONE]}
 {118}{}{::he looks at you closely:: I do not believe you would use the knowledge for good. Good day.}
 {119}{}{Grrr!}
 {120}{}{Please excuse my rudeness. I cannot speak with you right now.}
@@ -25,8 +25,8 @@
 {124}{}{Then you must triumph.}
 {125}{}{I see. I have more questions.}
 {126}{}{You truly believe this? Then perhaps you should deal with Lo Pan. Good day.}
-{127}{}{-done-}
-{128}{}{That I must. Yet we are still evenly matched, I fear.  Even in our followers, we are matched. It will take one person to throw the balance.}
+{127}{}{[DONE]}
+{128}{}{That I must. Yet we are still evenly matched, I fear. Even in our followers, we are matched. It will take one person to throw the balance.}
 {129}{}{I am that person.}
 {130}{}{I see. Well, I have more questions.}
 {131}{}{I see. Well, so long.}
@@ -44,17 +44,17 @@
 {143}{}{A test of skills. I don't want to kill you.}
 {144}{}{Neither. Forget it.}
 {145}{}{You are not the right one for this duty. Good day.}
-{146}{}{-done-}
+{146}{}{[DONE]}
 {147}{}{You think so? War and fighting seem unavoidable. Better we should fight with rules and codes than giving in to sheer destruction. }
 {148}{}{I win any way I can.}
 {149}{}{If we have to fight, then we should fight to survive. If someone is trying to kill me, I will defend myself by whatever means possible.}
 {150}{}{Hm. You have a point. Well, I have more questions.}
 {151}{}{Yeah, okay. Bye.}
 {152}{}{Very well. Let us enter the ring and fight until one of us can no longer move.}
-{153}{}{- attack now, with armor and weapons -}
-{154}{}{- enter the ring, remove armor and weapons, and fight hand to hand -}
+{153}{}{[Attack now, with armor and weapons.]}
+{154}{}{[Enter the ring, remove armor and weapons, and fight hand to hand.]}
 {155}{}{Ah, a warrior. I shall pit you against my men to see how well you fare. Let us begin.}
-{156}{}{-begin-}
+{156}{}{[BEGIN]}
 {157}{}{Yet, in a formalized fighting environment, you cannot dispute that you have entered this arena of your own choosing. Once you have so entered, should you not abide by its rules?}
 {158}{}{Yes, probably. But in a live or die situation, you must do anything to survive.}
 {159}{}{No, I don't think so.}
@@ -69,11 +69,11 @@
 {168}{}{That's interesting. Must be rewarding. I have more questions.}
 {169}{}{Thanks. Bye.}
 {170}{}{You have attempted to dishonor my people, so now I must kill you. I apologize if I hurt you as you die.}
-{171}{}{-done-}
+{171}{}{[DONE]}
 {172}{}{Do not speak to me, sheep of the Hub. I have no use for your kind.}
-{173}{}{-done-}
+{173}{}{[DONE]}
 {174}{}{You have the honor of a pig and the morals of a lungfish. I do not wish to associate with you.}
-{175}{}{-done-}
+{175}{}{[DONE]}
 {176}{}{You are truly amazing in your fighting skills. Will you fight Lo Pan?}
 {177}{}{Yes. I'll do it right now.}
 {178}{}{It's not really my fight.}
@@ -84,7 +84,7 @@
 {183}{}{I have recently returned from a mission of honor. We were strong that night.}
 {184}{}{Great. I have questions.}
 {185}{}{Great. Bye.}
-{186}{}{Lo Pan is dead! I  have you to thank, I am sure. Now I am confident that my school will lead our fighting style into the future.}
+{186}{}{Lo Pan is dead! I have you to thank, I am sure. Now I am confident that my school will lead our fighting style into the future.}
 {187}{}{Great. I have questions.}
 {188}{}{Great. Bye.}
 {189}{}{Your kung fu is no good here.}
@@ -96,7 +96,7 @@
 {202}{}{I warned you to leave. Now you shall pay.}
 {203}{}{It appears that you need no more training from me.}
 
-{204}{}{Lessons are more than just physical, grasshopper. Ponder this and return tommorow.}
+{204}{}{Lessons are more than just physical, grasshopper. Ponder this and return tomorrow.}
 
 {205}{}{I am Master Ziggy, your final test.}
 {206}{}{I am Zurak. Be ready.}
@@ -132,9 +132,9 @@
 {230}{}{First, you will need to prove you can do it. I will have you go up against five of my fighters - one at a time. If you beat them then you will receive your final test.}
 {231}{}{What is that?}
 {232}{}{Sounds like too much trouble. Bye.}
-{233}{}{Humbly, I will test your abilities myself.  However, none of these battles will be to the death.}
+{233}{}{You will be tested against my chosen apprentice. However, none of these battles will be to the death.}
 {234}{}{Ok, let's do this.}
 {235}{}{You can take care of Lo Pan yourself.}
-{236}{}{[The Dragon studies you] I regretfully cannot let one of your skill level hurt themself.}
+{236}{}{[The Dragon studies you] I regretfully cannot let one of your skill level hurt himself.}
 {237}{}{Ok, but can I ask something else?}
 {238}{}{Fine. Bye.}

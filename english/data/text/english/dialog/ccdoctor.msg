@@ -74,7 +74,7 @@
 {144}{}{Uh... Yeah.}
 {145}{}{Yes, I follow you.}
 
-{146}{}{Well we succeeded! We actually managed to increase their
+{146}{}{Well, we succeeded! We actually managed to increase their
  intelligence. However, I began to suspect that we went too far.
  That maybe they were a lot smarter than they were letting on. So
  when I was transferred here I brought one of them with me so I

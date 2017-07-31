@@ -27,5 +27,5 @@
 #  what is happening when you first enter the map.          #
 #############################################################
 
-{100}{}{You are are standing at the Great Bridge, passageway from
+{100}{}{You are standing at the Great Bridge, passageway from
  your village to the vast Wasteland.}

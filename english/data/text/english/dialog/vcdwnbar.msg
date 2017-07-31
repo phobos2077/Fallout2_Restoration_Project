@@ -133,7 +133,7 @@
 {232}{}{I was looking for some information.}
 {233}{}{I see. Well, it was good talking to you.}
 {234}{}{It got drunk. Or so I heard. There were a few other "friends" here in Vault City who helped this merchant friend drink the stash. They were willing to pay a good price to have the real stuff for a change.}
-{235}{}{I'll bet. You know, I could probably get some more of the real stuff, easy. I've been travelling the wastes a lot, and getting a hold of alcohol is no big deal.}
+{235}{}{I'll bet. You know, I could probably get some more of the real stuff, easy. I've been traveling the wastes a lot, and getting a hold of alcohol is no big deal.}
 {236}{}{I was looking for some information.}
 {237}{}{I see. Well, it was good talking to you.}
 {238}{}{Is that so? Well, if you happened to be looking to relieve yourself of some real alcohol, then I could make it worth your while. If you could keep quiet about our deal. And get the contraband past the gate.}

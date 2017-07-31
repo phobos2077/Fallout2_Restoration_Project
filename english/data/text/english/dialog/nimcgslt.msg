@@ -36,7 +36,7 @@
 # PLAY. . . ? (WTG, 14, 15)
 {245}{}{(You see a slot machine. It is perhaps the ugliest slot machine you have seen in New Reno. Its handle is bent, two
  of its windows are broken, and there are dents all over it.)}
-{246}{}{Your hand quivers as you reach for your chips. (The machine continues to whisper at you in its gravely voice.)
+{246}{}{Your hand quivers as you reach for your chips. (The machine continues to whisper at you in its gravelly voice.)
  *Come on, now…::cough::…that's it…*}
 
 # LOOOOOOSER (8)
@@ -98,6 +98,6 @@
 {323}{}{There is nothing more that you can do with this machine.}
 {324}{}{This machine is ancient. It is a miracle it's still working. You tinker with it for a bit until you hear a terrible
  grinding noise. You suddenly decide to leave it be.}
-{325}{}{This machine is ancient. It is a miracle it's still working. You tinker with it for a bit, but you can't seem to fix it.}
+{325}{}{This machine is ancient. It is a miracle it's still working. You tinker with it for a bit, but you can't seem to fix it. Working on the machine appears to have made things only worse.}
 {326}{}{This machine is ancient. It is a miracle it's still working. You tinker with it for a while and clean some of the
  gears, but it's still in sorry shape.}

@@ -16,3 +16,6 @@
 {212}{}{Good doggy!}
 
 {250}{}{This dog looks like it could really tear you up if it needed to.}
+
+#added by killap
+{300}{}{You killed all the dogs attacking the brahmin.}

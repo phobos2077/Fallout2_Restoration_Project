@@ -12,7 +12,7 @@
 
 # explosion
 {300}{}{The explosion destroys the lock on the object.}
-{301}{}{The explostion fails to remove the lock from the object.}
+{301}{}{The explosion fails to remove the lock from the object.}
 
 # pry
 # dude

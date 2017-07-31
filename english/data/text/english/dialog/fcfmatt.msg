@@ -6,7 +6,7 @@
 {105}{}{You answer questions?}
 {106}{}{Nothing. Me come back later.}
 {107}{}{You can start by answering some questions.}
-{108}{}{Nothing for now. I'll come back later}
+{108}{}{Nothing for now. I'll come back later.}
 {109}{}{I think you deserve to have answers to your questions.}
 {110}{}{What can I help you with?}
 {111}{}{Who you guys?}
@@ -27,7 +27,7 @@
 {126}{}{To this end, we have reactivated small outposts near areas of Enclave activity from which we can safely observe them. Currently, we have activated such outposts in the Den, the NCR, and here in San Francisco.}
 {127}{}{What you learn?}
 {128}{}{Sounds interesting. What have you learned?}
-{129}{}{We have found that the Enclave deals heavily in chems, weapons, and slaves. However, these are simply trivial pursuits leading up to some higher purpose, which we have failed to uncover. We are still watching them.}
+{129}{}{We have found that the Enclave deals heavily in drugs, weapons, and slaves. However, these are simply trivial pursuits leading up to some higher purpose, which we have failed to uncover. We are still watching them.}
 {130}{}{Why you tell all this now?}
 {131}{}{Before we go any further, why tell me all this now?}
 {132}{}{(sigh) The Enclave has developed vertibird technology, flying machines that allow them to move deeply into surrounding territories. Without similar technology to counter this threat, the Brotherhood would be unable to stop an invasion launched by the Enclave. We need to have vertibird technology, or a viable counter to it, for ourselves.}

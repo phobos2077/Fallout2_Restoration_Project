@@ -101,14 +101,14 @@
 {351}{}{ME WANT WORLD PEACE ME WANT WORLD PEACE}
 {352}{}{ME SAY ME WANT TO GO PAST DOOR}
 {353}{}{HOO YOO}
-{354}{}{Shamble off}
+{354}{}{[Shamble off]}
 
 # 20. LOUD RETARD (19)
 {360}{}{(Readies weapon.) I'm gonna enjoy this. I ain't beaten a slave for at least an hour…}
 {361}{}{(Readies weapon.) I'm gonna enjoy this. I ain't killed no one for two days…}
 {362}{}{YOO ONE WHO GET HURT}
 {363}{}{ SMASH}
-{364}{}{Try and run.}
+{364}{}{[Try and run.]}
 {365}{}{Pal, you're about to get the ass whipping of a life time.}
 
 # 21. WHAT'S BEHIND THAT DOOR? (18, 30)
@@ -167,6 +167,10 @@
 {5476}{}{! Myron's right behind that door. He expecting you?}
 {477}{}{Yes. Can I head on in? We have business to discuss.}
 {478}{}{No, not right now. Take care, you guys.}
+
+{479}{}{Yes. Can I head on in? We have "business" to discuss. If you know what I mean. (You wink at the guard)}
+{480}{}{Heh, I sure do. Try not to make too much of a ruckus while you're here. (To himself) Damn, Myron's such a lucky
+ man.)}
 
 # 32. MYRON AIN'T AROUND (WTG)
 {485}{}{Myron ain't in.}

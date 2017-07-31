@@ -112,8 +112,8 @@
 {211}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
 {212}{}{Nothing more today, actually.}
 {213}{}{Combat implants? What do you mean?}
-{214}{}{Well, according to the schematics I saw, you can graft dermal plates and thermal dissipators to a person's skeleton using the following procedure...}
-{215}{}{Huh. Well, I suppose with help from the ol' Doctor I could do that operation. Course, I'd need some impact plates and dissipators first...might be able to pry some out of a suit of combat armor, if you can find one.}
+{214}{}{Well, according to the schematics I saw, you can graft dermal plates and thermal dissipaters to a person's skeleton using the following procedure...}
+{215}{}{Huh. Well, I suppose with help from the ol' Doctor I could do that operation. Course, I'd need some impact plates and dissipaters first...might be able to pry some out of a suit of combat armor, if you can find one.}
 {216}{}{Can you give me the information on some of the implants?}
 {217}{}{I've got a suit of combat armor right here. Can you give me the information on some of the implants?}
 {218}{}{Hmmm. All right then. Say, I needed something else...}
@@ -164,7 +164,7 @@
 {263}{}{I'll come back when I have more money.}
 {264}{}{I'll come back when I get a suit of Combat Armor.}
 {265}{}{I see. Maybe some other time.}
-{266}{}{The Phoneix Impants take the bite outta fire, lasers and plasma burns...about 5%. I'll need to strip some combat armor for the thermal membranes, and it'll take two days for the operation. 10K oughta cover it.}
+{266}{}{The Phoenix Implants take the bite outta fire, lasers and plasma burns...about 5%. I'll need to strip some combat armor for the thermal membranes, and it'll take two days for the operation. 10K oughta cover it.}
 {267}{}{Sounds good. Here's the armor and the cash.}
 {268}{}{$10,000's a bit out of my league. How about $8000?}
 {269}{}{Tell me about the other implants.}
@@ -172,13 +172,13 @@
 {271}{}{I'll come back when I have more money.}
 {272}{}{I'll come back when I get a suit of combat armor.}
 {273}{}{I see. Maybe some other time.}
-{274}{}{Well, technically, "high thermal" is standard Phoenix Armor with some thermal dissipators layered over the membranes.}
+{274}{}{Well, technically, "high thermal" is standard Phoenix Armor with some thermal dissipaters layered over the membranes.}
 {275}{}{So you're gonna need the basic Phoenix implant graft first.}
 {276}{}{Okay, what's involved?}
 {277}{}{Tell me about the other implants.}
 {278}{}{Never mind. I had some other questions.}
 {279}{}{I see. Maybe some other time.}
-{280}{}{Well, I'm gonna need to scavenge thermal dissipators from another set of combat armor. Good thing is, the dissipators'll double the thermal resistance, absorbing 10% of the bite. But...}
+{280}{}{Well, I'm gonna need to scavenge thermal dissipaters from another set of combat armor. Good thing is, the dissipaters'll double the thermal resistance, absorbing 10% of the bite. But...}
 {281}{}{Yes?}
 {282}{}{Tell me about the other implants.}
 {283}{}{Never mind. I had some other questions.}
@@ -248,3 +248,8 @@
 {347}{}{ bucks for the whole lot of you, and we'll call it even. The procedure won't work on your robot brain, buddy. What do you say?}
 {348}{}{Cool! I've always wanted to look like Kryten! Here's the cash and the combat armor.}
 {349}{}{All right.  Here we go.}
+# Added by Seraph:
+{350}{}{You have lost -4 Max HP.}
+# Added by killap:
+{351}{}{Wahh? Me still fee no good. Me go sleep now.}
+{352}{}{Ugh...otay. Byeeee}

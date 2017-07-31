@@ -1,6 +1,6 @@
 # QUICK LOOK
 {100}{}{You see a sickly slave.}
-{101}{}{You see a chemmed slave.}
+{101}{}{You see a drugged slave.}
 {102}{}{You see a slave.}
 
 # EXAMINES
@@ -23,18 +23,18 @@
 {167}{}{You see a sickly slave. She looks like she is trying to cry, but no tears will come.}
 # 3. [MALE SLAVE, DRUGGED]
 {170}{}{You see a sluggish looking man. He is staring straight ahead with a vacant expression.}
-{171}{}{You see a chemmed slave. His eyes dart around the area, never focusing on any one thing.}
-{172}{}{You see a chemmed slave. As you watch, he bites his forearm and peels back some skin with his teeth, slowly chewing it.}
-{173}{}{You see a chemmed slave. He has a faint smile on his face, but his eyes are glazed and vacant.}
-{174}{}{You see a chemmed slave. He is gazing vacantly out into space, drool coming from his lips.}
-{175}{}{You see a chemmed slave. As he sees you, he winces and gives a painful smile, as if you are too bright to look at.}
-4. [DRUGGED FEMALE SLAVE]
+{171}{}{You see a drugged slave. His eyes dart around the area, never focusing on any one thing.}
+{172}{}{You see a drugged slave. As you watch, he bites his forearm and peels back some skin with his teeth, slowly chewing it.}
+{173}{}{You see a drugged slave. He has a faint smile on his face, but his eyes are glazed and vacant.}
+{174}{}{You see a drugged slave. He is gazing vacantly out into space, drool coming from his lips.}
+{175}{}{You see a drugged slave. As he sees you, he winces and gives a painful smile, as if you are too bright to look at.}
+# 4. [DRUGGED FEMALE SLAVE]
 {180}{}{You see a shivering woman. She is staring at the ground, as if afraid it will go away if she stops looking at it.}
-{181}{}{You see a chemmed slave. She is giggling to herself, and there are traces of blood on the corners of her mouth.}
-{182}{}{You see a chemmed slave. There are track marks on her arm intermixed with bruises and lash marks.}
-{183}{}{You see a chemmed slave. She blinks rapidly, as if her eyes are dry.}
-{184}{}{You see a chemmed slave. She is scratching the back her hands, so much so that the skin is tearing off.}
-{185}{}{You see a chemmed slave. Vomit stains cover the front of her shirt, and she smells faintly of turpentine.}
+{181}{}{You see a drugged slave. She is giggling to herself, and there are traces of blood on the corners of her mouth.}
+{182}{}{You see a drugged slave. There are track marks on her arm intermixed with bruises and lash marks.}
+{183}{}{You see a drugged slave. She blinks rapidly, as if her eyes are dry.}
+{184}{}{You see a drugged slave. She is scratching the back her hands, so much so that the skin is tearing off.}
+{185}{}{You see a drugged slave. Vomit stains cover the front of her shirt, and she smells faintly of turpentine.}
 # 5. [MALE SLAVE, BEATEN]
 {190}{}{You see a thin man. Lash marks cover his body, and he stares meekly at the ground, as if waiting for orders.}
 {191}{}{You see a beaten slave.}
@@ -93,13 +93,13 @@
 {265}{}{If my master catches me talking to a slaver, I will be beaten.}
 {266}{}{I already have a master. She will not be happy if you continue to talk to me.}
 {267}{}{I cannot speak to you. I have duties.}
-{268}{}{If I am caught speaking to a slaver, they will start testing the chems on me.}
+{268}{}{If I am caught speaking to a slaver, they will start testing the drugs on me.}
 {269}{}{Please go away, slaver. I don't want any trouble.}
 {270}{}{Escape? I…have never tried to escape from here. I would not dare disobey my master.}
 # 12. [BEATEN AND/OR GENERIC SLAVE]
-{280}{}{If they catch me talking to you, they will start testing chems on me.}
+{280}{}{If they catch me talking to you, they will start testing drugs on me.}
 {281}{}{I used to work with this other slave, but he died of an overdose a few days ago.}
-{282}{}{They test new chems on us. Some are poisonous.}
+{282}{}{They test new drugs on us. Some are poisonous.}
 {283}{}{My master is...good to me.}
 {284}{}{My master said not to speak to others.}
 {285}{}{Please…I am not allowed to speak to you.}

@@ -17,7 +17,7 @@
 {118}{}{Sure.}
 {119}{}{You're not one of the brethren, and you're therefore not authorized to be here. Unless you're planning on joining us - which you may do by expressing your interest to AHS-7, who is at the guard post.  Now, either get downstairs or get out of here.}
 {120}{}{Fine, fine. No need to get testy.}
-{121}{}{Actually, it is my business. This is my ship, and these are my guards - now, who are you and what are you doing here?}
+{121}{}{Actually, it is my business. This is my ship and these are my guards - now, who are you and what are you doing here?}
 {122}{}{I'm}
 {123}{}{None of your business.}
 {124}{}{I want to join the Hubologists.}
@@ -38,25 +38,25 @@
 {172}{}{Who are you?}
 {173}{}{What are you doing here?}
 {174}{}{I got a copy of the plans from the Shi.}
-{175}{}{I have the plans for the bertibird.}
+{175}{}{I have the plans for the vertibird.}
 {176}{}{The Shi have the plans for the vertibird}
 {177}{}{What can I do for you?}
 {178}{}{Forget it. Bye.}
-{179}{}{I am Harry, AHS-5. I am the starbrother in charge of the rocketship. We are going to use it to travel to Quetzel.}
+{179}{}{I am Harry, AHS-5. I am the starbrother in charge of the rocket ship. We are going to use it to travel to Quetzel.}
 {180}{}{Can I ask something else?}
 {181}{}{Got it. Bye.}
 {182}{}{What I'm doing is preparing the ship for the grand trip to the Star-Father. We're very close right now.}
 {183}{}{Can I ask something else?}
 {184}{}{Got it. Bye.}
 {185}{}{You have the plans? Excellent! Now all we need is fuel! The Shi have a bunch. See if you can go route some to us. Good luck, recruit!}
-{186}{}{-done-}
+{186}{}{[DONE]}
 {187}{}{Then you must go get them, yes? Now please excuse me, comrade - I must continue readying the ship for our epic journey.}
 {188}{}{I have the plans for the vertibird.}
 {189}{}{Sure thing.}
 {190}{}{We have all we need for our journey now! Excellent! Now we just await the word of AHS-9 - and I'm sure he'll want you to come with us. Go get whatever you need done - and then come back and join us with the Star Father!}
 {191}{}{See ya then!}
 {192}{}{First, we need vertibird plans to ensure that we've got the aerodynamics right. If you can do this, check with the Shi or go up that old base in Navarro.}
-{193}{}{Remember, you are finding the plans for the vertibirds for us.  Either try the Shi or that old base in Navarro.}
+{193}{}{Remember, you are finding the plans for the vertibirds for us. Either try the Shi or that old base in Navarro.}
 {194}{}{No one has been able to get plans for the vertibirds from the Shi, or from that old base in Navarro.  Have you reconsidered helping us?}
 {195}{}{Remember, recruit! The hated Shi have the plans.}
 {196}{}{I have the plans for the vertibird.}
@@ -69,3 +69,6 @@
 {161}{}{. I'm just looking around.}
 {162}{}{. I'm just looking around.}
 {163}{}{. I'm just looking around.}
+
+#added by killap
+{300}{}{We had a breach in security and our fuel reserves have been depleted. I'm a little busy to talk right now.}

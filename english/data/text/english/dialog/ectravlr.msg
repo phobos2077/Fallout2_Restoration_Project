@@ -1,4 +1,4 @@
-{100}{}{A traveler.}
+{100}{}{You see a traveler.}
 {101}{}{Hail! Fellow traveler.}
 {102}{}{I'm in need of directions. Can you help me out?}
 {103}{}{Where are you headed?}
@@ -13,7 +13,7 @@
 {112}{}{New California Republic}
 {113}{}{An abandoned mine.}
 {114}{}{No, I've been there already. Thanks anyway.}
-{115}{}{New Reno -- now that's a great place to go. Sex, chems and gambling.  What more can one ask for?
+{115}{}{New Reno -- now that's a great place to go. Sex, drugs and gambling.  What more can one ask for?
  Here, let me show you where it is.}
 {116}{}{Thanks.}
 {117}{}{Vault City -- now that's a city of morons. Grow an extra finger and they treat you like some kind
@@ -54,3 +54,5 @@
 {144}{}{Time to go.}
 {145}{}{I've overstayed my welcome.}
 {146}{}{I must depart.}
+
+{150}{}{Thanks. I need directions to some other places.}

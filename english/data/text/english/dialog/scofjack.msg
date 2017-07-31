@@ -41,7 +41,7 @@
 {140}{}{Look, think this through. Blow this place up and it'll just prove everything she says about you.}
 {141}{}{No kidding, Sherlock. Now folks are going to listen to me.}
 {142}{}{Nobody's going to listen to you with a bomb in your hands. Put it down, come on out, and we can get this settled.}
-{143}{}{Look, think this through. Blow this place up and and folks will say, "Jack took the weak way. Let himself get pushed around by his ex-wife." She wins, you lose.}
+{143}{}{Look, think this through. Blow this place up and folks will say, "Jack took the weak way. Let himself get pushed around by his ex-wife." She wins, you lose.}
 {144}{}{You really think so?}
 {145}{}{Yes, Jack. It's true.}
 {146}{}{Of course. What do you think - I'm lying?}
@@ -60,4 +60,4 @@
 {159}{}{I either blow up or you kill me. What's it matter?}
 {160}{}{I'm not trying to hurt you! Just want them to remember...}
 {161}{}{You gain }
-{162}{}{ experience for taking care of Jack for Mira.}
+{162}{}{ experience points for taking care of Jack for Mira.}

@@ -1,6 +1,6 @@
 {100}{}{Bio-storage malfunction!}
 {101}{}{Level 4 Containment breach.}
-{102}{}{Level 4 xontaminated.}
+{102}{}{Level 4 contaminated.}
 {103}{}{Biohazard seals Level 3 compromised.}
 {104}{}{Level 3 Containment breach.}
 {105}{}{Level 3 contaminated.}
@@ -9,7 +9,7 @@
 {108}{}{Level 2 contaminated.}
 {109}{}{Biohazard seals Level 1 compromised.}
 {110}{}{Level 1 Containment breach.}
-{111}{}{Level 2 Contaminated.}
+{111}{}{Level 1 Contaminated.}
 
 # X minutes and Y seconds to evacuate.
 {112}{}{ minutes and }

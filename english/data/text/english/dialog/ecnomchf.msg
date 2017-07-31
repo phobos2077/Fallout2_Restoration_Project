@@ -1,5 +1,5 @@
-{100}{}{A nomad.}
-{101}{}{Nomad chieftain.}
+{100}{}{You see a nomad.}
+{101}{}{He appears to be a nomad chieftain.}
 {102}{}{By his dress and the way he carries himself, he must be a leader of some sort.}
 {103}{}{Ah, a traveler. Be welcome to my humble tent. Take shade from the unending heat of the land.}
 {104}{}{Thank you; I graciously accept your offer of shade.}

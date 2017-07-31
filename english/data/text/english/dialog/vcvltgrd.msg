@@ -1,30 +1,30 @@
 {100}{}{You see a diligent-looking guard. The guard is outfitted in metal armor
- and is carrying a powerful shotgun.}
+ and is carrying an assault rifle.}
 {101}{}{You see a Vault City guard.}
 {102}{}{Yes? What is it?}
 {103}{}{Me go inta big HOL in side of hill}
-{104}{}{I’d like to enter the Vault.}
+{104}{}{I'd like to enter the Vault.}
 {105}{}{Nothing, sorry to bother you.}
 {106}{}{It is past 6 PM. You need to leave.}
-{107}{}{Okay. I’m leaving.}
+{107}{}{Okay. I'm leaving.}
 {108}{}{Okay. I just need another minute.}
-{109}{}{I got things to do. I’ll go when I’m ready to.}
+{109}{}{I got things to do. I'll go when I'm ready to.}
 {110}{}{Umag Nak!?! Umag NAK!}
 {111}{}{I will summon some of the guards to escort you out.}
-{112}{}{Okay. Let’s go.}
+{112}{}{Okay. Let's go.}
 {113}{}{Brog Frup}
 {114}{}{Don't bother. I can find my own way.}
 {115}{}{I apologize, but these are my orders.}
-{116}{}{Okay... but I’m not happy about it. I may be forced to file a formal
+{116}{}{Okay... but I'm not happy about it. I may be forced to file a formal
  complain--}
-{117}{}{Well, I’m staying.}
+{117}{}{Well, I'm staying.}
 {118}{}{I do not want to use force, but I will if necessary. Do not make this any
  more difficult than this has to be.}
-{119}{}{Okay, fine, fine... I’ll go.}
+{119}{}{Okay, fine, fine... I'll go.}
 {120}{}{You so much as touch me, and you'll be wearing your ass as a hat.}
 {121}{}{Hello, Citizen. May I help you?}
-{122}{}{I’d like to enter the Vault.}
-{123}{}{go inta HOL in side of hill}
+{122}{}{I'd like to enter the Vault.}
+{123}{}{Me go inta HOL in side of hill}
 {124}{}{Nothing right now.}
 {125}{}{I'm sorry, only Citizens are permitted to enter the Vault. I'm sure you
  understand.}
@@ -35,7 +35,7 @@
 {130}{}{Thankee!}
 {131}{}{Thank you.}
 {132}{}{Yes? May I help you?}
-{133}{}{I’d like to enter the Vault.}
+{133}{}{I'd like to enter the Vault.}
 {134}{}{Nothing, sorry to disturb you.}
 {135}{}{I apologize, but only Citizens may enter the Vault.}
 {136}{}{I *am* a Citizen.}

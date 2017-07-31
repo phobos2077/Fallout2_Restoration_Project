@@ -1,7 +1,7 @@
 {100}{}{You see a rough-looking person.}
 {101}{}{You see a raider.}
 
-{200}{}{You tresspass into our lands. Now you die!}
+{200}{}{You trespass into our lands. Now you die!}
 {201}{}{How dare you come here uninvited!}
 {202}{}{Die, city walker!}
 {203}{}{Your death should bring me some money.}

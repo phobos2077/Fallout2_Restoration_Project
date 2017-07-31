@@ -5,7 +5,7 @@
 {103}{}{You see Tandi. She is gazing dreamily into the distance.}
 {104}{}{Hi! So you're a descendent of the Fallout 1 hero? Wow! I'm Tandi! Hi!}
 {105}{}{I didn't want to just blurt it out, but your grandfather sure was cute! *Sigh*}
-{106}{}{Ian? I think he's still in Fallout 2 somewhere. The Abbey, maybe?}
+{106}{}{Ian? I think he's still in Fallout 2 somewhere. Vault City, maybe?}
 {107}{}{Actually, I hear *I'm* in Fallout 2 somewhere. I don't want to go find me, though...might creep
  us both out.}
 {108}{}{Sorry I didn't have better combat skills in Fallout 1. I guess I didn't get out much.}

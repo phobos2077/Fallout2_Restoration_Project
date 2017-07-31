@@ -31,7 +31,7 @@
 {231}{}{Me want…me no know what I want}
 {232}{}{Me want}
 {233}{}{Me }
-{234}{}{Wander off}
+{234}{}{[Wander off.]}
 {235}{}{I have information for you.}
 {236}{}{I have information for you, Mr. Salvatore.}
 {237}{}{I'm looking for a job.}

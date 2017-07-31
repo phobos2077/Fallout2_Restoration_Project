@@ -33,7 +33,7 @@
 {120}{}{Not really, why?}
 
 {121}{}{Hey look, man. Raul's going to go pay Quincy a visit, you know?
- Raul's going to clean the old mans clock.
+ Raul's going to clean the old man's clock.
  You stay here and watch Raul's birds. Ok?}
 {122}{}{Me watch.}
 {123}{}{Sure Raul. I'll do it for you, but not just anybody.}

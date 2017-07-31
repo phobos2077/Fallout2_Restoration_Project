@@ -61,7 +61,7 @@
 {149}{}{I need you to wait here until I come back.}
 {150}{}{You! Ooyag!}
 {151}{}{That's it for now.}
-{152}{}{OK, everything's stiched up. Let's get going.}
+{152}{}{OK, everything's stitched up. Let's get going.}
 {153}{}{OK, pretty much everything is patched up.}
 {154}{}{That pretty much did it, but I could use a couple more stims.}
 {155}{}{I used what I could, but I'm still pretty messed up. Got any stims on you?}

@@ -333,6 +333,7 @@
 {811}{}{Nine hun…woman, are you joking?! }
 {812}{}{Cut the bull-shit! This is a HIGHWAYMAN. They don't make them ANYWHERE anymore, see? There's OTHER families that'll be
  willin' to pay for it if that cheap bastard Bishop won't…}
+{814}{}{Mr. Bishop has made a GENEROUS offer of 900 chips. You won't like the next offer.}
 {816}{}{So you are dealing with other families? Mr. Bishop will be interested to hear that.}
 {817}{}{I'm sorry? What did you just call Mr. Bishop?}
 {818}{}{I tire of this. We'll talk again later.}

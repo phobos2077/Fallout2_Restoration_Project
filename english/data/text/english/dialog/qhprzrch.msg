@@ -11,7 +11,7 @@
 
 {109}{prs2a}{Ah, affected by the test serums, I see. Um, I'll get you some help. Guards!}
 {110}{prs2b}{Doctor, I think you've been exposed to the F.E.V. Poor soul, I'll get you some help. Guards!}
-{111}{prs2c}{Be a good mutant and stay put. Guards!}
+{111}{prs2c}{Now be a good mutant and stay put. Guards!}
 {112}{}{OK.}
 {113}{}{Uh uh. Bye bye.}
 
@@ -21,7 +21,7 @@
 {117}{}{Damn it! Will somebody come and get this...person?}
 {118}{}{Oh, guards! There's an idiot in my office... No, not the veep.}
 
-{119}{prs4}{Hello, there. I'm President Richardson and I'm damn proud to meet you. Uh, Vault 13, I see. You've been doing your country an invaluable service.}
+{119}{prs4}{Hello, there. I'm President Richardson and I'm damn proud to meet you. Ah, Vault 13. You've been doing your country an invaluable service.}
 {120}{}{President? Who are you anyway?}
 {121}{}{A service to my country? Just what's going on here anyway?}
 {122}{}{Uh, I guess I took a wrong turn on my way to the lab. Sorry, sir. Goodbye.}
@@ -47,7 +47,7 @@
 
 {138}{prs9}{Ah...well. I'm sure we can work something out. What's on your mind?}
 {139}{}{I want to know what's going on here.}
-{140}{}{I just want to leave quietly. Keep your hand off the alarm until I'm out of here. Or else….}
+{140}{}{I just want to leave quietly. Keep your hand off the alarm until I'm out of here. Or else....}
 {141}{}{I'm leaving here and taking you as a hostage to make sure my people get out safely.}
 
 {142}{prs10}{Do you really think you can intimidate the President of the United States?}
@@ -73,11 +73,11 @@
 {158}{prs14}{Ahhh. Ahhh. Guards? Guards!}
 {159}{}{Say goodnight, Mr. President.}
 
-{160}{prs15}{I am the President of the United States of America. The Vice-President is in the office outside. If you belonged here you'd know that.  Who are you and what are you doing here?}
+{160}{prs15}{I am the President of the United States of America. The Vice-President is in the office outside. If you belonged here you'd know that. Who are you and what are you doing here?}
 {161}{}{You're the President of what United States?}
 {162}{}{You're a loony.}
 {163}{}{Vice-President? You mean that drooling idiot next door?}
-{164}{}{What a coincidence, I'm Emperor of the planet Quetzl, here for the surrender of Earth.}
+{164}{}{What a coincidence, I'm Emperor of the planet Quetzel, here for the surrender of Earth.}
 {165}{}{I'll just let you get back to business Mr., uh, President. Goodbye.}
 
 {166}{prs16}{Ah-ha. Oh, of course, your eminence. Why don't I just call for... some refreshments? We can talk and work things out - can't we all just get along?}
@@ -88,17 +88,17 @@
 {170}{}{Thanks. I guess you're not such a bad guy after all.}
 {171}{}{That was stupid. Now someone's going to have to get hurt.}
 
-{172}{prs18}{Somebody's loony here, all right. Oh yeah. Oooooh yeah. }
+{172}{prs18}{Somebody's loony here, all right. Oh yeah. Oooooh yeah.}
 {173}{}{Don't look at me. I'm not claiming to be the President of a United States that fell long before either of us was born.}
 
 {174}{prs19}{I am the elected representative of the people. The United States does still exist. God bless us, every one. We've just had to adapt in order to survive after the war.}
 {175}{}{I don't understand. What do you mean?}
 
-{176}{prs20a}{You really don't know, do you? Let me tell you about mankind's salvation.  A little history first...}
-{177}{prs20b}{A little history….}
-{178}{}{Go on, Mr. President….}
+{176}{prs20a}{You really don't know, do you? Let me tell you about mankind's salvation. A little history first...}
+{177}{prs20b}{A, hmm, a little history....}
+{178}{}{Go on, Mr. President....}
 {179}{}{First, why do you have a base at Navarro?}
-{180}{}{Before you get into that…I saw some of your vertibirds doing some trade with New Reno. What's that all about?}
+{180}{}{Before you get into that...I saw some of your vertibirds doing some trade with New Reno. What's that all about?}
 {181}{}{I don't have time for this lunacy now. Goodbye.}
 
 {182}{prs21a}{Well, hello there. Glad to make time for one of our gallant troopers. But, I am rather busy. So, uh, what can the President of the United States of America do for you?}
@@ -106,7 +106,7 @@
 {184}{}{You can tell me just what's going on here.}
 {185}{}{I, uh, I'm just checking this area, sir. Security check. Yeah. Everything's fine here. Uh, goodbye.}
 
-{186}{prs22a}{Hello. I'm the President of the United States of America, and you are…?}
+{186}{prs22a}{Hello. I'm the President of the United States of America, and you are...?}
 {187}{prs22b}{Hello there. I'm the President of the United States of America and I must say I've seldom seen a stranger, or sorrier, delegation of misfits in all my life. Just who are you to barge in on me this way?}
 {188}{}{I'm damn curious as to what's going on here.}
 {189}{}{I'm your executioner.}
@@ -133,11 +133,11 @@
 {205}{}{Why are you calling me a mutant?}
 
 {206}{prs29}{He may yet come around. In fact, there may even be some unforeseen benefits. His spelling ability has actually improved.}
-{207}{}{I'm happy for you. But why  did you call me a mutant?}
+{207}{}{I'm happy for you. But why did you call me a mutant?}
 
 {208}{prs30}{Because you are. Your tribe's DNA has changed since your ancestor left the vault. Unavoidable. All that background radiation you've been exposed to.}
 {209}{}{OK, so I'm a mutant. Guess what smart guy, you're about to become a dead pure-strain human.}
-{210}{}{So we're mutants. So what.}
+{210}{}{So we're mutants. So what?}
 {211}{}{Creatures change all the time. It's called evolution. Without that change you and I would still be two bits of protoplasmic goo.}
 
 {212}{prs31}{We try to keep ourselves safe and secure from radiation. That's what separates humans - like me - from mutants like you.}
@@ -145,28 +145,28 @@
 {214}{}{Enough talk. Time for you to face that great electoral college in the sky.}
 {215}{}{I've killed men for less than that. But I'm in a hurry today. Goodbye.}
 
-{216}{prs32}{We were winning, too. And then those damn Reds launched everything they had. We barely got our birds up.}
+{216}{prs32}{We were winning, too. And then those damn Reds launched. We barely got our birds up.}
 {217}{}{Doesn't seem as though it helped us much.}
 
-{218}{prs33}{Well, no it didn't. But at least it knocked the damn Red menace back into the stone age.}
+{218}{prs33}{Well, no it didn't. But at least it knocked the damn Red menace back into the stone age. (chuckles)}
 {219}{}{And us with it.}
 
 {220}{prs34}{Well, no. No... not quite. You see, we had planned ahead. We were ready. }
 {221}{}{What do you mean?}
 
-{222}{prs35}{We had a number of sanctuaries that would enable the glorious American civilization to endure. These facilities - the vaults  - were part of the great plan.}
+{222}{prs35}{We had a number of sanctuaries that would enable the glorious American civilization to endure. This facility - the vaults - were part of the great plan.}
 {223}{}{Those damn vaults didn't work the way they were supposed to. A lot of people in them died.}
 
-{224}{prs36}{Actually, they worked almost exactly the way they were supposed to. You might call it a social experiment on a grand scale. }
+{224}{prs36}{Actually, they worked almost exactly the way they were supposed to. You might call it a social experiment on a grand scale.}
 {225}{}{An experiment?}
 
 {226}{prs36a}{The vaults were set up to test humanity. Some had not enough food synthesizers, others had only men in them, yet others were designed to open after only 6 months. They each had a unique set of circumstances designed to test the occupants.}
-{227}{}{What about Vault 13? What was it's purpose?}
+{227}{}{What about Vault 13? What was its purpose?}
 
-{228}{prs37}{Ahh. Vault 13 was a special case. It was supposed to remain closed until the subjects were needed. Vault 13 was, in scientific parlance, a control group.}
+{228}{prs37}{Ahh. Vault 13 is a special case. It was supposed to remain closed until the subjects were needed. Vault 13 was, in scientific parlance, a control group.}
 {229}{}{But they would all have died if my ancestor didn't get them a replacement water chip. That doesn't seem to fit in with your plan.}
 
-{230}{prs38}{An unfortunate, and unforeseen, accident. However, as it turns out, a rather fortuitous one.}
+{230}{prs38}{An unfortunate, and unforeseen accident. However, as it turns out a rather fortuitous one.}
 {231}{}{What do you mean?}
 
 {232}{prs39}{As it turns out we needed test subjects from untainted, pre-war, human stock - your ancestors in Vault 13 - and some freshly mutated stock - the villagers from Arroyo.}
@@ -186,25 +186,25 @@
 {242}{prs42}{Yes, the F.E.V. virus. It was originally developed to turn soldiers into super-warriors but it failed. The warriors were tough and strong, but far too stupid. However, our brilliant Chemical Corps altered it.}
 {243}{}{Altered the virus? Why?}
 
-{244}{prs43}{To turn it into a staggeringly effective killer. Any humanoid that isn't inoculated against its effects before its release, will die. That is the Project.}
+{244}{prs43}{To turn it into a staggeringly effective killer. Any humanoid that isn't inoculated against its effects before its release will die. That is the Project.}
 {245}{}{That's insane.}
 
 {246}{prs43a}{No, no. That's humanity's last, best, hope. That's what we've been working towards all these years.}
 {247}{}{Great, so you have all this poison and no way to spread it around.}
 
-{248}{prs44}{We've run short of certain critical chemicals. We can get them from the drug labs of New Reno. If the mutant-mobsters use our guns to kill each other, just saves us the trouble.}
+{248}{prs44}{We've run short of certain critical chemicals. We can get them from the drug labs of New Reno. If the mutant-mobsters use our guns to kill each other, (snorts) just saves us the trouble.}
 {249}{}{Everything works in your favor, huh? Tell me the rest of the story.}
 
 {250}{prs45}{Simple. Navarro is an isolated base. Our vertibirds have a limited range. They refuel there.}
 {251}{}{Makes sense.}
 
-{252}{prs46a}{I'm sure you think so. But tests performed on your tribesmen have all shown that you are guilty of mutation. It's a damn good thing the Project is ready.}
+{252}{prs46a}{I'm sure you think so. But tests performed on your tribesmen have all shown that you are guilty of mutation. And it's a damn good thing the Project is ready.}
 {253}{}{Why?}
 
-{254}{prs46b}{Some of the members of your tribe are showing some extremely interesting changes. If the danger to true humanity weren't so great I would think about studying them. But that's not to be.}
+{254}{prs46b}{Some of the members of your tribe are showing some extremely interesting changes. If the danger to true humanity weren't so great I would think about studying them. But (sighs) that's not to be.}
 {255}{}{Not to be? Why not?}
 
-{256}{prs47}{Oh, but that's one of the advantages of the F.E.V. virus. We can release it right here and the jetstream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
+{256}{prs47}{Oh, but that's one of the advantages of the F.E.V. virus. We can release it right here and the jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
 {257}{}{OK. Then why did you have to kidnap my villagers and the people from Vault 13?}
 
 {258}{prs48}{Test subjects. Your villagers are all descended from vault stock and we had to make sure that the F.E.V. toxin was still effective. The subjects from Vault 13 test that and an inoculation against the FEV.}
@@ -238,7 +238,7 @@
 {278}{}{Time for your reward.}
 {279}{}{Right now, I'll let you think about your coming death. Don't touch the alarm. Goodbye.}
 
-{280}{prs57}{Very moving. But the radical changes your villagers and other mutants show is a far cry from the gradual changes of natural evolution. }
+{280}{prs57}{Very moving. But the radical changes your villagers and other mutants show is a far cry from the gradual changes of natural evolution.}
 {281}{}{Maybe we're changing into a better version of the human race. Did you ever think of that?}
 
 {282}{prs58}{Very possible, indeed. In which case, our mission is even more vital to the survival of the human race. }
@@ -268,13 +268,13 @@
 {300}{}{How about my single-minded dedication to killing you right now?}
 {301}{}{You're mad. I don't have time for your lunacy right now. Goodbye.}
 
-{302}{prs65}{I don't think this tired old planet's big enough for two top dogs. If it's us or you…. Well, I'm going to choose us.}
+{302}{prs65}{I don't think this tired old Planet's big enough for two top dogs. If it's us or you.... Well, I'm going to choose us.}
 {303}{}{I don't think you get to make that kind of choice.}
 
 {304}{prs66}{As the embodiment of the executive branch, I bear the burden of ensuring the survival and prosperity of the United States and of humanity itself. A heavy burden and yet if it means the return of the earth to our children and to their children, I bear it gladly.}
 {305}{}{How do you intend to do that? What are you doing here?}
 {306}{}{Let me remove your burden. Permanently.}
-{307}{}{It must be nice in your dimension. See you later,  Mr. Nutcake.}
+{307}{}{It must be nice in your dimension. See you later, Mr. Nutcake.}
 
 # Start of Generic Recorded Dialog - Not being used!
 {308}{}{To the North}
@@ -307,4 +307,6 @@
 {335}{}{That hurts.}
 {336}{}{That really hurts.}
 {337}{}{That's got to hurt.}
+#added by killap
+{338}{}{Actually, Mr. President, I'm back.}
 # End of Generic Recorded Dialog - Not being used!

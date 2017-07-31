@@ -57,7 +57,7 @@
 {154}{}{Hmmm. I had another question...}
 {155}{}{I see. Thanks for the information.}
 {156}{}{No, not scripters, you moron.}
-{157}{}{Moron? I had to work hard to get the minimum 9 Intelligence and Perception to find this node.  Anyway, you were saying?}
+{157}{}{Moron? I had to work hard to get the minimum 9 Intelligence and Perception to find this node. Anyway, you were saying?}
 {158}{}{You're a fine one to make moral judgments, slaver. Get out of here.}
 {159}{}{You sound a lot like that idiot Moore...just what Vault City needs. Look, whoever you are, I have work to do, so if you'll kindly remove yourself...}
 {160}{}{All right, all right...}
@@ -111,7 +111,7 @@
  of the Outworlders.}
 {203}{}{Thanks. I had some other questions...}
 {204}{}{Very well. I will go pick him up there, then.}
-{205}{}{Sounds good. Hopefully, he won't make this way back into the city.}
+{205}{}{Sounds good. Hopefully, he won't make his way back into the city.}
 {206}{}{Is that so? Are you aware that each Servant is thoroughly checked before being admitted into the Allocation Center?}
 {207}{}{Maybe I was wrong. Nevertheless, I'd like to negotiate for his release.}
 {208}{}{Are you aware of }
@@ -142,7 +142,7 @@
 {230}{}{No, actually. I had some questions for you...}
 {231}{}{No, not today, actually. Goodbye.}
 {232}{}{Hmmm. That woman there, Miria, is it? She has strong arms...and nice hips. I will buy her from you for $250.}
-{233}{}{Hmmm. that boy there, Davin, is it? He look relatively free from Outworlder contamination. I will buy him from you for $250.}
+{233}{}{Hmmm. that boy there, Davin, is it? He looks relatively free from Outworlder contamination. I will buy him from you for $200.}
 {234}{}{Hmmm. That tribal you have. He smells...strongly. But he looks healthy. I'll take him for $100.}
 {235}{}{Hmmm. That man there...Vic, is it? Even though he's old, he looks like a handyman. $100.}
 {236}{}{Perhaps you should return when you have a servant of value to show me. Your current stock...
@@ -156,7 +156,7 @@
 {243}{}{No, I don't think so...250 or nothing.}
 {244}{}{No, the boy looks like he would be difficult to train...200 or nothing.}
 {245}{}{Look. It'll take a week to wash the smell off that tribal. 100 or nothing.}
-{246}{}{You can't even promise me that he won't have a heat attack once he leaves you care. He's old. 100 or nothing.}
+{246}{}{You can't even promise me that he won't have a heart attack once he leaves your care. He's old. 100 or nothing.}
 {247}{}{All right, that's fair. The servant's all yours.}
 {248}{}{Forget it, then. I did have some questions I wanted to ask you...}
 {249}{}{Nothing it is, then. I can't afford to let my servant go for that price. Maybe some other time.}

@@ -104,7 +104,7 @@
 {186}{}{Torr}                           # KCTorr.int      ; Torr from Klamath
 {187}{}{Dunton}                         # KCDunton.int    ; Dunton from Klamath
 {188}{}{Citizen}                        # VCCrtCit.int    ; Vault City Courtyard Citizen
-{189}{}{Traveller}                      # VCCrtOut.int    ; Vault City Courtyard Outsider
+{189}{}{Traveler}                       # VCCrtOut.int    ; Vault City Courtyard Outsider
 {190}{}{Vault City Guard}               # VCCrtGrd.int    ; Vault City Courtyard Guard
 {191}{}{Vault City Guard}               # VCInGrd.int     ; Vault City Inner Guard
 {192}{}{Steve}                          # VCSteve.int     ; Steve from Vault City
@@ -162,11 +162,11 @@
 {244}{}{Robot}                          # GCRRobot.int    ; Reactor robot
 {245}{}{Ghoul Citizen}                  # GCFolk.int      ; Townsfolk in Gecko
 {246}{}{Map Script}                     # DepoLv1.int     ; Map script for Sierra Army Depot, Level 1
-{247}{}{Map Script}                     # DepoLvA.int     ; Map script for Sierra Army Depot Undergound
+{247}{}{Map Script}                     # DepoLvA.int     ; Map script for Sierra Army Depot Underground
 {248}{}{Map Script}                     # DepoLvB.int     ; Map script for Sierra. Underground B
 {249}{}{Security Robot}                 # WCSecBot.int    ; Sierra Base, Security Robot (generic)
 {250}{}{Repair Robot}                   # WCRepBot.int    ; Sierra Base, Repair Robot (generic)
-{251}{}{Holodisk}                       # WIEvcDsk.int    ; Sierra Base, Evacution Holodisk
+{251}{}{Holodisk}                       # WIEvcDsk.int    ; Sierra Base, Evacuation Holodisk
 {252}{}{Holodisk}                       # WIMedDsk.int    ; Sierra Base, Medical Log 1 Holodisk
 {253}{}{Holodisk}                       # WIExpDsk.int    ; Sierra Base, Experiment Log Holodisk
 {254}{}{Terminal}                       # WSTerm1A.int    ; Security Computer, Level 1 -- Sierra Base
@@ -230,12 +230,12 @@
 {312}{}{Box}                            # miLstFnd.int    ; Modoc Lost and Found at Rose's
 {313}{}{Jordan}                         # ACJordan.int    ; Jordan. Trains player in Melee
 {314}{}{Aunt Morlis}                    # ACMorlis.int    ; Aunt Morlis. Has flint to give player
-{315}{}{Lucas}                  # ACFist.int      ; Standing Fist. Trains player in Unarmed
+{315}{}{Lucas}                          # ACFist.int      ; Standing Fist. Trains player in Unarmed
 {316}{}{Feargus}                        # ACEric.int      ; Whiny person asking to fix the well
 {317}{}{Well}                           # ASWell.int      ; Arroyo Well. It's broken. Fix w/ Repair
 {318}{}{Gruthar}                        # OCGrutha.int    ; Vault 13 Gruthar Deathclaw leader
 {319}{}{Map Script}                     # Kladwtwn.int    ; Map script for Klamath Downtown
-{320}{}{Skeeter}                        # SCSkeete.int    ; Skeeter dialog script for NCR Entrance area
+{320}{}{Doofus}                         # SCSkeete.int    ; Doofus dialog script for NCR Entrance area
 {321}{}{Nagor}                          # ACNagor.int     ; You cousin who has lost his dog
 {322}{}{Smoke}                          # ACDog.int       ; Nagor's dog Smoke
 {323}{}{Ncr Area 1}                     # Ncr1.int        ; Ncr area 1 map
@@ -243,7 +243,7 @@
 {325}{}{Ncr Area 4}                     # Ncr4.int        ; Ncr area 4 map
 {326}{}{Ncr Area Entrance}              # Ncrent.int      ; Ncr area Entrance map
 {327}{}{Mikey}                          # SCMikey.int     ; NCR Lizard Dealer
-{328}{}{Mikey's box}                    # SIMbox.int      ' NCR Mikey's inventory box. (off Screen)
+{328}{}{Mikey's box}                    # SIMbox.int      ; NCR Mikey's inventory box. (off Screen)
 {329}{}{Emitter}                        # WSEmit1a.int    ; Emitter, Level 1, Section A   (Sierra Base)
 {330}{}{Emitter}                        # WSEmit1b.int    ; Emitter, Level 1, Section B   (Sierra Base)
 {331}{}{Emitter}                        # WSEmit1c.int    ; Emitter, Level 1, Section C   (Sierra Base)
@@ -274,7 +274,7 @@
 {356}{}{Raider}                         # ECRaider.int    ; Random Encounter Raider
 {357}{}{Peasant}                        # ECPeasnt.int    ; Random Encounter Peasant
 {358}{}{Merchant}                       # ECMrchnt.int    ; Random Encounter Merchant
-{359}{}{Guard}                          # ECGuard.int     ; Random Encounter Gaurd
+{359}{}{Guard}                          # ECGuard.int     ; Random Encounter Guard
 {360}{}{Rawhide Patron}                 # SCRawpat.int    ; Rawhide patron in NCR Entrance
 {361}{}{Floor}                          # WTElFlr2.int    ; Electric Floor on Level 2 Sierra Base
 {362}{}{Plasma Trap}                    # WTPlTrp0.int    ; Plasma Trap for Sierra Base(-30)
@@ -323,7 +323,7 @@
 {405}{}{Table}                          # diVicTbl.int    ; Den, table that Vic works at
 {406}{}{Map Script}                     # Klagraz.int     ; Map Script for Klamath graze map
 {407}{}{Map Script}                     # CarDesrt.int    ; Car Out of Gas Desert Map
-{408}{}{Map Script}                     # GeckSetl.int    ; Map Script for Gecko Settlememt
+{408}{}{Map Script}                     # GeckSetl.int    ; Map Script for Gecko Settlement
 {409}{}{Map Script}                     # VCtyCtyd.int    ; Map Script for Vault City Courtyard
 {410}{}{Corvega}                        # Kscorveg.int    ; Klamath broken car with fuel injection
 {411}{}{Map Script}                     # KlaToxCv.int    ; Klamath Toxic Caves  Map Script
@@ -383,7 +383,7 @@
 {465}{}{Holodisk}                       # EILv4Dsk.int    ; Military Base Holodisk (Level 4)
 {466}{}{Guard}                          # SCGteGrd.int    ; Ncr gate guard
 {467}{}{Mine Cart}                      # ESMinCrt.int    ; Military Base Mine Cart to explode on door
-{468}{}{Melchior}                       # ECMelchr.int    ; Melchoir the Magnificent (psuedo-mage)
+{468}{}{Melchior}                       # ECMelchr.int    ; Melchoir the Magnificent (pseudo-mage)
 {469}{}{Mutated Beast}                  # ECMutRat.int    ; Mutated Rats in Military Base
 {470}{}{FEV Goo}                        # ETGoo.int       ; FEV Goo in the Military Base
 {471}{}{Guard Captain}                  # SCGGCap.int     ; NCR Entrance Gate guard captain
@@ -434,7 +434,7 @@
 {516}{}{Three Card Monte}               # nc3Monte.int    ; New Reno Three Card Monte
 {517}{}{Algernon}                       # ncAlgern.int    ; New Reno Algernon
 {518}{}{Bill}                           # ncBill .int     ; New Reno Bill (Trees Lounge)
-{519}{}{Bodyguard}                      # ncBisGrd.int    ; New Reno Bishop's Bodyguards
+{519}{}{Bishop's Bodyguard}             # ncBisGrd.int    ; New Reno Bishop's Bodyguards
 {520}{}{John Bishop}                    # ncBishop.int    ; New Reno John Bishop
 {521}{}{Casino Machine}                 # niCasMac.int    ; New Reno Casino Machine
 {522}{}{Chop Shop Boy}                  # ncChpBoy.int    ; New Reno Chop Shop Boys
@@ -457,7 +457,7 @@
 {539}{}{Orville Wright}                 # ncOrvill.int    ; New Reno Orville Wright
 {540}{}{Pit Boss}                       # ncPitBos.int    ; New Reno Generic Pit Boss
 {541}{}{Renesco the Rocket-Man}         # ncRenesc.int    ; New Reno Renesco the Rocket-Man
-{542}{}{Researcher}                     # ncResear.int    ; New Reno Stables Researcher
+{542}{}{Marjorie Reed}                  # ncResear.int    ; New Reno Stables Researcher
 {543}{}{Boss Salvatore}                 # ncSalvat.int    ; New Reno Boss Salvatore
 {544}{}{Stuart Little}                  # ncStuLit.int    ; New Reno Stuart Little (Agent)
 {545}{}{T-Ray}                          # ncTRay .int     ; New Reno T-Ray
@@ -574,11 +574,11 @@
 {656}{}{John}                           # bcJohn.int      ; Vault 15 guy entrance
 {657}{}{Jones}                          # BCJones.int     ; Vault 15 doctor
 {658}{}{Karla}                          # BCKarla.int     ; Karla Vault 15 guard.
-{659}{}{V15 Secrect entrance map}       # V15sent.int     ; Vault 15 secret entrance map
+{659}{}{V15 Secret entrance map}        # V15sent.int     ; Vault 15 secret entrance map
 {660}{}{Rebecca}                        # BCRebecc.int    ; Vault 15 Rebecca
 {661}{}{Door}                           # miDoor.int      ; Modoc Doors
 {662}{}{Death Claw}                     # mcDthClw.int    ; Modoc Rose's "Chicken"
-{663}{}{Roberta}                        # bcRobert.int    ; Roberta Vault 15 Entrace
+{663}{}{Roberta}                        # bcRobert.int    ; Roberta Vault 15 Entrance
 {664}{}{Sara}                           # bcSara.int      ; Sara vault 15 Entrance
 {665}{}{Zeke}                           # bcZeke.int      ; Zeke vault 15 Entrance mayor dude
 {666}{}{Brahmin}                        # bcBrahmn.int    ; Generic Brahmin in Vault15 Entrance
@@ -630,7 +630,7 @@
 {712}{}{Computer}                       # BSComp1.int     ; Library Computer Vault 15
 {713}{}{Chad}                           # hcchad.int      ; Chad from Broken Hills
 {714}{}{Spore Plant}                    # ECPlant.int     ; Random Encounter Spore Plant
-{715}{}{Gecko}                          # ECGecko.int     ; Random Encounter Gecko
+{715}{}{}                               # ECGecko.int     ; Random Encounter Gecko
 {716}{}{Radscorpion}                    # ECScorp.int     ; Random Encounter Scorpions
 {717}{}{}                               # ECRat.int       ; Random Encounter Rats
 {718}{}{Warrior}                        # ECWarPty.int    ; Random Encounter War Party
@@ -647,7 +647,7 @@
 {729}{}{Partier}                        # ECRavPty.int    ; Random Encounter Rave Party
 {730}{}{Mantis}                         # ECMantis.int    ; Random Encounter Mantis
 {731}{}{Brahmin}                        # ECBrahmn.int    ; Random Encounter Brahmin
-{732}{}{Dog}                            # ECWldDog.int    ; Random Encounter Wild Dogs
+{732}{}{Wild Dog}                       # ECWldDog.int    ; Random Encounter Wild Dogs
 {733}{}{Computer}                       # BSComp2.int     ; Darion's computer terminal Vault15
 {734}{}{Computer}                       # BSComp3.int     ; Force field computer terminal
 {735}{}{Computer Terminal}              # BSComp4.int     ; Force Field control computer by entrance Vault 15
@@ -702,7 +702,7 @@
 {784}{}{Robin}                          # ECRobin.int     ; Robin one of the Knights with Arthur
 {785}{}{Bedemir}                        # ECBedemi.int    ; Bedemir one of the Knights with Arthur
 {786}{}{Sir Launcelot}                  # ECSirLau.int    ; Sir Launcelot one of the Knights with Arthur
-{787}{}{Galahad}                        # ECGalaha.int    ; Galahad one of the knights iwth Arthur
+{787}{}{Galahad}                        # ECGalaha.int    ; Galahad one of the knights with Arthur
 {788}{}{Ben Wade}                       # RCWade.int      ; Ben Wade from Radding
 {789}{}{Athabaska Dick}                 # RCDick.int      ; Athabaska Dick from Redding
 {790}{}{Widow Rooney}                   # RCRooney.int    ; Widow Rooney from Redding
@@ -733,7 +733,7 @@
 {815}{}{Map Script}                     # rndholy2.int    ; Hi-Luck random Holy knight encounter 2
 {816}{}{Vorpal Rat}                     # ECVorRat.int    ; Vorpal Rat for Holy Knight 2
 {817}{}{Dog}                            # ECPDog.int      ; Pariah Dog... not good to have following you around
-{818}{}{Drill Seargant}                 # CCDrill.int     ; Drill Seargant in Colusa/Nevarro
+{818}{}{Drill Sergeant}                 # CCDrill.int     ; Drill Seargant in Colusa/Nevarro
 {819}{}{Guard}                          # CCGuard.int     ; Guard in Colusa/Nevarro
 {820}{}{Technician}                     # CCTech.int      ; Technician in Colusa/Nevarro
 {821}{}{Commander}                      # CCMandr.int     ; Commander in Colusa Nevarro
@@ -748,13 +748,13 @@
 {830}{}{Cattle Buyer}                   # SCdrvpay.int    ; Cattle drive from NCR to redding.
 {831}{}{Map Script}                     # RndBridg.int    ; Random Bridge encounter
 {832}{}{Mysterious Stranger}            # ECMstStr.int    ; Mysterious Stranger
-{833}{}{Mad Brahmn}                     # ECgcwbmb.int    ; Generic Cow bomb
-{834}{}{}                               # ECYakuza.int    ; Random Encounter Yakuza
-{835}{}{}                               # ECWilder.int    ; Random Encounter Wilder
+{833}{}{Mad Brahmin}                    # ECgcwbmb.int    ; Generic Cow bomb
+{834}{}{Yakuza Member}                  # ECYakuza.int    ; Random Encounter Yakuza
+{835}{}{Wilder}                         # ECWilder.int    ; Random Encounter Wilder
 {836}{}{Dog}                            # ncWriDog.int    ; New Reno Wright Dog
 {837}{}{Box}                            # niRamBox.int    ; New Reno Box to be delivered to Ramirez
-{838}{}{}                               # ECUniPat.int    ; Unity Patrol Random Encounter
-{839}{}{}                               # ECTravlr.int    ; Random Encounter Travler
+{838}{}{Patrol Member}                  # ECUniPat.int    ; Unity Patrol Random Encounter
+{839}{}{Traveler}                       # ECTravlr.int    ; Random Encounter Travler
 {840}{}{Smoke}                          # KtSmoke.int     ; displays message about smoke smell in Duntons
 {841}{}{Trader}                         # ECTrader.int    ; Random Encounter Trader
 {842}{}{Scavenger}                      # ECScaven.int    ; Random Encounter Scavenger
@@ -764,14 +764,14 @@
 {846}{}{Dock Worker}                    # FCDokWrk.int    ; San Fran Dock Worker
 {847}{}{Peasant}                        # FCGudPea.int    ; San Fran Good Peasants
 {848}{}{Shi Guard}                      # FCShiGrd.int    ; San Fran Shi Guard
-{849}{}{Warrior}                        # ACTemVil.int    ; Temple challenge person
+{849}{}{Cameron}                        # ACTemVil.int    ; Temple challenge person
 {850}{}{Door}                           # AITemDor.int    ; Temple doors that lock at the challenge
 {851}{}{Klint}                          # ACKlint.int     ; Klint the guardian of the temple exit
 {852}{}{Crops}                          # AICrops.int     ; Crops that die after a period of time
 {853}{}{Shi Lab Tech}                   # FCslabte.int    ; San Fran Shi Lab techs
 {854}{}{Child}                          # FCSkids.int     ; San Fran Shi Kids
 {855}{}{Ghoul}                          # GCWander.int    ; wandering ghouls in Gecko
-{856}{}{Dr Fung}                        # FCDrFung.int    ; San Fran Dr Fung
+{856}{}{Dr. Fung}                        # FCDrFung.int    ; San Fran Dr Fung
 {857}{}{Jul}                            # OCJul.int       ; Vault 13 Denmother Guard
 {858}{}{Kerith}                         # OCKerith.int    ; Vault 13 Den Mother
 {859}{}{Chest}                          # AITemCst.int    ; Temple Chest to hold the players things
@@ -779,7 +779,7 @@
 {861}{}{}                               # ECRaiBow.int    ; Random Encounter Gays
 {862}{}{}                               # ECMstAmy.int    ; Random Encounter Master's Army
 {863}{}{Prospector}                     # ECProspe.int    ; Random Encounter Prospector
-{864}{}{}                               # ECPrsGng.int    ; Random Encounter Press Gang
+{864}{}{Gang Member}                    # ECPrsGng.int    ; Random Encounter Press Gang
 {865}{}{Nomad Chief}                    # ECNomChf.int    ; Random Encounter Nomad Chief
 {866}{}{Hubologist}                     # ECElRon.int     ; Hubologist Patrol
 {867}{}{Crazy}                          # ECCrazy.int     ; Crazies from Random Encounter
@@ -840,7 +840,7 @@
 {922}{}{Josh}                           # RCJosh.int      ; Josh Laurance of Redding
 {923}{}{Caminetto}                      # RCCamint.int    ; Caminetto in bar fight in redding
 {924}{}{Bette}                          # RCBette.int     ; Blasphemous Bette in bar fight in redding
-{925}{}{Gun Merchant}                   # FCGunmer.int    ; San Fran's gun Merchant
+{925}{}{Mai Da Chiang}                  # FCGunmer.int    ; San Fran's gun Merchant
 {926}{}{Door}                           # ZIWodDor.int    ; Generic Wooden Door
 {927}{}{Door}                           # ZIMtlDor.int    ; Generic Metal Door
 {928}{}{Emitter}                        # SSEmtN2.int     ; Emitter in NCR area 2
@@ -890,7 +890,7 @@
 {972}{}{Townsperson}                    # mcPeasan.int    ; Modoc Peasant, they attack the farm
 {973}{}{Vault City Council Area}        # VCtyCocl.int    ; Map Script Vault City Council Area
 {974}{}{Air Purifier}                   # HSPurify.int    ; Air Purifier for Broken Hills
-{975}{}{Rocks}                          # esEntRks.int    ; Military Base Enterance Rocks
+{975}{}{Rocks}                          # esEntRks.int    ; Military Base Entrance Rocks
 {976}{}{Gambler}                        # RCGamble.int    ; Redding Generic Gamblers
 {977}{}{Spatial Script}                 # HtCorpse.int    ; Spatial Script for Corpses
 {978}{}{SCCheat}                        # SCCheat.int     ; Cheat Character for NCR
@@ -907,12 +907,12 @@
 {989}{}{Darrow's Stock}                 # VIDarBox.int    ; Vault City Darrow Shop Inventory
 {990}{}{Door}                           # HSCrlDr.int     ; Jail cell door for Broken Hills
 {991}{}{Super Duper Mutant}             # ecTlkMut.int    ; Military Base Conversation Mutants
-{992}{}{Chemist}                        # fcChemst.int    ; Chemist in San Francisco
+{992}{}{Dr. Jing Tie Gahng}             # fcChemst.int    ; Chemist in San Francisco
 {993}{}{Grundel}                        # ecGrunde.int    ; Military Base Mouse Hunter
-{994}{}{Kid}                            # ecMelKid.int    ; Some Town USA, Melchior's Kid
+{994}{}{Melchior Jr.}                   # ecMelKid.int    ; Some Town USA, Melchior's Kid
 {995}{}{Retinal Scanner}                # WIRetScn.int    ; Retinal Scanner in the Sieera Base
 {996}{}{Elevator Door}                  # WIElvDor.int    ; Elevator Door in the Seirra Base
-{997}{}{Cybernetic Receptical}          # WIBrkBrn.int    ; Broken Brain Bot in the Sierra Base
+{997}{}{Cybernetic Receptacle}          # WIBrkBrn.int    ; Broken Brain Bot in the Sierra Base
 {998}{}{Wall}                           # WIScrtDr.int    ; Sierra Base Secert Door
 {999}{}{Map Script}                     # broken2.int     ; Map Script for Broken Hills Map 2
 {1000}{}{Farrell's Stock}               # VIFarBox.int    ; Vault City Farrell Shop Inventory
@@ -942,7 +942,7 @@
 {1024}{}{Computer Terminal}             # FSCheSta.int    ; Chemistry computer station in San Fran
 {1025}{}{Lao Chou}                      # FCLaoCho.int    ; Merchant in San Fran
 {1026}{}{}                              # FIPaper.int     ; Scrap Papers that combine should only be put on one of the peaces.
-{1027}{}{}                              # CSVent.int      ; Ventilation shaft for Navarro
+{1027}{}{Ventilation Shaft}             # CSVent.int      ; Ventilation shaft for Navarro
 {1028}{}{Map Script}                    # EncTrp.int      ; Map Script for Enclave Trap Rooms
 {1029}{}{Dead Body}                     # HtBody.int      ; Script for dead bodies in Broken Hills
 {1030}{}{Exposed wires}                 # QIWires.int     ; Wires on the ground in the trap room
@@ -950,7 +950,7 @@
 {1032}{}{Slave}                         # dcRunSlv.int    ; Den Slave Run Fleeing Slaves
 {1033}{}{Slave}                         # dcAtkSlv.int    ; Den Slave Run Hostile Slaves
 {1034}{}{Slaver}                        # dcRnSlvr.int    ; Den Slave Run Slavers
-{1035}{}{Chip}                          # FCChip.int      ; Chip in San Fran no splean
+{1035}{}{Chip}                          # FCChip.int      ; Chip in San Fran no spleen
 {1036}{}{Reactor}                       # QIReactr.int    ; Reactor in the Enclave
 {1037}{}{Reactor Computer}              # QIRctrCm.int    ; Reactor Computer in the Enclave
 {1038}{}{Cash Tender}                   # RCCshTnd.int    ; Redding Cash Tender in the Casino
@@ -982,7 +982,7 @@
 {1064}{}{Map Script}                    # KlaTrap.int     ; Map Script for Klamath Still area
 {1065}{}{Lydia}                         # VCDwnBar.int    ; Vault City Downtown Bartender
 {1066}{}{}                              # RedDTun.int     ; Redding Downtown Tunnels
-{1067}{}{Rocketman}                     # FCRocMan.int    ; Rocket man in San Fran
+{1067}{}{Harry the Rocketman}           # FCRocMan.int    ; Rocket man in San Fran
 {1068}{}{AHS-7}                         # FCOz7.int       ; Oz 7 in San Fran
 {1069}{}{Crockett}                      # FCCrocke.int    ; Crockett in San Fran
 {1070}{}{Amanda}                        # VCAmanda.int    ; Vault City Coutryard Amanda, Joshua's Wife
@@ -1051,8 +1051,8 @@
 {1133}{}{Vertibird}                     # nsVertib.int    ; New Reno Helicopter Script Vertibird
 {1134}{}{Salvatore Guard}               # ncHSSal1.int    ; New Reno Helicopter Script Salvatore 1
 {1135}{}{Salvatore Guard}               # ncHSSal2.int    ; New Reno Helicopter Script Salvatroe 2
-{1136}{}{Soldiers}                      # ncHSPow1.int    ; New Reno Helicopter Script Power Armor 1
-{1137}{}{Soldiers}                      # ncHSPow2.int    ; New Reno Helicopter Script Power Armor 2
+{1136}{}{Soldier}                      # ncHSPow1.int    ; New Reno Helicopter Script Power Armor 1
+{1137}{}{Soldier}                      # ncHSPow2.int    ; New Reno Helicopter Script Power Armor 2
 {1138}{}{Crate}                         # niHSCrat.int    ; New Reno Helicopter Script Crate
 {1139}{}{Mr. Handy}                     # ncHSHand.int    ; New Reno Helicopter Script Handy
 {1140}{}{Salvatore Guard}               # ncHSGSal.int    ; New Reno Helicopter Script Salvatore Guard
@@ -1073,7 +1073,7 @@
 {1155}{}{Quartermaster}                 # CcQmstr.int     ; Quartermaster in Navarro
 {1156}{}{Guard}                         # CcMedGrd.int    ; Med Lab Guard in Navarro
 {1157}{}{Cybernetic Dog}                # CcK9.int        ; K9 in Navarro
-{1158}{}{Doctor}                        # CcDoctor.int    ; Dr Shreber in Navarro
+{1158}{}{Doctor Schreber}               # CcDoctor.int    ; Dr Shreber in Navarro
 {1159}{}{Technician}                    # CcATech.int     ; Air Tech in Navarro
 {1160}{}{Technician}                    # CcACon.int      ; Air Control in Navarro
 {1161}{}{Guard}                         # CcDrGrd.int     ; Door Guard in Navarro
@@ -1085,7 +1085,7 @@
 {1167}{}{Technician}                    # CcComp1.int     ; Computer Tech1 in Navarro
 {1168}{}{Technician}                    # CcComp2.int     ; Computer Tech2 in Navarro
 {1169}{}{Cave In}                       # HICaveIn.int    ; Broken Hills Caved-In mine
-{1170}{}{Enclave Patroler}              # QCEPSqad.int    ; Enclave EP Squad (joins player in fighting
+{1170}{}{Enclave Patroller}             # QCEPSqad.int    ; Enclave EP Squad (joins player in fighting
 {1171}{}{Blast Door}                    # QIEndDor.int    ; Doors at the End Fight Area
 {1172}{}{Map Script}                    # EncDet.int      ; Map Script for Enclave Detention Center
 {1173}{}{Map Script}                    # EncDock.int     ; Map Script for Enclave Dock
@@ -1101,7 +1101,7 @@
 {1183}{}{Box}                           # HiOutBox.int    ; Broken Hills Outfitter inventory box
 {1184}{}{Caravan Guard}                 # RCCvnGrd.int    ; Generic Caravan Guard
 {1185}{}{Caravan Driver}                # RCCvnDrv.int    ; Generic Caravan Driver
-{1186}{}{Ring Announcer}                # ncAnounc.int    ; New Reno Boxing Anouncer
+{1186}{}{Ring Announcer}                # ncAnounc.int    ; New Reno Boxing Announcer
 {1187}{}{Ring Girl}                     # ncRngGrl.int    ; New Reno Ring Grrrl
 {1188}{}{Boxer}                         # ncPrzFtr.int    ; New Reno Prize Fighter
 {1189}{}{Door}                          # VIVltDr2.int    ; Vault Doors in Vault 8
@@ -1117,9 +1117,9 @@
 {1199}{}{Klaxon}                        # QIKlaxon.int    ; Klaxon Lights for Enclave when under alert
 {1200}{}{Mine}                          # IIMine.int      ; Mines in Raiders Cave
 {1201}{}{Pit}                           # IIPit.int       ; Pits in the Raiders Cave
-{1202}{}{Tanker Merchant}               # FCTnkGmr.int    ; Tanker Gun Merchant San Fran
-{1203}{}{Tanker Bartender}              # FCTnkBar.int    ; Tanker Bar Tender
-{1204}{}{Tanker Merchant}               # FCTnkMer.int    ; Tanker Merchant
+{1202}{}{Cal}		                # FCTnkGmr.int    ; Tanker Gun Merchant San Fran
+{1203}{}{Slim}		                # FCTnkBar.int    ; Tanker Bar Tender
+{1204}{}{Jenna}		                # FCTnkMer.int    ; Tanker Merchant
 {1205}{}{}                              # FITGunTb.int    ; Tanker Gun Mer's table
 {1206}{}{}                              # FITMerTb.int    ; Tanker Merchant's Table
 {1207}{}{Emitter}                       # FSPemtr1.int    ; Palace Emitter 1
@@ -1132,7 +1132,7 @@
 {1214}{}{Guard}                         # RCAscGrd.int    ; Generic Guard for Ascorti's Bar
 {1215}{}{Prospector}                    # ECLdPros.int    ; Random Encounter Lead Prospector
 {1216}{}{Bootleggers}                   # ECLdBoot.int    ; Random Encounter Lead Bootlegger
-{1217}{}{}                              # csOpen.int      ; Script to signal if dude uses door w/o permision (in Navarro)
+{1217}{}{}                              # csOpen.int      ; Script to signal if dude uses door w/o permission (in Navarro)
 {1218}{}{Dan}                           # hcDan.int       ; Dan, Spouse of murdered conspirator.
 {1219}{}{Shitty Comedian}               # ncComedi.int    ; New Reno Comedian
 {1220}{}{Trashcan Singer}               # ncBand.int      ; New Reno Trashcan Band
@@ -1145,7 +1145,7 @@
 {1227}{}{Computer}                      # ccNComp.int     ; Navarro Computer
 {1228}{}{Kohl}                          # vcKohl.int      ; Vault City Info Officer Kohl
 {1229}{}{Child}                         # ECChild.int     ; Random Encounter Children
-{1230}{}{Cook}                          # ccCook.int      ; Navarro Cook
+{1230}{}{Cookie}                        # ccCook.int      ; Navarro Cook
 {1231}{}{Turret}                        # ccTurret.int    ; Navarro Turret
 {1232}{}{Brian}                         # hcBrian.int     ; Brian, the Power Technician
 {1233}{}{Generator}                     # hiPower.int     ; Power Generator for Broken Hills
@@ -1306,7 +1306,7 @@
 {1388}{}{}                              # ctPlans.int     ; Vertibird EXP Spatial Script
 {1389}{}{}                              # ctK9Part.int    ; K9 Part EXP Spatial Script
 {1390}{}{}                              # csArea2.int     ; Script to signal if dude enters an area
-{1391}{}{}                              # csOpen2.int      ; Script to signal if dude uses door w/o permision (in Navarro)
+{1391}{}{}                              # csOpen2.int     ; Script to signal if dude uses door w/o permision (in Navarro)
 {1392}{}{}                              # ctSound.int     ; Soundproof Room Spatial Script
 {1393}{}{}                              # csOpen3.int     ; Script to signal if dude uses door w/o permis
 {1394}{}{Bootlegger}                    # ECTlkMon.int    ; Talking Moonshiners
@@ -1319,3 +1319,9 @@
 {1401}{}{Locker}                        # niBisHLk.int    ; New Reno Bishop Hard Locker
 {1402}{}{Door}                          # niBisHDr.int    ; New Reno Bishop Hard Locked Door
 {1403}{}{}                              # ntRicRom.int    ; New Reno Richard Wright Room Spacial
+{1404}{}{}                          # MIMirDor.int    ; Miria's Bedroom Door  
+{1405}{}{}                          # MIDavDor.int    ; Davin's Bedroom Door 
+{1406}{}{}                          # SIPtbox2.int    ; box where Merk hides your car trunk stuff
+{1407}{}{}                          # sfshutl1.int    ; map script to Hubologist entrance (shuttle)
+{1408}{}{}                          # patchinf.int    ; patchinf
+{1409}{}{}                          # nijjbox.int     ; Jagged Jimmy J Inventory Box

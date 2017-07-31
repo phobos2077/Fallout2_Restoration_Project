@@ -67,7 +67,7 @@
 {274}{}{Stuff me like stuff you like stuff tooooo?}
 {276}{}{You're just the man I was looking for then. Can I see what you got in stock?}
 {277}{}{Can I see what you got in stock?}
-{286}{}{Can I see you special stock?}
+{286}{}{Can I see your special stock?}
 {283}{}{Can you modify or upgrade weapons?}
 {284}{}{Not interested right now, thanks.}
 {285}{}{Nothing today, thanks.}
@@ -222,8 +222,8 @@
 {546}{}{Shut up, you yapping mutts!}
 {547}{}{Creatures of the night... shut up!}
 {548}{}{Packard! Buck! Missy! You all better shut up, or I'm gonna come in there!}
-{549}{}{Damn dogs!}
-{550}{}{One more WOOF outta you, and I'm coming in there!}
+{549}{}{One more WOOF outta you, and I'm coming in there!}
+{550}{}{Damn dogs!}
 
 # 28. DOOR
 {560}{}{What, you think I'm wearing a blindfold?}
@@ -251,3 +251,7 @@
 # END LINES
 {5256}{}{...told me to stop by, and that you would "set me up."}
 {5500}{}{.}
+
+#added by killap
+{801}{}{Hey, do I look like some magician to you? You are gonna need the gun if you wanna upgrade it. Now get out of here and go find one I can upgrade...Sheesh!}
+{802}{}{Come back when you got the money.}

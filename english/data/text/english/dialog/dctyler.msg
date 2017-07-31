@@ -18,7 +18,7 @@
 {223}{}{Thanks for the tip, that was sweet.}
 
 # 4. CF: No Show
-{230}{}{Were the hell were you?}
+{230}{}{Where the hell were you?}
 {231}{}{Trap my ass! Fucking liar.}
 {232}{}{I should gut you right now.}
 {233}{}{So much for the plan, asshole.}
@@ -38,7 +38,7 @@
 {251}{}{So, what do you want this time?}
 {252}{}{Metzger sent me.}
 {253}{}{I'm here to inspect the church.}
-{254}{}{I'll be back.}
+{254}{}{Nevermind. Goodbye.}
 {255}{}{Me }
 {1255}{}{!}
 {256}{}{Aruwa?}
@@ -131,7 +131,7 @@
 
 # 21. Have fun. (From 20)
 {400}{}{You better believe it! We're going to drink until we drop!}
-{401}{}{Bye}
+{401}{}{Bye.}
 
 # 22. Failed, how are you (From 18)
 {410}{}{What the fuck do you care. Beat it.}
@@ -159,9 +159,9 @@
 {445}{}{Urseco?}
 
 # 25. Dumb, Gang War = Fight (From 24)
-{450}{}{Damn, what the hell's wrong with you today? Lay off the chems.}
-{451}{}{Chems are bad for you, man.}
-{452}{}{Chems are bad for you, lady.}
+{450}{}{Damn, what the hell's wrong with you today? Lay off the drugs.}
+{451}{}{Drugs are bad for you, man.}
+{452}{}{Drugs are bad for you, lady.}
 {453}{}{[Grunt]}
 
 # 26. Information (From 24)
@@ -215,9 +215,9 @@
 # New Node 33
 {710}{}{The smart ass is back! So you really want in this church? Why? There's nothing in here you'd be interested in.}
 {711}{}{Now what the fuck do you want?}
-{712}{}{You see this mark on my forehead? Let me the in. Now!}
+{712}{}{You see this mark on my forehead? Let me in. Now!}
 {713}{}{I'm his new bitch, that's why! If you don't let me in right now, I'll be sure you find yourself at the top of his shit list.}
 {714}{}{Look, buddy. Metzger's going to have my hide if I don't inspect everything soon. You know how he gets.}
-{715}{}{Non of your fucking business. If the Boss wants his shit checked out, that's what I do. I don't ask questions.}
+{715}{}{None of your fucking business. If the Boss wants his shit checked out, that's what I do. I don't ask questions.}
 {716}{}{Never mind.}
 {717}{}{Shaka?}

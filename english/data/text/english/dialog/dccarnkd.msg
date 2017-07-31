@@ -1,7 +1,7 @@
-{100}{}{You see a child shouting carny slogans.}
+{100}{}{You see a child shouting corny slogans.}
 {101}{}{This dirty child appears to be employed to advertise a tourist attraction of some sort.}
 
-// Hawking floats
+#Hawking floats
 {500}{}{See the Mysterious Mummy!}
 {501}{}{See the Ancient Wonder!}
 {502}{}{A Jan-u-wine Mummy, here now!}

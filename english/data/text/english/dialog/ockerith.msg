@@ -1,7 +1,7 @@
-{100}{}{You see a deathclaw.}
-{101}{}{You see Kerith, the deathclaw mother.}
-{102}{}{You see a typical deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
- claws. This one appears to be female but you can not tell with any certainty. You notice the scars of several injuries on her torso.}
+{100}{}{You see a Deathclaw.}
+{101}{}{You see Kerith, the Deathclaw mother.}
+{102}{}{You see a typical Deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
+ claws. This one appears to be female but you cannot tell with any certainty. You notice the scars of several injuries on her torso.}
 {103}{}{A human visitor is an unexpected but not unwelcome event. I am Kerith.}
 {104}{}{What can I help you with?}
 {105}{}{You D'claw mother?}
@@ -9,8 +9,8 @@
 {107}{}{Door look like crap. What happen?}
 {108}{}{Who build nest room?}
 {109}{}{Me go now.}
-{110}{}{So, you are the deathclaw mother?}
-{111}{}{Who is the deathclaw father?}
+{110}{}{So, you are the Deathclaw mother?}
+{111}{}{Who is the Deathclaw father?}
 {112}{}{What happened to the door? It looks like it has seen better days.}
 {113}{}{Who built this hatchery?}
 {114}{}{I'll be leaving now.}
@@ -39,7 +39,7 @@
 {132}{}{I have some more questions.}
 {133}{}{His name is Matt, and he is a prisoner here. Personally, I wanted him dead -- but Gruthar would
  not allow it. I do not see the wisdom in this, but Gruthar's word is law and he will be obeyed. Should
- you talk to this human, take care. He can not be trusted!}
+ you talk to this human, take care. He cannot be trusted!}
 {134}{}{How get by guard outside?}
 {135}{}{Okay.}
 {136}{}{How did this person get by the guard outside?}

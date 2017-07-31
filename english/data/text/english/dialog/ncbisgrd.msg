@@ -120,7 +120,7 @@
 {378}{}{Me want world peace}
 {379}{}{Me want to go up stairs}
 {380}{}{Hoo Yoo}
-{381}{}{Wander off}
+{381}{}{[Wander off.]}
 {382}{}{What's up those stairs?}
 {383}{}{I'm here to see Mr. Bishop.}
 {384}{}{I'm here to see Mr. Bishop. I have a suitcase for him from Mr. Moore.}
@@ -137,7 +137,7 @@
 {408}{}{ME WANT WORLD PEACE ME WANT WORLD PEACE}
 {409}{}{ME SAY ME WANT TO GO UP STAIRS}
 {410}{}{HOO YOO}
-{411}{}{Shamble off}
+{411}{}{[Shamble off.]}
 {412}{}{Let me pass.}
 {414}{}{All right. I'm leaving.}
 
@@ -148,8 +148,8 @@
 {423}{}{ only want to be left ALONE but WORLD hurt }
 {424}{}{ so }
 {425}{}{ SMASH PUNY HUMANS}
-{426}{}{Scream and dive for cover}
-{427}{}{Go silent, brace yourself, and get ready to do some damage.}
+{426}{}{[Scream and dive for cover.]}
+{427}{}{[Go silent, brace yourself, and get ready to do some damage.]}
 {428}{}{You want some of THIS, boys?! YOU WANT SOME?! Then come GET some, you pathetic SONS OF
  BIT --}
 
@@ -176,7 +176,7 @@
 {471}{}{Forget it. You don't need to check…I'll be going.}
 
 # 33. HE'S EXPECTING ME (REFUSE) (32)
-{475}{}{(The guard steps away for a moment, opens a panel one of the walls and whispers something. He waits for a minute, listens, then turns back to you.) }
+{475}{}{(The guard steps away for a moment, opens a panel on one of the walls and whispers something. He waits for a minute, listens, then turns back to you.) }
 {476}{}{He doesn't know you. Piss off, pal. You're wasting our time.}
 {477}{}{He doesn't know you. Piss off, hon. You're wasting our time.}
 {478}{}{Let me see him. Now.}
@@ -184,7 +184,7 @@
 {480}{}{Forget it then.}
 
 # 34. HE'S EXPECTING ME (AGREE) (25, 26, 27, 28, 29, 33)
-{490}{}{(The guard steps away for a moment, opens a panel one of the walls and whispers something.
+{490}{}{(The guard steps away for a moment, opens a panel on one of the walls and whispers something.
  He waits for a minute, listens, then turns back to you and shrugs.) He says you can head on up.}
 {491}{}{All right.}
 

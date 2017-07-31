@@ -1,7 +1,7 @@
 {100}{}{You see an eerily wholesome couple.}
 {101}{}{You see Juan Cruz and Vikki Goldman, two of New Reno's more notorious film stars.}
 {102}{}{You see a dark-haired man and a blonde woman, both of whom are extremely attractive. They exude a slutty "come-hither" vibe.}
-{103}{}{Him: Hi! I'm Juan Cruz! Her: And I'm Vikki Goldman! Both: We're celebrities! And we endorse Hubology! Both: Please note that any similarities between us and people or  institutions, living or dead, is entirely coincidental.}
+{103}{}{Him: Hi! I'm Juan Cruz! Her: And I'm Vikki Goldman! Both: We're celebrities! And we endorse Hubology! Both: Please note that any similarities between us and people or institutions, living or dead, is entirely coincidental.}
 {104}{}{Ah? Cluz? Doldnin?}
 {105}{}{Celebrities? What makes you celebrities?}
 {106}{}{Similarities? What do you mean?}
@@ -68,7 +68,7 @@
 {167}{}{I have other questions.}
 {168}{}{I'm interested in joining.}
 {169}{}{I see. Well, so long.}
-{170}{}{Him: Well, it's very simple. We just give you this informational holodisc. Her: ... you sit through a short movie... Him... and then you go talk to AHS-7! Her: Easy, isn't it?}
+{170}{}{Him: Well, it's very simple. We just give you this informational holodisc. Her: ... you sit through a short movie... Him:... and then you go talk to AHS-7! Her: Easy, isn't it?}
 {171}{}{Let's do it.}
 {172}{}{I don't think I'm ready for this.}
 {173}{}{Her: That's your prerogative. Him: And I hope you'll understand that you can't be allowed to wander our base. Her: So you had better leave - the guards will probably shoot at you if you stick around.}
@@ -88,7 +88,7 @@
 {187}{}{Her: That wasn't so bad, was it? Him: Now just go talk to AHS-7 and we'll be comrades in Hubology! Her: I'm so excited! Him: Getting new recruits makes me horny. Her: Oh, honey... Him: Oh, baby...}
 {188}{}{I'll just come back later.}
 {189}{}{Him: Too bad. Her: You're committed now.}
-{190}{}{-done-}
+{190}{}{-DONE-}
 {191}{}{Him: You made a life-altering decision. Her: And sadly, it was the wrong one. Both: Guards! Guards!}
 {192}{}{Damn.}
 {193}{}{Him: Greetings,}
@@ -101,10 +101,10 @@
 {200}{}{Thanks. How do I hook up with you guys?}
 {201}{}{Thanks. That's all I wanted to know.}
 {202}{}{Her: As sad as it is - because the Star Father knows you're a cutie - we probably shouldn't. Him: But we're both flattered! Her: Maybe sometime we can all go to New Reno and make a film together.}
-{203}{}{Oh, all right. What else is there to do as an Hubologist?}
+{203}{}{Oh, all right. What else is there to do as a Hubologist?}
 {204}{}{Oh, all right. So long.}
 {205}{}{Her: Lying is bad for your neurodynes. Him: That's right. Her: That's why I have to be honest and say I don't find you attractive. Him: But we still love you as a fellow follower of the Hub!}
-{206}{}{Gee, thanks. So what else is there to do as an Hubologist?}
+{206}{}{Gee, thanks. So what else is there to do as a Hubologist?}
 {207}{}{Whatever. [mutter] jerks.}
 {208}{}{Greetings, new recruits!}
 {209}{}{I'm Vikki Goldman!}

@@ -68,7 +68,7 @@
 # 10. Who's your boss? (From 5, 7, 18)
 {310}{}{Huh? You just in the habit of walking around into places you don't know? This is the Slaver's Guild.}
 {311}{}{Oh, so that would make your boss's name…}
-{312}{}{Oh, that's where I am? I though I was in Kansas.}
+{312}{}{Oh, that's where I am? I thought I was in Kansas.}
 {313}{}{Okay, thanks.}
 
 # 11. Kansas (From 10)

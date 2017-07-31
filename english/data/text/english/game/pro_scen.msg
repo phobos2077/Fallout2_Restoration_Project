@@ -73,7 +73,7 @@
 {3700}{}{Bed}
 {3701}{}{A standard bed. Looks comfy.}
 {3800}{}{Elevator}
-{3801}{}{This is a maintanence elevator.}
+{3801}{}{This is a maintenance elevator.}
 {3900}{}{Chair}
 {3901}{}{It's a chair. Too bad you don't have time to sit down and relax.}
 {4000}{}{Chair}
@@ -305,21 +305,21 @@
 {15700}{}{Marker}
 {15701}{}{This is the symbol of the Brotherhood of Steel. This marker tells the wasteland that this is their area, and to leave immediately.}
 {15800}{}{Monitor}
-{15801}{}{You see a computer monitor. It is made from Brotherhood technology.}
+{15801}{}{You see a computer monitor.}
 {15900}{}{Monitor}
-{15901}{}{You see a computer monitor. It is made from Brotherhood technology.}
+{15901}{}{You see a computer monitor.}
 {16000}{}{Computer}
-{16001}{}{This is a computer memory databank. It is obviously Brotherhood technology.}
+{16001}{}{This is a computer memory databank.}
 {16100}{}{Computer}
-{16101}{}{This is a computer memory databank. It is obviously Brotherhood technology.}
+{16101}{}{This is a computer memory databank.}
 {16200}{}{Computer}
 {16201}{}{A high-tech computer, using modern reel-to-reel storage devices instead of the antiquated punch cards.}
 {16300}{}{Computer}
 {16301}{}{A high-tech computer, using modern reel-to-reel storage devices instead of the antiquated punch cards.}
 {16400}{}{Monitor}
-{16401}{}{You see a computer monitor. It is made from Brotherhood technology.}
+{16401}{}{You see a computer monitor.}
 {16500}{}{Monitor}
-{16501}{}{You see a computer monitor. It is made from Brotherhood technology.}
+{16501}{}{You see a computer monitor.}
 {16600}{}{Wire}
 {16601}{}{Some sort of computer wiring.}
 {16700}{}{Wire}
@@ -406,7 +406,7 @@
 {21100}{}{Bed}
 {21101}{}{On closer examination, you determine that the sheets have not been changed in a very, very long time.}
 {21200}{}{Bed}
-{21201}{}{There are a couple stains of dubious origin on this well-worn sleeping device.}
+{21201}{}{There are a couple of stains of dubious origin on this well-worn sleeping device.}
 {21300}{}{Bed}
 {21301}{}{This bed has seen a lot of use and wear. Something must have crawled between the mattresses and died, too.}
 {21400}{}{Bookcase}
@@ -1052,8 +1052,8 @@
 {55701}{}{A large super computer. Probably the fastest looking computer you've ever seen.}
 {55800}{}{Support Platform}
 {55801}{}{This platform supports the large super computer over the cooling tanks.}
-{55900}{}{Dont use}
-{56000}{}{Dont use}
+{55900}{}{Don't use}
+{56000}{}{Don't use}
 {56100}{}{Bed}
 {56101}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off of these sheets.}
 {56200}{}{Bed}
@@ -1103,17 +1103,17 @@
 {58400}{}{Ladder}
 {58401}{}{This ladder leads into the darkness below.}
 {58500}{}{Machinery}
-{58501}{}{It looks like an old printing press or manufacturing doohikey.}
+{58501}{}{It looks like an old printing press or manufacturing doohickey.}
 {58600}{}{Machinery}
-{58601}{}{It looks like an old printing press or manufacturing doohikey.}
+{58601}{}{It looks like an old printing press or manufacturing doohickey.}
 {58700}{}{Machinery}
-{58701}{}{It looks like an old printing press or manufacturing doohikey.}
+{58701}{}{It looks like an old printing press or manufacturing doohickey.}
 {58800}{}{Machinery}
-{58801}{}{It looks like an old printing press or manufacturing doohikey.}
+{58801}{}{It looks like an old printing press or manufacturing doohickey.}
 {58900}{}{Machinery}
-{58901}{}{It looks like an old printing press or manufacturing doohikey.}
+{58901}{}{It looks like an old printing press or manufacturing doohickey.}
 {59000}{}{Machinery}
-{59001}{}{It looks like an old printing press or manufacturing doohikey.}
+{59001}{}{It looks like an old printing press or manufacturing doohickey.}
 {59100}{}{Table}
 {59101}{}{This metal table looks in good condition. There is a drain in the center of it.}
 {59200}{}{Table}
@@ -1829,18 +1829,18 @@
 {99800}{}{Disabled Floor Plate}
 {99801}{}{This floor plate trap has been disabled.}
 {99900}{}{Triggered Floor Plate}
-{99901}{}{This floor plate trap has been triggered. Opps!}
+{99901}{}{This floor plate trap has been triggered. Oops!}
 {100000}{}{Still}
 {100001}{}{This looks like a wood-burning alcohol still.}
-{100100}{}{Rad Scorpion Parts}
+{100100}{}{Radscorpion Parts}
 {100101}{}{You see a large pile of Radscorpion parts. They've been hollowed out and have straps attached to them.}
-{100200}{}{Powerplant Machinery}
+{100200}{}{Power plant Machinery}
 {100201}{}{This is the Plutonium-Gamma Shield machine for the reactor.}
-{100300}{}{Powerplant Machinery}
+{100300}{}{Power plant Machinery}
 {100301}{}{This is the Jupiter Wave Compiler machine for the reactor.}
-{100400}{}{Powerplant Machinery}
+{100400}{}{Power plant Machinery}
 {100401}{}{This is the Uranium-Rod Driver machine for the reactor.}
-{100500}{}{Powerplant Machinery}
+{100500}{}{Power plant Machinery}
 {100501}{}{This is the Neptunium Impeller machine for the reactor.}
 {100600}{}{Powerplant Machinery}
 {100601}{}{This is the Saturn-Class Capacitor machine for the reactor.}
@@ -2310,9 +2310,9 @@
 {142000}{}{Sheriff Sign}
 {142100}{}{Malamute Saloon Sign}
 {142200}{}{Morningstar Mine Sign}
-{142300}{}{Kokowebe Mine Sign}
-{142400}{}{Kokowebe Mine Sign}
-{142500}{}{Kokowebe Mine Sign}
+{142300}{}{Kokoweef Mine Sign}
+{142400}{}{Kokoweef Mine Sign}
+{142500}{}{Kokoweef Mine Sign}
 {142600}{}{Signpost}
 {142601}{}{This wooden sign points towards New Reno and "Hell." You suspect the directions are reversed.}
 {142700}{}{Number 1 Sign}
@@ -2392,8 +2392,8 @@
 {149900}{}{Wall}
 {150000}{}{Fan}
 {150100}{}{Fan}
-{150200}{}{Fire Ext.}
-{150300}{}{Fire Ext.}
+{150200}{}{Fire Ext}
+{150300}{}{Fire Ext}
 {150400}{}{Pipe}
 {150500}{}{Power Distributor}
 {150600}{}{Power Distributor}
@@ -2470,7 +2470,7 @@
 {157600}{}{Door}
 {157700}{}{Air Vent}
 {157800}{}{Auto-Doc}
-{157801}{}{This Auto-Doc is designed to heal illnesses and adminster various chems.}
+{157801}{}{This Auto-Doc is designed to heal illnesses and administer various drugs.}
 {157900}{}{Statue}
 {157901}{}{A small statue of the famous Vault Dweller.}
 {158000}{}{Pile of Rocks}
@@ -2548,9 +2548,9 @@
 {164600}{}{Stairs Up}
 {164700}{}{Stairs Up}
 {164800}{}{Stairs Up}
-{164900}{}{Mainframe Computer}
-{165000}{}{Mainframe Computer}
-{165100}{}{Mainframe Computer}
+{164900}{}{Reactor Core}
+{165000}{}{Reactor Core}
+{165100}{}{Reactor Core}
 {165200}{}{Caravan Office Sign}
 {165300}{}{Coffin Table}
 {165400}{}{Coffin Table}

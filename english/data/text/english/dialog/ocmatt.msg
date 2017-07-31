@@ -12,15 +12,15 @@
 {110}{}{You prisoner?}
 {111}{}{Me go now.}
 {112}{}{Who are you?}
-{113}{}{Are you a prisoner here.}
+{113}{}{Are you a prisoner here?}
 {114}{}{I'll be leaving now.}
 {115}{}{My name is Matt. Does it matter?}
 {116}{}{Guess not.}
 {117}{}{Humph. Me go.}
 {118}{}{Okay, I'll just leave.}
 {119}{}{Not really.}
-{120}{}{Yes, as a matter of fact I am. I stumbled upon this place and got myself captured by the deathclaws.
-They give me freedom of movement within the lower levels of the vault, but I can never go to level 1 where the exit is.}
+{120}{}{Yes, as a matter of fact I am. I stumbled upon this place and got myself captured by the Deathclaws.
+ They give me freedom of movement within the lower levels of the vault, but I can never go to level 1 where the exit is.}
 {121}{}{Why?}
 {122}{}{Okay.}
 {123}{}{Me outta here.}
@@ -51,7 +51,7 @@ They give me freedom of movement within the lower levels of the vault, but I can
 {143}{}{You seem to have bought yourself a shit storm!}
 {144}{}{Yeah. I destroyed the voice module and then I disabled all keyboard input.}
 {145}{}{Why?}
-{146}{}{With the mainframe offline the vault will eventually shut down. Without food or water the deathclaws will be forced to begin raiding human lands for their needs. Eventually they will be discovered and their threat to humanity can be dealt with.}
+{146}{}{With the mainframe offline the vault will eventually shut down. Without food or water the Deathclaws will be forced to begin raiding human lands for their needs. Eventually they will be discovered and their threat to humanity can be dealt with.}
 {147}{}{Others here. They need food, water. You no care about them?}
 {148}{}{What about the others who live here. Aren't you concerned with their fate?}
 {149}{}{Not in the least. They are simply casualties of war.}

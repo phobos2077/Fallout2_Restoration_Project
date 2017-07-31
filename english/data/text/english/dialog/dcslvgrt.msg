@@ -33,7 +33,7 @@
 {241}{}{Ya gotta be shittin' me! We capture and sell slaves. If ya ain't here for that, whatta
  want?} # Intentional errors, please do not change.
 {242}{}{So, ya joined up. This should be interesting. If you like action, yer in the right line of work. If ya don't, ya won't last long.}
-{243}{}{I never thought I would see that tat on woman. It looks good though. Surprised Metzger... fuck it. So what do ya need?}
+{243}{}{I never thought I would see that tat on a woman. It looks good though. Surprised Metzger... fuck it. So what do ya need?}
 {244}{}{What do ya want? Ya lost or somethin'?}
 {245}{}{Hello again. li'l lady. Whatcha need?}
 {246}{}{What?}
@@ -96,15 +96,15 @@
 {334}{}{Okay, bye.}
 
 # 12. Threatened life (From 11)
-{340}{}{Listen here, ya li'le shit head, don't you dare threaten me or any one else in our guild, or you're dead. Get that? Dead.}
-{341}{}{Listen here, ya li'l cunt. Don't you dare threaten me or any one else in our guild, or your dead. Get that? Dead.}
+{340}{}{Listen here, ya li'le shit head, don't you dare threaten me or anyone else in our guild, or you're dead. Get that? Dead.}
+{341}{}{Listen here, ya li'l cunt. Don't you dare threaten me or anyone else in our guild, or your dead. Get that? Dead.}
 {342}{}{Now, young jet eye, you will die.}
 {343}{}{Screw you.}
 {344}{}{Sorry, please don't hurt me.}
 {345}{}{Yeah, whatever. I'll let you live this time.}
 
 # 13. Threaten back (From 12)
-{350}{}{Oh, really? Maybe I should just blow a whole through your head right here 'n now. What do you think, hot shot?}
+{350}{}{Oh, really? Maybe I should just blow a hole through your head right here 'n now. What do you think, hot shot?}
 {351}{}{Take your best shot.}
 {352}{}{Don't make me laugh.}
 {353}{}{I was just joking, man.}

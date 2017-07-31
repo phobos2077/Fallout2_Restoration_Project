@@ -109,12 +109,12 @@
 #
 {465}{}{This line shows the number of male humans you have killed during the course of your adventures.}
 {466}{}{This line shows the number of female humans you have killed during the course of your adventures.}
-{467}{}{This line shows the number of young human children you have killed during the course of your adventures.  You cad.}
+{467}{}{This line shows the number of young human children you have killed during the course of your adventures. You cad.}
 {468}{}{The number of Super Mutants you have slain during the course of your adventures.}
 {469}{}{This line shows the number of male and female ghoul mutants you have killed during the course of your adventures.}
 {470}{}{This line shows the number of Brahmin (mutated cows) you have chopped up during your travels.}
 {471}{}{The number of mutated Radscorpions that you have put to death during your adventure.}
-{472}{}{The number of rats you have killed.  Includes all members of the rat family.}
+{472}{}{The number of rats you have killed. Includes all members of the rat family.}
 {473}{}{This is the number of mutant Floaters that you have put to death.}
 {474}{}{Your tally of dead mutant Centaurs.}
 {475}{}{This is the number of robots that you have destroyed or dismantled.}
@@ -214,20 +214,20 @@
 # Experience-Point messages
 #
 {620}{}{You gain %d experience points for killing: %s.}
-{621}{}{%s you earn %d exp. points.}
-{622}{}{For defeating your enemies, }  # 622-626 prepend to line 621
-{623}{}{For slaying your opponents, }
-{624}{}{You are victorious in combat, }
-{625}{}{For crushing your enemies, }
-{626}{}{For destroying your enemies without taking a scratch, }
+{621}{}{%s you gain %d experience points.}
+{622}{}{For defeating your enemies,}  # 622-626 prepend to line 621
+{623}{}{For slaying your opponents,}
+{624}{}{For being victorious in combat,}
+{625}{}{For crushing your enemies,}
+{626}{}{For destroying your enemies without taking a scratch,}
 
 #
 # Dialog messages
 #
-{650}{}{[Done]}
-{651}{}{[More]}
+{650}{}{[DONE]}
+{651}{}{[MORE]}
 {652}{}{More}
-{653}{}{[Back]}
+{653}{}{[BACK]}
 {654}{}{Back}     # changed number from 653
 {655}{}{Go on}    # new
 {656}{}{Err...}   # new
@@ -298,7 +298,7 @@
 #
 {1469}{}{This line shows the number of male humans you have killed during the course of your adventures.}
 {1470}{}{This line shows the number of female humans you have killed during the course of your adventures.}
-{1471}{}{This line shows the number of young human children you have killed during the course of your adventures.  You cad.}
+{1471}{}{This line shows the number of young human children you have killed during the course of your adventures. You cad.}
 {1472}{}{The number of Super Mutants you have slain during the course of your adventures.}
 {1473}{}{This line shows the number of male and female ghoul mutants you have killed during the course of your adventures.}
 {1474}{}{This line shows the number of Brahmin (mutated cows) you have chopped up during your travels.}

@@ -1,5 +1,5 @@
 {100}{}{You see a person wearing the uniform of the NCR Police.}
-{101}{}{A cop.}
+{101}{}{It's an NCR cop.}
 {102}{}{Judging from the unsmiling face, don't expect much mercy here.}
 {103}{}{Put your weapon away - NOW!}
 {104}{}{Stranger, we got a no weapon policy in this town. Put your weapon away.}

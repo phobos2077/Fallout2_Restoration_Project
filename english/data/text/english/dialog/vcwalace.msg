@@ -5,8 +5,8 @@
 {104}{}{We have heard about your heroic exploits. By order of the Council, you... and any companions... are permitted to enter Vault City whenever you wish.}
 {105}{}{The Customs Office is closed for the evening. Come back in the morning.}
 {106}{}{The Customs Office is closed for the evening. I'll be heading home after I tabulate all these lists.}
-{107}{}{I have nothing to say to anyone who travels with... ghouls. His kind belong in the Courtyard.}
-{108}{}{I have nothing to say to anyone who travels with... mutants. His kind belong in the Courtyard.}
+{107}{}{I have nothing to say to anyone who travels with... ghouls. His kind belongs in the Courtyard.}
+{108}{}{I have nothing to say to anyone who travels with... mutants. His kind belongs in the Courtyard.}
 {109}{}{Hello, Captain. Is there anything I can help you with?}
 {110}{}{Hello, Citizen. Is there anything I can help you with?}
 {111}{}{Hello, traveler. Welcome to Vault City. Is there anything I can help you with?}
@@ -252,7 +252,7 @@
 {341}{}{Thank you for your assistance, Outsider.}
 {342}{}{Well, as promised, here is your Day Pass... but you step out of line, I'll have it revoked. You hear me?}
 {343}{}{Oh, uh… well, I am a merchant. I had planned on trading with the other merchants in the city. Can I get a Day Pass from you?}
-{344}{}{You are a merchant? Really. And what would you happen to be selling? Ore? Some of those filthy wastelander lizard skins? }
+{344}{}{You are a merchant? Really. And what would you happen to be selling? Ore? Some of those filthy wasteland lizard skins? }
 {345}{}{(Glances at your companion.) Or are you looking to sell some Servants?}
 {346}{}{Yes, I am looking to sell some Servants in the City.}
 {347}{}{I'm selling some of those… uh… filthy Gecko pelts.}

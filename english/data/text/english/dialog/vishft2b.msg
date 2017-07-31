@@ -14,3 +14,4 @@
 {110}{}{You open the vent and look for the source of the blockage. You spot something lodged inside and
  pull it out.}
 {111}{}{Looks like somebody hid this in the vent.}
+{112}{}{Me findie this in vent.}

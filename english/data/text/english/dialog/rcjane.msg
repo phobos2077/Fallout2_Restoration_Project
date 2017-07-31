@@ -68,7 +68,7 @@
 {167}{}{Well, as I was saying, the two creatures will hurl themselves against one another in an explosion of ferocity-the likes of which haven't been seen since the great machines roamed the earth.}
 {168}{}{Great machines?}
 {169}{}{Uh, yeah, and then what?}
-{170}{}{OK, listen, pal, would it help if I said-The likes of which haven't been seen since the great thunder lizards roamed the earth. Is that what tweaks your twinky? So you in or out? (aside) Jeez, everyone's a critic these days.}
+{170}{}{OK, listen, pal, would it help if I said - The likes of which haven't been seen since the great thunder lizards roamed the earth. Is that what tweaks your twinky? So you in or out? (aside) Jeez, everyone's a critic these days.}
 {171}{}{Uh, I'm in. I guess.}
 {172}{}{Big lizards scare me. I better stay out of this. Thanks for the warning. Goodbye. (you think to yourself) *Phew, that was close.*}
 {173}{}{The sportin' part is the bet on the outcome of the fight. Here's how it works. You come up to me and say you want to place a bet. I tell you which two critters are fightin' next and you tell me which one you're putting your money on.}

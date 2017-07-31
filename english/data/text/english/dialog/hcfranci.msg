@@ -7,82 +7,82 @@
 {104}{}{Ook! Ook! Eep orp ook!}
 {105}{}{Hoo you?}
 {106}{}{Hey, buddy. Who are you?}
-{107}{}{What’s there to do in this place?}
+{107}{}{What's there to do in this place?}
 {108}{}{Are you up for an arm-wrestle, Mr. Iron-Pecs?}
 
-{109}{}{Pal, I’ve got no idea what you’re trying to say. Sorry.}
+{109}{}{Pal, I've got no idea what you're trying to say. Sorry.}
 
-{110}{}{I’m Francis. I’m the arm-wrestling champ of this town. I’ve got a running bet that no one can
+{110}{}{I'm Francis. I'm the arm-wrestling champ of this town. I've got a running bet that no one can
  beat me.}
-{111}{}{I’m Francis, remember? The arm-wrestling champion of the town? I’ve got a running bet that no one can
+{111}{}{I'm Francis, remember? The arm-wrestling champion of the town? I've got a running bet that no one can
  beat me.}
 {112}{}{I beat you! Me! Me!}
-{113}{}{I’ll bet you haven’t had many takers.}
-{114}{}{I’ll bet I could.}
+{113}{}{I'll bet you haven't had many takers.}
+{114}{}{I'll bet I could.}
 {115}{}{That good, huh?}
 
-{116}{}{What’s to do in town? Well, let’s see… there’s the saloon, the mines, the refinery, and the
- caravan. We haven’t got much time for fun here, and what we do have, we generally devote to drinking.
+{116}{}{What's to do in town? Well, let's see… there's the saloon, the mines, the refinery, and the
+ caravan. We haven't got much time for fun here, and what we do have, we generally devote to drinking.
  Also, we work on human/mutant relations.}
 {117}{}{How… exciting.}
 {118}{}{All right, thanks.}
 {119}{}{Human/mutant relations? What do you mean?}
 
-{120}{}{I’m always ready. You wanna go?}
-{121}{}{No, I’m just asking for my health.}
+{120}{}{I'm always ready. You wanna go?}
+{121}{}{No, I'm just asking for my health.}
 {122}{}{Umm, no.}
 {123}{}{Of course I do.}
 
-{124}{}{[he sizes you up and gauges your musculature] I don’t think so, pal. It'd just be a waste of my time. Piss off.}
-{125}{}{You think you can take me, eh? All right. You win, you get this power fist. I win, and you’re
+{124}{}{[he sizes you up and gauges your musculature] I don't think so, pal. It'd just be a waste of my time. Piss off.}
+{125}{}{You think you can take me, eh? All right. You win, you get this power fist. I win, and you're
  my gimp for a night. Do you want to do it now, or would you like to take some time to rest up?}
 {126}{}{Rest! Rest!}
 {127}{}{Now. We now!}
-{128}{}{I’d like to rest up first.}
-{129}{}{I’m game for it now.}
-{130}{}{I changed my mind. I don’t want to wrestle you.}
+{128}{}{I'd like to rest up first.}
+{129}{}{I'm game for it now.}
+{130}{}{I changed my mind. I don't want to wrestle you.}
 
-{131}{}{That’s the truth. Looks like there’s no one in this whole godforsaken wasteland who’ll go for it,
+{131}{}{That's the truth. Looks like there's no one in this whole godforsaken wasteland who'll go for it,
  either.}
-{132}{}{Pity, that. If I find anyone, I’ll send them your way. Bye.}
-{133}{}{Just because you’re strong doesn’t mean you’re smart, pal. Remember that.}
+{132}{}{Pity, that. If I find anyone, I'll send them your way. Bye.}
+{133}{}{Just because you're strong doesn't mean you're smart, pal. Remember that.}
 
-{134}{}{Buddy, if you don’t like it here, there’s a whole world outside.}
+{134}{}{Buddy, if you don't like it here, there's a whole world outside.}
 
 {135}{}{No problem. Anything else you need, feel free to ask Phil the bartender or someone else.}
 
-{136}{}{Buddy, do you want to arm-wrestle or not? I haven’t got the time to waste with snitty remarks
+{136}{}{Buddy, do you want to arm-wrestle or not? I haven't got the time to waste with snotty remarks
  and cowards.}
-{137}{}{Yeah, sure. Let’s do it.}
-{138}{}{No, I don’t think so.}
+{137}{}{Yeah, sure. Let's do it.}
+{138}{}{No, I don't think so.}
 
-{139}{}{You come on back and find me when you’re ready, then. I should be around.}
+{139}{}{You come on back and find me when you're ready, then. I should be around.}
 
 {140}{}{Get out of here before my stupid brain decides to beat your face in.}
 
 {141}{}{Backing out, eh? Coward. I figured as much.}
-{142}{}{All right, all right, I’ll do it.}
+{142}{}{All right, all right, I'll do it.}
 {143}{}{Yeah, whatever. See ya.}
 
-{144}{}{Well, pal, that’s the first time anyone’s ever beaten me in a fair contest. You win. Take this.
+{144}{}{Well, pal, that's the first time anyone's ever beaten me in a fair contest. You win. Take this.
  Well done.}
 {145}{}{You lost. No big surprise. Time to come on home with me.}
 
-{146}{}{I tell you what, buddy, I ain’t seen an arm like that in ages. You use that right, you’ll go
+{146}{}{I tell you what, buddy, I ain't seen an arm like that in ages. You use that right, you'll go
  far. Enjoy the glove!}
 
-{147}{}{Didn’t you get enough of me before? Do you want to try again? Same deal?}
-{148}{}{Yeah, let’s do it.}
+{147}{}{Didn't you get enough of me before? Do you want to try again? Same deal?}
+{148}{}{Yeah, let's do it.}
 {149}{}{No, sorry.}
 
-{150}{}{I’ve heard about you. I don’t associate with scum.}
+{150}{}{I've heard about you. I don't associate with scum.}
 
 {151}{}{Buddy, thanks for stepping in to save our town. Let me buy you a drink.}
 {152}{}{Howdy, hero!}
 
 {153}{}{Scum! Die!}
 
-{154}{}{You may’ve noticed that we got both mutants and humans in the city. We’re trying to work it so
+{154}{}{You may've noticed that we got both mutants and humans in the city. We're trying to work it so
  that we all live in peace. Unfortunately, there are some who want to destroy that. Our leader, Marcus,
  helped found the city. Do you want to hear more?}
 {155}{}{Yeah, tell me more.}
@@ -96,12 +96,12 @@
 {160}{}{All right. Well, if you need any more information, you know where to find me.}
 {161}{}{Sure. Thanks. Bye.}
 
-{162}{}{Really? That’s a fascinating attitude. Too bad we didn’t crush your village when we controlled
+{162}{}{Really? That's a fascinating attitude. Too bad we didn't crush your village when we controlled
  the wasteland. Get out of my sight, worm.}
-{200}{}{-done-}
+{200}{}{[DONE]}
 {201}{}{Bye.}
 {202}{}{Thanks. Bye.}
-{203}{}{-more-}
+{203}{}{[MORE]}
 {204}{}{Sure. Thanks. Bye.}
 
 {300}{}{Pal, I don't think you'd know how to use what I've got to offer. Come back when you've got a
@@ -167,4 +167,4 @@
 {701}{}{You confronted Francis about the note to Zaius.}
 
 {800}{}{(Looking at the massive mutant, you realize you wouldn't have
- stood a chance. Time to walk away while you've still got your diginity.)}
+ stood a chance. Time to walk away while you've still got your dignity.)}

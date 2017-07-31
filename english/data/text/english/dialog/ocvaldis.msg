@@ -1,6 +1,6 @@
-{100}{}{You see a deathclaw. It watches you with strangely intelligent eyes.}
-{101}{}{You see Valdis, the deathclaw.}
-{102}{}{You see a typical deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
+{100}{}{You see a Deathclaw. It watches you with strangely intelligent eyes.}
+{101}{}{You see Valdis, the Deathclaw.}
+{102}{}{You see a typical Deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
  claws.}
 {103}{}{Greetings, human.}
 {104}{}{How may I serve you?}
@@ -9,7 +9,7 @@
 {107}{}{Brain hurt. Me come back later.}
 {108}{}{Hello, who are you?}
 {109}{}{What's your job?}
-{110}{}{No offense to your fellow deathclaws, but you sound more... educated, shall we say?}
+{110}{}{No offense to your fellow Deathclaws, but you sound more... educated, shall we say?}
 {111}{}{Well, just passing the time.}
 {112}{}{I am called Valdis. And you are?}
 {113}{}{Me human.}
@@ -27,7 +27,7 @@
 {125}{}{Well, you certainly seem to know your job well.}
 {126}{}{Do you have the brains to decide who is or is not 'authorized?'}
 {127}{}{Why yes, I do. I also have enough brains to decide who is or is not an asshole -- and I have
- concluded that you excel in that catagory! Now, why don't you leave before I dance on your face for
+ concluded that you excel in that category! Now, why don't you leave before I dance on your face for
  half an hour?}
 {128}{}{All right.}
 {129}{}{Bad lizard. Now I have to shoot you.}
@@ -48,7 +48,7 @@
 {143}{}{Ok. Me understand.}
 {144}{}{Me get another of those headaches. Me go now.}
 {145}{}{My goal is to maintain as much patience as I can, in light of the fact that you are being rude.
- If you can not deal with me civilly, then please leave.}
+ If you cannot deal with me civilly, then please leave.}
 {146}{}{Sorry, I'll try to be more civil.}
 {147}{}{Shove it.}
 {148}{}{Yeah.}

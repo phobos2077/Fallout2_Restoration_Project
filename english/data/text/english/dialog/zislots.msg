@@ -138,6 +138,7 @@
 {2201}{}{*Hehehe, why don't you just give up sweetie.*}
 {2202}{}{*Maybe you should let someone else pull my handle.*}
 # any
+{2203}{}{(A faint maniacal laugh emanates from the machine.)}
 {2204}{}{(You hear the slot machine laughing at you.)}
 {2205}{}{(The slot machine chuckles at you.)}
 {2206}{}{*Come on now loser, don't give up on me*}
@@ -150,7 +151,7 @@
 # male [3X - 1X]
 {2247}{}{*Aieeeeeeee! That's it, sugah! Oh god, yes! Yes! Yes, Again! Faster! Harder! What are you waiting for?! Again!*}
 {2248}{}{*That's it, sugah… keep pulling the handle… faster, harder, faster… come on now…*}
-{2249}{}{*Come on, sugar… it happens to every one at least once… try again…please…*}
+{2249}{}{*Come on, sugar… it happens to everyone at least once… try again…please…*}
 # any
 {2250}{}{*Please don't give up on me yet baby! I need you more now than ever!*}
 # female [1X - 3X]
@@ -210,7 +211,12 @@
 # rollin' messages
 {3000}{}{C'mon, }
 {3001}{}{! Baby needs a new pair of shoes!}
-{3002}{}{! Daddy needs a new plasma riffle!}
+{3002}{}{! Daddy needs a new plasma rifle!}
 
 # can't play
 {4000}{}{There seems to be someone blocking the machine.}
+
+{5000}{}{Jinx the machine into giving you all its money.}
+{5001}{}{The machine appears to freeze and then you hear a faint rumble as an avalanche of coins begin to fall from the
+ dispenser.}
+{5002}{}{[Collect money and walk away.]}

@@ -52,7 +52,7 @@ Do you have the armor here?}
 {148}{}{No.}
 {149}{}{::he looks into your eyes and decides that you're bluffing::
 Try it, bucko. You'll have guards down on your ass and you'll never learn how to harden your armor.}
-{150}{}{Fine. Die, pencil neck.}
+{150}{}{Fine. Die, pencil-neck.}
 {151}{}{Shit. You called my bluff.}
 {152}{}{Bluffer. I think we'll see what the guards have to say about this.}
 {153}{}{Dammit!}

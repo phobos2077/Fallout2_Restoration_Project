@@ -113,7 +113,7 @@
 {187}{}{That's a shame. Oh well, goodbye.}
 {188}{}{We can throw our gates wide and welcome them in! They need our help, yet
  STILL we turn a blind eye!}
-{189}{}{Amen! Vault City's advanced technology should be shared, not horded.}
+{189}{}{Amen! Vault City's advanced technology should be shared, not hoarded.}
 {190}{}{Hmm... I don't know. We have it pretty good here. Do we really need them? After all, they'd
  bring down our standard of living... contaminate us, even.}
 {191}{}{Hmmm. Well, it's something to think about. Goodbye.}
@@ -145,7 +145,7 @@
 {214}{}{I've seen the error of my ways. I've come to repent and hear the word!}
 {215}{}{My heart was torn because of the thought of man's inhumanity to man!}
 {216}{}{All right then. }
-{217}{}{Hello again, fellow pilgrim! Did you deliver the information as I  asked?}
+{217}{}{Hello again, fellow pilgrim! Did you deliver the information as I asked?}
 {218}{}{Hello again, fellow pilgrim! How can I help you on this day?}
 {219}{}{Let's cut the crap, "Tomcat." I know everything about you and your "friends" down in NCR.}
 {220}{}{Why would you work for the NCR? I thought you were an honorable man.}

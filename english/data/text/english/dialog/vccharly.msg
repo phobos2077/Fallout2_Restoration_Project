@@ -11,7 +11,7 @@
 {110}{}{This man has radiation poisoning. Your skills can't help him. He needs medication.}
 {111}{}{This man looks terribly sick. You're not sure what's wrong.}
 {112}{}{Thanks, but I'm fine, really. That Rad-Away stuff did the trick.}
-{113}{}{You find a vein and inject the Radaway into Charlie's system.}
+{113}{}{You find a vein and inject the Rad-Away into Charlie's system.}
 {114}{}{*Urhkkkk*...}
 {115}{}{3 Seconds}
 {116}{}{Unhhhhh...*cough* *cough*...}

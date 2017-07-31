@@ -6,3 +6,7 @@
 {105}{}{Whaaa!}
 {106}{}{Mommy!}
 {107}{}{Daddy!}
+
+{200}{}{You see a young child.}
+{201}{}{It's a little boy.}
+{202}{}{It's a little girl.}

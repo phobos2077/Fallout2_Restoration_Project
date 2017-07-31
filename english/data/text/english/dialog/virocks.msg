@@ -3,3 +3,7 @@
 {102}{}{It's just a pile of rocks.}
 {103}{}{Hey! I found a wrench buried under the rocks.}
 {104}{}{Nothing else here.}
+
+#added by killap
+{110}{}{Hey! Me findie tool here.}
+{111}{}{Me no find more treasure.}

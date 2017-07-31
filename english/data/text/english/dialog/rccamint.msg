@@ -88,3 +88,6 @@
  Take us in, Sheriff.}
 {179}{}{That's more like it.}
 {180}{}{Nope, too late now. I'm gonna have to open up a can of whoop-ass on you two. }
+# Begin Seraph's Code
+{181}{}{Don't worry; I won't be startin' any trouble tonight.}
+# End Seraph's Code

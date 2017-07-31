@@ -38,7 +38,7 @@
 {137}{}{What if I shoved a gun under your nose?}
 {138}{}{Great. Well, I have more questions.}
 {139}{}{Hmm. I see. Well, so long.}
-{140}{}{Ahh, yes! Indeed. I will prepare it with fava beans and a nice chianti.}
+{140}{}{Ahh, yes! Indeed. I will prepare it with fava beans and a nice Chianti.}
 {141}{}{You've still got it? Good. Chip needs it back.}
 {142}{}{That's a human spleen, you sick bastard!}
 {143}{}{You do know that you're supposed to serve liver with that wine instead of spleen, right?}
@@ -48,16 +48,15 @@
 {147}{}{He needs it to survive, you know. It came from inside his body.}
 {148}{}{Then maybe I'd better kill you for it.}
 {149}{}{A deal is a deal. He can't have it. Sorry, but we made a bargain and just because Chip regrets it now doesn't mean he can go back on his deal.}
-{150}{}{-more-}
+{150}{}{[MORE]}
 {151}{}{It's a human spleen? Lao Chou didn't tell me that!}
 {152}{}{Yet, because of the rudeness of the messenger, I believe I will hold all parties to the bargain. I will experiment on it instead.}
 {153}{}{Tell your friend to come by for it within the next day, and I will gladly return it to him. I just hope you can find a way to replace it in his body in time.}
 {154}{}{Very well.}
-{155}{}{Ha ha! Yes, I too saw that old movie.
-Wait... what are you saying? Are you saying that...?}
+{155}{}{Ha ha! Yes, I too saw that old movie. Wait... what are you saying? Are you saying that...?}
 {156}{}{Yes, it's a human spleen.}
 {157}{}{Actually, I would object to that. You have not shown yourself to be of good character. Indeed, I do not know why I am talking to you. Good day.}
-{158}{}{-done-}
+{158}{}{[DONE]}
 {159}{}{Aiee! Guards! The lao wai intruder is here!}
 {160}{}{You have certain schematics to give to me?}
 {161}{}{Ken Lee told me to give these to you.}

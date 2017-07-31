@@ -17,9 +17,7 @@
 {116}{}{You can't take the president's job!}
 {117}{}{No?}
 {118}{}{Oh. Okay.}
-{119}{}{Right. I'm not sure that's what she's looking for. Oh well, she said send them all in.
-
-You go. Talk Tandi now.}
+{119}{}{Right. I'm not sure that's what she's looking for. Oh well, she said send them all in. You go. Talk Tandi now.}
 {120}{}{NO! You are dumb. President must be smart, talk in two-syllable words! You no president.}
 {121}{}{Oh. What me do?}
 {122}{}{Me no like you. You yell. Bad man.}
@@ -78,9 +76,15 @@ You go. Talk Tandi now.}
 
 {176}{}{You should know there's a spy in your house - somebody named F.}
 
+{177}{}{Me also find spy. Ferrrgus.}
+{178}{}{Me no lie. Lookie. (You hand him the disk.)}
+{179}{}{Thankee!}
 
 #define GLOBAL Message response
 {500}{}{We keep the doors locked for a reason.}
 {501}{}{I must ask you to leave.}
 {502}{}{This is your last warning. Leave before I have you removed.}
 {503}{}{Security - please deal with this pest.}
+
+# Added by killap
+{510}{}{Well, wait a minute. I have more to discuss with your boss about Vault 15.}

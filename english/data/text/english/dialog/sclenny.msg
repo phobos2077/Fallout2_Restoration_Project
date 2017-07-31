@@ -1,4 +1,4 @@
-{100}{}{A mutant - and a tame one at that.}
+{100}{}{You see a mutant - and a tame one at that.}
 {101}{}{That's Lenny, remember? The obnoxious one.}
 {102}{}{Hoo-boy - this lad's a piece of work. Besides the fact he's green and ugly, he's got more scars on him than an old whore. This one's a fighter, for sure.}
 {103}{}{I'm Lenny and you're pond scum. Get outta here.}

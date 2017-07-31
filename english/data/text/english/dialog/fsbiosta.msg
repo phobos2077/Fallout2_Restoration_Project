@@ -11,7 +11,7 @@
 {110}{}{Botany program.}
 {111}{}{Genetic program.}
 {112}{}{Xeno program.}
-{113}{}{Personnel note.}
+{113}{}{Recent Personnel Notes.}
 {114}{}{Deactivate workstation.}
 {115}{}{Incorrect password. Please speak to the system administrator. Goodbye.}
 {116}{}{::hack into computer::}
@@ -44,7 +44,7 @@ Dr. Long: Recently deceased via FEV serum.}
 {140}{}{Station deactivated.}
 {141}{}{Activate station.}
 {142}{}{-leave-}
-{143}{}{[Your hamfisted approach across the keys triggers the correct password... your luck is incredible!]}
+{143}{}{[Your ham-fisted approach across the keys triggers the correct password... your luck is incredible!]}
 {144}{}{-more-}
 
 

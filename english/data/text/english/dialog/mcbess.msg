@@ -2,7 +2,7 @@
 {100}{}{According to the tag on its collar, its name is Bess.}
 {101}{}{You see Bess.}
 
-{110}{}{It looks like its been attacked by some wild animal. It's hurt pretty bad.}
+{110}{}{It looks like it's been attacked by some wild animal. It's hurt pretty bad.}
 {111}{}{That's a fine brahmin anyone would be proud to own.}
 
 # 1. Bubble text
@@ -26,5 +26,5 @@
 
 {200}{}{First aid skills won't help heal this poor brahmin's broken leg.}
 
-{300}{}{You successfuly heal the brahmin's broken leg.}
+{300}{}{You successfully heal the brahmin's broken leg.}
 {310}{}{You fail to heal the brahmin's broken leg.}

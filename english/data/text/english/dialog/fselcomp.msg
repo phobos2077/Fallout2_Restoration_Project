@@ -20,7 +20,7 @@
 {119}{}{[You spend about half an hour reading about the goals AHS-9 is trying to achieve. In addition to enlightenment and reunion with the Star Father, it appears that he's also got no qualms about destroying humans who weren't with him from the beginning. He's a little crazy.]}
 {120}{}{Back.}
 {121}{}{Log Off.}
-{122}{}{[The Hubologist Church appears to be hugely wealthy. The standard approach is to ask a new recruit to donate all his or her worldly possessions to the Church as a sign of good faith.  When someone isn't asked to do this, apparently it means the Hubologists aren't intending to deal fairly. They have a huge cache of loot stashed somewhere in the desert. You can't quite figure out the coordinates.]}
+{122}{}{[The Hubologist Church appears to be hugely wealthy. The standard approach is to ask a new recruit to donate all his or her worldly possessions to the Church as a sign of good faith. When someone isn't asked to do this, apparently it means the Hubologists aren't intending to deal fairly. They have a huge cache of loot stashed somewhere in the desert. You can't quite figure out the coordinates.]}
 {123}{}{Back.}
 {124}{}{Log Off.}
 {125}{}{Controls accessed. Select operation.}
@@ -29,11 +29,16 @@
 {128}{}{Back.}
 {129}{}{Log Off.}
 {130}{}{Operation restricted. Consult system administrator. Logging off. Goodbye.}
-{131}{}{-done-}
+{131}{}{[DONE]}
 {132}{}{There doesn't seem to be an interface for that.}
 
 {133}{}{ESS Quetzel fueled and ready to launch.}
 {134}{}{ESS Quetzel unfueled.}
-{135}{}{Mainframe operational. Pipeline operational. Reasearch stations operational. Repair center operational. Cameras operational.}
+{135}{}{Mainframe operational. Pipeline operational. Research stations operational. Repair center operational. Cameras operational.}
 {136}{}{Back.}
 {137}{}{Log off.}
+
+
+{250}{}{Direct fuel to Poseidon tanker.}
+{251}{}{Fuel directed accordingly. Storage tanks = Empty. Closing program.}
+{252}{}{[DONE]}

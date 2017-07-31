@@ -309,7 +309,7 @@
 {3050}{}{A party of raiders.}
 {3051}{}{Some manti.}
 {3052}{}{A group of geckos.}
-{3053}{}{A group of mole rats.}
+{3053}{}{A group of molerats.}
 {3054}{}{A group of radscorpions.}
 {3055}{}{A group of giant rats.}
 {3056}{}{A merchant party.}
@@ -345,13 +345,13 @@
 {3310}{}{Some bounty hunters.}
 {3311}{}{Some bounty hunters.}
 {3312}{}{A band of ruffians led by a Morton Brother.}
-{3313}{}{A group of scorpions.}
+{3313}{}{A group of radscorpions.}
 {3314}{}{A group of spore plants.}
 {3315}{}{A group of pig rats.}
 {3316}{}{A group of rats.}
 {3317}{}{A hunting party fighting cannibals.}
 {3318}{}{A group of ants.}
-{3319}{}{A hunting party fighting some scorpions.}
+{3319}{}{A hunting party fighting some radscorpions.}
 {3320}{}{A small group of pig rats.}
 {3321}{}{A small group of radscorpions.}
 {3322}{}{A small group of ants.}
@@ -361,7 +361,7 @@
 {3326}{}{King Arthur's Knights fighting a rat.}
 
 # Encounter Table 7
-{3350}{}{Toxic waste dump}
+{3350}{}{Toxic waste dump.}
 {3351}{}{A lone surviving dog.}
 {3352}{}{A herd of brahmin.}
 {3353}{}{A war party.}
@@ -377,13 +377,13 @@
 {3363}{}{A group of cannibals.}
 {3364}{}{A group of spore plants and some silver geckos.}
 {3365}{}{A group of silver geckos.}
-{3366}{}{A group of scorpions.}
+{3366}{}{A group of radscorpions.}
 {3367}{}{A group of spore plants.}
 {3368}{}{A group of pig rats.}
 {3369}{}{A group of rats.}
 {3370}{}{A hunting party fighting cannibals.}
 {3371}{}{A group of ants.}
-{3372}{}{A hunting party fighting some scorpions.}
+{3372}{}{A hunting party fighting some radscorpions.}
 {3373}{}{A small group of pig rats.}
 {3374}{}{A small group of radscorpions.}
 {3375}{}{A small group of ants.}
@@ -394,7 +394,7 @@
 {3380}{}{A crashed shuttle.}
 {3381}{}{A Guardian Portal.}
 {3382}{}{King Arthur's Knights.}
-{3383}{}{A tin woodsman}
+{3383}{}{A tin woodsman.}
 {3384}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 8
@@ -411,13 +411,13 @@
 {3410}{}{Some bounty hunters.}
 {3411}{}{Some bounty hunters.}
 {3412}{}{A band of ruffians led by a Morton Brother.}
-{3413}{}{A group of scorpions.}
+{3413}{}{A group of radscorpions.}
 {3414}{}{A group of spore plants.}
 {3415}{}{A group of pig rats.}
 {3416}{}{A group of rats.}
 {3417}{}{A hunting party fighting cannibals.}
 {3418}{}{A group of ants.}
-{3419}{}{A hunting party fighting some scorpions.}
+{3419}{}{A hunting party fighting some radscorpions.}
 {3420}{}{A small group of pig rats.}
 {3421}{}{A small group of radscorpions.}
 {3422}{}{A small group of ants.}
@@ -425,7 +425,7 @@
 {3424}{}{A group of nomads.}
 
 # Encounter Table 9
-{3450}{}{Toxic waste dump}
+{3450}{}{Toxic waste dump.}
 {3451}{}{A lone surviving dog.}
 {3452}{}{A herd of brahmin.}
 {3453}{}{A band of outcasts.}
@@ -433,26 +433,26 @@
 {3455}{}{Some bounty hunters.}
 {3456}{}{Some bounty hunters.}
 {3457}{}{Some bounty hunters.}
-{3358}{}{Some bounty hunters.}
-{3359}{}{Some bounty hunters.}
-{3360}{}{Some bounty hunters.}
-{3361}{}{Some bounty hunters.}
-{3362}{}{A band of ruffians led by a Morton Brother.}
+{3458}{}{Some bounty hunters.}
+{3459}{}{Some bounty hunters.}
+{3460}{}{Some bounty hunters.}
+{3461}{}{Some bounty hunters.}
+{3462}{}{A band of ruffians led by a Morton Brother.}
 {3463}{}{A group of holy people.}
-{3464}{}{Some geckos and some molerats.}
+{3464}{}{Some geckos hiding amongst spore plants.}
 {3465}{}{Some geckos.}
 {3466}{}{Some radscorpions hiding amongst spore plants.}
 {3467}{}{Some spore plants.}
 {3468}{}{A family of radscorpions.}
-{3469}{}{A group of Molerats.}
+{3469}{}{A group of molerats.}
 {3470}{}{A group of holy people staving off a war party.}
-{3471}{}{A band of nomads}
+{3471}{}{A band of nomads.}
 {3472}{}{The remains of a whale.}
 {3473}{}{A giant stone head.}
 {3474}{}{A crashed shuttle.}
 {3475}{}{A Guardian Portal.}
 {3476}{}{King Arthur's Knights.}
-{3477}{}{A tin woodsman}
+{3477}{}{A tin woodsman.}
 {3478}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 10
@@ -472,9 +472,9 @@
 {3513}{}{Some radscorpions hiding amongst spore plants.}
 {3514}{}{Some spore plants.}
 {3515}{}{A family of radscorpions.}
-{3516}{}{A group of Molerats.}
+{3516}{}{A group of molerats.}
 {3517}{}{A group of holy people staving off a war party.}
-{3518}{}{A band of nomads}
+{3518}{}{A band of nomads.}
 {3519}{}{A man guarding a bridge.}
 {3520}{}{King Arthur's Knights fighting a rat.}
 
@@ -506,19 +506,19 @@
 {3574}{}{Some bandits ambushing some homeless people.}
 {3575}{}{Some homeless people butchering some farmers.}
 {3576}{}{Some bandits attacking some farmers.}
-{3577}{}{Some farmers fending off some scorpions.}
-{3578}{}{Some trappers fighting some scorpions.}
+{3577}{}{Some farmers fending off some radscorpions.}
+{3578}{}{Some trappers fighting some radscorpions.}
 {3579}{}{Some trappers attacking some pig rats.}
 {3580}{}{Some farmers rooting out an infestation of pig rats.}
 {3581}{}{Some farmers.}
 {3582}{}{A group of trappers.}
-{3483}{}{The remains of a whale.}
-{3484}{}{A giant stone head.}
-{3485}{}{A crashed shuttle.}
-{3486}{}{A Guardian Portal.}
-{3487}{}{King Arthur's Knights.}
-{3488}{}{A tin woodsman}
-{3489}{}{The Unwashed Villagers hunting a spammer.}
+{3583}{}{The remains of a whale.}
+{3584}{}{A giant stone head.}
+{3585}{}{A crashed shuttle.}
+{3586}{}{A Guardian Portal.}
+{3587}{}{King Arthur's Knights.}
+{3588}{}{A tin woodsman}
+{3589}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 12
 {3600}{}{A pack of golden geckos and a family of radscorpions.}
@@ -545,8 +545,8 @@
 {3621}{}{Some bandits ambushing some homeless people.}
 {3622}{}{Some homeless people butchering some farmers.}
 {3623}{}{Some bandits attacking some farmers.}
-{3624}{}{Some farmers fending off some scorpions.}
-{3625}{}{Some trappers fighting some scorpions.}
+{3624}{}{Some farmers fending off some radscorpions.}
+{3625}{}{Some trappers fighting some radscorpions.}
 {3626}{}{Some trappers attacking some pig rats.}
 {3627}{}{Some farmers rooting out an infestation of pig rats.}
 {3628}{}{Some farmers.}
@@ -555,7 +555,7 @@
 {3631}{}{King Arthur's Knights fighting a rat.}
 
 # Encounter Table 13
-{3650}{}{Toxic waste dump}
+{3650}{}{Toxic waste dump.}
 {3651}{}{A lone surviving dog.}
 {3652}{}{A herd of brahmin.}
 {3653}{}{A merchant and some guards.}
@@ -577,8 +577,8 @@
 {3669}{}{A family of molerats.}
 {3670}{}{Some bandits.}
 {3671}{}{A band of trappers trying to catch some golden geckos.}
-{3672}{}{Some scorpions fighting some golden geckos.}
-{3673}{}{Some scorpions attacking some molerats and pig rats.}
+{3672}{}{Some radscorpions fighting some golden geckos.}
+{3673}{}{Some radscorpions attacking some molerats and pig rats.}
 {3674}{}{Some trappers and a merchant party fending off bandits.}
 {3675}{}{Some golden geckos.}
 {3676}{}{Some trappers fighting some molerats and pig rats.}
@@ -588,11 +588,11 @@
 {3680}{}{A crashed shuttle.}
 {3681}{}{A Guardian Portal.}
 {3682}{}{King Arthur's Knights.}
-{3683}{}{A tin woodsman}
+{3683}{}{A tin woodsman.}
 {3684}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 14
-{3700}{}{Toxic waste dump}
+{3700}{}{Toxic waste dump.}
 {3701}{}{A lone surviving dog.}
 {3702}{}{A herd of brahmin.}
 {3703}{}{A band of highwaymen.}
@@ -623,7 +623,7 @@
 {3728}{}{A crashed shuttle.}
 {3729}{}{A Guardian Portal.}
 {3730}{}{King Arthur's Knights.}
-{3731}{}{A tin woodsman}
+{3731}{}{A tin woodsman.}
 {3732}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 15
@@ -654,7 +654,7 @@
 {3774}{}{King Arthur's Knights fighting a rat.}
 
 # Encounter Table 16
-{3800}{}{Toxic waste dump}
+{3800}{}{Toxic waste dump.}
 {3801}{}{A lone surviving dog.}
 {3802}{}{A herd of brahmin.}
 {3803}{}{A group of slavers and slaves.}
@@ -684,7 +684,7 @@
 {3827}{}{A crashed shuttle.}
 {3828}{}{A Guardian Portal.}
 {3829}{}{King Arthur's Knights.}
-{3830}{}{A tin woodsman}
+{3830}{}{A tin woodsman.}
 {3831}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 17
@@ -715,7 +715,7 @@
 {3900}{}{Some highwaymen and robbers.}
 {3901}{}{Some highwaymen.}
 {3902}{}{A large pack of golden geckos.}
-{3903}{}{Some scorpions hiding in the spore plants.}
+{3903}{}{Some radscorpions hiding in the spore plants.}
 {3904}{}{Some bounty hunters.}
 {3905}{}{Some bounty hunters.}
 {3906}{}{Some bounty hunters.}
@@ -725,7 +725,7 @@
 {3910}{}{Some bounty hunters.}
 {3911}{}{Some bounty hunters.}
 {3912}{}{A band of ruffians led by a Morton Brother.}
-{3913}{}{Some robbers fighting some scorpions.}
+{3913}{}{Some robbers fighting some radscorpions.}
 {3914}{}{Some robbers.}
 {3915}{}{A merchant party attacked by highwaymen.}
 {3916}{}{A merchant party ambushed by robbers.}
@@ -749,7 +749,7 @@
 {3961}{}{Some bounty hunters.}
 {3962}{}{A band of ruffians led by a Morton Brother.}
 {3963}{}{Some wild brahmin.}
-{3964}{}{Some scorpions.}
+{3964}{}{Some radscorpions.}
 {3965}{}{Some moonshiners attacked by some highwaymen.}
 {3966}{}{Some highwaymen attacking some homeless people.}
 {3967}{}{Some moonshiners and farmers.}
@@ -790,7 +790,7 @@
 {4023}{}{King Arthur's Knights fighting a rat.}
 
 # Encounter Table 21
-{4050}{}{Toxic waste dump}
+{4050}{}{Toxic waste dump.}
 {4051}{}{A lone surviving dog.}
 {4052}{}{A herd of brahmin.}
 {4053}{}{Some highwaymen tracking with wild dogs.}
@@ -820,7 +820,7 @@
 {4077}{}{A crashed shuttle.}
 {4078}{}{A Guardian Portal.}
 {4079}{}{King Arthur's Knights.}
-{4080}{}{A tin woodsman}
+{4080}{}{A tin woodsman.}
 {4081}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 22
@@ -847,7 +847,7 @@
 {4120}{}{King Arthur's Knights fighting a rat.}
 
 # Encounter Table 23
-{4150}{}{Toxic waste dump}
+{4150}{}{Toxic waste dump.}
 {4151}{}{A lone surviving dog.}
 {4152}{}{A herd of brahmin.}
 {4153}{}{Some golden geckos.}
@@ -874,11 +874,11 @@
 {4174}{}{A crashed shuttle.}
 {4175}{}{A Guardian Portal.}
 {4176}{}{King Arthur's Knights.}
-{4177}{}{A tin woodsman}
+{4177}{}{A tin woodsman.}
 {4178}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 24
-{4200}{}{Toxic waste dump}
+{4200}{}{Toxic waste dump.}
 {4201}{}{A lone surviving dog.}
 {4202}{}{A herd of brahmin.}
 {4203}{}{Some mutated molerats.}
@@ -906,7 +906,7 @@
 {4225}{}{A crashed shuttle.}
 {4226}{}{A Guardian Portal.}
 {4227}{}{King Arthur's Knights.}
-{4228}{}{A tin woodsman}
+{4228}{}{A tin woodsman.}
 {4229}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 25
@@ -957,7 +957,7 @@
 {4320}{}{King Arthur's Knights fighting a rat.}
 
 # Encounter Table 27
-{4350}{}{Toxic waste dump}
+{4350}{}{Toxic waste dump.}
 {4351}{}{A lone surviving dog.}
 {4352}{}{A herd of brahmin.}
 {4353}{}{A band of slavers and some dogs.}
@@ -984,7 +984,7 @@
 {4374}{}{A crashed shuttle.}
 {4375}{}{A Guardian Portal.}
 {4376}{}{King Arthur's Knights.}
-{4377}{}{A tin woodsman}
+{4377}{}{A tin woodsman.}
 {4378}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 28
@@ -1007,14 +1007,14 @@
 {4416}{}{A bunch of mutated pig rats.}
 {4417}{}{A pack of mutated rats.}
 {4418}{}{Some scavengers battling a bunch of crazies.}
-{4419}{}{Some ghoul scavengers fending off some crazies}
+{4419}{}{Some ghoul scavengers fending off some crazies.}
 {4420}{}{Some geckos fighting some crazies.}
 {4421}{}{Some mutated rats infesting some ghoul scavengers.}
 {4422}{}{A man guarding a bridge.}
 {4423}{}{King Arthur's Knights fighting a rat.}
 
 # Encounter Table 29
-{4450}{}{Toxic waste dump}
+{4450}{}{Toxic waste dump.}
 {4451}{}{A lone surviving dog.}
 {4452}{}{A herd of brahmin.}
 {4453}{}{A slew of scavengers.}
@@ -1044,14 +1044,14 @@
 {4477}{}{A crashed shuttle.}
 {4478}{}{A Guardian Portal.}
 {4479}{}{King Arthur's Knights.}
-{4480}{}{A tin woodsman}
+{4480}{}{A tin woodsman.}
 {4481}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 30
 {4500}{}{Some cannibals.}
 {4501}{}{Some wilders.}
 {4502}{}{A war party.}
-{4503}{}{some outcasts.}
+{4503}{}{Some outcasts.}
 {4504}{}{Some bounty hunters.}
 {4505}{}{Some bounty hunters.}
 {4506}{}{Some bounty hunters.}
@@ -1069,7 +1069,7 @@
 {4518}{}{Some fishermen.}
 
 # Encounter Table 31
-{4550}{}{Toxic waste dump}
+{4550}{}{Toxic waste dump.}
 {4551}{}{A lone surviving dog.}
 {4552}{}{A herd of brahmin.}
 {4553}{}{Some cannibals.}
@@ -1089,7 +1089,7 @@
 {4567}{}{Some geckos and some radscorpions.}
 {4568}{}{Some geckos.}
 {4569}{}{Some radscorpions hiding in some spore plants.}
-{4570}{}{Some scorpions.}
+{4570}{}{Some radscorpions.}
 {4571}{}{Some geckos attacking some outcasts.}
 {4572}{}{Some geckos fighting some wilders.}
 {4573}{}{Some radscorpions fighting some cannibals.}
@@ -1100,7 +1100,7 @@
 {4578}{}{A crashed shuttle.}
 {4579}{}{A Guardian Portal.}
 {4580}{}{King Arthur's Knights.}
-{4581}{}{A tin woodsman}
+{4581}{}{A tin woodsman.}
 {4582}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 32
@@ -1121,7 +1121,7 @@
 {4614}{}{Some geckos and some radscorpions.}
 {4615}{}{Some geckos.}
 {4616}{}{Some radscorpions hiding in some spore plants.}
-{4617}{}{Some scorpions.}
+{4617}{}{Some radscorpions.}
 {4618}{}{Some geckos attacking some outcasts.}
 {4619}{}{Some geckos fighting some wilders.}
 {4620}{}{Some radscorpions fighting some cannibals.}
@@ -1131,7 +1131,7 @@
 {4624}{}{King Arthur's Knights fighting a rat.}
 
 # Encounter Table 33
-{4650}{}{Toxic waste dump}
+{4650}{}{Toxic waste dump.}
 {4651}{}{A lone surviving dog.}
 {4652}{}{A herd of brahmin.}
 {4653}{}{A Den caravan.}
@@ -1160,7 +1160,7 @@
 {4676}{}{A crashed shuttle.}
 {4677}{}{A Guardian Portal.}
 {4678}{}{King Arthur's Knights.}
-{4679}{}{A tin woodsman}
+{4679}{}{A tin woodsman.}
 {4680}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 34
@@ -1189,7 +1189,7 @@
 {4722}{}{King Arthur's Knights fighting a rat.}
 
 # Encounter Table 35
-{4750}{}{Toxic waste dump}
+{4750}{}{Toxic waste dump.}
 {4751}{}{A lone surviving dog.}
 {4752}{}{A herd of brahmin.}
 {4753}{}{Some geckos and some wolves.}
@@ -1204,9 +1204,9 @@
 {4762}{}{A band of ruffians led by a Morton Brother.}
 {4763}{}{Some claim jumpers.}
 {4764}{}{Some wolves.}
-{4765}{}{Some geckos.}
+{4765}{}{Some golden geckos.}
 {4766}{}{Some prospectors fighting some claim jumpers.}
-{4767}{}{Some trappers fighting some geckos.}
+{4767}{}{Some trappers fighting some Golden geckos.}
 {4768}{}{Some bootleggers fighting some wolves.}
 {4769}{}{Some homesteaders fighting some claim jumpers.}
 {4770}{}{Some homesteaders fending off some wolves.}
@@ -1218,14 +1218,14 @@
 {4776}{}{A crashed shuttle.}
 {4777}{}{A Guardian Portal.}
 {4778}{}{King Arthur's Knights.}
-{4779}{}{A tin woodsman}
+{4779}{}{A tin woodsman.}
 {4780}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 36
-{4800}{}{Some geckos and some wolves.}
+{4800}{}{Some golden geckos and some wolves.}
 {4801}{}{Some claim jumpers.}
 {4802}{}{Some wolves.}
-{4803}{}{Some geckos.}
+{4803}{}{Some golden geckos.}
 {4804}{}{Some bounty hunters.}
 {4805}{}{Some bounty hunters.}
 {4806}{}{Some bounty hunters.}
@@ -1236,7 +1236,7 @@
 {4811}{}{Some bounty hunters.}
 {4812}{}{A band of ruffians led by a Morton Brother.}
 {4813}{}{Some prospectors fighting some claim jumpers.}
-{4814}{}{Some trappers fighting some geckos.}
+{4814}{}{Some trappers fighting some golden geckos.}
 {4815}{}{Some bootleggers fighting some wolves.}
 {4816}{}{Some homesteaders fighting some claim jumpers.}
 {4817}{}{Some homesteaders fending off some wolves.}
@@ -1249,8 +1249,8 @@
 # Encounter Table 37
 {4850}{}{A pack of wolves and some molerats.}
 {4851}{}{Some radscorpions and some wolves.}
-{4852}{}{Some mutated molerats and some radscorpions}
-{4853}{}{A pack of geckos.}
+{4852}{}{Some mutated molerats and some radscorpions.}
+{4853}{}{A pack of golden geckos.}
 {4854}{}{Some bounty hunters.}
 {4855}{}{Some bounty hunters.}
 {4856}{}{Some bounty hunters.}
@@ -1263,8 +1263,8 @@
 {4863}{}{A pack of wolves.}
 {4864}{}{A pack of mutated molerats.}
 {4865}{}{A pack of radscorpions}
-{4866}{}{A pack of wolves and some geckos.}
-{4867}{}{Some mutated molerats fighting some geckos.}
+{4866}{}{A pack of wolves and some golden geckos.}
+{4867}{}{Some mutated molerats fighting some golden geckos.}
 {4868}{}{Some molerats fighting some radscorpions.}
 {4869}{}{A man guarding a bridge.}
 {4870}{}{King Arthur's Knights fighting a rat.}
@@ -1293,7 +1293,7 @@
 {4920}{}{King Arthur's Knights fighting a rat.}
 
 # Encounter Table 39
-{4950}{}{Toxic waste dump}
+{4950}{}{Toxic waste dump.}
 {4951}{}{A lone surviving dog.}
 {4952}{}{A herd of brahmin.}
 {4953}{}{A band of raiders.}
@@ -1320,7 +1320,7 @@
 {4974}{}{A crashed shuttle.}
 {4975}{}{A Guardian Portal.}
 {4976}{}{King Arthur's Knights.}
-{4977}{}{A tin woodsman}
+{4977}{}{A tin woodsman.}
 {4978}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 40
@@ -1343,7 +1343,7 @@
 {5016}{}{King Arthur's Knights fighting a rat.}
 
 # Encounter Table 41
-{5050}{}{Toxic waste dump}
+{5050}{}{Toxic waste dump.}
 {5051}{}{A lone surviving dog.}
 {5052}{}{A herd of brahmin.}
 {5053}{}{A band of raiders leading some wolves.}
@@ -1366,11 +1366,11 @@
 {5070}{}{A crashed shuttle.}
 {5071}{}{A Guardian Portal.}
 {5072}{}{King Arthur's Knights.}
-{5073}{}{A tin woodsman}
+{5073}{}{A tin woodsman.}
 {5074}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 42
-{5100}{}{Toxic waste dump}
+{5100}{}{Toxic waste dump.}
 {5101}{}{A lone surviving dog.}
 {5102}{}{A herd of brahmin.}
 {5103}{}{An Enclave Patrol.}
@@ -1388,7 +1388,7 @@
 {5115}{}{A crashed shuttle.}
 {5116}{}{A Guardian Portal.}
 {5117}{}{King Arthur's Knights.}
-{5118}{}{A tin woodsman}
+{5118}{}{A tin woodsman.}
 {5119}{}{The Unwashed Villagers hunting a spammer.}
 {5120}{}{The Cafe of Broken Dreams.}
 
@@ -1412,14 +1412,14 @@
 {5202}{}{Some bounty hunters.}
 {5203}{}{Some bounty hunters.}
 {5204}{}{Some bounty hunters.}
+{5205}{}{Some bounty hunters.}
+{5206}{}{Some bounty hunters.}
+{5207}{}{Some bounty hunters.}
 {5208}{}{Some bounty hunters.}
-{5209}{}{Some bounty hunters.}
-{5210}{}{Some bounty hunters.}
-{5211}{}{Some bounty hunters.}
-{5212}{}{A band of ruffians led by a Morton Brother.}
+{5209}{}{A band of ruffians led by a Morton Brother.}
 
 # Encounter Table 45
-{5250}{}{Toxic waste dump}
+{5250}{}{Toxic waste dump.}
 {5251}{}{A lone surviving dog.}
 {5252}{}{A herd of brahmin.}
 {5253}{}{Some aliens and deathclaws}
@@ -1445,12 +1445,12 @@
 {5273}{}{A crashed shuttle.}
 {5274}{}{A Guardian Portal.}
 {5275}{}{King Arthur's Knights.}
-{5276}{}{A tin woodsman}
+{5276}{}{A tin woodsman.}
 {5277}{}{The Unwashed Villagers hunting a spammer.}
 {5278}{}{The Cafe of Broken Dreams.}
 
 # Encounter Table 46
-{5300}{}{Some aliens and deathclaws}
+{5300}{}{Some aliens and deathclaws.}
 {5301}{}{An army of floaters and centaurs.}
 {5302}{}{Some fire geckos.}
 {5303}{}{A large pack of aliens.}
@@ -1472,7 +1472,7 @@
 {5319}{}{King Arthur's Knights fighting a rat.}
 
 # Encounter Table 47
-{5350}{}{Some aliens and deathclaws}
+{5350}{}{Some aliens and deathclaws.}
 {5351}{}{An army of floaters and centaurs.}
 {5352}{}{Some fire geckos.}
 {5353}{}{A large pack of aliens.}
@@ -1492,7 +1492,7 @@
 {5367}{}{A swarm of floaters.}
 
 # Encounter Table 48
-{5400}{}{Toxic waste dump}
+{5400}{}{Toxic waste dump.}
 {5401}{}{A lone surviving dog.}
 {5402}{}{A herd of brahmin.}
 {5403}{}{A pack of fire geckos.}
@@ -1512,7 +1512,7 @@
 {5417}{}{A crashed shuttle.}
 {5418}{}{A Guardian Portal.}
 {5419}{}{King Arthur's Knights.}
-{5420}{}{A tin woodsman}
+{5420}{}{A tin woodsman.}
 {5421}{}{The Unwashed Villagers hunting a spammer.}
 {5422}{}{The Cafe of Broken Dreams.}
 
@@ -1547,7 +1547,7 @@
 {5511}{}{A band of ruffians led by a Morton Brother.}
 
 # Encounter Table 51
-{5550}{}{Toxic waste dump}
+{5550}{}{Toxic waste dump.}
 {5551}{}{A lone surviving dog.}
 {5552}{}{A herd of brahmin.}
 {5553}{}{A pack of deathclaws.}
@@ -1574,7 +1574,7 @@
 {5574}{}{A crashed shuttle.}
 {5575}{}{A Guardian Portal.}
 {5576}{}{King Arthur's Knights.}
-{5577}{}{A tin woodsman}
+{5577}{}{A tin woodsman.}
 {5578}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 52
@@ -1601,7 +1601,7 @@
 {5620}{}{King Arthur's Knights fighting a rat.}
 
 # Encounter Table 53
-{5650}{}{Toxic waste dump}
+{5650}{}{Toxic waste dump.}
 {5651}{}{A lone surviving dog.}
 {5652}{}{A herd of brahmin.}
 {5653}{}{Some yakuza.}
@@ -1625,7 +1625,7 @@
 {5671}{}{A crashed shuttle.}
 {5672}{}{A Guardian Portal.}
 {5673}{}{King Arthur's Knights.}
-{5674}{}{A tin woodsman}
+{5674}{}{A tin woodsman.}
 {5675}{}{The Unwashed Villagers hunting a spammer.}
 {5676}{}{The Cafe of Broken Dreams.}
 
@@ -1668,7 +1668,7 @@
 {5765}{}{A traveler.}
 
 # Encounter Table 56
-{5800}{}{Toxic waste dump}
+{5800}{}{Toxic waste dump.}
 {5801}{}{A lone surviving dog.}
 {5802}{}{A herd of brahmin.}
 {5803}{}{A band of rogues and some wolves.}
@@ -1693,7 +1693,7 @@
 {5822}{}{A crashed shuttle.}
 {5823}{}{A Guardian Portal.}
 {5824}{}{King Arthur's Knights.}
-{5825}{}{A tin woodsman}
+{5825}{}{A tin woodsman.}
 {5826}{}{The Unwashed Villagers hunting a spammer.}
 
 # Encounter Table 57
@@ -1777,7 +1777,7 @@
 {6016}{}{Hubologists.}
 
 # Encounter Table 61
-{6050}{}{Toxic waste dump}
+{6050}{}{Toxic waste dump.}
 {6051}{}{A lone surviving dog.}
 {6052}{}{A herd of brahmin.}
 {6053}{}{A band of mercenaries.}
@@ -1787,7 +1787,7 @@
 {6057}{}{Some bounty hunters.}
 {6058}{}{Some bounty hunters.}
 {6059}{}{Some bounty hunters.}
-{6050}{}{Some bounty hunters.}
+{6060}{}{Some bounty hunters.}
 {6061}{}{Some bounty hunters.}
 {6062}{}{A band of ruffians led by a Morton Brother.}
 {6063}{}{A press gang.}
@@ -1802,12 +1802,12 @@
 {6072}{}{A crashed shuttle.}
 {6073}{}{A Guardian Portal.}
 {6074}{}{King Arthur's Knights.}
-{6075}{}{A tin woodsman}
+{6075}{}{A tin woodsman.}
 {6076}{}{The Unwashed Villagers hunting a spammer.}
 {6077}{}{The Cafe of Broken Dreams.}
 
 # Encounter Table 62
-{6100}{}{Toxic waste dump}
+{6100}{}{Toxic waste dump.}
 {6101}{}{A lone surviving dog.}
 {6102}{}{A herd of brahmin.}
 {6103}{}{A band of mercenaries.}
@@ -1834,7 +1834,7 @@
 {6124}{}{A crashed shuttle.}
 {6125}{}{A Guardian Portal.}
 {6126}{}{King Arthur's Knights.}
-{6127}{}{A tin woodsman}
+{6127}{}{A tin woodsman.}
 {6128}{}{The Unwashed Villagers hunting a spammer.}
 {6129}{}{The Cafe of Broken Dreams.}
 
@@ -1860,7 +1860,7 @@
 {6168}{}{A caravan.}
 
 # Encounter Table 64
-{6200}{}{Toxic waste dump}
+{6200}{}{Toxic waste dump.}
 {6201}{}{A lone surviving dog.}
 {6202}{}{A herd of brahmin.}
 {6203}{}{An Enclave patrol.}
@@ -1881,7 +1881,7 @@
 {6218}{}{A crashed shuttle.}
 {6219}{}{A Guardian Portal.}
 {6220}{}{King Arthur's Knights.}
-{6221}{}{A tin woodsman}
+{6221}{}{A tin woodsman.}
 {6222}{}{The Unwashed Villagers hunting a spammer.}
 {6223}{}{The Cafe of Broken Dreams.}
 
@@ -1903,7 +1903,7 @@
 {6264}{}{King Arthur's Knights fighting a rat.}
 
 # Encounter Table 66
-{6300}{}{Toxic waste dump}
+{6300}{}{Toxic waste dump.}
 {6301}{}{A lone surviving dog.}
 {6302}{}{A herd of brahmin.}
 {6303}{}{A caravan fending off remnants of the Master's army.}
@@ -1926,7 +1926,7 @@
 {6320}{}{A crashed shuttle.}
 {6321}{}{A Guardian Portal.}
 {6322}{}{King Arthur's Knights.}
-{6323}{}{A tin woodsman}
+{6323}{}{A tin woodsman.}
 {6324}{}{The Unwashed Villagers hunting a spammer.}
 {6325}{}{The Cafe of Broken Dreams.}
 
@@ -1966,7 +1966,7 @@
 {6413}{}{King Arthur's Knights fighting a rat.}
 
 # Encounter Table 69
-{6450}{}{Toxic waste dump}
+{6450}{}{Toxic waste dump.}
 {6451}{}{A lone surviving dog.}
 {6452}{}{A herd of brahmin.}
 {6453}{}{A pack of wolves.}
@@ -1986,12 +1986,12 @@
 {6467}{}{A crashed shuttle.}
 {6468}{}{A Guardian Portal.}
 {6469}{}{King Arthur's Knights.}
-{6470}{}{A tin woodsman}
+{6470}{}{A tin woodsman.}
 {6471}{}{The Unwashed Villagers hunting a spammer.}
 {6472}{}{The Cafe of Broken Dreams.}
 
 # Encounter Table 70
-{6500}{}{Toxic waste dump}
+{6500}{}{Toxic waste dump.}
 {6501}{}{A lone surviving dog.}
 {6502}{}{A herd of brahmin.}
 {6503}{}{A band of marauders.}
@@ -2020,7 +2020,7 @@
 {6526}{}{A crashed shuttle.}
 {6527}{}{A Guardian Portal.}
 {6528}{}{King Arthur's Knights.}
-{6529}{}{A tin woodsman}
+{6529}{}{A tin woodsman.}
 {6530}{}{The Unwashed Villagers hunting a spammer.}
 {6531}{}{The Cafe of Broken Dreams.}
 
@@ -2071,7 +2071,7 @@
 {6618}{}{King Arthur's Knights fighting a rat.}
 
 # Encounter Table 73
-{6650}{}{Toxic waste dump}
+{6650}{}{Toxic waste dump.}
 {6651}{}{A lone surviving dog.}
 {6652}{}{A herd of brahmin.}
 {6653}{}{A detachment of the Master's armies.}
@@ -2096,7 +2096,7 @@
 {6672}{}{A crashed shuttle.}
 {6673}{}{A Guardian Portal.}
 {6674}{}{King Arthur's Knights.}
-{6675}{}{A tin woodsman}
+{6675}{}{A tin woodsman.}
 {6676}{}{The Unwashed Villagers hunting a spammer.}
 {6677}{}{The Cafe of Broken Dreams.}
 
@@ -2119,7 +2119,7 @@
 {6715}{}{King Arthur's Knights fighting a rat.}
 
 # Encounter Table 75
-{6750}{}{Toxic waste dump}
+{6750}{}{Toxic waste dump.}
 {6751}{}{A lone surviving dog.}
 {6752}{}{A herd of brahmin.}
 {6753}{}{Remnants of the Master's army fighting mutated molerats.}
@@ -2141,6 +2141,6 @@
 {6769}{}{A crashed shuttle.}
 {6770}{}{A Guardian Portal.}
 {6771}{}{King Arthur's Knights.}
-{6772}{}{A tin woodsman}
+{6772}{}{A tin woodsman.}
 {6773}{}{The Unwashed Villagers hunting a spammer.}
 {6774}{}{The Cafe of Broken Dreams.}

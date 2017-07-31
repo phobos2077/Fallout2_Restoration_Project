@@ -18,11 +18,11 @@
 #  The following lines are for describing the NPC when      #
 #  glanced and and examined.                                #
 #############################################################
-{100}{}{A small boy.}
-{101}{}{A little girl.}
+{100}{}{You see a small boy.}
+{101}{}{You see a little girl.}
 
-{120}{}{A small boy. He seems rather playful.}
-{121}{}{A little girl. She seems rather playful.}
+{120}{}{You see a small boy. He seems rather playful.}
+{121}{}{You see a little girl. She seems rather playful.}
 #############################################################
 #  The following lines are floaters for children            #
 #############################################################
@@ -58,13 +58,13 @@
 {179}{}{You don't smell that bad.}
 {180}{}{Have you seen my invisible friend?}
 {181}{}{I want to travel the world when I'm as old as you.}
-{182}{}{You’re a nice tribal, not like the others.}
+{182}{}{You're a nice tribal, not like the others.}
 {183}{}{I bet you do bathe.}
-{184}{}{You’re smarter than Torr.}
+{184}{}{You're smarter than Torr.}
 {185}{}{Is that blade you have really sharp?}
 {186}{}{I want to be just like you when I grow up.}
 {187}{}{My dog loves drymeat.}
-{188}{}{I’ve got a shiny pebble.}
+{188}{}{I've got a shiny pebble.}
 {189}{}{Have you seen my invisible friend?}
 
 {190}{}{Can I join your tribe?}
@@ -91,7 +91,7 @@
 {211}{}{What do you do?}
 {212}{}{I can run fast. Wanna see?}
 {213}{}{Watch me! Watch me!}
-{214}{}{Mommy says I talk to much.}
+{214}{}{Mommy says I talk too much.}
 {215}{}{Where is your home?}
 {216}{}{Heeee! Heeee!}
 {217}{}{Are you gonna stay here?}

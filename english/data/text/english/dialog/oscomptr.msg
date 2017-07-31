@@ -10,9 +10,7 @@
 {108}{}{Leave it alone.}
 {109}{}{You gaze at the console for a while and decide upon the best spot to place a punch. After giving
  it your best 'this'll fix it' hit, the monitor flashes a couple of times and then stabilizes. There is
- no other effect.
-
-What do you do?}
+ no other effect. What do you do?}
 {110}{}{Kick it in that 'special' spot.}
 {111}{}{Run the diagnostic program.}
 {112}{}{Open it up and look inside.}
@@ -42,7 +40,7 @@ What do you do?}
 {129}{}{You are the last, Gruthar. The stain of your kind will soon be wiped clean.}
 {130}{}{You tell your so-called President that he will burn for this.}
 {131}{}{Whatever. You were never anything more than a talking animal.}
-{132}{}{That may be, but we were created through your experimentation. Your gave us life!}
+{132}{}{That may be, but we were created through your experimentation. You gave us life!}
 {133}{}{And now I give you death.}
 {134}{}{Take his body. The doctor wanted a specimen.}
 {135}{}{Their blood will run like the Nile!}

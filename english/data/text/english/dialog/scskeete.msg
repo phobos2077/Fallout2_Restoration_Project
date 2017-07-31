@@ -1,8 +1,8 @@
 {100}{}{You see a thin-looking punk.}
 {101}{}{It's Doofus, the car hop.}
-{102}{}{This guy's a ragged little weed, full twitches and tics, no doubt a reliance on something.}
-{103}{}{That's fine transport, man, truly fine! Oh man, I am the one for you - watch your car, keep it safe from the bedbugs. Five bucks, no problem.  Five bucks and Doofus is on the job! Never sleep - 24 hour, always there, man.}
-{104}{}{I am the car hop, man. I watch cars -  $5. Nobody touches them, cause Doofus's on the job.}
+{102}{}{This guy's a ragged little weed, full twitches and tics, no doubt an addict of something.}
+{103}{}{That's a fine transport, man, truly fine! Oh man, I am the one for you - watch your car, keep it safe from the bedbugs. Five bucks, no problem. Five bucks and Doofus is on the job! Never sleep - 24 hour, always there, man.}
+{104}{}{I am the car hop, man. I watch cars - $5. Nobody touches them, cause Doofus's on the job.}
 {105}{}{Right, sure man.}
 {106}{}{So man, you want my protection?}
 {107}{}{Good. Do..}
@@ -25,7 +25,7 @@
 {124}{}{What do you do?}
 {125}{}{What is this place?}
 {126}{}{Nothing. Thought you were somebody else. Bye.}
-{127}{}{Whoa, man, I warned you. Bad place. Bad folks around here. Heard your transport got jacked.}
+{127}{}{Whoa, man, I warned you. Bad place. Bad folks around here. Heard stuff from your transport got jacked.}
 {128}{}{Brak?}
 {129}{}{How did you know?}
 {130}{}{Great. Thanks. Fine.}
@@ -34,16 +34,16 @@
 {133}{}{Good. Shut up.}
 {134}{}{If you ain't got the jack, just get the fuck out of here! I got important things to do.}
 {135}{}{Hey man, Doofus warned you.}
-{136}{}{Fuck you. I not answering your questions.}
+{136}{}{Fuck you. I am not answering your questions.}
 {137}{}{What is this place?}
-{138}{}{Goodbye}
+{138}{}{Goodbye.}
 {139}{}{Bye-bye.}
 {140}{}{Whoa, thought communication! I'm picking up mental vibes! Okay, let me try... uhhh.... Uhhh...}
 {141}{}{Yes?}
 {142}{}{No?}
 {143}{}{You are a goddamn head case! I'm out of here.}
 {144}{}{This is the NCR - the high, mighty, righteous, absolutely and always correct New California Republic. They are the ones who will lead people like us out of the wasteland and into the new and perfect future. Can you dig it?}
-{145}{}{Let's get this business finished}
+{145}{}{Let's get this business finished.}
 {146}{}{Yeah, thanks. Goodbye.}
 {147}{}{Gurg, ladal spaf!}
 {148}{}{TAK!}
@@ -52,9 +52,8 @@
 {151}{}{Man that's a lot. Giant, I'm Doofus and I'm a car hop and I'm supposed to watch cars that people bring here, but, you know, I got this...thing, see, and sometimes I need a little extra money and stuff, see?}
 {152}{}{Yeah, right. So like sometimes I'm a little short and I got my needs, understand, like when I start feeling sick, so I gotta score me some caps or something, so I'll go talk to Merk.}
 {153}{}{Man, Merk's the man. He's got action and stuff. Sometimes he'll let me get sleep at the Rawhide after closing. But then he wants me to do little favors.}
-{154}{}{I'm getting to that - wow, the colors, man!  Merk he sometimes wants stuff from cars I watch. But I fool him!}
-{155}{}{See I only take from the cars I ain't paid to watch. He thinks I'm jacking my customers, but I don't do that.
-   Man, I got to quit talking. I'm like seeing things...oh, man, the glow. It's all about glowing.}
+{154}{}{I'm getting to that - wow, the colors, man! Merk he sometimes wants stuff from cars I watch. But I fool him!}
+{155}{}{See I only take from the cars I ain't paid to watch. He thinks I'm jacking my customers, but I don't do that. Man, I got to quit talking. I'm like seeing things...oh, man, the glow. It's all about glowing.}
 {156}{}{Give me all your stuff.}
 {157}{}{Tell me what you know.}
 {158}{}{That's enough, I can't take any more.}
@@ -71,16 +70,16 @@
 {169}{}{Okay! Look it was Merk's crew. They were jacking cars last night. Ask around and you might find them.}
 {170}{}{You lie, me kill.}
 {171}{}{Don't be lying. I'll be back if you are.}
-{172}{}{Sure.  You've got me terrified.}
+{172}{}{Sure. You've got me terrified.}
 {173}{}{$50 bucks says you remember it right.}
-{174}{}{Bite me, stupid man.}
+{174}{}{Bite me, little man.}
 {175}{}{Bite me. I'm out of here.}
 {176}{}{Need a car watched? No problem. I can do that.}
 
 {177}{}{Yeah, I WatCH cars, yeah, CARS...CARS..yeah, cars...!}
 {178}{}{LA LA LA LA CARS, hey gimme a Car and I'LL WATCH IT..}
 {179}{}{WATCH watch watch WATCH watch WATch WHHAATCH watch}
-{180}{}{Wrote a song about it wana here it here it goes}
+{180}{}{Wrote a song about it, wanna hear it? Here it goes...}
 {181}{}{Cars CARRS CARS Cars KARS KKKARS Cars CATS}
 {182}{}{Kats?! Yeah, I can watch cats too. Anyone have a CAT!!}
 {183}{}{I LIKE CATS THE WORD SOUNDS LIKE CAR AND THATS WHAT I WATCH!}

@@ -1,5 +1,5 @@
 {100}{}{You see a man in a military uniform.}
-{101}{}{You see Quincy the mechanic.}
+{101}{}{You see Quincy, the mechanic.}
 {102}{}{You see a man in a military uniform. Judging by the grease spots you think
  he is more of a mechanic than a soldier.}
 
@@ -32,7 +32,7 @@
  anyone who asks for them. What do you want with them?}
 {125}{}{Me got friends down south who want.}
 {126}{}{Uh... well...}
-{127}{}{I've got some friends down south who want to get their hands on them}
+{127}{}{I've got some friends down south who want to get their hands on them.}
 {128}{}{I was told by the Sarge to get them.}
 
 {129}{}{Down south... Holy shit! We've got a spy here! Guards! Alert!}

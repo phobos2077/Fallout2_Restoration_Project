@@ -36,15 +36,15 @@
 {156}{}{Gods protect you on your journey.}
 {157}{}{I do have a question for you.}
 {158}{}{Goodbye, my friend.}
-{159}{}{Go see Hakunin in the north corner of the village.  He can help you.}
-{160}{}{Thank you.  Goodbye.}
+{159}{}{Go see Hakunin in the northern corner of the village. He can help you.}
+{160}{}{Thank you. Goodbye.}
 {161}{}{Oh, it's not my place to deal with the traders. Talk to Mynoc, the guardian of the
  great bridge. He sees them all.}
-{162}{}{Thank you.  Goodbye.}
+{162}{}{Thank you. Goodbye.}
 {163}{}{Could you tell me where the great bridge is located?}
 {164}{}{One more question, if I may.}
 {165}{}{Good joke, Chosen One! You know where it is. That way -- to the south.}
-{166}{}{Thank you.  Goodbye.}
+{166}{}{Thank you. Goodbye.}
 {167}{}{One more question, if I may.}
 {168}{}{Of course, what is it?}
 {169}{}{Could you tell me where I can find some healing herbs?}
@@ -72,8 +72,7 @@
 {301}{}{Chosen One, our people are dying. You must hurry your search for the holy GECK. What may I do to aid you in this most holy of quests?}
 
 # Starting Dialog after 3rd Hakunin Movie
-{302}{}{We are running out of time, Chosen One. Please, finish your holy quest soon. We can
- not afford to wait much longer. If there's anythying I can do to help you to save us, let me know.}
+{302}{}{We are running out of time, Chosen One. Please, finish your holy quest soon. We cannot afford to wait much longer. If there's anything I can do to help you to save us, let me know.}
 
 # Starting Dialog after 4th Hakunin Movie
 {303}{}{Chosen One, our village is almost dead... you're our only hope. Is there anything
@@ -100,12 +99,12 @@
 {1101}{}{Our great ancestor who gave us knowledge.}
 {1102}{}{The first to fight and win over chaos.}
 {1103}{}{That would be our beautiful village.}
-{1104}{}{That’s a trading outpost a few days east of here.}
+{1104}{}{That's a trading outpost a few days east of here.}
 {1105}{}{The Vault is heaven.}
 {1106}{}{You are the Chosen One.}
-{1107}{}{He heals us with his herbs and magic. He is in the north part
+{1107}{}{He heals us with his herbs and magic. He is in the northern part
  of our village.}
-{1108}{}{He heals us with his herbs and magic. He is in the north part
+{1108}{}{He heals us with his herbs and magic. He is in the northern part
  of our village.}
 {1109}{}{It is a magic powder which will heal you, but will make you
  sleepy.}

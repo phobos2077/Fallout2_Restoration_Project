@@ -62,7 +62,7 @@
 
 # 11. ME COME (10, 28)
 {280}{}{Exactly…}
-{281}{}{Follow her.}
+{281}{}{[Follow her.]}
 
 # 12. ME NO GO (8, 9, 10)
 {290}{}{Aw, come on! Pleeeease? I really wanted to show you my room. It'll just take a second, I promise.}
@@ -144,7 +144,7 @@
 # 23. UNDERSTOOD. SURE GLAD WE GOT THAT FAMILY ID THING CLEARED UP. (19)
 {410}{}{Yeah, it's best you know how things stand around here. (Looks you up and down.)}
 {411}{}{Uh...}
-{413}{}{(Stand there uncomfortably while she checks you out.)}
+{413}{}{[Stand there uncomfortably while she checks you out.]}
 
 # 24. GIRL, YOU'RE TROUBLE/LET'S STOP THIS RIGHT NOW/CALM DOWN. I WAS JUST JOKING WITH YOU (19, 20)
 {420}{}{All right then... (Looks you up and down.)}
@@ -241,7 +241,7 @@
 
 # 38. YEAH, YEAH/GET OUT OF HERE, YOU LIL BITCH (36, 37)
 {580}{}{(She sneers at you, then turns and stomps away.)}
-{581}{}{(Walk away.)}
+{581}{}{[Walk away.]}
 
 # 39. YOU SAY ONE WORD TO OL' DADDY . . . (36, 37, 44)
 {590}{}{(She continues to glare at you, but she seems uncertain. She bites her lip, then walks away hurriedly.)}
@@ -269,8 +269,8 @@
 
 # 45. CALL BLUFF (35)
 {650}{}{No, I think that's a bet YOU'RE going to lose, bitch. Just try it.}
-{651}{}{(Attack her.)}
-{652}{}{(Let it go.)}
+{651}{}{[Attack her.]}
+{652}{}{[Let it go.]}
 
 # 46. FLOAT MESSAGES (WTG)
 {660}{}{Stay away from me. I haven't got anything to say to you.}
@@ -304,7 +304,7 @@
 {810}{}{(Angela leads you up to her room on the third floor. There, she opens a little door in the wall, takes out a strange
  plastic bottle, and offers it to you.) Want some, baby? There's more than enough for both of us to fly.}
 {811}{}{(Angela leads you up to her room on the third floor. While there, she cracks open a safe in the wall, takes out some
- Jet, and offers some to you.) Want some, baby?  There's more than enough for both of us to fly.}
+ Jet, and offers some to you.) Want some, baby? There's more than enough for both of us to fly.}
 {812}{}{Uh-huh}
 {813}{}{Unh-unh}
 
@@ -319,5 +319,5 @@
 {830}{}{(Angela's eyes blaze with rage. She jumps up from the bed and starts screaming her head off!)
  Rape! Help! Rape!}
 {831}{}{Shhhh! If you dont be quiet, George won't let me play with th'rabbitz! Shhhh!}
-{832}{}{No screem! No screem!}
+{832}{}{No scream! No scream!}
 {833}{}{I am SO out of here.}

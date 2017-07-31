@@ -1,6 +1,6 @@
 {100}{}{You see a mobster.}
 {101}{}{Well, well - what have we got here?}
-{102}{}{Simple travellers, eh? Ain't no such thing. You need help with any of your valuables? }
+{102}{}{Simple travelers, eh? Ain't no such thing. You need help with any of your valuables? }
 {103}{}{Watch where you're walking around Reno, or you're gonna get hurt. Stay outta my way.}
 {104}{}{Hello, }
 {105}{}{.}

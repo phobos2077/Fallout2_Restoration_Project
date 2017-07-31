@@ -2,10 +2,10 @@
 {101}{}{You see Ariel, the widow.}
 {102}{}{You see a short, slender woman wearing a blue velvet sun dress.  She appears to be sad.}
 {103}{}{Hello, I'm Ariel. I don't think I've seen you here before. Who are you?}
-{104}{}{Me }
+{104}{}{Me}
 {105}{}{Uh... you look sad. Why?}
 {106}{}{Me go now.}
-{107}{}{Hello, Ariel, my name is }
+{107}{}{Hello, Ariel, my name is}
 {108}{}{Hi. You're looking rather down. What's up?}
 {109}{}{You don't need to know my name, but I need some information from you.}
 {110}{}{Sorry. I don't have time for this.}
@@ -67,7 +67,7 @@
 {162}{}{Tough break. I'll be seeing ya.}
 {163}{}{Shit happens, people die. Usually when I'm around.}
 {164}{}{I've already told you about the raid. That's when it happened.}
-{165}{}{My husband and I were travelling with a caravan on its way to the New California Republic. We
+{165}{}{My husband and I were traveling with a caravan on its way to the New California Republic. We
  wanted to start a new life for ourselves and our daughter, Sandy. Unfortunately, the caravan was
  attacked by raiders one night. They were incredibly brutal. They killed everyone: men, women, and
  children. Rand, my husband, died trying to defend Sandy and me. We were to die next when a miracle

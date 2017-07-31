@@ -115,7 +115,7 @@
 {6354}{}{. }
 {7354}{}{ not like.}
 {355}{}{ has killed a lot of little loud people like you…maybe you next?}
-{356}{}{Wander off.}
+{356}{}{[Wander off.]}
 
 # 11. NUH-UH 1 (10)
 {360}{}{UH-HUH. We saw it.}
@@ -127,7 +127,7 @@
 {370}{}{Uh-huh! I'll show you! A bunch of us are going over there when it gets REALLY dark. }
 {371}{}{Uh-huh! I'll show you! A bunch of us are going over there tonight. }
 {372}{}{Wanna come? (The little person squints at you.) But you gotta be reeeally quiet. Reeeeally quiet.}
-{373}{}{Okee-dokee (Follow him.)}
+{373}{}{Okee-dokee [Follow him.]}
 {374}{}{Okee-dokee, me go wit…oooooh, that sand over there?}
 
 # 13. DON'T SHOUT. X NO LIKE SHOUT. (10, 13, 21)
@@ -147,7 +147,7 @@
 {400}{}{I'm not lying, stupid! A bunch of us are going over there when it gets REALLY dark. }
 {401}{}{I'm not lying, stupid! A bunch of us are going over there tonight. }
 {403}{}{DON'T call me stoopid, STOOPID}
-{404}{}{Uh-huh (Follow him.)}
+{404}{}{Uh-huh [Follow him.]}
 {405}{}{Okee-dokee, me want to com…oooooh, that sand over there?}
 
 # 16. WHERE HE SEE INCEST? I WANNA SEE IT TOO (14)
@@ -159,7 +159,7 @@
 {420}{}{It's not a pot, STUPID! It's my helmet!}
 {421}{}{Whoa, sorry there, fearsome helmed warrior.}
 {422}{}{Call me stupid AGAIN, you little shit, and we'll see how well that 'helmet' protects you from a gaping head wound.}
-{423}{}{(Let him play with his 'helmet.')}
+{423}{}{[Let him play with his 'helmet.']}
 
 # 18. WHOA, SORRY THERE, FEARSOME HELMED WARRIOR. (17)
 {430}{}{(Glares at you suspiciously.) Whaddya want?}
@@ -189,8 +189,8 @@
 {471}{}{Look: In the wrong hands, a gun is a deadly weapon. Well, I mean, it's ALWAYS a deadly weapon, but in the wrong hands…it's, uh…deadly…hold on, let me start over.}
 {472}{}{Look, if your family trusted you with a gun they would have given you one. Forget it.}
 {473}{}{I don't care if you're in Family Badass, you ain't getting this gun.}
-{474}{}{Well, all right. (Give him an unloaded pistol.)}
-{475}{}{Well, all right. (Give him a loaded pistol.)}
+{474}{}{Well, all right. [Give him an unloaded pistol.]}
+{475}{}{Well, all right. [Give him a loaded pistol.]}
 {476}{}{Forget it. Go play with your friends.}
 
 # 22. METAL INSECTS? TELL ME ABOUT THE METAL INSECTS. (28)
@@ -258,7 +258,7 @@
 # 31. WHY DON'T YOU GO POINT IT AT DADDY? (28)
 {590}{}{Okay! (He runs off.)}
 {591}{}{Well, THIS little act of evil might take a while to bear fruit…better leave the area and come back.}
-{592}{}{(Calmly leave the vicinity, whistling innocently.)}
+{592}{}{[Calmly leave the vicinity, whistling innocently.]}
 
 # 32. WHERE ARE YOUR PARENTS? (7, 18)
 {600}{}{(Shrugs.) Daddy's in the house, Mommy's at church.}
@@ -278,7 +278,7 @@
 # 36. GO OUT INTO DESERT (12, 15, 16, 24, 27)
 {640}{}{You wait until it gets a little darker...}
 {641}{}{You wait until it gets dark...}
-{642}{}{...then you follow the kids into the desert.}
+{642}{}{[...then you follow the kids into the desert.]}
 
 # 37. SCREAMING
 {700}{}{GET AWAY FROM ME!}
@@ -290,7 +290,7 @@
 # 38. THANKS
 {710}{}{Hey, thanks for the cool gun, mister.}
 {711}{}{Did I tell you I love my new gun you gave me?}
-{711}{}{Hey, thanks for the cool gun, lady.}
+{712}{}{Hey, thanks for the cool gun, lady.}
 
 # 39. LOST GUN
 {720}{}{Did one of you jerks take my gun this guy gave to me?}

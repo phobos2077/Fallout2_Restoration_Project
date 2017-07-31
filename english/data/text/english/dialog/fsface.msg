@@ -112,11 +112,11 @@
 {211}{}{Uh... How you feel?}
 {212}{}{Me change subject}
 {213}{}{Hmmm. So tell me, Ace. How do you feel?}
-{214}{}{It's time to change the jubject.}
+{214}{}{It's time to change the subject.}
 {215}{}{I... I sometimes think that I understand the feeling you call loneliness. I find it very... disconcerting. I...}
 {216}{}{Me sorry. We talk other thing.}
 {217}{}{I'm sorry, Ace. Let's change the subject.}
-{218}{}{Outward appearances suggest that the Enclave is nothing more than a military organization. However, their level of technology indicates that they have access to advanced manufacturing techniques and research facilities. Such facilities would normally only be available to government agencies. This would suggest that the Enclave is the remains of the local or federal government that was in effect before the war.}
+{218}{}{Outward appearances suggest that the Enclave is nothing more than a military organization. However, their level of technology indicates that they have access to advanced manufacturing techniques and research facilities. Such facilities would normally only be available to government agencies. This would suggest that the Enclave is the remnants of the local or federal government that was in effect before the war.}
 {219}{}{Ok.}
 {220}{}{That's interesting.}
 
@@ -132,7 +132,7 @@
 {227}{}{You and your so-called President will not succeed.}
 {228}{}{Is that so?}
 {229}{}{The Chosen One has come, and he will rid the world of your evil.}
-{230}{}{I care nothing for your pathetic prophecies. Worse, you have become a nusiance through your meddling. That ends today!}
+{230}{}{I care nothing for your pathetic prophecies. Worse, you have become a nuisance through your meddling. That ends today!}
 {231}{}{Killing me will stop nothing.}
 {232}{}{That may be, but seeing your body rotting on the ground will bring a smile to my face.}
 

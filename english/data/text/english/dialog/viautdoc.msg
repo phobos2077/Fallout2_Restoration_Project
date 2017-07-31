@@ -1,4 +1,4 @@
-{100}{}{You see an Auto-Doc}
+{100}{}{You see an Auto-Doc.}
 {101}{}{You see an ancient-looking Auto-Doc. Despite its age, you have managed to coax it back into working order.}
 {102}{}{You see an Auto-Doc.}
 {103}{}{You see an ancient-looking Auto-Doc. Despite its age, you have managed to coax it back into working order.}

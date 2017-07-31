@@ -1,11 +1,11 @@
 {100}{}{You see a pudgy guy with a shiny bald head and thick-lensed glasses.}
-{101}{}{It's Dr. Henry}
+{101}{}{It's Dr. Henry.}
 {102}{}{This guy is so out of place it's painful. He's got that egghead, not living in the real world air about him, that's for sure.}
 {103}{}{Excuse me, I'm Dr. Henry and I'm very busy. What do you want?}
 {104}{}{You again? What do you want?}
 {105}{}{Hurgh.}
 {106}{}{I'm}
-{107}{}{Enough chit-chat. You've got some papers Mr. Merk wants. Hand em over and nobody gets hurt.}
+{107}{}{Enough chit-chat. You've got some papers Mr. Merk wants. Hand 'em over and nobody gets hurt.}
 {108}{}{Ever heard of a place called the Enclave?}
 {109}{}{None of your business.}
 {110}{}{Hmm, sub-par cranial development... Stunted intellectual development. No gross physical mutation, though. No, you just simply won't do, I'm afraid. Good day.}
@@ -19,7 +19,7 @@
 {118}{}{Experiment? What experiment?}
 {119}{}{What's this about cyber-genetics?}
 {120}{}{You expect me to believe any of this? You are a loon.}
-{121}{}{Oh, it's a whole new field - very exciting. Why I'm working on some projects right now - a radical new concept for the mutant problem.  You see, it's really quite simple - mutancy isn't absolute. It can be cured.}
+{121}{}{Oh, it's a whole new field - very exciting. Why I'm working on some projects right now - a radical new concept for the mutant problem.  You see, it's really quite simple - mutantcy isn't absolute. It can be cured.}
 {122}{}{Of course, my simple-minded colleagues were just trying to solve the whole problem the crudest way possible. Purification, indeed. I'll admit there were some early problems, but I've got them worked out now...I think.}
 {123}{}{}
 {124}{}{Continue}
@@ -32,12 +32,12 @@
 {131}{}{You? Oh, no - the serum's not refined enough to handle such a low mutagenic quotient. It must be used on a super-mutant. Inject the serum into a super-mutant and then come back and report the results. I understand Broken Hills is full of them.}
 {132}{}{What's it do?}
 {133}{}{What's in it for me?}
-{134}{}{Well, it should cause a regression in the genetic matrix that results in the destabilization and assimilation of abberant DNA, leaving the host free of mutagenic potential. If I knew for sure, I wouldn't need you to test it.}
+{134}{}{Well, it should cause a regression in the genetic matrix that results in the destabilization and assimilation of aberrant DNA, leaving the host free of mutagenic potential. If I knew for sure, I wouldn't need you to test it.}
 {135}{}{What's in it for me?}
-{136}{}{You'll be participating in an important experiment, in fact, the most important, scientific-oh, you mean money. Well, I do have a Cyber-Hound Mk. II, Personal Security Model, that I brought with me. I suppose I could have it activated and on-line by the time you got back. Would that do?}
+{136}{}{You'll be participating in an important experiment, in fact, the most important, scientific-oh, you mean money. Well, I do have a Cyber-Hound Mk. II, Personal Security Model that I brought with me. I suppose I could have it activated and on-line by the time you got back. Would that do?}
 {137}{}{Cyber-hound? Sure, why not.}
 {138}{}{You are out of your mind. Just completely loony.}
-{139}{}{Excellent. Here's the serum, fitted up in an stim hypo. All you have to do is use it on a super-mutant and then report back to me. Like I said, Broken Hills - that's the place to look. Good luck.}
+{139}{}{Excellent. Here's the serum, fitted up in a stim hypo. All you have to do is use it on a super-mutant and then report back to me. Like I said, Broken Hills - that's the place to look. Good luck.}
 {140}{}{Tell your Mr. Merk that my answer hasn't changed. I have no interest in any of his "joint ventures." Thank you and good day.}
 {141}{}{It's no use, I'm not going back. None of you appreciated the work I was doing, so don't pretend to be my friend. Thank you very much!}
 {142}{}{Well then, we've nothing to talk about. Good day.}
@@ -55,7 +55,7 @@
 {154}{}{What about my pay?}
 {155}{}{You're a monster! I want nothing to do with you.}
 {156}{}{Of course. The cyberdog is all yours. Now, I have work to do.}
-{157}{}{...so the mutation rate stablizes over-don't bother me now.}
+{157}{}{...so the mutation rate stabilizes over-don't bother me now.}
 {158}{}{Primitive adaptation to environmental conditions. Fascinating.}
 {159}{}{You don't have an oscillating calibrator? No, of course not.}
 {160}{}{, the Chosen One. I'm looking for Vault 13.}

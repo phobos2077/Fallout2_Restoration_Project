@@ -10,7 +10,7 @@
 {109}{}{Heh. Kill.}
 {110}{}{Good enough.}
 {111}{}{I'm not into violence.}
-{112}{}{Well, here's my stock. Make sure to look at all my tables for more inventory. If you  don't like what I got, get your ass to that shyster Buster. Of course, he'll rob you blind.}
+{112}{}{Well, here's my stock. Make sure to look at all my tables for more inventories. If you don't like what I got, get your ass to that shyster Buster. Of course, he'll rob you blind.}
 {113}{}{Well, sounds like you'll do. We're looking for guards for a brahmin drive up to Redding. Pay's $2000 minus any stock lost before you get there. If you're interested, be at the gate to Westin's place tomorrow. If you don't show, you don't go. Deal?}
 {114}{}{Me come.}
 {115}{}{No like. Me no do.}
@@ -26,14 +26,14 @@
 {125}{}{Where can I find Frank Carlson?}
 {126}{}{Carl-son?}
 {127}{}{Goodbye.}
-{128}{}{You mean Roger Weston? West of town.}
-{129}{}{One of the stockholders in this place.  West of town. I don't think he's looking for ranch hands, if that's what you're thinking.}
+{128}{}{You mean Roger Westin? West of town.}
+{129}{}{One of the stockholders in this place. West of town. I don't think he's looking for ranch hands, if that's what you're thinking.}
 {130}{}{He's the vice-president; I know that much. Otherwise, can't tell you anything, really. Spends all his time at the Presidential House. Hardly ever comes out, especially now what with all the trouble we've been having.}
 {131}{}{Carlson. Big chief man. Lives in big house. That all.}
 {132}{}{Sorry - cattle drive season's over. Come back in a few months.}
 
 {133}{}{Yeah, yeah... Is there any other way to make a quick buck in town?}
-{134}{}{There might be somthing like that. Let's just say the officials wouldn't want to know about an opportunity like this.}
+{134}{}{There might be something like that. Let's just say the officials wouldn't want to know about an opportunity like this.}
 {135}{}{Well, I would be willing to pay a little for some information.}
 {136}{}{Hmm how much are you willing to part with?}
 {137}{}{How about 500?}
@@ -41,7 +41,7 @@
 {139}{}{How about 200?}
 {140}{}{How about 100?}
 {141}{}{Well, you didn't hear this here, but the password to the door in the back is GANG PROBLEM LIMB.}
-{142}{}{Hmm... Doesn't sound like somthing I would be interested in.}
+{142}{}{Hmm... Doesn't sound like something I would be interested in.}
 {143}{}{Hmmm.. Don't forget about my 10 kids.}
 {144}{}{Hmmm.. Well, the wife will want a new fur.}
 {145}{}{Hmmm.. You're gonna have to contribute more.}
@@ -51,8 +51,10 @@
 {149}{}{You're getting warmer.}
 {150}{}{Look, I'm going to need a little more incentive.}
 {151}{}{Hurry up, before someone sees.}
-{152}{}{Are you sure your not involved with the law?}
+{152}{}{Are you sure you're not involved with the law?}
 {153}{}{Look, you're almost there, just keep it coming.}
 {154}{}{Alright, just a little more, I promise.}
 
 {155}{}{Be at the gate to Westin's place tomorrow. If you don't show, you don't go, understand?}
+
+{156}{}{We are about to do another cattle run to Redding. How's your gun handling?}

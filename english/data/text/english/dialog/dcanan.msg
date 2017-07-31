@@ -12,7 +12,7 @@
 {111}{}{You were born with a heart 12 sizes too small.}
 {112}{}{No, my friend, a MUMMY! Straight from the sands of ancient Egypt to the sands of the Wastes! Exclusively for you to see!}
 {113}{}{OK, I'll bite. How much to see the wizened corpse?}
-{114}{}{(too yourself) Hmm, a mummy would kinda describe the way a ghoul looks. OK, I'd like to take a look -- how much?}
+{114}{}{(to yourself) Hmm, a mummy would kinda describe the way a ghoul looks. OK, I'd like to take a look -- how much?}
 {115}{}{I've seen enough corpses already. Goodbye.}
 {116}{}{Hello, welcome, salutations! I am the Great Ananias (he offers you a slight bow, with a flourish). I bring mysteries from near and far friend. Mysteries from a world beyond our own... of the Netherworld.}
 {117}{}{Come back to learn of the Great Ananias' mysteries of the Netherworld have you?}
@@ -41,7 +41,7 @@
 {144}{}{That sure looks like a ghoul to me.}
 {145}{}{That's a mummy? I can't believe I just paid $25 to see a six-foot hunk of jerky. Goodbye.}
 {146}{}{Wow, that's fantastic...I guess. (you look at the Mummy very intently for a while). Uh, thanks, Goodbye.}
-{147}{}{(the Mummy, snorts, stretches languidly, and then looks at you with a sleepy blink to it's eyes) Hello. (he says, sleepily)}
+{147}{}{(the Mummy, snorts, stretches languidly, and then looks at you with a sleepy blink to its eyes) Hello. (he says, sleepily)}
 {148}{}{Holy shit! That *is* Woody! Run Woody, run for it! Well, uh, gimp for it then! Go Woody go!}
 {149}{}{I assure you that the Mummy is, in fact, quite jan-u-wine.}
 {150}{}{I don't think I believe you. Let me try something. WOODY! Hey WOODY! Is that you?}

@@ -29,21 +29,21 @@
 
 # 4. NO SHOW
 {247}{}{You screwing around with us?}
-{248}{}{Better watch you step.}
+{248}{}{Better watch your step.}
 {249}{}{Lara's the only reason we don't string you up right now.}
 {250}{}{What were you trying to pull?}
 
 # 5. COWARD
 {251}{}{Coward.}
 {252}{}{You make me sick.}
-{253}{}{Get lost}
+{253}{}{Get lost.}
 {254}{}{Beat it.}
 
 # 6. FIGHT
 {255}{}{We're ready when you are.}
 {256}{}{It's about time we pay them back.}
 {257}{}{I hate waiting.}
-{258}{}{Lets go already.}
+{258}{}{Let's go already.}
 {259}{}{You ready yet?}
 {260}{}{Just let Lara know when it's time.}
 
@@ -65,7 +65,7 @@
 {306}{}{Any new developments?}
 
 # 9. Lara Dead
-{310}{}{Thanks for the help. To bad about Lara.}
+{310}{}{Thanks for the help. Too bad about Lara.}
 {311}{}{We finally got em!}
 {312}{}{We couldn't have done this without you.}
 {313}{}{At least Lara went out in fight.}

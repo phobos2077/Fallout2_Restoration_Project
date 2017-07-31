@@ -57,13 +57,13 @@
 {179}{}{You don't smell that bad.}
 {180}{}{Have you seen my invisible friend?}
 {181}{}{I want to travel the world when I'm as old as you.}
-{182}{}{You’re a nice tribal, not like the others.}
+{182}{}{You're a nice tribal, not like the others.}
 {183}{}{I bet you do to bathe.}
-{184}{}{You’re smarter than Torr.}
+{184}{}{You're smarter than Torr.}
 {185}{}{Is that blade you have really sharp?}
 {186}{}{I want to be just like you when I grow up.}
 {187}{}{My dog loves drymeat.}
-{188}{}{I’ve got a shiny pebble.}
+{188}{}{I've got a shiny pebble.}
 {189}{}{Have you seen my invisible friend?}
 
 {190}{}{Can I join your tribe?}
@@ -90,7 +90,7 @@
 {211}{}{What do you do?}
 {212}{}{I can run fast. Wanna see?}
 {213}{}{Watch me! Watch me!}
-{214}{}{Mommy says I talk to much.}
+{214}{}{Mommy says I talk too much.}
 {215}{}{Where is your home?}
 {216}{}{Heeee! Heeee!}
 {217}{}{Are you gonna stay here?}
@@ -121,7 +121,7 @@
 {1101}{}{Our great ancestor who gave us knowledge.}
 {1102}{}{The first to fight and win over chaos.}
 {1103}{}{That would be our beautiful village.}
-{1104}{}{That’s trading outpost a few days east of here.}
+{1104}{}{That's trading outpost a few days east of here.}
 {1105}{}{The Vault is heaven.}
 {1106}{}{You are the Chosen One.}
 {1107}{}{He heals us with his herbs and magic. He is in the north part

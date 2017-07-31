@@ -4,7 +4,7 @@
 {150}{}{He seems to be very alert.}
 
 # 1. Messed with Door 2nd Time
-{200}{}{Touch that again and you'll loose a limb.}
+{200}{}{Touch that again and you'll lose a limb.}
 {201}{}{That's it!}
 
 # 2. CF: Not Slaver

@@ -55,7 +55,7 @@
 {321}{}{Thanks, Smitty. No problem. See you around.}
 {322}{}{Well, uhhh... Thanks, but I already headed over to Mom's and got some eats myself, so I won't be needin' that anymore.}
 {323}{}{Oops, I'm not the usual delivery person. He called in sick today. Can I get some experience points anyway?}
-{324}{}{OK, sorry about the mixup. I hope Mom doesn't fire me! I really need this job.}
+{324}{}{OK, sorry about the mix-up. I hope Mom doesn't fire me! I really need this job.}
 {325}{}{You know we're not doing the free meal after 24 hours thing anymore, right?}
 {326}{}{Well, maybe I'll just eat it myself then.}
 {327}{}{Mom's not gonna be too happy with this.}
@@ -66,7 +66,7 @@
 
 # 10. Car-Controller (9)
 {340}{}{Well, you see, I thought I needed a battery for the thing but all I really need is a fuel cell controller. Them things was always going bad on 'em.}
-{341}{}{Well, I've got one of those}
+{341}{}{Well, I've got one of those.}
 
 # 11. I've got one of those (10)
 {350}{}{That right? Here's the deal. You give me $2,000 and I'll sell you the car. Heck I'll even install the fuel cell controller for you. Should run good as new. I'll even charge it up with some extra micro fusion power cells I got.}

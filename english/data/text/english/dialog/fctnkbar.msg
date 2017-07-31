@@ -6,7 +6,7 @@
 {105}{}{What you got?}
 {106}{}{No, me go.}
 {107}{}{I want some information.}
-{108}{}{Sure, show me what you've got.}
+{108}{}{Show me what you've got.}
 {109}{}{Nothing, I'm leaving.}
 {110}{}{Information huh? Well I ain't no library and this ain't no computer room. Drink up or get out. Want some booze or not?}
 {111}{}{Yes.}

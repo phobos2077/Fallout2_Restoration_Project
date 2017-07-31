@@ -45,3 +45,4 @@
 
 # Player float
 {200}{}{Oh, crap!}
+{201}{}{Uh, oh. Me hit smelly man.}

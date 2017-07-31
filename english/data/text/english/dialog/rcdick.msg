@@ -51,7 +51,7 @@
 {140}{}{What's At-the-basket mean?}
 {141}{}{What's the matter with you?}
 {142}{}{What happened to you?}
-{143}{}{I work a spell now and then here at the Morningstar. They can always used experienced help.}
+{143}{}{I work a spell now and then here at the Morningstar. They can always use experienced help.}
 {144}{}{Let me ask you something else, then.}
 {145}{}{I understand. Well, that's all I needed to know. Goodbye.}
 {146}{}{Well, not much lately except about them goll-dang Wanamingos.}

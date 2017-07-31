@@ -26,16 +26,16 @@
 {124}{}{What is it?}
 {125}{}{Forget it.}
 {126}{}{I'm an old guy, an' I don't get out too much. Ain't got much chance for action, y'know what I mean? So what I want is a Cat's Paw magazine. Find me one.}
-{127}{}{'Ere! [give Cat's Paw to Typhon]}
+{127}{}{'Ere! [Give Cat's Paw to Typhon.]}
 {128}{}{Okey!}
 {129}{}{Nuh!}
-{130}{}{Here you go. [give Cat's Paw to Typhon]}
+{130}{}{Here you go. [Give Cat's Paw to Typhon.]}
 {131}{}{All right. I'll be back.}
 {132}{}{Forget it.}
 {133}{}{Thanks for the mag, kid. Let me get back to you in an hour or so.}
 {134}{}{Okay!}
 {135}{}{I ain't done yet, kid! Sheesh! Can't an old ghoul have his privacy?}
-{136}{}{-done-}
+{136}{}{[DONE]}
 {137}{}{What kind o' treasure? Money, kid, lots and lots of money. Enough to satisfy any sane person.}
 {138}{}{What's the catch?}
 {139}{}{I don't need money.}
@@ -66,30 +66,30 @@
 {164}{}{I see. I had other questions.}
 {165}{}{Thanks. Bye.}
 {166}{}{Well? Do you have my Cat's Paw magazine yet?}
-{167}{}{'Es. [give Cat's Paw to Typhon]}
+{167}{}{'Es. [Give Cat's Paw to Typhon.]}
 {168}{}{Nuh-uh.}
-{169}{}{Yup. Here you go. [give Cat's Paw to Typhon]}
+{169}{}{Yup. Here you go. [Give Cat's Paw to Typhon.]}
 {170}{}{Not yet. I had other questions.}
 {171}{}{Nope.}
 {172}{}{Well, hurry it up! I'm an old, old ghoul, and I tell you, I gotta have relaxation! Now go, go, go!}
-{173}{}{-done-}
+{173}{}{[DONE]}
 {174}{}{Kid, that magazine stirred up the ol' juices, and I figure that for the sort of treasure I'm talkin', you can hunt me down a few more things. Go git me a blow-up doll. You can probably find one in New Reno.}
 {175}{}{Okey! Bye!}
 {176}{}{Nuh-uh!}
-{177}{}{Here go! [give Blow-Up Doll to Typhon]}
+{177}{}{Here go! [Give Blow-Up Doll to Typhon.]}
 {178}{}{All right. I had more questions.}
 {179}{}{All right. Bye.}
 {180}{}{Forget it.}
-{181}{}{Got it right here. [give Blow-Up Doll to Typhon]}
-{182}{}{This, kid, will hit the spot. Gimme a few hours and we'll talk more. Go on. [he eyes the doll lustfully]}
-{183}{}{-done-}
+{181}{}{Got it right here. [Give Blow-Up Doll to Typhon.]}
+{182}{}{This, kid, will hit the spot. Gimme a few hours and we'll talk more. Go on. [He eyes the doll lustfully.]}
+{183}{}{[DONE]}
 {184}{}{Can't a guy get a little privacy! Git! Git! G'wan!}
-{185}{}{-done-}
+{185}{}{[DONE]}
 {186}{}{I'm all tuckered out now. Go get me some rotgut and we'll talk about the treasure. Phil the bartender should be able to take care o' that for you.}
 {187}{}{Rite! Bye!}
 {188}{}{No!}
 {189}{}{Take! [give Rotgut to Typhon]}
-{190}{}{Got it. Here you go. [give Rotgut to Typhon]}
+{190}{}{Got it. Here you go. [Give Rotgut to Typhon.]}
 {191}{}{Is that going to be it?}
 {192}{}{All right. Bye.}
 {193}{}{Forget it.}
@@ -110,7 +110,7 @@
 {208}{}{Guess so. Bye.}
 {209}{}{How's the treasure, kid?}
 {210}{}{Bad! Caps!}
-{211}{}{It was all bottlecaps! It's worthless!}
+{211}{}{It was all bottle caps! It's worthless!}
 {212}{}{Ha ha. Funny. I had some questions.}
 {213}{}{Forget it.}
 {214}{}{Poo! Bye.}
@@ -125,7 +125,7 @@
 {222}{}{Gee, Typhon. You're so thoughtful. So, where's the cash?}
 {223}{}{All right. I remember stashing the cash somewhere downtown. It's been so many years, though, and the buildings have been
  built and rebuilt over and over, that I'm not sure exactly where it is. If it helps any, I remember thinkin' I should put it
- somewhere that wasn't likely to be torn down or plowed over. Somewhere indispensible, ya' know? Good luck to you.}
+ somewhere that wasn't likely to be torn down or plowed over. Somewhere indispensable, ya' know? Good luck to you.}
 {224}{}{You finally got Typhon to spill his guts about location of the hidden loot.}
 
 # Typhon/Seymour Floats.

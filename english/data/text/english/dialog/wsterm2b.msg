@@ -25,7 +25,7 @@
 {115}{}{Return to Main Menu}
 {116}{}{Exit}
 {117}{}{[This program is just too complex for you to understand.]}
-{118}{}{Return to Main Menu.}
+{118}{}{Return to Main Menu}
 {119}{}{Exit}
 {120}{}{[You manage to bypass the password and turn off the Shock Plates.]}
 {121}{}{Return to Main Menu}
@@ -83,3 +83,7 @@
 {166}{}{Exit}
 
 {200}{}{[This terminal is no longer operational.]}
+
+{300}{}{You disable the shock plates.}
+
+{400}{}{Computer in diagnostic mode. Please wait until diagnostic routine is finished.}

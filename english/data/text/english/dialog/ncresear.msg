@@ -30,7 +30,7 @@
 
 # 3. CLICK (COMPANION = MYRON)
 {235}{}{Hello, Myron, sir. Tests are proceeding as scheduled.}
-{236}{}{Myron, sir, this new strain of Jet is extremely habit-forming. The slaves are almost willing to kill each other for it.}
+{236}{}{Myron, sir, this new strain of Jet is extremely addictive. The slaves are almost willing to kill each other for it.}
 {237}{}{Myron, sir, you'll be pleased to note that the slaves would rather take Jet than eat, it's so potent.}
 {238}{}{Who are these people with you, Myron? New subjects?}
 {239}{}{Myron, sir, the third test group seem to be doing the best of all the groups.}
@@ -40,7 +40,7 @@
 {243}{}{Any more word when new slaves will be delivered, Myron, sir?}
 {244}{}{Myron, sir, we moved three slaves from the control group into the test group because of those respiratory failures we had last week.}
 {245}{}{Myron, bad news, sir. We had to shoot one slave for trying to escape. What a waste.}
-{246}{}{Myron, this new hallucinogen you've developed is promising, but it is not as habit-forming as jet…}
+{246}{}{Myron, this new hallucinogen you've developed is promising, but it is not as addictive as jet…}
 
 # 4. INTRO (WTG)
 {250}{}{(The bald woman doesn't even look up from her clipboard.) Yes?}
@@ -102,27 +102,27 @@
 
 # 13. I SEE. AND HOW IS THE RESEARCH COMING? (12, 22, 25)
 {355}{}{Not so well. Our schedule is tight, and we need to purify the Jet manufacturing process soon.}
-{356}{}{Why? Jet seems habit-forming enough already.}
+{356}{}{Why? Jet seems addictive enough already.}
 {357}{}{Why the tight schedule?}
 {358}{}{Sounds like a tough job. Look, I have to take care of something real quick - I'll be back.}
 
 # 14. WHY THE TIGHT SCHEDULE? (13)
 {365}{}{No one's come out and said it, but it's probably due to Jet distribution in Redding. Jet's potent *enough,* but
- there's a good deal of room for improvement, and the 'brass' wants to increase Jet reliance in Redding.}
+ there's a good deal of room for improvement, and the 'brass' wants to increase Jet addiction in Redding.}
 {366}{}{What's the deal with Redding?}
 {367}{}{Well, good luck meeting the schedule.}
 
 # 15. WHY? JET SEEMS ADDICTIVE ENOUGH ALREADY . . . (13)
 {375}{}{It's potent *enough,* but there's room for improvement. The 'brass' wants to increase Jet distribution in
- Redding, and they want the reliance rate as close to 100% as we can get it. It's going to require us pulling some long hours.}
+ Redding, and they want the addiction rate as close to 100% as we can get it. It's going to require us pulling some long hours.}
 {377}{}{Thanks for the information. I'll be back later.}
 
 # 16. WHAT'S THE DEAL WITH REDDING? (14, 15)
-{385}{}{Hook the miners in Redding to Jet, and whoever controls the Jet, controls Redding. Typical power play.}
-{386}{}{So…who does control the chems?}
+{385}{}{Addict the miners in Redding to Jet, and whoever controls the Jet, controls Redding. Typical power play.}
+{386}{}{So…who does control the drugs?}
 
 # 17. SO WHO DOES CONTROL THE DRUGS? (16)
-{395}{}{Who controls the chems? The Mordinos. Of course, Myron laid all the groundwork for Jet's composition.
+{395}{}{Who controls the drugs? The Mordinos. Of course, Myron laid all the groundwork for Jet's composition.
  We do mostly clean-up work.}
 {396}{}{Is Myron your boss?}
 
@@ -153,16 +153,16 @@
 {437}{}{Well, I had to ask. Thanks anyway.}
 
 # 22. DO YOU MIND IF I PICKED YOU UP AFTER WORK . . .? (21)
-{445}{}{Oh, not THAT busy…heh…well, no, pretty busy. I mean, mostly its routine chem testing, and occasionally we have
+{445}{}{Oh, not THAT busy…heh…well, no, pretty busy. I mean, mostly it's routine drug testing, and occasionally we have
  a slave go over the edge…}
 {446}{}{Doesn't purposely injecting experimental metamphetamines into enslaved humans make you question your basic humanity?}
 {447}{}{Wow. That sounds dangerous. You ever get hurt? Do you have many patient fatalities?}
-{448}{}{Chem testing? Really? How are things going?}
+{448}{}{Drug testing? Really? How are things going?}
 {449}{}{Sounds interesting, but I have to go….uh, I'll be back, though.}
 
 # 23. DON'T YOU EVER QUESTION YOUR HUMANITY? (22)
 {455}{}{Was that some poor attempt at a joke?}
-{456}{}{Just asking. I mean, what if you had been sold into slavery, been taken here, then pumped full of chems?}
+{456}{}{Just asking. I mean, what if you had been sold into slavery, been taken here, then pumped full of drugs?}
 {457}{}{Uh, yes. I have to be going.}
 
 # 24. PUMPED FULL OF DRUGS? (23)
@@ -174,11 +174,11 @@
 # 25. PATIENT FATALTIES (22)
 {475}{}{Slave deaths? A few. Mostly accidental overdoses - usually a tech's fault - or self-inflicted injuries.
  Some ingest too much Jet, and they REALLY want to fly.}
-{476}{}{Other than that, how's the chem testing going?}
+{476}{}{Other than that, how's the drug testing going?}
 {477}{}{I bet. Well, thanks for the information. You've been very helpful.}
 
 # 26. ACTUALLY, I WAS LOOKING FOR MYRON (6)
-{485}{}{Try downstairs in the lab. The guarded door. If you see him, tell him to  come up here when he has the
+{485}{}{Try downstairs in the lab. The guarded door. If you see him, tell him to come up here when he has the
  chance. IF he's not too busy.}
 
 # GET BADGE MESSAGE

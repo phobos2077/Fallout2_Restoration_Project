@@ -6,14 +6,14 @@
 {105}{}{Uh? }
 {106}{}{I've come to say goodbye. I'm leaving on my holy quest. }
 {107}{}{I'm heading out. I was hoping just this once you'd talk like a real person. }
-{108}{}{You are doing just way too many chems. I'm outta here. }
+{108}{}{You are doing just way too many drugs. I'm outta here. }
 {109}{}{I'm hurt. Can you heal me?}
 {110}{}{There were some pretty nasty plants infesting your garden- I've taken care of them for you.}
 {111}{hak001a}{Please reveal to clouded eyes the purpose of your passage.}
 {112}{}{Uh? }
 {113}{}{I've come to say goodbye. I'm leaving on my holy quest. }
 {114}{}{I'm heading out. I was hoping just this once you'd talk like a real person. }
-{115}{}{You are doing just way too many chems. I'm outta here. }
+{115}{}{You are doing just way too many drugs. I'm outta here. }
 {116}{}{There were some pretty nasty plants infesting your garden- I've taken care of them for you.}
 {117}{hak002}{The Earth sings with the news of a champion upon the land.... Perhaps, before you go, you would bestow a kindness?}
 {118}{}{Sure. What do you need?}
@@ -131,7 +131,7 @@
 {230}{}{I'm doing my best.}
 {231}{}{I'll double my efforts, holy one. I will not let you down.}
 {232}{}{Yeah, yeah. I've heard it all before.}
-{233}{hak030}{Chosen - the village cries in desperation. The children are weak with hunger. Please, we can not hold out much longer.}
+{233}{hak030}{Chosen - the village cries in desperation. The children are weak with hunger. Please, we cannot hold out much longer.}
 {234}{}{Uh-huh.}
 {235}{}{I'm trying. I'm trying! Give me a break!}
 {236}{}{I'll find the GECK, holy one. You have my word.}
@@ -144,7 +144,7 @@
 {243}{hak032}{Chosen, the spirits of our ancestors guide me to a world of dreams that I may touch thoughts. Our village suffers without the holy GECK. Your hands hold our lives as a father holds his children.}
 {244}{hak033}{Once again my spirit touches you from the void, Chosen. Our crops fail, our reserves are meager. Return to us with the GECK. Your failure is our last light.}
 {245}{hak034}{Chosen. The village weakens. It is harder to touch your dreams. You must hurry or we will all...}
-{246}{hak035}{Chosen? Chosen? Do you hear me? The village dies. All of our futures die, too. We have little left in both time and essence... Hurry.  Hurry...}
+{246}{hak035}{Chosen? Chosen? Do you hear me? The village dies. All of our futures die, too. We have little left in both time and essence... Hurry. Hurry...}
 {247}{hak101}{Chosen - the shadow of darkness arrived before you.}
 {248}{}{Owwww!}
 {249}{}{What happened?}
@@ -157,9 +157,9 @@
 {256}{}{Ow.}
 {257}{hak105}{Yes. Great sadness and pain. I stand between worlds to tell you, Chosen. Save your people.}
 {258}{}{Uh?}
-{259}{hak106}{Chosen, please let my words touch you. Go southwest. South and west.  Save our people. Save our people.}
+{259}{hak106}{Chosen, please let my words touch you. Go southwest. South and west. Save our people. Save our people.}
 {260}{}{Uh-huh..}
-{261}{hak107}{Thank the ancestors. Now my soul my join the eternal song. Safe journey, Chosen.}
+{261}{hak107}{Thank the ancestors. Now my soul may join the eternal song. Safe journey, Chosen.}
 {262}{}{Go?}
 {263}{hak108}{Go!...}
 {264}{}{Bye bye.}

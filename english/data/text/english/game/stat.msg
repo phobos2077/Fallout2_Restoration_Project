@@ -50,7 +50,7 @@
 # Strength
 {200}{}{Raw physical strength. A high Strength is good for physical characters. Modifies: Hit Points, Melee Damage, and Carry Weight.}
 # Perception
-{201}{}{The ability to see, hear, taste and notice unusual things. A high Perception is important for a sharpshooter.  Modifies: Sequence and ranged combat distance modifiers.}
+{201}{}{The ability to see, hear, taste and notice unusual things. A high Perception is important for a sharpshooter. Modifies: Sequence and ranged combat distance modifiers.}
 # Endurance
 {202}{}{Stamina and physical toughness. A character with a high Endurance will survive where others may not. Modifies: Hit Points, Poison & Radiation Resistance, Healing Rate, and the additional hit points per level.}
 # Charisma
@@ -58,14 +58,14 @@
 # Intelligence
 {204}{}{Knowledge, wisdom and the ability to think quickly. A high Intelligence is important for any character. Modifies: the number of new skill points per level, dialogue options, and many skills.}
 # Agility
-{205}{}{Coordination and the ability to move well. A high Agility is important for any active character. Modifies: Action Points, Armor Class, Sequence, and many skills.}
+{205}{}{Coordination and the ability to move well. A high Agility is important for any active character. Modifies: Action Points, Armor Class, and many skills.}
 # Luck
 {206}{}{Fate. Karma. An extremely high or low Luck will affect the character - somehow. Events and situations will be changed by how lucky (or unlucky) your character is.}
 #
 # Derived/Non Derived stats
 #
 # Maximum Hit Points
-{207}{}{How much damage your character can take before dying.  If you reach 0 HP or less, you are dead.}
+{207}{}{How much damage your character can take before dying. If you reach 0 HP or less, you are dead.}
 # Maximum Action Points
 {208}{}{The number of actions that the character can take during one combat turn.}
 # Armor Class
@@ -78,7 +78,7 @@
 # Sequence
 {213}{}{Determines how soon in a combat turn your character can react.}
 # Healing Rate
-{214}{}{At the end of each day, your character will heal 1 HP for each point of Healing Rate.  When you rest, you heal every six hours.}
+{214}{}{At the end of each day, your character will heal 1 HP for each point of Healing Rate. When you rest, you heal every six hours.}
 # Critical Chance
 {215}{}{The chance to cause a critical hit in combat is increased by this amount.}
 {216}{}{Better Criticals}
@@ -131,15 +131,15 @@
 #	 PC STAT DESCRIPTIONS
 #
 # Unspent Skill Points
-{500}{}{Points earned by going up a Level. Can be used to increase a skill by 1%, or a tag skill by 2%, per point spent.}
+{500}{}{Points earned by going up a level. Can be used to increase a skill by 1%, or a tag skill by 2%, per point spent.}
 # Level
 {501}{}{The general competency of the player character. A measure of your experience and abilities.}
 # Experience
-{502}{}{A reward for completing specific tasks, or defeating enemies in combat. More experience points are required to attain higher Levels.}
+{502}{}{A reward for completing specific tasks, or defeating enemies in combat. More experience points are required to attain higher levels.}
 # Reputation
 {503}{}{What the world knows of your actions and deeds. This will modify NPC reactions.}
 # Karma
-{504}{}{The effects of actions that you have taken.  Important information will be displayed.}
+{504}{}{The effects of actions that you have taken. Important information will be displayed.}
 
 #
 #  Experience-gain messages

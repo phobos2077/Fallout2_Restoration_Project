@@ -76,7 +76,6 @@
 #
 # from pipboy.c -- Fallout 2
 #
-// Fallout 2:  For Pipboy
 {7000}{}{You aren't wearing the pipboy!}
 
 #
@@ -98,7 +97,7 @@
 
 {9010}{}{Whoa. I suddenly felt a rush of experience.} # pMMyron_PID
 {9011}{}{Level up, baby! Level up!}
-{9012}{}{I feel a great disturbance in the force. As if all my skills have gained % points.}
+{9012}{}{I feel a great disturbance in the force. As if all my skills have gained percentage points.}
 {9013}{}{I feel tougher. Stronger. Smarter.}
 
 {9020}{}{Wow! I feel as if I've passed some arbitrary experience value and gained more power!} # pMMarcus_PID
@@ -134,7 +133,7 @@
 {9080}{}{I do believe I have gained some knowledge!} # pMGoris_PID
 {9081}{}{Clarity of knowledge is a gift.}
 {9082}{}{I seem to be maturing nicely.}
-{9083}{}{I am surpassing even Gruthar in knowlege.}
+{9083}{}{I am surpassing even Gruthar in knowledge.}
 {9084}{}{I am stronger amongst those of the pack now.}
 {9085}{}{I am now the mightiest amongst my pack.}
 

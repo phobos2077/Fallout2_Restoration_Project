@@ -41,7 +41,7 @@
 {131}{}{I wonder if there are any more brahmin burgers at Dusty's.}
 {132}{}{Sometimes I wonder where I am headed.}
 {133}{}{Umm, thanks, I really have to be going.}
-{134}{}{Mabe later we can do lunch.}
+{134}{}{Maybe later we can do lunch.}
 {135}{}{Ohh, yeah, you are the new guy in town.}
 {136}{}{You should talk to the sheriff.}
 

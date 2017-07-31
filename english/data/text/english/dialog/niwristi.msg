@@ -17,7 +17,7 @@
 {150}{}{It looks irreparable.}
 
 # destroyed
-{200}{}{You have destroyed family Wright's stills.}
+{300}{}{You have destroyed family Wright's stills.}
 
 # working
 {250}{}{Hmmmmmmmm}

@@ -9,11 +9,11 @@
 {153}{}{Would you tell him I can't... wait. Who are you? You're not a
  slaver. What are you doing here?}
 {154}{}{My name is }
-{155}{}{. I’m here to get you out.}
+{155}{}{. I'm here to get you out.}
 {156}{}{I'm }
 {157}{}{, but why have you been locked in this room?}
 {158}{}{Can you tell me where Vault 13 is?}
-{159}{}{I’m }
+{159}{}{I'm }
 {160}{}{. I'll be right back.}
 {161}{}{Dubba iba }
 {162}{}{.}
@@ -27,21 +27,21 @@
 {166}{}{Whoo.}
 
 # Node 3
-{167}{}{Oh, hi again. This darn radio isn't going to repair it's self. How does
+{167}{}{Oh, hi again. This darn radio isn't going to repair itself. How does
  he expect me to fix it?}
 {168}{}{Where can I get the parts?}
 {169}{}{Maybe I can repair it.}
 {170}{}{Can you use this radio I found?}
-{171}{}{I’ll see what I can do.}
+{171}{}{I'll see what I can do.}
 {172}{}{Spa pa?}
 
 # Node 4
-{173}{}{I know I can do it, I just need the spare parts. There is an old radio in
+{173}{}{I know I can do it, I just need some spare parts. There is an old radio in
  my shack back in Klamath that has exactly what I need. You been to the Dunton's?
  My shack's... well, it was just east of their place.}
 {174}{}{Do you mean this radio?}
-{175}{}{I’ll go look for it.}
-{176}{}{Hmmm...  I’ll be back.}
+{175}{}{I'll go look for it.}
+{176}{}{Hmmm...  I'll be back.}
 
 # Node 4b
 {206}{}{It's right here. [pointing to a map]}
@@ -66,16 +66,16 @@
 {188}{}{Candy?}
 
 # Node 9
-{189}{}{Vault 13? There’s a Vault City east of here. I trade there,
+{189}{}{Vault 13? There's a Vault City east of here. I trade there,
  sometimes.}
 {190}{}{Want to go there with me?}
 {191}{}{Thanks. Bye.}
 
 # Node 10
-{192}{}{Sure, I’ll join up with you! This old fart has one big adventure left
- in him. I’m sure of it! I'm pretty good at repairing things too, despite what
+{192}{}{Sure, I'll join up with you! This old fart has one big adventure left
+ in him. I'm sure of it! I'm pretty good at repairing things too, despite what
  Metzger says.}
-{193}{}{Great, let’s go.}
+{193}{}{Great, let's go.}
 {194}{}{Welcome aboard.}
 {195}{}{Whatever.}
 {196}{}{Vic me bess frend.}
@@ -87,7 +87,7 @@
 # Node 12 OLD IF IN PARTY. REMOVED NODE. Lines 199, 200, 202 (Don't know where 201 is)
 
 # Node 13
-{203}{}{Vault City is east of here. I’ll point it out on that map of yours.}
+{203}{}{Vault City is east of here. I'll point it out on that map of yours.}
 {204}{}{Thanks.}
 
 # Node 14
@@ -119,7 +119,7 @@
 
 # Additions to Node 11
 {500}{}{Oh, yeah. I remember that. I bought that from Ed. He's a brahmin dealer over in Vault City.}
-{501}{}{Water Flask? Oh, wait. Yea, I had a few dozen of'm. Sold pretty well. I got'm from Ed. A
+{501}{}{Water Flask? Oh, wait. Yea, I had a few dozen of'm. Sold pretty well. I got'm from Ed, a
  brahmin dealer over in Vault City.}
 {502}{}{Vault City?}
 
@@ -128,7 +128,7 @@
 
 # Node 16
 {600}{}{Sure thing, Chief!}
-{601}{}{I mean it STOP IT!}
+{601}{}{I mean it! STOP IT!}
 {602}{}{I guess that'll have to do.}
 
 # Node 17
@@ -139,7 +139,7 @@
 
 # Node 1b - Added a line to node 1 for Vic
 {710}{}{Would you tell him I can't fix this without the parts. I don't know... wait.
- Who are you? Some new recruit? He didn't send you here to ruff me up again did
+ Who are you? Some new recruit? He didn't send you here to rough me up again did
  he? It's not going to make any difference. I can't fix it here.}
 
 # 20. Here to get you out. (From 1)
@@ -152,13 +152,13 @@
 # 21. Why in this room? (From 1)
 {760}{}{It's a long story. I guess you could say that Metzger's keeping me here until
  I fix this darn radio. The crystal's shot and I don't have any spare parts. How does
- he expect me to fix it?.}
+ he expect me to fix it?}
 {761}{}{Well, I'm here to get you out.}
 {764}{}{Don't know. See ya.}
 
 # 22. How do we do that?
 {800}{}{I've got to get this radio fixed. If you can help me do that, then maybe we can reason with him.}
-{801}{}{Where can I get the parts?}
+{801}{}{How can I help?}
 {803}{}{I doubt it. Good luck.}
 
 # 23. In Mom's, never joined party. (From WTG)
@@ -174,13 +174,13 @@
 # Additions to Node 10
 {830}{}{I would if I could, but you're just not looking good. I'd only be a burden. Now that Mom's gone, I think I'll just head out. Don't know where… maybe we'll see each other again. Thank you for everything you've done for me.}
 {831}{}{I would if I could, but you're just not looking good. Looks like you can barely take care of yourself. I'd only be a burden. I'll just wait here, Mom's cooking reminds me of my ex-wife….}
-{832}{}{I would, honest. I'd do almost anything for you. It's just that you don't look like you're in any shape to lead anyone. I'd only be a burden. I'll just head over to Mom's, in a bit… until you can work things out. I haven't had her home cooking on a long time.}
+{832}{}{I would, honest. I'd do almost anything for you. It's just that you don't look like you're in any shape to lead anyone. I'd only be a burden. I'll just head over to Mom's, in a bit… until you can work things out. I haven't had her home cooking for a long time.}
 {833}{}{Sorry, Boss. Looks like you're pretty crowded. Now that Mom's gone, I think I'll just head out. Don't know where… maybe we'll see each other again. Thank you for everything you've done for me.}
 {834}{}{You're looking a bit crowded, Boss. I'll just wait here for you until you've worked things out. Mom's cooking reminds me of my ex-wife… not sure if that's a good thing or bad thing….}
 {835}{}{I would love to, Boss. It's just that you don't look like you have any more room. I'll just head over to Mom's. I haven't been there in a while. Just come get me if you find some room for me.}
 
 # Additions to Node 11
-{840}{}{Ed's over at Vault City. He's a Brahmin Dealer. He was just one of my many suppliers. Vault City's not to far from here.}
+{840}{}{Ed's over at Vault City. He's a Brahmin Dealer. He was just one of my many suppliers. Vault City's not too far from here.}
 
 # Additions to Node 13
 {845}{}{I told you, it's over here. [Vic points to a location on your PIPBoy2000.]}
@@ -193,12 +193,12 @@
 # 1001 After healing
 {1100}{}{Fully healed, Boss. Anything else?}
 {1200}{}{Almost perfect condition, Boss.}
-{1300}{}{I'm mostly heled up, Boss, but I've been better.}
+{1300}{}{I'm mostly healed up, Boss, but I've been better.}
 {1400}{}{I tried, Boss, but I'm not doing so hot. I'll do what I can though.}
 
 # 1002 I need you to wait here until I come back
-{1500}{}{What ever you say, Boss.}
-{1501}{}{Here? Right here? Okay, you're the, Boss.}
+{1500}{}{Whatever you say, Boss.}
+{1501}{}{Here? Right here? Okay, you're the Boss.}
 {1502}{}{Right. I'll stay here until you come back, Boss. You will come back, right?}
 {1503}{}{As long as you want. I'm not going anywhere.}
 {1504}{}{Of course, Boss.}
@@ -222,7 +222,7 @@
 {1706}{}{Oh. Okay, Boss.}
 
 # 1005 Don't get too far away.
-{1800}{}{OK, I'll keep my distance, but not to far, Boss.}
+{1800}{}{OK, I'll keep my distance, but not too far, Boss.}
 {1801}{}{Okay, I won't, Boss.}
 {1802}{}{I'll just stay back a little then, Boss.}
 {1803}{}{Sure, Boss.}
@@ -297,7 +297,7 @@
 {2702}{}{Boss, I'm really messed up. You got to get Lenny to check me out.}
 
 # 1014 Waiting
-{2800}{}{Hey, Boss. You want me to join up with you know?}
+{2800}{}{Hey, Boss. You want me to join up with you now?}
 {2801}{}{Hey, Boss. I don't mind waiting for you. I'm a real patient man.}
 {2802}{}{We joining up again, Boss? I'll try harder.}
 {2803}{}{I was afraid you might not come back. It sure is nice to see you again, Boss.}
@@ -306,7 +306,7 @@
 {2806}{}{I knew you wouldn't leave me.}
 {2807}{}{Need some back up?}
 {2808}{}{Need something repaired, don't you? I'm your man, Boss!}
-{2809}{}{Don't worry, Boss. Sulik and I'll get along,  honest.}
+{2809}{}{Don't worry, Boss. Sulik and I'll get along, honest.}
 {2810}{}{Let's go.}
 {2811}{}{Stay here. I'll be right back.}
 {2812}{}{Me go.}
@@ -318,7 +318,7 @@
 {3103}{}{But… I mean… Of course, Boss. Coming right off.}
 
 # 1018 Best Weapon
-{3200}{}{Well, Boss…. I'm pretty good with small arms. I can handle almost any rifle, shotgun, and most small-medium pistols. I 'can' use knives. I've also got a pretty good throwing arm, but my aim's not the best in the world… actually it's pretty horrible. Sorry, Boss. I'm really trying to get better.}
+{3200}{}{Well, Boss…. I'm pretty good with small arms. I can handle almost any rifle, shotgun, and most small-medium pistols. I 'can' use knives. I've also got a pretty good throwing arm, but my aim's not the best in the world… actually, it's pretty horrible. Sorry, Boss. I'm really trying to get better.}
 {3201}{}{Like I said, Boss, I prefer small arms. I can handle almost any rifle, shotgun, and most of those small-medium pistols. If we're really in a pinch I can try using a knife or even thrown weapons.}
 
 # 1019 Other weapons he can use.
@@ -360,7 +360,7 @@
 # 1104 BGF: Random on Specific Map
 {4200}{}{I never liked this place.}
 {4201}{}{Why is this place so clean?}
-{4202}{}{Did you smell something, Boss?}
+{4202}{}{Do you smell something, Boss?}
 {4203}{}{You know, Boss. I don't think I'll be coming back here when we're through. I can no longer call it home.}
 {4204}{}{It sure is a lot dirtier than I remember.}
 {4205}{}{We're not staying here long, are we Boss?}
@@ -374,7 +374,7 @@
 {4213}{}{I could open a repair shop around here.}
 
 # 1105 BGF: for specific area on a map
-{4300}{}{Ah, a site for sore eyes. This is… was my place, but I guess you knew that. Right, Boss?}
+{4300}{}{Ah, a sight for sore eyes. This is… was my place, but I guess you knew that. Right, Boss?}
 
 # 1106 Removed
 
@@ -388,11 +388,11 @@
 # 1109. BGF: Waiting
 {4500}{}{La de da…}
 {4501}{}{Ho hum.}
-{4502}{}{Waiting for the Boss….}
+{4502}{}{Waiting for the Boss…}
 {4503}{}{I'm waiting for the Boss.}
 {4504}{}{Just waiting.}
-{4505}{}{The Boss, sure wouldn't leave me behind….}
-{4506}{}{Knock Knock… who's there… wait. How'd that go….}
+{4505}{}{The Boss sure wouldn't leave me behind…}
+{4506}{}{Knock Knock… who's there… wait. How'd that go…}
 {4507}{}{Still waiting.}
 {4508}{}{What's that smell?}
 {4509}{}{Anything to repair around here?}
@@ -400,7 +400,7 @@
 {4511}{}{An old man like me, wasting away his talents, just standing here.}
 {4512}{}{I sure wish I had a stick of gum… it's been decades.}
 {4513}{}{I need to get out of the relic business… nothing but trouble.}
-{4514}{}{Why is waiting so tiring….}
+{4514}{}{Why is waiting so tiring…}
 
 # 1110. PC used Healing on PC
 {4600}{}{Uh, thanks, Boss.}
@@ -411,7 +411,7 @@
 {4605}{}{Am I that bad off?}
 
 # 1111. PC used Drugs on NPC
-{4700}{}{Not to much, Boss.}
+{4700}{}{Not too much, Boss.}
 {4701}{}{If you insist, Boss.}
 {4702}{}{Boss, my head's not going to explode, is it?}
 {4703}{}{Boss, I think I'm starting to like that stuff.}
@@ -420,3 +420,10 @@
 {4706}{}{Sure, Boss. I'll take some.}
 {4707}{}{Thanks, Boss.}
 {4708}{}{Not bad.}
+
+{5000}{}{I'm a bit hungry at the moment. We'll talk again at Mom's.}
+
+#added by killap - NPC info
+{5500}{}{I feel like I broke a limb, Boss. You better have a look.}
+{5501}{}{I feel like I am burning up, Boss. You better have a look.}
+{5502}{}{I feel like I have been poisoned, Boss. You better have a look.}

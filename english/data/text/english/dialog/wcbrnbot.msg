@@ -1,4 +1,4 @@
-{100}{}{A cybernetic robot.}
+{100}{}{You see a cybernetic robot.}
 {101}{}{A nice piece of engineering that further blurs the boundary between humans and robots.}
 {102}{}{Skynet will travel with you.}
 {103}{}{Skynet thanks the human.                                      Skynet wishes to ask favor.                                      Skynet wishes to travel with human.}

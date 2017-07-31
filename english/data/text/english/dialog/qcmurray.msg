@@ -22,7 +22,7 @@
 {121}{}{You will, huh? Well, I'll just have to report you then.}
 {122}{}{Go ahead. Make my day.}
 {123}{}{Oh, please don't do that. I'm leaving now. Goodbye.}
-{124}{}{I'm Tom Murray, head of the Atomic Energy Commission. I control our atomic powerplant here. Who the hell are you and what are you doing here?}
+{124}{}{I'm Tom Murray, head of the Atomic Energy Commission. I control our atomic power plant here. Who the hell are you and what are you doing here?}
 {125}{}{What the hell do you want now?}
 {126}{}{I need to shut down your atomic reactor.}
 {127}{}{I was just curious as to how your reactor works.}
@@ -55,7 +55,7 @@
 {154}{}{You did the right thing. Now, I've got to be going. You better just keep quiet in here for a while.}
 {155}{}{Good job. Now, I've got to kill you. Sorry, but I can't leave any witnesses.}
 {156}{}{I've got to be going. Goodbye.}
-{157}{}{I don't control that much of the reactor's operation. The central computer just north of the reactor controls most of the powerplant functions. If that weren't there, we'd have no power at all.}
+{157}{}{I don't control that much of the reactor's operation. The central computer just north of the reactor controls most of the power plant functions. If that weren't there, we'd have no power at all.}
 {158}{}{No power at all?}
 {159}{}{Well, not enough for much. The lights, life-support, and defenses would work for a while but forcefields and other power intensive devices would be shut down immediately.}
 {160}{}{Sounds as though you'd really be crippled.}

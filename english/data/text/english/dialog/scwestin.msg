@@ -1,5 +1,5 @@
 {100}{}{You see a man dressed in fancy ranch clothes.}
-{101}{}{It's Councillor Westin.}
+{101}{}{It's Councilor Westin.}
 {102}{}{Silver and turquoise rings, silver belt buckle, pistol at his side, this guy's clearly used to having money and having his own way.}
 {103}{}{I'm Roger Westin and you can't come barging in here. What do you want?}
 {104}{}{You again? What do you want?}
@@ -18,16 +18,12 @@
 {117}{}{You don't understand. I'm here to do a job.}
 {118}{}{The sheriff suggested I come talk to you personally.}
 {119}{}{Fine. Be that way.}
-{120}{}{I should have guessed. What did he promise you - money, chems, or sex? It doesn't matter. You'll never see any of it.}
+{120}{}{I should have guessed. What did he promise you - money, drugs, or sex? It doesn't matter. You'll never see any of it.}
 {121}{}{What do you mean?}
 {122}{}{Shut up.}
-{123}{}{Oh - simple are you? What a sad thing. It must be a hard cross to bear.
-
-Listen - you go, talk to Fee-lix. He give you job. Savvy?}
+{123}{}{Oh - simple are you? What a sad thing. It must be a hard cross to bear. Listen - you go, talk to Fee-lix. He give you job. Savvy?}
 {124}{}{Uh-huh.}
-{125}{}{What do you think? You know too much. What if you come back to NCR and sell him out - or threaten to? You're as good as dead already.
-
-On the other hand, I've got a better offer.}
+{125}{}{What do you think? You know too much. What if you come back to NCR and sell him out - or threaten to? You're as good as dead already. On the other hand, I've got a better offer.}
 {126}{}{Such as?}
 {127}{}{I don't believe you.}
 {128}{}{Take out Bishop instead. I'll pay cash, whatever he was paying plus 50%. How much was it?}
@@ -48,14 +44,14 @@ On the other hand, I've got a better offer.}
 {143}{}{Sounds like a good idea. I'll do it.}
 {144}{}{No thanks. Sitting in a field, waiting for some mantoid to show sounds boring.}
 {145}{}{Excellent. Felix will guide you out there. Now, if you'll excuse me.}
-{146}{}{Well, maybe I can. I've heard a lot of stories about Tandi and the Vaultdweller. Seems he saved her life years ago before NCR was even founded. Anyway, legend has it that he spent a lot of time exploring a vault east of here. If that isn't vault 13 then maybe you'll find a clue there that will lead you to it.}
+{146}{}{Well, maybe I can. I've heard a lot of stories about Tandi and the Vault Dweller. Seems he saved her life years ago before NCR was even founded. Anyway, legend has it that he spent a lot of time exploring a vault east of here. If that isn't vault 13 then maybe you'll find a clue there that will lead you to it.}
 {147}{}{Ooooh. Good.}
 {148}{}{Thanks!}
 {149}{}{Well, maybe I can. However, I need a favor from you first. Something, or someone, has been raiding my brahmin at night. I need to find out what's up. How about going out there and looking into it for me? I'll pay you for it and I'll tell you what I know.}
 {150}{}{Sounds like a good idea. I'll do it.}
 {151}{}{No thanks. Sitting in a field, waiting for some mantoid to show sounds boring.}
 {152}{}{Well, then here you go. Nice to meet you, stranger.}
-{153}{}{I'm not sure I believe you, but here's your pay. Hell, if you been lying, my boys will find you. I also said I'd give you some information, so here it is. I've heard a lot of stories about Tandi and the Vaultdweller. Seems he saved her life years ago before NCR was even founded. Anyway, legend has it that he spent a lot of time exploring a vault east of here. If that isn't Vault 13 then maybe you'll find a clue there that will lead you to it.}
+{153}{}{I'm not sure I believe you, but here's your pay. Hell, if you been lying, my boys will find you. I also said I'd give you some information, so here it is. I've heard a lot of stories about Tandi and the Vault Dweller. Seems he saved her life years ago before NCR was even founded. Anyway, legend has it that he spent a lot of time exploring a vault east of here. If that isn't Vault 13 then maybe you'll find a clue there that will lead you to it.}
 {154}{}{Me tank you!}
 {155}{}{Thanks.}
 {156}{}{The 1st Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
@@ -72,7 +68,7 @@ On the other hand, I've got a better offer.}
 {167}{}{Bye-bye and sleep tight, old man.}
 {168}{}{dollars it is. You do the job, I pay you. You say no, you don't get out of here alive. Well?}
 
-{169}{}{Ohh yeah. Well, I was having some problem with varmits, but they stopped coming around. Sorry about that. Try Felix and see if he has anything for you to do.}
+{169}{}{Ohh yeah. Well, I was having some problem with varmints, but they stopped coming around. Sorry about that. Try Felix and see if he has anything for you to do.}
 {170}{}{Ok, thanks.}
 
 {171}{}{Ehhh.... I have a bad heart condition... can't take...}
@@ -80,3 +76,4 @@ On the other hand, I've got a better offer.}
 {173}{}{Wow, I guess he did have a heart problem.}
 
 {174}{}{AHHAHH!!! AHAHAHHAH!!! AHHAHAH!!! IT BURNS!!!}
+{175}{}{You delivered the holodisk to Westin.}

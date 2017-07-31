@@ -15,7 +15,7 @@
 {114}{}{Teach me!}
 {115}{}{Tank yu.}
 {116}{}{You want to learn? Do you have what it takes? Let's see.}
-{117}{}{-done-}
+{117}{}{[DONE]}
 {118}{}{Teach you? I don't think so. You look far too self-righteous. Get out of here.}
 {119}{}{What the... ?}
 {120}{}{Oh, look, the idiot. I don't want to talk to you. Go away.}
@@ -25,7 +25,7 @@
 {124}{}{What, you're evil?}
 {125}{}{I see. I have more questions.}
 {126}{}{Evil? Hardly. Just smart. Maybe if you're so concerned about doing the right thing by people, you should see the Dragon. He likes simpering weaklings like you.}
-{127}{}{-done-}
+{127}{}{[DONE]}
 {128}{}{Yes, I should. And I do. Unfortunately, the Dragon stands in the way. We're too evenly balanced in our fight against each other. I need just one trained person to help me.}
 {129}{}{I am that person.}
 {130}{}{I see. Well, I have more questions.}
@@ -46,24 +46,24 @@
 {145}{}{Yes. I'm doing this for the Shi.}
 {146}{}{No. I'm doing this because I think you're scum.}
 {147}{}{A tough one, eh? You'll fight my men first, and then we'll see if you're worthy of fighting me.}
-{148}{}{-begin-}
+{148}{}{[BEGIN]}
 {149}{}{I'm Lo Pan. I'm also the "sworn enemy" of the Dragon. Why he insists on having a sworn enemy is beyond me. I just fight as well as him, and I think he's weak-hearted and allows others to live under his shadow. We're enemies because we have the same fighting style, and whoever wins will be the one who carries the tradition.}
 {150}{}{I'm not too bad at hand-to-hand combat myself. Wanna give me a try?}
 {151}{}{That's interesting. Must be rewarding. I have more questions.}
 {152}{}{Thanks. Bye.}
 {153}{}{I may be a scumbag, but never will it be said I don't stand up for my people. I'm going to hurt you before you die.}
-{154}{}{-done-}
+{154}{}{[DONE]}
 {155}{}{Then you're a fool and a dog doing the bidding of others. I will laugh when you die.}
-{156}{}{- attack now, with armor and weapons -}
-{157}{}{- enter the ring, remove armor and weapons, and fight hand to hand -}
+{156}{}{[Attack now, with armor and weapons.]}
+{157}{}{[Enter the ring, remove armor and weapons, and fight hand to hand.]}
 {158}{}{Good. At least you're your own master. Are you tough enough to fight without weapons or armor?}
-{159}{}{- attack now, with armor and weapons -}
-{160}{}{- enter the ring, remove armor and weapons, and fight hand to hand -}
+{159}{}{[Attack now, with armor and weapons.]}
+{160}{}{[Enter the ring, remove armor and weapons, and fight hand to hand.]}
 {161}{}{Baaa, sheep, baaa! Go back to your robed masters. I don't have anything to say to you.}
-{162}{}{-done-}
+{162}{}{[DONE]}
 {163}{}{Didn't I tell you to talk to the Dragon about your moral qualms? He'll hold your hand. I won't. Now leave.}
-{164}{}{-done-}
-{165}{}{You are, I must admit, even better a fighter than I am. You wanna try for the Dragon?}
+{164}{}{[DONE]}
+{165}{}{You are, I must admit, even a better fighter than I am. You wanna try for the Dragon?}
 {166}{}{Yes. I'll do it right now.}
 {167}{}{It's not really my fight.}
 {168}{}{Sure, but I have some questions.}
@@ -76,13 +76,15 @@
 {175}{}{The Dragon is dead. I don't believe it. At least now we won't have those pesky traditions dogging our every step. Thanks.}
 {176}{}{Great. I have questions.}
 {177}{}{Great. Bye.}
+{178}{}{Fine. I'll do it right now.}
 
 {200}{}{Lo Pan detects your advance and you slip by him.}
 {201}{}{Look, I don't appreciate anyone taking my things, so go steal someone else's. Leave now.}
 {202}{}{I warned you to leave, not to die. Oh well.}
-{203}{}{You already took the test of the Dragon!}
+{203}{}{It appears that you need no more training from me.}
+#{203}{}{You already took the test of the Dragon!}
 
-{204}{}{I am done training today. Return tommorow.}
+{204}{}{I am done training today. Return tomorrow.}
 
 {205}{}{I am Master Khung, your final test.}
 {206}{}{I am Imbot. Be ready.}
@@ -116,10 +118,10 @@
 
 {229}{}{Hey, look I what I found.}
 
-{230}{}{First, you will need to prove you can do it.  I will have you go up against five of my fighters - one at a time.  If you beat them then you will receive your final test.}
+{230}{}{First, you will need to prove you can do it. I will have you go up against five of my fighters - one at a time. If you beat them then you will receive your final test.}
 {231}{}{What is that?}
 {232}{}{Sounds like too much trouble. Bye.}
-{233}{}{You will need to defeat me.  However, none of these battles will to be to the death -  to protect my men, of course. [he sneers]}
+{233}{}{You will need to defeat my chosen apprentice. However, none of these battles will to be to the death - to protect my men, of course. [he sneers]}
 {234}{}{Let's get it on!}
 {235}{}{You can take care of the Dragon yourself.}
 {236}{}{[Lo Pan studies you and then throws a quick punch which smacks you in the nose before you can even react.] You are not good enough.}
