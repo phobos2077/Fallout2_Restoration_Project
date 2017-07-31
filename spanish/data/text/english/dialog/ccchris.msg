@@ -131,6 +131,6 @@
 {230}{}{Eh, me largo de aquí.}
 {231}{}{Si, de acuerdo.}
 {232}{}{Está sacando una radio. ¡Va a alertar a toda la base! ¡Tengo que encargarme de él rápidamente!}
-{233}{}{Oh, no. Man pull out talkie box. He tell on me. Must stop him.}
+{233}{}{Oh, no. Hombre extraer la caja de habla. Cuenta en me. Debo detenerlo.}
 {800}{}{Has engañado a Chris para que te dé la contraseña.}
 {810}{}{Has matado a Chris antes de que pudiera alertar a la base.}

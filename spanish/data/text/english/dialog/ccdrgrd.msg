@@ -58,6 +58,5 @@
 {160}{}{Has vuelto. ¿Traes contigo la orden del FOB?}
 {161}{}{No, todavía no. La conseguiré.}
 {162}{}{Sí, claro. Te digo que los de limpieza están a punto de llegar y mágicamente te conviertes en uno de ellos. Ni siquiera te he perdido de vista. ¿Crees que soy un jodido imbécil? ¡Fuera de aquí!}
-{200}{}{(speaking to self) Commander. (pause) Are you there Commander? (pause) Hmm...No response. That's not like him at all.
- I better go check on him.}
-{201}{}{(Holy shit the Commander is dead! Sound the alarms we have an intruder!!}
+{200}{}{(hablando a sí mismo) Comandante. (pausa) ¿Está allí, Comandante? (pausa) Hmm... Ninguna respuesta. Eso no es como él an absoluto. Será mejor que vaya a verlo.}
+{201}{}{¡Santa mierda el Comandante está muerto! ¡Sonar las alarmas, tenemos un intruso!}

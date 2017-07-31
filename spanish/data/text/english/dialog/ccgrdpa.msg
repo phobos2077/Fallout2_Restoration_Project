@@ -20,19 +20,19 @@
 {201}{}{...si, será MEJOR que huyas...}
 {202}{}{...qué lameculos...}
 {203}{}{...¡sí, señor! ¡puto señor!...}
-{300}{}{Hold on there. What do you think you're doing with that aircraft? There are no scheduled flights for several days.}
-{301}{}{Nrg?}
+{300}{}{Espere. ¿Qué crees que estás haciendo con eso avión? No hay vuelos programados por varios días.}
+{301}{}{¿Nrg?}
 {302}{}{No quiero tomar parte en esto.}
 {303}{}{No, sólo pasaba por aquí. Ya me marcho.}
-{304}{}{There's been a change of plans. I'm taking this aircraft.}
-{310}{}{What? Oh, I see. Look, don't touch. Okay? Touch again and you die.}
+{304}{}{Ha habido un cambio de planes. Estoy tomando este avión.}
+{310}{}{¿Qué? Oh, ya veo. Mira, no lo toques. ¿Vale? Toques un otra vez y mueres.}
 {311}{}{(Sonríes con calma, asientes, y luego le atacas).}
 {312}{}{(Te vas).}
-{315}{}{Oh shit, looks like we got ourselves an intruder. Code Red! I repeat, code Red!}
-{316}{}{That sounds like a good idea. Touch the aircraft again and I'll put a bullet in your head.}
+{315}{}{Oh mierda, parece que tenemos un intruso. ¡Código Rojo! ¡Repito, código Rojo!}
+{316}{}{Eso suena como un buena idea. Toques el avión de nuevo y pondré una bala en tu cabeza.}
 {320}{}{Aún puedo oír donde estás.}
 {321}{}{Aún no. Siento molestarte.}
-{322}{}{About to deliver an important message to the main base.}
+{322}{}{A punto de entregar un mensaje importante a la base principal.}
 {323}{}{¿Oh? ¿Y qué decía ese rumor?}
 {324}{}{Lo siento. No puedo ayudarte.}
 {325}{}{I'll tell you, but it's absolutely essential that you don't disclose this information to anyone else, for fear of a

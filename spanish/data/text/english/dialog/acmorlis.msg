@@ -43,7 +43,7 @@
 {216}{}{Si, tía Morlis.}
 {300}{}{Aquí está el pedernal. ¡Ahora lárgate! No tengo tiempo para estar de cháchara.}
 {301}{}{¿Por qué me molestas, sobrina? ¿No ves que estoy ocupada?}
-{302}{}{Well, I can't seem to find the flint. I'm sure you took it from me when I wasn't looking though. I caught you before. Now off with you! I don't have time to gossip.}
+{302}{}{Bien, no puedo encontrar la pedernal. Pero estoy seguro de que me la quitaste cuando no estaba mirando. Te cogí antes. ¡Ahora fuera con usted! No tengo tiempo para chismear.}
 {303}{}{Bien... Oh, bien. Aquí está el pedernal. Te deseo un buen viaje, hijo.}
 {304}{}{No, no lo creo. Ahora deja de hacerme perder el tiempo y ¡lárgate de aquí!}
 {305}{}{Aquí está el pedernal. ¡Ahora lárgate! No tengo tiempo para estar de cháchara.}
