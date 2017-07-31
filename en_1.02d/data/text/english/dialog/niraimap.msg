@@ -1,0 +1,1 @@
+{100}{}{The map seems to show some raider encampment in the east. You log it on your pip boy.}

@@ -1,0 +1,462 @@
+#PROGRAMMING
+
+@Lead Programmer
+Jesse Reynolds
+
+@Programmers
+Chris Jones
+Nick Kesting
+Robert Hertenstein 2
+Thomas French
+Chris Holland
+Dan Spitzley
+
+@Additional Programming By
+Tim Cain
+John Price
+Michael Bernstein
+
+@Movie Technology
+Paul Edelstein
+
+@Installer/Autoplay
+Darren Monahan
+
+
+#ART
+
+@Lead Artists
+Gary Platner
+Tramell Ray Isaac
+
+@Artists
+Robert Collier
+Jeff McAteer
+Brian Menze
+Scott Rodenhizer
+
+@Additional Art By
+Aaron Brown
+Peter Kroko
+Michael Sean McCarthy
+Chad Moore
+Eddie Rainwater
+Justin Sweet
+Vance Kovacs
+Tim Donley
+
+@Intern Artists
+Charles M. Gregory
+Daniel Jacobs
+John Jacobs
+Karel Jacobs
+Christopher Jones
+Benc Orpak
+Adoni Torres
+
+@Original Game Artwork By
+Jason Anderson
+Leonard Boyarsky
+Michael Dean
+Sharon Shellman
+
+
+#DESIGN
+
+@Lead Designers
+Feargus Urquhart
+Matthew J. Norton
+
+@Designers
+Jason G. Suinn
+John Deiley
+Chris Avellone
+David "Zeb" Cook
+Dave Hendee
+Colin McComb
+
+@Technical Designer
+Scott Everts
+
+@Level Designers
+John Deiley
+Scott Everts
+Jason G. Suinn
+
+@Additional Design By
+Robert Hertenstein 2
+Nick Kesting
+Fred Hatch
+
+@Design/Dialogue
+Mark O'Green
+
+@Original Game Design By
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Jason Taylor
+Scott Campbell
+
+@SPECIAL Game System Design By
+Chris Taylor
+Tim Cain
+Jess Heinig
+Feargus Urquhart
+
+
+#PRODUCTION
+
+@Division Director
+Feargus Urquhart
+
+@Producers
+Eric Demilt
+Feargus Urquhart
+
+@Assistant Producers
+Fred Hatch
+Douglas Avery
+
+@Asst. Division Director
+Jeremy Barnes
+
+@Lip Synch Coordinators
+Jason G. Suinn
+Dave Hendee
+
+@Lip Synch Artists
+Douglas Avery
+Chris Benson
+David "Zeb" Cook
+Jacob Devore
+Kenneth Lee
+Colin McComb
+
+
+
+#QUALITY ASSURANCE
+
+@Director of Quality Assurance
+Chad Allison
+
+@QA Managers
+Steve Victory
+Colin Totman
+
+@PC Version Project Supervisors
+Greg "Moose" Baumeister
+Steve McLafferty
+Darrell Jones
+
+@PC Version Senior Testers
+Dennis Presnell
+Chad Nicholas
+Dave Simon
+
+@PC Version Testers
+Ed Hyland
+Dany Martinez
+WR Saunders
+Rodney Smith
+Tony Piccoli
+David Maldonado
+Dan Levin
+Eric Pribish
+Scott Warner
+Derek Johnson
+Tim Anderson
+Primo Pulanco
+Jeremy Ray
+Jeremy Seely
+Henry Lee
+Scott Humphreys
+
+@I.S. Compatibility Manager
+Frank Pimentel
+
+@Senior I.S. Technician
+Bill Delk
+
+@I.S. Technician
+Tom Quast
+
+@QA Database Administrator
+Steve Cabiness
+
+@Compatibility Technicians
+Derek Gibbs
+John Parker
+Ed Robles
+Louie Iturzaeta
+
+
+
+#AUDIO
+
+@Audio Director
+Charles Deenen
+
+@Audio Mastering
+Craig Duman
+
+@Voiceover Director
+Jamie Thomason
+
+@Voiceover Coordinator
+Julie Morgavi
+
+@Voiceover Supervisor
+Chris Borders
+
+@Voiceover Editors
+Frank Szick
+Kevin Frayser
+Ron Valdez
+
+@Voiceover Recorded at Marc Graue Studio
+
+@Sound Design
+Paul Menichini
+Tim Walston
+
+@Cinematics Sound Design
+David Farmer
+
+@Cinematics Re-Recording Mixing
+Charles Deenen
+
+@Mixed in Dolby [TM] Surround at Interplay Audio
+
+@Audio Administrator
+Gloria Soto
+
+@Additional Sound Design by
+Larry Peacock
+Weddington
+EFX
+Eight Ball Sound
+Charles Deenen
+
+@Voiceover Engineers
+Wes Smith
+Julian Cook
+of Marc Graue Studios
+
+@Music By
+Mark Morgan
+@for
+Four Bars Intertainment
+@and by
+Rick Jackson
+
+@Voice Producer
+Fred Hatch
+
+
+@FEATURING THE VOICES OF
+
+Charlie Adler
+@Harold
+
+Ron Perlman
+@Narrator
+
+Dwight Schultz
+@Hakunin
+
+Jason Marsden
+@Myron
+
+Cree Summer
+@Lynette
+
+Kevin Michael Richardson
+@Com Officer
+
+Peter Jason
+@Drill Sergeant
+
+Peter Jason
+@Gate Guard
+
+Flo DiRe
+@Elder
+
+Tress MacNeille
+@Tandi
+
+Greg Eagles
+@Sulik
+
+Michael Dorn
+@Marcus
+
+Michael Dorn
+@Frank Horrigan
+
+Jeffrey Jones
+@The President
+
+
+
+"A KISS TO BUILD A DREAM ON"
+@Performed by Louie Armstrong
+@Courtesy of GRP Records
+@Under license from UNIVERSAL MUSIC SPECIAL MARKETS
+
+"A KISS TO BUILD A DREAM ON"
+@Written by Bert Kalmer, Harry Ruby and Oscar Hammerstein II
+@(C) 1935, 1951 renewed 1963, 1979 METRO GOLDWYN MAYER, INC.
+@Rights assigned to EMI CATALOGUE PARTNERSHIP
+@All Rights Controlled and Administered by EMI MILLER CATALOG INC.
+@All Rights Reserved.  International Copyright Secured.
+@Used by Permission.
+
+@WARNING: It is a violation of Federal Copyright Law
+@to copy, duplicate or reproduce this Program or any
+@portions of this Program without the express written
+@permission of the copyright owner.
+
+
+#VIDEO
+
+@Video Services Provided by
+Dave Cravens
+Stephen Miller
+Bill Stoudt
+Dan Williams
+
+
+#MARKETING
+
+@Director of Marketing
+Paul Sackman
+
+@Marketing Managers
+Mike Markin
+Greg Peterson
+
+@Associate Marketing Manager
+Greg Bauman
+
+@PR Manager
+Krys Card
+
+@Traffic Managers
+Thom Dohner
+Paul Naftalis
+
+
+
+
+@Thanks to
+@(Dave H.) The Unwashed Villagers, the Dyer Family,
+@Jamba Juice, The Tick, Southpark;  (Chris A.) my "pal,"
+@Thuy Dang, Eileen Suh and Ma and Pa Avellone;  (t.ray)
+@my mother, my father, my son and my brother and to all
+@of my adoring fans for buying this game;  (Rob H.)
+@Becky Warner and Billie Ryder;  (Matt N.) Meine
+@DieMonika und der kater;  (Jesse R.) "To Dad,
+@you were an inspiration all my life.  I miss you
+@always."
+
+@Special Thanks to:
+@The Members of the Fallout and Fallout 2 message boards.
+@Thanks for your comments, suggestions and other esoteria!
+@The Interplay Video Room, for processing above and beyond
+@the call of duty!
+
+@Fallout 2 was brought to you by Interplay Productions,
+@Team Fallout 2, the letter Q and numbers 42 and 20.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Okay, fine, if you really must...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Did you find the extra-special encounters?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Keep looking...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Maybe you'll find the Maltese Falcon?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Hah!  Enjoy...

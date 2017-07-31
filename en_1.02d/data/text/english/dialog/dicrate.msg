@@ -1,0 +1,1 @@
+{100}{}{You see crates filled with various chemicals that are of no use to you.}
