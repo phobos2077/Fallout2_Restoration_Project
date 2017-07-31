@@ -37,7 +37,7 @@
 {135}{}{Tuviste sangre fría encerrándonos.}
 {136}{}{Sólo nos divertíamos un poco. Déjanos salir.}
 {137}{}{Lo que estuviésemos haciendo allí no era asunto tuyo.}
-{138}{}{Sácame de aquí de una puta vez.}
+{138}{}{Lárgate de aquí.}
 {139}{}{Sácame de aquí.}
 {140}{}{Eh, déjame salir.}
 {141}{}{Soy inocente.}
@@ -89,3 +89,4 @@
  Enciérranos, Sheriff.}
 {179}{}{Ésto me gusta más.}
 {180}{}{No. Ahora es demasiado tarde. Voy a tener que dejaros como un colador a los dos.}
+{181}{}{No te metas en problemas, Myron, ¿vale?}

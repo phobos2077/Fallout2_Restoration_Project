@@ -54,7 +54,7 @@
 {153}{}{Mi nombre es }
 {154}{}{Soy }
 {155}{}{Si quisiera darme mi nombre, te lo habría dicho, "Sí-filis"... o como diablos te llames.}
-{156}{}{Lo siento, no tengo tiempo para hablar en este momento.}
+{156}{}{Lo siento, no tengo tiempo para hablar contigo ahora mismo.}
 {157}{}{Por qué, de todos los...! NUNCA me he encontrado con nadie con tan poca clase como tú. Te sugiero que te vayas. Ahora.}
 {158}{}{Te sugiero que vigiles tu tono, o va a haber problemas.}
 {159}{}{Como sea. De todas formas ya he terminado de hablar contigo.}
@@ -68,14 +68,14 @@
 {167}{}{Bienvenido de nuevo. ¿Hay algo en lo que pueda ayudarte?}
 {168}{}{Por supuesto. ¿Qué te gustaría saber?}
 {169}{}{¿Qué opinas del doctor Troy?}
-{170}{}{¿Puedes decirme dónde está la computadora central?}
+{170}{}{¿Puedes decirme dónde está la computadora central del Refugio?}
 {171}{}{Necesito que me curen.}
 {172}{}{¿Qué haces aquí?}
 {173}{}{¿Puedes hablarme de Ciudad Refugio?}
 {174}{}{No importa, en realidad. Gracias de todos modos.}
 {175}{}{Oh, el doctor puede ser bastante estricto a veces, pero en el fondo es un buen hombre. Ciudad Refugio tiene suerte de contar con él.}
 {176}{}{Bueno, me pidió que metiese de contrabando ciertas drogas en la ciudad.}
-{177}{}{¿Puedo hacerte otra pregunta?}
+{177}{}{¿Puedo preguntarte otra cosa?}
 {178}{}{Gracias por tu tiempo. Adiós.}
 {179}{}{}
 {180}{}{}
@@ -88,11 +88,11 @@
 {187}{}{Gracias por el aviso. Quizá debería hablar con otra persona.}
 {188}{}{Está en el tercer nivel, si lo recuerdo bien. No he bajado allí desde hace años.}
 {189}{}{¿Por qué no?}
-{190}{}{¿Puedo hacerte otra pregunta?}
+{190}{}{¿Puedo preguntarte otra cosa?}
 {191}{}{Gracias por las indicaciones. Adiós.}
 {192}{}{Oh, no lo sé. No hay muchas razones para bajar al Refugio. Hoy en día se usa fundamentalmente como espacio de almacenamiento. El único que baja ahí es Martin, y... bien, entre tú y yo, no es un gran conversador.}
 {193}{}{Uhh.... ¿Por qué le hicieron conversador si no es bueno en su trabajo?}
-{194}{}{¿Puedo hacerte otra pregunta?}
+{194}{}{¿Puedo preguntarte otra cosa?}
 {195}{}{Ya veo. Gracias por la información.}
 {196}{}{Eh... quizá DEBERÍAS hablar con él. Puede que los dos tengáis más en común de lo que pensé al principio.}
 {197}{}{¿Puedo hacerte antes otra pregunta?}
@@ -116,11 +116,11 @@
 {215}{}{De acuerdo, entonces. Tal vez hablemos más tarde.}
 {216}{}{Bien... es verdad. En realidad, no hay. Todavía. No sé si nadie te ha contado que Ciudad Refugio es una comunidad planificada. No tenemos otro ciclo de embarazo hasta dentro de varios años.}
 {217}{}{Eh... ¿un ciclo de embarazo?}
-{218}{}{¿Puedo hacerte otra pregunta?}
+{218}{}{¿Puedo preguntarte otra cosa?}
 {219}{}{Ya veo. Bien, gracias por la información.}
 {220}{}{Sí. Sólo se permiten los embarazos durante ciertos años establecidos por el Consejo.}
 {221}{}{¿Y si te quedas embarazada de todos modos?}
-{222}{}{Oh. Tenía más preguntas...}
+{222}{}{Oh. Tenía algunas preguntas más...}
 {223}{}{Ya veo. Bien, gracias por la información.}
 {224}{}{¿Cómo podría suceder?}
 {225}{}{Eh, la última vez que pregunté, el sexo PUEDE producir un embarazo.}
@@ -154,7 +154,7 @@
 {253}{}{Tal vez es sólo debido a que no tienen mucho sexo de verdad por aquí.}
 {254}{}{Oh, bueno. Sólo quería preguntar.}
 {255}{}{¿Sabes? Estaba pensando en lo mismo. Quizá debería mencionárselo al doctor Troy. Ha estado demasiado ocupado últimamente como para comprobarlo, pero el próximo ciclo de embarazo se acerca, así que...}
-{256}{}{¿Puedo hacerte otras preguntas?}
+{256}{}{¿Puedo hacerte alguna otra pregunta?}
 {257}{}{Mencionárselo al doctor Troy podría ser una buena idea. Buena suerte.}
 {258}{}{Es como si todos fueran... clones. Todos visten igual, actúan igual, y lo peor es que todos parecen felices así. Yo... bueno, a veces me preocupa terminar igual que ellos. Probablemente suena tonto, ¿verdad?}
 {259}{}{No, en absoluto. La presión para encajar debe ser un poco dura aquí, especialmente considerando una comunidad aislada como es Ciudad Refugio.}

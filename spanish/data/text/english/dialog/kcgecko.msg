@@ -1,11 +1,6 @@
-#############################################################
-#  Parroquiano/Trampero del Golden Gecko (Klamath)   	    #
-#############################################################
-
 {100}{}{Ves a un trampero desaliñado.}
 {101}{}{Ves a un trampero corpulento.}
 {102}{}{Ves a un trampero de geckos.}
-
 {200}{}{Encajarás bien aquí.}
 {201}{}{Invítanos a una ronda, ¿quieres?}
 {202}{}{¿Vas a echar un pulso con los Dunton?}
@@ -31,12 +26,11 @@
 {222}{}{Hay un espíritu en un cañón al oeste de aquí.}
 {223}{}{La caza es peligrosa; perdimos a un buen trampero hace unas pocas semanas.}
 {224}{}{Me encanta meterme con ese Torr.}
-
 {300}{}{Mira quién ha venido.}
 {301}{}{(Murmurando) ...un buenazo por aquí...}
 {302}{}{¿No te has equivocado de barrio?}
 {303}{}{No queremos a los tuyos por aquí, tribal.}
-{304}{}{Quizás si nos invitas a una ronda te dejemos quedarte.}
+{304}{}{Quizá si nos invitas a una ronda te dejemos quedarte.}
 {305}{}{Largo, tribal.}
 {306}{}{¿Qué estás mirando?}
 {307}{}{Los Dunton te van a dar una buena, tribal.}
@@ -50,6 +44,6 @@
 {315}{}{Vete a beber con Aldo, ¿quieres?}
 {316}{}{Este no es sitio para ti, vándalo.}
 {317}{}{No eres mi colega de borracheras.}
-{318}{}{Humph. (Escupe en el suelo)}
+{318}{}{Humph. (Escupe en los suelos)}
 {319}{}{Está claro que no hay mucho que ver.}
-{320}{}{¿Te sientes incomodo?}
+{320}{}{¿Te sientes incómodo?}

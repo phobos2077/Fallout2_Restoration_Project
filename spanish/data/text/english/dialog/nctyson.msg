@@ -1,15 +1,10 @@
-# quick look
 {100}{}{Ves a un boxeador.}
 {101}{}{Ves a Mike "el Masticador".}
-
-# examines
 {150}{}{Sus brazos parecen troncos de árbol.}
 {151}{}{Parece que con cada brazo pudiera rodear un barril de petróleo.}
 {152}{}{Cuando se mueve, es como contemplar un océano de músculos.}
 {153}{}{Está mirando tu oreja con hambre.}
-{157}{}{Su cara parece un bloque de carne cruda.}
-
-# FLOAT DIALOGUE
+{154}{}{Su cara parece un bloque de carne cruda.}
 {158}{}{Hurgghhh.}
 {159}{}{Gunhrrhh}
 {160}{}{Mike machaca}
@@ -29,13 +24,9 @@
 {174}{}{Odio a Robin Givens}
 {175}{}{¡Grrrrrgrrrrgrrr…grrr…grrr…grr! ¡Grr! ¿Grrr?}
 {176}{}{¿Qué significa 'porcentaje'?}
-
-# CLICK DIALOGUE
-# (PRIZEFIGHTER)
 {200}{}{::Mike se encoge a medida que se acerca::}
 {201}{}{::Mike se queja a medida que se acerca::}
 {202}{}{::Mike levanta las manos en señal de rendición cuando se acerca::}
-# (FEMALE, ANY BUT PRIZEFIGHTER)
 {203}{}{Eres preciosa.}
 {204}{}{Me gustan tus orejas.}
 {205}{}{Basta de hablar. Hora de ir a la cama.}

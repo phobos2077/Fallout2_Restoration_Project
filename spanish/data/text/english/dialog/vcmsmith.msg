@@ -3,7 +3,7 @@
 {102}{}{No me parece que te haya visto antes por aquí, forastero. Mi nombre es Smith. ¿Te
  puedo ayudar en algo?}
 {103}{}{¿Querías algo más?}
-{104}{}{¿Qué puedes contarme sobre Ciudad Refugio?}
+{104}{}{¿Puedes hablarme de Ciudad Refugio?}
 {105}{}{¿Qué estás haciendo por aquí?}
 {106}{}{Estoy buscando el Refugio.}
 {107}{}{Me gustaría ayudarte con ese arado.}

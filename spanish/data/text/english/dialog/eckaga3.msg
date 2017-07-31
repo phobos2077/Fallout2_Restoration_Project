@@ -1,8 +1,3 @@
-#############################################################
-#  Kaga -3er encuentro (Encuentros)             #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un hombre que lleva una armadura de metal.}
 {101}{}{Ves a Kaga.}
 {102}{}{Sí, es Kaga el no-tan-Grande. Lleva una armadura de metal y quiere matarte.}

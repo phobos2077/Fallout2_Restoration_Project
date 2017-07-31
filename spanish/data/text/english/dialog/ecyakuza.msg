@@ -1,8 +1,3 @@
-#############################################################
-#  Yakuzas (Encuentros)             #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Matar es una forma de arte.}
 {101}{}{Morir es tu karma.}
 {102}{}{Vida y muerte son lo mismo.}

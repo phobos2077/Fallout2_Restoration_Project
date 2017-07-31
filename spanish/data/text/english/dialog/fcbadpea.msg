@@ -54,13 +54,12 @@
 {153}{}{¿No hay nada más en la vida que esto?}
 {154}{}{Somos más listos de lo que crees.}
 {155}{}{¡Mirad! ¡Un lao wai!}
-
 {163}{}{¿Has matado a AHS-9? ¡Sí!}
 {164}{}{Esos Hubologistas me dan escalofríos.}
 {165}{}{Nos has hecho un gran servicio.}
 {166}{}{¡Muerte a los Hubologistas!}
 {167}{}{Esto sacará rápidamente a esos Hubologistas de aquí.}
-{168}{}{Tontos Hubologistas, ni siquiera pueden proteger a su propio líder.}
+{168}{}{Estúpidos Hubologistas, que ni siquiera pueden proteger a su propio líder.}
 {169}{}{Será mejor que los Hubologistas no vengan a por nosotros para vengarse.}
 {170}{}{Supongo que no eres un espía.}
 {171}{}{¡Hijo de una cerda! ¡Muere!}
@@ -68,7 +67,7 @@
 {173}{}{¡Déjanos, lao wai!}
 {174}{}{¿No has hecho ya suficiente daño?}
 {175}{}{¡Te odio!}
-{176}{}{¡Abandona esta ciudad!}
+{176}{}{¡Abandona está ciudad!}
 {177}{}{¡Ve a tu casa con tu gente!}
 {178}{}{¡No oscurezcas mi vida con tu presencia!}
 {179}{}{¿Qué hace falta para deshacerse de ti?}

@@ -3,3 +3,5 @@
 {102}{}{No es más que un montón de rocas.}
 {103}{}{¡Vaya! Encontré una llave inglesa enterrada bajo las rocas.}
 {104}{}{Aquí no hay nada más.}
+{110}{}{¡Sí! ¡Yo nuevo aquí!}
+{111}{}{No encuentro yo todavía.}

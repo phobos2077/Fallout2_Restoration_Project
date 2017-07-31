@@ -1,11 +1,4 @@
-#############################################################
-#  Soldados Enclave (Encuentros)            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un patrullero del Enclave.}
-
-# Floats if PC is male
 {200}{}{Eres un inmigrante ilegal en territorio del Enclave. La proposición 312 nos ordena disparar sin previo aviso. ¡Lo siento, chico!}
 {201}{}{¡Es un espía mutante! ¡Acabad con él, equipo!}
 {202}{}{Como soldado leal del Enclave, tengo ordenes de matarte. Espero que no te importe.}
@@ -14,8 +7,6 @@
 {205}{}{Muere, ¡escoria del Yermo!}
 {206}{}{¡Tú! Es la clase de gentuza como tú la que destruyó esta otrora gran nación. ¡Vas a pagar por ello!}
 {207}{}{¡Eh, Louie! ¿Has visto alguna vez convertirse en papilla a uno de estos? ¡Mira!}
-
-# (Floats if PC is female)
 {300}{}{Dios, odio tener que matar a una mujer. Hagámoslo rápido, ¿vale?}
 {301}{}{¡Alarma! ¡Alarma!}
 {302}{}{Parece que ha recorrido un largo camino en vano, señorita.}

@@ -47,8 +47,6 @@
 {146}{}{De acuerdo, te creo. Ya me iba.}
 {147}{}{¿Cómo... cómo pudiste matar así a mi escorpión? Estaba cerca... estaba tan cerca...}
 {148}{}{Dejas de balbucear}
-
-# Agility Test
 {200}{}{¡Ah ja ja! Mejora ESO, señor Exoesqueleto.}
 {201}{}{¡Yujuuuu!}
 {202}{}{¡Maldición!}
@@ -58,8 +56,6 @@
 {206}{}{¿Abres cierre con GARRAS?}
 {207}{}{::chirrido::}
 {208}{}{Bueno, parece un empate.}
-# The following 4 strings are used in the phrase:
-# "Has perdido. Escorpión: [SCORE], [Player Name]: [SCORE]."
 {209}{}{Has perdido. Escorpión: }
 {210}{}{, }
 {211}{}{: }
@@ -67,8 +63,6 @@
 {213}{}{¿Errr?}
 {214}{}{Has demostrado que eres tan ágil como el escorpión rad.}
 {215}{}{Ten, toma estos Mentats. Parece que los necesitas.}
-
-# Perception Test
 {300}{}{E...Z...W...T...O...D...F...E..R...T...F...P...Y...J...M}
 {301}{}{Sí, eso es correcto.}
 {302}{}{M...O...O... ¿Moo?}
@@ -76,8 +70,6 @@
 {304}{}{::chirridos:: ::click clack:: ::gorjeo (movimiento de cola)::}
 {305}{}{¡Correcto! ¡Buen chico! ¡Bueeeeen chico! Tu habilidad del código morse está mejorando notablemente.}
 {306}{}{Has demostrado que eres tan perspicaz como el escorpión rad.}
-
-# Intelligence Test
 {400}{}{Jaque mate ::click::}
 {401}{}{¿QUÉ? ¡Has hecho trampa!}
 {402}{}{¿Mate?}

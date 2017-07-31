@@ -6,8 +6,8 @@
 {105}{}{¡Un intruso! ¡Guardias! ¡Guardias!}
 {106}{}{¡¿Qu-?! ¡Un mutante! ¡GUARDIAS! ¡GUARDIAS!}
 {107}{}{¡¿Qu-? ¡Un espectro! ¡GUARDIAS! ¡GUARDIAS!}
-{108}{}{Que le vaya bien, Capitán.}
-{109}{}{Ciudad Refugio prevalece, Capitán.}
+{108}{}{Que le vaya bien, capitán.}
+{109}{}{Ciudad Refugio prevalece, capitán.}
 {110}{}{Que te vaya bien, Ciudadano.}
 {111}{}{Ciudad Refugio prevalece, Ciudadano.}
 {112}{}{Listas, listas, listas... ¡adoro las listas!}
@@ -23,7 +23,7 @@
 {122}{}{Ayudar-te.}
 {123}{}{Dejas de balbucear}
 {124}{}{¿Quién eres?}
-{125}{}{Sólo pasaba por aquí, gracias.}
+{125}{}{Solo estaba echando un vistazo, gracias.}
 {126}{}{¡¿OTRO siervo que se ha desviado de su recorrido?! Informaré sobre Barkus si sigue dejando que vagabundeen por ahí... en cuanto a ti... ¡Fuera! ¡Sal disparado!}
 {127}{}{¿DISPARADO a ti? Va-le.}
 {128}{}{Dejas de balbucear}
@@ -35,19 +35,19 @@
 {134}{}{Soy el ASISTENTE de la Primer Ciudadano. Yo programo sus visitas, administro el test de Ciudadanía a candidatos potenciales, y actualizo todas las listas en el servidor de Ciudad Refugio. No es poco trabajo, te lo aseguro.}
 {135}{}{¿El test de Ciudadanía?}
 {136}{}{Hablando del test de Ciudadanía, quiero hacerlo otra vez.}
-{137}{}{¿Te puedo hacer unas preguntas?}
+{137}{}{¿Puedo hacerte unas preguntas?}
 {138}{}{Ya veo. Bueno, tengo que irme.}
 {139}{}{Sí, esa es la manera CORRECTA... puedes convertirte en Ciudadano haciendo el test de Ciudadanía.}
 {140}{}{Sí, soy el responsable de administrar el test de Ciudadanía a todo aquel que desee convertirse en Ciudadano de Ciudad Refugio.}
 {141}{}{¿Qué es el test, exactamente?}
 {142}{}{Quiero hacer el test de nuevo.}
 {143}{}{¿Cuáles son los beneficios de ser Ciudadano?}
-{144}{}{¿Te puedo hacer alguna pregunta más?}
+{144}{}{¿Puedo hacerte alguna otra pregunta?}
 {145}{}{Ya veo. Quizás hablemos de nuevo más tarde.}
 {146}{}{¿Beneficios? Mira a tu alrededor... Ciudad Refugio es la ciudad más segura y rica del Yermo. Los Ciudadanos reciben tratamiento médico gratuito, hay comida y agua de sobra, y no hay crímenes o enfermedades.}
 {147}{}{¿Qué es el test, exactamente?}
 {148}{}{Suena bien. Quiero hacer el test de nuevo.}
-{149}{}{¿Te puedo hacer alguna pregunta más?}
+{149}{}{¿Puedo hacerte alguna otra pregunta?}
 {150}{}{Ya veo. Quizás hablemos de nuevo más tarde.}
 {151}{}{Es un examen de comprensión, dividido en varias partes... matemáticas avanzadas, relaciones espaciales, razonamiento deductivo, comprensión lingüística... oh, y también hay que pasar un examen físico.}
 {152}{}{¿Qu... matemáticas avanzadas? Eh, ¿no hay ningún objeto que pueda conseguir o alguien con quien pueda pelear para adquirir la Ciudadanía?}
@@ -57,18 +57,18 @@
 {156}{}{¿No pruebas la agudeza visual o las habilidades lógicas de la persona? Hmmm. Bueno, tal vez deberías considerar el revisar el test en el futuro... después de que yo lo haga.}
 {157}{}{Ya veo. ¿Puedo hacerte algunas otras preguntas?}
 {158}{}{Interesante. Gracias por tu tiempo.}
-{159}{}{Bueno, si finalizas esa tarea para la Primer Ciudadano, ella te otorgará la Ciudadanía, aunque no la merezcas. Supongo que tendrá sus motivos.}
+{159}{}{Bueno, si finalizas esa tarea para la Primer Ciudadano, ella te dará la Ciudadanía, aunque no la merezcas. Supongo que tendrá sus motivos.}
 {160}{}{No. Si quieres convertirte en Ciudadano, debes hacer el test.}
 {161}{}{¿No apruebas que me otorgue la Ciudadanía por eso?}
 {162}{}{Entonces me arriesgaré con el test.}
 {163}{}{Entonces, haré el test de nuevo.}
-{164}{}{Hmmm. ¿Te puedo hacer alguna pregunta más?}
-{165}{}{Gracias por su tiempo. Adiós.}
+{164}{}{Hmmm. ¿Te puedo hacer algunas otras preguntas?}
+{165}{}{Gracias por tu tiempo. Adiós.}
 {166}{}{¿Deseas hacer el test? ¡Excelente, excelente! Nada me gusta más que hacer tests a candidatos potenciales... pero he de advertirte que esta prueba dura unas cuantas horas. ¿Deseas hacerla ahora?}
 {167}{}{Bueno, cualquiera puede hacer el test. Creo que en tu caso, sin embargo, sería una pérdida de tiempo... para ambos. Alguien de tu calibre simplemente no es material para Ciudadano.}
 {168}{}{Claro.}
 {169}{}{Ahora no. ¿Te puedo hacer alguna pregunta más?}
-{170}{}{Quizás en otra ocasión.}
+{170}{}{Quizá en algún otro momento.}
 {171}{}{Me gustaría hacer el test de todos modos.}
 {172}{}{Sólo dame el maldito test.}
 {173}{}{Entonces olvídalo. ¿Te puedo hacer alguna pregunta más?}
@@ -95,7 +95,7 @@
 {194}{}{Pues... ¡has aprobado! Enhorabuena.}
 {195}{}{Genial. ¿Así que soy Ciudadano?}
 {196}{}{Bueno, aun tenemos que hacer la prueba física. Afortunadamente, tengo el equipamiento aquí mismo. Tal vez quieras quitarte las botas.}
-{197}{}{Vale.}
+{197}{}{De acuerdo.}
 {198}{}{Tú... ¡tienes un sexto dedo! ¡Eres un mutante! ¡Como te atreviste siquiera a INTENTAR ser uno de los nuestros... tú... tú, abominación! ¡Largo! ¡Fuera! ¡Y no vuelvas más!}
 {199}{}{Esta es la parte en la que me cabreo y mato a todos los Ciudadanos de Ciudad Refugio solo para divertirme. Empezando por ti.}
 {200}{}{¡Me voy, me voy!}
@@ -111,15 +111,15 @@
 {210}{}{Bueno, si finalizas esa tarea para la Primer Ciudadano, ella te dará la Ciudadanía, aunque no la merezcas. Supongo que tendrá sus motivos.}
 {211}{}{¿Hay alguna otra manera de hacerse Ciudadano?}
 {212}{}{¿No apruebas que me otorgue la Ciudadanía por eso?}
-{213}{}{¿Te puedo hacer alguna otra pregunta?}
+{213}{}{¿Puedo hacerte alguna otra pregunta?}
 {214}{}{Hmm. Adiós.}
 {215}{}{No estoy en posición de cuestionar las acciones de la Primer Ciudadano}
 {216}{}{¿Hay alguna otra manera de hacerse Ciudadano?}
-{217}{}{¿Te puedo hacer alguna pregunta más?}
-{218}{}{Entonces da igual.}
+{217}{}{¿Puedo hacerte alguna otra pregunta?}
+{218}{}{No importa, entonces.}
 {219}{}{¿Gecko? Es una asquerosa ciudad ruinosa al norte, habitada por esas criaturas, esos... "necrófagos". ¡Son los responsables de envenenar el agua del subsuelo, ya sabes! ¡Es un obvio acto de terrorismo contra Ciudad Refugio!}
 {220}{}{¿Quienes están envenenando el agua?}
-{221}{}{Hmmm. ¿Te puedo hacer alguna pregunta más?}
+{221}{}{Hmmm. ¿Te puedo hacer algunas otras preguntas?}
 {222}{}{Gracias, adiós.}
 {223}{}{Su asquerosa ciudad está construida en torno a una antigua central nuclear... ¡una central que, DE ALGÚN MODO, volvieron a encender y ahora está filtrando radiación! ¡Esas criaturas tienen que ser sacadas de ahí y esa central debe apagarse!}
 {224}{}{Hmmm. ¿Te puedo hacer algunas otras preguntas?}

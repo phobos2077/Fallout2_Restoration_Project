@@ -46,7 +46,7 @@ de talismán de la suerte. Vuelve a venir con nosotros si vamos al mismo sitio.}
  Probablemente no más
  de un par de semanas. Entonces podremos irnos. Simplemente sigue pidiéndome noticias.}
 {139}{}{¿Qué transportáis normalmente?}
-{140}{}{Déjame preguntarte algo más.}
+{140}{}{Déjame hacerte otra pregunta.}
 {141}{}{Gracias, lo haré. Adiós.}
 {142}{}{Normalmente buscamos guardias de caravanas, pero a esta caravana todavía le queda mucho para estar lista. Siéntete libre de volver a preguntarme.}
 {143}{}{¿Cuando del día 1?}
@@ -57,7 +57,7 @@ de talismán de la suerte. Vuelve a venir con nosotros si vamos al mismo sitio.}
 {148}{}{Bien, mayormente recogemos medicamentos en Ciudad Refugio, y lo vendemos a Redding a cambio 
 de oro.}
 {149}{}{Eso es interesante. ¿Dices que estás buscando guardias?}
-{150}{}{Déjame preguntarte algo más.}
+{150}{}{Déjame hacerte otra pregunta.}
 {151}{}{Oh, vale. Adiós.}
 {152}{}{Vienes en un buen momento. Estamos listos para irnos ahora mismo. La paga es de 1.000 dólares, pero te estoy pagando
  por esto sólo porque necesito un guardia más. ¿Listo para unirte a nosotros?}

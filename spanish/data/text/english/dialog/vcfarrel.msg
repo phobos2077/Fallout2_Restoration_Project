@@ -52,6 +52,5 @@
  en Ciudad Refugio. Soy el oficial de Sub-servicios Holden. ¿Cómo puedo ayudarle hoy, capitán?}
 {151}{}{¡Oye! ¡Aléjate de aquí!}
 {152}{}{¡Ya está bien! ¡Sal de aquí!}
-
 {153}{}{Gracias.}
 {154}{}{[continuar]}

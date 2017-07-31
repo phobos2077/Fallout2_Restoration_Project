@@ -1,8 +1,8 @@
 {100}{}{Ves a un hombre vestido con ropa de cuero y un arma oculta.}
 {101}{}{Es Felix, el capataz del rancho.}
 {102}{}{Parece un tipo más frío y duro que el resto del lote que ronda por aquí.}
-{103}{}{¿Qué puedo hacer por ti, forastero?}
-{104}{}{¿Tú otra vez?}
+{103}{}{¿Qué puedo hacer por ti, extranjero?}
+{104}{}{¿Otra vez tú?}
 {105}{}{Nyeh.}
 {106}{}{El sheriff me dijo que me pasara por aquí: dijo que el señor Westin podría tener un trabajo para mí.}
 {107}{}{Estoy aquí para ver al jefe.}
@@ -28,25 +28,22 @@
 {127}{}{Entonces supongo que tendremos que matarte.}
 {128}{}{¿Ha terminado la reunión?}
 {129}{}{Westin. Trabajo. A mí.}
-{130}{}{Marcho.}
+{130}{}{Me voy, yo.}
 {131}{}{Vale, él quiere que hagas un trabajo; yo tengo un trabajo. Alguien, o algo, mata vacas de dos cabezas. Vienes conmigo. Haces guardia. Mantienes a vacas seguras. Haces feliz a jefe. ¿Vale?}
-{132}{}{Vale.}
+{132}{}{De acuerdo.}
 {133}{}{No. Yo no mato.}
 {134}{}{Vuelves de nuevo, ¿verdad? ¿Está hecho el trabajo?}
 {135}{}{Sí.}
 {136}{}{No.}
 {137}{}{Sí, él dejó ciertas órdenes. Te ha estado esperando.}
 {138}{}{¡EH, TÚ! ¡Aléjate de ahí!}
-{139}{}{Vale.}
+{139}{}{De acuerdo.}
 {140}{}{¡Que te jodan!}
-#addons
 {141}{}{Sí. Dijo que te viera por cierto problema con los brahmines.}
 {142}{}{Sí. Me marcho de aquí.}
 {143}{}{Justo. Alguien, o algo, ha estado matando brahmines en los pastos del oeste. Te llevaré hasta allí y tú te encargarás de ello. Vamos.}
 {144}{}{¡Olvídalo!}
-
 {145}{}{El señor Westin te está esperando.}
 {146}{}{Bueno, estábamos teniendo un problema con unas alimañas, pero dejaron de fastidiarnos. Puedes ver a Westin si quieres.}
 {147}{}{Estoy aquí por negocios de Ciudad Refugio.}
-
 {500}{}{Toca esa puerta otra vez y lo pagarás. ¿Lo captas, amigo?}

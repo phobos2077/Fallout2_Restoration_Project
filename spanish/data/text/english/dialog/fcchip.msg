@@ -4,7 +4,7 @@
 {103}{}{Ooh, mis tripas... ay, ay, ay.}
 {104}{}{¿Tipas?}
 {105}{}{¿Qué hay?}
-{106}{}{¿Qué te sucede?}
+{106}{}{¿Qué es lo que te pasa?}
 {107}{}{¿Te duele algo? Ja ja ja.}
 {108}{}{¿Quién eres?}
 {109}{}{¿Tienes alguna información que darme sobre mi pueblo?}
@@ -28,11 +28,11 @@
 {127}{}{Realmente te lo agradezco. Ve a hablar con Lao Chou, el comerciante, y dile que necesito mi bazo de vuelta.}
 {128}{}{Volveré.}
 {129}{}{Soy Chip. Y me retuerzo de dolor.}
-{130}{}{¿Qué te sucede?}
+{130}{}{¿Qué es lo que te pasa?}
 {131}{}{¿Te duele algo? Ja ja ja.}
 {132}{}{Eso no es bueno. Hasta luego.}
 {133}{}{¿Información? ¿Me retuerzo de dolor y tú quieres información?}
-{134}{}{¿Qué te sucede?}
+{134}{}{¿Qué es lo que te pasa?}
 {135}{}{¿Te duele algo? Ja ja ja.}
 {136}{}{Olvídalo.}
 {137}{}{¿Ya has encontrado mi bazo?}
@@ -62,7 +62,7 @@
 {161}{}{Sí, y cobra 1.000 dólares.}
 {162}{}{}
 {163}{}{Caray. Tienes contactos de alto nivel. Vuelve dentro de un día y veré cómo puedo ayudarte.}
-{164}{}{Entendido.}
+{164}{}{Me parece bien.}
 {165}{}{¿Puedes cubrirlo?}
 {166}{}{Sí, supongo.}
 {167}{}{No.}
@@ -94,7 +94,6 @@
 {193}{}{Ves a un vagabundo calvo.}
 {194}{}{Ves a Chip. Parece sufrir mucho dolor.}
 {195}{}{Ves a un vagabundo calvo. Se sujeta un costado con la mano y jadea de dolor.}
-
 {196}{}{Está bien. Hablaré con Fung.}
 {197}{}{¿Ha habido suerte con lo de mi bazo?}
 {198}{}{Sí, y quería 1.000 dólares... pero ya los pagué yo.}

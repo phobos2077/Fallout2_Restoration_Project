@@ -6,12 +6,12 @@
 {104}{}{Me gustaría entrar en el Refugio.}
 {105}{}{Nada, lamento molestarte.}
 {106}{}{Ya son más de la 6 de la tarde. Debes marcharte.}
-{107}{}{Vale. Ya me marcho.}
+{107}{}{Está bien, me marcho.}
 {108}{}{De acuerdo. Sólo necesito un minuto más.}
 {109}{}{Tengo cosas que hacer. Me iré cuando esté listo.}
 {110}{}{¡¿¡Umag Nak!?! ¡Umag NAK!}
 {111}{}{Llamaré a algunos guardias para que te escolten a la salida.}
-{112}{}{Vale. Vamos allá.}
+{112}{}{Bien, vámonos.}
 {113}{}{Brog Frup}
 {114}{}{No te molestes. Puedo encontrar el camino yo solo.}
 {115}{}{Lo siento, pero esas son mis órdenes.}
@@ -29,7 +29,7 @@
 {125}{}{Lo siento, pero sólo se permite entrar en el Refugio a Ciudadanos. Estoy seguro de que lo
  entiendes.}
 {126}{}{Sólo pueden entrar Ciudadanos. Ahora vete.}
-{127}{}{Vale.}
+{127}{}{De acuerdo.}
 {128}{}{Umgh}
 {129}{}{Por supuesto. Pasa, por favor.}
 {130}{}{¡Agradezco yo!}

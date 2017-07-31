@@ -12,7 +12,7 @@
 {111}{}{Dejas de balbucear}
 {112}{}{¿Qué es este edificio?}
 {113}{}{Estoy buscando el Refugio.}
-{114}{}{Estoy buscando a un Siervo en particular... Joshua, creo. ¿Está aquí?}
+{114}{}{Estoy buscando a un siervo en particular... Joshua, creo. ¿Está aquí?}
 {115}{}{¿Quieres comprar algún esclav... er, siervo?}
 {116}{}{Hoy nada, gracias.}
 {117}{}{¿Esto? Esto es el Centro de Asignación de Siervos. ¿Necesitabas un siervo?}
@@ -26,7 +26,7 @@
 {125}{}{¿Qué es este edificio?}
 {126}{}{¿Alguien puede entrar allí?}
 {127}{}{Tenía otra pregunta que hacerte.}
-{128}{}{Gracias por las instrucciones. Adiós.}
+{128}{}{Gracias por las indicaciones. Adiós.}
 {129}{}{¿Pero qu-? ¿Eres uno de los nuevos siervos?}
 {130}{}{Sí}
 {131}{}{Uh-uh voy ahora yo}
@@ -40,7 +40,7 @@
 {139}{}{De acuerdo, sólo era curiosidad, gracias. Que te vaya bien.}
 {140}{}{Estoy cansado de siervos que son asignados sin autorización... *suspira*... veamos, ¿dijiste que estabas buscando el Refugio?
  Esa debe ser tu asignación del día. Muy bien. Haré que alguien te acompañe allí.}
-{141}{}{¡Refugio! ¡Refugio!}
+{141}{}{¡Ref-fugio! ¡Ref-fugio!}
 {142}{}{Yo vigilaría lo que digo, si fuera tú. Esto NO es esclavitud. Cuidamos a estos refugiados,
  y ellos tienen una buena vida... mejor que la que podrían tener en el Yermo.}
 {143}{}{¿De dónde los has sacado?}
@@ -84,7 +84,7 @@
 {180}{}{Deberías liberarlo ahora, antes de que vaya a peor.}
 {181}{}{¿Joshua? Sí, tenemos a un Siervo con ese nombre. Fue transferido recientemente al Centro Correccional. ¿Tu interés en él se debe a...?}
 {182}{}{Me gustaría negociar su liberación.}
-{183}{}{Sospecho que tiene una enfermedad contagiosa. Deberías liberarlo antes de que infecte a otros Siervos.}
+{183}{}{Sospecho que tiene una enfermedad contagiosa. Deberías liberarlo antes de que infecte a otros siervos.}
 {184}{}{No tengo una razón. Tenía otras preguntas...}
 {185}{}{De acuerdo. Adiós.}
 {186}{}{¿Ah, sí? ¿Y qué te hace pensar que lo liberaría?}
@@ -102,7 +102,7 @@
 {198}{}{Ya veo. Puede que regrese más tarde.}
 {199}{}{Ya veo. Puede que regrese más tarde, cuando tenga fondos suficientes para una donación.}
 {200}{}{Bueno... no es tanto como uno esperaría de una donación, pero servirá. El tal Joshua que estás buscando ha sido enviado al Patio para su procesamiento. Déjame que haga las gestiones oportunas.}
-{201}{}{Vale.}
+{201}{}{De acuerdo.}
 {202}{}{Está hecho. Joshua ya no es siervo de Ciudad Refugio, y ha sido trasladado al Patio junto con el resto de Errantes.}
 {203}{}{Gracias. Tenía algunas preguntas más...}
 {204}{}{Muy bien. Iré a buscarlo allí, entonces.}
@@ -140,8 +140,8 @@
 {236}{}{Quizá debas volver cuando tengas un siervo valioso que enseñarme. Tu catálogo actual... no impresiona a nadie.}
 {237}{}{Venga ya, este esclavo vale más que eso.}
 {238}{}{Un precio justo. Es todo tuyo.}
-{239}{}{De hecho, no voy a venderlo todavía. Tenía algunas preguntas que hacerte...}
-{240}{}{Por ahora no voy a venderlo. Quizás en otro momento.}
+{239}{}{En realidad no voy a venderlo todavía. Tengo algunas preguntas que hacerte...}
+{240}{}{En realidad no voy a vender a ese esclavo. Quizás en otro momento.}
 {241}{}{Muy bien. Tengo algunas preguntas que hacerte.}
 {242}{}{De acuerdo. Quizás cuando tenga algo más que ofrecerte.}
 {243}{}{No, creo que no... 250 o nada.}

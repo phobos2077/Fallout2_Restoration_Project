@@ -1,37 +1,20 @@
-#############################################################
-#  Guardia puerta destilería Rebecca (The Den)     	    #
-#############################################################
-
-#0. Look
 {100}{}{Ves a un guardia.}
-{101}{}{Ves a un guardia del Casino Bar de Becky}
+{101}{}{Ves a un guardia del Casino Bar de Becky.}
 {150}{}{Parece que tiene la vista fija en la puerta.}
-
-#1. CF: Hostile
 {200}{}{No vas a salirte con la tuya tan fácilmente.}
-
-#2. CF: Generic
 {210}{}{Está es la habitación de Rebecca. No se permite la entrada.}
-{211}{}{Espero que lo estés pasando bien.}
+{211}{}{Espero que lo esté pasando bien.}
 {212}{}{¿Estás buscando a Becky? Está justo ahí.}
-{213}{}{Hola.}
+{213}{}{Buenas.}
 {214}{}{Disfruta de las mesas.}
 {215}{}{Becky tiene las mejores bebidas del pueblo.}
-
-#3. Self Initiated: Door tampered with
 {230}{}{Aléjate de ahí ahora mismo.}
 {231}{}{No vuelvas a tocarla.}
 {232}{}{¡Atrás!}
 {233}{}{Deja la puerta tranquila.}
 {234}{}{¿Qué crees que estás haciendo?}
-
-#4. Self Initiated: Door opened
 {240}{}{¡Ladrón!}
-
-#5. Self Initiated: Caught Stealing.
 {250}{}{Aquí no toleramos eso.}
-
-# left post message
 {300}{}{Nena, ¿tienes algo que hacer después del trabajo?}
 {301}{}{Estás preciosa, como siempre.}
 {302}{}{Tú si que sabes como llevar la barra, nena.}
@@ -40,8 +23,6 @@
 {305}{}{¿Y si... tú y yo... al salir?}
 {306}{}{Becky me dará el día de mañana libre si estás... disponible.}
 {307}{}{¿Te he dicho alguna vez lo bonitos que son tus ojos?}
-
-# leaving message
 {350}{}{Así que juegas a ignorarme. Yo también puedo jugar a eso.}
 {351}{}{¿Qué? ¿Aún estás cabreada conmigo?}
 {352}{}{Estás, eh, haciendo un buen trabajo... sigue con ello.}
@@ -50,6 +31,4 @@
 {355}{}{Dios, si que sabes como hacerte la difícil.}
 {356}{}{Yo.. eh, hablaremos más tarde.}
 {357}{}{Me alegra haber hablado contigo... Me vuelvo allí.}
-
-# door open
 {375}{}{Oh, mierda...}

@@ -1,20 +1,14 @@
-#############################################################
-#  Tramperos (Encuentros)            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un hombre sucio y sin afeitar.}
-{200}{}{Ves a una mujer demacrada y sucia.}
 {101}{}{Un trampero.}
 {102}{}{Mejor no acercarse mucho. Algunos de los bichitos de su ropa podrían estar buscando un hogar más limpio.}
 {103}{}{Hola. No viene por aquí mucha gente en el territorio de los tramperos. ¿Qué quieres?}
 {104}{}{¿Tienes alguna piel de gecko para vender?}
 {105}{}{Sólo pasaba por aquí.}
-{106}{}{Ug.}
+{106}{}{Uhg.}
 {107}{}{Bien, estoy pensando si debería venderte mis pieles. Me ahorraría el problema de entrar en el pueblo.}
 {108}{}{¿Qué tienes?}
 {109}{}{No importa.}
-{110}{}{Ug.}
+{110}{}{Uhg.}
 {111}{}{Esto es lo que tengo:}
 {112}{}{pieles de gecko normal.}
 {113}{}{pieles de gecko dorado.}
@@ -38,10 +32,9 @@
 {131}{}{Este es mi territorio de caza. ¡Fuera!}
 {132}{}{¡Te despellejaré vivo!}
 {133}{}{Voy a usar tu cabeza como trofeo.}
-
 {134}{}{Una piel de gecko normal: }
 {135}{}{Una piel de gecko dorado: }
-
 {136}{}{Vale, guarda. Tú ganas.}
 {137}{}{Tienes suerte de que tenga que ir a revisar mis trampas.}
 {138}{}{Creo que he oído a Mamá llamarme.}
+{200}{}{Ves a una mujer demacrada y sucia.}

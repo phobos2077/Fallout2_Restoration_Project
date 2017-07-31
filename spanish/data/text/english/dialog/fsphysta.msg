@@ -30,5 +30,4 @@
 {129}{}{-más-}
 {130}{}{La computadora no responde a ningún comando.}
 {131}{}{No parece que puedas encontrar nada en lo que poner eso.}
-
 {132}{}{Copiando planos..... Copia terminada... Volviendo a... Error I/O... GPF... Terminal desactivándose.}

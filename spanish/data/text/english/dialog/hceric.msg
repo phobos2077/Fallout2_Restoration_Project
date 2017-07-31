@@ -60,7 +60,7 @@
 {159}{}{Eso dijo, ¿eh? Bien, dile que el generador es de uranio y que la minúscula cantidad de energía que requiero apenas se notaría en el generador. ¡Y dile que quiero mi energía!}
 {160}{}{¡Lo haré! ¡Buen discurso!}
 {161}{}{Se lo diré. Tengo otras preguntas.}
-{162}{}{Desde luego. Adiós.}
+{162}{}{Claro. Adiós.}
 {163}{}{¿Has solucionado lo del generador? Gracias, de verdad. No puedo ni empezar a describir lo agradecido que estoy.}
 {164}{}{La forma habitual de expresar agradecimientos es a través de regalos, dinero o equipamiento.}
 {165}{}{No lo hagas, entonces. Me vale con un gracias.}

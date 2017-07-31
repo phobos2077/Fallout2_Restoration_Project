@@ -7,27 +7,27 @@
 {106}{}{                                    [Este artilugio podría ser útil].}
 {107}{}{Te llevas al robot contigo.}
 {108}{}{Dejas al robot.}
-{109}{}{Salir}
-{110}{}{Urg}
+{109}{}{Salir.}
+{110}{}{Uhg.}
 {111}{}{[Toda esta avanzada tecnología cibernética se echa a perder en semejante cerebro inferior]. }
 {112}{}{Sal de mi camino, montón de chatarra.}
 {113}{}{Organicemos tu inventario.}
 {114}{}{Adiós.}
-{115}{}{Ug.}
+{115}{}{Uhg.}
 {116}{}{[Parece como si quisiera un plátano].}
 {117}{}{Sal de mi camino, Burbujita.}
 {118}{}{Espera aquí.}
 {119}{}{Vamos a ver qué tenemos en tu inventario, homínido.}
 {120}{}{Adiós.}
-{121}{}{Ug.}
+{121}{}{Uhg.}
 {122}{}{¿N-n-n-n-nuevas órd…enes?}
-{123}{}{Aparta de mi camino.}
+{123}{}{Apártate de mi camino.}
 {124}{}{Espérame aquí.}
 {125}{}{Ya no te necesito. Vete.}
 {126}{}{¿Qué armas puedes usar?}
 {127}{}{Organicemos tu inventario.}
 {128}{}{Adiós.}
-{129}{}{Ug.}
+{129}{}{Uhg.}
 {130}{}{Entregar arma                                                    Dirigirse a la superficie.}
 {131}{}{}
 {132}{}{Adiós}
@@ -42,7 +42,7 @@
 {141}{}{Cambiemos la formación.}
 {142}{}{¿Tienes otras habilidades?}
 {143}{}{Adiós.}
-{144}{}{Ug.}
+{144}{}{Uhg.}
 {145}{}{Skynet ha procesado toda la información necesaria de esta localización.}
 {146}{}{Esssss……perandooo.}
 {147}{}{        [Está justo donde lo dejaste].}
@@ -105,15 +105,10 @@
 {204}{}{Desactivando toda la seguridad - Nivel 1}
 {205}{}{Desactivando toda la seguridad - Nivel 2}
 {206}{}{Desactivando toda la seguridad - Nivel 3}
-
 {306}{}{[Este artilugio podría ser útil.]}
-
 {400}{}{Guarda tu arma.}
-
 {410}{}{Rrrrrr}
-
 {420}{}{Maaaarchandooo}
-
 {430}{}{Activando unidades motrices.}
 {431}{}{Buscando nuevas coordenadas.}
 {432}{}{Reubicando.}

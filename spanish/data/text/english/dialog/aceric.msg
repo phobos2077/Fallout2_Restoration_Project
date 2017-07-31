@@ -1,7 +1,3 @@
-#############################################################
-#  Feargus (Arroyo)     				    #
-#############################################################
-
 {100}{}{Ves a tu sobrino, Feargus, llorando por algún motivo.}
 {101}{}{¡Buah! Arregla el pozo por favor.}
 {102}{}{¡Buaah! ¡Tengo mucha sed, pero el pozo está roto!}

@@ -28,7 +28,7 @@
 {120}{}{Seleccionar Virus.}
 {121}{}{Seleccionar Órganos.}
 {122}{}{Seleccionar Cadáveres.}
-{123}{}{Volver al Menú Principal.}
+{123}{}{Volver al Menu Principal.}
 {124}{}{Salir.}
 {125}{}{Menú de Virus:
                                                             1-ántrax
@@ -46,7 +46,7 @@
 {133}{}{Retirar viruela.}
 {134}{}{Retirar ébola.}
 {135}{}{Retirar hantavirus.}
-{137}{}{Volver al Menú Principal.}
+{137}{}{Volver al Menu de Recuperación.}
 {138}{}{Salir.}
 {139}{}{[Ves cómo el robot avanza por los pasillos de material biológico almacenado, y vuelve con un pequeño frasco que deposita dentro de una abertura en la pared. Observas fascinado cómo el frasco es trasferido desde el entorno sellado del área de almacenamiento a la habitación donde estás. Tu fascinación se vuelve horror cuando el frasco cae al suelo y se rompe. Correr ahora te parece una buena idea].}
 {140}{}{Salir.}
@@ -62,18 +62,18 @@
 {145}{}{}
 {146}{}{}
 {147}{}{Retirar Corazón.}
-{148}{}{Retirar Cerebro.}
+{148}{}{Retirar cerebro.}
 {149}{}{Retirar Riñón.}
 {150}{}{Retirar Hígado.}
 {151}{}{Retirar Pulmón.}
-{152}{}{Volver al Menú de Recuperación.}
+{152}{}{Volver al Menu de Recuperación.}
 {153}{}{Salir.}
 {154}{}{¡Alarma! Avería crítica en el mecanismo de almacenamiento.
       [Según el archivo, los dispositivos de almacenamiento de estos órganos fallaron hace mucho tiempo. A no ser que quieras hacer una sopa con ellos, sacarlos no tendría sentido].}
 {155}{}{}
 {156}{}{Volver al Menú de Órganos}
-{157}{}{Volver al Menú de Recuperación}
-{158}{}{Salir}
+{157}{}{Volver al Menu de Recuperación.}
+{158}{}{Salir.}
 {159}{}{¡Alarma! Avería en el mecanismo de almacenamiento
                   - Tanques de almacenamiento 101 a 104
                               - Se requieren parámetros de corrección
@@ -82,7 +82,7 @@
 {161}{}{}
 {162}{}{}
 {163}{}{Intentar realizar los ajustes.}
-{164}{}{Volver al Menú de Recuperación.}
+{164}{}{Volver al Menu de Recuperación.}
 {165}{}{Intentarlo más tarde.}
 {166}{}{[Debido a tu ineptitud, todos los cerebros mueren. Quizá subir la temperatura hasta 98.6ºC fue excesivo. Nunca fuiste muy bueno en ciencias].}
 {167}{}{Salir.}
@@ -118,10 +118,10 @@
 {185}{}{}
 {189}{}{}
 {193}{}{}
-{196}{}{Retirar cerebro anormal}
-{197}{}{Retirar cerebro de chimpancé}
-{198}{}{Retirar cerebro humano}
-{199}{}{Retirar cerebro cibernético}
+{196}{}{Cerebro anormal}
+{197}{}{Cerebro de chimpancé}
+{198}{}{Cerebro humano}
+{199}{}{Cerebro cibernético}
 {200}{}{[Aunque las lecturas indican que este cerebro está vivo, los niveles de actividad cerebral están muy por debajo de lo que sería normal.]   ¿Retirar?}
 {201}{}{}
 {202}{}{Sí.}
@@ -149,5 +149,4 @@
 {232}{}{[Aunque todas las unidades de almacenamiento están vacías, los listados dicen que están llenas. Debe haber un error en el programa. Oh, qué bien].}
 {233}{}{Volver al Menu Principal.}
 {234}{}{Salir.}
-
 {300}{}{ es incapaz de leer lo que pone en el monitor.}

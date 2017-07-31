@@ -10,9 +10,9 @@
 {108}{}{¿Qué quieres?}
 {109}{}{¿Quién tú?}
 {110}{}{¿Tú prisionero?}
-{111}{}{Marcho yo ahora.}
+{111}{}{Marcho ahora.}
 {112}{}{¿Quién eres?}
-{113}{}{¿Estás prisionero aquí?}
+{113}{}{¿Eres prisionero aquí?}
 {114}{}{Me iré ahora.}
 {115}{}{Mi nombre es Matt. ¿Importa?}
 {116}{}{Supongo que no.}
@@ -45,7 +45,6 @@
 {138}{}{Sí.}
 {139}{}{No.}
 {140}{}{¡Todo esto no es más que un montón de mierda!}
-
 {141}{}{Yo no aquí para escapar. Yo aquí porque alguien rompe computadora. ¿Has hecho tú?}
 {142}{}{No estoy aquí para hablar de planes de fuga. Alguien saboteó el interfaz de la computadora principal. ¿Sabes algo de eso?}
 {143}{}{¡Todo esto no es más que un montón de mierda!}

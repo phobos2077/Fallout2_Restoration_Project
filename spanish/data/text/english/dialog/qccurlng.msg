@@ -53,7 +53,7 @@
 {151}{}{¡Se requiere ayuda en la Sección Química! ¡Urgente!}
 {152}{}{¡Guardias! ¡Alarma! ¡Guardias!}
 {153}{}{¿En serio? Nuestra investigación sobre los primitivos muestra claramente cambios en su ADN. Es un resultado natural de toda la radiación de fondo.}
-{154}{}{¿Y qué tiene nuestro ADN de diferente?}
+{154}{}{¿Y qué si nuestro ADN es un poco diferente?}
 {155}{}{No sé exactamente qué significa eso pero, ¿y qué si somos un poco diferentes?}
 {156}{}{No, en realidad no. En realidad eres bastante diferente, al menos lo es tu ADN. Un desafortunado efecto de las generaciones expuestas a la radiación de fondo, supongo.}
 {157}{}{¿Y qué si nuestro ADN es un poco diferente?}
@@ -95,7 +95,7 @@
 {193}{}{De acuerdo, me voy. Uno de los dos no tiene remedio, y creo que no soy yo. Adiós.}
 {194}{}{Estudios toxicológicos sobre la efectividad de la toxina V.E.F, sí.}
 {195}{}{¿La toxina V.E.F? ¿Qué es eso?}
-{196}{}{Déjame preguntarte sobre otro tema.}
+{196}{}{Déjame preguntarte algo más.}
 {197}{}{La toxina V.E.F es la solución perfecta para nuestro difícil problema.}
 {198}{}{¿Qué es la toxina V.E.F?}
 {199}{}{Espera un minuto. Déjame preguntarte sobre otra cosa.}
@@ -148,13 +148,13 @@
 {246}{}{Cuando las estrellas arrojaron sus lanzas,}
 {247}{}{y mojaron el cielo con sus lágrimas,}
 {248}{}{¿sonrió al contemplar su obra?}
-{249}{}{¿Aquel que hizo al cordero, te hizo a ti?}
+{249}{}{                                      Total Weight:}
 {250}{}{¿Eh?}
 {251}{}{Oh, sólo es algo que he recordado de un poeta muerto hace mucho. Me estaba preguntando si todavía hay un lugar para aquellos que trabajaron en un camino tan oscuro por tanto tiempo. Se acabó nuestro tiempo, el vuestro acaba de comenzar. ¡Vete!}
 {252}{}{Oh, de acuerdo, gracias por toda tu ayuda. Eres un hombre valiente.}
 {253}{}{Eres un loco... pero un loco útil. Adiós.}
-{254}{}{¡Debes irte!}
-{255}{}{Lárgate de aquí.}
+{254}{}{¡Vámonos!}
+{255}{}{Vete de aquí.}
 {256}{}{¡Muévete!}
 {257}{}{¡No tienes tiempo para esto!}
 {258}{}{¡Vete mientras puedas!}

@@ -4,7 +4,7 @@
 {103}{}{El rostro de este hombre carece de emociones. Si ha reparado en ti, no lo demuestra.}
 {104}{}{¿Te apetece una copa, héroe?}
 {105}{}{Bienvenido, héroe. Por favor, toma asiento en el bar.}
-{106}{}{¡Por favor! ¡Toma asiento, descansa un poco!}
+{106}{}{¡Por favor! ¡Siéntate, descansa un poco!}
 {107}{}{Que le vaya bien, capitán.}
 {108}{}{Ciudad Refugio prevalece, capitán.}
 {109}{}{Que te vaya bien, Ciudadano.}
@@ -17,8 +17,8 @@
 {116}{}{¡Bienvenido! Todos hemos oído hablar de tus hazañas contra el Enclave. ¿Te puedo dar algo de beber?}
 {117}{}{Awnt-awnt}
 {118}{}{Dejas de balbucear}
-{119}{}{¿Qué hay para trasegar?}
-{120}{}{Estaba buscando cierta información.}
+{119}{}{¿Qué hay para tomar?}
+{120}{}{Entiendo. Estaba buscando más información...}
 {121}{}{Hoy nada, gracias.}
 {122}{}{Je je, "awnt-awnt" para ti también. Por favor, ten cuidado por el Yermo.}
 {123}{}{Oonnt-oooont!}
@@ -28,8 +28,8 @@
 {127}{}{¿Sí? ¿Puedo ayudarte?}
 {128}{}{Awnt-awnt}
 {129}{}{Dejas de balbucear}
-{130}{}{¿Qué hay para trasegar?}
-{131}{}{Estaba buscando cierta información.}
+{130}{}{¿Qué hay para tomar?}
+{131}{}{Entiendo. Estaba buscando más información...}
 {132}{}{Hoy nada, gracias.}
 {133}{}{Sí, "awnt-awnt" para ti también. Espera un momento mientras llamo a los guardias para que te "awnt-awnt" a la puerta principal.}
 {134}{}{¿Urnt? Urnt-urnt.}
@@ -38,7 +38,7 @@
 {137}{}{Tenemos agua mineral, agua destilada, y agua con gas. También tenemos varios tipos de alcohol sintetizado.}
 {138}{}{Um... ¿qué tipos de alcohol sintetizado tienes?}
 {139}{}{Eh, ¿no tienes ninguna bebida de verdad?}
-{140}{}{Un poco de agua estaría genial.}
+{140}{}{Un poco de agua estaría muy bien.}
 {141}{}{No importa. Buscaba algo de información.}
 {142}{}{Hoy nada, gracias.}
 {143}{}{Muy bien, señor.}
@@ -72,19 +72,19 @@
 {171}{}{Creo que me quedaré con un poco de agua.}
 {172}{}{Tomaré más de ese delicioso alcohol-Z.}
 {173}{}{¿Cómo fabricas esos tipos de alcohol sintetizado?}
-{174}{}{En realidad, buscaba un poco más de información.}
+{174}{}{En realidad, buscaba algo de información.}
 {175}{}{Nada más hoy, gracias.}
 {176}{}{Los Auto-Docs de Ciudad Refugio pueden preparar sustitutos sintéticos de sustancias adictivas. Como yo lo veo, esos sintetizados se utilizaron como placebos para los adictos a las drogas de antes de la guerra.}
 {177}{}{Parece que sabes mucho sobre estos sintetizados.}
 {178}{}{Eh, ¿no tienes ninguna bebida de verdad?}
 {179}{}{Oh. En fin, me quedaré con un poco de agua entonces.}
 {180}{}{Hmmm. Probaré un poco de ese alcohol-Z.}
-{181}{}{Interesante. Oye, quería un poco más de información...}
+{181}{}{Interesante. Verás, necesitaba más información...}
 {182}{}{Ya veo. Gracias por la información. Adiós.}
 {183}{}{Fui siervo del doctor Troy durante unos meses antes de que me reasignaran aquí. Él necesitaba que yo tuviera buena mano con la base de datos médica de Ciudad Refugio.}
 {184}{}{¿"Tuvieras buena mano"? ¿Legalmente puede pedirte que le hagas eso a una computadora?}
 {185}{}{¿Base de datos médica?}
-{186}{}{Interesante. Verás, necesitaba alguna otra información...}
+{186}{}{Interesante. Verás, necesitaba más información...}
 {187}{}{Ya veo. Gracias por la información. Adiós.}
 {188}{}{Eh... "tener buena mano" significa ser competente, cualificado, tener conocimientos.}
 {189}{}{Ah. Bueno, si te hace sentir mejor llamarlo así, vale. ¿Que era eso de una base de datos médica?}
@@ -101,7 +101,7 @@
 {200}{}{Nunca hemos sentido la necesidad de envenenarnos con esas mezclas asoladas por bacterias. El bar del Patio podría ser menos... quisquilloso.}
 {201}{}{Me quedaré con un poco de agua entonces.}
 {202}{}{Espera un momento. ¿Qué 'bebidas sintéticas' tienes?}
-{203}{}{Estaba buscando algo más de información.}
+{203}{}{Entiendo. Estaba buscando más información...}
 {204}{}{Entonces iré a comprobarlo, gracias.}
 {205}{}{Quizá deba ir a algún otro lugar, entonces.}
 {206}{}{Entonces quizá deberías dirigirte a nuestro centro de información en lugar de estar en este establecimiento. Se encuentra en el centro de la ciudad. Y ahora vete...tengo otros clientes.}

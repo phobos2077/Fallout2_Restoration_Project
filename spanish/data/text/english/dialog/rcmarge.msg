@@ -33,7 +33,7 @@
 {126}{}{Hola. Soy Marge. Marge LeBarge, y dirijo esta mina.}
 {127}{}{¿Qué puede hacer Marge por ti?}
 {128}{}{¿Qué extraéis aquí?}
-{129}{}{¿Alguna vez has oído hablar del Kit de Creación del Jardín del Edén?}
+{129}{}{¿Alguna vez has oído hablar de algo llamado Kit de Creación del Jardín del Edén?}
 {130}{}{¿Eres nativa de Redding?}
 {131}{}{¿Sabes algo acerca de algún trabajo o cualquier otra cosa que pase por aquí?}
 {132}{}{Sólo echaba un pequeño vistazo. Adiós.}
@@ -41,12 +41,12 @@
  y la República de Nueva California.}
 {134}{}{¿Lo vendéis en todas partes?}
 {135}{}{¿Por qué llamáis a vuestra mina Kokoweef?}
-{136}{}{Déjame preguntarte algo más.}
+{136}{}{Déjame hacerte otra pregunta.}
 {137}{}{Ya veo. Gracias. Eso es todo lo que necesitaba saber por ahora. Adiós.}
 {138}{}{Claro que sí. A todo el mundo le gusta el oro. Deberías hablar con el organizador de caravanas, James Hoffy, si estás realmente
  interesado en ello.}
-{139}{}{Déjame preguntarte algo más.}
-{140}{}{Gracias, eso haré. Adiós.}
+{139}{}{Déjame hacerte otra pregunta.}
+{140}{}{Gracias, lo haré. Adiós.}
 {141}{}{Un Kit de Creación del Jardín del Edén, ¿eh? Suena bastante impresionante. Si tuviera algo así seguro que no
  me encontrarías excavando entre el polvo para llegar a fin de mes, ¿no te parece?}
 {142}{}{Supongo que no. Déjame preguntarte algo más.}

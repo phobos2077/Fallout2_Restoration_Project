@@ -1,8 +1,3 @@
-#############################################################
-#  Elron (Encuentros)             #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un Hubologista.}
 {101}{}{¿Crees que puedes escapar del vengativo ojo de Hub?}
 {102}{}{Sois carne cruda. Sois simples reclutas. Rezad para que no os convirtamos en enemigos.}

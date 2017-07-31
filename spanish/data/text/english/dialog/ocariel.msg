@@ -2,9 +2,9 @@
 {101}{}{Ves a Ariel, la viuda.}
 {102}{}{Ves a una mujer delgada y bajita que viste un vestido azul de terciopelo. Parece triste.}
 {103}{}{Hola, soy Ariel. No creo haberte visto por aquí antes. ¿Quién eres?}
-{104}{}{Yo}
+{104}{}{Yo }
 {105}{}{Eh... pareces triste. ¿Por qué?}
-{106}{}{Marcho ahora yo.}
+{106}{}{Marcho ahora.}
 {107}{}{Hola, Ariel, mi nombre es}
 {108}{}{Hola. Pareces desanimada. ¿Qué sucede?}
 {109}{}{No necesitas saber mi nombre, pero necesito de ti cierta información.}
@@ -26,13 +26,13 @@
 {125}{}{}
 {126}{}{De acuerdo.}
 {127}{}{¿Qué quieres saber?}
-{128}{}{¿Tú prisionera?}
+{128}{}{¿Tú prisionero?}
 {129}{}{¿Garras tratan bien?}
 {130}{}{¿Quieres irte?}
 {131}{}{¿Y por qué triste?}
 {132}{}{¿Cómo llegaste aquí?}
-{133}{}{Tengo que irme.}
-{134}{}{¿Eres prisionera aquí?}
+{133}{}{Tengo que ir ahora yo.}
+{134}{}{¿Eres prisionero aquí?}
 {135}{}{¿Las Garras mortales te tratan bien?}
 {136}{}{¿Te gustaría abandonar el Refugio?}
 {137}{}{Entonces dime, Ariel: ¿Por qué estás tan triste?}
@@ -40,7 +40,7 @@
 {139}{}{Ahora he de irme.}
 {140}{}{No, puedo irme cuando quiera. Las Garras mortales me lo han dejado muy claro. No retienen
  a nadie contra su voluntad, al menos que yo sepa.}
-{141}{}{Eh, vale.}
+{141}{}{Eh, está bien.}
 {142}{}{Entiendo. Me voy yo.}
 {143}{}{Ya veo.}
 {144}{}{Creo que estás mintiendo, zorra.}

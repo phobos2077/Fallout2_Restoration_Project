@@ -17,14 +17,11 @@
 {116}{}{Adiós.}
 {117}{}{Y entonces desperté aquí. ¡Tengo que irme! Tengo que regresar con mi unidad.}
 {118}{}{Adiós.}
-
 {200}{}{¿Dónde estoy?}
 {201}{}{Me duele la cabeza.}
 {202}{}{¿Por qué estoy cubierto de porquería?}
-
 {300}{}{Tengo que reunirme con mi unidad.}
 {301}{}{Oh no! ¡Soy un Ausente Sin Permiso!}
 {302}{}{¿Cuál es el camino al frente?}
 {303}{}{Esto es para ti, Johnny.}
-
 {400}{}{El soldado raso Dobbs experimenta el síndrome post-criogénico.}

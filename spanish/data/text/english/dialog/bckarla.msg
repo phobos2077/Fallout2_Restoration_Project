@@ -1,9 +1,4 @@
-#############################################################
-#  Karla (Vault 15)     			            #
-#  Traducido por Wenck                                      #
-#############################################################
-
-{100}{}{Ves a una bandido Nuevo Khan.}
+{100}{}{Ves a un Nuevo Khan.}
 {101}{}{Ves a Karla, una Nuevo Khan.}
 {102}{}{Ves a una mujer de aspecto duro que viste una armadura de metal. Sería guapa, sino fuera por las cicatrices que le recorren el rostro.}
 {103}{}{Habla con Phil, gilipollas.}

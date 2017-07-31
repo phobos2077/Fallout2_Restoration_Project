@@ -1,8 +1,3 @@
-#############################################################
-#  Encuentro con Horrigan (Encuentros)                      #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un hombre como un castillo de grande.}
 {101}{}{Ves a un hombre como un castillo de grande.}
 {102}{}{Es un gigante y probablemente se come a gente como tú para desayunar.}

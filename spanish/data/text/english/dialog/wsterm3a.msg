@@ -1,9 +1,8 @@
 {100}{}{Un terminal de computadora.}
 {101}{}{Esta computadora parece tener una cámara montada en ella.}
-{102}{}{Eres incapaz de leer lo que aparece en el monitor.}
+{102}{}{Eres incapaz de leer lo que pone en el monitor.}
 {103}{}{[Una pequeña cámara gira hacia ti.]
                         Sistema de Seguridad Skynet  --  Terminal de seguridad principal - Nivel 3  --  Recuperando datos del personal - Cabo Dixon  --  No coincide                ¿Quién... eres... tú?}
-
 {104}{}{}
 {105}{}{}
 {106}{}{}
@@ -13,7 +12,7 @@
 {110}{}{Soy el cabo Dixon.}
 {111}{}{Soy }
 {112}{}{¡Urg!}
-{113}{}{[Eres incapaz de leer lo que aparece en el monitor].}
+{113}{}{[No sabes leer lo que pone en el monitor].}
 {114}{}{¡Error!  --  No se encuentran archivos de programa  --  Por favor reinicie}
 {115}{}{}
 {116}{}{}
@@ -59,9 +58,8 @@
 {141}{}{}
 {142}{}{}
 {143}{}{Salir.}
-
-{200}{}{ imposible leer lo que aparece en el monitor.}
-{300}{}{La computadora parece tener algún tipo de mecanismo de defensa.}
+{200}{}{ es incapaz de leer lo que pone en el monitor.}
+{300}{}{La computadora parece tener alguna especie de mecanismo de defensa.}
 {301}{}{Te dan una descarga por }
 {302}{}{ eres sacudido por }
 {303}{}{ puntos de daño.}

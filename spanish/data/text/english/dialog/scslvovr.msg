@@ -5,7 +5,7 @@
 {104}{}{¡Entrometido santurrón de la RNC! Tengo la cura para ti.}
 {105}{}{¡Vortis, tenemos un intruso!}
 {106}{}{¡Guardias! ¡Alerta!}
-{107}{}{¿Qué es lo que quieres?}
+{107}{}{¿Qué quieres?}
 {108}{}{¿Kurg?}
 {109}{}{¿Qué es este lugar?}
 {110}{}{Los Rangers me enviaron.}

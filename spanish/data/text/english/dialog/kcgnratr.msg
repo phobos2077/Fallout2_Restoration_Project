@@ -1,7 +1,3 @@
-#############################################################
-#  Generador (Klamath)   		                    #
-#############################################################
-
 {100}{}{Parece un generador.}
 {101}{}{Este generador probablemente proporcione energía al ascensor.}
 {200}{}{El generador necesita ser reparado primero.}

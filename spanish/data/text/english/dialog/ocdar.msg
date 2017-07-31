@@ -1,6 +1,6 @@
-{100}{}{Ves a una Garra mortal. Te vigila con ojos extrañamente inteligentes.}
+{100}{}{Ves a una Garra mortal. Te observa con ojos extrañamente inteligentes.}
 {101}{}{Ves a Dar, la Garra mortal.}
-{102}{}{Ves a la típica Garra mortal. La criatura es enorme, tiene un cuerpo poderoso, dientes afilados, y largas
+{102}{}{Ves a la típica Garra mortal. La criatura es enorme, con cuerpo poderoso, dientes afilados, y largas
  garras.}
 {103}{}{Hola, humano.}
 {104}{}{¿Qué quieres?}
@@ -11,13 +11,13 @@
 {109}{}{Perdona por molestarte pero, ¿quién eres?}
 {110}{}{¿Cuál es tu trabajo en el Refugio?}
 {111}{}{Por favor, no te ofendas pero, ¿cómo te educaron?}
-{112}{}{Bueno, tan solo dejar pasar el tiempo.}
+{112}{}{Bueno, tan sólo pasando el tiempo.}
 {113}{}{Yo Dar, guerrero.}
 {114}{}{Vale.}
 {115}{}{Todos vosotros iguales. Marcho yo.}
-{116}{}{Yo} #continue 137
+{116}{}{Yo }
 {117}{}{Ya veo. Bien, ahora he de irme.}
-{118}{}{Soy} #continue 138
+{118}{}{Soy }
 {119}{}{Entiendo.}
 {120}{}{¡Guerrero! ¡Ja! Ese ha sido uno bueno. ¿Sabes alguno más?}
 {121}{}{Dar protege la entrada y mantiene la paz. Nada más.}
@@ -36,6 +36,5 @@
 {134}{}{Así que sois tan estúpidos que otro os tiene que obligar a educaros. Qué bien.}
 {135}{}{Hola. Tú amigo de manada.}
 {136}{}{Grrrrrrrrr! Argggggghhhh.}
-
 {137}{}{.}
 {138}{}{, Dar.}

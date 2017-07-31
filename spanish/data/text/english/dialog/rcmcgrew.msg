@@ -23,7 +23,7 @@
 {119}{}{¿Qué te hace pensar que no lo intentan? A todos les gustaría tener Redding en su bolsillo. Y
  supongo que alguien lo conseguirá a no tardar. Lo único que podemos hacer es elegir a nuestro amo, si
  queremos sobrevivir.}
-{120}{}{¿A qué te refieres?}
+{120}{}{¿Qué quieres decir?}
 {121}{}{Supongo que eso tiene sentido. Bien, buena suerte y adiós.}
 {122}{}{Quiero decir que alguien nos va a tener bajo su bota. Sólo un tonto pensaría otra cosa. Nuestra
  opción es elegir la bota más ligera.}
@@ -31,7 +31,7 @@
 {124}{}{Feliz elección de botas, entonces. Adiós.}
 {125}{}{Puedes apostar a que sí. Si no nos aliamos con una de las Familias de Nuevo Reno, ya le puedes dar
  un beso de despedida a Redding. Al menos, a una Redding en la que yo querría vivir.}
-{126}{}{¿A qué te refieres?}
+{126}{}{¿Qué quieres decir?}
 {127}{}{Ya veo. Bien, adiós.}
 {128}{}{Si la RNC toma el control, Redding será pisoteada. A ellos no les importa demasiado la
  libertad personal. Convertirán Redding en otra mancha sobre el mapa de la República de Nueva California.
@@ -92,7 +92,7 @@
 {165}{}{Será mejor que me vaya largando, Dan. Adiós.}
 {166}{}{No sé lo que sucedió, pero la mayoría de veteranos del Jet se pusieron muy enfermos con ese último lote, y
  ahora no pueden acercarse al Jet sin sentirse fatal. Doc Johnson lo está investigando, según he oído.}
-{167}{}{¿Quién es ese Johnson?}
+{167}{}{¿Quién es Doc Johnson?}
 {168}{}{Interesante. Deja que te pregunte algo más, Dan.}
 {169}{}{Será mejor que me vaya largando, Dan. Adiós.}
 {170}{}{Porque soy el machote más grande, más duro, más rastrero, más cabronazo y más comeserpientes

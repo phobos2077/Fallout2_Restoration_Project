@@ -1,9 +1,9 @@
 {100}{}{Un terminal.}
 {101}{}{Una computadora muy anticuada. Con una CPU de sólo 500Hz.}
-{102}{}{Eres incapaz de leer lo que hay en el monitor.}
+{102}{}{Eres incapaz de leer lo que pone en el monitor.}
 {103}{}{Estación de reparación automática  --  Procesando petición reparación de Skynet  --  Enviando unidades de reparación}
-{104}{}{ }
-{105}{}{ }
+{104}{}{}
+{105}{}{}
 {106}{}{Intentar inutilizar la estación de reparación.}
 {107}{}{Desenchufar la computadora.}
 {108}{}{Pulsar el botón grande y rojo marcado con las letras 'OFF'.}
@@ -13,7 +13,7 @@
 {112}{}{[Teclear la palabra 'OFF' parece dar resultado. El sistema de reparación automática se detiene].}
 {113}{}{Salir.}
 {114}{}{[Por pura casualidad adviertes un cable que va de la computadora a un enchufe en la pared. La pantalla de la computadora se pone negra cuando tiras del enchufe].}
-{115}{}{ Salir.}
+{115}{}{Salir.}
 {116}{}{Valientemente presionas el botón rojo marcado como 'OFF'. Como sospechabas, el terminal se oscurece.}
 {117}{}{Salir.}
 {118}{}{[Al usar el teclado, las teclas empiezan a saltar y caer

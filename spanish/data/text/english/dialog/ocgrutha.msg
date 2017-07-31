@@ -5,7 +5,7 @@
 {103}{}{No me temas, humano. No tengo la intención de hacerte daño. Soy Gruthar, el líder de este grupo de Garras mortales.
  ¿Para qué has venido?}
 {104}{}{¿Para qué has venido?}
-{105}{}{Eh...}
+{105}{}{Uh...}
 {106}{}{¡Para patearte el culo!}
 {107}{}{¿Cómo es posible que una Garra mortal pueda hablar... y tan bien?}
 {108}{}{Quiero saber lo que ocurrió con la gente que vivía aquí.}
@@ -29,7 +29,7 @@
  tiene más conocimientos sobre este tema que yo. Normalmente se le puede encontrar en la biblioteca del Refugio.}
 {121}{}{Gracias. Voy a buscar a Goris.}
 {122}{}{No tengo la intención de añadir una Garra mortal a mi lista de amigos. ¡Adiós!}
-{123}{}{Muy bien.}
+{123}{}{De acuerdo.}
 {124}{}{Se fueron, humano. No los matamos y arrebatamos su hogar. Esa no es nuestra forma de actuar.
  Entiendo que no quieras creerme, pero espero que me juzgues por mis acciones hacia ti y
  no por miedos o prejuicios.}
@@ -108,13 +108,13 @@
 {169}{}{Me disgusta tu decisión, pero la acepto. Puedes irte, pero por favor regresa si
  lo reconsideras.}
 {170}{}{Hecho.}
-{171}{}{Hola } // Goes to 231
+{171}{}{Hola }
 {172}{}{No. Pero llegaré a ello.}
 {173}{}{Lo siento, Gruthar. El módulo de voz estaba mal. Voy a tener que ir a buscar uno.}
-{174}{}{No entiendo el funcionamiento de tales cosas pero confío en ti,} // 232
+{174}{}{No entiendo el funcionamiento de tales cosas pero confío en ti,}
 {175}{}{Hecho.}
 {176}{}{Volveré, tienes mi palabra.}
-{177}{}{Hola } // 233
+{177}{}{Hola }
 {178}{}{No, sigo buscando.}
 {179}{}{¡Sí, y aquí está!}
 {180}{}{}
@@ -178,9 +178,7 @@
 {231}{}{. ¿Has examinado la máquina?}
 {232}{}{. Esperaré tu regreso.}
 {233}{}{. ¿Has encontrado la pieza para reparar la máquina?}
-
-#added later
-{234}{}{Eh, vale.}
+{234}{}{Eh, está bien.}
 {235}{}{Espero que estés disfrutando de tu estancia.}
 {236}{}{Desafortunadamente, tuve que llegar a esto. Les permití seguir sanos y salvo, siempre y cuando no supusieran una amenaza para la manada. Él eligió su camino. Espero que lo entiendas.}
 {237}{}{Tú malo.}

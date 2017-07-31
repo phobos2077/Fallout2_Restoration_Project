@@ -1,8 +1,3 @@
-#############################################################
-#  Pandilleros (Encuentros)             #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{¡Sal de nuestro territorio!}
 {101}{}{Estás en los barrios bajos, compadre.}
 {102}{}{Esto te va a doler.}

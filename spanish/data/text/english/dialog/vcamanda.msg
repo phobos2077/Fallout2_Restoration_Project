@@ -14,15 +14,15 @@
 {113}{}{Por favor, déjame sola, o llamaré a los guardias.}
 {114}{}{¿Qué quieres?}
 {115}{}{¿Estás bien? Pareces disgustada.}
-{116}{}{Nada. Perdona por molestarte.}
+{116}{}{Nada. Perdón por molestarte.}
 {117}{}{Yo... yo... es mi marido, Joshua. Él... tuvo algún tipo de problema en... el bar. Golpeó accidentalmente a un Ciudadano y lo arrestaron. No era su intención, pero había estado bebiendo, y...}
 {118}{}{¿Arrestado? ¿Dónde está ahora?}
 {119}{}{Si estaba borracho y atacó a alguien, entonces debió ser arrestado.}
-{120}{}{Lamento escuchar eso. Espero que lo suelten.}
+{120}{}{Lamento oír eso. Espero que lo dejen ir.}
 {121}{}{Dentro de la ciudad, en el Centro de Asignación de Siervos... dijeron que podría cumplir su sentencia como siervo, ¡pero eso le llevará años!}
 {122}{}{¿Qué se puede hacer?}
 {123}{}{Si estaba borracho y atacó a alguien, entonces debió ser arrestado.}
-{124}{}{Lamento escuchar eso. Espero que lo suelten.}
+{124}{}{Lamento oír eso. Espero que lo dejen ir.}
 {125}{}{¡Pero fue un accidente! Yo... él no pretendía hacerlo!}
 {126}{}{¿Dónde está ahora?}
 {127}{}{¿Él no pretendía atacar a alguien? Ya, claro. Quizá esta sea una buena lección para ti.}

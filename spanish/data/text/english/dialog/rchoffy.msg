@@ -35,9 +35,9 @@
  Ciudad Refugio, tenemos cosas que van a Nuevo Reno (oh la la, si sabes a lo que me refiero), e incluso
  tenemos cosas que van a esos remilgados bastardos de la RNC.}
 {129}{}{¿Qué puedes contarme sobre Ciudad Refugio?}
-{130}{}{¿Qué puedes contarme sobre Nuevo Reno?}
+{130}{}{¿Qué puedes decirme de Nuevo Reno?}
 {131}{}{¿Qué puedes contarme sobre RNC?}
-{132}{}{Deja que te pregunte otra cosa.}
+{132}{}{Déjame preguntarte algo más.}
 {133}{}{Eso es todo lo que necesito saber por ahora. Gracias, y adiós.}
 {134}{}{¿Qué otra cosa es el hogar de un hombre? Cristo, ¿te criaste en una tienda de campaña o algo así?}
 {135}{}{En realidad… sí.}
@@ -49,7 +49,7 @@
  bastardos son demasiado buenos para el resto de nosotros. Sólo comercian con medicamentos con nosotros porque necesitan nuestro oro.
  De lo contrario, dejarían que nos pudriéramos. Yo no malgastaría mi tiempo ahí, muchacho. Pero si quieres verlo por ti
  mismo, Ben Wade viaja allí desde aquí el día 1 de cada mes.}
-{141}{}{¿Qué puedes contarme sobre Nuevo Reno?}
+{141}{}{¿Qué puedes decirme de Nuevo Reno?}
 {142}{}{¿Qué puedes contarme sobre RNC?}
 {143}{}{Gracias. Deja que te pregunte otra cosa.}
 {144}{}{Eso es todo lo que necesito saber por ahora. Adiós.}
@@ -66,7 +66,7 @@
  santurrones como nunca te habrás topado otros. Stanwell sale de aquí con una caravana hasta RNC el día 11 de
  cada mes.}
 {151}{}{¿Qué puedes contarme sobre Ciudad Refugio?}
-{152}{}{¿Qué puedes contarme sobre Nuevo Reno?}
+{152}{}{¿Qué puedes decirme de Nuevo Reno?}
 {153}{}{Gracias. Deja que te pregunte otra cosa.}
 {154}{}{Eso es todo lo que necesito saber por ahora. Adiós.}
 {155}{}{¿Un Kit de Creación del Jardín del Edén? No sabría decirte nada salvo que no tenemos uno de esos

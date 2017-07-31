@@ -1,7 +1,4 @@
-# QUICK LOOK
 {100}{}{Ves a una prostituta.}
-
-# EXAMINE
 {150}{}{Ves a una… dama de la noche. Su ropa harapienta cubre seductoramente su cuerpo.}
 {151}{}{Ves a una prostituta. Te guiña un ojo.}
 {152}{}{Ves a una prostituta. Sus ojos son como fusibles quemados.}
@@ -11,25 +8,19 @@
 {156}{}{Ves a una prostituta. Parece como si pudiera matar a sus compañeras y devorarlas.}
 {157}{}{Ves a una prostituta. Te está valorando como si fuera una joyera.}
 {158}{}{Ves a una prostituta. Su ropa harapienta cubre seductoramente su cuerpo.}
-
-# 1. [MALE, ENCLAVE DESTROYED]
 {175}{}{Oh, Dios… es él.}
 {176}{}{Eres el mayor machote del mundo.}
 {177}{}{::Se desmaya::}
 {178}{}{Qué grande, }
 {179}{}{::Aplausos::}
-{180}{}{::Vítores::}
+{180}{}{::Brindis::}
 {181}{}{Oh, Dios… es ella. }
 {182}{}{¡Bravo, muchacha!}
 {183}{}{::Te hace una seña con el pulgar hacia arriba::}
-
-# 2. [POWER ARMOR]
 {190}{}{No podrías pagarme las fichas necesarias para conseguir que me lo hiciera contigo con ESO.}
-
-# 3. [MALE, PORN STAR]
 {195}{}{Por aquí, }
 {196}{}{¡Mira! ¡Es él!}
-{197}{}{¡Oye, }
+{197}{}{Oye, }
 {198}{}{¿Oye, encanto? ¿Tienes algún hueco para mí en un rodaje?}
 {199}{}{¿Cuándo estrenan tu próxima película?}
 {200}{}{Mmmm-mmmm. Eres grande, encanto.}
@@ -44,8 +35,6 @@
 {209}{}{¿Podría actuar en tu próxima película?}
 {210}{}{Contigo NUNCA fingiría, }
 {211}{}{Me… debilito. No puedo… resistir… mucho más. Debo… tener… sexo… contigo…}
-
-# 4. [PORN STAR, FEMALE]
 {212}{}{No es una estrella, no es más que basura tribal...}
 {213}{}{No entiendo que permitan que las estrellas porno estén TAN gordas...}
 {214}{}{Es lo que va después de fea.}
@@ -69,7 +58,7 @@
 {232}{}{Sigue en esta calle, y te rajo.}
 {233}{}{Zorra.}
 {234}{}{Puta estirada…}
-{235}{}{Basura…}
+{235}{}{Basura}
 {236}{}{Hmphh!}
 {237}{}{Lárgate de aquí, me vas a echar a perder el negocio.}
 {238}{}{Puta escuálida.}
@@ -86,10 +75,8 @@
 {249}{}{No sé lo que los Hermanos Corsican VEN en ti…}
 {250}{}{Tienes tanto talento como una piedra y eres el doble de fea.}
 {251}{}{No hablo con BASURA como tú.}
-
-# 5. [MALE, PRIZEFIGHTER]
 {252}{}{¡Mira esos músculos! Me hace sentir débil…}
-{253}{}{¡Joooder!}
+{253}{}{¡Maldicioooon!}
 {254}{}{::Silbidos::}
 {255}{}{Está construido como un tanque. Fíjate en ese pecho.}
 {256}{}{Fíjate en el pecho de ese tanque…}
@@ -105,7 +92,7 @@
 {266}{}{¿Quieres saltar en el cuadrilátero conmigo, campeón?}
 {267}{}{¿Quieres boxear, campeón?}
 {268}{}{¿Cómo lo llevas, }
-{269}{}{¿Me buscas?}
+{269}{}{¿Me buscas a mí?}
 {270}{}{¿Por qué no te pasas por aquí más a menudo?}
 {271}{}{Tengo una abertura que puedes llenar.}
 {272}{}{¿Necesitas compañía, }
@@ -114,17 +101,13 @@
 {275}{}{Menudo equipamiento llevas.}
 {276}{}{¿Necesitas a alguien que se encargue de eso que tienes, campeón?}
 {277}{}{Oye… cuidado con el Masticador. Es un auténtico capullo. Una vez intentó arrancarme una oreja.}
-
-# 6. [FEMALE, PRIZEFIGHTER]
 {278}{}{¡Mira! Es }
-{279}{}{¿Necesitas algo de compañía, }
+{279}{}{¿Necesitas compañía, }
 {280}{}{}
 {281}{}{Es MUY ruda. Ojalá yo pudiera patear a los tipos como lo hace ella.}
 {282}{}{Ahí va una mujer dura.}
 {283}{}{Parece tan… (tiene un escalofrío)… peligrosa.}
-{284}{}{Es bastante sexy.}
-
-# 7. [MADE MAN]
+{284}{}{Es bastante bonita.}
 {285}{}{Oh, Dios… es él. }
 {286}{}{Parece tan… (tiene un escalofrío)… peligroso.}
 {287}{}{¡Maldicioooon!}
@@ -133,45 +116,43 @@
 {290}{}{Ese chico me hace sentir débil.}
 {291}{}{Que no se le levanta es seguro, joder.}
 {292}{}{Hooooola, }
-{293}{}{¿Necesitas algo de compañía, }
+{293}{}{¿Necesitas compañía, }
 {294}{}{}
 {295}{}{Oh, Dios… es ella. }
 {296}{}{Ella es muy ruda.}
 {297}{}{Ahí va una zorra dura.}
 {298}{}{Parece tan… (tiene un escalofrío)… peligrosa.}
 {299}{}{Es bastante bonita.}
-
-# 8. [SLAVER]
 {300}{}{Mi nombre es Fácil, esclavista. ¿Cuál es el tuyo?}
 {301}{}{Oye, esclavista, ¿necesitas compañía?}
-{302}{}{Déjame que te enseñe cosas que sólo una mujer puede enseñar.}
-{303}{}{¿Necesitas a alguien que comparta tu saco de dormir, esclavista?}
+{302}{}{Déjame enseñarte cosas que sólo una mujer te puede enseñar.}
+{303}{}{¿Necesitas a alguien que comparta tu saco de dormir?}
 {304}{}{Tengo unas cuantas balas en la recámara, esclavista.}
 {305}{}{Menudo paquete estoy viendo.}
-{306}{}{¿Buscas algo de acción?}
+{306}{}{¿Buscas un poco de acción?}
 {307}{}{Esclavista, nunca habrás amado hasta que no pruebes el amor de Reno.}
 {308}{}{¿Quieres una cita?}
 {309}{}{He oído que hubo problemas en la zona comercial...}
-{310}{}{¿Buscas compañía?}
-{311}{}{¿Bailamos?}
+{310}{}{¿Buscas un poco de compañía?}
+{311}{}{¿Quieres bailar?}
 {312}{}{Esclavista, nunca habrás amado hasta que no pruebes el amor de Reno.}
 {313}{}{Desde luego, seré una de tus 'compañeros' por unas pocas fichas.}
 {314}{}{Parece que hay nuevos forasteros en la ciudad…}
 {315}{}{¿Quieres volar, esclavista?}
-{316}{}{¿Quieres jugar a amo y esclavo?}
+{316}{}{¿Quieres jugar a esclavista y siervo?}
 {317}{}{Buen paquete.}
-{318}{}{Déjame alegrarte el día, payaso triste.}
+{318}{}{Déjame hacerte sonreír, payaso triste.}
 {319}{}{¿Te has perdido, esclavista?}
-{320}{}{¿Tienes un arma y necesitas descargarla, esclavista?}
-{321}{}{Ese hombre podría fundir el metal.}
+{320}{}{¿Tienes un arma de fuego que necesites descargar, esclavista?}
+{321}{}{Ese hombre podría derretir el metal.}
 {322}{}{¿Myron? No le tocaría ni por un millón de fichas. Que sean dos millones.}
 {323}{}{¿Quieres pasar un buen rato, esclavista?}
 {324}{}{Me gusta el aspecto de tu 'gecko', esclavista.}
-{325}{}{¿Tienes un gecko en el bolsillo?}
+{325}{}{¿Es un gecko lo que tienes en el bolsillo?}
 {326}{}{Hola, esclavista.}
-{327}{}{¿Necesitas una cita, esclavista?}
-{328}{}{¿Dónde está el fuego, esclavista?}
-{329}{}{Muchacho, déjame convertirte en hombre.}
+{327}{}{¿Quieres una cita, esclavista?}
+{328}{}{¿Dónde está el fuego?}
+{329}{}{Muchacho, déjame convertirte en un hombre.}
 {330}{}{¿Quieres jugar a esclavista y siervo?}
 {331}{}{¿Quieres fingir que somos Garras mortales en época de apareamiento?}
 {332}{}{¿Quieres que te ponga cachondo, esclavista?}
@@ -180,11 +161,11 @@
 {335}{}{Si quieres que sea agradable, te costará un extra.}
 {336}{}{[Canta]. "Let's play - master and servant. Let's play - master and servant".}
 {337}{}{Apuesta por mí, esclavista.}
-{338}{}{Por fin instalé la cabecera acolchada.}
+{338}{}{Finalmente instalé la cabecera acolchada.}
 {339}{}{Probar el paraíso te costará diez fichas.}
-{340}{}{¿Quieres jugar a amo y esclavo, esclavista?}
+{340}{}{¿Quieres jugar a amo y siervo, esclavista?}
 {341}{}{Myron: Todo cera y nada de mecha.}
-{342}{}{Myron es un huracán…}
+{342}{}{Myron es un huracán.}
 {343}{}{AC-DC, BND, lo que sea.}
 {344}{}{¿Qué esperas que haga, arrodillarme para él?}
 {345}{}{¿Necesitas a alguien que tire de tu correa, esclavista?}
@@ -217,39 +198,39 @@
 {372}{}{Sangre nueva en la ciudad…}
 {373}{}{Sigo sin entender por qué la llaman calle Virgin…}
 {374}{}{¿Puedes atravesar un tablero con un clavo de seis pulgadas usando tu pene?}
-{375}{}{Ojalá se pusiera una bolsa de papel de vez en cuando…}
+{375}{}{Ojalá se pusiera una bolsa de papel de vez en cuando.}
 {376}{}{¿Le pagas una copa a una chica, esclavista?}
-{377}{}{¿Te encargas de una chica solitaria en la ciudad, esclavista?}
+{377}{}{¿Te encargas de una chica solitaria en la ciudad?}
 {378}{}{Necesitas una amiga para esta noche, esclavista?}
 {379}{}{¿Buscas nueva mercancía, esclavista?}
 {380}{}{Ven aquí, esclavista, el show va a comenzar…}
-{381}{}{He oído que algunas chicas de la parte alta de la ciudad mataron a su chulo.}
+{381}{}{He oído que algunas chicas de la zona alta mataron a su chulo.}
 {382}{}{Las mujeres más hermosas del Yermo, aquí mismo...}
-{383}{}{Será mejor que ese Jules me deje tranquila.}
-{384}{}{Aún tengo ese moratón por culpa de la cabecera…}
+{383}{}{Será mejor que Jules me deje en paz.}
+{384}{}{Sigo teniendo el moratón que me hice con la cabecera…}
 {385}{}{He estado exhausta desde la última convención…}
 {386}{}{Ojalá esa convención de esclavistas se hiciera en alguna otra ciudad.}
 {387}{}{Me pareció que se movía la tierra, pero sólo era el chili.}
 {388}{}{Haz que me derrita.}
-{389}{}{Si sigue así, el corazón le va a reventar…}
+{389}{}{Si sigue así, le va a reventar el corazón…}
 {390}{}{Yo cuidaré de ti, esclavista.}
 {391}{}{Soy virgen. No soy muy buena en esto.}
 {392}{}{Jules intenta hacer negocios en la calle Segunda...}
 {393}{}{¡Oye, esclavista! ¿Necesitas una guía?}
 {394}{}{Jules sigue queriendo pruebas gratuitas.}
-{395}{}{¿Necesitas que tu jaula vibre, esclavista?}
+{395}{}{Necesitas sacudir tu jaula, esclavista?}
 {396}{}{He oído que las cosas entre las familias vuelven a estar tensas.}
 {397}{}{Las cosas están bastante paradas. Ojalá llegase alguna caravana.}
 {398}{}{Así que se puso ese disfraz de Garra mortal, y entonces…}
 {399}{}{Necesito ayuda para salir de este vestido.}
-{400}{}{¿Subirme la cremallera? ¿Para bajarla otra vez??}
+{400}{}{¿Subirme la cremallera? ¿Para bajarla otra vez?}
 {401}{}{Mmm-mmm. Parece que es época de apareamiento.}
 {402}{}{¿Necesitas una amiga?}
 {403}{}{Pateé los pendientes reales de Jules la semana pasada.}
 {404}{}{¿Pensando en ir al centro de la ciudad, esclavista?}
 {405}{}{No me llaman Dama Fortuna por nada.}
 {406}{}{Me encantan los preservativos con sabor a brahmin.}
-{407}{}{¿Quieres hacerle pasar un buen rato a una señorita, esclavista?}
+{407}{}{¿Quieres hacerle pasar un buen rato a una señorita?}
 {408}{}{Myron sigue dándome la lata. Al menos, su DINERO es bueno.}
 {409}{}{Todo lo que alguna vez has necesitado está aquí mismo.}
 {410}{}{¿Buscas el Edén? Está justo aquí.}
@@ -258,9 +239,9 @@
 {413}{}{Soy virgen, pero necesito el dinero.}
 {414}{}{Sé gentil, es mi primera vez. Hoy.}
 {415}{}{Estoy muy caliente.}
-{416}{}{Tú tienes las ganas, y yo el tiempo disponible.}
+{416}{}{Tú tienes la lujuria y yo tengo la cura.}
 {417}{}{Déjame despertar a tu niño interior.}
-{418}{}{¿Quieres bailar, ricura?}
+{418}{}{¿Quieres bailar, corazón?}
 {419}{}{¿Quieres hacer una reclamación?}
 {420}{}{¿Quieres hacerme gemir?}
 {421}{}{::Purrrrr::}
@@ -285,11 +266,11 @@
 {440}{}{Tommy Pelotas es alguien de ensueño.}
 {441}{}{Vaya, vaya. Mira quién acaba de aparecer por la ciudad...}
 {442}{}{Pareces alguien que puede perder tiempo.}
-{443}{}{¡Caray! ¡Un turista!}
+{443}{}{¡Vaya! ¡Un turista!}
 {444}{}{Morder es un extra.}
 {445}{}{Mi nombre es Fácil, esclavista. ¿Y el tuyo?}
 {446}{}{Oye, esclavista. ¿Buscando a otra mujer?}
-{447}{}{¿Quieres probar el otro lado, preciosa?}
+{447}{}{¿Quieres probar el otro lado, dulzura?}
 {448}{}{¿Necesitas una "esclava" para esta noche, esclavista?}
 {449}{}{¿Necesitas a alguien que caliente tu tienda de campaña, esclavista?}
 {450}{}{¿Necesitas a alguien que comparta tu saco de dormir, esclavista?}
@@ -302,21 +283,17 @@
 {457}{}{¿Dónde está el fuego, esclavista?}
 {458}{}{Esa esclavista es una zorra astuta.}
 {459}{}{Esa esclavista hace titilar mi contador Geiger.}
-
-# 9. (ANY) TO [COMPANION: ROBOBRAIN AND/OR MARCUS]
 {460}{}{Te garantizo que soy mejor en la cama que ese robot que te sigue.}
 {461}{}{¿Ese robot es TOTALMENTE funcional?}
 {462}{}{¿Eso que te sigue es alguna clase de máquina tragaperras?}
-{463}{}{¿Eso es una robomáquina tragaperras?}
+{463}{}{¿Eso es una robo-máquina tragaperras?}
 {464}{}{¿Tu robot hace trucos? Eh… trucos mágicos, quiero decir.}
 {465}{}{Dime que eso no es un mutante.}
 {466}{}{Ese mutante supondrá un extra. Un GRAN extra.}
 {467}{}{Oh, oh. Mutantes en Nuevo Reno. Eso traerá problemas.}
-{468}{}{Ese mutante es un hijoputa de primera.}
+{468}{}{Ese mutante es un cabronazo.}
 {469}{}{Parece como si ese mutante pudiera aplastarme con una sola mano. Hmmmnnn.}
 {470}{}{Nunca he sabido lo que cobrarle a un mutante.}
-
-# 10. [COMPANION: MYRON]
 {471}{}{¡Oye, Myron!}
 {472}{}{¡Myron! ¡Cariño! ¿Cuándo vas a volver a venir a visitarme?}
 {473}{}{My-ron. Myyyyyy-ron.}
@@ -329,11 +306,9 @@
 {480}{}{¿Puedes conseguirme algo de Jet, Myron?}
 {481}{}{¿Cuándo vas a surtirme con algo de Jet, Myron?}
 {482}{}{¿Puedes ayudarme a volar, Myron?}
-
-# 11. [PLAYER IS MALE] + [COMPANION: BONE-NOSE]
 {483}{}{Mi nombre es Fácil. ¿Y el tuyo?}
-{484}{}{¿Necesitas un poco de compañía?}
-{485}{}{Déjame enseñarte cosas que sólo puede enseñar una mujer.}
+{484}{}{¿Quieres un poco de compañía?}
+{485}{}{Déjame enseñarte cosas que sólo una mujer te puede enseñar.}
 {486}{}{¿Necesitas a alguien que caliente tu tienda de campaña?}
 {487}{}{¿Necesitas a alguien que comparta tu saco de dormir?}
 {488}{}{Tengo unas cuantas balas en la recámara, amigo.}
@@ -370,15 +345,15 @@
 {519}{}{¿Quieres fingir que somos Garras mortales en época de apareamiento?}
 {520}{}{Ese hombre hace titilar mi contador Geiger.}
 {521}{}{Si tengo que hablar contigo al terminar, es un extra.}
-{522}{}{¿Te puedo ayudar en algo, forastero?}
-{523}{}{No sabrás lo que es amar hasta que no hayas probado el amor de Reno.}
+{522}{}{¿Hay algo en lo que pueda ayudarte, forastero?}
+{523}{}{Nunca habrás amado hasta que no pruebes el amor de Reno.}
 {524}{}{Lo de tu amigo con el hueso en la nariz… un truco genial.}
 {525}{}{¿Tu amigo el del hueso puede hacer trucos con su nariz o algo así?}
 {526}{}{Tal vez debería ponerme un hueso en la nariz. Podría atraer a más clientes femeninas.}
 {527}{}{Ese tipo tiene un hueso en la nariz del tamaño de mi brazo. Cristo bendito.}
 {528}{}{Ni siquiera quiero saber cómo se puso ese chico el hueso en la nariz.}
 {529}{}{¿Tu amigo con el hueso en la nariz está en el negocio?}
-{530}{}{¿Cuánto cobra tu amigo con el hueso en la nariz?}
+{530}{}{¿Cuánto cobra ese amigo tuyo con el hueso en la nariz?}
 {531}{}{Por treinta fichas, puedo hacer que el hueso de la nariz de tu amigo se alargue.}
 {532}{}{¿Tu amigo con el hueso en la nariz está sobrecompensando algo?}
 {533}{}{Finalmente instalé la cabecera acolchada.}
@@ -399,7 +374,7 @@
 {548}{}{::Te silba::}
 {549}{}{Odio que me hagan una "bolsita de té".}
 {550}{}{Apuesta por mí, cariño.}
-{551}{}{¿Buscas pasar un buen rato?}
+{551}{}{¿Quieres pasar un buen rato?}
 {552}{}{Auténtico amor de Reno, justo aquí.}
 {553}{}{Te daré algo con lo que jugar.}
 {554}{}{Soy la Spice mugrienta.}
@@ -412,8 +387,8 @@
 {561}{}{Tengo una amiga si te apetece un trío.}
 {562}{}{Ojalá Myron fuera gay.}
 {563}{}{Sangre nueva en la ciudad…}
-{564}{}{Sigo sin entender que la llamen calle Virgin…}
-{565}{}{Ojalá se pusiera una bolsa de papel de vez en cuando…}
+{564}{}{Sigo sin entender por qué la llaman calle Virgin…}
+{565}{}{Ojalá se pusiera una bolsa de papel de vez en cuando.}
 {566}{}{¿Le pagas una copa a una chica?}
 {567}{}{¿Te encargas de una chica solitaria en la ciudad?}
 {568}{}{¡Vaya! ¡Un turista!}
@@ -449,14 +424,14 @@
 {598}{}{¿Quieres hacer la danza de la lluvia en mi dormitorio, tribal?}
 {599}{}{Todo lo que necesitas es una noche conmigo.}
 {600}{}{¿Buscas el Jardín del Edén? Ven a mi dormitorio.}
-{601}{}{Tú tienes las fichas, y yo el tiempo.}
+{601}{}{Tú tienes las fichas y yo el tiempo.}
 {602}{}{¿Puedes ayudarme? Estoy buscando mi virginidad perdida.}
 {603}{}{Soy virgen, pero necesito el dinero.}
 {604}{}{Sé gentil, es mi primera vez. Hoy.}
 {605}{}{Estoy muy caliente.}
 {606}{}{Tú tienes la lujuria y yo tengo la cura.}
 {607}{}{Déjame despertar a tu niño interior.}
-{608}{}{¿Quieres bailar, ricura?}
+{608}{}{¿Quieres bailar, corazón?}
 {609}{}{¿Quieres hacer una reclamación?}
 {610}{}{¿Quieres hacerme gemir?}
 {611}{}{::Purrrrr::}
@@ -497,17 +472,15 @@
 {646}{}{Muchacha, nunca habrás amado hasta que pruebes el amor de Reno.}
 {647}{}{¿Quieres volar, chica?}
 {648}{}{¿Te has perdido, vaquera?}
-{649}{}{¿Tienes un arma que necesites descargar, soldadita?}
+{649}{}{¿Tienes un arma que necesites descansar, soldadita?}
 {650}{}{¿Quieres pasar un buen rato, chica?}
 {651}{}{¿Pensando en ir a los barrios bajos, chiquilla?}
-{652}{}{¿Necesitas una guía por la ciudad, dulzura?}
+{652}{}{¿Necesitas una guía por la ciudad, corazón?}
 {653}{}{¿Dónde está el incendio, muchacha?}
 {654}{}{Esa mujer hace titilar mi contador Geiger.}
-
-# 12. [NO REP]
 {655}{}{Mi nombre es Fácil. ¿Y el tuyo?}
-{656}{}{¿Necesitas un poco de compañía?}
-{657}{}{Déjame enseñarte cosas que sólo puede enseñar una mujer.}
+{656}{}{¿Quieres un poco de compañía?}
+{657}{}{Déjame enseñarte cosas que sólo una mujer te puede enseñar.}
 {658}{}{¿Necesitas a alguien que caliente tu tienda de campaña?}
 {659}{}{¿Necesitas a alguien que comparta tu saco de dormir?}
 {660}{}{Tengo unas cuantas balas en la recámara, amigo.}
@@ -544,10 +517,10 @@
 {691}{}{¿Quieres fingir que somos Garras mortales en época de apareamiento?}
 {692}{}{Ese hombre hace titilar mi contador Geiger.}
 {693}{}{Si tengo que hablar contigo al terminar, es un extra.}
-{694}{}{¿Te puedo ayudar en algo, forastero?}
-{695}{}{No sabrás lo que es amar hasta que no hayas probado el amor de Reno.}
+{694}{}{¿Hay algo en lo que pueda ayudarte, forastero?}
+{695}{}{Nunca habrás amado hasta que no pruebes el amor de Reno.}
 {696}{}{Finalmente instalé la cabecera acolchada.}
-{697}{}{¿Quieres probar el paraíso? Diez fichas.}
+{697}{}{Probar el paraíso te costará diez fichas.}
 {698}{}{Myron: Todo cera y nada de mecha.}
 {699}{}{Myron es un huracán.}
 {700}{}{AC-DC, BND, lo que sea.}
@@ -564,7 +537,7 @@
 {711}{}{::Te silba::}
 {712}{}{Odio que me hagan una "bolsita de té".}
 {713}{}{Apuesta por mí, cariño.}
-{714}{}{¿Buscas pasar un buen rato?}
+{714}{}{¿Quieres pasar un buen rato?}
 {715}{}{Auténtico amor de Reno, justo aquí.}
 {716}{}{Te daré algo con lo que jugar.}
 {717}{}{Soy la Spice mugrienta.}
@@ -577,8 +550,8 @@
 {724}{}{Tengo una amiga si te apetece un trío.}
 {725}{}{Ojalá Myron fuera gay.}
 {726}{}{Sangre nueva en la ciudad…}
-{727}{}{Sigo sin entender que la llamen calle Virgin…}
-{728}{}{Ojalá se pusiera una bolsa de papel de vez en cuando…}
+{727}{}{Sigo sin entender por qué la llaman calle Virgin…}
+{728}{}{Ojalá se pusiera una bolsa de papel de vez en cuando.}
 {729}{}{¿Le pagas una copa a una chica?}
 {730}{}{¿Te encargas de una chica solitaria en la ciudad?}
 {731}{}{¡Vaya! ¡Un turista!}
@@ -614,14 +587,14 @@
 {761}{}{¿Quieres hacer la danza de la lluvia en mi dormitorio, tribal?}
 {762}{}{Todo lo que necesitas es una noche conmigo.}
 {763}{}{¿Buscas el Jardín del Edén? Ven a mi dormitorio.}
-{764}{}{Tú tienes las fichas, y yo el tiempo.}
+{764}{}{Tú tienes las fichas y yo el tiempo.}
 {765}{}{¿Puedes ayudarme? Estoy buscando mi virginidad perdida.}
 {766}{}{Soy virgen, pero necesito el dinero.}
 {767}{}{Sé gentil, es mi primera vez. Hoy.}
 {768}{}{Estoy muy caliente.}
 {769}{}{Tú tienes la lujuria y yo tengo la cura.}
 {770}{}{Déjame despertar a tu niño interior.}
-{771}{}{¿Quieres bailar, ricura?}
+{771}{}{¿Quieres bailar, corazón?}
 {772}{}{¿Quieres hacer una reclamación?}
 {773}{}{¿Quieres hacerme gemir?}
 {774}{}{::Purrrrr::}
@@ -665,11 +638,9 @@
 {812}{}{¿Tienes un arma que necesites descansar, soldadita?}
 {813}{}{¿Quieres pasar un buen rato, chica?}
 {814}{}{¿Pensando en ir a los barrios bajos, chiquilla?}
-{815}{}{¿Necesitas una guía por la ciudad, dulzura?}
+{815}{}{¿Necesitas una guía por la ciudad, corazón?}
 {816}{}{¿Dónde está el incendio, muchacha?}
 {817}{}{Esa mujer hace titilar mi contador Geiger.}
-
-# 13. [ENCLAVE DESTROYED]
 {818}{}{¿El Enclave? ¿El Presidente? Cuéntame toda la historia.}
 {819}{}{Tom French me programó. Tiene manos suaves y gentiles.}
 {820}{}{¿Seguían en GUERRA? ¡Increíble! Me alegra que te cargaras a esos bastardos.}
@@ -690,9 +661,7 @@
 {832}{}{Nuevo Reno fue diseñado por Chris Avellone y Tom French. Ambos los dos son DIOSES del sexo.}
 {833}{}{Feargus frunció el ceño cuando vio la cantidad de mensajes flotantes escritos.
  Siempre tan negativo.}
-{834}{}{Tu puntación es 192 sobre 208. Deberías haber usado el dedo mutado con Horrigan.}
-
-# 14. [POWER ARMOR]
+{834}{}{You say that Locutus served with the Enclave? And I gave that bastard for free!}
 {835}{}{Alguna mujer deber haber roto profundamente tu corazón para haberte obligado a esconderte dentro de ese traje blindado. Déjame ayudarte.}
 {836}{}{Oye, Hombre de Hojalata, si quieres que me disfrace de Dorothy o Toto, te costará un extra.}
 {837}{}{Oye, amigo, si quieres hacerlo, tendrás que salir de ahí; el metal hace daño y deja cicactrices.}
@@ -712,8 +681,6 @@
 {851}{}{¿Seguro que no estás buscando un lavado de coches?}
 {852}{}{Oye, cariño, tendrás que salir de ahí; el metal hace daño y deja cicactrices.}
 {853}{}{¿Eso que llevas es algún nuevo dispositivo de control de natalidad?}
-
-# 15. [FEMALE, PRIZEFIGHTER]
 {854}{}{¿Quieres saltar al ring conmigo, cariño? Puedo aguantar al menos 12 asaltos.}
 {855}{}{¿Quieres boxear, }
 {856}{}{Muchacha, qué dura eres.}
@@ -725,30 +692,26 @@
 {862}{}{Menuda delantera tienes.}
 {863}{}{Oye… cuidado con el Masticador. Es un auténtico capullo. Una vez intentó arrancarme una oreja.}
 {864}{}{Eres muy sexy, muchacha, ¿lo sabías?}
-
-# 16. [MADE MAN]
 {865}{}{}
-{866}{}{Si quiere un poco de compañía más tarde…}
+{866}{}{Si estás buscando un poco de compañía para más tarde…}
 {867}{}{}
 {868}{}{Hola, }
-{869}{}{¿Le hablará bien de mí al jefe?}
+{869}{}{¿Le hablará bien al jefe de mí?}
 {870}{}{Vaya, pero si es el malvado }
 {871}{}{Puedo hacer TODO lo que quieras... sólo tienes que pedirlo.}
-{872}{}{¿Le hablará bien de mí al jefe?}
+{872}{}{¿Le hablará bien al jefe de mí?}
 {873}{}{}
 {874}{}{Um, si quiere un poco de compañía más tarde, señora…}
-
-# 17. [SLAVER]
 {875}{}{Mi nombre es Fácil, esclavista. ¿Cuál es el tuyo?}
 {876}{}{¿Necesitas a alguien que tire de tu correa, esclavista?}
 {877}{}{¿Por qué no me llevas de vuelta a tu jaula, esclavista?}
 {878}{}{Necesitas sacudir tu jaula, esclavista?}
 {879}{}{Eres un esclavista juguetón, ¿verdad?}
-{880}{}{¿Te has traído tu propia toallita húmeda?}
-{881}{}{Sí, SON reales, y NO, no puedes comprobarlo.}
+{880}{}{¿Te has traído tus propias toallitas húmedas?}
+{881}{}{Sí, SON de verdad, y NO, no puedes comprobarlo.}
 {882}{}{¿Quieres pelear, vaquero?}
-{883}{}{¿Vas a hundirme usando tu torpedo?}
-{884}{}{Déjame que te enseñe cosas que sólo una mujer puede enseñar.}
+{883}{}{Vas a hundirme usando tu torpedo?}
+{884}{}{Déjame enseñarte cosas que sólo una mujer te puede enseñar.}
 {885}{}{¿Necesitas a alguien que caliente tu tienda de campaña?}
 {886}{}{¿Necesitas a alguien que comparta tu saco de dormir?}
 {887}{}{Tengo unas cuantas balas en la recámara, esclavista.}
@@ -756,14 +719,14 @@
 {889}{}{¿Buscas un poco de acción?}
 {890}{}{Nunca habrás amado hasta que no pruebes el amor de Reno.}
 {891}{}{¿Quieres una cita?}
-{892}{}{Que no, nada de pruebas gratuitas.}
+{892}{}{Oye, nada de pruebas gratuitas.}
 {893}{}{He oído que hubo problemas en la zona comercial...}
 {894}{}{¿Buscas un poco de compañía?}
 {895}{}{El único deporte que se practica en Nuevo Reno últimamente es el beso francés...}
 {896}{}{¿Quieres bailar, esclavista?}
 {897}{}{Esclavista, nunca habrás amado hasta que no pruebes el amor de Reno.}
 {898}{}{No puedo creer la cantidad de strippers que había en la despedida de soltero de Feargus.}
-{899}{}{¿Mi trabajo? Convierto a los chicos en HOMBRES.}
+{899}{}{¿Mi trabajo? Convierto a los niños en HOMBRES.}
 {900}{}{¿Puedes atravesar un tablero con un clavo de seis pulgadas usando tu pene?}
 {901}{}{He estado demasiado tiempo en esta ciudad...}
 {902}{}{¿Necesitas una amiga para toda la noche? ¿O para unos diez minutos?}
@@ -772,21 +735,21 @@
 {905}{}{Buen paquete.}
 {906}{}{¿Te has perdido, esclavista?}
 {907}{}{¿Tienes un arma de fuego que necesites descargar, esclavista?}
-{908}{}{¿Puedo ayudarte en algo, forastero?}
+{908}{}{¿Hay algo en lo que pueda ayudarte, forastero?}
 {909}{}{Me gusta el aspecto de tu 'gecko', esclavista.}
 {910}{}{¿Es un gecko lo que tienes en el bolsillo?}
 {911}{}{¿Necesitas una guía por la ciudad, corazón?}
 {912}{}{¿Dónde está el fuego?}
 {913}{}{Muchacho, déjame convertirte en un hombre.}
 {914}{}{¿Quieres bailar, esclavista?}
-{915}{}{Oh, hola, señor Tyler. ¿Vas… abajo?}
-{916}{}{Si quieres hablar después de hacerlo, es un extra.}
-{917}{}{Sí, SON reales, y NO, no puedes comprobarlo.}
+{915}{}{Oh, hola, Mr. Tyler. ¿Baja?}
+{916}{}{Si tengo que hablar contigo al terminar, es un extra.}
+{917}{}{Sí, SON de verdad, y NO, no puedes comprobarlo.}
 {918}{}{Ese tipo, Fred Hatch, quería saber si hay "chicas corpulentas" en la ciudad. Qué raro.}
 {919}{}{[Canta]. "Let's play - master and servant. Let's play - master and servant".}
 {920}{}{¿Quieres jugar a amo y siervo, esclavista?}
 {921}{}{Si quieres que siga despierta después de hacerlo, es un extra.}
-{922}{}{¿Quieres ir Donde Viven los Monstruos?}
+{922}{}{¿Quieres ir 'Dónde viven los monstruos'?}
 {923}{}{Olvídate de las máquinas tragaperras. Mi premio es MUCHO mejor.}
 {924}{}{No soy barata, pero soy especial.}
 {925}{}{Me pegaré a ti como una segunda piel.}
@@ -823,7 +786,7 @@
 {956}{}{Soy la Spice sucia.}
 {957}{}{Oye… tengo una amiga si te apetece un trío.}
 {958}{}{Ojalá Myron fuera gay.}
-{959}{}{Sigo sin entender que la llamen calle Virgin…}
+{959}{}{Sigo sin entender por qué la llaman calle Virgin…}
 {960}{}{Ojalá se pusiera una bolsa de papel de vez en cuando.}
 {961}{}{¿Me pagas una copa, esclavista?}
 {962}{}{¿Te encargas de una chica solitaria en la ciudad?}
@@ -834,7 +797,7 @@
 {967}{}{Sigo teniendo el moratón que me hice con la cabecera…}
 {968}{}{He estado exhausta desde la última convención.}
 {969}{}{Preferiría que la Gen Con se celebrara en alguna otra ciudad.}
-{970}{}{Podrías derretir el metal, ¿sabes lo que digo?}
+{970}{}{Podrías derretir el metal, ¿sabes?}
 {971}{}{Me pareció que se movía la tierra, pero sólo era el chili.}
 {972}{}{Haz que me derrita.}
 {973}{}{Soy virgen. No soy muy buena en esto.}
@@ -850,7 +813,7 @@
 {983}{}{¿Quieres perder un poco de tiempo?}
 {984}{}{¿Quieres pasar un buen rato?}
 {985}{}{Pateé los pendientes reales de Jules la semana pasada.}
-{986}{}{¿Pensando en ir a los barrios bajos?}
+{986}{}{¿Piensas dirigirte a la zona baja de la ciudad?}
 {987}{}{No me llaman Dama Fortuna por nada.}
 {988}{}{Por SUPUESTO que me encantan esos preservativos con sabor a brahmin. Ñam.}
 {989}{}{¿Quieres hacerle pasar un buen rato a una señorita?}
@@ -899,7 +862,7 @@
 {1032}{}{¿Necesitas que alguien tire de tu correa, esclavista?}
 {1033}{}{¿Por qué no me llevas de vuelta a tu jaula, esclavista?}
 {1034}{}{Oye, esclavista. ¿Buscando a otra mujer?}
-{1035}{}{¿Quieres probar el otro lado, preciosa?}
+{1035}{}{¿Quieres probar el otro lado, dulzura?}
 {1036}{}{¿Necesitas sacudir tu jaula, esclavista?}
 {1037}{}{¿Te apetece experimentar, esclavista? Prueba.}
 {1038}{}{¿Quieres dar un paseo por el lado salvaje, esclavista?}
@@ -914,10 +877,8 @@
 {1047}{}{¿Buscas una cita, esclavista?}
 {1048}{}{¿Dónde está el fuego, esclavista?}
 {1049}{}{Haces titilar mi contador Geiger, esclavista.}
-
-# 18. [BONENOSE]
 {1050}{}{Mi nombre es Fácil. ¿Y el tuyo?}
-{1051}{}{Eres un poco juguetón, ¿eh?}
+{1051}{}{Un poco retozón, eh?}
 {1052}{}{¿Te has traído tus propias toallitas húmedas?}
 {1053}{}{Sí, SON de verdad.}
 {1054}{}{Sí, SON de verdad, y NO, no puedes comprobarlo.}
@@ -955,7 +916,7 @@
 {1086}{}{¿Dónde está el fuego?}
 {1087}{}{Tú tienes el dinero y yo el tiempo.}
 {1088}{}{Muchacho, déjame convertirte en un hombre.}
-{1089}{}{Oh, hola, señor Tyler. ¿Va… abajo?}
+{1089}{}{Oh, hola, Mr. Tyler. ¿Baja?}
 {1090}{}{Si tengo que hablar contigo al terminar, es un extra.}
 {1091}{}{Ese tipo, Fred Hatch, quería saber si hay "chicas corpulentas" en la ciudad. Qué raro.}
 {1092}{}{Lo de tu amigo con el hueso en la nariz… un truco genial.}
@@ -969,8 +930,8 @@
 {1100}{}{¿Tu amigo con el hueso en la nariz está sobrecompensando algo?}
 {1101}{}{¿Buscas el Jardín del Edén? Ven a mi dormitorio.}
 {1102}{}{¿Buscas un poco de acción?}
-{1103}{}{En la duda azótale.}
-{1104}{}{Déjame enseñarte cosas que sólo una mujer puede enseñar.}
+{1103}{}{En la duda, los azoto.}
+{1104}{}{Déjame enseñarte cosas que sólo una mujer te puede enseñar.}
 {1105}{}{Finalmente instalé la cabecera acolchada.}
 {1106}{}{Probar el paraíso te costará diez fichas.}
 {1107}{}{Myron: Todo cera y nada de mecha.}
@@ -985,10 +946,10 @@
 {1116}{}{Ojalá Myron se fuera. Muy lejos.}
 {1117}{}{Puedo hacer TODO lo que tú quieras... por el precio adecuado.}
 {1118}{}{Estoy lista, cariño. ¿Y tú?}
-{1119}{}{Olvida las máquinas tragaperras. Mi premio es MUCHO mejor.}
+{1119}{}{Olvídate de las máquinas tragaperras. Mi premio es MUCHO mejor.}
 {1120}{}{Odio que me hagan una "bolsita de té".}
 {1121}{}{Apuesta por mí, cariño.}
-{1122}{}{¿Buscas pasar un buen rato?}
+{1122}{}{¿Quieres pasar un buen rato?}
 {1123}{}{No puedo creer la cantidad de strippers que había en la despedida de soltero de Feargus.}
 {1124}{}{Auténtico amor de Reno, justo aquí.}
 {1125}{}{Te daré algo con lo que jugar.}
@@ -1086,11 +1047,9 @@
 {1217}{}{Hola, soldadita.}
 {1218}{}{¿Quieres pasar un buen rato, chica?}
 {1219}{}{¿Pensando en ir a los barrios bajos, chiquilla?}
-{1220}{}{¿Necesitas una guía por la ciudad, dulzura?}
+{1220}{}{¿Necesitas una guía por la ciudad, corazón?}
 {1221}{}{¿Dónde está el incendio, muchacha?}
 {1222}{}{Esa mujer hace titilar mi contador Geiger.}
-
-# 19. [NO REP]
 {1223}{}{Mi nombre es Fácil. ¿Y el tuyo?}
 {1224}{}{Un poco retozón, eh?}
 {1225}{}{¿Te has traído tus propias toallitas húmedas?}
@@ -1135,7 +1094,7 @@
 {1264}{}{Ese tipo, Fred Hatch, quería saber si hay "chicas corpulentas" en la ciudad. Qué raro.}
 {1265}{}{Si tengo que quedarme despierta después de hacerlo, es un extra.}
 {1266}{}{¿Quieres ir 'Dónde viven los monstruos'?}
-{1267}{}{Olvida las máquinas tragaperras. Mi premio es MUCHO mejor.}
+{1267}{}{Olvídate de las máquinas tragaperras. Mi premio es MUCHO mejor.}
 {1268}{}{No soy barata, pero soy especial.}
 {1269}{}{Hola, cariño.}
 {1270}{}{¿Quieres pelear?}
@@ -1264,23 +1223,42 @@
 {1393}{}{¿Necesitas una guía por la ciudad, dulzura?}
 {1394}{}{¿Dónde está el incendio, muchacha?}
 {1395}{}{Tú tienes el dinero, muchacha, yo tengo el tiempo.}
-
-# SPECIAL CAT'S PAW WHORE DIALOGS START
-# 0. QUICK LOOK
+{2175}{}{. La que le pateó el culo al Enclave.}
+{2178}{}{! ¡Qué forma de patearle el culo al Enclave!}
+{2181}{}{. La que le pateó el culo al Enclave.}
+{2195}{}{!}
+{2197}{}{! ¿Puedes conseguirme un trabajo en el estudio?}
+{2210}{}{.}
+{2263}{}{! ¡Bravo, semental!}
+{2264}{}{ ha pateado tantos culos, que uno pensaría que fue bota en otra vida.}
+{2268}{}{?}
+{2272}{}{?}
+{2278}{}{! ¡Bravo, muchacha!}
+{2279}{}{?}
+{2280}{}{ ha pateado tantos culos, que uno pensaría que fue bota en otra vida.}
+{2285}{}{.}
+{2292}{}{...}
+{2293}{}{?}
+{2294}{}{… por aquiiiii, corazóoon…}
+{2295}{}{.}
+{2855}{}{?}
+{2858}{}{?}
+{2861}{}{?}
+{2865}{}{, guapetón… ¿qué has estado haciendo?}
+{2867}{}{! ¿Cómo estás?}
+{2868}{}{. ¿Puedo ayudarte con… *lo que sea*?}
+{2870}{}{.}
+{2873}{}{, pequeña tentación… ¿qué has estado haciendo?}
 {3100}{}{Ves a una de las chicas de La Garra de la Gata.}
-
-# EXAMINES
 {3150}{}{Ves a una… dama de la noche. Su ropa harapienta cubre seductoramente su cuerpo.}
-{3151}{}{Ves a una de las chicas de La Garra de la Gata. Te guiña un ojo.}
-{3151}{}{Ves a una de las chicas de La Garra de la Gata. Sus ojos son como fusibles quemados.}
-{3152}{}{Ves a una de las chicas de La Garra de la Gata. Huele a flores.}
-{3153}{}{Ves a una de las chicas de La Garra de la Gata. Huele como mamá.}
-{3154}{}{Ves a una de las chicas de La Garra de la Gata. Te resulta un misterio cómo su ropa harapienta consigue mantener ocultos su pechos.}
-{3155}{}{Ves a una de las chicas de La Garra de la Gata. Parece como si pudiera matar a sus compañeras y devorarlas.}
-{3156}{}{Ves a una de las chicas de La Garra de la Gata. Te está valorando como si fuera una joyera.}
-{3157}{}{Ves a una de las chicas de La Garra de la Gata. Su ropa harapienta cubre seductoramente su cuerpo.}
-
-#1. SOME OTHER RANDOM FLOAT TEXT [ANY DISTANCE] (WTG)
+{3151}{}{You see one of the Cat's Paw girls. She winks at you.}
+{3152}{}{Ves a una de las chicas de La Garra de la Gata. Sus ojos son como fusibles quemados.}
+{3153}{}{Ves a una de las chicas de La Garra de la Gata. Huele a flores.}
+{3154}{}{Ves a una de las chicas de La Garra de la Gata. Huele como mamá.}
+{3155}{}{Ves a una de las chicas de La Garra de la Gata. Te resulta un misterio cómo su ropa harapienta consigue mantener ocultos su pechos.}
+{3156}{}{Ves a una de las chicas de La Garra de la Gata. Parece como si pudiera matar a sus compañeras y devorarlas.}
+{3157}{}{Ves a una de las chicas de La Garra de la Gata. Te está valorando como si fuera una joyera.}
+{3158}{}{Ves a una de las chicas de La Garra de la Gata. Su ropa harapienta cubre seductoramente su cuerpo.}
 {3200}{}{¡Oh, Dios! ¡Oh, Dios! OhDiosohDiosohDios… ooooooh Dioooos.}
 {3201}{}{¡Sí! ¡Sí! ¡Síiiiiiii SiSiSiSi SÍ SÍ SIIIII! Ahora ve a pagar al
  cajero.}
@@ -1300,31 +1278,3 @@
 {3213}{}{*Puff*}
 {3214}{}{No, NO me voy a poner las orejas del ratón Mickey.}
 {3215}{}{Sí, sí, lo haremos a lo bestia y por atrás.}
-
-# END LINES
-{2175}{}{. El que le pateó el culo al Enclave.}
-{2178}{}{! ¡Qué forma de patearle el culo al Enclave!}
-{2181}{}{. La que le pateó el culo al Enclave.}
-{2195}{}{!}
-{2197}{}{! ¿Puedes conseguirme un trabajo en el estudio?}
-{2210}{}{.}
-{2263}{}{! ¡Bravo, semental!}
-{2264}{}{ ha pateado tantos culos, que uno pensaría que fue bota en otra vida.}
-{2268}{}{?}
-{2272}{}{?}
-{2278}{}{! ¡Bravo, muchacha!}
-{2279}{}{?}
-{2280}{}{ ha pateado tantos culos, que uno pensaría que fue bota en otra vida.}
-{2285}{}{.}
-{2292}{}{…}
-{2293}{}{?}
-{2294}{}{… por aquiiiii, corazóoon…}
-{2295}{}{.}
-{2855}{}{?}
-{2858}{}{?}
-{2861}{}{?}
-{2865}{}{, guapetón… ¿qué has estado haciendo?}
-{2867}{}{! ¿Cómo estás?}
-{2868}{}{. ¿Puedo ayudarte con… *lo que sea*?}
-{2870}{}{.}
-{2873}{}{, pequeña tentación… ¿qué has estado haciendo?}

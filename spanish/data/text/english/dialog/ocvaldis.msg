@@ -1,6 +1,6 @@
 {100}{}{Ves a una Garra mortal. Te observa con ojos extrañamente inteligentes.}
 {101}{}{Ves a Valdis, la Garra mortal.}
-{102}{}{Ves a la típica Garra mortal. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas
+{102}{}{Ves a la típica Garra mortal. La criatura es enorme, con cuerpo poderoso, dientes afilados, y largas
  garras.}
 {103}{}{Saludos, humano.}
 {104}{}{¿Cómo puedo ayudarte?}
@@ -52,7 +52,6 @@
 {146}{}{Lo siento, intentaré ser más civilizado.}
 {147}{}{Que te den.}
 {148}{}{Sí.}
-{149}{}{Que tengas un buen día.}
+{149}{}{Buenos días a ti.}
 {150}{}{Yo lamento el hecho de tener que matarte.}
-
 {151}{}{.}

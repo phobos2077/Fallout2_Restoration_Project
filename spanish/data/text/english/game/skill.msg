@@ -1,9 +1,3 @@
-#
-#   Messages from skill.c
-#
-#
-#   SKILL NAMES
-#
 {100}{}{Armas pequeñas}
 {101}{}{Armas grandes}
 {102}{}{Armas de energía}
@@ -22,9 +16,6 @@
 {115}{}{Trueque}
 {116}{}{Apostar}
 {117}{}{Supervivencia}
-#
-#   SKILL DESCRIPTIONS
-#
 {200}{}{El uso, cuidado y conocimiento general de las armas pequeñas: pistolas, ametralladoras y rifles.}
 {201}{}{El uso y mantenimiento de las armas grandes: miniguns, lanzacohetes, lanzallamas y similares.}
 {202}{}{El cuidado y carga de las armas basadas en energía. Cómo armar y operar armas que usen tecnología de láser o plasma.}
@@ -43,12 +34,6 @@
 {215}{}{Trueque y habilidades relativas al comercio. Habilidad para conseguir mejores precios por los objetos que vendes y por los que compras.}
 {216}{}{El conocimiento y la habilidad práctica en las apuestas. La habilidad con cartas, dados y otros juegos de azar.}
 {217}{}{Conocimiento práctico de la vida al aire libre, y la habilidad para vivir de la tierra. El conocimiento de plantas y animales.}
-#
-#   SKILL ATTRIBUTES
-#
-#   Updated: 6/5/97 KSW
-#   Updated to New Skill System: 9/16/98 rwh2
-#
 {300}{}{+ (4 x AG)}
 {301}{}{+ (2 x AG)}
 {302}{}{+ (2 x AG)}
@@ -67,9 +52,6 @@
 {315}{}{+ (4 x CA)}
 {316}{}{+ (5 x SU)}
 {317}{}{+ (2 x (RE + IN))}
-#
-#   Skill Use Text
-#
 {500}{}{Curas %d puntos de salud.}
 {501}{}{Ya estás bastante sano.}
 {502}{}{%s parece bastante sano.}
@@ -83,7 +65,7 @@
 {521}{}{Te curas la %s.}
 {525}{}{No consigues curar tu %s.}
 {526}{}{No consigues curarte la %s.}
-{530}{}{ojo dañado}    # Lines 530-534 are the endings to lines 525 & 526.
+{530}{}{ojo dañado}
 {531}{}{brazo izquierdo roto}
 {532}{}{brazo derecho roto}
 {533}{}{pierna derecha rota}
@@ -99,26 +81,14 @@
 {590}{}{Has forzado tu capacidad con esa habilidad. Espera un rato.}
 {591}{}{Estás demasiado cansado.}
 {592}{}{El agotamiento podría matarte.}
-
-# Fallout 2!
 {600}{}{No tienes suficiente habilidad para curar huesos fracturados.}
 {601}{}{Es imposible reparar esta unidad robótica.}
-
-
-
-#
-# Fallout 2: Party Member skill use generic responses
-#
-
-#   I'll try
 {1000}{}{Déjame ayudar.}
 {1001}{}{Puedo hacerlo.}
 {1002}{}{Lo tengo.}
 {1003}{}{Encantado de ayudar.}
 {1004}{}{De acuerdo.}
 {1005}{}{Lo intentaré.}
-
-#   Player wants to do it
 {1100}{}{Si tienes problemas, avísame.}
 {1101}{}{¿Lo tienes?}
 {1102}{}{Si es lo que quieres...}

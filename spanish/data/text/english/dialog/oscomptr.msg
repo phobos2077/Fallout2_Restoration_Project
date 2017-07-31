@@ -34,9 +34,7 @@
 {125}{}{El terminal necesita un módulo de reconocimiento de voz instalado para que pueda ser operativo.}
 {126}{}{Hecho.}
 {127}{}{Ahora el sistema funciona correctamente.}
-
 {128}{}{Accediendo a ficheros de seguridad, cargando reproducción holográfica...}
-
 {129}{}{Eres el último, Gruthar. La mancha de los de tu clase pronto será limpiada.}
 {130}{}{Dile a tu llamado Presidente que arderá por esto.}
 {131}{}{Lo que sea. Nunca fuiste más que un animal parlante.}

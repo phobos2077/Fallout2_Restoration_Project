@@ -44,14 +44,12 @@
 {136}{}{¡Para! ¡No quiero saberlo!}
 {137}{}{Oh. Hola. ¿Qué puedo hacer por ti?}
 {138}{}{Eh, ¿me puedes repetir tu historia?}
-{139}{}{Siento, marcho yo.}
+{139}{}{Siento, yo marcho.}
 {140}{}{Me estaba preguntando si podría escuchar tu historia de nuevo.}
 {141}{}{Espera un momento, pensaba que eras otra persona.}
 {142}{}{Al fin, mi hora ha llegado ¿Vas a matarme ahora?}
 {143}{}{Sí.}
 {144}{}{No.}
-
-
 {145}{}{Cuando tenía ocho años, mi perro Spike fue atropellado por un tractor. A los nueve, mi madre perdió su brazo por
  un brahmin rabioso. A los diez, mi hermana fue devorada por una manada de perros. A los once, mi
  abuelo se suicidó porque yo era feo. A los doce, mi abuela se suicidó porque
@@ -60,7 +58,6 @@
  con un hueso de pollo. A los dieciséis, perdí a mi primo por culpa de un tejón. A los diecisiete, me corté
  el dedo gordo del pie izquierdo con un azadón. A los dieciocho, mi padre perdió la pierna derecha por culpa del mismo tractor
  que mató a mi perro. A los diecinueve... }
-
 {147}{}{Bueno, pues ahí estaba yo, sentado en el desierto esperando que engullese mi miserable existencia,
  cuando apareció una manada de Garras mortales. Bien, pensé para mí mismo, ya está. Ahora puedo morir. Puedo convertirme
  en un montón de mierda de Garra mortal en mitad del desierto. Pero no... el destino tenía otra carta

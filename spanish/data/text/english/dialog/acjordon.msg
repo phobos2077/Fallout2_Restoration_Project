@@ -1,7 +1,3 @@
-#############################################################
-#  Jordan (Arroyo)     				            #
-#############################################################
-
 {100}{}{Ves a Jordan, jugando con su lanza como de costumbre.}
 {101}{}{Ves a Jordan, jugando con su lanza como de costumbre.}
 {102}{}{¡Buena suerte! Debo volver a mi entrenamiento.}

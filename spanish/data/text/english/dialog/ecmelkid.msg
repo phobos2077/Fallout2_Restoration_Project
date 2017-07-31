@@ -1,13 +1,6 @@
-#############################################################
-#  Melchior Jr. (Encuentros)             #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un pequeño mocoso.}
 {101}{}{Ves a Melchior, Jr.}
-
 {150}{}{Parece un niño sonriente de ojos grandes.}
-
 {200}{}{¡Hola! Me llamo Melchior Jr.}
 {201}{}{Mi papá es minero. Su nombre es Melchior, igual que el mío.}
 {202}{}{Mi papá es un buen minero, pero él quiere ser mago.}

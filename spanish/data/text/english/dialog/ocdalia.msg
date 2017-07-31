@@ -2,14 +2,14 @@
 {101}{}{Ves a Dalia.}
 {102}{}{Ves a una mujer joven y bonita con armadura metálica. Vigila lo que le rodea con mucha
  atención.}
-{103}{}{¿Cómo te va,} #continue to 153
+{103}{}{¿Cómo te va,}
 {104}{}{Tú Dalia. Recuerdo tú ayudas.}
 {105}{}{Las cosas bien. Marcho ahora.}
 {106}{}{¡Dalia! Gracias a ti, las cosas fueron genial.}
 {107}{}{Las cosas están bien, pero tengo que irme.}
 {108}{}{Vaya, me alegra oír eso. Fue un placer hacer lo que pude por ti. Así que, ¿en qué puedo
  ayudarte?}
-{109}{}{Hago preguntas.}
+{109}{}{Tengo preguntas.}
 {110}{}{Nada. Digo hola.}
 {111}{}{Tengo algunas preguntas para ti.}
 {112}{}{Nada. Pero me agrada verte de nuevo. Adiós.}
@@ -17,20 +17,20 @@
 {114}{}{Tú prisionera.}
 {115}{}{¿Marchas cuando quieres tú?}
 {116}{}{¿Sabes cosas de Garras?}
-{117}{}{¿Cómo llegas, aquí, tú?}
+{117}{}{¿Cómo vienes aquí?}
 {118}{}{¿Por qué preocupa estar seguro tú?}
 {119}{}{Gracias. Marcho.}
-{120}{}{¿Eres prisionera aquí?}
+{120}{}{¿Eres prisionero aquí?}
 {121}{}{¿Puedes marcharte en el momento que quieras?}
-{122}{}{¿Qué puedes decirme de las Garras mortales?}
+{122}{}{¿Qué puedes contarme de las Garras mortales?}
 {123}{}{¿Cómo llegaste hasta aquí?}
 {124}{}{¿Por qué te preocupa necesitar un lugar seguro?}
 {125}{}{Gracias. Hablaré contigo más tarde.}
 {126}{}{No, no lo soy. Estoy aquí por voluntad propia y me gusta. Creo que este será un lugar seguro para
  que me quede por un tiempo.}
-{127}{}{Vale.}
+{127}{}{De acuerdo.}
 {128}{}{Adiós.}
-{129}{}{Muy bien.}
+{129}{}{De acuerdo.}
 {130}{}{Ya veo. Bueno, seguiré entonces.}
 {131}{}{Sí, me han dicho que soy libre de irme o quedarme. Me quedaré por ahora.}
 {132}{}{Veo.}
@@ -54,7 +54,7 @@
  o por mi paradero.}
 {143}{}{Ahora tú segura. Dalia no debe preocupar.}
 {144}{}{Ahora estás segura, Dalia. No tendrás que preocuparte de ningún castigo.}
-{145}{}{Gracias,} # continue 155
+{145}{}{Gracias,}
 {146}{}{De nada.}
 {147}{}{Adiós.}
 {148}{}{No hay de qué.}
@@ -62,7 +62,6 @@
 {150}{}{Hola.}
 {151}{}{Hola otra vez. ¿Cómo va todo?}
 {152}{}{No tengo ningún problema contigo. }
-
 {153}{}{? Espero que todo te fuera bien en Ocupación.}
 {154}{}{Así pues, me acerqué furtivamente a este campamento y allí estaban esas dos Garras mortales sentadas junto al fuego
  charlando. Idiota de mí, se me escapó un pequeño grito de sorpresa, me levanté y empecé a correr... justo a

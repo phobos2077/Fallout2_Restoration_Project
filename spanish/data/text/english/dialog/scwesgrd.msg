@@ -19,7 +19,7 @@
 {118}{}{¿Qué tratos tienes con el señor Westin?}
 {119}{}{Necesito trabajo yo.}
 {120}{}{Sólo quiero charlar.}
-{121}{}{Eh...}
+{121}{}{Uh...}
 {122}{}{No importa.}
 {123}{}{Estoy buscando trabajo y he oído que está contratando gente.}
 {124}{}{Me gustaría charlar con el señor Westin.}
@@ -28,17 +28,15 @@
 {127}{}{Agradezco yo.}
 {128}{}{Gracias.}
 {129}{}{El señor Westin no 'charla' simplemente con cualquiera que camina por la calle. Si no tienes un tema específico que tratar con él, te sugiero que te vayas hasta que lo tengas. Ahora, por favor vete.}
-{130}{}{Hecho.}
+{130}{}{HECHO}
 {131}{}{(suspiro) He oído que el señor Westin tiene debilidad por gente como tú. Entra.}
 {132}{}{Agradezco a tú.}
 {133}{}{Que sí, que sí. Estoy en la mitad de algo.}
 {134}{}{¡Oye, aléjate de ahí!}
 {135}{}{Deberías preguntas antes de jugar con cosas que no son tuyas.}
-
 {136}{}{Hola. ¿Necesitabas ver al señor Westin de nuevo?}
 {137}{}{Sí.}
 {138}{}{No.}
-
 {139}{}{Yo tengo cosas de Ciudad Refugio para el señor Westin.}
 {140}{}{Tengo algo de Ciudad Refugio para el señor Westin.}
 {141}{}{De acuerdo, entra. Pero no causes ningún problema, te estaré vigilando.}

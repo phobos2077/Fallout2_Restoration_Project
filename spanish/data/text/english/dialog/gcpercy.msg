@@ -50,7 +50,7 @@
 {142}{}{¡Oye, cuidado con eso! De acuerdo, continúa.}
 {143}{}{Bueno, pues eso, que lo que decía es que no es que sea un problema en Gecko. Pero, ya ves, la gente por otras partes
  resulta que no les gusta nuestra pinta.}
-{144}{}{¿Y entonces?}
+{144}{}{¿Y?}
 {145}{}{Pero suma dos y dos: vaya que si me preocupa que ese Woody se esté echando la siesta en La Guarida -que es un viaje
  largo, digo yo- y que resulte que han enterrado vivo al pobre gilipollas. Necesito que alguien eche una miradita por ahí.}
 {146}{}{¿Y...?}

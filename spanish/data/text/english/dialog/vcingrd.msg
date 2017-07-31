@@ -9,7 +9,7 @@
 {108}{}{¡¿¡Umag Nak!?! ¡Umag NAK!}
 {109}{}{Bien, me aseguraré de que llegues al Patio sano y salvo. Venga, en
  marcha.}
-{110}{}{Está bien. Vamos.}
+{110}{}{Vale. Vamos allá.}
 {111}{}{Brog Frup}
 {112}{}{Puedo ir yo solo.}
 {113}{}{Lo siento, tengo mis órdenes. Debo escoltarte al otro lado de la puerta.}
@@ -37,30 +37,30 @@
 {134}{}{Breep-oop foop foop}
 {135}{}{¿Un necrófago? ¿Dónde?}
 {136}{}{¿Un mutante? ¿Dónde?}
-{137}{}{Viene conmigo.}
-{138}{}{Viaja conmigo. Y si alguno de vosotros, racistas, tiene un problema con eso, quizá deberíamos solucionarlo aquí y ahora.}
+{137}{}{Está conmigo.}
+{138}{}{Viaja conmigo. Si alguno de vosotros, racistas, tenéis algún problema con eso, quizás deberíamos discutirlo aquí y ahora.}
 {139}{}{¿Está contigo? Entonces vais a venir con nosotros. Vamos a volver al Patio, donde tú... y esa cosa... pertenecéis.}
-{140}{}{Está bien, iremos pacíficamente.}
-{141}{}{¿Por qué no intentas escoltarnos fuera de aquí? Te garantizo que será una experiencia educativa.}
+{140}{}{De acuerdo, nos iremos pacíficamente.}
+{141}{}{¿Por qué no intentas escoltarnos fuera de aquí? Te garantizo que será una experiencia muy educativa.}
 {142}{}{Genial, parece que tenemos entre nosotros a un par de idiotas. Muy bien, tonto.}
 {143}{}{Muy divertido.}
 {144}{}{Vais a venir con nosotros. Vamos a volver al Patio, donde tú... y esa cosa... pertenecéis.}
-{145}{}{YO NO MARCHO CON AMIGO! ¡TU NO AMIGO!}
-{146}{}{Marchamos y no enfado}
-{147}{}{Está bien, iremos pacíficamente.}
+{145}{}{¡NO ME VOY CON AMIGOS! TU NO AMIGO!}
+{146}{}{Nos vamos vamos sin ruidos}
+{147}{}{De acuerdo, nos iremos pacíficamente.}
 {148}{}{Viaja conmigo. Y si alguno de vosotros, capullos, tenéis un problema con eso, vamos a tener un baño de sangre ahora mismo.}
 {149}{}{¿Quieres hacerlo del modo difícil? Muy bien. ¡Guardias! ¡Intrusos!}
 {150}{}{¡Hrnghhhhhhhhhh!}
-{151}{}{Vas a estar muerto antes de que aparezcan esos amigos tuyos.}
+{151}{}{Estarás muerto antes de que aparezcan esos amigos tuyos.}
 {152}{}{¡Vaya! ¡Es el que derrotó al Enclave!}
 {153}{}{¡Oye, enhorabuena por derrotar al Enclave!}
 {154}{}{¡Bienvenido a Ciudad Refugio, héroe!}
 {155}{}{Tu lucha contra el Enclave impresionó incluso a la Primer Ciudadano.}
-{156}{}{He oído que has viajado tan al sur que has llegado a San Francisco. ¿Es eso cierto?}
-{157}{}{¿Es cierto que los Estados Unidos aún seguían en guerra?}
+{156}{}{He oído que has viajado hacia el sur incluso hasta San Francisco. ¿Es cierto?}
+{157}{}{¿Es cierto que los Estados Unidos aún luchan en la guerra?}
 {158}{}{Deberías catalogar tus viajes en la computadora de Ciudad Refugio.}
-{159}{}{Estás invitado a quedarte en Ciudad Refugio todo el tiempo que desees.}
-{160}{}{Deberías catalogar tus hazañas contra el Enclave y añadirlas al Servidor de Listas.}
+{159}{}{Estás invitado a quedarte en Ciudad Refugio tanto tiempo como quieras.}
+{160}{}{Deberías catalogar tus hazañas contra el Enclave y añadirlas en el Servidor de Listas.}
 {161}{}{No te reconozco. ¿Dónde están tus documentos?}
 {162}{}{Aquí están, "oficial". Creo que comprobarás que todo está en orden.}
 {163}{}{No los llevo encima en este momento, pero --}

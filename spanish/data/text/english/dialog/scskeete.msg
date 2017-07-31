@@ -3,7 +3,7 @@
 {102}{}{Ese tipo es un harapiento indeseable, lleno de tics nerviosos, sin duda un adicto a algo.}
 {103}{}{¡Bonito vehículo, amigo, realmente bonito! Oh, amigo, soy tu hombre: vigilo tu coche, lo preservo de chinches. Cinco pavos, y no hay problema. ¡Cinco pavos y Doofus se pone a ello! No duermo en 24 horas, siempre estoy ahí, amigo.}
 {104}{}{Soy el gorrilla, amigo. Vigilo los coches: 5 dólares. Nadie los toca, porque Doofus está ojo avizor.}
-{105}{}{Claro, por supuesto, amigo.}
+{105}{}{Sí, claro, amigo.}
 {106}{}{Entonces, amigo, ¿quieres mi protección?}
 {107}{}{Bien. Hazlo.}
 {108}{}{No. No lo toques.}
@@ -36,7 +36,7 @@
 {135}{}{Oye, amigo, Doofus te avisó.}
 {136}{}{Jódete. No voy a responder tus preguntas.}
 {137}{}{¿Qué es este lugar?}
-{138}{}{Adiós}
+{138}{}{Adiós.}
 {139}{}{Adiós.}
 {140}{}{¡Caray, comunicación de pensamiento! ¡Estoy recibiendo ondas mentales! Vale, déjame intentarlo... uhhh.... Uhhh...}
 {141}{}{¿Sí?}
@@ -76,7 +76,6 @@
 {174}{}{Que te den, estúpido.}
 {175}{}{Que te den. Me largo de aquí.}
 {176}{}{¿Necesitas vigilar un coche? No hay problema. Puedo hacerlo.}
-
 {177}{}{¡Sí, vigilo coches, sí, COCHES... COCHES.. sí, coches...!}
 {178}{}{LA LA LA LA COCHES, hey, dame un coche y LO VIGILARÉ..}
 {179}{}{VIGILAR vigilar vigilar VIGILAR vigilar VIGILar VIGILAAAAR vigilar}
@@ -87,5 +86,4 @@
 {184}{}{Te gustan los coches que VIGILO cual halcón con pequeños ojos brillantes.}
 {185}{}{Nunca me voy de aquí y vigilo y a veces hablo con la gente pero siempre vigilo}
 {186}{}{Sí, estoy bien. SÍ, ESTOY BIEN, sí.}
-
 {187}{}{Claro, amigo, quédatelo todo.}

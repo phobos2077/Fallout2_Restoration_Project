@@ -1,8 +1,3 @@
-#############################################################
-#  Heroe Blanco (Encuentros)            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a... un modelo de héroe blanco.}
 {101}{}{Ves a un hombre blanco muy musculoso con un uniforme del Refugio 13. Está sonriendo y riendo mientras cuenta su historia.}
 {102}{}{Ves a un héroe de raza blanca. Sonríe y se ríe.}
@@ -14,4 +9,3 @@
 {108}{}{Lo encerraba en los campos de fuerza de cada nivel de la base para mantenerlo alejado del combate.}
 {109}{}{Lo malo era tener que hacerlo en cada nivel sin que los mutantes se cargaran a Albóndiga.}
 {110}{}{Creo que se salió con la suya.}
-

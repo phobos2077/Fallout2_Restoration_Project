@@ -3,7 +3,7 @@
 {102}{}{Ves a un vagabundo con una media sonrisa burlona en su rostro.}
 {103}{}{::Eructa con fuerza:: ¿Qué quieres?}
 {104}{}{::eructas::}
-{105}{}{¿Quién tú?}
+{105}{}{¿Quién?}
 {106}{}{¿Quién eres?}
 {107}{}{¿Qué puedes decirme de este petrolero?}
 {108}{}{¿Qué haces aquí?}
@@ -75,7 +75,7 @@
 {174}{}{En fin, buena suerte. Tengo más preguntas.}
 {175}{}{Buena suerte. Volveré más tarde.}
 {176}{}{Oye, encuentra a mi novia y entonces hablaremos.}
-{177}{}{Está bien, está bien.}
+{177}{}{De acuerdo, de acuerdo.}
 {178}{}{¿Está muerta? ¿MUERTA? ¿Cómo murió? No, espera... no me lo digas. Dame un par de horas para reponerme.}
 {179}{}{Claro, claro.}
 {180}{}{Ponte las pilas, juerguista. Tenemos puñeteras cosas que hacer.}
@@ -83,7 +83,7 @@
 {182}{}{Bien. Necesito preguntarte algo.}
 {183}{}{Bien hecho. No quería hablar contigo.}
 {184}{}{Gracias, gracias, gracias. No puedo agradecerte lo suficiente el que la salvaras. ¿Qué quieres?}
-{185}{}{Tengo unas preguntas.}
+{185}{}{Tengo algunas preguntas.}
 {186}{}{Tu gratitud es suficiente para mí. Hasta luego.}
 {187}{}{Muy bien, entré en las computadoras Shi. No sé si lo que hice fue detectado. Supongo que ahora lo mejor es ocultarse. ¿Quieres algo más?}
 {188}{}{Sí.}
@@ -93,25 +93,20 @@
 {192}{}{No. Nos vemos.}
 {193}{}{Acabas de cometer un gran error, amigo. Acabo de poner en tu contra a los Shi y los Hubologistas a través de sus computadoras. Estás acabado en San Francisco. }
 {194}{}{Entonces supongo que lo mejor será que te mate.}
-
 {195}{}{Dame un par de horas para reponerme.}
 {196}{}{¿Quieres que piratee una computadora formateada? La información está perdida. No hay nada que hacer.}
-
 {197}{}{Voy a tener que abandonar este lugar.}
 {198}{}{Me alegro de verte.}
-
 {199}{}{Estoy buscando algo de combustible.}
 {200}{}{He oído que los Hubologistas tienen algo de combustible, y pude echar un vistazo en su computadora para ti.}
 {201}{}{Los Shi tienen todo su combustible por aquí. Podría echar un vistazo a su computadora principal por ti.}
 {202}{}{¿Podrías?}
-
-{203}{}{¿Qué demonios quieres?}
+{203}{}{¿Qué coño quieres?}
 {204}{}{¿Badger, supongo?}
 {205}{}{¡Has deshonrado a nuestro Emperador por última vez!}
 {206}{}{Creo que voy a ir a comprarle algunos caramelos a Lao Chou en la ciudad.}
 {207}{}{Demasiado para un juicio justo. Hmmm...}
 {208}{}{Colega, relájate. Yo sólo quería algunos caramelos.}
-
 {209}{}{¿Puedes transferir el combustible de su nave espacial al petrolero?}
 {210}{}{¿Puedes conseguirme una copia de sus planos del vertibird?}
 {211}{}{¿Puedes transferir el combustible y conseguirme los planos?}
@@ -127,4 +122,3 @@
 {221}{}{Sí, tengo los planos del verti.}
 {222}{}{Sí, tengo el combustible y los planos.}
 {223}{}{Muchas gracias. Nos vemos.}
-

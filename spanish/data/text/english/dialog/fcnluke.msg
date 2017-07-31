@@ -10,7 +10,7 @@
 {109}{}{¿Qué dices con pez?}
 {110}{}{¿Qué quieres decir con eso?}
 {111}{}{Estás atrayendo la atención de un montón de gente. Debes tener cuidado.}
-{112}{}{Continúa.}
+{112}{}{Sigue.}
 {113}{}{Continúa, estoy escuchando.}
 {114}{}{De momento ya he dicho suficiente. Creo que deberías volver a ocuparte de tus asuntos.}
 {115}{}{Joshua dijo lo mismo a yo. Necesito hacerte pregunta.}
@@ -37,7 +37,7 @@
 {136}{}{Hola otra vez. No tengo nada más que decirte.}
 {137}{}{. Bien... ciertamente has recorrido un largo camino para un simple tribal. Deberías visitar nuestra oficina de San Francisco alguna vez. Podría resultarte gratificante. Ahora, si me perdonas, he de irme.}
 {138}{}{Hola otra vez. No tengo nada más que decirte.}
-{139}{}{Espera...}
+{139}{}{Esperas...}
 {140}{}{Esa es una oficina privada.}
 {141}{}{Ahí dentro no hay nada para ti.}
 {142}{}{Esto es propiedad privada, así que muévete.}

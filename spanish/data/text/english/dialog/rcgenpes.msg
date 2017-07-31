@@ -24,7 +24,7 @@
 {123}{}{Ves a un hombre con una bebida fría en su mano.}
 {124}{}{Ves a un hombre pidiendo una cerveza.}
 {125}{}{A este tipo le queda mucho por beber.}
-{126}{}{Ves a un borrachuzo.}
+{126}{}{Ves a un borracho.}
 {127}{}{Este caballero parece muy feliz.}
 {128}{}{Ves a una mujer con una bebida fría en su mano.}
 {129}{}{Ves a una mujer pidiendo una cerveza.}
@@ -64,7 +64,7 @@
 {163}{}{Esta mujer está descansando.}
 {164}{}{Esta mujer se relaja en su hogar.}
 {165}{}{Hola.}
-{166}{}{¿Qué haces aquí?}
+{166}{}{¿Qué estás haciendo aquí?}
 {167}{}{No te he invitado.}
 {168}{}{Vete. Por aquí no nos gustan los tribales. }
 {169}{}{¡Lárgate!}

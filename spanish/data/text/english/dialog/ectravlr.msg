@@ -1,24 +1,17 @@
-#############################################################
-#  VIajero (Encuentros)            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un viajero.}
 {101}{}{¡Saludos, compañero viajero!}
 {102}{}{Necesito que me indiquen unas direcciones. ¿Puedes ayudarme?}
 {103}{}{¿A dónde te diriges?}
-{104}{}{¿Qué es lo que haces?}
-{105}{}{Ug.}
+{104}{}{¿Qué haces?}
+{105}{}{Uhg.}
 {106}{}{Bueno... no lo sé. Soy nuevo por aquí y sólo he ido a las siguientes zonas.}
-
 {107}{}{Nuevo Reno}
 {108}{}{Ciudad Refugio}
 {109}{}{Redding}
 {110}{}{La Guarida}
 {111}{}{San Francisco}
-{112}{}{República de Nueva California}
+{112}{}{RNC}
 {113}{}{Una mina abandonada.}
-
 {114}{}{No, ya he estado ahí antes. Gracias de todos modos.}
 {115}{}{Nuevo Reno.. ese es un gran sitio al que ir. Sexo, drogas y apuestas. ¿Qué más se puede pedir? Aquí, déjame señalarte el lugar.}
 {116}{}{Gracias.}
@@ -36,7 +29,7 @@
 {128}{}{Gracias.}
 {129}{}{Oh... realmente no importa. Sólo decidí viajar un buen día y bueno, aquí estoy.}
 {130}{}{Quizá puedas ayudarme. Necesito algunas indicaciones.}
-{131}{}{¿Qué es lo que haces?}
+{131}{}{¿Qué haces?}
 {132}{}{Me alegro de hablar contigo.}
 {133}{}{Hago trabajos raros aquí y allí. Pero principalmente viajo.}
 {134}{}{Quizá puedas ayudarme. Necesito algunas indicaciones.}
@@ -52,5 +45,4 @@
 {144}{}{Hora de irse.}
 {145}{}{No quiero ser un pesado.}
 {146}{}{Debo partir.}
-
-{150}{}{Gracias. Necesito otras direcciones.}
+{150}{}{Necesito algunas indicaciones más.}

@@ -12,23 +12,23 @@
 {109}{}{Ciudad Refugio prevalece, Ciudadano.}
 {110}{}{¡Un mutante! ¡Guardias! ¡Guardias!}
 {111}{}{¡Un necrófago! ¡Guardias! ¡Guardias!}
-{112}{}{¿Cómo has entrado en la ciudad?}
+{112}{}{¿Cómo has conseguido cruzar los muros?}
 {113}{}{Perdona, ¿tienes un pase de día? }
 {114}{}{Hmmmph. Otro forastero.}
-{115}{}{Parece que cada vez más forasteros logran entrar en la ciudad...}
-{116}{}{Desde luego espero que tengas un pase de día.}
-{117}{}{Parece que últimamente le están entregando pases de día a *cualquier* forastero...}
-{118}{}{He oído hablar de tus grandes hazañas. Le has hecho un gran servicio a Ciudad Refugio... y al mundo.}
+{115}{}{Parece que cada vez más forasteros están encontrando la forma de entrar...}
+{116}{}{Ciertamente espero que tengas un pase de día.}
+{117}{}{Parece que últimamente le están concediendo pases de día a *cualquier* forastero...}
+{118}{}{He oído hablar de tus valientes hazañas. Le has prestado un gran servicio a Ciudad Refugio... y al mundo.}
 {119}{}{Tu lucha contra el Enclave impresionó incluso a la Primer Ciudadano.}
 {120}{}{He oído que has viajado al sur hasta tan lejos como San... Fran... Cisco. ¿Eso es cierto?}
-{121}{}{Tal vez Ciudad Refugio *debería* dar la bienvenida a los forasteros. }
-{122}{}{¿Era cierto? ¿El gobierno del viejo mundo aún seguía en guerra?}
-{123}{}{Deberías catalogar tus viajes en la computadora de Ciudad Refugio para que otros puedan leer sobre ellos.}
-{124}{}{Te invitamos a quedarte aquí todo el tiempo que desees, héroe.}
-{125}{}{Deberías catalogar tus heroicas hazañas contra el Enclave en una bonita y ordenada lista.}
+{121}{}{Quizá Ciudad Refugio *debería* dar la bienvenida a los forasteros. }
+{122}{}{¿Era cierto? ¿El gobierno del viejo mundo seguía librando la guerra?}
+{123}{}{Deberías registrar tus viajes en la computadora de Ciudad Refugio para que otros puedan leer sobre ellos.}
+{124}{}{Puedes estar aquí todo el tiempo que quieras, héroe.}
+{125}{}{Deberías registrar tus heroicas hazañas contra el Enclave en una bonita y ordenada lista.}
 {126}{}{*Bostezo*... ¿hrmnnn? ¿Sí? ¿Qué pasa?}
 {127}{}{Es un poco tarde para las visitas. }
-{128}{}{La MAYORÍA de Ciudadanos estaría durmiendo a estas horas.}
+{128}{}{La MAYORÍA de Ciudadanos debería estar durmiendo a esta hora.}
 {129}{}{¿Durmiendo? No, ya no.}
 {130}{}{Por favor... vuelve por la mañana. Mañana me espera un largo día de confeccionar listas.}
 {131}{}{Que le vaya bien, capitán.}
@@ -43,8 +43,8 @@
 {140}{}{Como Ciudadano, una parte de tu deber cívico es confeccionar y mantener listas.}
 {141}{}{He pasado la mayor parte del día haciendo una lista para el procónsul, y luego revisándola. Me encanta hacer
  listas.}
-{142}{}{Trabajo en la Oficina de Listas. La mayoría de nosotros lo hace. Aquí en Ciudad Refugio *adoramos* hacer listas.}
-{143}{}{He pasado la mayor parte del día actualizando una lista para la Oficina de Listas. Honestamente, ha sido un buen
+{142}{}{Trabajo en la oficina de Listas. La mayoría de nosotros lo hace. Aquí en Ciudad Refugio *adoramos* hacer listas.}
+{143}{}{He pasado la mayor parte del día actualizando una lista para la oficina de Listas. Honestamente, ha sido un buen
  y productivo trabajo.}
 {144}{}{He oído que realmente has viajado al mundo exterior. ¿Cómo sobreviviste entre esos sucios
  forasteros?}
@@ -67,4 +67,4 @@
 {160}{}{Los siervos nos liberan de tiempo para que lo dediquemos a asuntos más importantes. En su mayor parte, confección de listas.}
 {161}{}{¿Los siervos? Oh, los usamos en tareas de baja categoría.}
 {162}{}{Sí, ya huelo... er, ya veo que eres un forastero.}
-{163}{}{Eres un forastero? Qué pintoresco.}
+{163}{}{¿Eres un forastero? Qué pintoresco.}

@@ -1,32 +1,16 @@
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-#
-# Text labels and messages used in PIPBOY.C
-#
-# (These MUST match "text message" enumeration on the top of PIPBOY.C)
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-
-#
-# Special holiday dates
-#
-{100}{}{¡Feliz Año Nuevo!}      # New years
-{101}{}{¡Feliz Día de San Valentín!}     # April fools
-{102}{}{¡Feliz 1 de Abril!}      # April fools
-{103}{}{¡Feliz Día de Envíos Gratis!}            # Shipping day!
-{104}{}{¡Feliz Día de la Independencia!}    # Independence day
-{105}{}{¡Feliz Halloween!}           # Halloween
-{106}{}{¡Feliz Día de Acción de Gracias!}    # Thanksgiving
-{107}{}{¡Feliz Navidad!}           # X-mas
-
-#
-# System messages
-#
+{100}{}{¡Feliz Año Nuevo!}
+{101}{}{¡Feliz Día de San Valentín!}
+{102}{}{¡Feliz 1 de Abril!}
+{103}{}{¡Feliz Día de Envíos Gratis!}
+{104}{}{¡Feliz Día de la Independencia!}
+{105}{}{¡Feliz Halloween!}
+{106}{}{¡Feliz Día de Acción de Gracias!}
+{107}{}{¡Feliz Navidad!}
 {200}{}{MÁS}
 {201}{}{VOLVER}
 {202}{}{ESTADO}
 {203}{}{No hay tareas disponibles.}
-{204}{}{PISTAS}  # clues gone
+{204}{}{PISTAS}
 {205}{}{AUTOMAPAS}
 {206}{}{ARCHIVOS DE VÍDEO}
 {207}{}{DATOS}
@@ -38,10 +22,6 @@
 {213}{}{Página}
 {214}{}{HECHO}
 {215}{}{¡No puedes descansar aquí!}
-
-#
-# Alarm clock
-#
 {300}{}{ALARMA-DESPERTADOR}
 {301}{}{Puntos de Salud}
 {302}{}{Descansar 10 minutos}
@@ -58,11 +38,7 @@
 {313}{}{Descansar hasta medianoche (0000)}
 {314}{}{Descansar hasta curarse del todo}
 {315}{}{Descansar hasta que el grupo se cure}
-
-#
-# Holodisk titles
-#
-{400}{}{Holodisco Refugio 13}
+{400}{}{Holodisco del Refugio 13}
 {401}{}{Exterior Base Militar}
 {402}{}{Base Militar Nivel 1}
 {403}{}{Base Militar Nivel 2}
@@ -76,19 +52,14 @@
 {411}{}{Enseñanzas de la Hubología}
 {412}{}{Notas de Ciudad Refugio}
 {413}{}{Guía de Viaje}
-{414}{}{Holodisco Espía RNC}
-{415}{}{Holodisco Historia RNC}
+{414}{}{Holodisco del espía en la RNC}
+{415}{}{Holodisco de la RNC}
 {416}{}{Holodisco de Westin}
 {417}{}{Estado de la Nación}
 {418}{}{Listado de Términos}
 {419}{}{El Proyecto}
 {420}{}{Operaciones Central Nuclear}
-
-#
-# Movie archive titles
-# Order must match the list (see gmovie.h)
-#
-{500}{}{Logo de InterPlay}               # Not shown in Pipboy
+{500}{}{Logo de InterPlay}
 {501}{}{Intro}
 {502}{}{Discurso de la Anciana}
 {503}{}{Recuperación del Uniforme del Refugio}
@@ -105,13 +76,8 @@
 {514}{}{Sueño de Arroyo 3}
 {515}{}{Sueño de Arroyo 4}
 {516}{}{Créditos}
-
-#
-# Things for the Mac version to speak
-#
-#
 {600}{}{Estado}
-{601}{}{Pistas}  # Clues gone
+{601}{}{Pistas}
 {602}{}{Automapas}
 {603}{}{Archivos}
 {604}{}{Alarma Reloj}
@@ -119,30 +85,18 @@
 {606}{}{Bienvenido al Pipboy 2000 de RobCo.}
 {607}{}{Hasta la vista.}
 {608}{}{Despierta.}
-
-
-#
-# Status thread text
-#
-# Format:
-# 0 City name
-# 1 ... 9 thread/quest name
-#
 {700}{}{Refugio 13}
 {701}{}{Calmar a la facción rebelde.}
 {702}{}{Destruir al líder mutante.}
 {703}{}{Destruir la fuente de mutantes.}
 {704}{}{Encontrar el chip de agua.}
 {705}{}{Encontrar al ladrón del agua.}
-#
 {710}{}{Buried Vault}
-#
 {720}{}{Arenas Sombrías}
 {721}{}{Curar a Jarvis del veneno de escorpión rad.}
 {722}{}{Hacer antídoto del veneno.}
 {723}{}{Rescatar a Tandi de los saqueadores.}
 {724}{}{Detener a los escorpiones rad.}
-#
 {730}{}{Ciudad Vertedero}
 {731}{}{Ayudar a Saul.}
 {732}{}{Matar a Killian.}
@@ -150,30 +104,23 @@
 {734}{}{Salvar a Trish.}
 {735}{}{Parar a Gizmo.}
 {736}{}{Arrestar a la banda Calavera.}
-#
 {740}{}{Raiders}
-#
 {750}{}{Necrópolis}
 {751}{}{Destruir a los Super Mutantes en el Watershed.}
 {752}{}{Fijar la bomba de agua de Necrópolis.}
-#
 {760}{}{El Eje}
 {761}{}{Destruir las Garras mortales.}
 {762}{}{Eliminar a Jain.}
 {763}{}{Eliminar al comerciante.}
 {764}{}{Encontrar las caravanas perdidas.}
 {765}{}{Robar el collar de los comerciantes.}
-#
 {770}{}{Hermandad}
 {771}{}{Convertirte en INICIADO.}
 {772}{}{Rescatar al Iniciado de los Hub.}
-#
 {780}{}{Base Militar}
-#
 {790}{}{El Ardor}
 {791}{}{Desarmar las trampas de la instalación.}
 {792}{}{Encender la energía del Ardor.}
-#
 {800}{}{Cementerio}
 {801}{}{Convertirte en Blade.}
 {802}{}{Entregar el collar para Romero.}
@@ -182,23 +129,12 @@
 {805}{}{Fijar la granja hidropónica en Adytum.}
 {806}{}{Rescatar a Jason Zimmerman.}
 {807}{}{Evitar que los Gangsters ataquen Adytum.}
-#
 {810}{}{Catedral}
-
-
-#
-# Holodisk text
-#
-
-# GVAR_NCR_FAKE_VAULT13_HOLODISK
-#
 {1000}{}{REFUGIO 13 HOLO por Ziggy}
 {1001}{}{**END-PAR**}
 {1002}{}{Este disco contiene la localización del Refugio 13.}
 {1003}{}{La localización se ha marcado en tu mapa.}
 {1004}{}{**END-DISK**}
-# *** ***
-# GVAR_HOLODISK_MB_OUTSIDE
 {2000}{}{A: CHQ}
 {2001}{}{Nuestro equipo de científicos ha finalizado el análisis}
 {2002}{}{del ejemplar obtenido de la base. Confirmado un 99% de}
@@ -208,12 +144,9 @@
 {2006}{}{informa de grandes pero aceptables bajas. He ordenado}
 {2007}{}{la evacuación de la base. Tan pronto todo el personal}
 {2008}{}{esté fuera, volaremos la entrada a la base y proce-}
-{2009}{}{deremos a sellarla con esos bastardos dentro.}
+{2009}{}{}
 {2010}{}{Coronel Sanders.}
 {2011}{}{**END-DISK**}
-
-# *** ***
-# GVAR_HOLODISK_MB_LEVEL_1
 {3000}{}{Capitán Pickard informando en el punto de control 1.}
 {3001}{}{Contacto con puntos de control 2 y 3 negativos. Sólo}
 {3002}{}{podemos asumir lo peor. Los monstruos están inva-}
@@ -221,9 +154,6 @@
 {3004}{}{ha fracasado. Intentaremos contenerlos en esta}
 {3005}{}{posición todo el tiempo que podamos.}
 {3006}{}{**END-DISK**}
-
-# *** ***
-# GVAR_HOLODISK_MB_LEVEL_2
 {4000}{}{Atacado punto de control 3. Hemos volado los ascenso-}
 {4001}{}{res de la mina por precaución, pero puedo oírles su-}
 {4002}{}{biendo por las galerías. ¡Mierda! ¡Criaturas enormes,}
@@ -233,9 +163,6 @@
 {4006}{}{trepando por las galerías, ¡y los que abatimos se levan-}
 {4007}{}{tan avanzando hacia nosotros! ¡NECESITAMOS REFUERZ...}
 {4008}{}{**END-DISK**}
-
-# *** ***
-# GVAR_HOLODISK_MB_LEVEL_3
 {5000}{}{Sargento Bracks informando desde el punto de control 3.}
 {5001}{}{Sin novedad, igual que ayer y anteayer. No sé por qué}
 {5002}{}{nos tienen vigilando a esos desgraciados mineros. Son}
@@ -250,9 +177,6 @@
 {5011}{}{do nuestra posición! ¡ENVIAD AYUDA! Repito, punto de}
 {5012}{}{control 3 solicitando ayu...}
 {5013}{}{**END-DISK**}
-
-# *** ***
-# GVAR_HOLODISK_MB_LEVEL_4
 {6000}{}{La excavación marcha según los plazos previstos. A}
 {6001}{}{juzgar por los antiguos mapas de la base, deberíamos}
 {6002}{}{alcanzar la zona de cubas pronto. Hay elevados niveles}
@@ -261,7 +185,6 @@
 {6005}{}{virus. Informen a los miembros del Enclave de que se}
 {6006}{}{debería obtener una muestra pura del mutágeno pronto.}
 {6007}{}{**END-PAR**}
-#
 {6008}{}{También hemos empezado a notar algunos cambios en los}
 {6009}{}{mineros. Parecen estar mostrando signos de un aumento}
 {6010}{}{de fuerza y resistencia, y ligeros cambios de tono de}
@@ -284,7 +207,6 @@
 {6027}{}{tos e impedirá a cualquier enemigo obtener el virus}
 {6028}{}{una vez hayamos evacuado la base.}
 {6029}{}{**END-DISK**}
-#
 {7000}{}{Almacén Militar Sierra - Departamento I + D}
 {7001}{}{Médico a cargo: Dr. H. Lector}
 {7002}{}{Diario Personal}
@@ -346,7 +268,6 @@
 {7058}{}{ya que estaré ocupado intentando retomar mi inves-}
 {7059}{}{tigación lo antes posible.}
 {7060}{}{**END-DISK**}
-#
 {8000}{}{05 de Julio de 2077}
 {8001}{}{Almacén Militar Sierra - Enfermería}
 {8002}{}{Médico a cargo: Dr. Solomon}
@@ -376,8 +297,7 @@
 {8026}{}{Sin embargo, es penoso que sólo se pueda probar este}
 {8027}{}{nuevo gel bajo circunstancias tan extremas.}
 {8028}{}{**END-DISK**}
-#
-{9000}{}{9 de Junio de 2077}
+{9000}{}{09 de Julio de 2077}
 {9001}{}{Máxima Prioridad}
 {9002}{}{Aviso General}
 {9003}{}{}
@@ -392,8 +312,6 @@
 {9012}{}{}
 {9013}{}{Por orden del general Clifton.}
 {9014}{}{**END-DISK**}
-
-# Sierra Base Mission Statement
 {10000}{}{Almacén Militar Sierra}
 {10001}{}{Informe de Misión 1942 - 1991}
 {10002}{}{Almacenar y mantener un suministro defensivo de arte-}
@@ -417,7 +335,7 @@
 {10020}{}{Base restaurada con la última tecnología y usada como}
 {10021}{}{instalación de investigación secreta para desarrollo}
 {10022}{}{de armamento robótico, biológico y convencional.}
-{10023}{}{}
+{10023}{}{weapons.}
 {10024}{}{**END-PAR**}
 {10025}{}{Almacén Militar Sierra}
 {10026}{}{Informe de Misión 2077}
@@ -426,8 +344,6 @@
 {10029}{}{Todo el personal será transferido a instalaciones ve-}
 {10030}{}{cinas o enviado a la línea del frente. }
 {10031}{}{**END-DISK**}
-
-# Sierra Base GNN Transscript
 {11000}{}{Galaxy News Network}
 {11001}{}{Transcripción de Emisión, 11 de Enero de 2073}
 {11002}{}{Titular de hoy en GNN: En un golpe maestro financiero,}
@@ -549,9 +465,6 @@
 {11118}{}{fuera de Alaska. Mermados por la falta de combustible,}
 {11119}{}{los invasores chinos retroceden hacia su capital, Pekín.}
 {11120}{}{**END-DISK**}
-
-
-# Elron Bible
 {12000}{}{¡Bienvenido!}
 {12001}{}{¡Bienvenido al Holodisco de la Hubología! A través de}
 {12002}{}{estas páginas electrónicas, usted encontrará una breve}
@@ -763,7 +676,7 @@
 {12208}{}{para situarlo en línea con el movimiento de la Rueda.}
 {12209}{}{**END-PAR**}
 {12210}{}{BIBLIOGRAFÍA}
-{12211}{}{Libros de Hub:}
+{12211}{}{Libros de Hub}
 {12212}{}{(Hay cientos y cientos de libros listados aquí, incluyendo}
 {12213}{}{títulos como: 'Espiritualidad científica',  'Campo de ba-}
 {12214}{}{talla: Quetzel',  'Padre Estelar desde lo alto', 'Listas}
@@ -771,7 +684,6 @@
 {12216}{}{tus enemigos eficazmente',  'Cómo crear una secta', y }
 {12217}{}{'Cómo traducir esto y sobrevivir en el intento'.)}
 {12218}{}{**END-DISK**}
-
 {13000}{}{NOTAS DE DISEÑO DE CIUDAD REFUGIO}
 {13001}{}{**END-PAR**}
 {13002}{}{Desarrollar Ciudad Refugio costó mucho esfuerzo. Fue}
@@ -827,7 +739,6 @@
 {13052}{}{Felicidades por salvar al mundo. Y gracias otra vez por}
 {13053}{}{jugar a Fallout 2.}
 {13054}{}{**END-DISK**}
-
 {14000}{}{CUADERNO DE VIAJE DEL NORTE DE CALIFORNIA}
 {14001}{}{**END-PAR**}
 {14002}{}{AVISO: Si los Ciudadanos del Refugio creen necesario}
@@ -837,7 +748,7 @@
 {14006}{}{1.Suministro de raciones en conserva de Ciudad Refugio.}
 {14007}{}{  ¡Nunca comas ningún alimento ofrecido por un extraño,}
 {14008}{}{  ya que introducirías partículas radiactivas o bacterias}
-{14009}{}{  en tu sistema!}
+{14009}{}{  tu sistema!}
 {14010}{}{}
 {14011}{}{2.Contador Geiger. ¡Asegúrate siempre de monitorizar los}
 {14012}{}{  niveles de radiación ambiental donde quiera que viajes!}
@@ -858,7 +769,7 @@
 {14027}{}{GOBIERNO: Alcalde y Consejo de la Ciudad.}
 {14028}{}{ESTUDIOS DE RADIACIÓN DE FONDO: Actualmente no}
 {14029}{}{hay lecturas de radiación disponibles.}
-{14030}{}{TASA DE MUTACIÓN: Desconocida, se cree que baja.}
+{14030}{}{TASA DE MUTACIÓN: Desconocida, se cree baja.}
 {14031}{}{**END-PAR**}
 {14032}{}{NUEVO RENO: Ciudad al suroeste de Ciudad Refugio. Cam-}
 {14033}{}{bia mineral de oro por suministros médicos de Ciudad}
@@ -928,12 +839,11 @@
 {14097}{}{POBLACIÓN: Censo actual: 103 Ciudadanos.}
 {14098}{}{GOBIERNO: Primer Ciudadano y Consejo.}
 {14099}{}{ESTUDIOS DE RADIACIÓN DE FONDO: Los archivos han sido}
-{14100}{}{borrados, perdiendo las siguientes entradas:}
+{14100}{}{borrados, perdiendo las siguientes entradas: [-$Gecko-/-$Groundwater}
 {14101}{}{ [-$Gecko-/-$Contaminación Agua-subterránea-]}
 {14102}{}{TASA DE MUTACIÓN: Los archivos han sido borrados, per-}
 {14103}{}{diendo las siguientes entradas: [-$TasadeNatalidad %-]}
 {14104}{}{**END-DISK**}
-
 {15000}{}{DISCO 5 DE INFORMACIÓN DE LA RNC}
 {15001}{}{**END-PAR**}
 {15002}{}{Este disco parece contener informes sobre la RNC: }
@@ -946,7 +856,6 @@
 {15009}{}{Refugio 13 o el GECK. Todos los informes están dirigidos}
 {15010}{}{a Darion y están firmados por "F-".}
 {15011}{}{**END-DISK**}
-
 {16000}{}{DISCO 1 DE INFORMACIÓN DE LA RNC}
 {16001}{}{**END-PAR**}
 {16002}{}{¡Estamos Aquí! ¿Por qué no te unes a nosotros?}
@@ -997,7 +906,7 @@
 {16047}{}{su nuevo estatus de CP (Ciudadano Provisional). ¡A partir}
 {16048}{}{de aquí solo queda un paso para la Ciudadanía completa!}
 {16049}{}{**END-PAR**}
-{16050}{}{Desde luego, la RNC no es para todo el mundo:}
+{16050}{}{Desde luego, la RNC no es para todo el mundo. }
 {16051}{}{¡Esclavistas, mutantes no reformados, criminales famo-}
 {16052}{}{sos, y otros indeseables no son bienvenidos!}
 {16053}{}{**END-PAR**}
@@ -1019,7 +928,6 @@
 {16069}{}{NCRAP Pub. #A7-7893b}
 {16070}{}{Esta página se ha dejado en blanco intencionadamente.}
 {16071}{}{**END-DISK**}
-
 {17000}{}{Primera Ciudadana Lynette;}
 {17001}{}{**END-PAR**}
 {17002}{}{El correo ha entregado el disco que enviaste. Hiciste lo}
@@ -1038,8 +946,6 @@
 {17015}{}{Tu amigo y aliado,}
 {17016}{}{Roger Westin}
 {17017}{}{**END-DISK**}
-
-# State of the Nation
 {18000}{}{Memo: Estado de la Nación}
 {18001}{}{De: Presidente Dick Richardson}
 {18002}{}{A: La gente de esta Gran Nación}
@@ -1075,8 +981,6 @@
 {18032}{}{capaces de gasear a esos malditos mutantes cualquier}
 {18033}{}{semana de estas si el informe de Curling es correcto.}
 {18034}{}{**END-DISK**}
-
-# Word List
 {19000}{}{Memo: Lista de Términos}
 {19001}{}{De: Vicepresidente Daniel Bird}
 {19002}{}{A: Mi}
@@ -1088,7 +992,7 @@
 {19008}{}{Mahonesa}
 {19009}{}{Psico}
 {19010}{}{California}
-{19011}{}{Subrepticio}
+{19011}{}{Subreticio}
 {19012}{}{Verbosidad}
 {19013}{}{Simbiosis}
 {19014}{}{Subtítulo}
@@ -1104,8 +1008,6 @@
 {19024}{}{Simiosis- convertirlo en la nueva mascota nacional.}
 {19025}{}{(¿Es ésta una criatura Americana?)}
 {19026}{}{**END-DISK**}
-
-# The Project
 {20000}{}{Memo: Informe Trimestral de Estado de Proyectos}
 {20001}{}{DE: Dr. C. Curling, Unidad de Guerra Química de EEUU}
 {20002}{}{A: Gabinete}
@@ -1158,8 +1060,6 @@
 {20049}{}{tantos años está llegando a su fin.}
 {20050}{}{Que Dios bendiga a América.}
 {20051}{}{**END-DISK**}
-
-# Power Plant Operations
 {21000}{}{Memo: C.E.A., Informe de Estado}
 {21001}{}{De: Tom Murray, Presidente, Comisión de Energía Atómica}
 {21002}{}{A: Gabinete}

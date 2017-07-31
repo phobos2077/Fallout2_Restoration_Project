@@ -41,7 +41,6 @@
 {140}{}{Siéntate. Te hará falta cuando escuches mi minuta. Lo de los miembros amputados costará 600 dólares.}
 {141}{}{Pagaré.}
 {142}{}{Olvídalo.}
-
 {158}{}{¿Qué? ¿No tienes el dinero? ¿Cómo esperas que sobreviva si me pides curaciones gratuitas?}
 {159}{}{¿Tienes estimulantes?}
 {160}{}{No, gracias.}
@@ -51,15 +50,15 @@
 {164}{}{¿Qué tal esto?}
 {165}{}{Es todo lo que quiero ofrecer. Hasta luego.}
 {166}{}{¿Estás herido? Tsk, tsk. Un remedio antiguo te curará. }
-{167}{}{¡Va-vale!}
+{167}{}{¡Va-le!}
 {168}{}{}
 {169}{}{Hemos acabado. ¡Ahora, vete y ten cuidado!}
-{170}{}{G-gracias!}
+{170}{}{¡G-gracias!}
 {171}{}{¿Necesitas más?}
 {172}{}{Necesito que me curen.}
 {173}{}{Tengo un amigo que necesita que lo curen.}
 {174}{}{¿Quién eres?}
-{175}{}{Háblame de este lugar.}
+{175}{}{Háblame sobre este lugar.}
 {176}{}{Tengo un amigo que ha perdido el bazo. ¿Puedes ayudarle?}
 {177}{}{No. Pero gracias.}
 {178}{}{Estás hablando con la persona adecuada. ¿Te gustaría la historia larga o la corta?}
@@ -90,7 +89,6 @@
 {203}{}{Buenos días.}
 {204}{}{No trato con los enemigos de mi pueblo. Mis humildes disculpas.}
 {205}{}{Honorable señor, le recomiendo que busque a los médicos de su culto.}
-
 {206}{}{¿Qué puedes contarme sobre los implantes?}
 {207}{}{He ayudado a escribir el artículo sobre los implantes. Todo lo que se requiere es mi experiencia y a ti. ¿Qué clase de implante deseas?}
 {208}{}{¿Qué tipos hay?}
@@ -124,6 +122,5 @@
 {236}{}{De acuerdo.}
 {237}{}{¡Ahí lo tienes! Estás… mejorado. Recuerda… no te arranques las costras a menos que quieras añadir alguna horrible cicatriz a tu ahora no demasiado agradable apariencia.}
 {238}{}{Gracias, doc. Hasta luego.}
-
 {239}{}{Tengo el dinero para el bazo.}
 {240}{}{¿Vuelven a interesarte los implantes?}

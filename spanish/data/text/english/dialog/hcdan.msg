@@ -15,7 +15,7 @@
 {114}{}{No.}
 {115}{}{¿Qué te importa eso a ti?}
 {116}{}{La razón por la que pregunto, es porque mi mujer ha desaparecido. No sé donde está. Lleva desaparecida días. He preguntado por toda la ciudad, y nadie la ha visto. ¿Podrías encontrarla por mí?}
-{117}{}{¿Qué hay para mi?}
+{117}{}{¿Qué hay para mí?}
 {118}{}{Miraré por ahí. ¿Qué aspecto tiene?}
 {119}{}{No. Estoy ocupado.}
 {120}{}{Puedo darte 500 dólares. Son los ahorros de mi vida.}

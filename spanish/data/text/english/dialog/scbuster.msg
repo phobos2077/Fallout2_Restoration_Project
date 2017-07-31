@@ -34,10 +34,10 @@
 {133}{}{Adiós.}
 {134}{}{Es gracioso que estés preguntando después de lo que sucedió con Frank Westin. Yo no lo sé, pero tengo un compañero, Merk, en el Rawhide, que tal vez podría ayudarte.}
 {135}{}{Ya veo.}
-{136}{}{Adiós}
+{136}{}{Adiós.}
 {137}{}{¿Una de esas importaciones de pre-guerra? Déjame adivinar: ¿munición de 14mm? No, no tengo.}
 {138}{}{Ya veo.}
-{139}{}{Adiós}
+{139}{}{Adiós.}
 {140}{}{Mira, no puedo hacer esto más que en un rifle de caza. Es por la forma en que está montado el soporte, ¿comprendes?}
 {141}{}{Ya veo.}
 {142}{}{Adiós.}

@@ -1,5 +1,5 @@
-{100}{}{Ves a un comerciante.}
-{101}{}{Ves a un comerciante.}
+{100}{}{Ves a una comerciante.}
+{101}{}{Ves a una comerciante.}
 {102}{}{Ves a un animado comerciante Shi. Como todos los demás, resulta bastante pomposo.}
 {103}{}{¡Ven a comprar pulpo! ¡Muy sabroso!}
 {104}{}{¿Te gusta el pescado? ¡Tenemos pescado!}

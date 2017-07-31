@@ -129,13 +129,7 @@
 {228}{}{Me alegra haberme aferrado a mi dinero.}
 {229}{}{Eso me habría costado lo suyo.}
 {230}{}{Esa ha sido una buena pelea. Pero me alegra no haber apostado en ella.}
-{231}{}{Muy bien, gracias.}
-
-####
-# Fighter Names
-####
-
-# Fighter 1
+{231}{}{De acuerdo, gracias.}
 {300}{}{Keen Squeek}
 {301}{}{Vicky}
 {302}{}{Pincho}
@@ -145,19 +139,15 @@
 {306}{}{Jackelope}
 {307}{}{Asesino}
 {308}{}{Jefe}
-
-# Fighter 2
-{310}{}{Tanker}
+{310}{}{Petrolero}
 {311}{}{Patán}
-{312}{}{Patata}
+{312}{}{Spud}
 {313}{}{Larry}
 {314}{}{Joe}
 {315}{}{Kong}
 {316}{}{Gorgo}
 {317}{}{Willard}
 {318}{}{Ben}
-
-# Fighter 3
 {320}{}{Retaco}
 {321}{}{Trituradora}
 {322}{}{Destripador}
@@ -167,8 +157,6 @@
 {326}{}{Tuerto}
 {327}{}{Spot}
 {328}{}{Marqués Gusano}
-
-# Fighter 4
 {330}{}{Afortunado}
 {331}{}{El gran Zoroastro}
 {332}{}{Shub}
@@ -178,8 +166,6 @@
 {336}{}{Tesoro}
 {337}{}{Fraggle}
 {338}{}{Capitán Medianoche}
-
-# Fighter 5
 {340}{}{Martillo}
 {341}{}{Secretariat}
 {342}{}{Man o' War}
@@ -189,8 +175,6 @@
 {346}{}{Grendel}
 {347}{}{Lady Penelope}
 {348}{}{Señor Bolsón}
-
-# Fighter 6
 {350}{}{Relámpago}
 {351}{}{Percy}
 {352}{}{Flor}

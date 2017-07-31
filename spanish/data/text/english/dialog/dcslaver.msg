@@ -1,21 +1,10 @@
-#############################################################
-#  Guardia esclavista  (Den)   		    		    #
-#############################################################
-
-
-# 0. Look
 {100}{}{Ves a un esclavista.}
-
 {150}{}{Parece ser uno de los guardaespaldas personales de Metzger.}
-
-# 1. CF: Hostile
 {200}{}{Ahí estás.}
-{201}{}{Muere.}
-
-# 2. CF: Normal
+{201}{}{Ahora, morirás.}
 {300}{}{¿Quieres ver al jefe? Pasa dentro.}
 {301}{}{Es con Metzger con quién tienes que hablar, no conmigo.}
-{302}{}{Entra.}
+{302}{}{Vamos, entra.}
 {303}{}{Pórtate bien.}
 {304}{}{Metzger está justo detrás de esta puerta.}
 {305}{}{No cabrees a Metzger.}

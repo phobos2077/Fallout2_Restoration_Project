@@ -1,11 +1,9 @@
-{100}{}{Ves a alguien cuya piel ha sufrido quemaduras muy graves.}
-{101}{}{Ves a un ciudadano necrófago de Gecko.}
+{100}{}{Ves a alguien cuya piel parece estar muy quemada.}
+{101}{}{Ves a uno de los necrófagos de Gecko.}
 {102}{}{Ves a alguien cuya piel parece haber sido quemada por la radiación, tanto que debería haber muerto, pero parece estar bastante bien.}
-
-{110}{}{La persona que ves emana un tenue brillo. Su piel parece haber sufrido graves quemaduras.}
+{110}{}{La persona que ves resplandece débilmente. Su piel parece muy quemada.}
 {111}{}{Ves a un resplandeciente de Gecko.}
 {112}{}{Ves a alguien que ha estado tan expuesto a la radiación que emana un tenue brillo. Tanta radiación debería haberlo matado, pero parece estar bastante bien.}
-
 {120}{}{Gracias por salvarnos de Ciudad Refugio.}
 {121}{}{Esos intolerantes de Ciudad Refugio nos habrían matado de no ser por ti.}
 {122}{}{Eres un héroe.}
@@ -19,7 +17,6 @@
 {130}{}{Gracias por tu ayuda.}
 {131}{}{Eres el mejor. Gracias.}
 {132}{}{Nada mal, para un piel suave.}
-
 {140}{}{Hola, mi amigo piel suave.}
 {141}{}{Bienvenido a Gecko.}
 {142}{}{Hola, amigo.}
@@ -32,10 +29,9 @@
 {149}{}{Algún día, otros serán capaces de utilizar nuestra energía.}
 {150}{}{Me alegro de que no todos los pieles suaves sean como los de Ciudad Refugio.}
 {151}{}{Si los de Ciudad Refugio fuesen como tú, no tendríamos problemas con ellos.}
-
 {160}{}{Hmmph, otro piel suave traicionero.}
 {161}{}{¿Que tal, piel suave?}
-{162}{}{Hola.}
+{162}{}{Hola a todos.}
 {163}{}{¿Qué tal?}
 {164}{}{Pórtate bien mientras estés en el pueblo.}
 {165}{}{¿Has caminado mucho para llegar hasta aquí?}
@@ -43,7 +39,6 @@
 {167}{}{Aquí somos tolerantes, pero no estúpidos, piel suave.}
 {168}{}{Aléjate de Ciudad Refugio. Esos tipos son unos capullos.}
 {169}{}{Hola. El tiempo ha sido realmente seco últimamente.}
-
 {180}{}{Desde luego que el tiempo ha sido seco últimamente.}
 {181}{}{Maldita maleza.}
 {182}{}{Creo que el reactor nuclear empeora lo de esa maleza.}
@@ -54,7 +49,6 @@
 {187}{}{Los vegetales son buenos para el cuerpo.}
 {188}{}{Ya casi estamos listos para la cosecha.}
 {189}{}{No nos vendría mal algo más de lluvia.}
-
 {200}{}{Hay que vigilar a esos brahmines.}
 {201}{}{Esos brahmines son tan lindos... no me va a gustar matarlos.}
 {202}{}{Estoy tan aburrido...}
@@ -65,7 +59,6 @@
 {207}{}{Alguien hizo caer a uno la noche pasada.}
 {208}{}{Algunos son mucho más lindos que los otros.}
 {209}{}{Hmm, me pregunto por qué nadie los monta.}
-
 {220}{}{Hola, piel suave.}
 {221}{}{Cómpranos una bebida, piel suave.}
 {222}{}{Oh, chico, estoy sediento.}
@@ -76,7 +69,6 @@
 {227}{}{Vamos a cantar una canción.}
 {228}{}{¿...y entonces las cabezas hacen qué? Simplemente no entiendo a Wooz.}
 {229}{}{¿Qué es una manzana?}
-
 {240}{}{Eres bastante bueno para ser un piel suave.}
 {241}{}{Invítanos a otra ronda, piel suave.}
 {242}{}{[Canta] Qué seco estoy, qué seco estoy…}
@@ -87,8 +79,7 @@
 {247}{}{Alguien debería empezar a tejer más ropa por aquí.}
 {248}{}{Ahh, la cerveza es buena.}
 {249}{}{Esta cerveza es genial. Es por el agua... y lo demás.}
-
-{260}{}{Eres el mejor piel suave que jamás he conocido.}
+{260}{}{Eres el mejor piel suave que he conocido.}
 {261}{}{¡Más jugo resplandeciente! ¡Más jugo resplandeciente!}
 {262}{}{Eh, ¿nos invitas a otra, piel suave?}
 {263}{}{Esos pobres mutantes de Broken Hills...}
@@ -98,7 +89,6 @@
 {267}{}{He oído que ese Chester es un espía de Ciudad Refugio.}
 {268}{}{Me gustaría Renovarme y ser un piel suave.}
 {269}{}{Te juro que he visto cosas volando sobre nosotros por la noche.}
-
 {280}{}{Te quiero, amigo.}
 {281}{}{Eres el mejor.}
 {282}{}{¡A bombardear Ciudad Refugio hasta que resplandezca!}
@@ -111,7 +101,6 @@
 {289}{}{Realmente me alegra que nuestro reactor esté funcionando.}
 {290}{}{Debo de estar borracho. Lo que dice Wooz está empezando a tener sentido.}
 {291}{}{Creo que una vez vi una manzana... ¿o era una banana?}
-
 {300}{}{El reactor está funcionando tan bien que casi puedes oírlo zumbar.}
 {301}{}{Gracias por arreglar las cosas con Ciudad Refugio por nosotros.}
 {302}{}{Ahora tendremos mucha energía.}
@@ -122,7 +111,6 @@
 {307}{}{Gracias por reparar nuestro reactor nuclear.}
 {308}{}{El reactor está ronroneando como nunca. Gracias.}
 {309}{}{Eres el mejor piel suave que he conocido.}
-
 {320}{}{Renovación, camarada. ¡Renovación!}
 {321}{}{Eres uno de nosotros.}
 {322}{}{Hola, camarada. La Renovación está al llegar.}
@@ -133,7 +121,6 @@
 {327}{}{Tengo tu Renovación justo aquí, colega.}
 {328}{}{Estos días ya no puedes darte la vuelta sin toparte con otro maldito cultista.}
 {329}{}{Nunca me encontrarás adorando a una maldita rata sobredimensionada.}
-
 {340}{}{Deberías ir a ver a Lenny por esas heridas.}
 {341}{}{Pareces demasiado magullado. Ve a ver a Lenny.}
 {342}{}{No deberías boxear con una Garra mortal. Ve a ver a Lenny.}

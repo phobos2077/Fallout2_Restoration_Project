@@ -31,7 +31,6 @@
 {130}{}{Es el vicepresidente; es todo lo que sé. Por otra parte, no puede decirte nada más. Pasa la mayoría del tiempo en la Residencia Presidencial. Casi nunca sale, especialmente ahora con todos los problemas que hemos tenido.}
 {131}{}{Carlson. Gran Jefe. Vive en la casa grande. Eso es todo.}
 {132}{}{Lo siento: la temporada de caravanas de ganado terminó. Vuelve dentro de algunos meses.}
-
 {133}{}{Sí, sí... ¿hay alguna otra manera de ganarse unos pavos rápidamente en el pueblo?}
 {134}{}{Es posible que haya algo así. Digamos que los funcionarios no quieren saber nada de una oportunidad como ésta.}
 {135}{}{Bueno, estaría dispuesto a pagar una cantidad por algo de información.}
@@ -54,5 +53,5 @@
 {152}{}{¿Estás seguro de no estar mezclado con la ley?}
 {153}{}{Mira, casi lo tienes, sigue así.}
 {154}{}{Muy bien, sólo un poco más, te lo prometo.}
-
 {155}{}{Estate en la entrada del rancho de Westin mañana. Si no apareces, saldremos sin ti. ¿Entendido?}
+{156}{}{We are about to do another cattle run to Redding. How's your gun handling?}

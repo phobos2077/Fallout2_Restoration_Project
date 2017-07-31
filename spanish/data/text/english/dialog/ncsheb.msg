@@ -1,7 +1,5 @@
 {100}{}{Ves a… Sheb.}
-
 {150}{}{Ves a un hombre huesudo con brillantes ropas azules. Por si las ropas no fueran de por sí bastante llamativas, también está gritando a pleno pulmón.}
-
 {200}{}{¡Botín, botín, boo-tín!}
 {201}{}{¡Entrad, amantes del botín!}
 {202}{}{En la Garra de la Gata estamos ofreciendo los precios a la mitad!}

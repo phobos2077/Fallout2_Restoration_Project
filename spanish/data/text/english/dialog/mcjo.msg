@@ -1,10 +1,9 @@
 {101}{}{Ves a una persona normal, de mediana edad, de mediana altura y mediana complexión. Nada fuera de lo normal.}
-{102}{}{Ves a Jo.}
-{103}{}{Ves al mercader Jo.}
+{102}{}{Ves a Joey.}
+{103}{}{Ves a un mercader.}
 {104}{}{Ves al sheriff Jo.}
-{105}{}{Ves al alcalde Jo.}
+{105}{}{Ves a Marc.}
 {106}{}{Ves al juez de paz Jo.}
-
 {150}{}{Hemos matado a todos. Incluso a los niños... [Sollozo]}
 {151}{}{Reúnete con nosotros en la Granja Fantasma. Atacaremos inmediatamente.}
 {152}{}{Gracias por salvar a la gente de Modoc.}
@@ -20,22 +19,20 @@
 {162}{}{Estoy buscando un objeto concreto, y me preguntaba si tú serías capaz de ayudarme a localizarlo.}
 {164}{}{Estoy buscando un reloj de oro. ¿Sabes dónde podría encontrar uno?}
 {165}{}{¿Qué tienes para comprar?}
-{166}{}{¿Qué puedes contarme sobre este pueblo?}
+{166}{}{¿Qué me puedes contar de esta ciudad?}
 {167}{}{¿Qué haces aquí?}
 {168}{}{¡GECK!}
-
 {169}{}{¡Has vuelto! ¿Qué has averiguado sobre la granja?}
 {170}{}{He acabado con el problema de la Granja Fantasma. Podéis quedaros con la granja cuando queráis.}
 {171}{}{Tengo un mensaje para ti de parte del líder de los Escorias.}
 {172}{}{Men-saje. Meeeen-saje.}
 {173}{}{¿Granja?}
 {174}{}{¡Cosas malas adiós!}
-{175}{}{Me voy.}
+{175}{}{Yo marcho.}
 {176}{}{Volveré cuando tenga más información.}
 {179}{}{Hay un borracho en La Guarida que coincide con la descripción de Karl. También dice que solía ser granjero.}
 {180}{}{Esos cadáveres eran falsos. Tan sólo eran muñecos cubiertos con tripas de brahmin. Se suponía que debían asustaros para manteneros lejos de las cosechas.}
 {181}{}{Otra vez, ¿qué se supone que debo hacer?}
-
 {182}{}{¿Qué? Oh, debes ser nuevo por aquí. Bienvenido a Modoc. Mi nombre es Jo, y llevo el puesto comercial de Modoc.}
 {183}{}{Estoy en una misión. Busco el sagrado GECK. ¿Sabes dónde podría encontrarlo?}
 {186}{}{Vaya, estás de suerte. Resulta que sé donde está. Supongo que tenemos negocios entre manos, después de todo.}
@@ -49,16 +46,15 @@
 {194}{}{Hay una granja a las afueras del pueblo, donde no debería haber ninguna. Hace algunos años simplemente 'apareció' de la nada.}
 {195}{}{¿Estás diciendo que esta granja surgió de la noche a la mañana? ¡Sí, claro!}
 {196}{}{Varios de nosotros estábamos cazando cuando descubrimos la nueva granja. Pero eso no fue lo extraño. Poco después, algunos de nosotros fuimos juntos a visitar a nuestros nuevos vecinos, sólo para descubrir que allí no había nadie.}
-{197}{}{Continúa.}
+{197}{}{Sigue.}
 {198}{}{Tras muchos meses de intentar contactar con los dueños sin éxito, se decidió que la granja debía haber sido abandonada poco después de ser construida. Así que en vez de dejar que las cosechas se echaran a perder en los campos, el joven Karl se trasladó allí.}
 {199}{}{Hmm… }
 {200}{}{Entonces fue cuando las cosas empezaron a ir mal. Karl comenzó a contar historias sobre extrañas visiones de figuras resplandecientes cuidando la cosecha y alimentando a los animales por la noche. Todos nos reímos de él, pensando que se estaba inventando la historia. Entonces un día Karl dejó de venir al pueblo.}
-
 {201}{}{¿Qué le ocurrió? ¿Le buscásteis?}
 {202}{}{¡Por supuesto que lo hicimos! Fuimos allí tan pronto como sospechamos que algo malo había ocurrido. [Comienza a temblar violentamente]. Qué horror. Había cadáveres esparcidos por todas partes. Algunos crucificados, otros dejados pudriéndose al sol. Todavía me despierto gritando en mitad de la noche por culpa de las horribles imágenes que vi aquel día.}
 {203}{}{Así que, déjame adivinar... quieres que vaya a la granja y averigüe qué ha sucedido.}
 {204}{}{Normalmente, dejaríamos tranquilo aquel lugar maldito, pero por alguna razón las cosechas de aquella granja siguen floreciendo a pesar de la sequía. Nos moriremos de hambre si no conseguimos comida pronto. ¿Nos ayudarás a librar la granja de esos fantasmas?}
-{205}{}{¿Y qué conseguiré yo de esto?}
+{205}{}{¿Y qué saco yo de todo esto?}
 {206}{}{A cambio de ayudarnos, te diré dónde puedes encontrar lo que buscas.}
 {207}{}{Vale, entonces sellemos el trato. Córtate el dedo meñique derecho.}
 {208}{}{Entonces tenemos un trato. Enséñame donde está la Granja Fantasma.}
@@ -73,8 +69,7 @@
 {217}{}{Obviamente no estás lo suficientemente desesperado. Paso.}
 {218}{}{¿Qué ha sido eso? ¿Has dicho GECK?}
 {219}{}{Unh hiiii. GECK.}
-{220}{}{Me voy.}
-
+{220}{}{Me voy, yo.}
 {222}{}{Mi nombre es Jo. ¿Sabes decir Jo? No importa; ¿ves esa cosa rectangular de ahí? Es una puerta. Ten cuidado de no golpearte cuando salgas.}
 {223}{}{[No entiendes bien todo lo que está diciendo, pero sonríes y te das la vuelta para salir].}
 {224}{}{[Parece meditar un momento sobre algo y entonces sonríe y te mira]. Quizá podamos llegar a un acuerdo, después de todo. Me llamo Jo; llevo este puesto comercial. Tengo información sobre el GECK. ¿Te interesa?}
@@ -82,15 +77,14 @@
 {226}{}{[Giras la cabeza de izquierda a derecha].}
 {227}{}{¡Fantástico! Hay cierta granja fanta... er, esa granja a las afueras del pueblo. Está a un día de viaje hacia el nordeste. Cosas malas pasan ahí. Detén las cosas malas, vuelve y te hablaré del GECK.}
 {228}{}{Marcho ya.}
-
 {229}{}{Bien, entonces no tenemos nada más de que hablar. La puerta está justo ahí.}
 {230}{}{Vaya, llevas un buen cabreo. ¿Por qué no vuelves cuando se te pase? Que tengas un buen día, y cuidado con la puerta al salir.}
 {231}{}{Bien, entonces... bienvenido a Modoc. Mi nombres es Jo y dirijo este puesto comercial. No tenemos mucho; tan sólo unas pocas granjas, un matadero, la posada de Rose, y una curtiduría. Lo suficiente para producir bienes con los que comerciar. Aunque todo podría cambiar con esta sequía.}
-{232}{}{¿Qué puedes contarme del matadero?}
+{232}{}{¿Qué puedes contarme sobre el matadero?}
 {233}{}{¿La posada de Rose?}
 {234}{}{Háblame del puesto comercial.}
 {235}{}{¿Dónde está la curtiduría?}
-{236}{}{¿Puedo hacerte alguna pregunta más?}
+{236}{}{¿Puedo hacerte más preguntas?}
 {237}{}{El matadero es propiedad de Grisham y su hijo Davin. Está justo al este de aquí. Hacen la maldita mejor cecina de este lado de las Rocosas.}
 {242}{}{La posada de Rose está al norte del pueblo. Los viajeros de todas partes suelen venir a probar sus mundialmente famosas tortillas. Algunos dicen que sus tortillas pueden curar a la gente de los males que tengan. Francamente, creo que son un montón de tonterías.}
 {247}{}{Tan sólo sigue a tu olfato y la encontrarás. ¿Puedes oler esa horrible peste en el aire? Esas son las cubas de curtido justo al norte de aquí. Si te olvidas del olor, no encontrarás un sitio mejor para conseguir objetos hechos con cuero. Balthas puede hacer maravillas con el cuero.}
@@ -98,8 +92,7 @@
 {257}{}{¿De qué quieres hablar? El matadero, la posada de Rose, la curtiduría o el puesto de comercio?}
 {262}{}{Bien, escúpelo. No puedo ayudarte si no me dices que es lo que estás buscando, y no voy a quedarme aquí a adivinar que es lo que quieres.}
 {263}{}{Estoy buscando el sagrado GECK.}
-{264}{}{Da igual.}
-
+{264}{}{No importa.}
 {265}{}{Dado que dependo mucho de los productos de la gente de Modoc, no tengo mucho con lo que comerciar. Sabes, con la sequía y todo eso. ¿Sigue interesándote?}
 {266}{}{Vamos a hacer negocios.}
 {267}{}{No gracias, pero ¿puedo hacerte alguna pregunta más?}
@@ -108,13 +101,12 @@
 {270}{}{Vaya, debes ser alguien muy popular para que te confíen todas esas responsabilidades.}
 {271}{}{Gracias por la información, me marcho ya.}
 {272}{}{Nah… Tan sólo es que me tocó el palo más corto. Resulta que estaba fuera buscando suministros cuando volví y la gente del pueblo me eligió. No parece que nadie más quisiera el trabajo. Excepto por alguna ocasión excepcional, en realidad no tengo nada que hacer... lo que me parece bien.}
-{273}{}{¿Puedo hacerte alguna pregunta más?}
+{273}{}{¿Puedo hacerte más preguntas?}
 {274}{}{¡Cómo! ¿Estás intentando hacerte el listo? Todo el mundo sabe que el viejo Corny perdió su reloj de oro. Hasta me tuvo buscándolo en casa de su mejor amigo. Si sabes lo que te conviene, mejor que no metas las narices en ese asunto. ¡Buenos días!}
 {275}{}{[Toma el mensaje de los Escorias]. ¿Qué es esto? Es de la gente que vive en la Granja Fantasma. Es increíble, has leído... ups, por supuesto que no lo has leído. Todavía hay muchas cosas que necesitan ser acordadas entre los Escorias y Modoc, pero es todo demasiado complejo para que tu pequeño cerebro lo entienda, así que no tienes que preocuparte por ello.}
 {276}{}{¡GECK ahora!}
 {277}{}{Vaya, eso podría ser un poco difícil. Mira, realmente no sé qué es un GECK. Pero sé de un lugar llamado Gecko. Nunca he estado allí pero he oído que está al este de aquí. Me siento muy mal por haberte engañado. Ojala pudiera darte algo más que esto en compensación, pero lo más que puedo ofrecerte es un descuento en mis productos. Ahora mismo no tengo mucho stock, pero estoy seguro de que iremos recolectando cosas por aquí y pronto estaré encantado de ayudarte a suministrarte.}
 {278}{}{¡Imbécil!}
-
 {280}{}{No te culpo por enfadarte conmigo, pero no me arrepiento de lo que hice. Necesitábamos a alguien que hiciera el trabajo y tú eras la persona adecuada. Lo más que puedo hacer es darte las gracias, y dejar que sigas tu camino.}
 {282}{}{Si… graaaannja. Granja al nordeste. Ve a granja. Haz que las cosas malas se vayan.}
 {283}{}{¡Eso es genial! Enviaré a alguna gente a cosechar la plantación inmediatamente. Nos has salvado.}
@@ -135,7 +127,6 @@
 {299}{}{Necesito más tiempo. Va a ser imposible encontrarle en un periodo tan corto.}
 {300}{}{¡Un mes, y no más! Ya te he dicho que estamos desesperados. Nuestras existencias de comida están empezando a escasear. Tenemos la suficiente para un mes; tras eso, empezaremos a pasar hambre. Voy a empezar a organizar a la gente del pueblo inmediatamente. ¡Mejor será que te des prisa!}
 {301}{}{Por favor, ¡no toméis ninguna decisión precipitada hasta que vuelva!}
-
 {302}{}{[Sorprendido] ¡La Guarida! Yo... yo supongo que fuimos demasiado duros con él. Puedo hacerme a la idea de por lo que debió pasar en la Granja Fantasma, sin nadie que le creyera. ¿Dices que ahora es un borracho, en La Guarida? Si pudieras decirle que ahora le creemos y que debería volver a casa, te lo agradecería. Mientras tanto, creo que es hora de que los Escorias y los habitantes de Modoc se familiaricen los unos con los otros.}
 {303}{}{Creo que ya he cumplido mi parte del trato. ¿Qué tal si me cuentas donde puedo hallar el sagrado GECK?}
 {304}{}{[Un poco avergonzado]. Um… bueno, mira, el caso es que no se nada de ese GECK que estás buscando. Tienes que entenderlo, ¡estábamos desesperados! Sin embargo, sé de un lugar llamado Gecko. Está a unos días de aquí hacia el este. Si tuviera que apostar, me la jugaría a que tu GECK está allí. Ojala pudiera darte algo más, pero seguimos siendo una comunidad pobre sin mucho que ofrecer. Lo más que puedo hacer es ofrecerte mis artículos a precio de coste. Pero estaré honrado de ayudarte a conseguir suministros para tus viajes cuando tenga los bienes necesarios y estoy seguro de que los demás residentes también estarán igualmente agradecidos si se lo pides. ¡Gracias! Nos has salvado a todos.}
@@ -148,7 +139,6 @@
 {311}{}{Eso es genial. Por cierto, ¿qué eran esas cosas?}
 {312}{}{Tan sólo una comunidad de mutantes. Si antes no eran fantasmas, ahora sí lo son.}
 {313}{}{Eran fantasmas. Ahora ya se han marchado. Es todo lo que necesitas saber. Ahora, dime donde puedo encontrar el sagrado GECK.}
-
 {314}{}{¡¿Quieres decir que entraste allí y mataste a todo el mundo?! No te pedí que hicieras eso. Sólo tenías que investigar qué ocurría en la granja y volver a contárnoslo. Creo que será mejor que te marches.}
 {315}{}{Vamos a atacar, pero sólo como último recurso. Tan sólo nos quedan existencias de comida para un mes antes de que empecemos a pasar hambre. Tienes hasta entonces para averiguar qué está pasando. No negociaré con ellos a menos que sepa con seguridad que no le hicieron nada a Karl.}
 {316}{}{Vamos a atacar, pero sólo como último recurso. Tan sólo nos quedan existencias de comida para un mes antes de que empecemos a pasar hambre. Tienes hasta entonces para averiguar que está pasando. No negociaré con ellos a menos que sepa con seguridad que no le hicieron nada a Karl y sepa la razón por la que empalaron a toda esa gente en la entrada de su granja. No voy a tratar con salvajes.}
@@ -164,13 +154,9 @@
 {329}{}{Karl desapareció en la granja hace algún tiempo. Averigua qué le ocurrió.}
 {330}{}{Gracias, veré qué puedo averiguar.}
 {331}{}{No queremos a los de tu clase por aquí.}
-
 {400}{}{[Dejas que se corte el dedo] Vale, te ayudaré.}
 {410}{}{¿Qué es ese gran edificio blanco en el centro del pueblo?}
-
 {500}{}{Oh, esa es la iglesia del pueblo. La gente de Modoc la construyó para demostrar su fe. Últimamente, no ha habido mucho que agradecer, así que ya nadie acude a los sermones.}
-
-# wedding script dialog
 {600}{}{Queridos hermanos: Estamos aquí reunidos...}
 {602}{}{[Jo pasa algunas páginas de su libro]}
 {603}{}{Vale, em... Si hay alguien en esta sala que conozca una razón para que estas dos personas no deban unirse en sagrado matrimonio que hable ahora o calle para siempre.}
@@ -180,15 +166,13 @@
 {607}{}{Entonces por la ley de la frontera, yo os declaro marido y mujer. Puedes besar a la novia.}
 {608}{}{Entonces por la ley de la frontera, yo os declaro mujer y mujer. Puedes besar a la novia.}
 {609}{}{Entonces por la ley de la frontera, yo os declaro marido y marido. Puedes besar al otro.}
-
+{612}{}{[Jo pasa algunas páginas de su libro]}
 {625}{}{esposo?}
 {626}{}{esposa?}
 {627}{}{uhhh... compañero? Sí, ¿legítimo compañero?}
 {628}{}{compañero?}
-
 {629}{}{Miria}
 {630}{}{Davin}
-
 {800}{}{Atacaremos a los Escorias en }
 {801}{}{ días a menos que puedas convencerme de lo contrario.}
 {802}{}{Atacaremos a los Escorias mañana a menos que puedas convencerme de lo contrario.}
@@ -196,13 +180,10 @@
 {804}{}{¡Contad conmigo!}
 {805}{}{Ya es suficiente, ¡no voy a participar en esto!}
 {806}{}{Ataquemos ahora. Los Escorias nos han mostrado que no son de fiar.}
-
 {820}{}{¿Qué puedo hacer para ayudarte?}
 {821}{}{No quiero ser parte de esto. Ya he cumplido mi parte del trato. Dime dónde está el GECK.}
-
 {850}{}{Volveré cuando averigüe qué le ha ocurrido a Karl.}
-
 {900}{}{Gracias de nuevo, amigo mío, por salvar nuestro pequeño pueblo.}
 {925}{}{De nada. Hasta que nos volvamos a ver.}
-
 {1000}{}{Has salvado al pueblo de Modoc.}
+{1500}{}{Ves al juez de paz Jo.}

@@ -1,14 +1,14 @@
 {100}{}{Ves a un hombre con armadura metálica.}
 {101}{}{Ves a Matthew.}
 {102}{}{Ves a un hombre que lleva una armadura metálica con la insignia de un relámpago en ella.}
-{103}{}{Hola, }
+{103}{}{Hola,}
 {104}{}{. ¿Qué puedo hacer por ti?}
 {105}{}{¿Respondes preguntas?}
 {106}{}{Nada. Vuelvo más tarde.}
 {107}{}{Puedes empezar respondiendo algunas preguntas.}
 {108}{}{Nada por ahora. Volveré más tarde.}
 {109}{}{Creo que mereces respuestas a tus preguntas.}
-{110}{}{¿En qué puedo ayudarte?}
+{110}{}{¿Puedo ayudarte en algo?}
 {111}{}{¿Quienes vosotros?}
 {112}{}{¿Por qué nadie dice nada de ti?}
 {113}{}{¿Por qué hay sólo una gente aquí?}
@@ -16,7 +16,7 @@
 {115}{}{¿Quienes sois vosotros?}
 {116}{}{¿Por qué nadie de por aquí te ha mencionado?}
 {117}{}{¿Por qué sólo tenéis a una persona aquí?}
-{118}{}{Tengo que irme.}
+{118}{}{Me tengo que ir.}
 {119}{}{Somos una organización paramilitar conocida como la Hermandad del Acero.}
 {120}{}{¿Hermandad hace cosas?}
 {121}{}{Muy bien: ¿y qué es lo que hacéis?}
@@ -38,8 +38,8 @@
 {137}{}{. La Hermandad del Acero no tiene el poder que una vez tuvo. Creíamos ser la única fuente de tecnología que le quedaba a la humanidad. Seguros en esa creencia, permitimos a nuestra orden declinar a lo largo de los años. Ahora no tenemos a nuestra disposición los recursos necesarios para encargarnos del Enclave. Necesitamos tu ayuda.}
 {138}{}{Estoy en condiciones de hacerte esta oferta. Lleva a cabo esta misión para mí y te garantizaré el acceso a nuestras instalaciones aquí. La mejor tecnología de la Hermandad estará a tu disposición de forma exclusiva. ¿Qué me dices?}
 {139}{}{Lo pienso.}
-{140}{}{No quiero. Marcho.}
-{141}{}{Qué demonios. Hago yo.}
+{140}{}{No quiero. Marcho ya.}
+{141}{}{Diablos. Hago yo.}
 {142}{}{Pensaré en ello.}
 {143}{}{Ni hablar. Encuentra a otro tonto.}
 {144}{}{Qué diablos. Debo estar loco, pero lo haré.}
@@ -68,7 +68,7 @@
 {167}{}{Entiendo yo...}
 {168}{}{Sí, ya veo lo que quieres decir.}
 {169}{}{Demasiada gente en un mismo lugar puede llamar la atención. Un sólo hombre en una ciudad habitada llama mucho menos la atención.}
-{170}{}{Vale.}
+{170}{}{De acuerdo.}
 {171}{}{Hola de nuevo. ¿Hay algo en lo que pueda ayudarte?}
 {172}{}{No, sólo digo hola.}
 {173}{}{Sí. ¿Te hago pregunta?}
@@ -90,13 +90,13 @@
 {189}{}{No, sigo trabajando en ello.}
 {190}{}{Tengo los planos del vertibird para ti.}
 {191}{}{Bien, sigue con ello. Sé que es una misión difícil, pero creo que puedes conseguirlo.}
-{192}{}{Vale.}
+{192}{}{De acuerdo.}
 {193}{}{¡Excelente trabajo! Déjame los planos, y les haré una copia. Como te prometí, te daré acceso total a nuestras instalaciones. Gracias.}
 {194}{}{De nada.}
 {195}{}{No hay de qué.}
 {196}{}{Navarro es relativamente nueva y aún no dispone de todo su personal. Mis fuentes señalan que reciben nuevos reclutas de vez en cuando. Tal vez podrías presentarte solo y como un recién llegado. Es lo que te sugeriría.}
 {197}{}{Navarro es relativamente nueva y aún no dispone de todo su personal. Mis fuentes señalan que reciben nuevos reclutas de vez en cuando. Tal vez podrías presentarte solo y como un recién llegado. Es lo que te sugeriría. Podrías dejar aquí a tus amigos esperando.}
-{198}{}{Vale.}
+{198}{}{De acuerdo.}
 {199}{}{¿Fuentes? ¿Dicen fuentes?}
 {200}{}{De acuerdo.}
 {201}{}{Has mencionado unas 'fuentes'. ¿Quienes son?}
@@ -106,13 +106,12 @@
 {205}{}{Seré cuidadoso. Gracias.}
 {206}{}{Gracias otra vez por toda tu ayuda. Ahora tienes acceso total a nuestras instalaciones.}
 {207}{}{Esa es una oficina privada.}
-{208}{}{No hay nada para ti ahí.}
-{209}{}{Esta es una propiedad privada, así que muévete.}
+{208}{}{Ahí dentro no hay nada para ti.}
+{209}{}{Esto es propiedad privada, así que muévete.}
 {210}{}{¿Cómo sabes quién soy?}
 {211}{}{¿Sabes quién yo?}
 {212}{}{Sé muchas cosas.}
 {213}{}{Al finalizar tu misión con éxito tendré el petrolero listo para ti, y te garantizaré el acceso a nuestras instalaciones aquí. Mientras tanto sería mejor que empezaras de inmediato. Gracias, }
-#161
 {214}{}{De nada.}
 {215}{}{¡Excelente trabajo! Déjame los planos, y les haré una copia. Como te prometí, me aseguraré de que el petrolero esté listo para llegar a la plataforma petrolífera: simplemente dirígete a la computadora del nivel superior y pulsa el botón 'Adelante'. También te daré acceso total a nuestras instalaciones. Gracias.}
 {216}{}{¡De nada!}

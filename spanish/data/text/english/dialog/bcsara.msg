@@ -1,9 +1,4 @@
-#############################################################
-#  Sara (Vault 15)     			                    #
-#  Traducido por Wenck                                      #
-#############################################################
-
-{100}{}{Ves a una okupa.}
+{100}{}{Ves a un okupa.}
 {101}{}{Ves a Sara, una okupa.}
 {102}{}{Ves a una mujer de mediana edad que viste ropa usada.}
 {103}{}{Por favor, no me molestes; ahora estoy muy ocupada.}

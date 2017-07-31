@@ -7,7 +7,7 @@
 {106}{}{¡Ja ja! ¡Mirad esos graciosos ojos redondos!}
 {107}{}{Pareces un Hubologista.}
 {108}{}{Déjanos en paz.}
-{109}{}{¡Larga vida al Dragón!}
+{109}{}{Larga vida al Dragón!}
 {110}{}{¡Abajo con Lo Pan!}
 {111}{}{El Dragón es un héroe.}
 {112}{}{Cuidado con Lo Pan. Es problemático.}
@@ -55,7 +55,6 @@
 {154}{}{¿No hay nada más en la vida que esto?}
 {155}{}{Somos más listos de lo que crees.}
 {156}{}{¡Mirad! ¡Un intruso!}
-
 {164}{}{¿Has matado a AHS-9? ¡Buen trabajo!}
 {165}{}{Esos Hubologistas me dan escalofríos.}
 {166}{}{Honorable visitante, nos has hecho un gran servicio.}

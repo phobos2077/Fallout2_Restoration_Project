@@ -1,8 +1,3 @@
-#############################################################
-#  Rangers RNC (Encuentros)            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un grupo de extraños bien armados.}
 {101}{}{Siguen siendo un grupo de extraños bien armados.}
 {102}{}{Portan armas limpias y bien brillantes y llevan una especie de placa en el pecho.}
@@ -27,9 +22,9 @@
 {121}{}{Qué mala suerte... para ti. Somos los Rangers de la RNC. ¿Has oído hablar de nosotros? Matamos esclavistas.}
 {122}{}{Eres un mentiroso de mierda. ¡A por él!}
 {123}{}{Saludos, forastero. Soy Ezekiel, de los Rangers de la RNC. ¿Quién eres tú?}
-{124}{}{No es asunto tuyo.}
+{124}{}{Nadie que te importe.}
 {125}{}{Sí, he oído hablar de ti. Eres un Ranger, ¿no?}
 {126}{}{Sí.}
-{127}{}{No es asunto tuyo.}
+{127}{}{Nadie que te importe.}
 {128}{}{Bien, sé todo lo antisocial que quieras. Al menos no eres un esclavista. Adiós.}
 {129}{}{Encantado de conocerte, camarada. Ten cuidado. Nos vemos.}

@@ -5,7 +5,7 @@
 {104}{}{¿Uh? ¿Dos?}
 {105}{}{¿Qué pasa?}
 {106}{}{Tú vienes. Detienes al hombre malo. Lo paras, no romper máquina. ¿Vale?}
-{107}{}{Vale.}
+{107}{}{De acuerdo.}
 {108}{}{No, no voy.}
 {109}{}{Oh, Dios, es Jack. Está amenazando con volar la central eléctrica. No hay tiempo, tienes que detenerle. Puedes hacerlo, ¿verdad?}
 {110}{}{Deja de hacerme perder el tiempo. Guíame.}
@@ -16,8 +16,8 @@
 {115}{}{¡No lo sé! Solo soy la ingeniero de la ciudad. Averígualo tú.}
 {116}{}{¡Mierda! Ha dañado la unidad núcleo. Tiene que arreglarse antes de que todo se vaya al infierno. ¿Eres bueno arreglando cosas?}
 {117}{}{Urrgh. }
-{118}{}{Sí. }
-{119}{}{No. }
+{118}{}{Sí.}
+{119}{}{No.}
 {120}{}{¿En qué estaba pensando?}
 {121}{}{Mira, haz lo que puedas con el generador. Tengo que estabilizar el núcleo. Tienes unos 30 segundos, creo. Después será demasiado tarde. Vamos, Toto.}
 {122}{}{¡Maldita sea! Entonces aparta. A no ser que tenga mucha suerte, todo va a volar por los aires. Vamos, Toto.}
@@ -31,7 +31,7 @@
 {130}{}{Mira, no te culpo por lo sucedido, pero ahora no estoy de humor para hablar.}
 {131}{}{¡Tú le mataste! Quiero decir, ¿de verdad era necesario matarle? ¿No había otro modo? }
 {132}{}{Sí.}
-{133}{}{No. }
+{133}{}{No.}
 {134}{}{Debiste haberlo intentando entonces, en lugar de matarlo. Lárgate de aquí, ¡monstruo!}
 {135}{}{Es terrible. Me pregunto por qué lo hizo. La ciudad debe darte las gracias. Mira no es mucho, pero aquí tienes algunos manuales que he ido acumulando. Quizá puedas venderlos o algo así.}
 {136}{}{No me hables, cerdo asesino.}
@@ -40,10 +40,8 @@
 {139}{}{¿Tú le disuadiste de ello? ¡Eso es asombroso! La ciudad tiene una gran deuda contigo, señor. Mira, esto no es mucho, pero aquí tienes algunos manuales que he ido acumulando. Quizá puedas venderlos o algo así.}
 {140}{}{Quiero que sepas que todavía estoy impresionada por lo que hiciste con Jack. Toto y yo tenemos que irnos corriendo ahora. ¡Adiós!}
 {141}{}{¡Mierda! Una sugerencia: ¡CORRE!}
-
 {142}{}{¡Oye! Mira, Toto. Es la forastera que nos ayudó. Gracias de nuevo, señorita.}
 {143}{}{¿Tú le disuadiste de ello? ¡Eso es asombroso! La ciudad tiene una gran deuda contigo, hermana. Mira, esto no es mucho, pero aquí tienes algunos manuales que he ido acumulando. Quizá puedas venderlos o algo así.}
-
 {144}{}{¡No malgastes el tiempo! Va en serio.}
 {145}{}{¡Tienes que hacer algo ahora mismo!}
 {146}{}{¡No te quedes ahí quieto! ¡Detenlo!}

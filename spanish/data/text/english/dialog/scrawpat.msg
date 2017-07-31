@@ -6,7 +6,7 @@
 {105}{}{He oído hablar de ti. ¡Maldición, pero si estás en el lugar equivocado!}
 {106}{}{¿Quieres problemas? Ve a hablar con Merk.}
 {107}{}{Oye, guapo, ¿quieres ir a un lugar privado y divertirte un poco?}
-{108}{}{¡No hables conmigo! No quiero otra paliza.}
+{108}{}{¡No hables conmigo! No quiero que me den otra paliza.}
 {109}{}{¡Maldito whisky barato! Ya sabes, aquí sirven el peor licor que puedas imaginar.}
 {110}{}{¡Mierda! No quería derramarte encima mi bebida. Déjame que lo limpie. Perdón, perdón.}
 {111}{}{¡Aléjate de mí!}

@@ -7,7 +7,7 @@
 {106}{}{Está bien, nos vemos.}
 {107}{}{Espera un minuto. ¿Por qué no hablas conmigo?}
 {108}{}{Somos una comunidad muy privada y no queremos ningún problema o interferencia de fuentes externas. Por favor, tan solo dejanos estar.}
-{109}{}{De acuerdo.}
+{109}{}{Vale.}
 {110}{}{Hola... y adiós.}
 {111}{}{Gracias por todo lo que has hecho. Me disculpo por hacerte el vacío.}
 {112}{}{¡Jódete, capullo!}

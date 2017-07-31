@@ -1,8 +1,3 @@
-#############################################################
-#  Mr. Cheater     			                    #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves al señor Tramposo.}
 {101}{}{Te sigue pareciendo un tramposo.}
 {200}{}{Hola, soy el señor Tramposo. ¿Cómo puedo ayudarte?}

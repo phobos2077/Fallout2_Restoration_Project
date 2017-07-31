@@ -5,7 +5,7 @@
 {104}{}{¡Grokken di ma!}
 {105}{}{¡Yo compro!}
 {106}{}{Estaba buscando algo de armamento.}
-{107}{}{Háblame sobre este lugar.}
+{107}{}{Háblame sobre este sitio.}
 {108}{}{Olvídalo.}
 {109}{}{¡Lo siento! ¡No hablo tu idioma! ¡Que tengas un buen día!}
 {110}{}{¿Rrr?}
@@ -21,10 +21,10 @@
 {120}{}{¡Yo compro!}
 {121}{}{No. Adiós.}
 {122}{}{Estaba buscando algo de armamento.}
-{123}{}{Háblame sobre este lugar.}
-{124}{}{Olvídalo}
+{123}{}{Háblame sobre este sitio.}
+{124}{}{Olvídalo.}
 {125}{}{Hemos vivido aquí durante años, pero no siempre estuvimos aquí. El doctor Fung conoce toda la historia. Apostaría a que lo que quieres es saber lo que hacemos ahora.}
-{126}{}{Pues sí.}
+{126}{}{Sí.}
 {127}{}{No, en realidad quería conocer la historia. Iré a buscar a Fung. Nos vemos.}
 {128}{}{Ahora, somos principalmente pescadores y científicos. Nuestros pescadores pescan. Nuestros científicos están trabajando en un proyecto que dicen que cambiará el mundo.}
 {129}{}{¿Cambiar el mundo? ¿Cómo?}
@@ -50,4 +50,3 @@
 {149}{}{Eso es todo lo que se me ocurre en este momento. Buenos días.}
 {150}{}{Buenos días.}
 {151}{}{Eres un ladrón, un asesino, y un villano. Me temo que debo matarte.}
-

@@ -1,8 +1,3 @@
-#############################################################
-#  Supermutante (Encuentros)             #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Un soldado fanático del ejército del Maestro.}
 {101}{}{El Maestro dice que le llevemos a todos los normales.}
 {102}{}{Todos los normales deben ser sumergidos.}

@@ -12,7 +12,6 @@
 {111}{}{¡Tienes la lengua muy larga, mujer!}
 {112}{}{Te quiero, bicho.}
 {113}{}{¿Quieres probar el revés de mi mano, ¿mujer?}
-
 {140}{}{¡Prepárate tu propio jodido plato, perezoso grano de pus!}
 {141}{}{...(murmurando) te daré tanta puta pimienta como quiera... }
 {142}{}{¡Lavando tus sucios calzoncillos en el pozo, como siempre!}
@@ -23,6 +22,5 @@
 {147}{}{¡Y tú debes tener el cerebro en algún LUGAR de esta casa!}
 {148}{}{Yo también te quiero, tonicillo.}
 {149}{}{¡No quiero NADA que tenga que ver con tus manos!}
-
 {200}{}{¿Qué demonios quieres? Lárgate de mi casa, canijo.}
 {201}{}{Te lo juro: un día de estos me levanto y me largo. Y a ver qué hace Su Perezosidad entonces.}

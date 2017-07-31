@@ -1,15 +1,9 @@
-#############################################################
-#  Laddie  (Modoc)   		                            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Parece un Border Collie.}
 {101}{}{Es Laddie.}
 {102}{}{Este perro parece ser muy inteligente y perspicaz.}
 {103}{}{No dudas de que este perro seguramente sea más listo que tú.}
-
 {150}{}{¡Guau!}
-{151}{}{¡Guau! ¡Guau!}
+{151}{}{¡Guau Guau!}
 {152}{}{¡Guau! ¡Guau! ¡Guau!}
 {153}{}{[Este perro parece estar muy nervioso].}
 {154}{}{Buen perrito.}
@@ -40,7 +34,6 @@
 {183}{}{¿Fue al oeste?}
 {186}{}{¿Guau?}
 {187}{}{Vale, vale... ¿quizás en otro lado?}
-
 {190}{}{Estaba jugando a indios y vaqueros cuando se cayó al pozo y quieres que consiga una cuerda y baje a rescatarle. De acuerdo. Vamos, Laddie. [¡Asombroso!]}
 {191}{}{Estaba jugando a indios y vaqueros cuando se cayó al pozo y quieres que use mi cuerda para bajar y rescatarle. De acuerdo. Vamos, Laddie. [¡Asombroso!]}
 {195}{}{Vale, buscaré una cuerda y bajaré al pozo a rescatar a Jonny.}

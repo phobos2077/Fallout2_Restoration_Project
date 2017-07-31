@@ -9,7 +9,7 @@
 {108}{}{Oye, Vikki, Dave H. está enamorado de ti.}
 {109}{}{Genial. He de irme.}
 {110}{}{Él: Un pobre chico del Yermo. Ella: ¿Quizá un alineamiento ayudaría? Él: Sí. Oye, tú, ¿te gustaría un alineamiento?}
-{111}{}{¡Sí!}
+{111}{}{¡S-sí!}
 {112}{}{¡No!}
 {113}{}{Ella: Espero que eso haya ayudado. ¡Buena suerte en tus viajes!}
 {114}{}{¡A-dios!}
@@ -29,8 +29,8 @@
 {128}{}{¿Su más reciente libro? ¿No está muerto?}
 {129}{}{La elección "correcta". Ya, claro. ¿Qué pasa con la libre voluntad?}
 {130}{}{Suena genial. ¿Cómo me uno?}
-{131}{}{Desde luego. Tengo más preguntas.}
-{132}{}{Correcto. Adiós.}
+{131}{}{Por supuesto. Tengo más preguntas.}
+{132}{}{Cierto. Adiós.}
 {133}{}{Él: ¿Más preguntas? ¡Entonces tenemos las respuestas! Por la gracia de la Gran Rueda, por supuesto.}
 {134}{}{¿Cómo me uno?}
 {135}{}{¿Qué os hace famosos?}
@@ -45,7 +45,7 @@
 {144}{}{Err... desde luego. Tengo más preguntas.}
 {145}{}{¡Así que porque un chiflado escribió algo sentís la necesidad de publicarlo TODO?}
 {146}{}{¡Sí! ¡Alabado sea Hub! ¡Veo la luz! ¿Cómo me uno?}
-{147}{}{Correcto. Adiós.}
+{147}{}{Cierto. Adiós.}
 {148}{}{Él: Sí. Algunos podrían creer que nos parecemos a ciertas personas. Ella: Pero lo cierto es que es pura coincidencia.}
 {149}{}{Buf. Bueno, eso me quita un peso de encima. Oid, tengo más preguntas.}
 {150}{}{Lo tengo. Hasta luego.}
@@ -67,28 +67,28 @@
 {166}{}{Él: Eso es muy progresista por tu parte. Ella: Muy iluminado. Él: Ofrecemos nuestras opiniones a la gente... y si nuestra celebridad puede atraer creyentes, estamos ansiosos por usarla.}
 {167}{}{Tengo otras preguntas.}
 {168}{}{Estoy interesado en unirme.}
-{169}{}{Ya veo. Bien, hasta luego.}
+{169}{}{Ya veo. Bueno, hasta luego.}
 {170}{}{Él: Bien, es muy sencillo. Deja que simplemente te demos este holodisco informativo. Ella: ... ves una película corta... Él... ¡y después vas a hablar con AHS-7! Ella: Fácil, ¿verdad?}
 {171}{}{Hagámoslo.}
 {172}{}{No creo que esté listo para esto.}
 {173}{}{Ella: Esa es tu prerrogativa. Él: Y espero que entiendas que no se te puede permitir vagabundear por nuestra base. Ella: Así que sería mejor que te fueras: los guardias probablemente te dispararán si andas por aquí.}
 {174}{}{Vaya, pues gracias. Me invitáis a reclutarme y a dispararme si no firmo? Buen trabajo.}
 {175}{}{Quizá sea mejor que yo os dispare primero.}
-{176}{}{Me largo de aquí.}
+{176}{}{Me voy de aquí.}
 {177}{}{Él: Esta es tu última oportunidad de cambiar tu mente. Ella: Odiaríamos ver que te sucediera algo malo.}
-{178}{}{Que os jodan.}
+{178}{}{Jódete.}
 {179}{}{Muy bien. ¿Cómo me uno?}
 {180}{}{Algo malo os va a suceder ahora mismo a VOSOTROS.}
 {181}{}{No. Tomaré mis propias decisiones. Hasta luego.}
 {182}{}{Él: Hemos hecho todo lo posible por ti. Ella: Buena suerte en tus viajes.}
 {183}{}{¡Adiós!}
 {184}{}{Ella: ¿Dave? ¿El chico de la computadora? Él: ¡Ja ja! ¡Menudo perdedor! Vikki es mía, toda mía: ni de coña él va a... perdona, estoy canalizando energía negativa. Debo haber ensuciado mis neurodinas. Ella: [susurrándote] Creo que Dave es mono, pero no puede pasar nada mientras Juan esté cerca. Él: Menos mal. Neurodinas despejadas de nuevo.}
-{185}{}{Bien, tengo más preguntas.}
+{185}{}{En fin, tengo más preguntas.}
 {186}{}{Eso es todo. Adiós.}
 {187}{}{Ella: No ha sido tan malo, ¿verdad? Él: ¡Ahora sólo tienes que ir a hablar con AHS-7 y seremos compañeros en la Hubología! Ella: ¡Estoy tan excitada! Él: Conseguir nuevos reclutas me pone cachondo. Ella: Oh, cariño... Él: Oh, muñeca...}
 {188}{}{Creo que volveré más tarde.}
 {189}{}{Él: Qué pena. Ella: Ahora estás comprometido.}
-{190}{}{-hecho-}
+{190}{}{HECHO}
 {191}{}{Él: Has tomado una decisión de las que cambian toda una vida. Ella: Y por desgracia, ha sido una equivocada. Ambos: ¡Guardias! ¡Guardias!}
 {192}{}{Maldición.}
 {193}{}{Él: Saludos, }
@@ -126,10 +126,7 @@
 {225}{}{No, queremos AYUDARTE.}
 {226}{}{Y eso es de lo que se trata la Hubología.}
 {227}{}{[aplauso]}
-
 {228}{}{. Espero que tu iluminación vaya bien. Ella: Tenemos... grandes... esperanzas contigo.}
-
 {229}{}{Lección 1: Aquí está la eternidad, la Gran Rueda. [señala algo] Y aquí es donde estamos. [señala algo] Ahora, todo lo que tenemos que hacer es caminar muy lejos y reunirnos con nuestros hermanos estelares allí.}
 {230}{}{Pues vamos a necesitar un montón de zapatos.}
-
 {231}{}{l: ¡Ahora sólo tienes que ir a hablar con AHS-7 u seremos compañeros en la Hubología! Ella: ¡Estoy tan excitada! Él: Conseguir nuevos reclutas me pone cachondo. Ella: Oh, cariño... Él: Oh, muñeca...}

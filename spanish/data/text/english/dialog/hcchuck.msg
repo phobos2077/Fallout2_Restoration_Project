@@ -6,7 +6,7 @@
 {105}{}{¿Quién eres?}
 {106}{}{No tengo idea de cuánto tiempo llevabas durmiendo, pero estás en Broken Hills, cerca de la República de Nueva California.}
 {107}{}{¡Oh, no! ¡He dormido tanto tiempo que el mundo se ha vuelto loco! ¡Aieeeeeeee! ::huye, asustado::}
-{108}{}{[HECHO]}
+{108}{}{HECHO}
 {109}{}{¡Soy Chuck Stodgers, el mejor piloto de aeroplano del mundo! Desafortunadamente... me estrellé. Me arrastré hasta esta cueva para escapar de la explosión, y los vapores me abrumaron.}
 {110}{}{Eso suena sospechosamente similar a la premisa de una historieta.}
 {111}{}{¿Nueva QUÉ? CALIFORNIA? ¿EL MUNDO HA CAMBIADO TANTO? ¡AIEEEEEEEEEEEEEEEEE! ::huye, asustado::}

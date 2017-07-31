@@ -1,7 +1,3 @@
-#############################################################
-#  Puño Alzado (Arroyo) - Lucas, en el  parche oficial      #
-#############################################################
-
 {100}{}{Ves a Lucas.}
 {101}{}{Lucas es el jefe de los guerreros de tu tribu.}
 {102}{}{Así que estás aquí, Elegido. ¡Hmmmph! ¿Cómo va la búsqueda?}
@@ -30,9 +26,9 @@
 {125}{}{Necesitas aprender más cosas sobre combatir antes de que pueda ayudarte, hermanito.}
 {126}{}{Oh, vale.}
 {127}{}{Puedo enseñarte cómo dar patadas más fuertes, pero nos llevará todo un día.}
-{128}{}{Vale.}
+{128}{}{De acuerdo.}
 {129}{}{Puedo enseñarte a pelear mejor, pero nos llevará todo un día.}
-{130}{}{Vale.}
+{130}{}{De acuerdo.}
 {131}{}{Has aprendido bien, Elegido. Que los vientos te sean favorables.}
 {132}{}{Gracias por tu ayuda.}
 {133}{}{Te he enseñado todo lo que sé, Elegido. Buena suerte en tu búsqueda.}

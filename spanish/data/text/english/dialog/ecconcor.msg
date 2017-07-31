@@ -1,9 +1,4 @@
-#############################################################
-#  Concorde (Encuentros)     		            #
-#  Traducido por Wenck                                      #
-#############################################################
-
-{100}{}{Ves a un hombre.}
-{101}{}{Se trata de Concorde.}
+{100}{}{Ves una mantis.}
+{101}{}{Está bien.}
 {102}{}{Está golpeando dos mitades de coco.}
 {103}{}{¡Clip! ¡Clop!}

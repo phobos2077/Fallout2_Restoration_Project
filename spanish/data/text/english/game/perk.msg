@@ -1,9 +1,3 @@
-#
-#   Messages from perk.c
-#
-#
-#   PERK NAMES
-#
 {101}{}{Consciencia}
 {102}{}{Bono ataque melee}
 {103}{}{Bono daño cuerpo a cuerpo}
@@ -21,7 +15,7 @@
 {115}{}{Tirador}
 {116}{}{Carrera silenciosa}
 {117}{}{Supervivencialista}
-{118}{}{Maestro del trueque}
+{118}{}{Gran mercader}
 {119}{}{Educado}
 {120}{}{Sanador}
 {121}{}{Buscador de fortuna}
@@ -40,7 +34,7 @@
 {134}{}{Maestro ladrón}
 {135}{}{Orador}
 {136}{}{Lanzamiento largo}
-{137}{}{ERROR -- UNIMPED}  # was -- Friendly Foe
+{137}{}{ERROR -- UNIMPED}
 {138}{}{Cleptómano}
 {139}{}{Fantasma}
 {140}{}{Culto de personalidad}
@@ -50,33 +44,33 @@
 {144}{}{Pionero}
 {145}{}{Animal amigo}
 {146}{}{Rastreador}
-{147}{}{Forastero misterioso}
+{147}{}{Forastero Misterioso}
 {148}{}{Ranger}
 {149}{}{Bolsillos rápidos}
 {150}{}{Charlatán}
 {151}{}{Aprendizaje rápido}
 {152}{}{¡Destacar!}
 {153}{}{¡Muta!}
-{154}{}{Adicto a la Nuka-Cola}
-{155}{}{Adicto a los esteroides}
-{156}{}{Adicto a los mentats}
-{157}{}{Adicto al psico}
+{154}{}{Máquina de Nuka-Cola}
+{155}{}{Adicto a los Esteroides}
+{156}{}{Adicto a los Mentats}
+{157}{}{Psycho Addiction}
 {158}{}{Adicto al radaway}
 {159}{}{Arma de gran distancia}
-{160}{}{Precisión de arma}
-{161}{}{Penetración de arma}
-{162}{}{Retroceso de arma}
+{160}{}{Precisión de Arma}
+{161}{}{Penetración de Arma}
+{162}{}{Retroceso de Arma}
 {163}{}{Servoarmadura}
 {164}{}{Armadura de combate}
-{165}{}{Mira telescópica de arma}
-{166}{}{Recarga Rápida de arma}
-{167}{}{Visión Nocturna de arma}
-{168}{}{Arma lanzallamas}
+{165}{}{Mira telescópica de Arma}
+{166}{}{Recarga Rápida de Arma}
+{167}{}{Visión Nocturna de Arma}
+{168}{}{Arma Lanzallamas}
 {169}{}{Armadura avanzada I}
 {170}{}{Armadura avanzada II}
-{171}{}{Adicto al Jet}
-{172}{}{Adicto a Tragic}
-{173}{}{Armadura Carisma}
+{171}{}{Antídoto para el Jet}
+{172}{}{Estación de tren}
+{173}{}{Armadura de Carisma}
 {174}{}{Despellejador de geckos}
 {175}{}{Armad. Imp. Dermal}
 {176}{}{Armad. Imp. Dermal Mej.}
@@ -121,12 +115,8 @@
 {215}{}{Autodoc -P.S.}
 {216}{}{Autodoc -P.S. II}
 {217}{}{Experto en manejo de excrementos}
-{218}{}{Derribo mejorado con arma}
+{218}{}{Derribo Mejorado con Arma}
 {219}{}{Gafe}
-
-#
-#   PERK DESCRIPTIONS
-#
 {1101}{}{Con Consciencia, recibirás información detallada sobre cada criatura que examines. Verás sus puntos de salud (PS) exactos e información sobre el arma que portan.}
 {1102}{}{Has aprendido las artes orientales secretas, o simplemente es que golpeas más rápido. En cualquier caso, tus ataques desarmados te cuestan 1 punto de acción (PA) menos.}
 {1103}{}{Tu experiencia en combate sin armas te da la ventaja a la hora de hacer daño. Causas +2 puntos de daño sin armas y con armas cuerpo a cuerpo. por cada nivel de este extra.}
@@ -190,7 +180,7 @@
 {1161}{}{Penetración de Arma}
 {1162}{}{Retroceso de Arma}
 {1163}{}{Servoarmadura}
-{1164}{}{Armadura de Combate}
+{1164}{}{Armadura de combate}
 {1165}{}{Mira telescópica de Arma}
 {1166}{}{Recarga Rápida de Arma}
 {1167}{}{Visión Nocturna de Arma}
@@ -201,48 +191,48 @@
 {1172}{}{Sientes un deseo irrefrenable de abrir un nuevo sobre de cartas Tragic.}
 {1173}{}{Armadura de Carisma}
 {1174}{}{Sabes como despellejar geckos para conseguir sus pieles.}
-{1175}{}{Tienes una protección inherente contra ataques físicos}     # Dermal Impact Armor
-{1176}{}{Tienes una protección extra inherente contra ataques físicos}  # Dermal Impact Assault Enhancement
-{1177}{}{Tienes una protección inherente contra ataques de energía.}     # Phoenix Armor Implants
-{1178}{}{Tienes una protección extra inherente contra ataques de energía.}  # Phoenix Assault Enhancement
-{1179}{}{Ganas un 10% más de Resistencia a la Radiación y al Veneno.}  # Vault City Inoculations
-{1180}{}{Con este extra, ganas +1 a tu Fuerza cuando tus Puntos de Salud descienden por debajo de la mitad.}  # Adrenaline Rush
-{1181}{}{Estás más alerta en el exterior y los enemigos son menos capaces de pillarte por sorpresa. Con este extra ganas un bono de +3 a tu Percepción en los encuentros aleatorios a la hora de determinar el lugar.}  # Cautious Nature
-{1182}{}{Pones mucha más atención a los pequeños detalles cuando lees. Ganas un 50% más de puntos de habilidad al leer libros.}  # Comprehension
-{1183}{}{Eres un experto en el refinado arte del manejo de explosivos. Siempre explotan cuando deben, causando un daño extra.}  # Demolition Expert
-{1184}{}{Puedes apostar con los mejores. Ganas un 20% a tu habilidad de Apostar.}  # Gambler
-{1185}{}{Con este extra ganas +1 a tu Fuerza.}     # Gain Strength
-{1186}{}{Con este extra ganas +1 a tu Percepción.}   # Gain Perception
-{1187}{}{Con este extra ganas +1 a tu Resistencia.}    # Gain Endurance
-{1188}{}{Con este extra ganas +1 a tu Carisma.}     # Gain Charisma
-{1189}{}{Con este extra ganas +1 a tu Inteligencia.} # Gain Intelligence
-{1190}{}{Con este extra ganas +1 a tu Agilidad.}      # Gain Agility
-{1191}{}{Con este extra ganas +1 a tu Suerte.}         # Gain Luck
-{1192}{}{Tu aspecto inocente hace que robar a la gente sea algo más sencillo. Ganas un bono de un 20% más en Robar.}  # Harmless
-{1193}{}{Con este extra ganas automáticamente un nivel de experiencia.}  # Here and Now
-{1194}{}{Si ambas ranuras de inventario están vacías, cada punto de acción sin usar al final del turno te da un bono de +2 en vez de +1 a tu clase de armadura, además de un 1/12 de tu habilidad Desarmado.}  # HtH Evade
-{1195}{}{A la hora de dar placer sexual, eres el maestro.}  # Kama Sutra Master
-{1196}{}{Tu karma resplandece el doble. Sea bueno o malo, tu karma se dobla para cualquier clase de reacción o modificadores.}  # Karma Beacon
-{1197}{}{Eres ágil, cuidadoso y tienes suerte. Este extra reduce a la mitad las posibilidades de activar una trampa.}  # Light Step
-{1198}{}{Tienes un mejor entendimiento de las criaturas vivas y de sus puntos fuertes y débiles. Ganas un bono único de +10% a Doctor, y causas +5 de daño por cada ataque a las criaturas vivas.}  # Living Anatomy
-{1199}{}{Ganas un hueco extra en tu límite de compañeros, pero no olvides que más de 5 siempre es multitud.}  # Magnetic Personality
-{1200}{}{Eres un negociador muy habilidoso. No sólo puedes hacer trueques como el mejor, sino que puedes convencer a cualquiera de casi cualquier cosa. Con este extra ganas un 10% en Trueque y Conversación.}  # Negotiator
-{1201}{}{Eres muy eficiente a la hora de ordenar tu inventario. Esto hace mucho más fácil llevar ese peso extra que siempre has necesitado.}  # Pack Rat
-{1202}{}{Haces daño extra con lanzallamas, y los enemigos siempre morirán de la forma más horrible y dolorosa posible.}  # Pyromaniac
-{1203}{}{Te recuperas rápido cuando te derriban.}  # Quick Recovery
-{1204}{}{Eres un gran vendedor. Con este extra ganas un 20% en Trueque.}  # Salesman
-{1205}{}{Eres mucho menos proclive a ser derribado en combate.}  # Stonewall
-{1206}{}{La sangre de un ladrón corre por tus venas. Con este extra, ganas un bono único a Sigilo, Ganzúa, Robar y Trampas. Un ladrón versátil es un ladrón vivo.}  # Thief
-{1207}{}{Puedes llevar armas mucho más grandes de lo que normalmente podrías. Ganas un +3 a Fuerza a la hora de las restricciones para llevar armas.}  # Weapon Handling
-{1208}{}{Has recibido el entrenamiento médico de Ciudad Refugio.}  # Vault City Training
-{1209}{}{Tus puntos de salud han aumentado un poco por tu reincidente alcoholismo.}  # Alcohol Enhanced hit points
-{1210}{}{Tus puntos de salud han aumentado un poco más por reincidente alcoholismo.}  # Alcohol Enhanced hit points II
-{1211}{}{Tus puntos de salud se han reducido un poco por tu reincidente alcoholismo.}  # Alcohol Lowered hit points
-{1212}{}{Tus puntos de salud se han reducido un poco más por tu reincidente alcoholismo.}  # Alcohol Lowered hit points II
-{1213}{}{Tus puntos de salud han aumentado un poco por tu constante uso del Autodoc.}  # Autodoc Enhanced hit points !!! Seraph's Fix: changed 1209 to 1213
-{1214}{}{Tus puntos de salud han aumentado un poco más por tu constante uso del Autodoc.}  # Autodoc Enhanced hit points II !!! Seraph's Fix: changed 1210 to 1214
-{1215}{}{Tus puntos de salud se han reducido un poco por tu constante uso del Autodoc.}  # Autodoc Lowered hit points !!! Seraph's Fix: changed 1211 to 1215
-{1216}{}{Tus puntos de salud se han reducido un poco más por tu constante uso del Autodoc.}  # Autodoc Lowered hit points II !!! Seraph's Fix: changed 1212 to 1216
+{1175}{}{Tienes una protección inherente contra ataques físicos}
+{1176}{}{Tienes una protección extra inherente contra ataques físicos}
+{1177}{}{Tienes una protección inherente contra ataques de energía.}
+{1178}{}{Tienes una protección extra inherente contra ataques de energía.}
+{1179}{}{Ganas un 10% más de Resistencia a la Radiación y al Veneno.}
+{1180}{}{Con este extra, ganas +1 a tu Fuerza cuando tus Puntos de Salud descienden por debajo de la mitad.}
+{1181}{}{Estás más alerta en el exterior y los enemigos son menos capaces de pillarte por sorpresa. Con este extra ganas un bono de +3 a tu Percepción en los encuentros aleatorios a la hora de determinar el lugar.}
+{1182}{}{Pones mucha más atención a los pequeños detalles cuando lees. Ganas un 50% más de puntos de habilidad al leer libros.}
+{1183}{}{Eres un experto en el refinado arte del manejo de explosivos. Siempre explotan cuando deben, causando un daño extra.}
+{1184}{}{Puedes apostar con los mejores. Ganas un 20% a tu habilidad de Apostar.}
+{1185}{}{Con este extra ganas +1 a tu Fuerza.}
+{1186}{}{Con este extra ganas +1 a tu Percepción.}
+{1187}{}{Con este extra ganas +1 a tu Resistencia.}
+{1188}{}{Con este extra ganas +1 a tu Carisma.}
+{1189}{}{Con este extra ganas +1 a tu Inteligencia.}
+{1190}{}{Con este extra ganas +1 a tu Agilidad.}
+{1191}{}{Con este extra ganas +1 a tu Suerte.}
+{1192}{}{Tu aspecto inocente hace que robar a la gente sea algo más sencillo. Ganas un bono de un 20% más en Robar.}
+{1193}{}{Con este extra ganas automáticamente un nivel de experiencia.}
+{1194}{}{Si ambas ranuras de inventario están vacías, cada punto de acción sin usar al final del turno te da un bono de +2 en vez de +1 a tu clase de armadura, además de un 1/12 de tu habilidad Desarmado.}
+{1195}{}{A la hora de dar placer sexual, eres el maestro.}
+{1196}{}{Tu karma resplandece el doble. Sea bueno o malo, tu karma se dobla para cualquier clase de reacción o modificadores.}
+{1197}{}{Eres ágil, cuidadoso y tienes suerte. Este extra reduce a la mitad las posibilidades de activar una trampa.}
+{1198}{}{Tienes un mejor entendimiento de las criaturas vivas y de sus puntos fuertes y débiles. Ganas un bono único de +10% a Doctor, y causas +5 de daño por cada ataque a las criaturas vivas.}
+{1199}{}{Ganas un hueco extra en tu límite de compañeros, pero no olvides que más de 5 siempre es multitud.}
+{1200}{}{Eres un negociador muy habilidoso. No sólo puedes hacer trueques como el mejor, sino que puedes convencer a cualquiera de casi cualquier cosa. Con este extra ganas un 10% en Trueque y Conversación.}
+{1201}{}{Eres muy eficiente a la hora de ordenar tu inventario. Esto hace mucho más fácil llevar ese peso extra que siempre has necesitado.}
+{1202}{}{Haces daño extra con lanzallamas, y los enemigos siempre morirán de la forma más horrible y dolorosa posible.}
+{1203}{}{Te recuperas rápido cuando te derriban.}
+{1204}{}{Eres un gran vendedor. Con este extra ganas un 20% en Trueque.}
+{1205}{}{Eres mucho menos proclive a ser derribado en combate.}
+{1206}{}{La sangre de un ladrón corre por tus venas. Con este extra, ganas un bono único a Sigilo, Ganzúa, Robar y Trampas. Un ladrón versátil es un ladrón vivo.}
+{1207}{}{Puedes llevar armas mucho más grandes de lo que normalmente podrías. Ganas un +3 a Fuerza a la hora de las restricciones para llevar armas.}
+{1208}{}{Has recibido el entrenamiento médico de Ciudad Refugio.}
+{1209}{}{Your hit points have been enhanced a little by repeated drunkeness.}
+{1210}{}{Your hit points have been enhanced a little more by repeated drunkeness.}
+{1211}{}{Your hit points have been lowered slightly by repeated drunkeness.}
+{1212}{}{Your hit points have been lowered slightly by repeated drunkeness.}
+{1213}{}{Tus puntos de salud han aumentado un poco por tu reincidente alcoholismo.}
+{1214}{}{Tus puntos de salud han aumentado un poco más por reincidente alcoholismo.}
+{1215}{}{Tus puntos de salud se han reducido un poco más por tu reincidente alcoholismo.}
+{1216}{}{Tus puntos de salud se han reducido un poco más por tu reincidente alcoholismo.}
 {1217}{}{Puedes recoger mierda como el mejor.}
 {1218}{}{Derribo Mejorado con Arma}
 {1219}{}{Lo bueno es que todo el mundo a tu alrededor tiene más fallos críticos en combate, ¡lo malo es que tú también!}

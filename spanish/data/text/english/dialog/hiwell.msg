@@ -43,7 +43,7 @@
 {137}{}{Veamos qué tenemos aquí.}
 {138}{}{[Abres la bolsa cautelosamente, atento al subidón de adrenalina. La tela de la bolsa se separa para revelar.....]}
 {139}{}{¿Yah, Yah?}
-{140}{}{¿Qué es esto?}
+{140}{}{¿Qué es eso?}
 {141}{}{10.000 chapas de botella.}
 {142}{}{¡¿CHAPAS?!}
 {143}{}{¡¿Unas putas chapas de botella?!}

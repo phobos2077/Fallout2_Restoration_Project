@@ -1,13 +1,8 @@
-#############################################################
-#  Guardia iglesia (The Den)     	                    #
-#############################################################
-
 {100}{}{Ves a un guardia.}
-
 {150}{}{El guardia está vigilando la vieja iglesia.}
 {151}{}{[HABLAR]}
 {152}{}{¡Cómo te atreves a aparecer otra vez por aquí!}
-{153}{}{[Hecho]}
+{153}{}{[HECHO]}
 {154}{}{¡Eh! Nadie entra por la noche en el almacén de la familia Wright!}
 {155}{}{Pero... el mismo señor Wright me mandó venir para un encargo. ¿No lo sabes?}
 {156}{}{Volveré mañana.}
@@ -42,12 +37,10 @@
 {185}{}{Ya es suficiente.}
 {186}{}{Lo siento; puedo dejarte entrar, pero tus amigos tendrán que esperar afuera.}
 {187}{}{Sólo se le permite entrar a uno de vosotros a la vez.}
-
 {200}{}{Buenas tardes.}
 {201}{}{Buenas noches.}
 {202}{}{Buenos días.}
 {203}{}{Tan sólo acaba con lo que estés haciendo, gracias.}
-
 {250}{}{Sabes qué, amigo: ¡ya te he aguantado bastante mierda!}
 {251}{}{Sabes qué, puta: ¡ya te he aguantado bastante mierda!}
 {252}{}{[FIN]}

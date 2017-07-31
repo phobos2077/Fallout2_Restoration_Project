@@ -1,7 +1,7 @@
 {100}{}{Ves a un guardia bien armado.}
 {101}{}{Ves a un guardia Hubologista.}
 {102}{}{Ves a una persona bien armada con una mirada cruel en los ojos.}
-{103}{}{¡Intruso!}
+{103}{}{¡Un intruso!}
 {104}{}{¡Capturad al intruso!}
 {105}{}{¡Por aquí! ¡Por aquí!}
 {106}{}{¡Hora de morir, infiel! ¡La Gran Rueda te pasará por encima!}

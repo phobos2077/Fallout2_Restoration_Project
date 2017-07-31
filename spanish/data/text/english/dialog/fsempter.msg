@@ -1,15 +1,15 @@
-#{100}{}{Ves una potente computadora.} //This is for the computer object itself
-#{101}{}{Ves la computadora Emperador.}
-#{102}{}{Ves una gran y ronroneante computadora totalmente funcional que tiene estampada "Emperador v8.8" en su carcasa inferior.}
+{100}{}{Ves un terminal de computadora.}
 {100}{}{Ves un terminal de computadora.}
 {101}{}{Ves un terminal de computadora Emperador.}
+{101}{}{You see the Emperor Computer.}
 {102}{}{Ves una computadora con una pantalla táctil incorporada como interfaz. Tiene grabado en un lateral "Terminal de computadora Emperador v8.8".}
+{102}{}{You see a large, humming, fully functional computer that has "Emperor v8.8" stamped into its lower casing.}
 {103}{}{Saludos. Por favor, introduzca su contraseña para confirmar su identidad.}
 {104}{}{::babeas::}
 {105}{}{CSPDMSHR-Shih-huang-ti-X9372}
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{TIUASPO-Lo-Shi-S12908}
-{108}{}{::pirateas la computadora::}
+{108}{}{::piratear la computadora::}
 {109}{}{Salir.}
 {110}{}{Identidad confirmada.}
 {111}{}{¿A qué función desea acceder?}
@@ -18,10 +18,10 @@
 {114}{}{Predicciones.}
 {115}{}{Ninguna.}
 {116}{}{Por favor, hable con el administrador del sistema. Adiós.}
-{117}{}{::pirateas la computadora::}
-{118}{}{::sales::}
-{119}{}{Activada alerta de intruso. Apagando. Que tenga un buen día.}
-{120}{}{-hecho-}
+{117}{}{::piratear la computadora::}
+{118}{}{::marcharse::}
+{119}{}{Activada alerta de intrusión. Apagando. Que tenga un buen día.}
+{120}{}{HECHO}
 {121}{}{¿Funciones de diagnóstico?}
 {122}{}{Escaneo de red.}
 {123}{}{Formateo de unidad.}
@@ -42,7 +42,7 @@
 {138}{}{0% de posibilidad de eliminar infestación de criaturas en petrolero sin ayuda externa. Procesando conveniencia de aportar asistencia.}
 {139}{}{Datos: Petrolero Poseidon incapaz de viajar. Se requieren más datos.}
 {140}{}{No procesado. Se requieren datos.}
-{141}{}{-más-}
+{141}{}{[MÁS]}
 {142}{}{Atrás.}
 {143}{}{Estación Biológica: Activa}
 {144}{}{Estación Biológica: Inactiva}
@@ -69,7 +69,7 @@
 {165}{}{Sí.}
 {166}{}{No.}
 {167}{}{Formateando... formateando... formateo completo. El reinicio requerirá una instalación completa. Apagando. Apagado... completado...}
-{168}{}{-hecho-}
+{168}{}{HECHO}
 {169}{}{Datos a encontrar: - Programa botánico  - Programa genético  - Programa Xeno}
 {170}{}{Programa botánico.}
 {171}{}{Programa genético.}
@@ -99,14 +99,14 @@
 {195}{}{(Una vez sorteada la simbología y la discusión técnica, descubres que los Shi están trabajando en una nueva clase de armadura de combate polimérica resistente tanto a la llama como a la penetración. Faltan años para que se complete. También ves una mención a nuevo armamento y habilidades de construcción. Aparentemente, los Shi tienen algunos planes para el futuro).}
 {196}{}{Atrás.}
 {197}{}{Combustible dirigido a petición. Tanques de almacenamiento = Vacíos. Cerrando programa.}
-{198}{}{-hecho-}
+{198}{}{HECHO}
 {199}{}{Combustible dirigido a petición. Tanques de almacenamiento = Vacíos. Cerrando programa.}
-{200}{}{-hecho-}
+{200}{}{HECHO}
 {201}{}{Base de datos Física: Exploración  - Teoría}
 {202}{}{Exploración}
 {203}{}{Teoría}
-{204}{}{Atrás.}
-{205}{}{"Con la reciente adquisición de planos de un vertibird, la posibilidad de crear una máquina voladora viable ha dado un cualitativo paso adelante. Esperamos tener un prototipo funcional a finales de año, y la habilidad de producir en masa este tipo de vehículos en dos años".  -Dr. Wong}
+{204}{}{Volver}
+{205}{}{"Con la reciente adquisición de planos de un vertibird, la posibilidad de crear una máquina voladora viable ha dado un cualitativo paso adelante. Esperamos tener un prototipo funcional a finales de año, y la habilidad de producir en masa este tipo de vehículos en dos años". -Dr. Wong}
 {206}{}{::copiar planos:: Atrás.}
 {207}{}{Atrás.}
 {208}{}{"Aún estamos preparando un modelo funcional de un vehículo aéreo. Ninguno de los diseños que hemos creado han demostrado ser seguros o aerodinámicos. Quizá si tuviéramos acceso a los planos de los antiguos..."  -Dr. Wong}
@@ -117,12 +117,10 @@
 {213}{}{Atrás.}
 {214}{}{El terminal de la computadora no parece tener una interfaz para eso.}
 {215}{}{El terminal de la computadora no parece operativo.}
-
 {216}{}{El sistema ha sido comprometido. ¡Las órdenes son atacar!}
 {217}{}{¡Atacar al intruso!}
 {218}{}{¡Hora de pagar por tus actos, lao wai!}
 {219}{}{¡Hay un traidor entre nosotros!}
-
 {220}{}{Geolocalización.}
 {221}{}{¿Qué deseas localizar?}
 {222}{}{Los pobladores de mi hogar.}

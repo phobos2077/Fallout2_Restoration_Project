@@ -42,7 +42,7 @@
 {141}{}{¿Y qué tal si simplemente le disparo a Lenny? Se lo merece.}
 {142}{}{¿Probarlo cómo?}
 {143}{}{¿Quizá conoces a alguien que querría algo de jet?}
-{144}{}{Escucha, soy} //258
+{144}{}{Escucha, soy}
 {145}{}{Claro. Igual que tengo que probarme a mí mismo para ti. Olvídalo, escoria.}
 {146}{}{Fue el maldito Doofus, ¿verdad? Ese drogadicto habla demasiado para su propio bien. Te diré algo: lo silencias por mí (considéralo un favor) y entonces hablaremos.}
 {147}{}{Es un trato.}
@@ -62,7 +62,7 @@
 {161}{}{Hazlo a tu manera.}
 {162}{}{Cierto. Ha estado demasiado aburrido por aquí. Es hora de un poco de un uno-a-uno en el sótano. Vamos, Lenny, quiero verte matar a éste.}
 {163}{}{También yo tengo problemas que necesitan solución.}
-{164}{}{¿Por ejemplo?}
+{164}{}{¿Como cuales?}
 {165}{}{¿Jet? ¿Estás proponiendo algo...?}
 {166}{}{Aquí mi amigo sabe cómo conseguirlo. ¿Te interesa?}
 {167}{}{¿Algo ilegal? No, no lo haría.}
@@ -95,7 +95,7 @@
 {194}{}{Bien, soy un hombre culto. ¿Cuál es tu pregunta?}
 {195}{}{Pregunta lo que quieras.}
 {196}{}{Estoy buscando el Refugio 13.}
-{197}{}{¿Has oído hablar de un GECK?}
+{197}{}{¿Alguna vez has oído hablar de un GECK?}
 {198}{}{¿Qué sabes acerca de cierto grupo llamado los Rangers?}
 {199}{}{¿Qué puedes decirme de cierto tipo llamado Westin?}
 {200}{}{Estoy buscando información sobre el vicepresidente Carlson.}
@@ -109,7 +109,7 @@
 {208}{}{Quizá más tarde.}
 {209}{}{¿Es alguna clase de droga en Nuevo Reno? Nunca he oído hablar de ello.}
 {210}{}{No. Sin embargo, tengo algunas preguntas más.}
-{211}{}{Eso es todo lo que necesito saber.}
+{211}{}{Eso es todo lo que necesitaba saber.}
 {212}{}{¿Esos bastardos? Mejor que se mantengan lejos de aquí o les abriré un agujero.}
 {213}{}{Bien, eso ha resultado aleccionador. Otra pregunta.}
 {214}{}{Eso es todo lo que necesitaba saber.}
@@ -163,7 +163,6 @@ Muchachos, matadlo y recuperad la evidencia.}
 {260}{}{ chica.}
 {261}{}{Un Hubologista es un fanático religioso chiflado. Se los puede encontrar en la iglesia de la ciudad.}
 {262}{}{Voy de camino.}
-
 {263}{}{¡No hablaré contigo hasta que el trabajo esté hecho! Necesito esos papeles del local del doctor Henry, pronto.}
 {264}{}{No, pero necesito algo de información.}
 {265}{}{Sé que la muerte de Lenny no fue ningún accidente, bastardo.}
@@ -172,6 +171,5 @@ Muchachos, matadlo y recuperad la evidencia.}
 {268}{}{Como ya he dicho, no tuvo éxito.}
 {269}{}{Bien, ¿y qué tal si te comes esta bala por las molestias?}
 {270}{}{Hmmphf.}
-
-{271}{}{Ganas }
+{271}{}{ de experiencia por encargarte de la Hubologista para Merk.}
 {272}{}{ de experiencia por recuperar los papeles del doctor Henry.}

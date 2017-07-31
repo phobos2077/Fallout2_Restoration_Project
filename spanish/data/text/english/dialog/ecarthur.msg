@@ -1,8 +1,3 @@
-#############################################################
-#  Rey Arturo (Encuentros)            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Un hombre con servoarmadura.}
 {101}{}{Arthur, hijo de Uther Pendragón.}
 {102}{}{Lleva la bragueta bajada.}
@@ -40,7 +35,6 @@
 {134}{}{Dado que tenéis un par, podríais darme uno.}
 {135}{}{No. No. No puedo hacer eso. No sería correcto que terminárais vuestra misión de esa forma. Id a conseguir el vuestro. [Señala en una dirección de la misma forma que lo hiciste tú cuando te preguntó donde estaba la Santa Granada de Antioquía]}
 {136}{}{[FIN]}
-
 {200}{}{¿Habláis en la lengua del rey?}
 {201}{}{Holaaaa.}
 {202}{}{Eh, estoy aquí.}
@@ -48,5 +42,4 @@
 {204}{}{Ejem...}
 {205}{}{Vamos. No me ignoréis.}
 {206}{}{¡Por favoooor! Necesito preguntaros algo importante.}
-
 {207}{}{Bien, debemos continuar nuestra búsqueda de la Santa Granada de Antioquía. Vamos, Patsy.}

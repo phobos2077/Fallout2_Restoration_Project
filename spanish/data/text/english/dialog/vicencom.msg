@@ -70,12 +70,12 @@
 {169}{}{Tratas de forzar la apertura de la caja para que la mujer pueda salir.}
 {170}{}{Dejas de balbucear}
 {171}{}{Buscas en los archivos la localización del Refugio 13.}
-{172}{}{Buscas en los archivos cualquier mención al Kit de Creación del Jardín del Edén.}
+{172}{}{Buscas en los archivos cualquier mención del Kit de Creación del Jardín del Edén.}
 {173}{}{Introduces el disco de la central nuclear de Gecko en la computadora.}
 {174}{}{Intentas abrir la computadora y buscar un módulo de reconocimiento de voz.}
 {175}{}{Introduces el PipBoy en la ranura que descubriste antes.}
 {176}{}{Introduces el PipBoy en la ranura que descubriste antes.}
-{177}{}{Sales del terminal.}
+{177}{}{Finalizas la sesión en el terminal.}
 {178}{}{La caja de metal no responde.}
 {179}{}{Tratas de forzar la apertura de la caja para que la mujer pueda salir.}
 {180}{}{Dejas de balbucear}
@@ -93,7 +93,7 @@
 {189}{}{Pues muy bien. Mejor ir a buscar en otra parte.}
 {190}{}{Mientras repones el panel, sin embargo, te fijas de repente en un pequeño dibujo de Vault Boy situado
  bajo el terminal. Al lado del dibujo hay un espacio que parece tener el tamaño de tu PipBoy.}
-{191}{}{Insertas tu PipBoy en el espacio vacío.}
+{191}{}{Insertas tu PipBoy en la ranura vacía.}
 {192}{}{Dejas el terminal.}
 {193}{}{¡Cuando casi dejas de balbucear, ves a la sonriente pequeña personita de tu pequeño Vault
  Boy bajo la caja de metal! Señala un agujero cerca de él. Igual quiere hablar con tu
@@ -108,11 +108,11 @@
 {199}{}{Tomas tu PipBoy y te vas.}
 {200}{}{Se abre una pequeña ventana en la pantalla del terminal, con un sonriente Vault Boy a su lado. Mientras miras, el
  Vault Boy empieza a silbar en silencio y da golpecitos con el pie. Una luz roja está parpadeando al lado de la ranura de la computadora.}
-{201}{}{Espera...}
+{201}{}{Esperas...}
 {202}{}{Cancelas el procedimiento y te desconectas del terminal.}
 {203}{}{Un molesto chirrido surge de la ranura junto a Vault Boy. Vault Boy continua silbando
  en silencio y dando golpes con el pie.}
-{204}{}{Espera...}
+{204}{}{Esperas...}
 {205}{}{Cancelas el procedimiento y te desconectas del terminal.}
 {206}{}{De repente, Vault Boy se detiene y frunce el ceño. Aparece una marca de exclamación sobre su cabeza, y
  comienza a menear su dedo delante de ti. }
@@ -134,23 +134,23 @@
 {221}{}{¡Cancelar! ¡Cancelar! }
 {222}{}{Se está copiando el archivo geográfico de California del Norte en la base de datos del PipBoy. }
 {223}{}{Copiando archivo... Broken Hills... Gecko... República de Nueva California... Nuevo Reno... Redding... Ciudad Refugio... Descarga completa.}
-{224}{}{Continuas buscando archivos para más información.}
-{225}{}{Te desconectas del terminal.}
-{226}{}{Has vuelto al menú principal. En pantalla se muestran una serie de archivos y
- programas de búsqueda.}
+{224}{}{Continuas buscando más información en los archivos.}
+{225}{}{Finalizas la sesión en el terminal.}
+{226}{}{Has vuelto al menú principal. Una serie de archivos y programas de búsqueda se listan en la
+ pantalla del terminal.}
 {227}{}{Buscas cualquier mención del Refugio 13 en los archivos.}
-{228}{}{Buscas cualquier referencia acerca del Kit de Creación del Jardín del Edén.}
+{228}{}{Buscas cualquier referencia al Kit de Creación del Jardín del Edén.}
 {229}{}{Solicitas los informes del generador de energía de Ciudad Refugio. }
-{230}{}{Te desconectas del terminal.}
+{230}{}{Finalizas la sesión en el terminal.}
 {231}{}{De acuerdo con los informes de producción, parece que Gordon estaba en lo cierto. El generador de Ciudad Refugio ya
  está alcanzado su límite. Sin un nuevo suministro energético, Ciudad Refugio no podrá expandirse.}
-{232}{}{Continuas buscando los archivos.}
-{233}{}{Te desconectas del terminal.}
+{232}{}{Continúas buscando en los archivos.}
+{233}{}{Finalizas la sesión en el terminal.}
 {234}{}{Los archivos sólo muestran dos refugios: el Refugio 8 (este Refugio) y el Refugio 15, localizado lejos al sur.
  Lamentablemente, no hay menciones al Refugio 13.}
 {235}{}{Introduces la localización del Refugio 15 en tu PipBoy.}
 {236}{}{Continuas buscando más información en los archivos.}
-{237}{}{Te desconectas del terminal.}
+{237}{}{Finalizas la sesión en el terminal.}
 {238}{}{Según los archivos, actualmente no hay un GECK en stock en la Oficina de Servicios de Ciudad Refugio.
  Los habitantes de Ciudad Refugio parecen haber utilizado el único que tenían en ayudar a establecer el lugar cuando
  llegaron a la superficie.}
@@ -158,12 +158,12 @@
 {240}{}{Por lo que puedes sacar de los archivos, dos GECKs eran parte del paquete de inventario estándar
  de cada Refugio. Sin embargo, sólo se envió uno al Refugio 8.}
 {241}{}{Referencias cruzadas de la información de envíos de GECK.}
-{242}{}{Volver al menú principal.}
-{243}{}{Te desconectas del terminal.}
+{242}{}{Vuelves al menú principal.}
+{243}{}{Finalizas la sesión en el terminal.}
 {244}{}{Debido a un error en los envíos, parece que el Refugio 8 recibió un excedente de chips de agua que iban dirigidos a
  otro Refugio. Posiblemente el otro Refugio recibió el segundo GECK del Refugio 8.}
 {245}{}{Vuelves al menú principal.}
-{246}{}{Te desconectas del terminal.}
+{246}{}{Finalizas la sesión en el terminal.}
 {247}{}{Se abre una pequeña ventana en la pantalla del terminal, con un sonriente Vault Boy al lado. Mientras miras, el
  Vault Boy te mira, te guiña un ojo, y levanta su dedo pulgar. Una luz roja está parpadeando junto a la
  ranura de la computadora.}
@@ -175,10 +175,10 @@
 {252}{}{Será mejor que esta pérdida de tiempo suponga algunos puntos extra de habilidad, o me voy a cabrear.}
 {253}{}{El Vault Boy de la pantalla se despide con la mano, y la pantalla se ennegrece. El terminal se ha
  apagado.}
-{254}{}{Te vas.}
+{254}{}{[Te vas]}
 {255}{}{Sí, mejor que desaparezcas, mierdecilla.}
 {256}{}{El terminal se ha apagado. No tienes ni idea de cómo volver a encender el sistema.}
-{257}{}{Te vas.}
+{257}{}{Te marchas.}
 {258}{}{Leyendo disco... Datos del reactor: Central de energía atómica... Eficiencia: 43%/75%... Error: Calibración de central - MD4/gh1... ¿Desea optimizar?}
 {259}{}{}
 {260}{}{}
@@ -186,11 +186,11 @@
 {262}{}{}
 {263}{}{Inicio de procedimiento de optimización. }
 {264}{}{Cancelar la operación y buscar en los archivos.}
-{265}{}{Desconectarse del terminal.}
+{265}{}{Finalizas la sesión en el terminal.}
 {266}{}{Iniciando procedimiento de optimización... Optimizando... Optimización completa. Por favor, retire el disco.}
 {267}{}{}
 {268}{}{}
 {269}{}{}
 {270}{}{Buscas en los archivos.}
-{271}{}{Te desconectas del terminal.}
+{271}{}{Finalizas la sesión en el terminal.}
 {272}{}{Oooooooh. Eso zumbaaaaa.}

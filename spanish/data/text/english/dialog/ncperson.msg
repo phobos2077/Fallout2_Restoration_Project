@@ -1,43 +1,32 @@
-# 0. QUICK LOOK (ANY)
 {100}{}{Ves uno de los habitantes de Reno.}
-
-# 1. LOOK, MALE (WTG)
 {150}{}{Ves a un hombre de apariencia andrajosa. Parece aburrido.}
 {151}{}{Ves a un hombre de apariencia andrajosa. Tiene la mirada apagada.}
 {152}{}{Ves a un hombre de apariencia andrajosa. Parece que se esté recuperando de una resaca.}
 {153}{}{Ves a un hombre de apariencia andrajosa. Parece un poco achispado.}
 {154}{}{Ves a un hombre de apariencia andrajosa. Te lanza una mirada irritada, y luego te ignora.}
 {155}{}{Ves a un hombre de apariencia andrajosa. Parece borracho.}
-
-# 2. LOOK, FEMALE (WTG)
 {160}{}{Ves a una mujer de apariencia andrajosa. Parece aburrida.}
 {161}{}{Ves a una mujer de apariencia andrajosa. Tiene la mirada apagada.}
 {162}{}{Ves a una mujer de apariencia andrajosa. Tiene la mirada perdida a miles de kilómetros.}
 {163}{}{Ves a una mujer de apariencia andrajosa. Parece un poco borracha.}
 {164}{}{Ves a una mujer de apariencia andrajosa. Te lanza una mirada irritada, y luego te ignora.}
 {165}{}{Ves a una mujer de apariencia andrajosa. Cuando te mira, lo hace con desprecio.}
-
-# 3. FLOAT (ANY) TO [FLAG: ENCLAVE DESTROYED] (WTG)
 {200}{}{::Aplausos::}
-{201}{}{::Ovaciones::}
+{201}{}{::Brindis::}
 {202}{}{¡Qué forma de arrasar a esos bastardos del Enclave! ¡Así se hace!}
-{203}{}{¡Que manera de aplastar al Enclave, }
+{203}{}{Qué forma de aplastar al Enclave, }
 {204}{}{Enhorabuena por pisotear al Enclave, }
 {205}{}{Enhorabuena por pisotear al Enclave, }
-
-# 4. FLOAT (ANY) TO [POWER ARMOR] (WTG)
-{215}{}{Oh, oh. Apartad de su camino.}
+{215}{}{Oh-oh. Salid de su camino.}
 {216}{}{Sólo el mirarlo… mirarla…… LO QUE SEA que es, me provoca escalofríos.}
 {217}{}{¿Crees que esa cosa quiere cargarse a alguien?}
 {218}{}{Eso es la furia del infierno encarnada. Eh, bajo la armadura, me refiero.}
 {219}{}{Alejaos del camino de esa cosa.}
-{220}{}{Hablando de apariencia peligrosa…}
+{220}{}{Hablando de apariencias peligrosas…}
 {221}{}{*Gulp*}
 {222}{}{Creo que ese tal Mr. Roboto me escaneó.}
 {223}{}{Creo que ese tanque andante me acaba de lanzar una mirada mortal. Me largo de aquí.}
 {224}{}{He oído que esa cosa fulminó a tres sicarios ayer mismo.}
-
-# 5. FLOAT AND CLICK (FEMALE) TO [MALE, PORN STAR] (WTG)
 {240}{}{Vaya, hoooooola, semental.}
 {241}{}{¿Necesita una silla de montar un semental como tú? Estoy libre mañana por la noche.}
 {242}{}{¿Qué haces más tarde, marinero?}
@@ -48,18 +37,16 @@
 {247}{}{¿Necesitas una compañera para tu próxima película?}
 {248}{}{::Contempla tus bíceps.::}
 {249}{}{::Palmas y silbidos::}
-
-# 6. FLOAT (MALE) TO [FEMALE, PORN STAR] (WTG)
 {255}{}{Caray. Mira eso.}
 {256}{}{¿Estás viendo ESO?}
-{257}{}{::Vocaliza un 'maldición'.::}
-{258}{}{SABÍA que tendría que haberme afeitado hoy.}
+{257}{}{::Masculla un 'madre mía'.::}
+{258}{}{SABÍA que debería haberme afeitado hoy.}
 {259}{}{Ven a charlar conmigo un momento, preciosidad.}
 {260}{}{¡Las tribales tienen tetas! ¡Quién lo diría!}
 {261}{}{Echa un vistazo a la estantería de esa tribal.}
 {262}{}{Esa de ahí es la yegua principal de mi rebaño.}
 {263}{}{Me bañaría por esa mujer.}
-{264}{}{Tengo tu veta madre justo aquí mismo.}
+{264}{}{Tengo tu veta madre justo aquí.}
 {265}{}{¡Muévelo!}
 {266}{}{¡Sigue así!}
 {267}{}{::Silbidos::}
@@ -68,7 +55,7 @@
 {270}{}{¿Regalan las patatas fritas contigo, preciosa?}
 {271}{}{Quizá baile esta noche.}
 {272}{}{¿Has visto su última película? Al rojo vivo, amigo, al rojo VIVO.}
-{273}{}{Perdóname. Tengo que ir al lavabo un momento y, er, peinarme.}
+{273}{}{Perdóname. Tengo que ir al baño y, er, peinarme un poco.}
 {274}{}{Me gustaría ser su ropa interior.}
 {275}{}{Me encantaría ser su lencería.}
 {276}{}{Me gustaría oler sus bragas.}
@@ -80,21 +67,17 @@
 {282}{}{Jooooder.}
 {283}{}{Fíjate en sus parachoques.}
 {284}{}{Apuesto a que ella traerá problemas.}
-
-# 7. FLOAT AND CLICK (ANY) TO [MALE, PRIZEFIGHTER] (WTG)
 {285}{}{No pareces tan duro, señor Campeón.}
 {286}{}{¡Gané 20 fichas apostando por ti!}
 {287}{}{¡Oye, campeón! ¡Esa última pelea fue genial!}
-{288}{}{Vi tu última pelea en el ring. Lanzaste un gancho de derecha bueno de cojones.}
+{288}{}{Vi tu pelea en el ring. Lanzaste un gancho de derecha bueno de cojones.}
 {289}{}{¿Lo vas a dejar? Conseguí 30 fichas apostando por ti.}
 {290}{}{¿Cuántas flexiones haces?}
 {291}{}{¿Dónde entrenas?}
-{292}{}{Cuidado con el Masticador. Le encantan las orejas.}
-{293}{}{Te invitaría a una copa si no hubiera perdido todo mi dinero apostando por tu contrincante.}
+{292}{}{Cuidado con el Masticador. Le gustan las orejas.}
+{293}{}{Te invitaría a una copa si no hubiera perdido todo mi dinero apostando a tu oponente.}
 {294}{}{No pareces tan dura, señorita Gancho Izquierdo.}
 {295}{}{¿Puedo ver cómo flexionas tus abdominales?}
-
-# 8. FLOAT (ANY) TO [MADE MAN] (WTG)
 {300}{}{Alejaos del camino de ese hombre.}
 {301}{}{Creo que me miraba a mí.}
 {302}{}{Creo que me acaba de lanzar una mirada mortal. Me largo de aquí.}
@@ -112,130 +95,120 @@
 {314}{}{Creo que me acaba de lanzar una mirada mortal. Me largo de aquí.}
 {315}{}{He oído que disparó a tres sicarios ayer mismo.}
 {316}{}{¡Qué duro! Eh, me refiero a ti, claro.}
-
-# 9. FLOAT (ANY) TO [SLAVER] (WTG)
-{320}{}{¿Qué pasa con todos esos esclavistas rondando por aquí últimamente?}
+{320}{}{¿Por qué hay tantos esclavistas rondando por aquí últimamente?}
 {321}{}{No había visto antes por aquí a ese esclavista…}
 {322}{}{Me pregunto si el esclavista se dirige al Establo…}
 {323}{}{Mi pregunto si ese esclavista tendrá algo a la venta…}
 {324}{}{¿Te diriges al Establo, esclavista?}
 {325}{}{OTRO esclavista. Mordino debe haber descubierto una mina de oro en algún lugar…}
 {326}{}{Ese esclavista va a ir derecho al Gólgota.}
-{327}{}{El hedor procedente del Gólgota fue jodidamente horrible esta noche…}
+{327}{}{La peste del Gólgota fue jodidamente horrible anoche…}
 {328}{}{Jodidos esclavistas...}
 {329}{}{De todo lo malvado que puedas imaginar…}
-{330}{}{He oído que trajeron a un nuevo grupo de esclavos.}
+{330}{}{He oído que han traído un nuevo grupo de esclavos.}
 {331}{}{Hay un nuevo grupo de esclavas en el burdel.}
 {332}{}{Conjunción, unión.}
 {333}{}{Esto es una inversión.}
 {334}{}{A veces beber demasiado no es suficiente.}
 {335}{}{Malditos jugadores de poca monta...}
 {336}{}{Genial, otro apostador a la baja.}
-{337}{}{La casa estaba contra mí.}
+{337}{}{La casa estaba en mi contra.}
 {338}{}{La fortuna estaba en mi contra.}
-{339}{}{Ojalá pongan a ese tipo en la parrilla…}
-{340}{}{Apestoso hijo de perra…}
+{339}{}{Me alegra que pusieran en el potro a ese tipo…}
+{340}{}{Mugriento cabrón…}
 {341}{}{Los esclavistas rondan por aquí como si fueran dueños del lugar…}
 {342}{}{La casa tiene misericordia de mí.}
 {343}{}{Mala suerte, soplan malos vientos, no son buenos tiempos, no señor…}
 {344}{}{Reno está caliente, hora de aprovecharlo.}
 {345}{}{La hija de Bishop está fuera de control.}
-{346}{}{Como la Unión por la Templanza me sermonee una vez más…}
+{346}{}{Como la Unión por la Templanza vuelva a sermonearme otra vez…}
 {347}{}{Vi a Tully desmayado en la cuneta de nuevo.}
 {348}{}{Maldita basura maloliente de La Guarida.}
-{349}{}{Tengo que salir de esta ciudad.}
-{350}{}{Vi a otro yonki esta mañana. Tenía moscas por toda la boca. Y estaba SONRIENDO.}
+{349}{}{Tengo que salir de esa ciudad.}
+{350}{}{Vi a otro drogadicto con sobredosis esta mañana. Tenía moscas por toda la boca. Y estaba SONRIENDO.}
 {351}{}{He INTENTADO dejarlo, pero…}
 {352}{}{Esclavista, mejor será que tengas cuidado en esta ciudad…}
-{353}{}{Odio esta puta ciudad.}
-{354}{}{He estado en esta ciudad demasiado tiempo.}
+{353}{}{Odio esta maldita ciudad.}
+{354}{}{He estado en esa ciudad demasiado tiempo.}
 {355}{}{Esta ciudad es genial… excepto por los turistas.}
 {356}{}{Esta ciudad es genial… excepto por los esclavistas.}
 {357}{}{Esta ciudad es genial… excepto por los chulos y las putas.}
-
-# 10. FLOAT AND CLICK (ANY) TO [COMPANION: ROBOBRAIN] (WTG)
 {365}{}{¿Eso que te sigue es alguna clase de máquina tragaperras?}
 {366}{}{¿Eso es una robo-máquina tragaperras?}
 {367}{}{¿Tu robot hace trucos? Eh… trucos mágicos, quiero decir.}
-
-# 11. FLOAT (ANY) TO [COMPANION: MARCUS] (WTG)
 {375}{}{Dime que eso no es un mutante.}
 {376}{}{Eso es un mutante?}
 {377}{}{Hostia puta. Mutantes en Nuevo Reno. Se avecinan problemas.}
-{378}{}{Ese mutante es un hijoputa de los grandes.}
+{378}{}{Ese mutante es un cabronazo.}
 {379}{}{Asqueroso amante de mutantes...}
-
-# 12. FLOAT (ANY) TO [COMPANION: BONE-NOSE] OR MALE TOWNSPERSON REACTION TO [COMPANION = FEMALE SPOUSE] (WTG)
 {385}{}{Tu amigo tiene un hueso atravesándole la nariz.}
-{386}{}{Todo el mundo en tu pequeño grupo se atraviesa la nariz con un hueso para demostrarse algo?}
+{386}{}{¿Todo el mundo en tu pequeña banda se atraviesa la nariz con un hueso para probarse a sí mismos?}
 {387}{}{Ese tipo que va contigo es de la tribu 'pincha-un-hueso-en-mi-nariz'?}
-{388}{}{Ese tipo con el hueso en la nariz es la prueba de que los tribales nunca serán seres civilizados.}
+{388}{}{Ese tipo con el hueso en la nariz es la prueba de que esos tribales nunca serán seres civilizados.}
 {389}{}{¿Ese tipo tiene un hueso en la nariz?}
 {390}{}{Ese tipo tiene un hueso en la nariz del tamaño de mi brazo. Cristo bendito.}
-{391}{}{Ni siquiera quiero saber cómo consiguió ese amigo tuyo ese hueso de su nariz.}
+{391}{}{Ni siquiera quiero saber cómo hizo ese amigo tuyo para tener ese hueso en la nariz.}
 {392}{}{Genial. Es uno de esos pedazos de mierda de tribales.}
-{393}{}{¿Cuántos tribales van a entrar a esta ciudad?}
+{393}{}{¿Cuántos tribales van a entrar en esta ciudad?}
 {394}{}{Otro primate.}
 {395}{}{Ese chico va a ir derecho al Gólgota.}
-{396}{}{El hedor procedente del Gólgota fue jodidamente horrible esta noche…}
+{396}{}{La peste del Gólgota fue jodidamente horrible anoche…}
 {397}{}{Jodidos turistas.}
 {398}{}{De todo lo malvado que puedas imaginar…}
-{399}{}{He oído que trajeron a un nuevo grupo de esclavos.}
+{399}{}{He oído que han traído un nuevo grupo de esclavos.}
 {400}{}{Conjunción, unión.}
 {401}{}{Esto es una inversión.}
 {402}{}{A veces beber demasiado no es suficiente.}
 {403}{}{Malditos jugadores de poca monta...}
 {404}{}{La casa estaba en mi contra.}
-{405}{}{La fortuna no me sonrió.}
-{406}{}{Ojalá pongan a ese tipo en la parrilla…}
-{407}{}{Apestoso hijo de perra…}
-{408}{}{La casa ha tenido piedad de mí.}
+{405}{}{La fortuna estaba en mi contra.}
+{406}{}{Me alegra que pusieran en el potro a ese tipo…}
+{407}{}{Mugriento cabrón…}
+{408}{}{La casa tiene misericordia de mí.}
 {409}{}{Mala suerte, soplan malos vientos, no son buenos tiempos, no señor…}
 {410}{}{Reno está caliente, hora de aprovecharlo.}
 {411}{}{La hija de Bishop está fuera de control.}
-{412}{}{Como la Unión por la Templanza me sermonee una vez más…}
+{412}{}{Como la Unión por la Templanza vuelva a sermonearme otra vez…}
 {413}{}{Vi a Tully desmayado en la cuneta de nuevo.}
 {414}{}{Maldito campista.}
-{415}{}{Ese no es de por aquí.}
-{416}{}{Tengo que salir de aquí.}
-{417}{}{Vi a otro yonki esta mañana. Tenía moscas por toda la boca. Y estaba SONRIENDO.}
+{415}{}{Ese no es de aquí.}
+{416}{}{Tengo que salir de esa ciudad.}
+{417}{}{Vi a otro drogadicto con sobredosis esta mañana. Tenía moscas por toda la boca. Y estaba SONRIENDO.}
 {418}{}{He INTENTADO dejarlo, pero…}
 {419}{}{¿Por qué arriesgarse con una incautación minera como esa?}
-{420}{}{Odio esta puñetera ciudad.}
-{421}{}{He estado en esta ciudad demasiado tiempo.}
+{420}{}{Odio esta maldita ciudad.}
+{421}{}{He estado en esa ciudad demasiado tiempo.}
 {422}{}{Esta ciudad es genial… excepto por los turistas.}
 {423}{}{Esta ciudad es genial… excepto por los esclavistas.}
 {424}{}{Esta ciudad es genial… excepto por los chulos y las putas.}
 {425}{}{¿Vendes a esa mujer?}
 {426}{}{¿Cuánto por esa mujer que te acompaña?}
-{427}{}{Esa mujer que tienes al lado es bonita.}
-{428}{}{¿Esa mujer tuya cocina? Si es así, te la compraré.}
+{427}{}{Esa mujer que está a tu lado es bonita.}
+{428}{}{¿Esa mujer tuya sabe cocinar? Si es así, me la quedo.}
 {429}{}{¿Cuánto por esa falda que llevas puesta?}
 {430}{}{Fíjate en el nuevo amo de la calle.}
-{431}{}{¡Vamos a pasarlo bien esta noche!}
+{431}{}{¡Esta noche voy a tener un poco de acción!}
 {432}{}{La señora Bishop tiene un culito que es un bombón.}
-
-# 13. FLOAT [NO REP] (WTG)
 {450}{}{La señora Bishop tiene un culito que es un bombón.}
-{451}{}{Como la Unión por la Templanza me sermonee una vez más…}
+{451}{}{Como la Unión por la Templanza vuelva a sermonearme otra vez…}
 {452}{}{Genial. Es uno de esos pedazos de mierda de tribales.}
 {453}{}{¿Cuántos tribales van a entrar en esta ciudad?}
 {454}{}{Otro primate.}
 {455}{}{Ese tribal va a ir derecho al Gólgota.}
-{456}{}{El hedor procedente del Gólgota fue jodidamente horrible esta noche…}
+{456}{}{La peste del Gólgota fue jodidamente horrible anoche…}
 {457}{}{No podría encontrar su culo en una tormenta de arena…}
 {458}{}{Jodidos turistas.}
 {459}{}{De todo lo malvado que puedas imaginar…}
-{460}{}{He oído que trajeron a un nuevo grupo de esclavos.}
+{460}{}{He oído que han traído un nuevo grupo de esclavos.}
 {461}{}{Conjunción, unión.}
 {462}{}{Esto es una inversión.}
-{463}{}{A veces beber mucho no es suficiente.}
+{463}{}{A veces beber demasiado no es suficiente.}
 {464}{}{Malditos jugadores de poca monta...}
 {465}{}{Genial, otro apostador a la baja.}
-{466}{}{La casa estaba contra mí.}
+{466}{}{La casa estaba en mi contra.}
 {467}{}{La fortuna estaba en mi contra.}
-{468}{}{Ojalá pongan a ese tipo en la parrilla…}
-{469}{}{Apestoso hijo de perra…}
+{468}{}{Me alegra que pusieran en el potro a ese tipo…}
+{469}{}{Mugriento cabrón…}
 {470}{}{La casa tiene misericordia de mí.}
 {471}{}{Mala suerte, soplan malos vientos, no son buenos tiempos, no señor…}
 {472}{}{Reno está caliente, hora de aprovecharlo.}
@@ -243,19 +216,17 @@
 {474}{}{Vi a Tully desmayado en la cuneta de nuevo.}
 {475}{}{Maldito campista.}
 {476}{}{Ese no es de aquí.}
-{477}{}{Tengo que salir de esta ciudad.}
-{478}{}{Vi a otro yonki esta mañana. Tenía moscas por toda la boca. Y estaba SONRIENDO.}
+{477}{}{Tengo que salir de esa ciudad.}
+{478}{}{Vi a otro drogadicto con sobredosis esta mañana. Tenía moscas por toda la boca. Y estaba SONRIENDO.}
 {479}{}{He INTENTADO dejarlo, pero…}
 {480}{}{¿Por qué arriesgarse con una incautación minera como esa?}
 {481}{}{Odio esta maldita ciudad.}
-{482}{}{He estado demasiado tiempo en esta ciudad.}
+{482}{}{He estado en esa ciudad demasiado tiempo.}
 {483}{}{Esta ciudad es genial… excepto por los turistas.}
 {484}{}{Esta ciudad es genial… excepto por los esclavistas.}
 {485}{}{Esta ciudad es genial… excepto por los chulos y las putas.}
-{486}{}{Debería dirigirme al centro, a ver si hay alguien nuevo en la ciudad…}
-{487}{}{Como la Unión por la Templanza me sermonee una vez más…}
-
-# 14. CLICK (ANY) TO [FLAG: ENCLAVE DESTROYED] (WTG)
+{486}{}{Debería ir al centro de la ciudad, a ver si ha llegado gente nueva…}
+{487}{}{Como la Unión por la Templanza vuelva a sermonearme otra vez…}
 {490}{}{¡Qué forma de arrasar a esos bastardos del Enclave! ¡Así se hace!}
 {491}{}{Siempre supe que el Presidente quería matarnos a todos.}
 {492}{}{¿El Presidente estaba vivo? ¿Cuándo fueron las últimas elecciones?}
@@ -265,16 +236,14 @@
 {496}{}{He sentido una gran conmoción… como si un millar de malvados bastardos en una plataforma petrolífera gritasen de terror a un tiempo y de repente callasen. Qué extraño.}
 {497}{}{Enhorabuena por pisotear al Enclave, }
 {498}{}{Este juego ha sido la respuesta a la gran demanda de nadie.}
-{499}{}{Echo de menos a Tim Cain. Solía cocinar un pan maravilloso. Después nos azotaba como a niños pequeños.}
+{499}{}{Echamos de menos a Tim Cain. Hacía un pan maravilloso. Luego nos azotaba como a niños pequeños.}
 {500}{}{Sí, sí, yo también soy el Avatar.}
 {501}{}{Nuevo Reno fue diseñado por Chris Avellone y Tom French. Se rumorea que se van a casar pronto.}
 {502}{}{Feargus no dejó de fruncir el ceño cuando vio cuántos mensajes flotantes había escrito.}
-{503}{}{Tu puntuación es 192 sobre 208. Deberías haber usado el dedo mutado con Horrigan.}
-
-# 15. CLICK (ANY) TO [POWER ARMOR) (WTG)
+{503}{}{Tu puntación es 192 sobre 208. Deberías haber usado el dedo mutado con Horrigan.}
 {510}{}{¿Estás buscando a tu hermano Robby? ¿Ya sabes, el robot? Vaya, no importa.}
-{511}{}{Lo siento, ¿estaba en tu camino? Abandonaré la ciudad.}
-{512}{}{Lo siento, ¿estaba respirando tu aire? Me detendré.}
+{511}{}{Lo siento, ¿estaba en su camino? Abandonaré la ciudad.}
+{512}{}{Perdón, ¿estaba respirando su mismo aire? Me detendré.}
 {513}{}{::Golpea la armadura con los nudillos.:: ¿Hay alguien ahí?}
 {514}{}{'¡Peligro, Will Robinson! ¡Peligro, Will Robinson!' je je. Eh… sólo era una broma.}
 {515}{}{Preciooooosa armadura. ¿Tiene aire acondicionado?}
@@ -288,8 +257,6 @@
 {523}{}{Parece que ibas de camino a uno de esos juegos de mechs para PC y te perdiste.}
 {524}{}{Sí, sí, 'clank-whirrr-clank' para ti también.}
 {525}{}{Si te piensas que esa armadura me intimida... pues tienes razón.}
-
-# 16. CLICK (MALE) TO [FEMALE, PORN STAR] (WTG)
 {540}{}{¿Vendes?}
 {541}{}{¿Puedo comprar tus ropas? Quiero decir, ¿ahora mismo?}
 {542}{}{SABÍA que debería haberme afeitado hoy.}
@@ -312,8 +279,6 @@
 {559}{}{¡Menuda estantería!}
 {560}{}{Esos faros que tienes me van a cegar.}
 {561}{}{¿Tienes problemas de espalda?}
-
-# 17. CLICK (ANY) TO [MALE, MADE MAN) (WTG)
 {580}{}{Hola, señor. ¿Cómo está?}
 {581}{}{¿Algo va mal, señor?}
 {582}{}{Lo siento, ¿estaba en su camino? Abandonaré la ciudad.}
@@ -322,8 +287,6 @@
 {585}{}{Oiga, por favor… no quiero problemas.}
 {586}{}{Hola, señora. ¿Cómo está?}
 {587}{}{¿Algo va mal, señora?}
-
-# 18. CLICK (ANY) TO [SLAVER] (WTG)
 {600}{}{¿Por qué hay tantos esclavistas rondando por aquí últimamente?}
 {601}{}{No te he visto antes por aquí…}
 {602}{}{Su buscas vender esclavos, inténtalo con los Mordino.}
@@ -331,7 +294,7 @@
 {604}{}{Muéstrame lo que tienes a la venta.}
 {605}{}{Si estás buscando vender esclavos, prueba con los Mordino.}
 {606}{}{Odio esta maldita ciudad.}
-{607}{}{He estado en esta ciudad demasiado tiempo.}
+{607}{}{He estado en esa ciudad demasiado tiempo.}
 {608}{}{Esta ciudad es genial… excepto por los turistas.}
 {609}{}{Esta ciudad es genial… excepto por los esclavistas.}
 {610}{}{Esta ciudad es genial… excepto por los chulos y las putas.}
@@ -349,12 +312,12 @@
 {622}{}{Malditos jugadores de poca monta...}
 {623}{}{Un apostador a la baja es alguien que viene a la ciudad y apuesta sólo una o dos fichas en las mesas.}
 {624}{}{La casa estaba en mi contra.}
-{625}{}{La fortuna me dio la espalda.}
+{625}{}{La fortuna estaba en mi contra.}
 {626}{}{Me alegra que pusieran en el potro a ese tipo…}
 {627}{}{Mugriento cabrón…}
 {628}{}{¿Qué quieres?}
 {629}{}{Mala suerte, soplan malos vientos, no son buenos tiempos, no señor…}
-{630}{}{Reno está que arde, hora de aprovecharlo.}
+{630}{}{Reno está caliente, hora de aprovecharlo.}
 {631}{}{La hija de Bishop está fuera de control.}
 {632}{}{Como la Unión por la Templanza vuelva a sermonearme otra vez…}
 {633}{}{Vi a Tully desmayado en la cuneta de nuevo.}
@@ -363,14 +326,12 @@
 {636}{}{He INTENTADO dejarlo, pero…}
 {637}{}{Deja de molestarme.}
 {638}{}{Verás, no tengo tiempo para hablar contigo ahora mismo.}
-
-# 19. CLICK (ANY) TO [COMPANION: BONE-NOSE] OR MALE TOWNSPERSON TO (COMPANION: SPOUSE = FEMALE) (WTG)
 {650}{}{Tu amigo tiene un hueso atravesándole la nariz.}
 {651}{}{¿Todo el mundo en tu pequeña banda se atraviesa la nariz con un hueso para probarse a sí mismos?}
 {652}{}{Ese tipo que va contigo es de la tribu 'pincha-un-hueso-en-mi-nariz'?}
 {653}{}{Ese tipo con el hueso en la nariz es la prueba de que esos tribales nunca serán seres civilizados.}
 {654}{}{¿Ese tipo tiene un hueso en la nariz?}
-{655}{}{Ese tipo tiene un hueso en la nariz del tamaño de mi brazo. Criiisto.}
+{655}{}{Ese tipo tiene un hueso en la nariz del tamaño de mi brazo. Cristo bendito.}
 {656}{}{Ni siquiera quiero saber cómo hizo ese amigo tuyo para tener ese hueso en la nariz.}
 {657}{}{Odio esta maldita ciudad.}
 {658}{}{He estado en esa ciudad demasiado tiempo.}
@@ -413,8 +374,6 @@
 {695}{}{¿Esa mujer tuya sabe cocinar? Si es así, me la quedo.}
 {696}{}{¿Cuánto por esa falda que llevas puesta?}
 {697}{}{La señora Bishop tiene un culito que es un bombón.}
-
-# 20. CLICK (ANY) TO [NO REP] (WTG)
 {700}{}{¡Esta noche voy a tener un poco de acción!}
 {701}{}{Encuentra una puta, y juega un poco.}
 {702}{}{La señora Bishop tiene un culito que es un bombón.}
@@ -453,8 +412,6 @@
 {735}{}{Verás, no tengo tiempo para hablar contigo ahora mismo.}
 {736}{}{Debería ir al centro de la ciudad, a ver si ha llegado gente nueva…}
 {737}{}{Me alegra que pusieran en el potro a ese capullo…}
-
-# endlines
 {1203}{}{!}
 {1204}{}{! ¡Pateas culos! ¡Pateas CULOS!}
 {1205}{}{! ¡Eres ASOMBROSO!}

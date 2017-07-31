@@ -23,7 +23,7 @@
 {122}{}{¿Y eso por qué?}
 {123}{}{Tengo trabajo que hacer. Adiós.}
 {124}{}{Continúa, soldado. El futuro será mejor mañana.}
-{125}{}{¿A qué te refieres con eso?}
+{125}{}{¿Qué quieres decir con eso?}
 {126}{}{No para ti, precisamente. Estoy exterminando a todas las pomposas babosas del Enclave y tú eres la siguiente.}
 {127}{}{Eh, sí. Lo que sea. Adiós.}
 {128}{}{Tenemos que trabajar juntos porque si no tenemos éxito, corremos el riesgo de fracasar.}

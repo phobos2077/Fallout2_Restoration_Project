@@ -1,5 +1,5 @@
 {100}{}{Ves a una persona que lleva un uniforme de policía de la RNC.}
-{101}{}{Un policía.}
+{101}{}{Es un trabajo.}
 {102}{}{A juzgar por la seriedad de su cara, no esperas mucha piedad aquí.}
 {103}{}{Guarda tu arma - ¡YA!}
 {104}{}{Forastero, tenemos un política de no armamento en esta ciudad. Guarda tu arma.}
@@ -10,7 +10,6 @@
 {109}{}{Buenos días, forastero. ¿Nuevo en la ciudad?}
 {110}{}{Sigue andando. Aquí no hay nada que ver.}
 {111}{}{Estoy de servicio. Si hay algún problemas puedes informar al sheriff.}
-
 {112}{}{Oye, deja de manipular eso.}
 {113}{}{Aléjate de eso.}
 {114}{}{Eso no es algo que se pueda manipular.}

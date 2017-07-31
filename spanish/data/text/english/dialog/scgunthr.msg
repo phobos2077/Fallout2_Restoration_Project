@@ -2,7 +2,7 @@
 {101}{}{Es Gunther, el ayudante de la presidente Tandi. Al menos eso es lo que dice el cartel de la puerta.}
 {102}{}{Parece oficioso y ocupado, del tipo nacido para ser el burócrata que el resto odia.}
 {103}{}{¿Puedo ayudarte?}
-{104}{}{¿Tú otra vez?}
+{104}{}{¿Otra vez tú?}
 {105}{}{Uhhhh - trabajar. Trabajar con Tandi yo.}
 {106}{}{¿Quién eres?}
 {107}{}{Estoy aquí para ver a la presidente Tandi por un trabajo.}
@@ -66,19 +66,17 @@
 {165}{}{Gracias. Que tengas un buen día.}
 {166}{}{Oh, eres tú. Mira, este no es un buen momento. De hecho, creo que la Señora Presidente preferiría que no te involucraras en nada más. Gracias y buenos días.}
 {167}{}{Te voy a hablar claro. La presidente no va a verte... ni ahora ni nunca. Se te ha pagado. Ahora simplemente vete.}
-
 {171}{}{Me voy, yo.}
 {172}{}{Absolutamente nada.}
 {173}{}{¡Zorra! ¡Guardias! ¡Asesino! ¡Asesino!}
-
 {174}{}{He estado en el Refugio 15 y necesito hablarle a tu jefa sobre ello.}
 {175}{}{Tengo que hablar del Refugio 15.}
-
 {176}{}{Deberías saber que hay un espía en vuestra casa: alguien cuyo nombre empieza por F.}
-
-
-#define GLOBAL Message response
+{177}{}{No encuentro yo. Siento.}
+{178}{}{Me no lie. Lookie. (You hand him the disk.)}
+{179}{}{¡Agradezco yo!}
 {500}{}{Tenemos las puertas cerradas por una razón.}
 {501}{}{Debo pedirte que te vayas.}
 {502}{}{Este es tu último aviso. Vete antes de que tenga que sacarte yo.}
 {503}{}{Seguridad: por favor, encargaos de este problema.}
+{510}{}{Well, wait a minute. I have more to discuss with your boss about Vault 15.}

@@ -15,7 +15,7 @@
 {114}{}{Buen trabajo.}
 {115}{}{El Proyecto va según el plan previsto.}
 {116}{}{Aquí hemos obtenido excelentes resultados.}
-{117}{}{¿Qué hay de nuevo?}
+{117}{}{¿Y ahora qué?}
 {118}{}{La radiación está fastidiándome el trabajo.}
 {119}{}{Sólo otro simulacro.}
 {120}{}{No puedo dejar mi trabajo ahora.}
@@ -52,7 +52,7 @@
 {151}{}{Lárgate. Estoy ocupado.}
 {152}{}{¿No tienes nada mejor que hacer?}
 {153}{}{No recuerdo haber pedido ningún sujeto de prueba.}
-{154}{}{¿Qué demonios quieres?}
+{154}{}{¿Qué coño quieres?}
 {155}{}{Vete a hacer puñetas.}
 {156}{}{Vete a molestar a otro.}
 {157}{}{¿Sí?}

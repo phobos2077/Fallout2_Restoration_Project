@@ -1,12 +1,6 @@
-#############################################################
-#  Rose (Modoc)   		                            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a una simpática gordita.}
-{101}{}{Ves a Rose.}
+{101}{}{Ves a Rico.}
 {102}{}{Su pelo gris está recogido en un moño suelto, y camina con un ligero balanceo. No puedes evitar sentirte a gusto junto a ella.}
-
 {150}{}{Lo siento, hemos cerrado. Un familiar ha fallecido. [sniff]}
 {151}{}{¡Eh! Soy la única que tiene permiso para rebuscar en la caja de objetos perdidos.}
 {152}{}{¡Estoy empezando a pensar que eres un ladrón!}
@@ -33,7 +27,6 @@
 {177}{}{Oh, lo siento, pero no parece que tengas suficiente dinero. ¿Por qué no vuelves más tarde?}
 {178}{}{¡Pero tengo hambre! Quizás pueda pedir algo más barato.}
 {179}{}{¡Espera! ¿Puedo hacerte unas pocas preguntas?}
-
 {180}{}{Vuelves a por más, ya veo. De verdad que te gusta el brahmin frito. Lo siento; como ya tienes el récord, no puedes participar en el concurso hasta que alguien bata tu marca.}
 {181}{}{Que sean fritos de brahmin, pues. Tenemos un concurso de quién puede comer más fritos de brahmin; hasta ahora, el récord está en 36. Si lo bates, no tendrás que pagar la cuenta. Te veo capaz de batir el récord sin problemas. ¿Te interesa intentarlo?}
 {182}{}{Está bien. Estoy deseando pagar para comer tu delicioso escroto frito de brahmin.}
@@ -54,7 +47,6 @@
 {197}{}{[El frito de brahmin numero 38 debe viajar a la velocidad de la luz cuando de repente sale disparado de tu boca].}
 {198}{}{Oh, no podemos contar ese último, ¡pero has dejado el récord en 37! Aquí está tu dinero. ¡Enhorabuena!}
 {199}{}{[Te sientes enfermo].}
-
 {200}{}{Ah, esa es mi especialidad. Espero que estés hambriento; te garantizo que nunca has probado una tortilla como ésta en ninguna parte. [Se marcha y vuelve con la mayor tortilla que hayas visto en tu maldita vida].}
 {201}{}{[Te sientes revitalizado después de semejante comilona].}
 {202}{}{[Desaparece rápidamente tras la barra y vuelve con tu pedido].}
@@ -77,7 +69,6 @@
 {220}{}{Nuestras hamburguesas están hechas de nada más y nada menos que la más selecta y sabrosa carne de perro de primera calidad. La carne es triturada y convertida en pastelillos de media libra. Y para darle ese humeante sabor único, es asada a la parrilla lentamente sobre estiércol de brahmin.}
 {221}{}{Pobrecito. Pareces muy hambriento. Siéntate y deja que Rose te haga algo para comer. [Se marcha y vuelve con una gran tortilla]. Ahora, no te muevas del sitio hasta que te la hayas terminado entera.}
 {222}{}{Lo siento, estamos llenos. Una gran caravana ha alquilado todas las habitaciones.}
-
 {225}{}{¿De verdad!? Debes estar realmente sediento. He subido el precio para desalentar a los clientes de pedirla. Beber agua es algo excepcional aquí, con la falta de lluvia y el pozo secándose. ¿Aún la quieres?}
 {226}{}{¡Sí! Necesito agua desesperadamente.}
 {227}{}{La verdad es que realmente tengo hambre.}
@@ -85,5 +76,4 @@
 {229}{}{Estoy hambriento de verdad, así que veamos qué más tienes.}
 {230}{}{De verdad que estaba buscando tu mundialmente famosa tortilla. Supongo que me quedaré con las ganas.}
 {231}{}{¡Ahh! ¡Ga-lleeeee-ta!}
-
 {300}{}{[Vuelve rápidamente con un vaso con una sustancia liquida de color marrón. Parece que haya más tierra que agua en el vaso. Sin embargo, estás tan sediento que de todos modos te lo bebes]. Te he traído una galletita para que te la comas con eso, cariñito.}

@@ -3,7 +3,7 @@
 {102}{}{Ves a un Shi bajo y corpulento.}
 {103}{}{¿Puedo ayudarte en algo?}
 {104}{}{¿Daghi nu?}
-{105}{}{¿Quién tú?}
+{105}{}{¿Quién?}
 {106}{}{He oído que tienes el bazo de alguien.}
 {107}{}{¿Quién eres?}
 {108}{}{¿Qué haces aquí?}
@@ -48,7 +48,7 @@
 {147}{}{Lo necesita para sobrevivir, ¿sabes? Procede del interior de su cuerpo.}
 {148}{}{Entonces lo mejor será que te mate para conseguirlo.}
 {149}{}{Un trato es un trato. No puede tenerlo. Lo siento, pero hicimos un pacto y sólo porque Chip lo lamente ahora no significa que se pueda dar marcha atrás en el trato.}
-{150}{}{-más-}
+{150}{}{[MÁS]}
 {151}{}{¿Es un bazo humano? ¡Lao Chou no me dijo nada de eso!}
 {152}{}{Sin embargo, debido a la rudeza del mensajero, creo que me quedaré con todas las partes del trato. Así que me limitaré a experimentar con él.}
 {153}{}{Dile a tu amigo que se pase por aquí en los próximos días, y con gusto se lo devolveré. Tan solo espero que puedas encontrar una forma de recolocarlo en su cuerpo a tiempo.}
@@ -57,7 +57,7 @@
  Espera... ¿qué estás diciendo? ¿Estás diciendo que...?}
 {156}{}{Sí, es un bazo humano.}
 {157}{}{En realidad, me opondría a eso. No has demostrado tener buen carácter. De hecho, no sé por qué estoy hablando contigo. Buenos días.}
-{158}{}{-hecho-}
+{158}{}{HECHO}
 {159}{}{¡Aaah! ¡Guardias! ¡El lao wai intruso está aquí!}
 {160}{}{¿Tienes ciertos esquemas que darme?}
 {161}{}{Ken Lee me dijo que te entregase esto.}
@@ -65,4 +65,4 @@
 {163}{}{No, aún no.}
 {164}{}{Habla con Ken Lee, y él discutirá lo que pasa con tu futuro. Gracias. Con esto podremos verificar algunos de nuestros datos de prueba. Buenos días.}
 {165}{}{En realidad tenía otras preguntas.}
-{166}{}{Hasta luego.}
+{166}{}{Hasta la vista.}

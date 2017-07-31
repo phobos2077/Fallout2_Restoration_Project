@@ -1,9 +1,3 @@
-#############################################################
-#  Jugadores Casino Rebecca (The Den)     	            #
-#############################################################
-
-
-# 0. Look
 {100}{}{Ves a un jugador.}
 {101}{}{A este jugador le está yendo extremadamente bien.}
 {102}{}{Parece que está ganando, pero todo su dinero está sobre la mesa.}
@@ -12,8 +6,6 @@
 {105}{}{Esta persona hace tiempo que no gana.}
 {106}{}{Parece que está a punto de echarse a llorar y de quedarse sin dinero.}
 {107}{}{Parece estar muy enfadado y estar perdiendo mucho dinero.}
-
-# 1. PC Killed Becky, NPC are still around (From Where to go)
 {200}{}{¡No me hagas daño!}
 {201}{}{¡No dispares!}
 {202}{}{¡No tengo dinero!}
@@ -21,8 +13,6 @@
 {204}{}{¿Qué es lo que te hizo ella?}
 {205}{}{¡No he hecho nada!}
 {206}{}{Por favor, vete, no lo contaré a nadie.}
-
-# 2. CF: Gambling (From Where to go)
 {300}{}{¡Sí! ¡Los dados me quieren!}
 {301}{}{Oh, eso ha estado cerca.}
 {302}{}{No me interrumpas. Vas a arruinar mi racha.}
@@ -39,7 +29,7 @@
 {313}{}{No he tenido una buena tirada desde hace un buen rato.}
 {314}{}{Necesito una buena tirada.}
 {315}{}{Bueno, al menos no estoy perdiendo.}
-{316}{}{Así no voy a ninguna parte.}
+{316}{}{No me voy a ningún lado.}
 {317}{}{Estoy en punto muerto.}
 {318}{}{Tienes que jugar a los números.}
 {319}{}{Apostar sólo al rojo o al negro no da ganancias.}
@@ -55,14 +45,10 @@
 {329}{}{¿Por qué siempre tiene que pasarme esto a mí?}
 {330}{}{No puedo ganar.}
 {331}{}{Odio este juego.}
-
-# 3. BGF: Becky Dead (From Where to go)
 {400}{}{Maldición, ¡el de Becky era el único casino para apostar de la zona!}
 {401}{}{Aléjate.}
 {402}{}{¡No dispares!}
 {403}{}{Por favor, déjanos en paz.}
-
-# 4. BGF: Gambling (From Where to go)
 {500}{}{No te pares aquí.}
 {501}{}{Sigue moviéndote.}
 {502}{}{¡VAMOS, 7!}
@@ -96,10 +82,8 @@
 {530}{}{¡Odio este juego!}
 {531}{}{¡Maldición! ¡Ese era mi número en la última tirada!}
 {532}{}{¿¿¿Otra vez negro!?!?}
-
-# 5. CF: Hostile (From Where to go)
 {600}{}{¡Vete!}
 {601}{}{¿Por qué has hecho eso?}
-{602}{}{¡Aléjate!}
+{602}{}{¡Vete!}
 {603}{}{Detente, soy frágil.}
 {604}{}{Yo no te haría algo así a ti.}

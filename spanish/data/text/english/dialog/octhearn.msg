@@ -1,6 +1,6 @@
 {100}{}{Ves a una Garra mortal. Te observa con ojos extrañamente inteligentes.}
 {101}{}{Ves a Thearn, la Garra mortal.}
-{102}{}{Ves a la típica Garra mortal. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas
+{102}{}{Ves a la típica Garra mortal. La criatura es enorme, con cuerpo poderoso, dientes afilados, y largas
  garras.}
 {103}{}{Tú perdonar. No hablar bien. Yo intentar hablar contigo.}
 {104}{}{¿Que quieres qué?}
@@ -11,18 +11,18 @@
 {109}{}{¿Quién eres?}
 {110}{}{¿Qué estás haciendo aquí?}
 {111}{}{No te ofendas pero, ¿cuánta inteligencia tienes?}
-{112}{}{Bueno, sólo pasando el tiempo.}
+{112}{}{Bueno, tan sólo pasando el tiempo.}
 {113}{}{Yo Thearn. ¿Quién tú?}
-{114}{}{Yo}
+{114}{}{Yo }
 {115}{}{Marcho.}
-{116}{}{Tengo que irme.}
+{116}{}{Me tengo que ir.}
 {117}{}{Es un placer conocerte, Thearn. Soy}
 {118}{}{Entiendo.}
 {119}{}{Ahora que lo pienso, no me importa una mierda quién eres.}
 {120}{}{Yo proteger estancia. Seguridad de manada ser objetivo.}
 {121}{}{Oh... Uh...}
 {122}{}{¿Guardia? ¿Qué?}
-{123}{}{Vale. Marcho.}
+{123}{}{Vale. Yo voy.}
 {124}{}{Bien, sigue con ello. Me iré ahora.}
 {125}{}{¡Estás haciendo un gran trabajo!}
 {126}{}{¿Te llamas a ti mismo guardia? ¡Ja!}
@@ -43,5 +43,4 @@
 {140}{}{Hola otra vez. Todavía seguir de guardia aquí.}
 {141}{}{}
 {142}{}{¡Arrrrrrrrrgggh! ¡Morir!}
-
 {143}{}{.}

@@ -44,7 +44,7 @@
 {143}{}{Bien, no importa entonces.}
 {144}{}{Podrías mirar en la computadora central del Refugio, para ver si tiene coordenadas de cualquier otro Refugio. Lo dudo, pero comprobarlo no hará daño.}
 {145}{}{Bien, si tuvieras acceso a nuestra computadora central del Refugio, tal vez podrías encontrar alguna mención a otros Refugios. Pero sólo se permite a los Ciudadanos entrar en el Refugio.}
-{146}{}{G-gracias}
+{146}{}{Tanques}
 {147}{}{¿Te importa si te pregunto otra cosa?}
 {148}{}{Gracias por la información.}
 {149}{}{Hola, bienvenido de nuevo. ¿Hay algo que pueda hacer por ti?}
@@ -55,7 +55,7 @@
 {154}{}{¿Por casualidad no habrá un GECK almacenado?}
 {155}{}{Valerie, de mantenimiento, dijo que podría necesitar una nueva llave y algunos alicates.}
 {156}{}{El consejero McClure dijo que tenías un... eh, no se qué-hidromagneto que me podría llevar para la central nuclear de Gecko.}
-{157}{}{El Consejero McClure dijo que tenías almacenado un regulador hidroeléctrico magnetosférico que me podría llevar.}
+{157}{}{El consejero McClure dijo que tenías almacenado un regulador hidroeléctrico magnetosférico que me podría llevar.}
 {158}{}{La Primer Ciudadano me envió aquí para solicitar mi recompensa.}
 {159}{}{Hoy nada, en realidad.}
 {160}{}{Esta es la oficina de Servicios. Tiene el surtido típico... necesidades básicas, algunos libros, manuales de "cómo se hace", ciertas herramientas, estimulantes, suministros médicos, un poco de esto y de aquello.}
@@ -65,7 +65,7 @@
 {164}{}{El consejero McClure dijo que tenías un... eh, no se qué-hidromagneto que me podría llevar para la central nuclear de Gecko.}
 {165}{}{El consejero McClure dijo que tenías almacenado un regulador hidroeléctrico magnetosférico que me podría llevar.}
 {166}{}{La Primer Ciudadano me envió aquí para solicitar mi recompensa.}
-{167}{}{¿Te importa si te pregunto otra cosa?}
+{167}{}{Te importa si te hago otra pregunta?}
 {168}{}{Puede que vuelva en algún otro momento.}
 {169}{}{Bueno, lamento decírtelo, pero sólo estoy autorizado a hacer transacciones con Ciudadanos. Sin ánimo de ofender, pero son las reglas, ¿sabes? Puedes intentarlo con Feliz Harry, en el Patio.}
 {170}{}{Bueno, lamento decírtelo, pero sólo estoy autorizado a hacer transacciones con Ciudadanos. Sin ánimo de ofender, pero son las reglas, ¿sabes? Puedes intentarlo con Feliz Harry, en el Patio.}
@@ -74,7 +74,7 @@
 {173}{}{Mira, mi dinero es igual de bueno que el de cualquier Ciudadano.}
 {174}{}{El consejero McClure dijo que tenías almacenado un regulador hidroeléctrico magnetosférico que me podría llevar.}
 {175}{}{La Primer Ciudadano me envió aquí para solicitar mi recompensa.}
-{176}{}{¿Te importa si te pregunto otra cosa?}
+{176}{}{Te importa si te hago otra pregunta?}
 {177}{}{Bien. Adiós.}
 {178}{}{Puedes hacer el test de Ciudadanía. El procónsul Gregory se lo entrega a cualquier extranjero que quiere convertirse en Ciudadano. Aunque probablemente deberías hablar primero con la Primer Ciudadano Lynette. Ella dirige el cotarro por aquí.}
 {179}{}{Muy bien. ¿Dónde está?}
@@ -92,7 +92,7 @@
 {191}{}{Eh... en realidad, no tengo tiempo para comprar nada en este momento. Devuélveme los documentos, y seguiré mi camino.}
 {192}{}{Está bien. Estoy seguro de que todo está en orden.}
 {193}{}{Bien... eh, de acuerdo.}
-{194}{}{¿Te importa si te hago algunas preguntas?}
+{194}{}{¿Te importa si te algo algunas preguntas?}
 {195}{}{Te veré más tarde.}
 {196}{}{Comprobación finalizada. Aquí están tus documentos. ¿Qué puedo hacer por ti?}
 {197}{}{Déjame ver lo que tienes a la venta.}
@@ -109,13 +109,13 @@
 {208}{}{Comprendo. Gracias por la pieza.}
 {209}{}{Sí, la Primer Ciudadano dijo que se pasaría por aquí... capitán. (Guiño). Déjeme decirle, capitán, que tiene a una BELLEZA esperándole.}
 {210}{}{Sí, la Primer Ciudadano dijo que te pasarías por aquí. Bien, déjame decirte, amigo, que tienes a una BELLEZA esperándote.}
-{211}{}{¿Qué es?}
+{211}{}{¿Qué es eso?}
 {212}{}{En realidad, guárdala para mí. La recogeré más tarde.}
 {213}{}{Nada menos que una Heckler and Koch G11, una de las mejores armas de asalto jamás construidas...(sopesa el arma, y te la pasa)... dispara cartuchos de 4.7 mm sin carcasa, en cargadores de 50 balas. Cuando esto habla, la gente escucha.}
 {214}{}{Apuesto a que sí. Gracias.}
 {215}{}{No hay problema. Además, mira... tengo conmigo un par de granadas de fragmentación. Considéralo mi forma de darte las gracias por eliminar a esos saqueadores.}
 {216}{}{Fantástico. ¿Puedo ver qué más tienes a la venta?}
-{217}{}{¿Puedo preguntarte alguna otra cosa?}
+{217}{}{¿Puedo hacerte alguna otra pregunta?}
 {218}{}{Gracias. Les daré buen uso.}
 {219}{}{¿Suficiente?}
 {220}{}{Te importa si te hago otra pregunta?}
@@ -126,6 +126,5 @@
 {225}{}{!}
 {226}{}{, ¿eh? Espera un momento, voy a buscarte el regulador hidroeléctrico magneto... eh, el Hi-Mag.}
 {227}{}{, ¿verdad? Espera un momento, voy a buscarte el regulador hidroeléctrico magneto... eh, el Hi-Mag.}
-
 {228}{}{Gracias.}
 {229}{}{[continuar]}

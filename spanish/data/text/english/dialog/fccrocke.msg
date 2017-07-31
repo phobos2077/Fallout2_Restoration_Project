@@ -17,7 +17,7 @@
 {116}{}{Nada. Olvídalo.}
 {117}{}{Soy Crocket. Soy un científico y un arreglalotodo. ¿Puedo seguir haciéndolo?}
 {118}{}{No. Tengo más preguntas.}
-{119}{}{Sí, desde luego.}
+{119}{}{Sí, claro.}
 {120}{}{Desarrollo nuevas tecnologías y consigo mi trozo de la tarta cultista, no sé si me entiendes.}
 {121}{}{¿Así que no eres un Hubologista?}
 {122}{}{Entiendo. Tengo más preguntas.}
@@ -60,7 +60,7 @@ Inténtalo, amiguete. Vas a tener a unos guardias encargándose de tu culo y nunca
 {155}{}{Hmm. Tengo más preguntas que te quería hacer.}
 {156}{}{No está mal del todo. Nos vemos.}
 {157}{}{Veamos... he construido un reactor nuclear para la nave espacial. He creado el proceso de mejora para la servoarmadura. Y arreglo las cosas que están rotas.}
-{158}{}{Ya veo. Bien, tengo más preguntas.}
+{158}{}{Ya veo. Bueno, tengo más preguntas.}
 {159}{}{Hmm. He de irme. Adiós.}
 {160}{}{Oye, que no tengo nada contra ti. No me hagas daño.}
 {161}{}{Tengo algunas preguntas para ti.}

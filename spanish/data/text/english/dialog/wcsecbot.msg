@@ -4,6 +4,5 @@
 {106}{}{¡Destruir objetivo!}
 {107}{}{¡Error de funcionamiento del sistema de seguridad!}
 {108}{}{¡Error de sistema!}
-
 {150}{}{Parece que has desactivado al robot.}
 {151}{}{Parece que has reparado completamente al robot.}

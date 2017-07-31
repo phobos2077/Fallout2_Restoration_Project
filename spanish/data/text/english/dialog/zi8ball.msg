@@ -1,7 +1,4 @@
-# EXAMINES
 {151}{}{}
-
-# USE MESSAGES
 {199}{}{¿Qué clase de puta pregunta es esa?}
 {200}{}{Buenas perspectivas.}
 {201}{}{Perspectivas no muy buenas.}
@@ -32,7 +29,6 @@
 {226}{}{Estoy enfermando.}
 {227}{}{Tengo náuseas.}
 {228}{}{Tus manos están calientes.}
-# 9 or greater luck
 {229}{}{Feargus estaba en contra de incluirme en el juego. Es un auténtico capullo.}
 {230}{}{Tu puntuación es de 23 sobre 100. Todavía tienes bastantes caminos que seguir.}
 {231}{}{Scott Everts suspira mucho cuando ve cuántos objetos de inventario hay en el juego.}

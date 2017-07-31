@@ -3,9 +3,9 @@
 {102}{}{Ves a una persona con una servoarmadura de aspecto muy avanzado.}
 {103}{}{¿Quién anda ahí?}
 {104}{}{Muévete.}
-{105}{}{¿Qué es lo que miras?}
-{106}{}{Muévete.}
-{107}{}{Prohibido estarse quieto.}
+{105}{}{¿Qué estás mirando?}
+{106}{}{Sigue avanzando.}
+{107}{}{No vagabundees.}
 {108}{}{Informaré sobre tu conducta.}
 {109}{}{Regresa al trabajo.}
 {110}{}{¿Tienes permiso para esta sección?}

@@ -1,20 +1,13 @@
-# QUICK LOOK
 {100}{}{Ves a un matón grandote.}
 {101}{}{Ves a Rico.}
-
-# EXAMINE
 {150}{}{Ves a un hombre grande, de rostro pétreo. Parece capaz de masticar ladrillos.}
 {151}{}{Ves a Rico, el guardaespaldas de Monte. Parece capaz de masticar ladrillos.}
-
-# 1. FLOAT DIALOGUE
 {175}{}{Hurggg}
 {176}{}{Hnrfff}
 {177}{}{Snffff}
 {178}{}{Urb-luu}
 {179}{}{Klurgggg}
 {180}{}{Oog}
-
-# 2. CLICK DIALOGUE
 {200}{}{Yo amigo de Monte. ¿TÚ amigo de Monte?}
 {201}{}{Golpeo a gente que Monte me dice.}
 {202}{}{Golpeo gente.}

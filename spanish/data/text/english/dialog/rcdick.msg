@@ -30,7 +30,7 @@
  Sentí como si fuéramos volando con el Jet hacia el gran aeropuerto del cielo. Nadie tiene mucho interés en tomarlo de nuevo.
  Sólo la idea me hace enfermar.}
 {126}{}{Déjame hacerte otra pregunta.}
-{127}{}{¿Jet? Qué es el Jet?}
+{127}{}{¿Jet? ¿Qué es el Jet?}
 {128}{}{Ya veo. Adiós.}
 {129}{}{Hola. Mi nombre es Athabaska Dick. La mayoría de la gente me llama Dick.
  También hay alguno que me llama Athabaska, por supuesto. Aunque la mayoría me llama Dick.}
@@ -45,32 +45,32 @@
 {138}{}{Oye, Dick… ¿cómo le está yendo al pueblo últimamente?}
 {139}{}{¿Has oído algún rumor interesante?}
 {140}{}{¿Qué quieres decir con "Al-tabasco"?}
-{141}{}{¿Qué pasa contigo?}
-{142}{}{¿Qué te pasa?}
+{141}{}{¿Qué es lo que te pasa?}
+{142}{}{¿Qué te sucedió?}
 {143}{}{De vez en cuando trabajo una temporada en la Morningstar. Siempre pueden requerir de ayuda experimentada.}
-{144}{}{Entonces, déjame hacerte otra pregunta.}
-{145}{}{Entiendo. Bien, eso es todo lo que necesitaba saber. Adiós.}
+{144}{}{Entonces deja que te pregunte otra cosa.}
+{145}{}{Lo entiendo. Bien, eso es todo lo que necesitaba saber. Adiós.}
 {146}{}{Bueno, no mucho últimamente... excepto lo de esos cabrones de wanamingos.}
 {147}{}{¿"Juan-amigos"? ¿Qué narices es eso?}
-{148}{}{De acuerdo. Déjame hacerte otra pregunta.}
-{149}{}{Bueno, eso es todo lo que necesitaba saber. Adiós.}
+{148}{}{Por supuesto. Deja que te pregunte otra cosa.}
+{149}{}{Bien, eso es todo lo que necesitaba saber. Adiós.}
 {150}{}{Atha-baska, Athabaska. Por el amor de Dios, no es tan difícil de decir, ¿no? Ese es mi apodo ahora.
  ¿De veras quieres saber cómo conseguí mi apodo?}
-{151}{}{Eh, la verdad es que no. Déjame hacerte otra pregunta.}
-{152}{}{Creo que es todo lo que necesito saber. Adiós.}
+{151}{}{Eh, en realidad no. Déjame preguntarte otra cosa.}
+{152}{}{Creo que eso es todo lo que necesito saber. Adiós.}
 {153}{}{¡Qué asco! Estoy más enfermo que un perro y he estado gimiendo durante días... desde esa última dosis de Jet. Algo debe haber ido mal con ese lote. Si sobrevivo a esto, nunca volveré a probarlo.}
-{154}{}{No suena bien. Pregúntame otra cosa, entonces.}
-{155}{}{Entiendo. Bien, eso es todo lo que necesitaba saber. Adiós.}
+{154}{}{Suena mal. Entonces deja que te pregunte otra cosa.}
+{155}{}{Lo entiendo. Bien, eso es todo lo que necesitaba saber. Adiós.}
 {156}{}{Lo hice. Todavía no me siento muy bien por esto. Pero creo que me beneficiaré de ello.}
-{157}{}{¿Qué quieres decir? ¿Qué ocurre?}
+{157}{}{¿Qué quieres decir? ¿Qué sucedió?}
 {158}{}{¿Me estás diciendo que nunca has oído hablar de los wanamingos?}
 {159}{}{Uh, bien, um. He oído algo sobre los wanamingos. Déjame preguntarte otra cosa.}
-{160}{}{No, nunca he oído nada. Háblame de ellos.}
+{160}{}{No, nunca he oído hablar de algo así. Háblame sobre ello.}
 {161}{}{Nunca he oído hablar de los Wana-comosellamen, y ahora no tengo tiempo que perder con tus historias de hoguera. Adiós.}
 {162}{}{Dejé el vicio: eso es lo que pasó. No he vuelto a tomar Jet. Esa última dosis casi me mata. 
  Descubrí que no quería esto, después de todo. Desde entonces no quiero nada de Jet.}
-{163}{}{Bueno, bien por ti, supongo. Déjame preguntarte otra cosa.}
-{164}{}{Interesante. Bien, dejaré que te recuperes. Adiós.}
+{163}{}{Bueno, bien por ti, supongo. Deja que te pregunte algo.}
+{164}{}{Interesante. Bueno, te dejaré con tu recuperación. Adiós.}
 {165}{}{Bueno, algunos dicen que estuvieron aquí antes de que las bombas A, bombas H, y todas las demás explotaran. Otros dicen
  que fueron ge-ne-ti-ca-men-te modificados como armas. Y hay algunos que dicen que son de otro planeta.}
 {166}{}{¿Qué SON? A quién le importa de donde vengan, sólo dime qué son.}
@@ -127,27 +127,27 @@
 {201}{}{Creo que he oído todo lo necesario sobre los wanamingos. Déjame preguntarte algo más.}
 {202}{}{Estaré atento a cualquiera que quiera entrometerse. Adiós.}
 {203}{}{Ascorti es el alcalde. Está a cargo de El As de Ascorti, en el centro de la ciudad. Se dedica a comprar y vender muchas cosas. Está metido en todo tipo de chanchullos.}
-{204}{}{Ascorti es el alcalde de Redding. Pero no sé bien donde está. No lo he visto en los alrededores
- durante un tiempo.}
-{205}{}{Déjame preguntarte otra cosa.}
+{204}{}{Ascorti es el alcalde de Redding. Pero no sé exactamente dónde está. Hace tiempo que no
+ me he topado con él.}
+{205}{}{Déjame preguntarte algo más.}
 {206}{}{Oh, está bien. Bueno, continúa con el resto de tu historia.}
-{207}{}{Creo que ya he escuchado bastante. Adiós.}
+{207}{}{Creo que ya te he escuchado un tiempo más que suficiente. Adiós.}
 {208}{}{El Jet es una cosita de Nuevo Reno. Apenas tomo lo suficiente para calmar mis nervios maltrechos.}
-{209}{}{Déjame preguntarte otra cosa.}
+{209}{}{Déjame hacerte otra pregunta.}
 {210}{}{Interesante. Gracias y adiós.}
 {211}{}{El Jet es el camino a seguir, hombre. Si no estoy colocado con Jet, no me siento nada bien. Deberías conseguir un poco para ti.}
-{212}{}{Déjame preguntarte otra cosa.}
+{212}{}{Déjame hacerte otra pregunta.}
 {213}{}{Interesante. Gracias y adiós.}
 {214}{}{No puedo hacerlo sin tomar algo de Jet. Todo el mundo está colocándose últimamente. Hay que conseguirlo aunque solo sea para tenerlo. 
  Joder, no me siento muy bien con él, pero sin él me siento hecho una mierda.}
-{215}{}{Déjame preguntarte otra cosa.}
+{215}{}{Déjame hacerte otra pregunta.}
 {216}{}{Interesante. Gracias y adiós.}
 {217}{}{El Jet es malo, hombre. Todo el mundo que lo esté tomando como un enfermo va a morir. Creo que mejor…
 (se retuerce y sufre un seco tirón)… lo siento. Dime, compañero, ¿podemos hablar sobre otra cosa?}
-{218}{}{Claro, lo siento. Déjame preguntarte otra cosa.}
+{218}{}{Claro, lo siento. Deja que te pregunte algo más.}
 {219}{}{Interesante. Gracias y adiós.}
 {220}{}{No quiero oír nunca nada más sobre esa puta mierda de Jet. Esa sustancia nos matará. Esa puta asquerosidad
  es peor que un escorpión rad venenoso. No puedo creer que una vez me gustara esa sustancia. Esa última vez… pensé
  que era el final.}
-{221}{}{Déjame preguntarte otra cosa.}
+{221}{}{Déjame hacerte otra pregunta.}
 {222}{}{Interesante. Gracias y adiós.}

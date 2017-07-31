@@ -1,8 +1,3 @@
-#############################################################
-#  Asaltante/Incursor/Claim Jumper (Encuentros)             #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un incursor.}
 {101}{}{Nosotros llegamos aquí antes.}
 {102}{}{Búscate otro sitio que asaltar.}

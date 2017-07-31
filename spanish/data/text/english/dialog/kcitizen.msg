@@ -1,32 +1,5 @@
-#############################################################
-#  Message File: kcitizen.msg                               #
-#                                                           #
-#       Body Type:  NAROBE                                  #
-#       Combat AI: Flee                                     #
-#       Weapons: None                                       #
-#       HP: 20                                              #
-#       Skills to note: None                                #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: January 13, 1998                                #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-#############################################################
-#  Vecinos (Klamath)   		                            #
-#############################################################
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
-{100}{}{Ves a uno de los habitantes de Klamath.}
+{100}{}{Ves a una de las habitantes de Klamath.}
 {101}{}{Ves a una de las habitantes de Klamath.}
-
-#############################################################
-#  The following lines are floaters for citizens            #
-#############################################################
-
 {150}{}{¿Por qué no te vuelves a tu tribu?}
 {151}{}{Te daré unos bonitos collares si me dejas tranquilo.}
 {152}{}{Tribal bonito, tribal bueno, no me hagas daño.}
@@ -39,7 +12,6 @@
 {159}{}{No queremos que causes problemas.}
 {160}{}{Debes haber venido del norte de La Guarida.}
 {161}{}{Lo último que necesitamos son más de los tuyos.}
-
 {170}{}{Hola, forastero.}
 {171}{}{Espero que la caza sea buena esta temporada.}
 {172}{}{Últimamente han desaparecido un montón de brahmines.}
@@ -59,7 +31,6 @@
 {186}{}{No hay descanso para el pobre.}
 {187}{}{Me duelen las articulaciones; debe estar cambiando el tiempo.}
 {188}{}{El viento está soplando más fuerte.}
-
 {190}{}{Me alegro de verte.}
 {191}{}{¿Hay más gente como tú en tu tribu?}
 {192}{}{Espero que te guste Klamath.}
@@ -72,14 +43,9 @@
 {199}{}{Ten cuidado con los geckos que han cambiado de color.}
 {200}{}{Hola, viajero.}
 {201}{}{Me alegro de tenerte en Klamath.}
-{202}{}{Saludos, forastero.}
+{202}{}{Hola, extranjero.}
 {203}{}{Ten cuidado con los Dunton; son peligrosos.}
 {204}{}{El barrio de los tramperos está plagado de ratas.}
-
-
-#############################################################
-#  TELL ME ABOUTS WILL BE REMOVED                           #
-#############################################################
 {1000}{}{Anciana}
 {1001}{}{Fundador}
 {1002}{}{Morador del Refugio}
@@ -89,10 +55,9 @@
 {1006}{}{Elegido}
 {1007}{}{Chamán}
 {1008}{}{Hakunin}
-{1009}{}{Polvo curativo}
+{1009}{}{Polvos curativos}
 {1010}{}{Puente}
 {1011}{}{Mynoc}
-
 {1100}{}{La Anciana es tu madre y nuestra líder.}
 {1101}{}{Nuestro gran antepasado que nos trajo conocimiento.}
 {1102}{}{El primero en luchar y vencer al caos.}

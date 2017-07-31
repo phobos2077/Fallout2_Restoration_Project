@@ -89,12 +89,12 @@
 {188}{}{No.}
 {189}{}{Oh, está bien. Lo haré.}
 {190}{}{¿Desobedeces las órdenes de AHS-9, el Grande y Terrible? Entonces debes morir.}
-{191}{}{Adelante.}
+{191}{}{¡Vamos!}
 {192}{}{Espera, he cambiado de opinión.}
 {193}{}{Demasiado tarde, trozo de carne. Has demostrado que no eres de confianza. ¡Muere!}
-{194}{}{-hecho-}
+{194}{}{HECHO}
 {195}{}{Hijo, hay algunas cosas que no estás destinado a conocer por ahora [sonríe beatíficamente].}
-{196}{}{Está bien. Tengo más preguntas.}
+{196}{}{Bien. Tengo más preguntas.}
 {197}{}{Hm. Adiós.}
 {198}{}{El ESS Quetzel se lanzará cuando las estrellas sean propicias. }
 {199}{}{Pues vale. Tengo más preguntas.}
@@ -107,7 +107,7 @@
 {206}{}{No, creo que no.}
 {207}{}{Tenemos un trato, gordinflón.}
 {208}{}{Entonces ve a herir a esas almas molestas. Espero saber de tu éxito [sonríe beatíficamente].}
-{209}{}{Hasta luego.}
+{209}{}{Hasta la vista.}
 {210}{}{No, espera, he cambiado de opinión. Te quiero muerto.}
 {211}{}{Ah, hijo, ¿cómo has podido desviarte del camino de la verdad de esta manera? Veo en tu aura que planeas matarme. Estoy amargamente decepcionado. Muy amargamente. Ah, en fin. Hagámoslo.}
 {212}{}{Sí, hagámoslo. Muere.}

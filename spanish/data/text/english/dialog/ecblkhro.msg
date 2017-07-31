@@ -1,8 +1,3 @@
-#############################################################
-#  Héroe Negro (Encuentros)            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un... modelo de héroe de raza negra.}
 {101}{}{Ves a un hombre negro muy musculoso con un traje del Refugio 13. Te mira con resentimiento.}
 {102}{}{Ves a un héroe de raza negra. Te mira con resentimiento.}
@@ -13,4 +8,3 @@
 {107}{}{Soy negro. Ya te lo 'puedes' imaginar.}
 {108}{}{Cada vez que crees que has dado un paso adelante, los blanquitos cambian las reglas.}
 {109}{}{Ojalá pudiera ponerle las manos encima a...}
-

@@ -1,8 +1,3 @@
-#############################################################
-#  GUerrero tribal? (Encuentros)             #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {150}{}{Vete de nuestra tierra.}
 {151}{}{Has entrado sin permiso.}
 {152}{}{Esta es nuestra tierra.}

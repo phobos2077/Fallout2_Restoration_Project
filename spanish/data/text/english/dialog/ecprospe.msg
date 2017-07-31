@@ -1,9 +1,4 @@
-#############################################################
-#  Prospector (Encuentros)            #
-#  Traducido por Wenck                                      #
-#############################################################
-
-{100}{}{Ves a un Prospector.}
+{100}{}{Ves a un ladrón.}
 {101}{}{Quieto ahí, forastero. No suelo emboscar a extraños, pero necesito suministros y no puedo abandonar mi prospección. ¿Hace un trueque rápido?}
 {102}{}{Claro.}
 {103}{}{No tengo nada para cambiar. Lo siento.}
@@ -22,4 +17,3 @@
 {116}{}{Sólo quería unos suministros.}
 {117}{}{¡Puedes quedarte mi prospección!}
 {118}{}{¡Piedad!}
-

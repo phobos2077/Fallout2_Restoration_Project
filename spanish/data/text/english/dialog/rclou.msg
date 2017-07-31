@@ -78,28 +78,28 @@
  con ella después de que ese bastardo la dejara así. Le dí algún dinero y la dejé marcharse.}
 {164}{}{¿Sabes quién lo hizo?}
 {165}{}{¿Sabes lo que sucedió?}
-{166}{}{Déjame que te pregunte algo más.}
+{166}{}{Déjame hacerte otra pregunta.}
 {167}{}{Solucionaré esto para ti. Puedes contar conmigo. Adiós.}
 {168}{}{No sé exactamente quién fue, pero la chica tenía cartas de pago de la mina Morningstar cuando la
  encontramos, y era un minero quien estuvo con ella la última vez.}
 {169}{}{¿Puedo ver a la chica?}
 {170}{}{¿Sabes lo que sucedió?}
 {171}{}{¿Cartas de pago de la mina Morningstar? ¿Qué es eso?}
-{172}{}{Deja que te pregunte algo más.}
+{172}{}{Déjame hacerte otra pregunta.}
 {173}{}{Solucionaré esto para ti. Puedes contar conmigo. Adiós.}
 {174}{}{Bueno, había algunos gritos escandalosos, así que fui a la habitación. Cuando llegué, el
  bastardo que lo hizo ya se había ido y mi chica estaba realmente mal. Así que avisé al doctor y después el
  sheriff. El resto ya lo sabes.}
 {175}{}{¿Sabes quién lo hizo?}
 {176}{}{¿Puedo ver a la chica?}
-{177}{}{Déjame que te pregunte algo más.}
+{177}{}{Déjame hacerte otra pregunta.}
 {178}{}{Solucionaré esto para ti. Puedes contar conmigo. Adiós.}
 {179}{}{En la parte norte de la ciudad Dan McGrew dirige la mina Morningstar. Generalmente, a los mineros se les paga
  a cuenta o con vales de cada mina... ya sabes, cartas de pago. Bien, mi chica tenía una de esas
  cartas de pago en la mano. Aquí está. Échale un vistazo. (Te entrega la carta).}
 {180}{}{Oh, ya veo. ¿Puedo ver a la chica?}
 {181}{}{Oh, ya veo. ¿Sabes qué ocurrió?}
-{182}{}{Déjame preguntarte algo más.}
+{182}{}{Déjame hacerte otra pregunta.}
 {183}{}{Solucionaré esto para ti. Puedes contar conmigo. Adiós.}
 {184}{}{Bien, desde luego me alegra que alguien esté trabajando en ello. Este tipo de cosas no son buenas, se mire como se
  mire. Desde luego espero que le hagas pagar a ese bastardo por lo que le hizo a mi chica. Asegúrate de que jamás pueda
@@ -145,7 +145,7 @@
  una santa, Lou. Adiós.}
 {215}{}{Así que tú eres el tonto que le está dando a mi Fannie todo ese dinero. Yo no lo haría si fuera tú. No le
  estás ayudando como crees que lo haces.}
-{216}{}{¿A qué te refieres?}
+{216}{}{¿Qué quieres decir?}
 {217}{}{La estoy ayudando a iniciar una nueva vida.}
 {218}{}{Sí, lo que se sea. Hablemos de otra cosa.}
 {219}{}{Lo que quiero decir es que Fannie tiene un problema y el dinero no es la respuesta. Odio romperte
@@ -163,3 +163,11 @@
 {226}{}{Ya he oído todo eso antes. Pongamos manos a la obra en otro tema.}
 {227}{}{Gracias, tendré que pensar en lo que me has contado. Pero déjame preguntarte otra cosa.}
 {228}{}{Tendré que pensar en eso. Adiós.}
+{229}{}{Hmmm...I may have a solution to that. [Give Lou the jet antidote]}
+{230}{}{¿Qué ha pasado?}
+{231}{}{It'll get the addiction out of her system. The next time she orders a drink, slip this into it.}
+{232}{}{¿Querías algo más?}
+{233}{}{Hola, Lou. Me interesa conseguir alguna cosa de por aquí.}
+{234}{}{¿Qué está ocurriendo en el pueblo?}
+{300}{}{Has ayudado a Valerie a conseguir herramientas nuevas.}
+{301}{}{Adiós.}

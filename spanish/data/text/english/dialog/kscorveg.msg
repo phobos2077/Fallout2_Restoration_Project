@@ -1,7 +1,3 @@
-#############################################################
-#  Highwayman (Klamath)   		                    #
-#############################################################
-
 {100}{}{Un viejo Highwayman destrozado.}
 {110}{}{Este vehículo está en mucho peor estado de lo que parece... nada hará que vuelva a funcionar. Sin embargo, parece que una caja de repuestos de motor en el asiento trasero se ha conservado en buen estado.}
 {111}{}{Este vehículo está en mal estado. Sin embargo, tiene un paquete en el asiento trasero.}

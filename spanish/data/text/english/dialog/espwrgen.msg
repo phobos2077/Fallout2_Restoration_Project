@@ -1,8 +1,3 @@
-#############################################################
-#  Generador (Encuentros)             #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Este generador parece muy dañado.}
 {101}{}{Crees que puedes ser capaz de repararlo.}
 {102}{}{Es un generador que apenas funciona.}
@@ -12,5 +7,4 @@
 {106}{}{Sólo un poquito más.}
 {107}{}{Parece imposible de arreglar.}
 {108}{}{Las luces centellean escasamente mientras el generador vuelve a funcionar con un estruendo.}
-
 {200}{}{Has reparado con éxito el generador.}

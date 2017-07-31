@@ -1,13 +1,8 @@
-#############################################################
-#  Parroquiano de Casa Buckner (Klamath)   		    #
-#############################################################
-
 {100}{}{Ves a alguien que podría ser un trampero.}
 {101}{}{Ves a alguien relajándose.}
-{102}{}{Ves a un vecino de Klamath.}
+{102}{}{Ves a un vecino del pueblo.}
 {103}{}{Ves a un trabajador relajándose.}
 {104}{}{Ves a una persona disfrutando de una bebida.}
-
 {150}{}{Estás en la taberna equivocada, ¿no?}
 {151}{}{No queremos alborotadores por aquí.}
 {152}{}{Los tribales siempre traéis problemas.}
@@ -29,11 +24,10 @@
 {168}{}{Estoy seguro de que eres el responsable de la mutilación de ganado.}
 {169}{}{Algunos de los cazadores han desaparecido y probablemente tú seas la causa.}
 {170}{}{Hay hombres bicho asustando al pueblo.}
-{171}{}{Hay un espíritu en un cañón al oeste del pueblo.}
+{171}{}{Hay un espíritu en un cañón al este del pueblo.}
 {172}{}{¡No dejes que los espíritus te pillen!}
 {173}{}{Será mejor que no se te ocurra robar nuestro ganado.}
-{174}{}{No te voy a quitar el ojo de encima.}
-
+{174}{}{Te estamos vigilando.}
 {201}{}{Me alegra ver a alguien nuevo en el pueblo.}
 {202}{}{Parece que los tribales no son tan malos después de todo.}
 {203}{}{¡Invítanos a una ronda!}

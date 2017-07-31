@@ -18,8 +18,8 @@
 {114}{}{¿Sabes algo del Refugio?}
 {115}{}{Tomaré una cerveza.}
 {116}{}{Que sea un trago de whisky.}
-{117}{}{¿Qué tienes para beber?}
-{118}{}{Hoy nada, gracias. Adiós.}
+{117}{}{¿Qué pasa por aquí?}
+{118}{}{Nada hoy, gracias. Adiós.}
 {119}{}{¿Por aquí? Lo mismo de siempre, que es nada. Me aburre lo indecible casi todo el tiempo.
  ¿Por qué, estás buscando algo?}
 {120}{}{¿Qué tienes para beber?}

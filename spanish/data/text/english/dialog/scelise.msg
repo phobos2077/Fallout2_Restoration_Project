@@ -2,7 +2,7 @@
 {101}{}{Es Elise.}
 {102}{}{Tiene un aire de suficiencia, como si estuviera acostumbrada a dar órdenes y que la gente las obedezca.}
 {103}{}{¿Qué quieres?}
-{104}{}{¿Tú otra vez?}
+{104}{}{¿Otra vez tú?}
 {105}{}{Karl me envió.}
 {106}{}{Doc Jubilee dijo que debería hablar contigo.}
 {107}{}{¿Quién eres?}
@@ -76,11 +76,8 @@
 {175}{}{¡Un esclavista! Sal de aquí antes de que te borre ese tatuaje con una bala!}
 {176}{}{Claro.}
 {177}{}{¡Inténtalo!}
-
 {178}{}{Tenemos agentes y simpatizantes en algunas ciudades del norte. Estamos corriendo la voz y golpeando a los esclavistas siempre que podemos.}
 {179}{}{Hola otra vez. ¿Has cambiado de opinión acerca de unirte a nosotros?}
 {180}{}{No importa.}
-
-
 {181}{}{Eso no te pertenece. Ahora vete o me enfadaré.}
 {182}{}{¡No sé lo que le hiciste a Gond, pero vas a pagar por ello!}

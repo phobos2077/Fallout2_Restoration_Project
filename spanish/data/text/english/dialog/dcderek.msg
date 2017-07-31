@@ -1,15 +1,7 @@
-#############################################################
-#  Derek (The Den)     	                                    #
-#############################################################
-
-# 0. Look
 {100}{}{Ves a un habitante de La Guarida.}
 {101}{}{Ves a Derek.}
-
 {150}{}{Parece bastante ágil.}
-
-# 1.  Night (From Where to go)
-{200}{}{Vete de aquí ahora.}
+{200}{}{Lárgate.}
 {201}{}{Estoy demasiado cansado para hablar.}
 {202}{}{Vete de mi sitio.}
 {203}{}{Búscate tu propio sitio para dormir.}
@@ -17,8 +9,6 @@
 {205}{}{Estoy agotado.}
 {206}{}{¡Oh!}
 {207}{}{Eh, ¿qué estás haciendo aquí?}
-
-# 2. Floats before Quest 2 (From Where to go)
 {220}{}{Aléjate de Metzger, tribal.}
 {221}{}{¿Por qué siempre hace tanto calor?}
 {222}{}{¿Por qué vivimos en el desierto?}
@@ -28,8 +18,6 @@
 {226}{}{¿Por qué siempre me toca bailar con la más fea?}
 {227}{}{La gente siempre me está jodiendo.}
 {228}{}{Fred es un iluso: plan maestro, y una mierda.}
-
-# 3. Floats after Job 2, and having talk to him (From Where to go)
 {240}{}{¡Shhhh! Están por todas partes...}
 {241}{}{¡Haz que paren!}
 {242}{}{¿Así que has encontrado ese maldito libro?}
@@ -43,32 +31,22 @@
 {250}{}{Oh, ahora si que me duele la cabeza.}
 {251}{}{¡Soy un gran maestro cocinero!}
 {252}{}{Nunca envenenaría la comida de un novato.}
-
-# 4. 1st Time, On Job (From Where to go)
 {260}{}{Eh, ¿buscas algo de pan recién hecho?}
 {261}{}{Sí.}
 {262}{}{Estoy buscando el libro de Becky.}
 {263}{}{No, adiós.}
-
-# 5. Next Times (From Where to go)
 {270}{}{Oh, hola de nuevo.}
 {271}{}{Así que, ¿dónde está el libro de Becky?}
 {272}{}{Eh, ¿qué tal si me das algo más de ese pan?}
 {273}{}{Adiós.}
-
-# 6. Bread (From 4)
 {280}{}{¡Ja! Igual que yo. ¿Te he contado lo buen cocinero que soy? Pero Becky, por alguna razón, no quiere contratarme. Dice que soy inestable.}
 {281}{}{Probablemente tenga razón.}
 {282}{}{Estoy buscando el libro de Becky.}
 {283}{}{Eso es genial. Yo tengo que... eh... irme.}
-
-# 7. She's right (From 6)
 {290}{}{¿Qué? ¡Tú! ¡Que te jodan, colega! Yo no soy... ¡oh! Joder.}
 {291}{}{¿Qué? ¡Tú! ¡Que te jodan, amiga! Yo no soy... ¡oh! Joder.}
 {292}{}{Maldición.}
 {293}{}{No hace falta decir nada más.}
-
-# 8. Looking for Book (From 4-6)
 {300}{}{Oh, sí. No me gustaba. Demasiado besuqueo. Lo tiré en la esquina de ese edificio... no ese edificio... no... ¿era un edificio? Quizás lo deje en algún otro lado... ¿o lo tiré? ¡Oh! ¡Mi cabeza!}
 {301}{}{¿Libro? Oh, ese libro. ¿Quién te envía? No sé si ese es el lado correcto. No te olvides el papel higiénico.}
 {302}{}{¡No puedo! Ellos... oh, mierda... ¿tienes el queso? ¡Huye!}
@@ -76,14 +54,10 @@
 {304}{}{¡Me duele la cabeza! ¿Qué...? ¿Quién ha dicho eso?}
 {305}{}{Eso ha sido de gran ayuda.}
 {306}{}{Uh.}
-
-# 9. More bread (From 5)
 {310}{}{¿Qué? ¡Te estás burlando de mí! ¡Que te jodan! ¡No soy inestable! ¡Sé cocinar! ¡No oigo voces!}
 {311}{}{¡Te voy a... mierda! ¡Joder! ¡Hostia! ¡Para ya! ¡Cállate! ¿Qué? Vale.}
 {312}{}{¡Eh! Deja... de hacer.. joder.}
 {313}{}{Adiós.}
-{314}{}{Nada}
-
-# 10. Dumb Floats (From Where to go)
+{314}{}{Nada.}
 {320}{}{¡Eh! ¡Aléjate de mí!}
 {321}{}{¡No me toques!}

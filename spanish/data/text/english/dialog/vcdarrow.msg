@@ -1,7 +1,7 @@
-{100}{}{Ves a una Ciudadana con un uniforme azul brillante. Es como el uniforme del Morador del Refugio, pero sin
+{100}{}{Ves a un Ciudadano con un uniforme azul brillante. Es como el uniforme del Morador del Refugio, pero sin
  un número a la espalda.}
 {101}{}{Ves a la oficial Darrow de Sub-servicios.}
-{102}{}{Ves a una Ciudadana con un uniforme azul brillante. Es como el uniforme del Morador del Refugio, pero sin
+{102}{}{Ves a un Ciudadano con un uniforme azul brillante. Es como el uniforme del Morador del Refugio, pero sin
  un número a la espalda.}
 {103}{}{::aplausos::}
 {104}{}{¡Es el héroe! ¡Mirad!}
@@ -51,6 +51,5 @@
 {145}{}{Creo que no. Adiós.}
 {146}{}{¡Oye! ¡Aléjate de aquí!}
 {147}{}{¡Ya está bien! ¡Sal de aquí!}
-
 {148}{}{Gracias.}
 {149}{}{[continuar]}

@@ -2,7 +2,7 @@
 {101}{}{Ves a Dave H.}
 {102}{}{Ves a un hombre pelirrojo con un brillo esperanzado en los ojos.}
 {103}{}{¿Por qué quieres hacernos daño?}
-{104}{}{Saludos, primer iluminado.}
+{104}{}{Como puedo ayudarte, ¿amigo?}
 {105}{}{Voy a progresar con Vikki... umm... pronto.}
 {106}{}{¿Cómo puedo ayudarte?}
 {107}{}{¿Qué quieres?}
@@ -12,10 +12,10 @@
 {111}{}{He hablado con Vikki. Ella y Juan se rieron de ti y dijeron que no eres un hombre de verdad.}
 {112}{}{He hablado con Vikki. Dice que estás para comerte y que te necesita cuanto antes.}
 {113}{}{¿Quieres que hable con Vikki por ti?}
-{114}{}{De ninguna manera. Gracias.}
+{114}{}{No importa. Adiós.}
 {115}{}{Ummm... vaaale. Lo que sea. Oye, ¿qué es eso de ahí?
 [cuando te giras para mirar, vuelve con lo que estaba haciendo y te ignora]}
-{116}{}{-hecho-}
+{116}{}{HECHO}
 {117}{}{Soy Dave Handy. Procedo de Canadá.}
 {118}{}{Entonces, ¿qué haces aquí?}
 {119}{}{¿Qué te trajo hasta aquí?}
@@ -66,7 +66,7 @@ Oh, bueno.
 {161}{}{Quiero que piratees la base de datos Shi y canalices algo de combustible al petrolero Poseidon.}
 {162}{}{Quiero que redirecciones el combustible de la nave espacial hacia el petrolero Poseidon.}
 {163}{}{Ahh, nada. Continúa y diviértete un poco.}
-{164}{}{Hecho. ¿Algo más?}
+{164}{}{Aquí está. ¿Algo más?}
 {165}{}{Necesito los planos del vertibird de vuestra computadora.}
 {166}{}{Necesito que formatees el disco duro Hubologista.}
 {167}{}{Quiero que redirecciones el combustible de la nave espacial hacia el petrolero Poseidon.}
@@ -80,7 +80,7 @@ Oh, bueno.
 {175}{}{¡Gracias! ¡Hasta luego!}
 {176}{}{Te he engañado como a un chino. ¡Hasta nunca!}
 {177}{}{Lo comprobaré yo mismo. No creo que sea seguro formatear la unidad central por el momento.}
-{178}{}{De acuerdo. Tengo más preguntas.}
+{178}{}{Bien. Tengo más preguntas.}
 {179}{}{De acuerdo. Adiós.}
 {180}{}{No, no... sería demasiado embarazoso.}
 {181}{}{Bien, bien. Tengo más preguntas.}
@@ -103,3 +103,4 @@ Oh, bueno.
 {198}{}{No, supongo que no.}
 {199}{}{Lo siento, su sistema lleva sin responder desde hace un tiempo. No hay forma de que pueda entrar en él.}
 {200}{}{Voy a progresar con Vikki... umm... pronto. ¿Puedo ayudarte?}
+{201}{}{Their system hasn't been responding for a while. Looks like someone formatted their databases. Like what I'll be doing here once I'm done with you. Anything else?}

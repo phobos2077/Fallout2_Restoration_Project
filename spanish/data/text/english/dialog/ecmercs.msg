@@ -1,8 +1,3 @@
-#############################################################
-#  Mercenario (Encuentros)     		            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un mercenario.}
 {101}{}{¡Practicas de tiro, chicos!}
 {102}{}{Blanco fácil.}

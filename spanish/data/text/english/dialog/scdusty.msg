@@ -1,7 +1,7 @@
 {100}{}{Ves a un tipo calvo y regordete, limpiando un vaso.}
 {101}{}{Es el camarero.}
 {102}{}{Es un tipo de aspecto rudo con la nariz torcida y las orejas hinchadas, como si hace años hubiera sido boxeador.}
-{103}{}{¿Qué puedo hacer por ti?}
+{103}{}{¿Qué puedo servirte?}
 {104}{}{Oye, tú eres el que hizo renunciar a Jack, ¿verdad? Ese fue un buen trabajo. ¿Qué quieres?}
 {105}{}{Claro.}
 {106}{}{Bebida.}
@@ -29,3 +29,4 @@
 {128}{}{¡Déjame invitarte a una bebida! ¡He querido golpearlo durante años!}
 {129}{}{Tengo algunas preguntas.}
 {130}{}{¡Bien! Adiós.}
+{131}{}{Boy, you sure whooped Hoss's ass good! What can I get you?}

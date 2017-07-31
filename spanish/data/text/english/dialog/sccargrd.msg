@@ -3,7 +3,7 @@
 {102}{}{Le observas detenidamente y te convences de que es un guardia.}
 {103}{}{No estás autorizado a estar aquí.}
 {104}{}{¿Puedo ver tu pase?}
-{105}{}{Esto es propiedad gubernamental. Circula, forastero.}
+{105}{}{Esto es propiedad gubernamental. Circula, extranjero.}
 {106}{}{Así que tú eres el chico nuevo, ¿eh?}
 {107}{}{Si no has hablado con Carlson, será mejor que lo hagas.}
 {108}{}{El señor Carlson te está esperando.}

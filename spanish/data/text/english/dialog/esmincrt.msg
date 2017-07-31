@@ -1,8 +1,3 @@
-#############################################################
-#  Explosivo (Encuentros)            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Quizá no deberías fijar el temporizador. Eso podría ser peligroso.}
 {101}{}{Ese explosivo no parece ser lo suficientemente potente como para despejar la entrada.}
 {102}{}{El vagón minero parece funcionar. Seguramente puedas empujarlo.}

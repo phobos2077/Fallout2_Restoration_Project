@@ -1,11 +1,5 @@
-#############################################################
-#  Niño/a (Encuentros)             #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un niño pequeño.}
 {101}{}{Ves a una niña pequeña.}
-
 {200}{}{¿Hemos llegado ya?}
 {201}{}{Estoy cansado.}
 {202}{}{¿Puedes llevarme?}

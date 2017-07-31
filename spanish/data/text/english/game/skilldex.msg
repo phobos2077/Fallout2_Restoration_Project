@@ -1,6 +1,3 @@
-#
-#   Messages from skilldex.c
-#
 {100}{}{TÉCNICAS}
 {101}{}{CANCELAR}
 {102}{}{SIGILO}
@@ -11,4 +8,3 @@
 {107}{}{DOCTOR}
 {108}{}{CIENCIA}
 {109}{}{REPARAR}
-

@@ -41,6 +41,5 @@
 {137}{}{Oh. ¿Tú bien?}
 {138}{}{Oh... bien, yo... hmmmm. ¿Estás... estás bien?}
 {139}{}{Lo dije. 'Necesitamos señales de tráfico', dije. ¿Pero me escucharon? Noooo... ¡no le hagamos caso al viejo Lumpy!}
-
-# Player float
 {200}{}{¡Oh, mierda!}
+{201}{}{Eh, no, no realmente.}

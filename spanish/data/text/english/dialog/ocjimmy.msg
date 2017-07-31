@@ -5,7 +5,7 @@
 {104}{}{Yo miro sitio.}
 {105}{}{Yo }
 {106}{}{Uh... ando por aquí. Marcho ahora.}
-{107}{}{Sólo estaba echando un vistazo.}
+{107}{}{Sólo estaba mirando.}
 {108}{}{Hola, Jim. Soy }
 {109}{}{No es asunto tuyo, cuatro ojos. Lárgate.}
 {110}{}{Sólo daba una vuelta. Ya me voy.}
@@ -47,7 +47,7 @@
 {146}{}{Vale, pero primero tú respondes preguntas mías.}
 {147}{}{De acuerdo, pero primero quiero preguntarte un par de cosas.}
 {148}{}{Este es un sistema de computadora principal y sus dispositivos de apoyo. Desde aquí se controlan en remoto todas las funciones del Refugio.}
-{149}{}{Uh... lo que has dicho.}
+{149}{}{Eh... lo que has dicho.}
 {150}{}{Ah, ya veo.}
 {151}{}{Normalmente el Supervisor del Refugio estaría situado aquí, pero el Refugio 13 fue totalmente automatizado.}
 {152}{}{¿Por qué?}
@@ -67,7 +67,7 @@
 {166}{}{¿Crees que son peligro para gente?}
 {167}{}{¿Crees que son una amenaza para la sociedad humana?}
 {168}{}{Oh, absolutamente. Físicamente son bastante superiores a nosotros, y mentalmente nuestros iguales. Eso los convierte en una gran amenaza. Sin embargo, al final todo se reduce a la moral y a la ética. Afortunadamente, parecen ética y moralmente bien desarrollados.}
-{169}{}{Yo veo.}
+{169}{}{Veo.}
 {170}{}{Sí, veo lo que quieres decir.}
 {171}{}{Hola. Encantado de verte de nuevo. ¿En qué puedo ayudarte?}
 {172}{}{Necesito hacer pregunta.}
@@ -78,7 +78,6 @@
 {177}{}{Gracias.}
 {178}{}{Gracias por arreglar la computadora. Nos has salvado el culo a todos.}
 {179}{}{¡Tengo mejores cosas que hacer que disparar a los que son como tú, pero todo el mundo necesita vacaciones!}
-
 {180}{}{. ¿Hago pregunta?}
 {181}{}{. ¿Puedo hacerte algunas preguntas?}
 {182}{}{. Me alegraría responder algunas preguntas.}

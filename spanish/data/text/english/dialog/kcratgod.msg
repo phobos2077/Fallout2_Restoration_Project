@@ -1,7 +1,3 @@
-#############################################################
-#  Keeng Ra'at - Dios Rata (Klamath)   		            #
-#############################################################
-
 {100}{}{Ves a una gran rata topo albina.}
 {101}{}{Ves al Dios Rata.}
 {102}{}{Ves a una gran rata topo albina con el cráneo agrandado. Está echando espuma por la boca.}

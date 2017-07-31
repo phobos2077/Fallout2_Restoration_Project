@@ -13,7 +13,7 @@
 {112}{}{Uno pensaría que incluso alguien como tú podría hacerlo mejor que eso.}
 {113}{}{Y yo también me estaba empezando a aburrir.}
 {114}{}{¡Sí! ¡Fiesta!}
-{115}{}{A bailar.}
+{115}{}{Bailemos.}
 {116}{}{¿Preparado para la juerga?}
 {117}{}{Oh sí, enséñame lo que sabes hacer, granuja.}
 {118}{}{Quiero ver qué aspecto tienes por dentro.}
@@ -54,7 +54,7 @@
 {153}{}{No te pases de la raya.}
 {154}{}{Juega limpio.}
 {155}{}{Que todo esté limpio y tranquilo.}
-{156}{}{Muévete.}
+{156}{}{Sigue avanzando.}
 {157}{}{Aquí no hay nada que ver.}
 {158}{}{Que tengas un buen día.}
 {159}{}{Bienvenido al local de Ascorti.}

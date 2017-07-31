@@ -31,29 +31,29 @@
 {131}{}{(Este parece que debería tener un acceso realmente bueno). Bird, D.}
 {132}{}{(Quizá debería intentarlo más tarde). Finalizar sesión.}
 {133}{}{Seleccionar: }
-{134}{}{1) O. C. N.: Operaciones de la central nuclear}
-{135}{}{2) ¿Estado de seguridad?}
+{134}{}{Descargar O. C. N.: Operaciones de la central nuclear}
+{135}{}{Estado de seguridad}
 {136}{}{Descargar O. C. N.: Operaciones de la central nuclear}
 {137}{}{Estado de seguridad}
 {138}{}{Volver al ID de Usuario:}
 {139}{}{Seleccionar: }
-{140}{}{1) Nivel de seguridad: Estado actual}
-{141}{}{2) Unidad de guerra química: Informe de estado de proyecto}
-{142}{}{3) O. C. N.: Operaciones de la central nuclear}
-{143}{}{4) ¿Estado de seguridad?}
+{140}{}{Nivel de seguridad: Estado actual}
+{141}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
+{142}{}{Descargar O. C. N.: Operaciones de la central nuclear}
+{143}{}{Estado de seguridad}
 {144}{}{Nivel de seguridad: Estado actual}
 {145}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
 {146}{}{Descargar O. C. N.: Operaciones de la central nuclear}
 {147}{}{Estado de seguridad}
 {148}{}{Volver al ID de Usuario:}
 {149}{}{Seleccionar: }
-{150}{}{1) Estado de la Nación: Estado actual, }
-{151}{}{2) (LISTA DE PALABRAS), }
-{152}{}{3) Nivel de Seguridad: Estado actual,}
-{153}{}{4) Unidad de guerra química: Informe de estado de proyecto,}
-{154}{}{5) O. C. N.: Operaciones de la Central Nuclear,}
-{155}{}{6) ¿Estado de seguridad?}
-{156}{}{Estado de la nación: Estado actual}
+{150}{}{Estado de la Nación: Estado actual}
+{151}{}{Listado de Términos}
+{152}{}{Nivel de seguridad: Estado actual}
+{153}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
+{154}{}{Descargar O. C. N.: Operaciones de la central nuclear}
+{155}{}{Estado de seguridad}
+{156}{}{Estado de la Nación: Estado actual}
 {157}{}{Descargar lista de palabras}
 {158}{}{Nivel de seguridad: Estado actual}
 {159}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
@@ -63,15 +63,15 @@
 {163}{}{Seleccionar: ¿Estado de seguridad?}
 {164}{}{Estado de seguridad}
 {165}{}{Finalizar acceso}
-{166}{}{Descarga completa.}
+{166}{}{Download failed - Security Status file missing.}
 {167}{}{Estado de la Nación: Estado actual}
-{168}{}{Descargar lista de palabras}
+{168}{}{Descargar lista de palabras.}
 {169}{}{Nivel de seguridad: Estado actual}
 {170}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
 {171}{}{Descargar O. C. N.: Operaciones de la central nuclear}
 {172}{}{Volver al ID de Usuario:}
-{173}{}{Descarga Completa.}
-{174}{}{Descargar lista de palabras}
+{173}{}{Descarga completa.}
+{174}{}{Descargar lista de palabras.}
 {175}{}{Nivel de seguridad: Estado actual}
 {176}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
 {177}{}{Descargar O. C. N.: Operaciones de la central nuclear}
@@ -108,14 +108,14 @@
 {208}{}{Volver al ID de Usuario:}
 {209}{}{Descarga completa.}
 {210}{}{Descargar Estado de la Nación: Estado actual}
-{211}{}{Descargar lista de palabras}
+{211}{}{Descargar lista de palabras.}
 {212}{}{Nivel de seguridad: Estado actual}
 {213}{}{Descargar O. C. N.: Operaciones de la central nuclear}
 {215}{}{Estado de seguridad}
 {216}{}{Volver al ID de Usuario:}
 {217}{}{Descarga completa.}
 {218}{}{Descargar Estado de la Nación: Estado actual}
-{219}{}{Descargar lista de palabras}
+{219}{}{Descargar lista de palabras.}
 {220}{}{Nivel de seguridad: Estado actual}
 {221}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
 {222}{}{Estado de seguridad}
@@ -160,3 +160,8 @@
 {261}{}{(Este es el momento clave).-Escribes febrilmente.}
 {262}{}{Detectado procedimiento ilegal. Denegados futuros accesos a este terminal… enviada alerta de mantenimiento.}
 {263}{}{Maldición. Eso no es en absoluto lo que quería.}
+{264}{}{Llave de seguridad presidencial reconocida. Buenos días, señor Presidente… Protocolo de medidas anti-insurrección iniciado… objetivo adquirido.}
+{265}{}{¿Qué otra cosa podría hacer?}
+{266}{}{Llave de seguridad presidencial reconocida. Buenos días, señor Presidente… Protocolo de medidas anti-insurrección iniciado… **Error de funcionamiento**… Enlace de seguridad desconectado en este nivel. Por favor, envíe el formulario FG-I-106-32-0635 para la autorización de servicios de reparación. Gracias por usar otro excelente producto Vault-Tec. Buenos días.}
+{267}{}{(Quizá funcione en los niveles de acceso. Hmm, eso debe significar la zona justo antes del muelle. Voy a tener que probarlo allí). Volver al ID de Usuario.}
+{268}{}{(Me pregunto qué más puedo probar). Atrás.}

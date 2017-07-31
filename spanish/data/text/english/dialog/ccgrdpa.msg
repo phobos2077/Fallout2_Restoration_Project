@@ -1,59 +1,45 @@
-#############################################################
-#  Guardia (Navarro)     		                    #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un guardia.}
 {101}{}{Ves a un guardia con servoarmadura.}
 {102}{}{Ves a alguien que lleva una servoarmadura de diseño inusual. Lleva una insignia en el peto con la que no estás familiarizado.}
-
 {103}{}{Sin novedad.}
 {104}{}{A mí no me pasa nada, ¿y a ti?}
 {105}{}{¿No deberías estar en tu puesto, soldado? No es buena idea estar vagando por aquí.}
-
 {106}{}{No llevas el uniforme.}
 {107}{}{Será mejor que te presentes ante el sargento y te vistas.}
 {108}{}{Te la estás jugando al no llevar el uniforme. Será mejor que te presentes ante Intendencia.}
-
-{109}{}{Quién demonios sois vosotros... ¡Alerta! ¡Intrusos!}
+{109}{}{¿Quién demonios sois vosotros... ¡Alerta! ¡Intrusos!}
 {110}{}{¡Hemos sufrido una infiltración! ¡Alerta!}
 {111}{}{¡Múltiples intrusos! ¡Dad la alarma!}
-
 {112}{}{¡Alerta de seguridad! ¡Sellad la base!}
 {113}{}{¡Asegurad todas las estaciones! ¡Estamos en alerta!}
 {114}{}{¡Alerta de intrusos! ¡Pasad a Código Rojo!}
-
 {115}{}{¡Te aplastaremos!}
 {116}{}{¡El Enclave dominará el mundo!}
 {117}{}{¡Tú morirás y el Enclave sobrevivirá!}
-
 {200}{}{...gilipollas...}
 {201}{}{...si, será MEJOR que huyas...}
 {202}{}{...qué lameculos...}
 {203}{}{...¡sí, señor! ¡puto señor!...}
-
-#added by killap - RP
-{300}{}{Espera ahí. ¿Qué crees que estás haciendo con ese aparato? No hay ningún vuelo programado en varios días.}
-{301}{}{¿Gne?}
-{302}{}{Estoy al tanto de eso.}
-{303}{}{Lo siento, sólo miraba. Me marcho ya.}
-{304}{}{Ha habido un cambio de planes. Me llevo este aparato.}
-
-{310}{}{¿Qué? Oh, ya veo. Mira, no lo toques. ¿Vale? Vuélvelo a tocar y te mato.}
-{311}{}{(Sonríe y luego ataca).}
-{312}{}{(Huye).}
-
-{315}{}{Oh mierda, parece que tenemos un intruso. ¡Código Rojo! Repito, ¡Código Rojo!}
-{316}{}{Eso parece una buena idea. Vuelve a tocarlo y te meto una bala en la cabeza.}
-
-{320}{}{De acuerdo. Y por lo tanto tú eres...}
-{321}{}{Ya me iba. Siento molestarte.}
-{322}{}{Voy a entregar un mensaje importante a la base.}
-{323}{}{Oh, ¿de verdad? ¿Y qué dice ese mensaje?}
-{324}{}{Es súper secreto. No puedo decírtelo.}
-{325}{}{Te lo diré, pero es absolutamente esencial que no reveles esta información a nadie para evitar un pánico en masa. Verás, ha llegado a mi conocimiento que uno de los últimos envíos de esclavos estaba infectado con una desconocida y mortal cepa de virus. DEBO llegar a la base inmediatamente, o todos podríamos morir. Ahora deja de entorpecerme, porque no hay tiempo que perder.}
-{326}{}{Siiiiiiiiiiii, te creooooooooooo. Parece que tenemos un intruso...}
-{327}{}{¡Joder! Ah, venga. Nunca me cuentan una mierda por aquí. Bien. Sigue con lo tuyo.}
-{328}{}{Dios, eso suena mal. Entonces será mejor que te muevas, no quiero semejante movida en mis manos. Oh, y no te preocupes, no se lo diré a nadie.}
-{329}{}{[HECHO]}
-
+{300}{}{Hold on there. What do you think you're doing with that aircraft? There are no scheduled flights for several days.}
+{301}{}{Nrg?}
+{302}{}{No quiero tomar parte en esto.}
+{303}{}{No, sólo pasaba por aquí. Ya me marcho.}
+{304}{}{There's been a change of plans. I'm taking this aircraft.}
+{310}{}{What? Oh, I see. Look, don't touch. Okay? Touch again and you die.}
+{311}{}{(Sonríes con calma, asientes, y luego le atacas).}
+{312}{}{(Te vas).}
+{315}{}{Oh shit, looks like we got ourselves an intruder. Code Red! I repeat, code Red!}
+{316}{}{That sounds like a good idea. Touch the aircraft again and I'll put a bullet in your head.}
+{320}{}{Aún puedo oír donde estás.}
+{321}{}{Aún no. Siento molestarte.}
+{322}{}{About to deliver an important message to the main base.}
+{323}{}{¿Oh? ¿Y qué decía ese rumor?}
+{324}{}{Lo siento. No puedo ayudarte.}
+{325}{}{I'll tell you, but it's absolutely essential that you don't disclose this information to anyone else, for fear of a
+ mass panic. You see, it's come to my attention that one of the recent shipments of slaves is infected with an unknown, and
+ highly deadly, virus strain. I *must* get to the base immediately, or all our lives could be lost. Now stop wasting my time,
+ as there isn't a moment to spare.}
+{326}{}{Vaya, tenemos un intruso entre nosotros.}
+{327}{}{Damnit! Ah, whatever. I never get told shit around here. Fine. Be on your way.}
+{328}{}{Woah, that sounds bad. You better get moving then, I don't want this shit on my hands. Oh, and don't worry, I won't tell anyone.}
+{329}{}{HECHO}

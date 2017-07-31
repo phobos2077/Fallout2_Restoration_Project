@@ -1,23 +1,16 @@
-# 0. QUICK LOOK
 {100}{}{Ves a un mercenario bien armado.}
-
-# 0. LOOK
 {150}{}{Ves a un tipo duro que lleva una armadura de cuero. Numerosas cicatrices y heridas de bala recorren su cuerpo. Su armadura y sus armas, por otra parte, parecen en buen estado, casi nuevas.}
 {151}{}{Ves a un bandido bien armado. Está examinando la zona y portando su pistola.}
-
-# 1. FLOAT DIALOGUE: INTRUDER (WTG)
-{200}{}{Vaya, qué cojonazos los de este hijo de puta...}
+{200}{}{Vaya, que cojonazos los de este hijo de puta...}
 {201}{}{¡Contacto!}
-{202}{}{¡Brecha en la zona!}
-{203}{}{¡Tenemos un intruso, chicos!}
-{204}{}{¡Dispersaos, chicos, tenemos un intruso!}
-{205}{}{Vaya, mira quién ha venido aquí a morir…}
+{202}{}{¡Perímetro roto!}
+{203}{}{¡Tenemos intrusos, muchachos!}
+{204}{}{¡A divertirse, muchachos, tenemos un intruso!}
+{205}{}{Vaya, mira quién ha venido aquí a morir...}
 {206}{}{¡Maldición! ¡Alguien nos ha encontrado!}
-{207}{}{Tienes huevos viniendo aquí…}
+{207}{}{Tienes huevos viniendo aquí...}
 {208}{}{Has venido al lugar equivocado, puta.}
-{209}{}{Vaya, mira la soberbia de esta puta...}
-
-# 2. FLOAT DIALOGUE: NORMAL (WTG)
+{209}{}{Vaya, mira cómo se pavonea esta golfa...}
 {250}{}{Salimos a beber, y él lo llamó 'hora de ajuste de actitud', así que le dimos una patada en el culo.}
 {251}{}{Tenemos que comprobar esas agrupaciones en la cueva...}
 {252}{}{Hora de volver a revisar el perímetro…}

@@ -7,7 +7,7 @@
 {106}{}{Ni siquiera puedo nadar.}
 {107}{}{Quizá pueda repararlo…}
 {108}{}{¿Por qué está sonando la alarma?}
-{109}{}{¿Qué está pasando aquí?}
+{109}{}{¿Qué ocurre aquí?}
 {110}{}{Calma todo el mundo. ¡¡¡¡¡CALMA!!!!!}
 {111}{}{Muy bien, mantengamos la calma. }
 {112}{}{Tal vez esto no sea más que un simulacro.}

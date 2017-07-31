@@ -11,7 +11,7 @@
 {110}{}{¿Quién eres?}
 {111}{}{He venido a mataros a todos.}
 {112}{}{Ah, pobre muchacho. ¿Te gustaría ser alineado?}
-{113}{}{¡Sí!}
+{113}{}{¡S-sí!}
 {114}{}{¡No!}
 {115}{}{Pobre muchacho. Ya alineado, pero aún incapaz de articular palabra. Entra.}
 {116}{}{¡G-gracias!}
@@ -20,9 +20,9 @@
 {119}{}{::su voz se endurece:: Entonces no veo razón por la que deberías ser admitido aquí. Buenos días.}
 {120}{}{¡Eh!}
 {121}{}{Muy bien. Pero date prisa: es un hombre muy ocupado.}
-{122}{}{Vale.}
+{122}{}{De acuerdo.}
 {123}{}{Este no es lugar abierto a recorridos turísticos aleatorios. Buenos días.}
-{124}{}{-hecho-}
+{124}{}{HECHO}
 {125}{}{¡Excelente! Entra, entra. Habla con Juan Cruz y Vikki Goldman: son celebridades, ya sabes, pero ellos hablarán CONTIGO.}
 {126}{}{¿Quiénes son?}
 {127}{}{¡Ooh! ¡Celebridades!}
@@ -41,7 +41,7 @@
 {140}{}{Olvídalo. Me voy de aquí.}
 {141}{}{Así que ya has hablado con Juan y Vikki. ¿Te interesa unirte a nuestros amigos en la búsqueda de la iluminación hacia la Gran Rueda?}
 {142}{}{Oh, sí. Sí sí sí.}
-{143}{}{Desde luego.}
+{143}{}{Claro.}
 {144}{}{Ahora mismo no. ¿Puedo volver?}
 {145}{}{No creo que esto sea lo mío. Lo siento.}
 {146}{}{Diablos, no. Vuestro enloquecido culto merece ser quemado en la plaza del pueblo.}
@@ -55,7 +55,7 @@
 {154}{}{Gracias por preocuparte. Nos vemos.}
 {155}{}{No creo que quisiera que me hirieran. Hasta luego.}
 {156}{}{¿Quemado? ¿QUEMARNOS? ¡GUARDIAS! ¡MATAD AL DESCREÍDO!}
-{157}{}{-hecho-}
+{157}{}{HECHO}
 {158}{}{Bien. Ya has tenido tiempo de reconsiderar tu decisión. ¿Te unirás a nosotros?}
 {159}{}{Sí.}
 {160}{}{No.}
@@ -124,10 +124,8 @@
 {223}{}{Hemos eliminado algunas de tus neurodinas más sucias. Ahora se te considera un AHS-1. ¿Estás listo para unirte a nuestra noble causa?}
 {224}{}{Oh, sí.}
 {225}{}{No. Ahora no quiero.}
-
 {226}{}{Lección 1: Aquí está la eternidad. Aquí es donde está Quetzel. [señala algo] Y aquí es donde estamos. [señala algo] Ahora, todo lo que tenemos que hacer es caminar muy lejos para llegar allí.}
 {227}{}{Pues vamos a necesitar un montón de zapatos.}
-
 {228}{}{¿Aún me lo puedo seguir pensando?}
 {229}{}{¿Otra vez tú? ¿Qué?}
 {230}{}{¿Hay algo más que necesites de mí?}

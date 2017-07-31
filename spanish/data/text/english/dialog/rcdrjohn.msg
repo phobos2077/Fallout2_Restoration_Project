@@ -102,7 +102,7 @@
  preocupa que Nuevo Reno se apodere de esta ciudad. Desde luego, deseo que haya una forma de detener esta adicción al Jet.}
 {183}{}{¿Qué tiene que ver Nuevo Reno con eso?}
 {184}{}{¿De dónde viene el Jet?}
-{185}{}{Ya veo. Deja que te pregunte algo más.}
+{185}{}{Ya veo. Déjame que te pregunte otra cosa.}
 {186}{}{Gracias por la información. Ya nos veremos, Doc. Adiós.}
 {187}{}{Hola. Soy Indoloro Doc Johnson. ¿Qué puedo hacer por ti?}
 {188}{}{Qué puede hacer el viejo Doc Johnson por ti esta vez?}
@@ -139,7 +139,7 @@
  en grandes cargamentos, y entonces yo lo proceso en dosis individuales... así que lo termino vendiendo aquí mismo.}
 {214}{}{Debes sacar unas buenas ganancias con eso.}
 {215}{}{Debes de ser un verdadero amiguete de Nuevo Reno, entonces.}
-{216}{}{Ya veo. Déjame preguntarte algo más.}
+{216}{}{Ya veo. Déjame que te pregunte otra cosa.}
 {217}{}{Entonces, ¿tienes algo de Jet que yo pueda tomar?}
 {218}{}{En realidad, no. Supongo que están tan acostumbrados a que yo procese los grandes lotes de Jet en dosis individuales
  que ni siquiera se lo han pensado dos veces. Llevo haciéndolo desde que soy doctor, y
@@ -316,3 +316,4 @@
  belleza. Intenta no rascarte las costras purulentas de las incisiones de drenaje hasta que dejen de supurar.}
 {327}{}{Gracias por el consejo, Doc. Esto es genial. Oye, déjame preguntarte algo más.}
 {328}{}{Gracias por el trabajito, Doc. Será mejor que me ponga en marcha. Adiós.}
+{329}{}{Le he entregado el antídoto a Redding.}

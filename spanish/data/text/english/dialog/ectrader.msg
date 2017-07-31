@@ -1,12 +1,6 @@
-#############################################################
-#  Willy, el vendedor ambulante (Encuentros)            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Un vendedor.}
 {101}{}{Willy.}
 {102}{}{Un vendedor ambulante con mucha labia.}
-
 {103}{}{Saludos amigo, mi nombre es Willy y tengo un trato para ti. [Parece estar leyendo una carta, y después de un rato te quedas traspuesto].}
 {104}{}{Zzzzzzz...}
 {105}{}{[Abres los ojos lentamente cuando por fin te das cuenta de que alguien te está dando patadas]. Bien, ¿estás interesado o no?}
@@ -18,14 +12,13 @@
 {111}{}{Esta pequeña joya es única. Venida desde las lejanas tierras de... Funciona apuntando así... Mira, no tengo ni idea de que leches es. ¿La quieres o no? El precio es de }
 {112}{}{Este juguete está diciendo "¡No te metas conmigo!". Su simple visión hará que los enemigos salgan corriendo. Una ganga al precio de }
 {113}{}{Puedo ver que eres la clase de persona a la que le gusta el trato cercano y personal cuando tiene que tratar con gentuza. Bien, este pequeño cachivache es justo lo que necesitas, y sólo te costará }
-
 {114}{}{Me lo quedo.}
 {115}{}{Creo que pasaré.}
 {116}{}{Si, claro, no te arrepentirás. Me ha alegrado hacer tratos contigo. Nos vemos.}
 {117}{}{[Fin]}
 {118}{}{¡Mierda! Qué pérdida de tiempo. Vamos, ¡lárgate!}
 {119}{}{[Fin]}
-{120}{}{Bueno, he malgastado la saliva. } #continue on 152
+{120}{}{Bueno, he malgastado la saliva. }
 {121}{}{Sí.}
 {122}{}{No.}
 {123}{}{Eh, eres tú otra vez. Tengo nueva mercancía... ¿te interesa?}
@@ -57,6 +50,5 @@
 {149}{}{Mick}
 {150}{}{Smitty}
 {151}{}{Jack}
-
 {152}{}{. ¿Lo quieres o no?}
 {200}{}{.}

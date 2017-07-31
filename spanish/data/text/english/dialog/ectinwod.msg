@@ -1,8 +1,3 @@
-#############################################################
-#  Hombre de Hojalata (Encuentros)             #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un hombre que lleva una especie de armadura.}
 {101}{}{Ves a un hombre que lleva una especie de armadura.}
 {102}{}{Su armadura parece estar bastante oxidada.}

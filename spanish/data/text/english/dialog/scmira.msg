@@ -22,7 +22,7 @@
 {121}{}{Sí.}
 {122}{}{No.}
 {123}{}{¡Sirviendo un Radesperdicio! 10 dólares.}
-{124}{}{Vale.}
+{124}{}{De acuerdo.}
 {125}{}{¿Diez pavos? Demasiado para mí.}
 {126}{}{Claro, un pavo.}
 {127}{}{De acuerdo.}
@@ -81,11 +81,9 @@
 {180}{}{Vas por la noche. Encuentras la cuerda. Te cuelas. Vas al lugar grande por la puerta. Encuentras a Jack. Haces daño a Jack. Mira te da un arma. Ahora vete. Verme contigo... no bueno. Ayudas a Mira y vuelves. ¿Entendido?}
 {181}{}{Mira ha oído que Jack recibió daño. Buen trabajo, Dumbo. Aquí está el arma, tú te la quedas. Gracias.}
 {182}{}{Que te jodan a ti también. Nunca me libraré de ese bastardo.}
-#latter additions
 {183}{}{Tienes que hablar con Merk, pero no está aquí. Vuelve por la noche. Él prefiere las noches.}
 {184}{}{No sé lo que le hiciste a Lenny, pero no me gustaría quedarme por aquí. No te va a hacer popular.}
 {185}{}{Oye, te lo advertí. Oh, bueno...}
-
 {186}{}{Eres Mira, ¿correcto? Cierto policía estaba diciendo algo sobre ti.}
 {187}{}{¿Tú Mira? Jack Malo dice cosas.}
 {188}{}{¿Ese bastardo de Jack? ¿Qué ha dicho ahora?}

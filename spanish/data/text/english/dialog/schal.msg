@@ -5,9 +5,9 @@
 {104}{}{}
 {105}{}{Sí.}
 {106}{}{No.}
-{107}{}{Need some redding floats!!!}
-{108}{}{Yuep need those redding floats!!}
-{109}{}{Wonder what Redding floats go here.}
+{107}{}{Mantén los ojos bien abiertos.}
+{108}{}{Quédate cerca de mí.}
+{109}{}{Sigues girando su nariz.}
 {110}{}{Genial. Vamos a bailar. ¡Hacia Redding, muchachos!}
 {111}{}{De acuerdo, entonces déjame tranquilo. Tengo 500 cabezas de brahmin que poner en camino.}
 {112}{}{¿Otra vez tú? Lárgate.}
@@ -16,3 +16,5 @@
 {115}{}{Bien, tuvimos una pequeña racha de mala suerte, pero lo hiciste bien. Aquí están los 2.000 dólares por los que firmaste.}
 {116}{}{¡Cojones, lo hiciste simplemente bien! Aquí hay un bono de 1.000 dólares para ti. Eso, y 2.000 dólares son tu paga. ¡Redding, ándate con ojo esta noche!}
 {117}{}{Estás solo. Que tengas buen viaje.}
+{118}{}{Eres la peor parodia de guardia que haya visto nunca. No mantendrías tu palabra aunque tu vida
+ dependiera de ello.}

@@ -1,6 +1,6 @@
 {100}{}{Un terminal de computadora.}
 {101}{}{El salvapantallas está activado.}
-{102}{}{No puedes leer lo que pone en la pantalla.}
+{102}{}{Eres incapaz de leer lo que pone en el monitor.}
 {103}{}{Sistemas de seguridad Skynet
                                        Intruso Nivel 1
                                                          Activando contramedidas nivel 1
@@ -14,7 +14,7 @@
                                                          Activando contramedidas nivel 1}
 {106}{}{Terminar alarma nivel 1 - Falsa alarma}
 {107}{}{[Te fijas en una tecla etiquetada como "Ayuda"]. Pulsar tecla.}
-{108}{}{Piratear los sistemas de seguridad.}
+{108}{}{Piratear los sistemas de seguridad}
 {109}{}{Salir.}
 {110}{}{¡Arg! [Golpeas el teclado frustrado].}
 {112}{}{Sistemas de seguridad Skynet
@@ -24,7 +24,7 @@
                    Reinicializando...
                                                    Puerta principal informa de pestillos de cierre aún en posición  --  Volviendo a modo ahorro de energía}
 {113}{}{Activar sistema de alarma nivel 1}
-{114}{}{Arrancar programa de auto-diagnóstico.}
+{114}{}{Ejecutar programa de auto-diagnóstico.}
 {115}{}{Salir.}
 {116}{}{¡Arg! [Golpeas el teclado frustrado].}
 {118}{}{Sistemas de seguridad Skynet  --  Acceso a terminal denegado.}
@@ -61,5 +61,4 @@
 {138}{}{Salir.}
 {139}{}{Acceso no autorizado  --  Iniciando bloqueo de seguridad de terminal remota  --  Acceso de usuario a este terminal TERMINADO}
 {140}{}{Salir.}
-
 {200}{}{Ordenador en modo diagnóstico. Por favor, espere hasta que la rutina de diagnóstico haya finalizado.}

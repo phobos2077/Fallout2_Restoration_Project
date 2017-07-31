@@ -1,61 +1,21 @@
-#############################################################
-#  Message File: ziGenGrv.msg                               #
-#                                                           #
-#  Note: Characters within curly braces (like line 100)     #
-#        will be read in as a message string. Caution       #
-#        should be used when making comments. All comments  #
-#        should be prepended with a pound symbol for        #
-#        visual ease. This does not comment out the line    #
-#        though.                                            #
-#                                                           #
-#  Purpose: This message file contains the dialog for a     #
-#           new character from which is used by the         #
-#           design tool. It will be updated using the       #
-#           the tool. This is just a tool file, and not     #
-#           meant to be used in the game.                   #
-#                                                           #
-#  Log: Please note any changes that have been made to this #
-#       file and comment which lines have changed.          #
-#                                                           #
-#  Created: January 15, 1998                                #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the item when     #
-#  glanced and and examined.                                #
-#############################################################
-
-# 100-199 are for grave site messages
 {100}{}{Ves una tumba.}
 {101}{}{Ves una tumba abierta.}
 {102}{}{Esto es una tumba.}
 {103}{}{Esta tumba ha sido abierta.}
 {150}{}{La tumba ha sido cubierta.}
 {151}{}{La tumba ha sido abierta.}
-
-# 200 on are all for headstones
 {200}{}{Ves una lápida.}
 {201}{}{Ves una cruz.}
-
-# 250 + long descriptions
-# generic no name sites
 {250}{}{No hay ninguna inscripción en esta lápida.}
 {251}{}{El nombre en esta lápida ha sido tachado.}
 {252}{}{El nombre en la lápida es John Doe.}
-{253}{}{El nombre y fecha de esta lápida han sido borrados por el tiempo.}
-# for crosses
+{253}{}{El nombre y fecha de esta cruz han sido borrados por el tiempo.}
 {260}{}{No hay inscripciones en esta cruz.}
 {261}{}{El nombre en la cruz ha sido tachado.}
 {262}{}{El nombre en la cruz es John Doe.}
 {263}{}{El nombre y fecha de esta cruz han sido borrados por el tiempo.}
-
-# leader
 {275}{}{En la lápida pone: }
 {276}{}{En la cruz pone: }
-
-# specific cases
 {300}{}{"Aquí yace Chris Avellone, Rey de la pista de baile".}
 {301}{}{"Chris Jones. Ala Nocturna".}
 {302}{}{"Christopher Michael Holland, o 'Chris Holland', o 'Chris': Hay dos razones y media para leer esta lápida... uno normalmente esperaría que hubiera una lista con esas razones".}
@@ -111,7 +71,6 @@
 {352}{}{"Brahmin Wrangler".}
 {353}{}{"Josh Walters, 1971-2011. Murió de complicaciones derivadas de su quinto trasplante de hígado".}
 {354}{}{"Doug Avery. Odiaba la guerra por destruir su estilo de vida en caravana".}
-# joke ones
 {355}{}{"Aquí yace Ezekial Aikle, 102 años. El pobre murió joven".}
 {356}{}{"Aquí yace Ann Adrian, quien vivió como vieja dama pero murió como vieja Adrian. 8 de diciembre de 1767".}
 {357}{}{"Los hijos de Israel querían pan y el Señor les envió maná, el viejo Wallace quería una esposa, y el Demonio le envió a Anna".}
@@ -137,30 +96,20 @@
 {377}{}{"Sarah Smart: Oradora, Autora, Profesora, De Amicitia".}
 {378}{}{"Tim Winkle - No soporto la hipocresía salvo la mía".}
 {379}{}{"Jughead - Rey del Mundo de la Reina Archie".}
-# new additions
 {380}{}{"D.E.P Casey Donahue Muerto el 6/8/98  Asesinado por una lubina mutada de mal humor".}
 {381}{}{"Christopher 'Ala Nocturna' Jones: administrador de golpes fálicos".}
 {382}{}{"Jay "Pie de Patata" Nielson.  Músico.  Falleció a los 104 años, durante un solo de tambor".}
 {383}{}{"Nitsa - La razón por la que Charles no entendió bien lo del hockey".}
 {384}{}{"Thuy Dang. Que Dios tenga piedad de su nombre".}
-
-# trapping the grave
 {500}{}{Consigues poner una trampa en la tumba.}
 {501}{}{No consigues poner una trampa en la tumba.}
-
 {510}{}{ habilmente pone una trampa en la tumba.}
 {511}{}{ falla en poner una trampa en la tumba.}
-
-# Find Trap on grave
 {515}{}{Encuentras una trampa en la tumba.}
 {516}{}{No encuentras trampas en la tumba.}
-
 {520}{}{ encuentra una trampa en la tumba.}
 {521}{}{ no encuentra trampas en la tumba.}
-
-# Disarm the Trap on grave
 {525}{}{Hábilmente desactivas una trampa de la tumba.}
 {526}{}{No consigues desactivar la trampa.}
-
 {530}{}{ hábilmente desactiva la trampa.}
 {531}{}{ no consigue desactivar la trampa.}

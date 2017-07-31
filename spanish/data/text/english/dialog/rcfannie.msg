@@ -106,7 +106,19 @@
 {180}{}{Ya sabes, hacer pasar buenos ratos. Incluso con tu aspecto, podrías ganar algún dinero. Esos mineros
  no son demasiado exigentes, ya sabes.}
 {181}{}{¿Eso crees? Hmm, quizá debería.}
-{182}{}{No creo que eso sea para mí. Adiós.}
+{182}{}{No creo que esto sea para mí. Adiós.}
 {183}{}{Bueno, ayuda no tener el olfato muy desarrollado. Esos mineros no son demasiado aficionados al agua y el jabón.}
 {184}{}{¿En serio? Quizá esto no sea para mí, después de todo. Aunque gracias por la oferta. Adiós.}
 {185}{}{No sé cómo puedes soportarlo, así que supongo que no lo haces. Soportarlo, eso es. Adiós.}
+{186}{}{[Fannie looks like a great weight has been lifted from her shoulders] Hey, it's you! Lou told
+ me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need fer jet since
+ then. (She kisses you on the cheek) I don't know how I can ever thank you...well, I do know *one* way.
+ Whenever you're in the mood, just come on by; free of charge. (wink)}
+{187}{}{Lo tendré en mente. Gracias por el consejo, Jules.}
+{188}{}{Thanks again. (smooch) Remember, it's always on the house for you. (wink)}
+{189}{}{Hola. ¿Quieres gastar más dinero con Fannie?}
+{190}{}{Sorry honey...I'm not feelin' too good right now. Check back later.}
+{191}{}{Ahora mismo no tengo tiempo.}
+{192}{}{Come back anytime! Always nice to get some repeat business.}
+{193}{}{HECHO}
+{200}{}{You slipped the Jet antidote into Fannie's Mae's drink.}

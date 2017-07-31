@@ -27,7 +27,6 @@
 {126}{}{Estoy deseando ir al hogar de las estrellas.}
 {127}{}{Por favor, no me molestes; estoy concentrando mis neurodinas.}
 {128}{}{Por favor, no desalinees mis neurodinas.}
-
 {138}{}{¡Oh, no! ¡El perseguidor!}
 {139}{}{¡El primer no-iluminado!}
 {140}{}{¡Aléjate de mí, malvado trozo de carne!}
@@ -35,12 +34,11 @@
 {142}{}{¡No! ¡No me contamines con tu odio!}
 {143}{}{¡Guardias! ¡Guardias! ¡El bárbaro está aquí!}
 {144}{}{¡No me toques!}
-{145}{}{¡Socorro! ¡Guardias!}
+{145}{}{¡Ayuda! ¡Guardias!}
 {146}{}{¡El enemigo de nuestra gente!}
 {147}{}{¡La oscuridad vuelve a cernirse sobre nosotros!}
 {148}{}{¡Padre Estelar! ¡Líbrame del pagano!}
 {149}{}{¡Alguien te castigará por tu perfidia!}
-
 {150}{}{Amo a Hub.}
 {151}{}{Me gusta ser un Hubologista.}
 {152}{}{Quiero accionar mi potencialidad.}
@@ -57,7 +55,6 @@
 {163}{}{La ciencia "auténtica" no es más que un montón de mentiras.}
 {164}{}{No escuches lo que esos "científicos" te digan.}
 {165}{}{Sólo Hub y AHS-9 poseen la respuesta.}
-
 {178}{}{¡Alabado sea el Padre Estelar! ¡Por fin nos iremos a las estrellas!}
 {179}{}{¡Planeta Quetzel, allá vamos!}
 {180}{}{¡Todo ese duro trabajo finalmente ha tenido su recompensa!}

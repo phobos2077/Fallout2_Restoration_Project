@@ -46,7 +46,7 @@
 {145}{}{Otra pregunta...}
 {146}{}{Eres demasiado susceptible para mi gusto. Me marcho.}
 {147}{}{Pues bien, deberías saber que ciertos tipos los ven como un problema potencial. Sería extremadamente útil que tuviéramos un mapa de sus pisos francos por todo el norte: Nuevo Reno, Klamath, donde sea. Estaría dispuesto a pagar, digamos, 500 dólares por algo así. ¿Crees que me lo podrías conseguir?}
-{148}{}{Desde luego.}
+{148}{}{Claro.}
 {149}{}{Creo que no.}
 {150}{}{Entonces déjame que te cuente. Estos Rangers tienen metido en la cabeza el eliminar la esclavitud y a los esclavistas... por la fuerza. Han estado provocando una gran cantidad de problemas a los que nos dedicamos a ello.}
 {151}{}{Trabajan en secreto, especialmente por el norte.}
@@ -63,7 +63,7 @@
 {162}{}{De acuerdo. Volveré.}
 {163}{}{Ya has vuelto. ¿Conseguiste ese mapa?}
 {164}{}{Sí.}
-{165}{}{No}
+{165}{}{No.}
 {166}{}{¡Todavía estoy esperando que termines el primer trabajo!}
 {167}{}{Oh, sí, lo olvidé.}
 {168}{}{No desde que hiciste tu trabajo. Gracias.}
@@ -75,3 +75,4 @@
 {174}{}{Vale, ya lo pillo.}
 {175}{}{¡Qué cojones? ¡Guardias! ¡Tenemos un intruso!}
 {176}{}{Entra ahí y te vuelo la puta cabeza. ¿Lo pillas?}
+{177}{}{Hemos cerrado. Vuelve por la mañana.}

@@ -54,7 +54,7 @@
 {153}{}{Primero la sequía y ahora esto.}
 {154}{}{¡No más jeringuillas, basta!}
 {155}{}{¡No puedo aguantarlo! ¡Las paredes se me vienen encima!}
-{156}{}{(sollozos)}
+{156}{}{:Solloza:}
 {157}{}{¡Dejad marchar a mi gente!}
 {158}{}{La Anciana nos guía.}
 {159}{}{¿Cómo hemos ofendido a estos malos espíritus?}

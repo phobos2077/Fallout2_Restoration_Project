@@ -8,25 +8,25 @@
 {107}{}{¿Estás relacionada con ese científico de alguna forma?}
 {108}{}{Adiós.}
 {109}{}{Sí, hablo. Mejor que la mayoría de la gente, por lo que parece. Te ofrecería una sonrisa ahora mismo, pero resulta que no tengo boca. [ríe] Oye, ¿puedes hacerme un gran favor?}
-{110}{}{S-sí.}
-{111}{}{Nuh.}
+{110}{}{S-si.}
+{111}{}{No.}
 {112}{}{Estoy buscando un sitio mejor en el que estar. Estar aquí está bien y todo eso, pero francamente, estas plantas no tienen demasiada conversación. Estaba pensando en aquel lugar, el edificio con todos esos necrófagos... ¿podrías replantarme?}
-{113}{}{¡Sí!}
-{114}{}{Nuh!}
-{115}{}{Desde luego.}
+{113}{}{¡S-sí!}
+{114}{}{¡No!}
+{115}{}{Claro.}
 {116}{}{Creo que no.}
 {117}{}{¡Genial! Todo lo que tienes que hacer es encontrar una pala, desenraizarme, y plantarme por allí. Cuando lo hagas, te contaré un secreto.}
-{118}{}{¡Vale!}
-{119}{}{No-no.}
+{118}{}{¡De acuerdo!}
+{119}{}{N-no.}
 {120}{}{De acuerdo. Bien, um... te estaré esperando aquí. Tampoco es que tenga elección, claro. ¡Hasta luego!}
 {121}{}{¡Adioooos!}
 {122}{}{Si por un casual cambias de opinión, ya sabes dónde encontrarme. He echado raíces aquí. ¡Ja ja ja! Sólo es un poco de humor de planta. Oh, no te retengo más. ¡Hasta luego!}
 {123}{}{Adiós.}
 {124}{}{¡Bien dicho, bien dicho! Qué agradable es ver a un homo sapiens usar su cerebro en toda su extensión. Mi querido amigo, ¿estarías dispuesto a hacerme un favor?}
 {125}{}{S-si.}
-{126}{}{¡Nuh!}
+{126}{}{¡No!}
 {127}{}{¡Pero claro! ¡Sí, así es! Muy astuto, amigo, muy astuto. ¡Ya veo que no has germinado ayer! Mi bien plantado compañero, ¿estarías dispuesto a hacerme un favor?}
-{128}{}{Desde luego.}
+{128}{}{Claro.}
 {129}{}{Creo que no.}
 {130}{}{¡Eeen-cantador! Estoy muy, muy contento. Sólo tienes que encontrar una pala y regresar. Cuando lo hayas hecho, quizá te pueda contar un secreto. Amigo mío, espero que sigas floreciendo.}
 {131}{}{Um, de acuerdo. Hasta luego.}
@@ -73,8 +73,8 @@
 {164}{}{¡G-racias! ¡Adioos!}
 {165}{}{¿Has tenido tiempo de reconsiderarlo? ¿Te gustaría ayudarme?}
 {166}{}{¡S-sí!}
-{167}{}{¡Nuh!}
-{168}{}{Desde luego.}
+{167}{}{¡No!}
+{168}{}{Claro.}
 {169}{}{Creo que no.}
 {170}{}{Por desgracia, no parece que tengas una pala. Hasta que puedas encontrar una, no puedo irme. Espero tu regreso con el pistilo en vilo.}
 {171}{}{Adiós.}

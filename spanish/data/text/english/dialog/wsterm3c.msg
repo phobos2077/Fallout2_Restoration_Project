@@ -1,6 +1,6 @@
-{100}{}{Un terminal de computadora}
+{100}{}{Una terminal.}
 {101}{}{Tiene una pequeña pegatina en la que pone 'I*tel inside'.}
-{102}{}{[Eres incapaz de leer lo que hay en la pantalla.]}
+{102}{}{[No sabes leer lo que pone en el monitor].}
 {103}{}{Terminal de Control
                                                      Proyecto: Experimentación de síntesis orgánica y robótica}
 {104}{}{}
@@ -8,14 +8,14 @@
 {106}{}{Activar Robot.}
 {107}{}{Salir.}
 {108}{}{¿Erg?}
-{109}{}{[Eres incapaz de leer lo que hay en la pantalla].}
+{109}{}{[No sabes leer lo que pone en el monitor].}
 {110}{}{Finalizar programa.}
 {111}{}{Salir.}
 {112}{}{Ug}
 {113}{}{Por favor, espere...    //    Carcasa del Robot: OK  //  Reservas de gel biomédico: Llenas  //  Dispositivo orgánico de almacenamiento: Respondiendo    //    Listo para Activar}
 {114}{}{Por favor, espere...    //    Carcasa del Robot: OK  //  Reservas de gel biomédico: Llenas  //  Dispositivo orgánico de almacenamiento: No presente    //    Activación no recomendada}
 {115}{}{Por favor, espere...    //    Carcasa del Robot: Reemplazar Unidad motriz  //  Reservas de gel biomédico: Llenas  //  Dispositivo orgánico de almacenamiento: Respondiendo    //    Activación no recomendada}
-{116}{}{Por favor, espere...    //    Carcasa del Robot: Reemplazar Unidad motriz  //  Reservas de gel biomédico: Llenas  //  Dispositivo orgánico de almacenamiento: No presente    //    Activación no recomendada}
+{116}{}{Por favor, espere...    //    Carcasa del Robot: Reemplazar Unidad motriz  //  Reservas de gel biomédico: Rellenar  //  Dispositivo orgánico de almacenamiento: No presente    //    Activación no recomendada}
 {117}{}{Por favor, espere...    //    Carcasa del Robot: OK  //  Reservas de gel biomédico: Rellenar  //  Dispositivo orgánico de almacenamiento: Respondiendo    //    Activación no recomendada}
 {118}{}{Por favor, espere...    //    Carcasa del Robot: OK  //  Reservas de gel biomédico: Rellenar  //  Dispositivo orgánico de almacenamiento: No presente    //    Activación no recomendada}
 {119}{}{Por favor, espere...    //    Carcasa del Robot: Reemplazar Unidad motriz  //  Reservas de gel biomédico: Rellenar  //  Dispositivo orgánico de almacenamiento: Respondiendo    //    Activación no recomendada}
@@ -41,8 +41,8 @@
 {170}{}{                                      Índice de sincronización - 50%}
 {174}{}{                                      Índice de sincronización - 10%}
 {176}{}{Salir.}
-{200}{}{ es incapaz de leer lo que hay en la pantalla.}
-{300}{}{La computadora parece tener algún tipo de mecanismo defensivo.}
+{200}{}{ es incapaz de leer lo que pone en el monitor.}
+{300}{}{La computadora parece tener alguna especie de mecanismo de defensa.}
 {500}{}{Iniciando secuencia de arranque
                                    Nivel de energía - nominal
                                           Programa interrumpido

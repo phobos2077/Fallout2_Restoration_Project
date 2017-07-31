@@ -2,7 +2,7 @@
 {101}{}{Es Karl, el ayudante del sheriff de la ciudad.}
 {102}{}{Ves a un joven que apenas acaba de dejar atrás la adolescencia. Parece ansioso por agradar.}
 {103}{}{Bienvenido, forastero. Soy el ayudante Karl. ¿Qué puedo hacer por ti?}
-{104}{}{¿Por ejemplo?}
+{104}{}{¿Como cuales?}
 {105}{}{Uh...nugh..}
 {106}{}{Soy nuevo en RNC. ¿Qué puedes contarme sobre vuestra ciudad?}
 {107}{}{Bueno, estoy buscando el Refugio 13.}
@@ -23,7 +23,7 @@
 {122}{}{¿Qué vais a hacer con él}
 {123}{}{Oye, ¿no he oído hablar de ti? Sí: algunas cosas buenas. Mira, hay ciertas personas que conozco que podrían servirse de un tipo como tú. Sólo tienes que ir a la tienda de automóviles y preguntar por Elise. Dile que Karl le envía saludos.}
 {124}{}{¿Trabajo? La Asociación de Ganaderos está buscando guardias. Los saqueadores están dándole fuerte a las caravanas de nuevo. Todo lo que he oído es que la presidente Tandi está buscando a alguien con "recursos", como ella dice. ¿Eso te ayuda?}
-{125}{}{Bien, tengo algunas preguntas más.}
+{125}{}{Bueno, tengo algunas otras preguntas.}
 {126}{}{Algo. Gracias.}
 {127}{}{Ese es el Oficial Jack, forastero. Uno de nuestros hombres. No has estado hablando con Mira, ¿verdad?}
 {128}{}{Sí.}
@@ -34,7 +34,7 @@
 {133}{}{Gracias.}
 {134}{}{Sí. Es un auténtico mal bicho. Mató a dos de nuestros hombres y no dijo nada.}
 {135}{}{Dame un poco de tiempo a solas con él. Quizá pueda convencerle para que coopere.}
-{136}{}{¿Puedo verlo ahora?}
+{136}{}{¿Puedo verle ahora?}
 {137}{}{Espero que cuelguen al muy bastardo. Él y sus chicos mataron a dos hombres buenos. No me dolerá lo más mínimo verlo muerto.}
 {138}{}{¿Puedo verle ahora?}
 {139}{}{Ella y Jack estaban casados, ¿sabes? Tuvieron un divorcio realmente complicado. No me creería nada de lo que ella dijera, no sobre Jack. 
@@ -52,3 +52,5 @@ Hazte un favor a ti mismo, aléjate de ellos. Jack es un buen hombre, es sólo que
 {150}{}{Bien, hace un par de años se dio un golpe y ahora Doc Jubilee le administra algún tipo de medicina. ¿Por qué lo quieres saber, por cierto?}
 {151}{}{Nada, sólo hablar. Dejaré de hacerte perder el tiempo.}
 {152}{}{. Necesito algo de trabajo honesto.}
+{153}{}{Menuda delantera tienes.}
+{154}{}{Nosotros queremos poder saltar, migo.}

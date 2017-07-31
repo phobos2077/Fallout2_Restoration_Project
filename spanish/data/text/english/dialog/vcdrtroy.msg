@@ -18,9 +18,9 @@
 {117}{}{Hola, soy el doctor Troy. ¿Cómo puedo ayudarte?}
 {118}{}{Me duele, aquí duele}
 {119}{}{¿Asis-te-tencia?}
-{120}{}{(Dejas de balbucear)}
-{121}{}{Busco la computadora principal. ¿Puedes decirme donde está?}
-{122}{}{¿Qué haces aquí?}
+{120}{}{(Arrástrate)}
+{121}{}{Busco la computadora principal. ¿Sabes dónde está?}
+{122}{}{¿Qué es lo que haces aquí?}
 {123}{}{Sólo pasaba por aquí, gracias.}
 {124}{}{¿En serio? Es un placer conocerte. Si tienes tiempo, quizá podríamos comparar notas. 
 No suelo tener la oportunidad de hablar con otro médico.}
@@ -73,7 +73,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {162}{}{No creo que esté listo para irme ahora mismo, "doctor". Antes, me gustaría ver tus
  mercancías.}
 {163}{}{He estado buscando a alguien que sea capaz de hacerme un recado especial.}
-{164}{}{¿Qué es?}
+{164}{}{¿Qué es eso?}
 {165}{}{No me interesa, gracias.}
 {166}{}{¡Excelente! Me alegra que lo hayas reconsiderado.}
 {167}{}{Ha llegado a mis oídos que hay una nueva droga en el Yermo. Se llama "Jet",
@@ -88,7 +88,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
  molestias.}
 {175}{}{Tenía otras preguntas para ti...}
 {176}{}{¿Compensarme? Uhhhh... prefiero dinero en metálico, gracias. Adiós.}
-{177}{}{Muy bien. Adiós.}
+{177}{}{De acuerdo. Adiós.}
 {178}{}{Hmmmmm. Considerando el hecho de que ya lo tienes, eso es más que un precio justo. Muy bien. Aquí
  está tu dinero... y gracias.}
 {179}{}{Había algo más que te quería preguntar...}
@@ -101,7 +101,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {184}{}{Había algo más que quería preguntarte primero...}
 {185}{}{¿Sabes?, no creo que realmente quieras inhalar esa... porquería. Confía en mí.}
 {186}{}{Lo siento, Solo intentaba ayudar. Hasta luego, doctor.}
-{187}{}{¿De qué hablas?}
+{187}{}{¿De qué estás hablando?}
 {188}{}{Olvídalo. Había algo más que te quería preguntar...}
 {189}{}{Bueno, sacan esa cosa de la mierda de brahmin.}
 {190}{}{Lo que hay en ese frasco de Jet son gases de excrementos de brahmin. Asqueroso, ¿no?}
@@ -158,7 +158,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {229}{}{¿Emanaciones de brahmin? No es un proceso de fabricación convencional, pero... hmmmmm. Tal vez podría tomar
  muestras de sangre de brahmin en el patio, entonces... gracias, amigo mío.}
 {230}{}{No hay problema.}
-{231}{}{Seguro.}
+{231}{}{Claro.}
 {232}{}{También podrías decirle a ese vándalo amigo tuyo que está desperdiciando su considerable intelecto
  fabricando drogas. Además, sus modales y lenguaje dejan MUCHO que desear.}
 {233}{}{Háblame sobre ello.}
@@ -169,7 +169,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {237}{}{Tengo una muestra de Jet justo aquí.}
 {238}{}{¿Para qué quieres el Jet?}
 {239}{}{Suena bien. Estoy dentro.}
-{240}{}{No estoy interesado.}
+{240}{}{No me interesa.}
 {241}{}{Resultaría... útil para mí y mi trabajo que pudieras traerme una muestra de esta droga. Te pagaré
  cien dólares a la entrega. Pero es de la mayor importancia que mantengas esta transacción de forma
  confidencial.}
@@ -178,19 +178,19 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {244}{}{Tengo una muestra de Jet justo aquí.}
 {245}{}{¿Para qué quieres el Jet?}
 {246}{}{Sin problemas. Puedes contar conmigo.}
-{247}{}{No estoy interesado.}
+{247}{}{No me interesa.}
 {248}{}{Eh, sí... confidencial. Por ello, mantén el asunto entre tú y yo. No se lo digas a nadie.}
 {249}{}{Tengo una muestra de Jet justo aquí.}
 {250}{}{¿Para qué quieres el Jet?}
 {251}{}{¿Qué es lo que evitará que te entregue en este momento?}
 {252}{}{No hay problema. Lo mantendré "confidencial" y por ello, eh, no hablaré de ciertas cosas.}
-{253}{}{No estoy interesado.}
+{253}{}{No me interesa.}
 {254}{}{Eso no te concierne. Consigue una muestra de Jet, tráemela, y te pagará cien
  dólares... y ese precio incluye tu silencio.}
 {255}{}{Bien, tengo una muestra de Jet aquí mismo.}
 {256}{}{¿Qué es lo que evitará que te entregue en este momento?}
 {257}{}{Sin problemas. Puedes contar conmigo.}
-{258}{}{No estoy interesado.}
+{258}{}{No me interesa.}
 {259}{}{¿Qu--? ¡No lo harías! ¡Cómo te *atreves* a amenazarme!}
 {260}{}{¡Oye! Cálmate, sólo lo comentaba. No hace falta entrar en pánico.}
 {261}{}{Podría, y lo haré. ¿Cuánto vale tu Ciudadanía para ti? La vida en el Yermo puede ser
@@ -213,7 +213,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {274}{}{¿Qué es lo que evitará que te entregue en este momento?}
 {275}{}{Desde luego, lo haré.}
 {276}{}{No me interesa.}
-{277}{}{¿Lo harás?}
+{277}{}{¿En serio?}
 {278}{}{¡Excelente! Gracias, amigo mío... no tienes idea de lo importante que es esto para mi trabajo. Aquí está
  tu pago, como te prometí.}
 {279}{}{Genial. Antes de irme, tenía alguna pregunta más...}
@@ -225,7 +225,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {285}{}{¿Sí?}
 {286}{}{Me duele, aquí duele}
 {287}{}{¿Asis-te-tencia?}
-{288}{}{(Dejas de balbucear)}
+{288}{}{(Arrástrate)}
 {289}{}{Voy a necesitar tu pericia médica.}
 {290}{}{Mencionaste antes que eras un doctor... Yo soy algo así como un doctor.}
 {291}{}{¿Tienes bloqueadores de endorfinas?}
@@ -235,15 +235,15 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {295}{}{En nada hoy. Buenos días, doctor.}
 {296}{}{Desde luego. Lo siento... ha pasado algún tiempo desde que tuve que administrárselos. La mayoría de
  Ciudadanos recibieron los suyos hace muchos, muchos años. Deja que prepare el Autodoc para el procedimiento...}
-{297}{}{Está bien.}
+{297}{}{De acuerdo.}
 {298}{}{Hemos terminado. Una advertencia: Esta vacuna no te hace inmune al veneno y la
  radiación, pero sí refuerza tu resistencia natural.}
 {299}{}{Te lo agradezco. Verás, tengo algunas otras preguntas que quería hacerte...}
-{300}{}{Fantástico. Gracias, doctor.}
+{300}{}{Genial. Gracias, doctor.}
 {301}{}{Oh, eres tú. ¿Qué quieres?}
 {302}{}{Necesito que me curen.}
-{303}{}{Me han envenenado.}
-{304}{}{He sido irradiado.}
+{303}{}{He sido envenenado.}
+{304}{}{Estoy irradiado.}
 {305}{}{He venido a por mi dinero. ¿Lo tienes?}
 {306}{}{Estoy aquí para recordarte que estamos a día uno, y que será mejor que tengas mi dinero.}
 {307}{}{Nada... hoy.}
@@ -269,7 +269,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {325}{}{Te perseguiré desde la tumba. Lo juro.}
 {326}{}{¿Cómo has llegado hasta aquí? Me temo que tendrás que irte. Espera un momento mientras llamo a algunos
  guardias para que te acompañen afuera.}
-{327}{}{¡YO NO VOY YO!}
+{327}{}{¡YO NO VOY!}
 {328}{}{(Te quedas de pie uno momento)}
 {329}{}{Tengo buenas noticias. Conseguí crear un antídoto para esa muestra de Jet que me diste.}
 {330}{}{Buenas noticias... conseguí usar la información que me diste para crear un antídoto.}
@@ -295,7 +295,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
  procedimiento es irreversible, y los implantes harán más mal que bien.}
 {343}{}{Me encontré con ellos en la base de datos médica de Ciudad Refugio. ¿Podrías llevar a cabo la operación conmigo?}
 {344}{}{¿Puedes llevar a cabo la operación? No puedo hacerlo por mí mismo.}
-{345}{}{Está bien. Tenía otras preguntas...}
+{345}{}{De acuerdo. Tenía algunas preguntas más...}
 {346}{}{Muy bien. Sólo lo comprobaba.}
 {347}{}{Muy bien. Tal vez pueda encontrar a alguien más para hacer el procedimiento.}
 {348}{}{No, lo siento... como ya he dicho, los implantes son un procedimiento invasivo y el periodo de recuperación es
@@ -305,7 +305,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {350}{}{Sólo consideraría realizar la operación en caso de emergencia, no por razones de
  conveniencia. El riesgo es demasiado grande, y los implantes no son una mejora sustancial respecto a la armadura
  de combate estándar.}
-{351}{}{Hmmm. Vale, tenía otras preguntas...}
+{351}{}{Hmmm. Vale, tenía alguna otra pregunta...}
 {352}{}{Bien, gracias de todos modos.}
 {353}{}{Bien, gracias de todos modos. Tal vez pueda encontrar a alguien más que lleve a cabo la operación.}
 {354}{}{Lo siento. Las instalaciones sólo son para Ciudadanos, y se guarda una lista de todos los pacientes en la
@@ -335,7 +335,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {375}{}{¿Puedes ayudar a mi amigo?}
 {376}{}{¿Puedes ayudar a mis amigos?}
 {377}{}{¿Sabes algo sobre los implantes dérmicos?}
-{378}{}{No importa. Tenía otras preguntas...}
+{378}{}{No importa. Tenía algunas preguntas más...}
 {379}{}{Nada. Gracias, doctor.}
 {380}{}{Muy bien. Déjame comprobar tus signos vitales... recuéstate mientras te conecto al
  Autodoctor...}
@@ -357,4 +357,4 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {396}{}{Genial. Gracias, doctor.}
 {397}{}{¡Guardias!}
 {398}{}{Zzzzzzz.}
-{399}{}{Le has explicado al doctor Troy el proceso de fabricación del Jet.}
+{399}{}{You explain to Dr. Troy about the manufacturing process of Jet.}

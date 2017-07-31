@@ -1,5 +1,5 @@
 {100}{}{Ves a un chico.}
-{101}{}{Un niño.}
+{101}{}{Ves a un niño.}
 {102}{}{Este chico se parece mucho a los otros chicos.}
 {103}{}{Pareces malo.}
 {104}{}{No me hagas daño, ¿vale?}
@@ -32,4 +32,3 @@
 {131}{}{¡No me hagas daño!}
 {132}{}{::llora::}
 {133}{}{¡Socorro, mamá!}
-

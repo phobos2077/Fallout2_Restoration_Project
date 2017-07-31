@@ -7,32 +7,32 @@
 {106}{}{No tolero a los tontos.}
 {107}{}{La mayor parte de la plebe sólo trabaja para conseguir Jet suficiente. Necesitan algo que lleve sus mentes
  lejos de este lugar.}
-{108}{}{Déjame preguntarte otra cosa.}
+{108}{}{Déjame hacerte otra pregunta.}
 {109}{}{¿Jet? ¿Qué es el Jet?}
 {110}{}{Ya veo. Adiós.}
 {111}{}{El Jet tiene su utilidad. Tiende a provocar que se ponga un poco menos de atención sobre la miseria circundante.}
-{112}{}{Déjame preguntarte otra cosa.}
+{112}{}{Déjame hacerte otra pregunta.}
 {113}{}{¿Jet? ¿Qué es el Jet?}
 {114}{}{Ya veo. Adiós.}
 {115}{}{El Jet es muy caro últimamente. Es algo criminal. Hablando de eso… he oído que nuestro querido
  alcalde Ascorti está trabajando para conseguirnos más Jet. Siempre un campeón de las masas, el hombre.}
-{116}{}{Déjame preguntarte otra cosa.}
+{116}{}{Déjame hacerte otra pregunta.}
 {117}{}{¿Alcalde Ascorti? ¿Quién es exactamente?}
 {118}{}{¿Jet? ¿Qué es el Jet?}
 {119}{}{Ya veo. Adiós.}
 {120}{}{Parece que todo el mundo esté enfermo. Ese último lote de Jet hizo que todo el mundo dejara esa mierda. Pero
  supongo que pronto volverán a engancharse con él.}
-{121}{}{Déjame preguntarte otra cosa.}
+{121}{}{Déjame hacerte otra pregunta.}
 {122}{}{¿Jet? ¿Qué es el Jet?}
 {123}{}{Ya veo. Adiós.}
 {124}{}{Parece que me había equivocado. La mayoría de veteranos del Jet dejaron de tomarlo.
  Después de ese último lote malo, la mayoría de nosotros no podemos ni oler esa mierda si sentirnos fatal
  del estómago.}
-{125}{}{Déjame preguntarte otra cosa.}
+{125}{}{Déjame hacerte otra pregunta.}
 {126}{}{¿Jet? ¿Qué es el Jet?}
 {127}{}{Ya veo. Adiós.}
 {128}{}{Soy… Madame Modjeska. ¿Qué quieres de mí?}
-{129}{}{Hola. ¿En qué puedo ayudarte?}
+{129}{}{¿Puedo ayudarte en algo?}
 {130}{}{No tengo tiempo que perder. ¿Qué quieres de Madame Modjeska?}
 {131}{}{Apenas se me puede molestar con eso ahora. ¿Qué es lo que quieres?}
 {132}{}{Madame Modjeska se encuentra indispuesta hoy. ¿Qué quieres de ella?}
@@ -57,7 +57,7 @@
 {149}{}{Solía trabajar en el Salón Malamute. Como parte de ese trabajo, la gente me llamaba Madame. El nombre
  se quedó, a pesar de que ya no trabajo allí.}
 {150}{}{¿Dónde trabajas ahora?}
-{151}{}{Eh, en realidad no. Déjame preguntarte otra cosa.}
+{151}{}{Déjame hacerte otra pregunta.}
 {152}{}{Creo que eso es todo lo que necesito saber. Adiós.}
 {153}{}{Probé un poco de Jet hace unos días y me hizo sentir muy mal. Debe haber sido un lote
  contaminado. No estoy dispuesta a intentarlo de nuevo. Oh, en fin, vuelta a la botella, supongo.}
@@ -145,14 +145,14 @@
 {212}{}{Déjame preguntarte algo más.}
 {213}{}{Creo que ya te he escuchado un tiempo más que suficiente. Adiós.}
 {214}{}{El Jet es una maravillosa droga que me permite pasar de largo por esta miserable existencia, cariño.}
-{215}{}{Déjame preguntarte otra cosa.}
+{215}{}{Déjame hacerte otra pregunta.}
 {216}{}{Interesante. Gracias y adiós.}
 {217}{}{El Jet es una droga que me ayuda a sentirme realmente viva. Soy la dueña del cielo gracias al Jet.}
-{218}{}{Déjame preguntarte otra cosa.}
+{218}{}{Déjame hacerte otra pregunta.}
 {219}{}{Interesante. Gracias y adiós.}
 {220}{}{Mmmm, te diré qué es el Jet. Es algo delicioso, eso es lo que es. Jet tiene algo para
  todo el mundo.}
-{221}{}{Déjame preguntarte otra cosa.}
+{221}{}{Déjame hacerte otra pregunta.}
 {222}{}{Interesante. Gracias y adiós.}
 {223}{}{El Jet era lo mejor. Ahora está haciendo que mis tripas den vueltas y vueltas como una lavadora
  desgastada. No te recomendaría probar el lote actual. Ese Jet es mierda, pero ahora literalmente,
@@ -162,7 +162,7 @@
 {226}{}{Algo debió salir mal con el último lote de Jet que vino a la ciudad. Lo debieron
  enmierdar de más. Más que colocarme me descolocó. Así que ahora bebo: eso es algo con lo que siempre
  puedes contar.}
-{227}{}{Déjame preguntarte otra cosa.}
+{227}{}{Déjame hacerte otra pregunta.}
 {228}{}{Interesante. Gracias y adiós.}
 {229}{}{Indoloro Doc Johnson es un hombre misterioso. No sé de dónde vino, pero es un auténtico
  médico, eso seguro. El único lugar en el que podría haber recibido ese tipo de formación es Ciudad Refugio. Apuesto a que lo colocaron

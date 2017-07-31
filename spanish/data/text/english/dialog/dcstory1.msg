@@ -1,13 +1,9 @@
-#############################################################
-#  Leanne (The Den)     	                            #
-#############################################################
-
-{100}{}{Ves a una parroquiana del bar.}
+{100}{}{Ves a un cliente del bar.}
 {101}{}{Ves a Leanne.}
 {102}{}{Es muy hermosa, pero parece ensimismada en sus pensamientos.}
-{103}{}{¡Detente!}
+{103}{}{¡Para!}
 {104}{}{¿Por qué estás haciendo esto?}
-{105}{}{¡Déjame en paz!}
+{105}{}{¡Déjame!}
 {106}{}{¡Por favor, para!}
 {107}{}{¡Asesino!}
 {108}{}{¡Cómo has sido capaz de hacerle eso a Becky!}
@@ -27,9 +23,6 @@
 {122}{}{Ahora no puedo hablar. Adiós.}
 {123}{}{¿Igsby?}
 {124}{}{Gne.}
-
-# Node005 removed.
-
 {131}{}{Oh, lo siento. No te entiendo. Quizás no deberías beber tanto.}
 {132}{}{Ugra.}
 {133}{}{Fegi.}
@@ -37,11 +30,11 @@
 {135}{}{Todo va bien, gracias. ¿Dónde estábamos? Creo que me estabas hablando de la historia de tu familia.}
 {136}{}{Sí. Yo soy el Elegido. Mi antepasado salvó al mundo de alguien llamado 'El Maestro'.}
 {137}{}{Sí. Se supone que uno de mis antepasados salvó al mundo de alguien llamado 'El Maestro'.}
-{138}{}{Tengo que irme.}
+{138}{}{Me tengo que ir.}
 {139}{}{Eh, vale. Encantado de conocerte, Elegido... la verdad, sí que había oído hablar de un 'Maestro'...}
 {140}{}{Qué interesante. Eso me recuerda una historia que oí hace mucho tiempo sobre un 'Maestro'.}
 {141}{}{¿De verdad? ¿Qué oíste?}
-{142}{}{Cuéntamela.}
+{142}{}{Dime.}
 {143}{}{Oh, vale. Adiós.}
 {144}{}{Bueno, eso podría llevarme un rato. Sé un caballero e invítame a una copa, ¿quieres? Nada de whisky, por favor. Nuka-Cola.}
 {145}{}{Bueno, eso podría llevarme un rato. Sé buena chica y pídeme una copa, ¿quieres? Nada de whisky, por favor. Nuka-Cola.}
@@ -53,13 +46,13 @@
 {151}{}{Unos mutantes enormes con unas armas tan grandes como tú y yo vinieron desde el sur. Mamá decía que parecía alguna clase de migración.}
 {152}{}{¿Cuántos eran?}
 {153}{}{No lo sé, pero había muchos grupos de ellos. Algunos continuaron hacia el norte, otros se dirigieron al este. Nadie sabe a dónde fueron.}
-{154}{}{Continúa.}
+{154}{}{Sigue.}
 {155}{}{Estaban bastante cabreados y parecían huir de algo.}
 {156}{}{¿De verdad?}
 {157}{}{Sí, había otros que vestían unas túnicas moradas que estaban sucias y hechas jirones... Balbuceaban algo sobre cómo 'El Maestro' había muerto...}
 {158}{}{Interesante.}
 {159}{}{¡Algunos de ellos incluso se suicidaron aquí, en el pueblo!}
-{160}{}{¿Sí?}
+{160}{}{¿Y?}
 {161}{}{¿No te das cuenta? Hablaban de 'El Maestro', aquel al que tu antepasado mató.}
 {162}{}{Gracias por la historia.}
 {163}{}{Bueno, se está haciendo tarde. Adiós.}

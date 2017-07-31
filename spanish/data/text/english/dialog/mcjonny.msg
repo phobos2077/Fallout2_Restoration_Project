@@ -1,12 +1,6 @@
-#############################################################
-#  Jonny  (Modoc)   		                            #
-#  Traducido por Wenck                                      #
-#############################################################
-
-{100}{}{Ves a un chico pequeño.}
-{101}{}{Ves a Jonny.}
+{100}{}{Ves a un niño pequeño.}
+{101}{}{Ves a Joey.}
 {102}{}{Pelo rubio, ojos azules: el típico chico americano.}
-
 {150}{}{¡Buaaaaa!}
 {151}{}{¡Quiero mi perro!}
 {152}{}{Suspiro… }
@@ -21,7 +15,7 @@
 {166}{}{Tu madre y tu padre me han enviado a buscarte.}
 {168}{}{¿Has hablado con Vegeir para que pueda volver a casa?}
 {169}{}{Sí. Ha dicho que quiere que tus padres vengan a buscarte.}
-{170}{}{No, todavía no.}
+{170}{}{No, aún no.}
 {171}{}{Mi papá dijo que Laddie fue contigo para buscarme. ¿Dónde está? Le echo de menos.}
 {172}{}{Lo siento, Jonny. Laddie murió mientras te buscábamos.}
 {173}{}{Rose dijo que cuidaría de tu perro.}
@@ -50,15 +44,11 @@
 {196}{}{Se supone que no debo hablar con extraños. Adiós.}
 {197}{}{¡Eso es! ¿Cómo lo has sabido? Laddie ha debido decírtelo. Es un perro tan listo.}
 {199}{}{Vas a venir conmigo, chico. Hay una recompensa por llevarte de vuelta a casa.}
-
 {200}{}{Sí, creo que es lo mejor. Aunque confío en ti, estoy seguro de que Vegeir tan sólo quiere asegurarse de que vuelvo a casa sano y salvo. Gracias por tu ayuda.}
 {201}{}{Por favor, date prisa. Quiero volver a casa.}
 {202}{}{¡No! ¡No te creo! ¡Devuélveme a mi perro! [¡Buaaaaaa!]}
 {203}{}{¡Oh no! ¿No sabes que Rose usa perro en sus platos? Ahora Laddie se habrá convertido en una hamburguesa.}
-
-
 {300}{}{¡¡¡Laddie!!!}
-
 {400}{}{Gracias por salvarme, señor.}
 {401}{}{¡Que bueno estar en casa!}
 {402}{}{Wahoo...}

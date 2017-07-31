@@ -1,9 +1,3 @@
-#
-#   Messages from trait.c
-#
-#
-#   TRAIT NAMES
-#
 {100}{}{Metabolismo rápido}
 {101}{}{Grandullón}
 {102}{}{Canijo}
@@ -17,12 +11,9 @@
 {110}{}{Bonachón}
 {111}{}{Adicto a drogas}
 {112}{}{Inmune a drogas}
-{113}{}{Sex appeal}  # was: Night Person
+{113}{}{Sex appeal}
 {114}{}{Habilidoso}
 {115}{}{Capacitado}
-#
-#   TRAIT DESCRIPTIONS
-#
 {200}{}{Tu tasa metabólica es el doble de rápida de lo normal. Esto significa que eres mucho menos resistente a la radiación y al envenenamiento, pero tu cuerpo se cura más rápido.}
 {201}{}{Más lento, pero más grandote. No acertarás a menudo, pero cuando lo hagas les dolerá. Tus puntos de acción totales disminuyen, pero aumenta tu Fuerza.}
 {202}{}{Puede que no seas tan grande como los demás aldeanos, pero eso nunca te ha ralentizado. No puedes llevar mucho peso, pero eres mucho más ágil.}

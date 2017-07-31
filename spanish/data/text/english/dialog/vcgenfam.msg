@@ -31,7 +31,7 @@
 {128}{}{Es un poco tarde para las visitas.}
 {129}{}{La MAYORÍA de Ciudadanos debería estar durmiendo a esta hora.}
 {130}{}{¿Durmiendo? No, ya no.}
-{131}{}{Por favor... vuelve por la mañana. Entonces me espera un largo día de confeccionar listas.}
+{131}{}{Por favor... vuelve por la mañana. Mañana me espera un largo día de confeccionar listas.}
 {132}{}{Que le vaya bien, capitán.}
 {133}{}{Ciudad Refugio prevalece, capitán.}
 {134}{}{Se quedará a cenar, capitán? Nuestro siervo está haciendo un delicioso gulash.}
@@ -45,7 +45,7 @@
 {142}{}{Por favor, quédate a cenar, Ciudadano. Nuestro siervo está haciendo un delicioso gulash.}
 {143}{}{He pasado la mayor parte del día haciendo una lista para el procónsul, y luego revisándola. Me encanta hacer
  listas.}
-{144}{}{Trabajo en la Oficina de Listas. La mayoría de nosotros lo hace. Aquí en Ciudad Refugio *adoramos* hacer listas.}
+{144}{}{Trabajo en la oficina de Listas. La mayoría de nosotros lo hace. Aquí en Ciudad Refugio *adoramos* hacer listas.}
 {145}{}{He pasado la mayor parte del día actualizando una lista para la Oficina de Listas. Honestamente, ha sido un buen
  y productivo trabajo.}
 {146}{}{He oído que realmente has viajado al mundo exterior. ¿Cómo sobreviviste entre esos sucios forasteros?}

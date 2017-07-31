@@ -26,7 +26,7 @@
 {125}{}{¡Eres un cerebro de mosquito! ¡Cerebro de mosquito!}
 {126}{}{De acuerdo.}
 {127}{}{Noticias sobre el señor Bishop. ¿Vale?}
-{128}{}{Bastante bueno.}
+{128}{}{Bastante bien.}
 {129}{}{Papá dice que no puede verte.}
 {130}{}{Le dije eso a papá. Creo que no le gustas.}
 {131}{}{Papá dice que puedes entrar en la casa.}

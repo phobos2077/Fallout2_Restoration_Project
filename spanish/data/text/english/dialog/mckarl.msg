@@ -1,17 +1,11 @@
-#############################################################
-#  Karl (Modoc)   		                            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Una persona muy borracha. [Tiene un letrero que dice "trabajo a cambio de comida"]}
-{101}{}{Ves a Karl.}
+{101}{}{Ves a Harold.}
 {102}{}{Está tan sucio que adviertes que algunas flores silvestres le están creciendo en el pelo.}
-
 {150}{}{Eh, una cerveza.}
 {151}{}{Eh, una botella de licor.}
 {152}{}{Eh, una Nuka-Cola.}
 {153}{}{Eh.}
-{154}{}{¡Eh!}
+{154}{}{¡Oye!}
 {155}{}{¡Eh!}
 {156}{}{Los fantasmas no podrán encontrarme aquí... [Sollozo]}
 {157}{}{Qué bueno volver a casa.}
@@ -30,13 +24,13 @@
 {173}{}{Lo siento, no tengo nada para ti. Adiós.}
 {174}{}{¿Sabes dónde puedo encontrar un GECK?}
 {175}{}{Antes has mencionado algo sobre un huerto. Cuéntame más sobre ello.}
-{178}{}{Marcho.}
+{178}{}{Me voy, yo.}
 {179}{}{¡Eh, tacaño! (hic) Vamos, sé que tienes dinero... (hic) Tan sólo un poco de calderilla...(hic) algo, ¡lo que sea! Un poco de compasión.}
 {180}{}{Toma. Aquí tienes 25 dólares.}
 {184}{}{Toma. Aquí tienes 1 dólar.}
 {185}{}{Toma dinero.}
 {186}{}{No dinero.}
-{187}{}{¿Qué es lo que quieres?}
+{187}{}{¿Qué quieres?}
 {188}{}{[Cuéntale a Karl lo que Jo te dijo].}
 {189}{}{Fantasmas, Karl… están por todas partes. Mira, ¡aquí hay uno!}
 {190}{}{Gibba gibba.}
@@ -68,7 +62,7 @@
 {225}{}{Oh bueno, quizás pueda hablar con Karl más tarde.}
 {226}{}{De verdad que (hic) eres mi mejor amigo en el maldito (hic) mundo entero. [Karl abre la botella y empieza a beber... y entonces comienza a vomitarte encima]. ¡Puaj! ¿Pero qué...?! Estás intentando envenenarme o qué?! ¡Lárgate de aquí!}
 {227}{}{Vaya, gracias (hic); eres muy (hic) amable. ¿Por qué no me dejas que te ayude con esa cartera tan pesada? [Karl coge tu cartera y se lleva la mitad de tu dinero]. Muy amable de tu parte. (hic) Si necesitas algo, no tengas miedo en preguntarme.}
-{228}{}{¿GECK?}
+{228}{}{GECK?}
 {229}{}{Yo marcho.}
 {230}{}{Jooky… hic… Es una fiesta en cada lata.}
 {231}{}{Entonces, quizás más tarde.}
@@ -89,19 +83,15 @@
 {246}{}{[Tu y Karl os escapáis a la parte de atrás para echar uno rapidito. Para tu sorpresa, resulta que te gusta].}
 {247}{}{[Se queda sobrio rápidamente y comienza a contar su historia]. Solía ser un respetable ciudadano antes de venir aquí. Era un pacifico granjero que trabajaba el campo tan duro como cualquier otro hombre... hasta que empezaron a aparecer por la noche. Todo resplandecientes, con esa piel blancuzca... Me ponían los pelos de punta, de verdad que sí. Noche tras noche aparecían y robaban la cosecha y el ganado; no podía hacer nada para detenerlos. Sé que vas a decirme '¿Por qué no pediste ayuda?'. ¡Lo hice! Nadie quiso creerme, pensaban que estaba loco. Finalmente, fue demasiado para mí. ¡NO PODÍA AGUANTARLO MÁS! Así que me fui y vine aquí, y aquí he estado desde entonces. [Karl empieza a llorar desconsoladamente. Decides dejarle solo con su pena].}
 {248}{}{Oh, joder. Debo haberme quedado sin dinero por el camino. Aquí tengo}
-{249}{}{ dólares.}
-
+{249}{}{.}
 {250}{}{Zzz}
 {251}{}{Zzzzzz}
 {252}{}{Zzzzzzzzz}
 {253}{}{Zzzzzzzzzzzz}
 {254}{}{Zzzzzzzzzzzzzzz}
 {255}{}{*ronquido* *gruñido* *ronquido*}
-
 {260}{}{Oh, joder. Debo haberme quedado sin dinero por el camino. Aquí tengo}
 {261}{}{ dólares. Es todo lo que tengo.}
 {262}{}{Oh, joder. Debe haberme quedado sin dinero por el camino. Lo siento, ha sido divertido de todos modos.}
-
 {300}{}{¡Vuelvo a casa, gracias a ti!}
-
 {400}{}{Has hecho que Karl vuelva a Modoc.}

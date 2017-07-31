@@ -6,16 +6,16 @@
 {105}{}{¡Da aggle oo!}
 {106}{}{¡Cosas!}
 {107}{}{¿Quién eres?}
-{108}{}{Busco algo de equipamiento.}
-{109}{}{Busco cierta información.}
+{108}{}{Estoy buscando algo de equipamiento.}
+{109}{}{Estoy buscando algo de información.}
 {110}{}{Adiós.}
 {111}{}{¿Quieres comprar algo?}
 {112}{}{::asientes con la cabeza::}
 {113}{}{::niegas con la cabeza::}
 {114}{}{Esto es lo que tengo, entonces.}
-{115}{}{-fin-}
+{115}{}{HECHO}
 {116}{}{Bien, me temo que eso es todo lo que puedo hacer por ti. Buenos días.}
-{117}{}{-hecho-}
+{117}{}{HECHO}
 {118}{}{Soy Lao Chou. Dirijo este establecimiento, El Dragón Volador Ocho, una tienda en general. Se me conoce por comerciar con... información.}
 {119}{}{¿Qué clase de información?}
 {120}{}{Ya veo. Me gustaría algo de equipamiento.}
@@ -44,15 +44,15 @@
 {143}{}{Ah, ya. Adiós.}
 {144}{}{El doctor Wong el el científico jefe del Palacio de Acero. Mira por allí.}
 {145}{}{¿Cómo pierde uno un bazo, por cierto?}
-{146}{}{Gracias. Necesito más información.}
+{146}{}{Gracias. Quería más información.}
 {147}{}{Gracias. Adiós.}
 {148}{}{Estaba borracho. Muy, muy borracho. Llevaba toda la noche perjurando que iba a perder hasta los higadillos. Y entonces apostó una parte.}
 {149}{}{¿Así que te quedaste con su BAZO?}
-{150}{}{Ya veo. Bien, tengo más preguntas.}
+{150}{}{Ya veo. Bueno, tengo más preguntas.}
 {151}{}{Sí. Era una deuda. Es un hombre honorable.}
 {152}{}{Ya veo. Necesito más información.}
 {153}{}{Eres un bastardo enfermo, ¿verdad?}
-{154}{}{Correcto. Adiós.}
+{154}{}{Cierto. Adiós.}
 {155}{}{No eres una persona honorable. No te quiero en mi tienda. Vuelve en otro momento.}
 {156}{}{Lo que sea.}
 {157}{}{No fue así. Vinieron desde el norte y nos sobrevolaron, dirigiéndose hacia el océano.}
@@ -74,7 +74,7 @@
 {173}{}{Has actuado bien con mi pueblo al asesinar a AHS-9. Espero que pueda serte de ayuda de algún modo.}
 {174}{}{¿Quién eres?}
 {175}{}{Estoy buscando algo de equipamiento.}
-{176}{}{Estoy buscando cierta información.}
+{176}{}{Estoy buscando algo de información.}
 {177}{}{Adiós.}
 {178}{}{Ya se lo has entregado a los Hubologistas. ¿No?}
 {179}{}{Oh, sí... ah... ¿puedo preguntarte algo más?}

@@ -1,16 +1,9 @@
 {100}{}{Ves a Frenchy.}
 {101}{}{Ves a Paine.}
 {102}{}{Ves a Sims.}
-
-# 0. MALE (WTG)
 {150}{}{Ves a un hombre harapiento. Está acurrucado cerca de un bidón con fuego, cantando. Tiene una voz muy bonita.}
 {151}{}{Ves a un cantante. Está acurrucado cerca de un bidón con fuego, cantando.}
-
-# 1. CLICK (WTG)
 {200}{}{Hey… }
-{1200}{}{!El gran héroe! ¿Cómo podemos ayudarte? Quizá cantándote algo especial, ¿eh?}
-{1201}{}{. ¿Podemos ayudarte?}
-{1202}{}{. ¿Te ayudamos en algo, campeón?}
 {203}{}{¿Te ayudamos en algo, hijo?}
 {204}{}{::Se toca un sombrero imaginario.:: ¿Te ayudamos en algo, señora?}
 {205}{}{¿Conocéis 'Rema rema bote por la corriente'?}
@@ -19,49 +12,35 @@
 {208}{}{Estaría honrado si lo hicierais. Gracias, muchachos.}
 {209}{}{Ahí van un par de pavos. ¿Puedes cantar otra cosa?}
 {210}{}{No, sólo escuchar, gracias.}
-
-# 2. SURE (1)
 {300}{}{De acuerdo entonces… ya habéis oído al caballero, muchachos. Probemos otra cosa.}
 {301}{}{De acuerdo entonces… ya habéis oído a la dama, muchachos. Probemos otra cosa.}
-{302}{}{Gracias}
+{302}{}{Graciasss.}
 {303}{}{Gracias, muchachos.}
-
-# 3. FLOAT (SONG] (WTG)
 {400}{}{Oooooh}
 {402}{}{Mi chica no volvió a casa...}
 {405}{}{Mi chica no lo hizo bieeeeeen...}
 {408}{}{Mi chica se fue y me abandonooooo...}
 {409}{}{}
-
-# 4. FLOAT (SONG] (WTG)
-{500}{}{Entra}
+{500}{}{Bien.}
 {501}{}{Siente el dolor}
 {502}{}{Ven de nuevo algún otro día}
 {503}{}{}
-
-# 6. FLOAT (SONG] (WTG)
 {600}{}{ Botellas de cerveza en la pared...}
 {601}{}{ Botellas de cerveza...}
 {602}{}{Abre una...}
 {603}{}{Pásala...}
 {605}{}{}
-
-# 7. FLOAT (SONG] (WTG)
 {700}{}{Rema Rema Rema}
 {701}{}{Tu Bote}
 {702}{}{Suavemente baja la Corriente}
 {703}{}{Alegremente}
 {706}{}{La vida es como un sueño...}
 {707}{}{}
-
-# 8. FLOAT (HERO SONG] (WTG)
 {800}{}{No necesitamos otro héroe...}
 {801}{}{No necesitamos saber el camino a casa...}
 {802}{}{Todo lo que necesitamos está más allá...}
 {803}{}{Metadona}
 {804}{}{}
-
-# 5. FLOAT (SONG] (WTG)
 {900}{}{Dame}
 {901}{}{Un beso para construir un sueño}
 {902}{}{Y mi imaginación}
@@ -86,3 +65,6 @@
 {935}{}{Labios un sólo momento}
 {937}{}{Harán vivir ese momento}
 {941}{}{}
+{1200}{}{!El gran héroe! ¿Cómo podemos ayudarte? Quizá cantándote algo especial, ¿eh?}
+{1201}{}{. ¿Podemos ayudarte?}
+{1202}{}{. ¿Te ayudamos en algo, campeón?}

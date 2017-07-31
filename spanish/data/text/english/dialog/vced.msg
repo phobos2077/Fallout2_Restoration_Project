@@ -6,12 +6,12 @@
 {105}{}{No tengo ni idea de dónde sigue viniendo toda esa mierda de brahmin. Simplemente aparece.}
 {106}{}{Bien, hola, forastero. Soy Ed, el tratante de brahmines local. ¿Puedo ayudarte en algo?}
 {107}{}{Me alegra verte de nuevo. ¿Qué puedo hacer por ti?}
-{108}{}{¿Conoces a un comerciante llamado Vic? He oído que él te compró esta cantimplora de Refugio.}
+{108}{}{¿Conoces a un comerciante llamado Vic? Dijo que te compró esta cantimplora de Refugio.}
 {109}{}{¿Conoces a un comerciante llamado Vic?}
 {110}{}{Mi amigo Vic aquí presente dice que te compró esta cantimplora de Refugio.}
 {111}{}{¿Ha habido suerte recordando dónde conseguiste esta cantimplora?}
 {112}{}{Estoy buscando el Refugio.}
-{113}{}{¿Qué puedes contarme sobre Ciudad Refugio?}
+{113}{}{¿Puedes hablarme de Ciudad Refugio?}
 {114}{}{¿Qué estás haciendo por aquí?}
 {115}{}{Adiós.}
 {116}{}{¿Vic?}
@@ -50,12 +50,12 @@
 {148}{}{Mi amigo Vic aquí presente dice que te compró esta cantimplora de Refugio.}
 {149}{}{¿Ha habido suerte recordando dónde conseguiste esta cantimplora?}
 {150}{}{Estoy buscando el Refugio.}
-{151}{}{¿Qué puedes contarme sobre Ciudad Refugio?}
+{151}{}{¿Puedes hablarme de Ciudad Refugio?}
 {152}{}{¿Qué estás haciendo por aquí?}
 {153}{}{Adiós.}
 {154}{}{Bueno... hay un Refugio dentro de la zona principal de la ciudad. ¿Ya lo has comprobado? Podría ser el que estás buscando.}
 {155}{}{Bueno... hay un Refugio dentro de la zona principal de la ciudad. ¿Es eso lo que estás buscando?}
-{156}{}{Quizá. Tenía algunas preguntas más...}
+{156}{}{Quizá. Tenía otras preguntas...}
 {157}{}{Podría ser. Gracias por la información.}
 {158}{}{Un buen lugar... si consigues tratar con los Ciudadanos. No estoy de acuerdo con algunos de sus puntos de vista, pero oye, me gano la vida bastante bien aquí.}
 {159}{}{Tenía algunas preguntas más...}

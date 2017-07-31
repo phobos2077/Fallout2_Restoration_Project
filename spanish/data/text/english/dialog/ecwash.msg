@@ -1,8 +1,3 @@
-#############################################################
-#  Aldeanos Sucios (Encuentros)            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a Buffy, un miembro de los Aldeanos Sucios.}
 {101}{}{Ves a Doombot, un miembro de los Aldeanos Sucios.}
 {102}{}{Ves a Panoply, un miembro de los Aldeanos Sucios.}
@@ -15,8 +10,6 @@
 {109}{}{Ves a Alexand Abeja Asesina, un miembro de los Aldeanos Sucios.}
 {110}{}{Ves a Hatchetman, un miembro de los Aldeanos Sucios.}
 {111}{}{Ves a BlueCross, un miembro de los Aldeanos Sucios.}
-
-# Examines
 {113}{}{Ves a Buffy, hermosa e inteligente animadora. Primera Dama de los Sucios.}
 {114}{}{Ves a Doombot, Diosa del Sonido y hermana de Buffy. Se parece a Marie Osmond.}
 {115}{}{Ves a Panoply, una muchacha de belleza élfica cuyos ojos muestran un ligero caso de demencia.}
@@ -29,8 +22,6 @@
 {122}{}{Ves a Alexand Abeja Asesina, una gentil e inteligente variedad de abeja asesina: Escriba jefe de los Sucios.}
 {123}{}{Ves a Hatchetman, Armero de los Sucios e Iniciador de Incendios: Guardián del trasfondo de Shadowrun.}
 {124}{}{Ves a BlueCross, Bajo Sacerdote de los Sucios: Director de Producción.}
-
-# UV Leaving Floats
 {200}{}{¡Los Aldeanos Sucios han vuelto a salvar el día!}
 {201}{}{La muerte es demasiado buena para él.}
 {202}{}{¡Y quédate muerto!}
@@ -52,8 +43,6 @@
 {218}{}{Los Aldeanos Sucios. Manteniendo la paz en el jodido Yermo.}
 {219}{}{Tiene lo que merecía.}
 {220}{}{¡Te la voy a jugar!}
-
-# UV Combat Floats
 {300}{}{¿Jabón? No necesitamos ningún apestoso jabón!}
 {301}{}{¡Destruid al Spammer!}
 {302}{}{¡Muerte al Spammer!}
@@ -75,46 +64,22 @@
 {318}{}{¡No tienes una sola oportunidad!}
 {319}{}{¡Todavía no hemos acabado!}
 {320}{}{He estado esperando este día durante mucho tiempo.}
-
-# 1 Buffy Personal Floats
 {400}{}{¡Esto es por amenazarme!}
 {401}{}{¡Claro que estoy segura! No le harías daño a una chica, ¿no?}
 {402}{}{'La venganza es un plato que se sirve mejor frío'.}
 {403}{}{Soy Buffy... tu heroína.}
-
-# 2 Doombot Personal Floats
 {405}{}{¡Nadie amenaza a Doombot!}
 {406}{}{¡Asesino de Grim!}
-
-# 3 Panoply Personal Floats
 {410}{}{Solo una guanábana podría compararse con el sabor de la victoria...}
-
-# 4 Lerk Personal Floats
 {415}{}{La Aldea es un sitio feliz, pero tu la has cabreado mucho, mucho.}
-
-# 5 Ymir Personal Floats
 {420}{}{¡Has avergonzado a nuestro país con tus acciones por última vez!}
-
-# 6 Iguana Eater Personal Floats - None
-
-# 7 Night Owl Personal Floats
 {430}{}{¡Te voy a poner a dormir por tu propio bien!}
-
-# 8 Shadow Dancer Personal Floats
 {435}{}{Nos vamos todos al infierno, y yo conduzco el autobús.}
 {436}{}{Vamos hijo, deja que te quite el dolor.}
 {437}{}{Estás muerto. Solo que aún no lo sabes.}
-
-# 9 Amish Commando Personal Floats
 {440}{}{¡Toma esto!}
 {441}{}{¿Quieres un poco de esto?}
 {442}{}{¡En la cara no, en la cara no!}
-
-# 10 Killer Bee Personal Floats
 {445}{}{Dante no escribió nada acerca del infierno al que te voy a enviar...}
-
-# 11 Hatchetman Personal Floats
 {450}{}{¡Armas! ¡Dónde están mis armas!}
 {451}{}{Vale, sí. Estoy loco. Acéptalo.}
-
-# 12 BlueCross Personal Floats - None

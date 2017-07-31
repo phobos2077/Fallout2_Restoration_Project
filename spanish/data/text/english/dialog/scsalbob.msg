@@ -19,7 +19,7 @@
 {118}{}{¡Grrrg!}
 {119}{}{¡Calma, compadre! No puedes culpar a un hombre sólo por preguntar, ¿verdad? Te dejaré tranquilo entonces.}
 {120}{}{(Gulp, gulp, gulp) ¡Aaaahhhh! ¡Eso está muy bien por tu parte, forastero! Buena persona, sí señor. El tipo de hombre al que tener por compadre. (Gulp) ¿Te he hablado alguna vez de cuando di mi gran golpe?}
-{121}{}{No.}
+{121}{}{¿No?}
 {122}{}{¡Oye, deja de beberte toda mi cerveza!}
 {123}{}{¡Rahhhg!}
 {124}{}{Fue allá por el 78, yo y Bessie -el mejor robot que haya tenido un hombre- buscábamos u-ra-nio al oeste de aquí. No habíamos conseguido ni una mala piedra radiactiva cuando de repente cinco -no, estoy seguro de que eran diez- Garras mortales nos saltaron encima.}
@@ -28,7 +28,6 @@
 {127}{}{Era una puerta enorme, del tipo de las que se ven en las viejas cintas de vídeo. Grande y hecha de acero. ¡Y en ella estaba grabado un enorme 13!}
 {128}{}{Sabía que lo había encontrado, la veta madre, el Refugio 13. Me senté allí mismo y preparé un mapa. Casi la palmo cuando salí de allí, enfrentado a las Garras mortales y después al sol del desierto sin agua.}
 {129}{}{Con el tiempo llegué a Arenas Sombrías tambaleándome, casi muerto. Me llevaron al doctor y me parchearon, pero ese doctor me robó el mapa. Estoy seguro y eso es todo lo que tengo que decir.}
-# took this out -- Got anymore o' that drink, stranger?
 {130}{}{(Continuar)}
 {131}{}{¡Maldita sea, es un hombre bueno y honesto, eso es lo que es! Los chicos me dejan cocinar aquí y si no fueras un cabeza de chorlito lo sabrías y sabrías respetar a tus mayores.}
 {132}{}{Lo siento, viejo, no pretendía sacarte de quicio.}
@@ -44,7 +43,7 @@ Oye, ¿no tendrás algo de licor? ¿Sólo un traguito?}
 {141}{}{¿Cecina? ¿Qué clase de nombre es ese?}
 {142}{}{Encantado de conocerte. Soy}
 {143}{}{Rayos y truenos, ¿otra vez tú? ¡Aparta tu flaco culo de mi vista!}
-{144}{}{¡Que te den!}
+{144}{}{¡Chúpamela!}
 {145}{}{Eres un tipo raro, viejo.}
 {146}{}{¡Joder, claro que lo soy! ¿No tendrás alguna bebida encima, verdad? Para un anciano.}
 {147}{}{Sí.}

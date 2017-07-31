@@ -3,7 +3,7 @@
 {200}{}{Heroína}
 {201}{}{}
 {300}{}{Aldeano}
-{400}{}{Aldeana}
+{400}{}{Aldeano}
 {500}{}{Escorpión rad}
 {501}{}{Un pequeño escorpión mutante.}
 {600}{}{Escorpión rad}
@@ -27,59 +27,59 @@
 {1601}{}{Una planta carnívora}
 {1700}{}{Esclavo atractivo}
 {1800}{}{Esclava atractiva}
-{1900}{}{Esclavo sano}
+{1900}{}{Esclava sana}
 {2000}{}{Esclava sana}
-{2100}{}{Esclavo fuerte}
+{2100}{}{Esclava fuerte}
 {2200}{}{Esclava fuerte}
-{2300}{}{Esclavo de combate}
+{2300}{}{Esclava de combate}
 {2400}{}{Esclava de combate}
-{2500}{}{Esclavo inteligente}
+{2500}{}{Esclava inteligente}
 {2600}{}{Esclava inteligente}
-{2700}{}{Esclavo genérico}
+{2700}{}{Esclava genérica}
 {2800}{}{Esclava genérica}
-{2900}{}{Anna}
-{3000}{}{Matón duro}
+{2900}{}{Ana}
+{3000}{}{Matón dura}
 {3100}{}{Matón dura}
 {3200}{}{Matón meleé}
 {3300}{}{Matón meleé}
 {3400}{}{Matón ágil}
 {3500}{}{Matón ágil}
-{3600}{}{Matón armado}
+{3600}{}{Matón armada}
 {3700}{}{Matón armada}
-{3800}{}{Matón muy armado}
+{3800}{}{Matón muy armada}
 {3900}{}{Matón muy armada}
-{4000}{}{Guardia duro}
+{4000}{}{Guardia dura}
 {4100}{}{Guardia dura}
 {4200}{}{Guardia meleé}
 {4300}{}{Guardia meleé}
 {4400}{}{Guardia ágil}
 {4500}{}{Guardia ágil}
-{4600}{}{Guardia armado}
+{4600}{}{Guardia armada}
 {4700}{}{Guardia armada}
-{4800}{}{Guardia muy armado}
+{4800}{}{Guardia muy armada}
 {4900}{}{Guardia muy armada}
 {5000}{}{Huérfano}
 {5100}{}{Huérfana}
 {5200}{}{Niño}
 {5300}{}{Niña}
-{5400}{}{Perdedor}
+{5400}{}{Perdedora}
 {5500}{}{Perdedora}
-{5600}{}{Mal mercader}
+{5600}{}{Mala mercader}
 {5700}{}{Mala mercader}
 {5800}{}{Mercader}
 {5900}{}{Mercader}
 {6000}{}{Gran mercader}
 {6100}{}{Gran mercader}
 {6200}{}{Vic}
-{6300}{}{Campesino débil}
+{6300}{}{Campesina débil}
 {6400}{}{Campesina débil}
-{6500}{}{Campesino}
+{6500}{}{Campesina}
 {6600}{}{Campesina}
-{6700}{}{Campesino fuerte}
+{6700}{}{Campesina fuerte}
 {6800}{}{Campesina fuerte}
-{6900}{}{Guardia meleé mal armado}
+{6900}{}{Guardia meleé mal armada}
 {7000}{}{Guardia meleé mal armada}
-{7100}{}{Guardia mal armado}
+{7100}{}{Guardia mal armada}
 {7200}{}{Guardia mal armada}
 {7300}{}{Robot de reparaciones}
 {7400}{}{Robot de reparaciones Mark II}
@@ -105,7 +105,7 @@
 {9300}{}{Ciudadano de clase alta}
 {9400}{}{Ciudadana de clase alta}
 {9500}{}{Trampero}
-{9600}{}{Trampera}
+{9600}{}{Trampero}
 {9700}{}{Sulik}
 {9800}{}{Maida Buckner}
 {9900}{}{Torr}
@@ -126,7 +126,7 @@
 {11400}{}{Brahmin débil}
 {11401}{}{Una vaca mutante de dos cabezas.}
 {11500}{}{A.Pwr.Armor (don't use)}
-{11600}{}{Rata mutante}
+{11600}{}{Rata mutada}
 {11601}{}{Una rata mutante}
 {11700}{}{Rata Topo mutante}
 {11701}{}{Una rata topo mutante}
@@ -155,7 +155,7 @@
 {13900}{}{Guardia Meleé de la RNC}
 {14000}{}{Guardia Esclavista}
 {14100}{}{Supervisor Esclavista}
-{14200}{}{Gran Maestro Mercader}
+{14200}{}{Gran Maestra Mercader}
 {14300}{}{Gran Maestra Mercader}
 {14400}{}{Tandi}
 {14500}{}{Merc}
@@ -180,10 +180,10 @@
 {16400}{}{Miria}
 {16500}{}{Laddie}
 {16600}{}{Rondo}
-{16700}{}{Ranchero}
-{16800}{}{Ranchera}
-{16900}{}{Ranchero}
-{17000}{}{Portero}
+{16700}{}{Peón}
+{16800}{}{Peón}
+{16900}{}{Peón}
+{17000}{}{Portera}
 {17100}{}{Portera}
 {17200}{}{Señor Mañoso débil}
 {17300}{}{Resplandeciente genérico}
@@ -214,7 +214,7 @@
 {19700}{}{Jonny}
 {19800}{}{Jo}
 {19900}{}{Zeke}
-{20000}{}{Butcher}
+{20000}{}{Matarife}
 {20100}{}{Petey}
 {20200}{}{Cazador primitivo}
 {20300}{}{Cazador primitivo}
@@ -227,18 +227,18 @@
 {21000}{}{Nómada - Baj}
 {21100}{}{Nómada - Med}
 {21200}{}{Bandido}
-{21300}{}{Bandida}
+{21300}{}{Bandido}
 {21400}{}{Granjero}
-{21500}{}{Granjera}
+{21500}{}{Granjero}
 {21600}{}{Mantis}
-{21700}{}{Negrero}
-{21800}{}{Negrera}
+{21700}{}{Esclavista}
+{21800}{}{Esclavista}
 {21900}{}{Brahmin salvaje}
-{22000}{}{Supervivencialista}
-{22100}{}{Supervivencialista}
-{22200}{}{Patrullero de Ciudad Refugio}
+{22000}{}{Hacendado}
+{22100}{}{Hacendado}
+{22200}{}{Patrullera de Ciudad Refugio}
 {22300}{}{Patrullera de Ciudad Refugio}
-{22400}{}{Negrero fuerte}
+{22400}{}{Negrera fuerte}
 {22500}{}{Negrera fuerte}
 {22600}{}{Loco}
 {22700}{}{Carroñero}
@@ -248,12 +248,12 @@
 {23100}{}{Pescadora}
 {23200}{}{Salvaje}
 {23300}{}{Salvaje}
-{23400}{}{Contrabandista de licor}
-{23500}{}{Contrabandista de licor}
-{23600}{}{Prospector}
-{23700}{}{Prospectora}
-{23800}{}{Bandido}
-{23900}{}{Bandida}
+{23400}{}{Contrabandista}
+{23500}{}{Contrabandista}
+{23600}{}{Explorador}
+{23700}{}{Explorador}
+{23800}{}{Saqueador}
+{23900}{}{Saqueador}
 {24000}{}{Gecko de fuego}
 {24100}{}{Gecko de fuego duro}
 {24200}{}{Alien}
@@ -264,12 +264,12 @@
 {24700}{}{Nómada sucio}
 {24800}{}{Centauro}
 {24900}{}{Centauro malvado}
-{25000}{}{Patrullero del Enclave}
+{25000}{}{Patrullera del Enclave}
 {25100}{}{Patrullera del Enclave}
 {25200}{}{Gángster de la prensa}
 {25300}{}{Gángster de la prensa}
 {25400}{}{Mercenario}
-{25500}{}{Mercenaria}
+{25500}{}{Mercenario}
 {25600}{}{Nocturno}
 {25700}{}{Nocturno duro}
 {25800}{}{Necrófago duro}
@@ -277,15 +277,15 @@
 {26000}{}{Yakuza}
 {26100}{}{Ranger de la RNC}
 {26200}{}{Ranger de la RNC}
-{26300}{}{Merodeador}
+{26300}{}{Merodeadora}
 {26400}{}{Merodeadora}
 {26500}{}{Lloyd el Guapo}
 {26600}{}{Rata Vorpal}
 {26700}{}{Hombre del Refugio 13}
 {26800}{}{Mujer del Refugio 13}
 {26900}{}{Guardián del puente}
-{27000}{}{Forastero misterioso}
-{27100}{}{Forastera misteriosa}
+{27000}{}{Forastero Misterioso}
+{27100}{}{Forastero Misterioso}
 {27200}{}{Hakeswill}
 {27300}{}{Gran Jesús Mordino}
 {27400}{}{Dumar}
@@ -294,19 +294,19 @@
 {27700}{}{Lo Pan}
 {27800}{}{Hubologista}
 {27900}{}{Hubologista}
-{28000}{}{Forastero misterioso}
-{28100}{}{Forastero misterioso}
-{28200}{}{Forastero misterioso}
-{28300}{}{Forastero misterioso}
-{28400}{}{Forastero misterioso}
-{28500}{}{Forastero misterioso}
-{28600}{}{Forastero misterioso}
-{28700}{}{Forastero misterioso}
+{28000}{}{Forastero Misterioso}
+{28100}{}{Forastero Misterioso}
+{28200}{}{Forastero Misterioso}
+{28300}{}{Forastero Misterioso}
+{28400}{}{Forastero Misterioso}
+{28500}{}{Forastero Misterioso}
+{28600}{}{Forastero Misterioso}
+{28700}{}{Forastero Misterioso}
 {28800}{}{Guardaespaldas del Presidente}
 {28900}{}{Huevo Garra mortal}
 {29000}{}{Metzger}
-{29100}{}{Persona}
-{29200}{}{Persona con un extraño tipo de armadura}
+{29100}{}{Personal}
+{29200}{}{Ves a un hombre que lleva una especie de armadura.}
 {29300}{}{Presidente}
 {29400}{}{Vicepresidente}
 {29500}{}{Técnico}
@@ -314,14 +314,14 @@
 {29700}{}{Doctor Fung}
 {29800}{}{Chico}
 {29900}{}{Chico}
-{30000}{}{Mercader de armas}
-{30100}{}{Técnico de laboratorio Shi}
-{30200}{}{Guardia Shi}
-{30300}{}{Campesino Shi}
+{30000}{}{Comerciante de armas}
+{30100}{}{Técnico Shi de laboratorio}
+{30200}{}{Guardia de Shi}
+{30300}{}{Campesina Shi}
 {30400}{}{Campesina Shi}
-{30500}{}{Campesino de Lo Pan}
+{30500}{}{Campesina de Lo Pan}
 {30600}{}{Campesina de Lo Pan}
-{30700}{}{Estibador}
+{30700}{}{Trabajador del puerto}
 {30800}{}{Mercader Shi}
 {30900}{}{Keeng Ra'at}
 {31000}{}{Sulik - Nivel 1}
@@ -374,10 +374,10 @@
 {35700}{}{Spud}
 {35800}{}{Capitán de mercenarios}
 {35900}{}{Mercenario}
-{36000}{}{Mercenaria}
+{36000}{}{Mercenario}
 {36100}{}{Sombra-que-Camina}
-{36200}{}{Vándalo}
-{36300}{}{Vándala}
+{36200}{}{Vagabundo}
+{36300}{}{Vagabundo}
 {36400}{}{Marc}
 {36500}{}{Dave H.}
 {36600}{}{Capitán A. Ron Meyers}
@@ -398,7 +398,7 @@
 {38100}{}{Robocerebro - Humano}
 {38200}{}{Hormiga gigante}
 {38300}{}{Hormiga gigante dura}
-{38400}{}{Perro paria}
+{38400}{}{Perro Paria}
 {38500}{}{Zurak}
 {38600}{}{Imbot}
 {38700}{}{Jimmy}

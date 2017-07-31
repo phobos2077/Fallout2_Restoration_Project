@@ -37,7 +37,7 @@
 {136}{}{No s-son mu-muchas las p-personas que en-entran en el Refu-fugio.}
 {137}{}{ }
 {138}{}{ }
-{139}{}{¿Qué estás haciendo aquí?}
+{139}{}{¿Qué es lo que haces aquí?}
 {140}{}{¿Puedes decirme dónde está la computadora central del Refugio?}
 {141}{}{Oh. Ha sido genial hablar contigo. Adiós.}
 {142}{}{Está justo a-a-allí... es la c-co-computadora p-pa-parlante.}

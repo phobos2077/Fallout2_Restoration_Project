@@ -1,7 +1,5 @@
 {100}{}{Ves un terminal.}
 {101}{}{Esto es un terminal de computadora. A menudo se usan para controlar otros elementos.}
-
-# Specific
 {200}{}{Este terminal parece controlar las puertas de este bloque de celdas.}
 {201}{}{Secuencia de código inválida.}
 {202}{}{Las puertas están abiertas ahora.}

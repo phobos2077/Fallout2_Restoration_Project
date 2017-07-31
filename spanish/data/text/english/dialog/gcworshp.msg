@@ -1,11 +1,9 @@
 {100}{}{Ves a un necrófago con alguna clase de talismán alrededor de su cuello.}
 {101}{}{Ves a un miembro del Culto de la Renovación.}
 {102}{}{Ves a un necrófago que parece contento.}
-
 {110}{}{Ves a un resplandeciente con alguna clase de talismán alrededor de su cuello.}
 {111}{}{Ves a un miembro del Culto de la Renovación.}
 {112}{}{Ves a un resplandeciente que parece contento.}
-
 {120}{}{Uno de los nuestros, uno de los nuestros…}
 {121}{}{¡Renuévate, camarada! ¡Renuévate!}
 {122}{}{La hora del último día ha llegado.}
@@ -16,7 +14,6 @@
 {127}{}{Juntos estaremos unidos como uno solo.}
 {128}{}{Abajo con el radicalismo libre, camarada.}
 {129}{}{Todos seremos Renovados juntos.}
-
 {130}{}{Hola, amigo. El Cerebro lo sabe todo.}
 {131}{}{El Cerebro te ha favorecido: pronto serás uno de nosotros.}
 {132}{}{¿Buscas la palabra de la Renovación, amigo?}
@@ -27,14 +24,12 @@
 {137}{}{Si tan solo hubiéramos tenido una rueda para él (suspira).}
 {138}{}{Saludos, amigo. La Renovación está disponible para los elegidos.}
 {139}{}{Ser amigo del Cerebro es una cosa maravillosa.}
-
 {140}{}{Hola. Será mejor que andes con cuidado.}
 {141}{}{Te estamos viglando.}
 {142}{}{Busca la iluminación en la sabiduría del Cerebro.}
 {143}{}{No sé por qué permitimos a los pieles suaves aquí abajo.}
 {144}{}{Será mejor que vayas directamente con él.}
 {145}{}{¿Estás aquí para ver al Cerebro?}
-
 {150}{}{Hola, piel suave. ¿Buscas la Renovación?}
 {151}{}{Su Elegancia desea verte.}
 {152}{}{¡Tú también puedes Renovarte!}

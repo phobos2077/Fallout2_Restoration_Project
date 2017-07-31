@@ -27,8 +27,8 @@
 {121}{}{[Recoges un pedazo de metal y reflexionas sobre qué escribir en la consola].}
 {122}{}{Tallas 'Mutante' sobre la consola.}
 {123}{}{Tallas 'Garra mortal' sobre la consola.}
-{124}{}{Salir}
-{125}{}{Selección actual: }
+{124}{}{Salir.}
+{125}{}{Selección actual:}
 {126}{}{ Especie - }
 {127}{}{   Órgano - }
 {128}{}{Seleccionar especie.}
@@ -64,7 +64,6 @@
 {151}{}{Extracción completada  --  Gracias por usar Vault-Tec. Por favor, consulte en nuestro catálogo la lista completa de productos Vault-tec.}
 {152}{}{}
 {153}{}{Salir.}
-
 {170}{}{Humano}
 {171}{}{Canino}
 {172}{}{Felino}
@@ -72,7 +71,6 @@
 {174}{}{Roedor}
 {175}{}{Mutante}
 {176}{}{Garra mortal}
-
 {180}{}{Cerebro}
 {181}{}{Corazón}
 {182}{}{Riñón}
@@ -80,5 +78,4 @@
 {184}{}{Pulmón}
 {185}{}{Apéndice}
 {186}{}{Colon}
-
 {200}{}{ es incapaz de leer lo que pone en el monitor.}

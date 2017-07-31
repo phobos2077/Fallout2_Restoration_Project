@@ -1,8 +1,3 @@
-#############################################################
-#  Cazador (Encuentros)             #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un cazador.}
 {101}{}{Eres bienvenido, Elegido.}
 {102}{}{¿Has encontrado el sagrado GECK?}

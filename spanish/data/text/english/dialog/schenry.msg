@@ -2,12 +2,12 @@
 {101}{}{Es el doctor Henry.}
 {102}{}{Este tipo está tan fuera de lugar que es hasta gracioso. Es de esos intelectuales que viven en su propio mundo, eso seguro.}
 {103}{}{Perdóname, soy el doctor Henry y estoy muy ocupado. ¿Qué es lo que quieres?}
-{104}{}{¿Otra vez tú? ¿Qué es lo que quieres?}
+{104}{}{¿Otra vez tú? ¿Qué quieres?}
 {105}{}{Hurgh.}
 {106}{}{Soy }
 {107}{}{Basta de charla. Tienes ciertos papeles que el señor Merk quiere. Entrégalos y nadie saldrá herido.}
 {108}{}{¿Has oído hablar en alguna ocasión de un lugar llamado el Enclave?}
-{109}{}{Nada que te incumba.}
+{109}{}{Nadie que te importe.}
 {110}{}{Hmm, desarrollo craneal por debajo de la media... retraso del desarrollo intelectual. Aunque no hay ninguna mutación física. No, simplemente no lo harás, me temo. Buenos días.}
 {111}{}{¿El Elegido? Por supuesto, eso tiene sentido. Interesante... me temo que no puedo ayudarte. Fui asignado a investigación ciber-genética, no al Proyecto de Comportamiento de Refugio.}
 {112}{}{¿De qué estás hablando?}
@@ -22,7 +22,7 @@
 {121}{}{Oh, es todo un nuevo campo: muy excitante. Pues estoy trabajando en cierto proyecto en este momento... un nuevo y radical concepto para el problema mutante. Verás, realmente es muy simple: la mutación no es irrevocable. Se puede curar.}
 {122}{}{Por supuesto, mis ingenuos colegas trataban de resolver todo el problema de la forma más cruda posible. Purificación, de hecho. He de admitir que hubo algunos problemas iniciales, pero ahora tengo algo que funciona... creo.}
 {123}{}{}
-{124}{}{Continuar}
+{124}{}{Continúa}
 {125}{}{De hecho, podrías ayudarme a realizar las pruebas de campo. ¿Estás interesado?}
 {126}{}{¿Pruebas de campo? ¿Qué quieres decir?}
 {127}{}{Ni por asomo.}

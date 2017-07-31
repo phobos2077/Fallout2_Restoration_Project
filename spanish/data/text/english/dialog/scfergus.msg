@@ -25,7 +25,7 @@
 {124}{}{He oído que tu presidente tiene un trabajo que hacer.}
 {125}{}{La gente del Refugio 15 quiere hacer un trato.}
 {126}{}{}
-{127}{}{¿Por ejemplo?}
+{127}{}{¿Como cuales?}
 {128}{}{Alguien la ha traicionado.}
 {129}{}{Nada que te concierna.}
 {130}{}{Qué bien. Esto no es un centro de contratación. ¿Por qué no lo intentas en el centro de la ciudad?}
@@ -47,16 +47,13 @@
 {146}{}{(Continuar)}
 {147}{}{Oh, nada. Error mío. Dijiste 13, ¿verdad? Bueno, no sé nada sobre eso.}
 {148}{}{(Continuar)}
-
 {149}{}{Soluciono problemas. Me cargo a los malos. Quiero dinero.}
 {150}{}{Dile que he resuelto su problema con los okupas.}
 {151}{}{¿Darion está muerto? Oh, perdóname. Entra directamente.}
 {152}{}{¿En serio? Bueno... estoy seguro de que es una maravillosa noticia. ¿Te enteraste de algo más?}
-{153}{}{No}
+{153}{}{No.}
 {154}{}{Sí, hay algo más... algo acerca de un espía.}
 {155}{}{Quizá deb... quiero decir, me alegro de que todo haya terminado. Entra directamente.}
-
-#messages for when the player is tampering with somthing he shouldn't
 {500}{}{Perdóname, pero no puedes entrar aquí sin permiso.}
 {501}{}{Tengo que pedirte que dejes de manipular eso.}
 {502}{}{Este es el último aviso: vete o afronta las consecuencias.}

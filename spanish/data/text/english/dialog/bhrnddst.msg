@@ -1,9 +1,3 @@
-#############################################################
-#  Encuentros     			                    #
-#  Traducido por Wenck                                      #
-#############################################################
-
-# Brok Encounter Table
 {100}{}{Te encuentras con rufianes y lobos.}
 {101}{}{Te encuentras con rufianes.}
 {102}{}{Te encuentras con lobos.}
@@ -12,8 +6,6 @@
 {105}{}{Te encuentras con una Patrulla de la Unidad luchando contra rufianes.}
 {106}{}{Te encuentras con una Patrulla de la Unidad luchando contra lobos.}
 {107}{}{Te encuentras con una Patrulla de la Unidad.}
-
-# VPat Encounter Table
 {150}{}{Te encuentras con esclavistas y perros.}
 {151}{}{Te encuentras con esclavistas.}
 {152}{}{Te encuentras con geckos dorados.}
@@ -24,8 +16,6 @@
 {157}{}{Te encuentras con una patrulla luchando contra geckos dorados.}
 {158}{}{Te encuentras con una patrulla luchando contra perros salvajes.}
 {159}{}{Te encuentras con una patrulla.}
-
-# RDRC Encounter Table
 {200}{}{Eres emboscado por bandidos.}
 {201}{}{Te encuentras con lobos.}
 {202}{}{Te encuentras con una caravana eludiendo a bandidos.}
@@ -36,8 +26,6 @@
 {207}{}{Te encuentras con una caravana.}
 {208}{}{Te encuentras con una caravana.}
 {209}{}{Te encuentras con una caravana.}
-
-# VNNB Encounter Table
 {250}{}{Te encuentras con bandidos.}
 {251}{}{Te encuentras con lobos.}
 {252}{}{Te encuentras con escorpiones.}
@@ -49,9 +37,7 @@
 {258}{}{Te encuentras con una caravana.}
 {259}{}{Te encuentras con una caravana.}
 {260}{}{Te encuentras con una caravana.}
-{261}{}{Te encuentras con un viajeros.}
-
-# NCR Encounter Table
+{261}{}{Te encuentras con un viajero.}
 {300}{}{Te encuentras con restos del ejército del Maestro.}
 {301}{}{Te encuentras con bandidos.}
 {302}{}{Te encuentras con Rangers de la RNC combatiendo contra restos del ejército del Maestro.}
@@ -60,8 +46,6 @@
 {305}{}{Te encuentras con granjeros eludiendo a bandidos.}
 {306}{}{Te encuentras con Rangers de la RNC.}
 {307}{}{Te encuentras con granjeros.}
-
-# DNRV Encounter Table
 {350}{}{Te encuentras con una caravana de asesinos.}
 {351}{}{Te encuentras con salteadores de caminos y ladrones.}
 {352}{}{Te encuentras con salteadores de caminos.}
@@ -74,8 +58,6 @@
 {359}{}{Te encuentras con salteadores de caminos luchando contra ladrones.}
 {360}{}{Te encuentras con una caravana.}
 {361}{}{Te encuentras con una caravana.}
-
-# DMRV Encounter Table
 {400}{}{Te encuentras con salteadores de caminos.}
 {401}{}{Te encuentras con ladrones.}
 {402}{}{Te encuentras con ladrones y salteadores de caminos.}
@@ -90,8 +72,6 @@
 {411}{}{Te encuentras con una caravana eludiendo a escorpiones.}
 {412}{}{Te encuentras con geckos luchando contra escorpiones.}
 {413}{}{Te encuentras con una caravana.}
-
-# Band Encounter Table
 {450}{}{Te encuentras con salteadores de caminos y ladrones.}
 {451}{}{Te encuentras con salteadores de caminos y geckos.}
 {452}{}{Te encuentras con geckos dorados.}
@@ -102,8 +82,6 @@
 {457}{}{Te encuentras con una caravana eludiendo a ladrones.}
 {458}{}{Te encuentras con algunos salteadores de caminos podando algunas plantas de esporas.}
 {459}{}{Te encuentras con una caravana.}
-
-# DVMV Encounter Table
 {500}{}{Te encuentras con salteadores de caminos y perros salvajes.}
 {501}{}{Te encuentras con ladrones y perros salvajes.}
 {502}{}{Te encuentras con ladrones.}
@@ -117,8 +95,6 @@
 {510}{}{Te encuentras con una caravana eludiendo a ladrones.}
 {511}{}{Te encuentras con una caravana eludiendo a salteadores de caminos.}
 {512}{}{Te encuentras con una caravana.}
-
-# Red Encounter Table
 {550}{}{Te encuentras con geckos y lobos.}
 {551}{}{Te encuentras con incursores.}
 {552}{}{Te encuentras con lobos.}
@@ -131,8 +107,6 @@
 {559}{}{Te encuentras con contrabandistas de licor.}
 {560}{}{Te encuentras con tramperos.}
 {561}{}{Te encuentras con prospectores.}
-
-# SRNRRN Encounter Table
 {600}{}{Te encuentras con Garras mortales.}
 {601}{}{Te encuentras con geckos de fuego.}
 {602}{}{Te encuentras con una caravana huyendo de Garras mortales.}
@@ -143,8 +117,6 @@
 {607}{}{Te encuentras con una caravana.}
 {608}{}{Te encuentras con una caravana.}
 {609}{}{Te encuentras con una caravana.}
-
-# EPA Encounter Table
 {650}{}{Te encuentras con aliens y Garras mortales.}
 {651}{}{Te encuentras con centauros y nómadas.}
 {652}{}{Te encuentras con geckos de fuego.}
@@ -154,8 +126,6 @@
 {656}{}{Te encuentras con aliens.}
 {657}{}{Te encuentras con centauros.}
 {658}{}{Te encuentras con nómadas.}
-
-# New Encounter Table
 {700}{}{Te encuentras con algunos Yakuza.}
 {701}{}{Te encuentras con una banda.}
 {702}{}{Te encuentras con algunos lobos.}
@@ -163,8 +133,6 @@
 {704}{}{Te encuentras con algunos gángsters luchando contra una banda.}
 {705}{}{Te encuentras con algunos gángsters.}
 {706}{}{Te encuentras con un viajero.}
-
-# NRNR Encounter Table
 {750}{}{Te encuentras con una caravana eludiendo a restos del ejército del Maestro.}
 {751}{}{Te encuentras con una caravana luchando contra restos del ejército del Maestro.}
 {752}{}{Te encuentras con una caravana luchando contra Garras mortales.}

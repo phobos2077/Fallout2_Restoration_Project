@@ -1,129 +1,77 @@
-#############################################################
-#  Miria (Modoc)   		                            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{¡Oh, Dios! Una maciza muy atractiva.}
-{101}{}{Ves a Miria.}
+{101}{}{Ves a Brian.}
 {102}{}{No estas seguro del porqué, pero las medidas 90-60-90 te vienen a la mente.}
-
-{150}{}{¡Puta!}
+{150}{}{¡Cabrón!}
 {151}{}{¡Cómo te atreves a volver por aquí!}
-
 {152}{}{¡Que asco!}
 {153}{}{Espero que los dos seáis felices juntos.}
-
-# Node 0
 {154}{}{Hola, forastero. Soy Miria.}
 {155}{}{Me alegra que hayas vuelto. ¿Qué puedo HACER por ti?}
-{156}{}{¿A qué te dedicas?}
+{156}{}{¿Qué estás haciendo por aquí?}
 {157}{}{¿Qué puedes contarme sobre el matadero?}
 {158}{}{¿Has escuchado algún rumor?}
 {159}{}{¡Fuki! ¡Fuki!}
-
-# Node 2
 {160}{}{Si no estuviera tan aburrida, te diría que no. Así que pregunta.}
-
-# Node 10
 {164}{}{Corre el rumor de que es Farrel quien ha robado el reloj.}
 {165}{}{¿Por qué robaría Farrel el reloj?}
 {166}{}{¿Pero no es Farrel el mejor amigo de Cornelius?}
 {167}{}{Cuéntame algún otro rumor.}
-
-# Node 11
 {168}{}{Porque la gente pobre suele acabar robando para llegar a fin de mes. Farrel entra claramente en la categoría de pobre y eso explica las nuevas herramientas que compró poco después de que el reloj de Cornelius desapareciera.}
-{170}{}{¿Puedo hacerte alguna pregunta más?}
-
-# Node 12
+{170}{}{¿Puedo hacerte más preguntas?}
 {171}{}{Sí, son buenos amigos, esos dos. Qué es por lo que pienso que fue Farrel quien robó el reloj. ¿Quién sino Farrel tendría acceso al reloj de Cornelius?}
-
-# Node 13
 {174}{}{No tengo nada más que contar. Mi familia regenta el matadero. La gente de todos los alrededores llevan sus brahmines aquí para que sean descuartizados. Después de matarlos y tratar la carne, es vendida a los mercaderes que a cambio la venden a los comerciantes de varios pueblos. Todo muy aburrido, si quieres mi opinión.}
-
-# Node 14
 {176}{}{¡Has venido al lugar adecuado! Este pueblo es tan aburrido, que no hay nada que hacer salvo contar chismorreos y... [sigue hablando durante un buen rato hasta que por fin puedes intercalar palabra].}
 {177}{}{¿Qué más quieres saber?}
 {178}{}{¿Qué sabes sobre el reloj perdido de Cornelius?}
 {179}{}{¿Has mencionado algo sobre Rose?}
 {180}{}{¿Qué es eso de un brahmin mutado?}
 {181}{}{Háblame de Davin.}
-{182}{}{Hablemos de otra cosa.}
-
-# Node 15
+{182}{}{Hablemos de otra cosa…}
 {183}{}{Ah, Rose. La dueña de la 'Posada Rose'. Ahora bien, y esto no me lo has oído decir a mí, ¿te has preguntado alguna vez por qué su gallinero está tan bien protegido? Ella dice que es para proteger a las gallinas de los depredadores, pero si te fijas atentamente da la impresión de que lo que intenta es, en vez de impedir que algo entre, impedir que algo salga. Además, ¿quién ha oído hablar de gallinas que pongan huevos de doce libras?}
 {184}{}{Háblame de más rumores.}
-
-# Node 16
 {186}{}{Es muy extraño, pero he oído que algunos rancheros dicen que de vez en cuando algún brahmin da a luz a un ternero con una sola cabeza. ¡Que cosa más rara!}
-
-# Node 17
 {189}{}{Es de la familia, y yo no voy soltando rumores de mi propia familia.}
-
-# Node 18
 {192}{}{¿Quién, yo? Suelo hacer algunos trabajillos aquí y allá. Desde luego, nada de lo que merezca la pena hablar. [Pestañea y te mira fijamente].}
 {193}{}{De verdad que me gustaría saber más de ti.}
 {194}{}{Tienes razón, basta de charla. ¡Vamos a hacerlo! Sabes que lo estás deseando.}
-
-# Node 19
 {196}{}{Estoy emocionada. Nunca nadie ha intentado conocerme mejor. ¡Todo lo que buscan es sexo, sexo, sexo! Estoy tan cansada de tener sexo salvaje todo el tiempo. Me alegra que no seas como los demás.}
 {197}{}{¡Serás zorra! Por un momento pensé que eras alguien especial.}
 {198}{}{Sabes, sólo soy un tipo normal como cualquier otro. Mis amigos suelen decir "}
 {199}{}{, eres guay porque eres tan normal como cualquier otro tipo". Sí, así de normal soy yo.}
 {200}{}{Bueno, es que nunca había conocido a nadie como tú.}
-
-# Node 20
 {202}{}{¿Querer qué? ¿Qué estás insinuando?}
 {203}{}{Creo que ya sabes de lo que estoy hablando, nena. Sabes que esto es lo que quieres. [Sonríes y comienzas a quitarte la ropa].}
 {204}{}{Olvídalo, lo siento. No quería insinuar nada.}
-
-# Node 21
 {205}{}{¡Como te atreves a llamarme zorra! ¡Déjame decirte que soy muy quisquillosa con la gente con la que me voy a la cama! ¡Y este mes sólo han sido 10 ó 20! ¡Esta conversación ha terminado!}
-
-# Node 22
 {206}{}{Qué decepción. Eres igual que todos los demás, ¿no?}
-
-# Node 23
 {208}{}{No. No lo creo. Estoy cansado de esta conversación. Adiós.}
-
-# Node 24
 {209}{}{[Se sonroja] Para, vas a hacer que me ponga colorada. Eres una ricura. ¿Por qué no te acercas y te sientas aquí conmigo?}
 {210}{}{Creo que esto ha ido demasiado lejos. ¿No podemos simplemente hablar?}
 {211}{}{Pensé que nunca lo ibas a decir. ¿Por qué no nos ponemos un poco más cómodos?}
 {212}{}{¡Sí! Sabes lo que quiero, ¡nena!}
 {213}{}{¡Qué zorra eres!}
-
-# Node 25
 {214}{}{¡No aguanto más! Eres perfecto. [Se arranca la ropa, te arranca la tuya y entonces...]}
 {215}{}{[El mundo nunca volverá a ser igual].}
-
-# Node 26
 {216}{}{Mejor que eso no signifique lo que estoy pensando.}
 {217}{}{¡Aoooga!}
 {218}{}{¿Urg?}
-
-# Node 27
 {219}{}{¡Ajá! Lo que pensaba. Es gracioso como los neanderthales y la gente civilizada pueden llegar a coincidir en este tema. [Ni siquiera lo ves venir, pero estás seguro de que la marca del bofetón en tu cara desaparecerá algún día].}
-
-# rape script dialog
 {250}{}{¡Socorro, papá! ¡Apártalo de mí!}
 {251}{}{¡Vete!}
 {260}{}{¡Socorro, papá! ¡Apártala de mí!}
-
-# wedding script dialog
+{270}{}{¡Socorro, papá! ¡Apártalo de mí!}
+{280}{}{¡Socorro, papá! ¡Apártala de mí!}
 {400}{}{¡Papi!}
 {401}{}{¡Oh oh!}
 {402}{}{¡Sí quiero!}
-
-{410}{}{Ehh...}
+{410}{}{Uhh...}
 {411}{}{Ehhh... Continúa, por favor...}
 {412}{}{Yo... eh... yo...}
 {413}{}{Um… Sí quiero.}
-
+{420}{}{¡Inmundo!}
 {450}{}{Uhhh, es con papi con quien deberías hablar.}
-
+{470}{}{Uhhh, es con papi con quien deberías hablar.}
 {500}{}{Genial, creo que ahora tendré que ser yo la que lleve este basurero.}
-
-# in party dialog
 {1000}{}{¿Qué hacemos ahora, querido?}
 {1001}{}{¿Qué hacemos ahora, cariño?}
 {1002}{}{¿Qué hacemos ahora, tesoro?}
@@ -141,19 +89,10 @@
 {1300}{}{Bueno, estoy casi curada pero cuando tengamos la oportunidad me vendría bien algo más de atención médica.}
 {1400}{}{Me he curado todo lo que he podido pero sigo bastante malherida.}
 {1500}{}{No, cariño; quiero ir contigo.}
-{1600}{}{Claro. La guardaré.}
+{1600}{}{Sí, lo dejaré a un lado.}
 {1700}{}{}
 {1800}{}{No, no, mi dulcecito. Necesito estar cerca de ti.}
 {1900}{}{Pero entonces no estaría cerca de ti, terroncito.}
-
-# Seraph's Code: Uncle Biff
-{270}{}{¡Socorro! ¡Apártalo de mí!}
-{280}{}{¡Socorro! ¡Apártala de mí!}
-{420}{}{¡Tío Biff!}
-{470}{}{Uhhh, creo que es con el tío Biff con quien deberías hablar.}
-
-#added by killap - NPC info
-{2000}{}{Creo que me he roto un miembro, amor. Échame un vistazo.}
-{2001}{}{Me siento sofocada, amor. Creo que estoy irradiada.}
-{2002}{}{Estoy muy enferma, cariño. Creo que estoy envenenada.}
-
+{2000}{}{I think I broke a limb, lover. Better take a look.}
+{2001}{}{I feel feverish, lover. I think I am radiated.}
+{2002}{}{I feel very sick, lover. I think I am poisoned.}

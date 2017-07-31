@@ -25,7 +25,7 @@
 {122}{}{Bien, no podemos permitirte hacer eso.}
 {123}{}{Uno hace lo que tiene que hacer.}
 {124}{}{¿Crees que ellos se lo toman al pie de la letra? Tienes mucho que aprender acerca del mundo, amigo.}
-{125}{}{¿Hay alguna cosa en la que yo pueda ayudar?}
+{125}{}{¿Puedo hacer algo para ayudar?}
 {126}{}{Los chicos de Ciudad Refugio no son de los más valientes. Si peleas con ellos echan a correr hacia las
  colinas. Si tuviéramos algunas armas, creo que podríamos encargarnos de ellos.}
 {127}{}{¿Qué clase de armas?}
@@ -40,7 +40,7 @@
 {135}{}{¿Puedes repetirme lo que necesitabas?}
 {136}{}{Sí, aquí están.}
 {137}{}{Necesitamos tres rifles y una escopeta. Cuando antes nos las consigas, mejor.}
-{138}{}{Muy bien.}
+{138}{}{De acuerdo.}
 {139}{}{Con esto, podremos hacer algo de este lugar en los próximos meses. Si alguna vez necesitas
  un lugar en el que descansar, siempre serás bienvenido aquí.}
 {140}{}{No hay de qué.}

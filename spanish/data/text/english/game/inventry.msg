@@ -1,6 +1,3 @@
-#
-# Inventory messages from inventry.c
-#
 {0}{}{FU}
 {1}{}{PE}
 {2}{}{RE}
@@ -8,8 +5,8 @@
 {4}{}{IN}
 {5}{}{AG}
 {6}{}{SU}
-{7}{}{ P.S}
-{8}{}{ C.A.}
+{7}{}{Puntos de Salud}
+{8}{}{Clase de armadura}
 {9}{}{ Normal}
 {10}{}{ Láser}
 {11}{}{ Fuego}
@@ -34,5 +31,4 @@
 {30}{}{Peso}
 {31}{}{No puedes llevar tanto peso.}
 {32}{}{Pesa demasiado para llevarlo.}
-
 {50}{}{Ahí no encuentras nada para quedarte.}

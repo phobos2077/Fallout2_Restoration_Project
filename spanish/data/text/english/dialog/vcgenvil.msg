@@ -1,4 +1,4 @@
-{100}{}{Ves a un aldeano.}
+{100}{}{Ves a una aldeana.}
 {101}{}{Ves a una aldeana.}
 {102}{}{Hola.}
 {103}{}{Buenos días.}

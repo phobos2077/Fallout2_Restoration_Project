@@ -1,8 +1,8 @@
 {100}{}{Ves a un hombre fuerte con ropa de trabajo. Tiene su mirada totalmente fija en el suelo.}
-{101}{}{Ves a un esclavo de Ciudad Refugio.}
+{101}{}{Ves a una esclava de Ciudad Refugio.}
 {102}{}{Ves a un hombre fuerte con ropa de trabajo. Tiene su mirada totalmente fija en el suelo.}
 {103}{}{Ves a una mujer de apariencia saludable con ropa de trabajo. Tiene su mirada totalmente fija
-  en el suelo.}
+ en el suelo.}
 {104}{}{Ves a una esclava de Ciudad Refugio.}
 {105}{}{Ves a una mujer de apariencia saludable con ropa de trabajo. Tiene su mirada totalmente fija
  en el suelo.}

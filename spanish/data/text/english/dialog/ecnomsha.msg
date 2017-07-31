@@ -1,10 +1,5 @@
-#############################################################
-#  Chaman Nomada (Encuentros)            #
-#  Traducido por Wenck                                      #
-#############################################################
-
-{100}{}{Ves a un cháman nómada.}
-{101}{}{Parece ser un cháman nómada.}
+{100}{}{Ves a un viejo.}
+{101}{}{De momento, parece estar absorto.}
 {102}{}{Sus ropas estás impregnadas del fuerte olor de las hierbas.}
 {103}{}{Hola, forastero. Soy el cháman de la tribu. Estoy versado en el arte de la curación.}
 {104}{}{Hola de nuevo.}
@@ -14,9 +9,9 @@
 {108}{}{Ooga.}
 {109}{}{Quédate quieto y te examinaré.}
 {110}{}{[Continuar]}
-{111}{}{He descubierto que padeces estas afecciones.} #continue at 136
+{111}{}{He descubierto que padeces estas afecciones.}
 {112}{}{¿Puedes ayudarme?}
-{113}{}{Puedo hacer lo siguiente por un precio:} # continue at 140
+{113}{}{Puedo hacer lo siguiente por un precio:}
 {114}{}{Por favor, extrae el veneno de mi cuerpo.}
 {115}{}{Por favor, cúrame.}
 {116}{}{Mira a ver que puedes hacer con mi miembro roto.}
@@ -30,7 +25,7 @@
 {124}{}{[Continuar]}
 {125}{}{No necesitas ese tipo de curación.}
 {126}{}{[Continuar]}
-{127}{}{Ahh... Estás familiarizado con las propiedades curativas de estas dos plantas. Sólo te costará} # continue at 150
+{127}{}{Ahh... Estás familiarizado con las propiedades curativas de estas dos plantas. Sólo te costará}
 {128}{}{Por favor, combínalas.}
 {129}{}{Quizás más tarde, adiós.}
 {130}{}{[Miras mientras machaca y combina cuidadosamente ambas plantas, y entonces te extiende una dosis del polvo medida con precisión].}

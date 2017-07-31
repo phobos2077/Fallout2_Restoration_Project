@@ -8,10 +8,10 @@
 {107}{}{El Proyecto está ejecutándose correctamente.}
 {108}{}{Es una deshonra para el vicepresidente Bird.}
 {109}{}{Mi siguiente turno no será hasta dentro de unas horas.}
-{110}{}{Dios bendiga América.}
+{110}{}{Que Dios bendiga a América.}
 {111}{}{El Proyecto es nuestra salvación.}
 {112}{}{Estoy realmente contento de no estar en el continente.}
-{113}{}{Sólo otro taladro.}
+{113}{}{Sólo otro simulacro.}
 {114}{}{¿Qué es todo ese ruido?}
 {115}{}{Es la alarma del reactor.}
 {116}{}{Oh, oh.}
@@ -19,7 +19,7 @@
 {118}{}{Esa cosa siempre se está estropeando.}
 {119}{}{Creo que me estoy bronceando.}
 {120}{}{¿Está empezando a hacer más calor aquí?}
-{121}{}{Esto no es bueno.}
+{121}{}{No está bien.}
 {122}{}{Mierda, mierda, mierda.}
 {123}{}{¿Dónde está mi mascarilla?}
 {124}{}{Algo huele raro.}

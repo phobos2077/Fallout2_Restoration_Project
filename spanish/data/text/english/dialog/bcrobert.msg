@@ -1,9 +1,4 @@
-#############################################################
-#  Roberta (Vault 15)     			            #
-#  Traducido por Wenck                                      #
-#############################################################
-
-{100}{}{Ves a una okupa.}
+{100}{}{Ves a un okupa.}
 {101}{}{Ves a Roberta, una okupa.}
 {102}{}{Ves a una mujer de mediana edad que viste ropa usada.}
 {103}{}{Oh, Dios. Lo siento, pero no tengo nada que decirte. Por favor, vete.}

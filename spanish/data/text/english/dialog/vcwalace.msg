@@ -15,7 +15,7 @@
 {114}{}{¿Quién eres?}
 {115}{}{¿Qué es este lugar?}
 {116}{}{Creo que tu ayudante, Skeev, está involucrado en actividades ilegales.}
-{117}{}{Nada hoy, gracias.}
+{117}{}{Hoy nada, gracias.}
 {118}{}{Vaya, ya veo que voy a tener que charlar con los guardias del Patio. Parece que hoy en día están dejando entrar a CUALQUIER errante en Ciudad Refugio. }
 {119}{}{Día. ¿Díaz? Diiaaaaz.}
 {120}{}{Dejas de balbucear}
@@ -101,7 +101,7 @@
 {200}{}{No importa. Tengo algunas preguntas más que quería hacerte...}
 {201}{}{Olvídalo. Volveré en algún otro momento.}
 {202}{}{Bien... ciertamente parece un asunto para la Primer Ciudadano. Aquí está tu pase de día. Sólo sirve durante el día: por la noche se te pedirá que abandones la ciudad. Los Ciudadanos también se reservan el derecho a cancelar los privilegios del pase de día en cualquier momento, así que portate bien.}
-{203}{}{Comprendido. ¿Puedo hacerte algunas pregunta más?}
+{203}{}{Entendido. ¿Puedo hacerte alguna otra pregunta?}
 {204}{}{Gracias.}
 {205}{}{No malgastes más mi tiempo, extranjero. Márchate.}
 {206}{}{Te sugiero que te marches ahora, o avisaré a los guardias.}
@@ -183,7 +183,7 @@
 {282}{}{Sé por qué se han reducido los envíos de Redding.}
 {283}{}{¿Qué puedes contarme acerca de La Guarida?}
 {284}{}{¿Qué puedes contarme acerca de Broken Hills?}
-{285}{}{Ya veo. Tenía otras preguntas...}
+{285}{}{Ya veo. Tenías algunas preguntas más...}
 {286}{}{Gracias por la información. Adiós.}
 {287}{}{¿En serio? ¡Es una excelente noticia! Por favor, ve a decírselo de inmediato al concejal McClure.}
 {288}{}{¿En serio? ¡Es una excelente noticia! Permite que te entregue un pase de día para que puedas hablar con el concejal McClure. El pase sólo sirve durante el día; por la noche, se te pedirá que abandones la ciudad. Ahora, vete.}
@@ -204,7 +204,7 @@
 {300}{}{¿Qué es la RNC?}
 {301}{}{¿Quienes son esos saqueadores?}
 {302}{}{¿Cuál es el problema con Gecko?}
-{303}{}{¿Puedo hacerte algunas preguntas más?}
+{303}{}{¿Puedo hacerte alguna otra pregunta?}
 {304}{}{Lamento oír eso. Quizá pueda oír más sobre ello en algún otro momento.}
 {305}{}{La RNC es la "República de Nueva California". Afirman que están intentando unificar toda California
  bajo un único Gobierno, pero podemos ver a través de su patética artimaña.}

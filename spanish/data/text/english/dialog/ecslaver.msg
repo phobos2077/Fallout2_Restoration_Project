@@ -1,8 +1,3 @@
-#############################################################
-#  Esclavista (Encuentros)             #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Por éstos nos darán un buen precio en el mercado.}
 {101}{}{Intenta no dañar la mercancía.}
 {102}{}{Vas a ser un esclavo brioso.}

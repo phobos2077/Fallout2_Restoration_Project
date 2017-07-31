@@ -38,24 +38,24 @@
 {137}{}{¿Qué otra cosa podría hacer?}
 {138}{}{No importa. Tal vez hablemos en algún otro momento.}
 {139}{}{Si no has nacido como Ciudadano, entonces tienes que hacer una prueba para convertirte en uno. ¿El número de forasteros que han realizado la prueba y se han convertido en Ciudadanos? Cero. ¿Tus posibilidades? MENOS de cero.}
-{140}{}{¿Qué es esta prueba?}
+{140}{}{¿Qué es esa prueba?}
 {141}{}{¿Qué otra cosa podría hacer para saltarme la aduana?}
-{142}{}{No importa. Tal vez hablemos en algún otro momento.}
+{142}{}{No importa. Quizá hablemos en algún otro momento.}
 {143}{}{Gregory, el procónsul, le entrega una "prueba" a cualquier forastero que quiere convertirse en Ciudadano. Mide su inteligencia y
  percepción, y tienes que ser afortunado de cojones para pasarla. La mayoría de Ciudadanos tiene problemas con ella.}
 {144}{}{¿Qué la hace tan difícil?}
 {145}{}{¿Qué otra cosa podría hacer para saltarme la aduana además de convertirme en Ciudadano?}
-{146}{}{No importa. Tal vez hablemos en algún otro momento.}
+{146}{}{No importa. Quizá hablemos en algún otro momento.}
 {147}{}{La mayoría de forasteros no saben leer, hacer cálculos trigonométricos, o deletrear "Australopithecus", como te imaginarás. No es más que una excusa para evitar que los forasteros se conviertan en Ciudadanos.}
 {148}{}{¿Qué otra cosa podría hacer para saltarme la aduana además de convertirme en Ciudadano?}
-{149}{}{No importa. Tal vez hablemos en algún otro momento.}
+{149}{}{No importa. Quizá hablemos en algún otro momento.}
 {150}{}{Oculta tus cosas en tus esclavos... tus "siervos". Verás, la mentalidad de Ciudad Refugio es esta:
 No parecen concebir que alguien deje que los siervos lleven encima nada importante... o cuestionable. Vete tú a saber por qué.}
 {151}{}{¿Alguna otra opción?}
 {152}{}{De acuerdo, entonces. Gracias.}
 {153}{}{Bien, PUEDES convertirte en Ciudadano... extraoficialmente.}
 {154}{}{¿De qué estás hablando?}
-{155}{}{No importa. Tal vez hablemos en algún otro momento.}
+{155}{}{No importa. Quizá hablemos en algún otro momento.}
 {156}{}{Si tienes el dinero, entraré en detalles. De lo contrario...}
 {157}{}{Tengo el dinero. ¿Qué estás vendiendo?}
 {158}{}{No importa. Tal vez hablemos en algún otro momento.}

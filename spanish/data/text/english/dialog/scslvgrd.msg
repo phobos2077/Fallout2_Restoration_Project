@@ -1,5 +1,5 @@
 {100}{}{Tipo grande, arma, quieto en su sitio. Guardia.}
-{101}{}{Sigue siendo un guardia.}
+{101}{}{Ves a un guardia.}
 {102}{}{Tiene un tatuaje de esclavista en la frente, lo que no le hace parecer más listo precisamente.}
 {103}{}{Habla con el señor Vortis, no conmigo.}
 {104}{}{Uhh...}

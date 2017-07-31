@@ -1,34 +1,7 @@
-#############################################################
-#  Message File: mcChild.msg                                 #
-#                                                           #
-#       Body Type: CHILD                                    #
-#       Combat AI: Flee                                     #
-#       Weapons: None                                       #
-#       HP: 20                                              #
-#       Skills to note: None                                #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: January 13, 1998                                #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-#############################################################
-#  Niño  (Modoc)   		                            #
-#  Traducido por Wenck                                      #
-#############################################################
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
-{100}{}{Ves a un chico pequeño.}
-{101}{}{Ves a una chica pequeña.}
-
+{100}{}{Ves a un niño pequeño.}
+{101}{}{Ves a una niña pequeña.}
 {120}{}{Ves a un niño pequeño. Parece bastante alegre.}
 {121}{}{Ves a una niña pequeña. Parece bastante alegre.}
-#############################################################
-#  The following lines are floaters for children            #
-#############################################################
 {150}{}{¡No me comas!}
 {151}{}{¡Eeeee! ¡El hombre del saco!}
 {152}{}{Papi dice que eres malo.}
@@ -46,10 +19,9 @@
 {164}{}{¡Eeeeeeeee!}
 {165}{}{¡Te odio!}
 {166}{}{¡Mami, mami, mami!}
-{167}{}{¡Déjame en paz!}
-{168}{}{¡Apestas!}
-
-{170}{}{Hola.}
+{167}{}{¡Déjame!}
+{168}{}{¡Tú apestas!}
+{170}{}{Hola a todos.}
 {171}{}{¿Quieres jugar a las casitas?}
 {172}{}{¿De verdad tienes un hueso en la nariz?}
 {173}{}{¿Por qué tienes esa pinta tan rara?}
@@ -69,13 +41,12 @@
 {187}{}{A mi perro le encanta la cecina.}
 {188}{}{Tengo una piedrecita brillante.}
 {189}{}{¿Has visto a mi amigo invisible?}
-
 {190}{}{¿Puedo unirme a tu tribu?}
 {191}{}{Eres majo.}
 {192}{}{Tienes una pinta muy rara.}
 {193}{}{¿Qué es lo que llevas puesto?}
 {194}{}{¡Quiero montar en brahmin!}
-{195}{}{¿Vienes de muy lejos?}
+{195}{}{¿Eres de muy lejos?}
 {196}{}{¡Siii! ¡Ja Ja Ja!}
 {197}{}{¡No te vayas!}
 {198}{}{¿Tienes algo de comida?}
@@ -104,6 +75,4 @@
 {221}{}{¿Te gusto?}
 {222}{}{¿Estás casado?}
 {223}{}{Uno, dos, tres - ¡siii!}
-
-{300}{}{¡Un extraño!}
-
+{300}{}{¡Extraño!}

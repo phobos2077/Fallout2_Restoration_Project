@@ -13,3 +13,5 @@
 {112}{}{La puerta cruje y se rompe por la presión.}
 {113}{}{La puerta ya está desbloqueada.}
 {114}{}{La puerta no te supone ningún desafío.}
+{120}{}{Herro, Ra Ra?}
+{121}{}{Hehe, door talkie. Hi!}

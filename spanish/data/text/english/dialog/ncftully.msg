@@ -1,11 +1,6 @@
-# 0. QUICK LOOK (WTG)
 {100}{}{Ves al Padre Tully.}
-
-# 0. LOOK (WTG)
 {150}{}{Ves a un anciano con una túnica marrón y rojeces en las mejillas debidas al whisky. Parece un pelín mareado.}
 {151}{}{Ves al Padre Tully. Parece que ha estado empinando el codo profusamente.}
-
-# 1. FLOAT: NORMAL COMMENTS (WTG)
 {200}{}{Soy bienaventudado.}
 {201}{}{Y las mujeres deberían saludarme con un casto beso.}
 {202}{}{Expulsaré de mí al demonio bebiendo si he de hacerlo.}
@@ -18,13 +13,9 @@
 {209}{}{Ooohhh. Ha pasado una hora desde que tomé el último trago…}
 {210}{}{Hora de empaparme del espíritu santo.}
 {211}{}{Bebo en nombre de todo lo que es sagrado.}
-
-# 2. FLOAT PORN STAR [FEMALE] (WTG)
 {220}{}{¿Quieres conocer la posición de la iglesia hacia la felación?}
 {221}{}{¡Pecadora! ¡Perversa! Eh... ¿qué haces más tarde?}
 {222}{}{¡Fulana! ¡Ramera! ¡Mujerzuela! Eh... ¿qué haces más tarde?}
-
-# 3.  INTRO, FALLOUT2 FLAG = ENCLAVE_DESTROYED (WTG)
 {225}{}{¿Quién edes tú? ¿Te conozco? }
 {226}{}{Saludos… qué puede haced el Padde Tully pod ti... }
 {227}{}{¿Tú edes quien pateó al Enclave c-como un camión… eh, quiedo decid, un campeón? Edes un hédoe.}
@@ -35,27 +26,19 @@
 {231}{}{Me enfrenté al Enclave, sí. Ellos empezaron, y yo lo terminé. Pero no se equivoque, Padre. Sólo soy una mujer,
  intentando abrirme camino en este mundo que no perdona... no soy una heroína.}
 {232}{}{Será mejor que me vaya, Padre. Me ha alegrado olerle… eh, verle.}
-
-# 4.  I GOT A HINTBOOK FOR YOU (3)
 {235}{}{Edes un HEDOE. Tengo al-go pada ti. Al pdincipio no sabía pada qué podía sedvid, aunque igual a ti te hace f-falta.}
 {236}{}{Lo quedo yo.}
 {237}{}{No necesito… quiero salir fuera.}
 {238}{}{Desde luego. Me quedaré con lo que quiera que me dé, Padre. Eh, bueno, dentro de los límites de la decencia.}
 {239}{}{Er...no gracias, Padre. Realmente he de irme.}
-
-# 5.  HERE'S THE HINTBOOK (4)
 {240}{}{(Tully se acerca a uno de los bancos, levanta una tabla del asiento, y saca un sucio libro de tapa blanda). Aquí t-tienes.
  Está un poquito sucio, aunque… (Te lo entrega).}
 {241}{}{G-gracias}
 {242}{}{Gracias, Padre. Supongo.}
-
-# 6.  NO HINTBOOK/POST HINTBOOK (3, 5)
 {245}{}{Edes un hédoe. Te lo medeces. Hoy en día no muchos jugadodes TEDMINAN los juegos, y tú lo hiciste. Estoy odgulloso de ti.
  Todo NUEVO DENO está odgulloso de ti.}
 {246}{}{G-gracias, Padre. Adióoos.}
 {247}{}{Gracias, Padre. Cuídese, ¿de acuerdo?}
-
-# 7.  INTRO (WTG)
 {250}{}{Saludos, hijo m-mío. ¿Qué puede haced el Padde Tully por ti en esta pdeciosa, pdeciosa noche?}
 {251}{}{Saludos, hijo m-mío. ¿Qué puede haced el Padde Tully por ti en este pdecioso, pdecioso día?}
 {252}{}{Je-Je. Hueles a d-destilería. Hueles a pis.}
@@ -67,33 +50,21 @@
 {258}{}{¿Estás borracho?}
 {259}{}{'Padre' Tully, ¿eh? ¿Lleva a cabo divorcios?}
 {261}{}{Verás, he traído algo de licor, Padre. ¿Podemos hablar un momento…?}
-{262}{}{Nada. Perdona por molestarte.}
-
-# 8.  HEE HEE. YOU STINK LIKE STILL. YOU STINK LIKE PEE (7)
+{262}{}{Nada. Lamento molestarte.}
 {270}{}{(Olfatea sus mangas y después su túnica). Vaya, huelo muy fuedte, ¿eh? ¡Maldición, huelo a destiledía!
  Sedá mejod que me asee antes de que la señoda Wdight me pille…}
 {271}{}{Adios hombre pis.}
-
-# 9.  UH, ACTUALLY, IT'S NIGHT/DAY TIME, FATHER (7)
 {275}{}{Diablos, debo habed dodmido más de la cuenta… o sino me hubieda entedado… ¿qué demonios estaba d-diciendo?}
-
-# 10. WHO ARE YOU? (7, 9)
 {290}{}{El Padde Tully, a tu sedvicio. Soy el consejedo espiditual de la buena g… o sea, de la gente de Nuevo Deno.}
 {291}{}{¿Estar borracho es la única forma que tienes de conseguirlo?}
-{292}{}{Tenía algunas preguntas acerca de Nuevo Reno…}
+{292}{}{Tenía algunas preguntas sobre Nuevo Reno…}
 {295}{}{Ya veo. Bien, gracias por hablar conmigo.}
-
-# 11. ARE YOU DRUNK? (7, 9, 10)
 {300}{}{¡Desde luego que no! En el PASADO, se me conocía por satisfaced así a mi espíditu, pero la Unión pod la Templanza me ayudó a domped ese molesto hábito!}
 {301}{}{¿Unión por la Templ--?}
 {302}{}{Oh. Y no --}
 {303}{}{¿Romper el --?}
-
-# 12.  TEMPERANCE UNION/MISSUS WRIGHT (16)
 {305}{}{Unión pod la Templanza, la señoda Wdight… es lo mismo. Intentan limpiad Nuevo Deno. Hiciedon un buen tdabajo conmigo.}
 {306}{}{Desde luego que sí. Tenía algunas otras preguntas…}
-
-# 13.  QUESTIONS . . . (10, 12, 16, 20)
 {315}{}{¿Pdeguntas? ¿No puedo decid que sepa demasiado sobde nada. Pero pdegunta de todas fodmas.}
 {316}{}{¿Has oído hablar del Refugio 13?}
 {317}{}{Estoy aquí porque estoy buscando a mi tribu. Fueron raptados en mi poblado.}
@@ -101,22 +72,16 @@
 {319}{}{¿Has oido hablar acerca de algo llamado el Kit de Creación del Jardín del Edén?}
 {320}{}{¿Puedes contarme algo acerca de Nuevo Reno?}
 {323}{}{Tal vez vuelva cuando estés un poco más despejado.}
-
-# 14.  I'M ON A QUEST TO FIND THE GECK . . . (13)
 {325}{}{Bien… Deno... es… bien, es... bien... um, o sea...}
 {326}{}{¿Un Kit de Cdeación del Jaddín del Edén? No. No puedo decid que haya oído hablad de algo así. Vedás, um...}
 {327}{}{¿Defugio tdece? Ni idea... bueno, es decid, está CIUDAD Defugio al noddeste. ¿Quizá es eso lo que buscas? Hmmmm... vedás, um...}
 {328}{}{¿Quizá los esc-clavistas? He oído que tienen mucha medcancía... um... vedás...}
 {329}{}{¿Un q-qué? ¿Una de esas cosas flotantes…? No sé mu-mucho sobre eso....um... vedás...}
 {330}{}{¿Sí...?}
-
-# 15.  YES . . . ? (14)
 {335}{}{Peddona pod pdeguntad, ¿no llevadás encima una botella? Necesito algo pod mis sedvicios… y, eh, mi gadganta está un poco seca.}
 {336}{}{Desde luego. Aquí tienes.}
 {337}{}{No llevo ninguna encima, me temo.}
 {338}{}{Podría echarle mano a alguna, si quieres.}
-
-# 16. ARE YOU DRUNK? (11)
 {440}{}{Ahoda estoy en el buen camino, gdacias a la señoda Wdight... que Dios la bendiga. Llevo limpio casi un... eh, mes. ¿O tal vez
  una s-semana? Ay, demonios, no lo sé. }
 {441}{}{Una semana, sí, claro. Oye, Tengo algunas preguntas para ti…}
@@ -124,15 +89,11 @@
 {443}{}{¿Unión por la Templanza?}
 {444}{}{¿La señora Wright?}
 {445}{}{Quizá vuelva cuando estés sobrio.}
-
-# 17. ROB THE POOR BOX (27)
 {450}{}{(Tully se tropieza con el cepillo de donativos al lado del altar, y mete dentro la mano). }
 {451}{}{Uh…hmmnn. (Saca la mano vacía). Me temo que no tengo ninguna f-ficha, después de todo.}
 {452}{}{Hmnnn. Aquí tienes… (deja caer algunas monedas en tu mano). Dios bendiga a los pobdes. Gástalo en nombde de todo lo que es sagdado.}
 {453}{}{Gracias de todos modos, Padre. Veré si puedo gorronear algo de licor.}
 {454}{}{Gracias, Padre. Volveré con el licor en cuanto pueda.}
-
-# 18. BISHOP, THE SCOOP (30)
 {460}{}{No le si-sigas la codiente a su mujed y su hija... no me extdaña que estén asilvestdadas.
  Je-je... todo eso sale en el confesionadio, ya sabes…}
 {461}{}{Oh, ¿y qué es lo que el señor Bishop dice en el confesionario?}
@@ -142,8 +103,6 @@
 {464}{}{Oh, ¿y qué es lo que dice la hija de Bishop en el confesionario?}
 {465}{}{Eh, ¿qué dice la hija de Bishop en el confesionario? Nada sobre mí, esp… er, nada malo, espero.}
 {466}{}{Me lo imagino. ¿Puedo hacerle algunas otras preguntas, Padre?}
-
-# 19. BISHOP AND VAULT CITY (32)
 {470}{}{Qué va, Ciudad Defugio les manda a tomad pod el culo. Y entonces... no mucho después, Ciudad Defugio empieza a sed atacada. Con dapidez.
  Y dudeza. Y mientdas tanto, ahí está Bischop, diciéndoles, "yo PODRÍA ayudar, SI os unís a Nuevo Deno."}
 {471}{}{Hmmm. ¿Qué más puedes contarme sobre los Bishop?}
@@ -155,59 +114,39 @@
  la RNC, por ejemplo... antes de ceder a la presión de Bishop. ¿Qué más puedes contarme sobre los Bishop?}
 {475}{}{¿Puedo hacerle algunas otras preguntas, Padre?}
 {476}{}{Muy interesante, Padre. Gracias por hablar conmigo.}
-
-# 20.  HOW MANY FINGERS AM I HOLDING UP? (16)
 {480}{}{(Mira fijamente tu mano). ¿S-seis? O quizá tdes…}
 {481}{}{Muy bien. Ambas respuestas son correctas. Verá, tenía unas preguntas…}
 {482}{}{¿Lleva a cabo divorcios?}
 {484}{}{Quizá vuelva cuando esté sobrio.}
-
-# 21. CAN YOU DO DIVORCES? (7, 9, 10, 13, 20)
 {490}{}{Que el diablo me lleve, ¡clado que puedo! Deno ha sido la capital del divodcio desde antes del Holocausto. }
 {491}{}{¿Esta es la fudcia de la que te quiedes libdad? }
 {492}{}{¿Este es el guapedas del que te quiedes libdad? }
 {493}{}{(Parece confuso durante un momento mientras os contempla a ambos. Después se encoge de hombros y bebe).}
 {494}{}{Puedes apostar. ¿Podemos empezar ahora?}
 {495}{}{Quizá… todavía me lo estoy pensando. Pero puede que vuelva.}
-
-# 22. YOU BET. CAN WE START NOW? (21)
 {500}{}{Bien, aunque he extdaviado mi libdo de sedmones con todo el pdtodolo oficial…}
 {501}{}{A la mierda con el libro. Aquí tengo algo de licor. ¿No puede sencillamente improvisar algo?}
 {502}{}{Aquí tengo algo de licor. ¿No puede sencillamente improvisar algo?}
 {503}{}{A la mierda con el libro. Si le consigo una botella, ¿cree que podría sencillamente improvisar algo?}
 {504}{}{Si le consigo una botella, ¿cree que podría sencillamente improvisar algo?}
 {505}{}{Oh, en fin. Quizá el libro aparezca.}
-
-# 23. IF I BRING YOU A BOTTLE, CAN YOU JUST MAKE SOMETHING UP? (22)
 {510}{}{Bueno, eso no estadía bien… a menos que el licod fueda muuuuy bueno.}
 {511}{}{No tema. Volveré.}
 {512}{}{Bien, puedo hacer algo. Pero primero necesitaré unas cuantas fichas.}
-
-# 24. HERE'S SOME HOOCH. CAN YOU JUST MAKE SOMETHING UP? (22)
 {520}{}{¡Desde luego! Déjame despachar esto antes de que se eche a pedded… (se acaba la botella a velocidad de vértigo)... de acueddo, un paso adelante hacia el altad, los dos…}
 {521}{}{Das un paso adelante…}
-
-# 25. NO HOOTCH ON ME, I'M AFRAID (15, 28)
 {530}{}{Oh. Está bien. Pdeguntad no hace daño… entonces… eh… lo siento, ¿quién edas tú?}
 {531}{}{Pues verás, podría conseguirte algo de licor, si quieres.}
-
-# 26. I COULD GO SNAG SOME, IF YOU WANT (15, 25, 28)
 {540}{}{¡Esa es una i-idea genial! ¡Que el Señod te bendiga! Eh… desulta que conozco un LUGAD en la zona este, en la vieja estación
  del tden, que vende la clase de agua b-bendita que necesito.}
 {541}{}{De acuerdo. Iré a conseguir un poco. En seguida vuelvo.}
 {542}{}{De acuerdo. Iré a conseguir un poco. Pero necesitaré algunas fichas para comprarlo.}
-
-# 27. I'LL NEED SOME chipS TO BUT HOOTCH (23, 26)
 {550}{}{Clado, clado… fichas, fichas… donde guaddo las fichas…(su mirada se dirige al cepillo de donativos al lado del altar). ¡Ah! No
  sé pod qué no pensé antes en e-eso... Espeda un minuto...}
 {551}{}{(Esperas pacientemente a que haga una retirada de efectivo del cepillo).}
 {552}{}{Eh, no importa, Padre. Yo invito.}
-
-# 28.  MAIN QUESTION NODE (18, 19, 33, 34, 35, 36, 37, 40, 41, 42, 43, 44, 45, 46, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57)
 {560}{}{(El Padre Tully contempla la... ahora... vacía botella de sus manos). Oye, no es que quieda obligadte, amigo: ¿no tenddías
  casualmente otda obtella de ese vino añe-jo? Toda esta chadla me está dejando la boca seca.}
-
-# 29. BROUGHT SOME HOOCH. CAN I TALK TO YOU . . . ? (7, 9, 10)
 {570}{}{¡Muchísimas gdacias! (Toma la botella y le da un trago). Ahhh… lo siento… ¿de qué demonios es-estaba hablando?}
 {571}{}{Eh… bien, e-entonces, con toda segudidad! (Toma la botella). no suelo tocad estas cosas, ya sabes… (toma un buen trago)... ahhhh… um, lo siento, qué estaba dici-ciendo?}
 {572}{}{Eh… ¡maldito seas! (Toma la botella). Nodmalmente no bebo tanto, ¿sabes?… (Le da un buen trago). Ahhhh… lo siento, qué estaba d-diciendo?}
@@ -217,35 +156,25 @@
 {576}{}{Estabas hablando de la familia Salvatore.}
 {578}{}{Estabas hablando de la muerte de Richard Wright.}
 {579}{}{Volveré cuando estés sobrio.}
-
-# 30. TALK TO ME ABOUT FAMILY BISHOP . . . (19, 29, 33, 34, 35)
 {590}{}{¿Eh? Los Bishop, sí… hambdientos de poded todos ellos, lo llevan en la sangde. La cosa es que el viejo John Bischop está tan pdeocupado
  en contdoladlo todo que no se ocupa de sus asuntos de su c-casa...}
 {591}{}{¿Asuntos de su casa?}
-
-# 31. OH, WHAT DOES MR. BISHOP SAY IN THE CONFESSIONAL . . . ? (18)
 {600}{}{Bueno, no mucho, aunque he oído cosas FUEDA del confesionadio acedca del viejo Bishop. Astuto demonio. Tiene pelotas de acedo,
  sí... deben rechinadle al andad. Apuesto a que está detdás de esos saqueadodes de Ciudad Defugio… ¿has oído hablad de ellos?}
 {601}{}{No.}
 {602}{}{Sí.}
 {603}{}{Padre, baje la voz. Decir esas cosas podría hacer que lo matasen en esta ciudad…}
-{604}{}{Oiga, quizá vuelva cuando estés sobrio.}
-
-# 32. NO/YES/KEEP YOUR VOICE DOWN (31)
+{604}{}{Oiga, tal vez vuelva cuando esté sobrio.}
 {610}{}{(Te ignora). Vedás, hace unos meses, el viejo Bishop envío una cadavana a Ciudad Defugio, SUGIDIENDO un matdimonio de conveniencia entde
  Ciudad Defugio y Nuevo Deno.}
 {611}{}{¿Llegaron a un acuerdo?}
 {612}{}{Supongo que no llegarían a un acuerdo.}
-
-# 33. WHAT DOES MRS. BISHOP SAY IN CONFESSIONAL? (18)
 {620}{}{Más o menos lo que espedadías de una esposa descuidada con unas cudvas que cudadían la cegueda. Adultedio, sobde todo.
  Es decid, ¿has VISTO sus melones? ¡Madde de Dios!}
 {621}{}{Eh… ¿qué más puede contarme sobre los Bishop, Padre?}
 {622}{}{Sí, tiene buenos melones. Es decir… eso he oído. Eh, ¿qué más puede contarme sobre los Bishop, Padre?}
 {623}{}{Er... ella no dijo con QUIEN cometió adulterio, ¿verdad, Padre?}
 {625}{}{De acuerdo. Bien, gracias por hablar conmigo.}
-
-# 34. OH, WHAT DOES BISHOP'S DAUGHTER SAY IN THE CONFESSIONAL? (18)
 {630}{}{Oooh, ¿la dulce p-pequeña Angela? ¡Pequeña DIABLESA, más bien! La chica lleva al demonio en la sangde. Siempde
  pavoneándose pod ahí, acostándose con cualquieda y lle-llenándose de Jet…}
 {631}{}{Eh, ¿acostándose con cualquiera? ¿Dijo con quién?}
@@ -253,57 +182,41 @@
 {633}{}{Parece una gran familia. ¿Qué más me puede contar sobre los Bishop?}
 {634}{}{Tenía algunas preguntas más, Padre…}
 {635}{}{Supongo que no son más que niñerías. Bien, gracias por hablar conmigo.}
-
-# 35. DID SHE SAY WHO? (33, 34)
 {640}{}{¿Con quién? Clado que lo dijo, aunque la lista de con quien NO ha estado tonteando sedía bastante más codta. Se lo cuenta a todos,
  pdesume de ello. Oye... ¿cuál eda tu nombde?}
 {641}{}{Eh, da igual… ¿qué más me puede contar sobre los Bishop, Padre?}
 {642}{}{¿Yo? Los monjes célibes no tenemos nombre. Verá, tenía algunas otras preguntas, Padre…}
 {643}{}{¿Yo? Las monjas célibes no tenemos nombre. Verá, tenía algunas otras preguntas, Padre…}
 {644}{}{Hablaremos más tarde, Padre.}
-
-# 36. JET? (34, 48, 49, 50, 56)
 {650}{}{¡Sangde del Diablo! ¡Una pedvedsidad! ¡Una nauseabunda secdeción de la teta del mal!}
 {651}{}{Así que… ¿no te gusta el Jet?}
 {652}{}{Eh, sí. Teta del mal. ¿Puedo hacerle algunas otras preguntas, Padre?}
 {653}{}{De acuerdo entonces. Hablaremos más tarde, Padre.}
-
-# 37. SO . . . YOU DON'T LIKE JET? (36)
 {660}{}{Esa d-droga sedá nuestda muedte. No se me ocu-rre ninguna otda ddoga…(toma un trago y eructa)… que cause más d-daño que el Jet… mata
  cuedpo y mente. Malditos Mordino…}
 {661}{}{¿Qué era eso de los Mordino?}
 {663}{}{Eh, yo haría que esa botella durase un poco más la póxima vez, Padre. Nos veremos más tarde.}
-
-# 38. TALK TO ME ABOUT FAMILY WRIGHT (29)
 {670}{}{¡Je-je! Wdight, ¿eh? (Sonríe y arquea las cejas). Déjame que te cuente a-algo acedca de los WDIGHT… ¡son un montón
  de boddachos cachondos y fer-r-rreos puditanos, eso es lo q-que son!}
 {671}{}{Oh, ¿en serio?}
 {672}{}{Creo que ya he oído suficiente, Padre. Gracias por hablar conmigo.}
-
-# 39. FAMILY WRIGHT, 2 (38, 40, 41, 42, 43)
 {680}{}{Esos Wdight no hacen m-más que niños… el viejo Odville Wdight debe queded r-repodlad el mundo. Espedo que la señoda Wdight
  pueda aguantad el estrés. Je-je. Y las c-cosas que DICEN en el confesionadio…}
 {681}{}{Oh, ¿en serio? ¿Qué dice la señora Wright en el confesionario?}
 {682}{}{Oh, ¿en serio? ¿Qué dice el viejo ORVILLE Wright en el confesionario?}
 {683}{}{¿Qué controla la familia Wright en Nuevo Reno?}
 {684}{}{Oh, apuesto a que es un asunto jugoso. Quizá podamos hablar en otra ocasión.}
-
-# 40. OH, WHAT DOES MISSUS WRIGHT SAY IN THE CONFESSIONAL? (39, 42)
 {690}{}{¿ETHYL Wdight? ¡Esa bendita mujed! Me mantiene lejos de la b-bedida, y en el buen camino. (Toma un trago). Ella puede quitadte
  el pecado, puede… eh, esto… ¿qué demonios e-estaba diciendo?}
 {691}{}{Acerca de la señora Wright en el confesionario…}
 {692}{}{Estaba hablando de la familia Wright…}
-{693}{}{No importa. Tenía algunas preguntas más…}
+{693}{}{No importa. Tenía algunas otras preguntas…}
 {694}{}{Nada más, creo. Gracias por hablar conmigo.}
-
-# 41. ABOUT MISSUS WRIGHT IN THE CONFESSIONAL? (40)
 {700}{}{Oh, clado, clado. Bien, eh, en el confesionadio, no tenía mucho que decid. Casi todo eda culpabilidad por entdometedse… o por
  disfdutad el sexo con su mar-ridito más de la cuenta. Je-je. (Toma un trago). Me encaaaaanta la culpabilidad.}
 {701}{}{Tenía algunas preguntas más acerca de los Wright…}
-{702}{}{Ya veo. Tenía algunas otras preguntas…}
+{702}{}{Ya veo. Tenía algunas preguntas más…}
 {703}{}{Se nota. Gracias por hablar conmigo.}
-
-# 42. WHAT DOES MR. WRIGHT IN THE CONFESSIONAL? (39, 43)
 {710}{}{¿El viejo Odville? Bueno, tiene mucha culpabilidad sobde sus hombdos. Vedás, le pdometió a su señora que dejadía el negocio del al-alcohol, ¡pe-pero
  tiene una destiledía secdeta en la estación de tden, tdas la casa! Ella le sacudidía a base de bien si se entedase…}
 {711}{}{Je, je, esto es gdacioso… vedás, el viejo señod Wdight pdometió a su señoda que dejadía el ne-negocio del alcohol, ¡pe-pero tiene una destiledía
@@ -311,102 +224,70 @@
 {712}{}{Cuénteme más sobre la señora Wright…}
 {713}{}{Cuénteme algo más sobre los Wright…}
 {715}{}{Una destilería secreta en la estación de tren tras la casa, ¿eh? Muy interesante, Padre. Gracias por la información.}
-
-# 43. WHAT DO THE WRIGHTS CONTROL? (39)
 {720}{}{¡Nada! (Toma un trago). Son la más débil de l--as Familias, podque sólo tdafican con alco-cohol. Apenas ganan un centavo con ello.
  Las demás Familias les compdan alcohol pdacticamente por pena.}
 {721}{}{¿De dónde sale su alcohol?}
 {722}{}{Interesante. Cuénteme algo más acerca de los Wright…}
 {724}{}{Muy interesante, Padre. Gracias por la información.}
-
-# 44. TALK TO ME ABOUT FAMILY MORDINO (29, 37)
 {730}{}{¿Los Moddino? (Levanta tres dedos). Son dos. (Levanta la mano). Gdan Jeeesus… (baja la mano) … y Pequeño
  Je-sus. El Padre y el Hijo. Ambos controlan las ddogas y las mujedes en Deno.}
 {731}{}{Hábleme de Gran Jesús.}
 {732}{}{Hábleme de Pequeño Jesús.}
 {733}{}{¿Así que ellos son la fuente de las drogas y controlan a la mayoría de prostitutas de Nuevo Reno?}
-
-# 45. TELL ME ABOUT BIG JESUS (44, 46)
 {740}{}{¿Jesús? Un buen hijo de p-puta… (Toma un trago y chasquea la lengua). Tdafica con esclavos, Jet, y p-putas. Sólo hay una pedsona
  peod que él y es su inmundo hi-hijo.}
 {741}{}{¿Su hijo?}
 {742}{}{¿Así que Jesús Mordino senior controla la mayoría de drogas y putas de Nuevo Reno?}
 {743}{}{Una gran familia. ¿Puedo hacerle algunas otras preguntas, Padre?}
 {744}{}{De tal palo tal astilla. Bien, gracias por hablar conmigo, Padre.}
-
-# 46. TELL ME ABOUT LITTLE JESUS (44, 45)
 {750}{}{¿Pequeño Jesús? ¡Un bastar-do! Es como una ga-garra-pata, chupando la sangde del tdabajo de su padde. Todo Deno tenddá pdoblemas si él toma el
  mando. No poddía manejadlo todo, ddogas, putas... todo se idía abajo.}
 {752}{}{¿Los Mordino son la fuente de las drogas y de la mayoría de las putas de Nuevo Reno?}
 {754}{}{Igual que tú dentro de un par de segundos. Bien, gracias por hablar conmigo.}
-
-# 47. MORDINO BUSINESS (44, 45, 46)
 {760}{}{(Tully te mira fijamente). }
 {761}{}{Sssi… (sonríe y se lame los labios). … putasss… (empieza a acariciar el cuello de la botella).}
 {762}{}{Eh, ¿Padre? ¿Y en cuanto a las drogas?}
 {763}{}{Creo que será mejor que me vaya. Gracias por hablarn conmigo, Padre.}
-
-# 48. DRUGS? (47)
 {770}{}{¿Eh? Dro-dogas… sí, la ddogas. Jet. Apestoso Jet. Hacen cosas teddibles con él, teddibles… Dedding… el Establo. (Toma un trago). Todo pod dinedo…}
 {772}{}{¿Qué pasa con Redding?}
 {773}{}{¿Qué pasa con el Establo?}
 {775}{}{Interesante. Gracias por hablar conmigo, Padre.}
-
-# 49. REDDING? (48, 50)
 {780}{}{(Hace un gesto de caminar con dos dedos). El Jet de-deja la ciudad, va a Dedding. El o-oro deja Dedding, va a Moddino.
  (Toma un trago). Los minedos mueden, los Moddino ganan.}
 {782}{}{¿Qué estaba diciendo sobre el Establo?}
 {784}{}{Así que los Mordino están vendiendo Jet a Redding, ¿eh? Interesante. Gracias, Padre.}
-
-# 50. STABLES? (48, 49)
 {790}{}{Los Moddino tienen una… gdanja… fueda de la ciudad. Tienen escla-clavos allí. Pdueban el… Jet… en ellos. Los matan a montones. (Se estremece). Sólo los Moddino
  sa-saben dónde está el Establo.}
 {792}{}{¿Qué estaba diciendo sobre Redding?}
 {794}{}{Los Mordino están probando el Jet con esclavos, ¿eh? Interesante. Gracias, Padre.}
-
-# 51. TALK TO ME ABOUT FAMILY SALVATORE (29)
 {800}{}{¿Estaba ha-hablando de los Salvatode? (Parpadea, se encoge de hombros, y luego bebe). No tengo ni i-idea de lo que estaba diciendo. La familia es re-resedvada
  como la muedte. Y tú no te quiedes cduzad con ellos… ¿sabes pod qué?}
 {803}{}{Realmente no necesito saber porqué ahora mismo, Padre. ¿Puedo hacerle algunas otras preguntas?}
 {804}{}{Oiga, tal vez vuelva cuando esté sobrio.}
-
-# 52. [YES/NO] SALVATORE (51)
 {810}{}{(Se tambalea). Podque tienen admas que dispadan fuego del cielo, admas que nadie ha VISTO antes en Nuevo Deno o
  cualquied otdo sitio. Dispadan dayos de luz, codtan a un hom-hombre en dos, y le dejan endte espasmos en el suelo.}
 {811}{}{¿Disparan rayos de luz?}
 {812}{}{¿Disparan rayos de luz? ¿Te refieres a armas láser?}
 {814}{}{Vaya... quizá debería intentar conseguir una. Bien, gracias por hablar conmigo.}
-
-# 53. LASERS (52)
 {820}{}{A-así es como he oído que los llaman… la-sers… ¡aunque pada mí que esas admas son cosa del demonio, nausea-abundas iluminadodas, hedamientas
  que no significan nada más que muedte!}
 {821}{}{Sí, por supuesto, Padre. Herramientas del demonio y todo eso. ¿Qué piensan las demás familias de esas 'iluminadoras'?}
 {823}{}{Herramientas del demonio, ¿eh? Tal vez debería intentar echarle la mano a una. Bien, gracias por hablar conmigo.}
-
-# 54. TELL ME MORE ABOUT THE SALVATORES (52, 53)
 {830}{}{Una de esas iluminadodas puede matad a una docena de hombdes… Las demás Familias suelen pelead junto a los Salvatode, pero ninguna se mete
  con ellos. Es una especie de p-paz… que vale mientdas aguante, su-supongo.}
 {831}{}{¿Quién está al mando de los Salvatore, Padre?}
 {833}{}{Me lo supongo. Bien, gracias por hablar conmigo, Padre.}
-
-# 55. WHO'S IN CHARGE? (54)
 {840}{}{Louie… LOUIS… Salvatore didige el show. (Termina la botella y tose ligeramente). Lisiado. Necesita un t-tanque de oxígeno pada despidad... tiene
  los pulmones hechos polvo. Siempde está en el piso supediod de su local, nunca sale.}
 {841}{}{Interesante. ¿Puedo hacerlo algunas otras preguntas, Padre?}
 {842}{}{Hmmmm. Un tanque de oxígeno, ¿eh? Interesante. Bien, gracias por charlar conmigo, Padre.}
-
-# 56. TELL ME ABOUT RICHARD . . . (29)
 {850}{}{Ese pobde chico… el Jet lo sepadó de su familia, eso hizo. ¡Esa maldita podquedía! El peod veneno pada la mente que se haya inventado…}
 {852}{}{¿Sabe de dónde consiguió Richard el Jet que lo mató?}
 {853}{}{Tenía algunas preguntas más…}
 {854}{}{Ya veo. Gracias por hablar conmigo, Padre.}
-
-# 57. WHERE RICHARD GOT THE JET . . . (56)
 {860}{}{¡Lo pudo conseguid de cualquieda en Nuevo Deno! ¡Hay una fadmacia justo al otdo lado de la calle didigida pod un tdaficante de ddogas, y si
  él no te vende, detén a cualquieda en la calle! ¡Maldito Jet!}
 {862}{}{¿La farmacia al otro lado de la calle? Lo comprobaré. Gracias por charlar conmigo, Padre.}
-
-# 101. FLOAT TEXT FOR DIVORCE (WTG?)
 {957}{}{Muy bien, es-escucha…}
 {958}{}{::Toma un trago::}
 {959}{}{::Sigue bebiendo y vacía la botella::}
@@ -415,15 +296,11 @@
 {962}{}{::Hace un gesto como de barrer::}
 {963}{}{Ughhhhh}
 {964}{}{Zzzz ronquido zzzzz}
-
-# 102. CLICK TEXT AFTER TULLY HAS PASSED OUT (WTG)
 {967}{}{Zzzz ronquido zzzzz}
 {968}{}{Oh, detente, señoda Wright, detente… sznnzzzz}
 {969}{}{Zzz detente, senoda Wright, soy un hombde de la iglesia.}
 {970}{}{Malditazz…zzz… pecado… zzzz… tan divedtido.}
 {971}{}{Pod supuesto que estoy sobdio.}
-
-# 103. Going to go pass out
 {1000}{}{Oh, alabado sea... *AGGGGG*}
 {1001}{}{Maldición, bebí demasiada de esa sangre de... OH, CRISTO, *HUUUURRRRRRLLLL*.}
 {1002}{}{Oh, Dios, *ELCHHHH*}

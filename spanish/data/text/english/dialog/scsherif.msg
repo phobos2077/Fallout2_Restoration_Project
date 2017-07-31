@@ -12,8 +12,8 @@
 {111}{}{Oh, genial. Era todo de color de rosa.}
 {112}{}{Primitivo, ¿eh? Tú. ¿Preguntas? Pregúntame. ¿Vale?}
 {113}{}{¿Refugio 13?}
-{114}{}{¿GECK?}
-{115}{}{Vale.}
+{114}{}{GECK?}
+{115}{}{De acuerdo.}
 {116}{}{No. Eso es algo que incluso la presidente Tandi querría saber. Resuelve muchos problemas.}
 {117}{}{¿Problemas?}
 {118}{}{¿Presidente Tandi?}
@@ -38,10 +38,10 @@
 {137}{}{¡Arrgh! ¡NO HAY 13, IMBÉCIL INTEGRAL! No 13. No se encuentra. ¡Nunca! ¡Jamás!}
 {138}{}{Tandi es gran jefe. Tandi quiere ayuda. Habla con Tandi. Ve a casa de Con-gre-so. ¿Vale?}
 {139}{}{GECK?}
-{140}{}{Vale.}
+{140}{}{De acuerdo.}
 {141}{}{No GECK. Yo sano. No enfermo.}
 {142}{}{¿Refugio 13?}
-{143}{}{Vale.}
+{143}{}{De acuerdo.}
 {144}{}{Mira a tu alrededor. RNC es un lugar en crecimiento. Necesitamos piezas, computadoras, un poco de todo. Ha sido un problema desde que los okupas se trasladaron al Refugio 15.}
 {145}{}{¿Refugio 15? ¿Okupas? ¿Qué está pasando?}
 {146}{}{¿Qué pasa con la presidente Tandi?}
@@ -55,8 +55,6 @@
 {154}{}{¡Vaya, eso es muy audaz por tu parte, forastero... y también jodidamente presuntuoso. ¡Ni te conozco lo más mínimo ni me gusta la pinta que tienes! No te recomendaría a nadie. Ahora, tengo trabajo que hacer.}
 {155}{}{Bueno, está Duppo, de los Comerciantes. Se encarga de los contratos para las caravanas de brahmines. También está el señor Westin. Si hablas con él, dile que yo te he enviado. Incluso la presidente Tandi ha estado buscando algo de ayuda.}
 {156}{}{Duppo, de la Asociación de Comerciantes, contrata mano de obra para las caravanas de brahmines. Inténtalo con él.}
-
-
 {157}{}{¿Westin?}
 {158}{}{¿Presidente Tandi?}
 {159}{}{Tengo que irme.}

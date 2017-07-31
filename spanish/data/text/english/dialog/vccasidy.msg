@@ -4,26 +4,26 @@
 {103}{}{Bueno. No te había visto antes, forastero. Me llamo Cassidy. Dirijo este lugar. ¿Qué puedo hacer por ti?}
 {104}{}{Vaya, si es el forastero misterioso. ¿Qué puedo hacer hoy por ti?}
 {105}{}{¿Hacer yo?}
-{106}{}{confuso}
-{107}{}{Busco el Refugio.}
-{108}{}{¿Estás buscando el irte de aquí?}
-{109}{}{¿Qué tienes disponible?}
+{106}{}{Dejas de balbucear}
+{107}{}{Estoy buscando el Refugio.}
+{108}{}{¿Ya estás buscando el irte de aquí?}
+{109}{}{¿Qué tienes para tomar?}
 {110}{}{¿Pasa algo interesante por aquí?}
 {111}{}{Hoy nada, gracias.}
 {112}{}{Te golpean a menudo en la cabeza, ¿eh? Lo siento, no hablo en imbécil.}
 {113}{}{be-cil?}
 {114}{}{¿Refugio? El único Refugio que conozco es el del interior de la ciudad. Un pedazo de agujero... no tiene pérdida, confía en mí.}
-{115}{}{¿Qué tienes para beber por aquí?}
+{115}{}{¿Qué tienes para beber?}
 {116}{}{¿Pasa algo interesante por aquí?}
 {117}{}{Gracias por las indicaciones. Adiós.}
 {118}{}{Cerveza a 20 dólares, un trago de whisky por 30. Nada especial. ¿Por qué, quieres algo?}
 {119}{}{Estoy buscando el Refugio.}
 {120}{}{Tomaré una cerveza.}
-{121}{}{Tomaré un trago.}
+{121}{}{Que sea un trago de whisky.}
 {122}{}{¿Pasa algo interesante por aquí?}
 {123}{}{En realidad, no. Gracias de todos modos.}
 {124}{}{"¿Interesante?" Je. Amigo, Ciudad Refugio no es un lugar "interesante"... a menos que los guardias se aburran, entonces mejor que te escondas. ¿Por qué lo preguntas? ¿Estás buscando algo en ese antro?}
-{125}{}{¿Qué tienes para beber por aquí?}
+{125}{}{¿Qué tienes para beber?}
 {126}{}{En realidad, estoy buscando el Refugio.}
 {127}{}{Esto no puede ser tan malo.}
 {128}{}{En realidad, no. Gracias de todos modos.}
@@ -46,18 +46,18 @@
 {145}{}{Lamento oír eso. Estoy buscando un Refugio. ¿Puedes ayudarme?}
 {146}{}{Lamento oír eso. Espero que las cosas mejoren.}
 {147}{}{Mi corazón está mal. Necesito descargas de cardio-impulsos para que siga latiendo. Esta ciudad es el único lugar que tiene un auténtico servicio médico, así que decidí instalarme aquí, tratando de ganarme la vida.}
-{148}{}{Pareces bastante harto de este lugar.}
+{148}{}{Pareces bastante harto del lugar.}
 {149}{}{Ya veo. Mira, estoy buscando un Refugio. ¿Puedes ayudarme?}
 {150}{}{Espero que las cosas te vayan mejor de ahora en adelante. Nos vemos.}
 {151}{}{Me entran ganas de echar el cierre al negocio y dejar que la ciudad se pudra. Que se jodan todos.}
-{152}{}{¿Por qué no te vas?}
+{152}{}{¿Por qué no te marchas?}
 {153}{}{Siento oír eso. Espero que te salgan bien las cosas.}
 {154}{}{¿Ir al Yermo yo sólo? ¡Ja! Estoy harto de este lugar, pero no soy estúpido.}
-{155}{}{Yo me voy ya mismo. ¿Por qué no me acompañas?}
+{155}{}{Yo me dirijo de nuevo a ese camino. ¿Por qué no me acompañas?}
 {156}{}{Bien, buena suerte entonces.}
-{157}{}{No te ofendas, pero no pareces capaz de liderar nada. Tienes pinta de que el Yermo te va a comer un día de estos.}
-{158}{}{Paso, no viajo con esclavistas. Tienen el asqueroso hábito de venderte cuando necesitan dinero. Sin ofender.}
-{159}{}{Paso, parece que tienes un pie en la tumba y el otro en el infierno. No creo que deba manchar mi reputación más de lo que ya lo está.}
+{157}{}{No te ofendas, pero no pareces capaz de liderar nada. Parece que vayas a servirle de cena al Yermo.}
+{158}{}{Ni hablar, no viajo con esclavistas. Tienen el repugnante hábito de venderte cuando les hace falta dinero. Sin ofender.}
+{159}{}{De eso nada, tienes el aspecto de alguien con un pie en la tumba y el otro en el infierno. No creo que necesite manchar mi reputación más de lo que ya está.}
 {160}{}{Paso... parece que ya llevas a un montón de gente contigo.}
 {161}{}{De acuerdo. Bien, buena suerte.}
 {162}{}{Entonces olvida lo que te he preguntado, capullo. Sigue atendiendo tu bar en esta apestosa ciudad.}
@@ -72,16 +72,15 @@
 {171}{}{¿Qué pasa? Tienes la mirada de "tengo que decirte algo que no te va a gustar" otra vez.}
 {172}{}{¿Sí?}
 {173}{}{¿Qué pasa? Tienes de nuevo esa mirada de "voy a abusar de mi autoridad".}
-{174}{}{Quería que me respondieras algunas preguntas...}
+{174}{}{Quería hacerte algunas preguntas...}
 {175}{}{Parece que te han hecho daño. Usa algunos estimulantes para curarte.}
-{176}{}{Cassidy, necesito que esperes aquí hasta que regrese.}
+{176}{}{Cassidy, necesito que esperes aquí hasta que vuelva.}
 {177}{}{Guarda tu arma.}
-{178}{}{Quédate cerca de mí.}
+{178}{}{Quedarse cerca de mí.}
 {179}{}{No te alejes demasiado.}
-{180}{}{Deberíamos desplegarnos un poco.}
+{180}{}{Deberíamos separarnos un poco.}
 {181}{}{Vamos, Cassidy. Hora de marcharse.}
 {182}{}{Nada, no importa.}
-
 {261}{}{Quieres que le meta una bala en la cabeza a Myron, ¿no? No hay problema. Sólo da la orden.}
 {262}{}{¿Qué piensas?}
 {263}{}{¿Por qué quieres cargarte a Myron?}
@@ -92,11 +91,11 @@
 {268}{}{No, no le hagas daño a Myron. Hoy no, al menos. Te mantendré informado.}
 {269}{}{Bueno, escopetas y rifles, principalmente... sólo es una preferencia personal. Tampoco se me da mal disparar con pistolas.}
 {270}{}{¿Algo más?}
-{271}{}{Vale. Tenía más preguntas...}
+{271}{}{Vale. Tenía otras preguntas...}
 {272}{}{Está bien. Sólo lo comprobaba.}
 {273}{}{Si alguna vez quieres enseñarle modales a alguien de manera cercana y personal, házmelo saber; pásame un puño americano, y puedo hacer claqué sobre su cara con mis puños.}
 {274}{}{Fantástico. ¿Algo más?}
-{275}{}{De acuerdo. Tenía algunas otras preguntas...}
+{275}{}{Vale. Tenía otras preguntas...}
 {276}{}{Está bien. Sólo lo comprobaba.}
 {277}{}{Ah, bueno... sólo entre tú y yo, también puedo utilizar una lanza bastante bien. Mis amigos y yo solíamos cazar escorpiones rad con lanzas, de niños... de hecho, estoy vivo y esos bichos no pueden decir lo mismo.}
 {278}{}{No veo nada malo en usar una lanza.}
@@ -193,63 +192,39 @@
 {369}{}{Creo que voy a necesitar unas muletas y una silla de ruedas.}
 {370}{}{Cassidy muere de un ataque al corazón.}
 {371}{}{Has convencido a Cassidy para unirse a tu grupo.}
-{372}{}{Tan solo deja que me tome primero una pastilla para el corazón...} # Seraph's Code
-
+{372}{}{Just let me pop a heart pill first...}
 {1000}{}{Bueno... de acuerdo, entonces. Esperaré aquí hasta que vuelvas. }
 {1100}{}{Claro. Aunque no puedo prometer que no te retiraré si hay problemas.}
 {1200}{}{De acuerdo, me pegaré a ti entonces. Y espera problemas.}
 {1300}{}{De acuerdo, me mantendré a distancia. Tendré un mejor punto de observación de esa forma.}
 {1400}{}{De acuerdo, vigilaré tu espalda. Si me necesitas grita y vendré corriendo.}
-
 {2000}{}{No te ofendas, pero no pareces capaz de liderar nada. Parece que vayas a servirle de cena al Yermo.}
 {2100}{}{Ni hablar, no viajo con esclavistas. Tienen el repugnante hábito de venderte cuando les hace falta dinero. Sin ofender.}
 {2200}{}{De eso nada, tienes el aspecto de alguien con un pie en la tumba y el otro en el infierno. No creo que necesite manchar mi reputación más de lo que ya está.}
 {2300}{}{Ni hablar... parece que ya tienes a un montón de gente a tu alrededor.}
 {2400}{}{De acuerdo entonces.}
-
 {2999}{}{De acuerdo. Ten cuidado, entonces.}
 {3000}{}{Salgamos.}
 {3100}{}{Entonces olvida lo que he dicho, gilipollas.}
 {3200}{}{No importa, entonces. Tú te lo pierdes.}
-
 {4100}{}{Vale, todo está remendado. Estoy listo para ir.}
 {4200}{}{Vale, casi todo está remendado.}
-{4300}{}{Casi ha servido del todo, pero podría usar un par más de estimulantes.}
+{4300}{}{Me las he arreglado bastante bien, pero podría usar un par de estimulantes más.}
 {4400}{}{Utilicé lo que pude, pero aún estoy bastante hecho polvo. Si tienes algún estimulante más que puedas gastar, no me vendría mal. Aunque todavía puedo caminar.}
-
-{9999}{}{Quería hacerte unas preguntas...}
+{9999}{}{Quería hacerte algunas preguntas...}
 {10001}{}{Toma algún estimulante más y cúrate.}
 {10002}{}{Cassidy, necesito que esperes aquí hasta que vuelva.}
 {10003}{}{Guarda tu arma.}
-{10004}{}{Quédate cerca de mí.}
+{10004}{}{Quedarse cerca de mí.}
 {10005}{}{No te alejes demasiado.}
 {10006}{}{Deberíamos separarnos un poco.}
-{10100}{}{Vamos, Cassidy. Hora de marcharse.}
 {10007}{}{Vámonos pues.}
-
-# NEW TOM PARTY MEMBER ADDITIONS
-
-# NODE 1007 WE NEED TO CHANGE DISTANCE
+{10100}{}{Vamos, Cassidy. Hora de marcharse.}
 {20000}{}{De acuerdo, estoy escuchando.}
-
-# NODE 1008 TALK ABOUT GEAR
 {20001}{}{¿Mi armamento? ¿Qué pasa con él?}
-
-# NODE 1009 REMOVE ARMOR
 {20002}{}{No hay problema. Hace demasiado calor para esa clase de armas, de todos modos. Me hace sudar como una puta de Nuevo Reno.}
-
-# NODE 1010 WHAT WEAPONS CAN YOU USE -- DAN NEEDS TO REPLACE THIS.
-
-# NODE 1100 CAN'T JOIN PARTY BECAUSE LOW CHR -- DAN NEEDS TO REPLACE THIS.
-
-# We need to change our distance from one another
 {20003}{}{Intentemos una formación diferente.}
-# I need to talk to you about your gear.
 {20004}{}{Tengo que hablar contigo sobre tu armamento.}
-# On second thought, I think this distance is OK for now.
 {20005}{}{Olvídalo. Mantengamos la formación que tenemos ahora.}
-# Actually, I guess there's nothing I need to really know right about your gear.
 {20006}{}{No importa. No hay nada que necesite saber sobre tu armamento.}
-# I need to remove the armor that you're wearing.
 {20007}{}{Necesito quitarte la armadura que llevas.}
-# I need to know what kind of weapons you can use. Transplant original comment from Question Node Line: 264

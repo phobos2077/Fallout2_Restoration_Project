@@ -1,8 +1,3 @@
-#############################################################
-#  Gangsters (Encuentros)             #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un gángster.}
 {101}{}{Bien, bien. ¿Qué tenemos aquí?}
 {102}{}{Simples viajeros, ¿eh? No sois eso. Necesitáis ayuda con vuestras pertenencias de valor?}

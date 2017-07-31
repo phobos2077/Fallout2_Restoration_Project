@@ -1,8 +1,3 @@
-#############################################################
-#  Dalia (Vault 15)     			            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a una joven vestida con ropas harapientas.}
 {101}{}{Ves a Dalia.}
 {102}{}{Ves a una joven vestida con ropas harapientas. Parece estar muy alerta, y mira a su alrededor atentamente.}
@@ -11,24 +6,24 @@
 {105}{}{Uh, ¿quién tú?}
 {106}{}{¿Qué haces aquí?}
 {107}{}{Pareces guardia.}
-{108}{}{Marcho.}
-{109}{}{Tan solo saludarte.}
+{108}{}{Marcho ahora.}
+{109}{}{Sólo quería saludar.}
 {110}{}{¿Quién eres?}
 {111}{}{¿Qué estás haciendo?}
 {112}{}{Parece que estás vigilando este sendero.}
-{113}{}{Me iré ahora mismo.}
+{113}{}{Voy a irme ahora.}
 {114}{}{Bien, hola. Lo siento, pero ahora tienes que irte.}
-{115}{}{Quiero hablar.}
+{115}{}{Yo hablo.}
 {116}{}{Vale, me voy.}
 {117}{}{Quiero hablar contigo.}
 {118}{}{Adiós.}
 {119}{}{Te dije que soy Dalia. Mira, no quiero ser descortés, pero ahora mismo no quiero hablar con nadie. ¿Vale?}
-{120}{}{De acuerdo. Adiós.}
+{120}{}{De acuerdo, adiós.}
 {121}{}{Sólo un poco.}
 {122}{}{Entonces me marcho.}
 {123}{}{Sólo quiero hacerte una pregunta.}
 {124}{}{Me gusta el aire fresco y los árboles, por eso estoy aquí. ¿Tienes algún problema con eso?}
-{125}{}{Perdón, me voy.}
+{125}{}{Siento, yo marcho.}
 {126}{}{No, no problema. Yo pregunto algo a tú.}
 {127}{}{No tengo ningún problema, pero tengo curiosidad sobre una cosa.}
 {128}{}{Perdón, me iré entonces.}
@@ -45,8 +40,8 @@
 {139}{}{}
 {140}{}{Hola. Soy Dalia. ¿En qué te puedo ayudar?}
 {141}{}{¿Personas van por aquí? ¿Rápido?}
-{142}{}{En nada.}
-{143}{}{En nada.}
+{142}{}{Nada.}
+{143}{}{Nada.}
 {144}{}{¿Has visto a alguien corriendo por aquí?}
 {145}{}{Veo a gente ir por aquí todos los días. No les presto mucha atención.}
 {146}{}{No tengo tiempo para tus chorradas.}

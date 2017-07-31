@@ -1,13 +1,8 @@
-#############################################################
-#  Guardian (Den)   		                            #
-#############################################################
-
 {100}{}{Ves a un rufián intimidante.}
 {101}{}{Ves a un guardia de La Guarida.}
-
 {102}{}{Ahora no, estoy de servicio.}
 {103}{}{No puedo hablar contigo.}
-{104}{}{Por favor, vete.}
+{104}{}{Por favor, marchaos.}
 {105}{}{No me molestes.}
 {106}{}{Ve a ver a mi jefe.}
 {107}{}{No me permiten responder a tus preguntas.}

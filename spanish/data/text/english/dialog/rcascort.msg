@@ -12,7 +12,7 @@
  en el local de Ascorti. Yo soy Ascorti, el propietario y alcalde de este bonito pueblo.}
 {111}{}{¿Qué puede hacer el alcalde Ascorti por ti?}
 {112}{}{¿Hay algún trabajo aquí en Redding?}
-{113}{}{¿Qué está pasando últimamente por aquí?}
+{113}{}{¿Qué se cuece por la ciudad últimamente?}
 {114}{}{¿Has oído de algo llamado Kit de Creación del Jardín del Edén?}
 {115}{}{¿Qué haces aquí?}
 {116}{}{Sólo estaba echando un vistazo, alcalde. Nos vemos luego. Adiós.}
@@ -32,7 +32,7 @@
 {128}{}{Claro que sí. Eh, permíteme preguntarte otra cosa, alcalde.}
 {129}{}{Sí, claro. Sólo lo comprobaba. Adiós, alcalde Ascorti.}
 {130}{}{Todas las clases de propiedad privada. Porque, ahora mismo, tengo una estupenda escritura a la venta.}
-{131}{}{¿Cuál es?}
+{131}{}{¿Qué tienes para hacer?}
 {132}{}{Apuesto a que sí, pero me permíteme preguntarte primero otra cosa, alcalde.}
 {133}{}{Hmm, creo que primero echaré una mirada por el pueblo, alcalde. Adiós.}
 {134}{}{Es la escritura de la Gran Mina Wanamingo situada en las afueras del pueblo. Puedo vendértela por sólo

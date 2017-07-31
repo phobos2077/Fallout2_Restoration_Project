@@ -11,7 +11,7 @@
 {110}{}{¡Vivimos en la playa!}
 {111}{}{Me abuuuuuro.}
 {112}{}{¡Eeeee!}
-{113}{}{¡Socorro!}
+{113}{}{¡Ayuda!}
 {114}{}{¡Oh, no! ¡El hombre del saco!}
 {115}{}{¡Mamaaaaaaaaaaaaaaaaaaaa!}
 {116}{}{¡Corred! ¡Es un monstruo!}

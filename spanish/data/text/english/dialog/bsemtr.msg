@@ -1,8 +1,3 @@
-#############################################################
-#  Campo de fuerza (Vault 15)     			    #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves un extraño artilugio al lado de un campo de fuerza.}
 {101}{}{Ves un emisor de campo de fuerza.}
 {102}{}{Es el muro más extraño que has visto jamás.}

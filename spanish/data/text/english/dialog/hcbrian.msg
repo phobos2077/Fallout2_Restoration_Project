@@ -1,12 +1,12 @@
 {100}{}{Ves a un hombre rechoncho que lleva unas ropas zarrapastrosas.}
-{101}{}{Ves a Brian.} 
+{101}{}{Ves a Brian.}
 {102}{}{Ves a un hombre rechoncho que lleva unas ropas zarrapastrosas. Tiene un palillo en su boca y está recubierto de grasa. Sus uñas están sucias.}
 {103}{}{Mira tanto como quieras, desecho antisocial.}
-{104}{}{¿Qué coño quieres?}
+{104}{}{¿Qué quieres?}
 {105}{}{Nyug aarg.}
 {106}{}{¿Quién eres?}
 {107}{}{¿Qué es este lugar?}
-{108}{}{¿Has oído algo acerca de un GECK?}
+{108}{}{¿Alguna vez has oído hablar de un GECK?}
 {109}{}{Eric me pidió que ajustara el suministro de energía de su casa. Dijo que estaba sudando demasiado.}
 {110}{}{Oye, Eric está realmente contento con su bonita y chula casa. Y veo que la energía no se ha cortado en la ciudad.}
 {111}{}{Vengo de hablar con Eric y me ha dicho que él solía hacer funcionar este lugar y que como hay muchísima energía en las barras de uranio, nunca lo notaríais si él usa un poco. Así que soltad la energía.}

@@ -18,7 +18,7 @@
 {117}{}{Tú solo cúrame.}
 {118}{}{No me quedo aquí.}
 {119}{}{Te has recuperado.}
-{120}{}{Yo voy, yo ahora.}
+{120}{}{Marcho ahora.}
 {121}{}{No. Nunca bromeo. Mejor que ampute esa pierna antes de que se gangrene.}
 {122}{}{Ni hablar, no amputarás nada, ¿entendido?}
 {123}{}{Eso es, me largo.}
@@ -50,7 +50,6 @@
 {149}{}{Sí. Cecina Bob es un viejo buscador de uranio: para ser más precisos, un borracho. Ahora vive en las afueras de la hacienda de los Westin.}
 {150}{}{Otra pregunta...}
 {151}{}{Gracias por la historia.}
-#CMH changing per Fergus.. Now you have to pay 1000 or steal the painting off of him.
 {152}{}{Bien, esperaba conseguir algo de dinero. Lo soltaré por }
 {153}{}{Puede que más tarde, otra pregunta...}
 {154}{}{Quizá más tarde, me tengo que ir.}
@@ -69,11 +68,10 @@
 {167}{}{Esas medicinas son para el señor Westin, no para ti. Devuélvelas.}
 {168}{}{Aléjate de ahí. Debes tener cuidado, ¿vale? No querrás que el señor Westin se tome las medicinas equivocadas.}
 {169}{}{¡Cuidado! Acabo de medir la dosis del señor Westin.}
-
 {170}{}{Soy el doctor Jubilee. ¿Qué ocurre, señorita?}
 {171}{}{¿Qué ocurre, señorita?}
 {172}{}{Ahí tienes, señorita.}
 {173}{}{Pues no deberías preocuparte, señorita. En tanto no ponga a prueba su sistema, probablemente nos sobreviva a todos. Claro está, si alguna vez decide entre mis cuidados médicos o sus medicamentos.}
 {174}{}{Claro. Aquí están los }
 {175}{}{Gracias, he intentado sacarle el dinero a ese Cecina, pero el condenado nunca tiene nada.}
-{176}{}{ dólares.}
+{176}{}{.}

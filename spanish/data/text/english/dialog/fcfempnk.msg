@@ -9,13 +9,13 @@
 {108}{}{Flirtearía contigo, pero es que no estoy interesada.}
 {109}{}{::con sarcasmo:: Seguro que hay un montón de mujeres fuertes por aquí, ¿eh?}
 {110}{}{¿Esperas que caiga rendida a tus pies? Despierta.}
-{111}{}{¡Soy única! ¡Al igual que todos los demás!}
-{112}{}{A veces, el hastiado cinismo del mundo me aburre.}
+{111}{}{¡Soy único! ¡Igual que los demás!}
+{112}{}{A veces el hastiado cinismo del mundo me aburre.}
 {113}{}{La próxima vez, quiero encontrarme con una tribu de góticos.}
 {114}{}{He oído que el Emperador Shi es inhumanamente inteligente.}
-{115}{}{Esos Shi tienen una pinta divertida.}
+{115}{}{Esos Shi tienen una pinta muy graciosa, la verdad.}
 {116}{}{Soy de mente abierta, ¿eh?}
-{117}{}{Mira a todos esos nuevos vagabundos. Impostores.}
+{117}{}{Mira a todos esos nuevos vagabundos. Imitadores.}
 {118}{}{AHS-9 nos engañó y también te engañará a ti si se lo permites.}
 {119}{}{Al próximo imbécil que me llame "zorra" lo dejo frito.}
 {120}{}{¿Entonces cómo fue con un mutante?}
@@ -28,7 +28,7 @@
 {127}{}{Eres un pedazo de gilipollas, ¿verdad?}
 {128}{}{¿Alguna vez piensas en alguien que no seas tú mismo?}
 {129}{}{Oh, mira, es el "héroe".}
-{130}{}{¡Oid, todos! ¡Es el capullo egoísta!}
+{130}{}{¡Oíd todos! ¡Es el cabrón egoísta!}
 {131}{}{Oh, ¿otra vez tú? Como si todo el mundo quisiera hablar contigo.}
 {132}{}{¡Odias a Chip!}
 {133}{}{Mala suerte con lo del bazo.}
@@ -71,7 +71,7 @@
 {170}{}{Supongo que es hora de empaquetar mis cosas.}
 {171}{}{Disfruta del barco.}
 {172}{}{Que tengas suerte buscando a tu gente.}
-{173}{}{Me limitaré a irme ahora.}
+{173}{}{Ya me voy.}
 {174}{}{Espero que podamos encontrar otro lugar donde vivir.}
 {175}{}{Pobre Badger. Era realmente atractivo.}
 {176}{}{¿Quién querría matar a Badger?}

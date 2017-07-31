@@ -1,63 +1,33 @@
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-#
-# Etiquetas de texto y mensajes usados para ciudad y mapa del mundo
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-#
-
-#
-# Plano del asentamiento y seleccion de los nombres de puntos de entrada
-#
-# Formato:
-#	Tipo de asentamiento.
-#	Hasta una selección de 10 nombres.
-#
-# Arroyo
 {200}{}{Puente}
 {201}{}{Aldea}
 {202}{}{Entrada al Templo}
 {203}{}{Yermo}
 {204}{}{Interior del Templo}
-#
-# La Guarida
 {210}{}{Zona Oeste}
 {211}{}{Zona Este}
 {212}{}{Barrio Residencial}
-#
-# Klamath
-{220}{}{Centro de la ciudad}
+{220}{}{Centro Ciudad}
 {221}{}{Barrio de los tramperos}
 {222}{}{Cuevas de las ratas}
 {223}{}{Tierras de caza}
 {224}{}{Pastos comunales}
 {225}{}{Cañon}
-#
-# Modoc
 {230}{}{Calle Principal}
 {231}{}{Cama y Comida de Rose}
 {232}{}{Pastos para brahmines de Grisham}
 {233}{}{Jardin de Farrel}
 {234}{}{Donde John}
 {235}{}{Pozo de la ciudad}
-#
-# Ciudad Refugio
 {240}{}{Patio}
 {241}{}{Ciudad interior}
 {242}{}{Sede del Consejo}
 {243}{}{Refugio}
-#
-# Gecko
 {250}{}{Asentamiento}
 {251}{}{Central nuclear}
 {252}{}{Chatarreria}
 {253}{}{Tuneles de acceso}
-#
-# Broken Hills
-{260}{}{Centro de la ciudad}
+{260}{}{Centro Ciudad}
 {261}{}{Zona residencial}
-#
-# Nuevo Reno
 {270}{}{Calle Virgin}
 {271}{}{Calle Segunda}
 {272}{}{Zona Oeste}
@@ -65,49 +35,35 @@
 {274}{}{Desguace}
 {275}{}{Zona de boxeo}
 {276}{}{Area de Vertibird}
-#
-# Almacén Militar Sierra
 {280}{}{Campo de batalla}
 {281}{}{Deposito Nivel 1: Personal}
 {282}{}{Deposito Nivel 2: Bahia de Almacenamiento}
 {283}{}{Deposito Nivel 3: Laboratorio de Robotica}
 {284}{}{Deposito Nivel 4: Laboratorio de Bioingenieria}
-#
-# Refugio 15
 {290}{}{Dependencias}
 {291}{}{Moradores}
 {292}{}{Moradores}
 {293}{}{Refugio 15}
 {294}{}{Entrada Este}
-#
-# República de Nueva California
 {300}{}{Bazar}
 {301}{}{Consejo 2}
 {302}{}{Centro Ciudad}
 {303}{}{Salon del Consejo}
 {304}{}{Rancho Westin}
 {305}{}{Pastos Comunales}
-#
-# Refugio 13
 {310}{}{Caverna de entrada}
 {311}{}{Refugio 13}
-#
-# Base Militar
 {320}{}{Entrada}
 {321}{}{Nivel 1}
 {322}{}{Nivel 2}
 {323}{}{Nivel 3}
 {324}{}{Nivel 4}
-#
-# Redding
 {330}{}{Centro Ciudad}
 {331}{}{Gran mina Wanamingo}
 {332}{}{Mina Wanamingo}
 {333}{}{Campamento minero}
 {334}{}{Tuneles del centro}
 {335}{}{Tuneles mineros}
-#
-# San Francisco
 {340}{}{Chinatown}
 {341}{}{Muelle}
 {342}{}{Petrolero}
@@ -115,12 +71,8 @@
 {344}{}{Interior de transbordador}
 {345}{}{Hubologistas}
 {346}{}{Templo Shi}
-#
-# Navarro
 {350}{}{Gasolinera}
 {351}{}{Puerta Principal}
-#
-# El Enclave
 {360}{}{Muelle}
 {361}{}{Centro de detencion}
 {362}{}{Jefe Final}
@@ -128,39 +80,19 @@
 {364}{}{Área Presidencial}
 {365}{}{Reactor}
 {366}{}{Habitacion trampa}
-#
-# Abbey
 {370}{}{Error: blanco}
-#
-# Tribu Primitiva
 {380}{}{Error: blanco}
-#
-# Agencia de Protección Medioambiental
 {390}{}{Error: blanco}
-#
-# Modoc: Ciudad Fantasma Subterránea
 {400}{}{La Ciudad Fantasma}
 {401}{}{Caverna principal}
 {402}{}{Lago subterraneo}
-#
-# Coche Sin Gasolina 
 {410}{}{Coche sin combustible}
-#
-# Arroyo Destruido 
 {420}{}{Puente destruido}
-#
-# Cuevas Tóxicas Klamath 
 {430}{}{Cuevas toxicas}
-#
-# Incursión esclavista de La Guarida 
 {440}{}{Incursion esclavista de La Guarida}
-#
-# Saqueadores
 {450}{}{Pozo}
 {451}{}{Precipicio}
 {452}{}{Caverna de entrada}
-#
-# Encuentro Aleatorio Desierto
 {460}{}{Desierto}
 {461}{}{Desierto}
 {462}{}{Desierto}
@@ -171,8 +103,6 @@
 {467}{}{Desierto}
 {468}{}{Desierto}
 {469}{}{Desierto}
-#
-# Encuentro Aleatorio Montaña
 {470}{}{Montaña}
 {471}{}{Caverna}
 {472}{}{Montaña}
@@ -183,8 +113,6 @@
 {477}{}{Caverna}
 {478}{}{Montaña}
 {479}{}{Montaña}
-#
-# Encuentro Aleatorio Ciudad
 {480}{}{Ciudad en ruinas}
 {481}{}{Ciudad en ruinas}
 {482}{}{Ciudad en ruinas}
@@ -193,8 +121,6 @@
 {485}{}{Ciudad en ruinas}
 {486}{}{Ciudad en ruinas}
 {487}{}{Ciudad en ruinas}
-#
-# Encuentro Aleatorio Litoral
 {490}{}{Litoral}
 {491}{}{Litoral}
 {492}{}{Litoral}
@@ -205,60 +131,24 @@
 {497}{}{Litoral}
 {498}{}{Litoral}
 {499}{}{Litoral}
-#
-# Nuevo Reno: Golgatha
 {500}{}{Gólgota}
-#
-# Encuentro Especial: Encuentro de Ballena
 {510}{}{Despojos aplastados de ballena}
-#
-# Encuentro Especial: El Hombre de Hojalata
 {520}{}{Hombre de hojalata}
-#
-# Encuentro Especial: Gran Cabeza
 {521}{}{Cabeza gigante}
-#
-# Encuentro Especial: Lanzadera dela Federación estrellada
 {530}{}{Lugar del accidente}
-#
-# Encuentro Especial: Aldeanos sucios
 {540}{}{Desierto}
-#
-# Encuentro Especial: Guardián del Puente
 {550}{}{Puente}
-#
-# Encuentro Especial: Café de los Sueños Rotos 
 {560}{}{Cafe de los Sueños Rotos}
-#
-# Encuentro Especial: La Granada Sagrada 1
 {570}{}{Desierto}
-#
-# Encuentro Especial: La Granada Sagrada 2
 {580}{}{Caverna}
-#
-# Encuentro Especial: Guardián de la Eternidad
 {590}{}{Guardian de la Eternidad}
-#
-# Encuentro Especial: Montón de basura tóxica
 {600}{}{Monton de basura toxica}
-#
-# Encuentro Especial: Parias
 {610}{}{Desierto}
-#
-# Encuentro Especial: Rebaño de brahmines 
 {620}{}{Rebaño de brahmines}
-#
-# Encuentros con una caravana
 {630}{}{Desierto}
 {631}{}{Montaña}
-#
-# Falso Refugio 13 A
 {640}{}{Caverna del Refugio 13}
-#
-# Falso Refugio 13 B
 {650}{}{Caverna}
-#
-# Áreas en sombra (Aquellas que no encajan en ningún otro lugar
 {660}{}{Litoral}
 {661}{}{Litoral}
 {662}{}{Desierto}
@@ -268,72 +158,41 @@
 {666}{}{Montaña}
 {667}{}{Desierto}
 {668}{}{Desierto}
-#
-# Establo de Nuevo Reno
 {670}{}{Establo}
-
-
-#
-# Los nombres que se muestran en el mapa del mundo al pasar el ratón sobre el tipo de terreno
-#
 {1000}{}{Desierto}
 {1001}{}{Montañas}
 {1002}{}{Ciudad}
 {1003}{}{Costa}
-{1004}{}{Desconocido}  # Desconocido / ciudad visitada
-
-
-# Mensajes Misceláneos
+{1004}{}{Desconocido}
 {1500}{}{¡Has ganado 10.000 puntos de experiencia!}
 {1501}{}{Ruinas}
 {1502}{}{Se le acabó el combustible al coche.}
 {1503}{}{Es un coche. No parece que que pueda ponerse en marcha.}
-
-
-
-#
-# Mensajes de encuentros en el mapa del mundo 
-#
-
 {2998}{}{Encuentras:}
 {2999}{}{¿Deseas tropezarte con este encuentro?:}
-
-# Encuentros Tabla 0
 {3000}{}{Una banda de saqueadores.}
 {3001}{}{Algunos escorpiones rad.}
 {3002}{}{Ratas gigantes.}
 {3003}{}{Un grupo de comerciantes.}
 {3004}{}{<Especial>}
-
-# Encuentros Tabla 1
 {3050}{}{Una banda de saqueadores.}
 {3051}{}{Algunos insectos mantis.}
 {3052}{}{Un grupo de geckos.}
 {3053}{}{Un grupo de ratas topo.}
-{3054}{}{Un grupo de escorpiones ead.}
+{3054}{}{Un grupo de escorpiones rad.}
 {3055}{}{Un grupo de ratas gigantes.}
 {3056}{}{Un grupo de comerciantes.}
 {3057}{}{<Especial>}
-
-# Encuentros Tabla 2
 {3100}{}{Una banda de saqueadores.}
 {3101}{}{Un grupo de escorpiones rad.}
 {3102}{}{Un grupo de ratas gigantes.}
 {3103}{}{Un grupo de comerciantes.}
 {3104}{}{<Especial>}
-
-# Encuentros Tabla 3
 {3150}{}{Una banda de saqueadores.}
-
-# Encuentros Tabla 4
 {3200}{}{Una banda de saqueadores.}
-
-# Encuentros Tabla 5
 {3250}{}{Una banda de saqueadores.}
-
-# Encuentros Tabla 6
-{3300}{}{Una partida de guerra.}
-{3301}{}{Una partida de caníbales.}
+{3300}{}{Un grupo de guerra.}
+{3301}{}{Un grupo de caníbales.}
 {3302}{}{Un grupo de plantas de esporas y algunos geckos plateados.}
 {3303}{}{Un grupo de geckos plateados.}
 {3304}{}{Algunos cazarrecompensas.}
@@ -351,7 +210,7 @@
 {3316}{}{Un grupo de ratas.}
 {3317}{}{Una partida de caza luchando contra caníbales.}
 {3318}{}{Un grupo de hormigas.}
-{3319}{}{Un grupo de cazadores luchando contra escorpiones.}
+{3319}{}{Una partida de caza luchando con algunos escorpiones rad.}
 {3320}{}{Un pequeño grupo de ratas cerdo.}
 {3321}{}{Un pequeño grupo de escorpiones rad.}
 {3322}{}{Un pequeño grupo de hormigas.}
@@ -359,12 +218,10 @@
 {3324}{}{Un grupo de nómadas.}
 {3325}{}{Un hombre guardando un puente.}
 {3326}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 7
 {3350}{}{Montón de basura tóxica}
 {3351}{}{Un solitario perro superviviente.}
 {3352}{}{Un rebaño de brahmines.}
-{3353}{}{Una partida de guerra.}
+{3353}{}{Un grupo de guerra.}
 {3354}{}{Algunos cazarrecompensas.}
 {3355}{}{Algunos cazarrecompensas.}
 {3356}{}{Algunos cazarrecompensas.}
@@ -383,7 +240,7 @@
 {3369}{}{Un grupo de ratas.}
 {3370}{}{Una partida de caza luchando contra caníbales.}
 {3371}{}{Un grupo de hormigas.}
-{3372}{}{Una partida de caza luchando contra algunos escorpiones rad.}
+{3372}{}{Una partida de caza luchando con algunos escorpiones rad.}
 {3373}{}{Un pequeño grupo de ratas cerdo.}
 {3374}{}{Un pequeño grupo de escorpiones rad.}
 {3375}{}{Un pequeño grupo de hormigas.}
@@ -396,9 +253,7 @@
 {3382}{}{Caballeros del Rey Arturo.}
 {3383}{}{El Hombre de Hojalata}
 {3384}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 8
-{3400}{}{Una partida de guerra.}
+{3400}{}{Un grupo de guerra.}
 {3401}{}{Un grupo de caníbales.}
 {3402}{}{Un grupo de plantas de esporas y algunos geckos plateados.}
 {3403}{}{Un grupo de geckos plateados.}
@@ -423,8 +278,6 @@
 {3422}{}{Un pequeño grupo de hormigas.}
 {3423}{}{Una partida de caza.}
 {3424}{}{Un grupo de nómadas.}
-
-# Tabla Encuentro 9
 {3450}{}{Montón de basura tóxica}
 {3451}{}{Un solitario perro superviviente.}
 {3452}{}{Un rebaño de brahmines.}
@@ -433,13 +286,13 @@
 {3455}{}{Algunos cazarrecompensas.}
 {3456}{}{Algunos cazarrecompensas.}
 {3457}{}{Algunos cazarrecompensas.}
-{3358}{}{Algunos cazarrecompensas.}
-{3359}{}{Algunos cazarrecompensas.}
-{3360}{}{Algunos cazarrecompensas.}
-{3361}{}{Algunos cazarrecompensas.}
-{3362}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
+{3458}{}{Algunos cazarrecompensas.}
+{3459}{}{Algunos cazarrecompensas.}
+{3460}{}{Algunos cazarrecompensas.}
+{3461}{}{Algunos cazarrecompensas.}
+{3462}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {3463}{}{Un grupo de santones.}
-{3464}{}{Algunos geckos y ocultos entre plantas de esporas.}
+{3464}{}{Algunos geckos ocultos entre plantas de esporas.}
 {3465}{}{Algunos geckos.}
 {3466}{}{Algunos escorpiones rad ocultos entre plantas de esporas.}
 {3467}{}{Algunas plantas de esporas.}
@@ -454,8 +307,6 @@
 {3476}{}{Caballeros del Rey Arturo.}
 {3477}{}{El Hombre de Hojalata}
 {3478}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 10
 {3500}{}{Una banda de parias.}
 {3501}{}{Un grupo de santones.}
 {3502}{}{Algunos cazarrecompensas.}
@@ -477,8 +328,6 @@
 {3518}{}{Una banda de nómadas}
 {3519}{}{Un hombre guardando un puente.}
 {3520}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 11
 {3550}{}{Montón de basura tóxica}
 {3551}{}{Un solitario perro superviviente.}
 {3552}{}{Un rebaño de brahmines.}
@@ -497,9 +346,9 @@
 {3565}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {3566}{}{Una familia de escorpiones rad.}
 {3567}{}{Algunas plantas de esporas.}
-{3568}{}{Algunos bandidos atacados por algunos geckos dorados.}
+{3568}{}{Algunos bandidos atacados por geckos dorados.}
 {3569}{}{Algunos granjeros defendiéndose de algunos geckos.}
-{3570}{}{Algunos granjeros defendiéndose de algunos geckos dorados.}
+{3570}{}{Algunos granjeros defendiéndose de geckos dorados.}
 {3571}{}{Algunos tramperos luchando contra geckos dorados.}
 {3572}{}{Algunos tramperos defendiéndose de algunos bandidos.}
 {3573}{}{Un grupo de tramperos dominando a algunos geckos.}
@@ -512,15 +361,13 @@
 {3580}{}{Algunos granjeros eliminando la plaga de ratas cerdo.}
 {3581}{}{Algunos granjeros.}
 {3582}{}{Un grupo de tramperos.}
-{3483}{}{Los restos de una ballena.}
-{3484}{}{Una cabeza de piedra gigante.}
-{3485}{}{Trasbordador accidentado.}
-{3486}{}{El Guardián del Portal.}
-{3487}{}{Caballeros del Rey Arturo.}
-{3488}{}{El Hombre de Hojalata}
-{3489}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 12
+{3583}{}{Los restos de una ballena.}
+{3584}{}{Una cabeza de piedra gigante.}
+{3585}{}{Trasbordador accidentado.}
+{3586}{}{El Guardián del Portal.}
+{3587}{}{Caballeros del Rey Arturo.}
+{3588}{}{El Hombre de Hojalata}
+{3589}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {3600}{}{Un grupo de geckos dorados y una familia de escorpiones rad.}
 {3601}{}{Algunos bandidos.}
 {3602}{}{Un grupo de vagabundos.}
@@ -553,8 +400,6 @@
 {3629}{}{Un grupo de tramperos.}
 {3630}{}{Un hombre guardando un puente.}
 {3631}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 13
 {3650}{}{Montón de basura tóxica}
 {3651}{}{Un solitario perro superviviente.}
 {3652}{}{Un rebaño de brahmines.}
@@ -590,8 +435,6 @@
 {3682}{}{Caballeros del Rey Arturo.}
 {3683}{}{El Hombre de Hojalata}
 {3684}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 14
 {3700}{}{Montón de basura tóxica}
 {3701}{}{Un solitario perro superviviente.}
 {3702}{}{Un rebaño de brahmines.}
@@ -625,8 +468,6 @@
 {3730}{}{Caballeros del Rey Arturo.}
 {3731}{}{El Hombre de Hojalata}
 {3732}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 15
 {3750}{}{Una banda de forajidos.}
 {3751}{}{Una banda de ladrones.}
 {3752}{}{Una banda de ladrones y forajidos.}
@@ -652,8 +493,6 @@
 {3772}{}{Un mercader con algunos guardias.}
 {3773}{}{Un hombre guardando un puente.}
 {3774}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 16
 {3800}{}{Montón de basura tóxica}
 {3801}{}{Un solitario perro superviviente.}
 {3802}{}{Un rebaño de brahmines.}
@@ -686,8 +525,6 @@
 {3829}{}{Caballeros del Rey Arturo.}
 {3830}{}{El Hombre de Hojalata}
 {3831}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 17
 {3850}{}{Un grupo de traficantes de esclavos y esclavos.}
 {3851}{}{Un grupo de forajidos.}
 {3852}{}{Una banda de ladrones.}
@@ -710,8 +547,6 @@
 {3869}{}{Algunos traficantes de esclavos y esclavos defendiéndose de geckos dorados.}
 {3870}{}{Un hombre guardando un puente.}
 {3871}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 18
 {3900}{}{Algunos forajidos y ladrones.}
 {3901}{}{Algunos forajidos.}
 {3902}{}{Un gran grupo de geckos dorados.}
@@ -733,8 +568,6 @@
 {3918}{}{Un grupo de comerciantes.}
 {3919}{}{Un hombre guardando un puente.}
 {3920}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 19
 {3950}{}{Algunos forajidos.}
 {3951}{}{Algunos ladrones.}
 {3952}{}{Algunos vagabundos.}
@@ -762,8 +595,6 @@
 {3974}{}{Un rebaño de brahmines.}
 {3975}{}{Un hombre guardando un puente.}
 {3976}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 20
 {4000}{}{Algunos forajidos rastreando con perros feroces.}
 {4001}{}{Algunos ladrones buscando con perros feroces.}
 {4002}{}{Una banda de ladrones.}
@@ -788,8 +619,6 @@
 {4021}{}{Una caravana.}
 {4022}{}{Un hombre guardando un puente.}
 {4023}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 21
 {4050}{}{Montón de basura tóxica}
 {4051}{}{Un solitario perro superviviente.}
 {4052}{}{Un rebaño de brahmines.}
@@ -822,8 +651,6 @@
 {4079}{}{Caballeros del Rey Arturo.}
 {4080}{}{El Hombre de Hojalata}
 {4081}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 22
 {4100}{}{Algunos geckos dorados.}
 {4101}{}{Un enjambre de mantis.}
 {4102}{}{Algunos escorpiones rad.}
@@ -845,8 +672,6 @@
 {4118}{}{Un comerciante y sus guardias.}
 {4119}{}{Un hombre guardando un puente.}
 {4120}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 23
 {4150}{}{Montón de basura tóxica}
 {4151}{}{Un solitario perro superviviente.}
 {4152}{}{Un rebaño de brahmines.}
@@ -876,8 +701,6 @@
 {4176}{}{Caballeros del Rey Arturo.}
 {4177}{}{El Hombre de Hojalata}
 {4178}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 24
 {4200}{}{Montón de basura tóxica}
 {4201}{}{Un solitario perro superviviente.}
 {4202}{}{Un rebaño de brahmines.}
@@ -908,8 +731,6 @@
 {4227}{}{Caballeros del Rey Arturo.}
 {4228}{}{El Hombre de Hojalata}
 {4229}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 25
 {4250}{}{Algunas ratas topo mutadas.}
 {4251}{}{Algunas ratas cerdo mutadas.}
 {4252}{}{Algunas plantas de esporas.}
@@ -932,8 +753,6 @@
 {4269}{}{Un ermitaño.}
 {4270}{}{Un hombre guardando un puente.}
 {4271}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 26
 {4300}{}{Una banda de traficantes de esclavos y algunos perros.}
 {4301}{}{Una banda de traficantes de esclavos.}
 {4302}{}{Algunos geckos dorados.}
@@ -955,8 +774,6 @@
 {4318}{}{Una patrulla.}
 {4319}{}{Un hombre guardando un puente.}
 {4320}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 27
 {4350}{}{Montón de basura tóxica}
 {4351}{}{Un solitario perro superviviente.}
 {4352}{}{Un rebaño de brahmines.}
@@ -986,8 +803,6 @@
 {4376}{}{Caballeros del Rey Arturo.}
 {4377}{}{El Hombre de Hojalata}
 {4378}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 28
 {4400}{}{Un montón de carroñeros.}
 {4401}{}{Algunos necrófagos carroñeros.}
 {4402}{}{Un puñado de lunáticos.}
@@ -1012,8 +827,6 @@
 {4421}{}{Algunas ratas mutadas infestadas por algunos necrófagos carroñeros.}
 {4422}{}{Un hombre guardando un puente.}
 {4423}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 29
 {4450}{}{Montón de basura tóxica}
 {4451}{}{Un solitario perro superviviente.}
 {4452}{}{Un rebaño de brahmines.}
@@ -1046,8 +859,6 @@
 {4479}{}{Caballeros del Rey Arturo.}
 {4480}{}{El Hombre de Hojalata}
 {4481}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 30
 {4500}{}{Algunos caníbales.}
 {4501}{}{Algunos salvajes.}
 {4502}{}{Un grupo de guerra.}
@@ -1067,8 +878,6 @@
 {4516}{}{Algunos caníbales luchando contra algunos salvajes.}
 {4517}{}{Algunos escorpiones rad atacando a algunos salvajes.}
 {4518}{}{Algunos pescadores.}
-
-# Tabla Encuentro 31
 {4550}{}{Montón de basura tóxica}
 {4551}{}{Un solitario perro superviviente.}
 {4552}{}{Un rebaño de brahmines.}
@@ -1102,8 +911,6 @@
 {4580}{}{Caballeros del Rey Arturo.}
 {4581}{}{El Hombre de Hojalata}
 {4582}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 32
 {4600}{}{Algunos caníbales.}
 {4601}{}{Algunos proscritos.}
 {4602}{}{Algunos salvajes.}
@@ -1129,8 +936,6 @@
 {4622}{}{Un ermitaño.}
 {4623}{}{Un hombre guardando un puente.}
 {4624}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 33
 {4650}{}{Montón de basura tóxica}
 {4651}{}{Un solitario perro superviviente.}
 {4652}{}{Un rebaño de brahmines.}
@@ -1162,8 +967,6 @@
 {4678}{}{Caballeros del Rey Arturo.}
 {4679}{}{El Hombre de Hojalata}
 {4680}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 34
 {4700}{}{Una caravana procedente de La Guarida.}
 {4701}{}{Algunos forajidos y ladrones.}
 {4702}{}{Algunos forajidos.}
@@ -1187,8 +990,6 @@
 {4720}{}{Una caravana procedente de La Guarida.}
 {4721}{}{Un hombre guardando un puente.}
 {4722}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 35
 {4750}{}{Montón de basura tóxica}
 {4751}{}{Un solitario perro superviviente.}
 {4752}{}{Un rebaño de brahmines.}
@@ -1204,7 +1005,7 @@
 {4762}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {4763}{}{Algunos incursores.}
 {4764}{}{Algunos lobos.}
-{4765}{}{Algunos geckos.}
+{4765}{}{Algunos geckos dorados.}
 {4766}{}{Algunos buscadores luchando contra incursores.}
 {4767}{}{Algunos tramperos luchando contra algunos geckos.}
 {4768}{}{Algunos contrabandistas de licores luchando contra algunos lobos.}
@@ -1220,12 +1021,10 @@
 {4778}{}{Caballeros del Rey Arturo.}
 {4779}{}{El Hombre de Hojalata}
 {4780}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 36
 {4800}{}{Algunos geckos y algunos lobos.}
 {4801}{}{Algunos incursores.}
 {4802}{}{Algunos lobos.}
-{4803}{}{Algunos geckos.}
+{4803}{}{Algunos geckos dorados.}
 {4804}{}{Algunos cazarrecompensas.}
 {4805}{}{Algunos cazarrecompensas.}
 {4806}{}{Algunos cazarrecompensas.}
@@ -1245,12 +1044,10 @@
 {4820}{}{Algunos buscadores.}
 {4821}{}{Un hombre guardando un puente.}
 {4822}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 37
 {4850}{}{Un grupo de lobos y algunas ratas topo.}
 {4851}{}{Algunos escorpiones rad y algunos lobos.}
 {4852}{}{Algunas ratas topo mutadas y algunos escorpiones rad.}
-{4853}{}{Un grupo de geckos.}
+{4853}{}{Un grupo de geckos dorados.}
 {4854}{}{Algunos cazarrecompensas.}
 {4855}{}{Algunos cazarrecompensas.}
 {4856}{}{Algunos cazarrecompensas.}
@@ -1268,8 +1065,6 @@
 {4868}{}{Algunas ratas topo luchando contra algunos escorpiones rad.}
 {4869}{}{Un hombre guardando un puente.}
 {4870}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 38
 {4900}{}{Una banda de ladrones.}
 {4901}{}{Algunos lobos.}
 {4902}{}{Una caravana defendiéndose de algunos ladrones.}
@@ -1291,8 +1086,6 @@
 {4918}{}{Una caravana.}
 {4919}{}{Un hombre guardando un puente.}
 {4920}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 39
 {4950}{}{Montón de basura tóxica}
 {4951}{}{Un solitario perro superviviente.}
 {4952}{}{Un rebaño de brahmines.}
@@ -1322,8 +1115,6 @@
 {4976}{}{Caballeros del Rey Arturo.}
 {4977}{}{El Hombre de Hojalata}
 {4978}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 40
 {5000}{}{Una banda de ladrones guiando a algunos lobos.}
 {5001}{}{Algunas plantas de esporas y algunos lobos.}
 {5002}{}{Una banda de ladrones.}
@@ -1341,8 +1132,6 @@
 {5014}{}{Una manada de lobos luchando contra algunos ladrones.}
 {5015}{}{Un hombre guardando un puente.}
 {5016}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 41
 {5050}{}{Montón de basura tóxica}
 {5051}{}{Un solitario perro superviviente.}
 {5052}{}{Un rebaño de brahmines.}
@@ -1368,8 +1157,6 @@
 {5072}{}{Caballeros del Rey Arturo.}
 {5073}{}{El Hombre de Hojalata}
 {5074}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 42
 {5100}{}{Montón de basura tóxica}
 {5101}{}{Un solitario perro superviviente.}
 {5102}{}{Un rebaño de brahmines.}
@@ -1390,9 +1177,7 @@
 {5117}{}{Caballeros del Rey Arturo.}
 {5118}{}{El Hombre de Hojalata}
 {5119}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{5120}{}{El Café de Sueños Rotos.}
-
-# Tabla Encuentro 43
+{5120}{}{El Café de los Sueños Rotos.}
 {5150}{}{Una patrulla del Enclave.}
 {5151}{}{Algunos cazarrecompensas.}
 {5152}{}{Algunos cazarrecompensas.}
@@ -1405,20 +1190,16 @@
 {5159}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {5160}{}{Un hombre guardando un puente.}
 {5161}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 44
 {5200}{}{Una patrulla del Enclave.}
 {5201}{}{Algunos cazarrecompensas.}
 {5202}{}{Algunos cazarrecompensas.}
 {5203}{}{Algunos cazarrecompensas.}
 {5204}{}{Algunos cazarrecompensas.}
+{5205}{}{Algunos cazarrecompensas.}
+{5206}{}{Algunos cazarrecompensas.}
+{5207}{}{Algunos cazarrecompensas.}
 {5208}{}{Algunos cazarrecompensas.}
-{5209}{}{Algunos cazarrecompensas.}
-{5210}{}{Algunos cazarrecompensas.}
-{5211}{}{Algunos cazarrecompensas.}
-{5212}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-
-# Tabla Encuentro 45
+{5209}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {5250}{}{Montón de basura tóxica}
 {5251}{}{Un solitario perro superviviente.}
 {5252}{}{Un rebaño de brahmines.}
@@ -1447,9 +1228,7 @@
 {5275}{}{Caballeros del Rey Arturo.}
 {5276}{}{El Hombre de Hojalata}
 {5277}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{5278}{}{El Café de Sueños Rotos.}
-
-# Tabla Encuentro 46
+{5278}{}{El Café de los Sueños Rotos.}
 {5300}{}{Algunos alienígenas y Garras mortales}
 {5301}{}{Restos del ejército del Maestro compuesto por nómadas y centauros.}
 {5302}{}{Algunos geckos de fuego.}
@@ -1470,8 +1249,6 @@
 {5317}{}{Un enjambre de nómadas.}
 {5318}{}{Un hombre guardando un puente.}
 {5319}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 47
 {5350}{}{Algunos alienígenas y Garras mortales}
 {5351}{}{Restos del ejército del Maestro compuesto por nómadas y centauros.}
 {5352}{}{Algunos geckos de fuego.}
@@ -1490,8 +1267,6 @@
 {5365}{}{Algunos alienígenas.}
 {5366}{}{Un grupo de centauros.}
 {5367}{}{Un enjambre de nómadas.}
-
-# Tabla Encuentro 48
 {5400}{}{Montón de basura tóxica}
 {5401}{}{Un solitario perro superviviente.}
 {5402}{}{Un rebaño de brahmines.}
@@ -1514,9 +1289,7 @@
 {5419}{}{Caballeros del Rey Arturo.}
 {5420}{}{El Hombre de Hojalata}
 {5421}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{5422}{}{El Café de Sueños Rotos.}
-
-# Tabla Encuentro 49
+{5422}{}{El Café de los Sueños Rotos.}
 {5450}{}{Una manada de geckos de fuego.}
 {5451}{}{Una manada de geckos de fuego.}
 {5452}{}{Un gran grupo de geckos dorados.}
@@ -1531,8 +1304,6 @@
 {5461}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {5462}{}{Un hombre guardando un puente.}
 {5463}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 50
 {5500}{}{Una manada de geckos de fuego.}
 {5501}{}{Una manada de geckos de fuego.}
 {5502}{}{Un gran grupo de geckos dorados.}
@@ -1545,8 +1316,6 @@
 {5509}{}{Algunos cazarrecompensas.}
 {5510}{}{Algunos cazarrecompensas.}
 {5511}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-
-# Tabla Encuentro 51
 {5550}{}{Montón de basura tóxica}
 {5551}{}{Un solitario perro superviviente.}
 {5552}{}{Un rebaño de brahmines.}
@@ -1576,8 +1345,6 @@
 {5576}{}{Caballeros del Rey Arturo.}
 {5577}{}{El Hombre de Hojalata}
 {5578}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 52
 {5600}{}{Una manada de Garras mortales.}
 {5601}{}{Una manada de geckos de fuego.}
 {5602}{}{Una caravana defendiéndose de Garras mortales.}
@@ -1599,8 +1366,6 @@
 {5618}{}{Una caravana.}
 {5619}{}{Un hombre guardando un puente.}
 {5620}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 53
 {5650}{}{Montón de basura tóxica}
 {5651}{}{Un solitario perro superviviente.}
 {5652}{}{Un rebaño de brahmines.}
@@ -1627,9 +1392,7 @@
 {5673}{}{Caballeros del Rey Arturo.}
 {5674}{}{El Hombre de Hojalata}
 {5675}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{5676}{}{El Café de Sueños Rotos.}
-
-# Tabla Encuentro 54
+{5676}{}{El Café de los Sueños Rotos.}
 {5700}{}{Algunos yakuza.}
 {5701}{}{Una pandilla.}
 {5702}{}{Un grupo de lobos.}
@@ -1648,8 +1411,6 @@
 {5715}{}{Un viajero.}
 {5716}{}{Un hombre guardando un puente.}
 {5717}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 55
 {5750}{}{Algunos yakuza.}
 {5751}{}{Una pandilla.}
 {5752}{}{Un grupo de lobos.}
@@ -1666,8 +1427,6 @@
 {5763}{}{Algunos mafiosos luchando contra una pandilla.}
 {5764}{}{Algunos mafiosos.}
 {5765}{}{Un viajero.}
-
-# Tabla Encuentro 56
 {5800}{}{Montón de basura tóxica}
 {5801}{}{Un solitario perro superviviente.}
 {5802}{}{Un rebaño de brahmines.}
@@ -1695,8 +1454,6 @@
 {5824}{}{Caballeros del Rey Arturo.}
 {5825}{}{El Hombre de Hojalata}
 {5826}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-
-# Tabla Encuentro 57
 {5850}{}{Una banda de buscavidas y algunos lobos.}
 {5851}{}{Una banda de buscavidas.}
 {5852}{}{Un grupo de lobos.}
@@ -1716,8 +1473,6 @@
 {5866}{}{Una patrulla.}
 {5867}{}{Un hombre guardando un puente.}
 {5868}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 58
 {5900}{}{Una banda de mercenarios.}
 {5901}{}{Una banda de asaltantes.}
 {5902}{}{Un rebano de Garras mortales.}
@@ -1735,8 +1490,6 @@
 {5914}{}{Hubologistas luchando contra mercenarios.}
 {5915}{}{Hubologistas defendiéndose de una banda de asaltantes.}
 {5916}{}{Hubologistas.}
-
-# Tabla Encuentro 59
 {5950}{}{Una banda de mercenarios.}
 {5951}{}{Una banda de asaltantes.}
 {5952}{}{Un rebano de Garras mortales.}
@@ -1756,8 +1509,6 @@
 {5966}{}{Hubologistas.}
 {5967}{}{Un hombre guardando un puente.}
 {5968}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 60
 {6000}{}{Una banda de mercenarios.}
 {6001}{}{Una banda de asaltantes.}
 {6002}{}{Un rebano de Garras mortales.}
@@ -1775,8 +1526,6 @@
 {6014}{}{Hubologistas luchando contra mercenarios.}
 {6015}{}{Hubologistas defendiéndose de una banda de asaltantes.}
 {6016}{}{Hubologistas.}
-
-# Tabla Encuentro 61
 {6050}{}{Montón de basura tóxica}
 {6051}{}{Un solitario perro superviviente.}
 {6052}{}{Un rebaño de brahmines.}
@@ -1787,7 +1536,7 @@
 {6057}{}{Algunos cazarrecompensas.}
 {6058}{}{Algunos cazarrecompensas.}
 {6059}{}{Algunos cazarrecompensas.}
-{6050}{}{Algunos cazarrecompensas.}
+{6060}{}{Algunos cazarrecompensas.}
 {6061}{}{Algunos cazarrecompensas.}
 {6062}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {6063}{}{Una banda de asaltantes.}
@@ -1804,9 +1553,7 @@
 {6074}{}{Caballeros del Rey Arturo.}
 {6075}{}{El Hombre de Hojalata}
 {6076}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{6077}{}{El Café de Sueños Rotos.}
-
-# Tabla Encuentro 62
+{6077}{}{El Café de los Sueños Rotos.}
 {6100}{}{Montón de basura tóxica}
 {6101}{}{Un solitario perro superviviente.}
 {6102}{}{Un rebaño de brahmines.}
@@ -1836,9 +1583,7 @@
 {6126}{}{Caballeros del Rey Arturo.}
 {6127}{}{El Hombre de Hojalata}
 {6128}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{6129}{}{El Café de Sueños Rotos.}
-
-# Tabla Encuentro 63
+{6129}{}{El Café de los Sueños Rotos.}
 {6150}{}{Una banda de mercenarios.}
 {6151}{}{Una manada de Garras mortales.}
 {6152}{}{Una manada de geckos de fuego.}
@@ -1858,8 +1603,6 @@
 {6166}{}{Una caravana defendiéndose de alienígenas.}
 {6167}{}{Una caravana.}
 {6168}{}{Una caravana.}
-
-# Tabla Encuentro 64
 {6200}{}{Montón de basura tóxica}
 {6201}{}{Un solitario perro superviviente.}
 {6202}{}{Un rebaño de brahmines.}
@@ -1883,9 +1626,7 @@
 {6220}{}{Caballeros del Rey Arturo.}
 {6221}{}{El Hombre de Hojalata}
 {6222}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{6223}{}{El Café de Sueños Rotos.}
-
-# Tabla Encuentro 65
+{6223}{}{El Café de los Sueños Rotos.}
 {6250}{}{Una gran manada de alienígenas.}
 {6251}{}{Restos del ejército del Maestro.}
 {6252}{}{Una manada de Garras mortales.}
@@ -1901,8 +1642,6 @@
 {6262}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {6263}{}{Un hombre guardando un puente.}
 {6264}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 66
 {6300}{}{Montón de basura tóxica}
 {6301}{}{Un solitario perro superviviente.}
 {6302}{}{Un rebaño de brahmines.}
@@ -1928,9 +1667,7 @@
 {6322}{}{Caballeros del Rey Arturo.}
 {6323}{}{El Hombre de Hojalata}
 {6324}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{6325}{}{El Café de Sueños Rotos.}
-
-# Tabla Encuentro 67
+{6325}{}{El Café de los Sueños Rotos.}
 {6350}{}{Una caravana defendiéndose de restos del ejército del Maestro.}
 {6351}{}{Una caravana defendiéndose de restos del ejército del Maestro.}
 {6352}{}{Una caravana defendiéndose de algunos Garras mortales.}
@@ -1948,8 +1685,6 @@
 {6364}{}{Una caravana.}
 {6365}{}{Un hombre guardando un puente.}
 {6366}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 68
 {6400}{}{Un grupo de lobos.}
 {6401}{}{Un enjambre de mantis.}
 {6402}{}{Una familia de escorpiones rad.}
@@ -1964,8 +1699,6 @@
 {6411}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {6412}{}{Un hombre guardando un puente.}
 {6413}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 69
 {6450}{}{Montón de basura tóxica}
 {6451}{}{Un solitario perro superviviente.}
 {6452}{}{Un rebaño de brahmines.}
@@ -1988,9 +1721,7 @@
 {6469}{}{Caballeros del Rey Arturo.}
 {6470}{}{El Hombre de Hojalata}
 {6471}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{6472}{}{El Café de Sueños Rotos.}
-
-# Tabla Encuentro 70
+{6472}{}{El Café de los Sueños Rotos.}
 {6500}{}{Montón de basura tóxica}
 {6501}{}{Un solitario perro superviviente.}
 {6502}{}{Un rebaño de brahmines.}
@@ -2022,9 +1753,7 @@
 {6528}{}{Caballeros del Rey Arturo.}
 {6529}{}{El Hombre de Hojalata}
 {6530}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{6531}{}{El Café de Sueños Rotos.}
-
-# Tabla Encuentro 71
+{6531}{}{El Café de los Sueños Rotos.}
 {6550}{}{Una banda de merodeadores.}
 {6551}{}{Un grupo de lobos.}
 {6552}{}{Un grupo de escorpiones rad.}
@@ -2048,8 +1777,6 @@
 {6570}{}{Un viajero.}
 {6571}{}{Un hombre guardando un puente.}
 {6572}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 72
 {6600}{}{Un destacamento del ejército del Maestro.}
 {6601}{}{Una banda de merodeadores.}
 {6602}{}{Algunos rangers defendiéndose de una escuadra del ejército del Maestro.}
@@ -2069,8 +1796,6 @@
 {6616}{}{Algunos granjeros.}
 {6617}{}{Un hombre guardando un puente.}
 {6618}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 73
 {6650}{}{Montón de basura tóxica}
 {6651}{}{Un solitario perro superviviente.}
 {6652}{}{Un rebaño de brahmines.}
@@ -2098,9 +1823,7 @@
 {6674}{}{Caballeros del Rey Arturo.}
 {6675}{}{El Hombre de Hojalata}
 {6676}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{6677}{}{El Café de Sueños Rotos.}
-
-# Tabla Encuentro 74
+{6677}{}{El Café de los Sueños Rotos.}
 {6700}{}{Restos del ejército del Maestro luchando contra ratas topo mutadas.}
 {6701}{}{Restos del ejército del Maestro.}
 {6702}{}{Un enjambre de mantis.}
@@ -2117,8 +1840,6 @@
 {6713}{}{Un grupo de escorpiones rad.}
 {6714}{}{Un hombre guardando un puente.}
 {6715}{}{Caballeros del Rey Arturo luchando contra una rata.}
-
-# Tabla Encuentro 75
 {6750}{}{Montón de basura tóxica}
 {6751}{}{Un solitario perro superviviente.}
 {6752}{}{Un rebaño de brahmines.}

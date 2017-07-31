@@ -1,12 +1,5 @@
-#############################################################
-#  Spammer (Encuentros)             #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un patético spammer.}
 {110}{}{Ves algo sin el menor interés.}
-
-# Grim's Floats
 {120}{}{¿Habrá versión para Mac?}
 {121}{}{¡Quiero multijugador!}
 {122}{}{¡Os odio a todos!}

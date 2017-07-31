@@ -1,6 +1,6 @@
 {100}{}{Un terminal de computadora.}
 {101}{}{Este terminal parece tener un diseño más avanzado que otros con los que te has encontrado.}
-{102}{}{Eres incapaz de leer lo que pone en la pantalla.}
+{102}{}{Eres incapaz de leer lo que pone en el monitor.}
 {103}{}{Terminal de la interfaz primaria de Skynet  --  Obedecerás   o   Dejarás de funcionar}
 {104}{}{}
 {105}{}{}
@@ -10,7 +10,7 @@
 {109}{}{Vale, te ayudaré. Detén a los monstruos metálicos.}
 {110}{}{Ug. Con - put - dora!}
 {111}{}{Salir.}
-{112}{}{[Eres incapaz de leer lo que pone en la pantalla].}
+{112}{}{[No sabes leer lo que pone en el monitor].}
 {113}{}{[De algún modo, Skynet sabía que habías conseguido un cerebro.]
                   Dirigirse a Laboratorio Robótico - Nivel 3
                               Instalar cerebro cibernético
@@ -21,13 +21,13 @@
 {116}{}{}
 {117}{}{}
 {118}{}{Salir.}
-{119}{}{[Eres incapaz de leer lo que pone en la pantalla].}
+{119}{}{[No sabes leer lo que pone en el monitor].}
 {120}{}{¡Error!  --  No se encuentran archivos de programa  --  Por favor, reinicie}
 {121}{}{¡Error! Fichero descargado corrupto.}
 {122}{}{}
 {123}{}{Salir.}
 {124}{}{Salir.}
-{125}{}{[Eres incapaz de leer lo que pone en la pantalla].}
+{125}{}{[No sabes leer lo que pone en el monitor].}
 {126}{}{Soy Skynet
                                                               Un experimento de Inteligencia Artificial
                           Skynet te ha estado esperando a TI}
@@ -46,10 +46,10 @@
 {139}{}{¿Inteligencia Artificial?}
 {140}{}{¿Esperándome a mí?}
 {141}{}{Salir.}
-{142}{}{[Eres incapaz de leer lo que pone en la pantalla].}
+{142}{}{[No sabes leer lo que pone en el monitor].}
 {143}{}{-Fin de la transmisión-}
 {144}{}{Salir.}
-{145}{}{[Eres incapaz de leer lo que pone en la pantalla].}
+{145}{}{[No sabes leer lo que pone en el monitor].}
 {146}{}{Serás terminado
                                                -Fin de la transmisión-}
 {147}{}{}
@@ -59,7 +59,7 @@
 {151}{}{Um... he reconsiderado tu oferta. ¿Qué puedo hacer por ti?}
 {152}{}{¡Que vengan!}
 {153}{}{Dirigirse a Almacén Biológico - Nivel 4
-                               Obtener cerebro cibernético
+                                Obtener cerebro cibernético
                                         Regresar para más instrucciones
                                      -Fin de la transmisión-}
 {154}{}{}
@@ -74,7 +74,7 @@
 {160}{}{}
 {161}{}{Salir.}
 {162}{}{Skynet quiere abandonar este lugar.}
-{163}{}{Entonces, ¿por qué no te vas?}
+{163}{}{¿Por qué no te vas, entonces?}
 {164}{}{Quererlo es bueno.}
 {165}{}{¿Cómo puedo ayudarte?}
 {166}{}{Probablemente no podría sacarte de aquí.}
@@ -157,6 +157,5 @@
 {227}{}{Este cerebro ha sido modificado para funcionar con un cuerpo robot modificado localizado en el nivel 3 del laboratorio de robótica.}
 {228}{}{Te ayudaré.}
 {229}{}{No te ayudaré.}
-
-{250}{}{ es incapaz de leer lo que pone en la pantalla.}
-{300}{}{La computadora parece tener algún tipo de mecanismo defensivo.}
+{250}{}{ es incapaz de leer lo que pone en el monitor.}
+{300}{}{La computadora parece tener alguna especie de mecanismo de defensa.}

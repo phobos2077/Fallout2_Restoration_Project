@@ -1,10 +1,6 @@
-# QUICK LOOK
 {100}{}{Ves a un esclavo escuálido.}
-{101}{}{Ves a un esclavo drogado.}
+{101}{}{Ves a un esclavo.}
 {102}{}{Ves a un esclavo.}
-
-# EXAMINES
-# 1. [SICKLY MALE SLAVE]
 {150}{}{Ves a un hombre hecho polvo. Su mirada se mueve rápidamente por toda la zona, como si siguiese a algún insecto invisible.}
 {151}{}{Ves a un esclavo escuálido. Parece terriblemente asustado, y sus ojos parecen incapaces de centrarse en ti.}
 {152}{}{Ves a un esclavo escuálido. Su ropa está hecha jirones, y su piel cuelga de la carne.}
@@ -12,7 +8,6 @@
 {154}{}{Ves a un esclavo escuálido. Emana de él un olor a orina seca y heces.}
 {155}{}{Ves a un esclavo escuálido. Se le han caído los dientes, y tiene los ojos inyectados en sangre.}
 {156}{}{Ves a un esclavo escuálido. Alguna clase de sarpullido le cubre la cara y el cuello, y se lo rasca de cuando en cuando.}
-# 2. [SICKLY FEMALE SLAVE]
 {160}{}{Ves a una mujer hecha polvo. Está mirando el suelo con intensidad, como si temiera levantar la vista.}
 {161}{}{Ves a un esclavo escuálido. Parece terriblemente asustada, y sus ojos parecen incapaces de centrarse en ti.}
 {162}{}{Ves a un esclavo escuálido. No parece reparar en las moscas que se posan en su cara y en sus brazos.}
@@ -21,45 +16,34 @@
 {165}{}{Ves a un esclavo escuálido. Emana de ella un olor a orina seca y heces.}
 {166}{}{Ves a un esclavo escuálido. Se está rascando alguna clase de sarpullido que le cubre la cara y el cuello.}
 {167}{}{Ves a un esclavo enfermo. Parece como si intentara llorar, pero no le salieran las lágrimas.}
-# 3. [MALE SLAVE, DRUGGED]
 {170}{}{Ves a un hombre de apariencia débil. Está mirando fijamente hacia adelante con expresión vacía.}
 {171}{}{Ves a un esclavo drogado. Su mirada se pasea por la zona, sin concentrarse nunca en un único elemento.}
 {172}{}{Ves a un esclavo drogado. Al mirarlo, se muerde el antebrazo y se arranca con los dientes algo de piel, para masticarla lentamente.}
 {173}{}{Ves a un esclavo drogado. Tiene una débil sonrisa dibujada en el rostro, pero sus ojos están vidriosos y vacíos.}
 {174}{}{Ves a un esclavo drogado. Tiene la mirada perdida en el espacio, y le cae baba de entre sus labios.}
 {175}{}{Ves a un esclavo drogado. Al verte, se estremece y muestra una sonrisa dolorida, como si fueras demasiado brillante para mirarte.}
-4. [DRUGGED FEMALE SLAVE]
 {180}{}{Ves a una mujer temblorosa. Está mirando hacia el suelo, como si tuviera miedo de que desapareciera si dejase de mirarlo.}
 {181}{}{Ves a una esclava drogada. Se está riendo de sí misma, y tiene rastros de sangre en las comisuras de la boca.}
 {182}{}{Ves a una esclava drogada. Tiene marcas de pinchazos en el brazo, mezcladas con moretones y marcas de latigazos.}
 {183}{}{Ves a una esclava drogada. Parpadea con rapidez, como si tuviera secos los ojos.}
 {184}{}{Ves a una esclava drogada. Se está rascando la espalda con las manos, tanto que se está arrancando la piel.}
 {185}{}{Ves a una esclava drogada. Manchas de vómito le cubren el frontal de su camisa, y huele ligeramente a trementina.}
-# 5. [MALE SLAVE, BEATEN]
 {190}{}{Ves a un hombre delgado. Marcas de latigazos cubren su cuerpo, y mira fijamente al suelo, como si esperase órdenes.}
 {191}{}{Ves a un esclavo golpeado.}
 {192}{}{Ves a un esclavo golpeado. Marcas de latigazos cubren su cuerpo, y mira fijamente al suelo, como si esperase órdenes.}
-# 6. [DRUGGED FEMALE SLAVE]
 {195}{}{Ves a una mujer temblorosa. Su cuerpo está cubierto con marcas de latigazos, y su ropa está hecha jirones.}
 {196}{}{Ves a una esclava.}
 {197}{}{Ves a una esclava. Está temblando ligeramente, y su cuerpo está cubierto por marcas de latigazos.}
-
-# FLOAT:
-# 7. [SICKLY SLAVE]
 {200}{}{::Snnnffff::}
 {201}{}{::Huhhhhk::}
 {202}{}{::Toses::}
 {203}{}{::Se rasca.::}
 {204}{}{::Espantando las moscas::}
-# 8. [DRUGGED SLAVE]
 {210}{}{::Snnnffff::}
 {211}{}{*Risita tonta*}
 {212}{}{Heeeeeeee}
 {213}{}{Hee heeeee hee…hee…}
 {214}{}{EeeeEEEEeeeeEEEE}
-
-# CLICK:
-# 9. [SICKLY SLAVE]
 {220}{}{::Te mira fijamente::}
 {221}{}{::Llora en silencio::}
 {222}{}{::Te mira fijamente::}
@@ -70,7 +54,6 @@
 {227}{}{::Se limpia la nariz::}
 {228}{}{Hunnnnnh}
 {229}{}{Rrrurrr..rr..::Toses::}
-# 10. [DRUGGED SLAVE]
 {240}{}{::Se frota los ojos::}
 {241}{}{::Resopla como un cerdo::}
 {242}{}{::Se rasca la cabeza y después se frota los ojos::}
@@ -84,7 +67,6 @@
 {250}{}{Moooooooo}
 {251}{}{Yo bueno yo malo yo bueno yo malo}
 {252}{}{Doblemasbueno}
-# 11. [BEATEN SLAVE vs. SLAVER]
 {260}{}{Sí, ya me han comprado. Mi amo tiene los papeles.}
 {261}{}{Por favor, déjame. Ya me han comprado.}
 {262}{}{Te lo ruego: ¿has visto a dos niños, de pelo oscuro…? Se los llevaron otros esclavistas hace dos años y los vendieron en el norte.}
@@ -94,9 +76,8 @@
 {266}{}{Ya tengo una ama. Ella no se alegrará si sigues hablando conmigo.}
 {267}{}{No puedo hablar contigo. Tengo tareas que hacer.}
 {268}{}{Si me pillan hablando con un esclavista, empezarán a probar las drogas conmigo.}
-{269}{}{Por favor vete, esclavista. No quiero tener problemas.}
+{269}{}{Vete, por favor, esclavista. No quiero problemas.}
 {270}{}{¿Escapar? Yo… nunca he intentado hacerlo. No me atrevería a desobedecer a mi amo.}
-# 12. [BEATEN AND/OR GENERIC SLAVE]
 {280}{}{Si me pillan hablando contigo, empezarán a probar las drogas conmigo.}
 {281}{}{Solía trabajar junto con otro esclavo, pero murió de sobredosis hace unos días.}
 {282}{}{Probaron drogas nuevas con nosotros. Algunas eran venenosas.}
@@ -125,7 +106,7 @@
 {305}{}{::Se da la vuelta, asustado.::}
 {306}{}{::Te ignora, asustado.::}
 {307}{}{Cuando aprendes las necesidades de tu nuevo amo, las palizas se vuelven… menos frecuentes.}
-{308}{}{Los esclavistas me capturaron hace mucho tiempo. Apenas lo recuerdo.}
+{308}{}{Hace mucho que fui capturado por los esclavistas. Apenas lo recuerdo.}
 {309}{}{Tengo dos hijos, pero los enviaron al norte. Espero que terminasen en algún lugar mejor que éste.}
 {310}{}{Lo siento, pero no tengo tiempo para hablar.}
 {311}{}{Mi amo está molesto conmigo desde hace poco tiempo. Dice que me venderá a los establos si vuelvo a enfadarle.}

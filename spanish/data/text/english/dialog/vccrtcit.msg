@@ -11,7 +11,7 @@
 {109}{}{¿Puedes mantener las distancias, por favor?}
 {110}{}{Tan solo quédate por allí.}
 {111}{}{Deberías seguir caminando.}
-{112}{}{Sal de aquí.}
+{112}{}{Vete de aquí.}
 {113}{}{Ten cuidado o avisaré a los guardias.}
 {114}{}{Te estoy vigilando.}
 {115}{}{Cosas de errantes como tú...}

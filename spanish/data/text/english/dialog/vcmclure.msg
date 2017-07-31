@@ -15,7 +15,7 @@
 {114}{}{¿Sí? ¿Querías algo más?}
 {115}{}{¿Sant-ta Cla-us?}
 {116}{}{Dejas de balbucear}
-{117}{}{¿Puedo hacerte algunas preguntas?}
+{117}{}{¿Puedo hacerte unas preguntas?}
 {118}{}{¿Quién eres?}
 {119}{}{Solo estaba mirando, gracias. Que te vaya bien.}
 {120}{}{¿Cómo has entrado en nuestra ciudad? ¡Guardias! ¡Tenemos a un errante que necesita ser escoltado hasta la salida!}
@@ -28,7 +28,7 @@
 {127}{}{Estoy buscando un Kit de Creación del Jardín del Edén.}
 {128}{}{¿Qué puedes contarme sobre la Primer Ciudadano?}
 {129}{}{Me gustaría hacerte algunas preguntas sobre Gecko.}
-{130}{}{¿Qué puedes contarme sobre Redding?}
+{130}{}{¿Qué puedes contarme acerca de Redding?}
 {131}{}{Tengo que hablar contigo acerca de Redding.}
 {132}{}{¿Cómo puedo convertirme en Ciudadano?}
 {133}{}{Creo que podéis tener una pieza que podría reparar la central nuclear de Gecko.}
@@ -43,7 +43,7 @@
 {142}{}{Realmente debo irme. Tal vez podamos hacer las presentaciones en algún otro momento.}
 {143}{}{Presupongo ese tipo de rudeza en un errante, no en un Ciudadano. Soy miembro del Consejo de Ciudad Refugio, y me mostrarás el debido respeto, o haré anular tu Ciudadanía. ¿Me has entendido?}
 {144}{}{Que te jodan, anciano.}
-{145}{}{Lo que sea. De todas formas he terminado de hablar contigo.}
+{145}{}{Como sea. De todas formas ya he terminado de hablar contigo.}
 {146}{}{Lo siento. No pretendía ofenderte.}
 {147}{}{¡Bien, esta es la rudeza que podía esperar de los errantes! Dame tu pase de día y dirígete hacia los guardias. En nuestra ciudad no hay sitio para los de tu calaña.}
 {148}{}{No voy a darte nada. ¿Lo quieres? Ven a buscarlo.}
@@ -65,58 +65,58 @@
 {164}{}{¿Qué puedo hacer por ti?}
 {165}{}{No lo sé, anciano. ¿Qué PUEDES hacer por mí?}
 {166}{}{Estoy buscando un Kit de Creación del Jardín del Edén.}
-{167}{}{¿Puedo hacerte algunas preguntas?}
+{167}{}{¿Puedo hacerte unas preguntas?}
 {168}{}{Hoy nada. Tan sólo daba una vuelta por el edificio del Consejo.}
 {169}{}{¿Un GECK? Por lo que sé, sólo teníamos uno. Leí que duró mucho tiempo pero que dejó de funcionar algunos años antes de que yo naciera. Se suponía que teníamos dos...}
 {170}{}{¿Se suponía?}
 {171}{}{... pero aparentemente el viejo gobierno equivocó los envíos y recibimos una partida que debía dirigirse al Refugio número... trece, creo que era. Probablemente ellos recibieron nuestro otro GECK.}
 {172}{}{¿Qué había en la partida que pertenecía al Refugio 13?}
 {173}{}{¿Qué le sucedió al GECK averiado?}
-{174}{}{¿Puedo hacerte otra pregunta?}
+{174}{}{¿Puedo preguntarte otra cosa?}
 {175}{}{Ya veo. Gracias por la información.}
 {176}{}{Chips de agua, cientos de ellos. No sé por qué enviaron tantos... nosotros nunca tuvimos que reemplazar el nuestro. Hemos tenido el mismo chip de agua desde el día en el que nuestra gente comenzó a vivir en el Refugio.}
 {177}{}{¿Qué le sucedió al GECK averiado?}
-{178}{}{¿Puedo hacerte otra pregunta?}
+{178}{}{¿Puedo preguntarte otra cosa?}
 {179}{}{Interesante. Gracias por tu tiempo.}
 {180}{}{La ironía es una hoja afilada. Quizá volvamos a hablar más tarde, cuando deje de sangrar.}
 {181}{}{Fue desmontado, y sus piezas se usaron en otras aplicaciones.}
 {182}{}{¿Qué había en la partida que pertenecía al Refugio 13?}
-{183}{}{¿Puedo hacerte otra pregunta?}
+{183}{}{¿Puedo preguntarte otra cosa?}
 {184}{}{Ya veo. Gracias por tu tiempo.}
 {185}{}{Ella es la líder del pueblo. Los Ciudadanos de Ciudad Refugio buscan su guía, pero los Ciudadanos, a través del Consejo, aún tienen la ultima palabra en todos los asuntos. En estos tiempos difíciles, ella es un pilar de nuestra sociedad.}
 {186}{}{"¿Tiempos difíciles?" ¿Qué quieres decir?}
 {187}{}{¿Qué es lo que haces?}
-{188}{}{¿Puedo hacerte otra pregunta?}
+{188}{}{¿Puedo preguntarte otra cosa?}
 {189}{}{Gracias por tu tiempo. Adiós.}
 {190}{}{¿Gecko? ¿Qué quieres saber?}
 {191}{}{¿Dónde está Gecko?}
 {192}{}{¿Qué es Gecko?}
-{193}{}{¿Puedo hacerte otra pregunta?}
+{193}{}{¿Puedo preguntarte otra cosa?}
 {194}{}{Gracias por tu tiempo. Adiós.}
 {195}{}{No hay mucho que contar, salvo el hecho de que nuestros envíos de mineral han pasado a ser pocos y muy distanciados entre sí.}
 {196}{}{¿Alguna idea del por qué?}
 {197}{}{¿Dónde está Redding?}
-{198}{}{¿Puedo hacerte otra pregunta?}
+{198}{}{¿Puedo preguntarte otra cosa?}
 {199}{}{Gracias por tu tiempo. Adiós.}
 {200}{}{Soy el Alto Miembro del Consejo. Superviso sus reuniones.}
 {201}{}{Entonces, ¿qué es lo que hace la Primer Ciudadano?}
-{202}{}{¿Puedo hacerte otra pregunta?}
+{202}{}{¿Puedo preguntarte otra cosa?}
 {203}{}{Gracias por tu tiempo. Adiós.}
 {204}{}{Bueno, entenderás que la Ciudadanía no es para todos. A mí me pareces del tipo aventurero... realmente, no creo que la Ciudadanía sea para ti.}
 {205}{}{Oh, vamos... tan sólo dime lo que tengo que hacer para convertirme en Ciudadano.}
 {206}{}{De todos modos, me gustaría convertirme en Ciudadano.}
-{207}{}{¿Puedo hacerte otra pregunta?}
-{208}{}{No importa, entonces.}
+{207}{}{¿Puedo preguntarte otra cosa?}
+{208}{}{No importa entonces.}
 {209}{}{¿Deseas convertirte en Ciudadano? Bueno, nos alegraría tenerte. Todo lo que tienes que hacer es hablar con el procónsul Gregory y él te hará la prueba de Ciudadanía.}
-{210}{}{¿Dónde encuentro al procónsul Gregory?}
-{211}{}{¿Puedo hacerte otra pregunta?}
+{210}{}{¿Dónde puedo encontrar al procónsul Gregory?}
+{211}{}{¿Puedo preguntarte otra cosa?}
 {212}{}{Gracias. Iré a buscarle ahora. Adiós.}
 {213}{}{Muy bien. Todo lo que necesitas es hablar con el procónsul Gregory y el te entregará la prueba de Ciudadanía.}
 {214}{}{¿Dónde puedo encontrar al procónsul Gregory?}
-{215}{}{¿Puedo hacerte otra pregunta?}
+{215}{}{¿Puedo preguntarte otra cosa?}
 {216}{}{De acuerdo. Iré a hablar con el procónsul ahora.}
 {217}{}{Le encontrarás en el ala este. Su oficina está frente a la de la Primer Ciudadano.}
-{218}{}{¿Puedo hacerte otra pregunta?}
+{218}{}{¿Puedo preguntarte otra cosa?}
 {219}{}{Gracias por tu tiempo. Adiós.}
 {220}{}{Las cosas se han puesto difíciles en los últimos dos años. La RNC se ha vuelto más agresiva en sus intentos de hacer que Ciudad Refugio se una a la República.}
 {221}{}{Nos dicen que si nos uniéramos, ellos serían capaces de defender a nuestra ciudad de los ataques de saqueadores. En los últimos tiempos, esos ataques se han vuelto más brutales.}
@@ -127,11 +127,11 @@
 {226}{}{Lamento escuchar eso. Gracias por tu tiempo. Adiós.}
 {227}{}{Está al nordeste de aquí, pero si planeas acercarte por allí, te aconsejaría que compres algunas drogas anti-radiación. Si están contaminando nuestra agua, es probable que la propia ciudad esté irradiada.}
 {228}{}{¿Qué es Gecko?}
-{229}{}{¿Puedo hacerte otra pregunta?}
+{229}{}{¿Puedo preguntarte otra cosa?}
 {230}{}{Gracias por advertencia. Adiós.}
 {231}{}{Es un lugar abandonado, un barrio de chabolas construido en torno a los restos de la antigua central nuclear.}
 {232}{}{¿Dónde se localiza Gecko?}
-{233}{}{¿Puedo hacerte otra pregunta?}
+{233}{}{¿Puedo preguntarte otra cosa?}
 {234}{}{Gracias por tu tiempo. Adiós.}
 {235}{}{No. No termino de entenderlo. Estamos dispuestos a pagarles el precio más alto por su mineral, pero siempre que intentamos hablar de ello, se vuelven evasivos. Si tan solo supiera lo que está pasando...}
 {236}{}{Podría comprobarlo por ti.}
@@ -144,7 +144,7 @@
 {243}{}{¿Tienes alguna idea de lo que está causando la reducción de los envíos?}
 {244}{}{Ya veo. Gracias por la información.}
 {245}{}{¿Qué es? Todo lo que puedas contarme sería de gran ayuda.}
-{246}{}{¿Qué puedes decirme sobre Redding?}
+{246}{}{¿Qué puedes contarme acerca de Redding?}
 {247}{}{He descubierto que gran parte de Redding es adicta a un producto químico llamado Jet. Los mineros están comerciando con la mayoría de su mineral con Nuevo Reno, sólo para mantener el suministro.}
 {248}{}{El doctor Troy ha creado un antídoto para el Jet.}
 {249}{}{Le he entregado el antídoto a Redding.}
@@ -152,8 +152,8 @@
 {251}{}{Te lo diré más tarde, cuando sepa algo más.}
 {252}{}{Es un producto químico con una tasa de adicción del 100%, y consecuencias severas.}
 {253}{}{Por favor, mantenme informado.}
-{254}{}{¿Puedo hacerte otras preguntas?}
-{255}{}{Desde luego.}
+{254}{}{¿Puedo hacerte alguna otra pregunta?}
+{255}{}{Claro.}
 {256}{}{Es una noticia triste, necesitamos encontrar la forma de detener esto. Si continúa, nuestros suministros de mineral terminarán en nada. Por favor, ayúdanos.}
 {257}{}{Veré lo que puedo hacer.}
 {258}{}{¿Él lo tiene? ¿Entonces que estás haciendo aquí? ¡Llévaselo a Doc Johnson en Redding! Él podría encontrar la forma de administrárselo a los mineros.}
@@ -230,7 +230,7 @@
 {329}{}{De acuerdo.}
 {330}{}{Permite que me lleve el disco del reactor, y haré que la computadora central del Refugio lo optimicé.}
 {331}{}{Genial. Gracias.}
-{332}{}{¿Y eso?}
+{332}{}{¿Qué es eso?}
 {333}{}{Aquí tengo un disco de datos del reactor de Gecko. De acuerdo con... el... eh, técnico de la central de energía, la computadora de Ciudad Refugio puede optimizar el disco del reactor y hacer que la central funcione más eficientemente.}
 {334}{}{¡Guardias! ¡Guardias!}
 {335}{}{}
@@ -243,5 +243,5 @@
 {341}{}{Quizá. Tenía otras preguntas...}
 {342}{}{Puede ser. Iré a comprobarlo.}
 {343}{}{Le hablaste a McClure de la entrega del antídoto para el Jet.}
-{344}{}{El disco muestra que desde que la central es completamente funcional y está optimizada, puede producir una gran cantidad de energía. Mucha más de la que necesita Gecko. Ciudad Refugio podría usar esta energía. Creo que el Consejo debería considerar lo que este disco tiene que ofrecer.}
-{345}{}{Esto es bastante interesante.}
+{344}{}{El disco muestra que la central de energía de Gecko... si fuera optimizada... podría producir una gran cantidad de energía. Bastante más de la que necesita Gecko. Ciudad Refugio podría usar esa energía.}
+{345}{}{Esto va a ponerse interesante.}

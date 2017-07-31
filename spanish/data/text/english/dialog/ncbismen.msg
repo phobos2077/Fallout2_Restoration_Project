@@ -1,120 +1,77 @@
-# QUICK LOOK
 {100}{}{Ves a uno de los hombres de Bishop.}
-
-# EXAMINES
 {150}{}{Ves a un hombre de apariencia robusta vestido con una armadura de cuero. Numerosas cicatrices y heridas de arma
  le cubren el cuerpo.}
 {151}{}{Ves a uno de los hombres de Bishop. Está vigilando la zona y acariciando su arma.}
-
-# 1. FLOAT DIALOGUE: ENCLAVE DESTROYED IS TRUE
-{200}{}{¡Hey! }
+{200}{}{¡Oye! }
 {201}{}{::vítores::}
 {202}{}{::aplausos::}
 {203}{}{::silbidos::}
-
-# 2. FLOAT DIALOGUE: POWER ARMOR
-{205}{}{¿Cómo demonios puedes usar la letrina con esa cosa encima?}
-
-# 3. FLOAT DIALOGUE: PLAYER = FEMALE/MALE, MADE MAN, FA=BISHOP [ARMED]
+{205}{}{¿Cómo diablos vas al retrete con esa cosa puesta?}
 {210}{}{Llevas una buena arma, }
-
-# 4. FLOAT DIALOGUE: PLAYER = FEMALE/MALE, MADE MAN, FA=BISHOP [SNEAK]
 {215}{}{Eh, me gustaría saber qué haces a hurtadillas, }
 {216}{}{Eh, oye, }
-
-# 5. FLOAT DIALOGUE: PLAYER = FEMALE/MALE, MADE MAN, FA=BISHOP [NORMAL]
 {220}{}{Tú, }
 {221}{}{Oye, }
 {222}{}{Oye, }
-
-# 6. FLOAT/CLICK DIALOGUE: MADE MAN, FA=NOT BISHOP
 {225}{}{Acabas de entrar en el lugar equivocado, tarado.}
 {226}{}{Vaya, mira las pelotas de acero de este hijo de puta... lárgate, chico, antes de que te peguemos un tiro.}
-{227}{}{Este tipo está buscando problemas…}
+{227}{}{Este tipo busca problemas…}
 {228}{}{Oigo a }
 {229}{}{Mejor será que te vayas, }
-{230}{}{Vaya, si resulta que es }
+{230}{}{Vaya, pero si es }
 {231}{}{No creía que fueras miembros de la Familia }
 {232}{}{Acabas de entrar en el lugar equivocado, zorra.}
 {233}{}{Vaya, mira cómo se pavonea esta golfa...}
 {234}{}{Lárgate, muchacha. Antes de que te pequemos un tiro.}
 {235}{}{Esta zorra busca problemas…}
 {236}{}{Oigo a }
-
-# 8. FLOAT DIALOGUE: MALE, PRIZEFIGHTER [ARMED]
 {250}{}{Eh, campeón. Nada de armas aquí, ¿vale?}
 {251}{}{¡Eh, campeón! Guarda el arma.}
-{252}{}{Hey, }
-
-# 9. FLOAT DIALOGUE: MALE, PRIZEFIGHTER AND MALE PORN STAR [SNEAK]
+{252}{}{Oye, }
 {255}{}{¿Por qué estás andando a hurtadillas?}
 {256}{}{¿Estás intentando evitar a tus fans?}
 {257}{}{Eh, ¿por qué tanto secretismo?}
-
-# 10. FLOAT DIALOGUE: MALE/FEMALE, PRIZEFIGHTER
 {260}{}{Tú, }
 {261}{}{Tú, }
-
-# 11. FLOAT DIALOGUE: PORN STAR [ARMED]
 {265}{}{Tú, guaperas. Nada de armas aquí, ¿lo pillas?}
-{266}{}{Hey, }
+{266}{}{Oye, }
 {267}{}{Tú, }
 {268}{}{Preciosa, no puedes llevar armas aquí. Je je... ya eres bastante mortífera tal cual.}
-{269}{}{Hey, }
-
-# 13. FLOAT DIALOGUE: [PORN STAR, FEMALE] [SNEAK]
-{275}{}{Preciosa, con un cuerpo como ese, no deberías ir escondiéndote por ahí.}
-
-# 14. FLOAT DIALOGUE: [PORN STAR, NORMAL]
+{269}{}{Oye, }
+{275}{}{Cariño, con un cuerpo como ese, no podrás andar a hurtadillas por ninguna parte.}
 {280}{}{Me encantan las películas, }
-{281}{}{Me encantaste en Gran Bola de Fuego Cachondo.}
+{281}{}{Me encantaste en Grandes Pelotas de Fuego.}
 {282}{}{Me encantaste en El Indomable Will Follador.}
 {283}{}{Soy un gran fan de tu trabajo en Calientahontas.}
-{284}{}{Me encantó "Refugio Caliente". Resultó inspirador. Un tour-de-force inspirador.}
+{284}{}{Me encantó "Refugio Caliente." Fue inspirador. Un tour-de-force inspirador.}
 {285}{}{::Silbidos::}
-
-# 16. FLOAT DIALOGUE: SLAVER [ARMED]
 {295}{}{¿Estás buscando llenar una tumba en el Gólgota, esclavista? Guarda eso.}
 {296}{}{Guarda ese arma, esclavista, o te usaré para mis prácticas de tiro.}
 {297}{}{Esclavista, mejor que te guardes ese arma YA.}
-
-# 17. FLOAT DIALOGUE: SLAVER [SNEAK]
 {300}{}{¿Estás buscando llenar una tumba en el Gólgota, esclavista? Deja de andar a hurtadillas.}
 {301}{}{Deja de andar a hurtadillas, esclavista, o te usaré para mis prácticas de tiro.}
 {302}{}{Tal vez lo mejor sea que te vuelvas a la escuela ninja, esclavista: y ahora deja de andar a hurtadillas.}
 {303}{}{Esclavista, mejor que dejes de andar a hurtadillas YA.}
-
-# 18. FLOAT DIALOGUE: MALE/FEMALE, NO REP [ARMED]
 {305}{}{¿Estás buscando llenar una tumba en el Gólgota, tribal? Guarda eso.}
 {306}{}{Guarda ese arma, tribal, o te usaré para mis prácticas de tiro.}
-{307}{}{Tribal, mejor que te guardes ese arma YA.}
-
-# 19. FLOAT DIALOGUE: MALE/FEMALE, NO REP [SNEAK]
+{307}{}{Tribal, será mejor que guardes ese arma AHORA mismo.}
 {310}{}{¿Estás buscando llenar una tumba en el Gólgota, tribal? Deja de andar a hurtadillas.}
 {311}{}{Deja de andar a hurtadillas, tribal, o te usaré para mis prácticas de tiro.}
 {312}{}{Tal vez lo mejor sea que te vuelvas a la escuela ninja, tribal: y ahora deja de andar a hurtadillas.}
-{313}{}{Tribal, mejor que dejes de andar a hurtadillas YA.}
-
-# 20. FLOAT DIALOGUE: COMPANION: ROBOBRAIN
+{313}{}{Tribal, será mejor que dejes esa mierda de andar a hurtadillas AHORA mismo.}
 {315}{}{Saca a ese robot de aquí. Ya.}
 {316}{}{Saca a ese robot de aquí antes de que lo convirtamos en un barril para hacer hogueras.}
 {317}{}{Ese robot se va a convertir en un montón de piezas si sigue aquí.}
-
-# 21. FLOAT DIALOGUE: COMPANION: MARCUS
 {320}{}{Me ha *parecido* oler a mutante. Mejor que saques de aquí a ese culo amarillento. Ahora.}
 {321}{}{¿Tu amigo mutante y tú buscáis que os peguen un tiro? Largo de aquí.}
 {322}{}{Mejor será que ese mutante salga de aquí ahora mismo, o colgaremos su cabeza de una pared.}
-
-# 22. FLOAT DIALOGUE: MALE/FEMALE, NO REP
 {325}{}{¿Viste la pelea de anoche?}
 {326}{}{Me iré a la Garra de la Gata después del trabajo.}
-
-# 23. CLICK DIALOGUE: ENCLAVE DESTROYED IS TRUE
 {330}{}{Pensaba que el Presidente era un mito, un hombre del saco para asustar niños.}
-{331}{}{Parece como si hubieras cruzado el infierno y logrado salir. Relájate un poco. Te lo mereces.}
+{331}{}{Parece como si hubieras hecho un viaje de ida y vuelta al infierno. Relájate un poco. Lo mereces.}
 {332}{}{¿Iban a esparcir algún nuevo virus en el aire? Bastardos. Espero que le pegaras un tiro a unos cuantos por mí.}
 {333}{}{Podrías volver a jugar usando un personaje diferente.}
-{334}{}{Debes de ser un tipo realmente duro para machacar al Enclave como lo hiciste.}
+{334}{}{Tienes que ser la hostia de duro para haber reventado al Enclave como lo hiciste.}
 {335}{}{Así que dando una vuelta después de terminar el trabajo, consiguiendo algo de experiencia, ¿eh? Bueno, por favor NO
  me mates, ¿vale?}
 {336}{}{Nuevo Reno fue diseñado por Chris Avellone y programado por Tom French. Se rumorea que se
@@ -123,8 +80,6 @@
 {338}{}{Sí, una vez me lo hice con Tandi. Cuando era joven, claro.}
 {339}{}{Esa Lynette necesita desesperadamente algo de amor, ¿no crees?}
 {340}{}{He oído que aplastaste al Enclave allá por el sur. Muy valiente.}
-
-# 24. CLICK DIALOGUE: MALE/FEMALE, MADE MAN, SAME FAMILY
 {350}{}{Oye, }
 {351}{}{Tú, }
 {352}{}{Oye, }
@@ -135,7 +90,7 @@
 {357}{}{¿Algún consejo para un tipo como yo?}
 {358}{}{La Familia Bishop ha sido buena conmigo.}
 {359}{}{John Bishop gobernará esta ciudad.}
-{360}{}{Todo está muy tranquilo hoy.}
+{360}{}{Todo está bastante tranquilo hoy.}
 {361}{}{Se avecina tormenta.}
 {362}{}{La peste procedente de Gólgota fue horrible anoche.}
 {363}{}{¿Cuándo vamos a cargarnos a las demás Familias?}
@@ -151,27 +106,23 @@
 {372}{}{Esa chica Bishop es problemática.}
 {373}{}{He oído que uno de los muchachos emborrachó a la hija de Bishop, y el señor Bishop le despellejó.}
 {374}{}{Si hablas con Bishop, aléjate de su mujer y de su hija… sólo causan problemas.}
-
-# 25. CLICK DIALOGUE: PRIZEFIGHTER
-{380}{}{He oído que la señora. Bishop te estaba buscando. Ten cuidado, compañero.}
+{380}{}{He oído que la señora Bishop te estaba buscando. Ten cuidado, compañero.}
 {381}{}{He oído que la hija de Bishop estaba buscándote. Ella es problemática.}
 {382}{}{No pareces tan duro, señor Campeón.}
 {383}{}{Ya sabes, a la Familia Bishop podría venirle muy bien alguien como tú. Duro. Inflexible.}
 {384}{}{Deberías hablar con Bishop acerca de algún trabajo.}
 {385}{}{Deberías considerar el unirte a nosotros. Gobernaremos Nuevo Reno.}
 {386}{}{¡Conseguí 20 dólares apostando por ti!}
-{387}{}{¡Hey, campeón! ¡Tu última pelea fue fantástica!}
-{388}{}{Te vi luchar en el cuadrilátero. Un gancho derecho jodidamente bueno el tuyo.}
+{387}{}{¡Oye, campeón! ¡Esa última pelea fue genial!}
+{388}{}{Vi tu pelea en el ring. Lanzaste un gancho de derecha bueno de cojones.}
 {389}{}{¿Vas a retirarte? Conseguí 30 dólares apostando por ti.}
 {390}{}{¿Cuántas flexiones haces?}
 {391}{}{¿Dónde entrenas?}
-{392}{}{Cuidado con el Masticador. Le encantan las orejas.}
-{393}{}{Te invitaría a una bebida si no hubiese tirado todo mi dinero apostando por tu oponente.}
-{394}{}{¿Un pulso?}
+{392}{}{Cuidado con el Masticador. Le gustan las orejas.}
+{393}{}{Te invitaría a una copa si no hubiera perdido todo mi dinero apostando a tu oponente.}
+{394}{}{¿Quieres pelear?}
 {395}{}{No pareces tan dura, señorita Gancho Izquierdo.}
-{396}{}{¿Puedo ver tus abdominales?}
-
-# 27. CLICK DIALOGUE: PORN STAR
+{396}{}{¿Puedo ver cómo flexionas tus abdominales?}
 {400}{}{He oído que la señora Bishop te estaba buscando. Ten cuidado, compañero.}
 {401}{}{Me consigues un trabajo, compadre? Venga. Soy el rey entre los sementales.}
 {402}{}{Me encantan las películas, }
@@ -185,12 +136,10 @@
 {410}{}{He oído que Tommy Pelotas quiere ofrecerte una proyección privada.}
 {411}{}{Me encantó tu última película. ¿Puedo ayudarte con los ensayos para la próxima?}
 {412}{}{Consígueme un trabajo, y te mostraré algunos de mis movimientos.}
-{413}{}{¿Cuándo te vas a pasar por aquí para verme?}
+{413}{}{¿Cuándo vas a pasar por aquí a verme?}
 {414}{}{Hey, ¿bailarás esta noche?}
-{415}{}{Eres mortal, dulzura.}
-{416}{}{La Dama fortuna va a tener celos de que tú estés por aquí.}
-
-# 29. CLICK DIALOGUE: [SLAVER]
+{415}{}{Eres espectacular, preciosa.}
+{416}{}{La Dama fortuna va a tener celos si sigues viniendo por aquí.}
 {420}{}{¿Cómo están las cosas en La Guarida?}
 {421}{}{¿Esa marca esclavista dolió cuando te la hicieron?}
 {422}{}{Pensé en convertirme en esclavista, pero odio hacer todos esos viajes.}
@@ -201,13 +150,9 @@
 {427}{}{¿Habéis capturado algunos esclavos tribales más?}
 {428}{}{¿Cuál es la tarifa de los esclavos a día de hoy?}
 {429}{}{Esclavos, brahmines, todo es lo mismo.}
-
-# 30. CLICK DIALOGUE: MALE/FEMALE, NO REP (Good Reaction)
 {440}{}{Si buscas trabajo, alguien como tú podría ser útil. Habla con el señor Bishop.}
 {441}{}{¿Estás buscando trabajo? Deberías hablar con el señor Bishop.}
-
-# 31. CLICK DIALOGUE: MALE, NO REP (Bad Reaction)
-{445}{}{Lárgate, tribal.}
+{445}{}{Desaparece, tribal.}
 {446}{}{No tenemos drogas para ti, tribal.}
 {447}{}{Ve a fumarte tu pipa de la paz, tribal.}
 {448}{}{NO me apetece charlar. Largo.}
@@ -216,8 +161,6 @@
 {451}{}{¿Quieres cabrearme? No te gustaría verme cabreado.}
 {452}{}{Desaparece antes de que te use como diana para practicar.}
 {453}{}{¿Buscas problemas? Sigue hablando conmigo y los encontrarás.}
-
-# 32. CLICK DIALOGUE: FEMALE, NO REP (Bad Reaction)
 {460}{}{No tengo tiempo para un apestoso tribal ahora mismo. Vuelve más tarde.}
 {461}{}{No tengo tiempo para atenderte ahora mismo, tribal. ¿Por qué no vuelves más tarde?}
 {462}{}{¡No, no sé dónde está, y ahora desaparece! ::Estúpidos tribales.::}
@@ -235,14 +178,10 @@
 {474}{}{Debes ser ser la tribal más fea que jamás haya visto.}
 {475}{}{Lárgate de aquí antes de que te haga algo más feo de lo que eres.}
 {476}{}{Vete a ladrarle a algo que esté más bebido que yo, perra.}
-
-# 34. FLOAT DIALOGUE: COMPANION: LENNY
-{490}{}{*Pensaba* que olía a algo podrido. Saca de aquí a ese necrófago tuyo.}
+{490}{}{Me *pareció* oler a algo podrido. Saca a ese necrófago tuyo de aquí.}
 {491}{}{Saca de aquí a ese apestoso necrófago. Ahora.}
-{492}{}{Si ese necrófago sigue aquí dentro de un minuto, va a estar más muerto de lo que ya está.}
-
-# END OF LINES
-{1200}{}{! ¡Menuda forma de patearle el culo al Enclave!}
+{492}{}{Si ese necrófago no sale de aquí en un minuto, va a estar más muerto aún.}
+{1200}{}{! ¡Qué forma de patearle el culo al Enclave!}
 {1210}{}{.}
 {1215}{}{?}
 {1216}{}{… ¿a qué viene tanto secretismo?}

@@ -1,9 +1,3 @@
-#
-# This is all of the combat messages used by combat.c
-# Note: all %d values will be filled with a number greater than 1
-#
-# Truly Generic strings (no need for gender/number issues)
-#
 {100}{}{Necesitas %d puntos de acción.}
 {101}{}{Sin munición.}
 {102}{}{Objetivo fuera de alcance.}
@@ -13,76 +7,67 @@
 {106}{}{No puedes usar armas de dos manos con un brazo roto.}
 {107}{}{No tienes suficiente fuerza para manejar ese arma.}
 {108}{}{ y }
-#
-# Combat Flag Strings (all of these happen to you, the MALE player)
-#
-{200}{}{te deja fuera de combate}
-{201}{}{te derriba}
+{200}{}{queda fuera de combate}
+{201}{}{derribada}
 {202}{}{te deja lisiada la pierna izquierda}
 {203}{}{te deja lisiada la pierna derecha}
 {204}{}{te deja lisiado el brazo izquierdo}
 {205}{}{te deja lisiado el brazo derecho}
-{206}{}{quedas cegado}
+{206}{}{cegada}
 {207}{}{te mueres}
-{208}{}{te deja herido}
+{208}{}{es herida}
 {209}{}{críticamente}
 {210}{}{ardiendo}
 {211}{}{traspasa tu armadura}
 {212}{}{tu arma explota}
-{213}{}{destruye tu arma}
-{214}{}{tu arma se cae}
+{213}{}{Guarda tu arma.}
+{214}{}{Usa tu mejor arma.}
 {215}{}{pierdes el siguiente turno}
-{216}{}{te hieres a ti mismo}
+{216}{}{te hieres a ti misma}
 {217}{}{pierdes el resto de tu munición}
-{218}{}{disparas un proyectil defectuoso}
+{218}{}{dispara un proyectil defectuoso}
 {219}{}{hiriéndote}
-{220}{}{eres golpeado al azar}
-{221}{}{te rompes un miembro al azar}
-{222}{}{te alcanzan los fragmentos}
-#
-# Combat Flag Strings (all of these happen to you, the FEMALE player)
-#
-{250}{}{quedas fuera de combate}
+{220}{}{es golpeado al azar}
+{221}{}{se rompe un miembro al azar}
+{222}{}{le alcanzan los fragmentos}
+{250}{}{queda fuera de combate}
 {251}{}{derribada}
 {252}{}{te deja lisiada la pierna izquierda}
 {253}{}{te deja lisiada la pierna derecha}
 {254}{}{te deja lisiado el brazo izquierdo}
 {255}{}{te deja lisiado el brazo derecho}
-{256}{}{quedas cegada}
+{256}{}{cegada}
 {257}{}{te mueres}
-{258}{}{te deja herido}
+{258}{}{es herida}
 {259}{}{críticamente}
 {260}{}{ardiendo}
 {261}{}{traspasa tu armadura}
 {262}{}{tu arma explota}
-{263}{}{destruye tu arma}
-{264}{}{tu arma se cae}
+{263}{}{Guarda tu arma.}
+{264}{}{Usa tu mejor arma.}
 {265}{}{pierdes el siguiente turno}
 {266}{}{te hieres a ti misma}
 {267}{}{pierdes el resto de tu munición}
-{268}{}{disparas un proyectil defectuoso}
+{268}{}{dispara un proyectil defectuoso}
 {269}{}{hiriéndote}
-{270}{}{eres golpeada al azar}
-{271}{}{te rompes un miembro al azar}
-{272}{}{te alcanzan los fragmentos}
-#
-# Combat Flag Strings (all of these happen to a male)
-#
+{270}{}{es golpeado al azar}
+{271}{}{se rompe un miembro al azar}
+{272}{}{le alcanzan los fragmentos}
 {300}{}{queda fuera de combate}
-{301}{}{derribado}
+{301}{}{derribada}
 {302}{}{rompe su pierna izquierda}
 {303}{}{rompe su pierna derecha}
 {304}{}{rompe su brazo izquierda}
 {305}{}{rompe su brazo derecho}
-{306}{}{cegado}
+{306}{}{cegada}
 {307}{}{muere}
-{308}{}{es herido}
+{308}{}{es herida}
 {309}{}{críticamente}
 {310}{}{ardiendo}
 {311}{}{traspasando su armadura}
 {312}{}{su arma estalla}
-{313}{}{su arma se destruye}
-{314}{}{su arma se cae}
+{313}{}{Vagoneta minera destruida}
+{314}{}{¡Baja el arma! ¡Ya!}
 {315}{}{pierde su siguiente turno}
 {316}{}{se hiere a sí mismo}
 {317}{}{pierde el resto de su munición}
@@ -91,9 +76,6 @@
 {320}{}{es golpeado al azar}
 {321}{}{se rompe un miembro al azar}
 {322}{}{le alcanzan los fragmentos}
-#
-# Combat Flag Strings (all of these happen to a female)
-#
 {400}{}{queda fuera de combate}
 {401}{}{derribada}
 {402}{}{rompe su pierna izquierda}
@@ -107,7 +89,7 @@
 {410}{}{ardiendo}
 {411}{}{traspasa su armadura}
 {412}{}{su arma estalla}
-{413}{}{su arma se destruye}
+{413}{}{Generador de energía destruido}
 {414}{}{su arma se cae}
 {415}{}{pierde el siguiente turno}
 {416}{}{se hiere a si misma}
@@ -117,51 +99,31 @@
 {420}{}{es golpeado al azar}
 {421}{}{se rompe un miembro al azar}
 {422}{}{le alcanzan los fragmentos}
-#
-# Miscellaneous combat messages (all of these happen to you, the male player)
-# Note: the first %s will be replaced by the value of line 506, which
-#          should be the language's equivalent to 2nd person male singular,
-#          which is "You" in English. The first letter of line 506 should
-#          be capitalized, since it will start a sentence.
-#       the second %s (if there is one) is the hit location, which
-#          will be a string from the section Hit Locations starting
-#          in the 1000's in this file, with the exception of line 509
-#          where the second %s is the name of another creature
 {506}{}{Tú}
-{509}{}{%s eres herido en vez de %s!}
-{511}{}{%s eres herido críticamente en %s, pierdes %d puntos de salud}
-{512}{}{%s eres herido en %s perdiendo %d puntos de salud}
-{513}{}{%s eres herido perdiendo %d puntos de salud}
-{514}{}{%s fallas críticamente}
-{515}{}{%s fallas}
-{520}{}{%s eres herido críticamente, pierdes %d puntos de salud}
-{521}{}{%s eres herido críticamente en %s perdiendo 1 punto de salud}
-{522}{}{%s eres herido en %s y pierdes 1 punto de salud}
-{523}{}{%s eres herido y pierdes 1 punto de salud}
+{509}{}{%s eres herida en vez de %s!}
+{511}{}{%s eres herida críticamente en %s, pierdes %d puntos de salud}
+{512}{}{%s eres herida en %s perdiendo %d puntos de salud}
+{513}{}{%s eres herida perdiendo %d puntos de salud}
+{514}{}{%s falla críticamente}
+{515}{}{%s falla}
+{520}{}{%s eres herida críticamente, pierdes %d puntos de salud}
+{521}{}{%s eres herida críticamente en %s perdiendo 1 punto de salud}
+{522}{}{%s eres herida en %s y pierdes 1 punto de salud}
+{523}{}{%s eres herida y pierdes 1 punto de salud}
 {524}{}{%s eres críticamente herido y pierdes 1 punto de salud}
 {525}{}{%s eres críticamente herido en %s, sin sufrir daño alguno}
-{526}{}{%s eres herido en %s sin sufrir daño}
+{526}{}{%s eres herida en %s sin sufrir daño}
 {527}{}{%s recibes un golpe pero no te hace daño}
-{528}{}{%s eres críticamente herido sin sufrir daño}
-{533}{}{%s fallas críticamente y pierdes 1 punto de salud}
-{534}{}{%s fallas críticamente y pierdes %d puntos de salud}
-#
-# Miscellaneous combat messages (all of these happen to you, the female player)
-# Note: the first %s will be replaced by the value of line 556, which
-#          should be the language's equivalent to 2nd person female singular,
-#          which is "You" in English. The first letter of line 556 should
-#          be capitalized, since it will start a sentence.
-#       the second %s (if there is one) is the hit location, which
-#          will be a string from the section Hit Locations starting
-#          in the 1000's in this file, with the exception of line 559
-#          where the second %s is the name of another creature
+{528}{}{%s eres críticamente herida sin sufrir daño}
+{533}{}{%s falla críticamente y pierde 1 punto de salud}
+{534}{}{%s falla críticamente y pierde %d puntos de salud}
 {556}{}{Tú}
 {559}{}{%s eres herida en vez de %s!}
 {561}{}{%s eres herida críticamente en %s, pierdes %d puntos de salud}
 {562}{}{%s eres herida en %s perdiendo %d puntos de salud}
 {563}{}{%s eres herida perdiendo %d puntos de salud}
-{564}{}{%s fallas críticamente}
-{565}{}{%s fallas}
+{564}{}{%s falla críticamente}
+{565}{}{%s falla}
 {570}{}{%s eres herida críticamente, pierdes %d puntos de salud}
 {571}{}{%s eres herida críticamente en %s perdiendo 1 punto de salud}
 {572}{}{%s eres herida en %s y pierdes 1 punto de salud}
@@ -171,42 +133,26 @@
 {576}{}{%s eres herida en %s sin sufrir daño}
 {577}{}{%s recibes un golpe pero no te hace daño}
 {578}{}{%s eres críticamente herida sin sufrir daño}
-{583}{}{%s fallas críticamente y pierdes 1 punto de salud}
-{584}{}{%s fallas críticamente y pierdes %d puntos de salud}
-#
-# Miscellaneous combat messages (all of these happen to a male)
-# Note: the first %s is the name of the male creature
-#       the second %s (if there is one) is the hit location, which
-#          will be a string from the section Hit Locations starting
-#          in the 1000's in this file, with the exception of line 609
-#          where the second %s is the name of another creature
-#
-{608}{}{¡Ups! ¡%s es herido en vez de tú!}
-{609}{}{¡Ups! ¡%s es herido en vez de %s!}
-{611}{}{%s es herido críticamente en %s, perdiendo %d puntos de salud}
-{612}{}{%s es herido en %s, pierde %d puntos de salud}
-{613}{}{%s es herido, pierde %d puntos de salud}
+{583}{}{%s falla críticamente y pierde 1 punto de salud}
+{584}{}{%s falla críticamente y pierde %d puntos de salud}
+{608}{}{¡Ups! ¡%s es herida en vez de tú!}
+{609}{}{¡Ups! ¡%s es herida en vez de %s!}
+{611}{}{%s es herida críticamente en %s, perdiendo %d puntos de salud}
+{612}{}{%s es herida en %s, pierde %d puntos de salud}
+{613}{}{%s es herida, pierde %d puntos de salud}
 {614}{}{%s falla críticamente}
 {615}{}{%s falla}
-{620}{}{%s es críticamente herido, pierde %d puntos de salud}
-{621}{}{%s es críticamente herido en %s y pierde 1 punto de salud}
-{622}{}{%s es herido en %s y pierde 1 punto de salud}
-{623}{}{%s es herido y pierde 1 punto de salud}
-{624}{}{%s es críticamente herido y pierde 1 punto de salud}
-{625}{}{%s es críticamente herido en %s sin que sufra daño}
-{626}{}{%s es herido en %s sin que sufra daño}
-{627}{}{%s es herido sin que sufra daño}
-{628}{}{%s es críticamente herido sin que sufra daño}
+{620}{}{%s es críticamente herida, pierde %d puntos de salud}
+{621}{}{%s es críticamente herida en %s y pierde 1 punto de salud}
+{622}{}{%s es herida en %s y pierde 1 punto de salud}
+{623}{}{%s es herida y pierde 1 punto de salud}
+{624}{}{%s es críticamente herida y pierde 1 punto de salud}
+{625}{}{%s es críticamente herida en %s sin que sufra daño}
+{626}{}{%s es herida en %s sin que sufra daño}
+{627}{}{%s es herida sin que sufra daño}
+{628}{}{%s es críticamente herida sin que sufra daño}
 {633}{}{%s falla críticamente y pierde 1 punto de salud}
 {634}{}{%s falla críticamente y pierde %d puntos de salud}
-#
-# Miscellaneous combat messages (all of these happen to a female)
-# Note: the first %s is the name of the female creature
-#       the second %s (if there is one) is the hit location, which
-#          will be a string from the section Hit Locations starting
-#          in the 1000's in this file, with the exception of line 709
-#          where the second %s is the name of another creature
-#
 {708}{}{¡Ups! ¡%s es herida en vez de tú!}
 {709}{}{¡Ups! ¡%s es herida en vez de %s!}
 {711}{}{%s es herida críticamente en %s, perdiendo %d puntos de salud}
@@ -225,35 +171,24 @@
 {728}{}{%s es críticamente herida sin que sufra daño}
 {733}{}{%s falla críticamente y pierde 1 punto de salud}
 {734}{}{%s falla críticamente y pierde %d puntos de salud}
-#
-# Hit Locations (by art_num alias)
-#
-# regular humans
-#
 {1110}{}{la cabeza}
 {1111}{}{el brazo izquierdo}
 {1112}{}{el brazo derecho}
 {1113}{}{el torso}
-{1114}{}{la pierna derecha}
-{1115}{}{la pierna izquierda}
+{1114}{}{la pata derecha}
+{1115}{}{la pata izquierda}
 {1116}{}{los ojos}
 {1117}{}{la ingle}
 {1118}{}{un lugar indefinido}
-#
-# Brahmin (Mutant 2-Headed Cows)
-#
 {1150}{}{la cabeza}
-{1151}{}{la pata trasera izquierda}
-{1152}{}{la pata trasera derecha}
+{1151}{}{la pata izquierda delantera}
+{1152}{}{la pata delantera derecha}
 {1153}{}{el torso}
-{1154}{}{la pata delantera derecha}
-{1155}{}{la pata delantera izquierda}
+{1154}{}{la pata derecha trasera}
+{1155}{}{la izquierda trasera}
 {1156}{}{los ojos}
 {1157}{}{las ubres}
 {1158}{}{un lugar indefinido}
-#
-# dogs
-#
 {1160}{}{la cabeza}
 {1161}{}{la pata trasera}
 {1162}{}{la pata trasera}
@@ -263,69 +198,51 @@
 {1166}{}{los ojos}
 {1167}{}{la ingle}
 {1168}{}{un lugar indefinido}
-#
-# Mr. Handy
-#
 {1170}{}{la CPU}
 {1171}{}{el manipulador}
 {1172}{}{el manipulador}
-{1173}{}{la carcasa}
+{1173}{}{la base}
 {1174}{}{la unidad motriz}
 {1175}{}{la unidad motriz}
 {1176}{}{los sensores}
 {1177}{}{el regulador}
 {1178}{}{un lugar indefinido}
-#
-# Super Mutants             # Fallout 2: Reserved?
-#
 {1180}{}{la cabeza}
 {1181}{}{el brazo izquierdo}
 {1182}{}{el brazo derecho}
 {1183}{}{el torso}
-{1184}{}{la pierna derecha}
-{1185}{}{la pierna izquierda}
+{1184}{}{la pata derecha}
+{1185}{}{la pata izquierda}
 {1186}{}{los ojos}
 {1187}{}{la ingle}
 {1188}{}{un lugar indefinido}
-#
-# Mole-Rat
-#
 {1190}{}{la cabeza}
 {1191}{}{la pata izquierda}
 {1192}{}{la pata derecha}
 {1193}{}{el cuerpo}
-{1194}{}{la pierna derecha}
-{1195}{}{la pierna izquierda}
+{1194}{}{la pata derecha}
+{1195}{}{la pata izquierda}
 {1196}{}{los ojos}
 {1197}{}{la ingle}
 {1198}{}{un lugar indefinido}
-#
-# big humans and mutants
-#
 {1210}{}{la cabeza}
 {1211}{}{el brazo izquierdo}
 {1212}{}{el brazo derecho}
 {1213}{}{el torso}
-{1214}{}{la pierna derecha}
-{1215}{}{la pierna izquierda}
+{1214}{}{la pata derecha}
+{1215}{}{la pata izquierda}
 {1216}{}{los ojos}
 {1217}{}{la ingle}
 {1218}{}{un lugar indefinido}
-#
-# Radscorpion
-#
 {1220}{}{la cabeza}
 {1221}{}{la cola}
 {1222}{}{la garra}
 {1223}{}{el caparazón}
-{1224}{}{las patas delanteras}
-{1225}{}{las patas traseras}
+{1224}{}{las patas traseras}
+{1225}{}{las patas delanteras}
 {1226}{}{los ojos}
 {1227}{}{el cerebro}
 {1228}{}{un lugar indefinido}
-#
-# Floater
-#
 {1230}{}{la cabeza}
 {1231}{}{la boca}
 {1232}{}{la boca delantera}
@@ -335,21 +252,15 @@
 {1236}{}{los ganglios}
 {1237}{}{el ovipositor}
 {1238}{}{un lugar indefinido}
-#
-# masrat? a rat perhaps?
-#
 {1240}{}{la cabeza}
 {1241}{}{la pata izquierda}
 {1242}{}{la pata derecha}
 {1243}{}{el cuerpo}
-{1244}{}{la pierna derecha}
-{1245}{}{la pierna izquierda}
+{1244}{}{la pata derecha}
+{1245}{}{la pata izquierda}
 {1246}{}{los ojos}
 {1247}{}{la ingle}
 {1248}{}{un lugar indefinido}
-#
-# Centaur
-#
 {1250}{}{la cabeza}
 {1251}{}{el brazo izquierdo}
 {1252}{}{el brazo derecho}
@@ -359,57 +270,42 @@
 {1256}{}{los ojos}
 {1257}{}{la ingle}
 {1258}{}{un lugar indefinido}
-#
-# human midgets and children
-#
 {1270}{}{la cabeza}
 {1271}{}{el brazo izquierdo}
 {1272}{}{el brazo derecho}
 {1273}{}{el torso}
-{1274}{}{la pierna derecha}
-{1275}{}{la pierna izquierda}
+{1274}{}{la pata derecha}
+{1275}{}{la pata izquierda}
 {1276}{}{los ojos}
 {1277}{}{la ingle}
 {1278}{}{un lugar indefinido}
-#
-# Overseer                  # Fallout 2: Reserved?
-#
 {1460}{}{la cabeza}
 {1461}{}{el brazo izquierdo}
 {1462}{}{el brazo derecho}
 {1463}{}{el torso}
-{1464}{}{la pierna derecha}
-{1465}{}{la pierna izquierda}
+{1464}{}{la pata derecha}
+{1465}{}{la pata izquierda}
 {1466}{}{los ojos}
 {1467}{}{la ingle}
 {1468}{}{un lugar indefinido}
-#
-# Gizmo                     # Fallout 2: Reserved?
-#
 {1490}{}{la cabeza}
 {1491}{}{el brazo izquierdo}
 {1492}{}{el brazo derecho}
 {1493}{}{el torso}
-{1494}{}{la pierna derecha}
-{1495}{}{la pierna izquierda}
+{1494}{}{la pata derecha}
+{1495}{}{la pata izquierda}
 {1496}{}{los ojos}
 {1497}{}{la ingle}
 {1498}{}{un lugar indefinido}
-#
-# The Master!               # Fallout 2: Reserved?
-#
 {1500}{}{la cabeza}
 {1501}{}{???}
 {1502}{}{???}
-{1503}{}{el cuerpo}
+{1503}{}{la base}
 {1504}{}{???}
 {1505}{}{???}
 {1506}{}{los ojos}
 {1507}{}{la CPU}
 {1508}{}{un lugar indefinido}
-#
-# Death Claw
-#
 {1510}{}{la cabeza}
 {1511}{}{el brazo izquierdo}
 {1512}{}{el brazo derecho}
@@ -419,9 +315,6 @@
 {1516}{}{los ojos}
 {1517}{}{la ingle}
 {1518}{}{un lugar indefinido}
-#
-# Mantis
-#
 {1520}{}{la cabeza}
 {1521}{}{la pata raptorial}
 {1522}{}{la pata raptorial}
@@ -431,45 +324,33 @@
 {1526}{}{los ojos}
 {1527}{}{el metatórax}
 {1528}{}{un lugar indefinido}
-#
-# Robobrain
-#
 {1530}{}{la CPU}
 {1531}{}{el manipulador}
 {1532}{}{el manipulador}
-{1533}{}{la carcasa}
+{1533}{}{la base}
 {1534}{}{la unidad motriz}
 {1535}{}{la unidad motriz}
 {1536}{}{los sensores}
 {1537}{}{el regulador}
 {1538}{}{un lugar indefinido}
-#
-# Eyeball (Robot)
-#
 {1540}{}{la CPU}
 {1541}{}{el manipulador}
 {1542}{}{el manipulador}
-{1543}{}{la carcasa}
+{1543}{}{la base}
 {1544}{}{la unidad motriz}
 {1545}{}{la unidad motriz}
 {1546}{}{los sensores}
 {1547}{}{el regulador}
 {1548}{}{un lugar indefinido}
-#
-# Mutant Pig Rat (small Mole-Rat)
-#
 {1550}{}{la cabeza}
 {1551}{}{la pata izquierda}
 {1552}{}{la pata derecha}
 {1553}{}{el cuerpo}
-{1554}{}{la pierna derecha}
-{1555}{}{la pierna izquierda}
+{1554}{}{la pata derecha}
+{1555}{}{la pata izquierda}
 {1556}{}{los ojos}
 {1557}{}{la ingle}
 {1558}{}{un lugar indefinido}
-#
-# Deathclaw Egg
-#
 {1580}{}{la cáscara}
 {1581}{}{la cáscara}
 {1582}{}{la cáscara}
@@ -479,9 +360,6 @@
 {1586}{}{la cáscara}
 {1587}{}{la cáscara}
 {1588}{}{un lugar indefinido}
-#
-# Lesser Radscorpion
-#
 {1590}{}{la cabeza}
 {1591}{}{la cola}
 {1592}{}{la garra}
@@ -491,9 +369,6 @@
 {1596}{}{los ojos}
 {1597}{}{el cerebro}
 {1598}{}{un lugar indefinido}
-#
-# Lesser Death Claw
-#
 {1600}{}{la cabeza}
 {1601}{}{el brazo izquierdo}
 {1602}{}{el brazo derecho}
@@ -503,9 +378,6 @@
 {1606}{}{los ojos}
 {1607}{}{la ingle}
 {1608}{}{un lugar indefinido}
-#
-# Giant Plant
-#
 {1650}{}{la boca}
 {1651}{}{el tallo}
 {1652}{}{el tallo}
@@ -515,9 +387,6 @@
 {1656}{}{las antenas}
 {1657}{}{la base}
 {1658}{}{un lugar indefinido}
-#
-# Security Robot
-#
 {1660}{}{la cabeza}
 {1661}{}{el misil de mano}
 {1662}{}{la pistola de mano}
@@ -527,9 +396,6 @@
 {1666}{}{los sensores}
 {1667}{}{el torso inferior}
 {1668}{}{un lugar indefinido}
-#
-# Gecko 2
-#
 {1670}{}{la cabeza}
 {1671}{}{la garra izquierda}
 {1672}{}{la garra derecha}
@@ -539,9 +405,6 @@
 {1676}{}{los ojos}
 {1677}{}{la ingle}
 {1678}{}{un lugar indefinido}
-#
-# Gecko
-#
 {1680}{}{la cabeza}
 {1681}{}{la garra izquierda}
 {1682}{}{la garra derecha}
@@ -551,9 +414,6 @@
 {1686}{}{los ojos}
 {1687}{}{la ingle}
 {1688}{}{un lugar indefinido}
-#
-# Alien Thing
-#
 {1800}{}{la cabeza}
 {1801}{}{el tentáculo izquierdo}
 {1802}{}{el tentáculo derecho}
@@ -563,21 +423,15 @@
 {1806}{}{¿los ojos?}
 {1807}{}{¿la ingle?}
 {1808}{}{un lugar indefinido}
-#
-# End Boss
-#
 {1850}{}{la cabeza}
 {1851}{}{el brazo izquierdo}
 {1852}{}{el brazo derecho}
 {1853}{}{el torso}
-{1854}{}{la pierna derecha}
-{1855}{}{la pierna izquierda}
+{1854}{}{la pata derecha}
+{1855}{}{la pata izquierda}
 {1856}{}{los ojos}
 {1857}{}{la ingle}
 {1858}{}{un lugar indefinido}
-#
-# Alien Queen
-#
 {1860}{}{la cabeza}
 {1861}{}{el tentáculo izquierdo}
 {1862}{}{el tentáculo derecho}
@@ -587,10 +441,7 @@
 {1866}{}{¿los ojos?}
 {1867}{}{¿la ingle?}
 {1868}{}{un lugar indefinido}
-#
-# Gun Turret 2
-#
-{1900}{}{la CPU}
+{1900}{}{la cpu}
 {1901}{}{la servoarma}
 {1902}{}{la servoarma}
 {1903}{}{la base}
@@ -599,9 +450,6 @@
 {1906}{}{los sensores}
 {1907}{}{el regulador}
 {1908}{}{un lugar indefinido}
-#
-# Giant Ant
-#
 {1970}{}{la cabeza}
 {1971}{}{la izquierda trasera}
 {1972}{}{la pata derecha trasera}
@@ -611,21 +459,15 @@
 {1976}{}{las antenas}
 {1977}{}{el metatórax}
 {1978}{}{un lugar indefinido}
-#
-# Goris Robed
-#
 {1990}{}{la cabeza}
 {1991}{}{el brazo izquierdo}
 {1992}{}{el brazo derecho}
 {1993}{}{el torso}
-{1994}{}{la pierna derecha}
-{1995}{}{la pierna izquierda}
+{1994}{}{la pata derecha}
+{1995}{}{la pata izquierda}
 {1996}{}{los ojos}
 {1997}{}{la ingle}
 {1998}{}{un lugar indefinido}
-#
-# Goris UnRobed
-#
 {2000}{}{la cabeza}
 {2001}{}{el brazo izquierdo}
 {2002}{}{el brazo derecho}
@@ -635,9 +477,6 @@
 {2006}{}{los ojos}
 {2007}{}{la ingle}
 {2008}{}{un lugar indefinido}
-#
-# Gun Turret 2
-#
 {2010}{}{la cpu}
 {2011}{}{la servoarma}
 {2012}{}{la servoarma}
@@ -647,13 +486,16 @@
 {2016}{}{los sensores}
 {2017}{}{el regulador}
 {2018}{}{un lugar indefinido}
-
-#
-# Critical Hit Messages
-#
-# 5000 series - men (including generics)
-#
-{5000}{}{ Eso duele de verdad}
+{2030}{}{la cabeza}
+{2031}{}{las alas}
+{2032}{}{el tentáculo izquierdo}
+{2033}{}{el metatórax}
+{2034}{}{las patas traseras}
+{2035}{}{las patas delanteras}
+{2036}{}{los ojos}
+{2037}{}{las alas}
+{2038}{}{un lugar indefinido}
+{5000}{}{Eso realmente duele.}
 {5001}{}{. provocándole una fea herida}
 {5002}{}{ traspasando su armadura}
 {5003}{}{. El ataque lo deja inconsciente}
@@ -667,11 +509,11 @@
 {5011}{}{, rompiéndole el brazo izquierdo}
 {5012}{}{, dejando el brazo izquierdo colgando de la piel}
 {5013}{}{. Ahora ese brazo parece un muñón sangriento}
-{5014}{}{, dejando el brazo derecho roto}
+{5014}{}{, dejándole el brazo derecho roto}
 {5015}{}{. Su brazo derecho queda pulverizado por este potente golpe}
-{5016}{}{ en un contundente golpe}
+{5016}{}{ en un potente golpe}
 {5017}{}{ al perforar sus defensas}
-{5018}{}{, produciendo aún más daño}
+{5018}{}{, provocando aún mas daño}
 {5019}{}{ traspasando su armadura y tumbándole en el suelo}
 {5020}{}{ dejándole sin aire, se derrumba en el suelo, quedando fuera de combate}
 {5021}{}{. Desafortunadamente, varios órganos vitales son ahora claramente visibles}
@@ -680,9 +522,9 @@
 {5024}{}{, tumbándole y rompiéndole esa pierna}
 {5025}{}{, enviándole la rotula a la ciudad mas cercana. Se cae}
 {5026}{}{. el terrible dolor de perder una pierna hace que huya}
-{5027}{}{ produciéndole más dolor}
-{5028}{}{ desafortunadamente para él, le deja ciego}
-{5029}{}{, y sin protección ahí, le causa un serio dolor}
+{5027}{}{ provocándole más dolor}
+{5028}{}{. Desafortunadamente para ti, tiene como efectos secundarios la inmediata perdida de visión}
+{5029}{}{, y sin protección ahí, le causa un grave dolor}
 {5030}{}{, y se queda K.O. por un potente golpe}
 {5031}{}{. La perdida de un ojo es demasiado para él, y se cae al suelo}
 {5032}{}{, está demasiado ocupado notando como el aire entra en su cerebro para darse cuenta de que se muere}
@@ -691,10 +533,7 @@
 {5035}{}{ y sin protección, se cae, gimiendo de agonía}
 {5036}{}{. El dolor es demasiado para él y se desploma como un castillo de naipes}
 {5037}{}{. Susurra "Mamá", mientras sus ojos se quedan en blanco}
-#
-# series 5100 - women
-#
-{5100}{}{ Eso duele de verdad}
+{5100}{}{Eso realmente duele.}
 {5101}{}{. provocándole una fea herida}
 {5102}{}{ traspasando su armadura}
 {5103}{}{. El ataque la deja inconsciente}
@@ -730,9 +569,6 @@
 {5133}{}{. Se lo toma como un hombre. Es decir, le duele}
 {5134}{}{, tirándola al suelo}
 {5135}{}{. Sus días de maternidad están en entredicho mientras siga cojeando tanto}
-#
-# series 5200 - children
-#
 {5200}{}{. El pequeño empieza a llorar}
 {5201}{}{. inconsciente, el niño se cae}
 {5202}{}{. ¡Ouch!}
@@ -760,9 +596,6 @@
 {5224}{}{, el golpe se prolonga por el pequeño cerebro}
 {5225}{}{. El niño parece confuso y trastornado}
 {5226}{}{, golpeando a este joven hacia el suelo}
-#
-# series 5300 - Super Mutants
-#
 {5300}{}{, hiriendo al poderoso mutante}
 {5301}{}{, dándole en un punto vital}
 {5302}{}{, dándole en un punto vital y derribando al gigante al suelo}
@@ -785,9 +618,6 @@
 {5319}{}{. El mutante cegado tropieza, desprotegido para el siguiente ataque}
 {5320}{}{, cegando al ahora inconsciente mutante}
 {5321}{}{. Los ojos del mutante brillan un momento, y entonces se desvanecen... permanentemente}
-#
-# series 5400 - Ghouls
-#
 {5400}{}{. El necrófago es sorprendido, y falla al intentar defenderse contra este ataque}
 {5401}{}{. El golpe entierra a este necrófago}
 {5402}{}{. La mano de este necrófago atontado voló de golpe}
@@ -797,9 +627,6 @@
 {5406}{}{. El necrófago no lleva armadura ahí}
 {5407}{}{, y traspasando su armadura, el necrófago es cegado}
 {5408}{}{, haciendo que el necrófago contemple desconcertado su momento final}
-#
-# series 5500 - Brahmin
-#
 {5500}{}{, tumbando a la gran bestia en el suelo}
 {5501}{}{, atontando a ambos cerebros y haciendo caer al gran animal}
 {5502}{}{. La vaca mutante hace un ruido: ha empezado a llorar}
@@ -814,9 +641,6 @@
 {5511}{}{. El brahmin se sacude con rabia}
 {5512}{}{. El brahmin resopla de dolor}
 {5513}{}{. El brahmin está totalmente furioso por ese ataque devastador}
-#
-# series 5600 - Radscorpions
-#
 {5600}{}{, haciendo que el escorpión aterrice sobre su espalda}
 {5601}{}{, separando la cabeza del caparazón}
 {5602}{}{, dañándole gravemente la cola}
@@ -834,9 +658,6 @@
 {5614}{}{. Si fuera humano, jurarías que está muy cabreado}
 {5615}{}{, golpeando a la insensible y pobre criatura}
 {5616}{}{, arrojando su cerebro al suelo}
-#
-# series 5700 - Rats
-#
 {5700}{}{. El cráneo del roedor hace varios sonidos enfermizos}
 {5701}{}{, aplastando el cráneo del roedor como una bolsa de papel mojado}
 {5702}{}{, y la pata izquierda ahora parece un poco más suelta}
@@ -850,9 +671,6 @@
 {5710}{}{, haciéndole un gran agujero en su pata izquierda}
 {5711}{}{, haciendo más daño por darle en un punto sensible}
 {5712}{}{, enviando a esta criatura al gran paraíso de las ratas}
-#
-# series 5800 - Floaters
-#
 {5800}{}{, el nómada cae al suelo}
 {5801}{}{, el nómada cae al suelo, aparentemente con menos salud}
 {5802}{}{, con serias consecuencias para su existencia}
@@ -864,9 +682,6 @@
 {5808}{}{ sufre una sacudida frenética y se estremece como gelatina}
 {5809}{}{, golpeándole en un punto sensible}
 {5810}{}{. La criatura está obviamente agitada}
-#
-# series 5900 - Centaurs
-#
 {5900}{}{, el centauro se tropieza y queda atontado}
 {5901}{}{ el golpe alcanzó un punto crítico}
 {5902}{}{, causando un fallo neurológico masivo}
@@ -880,9 +695,6 @@
 {5910}{}{, sorprendiendo al centauro. Se desploma}
 {5911}{}{, sorprendiendo al centauro. Se desploma como un montón de materia pegajosa}
 {5912}{}{. El ataque no fue tan eficaz como podría haber sido}
-#
-# series 6000 - Robots
-#
 {6000}{}{, produciéndole cierto daño estructural}
 {6001}{}{, vuelan las chispas y el robot pierde momentáneamente el control}
 {6002}{}{, golpeando un componente crítico y forzando al robot a perder el control}
@@ -897,9 +709,6 @@
 {6011}{}{. El robot intenta compensar el golpe, pero falla, cayendo al suelo}
 {6012}{}{. El robot se agota bajo la presión, cayéndose al suelo}
 {6013}{}{, rompiéndole las lentes de los sensores}
-#
-# series 6100 - Dogs
-#
 {6100}{}{, tirando al perro al suelo}
 {6101}{}{, justo a través del hocico}
 {6102}{}{. El perro se cae, pero todavía sigue respirando}
@@ -908,9 +717,6 @@
 {6105}{}{, rompiéndole la pata. El animal intenta seguir en pie, pero no puede}
 {6106}{}{. El animal cegado aúlla de dolor}
 {6107}{}{, neutralizando al pobre animal}
-#
-# series 6200 - Manti
-#
 {6200}{}{, tumbando a este insecto mutante}
 {6201}{}{, que se desploma}
 {6202}{}{. La mantis no sabe si seguirá viviendo}
@@ -922,25 +728,16 @@
 {6208}{}{, triturando sus alas}
 {6209}{}{, traspasando su caparazón y tirando a la mantis}
 {6210}{}{, cegando a la mantis con un golpe preciso}
-#
-# series 6300 - Deathclaw
-#
 {6300}{}{. Incluso esta bestia parece asombrada por ese increíble ataque}
 {6301}{}{, yendo más allá de las enormes garras para golpear al monstruo. Éste se sacude y gruñe}
 {6302}{}{. El resultado es un masivo daño en los ojos de la Garra mortal}
-#
-# series 6400 - Spore Plant  # Was The Master
-#
 {6400}{}{, rompiendo las defensas de la planta}
 {6401}{}{, arrancando algunas de sus hojas}
 {6402}{}{, rompiendo algunas de sus hojas}
 {6403}{}{, dañándole su tallo}
 {6404}{}{, extrayéndole todo su polen}
-{6405}{}{. casi tumbándola}
+{6405}{}{, casi tumbándola}
 {6406}{}{, dañando algunas de sus ramas}
-#
-# series 6500 - The Player
-#
 {6500}{}{. Mañana tendrás dolor de cabeza, si es que aún vives para ver otro amanecer}
 {6501}{}{. Tu armadura no te proporciona ninguna protección contra este golpe bien dirigido}
 {6502}{}{. Sientes dolor durante un momento, y entonces se te oscurece la vista...}
@@ -968,40 +765,27 @@
 {6524}{}{. Te echas las manos a la ingle y caes al suelo retorciéndote de dolor}
 {6525}{}{. El dolor es suficiente para hacer que te derrumbes en el suelo. ¡Ouch!}
 {6526}{}{. No hay suficientes palabras en el universo para describir el dolor que estás sintiendo en este momento}
-# Fallout 2:
-#
-# series 6700 - Gecko
-#
 {6700}{}{, traspasando las defensas del lagarto}
 {6701}{}{, arrancando algo de su babosa piel}
 {6702}{}{, rompiendo algunos de sus dedos}
 {6703}{}{, dejándole sin respiración}
 {6704}{}{, arrancándole las vísceras}
-{6705}{}{, casi tumbándolo}
+{6705}{}{, casi tumbándola}
 {6706}{}{, dañando algunos de sus miembros}
-#
-# series 6800 - Alien
-#
 {6800}{}{, traspasando las defensas de la criatura}
 {6801}{}{, haciendo que se manche con sus propias babas}
 {6802}{}{, triturando algunos de sus succionadores}
 {6803}{}{, dañando su aparato ¿respiratorio?}
 {6804}{}{, sacándole las entrañas}
-{6805}{}{, casi tumbándolo}
+{6805}{}{, casi tumbándola}
 {6806}{}{, dañándole sus tentáculos}
-#
-# series 6900 - Giant Ant
-#
-{6900}{}{, traspasando las defensas de la hormiga}
+{6900}{}{, rompiendo las defensas de la hormiga}
 {6901}{}{, arrancando varias de sus antenas}
-{6902}{}{, rompiendo algunos de sus sensores}
+{6902}{}{, dañando algunos de sus sensores}
 {6903}{}{, dañando su salud}
-{6904}{}{, golpeándola ligeramente}
+{6904}{}{, haciéndola tambalear}
 {6905}{}{, casi tumbándola}
 {6906}{}{, dañando parte de su exoesqueleto}
-#
-# series 7000 - Gun Turret  -- WIP! Won't Work!
-#
 {7000}{}{, rompiendo las defensas de la hormiga}
 {7001}{}{, arrancando varias de sus antenas}
 {7002}{}{, dañando algunos de sus sensores}
@@ -1009,8 +793,6 @@
 {7004}{}{, haciéndola tambalear}
 {7005}{}{, casi tumbándola}
 {7006}{}{, dañando parte de su exoesqueleto}
-
-# Series 7100 - End Boss
 {7100}{}{, traspasando su armadura}
 {7101}{}{, haciéndolo caer de rodillas}
 {7102}{}{, destruyendo su mecanismo de control de los brazos}

@@ -1,21 +1,14 @@
-# quick look
 {100}{}{Ves a un científico.}
-
-# examines
 {150}{}{Ves a un hombre de mirada seria con un portapapeles y una aguja hipodérmica. Te ignora.}
 {151}{}{Parece extremadamente cansado e irritable.}
 {152}{}{Ves a una mujer de mirada cansada. Comprueba un portapapeles y mira a su alrededor
  como si hubiera olvidado algo.}
 {153}{}{Está llenando una aguja hipodérmica, gruñendo ligeramente para sí misma.}
-
-# FLOAT
-# (COMPANION = MYRON)
 {154}{}{Hola Myron, señor.}
 {155}{}{Myron... señor, ¿tiene un minuto…?}
 {156}{}{¿Alguna noticia sobre cuándo llegarán más esclavos, Myron, señor?}
 {157}{}{Myron... señor, estos nuevos resultados son muy prometedores…}
 {158}{}{¿Myron? ¿Un minuto de su tiempo, señor?}
-# (NORMAL)
 {159}{}{Dónde demonios está Myron…}
 {160}{}{Traed a Myron aquí. Debe ver esto.}
 {161}{}{Ojalá esos esclavos cerrasen la boca…}
@@ -29,9 +22,6 @@
 {169}{}{Bien, ¿qué TIPO de alucinaciones estaba teniendo?}
 {170}{}{Comprueba el pulso de aquel. Si aún está dentro de los límites tolerables, aumenta la dosis.}
 {171}{}{¿Por qué se suicidó la esclava del grupo de control? ¡Ni siquiera estábamos haciendo pruebas con ella!}
-
-# CLICK
-# (COMPANION = MYRON)
 {200}{}{Las pruebas se están desarrollando según lo planeado, Myron.}
 {201}{}{Esta nueva variedad de Jet es extremadamente adictiva, señor. Los esclavos casi están
  dispuestos a matarse entre ellos por ella.}
@@ -48,7 +38,6 @@
  a los fallos respiratorios que ocurrieron la semana pasada.}
 {210}{}{Myron, señor... tuvimos que disparar a un esclavo que intentaba escapar. Fue un desperdicio.}
 {211}{}{Myron... este nuevo alucinógeno que desarrolló es prometedor, pero no es tan adictivo como el Jet…}
-# NORMAL
 {212}{}{Si tienes alguna sugerencia, por favor escríbela en un trozo de papel y ponla justo
  en esa papelera de ahí.}
 {213}{}{¿Sí, sí, qué?}

@@ -1,5 +1,5 @@
 {100}{}{Un terminal de computadora.}
-{101}{}{El salvapantallas está activo.}
+{101}{}{El salvapantallas está activado.}
 {103}{}{Sistemas de seguridad Skynet
                                   Intruso en Nivel 2
                                                    Activando contramedidas nivel 2
@@ -18,26 +18,8 @@
 {109}{}{Intentar apagar la alarma.}
 {110}{}{Salir.}
 {111}{}{¡Argh! [Golpeas el teclado con el puño por la frustración].}
-{113}{}{Sistemas de seguridad Skynet}
-{114}{}{Escáner de retina activado
-                                           Escaneando...
-                                                              Buscando en Base de datos}
-{300}{}{ - ID Confirmada: }
-{301}{}{
-   --  Último acceso al terminal: }
-{303}{}{                              Cabo Dixon}
-{304}{}{                              General Clifton}
-{305}{}{5 de agosto de 2077}
-{306}{}{ días atrás. }
-
-{307}{}{¡Alerta! Intruso detectado en nivel }
-{308}{}{¡Alerta! Intruso detectado en niveles: }
-#no security breach - spaces to align text
-{310}{}{ }
-#security breach, only one level - spaces to align text
-{309}{}{ }
-#security breach, multiple levels - spaces to align text
-{311}{}{ }
+{113}{}{Piratear los sistemas de seguridad}
+{114}{}{Contraseña no válida  --  Acceso denegado                       Por favor, introduzca contraseña:_}
 {115}{}{Activar Sistema de alarma en Nivel 2}
 {116}{}{Ejecutar programa de auto-diagnóstico.}
 {117}{}{Salir.}
@@ -52,7 +34,7 @@
 {127}{}{Analizando comando, espere por favor...
                                   Anulando comando de usuario
                                             Acceso denegado}
-{128}{}{[Más]}
+{128}{}{[MÁS]}
 {129}{}{Para desactivar la alarma, pulse - 1
                                  Para ejecutar el programa de diagnóstico, pulse - 2
            Para salir, pulse - 3}
@@ -87,4 +69,20 @@
                                       Acceso a este terminal concluido.}
 {145}{}{Salir.}
 {146}{}{Saliendo de programa de diagnóstico.}
-{147}{}{[Más]}
+{147}{}{[MÁS]}
+{300}{}{ - ID Confirmada: }
+{301}{}{
+            Terminal Last Accessed: }
+{303}{}{                              Cabo Dixon}
+{304}{}{                              General Clifton}
+{305}{}{05 de Julio de 2077}
+{306}{}{ días atrás. }
+{307}{}{Escáner de retina activado
+                                           Escaneando...
+                                                              Buscando en Base de datos}
+{308}{}{Escáner de retina activado
+                                           Escaneando...
+                                                              Buscando en Base de datos}
+{309}{}{                                      Total Weight:}
+{310}{}{ }
+{311}{}{                Exp:}

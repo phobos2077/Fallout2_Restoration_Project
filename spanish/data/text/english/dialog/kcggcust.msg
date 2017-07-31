@@ -1,17 +1,11 @@
-#############################################################
-#  Parroquiano del Gecko Dorado (Klamath)   		    #
-#############################################################
-
 {100}{}{Ves a un parroquiano que te mira.}
 {101}{}{Ves a un parroquiano comiendo cecina.}
 {102}{}{Ves a un parroquiano bebiendo una jarra de cerveza.}
-{103}{}{Ves a un parroquiano.}
-
+{103}{}{Ves a un cliente del bar.}
 {104}{}{Ves a un parroquiano desaliñado. Seguramente un trampero.}
 {105}{}{Ves a un parroquiano corpulento. Seguramente un trampero.}
 {106}{}{Ves a un parroquiano con el rostro curtido. Seguramente sea un trampero o un granjero.}
 {107}{}{Ves a un cliente del bar. Podría ser un pastor de brahmines o un granjero.}
-
 {110}{}{Encajarás bien aquí.}
 {111}{}{Invítanos a una ronda, ¿quieres?}
 {112}{}{¿Vas a echar un pulso con los Dunton?}
@@ -37,7 +31,6 @@
 {132}{}{Hay un espíritu en un cañón al oeste de aquí.}
 {133}{}{La caza es peligrosa; perdimos a un buen trampero hace unas pocas semanas.}
 {134}{}{Me encanta meterme con ese Torr.}
-
 {140}{}{Mira quién ha venido.}
 {141}{}{(Murmurando) ...un buenazo por aquí...}
 {142}{}{¿No te has equivocado de barrio?}
@@ -59,7 +52,6 @@
 {158}{}{Humph. (Escupe en los suelos)}
 {159}{}{Está claro que no hay mucho que ver.}
 {160}{}{¿Te sientes incómodo?}
-
 {162}{}{Ya era hora, tribal.}
 {163}{}{Gracias.}
 {164}{}{¡Je je!}
@@ -79,4 +71,4 @@
 {178}{}{Me encantan estos meaos.}
 {179}{}{Eres un buen tribal.}
 {180}{}{Buena idea.}
-{181}{}{¡Sí!}
+{181}{}{¡Siiii!}

@@ -3,30 +3,30 @@
 {102}{}{Ves una figura humanoide que viste una túnica con capucha y mangas largas. Hay algo antinatural
  en su apariencia, pero no sabes exactamente qué es.}
 {103}{}{Hola, soy Goris. No te reconozco, ¿eres nuevo aquí?}
-{104}{}{Yo } # 213
-{105}{}{Marcho yo.}
+{104}{}{Yo }
+{105}{}{Me voy, yo.}
 {106}{}{Sí, ¿y qué?}
-{107}{}{Hola. Soy } # 214
+{107}{}{Hola. Soy }
 {108}{}{Hola, Goris. Gruthar me dijo que te buscase. Parece que cree que eres el tipo que conoce las
  respuestas que busco.}
 {109}{}{¿Puedo hacerte unas preguntas?}
 {110}{}{Lo siento, tengo que irme.}
-{111}{}{Me alegro de conocerte, } # 215
+{111}{}{Encantado de conocerte, }
 {112}{}{Así que has hablado con Gruthar. Tiene una opinión bastante exagerada de mí. En realidad no sé ni la mitad
  de lo que cree. De todas formas...}
 {113}{}{¡Así que eres un extranjero! He visto otros como tú; algunos siguen aquí en el Refugio, pero tú
  pareces distinto. Pareces más 'experimentado', si entiendes a que me refiero. Seguro que has estado por ahí
  haciendo un poco de todo. ¿Estoy en lo cierto?}
 {114}{}{Eh... '¿experimentado?'}
-{115}{}{Marcho.}
+{115}{}{Me voy, yo.}
 {116}{}{Lo siento, creo que debo irme.}
 {117}{}{Sí, he vivido algunas aventuras. Bueno, si no te importa responder unas preguntas, te
  contaría algunas de mis aventuras a cambio.}
-{118}{}{No es asunto tuyo.}
-{119}{}{¿Te importa si te hago unas preguntas?}
+{118}{}{Nadie que te importe.}
+{119}{}{¿Te importa si te algo algunas preguntas?}
 {120}{}{¡Trato hecho! Me encantaría escuchar cualquier cosa que puedas contarme.}
 {121}{}{Además, no puedo rechazar a un amigo de Gruthar.}
-{122}{}{¿Qué quieres saber?}
+{122}{}{¿Qué querías saber?}
 {123}{}{¿Qué estás haciendo aquí?}
 {124}{}{¿Eres prisionero aquí?}
 {125}{}{¿Cuánto hace que estás aquí?}
@@ -127,7 +127,7 @@
  hayas sobrevivido en ese mundo todo este tiempo... debe ser ese lado oscuro que percibo en ti. Oh,
  en fin. Adiós.}
 {190}{}{Eh... vale.}
-{191}{}{Marcho.}
+{191}{}{Me voy, yo.}
 {192}{}{Lo siento, no pretendía entrometerme en tus asuntos privados.}
 {193}{}{Ya, bueno, ¡no lo hagas de nuevo!}
 {194}{}{Lo que sea. Pero necesito algo de información.}
@@ -141,7 +141,7 @@
 {201}{}{Uh... yo perdido. Marcho.}
 {202}{}{Pensé en pasarme por aquí para decir hola. Nos vemos más tarde.}
 {203}{}{Oye, yo estoy buscando a un compañero de viaje. ¿Te animas?}
-{204}{}{¿Qué puedo hacer por ti, } # 216
+{204}{}{¿Qué puedo hacer por ti, }
 {205}{}{¡Tú cosa mala! ¿Por que no deciste a mí?}
 {206}{}{¿Eres una Garra mortal? ¿Hay alguna buena razón por la que no me lo hayas dicho?}
 {207}{}{Tengo que explicar... malo tu matas y no hablar. Yo no te digo y tú me ves cosa buena. No
@@ -155,68 +155,63 @@
 {211}{}{Lo siento, pero no me gusta que me engañen. Deberías irte.}
 {212}{}{Entiendo que creyeras necesario ocultar tu identidad. Creo que podemos trabajar juntos, así
  que, por favor, quédate... pero no vuelvas a engañarme, Goris.}
-
-# the name usually precedes these lines
 {213}{}{. Aquí soy nuevo.}
 {214}{}{. Sí, soy de fuera del Refugio.}
 {215}{}{.}
 {216}{}{?}
-
 {217}{}{Así que el Enclave comenzó a experimentar con un virus, o algo parecido, y se lo inyectó a las Garras
  mortales. Se sabía que ese virus mutaba a los humanos en súper criaturas, así que el Enclave quería
  ver si daba el mismo resultado con las Garras mortales. Bien, el resultado fue una camada de Garras tan inteligentes que
  pudieron ver que su destino era la esclavitud. Así que ocultaron su inteligencia hasta que pudieron obtener su libertad.
  ¡Y aquí están!}
 {218}{}{Estoy en contra de atacar a cualquier Garra mortal.}
-
 {219}{}{Percibo de pronto que mi manada está en problemas. Siento dejarte, pero debo ver a mis hermanos.}
-{220}{}{Vale.}
+{220}{}{De acuerdo.}
 {221}{}{Las cámaras de seguridad han registrado lo ocurrido. Deberías ir a comprobarlo.}
-
 {222}{}{Ves una Garra mortal gris. Es Goris.}
 {223}{}{Ves una figura humanoide que viste una túnica larga con capucha. Es Goris.}
-
-#specific party messages
-{1064}{}{Quédate cerca.}
-{1065}{}{No te alejes demasiado.}
-{1066}{}{Estás demasiado cerca. Aléjate.}
-{1073}{}{Quédate cerca de mí.}
-{1074}{}{No te alejes demasiado.}
-{1075}{}{Deberíamos separarnos un poco.}
+{1000}{}{¿Sí, }
 {1001}{}{Cúrate tú mismo.}
 {1002}{}{Espera aquí. Regreso.}
 {1003}{}{Uh... ahora no arma. ¿Vale?}
-{1167}{}{Creo que tú tienes que moverte diferente.}
-{1167}{}{Creo que tú tienes que moverte diferente.}
 {1008}{}{¿Tú Garra? ¿Por qué no dijiste a mí?}
 {1009}{}{Yo hecho.}
 {1010}{}{Deberías curarte ahora.}
 {1011}{}{Necesito que esperes aquí hasta que vuelva.}
 {1012}{}{Asegúrate de no tener un arma a la vista, ¿vale?}
-{1166}{}{Cambiemos la distancia entre nosotros.}
 {1016}{}{Vamos.}
 {1017}{}{¿Eres una Garra mortal? ¿Hay alguna razón por que no lo hayas mencionado antes?}
-{1018}{}{Eso es todo de momento.}
-{1000}{}{¿Sí, }
-{1156}{}{? }
+{1018}{}{Esto es todo por ahora.}
 {1019}{}{Estoy curado y listo para seguir, }
 {1020}{}{Estoy casi completamente curado, }
 {1021}{}{Estoy bastante bien, pero podría recibir algo de ayuda cuando tengamos la oportunidad, }
 {1022}{}{Me he curado lo mejor que he podido, pero aún estoy bastante herido,}
-{1157}{}{. }
 {1041}{}{Esperare aquí hasta que vuelvas, }
 {1060}{}{Haré lo que pueda para no parecer sospechoso, }
+{1064}{}{Quédate cerca.}
+{1065}{}{No te alejes demasiado.}
+{1066}{}{Estás demasiado cerca. Aléjate.}
+{1073}{}{Quedarse cerca de mí.}
+{1074}{}{No te alejes demasiado.}
+{1075}{}{Deberíamos separarnos un poco.}
+{1078}{}{Esto es todo por ahora.}
 {1079}{}{Estaré lo mas cerca que pueda, }
-{1078}{}{Eso es todo de momento.}
 {1098}{}{Me alejaré un poco para dejarte espacio para respirar, }
 {1117}{}{Me quedaré atrás y te daré algo de espacio,}
 {1136}{}{Lo siento, }
+{1137}{}{He aprendido mucho de nuestros viajes juntos. Iré contigo gustosamente, }
+{1156}{}{? }
+{1157}{}{. }
 {1158}{}{, pero tienes demasiada gente contigo. Esperaré aquí hasta que tengas sitio para mí.}
 {1159}{}{Creo que me irá mejor a mí solo.}
 {1160}{}{Tú no a nadie, quiero acercarme, marcho.}
-{1137}{}{He aprendido mucho de nuestros viajes juntos. Iré contigo gustosamente, }
 {1161}{}{Debo vengar a mis hermanos.}
 {1162}{}{Vale, hagámoslo.}
 {1163}{}{Quizá deberías ir por tu cuenta.}
 {1164}{}{Tú tienes razón, matamos.}
 {1165}{}{Vete solo.}
+{1166}{}{Cambiemos la distancia entre nosotros.}
+{1167}{}{Creo que tú tienes que moverte diferente.}
+{2000}{}{I think I broke a limb. Medical assistance is required.}
+{2001}{}{I believe I am suffering from radiation poisoning. Do you have anything to aid me?}
+{2002}{}{He sido envenenado. ¿Puedes ayudarme?}

@@ -1,8 +1,3 @@
-#############################################################
-#  Entrada y Quest de La Guarida  (Den)   		    #
-#############################################################
-
-
 {100}{}{Este pueblo parece un lugar miserable. Un buen sitio para llevar un arma.}
 {200}{}{Has ayudado a la banda de Lara a ganar la guerra de bandas.}
 {300}{}{Has emboscado a la banda de Lara con éxito.}
@@ -17,4 +12,3 @@
 {1200}{}{Le has entregado el almuerzo a Smitty.}
 {1300}{}{Has encontrado un punto débil en la banda de Tyler.}
 {1400}{}{Has conseguido permiso para que la banda de Lara pueda atacar.}
-

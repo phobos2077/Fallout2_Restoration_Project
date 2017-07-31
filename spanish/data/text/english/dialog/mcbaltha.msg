@@ -1,12 +1,6 @@
-#############################################################
-#  Balthas (Modoc)   		                            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un hombre fortachón que lleva puesto un delantal de cuero.}
 {101}{}{Ves a Balthas el curtidor.}
 {102}{}{Ves a un hombre alto y musculoso que huele a cuero.}
-
 {151}{}{Mi hijo murió por error durante la lucha.}
 {152}{}{No puedo soportar la vida sin Jonny.}
 {153}{}{[Sollozo]}
@@ -17,13 +11,12 @@
 {158}{}{¿Has visto un reloj de oro tirado por algún sitio?}
 {159}{}{Volveré más tarde.}
 {160}{}{Estoy buscando un objeto llamado GECK. ¿Por casualidad no sabrás algo de él, o cómo podría conseguir uno?}
-{161}{}{¿GECK?}
-{163}{}{¿En qué puedo ayudarte?}
+{161}{}{GECK?}
+{163}{}{¿Puedo ayudarte en algo?}
 {168}{}{Tan sólo miraba, gracias.}
 {171}{}{¿Alguna noticia de Jonny?}
 {172}{}{He encontrado esto en el fondo del viejo pozo seco. Una parte del pozo se ha derrumbado, y esto estaba entre los escombros. Lo siento, pero creo que Jonny ha muerto.}
 {173}{}{No, todavía nada.}
-
 {175}{}{Gracias por traer de vuelta a mi hijo. No hay forma de que pueda agradecértelo pero, por favor, acepta esta armadura de cuero en pago. He estado experimentando con un nuevo proceso de curtido. Creo que encontrarás esta armadura muy duradera y además... te queda genial.}
 {176}{}{¡Gracias por salvar a mi hijo!}
 {177}{}{Por favor, déjame sólo con mi pena.}
@@ -35,7 +28,6 @@
 {183}{}{. Ahora que nos hemos presentado apropiadamente, parece que tienes problemas.}
 {184}{}{Sí, estoy interesado en comprar algunos artículos de cuero.}
 {186}{}{Supongo que no.}
-
 {187}{}{¿Has dicho }
 {188}{}{? Sí, creo que he oído hablar de ti. Uno de los guardias de una caravana que pasaba mencionó algunas buenas cosas sobre una persona que respondía a tu nombre. Sé que acabamos de conocernos, pero me vendría muy bien tu ayuda.}
 {189}{}{¿Qué tal si me cuentas tu problema? Quizás pueda ayudarte.}
@@ -49,11 +41,10 @@
 {197}{}{Bueno, tienes el aspecto de un viajero experimentado. Con tu habilidad, quizás seas capaz de hallar la pista de mi hijo.}
 {198}{}{¡Oh, sí! Soy un rastreador bastante habilidoso, a mi modesto entender. De acuerdo, te ayudaré.}
 {199}{}{Los halagos no te llevarán a ninguna parte. Mira, necesito hacerte algunas preguntas.}
-
 {200}{}{¡Mis oraciones han sido escuchadas! Llévate a Laddie contigo; quizás pueda serte de ayuda. ¡Por favor, apresúrate!}
 {201}{}{Vaya, quizá tengas razón. Gracias por escucharme.}
 {202}{}{He oído hablar de ti. Mira, no quiero problemas. Somos una comunidad pacífica. Centrémonos en los negocios, ¿vale?}
-{203}{}{Tengo algunas preguntas que hacerte.}
+{203}{}{Tengo algunas preguntas para ti.}
 {204}{}{No tengo negocios que tratar contigo. Adiós.}
 {205}{}{Bien... estoy preocupado por mi hijo desaparecido, Jonny. Le hemos buscado por todas partes, pero no le encontramos. Temo que quizás le haya atrapado algún animal salvaje.}
 {206}{}{Quizás pueda ayudarte. He viajado mucho... echaré un vistazo para ver si encuentro a tu hijo.}
@@ -62,16 +53,13 @@
 {211}{}{Lo siento, nunca lo he oído.}
 {214}{}{Je, je, je. El viejo Cornelius te ha pedido que busques su reloj de bolsillo, ¿eh? No, no lo encontrarás aquí. Ese viejo chocho probablemente se lo dejó en algún lado y se le olvidó.}
 {215}{}{Gracias de todos modos. Seguiré buscando. Adiós.}
-
 {216}{}{[Te mira detenidamente y entonces sonríe]. ¿Por qué no eres un buen chico y sales a jugar afuera?}
 {217}{}{[Te mira detenidamente y entonces sonríe]. ¿Por qué no eres una buena chica y sales a jugar afuera?}
 {218}{}{Por favor, sigue buscando. Sé que está vivo. ¡Puedo sentirlo!}
 {219}{}{Ese es el rifle de aire comprimido de Jonny. ¡Noooooooooooooooooooo! [Balthas se derrumba y comienza a llorar desconsoladamente].}
-{2199}{}{Ese es el rifle de aire comprimido de Jonny... No creo que esté muerto. Por favor, sigue buscando a mi chico. Estoy seguro de que aún sigue ahí fuera.}
 {220}{}{¡Sabía que Jonny no estaba muerto! Dices que tengo que esperar... ¡No lo entiendo! ¿Está herido? Mi instinto me dice que vaya a buscar a mi hijo, pero presiento que tienes en mente lo mejor para él. Por favor, apresúrate y tráemelo de vuelta.}
 {221}{}{¡Oh, no! ¡Los fantasmas no! Sabía que teníamos que haber quemado ese sitio hasta los cimientos. No les dejaré que me arrebaten a mi hijo... Voy a recuperar a mi Jonny, cueste lo que cueste. ¡Estoy seguro de que los habitantes de Modoc me ayudarán a recuperarlo! Reúnete con nosotros en la Granja Fantasma. ¡Vamos a matarlos a todos!}
-
 {230}{}{Has conseguido traer a Jonny sano y salvo de vuelta a Modoc.}
-
-#added by killap - RP
-{240}{}{Por favor, trae a mi hijo de vuelta sano y salvo.}
+{240}{}{Por favor, tráeme de vuelta a Jonny.}
+{2199}{}{That's Jonny's BB gun all right...I don't believe he is dead. Please keep looking for my boy. I
+ am sure he is still out there.}

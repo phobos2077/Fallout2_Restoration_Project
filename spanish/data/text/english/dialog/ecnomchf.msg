@@ -1,17 +1,12 @@
-#############################################################
-#  Jefe Nómada (Encuentros)            #
-#  Traducido por Wenck                                      #
-#############################################################
-
-{100}{}{Ves a un nómada.}
-{101}{}{Parece ser un jefe nómada.}
+{100}{}{Ves a un guardia.}
+{101}{}{Ves a Chip. Parece sufrir mucho dolor.}
 {102}{}{Por sus ropas y la forma en la que se comporta, debe ser alguna clase de líder.}
 {103}{}{Ah, un viajero. Sé bienvenido a mi humilde tienda. Ven a la sombra y cobíjate del interminable calor de la tierra.}
 {104}{}{Gracias; acepto con gentileza tu oferta de cobijo.}
 {105}{}{Debo declinar tu oferta. Tan sólo estaba de paso.}
 {106}{}{Ooga.}
 {107}{}{Sé bienvenido, pues. Hace tiempo que nos alejamos de las tierras 'civilizadas'. Necesitamos ciertos objetos. ¿Quizá estés dispuesto a hacer algún cambio?}
-{108}{}{¿Qué tienes para comerciar?}
+{108}{}{¿Qué tienes para comprar?}
 {109}{}{No tengo nada con qué comerciar. Lo siento.}
 {110}{}{Quizás la próxima vez, ¿eh? Que tus viajes estén libres de peligro.}
 {111}{}{Adiós.}
@@ -22,8 +17,7 @@
 {116}{}{¡Infiel!}
 {117}{}{¿Por qué nos atacas?}
 {118}{}{¡Defenderé a la tribu con mi vida!}
-{119}{}{Cómo te atreves a violar nuestra hospitalidad.}
-{120}{}{¡Vete!}
+{119}{}{¿Cómo te atreves a violar nuestra hospitalidad!}
+{120}{}{¡Márchate!}
 {121}{}{Déjanos.}
 {122}{}{Somos una tribu pacífica.}
-

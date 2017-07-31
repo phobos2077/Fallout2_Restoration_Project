@@ -15,37 +15,34 @@
 {114}{}{¡Rowf! <tick-tick-tick> ¡Rowf!}
 {115}{}{<whirrr> No es un pájaro, no es un avión, ni siquiera es una rana, sólo tu viejo amigo: ¡Roboperro!<click>}
 {116}{}{¡Rooby-Doo!}
-{117}{}{Ee-bee-dee-bee-ee-bee-dee-bee!}
-{118}{}{¡Woof!}
+{117}{}{¡Ee-bee-dee-bee-ee-bee-dee-bee!}
+{118}{}{¡Guau!}
 {119}{}{¡GRRR-ROWF!}
 {120}{}{¡Arf-arf-arf-arf-arf-arf-arf!}
-{121}{}{OK}
+{121}{}{Vale}
 {122}{}{No creo que quiera volverme a juntar contigo. Adiós.}
 {123}{}{¿Rowf? <boing> ¿Raggy?}
 {124}{}{¿Cómo estás?}
 {125}{}{Necesito que esperes aquí hasta que vuelva.}
-{126}{}{Eso es todo por ahora.}
+{126}{}{Esto es todo por ahora.}
 {127}{}{<click> whimper}
 {128}{}{No importa.}
 {129}{}{Vale}
-{130}{}{HP: }
+{130}{}{HP:}
 {131}{}{El ciberperro no puede ser reparado en este momento.}
 {132}{}{El ciberperro ha sido parcialmente reparado.}
 {133}{}{Ahora el ciberperro está totalmente reparado.}
-
-#specific party messages
 {1000}{}{¡Woof! Wo-wo-wo-<click>¿woof?}
 {1100}{}{¡Arf! <click> ¡Woof!}
 {1200}{}{¿Rowf? <boing> ¿Raggy?}
 {1300}{}{<click> whimper.}
 {1400}{}{¡How-woooo! <click-click> ¡How-wooo!}
-{1500}{}{¡Ee-bee-dee-bee-ee-bee-dee-bee!} //Wait here resoponse
-{1600}{}{Sí, lo dejaré a un lado.}  //Put weapons away
-{1700}{}{Arf-arf proximidad cercana.} //Close
-{1800}{}{Arf-arf proximidad media.} //Medium
-{1900}{}{Arf-arf proximidad lejana.} //Far
+{1500}{}{¡Ee-bee-dee-bee-ee-bee-dee-bee!}
+{1600}{}{Sí, lo dejaré a un lado.}
+{1700}{}{Arf-arf proximidad cercana.}
+{1800}{}{Arf-arf proximidad media.}
+{1900}{}{Arf-arf proximidad lejana.}
 {2000}{}{.whirrrrr... No soy un perrito.}
 {2100}{}{¡GRRR-ROWF!}
 {2200}{}{¡Woof! Wo-wo-wo-<click>¿woof?}
-
 {2204}{}{Vale, ahora estás a una buena distancia.}

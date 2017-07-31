@@ -14,7 +14,7 @@
 {113}{}{Puedes continuar.}
 {114}{}{No he visto nada.}
 {115}{}{Estos no son los androides que buscamos.}
-{116}{}{Sigue adelante.}
+{116}{}{Sigue avanzando.}
 {117}{}{Estoy harto de matar.}
 {118}{}{¡Vamos, adelante!}
 {119}{}{Tranquilos, muchachos.}
@@ -22,7 +22,7 @@
 {121}{}{Buena suerte, mutante. La vas a necesitar.}
 {122}{}{¡Alto! ¿Qué estás haciendo aquí?}
 {123}{}{Estoy intentando recuperar a mi gente.}
-{124}{}{Nada que te incumba.}
+{124}{}{Nadie que te importe.}
 {125}{}{No tengo tiempo para tus preguntas.}
 {126}{}{¿Y quién eres tú?}
 {127}{}{Bueno, ya sabes que ese bicho raro, el agente Horrigan, acaba de irrumpir por aquí. Está esperando a alguien para abalanzarse sobre él.}

@@ -1,14 +1,9 @@
-#############################################################
-#  Trampero (Klamath)   		                    #
-#############################################################
-
 {100}{}{Ves a una persona de aspecto desaliñado.}
 {101}{}{Ves a un vecino de Klamath.}
 {102}{}{Ves a un okupa.}
 {103}{}{Ves a un campesino.}
 {104}{}{Ves a un trampero.}
-{105}{}{Ves a un cazador.}
-
+{105}{}{Ves a un trampero.}
 {110}{}{Je, je: ¿reconoces ahora que eres uno de los nuestros?}
 {111}{}{No tenemos nada que puedas robarnos.}
 {112}{}{El barrio de los tramperos cada día tiene ratas más grandes. Algunas hasta caminan erguidas.}
@@ -22,11 +17,10 @@
 {120}{}{Por el espíritu de la Gran Rata, ¿que será lo siguiente?}
 {121}{}{Debería ofrecerle una oración al espíritu de la Gran Rata si es que te quedas mucho tiempo en el pueblo.}
 {122}{}{Cuidado, o acabarás igual que Phil.}
-{123}{}{Eres como los Dunton.}
+{123}{}{Eres igual que los Dunton.}
 {124}{}{No te queremos en esta parte del pueblo.}
-{125}{}{¿Qué problema tienes?}
+{125}{}{¿Cuál es tu problema?}
 {126}{}{(Murmurando) ...el único tribal bueno es el tribal m...}
-
 {130}{}{Esta zona es sólo para profesionales.}
 {131}{}{Hmm... Tienes pinta de no poder encontrar un gecko aunque te estuviera mordiendo el culo.}
 {132}{}{Me sorprende que hayas recorrido todo el camino hasta aquí desde tu tribu.}
@@ -46,7 +40,6 @@
 {146}{}{Si los hombres bicho aparecen alguna vez por aquí, las ratas se los comerán. Je, je.}
 {147}{}{Si señor, hay viejos túneles debajo de Klamath. Créetelo.}
 {148}{}{Hay un montón de cosas reptando por esos edificios.}
-
 {150}{}{Tienes pinta de saber arreglártelas por el bosque.}
 {151}{}{Cazar geckos es peligroso... pero se paga bien.}
 {152}{}{Odio a estas ratas. ¡Son condenadamente listas como para caer en las trampas!}
@@ -60,7 +53,6 @@
 {160}{}{Recuerda, si alguna vez vendes demasiadas pieles de gecko a la vez, harás que baje el precio.}
 {161}{}{Algún día me gustaría tener alguna arma con algo de alcance.}
 {162}{}{Juro que he visto hombres bicho en la zona de pastos al este del pueblo.}
-
 {170}{}{Odiaba a esas malditas ratas. Me alegro de que ya no estén.}
 {171}{}{Cazar geckos es peligroso, pero se paga bien.}
 {172}{}{Cuidado con los geckos dorados; son el doble de duros que los normales.}
@@ -73,7 +65,6 @@
 {179}{}{Últimamente he dejado de oír esa extraña voz que venía de las cuevas de las ratas. Me pregunto a donde habrá ido.}
 {180}{}{Oye, no te rías de mí, pero creo que el Dios Rata ha muerto.}
 {181}{}{He oído que el Dios Rata ha muerto. No es que crea en esas cosas.}
-
 {200}{}{Ves a una persona tosca con botas de piel.}
 {201}{}{Ves a una persona que debe pasar mucho tiempo al aire libre.}
 {202}{}{Ves a una persona que viste ropa remendada y toscamente hecha.}

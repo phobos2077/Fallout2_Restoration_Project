@@ -32,14 +32,14 @@
 {131}{}{En realidad, ya me marchaba.}
 {132}{}{Es ese gran agujero de la montaña del este, más allá de los dos guardias armados. ¿Hay algo más que quieras saber o puedo volver el trabajo?}
 {133}{}{¿Qué es este lugar?}
-{134}{}{Ten cuidado. Hoy no estoy de humor para ninguna gilipollez.}
+{134}{}{Cuidado. Hoy no estoy de humor para chorradas.}
 {135}{}{Gracias por las indicaciones. Adiós.}
 {136}{}{Como si Ciudad Refugio no tuviera bastantes brahmines humanos... mira, NO PUEDES ESTAR AQUÍ, ¿VALE? ¡Te puedes HACER DAÑO! ¡AHORA SAL DE AQUÍ! ¡FUERA!}
 {137}{}{*Snfff* Tu muy tonta... *snff*... yo voy a lugar con fiesta y p-payasos... *snfff*... y helado... y pastel... ¡y no invito a gente lista como TÚ!}
 {138}{}{Dejas de balbucear}
 {139}{}{Sal de aquí. O llamaré a los guardias para que te ECHEN.}
 {140}{}{Inténtalo. Me encantaría.}
-{141}{}{Está bien, me marcho.}
+{141}{}{De acuerdo, me marcho.}
 {142}{}{Es el centro de mantenimiento para Ciudad Refugio. ¿O es que no has VISTO el enorme letrero del
  lateral del edificio?}
 {143}{}{No, lo siento. Pensé que esto sería una tienda de alguna clase.}
@@ -76,7 +76,7 @@
 {174}{}{¿En serio?}
 {175}{}{Sí. Aquí están.}
 {176}{}{Eh... gracias. Quiero decir, no son de lo mejor, pero servirán. Dónde... oh, no importa. No es importante. Aquí están unos cuantos pavos por las molestias.}
-{177}{}{Gracias. Verás, tenía algunas preguntas...}
+{177}{}{Gracias. Verás, tenía más preguntas...}
 {178}{}{Tal vez podrías usas esas herramientas para arreglar esa actitud tuya.}
 {179}{}{No hay problema. Encantado de ayudar.}
 {180}{}{Sí, sí... mira, tengo trabajo que hacer. Vuelve dentro de uno o dos días, ¿vale? Tendré
@@ -94,11 +94,11 @@
 {191}{}{¿Puedes repararme algo?}
 {192}{}{¿Qué tienes a la venta?}
 {193}{}{¿Qué pasa entre tú y tu padre?}
-{194}{}{No importa. Te dejaré trabajar.}
+{194}{}{No importa. Te dejaré que trabajes.}
 {195}{}{Nada digno de mención. Vino aquí hace veinte años en uno de sus viajes de caravana, atontó a madre y se largó. Desde que pasó por aquí, no le había visto en unos cinco años. No me he perdido nada.}
 {196}{}{Parece que tú y él tenéis algunas cosas de las que hablar.}
 {197}{}{Oh. Bien, eh, tenía algunas preguntas más...}
-{198}{}{No importa. Te dejaré trabajar.}
+{198}{}{No importa. Te dejaré que trabajes.}
 {199}{}{No, no tenemos. Nos dijimos todo lo que había que decir hace mucho tiempo. }
 {200}{}{¿Estás segura?}
 {201}{}{De acuerdo entonces. Tenía algunas otras preguntas...}
@@ -156,7 +156,7 @@
 {253}{}{De acuerdo, dame una hora, y estará listo...}
 {254}{}{De acuerdo.}
 {255}{}{Aquí está. ¿Algo más?}
-{256}{}{Tenía algunas otras preguntas...}
+{256}{}{Tenía algunas preguntas más...}
 {257}{}{¿Puedes mejorar cualquier cosa que tenga?}
 {258}{}{Nada más hoy. Gracias.}
 {259}{}{¿Qué es lo que... eh... papá?}

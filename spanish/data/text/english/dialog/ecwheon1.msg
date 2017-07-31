@@ -1,8 +1,3 @@
-#############################################################
-#  Heroina Blanco (Encuentros)            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a... un modelo de heroína de raza blanca.}
 {101}{}{Ves a una hermosa mujer de pelo negro con un uniforme del Refugio 13. Está bromeando y ríe con los demás.}
 {102}{}{Ves a una heroína de raza blanca. Está bromeando y se ríe.}

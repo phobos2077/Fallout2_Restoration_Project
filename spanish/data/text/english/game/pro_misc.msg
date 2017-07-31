@@ -2,7 +2,7 @@
 {200}{}{Bola de plasma}
 {300}{}{Explosión}
 {400}{}{Sangre}
-{500}{}{No-Trans hex} #Que es esto?
+{500}{}{No-Trans hex}
 {501}{}{}
 {600}{}{cuchillo}
 {700}{}{lanza}
@@ -10,7 +10,7 @@
 {900}{}{Disparo Láser}
 {1000}{}{Disparo de Plasma}
 {1100}{}{Explosión}
-{1200}{}{Scroll Blocker} #Y esto?
+{1200}{}{Scroll Blocker}
 {1300}{}{Rayo eléctrico}
 {1400}{}{Explosión}
 {1500}{}{Explosión}
@@ -24,7 +24,7 @@
 {2300}{}{Salida}
 {2400}{}{Bengala}
 {2500}{}{Granada}
-{2600}{}{Piedra}
+{2600}{}{Roca}
 {2700}{}{Explosión}
 {2800}{}{Explosión}
 {2900}{}{Explosión}

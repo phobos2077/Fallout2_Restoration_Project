@@ -713,11 +713,11 @@
 {71300}{}{Tejado}
 {71400}{}{Tejado}
 {71500}{}{Tejado}
-{71600}{}{Jardín}
-{71700}{}{Jardín}
-{71800}{}{Jardín}
-{71900}{}{Jardín}
-{72000}{}{Jardín}
+{71600}{}{Jardin}
+{71700}{}{Jardin}
+{71800}{}{Jardin}
+{71900}{}{Jardin}
+{72000}{}{Jardin}
 {72100}{}{Tejado}
 {72200}{}{Tejado}
 {72300}{}{Tejado}

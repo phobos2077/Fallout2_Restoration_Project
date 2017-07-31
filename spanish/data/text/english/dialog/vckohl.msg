@@ -16,12 +16,12 @@
 {115}{}{¡Frazz-urb-luuw!}
 {116}{}{Dejas de balbucear}
 {117}{}{¿Qué es este lugar?}
-{118}{}{Nada. Siento molestarte.}
+{118}{}{Nada. Perdón por molestarte.}
 {119}{}{Eh... ¿perdóname?}
 {120}{}{Cripple-cripple creep}
 {121}{}{Dejas de balbucear}
 {122}{}{Oh, Dios, debes ser uno de los siervos. ¡Realmente DEBERÍAS volver con el amo Barkus de inmediato, o se pondrá furioso!}
-{123}{}{¡Valeee!}
+{123}{}{¡Vaaale!}
 {124}{}{Este es el Centro de Información de Ciudad Refugio. ¿Es el lugar que estabas buscando?}
 {125}{}{En realidad, sí. Tengo algunas preguntas que tal vez puedas contestarme.}
 {126}{}{¿Centro de Información? ¿Tienes algún libro, o manuales?}
@@ -43,19 +43,19 @@
  Yo soy un poco más escéptico.}
 {141}{}{Realmente no lo sé.}
 {142}{}{¿Puedo hacerte alguna otra pregunta?}
-{143}{}{No importa. Tal vez volvamos a hablar en otro momento.}
+{143}{}{No importa. Quizá hablemos en algún otro momento.}
 {144}{}{¿El Refugio? Mira, la entrada está justo al final de la calle... es el enorme agujero de la ladera de la montaña.}
 {145}{}{¿Conoces algún otro Refugio?}
 {146}{}{¿Puedo hacerte alguna otra pregunta?}
 {147}{}{Gracias por las indicaciones.}
 {148}{}{¿Otros Refugios? Hmmm. No, en realidad, no. Sé que se construyeron otros Refugios, pero nunca hemos encontrado ninguno de ellos.
  Tal vez haya alguna referencia sobre ellos en la computadora central del Refugio.}
-{149}{}{¿Cómo puedo bajar al Refugio?}
+{149}{}{¿Cómo puedo hacer para bajar el Refugio?}
 {150}{}{¿Puedo hacerte alguna otra pregunta?}
 {151}{}{Gracias por la información.}
 {152}{}{Hmmmm. Bueno, verás, la computadora central del Refugio quizá tenga alguna información sobre ello. Guardamos la mayoría
  de los archivos más antiguos allí abajo.}
-{153}{}{¿Cómo puedo bajar al Refugio?}
+{153}{}{¿Cómo puedo hacer para bajar el Refugio?}
 {154}{}{¿Puedo hacerte alguna otra pregunta?}
 {155}{}{Gracias por la información.}
 {156}{}{Bien, eres un Ciudadano de la comunidad, ¿cierto? Tienes permiso para bajar allí.}
@@ -69,23 +69,23 @@
  en Ciudad Refugio se ha quedado obsoleto.}
 {163}{}{¿Ob-so-leto? ¿Qué quieres decir?}
 {164}{}{¿Obsoleto?}
-{165}{}{Oh. Tenía alguna pregunta más...}
+{165}{}{Oh. Tenía algunas preguntas más...}
 {166}{}{Lamento oír eso. Debo irme.}
 {167}{}{Significa que mi puesto aquí ya no es necesario. Por el bien de todos.}
 {168}{}{Están planteándose poner terminales informativos en cada hogar. Esos nuevos terminales estaría conectados al Servidor
  de Listas y a los Archivos de Información. Una vez se haya hecho, el centro de información... y yo... seremos innecesarios. Por el bien de
  todos, desde luego.}
-{169}{}{¿Estás seguro?}
-{170}{}{Oh. Tenía alguna pregunta más...}
+{169}{}{¿Estás segura?}
+{170}{}{Oh. Tenía algunas preguntas más...}
 {171}{}{Lamento oír eso. Debo irme.}
 {172}{}{Oh Dios, sí. La Primer Ciudadano raramente se equivoca en tales cuestiones. Aún así, sentiré dejar este lugar. He oído que hay un puesto esperándome en la Oficina de Listas.}
 {173}{}{Oh. Bien, lamento oír que todos los libros han sido transcritos. Prefiero leer un libro que mirar un pantalla de computadora.}
 {174}{}{Oh. Bien, lamento oír que todos los libros han sido transcritos. Prefiero leer un libro que mirar un pantalla de computadora.}
-{175}{}{Oh. Tenía alguna pregunta más...}
+{175}{}{Oh. Tenía algunas preguntas más...}
 {176}{}{Lamento oír eso. Debo irme.}
 {177}{}{¡Así es como me siento yo también! No tengo nada contra el formato electrónico, pero hay cierta... solidez... en tener un libro en tus manos y pasar las páginas una a una. Hmmm. Ya sabes...}
 {178}{}{¿Sí?}
-{179}{}{Oh. Tenía alguna pregunta más...}
+{179}{}{Oh. Tenía algunas preguntas más...}
 {180}{}{Lamento oír eso. Debo irme.}
 {181}{}{Aún no han enviado todos los libros a la Oficina de Servicios. Sé que Randal no los echaría de menos si se los entrego a alguien que los aprecia... alguien como tú.}
 {182}{}{Me encantaría tenerlos. Gracias.}

@@ -1,8 +1,3 @@
-#############################################################
-#  Desfile Orgullo Gay (Encuentros)             #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{¡Orgullo gay!}
 {101}{}{¡Abajo los heteros!}
 {102}{}{¡Los forasteros no son bienvenidos!}

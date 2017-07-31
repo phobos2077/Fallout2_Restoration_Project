@@ -1,22 +1,22 @@
 {100}{}{Ves un terminal de computadora.}
 {101}{}{Ves la estación de trabajo de Biología.}
-{102}{}{Ves un terminal de computadora funcional.}
+{102}{}{Ves un terminal funcional de computadora.}
 {103}{}{Saludos. Por favor, confirme su identidad.}
 {104}{}{[¡Oooh! ¡Mira esas luces brillantes!]}
-{105}{}{::adivinas la contraseña::}
+{105}{}{::adivinar contraseña::}
 {106}{}{INTLVR-Dnky-Pnch-98790}
-{107}{}{::pirateas la computadora::}
+{107}{}{::piratear la computadora::}
 {108}{}{Salir}
 {109}{}{Datos a encontrar: - Programa botánico  - Programa genético  - Programa Xeno-}
 {110}{}{Programa botánico.}
 {111}{}{Programa genético.}
 {112}{}{Programa Xeno.}
-{113}{}{Nota personal.}
+{113}{}{Notas personales recientes.}
 {114}{}{Desactivar estación de trabajo.}
-{115}{}{Contraseña incorrecta. Por favor, hable con el administrador del sistema. Adiós.}
-{116}{}{::pirateas la computadora::}
-{117}{}{::te vas::}
-{118}{}{Activada alerta de intruso. Apagando. Que tenga un buen día.}
+{115}{}{Contraseña incorrecta. Por favor, comuníquese con el administrador del sistema. Adiós.}
+{116}{}{::piratear la computadora::}
+{117}{}{::marcharse::}
+{118}{}{Activada alerta de intrusión. Apagando. Que tenga un buen día.}
 {119}{}{-hecho-}
 {120}{}{(Tras unos veinte minutos, descubres lo siguiente: los resultados iniciales de la interrupción en la radiación botánica resultan poco prometedores. El doctor Sheng desarrolla vida vegetal resistente a la radiación, con desagradables efectos secundarios. La vida vegetal resultante se considera demasiado peligrosa. Sheng insiste en seguir la línea de investigación y mezclarla con el programa genético).}
 {121}{}{Programa genético.}
@@ -43,10 +43,8 @@ Dr. Long: Recientemente fallecido debido a suero VEF.}
 {139}{}{Atrás.}
 {140}{}{Estación desactivada.}
 {141}{}{Activar estación.}
-{142}{}{-irte-}
+{142}{}{-marcharse-}
 {143}{}{[Tu poco elegante acercamiento usando el azar con las teclas activa la contraseña correcta... ¡tu suerte es increíble!]}
 {144}{}{-más-}
-
-
 {145}{}{La computadora no responde a ningún comando.}
-{146}{}{No parece que puedas encontrar un lugar en el que poner eso.}
+{146}{}{No parece que puedas encontrar nada en lo que poner eso.}

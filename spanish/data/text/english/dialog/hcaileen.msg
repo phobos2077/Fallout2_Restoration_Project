@@ -6,7 +6,7 @@
 {105}{}{Se lo demostraremos a esos mutantes.}
 {106}{}{Arriba con los derechos humanos, camarada.}
 {107}{}{Tienes lo que hay que tener.}
-{108}{}{Largo de aquí.}
+{108}{}{Vete de aquí.}
 {109}{}{Amante de mutantes.}
 {110}{}{Sera mejor que mantengas la boca cerrada, si sabes lo que te conviene.}
 {111}{}{Maldito simpatizante de los mutantes.}
@@ -22,7 +22,7 @@
 {121}{}{Nuestra victoria está cerca.}
 {122}{}{Pronto, Broken Hills será nuestra.}
 {123}{}{Maldito amante de mutantes.}
-{124}{}{Largo de aquí.}
+{124}{}{Vete de aquí.}
 {125}{}{No eres más que el lacayo de un mutante imperialista.}
 {126}{}{Puedes estar seguro que esta vez has escogido mal.}
 {127}{}{Te arrepentirás de lo que has hecho aquí.}
@@ -35,10 +35,10 @@
 {134}{}{Mi marido Jacob puede encargarse de lo que necesites.}
 {135}{}{Eh, por favor,¿podrías dejar de molestarme?}
 {136}{}{No puedo ayudarte, pero mi marido, Jacob, puede.}
-{137}{}{Tan solo déjame tranquila.}
+{137}{}{Déjame en paz.}
 {138}{}{Encantada de que nos visites. Ahora largo.}
 {139}{}{¿Por qué has dejado todas esas pisadas de barro?}
 {140}{}{¿Podrías actuar de esa manera en tu propia, eh, tienda?}
-{141}{}{Por favor, déjame tranquila.}
+{141}{}{Por favor, déjame solo.}
 {142}{}{No sé lo que pretendes, pero sólo quiero que me dejes en paz.}
 {143}{}{¡Nos tendieron una trampa! ¡No asesinamos a esa gente en los túneles!}

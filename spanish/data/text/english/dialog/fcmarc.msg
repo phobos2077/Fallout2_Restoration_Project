@@ -35,8 +35,8 @@
 {134}{}{No, eso es todo.}
 {135}{}{Bien, cuando llegamos aquí, nos dimos cuenta de que tendríamos que acampar hasta que descubriéramos cómo volver a mover este petrolero o hasta que se nos ocurriera otra cosa.}
 {136}{}{¿Habéis descubierto cómo mover el petrolero?}
-{137}{}{Háblame sobre los Hubologistas.}
-{138}{}{Háblame sobre los Shi.}
+{137}{}{Háblame de los Hubologistas.}
+{138}{}{Háblame de los Shi.}
 {139}{}{Tengo otras preguntas.}
 {140}{}{Gracias. Adiós.}
 {141}{}{Creo que el capitán ha descubierto cómo hacerlo... pero primero necesitamos varias cosas. Básicamente, nosotros hemos renunciado a hacerlo, a decir verdad: ahora tenemos otros planes.}
@@ -64,6 +64,5 @@
 {163}{}{Háblame de los Shi.}
 {164}{}{Tengo otras preguntas.}
 {165}{}{Gracias. Adiós.}
-
 {166}{}{¿Has visto a la novia de Badger por aquí?}
 {167}{}{Creo que la vi bajar. Hay un agujero en la parte norte de esta cubierta.}

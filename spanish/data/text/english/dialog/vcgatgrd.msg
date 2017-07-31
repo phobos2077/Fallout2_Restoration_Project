@@ -21,11 +21,11 @@
 {120}{}{Tienes autorización para pasar. Entra.}
 {121}{}{Que te vaya bien, viajero.}
 {122}{}{Bienvenido de nuevo.}
-{123}{}{Tu batalla contra el Enclave impresionó incluso a la Primer Ciudadano.}
-{124}{}{He escuchado que viajaste hacia el sur hasta alcanzar San Francisco. ¿Es cierto?}
-{125}{}{¿Es cierto que los Estados Unidos aún están combatiendo?}
+{123}{}{Tu lucha contra el Enclave impresionó incluso a la Primer Ciudadano.}
+{124}{}{He oído que has viajado hacia el sur incluso hasta San Francisco. ¿Es cierto?}
+{125}{}{¿Es cierto que los Estados Unidos aún luchan en la guerra?}
 {126}{}{Deberías catalogar tus viajes en la computadora de Ciudad Refugio.}
-{127}{}{Se te permite quedarte en Ciudad Refugio tanto tiempo como desees.}
+{127}{}{Estás invitado a quedarte en Ciudad Refugio tanto tiempo como quieras.}
 {128}{}{Deberías catalogar tus hazañas contra el Enclave e incluirlas en el Servidor de Listas.}
 {129}{}{No se permiten necrófagos en Ciudad Refugio. Saca a esa... cosa de aquí. Ahora.}
 {130}{}{No se permiten mutantes en Ciudad Refugio. Saca a esa... cosa de aquí. Ahora.}
@@ -41,7 +41,7 @@
 {140}{}{Si quieres entrar en Ciudad Refugio, tienes que hablar con Wallace, el Jefe de Aduana. Él puede proporcionarte un pase de día.}
 {141}{}{¿Dónde puedo encontrar a Wallace?}
 {142}{}{¿Un pase de día? ¿Qué es eso?}
-{143}{}{De acuerdo, gracias.}
+{143}{}{Vale, gracias.}
 {144}{}{Wallace está en el edificio de Aduanas, justo aquí enfrente. }
 {145}{}{Ahora muévete. No tengo tiempo para hablar con errantes.}
 {146}{}{¿Qué es un pase de día?}
@@ -72,19 +72,19 @@
 {171}{}{Porque resulta que tengo la Ciudadanía de todos los Refugios.}
 {172}{}{No nos habremos encontrado antes. Estoy encantado de conocerte.}
 {173}{}{Oh, ¿es así? Mira, no sé quién eres, pero no eres Ciudadano. Dame esos documentos y sal de aquí. Si quieres entrar, tendrás que conseguir de Wallace un pase de día, como todo el mundo.}
-{174}{}{¿Quieres estos documentos? ¿Ven a por ellos!}
+{174}{}{¿Quieres los documentos? ¡Ven a por ellos!}
 {175}{}{¿Dónde puedo encontrar a Wallace?}
 {176}{}{De acuerdo. Adiós.}
 {177}{}{Bien, todo está en orden, puedes entrar. Ciudad Refugio prevalece, Ciudadano.}
 {178}{}{Eh, sí... Ciudad Refugio prevalece, Ciudadano.}
 {179}{}{Gracias.}
 {180}{}{El pase de día, por favor.}
-{181}{}{Aquí está.}
+{181}{}{Aquí están.}
 {182}{}{No necesito un pase de día. Soy un Ciudadano.}
 {183}{}{Sólo venía a ver lo que estabas haciendo.}
 {184}{}{No tengo tiempo para charlar, ¿de acuerdo? Ahora, vete de aquí.}
 {185}{}{Está bien, está bien. Sólo intentaba ser amigable...}
-{186}{}{(Te vas).}
+{186}{}{(Te marchas).}
 {187}{}{De acuerdo. Antes de que entres, tengo que revisar tus pertenencias.}
 {188}{}{Eh, está bien.}
 {189}{}{¿Para qué?}
@@ -95,7 +95,7 @@
 {194}{}{Lo siento. Ya me marcho.}
 {195}{}{Oh, así que AHORA eres un Ciudadano, ¿eh? ¿Igual que la última vez? Dame esos "documentos de Ciudadanía" y lárgate de aquí.}
 {196}{}{¿Quieres los documentos? ¡Ven a por ellos!}
-{197}{}{Está bien, está bien.}
+{197}{}{De acuerdo, de acuerdo.}
 {198}{}{Ve a hablar con Wallace, el Jefe de Aduana. Ahora, déjame.}
 {199}{}{Está bien. Adiós.}
 {200}{}{Sí, tienes un pase de DÍA. ¿Te parece que es de día? Lárgate.}
@@ -106,7 +106,7 @@
 {204}{}{Entonces olvídalo. No necesito entrar en Ciudad Refugio siendo maltratado.}
 {205}{}{Lo siento, no se permite entrar disponiendo de estos artículos. Las drogas y el alcohol no están permitidos en Ciudad
  Refugio. Deshazte de ellos y regresa, ¿de acuerdo?}
-{206}{}{Vale.}
+{206}{}{De acuerdo.}
 {207}{}{Muy bien, parece que estás limpio. Puedes entrar.}
 {208}{}{Gracias.}
 {209}{}{Sí. Vooy}

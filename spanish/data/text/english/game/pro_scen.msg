@@ -1,6 +1,3 @@
-#Pro Scen: Objetos de escenario, nombres y descripciones. 
-#he corregido un par de llaves sin cerrar que provocaban cuelgues - Wenck. 
-
 {100}{}{Barril metálico con fuego}
 {101}{}{El barril contiene papel y otra basura ardiendo.}
 {200}{}{Puerta de madera}
@@ -9,9 +6,9 @@
 {301}{}{Una mesa, hecha de madera.}
 {400}{}{Mesa de madera}
 {401}{}{Una mesa, hecha de madera.}
-{500}{}{Barril de metal}
+{500}{}{Barril metálico}
 {501}{}{Un viejo barril, hecho de acero.}
-{600}{}{Barril de metal}
+{600}{}{Barril metálico}
 {601}{}{Un viejo barril, hecho de acero.}
 {700}{}{Montón de llantas}
 {701}{}{Un montón de viejas llantas de caucho. Están vulcanizadas y endurecidas, probablemente por el calor.}
@@ -39,9 +36,9 @@
 {1801}{}{Tras inspeccionarla, sigue siendo una puerta.}
 {1900}{}{Puerta}
 {1901}{}{Tras inspeccionarla, sigue siendo una puerta.}
-{2000}{}{Conducto de ventilación}
+{2000}{}{Vent}
 {2001}{}{Un conducto de ventilación. Abastece, procesa y limpia el aire de todo el complejo.}
-{2100}{}{Conducto de ventilación}
+{2100}{}{Vent}
 {2101}{}{Un conducto de ventilación. Abastece, procesa y limpia el aire de todo el complejo.}
 {2200}{}{Puerta del Refugio 13}
 {2201}{}{Una puerta pesada, construida para resistir todo tipo de daño y trauma.}
@@ -52,20 +49,20 @@
 {2500}{}{Monitor}
 {2501}{}{Cuando has visto un monitor, los has visto a todos.}
 {2600}{}{Monitor}
-{2601}{}{Un monitor de computadora.}
+{2601}{}{Un monitor de computadora, mostrando diversos bits de datos.}
 {2700}{}{Enrejado}
 {2701}{}{Un suelo enrejado.}
 {2800}{}{Tuberías}
 {2801}{}{Algunas tuberías.}
-{2900}{}{Conducto de ventilación}
+{2900}{}{Vent}
 {2901}{}{Un sistema de ventilación estándar Vault-Tec.}
 {3000}{}{Columna}
 {3001}{}{Un sistema de columna de soporte estándar Vault-Tec.}
 {3100}{}{Columna}
 {3101}{}{Un sistema de columna de soporte estándar Vault-Tec.}
-{3200}{}{Conducto de ventilación}
+{3200}{}{Vent}
 {3201}{}{Un sistema de ventilación estándar Vault-Tec.}
-{3300}{}{Conducto de ventilación}
+{3300}{}{Vent}
 {3301}{}{Un sistema de ventilación estándar Vault-Tec.}
 {3400}{}{Cama}
 {3401}{}{Una cama, ha resultado bastante confortable tras haber dormido en ella.}
@@ -75,16 +72,16 @@
 {3601}{}{Una cama común. Parece cómoda.}
 {3700}{}{Cama}
 {3701}{}{Una cama común. Parece cómoda.}
-{3800}{}{Elevador}
+{3800}{}{Ascensor}
 {3801}{}{Esto es un elevador.}
 {3900}{}{Silla}
-{3901}{}{Es una silla. Lástima que no tengas tiempo para sentarte y descansar.}
+{3901}{}{Es una silla. Por desgracia no tienes tiempo para sentarte y relajarte.}
 {4000}{}{Silla}
-{4001}{}{Es una silla. Lástima que no tengas tiempo para sentarte y descansar.}
-{4100}{}{Silla.}
-{4101}{}{Es una silla. Lástima que no tengas tiempo para sentarte y descansar.}
-{4200}{}{Silla.}
-{4201}{}{Es una silla. Lástima que no tengas tiempo para sentarte y descansar.}
+{4001}{}{Es una silla. Por desgracia no tienes tiempo para sentarte y relajarte.}
+{4100}{}{Silla}
+{4101}{}{Es una silla. Por desgracia no tienes tiempo para sentarte y relajarte.}
+{4200}{}{Silla}
+{4201}{}{Es una silla. Por desgracia no tienes tiempo para sentarte y relajarte.}
 {4300}{}{Monitor}
 {4301}{}{Un monitor de computadora, mostrando diversos bits de datos.}
 {4400}{}{Monitor}
@@ -113,13 +110,13 @@
 {5501}{}{Esta unidad de videopantalla tiene diversos monitores de computadora y otras pantallas. Parece estar ejecutando muchas tareas.}
 {5600}{}{Videopantalla}
 {5601}{}{Esta unidad de videopantalla tiene diversos monitores de computadora y otras pantallas. Parece estar ejecutando muchas tareas.}
-{5700}{}{Sillón}
+{5700}{}{Silla}
 {5701}{}{Es un sillón. Parece muy confortable.}
-{5800}{}{Sillón}
+{5800}{}{Silla}
 {5801}{}{Es un sillón. Parece muy confortable.}
-{5900}{}{Sillón}
+{5900}{}{Silla}
 {5901}{}{Es un sillón. Parece muy confortable.}
-{6000}{}{Sillón}
+{6000}{}{Silla}
 {6001}{}{Es un sillón. Parece muy confortable.}
 {6100}{}{Mesa}
 {6101}{}{Es una mesa. Antes de que las mesas existieran, la gente tenía que poner sus cosas en el suelo.}
@@ -134,8 +131,8 @@
 {6600}{}{Árbol}
 {6601}{}{Un árbol muerto. Nada crece bien aquí.}
 {6700}{}{Un Hechizo Secreto de Bloqueo.}
-{6701}{}{Si estás viendo esto, culpa al diseñador técnico.}
-{6800}{}{Escalones}
+{6701}{}{Si estás viendo esto, maldice al diseñador técnico.}
+{6800}{}{Escaleras}
 {6801}{}{Un conjunto de escalones.}
 {6900}{}{Estalagmita}
 {6901}{}{Una extensión natural del suelo rocoso.}
@@ -153,12 +150,12 @@
 {7501}{}{Mantienes un ojo sobre estas rocas, por si acaso se mueven y te atacan.}
 {7600}{}{Auto Muro Piso}
 {7601}{}{REMOVIDO}
-{7700}{}{Entrada}
-{7701}{}{Una entrada de madera.}
+{7700}{}{Puerta}
+{7701}{}{Entrada de madera.}
 {7800}{}{Rocas}
 {7801}{}{Una gran montón de rocas. Parecen autóctonas de esta región.}
 {7900}{}{Rocas}
-{7901}{}{Una pequeño montón de rocas.}
+{7901}{}{Un pequeño montón de rocas.}
 {8000}{}{Rocas}
 {8001}{}{Un pequeño montón de rocas.}
 {8100}{}{Rocas}
@@ -173,11 +170,11 @@
 {8501}{}{Crees que pueden ser huesos de un Canguro Cornudo, pero no puedes estar seguro. Están muy deteriorados como para una inspección definitiva.}
 {8600}{}{Huesos}
 {8601}{}{Ves los huesos de una gran vaca de dos cabezas.}
-{8700}{}{Entrada}
+{8700}{}{Puerta}
 {8701}{}{Una entrada de madera. Se abre y se cierra, se abre y se cierra, y...}
-{8800}{}{Entrada}
-{8801}{}{Una entrada de madera.}
-{8900}{}{Entrada}
+{8800}{}{Puerta}
+{8801}{}{Entrada de madera.}
+{8900}{}{Puerta}
 {8901}{}{Entrada de madera.}
 {9000}{}{Rocas}
 {9001}{}{Un gran montón de rocas. Parece peligroso sentarse ahí.}
@@ -187,15 +184,15 @@
 {9201}{}{¡Rocas, rocas, rocas! ¡Mires donde mires, rocas!}
 {9300}{}{Rocas}
 {9301}{}{Un pequeño montón de rocas.}
-{9400}{}{Bar}
+{9400}{}{Barra}
 {9401}{}{Este bar cuenta con una colección de cervezas listas para servir.}
-{9500}{}{Sillón}
+{9500}{}{Silla}
 {9501}{}{Un viejo sillón podrido fabricado a partir de un antiguo asiento de coche.}
-{9600}{}{Sillón}
+{9600}{}{Silla}
 {9601}{}{Un apestoso y viejo sillón que solía ser un asiento de coche. Los muelles ya no lo hacen mullido.}
-{9700}{}{Sillón}
+{9700}{}{Silla}
 {9701}{}{Un podrido y apestoso sillón viejo posado sobre ladrillos para sostenerlo. Parece muy incómodo.}
-{9800}{}{Sillón}
+{9800}{}{Silla}
 {9801}{}{Un podrido y apestoso sillón viejo posado sobre ladrillos para sostenerlo. Parece muy incómodo.}
 {9900}{}{Sofá}
 {9901}{}{Un artefacto para sentarse muy incómodo que solía ser un sofá.}
@@ -211,43 +208,43 @@
 {10401}{}{Algún tipo de hierba del desierto.}
 {10500}{}{Arbusto}
 {10501}{}{Algún tipo de hierba del desierto.}
-{10600}{}{Chatarra}
+{10600}{}{Basura}
 {10601}{}{Una oxidada puerta de coche recostada sobre un barril de metal.}
-{10700}{}{Chatarra}
+{10700}{}{Basura}
 {10701}{}{Un inodoro roto, medio sepultado en la arena. La vida es orinar, luego morir.}
 {10800}{}{Hierbas}
 {10801}{}{Algún tipo de maleza del desierto. Si estuvo creciendo en el pasado reciente, ahora no lo hace.}
-{10900}{}{Chatarra}
+{10900}{}{Basura}
 {10901}{}{Un neumático de coche, sepultado en la arena. Hay algunos trozos de madera amontonados alrededor.}
 {11000}{}{Rocas}
 {11001}{}{Al examinarlas más de cerca, te parece que en realidad pueden ser trozos de madera petrificada.}
-{11100}{}{Basura}
+{11100}{}{Tierra}
 {11101}{}{Un pequeño montón de basura, con hierba muerta adherida a él.}
-{11200}{}{Basura}
+{11200}{}{Tierra}
 {11201}{}{Un pequeño montón de basura.}
-{11300}{}{Basura}
+{11300}{}{Tierra}
 {11301}{}{Un pequeño montón de basura.}
-{11400}{}{Basura}
+{11400}{}{Tierra}
 {11401}{}{Un pequeño montón de basura.}
 {11500}{}{Hierbas}
 {11501}{}{Un pequeño montón de basura, con hierba seca adherida a él.}
-{11600}{}{Chatarra}
+{11600}{}{Basura}
 {11601}{}{Una pieza retorcida de metal oxidado.}
-{11700}{}{Chatarra}
+{11700}{}{Basura}
 {11701}{}{Algunos trozos rotos de madera.}
-{11800}{}{Chatarra}
+{11800}{}{Basura}
 {11801}{}{Un pequeño montón de chatarra variada.}
-{11900}{}{Basura}
+{11900}{}{Tierra}
 {11901}{}{Un pequeño montón de basura.}
-{12000}{}{Basura}
+{12000}{}{Tierra}
 {12001}{}{Un pequeño montón de basura.}
-{12100}{}{Basura}
+{12100}{}{Tierra}
 {12101}{}{Un pequeño montón de basura.}
-{12200}{}{Basura}
+{12200}{}{Tierra}
 {12201}{}{Un pequeño montón de basura.}
-{12300}{}{Basura}
+{12300}{}{Tierra}
 {12301}{}{Un pequeño montón de basura.}
-{12400}{}{Basura}
+{12400}{}{Tierra}
 {12401}{}{Un pequeño montón de basura.}
 {12500}{}{Hierbas}
 {12501}{}{Maleza común del desierto.}
@@ -256,12 +253,12 @@
 {12700}{}{Hierbas}
 {12701}{}{Maleza común del desierto.}
 {12800}{}{Un rectángulo codificado}
-{12900}{}{Pared}
-{13000}{}{Pared}
-{13100}{}{Pared}
-{13200}{}{Pared}
-{13300}{}{Pared}
-{13400}{}{Pared}
+{12900}{}{Muro}
+{13000}{}{Muro}
+{13100}{}{Muro}
+{13200}{}{Muro}
+{13300}{}{Muro}
+{13400}{}{Muro}
 {13500}{}{Alcantarilla}
 {13501}{}{Alguna clase de fétido y repugnante olor procede de esta alcantarilla. Pasado un rato, ya no huele tan mal.}
 {13600}{}{Alcantarilla}
@@ -301,33 +298,33 @@
 {15301}{}{Esta puerta está marcada con un símbolo de la Hermandad del Acero.}
 {15400}{}{Puerta}
 {15401}{}{Esta puerta está marcada con un símbolo de la Hermandad del Acero.}
-{15500}{}{Elevador}
+{15500}{}{Ascensor}
 {15501}{}{Este es el interior del elevador de la Hermandad. ¡Está tan limpio que cruje!}
-{15600}{}{Elevador}
+{15600}{}{Ascensor}
 {15601}{}{Este es el interior del elevador de la Hermandad. ¡Está tan limpio que cruje!}
 {15700}{}{Marca}
 {15701}{}{Este es el símbolo de la Hermandad del Acero. Esta marca le dice al Yermo que es su territorio, y que hay que marcharse inmediatamente.}
 {15800}{}{Monitor}
-{15801}{}{Ves un monitor de computadora. Está construido con tecnología de la Hermandad.}
+{15801}{}{Ves una computadora.}
 {15900}{}{Monitor}
-{15901}{}{Ves un monitor de computadora. Está construido con tecnología de la Hermandad.}
+{15901}{}{Ves una computadora.}
 {16000}{}{Computadora}
-{16001}{}{Esto es un banco de datos de memoria computerizado. Obviamente es tecnología de la Hermandad.}
+{16001}{}{Esto es una computadora. Está obviamente dañada.}
 {16100}{}{Computadora}
-{16101}{}{Esto es un banco de datos de memoria computerizado. Obviamente es tecnología de la Hermandad.}
+{16101}{}{Esto es una computadora. Está obviamente dañada.}
 {16200}{}{Computadora}
 {16201}{}{Una computadora de alta tecnología. Usa un moderno dispositivo de almacenamiento de bobina magnética en lugar del anticuado sistema de tarjetas perforadas.}
 {16300}{}{Computadora}
 {16301}{}{Una computadora de alta tecnología. Usa un moderno dispositivo de almacenamiento de bobina magnética en lugar del anticuado sistema de tarjetas perforadas.}
 {16400}{}{Monitor}
-{16401}{}{Ves un monitor de computadora. Está construido con tecnología de la Hermandad.}
+{16401}{}{Ves una computadora.}
 {16500}{}{Monitor}
-{16501}{}{Ves un monitor de computadora. Está construido con tecnología de la Hermandad.}
-{16600}{}{Cableado}
+{16501}{}{Ves una computadora.}
+{16600}{}{Cable}
 {16601}{}{Algún tipo de cableado de computadora.}
-{16700}{}{Cableado}
+{16700}{}{Cable}
 {16701}{}{Algún tipo de cableado de computadora.}
-{16800}{}{Cableado}
+{16800}{}{Cable}
 {16801}{}{Algún tipo de cableado de computadora.}
 {16900}{}{Columna}
 {16901}{}{Una columna de soporte.}
@@ -335,24 +332,24 @@
 {17001}{}{Una columna de soporte.}
 {17100}{}{Computadora de acceso}
 {17101}{}{Esta computadora controla la puerta de acceso al Refugio. Necesitas introducir un código de acceso específico para que la computadora funcione.}
-{17200}{}{Cartel del casino}
+{17200}{}{Cartel de Casino}
 {17201}{}{Parece publicidad del Casino de Gizmo.}
 {17300}{}{Puerta exterior del Refugio 13}
 {17301}{}{Esta gran puerta es el vínculo entre el Refugio y el mundo exterior.}
 {17400}{}{Puerta exterior del Refugio 13}
 {17401}{}{Esta gran puerta es el vínculo entre el Refugio y el mundo exterior.}
-{17500}{}{Cartel del casino}
+{17500}{}{Cartel de Casino}
 {17501}{}{Esta parte del cartel contiene un motor eléctrico que hace girar lentamente la sección del neón.}
 {17600}{}{Flecha abajo}
 {17700}{}{Flecha arriba}
-{17800}{}{Caja de embalaje}
-{17900}{}{Caja de embalaje}
-{18000}{}{Caja de embalaje}
+{17800}{}{Embalaje}
+{17900}{}{Embalaje}
+{18000}{}{Embalaje}
 {18100}{}{Parte superior de elevador}
 {18101}{}{Estás viendo una parte de un elevador.}
-{18200}{}{Consola de computadora}
+{18200}{}{Consola de Computadora}
 {18201}{}{Esto es un terminal remoto, conectado por cable a una computadora principal. Es tecnología de la Hermandad.}
-{18300}{}{Consola de computadora}
+{18300}{}{Consola de Computadora}
 {18301}{}{Esto es un terminal remoto, conectado por cable a una computadora principal. Es tecnología de la Hermandad.}
 {18400}{}{Emblema}
 {18401}{}{El símbolo de la Hermandad. La rueda representa su conocimiento en ingeniería, la espada es su voluntad de defenderse a sí mismos, y las alas son la esperanza de fortalecimiento.}
@@ -372,13 +369,13 @@
 {19101}{}{Una litera de estilo militar. Parece muy incómoda. También parece que una moneda rebotaría en sus sábanas.}
 {19200}{}{Litera}
 {19201}{}{Una litera de estilo militar. Parece muy incómoda. También parece que una moneda rebotaría en sus sábanas.}
-{19300}{}{Caja de embalaje}
+{19300}{}{Embalaje}
 {19400}{}{Máquina de Nuka-Cola}
 {19401}{}{El anuncio del lateral de la máquina promociona su popular soda.}
-{19500}{}{Pared}
+{19500}{}{Muro}
 {19600}{}{Trampilla}
 {19601}{}{Parece una trampilla en perfectas condiciones.}
-{19700}{}{Boca de alcantarilla}
+{19700}{}{Pozo}
 {19701}{}{La escalera de esta alcantarilla conduce hacia la oscuridad de abajo. Ohhh, qué espeluznante.}
 {19800}{}{Altar}
 {19801}{}{Esto es un altar.}
@@ -426,66 +423,66 @@
 {22201}{}{Te sobra el tiempo para observar de cerca esta basura podrida.}
 {22300}{}{Cajas}
 {22301}{}{Estas cajas de madera se están deteriorando por las condiciones ambientales.}
-{22400}{}{Automóvil}
+{22400}{}{Coche}
 {22401}{}{Este automóvil tiene una pinta terrible. No crees que haya forma de repararlo.}
-{22500}{}{Automóvil}
+{22500}{}{Coche}
 {22501}{}{Esta oxidada pieza de metal hecha polvo no puede repararse.}
-{22600}{}{Automóvil}
+{22600}{}{Coche}
 {22601}{}{Concluyes que este vehículo no volverá a poder conducirse. Ni de broma.}
-{22700}{}{Automóvil}
+{22700}{}{Coche}
 {22701}{}{No hay forma de que esta chatarra pueda volver a poder conducirse de nuevo.}
-{22800}{}{Automóvil}
+{22800}{}{Coche}
 {22801}{}{Si el Mecánico del Año apareciera a tu lado, los dos juntos no podríais reparar esta chatarra oxidada.}
-{22900}{}{Sillón}
+{22900}{}{Silla}
 {22901}{}{Un cómodo sillón.}
-{23000}{}{Sillón}
+{23000}{}{Silla}
 {23001}{}{Este sillón parece que tuvo días mejores.}
-{23100}{}{Sillón}
+{23100}{}{Silla}
 {23101}{}{Este sillón está mohoso y grasiento. Y por lo que puedes apreciar, también apesta.}
-{23200}{}{Sillón}
+{23200}{}{Silla}
 {23201}{}{Este sillón se está deteriorando. Rápidamente.}
-{23300}{}{Sillón}
+{23300}{}{Silla}
 {23301}{}{Si alguien te pagara mucho dinero, y pudieras usar ropa interior de acero, podrías considerar el sentarte en este sillón.}
-{23400}{}{Sillón}
+{23400}{}{Silla}
 {23401}{}{Parece un viejo sillón de oficina, y aún se conserva en buen estado después de tantos años.}
-{23500}{}{Sillón}
+{23500}{}{Silla}
 {23501}{}{Parece un viejo sillón de oficina. Incluso puede soportar el peso de una persona.}
-{23600}{}{Sillón}
+{23600}{}{Silla}
 {23601}{}{Este sillón de oficina parece que tuvo días mejores. Ahora es básicamente basura.}
-{23700}{}{Sillón}
+{23700}{}{Silla}
 {23701}{}{Parece lo que podrías ver en la oficina de un sepulturero: algo muerto.}
 {23800}{}{Escritorio}
 {23900}{}{Escritorio}
-{24000}{}{Tocador}
-{24100}{}{Tocador}
-{24200}{}{Tocador}
+{24000}{}{Vestidor}
+{24100}{}{Vestidor}
+{24200}{}{Vestidor}
 {24300}{}{Boca de incendios}
 {24301}{}{Esta es una boca de incendios. Sin rociadores de techo como los del Refugio, podría hacerte falta una para apagar un fuego.}
-{24400}{}{Farola}
+{24400}{}{Poste de luz}
 {24401}{}{Esta farola parece que sigue en condiciones de funcionar. Imagina, por aquí hay algo que funciona.}
-{24500}{}{Farola}
+{24500}{}{Poste de luz}
 {24501}{}{Esta farola nunca volverá a funcionar.}
-{24600}{}{Farola}
+{24600}{}{Poste de luz}
 {24601}{}{Esta es una farola funcional. Por la noche, proyecta una luz pálida y suave que te recuerda absolutamente nada.}
-{24700}{}{Farola}
+{24700}{}{Poste de luz}
 {24701}{}{Esta farola está rota. No se puede reparar.}
-{24800}{}{Farola}
+{24800}{}{Poste de luz}
 {24801}{}{Esta farola funciona.}
-{24900}{}{Farola}
+{24900}{}{Poste de luz}
 {24901}{}{La bombilla de esta farola no se puede reparar.}
-{25000}{}{Farola}
+{25000}{}{Poste de luz}
 {25001}{}{Esta es una farola funcional.}
 {25100}{}{Puerta}
 {25101}{}{La cerradura de esta puerta se ha atascado y las barras tienen un aspecto muy robusto.}
-{25200}{}{Chatarra}
+{25200}{}{Basura}
 {25201}{}{Definitivamente, chatarra sin valor, sin duda.}
-{25300}{}{Chatarra}
+{25300}{}{Basura}
 {25301}{}{Definitivamente, chatarra sin valor, sin duda.}
-{25400}{}{Chatarra}
+{25400}{}{Basura}
 {25401}{}{Definitivamente, chatarra sin valor, sin duda.}
-{25500}{}{Chatarra}
+{25500}{}{Basura}
 {25501}{}{Definitivamente, chatarra sin valor, sin duda.}
-{25600}{}{Chatarra}
+{25600}{}{Basura}
 {25601}{}{Definitivamente, chatarra sin valor, sin duda.}
 {25700}{}{Buzón de correos}
 {25701}{}{Este buzón de correos está vacío. Tienes la impresión de que lleva así mucho tiempo.}
@@ -532,7 +529,7 @@
 {27800}{}{Rocas}
 {27900}{}{Rocas}
 {28000}{}{Rocas}
-{28100}{}{Cascotes}
+{28100}{}{Escombro}
 {28101}{}{Un pequeño montón de escombros y rocas. ¡Cuidado con dónde pisas!}
 {28200}{}{Lavabo}
 {28201}{}{Un lavabo de porcelana que ha perdido la habilidad de funcionar.}
@@ -561,14 +558,14 @@
 {29400}{}{Farola}
 {29401}{}{Esta farola ofrece iluminación al caer la noche, o en áreas oscuras.}
 {29500}{}{Farola}
-{29501}{}{Esta farola podría ofrecer iluminación al caer la noche, si no estuviera rota.}
+{29501}{}{Esta farola ofrecer iluminación al caer la noche, si no estuviera rota.}
 {29600}{}{Farola}
-{29601}{}{Esta farola podría ofrecer iluminación al caer la noche, si no estuviera rota.}
+{29601}{}{Esta farola ofrecer iluminación al caer la noche, si no estuviera rota.}
 {29700}{}{Farola}
 {29701}{}{Esta farola ofrecer iluminación al caer la noche, si no estuviera rota.}
-{29800}{}{Señal}
-{29801}{}{Esta señal debería indicar en qué calle te encuentras, pero sus letras están desdibujadas.}
-{29900}{}{Señal}
+{29800}{}{Poste indicador}
+{29801}{}{Este señal debería indicar en qué calle te encuentras, pero sus letras están desdibujadas.}
+{29900}{}{Poste indicador}
 {29901}{}{Este señal debería indicar en qué calle te encuentras, pero sus letras están desdibujadas.}
 {30000}{}{Mesa}
 {30001}{}{Una mesa de madera, en condiciones regulares.}
@@ -584,13 +581,13 @@
 {30501}{}{Parece una antigua mesa de café, rebajada en altura para los mutantes realmente bajitos.}
 {30600}{}{Mesa}
 {30601}{}{Parece una antigua mesa de café, rebajada en altura para los mutantes realmente bajitos.}
-{30700}{}{Inodoro}
+{30700}{}{Excusado}
 {30701}{}{El afilado borde del asiento lo hace un lugar muy incómodo en el que sentarse.}
-{30800}{}{Inodoro}
+{30800}{}{Excusado}
 {30801}{}{Este inodoro está roto.}
-{30900}{}{Inodoro}
+{30900}{}{Excusado}
 {30901}{}{¡Agh! ¡Quienquiera que haya usado esto por última vez no lo limpió!}
-{31000}{}{Inodoro}
+{31000}{}{Excusado}
 {31001}{}{Este inodoro está roto y desde luego no lo usarías si fueras mujer.}
 {31100}{}{Basura}
 {31101}{}{Unas tuberías medio hundidas en la mugre. Nada importante para ver. A seguir.}
@@ -620,22 +617,22 @@
 {32501}{}{Esta bañera está rota y agrietada.}
 {32600}{}{Bañera}
 {32601}{}{Al mirarla de cerca, aceptas que no te bañarás nunca en ella.}
-{32700}{}{Urinario}
+{32700}{}{Inodoro}
 {32701}{}{Sólo es un urinario.}
-{32800}{}{Urinario}
+{32800}{}{Inodoro}
 {32801}{}{Sólo es un urinario.}
-{32900}{}{Urinario}
+{32900}{}{Inodoro}
 {32901}{}{Sólo es un urinario. Nada especial.}
-{33000}{}{Urinario}
+{33000}{}{Inodoro}
 {33001}{}{Sólo es un urinario. Nada especial.}
-{33100}{}{Depósito de agua}
+{33100}{}{Tanque de agua}
 {33101}{}{Un gran depósito contenedor de líquidos. En este caso, crees que lo diseñaron para almacenar agua.}
 {33200}{}{Puerta}
 {33201}{}{Una puerta de madera. Nada interesante.}
 {33300}{}{Puerta}
 {33301}{}{Una puerta de madera. Ofrece entrada y salida a este edificio.}
 {33400}{}{Farol de pared}
-{33401}{}{Parece que este farol funciona en perfecto estado.}
+{33401}{}{Parece que este farol está en buen estado.}
 {33500}{}{Farol de pared}
 {33501}{}{Un farol roto. No es una sorpresa que no funcione.}
 {33600}{}{Farol de pared}
@@ -679,13 +676,13 @@
 {35501}{}{Estas escaleras conducen hacia arriba.}
 {35600}{}{Escaleras}
 {35601}{}{Estas escaleras conducen hacia abajo.}
-{35700}{}{Pared}
+{35700}{}{Muro}
 {35701}{}{Estas mirando al exterior de la catedral.}
-{35800}{}{Pared}
+{35800}{}{Muro}
 {35801}{}{Estas mirando al exterior de la catedral.}
-{35900}{}{Pared}
+{35900}{}{Muro}
 {35901}{}{Estas mirando al exterior de la catedral.}
-{36000}{}{Pared}
+{36000}{}{Muro}
 {36001}{}{Estas mirando al exterior de la catedral.}
 {36100}{}{Cortina}
 {36101}{}{Esta cortina parece que fue creada por medios primitivos, pero es muy funcional.}
@@ -697,17 +694,17 @@
 {36401}{}{Una vasija de madera artesanal.}
 {36500}{}{Olla}
 {36501}{}{Una olla artesanal.}
-{36600}{}{Planta}
+{36600}{}{Plantas}
 {36601}{}{Parece un repollo mutado. Tiene pinta de que prospera en agua caliente.}
-{36700}{}{Planta}
+{36700}{}{Plantas}
 {36701}{}{Parece un repollo mutado. Tiene pinta de que prospera en agua caliente.}
 {36800}{}{Carretilla}
 {36801}{}{Una tosca pero efectiva carretilla agrícola.}
-{36900}{}{Planta}
+{36900}{}{Plantas}
 {36901}{}{Trigo mutado. Parece que prospera bajo estas condiciones.}
-{37000}{}{Planta}
+{37000}{}{Plantas}
 {37001}{}{Trigo mutado. Parece que prospera bajo estas condiciones.}
-{37100}{}{Planta}
+{37100}{}{Plantas}
 {37101}{}{Trigo mutado. Parece que prospera bajo estas condiciones.}
 {37200}{}{Olla}
 {37201}{}{Una olla artesanal.}
@@ -747,7 +744,7 @@
 {38901}{}{Este palo ayuda a soportar la tienda.}
 {39000}{}{Puerta del Refugio}
 {39001}{}{Esta puerta del Refugio ahora no es más que una gran pieza de metal achatarrado.}
-{39100}{}{Pared}
+{39100}{}{Muro}
 {39101}{}{El mecanismo de apertura de la pesada puerta del Refugio está dañado y es irreparable.}
 {39200}{}{Puntal}
 {39201}{}{Este puntal ayuda a soportar la pared defensiva.}
@@ -765,13 +762,13 @@
 {39801}{}{Estos barriles están probablemente vacíos, porque suenan a hueco.}
 {39900}{}{Barriles metálicos}
 {39901}{}{Estos barriles están probablemente vacíos, porque suenan a hueco.}
-{40000}{}{Conducto de ventilación}
+{40000}{}{Respiradero}
 {40001}{}{Este conducto de ventilación parece formar parte de una estructura subterránea.}
-{40100}{}{Caja}
+{40100}{}{Embalaje}
 {40101}{}{Una caja de madera. No parece estar muy mal.}
-{40200}{}{Caja}
+{40200}{}{Embalaje}
 {40201}{}{Una simple caja de madera. Casi en perfectas condiciones.}
-{40300}{}{Caja}
+{40300}{}{Embalaje}
 {40301}{}{Esta simple caja ha colapsado por su propio peso.}
 {40400}{}{Escritorio}
 {40401}{}{Un simple escritorio con una computadora.}
@@ -779,13 +776,13 @@
 {40501}{}{Un simple escritorio con una computadora.}
 {40600}{}{Puerta}
 {40601}{}{Una puerta de madera, en un buen estado.}
-{40700}{}{Caverna}
+{40700}{}{Derrumbamiento}
 {40701}{}{Una gran cantidad de rocas, muchas más de las que podrías mover en tu vida.}
-{40800}{}{Automóvil}
+{40800}{}{Coche}
 {40801}{}{Este automóvil sumergido no se puede reparar.}
-{40900}{}{Automóvil}
+{40900}{}{Coche}
 {40901}{}{Este automóvil está ligeramente empapado, y no se puede reparar.}
-{41000}{}{Automóvil}
+{41000}{}{Coche}
 {41001}{}{Este automóvil estaba bastante mal estacionado. Desafortunadamente, es irreparable.}
 {41100}{}{Basura}
 {41101}{}{Esta basura ha sido arruinada por el agua contaminada del mar.}
@@ -795,7 +792,7 @@
 {41301}{}{Una selección de primera calidad de basura sin valor.}
 {41400}{}{Tuberías}
 {41401}{}{Estas tuberías se usaron para transferir gasolina desde el depósito subterráneo al garaje. No han sido usadas en años.}
-{41500}{}{Tuberías}
+{41500}{}{Tubería}
 {41501}{}{Estas tuberías se usaron para transferir gasolina desde el depósito subterráneo al garaje. No han sido usadas en años.}
 {41600}{}{Tuberías}
 {41601}{}{Estas tuberías se usaron para transferir gasolina desde el depósito subterráneo al garaje. No han sido usadas en años.}
@@ -811,7 +808,7 @@
 {42101}{}{Este puerta conduce al ascensor. Si quieres usar el ascensor, primero debes abrir esta puerta.}
 {42200}{}{Tubería}
 {42201}{}{Una tubería de metal. Los demás detalles no son importantes.}
-{42300}{}{Basura}
+{42300}{}{Tierra}
 {42400}{}{Caja}
 {42500}{}{Caja}
 {42600}{}{Caja}
@@ -854,42 +851,42 @@
 {44501}{}{Un complejo de algún tipo. No estás seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
 {44600}{}{Cubas}
 {44601}{}{Un complejo de algún tipo. No estás seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
-{44700}{}{Pared}
+{44700}{}{Muro}
 {44800}{}{Puerta}
 {44801}{}{Una puerta de seguridad. Parece pesadamente blindada.}
 {44900}{}{Cabeza nuclear}
 {45000}{}{Pozo}
 {45001}{}{Un típico pozo encontrado en el Yermo.}
 {45100}{}{Mesa de juego}
-{45101}{}{Esto es una mesa de juegos.}
+{45101}{}{Esta es una mesa de juegos.}
 {45200}{}{Mesa de juego}
-{45201}{}{Esto es una mesa de juegos.}
+{45201}{}{Esta es una mesa de juegos.}
 {45300}{}{Mesa de juego}
-{45301}{}{Esto es una mesa de juegos.}
+{45301}{}{Esta es una mesa de juegos.}
 {45400}{}{Mesa de juego}
-{45401}{}{Esto es una mesa de juegos.}
+{45401}{}{Esta es una mesa de juegos.}
 {45500}{}{Mesa de juego}
-{45501}{}{Esto es una mesa de juegos.}
+{45501}{}{Esta es una mesa de juegos.}
 {45600}{}{Mesa de juego}
-{45601}{}{Esto es una mesa de juegos.}
+{45601}{}{Esta es una mesa de juegos.}
 {45700}{}{Mesa de juego}
-{45701}{}{Esto es una mesa de juegos.}
+{45701}{}{Esta es una mesa de juegos.}
 {45800}{}{Mesa de juego}
-{45801}{}{Esto es una mesa de juegos.}
+{45801}{}{Esta es una mesa de juegos.}
 {45900}{}{Mesa de juego}
-{45901}{}{Esto es una mesa de juegos.}
+{45901}{}{Esta es una mesa de juegos.}
 {46000}{}{Mesa de juego}
-{46001}{}{Esto es una mesa de juegos.}
+{46001}{}{Esta es una mesa de juegos.}
 {46100}{}{Roca}
 {46101}{}{Una pequeña roca, sin importancia alguna en el contexto de esta historia.}
 {46200}{}{Roca}
 {46300}{}{Roca}
 {46400}{}{Roca}
-{46500}{}{Máquina tragaperras}
+{46500}{}{Tragaperras}
 {46501}{}{Esto es una máquina tragaperras.}
-{46600}{}{Máquina tragaperras}
+{46600}{}{Tragaperras}
 {46601}{}{Esto es una máquina tragaperras.}
-{46700}{}{Entrada}
+{46700}{}{Puerta}
 {46800}{}{Ascensor}
 {46900}{}{Ascensor}
 {47000}{}{Puerta del ascensor}
@@ -964,12 +961,12 @@
 {50801}{}{Un simple altar hecho de madera pintada.}
 {50900}{}{Escombro}
 {50901}{}{Una colapsada sección del techo ha formado este montón de escombros. Tu soga conduce a la superficie.}
-{51000}{}{Estante de libros}
-{51100}{}{Estante de libros}
-{51200}{}{Estante de libros}
-{51300}{}{Estante de libros}
-{51400}{}{Estante de libros}
-{51500}{}{Estante de libros}
+{51000}{}{Estantería}
+{51100}{}{Estantería}
+{51200}{}{Estantería}
+{51300}{}{Estantería}
+{51400}{}{Estantería}
+{51500}{}{Estantería}
 {51600}{}{Mesa}
 {51601}{}{Esta mesa grande parece importante. ¿Quizá hayan mantenido reuniones aquí?}
 {51700}{}{Mesa}
@@ -1012,7 +1009,7 @@
 {53501}{}{Una colchoneta de entrenamiento.}
 {53600}{}{Colchoneta}
 {53601}{}{Una colchoneta de entrenamiento.}
-{53700}{}{Saco de arena}
+{53700}{}{Saco}
 {53701}{}{Saco de arena Fortachón(TM).}
 {53800}{}{Escalera móvil}
 {53801}{}{Una máquina de ejercicios.}
@@ -1091,11 +1088,11 @@
 {57601}{}{Una buena vista del cementerio desde este nivel de la torre. Tienes una agradable sensación por la altura a la que estás.}
 {57700}{}{Suelo}
 {57701}{}{Una buena vista del cementerio desde este nivel de la torre.}
-{57800}{}{Pared}
+{57800}{}{Muro}
 {57801}{}{Una buena vista de las afueras de la Catedral.}
-{57900}{}{Pared}
+{57900}{}{Muro}
 {57901}{}{Una buena vista de las afueras de la Catedral.}
-{58000}{}{Pared}
+{58000}{}{Muro}
 {58001}{}{Una buena vista de las afueras de la Catedral.}
 {58100}{}{Puerta}
 {58101}{}{Una puerta que parece en su sitio.}
@@ -1127,7 +1124,7 @@
 {59401}{}{La mesa de metal está cubierta por algún tipo de biomasa.}
 {59500}{}{Mesa}
 {59501}{}{La mesa de metal está cubierta por algún tipo de biomasa.}
-{59600}{}{Tablón de noticias}
+{59600}{}{Tablón de anuncios}
 {59601}{}{Hay ofertas de empleo grapada en el tablón. Parece muy utilizado.}
 {59700}{}{Choza de guardia}
 {59701}{}{Esta choza de guardia tendrá unos cien años, pero sigue en excelentes condiciones.}
@@ -1167,11 +1164,11 @@
 {61401}{}{Te quedas mirando tu imagen en el espejo un tiempo.}
 {61500}{}{Lavabo}
 {61501}{}{Un lavabo que funciona. Y bonito y limpio.}
-{61600}{}{Inodoro}
+{61600}{}{Excusado}
 {61601}{}{Este inodoro está muy limpio. Y funciona.}
-{61700}{}{Urinario}
+{61700}{}{Inodoro}
 {61701}{}{Este urinario funciona.}
-{61800}{}{Inodoro}
+{61800}{}{Excusado}
 {61801}{}{Si tuvieras fijación por los inodoros, entonces éste sería un bonito inodoro.}
 {61900}{}{Lavabo}
 {61901}{}{Este lavabo está en perfectas condiciones.}
@@ -1240,7 +1237,7 @@
 {65301}{}{Esta puerta tiene una barra que sube y baja.}
 {65400}{}{Tubería}
 {65500}{}{Tubería}
-{65600}{}{Generador eléctrico}
+{65600}{}{Generador de energía}
 {65601}{}{Un generador eléctrico Wattz ElectroBox. Prácticamente un estándar como generador de respaldo de antes de la guerra.}
 {65700}{}{Tanque}
 {65701}{}{Un gran tanque de agua. Parece estar bien cuidado, lo cual es bueno.}
@@ -1306,7 +1303,7 @@
 {68801}{}{Una gran formación de rocas. No se debió a una circunstancia natural.}
 {68900}{}{Rocas}
 {68901}{}{Una gran formación de rocas. No se debió a una circunstancia natural.}
-{69000}{}{Inodoro}
+{69000}{}{Excusado}
 {69001}{}{Un inodoro, tosco pero efectivo. Hay algunas hojas en el sumidero para tratar el olor.}
 {69100}{}{Montaña}
 {69101}{}{La cara de esta montaña parece inaccesible.}
@@ -1456,34 +1453,34 @@
 {76301}{}{No puedes leer nada debido a la gran cantidad de sustancia salpicada en las pantallas.}
 {76400}{}{Monitores}
 {76401}{}{No puedes leer nada debido a la gran cantidad de sustancia salpicada en las pantallas.}
-{76500}{}{Piso}
+{76500}{}{Suelo}
 {76501}{}{Jurarías que algo se está moviendo en el suelo.}
 {76600}{}{Pedestal}
 {76601}{}{Parece como si el pedestal estuviera inspirando y expirando.}
-{76700}{}{Piso}
+{76700}{}{Suelo}
 {76800}{}{Bomba}
 {76801}{}{Esto es una bomba nuclear. Parece muy peligroso quedarse aquí sentado.}
 {76900}{}{Base de apoyo}
 {76901}{}{Esta base acoge la bomba nuclear que tiene encima.}
-{77000}{}{Consola de computadora}
+{77000}{}{Consola de Computadora}
 {77001}{}{Esta es la computadora de acceso a la bomba. La computadora parece muy segura. Hay una ranura para una llave de forma extraña.}
 {77100}{}{Cables}
 {77101}{}{Estos cables conectan la bomba a la computadora.}
-{77200}{}{Sillón}
+{77200}{}{Silla}
 {77201}{}{No hay nada inusual en este sillón.}
-{77300}{}{Sillón}
+{77300}{}{Silla}
 {77301}{}{No hay nada inusual en este sillón.}
-{77400}{}{Sillón}
+{77400}{}{Silla}
 {77401}{}{No hay nada inusual en este sillón.}
-{77500}{}{Sillón}
+{77500}{}{Silla}
 {77501}{}{No hay nada inusual en este sillón.}
-{77600}{}{Sillón}
+{77600}{}{Silla}
 {77601}{}{No hay nada inusual en este sillón.}
-{77700}{}{Sillón}
+{77700}{}{Silla}
 {77701}{}{No hay nada inusual en este sillón.}
-{77800}{}{Sillón}
+{77800}{}{Silla}
 {77801}{}{No hay nada inusual en este sillón.}
-{77900}{}{Sillón}
+{77900}{}{Silla}
 {77901}{}{No hay nada inusual en este sillón.}
 {78000}{}{Pilar}
 {78001}{}{Un pilar de soporte.}
@@ -1509,13 +1506,13 @@
 {79001}{}{Esos monitores están rotos y no pueden funcionar.}
 {79100}{}{Monitores}
 {79101}{}{Esos monitores están rotos y no pueden funcionar.}
-{79200}{}{Respiradero}
+{79200}{}{Vent}
 {79201}{}{Sale aire muy fresco de este respiradero.}
-{79300}{}{Respiradero}
+{79300}{}{Vent}
 {79301}{}{Apenas llega aire fresco de este respiradero.}
-{79400}{}{Respiradero}
+{79400}{}{Vent}
 {79401}{}{No llega aire fresco de este respiradero.}
-{79500}{}{Respiradero}
+{79500}{}{Vent}
 {79501}{}{Sólo llega un poco de aire fresco de este respiradero.}
 {79600}{}{Mesa}
 {79601}{}{No hay nada inusual en esta mesa, excepto que está rota casi del todo.}
@@ -1547,11 +1544,11 @@
 {80901}{}{Esta silla está inservible.}
 {81000}{}{Silla}
 {81001}{}{Esta silla está inservible.}
-{81100}{}{Respiradero}
+{81100}{}{Vent}
 {81101}{}{Este respiradero está dañado y es irreparable.}
-{81200}{}{Respiradero}
+{81200}{}{Vent}
 {81201}{}{Este respiradero está muy dañado, y no se puede reparar.}
-{81300}{}{Respiradero}
+{81300}{}{Vent}
 {81301}{}{Este respiradero no funciona en absoluto.}
 {81400}{}{Computadora}
 {81401}{}{Esta computadora parece apenas funcional.}
@@ -1569,20 +1566,20 @@
 {82001}{}{El monitor no está funcionando.}
 {82100}{}{Monitor}
 {82101}{}{El monitor no está funcionando.}
-{82200}{}{Marco}
+{82200}{}{Puerta}
 {82201}{}{Parece un buen marco. Hace muy bien el trabajo de sostener una puerta.}
 {82300}{}{Monitores}
 {82301}{}{Los monitores están en buenas condiciones.}
 {82400}{}{Monitores}
 {82401}{}{Los monitores están en buenas condiciones.}
-{82500}{}{Pared}
+{82500}{}{Muro}
 {82600}{}{Puerta blindada}
 {82601}{}{Una puerta blindada de Refugio muy robusta. Parece muy segura.}
 {82700}{}{Luz}
 {82701}{}{Una luz de seguridad.}
 {82800}{}{Luz}
 {82801}{}{Una luz de seguridad.}
-{82900}{}{Columna}
+{82900}{}{Pilar}
 {82901}{}{Esta columna es un trofeo de la plaza de Arenas Sombrías. Cuenta historias que le recuerdan a la gente esperanza y paz.}
 {83000}{}{Receptáculo para robot}
 {83001}{}{Esto es una bahía de de recarga de robots. Cuando no está en servicio, un robot se instalará aquí para desconectarse y recargar.}
@@ -1676,7 +1673,7 @@
 {88700}{}{Cartel}
 {88701}{}{En este cartel pone: Hotel.}
 {88800}{}{Hongos}
-{88801}{}{Esta plantación está llena de excrementos, y los hongos crecen felizmente aquí.}
+{88801}{}{Esta plantación está llena de excremento, y los hongos crecen felizmente aquí.}
 {88900}{}{Hongos}
 {88901}{}{Esta plantación está llena de excremento, y los hongos crecen felizmente aquí.}
 {89000}{}{Esqueleto}
@@ -1730,14 +1727,14 @@
 {92000}{}{Cuerda}
 {92100}{}{Cuerda}
 {92200}{}{Cuerda}
-{92300}{}{Cañón}
-{92400}{}{Cañón}
-{92500}{}{Cañón}
-{92600}{}{Cañón}
-{92700}{}{Cañón}
-{92800}{}{Cañón}
-{92900}{}{Cañón}
-{93000}{}{Cañón}
+{92300}{}{Cañon}
+{92400}{}{Cañon}
+{92500}{}{Cañon}
+{92600}{}{Cañon}
+{92700}{}{Cañon}
+{92800}{}{Cañon}
+{92900}{}{Cañon}
+{93000}{}{Cañon}
 {93100}{}{Caverna}
 {93200}{}{Puerta impenetrable}
 {93201}{}{Esta puerta parece no tener un mecanismo de abertura.}
@@ -1746,9 +1743,9 @@
 {93400}{}{Puerta}
 {93401}{}{Una puerta con una compleja cerradura.}
 {93500}{}{Antorcha}
-{93501}{}{Una antorcha encendida en una pared.}
+{93501}{}{Una pequeña antorcha en la pared.}
 {93600}{}{Antorcha}
-{93601}{}{Una antorcha encendida en una pared.}
+{93601}{}{Una pequeña antorcha en la pared.}
 {93700}{}{Monumento de piedra}
 {93800}{}{Monumento de piedra}
 {93900}{}{Monumento de piedra}
@@ -1758,9 +1755,9 @@
 {94101}{}{Un poste con un cráneo adherido.}
 {94200}{}{Poste con cráneo}
 {94201}{}{Un poste con un cráneo adherido.}
-{94300}{}{Planta}
-{94301}{}{Planta}
-{94400}{}{Planta}
+{94300}{}{Plantas}
+{94301}{}{}
+{94400}{}{Plantas}
 {94500}{}{Árbol}
 {94600}{}{Árbol}
 {94700}{}{Árbol}
@@ -1783,17 +1780,17 @@
 {96000}{}{Puerta}
 {96100}{}{Puerta}
 {96200}{}{Puerta}
-{96300}{}{Planta}
+{96300}{}{Plantas}
 {96301}{}{Tallo de maíz mutado.}
-{96400}{}{Planta}
+{96400}{}{Plantas}
 {96401}{}{Tallo de maíz mutado.}
-{96500}{}{Planta}
+{96500}{}{Plantas}
 {96501}{}{Tallo de maíz mutado. Éste está enfermo.}
-{96600}{}{Planta}
+{96600}{}{Plantas}
 {96601}{}{Tallo de maíz mutado.}
-{96700}{}{Planta}
+{96700}{}{Plantas}
 {96701}{}{Tallo de maíz mutado.}
-{96800}{}{Planta}
+{96800}{}{Plantas}
 {96801}{}{Tallo de maíz mutado.}
 {96900}{}{Soporte de madera}
 {97000}{}{Soporte de madera}
@@ -1808,7 +1805,7 @@
 {97700}{}{Escaleras}
 {97701}{}{Un agujero hecho por el hombre con una escalera que conduce hacia abajo.}
 {97800}{}{Puerta}
-{97900}{}{Pared}
+{97900}{}{Muro}
 {98000}{}{Cartel del Reactor 5}
 {98100}{}{Puerta}
 {98200}{}{Puerta}
@@ -1827,13 +1824,13 @@
 {99500}{}{Edificio anexo}
 {99600}{}{Agujero}
 {99601}{}{No puedes ver el fondo de este pozo.}
-{99700}{}{Placa de suelo}
+{99700}{}{Placa en el Suelo}
 {99701}{}{Ves una trampa de placa de suelo.}
 {99800}{}{Desactivas la placa de suelo.}
 {99801}{}{La trampa de placa de suelo ha sido desactivada.}
 {99900}{}{Placa de suelo accionada}
 {99901}{}{La trampa de placa de suelo ha sido accionada. ¡Ups!}
-{100000}{}{Alambique}
+{100000}{}{Destilería}
 {100001}{}{Parece un alambique de alcohol de leña.}
 {100100}{}{Parte de escorpión rad}
 {100101}{}{Ves un montón de partes de escorpiones rad. Han sido vaciadas y tienen correas adheridas.}
@@ -1850,10 +1847,10 @@
 {100700}{}{Maquinaria de la central energética}
 {100701}{}{Esta es la bomba de refrigerante del reactor.}
 {100800}{}{Costado de brahmin}
-{100900}{}{Vehículo}
+{100900}{}{Coche}
 {101000}{}{Vehículo de Chrysalis Motors}
 {101001}{}{Este Highwayman de Chrysalis Motors parece en buenas condiciones para los años que tiene.}
-{101100}{}{Vehículo}
+{101100}{}{Coche}
 {101200}{}{Cementerio}
 {101201}{}{Aquí hay una tumba.}
 {101300}{}{Lápida}
@@ -2014,9 +2011,9 @@
 {115600}{}{Cartel de "Fuera del negocio"}
 {115700}{}{Cartel de Casa Buckner}
 {115800}{}{Cartel de Vic}
-{115900}{}{Pared}
-{116000}{}{Pared}
-{116100}{}{Escáner de retina}
+{115900}{}{Muro}
+{116000}{}{Muro}
+{116100}{}{Escaner de retina}
 {116101}{}{Es un dispositivo de seguridad que escanea retinas.}
 {116200}{}{Cartel de Sala de Control}
 {116300}{}{Cartel de Sala de Control}
@@ -2035,14 +2032,14 @@
 {117300}{}{Tanques}
 {117400}{}{Tanques}
 {117500}{}{Tanques}
-{117600}{}{Ventilación}
-{117700}{}{Ventilación}
+{117600}{}{Vent}
+{117700}{}{Vent}
 {117800}{}{Cartel}
 {117900}{}{Caballete}
 {118000}{}{Caballete}
 {118100}{}{Caballete}
-{118200}{}{Ventilación}
-{118300}{}{Ventilación}
+{118200}{}{Vent}
+{118300}{}{Vent}
 {118400}{}{Cartel de taller de maquinaria}
 {118500}{}{Cartel de oficina de Gerencia}
 {118600}{}{Cartel de sala de suministros}
@@ -2061,21 +2058,21 @@
 {119800}{}{Arte rupestre}
 {119900}{}{Arte rupestre}
 {120000}{}{Fuego}
-{120100}{}{Muro de la caverna}
-{120200}{}{Muro de la caverna}
-{120300}{}{Muro de la caverna}
-{120400}{}{Muro de la caverna}
-{120500}{}{Muro de la caverna}
-{120600}{}{Muro de la caverna}
-{120700}{}{Muro de la caverna}
-{120800}{}{Muro de la caverna}
-{120900}{}{Muro de la caverna}
-{121000}{}{Muro de la caverna}
-{121100}{}{Muro de la caverna}
-{121200}{}{Muro de la caverna}
-{121300}{}{Muro de la caverna}
-{121400}{}{Muro de la caverna}
-{121500}{}{Muro de la caverna}
+{120100}{}{Pared de cueva}
+{120200}{}{Pared de cueva}
+{120300}{}{Pared de cueva}
+{120400}{}{Pared de cueva}
+{120500}{}{Pared de cueva}
+{120600}{}{Pared de cueva}
+{120700}{}{Pared de cueva}
+{120800}{}{Pared de cueva}
+{120900}{}{Pared de cueva}
+{121000}{}{Pared de cueva}
+{121100}{}{Pared de cueva}
+{121200}{}{Pared de cueva}
+{121300}{}{Pared de cueva}
+{121400}{}{Pared de cueva}
+{121500}{}{Pared de cueva}
 {121600}{}{Estaca}
 {121601}{}{¡Parece que esta estaca tiene a alguien empalado en lo alto!}
 {121700}{}{Estaca}
@@ -2105,8 +2102,8 @@
 {122900}{}{Suelo}
 {123000}{}{Robocerebro desactivado}
 {123001}{}{Un cuerpo cibernético incompleto al que le faltan varias partes.}
-{123100}{}{Cañón Howitzer}
-{123101}{}{Este extraño cañón parece una reliquia de los días previos a la guerra. Te preguntas cómo terminó aquí.}
+{123100}{}{Howitzer}
+{123101}{}{Este extraño cañón parece una reliquia de los días previos a la guerra. Te preguntas cómo llegó aquí.}
 {123200}{}{Cartel}
 {123300}{}{Cartel}
 {123400}{}{Cartel}
@@ -2221,14 +2218,14 @@
 {133601}{}{Terminal de computadora conectada a la computadora central del Refugio.}
 {133700}{}{Entrada de Ciudad Refugio}
 {133800}{}{Entrada de Ciudad Refugio}
-{133900}{}{Pared}
-{134000}{}{Pared}
-{134100}{}{Pared}
-{134200}{}{Pared}
-{134300}{}{Pared}
-{134400}{}{Pared}
-{134500}{}{Pared}
-{134600}{}{Pared}
+{133900}{}{Muro}
+{134000}{}{Muro}
+{134100}{}{Muro}
+{134200}{}{Muro}
+{134300}{}{Muro}
+{134400}{}{Muro}
+{134500}{}{Muro}
+{134600}{}{Muro}
 {134700}{}{Puerta}
 {134800}{}{Puerta abierta}
 {134900}{}{Restos de puerta}
@@ -2270,12 +2267,12 @@
 {137801}{}{La puerta de la central eléctrica está destruida.}
 {137900}{}{Puerta destruida}
 {137901}{}{La puerta de la central eléctrica está destruida.}
-{138000}{}{Pared}
-{138100}{}{Pared}
-{138200}{}{Pared}
-{138300}{}{Pared}
-{138400}{}{Pared}
-{138500}{}{Pared}
+{138000}{}{Muro}
+{138100}{}{Muro}
+{138200}{}{Muro}
+{138300}{}{Muro}
+{138400}{}{Muro}
+{138500}{}{Muro}
 {138600}{}{Luz}
 {138700}{}{Puerta}
 {138800}{}{Puerta}
@@ -2314,7 +2311,7 @@
 {142100}{}{Cartel del Salón Malamute}
 {142200}{}{Cartel de la mina Morningstar}
 {142300}{}{Cartel de la mina Kokoweef}
-{142400}{}{Cartel de la mina Kokoweef} 
+{142400}{}{Cartel de la mina Kokoweef}
 {142500}{}{Cartel de la mina Kokoweef}
 {142600}{}{Poste indicador}
 {142601}{}{Este poste indicador de madera apunta hacia Nueva Reno y hacia "Infierno". Sospechas que las direcciones están invertidas.}
@@ -2391,24 +2388,24 @@
 {149500}{}{Luz de pared}
 {149600}{}{Luz de pared}
 {149700}{}{Luz de pared}
-{149800}{}{Pared}
-{149900}{}{Pared}
-{150000}{}{Ventilador}
-{150100}{}{Ventilador}
+{149800}{}{Muro}
+{149900}{}{Muro}
+{150000}{}{Fan}
+{150100}{}{Fan}
 {150200}{}{Extintor}
 {150300}{}{Extintor}
 {150400}{}{Tubería}
 {150500}{}{Distribuidor de energía}
 {150600}{}{Distribuidor de energía}
-{150700}{}{Pared}
-{150800}{}{Pared}
-{150900}{}{Pared}
-{151000}{}{Pared}
-{151100}{}{Pared}
-{151200}{}{Pared}
-{151300}{}{Pared}
-{151400}{}{Pared}
-{151500}{}{Pared}
+{150700}{}{Muro}
+{150800}{}{Muro}
+{150900}{}{Muro}
+{151000}{}{Muro}
+{151100}{}{Muro}
+{151200}{}{Muro}
+{151300}{}{Muro}
+{151400}{}{Muro}
+{151500}{}{Muro}
 {151600}{}{Revestimiento de madera}
 {151700}{}{Revestimiento de madera}
 {151800}{}{Tubería}
@@ -2431,16 +2428,16 @@
 {153500}{}{Puerta}
 {153600}{}{Puerta}
 {153700}{}{Ducha}
-{153800}{}{Pared de transbordador}
-{153900}{}{Pared de transbordador}
-{154000}{}{Pared de transbordador}
-{154100}{}{Pared de transbordador}
-{154200}{}{Pared de transbordador}
-{154300}{}{Pared de transbordador}
-{154400}{}{Pared de transbordador}
-{154500}{}{Pared de transbordador}
-{154600}{}{Pared de transbordador}
-{154700}{}{Pared de transbordador}
+{153800}{}{Casco del transbordador}
+{153900}{}{Casco del transbordador}
+{154000}{}{Casco del transbordador}
+{154100}{}{Casco del transbordador}
+{154200}{}{Casco del transbordador}
+{154300}{}{Casco del transbordador}
+{154400}{}{Casco del transbordador}
+{154500}{}{Casco del transbordador}
+{154600}{}{Casco del transbordador}
+{154700}{}{Casco del transbordador}
 {154800}{}{Campo de fuerza}
 {154900}{}{Campo de fuerza}
 {155000}{}{Unidad de extracción de órganos}
@@ -2472,7 +2469,7 @@
 {157500}{}{Puerta}
 {157600}{}{Puerta}
 {157700}{}{Respiradero}
-{157800}{}{Auto-Doc}
+{157800}{}{Auto-Doctor}
 {157801}{}{Este Auto-Doc está diseñado para curar enfermedades y administrar productos químicos.}
 {157900}{}{Estatua}
 {157901}{}{Una pequeña estatua del famoso Morador del Refugio.}
@@ -2500,8 +2497,8 @@
 {159700}{}{Petrolero}
 {159800}{}{Petrolero}
 {159900}{}{Petrolero}
-{160000}{}{Pared}
-{160100}{}{Pared}
+{160000}{}{Muro}
+{160100}{}{Muro}
 {160200}{}{Depresión en el suelo}
 {160300}{}{Banco de piedra}
 {160400}{}{Banco de piedra}
@@ -2527,11 +2524,11 @@
 {162200}{}{Vía}
 {162300}{}{Vía}
 {162400}{}{Vía}
-{162500}{}{Vagoneta minera}
+{162500}{}{Vagoneta}
 {162600}{}{Vagoneta minera con tubo de acero}
 {162700}{}{Vagoneta minera con dinamita}
 {162800}{}{Vagoneta minera destruida}
-{162900}{}{Vagoneta minera}
+{162900}{}{Vagoneta}
 {163000}{}{Mesa de billar}
 {163100}{}{Mesa de billar}
 {163200}{}{Mesa de billar}
@@ -2540,10 +2537,10 @@
 {163500}{}{Mesa de billar}
 {163600}{}{Escritorio}
 {163700}{}{Bandera}
-{163800}{}{Pared}
-{163900}{}{Pared}
-{164000}{}{Pared}
-{164100}{}{Pared}
+{163800}{}{Muro}
+{163900}{}{Muro}
+{164000}{}{Muro}
+{164100}{}{Muro}
 {164200}{}{Escape}
 {164300}{}{Escritorio}
 {164400}{}{Escritorio}
@@ -2551,9 +2548,9 @@
 {164600}{}{Escaleras arriba}
 {164700}{}{Escaleras arriba}
 {164800}{}{Escaleras arriba}
-{164900}{}{Computadora central}
-{165000}{}{Computadora central}
-{165100}{}{Computadora central}
+{164900}{}{Computadora del reactor}
+{165000}{}{Computadora del reactor}
+{165100}{}{Computadora del reactor}
 {165200}{}{Cartel de la oficina de Caravanas}
 {165300}{}{Ataúd}
 {165400}{}{Ataúd}
@@ -2609,20 +2606,20 @@
 {170400}{}{Sombra}
 {170500}{}{Sombra}
 {170600}{}{Puente destruido}
-{170601}{}{Ves lo que ha quedado del puente del Arroyo. Ahora no hay forma de volver al poblado.}
+{170601}{}{Ves lo que quedó del puente del Arroyo. Ahora no hay forma de volver al poblado.}
 {170700}{}{Puente destruido}
 {170701}{}{Ves lo que quedó del puente del Arroyo. Ahora no hay forma de volver al poblado.}
-{170800}{}{Cañón}
+{170800}{}{Cañon}
 {170900}{}{Puerta}
 {171000}{}{Puerta}
-{171100}{}{Pared}
-{171200}{}{Pared}
-{171300}{}{Pared}
-{171400}{}{Pared}
-{171500}{}{Pared}
-{171600}{}{Pared}
-{171700}{}{Pared}
-{171800}{}{Pared}
+{171100}{}{Muro}
+{171200}{}{Muro}
+{171300}{}{Muro}
+{171400}{}{Muro}
+{171500}{}{Muro}
+{171600}{}{Muro}
+{171700}{}{Muro}
+{171800}{}{Muro}
 {171900}{}{Respiradero}
 {172000}{}{Respiradero}
 {172100}{}{Cristal blindado}
@@ -2650,24 +2647,24 @@
 {174300}{}{Cartel del Tubby's}
 {174400}{}{Cartel del Tubby's}
 {174500}{}{Entrada al elevador de la mina}
-{174600}{}{Ventilador}
-{174700}{}{Ventilador}
+{174600}{}{Fan}
+{174700}{}{Fan}
 {174800}{}{Puerta de la oficina del Presidente}
 {174900}{}{Cartel oftalmológico}
 {175000}{}{Ruinas}
-{175100}{}{Guardián de Por Siempre}
+{175100}{}{Guardian de la Eternidad}
 {175200}{}{Cartel de Averiado}
 {175300}{}{Suelo colapsado}
-{175400}{}{Inodoro}
+{175400}{}{Excusado}
 {175500}{}{Cruz}
-{175600}{}{Pared}
-{175700}{}{Pared}
-{175800}{}{Pared}
-{175900}{}{Pared}
-{176000}{}{Pared}
-{176100}{}{Pared}
-{176200}{}{Pared}
-{176300}{}{Pared}
+{175600}{}{Muro}
+{175700}{}{Muro}
+{175800}{}{Muro}
+{175900}{}{Muro}
+{176000}{}{Muro}
+{176100}{}{Muro}
+{176200}{}{Muro}
+{176300}{}{Muro}
 {176400}{}{Edificio}
 {176500}{}{Edificio}
 {176600}{}{Edificio}
@@ -2694,7 +2691,7 @@
 {178700}{}{Soporte del puente}
 {178800}{}{Soporte del puente}
 {178900}{}{Soporte del puente}
-{179000}{}{Cerca}
+{179000}{}{Valla}
 {179100}{}{Lámpara}
 {179200}{}{Lámpara}
 {179300}{}{Ballena muerta}
@@ -2740,14 +2737,14 @@
 {182300}{}{Estufa}
 {182400}{}{Estufa}
 {182500}{}{Estufa}
-{182600}{}{Cosas}
-{182700}{}{Cosas}
-{182800}{}{Cosas}
-{182900}{}{Cosas}
-{183000}{}{Cosas}
-{183100}{}{Cosas}
-{183200}{}{Cosas}
-{183300}{}{Cosas}
+{182600}{}{Objetos}
+{182700}{}{Objetos}
+{182800}{}{Objetos}
+{182900}{}{Objetos}
+{183000}{}{Objetos}
+{183100}{}{Objetos}
+{183200}{}{Objetos}
+{183300}{}{Objetos}
 {183400}{}{Sillón del Presidente}
 {183500}{}{Escaleras}
 {183600}{}{Mapa Mundial}

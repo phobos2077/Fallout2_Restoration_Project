@@ -31,7 +31,7 @@
 {1600}{}{Pistola láser}
 {1601}{}{Una pistola láser Wattz 1000. Modelo civil, así que tiene menor potencia que las versiones militares y de la policía. Usa células PE de energía. Min FU: 3.}
 {1700}{}{Armadura de combate}
-{1701}{}{Armadura de alta tecnología, elaborada con avanzados polímeros defensivos.}
+{1701}{}{Armadura de alta tecnología, elaborada con polímeros defensivos avanzados.}
 {1800}{}{Desert Eagle .44}
 {1801}{}{Una antigua pistola Desert Eagle, mágnum .44. Su participación en películas de finales del siglo XX la convirtió en una de las pistolas más populares de todos los tiempos. Min FU: 4.}
 {1900}{}{Roca}
@@ -60,7 +60,7 @@
 {3001}{}{Munición calibre: 10mm, perforante.}
 {3100}{}{.44 mágnum BHC}
 {3101}{}{Munición calibre .44 mágnum, de punta hueca.}
-{3200}{}{Combustible de lanzallamas}
+{3200}{}{Comb. Lanzallamas}
 {3201}{}{Un cilindro que contiene un líquido combustible extremadamente inflamable para lanzallamas.}
 {3300}{}{14mm PB}
 {3301}{}{Munición de gran calibre. 14mm perforante.}
@@ -88,7 +88,7 @@
 {4401}{}{Un tipo antiguo de congelador. Las bisagras están en buenas condiciones.}
 {4500}{}{Cuchillo arrojadizo}
 {4501}{}{Un cuchillo específicamente equilibrado para ser lanzado. Hecho de titanio, y afilado con láser. Min FU: 3.}
-{4600}{}{Bolsa}
+{4600}{}{Maleta}
 {4601}{}{Una bolsa de tamaño medio. Hecha con tejido de pelo de brahmin.}
 {4700}{}{Kit de primeros auxilios}
 {4701}{}{Un pequeño kit que contiene equipamiento médico básico. Vendas, gasas, spray antiséptico, y más.}
@@ -132,11 +132,11 @@
 {6601}{}{Un escritorio de madera.}
 {6700}{}{Escritorio}
 {6701}{}{Un escritorio de madera.}
-{6800}{}{Tocador}
+{6800}{}{Vestidor}
 {6801}{}{Un tocador de madera.}
-{6900}{}{Tocador}
+{6900}{}{Vestidor}
 {6901}{}{Un tocador de madera.}
-{7000}{}{Tocador}
+{7000}{}{Vestidor}
 {7001}{}{Un tocador de madera.}
 {7100}{}{Fruta}
 {7101}{}{Una extraña pieza de fruta. Sin conservantes ni colorantes.}
@@ -332,31 +332,31 @@
 {16601}{}{Una mesa genérica. Mantiene a las cosas lejos del suelo.}
 {16700}{}{Mesa}
 {16701}{}{Una mesa genérica. Mantiene a las cosas lejos del suelo.}
-{16800}{}{Cosas}
+{16800}{}{Objetos}
 {16801}{}{Diversos objetos, también conocidos como "cosas".}
-{16900}{}{Cosas}
+{16900}{}{Objetos}
 {16901}{}{Diversos objetos, también conocidos como "cosas".}
-{17000}{}{Cosas}
+{17000}{}{Objetos}
 {17001}{}{Diversos objetos, también conocidos como "cosas".}
-{17100}{}{Cosas}
+{17100}{}{Objetos}
 {17101}{}{Diversos objetos, también conocidos como "cosas".}
-{17200}{}{Cosas}
+{17200}{}{Objetos}
 {17201}{}{Diversos objetos, también conocidos como "cosas".}
-{17300}{}{Cosas}
+{17300}{}{Objetos}
 {17301}{}{Diversos objetos, también conocidos como "cosas".}
-{17400}{}{Cosas}
+{17400}{}{Objetos}
 {17401}{}{Diversos objetos, también conocidos como "cosas".}
-{17500}{}{Cosas}
+{17500}{}{Objetos}
 {17501}{}{Diversos objetos, también conocidos como "cosas".}
-{17600}{}{Cosas}
+{17600}{}{Objetos}
 {17601}{}{Diversos objetos, también conocidos como "cosas".}
-{17700}{}{Cosas}
+{17700}{}{Objetos}
 {17701}{}{Diversos objetos, también conocidos como "cosas".}
-{17800}{}{Cosas}
+{17800}{}{Objetos}
 {17801}{}{Diversos objetos, también conocidos como "cosas".}
-{17900}{}{Cosas}
+{17900}{}{Objetos}
 {17901}{}{Diversos objetos, también conocidos como "cosas".}
-{18000}{}{Caja de embalaje}
+{18000}{}{Embalaje}
 {18001}{}{Una caja de embalaje de madera con objetos genéricos.}
 {18100}{}{Escritorio}
 {18101}{}{Un escritorio genérico. Cuando has visto un escritorio, los has visto todos.}
@@ -433,7 +433,7 @@
 {22200}{}{Interruptor}
 {22201}{}{Un dispositivo electrónico de transmisión, con un simple y gran interruptor. Parece que se creó recientemente y se diseñó para manos muy grandes.}
 {22300}{}{Pase amarillo}
-{22301}{}{Una tarjeta electrónica de seguridad, de color amarillo.}
+{22301}{}{Una tarjeta electrónica de seguridad, codificada en color amarillo.}
 {22400}{}{Figurilla}
 {22401}{}{Crees que pueda ser una escultura de "Pip Boy", pero no puedes asegurarlo.}
 {22500}{}{Revista 'La Garra de la Gata'}
@@ -445,11 +445,11 @@
 {22800}{}{Manual técnico}
 {22801}{}{Un manual de reparaciones técnicas de la servoarmadura T-51b.}
 {22900}{}{Pequeña pieza de maquinaria}
-{22901}{}{Ves una unidad motriz sistólica. Esta inútil pieza de maquinaria es muy pequeña.}
+{22901}{}{A damaged piece of Power Armor. It's very clean and could be a trophy of some kind.}
 {23000}{}{Registros del Refugio}
 {23001}{}{Un compendio de eventos e importantes grabaciones de una computadora de Refugio. Posiblemente dañado.}
 {23100}{}{Código de seguridad de la base militar}
-{23101}{}{ }
+{23101}{}{}
 {23200}{}{Servoarmadura mejorada}
 {23201}{}{Una servoarmadura T-51b. El proceso de mejora ha aumentado la capacidad defensiva de esta armadura de alta tecnología.}
 {23300}{}{Turbo rifle de plasma}
@@ -472,20 +472,20 @@
 {24101}{}{Un rifle calibre .223 modificado y acortado como pistola. Se trata de un arma única, obviamente realizada con cariño y habilidad. Min FU: 5.}
 {24200}{}{Escopeta de combate}
 {24201}{}{Una escopeta de combate Winchester City-Killer de calibre 12. En excelentes condiciones, tiene un sellador ambiental opcional DesertWarfare para una mayor fiabilidad. Min FU: 5.}
-{24300}{}{Vasija}
-{24301}{}{Una vasija artesanal de barro.}
-{24400}{}{Vasija}
-{24401}{}{Una vasija artesanal de barro.}
+{24300}{}{Olla}
+{24301}{}{Una olla artesanal.}
+{24400}{}{Olla}
+{24401}{}{Una olla artesanal.}
 {24500}{}{Cofre}
 {24501}{}{Un cofre de madera.}
 {24600}{}{Estante}
 {24601}{}{Un estante de madera con varios objetos.}
 {24700}{}{Estante}
 {24701}{}{Un estante de madera con varios objetos.}
-{24800}{}{Vasija}
-{24801}{}{Una vasija artesanal de barro.}
-{24900}{}{Vasija}
-{24901}{}{Una vasija artesanal de barro.}
+{24800}{}{Olla}
+{24801}{}{Una olla artesanal.}
+{24900}{}{Olla}
+{24901}{}{Una olla artesanal.}
 {25000}{}{Huesos}
 {25001}{}{Un montón de huesos humanos.}
 {25100}{}{Huesos de Anna}
@@ -502,14 +502,14 @@
 {25601}{}{Unos documentos de Ciudadanía falsos. Parecen lo bastante auténticos, pero dudas que pudieran pasar una inspección seria.}
 {25700}{}{Reloj de oro de Cornelius}
 {25701}{}{Un antiguo elemento de medida del tiempo llamada reloj de bolsillo. Y hace tiempo que el ídem se acabó para este objeto de recuerdo.}
-{26100}{}{Escopeta BB de Jonny}
-{26101}{}{Una escopeta Red Ryder BB con el nombre 'Jonny' grabado en la culata. Min FU: 3.}
 {25800}{}{Objeto hidroeléctrico}
 {25801}{}{Un regulador hidroeléctrico magnetosférico.}
 {25900}{}{Jet}
 {25901}{}{El Jet es una poderosa metanfetamina que estimula el sistema nervioso central. El subidón inicial de euforia rara vez dura más que unos pocos minutos, pero durante ese tiempo, el usuario nota gran energía y fuerza.}
 {26000}{}{Antídoto para el Jet}
 {26001}{}{Este antídoto cura los efectos de la adicción al Jet.}
+{26100}{}{Escopeta BB de Jonny}
+{26101}{}{Una escopeta Red Ryder BB con el nombre 'Jonny' grabado en la culata. Min FU: 3.}
 {26200}{}{Botas de caucho}
 {26201}{}{Un viejo par de botas de caucho. Parecen lo bastante duraderas como para librarte de los residuos, al menos durante un tiempo.}
 {26300}{}{Mensaje de los Escorias}
@@ -572,7 +572,7 @@
 {29101}{}{Para robots. Produce daño eléctrico.}
 {29200}{}{Guantes de boxeo}
 {29201}{}{Un par de guantes de boxeo que apenas huelen a sudor. Parece que se han usado mucho: aún tienen muchas viejas manchas de sangre.}
-{29300}{}{Guantes trucados}
+{29300}{}{Guantes de boxeo trucados}
 {29301}{}{Alguien ha dejado caer "accidentalmente" placas de metal en estos guantes de boxeo. Técnicamente se podría considerar hacer trampas, pero tú prefieres pensar que es una mejor oportunidad para romper huesos.}
 {29400}{}{Holodisco del Refugio 13}
 {29401}{}{Un holodisco que supuestamente contiene la localización del Refugio 13.}
@@ -583,7 +583,7 @@
 {29700}{}{Barra de metal}
 {29701}{}{Es una larga barra de metal. ¿Qué esperabas?}
 {29800}{}{Llave del barrio de los tramperos}
-{29801}{}{Una llave normal.}
+{29801}{}{Una llave estándar.}
 {29900}{}{Rifle de tubo}
 {29901}{}{Se trata de un rifle hecho a mano, de un solo disparo. Min FU: 5.}
 {30000}{}{Pistola desmontable}
@@ -599,7 +599,7 @@
 {30500}{}{Pase amarillo del reactor}
 {30501}{}{Una tarjeta electrónica de seguridad, codificada en color amarillo.}
 {30600}{}{Pase rojo del reactor}
-{30601}{}{Una tarjeta electrónica de seguridad, codificada en color rojo.}
+{30601}{}{Una tarjeta de seguridad, codificada en color rojo.}
 {30700}{}{Transformador de plasma}
 {30701}{}{Esto es un transformador trifásico de plasma.}
 {30800}{}{Super-set de herramientas}
@@ -762,7 +762,7 @@
 {39200}{}{Rifle M72 Gauss}
 {39201}{}{El M72 tiene diseño alemán. Usa un campo electromagnético para propulsar balas a una tremenda velocidad... y penetran en casi cualquier obstáculo. Su largo alcance, precisión y potencia de disparo resulta casi imparable. Min FU: 6.}
 {39300}{}{Fáser}
-{39301}{}{NECESITA DESCRIPCION DETALLADA. Min FU: 3.}
+{39301}{}{This mysterious high tech weapon appears to have some sort of energy generator inside. If it wasn't damaged, this gun could be the ultimate weapon against any enemy. The backup energy module consists of replaceable small energy cell. Min ST: 3.}
 {39400}{}{Pistola Gauss PPK12}
 {39401}{}{Alabada por su alcance y su poder imparable, la pistola Gauss PPK12 tiene diseño alemán. Utiliza un campo electromagnético para propulsar balas a una tremenda velocidad y perfora casi cualquier tipo de armadura. Min FU: 4.}
 {39500}{}{Minicañón Reivindicador}
@@ -842,10 +842,10 @@
 {43201}{}{Esta es la maleta que recibiste de Gran Jesús Mordino para dársela a Ramirez en el Establo. Está abierta, y has sacado el Jet que había dentro.}
 {43300}{}{Gafas de espejo}
 {43301}{}{Un par de gafas de sol a la última moda. Sólo con tenerlas en tu inventario hace que te sientas más guay.}
-{43400}{}{Carromato}
-{43401}{}{Un carromato de caravana construido a partir de los restos de un automóvil antiguo.}
-{43500}{}{Carromato}
-{43501}{}{Un carromato de caravana construido a partir de los restos de un automóvil antiguo.}
+{43400}{}{Carro}
+{43401}{}{Un carro de mercancías convertido a partir de restos destrozados de un antiguo automóvil.}
+{43500}{}{Carro}
+{43501}{}{Un carro de mercancías convertido a partir de restos destrozados de un antiguo automóvil.}
 {43600}{}{Baraja de cartas}
 {43601}{}{Una baraja de cartas estándar.}
 {43700}{}{Baraja de cartas marcadas}
@@ -862,7 +862,7 @@
 {44201}{}{Esta chapa de identificación indica que su propietario es "Angel-Eyes". Bajo el nombre está el número "16".}
 {44300}{}{Chapa de identificación de Tuco}
 {44301}{}{Esta apestosa chapa identificación indica que su propietario es "Tuco Benedicto Pacifico Juan Maria Ramirez", seguido por el número "27".}
-{44400}{}{Mapa de los Saqueadores}
+{44400}{}{Mapa de los saqueadores}
 {44401}{}{Un mapa arrugado de California del Norte de antes de la guerra. Reno y las rutas de las caravanas circundantes están subrayados en rojo, y hay un "X" roja al este de Reno bajo la que hay escrito "Saqueadores".}
 {44500}{}{Insignia del sheriff}
 {44501}{}{Un insignia usada por el sheriff de una ciudad.}
@@ -884,7 +884,7 @@
 {45301}{}{Esta es la hoja de papel que forman los tres trozos al reunirlos, revelando tres contraseñas. El texto dice: 1. Contraseña de Física KSLJKJ: Ken-Lee-97313, 2. Contraseña de Química TIUASPO- Lo-Shi-S12908, 3. Contraseña de Biología INTLVR- Dnky-Pnch-98790}
 {45400}{}{Interruptor de explosivo}
 {45401}{}{Este interruptor es el componente final de un explosivo.}
-{45500}{}{Maletero}
+{45500}{}{Maletero de coche}
 {45501}{}{El maletero es un gran lugar para guardar tus cosas.}
 {45600}{}{Llave de la celda}
 {45601}{}{Esta llave es la adecuada para las puertas de las celdas de Broken Hills.}
@@ -893,7 +893,7 @@
 {45800}{}{Holodisco B.M. 5}
 {45801}{}{En la etiqueta pone: Mensaje a CHQ- Confidencial.}
 {45900}{}{Holodisco B.M. 1}
-{45901}{}{En la etiqueta pone: Registro de las transmisiones por radio en el punto de control 1.}
+{45901}{}{En la etiqueta pone: Registro de las transmisiones por radio en el punto de control 2.}
 {46000}{}{Holodisco B.M. 2}
 {46001}{}{En la etiqueta pone: Registro de las transmisiones por radio en el punto de control 2.}
 {46100}{}{Holodisco B.M. 3}
@@ -936,7 +936,7 @@
 {48000}{}{Bono +1 Agilidad}
 {48100}{}{Bono +1 Inteligencia}
 {48200}{}{Bono +1 Fuerza}
-{48300}{}{Libro de pistas de Fallout 2}
+{48300}{}{Libro de Pistas para Fallout 2}
 {48301}{}{Bien, ESTO hubiese sido mejor tenerlo al principio del maldito juego.}
 {48400}{}{Oreja del jugador}
 {48401}{}{Esta es tu oreja. El Masticador la mordió durante la pelea y la escupió sobre tu cuerpo inconsciente. Si estás leyendo esto, probablemente significa que cargarás la partida pronto. Por supuesto, es posible que este objeto tenga algún valor especial.}
@@ -970,7 +970,8 @@
 {49900}{}{Realzador de lenguaje PipBoy}
 {49901}{}{Este realzador consiste en un holodisco de almacenamiento, un cable de microfilamentos, un casco, y un sensor óptico que se sitúa sobre el ojo derecho. Al usarlo, un destello óptico transmite un diccionario completo en la memoria del usuario, mejorando de forma permanente su habilidad conversadora.}
 {50000}{}{FN FAL HPFA}
-{50100}{}{Caja fuerte de pared}
+{50001}{}{Este rifle ha sido más ampliamente utilizado por las fuerzas armadas que cualquier otro fusil en la historia. Es un arma de asalto fiable para cualquier terreno o situación táctica. Min FU: 5.}
+{50100}{}{Caja fuerte}
 {50200}{}{Caja fuerte de suelo}
 {50300}{}{Módulo azul de memoria}
 {50301}{}{Un módulo de memoria de sólo lectura para una computadora, que contiene información médica. Este módulo detalla mejoras de carisma.}
@@ -1002,7 +1003,7 @@
 {51901}{}{Son chapas de botella sin valor. Has oído que hace tiempo se usaban como moneda, pero sospechas que no es más que un cuento.}
 {52000}{}{Minicañón pesado doble}
 {52001}{}{Lo usan sólo los personajes con auto-cañón.}
-{52100}{}{Cepillo de donativos}
+{52100}{}{Cepillo}
 {52101}{}{Una pequeña caja usada para recoger las monedas para los pobres.}
 {52200}{}{Cuchillo Wakizashi}
 {52201}{}{Un corto cuchillo artesanal. La punta parece diseñada para agujerear armaduras.}
@@ -1021,3 +1022,7 @@
 {52900}{}{Máquina de minería}
 {53000}{}{Cuchillo de jefe final}
 {53100}{}{Pistola de plasma de jefe final}
+{53200}{}{Sam Pritchard's Map}
+{53201}{}{This crudely-drawn map shows the area surrounding New Reno. It looks like there's some sort of military base to the north.}
+{53300}{}{Gecko de fuego}
+{53301}{}{This is the dried and cured hide of a fire gecko. It is badly burned and as a result, has little value.}

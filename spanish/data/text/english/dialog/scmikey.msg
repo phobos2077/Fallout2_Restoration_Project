@@ -5,7 +5,7 @@
 {104}{}{¿Qué puedo servirte?}
 {105}{}{Quiero carne.}
 {106}{}{Me llevaré uno.}
-{107}{}{¿Qué puedes contarme de esta ciudad?}
+{107}{}{¿Qué me puedes contar de esta ciudad?}
 {108}{}{Adiós.}
 {109}{}{¡Disfruta, forastero!}
 {110}{}{Ahí tienes mostaza y cebolla.}

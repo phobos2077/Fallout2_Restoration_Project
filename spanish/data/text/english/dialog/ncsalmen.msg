@@ -1,7 +1,4 @@
-# QUICK LOOK
 {100}{}{Ves a uno de los hombres de Salvatore.}
-
-# LOOK (IF THUG HAS LASER WEAPON.)
 {150}{}{Ves a un hombre de apariencia hosca. Tiene el ceño fruncido, y mira fijamente al frente.
  En la mano tiene una extraña pistola.}
 {151}{}{Ves a un hombre de apariencia hosca. Tiene el ceño fruncido, y mira fijamente al frente.}
@@ -9,21 +6,15 @@
 {153}{}{Ves a uno de los hombres de Salvatore. Está mirando al frente con expresión sombría.}
 {154}{}{Ves a uno de los hombres de Salvatore. Parece silencioso, mortal, y posiblemente dormido.}
 {155}{}{Ves a uno de los hombres de Salvatore. Parece silencioso, mortal, y potencialmente muy aburrido.}
-
-# 2. FLOAT/CLICK DIALOGUE: ENCLAVE DESTROYED IS TRUE
 {160}{}{::Asiente respetuosamente::}
 {161}{}{Tienes que ser la hostia de duro para haber reventado al Enclave como lo hiciste.}
 {162}{}{Eres casi tan duro como Tommy Pelotas.}
 {163}{}{He oído lo que hiciste con el Enclave. Las noticias viajan rápido.}
 {164}{}{¿Has pensado en jugar de nuevo con un personaje distinto?}
-
-# 3. FLOAT DIALOGUE: PLAYER = FEMALE/MALE, MADE MAN, FA=SALVATORE, PRIZEFIGHTER, PORN STAR [SNEAK]
 {170}{}{¿Por qué andas a hurtadillas?}
 {171}{}{¿A qué tanto secretismo? ¿Alguien te está buscando?}
 {172}{}{¿Intentas mantener un perfil bajo?}
 {173}{}{¿Por qué andas a escondidas? ¿Alguien te persigue?}
-
-# 4. FLOAT DIALOGUE: PLAYER = MADE MAN, FA=NOT SALVATORE
 {180}{}{Vaya, pero si es }
 {181}{}{¿Te has PERDIDO, colega? Mejor que te largues de aquí.}
 {182}{}{Este tipo busca problemas…}
@@ -32,45 +23,25 @@
 {185}{}{Vaya, pero si es }
 {186}{}{¿Te has PERDIDO, muchacha? Mejor que te largues de aquí.}
 {187}{}{Esta chica busca problemas…}
-
-# 6. FLOAT DIALOGUE: POLITE [ARMED]
 {195}{}{Aquí no están permitidas las armas.}
-{196}{}{Guarda ese arma.}
-
-# 7. FLOAT DIALOGUE: FEMALE, PORN STAR, POLITE [ARMED]
+{196}{}{Aparta ese arma.}
 {200}{}{Señorita, me temo que tengo que pedirle que guarde ese arma.}
 {201}{}{Señorita, lo siento, pero aquí no se permiten armas.}
-
-# 8. FLOAT DIALOGUE: SLAVER [ARMED]
 {205}{}{¡Tú! ¡Esclavista! Guarda ese arma AHORA.}
 {206}{}{Aquí no se permiten armas, esclavista.}
 {207}{}{Guarda ese arma, esclavista.}
 {208}{}{Esclavista, necesito que guardes ese arma ahora mismo.}
-
-# 9. FLOAT DIALOGUE: SLAVER [SNEAK]
 {210}{}{¡Tú! ¡Esclavista! ¡Deja de andar a hurtadillas por aquí!}
-
-# 10. FLOAT DIALOGUE: NORMAL [ARMED]
 {215}{}{¡Tú! Guarda ese arma AHORA.}
 {216}{}{Aquí no se permiten armas.}
 {217}{}{Guarda ese arma. Ahora.}
 {218}{}{Guarda ese arma ahora mismo.}
-
-# 11. FLOAT DIALOGUE: NORMAL [SNEAK]
 {220}{}{¡Tú! ¡Deja de andar a hurtadillas por aquí!}
-
-# 12. FLOAT DIALOGUE: COMPANION: ROBOBRAIN
 {225}{}{Los robots no están permitidos aquí. Sácalo fuera. Ahora.}
 {226}{}{Nada de robots. Sácalo de aquí.}
-
-# 13. FLOAT DIALOGUE: COMPANION: MARCUS
 {230}{}{Los mutantes no están permitidos aquí. Sácalo fuera. Ahora.}
 {231}{}{Mutantes no permitidos. Saca a ese fuera. Ahora.}
-
-# 15. CLICK DIALOGUE: POWER ARMOR
-{235}{}{¿Cómo puedes usar una letrina con esa cosa puesta?}
-
-# 16. CLICK [MADE MAN, FA = SALVATORE]
+{235}{}{¿Cómo haces para usar la letrina con eso puesto?}
 {240}{}{Señor.}
 {241}{}{Hola, señor.}
 {242}{}{Nada que informar, señor.}
@@ -97,16 +68,12 @@
 {261}{}{Nada que informar, señora.}
 {262}{}{¿Necesita algo, señora?}
 {263}{}{Si alguien le molesta, señora, háganoslo saber.}
-
-# 18. CLICK [MALE/FEMALE, MADE MAN, FA = NOT SALVATORE]
 {275}{}{Mejor que te vayas antes de que haya problemas.}
 {276}{}{Sé listo y vete antes que te pongamos las cosas difíciles.}
 {277}{}{Va a haber problemas si rondas por aquí.}
 {278}{}{No sé lo que quieres, }
 {279}{}{No sé lo que estás intentando demostrar, }
 {280}{}{Te sugiero que te vayas ahora mismo.}
-
-# 19. CLICK [MALE/FEMALE, PRIZEFIGHTER]
 {285}{}{¿Dónde aprendiste a pelear? Eres sanguinario.}
 {286}{}{¿Sabes? La Familia Salvatore realmente podría contar con alguien como tú.}
 {287}{}{Deberías preguntar por un trabajo a Mason.}
@@ -118,57 +85,37 @@
 {293}{}{¿Dónde entrenas?}
 {294}{}{Cuidado con el Masticador. Le gustan las orejas.}
 {295}{}{Te invitaría a una copa si no hubiera perdido todo mi dinero apostando a tu oponente.}
-
-# 20. CLICK [MALE, PORN STAR]
 {305}{}{¿Puedo hacer algo por ti?}
 {306}{}{Esto no es un estudio pornográfico, semental.}
 {307}{}{Vete con tus asuntos a cualquier otro lado, semental.}
-
-# 21. CLICK [PORN STAR, FEMALE]
 {310}{}{Lo siento mucho… de verdad… pero no tengo tiempo para hablar ahora mismo. Pásate después del trabajo
  si estás libre para entonces.}
 {311}{}{Me rompe el corazón, pero de verdad que no puede hablar contigo ahora mismo.}
 {312}{}{Venga, preciosidad, que me distraes.}
 {313}{}{No puedo ayudarte.}
 {314}{}{He oído que Tommy Pelotas quiere ofrecerte una proyección privada.}
-{315}{}{Ahora no, preciosidad. Los negocios primero.}
+{315}{}{Ahora no, guapa. Los negocios primero.}
 {316}{}{Charlaría contigo, pero el jefe podría estar vigilando.}
-
-# 22. FLOAT DIALOGUE: SLAVER [ARMED]
 {325}{}{Guarda ese arma AHORA, esclavista.}
 {326}{}{Aquí no se permiten armas, esclavista.}
 {327}{}{Guarda ese arma, esclavista.}
-
-# 23. FLOAT DIALOGUE: SLAVER [SNEAK]
 {330}{}{Deja de andar a hurtadillas por aquí, esclavista.}
 {331}{}{La gente que anda a hurtadillas por aquí hace que me pique el dedo del gatillo.}
 {332}{}{Andar a hurtadillas por aquí puede suponerte un disparo, esclavista.}
-
-# 24. FLOAT DIALOGUE: NORMAL [ARMED]
 {335}{}{Guarda ese arma AHORA.}
 {336}{}{Aquí no se permiten armas.}
 {337}{}{Guarda ese arma. Ahora.}
 {338}{}{Guarda ese arma ahora mismo.}
-
-# 25. FLOAT DIALOGUE: NORMAL [SNEAK]
 {340}{}{Deja de andar a hurtadillas por aquí, o tendremos problemas.}
-
-# 26. [SLAVER, IF BAD REACTION]
 {345}{}{Yo no soy la persona con la que hablar acerca del comercio de esclavos. Trata con Mason.}
 {346}{}{Los Salvatore ya tenemos todos los esclavos que necesitamos.}
 {347}{}{No tengo tiempo para hablar ahora mismo.}
 {348}{}{No puedo ayudarte.}
 {349}{}{Oye, no tengo tiempo que perder. Si buscas conversación, ve a la calle Virgin y charla con una puta.}
-
-# 27. [SLAVER, GOOD REACTION]
 {355}{}{Si buscas negociar con esclavos, habla con el jefe.}
 {356}{}{No creo que el jefe necesite más esclavos, pero de todas formas podrías intentar hablar con él.}
-
-# 28. CLICK [FEMALE/MALE, NO REP, GOOD REACTION]
 {360}{}{¿Buscas trabajo? Habla con Mason.}
 {361}{}{Si buscas trabajo, deberías hablar con Mason.}
-
-# 29. CLICK [NO REP, BAD REACTION]
 {365}{}{Oye, no tengo tiempo que perder. Si buscas conversación, ve a la calle Virgin y charla con una puta.}
 {366}{}{No tengo tiempo para hablar ahora mismo.}
 {367}{}{No puedo ayudarte.}
@@ -176,13 +123,9 @@
 {369}{}{Ahora no, guapa. Los negocios primero.}
 {370}{}{Charlaría contigo, pero el jefe podría estar vigilando.}
 {371}{}{Verás, no tengo tiempo para charlas.}
-
-# 30. CLICK/FLOAT: LENNY
 {380}{}{Será mejor que ese necrófago desaparezca AHORA.}
 {381}{}{Si ese necrófago sigue aquí cuando me de la vuelta, lo quemaré.}
 {382}{}{Ese necrófago estará pidiendo convertirse en antorcha si sigue por aquí.}
-
-# END OF LINES
 {1180}{}{. Va a convertirse en cadáver si no sale de aquí…}
 {1185}{}{. Va a convertirse en cadáver si no sale de aquí…}
 {1278}{}{, pero sería mejor llevarlo a otro lugar.}

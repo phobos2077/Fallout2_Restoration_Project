@@ -18,7 +18,7 @@
 {117}{}{Sí, eso es. Porque seguro que tu madre no lo hizo.}
 {118}{}{¿Ahora hablas de mi madre? Eso no es creativo.}
 {119}{}{Haré mejor trabajo creándote una cara nueva. La vieja no tiene mucho para mirar.}
-{120}{}{¿Tú y quién más?}
+{120}{}{¿Tu y quién más?}
 {121}{}{Yo sola. Es todo lo que hace falta. Pero apuesto a que mis chicos pueden ocuparse de tus enclenques amigos
  en cualquier momento.}
 {122}{}{No lo creo. Kokoweef dirige aquí el cotarro. Voy a tener que enseñártelo.}
@@ -86,9 +86,10 @@
 {174}{}{Hmm, creo que me necesitan en otro sitio, y rápido. Adiós.}
 {175}{}{Creo que eres más inteligente de lo que pareces. Debes serlo; estás de pie. Corre a
  casa de mamaíta y dile que no había nada que tuvieras las pelotas de hacer.}
-{176}{}{Ya está. Ya has dicho bastante. Última oportunidad: vete sin hacer ruido o te haré trizas.}
+{176}{}{Ya está. Ya has dicho bastante. Última oportunidad: Vete sin hacer ruido o te haré trizas.}
 {177}{}{Quizá lo haga. No quiero hacerle daño a nadie. Adiós.}
 {178}{}{Ya veo cómo va esto, mierdecilla. Está bien, puedes encerrarme, y a Caminetto también.
  (a Caminetto) ¿Vale, pequeño engendro?}
 {179}{}{Ésto me gusta más.}
 {180}{}{No. Ahora es demasiado tarde. Voy a tener que dejaros como un colador a los dos.}
+{181}{}{I guess I'll just kick Caminetto's ass another day.}

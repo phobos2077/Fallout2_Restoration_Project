@@ -1,14 +1,7 @@
-#############################################################
-#  Guardia Caravana (Encuentros)            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un guardia.}
 {101}{}{Ves a uno de los guardias que te acompaña en esta ruta.}
-
 {200}{}{Ves a un conductor de caravanas.}
 {201}{}{Ves a uno de los conductores que te acompaña en esta ruta.}
-
 {300}{}{Espero que no tengamos demasiados encuentros a lo largo del camino.}
 {301}{}{Sería bueno llegar a recibir el salario al final de la ruta.}
 {302}{}{Espero que el bar esté abierto cuando lleguemos allí.}

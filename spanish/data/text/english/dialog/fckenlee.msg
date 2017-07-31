@@ -13,7 +13,7 @@
 {112}{}{Los Hubologistas me han asignado para matar al Emperador.}
 {113}{}{Nada. Gracias. Adiós.}
 {114}{}{Soy Ken Lee, consejero del Emperador. Y tú, amigo mío, parecer ser un ingenuo, así que recuerda esto: si buscas al Enclave, entonces debes usar el petrolero Poseidon para ello. Necesitarás combustible para él. Tienes mi bendición.}
-{115}{}{¡G-racias!}
+{115}{}{¡G-gracias!}
 {116}{}{Soy Ken Lee. Soy el consejero del Emperador. El Emperador me aconseja no hablar contigo, así que no lo haré. Buenos días, bobo.}
 {117}{}{¡Grrr!}
 {118}{}{Ahh, viajero, no puedo ayudarte. Tal vez puedes encontrar la respuesta a tu búsqueda de otra forma. Buenos días.}
@@ -37,13 +37,13 @@
 {136}{}{Sí.}
 {137}{}{No. Ya he hecho suficientes pruebas en los últimos meses como para el resto de mi vida.}
 {138}{}{No creo que el Emperador quiera verte. Se me ha dicho que prohiba la entrada a todos aquellos que me ofenden o apestan a maldad. Para ti son ambas cosas, viajero. Buenos días.}
-{139}{}{-hecho-}
+{139}{}{HECHO}
 {140}{}{Los insultos no te llevarán a ningún lado, salvo al exterior del Palacio de Acero. Controla tu lengua.}
 {141}{}{Hazlo tú.}
 {142}{}{Bien.}
 {143}{}{El Emperador se mantiene alejado de las miradas indiscretas. Como es mi trabajo actuar como pantalla del Emperador, ni puedo ni te diré dónde está.}
-{144}{}{Bien. Tengo más preguntas.}
-{145}{}{Bien. Adiós.}
+{144}{}{Tengo más preguntas.}
+{145}{}{Adiós.}
 {146}{}{Investigamos lo que cambiará el mundo. Para más respuestas a tus preguntas, deberías buscar al doctor Wong Yi Tze. }
 {147}{}{Lo haré. Y tengo más preguntas.}
 {148}{}{Lo haré. Adiós.}
@@ -55,7 +55,7 @@
 {154}{}{No. Mi verdadero nombre es }
 {155}{}{Ese es el único nombre que necesitas, anciano.}
 {156}{}{Eso va a ser imposible. Buenos días.}
-{157}{}{-hecho-}
+{157}{}{HECHO}
 {158}{}{Sin duda, me tienes que valorar mejor. Sé cómo funciona el "negocio". He viajado a Nuevo Reno antes.}
 {159}{}{Está bien, mi nombre es }
 {160}{}{¡Ese es mi nombre verdadero! ¡Y ahora déjame hablar con el Emperador!}
@@ -67,10 +67,10 @@
 {166}{}{Oh, está bien. Lo haré.}
 {167}{}{¿Tribales perdidos? No he escuchado nada sobre eso. Tal vez el Emperador podría saber algo sobre ellos.}
 {168}{}{Tengo más preguntas.}
-{169}{}{Gracias. Lo haré.}
+{169}{}{Gracias. Adiós.}
 {170}{}{Debes completar una segunda prueba: los Hubologistas son nuestros enemigos. Su líder, AHS-9, ha estado secuestrando y lavando el cerebro a nuestros hijos. Mátalo por el bien de los Shi y te diré cómo hablar con el Emperador.}
 {171}{}{Dalo por muerto.}
-{172}{}{No, me parece que no.}
+{172}{}{No, creo que no.}
 {173}{}{¿No? Eso me entristece, pero lo comprendo. Mucha suerte en tu búsqueda. Si cambias de opinión, ya sabes dónde encontrarme.}
 {174}{}{Desde luego. Tengo más preguntas.}
 {175}{}{Sí. Adiós.}
@@ -97,9 +97,9 @@
 {196}{}{Ahora mismo no. Aunque tengo otras preguntas para ti.}
 {197}{}{Has demostrado ser un amigo de los Shi. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña "CSPDMSHR-Shih-huang-ti-X9372" y estarás conectado a la Computadora Emperador. Espero que te resulte útil.}
 {198}{}{¿El Emperador es una COMPUTADORA?}
-{199}{}{Entiendo. Gracias.}
+{199}{}{Lo tengo. Gracias.}
 {200}{}{Sí. Almacena nuestra historia, nuestras investigaciones, y las posibilidades de proyectos futuros. Es mucho mejor que cualquier humano falible... aunque moderamos sus sugerencias con nuestro conocimiento de la naturaleza humana.}
-{201}{}{Ya... veo. Bien, gracias por tu tiempo. Tengo un poblado que rescatar.}
+{201}{}{Ya veo. Bien, gracias por tu tiempo.}
 {202}{}{Nuestros espías informan que le has entregado los planos del vertibird a los Hubologistas. Róbaselos para nosotros y serás recompensado.}
 {203}{}{Como quieras. Tengo algunas preguntas.}
 {204}{}{Ni hablar.}
@@ -108,11 +108,9 @@
 {207}{}{Um... nada.}
 {208}{}{Una vez hayas conseguido los planos del vertibird, entrégaselos al doctor Wong Yi Tze. Él les dará buen uso.}
 {209}{}{De acuerdo. Tengo otras preguntas.}
-{210}{}{De acuerdo. Adiós.}
-
+{210}{}{Vale. Adiós.}
 {211}{}{. Me gustaría ver al Emperador.}
 {212}{}{.}
-
 {213}{}{Recuerda, debes llevarle los planos al doctor Wong Yi Tze.}
 {214}{}{Has vuelto a insultarme de nuevo. Se acabó.}
 {215}{}{Como ya te he dicho, necesito saber tu nombre.}
@@ -125,8 +123,8 @@
 {222}{}{Me gustaría poder ofrecerte nuestro combustible, pero desafortunadamente nuestros almacenes están vacíos. De alguna manera, su contenido se desvió a los Hubologistas. Es posible que seas capaz de encontrar a alguien que lo recupere para nosotros.}
 {223}{}{¿Ahora ya puedo ver al Emperador?}
 {224}{}{Te recuerdo respetuosamente que a menos que le entregues los planos del vertibird al doctor Wong Yi Tze, no te puedo permitir el acceso al Emperador. Espero que lo entiendas.}
-
-#Ken Lee's guard floats
 {500}{}{Vete de inmediato o llamaré a los guardias.}
 {501}{}{Vete ahora. Este es tu segundo aviso.}
 {502}{}{Este es tu último aviso.}
+{1430}{}{Has demostrado ser un amigo de los Shi. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña "CSPDMSHR-Shih-huang-ti-X9372" y estarás conectado a la Computadora Emperador. Espero que te resulte útil.}
+{2001}{}{Ya... veo. Bien, gracias por tu tiempo. Tengo un poblado que rescatar.}

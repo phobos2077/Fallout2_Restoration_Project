@@ -26,7 +26,7 @@ Escucha: vete, y habla con Fee-lix. Él te dará trabajo. ¿Entiendes?}
 {124}{}{Uh-huh.}
 {125}{}{¿Qué crees? Sabes demasiado. ¿Qué pasa si vuelves a RNC y te venden, o te amenazan? Como mejor estás es muerto. 
 Por otro lado, tengo una oferta mejor.}
-{126}{}{¿Como cual?}
+{126}{}{¿Como cuales?}
 {127}{}{No te creo.}
 {128}{}{Cárgate a Bishop. Te pagaré, lo que sea que recibirías más un 50%. ¿Qué me dices?}
 {129}{}{(need info from Chris)}
@@ -69,12 +69,10 @@ Por otro lado, tengo una oferta mejor.}
 {166}{}{Bishop me envió. Tiene un pequeño mensaje para ti.}
 {167}{}{Adiós y dulces sueños, anciano.}
 {168}{}{dólares, de acuerdo. Tú haces el trabajo, yo te pago. Dices que no, no sales de aquí con vida. ¿Y bien?}
-
 {169}{}{Ohh, sí. Bien, estaba teniendo algún problema con intrusos, pero dejaron de rondar. Lo siento. Habla con Felix y comprueba si tiene algo para que puedas hacer.}
 {170}{}{De acuerdo, gracias.}
-
 {171}{}{Ehhh.... tengo problemas de corazón... no puedo resp...}
 {172}{}{Debes ..... hablar con Feeellliixx.}
 {173}{}{Vaya, supongo que tenía un problema cardíaco.}
-
 {174}{}{AHHAHH!!! AHAHAHHAH!!! AHHAHAH!!! ¡¡¡QUEMA!!!}
+{175}{}{Has entregado el holodisco de Westin a Lynette.}

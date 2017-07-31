@@ -1,8 +1,3 @@
-#############################################################
-#  Generador (Vault 15)     			            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{El generador funciona correctamente. La producción de energía es óptima.}
 {101}{}{El generador parece estar en un modo de espera de emergencia. La producción de energía es mínima.}
 {102}{}{Intentas hacer un diagnóstico del problema.}

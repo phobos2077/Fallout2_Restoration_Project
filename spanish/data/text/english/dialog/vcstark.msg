@@ -30,7 +30,7 @@
 {129}{}{Está bien, ya me marcho.}
 {130}{}{Capitán. ¿Puedo ayudarle... señor?}
 {131}{}{¿Puedo ayudarte, Ciudadano?}
-{132}{}{¿Qué es lo que quieres?}
+{132}{}{¿Qué quieres?}
 {133}{}{¡Yah!}
 {134}{}{Dejas de balbucear}
 {135}{}{¿Quién eres?}
@@ -73,18 +73,18 @@
 {172}{}{Tal vez tu amigo Cassidy no te contó que tenía sustancias ilegales en las instalaciones, y que su licencia para la distribución de alcohol había caducado. ¿Olvidaste contarle eso a tu amigo, Cassidy?}
 {173}{}{Cassidy dice que pagó todo y que tú allanaste su local de todos modos.}
 {174}{}{Olvídalo. Tenía algunas preguntas más...}
-{175}{}{No importa, entonces. Adiós.}
+{175}{}{Entonces no importa. Adiós.}
 {176}{}{No, señor. El señor Cassidy no había pagado su cuota mensual de la licencia de alcohol, y sin embargo seguía vendiéndolo en su local. Su lista de pagos está registrada en la computadora.}
 {177}{}{Cassidy era culpable de posesión sin licencia. Si no le gusta, puede abandonar Ciudad Refugio. Así de simple.}
 {178}{}{Te creo, sargento. Bien hecho. Ahora, escúchame: quiero que perdones al señor Cassidy, limpies su historial, y le compenses por los daños que causaste a su establecimiento.}
 {179}{}{¿Sabes? Creo que mi puño y tu cara están a punto de tener una conversación.}
-{180}{}{Olvídalo. Tenía más preguntas...}
-{181}{}{No importa, entonces. Adiós.}
+{180}{}{Olvídalo. Tenía algunas preguntas más...}
+{181}{}{No importa entonces. Adiós.}
 {182}{}{Gracias por cuidar de mí, amigo. Stark es un obstinado hijoputa.}
 {183}{}{Tan solo inténtalo. Espero poner a basura como tú y Cassidy en su lugar.}
 {184}{}{Muy bien. De todas formas, tenía muchas ganas de patearte el culo.}
 {185}{}{Olvídalo. Tenía algunas preguntas más...}
-{186}{}{No importa, entonces. Adiós.}
+{186}{}{No importa entonces. Adiós.}
 {187}{}{Sí... SEÑOR.}
 {188}{}{AHORA, sargento.}
 {189}{}{Vamos, sargento. Espabila.}
@@ -115,7 +115,7 @@
 {214}{}{He encontrado su base.}
 {215}{}{Los he borrado del mapa.}
 {216}{}{¿Alguna idea de desde dónde están atacando esos saqueadores?}
-{217}{}{No importa. Tenía unas preguntas...}
+{217}{}{No importa. Tenía más preguntas...}
 {218}{}{Olvídalo. Quizá hablemos en algún otro momento.}
 {219}{}{¿En serio? ¿Dónde está?}
 {220}{}{Sí, lo dijiste antes. Deberías contárselo a la Primer Ciudadano si aún no lo has hecho.}
@@ -132,14 +132,14 @@
 {231}{}{Muy bien. Se lo diré a ella.}
 {232}{}{Sí, saqueadores. Nos han estado golpeando con fuerza últimamente. (Frunce el ceño). ¿Por qué quieres saber cosas sobre ellos?}
 {233}{}{Me gustaría intentar encontrar su base, quizá pueda detener los ataques.}
-{234}{}{Sólo era curiosidad.}
+{234}{}{Sólo tenía curiosidad.}
 {235}{}{No importa. Tenía más preguntas...}
 {236}{}{Olvídalo. Quizá hablemos en algún otro momento.}
 {237}{}{¿Qué eres, una especie de buen samaritano? No me lo trago.}
 {238}{}{No soy samaritano. En realidad soy nativo de Arroyo: es un poblado al oeste.}
 {239}{}{Me gustaría ayudar, si puedo.}
 {240}{}{Mira, He visto suficiente mundo como para saber que ayudar a la gente al final se te devuelve recibiendo ayuda.}
-{241}{}{No importa. Tenía algunas preguntas...}
+{241}{}{No importa. Tenía más preguntas...}
 {242}{}{Olvídalo. Quizá hablemos en algún otro momento.}
 {243}{}{¿Así que vienes aquí a hacerte el listillo? ¿Es eso?}
 {244}{}{Oh, sí? Bueno, pelearse con esa banda de saqueadores puede ser demasiado para ti.}
@@ -204,7 +204,7 @@
 {303}{}{Exploración.}
 {304}{}{¿Qué quieres decir?}
 {305}{}{Podría efectuar algo de reconocimiento para ti si no dispones de gente.}
-{306}{}{Olvídalo. Tenía otras preguntas...}
+{306}{}{Olvídalo. Tenía algunas preguntas más...}
 {307}{}{Entonces no importa. Adiós.}
 {308}{}{No, necesitarías un PipBoy para hacer bien el trabajo, y no puedo prescindir de uno ahora mismo.}
 {309}{}{Ya tengo un PipBoy. Está anticuado... y es maniático... y parece tener cables y botones arrancados por todas partes... pero funciona.}
@@ -222,7 +222,7 @@
 {321}{}{Podemos vernos obligados a emprender una acción militar contra ellos en el futuro, especialmente si vuelven a envenenar las aguas subterráneas.}
 {322}{}{Así que, ¿quieres el trabajo, o no?}
 {323}{}{Sí. Aunque ya he explorado la zona.}
-{324}{}{Haré el trabajo. Informaré cuando esté terminado.}
+{324}{}{Haré el trabajo. Informaré cuando esté hecho.}
 {325}{}{Haré el trabajo. Aunque primero tenía unas preguntas que hacer...}
 {326}{}{No, gracias. Tal vez en algún otro momento.}
 {327}{}{¿Es así? Je. Bien... de acuerdo, entonces.}
@@ -234,7 +234,7 @@
 {333}{}{Gracias. Es un placer hacer negocios contigo.}
 {334}{}{En realidad, sí... necesito que alguien viaje a territorio de la RNC. Últimamente, he estado escuchando informes de que
  la República podría estar creando una fuerza militar. Sea cierto o no, necesito que alguien se dirija a la RNC e informe.}
-{335}{}{Sin problemas. Ya está hecho.}
+{335}{}{No hay problema. Ya está hecho.}
 {336}{}{¿Simplemente viajar a territorio de la RNC, y volver?}
 {337}{}{Olvídalo. Tenía algunas preguntas más...}
 {338}{}{No, gracias. Adiós.}

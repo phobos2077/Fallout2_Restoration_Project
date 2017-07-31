@@ -1,10 +1,5 @@
-#############################################################
-#  Tía Morlis (Arroyo)     				    #
-#############################################################
-
 {100}{}{Ves a Morlis, una de tus tías... a la que nunca le has gustado.}
 {101}{}{¿Por qué me molestas, sobrino? ¿No ves que estoy ocupada?}
-{301}{}{¿Por qué me molestas, sobrina? ¿No ves que estoy ocupada?}
 {102}{}{Emm... vale. Lo siento.}
 {103}{}{¿Qué pasa? ¡Sabes que tengo mucho que hacer!}
 {104}{}{Emmm, Mynoc dijo...}
@@ -22,7 +17,6 @@
 {116}{}{Otra vez me haces perder el tiempo, ¡sobrino inútil! ¿Cómo es posible que te escogieran a ti como el Elegido?}
 {117}{}{Si, tía Morlis.}
 {118}{}{Eh, tía Morlis, aquí tengo los tres.}
-
 {150}{}{Tía Morlis, estoy en una peligrosa misión para salvar al poblado. Mis posibilidades de supervivencia aumentarían mucho si me quedara con los polvos curativos y me dieras el pedernal. ¿No crees?}
 {151}{}{¿Qué crees que estás haciendo, chiquillo? Esa no es manera de actuar para un Elegido. ¡Ahora desaparece de mi vista!}
 {152}{}{Si este pedernal es tan importante que estás dispuesto a deshonrar el nombre del Elegido, tenlo. Toma el pedernal y desaparece de mi vista.}
@@ -30,9 +24,6 @@
 {154}{}{Bien... Oh, bien. Aquí está el pedernal. Te deseo un buen viaje, hijo.}
 {155}{}{No, no lo creo. Ahora deja de hacerme perder el tiempo y ¡lárgate de aquí!}
 {156}{}{Si, tía Morlis.}
-
-
-# newew add on stuff for time limit
 {200}{}{Así que has vuelto. ¿Has encontrado el sagrado Trece?}
 {201}{}{No, tía Morlis. Yo...}
 {202}{}{¡Entonces vete de aquí y encuéntralo! ¡Nuestra gente depende de ti!}
@@ -50,3 +41,9 @@
 {214}{}{Si, tía Morlis.}
 {215}{}{¡Entonces vete de aquí y encuéntralo! ¡Nuestra gente depende de ti!}
 {216}{}{Si, tía Morlis.}
+{300}{}{Aquí está el pedernal. ¡Ahora lárgate! No tengo tiempo para estar de cháchara.}
+{301}{}{¿Por qué me molestas, sobrina? ¿No ves que estoy ocupada?}
+{302}{}{Well, I can't seem to find the flint. I'm sure you took it from me when I wasn't looking though. I caught you before. Now off with you! I don't have time to gossip.}
+{303}{}{Bien... Oh, bien. Aquí está el pedernal. Te deseo un buen viaje, hijo.}
+{304}{}{No, no lo creo. Ahora deja de hacerme perder el tiempo y ¡lárgate de aquí!}
+{305}{}{Aquí está el pedernal. ¡Ahora lárgate! No tengo tiempo para estar de cháchara.}

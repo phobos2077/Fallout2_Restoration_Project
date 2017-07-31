@@ -5,7 +5,7 @@
 {104}{}{. Tengo el honor de ser tu último desafío. Para terminar con la prueba debes derrotarme en un combate sin armas. ¿Estás preparado?}
 {105}{}{Tengo preguntas.}
 {106}{}{Bien, luchamos.}
-{107}{}{No, primero preparo yo.}
+{107}{}{No, tengo que prepararme primero.}
 {108}{}{Antes tengo algunas preguntas.}
 {109}{}{De acuerdo, divirtámonos.}
 {110}{}{Creo que necesito un momento para prepararme.}
@@ -22,15 +22,15 @@
 {121}{}{Necesito un momento para prepararme.}
 {122}{}{El camino del Elegido no es una senda fácil de seguir, }
 {123}{}{. Te enfrentarás a muchos desafíos a lo largo de tu vida, y el más difícil de ellos será el de tener que luchar contra un compañero. Habrá un momento en el que ni la diplomacia ni el ingenio te serán útiles y en su lugar deberás usar la fuerza. Este desafío te prepara para hacerle frente a otro ser humano, mirarle a los ojos, y saber que tienes que matarlo.}
-{124}{}{Vale.}
+{124}{}{De acuerdo.}
 {125}{}{Ya veo.}
 {126}{}{No, amigo mío, sólo tienes que derrotarme. Cuando lo hagas, terminará el combate.}
-{127}{}{Entiendo.}
+{127}{}{Yo entiendo.}
 {128}{}{De acuerdo.}
 {129}{}{Sí. Las armas tienden a distanciarnos de la batalla y desensibilizar los efectos de nuestras acciones contra los demás. Cuando golpeas a otro humano con el puño, ves y sientes el dolor que le causas. La batalla se hace demasiado personal y real. Esta será una importante lección para ti, }
 {130}{}{.}
 {131}{}{Lo pillo.}
-{132}{}{Entiendo.}
+{132}{}{Entendido.}
 {133}{}{Muy bien. ¿Empezamos?}
 {134}{}{Yo listo.}
 {135}{}{No, tengo que prepararme primero.}
@@ -53,7 +53,7 @@
 {152}{}{Hola, Cameron. ¿Preparado para otro combate?}
 {153}{}{Sólo quería decirte hola. Hasta luego.}
 {154}{}{Toma el camino de mi izquierda, Elegido. Lleva al propio templo. La entrada a la cueva que hay detrás de mí te devolverá a la última estancia.}
-{155}{}{Vale, marcho yo.}
+{155}{}{Vale, marcho.}
 {156}{}{De acuerdo, gracias.}
 {157}{}{Gracias pero no, Elegido. Aún tengo contusiones de nuestro último encuentro y necesitaré tiempo para recuperarme.}
 {158}{}{Adiós, Cameron.}
@@ -67,7 +67,7 @@
 {169}{}{Hmm... tiene sentido. No quiero ser el responsable de tu muerte cuando todo lo que tengo que hacer es probar tu valor. Muy bien. Puedes pasar, Elegido.}
 {170}{}{Hmm... Tiene sentido. Sin embargo, debemos luchar. Tendré mucho cuidado de no herirte demasiado.}
 {171}{}{¡Gracias! Te veré en el poblado.}
-{172}{}{Nos vemos.}
+{172}{}{Ya veo.}
 {200}{}{Aún recuerdo nuestro último combate, Elegido. Siempre me he preguntado cómo pudiste derrotarme.}
 {201}{}{Tienes un pico de oro, Elegido. Tu habilidad con las palabras te abrirá muchas puertas.}
 {300}{}{Y tú también, Elegido. Que los espíritus te guíen en tu búsqueda}

@@ -6,23 +6,16 @@
  coches achatarrados rodea los edificios.}
 {103}{}{Has llegado al establo. Una cerca de malla de alambre rodea las dos entradas
  de la granja.}
-
 {150}{}{[ANTERIOR]}
 {151}{}{[MÁS]}
-
-# family name
 {201}{}{Salvatore}
 {202}{}{Bishop}
 {203}{}{Mordino}
 {204}{}{Wright}
-
 {221}{}{Salvatore's}
 {222}{}{el Club Shark}
 {223}{}{el Desperado}
 {224}{}{}
-
-
-# made man name
 {300}{}{}
 {301}{}{Susurrador}
 {302}{}{Araña}
@@ -38,9 +31,9 @@
 {312}{}{Tornado}
 {313}{}{Renovador}
 {314}{}{Diablillo}
-{315}{}{Grumoso}
+{315}{}{Lumpy}
 {316}{}{Manitas}
-{317}{}{Forro}
+{317}{}{Grueso}
 {318}{}{Carnicero}
 {319}{}{Brocco}
 {320}{}{Dos-Veces}
@@ -55,7 +48,7 @@
 {329}{}{Ojos de Serpiente}
 {330}{}{Lobo}
 {331}{}{Matón}
-{332}{}{Sonrisas}
+{332}{}{Smiley}
 {333}{}{Grueso}
 {334}{}{Perla}
 {335}{}{Reno Jimmy}
@@ -111,15 +104,12 @@
 {385}{}{César}
 {386}{}{Mickey}
 {387}{}{Vagabundo}
-{388}{}{Asesina}
-{389}{}{Carnicero}
+{388}{}{Giuseppe}
+{389}{}{Matarife}
 {390}{}{Rojo}
 {391}{}{Rubí}
 {392}{}{X}
 {393}{}{}
-
-# prizefighter name
-
 {400}{}{}
 {401}{}{Directo}
 {402}{}{Jenny Giratoria}
@@ -143,22 +133,22 @@
 {420}{}{Víbora}
 {421}{}{Mala Mujerrr}
 {422}{}{Mandíbula de Piedra}
-{423}{}{Muro de Piedra}
+{423}{}{Muro de piedra}
 {424}{}{Motosierra}
 {425}{}{Helen Ruedas}
 {426}{}{Tommy Gunn}
 {427}{}{Viuda Negra}
 {428}{}{Smash}
 {429}{}{Dalila}
-{430}{}{Iluminador}
+{430}{}{Relámpago}
 {431}{}{Jocco}
 {432}{}{Hermana Acero}
-{433}{}{Super Trineo}
-{434}{}{Apolo}
+{433}{}{Super almádena}
+{434}{}{Apollo}
 {435}{}{Scrapiron}
 {436}{}{Tigresa}
 {437}{}{Tyson}
-{438}{}{Dama J}
+{438}{}{Lady J}
 {439}{}{Drago}
 {440}{}{Clubber Lang}
 {441}{}{Duquesa}
@@ -186,7 +176,7 @@
 {463}{}{Gata Callejera}
 {464}{}{Bad Mojo}
 {465}{}{Tanque}
-{466}{}{Moratón}
+{466}{}{Grandullón}
 {467}{}{Mynx}
 {468}{}{Escorpión}
 {469}{}{Brioso}
@@ -197,15 +187,10 @@
 {474}{}{Athena}
 {475}{}{Perro Loco}
 {476}{}{}
-
-# special stupid names
 {496}{}{Gran Stu}
 {497}{}{Miami}
 {498}{}{X}
 {499}{}{Tu nombre}
-
-# porn star name
-# male
 {500}{}{}
 {501}{}{Rodd Rokks}
 {502}{}{Randy Mercury}
@@ -256,7 +241,6 @@
 {547}{}{}
 {548}{}{}
 {549}{}{}
-# female
 {550}{}{}
 {551}{}{Vixxxen}
 {552}{}{Mable Syrup}
@@ -307,14 +291,12 @@
 {597}{}{Valerie Vixen}
 {598}{}{Despiadada}
 {599}{}{}
-
-# other boxer names
 {700}{}{Mal Fisto}
 {701}{}{Tony Gunn}
 {702}{}{Mark "Acero" Torrance}
 {703}{}{Xander "Seguro" Holyland}
 {704}{}{Araña}
-{705}{}{Esbelto}
+{705}{}{Slim}
 {706}{}{Dulce Jones}
 {707}{}{Il Roche}
 {708}{}{Tito}
@@ -329,33 +311,23 @@
 {717}{}{Drago}
 {718}{}{Tommy Gunn}
 {719}{}{Apollo}
-
 {750}{}{Joqq}
-{751}{}{Pete McKneely}
+{751}{}{Pete Mc Kneely}
 {752}{}{Evan Holyfeld}
 {753}{}{El Masticador}
-
-# GOING TO THE CHOP SHOP
 {1000}{}{Jules te conduce al interior de los bloques en ruinas que rodean Nuevo Reno. No crees que hubieras encontrado
  este lugar por tu cuenta. En cuanto llegas, Jules desaparece.}
 {1100}{}{El rastro te conduce a los bloques en ruinas que rodean Nuevo Reno.}
-
-# MORDINO/MYRON STASH
 {1200}{}{Descubres una pequeña caja de caudales metálica. No la hubieras encontrado si no la hubieras estado buscando.}
-
-# CODY/CHOP SHOP
 {1300}{}{Cody te conduce a los bloques en ruinas que rodean Nuevo Reno, y después vuelve por donde había venido. No
  crees que hubieras encontrado este lugar por tu cuenta.}
-
-# BOXING LEVELS
 {1400}{}{Has derrotado a tu primer contrincante.}
 {1401}{}{Has derrotado a tu segundo contrincante.}
 {1402}{}{Has derrotado a tu tercer contrincante.}
 {1403}{}{¡Has derrotado al Masticador!}
 {1404}{}{Te has convertido en el nuevo campeón de los pesos pesados de Nuevo Reno.}
-
+{1405}{}{Has derrotado a tu primer contrincante.}
 {1500}{}{Has convencido a la señora Wright para que destruya los alambiques.}
 {1550}{}{Has sido testigo de la transacción secreta.}
-
 {1600}{}{En el fragor de la lucha, el Masticador te arrancó la oreja.}
 {1700}{}{Enfurecido, le arrancas la oreja al Masticador.}

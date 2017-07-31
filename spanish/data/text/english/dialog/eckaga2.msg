@@ -1,8 +1,3 @@
-#############################################################
-#  Kaga -2er encuentro (Encuentros)             #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a un hombre que lleva una armadura de cuero.}
 {101}{}{Ves a Kaga.}
 {102}{}{Lleva una armadura de cuero y tiene el desagradable hábito de hablar de sí mismo en tercera persona.}
@@ -17,4 +12,3 @@
 {111}{}{¡Tu no puedes matar al gran Kaga!}
 {112}{}{Tienes suerte de que Kaga tenga asuntos que tratar.}
 {113}{}{Kaga volverá a verte.}
-

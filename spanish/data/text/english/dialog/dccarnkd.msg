@@ -1,12 +1,5 @@
-#############################################################
-#  Chico del Gran Ananias (Den)   		            #
-#############################################################
-
-
 {100}{}{Ves a un chico gritando eslóganes cursis.}
 {101}{}{Este sucio chico parece haber sido contratado para anunciar alguna clase de atracción turística.}
-
-#Hawking floats
 {500}{}{¡Vean a la Misteriosa Momia!}
 {501}{}{¡Vean la Maravilla de la Antigüedad!}
 {502}{}{¡Una genuina momia, aquí!}
@@ -16,4 +9,3 @@
 {506}{}{¡Los Misterios del Otro Mundo revelados!}
 {507}{}{¡Entren, entren todos!}
 {508}{}{¡Una oportunidad educativa para recordar toda la vida!}
-

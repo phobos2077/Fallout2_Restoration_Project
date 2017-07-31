@@ -1,16 +1,10 @@
-#############################################################
-#  Matón (Den)   		                            #
-#############################################################
-
 {100}{}{Ves a un matón.}
-
 {150}{}{Este matón parece bastante despiadado.}
 {151}{}{Fuera de mi vista.}
 {152}{}{¿Estás buscando problemas?}
 {153}{}{Sigue andando.}
-{154}{}{No me interesa.}
+{154}{}{No estoy interesado.}
 {155}{}{Vete.}
-
 {200}{}{Eh, basura.}
 {201}{}{¿Buscas problemas?}
 {202}{}{Ven aquí, nenaza.}

@@ -1,4 +1,4 @@
-{100}{}{Ves a un comerciante.}
+{100}{}{Ves a una comerciante.}
 {101}{}{Ves a Cal, el comerciante de armas.}
 {102}{}{Ves a un hombre de apariencia aburrida pero amigable.}
 {103}{}{Buenos días, señor. ¿Puedo ayudarle?}
@@ -6,8 +6,8 @@
 {105}{}{Quiero yo información.}
 {106}{}{¿Vendes cosas?}
 {107}{}{No, marcho.}
-{108}{}{Quería cierta información.}
-{109}{}{Desde luego, enséñame lo que tienes a la venta.}
+{108}{}{Necesito cierta información.}
+{109}{}{Desde luego, muéstrame lo que tienes a la venta.}
 {110}{}{No importa.}
 {111}{}{No tengo información para vender. Sólo trato con armas. ¿Quiere ver mis mercancías?}
 {112}{}{Sí.}

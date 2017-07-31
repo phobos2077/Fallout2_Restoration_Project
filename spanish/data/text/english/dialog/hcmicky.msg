@@ -14,12 +14,12 @@
 {113}{}{No importa.}
 {114}{}{¿Yo? Soy Micky, el afable y gentil cazador de tesoros de Broken Hills.}
 {115}{}{¿Caza-zador?}
-{116}{}{A-diós.}
+{116}{}{Adiós.}
 {117}{}{¿Cazador de tesoros?}
 {118}{}{Qué bonito. Buenos días.}
 {119}{}{¡No me digas que no has oído hablar de mí! ¿Nunca te han contado los relatos de Micky el Rápido? ¿De sus
  tiroteos, sus peleas a dos puños, sus perniciosos saqueos?}
-{120}{}{N-no.}
+{120}{}{No.}
 {121}{}{Me temo que nunca he tenido el placer.}
 {122}{}{Bueno, te lo has perdido, amigo. Un día de estos tendré que darte los detalles sangrientos.}
 {123}{}{Bieeeen.}

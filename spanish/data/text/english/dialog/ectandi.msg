@@ -1,8 +1,3 @@
-#############################################################
-#  Tandi (Encuentros)            #
-#  Traducido por Wenck                                      #
-#############################################################
-
 {100}{}{Ves a... Tandi.}
 {101}{}{Ves a una chica preciosa de pelo negro con una expresión encantadora. Está mirando a la distancia con ojos soñadores.}
 {102}{}{Ves a Tandi. Está mirando a la distancia con ojos soñadores.}
@@ -15,4 +10,3 @@
 {109}{}{Dime... ¿Tú y Tycho aún seguís en contacto?}
 {110}{}{Había un bug cuando tú me rescatabas de los bandidos y me traías de vuelta a papá, en que él se liaba a tiros contigo. Dios, ¡eso era un asco¡}
 {111}{}{Me uniría a ti, pero estoy esperando que mi padre, Aradesh, aparezca. Se supone que tenía que haber llegado aquí en alguna revisión anterior.}
-

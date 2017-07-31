@@ -23,24 +23,24 @@
 {122}{}{Quiero ser más carismático.}
 {123}{}{En realidad no necesito nada en este momento.}
 {124}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese. El procedimiento de curación requerirá cinco minutos de tiempo.}
-{125}{}{Bueno.}
-{126}{}{Ni hablar.}
-{127}{}{Está bien.}
+{125}{}{De acuerdo.}
+{126}{}{No importa.}
+{127}{}{De acuerdo.}
 {128}{}{Olvídalo.}
 {129}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese. El veneno será analizado en primer lugar y después se sintetizará el antídoto. El daño en los tejidos se reparará al final. Este proceso requerirá de 30 minutos.}
-{130}{}{Bueno.}
+{130}{}{Vale.}
 {131}{}{No.}
-{132}{}{Desde luego.}
-{133}{}{Olvídalo.}
+{132}{}{Claro.}
+{133}{}{No importa.}
 {134}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese. Se administrarán compuestos anti-radiación y después se reparará el daño en los tejidos. Este proceso requerirá de 60 minutos.}
-{135}{}{Bueno.}
+{135}{}{Vale.}
 {136}{}{No.}
-{137}{}{Muy bien.}
+{137}{}{Bien.}
 {138}{}{He cambiado de opinión.}
 {139}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese. La reestructuración de miembros dañados requerirá de 24 horas.}
-{140}{}{Bueno.}
+{140}{}{Vale.}
 {141}{}{No.}
-{142}{}{Manos a la obra.}
+{142}{}{Hagámoslo.}
 {143}{}{Quizá más tarde.}
 {144}{}{Esta función no está disponible en este momento. Mi librería está incompleta. Necesito un módulo de memoria que detalle los procedimientos médicos apropiados. ¿Tiene ese tipo de modulo?}
 {145}{}{Tengo módulo. Tú tomas.}
@@ -53,7 +53,7 @@
 {152}{}{Sí, estoy de acuerdo.}
 {153}{}{Olvídalo. Ahora mismo no tengo tiempo.}
 {154}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese.}
-{155}{}{Muy bien.}
+{155}{}{De acuerdo.}
 {156}{}{Esta función no está disponible en este momento. Mi librería está incompleta. Necesito un módulo de memoria que detalle los procedimientos médicos apropiados. ¿Tiene ese tipo de modulo?}
 {157}{}{Tengo módulo. Tú tomas.}
 {158}{}{No. Yo encuentro y yo traigo.}
@@ -65,7 +65,7 @@
 {164}{}{Sí, estoy de acuerdo.}
 {165}{}{Olvídalo. Ahora mismo no tengo tiempo.}
 {166}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese.}
-{167}{}{Muy bien.}
+{167}{}{De acuerdo.}
 {168}{}{Esta función no está disponible en este momento. Mi librería está incompleta. Necesito un módulo de memoria que detalle los procedimientos médicos apropiados. ¿Tiene ese tipo de modulo?}
 {169}{}{Tengo módulo. Tú tomas.}
 {170}{}{No. Yo encuentro y yo traigo.}
@@ -77,7 +77,7 @@
 {176}{}{Sí, estoy de acuerdo.}
 {177}{}{Olvídalo. Ahora mismo no tengo tiempo.}
 {178}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese.}
-{179}{}{Muy bien.}
+{179}{}{De acuerdo.}
 {180}{}{Esta función no está disponible en este momento. Mi librería está incompleta. Necesito un módulo de memoria que detalle los procedimientos médicos apropiados. ¿Tiene ese tipo de modulo?}
 {181}{}{Tengo disco. Tú tomas.}
 {182}{}{No. Yo encuentro y yo traigo.}
@@ -89,7 +89,7 @@
 {188}{}{Sí, estoy de acuerdo.}
 {189}{}{Olvídalo. Ahora mismo no tengo tiempo.}
 {190}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese.}
-{191}{}{Muy bien.}
+{191}{}{De acuerdo.}
 {192}{}{El procedimiento solicitado ha sido completado. Por favor, salga del tanque de suspensión.}
 {193}{}{Gracias.}
 {194}{}{Por favor, exponga su pregunta.}
@@ -118,24 +118,19 @@
 {217}{}{Lo siento, EAC. Cambiemos de tema.}
 {218}{}{Las apariencias sugieren que el Enclave no es más que una organización militar. Sin embargo, su nivel de tecnología indica que tienen acceso a técnicas avanzadas de fabricación y a instalaciones de investigación. Tales instalaciones normalmente sólo estarían disponibles para las agencias gubernamentales. Eso sugeriría que el Enclave es el remanente de un gobierno local o federal en vigor antes de la guerra.}
 {219}{}{Vale.}
-{220}{}{Eso es interesante.}
-
-
+{220}{}{Interesante.}
 {221}{}{La Hermandad del Acero es una organización paramilitar dedicada a la salvación de la humanidad a través del uso apropiado de la tecnología. El resto de información está clasificada.}
 {222}{}{Atrás.}
-
 {223}{}{¿Qué le sucedió a Matt?}
 {224}{}{Cargando secuencia...}
 {225}{}{Reproducir ahora.}
 {226}{}{Reproducir más tarde.}
-
 {227}{}{Tú y ese tal Presidente no tendréis éxito.}
 {228}{}{¿Es así?}
 {229}{}{El Elegido ha llegado, y él librará al mundo de tu maldad.}
 {230}{}{No me importan nada tus patéticas profecías. Es más, te has convertido en una molestia con tu intromisión. ¡Eso acaba hoy!}
 {231}{}{Matarme no detendrá nada.}
 {232}{}{Puede ser, pero ver tu cadáver pudriéndose en el suelo me hará sonreír.}
-
 {233}{}{¿Qué crees que estás haciendo ahora?}
 {234}{}{¡JA JA JA! ¡Patético idiota! ¡JA JA JA!}
 {235}{}{Vaya, hace tiempo que no me reía tanto. De todas formas, prepárate a morir.}
