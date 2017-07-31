@@ -42,7 +42,7 @@
 {156}{}{No sabía ni que se podía gozar así.}
 {160}{}{Deberías hablar con Sally.}
 {161}{}{Eres un encanto.}
-{162}{}{Ven y pasemos un buen rato.}
+{162}{}{¡Ven y pasemos un buen rato!}
 {163}{}{Otro día, ven a verme.}
 {164}{}{Sabes como silbar, ¿no?}
 {165}{}{Solía ser pura como la nieve, pero me eche a perder.}

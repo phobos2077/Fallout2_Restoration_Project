@@ -197,7 +197,7 @@
 {627}{}{¿Sabes algo sobre esta botellita vacía de Jet?}
 {628}{}{No creo que el chico muriera por el Jet. Creo que lo envenenaron.}
 {629}{}{Tenía algunas preguntas más…}
-{635}{}{Ah, así que AHORA me sales con esas, ¿verdad? Quieres saber si el viejo Jimmy tiene algo que ver con eso, ¿eh?}
+{635}{}{Ah, así que AHORA me sales con esas, ¿verdad? Quieres saber si el viejo Jimmy tiene algo que ver con eso, ¡¿eh?!}
 {636}{}{No, simplemente preguntaba --}
 {637}{}{Está bien, eso no importa. ¿Negociamos?}
 {638}{}{Oye, tenía algunas preguntas más --}

@@ -72,7 +72,7 @@
  la advertencia. (Gordon mira hacia la puerta) ¡Guardias! ¡Al Santuario, por favor!}
 {159}{}{Así que sigues eligiendo ser un tonto. (Gordon se dirige al guardia Garra mortal). Guardia, por favor saca
  la basura.}
-{160}{}{¡Trae a tu marioneta! ¡Puedo patearos el culo a ambos en un abrir y cerrar de ojos!}
+{160}{}{¡Trae a tu marioneta! Puedo patearos el culo a ambos en un abrir y cerrar de ojos.}
 {161}{}{Lo siento, moderaré mi lengua.}
 {162}{}{Mis disculpas, Gordon. Por favor, perdona mi arrebato.}
 {163}{}{Lo siento. Me olvidé. Por favor, perdóname.}
