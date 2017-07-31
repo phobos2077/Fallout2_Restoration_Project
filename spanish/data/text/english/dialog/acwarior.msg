@@ -24,7 +24,7 @@
 {171}{}{No importa.}
 {172}{}{Ah, imbécil. Dicen que eres el Elegido, pero yo digo que los caminos del Fundador son inescrutables.}
 {173}{}{Oon Ga.}
-{174}{}{Que tengas un buen viaje, imbécil... por nuestro bien.}
+{174}{}{ Que tengas un buen viaje, imbécil... por nuestro bien.}
 {175}{}{¿¿¿???}
 {176}{}{Nos has traicionado. Debes morir.}
 {177}{}{¡Un traidor a su propio pueblo!}

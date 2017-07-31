@@ -39,7 +39,7 @@
 {136}{}{Pensándolo bien, tengo una idea mejor. ¿Por qué no ahorro a las buenas personas de Redding algo de tiempo
  y algunos problemas simplemente matándote aquí y ahora?}
 {137}{}{No estoy seguro de querer molestar a todos los mineros de la Morningstar. Por ahora te permitiré irte
- con una advertencia. Si lo vuelves a hacer...}
+ con una advertencia. Si lo vuelves a hacer…}
 {138}{}{Oh, gracias señor. Sí, señor. Obidiah tendrá cuidado, señor. Gracias.}
 {139}{}{Oh, gracias mamá. Sí, mamá. Obidiah tendrá cuidado, mamá. Gracias.}
 {140}{}{Solo asegúrate de que eres cuidadoso. No quiero volver a oír nada sobre algo así.

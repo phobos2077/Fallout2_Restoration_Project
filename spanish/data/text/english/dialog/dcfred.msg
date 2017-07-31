@@ -5,8 +5,8 @@
 {151}{}{Parece que está bastante contento con su nueva ropa.}
 {200}{}{Algún día me haré rico.}
 {201}{}{Oh, déjame en paz. Estoy ocupado.}
-{202}{}{El plan maestro...}
-{203}{}{Lo averiguaré un día de estos...}
+{202}{}{El plan maestro…}
+{203}{}{Lo averiguaré un día de estos…}
 {204}{}{¿Por qué siempre pierdo?}
 {205}{}{Las mesas deben estar trucadas.}
 {206}{}{...Algún día tendré mi propio local.}
@@ -27,7 +27,7 @@
 {244}{}{Estoy arruinado.}
 {245}{}{Oh tío, necesito algo de pasta.}
 {246}{}{Ahora nunca podré comprarme ropa nueva.}
-{247}{}{Tengo que diseñar un nuevo plan maestro...}
+{247}{}{Tengo que diseñar un nuevo plan maestro…}
 {260}{}{¡Gracias por cubrirme!}
 {261}{}{Eres mi salvador.}
 {262}{}{Pronto tendré tu dinero.}
@@ -144,7 +144,7 @@
 {572}{}{Ella dijo que eres olvidadizo.}
 {573}{}{Mira, no tengo tiempo para esto. ¡Paga de una maldita vez!}
 {574}{}{Rebecca dijo que te lo prestó hace un tiempo.}
-{580}{}{¡No lo soy! Yo… espera. Me prestó dinero una vez. ¿No se lo devolví? Creía que lo había hecho...}
+{580}{}{¡No lo soy! Yo… espera. Me prestó dinero una vez. ¿No se lo devolví? Creía que lo había hecho…}
 {581}{}{No, no lo hiciste. Por eso me ha enviado.}
 {582}{}{Tú sólo págame para que pueda irme de aquí.}
 {590}{}{No lo recuerdo... pero Becky si me ha ayudado a mí y a mis amigos en el paso.}

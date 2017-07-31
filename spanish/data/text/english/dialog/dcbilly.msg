@@ -86,7 +86,7 @@
 {393}{}{¿Puedes traerme una fregona y volver en 5 minutos?}
 {400}{}{Billy, ¡mejor que no hayas dejado el colchón hecho un asco otra vez!}
 {401}{}{Eh, Billy, ¿necesitas la fregona?}
-{402}{}{Billy, tienes la bragueta bajada. OTRA VEZ.}
+{402}{}{Billy, tienes la bragueta bajada. ¡OTRA VEZ!}
 {403}{}{Tú, Billy, no te olvides de cambiarte de pantalones luego.}
 {404}{}{Billy, ¿has estado comiendo rosquillas?}
 {410}{}{Uhhh.}

@@ -39,7 +39,7 @@
 {144}{}{¿A qué viene esa cara tan larga?}
 {145}{}{Da igual, adiós.}
 {146}{}{He oído que había algunos gatos que eran tan grandes como tú y yo. Solían comer animales tan grandes como un brahmin. Eso da miedo.}
-{147}{}{¡Eso no es nada!}
+{147}{}{Eso no es nada.}
 {148}{}{Sí, da miedo.}
 {149}{}{Pero de lo que estoy hablando es de un pequeño animal muy mono, más grande que una rata pero más pequeño que un perro. Algunos son bolas de pelo, como mi Mimosa, pero otros lo tienen corto.}
 {150}{}{¿De verdad?}

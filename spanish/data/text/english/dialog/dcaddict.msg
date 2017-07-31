@@ -27,19 +27,19 @@
 {207}{}{Shhh, me estoy ocultando.}
 {208}{}{¡Corro más rápido que un lobo!}
 {209}{}{¡Me siento tan viva!}
-{210}{}{Corre por mis venas...}
+{210}{}{Corre por mis venas…}
 {211}{}{Justo ahí, cariño.}
 {212}{}{Oooohhh, ¿puedes sentir el poder?}
-{213}{}{Guau, estás brillando...}
+{213}{}{Guau, estás brillando…}
 {214}{}{¡Te quiero, tío!}
 {215}{}{La vida se ha portado bien conmigo. ¿Y contigo?}
 {216}{}{Las pequeñas vuelan por la noche.}
 {217}{}{Dile hola a mi amiguito.}
-{218}{}{Chico, qué sueño...}
+{218}{}{Chico, qué sueño…}
 {219}{}{¿Has visto a mi perro?}
-{220}{}{Shhh, están detrás de ti...}
+{220}{}{Shhh, están detrás de ti…}
 {221}{}{¡Mío!}
-{222}{}{¡Me haz roto oz dientez!}
+{222}{}{Oooh, mi cabeza.}
 {223}{}{Me duele todo.}
 {224}{}{Me están empezando a entrar los temblores.}
 {225}{}{Oh, necesito más.}

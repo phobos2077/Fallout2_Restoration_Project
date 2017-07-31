@@ -37,7 +37,7 @@
 {135}{}{¿Quién nos liderará ahora que Marcus se ha ido?}
 {136}{}{¿Dónde podremos encontrar refugio ahora?}
 {137}{}{Esos bastardos de la RNC. Será mejor que no vuelvan por aquí nunca más, no si saben lo que les conviene.}
-{138}{}{Me pregunto si NUESTROS humanos estaban detrás de esto...}
+{138}{}{Me pregunto si NUESTROS humanos estaban detrás de esto…}
 {139}{}{Gracias por salvar a los mutantes.}
 {140}{}{Tendríamos que linchar al bastardo que intentó envenenar a nuestros mutantes.}
 {141}{}{Han pasado tantas cosas… que me da vueltas la cabeza…}
@@ -63,7 +63,7 @@
 {160}{}{¿Conseguirá Broken Hills algún día acabar las disputas entre humanos y mutantes?}
 {161}{}{Esos bastardos, Jacob y Aileen, siempre me trataron como un ciudadano de segunda clase. Esto les enseñará.}
 {162}{}{No creo que Broken Hills llegue a recuperarse de la pérdida de la mina...}
-{163}{}{Todos los mutantes... muertos...}
+{163}{}{Todos los mutantes... muertos…}
 {164}{}{…ahora nunca sabremos si habríamos podido tener paz entre mutantes y humanos…}
 {165}{}{Es hora de marcharse y ver lo que el resto del mundo puede ofrecer… no merece la pena desenterrar
  la mina.}

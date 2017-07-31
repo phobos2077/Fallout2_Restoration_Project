@@ -43,7 +43,7 @@
 {302}{}{Espero que todo te vaya bien.}
 {303}{}{¿Así que tu vas a ayudarnos?}
 {304}{}{Me alegro de verte.}
-{305}{}{Se la haremos pagar a Tyler muy pronto...}
+{305}{}{Se la haremos pagar a Tyler muy pronto…}
 {306}{}{¿Hay novedades?}
 {310}{}{Gracias por la ayuda. Que pena lo de Lara.}
 {311}{}{¡Lo conseguimos!}

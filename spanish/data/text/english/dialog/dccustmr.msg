@@ -31,7 +31,7 @@
 {315}{}{Estas no están aguadas de ninguna manera.}
 {316}{}{Esa chica sabe lo que se hace.}
 {317}{}{Nada mejor que buena bebida y buena compañía.}
-{318}{}{El único problema que tienen las bebidas de Becky es que acabas tomando demasiadas.}
+{318}{}{El único problema que tienen las bebidas de Becky es que ¡acabas tomando demasiadas!}
 {319}{}{Becky… es decir, Rebecca, es un encanto.}
 {320}{}{Si alguna vez alguien le pone un dedo encima, se arrepentirá.}
 {321}{}{Esto está muy bueno.}
@@ -71,7 +71,7 @@
 {433}{}{¿Tubby te vendió mierda mala, no?}
 {434}{}{Corre el rumor de que te cargaste a Tubby a causa de un trato que salió mal o algo así.}
 {435}{}{No me sorprende, la verdad. Últimamente mucha gente estaba irritada con Tubby.}
-{440}{}{Hoy no me interesa nada...}
+{440}{}{Hoy no me interesa nada…}
 {441}{}{Oh, hola. Hablaba con mi buen amigo Flick.}
 {442}{}{¿Qué estas haciendo aquí?}
 {443}{}{¿Tú también eres amigo de Flick?}

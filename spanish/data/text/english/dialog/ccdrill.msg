@@ -67,7 +67,7 @@
 {166}{}{¡Guardias! ¡Intrusos!}
 {167}{}{¿Quién demonios ha dejado que estos bastardos entren? ¡Guardias!}
 {168}{}{¡Alerta! ¡Espías en el complejo!}
-{169}{}{¿Dónde está ese soldado patoso?}
+{169}{}{¡¿Dónde está ese soldado patoso?!}
 {200}{}{.}
 {201}{}{, Señor!}
 {300}{}{¡Te dije que no volvieras aquí sin tu uniforme!}

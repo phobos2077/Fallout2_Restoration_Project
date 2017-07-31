@@ -55,7 +55,7 @@
 {154}{}{Toma el camino de mi izquierda, Elegido. Lleva al propio templo. La entrada a la cueva que hay detrás de mí te devolverá a la última estancia.}
 {155}{}{Vale, marcho.}
 {156}{}{De acuerdo, gracias.}
-{157}{}{Gracias pero no, Elegido. Aún tengo contusiones de nuestro último encuentro y necesitaré tiempo para recuperarme.}
+{157}{}{Gracias pero no, Elegido. Aún tengo contusiones de nuestro último encuentro y ¡necesitaré años para recuperarme!}
 {158}{}{Adiós, Cameron.}
 {159}{}{Que tengas un buen día, Cameron.}
 {160}{}{Elegido... y una mierda. ¡Eres hombre muerto!}

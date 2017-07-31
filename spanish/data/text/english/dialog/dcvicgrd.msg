@@ -45,7 +45,7 @@
 {305}{}{Por supuesto. No sabía que quisieras hablar con él, lo siento. Tan sólo pensaba que tenías curiosidad.}
 {306}{}{Gracias.}
 {310}{}{¿Eh? ¿Tienes la costumbre de meterte en sitios que no conoces? Esto es el Gremio de Esclavistas.}
-{311}{}{Oh, así que el nombre de tu jefe es...}
+{311}{}{Oh, así que el nombre de tu jefe es…}
 {312}{}{Oh, ¿es ahí dónde estoy? Pensé que estaba en Kansas.}
 {313}{}{Vale, gracias.}
 {320}{}{¿Dónde? No, nunca he oído hablar de ese sitio. Esto es La Guarida. No estoy seguro de dónde está ese sitio, porque no salgo mucho. Lo siento.}
@@ -81,7 +81,7 @@
 {410}{}{Deja de molestarme. Ve a hablar con Metzger. Él es el jefe.}
 {411}{}{¡Déjame en paz! ¿Qué problema tienes?}
 {412}{}{¡Dije que hablaras con Metzger!}
-{413}{}{¡Vale, bien! Puedes hablar con él, ¡pero eso es todo! No va a poner un pie fuera de ese cuarto. ¿Me oyes? Ahora, fuera de mi vista.}
+{413}{}{¡Vale, bien! Puedes hablar con él, ¡pero eso es todo! No va a poner un pie fuera de ese cuarto. ¿Me oyes? Ahora, ¡fuera de mi vista!}
 {414}{}{De acuerdo.}
 {415}{}{¡Gracias!}
 {430}{}{Sí, habla con Metzger. Estoy seguro de que tiene trabajo que darte. Creo que dijo que necesitaba otro hombre más.}

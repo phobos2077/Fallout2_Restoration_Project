@@ -6,7 +6,7 @@
 {105}{}{Por supuesto.}
 {106}{}{Me gustaría pensármelo un poco más.}
 {107}{aeld2a}{Estoy orgullosa de ti, Elegido. Has superado muchos obstáculos. Ahora. Debes encontrar el Refugio 13. Refugio 13. Trae el GECK. GECK. Aquí hay una botella brillante. Vic nos la dio. Vic. Es un mercader en Klamath. Klamath. Busca a Vic. Encuentra el Refugio 13. Encuentra el GECK. Vuelve a casa. Haz lo que puedas, pequeño.}
-{112}{aeld2b}{No has encontrado el refugio. ¡Busca Refugio! ¡Refugio 13!}
+{112}{aeld2b}{No has encontrado el refugio. ¡Busca Refugio! Refugio 13.}
 {113}{}{Uh.}
 {114}{aeld3}{Elegido, ¿quieres que muramos todos? ¡Debes encontrar el Refugio!}
 {115}{}{Lo siento, Anciana. No te fallaré.}
@@ -18,7 +18,7 @@
 {121}{}{¡No voy a hacer que me maten!}
 {122}{}{¿Qué se supone que tenía que hacer ahora?}
 {123}{}{Me largo.}
-{124}{aeld5}{Esas son buenas noticias, pero no es suficiente para salvarnos. Debes volver pronto con el GECK o nuestro pueblo morirá.}
+{124}{aeld5}{Esas son buenas noticias, pero no es suficiente para salvarnos. Debes volver pronto con el GECK o ¡nuestro pueblo morirá!}
 {125}{}{Necesito algo más de información.}
 {126}{}{Bien, me marcho ahora.}
 {127}{aeld6}{Has sobrevivido. El Elegido no puede ser débil o todos estaremos condenados. ¿Estás preparado para tu misión?}
@@ -114,6 +114,6 @@
 {234}{eeld13}{Así es como lo llaman. Nos clavan agujas en la piel, como estimulantes, pero ocurren cosas terribles. Entonces... (le dan arcadas)}
 {235}{}{¿Y entonces qué?}
 {236}{}{Esto me va a hacer vomitar, ¿no?}
-{237}{eeld13a}{Entonces la piel burbujea, como si hubiera gusanos dentro de ella. Crecen pústulas y explotan. Sale sangre de los oídos y la lengua se hincha. Los que tienen suerte se ahogan hasta morir. Los que no...}
+{237}{eeld13a}{Entonces la piel burbujea, como si hubiera gusanos dentro de ella. Crecen pústulas y explotan. Sale sangre de los oídos y la lengua se hincha. Los que tienen suerte se ahogan hasta morir. Los que no…}
 {238}{}{Pagarán por ello.}
 {239}{}{Eso ha sido bastante desagradable. ¿Qué se supone que debo hacer?}

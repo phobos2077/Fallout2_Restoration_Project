@@ -23,7 +23,7 @@
 {229}{}{Tubby es nuestro colega.}
 {230}{}{Tubby nos hace felices.}
 {231}{}{Oh, amigo, oh, amigo, oh, amigo… mierda, mis ojos.}
-{232}{}{Eh, amigo, ¿eres un negrero? Caray...}
+{232}{}{Eh, amigo, ¿eres un negrero? Caray…}
 {233}{}{¿Te dolió ese tatuaje?}
 {234}{}{Vosotros los esclavistas sois duros.}
 {235}{}{¿No es peligroso ser un negrero?}
@@ -75,7 +75,7 @@
 {309}{}{Porque son verdes.}
 {310}{}{Las patatas no son verdes.}
 {311}{}{Ohhh, qué bonitas luces.}
-{312}{}{Oh, me duele la cabeza...}
+{312}{}{Oh, me duele la cabeza…}
 {320}{}{No me hables, amigo. Me duele la cabeza.}
 {321}{}{No se lo contaré a nadie.}
 {322}{}{No me hagas daño.}

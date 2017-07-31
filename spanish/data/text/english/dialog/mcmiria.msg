@@ -66,7 +66,7 @@
 {402}{}{¡Sí quiero!}
 {410}{}{Uhh...}
 {411}{}{Ehhh... Continúa, por favor...}
-{412}{}{Yo... eh... yo...}
+{412}{}{Yo... eh... yo…}
 {413}{}{Um… Sí quiero.}
 {420}{}{¡Inmundo!}
 {450}{}{Uhhh, es con papi con quien deberías hablar.}

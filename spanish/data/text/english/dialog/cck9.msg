@@ -55,7 +55,7 @@
 {154}{}{Parece que ahora soy completamente funcional. ¿Debo unirme a ti?}
 {155}{}{Ahí no va, amo. ¿Estás seguro de que sabes lo que estás haciendo?}
 {156}{}{Vale. Perrito viene conmigo.}
-{157}{}{¡Yo sé qué hace! ¡Intento otra vez!}
+{157}{}{¡Yo sé qué hace! Intento otra vez.}
 {158}{}{Si, vámonos.}
 {159}{}{Eh, que he arreglado cosas más complejas que tú, chucho sarnoso. Cállate y déjame intentarlo de nuevo.}
 {160}{}{Vete. No quiero un amo como tú.}

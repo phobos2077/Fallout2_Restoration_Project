@@ -63,7 +63,7 @@
 {210}{}{Umm... ¿Hunh?}
 {211}{}{¡Desgraciado! ¡Le has fallado al poblado!}
 {212}{}{Nos has traicionado. ¡Morirás por ello!}
-{213}{}{¡Un traidor a su propio pueblo!}
+{213}{}{Eres un traidor a su propia gente.}
 {214}{}{¿Por qué haces esto?}
 {215}{}{La Anciana se equivocó. Eres malvado.}
 {300}{}{Mi padre me enseñó cómo hacer hojas más afiladas. Consígueme un pedazo de pedernal y también afilaré tu lanza. La necesitarás en el Yermo.}

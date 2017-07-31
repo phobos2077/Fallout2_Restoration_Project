@@ -627,7 +627,7 @@
 {2662}{}{¡Nuestra magia funciona!}
 {2663}{}{¡Mi magia me hace invencible!}
 {2664}{}{¡Tu fuerza vital se debilita!}
-{2665}{}{El miedo mata la mente.}
+{2665}{}{El miedo es el asesino de la mente}
 {2666}{}{¡Mi canción de batalla funciona!}
 {2667}{}{¡Nuestros hijos sabrán más de la batalla!}
 {2668}{}{Has conocido la paz durante demasiado tiempo.}

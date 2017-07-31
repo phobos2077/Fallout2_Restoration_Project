@@ -109,7 +109,7 @@
 {523}{}{¿Por qué hablas conmigo?}
 {524}{}{Déjame tranquilo.}
 {525}{}{No quiero hablar contigo.}
-{526}{}{¿Cómo has podido?}
+{526}{}{¡¿Cómo has podido?!}
 {527}{}{No quiero volver a verte nunca.}
 {528}{}{Esto no va a cambiar las cosas.}
 {529}{}{Seguiré mi propio camino, si no te importa.}

@@ -7,7 +7,7 @@
 {106}{}{¡Mis mascotas se darán un festín con tus huesos!}
 {107}{}{¡Te avisé! ¡Atacad, mis mascotas!}
 {1000}{}{¡SHAHOOEY!}
-{1001}{}{¡Mis Garras se ocuparán de ti!}
+{1001}{}{Mis Garras se ocuparán de ti.}
 {1002}{}{¡Garras, atacad!}
 {1010}{}{¡ABADABRA!}
 {1011}{}{Melchior crea mascotas de fuego para abrasar al humano.}

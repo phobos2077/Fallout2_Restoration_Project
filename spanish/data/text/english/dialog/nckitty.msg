@@ -3,7 +3,7 @@
 {200}{}{Las rentas del primer cuatrimestre han aumentado ligeramente… sin embargo, si tenemos en cuenta el incremento en los tributos…}
 {201}{}{Si la pillo tomando Jet, aunque sólo sea una pizca, se larga de aquí de inmediato…}
 {202}{}{Ya falta menos para que empiecen los chequeos mensuales… justo a tiempo para la nueva temporada de caravanas.}
-{203}{}{Necesito conseguir más chicas para la fiesta en la piscina de los Bishop.}
+{203}{}{Necesito conseguir más chicas para la fiesta en la piscina de los Bishop…}
 {204}{}{Malditas hojas de cálculo de Macrosoft…}
 {205}{}{Paso demasiado tiempo actualizando hojas de cálculo, y no puedo dedicarme al trabajo DE VERDAD.}
 {206}{}{Más vale que Jules envíe pronto a gente cachonda… y sana… esta vez.}
@@ -160,8 +160,7 @@ el mismo mensaje continuamente. Aunque seguro que TODAVÍA seguirá saliendo, aunq
 {523}{}{Qué demonios, Miss Kitty. Cualquiera habría hecho lo mismo en mi lugar.}
 {524}{}{Yaaaaa te digo, nena. Y es lo más valiente que habrás oído jamás, porque soy lo PEOR de lo peor.}
 {525}{}{No fue nada que cualquier mujer bien jodida porque su poblado hubiera sido raptado no habría hecho.}
-{526}{}{ es lo más valiente que habrás oído jamás, porque soy la MAYOR zorra
- del Yermo.}
+{526}{}{Y es lo más valiente que habrás oído jamás, porque soy la MAYOR zorra del Yermo.}
 {527}{}{Gracias. Sólo hago mi trabajo cual heroína.}
 {528}{}{Gracias. Sólo hago mi trabajo cual héroe.}
 {529}{}{Patear culos y quedarme con las chicas, ese es mi trabajo.}
@@ -169,13 +168,13 @@ el mismo mensaje continuamente. Aunque seguro que TODAVÍA seguirá saliendo, aunq
 {546}{}{Eres tan fuerte. Tienes tanta… confianza. }
 {547}{}{TODO tú me encanta. (Hace un ademán hacia La Garra de la Gata). Siempre serás bienvenido aquí, y sin coste alguno.}
 {548}{}{Y… ¿qué hay de aquella cita de la que hablamos hace algún tiempo?}
-{549}{}{Y… ¿qué tal… ya sabes, tú y yo… si entonces… ya sabes…}
+{549}{}{Y… ¿qué tal… ya sabes, tú y yo… si entonces… ya sabes.}
 {550}{}{Muñeca, empiezo a sentirme como una máquina, y eso no es plan. Ven aquí.}
 {551}{}{¡Genial! Oye, tenía algunas preguntas antes de darme el gustazo…}
 {552}{}{Gracias. Lo agradezco, Miss Kitty.}
 {553}{}{No esperaba menos. Me pasaré mas tarde.}
 {565}{}{De acuerdo entonces, }
-{566}{}{ …deja que tome mi abrigo.}
+{566}{}{…deja que tome mi abrigo.}
 {567}{}{No hay prisa. Tómate tu tiempo.}
 {568}{}{Por suerte yo tengo mi "abrigo" en el bolsillo. Je je.}
 {569}{}{Claro. Pero date prisa… tenemos reserva para las ocho. Bajo mis PANTALONES.}

@@ -47,7 +47,7 @@
 {146}{}{¿Tú otra vez? ¿Qué pasa ahora?}
 {147}{}{Sí, yo tengo rifle plasma. ¡Eso suficiente!}
 {148}{}{No, aún no.}
-{149}{}{Sí, aquí tengo un arma enorme de cojones. ¿Es suficiente autorización para ti?}
+{149}{}{Sí, aquí tengo un arma enorme de cojones. ¡Es suficiente autorización para mi!}
 {150}{}{No, aún no.}
 {151}{}{Yo pregunto algo.}
 {152}{}{Yo sólo digo hola.}

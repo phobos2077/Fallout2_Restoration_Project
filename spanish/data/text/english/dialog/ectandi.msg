@@ -8,5 +8,5 @@
 {107}{}{Realmente he oído que 'Yo' estoy en Fallout 2, en algún lugar. No quiero encontrarme, creo... Ambas acabaríamos aterrorizadas.}
 {108}{}{Lo siento, pero no tengo mejores habilidades de combate que en Fallout 1. Supongo que no conseguí mejorarlas mucho.}
 {109}{}{Dime... ¿Tú y Tycho aún seguís en contacto?}
-{110}{}{Había un bug cuando tú me rescatabas de los bandidos y me traías de vuelta a papá, en que él se liaba a tiros contigo. Dios, ¡eso era un asco¡}
+{110}{}{Había un bug cuando tú me rescatabas de los bandidos y me traías de vuelta a papá, en que él se liaba a tiros contigo. Dios, ¡eso era un asco!}
 {111}{}{Me uniría a ti, pero estoy esperando que mi padre, Aradesh, aparezca. Se supone que tenía que haber llegado aquí en alguna revisión anterior.}

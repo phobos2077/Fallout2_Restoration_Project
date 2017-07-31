@@ -44,7 +44,7 @@
 {405}{}{¡Inmundo!}
 {410}{}{Uhh...}
 {411}{}{Ehhh... Continúa, por favor...}
-{412}{}{Yo... eh... yo...}
+{412}{}{Yo... eh... yo…}
 {413}{}{Um… Sí quiero.}
 {450}{}{Uhhh, no es conmigo con quien deberías hablar.}
 {500}{}{Oh chico, voy a ser el jefe de todo esto.}

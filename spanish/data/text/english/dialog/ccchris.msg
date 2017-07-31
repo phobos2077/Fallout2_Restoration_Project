@@ -31,7 +31,7 @@
 {130}{}{Estás mintiendo. Sé que Navarro está aquí. ¡Dime la verdad o te arrepentirás!}
 {131}{}{¿Eh? Uh... Estoy seguro que es eso. ¡Oí hablar de ella hace bastante! La base militar Navarro, al sudeste de San Francisco.}
 {132}{}{Tu mentiroso. Yo no soy paciencia. ¡Dices verdad o hago que tú lamentas!}
-{133}{}{Mientes. No tengo tiempo para esto. ¡Dime la verdad o te arrepentirás!}
+{133}{}{Mientes. No tengo tiempo para esto. Dime la verdad o te arrepentirás.}
 {134}{}{¡Que te jodan! (saca una radio de la túnica) ¿Quieres verme arrepentido? Tengo a unos chicos que te enseñarán el verdadero significado de la palabra arrepentirse! (comienza a encender la radio)}
 {135}{}{¡Yo mato a ti y tú muerto!}
 {136}{}{¿Qué haces tú ahora?}

@@ -65,7 +65,7 @@
 {172}{}{¡Más meaos para todos!}
 {173}{}{Me hacía falta una. Gracias.}
 {174}{}{¡Un millón de gracias!}
-{175}{}{Prefiero que me hagan una lobotomía frontal...}
+{175}{}{Prefiero que me hagan una lobotomía frontal…}
 {176}{}{¡Meaos dorados!}
 {177}{}{¡Bien!}
 {178}{}{Me encantan estos meaos.}

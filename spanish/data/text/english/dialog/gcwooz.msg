@@ -114,7 +114,7 @@ preguntar a la gente de Ciudad Refugio dónde podría
 {271}{}{Lo sabía. Te estaba poniendo a prueba. Wooz, qué listo eres. Cuéntame 
 algo más.}
 {272}{}{¡No lo soy! Tú sí que eres tonto. Me largo. Adiós.}
-{280}{}{(Wooz se te acerca) Déjame susurrártelo...}
+{280}{}{(Wooz se te acerca) Déjame susurrártelo…}
 {281}{}{De acuerdo.}
 {282}{}{Ni hablar; tú lo que estás intentando es comerme los sesos, ¿no? Me voy. Hasta la próxima.}
 {290}{}{¡¡¡QUE TE DEN!!! Sal de mi bar ahora mismo. Elegido. Por Cristo, menudo perdedor.}
@@ -209,7 +209,7 @@ genética. Espero que empiecen contigo. Adiós.}
 {490}{}{Pues con misiles y torpedos... muchacho, eres imbécil, ¿verdad? Con altas cantidades de radiación, así es cómo.
  ¿Cómo crees que fue si no? Cayeron muchas bombas, ¿sabes?, surgían rayos de luz y calor, la carne se nos 
 quemó. Pero si a pesar de ello no mueres... te conviertes en esto, ¿no?}
-{491}{}{Ah, bueno, entiendo...}
+{491}{}{Ah, bueno, entiendo…}
 {500}{}{Bueno, apenas lo recordaba. Que te den mucho por recordarme esos intensamente dolorosos 
 recuerdos, cabrón. Somos una ciudad de dejados de la mano de Dios ... de piel chamuscada.}
 {501}{}{Prefiero quedarme "poco hecho". Oye, déjame preguntarte algo más.}
@@ -244,7 +244,7 @@ que no tengas sentido del humor.}
 {707}{}{Juguemos al Tragic.}
 {708}{}{Soy el peor jugador de Tragic del mundo.}
 {709}{}{¡FUERTE!}
-{710}{}{¡Pierdo en todos los juegos!}
+{710}{}{Pierdo en todos los juegos.}
 {711}{}{Soy el mayor idiota que he conocido nunca.}
 {712}{}{¡¡¡ODIO!!!}
 {713}{}{¿Dónde está la horda de enanas?}

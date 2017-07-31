@@ -1,6 +1,6 @@
 {100}{}{Ves a una mujer delgada y bronceada.}
 {101}{}{Ves a una granjera.}
-{102}{}{Te das cuenta de que tiene un moreno de granjero.}
+{102}{}{¡Dejarnos solos!}
 {103}{}{Odio a los bandidos.}
 {104}{}{No tenemos nada que robar.}
 {105}{}{No me mates.}

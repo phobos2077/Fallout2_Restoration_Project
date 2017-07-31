@@ -6,9 +6,9 @@
 {202}{}{¡Perímetro roto!}
 {203}{}{¡Tenemos intrusos, muchachos!}
 {204}{}{¡A divertirse, muchachos, tenemos un intruso!}
-{205}{}{Vaya, mira quién ha venido aquí a morir...}
+{205}{}{Vaya, mira quién ha venido aquí a morir…}
 {206}{}{¡Maldición! ¡Alguien nos ha encontrado!}
-{207}{}{Tienes huevos viniendo aquí...}
+{207}{}{Tienes huevos viniendo aquí…}
 {208}{}{Has venido al lugar equivocado, puta.}
 {209}{}{Vaya, mira cómo se pavonea esta golfa...}
 {250}{}{Salimos a beber, y él lo llamó 'hora de ajuste de actitud', así que le dimos una patada en el culo.}

@@ -130,7 +130,7 @@
 {11601}{}{Una rata mutante}
 {11700}{}{Rata Topo mutante}
 {11701}{}{Una rata topo mutante}
-{11800}{}{ Mutante}
+{11800}{}{Rata Cerdo mutante}
 {11801}{}{Una rata cerdo mutante}
 {11900}{}{Supermutante}
 {12000}{}{Mutante poderoso}

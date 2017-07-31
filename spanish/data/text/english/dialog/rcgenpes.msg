@@ -46,7 +46,7 @@
 {145}{}{Eres el mejor.}
 {146}{}{Los tribales también son personas.}
 {147}{}{Nada como tener buenos amigos ¿no?}
-{148}{}{Creo que voy a cantar...}
+{148}{}{Creo que voy a cantar…}
 {149}{}{Devolveré más de lo que te dije antes.}
 {150}{}{Vaya amigo.}
 {151}{}{Los tribales sois nuestra clase de gente.}

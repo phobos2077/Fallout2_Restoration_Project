@@ -14,7 +14,7 @@
 {113}{}{Nivel:}
 {114}{}{EXP:}
 {115}{}{Next Level:}
-{116}{}{ PUNTOS PJ.}
+{116}{}{PUNTOS PJ.}
 {117}{}{HABILIDADES}
 {118}{}{¡Debes usar todos los puntos de personaje}
 {119}{}{antes de comenzar el juego!}

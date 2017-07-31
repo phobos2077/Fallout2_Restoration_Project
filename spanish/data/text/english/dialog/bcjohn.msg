@@ -12,4 +12,4 @@
 {111}{}{Gracias por todo lo que has hecho. Me disculpo por el frío recibimiento de antes.}
 {112}{}{Que te jodan, ¡gilipollas!}
 {113}{}{Maldición, odio cuando ocurre eso.}
-{114}{}{¡Chúpate esa! ¡Eso te enseñará!}
+{114}{}{¡Chúpate esa! Eso te enseñará.}

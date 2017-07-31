@@ -15,7 +15,7 @@
 {253}{}{Es con Tyler con quien tienes que hablar, no conmigo, amigo.}
 {255}{}{¡Vamos a darles una buena esta noche!}
 {256}{}{¡Esta noche es la noche!}
-{257}{}{¡Esta noche será para recordar!}
+{257}{}{Esta noche será para recordar.}
 {258}{}{No me digas que se han acobardado.}
 {259}{}{Oh, seguro que esos cabrones aparecen.}
 {260}{}{Sabía que esas nenazas no aparecerían.}

@@ -37,7 +37,7 @@
 {286}{}{I don't care if your friend one of the Ex-Men, mutants wait outside.}
 {286}{}{¿Quién eres?}
 {287}{}{Ese monstruo mutante no está permitido aquí.}
-{287}{}{Tenía algunas preguntas más…}
+{287}{}{¿Quién es ese tipo viejo en la máquina tragaperras?}
 {288}{}{Ese cómico que tenéis en el escenario apesta. ¿Te importa si lo intento yo?}
 {289}{}{Gracias. ¿Necesitas a alguien que baile durante la noche? No me importaría una participación limitada.}
 {290}{}{Gracias, lo haré.}
@@ -88,7 +88,7 @@
 {347}{}{¿Quién eres?}
 {347}{}{¿Quién eres?}
 {348}{}{A quién pertenece este casino?}
-{348}{}{Tenía algunas preguntas más…}
+{348}{}{¿Quién es ese tipo viejo en la máquina tragaperras?}
 {349}{}{De acuerdo, gracias. Lamento haberte molestado.}
 {349}{}{Ese cómico que tenéis en el escenario apesta. ¿Te importa si lo intento yo?}
 {350}{}{Gracias. ¿Necesitas a alguien que baile durante la noche? No me importaría una participación limitada.}
@@ -115,7 +115,7 @@
 {367}{}{¿La máquina está trucada?}
 {367}{}{¿Quién eres?}
 {368}{}{Tenía algunas preguntas más…}
-{368}{}{Tenía algunas preguntas más…}
+{368}{}{¿Quién es ese tipo viejo en la máquina tragaperras?}
 {369}{}{Gracias por la información.}
 {369}{}{Gracias. ¿Necesitas a alguien que baile durante la noche? No me importaría una participación limitada.}
 {370}{}{Gracias, me halaga. Sólo me he detenido a saludar.}

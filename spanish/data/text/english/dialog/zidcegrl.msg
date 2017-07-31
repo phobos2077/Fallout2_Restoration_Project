@@ -89,7 +89,7 @@
 {325}{}{Me juego los pantalones.}
 {326}{}{¿Qué es este juego? ¿Puedo apostar una piel de gecko?  Geck…ooooh… ¡luces brillantes! [Te alejas].}
 {327}{}{[Tienes }
-{328}{}{ Apuestas }
+{328}{}{Apuestas }
 {329}{}{Ey, demasiado rico para este planeta.}
 {330}{}{Nada de apuestas hoy, gracias.}
 {331}{}{Uhhh, lo siento, no sé cómo jugar a estos dichosos juegos.}
@@ -126,10 +126,10 @@
 {2203}{}{!Bienvenido al casino, héroe!}
 {2215}{}{. ¿Puedo ayudarte con… *lo que sea*?}
 {2219}{}{.}
-{2255}{}{ . ¿Quieres gastar algunas fichas?}
+{2255}{}{. ¿Quieres gastar algunas fichas?}
 {2258}{}{, ganas algunas fichas.}
 {2260}{}{.}
-{2261}{}{ . Házme saber si puedo ayudarte con lo que sea.}
+{2261}{}{. Házme saber si puedo ayudarte con lo que sea.}
 {2262}{}{?}
 {2263}{}{.}
 {2321}{}{ dólares. Haz tu apuesta…}

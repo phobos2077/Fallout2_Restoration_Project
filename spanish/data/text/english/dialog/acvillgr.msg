@@ -28,7 +28,7 @@
 {175}{}{¿¿¿???}
 {176}{}{¡Estamos condenados! Has fracasado en tu búsqueda.}
 {177}{}{No podemos seguir así.}
-{180}{}{¡Un traidor a su propio pueblo!}
+{180}{}{Eres un traidor a su propia gente.}
 {181}{}{¿Por qué haces esto?}
 {182}{}{Eres malvado. ¡El Elegido es malvado!}
 {183}{}{Vienen a nuestro poblado desde el este, aunque suelen traer pocas cosas.}

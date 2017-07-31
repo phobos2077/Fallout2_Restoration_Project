@@ -19,7 +19,7 @@
 {118}{}{¿Qué papeles?}
 {119}{}{¡Chúpamela!}
 {120}{}{Creo que no los llevo encima...}
-{121}{}{¿Los papeles? Los tengo aquí mismo.}
+{121}{}{¿Los papeles? ¡Los tengo aquí mismo!}
 {122}{}{Respuesta errónea, gusano. Debes llevar tus papales contigo en todo momento. ¡Deberías saberlo!}
 {123}{}{Vete a la mierda.}
 {124}{}{Deja mi casillero tranquilo o te daré una buena paliza.}

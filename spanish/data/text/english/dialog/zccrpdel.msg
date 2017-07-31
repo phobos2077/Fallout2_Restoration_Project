@@ -75,11 +75,11 @@
 {400}{}{Atrás...}
 {500}{}{¿}
 {501}{}{.}
-{600}{}{ Siete. Apuesta finalizada.}
-{601}{}{ Once. Apuesta finalizada.}
-{602}{}{ Dos, pase inglés.}
-{603}{}{ Tres, pase inglés.}
-{604}{}{ Doce, pase inglés.}
+{600}{}{Siete. Apuesta finalizada.}
+{601}{}{Once. Apuesta finalizada.}
+{602}{}{Dos, pase inglés.}
+{603}{}{Tres, pase inglés.}
+{604}{}{Doce, pase inglés.}
 {610}{}{Siete. Apuesta finalizada.}
 {611}{}{Once. Apuesta finalizada.}
 {612}{}{Dos, pase inglés.}

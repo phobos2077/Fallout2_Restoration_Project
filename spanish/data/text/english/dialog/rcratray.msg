@@ -33,7 +33,7 @@
 {132}{}{Es importante que recuerdes esto, Rattray. Dios sabe la razón por la cual me esmero contigo.}
 {133}{}{Doctor buen hombre, muy buen hombre.}
 {134}{}{Si, supongo que lo soy, no hay duda.}
-{135}{}{ Trabajo 'qui para Doctor.}
+{135}{}{Trabajo 'qui para Doctor.}
 {136}{}{Yo limpiar. ¿Ta bien?}
 {137}{}{Je, je, je. Encontré algo para comer.}
 {138}{}{Una cucaracha. Rica.}

@@ -840,7 +840,7 @@
 {14098}{}{GOBIERNO: Primer Ciudadano y Consejo.}
 {14099}{}{ESTUDIOS DE RADIACIÓN DE FONDO: Los archivos han sido}
 {14100}{}{borrados, perdiendo las siguientes entradas: [-$Gecko-/-$Groundwater}
-{14101}{}{ [-$Gecko-/-$Contaminación Agua-subterránea-]}
+{14101}{}{Contaminación-]}
 {14102}{}{TASA DE MUTACIÓN: Los archivos han sido borrados, per-}
 {14103}{}{diendo las siguientes entradas: [-$TasadeNatalidad %-]}
 {14104}{}{**END-DISK**}

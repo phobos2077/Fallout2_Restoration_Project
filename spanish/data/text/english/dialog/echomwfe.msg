@@ -3,7 +3,7 @@
 {102}{}{Te das cuenta de que tiene un moreno de granjera.}
 {200}{}{Ves a una mujer delgada y bronceada.}
 {201}{}{Ves a una granjera.}
-{202}{}{Te das cuenta de que tiene un moreno de granjero.}
+{202}{}{¡Dejarnos solos!}
 {203}{}{Odio a los bandidos.}
 {204}{}{No tenemos nada que robar.}
 {205}{}{No me mates.}

@@ -109,7 +109,7 @@
 {1108}{}{¡Mi cara! ¡Mi cara!}
 {1109}{}{¡Veo las estrellas!}
 {1110}{}{¿Quién ha apagado la luz?}
-{1111}{}{¡Me haz roto oz dientez!}
+{1111}{}{Oooh, mi cabeza.}
 {1112}{}{Eh, me has mandado el pelo al otro barrio.}
 {1113}{}{No puedo sentirlo, tengo el brazo entumecido.}
 {1114}{}{¡Mi brazo!}

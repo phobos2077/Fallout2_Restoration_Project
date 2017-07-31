@@ -12,7 +12,7 @@
 {111}{}{Siempre las pistolitas... ¿Es qué nadie puede rendirse sin más?}
 {112}{}{Bien, eso es... ¡comienza la temporada de caza!}
 {113}{}{Oh... conseguiré refuerzos. ¡No te muevas!}
-{114}{}{"Podemos con ellos" dijo. Claro...}
+{114}{}{"Podemos con ellos" dijo. Claro…}
 {115}{}{¡Au-au-au-au-au!}
 {116}{}{¡Mierda! ¡Me largo de aquí!}
 {117}{}{¡No pienso morir por esto!}

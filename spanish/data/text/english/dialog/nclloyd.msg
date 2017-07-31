@@ -126,7 +126,7 @@
  volveré y haremos nuestro viajecito campestre.}
 {435}{}{(Se tensa). Quizá. ¿Quién eres tú? No creo haber tenido el placer…}
 {436}{}{(Se tensa, y luego alza una ceja). Quizá. Seguramente te recordaría, señorita.
- No creo haber tenido el placer…}
+ ¿No creo haber tenido el placer...?}
 {437}{}{Dejémonos de gilipolleces, Lloyd. Estoy aquí por el dinero que le robaste al señor Salvatore.}
 {438}{}{Mira, Lloyd, suelta el dinero e INTENTARÉ olvidar que te he visto hasta que estés bien lejos
  de aquí.}
