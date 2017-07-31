@@ -1,0 +1,466 @@
+#TRADUCCIÓN
+
+CLAN DLAN - www.clandlan.net
+
+#PROGRAMACIÓN
+
+@Programador principal
+Jesse Reynolds
+
+@Programadores
+Chris Jones
+Nick Kesting
+Robert Hertenstein 2
+Thomas French
+Chris Holland
+Dan Spitzley
+
+@Programación adicional de
+Tim Cain
+John Price
+Michael Bernstein
+
+@Tecnología cinemáticas
+Paul Edelstein
+
+@Instalador/Autoplay
+Darren Monahan
+
+
+#ARTE
+
+@Artistas principales
+Gary Platner
+Tramell Ray Isaac
+
+@Artistas
+Robert Collier
+Jeff McAteer
+Brian Menze
+Scott Rodenhizer
+
+@Arte adicional de
+Aaron Brown
+Peter Kroko
+Michael Sean McCarthy
+Chad Moore
+Eddie Rainwater
+Justin Sweet
+Vance Kovacs
+Tim Donley
+
+@Artistas internos 
+Charles M. Gregory
+Daniel Jacobs
+John Jacobs
+Karel Jacobs
+Christopher Jones
+Benc Orpak
+Adoni Torres
+
+@Material gráfico original de
+Jason Anderson
+Leonard Boyarsky
+Michael Dean
+Sharon Shellman
+
+
+#DISENO
+
+@Diseñadores principales
+Feargus Urquhart
+Matthew J. Norton
+
+@Diseñadores
+Jason G. Suinn
+John Deiley
+Chris Avellone
+David "Zeb" Cook
+Dave Hendee
+Colin McComb
+
+@Diseñador técnico
+Scott Everts
+
+@Diseñadores de niveles
+John Deiley
+Scott Everts
+Jason G. Suinn
+
+@Diseño adicional de
+Robert Hertenstein 2
+Nick Kesting
+Fred Hatch
+
+@Diseño/Diálogos
+Mark O'Green
+
+@Diseño original del juego de
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Jason Taylor
+Scott Campbell
+
+@Diseño del sistema SPECIAL
+Chris Taylor
+Tim Cain
+Jess Heinig
+Feargus Urquhart
+
+
+#PRODUCCIÓN
+
+@Director de División
+Feargus Urquhart
+
+@Productores
+Eric Demilt
+Feargus Urquhart
+
+@Productores auxiliares
+Fred Hatch
+Douglas Avery
+
+@Director auxiliar de división
+Jeremy Barnes
+
+@Coordinadores de sincronía labial
+Jason G. Suinn
+Dave Hendee
+
+@Artistas de sincronía labial
+Douglas Avery
+Chris Benson
+David "Zeb" Cook
+Jacob Devore
+Kenneth Lee
+Colin McComb
+
+
+
+#CONTROL DE CALIDAD
+
+@Director de Control de Calidad
+Chad Allison
+
+@Encargados de control de calidad
+Steve Victory
+Colin Totman
+
+@Supervisores de proyecto versión PC
+Greg "Moose" Baumeister
+Steve McLafferty
+Darrell Jones
+
+@Probadores principales versión PC
+Dennis Presnell
+Chad Nicholas
+Dave Simon
+
+@Probadores versión PC
+Ed Hyland
+Dany Martinez
+WR Saunders
+Rodney Smith
+Tony Piccoli
+David Maldonado
+Dan Levin
+Eric Pribish
+Scott Warner
+Derek Johnson
+Tim Anderson
+Primo Pulanco
+Jeremy Ray
+Jeremy Seely
+Henry Lee
+Scott Humphreys
+
+@Manager de compatibilidad de S.I.
+Frank Pimentel
+
+@Técnico principal de S.I.
+Bill Delk
+
+@Técnico de S.I
+Tom Quast
+
+@Administrador Base de datos QA
+Steve Cabiness
+
+@Técnicos de Compatibilidad
+Derek Gibbs
+John Parker
+Ed Robles
+Louie Iturzaeta
+
+
+
+#SONIDO
+
+@Director de Sonido
+Charles Deenen
+
+@Masterizado de sonido
+Craig Duman
+
+@Director de Voces
+Jamie Thomason
+
+@Coordinador de Voces
+Julie Morgavi
+
+@Supervisor de Voces
+Chris Borders
+
+@Editores de Voces
+Frank Szick
+Kevin Frayser
+Ron Valdez
+
+@Voces grabadas en Marc Graue Studio
+
+@Diseño de Sonido
+Paul Menichini
+Tim Walston
+
+@Diseño de Sonido en Cinematicas
+David Farmer
+
+@Mezcla de re-grabado en Cinematicas
+Charles Deenen
+
+@Mezclado en Dolby [TM] Surround en Interplay Audio
+
+@Administrador de Sonido
+Gloria Soto
+
+@Diseño adicional de sonido de
+Larry Peacock
+Weddington
+EFX
+Eight Ball Sound
+Charles Deenen
+
+@Ingenieros de Voces
+Wes Smith
+Julian Cook
+of Marc Graue Studios
+
+@Música de
+Mark Morgan
+@para
+Four Bars Intertainment
+@y de
+Rick Jackson
+
+@Productor de Voces
+Fred Hatch
+
+
+@PRESENTANDO LAS VOCES DE
+
+Charlie Adler
+@Harold
+
+Ron Perlman
+@Narrador
+
+Dwight Schultz
+@Hakunin
+
+Jason Marsden
+@Myron
+
+Cree Summer
+@Lynette
+
+Kevin Michael Richardson
+@Oficial de comunicaciones
+
+Peter Jason
+@Sargento Drill
+
+Peter Jason
+@Guardia de la Puerta
+
+Flo DiRe
+@Anciano
+
+Tress MacNeille
+@Tandi
+
+Greg Eagles
+@Sulik
+
+Michael Dorn
+@Marcus
+
+Michael Dorn
+@Frank Horrigan
+
+Jeffrey Jones
+@El Presidente
+
+
+
+"A KISS TO BUILD A DREAM ON"
+@Interpretada por Louie Armstrong
+@Cortesía of GRP Records
+@Con licencia de UNIVERSAL MUSIC SPECIAL MARKETS
+
+"A KISS TO BUILD A DREAM ON"
+@Escrita por Bert Kalmer, Harry Ruby y Oscar Hammerstein II
+@(C) 1935, 1951 renovación 1963, 1979 METRO GOLDWYN MAYER, INC.
+@Derechos asignados a EMI CATALOGUE PARTNERSHIP
+@Todos los Derechos controlados y administrados por EMI MILLER CATALOG INC.
+@Todos los Derechos reservados.  Copyright internacional asegurado.
+@Usada con permiso.
+
+@AVISO: Es una violación  de la Ley Federal de Copyright
+@copiar, duplicar o reproducir este Programa o cualquier
+@porción de este Programa sin el permiso expreso por
+@escrito del propietario del copyright.
+
+
+#VIDEO
+
+@Servicios de Video proporcionados por
+Dave Cravens
+Stephen Miller
+Bill Stoudt
+Dan Williams
+
+
+#MARKETING
+
+@Director de Marketing
+Paul Sackman
+
+@Encargados de Marketing
+Mike Markin
+Greg Peterson
+
+@Encargado auxiliar de Marketing
+Greg Bauman
+
+@Manager de Relaciones Públicas
+Krys Card
+
+@Managers de Gestión y Control
+Thom Dohner
+Paul Naftalis
+
+
+
+
+@Gracias a
+@(Dave H.) The Unwashed Villagers, la familia Dyer,
+@Jamba Juice, The Tick, Southpark;  (Chris A.) mi "colega",
+@Thuy Dang, Eileen Suh y Ma y Pa Avellone;  (t.ray)
+@mi madre, mi padre, mi hijo y mi hermano y a todos mis
+@adorables fans por comprar este juego;  (Rob H.)
+@Becky Warner y Billie Ryder;  (Matt N.) Meine
+@DieMonika und der kater;  (Jesse R.) "A Papá,
+@fuiste una inspiración toda mi vida. Te hecho de menos
+@siempre."
+
+@Agradecimientos especiales a:
+@Los miembros de los tablones de mensajes de Fallout y Fallout 2.
+@¡Gracias por vuestros comentarios, sugerencias y demás secretitos!
+@¡Al Interplay Video Room, por el procesamiento por encima y más allá
+@de lo que dicta el deber!
+
+@Fallout 2 fue posible gracias a Interplay Productions,
+@Team Fallout 2, la letrar Q y los números 42 y 20.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Vale, bien, si realmente debes...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@¿Te topaste con los encuentros extra-especiales?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Sigue buscando...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@¿Quizá encontraste el Halcón Maltés?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@¡Ja!  Disfruta...

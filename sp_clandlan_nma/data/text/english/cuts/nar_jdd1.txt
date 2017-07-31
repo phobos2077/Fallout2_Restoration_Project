@@ -1,0 +1,2 @@
+1:Estás muerto.
+2:Otra vez.
