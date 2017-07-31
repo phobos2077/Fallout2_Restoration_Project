@@ -33,7 +33,7 @@
 {133}{}{Médico}
 {134}{}{Maestro ladrón}
 {135}{}{Orador}
-{136}{}{Lanzamiento largo}
+{136}{}{Lanzamiento Largo}
 {137}{}{ERROR -- UNIMPED}
 {138}{}{Cleptómano}
 {139}{}{Fantasma}

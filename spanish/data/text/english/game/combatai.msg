@@ -94,7 +94,7 @@
 {1093}{}{¡Ooorp! aoooww...}
 {1094}{}{No... puedo... respirar}
 {1095}{}{Duele, duele...}
-{1096}{}{¡Ooorp! ¡Auuuww!}
+{1096}{}{Y yo quería una familia.}
 {1097}{}{No... puedo... respirar...}
 {1098}{}{Duele, duele...}
 {1099}{}{Quería tener una familia.}
@@ -107,34 +107,34 @@
 {1106}{}{¡Maldición!}
 {1107}{}{¿Quién ha apagado las luces?}
 {1108}{}{¡Mi cara! ¡Mi cara!}
-{1109}{}{¡Veo las estrellas!}
+{1109}{}{Hey, yo parte de mi pelo en el *otro* lado.}
 {1110}{}{¿Quién ha apagado la luz?}
 {1111}{}{Oooh, mi cabeza.}
 {1112}{}{Eh, me has mandado el pelo al otro barrio.}
 {1113}{}{No puedo sentirlo, tengo el brazo entumecido.}
 {1114}{}{¡Mi brazo!}
-{1115}{}{Estoy algo mareado.}
-{1116}{}{¡Aggghhh! ¡Mi brazo!}
-{1117}{}{¡Mi brazo!}
-{1118}{}{Oh, ¡eso duele!}
+{1115}{}{¡Oh tio, eso duele!}
+{1116}{}{Me duele el brazo, eso es malo.}
+{1117}{}{Mi brazo esta completamente roto.}
+{1118}{}{Mi brazo esta roto, aquí... y aquí....}
 {1119}{}{Me duele el brazo.}
 {1120}{}{Tengo el brazo desgarrado.}
 {1121}{}{Mi brazo se ha roto, aquí... y aquí...}
-{1122}{}{El hueso se me ha salido fuera del brazo, arrrrrgghhh.}
+{1122}{}{Mi pulgar se ha rasgado la derecha de mi mano!}
 {1123}{}{No puedo sentirlo, tengo el brazo entumecido.}
 {1124}{}{¡Mi brazo!}
 {1125}{}{¡Me has arrancado el pulgar de la mano!}
 {1126}{}{¡Aggghhh! ¡Mi brazo!}
-{1127}{}{¡Mi brazo!}
+{1127}{}{Ahora ya nunca podré escribir esa novela.}
 {1128}{}{¡Casi me arrancas la mano!}
-{1129}{}{¡Arrrrgh! ¡Ayúdame a encontrar mis dedos!}
+{1129}{}{Unh, me arrancaste el brazo por atras.}
 {1130}{}{Ahora nunca podré escribir esa novela.}
-{1131}{}{¡Me has roto el brazo!}
+{1131}{}{No el brazo, ¿por qué mi brazo?}
 {1132}{}{Unh, me has puesto el brazo del revés.}
 {1133}{}{Caricias en las costillas.}
 {1134}{}{¡Oof!}
 {1135}{}{¡Ouch!}
-{1136}{}{¡Las piernas, no siento las piernas!}
+{1136}{}{¡Oof! Me duele las costillas}
 {1137}{}{¡Ugh! ¡Eso duele!}
 {1138}{}{¡Ouch!}
 {1139}{}{¡Argh!}
@@ -567,13 +567,13 @@
 {1635}{}{./~ I left my heart.../~}
 {1636}{}{That tickled my ribs.}
 {1637}{}{¿Qué es ese olor mohoso? Oh, son mis entrañas.}
-{1638}{}{Ahora que me has destripado, estoy taaan esbelto... ¡Gracias!}
-{1639}{}{[Canta] Te dí mi corazón...}
+{1638}{}{Un poco más a la orilla, doctor.}
+{1639}{}{Arrggghh, ¡mi columna!}
 {1640}{}{Caricias en las costillas.}
 {1641}{}{Y quién necesita el apéndice.}
 {1642}{}{Ahí te has pasado un poco, doc.}
 {1643}{}{¡Arrggghh, mi columna!}
-{1660}{}{¡Ay, la pierna de Kaga!}
+{1660}{}{¡Ay, mi pierna!}
 {1661}{}{¡Pagarás por eso!}
 {1662}{}{¡Argh! ¡Me has roto la pierna! ¡Yo te romperé el cuello!}
 {1663}{}{Mierda, se acabó bailar el tango.}
@@ -610,7 +610,7 @@
 {1694}{}{That's my beef bologna!}
 {1695}{}{There goes my social life.}
 {1696}{}{Quizá si no me muevo en un rato...}
-{1697}{}{¡Esa es mi boloñesa!}
+{1697}{}{Gee, si hubieran muejeres ghouls estaria enfadado contigo.}
 {1698}{}{Adiós a mi vida social.}
 {1699}{}{Creo que necesito sentarme un ratito.}
 {1700}{}{Mierda, si hubiera necrófagas estaría bastante cabreado contigo.}
@@ -666,7 +666,7 @@
 {1823}{}{¡Ouuuu! ¡Que alguien me de un estimulante! ¡O algo de Jet!}
 {1830}{}{¡Mi bazo!}
 {1831}{}{¡Ou! Ouuuu, ¡mi maldito pecho! ¡Ou!}
-{1832}{}{¡Eh! ¿Con qué me has dado en el pecho, gilipollas?}
+{1832}{}{¡Eh! ¡¿Con qué me has dado en el pecho, gilipollas?!}
 {1833}{}{¡Deja de darme en el pecho!}
 {1834}{}{Guau. Mi pecho. Lo has herido. Mola.}
 {1835}{}{Nrgggg.}
@@ -683,7 +683,7 @@
 {1882}{}{¡Mis ojos! ¡Mis ojos! ¡Me duelen los ojos!}
 {1890}{}{Estoy tan hasta arriba de Jet, que apenas he sentido eso. Oh... no es cierto.}
 {1891}{}{*Hurhkkkk*}
-{1892}{}{Golpéame en mis partes, ¿quieres?}
+{1892}{}{Golpéame en mis partes, ¡¿quieres?!}
 {1893}{}{¡Nghhhhh!}
 {1894}{}{¡En la ingle no! ¡En la ingle no!}
 {1895}{}{¡Mis genitales! ¡Mis pobres genitales!}
@@ -1257,7 +1257,7 @@
 {3149}{}{Desayuno escoria como tú... también la almuerzo.}
 {3150}{}{¿Cómo alguien tan idiota puede ser tan malo?}
 {3151}{}{¡Déjame darte un bocado!}
-{3152}{}{Dale a papá un poco de azúcar, muñeca.}
+{3152}{}{¡Dale a papá un poco de azúcar, muñeca!}
 {3153}{}{¡Tengo algo para ti!}
 {3154}{}{¡Quédate quieto! Te dolerá menos.}
 {3155}{}{Deja de retorcerte, ¡el chef está en la cocina!}
@@ -1420,7 +1420,7 @@
 {12042}{}{Voy a meterte mi bota tan profundamente en tu culo que vas a estar oliendo a cera para calzado durante una semana.}
 {12043}{}{::Quiero ser un ranger de la aero-transportada...::}
 {12044}{}{¡Esto va en serio!}
-{12045}{}{¿¡Quieres algo de esto!? ¿¡QUIERES ALGO DE ESTO!?}
+{12045}{}{¡¿Quieres algo de esto?! ¡¿QUIERES ALGO DE ESTO?!}
 {12046}{}{¡¡Hiyaaaaaa!!!}
 {12047}{}{¡Toma esto!}
 {12048}{}{Mejor que tengas algunos estimulantes en tu inventario, tribal...}
@@ -1809,7 +1809,7 @@
 {32060}{}{¡Ay, mi pierna!}
 {32061}{}{¡Mi rodilla!}
 {32062}{}{¡Justo en la arteria!}
-{32070}{}{¡Ay, la pierna de Kaga!}
+{32070}{}{¡Ay, mi pierna!}
 {32071}{}{::hop... hop::}
 {32072}{}{¡¡¡¡Aaaarrrrggghhh!!!!}
 {32080}{}{¡No puedo ver, bastardo!}
@@ -1937,7 +1937,7 @@
 {32463}{}{¿Necesitas que me quede quieto?}
 {32464}{}{:::eructa:::}
 {32465}{}{Oh, esa ha sido buena...}
-{32500}{}{Santo cielo, yo sólo quería lamerlo.}
+{32500}{}{Santo cielo, !yo sólo quería lamerlo!}
 {32501}{}{La la la ... ¡ayuda!}
 {32502}{}{¡Ja ja AY!}
 {32503}{}{¡AT! ¡AT! ¡At at at at at!}
@@ -1974,7 +1974,7 @@
 {32620}{}{Prepárate a ser deshonrado.}
 {32621}{}{Los pilares de la vergüenza divina...}
 {32622}{}{... caen flechas envenenadas...}
-{32623}{}{¡Aquí viene el Expreso Nudillo!}
+{32623}{}{Aquí viene el Expreso Nudillo.}
 {32624}{}{Te lo advertimos...}
 {32625}{}{¡Viene un antiguo gaijin!}
 {32626}{}{Adiós, cadáver}
@@ -2057,7 +2057,7 @@
 {32901}{}{¡Abrid paso a una celebridad!}
 {32902}{}{¡Esto no está en el guión!}
 {32903}{}{¡Padre Estelar! ¡Ayuda!}
-{32904}{}{Pero... ¡soy famoso}
+{32904}{}{Pero... ¡soy famoso!}
 {33000}{}{¡Padre Estelar! ¡Ayúdame!}
 {33001}{}{¡No! ¡Yo no!}
 {33002}{}{¡Por favor, mata a algún otro!}
@@ -2164,7 +2164,7 @@
 {36062}{}{¡Ah! ¡La PIERNA de Kaga!}
 {36070}{}{¡La pierna de Kaga!}
 {36071}{}{Uungh! Estás apuntando bajo, ¿no es así?}
-{36072}{}{No intentabas golpear la pierna de Kaga, ¿verdad?}
+{36072}{}{No intentabas golpear mi pierna, ¡¿verdad?!}
 {36080}{}{¡Maldita sangre en los ojos!}
 {36081}{}{¡El ojo! ¡Esa se la vas a pagar a Kaga!}
 {36082}{}{¡Bastardo!}

@@ -47,7 +47,7 @@
 {146}{prs11b}{No esperarás realmente que eso funcione, no? ¡Ja! Si lo intentas, mis guardias tienen la orden de disparar a todo aquello que pueda dañar el Proyecto. Me quedo aquí. Entonces, ¿Al final me vas a disparar o no?}
 {147}{}{Quizá no, pero me voy. No toques esa alarma.}
 {148}{}{¿El Proyecto? ¿Qué Proyecto?}
-{149}{}{Sí, por supuesto. ¡Cómo me voy a divertir!}
+{149}{}{Sí, por supuesto. Cómo me voy a divertir.}
 {150}{prs12}{Eh, no, no, no. Entonces, vamos... vamos a.. Eh, ¿Q-q-qué quieres entonces?}
 {151}{}{Quiero saber qué pasa aquí.}
 {152}{}{Quiero saber quién demonios eres.}

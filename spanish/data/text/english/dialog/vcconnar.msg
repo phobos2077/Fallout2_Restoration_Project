@@ -4,7 +4,7 @@
 {103}{}{Quédate donde estás de momento, errante. ¿Qué estás haciendo aquí?}
 {104}{}{Estoy exterminando a los monstruos por aquí.}
 {105}{}{¿Y a santo de QUÉ?}
-{106}{}{¿Por qué gritas?}
+{106}{}{¿Por qué gritas!}
 {107}{}{Apuesto a que esos bastardos de Ciudad Refugio te enviaron. Bien, pues será mejor que te vayas, y dejes a todo lo que hay por aquí
  con vida.}
 {108}{}{Bueno, es un poco tarde para eso.}

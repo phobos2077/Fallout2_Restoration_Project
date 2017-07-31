@@ -13,7 +13,7 @@
 {112}{}{Escucha, Jack está dentro. Está enfadado con su ex-mujer. Las cosas no le han ido bien últimamente. Dice que tiene una bomba. Si es así, probablemente esté al lado de la dinamo del generador. Mira a ver si le puedes disuadir, ¡pero hagas lo que hagas no permitas que esa bomba explote!}
 {113}{}{¿Como se supone que voy a hacerlo?}
 {114}{}{No te preocupes, estoy en ello.}
-{115}{}{¡No lo sé! Solo soy la ingeniero de la ciudad. Averígualo tú.}
+{115}{}{¡No lo sé! Solo soy la ingeniero de la ciudad. ¡Averígualo tú!}
 {116}{}{¡Mierda! Ha dañado la unidad núcleo. Tiene que arreglarse antes de que todo se vaya al infierno. ¿Eres bueno arreglando cosas?}
 {117}{}{Urrgh. }
 {118}{}{Sí.}

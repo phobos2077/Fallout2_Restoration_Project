@@ -842,7 +842,7 @@
 {835}{}{Ciudad Refugio prevalece, Ciudadano.}
 {836}{}{¡Oh, muchacho! ¡A dormir! ¡Ahí es donde soy un vikingo!}
 {837}{}{¡Degenerado!}
-{838}{}{¡Extranjero!}
+{838}{}{Extranjero}
 {839}{}{Sucio extranjero...}
 {840}{}{*Resoplidos*}
 {841}{}{*Zzzzzzzzzzz*}

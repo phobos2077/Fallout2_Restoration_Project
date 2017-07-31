@@ -34,7 +34,7 @@
 {133}{}{Imposible aumentarlo.}
 {134}{}{Al mínimo nivel.}
 {135}{}{Imposible reducirlo.}
-{136}{}{¡No hay puntos disponibles!}
+{136}{}{No hay puntos disponibles.}
 {137}{}{Base:}
 {138}{}{HAB. DEST.}
 {139}{}{RASGOS OPCIONALES}

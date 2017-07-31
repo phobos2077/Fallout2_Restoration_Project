@@ -34,14 +34,14 @@
 {1102}{}{¡Mi cara! ¡Mi cara!}
 {1110}{}{No puedo sentirlo, tengo el brazo entumecido.}
 {1111}{}{¡Mi brazo!}
-{1112}{}{Estoy algo mareado.}
+{1112}{}{¡Oh tio, eso duele!}
 {1120}{}{No puedo sentirlo, tengo el brazo entumecido.}
 {1121}{}{¡Mi brazo!}
 {1122}{}{}
 {1130}{}{}
 {1131}{}{¡Oof!}
 {1132}{}{¡Ouch!}
-{1133}{}{¡Las piernas, no siento las piernas!}
+{1133}{}{¡Oof! Me duele las costillas}
 {1134}{}{¡Ugh! ¡Eso duele!}
 {1135}{}{¡Ouch!}
 {1136}{}{¡Argh!}
@@ -297,8 +297,8 @@
 {1635}{}{./~ I left my heart.../~}
 {1636}{}{That tickled my ribs.}
 {1637}{}{¿Qué es ese olor mohoso? Oh, son mis entrañas.}
-{1638}{}{Ahora que me has destripado, estoy taaan esbelto... ¡Gracias!}
-{1639}{}{[Canta] Te dí mi corazón...}
+{1638}{}{Un poco más a la orilla, doctor.}
+{1639}{}{Arrggghh, ¡mi columna!}
 {1640}{}{Caricias en las costillas.}
 {1641}{}{Y quién necesita el apéndice.}
 {1642}{}{Ahí te has pasado un poco, doc.}
@@ -340,7 +340,7 @@
 {1694}{}{That's my beef bologna!}
 {1695}{}{There goes my social life.}
 {1696}{}{Quizá si no me muevo en un rato...}
-{1697}{}{¡Esa es mi boloñesa!}
+{1697}{}{Gee, si hubieran muejeres ghouls estaria enfadado contigo.}
 {1698}{}{Adiós a mi vida social.}
 {1699}{}{Creo que necesito sentarme un ratito.}
 {1700}{}{Mierda, si hubiera necrófagas estaría bastante cabreado contigo.}
@@ -396,7 +396,7 @@
 {1823}{}{¡Ouuuu! ¡Que alguien me de un estimulante! ¡O algo de Jet!}
 {1830}{}{¡Mi bazo!}
 {1831}{}{¡Ou! Ouuuu, ¡mi maldito pecho! ¡Ou!}
-{1832}{}{¡Eh! ¿Con qué me has dado en el pecho, gilipollas?}
+{1832}{}{¡Eh! ¡¿Con qué me has dado en el pecho, gilipollas?!}
 {1833}{}{¡Deja de darme en el pecho!}
 {1834}{}{Guau. Mi pecho. Lo has herido. Mola.}
 {1835}{}{Nrgggg.}
@@ -413,7 +413,7 @@
 {1882}{}{¡Mis ojos! ¡Mis ojos! ¡Me duelen los ojos!}
 {1890}{}{Estoy tan hasta arriba de Jet, que apenas he sentido eso. Oh... no es cierto.}
 {1891}{}{*Hurhkkkk*}
-{1892}{}{Golpéame en mis partes, ¿quieres?}
+{1892}{}{Golpéame en mis partes, ¡¿quieres?!}
 {1893}{}{¡Nghhhhh!}
 {1894}{}{¡En la ingle no! ¡En la ingle no!}
 {1895}{}{¡Mis genitales! ¡Mis pobres genitales!}
@@ -572,12 +572,12 @@
 {2521}{}{Carne fresca...}
 {2522}{}{Bailaré sobre tu tumba.}
 {2523}{}{¡Eh, todos! ¡Es la diana de practicas!}
-{2524}{}{Prepárate, puta.}
+{2524}{}{¡Prepárate, puta!}
 {2525}{}{Voy a disfrutar de esto...}
 {2540}{}{¡¡¡Toma esto!!!}
 {2541}{}{No te molestes en pedir piedad...}
 {2542}{}{Esta es la mejor parte...}
-{2543}{}{¿Quieres más? ¿Eh?}
+{2543}{}{¿Quieres más? ¡¿Eh?!}
 {2544}{}{¡Serás comida para los perros!}
 {2545}{}{No deberías empezar lo que no puedas terminar.}
 {2546}{}{¡Espero que no mueras muy pronto!}
@@ -800,7 +800,7 @@
 {3149}{}{Desayuno escoria como tú... también la almuerzo.}
 {3150}{}{¿Cómo alguien tan idiota puede ser tan malo?}
 {3151}{}{¡Déjame darte un bocado!}
-{3152}{}{Dale a papá un poco de azúcar, muñeca.}
+{3152}{}{¡Dale a papá un poco de azúcar, muñeca!}
 {3153}{}{¡Tengo algo para ti!}
 {3154}{}{¡Quédate quieto! Te dolerá menos.}
 {3155}{}{Deja de retorcerte, ¡el chef está en la cocina!}
@@ -844,7 +844,7 @@
 {3240}{}{¡Cómete esto!}
 {3241}{}{¡Te mataré! ¡Te mataré! ¡Te mataré!}
 {3242}{}{¡¿Quieres un poco de esto?!}
-{3243}{}{¡Nrrrg!}
+{3243}{}{Nrrrg}
 {3244}{}{¡Hiyaaaaaa!}
 {3245}{}{Te mataré lentamente...}
 {3246}{}{Caerás como una ramera de dos pavos...}
@@ -885,7 +885,7 @@
 {12042}{}{Voy a meterte mi bota tan profundamente en tu culo que vas a estar oliendo a cera para calzado durante una semana.}
 {12043}{}{::Quiero ser un ranger de la aero-transportada...::}
 {12044}{}{¡Esto va en serio!}
-{12045}{}{¿¡Quieres algo de esto!? ¿¡QUIERES ALGO DE ESTO!?}
+{12045}{}{¡¿Quieres algo de esto?! ¡¿QUIERES ALGO DE ESTO?!}
 {12046}{}{¡¡Hiyaaaaaa!!!}
 {12047}{}{¡Toma esto!}
 {12048}{}{Mejor que tengas algunos estimulantes en tu inventario, tribal...}
@@ -1059,10 +1059,10 @@
 {32034}{}{¡Eso ha dolido!}
 {32035}{}{¡Creo que me has alcanzado el apéndice!}
 {32036}{}{¡Ohhh, duele!}
-{32060}{}{¡Ay, la pierna de Kaga!}
+{32060}{}{¡Ay, mi pierna!}
 {32061}{}{¡Mi rodilla!}
 {32062}{}{¡Justo en la arteria!}
-{32070}{}{¡Ay, la pierna de Kaga!}
+{32070}{}{¡Ay, mi pierna!}
 {32071}{}{::hop... hop::}
 {32072}{}{¡¡¡¡Aaaarrrrggghhh!!!!}
 {32080}{}{¡No puedo ver, bastardo!}
@@ -1190,7 +1190,7 @@
 {32463}{}{¿Necesitas que me quede quieto?}
 {32464}{}{:::eructa:::}
 {32465}{}{Oh, esa ha sido buena...}
-{32500}{}{Santo cielo, yo sólo quería lamerlo.}
+{32500}{}{Santo cielo, !yo sólo quería lamerlo!}
 {32501}{}{La la la ... ¡ayuda!}
 {32502}{}{¡Ja ja AY!}
 {32503}{}{¡AT! ¡AT! ¡At at at at at!}
@@ -1227,7 +1227,7 @@
 {32620}{}{Prepárate a ser deshonrado.}
 {32621}{}{Los pilares de la vergüenza divina...}
 {32622}{}{... caen flechas envenenadas...}
-{32623}{}{¡Aquí viene el Expreso Nudillo!}
+{32623}{}{Aquí viene el Expreso Nudillo.}
 {32624}{}{Te lo advertimos...}
 {32625}{}{¡Viene un antiguo gaijin!}
 {32626}{}{Adiós, cadáver}
@@ -1310,7 +1310,7 @@
 {32901}{}{¡Abrid paso a una celebridad!}
 {32902}{}{¡Esto no está en el guión!}
 {32903}{}{¡Padre Estelar! ¡Ayuda!}
-{32904}{}{Pero... ¡soy famoso}
+{32904}{}{Pero... ¡soy famoso!}
 {33000}{}{¡Padre Estelar! ¡Ayúdame!}
 {33001}{}{¡No! ¡Yo no!}
 {33002}{}{¡Por favor, mata a algún otro!}
@@ -1403,7 +1403,7 @@
 {36010}{}{¡La mano de Kaga!}
 {36011}{}{¡Ay! Menos mal que Kaga usa la mano derecha.}
 {36012}{}{¡¡Ay!!}
-{36020}{}{Ay, ¡el brazo de Kaga!}
+{36020}{}{Ay, ¡mi brazo!}
 {36021}{}{¡Le has roto el brazo a Kaga!}
 {36022}{}{¡Lamentarás eso!}
 {36030}{}{(Gruñe)}
@@ -1412,12 +1412,12 @@
 {36033}{}{¡Lamentarás eso!}
 {36034}{}{¡Deberías detenerte mientras estás ganando!}
 {36035}{}{Buen tiro. Turno de Kaga.}
-{36060}{}{¡Ay, la pierna de Kaga!}
+{36060}{}{¡Ay, mi pierna!}
 {36061}{}{¡Pagarás por eso!}
 {36062}{}{¡Ah! ¡La PIERNA de Kaga!}
 {36070}{}{¡La pierna de Kaga!}
 {36071}{}{Uungh! Estás apuntando bajo, ¿no es así?}
-{36072}{}{No intentabas golpear la pierna de Kaga, ¿verdad?}
+{36072}{}{No intentabas golpear mi pierna, ¡¿verdad?!}
 {36080}{}{¡Maldita sangre en los ojos!}
 {36081}{}{¡El ojo! ¡Esa se la vas a pagar a Kaga!}
 {36082}{}{¡Bastardo!}
