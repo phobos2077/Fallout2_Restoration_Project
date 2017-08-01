@@ -195,7 +195,7 @@ se le cure esa pierna rota. Podrías ir a hablar con él. Su oficina está al sur d
 {257}{}{Bien, está el sheriff, y además los dueños de la mina están buscando a alguien para recuperar algún
  tipo de pieza para una de sus máquinas.}
 {258}{}{Háblame del sheriff.}
-{259}{}{Háblame de los dueños de la mina.}
+{259}{}{Háblame de los dueños de las minas.}
 {260}{}{Interesante. Permíteme preguntarte algo más, alcalde.}
 {261}{}{De momento, puede que eche un vistazo por los alrededores. Gracias y adiós.}
 {262}{}{Maldición, es cierto. He oído que seguiste adelante y conseguiste el chip para uno de ellos.}

@@ -54,7 +54,7 @@
 {158}{}{Creo que prefiero oír la historia del fantasma.}
 {200}{}{Conozco secretos que los meros mortales no deberían saber. ¡IA IA! ¡Nyarloth...! Oh, perdón (je, je). Por un momento me he dejado llevar por la emoción. Conozco historias de un fantasma que aparece por estos mismos suelos, así como de una genuina momia egipci-a-na que podrás ver, aquí en este mismo sarcófago.}
 {201}{}{Háblame de la momia. Me muero por saber más de ella.}
-{202}{}{Tengo que oír esa historia de fantasmas.}
+{202}{}{Tengo que oír esa historia de fantasmas. Eh, ¿me daré una buena taza caliente de cacao con eso?}
 {203}{}{No voy a perder el tiempo en lo que sea que trates de venderme.}
 {300}{}{Bueno, verás, (se acerca a ti): había una vez una gran reina que mandaba sobre todos los pueblos de alrededor. Mantenía el trono por virtud de un amuleto especial que llevaba en el cuello a todas horas. Una gran historia, ¿eh?}
 {301}{}{Uh, sí. Claro. Así que esta princesa tenía un amuleto 'mágico'. Oh, continúa. No creo que pueda aguantar tanto suspense por mucho más tiempo. (bostezas).}

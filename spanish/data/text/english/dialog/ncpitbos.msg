@@ -70,11 +70,11 @@
 {336}{}{! Heard yer the one who kicked the Enclave back to the stone age! I've been instructed to give you some chips,
  courtesy of the casino. Enjoy yourself, sir.}
 {336}{}{El [CN]. Al menos, era así la última vez que comprobé el cartel de la entrada. Y ahora, ¿qué puedo hacer por ti?}
-{337}{}{¿Quién eres?}
+{337}{}{¡He oído que eres el que pateó el Enclave de vuelta a la edad de piedra! Me han instruido a darte algunas fichas, cortesía del casino. Disfruta, señora.}
 {337}{}{¿Quién eres?}
 {338}{}{. What's up, chief? Get you anything? A drink? A waitress?}
 {338}{}{¿Puedes contarme algo acerca del casino?}
-{339}{}{Nada, gracias. Perdón por molestarte.}
+{339}{}{. La chica más bonita en el casino. ¿Conseguirte algo? ¿Una bebida? ¿Una mesa privada?}
 {339}{}{Nada, gracias. Perdón por molestarte.}
 {340}{}{¿Qué puedo hacer por ti, amigo?}
 {341}{}{¿Qué puedo hacer por ti, guapa?}

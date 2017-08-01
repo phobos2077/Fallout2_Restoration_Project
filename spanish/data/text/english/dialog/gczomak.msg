@@ -34,7 +34,7 @@
 {211}{}{¿Goop?}
 {220}{}{Lárgate de aquí. El Cerebro no tiene tiempo para los de tu clase.}
 {221}{}{Vale. Ya me marcho.}
-{230}{}{Aquí abajo no hay nada excepto la guarida del Cerebro. Muchacho, ¿eres tonto?}
+{230}{}{Aquí abajo no hay nada excepto la guarida del Cerebro. Muchacho, eres tonto.}
 {231}{}{¿El Cerebro?}
 {232}{}{Sólo te estaba probando. Y lo has hecho bien. Ahora, déjame entrar.}
 {233}{}{Supongo que estoy confuso. Debe de ser toda esta radiación. Adiós.}

@@ -55,7 +55,7 @@
 {230}{slk8}{Nosotros y yo dar gracias. Nuestro nombre es Sulik. ¿Cómo podemos devolverte el favor?}
 {231}{}{Uh.}
 {232}{}{Adiós.}
-{233}{}{¿Quiénes son 'nosotros'?}
+{233}{}{¿Quiénes son "nosotros"?}
 {234}{}{Me alegra haber sido de ayuda, Sulik. Háblame de ti.}
 {235}{}{¿Qué tal si me cuentas qué está pasando en el pueblo?}
 {236}{}{Es sólo que no quería verte atrapado aquí más tiempo. Adiós.}

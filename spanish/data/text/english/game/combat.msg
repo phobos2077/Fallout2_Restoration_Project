@@ -421,7 +421,7 @@
 {1804}{}{el pie derecho}
 {1805}{}{el pie izquierdo}
 {1806}{}{퓄os ojos?}
-{1807}{}{퓄a ingle?}
+{1807}{}{el enchufe de la ingle}
 {1808}{}{un lugar indefinido}
 {1850}{}{la cabeza}
 {1851}{}{el brazo izquierdo}
@@ -439,7 +439,7 @@
 {1864}{}{el pie derecho}
 {1865}{}{el pie izquierdo}
 {1866}{}{퓄os ojos?}
-{1867}{}{퓄a ingle?}
+{1867}{}{el enchufe de la ingle}
 {1868}{}{un lugar indefinido}
 {1900}{}{la cpu}
 {1901}{}{la servoarma}

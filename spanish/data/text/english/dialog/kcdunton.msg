@@ -153,7 +153,7 @@
 {380}{}{¿Qué demonios quieres? ¿Has olvidado lo que se supone que tenías que hacer?}
 {381}{}{No. Me acuerdo. Me ocuparé del plan ahora.}
 {382}{}{¿Estás loco? Lo saben todo. Estoy aquí para avisaros de que no sigáis con el plan. Apuesto a que nos están vigilando.}
-{383}{}{Lo olvidé; ¿querrías volver a contarme el plan?}
+{383}{}{Lo olvidé; ¿querrías volver a contarme el plan? Por favor.}
 {384}{}{He encontrado un montón de partes de insecto en esa pequeña casucha de ahí. ¿Sabéis qué pueden ser?}
 {390}{}{¿Partes de bicho? Umm, err, ah, no sabemos nada de esos trozos de bicho. ¿De qué estás hablando?}
 {391}{}{Bueno, he encontrado un montón de trozos de bicho que llevan correas y hebillas para fijarlas de forma que puedan ser llevadas como si fueran un disfraz. Las he encontrado tiradas en el suelo.}

@@ -96,10 +96,10 @@
 {1095}{}{Duele, duele...}
 {1096}{}{Y yo quería una familia.}
 {1097}{}{No... puedo... respirar...}
-{1098}{}{Duele, duele...}
+{1098}{}{¿Por qué ahí? ¿Por qué?}
 {1099}{}{Quería tener una familia.}
 {1100}{}{Ahora nunca tendré más hijos.}
-{1101}{}{¿Por qué ahí? ¿Por qué?}
+{1101}{}{Eso no fue justo.}
 {1102}{}{Me quema, me quema.}
 {1103}{}{¡Maldición!}
 {1104}{}{No es justo.}
@@ -108,7 +108,7 @@
 {1107}{}{¿Quién ha apagado las luces?}
 {1108}{}{¡Mi cara! ¡Mi cara!}
 {1109}{}{Hey, yo parte de mi pelo en el *otro* lado.}
-{1110}{}{¿Quién ha apagado la luz?}
+{1110}{}{Ja, al menos no has golpeado nada importante.}
 {1111}{}{Oooh, mi cabeza.}
 {1112}{}{Eh, me has mandado el pelo al otro barrio.}
 {1113}{}{No puedo sentirlo, tengo el brazo entumecido.}
@@ -119,7 +119,7 @@
 {1118}{}{Mi brazo esta roto, aquí... y aquí....}
 {1119}{}{Me duele el brazo.}
 {1120}{}{Tengo el brazo desgarrado.}
-{1121}{}{Mi brazo se ha roto, aquí... y aquí...}
+{1121}{}{¡¿Alguien puede doblar mi brazo hacia atrás, por favoooor?!}
 {1122}{}{Mi pulgar se ha rasgado la derecha de mi mano!}
 {1123}{}{No puedo sentirlo, tengo el brazo entumecido.}
 {1124}{}{¡Mi brazo!}

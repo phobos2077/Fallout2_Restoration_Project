@@ -5,8 +5,7 @@
 {104}{}{La cárcel es demasiado buena para lo que hizo ese bastardo.}
 {105}{}{Sigo sin creer que dejaras libre a ese bastardo que rajó a mi chica. Y todavía tienes el valor
  de volver aquí. ¿Qué demonios quieres?}
-{106}{}{Sigues siendo un jodido idiota. Pero la vida sigue para el resto de nosotros. Y ahora dime simplemente qué demonios
- quieres.}
+{106}{}{Sigues siendo un jodido idiota. Pero la vida sigue para el resto de nosotros. Y ahora dime simplemente qué demonios quieres.}
 {107}{}{Recuerda lo que he dicho. Demasiado dinero no es bueno para esa chica. Y ahora, ¿qué necesitas?}
 {108}{}{Hola. Soy Lou. Propietaria del Salón Malamute, el mejor local al norte de San Fran.}
 {109}{}{¿Y ahora qué?}

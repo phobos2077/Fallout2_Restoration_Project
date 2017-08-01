@@ -417,8 +417,7 @@
 {462}{}{Muy bien. Que te vaya bien, Primer Ciudadano.}
 {463}{lyn068}{¿Y qué si es así? Esa no es más que una solución temporal. Por favor, ARREGLA el problema, NO su central
  nuclear. ¿He sido lo suficientemente clara?}
-{464}{}{Primer Ciudadano, no quiero discrepar, pero hay una forma de resolver vuestro problema sin matar a los mutantes
- o apagar su reactor. Ahora, si pudiera conseguir la pieza...}
+{464}{}{Primer Ciudadano, no quiero discrepar, pero hay una forma de resolver vuestro problema sin matar a los mutantes o apagar su reactor. Ahora, si pudiera conseguir la pieza...}
 {465}{}{Dijiste que me querías para reparar la central, no para masacrar Gecko.}
 {466}{}{Como el cristal. Volveré más tarde.}
 {467}{}{Sí. Que te vaya bien, Primer Ciudadano.}

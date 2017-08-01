@@ -13,7 +13,7 @@
 {121}{}{¿Hacía mucho que tú no, ¿eh, cariño?}
 {122}{}{Quizás la próxima vez aguantes un poquito más.}
 {123}{}{Sabes, esto no es una carrera.}
-{124}{}{¿Tus amigos te llaman 'Flash'? Porque nunca he visto a nadie tan rápido.}
+{124}{}{¿Tus amigos te llaman 'Flash'?}
 {125}{}{Si todos mis clientes fueran así de rápidos, saldría antes del trabajo.}
 {126}{}{Sería más divertido si esperaras a que te tocara.}
 {127}{}{Seguro que te gustaría más si esperaras a que me desnudara.}

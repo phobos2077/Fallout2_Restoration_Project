@@ -29,7 +29,7 @@
 {128}{}{Dejas de balbucear}
 {129}{}{*Tchh* Estos siervos parecen volverse más estúpidos cada día.}
 {130}{}{Soy el procónsul Gregory. ¿Está buscando la oficina, o...?}
-{131}{}{¿Procónsul? ¿Qué demonios es un "procónsul"?}
+{131}{}{¿"Procónsul"? ¿Qué demonios es un "Procónsul"?}
 {132}{}{¿Qué haces aquí?}
 {133}{}{Solo estaba echando un vistazo, gracias.}
 {134}{}{Soy el ASISTENTE de la Primer Ciudadano. Yo programo sus visitas, administro el test de Ciudadanía a candidatos potenciales, y actualizo todas las listas en el servidor de Ciudad Refugio. No es poco trabajo, te lo aseguro.}

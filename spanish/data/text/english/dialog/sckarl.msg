@@ -20,7 +20,7 @@
 {119}{}{Vaya, gracias.}
 {120}{}{Su nombre es Oswald. Es todo lo que hemos podido sacarle. Se supone que es un okupa, del Refugio 15, pero... lo dudo. Es un poco correoso. ¿Sabes lo que quiero decir?}
 {121}{}{Un tipo duro, ¿eh?}
-{122}{}{¿Qué vais a hacer con él}
+{122}{}{¿Qué vais a hacer con él?}
 {123}{}{Oye, ¿no he oído hablar de ti? Sí: algunas cosas buenas. Mira, hay ciertas personas que conozco que podrían servirse de un tipo como tú. Sólo tienes que ir a la tienda de automóviles y preguntar por Elise. Dile que Karl le envía saludos.}
 {124}{}{¿Trabajo? La Asociación de Ganaderos está buscando guardias. Los saqueadores están dándole fuerte a las caravanas de nuevo. Todo lo que he oído es que la presidente Tandi está buscando a alguien con "recursos", como ella dice. ¿Eso te ayuda?}
 {125}{}{Bueno, tengo algunas otras preguntas.}
@@ -48,7 +48,7 @@ Hazte un favor a ti mismo, aléjate de ellos. Jack es un buen hombre, es sólo que
 {146}{}{Han ocurrido cosas extrañas. ¿Qué puedes contarme sobre ello?}
 {147}{}{Tengo que irme. Justo a las afueras de la ciudad, ¿no?}
 {148}{}{No hay problema. En los próximos cinco minutos, tal vez no oiga nada. Sígueme.}
-{149}{}{Claro, ¿por qué lo quieres saber?}
+{149}{}{Claro, lo que querías.}
 {150}{}{Bien, hace un par de años se dio un golpe y ahora Doc Jubilee le administra algún tipo de medicina. ¿Por qué lo quieres saber, por cierto?}
 {151}{}{Nada, sólo hablar. Dejaré de hacerte perder el tiempo.}
 {152}{}{. Necesito algo de trabajo honesto.}

@@ -19,7 +19,7 @@
 {225}{}{¿Quién edes tú? ¿Te conozco? }
 {226}{}{Saludos… qué puede haced el Padde Tully pod ti... }
 {227}{}{¿Tú edes quien pateó al Enclave c-como un camión… eh, quiedo decid, un campeón? Edes un hédoe.}
-{228}{}{¿Yo héroe?}
+{228}{}{Yo hérooe}
 {229}{}{Héroe marcha.}
 {230}{}{Me enfrenté al Enclave, sí. Ellos empezaron, y yo lo terminé. Pero no se equivoque, Padre. Sólo soy un hombre,
  intentando abrirme camino en este mundo que no perdona... no soy un héroe.}

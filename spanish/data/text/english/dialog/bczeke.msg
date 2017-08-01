@@ -29,7 +29,7 @@
 {128}{}{Si, lo hago. Actúo como intermediario entre él y la gente de aquí. No estoy feliz con esto, ahora que sé lo que se trama.}
 {129}{}{De acuerdo.}
 {130}{}{Ya veo.}
-{131}{}{Nada. Ellos tienen las armas, controlan el agua y la comida. Eso significa que están al cargo. Punto. No tenemos medios ni forma de subsistir sin el respaldo de Darion. ¿Cómo podríamos volvernos contra él?}
+{131}{}{Nada. Ellos tienen las armas, controlan el agua y la comida. Eso significa que están al cargo. Punto. No tenemos medios ni forma de subsistir sin el respaldo de Darion. ¿Cómo podríamos volvernos contra él? Estamos a su merced.}
 {132}{}{Hmm. Veo.}
 {133}{}{Hmm. Ya veo.}
 {134}{}{Está detrás de esa puerta de ahí, pero está cerrada desde el otro lado y también tiene trampas. No tengo manera de abrirla... espera un momento. Encontré esta tarjeta hace algún tiempo, pero no tengo ni idea de para qué sirve. Rebecca dice que tú has encontrado la puerta donde están reteniendo a Chrissy. Quizás esta tarjeta la abra. Toma, guárdala.}

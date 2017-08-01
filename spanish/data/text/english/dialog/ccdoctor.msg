@@ -67,7 +67,7 @@
 {166}{}{Necesitar preguntar más.}
 {167}{}{Nada. Digo hola.}
 {168}{}{¿Estás seguro de que esta sala está insonorizada?}
-{169}{}{¿Puedo hacerte otras preguntas?}
+{169}{}{Quería preguntarte algo más.}
 {170}{}{Nada, sólo pasaba a saludar.}
 {171}{}{Por supuesto que estoy seguro. Si no, al comandante le daría un ataque. ¿Por qué?}
 {172}{}{Por nada.}

@@ -45,7 +45,7 @@ tenazmente en el culo del mundo.}
 {170}{}{¿Quieres una bebida, eh? Vale, tenemos la cerveza Trago-Gamma de la casa 
 a 5 dólares la botella y, para ocasiones especiales, nuestro Ron Roentgen a 12 dólares la botella.}
 {171}{}{¿Qué va a ser?}
-{172}{}{Que sea cerveza.}
+{172}{}{¿Trago?}
 {173}{}{Quiero una cerveza Trago-Gamma. ¿Se supone que me hará brillar así?}
 {174}{}{Esta es una ocasión especial, en cierto modo. Quisiera una botella de tu 
 Ron Roentgen.}

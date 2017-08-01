@@ -71,7 +71,7 @@
 {325}{}{Parece que perteneces a un juego de mechs de combate. Esto es Fallout 2. ¿No habrás abierto la
  carpeta equivocada de tu disco duro?}
 {326}{}{¿Cómo haces para usar la letrina con eso puesto?}
-{335}{}{¿Cómo estás?}
+{335}{}{¿Cómo estás, }
 {336}{}{Es bueno tenerte en la Familia, eh, incluso aunque no eres de la familia, ¿entiendes? Eh… no importa.}
 {337}{}{He oído que Tommy Pelotas ha vuelto a la ciudad. Eso acojona.}
 {338}{}{Nosotros, los Wright, somos la Familia más fuerte porque nosotros SOMOS familia.}

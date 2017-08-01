@@ -31,7 +31,7 @@
 {350}{}{¿Quién tú?}
 {351}{}{Tú no esclavista.}
 {352}{}{¿Tú no daño?}
-{353}{}{Amigo}
+{353}{}{¿Amigo?}
 {354}{}{¿Tú ayuda?}
 {355}{}{¿Qué nos va a pasar a nosotros?}
 {356}{}{¿También te han capturado?}

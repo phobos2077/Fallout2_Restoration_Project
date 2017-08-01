@@ -32,7 +32,7 @@
 {131}{}{Ni sé por qué te buscan ni me importa. No hago negocios con los de tu clase.}
 {132}{}{¿Por qué no te vas a hacer "el bien" a otra parte?}
 {133}{}{Estoy seguro de que una persona con tu reputación podrá conseguir cosas en cualquier otra parte.}
-{134}{}{¿Qué es lo que quieres?}
+{134}{}{Indique su intencón.}
 {135}{}{¿A dónde te diriges?}
 {136}{}{¿Cuál es tu cargamento?}
 {137}{}{Adiós.}

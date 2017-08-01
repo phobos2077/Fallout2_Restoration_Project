@@ -96,7 +96,7 @@
 {513}{}{Lo siento. Creí que eras otra persona.}
 {522}{}{¿Eh...? ¿Otra vez tú? ¿Qué quieres ahora?}
 {523}{}{Heeeey... ¿cómo lo llevas, amigo? ¿Tienes algo en mente?}
-{524}{}{¿Yo de bajo dónde?}
+{524}{}{Yo de bajo dónde}
 {525}{}{¿A-migo?}
 {526}{}{Chiii-ka Chiiik-aaaah}
 {529}{}{Tengo algunas preguntas…}

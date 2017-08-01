@@ -9,7 +9,7 @@
 {111}{}{¿Hacía mucho que tú no, ¿eh, cariño?}
 {112}{}{Quizás la próxima vez aguantes un poquito más.}
 {113}{}{Sabes, esto no es una carrera.}
-{114}{}{¿Tus amigos te llaman 'Flash'? Porque nunca he visto a nadie tan rápido.}
+{114}{}{¿Tus amigos te llaman 'Flash'?}
 {115}{}{Si todos mis clientes fueran así de rápidos, saldría antes del trabajo.}
 {116}{}{Sería más divertido si esperaras a que te tocara.}
 {117}{}{Seguro que te gustaría más si esperaras a que me desnudara.}
