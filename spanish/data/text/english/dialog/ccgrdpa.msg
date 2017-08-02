@@ -40,6 +40,6 @@
  highly deadly, virus strain. I *must* get to the base immediately, or all our lives could be lost. Now stop wasting my time,
  as there isn't a moment to spare.}
 {326}{}{Vaya, tenemos un intruso entre nosotros.}
-{327}{}{Damnit! Ah, whatever. I never get told shit around here. Fine. Be on your way.}
+{327}{}{¡Maldición! Ah, lo que sea. Nunca me dicen cosas por aquí. Bueno. Este en tu camino.}
 {328}{}{Woah, that sounds bad. You better get moving then, I don't want this shit on my hands. Oh, and don't worry, I won't tell anyone.}
 {329}{}{HECHO}
