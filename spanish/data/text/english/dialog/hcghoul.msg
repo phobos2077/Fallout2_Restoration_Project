@@ -62,13 +62,13 @@
 {159}{}{¡Menudo mazazo a los humanos! Ahora mismo estarán realmente avergonzados de sí mismos. Muy a la defensiva.}
 {160}{}{¿Conseguirá Broken Hills algún día acabar las disputas entre humanos y mutantes?}
 {161}{}{Esos bastardos, Jacob y Aileen, siempre me trataron como un ciudadano de segunda clase. Esto les enseñará.}
-{162}{}{No creo que Broken Hills llegue a recuperarse de la pérdida de la mina...}
+{162}{}{No creo que Broken Hills llegue a recuperarse de la pérdida de la mina…}
 {163}{}{Todos los mutantes... muertos…}
 {164}{}{…ahora nunca sabremos si habríamos podido tener paz entre mutantes y humanos…}
 {165}{}{Es hora de marcharse y ver lo que el resto del mundo puede ofrecer… no merece la pena desenterrar
  la mina.}
 {166}{}{Me pregunto si en algún otro lugar de California necesitan refinadores de uranio.}
-{167}{}{Supongo que tendré que volver a Gecko ahora...}
+{167}{}{Supongo que tendré que volver a Gecko ahora…}
 {168}{}{Jodido bastardo.}
 {169}{}{¿No tienes vergüenza ni decencia?}
 {170}{}{¿Por qué intentas destruir nuestra ciudad?}

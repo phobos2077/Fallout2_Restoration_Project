@@ -10,7 +10,7 @@
 {156}{}{¡Tengo hambre! ¿Qué tienes para comer?}
 {157}{}{Me gustaría alquilar una habitación para esta noche.}
 {158}{}{Debes oír muchas cosas trabajando aquí. ¿Te importa si te hago algunas preguntas?}
-{159}{}{[Juntas tus labios con un sonoro ‘POP’]}
+{159}{}{[Juntas tus labios con un sonoro "POP"]}
 {160}{}{¡Me alegro de que hayas vuelto! ¿Qué puedo hacer por ti?}
 {165}{}{¡Oh, Dios! Eres tú. Todo el mundo está hablando de cómo has arriesgado tu vida por nosotros, y de que has resuelto el misterio de la Granja Fantasma. Que sepas que siempre serás bienvenido aquí, y por supuesto todas tus comidas corren a cuenta de la casa. También puedes rebuscar en la caja de objetos perdidos y quedarte cualquier cosa que quieras como premio especial.}
 {166}{}{¡Es el héroe de Modoc! Bienvenido.}
@@ -37,7 +37,7 @@
 {187}{}{Claro, lo tendré de vuelta cuando rompa el récord.}
 {188}{}{[Rose se guarda el dinero y vuelve con una multitud de platos de fritos de brahmin. No son como esperabas. Parecen ser del tamaño de pelotas de golf, cubiertos con una pasta y fritos en aceite hasta dorarse. Pruebas un pequeño bocado de uno de ellos. ¡Son deliciosos! Comienzas a comértelos con entusiasmo].}
 {189}{}{[Al llegar al frito numero 34, comienzas a sentir los efectos de haber comido en exceso. Una multitud se ha reunido para presenciar el intento de batir el histórico récord. En un intento de recuperar la compostura, empiezas una conversación con Rose].}
-{190}{}{[Te metes un frito en la boca]. ‘Mmff… splt… mnch…’ No hables con la boca llena, querido. [Te lo tragas].}
+{190}{}{[Te metes un frito en la boca]. "Mmff… splt… mnch…" No hables con la boca llena, querido. [Te lo tragas].}
 {191}{}{¿Cómo los preparas? Si no es secreto, claro. Conozco a alguna gente en casa a los que les encantarían.}
 {192}{}{Oh, no es ningún secreto. Tan sólo tienes que sumergirlos en pasta, añadir algo de sal y freírlos en grasa. [Te metes otro más en la boca].}
 {193}{}{¿Y como preparas la carne de brahmin? Tiene una textura única. [Te metes otro más en la boca. ¡Están buenos!]}

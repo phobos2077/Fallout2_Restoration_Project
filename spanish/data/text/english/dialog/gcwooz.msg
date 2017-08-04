@@ -149,11 +149,11 @@ idiota?}
 La primera baraja es gratis. Un regalito para ti de mi parte.}
 {361}{}{Gracias. Oye, son geniales. (Rasgas el envoltorio) Mmm, me encanta 
 cómo huelen.}
-{362}{}{Simplemente digo ‘no’ al Tragic. Adiós.}
+{362}{}{Simplemente digo "no" al Tragic. Adiós.}
 {370}{}{Hola. Parece que eres otro jugador de Tragic. ¿Tienes tiempo para 
 jugar un poco? ¿O eres un gallina? Te lo estoy diciendo a ti.}
 {371}{}{No tengo tiempo para una... bueno, de todos modos una partida no 
-va a durar tanto...}
+va a durar tanto…}
 {372}{}{Claro, déjame... ¡No! Debo parar. (Tu mano se dirige sola hacia la baraja, 
 como si tuviera voluntad propia) ¡Noooooo!}
 {375}{}{Jugaría al Tragic contigo, pero parece que no me queda ninguna carta.}
@@ -165,7 +165,7 @@ como si tuviera voluntad propia) ¡Noooooo!}
 {383}{}{Me encantaría quedarme e intercambiar unas cartas de Tragic contigo, pero tengo 
 cosas que hacer, ¿sabes? En la vida real. Adiós}
 {390}{}{Vale, es sencillo, en realidad. Hasta un tonto lo puede entender. Primero, te 
-construyes un mazo de cartas de la baraja que tengas, y luego...}
+construyes un mazo de cartas de la baraja que tengas, y luego…}
 {391}{}{Ya. ¿Dices que no vas a negociar con el tercer jugador hasta el jueves? 
 De acuerdo, entiendo. Vamos a jugar.}
 {392}{}{A lo mejor juego más tarde. Pero gracias por enseñarme cómo. Adiós.}

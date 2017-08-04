@@ -2,7 +2,7 @@
 {101}{}{Ves una computadora.}
 {102}{}{Ves la computadora central de Navarro.}
 {103}{}{Por favor, introduzca su contraseña.}
-{104}{}{Introducir ‘Caramelito’.}
+{104}{}{Introducir "Caramelito".}
 {105}{}{Me olvidé de esta mierda.}
 {106}{}{Que le den.}
 {107}{}{Intentar piratear el sistema.}

@@ -17,13 +17,13 @@
 {116}{}{Bueno... se supone que no se permite a personal no cualificado usar el equipo. Es todo muy complejo y delicado, ya me entiendes.}
 {117}{}{¿Por favor? No rompo yo.}
 {118}{}{Prometo no estropear nada.}
-{119}{}{De acuerdo. Puedes acceder al sistema desde aquel terminal. Pero ten cuidado, por favor. Nos matarán si estropeas la máquina. ¡Ah! la contraseña para invitados es 'Caramelito'.}
+{119}{}{De acuerdo. Puedes acceder al sistema desde aquel terminal. Pero ten cuidado, por favor. Nos matarán si estropeas la máquina. ¡Ah! la contraseña para invitados es "Caramelito".}
 {120}{}{Lo siento, pero está fuera de lugar. Se supone que no estoy autorizado a que el personal de tropa permanezca en la sala, mucho menos a dejar que utilicen el equipo.}
-{121}{}{¿'Caramelito'? ¿Qué caramelito?}
+{121}{}{¿"Caramelito"? ¿Qué caramelito?}
 {122}{}{Vale. Yo entiendo.}
-{123}{}{¿'Caramelito'? ¿Por qué diablos 'Caramelito'?}
+{123}{}{¿"Caramelito"? ¿Por qué diablos "Caramelito"?}
 {124}{}{De acuerdo. Lo entiendo.}
-{125}{}{'Caramelito' es el mote que le he puesto a mi novia. A mí me parece mono. A propósito, es aquella del pasillo. Es una de los guardias.}
+{125}{}{"Caramelito" es el mote que le he puesto a mi novia. A mí me parece mono. A propósito, es aquella del pasillo. Es una de los guardias.}
 {126}{}{De acuerdo, bien. Gracias.}
 {127}{}{Sí... muy mono. Gracias.}
 {128}{}{No llevas uniforme.}

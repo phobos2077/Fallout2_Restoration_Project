@@ -36,7 +36,7 @@
 {320}{}{Vic era un auténtico amor. Solía marcharse durante semanas y después volvía con toda clase de objetos viejos. Pero con frecuencia tenía que marchar a La Guarida para venderlos. No es que haya mucha demanda de esas cosas por aquí.}
 {321}{}{¿Dónde está Vic ahora?}
 {322}{}{¿Dónde está La Guarida?}
-{323}{}{¿Alguna vez ha tenido Vic algo que llevara el sello de ‘Vault-Tec’?}
+{323}{}{¿Alguna vez ha tenido Vic algo que llevara el sello de "Vault-Tec"?}
 {324}{}{Cuéntame otra cosa.}
 {325}{}{Eso es todo lo que necesito saber.}
 {330}{}{La Guarida es un antro de maldad y villanía al sureste de aquí. ¿A una semana o así? No lo recuerdo claramente. De todos modos, es un lugar excitante. Peligroso, pero excitante. En cierto modo, siento haberme marchado.}

@@ -69,7 +69,7 @@
 {232}{}{Cielos... (hic), gracias. Quizás pueda comprar una (hic) bala para pegarme un tiro. (hic) Claro, que tendré que ahorrar (hic) para el arma.}
 {233}{}{Quieres decir... ¿que puedo volver a casa? ¿Ya no hay fantasmas? [Karl se derrumba y llora. Dios, cuesta ver a un hombre adulto llorando]. ¡Gracias, por fin puedo volver a casa!}
 {234}{}{¿Dónde?! ¡Nooooooooo! ¡Me han encontrado!}
-{235}{}{Oh sí, tenía el huerto más grande (hic) que una persona podía desear. Salvo que (hic) de donde yo vengo, lo llamamos granja...}
+{235}{}{Oh sí, tenía el huerto más grande (hic) que una persona podía desear. Salvo que (hic) de donde yo vengo, lo llamamos granja…}
 {236}{}{¿No me recuerdas? Estábamos hablando del GECK, y tú mencionaste un huerto.}
 {237}{}{Olvídalo, esto no va a ninguna parte.}
 {238}{}{¡Eh! (hic) ¡Eres muy guapa! Vamos tú y yo afuera (hic) y así nos conocemos mejor. Te puedo pagar... tengo 1.000 dólares. [Karl te mira sugerentemente].}

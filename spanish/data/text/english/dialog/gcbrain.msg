@@ -40,7 +40,7 @@
 {214}{}{¿Renovación? ¿Qué quieres decir?}
 {220}{}{Esos idiotas de Ciudad Refugio sólo han logrado firmar su sentencia de muerte al destruir nuestro reactor.}
 {221}{}{Ahora tengo que pensar en otra manera de dominar el mundo. Sal de aquí.}
-{222}{}{Ya he tenido suficiente de tus torpes intromisiones. ¡Zomak! ¡Mata a este idiota!}
+{222}{}{Ya he tenido suficiente de tus torpes intromisiones. ¡Zomak! Mata a este idiota por mí.}
 {230}{}{Reparar el reactor ha sido un excelente primer paso. Se necesita uno más para asegurar la supervivencia tanto de Gecko como de Ciudad Refugio.}
 {231}{}{¿Un paso más?}
 {232}{}{Vaya, de repente eres todo un buen samaritano.}

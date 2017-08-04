@@ -24,7 +24,7 @@
 {123}{}{Bueno, eso no es raro, ¿verdad? Ya nada funciona como es debido.}
 {124}{}{Eso es lo que yo sé y tú debes averiguar. Adiós.}
 {125}{powr4a_a}{¡El Presidente! Yo, eh...}
-{126}{powr4b_b}{¿Sí? Un listillo, ¿eh? Ahora mismo te estamos localizando, colega. Veremos si te haces el listillo cuando los de Seguridad te estén friendo el culo, capullo.}
+{126}{powr4b_b}{¿Sí? Un listillo, ¿eh? Ahora mismo te estamos localizando, colega. Veremos si te haces el listillo cuando los de Seguridad te estén friendo el culo. ¡Capullo!}
 {127}{powr4c_a}{Basta de gilipolleces. ¿Te apetece jugar a esquiva-rayos-de-plasma con la brigada de asalto? ¿Eh?}
 {128}{}{Oye, lo siento, no pretendía molestar.}
 {129}{}{Te puedo decir con exactitud anatómica dónde te puedes meter tu localización.}

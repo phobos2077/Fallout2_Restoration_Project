@@ -43,7 +43,7 @@
 {253}{}{Me llamo }
 {254}{}{Soy un simple viajero.}
 {255}{}{Soy un viajero, en busca del Refugio 13. ¿Has oído hablar de él?}
-{256}{}{Soy un viajero… ¿sabes dónde puedo encontrar algo llamado 'Kit de creación del Jardín del Edén'?}
+{256}{}{Soy un viajero… ¿sabes dónde puedo encontrar algo llamado "Kit de creación del Jardín del Edén"?}
 {257}{}{Mira, tal vez sea mejor que me vaya. Adiós.}
 {260}{}{¿Sí?}
 {261}{}{¿Qué puede contarme sobre el señor Bishop?}
