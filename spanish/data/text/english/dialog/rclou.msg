@@ -53,7 +53,7 @@
 {146}{}{Oh, ya veo. Hmm, deja que te pregunte algo más.}
 {147}{}{Por supuesto. Eso es todo lo que necesitaba saber. Gracias. Adiós.}
 {148}{}{San Francisco está bastante al sur de aquí. Es un largo camino. Al sur y un poco al
- oeste. Está al lado del océano, ¿sabes? No se me ocurre por qué una persona normal querría
+ oeste. Está al lado del océano, ¿sabes? Aquí, lo marcaré en tu mapa. Pero no se me ocurre por qué una persona normal querría
  ir hasta allí.}
 {149}{}{¿Por qué? ¿Es peligroso?}
 {150}{}{Interesante. Pero déjame preguntarte otra cosa.}
@@ -163,10 +163,10 @@
 {227}{}{Gracias, tendré que pensar en lo que me has contado. Pero déjame preguntarte otra cosa.}
 {228}{}{Tendré que pensar en eso. Adiós.}
 {229}{}{Hmmm...I may have a solution to that. [Give Lou the jet antidote]}
-{230}{}{¿Qué ha pasado?}
+{230}{}{¿Qué demonios es esto?}
 {231}{}{It'll get the addiction out of her system. The next time she orders a drink, slip this into it.}
-{232}{}{¿Querías algo más?}
-{233}{}{Hola, Lou. Me interesa conseguir alguna cosa de por aquí.}
-{234}{}{¿Qué está ocurriendo en el pueblo?}
-{300}{}{Has ayudado a Valerie a conseguir herramientas nuevas.}
+{232}{}{Bien de acuerdo. Ahora, ¿querías algo más?}
+{233}{}{Me interesa conseguir alguna cosa de por aquí.}
+{234}{}{¿Qué está ocurriendo en este pueblo?}
+{300}{}{Has ayudado a curar la adicción de Fannie.}
 {301}{}{Adiós.}

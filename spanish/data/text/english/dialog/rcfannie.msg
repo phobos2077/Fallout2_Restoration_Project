@@ -114,11 +114,11 @@
  me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need fer jet since
  then. (She kisses you on the cheek) I don't know how I can ever thank you...well, I do know *one* way.
  Whenever you're in the mood, just come on by; free of charge. (wink)}
-{187}{}{Lo tendré en mente. Gracias por el consejo, Jules.}
+{187}{}{Lo tendré en mente. Gracias, Fannie.}
 {188}{}{Thanks again. (smooch) Remember, it's always on the house for you. (wink)}
-{189}{}{Hola. ¿Quieres gastar más dinero con Fannie?}
+{189}{}{¡Hola! ¿Quieres pasar algún tiempo con Fannie? En la casa, por supuesto. (mueca)}
 {190}{}{Sorry honey...I'm not feelin' too good right now. Check back later.}
-{191}{}{Ahora mismo no tengo tiempo.}
+{191}{}{¿Tienes un poco de tiempo libre ahora mismo?}
 {192}{}{Come back anytime! Always nice to get some repeat business.}
 {193}{}{HECHO}
 {200}{}{You slipped the Jet antidote into Fannie's Mae's drink.}

@@ -815,7 +815,7 @@
 {2142}{}{¡Esto es lo que les hacemos a las alimañas!}
 {2143}{}{¡Mutante, bicho raro!}
 {2144}{}{¡Bastardo!}
-{2145}{}{¡Serás comida para los perros!}
+{2145}{}{Serás comida para los perros.}
 {2146}{}{¡Esto te enseñará!}
 {2147}{}{Bien. Tú lo has querido.}
 {2148}{}{¡Animal!}

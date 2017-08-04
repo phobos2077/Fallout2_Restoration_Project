@@ -26,7 +26,7 @@
 {123}{}{¿Alguna vez has oído algo acerca de algo llamado Kit de Creación del Jardín del Edén?}
 {124}{}{Sólo estaba echando un vistazo, Jimmy. Gracias. Adiós.}
 {125}{}{Eso no lo sé. Tendrías que preguntarles a los conductores de caravanas. Generalmente puedes encontrarte aquí una caravana
- los días 1, 11, y 21 de cada mes. El orden ante todo. Como podrás ver, así es como
+ los días 1, 11, y 21 de cada mes. Sí no están aquí en esos días, eso significa que el caravana está en su camino para llegar al Redding en lugar de dejarlo. El orden ante todo. Como podrás ver, así es como
  funciona: cuando una caravana está en la ciudad y necesita ayuda, el organizador de caravanas monta su tienda
  aquí, justo al sur de mi castillo. El orden ante todo, sí.}
 {126}{}{¿Tu castillo? ¿A qué te refieres?}
