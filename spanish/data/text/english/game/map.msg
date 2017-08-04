@@ -100,8 +100,8 @@
 {234}{}{Cuevas de las ratas}
 {235}{}{Cuevas de las ratas}
 {236}{}{Entrada}
-{237}{}{Tuneles mineros}
-{238}{}{Seleccionar Depositar.}
+{237}{}{Túneles de Residuos}
+{238}{}{Depósito}
 {239}{}{Tierras de caza}
 {240}{}{Tierras de caza}
 {241}{}{Tierras de caza}
@@ -229,7 +229,7 @@
 {363}{}{Sótano del Desperado}
 {364}{}{2a planta del Desperado}
 {365}{}{Calle Segunda}
-{366}{}{Tercera Planta}
+{366}{}{Segunda Planta del Club Tiburón}
 {367}{}{Tercera Planta}
 {368}{}{Zona Oeste}
 {369}{}{Sótano de Armas Nuevo Reno}
@@ -243,7 +243,7 @@
 {377}{}{Cementerio}
 {378}{}{Refugio atómico}
 {379}{}{}
-{380}{}{Esclavos}
+{380}{}{Potreros de Esclavos}
 {381}{}{Laboratorio}
 {382}{}{}
 {383}{}{Zona de boxeo}
@@ -453,9 +453,9 @@
 {587}{}{Muelle}
 {588}{}{Muelle}
 {589}{}{Muelle}
-{590}{}{Caverna de entrada}
-{591}{}{Caverna de entrada}
-{592}{}{Caverna de entrada}
+{590}{}{Sala de Entrada}
+{591}{}{Sala de Entrada}
+{592}{}{Sala de Entrada}
 {593}{}{Barracones de la guardia}
 {594}{}{Barracones de la guardia}
 {595}{}{Barracones de la guardia}
@@ -509,7 +509,7 @@
 {643}{}{Area de Vertibird}
 {644}{}{Templo Shi}
 {645}{}{}
-{646}{}{Holodisco de la Hermandad}
+{646}{}{Base de la Hermandad}
 {647}{}{Desierto}
 {648}{}{Desierto}
 {649}{}{Desierto}
@@ -517,7 +517,7 @@
 {651}{}{Desierto}
 {652}{}{Desierto}
 {653}{}{Entrada}
-{654}{}{Escaleras}
+{654}{}{Abajo}
 {655}{}{Desierto}
 {656}{}{}
 {657}{}{}
@@ -572,4 +572,4 @@
 {1547}{}{Encuentro aleatorio}
 {1548}{}{Establo}
 {1549}{}{Abbey}
-{1550}{}{SEP}
+{1550}{}{APA}

@@ -51,11 +51,11 @@
 {151}{}{Aprendizaje rápido}
 {152}{}{¡Destacar!}
 {153}{}{¡Muta!}
-{154}{}{Máquina de Nuka-Cola}
+{154}{}{Adicto a la Nuka-Cola}
 {155}{}{Adicto a los Esteroides}
 {156}{}{Adicto a los Mentats}
 {157}{}{Psycho Addiction}
-{158}{}{Adicto al radaway}
+{158}{}{Adicto al Radaway}
 {159}{}{Arma de gran distancia}
 {160}{}{Precisión de Arma}
 {161}{}{Penetración de Arma}
@@ -68,8 +68,8 @@
 {168}{}{Arma Lanzallamas}
 {169}{}{Armadura avanzada I}
 {170}{}{Armadura avanzada II}
-{171}{}{Antídoto para el Jet}
-{172}{}{Estación de tren}
+{171}{}{Adicto al Jet}
+{172}{}{Adicto al Tragico}
 {173}{}{Armadura de Carisma}
 {174}{}{Despellejador de geckos}
 {175}{}{Armad. Imp. Dermal}

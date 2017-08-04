@@ -50,7 +50,7 @@
 {409}{}{A.M.S.: Emisión GNN}
 {410}{}{A.M.S.: Informe Misión}
 {411}{}{Enseñanzas de la Hubología}
-{412}{}{Notas de Ciudad Refugio}
+{412}{}{Notas de Diseño de Ciudad Refugio}
 {413}{}{Guía de Viaje}
 {414}{}{Holodisco del espía en la RNC}
 {415}{}{Holodisco de la RNC}
@@ -190,7 +190,7 @@
 {6010}{}{de fuerza y resistencia, y ligeros cambios de tono de}
 {6011}{}{piel: obviamente, signos de mutaciones del virus VEF.}
 {6012}{}{Los hombres están nerviosos, ya que también ellos han}
-{6013}{}{apreciado los cambios. A pesar de aumentar el número}
+{6013}{}{apreciado los cambios. Aumentar el número}
 {6014}{}{de guardias, temo que si los trabajadores mutan por}
 {6015}{}{completo nos veamos sobrepasados en número. Mi espe-}
 {6016}{}{ranza es que, usando habitantes de la zona como fuerza}
@@ -230,7 +230,7 @@
 {7020}{}{**END-PAR**}
 {7021}{}{30 de Junio de 2077}
 {7022}{}{He probado un nuevo cóctel químico de esteroides y}
-{7023}{}{psico en uno de mis pacientes y lo he mezclado con un }
+{7023}{}{psico en uno de mis pacientes, lo he mezclado con un }
 {7024}{}{potenciador especial con el que he estado trasteando.}
 {7025}{}{Los resultados han sido prometedores. El sujeto se}
 {7026}{}{volvió muy violento y consiguió escapar de su habita-}
@@ -446,7 +446,7 @@
 {11099}{}{tenerlas si ello le ayuda a dirigir bien al país.}
 {11100}{}{**END-PAR**}
 {11101}{}{Galaxy News Network}
-{11102}{}{Transcripción de Emisión, 10 de Octubre de 2077}
+{11102}{}{Transcripción de Emisión 10 de Octubre de 2077}
 {11103}{}{¡GUERRA! ¡El estado de guerra ha sido declarado después}
 {11104}{}{de que China haya invadido los EEUU a través de Alaska!}
 {11105}{}{El Consejo de la ONU ha desoído las protestas de EEUU}
@@ -458,7 +458,7 @@
 {11111}{}{la Justicia, la Libertad y el pastel de manzana de Mamá.}
 {11112}{}{**END-PAR**}
 {11113}{}{Galaxy News Network}
-{11114}{}{Transcripción de Emisión, 22 de Octubre de 2077}
+{11114}{}{Transcripción de Emisión 22 de Octubre de 2077}
 {11115}{}{Gracias al bravo espíritu de nuestras fuerzas armadas y}
 {11116}{}{a nuestras recientemente desarrolladas Servoarmaduras,}
 {11117}{}{las fuerzas de los EEUU empujan a los invasores chinos}
@@ -970,7 +970,7 @@
 {18021}{}{--Notas personales-}
 {18022}{}{1) Seguir este rollo para encubrir el proyecto de Curling.}
 {18023}{}{2) Decirle a todo el mundo lo leales, etc, que son.}
-{18024}{}{  Bla, bla, bla.}
+{18024}{}{     Bla, bla, bla.}
 {18025}{}{**END-PAR**}
 {18026}{}{Asegurarse de hacer publicidad para la reelección.}
 {18027}{}{**END-PAR**}

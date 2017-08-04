@@ -1447,7 +1447,7 @@
 {12141}{}{No te molestes en pedir piedad...}
 {12142}{}{Kaga disfrutará con esto.}
 {12143}{}{Oooo, ¡esto te va a doler!}
-{12144}{}{Hora de morir.}
+{12144}{}{¡Hora de morir!}
 {12145}{}{¡Kaga se comerá tu hígado!}
 {12146}{}{¡Espero que no mueras muy pronto!}
 {12147}{}{¡Hora de comer!}
@@ -1980,8 +1980,8 @@
 {32626}{}{Adiós, cadáver}
 {32640}{}{¡Tengo algo para ti...}
 {32641}{}{... algo para tu madre...}
-{32642}{}{...algo para tu padre...}
-{32643}{}{...algo para tu hermana....}
+{32642}{}{... algo para tu padre...}
+{32643}{}{... algo para tu hermana...}
 {32644}{}{... y algo para tus ancestros!}
 {32645}{}{¡Vete!}
 {32646}{}{¡Muere!}
@@ -2209,7 +2209,7 @@
 {36220}{}{¡Después de matarte, Kaga quemará todo Arroyo!}
 {36221}{}{Kaga será temido por todos.}
 {36222}{}{Kaga tendrá tu cabeza como trofeo.}
-{36223}{}{Ríndete y Kaga hará que tu muerte sea rápida.}
+{36223}{}{¡Ríndete y haré que tu muerte sea rápida!}
 {36240}{}{¡Siente la ira de Kaga!}
 {36241}{}{No te molestes en pedir piedad...}
 {36242}{}{Kaga disfrutará con esto.}
@@ -2260,7 +2260,7 @@
 {36420}{}{¡El Elegido nunca regresará a Arroyo!}
 {36421}{}{¡Kaga te aplastará!}
 {36422}{}{¡Kaga no le teme a nadie!}
-{36423}{}{Deja que Kaga te enseñe lo que ha aprendido.}
+{36423}{}{¡Deja que Kaga te enseñe lo que ha aprendido!}
 {36440}{}{¡Siente la ira de Kaga!}
 {36441}{}{Quédate quieto, para que Kaga pueda apuntar bien.}
 {36442}{}{Kaga disfrutará con esto.}
@@ -2285,7 +2285,7 @@
 {36505}{}{}
 {36520}{}{Kaga está listo para ti ahora.}
 {36521}{}{No eres rival para Kaga..}
-{36522}{}{Kaga te enviará a la otra vida.}
+{36522}{}{¡Kaga te enviará a tu otra vida!}
 {36523}{}{Kaga te echará de menos.}
 {36540}{}{¡Siente la ira de Kaga!}
 {36541}{}{Kaga será famoso por matarte.}
@@ -2293,7 +2293,7 @@
 {36543}{}{Oooo, Kaga sintió eso desde aquí.}
 {36544}{}{Kaga llevará tu cabeza a la Anciana.}
 {36545}{}{El Elegido morirá aquí.}
-{36546}{}{Kaga tiene que matarte ahora.}
+{36546}{}{¡Kaga tiene que matarte ahora!}
 {36547}{}{¡Muere!}
 {36548}{}{Grita para Kaga.}
 {36560}{}{¡No puedes herir a Kaga!}
@@ -2324,7 +2324,7 @@
 {36640}{}{¡Oof!}
 {36641}{}{¡Ouch!}
 {36642}{}{Hmm, tienes problemas.}
-{36643}{}{¡Grrr! Espera tu muerte.}
+{36643}{}{¡Grrr! ¡Espera tu muerte!}
 {36644}{}{¡Podrás herirme, pero no me matarás!}
 {36645}{}{¡Ay! Herirme no fue una buena idea.}
 {36660}{}{¡Ahhhgh! ¡Mi pierna}
@@ -2340,7 +2340,7 @@
 {36691}{}{¿Llamas a eso dolor? ¡Me río!}
 {36692}{}{Eres estúpido, humano!}
 {36693}{}{¿Por qué me atacas ahí?}
-{36694}{}{Te heriré durante horas.}
+{36694}{}{¡Te heriré durante horas!}
 {36695}{}{¿Por qué me atacas ahí?}
 {36700}{}{¡Corred!}
 {36701}{}{¡Tu destino no es matarme!}
@@ -2627,7 +2627,7 @@
 {40172}{}{Debería ser mejor para tú que practicar.}
 {40173}{}{Nosotros nos preguntamos qué fue eso.}
 {40174}{}{Tú nos haces reír.}
-{40175}{}{Nosotros creer que tú deberías seguir cazando ratones hasta que aprender más.}
+{40175}{}{Nosotros 'reer que tú deberías seguir cazando ratones hasta que aprender más.}
 {40176}{}{Abuelo Hueso pregunta porqué tú tan estúpido.}
 {40178}{}{Nosotros preguntamos si tú vas a empezar alguna vez.}
 {40179}{}{Nosotros y yo creer que tú debes ser más tonto de que pareces, pero Abuelo Hueso no creer eso posible.}
@@ -2782,7 +2782,7 @@
 {40976}{}{No vas a tener una segunda oportunidad.}
 {40977}{}{Lento hijoputa...}
 {40978}{}{Parece que Cassidy va a tener que enseñarte cómo hacemos las cosas en la gran ciudad.}
-{40979}{}{Creo que vas a tener que dejar el alcohol antes de entrar en combate.}
+{40979}{}{Creo que vas a tener que dejar el alcohol antes de 'ntrar en combate.}
 {41200}{}{Me duelen los sesos.}
 {41201}{}{¡Ahora sí que voy a palmarla!}
 {41202}{}{Ahí tenía piel de escroto.}
@@ -2817,7 +2817,7 @@
 {41231}{}{He perdido varias costillas.}
 {41232}{}{¡Arrrg! ¡Mi bazo!}
 {41233}{}{¡Allá va mi vesícula biliar!}
-{41234}{}{Je, je... me ha atravesado... no he sentido nada.}
+{41234}{}{Je je... me ha atravesado... no he sentido nada.}
 {41235}{}{Los médicos se curan a sí mismos.}
 {41236}{}{Oh oh, eso ha sido malo.}
 {41237}{}{¡Eh, tenemos a alguien desangrándose, y soy yo!}
@@ -2886,7 +2886,7 @@
 {41300}{}{Oh oh, mi sentido arácnido está vibrando.}
 {41301}{}{Maldición, tienen kriptonita. Me largo de aquí.}
 {41302}{}{¡Nadie me dijo que esto sería peligroso!}
-{41303}{}{¡¿Qué quieres decir con lo de que están armados!?}
+{41303}{}{¡¿Qué quieres decir con lo de que están armados?!}
 {41304}{}{¡Huiiiiid!}
 {41305}{}{¡Correeeed!}
 {41306}{}{¡¡¡¡¡¡Ya llegan!!!!!!}
@@ -2954,11 +2954,11 @@
 {41368}{}{No esperabas ese movimiento, ¿verdad?}
 {41369}{}{Swing, batta, batta. ¡Swing!}
 {41370}{}{Este viejo necrófago es más vivaz de lo que habías apostado, ¿eh?}
-{41371}{}{Eres duro hablando.}
+{41371}{}{Eres duro *hablando*.}
 {41372}{}{¿Qué fue eso?}
 {41373}{}{Esto no es una charada.}
 {41374}{}{Esto requiere mucha concentración.}
-{41375}{}{Puedes hacerlo mejor que "eso".}
+{41375}{}{Puedes hacerlo mejor que *eso*.}
 {41376}{}{Oh, venga ya.}
 {41377}{}{¿Eso es lo mejor que puedes hacer? ¿En serio?}
 {41378}{}{No creo que lo estés intentando siquiera.}
@@ -3020,7 +3020,7 @@
 {41654}{}{Pequeña comadreja...}
 {41655}{}{¡Deja de hacerme daño!}
 {41656}{}{Has cometido un enorme error.}
-{41657}{}{:Resolla::}
+{41657}{}{::resolla::}
 {41658}{}{¡Me has dejado sin aire!}
 {41659}{}{Normal, vas a pagar por esto.}
 {41660}{}{Supongo que me quedaré cojo.}
@@ -3333,7 +3333,7 @@
 {44420}{}{Los sensores registran daño en el manipulador derecho.}
 {44421}{}{Mal funcionamiento de los servos del manipulador.}
 {44422}{}{Mecanismo de rotación severamente dañado.}
-{44423}{}{Los sistemas informan de daño en el circuito retractor izquierdo.}
+{44423}{}{Los sistemas de reparación informan de daño en el circuito retractor derecho.}
 {44430}{}{Iniciando secuencia de reparación.}
 {44431}{}{Impacto en secuenciador de auto giro. Compensando.}
 {44432}{}{Presión hidráulica cayendo. Fuga detectada en depósitos.}
@@ -3343,7 +3343,7 @@
 {44436}{}{Mal funcionamiento en los sistemas.}
 {44437}{}{Sistemas energéticos fluctuando. Activando energía de reserva.}
 {44438}{}{Comprometida integridad estructural primaria. Circuitos principales expuestos.}
-{44439}{}{Daño en la unidad de refrigeración. Operando al 75% de su capacidad.}
+{44439}{}{Daño en la unidad de refrigeración. Operando al 75 por ciento de su capacidad.}
 {44460}{}{Impacto en unidad motriz derecha. Daño mínimo.}
 {44461}{}{Eje derecho desalineado.}
 {44462}{}{Rueda derecha dañada.}
@@ -3383,16 +3383,16 @@
 {44544}{}{Confirmación de fijado positivo de blanco.}
 {44545}{}{Atacando a objetivo.}
 {44546}{}{Alcanzada distancia óptima de ataque.}
-{44547}{}{Iniciando ataque sobre objetivo.}
+{44547}{}{Resumiendo ataque sobre objetivo.}
 {44548}{}{Comenzando ataque.}
 {44549}{}{Eliminando amenaza.}
 {44560}{}{Activando maniobras evasivas.}
 {44561}{}{Defensive protocol Beta initiated.}
 {44562}{}{Enemy's targeting capability inferior. Reassessing threat level.}
-{44563}{}{Recalculando habilidades ofensivas del objetivo.}
+{44563}{}{Enemigo fallado. Recalculando habilidad ofensiva del enemigo.}
 {44564}{}{Analysis: enemy effectiveness minimal.}
-{44565}{}{Análisis. Programa defensivo exitoso.}
-{44566}{}{ puntos de daño.}
+{44565}{}{Análisis: maniobras evasivas exitosas.}
+{44566}{}{Unidad no está dañada.}
 {44800}{}{Tengo la cabeza dura, pero eso ha dolido.}
 {44801}{}{Eso me va a producir un infernal dolor de cabeza.}
 {44802}{}{Umph. ¡En la cabeza no!}
