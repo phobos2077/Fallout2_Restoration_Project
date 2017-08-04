@@ -28,7 +28,7 @@
 {144}{}{¿Como qué?}
 {145}{}{Él sospecha que está rociando el dinero que se supone que va a Broken Hills.}
 {146}{}{Nada. Adiós.}
-{147}{}{Look, I don't like people to accuse me about something that I don't know anything about. I suggest that you leave.}
+{147}{}{Mira, no me gusta que la gente me acuse de algo de lo que no sé nada. Te sugiero que te vayas.}
 {150}{}{No me retiraré a vivir aquí.}
 {156}{}{Habla con Bill. Él te ayudará.}
 {157}{}{Tengo más preguntas.}
