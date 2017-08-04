@@ -8,7 +8,7 @@
 {202}{}{::Se queja y se toca lo que queda de sus orejas::}
 {203}{}{::Muestra los músculos::}
 {300}{}{::Se cubre lo que queda de sus orejas y te mira::}
-{301}{}{Me gustan los cabezazos}
+{301}{}{Me gustan los cabezazos.}
 {302}{}{Yo y Mike nos gustan cabezazos.}
 {303}{}{Yo cabeceo a Mike pero el muerde mis orejas.}
 {304}{}{Mike muerde mis orejas porque tiene hambre.}
@@ -21,7 +21,7 @@
 {311}{}{H-hola, persona que huele bien.}
 {312}{}{H-hola, persona mujer.}
 {313}{}{¿Te gustan cabezazos?}
-{314}{}{Me gustan los cabezazos}
+{314}{}{Me gustan los cabezazos.}
 {315}{}{Yo y Mike nos gustan cabezazos.}
 {316}{}{Yo cabeceo a Mike pero el muerde mis orejas.}
 {317}{}{Mike muerde mis orejas porque tiene hambre.}

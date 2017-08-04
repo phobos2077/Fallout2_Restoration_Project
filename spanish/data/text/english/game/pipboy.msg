@@ -923,7 +923,7 @@
 {16064}{}{**END-PAR**}
 {16065}{}{Así que recuerda: ESTAMOS AQUÍ. ¿PORQUÉ NO TE UNES?}
 {16066}{}{**END-PAR**}
-{16067}{}{Preparado por el Comité Asesor de Relaciones Públicas. }
+{16067}{}{Preparado por el Comité Asesor de Relaciones Públicas. .}
 {16068}{}{**END-PAR**}
 {16069}{}{NCRAP Pub. #A7-7893b}
 {16070}{}{Esta página se ha dejado en blanco intencionadamente.}
@@ -970,7 +970,7 @@
 {18021}{}{--Notas personales-}
 {18022}{}{1) Seguir este rollo para encubrir el proyecto de Curling.}
 {18023}{}{2) Decirle a todo el mundo lo leales, etc, que son.}
-{18024}{}{   Bla, bla, bla.}
+{18024}{}{  Bla, bla, bla.}
 {18025}{}{**END-PAR**}
 {18026}{}{Asegurarse de hacer publicidad para la reelección.}
 {18027}{}{**END-PAR**}

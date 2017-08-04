@@ -41,7 +41,7 @@
 {400}{}{¡Papá!}
 {401}{}{¡Oh-oh!}
 {402}{}{¡Sí quiero!}
-{405}{}{¡Inmundo!}
+{405}{}{¡Tío Biff!}
 {410}{}{Uhh...}
 {411}{}{Ehhh... Continúa, por favor...}
 {412}{}{Yo... eh... yo…}

@@ -11,4 +11,4 @@
 {211}{}{A perrito no le gusto.}
 {212}{}{¡Perrito bueeeno!}
 {250}{}{Este perro podría destrozarte si quisiera hacerlo.}
-{300}{}{Has matado a todos los escorpiones rad que estaban amenazando a los brahmines.}
+{300}{}{Mataste a todos los perros atacando a los brahmines.}

@@ -93,5 +93,5 @@
 {501}{}{La capacidad general de un personaje. Una medida de tu experiencia y habilidades.}
 {502}{}{Una recompensa por completar tareas especificas, o derrotar enemigos en combate. Se necesitan más puntos de experiencia para alcanzar niveles elevados.}
 {503}{}{Lo que el mundo sabe de tus acciones y actos. Esto modificará las reacciones de los NPC.}
-{504}{}{Los efectos de las acciones que has llevado a cabo.}
+{504}{}{Los efectos de las acciones que has llevado a cabo. Se mostrará información importante.}
 {600}{}{Has subido un nivel.}

@@ -416,7 +416,7 @@
 {3005}{}{Al sureste.}
 {3006}{}{Al amanecer.}
 {3007}{}{Al nordeste.}
-{3008}{}{No sé nada de eso.}
+{3008}{}{No sabemos nada de eso.}
 {3009}{}{Sí.}
 {3010}{}{No.}
 {3011}{}{¿Qué esperas de nosotros?}
@@ -446,8 +446,8 @@
 {3036}{}{Tú tienes que abrir esto.}
 {3037}{}{Tú tienes que abrir esto.}
 {3038}{}{Quizás nosotros volver aquí otra vez.}
-{3039}{}{No comprendo.}
-{3040}{}{No lo sé.}
+{3039}{}{No comprendamos.}
+{3040}{}{No sabemos.}
 {3050}{slk86}{Estar en casa es bueno, pero el lugar parece un poco pequeño ahora. Nosotros echamos de menos la carretera y la compañía de un buen migo como tú. Nosotros queremos andar de aquí pa allá otra vez.}
 {3051}{}{Eso sería genial.}
 {3052}{}{Lo siento, ahora no puedo.}

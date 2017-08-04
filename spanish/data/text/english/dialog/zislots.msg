@@ -151,4 +151,4 @@
 {5000}{}{Jinx the machine into giving you all its money.}
 {5001}{}{The machine appears to freeze and then you hear a faint rumble as an avalanche of coins begin to fall from the
  dispenser.}
-{5002}{}{Le dejas tranquilo y te alejas. Esta vez. }
+{5002}{}{[Coleccionas dinero y te alejas.]}

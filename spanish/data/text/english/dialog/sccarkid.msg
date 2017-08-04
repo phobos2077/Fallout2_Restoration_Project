@@ -1,5 +1,5 @@
 {100}{}{Ves a un pequeño mocoso.}
-{101}{}{Es el hijo del vicepresidente Carlson}
+{101}{}{Es el hijo del vicepresidente Carlson.}
 {102}{}{Parece un pequeñajo consentido. Y gordo, además.}
 {103}{}{¡Mi papá es el vicepresidente Carlson, así que mejor que me trates bien! ¿Quién eres?}
 {104}{}{[Player name]}

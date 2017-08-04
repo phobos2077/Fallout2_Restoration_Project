@@ -1,8 +1,8 @@
 {101}{}{Ves a una persona normal, de mediana edad, de mediana altura y mediana complexión. Nada fuera de lo normal.}
-{102}{}{Ves a Joey.}
-{103}{}{Ves a un mercader.}
+{102}{}{Ves a Jo.}
+{103}{}{Ves al mercader Jo.}
 {104}{}{Ves al sheriff Jo.}
-{105}{}{Ves a Marc.}
+{105}{}{Ves al alcalde Jo.}
 {106}{}{Ves al juez de paz Jo.}
 {150}{}{Hemos matado a todos. Incluso a los niños... [Sollozo]}
 {151}{}{Reúnete con nosotros en la Granja Fantasma. Atacaremos inmediatamente.}

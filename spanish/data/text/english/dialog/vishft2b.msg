@@ -10,4 +10,4 @@
 {109}{}{Parece como si alguien hubiera escondido esto en el conducto de ventilación.}
 {110}{}{Abres el conducto y buscas la fuente de la obstrucción. Palpas algo en su interior y decides sacarlo.}
 {111}{}{Parece como si alguien hubiera escondido esto en el conducto de ventilación.}
-{112}{}{No encuentro yo todavía.}
+{112}{}{Encuentro eso en respiradero.}

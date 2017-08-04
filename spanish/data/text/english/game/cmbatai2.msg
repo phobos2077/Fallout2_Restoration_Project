@@ -1,6 +1,6 @@
 {1000}{}{¡Mi cara! ¡Mi cara!}
 {1001}{}{¡Oh! ¡Eso duele!}
-{1002}{}{¡Ouch! Necesito algo para mi cabeza}
+{1002}{}{¡Ouch! Necesito algo para mi cabeza.}
 {1010}{}{¡Ay, mi brazo!}
 {1011}{}{¡Ay!}
 {1012}{}{¡Le has roto el brazo a Kaga!}
@@ -30,12 +30,12 @@
 {1094}{}{No... puedo... respirar}
 {1095}{}{Duele, duele...}
 {1100}{}{¡Maldición!}
-{1101}{}{No es justo.}
+{1101}{}{¡Mi cráneo dolorido!}
 {1102}{}{¡Mi cara! ¡Mi cara!}
-{1110}{}{No puedo sentirlo, tengo el brazo entumecido.}
+{1110}{}{¡Aggghhh! ¡Mi brazo!}
 {1111}{}{¡Mi brazo!}
 {1112}{}{¡Oh tio, eso duele!}
-{1120}{}{No puedo sentirlo, tengo el brazo entumecido.}
+{1120}{}{¡Aggghhh! ¡Mi brazo!}
 {1121}{}{¡Mi brazo!}
 {1122}{}{}
 {1130}{}{}
@@ -82,10 +82,10 @@
 {1237}{}{¡Oh, creo que me has roto una costilla!}
 {1238}{}{¡Ay! ¡Mi bazo!}
 {1239}{}{¡Oof!}
-{1260}{}{¡Ay, la pierna de Kaga!}
+{1260}{}{¡Ay, la pierna de Kaga!.}
 {1261}{}{¡No necesito estar de pie para matarte!}
 {1262}{}{¡Mi rodilla!}
-{1270}{}{¡Ay, la pierna de Kaga!}
+{1270}{}{¡Ay, la pierna de Kaga!.}
 {1271}{}{¡No necesito estar de pie para matarte!}
 {1272}{}{¡Mi rodilla!}
 {1280}{}{¡No veo!}
@@ -102,10 +102,10 @@
 {1302}{}{Hazlo otra vez, cerdo.}
 {1310}{}{¡Me has herido!}
 {1311}{}{}
-{1312}{}{¡Me has roto la pierna, pero yo te romperé el cuello!}
+{1312}{}{¡Me has roto el brazo, pero yo te romperé el cuello!}
 {1320}{}{}
 {1321}{}{Es sólo un rasguño...}
-{1322}{}{Me has roto el brazo, pero yo voy a romperte el cuello.}
+{1322}{}{¡Me has roto el brazo, pero yo voy a romperte el cuello!}
 {1330}{}{Un poco de sangre no le hace daño a nadie.}
 {1331}{}{¡Ooh! Te voy a retorcer el pescuezo por haber hecho eso...}
 {1332}{}{¡Ay!}
@@ -118,7 +118,7 @@
 {1362}{}{¡Me has roto la pierna, pero yo te romperé el cuello!}
 {1370}{}{Me encanta el sonido de los huesos crujiendo.}
 {1371}{}{}
-{1372}{}{¡Me has roto la pierna, pero yo te romperé el cuello!}
+{1372}{}{¡Me has roto el brazo, pero yo te romperé el cuello!}
 {1380}{}{Eh, estoy ciego.}
 {1381}{}{No puedo ver. Supongo que esto hará la pelea más justa.}
 {1382}{}{¡Mis ojos, joder!}
@@ -460,8 +460,8 @@
 {2123}{}{No eres bienvenido aquí.}
 {2124}{}{Nadie se va a quedar con este sitio...}
 {2125}{}{¿Quién te crees que eres?}
-{2140}{}{No deberías haber hecho eso.}
-{2141}{}{Cuidamos de nosotros mismos.}
+{2140}{}{¡No deberías haber hecho eso!}
+{2141}{}{¡Cuidamos de nosotros mismos!}
 {2142}{}{¡Esto es lo que les hacemos a las alimañas!}
 {2143}{}{¡Mutante, bicho raro!}
 {2144}{}{¡Bastardo!}
@@ -482,7 +482,7 @@
 {2203}{}{Me has vencido... esta vez.}
 {2204}{}{¡Ya tienes lo que querías!}
 {2205}{}{¡No pienso morir aquí!}
-{2220}{}{¡Demasiado tarde para huir!}
+{2220}{}{¡Demasiado tarde para huir!.}
 {2221}{}{¿Quién te dejo entrar aquí?}
 {2222}{}{¡Eh, tú!}
 {2223}{}{¡No queremos a los tuyos por aquí!}
@@ -533,7 +533,7 @@
 {2364}{}{¡Apestas!}
 {2365}{}{Esto va a ser más sencillo de lo que pensaba.}
 {2400}{}{¡Yo me largo de aquí!}
-{2401}{}{Quizás esto no fuera una buena idea!}
+{2401}{}{Quizás esto no fuera una buena idea!.}
 {2402}{}{Ataca a otro, ¿vale?}
 {2403}{}{¡Por los pelos!}
 {2404}{}{¡No pienso morir aquí!}
@@ -553,14 +553,14 @@
 {2444}{}{¿Dónde está tu mamaíta ahora?}
 {2445}{}{¡Toma!}
 {2446}{}{Veamos lo duro que eres...}
-{2447}{}{Vagabundo}
+{2447}{}{¡Vagabundo!}
 {2448}{}{¡Colgado!}
-{2449}{}{Voy a acabar contigo.}
+{2449}{}{¡Voy a acabar contigo!}
 {2460}{}{¿Tú mamá no te enseñó a hacer eso?}
 {2461}{}{¡Das pena!}
 {2462}{}{No eres muy bueno.}
 {2463}{}{Ese fue tu último error.}
-{2464}{}{Novatos.}
+{2464}{}{Novato.}
 {2465}{}{¿Aprendiste a pelear en un bar?}
 {2500}{}{¡Hay que salir de aquí!}
 {2501}{}{Kaga volverá...}
@@ -1249,7 +1249,7 @@
 {32665}{}{Se está haciendo tarde...}
 {32700}{}{¡Mi cara! ¡Mi cara!}
 {32701}{}{¡Padre Estelar! ¡Ayúdame!}
-{32702}{}{¡Ouch! Necesito algo para mi cabeza}
+{32702}{}{¡Ouch! Necesito algo para mi cabeza.}
 {32710}{}{¡Ay, mi brazo!}
 {32711}{}{¡Ay!}
 {32712}{}{¡Le has roto el brazo a Kaga!}
@@ -1571,12 +1571,12 @@
 {36634}{}{¡Me río de tu insignificante ataque!}
 {36635}{}{¡Oh!}
 {36636}{}{¡Te destriparé!}
-{36637}{}{¡Grrr! ¡Me has enfurecido!}
+{36637}{}{¡Grrr! ¡Me has enfurecido!.}
 {36638}{}{¡Agh!}
 {36639}{}{¡Te devolveré el mismo dolor!}
 {36640}{}{¡Oof!}
 {36641}{}{¡Ouch!}
-{36642}{}{Hmm, tienes problemas}
+{36642}{}{Hmm, tienes problemas.}
 {36643}{}{¡Grrr! Espera tu muerte.}
 {36644}{}{¡Podrás herirme, pero no me matarás!}
 {36645}{}{¡Ay! Herirme no fue una buena idea.}

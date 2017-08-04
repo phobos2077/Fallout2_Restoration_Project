@@ -22,7 +22,7 @@
 {150}{}{Fl>)$#_~)u-*+$#\)_+@#$%-0? %#$ (dkhdsdsklfjsd? Iniciando Win21, espere por favor… Comando SO no reconocido. Iniciando borrado HDD BN.}
 {151}{}{Hmmm. ¿Ook?}
 {152}{}{Afjasdfaa kljkljl;jljljj?}
-{160}{}{Robot de mantenimiento del reactor listo para la secuencia de inicialización/arranque. ¿Código funcional de acceso?:}
+{160}{}{Robot de mantenimiento del reactor está listo para la secuencia de inicialización/arranque. ¿Código funcional de acceso?:}
 {161}{}{¿Función?}
 {162}{}{¿Acción?}
 {163}{}{35C76863}
@@ -107,7 +107,7 @@
 {343}{}{Desconexión.}
 {350}{}{Buscando enlaces de comunicación… buscando… Iron Mountain… desconectado, NORAD… desconectado, SAC… desconectado. Buscando en PoseidoNet… --¿Más?--}
 {351}{}{Descargar rutinas de robot de mantenimiento.}
-{352}{}{Más}
+{352}{}{Más.}
 {353}{}{Desconexión.}
 {360}{}{Estaciones PoseidoNet activas: Central nuclear #5, Refinería Navarro, Estación de control ENCLAVE, Control ENCLAVE de investigación de Refugios… acceso denegado.}
 {361}{}{Las luces están encendidas pero no hay nadie en casa. }

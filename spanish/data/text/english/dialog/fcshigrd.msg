@@ -1,5 +1,5 @@
 {100}{}{Ves a un guardia con ropas holgadas, con una expresión de aburrimiento cauteloso.}
-{101}{}{Ves a un guardia de palacio}
+{101}{}{Ves a un guardia de palacio.}
 {102}{}{Ves a un guardia de palacio con un arma de apariencia peligrosa.}
 {103}{}{Limítate a seguir tu camino y no tendremos problemas.}
 {104}{}{¿Tienes algo que hacer aquí?}

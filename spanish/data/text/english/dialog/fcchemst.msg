@@ -1,5 +1,5 @@
 {100}{}{Ves a un Shi con el ceño fruncido.}
-{101}{}{Ves al doctor Jing Tie Gahng}
+{101}{}{Ves al doctor Jing Tie Gahng.}
 {102}{}{Ves a un Shi con bata de laboratorio.}
 {103}{}{¿Quién eres? ¿Qué quieres?}
 {104}{}{¿Qué?}

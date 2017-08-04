@@ -1,11 +1,11 @@
 {100}{}{Ves a un viejo.}
-{101}{}{Ves a Curtis.}
+{101}{}{Ves a Cornelius.}
 {102}{}{Aparte de una expresión ligeramente inquieta en su rostro, no parece haber nada extraordinario en él.}
 {150}{}{Bienvenido a la Posada de Rose. Mi nombre es Rose -digo, Cornelius- y dirijo esta posada. ¿Puedo ayudarte?}
 {151}{}{Si eres tú quien dirige este lugar, ¿entonces por qué se llama Posada de ROSE?}
 {152}{}{Estoy buscando un reloj de oro.}
 {153}{}{¿Qué haces aquí?}
-{154}{}{¿Quién es ella?}
+{154}{}{¿Quién es Rose?}
 {155}{}{Estoy interesado en conseguir una habitación.}
 {156}{}{¿Preguntas? ¿Te estaba preguntando algo? Hola, mi nombre es Cornelius.}
 {162}{}{Necesitas ayuda de verdad, anciano.}

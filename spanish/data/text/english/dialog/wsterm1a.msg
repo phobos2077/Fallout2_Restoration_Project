@@ -37,7 +37,7 @@
                                  El acceso del usuario a este terminal ha concluido
               Fin de la transmisión}
 {136}{}{Salir.}
-{137}{}{Tu ineptitud ha provocado que salte el sistema de alarma.}
+{137}{}{No sirve de nada. El programa es demasiado complicado para que lo entiendas.}
 {138}{}{Es inútil. El programa es demasiado complicado de entender para ti.}
 {139}{}{Salir.}
 {200}{}{ es incapaz de leer lo que hay en la pantalla.}

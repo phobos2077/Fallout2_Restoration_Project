@@ -1,5 +1,5 @@
 {100}{}{Ves a un anciano. Tiene el aspecto de una pasa arrugada.}
-{101}{}{Ves a Fred.}
+{101}{}{Ves a Farrel.}
 {102}{}{Escuchas el sonido de ramitas secas rompiéndose cada vez que se mueve.}
 {150}{}{¡Oye, aléjate de ahí!}
 {151}{}{¡Deja de hacer eso!}

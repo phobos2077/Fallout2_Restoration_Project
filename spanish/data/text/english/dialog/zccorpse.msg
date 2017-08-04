@@ -1,3 +1,3 @@
-{100}{}{Debes de ser un cegato hijoputa.}
-{101}{}{Parece estar buscando algo.}
-{102}{}{Eso duele.}
+{100}{}{Ves a un hijoputa desafortunado.}
+{101}{}{Esta persona parece haber muerto una muerte muy horrible.}
+{102}{}{Eso debe haber dolido.}

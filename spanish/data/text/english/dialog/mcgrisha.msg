@@ -1,5 +1,5 @@
 {100}{}{Ves a un viejo muy activo.}
-{101}{}{Ves a Brian.}
+{101}{}{Ves a Grisham.}
 {102}{}{No acabas de situarle bien, pero te resulta familiar.}
 {151}{}{¡Te dije que recibirías tu merecido!}
 {152}{}{¡Bwahahaha!}
@@ -65,7 +65,7 @@
 {217}{}{Yo hago. ¡Ir ahora!}
 {218}{}{¡Bien! Recuerda, los bichos malos hacen '¡Guau! ¡Guau!'. Los bichos buenos hacen 'Muuuu'. Intenta no matar a los bichos buenos.}
 {219}{}{Pareces andar un poco corto de dinero. No voy a fiarte y no tengo intención de darte algo a cambio de nada.}
-{221}{}{Es por eso que tienes que usar jabón...}
+{221}{}{Eso es lo que obtengo por enviar un Neanderthal. ¡Vamos!}
 {222}{}{Uh... unga bunga unga bunga. Ahora toma tu dinero, sé un buen neanderthal y lárgate.}
 {223}{}{Eres un poco tacaño, ¿no? Bueno, si es lo que quieres, puedes hacerte con los restos que quieras. Balthas suele comprar las pieles, y Rose te comprará cualquier resto que no quieras. Los suele usar para hacer sopa y alimentar a sus perros.}
 {225}{}{Debes estar bromeando. Todo el mundo sabe que es Farrel quien robó el reloj. ¿Por qué te pediría que lo buscaras? A no ser que... ¡no fuera él quien lo hubiera robado! O quizás sea un truco para convencer a todo el mundo de que él no lo robó. Tengo que reflexionar.}
@@ -105,7 +105,7 @@
 {410}{}{No querrás que }
 {412}{}{Miria}
 {413}{}{Davin}
-{414}{}{Eh, Jo, ¿podemos pasar a la parte de los votos matrimoniales?}
+{414}{}{Eh, Bo, ¿podemos pasar a la parte de los votos matrimoniales?}
 {420}{}{You're not going anywhere, boy!}
 {421}{}{Esto me pasa por mandar a un neanderthal. ¡Ve!}
 {452}{}{ era algo rarito, pero esto... ¡Sólo hay una forma de arreglarlo!}
@@ -129,25 +129,25 @@
 {700}{}{Aggg... [Una mirada de espanto recorre la cara de Grisham cuando de repente se echa la mano al pecho y se desploma en el suelo].}
 {750}{}{Bueno, tengo que volver al trabajo. Ya nos veremos.}
 {800}{}{Has salvado a los brahmines de Grisham.}
-{1101}{}{Ves a El Cerebro.}
-{1155}{}{Sabía que mi hijo era raro.}
+{1101}{}{Ves a Tío Biff.}
+{1155}{}{Sabía que mi sobrina era rara.}
 {1156}{}{Gente diferente, gustos diferentes, supongo.}
 {1157}{}{Voy a tener que usar hilo dental después de esto.}
-{1158}{}{Sabía que mi hijo era raro.}
+{1158}{}{Sabía que mi sobrino era raro.}
 {1159}{}{Supongo que ahora eres parte de la familia.}
-{1160}{}{Cuida bien de mi hijo.}
-{1161}{}{Cuida bien de mi hijo.}
+{1160}{}{Cuida bien de mi sobrina.}
+{1161}{}{Cuida bien de mi sobrino.}
 {1228}{}{Chico, no intentes explicar esto. No quiero oírlo. Voy a llamar al predicador, vamos a hacer todo esto legalmente, y te llevarás a mi sobrino contigo cuando te vayas de aquí.}
 {1229}{}{No puedo decir que no este un poco consternado por esto, pero ella no puede quedarse viviendo en esta casa después de lo que he visto. Vosotros dos vais a casaros ahora mismo y a marcharos de aquí.}
-{1230}{}{¿Te importaría explicar qué estabas haciendo con mi hijo?}
-{1231}{}{¿Te importaría explicar qué estabas haciendo con mi hijo?}
-{1232}{}{Déjeme explicárselo con suavidad, papaíto. Están las flores y las abejas, sabe, y entonces éstas dejan su semillita...}
-{1236}{}{Esto es la hostia. Voy a tener un sabihondo como yerno. Bueno, vamos... hijo. Acabemos con esto.}
-{1237}{}{Esto es la hostia. Voy a tener un sabihondo como yerno. Bueno, vamos... hijo. Acabemos con esto.}
-{1238}{}{Déjame ver. Me parece que tú y mi hija estábais imitando el ritual del cortejo del brahmin en la época de celo.}
-{1239}{}{Déjame ver... Me parece que tú y mi hijo estábais bailando un tango horizontal entre las sábanas.}
-{1403}{}{Cómo te atreves a mancillar el honor de mi }
-{1412}{}{¿Su hija?}
-{1413}{}{Tyson}
+{1230}{}{¿Te importaría explicar qué estabas haciendo con mi sobrina?}
+{1231}{}{¿Te importaría explicar qué estabas haciendo con mi sobrino?}
+{1232}{}{Déjeme explicárselo con suavidad, tío Biff. Están las flores y las abejas, sabe, y entonces éstas dejan su semillita }
+{1236}{}{Esto es la hostia. Voy a tener un sabihondo como consuegro. Bueno, vamos... sobrino. Acabemos con esto.}
+{1237}{}{Esto es la hostia. Voy a tener un sabihondo como consuegro. Bueno, vamos... sobrina. Acabemos con esto.}
+{1238}{}{Déjame ver. Me parece que tú y mi sobrina estábais imitando el ritual del cortejo del brahmin en la época de celo.}
+{1239}{}{Déjame ver... Me parece que tú y mi sobrino estábais bailando un tango horizontal entre las sábanas.}
+{1403}{}{Cómo te atreves a mancillar el honor de }
+{1412}{}{hija de mi hermano}
+{1413}{}{hijo de mi hermano}
 {1600}{}{. Espero que estés cuidando bien de mi hija Miria. Ella es la luz de mi vida y se me partiría el corazón si algo le ocurriera. ¿Dónde está, ya que estamos? Esperaba volver a verla.}
 {1601}{}{. ¿Qué tal la vida de casados? Veo que mi hijo Davin no viaja contigo. Le echo de menos. Quizás la próxima vez que vengas a visitarme puedas traerlo contigo. Harías muy feliz a este viejo si pudiera volver a ver a su hijo.}

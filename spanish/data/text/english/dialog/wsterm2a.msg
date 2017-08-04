@@ -18,7 +18,7 @@
 {109}{}{Intentar apagar la alarma.}
 {110}{}{Salir.}
 {111}{}{¡Argh! [Golpeas el teclado con el puño por la frustración].}
-{113}{}{Piratear los sistemas de seguridad}
+{113}{}{Sistemas de seguridad de Skynet}
 {114}{}{Contraseña no válida  --  Acceso denegado                       Por favor, introduzca contraseña:_}
 {115}{}{Activar Sistema de alarma en Nivel 2}
 {116}{}{Ejecutar programa de auto-diagnóstico.}
@@ -75,7 +75,7 @@
             Terminal Last Accessed: }
 {303}{}{                              Cabo Dixon}
 {304}{}{                              General Clifton}
-{305}{}{05 de Julio de 2077}
+{305}{}{05 de agosto de 2077}
 {306}{}{ días atrás. }
 {307}{}{Escáner de retina activado
                                            Escaneando...
@@ -83,6 +83,9 @@
 {308}{}{Escáner de retina activado
                                            Escaneando...
                                                               Buscando en Base de datos}
-{309}{}{                                      Total Weight:}
-{310}{}{ }
-{311}{}{                Exp:}
+{309}{}{
+                               }
+{310}{}{
+                                             }
+{311}{}{
+                       }

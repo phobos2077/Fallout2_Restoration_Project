@@ -68,7 +68,7 @@
 {411}{}{Ehhh... Continúa, por favor...}
 {412}{}{Yo... eh... yo…}
 {413}{}{Um… Sí quiero.}
-{420}{}{¡Inmundo!}
+{420}{}{¡Tío Biff!}
 {450}{}{Uhhh, es con papi con quien deberías hablar.}
 {470}{}{Uhhh, es con papi con quien deberías hablar.}
 {500}{}{Genial, creo que ahora tendré que ser yo la que lleve este basurero.}

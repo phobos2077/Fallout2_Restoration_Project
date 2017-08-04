@@ -42,7 +42,7 @@
 {271}{}{Uh, bien. Hablemos de otra cosa.}
 {272}{}{Ah, supongo que tengo mucho que aprender de vosotros. Me gustaría ser civilizado, algún día.}
 {273}{}{¿Civilizada? ¿Te crees que eres civilizada porque vivas en las ruinas humeantes de un pueblo de antes de la guerra? Mejor cambiemos de tema.}
-{274}{}{Vale. Creo que ya he oído suficiente. Adiós.}
+{274}{}{Creo que ya he oído suficiente. Adiós.}
 {280}{}{Bien, ¿hay algo más que pueda hacer por ti?}
 {281}{}{Tengo suficientes pieles de gecko para una buena temporada. ¿Algo más que pueda hacer por ti?}
 {282}{}{La verdad, hay otras cosas con las que querría comerciar.}
@@ -117,8 +117,8 @@
 {500}{}{Muchas gracias. Retiro todo lo que dije sobre los tribales. Por favor, encuentra a mi hermano.}
 {501}{}{Lo encontraré; cuenta conmigo.}
 {510}{}{¿Aún no has encontrado a mi hermano? Espero que este bien.}
-{511}{}{De acuerdo, aunque tengo algunas preguntas más.}
-{512}{}{No, sigo buscando.}
+{511}{}{No, aún no. Aunque tengo algunas preguntas más.}
+{512}{}{Aún no, sigo buscando.}
 {520}{}{¿Quieres una bebida? Serán 5 dólares por una jarra de cerveza Buckner’s Best.}
 {521}{}{Me gustaría una buena cerveza. Llénamela.}
 {522}{}{Me gustaría invitar a una ronda a todos los presentes para darme a conocer. Soy }

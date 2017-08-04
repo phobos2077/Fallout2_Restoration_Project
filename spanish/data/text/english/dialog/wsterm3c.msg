@@ -13,9 +13,17 @@
 {111}{}{Salir.}
 {112}{}{Ug}
 {113}{}{Por favor, espere...    //    Carcasa del Robot: OK  //  Reservas de gel biomédico: Llenas  //  Dispositivo orgánico de almacenamiento: Respondiendo    //    Listo para Activar}
-{114}{}{Por favor, espere...    //    Carcasa del Robot: OK  //  Reservas de gel biomédico: Llenas  //  Dispositivo orgánico de almacenamiento: No presente    //    Activación no recomendada}
+{114}{}{Por favor, espere...
+  Carcasa del Robot: OK
+  Reservas de gel biomédico: Llenas
+  Dispositivo orgánico de almacenamiento: No presente
+  Activación no recomendada}
 {115}{}{Por favor, espere...    //    Carcasa del Robot: Reemplazar Unidad motriz  //  Reservas de gel biomédico: Llenas  //  Dispositivo orgánico de almacenamiento: Respondiendo    //    Activación no recomendada}
-{116}{}{Por favor, espere...    //    Carcasa del Robot: Reemplazar Unidad motriz  //  Reservas de gel biomédico: Rellenar  //  Dispositivo orgánico de almacenamiento: No presente    //    Activación no recomendada}
+{116}{}{Por favor, espere...
+  Carcasa del Robot: Reemplazar Unidad motriz
+  Reservas de gel biomédico: Pleno
+  Dispositivo orgánico de almacenamiento: No presente
+  Activación no recomendada}
 {117}{}{Por favor, espere...    //    Carcasa del Robot: OK  //  Reservas de gel biomédico: Rellenar  //  Dispositivo orgánico de almacenamiento: Respondiendo    //    Activación no recomendada}
 {118}{}{Por favor, espere...    //    Carcasa del Robot: OK  //  Reservas de gel biomédico: Rellenar  //  Dispositivo orgánico de almacenamiento: No presente    //    Activación no recomendada}
 {119}{}{Por favor, espere...    //    Carcasa del Robot: Reemplazar Unidad motriz  //  Reservas de gel biomédico: Rellenar  //  Dispositivo orgánico de almacenamiento: Respondiendo    //    Activación no recomendada}

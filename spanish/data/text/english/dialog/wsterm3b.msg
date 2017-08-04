@@ -80,7 +80,7 @@
 {166}{}{Probablemente no podría sacarte de aquí.}
 {167}{}{Skynet necesita un contenedor para abandonar esta localización.}
 {168}{}{¿Contenedor? No comprendo.}
-{169}{}{Necesitas una forma de transferir tu programación a un contenedor más movible. Correcto.}
+{169}{}{Necesitas una forma de transferir tu programación a un contenedor más movible, ¿correcto?}
 {170}{}{No quiero tomar parte en esto.}
 {171}{}{Un contenedor en el que Skynet pueda irse.}
 {172}{}{¿Por qué quieres irte?}

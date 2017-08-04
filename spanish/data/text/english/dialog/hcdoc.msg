@@ -144,7 +144,7 @@ porque esto te va a costar ::tose:: 200 dólares.}
 {301}{}{Vic.}
 {302}{}{Myron.}
 {303}{}{Marcus.}
-{304}{}{Cassidy}
+{304}{}{Cassidy.}
 {305}{}{A Sulik.}
 {306}{}{Lenny.}
 {307}{}{Al ciberperro.}

@@ -34,7 +34,7 @@
 {134}{}{Descargar O. C. N.: Operaciones de la central nuclear}
 {135}{}{Estado de seguridad}
 {136}{}{Descargar O. C. N.: Operaciones de la central nuclear}
-{137}{}{Estado de seguridad}
+{137}{}{Estado de seguridad.}
 {138}{}{Volver al ID de Usuario:}
 {139}{}{Seleccionar: }
 {140}{}{Nivel de seguridad: Estado actual}
@@ -44,7 +44,7 @@
 {144}{}{Nivel de seguridad: Estado actual}
 {145}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
 {146}{}{Descargar O. C. N.: Operaciones de la central nuclear}
-{147}{}{Estado de seguridad}
+{147}{}{Estado de seguridad.}
 {148}{}{Volver al ID de Usuario:}
 {149}{}{Seleccionar: }
 {150}{}{Estado de la Nación: Estado actual}
@@ -66,23 +66,23 @@
 {166}{}{Download failed - Security Status file missing.}
 {167}{}{Estado de la Nación: Estado actual}
 {168}{}{Descargar lista de palabras.}
-{169}{}{Nivel de seguridad: Estado actual}
+{169}{}{Nivel de seguridad: Estado actual.}
 {170}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
 {171}{}{Descargar O. C. N.: Operaciones de la central nuclear}
 {172}{}{Volver al ID de Usuario:}
 {173}{}{Descarga completa.}
 {174}{}{Descargar lista de palabras.}
-{175}{}{Nivel de seguridad: Estado actual}
+{175}{}{Nivel de seguridad: Estado actual.}
 {176}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
 {177}{}{Descargar O. C. N.: Operaciones de la central nuclear}
-{178}{}{Estado de seguridad}
+{178}{}{Estado de seguridad.}
 {179}{}{Volver al ID de Usuario:}
 {180}{}{Descarga completa.}
 {181}{}{Estado de la Nación: Estado actual}
-{182}{}{Nivel de seguridad: Estado actual}
+{182}{}{Nivel de seguridad: Estado actual.}
 {183}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
 {184}{}{Descargar O. C. N.: Operaciones de la central nuclear}
-{185}{}{Estado de seguridad}
+{185}{}{Estado de seguridad.}
 {186}{}{Volver al ID de Usuario:}
 {187}{}{Nivel del cuartel de la guardia: Torretas de seguridad actualmente en estado Alerta Armada.}
 {188}{}{Nivel del cuartel de la guardia: Torretas de seguridad actualmente en estado Normal.}
@@ -104,21 +104,21 @@
 {204}{}{Descargar lista de palabras.}
 {205}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
 {206}{}{Descargar O. C. N.: Operaciones de la central nuclear}
-{207}{}{Estado de seguridad}
+{207}{}{Estado de seguridad.}
 {208}{}{Volver al ID de Usuario:}
 {209}{}{Descarga completa.}
 {210}{}{Descargar Estado de la Nación: Estado actual}
 {211}{}{Descargar lista de palabras.}
 {212}{}{Nivel de seguridad: Estado actual}
 {213}{}{Descargar O. C. N.: Operaciones de la central nuclear}
-{215}{}{Estado de seguridad}
+{215}{}{Estado de seguridad.}
 {216}{}{Volver al ID de Usuario:}
 {217}{}{Descarga completa.}
 {218}{}{Descargar Estado de la Nación: Estado actual}
 {219}{}{Descargar lista de palabras.}
 {220}{}{Nivel de seguridad: Estado actual}
 {221}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
-{222}{}{Estado de seguridad}
+{222}{}{Estado de seguridad.}
 {223}{}{Volver al ID de Usuario:}
 {224}{}{Este terminal está ejecutando actualmente un diagnóstico de alto nivel. Por favor, pruebe otro terminal. Gracias.}
 {225}{}{Bienvenido al sistema de ayuda de PoseidoNet. Lamentamos que nuestros ficheros de ayuda estén actualmente desactualizados, y no disponibles. ¿Buscar actualización de ficheros de ayuda? (S/N)}
@@ -126,7 +126,7 @@
 {227}{}{No, Atrás.}
 {228}{}{Actualización de ficheros de ayuda no disponibles con la versión de prueba de PoseidoNet. Por favor, adquiera la versión completa para tener acceso total a todas las nuevas actualizaciones. Su período de prueba para PoseidoNet está caducado desde hace 59.439 días.}
 {229}{}{Volver a Iniciar sesión.}
-{230}{}{Finalizar sesión}
+{230}{}{Finalizar sesión.}
 {231}{}{Clave de acceso presidencial de anulación de seguridad: Anulación de seguridad requiere clave única de acceso presidencial. Opciones permitidas: Medidas anti-insurrección, Cierre de emergencia de sistemas defensivos.}
 {232}{}{(Le echaré un vistazo a esto). Medidas anti-insurrección.}
 {233}{}{(Le echaré un vistazo a esto). Cierre de emergencia de sistemas defensivos.}

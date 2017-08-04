@@ -100,7 +100,7 @@
 {342}{}{No, después de todo no quiero comerciar contigo.}
 {343}{}{Tienes conexiones con La Guarida. Venga, sé que puedes conseguirme un mejor precio.}
 {350}{}{Dicen que hay bichos que se parecen a insectos, tienen el tamaño de un hombre, caminan sobre dos patas y están mutilando al ganado en mitad de la noche. Sólo Torr ha sido capaz de verlos con claridad. ¿Da miedo, eh?}
-{360}{}{Hay gente que dice que hay una rata gigante, del tamaño de un Corvega, que manda sobre todas las ratas del barrio de los tramperos (al oeste del centro). Dicen que vive en una vieja mina debajo del barrio de los tramperos y que todas las demás ratas le llevan cualquier objeto brillante que puedan encontrar (se relame los labios). Mmm, cosas brillantes.}
+{360}{}{Hay gente que dice que hay una rata gigante, del tamaño de un Corvega, que manda sobre todas las ratas del barrio de los tramperos (al oeste de aquí). Dicen que vive en una vieja mina debajo del barrio de los tramperos y que todas las demás ratas le llevan cualquier objeto brillante que puedan encontrar (se relame los labios). Mmm, cosas brillantes.}
 {370}{}{Al oeste del pueblo hay un cañón. Hace unos pocos meses hubo una luz brillante que venía de allí y entonces los bichos empezaron a desaparecer. El rastro llevaba hasta el cañón, pero nadie salió de allí. ¿Aterrador, eh? Algunos incluso han escuchado el eco de un extraño quejido que proviene de las paredes del cañón.}
 {380}{}{Smiley era uno de los mejores tramperos que ha habido nunca. Un día se fue y dejo a la señora Buckner: dijo que iba a encontrar el lugar de origen de todos los geckos dorados. Dijo que se haría rico si lo encontraba. Pero no ha vuelto... y ya hace un tiempo de eso.}
 {381}{}{Increíble. Cuéntame más noticias locales.}

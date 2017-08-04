@@ -9,7 +9,7 @@
 {160}{}{Algo sobre ratas.}
 {170}{}{Algo sobre objetos viejos.}
 {180}{}{Algo sobre un desaparecido.}
-{190}{}{(Te vas).}
+{190}{}{(Te Vas)}
 {210}{}{Un tosco dibujo de lo que parece ser un brahmin con una gran X sobre él y el nombre 'Torr' garabateado debajo.}
 {220}{}{Creo que le echaré un vistazo a otra nota.}
 {230}{}{Es todo lo que necesito saber por ahora.}
@@ -32,7 +32,7 @@
 {410}{}{Creo que le echaré un vistazo a otra nota.}
 {420}{}{Es todo lo que necesito saber por ahora.}
 {430}{}{Ves un pedazo de madera con trozos de papel clavados en él. Todos salvo uno de ellos están llenos de esas malditas rayas. ¡Whew! Chico, que dolor de cabeza. Será mejor que busques algo menos difícil de entender.}
-{440}{}{Huuu. (Miras a la única nota que tiene algo de sentido).}
+{440}{}{Torr. (Miras a la única nota que tiene algo de sentido).}
 {450}{}{Nahhh.}
 {460}{}{Un tosco dibujo de lo que parece ser un brahmin con una gran X sobre él y el nombre 'Torr' garabateado debajo. (No es como los de Altamira, pero el significado está claro).}
 {470}{}{Hihi. (Bueno, parece que un pobre llamado Torr necesita alguna clase de ayuda con sus brahmines).}

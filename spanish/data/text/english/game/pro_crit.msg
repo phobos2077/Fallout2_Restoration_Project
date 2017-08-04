@@ -499,4 +499,4 @@
 {48100}{}{Gecko especial}
 {48200}{}{La Muerte}
 {48300}{}{Frank Horrigan}
-{48301}{}{Guardaespaldas del Presidente}
+{48301}{}{Guardaespaldas del Presidente.}

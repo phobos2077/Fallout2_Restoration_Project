@@ -6,12 +6,12 @@
 {104}{}{Me gustaría entrar en el Refugio.}
 {105}{}{Nada, lamento molestarte.}
 {106}{}{Ya son más de la 6 de la tarde. Debes marcharte.}
-{107}{}{Está bien, me marcho.}
+{107}{}{Está bien. Me marcho.}
 {108}{}{De acuerdo. Sólo necesito un minuto más.}
 {109}{}{Tengo cosas que hacer. Me iré cuando esté listo.}
 {110}{}{¡¿¡Umag Nak!?! ¡Umag NAK!}
 {111}{}{Llamaré a algunos guardias para que te escolten a la salida.}
-{112}{}{Bien, vámonos.}
+{112}{}{Bien. Vámonos.}
 {113}{}{Brog Frup}
 {114}{}{No te molestes. Puedo encontrar el camino yo solo.}
 {115}{}{Lo siento, pero esas son mis órdenes.}

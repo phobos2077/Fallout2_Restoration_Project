@@ -1,6 +1,6 @@
 {1000}{}{¡Mi cara! ¡Mi cara!}
 {1001}{}{¡Oh! ¡Eso duele!}
-{1002}{}{¡Ouch! Necesito algo para mi cabeza}
+{1002}{}{¡Ouch! Necesito algo para mi cabeza.}
 {1003}{}{¡Me has arrancado la cabeza! ¡Oh Dios, mi cabeza ya no está!}
 {1004}{}{¡Mi nariz! ¡Me has arrancado la nariz!}
 {1005}{}{¡Me han arrancado el cuero cabelludo!}
@@ -29,7 +29,7 @@
 {1028}{}{Me han arrancado el brazo. Oh Dios, no.}
 {1029}{}{No me mates.}
 {1030}{}{¡Ay! ¡Eso ha dolido!}
-{1031}{}{Creo que voy a fallecer}
+{1031}{}{Creo que voy a fallecer.}
 {1032}{}{¡Ouch!}
 {1033}{}{¡Oooof!}
 {1034}{}{¡Eso ha dolido!}
@@ -102,7 +102,7 @@
 {1101}{}{Eso no fue justo.}
 {1102}{}{Me quema, me quema.}
 {1103}{}{¡Maldición!}
-{1104}{}{No es justo.}
+{1104}{}{¡Mi cráneo dolorido!}
 {1105}{}{¡Mi cara! ¡Mi cara!}
 {1106}{}{¡Maldición!}
 {1107}{}{¿Quién ha apagado las luces?}
@@ -111,7 +111,7 @@
 {1110}{}{Ja, al menos no has golpeado nada importante.}
 {1111}{}{Oooh, mi cabeza.}
 {1112}{}{Eh, me has mandado el pelo al otro barrio.}
-{1113}{}{No puedo sentirlo, tengo el brazo entumecido.}
+{1113}{}{¡Aggghhh! ¡Mi brazo!}
 {1114}{}{¡Mi brazo!}
 {1115}{}{¡Oh tio, eso duele!}
 {1116}{}{Me duele el brazo, eso es malo.}
@@ -121,7 +121,7 @@
 {1120}{}{Tengo el brazo desgarrado.}
 {1121}{}{¡¿Alguien puede doblar mi brazo hacia atrás, por favoooor?!}
 {1122}{}{Mi pulgar se ha rasgado la derecha de mi mano!}
-{1123}{}{No puedo sentirlo, tengo el brazo entumecido.}
+{1123}{}{¡Aggghhh! ¡Mi brazo!}
 {1124}{}{¡Mi brazo!}
 {1125}{}{¡Me has arrancado el pulgar de la mano!}
 {1126}{}{¡Aggghhh! ¡Mi brazo!}
@@ -258,7 +258,7 @@
 {1257}{}{Tan pronto como recupere el aliento (cof, cof), iré a por ti.}
 {1258}{}{Me has roto algo de dentro.}
 {1259}{}{No sabes lo que acabas de hacer.}
-{1260}{}{¡Ay, la pierna de Kaga!}
+{1260}{}{¡Ay, la pierna de Kaga!.}
 {1261}{}{¡No necesito estar de pie para matarte!}
 {1262}{}{¡Mi rodilla!}
 {1263}{}{¡Mi tendón de Aquiles!}
@@ -268,7 +268,7 @@
 {1267}{}{¿Me has roto la pierna? ¡Te haré pedazos!}
 {1268}{}{Dónde hay un torniquete cuando lo necesitas.}
 {1269}{}{Joder, me duele la pierna.}
-{1270}{}{¡Ay, la pierna de Kaga!}
+{1270}{}{¡Ay, la pierna de Kaga!.}
 {1271}{}{¡No necesito estar de pie para matarte!}
 {1272}{}{¡Mi rodilla!}
 {1273}{}{Eso me va a dejar una buena cojera por una temporada.}
@@ -310,7 +310,7 @@
 {1309}{}{Aún me quedan algunos dientes.}
 {1310}{}{¡Me has herido!}
 {1311}{}{Puedo acabar contigo con una sola mano.}
-{1312}{}{¡Me has roto la pierna, pero yo te romperé el cuello!}
+{1312}{}{¡Me has roto el brazo, pero yo te romperé el cuello!}
 {1313}{}{No vas a detenerme tan fácilmente.}
 {1314}{}{Sólo ha sido el brazo izquierdo.}
 {1315}{}{Aún puedo ocuparme de problemillas como el tuyo.}
@@ -1010,14 +1010,14 @@
 {2444}{}{¿Dónde está tu mamaíta ahora?}
 {2445}{}{¡Toma!}
 {2446}{}{Veamos lo duro que eres...}
-{2447}{}{Vagabundo}
+{2447}{}{¡Vagabundo!}
 {2448}{}{¡Colgado!}
 {2449}{}{Voy a acabar contigo.}
 {2460}{}{¿Tú mamá no te enseñó a hacer eso?}
 {2461}{}{¡Das pena!}
 {2462}{}{No eres muy bueno.}
 {2463}{}{Ese fue tu último error.}
-{2464}{}{Novatos.}
+{2464}{}{Novato.}
 {2465}{}{¿Aprendiste a pelear en un bar?}
 {2500}{}{¡Hay que salir de aquí!}
 {2501}{}{Kaga volverá...}
@@ -1161,7 +1161,7 @@
 {2923}{}{¡Este es mío!}
 {2924}{}{¡Ahhhhhhh!}
 {2925}{}{¡Atacad!}
-{2940}{}{Disfruta los últimos segundos de tu vida}
+{2940}{}{Disfruta los últimos segundos de tu vida.}
 {2941}{}{¡Sangre! ¡Sangre! ¡Sangre!}
 {2942}{}{¡Tu corazón es mío!}
 {2943}{}{¡RAAAAAAARRRR!!}
@@ -1996,7 +1996,7 @@
 {32665}{}{Se está haciendo tarde...}
 {32700}{}{¡Mi cara! ¡Mi cara!}
 {32701}{}{¡Padre Estelar! ¡Ayúdame!}
-{32702}{}{¡Ouch! Necesito algo para mi cabeza}
+{32702}{}{¡Ouch! Necesito algo para mi cabeza.}
 {32710}{}{¡Ay, mi brazo!}
 {32711}{}{¡Ay!}
 {32712}{}{¡Le has roto el brazo a Kaga!}
@@ -2004,7 +2004,7 @@
 {32721}{}{¡Wahhhh!}
 {32722}{}{¡Por Hub! ¡Mi brazo!}
 {32730}{}{¡Ay! ¡Eso ha dolido!}
-{32731}{}{Creo que voy a fallecer}
+{32731}{}{Creo que voy a fallecer.}
 {32732}{}{¡Ouch!}
 {32733}{}{¡Padre Estelar! ¡Ayúdame!}
 {32734}{}{¡Eso ha dolido!}
@@ -2323,7 +2323,7 @@
 {36639}{}{¡Te devolveré el mismo dolor!}
 {36640}{}{¡Oof!}
 {36641}{}{¡Ouch!}
-{36642}{}{Hmm, tienes problemas}
+{36642}{}{Hmm, tienes problemas.}
 {36643}{}{¡Grrr! Espera tu muerte.}
 {36644}{}{¡Podrás herirme, pero no me matarás!}
 {36645}{}{¡Ay! Herirme no fue una buena idea.}
