@@ -35,11 +35,8 @@
 {322}{}{A punto de entregar un mensaje importante a la base principal.}
 {323}{}{¿Oh? ¿Y qué decía ese rumor?}
 {324}{}{Lo siento. No puedo ayudarte.}
-{325}{}{I'll tell you, but it's absolutely essential that you don't disclose this information to anyone else, for fear of a
- mass panic. You see, it's come to my attention that one of the recent shipments of slaves is infected with an unknown, and
- highly deadly, virus strain. I *must* get to the base immediately, or all our lives could be lost. Now stop wasting my time,
- as there isn't a moment to spare.}
+{325}{}{Te lo diré, pero es absolutamente esencial que no reveles esta información a nadie más, por miedo a un pánico masivo. Verá, se me ha llamado la atención que uno de los envíos de esclavos recientes está infectado con una cepa de virus desconocida y altamente mortal. *Debo* llegar a la base inmediatamente, o todos nuestras vidas podrían pederse. Ahora deja de perder mi tiempo, no hay un momento de sobra.}
 {326}{}{Vaya, tenemos un intruso entre nosotros.}
 {327}{}{¡Maldición! Ah, lo que sea. Nunca me dicen cosas por aquí. Bueno. Este en tu camino.}
-{328}{}{Woah, that sounds bad. You better get moving then, I don't want this shit on my hands. Oh, and don't worry, I won't tell anyone.}
+{328}{}{Guau, eso suena mal. Será mejor que te muevas, no quiero esa mierda en mis manos. Eh, y no te preocupes, no se lo diré a nadie.}
 {329}{}{HECHO}

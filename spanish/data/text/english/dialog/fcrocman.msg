@@ -66,4 +66,4 @@
 {199}{}{¿Sabes qué necesitamos ahora? Combustible. A montones. Los Shi tienen. Ve a ver si puedes conseguirlo.}
 {200}{}{Recuerda que nos estás consiguiendo combustible para nuestra gran nave espacial.}
 {201}{}{Oh, de acuerdo. Adiós.}
-{300}{}{We had a breach in security and our fuel reserves have been depleted. I'm a little busy to talk right now.}
+{300}{}{Tuvimos una brecha en la seguridad y nuestros reservas de combustible se han agotado. Estoy un poco ocupado para hablar ahora mismo.}

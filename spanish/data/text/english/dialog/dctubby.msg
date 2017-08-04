@@ -32,10 +32,7 @@
 {179}{}{Adioooos.}
 {180}{}{Nadie, me temo. La Guarida es un lugar anárquico donde se aplican las teorías de la evolución darwinianas. Sólo los más fuertes, rápidos o inteligentes sobreviven. Estoy seguro de que hallarás tu lugar aquí.}
 {181}{}{Um, gracias.}
-{182}{}{OK. Drugs are the basis for this town's economic system, just as another 
-town may use grain or gold. Redding is another prime example of a town fueled by drugs.
- Damn miners are too high all the time to get any real work done. I have never been there myself,
- but it is a couple days south-east of here if you want to check it out.}
+{182}{}{Vale. Las drogas son la base del sistema económico de esta ciudad, al igual una otra ciudad puede usar grano o oro. Redding es un otro ejemplo de cuidad alimentada por drogas. Malditos mineros están demasiado drogado todo el tiempo para hacer cualquier trabajo real. Nunca he estado allí, pero es un par de días al sureste de aquí si quieres verlo.}
 {183}{}{Gracias.}
 {184}{}{He oído hablar de un lugar llamado Ciudad Refugio. Desgraciadamente, no puedo indicarte la dirección hasta allí. Verás, muy poca de la gente del pueblo puede costearse los tratamientos médicos que ofrecen, así que la mayoría nunca ha ido allí.}
 {185}{}{De acuerdo. Gracias.}

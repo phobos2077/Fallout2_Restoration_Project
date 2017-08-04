@@ -54,7 +54,7 @@
 {153}{}{-atacas ya, con armadura y armas-}
 {154}{}{-entras en el cuadrilátero, dejas a un lado armadura y armas, y luchas mano a mano-}
 {155}{}{Ah, un guerrero. Te enfrentaré a mis hombres para ver cómo te portas. Empecemos.}
-{156}{}{[BEGIN]}
+{156}{}{[COMENZAR]}
 {157}{}{Sin embargo, en un entorno de combate formalizado, no puedes negar que has entrado en esta arena por tu propia elección. Una vez has entrado así, ¿no deberías acatar sus reglas?}
 {158}{}{Sí, probablemente. Pero en una situación de vida o muerte, debes hacer cualquier cosa por sobrevivir.}
 {159}{}{No, creo que no.}

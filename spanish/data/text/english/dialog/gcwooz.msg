@@ -250,20 +250,20 @@ que no tengas sentido del humor.}
 {713}{}{¿Dónde está la horda de enanas?}
 {714}{}{¡¿Alguna vez has visto a un madurito EN PELOTAS?!}
 {715}{}{Gracias, pero no, quizá más tarde. Aunque me gustaría hacerte unas preguntas.}
-{716}{}{Hmmm...Say, maybe you should call it a day and put those Tragic cards away. I think you have played enough for today.}
-{717}{}{NEVER! BRING FORTH THE GARNERING!}
-{718}{}{MOOAHAHAHAH!!! I AM VICTORIOUS!}
-{719}{}{NOO!! HOW COULD I HAVE LOST!?  Ahhhgghhhgh.}
-{720}{}{Yeah...just can't seem to stop. Just one more game...}
-{721}{}{Yeah, Gamma Gulp Beer. You deaf or something?}
+{716}{}{Hmmm... Tal vez deberías llamarlo un día poner esas cardas Tragic lejos. Creo que has jugado bastante por hoy.}
+{717}{}{¡NUNCA! ¡TRAIGA EL CATERING!}
+{718}{}{¡¡¡MOOAJAJAJA!!! ¡ESTOY VICTORIOSO!}
+{719}{}{¡¡NOO!! ¡¿CÓMO PODÍA HABER PERDIDO?! Ahhhgghhhgh.}
+{720}{}{Sí... parece que no puedo parar. Sólo un juego más...}
+{721}{}{Sí, Cerveza Tragos Gamma. ¿Sordo o algo?}
 {722}{}{¡¡¡Enema caliente a punto de llegar!!}
 {723}{}{De acuerdo. ¿Algo más?}
-{724}{}{Special occasion, huh? Well lah-de-dah, aren't we special today. One Roetgen coming right up then.}
+{724}{}{Ocasión especial, ¿eh? Bien lah-de-dah, estamos muy especiales hoy. Un Roentgen viniendo ahora mismo entonces.}
 {725}{}{No, gracias.}
 {726}{}{Dime, ¿qué más tienes a la venta?}
 {727}{}{Me llevaré uno.}
 {728}{}{Me lo imaginaba. Déjame hacerte otra pregunta.}
 {729}{}{Creo que debo irme ahora.}
-{730}{}{You have become addicted to the game of Tragic. Many sleepless nights await you.}
+{730}{}{Te has convertido en adicto al juego de Trágico. Muchas noches sin dormir te esperan.}
 {731}{}{De acuerdo. ¿Algo más?}
 {732}{}{Tenía otra pregunta que hacerte.}

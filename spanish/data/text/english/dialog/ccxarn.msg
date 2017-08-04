@@ -114,5 +114,5 @@
 {800}{}{Has matado a Xarn.}
 {810}{}{Has liberado a Xarn.}
 {820}{}{Xarn se te ha unido.}
-{900}{}{No. Estoy aquí para rescatar a ti. De verdad.}
-{901}{}{Look, I really am here to rescue you! I already unlocked the other door. You are free to leave.}
+{900}{}{No. Estoy aquí para rescatar a ti. De verdad. Ya abrir puerta para ir. Ir.}
+{901}{}{Mira, estoy aquí para rescatarte, ¡de verdad! Ya abrí la otra puerta. Estás libre de irse.}

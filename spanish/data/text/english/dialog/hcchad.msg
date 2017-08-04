@@ -26,7 +26,7 @@
 {142}{}{Tengo más preguntas.}
 {143}{}{Adiós.}
 {144}{}{¿Como qué?}
-{145}{}{He suspects, that you are skimming the money that's supposed to go Broken Hills.}
+{145}{}{Él sospecha que está rociando el dinero que se supone que va a Broken Hills.}
 {146}{}{Nada. Adiós.}
 {147}{}{Look, I don't like people to accuse me about something that I don't know anything about. I suggest that you leave.}
 {150}{}{No me retiraré a vivir aquí.}

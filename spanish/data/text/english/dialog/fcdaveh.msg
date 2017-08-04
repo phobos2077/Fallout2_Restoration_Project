@@ -103,4 +103,4 @@ Oh, bueno.
 {198}{}{No, supongo que no.}
 {199}{}{Lo siento, su sistema lleva sin responder desde hace un tiempo. No hay forma de que pueda entrar en él.}
 {200}{}{Voy a progresar con Vikki... umm... pronto. ¿Puedo ayudarte?}
-{201}{}{Their system hasn't been responding for a while. Looks like someone formatted their databases. Like what I'll be doing here once I'm done with you. Anything else?}
+{201}{}{Su sistema no ha estado respondiendo por un tiempo. Parece que alguien formateó sus basas de datos. Como lo que haré aquí después lo hice contigo. ¿Algo más?}

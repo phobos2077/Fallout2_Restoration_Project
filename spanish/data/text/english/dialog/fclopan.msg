@@ -46,7 +46,7 @@
 {145}{}{Sí. Hago esto por los Shi.}
 {146}{}{No. Hago esto porque creo que eres escoria.}
 {147}{}{Un tipo duro, ¿eh? Primero lucharás con mis hombres, y entonces veremos si mereces pelear conmigo.}
-{148}{}{[BEGIN]}
+{148}{}{[COMENZAR]}
 {149}{}{Soy Lo Pan. También soy el enemigo acérrimo del Dragón. El por qué insiste en tener un enemigo acérrimo se me escapa. Lucho tan bien como él, y creo que es débil de corazón y permite a otros vivir bajo su sombra. Somos enemigos porque tenemos el mismo estilo de lucha, y aquel que venza será quien prosiga la tradición.}
 {150}{}{A mí no se me da mal el combate mano a mano. ¿Quieres darme una oportunidad?}
 {151}{}{Eso es interesante. Debe de ser gratificante. Tengo más preguntas.}

@@ -100,7 +100,7 @@
 {512}{}{Sí, si quieres hablar conmigo, estaré en 'El Agujero'.}
 {513}{}{¿Qué tal si nos encontramos en 'El Agujero' y te invito a una copa?}
 {520}{}{Lo siento, tengo prisa por volver a casa. Tengo algo de porno nuevo.}
-{521}{}{I'm uhhh, tired, please let me go home and uhhh, sleep...}
+{521}{}{Estoy uhhh, cansado, por favor, déjame ir a casa y uhhh, dormir...}
 {522}{}{Me voy a ir a la tienda de Dave. ¡Tiene una sección entera de porno!}
 {530}{}{Uhhh, no, gracias. No tengo suficiente dinero para malgastarlo en eso otra vez.}
 {540}{}{De acuerdo, probaré tu culo de nuevo.}

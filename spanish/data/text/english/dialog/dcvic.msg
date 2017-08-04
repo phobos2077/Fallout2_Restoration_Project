@@ -265,6 +265,6 @@
 {4707}{}{Gracias, Jefe.}
 {4708}{}{No está mal.}
 {5000}{}{Estoy cansado de esto. Volveremos a hablar más tarde.}
-{5500}{}{I feel like I broke a limb, Boss. You better have a look.}
-{5501}{}{I feel like I am burning up, Boss. You better have a look.}
-{5502}{}{I feel like I have been poisoned, Boss. You better have a look.}
+{5500}{}{Siento que me rompí una extremidad, Jefe. Será mejor que eche un vistazo.}
+{5501}{}{Siento que estoy ardiendo, Jefe. Será mejor que eche un vistazo.}
+{5502}{}{Siento que he sido envenenado, Jefe. Será mejor que eche un vistazo.}

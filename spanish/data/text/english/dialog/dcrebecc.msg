@@ -83,7 +83,7 @@
 {341}{}{Gracias. ¿Puedo hacerte otra pregunta?}
 {342}{}{Vale, gracias.}
 {343}{}{Gra-cia a ti.}
-{344}{}{Asky?}
+{344}{}{¿Preguntar-y?}
 {350}{}{Lo siento. Creo que no.}
 {351}{}{Fred me debe 200 dólares. Si puedes conseguir de algún modo que me pague, te daré algo por las molestias.}
 {352}{}{Todavía está esa deuda que necesita ser cobrada.}

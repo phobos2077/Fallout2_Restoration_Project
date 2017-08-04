@@ -53,5 +53,5 @@
 {152}{}{¿Cómo pilotas este petrolero? Bueno, ya veo que lo has repostado. Cuando te hayas encargado de todo lo demás, simplemente presiona el botón. La computadora se encargará del resto, si aún funciona. Navegará directamente hasta la plataforma petrolífera, y no te dispararán porque llevas el transpondedor IAE. Tan sólo asegúrate de que tienes todo lo que necesitas: FOB, una computadora funcional, y combustible. Bastante fácil, ¿eh?}
 {153}{}{Oh, sí. También tienes que conseguir un circuito CompNav funcional. Apuesto a que encontrarás ese tipo de pieza en uno de esos viejos Refugios.}
 {154}{}{Me alegra verte de nuevo. ¿Qué necesitas?}
-{155}{}{, and unless I miss my bet, that's where your friends are, too.}
+{155}{}{, y a menos que pierda mi apuesta, que es donde están tus amigos, también.}
 {156}{}{.}

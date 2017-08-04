@@ -197,7 +197,7 @@
 {400}{}{Parece faltar una pieza.}
 {410}{}{Eso no hizo nada.}
 {420}{}{Eso no encaja.}
-{800}{}{Has arreglado a K9.}
+{800}{}{Has arreglado a K-9.}
 {1000}{}{¿Sí, amo?}
 {1100}{}{Todos los sistemas funcionando a capacidad total, amo.}
 {1200}{}{Mis sistemas funcionan a capacidad casi total, amo.}

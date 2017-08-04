@@ -1,3 +1,3 @@
 {100}{}{Ves al camarero de la fiesta.}
-{101}{}{You could be wrong, but as you look down the well, you feel heat emanating from the darkness.}
-{102}{}{You take a big gulp of the well water. It's unusually warm.}
+{101}{}{Podrías estar equivocado, pero al mirar hacia abajo en el pozo, siento el calor emanando de la oscuridad.}
+{102}{}{Tomas un gran trago de agua del pozo. Es excepcionalmente caliente.}

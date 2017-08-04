@@ -11,5 +11,5 @@
 {207}{}{Llévate lo que quieras.}
 {208}{}{Por favor, no me mates.}
 {209}{}{De todos modos odiaba la agricultura.}
-{210}{}{Please, don't burn the house down.}
+{210}{}{Por favor, no quemes la casa.}
 {220}{}{No me molestes.}

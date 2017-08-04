@@ -1,4 +1,4 @@
-{100}{}{Ves a un boxeador.}
+{100}{}{Ves una roca.}
 {101}{}{Ves un conducto de ventilación camuflado.}
 {102}{}{No ves nada fuera de lo normal.}
 {110}{}{Eso no hizo nada.}

@@ -18,7 +18,7 @@
 {117}{}{¡Ahhh tioooo! ¡No tienes zuficiente pasta! Vuelve cuando tengas pa pagarme.}
 {118}{}{[Fin]}
 {119}{}{Tiene una mirada un poco amenazadora.}
-{120}{}{Ves a un bandido.}
+{120}{}{Ves a un adicto.}
 {121}{}{Parece un poco nervioso.}
 {122}{}{¿Quecoñoquieres? ¡Tengodetodo!}
 {123}{}{Mentats [560 dólares]}
@@ -65,4 +65,4 @@
 {203}{}{¡Esto no es guay!}
 {204}{}{Cálmate, colega.}
 {205}{}{¡Relájate, hombre!}
-{210}{}{It seems she's been sampling some of her own merchandise.}
+{210}{}{Parece que ha estado probando algo de su propia mercancía.}

@@ -58,8 +58,7 @@
 {300}{}{Nuestra central nuclear sigue siendo apenas operativa. Me imagino que aún no has llevado la información a Ciudad Refugio.}
 {301}{}{No creo que en Ciudad Refugio sean muy receptivos ante datos de los necrófagos.}
 {302}{}{No, aún no lo he hecho... pero lo haré. Adiós.}
-{303}{}{Delivering that data to Vault City is only one of the many steps you need to take. Our atomic power
- plant is still barely operational and needs to be fixed.}
+{303}{}{Entregar esos datos a Cuidad Refugio es sólo uno de los muchos pasos que necesitas realizar. Nuestra planta de energía atómica esta apenas operativa y necesita ser arreglada.}
 {304}{}{Me pondré a ello ahora mismo, sheriff. Adiós.}
 {305}{}{Quizá en algún otro momento.}
 {310}{}{Gracias por reparar nuestra central nuclear. El plan del viejo Gordon de Gecko está yendo de maravilla. La codicia es una cosa maravillosa. Deberías estar orgulloso de formar parte de esto.}

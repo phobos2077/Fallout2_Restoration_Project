@@ -207,7 +207,7 @@
  progreso con él.}
 {671}{}{Vuelve más tarde. Estoy en comunión con un poder más elevado, o algo así (shhh).}
 {700}{}{No tengo nada más que decirte.}
-{701}{}{It appears that Gordon has already given you this Economic Data Disk that I speak of. Take it to Vault City immediately.}
+{701}{}{Parece que Gordon ya te ha dado este Disco de Data de Económico del que hablo. Llévelo inmediatamente a Cuidad Refugio.}
 {702}{}{Estoy en ello.}
 {703}{}{Quizá más tarde.}
 {4211}{}{Eh, supongo que será mejor que me ponga en marcha por lo de la central. Adiós.}

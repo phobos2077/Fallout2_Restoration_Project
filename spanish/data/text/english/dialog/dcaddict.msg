@@ -1,4 +1,4 @@
-{100}{}{Ves a un bandido.}
+{100}{}{Ves a un adicto.}
 {101}{}{Esta persona está muy drogada.}
 {102}{}{Parece que está totalmente colocado.}
 {103}{}{Parece que está totalmente colocada.}
@@ -84,7 +84,7 @@
 {366}{}{¡Oye! ¡Aléjate de mí! Oh…}
 {367}{}{¡No hagas eso!}
 {368}{}{No puedo ver... otra vez.}
-{369}{}{Need...}
+{369}{}{Necesito...}
 {370}{}{Dame más...}
 {371}{}{¿Allí? No.}
 {372}{}{No. No puedo encontrarlo.}

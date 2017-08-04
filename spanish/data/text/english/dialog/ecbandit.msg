@@ -7,7 +7,7 @@
 {201}{}{La bolsa o la vida.}
 {202}{}{Esto es un atraco.}
 {203}{}{Dame todos tus objetos de valor.}
-{204}{}{Don't move! This is a holdup.}
+{204}{}{¡No te muevas! Esto es un atraco.}
 {205}{}{Arriba las manos.}
 {206}{}{Manos arriba.}
 {207}{}{No te pongas nervioso; esto habrá acabado en un minuto.}
