@@ -715,7 +715,7 @@
 {815}{}{Map Script}
 {816}{}{Rata Vorpal}
 {817}{}{Perro}
-{818}{}{Sargento instructor}
+{818}{}{Sargento de instrucción}
 {819}{}{Guardia}
 {820}{}{Técnico}
 {821}{}{Comandante}

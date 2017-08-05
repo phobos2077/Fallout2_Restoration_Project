@@ -52,4 +52,4 @@
 {201}{}{...si, será MEJOR que huyas...}
 {202}{}{...qué lameculos...}
 {203}{}{...¡sí, señor! ¡puto señor!...}
-{300}{}{Sigue avanzando.}
+{300}{}{Sigue avanzando, soldado.}

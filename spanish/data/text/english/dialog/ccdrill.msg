@@ -1,6 +1,6 @@
-{100}{}{Ves a una enorme hormiga.}
-{101}{}{Ves al sargento Granite.}
-{102}{}{Ves a un guardia que porta una servoarmadura de un diseño inusual. Lleva una insignia en el peto con la que no estás familiarizado.}
+{100}{}{Ves al sargento de instrucción.}
+{101}{}{Ves al sargento Dornan.}
+{102}{}{Ves a un hombre que porta una servoarmadura de un diseño inusual. Lleva una insignia en el peto con la que no estás familiarizado.}
 {103}{sgnt1a}{Bienvenido a la Base Navarro... ¡un civil! ¿Cómo coño un civil ha entrado en la base? ¡Le voy a romper el culo a alguien! Echad a este civil fuera de propiedad gubernamental.}
 {104}{sgnt1b}{Bienvenidos a la Base Navarro... ¡civiles! ¿Cómo coño unos civiles han entrado en la base? ¡Le voy a romper el culo a alguien! Echadlos fuera de una propiedad gubernamental.}
 {105}{}{Espera. Yo...}

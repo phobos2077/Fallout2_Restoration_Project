@@ -22,15 +22,15 @@
 {203}{}{...¡sí, señor! ¡puto señor!...}
 {300}{}{Espere. ¿Qué crees que estás haciendo con eso avión? No hay vuelos programados por varios días.}
 {301}{}{¿Nrg?}
-{302}{}{No quiero tomar parte en esto.}
-{303}{}{No, sólo pasaba por aquí. Ya me marcho.}
+{302}{}{Soy consciente de esto.}
+{303}{}{Lo siento. Sólo estaba mirando. Ya me marcho.}
 {304}{}{Ha habido un cambio de planes. Estoy tomando este avión.}
 {310}{}{¿Qué? Oh, ya veo. Mira, no lo toques. ¿Vale? Toques un otra vez y mueres.}
-{311}{}{(Sonríes con calma, asientes, y luego le atacas).}
+{311}{}{(Sonríes, y luego le atacas).}
 {312}{}{(Te vas).}
 {315}{}{Oh mierda, parece que tenemos un intruso. ¡Código Rojo! ¡Repito, código Rojo!}
 {316}{}{Eso suena como un buena idea. Toques el avión de nuevo y pondré una bala en tu cabeza.}
-{320}{}{Aún puedo oír donde estás.}
+{320}{}{Cierto. Y por lo tanto eres...}
 {321}{}{Aún no. Siento molestarte.}
 {322}{}{A punto de entregar un mensaje importante a la base principal.}
 {323}{}{¿Oh? ¿Y qué decía ese rumor?}

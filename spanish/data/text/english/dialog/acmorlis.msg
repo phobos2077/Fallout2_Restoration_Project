@@ -41,9 +41,9 @@
 {214}{}{Si, tía Morlis.}
 {215}{}{¡Entonces vete de aquí y encuéntralo! ¡Nuestra gente depende de ti!}
 {216}{}{Si, tía Morlis.}
-{300}{}{Aquí está el pedernal. ¡Ahora lárgate! No tengo tiempo para estar de cháchara.}
+{300}{}{Bien, parece que he extraviado el pedernal. Oh bien, al menos tengo mis polvos. ¡Ahora lárgate! No tengo tiempo para estar de cháchara.}
 {301}{}{¿Por qué me molestas, sobrina? ¿No ves que estoy ocupada?}
 {302}{}{Bien, no puedo encontrar la pedernal. Pero estoy seguro de que me la quitaste cuando no estaba mirando. Te cogí antes. ¡Ahora fuera con usted! No tengo tiempo para chismear.}
-{303}{}{Bien... Oh, bien. Aquí está el pedernal. Te deseo un buen viaje, hijo.}
-{304}{}{No, no lo creo. Ahora deja de hacerme perder el tiempo y ¡lárgate de aquí!}
-{305}{}{Aquí está el pedernal. ¡Ahora lárgate! No tengo tiempo para estar de cháchara.}
+{303}{}{Bien... Oh, lo siento, pero parece que he extraviado el pedernal. Sin embargo te deseo un buen viaje, hijo.}
+{304}{}{Ya te di el pedernal, estúpido. Ahora deja de hacerme perder el tiempo y ¡lárgate de aquí!}
+{305}{}{Ya te di el pedernal, estúpido. Oh bien, al menos tengo mis polvos. ¡Ahora lárgate! No tengo tiempo para estar de cháchara.}
