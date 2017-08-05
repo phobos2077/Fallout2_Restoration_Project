@@ -35,7 +35,7 @@
 {133}{}{Gracias por la revista, chico. Vuelve en una hora, más o menos.}
 {134}{}{¡De acuerdo!}
 {135}{}{¡Aún no he terminado, chico! ¡Cristo! ¿No puede tener un viejo necrófago un poco de intimidad?}
-{136}{}{HECHO}
+{136}{}{[HECHO]}
 {137}{}{¿Qué clase de tesoro? Dinero, chico, montones y montones de dinero. Lo bastante como para satisfacer a cualquier persona sana.}
 {138}{}{¿Cuál es el truco?}
 {139}{}{No necesito dinero.}
@@ -72,7 +72,7 @@
 {170}{}{Aún no. Tenía otras preguntas.}
 {171}{}{No.}
 {172}{}{¡Bueno, pues date prisa! Soy un viejo necrófago y, cómo quieres que te lo diga, necesito relajarme! ¡Ahora vete, vete, vete!}
-{173}{}{HECHO}
+{173}{}{[HECHO]}
 {174}{}{Muchacho, esa revista ha revitalizado la sangre de mis venas, y supongo que por la clase de tesoro que estamos hablando, puedes conseguirme un par más de cosillas. Tráeme una muñeca hinchable. Seguramente encuentres alguna en Nuevo Reno.}
 {175}{}{¡V-vale! ¡Adiós!}
 {176}{}{¡Oh-no!}
@@ -82,9 +82,9 @@
 {180}{}{Olvídalo.}
 {181}{}{La tengo justo aquí. [le das la muñeca hinchable a Typhon]}
 {182}{}{Esto, chico, es dar justo en el clavo. Dame unas horas, y volveremos a hablar. A ello, pues. [mira la muñeca lujuriosamente]}
-{183}{}{HECHO}
+{183}{}{[HECHO]}
 {184}{}{¿No puede tener uno un poco de intimidad! ¡Fuera! Largo! ¡Desaparece!}
-{185}{}{HECHO}
+{185}{}{[HECHO]}
 {186}{}{Ahora mismo estoy rendido. Ve a buscarme algo de aguardiente y hablaremos del tesoro. Phil, el camarero, debería poder conseguírtelo.}
 {187}{}{¡B-bueno! ¡Adiós!}
 {188}{}{¡No!}

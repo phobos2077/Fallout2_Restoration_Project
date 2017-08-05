@@ -28,7 +28,7 @@
 {127}{}{Agradezco yo.}
 {128}{}{Gracias.}
 {129}{}{El señor Westin no 'charla' simplemente con cualquiera que camina por la calle. Si no tienes un tema específico que tratar con él, te sugiero que te vayas hasta que lo tengas. Ahora, por favor vete.}
-{130}{}{HECHO}
+{130}{}{[HECHO]}
 {131}{}{(suspiro) He oído que el señor Westin tiene debilidad por gente como tú. Entra.}
 {132}{}{Agradezco a tú.}
 {133}{}{Que sí, que sí. Estoy en la mitad de algo.}

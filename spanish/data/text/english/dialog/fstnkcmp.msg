@@ -2,7 +2,7 @@
 {101}{}{Ves una computadora PoseidoNet.}
 {102}{}{Ves una computadora PoseidoNet.}
 {103}{}{::bip:: Mal funcionamiento del terminal. Se necesita instalación de CompNav. ::bip::}
-{104}{}{HECHO}
+{104}{}{[HECHO]}
 {105}{}{Bienvenido a PoseidoNet. Este terminal está limitado a la transmisión entre un petrolero -PMV Valdez- y el muelle. ¿Orden?}
 {106}{}{Adelante.}
 {107}{}{Comprobar estado.}
@@ -19,5 +19,5 @@
 {118}{}{-Depósitos de combustible: Llenos- -Bodega de carga: Vacía- -Computadora de navegación: Funcional- -Amarras: Acopladas-}
 {119}{}{Ves una computadora de navegación PoseidoNet.}
 {129}{}{[Activas la secuencia de liberación rápidamente, y los cohetes del barco se alejan del embarcadero].}
-{130}{}{HECHO}
+{130}{}{[HECHO]}
 {131}{}{Computadora de navegación activa.}

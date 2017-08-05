@@ -5,5 +5,5 @@
 {104}{}{Claro.}
 {105}{}{No, gracias.}
 {106}{}{Esto nos llevará un rato.}
-{107}{}{Ya has aprendido todo lo que sé sobre lanzas.}
+{107}{}{Bueno, has aprendido lo que sé sobre lanzas.}
 {108}{}{Gracias Jordan, esto me ayudará mucho.}

@@ -9,7 +9,7 @@
 {108}{}{Nada. Ya me voy.}
 {109}{}{No puedes estar aquí si eres un imbécil. Márchate corriendo, antes de que llame a los guardias.}
 {110}{}{Realmente no me entiendes, ¿verdad? Tal vez entenderás a la guardia. ¡Guardias! ¡Un intruso!}
-{111}{}{HECHO}
+{111}{}{[HECHO]}
 {112}{}{Soy Jing Tie Gahng. Estoy a cargo del laboratorio químico del Palacio de Acero... y tú estás interrumpiendo un trabajo importante. Por favor, márchate. AHORA... antes de que llame a los guardias.}
 {113}{}{Pues llámalos, anciano.}
 {114}{}{Está bien, está bien. Me marcho.}
@@ -40,9 +40,9 @@
 {139}{}{Eso será imposible. Nuestro suministro de combustible ya se ha desvanecido. Incluso si quisiera ayudar a los Hubologistas, que no quiero, no lo haría. Buenos días.}
 {140}{}{Vale. Adiós.}
 {141}{}{Bien. Entonces deja que vuelva a lo que estoy haciendo.}
-{142}{}{HECHO}
+{142}{}{[HECHO]}
 {143}{}{¿No puedes hacerlo? Entonces no puedo venderte el combustible. Y ahora lárgate. Estoy ocupado.}
-{144}{}{HECHO}
+{144}{}{[HECHO]}
 {145}{}{¿Has mejorado la servoarmadura? ¡Excelente! ¿Cómo quieres que te pague?}
 {146}{}{Canaliza combustible a los Hubologistas a cambio de esto.}
 {147}{}{Canaliza combustible al petrolero Poseidon.}

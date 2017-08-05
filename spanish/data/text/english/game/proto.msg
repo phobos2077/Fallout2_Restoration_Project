@@ -145,7 +145,7 @@
 {624}{}{Por salir vencedor en combate,}
 {625}{}{Por aplastar a tus enemigos,}
 {626}{}{Por destruir a tus enemigos sin sufrir un rasguño,}
-{650}{}{HECHO}
+{650}{}{[HECHO]}
 {651}{}{[MÁS]}
 {652}{}{Más}
 {653}{}{VOLVER}

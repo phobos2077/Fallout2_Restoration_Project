@@ -39,4 +39,4 @@
 {326}{}{Vaya, tenemos un intruso entre nosotros.}
 {327}{}{¡Maldición! Ah, lo que sea. Nunca me dicen cosas por aquí. Bueno. Este en tu camino.}
 {328}{}{Guau, eso suena mal. Será mejor que te muevas, no quiero esa mierda en mis manos. Eh, y no te preocupes, no se lo diré a nadie.}
-{329}{}{HECHO}
+{329}{}{[HECHO]}

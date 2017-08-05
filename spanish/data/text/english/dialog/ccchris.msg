@@ -40,7 +40,7 @@
 {139}{}{¿Qué crees que estás haciendo?}
 {140}{}{Eh, me largo de aquí.}
 {141}{}{(hablando por la radio) ¡Alerta! ¡Tenemos a un intruso en la estación! ¡Alerta!}
-{142}{}{HECHO}
+{142}{}{[HECHO]}
 {143}{}{Bien, me alegro de haber hablado contigo. Un par de consejos: no hay nada por aquí excepto el Yermo y la radiación. La civilización está al sur. Yo marcharía hacia allí si fuera tú.}
 {144}{}{Gracias.}
 {145}{}{¿Pájaros de metal? Oh, debes hablar de los vertibird. ¿Por qué preguntas por ellos aquí?}
@@ -108,7 +108,7 @@
 {207}{}{Uh... ¿escolta?}
 {208}{}{¡Contraté una escolta!}
 {209}{}{Bueno, no quiero ser grosero ni nada, pero esto es propiedad privada. Si vas a estar dando vueltas, no lo hagas por aquí.}
-{210}{}{HECHO}
+{210}{}{[HECHO]}
 {211}{}{Has vuelto. ¿Qué puede hacer el viejo Chris por ti?}
 {212}{}{Tú dices que Navarro al sur. ¡Mentira! Ahora dices verdad a yo.}
 {213}{}{Me dijiste que Navarro estaba al sur, viejo. ¡Mentiste! Ahora quiero saber la verdad.}

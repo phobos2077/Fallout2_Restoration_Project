@@ -66,8 +66,8 @@
 {169}{}{Ninguna, sólo venía a saludar.}
 {170}{}{Aquí está. Está muerto, está cocido, está irreconocible. Disfruta.}
 {171}{}{Eh... Gracias.}
-{172}{}{Hijo, puedo decirte por el olor que no estás llevando una de esas servoarmaduras. Como el sargento te pille estás jodido. Y no hablo de la jodienda que da gustito. Ve cagando leches a intendencia y vístete.}
-{173}{}{Señorita, puedo decirte por el olor que no llevas una de esas servoarmaduras. Si el sargento te pilla estás jodida. Y no hablo de ese tipo de jodienda. Ve cagando leches a intendencia y vístete.}
+{172}{}{Hijo, puedo decirte por el olor que no estás llevando una de esas servoarmaduras. Como el Sargento te pille estás jodido. Y no hablo de la jodienda que da gustito. Ve cagando leches a intendencia y vístete.}
+{173}{}{Señorita, puedo decirte por el olor que no llevas una de esas servoarmaduras. Si el Sargento te pilla estás jodida. Y no hablo de ese tipo de jodienda. Ve cagando leches a intendencia y vístete.}
 {174}{}{¿Dónde?}
 {175}{}{De acuerdo.}
 {176}{}{¿Dónde?}

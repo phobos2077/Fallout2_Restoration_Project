@@ -2,7 +2,7 @@
 {101}{}{Ves al capitán A. Ron Meyers.}
 {102}{}{Ves a un vagabundo con ropas harapientas que lleva una gorra de capitán.}
 {103}{}{¿Qué demonios quieres? No hablo con nadie a menos que sea amigo o buena gente. Haz algo por uno de mis colegas y entonces ven a hablar conmigo.}
-{104}{}{HECHO}
+{104}{}{[HECHO]}
 {105}{}{He oído lo que hiciste por mis hombres. Gracias. ¿En qué puedo ayudarte?}
 {106}{}{¿Quién?}
 {107}{}{He oído que eres quien lo sabe todo sobre este barco.}
@@ -10,7 +10,7 @@
 {109}{}{¿Cómo haces que esta cosa se mueva?}
 {110}{}{Nada.}
 {111}{}{Soy el capitán. Dirijo el barco. Para más preguntas, ve a hablar con uno de los Shi o con Badger o con quien sea. No tengo tiempo para ti.}
-{112}{}{HECHO}
+{112}{}{[HECHO]}
 {113}{}{Este barco es un petrolero Poseidon. Está equipado con tecnología que sobrevivió a la guerra. Tiene un FOB que permite el acceso a la sala de la computadora de navegación, y también un transpondedor IAE que lo protege de las armas Poseidon.}
 {114}{}{¿Cómo sabes todo esto?}
 {115}{}{¿Qué es un transpondedor IAE?}

@@ -100,7 +100,7 @@
 {199}{}{Marcus: Eso no tiene futuro. Lo haréis bien sin mí.}
 {200}{}{[MÁS]}
 {201}{}{Amigo, no te queremos aquí. Ya has hecho suficiente daño.}
-{202}{}{HECHO}
+{202}{}{[HECHO]}
 {300}{}{Normalmente, puedes encontrar a Marcus cerca del banco –que también sirve como una buena prisión– o en la misma prisión. A veces está en la taberna o en casa, pero normalmente está trabajando.}
 {301}{}{¡Alborotador!}
 {302}{}{¡Maldición!}

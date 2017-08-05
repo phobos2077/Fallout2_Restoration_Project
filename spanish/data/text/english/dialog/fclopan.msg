@@ -15,7 +15,7 @@
 {114}{}{¡Enséñame!}
 {115}{}{G-gracias.}
 {116}{}{¿Quieres aprender? ¿Tienes lo que hay que tener? Veamos.}
-{117}{}{HECHO}
+{117}{}{[HECHO]}
 {118}{}{¿Enseñarte? No lo creo. Pareces demasiado mojigato. Lárgate de aquí.}
 {119}{}{¿Pero qu... ?}
 {120}{}{Oh, mira, el idiota. No quiero hablar contigo. Vete.}
@@ -25,7 +25,7 @@
 {124}{}{¿Qué, eres malvado?}
 {125}{}{Ya veo. Tengo más preguntas.}
 {126}{}{¿Malvado? No lo creo. Sólo inteligente. Quizá si estás tan preocupado por hacer lo correcto para la gente, deberías ver al Dragón. Le gustan los simplones débiles como tú.}
-{127}{}{HECHO}
+{127}{}{[HECHO]}
 {128}{}{Sí, debería. Y lo hago. Desafortunadamente, el Dragón se interpone en mi camino. Estamos demasiado igualados en nuestra lucha uno contra otro. Necesito a una persona entrenada que me ayude.}
 {129}{}{Yo soy esa persona.}
 {130}{}{Ya veo. Bueno, tengo más preguntas.}
@@ -52,7 +52,7 @@
 {151}{}{Eso es interesante. Debe de ser gratificante. Tengo más preguntas.}
 {152}{}{Gracias. Adiós.}
 {153}{}{Puede que sea un cabrón, pero nunca se podrá decir que no defiendo a mi gente. Voy a hacerte daño antes de matarte.}
-{154}{}{HECHO}
+{154}{}{[HECHO]}
 {155}{}{Entonces eres un tonto y un perro que recibe órdenes de otros. Reiré cuando mueras.}
 {156}{}{-atacas ya, con armadura y armas-}
 {157}{}{-entras en el cuadrilátero, dejas a un lado armadura y armas, y luchas mano a mano-}
@@ -60,9 +60,9 @@
 {159}{}{-atacas ya, con armadura y armas-}
 {160}{}{-entras en el cuadrilátero, dejas a un lado armadura y armas, y luchas mano a mano-}
 {161}{}{¡Beee, oveja, beee! Vuelve con tus amos. No tengo nada que decirte.}
-{162}{}{HECHO}
+{162}{}{[HECHO]}
 {163}{}{¿No te dije que hablaras con el Dragón sobre tus escrúpulos morales? Él te acogerá. Yo no. Ahora, vete.}
-{164}{}{HECHO}
+{164}{}{[HECHO]}
 {165}{}{Eres, debo admitirlo, incluso mejor luchador que yo. ¿Quieres probar con el Dragón?}
 {166}{}{Sí. Iré ahora mismo.}
 {167}{}{En realidad no es mi lucha.}

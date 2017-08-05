@@ -92,7 +92,7 @@
 {191}{}{¡Vamos!}
 {192}{}{Espera, he cambiado de opinión.}
 {193}{}{Demasiado tarde, trozo de carne. Has demostrado que no eres de confianza. ¡Muere!}
-{194}{}{HECHO}
+{194}{}{[HECHO]}
 {195}{}{Hijo, hay algunas cosas que no estás destinado a conocer por ahora [sonríe beatíficamente].}
 {196}{}{Bien. Tengo más preguntas.}
 {197}{}{Hm. Adiós.}

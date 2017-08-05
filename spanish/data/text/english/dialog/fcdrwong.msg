@@ -57,7 +57,7 @@
  Espera... ¿qué estás diciendo? ¿Estás diciendo que...?}
 {156}{}{Sí, es un bazo humano.}
 {157}{}{En realidad, me opondría a eso. No has demostrado tener buen carácter. De hecho, no sé por qué estoy hablando contigo. Buenos días.}
-{158}{}{HECHO}
+{158}{}{[HECHO]}
 {159}{}{¡Aaah! ¡Guardias! ¡El lao wai intruso está aquí!}
 {160}{}{¿Tienes ciertos esquemas que darme?}
 {161}{}{Ken Lee me dijo que te entregase esto.}

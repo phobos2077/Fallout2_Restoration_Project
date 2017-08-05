@@ -75,7 +75,7 @@
 {161}{}{Desde luego. Gracias. Adiós.}
 {162}{}{¿En serio? Esa es una actitud fascinante. Lástima que no aplastásemos tu villorrio cuando controlamos
  el Yermo. Sal de mi vista, gusano.}
-{200}{}{HECHO}
+{200}{}{[HECHO]}
 {201}{}{Adiós.}
 {202}{}{Gracias. Adiós.}
 {203}{}{[MÁS]}

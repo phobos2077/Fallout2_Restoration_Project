@@ -15,7 +15,7 @@
 {114}{}{::piratear la computadora::}
 {115}{}{Te marchas.}
 {116}{}{Activada alerta de intrusión. Apagando. Que tenga un buen día.}
-{117}{}{HECHO}
+{117}{}{[HECHO]}
 {118}{}{(Tras analizar las complejas fórmulas químicas y notas de laboratorio, concluyes que los Shi han creado un tipo de combustible a partir de extractos de plantas y vida marina. Aparentemente, se han conectado a oleoductos ya existentes para poder transportar el combustible a una gran variedad de destinos).}
 {119}{}{(Te encuentras una gran cantidad de complejas fórmulas químicas y notas de laboratorio. No estás muy seguro de lo que significa todo esto).}
 {120}{}{Dirigir combustible al petrolero Poseidon.}
@@ -24,9 +24,9 @@
 {123}{}{(Una vez sorteada la simbología y la discusión técnica, descubres que los Shi están trabajando en una nueva clase de armadura de combate polimérica resistente tanto a la llama como a la penetración. Faltan años para que se complete. También ves una mención a nuevo armamento y habilidades de construcción. Aparentemente, los Shi tienen algunos planes para el futuro).}
 {124}{}{Atrás.}
 {125}{}{Combustible dirigido a petición. Tanques de almacenamiento = Vacíos. Cerrando programa.}
-{126}{}{HECHO}
+{126}{}{[HECHO]}
 {127}{}{Combustible dirigido a petición. Tanques de almacenamiento = Vacíos. Cerrando programa.}
-{128}{}{HECHO}
+{128}{}{[HECHO]}
 {129}{}{Estación desactivada.}
 {130}{}{Activar estación.}
 {131}{}{Te marchas.}

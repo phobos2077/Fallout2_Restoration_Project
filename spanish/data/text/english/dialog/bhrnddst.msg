@@ -1,7 +1,7 @@
 {100}{}{Te encuentras con rufianes y lobos.}
 {101}{}{Te encuentras con rufianes.}
 {102}{}{Te encuentras con lobos.}
-{103}{}{Te encuentras con escorpiones.}
+{103}{}{Te encuentras con escorpiones rad.}
 {104}{}{Te encuentras con plantas de esporas.}
 {105}{}{Te encuentras con una Patrulla de la Unidad luchando contra rufianes.}
 {106}{}{Te encuentras con una Patrulla de la Unidad luchando contra lobos.}
@@ -28,11 +28,11 @@
 {209}{}{Te encuentras con una caravana.}
 {250}{}{Te encuentras con bandidos.}
 {251}{}{Te encuentras con lobos.}
-{252}{}{Te encuentras con escorpiones.}
+{252}{}{Te encuentras con escorpiones rad.}
 {253}{}{Te encuentras con una caravana eludiendo a bandidos.}
 {254}{}{Te encuentras con una caravana eludiendo a bandidos.}
 {255}{}{Te encuentras con una caravana eludiendo a lobos.}
-{256}{}{Te encuentras con una caravana eludiendo a escorpiones.}
+{256}{}{Te encuentras con una caravana eludiendo a escorpiones rad.}
 {257}{}{Te encuentras con una caravana.}
 {258}{}{Te encuentras con una caravana.}
 {259}{}{Te encuentras con una caravana.}
@@ -61,23 +61,23 @@
 {400}{}{Te encuentras con salteadores de caminos.}
 {401}{}{Te encuentras con ladrones.}
 {402}{}{Te encuentras con ladrones y salteadores de caminos.}
-{403}{}{Te encuentras con geckos dorados y escorpiones.}
+{403}{}{Te encuentras con geckos dorados y escorpiones rad.}
 {404}{}{Te encuentras con geckos dorados.}
 {405}{}{Te encuentras con ratas topo y ratas cerdo.}
-{406}{}{Te encuentras con escorpiones.}
+{406}{}{Te encuentras con escorpiones rad.}
 {407}{}{Te encuentras con plantas de esporas.}
 {408}{}{Te encuentras con ladrones luchando contra salteadores de caminos.}
 {409}{}{Te encuentras con una caravana eludiendo a salteadores de caminos.}
 {410}{}{Te encuentras con una caravana eludiendo a ladrones.}
-{411}{}{Te encuentras con una caravana eludiendo a escorpiones.}
-{412}{}{Te encuentras con geckos luchando contra escorpiones.}
+{411}{}{Te encuentras con una caravana eludiendo a escorpiones rad.}
+{412}{}{Te encuentras con geckos luchando contra escorpiones rad.}
 {413}{}{Te encuentras con una caravana.}
 {450}{}{Te encuentras con salteadores de caminos y ladrones.}
 {451}{}{Te encuentras con salteadores de caminos y geckos.}
 {452}{}{Te encuentras con geckos dorados.}
-{453}{}{Te encuentras con escorpiones y plantas de esporas.}
-{454}{}{Te encuentras con ladrones luchando contra escorpiones.}
-{455}{}{Te encuentras con escorpiones luchando contra ladrones.}
+{453}{}{Te encuentras con escorpiones rad y plantas de esporas.}
+{454}{}{Te encuentras con ladrones luchando contra escorpiones rad.}
+{455}{}{Te encuentras con escorpiones rad luchando contra ladrones.}
 {456}{}{Te encuentras con una caravana eludiendo a salteadores de caminos.}
 {457}{}{Te encuentras con una caravana eludiendo a ladrones.}
 {458}{}{Te encuentras con algunos salteadores de caminos podando algunas plantas de esporas.}

@@ -29,7 +29,7 @@
 {128}{}{Atrás.}
 {129}{}{Desconectarse.}
 {130}{}{Operación restringida. Consultar al administrador del sistema. Desconectando. Adiós.}
-{131}{}{HECHO}
+{131}{}{[HECHO]}
 {132}{}{No parece haber una interfaz para eso.}
 {133}{}{ESS Quetzel repostado y listo para el lanzamiento.}
 {134}{}{ESS Quetzel sin combustible.}
@@ -38,4 +38,4 @@
 {137}{}{Salir.}
 {250}{}{Dirigir combustible al petrolero Poseidon.}
 {251}{}{Combustible dirigido a petición. Tanques de almacenamiento = Vacíos. Cerrando programa.}
-{252}{}{HECHO}
+{252}{}{[HECHO]}

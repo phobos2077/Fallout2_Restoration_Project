@@ -70,7 +70,7 @@
 {172}{}{Ya veo.}
 {200}{}{Aún recuerdo nuestro último combate, Elegido. Siempre me he preguntado cómo pudiste derrotarme.}
 {201}{}{Tienes un pico de oro, Elegido. Tu habilidad con las palabras te abrirá muchas puertas.}
-{300}{}{Y tú también, Elegido. Que los espíritus te guíen en tu búsqueda}
+{300}{}{Y tú también, Elegido. Que los espíritus te guíen en tu búsqueda.}
 {301}{}{Gracias, Cameron.}
 {302}{}{Elegido, puede que no te ayude pero me he dado cuenta de que careces de habilidades de combate. Mi experiencia me dice que no puedes confiar siempre en usar tu ingenio o tu lengua para protegerte. Con tu permiso te enseñaré algunas cosas que creo que encontrarás muy útiles.}
 {303}{}{Sí, enseñas tú.}

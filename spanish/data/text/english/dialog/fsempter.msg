@@ -21,7 +21,7 @@
 {117}{}{::piratear la computadora::}
 {118}{}{::marcharse::}
 {119}{}{Activada alerta de intrusión. Apagando. Que tenga un buen día.}
-{120}{}{HECHO}
+{120}{}{[HECHO]}
 {121}{}{¿Funciones de diagnóstico?}
 {122}{}{Escaneo de red.}
 {123}{}{Formateo de unidad.}
@@ -69,7 +69,7 @@
 {165}{}{Sí.}
 {166}{}{No.}
 {167}{}{Formateando... formateando... formateo completo. El reinicio requerirá una instalación completa. Apagando. Apagado... completado...}
-{168}{}{HECHO}
+{168}{}{[HECHO]}
 {169}{}{Datos a encontrar: - Programa botánico  - Programa genético  - Programa Xeno}
 {170}{}{Programa botánico.}
 {171}{}{Programa genético.}
@@ -99,9 +99,9 @@
 {195}{}{(Una vez sorteada la simbología y la discusión técnica, descubres que los Shi están trabajando en una nueva clase de armadura de combate polimérica resistente tanto a la llama como a la penetración. Faltan años para que se complete. También ves una mención a nuevo armamento y habilidades de construcción. Aparentemente, los Shi tienen algunos planes para el futuro).}
 {196}{}{Atrás.}
 {197}{}{Combustible dirigido a petición. Tanques de almacenamiento = Vacíos. Cerrando programa.}
-{198}{}{HECHO}
+{198}{}{[HECHO]}
 {199}{}{Combustible dirigido a petición. Tanques de almacenamiento = Vacíos. Cerrando programa.}
-{200}{}{HECHO}
+{200}{}{[HECHO]}
 {201}{}{Base de datos Física: Exploración  - Teoría}
 {202}{}{Exploración}
 {203}{}{Teoría}

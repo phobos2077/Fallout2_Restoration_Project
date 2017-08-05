@@ -13,7 +13,7 @@
 {112}{}{Me dijeron que hablara contigo respecto a cierto asunto con respecto a los mutantes.}
 {113}{}{Adiós.}
 {114}{}{::Una mueca de disgusto cruza su rostro:: Lárgate de aquí. No tengo tiempo para ti.}
-{115}{}{HECHO}
+{115}{}{[HECHO]}
 {116}{}{Botica. Es una botica. Oye, ¿quieres algo?}
 {117}{}{¿Otra vez tú? ¿Quieres algo?}
 {118}{}{¡S-sí!}
@@ -21,7 +21,7 @@
 {120}{}{Bien. Veamos que quieres.}
 {121}{}{[MÁS]}
 {122}{}{Entonces vete.}
-{123}{}{HECHO}
+{123}{}{[HECHO]}
 {124}{}{Muy bien. Hemos terminado. Gracias por el dato. Ahora vete, por favor.}
 {125}{}{¡Vale!}
 {148}{}{¿Por qué no me cuentas primero qué piensas de los mutantes?}
@@ -112,7 +112,7 @@
 {267}{}{No, supongo que lo haré.}
 {268}{}{Supongo que lo puedo entender. Espero que tú tendrás la misma comprensión cuando te diga que salgas de mi
  vista cagando leches. Traidor.}
-{269}{}{HECHO}
+{269}{}{[HECHO]}
 {270}{}{¿Estás listo para continuar con el plan?}
 {272}{}{Sí. Hagámoslo.}
 {273}{}{He cambiado de opinión. No quiero hacer esto.}

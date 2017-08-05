@@ -22,7 +22,7 @@
 {121}{}{Muy bien. Pero date prisa: es un hombre muy ocupado.}
 {122}{}{De acuerdo.}
 {123}{}{Este no es lugar abierto a recorridos turísticos aleatorios. Buenos días.}
-{124}{}{HECHO}
+{124}{}{[HECHO]}
 {125}{}{¡Excelente! Entra, entra. Habla con Juan Cruz y Vikki Goldman: son celebridades, ya sabes, pero ellos hablarán CONTIGO.}
 {126}{}{¿Quiénes son?}
 {127}{}{¡Ooh! ¡Celebridades!}
@@ -55,7 +55,7 @@
 {154}{}{Gracias por preocuparte. Nos vemos.}
 {155}{}{No creo que quisiera que me hirieran. Hasta luego.}
 {156}{}{¿Quemado? ¿QUEMARNOS? ¡GUARDIAS! ¡MATAD AL DESCREÍDO!}
-{157}{}{HECHO}
+{157}{}{[HECHO]}
 {158}{}{Bien. Ya has tenido tiempo de reconsiderar tu decisión. ¿Te unirás a nosotros?}
 {159}{}{Sí.}
 {160}{}{No.}

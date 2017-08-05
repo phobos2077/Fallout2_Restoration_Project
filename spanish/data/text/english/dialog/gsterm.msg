@@ -214,4 +214,4 @@
 {740}{}{Vale.}
 {800}{}{El procedimiento de optimización ha sido un éxito.}
 {900}{}{Procesando ficheros Batch. Espera por favor.}
-{910}{}{HECHO}
+{910}{}{[HECHO]}

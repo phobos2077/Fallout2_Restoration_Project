@@ -19,7 +19,7 @@
 {167}{}{Gracias. Adiós.}
 {168}{}{Adiós.}
 {169}{}{Maldición.}
-{170}{}{HECHO}
+{170}{}{[HECHO]}
 {171}{}{Estoy hecho polvo.}
 {172}{}{No. Volveré.}
 {173}{}{Vale.}

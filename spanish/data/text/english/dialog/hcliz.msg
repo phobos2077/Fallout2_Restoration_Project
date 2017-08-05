@@ -58,7 +58,7 @@
 {153}{}{Sí.}
 {154}{}{No.}
 {155}{}{Entonces supongo que será mejor empezar por atar los cabos sueltos.}
-{156}{}{HECHO}
+{156}{}{[HECHO]}
 {157}{}{En este establecimiento no se apoya el asesinato. Desaparece.}
 {158}{}{Sí, lo que sea. Zorra.}
 {159}{}{Los necrófagos son esclavos útiles. No tienen sesos suficientes para considerarlos personas, pero tampoco merece
@@ -77,7 +77,7 @@
 {169}{}{Sí.}
 {170}{}{No.}
 {171}{}{A ti no te vendo nada. Lárgate de mi almacén.}
-{172}{}{HECHO}
+{172}{}{[HECHO]}
 {173}{}{El almacén está cerrado. Abrimos a las ocho.}
 {174}{}{¡Oye! ¡Sal de aquí!}
 {175}{}{¡Muy bien! ¡Tú lo has pedido!}

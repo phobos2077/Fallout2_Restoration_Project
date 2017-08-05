@@ -50,7 +50,7 @@
 {183}{}{¿Puedo hacer algo más?}
 {184}{}{Lo tengo. Adiós.}
 {185}{}{¿Tienes los planos? ¡Excelente! Ahora todo lo que necesitamos es combustible! Los Shi tienen un montón. A ver si puedes enviarnos algo. ¡Buena suerte, recluta!}
-{186}{}{HECHO}
+{186}{}{[HECHO]}
 {187}{}{Entonces debes conseguirlos, ¿no crees? Ahora excúsame, camarada: debo seguir preparando la nave para nuestro épico viaje.}
 {188}{}{Tengo los planos para el vertibird.}
 {189}{}{Por supuesto.}

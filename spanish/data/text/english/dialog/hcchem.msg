@@ -68,7 +68,7 @@
 {165}{}{Guardarlo para usarlo en algún bobo confiado.}
 {166}{}{¡Oh, oh! ¡Has creado unos extraños gases tóxicos! Apenas lo hueles y caes al suelo. Te
  sientes hecho una mierda.}
-{167}{}{HECHO}
+{167}{}{[HECHO]}
 {168}{}{Esta cosa parece potente. ¿Que vas a hacer con esto?}
 {169}{}{Beberla.}
 {170}{}{Guardarla para más tarde.}
@@ -86,7 +86,7 @@
 {179}{}{Es un poco terroso, pero te las arreglas para tragártelo. Extrañamente, te sientes un poco mejor ahora.}
 {180}{}{Ahh, qué demonios. A pesar de su apariencia, te bebes el desagradable brebaje. Inmediatamente empiezas
  a escupir y a tener arcadas. ¡Has sido irradiado!}
-{181}{}{HECHO}
+{181}{}{[HECHO]}
 {182}{}{Bien… de acuerdo. Recordando las cosas que bebiste cuando eras pequeño, inclinas el
  frasco hacia atrás y dejas que fluya. Tu estómago se hace un nudo cuando el fluido entra en él. Sientes
  como si acabaras de sufrir la picadura de un escorpión rad.}

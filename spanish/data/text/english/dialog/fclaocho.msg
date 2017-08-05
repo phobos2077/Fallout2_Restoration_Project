@@ -13,9 +13,9 @@
 {112}{}{::asientes con la cabeza::}
 {113}{}{::niegas con la cabeza::}
 {114}{}{Esto es lo que tengo, entonces.}
-{115}{}{HECHO}
+{115}{}{[HECHO]}
 {116}{}{Bien, me temo que eso es todo lo que puedo hacer por ti. Buenos días.}
-{117}{}{HECHO}
+{117}{}{[HECHO]}
 {118}{}{Soy Lao Chou. Dirijo este establecimiento, El Dragón Volador Ocho, una tienda en general. Se me conoce por comerciar con... información.}
 {119}{}{¿Qué clase de información?}
 {120}{}{Ya veo. Me gustaría algo de equipamiento.}

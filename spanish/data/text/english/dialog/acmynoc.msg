@@ -93,7 +93,7 @@
 {409}{}{Somos gente sencilla y tenemos poco que ofrecer a cambio. Los pocos pueblos con los que hemos hablado no tienen interés en ayudarnos.}
 {410}{}{Veo.}
 {411}{}{Ya veo.}
-{412}{}{Eres nuestra esperanza, Elegido. Por favor, ¡no nos falles!}
+{412}{}{Eres nuestra sola esperanza, Elegido. Por favor, ¡no nos falles!}
 {413}{}{Qué bueno verte, Elegido. ¿Cómo marcha tu búsqueda?}
 {414}{}{Todavía busco.}
 {415}{}{La estoy buscando.}

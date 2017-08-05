@@ -37,7 +37,7 @@
 {136}{}{Sí.}
 {137}{}{No. Ya he hecho suficientes pruebas en los últimos meses como para el resto de mi vida.}
 {138}{}{No creo que el Emperador quiera verte. Se me ha dicho que prohiba la entrada a todos aquellos que me ofenden o apestan a maldad. Para ti son ambas cosas, viajero. Buenos días.}
-{139}{}{HECHO}
+{139}{}{[HECHO]}
 {140}{}{Los insultos no te llevarán a ningún lado, salvo al exterior del Palacio de Acero. Controla tu lengua.}
 {141}{}{Hazlo tú.}
 {142}{}{Bien.}
@@ -55,7 +55,7 @@
 {154}{}{No. Mi verdadero nombre es }
 {155}{}{Ese es el único nombre que necesitas, anciano.}
 {156}{}{Eso va a ser imposible. Buenos días.}
-{157}{}{HECHO}
+{157}{}{[HECHO]}
 {158}{}{Sin duda, me tienes que valorar mejor. Sé cómo funciona el "negocio". He viajado a Nuevo Reno antes.}
 {159}{}{Está bien, mi nombre es }
 {160}{}{¡Ese es mi nombre verdadero! ¡Y ahora déjame hablar con el Emperador!}

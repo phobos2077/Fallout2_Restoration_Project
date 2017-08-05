@@ -15,7 +15,7 @@
 {114}{}{¡Enséñame!}
 {115}{}{G-gracias.}
 {116}{}{Empecemos entonces.}
-{117}{}{HECHO}
+{117}{}{[HECHO]}
 {118}{}{::Te mira atentamente:: Creo que no usarías ese conocimiento para el bien. Buenos días.}
 {119}{}{¡Grrr!}
 {120}{}{Por favor, excusa mi rudeza. No puedo hablar contigo ahora mismo.}
@@ -25,7 +25,7 @@
 {124}{}{Entonces tú debes triunfar.}
 {125}{}{Ya veo. Tengo más preguntas.}
 {126}{}{¿Realmente crees eso? Entonces tal vez deberías tratar con Lo Pan. Buenos días.}
-{127}{}{HECHO}
+{127}{}{[HECHO]}
 {128}{}{Debo, sí. Pero me temo que estamos demasiado igualados. Incluso estamos igualados en nuestros seguidores. Hará falta una persona que desequilibre la balanza.}
 {129}{}{Yo soy esa persona.}
 {130}{}{Ya veo. Bueno, tengo más preguntas.}
@@ -44,7 +44,7 @@
 {143}{}{Una prueba de habilidad. No quiero matarte.}
 {144}{}{Ni una cosa ni la otra. Olvídalo.}
 {145}{}{No eres el adecuado para esta tarea. Adiós.}
-{146}{}{HECHO}
+{146}{}{[HECHO]}
 {147}{}{¿Eso crees? La guerra y la lucha parecen inevitables. Quizá sería mejor que luchásemos con reglas y códigos que ceder a la destrucción misma. }
 {148}{}{Yo venzo de cualquier forma que pueda.}
 {149}{}{Si tenemos que luchar, deberíamos luchar por la supervivencia. Si alguien trata de matarme, me defenderé por todos los medios posibles.}
@@ -69,11 +69,11 @@
 {168}{}{Eso es interesante. Debe de ser gratificante. Tengo más preguntas.}
 {169}{}{Gracias. Adiós.}
 {170}{}{Has intentado deshonrar a mi pueblo, así que ahora debo matarte. Lamento hacerte daño mientras mueres.}
-{171}{}{HECHO}
+{171}{}{[HECHO]}
 {172}{}{No hables conmigo, oveja de la Hubología. No trato con los de tu clase.}
-{173}{}{HECHO}
+{173}{}{[HECHO]}
 {174}{}{Tienes el honor de un cerdo y la moral de un pez pulmonado. No deseo asociarme contigo.}
-{175}{}{HECHO}
+{175}{}{[HECHO]}
 {176}{}{Tienes unas habilidades de combate realmente asombrosas. ¿Combatirás a Lo Pan?}
 {177}{}{Sí. Iré ahora mismo.}
 {178}{}{En realidad no es mi lucha.}

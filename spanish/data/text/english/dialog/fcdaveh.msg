@@ -15,7 +15,7 @@
 {114}{}{No importa. Adiós.}
 {115}{}{Ummm... vaaale. Lo que sea. Oye, ¿qué es eso de ahí?
 [cuando te giras para mirar, vuelve con lo que estaba haciendo y te ignora]}
-{116}{}{HECHO}
+{116}{}{[HECHO]}
 {117}{}{Soy Dave Handy. Procedo de Canadá.}
 {118}{}{Entonces, ¿qué haces aquí?}
 {119}{}{¿Qué te trajo hasta aquí?}
