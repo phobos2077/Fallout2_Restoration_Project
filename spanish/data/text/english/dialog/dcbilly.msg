@@ -21,7 +21,7 @@
 {169}{}{Maldición.}
 {170}{}{[HECHO]}
 {171}{}{Estoy hecho polvo.}
-{172}{}{No. Volveré.}
+{172}{}{Volveré.}
 {173}{}{Vale.}
 {174}{}{Eres una preciosidad.}
 {175}{}{Aléjate de mí.}

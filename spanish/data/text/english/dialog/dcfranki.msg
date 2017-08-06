@@ -30,13 +30,13 @@
 {177}{}{No, gracias.}
 {178}{}{¡No tienes suficiente dinero! ¡Esto no es un local de beneficencia!}
 {179}{}{Oh, lo siento, estoy sin fondos.}
-{180}{}{No. Volveré.}
+{180}{}{Volveré.}
 {181}{}{¿Qué quieres?}
 {182}{}{Whisky.}
-{183}{}{Nada, ya me marcho.}
+{183}{}{Nada. Ya me marcho.}
 {184}{}{¡Hehehehe!}
 {185}{}{¡Y no vuelvas!}
-{186}{}{SALIR}
+{186}{}{[SALIR]}
 {187}{}{No quiero a gente como tú en mi local. ¡Fuera!}
 {188}{}{Está bien, ya me marcho.}
 {189}{}{Wah.}
@@ -69,7 +69,7 @@
 {216}{}{Piensa. ¿Donde más puedes conseguir alcohol?}
 {217}{}{¿Qué quieres decir?}
 {218}{}{Cómprale el licor a ella. Es más barato que el de Nuevo Reno, y así ganarás más dinero.}
-{219}{}{¡No quiero hacer esto!}
+{219}{}{No quiero hacer esto.}
 {220}{}{No importa.}
 {221}{}{Mira, sólo quiero que destruyas su destilería. ¿Lo vas a hacer?}
 {222}{}{De acuerdo, lo haré.}
@@ -126,4 +126,4 @@
 {354}{}{Oh, jamás lo había pasado peor.}
 {400}{}{¿Sabes, nena? Puedes estar muy buena, pero tienes mucho que aprender.}
 {410}{}{Nena, tengo trabajo que hacer, ¿sabes? No estoy todo el día aquí parado sin hacer nada. Bien, vale, ¿y qué si lo estoy? Es mi trabajo.}
-{420}{}{Mira, sólo quiero que destruyas su destilería. ¿Lo vas a hacer?}
+{420}{}{Mira, tan sólo quería que destruyeras la destilería y lo has hecho. Ahora vete.}

@@ -39,6 +39,6 @@
 {502}{}{Abuelito, puedo verte...}
 {503}{}{Oh, es el amable señor Cain. Me alegro de verle de nuevo...}
 {550}{}{Esta casa está limpia.}
-{551}{}{Tira los dados.}
+{551}{}{Oog, huesos boni-tos.}
 {560}{}{¡CAZAFANTASMAS!}
 {561}{}{Uhg.}

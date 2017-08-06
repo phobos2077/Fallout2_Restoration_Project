@@ -65,7 +65,7 @@
 {306}{}{Oh, que dolor.}
 {307}{}{Ahora sí que necesito una dosis.}
 {308}{}{Déjame morir.}
-{350}{}{Ahhh...}
+{350}{}{Ahhhh...}
 {351}{}{Estoy flotando...}
 {352}{}{¡Tengo el poder!}
 {353}{}{Hola, señora Flor.}

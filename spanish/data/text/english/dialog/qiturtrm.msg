@@ -27,7 +27,7 @@
 {127}{}{(Este tiene un acceso adecuado). Smith, J.}
 {128}{}{(Este parece algo especial). Clave de acceso presidencial de anulación de seguridad}
 {129}{}{(Este es mejor que el acceso medio). Murray, T.}
-{130}{}{ (Este tiene un buen acceso). Curling, Dr. C.}
+{130}{}{(Este tiene un buen acceso). Curling, Dr. C.}
 {131}{}{(Este parece que debería tener un acceso realmente bueno). Bird, D.}
 {132}{}{(Quizá debería intentarlo más tarde). Finalizar sesión.}
 {133}{}{Seleccionar: }

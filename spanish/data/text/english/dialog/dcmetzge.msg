@@ -158,7 +158,7 @@
 {547}{}{¿}
 {548}{}{¡Vamos! ¿ }
 {549}{}{Recuerda, vigila la espalda de tus compañeros y mata sólo a los esclavos hostiles. Aquí tienes }
-{550}{}{¡Sólo}
+{550}{}{¡Sólo }
 {551}{}{¿Quieres ganar algo o no? Me estás cabreando. ¿Cómo puede ser de difícil? Ahora toma tus }
 {552}{}{¿Qué cojones de problema has tenido? No has ganado una mierda esta vez. Estamos en esto para hacer dinero, no para ir haciendo el idiota.}
 {553}{}{Lo haré mejor la próxima vez.}
@@ -188,7 +188,7 @@
 {651}{}{Oh, no te preocupes. El cuerpo me está pidiendo pagarte... quiero decir, hacértelo pagar. Chicos, acabad con esta puta.}
 {652}{}{Ups.}
 {653}{}{¡Garaka!}
-{654}{}{Eh... Gracias.}
+{654}{}{Uh... ¿Gacias?}
 {670}{}{Oh, estoy seguro. Este trabajo no se puede tomar a la ligera. Exige confianza y lealtad. Cuidamos de nuestros compañeros. Una buena política, ¿no crees?}
 {671}{}{Supongo.}
 {672}{}{Eh, ¿qué ocurre?}
@@ -238,4 +238,4 @@
 {1551}{}{ dólares y fuera de aquí.}
 {2540}{}{.}
 {2543}{}{.}
-{15401}{}{ dólares. Un gran trabajo, joder.}
+{15401}{}{ dólares. Un gran trabajo, }
