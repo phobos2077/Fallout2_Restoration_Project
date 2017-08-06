@@ -6,6 +6,6 @@
 {105}{}{¡Whaaa!}
 {106}{}{¡Mami!}
 {107}{}{¡Papi!}
-{200}{}{Ves a una niña.}
-{201}{}{Ves a un niño pequeño.}
-{202}{}{Ves a una chica pequeña.}
+{200}{}{Ves a un joven.}
+{201}{}{Es un niño pequeño.}
+{202}{}{Es una niña pequeña.}

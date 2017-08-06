@@ -1,4 +1,4 @@
-{100}{}{Ves a un guardia.}
+{100}{}{Ves a un nómada.}
 {101}{}{Hola, debes ser nuevo por aquí.}
 {102}{}{Deberías hablar con el jefe.}
 {103}{}{Hoy no creo que haga tanto calor como ayer.}

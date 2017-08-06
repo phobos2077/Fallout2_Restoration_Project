@@ -90,7 +90,7 @@
 {204}{}{No trato con los enemigos de mi pueblo. Mis humildes disculpas.}
 {205}{}{Honorable señor, le recomiendo que busque a los médicos de su culto.}
 {206}{}{¿Qué puedes contarme sobre los implantes?}
-{207}{}{He ayudado a escribir el artículo sobre los implantes. Todo lo que se requiere es mi experiencia y a ti. ¿Qué clase de implante deseas?}
+{207}{}{He ayudado a escribir el artículo sobre los implantes. Todo lo que se requiere es mi experiencia y a ti. ¿Qué tipos de implantes deseas?}
 {208}{}{¿Qué tipos hay?}
 {209}{}{El implante dermal.}
 {210}{}{La mejora dermal.}

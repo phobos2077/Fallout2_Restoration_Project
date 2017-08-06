@@ -1,5 +1,5 @@
 {100}{}{Ves a un hombre tocando el laúd.}
-{101}{}{Esta es nuestra tierra.}
+{101}{}{Este es Joshua.}
 {102}{}{Es un juglar errante.}
 {103}{}{Sir Robin el Bravo sale huyendo...}
 {104}{}{Huyendo, huyendo con bravura...}

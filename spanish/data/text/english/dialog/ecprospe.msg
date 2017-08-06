@@ -1,4 +1,4 @@
-{100}{}{Ves a un ladrón.}
+{100}{}{Ves a un Prospector.}
 {101}{}{Quieto ahí, forastero. No suelo emboscar a extraños, pero necesito suministros y no puedo abandonar mi prospección. ¿Hace un trueque rápido?}
 {102}{}{Claro.}
 {103}{}{No tengo nada para cambiar. Lo siento.}

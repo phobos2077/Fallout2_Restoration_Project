@@ -68,7 +68,7 @@
 {167}{}{Tengo otras preguntas.}
 {168}{}{Estoy interesado en unirme.}
 {169}{}{Ya veo. Bueno, hasta luego.}
-{170}{}{Él: Bien, es muy sencillo. Deja que simplemente te demos este holodisco informativo. Ella: ... ves una película corta... Él... ¡y después vas a hablar con AHS-7! Ella: Fácil, ¿verdad?}
+{170}{}{Él: Bien, es muy sencillo. Deja que simplemente te demos este holodisco informativo. Ella: ... ves una película corta... Él:... ¡y después vas a hablar con AHS-7! Ella: Fácil, ¿verdad?}
 {171}{}{Hagámoslo.}
 {172}{}{No creo que esté listo para esto.}
 {173}{}{Ella: Esa es tu prerrogativa. Él: Y espero que entiendas que no se te puede permitir vagabundear por nuestra base. Ella: Así que sería mejor que te fueras: los guardias probablemente te dispararán si andas por aquí.}
@@ -88,7 +88,7 @@
 {187}{}{Ella: No ha sido tan malo, ¿verdad? Él: ¡Ahora sólo tienes que ir a hablar con AHS-7 y seremos compañeros en la Hubología! Ella: ¡Estoy tan excitada! Él: Conseguir nuevos reclutas me pone cachondo. Ella: Oh, cariño... Él: Oh, muñeca...}
 {188}{}{Creo que volveré más tarde.}
 {189}{}{Él: Qué pena. Ella: Ahora estás comprometido.}
-{190}{}{HECHO}
+{190}{}{-HECHO-}
 {191}{}{Él: Has tomado una decisión de las que cambian toda una vida. Ella: Y por desgracia, ha sido una equivocada. Ambos: ¡Guardias! ¡Guardias!}
 {192}{}{Maldición.}
 {193}{}{Él: Saludos, }

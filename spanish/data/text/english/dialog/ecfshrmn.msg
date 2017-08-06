@@ -1,4 +1,4 @@
-{100}{}{Ves a un ermitaño.}
+{100}{}{Ves a un pescador.}
 {101}{}{Llegas justo a tiempo para ser testigo de las bendiciones de la Diosa del Mar.}
 {102}{}{[MÁS]}
 {103}{}{}

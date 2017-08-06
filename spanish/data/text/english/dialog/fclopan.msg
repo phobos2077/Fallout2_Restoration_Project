@@ -54,11 +54,11 @@
 {153}{}{Puede que sea un cabrón, pero nunca se podrá decir que no defiendo a mi gente. Voy a hacerte daño antes de matarte.}
 {154}{}{[HECHO]}
 {155}{}{Entonces eres un tonto y un perro que recibe órdenes de otros. Reiré cuando mueras.}
-{156}{}{-atacas ya, con armadura y armas-}
-{157}{}{-entras en el cuadrilátero, dejas a un lado armadura y armas, y luchas mano a mano-}
+{156}{}{[Atacas ya, con armadura y armas]}
+{157}{}{[Entras en el cuadrilátero, dejas a un lado armadura y armas, y luchas mano a mano]}
 {158}{}{Bien. Al menos eres tu propio dueño. ¿Eres lo bastante fuerte como para luchar sin armadura ni armas?}
-{159}{}{-atacas ya, con armadura y armas-}
-{160}{}{-entras en el cuadrilátero, dejas a un lado armadura y armas, y luchas mano a mano-}
+{159}{}{[Atacas ya, con armadura y armas]}
+{160}{}{[Entras en el cuadrilátero, dejas a un lado armadura y armas, y luchas mano a mano]}
 {161}{}{¡Beee, oveja, beee! Vuelve con tus amos. No tengo nada que decirte.}
 {162}{}{[HECHO]}
 {163}{}{¿No te dije que hablaras con el Dragón sobre tus escrúpulos morales? Él te acogerá. Yo no. Ahora, vete.}
@@ -76,7 +76,7 @@
 {175}{}{El Dragón está muerto. No puedo creerlo. Al menos ahora no tendremos todas esas molestas tradiciones persiguiéndonos a cada paso. Gracias.}
 {176}{}{Genial. Tengo unas preguntas.}
 {177}{}{Genial. Adiós.}
-{178}{}{Sí. Iré ahora mismo.}
+{178}{}{Bien. Iré ahora mismo.}
 {200}{}{Lo Pan detecta tu avance y te escurres de él.}
 {201}{}{Verás, no me gusta que nadie toque mis cosas, así que ve a robarle a otro. Ahora vete.}
 {202}{}{Te advertí que te fueras, para no matarte. Oh, bueno.}
@@ -111,7 +111,7 @@
 {230}{}{En primer lugar, tendrás que demostrar que puedes hacerlo. Te enfrentaré a cinco de mis luchadores: uno cada vez. Si los derrotas, entonces encararás la prueba final.}
 {231}{}{¿Qué es eso?}
 {232}{}{Suena a demasiados problemas. Adiós.}
-{233}{}{Tendrás que derrotarme. Sin embargo, ninguna de estas peleas serán a muerte... para proteger a mis hombres, por supuesto [se burla].}
+{233}{}{Tendrás que derrotar mi aprendiz elegido . Sin embargo, ninguna de estas peleas serán a muerte... para proteger a mis hombres, por supuesto [se burla].}
 {234}{}{¡Vamos allá!}
 {235}{}{Puedes encargarte del Dragón tú mismo.}
 {236}{}{[Lo Pan te estudia y a continuación lanza un rápido puñetazo que te golpea en la nariz antes de que puedas reaccionar siquiera]. No eres lo bastante bueno.}

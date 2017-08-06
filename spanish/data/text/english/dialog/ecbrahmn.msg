@@ -1,1 +1,1 @@
-{100}{}{Ves a un brahmin aparentemente enfermo.}
+{100}{}{Ves un brahmin salvaje.}

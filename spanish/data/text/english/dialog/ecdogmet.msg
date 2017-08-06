@@ -38,6 +38,6 @@
 {137}{}{Oye chico, no te metas con mi perro.}
 {138}{}{Grrrrr....}
 {139}{}{(Me pregunto si puedo hacer que Albóndiga me siga de forma diferente).}
-{300}{}{Suspiro… }
-{301}{}{Auuuuuuuuu...}
-{1110}{}{El perro devora con gula la iguana y te mira con expectación.}
+{300}{}{*Sollozo*}
+{301}{}{¡Auuuuuuuuu! *Sollozo*}
+{1110}{}{El perro devora con gula el contenido de la lata de comida para perros y te mira con expectación.}

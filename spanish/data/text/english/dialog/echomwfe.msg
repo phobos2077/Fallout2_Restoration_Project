@@ -1,4 +1,4 @@
-{100}{}{Ves a un hombre delgado y bronceado.}
+{100}{}{Ves a una mujer delgada y bronceada.}
 {101}{}{Ves a un granjero.}
 {102}{}{Te das cuenta de que tiene un moreno de granjera.}
 {200}{}{Ves a una mujer delgada y bronceada.}

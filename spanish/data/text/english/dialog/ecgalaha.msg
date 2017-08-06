@@ -1,5 +1,5 @@
-{100}{}{Ves a un guardia con servoarmadura.}
-{101}{}{Esta es nuestra tierra.}
+{100}{}{Ves a un hombre con servoarmadura.}
+{101}{}{Es Sir Galahad.}
 {102}{}{Se sonroja cuando se da cuenta de que le estás mirando.}
 {103}{}{Sir Galahad, ¡preparado!}
 {104}{}{Una vez fui prisionero en el Castillo Anthrax.}

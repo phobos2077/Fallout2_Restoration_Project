@@ -1,4 +1,4 @@
-{100}{}{Ves a un cazador.}
+{100}{}{Ves a un cazarrecompensas.}
 {101}{}{Ves a un cazarrecompensas.}
 {102}{}{Vas a morir.}
 {103}{}{Así que tú eres el que ha sido marcado para morir.}

@@ -248,7 +248,7 @@
 {4511}{}{Un hombre mayor como yo, desperdiciando su talento, aquí parado.}
 {4512}{}{Ojala tuviera algo de chicle... han pasado décadas.}
 {4513}{}{Necesito salir del negocio de las reliquias... no trae más que problemas.}
-{4514}{}{Por qué esperar cansa tanto...}
+{4514}{}{Por qué esperar cansa tanto…}
 {4600}{}{Oh, gracias, Jefe.}
 {4601}{}{Gracias.}
 {4602}{}{¿Estás seguro de que sabes lo que haces?}
@@ -264,7 +264,7 @@
 {4706}{}{Claro, Jefe. Me tomaré algunas.}
 {4707}{}{Gracias, Jefe.}
 {4708}{}{No está mal.}
-{5000}{}{Estoy cansado de esto. Volveremos a hablar más tarde.}
+{5000}{}{Ahora mismo estoy un poco hambriento. Volveremos a hablar en el local de Mamá.}
 {5500}{}{Siento que me rompí una extremidad, Jefe. Será mejor que eche un vistazo.}
 {5501}{}{Siento que estoy ardiendo, Jefe. Será mejor que eche un vistazo.}
 {5502}{}{Siento que he sido envenenado, Jefe. Será mejor que eche un vistazo.}

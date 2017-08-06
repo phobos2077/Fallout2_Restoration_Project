@@ -37,7 +37,7 @@
 {321}{}{Gracias, Smitty. Sin problema. Nos vemos.}
 {322}{}{Bien, ehhh... gracias, pero ya he ido a ver a Mamá y me he pillado algo de comer, así que no me hará falta.}
 {323}{}{Oh, no soy el repartidor habitual. Se puso enfermo hoy. De todos modos, ¿puedo conseguir mis puntos de experiencia?}
-{324}{}{Vale, siento la confusión. Espero que Mamá no me despida. ¡De verdad que me hace falta este trabajo!}
+{324}{}{Vale, siento la confusión. ¡Espero que Mamá no me despida! De verdad que me hace falta este trabajo.}
 {325}{}{¿Sabes que ya no regalamos la comida si tarda en llegar más de 24 horas, verdad?}
 {326}{}{Bueno, entonces quizás me la coma yo.}
 {327}{}{Mamá no se va a poner contenta con esto.}

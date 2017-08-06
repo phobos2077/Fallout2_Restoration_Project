@@ -3,5 +3,5 @@
 {102}{}{Gran Espíritu, protégeme.}
 {103}{}{Mis huesos nutrirán la tierra... dentro de muchos años.}
 {104}{}{Que le den a los espíritus, me largo de aquí.}
-{105}{}{Ves a un viejo.}
-{106}{}{Ves a una mujer de por aquí.}
+{105}{}{Ves a un santo.}
+{106}{}{Ves a una santa.}

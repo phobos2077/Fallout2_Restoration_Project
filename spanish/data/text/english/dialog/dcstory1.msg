@@ -31,7 +31,7 @@
 {136}{}{Sí. Yo soy el Elegido. Mi antepasado salvó al mundo de alguien llamado 'El Maestro'.}
 {137}{}{Sí. Se supone que uno de mis antepasados salvó al mundo de alguien llamado 'El Maestro'.}
 {138}{}{Me tengo que ir.}
-{139}{}{Eh, vale. Encantado de conocerte, Elegido... la verdad, sí que había oído hablar de un 'Maestro'...}
+{139}{}{Eh, vale. Encantado de conocerte, Elegido... La verdad, sí que había oído hablar de un 'Maestro'...}
 {140}{}{Qué interesante. Eso me recuerda una historia que oí hace mucho tiempo sobre un 'Maestro'.}
 {141}{}{¿De verdad? ¿Qué oíste?}
 {142}{}{Dime.}

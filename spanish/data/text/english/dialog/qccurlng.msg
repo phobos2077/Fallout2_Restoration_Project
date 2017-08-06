@@ -146,8 +146,8 @@
 {244}{}{Gracias por la información. Tu sacrificio será recordado por todas las personas de la Tierra.}
 {245}{}{Ya era hora de que entraras en razón, viejo idiota. Ahora muévete.}
 {246}{}{Cuando las estrellas arrojaron sus lanzas,}
-{247}{}{y mojaron el cielo con sus lágrimas,}
-{248}{}{¿sonrió al contemplar su obra?}
+{247}{}{                      y mojaron el cielo con sus lágrimas,}
+{248}{}{                            ¿sonrió al contemplar su obra?}
 {249}{}{                                      Total Weight:}
 {250}{}{¿Eh?}
 {251}{}{Oh, sólo es algo que he recordado de un poeta muerto hace mucho. Me estaba preguntando si todavía hay un lugar para aquellos que trabajaron en un camino tan oscuro por tanto tiempo. Se acabó nuestro tiempo, el vuestro acaba de comenzar. ¡Vete!}

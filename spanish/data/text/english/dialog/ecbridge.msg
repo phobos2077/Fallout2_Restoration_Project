@@ -78,4 +78,4 @@
 {177}{}{Hmmm... Debería pensar seriamente meterme en la reparación de coches.}
 {178}{}{He oído que es donde está el dinero ahora.}
 {200}{}{¡AAAAAAAHHHHHHHHhhhhhh!}
-{1171}{}{Por alguna razón, creo que debería haber guardado el juego en un nuevo espacio.}
+{1171}{}{Oh, oh. Yo debía haber salvado juego en nuevo espacio.}

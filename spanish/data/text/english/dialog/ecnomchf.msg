@@ -1,5 +1,5 @@
-{100}{}{Ves a un guardia.}
-{101}{}{Ves a Chip. Parece sufrir mucho dolor.}
+{100}{}{Ves a un nómada.}
+{101}{}{Parece ser un jefe nómada.}
 {102}{}{Por sus ropas y la forma en la que se comporta, debe ser alguna clase de líder.}
 {103}{}{Ah, un viajero. Sé bienvenido a mi humilde tienda. Ven a la sombra y cobíjate del interminable calor de la tierra.}
 {104}{}{Gracias; acepto con gentileza tu oferta de cobijo.}

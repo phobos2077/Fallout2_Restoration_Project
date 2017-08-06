@@ -51,8 +51,8 @@
 {150}{}{Hm. Tienes razón. Bueno, tengo más preguntas.}
 {151}{}{Sí, de acuerdo. Adiós.}
 {152}{}{Muy bien. Entremos en el cuadrilátero y luchemos hasta que uno de los dos no pueda seguir moviéndose.}
-{153}{}{-atacas ya, con armadura y armas-}
-{154}{}{-entras en el cuadrilátero, dejas a un lado armadura y armas, y luchas mano a mano-}
+{153}{}{[Atacas ya, con armadura y armas]}
+{154}{}{[Entras en el cuadrilátero, dejas a un lado armadura y armas, y luchas mano a mano]}
 {155}{}{Ah, un guerrero. Te enfrentaré a mis hombres para ver cómo te portas. Empecemos.}
 {156}{}{[COMENZAR]}
 {157}{}{Sin embargo, en un entorno de combate formalizado, no puedes negar que has entrado en esta arena por tu propia elección. Una vez has entrado así, ¿no deberías acatar sus reglas?}
@@ -122,7 +122,7 @@
 {230}{}{En primer lugar, tendrás que demostrar que puedes hacerlo. Te enfrentaré a cinco de mis luchadores: uno cada vez. Si los derrotas, entonces encararás la prueba final.}
 {231}{}{¿Qué es eso?}
 {232}{}{Suena a demasiados problemas. Adiós.}
-{233}{}{Humildemente, yo mismo podré a prueba tus habilidades. Sin embargo, ninguna de estas peleas será a muerte.}
+{233}{}{Serás probado en contra de mi aprendiz elegido. Sin embargo, ninguna de estas peleas será a la muerte.}
 {234}{}{De acuerdo, hagámoslo.}
 {235}{}{Puedes encárgate de Lo Pan tú mismo.}
 {236}{}{[El Dragón te estudia] Lamentablemente no puedo permitir que alguien con tu nivel de habilidad se hiera a sí mismo.}

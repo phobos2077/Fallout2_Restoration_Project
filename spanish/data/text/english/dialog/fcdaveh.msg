@@ -2,7 +2,7 @@
 {101}{}{Ves a Dave H.}
 {102}{}{Ves a un hombre pelirrojo con un brillo esperanzado en los ojos.}
 {103}{}{¿Por qué quieres hacernos daño?}
-{104}{}{Como puedo ayudarte, ¿amigo?}
+{104}{}{Como puedo ayudarte, ¿primer iluminado?}
 {105}{}{Voy a progresar con Vikki... umm... pronto.}
 {106}{}{¿Cómo puedo ayudarte?}
 {107}{}{¿Qué quieres?}
@@ -94,13 +94,13 @@ Oh, bueno.
 {189}{}{"¡Creo que deberíamos cambiar la interfaz, a pesar de que ésta funciona perfectamente bien!"}
 {190}{}{"¿Por qué no puedo usar una espada o una motosierra con mi monitor?"}
 {191}{}{"Debería poder tener dos armas. ¿Por qué no puedo usar dos armas?"}
-{192}{}{"La interfaz de mi terminal es lenta y torpe. Creo que es culpa tuya".}
+{192}{}{"La interfaz de mi terminal es lenta y torpe. Creo que es culpa tuya."}
 {193}{}{Algo así.}
 {194}{}{Ya veo. Parece que esas personas van a tener un montón de diversión. Tengo más preguntas.}
 {195}{}{Ya veo. Bueno, hasta luego.}
 {196}{}{Podría hacerlo. Pero necesitaría una buena razón, y no la tengo. Lo siento. ¿Algo más?}
 {197}{}{Sí, tengo más preguntas.}
 {198}{}{No, supongo que no.}
-{199}{}{Lo siento, su sistema lleva sin responder desde hace un tiempo. No hay forma de que pueda entrar en él.}
+{199}{}{Lo siento, su sistema lleva sin responder desde hace un tiempo. No hay forma de que pueda entrar en él. ¿Algo más?}
 {200}{}{Voy a progresar con Vikki... umm... pronto. ¿Puedo ayudarte?}
 {201}{}{Su sistema no ha estado respondiendo por un tiempo. Parece que alguien formateó sus basas de datos. Como lo que haré aquí después lo hice contigo. ¿Algo más?}

@@ -53,8 +53,7 @@
 {152}{}{Sin embargo, debido a la rudeza del mensajero, creo que me quedaré con todas las partes del trato. Así que me limitaré a experimentar con él.}
 {153}{}{Dile a tu amigo que se pase por aquí en los próximos días, y con gusto se lo devolveré. Tan solo espero que puedas encontrar una forma de recolocarlo en su cuerpo a tiempo.}
 {154}{}{Muy bien.}
-{155}{}{¡Ja ja! Sí, yo también vi esa vieja película.
- Espera... ¿qué estás diciendo? ¿Estás diciendo que...?}
+{155}{}{¡Ja ja! Sí, yo también vi esa vieja película. Espera... ¿qué estás diciendo? ¿Estás diciendo que...?}
 {156}{}{Sí, es un bazo humano.}
 {157}{}{En realidad, me opondría a eso. No has demostrado tener buen carácter. De hecho, no sé por qué estoy hablando contigo. Buenos días.}
 {158}{}{[HECHO]}

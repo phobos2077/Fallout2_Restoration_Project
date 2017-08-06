@@ -1,4 +1,4 @@
-{100}{}{Ves una mantis.}
-{101}{}{Este es Vic.}
+{100}{}{Ves a un hombre.}
+{101}{}{Es Eric.}
 {102}{}{Está golpeando dos mitades de coco.}
 {103}{}{¡Clip! ¡Clop!}

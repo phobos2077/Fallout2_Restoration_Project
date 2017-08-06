@@ -56,10 +56,10 @@
 {155}{}{¡MUERE!}
 {156}{}{Desintegración del jugador con una animación de muerte por plasma.}
 {200}{}{(12 horas más tarde)}
-{1129}{}{Elegido}
-{1134}{}{Burrido también}
-{1136}{}{¡Aggle ok too!}
+{1129}{}{Soy Elegido.}
+{1134}{}{Sí soy.}
+{1136}{}{¡Sí soy!}
 {1138}{}{Uh-huh.}
 {1140}{}{Uh-huh.}
 {1142}{}{Uh...huh...}
-{1148}{}{¡Agradezco yo!}
+{1148}{}{¡AAciaaaas!}

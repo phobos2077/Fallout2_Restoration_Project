@@ -1,4 +1,4 @@
-{100}{}{Ves a un guardia con servoarmadura.}
+{100}{}{Ves a un hombre con servoarmadura.}
 {101}{}{Este es Sir Bedemir.}
 {102}{}{Parece estar absorto en sus pensamientos.}
 {103}{}{Sir Bedemir a vuestro servicio.}

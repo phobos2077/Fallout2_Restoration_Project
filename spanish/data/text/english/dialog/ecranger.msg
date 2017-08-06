@@ -21,7 +21,7 @@
 {120}{}{No.}
 {121}{}{Qué mala suerte... para ti. Somos los Rangers de la RNC. ¿Has oído hablar de nosotros? Matamos esclavistas.}
 {122}{}{Eres un mentiroso de mierda. ¡A por él!}
-{123}{}{Saludos, forastero. Soy Ezekiel, de los Rangers de la RNC. ¿Quién eres tú?}
+{123}{}{Saludos, forastero. Somos los Rangers de la RNC. ¿Quién eres tú?}
 {124}{}{Nadie que te importe.}
 {125}{}{Sí, he oído hablar de ti. Eres un Ranger, ¿no?}
 {126}{}{Sí.}

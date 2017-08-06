@@ -1,5 +1,5 @@
-{100}{}{Ves a un viejo.}
-{101}{}{De momento, parece estar absorto.}
+{100}{}{Ves a un cháman nómada.}
+{101}{}{Parece ser un cháman nómada.}
 {102}{}{Sus ropas estás impregnadas del fuerte olor de las hierbas.}
 {103}{}{Hola, forastero. Soy el cháman de la tribu. Estoy versado en el arte de la curación.}
 {104}{}{Hola de nuevo.}
