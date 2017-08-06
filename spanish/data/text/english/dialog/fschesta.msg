@@ -4,7 +4,7 @@
 {103}{}{Saludos. Por favor, introduzca su contraseña para confirmar su identidad.}
 {104}{}{? No entiendo palabras raras.}
 {105}{}{TIUASPO-Lo-Shi-S12908}
-{106}{}{::piratear la computadora::}
+{106}{}{Piratear la computadora.}
 {107}{}{Salir.}
 {108}{}{Base de datos Química: Combustible y derivados  - Polímeros}
 {109}{}{Combustible y derivados.}
@@ -12,7 +12,7 @@
 {111}{}{Desactivar estación de trabajo.}
 {112}{}{Salir.}
 {113}{}{Por favor, hable con el administrador del sistema. Adiós.}
-{114}{}{::piratear la computadora::}
+{114}{}{Piratear la computadora.}
 {115}{}{Te marchas.}
 {116}{}{Activada alerta de intrusión. Apagando. Que tenga un buen día.}
 {117}{}{[HECHO]}
@@ -34,6 +34,6 @@
 {133}{}{[MÁS]}
 {134}{}{La computadora no responde a ningún comando.}
 {135}{}{No parece que puedas encontrar nada en lo que poner eso.}
-{136}{}{Adivinar contraseña.}
+{136}{}{Adivinar la contraseña.}
 {137}{}{Dirigir combustible a través del oleoducto.}
 {138}{}{Destino requerido.}

@@ -471,7 +471,7 @@
 {3070}{}{Sulik, ¿puedes consultar a los espíritus acerca de mí?}
 {3071}{}{Sulik, por favor, guarda tu arma.}
 {3080}{}{Tu no migo de mí. Abuelo Hueso dice yo no hablo contigo.}
-{3200}{}{Yes, I spoke with Mrs. Buckner regarding your debt. I just now need to make all the arrangements with Maida. I'll check with you again after I speak  with her.}
-{3500}{}{We and I think something be wrong with us. You better be having a look at this limb of ours.}
+{3200}{}{Si, he hablado con la señora Buckner acerca de tu deuda. Ahora sólo necesito llegar a un acuerdo con Maida. Volveré a hablar contigo después de hacerlo con ella.}
+{3500}{}{Nosotros y yo pensamos algo marcha mal con nosotros. Tú mejor echar vistazo a este miembro nuestro.}
 {3501}{}{Nosotros y yo pensar que tu pequeña cabeza de abajo estar pensando por ti.}
-{3502}{}{We and I think something be wrong with us. We be feeling poisoned.}
+{3502}{}{Nosotros y yo pensamos algo marcha mal con nosotros. Nosotros sentir envenenados.}

@@ -46,7 +46,7 @@
 {136}{}{Umm… sí. Te miro.}
 {137}{}{¿Tú? ¿Listo? ¡Ja!}
 {138}{}{Claro. Adiós.}
-{139}{}{Wha'?}
+{139}{}{¿Qué?}
 {140}{}{Nada.}
 {141}{}{Sí, creo que es una de las personas más sabias que haya conocido. Jacob es inteligente, pero no tan
  honesto como Franc.}

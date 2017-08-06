@@ -61,5 +61,4 @@
 {221}{}{¡Oh, no! ¡Los fantasmas no! Sabía que teníamos que haber quemado ese sitio hasta los cimientos. No les dejaré que me arrebaten a mi hijo... Voy a recuperar a mi Jonny, cueste lo que cueste. ¡Estoy seguro de que los habitantes de Modoc me ayudarán a recuperarlo! Reúnete con nosotros en la Granja Fantasma. ¡Vamos a matarlos a todos!}
 {230}{}{Has conseguido traer a Jonny sano y salvo de vuelta a Modoc.}
 {240}{}{Por favor, tráeme de vuelta a mi hijo.}
-{2199}{}{That's Jonny's BB gun all right...I don't believe he is dead. Please keep looking for my boy. I
- am sure he is still out there.}
+{2199}{}{Ese es el rifle de aire comprimido de Jonny... No creo que esté muerto. Por favor, sigue buscando a mi chico. Estoy seguro de que aún sigue ahí fuera.}

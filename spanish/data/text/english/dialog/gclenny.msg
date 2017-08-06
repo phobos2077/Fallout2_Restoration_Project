@@ -109,7 +109,7 @@
 {373}{}{¿No puedes soportarlo, eh? Bueno, será mejor que arrastres tu cuerpo a medio pudrir lejos de aquí antes de que decida si liquidarte vale un cartucho o no.}
 {374}{}{*Eructo* Sí, lo que sea. Supongo que tienes otras cosas que hacer, como gastar tu tiempo libre intentando recordar cómo era tener una piel que no parecía como el cadáver podrido de una rata atropellada en pleno julio. Vete de aquí, jodido fenómeno.}
 {375}{}{De acuerdo.}
-{380}{}{¿Qué quieres que haga?}
+{380}{}{¿Q-Qué q-quieres que haga?}
 {381}{}{Lenny, sé que lo estás intentando, pero por favor, quítate de mi camino.}
 {382}{}{Necesito que pelees de una manera distinta, Lenny.}
 {383}{}{Quiero que esperes aquí.}
@@ -131,7 +131,7 @@
 {413}{}{Quiero que estés lejos de mí.}
 {414}{}{Necesito que explores por delante.}
 {415}{}{No importa.}
-{420}{}{¿Qué quieres que haga?}
+{420}{}{¿Q-Qué quieres q-que haga?}
 {421}{}{Por ahora quiero que pelees de manera defensiva.}
 {422}{}{Necesito que pelees normalmente.}
 {423}{}{Necesito que pelees de manera agresiva.}
@@ -182,7 +182,7 @@
 {533}{}{No importa.}
 {540}{}{No puedo hacer eso. El solo hecho de p-pelear es más que lo que estos viejos huesos míos pueden aguantar.}
 {541}{}{Vale. no importa.}
-{1000}{}{¿Qué quieres que haga?}
+{1000}{}{¿Q-Qué q-quieres que haga?}
 {1100}{}{E-estoy bien.}
 {1200}{}{Tengo algunas heridas m-menores, pero puedo seguir.}
 {1300}{}{Esa es una buena idea. Me estaba preguntando cuando nos detendríamos para hacer eso, estoy bastante lastimado.}

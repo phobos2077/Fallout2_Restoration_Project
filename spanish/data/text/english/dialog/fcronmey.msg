@@ -39,7 +39,7 @@
 {138}{}{Es bastante simple. Un día simplemente abandoné la base Navarro y me dirigí aquí. Supuse que sería el último lugar en el que nadie miraría. Además, no soy lo bastante importante para el Enclave como para que me busquen: sólo soy un cabo suelto.}
 {139}{}{¿Qué es exactamente el Enclave?}
 {140}{}{Gracias. Adiós.}
-{141}{}{Hay una gran plataforma petrolífera Poseidon perdida en el mar. Es la última base del Enclave, y a menos que pierda mi apuesta, también es donde están tus amigos.}
+{141}{}{Hay una gran plataforma petrolífera Poseidon perdida en el mar. Es la última base del Enclave.}
 {142}{}{¿Cómo sabes todo esto?}
 {143}{}{¿Qué más está pasando por la plataforma?}
 {144}{}{Gracias. Adiós.}

@@ -93,6 +93,6 @@
 {1700}{}{}
 {1800}{}{No, no, mi dulcecito. Necesito estar cerca de ti.}
 {1900}{}{Pero entonces no estaría cerca de ti, terroncito.}
-{2000}{}{I think I broke a limb, lover. Better take a look.}
-{2001}{}{I feel feverish, lover. I think I am radiated.}
-{2002}{}{I feel very sick, lover. I think I am poisoned.}
+{2000}{}{Creo que me he roto un miembro, amor. Échame un vistazo.}
+{2001}{}{Me siento sofocada, amor. Creo que estoy irradiada.}
+{2002}{}{Estoy muy enferma, cariño. Creo que estoy envenenada.}

@@ -17,7 +17,7 @@
 {116}{}{Activada alerta de intrusión. Apagando. Que tenga un buen día.}
 {117}{}{-hecho-}
 {118}{}{"Con la reciente adquisición de planos de un vertibird, la posibilidad de crear una máquina voladora viable ha dado un cualitativo paso adelante. Esperamos tener un prototipo funcional a finales de año, y la habilidad de producir en masa este tipo de vehículos en dos años". -Dr. Wong}
-{119}{}{::copiar planos:: Atrás.}
+{119}{}{::copiar planos::}
 {120}{}{Atrás.}
 {121}{}{"Aún estamos preparando un modelo funcional de un vehículo aéreo. Ninguno de los diseños que hemos creado han demostrado ser seguros o aerodinámicos. Quizá si tuviéramos acceso a los planos de los antiguos..." -Dr. Wong}
 {122}{}{Atrás.}

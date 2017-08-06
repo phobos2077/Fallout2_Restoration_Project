@@ -6,7 +6,7 @@
 {105}{}{¿Vendes cosas?}
 {106}{}{No, marcho.}
 {107}{}{Necesito cierta información.}
-{108}{}{Desde luego, muéstrame lo que tienes a la venta.}
+{108}{}{Muéstrame lo que tienes a la venta.}
 {109}{}{Nada, ya me marcho.}
 {110}{}{Información, ¿eh? Bien, pues ni yo soy una biblioteca ni esto es una sala de computadoras. Bebe algo o lárgate de aquí. ¿Quieres un poco de licor o no?}
 {111}{}{Sí.}

@@ -106,7 +106,7 @@
 {412}{}{Miria}
 {413}{}{Davin}
 {414}{}{Eh, Bo, ¿podemos pasar a la parte de los votos matrimoniales?}
-{420}{}{You're not going anywhere, boy!}
+{420}{}{¡No vas a ir a ninguna parte, chico!}
 {421}{}{Esto me pasa por mandar a un neanderthal. ¡Ve!}
 {452}{}{ era algo rarito, pero esto... ¡Sólo hay una forma de arreglarlo!}
 {453}{}{. ¡Sólo hay una forma de arreglar esto!}

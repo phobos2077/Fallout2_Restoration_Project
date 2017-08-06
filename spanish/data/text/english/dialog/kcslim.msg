@@ -120,4 +120,4 @@
 {403}{}{Me pregunto que le habrá pasado a esas ratas.}
 {404}{}{Que se vaya al diablo esa basura roedora.}
 {405}{}{Tú eres un flautista mágico, ¿no? Gracias.}
-{406}{}{No way. I will only trade this here key for something you got. No fast talk.}
+{406}{}{Ni de broma. Tan sólo te daré esta llave a cambio de algo. No hay más que hablar.}

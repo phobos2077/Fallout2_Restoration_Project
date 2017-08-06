@@ -7,7 +7,7 @@
 {122}{}{No me molestes. No te lo advertiré de nuevo.}
 {123}{}{Suficiente. ¡Zomak! ¡Mátalo por mí!}
 {130}{}{La Renovación está por llegar. Pero no se acercará más a menos que te muevas y
- repares nuestro reactor atómico. (para sí mismo) Humanos... son tan decepcionantes.}
+ repares nuestro Reactor Atómico. (para sí mismo) Humanos... son tan decepcionantes.}
 {131}{}{¿Reparar el reactor atómico?}
 {132}{}{Oh, sí. Bien, me marcho entonces. Adiós.}
 {140}{}{Huelo uno de mis talismanes en ti, pero no recuerdo haberte dado uno.}
@@ -44,7 +44,7 @@
 {230}{}{Reparar el reactor ha sido un excelente primer paso. Se necesita uno más para asegurar la supervivencia tanto de Gecko como de Ciudad Refugio.}
 {231}{}{¿Un paso más?}
 {232}{}{Vaya, de repente eres todo un buen samaritano.}
-{233}{}{Creo que he hecho más que suficiente. Adiós.}
+{233}{}{Creo que he escuchado más que suficiente. Adiós.}
 {234}{}{¿Por qué una rata gigante parlante está tan preocupada acerca de todo esto?}
 {240}{}{Has hecho bien. Ciudad Refugio y Gecko tienen motivos para regocijarse. Con nuestro reactor trabajando al máximo de eficiencia, mi plan para dominar el mundo puede estar cerca de rendir sus frutos. Ahora puedes retirarte. Tengo trabajo que hacer.}
 {241}{}{Bueno, lo cierto es que no lo hice por ti. Adiós.}
@@ -209,5 +209,5 @@
 {700}{}{No tengo nada más que decirte.}
 {701}{}{Parece que Gordon ya te ha dado este Disco de Data de Económico del que hablo. Llévelo inmediatamente a Cuidad Refugio.}
 {702}{}{Estoy en ello.}
-{703}{}{Quizá más tarde.}
+{703}{}{Umm... sí, quizá más tarde.}
 {4211}{}{Eh, supongo que será mejor que me ponga en marcha por lo de la central. Adiós.}

@@ -107,7 +107,7 @@
 {380}{}{Sí, de alguna manera no me sorprende mucho. Oh Dios, le grité a mi pobre chico cuando ni siquiera era culpa suya (sollozo). Esos Dunton me las pagarán. Esta vez han ido demasiado lejos.}
 {381}{}{Siento oír eso. ¿A dónde cree que fue Torr?}
 {390}{}{Vale.}
-{400}{}{What? My Smiley is...}
+{400}{}{¿Qué? Mi Smiley está...}
 {401}{}{¿Quién? ¿He dicho Smiley? Oh, no, no, no. No sé donde está. Eh, mire, déjeme preguntarle una cosa.}
 {402}{}{Sí, está muerto. Se lo comieron los geckos.}
 {403}{}{Sólo bromeaba. Yo, eh... le he visto. Dijo que se había ido con otra mujer. ¡Caray! Mira qué tarde es. Debo irme ya.}

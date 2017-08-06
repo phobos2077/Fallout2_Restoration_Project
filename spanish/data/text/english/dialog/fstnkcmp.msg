@@ -8,10 +8,10 @@
 {107}{}{Comprobar estado.}
 {108}{}{Desconectarse}
 {109}{}{-Depósitos de combustible: Vacíos- -Bodega de carga: Vacía- -Computadora de navegación: No Funcional- -Amarras: Acopladas-}
-{110}{}{VOLVER}
+{110}{}{[VOLVER]}
 {111}{}{Desconectarse.}
 {112}{}{-Depósitos de combustible: Llenos- -Bodega de carga: Vacía- -Computadora de navegación: No Funcional- Amarras: Acopladas-}
-{113}{}{VOLVER}
+{113}{}{[VOLVER]}
 {114}{}{Desconectarse}
 {115}{}{ERROR: Depósitos de combustible vacíos.}
 {116}{}{ERROR: Computadora de navegación no funcional.}

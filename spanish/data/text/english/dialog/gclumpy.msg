@@ -19,7 +19,7 @@
 {143}{}{¿Qué haces aquí?}
 {144}{}{Eso es realmente interesante. ¿Quién eres?}
 {145}{}{Tengo curiosidad acerca de algunas cosas.}
-{146}{}{Un placer conocerte, Grumoso. Adiós.}
+{146}{}{Un placer conocerte. Adiós.}
 {150}{}{Hola. Probablemente has venido aquí a ver a Skeeter. La verdad es que no me hago cargo de las cosas técnicas. Solo estoy aquí para ayudar.}
 {151}{}{Keeter. Je, je, je.}
 {152}{}{¿Quién eres?}

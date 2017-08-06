@@ -10,7 +10,7 @@
 {121}{}{Cariño, me rompes el corazón cada vez que abres la boca. Quizás en otro momento pueda llevarte al barrio de los tramperos y enseñarte mis 'grabados' (je, je). Adiós, preciosa.}
 {130}{}{Bien, señor, quizás nos veamos de nuevo más tarde. Adiós.}
 {131}{}{Bien, espero verte de nuevo por aquí, preciosa. Adiós.}
-{140}{}{Humph, I don't want you as my drinking partner. Now git.}
+{140}{}{Humph, no quiero que seas mi compañero de borracheras. Vete.}
 {141}{}{Humph, creo que sería mejor que fuera a la Casa de Baños de Sally que perder el tiempo contigo. Vete.}
 {150}{}{Saludos, forastero. Mi nombre es Whisky Bob. ¿Cuál es el tuyo?}
 {151}{}{Mi nombre es }

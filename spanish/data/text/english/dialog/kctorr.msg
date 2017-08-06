@@ -19,7 +19,7 @@
 {141}{}{Yo Torr.}
 {142}{}{Tú Torr. (Hola, Torr. Tengo un par de preguntas que hacerte.)}
 {143}{}{Encantado de conocerte, Torr. ¿Últimamente ha ocurrido algo interesante por aquí?}
-{144}{}{I am here about the brah- err, I mean moo-moos.}
+{144}{}{Estoy aquí por los brah... err, los mu-mus.}
 {150}{}{Yo protejo mu-mus de hombres bicho. (Protejo a los brahmines de nuestra familia de los feroces ataques nocturnos de criaturas bípedas con caparazón a las que yo llamo hombres bicho.)}
 {151}{}{Yo protejo mu-mus de hombres bicho.}
 {152}{}{¿Home-micho? (¿Hombres bicho? Si, parece un apelativo correcto para tu descripción. Háblame de ellos.)}

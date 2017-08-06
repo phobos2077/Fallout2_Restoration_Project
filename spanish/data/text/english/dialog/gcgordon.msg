@@ -59,8 +59,8 @@
 {301}{}{No creo que en Ciudad Refugio sean muy receptivos ante datos de los necrófagos.}
 {302}{}{No, aún no lo he hecho... pero lo haré. Adiós.}
 {303}{}{Entregar esos datos a Cuidad Refugio es sólo uno de los muchos pasos que necesitas realizar. Nuestra planta de energía atómica esta apenas operativa y necesita ser arreglada.}
-{304}{}{Me pondré a ello ahora mismo, sheriff. Adiós.}
-{305}{}{Quizá en algún otro momento.}
+{304}{}{Me pondré a ello ahora mismo. Adiós.}
+{305}{}{Sí, quizá en algún otro momento.}
 {310}{}{Gracias por reparar nuestra central nuclear. El plan del viejo Gordon de Gecko está yendo de maravilla. La codicia es una cosa maravillosa. Deberías estar orgulloso de formar parte de esto.}
 {311}{}{La codicia es buena, ¿cierto, Gordon? Bueno, tengo mis propios planes en los que trabajar. Adiós.}
 {320}{}{Estamos condenados, todos estamos condenados. Nada puede salvarnos ahora. Vete de aquí.}
