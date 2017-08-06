@@ -31,10 +31,10 @@
 {315}{}{Oh mierda, parece que tenemos un intruso. ¡Código Rojo! ¡Repito, código Rojo!}
 {316}{}{Eso suena como un buena idea. Toques el avión de nuevo y pondré una bala en tu cabeza.}
 {320}{}{Cierto. Y por lo tanto eres...}
-{321}{}{Aún no. Siento molestarte.}
+{321}{}{Ya me iba. Siento molestarte.}
 {322}{}{A punto de entregar un mensaje importante a la base principal.}
-{323}{}{¿Oh? ¿Y qué decía ese rumor?}
-{324}{}{Lo siento. No puedo ayudarte.}
+{323}{}{Oh, ¿de verdad? ¿Y qué dice ese mensaje?}
+{324}{}{Es súper secreto. No puedo decírtelo.}
 {325}{}{Te lo diré, pero es absolutamente esencial que no reveles esta información a nadie más, por miedo a un pánico masivo. Verá, se me ha llamado la atención que uno de los envíos de esclavos recientes está infectado con una cepa de virus desconocida y altamente mortal. *Debo* llegar a la base inmediatamente, o todos nuestras vidas podrían pederse. Ahora deja de perder mi tiempo, no hay un momento de sobra.}
 {326}{}{Vaya, tenemos un intruso entre nosotros.}
 {327}{}{¡Maldición! Ah, lo que sea. Nunca me dicen cosas por aquí. Bueno. Este en tu camino.}
