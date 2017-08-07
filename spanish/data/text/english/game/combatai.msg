@@ -562,10 +562,10 @@
 {1630}{}{Ese es mi hígado, ¡devuélvemelo!}
 {1631}{}{Sólo un poco más a la derecha, ahhh, así mejor.}
 {1632}{}{¡Gerrk!}
-{1633}{}{What's that musty smell? Oh, it's my innards.}
-{1634}{}{Now that you've eviscerated me, I'm sooo svelte! Thanks!}
-{1635}{}{./~ I left my heart.../~}
-{1636}{}{That tickled my ribs.}
+{1633}{}{¿Qué es ese olor mohoso? Oh, mis entrañas.}
+{1634}{}{Ahora que me has destripado, estoy taaan esbelto... ¡Gracias!}
+{1635}{}{[Canta] Te dí mi corazón...}
+{1636}{}{Caricias para mis costillas.}
 {1637}{}{¿Qué es ese olor mohoso? Oh, son mis entrañas.}
 {1638}{}{Un poco más a la orilla, doctor.}
 {1639}{}{Arrggghh, ¡mi columna!}
@@ -606,7 +606,7 @@
 {1690}{}{No eres nada caballeroso.}
 {1691}{}{¡Ooooouuuuch!}
 {1692}{}{¡Unnhhhhh!}
-{1693}{}{Maybe if I just don't move for a while....}
+{1693}{}{Tal vez debería no moverme durante un rato...}
 {1694}{}{That's my beef bologna!}
 {1695}{}{There goes my social life.}
 {1696}{}{Quizá si no me muevo en un rato...}

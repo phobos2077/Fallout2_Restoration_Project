@@ -84,7 +84,7 @@
 {358}{}{Ni de coña. Perdona por molestarte.}
 {370}{}{Muy bien, genio. Pagamos 5… er, 3 fichas por rodaje. Entra en la habitación trasera y encera el mandoble de ese tipo.}
 {371}{}{Mandoble… menudo hijoputa --}
-{372}{}{Haces lo que dice el hombre.}
+{372}{}{[Haces lo que dice el hombre]}
 {380}{}{Vigila tu bocaza.}
 {381}{}{¡Estoy hablando de Mandoble!}
 {390}{}{(Levanta las manos). Ya lo pillo.}
@@ -115,7 +115,7 @@
 {455}{}{¡Hagámoslo entonces! ¡No hay tiempo que perder! ¡Eh! ¡Que alguien me traiga un extra! }
 {456}{}{Muy bien, amigo, hora de brillar…}
 {457}{}{Muy bien, tetazas, hora de brillar…}
-{458}{}{Haces lo que hombre extraño dice…}
+{458}{}{[Haces lo que hombre extraño dice]}
 {459}{}{Puedes apostar. Aún no has visto NADA.}
 {465}{}{Lo siento, amigo, no eres lo bastante FLEXIBLE para lo que necesitamos. Mejora eso, y puede que podamos hablar de negocios más tarde, ¿vale?}
 {466}{}{Lo siento, tetazas, no eres lo bastante FLEXIBLE para lo que necesitamos. Mejora eso, y puede que podamos hablar de negocios más tarde, ¿vale?}
@@ -154,16 +154,16 @@
 {528}{}{No hay regalías, no hay }
 {535}{}{¡Muy bien! "}
 {536}{}{¡Achtung! ¡Achtung!}
-{537}{}{Vamos al grano.}
+{537}{}{[Vamos al grano]}
 {545}{}{Eh… no ESE nombre, ¿vale? Mala asociación. Quiero decir que nadie quiere ver al alguien que se llame así en cualquier obra porno decente.
  Elije otro nombre, ¿vale?}
-{546}{}{De acuerdo.}
+{546}{}{De acuerdo...}
 {547}{}{Pero yo GUSTA de verdad el nombre}
 {548}{}{Pero realmente me gusta ese nombre.}
 {555}{}{Eso sí, ESE es un nombre tan brillante y bien definido, que simplemente EXPLOTARÁ por ser tan poderoso! Buena elección, amigo, buena elección. ¡Ahora, a FILMAR! ¡Luces! ¡Cámara! ¡Acción!}
 {556}{}{Eso sí, ESE es un nombre con historia y magia asociadas. Buena elección, amigo, buena elección. ¡Ahora, a FILMAR! ¡Luces! ¡Cámara! ¡Acción!}
 {557}{}{Eso sí, ESE es un nombre con historia y magia asociadas. Buena elección, tetazas, buena elección. ¡Ahora, a FILMAR! ¡Luces! ¡Cámara! ¡Acción!}
-{558}{}{Eso sí, ESE es un nombre tan brillante y bien definido, que simplemente EXPLOTARÁ por ser tan poderoso! Buena elección, amigo, buena elección. ¡Ahora, a FILMAR! ¡Luces! ¡Cámara! ¡Acción!}
+{558}{}{Eso sí, ESE es un nombre tan brillante y bien definido, que simplemente EXPLOTARÁ por ser tan poderoso! Buena elección, lindas tetas, buena elección. ¡Ahora, a FILMAR! ¡Luces! ¡Cámara! ¡Acción!}
 {565}{}{¡Bien! ¡Bien! ¡Vamos a hacerlo, gente! ¡Venga! ¡Muévete! ¡Estás listo?}
 {566}{}{Listo calisto}
 {567}{}{NACÍ preparado.}
@@ -192,7 +192,7 @@
 {622}{}{Antes de nada, ¿qué es este lugar?}
 {623}{}{Si hay un sueldo fijo de por medio, me interesa.}
 {630}{}{De acuerdo entonces. Ve a la parte de atrás y empieza a encerar trancas. Aquí está tu paga: 5 fichas.}
-{631}{}{Haz lo que dice.}
+{631}{}{[Haz lo que dice.]}
 {632}{}{Um, en realidad he cambiado de opinión. No, gracias. Será mejor que me marche ahora.}
 {640}{}{Tu esposa, ¿eh? Hmmmmm. Pues vale. Que tu costilla se dirija a la parte de atrás, y empiece a sacarle brillo a las trancas. Aquí está el pago: 3 fichas.}
 {641}{}{Haz lo que dice el hombre, cariño. Que }
@@ -264,7 +264,7 @@
 {797}{}{Claro. ¿Hablas en serio?}
 {799}{}{No en este momento. Perdona por molestarte.}
 {805}{}{¡Diablos, claro! ¡Vamos a intentarlo! ¡Oid! ¡Traedme algunos extras aquí! ¡Tenemos una estrella en ciernes!}
-{806}{}{Haces lo que el hombre indica.}
+{806}{}{[Haces lo que el hombre indica.]}
 {810}{}{Los Hermanos Corsican a tu servicio… (El hombre te mira irritado y entonces hace un gesto de sorpresa). La madre que me... eh… oye, ¿cómo estás, }
 {812}{}{N-nada}
 {813}{}{¿Qué es este lugar?}
@@ -276,7 +276,7 @@
 {829}{}{Hoy nada. Perdón por molestarte.}
 {835}{}{Um, claro. Desde luego. Te haremos una, eh, prueba. Veamos si tienes lo que se necesita. Quiero decir, esto no es para todos, pero
  podemos hacer una prueba, ¿vale? Eh… unos extras por aquí, por favor! ¡Aprisa!}
-{836}{}{Haces lo que el hombre indica.}
+{836}{}{[Haces lo que el hombre indica.]}
 {845}{}{¡Um, claro, claro! Desde luego... aquí tienes. 250 fichas. Y, eh, saluda a Gran Jesús de mi parte, ¿vale?}
 {846}{}{¡Um, claro, claro! Desde luego... lamento el malentendido. Aquí tienes. 250 fichas. Y, eh, saluda a Gran Jesús de mi parte, ¿vale?}
 {847}{}{Antes de que todos os apresuréis a sacarme de aquí, ¿por qué no me hablas de tu pequeña operación, liante?}

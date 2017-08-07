@@ -51,7 +51,7 @@
 {230}{}{¿Has visto a Jules por aquí? Necesito un apaño.}
 {231}{}{¿Has visto a Jeta Jimmy J. por ahí? Necesito un apaño.}
 {232}{}{Estoy buscando la farmacia de Renesco. Renesco me pondrá a tono.}
-{233}{}{Sé que Fallout 2 no es un juego 3D, pero aún así debería funcionar con mi nueva tarjeta 3DFX.}
+{233}{}{Sé que Fallout 2 no es un juego 3D, pero aún así debería funcionar con mi nueva tarjeta GeForce.}
 {240}{}{[canta] Sólo quiero volar. Pon tus brazos alrededor de mí, nena, pon tus brazos alrededor de mí, nena.}
 {241}{}{[canta] Rocketman, quemando el mmm mmm mmm…}
 {242}{}{¡Cuidado! Garra mortal rosa, a las tres en punto!}
@@ -69,7 +69,7 @@
 {254}{}{Eh, eh… ¿a dónde ha ido el cielo…?}
 {255}{}{Si mi ropa no deja de hablarme, voy a tener que quitármela.}
 {256}{}{Mi zapatos están respirando.}
-{257}{}{Sé que Fallout 2 no es un juego 3D, pero aún así debería funcionar con mi nueva tarjeta 3DFX.}
+{257}{}{Sé que Fallout 2 no es un juego 3D, pero aún así debería funcionar con mi nueva tarjeta GeForce.}
 {258}{}{¡¿Me estás mirando a mí?! ¡¡¿Me estás mirando a mí?!! ¡Te mataré!}
 {270}{}{Eh, te felicitaría por tu victoria sobre el Enclave, pero la cabeza me palpita demasiado. Vuelve por la noche.}
 {271}{}{::Intenta aplaudir, pero falla::}

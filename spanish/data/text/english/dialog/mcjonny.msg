@@ -1,5 +1,5 @@
 {100}{}{Ves a un niño pequeño.}
-{101}{}{Ves a Joey.}
+{101}{}{Ves a Jonny.}
 {102}{}{Pelo rubio, ojos azules: el típico chico americano.}
 {150}{}{¡Buaaaaa!}
 {151}{}{¡Quiero mi perro!}

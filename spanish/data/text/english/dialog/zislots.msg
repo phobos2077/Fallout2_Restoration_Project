@@ -95,7 +95,7 @@
 {2200}{}{(La oyes reírse de ti).}
 {2201}{}{*Ja ja ja, ¿por qué no lo dejas, cariño?*}
 {2202}{}{*Quizá deberías dejar que otro tire de mi palanca*.}
-{2203}{}{(A faint maniacal laugh emanates from the machine.)}
+{2203}{}{(Una débil risa maníaca sale de la máquina).}
 {2204}{}{(Escuchas a la máquina reírse de ti).}
 {2205}{}{(La máquina se mofa de ti).}
 {2206}{}{*Venga, perdedor, no me dejes ahora*.}
@@ -148,7 +148,6 @@
 {3001}{}{! ¡Esta nena necesita un nuevo par de zapatos!}
 {3002}{}{! ¡Papá necesita un rifle de plasma nuevo!}
 {4000}{}{Parece que alguien está bloqueando la máquina.}
-{5000}{}{Jinx the machine into giving you all its money.}
-{5001}{}{The machine appears to freeze and then you hear a faint rumble as an avalanche of coins begin to fall from the
- dispenser.}
+{5000}{}{Jinx la máquina te entrega todo su dinero.}
+{5001}{}{La máquina parece quedarse congelada, y entonces escuchas un rumor leve y una avalancha de monedas comienza a caer desde el dispensador.}
 {5002}{}{[Coleccionas dinero y te alejas.]}

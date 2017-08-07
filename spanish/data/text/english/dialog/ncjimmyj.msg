@@ -44,7 +44,7 @@
 {282}{}{MARCHO DEJA MAR--}
 {283}{}{Oye, el, eh, "estilo de Jimmy J" suena genial y todo eso, y es por eso que tenía unas preg--}
 {284}{}{No, no creo que -}
-{290}{}{¡Sabía que volverías, lo sabía! ¿Acaso Jeta Jimmy J no ha dicho cuál es el ESTILO? Mantenlos felices, y no te defraudarán. Entonces,
+{290}{}{¡Sabía que volverías, lo sabía! ¿Acaso Jeta Jimmy J no ha dicho cuál sería ASÍ? Mantenlos felices, y no te defraudarán. Entonces,
  mi amigo piloto… ¿qué puede hacer Jeta Jimmy J por ti hoy?}
 {291}{}{Vaya, vaya, si es mi "amigo" piloto… ¿vuelves porque NECESITAS algo de Jeta Jimmy?}
 {292}{}{Um... olvidado lo que quería decir. Marcho.}

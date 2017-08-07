@@ -208,7 +208,7 @@ el mismo mensaje continuamente. Aunque seguro que TODAVÍA seguirá saliendo, aunq
 {702}{}{Vaya. Eso ha tocado fondo.}
 {703}{}{Vaya.}
 {704}{}{*Buf*}
-{705}{}{Espero no haberla dejado embarazada.}
+{705}{}{Jeje... Espero no haberla dejado embarazada.}
 {710}{}{(Hablas durante horas. Las chicas de la Garra de la Gata tienen un asombroso conocimiento de la naturaleza humana).}
 {711}{}{(El lugarteniente de los Mordino llega, y parece impresionado contigo. Te conduce hacia el norte de la
  ciudad, a algún lugar conocido como el "Establo").}

@@ -82,7 +82,7 @@
 {353}{}{No dispares. }
 {354}{}{Mientes a }
 {355}{}{ ha matado a montón de gente pequeñita y chillona como tú… ¿igual tú eres lo siguiente?}
-{356}{}{Te alejas.}
+{356}{}{[Te alejas]}
 {360}{}{UH-HUH. Lo vimos.}
 {362}{}{Uh-uh-uh-uh}
 {363}{}{Huh-huh-huh-huh}

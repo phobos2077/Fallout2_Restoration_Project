@@ -1,6 +1,6 @@
 {100}{}{Ves una caja fuerte empotrada.}
 {110}{}{La caja está cerrada.}
-{200}{}{ abre la caja fuerte.}
-{201}{}{ cierra la caja fuerte.}
-{210}{}{ no consigue cerrar la caja fuerte.}
-{211}{}{ no consigue abrir la caja fuerte.}
+{200}{}{Abre la caja fuerte.}
+{201}{}{Cierra la caja fuerte.}
+{210}{}{No consigue cerrar la caja fuerte.}
+{211}{}{No consigue abrir la caja fuerte.}

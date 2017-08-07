@@ -73,7 +73,7 @@
 {378}{}{Quiero paz mundial.}
 {379}{}{Quiero subir por escaleras}
 {380}{}{Quien tú.}
-{381}{}{Te alejas.}
+{381}{}{[Te alejas]}
 {382}{}{¿Qué hay en esas escaleras?}
 {383}{}{Estoy aquí para ver al señor Bishop.}
 {384}{}{Estoy aquí para ver al señor Bishop. Tengo para él un maletín del señor Moore.}
@@ -86,7 +86,7 @@
 {408}{}{QUIERO PAZ EN MUNDO QUIERO PAZ MUNDIAL.}
 {409}{}{DIGO QUE QUIERO SUBIR ESCALERAS}
 {410}{}{QUIEN TU.}
-{411}{}{Arrástrate.}
+{411}{}{[Arrástrate]}
 {412}{}{Déjame pasar.}
 {414}{}{Está bien. Me marcho.}
 {420}{}{Tarado, acabas de ganar un billete a un mundo de dolor.}
@@ -95,8 +95,8 @@
 {423}{}{ sólo quiere estar SOLO pero el MUNDO duele }
 {424}{}{ así que }
 {425}{}{ MASACRAR DÉBILES HUMANOS}
-{426}{}{Gritas y buscas cobertura}
-{427}{}{En silencio te preparas para hacer algo de daño.}
+{426}{}{[Gritas y buscas cobertura]}
+{427}{}{[En silencio te preparas para hacer algo de daño]}
 {428}{}{¡¿Queréis un poco de ESTO, chicos?! ¡¿QUERÉIS MÁS?! Entonces VENID, patéticos HIJOS DE
  PUT --}
 {435}{}{Si no lo sabes, es que no NECESITAS saberlo. Desaparece.}

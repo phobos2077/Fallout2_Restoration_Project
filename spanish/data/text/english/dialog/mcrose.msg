@@ -1,5 +1,5 @@
 {100}{}{Ves a una simpática gordita.}
-{101}{}{Ves a Rico.}
+{101}{}{Ves a Rose.}
 {102}{}{Su pelo gris está recogido en un moño suelto, y camina con un ligero balanceo. No puedes evitar sentirte a gusto junto a ella.}
 {150}{}{Lo siento, hemos cerrado. Un familiar ha fallecido. [sniff]}
 {151}{}{¡Eh! Soy la única que tiene permiso para rebuscar en la caja de objetos perdidos.}

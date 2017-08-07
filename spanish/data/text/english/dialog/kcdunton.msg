@@ -14,7 +14,7 @@
 {131}{}{No creo que tengamos porque contarte nada. De todos modos, ¿qué demonios quieres?}
 {132}{}{¿Qué es lo que quieres de nosotros, pelele?}
 {133}{}{¿Alguno de vosotros ha oído hablar del Kit de Creación del Jardín del Edén?}
-{134}{}{Quiero ser más inteligente.}
+{134}{}{Me gustaría comerciar.}
 {135}{}{¿Tenéis algo de trabajo?}
 {136}{}{Eh, ¿cuál de los Dunton eres tú?}
 {137}{}{¿Habéis oído algo sobre mutilaciones de ganado?}

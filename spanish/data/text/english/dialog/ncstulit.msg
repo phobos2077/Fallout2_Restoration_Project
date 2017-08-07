@@ -26,7 +26,7 @@
 {243}{}{Hola, héroe. ¿Qué puedo hacer por ti?}
 {244}{}{¿Hunh?}
 {245}{}{¿Por qué tú eres taaan pequeñito?}
-{246}{}{Te alejas.}
+{246}{}{[Te alejas]}
 {247}{}{¿Quién eres?}
 {248}{}{Nada. Sólo pasaba por aquí.}
 {250}{}{(Hace un gesto como de disparo). Piérdete, caraculo. Me haces perder el tiempo.}

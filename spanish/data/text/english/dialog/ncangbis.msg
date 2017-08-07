@@ -37,7 +37,7 @@
 {271}{}{Voy yo}
 {272}{}{Yo gusta jugar. Juego conmigo pero sólo yo}
 {280}{}{Exactamente…}
-{281}{}{La sigues.}
+{281}{}{[La sigues]}
 {290}{}{¡Va, venga! ¿Por favoooor? De verdad que quería enseñarte mi dormitorio. Sólo será un momento, te lo prometo.}
 {291}{}{¡No ir! ¡No voy yo! ¡No haces voy yo! ¡No lleves a sitio malo! ¡No!}
 {292}{}{Vaaale. No quiero que pones triste. Voy}
@@ -95,7 +95,7 @@
 {402}{}{No, sólo tenía curiosidad por saber hasta qué punto eras una golfa. Mas tarde, muñeca.}
 {410}{}{Sí, es mejor que sepas cómo están las cosas por aquí. (Te mira de arriba abajo)}
 {411}{}{Uh...}
-{413}{}{(Te quedas de pie incómodamente mientras ella te estudia)}
+{413}{}{[Te quedas de pie incómodamente mientras ella te estudia]}
 {420}{}{De acuerdo entonces... (Te mira de arriba abajo)}
 {422}{}{Vale, así que...}
 {430}{}{(Se encoge de hombros) No le importa. (Frunce el ceño) Bueno, ¿quieres venir a volar conmigo o qué?}
@@ -159,7 +159,7 @@
 {571}{}{Sal de aquí, pequeña zorra. Ahora.}
 {573}{}{Calma. Sólo estaba de broma.}
 {580}{}{(Se burla de ti, luego se da la vuelta y se aleja altivamente)}
-{581}{}{(Te vas).}
+{581}{}{[Te vas]}
 {590}{}{(Continúa mirándote con odio, pero parece dudar. Se muerde el labio, y se aleja a toda prisa)}
 {591}{}{Sí, ESO pensé.}
 {600}{}{(Escupe a tus pies.) Sí, yo también. (Te hace una última mueca despectiva, y se aleja)}
@@ -173,8 +173,8 @@
  En cuanto encuentren la notita que dejaré, todo el mundo hablará de suicidio. Será una TERRIBLE tragedia. Llorarán por los pasillos.}
 {643}{}{(Te marchas).}
 {650}{}{No, creo que esa es una apuesta que TÚ vas a perder, zorra. Tan sólo inténtalo.}
-{651}{}{(La atacas)}
-{652}{}{(La dejas irse)}
+{651}{}{[La atacas]}
+{652}{}{[La dejas irse]}
 {660}{}{Aléjate de mí. No tengo nada que decirte.}
 {661}{}{Papá va a empezar a escuchar TODO tipo de cosas sobre ti muy pronto. Tan sólo espera.}
 {670}{}{No sólo eso, sino que cuando tomo Jet, me vuelvo SALVAJE, y apenas puedo controlarme. Necesito a alguien que sepa cómo

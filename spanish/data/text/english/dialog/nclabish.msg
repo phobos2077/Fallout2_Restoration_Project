@@ -162,7 +162,7 @@
  que pueda hacer por ti?}
 {436}{}{Me gustaría ir con usted ahora a tomar esa copa, si tiene tiempo, señora Bishop.}
 {437}{}{Me gustaría ir con usted a tomar otra… copa, si tiene tiempo, señora Bishop.}
-{438}{}{Tengo algunas preguntas.}
+{438}{}{Tenía algunas preguntas...}
 {439}{}{Nada de momento, gracias. Tengo que irme.}
 {440}{}{¿Y? Yo también. ¿Qué sugieres que esconde mi invitación? ¿Una especie de preludio
  al adulterio? Vamos, no seas ridículo. ¿Entonces vienes?}
@@ -237,14 +237,14 @@
 {543}{}{Tengo que irme.}
 {545}{}{(Acompañas a la señora Bishop a tomar una copa en sus aposentos. Habláis durante un
  rato, y después ella empieza a acariciarte).}
-{546}{}{Vamos a ello.}
+{546}{}{[Vamos a ello.]}
 {547}{}{La abrazas…}
 {548}{}{Eh, señora Bishop, me he acostado con tu hija. Quizá no deberíamos…}
 {549}{}{Antes de "hacerlo", ¿no va a abrir la caja fuerte como su
  hij- er, como es costumbre?}
 {550}{}{De verdad que tengo que irme, señora Bishop.}
 {555}{}{No. Ahora ven aquí.}
-{556}{}{Vamos a ello.}
+{556}{}{[Vamos a ello.]}
 {557}{}{DE VERDAD que tengo que irme, señora Bishop.}
 {560}{}{¡¿Eh?! ¿A dónde tienes que ir precisamente ahora?}
 {561}{}{Donde sea.}
@@ -332,7 +332,7 @@
 {675}{}{(Se encoge de hombros). Nada que decir. Un grupo de asesinos a sueldo, mercenarios,
  putas, camellos y esclavos…(se da la vuelta)… eso es la 'Familia' Bishop. Ojalá
  nunca me hubiese liado con John…}
-{677}{}{Hmmm. Tenía algunas preguntas más...}
+{677}{}{Hmmmm. Tenía algunas preguntas más...}
 {680}{}{¿Y el tuyo lo es? Hmmmph. }
 {681}{}{No, mi 'matrimonio' no tenía nada de saludable. Mi difunto marido se dedicaba
  a acumular poder, y eso rara vez deja lugar para… nada más.}
@@ -350,13 +350,13 @@
 {701}{}{Hmmm. Tal vez pueda… ahora que John ha sufrido su merecido accidente.
  (Sonríe con tristeza.) Tal vez lo haga. Reno se ha vuelto… aburrido (Piensa).
   Tal vez sólo necesite una nueva dirección…}
-{702}{}{Sí, tenía algunas preguntas más...}
+{702}{}{Eh, tenía algunas preguntas más...}
 {705}{}{No (Se gira, mascullando entre sueños). No seas idiota. En cuanto la gente
  se enterase, tendrías que huir durante el resto de tu corta vida.}
 {706}{}{¿Pero qué pasaría si la gente no supiera que he sido yo?}
 {710}{}{(Se remueve y parpadea) ¿De qué estás HABLANDO? No digas tonterías.}
 {711}{}{¿No sé, tal vez una trampa? ¿O algo que parezca un accidente?}
-{712}{}{Está bien... verás, tengo algunas otras preguntas...}
+{712}{}{Está bien. Verás, tengo algunas otras preguntas...}
 {715}{}{(Sus ojos se abren de golpe). Su caja fuerte… tiene explosivos preparados por si
  se fuerza. Sólo es seguro si introduces cierta combinación. Por supuesto, si esa combinación
  fuera cambiada... "reparada"... sin su conocimiento…}
@@ -420,10 +420,10 @@
 {826}{}{(Terminas y te vas).}
 {900}{}{Has convencido a la señora Bishop de que puede cambiar su vida... para mejor.}
 {1253}{}{.}
-{1315}{}{...Dios mío...}
+{1315}{}{...' Por tanto...'}
 {1510}{}{, mmm-mmmm…mmmzmzrrm}
-{1511}{}{Da... oooh...}
-{1512}{}{Mmmm...}
+{1511}{}{... oooh...}
+{1512}{}{... mmm...}
 {1591}{}{. }
 {1665}{}{… (La señora Bishop… Leslie… se vuelve y se incorpora sobre los codos.)
  Su caja fuerte tiene una trampa. Así que ten cuidado, vale? No me sirves
@@ -431,4 +431,4 @@
 {1760}{}{.  El potenciador está en un compartimento en el fondo de la caja… un ladrón
  nunca lo encontraría salvo que supiera qué es lo que busca.}
 {2315}{}{'…¿qué, por amor de Dios, crees que puedo hacer por ti?}
-{2511}{}{... }
+{2511}{}{... mmm}

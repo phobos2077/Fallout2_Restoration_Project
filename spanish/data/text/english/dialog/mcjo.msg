@@ -186,4 +186,4 @@
 {900}{}{Gracias de nuevo, amigo mío, por salvar nuestro pequeño pueblo.}
 {925}{}{De nada. Hasta que nos volvamos a ver.}
 {1000}{}{Has salvado al pueblo de Modoc.}
-{1500}{}{Ves al juez de paz Jo.}
+{1500}{}{Ves al juez suplente de paz Bo.}

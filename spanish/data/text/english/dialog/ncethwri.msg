@@ -141,8 +141,8 @@
 {398}{}{Olvídelo. Mejor me voy.}
 {400}{}{(Aprieta los dientes). ¡Ese veneno inmundo! Creí que podría mantenerlo LEJOS de esa basura, y entonces…}
 {401}{}{¿Puedes decirme dónde podría haber conseguido el Jet?}
-{405}{}{¡No lo sé! (Aprieta los puños). Venden ese veneno en cada esquina de Nuevo Reno! ¡A CUALQUIER PARTE que vayas, lo estarán
- vendiendo…!}
+{405}{}{¡No lo sé! (Aprieta los puños). Venden ese veneno en cada esquina de Nuevo Reno! A CUALQUIER PARTE que vayas, lo estarán
+ vendiendo…}
 {406}{}{¿Sabes de algún traficante en especial?}
 {407}{}{Mira, olvida lo que he dicho. Tenía algunas otras preguntas…}
 {410}{}{No por su nombre. Me conocen lo suficiente como para correr en cuanto me ven… pero se agrupan como moscas a lo largo de la calle Virgin, en la

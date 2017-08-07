@@ -22,7 +22,7 @@
 {166}{}{(Te mira y sacude la cabeza)}
 {167}{}{(Hace un gesto grosero de forma sutil)}
 {168}{}{Estoy seguro de que eres el responsable de la mutilación de ganado.}
-{169}{}{Algunos de los cazadores han desaparecido y probablemente tú seas la causa.}
+{169}{}{Algunos de los tramperos han desaparecido y probablemente tú seas la causa.}
 {170}{}{Hay hombres bicho asustando al pueblo.}
 {171}{}{Hay un espíritu en un cañón al este del pueblo.}
 {172}{}{¡No dejes que los espíritus te pillen!}

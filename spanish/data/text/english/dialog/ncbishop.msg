@@ -12,7 +12,7 @@
 {208}{}{Dejas de balbucear}
 {209}{}{Si eso es lo que quieres tallado en tu lápida, que así sea...}
 {210}{}{Una pobre elección de las últimas palabras.}
-{211}{}{(Intentas huir).}
+{211}{}{[Intentas huir]}
 {220}{}{¿Pero q--? ¿Quién eres tú y qué DEMONIOS quieres?}
 {221}{}{Yo }
 {222}{}{.}
@@ -268,7 +268,7 @@
 {787}{}{Mi hija es MÍA.  Todo lo que ENTRA en mi hija ME pertenece. Puedes elegir, tribal: o me pagas tu
  deuda, o haces el trabajo, y estaremos en paz.}
 {788}{}{Puedes cobrarte la deuda… simplemente ven a buscarla.}
-{789}{}{De acuerdo entonces. Lo haré.}
+{789}{}{De acuerdo entonces. Lo haré...}
 {790}{}{Tu mujer no VALE tanto.}
 {791}{}{Tu hija no VALE tanto.}
 {800}{}{Oye, antes de que te vayas… me gusta el aspecto de tus armas, tribal… me recuerdan cierto rumor que oí no hace

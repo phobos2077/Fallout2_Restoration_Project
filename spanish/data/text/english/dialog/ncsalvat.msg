@@ -20,7 +20,7 @@
 {231}{}{Quiero… no sé qué quiero.}
 {232}{}{Quiero}
 {233}{}{Yo }
-{234}{}{Te alejas.}
+{234}{}{[Te alejas]}
 {235}{}{Tengo información para usted.}
 {236}{}{Tengo información para usted, señor Salvatore.}
 {237}{}{Estoy buscando trabajo.}

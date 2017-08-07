@@ -1,5 +1,5 @@
 {100}{}{¡Oh, Dios! Una maciza muy atractiva.}
-{101}{}{Ves a Brian.}
+{101}{}{Ves a Miria.}
 {102}{}{No estas seguro del porqué, pero las medidas 90-60-90 te vienen a la mente.}
 {150}{}{¡Cabrón!}
 {151}{}{¡Cómo te atreves a volver por aquí!}
@@ -26,7 +26,7 @@
 {179}{}{¿Has mencionado algo sobre Rose?}
 {180}{}{¿Qué es eso de un brahmin mutado?}
 {181}{}{Háblame de Davin.}
-{182}{}{Hablemos de otra cosa…}
+{182}{}{Hablemos de otra cosa.}
 {183}{}{Ah, Rose. La dueña de la 'Posada Rose'. Ahora bien, y esto no me lo has oído decir a mí, ¿te has preguntado alguna vez por qué su gallinero está tan bien protegido? Ella dice que es para proteger a las gallinas de los depredadores, pero si te fijas atentamente da la impresión de que lo que intenta es, en vez de impedir que algo entre, impedir que algo salga. Además, ¿quién ha oído hablar de gallinas que pongan huevos de doce libras?}
 {184}{}{Háblame de más rumores.}
 {186}{}{Es muy extraño, pero he oído que algunos rancheros dicen que de vez en cuando algún brahmin da a luz a un ternero con una sola cabeza. ¡Que cosa más rara!}
@@ -59,8 +59,8 @@
 {250}{}{¡Socorro, papá! ¡Apártalo de mí!}
 {251}{}{¡Vete!}
 {260}{}{¡Socorro, papá! ¡Apártala de mí!}
-{270}{}{¡Socorro, papá! ¡Apártalo de mí!}
-{280}{}{¡Socorro, papá! ¡Apártala de mí!}
+{270}{}{¡Socorro! ¡Apártalo de mí!}
+{280}{}{¡Socorro! ¡Apártala de mí!}
 {400}{}{¡Papi!}
 {401}{}{¡Oh oh!}
 {402}{}{¡Sí quiero!}
@@ -70,7 +70,7 @@
 {413}{}{Um… Sí quiero.}
 {420}{}{¡Tío Biff!}
 {450}{}{Uhhh, es con papi con quien deberías hablar.}
-{470}{}{Uhhh, es con papi con quien deberías hablar.}
+{470}{}{Uhhh, es con tío Biff con quien deberías hablar.}
 {500}{}{Genial, creo que ahora tendré que ser yo la que lleve este basurero.}
 {1000}{}{¿Qué hacemos ahora, querido?}
 {1001}{}{¿Qué hacemos ahora, cariño?}

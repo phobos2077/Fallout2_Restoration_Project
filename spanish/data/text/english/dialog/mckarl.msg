@@ -1,5 +1,5 @@
 {100}{}{Una persona muy borracha. [Tiene un letrero que dice "trabajo a cambio de comida"]}
-{101}{}{Ves a Harold.}
+{101}{}{Ves a Karl.}
 {102}{}{Está tan sucio que adviertes que algunas flores silvestres le están creciendo en el pelo.}
 {150}{}{Eh, una cerveza.}
 {151}{}{Eh, una botella de licor.}

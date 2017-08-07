@@ -150,7 +150,7 @@
 {249}{}{Todo juega en vuestro favor no, ¿eh? Cuénteme el resto de la historia.}
 {250}{prs45}{Es simple. Navarro es una base aislada. Nuestros vertibird tienen corto alcance. Repostan allí.}
 {251}{}{Normal.}
-{252}{prs46a}{Estoy seguro de que lo crees. Pero las pruebas realizadas a los miembros de tu tribu demuestran que sois culpables de mutación. Es una maldita buena cosa que el Proyecto esté preparado.}
+{252}{prs46a}{Estoy seguro de que lo crees. Pero las pruebas realizadas a los miembros de tu tribu demuestran que sois culpables de mutación. Y es una maldita buena cosa que el Proyecto esté preparado.}
 {253}{}{¿Por qué?}
 {254}{prs46b}{Algunos de los miembros de tu tribu muestran cambios extremadamente interesantes. Si el peligro sobre la verdadera humanidad no fuese tan grande me gustaría estudiarlos. Pero no va a ser así.}
 {255}{}{¿No va a ser así? ¿Por qué no?}

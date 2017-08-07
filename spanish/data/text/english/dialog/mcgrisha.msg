@@ -132,13 +132,13 @@
 {1101}{}{Ves a Tío Biff.}
 {1155}{}{Sabía que mi sobrina era rara.}
 {1156}{}{Gente diferente, gustos diferentes, supongo.}
-{1157}{}{Voy a tener que usar hilo dental después de esto.}
+{1157}{}{Me alegro de que Grisham no este vivo para ver esto.}
 {1158}{}{Sabía que mi sobrino era raro.}
 {1159}{}{Supongo que ahora eres parte de la familia.}
 {1160}{}{Cuida bien de mi sobrina.}
 {1161}{}{Cuida bien de mi sobrino.}
 {1228}{}{Chico, no intentes explicar esto. No quiero oírlo. Voy a llamar al predicador, vamos a hacer todo esto legalmente, y te llevarás a mi sobrino contigo cuando te vayas de aquí.}
-{1229}{}{No puedo decir que no este un poco consternado por esto, pero ella no puede quedarse viviendo en esta casa después de lo que he visto. Vosotros dos vais a casaros ahora mismo y a marcharos de aquí.}
+{1229}{}{No puedo decir que no este un poco consternado por esto, pero debo hacer lo que Grisham hubiera querido que hiciera. Vosotros dos vais a venir conmigo y vamos a casaros.}
 {1230}{}{¿Te importaría explicar qué estabas haciendo con mi sobrina?}
 {1231}{}{¿Te importaría explicar qué estabas haciendo con mi sobrino?}
 {1232}{}{Déjeme explicárselo con suavidad, tío Biff. Están las flores y las abejas, sabe, y entonces éstas dejan su semillita }

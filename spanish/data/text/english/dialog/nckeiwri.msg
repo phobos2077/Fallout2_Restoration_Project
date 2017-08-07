@@ -86,5 +86,5 @@
 {471}{}{Gracias.}
 {480}{}{Es el hijo de Gran Jesús. Un bastardo, más bien. Puede que hubiera pillado sólo a Richard, y le llenase de Jet hasta arriba. Si le buscas, mira en el Desperado. Pequeño Jesús pasa el rato por allí con su viejo.}
 {1220}{}{. ¿Qué pasa?}
-{1252}{}{ ¿Todo el mundo te trata bien? ¿Puedo hacer algo por ti?}
+{1252}{}{. ¿Todo el mundo te trata bien? ¿Puedo hacer algo por ti?}
 {1253}{}{. Te debemos una buena, y los Wright siempre pagan sus deudas. ¿Puedo hacer algo por ti?}

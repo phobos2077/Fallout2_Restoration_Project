@@ -1,5 +1,5 @@
 {100}{}{Parece ser alguna clase de guardia.}
-{101}{}{Ves a un ladrón.}
+{101}{}{Ves a un Protector.}
 {150}{}{A pesar de la piel pálida y las grandes pupilas, parece ser una persona normal.}
 {200}{}{¡Joder!}
 {201}{}{¡Oooh! Eso va a doler.}

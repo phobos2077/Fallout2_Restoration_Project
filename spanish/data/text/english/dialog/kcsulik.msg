@@ -473,5 +473,5 @@
 {3080}{}{Tu no migo de mí. Abuelo Hueso dice yo no hablo contigo.}
 {3200}{}{Si, he hablado con la señora Buckner acerca de tu deuda. Ahora sólo necesito llegar a un acuerdo con Maida. Volveré a hablar contigo después de hacerlo con ella.}
 {3500}{}{Nosotros y yo pensamos algo marcha mal con nosotros. Tú mejor echar vistazo a este miembro nuestro.}
-{3501}{}{Nosotros y yo pensar que tu pequeña cabeza de abajo estar pensando por ti.}
+{3501}{}{Nosotros y yo pensamos algo marcha mal con nosotros. Nosotros resplandecer como sol.}
 {3502}{}{Nosotros y yo pensamos algo marcha mal con nosotros. Nosotros sentir envenenados.}
