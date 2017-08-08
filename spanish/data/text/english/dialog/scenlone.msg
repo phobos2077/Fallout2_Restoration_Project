@@ -117,4 +117,4 @@
 {216}{}{Maravilloso, hermana. ¿Cuál es tu nivel?}
 {217}{}{}
 {218}{}{Ganas }
-{219}{}{ de experiencia por encargarte de la Hubologista para Merk.}
+{219}{}{ puntos de experiencia por "encargarte" de la Hubologista para Merk.}
