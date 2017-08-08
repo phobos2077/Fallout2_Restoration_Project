@@ -1,6 +1,6 @@
 # Fallout 2: UP - translation
 <a href="https://tra.bgforge.net/projects/fallout2/up-male/">
-<img src="https://tra.bgforge.net/projects/fallout2/up-male/-/svg-badge.svg" alt="Translation status" />
+<img src="https://tra.bgforge.net/widgets/fallout2/-/svg-badge.svg" alt="Translation status" />
 </a>
 
 [__Support__](https://github.com/BGforgeNet/fallout2-up-translation/issues) | [__Discussion__](https://forum.bgforge.net/viewtopic.php?f=5&p=69)
