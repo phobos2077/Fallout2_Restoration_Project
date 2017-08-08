@@ -1049,10 +1049,10 @@
 {2562}{}{Esto es demasiado fácil.}
 {2563}{}{Es patético...}
 {2564}{}{¡Muy lento!}
-{2565}{}{Perdedora}
+{2565}{}{¡Perdedora!}
 {2600}{}{¡Huid de El Maligno!}
 {2601}{}{Los Espíritus me aconsejan que me salve yo mismo.}
-{2602}{}{Nuestro enemigo ha usado poderosas magias... ¡Huid! ¡Qué alguien busque al chamán!}
+{2602}{}{Nuestro enemigo ha usado poderosa magia... ¡Huid! ¡Qué alguien busque al chamán!}
 {2603}{}{Los espíritus malignos son poderosos en él. ¡La muerte camina sobre la tierra!}
 {2604}{}{¡El Oscuro está aquí!}
 {2605}{}{El Oscuro busca castigarnos. ¡Huid! ¡Mi alma vuela y debo seguirla!}
@@ -1749,7 +1749,7 @@
 {26023}{}{¡Este es mío!}
 {26024}{}{¡Voy por ti!}
 {26025}{}{¡Tus orejas serán un buen trofeo!}
-{26040}{}{Disfruta los últimos segundos de tu vida}
+{26040}{}{¡Disfruta los últimos segundos de tu vida!}
 {26041}{}{¡Sangre! ¡Sangre! ¡Sangre!}
 {26042}{}{¡Tu corazón es mío!}
 {26043}{}{¡Me encanta hacer esto!}
@@ -2181,16 +2181,16 @@
 {36104}{}{¡No será lo último que oigas de Kaga!}
 {36105}{}{¡Pagarás por esto... más tarde!}
 {36120}{}{¡Kaga debería haber sido El Elegido!}
-{36121}{}{Arroyo lamentará haber expulsado a Kaga.}
+{36121}{}{¡Arroyo lamentará haberme expulsado!}
 {36122}{}{¡Kaga se vengará CONTIGO!}
-{36123}{}{Kaga te enviará a la otra vida.}
+{36123}{}{¡Kaga te enviará a la otra vida!}
 {36124}{}{¡Otro Elegido para matar!}
-{36140}{}{Tu mamá no está aquí para ayudarte.}
-{36141}{}{Kaga disfrutará con esto.}
+{36140}{}{!Tu mamá no está aquí para ayudarte!}
+{36141}{}{¡Voy a disfrutar esto!}
 {36142}{}{Oooo, ¡eso te va a doler!}
-{36143}{}{Kaga llevará tu cabeza a la Anciana.}
+{36143}{}{¡Voy a llevar tu cabeza a la Anciana!}
 {36144}{}{¡Kaga se comerá tu hígado!}
-{36145}{}{Espero que no mueras tan pronto como los otros.}
+{36145}{}{¡Espero que no mueras tan pronto como los otros!}
 {36146}{}{¡Otro Elegido para matar!}
 {36147}{}{¡Muere!}
 {36148}{}{Grita para Kaga.}
@@ -2207,16 +2207,16 @@
 {36204}{}{Tú y Kaga os volveréis a ver.}
 {36205}{}{¡Pagarás por esto... más tarde!}
 {36220}{}{¡Después de matarte, Kaga quemará todo Arroyo!}
-{36221}{}{Kaga será temido por todos.}
-{36222}{}{Kaga tendrá tu cabeza como trofeo.}
+{36221}{}{¡Debo ser temido por todos!}
+{36222}{}{¡Kaga tendrá tu cabeza como trofeo!}
 {36223}{}{¡Ríndete y haré que tu muerte sea rápida!}
 {36240}{}{¡Siente la ira de Kaga!}
 {36241}{}{No te molestes en pedir piedad...}
-{36242}{}{Kaga disfrutará con esto.}
+{36242}{}{¡Voy a disfrutar esto!}
 {36243}{}{Oooo, Kaga sintió eso desde aquí.}
-{36244}{}{Kaga llevará tu cabeza a la Anciana.}
+{36244}{}{¡Voy a llevar tu cabeza a la Anciana!}
 {36245}{}{¡Kaga te arrancará tu corazón con una cuchara!}
-{36246}{}{Espero que no mueras tan pronto como los otros.}
+{36246}{}{¡Espero que no mueras tan pronto como los otros!}
 {36247}{}{¡Otro Elegido para matar!}
 {36248}{}{¡Muere!}
 {36249}{}{Grita para Kaga.}
@@ -2237,7 +2237,7 @@
 {36322}{}{¡Lamentarás haber oído el nombre de Kaga!}
 {36323}{}{Las habilidades de Kaga han mejorado desde la última vez que nos vimos.}
 {36340}{}{¡Siente la ira de Kaga!}
-{36341}{}{Kaga disfrutará con esto.}
+{36341}{}{¡Voy a disfrutar esto!}
 {36342}{}{Oooo, Kaga sintió eso desde aquí.}
 {36343}{}{Kaga llevará tu cabeza a la Anciana.}
 {36344}{}{¡Kaga te arrancará tu corazón con una cuchara!}
@@ -2263,11 +2263,11 @@
 {36423}{}{¡Deja que Kaga te enseñe lo que ha aprendido!}
 {36440}{}{¡Siente la ira de Kaga!}
 {36441}{}{Quédate quieto, para que Kaga pueda apuntar bien.}
-{36442}{}{Kaga disfrutará con esto.}
+{36442}{}{¡Voy a disfrutar esto!}
 {36443}{}{Oooo, Kaga sintió eso desde aquí.}
-{36444}{}{Kaga llevará tu cabeza a la Anciana.}
+{36444}{}{¡Voy a llevar tu cabeza a la Anciana!}
 {36445}{}{¡Kaga te arrancará tu corazón con una cuchara!}
-{36446}{}{Espero que no mueras tan pronto como los otros.}
+{36446}{}{¡Espero que no mueras tan pronto como los otros!}
 {36447}{}{¡Otro Elegido para matar!}
 {36448}{}{¡Muere!}
 {36449}{}{Grita para Kaga.}
@@ -2288,11 +2288,11 @@
 {36522}{}{¡Kaga te enviará a tu otra vida!}
 {36523}{}{Kaga te echará de menos.}
 {36540}{}{¡Siente la ira de Kaga!}
-{36541}{}{Kaga será famoso por matarte.}
+{36541}{}{¡Kaga será famoso por matarte!}
 {36542}{}{Kaga disfrutará con esto.}
 {36543}{}{Oooo, Kaga sintió eso desde aquí.}
-{36544}{}{Kaga llevará tu cabeza a la Anciana.}
-{36545}{}{El Elegido morirá aquí.}
+{36544}{}{¡Voy a llevar tu cabeza a la Anciana!}
+{36545}{}{¡El Elegido morirá aquí!}
 {36546}{}{¡Kaga tiene que matarte ahora!}
 {36547}{}{¡Muere!}
 {36548}{}{Grita para Kaga.}
@@ -2327,10 +2327,10 @@
 {36643}{}{¡Grrr! ¡Espera tu muerte!}
 {36644}{}{¡Podrás herirme, pero no me matarás!}
 {36645}{}{¡Ay! Herirme no fue una buena idea.}
-{36660}{}{¡Ahhhgh! ¡Mi pierna}
+{36660}{}{¡Ahhhgh! ¡Mi pierna!}
 {36661}{}{¿Llamas a eso dolor? ¡Me río!}
 {36662}{}{¡Ahhhgh! ¡Voltearé tu cuello por eso!}
-{36670}{}{¡Ahhhgh! ¡Mi pierna}
+{36670}{}{¡Ahhhgh! ¡Mi pierna!}
 {36671}{}{¿Llamas a eso dolor? ¡Me río!}
 {36672}{}{¡Ahhhgh! ¡Voltearé tu cuello por eso!}
 {36680}{}{¡Ahhhgh! ¡Miserable humano! ¡Estoy ciego!}

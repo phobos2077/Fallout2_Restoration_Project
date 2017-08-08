@@ -80,7 +80,6 @@
 {200}{}{Lo Pan detecta tu avance y te escurres de él.}
 {201}{}{Verás, no me gusta que nadie toque mis cosas, así que ve a robarle a otro. Ahora vete.}
 {202}{}{Te advertí que te fueras, para no matarte. Oh, bueno.}
-{203}{}{Parece que necesitas más de mi entrenamiento.}
 {203}{}{¡Ya has hecho la prueba del Dragón!}
 {204}{}{El entrenamiento ha finalizado por hoy. Vuelve mañana.}
 {205}{}{Soy el maestro Khung, tu prueba final.}

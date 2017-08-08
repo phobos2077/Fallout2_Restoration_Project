@@ -20,8 +20,8 @@
 {210}{}{ardiendo}
 {211}{}{traspasa tu armadura}
 {212}{}{tu arma explota}
-{213}{}{Guarda tu arma.}
-{214}{}{Usa tu mejor arma.}
+{213}{}{destruye tu arma}
+{214}{}{tu arma se cae}
 {215}{}{pierdes el siguiente turno}
 {216}{}{te hieres a ti misma}
 {217}{}{pierdes el resto de tu munición}
@@ -43,8 +43,8 @@
 {260}{}{ardiendo}
 {261}{}{traspasa tu armadura}
 {262}{}{tu arma explota}
-{263}{}{Guarda tu arma.}
-{264}{}{Usa tu mejor arma.}
+{263}{}{destruye tu arma}
+{264}{}{tu arma se cae}
 {265}{}{pierdes el siguiente turno}
 {266}{}{te hieres a ti misma}
 {267}{}{pierdes el resto de tu munición}
@@ -66,8 +66,8 @@
 {310}{}{ardiendo}
 {311}{}{traspasando su armadura}
 {312}{}{su arma estalla}
-{313}{}{Vagoneta minera destruida}
-{314}{}{¡Baja el arma! ¡Ya!}
+{313}{}{su arma se destruye}
+{314}{}{su arma se cae}
 {315}{}{pierde su siguiente turno}
 {316}{}{se hiere a sí mismo}
 {317}{}{pierde el resto de su munición}
@@ -89,7 +89,7 @@
 {410}{}{ardiendo}
 {411}{}{traspasa su armadura}
 {412}{}{su arma estalla}
-{413}{}{Generador de energía destruido}
+{413}{}{su arma se destruye}
 {414}{}{su arma se cae}
 {415}{}{pierde el siguiente turno}
 {416}{}{se hiere a si misma}
@@ -487,22 +487,22 @@
 {2017}{}{el regulador}
 {2018}{}{un lugar indefinido}
 {2030}{}{la cabeza}
-{2031}{}{las alas}
-{2032}{}{el tentáculo izquierdo}
-{2033}{}{el metatórax}
+{2031}{}{el aguijón}
+{2032}{}{las antenas}
+{2033}{}{el tórax}
 {2034}{}{las patas traseras}
 {2035}{}{las patas delanteras}
 {2036}{}{los ojos}
 {2037}{}{las alas}
 {2038}{}{un lugar indefinido}
-{5000}{}{Eso realmente duele.}
+{5000}{}{. Eso realmente duele}
 {5001}{}{. provocándole una fea herida}
 {5002}{}{ traspasando su armadura}
 {5003}{}{. El ataque lo deja inconsciente}
 {5004}{}{. El golpe lo tira al suelo}
 {5005}{}{. El fuerte golpe en la cabeza lo deja fuera de combate}
 {5006}{}{. El ataque aplasta su sien. Buenas noches, Gracie}
-{5007}{}{, la muerte es instantánea}
+{5007}{}{. La muerte es instantánea}
 {5008}{}{, causando una grave luxación en el codo}
 {5009}{}{, arrancándole el brazo}
 {5010}{}{, dejando un gran hematoma}
@@ -512,35 +512,35 @@
 {5014}{}{, dejándole el brazo derecho roto}
 {5015}{}{. Su brazo derecho queda pulverizado por este potente golpe}
 {5016}{}{ en un potente golpe}
-{5017}{}{ al perforar sus defensas}
+{5017}{}{, al perforar sus defensas}
 {5018}{}{, provocando aún mas daño}
 {5019}{}{ traspasando su armadura y tumbándole en el suelo}
-{5020}{}{ dejándole sin aire, se derrumba en el suelo, quedando fuera de combate}
+{5020}{}{, dejándole sin aire. Se derrumba en el suelo, quedando fuera de combate}
 {5021}{}{. Desafortunadamente, varios órganos vitales son ahora claramente visibles}
-{5022}{}{ dejando una gran herida en su pierna}
+{5022}{}{, dejando una gran herida en su pierna}
 {5023}{}{, tirándole al suelo como un bolo en medio de una bolera}
 {5024}{}{, tumbándole y rompiéndole esa pierna}
 {5025}{}{, enviándole la rotula a la ciudad mas cercana. Se cae}
 {5026}{}{. el terrible dolor de perder una pierna hace que huya}
-{5027}{}{ provocándole más dolor}
-{5028}{}{. Desafortunadamente para ti, tiene como efectos secundarios la inmediata perdida de visión}
-{5029}{}{, y sin protección ahí, le causa un grave dolor}
+{5027}{}{, provocándole más dolor}
+{5028}{}{. Desafortunadamente para el, causa ceguera}
+{5029}{}{. Sin protección ahí, le causa un grave dolor}
 {5030}{}{, y se queda K.O. por un potente golpe}
 {5031}{}{. La perdida de un ojo es demasiado para él, y se cae al suelo}
-{5032}{}{, está demasiado ocupado notando como el aire entra en su cerebro para darse cuenta de que se muere}
+{5032}{}{. Con tristeza, está demasiado ocupado notando como el aire entra en su cerebro para darse cuenta de que se muere}
 {5033}{}{. ¡Ouch! Eso tuvo que doler}
 {5034}{}{, y tampoco lleva coquilla}
-{5035}{}{ y sin protección, se cae, gimiendo de agonía}
+{5035}{}{. Sin protección, se cae, gimiendo de agonía}
 {5036}{}{. El dolor es demasiado para él y se desploma como un castillo de naipes}
 {5037}{}{. Susurra "Mamá", mientras sus ojos se quedan en blanco}
-{5100}{}{Eso realmente duele.}
+{5100}{}{. Eso realmente duele}
 {5101}{}{. provocándole una fea herida}
 {5102}{}{ traspasando su armadura}
 {5103}{}{. El ataque la deja inconsciente}
 {5104}{}{. El golpe la tira al suelo}
 {5105}{}{. El fuerte golpe en la cabeza la deja fuera de combate}
 {5106}{}{. El ataque aplasta su sien. Buenas noches, Gracie}
-{5107}{}{, la muerte es instantánea}
+{5107}{}{. La muerte es instantánea}
 {5108}{}{, causando una grave luxación en el codo}
 {5109}{}{, arrancándole el brazo}
 {5110}{}{, dejando un gran hematoma}
@@ -550,19 +550,19 @@
 {5114}{}{, dejándole el brazo derecho roto}
 {5115}{}{. El golpe convierte su brazo derecho en carne picada}
 {5116}{}{ en un potente golpe}
-{5117}{}{ al perforar sus defensas}
+{5117}{}{, al perforar sus defensas}
 {5118}{}{, provocando aún mas daño}
 {5119}{}{ traspasando su armadura y tumbándola en el suelo}
-{5120}{}{, dejándola sin aire, se desploma en el suelo}
+{5120}{}{, dejándola sin aire. Se desploma en el suelo}
 {5121}{}{. Desafortunadamente, varios órganos vitales son ahora claramente visibles}
-{5122}{}{ dejando una gran herida en su pierna}
+{5122}{}{, dejando una gran herida en su pierna}
 {5123}{}{, dejándola tirada como a una mala cita a ciegas}
 {5124}{}{, tumbándola y rompiéndole esa pierna}
 {5125}{}{, enviándole la rotula a la ciudad mas cercana. Se cae}
 {5126}{}{. Grita por el dolor de su pierna rota}
-{5127}{}{ provocándole más dolor}
-{5128}{}{ causando ceguera. Gime de dolor}
-{5129}{}{, y sin protección ahí, le causa un grave dolor}
+{5127}{}{, provocándole más dolor}
+{5128}{}{, causando ceguera. Gime de dolor}
+{5129}{}{. Sin protección ahí, le causa un grave dolor}
 {5130}{}{. La herida le causa una severa ceguera, como si hubiese mas de un tipo de ceguera}
 {5131}{}{. Se desmaya por el potente golpe}
 {5132}{}{, por desgracia, no tiene tiempo de rezar sus ultimas oraciones}

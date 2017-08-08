@@ -66,7 +66,6 @@
 {462}{}{Mantis}
 {463}{}{Garras mortales}
 {464}{}{Plantas}
-{465}{}{}
 {465}{}{Esta línea muestra el número de hombres a las que has matado durante el curso de tus aventuras.}
 {466}{}{Esta línea muestra el número de mujeres a las que has matado durante el curso de tus aventuras.}
 {467}{}{El número de niños a los que has matado durante el curso de tus aventuras. Monstruo.}

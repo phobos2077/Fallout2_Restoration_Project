@@ -32,11 +32,8 @@
 {282}{}{Te alejas}
 {283}{}{¿Quién eres?}
 {284}{}{¿Qué casino es éste?}
-{285}{}{Nada de mutantes. Tendrá que esperar fuera.}
 {285}{}{¿Puedes contarme algo acerca del casino?}
-{286}{}{I don't care if your friend one of the Ex-Men, mutants wait outside.}
 {286}{}{¿Quién eres?}
-{287}{}{Ese monstruo mutante no está permitido aquí.}
 {287}{}{¿Quién es ese tipo viejo en la máquina tragaperras?}
 {288}{}{Ese cómico que tenéis en el escenario apesta. ¿Te importa si lo intento yo?}
 {289}{}{Gracias. ¿Necesitas a alguien que baile durante la noche? No me importaría una participación limitada.}
@@ -53,28 +50,18 @@
 {304}{}{Te alejas}
 {305}{}{Se supone que no puedo charlar estando de servicio, pero me alegra que le patearas el culo al Enclave.}
 {306}{}{Oye, }
-{315}{}{Se necesitan más fichas en la mesa tres…}
 {315}{}{Sí, tu mamá dijo que yo también era especial. Y ahora haz una excursión… quizá ella esté en alguna parte de la calle Virgin.}
-{316}{}{Good crowd today…}
 {316}{}{¡Oh, qué bien! Adiooos.}
 {317}{}{Te alejas}
-{325}{}{Se necesitan más fichas en la mesa tres…}
 {325}{}{Soy el vigilante de sala. ¿Qué puedo hacer por ti?}
 {326}{}{Gestiono esta planta del casino. Si necesitas algo, tan solo pregunta.}
-{326}{}{Good crowd tonight…}
 {327}{}{¿Qué casino es éste?}
 {328}{}{¿Puedes contarme algo acerca del casino?}
 {329}{}{Nada, gracias. Perdón por molestarte.}
 {335}{}{El [CN]. Si necesitas algo, tan solo pregunta.}
-{335}{}{Oye, }
-{336}{}{! Heard yer the one who kicked the Enclave back to the stone age! I've been instructed to give you some chips,
- courtesy of the casino. Enjoy yourself, sir.}
 {336}{}{El [CN]. Al menos, era así la última vez que comprobé el cartel de la entrada. Y ahora, ¿qué puedo hacer por ti?}
-{337}{}{¡He oído que eres el que pateó el Enclave de vuelta a la edad de piedra! Me han instruido a darte algunas fichas, cortesía del casino. Disfruta, señora.}
 {337}{}{¿Quién eres?}
-{338}{}{. What's up, chief? Get you anything? A drink? A waitress?}
 {338}{}{¿Puedes contarme algo acerca del casino?}
-{339}{}{. La chica más bonita en el casino. ¿Conseguirte algo? ¿Una bebida? ¿Una mesa privada?}
 {339}{}{Nada, gracias. Perdón por molestarte.}
 {340}{}{¿Qué puedo hacer por ti, amigo?}
 {341}{}{¿Qué puedo hacer por ti, guapa?}
@@ -82,15 +69,10 @@
 {343}{}{Te alejas}
 {344}{}{¿Quién eres?}
 {345}{}{Es el jodido mejor casino de la ciudad… pero soy un poco parcial. ¿Quieres saber algo más?}
-{345}{}{¿Qué casino es éste?}
 {346}{}{Es el jodido mejor casino de la ciudad, las mejores puñeteras mesas… y ahora, ¿por qué no te largas a comprobarlo? ¿De acuerdo?}
-{346}{}{¿Puedes contarme algo acerca del casino?}
-{347}{}{¿Quién eres?}
 {347}{}{¿Quién eres?}
 {348}{}{A quién pertenece este casino?}
-{348}{}{¿Quién es ese tipo viejo en la máquina tragaperras?}
 {349}{}{De acuerdo, gracias. Lamento haberte molestado.}
-{349}{}{Ese cómico que tenéis en el escenario apesta. ¿Te importa si lo intento yo?}
 {350}{}{Gracias. ¿Necesitas a alguien que baile durante la noche? No me importaría una participación limitada.}
 {351}{}{Gracias, lo haré.}
 {352}{}{Nada, gracias. Perdón por molestarte.}
@@ -108,16 +90,11 @@
 {365}{}{¿Ese tipo? ¿El Viejo McGee? El loco hijo de perra… ha estado jugando en esa máquina
  durante los últimos años, esperando el gran premio. Toda su fortuna
  debe estar dentro de esa cosa, pero no le devolverá ni una sola ficha.}
-{365}{}{¿Qué casino es éste?}
 {366}{}{¿Ese tipo? ¿El Viejo McGee? Un loco hijo de perra, eso desde luego. Je.
  Seguro que le jodió que ganases su fortuna. Yo tendría cuidado con él.}
-{366}{}{¿Puedes contarme algo acerca del casino?}
 {367}{}{¿La máquina está trucada?}
-{367}{}{¿Quién eres?}
 {368}{}{Tenía algunas preguntas más…}
-{368}{}{¿Quién es ese tipo viejo en la máquina tragaperras?}
 {369}{}{Gracias por la información.}
-{369}{}{Gracias. ¿Necesitas a alguien que baile durante la noche? No me importaría una participación limitada.}
 {370}{}{Gracias, me halaga. Sólo me he detenido a saludar.}
 {375}{}{Qué va, sólo es testaruda… igual que él. Probablemente podría repararse, pero no tenemos mecánicos
  de tragaperras que puedan arreglar esa maldita cosa.}

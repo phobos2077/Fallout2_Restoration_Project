@@ -244,4 +244,4 @@
 {342}{}{Puede ser. Iré a comprobarlo.}
 {343}{}{Le hablaste a McClure de la entrega del antídoto para el Jet.}
 {344}{}{El disco muestra que la central de energía de Gecko... si fuera optimizada... podría producir una gran cantidad de energía. Bastante más de la que necesita Gecko. Ciudad Refugio podría usar esa energía.}
-{345}{}{Esto va a ponerse interesante.}
+{345}{}{Esto es muy interesante.}

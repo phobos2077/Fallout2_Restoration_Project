@@ -1,9 +1,6 @@
 {100}{}{Ves un terminal de computadora.}
-{100}{}{Ves un terminal de computadora.}
 {101}{}{Ves un terminal de computadora Emperador.}
-{101}{}{Ves una computadora Emperador.}
 {102}{}{Ves una computadora con una pantalla táctil incorporada como interfaz. Tiene grabado en un lateral "Terminal de computadora Emperador v8.8".}
-{102}{}{Ves una computadora grande, zumbante, completamente funcional que tiene "Emperador v8.8" sellado en su cubierta inferior.}
 {103}{}{Saludos. Por favor, introduzca su contraseña para confirmar su identidad.}
 {104}{}{::babeas::}
 {105}{}{CSPDMSHR-Shih-huang-ti-X9372}
