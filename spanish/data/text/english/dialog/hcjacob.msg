@@ -100,13 +100,13 @@
 {235}{}{Aún no, gracias. Adiós.}
 {258}{}{Esto va así. Odiamos a los mutantes. Queremos matarlos. La mejor forma de deshacerse de ellos es
  volar por los aires la mina mientras están dentro. Queremos que plantes la carga.}
-{259}{}{Lo haré.}
+{259}{}{¡Lo haré!}
 {260}{}{No puedo hacer eso.}
 {261}{}{¡Excelente, amigo mío! Toma este detonador. Sitúalo en el purificador de aire y sal pitando de allí.
  Hemos arreglado que los mutantes de la ciudad estén en la mina.}
 {262}{}{Avísame cuando estés listo para irte.}
 {263}{}{Lo haré.}
-{264}{}{No puedo hacer eso.}
+{264}{}{No puedo hacer esto.}
 {265}{}{¿Por qué no? ¿Tienes miedo, o algo así? ¿Estás seguro de que no lo vas a hacer?}
 {266}{}{Sí.}
 {267}{}{No, supongo que lo haré.}

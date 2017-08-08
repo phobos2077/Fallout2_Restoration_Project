@@ -669,7 +669,7 @@
 {34000}{}{Documentos del doctor}
 {34001}{}{Un juego de planos muy detallados de una Unidad Canina Cibernética de Guardia. Con ellos y la habilidad adecuada, una persona puede ser capaz de construir un perro-robot.}
 {34100}{}{Pase Presidencial}
-{34101}{}{El portador de este documento dispone de un pase de seguridad clase-A conforme a lo autorizado por la Presidencia de la Nueva República de California. Está firmado por la Presidente Tandi.}
+{34101}{}{El portador de este documento dispone de un pase de seguridad clase-A conforme a lo autorizado por la Presidencia de la República de Nueva California. Está firmado por la Presidente Tandi.}
 {34200}{}{Insignia de Ranger}
 {34201}{}{Esta insignia indica que eres un Ranger de de Nueva California. Fíjate: ¡tiene una rueda de códigos y todo!}
 {34300}{}{Mapa de los Rangers}

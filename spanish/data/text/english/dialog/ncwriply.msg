@@ -90,7 +90,7 @@
 {370}{}{Uh-huh! ¡Te lo demostraré! Varios de nosotros vamos a ir allí cuando oscurezca MUCHO. }
 {371}{}{Uh-huh! ¡Te lo demostraré! Varios de nosotros vamos a ir allí esta noche. }
 {372}{}{¿Quieres venir? (La persona pequeña te mira de reojo). Pero tienes que ser muuuy silencioso. Muuuuuuy silencioso.}
-{373}{}{Vaaaale (Le sigues).}
+{373}{}{Vaaaale [Le sigues].}
 {374}{}{Vaaaale, voy con… oooooh, ¿y esa arena de ahí?}
 {380}{}{No me gustas. ¡Eres un gran estúpido! (te saca la lengua). ¡Vete de aquí, estúpido!}
 {381}{}{¡NO LLAMAS A YO ESTUPIDIDO! ¡TU ESTUPIDIDO! ¡TU ESTUPIDIDO!}
@@ -102,7 +102,7 @@
 {400}{}{¡No miento, estúpido! Varios de nosotros vamos a ir allí cuando oscurezca MUCHO. }
 {401}{}{¡No miento, estúpido! Varios de nosotros vamos a ir allí esta noche. }
 {403}{}{NO me llames estupidido, ESTUPIDIDO.}
-{404}{}{Uh-huh (Le sigues).}
+{404}{}{Uh-huh [Le sigues].}
 {405}{}{Vaaaale, voy con… oooooh, ¿y esa arena de ahí?}
 {410}{}{Varios de nosotros vamos a ir allí cuando oscurezca MUCHO. }
 {411}{}{Varios de nosotros vamos a ir allí esta noche. }
@@ -110,7 +110,7 @@
 {420}{}{¡No es una olla, ESTÚPIDO! ¡Es mi casco!}
 {421}{}{Vaya, perdona, temible guerrero con casco.}
 {422}{}{VUELVE a llamarme estúpido, mierdecilla, y veremos qué tal te protege ese 'casco' de los golpes en la cabeza.}
-{423}{}{(Dejas que juegue con su 'casco').}
+{423}{}{[Dejas que juegue con su "casco"].}
 {430}{}{(Te mira con sospecha). ¿Qué quieres?}
 {432}{}{Sólo quería saber a qué clase de juego estás jugando. ¡Parece divertido!}
 {433}{}{Eh… ¿dónde están tus padres?}
@@ -132,8 +132,8 @@
 {471}{}{Oye: en las manos equivocadas, una pistola es un arma mortal. Bien, quiero decir que SIEMPRE es un arma mortal, pero en las manos equivocadas… es, eh… más mortal… espera, déjame empezar de nuevo.}
 {472}{}{Oye, si tu familia confiara en que puedes usar un arma, te habría dado una. Olvídalo.}
 {473}{}{Como si eres de la Familia Malote, no vas a tener este arma.}
-{474}{}{Bueno, está bien. (Le das una pistola descargada).}
-{475}{}{Bueno, está bien. (Le das una pistola cargada).}
+{474}{}{Bueno, está bien. [Le das una pistola descargada].}
+{475}{}{Bueno, está bien. [Le das una pistola cargada].}
 {476}{}{Olvídalo. Ve a jugar con tus amigos.}
 {485}{}{¡Sí, insectos de metal! ¡VIMOS uno cuando estuvimos en el desierto! Era tan grande… (toma una gran bocanada de aire) ¡tan grande como
  una CASA! Y dentro había PERSONAS de metal.}
@@ -181,7 +181,7 @@
 {581}{}{¡Vuelve aquí, mierdecilla!}
 {590}{}{¡De acuerdo! (Sale corriendo).}
 {591}{}{Bien, a ESTE pequeño acto de maldad podría llevarle su tiempo dar sus frutos… será mejor que me vaya de la zona y vuelva más tarde.}
-{592}{}{(Abandonas los alrededores con calma, mientras silbas aparentando inocencia).}
+{592}{}{[Abandonas los alrededores con calma, mientras silbas aparentando inocencia].}
 {600}{}{(Se encoge de hombros). Papá está en casa, y mamá está en la iglesia.}
 {603}{}{De acuerdo. Sólo era curiosidad. Gracias.}
 {610}{}{(El chico se vuelve a colocar la olla sobre la cabeza, y vuelve a hacer ruidos de zumbido).}
@@ -191,7 +191,7 @@
 {632}{}{Gamberrete… ya veremos si te salvo cuando salve al mundo...}
 {640}{}{Esperas hasta que oscurece un poco...}
 {641}{}{Esperas hasta que oscurece...}
-{642}{}{... y entonces sigues a los chicos al desierto.}
+{642}{}{[... y entonces sigues a los chicos al desierto].}
 {700}{}{¡ALÉJATE DE MÍ!}
 {701}{}{Ahhh...}
 {702}{}{Ayudadme, ayudadme...}

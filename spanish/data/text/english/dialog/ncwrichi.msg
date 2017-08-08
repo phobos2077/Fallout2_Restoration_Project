@@ -41,13 +41,13 @@
 {292}{}{Quiero ser como tú cuando sea mayor.}
 {293}{}{¿Por qué tú quieres ser yo? Yo TONTO}
 {294}{}{Una vez llevé un sombrero de cabeza de niña.}
-{295}{}{Te alejas}
+{295}{}{[Te alejas]}
 {296}{}{Je je. Gracias, pequeño. Pero acepta un consejo de }
 {297}{}{Persigue tus sueños. Podrás cumplir con tus objetivos. Yo soy la prueba viviente.}
 {298}{}{Claro que puedes. Oye, siento lo que oí sobre tu hermano, Richie. ¿Sabes lo que le pasó?}
 {299}{}{Una vez conduje a través de tres estados llevando la cabeza de esta niña como sombrero.}
-{300}{}{(Le dejas que siga jugando).}
-{301}{}{(La dejas seguir jugando).}
+{300}{}{[Le dejas que siga jugando].}
+{301}{}{[La dejas seguir jugando].}
 {310}{}{Oh, no! ¡Tú eres LISTO! Tú eres un HÉROE y eres VALIENTE y quiero ser como TÚ cuando sea mayor. Gracias por salvarnos, }
 {311}{}{Graaaacias, persona p-pequeña. Haces }
 {315}{}{Está bien, }
@@ -197,12 +197,12 @@
 {933}{}{Mamá está muy triste desde que murió mi hermano Richie.}
 {934}{}{Mommy ha ido a la iglesia otra vez.}
 {935}{}{Nuestra familia es la mejor.}
-{936}{}{Phfttttt}
+{936}{}{¡Phfttttt!}
 {937}{}{¡Tonto del culo! ¡Tonto del culo!}
 {938}{}{Tío Nick dice que blasfemar no es necesario. Tío Nick necesita salir más.}
 {939}{}{¿Jugamos a tribales y esclavistas?}
 {940}{}{Tenemos diecisiete hermanos y hermanas.}
-{941}{}{Wheeeeeeee}
+{941}{}{¡Wheeeeeeee!}
 {942}{}{¡Tú lo eres!}
 {943}{}{¡Tienes piojos!}
 {944}{}{¡Pareces un escorpión rad!}

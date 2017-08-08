@@ -58,7 +58,7 @@
 {232}{}{Sigue en esta calle, y te rajo.}
 {233}{}{Zorra.}
 {234}{}{Puta estirada…}
-{235}{}{Basura}
+{235}{}{Basura...}
 {236}{}{Hmphh!}
 {237}{}{Lárgate de aquí, me vas a echar a perder el negocio.}
 {238}{}{Puta escuálida.}
@@ -165,7 +165,7 @@
 {339}{}{Probar el paraíso te costará diez fichas.}
 {340}{}{¿Quieres jugar a amo y siervo, esclavista?}
 {341}{}{Myron: Todo cera y nada de mecha.}
-{342}{}{Myron es un huracán.}
+{342}{}{Myron es un huracán...}
 {343}{}{AC-DC, BND, lo que sea.}
 {344}{}{¿Qué esperas que haga, arrodillarme para él?}
 {345}{}{¿Necesitas a alguien que tire de tu correa, esclavista?}
@@ -198,7 +198,7 @@
 {372}{}{Sangre nueva en la ciudad…}
 {373}{}{Sigo sin entender por qué la llaman calle Virgin…}
 {374}{}{¿Puedes atravesar un tablero con un clavo de seis pulgadas usando tu pene?}
-{375}{}{Ojalá se pusiera una bolsa de papel de vez en cuando.}
+{375}{}{Ojalá se pusiera una bolsa de papel de vez en cuando...}
 {376}{}{¿Le pagas una copa a una chica, esclavista?}
 {377}{}{¿Te encargas de una chica solitaria en la ciudad?}
 {378}{}{Necesitas una amiga para esta noche, esclavista?}
@@ -388,7 +388,7 @@
 {562}{}{Ojalá Myron fuera gay.}
 {563}{}{Sangre nueva en la ciudad…}
 {564}{}{Sigo sin entender por qué la llaman calle Virgin…}
-{565}{}{Ojalá se pusiera una bolsa de papel de vez en cuando.}
+{565}{}{Ojalá se pusiera una bolsa de papel de vez en cuando...}
 {566}{}{¿Le pagas una copa a una chica?}
 {567}{}{¿Te encargas de una chica solitaria en la ciudad?}
 {568}{}{¡Vaya! ¡Un turista!}
@@ -551,7 +551,7 @@
 {725}{}{Ojalá Myron fuera gay.}
 {726}{}{Sangre nueva en la ciudad…}
 {727}{}{Sigo sin entender por qué la llaman calle Virgin…}
-{728}{}{Ojalá se pusiera una bolsa de papel de vez en cuando.}
+{728}{}{Ojalá se pusiera una bolsa de papel de vez en cuando...}
 {729}{}{¿Le pagas una copa a una chica?}
 {730}{}{¿Te encargas de una chica solitaria en la ciudad?}
 {731}{}{¡Vaya! ¡Un turista!}

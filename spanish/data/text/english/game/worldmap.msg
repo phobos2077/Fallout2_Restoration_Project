@@ -1060,8 +1060,8 @@
 {4863}{}{Un grupo de lobos.}
 {4864}{}{Un grupo de ratas topo mutadas.}
 {4865}{}{Un grupo de escorpiones rad}
-{4866}{}{Una manada de lobos y algunos geckos.}
-{4867}{}{Algunas ratas topo mutadas luchando contra algunos geckos.}
+{4866}{}{Una manada de lobos y algunos geckos dorados.}
+{4867}{}{Algunas ratas topo mutadas luchando contra algunos geckos dorados.}
 {4868}{}{Algunas ratas topo luchando contra algunos escorpiones rad.}
 {4869}{}{Un hombre guardando un puente.}
 {4870}{}{Caballeros del Rey Arturo luchando contra una rata.}

@@ -13,7 +13,7 @@
 {131}{}{Ese informe dice que nuestro nivel de refrigerante es demasiado alto. Debería desactivarlo, ¿no crees?}
 {132}{}{Buena idea, Hank. Será mejor que me vaya. Adiós.}
 {133}{}{Pensándolo bien, tal vez deberías esperar un momento. Déjame comentárselo a Harold antes de que lo desactives. Adiós.}
-{140}{}{Sí, los pieles suaves que construyeron este lugar no se querían freir, así que incluyeron un robot. Fue diseñado para realizar labores de mantenimiento a control remoto desde un terminal en una sala al oeste de aquí.}
+{140}{}{Sí, los pieles suaves que construyeron este lugar no se querían freir, así que incluyeron un robot. Fue diseñado para realizar labores de mantenimiento a control remoto desde ese terminal por allí.}
 {141}{}{Es perfecto. Me servirá.}
 {142}{}{Tendré que revisarlo. Adiós.}
 {150}{}{Tienes una bonita pieza ahí. Justo la que necesitamos.}

@@ -43,8 +43,8 @@
 {152}{}{¡Beber no!}
 {153}{}{¡Hola, Doi! Bienvenido de nuevo. Hemos mantenido caliente tu asiento para cuando volvieras.}
 {154}{}{¡G-gracias!}
-{155}{}{Serán }
-{156}{}{Serán }
+{155}{}{Serán 2 dólares.}
+{156}{}{Serán 4 dólares.}
 {157}{}{Son 5 dólares.}
 {158}{}{Aquí tienes.}
 {159}{}{[Le das a Phil una propina de 1 dólar] Aquí tienes, Phil.}
@@ -73,7 +73,7 @@
 {192}{}{Decirte mi nombre. Es }
 {193}{}{Nada, perdona. ¡Adiós!}
 {194}{}{¡Bueno, todo bien entonces! ¿Qué va a ser?}
-{198}{}{¿Algo nuevo en la ciudad?}
+{198}{}{¿Algo nuevo en la ciudad? Bien…}
 {199}{}{Gracias. Tengo más preguntas. }
 {200}{}{Gracias. Adiós.}
 {201}{}{Qué hacer, qué hacer… veamos…}
@@ -84,8 +84,7 @@
 {206}{}{No mucho.}
 {207}{}{Tengo más preguntas.}
 {208}{}{Gracias. Nos vemos.}
-{209}{}{Pareces un tipo bastante fornido. Apuesto que podrías echar un pulso con Francis. Es el
- mutante que está sentado allí. Al parecer, ofrece algún tipo de premio. ¿Te interesa? Habla con el tal Francis.}
+{209}{}{Pareces un tipo bastante fornido. Apuesto que podrías echar un pulso con Francis. Es el mutante que está sentado allí. Al parecer, ofrece algún tipo de premio. ¿Te interesa? Habla con el tal Francis.}
 {210}{}{Gracias. ¿Hay alguna cosa más?}
 {211}{}{Gracias. Nos vemos.}
 {212}{}{Hay algunas personas desaparecidas. No estamos seguros de dónde están. Si pudieras encontrarlas, estoy seguro

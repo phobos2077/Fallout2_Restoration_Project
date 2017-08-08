@@ -220,4 +220,4 @@
 {319}{}{Quizás nosotros volver aquí otra vez.}
 {320}{}{No, miento. Me aseguraré de que el reactor se repare. De una forma y otra. Hmm,
  me pregunto si puedo conseguir que Festus lo haga. Oh, bueno, adiós por ahora.}
-{321}{}{Oye, Harold. Tengo la pieza que necesitas para reparar vuestro reactor. Supongo que debería buscar alguna forma de que se instale.}
+{321}{}{Oye, Harold, tengo la pieza que necesitas para reparar vuestro reactor. Voy a tratar a instalarlo en el reactor. Le informaré cuando haya terminado. Adiós.}

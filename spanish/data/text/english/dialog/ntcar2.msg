@@ -1,5 +1,5 @@
 {100}{}{¡Aparqué mi coche justo aquí!}
-{101}{}{¡Aparqué mi coche justo aquí!}
+{101}{}{¡Juro que aparqué justo aquí!}
 {150}{}{Al pasar cerca del lugar en el que estaba aparcado el coche, notas unas débiles marcas de arrastre
  que se dirijen hacia el norte.}
 {151}{}{Ves marcas de neumáticos que llevan hacia el norte.}

@@ -24,7 +24,7 @@
 {123}{}{Adoro mi trabajo.}
 {124}{}{¿Has oído algo?}
 {125}{}{Mis pies me están matando.}
-{126}{}{Así que, ¿has oído lo del nuevo segundo, el grandullón?}
+{126}{}{Así que, ¿has oído lo del nuevo segundo Louie?}
 {127}{}{De todas formas aquí nunca pasa nada.}
 {128}{}{Me encantaría que ocurriera algo excitante.}
 {129}{}{He oído que el vicepresidente está realmente enfermo, algo de la cabeza.}

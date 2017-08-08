@@ -46,7 +46,7 @@
 {306}{}{Oh, entraré entonces. Después de matarte.}
 {307}{}{Gracias, capullo sin remedio, me aseguraré de mencionar tu comportamiento al señor Salvatore.}
 {308}{}{De acuerdo entonces.}
-{315}{}{(Mason te detiene). Mira… (se inclina y baja la voz.) ... hay ciertas normas de comportamiento, chico. }
+{315}{}{(Mason te detiene). Mira... (se inclina y baja la voz.) ... Hay ciertas normas de comportamiento, chico. }
 {316}{}{Mira… (se inclina y baja la voz) ... hay ciertas normas de comportamiento, muchacha. }
 {317}{}{No malgastes el tiempo del señor Salvatore, y no le vayas con ninguna chorrada, o responderás ante mí.}
 {318}{}{Entendido.}
@@ -196,7 +196,7 @@
 {746}{}{Gracias, Mason.}
 {747}{}{Vaya, Mason, gracias… aunque la próxima vez, ¿por qué no me llamas "señor?" Eso me gustaría. JA JA JA JA JA JA...}
 {748}{}{Vaya, Mason, gracias… aunque la próxima vez, ¿por qué no me llamas "señora?" Eso me gustaría. JA JA JA JA JA JA...}
-{755}{}{Hola, señor.}
+{755}{}{Hola... señor.}
 {756}{}{Hola... señora.}
 {765}{}{(Mason se detiene de repente, escucha algo que tú no puedes oír. Tras un momento, aprieta los dientes). El señor Salvatore
   dice que puedes entrar, }

@@ -64,9 +64,9 @@
 {1016}{}{Ups, casi me olvido del GECK. Me pregunto si podría estar por aquí en alguna parte.}
 {1017}{}{Tu código GECK vuela la puerta.}
 {1018}{}{Has barrido del mapa a la banda de Rana Morton.}
-{1019}{}{Has desactivado los campos de fuerza.}
-{1020}{}{Pon fin a la pelea del bar.}
-{1021}{}{Desactivas el campo de fuerza.}
+{1019}{}{Has desactivado las placas de choque.}
+{1020}{}{Pusiste fin a la pelea del bar.}
+{1021}{}{Has desactivado el terminal de reparación de robots.}
 {1050}{}{Has molido la toxina del escorpión para elaborar un antídoto.}
 {1051}{}{Has mezclado la raíz de xandria y la flor de broquia para elaborar polvo curativo.}
 {1099}{}{El GECK es demasiado valioso para tu poblado como para que simplemente lo dejes aquí.}
@@ -255,6 +255,6 @@
 {10013}{}{Necesito saber qué clase de armas puedes usar.}
 {10100}{}{Vamos.}
 {20000}{}{Eso no hizo nada.}
-{20100}{}{No hay forma de cerrar la puerta.}
+{20100}{}{No hay cerradura en esta puerta.}
 {21020}{}{veinte}
-{30000}{}{Tienes que pagar por tus crímenes.}
+{30000}{}{Has robado de tu propia tribu.}

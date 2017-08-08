@@ -1,6 +1,6 @@
-{100}{}{Ves a un hombre grasiento y sudoroso.}
+{100}{}{Ves a un necrófago grasiento y sudoroso.}
 {101}{}{Ves a Eric.}
-{102}{}{Ves a un hombre grasiento y sudoroso. Parece bastante abatido.}
+{102}{}{Ves a un necrófago grasiento y sudoroso. Parece bastante abatido.}
 {103}{}{Como si esta ciudad necesitara más mala suerte. Como si *yo* necesitara más mala suerte.}
 {104}{}{¡Entra ya! ¡Y cierra la puerta! ¡Que no entren las moscas!}
 {105}{}{¿Moscas? F-f-f!}

@@ -26,10 +26,10 @@
 {124}{}{¿Qué es eso?}
 {125}{}{Olvídalo.}
 {126}{}{Soy un tipo anciano, y no salgo demasiado. No tengo muchas oportunidades para la acción, ¿sabes a qué me refiero? Así que lo que quiero es una revista de la Garra de la Gata. Búscame una.}
-{127}{}{¡Tengo! [le das la revista a Typhon]}
+{127}{}{¡Tengo! [Le das la revista a Typhon]}
 {128}{}{¡Vale!}
 {129}{}{¡No!}
-{130}{}{Aquí tienes. [le das la revista a Typhon]}
+{130}{}{Aquí tienes. [Le das la revista a Typhon]}
 {131}{}{De acuerdo. Volveré.}
 {132}{}{Olvídalo.}
 {133}{}{Gracias por la revista, chico. Vuelve en una hora, más o menos.}
@@ -66,9 +66,9 @@
 {164}{}{Ya veo. Tenía otras preguntas.}
 {165}{}{Gracias. Adiós.}
 {166}{}{¿Bien? ¿Aún no tienes mi revista de la Garra de la Gata?}
-{167}{}{S-sí. [le das la revista a Typhon]}
+{167}{}{S-sí. [Le das la revista a Typhon]}
 {168}{}{Nuh-uh.}
-{169}{}{Pues sí. Aquí la tienes. [le das la revista a Typhon]}
+{169}{}{Pues sí. Aquí la tienes. [Le das la revista a Typhon]}
 {170}{}{Aún no. Tenía otras preguntas.}
 {171}{}{No.}
 {172}{}{¡Bueno, pues date prisa! Soy un viejo necrófago y, cómo quieres que te lo diga, necesito relajarme! ¡Ahora vete, vete, vete!}
@@ -76,12 +76,12 @@
 {174}{}{Muchacho, esa revista ha revitalizado la sangre de mis venas, y supongo que por la clase de tesoro que estamos hablando, puedes conseguirme un par más de cosillas. Tráeme una muñeca hinchable. Seguramente encuentres alguna en Nuevo Reno.}
 {175}{}{¡V-vale! ¡Adiós!}
 {176}{}{¡Oh-no!}
-{177}{}{¡Toma! [le das la muñeca hinchable a Typhon]}
+{177}{}{¡Toma! [Le das la muñeca hinchable a Typhon]}
 {178}{}{De acuerdo. Tenía algunas preguntas más.}
 {179}{}{De acuerdo. Adiós.}
 {180}{}{Olvídalo.}
-{181}{}{La tengo justo aquí. [le das la muñeca hinchable a Typhon]}
-{182}{}{Esto, chico, es dar justo en el clavo. Dame unas horas, y volveremos a hablar. A ello, pues. [mira la muñeca lujuriosamente]}
+{181}{}{La tengo justo aquí. [Le das la muñeca hinchable a Typhon]}
+{182}{}{Esto, chico, es dar justo en el clavo. Dame unas horas, y volveremos a hablar. A ello, pues. [Mira la muñeca lujuriosamente]}
 {183}{}{[HECHO]}
 {184}{}{¿No puede tener uno un poco de intimidad! ¡Fuera! Largo! ¡Desaparece!}
 {185}{}{[HECHO]}
@@ -89,7 +89,7 @@
 {187}{}{¡B-bueno! ¡Adiós!}
 {188}{}{¡No!}
 {189}{}{¡Toma! [le das el aguardiente a Typhon]}
-{190}{}{Lo tengo. Aquí tienes. [le das el aguardiente a Typhon]}
+{190}{}{Lo tengo. Aquí tienes. [Le das el aguardiente a Typhon]}
 {191}{}{¿Eso es lo que va a ser?}
 {192}{}{De acuerdo. Adiós.}
 {193}{}{Olvídalo.}

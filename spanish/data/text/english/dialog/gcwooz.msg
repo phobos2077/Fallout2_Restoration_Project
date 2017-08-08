@@ -142,8 +142,7 @@ somos criaturas con voluntad propia. Déjame demostrártelo.}
 como la famosa colonia. Algunos 
 creen que la forma en la que cambia la vida de una persona es trágica, pero sólo es que no lo entienden.}
 {341}{}{Oh oh.}
-{350}{}{El Jet es una droga que viene de Nuevo Reno. ¿Naciste ayer, o eres 
-idiota?}
+{350}{}{El Jet es una droga que viene de Nuevo Reno. ¿Naciste ayer, o eres idiota?}
 {351}{}{Ah, ese Jet. Vale, eso ya lo sabía. Cuéntame más sobre Tragic el Catering.}
 {360}{}{No, en serio. Es maravilloso. Deberías jugar. Aunque sea sólo una vez. 
 La primera baraja es gratis. Un regalito para ti de mi parte.}
@@ -178,7 +177,7 @@ cartas.}
 {411}{}{Oh, sí. Has ganado. Adiós.}
 {412}{}{Qué sorpresa. Vale, por lo menos no tengo que escuchar tus historias. Adiós.}
 {420}{}{No hay tiempo. Vamos. Tengo un nuevo mazo que quiero probar.}
-{421}{}{De acuerdo, vamos a hacerlo.}
+{421}{}{De acuerdo. Vamos a jugar, entonces.}
 {422}{}{No, debo resistir los cantos de sirena. ¡Dejaré el Tragic! Debo preguntarte otra cosa más.}
 {430}{}{Sé a lo que te refieres. Puedo dejarlo cuando quiera. Pero no hoy.}
 {431}{}{No bromeo. Ahora, quiero preguntarte otra cosa.}
@@ -249,21 +248,21 @@ que no tengas sentido del humor.}
 {712}{}{¡¡¡ODIO!!!}
 {713}{}{¿Dónde está la horda de enanas?}
 {714}{}{¡¿Alguna vez has visto a un madurito EN PELOTAS?!}
-{715}{}{Gracias, pero no, quizá más tarde. Aunque me gustaría hacerte unas preguntas.}
+{715}{}{No, quizás alguna otra vez, Wooz. Tengo algunas preguntas sin embargo...}
 {716}{}{Hmmm... Tal vez deberías llamarlo un día poner esas cardas Tragic lejos. Creo que has jugado bastante por hoy.}
 {717}{}{¡NUNCA! ¡TRAIGA EL CATERING!}
 {718}{}{¡¡¡MOOAJAJAJA!!! ¡ESTOY VICTORIOSO!}
 {719}{}{¡¡NOO!! ¡¿CÓMO PODÍA HABER PERDIDO?! Ahhhgghhhgh.}
 {720}{}{Sí... parece que no puedo parar. Sólo un juego más...}
 {721}{}{Sí, Cerveza Tragos Gamma. ¿Sordo o algo?}
-{722}{}{¡¡¡Enema caliente a punto de llegar!!}
-{723}{}{De acuerdo. ¿Algo más?}
+{722}{}{Si lo es. Un Gamma Gulp viene a la derecha.}
+{723}{}{De acuerdo, disfrúta. ¿Algo más?}
 {724}{}{Ocasión especial, ¿eh? Bien lah-de-dah, estamos muy especiales hoy. Un Roentgen viniendo ahora mismo entonces.}
 {725}{}{No, gracias.}
-{726}{}{Dime, ¿qué más tienes a la venta?}
-{727}{}{Me llevaré uno.}
-{728}{}{Me lo imaginaba. Déjame hacerte otra pregunta.}
-{729}{}{Creo que debo irme ahora.}
+{726}{}{Sí, ¿qué más tienes?}
+{727}{}{Lo que sea, me llevaré uno.}
+{728}{}{Derecha. Déjame conseguir algo más.}
+{729}{}{Creo que estaré saliendo ahora.}
 {730}{}{Te has convertido en adicto al juego de Trágico. Muchas noches sin dormir te esperan.}
-{731}{}{De acuerdo. ¿Algo más?}
-{732}{}{Tenía otra pregunta que hacerte.}
+{731}{}{De acuerdo, hecho. ¿Algo más?}
+{732}{}{Sí, otra ronda para todos.}

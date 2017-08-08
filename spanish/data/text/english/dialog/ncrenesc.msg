@@ -20,7 +20,7 @@
 {238}{}{Vaaale lo suelto… mejor tú das un paso atrás (te bajas la cremallera).}
 {239}{}{Vaaale. Abro sujetador primero. Espera (te bajas la cremallera).}
 {240}{}{¿Qué QUIERO yo? ¿Qué TIENES tú?}
-{241}{}{Le miras un segundo, sólo para asegurarte de que es real, y luego te alejas.}
+{241}{}{[Le miras un segundo, sólo para asegurarte de que es real, y luego te alejas]}
 {242}{}{¿Quién eres?}
 {243}{}{Oye, yo tengo unos anteojos, si los quieres.}
 {244}{}{¿Cómo están los anteojos?}

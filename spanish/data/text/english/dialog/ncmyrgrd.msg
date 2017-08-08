@@ -58,12 +58,12 @@
 {351}{}{QUIERO PAZ EN MUNDO QUIERO PAZ MUNDIAL.}
 {352}{}{DIGO QUE QUIERO IR POR PUERTA.}
 {353}{}{QUIEN TU.}
-{354}{}{Dejas de balbucear}
+{354}{}{[Dejas de balbucear]}
 {360}{}{(Prepara su arma). Voy a disfrutar esto. No he golpeado a un esclavo desde hace al menos una hora…}
 {361}{}{(Prepara su arma). Voy a disfrutar esto. Hace dos días que no mato a nadie…}
 {362}{}{TU SERAS PERSONA HERIDO.}
 {363}{}{ MACHACA.}
-{364}{}{Inténtalo.}
+{364}{}{[Inténtalo]}
 {365}{}{Colega, estás a punto de despedirte de tu culo.}
 {370}{}{(Se burla). Lo siento: es el criterio "no-necesitas-saberlo". Ahora piérdete… amigo.}
 {371}{}{(Se burla). Lo siento: es el criterio "no-necesitas-saberlo". Ahora piérdete, chica.}

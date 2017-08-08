@@ -24,8 +24,7 @@
  que trabaje? Te diría lo que cuesta, pero ya está pagado.}
 {161}{}{Veamos en lo que puedes trabajar.}
 {162}{}{Creo que me lo pensaré. Adiós.}
-{170}{}{Gracias por arreglar nuestro reactor atómico. Este lugar necesita unas cuantas reparaciones. Les enseñaría cómo hacerlo, pero
- no se fían de mí. Ahora tienen a ese bocazas imbécil de Festus haciendo todo el trabajo. }
+{170}{}{Gracias por arreglar nuestro reactor atómico. Este lugar necesita unas cuantas reparaciones. Les enseñaría cómo hacerlo, pero no se fían de mí. Ahora tienen a ese bocazas imbécil de Festus haciendo todo el trabajo. }
 {171}{}{Bueno, fue un placer ayudar. Aunque ahora mismo necesito algo a cambio.}
 {172}{}{Seguro que hubiese sido más fácil si te hubieran dejado arreglarlo. Oh bueno, ya está hecho. Hasta luego.}
 {180}{}{¿Has conseguido ya mi transformador trifásico de plasma?}
@@ -42,10 +41,10 @@
 {210}{}{¿A qué quieres que eche un vistazo?}
 {211}{}{¿Estás listo para que le eche el guante a algo? ¿Qué quieres que compruebe ahora?}
 {212}{}{Tengo esta mira.}
-{213}{}{Aún tengo otra pierna.}
-{214}{}{Aún tengo otra pierna.}
-{215}{}{Aún tengo otra pierna.}
-{216}{}{Aún tengo otra pierna.}
+{213}{}{Tengo un "X"}
+{214}{}{Tengo un "X"}
+{215}{}{Tengo un "X"}
+{216}{}{Tengo un "X"}
 {217}{}{¿Podemos hacer trueque con estas piezas más tarde?}
 {218}{}{No necesito nada más. Adiós.}
 {220}{}{Hmm, puedo acoplar ese telescopio que tienes a ese rifle tuyo.}

@@ -74,4 +74,4 @@
 {912}{}{Gracias, eres de lo que no hay, Aldo. Es todo lo que quería saber.}
 {920}{}{Hello again, friend. Do you have another $20 to spare to make our friendship even better?}
 {921}{}{¿Máas? Vaale.}
-{922}{}{Marcho de aquí yo. Adiós.}
+{922}{}{No compartir. Aadiós.}

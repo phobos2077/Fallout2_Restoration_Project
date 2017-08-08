@@ -326,7 +326,7 @@
 {1402}{}{Has derrotado a tu tercer contrincante.}
 {1403}{}{¡Has derrotado al Masticador!}
 {1404}{}{Te has convertido en el nuevo campeón de los pesos pesados de Nuevo Reno.}
-{1405}{}{Has derrotado a tu primer contrincante.}
+{1405}{}{¡Has derrotado a tu último contrincante!}
 {1500}{}{Has convencido a la señora Wright para que destruya los alambiques.}
 {1550}{}{Has sido testigo de la transacción secreta.}
 {1600}{}{En el fragor de la lucha, el Masticador te arrancó la oreja.}

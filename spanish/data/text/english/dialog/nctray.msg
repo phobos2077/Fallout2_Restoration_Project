@@ -240,7 +240,7 @@
 {811}{}{Novecien… mujer, ¡¿estás de broma?! }
 {812}{}{¡Déjate de gilipolleces! Esto es un HIGHWAYMAN. No se fabricarán en ninguna parte NUNCA MÁS, ¿vale? Hay OTRAS Familias que estarán
  dispuestas a pagar por él si ese tacaño bastardo de Bishop no quiere…}
-{814}{}{El señor Bishop ha hecho una GENEROSA oferta de 1.500 fichas. La siguiente oferta no te va a gustar.}
+{814}{}{El señor Bishop ha hecho una GENEROSA oferta de 900 fichas. La siguiente oferta no te va a gustar.}
 {816}{}{¿Así que estás tratando con las demás Familias? El señor Bishop estará interesado en oír eso.}
 {817}{}{¿Perdona? ¿Cómo acabas de llamar al señor Bishop?}
 {818}{}{Estoy cansado de esto. Volveremos a hablar más tarde.}

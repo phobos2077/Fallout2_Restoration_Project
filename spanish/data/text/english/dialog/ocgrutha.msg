@@ -121,8 +121,7 @@
 {181}{}{Me has devuelto la fe en los humanos. Te doy las gracias por todo lo que has hecho por la manada. ¿Hay
  algo que pueda hacer por ti en agradecimiento?}
 {182}{}{Dijiste que si encontrabas un GECK aquí me lo harías saber. ¿Lo has hecho?}
-{183}{}{Sí, estoy buscando un GECK. Me dijeron que podría encontrarlo aquí. ¿Sabes dónde
- está?}
+{183}{}{Sí, estoy buscando un GECK. Me dijeron que podría encontrarlo aquí. ¿Sabes dónde está?}
 {184}{}{No, gracias. Tengo todo lo que necesito.}
 {185}{}{Sí, había un GECK en el almacén del Refugio. Es tuyo con mi agradecimiento.}
 {186}{}{Sí, había un GECK en el almacén del Refugio. Sin embargo, se perdió. Lamento

@@ -50,12 +50,12 @@
 {291}{}{Yo }
 {292}{}{Mi… ah… mi…}
 {293}{}{Yo Gran Stu.}
-{296}{}{Te alejas en busca de aventuras.}
+{296}{}{[Te alejas en busca de aventuras].}
 {300}{}{Mi-a-mi, ¿eh? "Miami…" Me GUSTA. Me GUSTA. Está bien, hagamos un poco de daño.}
 {301}{}{(Frunce el ceño). Sabihondo, ¿eh? Hmmph… no vas a conseguir el respeto de esta ciudad. (Se encoge de hombros). De acuerdo entonces, vamos a hacer un poco de
  daño.}
 {302}{}{, ¿eh? De acuerdo entonces, }
-{305}{}{Huyes y te escondes}
+{305}{}{[Huyes y te escondes]}
 {310}{}{(Se yergue indignado). Oye. Sólo porque no estoy en la "estatura media" no significa que tenga que obtener mis emociones
  indirectamente.}
 {311}{}{¿Es así?}
@@ -63,20 +63,20 @@
 {321}{}{NUNCA debí haberme arriesgado contigo. Menuda puñetera decepción. ¡Ahora sal de aquí! ¡Largo!}
 {322}{}{YO }
 {323}{}{¿Y el helado?}
-{324}{}{Te marchas llorando.}
-{326}{}{(Sonríes con calma, asientes, y luego le atacas).}
+{324}{}{[Te marchas llorando]}
+{326}{}{[Sonríes con calma, asientes, y luego le atacas].}
 {327}{}{Dame otra oportunidad, Stuart. Vamos, sólo UNA oportunidad más. ¡Puedo marcar la diferencia!}
 {328}{}{[Te vas]}
 {329}{}{(Stuart parece disgustado contigo por la forma en que te sacaron del cuadrilátero). }
 {330}{}{¡¿Qué pasa, que el Masticador de arrancó las orejas, chico?! }
 {331}{}{¡¿Qué pasa, que el Masticador de arrancó las orejas, chica?! }
 {332}{}{¡Te dije que DESAPARECIERAS! ¡Lárgate de aquí!}
-{333}{}{Pateas al chillón y enrojecido hombre pequeño.}
-{334}{}{Le pisoteas furioso.}
-{336}{}{(Te marchas).}
+{333}{}{[Pateas al chillón y enrojecido hombre pequeño]}
+{334}{}{[Le pisoteas furioso]}
+{336}{}{[Te marchas]}
 {337}{}{(Enrojece). }
-{340}{}{(Una oportunidad más. Me quedo el 75%, sin discusiones. }
-{341}{}{(Una oportunidad más. Me sigo quedando el 75%, sin discusiones. }
+{340}{}{Una oportunidad más. Me quedo el 75%, sin discusiones. }
+{341}{}{Una oportunidad más. Me sigo quedando el 75%, sin discusiones. }
 {342}{}{Hecho. Estoy listo para pelear de nuevo ahora mismo. Adelante, Stuart.}
 {343}{}{Hecho. Dame un poco de tiempo para descansar, y volveré a estar listo para pelear de nuevo.}
 {344}{}{Nada merece tanto dolor.}
@@ -92,7 +92,7 @@
 {360}{}{(El enano parpadea, y luego frunce el ceño). ¿He… helado?}
 {361}{}{Yo de lado, tú de lado, todos quieren helado.}
 {362}{}{Oh-oh. HELADO}
-{363}{}{Te alejas en busca de aventuras.}
+{363}{}{[Te alejas en busca de aventuras]}
 {370}{}{(El enano sonríe con inquietud). }
 {371}{}{Bueno, puedo conseguirte algo, amigo… en su mayor parte prostitutas o drogas… pero eso es todo. }
 {372}{}{Bueno, puedo conseguirte algo, encanto… en su mayor parte gigolós o drogas… pero eso es todo. }
@@ -103,7 +103,7 @@
 {380}{}{Bien, no voy a obligarte, pero habría sido un negocio redondo, un cohete que sube hasta el cielo, un premio gordo en el
  cielo… vuelve si cambias de opinión. Eres oro puro, chico.}
 {390}{}{¡De acuerdo entonces! ¡Pongamos este circo en la carretera!}
-{391}{}{(Le sigues).}
+{391}{}{[Le sigues]}
 {400}{}{¿Pero q… no has OÍDO hablar de mí? ¿Stuart, Pequeño Stuart? ¿El mejor agente de todo Reno? }
 {401}{}{Alguien te ha hecho un flaco favor no hablándote de mí, amigo. }
 {402}{}{Alguien te ha hecho un flaco favor no hablándote de mí, querida. }
@@ -176,7 +176,7 @@
 {511}{}{Bien. Aunque no sabía que hubiera vampiros de tu tamaño.}
 {512}{}{Vale. 50/50. ¿Y ahora?}
 {513}{}{¿Dije 25/75? Quería DECIR 50/50. Dividiremos las ganancias justo por la mitad. Sin más problemas.}
-{514}{}{Me marcho.}
+{514}{}{[Me marcho.]}
 {520}{}{Sí, sí, lo sé, "Pequeño Stuart". Mi mamá solía leer un montón a E.B. White. Y bien, ¿tienes un nombre?}
 {521}{}{Hmmpph. ¿tienes un nombre?}
 {526}{}{Me alegra verte, Stu. Ahora mismo no tengo tiempo para hablar. Nos vemos más tarde.}
@@ -215,7 +215,7 @@
 {1406}{}{, quiero boxear. ¿Puedes ayudarme?}
 {1421}{}{. Encantado de conocerte. }
 {1422}{}{… Me gusta eso. Un buen nombre. Bien, es un placer conocerte, }
-{1431}{}{(! ¿Qué tal? ¿Listo para volver al cuadrilátero?}
+{1431}{}{! ¿Qué tal? ¿Listo para volver al cuadrilátero?}
 {1432}{}{". ¿Qué te trae de vuelta?}
 {1490}{}{ Huracán, }
 {2490}{}{ el Camorrista, ya sabes.}

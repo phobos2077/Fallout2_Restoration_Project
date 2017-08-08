@@ -169,7 +169,7 @@
 {608}{}{¿Qué pasa con el reactor?}
 {609}{}{¿Dárselo a quíen?}
 {610}{}{Oh, sí. Bien, me marcho entonces. Adiós.}
-{611}{}{Necesitamos un regulador hidroeléctrico magnetosférico y que se instale pronto, o vamos a tener problemas de verdad. }
+{611}{}{Necesitas conseguir que ese regulador hidroeléctrico magnetosférico sea instalado antes de que la planta vuelva a funcionar.}
 {620}{}{Se me conoce simplemente como El Cerebro. Un tributo a mi genio. Pocas cosas dentro de
  Gecko, y muy pocas más fuera de él, escapan a mi conocimiento.}
 {621}{}{Pero sólo eres una rata gigante.}
@@ -210,4 +210,4 @@
 {701}{}{Parece que Gordon ya te ha dado este Disco de Data de Económico del que hablo. Llévelo inmediatamente a Cuidad Refugio.}
 {702}{}{Estoy en ello.}
 {703}{}{Umm... sí, quizá más tarde.}
-{4211}{}{Eh, supongo que será mejor que me ponga en marcha por lo de la central. Adiós.}
+{4211}{}{Eh, supongo que mejor voy a conseguir ese disco de Gordon. Adiós.}

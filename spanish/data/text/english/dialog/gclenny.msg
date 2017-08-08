@@ -105,7 +105,7 @@
 {360}{}{Hay demasiada g-gente aquí. T-tú ya no n-necesitas mi ayuda. B-buena suerte.}
 {370}{}{J-jamás p-pensé que viviría para ver el d-día en el que estaría avergonzado de f-formar parte d-de lo que estás haciendo. E-eres una desgracia para e-el recuerdo del Morador d-del Refugio. Hasta nunca.}
 {371}{}{¿S-sabes? Pensé que s-sería bueno v-viajar c-contigo. Pero eres t-tan gruñón y m-malhumorado c-como un toro b-brahmin con un c-cactus metido en el culo. Y t-tampoco es que h-huelas mucho mejor. Hasta nunca.}
-{372}{}{Estoy aquí para ver a Myron.}
+{372}{}{Siento que te vayas, Lenny.}
 {373}{}{¿No puedes soportarlo, eh? Bueno, será mejor que arrastres tu cuerpo a medio pudrir lejos de aquí antes de que decida si liquidarte vale un cartucho o no.}
 {374}{}{*Eructo* Sí, lo que sea. Supongo que tienes otras cosas que hacer, como gastar tu tiempo libre intentando recordar cómo era tener una piel que no parecía como el cadáver podrido de una rata atropellada en pleno julio. Vete de aquí, jodido fenómeno.}
 {375}{}{De acuerdo.}
@@ -213,6 +213,6 @@
 {4001}{}{Está bien, si realmente crees que es una buena idea.}
 {4002}{}{Bueno, no me gusta usar armas a menos que sea absolutamente necesario, pero supongo q-que podría utilizar un cuchillo. También puedo usar pistolas, o a-al menos podía. Si realmente tuviese que hacerlo, p-podría manejar un subfusil. Si no fuesen tan escandalosas... Soy un médico, no un luchador.}
 {4003}{}{Cielos, espero no necesitar eso.}
-{5000}{}{Creo que echaré un vistazo.}
-{5001}{}{Creo que estas peleas están manipuladas.}
-{5002}{}{Creo que tengo una cita...}
+{5000}{}{Creo que p-podría tener un m-miembro roto.}
+{5001}{}{Creo que p-podría s-ser irradiado.}
+{5002}{}{Creo que p-podría s-ser envenenado.}

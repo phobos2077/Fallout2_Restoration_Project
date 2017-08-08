@@ -37,7 +37,7 @@
 {136}{}{De acuerdo.}
 {137}{}{!Tú! ¿Qué demonios estás haciendo? !Largo de aquí!}
 {138}{}{Ya estás guardando tus armas ahora mismo, amigo.}
-{139}{}{¿Otra vez tú? ¿Quieres algo?}
+{139}{}{¿Otra vez tú? ¿Quieres algo en realidad?}
 {140}{}{Sólo estaba mirando.}
 {141}{}{Err... no, realmente no.}
 {142}{}{Sí. Estoy aquí para hablar con tus prisioneros.}

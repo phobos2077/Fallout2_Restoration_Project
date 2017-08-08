@@ -42,4 +42,4 @@
 {138}{}{Oh... bien, yo... hmmmm. ¿Estás... estás bien?}
 {139}{}{Lo dije. 'Necesitamos señales de tráfico', dije. ¿Pero me escucharon? Noooo... ¡no le hagamos caso al viejo Lumpy!}
 {200}{}{¡Oh, mierda!}
-{201}{}{Eh, no, no realmente.}
+{201}{}{Eh, oh. Golpear hombre apestoso.}

@@ -74,9 +74,9 @@
 {321}{}{Uh...}
 {325}{}{¡De forma justa mis peludos cojones! Mozalbete, lo que has hecho es firmar tu propia sentencia de muerte!}
 {326}{}{¡De forma justa mis peludos cojones! Muchachita, lo que has hecho es firmar tu propia sentencia de muerte!}
-{335}{}{¿Qué? (parpadea) ¿Estás hablando de devolverme mis ganancias? ¿Las 473 fichas?}
+{335}{}{¿Qué? (parpadea) ¿Estás hablando de devolverme mis ganancias? ¿Las 500 fichas?}
 {336}{}{Eh, ¿y qué tal 250 fichas?}
-{337}{}{Claro. Las 473 fichas. Aquí las tienes.}
+{337}{}{Claro. Las 500 fichas. Aquí las tienes.}
 {338}{}{Bien, aún no puedo. No llevo tanto encima.}
 {339}{}{Olvídalo. Me marcho.}
 {345}{}{}

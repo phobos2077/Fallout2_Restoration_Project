@@ -80,8 +80,7 @@
  hay mucho espacio para mejorar, y el 'jefazo' quiere incrementar la adicción al Jet en Redding.}
 {366}{}{¿Cuál es el trato con Redding?}
 {367}{}{Bien, buena suerte con el calendario.}
-{375}{}{Es *lo bastante* potente, pero hay espacio para mejorar. El 'jefazo' quiere incrementar la distribución del Jet en
- Redding, y quiere que el ratio de adicción sea lo más cercano al 100% que podamos conseguir. Va a suponernos el trabajar un montón de horas.}
+{375}{}{Es *lo bastante* potente, pero hay espacio para mejorar. El 'jefazo' quiere incrementar la distribución del Jet en Redding, y quiere que el ratio de adicción sea lo más cercano al 100% que podamos conseguir. Va a suponernos el trabajar un montón de horas.}
 {377}{}{Gracias por la información. Volveré más tarde.}
 {385}{}{Se hace adictos al Jet a los mineros de Redding, y quien controla el Jet, controla Redding. El típico juego de poder.}
 {386}{}{Así que… ¿quién controla las drogas?}

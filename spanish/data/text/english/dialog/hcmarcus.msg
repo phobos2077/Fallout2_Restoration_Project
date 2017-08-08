@@ -51,7 +51,7 @@
 {150}{mcs15a}{Noticias… noticias…}
 {151}{mcs15b}{Bueno, estoy un poco preocupado por uno de los tipos de las caravanas. Chad. Puede que esté sisando. ¿Podrías comprobarlo por mí?}
 {152}{}{¿Qué hay para mí?}
-{153}{}{Desde luego, lo haré.}
+{153}{}{Desde luego. Lo haré.}
 {154}{}{Estoy un poco ocupado.}
 {155}{}{¿No tienes alguna otra cosa?}
 {156}{mcs16}{Mi más profunda gratitud. ¿De acuerdo?}
@@ -91,7 +91,7 @@
 {190}{}{Jacob y Aileen quieren que vuele por los aires la mina. Pensé que podría interesarte saberlo.}
 {191}{}{Un científico de la RNC quiere probar una droga experimental que barrerá del mapa a los mutantes. Ten cuidado con lo que comes y bebes.}
 {192}{}{Chad se quedó con 6.000 dólares del representante de Gecko. El representante se quejaba del precio… decía que estaba subiendo.}
-{193}{}{Chad se quedó con unos 1.000 dólares del último envío de uranio. Está planeando largarse de la ciudad.}
+{193}{}{Chad se quedó con unos 1.000 dólares del último envío de uranio. Está planeando largarse de la ciudad. Tengo un maletín de documentos para demostrarlo.}
 {194}{}{Nada. Olvídalo.}
 {195}{mcs24}{¿Túneles bajo la ciudad? Supongo que no es extraño, habiendo minas por aquí. Seguirás buscando a esa gente, ¿verdad? }
 {196}{}{Eso es.}
@@ -152,7 +152,7 @@
 {251}{}{Jodidamente correcto. ¿Tienes algo que decir sobre ello, muti?}
 {252}{}{Nooo… es otro distinto. No sé de quién estás hablando.}
 {253}{mcs43}{No hay problema. Como he dicho, eso sucedió hace mucho tiempo.}
-{254}{}{¡No te tengo miedo!}
+{254}{}{No te tengo miedo.}
 {255}{}{¿Por qué odiabas a lo humanos en aquel entonces?}
 {256}{mcs44}{No hay razón para ello, a menos que te pases conmigo o con alguien de mi ciudad. Sé civilizado, eso es todo lo que pido.}
 {257}{}{Lo tendré en cuenta. Tengo más preguntas.}
@@ -330,12 +330,12 @@
 {20001}{}{Je. Puedo usar casi cualquier tipo de arma grande, como lanzacohetes y ametralladoras,
  y las armas de energía grandes. No soy malo con los puños, y soy la hostia usando granadas. No
  me pongo armadura. Simplemente no se hacen de mi tamaño.}
-{30000}{}{Creo que he oído suficiente por ahora. Adiós.}
+{30000}{}{No, gracias, creo que ha pasado suficiente tiempo con él por hoy. Adiós.}
 {40000}{}{Guess I was right about Chad. Looks like he won't be running caravans anytime soon.}
-{40001}{}{Tienes que pagar por tus crímenes.}
-{40002}{}{Está bien, ya me marcho.}
+{40001}{}{Bueno, Chad, es hora de pagar por tus crímenes.}
+{40002}{}{*suspira* Ya me marcho.}
 {40003}{}{You have found Chad guilty of skimming money from the caravans.}
 {40004}{}{You have found Chad guilty of skimming money from the caravans. Too bad he died.}
-{193001}{}{Chad se quedó con unos 1.000 dólares del último envío de uranio. Está planeando largarse de la ciudad.}
-{193002}{}{Chad se quedó con unos 1.000 dólares del último envío de uranio. Está planeando largarse de la ciudad.}
-{193003}{}{Chad's admitted to the whole thing. We got into a scuffle over at the caravan center. He's given up and waiting to be brought in.}
+{193001}{}{Chad se quedó con unos 1.000 dólares del último envío de uranio. Está planeando largarse de la ciudad. Tengo un maletín de documentos para demostrarlo.}
+{193002}{}{Chad se quedó con unos 1.000 dólares del último envío de uranio. Estaba planeando largarse de la ciudad, pero tuvimos una confrontación. Él está muerto. Tengo un maletín de documentos para demostrar su participación.}
+{193003}{}{Chad ha admitido todo. Nos metimos en una pelea en el centro de las caravanas. Se ha rendido y espera para ser traído.}

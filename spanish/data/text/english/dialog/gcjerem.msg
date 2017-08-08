@@ -45,4 +45,4 @@
 {220}{}{Bueno, puedes pedirle uno a Harold en el pueblo, o a Festus aquí en el cuarto de control principal del reactor. No me importa quién te lo dé con tal de que lo consigas. Sin formulario de solicitud no hay pieza. Así es como funciona.}
 {221}{}{¿Conseguiste el formulario de solicitud? Tienes que conseguir uno para que pueda darte la pieza.}
 {222}{}{Oh, de acuerdo. Bueno, entonces será mejor que consiga uno. Hasta luego.}
-{300}{}{Creo que volveré más tarde. Adiós.}
+{300}{}{En realidad, creo que lo conseguiré más tarde. Adiós.}

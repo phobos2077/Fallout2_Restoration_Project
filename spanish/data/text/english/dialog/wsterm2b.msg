@@ -78,5 +78,5 @@
 {165}{}{[De algún modo, tu manipulación causa que el terminal te estalle en la cara].}
 {166}{}{Salir.}
 {200}{}{[Este terminal ya no está operativo].}
-{300}{}{Has desactivado los campos de fuerza.}
+{300}{}{Has desactivado las placas de choque.}
 {400}{}{Ordenador en modo diagnóstico. Por favor, espere hasta que la rutina de diagnóstico haya finalizado.}

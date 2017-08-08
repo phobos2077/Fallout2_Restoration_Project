@@ -374,9 +374,7 @@
 {735}{}{(Su gesto se descompone por un momento, luego se gira para que no la puedas ver.)
  Ni menciones ese lugar.}
 {736}{}{¿Qué pasó?}
-{740}{}{JOHN fue lo que pasó. Yo vivía allí. Pasó por allí una vez, y yo estaba encantada
- porque era tan… rudo, supongo. Diferente del resto de Ciudadanos de Ciudad Refugio (suspira).
- Por supuesto, me hizo probar eso que llaman 'Jet'...}
+{740}{}{JOHN fue lo que pasó. Yo vivía allí. Pasó por allí una vez, y yo estaba encantada porque era tan… rudo, supongo. Diferente del resto de Ciudadanos de Ciudad Refugio. Por supuesto, me hizo probar algunas drogas y... (Suspira)}
 {741}{}{¿Y?}
 {745}{}{Allí tienen potenciadores de memoria para los PipBoys. Tienen diccionarios y
  enciclopedias almacenadas. Tomé uno de los potenciadores del lenguaje cuando me fui, aunque no sé por qué.}
@@ -384,7 +382,7 @@
 {750}{}{*Bostezo*... (se acurruca) Está en mi caja fuerte. Aunque no sirve de mucho sin un PipBoy.
  No sé por qué lo sigo conservando.}
 {751}{}{¿Me lo puedo quedar?}
-{752}{}{Hmmm. Tenía algunas preguntas más...}
+{752}{}{Hmmmnn. Tenía algunas preguntas más...}
 {760}{}{(Se encoge de hombros) Claro, si quieres. La combinación es }
 {761}{}{¿Cómo se utiliza?}
 {762}{}{Gracias. Tenía algunas preguntas más...}

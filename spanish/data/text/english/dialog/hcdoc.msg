@@ -31,7 +31,7 @@ enfermedad. Entonces decidí que sería doctor.}
 {126}{}{Te sorprendería lo que dice la gente cuando está sufriendo dolor.}
 {127}{}{Oh ¿sí? ¿Como qué?}
 {128}{}{He cambiado de opinión. Me gustaría preguntar otra cosa.}
-{129}{}{Eso te costará 100 dólares.}
+{129}{}{Eso te costará 50 dólares.}
 {130}{}{Pagaré.}
 {131}{}{Olvídalo.}
 {132}{}{Por heridas como esa, perderás 100 dólares.}

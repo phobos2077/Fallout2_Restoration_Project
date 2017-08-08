@@ -41,7 +41,7 @@
 {140}{}{Entonces muere.}
 {141}{}{Bien. Adiós.}
 {142}{}{¡Oye! ¡Sal de aquí o sufrirás las consecuencias!}
-{143}{}{¡Fuera de mi refinería! ¡Ahora!}
+{143}{}{Fuera de mi refinería. ¡Ahora!}
 {144}{}{Aún estamos trabajando en refinar tu mineral. Danos tiempo. Esto no es instantáneo.}
 {145}{}{Quiero preguntarte algo.}
 {146}{}{Bien. Adiós.}

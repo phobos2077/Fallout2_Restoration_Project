@@ -66,7 +66,7 @@
 {148}{}{¡Esa es la mayor gilipollez que he escuchado en toda mi vida!}
 {149}{}{Increíble. Pareces muy documentado. ¿Puedo preguntarte más cosas?}
 {150}{}{Hmm... de acuerdo.}
-{151}{}{(::suspira::) Fueron capturados por el Enclave. Gruthar y la manada fueron obligados a ayudar en su
+{151}{}{::suspira:: Fueron capturados por el Enclave. Gruthar y la manada fueron obligados a ayudar en su
  captura. No tuvieron elección, ya que en esos momentos eran esclavos. El destino de los humanos pesa ahora
  en la conciencia de Gruthar. Nunca se ha perdonado del todo por su complicidad en ese asunto. Los
  humanos fueron capturados vivos pero, ¿quién sabe qué les ha podido ocurrir desde entonces?}

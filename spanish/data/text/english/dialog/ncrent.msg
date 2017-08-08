@@ -1,1 +1,1 @@
-{100}{}{Has entrado en el pequeño asentamiento de Gecko.}
+{100}{}{Has entrado en las afueras del asentamiento amurallado de la Nueva República de California.}

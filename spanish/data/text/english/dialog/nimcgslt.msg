@@ -57,6 +57,6 @@
 {323}{}{No hay nada más que puedas hacer con esta máquina.}
 {324}{}{Esta máquina es una antigualla. Es un milagro que aún funcione. Jugueteas con ella un instante, hasta que escuchas un terrible
  chirrido. De repente decides dejarlo estar.}
-{325}{}{Esta máquina es una antigualla. Es un milagro que aún funcione. Jugueteas con ella un instante, pero no te parece que puedas arreglarla.}
+{325}{}{Esta máquina es una antigualla. Es un milagro que aún funcione. Jugueteas con ella un instante, pero no te parece que puedas arreglarla. Trabajar en la máquina parece haber empeorado las cosas.}
 {326}{}{Esta máquina es una antigualla. Es un milagro que aún funcione. Jugueteas con ella un rato y limpias algunos de los
  engranajes, pero no consigues gran cosa.}

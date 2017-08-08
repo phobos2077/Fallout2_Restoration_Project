@@ -7,4 +7,4 @@
  esa persistente comezón ha desaparecido.}
 {141}{}{¡Oh, Dios mío, es Bess!}
 {150}{}{Ganas }
-{151}{}{ de experiencia por conseguir el GECK.}
+{151}{}{ puntos de experiencia por conseguir el GECK.}

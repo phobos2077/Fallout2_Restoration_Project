@@ -105,7 +105,7 @@
 {341}{}{Hmm, supongo que no está aquí.}
 {342}{}{Lista de estaciones.}
 {343}{}{Desconexión.}
-{350}{}{Buscando enlaces de comunicación… buscando… Iron Mountain… desconectado, NORAD… desconectado, SAC… desconectado. Buscando en PoseidoNet… --¿Más?--}
+{350}{}{Buscando enlaces de comunicación... buscando... Iron Mountain... desconectado, NORAD... desconectado, SAC... desconectado. Buscando en PoseidoNet... --¿Más?--}
 {351}{}{Descargar rutinas de robot de mantenimiento.}
 {352}{}{Más.}
 {353}{}{Desconexión.}
@@ -115,9 +115,9 @@
 {363}{}{Hmm, parece que todo está desactivado o cerrado. Oh, en fin. }
 {370}{}{Accediendo… Acceso a estación Enclave denegado.}
 {371}{}{Accediendo… de nuevo… Acceso a estación Enclave denegado.}
-{372}{}{Accediendo… otra vez… eres un cabrón persistente, ¿eh? … Acceso a estación Enclave denegado.}
-{373}{}{Accediendo… otra vez… ¿aún no te has cansado de esto?… Acceso a estación Enclave denegado.}
-{374}{}{Accediendo… otra vez… ¿no tienes nada mejor que hacer con tu tiempo?… Acceso a estación Enclave denegado.}
+{372}{}{Accediendo... otra vez... eres un cabrón persistente, ¿eh? ... Acceso a estación Enclave denegado.}
+{373}{}{Accediendo... otra vez... ¿aún no te has cansado de esto?... Acceso a estación Enclave denegado.}
+{374}{}{Accediendo... otra vez... ¿no tienes nada mejor que hacer con tu tiempo?... Acceso a estación Enclave denegado.}
 {375}{}{Se acabó. Ya he tenido bastante de esta constante insistencia. Si lo intentas sólo una vez más, vas a lamentarlo.}
 {376}{}{No digas que no te lo advertí. (Mientras estás leyendo esto sientes una oleada de electricidad procedente del teclado castigando tus dedos).}
 {377}{}{¿Quizá debería intentarlo de nuevo?}

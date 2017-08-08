@@ -9,7 +9,7 @@
 {108}{}{Adiós.}
 {109}{prs2a}{Ah, afectado por los sueros de prueba, ya veo. Eh, ahora te traigo ayuda. ¡Guardias!}
 {110}{prs2b}{Creo que has sido expuesto al V.E.F. Pobre diablo, te conseguiré ayuda. ¡Guardias!}
-{111}{prs2c}{Sé un buen mutante y estate quietecito. ¡Guardias!}
+{111}{prs2c}{Ahora sé un buen mutante y estate quietecito. ¡Guardias!}
 {112}{}{Vale.}
 {113}{}{Oh, oh. Adiós.}
 {114}{}{Tan solo espera aquí. }

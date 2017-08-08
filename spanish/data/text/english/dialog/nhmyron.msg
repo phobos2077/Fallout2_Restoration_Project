@@ -229,7 +229,7 @@
 {792}{}{Eh, ¿"extracto de proteína"?}
 {800}{myn119}{¿Redding? Una ciudad llena de buscadores de oro. Mordino quería controlarla por completo. Así que se me acercó y con su voz sibilante dijo, 'Myron, Myron, fabrícame algo que me entregue Redding'.}
 {801}{}{Y tú dijiste…}
-{810}{myn120}{Y yo dije, 'vale, ¿de qué plazo estamos hablando?' Y él dijo, por supuesto, 'para ayer'. Señores del crimen. Todo lo quieren rápido y chapucero. Al menos no tienen departamento de mercadotecnia.}
+{810}{myn120}{Y yo dije, "Vale, ¿de qué plazo estamos hablando?" Y él dijo, por supuesto, "Para ayer". Señores del crimen. Todo lo quieren rápido y chapucero. Al menos no tienen departamento de mercadotecnia.}
 {811}{}{Ya veo. Volvamos a hablar sobre la producción del Jet.}
 {820}{myn121}{Antes de la Gran Guerra algunas empresas cárnicas experimentaron con un extracto de proteína barato para el cultivo de alimentos, pero tuvieron que abandonar.
  Una pequeña bacteria de la piel la contaminó, y todo se fue a tomar viento.}
@@ -431,7 +431,7 @@
 {1395}{myn219a}{¿Sólo eso? ¿Por qué estás aquí? ¿Eh? ¿Pensaste en que podrías darle a Myron un sablazo de drogas gratis?}
 {1396}{myn219b}{Lo que sea, preciosa. ¿Quieres algunas drogas para romper el hielo, o deberíamos pasar directamente a hacer bailar el colchón?}
 {1397}{}{Podría, pero no tengo diez segundos que perder ahora mismo. ¿De qué drogas estás hablando?}
-{1398}{}{¿Oh? ¿Como qué?}
+{1398}{}{¿Drogas? ¿Como qué?}
 {1399}{}{Definitivamente estoy en la habitación equivocada. Disculpa.}
 {1405}{myn220a}{¡Oye, estúpido! ¡Jet, hijo de puta, Jet! Estás hablando con su hacedor. Su creador. Con... Dios.}
 {1406}{myn220b}{¿Eres estúpida? ¡Jet, zorra, Jet! Estás hablando con su hacedor. Su creador. Con... Dios.}
@@ -635,7 +635,7 @@
 {3004}{}{¿Con qué armas eres hábil, Myron? ¿Alguna?}
 {3005}{}{No importa, hay otra cosa que necesito de ti.}
 {3025}{}{Lo que sea.}
-{5000}{}{¡Joder! ¡Odio este juego!}
+{5000}{}{¡Joder! ¡Joder! ¡No puedo sentir más este miembro!}
 {5001}{}{I feel like I am fucking melting!}
 {5002}{}{I'm puking my fucking guts out over here!}
 {5616}{}{Desde luego. Pruébame.}

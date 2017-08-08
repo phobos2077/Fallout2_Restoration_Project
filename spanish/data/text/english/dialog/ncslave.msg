@@ -1,5 +1,5 @@
 {100}{}{Ves a un esclavo escuálido.}
-{101}{}{Ves a un esclavo.}
+{101}{}{Ves a un esclavo drogado.}
 {102}{}{Ves a un esclavo.}
 {150}{}{Ves a un hombre hecho polvo. Su mirada se mueve rápidamente por toda la zona, como si siguiese a algún insecto invisible.}
 {151}{}{Ves a un esclavo escuálido. Parece terriblemente asustado, y sus ojos parecen incapaces de centrarse en ti.}

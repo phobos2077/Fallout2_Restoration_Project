@@ -221,7 +221,7 @@
 {1002}{}{(Pierdes a Lloyd en cuanto sales de Nuevo Reno).}
 {1050}{}{(Dejas marchar a Lloyd).}
 {1051}{}{*grumble* Coulda been my money.}
-{1052}{}{Gracias por hacérmelo saber. Adiós.}
+{1052}{}{Uh... Gracias por dejarme vivir.}
 {1053}{}{When you reemerge from the grave Llyod is nowhere to be seen.}
 {1054}{}{Forget you. This is my money and you aint getting any of it!}
 {5213}{}{ yo }
