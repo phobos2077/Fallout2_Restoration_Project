@@ -305,7 +305,7 @@
 {28800}{}{Guardaespaldas del Presidente}
 {28900}{}{Huevo Garra mortal}
 {29000}{}{Metzger}
-{29100}{}{Personal}
+{29100}{}{Persona}
 {29200}{}{Ves a un hombre que lleva una especie de armadura.}
 {29300}{}{Presidente}
 {29400}{}{Vicepresidente}

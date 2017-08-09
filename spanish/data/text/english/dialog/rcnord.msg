@@ -9,10 +9,10 @@
 {107}{}{No puedo recompensar a una caravana tan catastrófica. No recibirás nada de mí.}
 {108}{}{¡Bastardo asqueroso! Pagarás caro el haberme timado. Adiós.}
 {109}{}{Bien, algunas veces se tiene más suerte que otras. Esta ha sido una de esas malas veces. Adiós.}
-{110}{}{Esta ha sido una caravana muy poco rentable. No puedo darte más de 500 dólares por tu parte.}
+{110}{}{Esta ha sido una caravana muy poco rentable. No puedo darte más de 50 dólares por tu parte.}
 {111}{}{Bien, creo que poco es mejor que nada. Adiós.}
 {112}{}{¡Bastardo asqueroso! Nadie podría haber hecho un trabajo mejor. Pagarás caro el haberme timado. Adiós.}
-{113}{}{No ha estado mal del todo. Aquí están tus 1.500 dólares. No sé cuándo encontraremos a alguien más para dirigir
+{113}{}{No ha estado mal del todo. Aquí están tus 100 dólares. No sé cuándo encontraremos a alguien más para dirigir
  la caravana, pero si lo hacemos puedes volver a trabajar con nosotros.}
 {114}{}{No creo querer volver a pasar tanto tiempo mirando el culo de un brahmin. Adiós.}
 {115}{}{No estuvo mal del todo. Hasta otra. Adiós.}
@@ -25,4 +25,4 @@
 {120}{}{¿Vaaaaaaaaale?}
 {121}{}{Es una maldita vergüenza que Stanwell estirara la pata. Me llamo Nording. Yo saldaré la deuda.}
 {122}{}{Eh, gracias.}
-{123}{}{Es una maldita vergüenza que Stanwell estirara la pata. Me llamo Nording. Yo saldaré la deuda.}
+{123}{}{Es una maldita vergüenza que Stanwell estirara la pata.}

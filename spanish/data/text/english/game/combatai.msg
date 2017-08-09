@@ -57,7 +57,7 @@
 {1056}{}{:tose: No puedo respirar.}
 {1057}{}{Me siento débil, no puedo seguir.}
 {1058}{}{Ayúdame, ¡ayuuuudameeeeee!}
-{1059}{}{Oh Dios, oh Dios, oh Dios....}
+{1059}{}{Oh Dios, oh Dios, oh Dios...}
 {1060}{}{¡Ay, mi pierna!}
 {1061}{}{¡Mi rodilla!}
 {1062}{}{¡Ay!}
@@ -1029,15 +1029,15 @@
 {2521}{}{Carne fresca...}
 {2522}{}{Bailaré sobre tu tumba.}
 {2523}{}{¡Eh, todos! ¡Es la diana de practicas!}
-{2524}{}{Prepárate, puta.}
+{2524}{}{¿Estás listo, puta?}
 {2525}{}{Voy a disfrutar de esto...}
 {2540}{}{¡¡¡Toma esto!!!}
 {2541}{}{No te molestes en pedir piedad...}
 {2542}{}{Esta es la mejor parte...}
-{2543}{}{¿Quieres más? ¿Eh?}
+{2543}{}{¿Quieres más? ¡¿Eh?!}
 {2544}{}{¡Serás comida para los perros!}
 {2545}{}{No deberías empezar lo que no puedas terminar.}
-{2546}{}{¡Espero que no mueras muy pronto!}
+{2546}{}{Espero que no mueras muy pronto.}
 {2547}{}{Sólo uno de nosotros saldrá vivo de ésta.}
 {2548}{}{¡Muere!}
 {2549}{}{Me como a basura como tú para desayunar.}

@@ -28,7 +28,7 @@
 {127}{}{Dispara.}
 {128}{}{¿Refugio 13?}
 {129}{}{¿Sabes donde puedo encontrar el Refugio 13?}
-{130}{}{He oído decir que el señor Westin no está bien. ¿Es cierto? Me preocupa que algo pueda sucederle. Me debe algo de dinero.}
+{130}{}{He oído decir que el señor Westin no está bien. ¿Es cierto? Me preocupa que algo pueda sucederle. Me debe dinero.}
 {131}{}{Ese tipo, Cecina Bob, dice que tú le robaste un mapa. ¿Cual es el problema?}
 {132}{}{Estoy buscando trabajo. ¿Sabes de alguno?}
 {133}{}{Doctor, no sabrás nada sobre un grupo que lucha contra esos malvados esclavistas, ¿verdad?}

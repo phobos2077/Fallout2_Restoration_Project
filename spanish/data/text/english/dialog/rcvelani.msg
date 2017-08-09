@@ -8,10 +8,10 @@
 {107}{}{Aquella caravana era una desgracia. Me alegra que Savinelli no sobreviviera. No puedo creer que pienses que me harás pagar ese fracaso. Sal de aquí.}
 {108}{}{¡Bastardo asqueroso! Pagarás caro el haberme timado. Adiós.}
 {109}{}{Bien, algunas veces se tiene más suerte que otras. Esta ha sido una de esas malas veces. Adiós.}
-{110}{}{Te pagaré por la mierda de trabajo que has hecho. Toma 500 dólares. Ahora sal de aquí.}
+{110}{}{Te pagaré por la mierda de trabajo que has hecho. Toma 50 dólares. Ahora sal de aquí.}
 {111}{}{Bien, creo que poco es mejor que nada. Adiós.}
 {112}{}{¡Bastardo asqueroso! Nadie podría haber hecho un trabajo mejor. Pagarás caro el haberme timado. Adiós.}
-{113}{}{Bien, la mayor parte de la caravana lo consiguió, aunque Savinelli no pudo. Aquí tienes 1.500 dólares. Aunque no sé cuando conseguiremos a alguien más para la caravana.}
+{113}{}{Bien, la mayor parte de la caravana lo consiguió, aunque Savinelli no pudo. Aquí tienes 100 dólares. Aunque no sé cuando conseguiremos a alguien más para la caravana.}
 {114}{}{No creo querer volver a pasar tanto tiempo mirando el culo de un brahmin. Adiós.}
 {115}{}{No estuvo mal del todo. Hasta otra. Adiós.}
 {116}{}{Buena carrera. Puedes quedarte la parte de Savinelli, que él no la necesitará. 150 dólares para ti. No sé cuándo conseguiremos a alguien más para mover esta maldita caravana. Pero si lo hacemos, seguirás teniendo un trabajo aquí si lo quieres.}

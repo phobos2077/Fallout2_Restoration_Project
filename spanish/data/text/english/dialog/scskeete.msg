@@ -53,8 +53,7 @@
 {152}{}{Sí, claro. Como a veces ando un poco corto y tengo mis necesidades, entiendes, como cuando comienzo a sentirme enfermo, entonces necesito conseguir algunas fichas o algo, y entonces voy a hablar con Merk.}
 {153}{}{Amigo, Merk es el hombre. Tiene lo que uno necesita. A veces me deja dormir en el Rawhide cuando cierra. Pero después me pide que le haga pequeños favores.}
 {154}{}{Estoy llegando a eso... ¡caramba, esos colores, amigo! Merk a veces quiere cosas de los coches que vigilo. ¡Pero le engañé!}
-{155}{}{Verás, sólo me guardo cosas de los coches que no me pagan por vigilar. Él cree que estoy timando a mis clientes, pero yo no hago eso.
-   Amigo, tengo que dejar de hablar. Me gusta ver las cosas... oh, amigo, el resplandor. Todo resplandece.}
+{155}{}{Verás, sólo me guardo cosas de los coches que no me pagan por vigilar. Él cree que estoy timando a mis clientes, pero yo no hago eso. Amigo, tengo que dejar de hablar. Me gusta ver las cosas... oh, amigo, el resplandor. Todo resplandece.}
 {156}{}{Dame todo tu material.}
 {157}{}{Dime lo que sabes.}
 {158}{}{Basta, no puedo llevar más.}
@@ -73,13 +72,13 @@
 {171}{}{No me mientas. Volveré si lo haces.}
 {172}{}{Claro. Me tienes miedo.}
 {173}{}{50 pavos dicen que lo recuerdas bien.}
-{174}{}{Que te den, estúpido.}
+{174}{}{Que te den, hombrecito.}
 {175}{}{Que te den. Me largo de aquí.}
 {176}{}{¿Necesitas vigilar un coche? No hay problema. Puedo hacerlo.}
 {177}{}{¡Sí, vigilo coches, sí, COCHES... COCHES.. sí, coches...!}
 {178}{}{LA LA LA LA COCHES, hey, dame un coche y LO VIGILARÉ..}
 {179}{}{VIGILAR vigilar vigilar VIGILAR vigilar VIGILar VIGILAAAAR vigilar}
-{180}{}{Escribí una canción sobre ello, quieres escucharla, y ahí va}
+{180}{}{Escribí una canción sobre ello, ¿quieres escucharla? Ahí va...}
 {181}{}{Coches COOCHES COCHES Coches Coches COOOOCHES Coches NOCHES}
 {182}{}{¡¿Noches?! Sí, también puedo vigilar las noches. ¡¡A todos les gustan las NOCHES!!}
 {183}{}{ME GUSTAN LAS NOCHES SUENA COMO COCHES Y ESO ES LO QUE VIGILO!}

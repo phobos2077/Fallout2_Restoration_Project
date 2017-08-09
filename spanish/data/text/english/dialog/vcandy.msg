@@ -248,6 +248,6 @@
 {347}{}{ pavos por ser tú, y nos pondremos a ello. El procedimiento no servirá en tu cerebro robot, amigo. ¿Qué me dices?}
 {348}{}{¡Genial! ¡Siempre quise parecerme a Kryten! Aquí está el dinero y la armadura de combate.}
 {349}{}{De acuerdo. Allá vamos.}
-{350}{}{Has perdido -2 Max PS.}
+{350}{}{Has perdido -4 Max PS.}
 {351}{}{Wahh? Me still fee no good. Me go sleep now.}
-{352}{}{Eh... de acuerdo. Adiós.}
+{352}{}{Eh... de ac-cuerdo. Adiós}

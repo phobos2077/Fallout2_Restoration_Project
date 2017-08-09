@@ -49,7 +49,7 @@
 {148}{}{¿Sabes dónde está el Refugio 13?}
 {149}{}{Busco GECK. ¿Tienes?}
 {150}{}{¿Qué puedes decirme de Nuevo Reno?}
-{151}{}{¿Qué puedes decirme de Frank Westin?}
+{151}{}{¿Qué puedes decirme de Roger Westin?}
 {152}{}{¿Qué puedes decirme de Carlson?}
 {153}{}{Anciana cuenta historia. Habla de Morador de Refugio, habla de Tandi. ¿Tú esa Tandi?}
 {154}{}{¿Esto es Arenasombra que dijo Anciana?}
@@ -59,7 +59,7 @@
 {158}{}{¿Sabes dónde está el Refugio 13?}
 {159}{}{Estoy buscando un GECK. ¿No tendrías uno?}
 {160}{}{¿Qué puedes decirme de Nuevo Reno?}
-{161}{}{¿Qué puedes decirme de Frank Westin?}
+{161}{}{¿Qué puedes decirme de Roger Westin?}
 {162}{}{¿Qué puedes decirme de Carlson?}
 {163}{}{La Anciana me contó una historia acerca del Morador del Refugio y alguien llamado Tandi. ¿Eres tú esa Tandi?}
 {164}{}{¿Esto es la Arenas Sombrías que nombró la Anciana?}
@@ -158,13 +158,13 @@
 {257}{}{Bastante seguro. Había algunos maleantes por allí pero les pateé sus culos.}
 {258}{tand34}{Siempre he creído en un buen precio a cambio de un buen trabajo. Mi ayudante se encargará de ello.}
 {259}{}{Encontrado problema. Mira disco. Hay espía en RNC.}
-{260}{}{Digo una cosa más. Yo encuentro Refugio 13 ya.}
+{260}{}{Digo una cosa más. ¿Qué si yo encuentro Refugio 13 ya?}
 {261}{}{Me temo que tienes otro problema. Si compruebas este holodisco verás que tenéis un espía en la RNC.}
 {262}{}{Sólo una cosa más. ¿Y si te dijera que he encontrado el Refugio 13?}
 {263}{}{Gracias.}
 {264}{tand35}{¡Maldición, la única persona que conocía todo esto era Feargus! No estoy sugiriendo nada, pero quizá Gunther debería saber esto.}
 {265}{}{Yo cuento. Marcho ahora.}
-{266}{}{Digo una cosa más. Yo encuentro Refugio 13 ya.}
+{266}{}{Digo una cosa más. ¿Qué si yo encuentro Refugio 13 ya?}
 {267}{}{Sólo una cosa más. ¿Y si te dijera que he encontrado el Refugio 13?}
 {268}{}{Hablaré con él. Adiós.}
 {269}{tand36}{Sólo negocios, ¿eh? De acuerdo. Quinientos, cuando esté hecho. Yo no regateo, así que tómalo o no me hagas perder el tiempo.}
@@ -215,7 +215,7 @@
 {314}{}{Hecho}
 {315}{tand14b}{Mi padre y Seth buscaron durante años el Refugio 13. Murieron buscando, y siempre decían que estaba al oeste de aquí. Si alguien encontrase el Refugio 13, eso nos vendría mejor que el 15.}
 {316}{}{Tendrás que hablar con mi ayudante, Gunther, sobre eso.}
-{400}{}{Yo estado allí. Ok-kupas quieren trato. Tú enseñas, ayudas, ellos te dan Refugio.}
-{401}{}{Ya me he encargado de casi todo. Los okupas quieren un trato. Les ayudáis a ser autosuficientes y ellos os darán acceso al Refugio.}
+{400}{}{Ok-kupas quieren trato. Tú enseñas, ayudas, ellos te dan Refugio.}
+{401}{}{Los okupas quieren un trato. Les ayudáis a ser autosuficientes y ellos os darán acceso al Refugio.}
 {410}{}{Seguro. Allí había malos pero yo dí patadas en el culo.}
 {411}{}{Bastante seguro. Había algunos maleantes por allí pero les pateé sus culos.}

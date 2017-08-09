@@ -565,7 +565,7 @@
 {5129}{}{. Sin protección ahí, le causa un grave dolor}
 {5130}{}{. La herida le causa una severa ceguera, como si hubiese mas de un tipo de ceguera}
 {5131}{}{. Se desmaya por el potente golpe}
-{5132}{}{, por desgracia, no tiene tiempo de rezar sus ultimas oraciones}
+{5132}{}{. Por desgracia, no tiene tiempo de rezar sus ultimas oraciones}
 {5133}{}{. Se lo toma como un hombre. Es decir, le duele}
 {5134}{}{, tirándola al suelo}
 {5135}{}{. Sus días de maternidad están en entredicho mientras siga cojeando tanto}
@@ -592,7 +592,7 @@
 {5220}{}{, golpeándole en su joven nariz}
 {5221}{}{. Un corte aparece sobre los ojos y la sangre empieza a manar sin control}
 {5222}{}{, que le abre un ojo como una uva cuando estalla. El niño parece desconcertado}
-{5223}{}{ causando ceguera. El joven cae al suelo}
+{5223}{}{, causando ceguera. El joven cae al suelo}
 {5224}{}{, el golpe se prolonga por el pequeño cerebro}
 {5225}{}{. El niño parece confuso y trastornado}
 {5226}{}{, golpeando a este joven hacia el suelo}
@@ -637,7 +637,7 @@
 {5507}{}{, cegando ambos conjuntos de ojos con un solo golpe}
 {5508}{}{, cegando ambas cabezas y atontando a la vaca mutante}
 {5509}{}{, cegando completamente al brahmin y tumbándolo}
-{5510}{}{, el gran bovino mutante tropieza}
+{5510}{}{. El gran bovino mutante tropieza}
 {5511}{}{. El brahmin se sacude con rabia}
 {5512}{}{. El brahmin resopla de dolor}
 {5513}{}{. El brahmin está totalmente furioso por ese ataque devastador}
@@ -671,23 +671,23 @@
 {5710}{}{, haciéndole un gran agujero en su pata izquierda}
 {5711}{}{, haciendo más daño por darle en un punto sensible}
 {5712}{}{, enviando a esta criatura al gran paraíso de las ratas}
-{5800}{}{, el nómada cae al suelo}
-{5801}{}{, el nómada cae al suelo, aparentemente con menos salud}
+{5800}{}{. El nómada cae al suelo}
+{5801}{}{. El nómada cae al suelo, aparentemente con menos salud}
 {5802}{}{, con serias consecuencias para su existencia}
 {5803}{}{, atontando a la horrible criatura}
 {5804}{}{, golpeándolo en un punto sensible y atontando al nómada}
 {5805}{}{. El golpe hace que el nómada se estremezca violentamente en un chorro carmesí}
-{5806}{}{, el golpe causa algún tipo de reacción violenta en la criatura}
+{5806}{}{. El golpe causa algún tipo de reacción violenta en la criatura}
 {5807}{}{. El nómada de pronto estalla en llamas}
-{5808}{}{ sufre una sacudida frenética y se estremece como gelatina}
+{5808}{}{. Sufre una sacudida frenética y se estremece como gelatina}
 {5809}{}{, golpeándole en un punto sensible}
 {5810}{}{. La criatura está obviamente agitada}
-{5900}{}{, el centauro se tropieza y queda atontado}
+{5900}{}{. El centauro se tropieza y queda atontado}
 {5901}{}{ el golpe alcanzó un punto crítico}
 {5902}{}{, causando un fallo neurológico masivo}
 {5903}{}{, atontándolo por tu ataque violento}
 {5904}{}{, rompiéndole el brazo}
-{5905}{}{ dándole en un punto crítico, y rompiéndole el brazo}
+{5905}{}{, dándole en un punto crítico. El brazo está roto}
 {5906}{}{, tirando a la criatura y rompiéndole la pata}
 {5907}{}{, atontando al centauro al tiempo que cae debido a una pata rota}
 {5908}{}{, cegándole}
@@ -696,7 +696,7 @@
 {5911}{}{, sorprendiendo al centauro. Se desploma como un montón de materia pegajosa}
 {5912}{}{. El ataque no fue tan eficaz como podría haber sido}
 {6000}{}{, produciéndole cierto daño estructural}
-{6001}{}{, vuelan las chispas y el robot pierde momentáneamente el control}
+{6001}{}{. Vuelan las chispas y el robot pierde momentáneamente el control}
 {6002}{}{, golpeando un componente crítico y forzando al robot a perder el control}
 {6003}{}{, golpeando un componente crítico y causándole un fallo de funcionamiento masivo}
 {6004}{}{. El robot intenta compensarse}
@@ -712,16 +712,16 @@
 {6100}{}{, tirando al perro al suelo}
 {6101}{}{, justo a través del hocico}
 {6102}{}{. El perro se cae, pero todavía sigue respirando}
-{6103}{}{, el animal tose sangre}
+{6103}{}{. El animal tose sangre}
 {6104}{}{, rompiéndole la pata}
 {6105}{}{, rompiéndole la pata. El animal intenta seguir en pie, pero no puede}
 {6106}{}{. El animal cegado aúlla de dolor}
 {6107}{}{, neutralizando al pobre animal}
 {6200}{}{, tumbando a este insecto mutante}
-{6201}{}{, que se desploma}
-{6202}{}{. La mantis no sabe si seguirá viviendo}
+{6201}{}{. Se desploma}
+{6202}{}{. La mantis no sabe si seguirá o no viviendo}
 {6203}{}{, rompiéndole un miembro}
-{6204}{}{, haciendo que la mantis lama sus heridas, mientras intenta sujetar su miembro}
+{6204}{}{, haciendo que la mantis lama sus heridas. Sujeta su miembro extrañamente}
 {6205}{}{, traspasando su caparazón}
 {6206}{}{. Los chillidos y temblores de la mantis no parecen los de un ser humano}
 {6207}{}{, lo que causa que la mantis caiga. Un miembro de su cuerpo está extrañamente doblado}
@@ -742,7 +742,7 @@
 {6501}{}{. Tu armadura no te proporciona ninguna protección contra este golpe bien dirigido}
 {6502}{}{. Sientes dolor durante un momento, y entonces se te oscurece la vista...}
 {6503}{}{, traspasando tu armadura. El golpe te hace caer}
-{6504}{}{, el choque hace que te quedes a ciegas. Después de un momento, te das cuenta de que sigues sin ver}
+{6504}{}{. El choque hace que te quedes a ciegas. Después de un momento, te das cuenta de que sigues sin ver}
 {6505}{}{. Consigues una bonita vista de tu cuerpo cuando tu cabeza salta por los aires}
 {6506}{}{. Asombrosamente, el daño parece menor de lo normal}
 {6507}{}{, aturdiéndote por un momento}

@@ -15,7 +15,7 @@
 {114}{}{Desde luego, forastero, ¿qué quieres saber?}
 {115}{}{Háblame de la RNC.}
 {116}{}{¿Qué tratos tienes con Merk?}
-{117}{}{¿Qué puedes decirme de Frank Westin?}
+{117}{}{¿Qué puedes decirme de Roger Westin?}
 {118}{}{Estoy intentando reunirme con el viejo Carlson. ¿Sabes de alguien que pueda ayudarme?}
 {119}{}{¿Tienes un GECK?}
 {120}{}{Esto está bien, forastero, pero no me dedico a la caridad.}
@@ -29,10 +29,10 @@
 {128}{}{No me meto con el señor Merk si no se me paga por cotillear sobre él. Si tienes preguntas, pregunta por él en el Rawhide.}
 {129}{}{Ya veo.}
 {130}{}{Adiós.}
-{131}{}{¿Frank Westin? ¿Te refieres al tipo del Congreso? Consiguió unos terrenos al oeste del poblado. El hombre de los brahmines: un puntal en la Asociación de Ganaderos. Siempre está buscando un par de manos, si quieres trabajo.}
+{131}{}{¿Roger Westin? ¿Te refieres al tipo del Congreso? Consiguió unos terrenos al oeste del poblado. El hombre de los brahmines: un puntal en la Asociación de Ganaderos. Siempre está buscando un par de manos, si quieres trabajo.}
 {132}{}{Ya veo.}
 {133}{}{Adiós.}
-{134}{}{Es gracioso que estés preguntando después de lo que sucedió con Frank Westin. Yo no lo sé, pero tengo un compañero, Merk, en el Rawhide, que tal vez podría ayudarte.}
+{134}{}{Es gracioso que estés preguntando después de lo que sucedió con Roger Westin. Yo no lo sé, pero tengo un compañero, Merk, en el Rawhide, que tal vez podría ayudarte.}
 {135}{}{Ya veo.}
 {136}{}{Adiós.}
 {137}{}{¿Una de esas importaciones de pre-guerra? Déjame adivinar: ¿munición de 14mm? No, no tengo.}

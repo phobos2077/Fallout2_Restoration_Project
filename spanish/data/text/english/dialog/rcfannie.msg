@@ -1,7 +1,7 @@
 {100}{}{Ves a una mujer de apariencia descuidada.}
 {101}{}{Ves a Fannie Mae, una de las camareras del Salón Malamute.}
 {102}{}{Ves a una mujer que parece tener encima un montón de kilometraje.}
-{103}{}{(Fannie parece claramente enferma por la forma en que se tambalea hacia ti). Hola, guapetón. No me siento
+{103}{}{[Fannie parece claramente enferma por la forma en que se tambalea hacia ti]. Hola, guapetón. No me siento
  demasiado bien últimamente. ¿Me darías algo de dinero para un chute rápido? Puedo hacer que te merezca la
  pena (sonríe).}
 {104}{}{(Fannie parece claramente enferma por la forma en que se tambalea hacia ti). Hola, hermana. ¿Puedes gastar

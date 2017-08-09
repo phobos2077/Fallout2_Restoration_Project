@@ -1,4 +1,4 @@
-{100}{}{Un mutante, y parece de los sociables.}
+{100}{}{Ves a un mutante, y parece de los sociables.}
 {101}{}{Es Lenny, ¿recuerdas? El desagradable.}
 {102}{}{Caramba, chico: lo tiene todo. Aparte del hecho de ser verde y feo, tiene más cicatrices que una prostituta vieja. Está claro que es un guerrero.}
 {103}{}{Yo soy Lenny y tú eres escoria de charca. Fuera de aquí.}

@@ -75,4 +75,4 @@
 {174}{}{Vale, ya lo pillo.}
 {175}{}{¡Qué cojones? ¡Guardias! ¡Tenemos un intruso!}
 {176}{}{Entra ahí y te vuelo la puta cabeza. ¿Lo pillas?}
-{177}{}{Hemos cerrado. Vuelve por la mañana.}
+{177}{}{Es tarde y hemos cerrado. Vuelve por la mañana.}

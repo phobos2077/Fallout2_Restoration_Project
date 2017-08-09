@@ -53,7 +53,7 @@
 {152}{}{Precioso. ¿Vas a contestar a mi pregunta o no?}
 {153}{}{Oh, sólo es algo que he oído. Sólo quería saber qué es lo que dirías.}
 {154}{}{Suponiendo que sepa algo. ¿Qué pasa con ello?}
-{155}{}{Ahora bien, si un hombre tenía algunas cosas que ahora le faltan, ¿supones que tendría que comprar dichas cosas de nuevo?}
+{155}{}{Ahora bien, si una persona tenía algunas cosas que ahora le faltan, ¿supones que tendría que comprar dichas cosas de nuevo?}
 {156}{}{¡Quiero mi mierda de vuelta, gordinflón!}
 {157}{}{¿Qué te parece si hablo con la ley?}
 {158}{}{Me he hartado de esto. Muchachos, encargaos de nuestro invitado.}
@@ -66,7 +66,7 @@
 {165}{}{¿Jet? ¿Estás proponiendo algo...?}
 {166}{}{Aquí mi amigo sabe cómo conseguirlo. ¿Te interesa?}
 {167}{}{¿Algo ilegal? No, no lo haría.}
-{168}{}{Intrigante. Te daré 1.000 dólares por sus servicios... de forma permanente.}
+{168}{}{Intrigante. Te daré 1.000 dólares por sus servicios.}
 {169}{}{Es un trato.}
 {170}{}{No, no puedo hacerle eso a un amigo.}
 {171}{}{Parece que podemos hacer negocios, amigo. Este es el trato: hay un científico chiflado en la ciudad, el doctor Henry. Tiene ciertos papeles que quiero. Pagaré 1.000 dólares por ellos. Oh, y no quiero que se haga daño al doctor Henry. Vivo resulta útil. ¿Te interesa?}
@@ -131,9 +131,7 @@
 {230}{}{Estoy en ello, Merk.}
 {231}{}{No necesito un trabajo. Gracias de todos modos.}
 {232}{}{Excelente. Vuelve cuando lo hayas hecho.}
-{233}{}{Eso es muy preocupante.
-
-Muchachos, matadlo y recuperad la evidencia.}
+{233}{}{Eso es muy preocupante. Muchachos, matadlo y recuperad la evidencia.}
 {234}{}{Tus patéticos intentos de intimidarme son casi divertidos, pero ahora te sugiero que te vayas antes de que me canse de este juego.}
 {235}{}{Ah, he escuchado las noticias. ¿Sigues interesado en un trabajo?}
 {236}{}{Sí, estoy cansado de regalitos. Podría hacer el trabajo.}
@@ -172,4 +170,4 @@ Muchachos, matadlo y recuperad la evidencia.}
 {269}{}{Bien, ¿y qué tal si te comes esta bala por las molestias?}
 {270}{}{Hmmphf.}
 {271}{}{ de experiencia por encargarte de la Hubologista para Merk.}
-{272}{}{ de experiencia por recuperar los papeles del doctor Henry.}
+{272}{}{Has recuperado los papeles del doctor Henry.}

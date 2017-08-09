@@ -210,7 +210,7 @@
 {258}{}{¿No lo hice? Se me debe haber pasado. Sí, esto debió ser. Bueno, pues tiene tres
  hermanos mayores... incluso peores de lo que era él, por lo que he oído. Veamos... Sapo, Tritón y Serpiente Morton, si
  no recuerdo mal. Diablos, ya sabes cómo son esas trolas. Por cierto, guárdate esa insignia que te di. Te
- la has ganado… sheriff (sonríe).}
+ la has ganado… sheriff. (Sonríe).}
 {259}{}{Eh, sí. Desde luego. Bueno, he de marcharme. Tengo una cita, en algún lugar. Algún lugar
  muy lejos de Redding. Adiós.}
 {260}{}{Nada más que otras tres muescas en mi arma. No hay problema. Hasta la próxima, sheriff.}

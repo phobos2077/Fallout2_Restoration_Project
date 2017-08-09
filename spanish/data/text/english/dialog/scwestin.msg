@@ -21,11 +21,9 @@
 {120}{}{Tendría que haberlo supuesto. ¿Qué te prometió? ¿Dinero, drogas, sexo? No importa. No tendrás nada de eso.}
 {121}{}{¿Qué quieres decir?}
 {122}{}{Cierra el pico.}
-{123}{}{Oh, eres un simple, ¿verdad? Qué triste. Ha de ser un cruz difícil de soportar. 
-Escucha: vete, y habla con Fee-lix. Él te dará trabajo. ¿Entiendes?}
+{123}{}{Oh, eres un simple, ¿verdad? Qué triste. Ha de ser un cruz difícil de soportar. Escucha: vete, y habla con Fee-lix. Él te dará trabajo. ¿Entiendes?}
 {124}{}{Uh-huh.}
-{125}{}{¿Qué crees? Sabes demasiado. ¿Qué pasa si vuelves a RNC y te venden, o te amenazan? Como mejor estás es muerto. 
-Por otro lado, tengo una oferta mejor.}
+{125}{}{¿Qué crees? Sabes demasiado. ¿Qué pasa si vuelves a RNC y te venden, o te amenazan? Como mejor estás es muerto. Por otro lado, tengo una oferta mejor.}
 {126}{}{¿Como cuales?}
 {127}{}{No te creo.}
 {128}{}{Cárgate a Bishop. Te pagaré, lo que sea que recibirías más un 50%. ¿Qué me dices?}
@@ -75,4 +73,4 @@ Por otro lado, tengo una oferta mejor.}
 {172}{}{Debes ..... hablar con Feeellliixx.}
 {173}{}{Vaya, supongo que tenía un problema cardíaco.}
 {174}{}{AHHAHH!!! AHAHAHHAH!!! AHHAHAH!!! ¡¡¡QUEMA!!!}
-{175}{}{Has entregado el holodisco de Westin a Lynette.}
+{175}{}{Has entregado el holodisco a Westin.}

@@ -60,4 +60,4 @@
 {159}{}{O me vuelo por los aires o tú me matas. ¿Qué importa?}
 {160}{}{¡No estoy tratando de hacerte daño! Sólo quiero que recuerden...}
 {161}{}{Ganas }
-{162}{}{ de experiencia por encargarte de Jack para Mira.}
+{162}{}{ puntos de experiencia por encargarte de Jack para Mira.}
