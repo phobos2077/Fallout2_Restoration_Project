@@ -416,7 +416,7 @@
 {516}{}{Monte Tres-Cartas}
 {517}{}{Algernon}
 {518}{}{Bill}
-{519}{}{Guardia de Bishop 1}
+{519}{}{Guardaespaldas de Bishop}
 {520}{}{John Bishop}
 {521}{}{Tragaperras}
 {522}{}{Chico del desguace}
@@ -439,7 +439,7 @@
 {539}{}{Orville Wright}
 {540}{}{Jefe del Foso}
 {541}{}{Renesco el Astronauta}
-{542}{}{Marjorie}
+{542}{}{Marjorie Reed}
 {543}{}{Salvatore}
 {544}{}{Stuart Little}
 {545}{}{T-Ray}
@@ -731,11 +731,11 @@
 {831}{}{Map Script}
 {832}{}{Forastero Misterioso}
 {833}{}{Brahmin loco}
-{834}{}{Yakuza}
+{834}{}{Miembro de Yakuza}
 {835}{}{Salvaje}
 {836}{}{Perro}
 {837}{}{Caja}
-{838}{}{Guardia de la patrulla}
+{838}{}{Miembro de la patrulla}
 {839}{}{Viajero}
 {840}{}{Humo}
 {841}{}{Comerciante}
@@ -746,7 +746,7 @@
 {846}{}{Trabajador del puerto}
 {847}{}{Campesino}
 {848}{}{Guardia de Shi}
-{849}{}{Lanzallamas}
+{849}{}{Cameron}
 {850}{}{Puerta}
 {851}{}{Klint}
 {852}{}{Cosecha}
@@ -889,7 +889,7 @@
 {989}{}{Existencias de Darrow}
 {990}{}{Puerta}
 {991}{}{Mutante superguay}
-{992}{}{Ves al doctor Jing Tie Gahng}
+{992}{}{Doctor Jing Tie Gahng}
 {993}{}{Grundel}
 {994}{}{Melchor}
 {995}{}{Escaner de retina}
