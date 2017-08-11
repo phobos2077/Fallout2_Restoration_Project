@@ -27,4 +27,4 @@
 {126}{}{Un poco contundente, pero se entiende su punto de vista.}
 {127}{}{(Volver)}
 {128}{}{Ya he leído bastante.}
-{130}{}{¡Ya me duele bastante la cabeza!}
+{130}{}{Mi cabeza duele. Demasiado leer.}

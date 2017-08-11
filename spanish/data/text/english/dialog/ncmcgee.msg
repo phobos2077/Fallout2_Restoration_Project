@@ -70,7 +70,7 @@
 {317}{}{(Echa mano a su rifle, pero sólo encuentra aire). ¿Eh? ¿Dónde demonios está mi rifle…?}
 {318}{}{Te lo enseñaré...}
 {319}{}{Oh, oh...}
-{320}{}{I tookie when yoo no lookie.}
+{320}{}{Lo tomé cuando no te veías.}
 {321}{}{Uh...}
 {325}{}{¡De forma justa mis peludos cojones! Mozalbete, lo que has hecho es firmar tu propia sentencia de muerte!}
 {326}{}{¡De forma justa mis peludos cojones! Muchachita, lo que has hecho es firmar tu propia sentencia de muerte!}

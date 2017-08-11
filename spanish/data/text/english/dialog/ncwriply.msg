@@ -198,7 +198,7 @@
 {703}{}{PERSONA MALA! ¡ALÉJATE!}
 {704}{}{¡ALÉJATE DE MÍ!}
 {710}{}{Oiga, gracias por un arma tan genial, señor.}
-{711}{}{Did I tell you I love my new gun you gave me?}
+{711}{}{¿Te dije que me encanta mi arma nueva que me diste?}
 {712}{}{Oiga, gracias por un arma tan genial, señora.}
 {720}{}{¿Alguno de vosotros, capullos, se ha hecho con mi arma, la que me dio este tipo?}
 {721}{}{¿A dónde ha ido mi arma?}

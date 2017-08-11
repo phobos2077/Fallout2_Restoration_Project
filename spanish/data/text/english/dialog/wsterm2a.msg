@@ -19,7 +19,9 @@
 {110}{}{Salir.}
 {111}{}{¡Argh! [Golpeas el teclado con el puño por la frustración].}
 {113}{}{Sistemas de seguridad de Skynet}
-{114}{}{Contraseña no válida  --  Acceso denegado                       Por favor, introduzca contraseña:_}
+{114}{}{Escáner de retina activado
+                                           Escaneando...
+                                                              Buscando en Base de datos}
 {115}{}{Activar Sistema de alarma en Nivel 2}
 {116}{}{Ejecutar programa de auto-diagnóstico.}
 {117}{}{Salir.}
@@ -77,12 +79,10 @@
 {304}{}{                              General Clifton}
 {305}{}{05 de agosto de 2077}
 {306}{}{ días atrás. }
-{307}{}{Escáner de retina activado
-                                           Escaneando...
-                                                              Buscando en Base de datos}
-{308}{}{Escáner de retina activado
-                                           Escaneando...
-                                                              Buscando en Base de datos}
+{307}{}{
+                                             Alerta! Intruso detectado en nivel }
+{308}{}{
+                                             Alerta! Intruso detectado en niveles: }
 {309}{}{
                                }
 {310}{}{

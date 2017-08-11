@@ -636,8 +636,8 @@
 {3005}{}{No importa, hay otra cosa que necesito de ti.}
 {3025}{}{Lo que sea.}
 {5000}{}{¡Joder! ¡Joder! ¡No puedo sentir más este miembro!}
-{5001}{}{I feel like I am fucking melting!}
-{5002}{}{I'm puking my fucking guts out over here!}
+{5001}{}{¡Siento como estoy derritiendo! ¡Joder!}
+{5002}{}{¡Estoy vomitando mis putos tripas por aquí!}
 {5616}{}{Desde luego. Pruébame.}
 {5617}{}{Creo que podría enseñarte un par de cosas.}
 {5725}{}{Bien, bien. ¿Cuál era el problema con fabricar barbitúricos?}

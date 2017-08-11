@@ -52,5 +52,5 @@ Hazte un favor a ti mismo, aléjate de ellos. Jack es un buen hombre, es sólo que
 {150}{}{Bien, hace un par de años se dio un golpe y ahora Doc Jubilee le administra algún tipo de medicina. ¿Por qué lo quieres saber, por cierto?}
 {151}{}{Nada, sólo hablar. Dejaré de hacerte perder el tiempo.}
 {152}{}{. Necesito algo de trabajo honesto.}
-{153}{}{Menuda delantera tienes.}
-{154}{}{Nosotros queremos poder saltar, migo.}
+{153}{}{Tandi decir que tienes un hombre malo aquí.}
+{154}{}{Yo quiero ver hombre malo.}

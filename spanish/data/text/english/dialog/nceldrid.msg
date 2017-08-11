@@ -177,7 +177,7 @@
 {701}{}{¡Estúpidos perros! Lo primero que haré mañana será poneros a dormir.}
 {702}{}{¡Cerrad el pico, perros! ¡Nadie es lo bastante tonto como para irrumpir en una tienda de armas!}
 {800}{}{Has entregado una pistola láser a Eldridge.}
-{801}{}{Hey, do I look like some magician to you? You are gonna need the gun if you wanna upgrade it. Now get out of here and go find one I can upgrade...Sheesh!}
+{801}{}{Oye, ¿te parezco un mago? Vas a necesitar la arma si quieres mejorarlo. Ahora vete de aquí y ve a encontrar una que puedo mejorar. ¡Cielos!}
 {802}{}{Vuelve cuando tengas dinero.}
 {1340}{}{Vaya que si puedo. (Mira tu equipamiento). Pero no parece que tengas nada con lo que pueda jugar.
  Tráeme una virgen… eh, una pistola o rifle "normales", y podría ayudarte.}

@@ -169,5 +169,5 @@
 {268}{}{Como ya he dicho, no tuvo éxito.}
 {269}{}{Bien, ¿y qué tal si te comes esta bala por las molestias?}
 {270}{}{Hmmphf.}
-{271}{}{ de experiencia por encargarte de la Hubologista para Merk.}
+{271}{}{Has "encargado" la Hubologista para Merk.}
 {272}{}{Has recuperado los papeles del doctor Henry.}

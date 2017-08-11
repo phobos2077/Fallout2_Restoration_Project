@@ -22,6 +22,6 @@
 {603}{}{Rápido, ¡COGE UNA PALA!}
 {604}{}{¿Alguien de por ahí podría cavar un poco? ¡Necesito una copa!}
 {605}{}{¿Lo que noto es un gusano? Oh... no importa.}
-{700}{}{Ug, smellie in hole.}
-{701}{}{Me dig more for smellie shinies.}
-{702}{}{Huh, You not shini-!?}
+{700}{}{Ug, ollor en agujero.}
+{701}{}{Me cavar más para brillos malio-lentes.}
+{702}{}{Como, tú no bril-!?}

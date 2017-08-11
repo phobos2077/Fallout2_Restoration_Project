@@ -66,6 +66,6 @@
 {1700}{}{Vale, voy detrás tuyo.}
 {1800}{}{Entonces no seré capaz de protegerte. No, mejor me quedo cerca.}
 {1900}{}{¿Ah, sí? De ninguna manera. No voy a quitarte el ojo, mi pequeña máquina sexual.}
-{2000}{}{Owie. I think I broke a limb. Can you kiss it and make it better?}
-{2001}{}{Ugh, I feel like I am burning up. I think I am radiated.}
-{2002}{}{Ugh, I feel so sick. I think I am poisoned.}
+{2000}{}{Ayy. Creo que me he roto un miembro. ¿Puedes besarlo y hacerlo mejor?}
+{2001}{}{Eh, siento que estoy ardiendo. Creo que estoy irradiado.}
+{2002}{}{Eh, me siento muy enfermo. Creo que estoy envenenado.}

@@ -106,8 +106,7 @@
  qué me refiero) hace un tiempo. Juraron y perjuraron haber visto pasar una nave voladora, dirigiéndose hacia el suroeste.}
 {181}{}{¿Y sobre los demás rumores?}
 {182}{}{Supongo que eso es todo lo que necesito saber por ahora. Adiós.}
-{183}{}{Bueno, Dan y sus chicos de la Morningstar favorecen a esos remilgados hijoputas de la RNC. Supongo que Redding será
- parte de la República de Nueva California dentro de poco.}
+{183}{}{Bueno, Dan y sus chicos de la Morningstar favorecen a esos mafiosos de Nuevo Reno. Supongo que Redding será un gran barrio de adictos de Jet dentro de poco.}
 {184}{}{En realidad no es asunto mío. Hablemos de otra cosa.}
 {185}{}{Oh, bueno. Adiós.}
 {186}{}{En una ciudad de este tamaño, todo el mundo sabe más de lo que quisiera de todos los demás. Así que, ¿qué te parece?}

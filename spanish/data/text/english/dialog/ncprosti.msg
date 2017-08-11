@@ -661,7 +661,7 @@
 {832}{}{Nuevo Reno fue diseñado por Chris Avellone y Tom French. Ambos los dos son DIOSES del sexo.}
 {833}{}{Feargus frunció el ceño cuando vio la cantidad de mensajes flotantes escritos.
  Siempre tan negativo.}
-{834}{}{You say that Locutus served with the Enclave? And I gave that bastard for free!}
+{834}{}{¿Dices que Locutus ha servido en Enclave? ¡Y se lo di a ese bastardo de gracia!}
 {835}{}{Alguna mujer deber haber roto profundamente tu corazón para haberte obligado a esconderte dentro de ese traje blindado. Déjame ayudarte.}
 {836}{}{Oye, Hombre de Hojalata, si quieres que me disfrace de Dorothy o Toto, te costará un extra.}
 {837}{}{Oye, amigo, si quieres hacerlo, tendrás que salir de ahí; el metal hace daño y deja cicactrices.}
@@ -1251,7 +1251,7 @@
 {2873}{}{, pequeña tentación… ¿qué has estado haciendo?}
 {3100}{}{Ves a una de las chicas de La Garra de la Gata.}
 {3150}{}{Ves a una… dama de la noche. Su ropa harapienta cubre seductoramente su cuerpo.}
-{3151}{}{You see one of the Cat's Paw girls. She winks at you.}
+{3151}{}{Ves a una de las chicas de La Garra de la Gata. Ella te guiña el ojo.}
 {3152}{}{Ves a una de las chicas de La Garra de la Gata. Sus ojos son como fusibles quemados.}
 {3153}{}{Ves a una de las chicas de La Garra de la Gata. Huele a flores.}
 {3154}{}{Ves a una de las chicas de La Garra de la Gata. Huele como mamá.}

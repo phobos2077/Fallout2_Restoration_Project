@@ -135,7 +135,7 @@
 {308}{}{Oye colega, gracias por todas las propinas. Déjame darte algo a cambio. He oído que Liz, la propietaria del Almacén General,
  guarda un alijo de armas en su sótano. Pero yo no te he dicho nada.}
 {309}{}{Caray, gracias Phil. no diré ni... eh... pio, o algo así.}
-{1981}{}{A couple of loons've been locked up for spreading hate propaganda.}
-{1982}{}{Mine's purifiers are down.}
-{1983}{}{Caravans all over the place. That's about normal.}
+{1981}{}{Un par de bribones han sido encerrados por la difusión de propaganda de odio.}
+{1982}{}{Los purificadores de la mina están abajo.}
+{1983}{}{Caravanas por todo el lugar. Eso es normal.}
 {1984}{}{Sigue.}

@@ -891,7 +891,7 @@
 {991}{}{Mutante superguay}
 {992}{}{Doctor Jing Tie Gahng}
 {993}{}{Grundel}
-{994}{}{Melchor}
+{994}{}{Melchior Jr.}
 {995}{}{Escaner de retina}
 {996}{}{Puerta del ascensor}
 {997}{}{Receptor cibernético}
@@ -964,7 +964,7 @@
 {1064}{}{Map Script}
 {1065}{}{Lydia}
 {1066}{}{}
-{1067}{}{Astronauta}
+{1067}{}{Harry el Astronauta}
 {1068}{}{AHS-7}
 {1069}{}{Crockett}
 {1070}{}{Amanda}
@@ -1055,7 +1055,7 @@
 {1155}{}{Oficial de intendencia}
 {1156}{}{Guardia}
 {1157}{}{Perro cibernético}
-{1158}{}{Has matado al doctor Schreber.}
+{1158}{}{Doctor Schreber}
 {1159}{}{Técnico}
 {1160}{}{Técnico}
 {1161}{}{Guardia}
@@ -1099,9 +1099,9 @@
 {1199}{}{Klaxon}
 {1200}{}{Mina}
 {1201}{}{Foso}
-{1202}{}{Coche}
+{1202}{}{Cal}
 {1203}{}{Slim}
-{1204}{}{Jenny}
+{1204}{}{Jenna}
 {1205}{}{}
 {1206}{}{}
 {1207}{}{Emisor}

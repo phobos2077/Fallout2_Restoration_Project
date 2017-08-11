@@ -72,6 +72,6 @@
 {910}{}{Bueno (hic), No he visto a Vic desde hace tiempo. No sé (urp) a donde podría haber ido. Deberías hablar con (urp) Jenny en la Casa de Baños. Ella y Vic estaban (hic) unidos. Je, je, je. ¿Lo pillas? Oh Dios, no he perdido la chispa.}
 {911}{}{Es bueno saber que da igual lo bajo que puedas caer, jamás perderás lo que nunca has tenido. Me voy a arriesgar a hacerte otra pregunta.}
 {912}{}{Gracias, eres de lo que no hay, Aldo. Es todo lo que quería saber.}
-{920}{}{Hello again, friend. Do you have another $20 to spare to make our friendship even better?}
+{920}{}{Hola de nuevo, amigo. ¿Tienes otros 20 dólares para hacer que nuestra amistad sea aún mejor?}
 {921}{}{¿Máas? Vaale.}
 {922}{}{No compartir. Aadiós.}

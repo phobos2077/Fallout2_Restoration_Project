@@ -13,7 +13,7 @@
 {700}{}{Lanza}
 {701}{}{Un palo con una hoja afilada. El mango es de madera, y la punta es de acero. Min FU: 4.}
 {800}{}{Pistola de 10mm}
-{801}{}{Una pistola Colt 6520 con cargador automático de 10mm. Cada disparo recargará automáticamente el arma hasta que se vacíe el cargador. De un solo disparo, usa las potentes balas de 10mm. Min FU: 3.}
+{801}{}{Una pistola Colt 6520 con cargador automático de 10mm. Cada disparo recargará automáticamente el arma hasta que se vacíe el cilindro. De un solo disparo, usa las potentes balas de 10mm. Min FU: 3.}
 {900}{}{SMG de 10mm}
 {901}{}{Sub-ametralladora H&K MP9 (variante de 10mm). Una SMG de tamaño medio, de disparo único o modo ráfaga. Min FU: 4.}
 {1000}{}{Rifle de caza}
@@ -109,7 +109,7 @@
 {5500}{}{Chip de agua}
 {5501}{}{Un chip de agua de Vault-Tec. Normalmente se empaquetan en grupos de cinco por caja.}
 {5600}{}{Chapas de identificación}
-{5601}{}{Un juego de chapas de identificación. Se puede leer el nombre Darkwater, pero nada más.}
+{5601}{}{Un juego de chapas de identificación. El nombre Dickinson y la palabra Enclave son apenas legibles.}
 {5700}{}{Micrófono}
 {5701}{}{Un pequeño micrófono y dispositivo de trasmisión.}
 {5800}{}{Holodisco}
@@ -401,7 +401,7 @@
 {20500}{}{Bengala}
 {20501}{}{Una bengala. Ofrece luz durante un corto periodo de tiempo. El papel está un poco usado, pero por lo demás está en buenas condiciones. Está encendida.}
 {20600}{}{Dinamita}
-{20601}{}{Un explosivo de alta potencia, elaborado al mezclar la nitroglicerina con una sustancia absorbente llamada kiselguhr. Incluye un temporizador, porque está haciendo tic-tac.}
+{20601}{}{Un explosivo de alta potencia, elaborado al mezclar la nitroglicerina con una sustancia absorbente llamada kieselguhr. Incluye un temporizador, porque está haciendo tic-tac.}
 {20700}{}{Contador Geiger}
 {20701}{}{Un modelo C-Radz de contador Geiger de Wattz Electronics. Detecta la presencia y la intensidad de los campos radiactivos. Está encendido.}
 {20800}{}{Sensor de movimiento}
@@ -495,7 +495,7 @@
 {25300}{}{Inyector de combustible}
 {25301}{}{Este chip controla el flujo de energía que entra en el motor eléctrico del vehículo. Muchos conductores queman este chip debido a acelerones frecuentes. Sigue siendo una pieza valiosa... sólo si tienes un vehículo en el que instalarla.}
 {25400}{}{Regulador de combustible}
-{25401}{}{Algunos propietarios de vehículos instalan este regulador, que dobla el kilometraje entre cargas, pero muchos conductores no se preocupan del combustible que consumen: después de todo, la energía es barata y abundante, así que no tienes que preocuparte.}
+{25401}{}{Algunos propietarios de vehículos instalan este regulador, que dobla el kilometraje entre cargas, pero muchos conductores no se preocupan del combustible que consumen: después de todo, la energía es barata y abundante, así que ¿por que preocuparte?}
 {25500}{}{Pase de día}
 {25501}{}{Este papel ligeramente arrugado garantiza tu acceso a todos los lugares de Ciudad Refugio, excepto al propio Refugio, sólo durante las horas del día.}
 {25600}{}{Documentos de Ciudadanía falsos}
@@ -545,7 +545,7 @@
 {27800}{}{Pedernal}
 {27801}{}{Una piedra que se usa para afilar armas.}
 {27900}{}{Interfaz neural}
-{27901}{}{Parece ser un juego de electrodos integrados en un casco con un enchufe de interfaz estándar para computadoras.}
+{27901}{}{Parece ser un juego de electrodos integrados en un casco con un enchufe de interfaz estándar para computadoras. Está roto, sin embargo.}
 {28000}{}{Lanza afilada}
 {28001}{}{Un palo con una cuchilla en la punta. El palo es de madera, y la punta es de acero afilado. Min FU: 4.}
 {28100}{}{Ojo de Dixon}
@@ -578,7 +578,7 @@
 {29401}{}{Un holodisco que supuestamente contiene la localización del Refugio 13.}
 {29500}{}{Bolitas de queso}
 {29501}{}{Un paquete de bolitas con sabor a queso. Están extremadamente buenas.}
-{29600}{}{HK P90c}
+{29600}{}{H&K P90c}
 {29601}{}{La Heckler & Koch P90c empezó a usarse al comenzar la guerra. El diseño tipo novillo del arma, y su diseño compacto, la hacen fácil de controlar. La duradera P90c es apreciada por su confiabilidad y su alta potencia de fuego, con una dura carcasa compacta. Min FU: 4.}
 {29700}{}{Barra de metal}
 {29701}{}{Es una larga barra de metal. ¿Qué esperabas?}
@@ -833,7 +833,7 @@
 {42800}{}{Suministros médicos}
 {42801}{}{Una caja de suministros médicos. Aunque no hay nada que pueda utilizar.}
 {42900}{}{Diente de oro}
-{42901}{}{Este diente de oro pertenecía a Jules, pero ahora es tuyo.}
+{42901}{}{Este diente de oro pertenecía a otra persona, pero ya no lo necesitará.}
 {43000}{}{Proyectil de Howitzer}
 {43001}{}{Un proyectil de 75mm. de un cañón Howitzer. La mayoría del revestimiento esta corroído, pero puedes ver estas letras: EXP. 25-09-98.}
 {43100}{}{Maleta de Ramirez, cerrada}
@@ -893,7 +893,7 @@
 {45800}{}{Holodisco B.M. 5}
 {45801}{}{En la etiqueta pone: Mensaje a CHQ- Confidencial.}
 {45900}{}{Holodisco B.M. 1}
-{45901}{}{En la etiqueta pone: Registro de las transmisiones por radio en el punto de control 2.}
+{45901}{}{En la etiqueta pone: Registro de las transmisiones por radio en el punto de control 1.}
 {46000}{}{Holodisco B.M. 2}
 {46001}{}{En la etiqueta pone: Registro de las transmisiones por radio en el punto de control 2.}
 {46100}{}{Holodisco B.M. 3}
@@ -970,7 +970,7 @@
 {49900}{}{Realzador de lenguaje PipBoy}
 {49901}{}{Este realzador consiste en un holodisco de almacenamiento, un cable de microfilamentos, un casco, y un sensor óptico que se sitúa sobre el ojo derecho. Al usarlo, un destello óptico transmite un diccionario completo en la memoria del usuario, mejorando de forma permanente su habilidad conversadora.}
 {50000}{}{FN FAL HPFA}
-{50001}{}{Este rifle ha sido más ampliamente utilizado por las fuerzas armadas que cualquier otro fusil en la historia. Es un arma de asalto fiable para cualquier terreno o situación táctica. Min FU: 5.}
+{50001}{}{Este rifle ha sido más ampliamente utilizado por las fuerzas armadas que cualquier otro fusil en la historia. Es un arma de asalto fiable para cualquier terreno o situación táctica. El HPFA es más potente que el estándar FN FAL. Min FU: 5.}
 {50100}{}{Caja fuerte}
 {50200}{}{Caja fuerte de suelo}
 {50300}{}{Módulo azul de memoria}
@@ -1024,5 +1024,5 @@
 {53100}{}{Pistola de plasma de jefe final}
 {53200}{}{Sam Pritchard's Map}
 {53201}{}{This crudely-drawn map shows the area surrounding New Reno. It looks like there's some sort of military base to the north.}
-{53300}{}{Gecko de fuego}
+{53300}{}{Piel de gecko de fuego}
 {53301}{}{This is the dried and cured hide of a fire gecko. It is badly burned and as a result, has little value.}

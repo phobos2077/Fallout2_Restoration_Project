@@ -1,7 +1,7 @@
 {100}{}{Ves a un tipo bajito y manchado de grasa.}
 {101}{}{Estás viendo a Buster, el tipo de las armas.}
 {102}{}{Tiene la ropa harapienta y tatuajes de armas en los manos, brazos y cara. Aún así parece bastante alegre.}
-{103}{}{¡Oye, bienvenido al Selecto Emporio de Armamento de Buster! Yo soy Buster y no hay nadie más. Tengo diverso equipo selecto en las estanterías. Compruébalo. Estoy listo para hacer un trato.}
+{103}{}{¡Oye, bienvenido al Selecto Emporio de Armamento de Buster! Yo soy Buster y no hay nadie más. Tengo algunas mercancías a la venta aquí. Y si no ves algo que tienes gusto, cerciórese de que compruebes hacia fuera mis estantes para el producto adicional. Estoy obligado a tener algo que cosquillas a tu fantasía.}
 {104}{}{Vaya, ¿ya has vuelto? ¿Qué puedo hacer por ti?}
 {105}{}{¿Algo más?}
 {106}{}{Quiero arma yo.}

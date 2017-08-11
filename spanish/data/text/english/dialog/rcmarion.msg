@@ -254,4 +254,4 @@
 {300}{}{Este trabajo quizá sea un poco demasiado duro para ti. Vuelve cuando tengas un poco más de
  experiencia.}
 {301}{}{Está bien, Sheriff.}
-{302}{}{No hay nada más que puedas hacer con esta máquina.}
+{302}{}{No hay nada más que se pueda hacer con esta pierna. Solo el tiempo lo curará.}

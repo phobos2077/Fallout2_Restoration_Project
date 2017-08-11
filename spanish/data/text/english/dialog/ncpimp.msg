@@ -126,7 +126,7 @@
 {428}{}{¡Eh, Myron! ¿Necesitas una amiga para esta noche, Myron? Tengo a una muuuuy dulce.}
 {429}{}{Estas no son esclavas, son profesionales, ¿entiendes lo que digo?}
 {430}{}{¡Myron! ¡Muchacho, aún me debes lo de la semana pasada!}
-{431}{}{¿Que si puede chupar una pelota de golf metida en una manguera? Diablos, sí.}
+{431}{}{¿Que si puede chupar una pelota de golf metida en una manguera de jardín? Diablos, sí.}
 {432}{}{Tengo mujeres que te hacen sentir un auténtico hombre, y sólo cuestan unas pocas fichas.}
 {433}{}{Tengo el filón principal en mi establo.}
 {434}{}{¿Qué estás haciendo fuera del establo, Myron? ¿Buscando nuevos talentos?}
@@ -163,7 +163,7 @@
 {479}{}{¿Necesitas una amiga para esta noche, esclavista? Tengo a una muuuuy dulce.}
 {480}{}{Estas no son esclavas, son profesionales, ¿entiendes lo que digo?}
 {481}{}{¿Tienes algo a la venta, esclavista? Necesito algo de sangre nueva.}
-{482}{}{¿Que si puede chupar una pelota de golf metida en una manguera? Diablos, sí.}
+{482}{}{¿Que si puede chupar una pelota de golf metida en una manguera de jardín? Diablos, sí.}
 {483}{}{Tengo mujeres que te hacen sentir un auténtico hombre, y sólo cuestan unas pocas fichas.}
 {484}{}{Tengo el filón principal en mi establo.}
 {485}{}{Esclavista, si alguna de mis chicas desaparece, espero que me pagues, ¿comprendido?}
@@ -206,7 +206,7 @@
 {530}{}{¿Necesitas una amiga para esta noche, hermano? Tengo a una muuuuy dulce.}
 {531}{}{Estas no son esclavas, son profesionales, ¿entiendes lo que digo?}
 {532}{}{Las mejores señoritas de todo Nuevo Reno. Son tuyas con sólo pedirlo... si tienes las fichas.}
-{533}{}{¿Que si puede chupar una pelota de golf metida en una manguera? Diablos, sí.}
+{533}{}{¿Que si puede chupar una pelota de golf metida en una manguera de jardín? Diablos, sí.}
 {534}{}{Tengo mujeres que te hacen sentir un auténtico hombre, y sólo cuestan unas pocas fichas.}
 {535}{}{Tengo el filón principal en mi establo.}
 {536}{}{Déjame surtirte, amigo. Fui proxeneta del año durante dos consecutivos.}

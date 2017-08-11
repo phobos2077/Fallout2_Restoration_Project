@@ -217,5 +217,5 @@
 {316}{}{Tendrás que hablar con mi ayudante, Gunther, sobre eso.}
 {400}{}{Ok-kupas quieren trato. Tú enseñas, ayudas, ellos te dan Refugio.}
 {401}{}{Los okupas quieren un trato. Les ayudáis a ser autosuficientes y ellos os darán acceso al Refugio.}
-{410}{}{Seguro. Allí había malos pero yo dí patadas en el culo.}
-{411}{}{Bastante seguro. Había algunos maleantes por allí pero les pateé sus culos.}
+{410}{}{Como dije. Allí había malos pero yo dí patadas en el culo. Adiós.}
+{411}{}{Como he mencionado antes, había algunos maleantes por allí pero les pateé sus culos. Nos vemos.}

@@ -397,9 +397,7 @@
 {791}{}{Así que en realidad planea que Reno se UNA a la República... hmmmm. De acuerdo entonces,
  hablemos de otra cosa…}
 {792}{}{Interesante. Me gustaría saber de qué otras cosas sería capaz John…}
-{800}{}{El Jet es ilegal en Ciudad Refugio, por supuesto. Los demás Ciudadanos se enteraron y revocaron
- mi Ciudadanía. John era el único a quien podía recurrir... lo que él sabía, por supuesto. Lo
- planeó todo.}
+{800}{}{Las drogas son ilegal en Ciudad Refugio, por supuesto. Los demás Ciudadanos se enteraron y revocaron mi Ciudadanía. John era el único a quien podía recurrir... lo que él sabía, por supuesto. Lo planeó todo.}
 {801}{}{¿Así que obtuvo su educación en Ciudad Refugio? ¿Por eso habla de forma distinta a
  todos los demás en Nuevo Reno?}
 {810}{}{Simplemente tienes que acoplarlo a tu cabeza, colocar el sensor óptico sobre tu ojo derecho,

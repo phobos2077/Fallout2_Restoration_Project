@@ -1,5 +1,5 @@
 {100}{}{Ves a una persona que lleva un uniforme de policía de la RNC.}
-{101}{}{Es un trabajo.}
+{101}{}{Es un policía de RNC.}
 {102}{}{A juzgar por la seriedad de su cara, no esperas mucha piedad aquí.}
 {103}{}{Guarda tu arma - ¡YA!}
 {104}{}{Forastero, tenemos un política de no armamento en esta ciudad. Guarda tu arma.}

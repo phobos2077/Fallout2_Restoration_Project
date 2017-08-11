@@ -11,4 +11,4 @@
 {204}{}{::Kzzztttt::}
 {250}{}{Hmmmmmmmm}
 {251}{}{Thmmmmmmm}
-{300}{}{You have destroyed family Wright's stills.}
+{300}{}{Has destruido los alambiques de la familia Wright.}

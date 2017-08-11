@@ -72,7 +72,7 @@
 {174}{}{He estado en el Refugio 15 y necesito hablarle a tu jefa sobre ello.}
 {175}{}{Tengo que hablar del Refugio 15.}
 {176}{}{Deberías saber que hay un espía en vuestra casa: alguien cuyo nombre empieza por F.}
-{177}{}{No encuentro yo. Siento.}
+{177}{}{También encuentro espía. Ferrrgus.}
 {178}{}{Me no lie. Lookie. (You hand him the disk.)}
 {179}{}{¡Agradezco yo!}
 {500}{}{Tenemos las puertas cerradas por una razón.}

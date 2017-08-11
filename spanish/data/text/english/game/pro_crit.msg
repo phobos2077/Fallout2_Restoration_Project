@@ -306,7 +306,7 @@
 {28900}{}{Huevo Garra mortal}
 {29000}{}{Metzger}
 {29100}{}{Persona}
-{29200}{}{Ves a un hombre que lleva una especie de armadura.}
+{29200}{}{Persona que lleva una especie de armadura extraña.}
 {29300}{}{Presidente}
 {29400}{}{Vicepresidente}
 {29500}{}{Técnico}

@@ -316,4 +316,4 @@
  belleza. Intenta no rascarte las costras purulentas de las incisiones de drenaje hasta que dejen de supurar.}
 {327}{}{Gracias por el consejo, Doc. Esto es genial. Oye, déjame preguntarte algo más.}
 {328}{}{Gracias por el trabajito, Doc. Será mejor que me ponga en marcha. Adiós.}
-{329}{}{Le he entregado el antídoto a Redding.}
+{329}{}{Le he entregado el antídoto de Jet a doctor John.}

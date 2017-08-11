@@ -212,6 +212,6 @@
 {1165}{}{Vete solo.}
 {1166}{}{Cambiemos la distancia entre nosotros.}
 {1167}{}{Creo que tú tienes que moverte diferente.}
-{2000}{}{I think I broke a limb. Medical assistance is required.}
-{2001}{}{I believe I am suffering from radiation poisoning. Do you have anything to aid me?}
-{2002}{}{He sido envenenado. ¿Puedes ayudarme?}
+{2000}{}{Creo que me he roto un miembro. Necesito asistencia médica.}
+{2001}{}{Creo que estoy sufriendo de envenenamiento por radiación. ¿Tienes algo para ayudar a mí?}
+{2002}{}{Creo que he sido envenenado. ¿Tienes algo que me ayude?}

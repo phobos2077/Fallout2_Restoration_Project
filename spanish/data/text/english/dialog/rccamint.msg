@@ -89,4 +89,4 @@
  Enciérranos, Sheriff.}
 {179}{}{Ésto me gusta más.}
 {180}{}{No. Ahora es demasiado tarde. Voy a tener que dejaros como un colador a los dos.}
-{181}{}{No te metas en problemas, Myron, ¿vale?}
+{181}{}{No te preocupes. No voy a empezar ningún problema esta noche.}

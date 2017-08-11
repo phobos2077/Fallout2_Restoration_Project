@@ -92,4 +92,4 @@
  (a Caminetto) ¿Vale, pequeño engendro?}
 {179}{}{Ésto me gusta más.}
 {180}{}{No. Ahora es demasiado tarde. Voy a tener que dejaros como un colador a los dos.}
-{181}{}{I guess I'll just kick Caminetto's ass another day.}
+{181}{}{Supongo que voy a patear culo de Caminetto otro día.}

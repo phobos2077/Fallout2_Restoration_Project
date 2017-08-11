@@ -85,7 +85,7 @@
 {183}{}{Tú no tendrás generaciones futuras, doctor. Porque vas a estar muerto.}
 {184}{}{Nunca me he parado a pensarlo de esa forma... por favor, dame un minuto mientras lo pienso cuidadosamente.}
 {185}{}{Está bien. Tómate tu tiempo, doctor. Es un concepto grande para asumirlo.}
-{186}{}{No tienes un minuto. Tu tiempo se ha acabado hace mucho. Adiós, gilipollas.}
+{186}{}{No tienes un minuto. Tu tiempo se ha acabado hace mucho. Adiós, gilipolla.}
 {187}{}{Eso es ridículo. Eres más una vaca mutada de dos cabezas que un humano normal como yo.}
 {188}{}{Si alguna vez hubo vacas de una sola cabeza, llevan muertas mucho tiempo. Pero la vaca, como especie, ha evolucionado y crecido más fuerte. El cambio es una parte integral en el orden natural.}
 {189}{}{Matar a todos en tierra firme simplemente es una locura.}
@@ -103,14 +103,14 @@
 {201}{}{De acuerdo, ahora sé donde lo encontrasteis, pero... ¿qué es lo que hace?}
 {202}{}{Inicialmente el virus V.E.F se diseñó para convertir a humanos en super-soldados. El experimento parece que fue un completo fracaso, aunque yo probé una modificación del virus en uno de nuestros agentes del Servicio Secreto, con cierto éxito.}
 {203}{}{Bien por ti pero, ¿qué tiene esto que ver con erradicar a todos?}
-{204}{}{Oh, sí, bueno, estaba llegando a ello… el virus V.E.F se adhiere a una especie de manera específica, y sólo se enlazará a glico-proteínas humanas. No me llevó más que unos pocos años hacer el virus más letal de lo que ya era antes. El resultado fue justo lo que buscaba, perfecto en todos los sentidos. }
+{204}{}{Oh, sí, bueno, estaba llegando a ello… el virus V.E.F se adhiere a una especie de manera específica, y sólo se enlazará a glico-proteín humano. No me llevó más que unos pocos años hacer el virus más letal de lo que ya era antes. El resultado fue justo lo que buscaba, perfecto en todos los sentidos. }
 {205}{}{¿Perfecto? ¿Cómo?}
 {206}{}{¿No es obvio, mi amigo mutante? El V.E.F es, gracias a mí, una toxina letal, y gracias a cierto misterioso genio llamado, de forma bastante melodramática, el Maestro, sólo funciona en humanos, mutados o no.}
 {207}{}{¿Y?}
 {208}{}{Eso significa que tenemos el dispositivo perfecto para la eliminación de los cuasi-humanos que infectan el globo. }
 {209}{}{Sigo sin entender cómo eso puede ser "perfecto".}
 {210}{}{Quiero preguntarte sobre tus otras locas ideas.}
-{211}{}{La toxina V.E.F sólo atacará a humanos, dejando todo lo demás vivo; mejor aún, en menos de un mes todos lo mutantes estarán muertos y la toxina V.E.F se extinguirá tan pronto acabe con sus anfitriones.}
+{211}{}{La toxina V.E.F sólo atacará a humanos, dejando todo lo demás vivo. Mejor aún, en menos de un mes todos lo mutantes estarán muertos y la toxina V.E.F se extinguirá tan pronto acabe con sus anfitriones.}
 {212}{}{No puede haber suficientes vertibird para esparcir la toxina por todo el mundo.}
 {213}{}{Voy a hacerte anfitrión de unos cuantos proyectiles de alta energía. Reza tus oraciones.}
 {214}{}{Tienes razón, no los hay. Pero no los necesitamos. Tenemos un sistema de liberación que esparcirá la toxina V.E.F desde las cubas hasta la superficie. La reacción en cadena se encargará de todo lo demás. Saturación global en dos semanas.}
@@ -148,7 +148,7 @@
 {246}{}{Cuando las estrellas arrojaron sus lanzas,}
 {247}{}{                      y mojaron el cielo con sus lágrimas,}
 {248}{}{                            ¿sonrió al contemplar su obra?}
-{249}{}{                                      Total Weight:}
+{249}{}{¿Aquel que hizo al cordero, te hizo a ti?}
 {250}{}{¿Eh?}
 {251}{}{Oh, sólo es algo que he recordado de un poeta muerto hace mucho. Me estaba preguntando si todavía hay un lugar para aquellos que trabajaron en un camino tan oscuro por tanto tiempo. Se acabó nuestro tiempo, el vuestro acaba de comenzar. ¡Vete!}
 {252}{}{Oh, de acuerdo, gracias por toda tu ayuda. Eres un hombre valiente.}

@@ -21,5 +21,5 @@
 {120}{}{¿Vaaaaaaaaale?}
 {121}{}{Savinelli ha muerto. Mierda, todavía no lo creo. Soy Velani, arreglaré las cuentas de lo que te debemos.}
 {122}{}{Eh, gracias.}
-{123}{}{No puedo creerme que tenga esa suerte.}
+{123}{}{Mierda, todavía no puedo creerme que Savinelli haya muerto.}
 {200}{}{¿Por qué no arreglamos cuentas ahora mismo? Prepárate para morir, gilipollas.}

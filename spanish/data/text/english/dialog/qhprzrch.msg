@@ -17,7 +17,7 @@
 {116}{}{Todo está bien.}
 {117}{}{¡Maldita sea! ¿Podría venir alguien para llevarse a esta... persona?}
 {118}{}{Oh, ¡guardias! Hay un imbécil en mi oficina...}
-{119}{prs4}{Hola. Soy el presidente Richardson y estoy orgulloso de conocerte, joder. Eh, del Refugio 13, por lo que veo. Has estado haciendo un servicio impagable a nuestra nación.}
+{119}{prs4}{Hola. Soy el presidente Richardson y estoy orgulloso de conocerte, joder. Ah, Refugio 13. Han estado haciendo un servicio impagable a nuestra nación.}
 {120}{}{¿Presidente? ¿Quién es usted?}
 {121}{}{¿Servicio a nuestra nación? ¿Qué está pasando aquí?}
 {122}{}{Eh, creo que me he equivocado de camino al laboratorio. Disculpe, señor. Adiós.}
@@ -62,7 +62,7 @@
 {161}{}{¿Usted es presidente de qué Estados Unidos?}
 {162}{}{Tú lo que eres es un payaso.}
 {163}{}{¿Vicepresidente? ¿Te refieres al baboso idiota de la puerta de ahí al lado?}
-{164}{}{Qué coincidencia, soy el Emperador del planeta Quetzl, y estoy aquí para la rendición de la Tierra.}
+{164}{}{Qué coincidencia, soy el Emperador del planeta Quetzel, y estoy aquí para la rendición de la Tierra.}
 {165}{}{Le dejaré con sus asuntos señor, eh, Presidente. Adiós.}
 {166}{prs16}{Ajá. Oh, claro, su eminencia. ¿Por qué no pido unos... refrescos? Podemos hablar y resolver los problemas: ¿no podemos llevarnos todos bien?}
 {167}{}{Eso suena bien.}
@@ -75,7 +75,7 @@
 {174}{prs19}{Soy el representante electo del pueblo. Los Estados Unidos aún existen. Dios nos bendiga, a todos. Sólo hemos tenido que adaptarnos para sobrevivir tras de la guerra.}
 {175}{}{No entiendo. ¿A qué te refieres?}
 {176}{prs20a}{No lo sabes, ¿verdad? Déjame hablarte de la salvación de la humanidad. Primero, un poco de historia...}
-{177}{prs20b}{Una pequeña historia…}
+{177}{prs20b}{Una, hmm, una pequeña historia...}
 {178}{}{Siga, señor Presidente…}
 {179}{}{Primero, ¿por qué tienen una base en Navarro?}
 {180}{}{Antes de eso… vi uno de sus aviones en Nuevo Reno. ¿De qué va eso?}
@@ -114,9 +114,9 @@
 {213}{}{¿Por qué sigues llamándome mutante?}
 {214}{}{Ya hemos hablado bastante. Es hora de que te dirijas al gran colegio electoral del cielo.}
 {215}{}{He matado a hombres por menos de eso. Pero hoy no tengo tiempo. Adiós.}
-{216}{prs32}{Y estábamos ganando, también. Y entonces esos malditos Rojos lanzaron todo lo que tenían. Los hicimos saltar por los aires.}
+{216}{prs32}{Y estábamos ganando, también. Y entonces esos malditos Rojos lanzaron. Los hicimos saltar por los aires.}
 {217}{}{No parece que eso ayudase mucho.}
-{218}{prs33}{Bien, no. Pero por lo menos acabamos con la amenaza Roja y los devolvimos a la Edad de Piedra.}
+{218}{prs33}{Bien, no. Pero por lo menos acabamos con la amenaza Roja y los devolvimos a la Edad de Piedra. (ríe)}
 {219}{}{Con nosotros en el paquete.}
 {220}{prs34}{Bueno, no. No... no del todo. Verás, nosotros lo habíamos planificado. Estábamos preparados. }
 {221}{}{¿Qué quieres decir?}
@@ -126,7 +126,7 @@
 {225}{}{¿Un experimento?}
 {226}{prs36a}{Los Refugios se prepararon para probar a la humanidad. Algunos no tenían suficientes sintetizadores de comida, en otros sólo había varones, otros se diseñaron para abrirse pasados sólo seis meses. Cada uno tenía un conjunto exclusivo de circunstancias diseñadas para probar a sus ocupantes.}
 {227}{}{¿Y qué pasó con el Refugio 13? ¿Cuál era su propósito?}
-{228}{prs37}{Ahh. El Refugio 13 era un caso especial. Se suponía que se mantendría cerrado hasta que los sujetos hicieran falta. El Refugio 13 era, científicamente hablando, un grupo de control.}
+{228}{prs37}{Ahh. El Refugio 13 es un caso especial. Se suponía que se mantendría cerrado hasta que los sujetos hicieran falta. El Refugio 13 era, científicamente hablando, un grupo de control.}
 {229}{}{Pero todos ellos hubieran muerto si mi antepasado no les hubiera conseguido un chip de agua de repuesto. Eso no encajaba con el plan.}
 {230}{prs38}{Un desafortunado, e imprevisto, accidente. De todos modos, por como resultó, afortunado.}
 {231}{}{¿Qué quieres decir?}
@@ -146,13 +146,13 @@
 {245}{}{Es una locura.}
 {246}{prs43a}{No, no. Es la última y mejor esperanza de la humanidad. Es la solución que habíamos estado buscando todos estos años.}
 {247}{}{Genial, así que tienen todo ese veneno y no hay manera de propagarlo.}
-{248}{prs44}{Nos han faltado productos químicos críticos. Podemos conseguirlos de los laboratorios de droga de Nuevo Reno. Si los mafiosos-mutantes usan nuestras armas para matarse los unos a los otros, sólo nos ahorra trabajo.}
+{248}{prs44}{Nos han faltado productos químicos críticos. Podemos conseguirlos de los laboratorios de droga de Nuevo Reno. Si los mafiosos-mutantes usan nuestras armas para matarse los unos a los otros, (ríe) sólo nos ahorra trabajo.}
 {249}{}{Todo juega en vuestro favor no, ¿eh? Cuénteme el resto de la historia.}
 {250}{prs45}{Es simple. Navarro es una base aislada. Nuestros vertibird tienen corto alcance. Repostan allí.}
 {251}{}{Normal.}
 {252}{prs46a}{Estoy seguro de que lo crees. Pero las pruebas realizadas a los miembros de tu tribu demuestran que sois culpables de mutación. Y es una maldita buena cosa que el Proyecto esté preparado.}
 {253}{}{¿Por qué?}
-{254}{prs46b}{Algunos de los miembros de tu tribu muestran cambios extremadamente interesantes. Si el peligro sobre la verdadera humanidad no fuese tan grande me gustaría estudiarlos. Pero no va a ser así.}
+{254}{prs46b}{Algunos de los miembros de tu tribu muestran cambios extremadamente interesantes. Si el peligro sobre la verdadera humanidad no fuese tan grande me gustaría estudiarlos. Pero (suspira) no va a ser así.}
 {255}{}{¿No va a ser así? ¿Por qué no?}
 {256}{prs47}{Oh, esa es una de las ventajas del virus V.E.F. Podemos liberarlo aquí y la corriente lo transportará a todo el mundo. Tendrá todo el tiempo necesario para limpiar todos los rincones del planeta.}
 {257}{}{De acuerdo. Entonces, ¿por qué secuestraste a mi tribu y a todos los habitantes del Refugio 13?}
@@ -236,4 +236,4 @@
 {335}{}{Eso duele.}
 {336}{}{Eso realmente duele.}
 {337}{}{Tiene que doler.}
-{338}{}{Buen intento, señor Presidente.}
+{338}{}{En realidad, señor Presidente, estoy de vuelta.}

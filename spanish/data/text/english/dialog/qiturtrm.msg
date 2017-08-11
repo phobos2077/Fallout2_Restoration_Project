@@ -15,7 +15,7 @@
 {114}{}{Un rostro horrible te está mirando. Oh, espera, este terminal está apagado.}
 {115}{}{Esta ventana conduce a una oscura dimensión más allá del tiempo y el espacio.}
 {116}{}{Este terminal muestra un mensaje: "Cargando Fenestra '98". El terminal está cubierto por una gruesa capa de polvo. }
-{117}{}{Este terminal parece de la marca Apricot. Está ejecutando algo llamado Fallout 2. Caray, parece que es multijugador y en 3D.}
+{117}{}{Este terminal parece de la marca Apricot. Está ejecutando algo llamado Fallout 3. Caray, parece que es multijugador y en 3D.}
 {118}{}{Introducir identificador de usuario:}
 {119}{}{(Déjame probar esto) Lista de usuarios.}
 {120}{}{(Me pregunto si esto funcionará) Smith, J.}
@@ -31,28 +31,28 @@
 {131}{}{(Este parece que debería tener un acceso realmente bueno). Bird, D.}
 {132}{}{(Quizá debería intentarlo más tarde). Finalizar sesión.}
 {133}{}{Seleccionar: }
-{134}{}{Descargar O. C. N.: Operaciones de la central nuclear}
-{135}{}{Estado de seguridad}
+{134}{}{O. C. N.: Operaciones de la central nuclear, }
+{135}{}{¿Estado de seguridad?}
 {136}{}{Descargar O. C. N.: Operaciones de la central nuclear}
 {137}{}{Estado de seguridad.}
 {138}{}{Volver al ID de Usuario:}
 {139}{}{Seleccionar: }
-{140}{}{Nivel de seguridad: Estado actual}
-{141}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
-{142}{}{Descargar O. C. N.: Operaciones de la central nuclear}
-{143}{}{Estado de seguridad}
+{140}{}{Nivel de seguridad: Estado actual, }
+{141}{}{Unidad de guerra química: Informe de estado de proyecto, }
+{142}{}{O. C. N.: Operaciones de la central nuclear, }
+{143}{}{¿Estado de seguridad?}
 {144}{}{Nivel de seguridad: Estado actual}
 {145}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
 {146}{}{Descargar O. C. N.: Operaciones de la central nuclear}
 {147}{}{Estado de seguridad.}
 {148}{}{Volver al ID de Usuario:}
 {149}{}{Seleccionar: }
-{150}{}{Estado de la Nación: Estado actual}
-{151}{}{Listado de Términos}
-{152}{}{Nivel de seguridad: Estado actual}
-{153}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
-{154}{}{Descargar O. C. N.: Operaciones de la central nuclear}
-{155}{}{Estado de seguridad}
+{150}{}{Estado de la Nación: Estado actual, }
+{151}{}{Listado de Términos, }
+{152}{}{Nivel de seguridad: Estado actual, }
+{153}{}{Unidad de guerra química: Informe de estado de proyecto, }
+{154}{}{O. C. N.: Operaciones de la central nuclear, }
+{155}{}{¿Estado de seguridad?}
 {156}{}{Estado de la Nación: Estado actual}
 {157}{}{Descargar lista de palabras}
 {158}{}{Nivel de seguridad: Estado actual}
@@ -63,7 +63,7 @@
 {163}{}{Seleccionar: ¿Estado de seguridad?}
 {164}{}{Estado de seguridad}
 {165}{}{Finalizar acceso}
-{166}{}{Download failed - Security Status file missing.}
+{166}{}{Error de descarga - falta el archivo de Estado de Seguridad.}
 {167}{}{Estado de la Nación: Estado actual}
 {168}{}{Descargar lista de palabras.}
 {169}{}{Nivel de seguridad: Estado actual.}
@@ -136,9 +136,9 @@
 {237}{}{(Eso parece útil). Activar Protocolo de medidas anti-insurrección.}
 {238}{}{(Quizá le de una oportunidad en otro momento). Atrás.}
 {239}{}{(Ahora mismo no quiero seguir jugando con la computadora). Finalizar sesión.}
-{240}{}{Llave de seguridad presidencial reconocida. Buenos días, señor Presidente… Protocolo de medidas anti-insurrección iniciado… objetivo adquirido.}
+{240}{}{Llave de seguridad presidencial reconocida. Buenos días, señor Presidente... Protocolo de medidas anti-insurrección iniciado... Objetivo adquirido.}
 {241}{}{(Creo que voy a volver a ver qué sucede).}
-{242}{}{Llave de seguridad presidencial reconocida. Buenos días, señor Presidente… Protocolo de medidas anti-insurrección iniciado… **Error de funcionamiento**… Enlace de seguridad desconectado en este nivel. Por favor, envíe el formulario FG-I-106-32-0635 para la autorización de servicios de reparación. Gracias por usar otro excelente producto Vault-Tec. Buenos días.}
+{242}{}{Llave de seguridad presidencial reconocida. Buenos días, señor Presidente... Protocolo de medidas anti-insurrección iniciado... **Error de funcionamiento**... Enlace de seguridad desconectado en este nivel. Por favor, envíe el formulario FG-I-106-32-0635 para la autorización de servicios de reparación. Gracias por usar otro excelente producto Vault-Tec. Buenos días.}
 {243}{}{(Quizá funcione en los niveles de acceso. Hmm, eso debe significar la zona justo antes del muelle. Voy a tener que probarlo allí). Volver al ID de Usuario.}
 {244}{}{(Me pregunto qué más puedo probar). Atrás.}
 {245}{}{Llave de seguridad presidencial requerida para acceder a esta función. Llave no encontrada.}
@@ -147,7 +147,7 @@
 {248}{}{(Eso parece algo que sería interesante probar). Activar Cierre de emergencia de sistemas defensivos.}
 {249}{}{(Hmm, Quizá le de una oportunidad en otro momento). Atrás.}
 {250}{}{(Ahora mismo no quiero seguir jugando con la computadora). Finalizar sesión.}
-{251}{}{Llave de seguridad presidencial reconocida. Buenos días, señor Presidente… Cierre de emergencia de sistemas defensivos iniciado… ejecutando diagnóstico de alto nivel. Alpha… Bravo… Charlie…}
+{251}{}{Llave de seguridad presidencial reconocida. Buenos días, señor Presidente... Cierre de emergencia de sistemas defensivos iniciado... ejecutando diagnóstico de alto nivel. Alpha... Bravo... Charlie...}
 {252}{}{(Por alguna extraña razón, no me parece que quiera hacer esto ahora mismo). Atrás.}
 {253}{}{(Será mejor que me ponga en movimiento, mientras esta cosa sigue ejecutando ese diagnóstico). Finalizar sesión.}
 {254}{}{Llave de seguridad presidencial no reconocida. Acceso denegado.}
@@ -160,8 +160,8 @@
 {261}{}{(Este es el momento clave).-Escribes febrilmente.}
 {262}{}{Detectado procedimiento ilegal. Denegados futuros accesos a este terminal… enviada alerta de mantenimiento.}
 {263}{}{Maldición. Eso no es en absoluto lo que quería.}
-{264}{}{Llave de seguridad presidencial reconocida. Buenos días, señor Presidente… Protocolo de medidas anti-insurrección iniciado… objetivo adquirido.}
-{265}{}{¿Qué otra cosa podría hacer?}
-{266}{}{Llave de seguridad presidencial reconocida. Buenos días, señor Presidente… Protocolo de medidas anti-insurrección iniciado… **Error de funcionamiento**… Enlace de seguridad desconectado en este nivel. Por favor, envíe el formulario FG-I-106-32-0635 para la autorización de servicios de reparación. Gracias por usar otro excelente producto Vault-Tec. Buenos días.}
-{267}{}{(Quizá funcione en los niveles de acceso. Hmm, eso debe significar la zona justo antes del muelle. Voy a tener que probarlo allí). Volver al ID de Usuario.}
+{264}{}{Llave de seguridad presidencial reconocida. Buenos días, señor Presidente. (¡Sí! Ahora veamos lo que puedo hacer...)}
+{265}{}{(¿Qué otra cosa puedo hacer?)}
+{266}{}{Llave de seguridad presidencial reconocida. Buenos días, señor Presidente... Protocolo de medidas anti-insurrección iniciado… **Error**... Objetivo no encontrado. Por favor, asegúrese de que los sensores funcionan correctamente. Si no, envíe el formulario FG-I-106-32-0635 para la autorización de servicios de reparación. Gracias por usar otro excelente producto Vault-Tec. Buenos días.}
+{267}{}{(Hmm... Quizá funcione cuando haya alguien allí. Voy a tener que probarlo más tarde). Volver al ID de Usuario.}
 {268}{}{(Me pregunto qué más puedo probar). Atrás.}

@@ -73,7 +73,7 @@
 {3700}{}{Cama}
 {3701}{}{Una cama común. Parece cómoda.}
 {3800}{}{Ascensor}
-{3801}{}{Esto es un elevador.}
+{3801}{}{Esto es un elevador de mantenimiento.}
 {3900}{}{Silla}
 {3901}{}{Es una silla. Por desgracia no tienes tiempo para sentarte y relajarte.}
 {4000}{}{Silla}
@@ -305,21 +305,21 @@
 {15700}{}{Marca}
 {15701}{}{Este es el símbolo de la Hermandad del Acero. Esta marca le dice al Yermo que es su territorio, y que hay que marcharse inmediatamente.}
 {15800}{}{Monitor}
-{15801}{}{Ves una computadora.}
+{15801}{}{Ves un monitor de computadora.}
 {15900}{}{Monitor}
-{15901}{}{Ves una computadora.}
+{15901}{}{Ves un monitor de computadora.}
 {16000}{}{Computadora}
-{16001}{}{Esto es una computadora. Está obviamente dañada.}
+{16001}{}{Esto es un banco de datos de memoria computerizado.}
 {16100}{}{Computadora}
-{16101}{}{Esto es una computadora. Está obviamente dañada.}
+{16101}{}{Esto es un banco de datos de memoria computerizado.}
 {16200}{}{Computadora}
 {16201}{}{Una computadora de alta tecnología. Usa un moderno dispositivo de almacenamiento de bobina magnética en lugar del anticuado sistema de tarjetas perforadas.}
 {16300}{}{Computadora}
 {16301}{}{Una computadora de alta tecnología. Usa un moderno dispositivo de almacenamiento de bobina magnética en lugar del anticuado sistema de tarjetas perforadas.}
 {16400}{}{Monitor}
-{16401}{}{Ves una computadora.}
+{16401}{}{Ves un monitor de computadora.}
 {16500}{}{Monitor}
-{16501}{}{Ves una computadora.}
+{16501}{}{Ves un monitor de computadora.}
 {16600}{}{Cable}
 {16601}{}{Algún tipo de cableado de computadora.}
 {16700}{}{Cable}
@@ -2470,7 +2470,7 @@
 {157600}{}{Puerta}
 {157700}{}{Respiradero}
 {157800}{}{Auto-Doctor}
-{157801}{}{Este Auto-Doc está diseñado para curar enfermedades y administrar productos químicos.}
+{157801}{}{Este Auto-Doc está diseñado para curar enfermedades y administrar drogas diversas.}
 {157900}{}{Estatua}
 {157901}{}{Una pequeña estatua del famoso Morador del Refugio.}
 {158000}{}{Montón de rocas}
@@ -2548,9 +2548,9 @@
 {164600}{}{Escaleras arriba}
 {164700}{}{Escaleras arriba}
 {164800}{}{Escaleras arriba}
-{164900}{}{Computadora del reactor}
-{165000}{}{Computadora del reactor}
-{165100}{}{Computadora del reactor}
+{164900}{}{Núcleo del reactor}
+{165000}{}{Núcleo del reactor}
+{165100}{}{Núcleo del reactor}
 {165200}{}{Cartel de la oficina de Caravanas}
 {165300}{}{Ataúd}
 {165400}{}{Ataúd}

@@ -331,11 +331,11 @@
  y las armas de energía grandes. No soy malo con los puños, y soy la hostia usando granadas. No
  me pongo armadura. Simplemente no se hacen de mi tamaño.}
 {30000}{}{No, gracias, creo que ha pasado suficiente tiempo con él por hoy. Adiós.}
-{40000}{}{Guess I was right about Chad. Looks like he won't be running caravans anytime soon.}
+{40000}{}{Supongo que tenía razón sobre Chad. Parece que no va a dirigir caravanas en el corto plazo.}
 {40001}{}{Bueno, Chad, es hora de pagar por tus crímenes.}
 {40002}{}{*suspira* Ya me marcho.}
-{40003}{}{You have found Chad guilty of skimming money from the caravans.}
-{40004}{}{You have found Chad guilty of skimming money from the caravans. Too bad he died.}
+{40003}{}{Has encontrado a Chad culpable de rozar el dinero de las caravanas.}
+{40004}{}{Has encontrado a Chad culpable de rozar el dinero de las caravanas. Lástima que ha muerto.}
 {193001}{}{Chad se quedó con unos 1.000 dólares del último envío de uranio. Está planeando largarse de la ciudad. Tengo un maletín de documentos para demostrarlo.}
 {193002}{}{Chad se quedó con unos 1.000 dólares del último envío de uranio. Estaba planeando largarse de la ciudad, pero tuvimos una confrontación. Él está muerto. Tengo un maletín de documentos para demostrar su participación.}
 {193003}{}{Chad ha admitido todo. Nos metimos en una pelea en el centro de las caravanas. Se ha rendido y espera para ser traído.}

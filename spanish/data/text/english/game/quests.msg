@@ -30,7 +30,7 @@
 {406}{}{Entrega el mensaje de los Escorias a Jo en Modoc.}
 {407}{}{Jo sospecha de los Escorias. Encuentra los cuerpos muertos en la Granja Fantasma y averigua qué le ha ocurrido a Karl.}
 {408}{}{Ve a La Guarida y dile a Karl que puede volver a casa.}
-{409}{}{Has salvado a los brahmines de Grisham.}
+{409}{}{Guarda los brahmines de Grisham.}
 {500}{}{Consíguele un arado al señor Smith.}
 {501}{}{Entrega el maletín de Moore al señor Bishop en Nuevo Reno.}
 {502}{}{Entrega una muestra de Jet al doctor Troy.}
@@ -86,7 +86,7 @@
 {1107}{}{Consíguele a Vortis el esclavista el mapa de los Rangers de la RNC.}
 {1108}{}{Los Rangers te han pedido que liberes a los esclavos del redil de esclavos.}
 {1109}{}{Entrega el informe de campo de los Hubologistas a AHS-9 en San Francisco.}
-{1110}{}{Mata al Hubologista de la RNC para Merk.}
+{1110}{}{Mata al Hubologista para Merk.}
 {1111}{}{Detén los ataques contra los brahmines.}
 {1200}{}{Repara la computadora del Refugio 13.}
 {1201}{}{Habla con Goris.}

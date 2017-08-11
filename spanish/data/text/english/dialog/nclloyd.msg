@@ -220,9 +220,9 @@
 {1001}{}{(Sigues a Lloyd al Gólgota. Una vez allí, abre una de las tumbas).}
 {1002}{}{(Pierdes a Lloyd en cuanto sales de Nuevo Reno).}
 {1050}{}{(Dejas marchar a Lloyd).}
-{1051}{}{*grumble* Coulda been my money.}
+{1051}{}{*queja* Podría haber sido mi dinero.}
 {1052}{}{Uh... Gracias por dejarme vivir.}
-{1053}{}{When you reemerge from the grave Llyod is nowhere to be seen.}
-{1054}{}{Forget you. This is my money and you aint getting any of it!}
+{1053}{}{Cuando reapareces a la tumba, Lloyd no se ve en ninguna parte.}
+{1054}{}{Olvido tú. Este es mi dinero y ¡no estás recibiendo nada de eso!}
 {5213}{}{ yo }
 {7213}{}{Quien tú.}

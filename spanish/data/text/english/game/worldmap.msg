@@ -550,7 +550,7 @@
 {3900}{}{Algunos forajidos y ladrones.}
 {3901}{}{Algunos forajidos.}
 {3902}{}{Un gran grupo de geckos dorados.}
-{3903}{}{Algunos escorpiones ocultándose en plantas de esporas.}
+{3903}{}{Algunos escorpiones rad ocultándose en plantas de esporas.}
 {3904}{}{Algunos cazarrecompensas.}
 {3905}{}{Algunos cazarrecompensas.}
 {3906}{}{Algunos cazarrecompensas.}
@@ -1007,7 +1007,7 @@
 {4764}{}{Algunos lobos.}
 {4765}{}{Algunos geckos dorados.}
 {4766}{}{Algunos buscadores luchando contra incursores.}
-{4767}{}{Algunos tramperos luchando contra algunos geckos.}
+{4767}{}{Algunos tramperos luchando contra algunos geckos dorados.}
 {4768}{}{Algunos contrabandistas de licores luchando contra algunos lobos.}
 {4769}{}{Algunos granjeros luchando contra algunos incursores.}
 {4770}{}{Algunos granjeros defendiéndose de algunos lobos.}
@@ -1021,7 +1021,7 @@
 {4778}{}{Caballeros del Rey Arturo.}
 {4779}{}{El Hombre de Hojalata.}
 {4780}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{4800}{}{Algunos geckos y algunos lobos.}
+{4800}{}{Algunos geckos dorados y algunos lobos.}
 {4801}{}{Algunos incursores.}
 {4802}{}{Algunos lobos.}
 {4803}{}{Algunos geckos dorados.}
@@ -1035,7 +1035,7 @@
 {4811}{}{Algunos cazarrecompensas.}
 {4812}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {4813}{}{Algunos buscadores luchando contra incursores.}
-{4814}{}{Algunos tramperos luchando contra algunos geckos.}
+{4814}{}{Algunos tramperos luchando contra algunos geckos dorados.}
 {4815}{}{Algunos contrabandistas de licores luchando contra algunos lobos.}
 {4816}{}{Algunos granjeros luchando contra algunos incursores.}
 {4817}{}{Algunos granjeros defendiéndose de algunos lobos.}
