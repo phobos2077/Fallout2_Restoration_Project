@@ -110,15 +110,12 @@
 {183}{}{Bueno, ayuda no tener el olfato muy desarrollado. Esos mineros no son demasiado aficionados al agua y el jabón.}
 {184}{}{¿En serio? Quizá esto no sea para mí, después de todo. Aunque gracias por la oferta. Adiós.}
 {185}{}{No sé cómo puedes soportarlo, así que supongo que no lo haces. Soportarlo, eso es. Adiós.}
-{186}{}{[Fannie looks like a great weight has been lifted from her shoulders] Hey, it's you! Lou told
- me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need fer jet since
- then. (She kisses you on the cheek) I don't know how I can ever thank you...well, I do know *one* way.
- Whenever you're in the mood, just come on by; free of charge. (wink)}
+{186}{}{[Fannie parece como un gran peso ha levantado de sus hombros] ¡Oye, eres tú! Lou me dijo lo que hiciste. Esa cosa que me deslizó me hizo enfermar por supuesto, pero no he sentido necesidad de Jet desde entonces. (Ella te besa en la mejilla) No sé como puedo darte las gracias... bien, sí sé *una* manera. Siempre que estás en el humor, ven a visitarme, gratis. (guiño)}
 {187}{}{Lo tendré en mente. Gracias, Fannie.}
-{188}{}{Thanks again. (smooch) Remember, it's always on the house for you. (wink)}
+{188}{}{Gracias de nuevo. (besa) Recuerda, la casa te invita siempre. (guiño)}
 {189}{}{¡Hola! ¿Quieres pasar algún tiempo con Fannie? En la casa, por supuesto. (mueca)}
-{190}{}{Sorry honey...I'm not feelin' too good right now. Check back later.}
+{190}{}{Lo siento, cariño... No me siento muy bien ahora. Vuelva más tarde.}
 {191}{}{¿Tienes un poco de tiempo libre ahora mismo?}
-{192}{}{Come back anytime! Always nice to get some repeat business.}
+{192}{}{¡Vuelva en cualquier momento! Siempre es bueno repetir negocios.}
 {193}{}{[HECHO]}
-{200}{}{You slipped the Jet antidote into Fannie's Mae's drink.}
+{200}{}{Deslizó el antídoto para el Jet en la bebida de Fannie Mae.}

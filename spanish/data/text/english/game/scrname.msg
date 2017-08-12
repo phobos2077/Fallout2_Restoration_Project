@@ -761,7 +761,7 @@
 {861}{}{}
 {862}{}{}
 {863}{}{Explorador}
-{864}{}{Gang Member}
+{864}{}{Pandillero}
 {865}{}{Jefe Nómada}
 {866}{}{Hubologista}
 {867}{}{Loco}

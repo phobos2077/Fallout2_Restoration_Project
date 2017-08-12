@@ -445,7 +445,7 @@
 {22800}{}{Manual técnico}
 {22801}{}{Un manual de reparaciones técnicas de la servoarmadura T-51b.}
 {22900}{}{Pequeña pieza de maquinaria}
-{22901}{}{A damaged piece of Power Armor. It's very clean and could be a trophy of some kind.}
+{22901}{}{Una pieza dañada de servoarmadura. Es muy limpia y podría ser un trofeo de algún tipo.}
 {23000}{}{Registros del Refugio}
 {23001}{}{Un compendio de eventos e importantes grabaciones de una computadora de Refugio. Posiblemente dañado.}
 {23100}{}{Código de seguridad de la base militar}
@@ -762,7 +762,7 @@
 {39200}{}{Rifle M72 Gauss}
 {39201}{}{El M72 tiene diseño alemán. Usa un campo electromagnético para propulsar balas a una tremenda velocidad... y penetran en casi cualquier obstáculo. Su largo alcance, precisión y potencia de disparo resulta casi imparable. Min FU: 6.}
 {39300}{}{Fáser}
-{39301}{}{This mysterious high tech weapon appears to have some sort of energy generator inside. If it wasn't damaged, this gun could be the ultimate weapon against any enemy. The backup energy module consists of replaceable small energy cell. Min ST: 3.}
+{39301}{}{Este misterioso arma de alta tecnología parece tener algún tipo de generador de energía dentro. Si no había dañado, este arma podría ser el arma definitivo contra cualquier enemigo. El módulo de energía reservo consta de células PE de energía sustituibles. Min FU: 3.}
 {39400}{}{Pistola Gauss PPK12}
 {39401}{}{Alabada por su alcance y su poder imparable, la pistola Gauss PPK12 tiene diseño alemán. Utiliza un campo electromagnético para propulsar balas a una tremenda velocidad y perfora casi cualquier tipo de armadura. Min FU: 4.}
 {39500}{}{Minicañón Reivindicador}
@@ -1022,7 +1022,7 @@
 {52900}{}{Máquina de minería}
 {53000}{}{Cuchillo de jefe final}
 {53100}{}{Pistola de plasma de jefe final}
-{53200}{}{Sam Pritchard's Map}
-{53201}{}{This crudely-drawn map shows the area surrounding New Reno. It looks like there's some sort of military base to the north.}
+{53200}{}{Mapa de Sam Pritchard}
+{53201}{}{Este mapa crudo muestra los alrededores de Nuevo Reno. Parece que hay algún tipo de base militar en el norte.}
 {53300}{}{Piel de gecko de fuego}
-{53301}{}{This is the dried and cured hide of a fire gecko. It is badly burned and as a result, has little value.}
+{53301}{}{La seca y curada piel de un gecko de fuego. Está muy quemado y, como resultado, tiene poco valor.}

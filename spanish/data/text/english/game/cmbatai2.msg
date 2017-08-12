@@ -337,8 +337,8 @@
 {1691}{}{¡Ooooouuuuch!}
 {1692}{}{¡Unnhhhhh!}
 {1693}{}{Tal vez debería no moverme durante un rato...}
-{1694}{}{That's my beef bologna!}
-{1695}{}{There goes my social life.}
+{1694}{}{¡Eso es mi carne de res!}
+{1695}{}{Ahí va mi vida social.}
 {1696}{}{Quizá si no me muevo en un rato...}
 {1697}{}{Gee, si hubieran muejeres ghouls estaria enfadado contigo.}
 {1698}{}{Adiós a mi vida social.}

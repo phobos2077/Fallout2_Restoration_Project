@@ -162,9 +162,9 @@
 {226}{}{Ya he oído todo eso antes. Pongamos manos a la obra en otro tema.}
 {227}{}{Gracias, tendré que pensar en lo que me has contado. Pero déjame preguntarte otra cosa.}
 {228}{}{Tendré que pensar en eso. Adiós.}
-{229}{}{Hmmm...I may have a solution to that. [Give Lou the jet antidote]}
+{229}{}{Hmmm... Quizás tengo una solución a eso. [Dar a Lou el antídoto del Jet]}
 {230}{}{¿Qué demonios es esto?}
-{231}{}{It'll get the addiction out of her system. The next time she orders a drink, slip this into it.}
+{231}{}{Obtendrá la adicción fuera de su sistema. La próxima vez que pide una bebida, agrega esto.}
 {232}{}{Bien de acuerdo. Ahora, ¿querías algo más?}
 {233}{}{Me interesa conseguir alguna cosa de por aquí.}
 {234}{}{¿Qué está ocurriendo en este pueblo?}

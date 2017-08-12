@@ -74,7 +74,7 @@
 {147}{}{[MÁS]}
 {300}{}{ - ID Confirmada: }
 {301}{}{
-            Terminal Last Accessed: }
+       --  Último acceso al terminal: }
 {303}{}{                              Cabo Dixon}
 {304}{}{                              General Clifton}
 {305}{}{05 de agosto de 2077}

@@ -335,7 +335,7 @@
 {10020}{}{Base restaurada con la última tecnología y usada como}
 {10021}{}{instalación de investigación secreta para desarrollo}
 {10022}{}{de armamento robótico, biológico y convencional.}
-{10023}{}{weapons.}
+{10023}{}{armas.}
 {10024}{}{**END-PAR**}
 {10025}{}{Almacén Militar Sierra}
 {10026}{}{Informe de Misión 2077}

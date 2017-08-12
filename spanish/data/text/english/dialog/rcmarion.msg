@@ -249,8 +249,7 @@
 {284}{}{Oye, tienes trabajo que hacer. Vuelve cuando hayas pisoteado a esa Rana por nosotros.}
 {285}{}{Sólo me estaba reabasteciendo. Estoy en ello. Adiós.}
 {286}{}{Ahora mismo me pongo en camino, sheriff. Adiós.}
-{287}{}{Well, I don't know how you did it, but that's the quietest I've ever heard the Malamute Saloon.
- Here's your money. Ready for your next job?}
+{287}{}{Bueno, no sé como lo hiciste, pero es lo más tranquilo que he oído en el Salón Malamute. Aquí tienes tu dinero. ¿Listo para tu próximo trabajo?}
 {300}{}{Este trabajo quizá sea un poco demasiado duro para ti. Vuelve cuando tengas un poco más de
  experiencia.}
 {301}{}{Está bien, Sheriff.}

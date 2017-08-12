@@ -4,7 +4,7 @@
 {130}{}{Consigue el G.E.C.K.}
 {140}{}{Encuentra a Vic, el mercader.}
 {200}{}{Libera a Vic de su deuda consiguiendo la radio de su casa en Klamath y pagando a Metzger.}
-{201}{}{Find out how Becky can sell her booze for such low prices.}
+{201}{}{Descubre cómo Becky puede vender su licor a precio tan bajo.}
 {202}{}{Sabotea la destilería de Becky.}
 {203}{}{Consíguele a Smitty la pieza del coche.}
 {204}{}{Devuélvele a Anna su medallón.}
@@ -44,7 +44,7 @@
 {600}{}{Resuelve el problema de la central nuclear de Gecko.}
 {601}{}{Repara la central nuclear.}
 {602}{}{Optimiza la central nuclear.}
-{603}{}{Retrieve the Economy Disk and deliver it to McClure in Vault City.}
+{603}{}{Recupera el disco de datos económicos y lo entrega a McClure en Ciudad Refugio.}
 {604}{}{Consíguele a Skeeter el super-set de reparación.}
 {605}{}{Consíguele a Skeeter un transformador trifásico de plasma.}
 {606}{}{Percy te ha pedido que encuentres a Woody el necrófago. Busca en La Guarida.}

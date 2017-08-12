@@ -192,7 +192,7 @@
 {369}{}{Creo que voy a necesitar unas muletas y una silla de ruedas.}
 {370}{}{Cassidy muere de un ataque al corazón.}
 {371}{}{Has convencido a Cassidy para unirse a tu grupo.}
-{372}{}{Just let me pop a heart pill first...}
+{372}{}{Sólo déjame sacar una píldora para el corazón primero...}
 {1000}{}{Bueno... de acuerdo, entonces. Esperaré aquí hasta que vuelvas. }
 {1100}{}{Claro. Aunque no puedo prometer que no te retiraré si hay problemas.}
 {1200}{}{De acuerdo, me pegaré a ti entonces. Y espera problemas.}

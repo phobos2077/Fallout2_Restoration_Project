@@ -29,4 +29,4 @@
 {128}{}{¡Déjame invitarte a una bebida! ¡He querido golpearlo durante años!}
 {129}{}{Tengo algunas preguntas.}
 {130}{}{¡Bien! Adiós.}
-{131}{}{Boy, you sure whooped Hoss's ass good! What can I get you?}
+{131}{}{¡Muchacho, seguro que te encandila el trasero de Hoss! ¿Qué puedo conseguirte?}

@@ -607,8 +607,8 @@
 {1691}{}{¡Ooooouuuuch!}
 {1692}{}{¡Unnhhhhh!}
 {1693}{}{Tal vez debería no moverme durante un rato...}
-{1694}{}{That's my beef bologna!}
-{1695}{}{There goes my social life.}
+{1694}{}{¡Eso es mi carne de res!}
+{1695}{}{Ahí va mi vida social.}
 {1696}{}{Quizá si no me muevo en un rato...}
 {1697}{}{Gee, si hubieran muejeres ghouls estaria enfadado contigo.}
 {1698}{}{Adiós a mi vida social.}
@@ -3387,10 +3387,10 @@
 {44548}{}{Comenzando ataque.}
 {44549}{}{Eliminando amenaza.}
 {44560}{}{Activando maniobras evasivas.}
-{44561}{}{Defensive protocol Beta initiated.}
-{44562}{}{Enemy's targeting capability inferior. Reassessing threat level.}
+{44561}{}{Protocolo defensivo Beta iniciado.}
+{44562}{}{El capacidad de apuntar del enemigo es inferior. Reevaluando nivel de amenaza.}
 {44563}{}{Enemigo fallado. Recalculando habilidad ofensiva del enemigo.}
-{44564}{}{Analysis: enemy effectiveness minimal.}
+{44564}{}{Análisis: efectividad del enemigo mínima.}
 {44565}{}{Análisis: maniobras evasivas exitosas.}
 {44566}{}{Unidad no está dañada.}
 {44800}{}{Tengo la cabeza dura, pero eso ha dolido.}

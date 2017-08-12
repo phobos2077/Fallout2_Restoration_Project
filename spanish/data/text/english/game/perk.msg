@@ -54,7 +54,7 @@
 {154}{}{Adicto a la Nuka-Cola}
 {155}{}{Adicto a los Esteroides}
 {156}{}{Adicto a los Mentats}
-{157}{}{Psycho Addiction}
+{157}{}{Adicto al Psico}
 {158}{}{Adicto al Radaway}
 {159}{}{Arma de gran distancia}
 {160}{}{Precisión de Arma}
@@ -225,10 +225,10 @@
 {1206}{}{La sangre de un ladrón corre por tus venas. Con este extra, ganas un bono único a Sigilo, Ganzúa, Robar y Trampas. Un ladrón versátil es un ladrón vivo.}
 {1207}{}{Puedes llevar armas mucho más grandes de lo que normalmente podrías. Ganas un +3 a Fuerza a la hora de las restricciones para llevar armas.}
 {1208}{}{Has recibido el entrenamiento médico de Ciudad Refugio.}
-{1209}{}{Your hit points have been enhanced a little by repeated drunkeness.}
-{1210}{}{Your hit points have been enhanced a little more by repeated drunkeness.}
-{1211}{}{Your hit points have been lowered slightly by repeated drunkeness.}
-{1212}{}{Your hit points have been lowered slightly by repeated drunkeness.}
+{1209}{}{Tus puntos de salud han aumentado un poco por tu reincidente alcoholismo.}
+{1210}{}{Tus puntos de salud han aumentado un poco más por tu reincidente alcoholismo.}
+{1211}{}{Tus puntos de salud se han reducido un poco por tu reincidente alcoholismo.}
+{1212}{}{Tus puntos de salud se han reducido un poco por tu reincidente alcoholismo.}
 {1213}{}{Tus puntos de salud han aumentado un poco por tu reincidente alcoholismo.}
 {1214}{}{Tus puntos de salud han aumentado un poco más por reincidente alcoholismo.}
 {1215}{}{Tus puntos de salud se han reducido un poco más por tu reincidente alcoholismo.}

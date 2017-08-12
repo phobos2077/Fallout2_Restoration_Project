@@ -54,4 +54,4 @@
 {153}{}{Mira, casi lo tienes, sigue así.}
 {154}{}{Muy bien, sólo un poco más, te lo prometo.}
 {155}{}{Estate en la entrada del rancho de Westin mañana. Si no apareces, saldremos sin ti. ¿Entendido?}
-{156}{}{We are about to do another cattle run to Redding. How's your gun handling?}
+{156}{}{Estamos a punto de hacer otro ganado a Redding. ¿Cómo está tu manejo de las armas?}

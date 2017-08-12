@@ -571,5 +571,5 @@
 {1546}{}{Falso Refugio 13}
 {1547}{}{Encuentro aleatorio}
 {1548}{}{Establo}
-{1549}{}{Abbey}
+{1549}{}{Abadía}
 {1550}{}{APA}

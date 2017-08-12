@@ -1,33 +1,33 @@
-{100}{}{You see a cheat character.}
-{101}{}{This guy shouldn't be here.}
-{102}{}{Hey it's a cheat character.}
-{103}{}{Hey that hurt.}
-{104}{}{Hello what would you like to happen.}
-{105}{}{Setting Westin's flags.}
-{106}{}{Set Accept Snuffing westin?}
-{107}{}{Unset Accept Snuffing Westin.}
-{108}{}{Set Westin Dead.}
-{109}{}{Unset Westin Dead.}
-{110}{}{Set Westin Cancel Snuff}
-{111}{}{Unset Westin Cancel Snuff.}
-{112}{}{Set Westin Drugs Known.}
-{113}{}{Unset westin Drugs known.}
-{114}{}{Set Westin Fail}
-{115}{}{Unset westin Fail.}
-{116}{}{Set Westin Complete}
-{117}{}{Unset Westin Complete.}
-{118}{}{Set Westin Snuff Known.}
-{119}{}{Unset westin snuff known.}
-{120}{}{Setting Carlson's Flags.}
-{121}{}{Set Carlson Accept Snuff.}
-{122}{}{Unset Carlson Accept Snuff.}
-{123}{}{Set Carlson Dead.}
-{124}{}{Unset Carlson Dead.}
-{125}{}{Set Carlson Security Duty.}
-{126}{}{Unset Carlson Security Duty.}
-{127}{}{Set Carlson Cancel Snuff.}
-{128}{}{Unset Carlson Cancel Snuff.}
-{129}{}{Set Carlson Complete.}
-{130}{}{Unset Carlson Complete.}
-{131}{}{Set Carlson fail.}
-{132}{}{Unset Carlson Fail.}
+{100}{}{Ves un personaje de trucos.}
+{101}{}{Este tipo no debería estar aquí.}
+{102}{}{Oye, es un personaje de trucos.}
+{103}{}{Oye, eso duele.}
+{104}{}{Hola, ¿qué te gustaría que sucediera?}
+{105}{}{Activa los indicadores de Westin.}
+{106}{}{¿Activa Aceptar Asesinato de Westin?}
+{107}{}{Desactiva Aceptar Asesinato de Westin.}
+{108}{}{Activa Westin Muerto.}
+{109}{}{Desactiva Westin Muerto.}
+{110}{}{Activa Cancelar Asesinato de Westin}
+{111}{}{Desactiva Cancelar Asesinato de Westin.}
+{112}{}{Activa Drogas de Westin Conocidas.}
+{113}{}{Desactiva Drogas de Westin Conocidas.}
+{114}{}{Activa Westin Fallado}
+{115}{}{Desactiva Westin Fallado.}
+{116}{}{Activa Westin Completo}
+{117}{}{Desactiva Westin Completo.}
+{118}{}{Activa Asesinato de Westin Conocido.}
+{119}{}{Desactiva Asesinato de Westin Conocido.}
+{120}{}{Activa los indicadores de Carlson.}
+{121}{}{Activa Carlson Aceptar Asesinato.}
+{122}{}{Desactiva Carlson Aceptar Asesinato.}
+{123}{}{Activa Carlson Muerto.}
+{124}{}{Desactiva Carlson Muerto.}
+{125}{}{Activa Carlson Deber de Seguridad.}
+{126}{}{Desactiva Carlson Deber de Seguridad.}
+{127}{}{Activa Carlson Cancelar Asesinato.}
+{128}{}{Desactiva Carlson Cancelar Asesinato.}
+{129}{}{Activa Carlson Completo.}
+{130}{}{Desactiva Carlson Completo.}
+{131}{}{Activa Carlson Fallado.}
+{132}{}{Desactiva Carlson Fallado.}

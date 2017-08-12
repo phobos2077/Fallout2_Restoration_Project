@@ -73,10 +73,10 @@
 {175}{}{Tengo que hablar del Refugio 15.}
 {176}{}{Deberías saber que hay un espía en vuestra casa: alguien cuyo nombre empieza por F.}
 {177}{}{También encuentro espía. Ferrrgus.}
-{178}{}{Me no lie. Lookie. (You hand him the disk.)}
+{178}{}{Yo no mentir. Miira. (Le das el disco).}
 {179}{}{¡Agradezco yo!}
 {500}{}{Tenemos las puertas cerradas por una razón.}
 {501}{}{Debo pedirte que te vayas.}
 {502}{}{Este es tu último aviso. Vete antes de que tenga que sacarte yo.}
 {503}{}{Seguridad: por favor, encargaos de este problema.}
-{510}{}{Well, wait a minute. I have more to discuss with your boss about Vault 15.}
+{510}{}{Bueno, espera un minuto. Tengo más que discutir con tu jefe sobre el Refugio 15.}

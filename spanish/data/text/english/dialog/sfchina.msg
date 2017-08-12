@@ -1,1 +1,1 @@
-{100}{}{You enter the town of San Francisco. Men and women in oriental-looking clothing move throughout the area.}
+{100}{}{Has entrado en la ciudad de San Francisco. Hombres y mujeres en ropa de aspecto oriental se mueven por toda la zona.}

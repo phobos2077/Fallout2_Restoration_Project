@@ -357,4 +357,4 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {396}{}{Genial. Gracias, doctor.}
 {397}{}{¡Guardias!}
 {398}{}{Zzzzzzz.}
-{399}{}{You explain to Dr. Troy about the manufacturing process of Jet.}
+{399}{}{Explicas el proceso de fabricación del Jet al doctor Troy.}
