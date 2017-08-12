@@ -8,7 +8,7 @@
 {4}{}{IN}
 {5}{}{AG}
 {6}{}{LK}
-{7}{}{Hit Points}
+{7}{inventory}{Hit Points}
 {8}{}{Armor Class}
 {9}{}{  Normal}
 {10}{}{  Laser}

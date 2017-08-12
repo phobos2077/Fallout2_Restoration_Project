@@ -1,0 +1,42 @@
+diff --git a/english/data/text/english/game/editor.msg b/english/data/text/english/game/editor.msg
+index fa4f277..0a026db 100644
+--- a/english/data/text/english/game/editor.msg
++++ b/english/data/text/english/game/editor.msg
+@@ -95,18 +95,18 @@
+ #
+ # Abbreviated Derived/Non Derived stat names
+ #
+-{300}{}{Hit Points}
++{300}{editor}{Hit Points}
+ {301}{}{Action Points }
+-{302}{}{Armor Class}
++{302}{editor}{Armor Class}
+ {303}{}{Unarmed Damage}
+ {304}{}{Melee Damage}
+ {305}{}{Damage Res.  }
+ {306}{}{Poison Res.   }
+ {307}{}{Radiation Res.}
+-{308}{}{Sequence}
+-{309}{}{Healing Rate}
+-{310}{}{Critical Chance}
+-{311}{}{Carry Weight}
++{308}{editor}{Sequence}
++{309}{editor}{Healing Rate}
++{310}{editor}{Critical Chance}
++{311}{editor}{Carry Weight}
+ {312}{}{Poisoned}
+ {313}{}{Radiated}
+ {314}{}{Eye Damage}
+diff --git a/english/data/text/english/game/inventry.msg b/english/data/text/english/game/inventry.msg
+index f898455..00ac33a 100644
+--- a/english/data/text/english/game/inventry.msg
++++ b/english/data/text/english/game/inventry.msg
+@@ -8,7 +8,7 @@
+ {4}{}{IN}
+ {5}{}{AG}
+ {6}{}{LK}
+-{7}{}{Hit Points}
++{7}{inventory}{Hit Points}
+ {8}{}{Armor Class}
+ {9}{}{  Normal}
+ {10}{}{  Laser}
