@@ -33,7 +33,7 @@
 {151}{}{gold ore.}
 {152}{}{uranium ore.}
 {153}{}{farm goods.}
-{154}{}{chems.}
+{154}{}{drugs.}
 {155}{}{slaves.}
 {156}{}{stuff.}
 

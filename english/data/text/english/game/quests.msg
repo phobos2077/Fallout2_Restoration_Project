@@ -22,13 +22,14 @@
 {202}{}{Sabotage Becky's still.}
 {203}{}{Get car part for Smitty.}
 {204}{}{Return Anna's locket.}
-{205}{}{Collect Rebecca's money from Fred.}
-{206}{}{Get Rebecca's book from Derek.}
+{205}{}{Collect money from Fred.}
+{206}{}{Get book from Derek.}
 {207}{}{Deliver a meal to Smitty for Mom.}
 {208}{}{Lara wants to know what is being guarded in the church.}
-{209}{}{Get permission from Metzger for the gang war.}
-{210}{}{Find a weakness in Tyler's gang guarding the church.}
+{209}{}{Get permission from Metzger for gang war.}
+{210}{}{Find weakness in Tyler's gang guarding the church.}
 {211}{}{Help Lara attack Tyler's gang.}
+{212}{}{Find a way to get the orphans off the streets.}
 
 #
 # Klamath Quests
@@ -39,6 +40,7 @@
 {303}{}{Rustle the brahmin.}
 {304}{}{Kill the rat god.}
 {305}{}{Rescue Torr.}
+{306}{}{Figure out who is rustling the brahmin.}
 
 #
 # Modoc Quests
@@ -49,7 +51,7 @@
 {403}{}{Jonny is missing. Find him and bring him home to Balthas.}
 {404}{}{Jonny's in the Slag caves. Find a way to get Jonny back home to Balthas.}
 {405}{}{Farrel has a rodent problem in his garden. Remove the infestation.}
-{406}{}{Deliver the Slag's message to Jo in Modoc.}
+{406}{}{Deliver Slag message to Jo in Modoc.}
 {407}{}{Jo is suspicious of the Slags. Find out about the dead bodies at the Ghost Farm and find out what happened to Karl.}
 {408}{}{Go to the Den and tell Karl it's alright to come back home.}
 {409}{}{Guard Grisham's brahmin.}
@@ -67,6 +69,9 @@
 {507}{}{Deliver pliers (tools) and a wrench to Valerie.}
 {508}{}{Scout the eight sectors around Gecko and return to Stark.}
 {509}{}{Enter NCR and return to Stark.}
+{510}{}{Resolve the problem with the nearby village.}
+{511}{}{Get weapons for Connar to be used at the nearby village.}
+{512}{}{Put the Village on a trade route.}
 
 #
 # Gecko Quests
@@ -82,7 +87,7 @@
 #
 # Broken Hills Quests
 #
-{700}{}{}
+{700}{}{Determine whether Chad is skimming money from the caravan runs.}
 {701}{}{Fix the mine's air purifier.}
 {702}{}{Find the missing people for Marcus.}
 {703}{}{Beat Francis at arm wrestling.}
@@ -112,6 +117,7 @@
 {816}{}{Deliver Big Jesus' package to Ramirez at the Stables.}
 {817}{}{Collect tribute from the Corsican Brothers.}
 {818}{}{Assassinate Boss Salvatore for Big Jesus Mordino.}
+{819}{}{Bring a bottle of Abbey's hootch to Father Tully.}
 
 #
 # Sierra Army Base Quests
@@ -128,16 +134,19 @@
 #
 {1100}{}{Retrieve Parts/Gain Access to Vault 15.}
 {1101}{}{"Take care of" Officer Jack for Mira.}
-{1102}{}{Complete the brahmin drive.}
-{1103}{}{Retrieve the papers from Dr. Henry.}
-{1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
+{1102}{}{Complete brahmin drive.}
+{1103}{}{Retrieve papers from Dr. Henry.}
+{1104}{}{Test mutagenic serum on a super-mutant. Try Broken Hills.}
 {1105}{}{Eliminate Mr. Bishop.}
 {1106}{}{Deliver Westin's holodisk to Lynette in Vault City.}
 {1107}{}{Get the map from the NCR Rangers, for Vortis the slaver.}
 {1108}{}{Free the slaves in the slave pen, for the Rangers.}
-{1109}{}{Deliver the Hubologist's field report to AHS-9 in San Francisco.}
+{1109}{}{Deliver Hubologist's field report to AHS-9 in San Francisco.}
 {1110}{}{Kill the Hubologist for Merk.}
 {1111}{}{Stop the brahmin raids.}
+{1112}{}{Wipe out the Rangers' safe houses to the north, for Vortis the slaver.}
+{1113}{}{Wipe out the Slaver Camp to the north west, for the Rangers.}
+
 #
 # Vault 13 Quests
 #
@@ -152,7 +161,9 @@
 #
 # Redding Quests
 #
-{1400}{}{Find the excavator chip.}
+{1398}{}{Clear out the mine.}
+{1399}{}{Find the excavator chip.}
+{1400}{}{Take care of the Widow Rooney situation.}
 {1401}{}{Break up the bar brawl.}
 {1402}{}{Find out who cut the whore.}
 {1403}{}{Kill Frog Morton.}
@@ -174,15 +185,23 @@
 {1511}{}{Find Badger's girlfriend in the hold below the ship.}
 {1512}{}{The Dragon wants you to take out Lo Pan - hand to hand.}
 {1513}{}{Lo Pan wants you to take out the Dragon - hand to hand, if possible.}
-{1514}{}{Get Chip's spleen back.}
+{1514}{}{Get Chip's spleen.}
 {1515}{}{Get some hardened power armor from Crockett.}
 {1516}{}{Get the vertibird plans for the Brotherhood of Steel.}
+{1517}{}{Disable the Shi submarine threatening the tanker.}
+{1518}{}{Investigate the whereabouts of Dr. Sheng.}
+{1519}{}{Bring Dr. Sheng some plant seeds.}
+{1520}{}{Eliminate Dr. Sheng.}
+{1521}{}{Deliver the plant seed sample to Dr. Wong.}
+{1522}{}{Eliminate Dr. Wong without alerting the Shi.}
+{1523}{}{Clear out Dr. Sheng's lab.}
+
 #
 # Navarro Quests
 #
 #1515, ...
 {1600}{}{Deal with the Deathclaw.}
-{1601}{}{Fix K9.}
+{1601}{}{Fix K-9.}
 {1602}{}{Retrieve the FOB from the base Commander.}
 
 #
@@ -193,17 +212,40 @@
 #
 # The Abbey Quests
 #
-{1800}{}{}
+{1800}{}{Kill the beast beneath the church.}
+{1801}{}{Deliver the machine part to Brother Max.}
+{1802}{}{Repair the waterpump and report the status to the headmonk.}
+{1803}{}{Find out who is digging up the graves.}
+{1804}{}{Inform Brother Samuel and Father Tully about the whereabouts of each other.}
+{1805}{}{Bring a lighter to Brother Hank.}
+{1806}{}{Collect information about Botany for Brother Paul.}
+{1807}{}{Format the Abbey's book database.}
+{1808}{}{Escort Brother Jason to Gecko.}
 
 #
 # Primitive Tribe Quests
 #
-{1900}{}{}
+{1900}{}{Collect some weapons for the Tribe's warriors.}
+{1901}{}{Fix the well for Marli and the tribe.}
+{1902}{}{Find out what's haunting the tribe's shaman.}
+{1903}{}{Find Sulik's missing sister.}
+{1904}{}{Find out what happened to the hunting party.}
+{1905}{}{Collect firewood for the tribe's fishermen.}
+{1906}{}{Reunite Sulik and his sister, Kurisu.}
+{1907}{}{Accompany Krom to meet with the trader.}
+{1908}{}{Bring some herbs (5 Xander Roots, 3 Broc Flowers) to the Shaman.}
 
 #
 # EPA Quests
 #
-{2000}{}{}
+{2000}{}{Fix Hologram 00000.}
+{2001}{}{Fix the Voice Computer.}
+{2002}{}{Clear out the plant problem.}
+{2003}{}{Fix EPA lighting problem.}
+{2004}{}{Collect Gecko Pelts for the Doctor.}
+{2005}{}{Fix the hologram that speaks with static.}
+{2006}{}{Find the tool the Doctor left behind.}
+{2007}{}{Test the Solar Scorcher for the Director of Science.}
 
 #
 # Ghost Town Quests
@@ -266,5 +308,5 @@
 #
 {3200}{}{Rescue Chrissy.}
 {3201}{}{Kill Darion.}
-{3202}{}{Complete the deal with NCR.}
-{3203}{}{Give the Spy Holodisk to the authorities in NCR.}
+{3202}{}{Complete Deal with NCR.}
+{3203}{}{Give Spy Holodisk to the authorities in NCR.}

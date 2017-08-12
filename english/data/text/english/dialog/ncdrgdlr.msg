@@ -1,7 +1,7 @@
 # examine
 {150}{}{You see a man in wrinkled clothes. He is rubbing his nose and glancing around furtively.}
-{151}{}{You see a chem dealer.}
-{152}{}{You see a chem dealer. It looks like he's trolling for a customer.}
+{151}{}{You see a drug dealer.}
+{152}{}{You see a drug dealer. It looks like he's trolling for a customer.}
 
 # float
 {200}{}{Hey, hero! You lookin' to celebrate with some Jet? Talk to me!}
@@ -24,7 +24,7 @@
 {215}{}{So you lookin' to celebrate with some Jet, hero? You came to the right place. For you, EVERYTHING'S on special.}
 {216}{}{Least that I can do is mark down my stock for you, hero. Just my little way of saying thanks for saving our hide.}
 {217}{}{Nothing better than a shot o' Jet after kicking the Enclave's ass, eh? Am I right? All my stock's on special for you.}
-{218}{}{I got shit that'll help you kiss the sky, hero.  And for you: a nice discount. How does that sound?}
+{218}{}{I got shit that'll help you kiss the sky, hero. And for you: a nice discount. How does that sound?}
 
 {219}{}{U got candy? }
 {220}{}{Wander off}
@@ -37,7 +37,7 @@
  right?}
 {231}{}{So you lookin' to party with some Jet, friend? You came to the right place. For you, EVERYTHING'S on special.}
 {232}{}{I got enough Jet to put you in orbit, my fine friend. And for you: a discount. Shall we talk price?}
-{233}{}{I got shit that'll help you kiss the sky, friend.  And for you: a discount. That sound all right?}
+{233}{}{I got shit that'll help you kiss the sky, friend. And for you: a discount. That sound all right?}
 {234}{}{Least I can do is mark down my stock for YOU, friend. Just my way of being friendly.}
 # generic
 {235}{}{You've got class, y'know that? Class. And when someone as classy as you deals with me, they get a discount at

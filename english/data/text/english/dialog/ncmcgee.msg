@@ -52,7 +52,7 @@
 {263}{}{Goddurn machine! Keeps taking all my chips…}
 
 # 6. FLOAT (McGEE APOLOGIZES] (WTG)
-{270}{}{You done have my apology, stranger.  Luck be with ya.}
+{270}{}{You done have my apology, stranger. Luck be with ya.}
 {271}{}{Sorry I lost my temper. Desert sun makes a man say some damn awful things.}
 {272}{}{::Tips an imaginary hat::}
 

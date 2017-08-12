@@ -25,7 +25,7 @@
 {120}{}{I'm sorry, I lost my pass and I don't know anything about a password.}
 {121}{}{Screw you and everyone who looks like you!}
 
-{122}{gate5}{I suggest you leave this installation immediately and do not return here without proper authorization.  Do I make myself clear?}
+{122}{gate5}{I suggest you leave this installation immediately and do not return here without proper authorization. Do I make myself clear?}
 {123}{}{Yes.}
 
 {124}{gate6a}{I see. May I have your password?}

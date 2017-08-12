@@ -56,7 +56,7 @@
 {155}{}{Very helpful. I have more questions.}
 {156}{}{How do you know all this?}
 {157}{}{Whatever. Bye.}
-{158}{}{Child, I am AHS-9.  I see many things that transpire in the fleshy world. Do you have more questions, or may I return to my meditations?}
+{158}{}{Child, I am AHS-9. I see many things that transpire in the fleshy world. Do you have more questions, or may I return to my meditations?}
 {159}{}{More questions.}
 {160}{}{Return to your meditations. I'm done.}
 {161}{}{You have killed the Emperor and destroyed his minions?}
@@ -82,7 +82,7 @@
 {181}{}{My counterpart, The Emperor of Shi-town, has been making my life miserable. I'd like you to end his. In return, I'll make sure you can get where you need to be.}
 {182}{}{Sure thing, boss. See ya.}
 {183}{}{I'd rather not.}
-{184}{}{Seek out Badger, whose caustic presence holds those  pathetic tanker vagrants together. Rid our fair city of him. When you have done so, visit AHS-7.}
+{184}{}{Seek out Badger, whose caustic presence holds those pathetic tanker vagrants together. Rid our fair city of him. When you have done so, visit AHS-7.}
 {185}{}{Sure thing, boss. See ya.}
 {186}{}{I'd rather not.}
 {187}{}{I was not aware I had made it a request, child. Kill him!}

@@ -43,6 +43,10 @@
 {239}{}{Can I ask you another question instead?}
 {240}{}{I changed my mind. Bye.}
 
+{241}{}{Dex}
+{242}{}{Cat Jules}
+{243}{}{Kitsune}
+
 # 4. Before PC responses (From ?Everywhere?)
 {245}{}{Go ahead.}
 {246}{}{Yeah?}
@@ -62,6 +66,10 @@
 {262}{}{Never mind. Bye.}
 {263}{}{ want to ill.}
 {264}{}{Na.}
+
+#killap - expansion (Actually part of Node007)
+{265}{}{I was looking over the slaves you got back there, but you see, I have very, uh...*selective* tastes, and none of
+ them are quite what I'm looking for. Are these all the slaves you have to offer?}
 
 # 6. Want to join slaver's guild? (From 5, 7, 8)
 {270}{}{You think you can cut it? I don't take in just anyone... What the hell. If
@@ -84,6 +92,7 @@
 {287}{}{I'd like to join.}
 {288}{}{Another question please.}
 {289}{}{Oh, okay. Bye.}
+
 
 # 8. Slaves from? (From 7)
 {300}{}{Oh, here and there. We mainly collect primitives and nomads when we run across them.}
@@ -371,3 +380,22 @@
 {752}{}{Uh, okay.}
 
 {800}{}{You've killed the leader of the Slave Guild.}
+
+#killap - expansion
+{900}{}{What you see is what you get. If you don't like my merchandise, then get the fuck out of my face and stop wasting my time.}
+{901}{}{Uh, sorry. Let me ask you something else then.}
+{902}{}{Right. I think I'll go then.}
+{903}{}{Actually, I think I'm going to waste *you* and your whole sick fucking operation.}
+
+{910}{}{This is all I've got in stock here, you picky fuck, but I've always got new merchandise coming in from my other slave camp.
+ Maybe if you check back later, I'll have something that tickles your fancy -- but they're mostly ignorant tribals that all look the
+ fucking same, so if that's not your thing, you might be shit outta luck.}
+{911}{}{Look, this might be an unusual request, but I'd really like to get first dibs on any new merchandise you got. Is there some
+ way I could go check out the stock at your other camp? Of course, I'd be willing to pay a premium price.}
+{912}{}{Alright, I'll keep checking back then.}
+{913}{}{Good, but next time do me a favor and don't waste my time unless you've got actual business to discuss.}
+{914}{}{Premium price, huh? Now you're talking my kinda language. We usually handle sales here, but I suppose an exception could be made,
+ as long as you're serious. I'll tell you how to get there, but you better keep it to your fucking self. I swear, if you turn out to be a
+ spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pipboy.]}
+{915}{}{Got it. Let me ask you something else.}
+{916}{}{Thanks. I'll be on my way now. Bye.}

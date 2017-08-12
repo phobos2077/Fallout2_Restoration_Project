@@ -117,13 +117,18 @@
 {283}{}{Well, I'm sure I'll sleep easier knowing that Klamath is safe from Bob's hooch.}
 {284}{}{No skin off my back, pal.}
 
-{290}{}{Well, let's see. All sorts of things going on in town lately. (counts on his fingers) There's
- brahmin-mutilating bugmen, rodents of unusual size, a walking spirit, and a missing hunter. Klamath's
- become a real hot spot lately.}
+{290}{}{Well, let's see. All sorts of things going on in town lately. (counts on his fingers) There's }
+{2900}{}{Things are pretty quiet around here now, actually.}
+{2901}{}{brahmin-mutilating bugmen}
+{2902}{}{rodents of unusual size}
+{2903}{}{a walking spirit}
+{2904}{}{a missing trapper}
+{2905}{}{. Klamath's become a real hot spot lately.}
+
 {291}{}{Tell me about the brahmin-mutilating bugmen, please.}
 {292}{}{Tell me about the RUS's, please.}
 {293}{}{Tell me about the walking spirit, please.}
-{294}{}{I'm not surprised that a hunter's gone missing with all this excitement, but tell me about him,
+{294}{}{I'm not surprised that a trapper's gone missing with all this excitement, but tell me about him,
  too.}
 {295}{}{I'd like to ask about other things.}
 {296}{}{I don't want to know about anything else.}

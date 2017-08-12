@@ -15,3 +15,6 @@
 {210}{}{Please, don't burn the house down.}
 
 {220}{}{Don't bother me.}
+
+{230}{}{Thank you for helping us.}
+{231}{}{I wish there were more people like you in this world.}

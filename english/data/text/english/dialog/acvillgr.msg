@@ -110,3 +110,8 @@
  sleepy.}
 {1110}{}{The Great Bridge exits our village in the south.}
 {1111}{}{He guards the bridge leading into our village.}
+
+#added by killap - expansion
+{400}{}{Is there anything you could tell me about Kaga?}
+{401}{}{[The villager stares at you, wide-eyed, then slowly steps away from you while glancing around nervously.]}
+{402}{}{Alright, I guess not.}

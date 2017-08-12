@@ -20,7 +20,7 @@
 {119}{}{Uranium slugs?}
 {120}{}{Interesting. Bye,}
 {121}{}{A GECK? Never heard of it. I'd imagine no-one else here has either. It sounds like an animal or something that has nasty claws, though.}
-{122}{}{No, not really. I have more questions.}
+{122}{}{No, that's not what I'm looking for. I have more questions though.}
 {123}{}{That's not it at all. Bye.}
 {124}{}{Eric wants more power? Eric can't HAVE more power. This is a very delicate balance of energy we run through here, and if Eric gets more power, then the hospital shuts down. Or the lights. Or the mine. We can't have that.}
 {125}{}{If this machine is run on uranium slugs, you have more than enough power to fill this place AND New Reno and not even notice the drain. Now cough it up.}

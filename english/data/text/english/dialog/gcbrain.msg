@@ -20,6 +20,7 @@
 {142}{}{Uh, you must have forgotten.}
 {143}{}{It's just my aftershave. Old Mice —- do you like it?}
 {144}{}{I killed one of your drones and took it from his still warm corpse.}
+{145}{}{I got it from a village near Vault City. The people there said your followers left these with them.}
 
 {150}{}{Are you ready to become one of us?}
 {151}{}{I was born ready. Where do I sign up?}
@@ -41,7 +42,13 @@
  in earnest. }
 {181}{}{Join you? What do you mean?}
 {182}{}{I'd rather clean your cage than join you.}
+{183}{}{That depends. Vault City's patrols keep getting attacked by molerats. I assume you're behind this?}
+{184}{}{Why of course I am. All part of my grand scheme to take over the world. I wouldn't expect your deficient human brain to understand. But alas, what concern is it of yours?}
+{185}{}{I just want your molerats to stop attacking Vault City's patrols.}
+{186}{}{Do you? Interesting... Alright, I propose a deal, human. I shall comply with your request, *if* you complete a certain task for me.}
 {187}{}{What do you want me to do?}
+{188}{}{Look, we had a deal -- I repair the reactor, and you call off your creatures. I did my part of the bargain, now it's your turn.}
+{189}{}{The reactor is repaired, yes. But is it optimized? No, I'm afraid not. I said I'd call off my molerats when you *complete* the task. Getting it half-done isn't good enough.}
 
 {190}{}{Well, as part of my plan to rule the world, I intend to reward my ghoul followers by finding a
  way to restore their humanity.}
@@ -155,7 +162,7 @@
  leadership -- but that's another story. The first step is to repair the reactor.}
 {391}{}{Repair the reactor?}
 
-{400}{}{Yes. You must get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't,
+{400}{}{You must get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't,
  then Vault City will no doubt attack Gecko. Of course, by destroying the reactor, they will doom
  themselves in the long run, as well.}
 {401}{}{Doom themselves? How do you mean?}
@@ -180,7 +187,7 @@
  allow you to join my cult. Isn't there something you should be doing right now?}
 {442}{}{(crunch, munch, crunch) Mmmm, I love Cheezy Poofs, they're so, well, uh, Cheesy.}
 {443}{}{(crunch, munch, crunch) Mmmm, I love Cheezy Poofs, they're so, well, uh, Cheesy.}
-{444}{}{Okay.}
+{444}{}{Uh…}
 
 {450}{}{So be it. Zomak! Kill this fool for me. But be careful with the Cheezy Poofs!}
 
@@ -278,7 +285,31 @@
  progress on it.}
 {671}{}{Come back later. I'm communing with a higher power, or something (sheesh).}
 
+{672}{}{Look, if you don't call off the attacks, the people in the village could end up enslaved by Vault City.}
+
 {700}{}{I have nothing more to say to you.}
-{701}{}{It appears that Gordon has already given you this Economic Data Disk that I speak of. Take it to Vault City immediately.} 
-{702}{}{I'm on it.}
-{703}{}{Umm...yeah, maybe later.}
+
+
+{701}{}{Alright you ugly son-of-a-bitch, now I've got a new deal for you: Either you call off your rodents, or I swear to you I'll blow the damn reactor!}
+{702}{}{All right, all right... Consider it done. Just, don't touch the reactor. (mumbles) Damn psychotic humans...}
+{703}{}{Now that we're in agreement, what were you saying about the optimization?}
+{704}{}{It's settled then. Goodbye.}
+{705}{}{You came to an agreement about the molerats with The Brain.}
+{706}{}{Vault City's patrols keep getting attacked by molerats. I assume you're behind this?}
+{707}{}{You ask for my assistance, yet you leave a task half-finished. (to himself) Typical human. (to you) Optimize the reactor, then, and only then, shall I assist you.}
+{708}{}{That depends. What is it?}
+{709}{}{Listen here, you radioactive rat. You're really starting to piss me off. You said your "kin" had kicked the bucket... Well, I want you to know -- it was me, who finished him off. And now I think I'll finish the job of rendering your kind extinct.}
+{710}{}{Listen here, you radioactive rat. You're really starting to piss me off. I think it's time I put a stop to this madness.}
+{711}{}{I need to think this over.}
+{712}{}{Most interesting... and here I thought you were concerned for the well-being of Vault City. Anyway, the safety of that village is integral to my plan. Therefore, I shall grant your request, human.}
+{713}{}{It seems to me, that because you have fixed and optimized the reactor, you deserve my help. What is it that you want?}
+{714}{}{Thank you! What were you saying about the optimization?}
+{715}{}{Thank you! Bye.}
+#was 701,702,703 - killap
+{716}{}{It appears that Gordon has already given you this Economic Data Disk that I speak of. Take it to Vault City immediately.}
+{717}{}{I'm on it.}
+{718}{}{Umm...yeah, maybe later.}
+
+{719}{}{You *must* get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't, then Vault City will no doubt attack Gecko. If you help me, I will fulfill your request. So... will you join us?}
+{720}{}{Very well, I shall help you.}
+{721}{}{No, screw you rat brain! I've had enough of this. Time to die!}

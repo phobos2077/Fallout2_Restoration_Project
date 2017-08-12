@@ -290,7 +290,7 @@
  the world. But enough about this place...you looking for a job, pal? We NEED talent like you.}
 {654}{}{This old place? This here's the Golden Globes, a FILM studio, probably the ONLY one still erect and standing in the
  world. But enough about this place...you looking for a job, honey-tits?}
-{655}{}{How do you "film?"  I mean, c'mon...you'd need cameras, film, projectors...where would you get all that stuff?}
+{655}{}{How do you "film?" I mean, c'mon...you'd need cameras, film, projectors... where would you get all that stuff?}
 {657}{}{No thanks. I have to be going.}
 {658}{}{Just checking. I've been feeling a little drained, lately.}
 
@@ -463,6 +463,7 @@
 # Display Messages
 # stupid dude
 {1000}{}{Me feel sicky-sick in belly.}
+{1001}{}{You have a foul, unhealthy taste in your mouth, and you feel sick to your stomach. But hey, 3 chips is 3 chips!}
 # regular dude
 {1100}{}{Ack! ::spit, spit:: That SUCKED!}
 {1101}{}{You have a foul, unhealthy taste in your mouth, and you feel sick to your stomach. But hey, 5 chips is 5 chips!}

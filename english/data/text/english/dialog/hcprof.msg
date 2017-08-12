@@ -42,7 +42,7 @@
 {141}{}{I see. Have you made anything that works?}
 {142}{}{I'd like to take a test.}
 {143}{}{That's all I wanted to know.}
-{144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that chem! And others! Lots of others!}
+{144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that drug! And others! Lots of others!}
 {145}{}{All right, all right. Say, I'd like to try out my skills against your scorpion.}
 {146}{}{All right, I believe you. I'll just be leaving.}
 {147}{}{How... how could you kill my scorpion like that? I was close... so close...}

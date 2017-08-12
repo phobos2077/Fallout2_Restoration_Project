@@ -1,7 +1,7 @@
 {100}{}{You see your young cousin, Nagor. You don't see his dog, Smoke, anywhere.}
 {101}{}{You've known Nagor since he was an infant, and have always helped him when you could.}
-{102}{}{Cousin, am I glad to see you!  I need your help.}
-{302}{}{Cousin, am I glad to see you!  I need your help.}
+{102}{}{Cousin, am I glad to see you! I need your help.}
+{302}{}{Cousin, am I glad to see you! I need your help.}
 {103}{}{Sorry, but I don't have the time.}
 {104}{}{What do you need help with?}
 {105}{}{Then I'll go out in the wilds myself!}

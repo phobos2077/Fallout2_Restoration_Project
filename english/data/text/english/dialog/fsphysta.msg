@@ -21,7 +21,7 @@
 {120}{}{Back.}
 {121}{}{"We are still preparing a working model of an aerial vehicle. None of the designs we have created have proven to be safe or aerodynamic. Perhaps if we had access to the plans of the ancients..."-Dr. Wong}
 {122}{}{Back.}
-{123}{}{(After wading through the introduction and the mathematics, you discover that the Shi are learning to develop nuclear power again, rebuilding the space travel theories of the ancients - and they mock the Hubologists while doing so - and harnessing the energy of the sun, wind, and sea.  At least, that's what the notes read like.)}
+{123}{}{(After wading through the introduction and the mathematics, you discover that the Shi are learning to develop nuclear power again, rebuilding the space travel theories of the ancients - and they mock the Hubologists while doing so - and harnessing the energy of the sun, wind, and sea. At least, that's what the notes read like.)}
 {124}{}{Back.}
 {125}{}{Station deactivated.}
 {126}{}{Activate station.}

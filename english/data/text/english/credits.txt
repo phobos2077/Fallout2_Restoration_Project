@@ -1,3 +1,188 @@
+
+#FALLOUT 2 UNOFFICIAL PATCH
+
+@brought to you by
+killap
+
+@additional help
+Haenlomal
+Darek
+Seraph
+Per
+Everyone who posted bug reports
+
+
+
+#FALLOUT 2 RESTORATION PROJECT
+
+@brought to you by
+killap
+
+
+#PROGRAMMING
+
+@Lead Programmer
+killap
+
+@Additional Programming By
+Darek
+Chris Parks
+MIB88
+
+
+#WRITING
+
+@Lead Writer
+Adam Dravean
+
+@Writers
+killap
+encinodude
+Minigun Jim
+Yamu
+Mikael Grizzly
+SuAside
+Bofast
+
+
+#GRAPHICS
+
+@Lead Artist
+Pixote
+
+@Additional Art
+Continuum
+Josan12
+x'il
+Jotisz
+Wild-Qwerty
+Grayswandir
+Makers of Mutants Rising
+Makers of Fallout: Between Good & Evil
+killap
+Lich
+Crowley
+Nikki
+
+
+#MAPPING
+
+@Lead Mapper
+Pixote
+
+@Additional Mapping
+killap
+Chris Parks
+Skynet
+Deadlus
+
+
+#MUSIC
+hologram
+
+
+#Voice Actors
+@Cassidy
+Adam Dravean
+
+
+#Lip Synch Coordinators
+Aguirre
+Agris
+Josan12
+tobecooper
+Ardent
+
+
+#TRANSLATORS
+
+@Russian Translation
+aliet
+Magnat
+rj rl
+DominionZ
+BaD3uM
+Tschumann
+vindicator
+Drobovik
+
+
+Additional Editing
+
+Drobovik
+SeregaTopor
+Russian Fallout Community
+
+Beta Testers
+
+9in
+Aleksey Kluchnikov aka General Maxon
+Tschumann
+vindicator
+2FARAON
+SuperBul
+IRaven
+vlad2204
+Nickolas
+trisem
+Trephs
+
+@Polish Translation 
+Ivan Zaharath
+The Fallout Polish Community
+
+@German Translation
+Mr. Wolna
+The FalloutNow! Community
+
+@French Translation
+HawK-EyE
+The Fallout French Community
+
+
+#EXTRA CONTENT
+ART
+Continuum
+Corpse
+Glovz
+Haenlomal
+Josan12
+Lisac2k
+Mash
+pelicano
+
+
+#TECHNICAL SUPPORT
+Darek
+NovaRain
+Morticia
+Tomten
+Timeslip
+Mash
+gracul
+Slowhand
+GanymeDes
+Nevill
+Ochrei
+Petrell
+Hootl
+aboniks
+memetics
+FallMan
+The No Mutants Allowed Community
+Anyone else I forgot
+
+
+#FALLOUT 2 HIGH RESOLUTION PATCH
+
+@brought to you by 
+Mash
+
+
+
+
+#FALLOUT 2 DEVELOPMENT TEAM
+
 #PROGRAMMING
 
 @Lead Programmer
@@ -379,84 +564,3 @@ Paul Naftalis
 
 
 
-
-
-
-
-
-
-
-@Okay, fine, if you really must...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@Did you find the extra-special encounters?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@Keep looking...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@Maybe you'll find the Maltese Falcon?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@Hah!  Enjoy...

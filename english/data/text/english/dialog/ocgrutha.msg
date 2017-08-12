@@ -123,7 +123,7 @@
 {182}{}{You said you would let me know if you found a GECK here. Did you locate one?}
 {183}{}{Yes, I am looking for a GECK. I have been told that I could find it here. Do you know where it is?}
 {184}{}{No, thank you. I have everything that I need.}
-{185}{}{Yes, there was a geck in the vault storage room. It is yours with many thanks.}
+{185}{}{Ah, let me see. [He leaves, then returns a moment later, awkwardly clutching some kind of metallic case in his large claws.] Yes, there was a geck in the vault storage room. It is yours with many thanks.}
 {186}{}{Yes, there was a geck in the vault storage room. However, it is missing. I am sorry
  that I cannot give it to you as a reward for all your generous help.}
 {187}{}{Thanks!}

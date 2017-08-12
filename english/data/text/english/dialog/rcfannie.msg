@@ -125,3 +125,5 @@
 
 {200}{}{You slipped the Jet antidote into Fannie's Mae's drink.}
 # End Seraph's Code
+
+{210}{}{Alright, here's $60. How 'bout another round?}

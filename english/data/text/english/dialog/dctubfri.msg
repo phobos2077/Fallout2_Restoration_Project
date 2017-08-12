@@ -1,5 +1,5 @@
 # LOOKS
-{100}{}{You see a chem reliant.}
+{100}{}{You see a druggie.}
 
 {110}{}{You see a jet whore.}
 {111}{}{You see one of Tubby's jet whores.}

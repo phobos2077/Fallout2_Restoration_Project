@@ -27,4 +27,4 @@
 #  what is happening when you first enter the map.          #
 #############################################################
 
-{100}{}{*** THIS IS WHERE THE TOWN ENTERANCE MESSAGE SHOULD BE ***.}
+{100}{}{You have entered the residential end of The Den.}

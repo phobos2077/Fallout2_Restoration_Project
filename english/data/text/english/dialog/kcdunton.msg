@@ -1,4 +1,4 @@
-{100}{}{You see one of two very similar looking men--they could be twins.
+{100}{}{You see one of two very similar looking men -- they could be twins.
  Both are heavily muscled and have beetling brows.}
 {101}{}{You see either Chuck or Buck Dunton, they both look so much alike that you're not sure which one you're looking at right now.}
 {102}{}{You see a tall, heavily muscled man whose face, beneath his beetling brow, is habitually
@@ -213,7 +213,7 @@
  if you're interested.}
 {372}{}{Yeah, I'm interested. Tell me about this job.}
 {373}{}{I don't think I want anything to do with you two. Goodbye.}
-{374}{}{I found a pile of bug parts in that little shack over there. Do you know what they are?}
+{374}{}{I found a pile of bug parts in that house over there. Do you know what they are?}
 
 {380}{}{What the heck do you want? Did you forget what you're supposed to be doing?}
 {381}{}{No. I remember. I'll get busy with our plan.}
@@ -294,3 +294,15 @@
 {601}{}{ Ready to go?}
 
 {700}{}{You have rustled the brahmin successfully.}
+
+{702}{}{No, I'll tell you what you have these for. You dress up as "Bug Men" and scare poor old Torr out of his Brahmin, don't you -- don't you?! It all makes sense now. You're just a couple of no good ruffians.}
+{703}{}{[The Dunton brothers' eyes get really wide and the two men begin to fidget uncomfortably.] Yy..yyy...yeah so...what's it to you, tribal? Everyone needs a little extra cash now and then. What's it to you anyway? What are you gonna do about it, huh?}
+{704}{}{I'll tell you what. If you stop stealing brahmin and bothering Torr, then I won't turn you in. All I need is your word, since if it happens again, there won't be any of you left to steal another brahmin. Got it?!}
+{705}{}{[hyuk, hyuk, hyuk] Yeah right, tribal. I think it's about time we teach you what happens to nosy tribals 'round here.}
+{706}{}{Alright Tribal, you win this time. We'll stop, now just leave us alone.}
+{707}{}{You scare the Dunton brothers into never bothering Torr again.}
+{708}{}{[DONE]}
+{709}{}{Just leave us alone.}
+{710}{}{Yeah, whatever tribal. Just mind your own business.}
+
+{800}{}{I found a pile of bug parts in the cabin over at the grazing area. Do you know what they are?}

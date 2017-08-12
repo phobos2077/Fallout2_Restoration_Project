@@ -41,7 +41,7 @@
  My shack's... well, it was just east of their place.}
 {174}{}{Do you mean this radio?}
 {175}{}{I'll go look for it.}
-{176}{}{Hmmm...  I'll be back.}
+{176}{}{Hmmm... I'll be back.}
 
 # Node 4b
 {206}{}{It's right here. [pointing to a map]}

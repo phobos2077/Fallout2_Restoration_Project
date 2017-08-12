@@ -115,11 +115,11 @@
 {361}{}{Okay.}
 
 # 15. Food? (From 4)
-{370}{}{What? Oh, you must be looking for Mom's. You're one building off.  She's in the building directly south. S-o-u-t-h. That way. [Aidan points out the door.]}
+{370}{}{What? Oh, you must be looking for Mom's. You're one building off. She's in the building directly south. S-o-u-t-h. That way. [Aidan points out the door.]}
 {371}{}{Huh? Uh… Oh.}
 
 # 16. Yes, join - Female (From 4)
-{380}{}{Ya look like ya might fit in, but Metzger's never hired a woman. Not sure why, but I doubt he's  gonna start now.}
+{380}{}{Ya look like ya might fit in, but Metzger's never hired a woman. Not sure why, but I doubt he's gonna start now.}
 {381}{}{Ya don't look the type. Hell, Metzger's never hired a woman before. Not sure why, but I doubt he's starting now.} # Error intentional, please do not remove.
 {382}{}{I said ta talk ta Metzger.}
 {383}{}{Who's Metzger?}

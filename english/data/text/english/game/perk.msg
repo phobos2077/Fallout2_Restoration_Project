@@ -123,12 +123,14 @@
 {217}{}{Expert Excrement Expeditor}
 {218}{}{Weapon Enhanced Knockout}
 {219}{}{Jinxed}
+{220}{}{Alcohol Addiction}
+{221}{}{Smoker}
 
 #
 #   PERK DESCRIPTIONS
 #
 {1101}{}{With Awareness, you are given detailed information about any critter you examine. You see their exact hit points and information about any weapon they are equipped with.}
-{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your Hand-to-Hand attacks cost 1 AP less to perform.}
+{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand or melee attacks cost 1 AP less to perform.}
 {1103}{}{Experience in unarmed combat has given you the edge when it comes to damage. You cause +2 points of damage with hand-to-hand and melee attacks for each level of this Perk.}
 {1104}{}{For each level of Bonus Move, you get 2 free APs each turn that can only be used for movement. In other words, you can move 2 free hexes each turn for each level of this Perk.}
 {1105}{}{Your training in firearms and other ranged weapons has made you more deadly in ranged combat. For each level of this Perk, you do +2 points of damage with ranged weapons.}

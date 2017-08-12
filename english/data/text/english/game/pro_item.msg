@@ -223,7 +223,7 @@
 {11200}{}{Urn}
 {11201}{}{A beautiful golden urn, with the name "Harriet" inscribed on the front and ashes inside.}
 {11300}{}{Robes}
-{11301}{}{Robes from the Children of the Cathedral.}
+{11301}{}{Worn-looking robes.}
 {11400}{}{Tangler's Hand}
 {11401}{}{A cybernetic manipulator, in the shape and form of a hand. Damaged due to the sloppy nature of the removal process.}
 {11500}{}{Super Sledge}
@@ -445,11 +445,11 @@
 {22800}{}{Technical Manual}
 {22801}{}{A technical repair manual on the T-51b Power Armor.}
 {22900}{}{Small Piece Of Machinery}
-{22901}{}{A damaged piece of Power Armor. It's very clean and could be a trophy of some kind.}
+{22901}{}{Some mechanical component for a machine. If a machine is missing one of these, then it's a safe bet it isn't working properly.}
 {23000}{}{Vault Records}
 {23001}{}{A compendium of events and important recordings from a Vault computer system. Possibly damaged.}
 {23100}{}{Military Base Security Code}
-{23101}{}{ }
+{23101}{}{}
 {23200}{}{Hardened Power Armor}
 {23201}{}{A suit of T-51b Power Armor. The hardening process has improved the defensive capability of this high-tech armor system.}
 {23300}{}{Turbo Plasma Rifle}
@@ -678,6 +678,7 @@
 {34500}{}{Gravesite}
 {34600}{}{Gravesite}
 {34700}{}{Gravesite}
+{34701}{}{}
 {34800}{}{Advanced Power Armor}
 {34801}{}{This powered armor is composed of lightweight metal alloys, reinforced with ceramic castings at key points. The motion-assist servo-motors appear to be high quality models as well.}
 {34900}{}{Adv. Power Armor MKII}
@@ -909,13 +910,14 @@
 {46600}{}{Password Paper}
 {46601}{}{A sheet of folded paper with the word "TCHAIKOVSKY" written on it.}
 {46700}{}{Jesse's Container}
+{46701}{}{}
 {46800}{}{Smitty's Meal}
 {46801}{}{It's some kind of salad and a sandwich made out of what you think is Brahmin meat covered in a thick dark yellow sauce. There is also a strange pickled green vegetable on the side.}
 {46900}{}{Rot Gut}
 {46901}{}{A very strong liquor or cleaning fluid, you decide.}
 {47000}{}{Ball Gag}
 {47001}{}{A questionable sexual device. If you need to ask, you don't want to know.}
-{47100}{}{"The Lavender Flower"}
+{47100}{}{The Lavender Flower}
 {47101}{}{It appears to be some kind of romance novel written by Dorothy Rixon. The cover has a woman laying on a bed surrounded by a hundred flowers.}
 {47200}{}{Hubologist Holodisk}
 {47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your PIPBoy.}
@@ -989,6 +991,7 @@
 {50901}{}{This inflatable rubber sex doll has a torn seam. It's obviously been well used.}
 {51000}{}{Pool Table}
 {51100}{}{Pool Table}
+{51101}{}{}
 {51200}{}{Pool Table}
 {51300}{}{Pool Table}
 {51400}{}{Pool Table}
@@ -1026,3 +1029,129 @@
 {53201}{}{This crudely-drawn map shows the area surrounding New Reno. It looks like there's some sort of military base to the north.}
 {53300}{}{Fire Gecko Pelt}
 {53301}{}{This is the dried and cured hide of a fire gecko. It is badly burned and as a result, has little value.}
+{53400}{}{Bucket}
+{53401}{}{A medium sized bucket used to haul water from a well.}
+{53500}{}{Scaly Fish}
+{53501}{}{A scaly looking fish. If cooked, it would probably make a tasty meal.}
+{53600}{}{Fish}
+{53601}{}{A raw looking fish. If cooked, it would probably make a tasty meal.}
+{53700}{}{Ode to the Flame Deluge}
+{53701}{}{A novel set after a devastating nuclear war. The book excerpt describes how a violent backlash against the culture of advanced knowledge and technology that had led to the development of nuclear weapons took place shortly after this war. Anyone of learning, and eventually anyone who could even read, was likely to be killed.}
+{53800}{}{Text Book}
+{53801}{}{An old text book from before the Great War. It is quite technical and doesn't appear to contain any useful information.}
+{53900}{}{Army Technical Manual}
+{53901}{}{An old technical manual designed for the United States Army Corps of Engineers.}
+{54000}{}{Operations Manual}
+{54001}{}{The operations manual to the KV-75; a portable, tactical cryptographic device. Also used by non-tactical users for high-level communications in the local wideband telephone networks and wideband satellite terminals.}
+{54100}{}{Chinese Army: Special Ops Manual}
+{54101}{}{You can't understand a thing from the text, but the illustrations are quite informative.}
+{54200}{}{Bottle of wine}
+{54201}{}{A fresh bottle of Abbey's finest wine.}
+{54300}{}{Diary}
+{54301}{}{It appears to be a diary which belonged to a young girl. The writing on the inside cover says: "Property of Anna" Most of the pages are either torn or faded, but one is still readable. "Day 271: Today my mother gave me a gold locket. It is the most beautiful thing I have ever owned. I will never part with it."}
+{54400}{}{Botany Holodisk}
+{54401}{}{This information disk categorizes the various plant life that grew before the Great War.}
+{54500}{}{Expired G.E.C.K.}
+{54501}{}{The Garden of Eden Creation Kit. This unit is standard equipment for all Vault-Tec vaults. A GECK is the resource for rebuilding civilization after the bomb. Just add water and stir. This one is well beyond is expiration date. What a waste!}
+{54600}{}{Old Coin}
+{54601}{}{A very old coin. You are not sure whose face is on it, but it looks like it could be rare and worth a lot of money.}
+{54700}{}{A watch}
+{54701}{}{An antique watch. This brand stopped being manufactured long before the Great War.}
+{54800}{}{Pack of Cigarettes}
+{54801}{}{A pack of 'Commies'. On the back it says: 'Smoke a Commie to do your bit for democracy and feel better'. Lower down there's a health warning: 'As your doctor, I recommend Commies for fresher breath and a winning smile'. It looks like there's about 10 in a pack.}
+{54900}{}{Gas Mask}
+{54901}{}{The Protective Mask: Your mask is your first line of defense against biological agents. Take care of it.}
+{55000}{}{Toaster}
+{55001}{}{A silver toaster sitting on a desk.}
+{55100}{}{Syringe}
+{55101}{}{A pre war implement for administrating drugs. It is full of an unknown substance.}
+{55200}{}{Dog Food}
+{55201}{}{Several cans of dog food.}
+{55300}{}{Bug Spray}
+{55301}{}{A spray can full of a substance that kills all known bugs.}
+{55400}{}{Environmental Armor}
+{55401}{}{Armor best worn against biological attacks.}
+{55500}{}{EPA Pamphlet}
+{55501}{}{A leaflet given out at the beginning of tours.}
+{55600}{}{Drugs}
+{55601}{}{Some sort of drugs preserved from before the war.}
+{55700}{}{Security Rooms Key Card}
+{55701}{}{A key card to unlock the security rooms.}
+{55800}{}{Test tube rack}
+{55801}{}{A rack for holding chemical test tubes.}
+{55900}{}{Keys}
+{55901}{}{Keys to allow access to the storage shed on the surface.}
+{56000}{}{Random Chemicals}
+{56001}{}{DANGER! Unknown chemicals. Use with caution.}
+{56100}{}{Corn Seeds}
+{56101}{}{Packets of seeds, used to grow plants. These are labeled as genetically modified corn seeds immune to both disease and insect infestation.}
+{56200}{}{Plant Spray}
+{56201}{}{A spray can full of a substance that kills various types of plants.}
+{56300}{}{Trigger activated dynamite}
+{56301}{}{Unlike normal dynamite which is set by a timer, this dynamite is activated by a trigger.}
+{56400}{}{Trigger switch}
+{56401}{}{Trigger for dynamite.}
+{56500}{}{Paper}
+{56501}{}{Paper with a passcode scribbled on it.}
+{56600}{}{Experimental Seeds}
+{56601}{}{Packet of experimental seeds. Result of germination is unknown.}
+{56700}{}{A drill}
+{56701}{}{An electric powered drill.}
+{56800}{}{Trigger activated dynamite}
+{56801}{}{Unlike normal dynamite which is set by a timer, this dynamite is activated by a trigger. This one is armed and ready to be triggered.}
+{56900}{}{Pop Rocks}
+{56901}{}{An unopened bag of a tasty carbonated candy made of sugar, lactose (more sugar), corn syrup (even more sugar), and flavoring. It is rumored that when mixed with drinks like Nuka Cola one's stomach would explode.}
+{57000}{}{Bottle of Shampoo}
+{57001}{}{A premium bottle of shampoo. Unlike other leading brands, this shampoo comes in an unusual flexi-plastic bottle. It was specially designed this way, so when the bottle was squeezed, the right amount of shampoo was poured out - no more, no less. Just a flip of the cap, and you're on your way.}
+{57100}{}{K-9 Kevlar}
+{57101}{}{A dusty old set of sturdy kevlar plates set into black nylon sleeves. You think it must be sized for a dwarf, until you notice a tag on the inside which reads: Canine Kevlar. Large. A DoggieBuddy product. Made in Taiwan.}
+{57200}{}{Human Ear}
+{57201}{}{A woman's ear. Gross! Only a mentally unstable person would ever remove a human ear.}
+{57300}{}{ERSI canister}
+{57301}{}{A canister of Environmental Rejection Syndrome Inhibitors. Applied to specimens exiting from an extended period of hibernation.}
+{57400}{}{Lightsaber}
+{57401}{}{An ancient weapon from a more civilized age. Not as clumsy or as random as a blaster. It was given to you by Obi-Wan-Killap. Min ST: 2}
+{57500}{}{Blaster}
+{57501}{}{Hokey religions and ancient weapons are no match for a good blaster at your side, kid. Min ST: 3}
+{57600}{}{Lightsaber}
+{57601}{}{An ancient weapon from a more civilized age. Not as clumsy or as random as a blaster. It was given to you by Empress Timeslip. Min ST: 2.}
+{57700}{}{Air Processing Vent}
+{57701}{}{The grill on this vent looks different.}
+{57800}{}{Metal Locker}
+{57801}{}{A storage container.}
+{57900}{}{Metal Locker}
+{57901}{}{A storage container.}
+{58000}{}{Chinese Code Chart}
+{58001}{}{You're not certain, but it appears to be a chart containing various Chinese command codes. Perhaps if you found a place to input these codes, you could learn a thing or two.}
+{58100}{}{Dead Tribal}
+{58101}{}{This person has died a horrible death on the medical table.}
+{58200}{}{Dead Tribal}
+{58201}{}{This person has died a horrible death on the medical table.}
+{58300}{}{Plant Spike}
+{58301}{}{An organic seed-spike that the carnivorous plants spit at potential food or seed carriers. This one is sharper, and harder than usual.}
+{58400}{}{Dead Vault Dweller}
+{58401}{}{This person has died a horrible death on the medical table.}
+{58500}{}{Dead Vault Dweller}
+{58501}{}{This person has died a horrible death on the medical table.}
+{58600}{}{Dead Tribal}
+{58601}{}{This person has died a horrible death on the medical table.}
+{58700}{}{Dead Tribal}
+{58701}{}{This person has died a horrible death on the medical table.}
+{58800}{}{K-9 Kevlar}
+{58801}{}{Wearable K-9 Kevlar (FAKE)}
+{58900}{}{Mutant Armor}
+{58901}{}{Mutant Armor}
+{59000}{}{Mutant Armor}
+{59001}{}{Wearable Mutant Armor (FAKE)}
+{59100}{}{Small Scorpion Tail}
+{59101}{}{The severed tail of a small radscorpion.}
+{59200}{}{Plant seed}
+{59201}{}{A plant seed given to you by Dr. Sheng.}
+{59300}{}{Nothing out of the ordinary}
+{59301}{}{Nothing out of the ordinary.}
+{59400}{}{Nothing out of the ordinary}
+{59401}{}{Nothing out of the ordinary.}
+{59500}{}{Nothing out of the ordinary}
+{59501}{}{Nothing out of the ordinary.}
+{59600}{}{Fake Heart Pills}
+{59601}{}{These pills would normally be used by people with heart problems, except in this case death would ensue. These pills have been mixed with other chemicals, resulting in a guaranteed heart-exploding experience.}

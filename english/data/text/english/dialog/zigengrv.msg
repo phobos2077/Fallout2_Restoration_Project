@@ -82,7 +82,7 @@
 {323}{}{"Scott Campbell. Not the soup."}
 {324}{}{"Here lies Scott Everts. Late for work. Late for life."}
 {325}{}{"Scott Rodenhizer. Built 3D heads."}
-{326}{}{"Thomas French:  Died while attempting to master the Flying Guillotine."}
+{326}{}{"Thomas French: Died while attempting to master the Flying Guillotine."}
 {327}{}{"Tim Cain. Founder, Lover, Fighter, Programmer."}
 {328}{}{"Tramell Ray Isaac: Hear lies one of the hardest working men in this business. Animator extraordinare(sp?). I think. R.I.P. T.Ray"}
 {329}{}{"Zeb -- Still Older Than Dirt"}
@@ -96,7 +96,7 @@
 {337}{}{"Amy Presnell"}
 {338}{}{"Stephen Bokkes, age 25. Cut down in his prime by the slings and arrows of outrageous fortune." }
 {339}{}{"R.I.P. Doug "Skully" Finch (Date does not matter) Killed for smoking in the French Market. Last words - 'Donkey Punches to ya!'"}
-{340}{}{"Here lies Donnie Cornwell, good and dead.  In an extra large coffin to fit his extra large head."}
+{340}{}{"Here lies Donnie Cornwell, good and dead. In an extra large coffin to fit his extra large head."}
 {341}{}{"Rob Giampa lived his life like he liked his women: fast, cheap, and easy."}
 {342}{}{"T. D. Hamilton: Hear lies a stank hoe that should have been dead a long time ago. Rest in hell, BITCH!"}
 {343}{}{"Another victim of the deadline."}
@@ -109,7 +109,7 @@
 {350}{}{"Reg Arnedo: we can still hear his voice in the halls."}
 {351}{}{"Shanna SanPaolo"}
 {352}{}{"Brahmin Wrangler"}
-{353}{}{"Josh Walters, 1971-2011.  Died of complications during his fifth liver transplant."}
+{353}{}{"Josh Walters, 1971-2011. Died of complications during his fifth liver transplant."}
 {354}{}{"Doug Avery. Hated the war for destroying his trailer park lifestyle."}
 # joke ones
 {355}{}{"Here lies Ezekial Aikle, age 102. The good die young."}
@@ -138,9 +138,9 @@
 {378}{}{"Tim Winkle - I abide no hypocrisy but my own"}
 {379}{}{"Jughead - King of Queen Archie's World"}
 # new additions
-{380}{}{"R.I.P Casey Donahue Died 8/6/98  Killed by Mutated Ill-Tempered Sea Bass."}
+{380}{}{"R.I.P Casey Donahue Died 8/6/98 Killed by Mutated Ill-Tempered Sea Bass."}
 {381}{}{"Christopher 'Nightwing' Jones: administrator of the mushroom bruise"}
-{382}{}{"Jay "Potato Feet" Nielson.  Musician.  Passed on at the age of 104, during a drum solo."}
+{382}{}{"Jay "Potato Feet" Nielson. Musician. Passed on at the age of 104, during a drum solo."}
 {383}{}{"Nitsa - The reason Charles didn't quite get hockey."}
 {384}{}{"Thuy Dang. May God have mercy on his name."}
 

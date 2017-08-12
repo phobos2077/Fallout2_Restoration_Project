@@ -68,7 +68,7 @@
  stories. Then one day Karl stopped coming into town.}
 {201}{}{What happened to him? Did you look for him?}
 {202}{}{Of course we did! We went up there as soon as we suspected something was wrong. [He starts to
- tremble violently.] The horror.  Bodies strewn everywhere.  Some crucified, while others were
+ tremble violently.] The horror. Bodies strewn everywhere. Some crucified, while others were
  left to rot out in the sun. I still wake up screaming in the middle of the night from the horrible
  images I saw that day.}
 {203}{}{So, let me guess. You want me to go to this farm and find out what happened.}

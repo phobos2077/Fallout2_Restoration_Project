@@ -5,7 +5,7 @@
 {104}{}{Been a slow season for selling brahmin.}
 {105}{}{No idea where all that brahmin crap keeps coming from. Just seems to appear.}
 {106}{}{Well, hello there, stranger. I'm Ed, the local brahmin dealer. Help you with something?}
-{107}{}{Good to see you again.  What can I do you for?}
+{107}{}{Good to see you again. What can I do you for?}
 {108}{}{Do you know a trader named Vic? He said he bought this Vault water flask from you.}
 {109}{}{Do you know a trader named Vic?}
 {110}{}{My friend Vic here says he bought a water flask from you.}
@@ -60,9 +60,9 @@
 {158}{}{Okay place... if you can deal with the Citizens. I don't agree with some of their views, but hey, I make a pretty good living here.}
 {159}{}{I had some other questions...}
 {160}{}{I see. Thanks for the information. Goodbye.}
-{161}{}{I sell brahmin to people who need them.  Helps me pay rent on this place.}
+{161}{}{I sell brahmin to people who need them. Helps me pay rent on this place.}
 {162}{}{I had some other questions...}
 {163}{}{I see. Thanks for the information. Goodbye.}
-{164}{}{I got brahmin smarter than you.  Move along.}
+{164}{}{I got brahmin smarter than you. Move along.}
 {165}{}{This looks like Ed's place. He's the one I bought that water flask from.}
 {166}{}{You have discovered the origin of the water flask.}

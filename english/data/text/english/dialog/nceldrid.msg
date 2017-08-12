@@ -244,7 +244,7 @@
 
 {700}{}{God damn dogs! I'm going back to bed.}
 {701}{}{Stupid Dogs! I'm putting you all to sleep first thing tomorrow.}
-{702}{}{Would you dogs be shut up! Nobody's stupid enough to break into a gun store!}
+{702}{}{Would you dogs shut up! Nobody's stupid enough to break into a gun store!}
 
 {800}{}{You have delivered a laser pistol to Eldridge.}
 

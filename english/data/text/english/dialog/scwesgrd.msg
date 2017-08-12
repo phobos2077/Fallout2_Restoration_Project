@@ -43,3 +43,6 @@
 {140}{}{I have something from Vault City for Mr. Westin.}
 {141}{}{All right, come on in. Don't cause any trouble though, I'll be watching you.}
 {142}{}{You're not allowed on to the ranch without official business.}
+
+# added by killap - RP
+{150}{}{I'm sorry, there's been an incident and no one is allowed on the property. Move along.}

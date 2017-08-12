@@ -36,7 +36,7 @@
 {135}{}{What level are you?}
 {136}{}{Oh. I assumed you could see my aura. I'm sorry.}
 {137}{}{Oh. I assumed you could see my aura. I'm sorry.}
-{138}{}{ }
+{138}{}{Well, last time I checked the character screen, I was at level }
 {139}{}{Why, I'm at Transcendency, of course.}
 {140}{}{Uhhh...isn't it really impolite to go talking about levels?}
 {141}{}{Honestly! I don't know what they expect me to accomplish surrounded by such rim meat!}
@@ -71,12 +71,11 @@
 {170}{}{I need some information. Vault 13 - what do you know about it?}
 {171}{}{How have things been going?}
 {172}{}{Forget about it. No hard feelings. That's all.}
-{173}{}{ }
-{174}{}{Yes!}
-{175}{}{ }
-
-
-{176}{}{Transcendency?  Honestly, how do they expect me to spread the word out here when they don't even keep me up-to-date on the latest doctrine!?}
+{173}{}{That's impressive. Though I believe we are speaking about two different things, it still sounds like you deserve an experience bonus.}
+{174}{}{Yes!!}
+{175}{}{It's done. Just remember though, there's more to life than gaining enough experience points to reach the next level. There's a whole "real" world out there.
+ Now that we have that out of the way, shall we try again?}
+{176}{}{Transcendency? Honestly, how do they expect me to spread the word out here when they don't even keep me up-to-date on the latest doctrine!?}
 {177}{}{(Continue)}
 {178}{}{Were you asleep during indoctrination? Hmmph - you are not one of the Enlightened!}
 {179}{}{So you're saying there's some higher power who creates us with a purpose and then just abandons us? I can't believe any being would be so callous. Come, embrace the Church of Hubology. Let us show you the true way.}
@@ -118,6 +117,6 @@
 {215}{}{Intruder! Do you plan to desecrate this place? Out!}
 
 {216}{}{Wonderful, sister. So what level are you?}
-{217}{}{ }
+{217}{}{. I'm sure if I keep wandering and killing random creatures I'll hit level 99 in no time.}
 {218}{}{You gain }
 {219}{}{ experience points for "taking care of" the Hubologist for Merk.}

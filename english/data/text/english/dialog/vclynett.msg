@@ -648,6 +648,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {661}{lyn107}{What is it? }
 {662}{}{I found their base. They're holed up in a series of caves in the foothills to the South.}
 {663}{}{I wiped them out. They were holed up in a series of caves in the foothills to the South.}
+{1663}{}{They were holed up in a series of caves in the foothills to the South. I convinced their guide to not help them anymore. Without him, they will be unable to find their way through the mountains.}
 {664}{}{Information has its price.}
 {665}{}{Nevermind. I have to be going.}
 {666}{lyn108}{You have? Excellent! But the city guards are already stretched thin... What about you?
@@ -702,6 +703,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {706}{lyn118}{Very well, here is your money. Now tell me what you know.}
 {707}{}{I found their base. They're holed up in a series of caves in the foothills to the South.}
 {708}{}{I wiped them out. They were holed up in a series of caves in the foothills to the South.}
+{1708}{}{They were holed up in a series of caves in the foothills to the South. I convinced their guide to not help them anymore. Without him, they will be unable to find their way through the mountains.}
 {709}{}{Actually, I don't really know much of anything.}
 {710}{}{Thanks for the cash. I have to be going now.}
 {711}{lyn119}{I need you to go immediately to New California Republic and find Counselor Westin,

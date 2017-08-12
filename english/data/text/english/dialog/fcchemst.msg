@@ -31,7 +31,7 @@
 {130}{}{Actually, it is of interest. I'd like fuel for the Poseidon Oil Tanker.}
 {131}{}{I'll bet it would be of interest to the Hubologists. They want fuel.}
 {132}{}{Not yet, it's not. But I'll be back.}
-{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship.  It is the one called Crocket that you will wish to speak with.}
+{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship. It is the one called Crocket that you will wish to speak with.}
 {134}{}{I'll do that.}
 {135}{}{I can't make any promises.}
 {136}{}{I have one right here.}

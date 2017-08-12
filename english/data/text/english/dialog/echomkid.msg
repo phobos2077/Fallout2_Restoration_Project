@@ -10,3 +10,5 @@
 {200}{}{You see a young child.}
 {201}{}{It's a little boy.}
 {202}{}{It's a little girl.}
+
+{210}{}{Hi.}

@@ -116,6 +116,16 @@
 {463}{}{Take care.}
 {464}{}{You're welcome.}
 
+{470}{}{Wait, one more thing. I'm looking for someone specific and I don't see her here. Do you know where other slaves might be held?}
+{471}{}{Big camp near here. (The tribal points south west) Two moons from here.}
+{472}{}{There's a camp about two days travel south west from here. That's where I was first at.}
+{473}{}{Thank you. Now get out of here.}
+{474}{}{Thank you. Take care then.}
+
+#dumb dialgoue added by killap
+{475}{}{Wait. I look for someone. Where more slaves?}
+{476}{}{Thankee. Go now!}
+
 # 10. Metzger Dead, Next Times (From Where to go)
 {480}{}{What you want?}
 {481}{}{What do you want?}

@@ -1,7 +1,7 @@
 {100}{}{You see a small girl wearing a yellow dress.}
 {101}{}{You see Sandy, the child.}
-{102}{}{You see a small girl wearing a yellow dress with flowers on it.  She appears to be meowing like
- a cat.  She has on a name tag that says "Sandy".}
+{102}{}{You see a small girl wearing a yellow dress with flowers on it. She appears to be meowing like
+ a cat. She has on a name tag that says "Sandy".}
 {103}{}{Meow... meow... I am a cat. And I have special powers that only cats have. What are you?}
 {104}{}{Me doggy! Woof! Woof! Who you?}
 {105}{}{Urrrh? (confused puppy look)}

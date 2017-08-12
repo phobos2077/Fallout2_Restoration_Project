@@ -32,6 +32,7 @@
 # from the vermin hunter seed
 {500}{}{Looks like I killed them all.}
 {501}{}{All meanie biters dead.}
+{502}{}{You cleared out Farrel's garden.}
 
 # Coin Bag Descriptions
 {600}{}{You see a coin bag.}

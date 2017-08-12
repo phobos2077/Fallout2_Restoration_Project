@@ -14,7 +14,7 @@
 {113}{}{Do you not recognize the Chosen One?}
 {114}{}{No.}
 {115}{}{What business is it of yours?}
-{116}{}{The reason I ask,  you see, is because my wife is missing. I don't know where she is. She's been gone for days. I've asked around town, and no one has seen her. Can you find her for me?}
+{116}{}{The reason I ask, you see, is because my wife is missing. I don't know where she is. She's been gone for days. I've asked around town, and no one has seen her. Can you find her for me?}
 {117}{}{What's in it for me?}
 {118}{}{I'll look around. What's she look like?}
 {119}{}{Nope. I'm busy.}
@@ -23,11 +23,11 @@
 {122}{}{Nope. Can't do it.}
 {123}{}{Please. Please. My wife... she's everything to me. Please.}
 {124}{}{I said no!}
-{125}{}{Fine. Fine, just stop pestering me.}
-{126}{}{Here's the money. Now please, please, PLEASE... find my wife and tell me where she is. Maybe she's shacked up with someone else, maybe she's left me... but I just need to know.	}
+{125}{}{Fine! Fine! Just stop pestering me.}
+{126}{}{Here's the money. Now please, please, PLEASE... find my wife and tell me where she is. Maybe she's shacked up with someone else, maybe she's left me... but I just need to know.}
 {127}{}{You got it, pal. What's she look like?}
 {128}{}{Sure thing. I'll do my best.}
-{129}{}{::he sobs uncontrollably for a few moments:: Very well. Go away. And realize that you've broken my heart.    }
+{129}{}{::he sobs uncontrollably for a few moments:: Very well. Go away. And realize that you've broken my heart.}
 {130}{}{See ya, loser.}
 {131}{}{She's blonde, sexy, and has the most incredible singing voice... I last saw her walking around this area. She didn't like mutants or ghouls, so she wouldn't have been near any of them. Nobody knows where she went. It's like she just disappeared.}
 {132}{}{That should be enough.}
@@ -42,7 +42,7 @@
 {141}{}{Was she a hottie with no legs?}
 {142}{}{I found a group of dead people in the tunnels below the city. She was one of them. I'm sorry.}
 {143}{}{What? No! She had great legs!}
-{144}{}{Oh. Right. Well, she hasn't got great legs now. She really got savaged, and her legs are OFF. She's totally dead, and she suffered before she died.	}
+{144}{}{Oh. Right. Well, she hasn't got great legs now. She really got savaged, and her legs are OFF. She's totally dead, and she suffered before she died.}
 {145}{}{Right. Well, I think I found her in the tunnels below the city. She's dead. I'm very sorry.}
 {146}{}{Thank you for telling me. I think I have to go cry.}
 {147}{}{Yeah, you go cry, you pansy loser.}

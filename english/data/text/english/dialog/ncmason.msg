@@ -112,6 +112,7 @@
 {364}{}{Sure. Thanks, Mason.}
 {365}{}{I can handle it. Now stand back and let me get to work.}
 {366}{}{I already took care of the Lloyd "situation."}
+{367}{}{Who was the dealer at the table Lloyd won the money from?}
 
 # 18. QUESTION NODE? (19, 20, 21, 22, 23, 24, 25, 26)
 {375}{}{Yeah? Like what?}
@@ -361,3 +362,7 @@
 {5735}{}{. Mr. Salvatore sent word of yer promotion. Congrats. I got some stuff for you...lessee...(He hands you an
  armload of items.) Careful with that stuff...}
 {5765}{}{.}
+
+# Expansion pack - killap (Nikki lines)
+{900}{}{Her name's Nikki. She's downstairs in the backroom. (Mason stares off into the distance.) Man does she have a perfect ass.}
+{901}{}{I had some other questions...}

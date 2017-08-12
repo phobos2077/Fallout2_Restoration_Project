@@ -38,3 +38,7 @@
 {134}{}{I didn't like farming anyway.}
 {135}{}{I'll be back.}
 {136}{}{Take my wife - please...}
+
+#added by killap
+{200}{}{Thanks fer your help.}
+{201}{}{Bout time some order was brought to these here lands.}

@@ -60,5 +60,5 @@
 {152}{}{Fine, have fun and I'll be going now.}
 {153}{}{Hand over the girl and we can all leave here alive.}
 
-{154}{}{So, you’ve returned. Let’s see who comes out on top.}
-{155}{}{We killed that bitch Chrissy, and now it’s your turn to die!}
+{154}{}{So, you've returned. Let's see who comes out on top.}
+{155}{}{We killed that bitch Chrissy, and now it's your turn to die!}

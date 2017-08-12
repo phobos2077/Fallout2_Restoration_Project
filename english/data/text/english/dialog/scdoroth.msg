@@ -24,7 +24,7 @@
 {123}{}{You fixed it? Without any parts? That's amazing! Where'd you learn to do that?}
 {124}{}{Huh-huh!}
 {125}{}{Just handy that's all.}
-{126}{}{I get it. You're one of those moron types - what do they call them? Idiot savants. Well look, idiot or not, you've earned a reward. RE-WARD - you. I give you pretty books.  You see. Get money. Good... Not like you can read, after all.}
+{126}{}{I get it. You're one of those moron types - what do they call them? Idiot savants. Well look, idiot or not, you've earned a reward. RE-WARD - you. I give you pretty books. You see. Get money. Good... Not like you can read, after all.}
 {127}{}{Look, it's not much, but I've got some books - old tech manuals. They're yours. Take them.}
 {128}{}{Hey look, Toto. It's the stranger who helped us out. Thanks again, mister.}
 {129}{}{Crap! The whole grid's down. This is going to take forever to fix. No time to talk. Come on, Toto.}

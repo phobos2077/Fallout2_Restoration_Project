@@ -35,8 +35,8 @@
 {133}{}{Recent Personnel Notes.}
 {134}{}{Back.}
 {135}{}{Dr. Wong: New head of Biology Project, in addition to Physics Research.
-Dr. Sheng: Biology Project Head until two months ago. One month sabbatical with new "botany sentience serum" accounted for; further absence a puzzle. Dr. Wong assumes control of Biology Program.
-Dr. Long: Recently deceased via FEV serum.}
+                                                       Dr. Sheng: Biology Project Head until two months ago. One month sabbatical with new "botany sentience serum" accounted for; further absence a puzzle. Dr. Wong assumes control of Biology Program.
+                                           Dr. Long: Recently deceased via FEV serum.}
 {136}{}{Botany program.}
 {137}{}{Genetic program.}
 {138}{}{Xeno program.}

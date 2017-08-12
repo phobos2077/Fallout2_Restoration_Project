@@ -26,3 +26,5 @@
 {129}{}{[You run through the casting-off sequence quickly, and the ship rockets away from the rig.]}
 {130}{}{[DONE]}
 {131}{}{Navigational computer on-line.}
+
+{200}{}{WARNING: Submarine still active. Proceeding would result in the ship's destruction.}

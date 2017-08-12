@@ -77,7 +77,7 @@
 {175}{}{Yep. Bye.}
 {176}{}{I am anxious to see the result of your attempt. Good day.}
 {177}{}{Good day.}
-{178}{}{Berating someone? Any fool who had done their research can see that the very basis of Shi-town is the wreckage of this submarine. It seems fruitless to argue with those who would say there is no submarine.}
+{178}{}{Berating someone? Any fool who had done their research can see that the very basis of Shi-town is the wreckage of this submarine. It seems fruitless to argue with those who would say otherwise.}
 {179}{}{That's very even-tempered of you.}
 {180}{}{It certainly is. And I deal with these people on a daily basis. Alas!}
 {181}{}{Well, I have more questions.}
@@ -132,3 +132,4 @@
 {500}{}{Leave immediately, or I will call the guards.}
 {501}{}{Leave now. This is your second warning.}
 {502}{}{This is your last warning.}
+{503}{}{Guards!}

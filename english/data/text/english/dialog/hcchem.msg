@@ -114,7 +114,7 @@
 {179}{}{It's a little chalky, but you manage to choke it down. Oddly, you feel a little better now.}
 
 {180}{}{Ahh, what the hell. Despite the looks of it, you down the nasty brew. You immediately begin
- spitting and gagging.  You've been irradiated!}
+ spitting and gagging. You've been irradiated!}
 {181}{}{[DONE]}
 
 {182}{}{Well… all right. Reminiscing of the things you drank as a child, you tilt the

@@ -9,3 +9,4 @@
 {130}{}{You start up the still but the whiskey tastes like it has gone bad.}
 {140}{}{There is no more room in the still for wood.}
 {150}{}{This still is no longer operational. There is no need for any wood.}
+{160}{}{You better not. It's best not to do something before being told to do so, right?}

@@ -221,3 +221,9 @@
 {715}{}{None of your fucking business. If the Boss wants his shit checked out, that's what I do. I don't ask questions.}
 {716}{}{Never mind.}
 {717}{}{Shaka?}
+
+
+{800}{}{Who the- Hey! It's you. You came to *hickup* party with us. I knew you would. (Tyler stumbles over to you and grabs your shoulder)
+ Did I ever tell you how much I-(He spies Lara's gang) What the fuck! No fuckin way! This party ain't endin *hickup* cause of some fuckin bitch
+ and her cronies. Time to lock and load guys!}
+{801}{}{[END]}

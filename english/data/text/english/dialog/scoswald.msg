@@ -13,6 +13,6 @@
 {112}{}{Okay, okay! What do you want to know? Just don't hurt me again.}
 {113}{}{Vault 15 - you tell.}
 {114}{}{What do you know about Vault 15?}
-{115}{}{Look, I'm just a guy, not the guy in charge - that's Darion. He's the one you want. He's got this thing about Shady Sands and that old bitch Tandi. He's got a hideout in Vault 15, even got the locals thinking he's on their side.  That's all I know. Honest!}
+{115}{}{Look, I'm just a guy, not the guy in charge - that's Darion. He's the one you want. He's got this thing about Shady Sands and that old bitch Tandi. He's got a hideout in Vault 15, even got the locals thinking he's on their side. That's all I know. Honest!}
 {116}{}{Really, I don't know anything else! I told you everything I know, really! Don't hurt me anymore.}
 {117}{}{No way! I'm not falling for this trick. BANG! – shot down while escaping. Forget it!}

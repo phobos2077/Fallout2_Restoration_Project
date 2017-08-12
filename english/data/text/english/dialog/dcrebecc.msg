@@ -96,7 +96,7 @@
  It's simple really - I have a still. A friend from a nearby town taught me how to
  make one. So, would you like another one?}
 {331}{}{Sorry, it's a trade secret. Plus, I don't really know you that well. I wouldn't
- want Frankie finding out. He's enough trouble as it is.  Did you still want one? They
+ want Frankie finding out. He's enough trouble as it is. Did you still want one? They
  really hit the spot.}
 {332}{}{Sure. I'll have one.}
 {333}{}{Can I ask another question?}

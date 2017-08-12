@@ -11,7 +11,7 @@
 {110}{}{Nothing. Bye.}
 {111}{}{Hmm. Nope, sorry, can't help you with that. Maybe you should try someone else.}
 {112}{}{Anks?}
-{113}{}{I'm Marc. I'm the resident smart-ass and know-it-all.  ::he smiles::}
+{113}{}{I'm Marc. I'm the resident smart-ass and know-it-all. ::he smiles::}
 {114}{}{Oh. I have other questions.}
 {115}{}{Bye.}
 {116}{}{This is the Poseidon Marine Vessel Valdez - also called the PMV Valdez. If you want more information about the Valdez, the best person to ask is the Captain.}
@@ -25,7 +25,7 @@
 {124}{}{The Captain is a tough-ass ol' military guy. He sits upstairs there and checks the place out. He's got some thorough knowledge about this ship.}
 {125}{}{Thanks. I have more questions.}
 {126}{}{Thanks. Bye.}
-{127}{}{Oh, all over the wasteland. We'd heard things about San Francisco, passed down from our elders. Some of us have ancestors who used to live here before the great war.  You want to hear more?}
+{127}{}{Oh, all over the wasteland. We'd heard things about San Francisco, passed down from our elders. Some of us have ancestors who used to live here before the great war. You want to hear more?}
 {128}{}{Yes.}
 {129}{}{No, but I wanted to ask you something else.}
 {130}{}{No, that's all.}

@@ -543,6 +543,8 @@
 {1021}{}{You got a lot of problems with people. We'll go until you be figuring that one out.}
 {1023}{}{No way we be frens with Child Killer.}
 {1025}{}{You be causing trouble in Klamath. We're gone.}
+#killap -expansion
+{1026}{}{You be causing trouble in my home village. We're gone.}
 
 {2300}{}{De spirits be movin' us}
 {2301}{}{We and I be movin'}
@@ -606,6 +608,7 @@
 {3055}{slk88}{That be too bad. Tell you what, you be needing this stuff more than me. Walk well.}
 {3056}{}{On second thought, maybe you should come with me. Sorry, I just didn't want to part you from
  your home so soon.}
+{3103}{}{You too, Sulik. Take care of yourself.}
 
 {3057}{slk89}{Good to see home, but not while sis is still gone. Be wanting to stay in your
  company, OK?}
@@ -613,7 +616,7 @@
 {3059}{}{No, I think it's time you looked for her yourself.}
 
 {3060}{slk90}{Maybe so. We and I miss you, though. Good spirits be with you, fren.}
-{3061}{}{Thanks, Sulik. Goodbye.}
+{3061}{}{Thanks, Sulik. Goodbye. [Sulik hands you his gear.]}
 {3062}{}{Well, maybe you should continue on with me. I suppose we might still find your sister.}
 
 {3063}{slk91a}{You be wanting some good company after all?}
@@ -628,10 +631,28 @@
 {3071}{}{Sulik, please holster your weapon.}
 {3080}{}{You be no fren of mine. Grampy Bone say no talk to you.}
 
-#added by killap - patch
+#added by killap
+{3081}{}{No, I think it is time we part our ways. Stay here with you sister, she needs you.}
+{3082}{}{It be good to be back home again.}
+{3083}{}{So many young maidens to tell our travels to - and so little time.}
+{3084}{}{We be needing to have a talk with the herb-superb. Let the world float by-and-by.}
+
+{3086}{}{Take care fren.}
+{3087}{}{We and I wish you the best of luck.}
+{3088}{}{Thanks again for everything fren.}
+
+{3090}{}{This here be our village. We and I go speak with our friends.}
+{3091}{}{We and I go speak with our friends again before headin out.}
+
+{3100}{}{[MORE]}
+{3101}{}{Where exactly is your tribe, Sulik?}
+{3102}{}{Thanks. Let me ask you something else.}
+
 {3200}{}{Yes, I spoke with Mrs. Buckner regarding your debt. I just now need to make all the arrangements with Maida. I'll check with you again after I speak  with her.}
 
 #added by killap - warns the player if something is wrong with the NPC
 {3500}{}{We and I think something be wrong with us. You better be having a look at this limb of ours.}
 {3501}{}{We and I think something be wrong with us. We be glowing like the sun.}
 {3502}{}{We and I think something be wrong with us. We be feeling poisoned.}
+
+

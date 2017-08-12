@@ -182,3 +182,5 @@
 {267}{}{What are you doing back here? I sent you to the Vault! Of all the... very well, I will have someone escort you back there.}
 {268}{}{Oh-keeeee}
 {269}{}{You convinced Barkus to release Joshua.}
+#added by killap
+{300}{}{I heard you're quite the hero. Good job.}

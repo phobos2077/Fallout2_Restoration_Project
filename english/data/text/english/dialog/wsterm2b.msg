@@ -54,7 +54,7 @@
 {139}{}{Read Trade}
 {140}{}{Return to Main Menu}
 {141}{}{Exit}
-{142}{}{This is to confirm your video order for Debbie Does the Army and Deep Throat volume 1059. Your order should arrive by mail in 2-4 weeks.  Thank you for your order.}
+{142}{}{This is to confirm your video order for Debbie Does the Army and Deep Throat volume 1059. Your order should arrive by mail in 2-4 weeks. Thank you for your order.}
 {143}{}{Read more mail}
 {144}{}{Exit}
 {145}{}{Evacuation of Sierra Army Depot has been moved up by one week. All security measures must be in place by that time. By order of General Clifton.}
@@ -62,7 +62,7 @@
 {147}{}{Exit}
 {148}{}{[You hear faint whirring noise as smoke starts to rise from the computer terminal. You stand by and watch as the keyboard melts into a puddle of goo. Hmm...must have been one of those viruses you've been hearing about.]}
 {149}{}{Exit}
-{150}{}{This is Klinger from the 8063rd.  We're in desperate need of part number 102-53B.  I've got a case of Chateau Lafayette 2155 if you could expedite the order. Get back to me ASAP.}
+{150}{}{This is Klinger from the 8063rd. We're in desperate need of part number 102-53B. I've got a case of Chateau Lafayette 2155 if you could expedite the order. Get back to me ASAP.}
 {151}{}{Read more mail}
 {152}{}{Exit}
 {153}{}{[What incredible luck! You manage to guess the correct password. "Hooters"]

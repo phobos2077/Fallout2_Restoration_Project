@@ -113,7 +113,7 @@
 {189}{}{Jacob and Aileen asked me to break two people out of jail. I think they've got a plan how to do it.}
 {190}{}{Jacob and Aileen want me to blow up the mine. Thought you might want to know.}
 {191}{}{A scientist from NCR wants to try an experimental drug that'll wipe out mutants. Be careful of what you eat and drink.}
-{192}{}{Chad took $6000 from the rep in Gecko. The rep was complaining about the price… said it'd been going up.}
+{192}{}{It looks like you were right about Chad skimming money. He lied to the Gecko rep about a miners' strike to justify a price hike. I'm guessing he's pocketing the profit.}
 {193}{}{Chad kept about $1000 from the last uranium shipment for himself. He's planning on bailing outta town. I got a briefcase of documents to prove it.}
 {193001}{}{Chad kept about $1000 from the last uranium shipment for himself. He's planning on bailing outta town. I got a briefcase of documents to prove it.}
 {193002}{}{Chad kept about $1000 from the last uranium shipment for himself. He was planning on bailing out of town, but we had a confrontation. He's dead. I have a briefcase of documents to prove his involvement.}
@@ -432,7 +432,7 @@
 {10006}{}{We should spread out a bit.}
 {10100}{}{C'mon, Marcus. Time to head out.}
 {10007}{}{Let's head out then.}
-
+{10008}{}{Can you put your armor on?}
 
 # New Marcus dialog for new party structure, waiting for Vocs, from Phrases 81 and 79
 {20000}{mcs81b}{Right.}

@@ -158,7 +158,7 @@
 {197}{}{I didn't sign up for combat, so leave me alone.}
 {198}{}{Damn it! I'm a doctor not a soldier!}
 
-{200}{}{[More]}
+{200}{}{[MORE]}
 {201}{}{I wanted to ask you some questions.}
 {202}{}{Not right now. Sorry to bother you.}
 

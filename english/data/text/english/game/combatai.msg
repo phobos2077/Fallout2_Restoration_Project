@@ -4163,7 +4163,7 @@
 {40964}{}{You aim to please. I shoot to kill.}
 {40965}{}{You ain't got the sand to take me down.}
 {40966}{}{Looks like you're stupid AND blind.}
-{40967}{}{Missed me by a few percentage points.}
+{40967}{}{Missed me by a few % points.}
 {40968}{}{You must be one wall-eyed sonuvabitch}
 {40969}{}{Yer aim's off. Next turn, it's gonna be your head.}
 {40970}{}{Hell, I'm a fossil, an' I can hit better than you.}
@@ -4906,7 +4906,7 @@
 {44436}{}{Systems malfunction.}
 {44437}{}{Power systems fluctuating. Activating reserve power.}
 {44438}{}{Main hull integrity compromised. Main circuits exposed.}
-{44439}{}{Power conditioning unit damage. Operating at 75 percent capacity.}
+{44439}{}{Power conditioning unit damage. Operating at 75% capacity.}
 #
 # target hit in right motivator
 #
@@ -4973,13 +4973,13 @@
 #
 # target being missed
 #
-{44560}{}{Engaging evasive maneuvers.}
-{44561}{}{Defensive protocol Beta initiated.}
-{44562}{}{Enemy's targeting capability inferior. Reassessing threat level.}
-{44563}{}{Enemy missed. Recalculating enemy's offensive capability.}
-{44564}{}{Analysis: enemy effectiveness minimal.}
-{44565}{}{Analysis: evasive maneuvers successful.}
-{44566}{}{Unit is undamaged.}
+{44560}{}{Target missed.}
+{44561}{}{Sensors indicate enemy target missed.}
+{44562}{}{Negative damage inflicted. Adjusting targeting scanners.}
+{44563}{}{Enemy missed. Recalibrating targeting sensors.}
+{44564}{}{Error. Malfunction in targeting sensors.}
+{44565}{}{Analyzing firing data...corrections complete.}
+{44566}{}{Enemy target undamaged.}
 #
 ############################################
 # 44800 Goris
@@ -5228,4 +5228,261 @@
 # target being missed
 #
 {60060}{}{Offensive Action Evaded.}
+#
+############################################
+# 70000 Dex
+############################################
+#
+# target hit in head
+#
+{70000}{}{You better hope that doesn't leave a scar.}
+{70001}{}{Woah! Not the face!}
+{70002}{}{My face! My beautiful face!}
+{70003}{}{Hey! Don't mess with perfection.}
+{70004}{}{Try that again motherfucker and see what happens.}
+#
+# target hit in left arm
+#
+{70010}{}{That hurt, asshole.}
+{70011}{}{Shit! My arm!}
+{70012}{}{Hey, lay off the guns.}
+{70013}{}{Son of a bitch, that hurt!}
+#
+# target hit in right arm
+#
+{70020}{}{That hurt, asshole.}
+{70021}{}{Shit! My arm!}
+{70022}{}{Hey, lay off the guns.}
+{70023}{}{Son of a bitch, that hurt!}
+#
+# target hit in torso
+#
+{70030}{}{I'm technically over a hundred and eighty years old, you should feel ashamed.}
+{70031}{}{I'm bleeding... that's not how this is supposed to work.}
+{70032}{}{You can't kill me, I've got the heart of a demon.}
+{70033}{}{Hit me again and I'll knife you in the groin.}
+#
+# target hit in right leg
+#
+{70040}{}{You trying to make me a gimp?}
+{70041}{}{Ah! My knee!}
+{70042}{}{Shit! My leg!}
+{70043}{}{You gave me a fucking Charley horse!}
+#
+# target hit in left leg
+#
+{70050}{}{You trying to make me a gimp?}
+{70051}{}{Ah! My knee!}
+{70052}{}{Shit! My leg!}
+{70053}{}{You gave me a fucking Charley horse!}
+#
+# target hit in eyes
+#
+{70060}{}{My eyes!}
+{70061}{}{Oh fuck, not my eyes!}
+{70062}{}{MAh! I can't see shit!}
+{70063}{}{My eyes! My dreamboat eyes!}
+#
+# target hit in groin
+#
+{70070}{}{FUCK!}
+{70071}{}{You just made this REAL personal.}
+{70072}{}{Oh, you're going to regret that.}
+{70073}{}{That's top of the line pre-war tech you're fucking with.}
+{70074}{}{Jealous?}
+{70075}{}{Whoa! Whoa! Whoa! That was uncalled for!}
+#
+#  running away
+#
+{70100}{}{Look, this was all just a big misunderstanding.}
+{70101}{}{I'm sorry alright, now leave me alone.}
+{70102}{}{Fuck this, I'm outta' here.}
+{70103}{}{I'll come back later and knife you in your sleep.}
+{70104}{}{It was just a joke.}
+{70105}{}{I'm terribly sorry, I don't know what came over me.}
+{70106}{}{They made me do it, I swear!}
+{70107}{}{Let me live and I'll never kill again, I promise!}
+{70108}{}{Can't we just talk this over like civilized people?}
+#
+# moving in to attack
+#
+{70120}{}{Oh, I'm going to enjoy this.}
+{70121}{}{I can't wait to hear some screams.}
+{70122}{}{I've been just itching to kill...}
+{70123}{}{Time to indulge in the joys of an unpoliced society.}
+{70124}{}{Alright! Groin shot time!}
+#
+# attacking
+#
+{70140}{}{Scream for me.}
+{70141}{}{Let me get a better look at your blood.}
+{70142}{}{I'll try and make this as painful as possible.}
+{70143}{}{This violence is giving me a hard-on.}
+#
+# target being missed
+#
+{70160}{}{What a fuckin' joke.}
+{70161}{}{Holy shit do you suck.}
+{70162}{}{You're lucky you missed. Actually, you're not lucky, cuz I'm still gonna kill you.}
+{70163}{}{Way to fail, champ.}
+#
+#
+############################################
+# 70200 Cat Jules
+############################################
+#
+# target hit in head
+#
+{70200}{}{You best hope that don't leave a scar...}
+{70201}{}{Damn! You chipped my tooth, monkey!}
+{70202}{}{Hey! Watch the face!}
+#
+# target hit in left arm
+#
+{70210}{}{Shit! You got my arm!}
+{70211}{}{Ohh, that stings!}
+{70212}{}{That's gonna leave an ugly smegging bruise.}
+#
+# target hit in right arm
+#
+{70220}{}{Shit! You got my arm!}
+{70221}{}{Ohh, that stings!}
+{70222}{}{That's gonna leave an ugly smegging bruise.}
+#
+# target hit in torso
+#
+{70230}{}{Ah! Right in my smegging chest!}
+{70231}{}{There goes one of my lives...}
+{70232}{}{You missed my heart, monkey!}
+#
+# target hit in right leg
+#
+{70240}{}{You can't keep this cat from strutting.}
+{70241}{}{Shit, right in my kneecap!}
+{70242}{}{You can't slow me down!}
+#
+# target hit in left leg
+#
+{70250}{}{You can't keep this cat from strutting.}
+{70251}{}{Shit, right in my kneecap!}
+{70252}{}{You can't slow me down!}
+#
+# target hit in eyes
+#
+{70260}{}{Motherfucker hit me in the eyes!}
+{70261}{}{Oh! I think my eye's bleeding!}
+{70262}{}{My eyes!}
+#
+# target hit in groin
+#
+{70270}{}{Whoa, no hitting below the belt.}
+{70271}{}{Going for the groin's not cool. Not cool at all.}
+{70272}{}{Hey now! The groin's off limits.}
+{70273}{}{This cat don't wanna be neutered!}
+#
+#  running away
+#
+{70300}{}{A cat's got to look after himself!}
+{70301}{}{Screw it, you're not worth it.}
+{70302}{}{Fuck this, I'm outta' here.}
+{70303}{}{Gotta jet while I've still got a life to spare.}
+{70304}{}{You won this time, monkey!}
+#
+# moving in to attack
+#
+{70320}{}{Don't worry, this'll be over *real* soon.}
+{70321}{}{This cat's about to pounce!}
+{70322}{}{Let's waste these smegheads.}
+#
+# attacking
+#
+{70340}{}{Hurry up and die so I can go take a nap.}
+{70341}{}{At least I'm killing you with style.}
+{70342}{}{You best not bleed on my clothes. }
+{70343}{}{I better not break a nail. }
+#
+# target being missed
+#
+{70360}{}{Looks like this cat's too quick for you.}
+{70361}{}{Now that's just sad.}
+{70362}{}{Here, let me show you how to actually *hit* something.}
+{70363}{}{Hell, I almost feel sorry for you. Almost.}
+#
+#
+#
+############################################
+# 70400 Kitsune
+############################################
+#
+# target hit in head
+#
+{70400}{}{Ah! My head!}
+{70401}{}{I think my ear's bleeding.}
+{70402}{}{Cào! I hope that didn't break my nose.}
+#
+# target hit in left arm
+#
+{70410}{}{Cào! My arm!}
+{70411}{}{Damn, that hurts!}
+{70412}{}{At least it's not broken… I don't think.}
+#
+# target hit in right arm
+#
+{70420}{}{Cào! My arm!}
+{70421}{}{Damn, that hurts!}
+{70422}{}{At least it's not broken… I don't think.}
+#
+# target hit in torso
+#
+{70430}{}{I think I broke a rib.}
+{70431}{}{I won't die that easily.}
+{70432}{}{Cào! That hurt!}
+#
+# target hit in right leg
+#
+{70440}{}{Not the legs!}
+{70441}{}{Ah! Right in the shin.}
+{70442}{}{That hurt, but at least I can still walk.}
+#
+# target hit in left leg
+#
+{70450}{}{Not the legs!}
+{70451}{}{Ah! Right in the shin.}
+{70452}{}{That hurt, but at least I can still walk.}
+#
+# target hit in eyes
+#
+{70460}{}{Cào! My eyes!}
+{70461}{}{Cheap shot!}
+{70462}{}{Hey! I can't afford another eye surgery!}
+#
+# target hit in groin
+#
+{70470}{}{I can't believe you just hit me there.}
+{70471}{}{I'm not that kind of girl!}
+{70472}{}{You just made this *real* personal.}
+#
+#  running away
+#
+{70500}{}{Looks like I've no choice but to run...}
+{70501}{}{I'd rather flee than die.}
+{70502}{}{Alright. That's enough of this...}
+#
+# moving in to attack
+#
+{70520}{}{Let's get this over with.}
+{70521}{}{Your death shall come swiftly.}
+{70522}{}{Looks like it's come to this...}
+#
+# attacking
+#
+{70540}{}{You asked for this.}
+{70541}{}{I take no pleasure from this.}
+{70542}{}{Now you see the consequence of your actions.}
+#
+# target being missed
+#
+{70560}{}{Wow, that's pathetic.}
+{70561}{}{Too quick for you, huh?}
+{70562}{}{Not even close.}
 #

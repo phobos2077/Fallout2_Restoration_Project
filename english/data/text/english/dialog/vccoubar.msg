@@ -74,7 +74,7 @@
 {173}{}{How do you manufacture these synthesized alcohols?}
 {174}{}{Actually, I was looking for some information.}
 {175}{}{Nothing more today, thanks.}
-{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise habit-forming substances. As I understand it, these synthetics were used as placebos for chem reliants before the war.}
+{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise-addictive substances. As I understand it, these synthetics were used as placebos for chem addicts before the war.}
 {177}{}{You seem to know a great deal about these synthetics.}
 {178}{}{Uh, do you have any real drinks?}
 {179}{}{Oh. Well, I'd just like some water then.}
@@ -130,7 +130,7 @@
 {229}{}{Hmmm. I was curious about something else...}
 {230}{}{I see. Well, I could use a drink. What have you got on tap?}
 {231}{}{Interesting. Thanks for the information. Goodbye.}
-{232}{}{Oh, no, no...it's not slavery. Those people you seeing working in the city are servants...myself included. We are treated very well here, taught to read and write, and given medical care, homes and food.}
+{232}{}{Oh, no, no...it's not slavery. Those people you see working in the city are servants...myself included. We are treated very well here, taught to read and write, and given medical care, homes and food.}
 {233}{}{Everything except your freedom, huh?}
 {234}{}{If you've no complaints, then it's no problem. Forget I asked.}
 {235}{}{Never mind. I wanted a drink. What have you got on tap?}

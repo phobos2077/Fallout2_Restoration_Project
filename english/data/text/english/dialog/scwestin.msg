@@ -77,3 +77,5 @@
 
 {174}{}{AHHAHH!!! AHAHAHHAH!!! AHHAHAH!!! IT BURNS!!!}
 {175}{}{You delivered the holodisk to Westin.}
+# added by killap
+{176}{}{His heart go boom boom.}

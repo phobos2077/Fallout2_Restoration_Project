@@ -10,7 +10,7 @@
 {109}{}{Do you have any information for me about my people?}
 {110}{}{Oooh, my guts. I'm in pain. Please leave me alone.}
 {111}{}{Okey-dokey.}
-{112}{}{What's the matter with me? I'll tell you: It's that I got drunk last week, started gambling with Lao Chou, and lost. I was so blind drunk that I bet my spleen.  Now he has it, and I need it back.}
+{112}{}{What's the matter with me? I'll tell you: It's that I got drunk last week, started gambling with Lao Chou, and lost. I was so blind drunk that I bet my spleen. Now he has it, and I need it back.}
 {113}{}{You SOLD your spleen?}
 {114}{}{That's too bad.}
 {115}{}{What a dummy you must be.}
@@ -47,7 +47,7 @@
 {146}{}{No.}
 {147}{}{I really appreciate what you're doing for me. I won't forget it.}
 {148}{}{No prob.}
-{149}{}{Dude, I can't really get places without a lot of effort.  If you can't help me, I'm screwed.}
+{149}{}{Dude, I can't really get places without a lot of effort. If you can't help me, I'm screwed.}
 {150}{}{Fine. I'll go talk to Fung.}
 {151}{}{Fine. I don't give a crap about you anyway.}
 {152}{}{If you could do something about it... kill him, or talk some sense into him, or something... I'll die without it.}

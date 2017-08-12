@@ -98,7 +98,7 @@
 {195}{}{Me go now.}
 {196}{}{Thanks - I guess. Say, got time for a question?}
 {197}{}{Thanks. Just figured you ought to know.}
-{198}{}{You did what? Oh, if I wasn't on duty, I'd climb over this bar and... well, kiss you. The little prick deserved it. In fact, don't tell anyone but I was hoping to get some stupid ox to do the job for me. Had a little reward all set aside.  It's yours now - as far as I'm concerned you earned it.}
+{198}{}{You did what? Oh, if I wasn't on duty, I'd climb over this bar and... well, kiss you. The little prick deserved it. In fact, don't tell anyone but I was hoping to get some stupid ox to do the job for me. Had a little reward all set aside. It's yours now - as far as I'm concerned you earned it.}
 {199}{}{Thanks - I guess. Say, got time for a question?}
 {200}{}{Thanks. Just figured you ought to know.}
 {201}{}{Dumbo, you've made me the happiest woman around! I got a little present for you, right here behind the bar. It's all yours.}

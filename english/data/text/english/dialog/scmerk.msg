@@ -173,3 +173,6 @@
 
 {271}{}{You have "taken care of" the Hubologist for Merk.}
 {272}{}{You retrieved Dr. Henry's papers.}
+
+{300}{}{Where the hell do you think you are going?! Try that again and I'll kick your ass.}
+{301}{}{I warned you!}

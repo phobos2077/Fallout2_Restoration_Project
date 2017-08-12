@@ -2,12 +2,23 @@
 {101}{}{You see Lou, the owner of the Malamute Saloon.}
 {102}{}{You see an older woman wearing quite a bit of rouge.}
 {103}{}{I just want you to know that I'm thankful for what you did. How can I help you?}
+{1103}{}{Hello there. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
+ I just want you to know that I'm thankful for what you did. How can I help you?}
 {104}{}{Jail's too good for what that bastard done.}
+{1104}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
+ Jail's too good for what that bastard done.}
 {105}{}{I cain't rightly believe that you let the bastard that cut my gal go free. You've got some nerve
  coming back in here. What the hell do you want?}
+{1105}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. I cain't rightly believe
+ that you let the bastard that cut my gal go free. You've got some nerve coming back in here. What the hell
+ do you want?}
 {106}{}{You're still a damn idiot. But life goes on, for the rest of us. Now just what the hell do you
  want?}
+{1106}{}{You're still a damn idiot. But life goes on, for the rest of us. I'm Lou. Owner of the Malamute
+ Saloon, finest house north of San Fran. Now just what the hell do you want?}
 {107}{}{Remember what I said. Too much money ain't good for that gal. Now whattya need?}
+{1107}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. Just remember,
+ too much money ain't good for that gal. Now whattya need?}
 {108}{}{Hello there. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.}
 {109}{}{What now?}
 {110}{}{Ooo?}
@@ -172,3 +183,4 @@
 
 {300}{}{You helped cure Fannie's addiction.}
 {301}{}{Goodbye.}
+{310}{}{I may have something that can help Fannie. [Give Lou the jet antidote]}

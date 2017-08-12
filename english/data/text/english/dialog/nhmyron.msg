@@ -197,6 +197,12 @@
 {594}{}{So...you and Miria. Are you both free to see other people, or....?}
 {595}{}{You wanna swap wives? You can have mine as soon as I get one.}
 
+# 24a. KITSUNE (WTG)  - killap
+{596}{}{So...who is this hot oriental looking chick?}
+{597}{}{Kitsune's kinda cute. Can I...well, you know…how about it?}
+{598}{}{This oriental chick suuuure is a looker.}
+{599}{}{So...you and Kitsune. Are you two going out or something?}
+
 # 25. WAITING TO JOIN, 2 (WTG)
 {600}{}{Ready to go?}
 
@@ -931,7 +937,10 @@
 
 {3025}{}{Whatever.}
 
+{4000}{}{Yeah, this should be where that facility I marked on your map is. Probably deep underground too.}
+
 #added by kilap - NPC info
 {5000}{}{Fuck! Fuck! I can't feel this limb anymore!}
 {5001}{}{I feel like I am fucking melting!}
 {5002}{}{I'm puking my fucking guts out over here!}
+

@@ -47,7 +47,7 @@
 {157}{}{Okay. Tell me.}
 {158}{}{No, I'm not really interested.}
 
-{159}{}{In that case, it's just great being here.  This town has everything you could want… mutant
+{159}{}{In that case, it's just great being here. This town has everything you could want… mutant
  sheriff, uranium mine, hospital, store… you can get just about anything here. You want anything else?}
 {160}{}{Yes.}
 {161}{}{No.}
@@ -192,7 +192,7 @@
 
 {300}{}{Just nothin'. Whether you meant to or not, you've royally screwed up our plans for this town. Now yer gonna pay.}
 
-{301}{}{Sorry, friend, but... I just lost my two best friends.  Those bastard muties killed them in prison.}
+{301}{}{Sorry, friend, but... I just lost my two best friends. Those bastard muties killed them in prison.}
 {302}{}{Urrggg. Toooo badddd. Bye.}
 {303}{}{Uh... Gee. I'm really sorry. You have my condolences. Bye.}
 {304}{}{Oops.}

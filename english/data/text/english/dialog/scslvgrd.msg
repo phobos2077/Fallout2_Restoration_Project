@@ -1,4 +1,4 @@
-{100}{}{Big guy - gun  -- standing around. Guard.}
+{100}{}{Big guy - gun -- standing around. Guard.}
 {101}{}{You still see a guard.}
 {102}{}{He's got a slaver tattoo on his forehead, which doesn't make him look any brighter.}
 {103}{}{Talk to Mr. Vortis, not me.}

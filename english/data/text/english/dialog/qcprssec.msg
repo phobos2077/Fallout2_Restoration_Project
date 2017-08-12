@@ -4,7 +4,7 @@
 {103}{}{Yeah? Whatcha want, honey?}
 {104}{}{Not again, I just cleaned my dress.}
 {105}{}{So what's Mr. Important up to?}
-{106}{}{They don't call him *Dick* Richardson for nuthin'}
+{106}{}{They don't call him *Dick* Richardson for nuthin'.}
 {107}{}{I do too know how to type.}
 {108}{}{You oughta knock before barging in like that.}
 {109}{}{I need some mouthwash.}

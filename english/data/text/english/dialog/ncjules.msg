@@ -158,12 +158,12 @@
 {490}{}{I can get you ANYTHING you need, brother. If you need to fly, get high, slide down low in a luscious ho, Jules knows
  where to GO. Question is: I gots the treasure, so what's YOUR pleasure?}
 {491}{}{Anything you need, Jules is the MAN, sister. If you need to fly, get high, slide down low, Jules knows where to GO.
- Question is: I gots the treasure, so what's YOURS pleasure?}
+ Question is: I gots the treasure, so what's YOUR pleasure?}
 {492}{}{Anything you need, Jules is the MAN, my sweet sister. If you need to fly, get high, slide down low, Jules knows where
  to GO. Question is: I gots the treasure, so what's YOUR pleasure?}
 {493}{}{Sure thing, sure thing... I gots the treasure, so what's YOUR pleasure?}
 {494}{}{Can you tell me a little about New Reno?}
-{495}{}{Where can I get some chems?}
+{495}{}{Where can I get some drugs?}
 {496}{}{I'm looking to buy some heavy firepower.}
 {497}{}{I'm looking for supplies.}
 {498}{}{I want to get laid.}
@@ -234,7 +234,7 @@
 # 28.  TELL ME ABOUT MORDINOS 3 (27)
 {625}{}{They own the Desperado just down the street. Can't miss it. They also got the biggest supply of Jet in ALL o' New Reno.
  So if you got the urge to fly…}
-{626}{}{Speaking of which, do you know where can I get some chems around here?}
+{626}{}{Speaking of which, do you know where can I get some drugs around here?}
 {627}{}{How come the Mordinos have the biggest supply of Jet?}
 {628}{}{Tell me about the other families.}
 
@@ -322,8 +322,8 @@
 # 43.  WHAT DO THEY DO? (42)
 {825}{}{Test new kinds o' Jet, from what I hear. Now, I'm telling you this in CONFIDENCE, friend: don't go poking around
  there…the Mordinos don't like visitors. 'Sides…Jules can get you all the Jet you need.}
-{826}{}{Why do the Mordinos keep testing Jet? It sounds like it's habit-forming enough as it is.}
-{827}{}{Who do the Mordinos test the chems on?}
+{826}{}{Why do the Mordinos keep testing Jet? It sounds like it's addictive enough as it is.}
+{827}{}{Who do the Mordinos test the drugs on?}
 {828}{}{Do you know how I can get into the Stables?}
 
 # 44.  WHO DO THEY TEST IT ON? (43, 45, 46, 47)
@@ -333,7 +333,7 @@
 {843}{}{They buy a helluva lot, too, cause the slaves keep getting sick, running away…or die. Mostly die.}
 
 # 45.  WHY DO THEY KEEP TESTING JET? (43, 44, 46, 47)
-{860}{}{Just to make it better, I guess, refine the process, refine the chem. Jet's good, but if they can make it even
+{860}{}{Just to make it better, I guess, refine the process, refine the drug. Jet's good, but if they can make it even
  BETTER…difference between scraping the sky and flying to the moon, I s'pose.}
 
 # 46.  ANY IDEA HOW I CAN GET IN THERE? (44, 45)
@@ -385,13 +385,13 @@
 {987}{}{My sweet sister, you need look no farther than humble Jules himself. }
 {988}{}{I got it ALL, and if I ain't got it, you don't want it. Shall we get down to bizness?}
 {989}{}{Sure. Let's deal.}
-{990}{}{What kind of chems can I get in New Reno?}
+{990}{}{What kind of drugs can I get in New Reno?}
 {991}{}{Not right now. I had some other questions…}
-{992}{}{Actually, I'm not interested in any chems right now. I have to be going.}
+{992}{}{Actually, I'm not interested in any drugs right now. I have to be going.}
 
 # 55.  WHAT KIND OF DRUGS CAN I GET IN NEW RENO? (54)
 {1005}{}{All KINDS o' shit. I got shit make you horny, make your woman horny, make you hard, make you happy, make you strong,
- make you smart…and, o course, I got THE chem, the shit that'll let you FLY…Jet.}
+ make you smart…and, o course, I got THE drug, the shit that'll let you FLY…Jet.}
 {1006}{}{All KINDS o' shit. I got shit make you horny, make you wet, dry you out, calm you down, sex you up, make you happy,
  make you strong, make you smart…and, o course, I got THE shit that'll let you FLY…Jet.}
 {1008}{}{Where does Jet come from? Has it always been around?}
@@ -399,12 +399,12 @@
 # 56.  WHERE DOES JET COME FROM? (55)
 {1025}{}{Well... uh... Jet comes from here…Reno, I mean. It ain't been around long, but it's in DEMAND, know what I'm saying? (Winks.)
  Number one reason we get tourists like yourself.}
-{1026}{}{Well, I'm looking to buy some chems. Let's deal.}
+{1026}{}{Well, I'm looking to buy some drugs. Let's deal.}
 {1027}{}{But why did Jet come from here?}
 
 # 57.  BUT WHY DOES JET COME FROM HERE? (31, 56)
 {1035}{}{Aw, now…see, Family Mordino struck the jackpot one day when they found this little brainiac called Myron. Seems he's a
- natural when it comes to making chems. He MADE Jet.}
+ natural when it comes to making drugs. He MADE Jet.}
 {1036}{}{Myron, huh? Where can I find him?}
 
 # 58.  WHERE CAN I FIND HIM? (57)
@@ -413,8 +413,8 @@
 {1046}{}{Stables outside of town?}
 
 # 59.  WHERE CAN I FIND HIM? (58)
-{1055}{}{Yeah, Mordinos keep ol' golden boy there, give him chips, whores, anything he wants, as long as he makes chems. Jet
- was his FINEST. Ain't seen anything so habit-forming in a long time. Turned Reno around, it did.}
+{1055}{}{Yeah, Mordinos keep ol' golden boy there, give him chips, whores, anything he wants, as long as he makes drugs. Jet
+ was his FINEST. Ain't seen anything so addictive in a long time. Turned Reno around, it did.}
 {1056}{}{Think I could meet this Myron?}
 
 # 60.  THINK I COULD MEET THIS MYRON? = FEMALE (59)
@@ -466,10 +466,10 @@
 {1150}{}{Thanks for the tip, I think I better be going.}
 
 # 66.  I'M LOOKING FOR SOME SUPPLIES. (19)
-{1165}{}{You need some supplies? Well, you CAN go see Renesco up on the West End…but here's the catch: don't buy no chems
- from him, cause they ain't SAFE. He's got supplies all right, but if you want chems, talk to me.}
+{1165}{}{You need some supplies? Well, you CAN go see Renesco up on the West End…but here's the catch: don't buy no drugs
+ from him, cause they ain't SAFE. He's got supplies all right, but if you want drugs, talk to me.}
 {1166}{}{I'll keep that in mind. Say, I had some more questions…}
-{1167}{}{His chems aren't safe, huh? Well, thanks for the tip, I think I better be going.}
+{1167}{}{His drugs aren't safe, huh? Well, thanks for the tip, I think I better be going.}
 
 # 67.  I WANT TO GET LAID. (19)
 {1175}{}{I hear you, brother. Most TOURISTS, see, they stride down Virgin street and get suckered by some two-chip whore.
@@ -487,7 +487,7 @@
 {1192}{}{Well, thanks for the tip. I better be going.}
 
 # 69.  GECK (19)
-{1200}{}{Garden of wha-? That some kind of chem? What does this "Garden thing" do? Get you high?}
+{1200}{}{Garden of wha-? That some kind of drug? What does this "Garden thing" do? Get you high?}
 {1201}{}{No, it's…well, nevermind. I had some other questions…}
 {1202}{}{Nevermind. I really better be going.}
 
@@ -500,7 +500,7 @@
 {1221}{}{Forget it. I had some other questions…}
 
 # 72.  RICHARD WRIGHT (17)
-{1230}{}{Uh... Wright kid? Yeah, I heard about that. A damn shame. Kids his age shouldn't be doing chems. They got so much
+{1230}{}{Uh... Wright kid? Yeah, I heard about that. A damn shame. Kids his age shouldn't be doing drugs. They got so much
  to live for without being given impure shit.}
 {1231}{}{Speaking of impure shit, Renesco said you sell Jet laced with arsenic.}
 {1232}{}{What do you mean, "impure shit?"}

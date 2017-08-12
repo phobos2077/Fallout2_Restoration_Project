@@ -78,7 +78,7 @@
 {413}{}{You see anything good?}
 {414}{}{Not much here.}
 {415}{}{Tubby needs to get some better suppliers.}
-{416}{}{You need chems? Tubby is normally well stocked.}
+{416}{}{You need drugs? Tubby is normally well stocked.}
 
 {430}{}{What did you kill Tubby for?}
 {431}{}{No great loss, but Tubby was the only real shop in town.}

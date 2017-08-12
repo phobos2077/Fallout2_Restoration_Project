@@ -1,10 +1,10 @@
 {100}{}{You see a cybernetic robot.}
 {101}{}{A nice piece of engineering that further blurs the boundary between humans and robots.}
 {102}{}{Skynet will travel with you.}
-{103}{}{Skynet thanks the human.                                      Skynet wishes to ask favor.                                      Skynet wishes to travel with human.}
+{103}{}{Skynet thanks the human.                                            Skynet wishes to ask favor.                                        Skynet wishes to travel with human.}
 {104}{}{}
 {105}{}{}
-{106}{}{                                    [This contraption could be useful.]}
+{106}{}{                              [This contraption could be useful.]}
 {107}{}{Take robot with you.}
 {108}{}{Leave robot.}
 {109}{}{Exit}

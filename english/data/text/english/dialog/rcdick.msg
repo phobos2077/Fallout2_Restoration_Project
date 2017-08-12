@@ -110,7 +110,7 @@
 {183}{}{I'm not sure I understand what you're getting at here.}
 {184}{}{The more parts there are, the more there is to break. Thanks for the info. Goodbye.}
 {185}{}{Well, what I'm saying is that either mine owner would pay for one of these digger-control-chips.
- Heck, if they had a workin' machine and the other mine doesn't, they'd shut the other mine down  - or
+ Heck, if they had a workin' machine and the other mine doesn't, they'd shut the other mine down - or
  buy 'em out - in no time.}
 {186}{}{Too bad nobody knows where to get one of those chips, then.}
 {187}{}{I'll have to see how much they'd pay for a chip like that. Thanks. Goodbye.}

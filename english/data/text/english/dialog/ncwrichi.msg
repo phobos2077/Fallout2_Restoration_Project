@@ -3,12 +3,12 @@
 
 # LOOK (IF MALE) (WTG)
 {150}{}{You see a black-haired little boy.}
-{151}{}{You see a black-haired little girl. Her hair is cropped short, so much so that you almost mistook her for a boy.}
+{151}{}{You see a black-haired little girl.}
 
 {155}{}{He sticks his tongue out at you.}
 {156}{}{He is glaring at you sullenly.}
 {157}{}{She sticks her tongue out at you.}
-{158}{}{Her black hair is cropped short so that she can conveniently use the male child character model.}
+{158}{}{She looks at you suspiciously.}
 {159}{}{She is glaring at you sullenly.}
 
 # 2. FLOAT [ENCLAVE_DESTROYED = TRUE] (WTG)

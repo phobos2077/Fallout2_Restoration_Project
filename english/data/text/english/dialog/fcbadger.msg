@@ -71,12 +71,12 @@
 {170}{}{Like stealing candy from a baby. They'll never find me. What do you want from them?}
 {171}{}{Great. I have more questions.}
 {172}{}{Great. I'll be back.}
-{173}{}{I can get them. They're pretty protective of their info, and they've got some serious ice protecting their machines.  Are you sure you want me to go after them?}
+{173}{}{I can get them. They're pretty protective of their info, and they've got some serious ice protecting their machines. Are you sure you want me to go after them?}
 {174}{}{Well, good luck. I have more questions.}
 {175}{}{Good luck. I'll be back later.}
 {176}{}{Hey, find my girlfriend and then we'll talk.}
 {177}{}{All right, all right.}
-{178}{}{She's dead? She's DEAD? How did she die? No, wait... don't tell me.  Give me a few hours to get myself together.}
+{178}{}{She's dead? She's DEAD? How did she die? No, wait... don't tell me. Give me a few hours to get myself together.}
 {179}{}{Sure, sure.}
 {180}{}{Snap out of it, Sparky. We got shit to do.}
 {181}{}{All right. I'm better now.}
@@ -102,7 +102,7 @@
 
 {199}{}{I'm looking for some fuel.}
 {200}{}{I've heard the Hubologists have some fuel, and I could take a looksee in their computer for you.}
-{201}{}{The Shi have all the fuel around here.  I could take a gander at their mainframe for you.}
+{201}{}{The Shi have all the fuel around here. I could take a gander at their mainframe for you.}
 {202}{}{Can you?}
 
 {203}{}{What the hell do you want?}
@@ -121,7 +121,7 @@
 {215}{}{Can you transfer the fuel from their reserves to the tanker?}
 {216}{}{Never mind, I'll do it another way.}
 {217}{}{Never mind.}
-{218}{}{Alright.  Check back with me in a day or so and I'll let you know.}
+{218}{}{Alright. Check back with me in a day or so and I'll let you know.}
 {219}{}{Did you get what I needed?}
 {220}{}{Yeah, I got the fuel.}
 {221}{}{Yeah, I got the verti plans.}

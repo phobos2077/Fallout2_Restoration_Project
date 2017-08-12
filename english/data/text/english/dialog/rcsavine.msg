@@ -52,7 +52,7 @@
 {141}{}{Thanks, I'll do that. Goodbye.}
 {142}{}{We're usually looking for caravan guards, but I ain't ready to go just yet. I'll be ready to
  head out on the 21st. Come back then if you want a job.}
-{143}{}{When on the 21st?}
+{143}{}{Why on the 21st?}
 {144}{}{What does this caravan transport?}
 {145}{}{OK, thanks. Goodbye.}
 {146}{}{Hey, pal, you've gotta know when to say no. And *I* do. So NO!}

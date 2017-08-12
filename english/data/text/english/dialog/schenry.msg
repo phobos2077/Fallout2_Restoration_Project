@@ -9,17 +9,17 @@
 {108}{}{Ever heard of a place called the Enclave?}
 {109}{}{None of your business.}
 {110}{}{Hmm, sub-par cranial development... Stunted intellectual development. No gross physical mutation, though. No, you just simply won't do, I'm afraid. Good day.}
-{111}{}{The Chosen One? Of course, that makes sense.  Interesting... I'm afraid I can't help you. I was assigned to cyber-genetics research, not the Vault Behavioral Project.}
+{111}{}{The Chosen One? Of course, that makes sense. Interesting... I'm afraid I can't help you. I was assigned to cyber-genetics research, not the Vault Behavioral Project.}
 {112}{}{What are you talking about?}
 {113}{}{Vault Behavioral project?}
 {114}{}{Cyber-genetics? I don't remember ever studying that one.}
 {115}{}{Right. You're mad as a hatter. Goodbye.}
 {116}{}{Oh my, I've said more than I should already. Never mind, and if anybody asks I didn't say anything.}
-{117}{}{Something about extreme sociological conditioning. Mind you, I thought it was all so much mumbo-jumbo, no real science in it at all. But I did hear something about 13 having to be improvised during the course of the experiment.  Sloppy work, I'd say.}
+{117}{}{Something about extreme sociological conditioning. Mind you, I thought it was all so much mumbo-jumbo, no real science in it at all. But I did hear something about 13 having to be improvised during the course of the experiment. Sloppy work, I'd say.}
 {118}{}{Experiment? What experiment?}
 {119}{}{What's this about cyber-genetics?}
 {120}{}{You expect me to believe any of this? You are a loon.}
-{121}{}{Oh, it's a whole new field - very exciting. Why I'm working on some projects right now - a radical new concept for the mutant problem.  You see, it's really quite simple - mutantcy isn't absolute. It can be cured.}
+{121}{}{Oh, it's a whole new field - very exciting. Why I'm working on some projects right now - a radical new concept for the mutant problem. You see, it's really quite simple - mutantcy isn't absolute. It can be cured.}
 {122}{}{Of course, my simple-minded colleagues were just trying to solve the whole problem the crudest way possible. Purification, indeed. I'll admit there were some early problems, but I've got them worked out now...I think.}
 {123}{}{}
 {124}{}{Continue}
@@ -48,7 +48,7 @@
 {147}{}{And... How did it work?}
 {148}{}{It killed him! You said it would cure mutants!}
 {149}{}{He's dead, Jim.}
-{150}{}{You misunderstood. I said it would remove their mutagenic potential. The process does seem violent on the system, though.  Oh well, more refining to do.}
+{150}{}{You misunderstood. I said it would remove their mutagenic potential. The process does seem violent on the system, though. Oh well, more refining to do.}
 {151}{}{What about my pay?}
 {152}{}{You're a monster! I want nothing to do with you.}
 {153}{}{Still some bugs, I see. Well, try and try again.}

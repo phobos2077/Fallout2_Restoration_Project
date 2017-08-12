@@ -77,3 +77,13 @@
 {350}{}{You said it!}
 {351}{}{They're dead meat!}
 {352}{}{We're going to kick some serious ass!}
+
+{400}{}{We kicked serious ass! We'll be over at the church if you need us.}
+
+{500}{}{Shit, I can't believe we lost Lara. We took care of the skeleton crew here, but Tyler and his crew are still alive.
+ If we attack them now during their party over in the Residential area, we're sure to catch them off guard. Let's finish this job. You still in?}
+{501}{}{Let me heal first. I'll tell you when I am ready.}
+{502}{}{Let's go.}
+
+{510}{}{You ready to take Tyler and his crew out?}
+{520}{}{Hey, don't stray too far. We need to finish this tonight.}

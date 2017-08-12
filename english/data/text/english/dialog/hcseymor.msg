@@ -10,7 +10,7 @@
 {109}{}{Yes, I do talk. Better than some people, it seems. I'd smile at you right now, but I just don't have a mouth. [it laughs] Say, could you do me a big favor?}
 {110}{}{'Es.}
 {111}{}{Nuh.}
-{112}{}{I'm looking for a better place to be. Right here is nice and all, but frankly, these plants aren't much for conversation.  I was thinking over there, by the building with all the ghouls in it... Would you replant me?}
+{112}{}{I'm looking for a better place to be. Right here is nice and all, but frankly, these plants aren't much for conversation. I was thinking over there, by the building with all the ghouls in it... Would you replant me?}
 {113}{}{'Es!}
 {114}{}{Nuh!}
 {115}{}{Sure.}
@@ -32,7 +32,7 @@
 {131}{}{Um, right. So long.}
 {132}{}{I changed my mind.}
 {133}{}{Oh, yes, the Professor. He grew me from a tiny spore and nurtured me... but I realized from an early age that if I were to act as smart as I truly
- am, he'd cut me into pieces to examine me.  So, I played dumb and got planted out here. It's nice... but I'd like to branch out a little.
+ am, he'd cut me into pieces to examine me. So, I played dumb and got planted out here. It's nice... but I'd like to branch out a little.
  Y'know, maybe get planted someplace else...}
 {134}{}{"Branch out." Indeed.}
 {135}{}{Right. What do you want?}
@@ -64,7 +64,7 @@
 {158}{}{Uh.}
 {159}{}{Good day indeed.}
 {160}{}{Oooh... the soil here feels so... different. Cleaner, somehow. Probably because I don't have to share it with
- those other plants.  Ahhh. Oh! Yes! If you ever run across the Professor and his scorpion, remember this chess
+ those other plants. Ahhh. Oh! Yes! If you ever run across the Professor and his scorpion, remember this chess
  maneuver: It's called the Flying Liver Attack, and the scorpion cannot stand against it.}
 {161}{}{'Anks!}
 {162}{}{Thanks. I'll try that out. Bye!}

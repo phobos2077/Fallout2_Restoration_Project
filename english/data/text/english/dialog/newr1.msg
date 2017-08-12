@@ -209,7 +209,7 @@
 {500}{}{}
 {501}{}{Rodd Rokks}
 {502}{}{Randy Mercury}
-{503}{}{Freddy Barkwood}
+{503}{}{Dirk Diggler}
 {504}{}{Dick Mountenjoy}
 {505}{}{Ronny Rection}
 {506}{}{Phil Chambers}
@@ -219,7 +219,7 @@
 {510}{}{Rick Dripps}
 {511}{}{Dick Seamen}
 {512}{}{"The Polish Hammer"}
-{513}{}{Doug Holes}
+{513}{}{Ron Jeremy}
 {514}{}{Cock of the Walk}
 {515}{}{Vinnie LaJoya}
 {516}{}{Sir Lance-a-lot}
@@ -237,8 +237,8 @@
 {528}{}{Ebineezer Screws}
 {529}{}{Buck Fitch}
 {530}{}{Arnold Swollenmember}
-{531}{}{}
-{532}{}{}
+{531}{}{Doug Holes}
+{532}{}{Freddy Barkwood}
 {533}{}{}
 {534}{}{}
 {535}{}{}

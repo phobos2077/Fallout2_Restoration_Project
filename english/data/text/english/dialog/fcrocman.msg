@@ -15,7 +15,7 @@
 {116}{}{Oh-tay!}
 {117}{}{Take it downstairs. Show it to AHS-7, who has gate duty right now, and he'll take it for you or send you on to AHS-9. Now can I get back to work, meat?}
 {118}{}{Sure.}
-{119}{}{You're not one of the brethren, and you're therefore not authorized to be here. Unless you're planning on joining us - which you may do by expressing your interest to AHS-7, who is at the guard post.  Now, either get downstairs or get out of here.}
+{119}{}{You're not one of the brethren, and you're therefore not authorized to be here. Unless you're planning on joining us - which you may do by expressing your interest to AHS-7, who is at the guard post. Now, either get downstairs or get out of here.}
 {120}{}{Fine, fine. No need to get testy.}
 {121}{}{Actually, it is my business. This is my ship and these are my guards - now, who are you and what are you doing here?}
 {122}{}{I'm}
@@ -57,7 +57,7 @@
 {191}{}{See ya then!}
 {192}{}{First, we need vertibird plans to ensure that we've got the aerodynamics right. If you can do this, check with the Shi or go up that old base in Navarro.}
 {193}{}{Remember, you are finding the plans for the vertibirds for us. Either try the Shi or that old base in Navarro.}
-{194}{}{No one has been able to get plans for the vertibirds from the Shi, or from that old base in Navarro.  Have you reconsidered helping us?}
+{194}{}{No one has been able to get plans for the vertibirds from the Shi, or from that old base in Navarro. Have you reconsidered helping us?}
 {195}{}{Remember, recruit! The hated Shi have the plans.}
 {196}{}{I have the plans for the vertibird.}
 {197}{}{Forget it.}

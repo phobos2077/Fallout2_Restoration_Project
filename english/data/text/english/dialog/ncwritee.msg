@@ -105,7 +105,7 @@
 {307}{}{Damn hot…}
 {308}{}{New Reno gets uglier every day…}
 {309}{}{What're you doing round here?}
-{310}{}{If you're lookin' for alcohol, head on over to the train station in the north part of town…we don't sell it here.}
+{310}{}{If you're lookin' for alcohol, the train station is the place to be.}
 {311}{}{Watch yer step around here, friend. This here's Wright Family territory.}
 
 # 19. CLICK DIALOGUE: POWER ARMOR
@@ -132,7 +132,7 @@
 {344}{}{Ain't seen Mom for a while. If you see her, don't mention nothin' about the stills, 'kay?}
 {345}{}{Keith took apart the piano last week and put it back together. Smart kid.}
 {346}{}{We're going huntin' for radscorpions again in a few days.}
-{347}{}{If you're lookin' for alcohol, head on over to the train station in the north part of town…we don't sell it here.}
+{347}{}{If you're lookin' for alcohol, the train station is the place to be.}
 {348}{}{Watch out for the kids around here, they're always underfoot.}
 {349}{}{Can you teach me to fight, too?}
 {350}{}{Yer that fighter, }
@@ -150,7 +150,7 @@
 {362}{}{So what's it like in the movies? Mom won't let me go see your films.}
 {363}{}{Don't tell the little ones what you do.}
 {364}{}{Mom'll throw a fit if she sees you. She's so histrionic.}
-{365}{}{If you're lookin' for alcohol, head on over to the train station in the north part of town…we don't sell it here.}
+{365}{}{If you're lookin' for alcohol, the train station is the place to be.}
 {366}{}{We Wrights are the strongest family 'cause we ARE family.}
 {367}{}{Shame about my lil' brother. He was a good kid, but Jet's all over this town, hard to avoid it…}
 {368}{}{Dad said he'd strangle us if he ever hears 'bout us takin' Jet.}
@@ -164,8 +164,8 @@
 {376}{}{Mom says yer a harlot. A brazen strumpet. I have no idea what's she goin' on about.}
 
 # 24. [FEMALE/MALE/, NO REP/SLAVER, REACTION NEUTRAL +]
-{385}{}{You here to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
-{386}{}{If you're lookin' for alcohol, head on over to the train station in the north part of town…we don't sell it here.}
+{385}{}{You planning to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
+{386}{}{If you're lookin' for alcohol, the train station is the place to be. }
 {387}{}{Watch yer step around here, friend. This here's Wright Family territory.}
 
 # 25. CLICK [SLAVER, BAD REACTION]
@@ -176,7 +176,7 @@
 {394}{}{I'm watchin' you, slaver, so you watch what you do, hear?}
 {395}{}{You touch any of those kids, slaver, and I'll shoot you so much you'll fly outta your boots.}
 {396}{}{Touch any of those kids, slaver, and I'll kill you.}
-{397}{}{If you're lookin' for alcohol, slaver, head on over to the train station in the north part of town…we don't sell it here.}
+{397}{}{If you're lookin' for alcohol, the train station is the place to be.}
 {398}{}{You harm any Wright, slaver, and our Family won't rest until yer hide is rotting in Golgotha.}
 {399}{}{You here to see Dad about business? I don't think Dad does business with slavers. You better git.}
 
@@ -187,7 +187,7 @@
 {413}{}{You better not have brought any drugs, or else Dad'll kill you. Then I'LL kill you.}
 {414}{}{I'm watching you, so you watch what you do, hear?}
 {415}{}{Where you from? Ain't seen your kind around here in a while.}
-{416}{}{If you're lookin' for alcohol, head on over to the train station in the north part of town…we don't sell it here.}
+{416}{}{If you're lookin' for alcohol, the train station is the place to be.}
 {417}{}{You harm any Wright, and the Family won't rest until yer hide is rotting in Golgotha.}
 {418}{}{You here to see Dad 'bout business? Good luck, I don't think he's hiring any hands now.}
 

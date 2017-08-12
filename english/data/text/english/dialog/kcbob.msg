@@ -96,8 +96,14 @@
 {282}{}{Yes. Tell me what's going on in town lately.}
 {283}{}{No thanks, Bob. I think I know what I need to already.}
 
-{290}{}{All sorts of things going on hereabouts lately. We've got brahmin mutilators, walking spirits,
- gigantical rats, and missing people. Some even say the Den's involved.}
+{290}{}{All sorts of things going on hereabouts lately. We've got }
+{2900}{}{Things have slowed down recently. Nothing really to tell ya.}
+{2901}{}{brahmin mutilators}
+{2902}{}{walking spirits}
+{2903}{}{gigantical rats}
+{2904}{}{missing people}
+{2905}{}{. Some even say the Den's involved.}
+
 {291}{}{Tell me about the brahmin mutilations.}
 {292}{}{Tell me all about the walking spirits.}
 {293}{}{Gigantical rats? I've gotta hear more about those.}

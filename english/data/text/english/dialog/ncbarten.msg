@@ -53,3 +53,6 @@
 {260}{}{That's Jesus' little boy, Lil' Jesus. Him and that knife are like close
  friends… I've seen him do some wicked things with it. Anyways, can I get
  you something, friend?}
+ 
+# added by killap - RP
+{270}{}{Pleasure doin' business with ya.}

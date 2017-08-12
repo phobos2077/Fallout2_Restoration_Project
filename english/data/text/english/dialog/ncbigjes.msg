@@ -296,13 +296,13 @@
 {660}{}{Louis Salvatore lives. Why have you returned?}
 {661}{}{(A bead of sweat trickles down the side of Mordino's face.) You have done as I asked? Louis Salvatore is dead?}
 {662}{}{He is dead. Your family is avenged, Senor Mordino.}
-{663}{}{No, I shall return when I have killed him.}
+{663}{}{I shall return when I have killed him.}
 {664}{}{Salvatore's too well-guarded. I'm going to have to cancel on this job.}
 
 # 40. TRY AND QUIT SALVATORE JOB (39)
 {670}{}{If you... run from this job, I will have you... KILLED.}
 {671}{}{Since you put it that way, I shall return when he's dead.}
-{672}{}{Try anything, and you'll be joining the Mordinos the Salvatores butchered.}
+{672}{}{Try anything, and you'll be joining the Mordinos that the Salvatores butchered.}
 
 # 41. SALVATORE JOB, SUCCEED (39)
 {680}{}{So I have heard. (Nods respectfully.) You have done... well. My faith in you is not misplaced. Here is... your

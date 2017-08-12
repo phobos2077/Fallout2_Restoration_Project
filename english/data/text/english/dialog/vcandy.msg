@@ -247,7 +247,7 @@
 {346}{}{Uh, well, okay...but I warned you last time that it might not be safe.}
 {347}{}{ bucks for the whole lot of you, and we'll call it even. The procedure won't work on your robot brain, buddy. What do you say?}
 {348}{}{Cool! I've always wanted to look like Kryten! Here's the cash and the combat armor.}
-{349}{}{All right.  Here we go.}
+{349}{}{All right. Here we go.}
 # Added by Seraph:
 {350}{}{You have lost -4 Max HP.}
 # Added by killap:

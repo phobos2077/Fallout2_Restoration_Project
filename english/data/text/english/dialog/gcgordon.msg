@@ -37,6 +37,7 @@
 {170}{}{Well, now that you've helped to repair our atomic power plant I have a much better chance of
  getting what I want. Maximizing my potential.}
 {171}{}{Maximizing your potential? What do you mean?}
+{172}{}{Is this greed talking again, Gordon?}
 
 {180}{}{I've also found out, from a very reliable source, that Vault City cannot expand without
  additional power.}

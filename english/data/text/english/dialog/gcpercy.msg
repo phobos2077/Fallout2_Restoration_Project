@@ -24,7 +24,7 @@
  Anyhow's, t'other than that, my friend Woody's done gone missin'.}
 {122}{}{I gotta be thankee-kindly for fixin' up our Atomic Reactor. That dang fool Festus tweren't never no darn good.
  Anyhow's, t'other than that, my friend Woody's done gone missin'.}
-{123}{}{Not a whole lot new here in town. I hear Wooz rooked some newbie out of a Black Orchid the other day.  Heh, heh, hee.
+{123}{}{Not a whole lot new here in town. I hear Wooz rooked some newbie out of a Black Orchid the other day. Heh, heh, hee.
  Anyhow's, t'other than that, my friend Woody's done gone missin'.}
 {124}{}{Well, tell me more about that.}
 {125}{}{Oh, that's too bad. Well, I hate sad tales. I'll leave you alone with your grief. Goodbye.}

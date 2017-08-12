@@ -62,7 +62,9 @@
 {404}{}{Leave it alone.}
 
 # 7. VERTIBIRD: TAKE OFF (7)
-{450}{}{[The door seals behind you, and the Vertibird takes off! You can't open the door!]}
+{450}{}{[Once you climb inside the cargo hold, the door seals behind you! You attempt to force it open, but it won't
+ budge. As you try to think of a way out, you hear the armored soldiers board the Vertibird, which then takes off with
+ you trapped inside!]}
 {451}{}{Uh-oh}
 {452}{}{Oh, shit...}
 

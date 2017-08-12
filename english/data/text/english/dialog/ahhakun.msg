@@ -33,7 +33,7 @@
 {132}{}{I'd be honored, holy one.}
 {133}{}{Did you just ask me to weed your garden? If that's the case, okay.}
 {134}{}{For a price.}
-{135}{hak006}{To ask payment for a gift will bring you less than the gift itself.  I will give you such and add the lesson of your self-disappointment at the receiving.}
+{135}{hak006}{To ask payment for a gift will bring you less than the gift itself. I will give you such and add the lesson of your self-disappointment at the receiving.}
 {136}{}{Good enough. Where's the garden?}
 {137}{}{You know, a nice gift would be to SPEAK ENGLISH!}
 {138}{}{What if I give you a lesson in disappointment and leave right now? Bye.}
@@ -190,3 +190,6 @@
 {289}{}{And then?}
 {290}{hak122}{Too many seasons and too many wounds, Chosen. Instead, you must listen.}
 {291}{}{All right.}
+
+{300}{}{Those who steal carry a great burden. Remember this, Chosen One.}
+{301}{}{You must now pay for your sins, Chosen One.}

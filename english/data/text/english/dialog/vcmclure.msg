@@ -244,4 +244,23 @@
 {342}{}{Maybe so. I'll go see.}
 {343}{}{You told McClure about the Jet antidote delivery.}
 {344}{}{The disk shows that since the plant is now fully functional and optimized, it can now produce a great deal of energy. Far more than Gecko needs. Vault City could use that energy. I feel that the council should consider what this disk has to offer.}
-{345}{}{This is quite interesting.}
+
+{345}{}{Do you know anything about the nearby village that's swarming with mole rats?}
+{346}{}{Actually, yes. Sergeant Stark reported something on this to me recently. What interest do you have in this matter?}
+{347}{}{Is it true that you intend to make servants of those people?}
+{348}{}{Nothing really. May I ask you about something else?}
+{349}{}{Doesn't matter. Bye.}
+{350}{}{Recruiting servants is not the issue here. The issue is the threat that these monsters pose to Vault City. According to Sergeant Stark's report, the people of that village seem to coexist with those huge rat creatures. If that's true, they may have found a way to control them, and perhaps that's why these creatures have begun to attack our patrols. Sergeant Stark plans to eliminate these pests, and he has my full support.}
+{351}{}{I assure you the people of that village aren't controlling the mole rats. In fact, I've got a proposition for you: I'll take care of this mole rat problem, and in return, I want your assurance that Vault City will leave the people of that village alone.}
+{352}{}{An interesting proposition, but how exactly do you plan to deal with all those rat creatures?}
+{353}{}{I think I might know who *is* controlling them.}
+{354}{}{Don't really know, but I'll think of something. I always do.}
+{355}{}{Really? Very well then, I'll take your word for it. The raid will be postponed for a month.}
+{356}{}{You're a good man, McClure, and you won't regret this. I'll be back once the problem's taken care of.}
+{357}{}{It's amazing, the mole rat attacks on our patrols suddenly stopped without warning. I don't know how you did it, but I thank you. Also, I shall uphold my end of the bargain -- I'll order Stark to cancel the raid at once. As long as the people of that village pose no threat to Vault City, they'll have nothing to fear from us -- I'll see to that.}
+{358}{}{Thank you!}
+{359}{}{You solved the village problem.}
+
+{360}{}{This is quite interesting.} #was 345-killap
+
+{370}{}{Alright. Well, I won't get in your way then.}

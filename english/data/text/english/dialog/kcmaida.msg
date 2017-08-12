@@ -147,12 +147,19 @@
 {401}{}{I'm back because I need something.}
 {402}{}{Well, I'm sure I can't do as good a job of taking care of him as you did, but I'll sure try.}
 
-{420}{}{Well, you'd be better off asking momma about what's going on right here in town.}
-{421}{}{You'd be better off asking momma about things here in town. Have you seen Torr anywhere? It
- seems as though he's run off, and we're sure worried.}
+{420}{}{A trapper named Smiley has gone missing. Momma sure is upset about that. I'm sure she would be grateful if
+ someone found him.}
+{421}{}{Well, have you seen Torr anywhere? It seems as though he's run off, and we're sure worried.}
 {422}{}{OK, I'll talk to Mrs. Buckner about that then. Let me ask you something else though.}
 {423}{}{No, I haven't seen Torr anywhere. I'll let you know if I do. Let me ask you something else,
  though.}
+{424}{}{Well, Torr has been complaining about "Bug Men" scaring the brahmin. Not sure if I really believe all his stories,
+ but someone or something has been rustling cattle here in town.}
+{425}{}{I'll admit I haven't been paying too much attention to all the gossip around town. Head over to the Golden Gecko,
+ I'm sure someone there might know a thing or two.}
+{426}{}{Cattle rustling, huh? I'll look into this. Let me ask you something else, though.}
+{427}{}{Interesting. Anything else I should know?}
+{428}{}{Thanks for the tip. Let me ask you something else, though.}
 
 {430}{}{Thanks for finding my brother, Torr. Ma and I were so worried. What can I do for you?}
 {431}{}{Thanks again for finding Torr. What can I do for you?}
@@ -212,3 +219,11 @@
  here. (sob)}
 
 {600}{}{[MORE]}
+
+{700}{}{I found out what's been happening to your brahmin.}
+{701}{}{You have? That's great, but mom's the one you'll want to talk to about that.}
+{702}{}{Sure, I'll go talk to her then.}
+
+{710}{}{Cattle rustling? Any leads?}
+{711}{}{Not really. I'm not even sure if there's a connection between this and the brahmin mutilations.}
+{712}{}{Interesting. Any other local news I should know about?}

@@ -22,7 +22,7 @@
 {101}{}{The reason for brahmin having two heads is due to
  early exposure of radation to what used to be called a
  cow.}
-{102}{}{You don’t notice anything unusual about the brahmin.}
+{102}{}{You don't notice anything unusual about the brahmin.}
 {103}{}{Brahmin aren't much for conversations.}
 {104}{}{Have you nothing better to do than sit around talking
  to a two headed cow?}

@@ -98,7 +98,7 @@
 {332}{}{Not to my knowledge. I think I'd remember.}
 
 # 12. NOT TO MY KNOWLEDGE (11)
-{340}{}{One of my sons…my boy, Richard, passed away recently. Chem overdose. Jet.}
+{340}{}{One of my sons…my boy, Richard, passed away recently. Drug overdose. Jet.}
 {341}{}{How can I help?}
 {342}{}{Uh…I don't really see how I can --}
 
@@ -112,7 +112,7 @@
 # 14. FORCED HIM TO TAKE IT? (13)
 {360}{}{(Face turns red.) My boys are clean, and they know to stay away from that shit, or I'll kill them. Then SUDDENLY, Richie ODs.
  Someone pumped a ton of Jet in him, so much that fumes was runnin' outta his nose.}
-{361}{}{Well…that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly habit-forming.}
+{361}{}{Well…that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
 {362}{}{Hmmm. I'll take the job.}
 
 # 15. I'LL DO IT (13, 14)
@@ -129,7 +129,7 @@
 
 # 17. LEADS? (15, 16)
 {390}{}{(Eyes blaze.) No…everybody's too scared to talk…to a Wright, anyway. If I were you, I would 'question' some of the Reno
- chem pushers, see what they know. That Jet came from SOMEWHERE.}
+ drug pushers, see what they know. That Jet came from SOMEWHERE.}
 {391}{}{Any pushers you suspect?}
 {393}{}{Look, this job isn't my style. I better be going.}
 
@@ -170,8 +170,8 @@
  Boys! Get in here!}
 {447}{}{Understood.}
 {448}{}{I'm not the one for this job, Mr. Wright. Find somebody else.}
-{449}{}{Fuck this job, fuck your dead chem-using son, and fuck you. I'm outta here.}
-{451}{}{That DOES it! I'm sick of your bullshit. You'll be joining your dead chem-using son in hell.}
+{449}{}{Fuck this job, fuck your dead drug-using son, and fuck you. I'm outta here.}
+{451}{}{That DOES it! I'm sick of your bullshit. You'll be joining your dead drug-using son in hell.}
 {453}{}{Get out of here.}
 
 # 24. WHAT KIND OF PROPOSITION? (21, 29)
@@ -321,7 +321,7 @@
 
 # 48. VENOM FOUND . . . (20, 47)
 {680}{}{Now why in hell would they do that?}
-{681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a chem overdose... and then there'd
+{681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a drug overdose... and then there'd
  be war. IF you two didn't wipe each other out, you'd at least be weakened by the fight. That makes life easier for the
  Salvatores…all they have to worry about then is the Bishops.}
 {682}{}{I don't know. Maybe you should ask them.}

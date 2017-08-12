@@ -58,7 +58,7 @@
 
 # 6. HERE YOU GO. . . (5)
 {275}{}{Heh... damn human of you... for all his preaching, ol' Tomcat Moore can't seem to step off his soapbox long enough to actually
- to do any legwork. Heh... still, that don't make him any different than any other NCR boy.}
+ do any legwork. Heh... still, that don't make him any different than any other NCR boy.}
 {276}{}{He does preach a lot. Still, he seems to make a lot of sense.}
 {277}{}{He does have a certain...way with words.}
 {278}{}{Yeah, well, at some point the work's gotta be done, and they call me to make sure things get delivered...like
@@ -394,6 +394,7 @@
 
 # 61. IF PLAYER WIPED OUT RAIDERS, THREAT 1 (60)
 {805}{}{Yeah...rumor in the wastes is somebody that matches your description wiped out those raiders south of Vault City. }
+{1805}{}{Yeah...rumor in the wastes is somebody that matches your description helped put a stop to the raiders south of Vault City. }
 {806}{}{Had a big-ass mutant with a vise connected to his shoulder with him. }
 {807}{}{Had some robot with a brain in a dome with him. }
 {808}{}{Had some tribal with a bone through his nose with him. }
@@ -408,6 +409,8 @@
 # 62. THAT'S ME/RAIDER THREAT 2 (61)
 {820}{}{Well, you must be some kind of ballsy mother fucker to waste all those boys by your lonesome. }
 {821}{}{Well, you must be some kind of badass bitch to waste all those boys by your lonesome. }
+{1820}{}{Well, you must be one sly motherfucker to convince their guide to stop leading them through the mountains.
+ And it could be I don't LIKE what you did down there.}
 {822}{}{Could be I don't LIKE what you did down there. COULD be I had some of my best people in that camp.}
 {823}{}{Could be that if any guns get drawn in here, you'll FIND out what happened to those raiders personally.}
 {824}{}{Maybe you should have trained them better. It was like shooting a bunch of geckos. DRUNK geckos.}
@@ -416,9 +419,11 @@
 # 63. RAIDER THREAT 3. . . (61, 62)
 {835}{}{That so? I think you were there. I think you're responsible. }
 {836}{}{Way I see it, you OWE me big, tribal. You gotta do the work of twenty men to pay off that debt. }
+{1836}{}{Way I see it, you OWE me big, tribal. I don't like people messing with affairs that aren't theirs. }
 {837}{}{You take the job, then...maybe...we can call it even.}
 {838}{}{Not from where I'm standing. I figure one gunshot to your head oughta clear the debt.}
 {840}{}{They attacked ME, Bishop. I don't owe you anything, and I'm not going to do your dirty work. Understand?}
+{1840}{}{I don't owe you anything, and I'm not going to do your dirty work. Understand?}
 
 {900}{}{You have delivered Thomas Moore's briefcase.}
 {925}{}{You have assassinated Westin.}

@@ -150,7 +150,7 @@
 {251}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Defensive Systems Shutdown initiated...Performing deep diagnostic. Alpha....Bravo....Charlie....}
 {252}{}{(For some strange reason, I don't think I want to do this right now.) Back.}
 {253}{}{(I better get moving, while this thing is still running that diagnostic). Log off.}
-{254}{}{Presidential Security Passkey not recognized.  Access denied.}
+{254}{}{Presidential Security Passkey not recognized. Access denied.}
 {255}{}{(Hmm, I wonder if I can fool the scanner into thinking I have the key by hacking into the access file. I think I'll try.)}
 {256}{}{(Oh well, it was worth a shot.) Back.}
 {257}{}{Security Passkey Scanner malfunction noted...Reinitializing scanner....}

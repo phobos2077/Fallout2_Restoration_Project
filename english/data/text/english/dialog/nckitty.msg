@@ -140,6 +140,11 @@
 {405}{}{Miria wants to take a walk on the wild side.}
 {406}{}{Actually, no one, thanks.}
 
+#added by killap - expansion
+{407}{}{Dex here. Better keep an eye on him though, he can get a little out of control.}
+{408}{}{Cat Jules here. Watch out though, he might bite the girls.}
+{409}{}{Kitsune here. Hopefully you can satisfy her Asian needs, if you know what I mean.}
+
 # 15. FRIEND LAID 2 (4, 12, 14)
 {420}{}{This your friend here? (Looks your companion up and down, nods.) I think we can accommodate you… }
 {421}{}{(Looks your companion up and down, nods.) I think we can accommodate you… }
@@ -280,6 +285,12 @@
 # marcus
 {705}{}{Heh...I sure hope I didn't get her pregnant.}
 
+#added by killap - Dex
+{706}{}{It just isn't the same when their blood's still warm, ya know?}
+{707}{}{I hope you took notes.}
+{708}{}{Girls have gotten pretty freaky since the end of the world... I dig that.}
+{709}{}{...and thats why the babes used to call me "Dex, the Duke of Sex".}
+
 {710}{}{You talk for hours. The girls at the Cat's Paw have amazing insight into human nature.}
 {711}{}{The Mordino lieutenant arrives, and seems impressed with you. He leads you north out of
  town to someplace called the "Stables."}
@@ -303,3 +314,6 @@
 {770}{}{Way to go, Boss! Ain't had sex myself in a loooooong time.}
 
 {800}{}{You delivered the Cat's Paw magazines to Miss Kitty.}
+
+#added by killap - RP 2.1
+{900}{}{You feel more coordinated and in tune with your body now.}

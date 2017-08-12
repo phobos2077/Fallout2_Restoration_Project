@@ -470,3 +470,7 @@
 
 #added by killap
 {30000}{}{You have stolen from your own tribe.}
+
+#added by killap - New Perks
+{40000}{}{Slot Jinxer} 
+{40001}{}{Thanks to a small yet courageous kitchen appliance, you know a secret way to make slot machines cough up all their cash. Too bad it breaks the machine in the process. Whoops!}

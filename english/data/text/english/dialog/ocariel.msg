@@ -1,6 +1,6 @@
 {100}{}{You see a short, slender woman wearing a blue velvet sun dress.}
 {101}{}{You see Ariel, the widow.}
-{102}{}{You see a short, slender woman wearing a blue velvet sun dress.  She appears to be sad.}
+{102}{}{You see a short, slender woman wearing a blue velvet sun dress. She appears to be sad.}
 {103}{}{Hello, I'm Ariel. I don't think I've seen you here before. Who are you?}
 {104}{}{Me}
 {105}{}{Uh... you look sad. Why?}

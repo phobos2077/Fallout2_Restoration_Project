@@ -29,7 +29,7 @@
 {128}{}{Know anything about an outfit called the Enclave?}
 {129}{}{I'm looking for work. Know anybody who's hiring?}
 {130}{}{Forget it. I don't want to take up your time.}
-{131}{}{Those bastards killed my brother and then said it was for the good of the people!  I want them dead. If you can help, talk to Vortis.}
+{131}{}{Those bastards killed my brother and then said it was for the good of the people! I want them dead. If you can help, talk to Vortis.}
 {132}{}{Sounds like a good idea to me.}
 {133}{}{Vortis, eh? You're a fountain of wisdom. What else do you know?}
 {134}{}{Right. Think I'll do that right now.}

@@ -28,10 +28,10 @@
 #  glanced and examined.                                    #
 #############################################################
 
-{100}{}{You see a chem reliant.}
+{100}{}{You see a drug addict.}
 {101}{}{You see Petey.}
 
-{150}{}{This here is a poor chem reliant.}
+{150}{}{This here is a poor drug addict.}
 {151}{}{Petey here looks like he could use some help.}
 {152}{}{[talk]}
 {155}{}{[cough, cough] Any spare change for Petey?}
@@ -44,21 +44,22 @@
 {162}{}{Maybe next time. Thank you anyway. [cough]}
 {163}{}{[done]}
 {164}{}{Thank you so much. [cough] So, so, so very much.}
-{165}{}{You’re welcome.}
+{165}{}{You're welcome.}
 {166}{}{Yeah, yeah.}
 {167}{}{Sir, [cough] can you help a poor man down on his luck?}
-{168}{}{Here’s $5.}
+{168}{}{Here's $5.}
 {169}{}{Not today.}
 {170}{}{Get a job.}
 {171}{}{Kind lady, please help [cough] a poor, starving man who is [cough] too sick to work.}
-{172}{}{You poor thing, here’s $5.}
+{172}{}{You poor thing, here's $5.}
 {173}{}{I make a point of not giving money to panhandlers.}
 {174}{}{No.}
+{175}{}{Sorry, I don't have any money on me.}
 
 {200}{}{Hey, man; give me some money?}
 {201}{}{Spare some change, kind sir?}
 {202}{}{Hey, can you help me with a few bucks?}
-{203}{}{Do you think you can help me out with a coupla dollars?}
+{203}{}{Do you think you can help me out with coupla bucks?}
 {204}{}{Do you think you could lend me a few bucks?}
 {205}{}{Spare some change, kind lady?}
 {206}{}{Hey, lady; spare some money?}
@@ -75,29 +76,31 @@
 {231}{}{Uhhh...}
 {232}{}{[giggle]}
 {233}{}{Hey...}
+{234}{}{Niiicceee...}
+{235}{}{Oh yeah...}
 
 #dealer dead messages
 #tubby dead
-{300}{}{Ahhh, someone fucking killed Tubby?}
+{300}{}{I can't believe someone fucking killed Tubby...}
 {301}{}{What the fuck happened to Tubby?}
-{302}{}{Oh shit, Tubby's...}
+{302}{}{Ah, why did Tubby have to die.}
 #generic
 {303}{}{Ahhh...}
 {304}{}{Didn't like that asshole anyway.}
 #flick dead
-{305}{}{Flick's dead? Crap.}
+{305}{}{Flick's dead...Crap.}
 {306}{}{What happened to Flick?}
-{307}{}{Flick...}
+{307}{}{I miss Flick...}
 
 #dealer far, ask for assistance
 #ask tubby
-{310}{}{Hey Tubby, I, Uhhh, need some help here.}
+{310}{}{Hey Tubby, I..uhhh..need some help here.}
 {311}{}{HEY TUBBY!}
 #ask any
 {312}{}{Hello.}
 {313}{}{HEY!}
 #ask flick
-{314}{}{Hey Flick, I, Uhhh, need some help here.}
+{314}{}{Hey Flick, I..uhhh..need some help here.}
 {315}{}{HEY FLICK!}
 
 #ask dealer for drug messages
@@ -110,7 +113,6 @@
 #from flick
 {324}{}{Hey, Flick; can you hook me up? I've got cash.}
 {325}{}{Ummm, Flick, I've got some money.}
-
 #thank dealer for drugs messages
 #thank tubby
 {330}{}{Uhhh... Thanks again, Tubby.}
@@ -121,3 +123,6 @@
 #thank flick
 {334}{}{Uhhh... Thanks again, Flick.}
 {335}{}{You're a pal, Flick.}
+#response from Tubby/Flick
+{340}{}{Here. Now beat, you druggie.}
+{341}{}{Take it and get the hell out.}

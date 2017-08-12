@@ -13,12 +13,12 @@
 {111}{}{Search the medical database for anything of interest.}
 {112}{}{Log off the terminal.}
 {113}{}{You don't find any mention of Vaults in the database. It's mostly medical information relating
- to anatomy, known diseases, treatments, chems, and implants.}
+ to anatomy, known diseases, treatments, drugs, and implants.}
 {114}{}{Search the archives for any mention of the Garden of Eden Creation Kit.}
 {115}{}{Search the medical database for anything of interest.}
 {116}{}{Log off the terminal.}
 {117}{}{You don't find any mention of the GECK in the database. It's mostly medical archives relating to
- anatomy, known diseases, treatments, chems, and implants.}
+ anatomy, known diseases, treatments, drugs, and implants.}
 {118}{}{Search the archives for any mention of the Vaults.}
 {119}{}{Search the medical database for anything of interest.}
 {120}{}{Log off the terminal.}

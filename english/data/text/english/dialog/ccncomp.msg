@@ -8,7 +8,7 @@
 {106}{}{Screw this.}
 {107}{}{Try to hack the system.}
 
-{108}{}{Welcome to the Enclave.  You have limited system privileges at this time. For ease of use this system has been equipped with a common English parser. Please enter all requests as English sentences.}
+{108}{}{Welcome to the Enclave. You have limited system privileges at this time. For ease of use this system has been equipped with a common English parser. Please enter all requests as English sentences.}
 {109}{}{How may I help you?}
 {110}{}{Where vertibird plans?}
 {111}{}{Where Enclave main base?}

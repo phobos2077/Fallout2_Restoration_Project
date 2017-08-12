@@ -84,3 +84,78 @@
 
 {181}{}{That doesn't belong to you. Now leave or I will get violent.}
 {182}{}{I don't know what you did to Gond, but you're going to pay!}
+
+{200}{}{Congratulations, you're now a Ranger. It is your sworn duty to fight slavery wherever it may appear. Take care, my friend.}
+{201}{}{Before I go, I have some information that may interest you.}
+{202}{}{Alright, let's hear it.}
+{203}{}{I happen to have the coordinates for one of Metzger's largest slaver camps. It's way northwest of here, a couple days journey from the Den.}
+{204}{}{Are you serious? Our northern Rangers have been trying to track down Metzger's slaver camps forever. This is excellent news, now we just need
+ to destroy that horrible place. Do you know how well guarded it is?}
+{205}{}{The only things guarding that place now are corpses. I already wiped out the whole camp.}
+{206}{}{It looked like it had about a dozen guards.}
+{207}{}{I couldn't tell you—I haven't been there yet.}
+{208}{}{You have? That's amazing! I'll have to spread the word out to the other Rangers. Now's the time for us to rise up and strike while they're
+ busy licking their wounds. I can't thank you enough. We are truly in your debt.}
+{209}{}{Your thanks is all I need. Take care.}
+{210}{}{If you're so pleased with my handiwork, how 'bout a little cash reward?}
+{211}{}{We must attack them at once. Wanna take down these scumbags for us?}
+{212}{}{I think I've done enough for the day. Goodbye.}
+{213}{}{As a Ranger it is my sworn duty. Of course I'll help.}
+{214}{}{Excellent! Please report back when you have wiped out the camp.}
+{215}{}{Give me some time. I will return when I am ready.}
+{216}{}{Of course. See you soon.}
+{217}{}{I'm a spontaneous individual. I don't need to prepare. Let's get this show on the road.}
+{218}{}{Actually, I changed my mind. I'm sure you and the other Rangers can do just fine without me. Good luck.}
+{219}{}{Actually, I think it would be better if some Rangers came with me. It would guarantee greater success on both my end
+ and the general fight against slavery.}
+
+{220}{}{No, I am sorry. I don't have the resources to pull some men together. This is something you will have to do on your own.}
+{221}{}{Alright, I'll do it alone. I'll report back when I have finished.}
+{222}{}{Alright, I'll do it alone. I need time to prepare though. I'll be back.} #not used
+{223}{}{I'll have to decline then. Goodbye.}
+
+{224}{}{You're right. I'll get a small group together and send them with you. Are you ready to go now?}
+{225}{}{I need time to prepare. I'll be back.}
+{226}{}{I'm ready. Let's go.}
+
+{227}{}{Money? Well, I suppose it is the least we could do. Here, $1000 for your trouble. Thank you again.}
+{228}{}{My pleasure. Goodbye.}
+
+{229}{}{Are you ready to attack the slaver camp?}
+{230}{}{I still need more time.}
+{231}{}{I am ready to go. Let's do it.}
+
+{232}{}{Your fellow Rangers will meet up with you along the way. Best of luck to you.}
+{233}{}{[END]}
+{234}{}{I've heard the news. Thank you so much for your help. This will surely deal quite a blow to the slavers. We are truly in your debt.}
+{235}{}{Please, don't delay too long. This attack is critical in our fight against slavery.}
+{236}{}{You aid the Rangers in their continual struggle against slavery.}
+
+{240}{}{Thank you. Goodbye.}
+
+{250}{}{Actually, one more thing. You look like someone to be trusted. Someone who doesn't take a liking to Slavers.}
+{251}{}{Well, I did just wipe out an entire camp of them. What do you have in mind?}
+{252}{}{I think I've done enough for humanity today. See you around.}
+
+#added in RP 1.3
+{260}{}{What are you doing here? This is a private -- Hey, wait a minute, I think I've heard of you. Aren't you the one that took out one of Metzger's slave camps?}
+{261}{}{Yep. That was me.}
+{262}{}{I sure as hell did. You got a problem with that? }
+{263}{}{Maybe...why?}
+{264}{}{I have no idea what you're talking about. Now if you'll excuse me, I'll be on my way.}
+
+{270}{}{That was a fine thing you did and I just want to shake your hand.}
+{271}{}{Not at all. In fact, I'd like to shake your hand.}
+{272}{}{Because that was a fine thing you did and I just want to shake your hand.}
+{273}{}{If you're so pleased with my handiwork, how 'bout a little cash reward?}
+{274}{}{You're welcome. Now why don't you tell me who you are?}
+
+{280}{}{We don't have a lot of funds to spare, but you *did* do us a great service so I suppose we could part with some. Here's $1000.}
+{281}{}{Thanks. Bye.}
+{282}{}{Thanks. Now why don't you tell me who you are?}
+
+{290}{}{I'm Elsie. That's Gond. We're members of an anti-slavery group called the New California Rangers. We could use someone like you. If you're interested in joining us, I've got a task for you.}
+{291}{}{Let's hear it.}
+{292}{}{Not interested. Bye.}
+
+{300}{}{Help you with something, Ranger?}

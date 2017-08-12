@@ -66,7 +66,7 @@
 {173}{}{Oon Ga.}
 {174}{}{ Have a safe journey, dull one -- for our sake.}
 {175}{}{????}
-{176}{}{You betray us.  You must die.}
+{176}{}{You betray us. You must die.}
 {177}{}{A traitor to your own people!}
 {178}{}{Why do you do this?}
 {179}{}{Death to the evil one!}

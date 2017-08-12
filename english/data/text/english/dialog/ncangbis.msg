@@ -5,6 +5,7 @@
 # 0. LOOK (MALE) (WTG)
 {150}{}{You see an attractive young woman in tight leather.}
 {151}{}{You see Angela Bishop. When she catches your eye, she slowly licks her lips.}
+{152}{}{You see Angela Bishop. She scowls at you with disgust.}
 
 # 1. LOOK (FEMALE) (WTG)
 {175}{}{You see a young woman in tight leather. She looks too high-brow to be a whore.}

@@ -3,7 +3,7 @@
 {102}{}{There's nothing particularly exceptional about the guy. He looks like the epitome of a budding bureaucrat.}
 {103}{}{Welcome to Congress House. How can I help you?}
 {104}{}{Back again, I see. How can I help you this time?}
-{105}{}{Now, what can I do for you?}
+{105}{}{Now, how can I help you?}
 {106}{}{Uhhh...}
 {107}{}{Me see Tandi?}
 {108}{}{Me see Tandi?}

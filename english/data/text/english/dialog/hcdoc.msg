@@ -201,3 +201,7 @@ because this is going to cost ::cough:: $200.}
 {316}{}{[continue]}
 {400}{}{Dogmeat.}
 {401}{}{K-9.}
+#added by killap - RP
+{402}{}{Kitsune.}
+{403}{}{Dex.}
+{404}{}{Cat Jules.}

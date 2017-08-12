@@ -3,3 +3,5 @@
 {101}{}{You replace the broken motivator.}
 {102}{}{You connect the brain to the neural interface of the receptacle.}
 {103}{}{The Biomed Gel reservoirs are now full.}
+#added by killap
+{104}{}{Look's all set to be activated.}

@@ -33,10 +33,14 @@
 # 6. FLOAT DIALOGUE: MALE, MADE MAN, SAME CASINO (WTG)
 {225}{}{Good day, }
 {1225}{}{, sir.}
+{226}{}{Good day, }
+{1226}{}{, sir.}
 
 # 7. FLOAT DIALOGUE: FEMALE, MADE MAN, SAME CASINO (WTG)
 {230}{}{Good day, }
 {1230}{}{, ma'am.}
+{231}{}{Good day, }
+{1231}{}{, ma'am.}
 
 # 8. FLOAT DIALOGUE: MALE, MADE MAN, NOT SAME CASINO (WTG)
 {235}{}{Friend, you're walking into the wrong casino.}
@@ -68,9 +72,9 @@
 {277}{}{Hey! Come on in, Myron.}
 
 # 17. MARCUS (WTG)
-{285}{}{No mutants. He waits outside.}
-{286}{}{I don't care if your friend one of the Ex-Men, mutants wait outside.}
-{287}{}{That mutant freak ain't allowed in here.}
+{1285}{}{No mutants. He waits outside.}
+{1286}{}{I don't care if your friend is one of the Ex-Men, mutants wait outside.}
+{1287}{}{That mutant freak ain't allowed in here.}
 
 # 18. ROBOBRAIN (WTG)
 {295}{}{No droids.}
@@ -83,12 +87,12 @@
 {1306}{}{. Take a rest from saving the world and have some fun.}
 
 # 20. FLOAT DIALOGUE: DAY (WTG)
-{315}{}{Need some more chips at table three…}
-{316}{}{Good crowd today…}
+{310}{}{Need some more chips at table three…}
+{311}{}{Good crowd today…}
 
 # 21. FLOAT DIALOGUE: NIGHT (WTG)
-{325}{}{Need some more chips at table three…}
-{326}{}{Good crowd tonight…}
+{320}{}{Need some more chips at table three…}
+{321}{}{Good crowd tonight…}
 
 # 22. INTRO (WTG)
 {335}{}{Hey, }
@@ -108,14 +112,15 @@
 {347}{}{You know somebody named Pretty Boy Lloyd?}
 {348}{}{Who's that old guy at the slot machine?}
 {349}{}{That comic you got on stage is weak. Mind if I try?}
-{350}{}{Thanks. Do you need a dancer for the night? I'm open for a limited engagement.}
+{350}{}{Do you need a dancer for the night? I'm open for a limited engagement.}
 {351}{}{Thanks, I will.}
 {352}{}{Nothing, thanks. Sorry to bother you.}
 {353}{}{Just checking on things. Carry on.}
 
 # 23. PORN STAR (WTG)
 {360}{}{Hey, look who's here! Hey, }
-{361}{}{. Welcome to [CN]. Love your films.}
+{361}{}{. Welcome to }
+{1361}{}{. Love your films.}
 {362}{}{Fooooooo foo foo fooooo}
 {363}{}{Wander off}
 {364}{}{Who are you?}
@@ -136,7 +141,7 @@
 {286}{}{You know somebody named Pretty Boy Lloyd?}
 {287}{}{Who's that old guy at the slot machine?}
 {288}{}{That comic you got on stage is weak. Mind if I try?}
-{289}{}{Thanks. Do you need a dancer for the night? I'm open for a limited engagement.}
+{289}{}{Do you need a dancer for the night? I'm open for a limited engagement.}
 {290}{}{Thanks, I will.}
 {291}{}{Nothing, thanks. Sorry to bother you.}
 {292}{}{Just checking on things. Carry on.}
@@ -161,35 +166,39 @@
 {329}{}{Nothing, thanks. Sorry to bother you.}
 
 # 28.  WHAT CASINO IS THIS? (22, 23, 24, 27)
-{335}{}{This is [CN]. Need anything, just ask.}
-{336}{}{This is [CN]. At least, last time I checked the sign outside the door. Now what can I do for you?}
-{337}{}{Who are you?}
-{338}{}{Can you tell me a little about the casino?}
-{339}{}{Nothing, thanks. Sorry to bother you.}
+{1335}{}{This is the }
+{2335}{}{. Need anything, just ask.}
+{1336}{}{This is the }
+{2336}{}{. At least, last time I checked the sign outside the door. Now what can I do for you?}
+{1337}{}{Who are you?}
+{1338}{}{Can you tell me a little about the casino?}
+{1339}{}{Nothing, thanks. Sorry to bother you.}
 
 # 29.  WHAT CAN YOU TELL ME ABOUT THIS CASINO? (22, 23, 24, 27, 28, 30)
-{345}{}{Best goddamn casino in town…but I am a little biased. Anything else you want to know?}
-{346}{}{Best goddamn casino in town, best goddamn tables…now why don't you run along now, check 'em out? All right?}
-{347}{}{Who are you?}
-{348}{}{Who owns this casino?}
-{349}{}{Okay, thanks. Sorry to bother you.}
+{1345}{}{Best goddamn casino in town…but I am a little biased. Anything else you want to know?}
+{1346}{}{Best goddamn casino in town, best goddamn tables…now why don't you run along now, check 'em out? All right?}
+{1347}{}{Who are you?}
+{1348}{}{Who owns this casino?}
+{1349}{}{Okay, thanks. Sorry to bother you.}
 
 # 30.  WHO OWNS THIS CASINO? (29)
-{355}{}{The [CA] family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
-{356}{}{The [CA] Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
+{355}{}{The }
+{1355}{}{ Family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
+{356}{}{The }
+{1356}{}{ Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
 {357}{}{Who are you?}
 {358}{}{Can you tell me a little about the casino?}
 {359}{}{I see. Thanks for your time.}
 
 # 31.  McGEE (22, 23, 24)
-{365}{}{That guy? Old Man McGee? Crazy sumabitch…he's been playing that machine
+{1365}{}{That guy? Old Man McGee? Crazy sumabitch…he's been playing that machine
  there for the past few years, waiting for the big jackpot. His life fortune
  must be sitting in that thing, but it won't give him a single chip.}
-{366}{}{That guy? Old Man McGee? Crazy sumabitch, that's for sure. Heh.
+{1366}{}{That guy? Old Man McGee? Crazy sumabitch, that's for sure. Heh.
  Sure was pissed about you winning his fortune. I'd be careful around him.}
-{367}{}{Is the machine rigged?}
-{368}{}{I had some other questions…}
-{369}{}{Thanks for the information.}
+{1367}{}{Is the machine rigged?}
+{1368}{}{I had some other questions…}
+{1369}{}{Thanks for the information.}
 
 # 32.  IS THE MACHINE RIGGED? (31)
 {375}{}{Nope, it's just stubborn…just like him. It could probably use a little repair work, but we ain't got no slot
@@ -233,12 +242,79 @@
 {437}{}{Okay…though I will be back.}
 
 # 39.  PERFORM (37)
-{445}{}{You count up the evening's tally. chips. Not a bad haul.}
-{446}{}{The leather was a nice touch.}
-{447}{}{That ball gag you had with you didn't hurt, either.}
-{448}{}{I'll do even better next time...}
+{445}{}{[You count up the evening's chips. Not a bad haul.]}
+{446}{}{The leather was a nice touch. }
+{447}{}{That ball gag you had with you didn't hurt, either. }
+{448}{}{[CONTINUE]}
 
 # 40.  PERFORM (22, 24)
 {455}{}{Yeah, he stinks worse than brahmin shit. Still, you…? Aw, why the hell not. A little improv ain't gonna hurt, but
  it's a rough crowd…better hope you're good.}
 {456}{}{Oh, I'm good…just watch me go.}
+{457}{}{Not right now, but I'll be back.}
+
+# 41.  JOKE PERFORM SUCCESS (22, 24)
+{500}{}{That was some funny shit. You're the next Milton Berle. Come back in a week for another show.}
+{501}{}{That was a great show. You got a great routine. Come back in a week for another show.}
+{502}{}{I will. See you around.}
+
+# 42.  JOKE PERFORM FAIL (22, 24)
+{510}{}{That was just awful. I don't know how you do it, but you are actually worse than the regular. I don't think we will be needing you again.}
+{511}{}{Fine, I'll go take my talent to someone who WILL actually appreciate it.}
+{512}{}{Whatever. Bye.}
+
+# 42.  DANCE PERFORM SUCCESS (22, 24)
+{520}{}{You were smokin' out there. The next Traci Lords. }
+{521}{}{I don't think I have seen anyone move like that on stage. You got real talent. }
+{523}{}{Come back in a week for another show.}
+{522}{}{I will. See you around.}
+
+
+# 42.  ASK FOR MORE COMIC WORK (22, 24)
+{620}{}{Interested in me doing another comic routine?}
+{621}{}{I told you to check back in a week. You still got some time, so check back later.}
+{1455}{}{Sure. I'm getting sick of our regular anyway. Let's hope you are as good as last time.}
+{622}{}{Alright. I got some questions then.}
+{623}{}{I will see you around then.}
+
+# 42.  ASK FOR MORE DANCE WORK (22, 24)
+{720}{}{Is there an opening for any dancers tonight?}
+{721}{}{I told you to check back in a week. You still got some time, so check back later.}
+{1425}{}{Sure. Let's hope you are as good as last time.}
+{722}{}{Alright. I got some questions then.}
+{723}{}{I will see you around then.}
+
+# 43.  Jokes----GOOD
+{1000}{}{You know your marriage is in trouble if your wife says, 'You're only interested in one thing,' and you can't remember what it is.}
+{1001}{}{My doctor recently told me that jogging could add years to my life. I think he was right. I feel ten years older already.}
+{1002}{}{Folks who don't know why America is the Land of Promise should be here during an election campaign.}
+{1003}{}{Politicians have always made me laugh.}
+{2003}{}{In Washington, a man gets up to speak and doesn't say a thing, and the other men disagree with him for three hours.}
+{1004}{}{Someone once told me I don't exercise enough. Well, they're wrong. I get my exercise running to the funerals of my friends who exercise.}
+
+# 44.  Jokes----BAD
+{1500}{}{Umm...Yo' mama is so fat when she fell over she rocked herself asleep trying to get up again.}
+{1501}{}{Yo mama sooooooo fat that I had to take a plane, a train, and an automobile just to get on the bitch's good side.}
+{1502}{}{Alright, what did one plate say to the other?}
+{2502}{}{Lunch is on me.}
+{1503}{}{Ok, why were the suspenders arrested?}
+{2503}{}{They were arrested for holding up a pair of pants.}
+{1504}{}{Ok, why couldn't the woman buy a bakery shop?}
+{2504}{}{Because she couldn't raise enough dough.}
+
+# 45.  DANCER REFUSED
+{530}{}{Sorry, you're not up to our standards.}
+{531}{}{Whatever. I got some other questions.}
+{532}{}{Fine, I'll go find someone who WILL appreciate my talent. Bye.}
+
+{902}{}{Bishop}
+{903}{}{Mordino}
+
+{904}{}{Shark Club}
+{905}{}{Desperado}
+
+{2000}{}{Your comic routine was a success.}
+{2001}{}{Your comic routine was a flop.}
+{2010}{}{Your erotic dance routine was a success.}
+{2500}{}{[2 hours pass.]}
+{2501}{}{[1 hour passes.]}

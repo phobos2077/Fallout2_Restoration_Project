@@ -204,8 +204,8 @@
 {603}{}{Uhhh, she's dead.}
 {604}{}{Miria was alive when I left her, but I'm pretty sure she's dead by now.}
 {605}{}{Davin was alive when I left her, but I'm pretty sure she's dead by now.}
-{606}{}{Davin , uhhh, couldn't make the trip, but I'll let him know you said, "Hi," when I see him again.}
-{607}{}{Miria , uhhh, couldn't make the trip but I'll send her your love when I see her again.}
+{606}{}{Davin, uhhh, couldn't make the trip, but I'll let him know you said, "Hi," when I see him again.}
+{607}{}{Miria, uhhh, couldn't make the trip but I'll send her your love when I see her again.}
 
 # Node 51
 {700}{}{Aggg... [A shocked look comes over Grisham's face as he suddenly grasps his chest and collapses to the floor.]}

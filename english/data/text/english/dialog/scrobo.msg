@@ -6,7 +6,7 @@
 {105}{}{.whirrrrr...I am not a Daggit.}
 {106}{}{Grrrrrrrrrrrrrrrr--}
 {107}{}{Woof! Wo-wo-wo-<click>woof.}
-{108}{}{<sprzzzt>  Meow...error.}
+{108}{}{<sprzzzt> Meow...error.}
 {109}{}{Barkbarkbarkbarkbarkbarkbark!}
 {110}{}{Grrr...}
 {111}{}{How-woooo! <click-click> How-wooo!}

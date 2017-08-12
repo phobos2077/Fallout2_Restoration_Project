@@ -3,8 +3,6 @@
 # Messages for Maps
 #
 
-
-
 #
 # Map Names for (Automap) Descriptions
 #	Note: This order must *NOT* change!
@@ -24,9 +22,9 @@
 {103}{}{Arroyo}                           // arcaves.MAP
 {104}{}{Arroyo}                           // arvillag.MAP
 {105}{}{Arroyo}                           // arbridge.MAP
-{106}{}{The Den}                              // denbus1.MAP
-{107}{}{The Den}                              // denbus2.MAP
-{108}{}{The Den}                              // denres1.MAP
+{106}{}{The Den}                          // denbus1.MAP
+{107}{}{The Den}                          // denbus2.MAP
+{108}{}{The Den}                          // denres1.MAP
 {109}{}{Klamath}                          // .MAP  ;Downtown
 {110}{}{Klamath}                          // .MAP  ;Mall
 {111}{}{Klamath}                          // .MAP  ;Rat Caves
@@ -83,6 +81,11 @@
 {162}{}{Mountains}
 {163}{}{Desert}
 {164}{}{Mountains}
+{165}{}{EPA}                                 // epax.MAP
+{166}{}{EPA}                                 // EPAMAIN.MAP
+{167}{}{EPA Warehouse}                       // epawrhse.MAP
+{168}{}{Merchant}                            // vilmerch.map
+{169}{}{Shi Submarine}                       // sfsub.map
 
 
 #
@@ -608,7 +611,7 @@
 {586}{}{Detention Cells}
 # [Map 129] lookup_name=Enclave Dock
 {587}{}{Dock}
-{588}{}{Dock}
+{588}{}{Vertibird Unloading Pad}
 {589}{}{Dock}
 # [Map 130] lookup_name=Enclave End Fight
 {590}{}{Entry Hall}
@@ -694,14 +697,95 @@
 {650}{}{Desert}
 {651}{}{Desert}
 {652}{}{Desert}
-# 151. Abbey
+# 151. Abbey Entrance
 {653}{}{Entrance}
-{654}{}{Downstairs}
-{655}{}{Desert}
-# 151. EPA
-{656}{}{}
-{657}{}{}
-{658}{}{}
+{654}{}{Second Floor}
+{655}{}{Third Floor}
+# 152. Abbey Basement
+{656}{}{Basement}
+{657}{}{enter name}
+{658}{}{enter name}
+# 153. Abbey Cave
+{659}{}{Cave}
+{660}{}{enter name}
+{661}{}{enter name}
+# 154. Village
+{662}{}{Village}
+{663}{}{Village}
+{664}{}{Village}
+# 155. Village
+{665}{}{Woodland}
+{666}{}{Tribe}
+{667}{}{Tribe}
+# 156. Village Waterside
+{668}{}{Fishing Area}
+{669}{}{Small Cave}
+{670}{}{enter name}
+# 157. EPA, epax.map
+{671}{}{Entrance}
+{672}{}{Air, Water, and Power Facility Level}
+{673}{}{Robot Maintenance}
+# 158. EPA Sub-levels, EPAMAIN.map
+{674}{}{Level One}
+{675}{}{Level Two}
+{676}{}{Level Three}
+# 159. Warehouse, epawrhse.map
+{677}{}{Secret Level}
+{678}{}{enter name}
+{679}{}{enter name}
+# 160. Slaver Camp
+{680}{}{Main Camp}
+{681}{}{enter name}
+{682}{}{enter name}
+# 161. Gecko Enclave Patrol
+{683}{}{Desert}
+{684}{}{Desert}
+{685}{}{Desert}
+# 162. Hubologist Stash
+{686}{}{Entrance}
+{687}{}{Level One}
+{688}{}{Level Two}
+# 163. Ranger Safe House 1
+{689}{}{Ranger Safe House}
+{690}{}{Ranger Safe House}
+{691}{}{Ranger Safe House}
+# 164. Ranger Safe House 1
+{692}{}{Ranger Safe House}
+{693}{}{Ranger Safe House}
+{694}{}{Ranger Safe House}
+# 165. Ranger Safe House 1
+{695}{}{Ranger Safe House}
+{696}{}{Ranger Safe House}
+{697}{}{Ranger Safe House}
+# 166. Easter Egg Encounter
+{698}{}{Desert}
+{699}{}{Desert}
+{700}{}{Desert}
+# 167. Merchant
+{701}{}{Desert}
+{702}{}{Desert}
+{703}{}{Desert}
+# 168. Vault Village Merchant
+{704}{}{Desert}
+{705}{}{Desert}
+{706}{}{Desert}
+# 169. Shi Submarine
+{707}{}{Sub Surface}
+{708}{}{Sub Interior Level 1}
+{709}{}{}
+# 170. EPA Sub-levels, EPAMAIN1.map
+{710}{}{Level One}
+{711}{}{Level Two}
+{712}{}{Level Three}
+# 171. EPA Sub-levels, EPAMAIN2.map
+{713}{}{Level One}
+{714}{}{Level Two}
+{715}{}{Level Three}
+# 172. Dr. Sheng Hideout sfsheng
+{716}{}{Abandoned House}
+{717}{}{Cavern}
+{718}{}{}
+
 
 #
 #	Short City names
@@ -723,9 +807,9 @@
 {1514}{}{San Francisco}
 {1515}{}{Navarro}
 {1516}{}{The Enclave}
-{1517}{}{Desert}           # Abbey
-{1518}{}{Desert}           # Primitive Tribe
-{1519}{}{Desert}           # EPA
+{1517}{}{Abbey}           # Abbey
+{1518}{}{Umbra Tribe}   # Primitive Tribe
+{1519}{}{EPA}           # EPA
 {1520}{}{Ghost Farm}
 {1521}{}{Car Outta Power}
 {1522}{}{Arroyo}
@@ -755,5 +839,15 @@
 {1546}{}{Fake Vault 13}
 {1547}{}{Random Encounter}
 {1548}{}{Stables}
-{1549}{}{Abbey}
-{1550}{}{EPA}
+{1549}{}{Village}
+{1550}{}{Slaver Camp}
+{1551}{}{Hubologist Stash}
+{1552}{}{Safe House}
+{1553}{}{Safe House}
+{1554}{}{Safe House}
+{1555}{}{RP Easter Egg Encounter}
+{1556}{}{Merchant}
+{1557}{}{Merchant}
+{1558}{}{Shi Submarine}
+{1559}{}{Abandoned House}
+{1560}{}{Gecko Enclave Patrol}

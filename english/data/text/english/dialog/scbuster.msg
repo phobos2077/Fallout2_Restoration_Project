@@ -19,7 +19,7 @@
 {118}{}{I'm looking for a meeting with Old Man Carlson. Know anybody who could help me?}
 {119}{}{Do you have a GECK?}
 {120}{}{That's nice stranger, but I ain't no charity.}
-{121}{}{Maybe. Just might have a Triveld x10 rifle scope - would fit just fine on a hunting rifle, if somebody was interested.  Let it go cheap -- $500.}
+{121}{}{Maybe. Just might have a Triveld x10 rifle scope - would fit just fine on a hunting rifle, if somebody was interested. Let it go cheap -- $500.}
 {122}{}{Hey, you already cleaned me out.}
 {123}{}{Sure, it's a deal}
 {124}{}{No, thanks.}
@@ -29,7 +29,7 @@
 {128}{}{I don't mess with Mr. Merk and it don't pay to go gossiping about him. You got questions, go ask about him at the Rawhide.}
 {129}{}{I see.}
 {130}{}{Goodbye.}
-{131}{}{Roger Westin? You mean that Congress guy? Got himself a spread out west of town.  Brahmin man - big wheel in the Stockman's Association. He's always looking for hands, if you're wanting work.}
+{131}{}{Roger Westin? You mean that Congress guy? Got himself a spread out west of town. Brahmin man - big wheel in the Stockman's Association. He's always looking for hands, if you're wanting work.}
 {132}{}{I see.}
 {133}{}{Goodbye.}
 {134}{}{Funny you go asking that after what happened to Roger Westin. Not that I'd know, but there's a fellow - Merk - down at the Rawhide who might be able to help you.}

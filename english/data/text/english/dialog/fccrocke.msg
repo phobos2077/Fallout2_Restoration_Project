@@ -24,7 +24,7 @@
 {123}{}{No. What do you mean?}
 {124}{}{What new tech have you developed?}
 {125}{}{Loud and clear. See ya.}
-{126}{}{Well... I *guess* that'll have to do.  It's a deal. Do you have the armor to be hardened on you?}
+{126}{}{Well... I *guess* that'll have to do. It's a deal. Do you have the armor to be hardened on you?}
 {127}{}{Yes.}
 {128}{}{No.}
 {129}{}{Great. That'll cost you $10,000, straight up, no bartering. I need some new equipment.}

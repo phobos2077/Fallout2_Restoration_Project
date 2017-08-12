@@ -54,3 +54,8 @@
 {206}{}{Pleeeease! I need to ask you something important.}
 
 {207}{}{Well, we must continue our quest for the Hand Grenade of Antioch. Come, Patsy.}
+
+#added by killap - RP 1.3
+{300}{}{Our quest has been fulfilled!}
+{301}{}{Arthur, at your service.}
+

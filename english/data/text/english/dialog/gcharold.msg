@@ -3,7 +3,7 @@
 {102}{}{You see a very old but still spry-looking ghoul.}
 
 {103}{hld1a}{I gotta tell ya, ol' Harold's a bit slow on the draw hisself. The two of us talkin' wouldn't get a whole lot done.}
-{104}{hld1b}{Ahh, ain't you cute.  I just don't have time to try understanding ya right now.}
+{104}{hld1b}{Ahh, ain't you cute. I just don't have time to try understanding ya right now.}
 {105}{hld1c}{Heh heh, ain't you a kick. }
 
 {106}{hld2a}{Hello there, smoothskin. The name's Harold. I help keep this town running.}
@@ -51,7 +51,7 @@
 {140}{hld7}{Uh, yeah, that would be bad. Now, I got things fixed up in time, but we came close to the end there. They need someone to watch out for 'em.}
 {141}{}{Good thing you're here to help them.}
 
-{142}{hld8}{Who'd a thought I'd be making things right?  Although if we don't get a Hydroelectric Magnetosphere Regulator pretty damn quick, there is gonna be trouble.}
+{142}{hld8}{Who'd a thought I'd be making things right? Although if we don't get a Hydroelectric Magnetosphere Regulator pretty damn quick, there is gonna be trouble.}
 {143}{}{What the hell is Hydra-magna-whateveraltor?}
 {144}{}{Hmm, sounds like a real problem all right. Let me ask you something else.}
 {145}{}{Trouble? What kind of trouble?}
@@ -68,7 +68,7 @@
 {154}{}{Happy to help. Let me ask you about something else though.}
 {155}{}{Well, all in a day's work really. I need to be going now, though. People to save, monsters to slay, disasters to avert, you know, all that sort of thing. Goodbye.}
 
-{156}{hld14}{You cut with the dull edge of the knife, don't ya?  You don't look like an orange peel left in the sun all day. Your skin's still soft and purty. }
+{156}{hld14}{You cut with the dull edge of the knife, don't ya? You don't look like an orange peel left in the sun all day. Your skin's still soft and purty. }
 {157}{}{Got me there. I'll try to make my next question a little more worthwhile.}
 {158}{}{Oh. Yeah. Hey, let me ask you something else.}
 {159}{}{You just better not be getting any funny ideas about my soft skin.}

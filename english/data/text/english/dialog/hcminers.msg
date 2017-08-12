@@ -16,7 +16,7 @@
 {111}{}{I said I can't help you! Go away and pester someone else!}
 
 {112}{}{What's there to do? Well, the mine's shut down because we haven't got an air purifier that
- works. There's the saloon. There's the caravaneers, and there's the general store.  That's about it.
+ works. There's the saloon. There's the caravaneers, and there's the general store. That's about it.
  Wait… what were we talking about?}
 {113}{}{Who do I talk to about the mine?}
 {114}{}{Where's the saloon?}
@@ -24,7 +24,7 @@
 {116}{}{Where's the general store?}
 {117}{}{Thanks. Bye.}
 
-{118}{}{Just one of the miners.  Do you want someone important?}
+{118}{}{Just one of the miners. Do you want someone important?}
 {119}{}{Yes.}
 {120}{}{No.}
 {121}{}{Bye.}

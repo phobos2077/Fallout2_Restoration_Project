@@ -1,5 +1,5 @@
-{100}{}{A computer terminal}
-{101}{}{Controls the Vault-Tec organ extraction unit}
+{100}{}{A computer terminal.}
+{101}{}{Controls the Vault-Tec organ extraction unit.}
 {102}{}{You are unable to read what's on the monitor.}
 {103}{}{Welcome to Vault-Tec's state-of-the-art organ extraction apparatus. To operate, please place donor in operating room, turn dial to appropriate species, and select organ to be extracted.}
 {104}{}{Select Species}

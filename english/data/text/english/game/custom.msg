@@ -53,11 +53,11 @@
 #
 # Attack who options.
 #
-{500}{}{Whomever is attacking me}
+{500}{}{Whoever is attacking me}
 {501}{}{The strongest}
 {502}{}{The weakest}
 {503}{}{Whomever you want}
-{504}{}{Whomever is closest}
+{504}{}{Whoever is closest}
 
 #
 # Chem use options.
@@ -65,5 +65,5 @@
 {600}{}{I'm clean}
 {601}{}{Stimpacks when hurt a bit}
 {602}{}{Stimpacks when hurt a lot}
-{603}{}{Any chem some of the time}
-{604}{}{Any chem any time}
+{603}{}{Any drug some of the time}
+{604}{}{Any drug any time}

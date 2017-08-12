@@ -12,9 +12,9 @@
 {108}{}{What do you have?}
 {109}{}{Never mind.}
 {110}{}{Ug.}
-{111}{}{Here's what I got:}
-{112}{}{regular gecko pelts.}
-{113}{}{golden gecko pelts.}
+{111}{}{Here's what I got: }
+{112}{}{ regular gecko pelts.}
+{113}{}{ golden gecko pelts.}
 {114}{}{I'll take all you got.}
 {115}{}{Maybe next time. Bye.}
 {116}{}{Nice doing business with ya. See you around.}
@@ -46,3 +46,7 @@
 {136}{}{OK, warden. You win.}
 {137}{}{Lucky for you, I have to go check my traps.}
 {138}{}{I think I hear Mom callin' me.}
+
+{140}{}{Looks like I don't have any regular gecko pelts, but I do have }
+{141}{}{Looks like I don't have any golden gecko pelts, but I do have }
+{142}{}{Sorry, looks like I'm all out of stock.}

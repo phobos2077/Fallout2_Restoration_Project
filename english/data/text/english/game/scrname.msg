@@ -285,8 +285,8 @@
 {367}{}{Goo}                            # ATGoo.int       ; Goo in the Garden Map
 {368}{}{Door}                           # KSCVDoor.int    ; Door in Klamath Rat Caves
 {369}{}{Door}                           # KSMalldr.int    ; Door in Klamall..get key from Slim or Dog
-{370}{}{}                               # ZCGecko.int     ; Generic gecko
-{371}{}{}                               # ZCLGecko.int    ; Generic Golden Gecko
+{370}{}{}                          # ZCGecko.int     ; Generic gecko
+{371}{}{}                   # ZCLGecko.int    ; Generic Golden Gecko
 {372}{}{Map Script}                     # 2ndSt.int       ; 2nd Street Map Script
 {373}{}{Map Script}                     # ChopShop.int    ; Chop Shop Map Script
 {374}{}{Map Script}                     # GeckPwpl.int    ; Gecko Power Plant Map Script
@@ -434,7 +434,7 @@
 {516}{}{Three Card Monte}               # nc3Monte.int    ; New Reno Three Card Monte
 {517}{}{Algernon}                       # ncAlgern.int    ; New Reno Algernon
 {518}{}{Bill}                           # ncBill .int     ; New Reno Bill (Trees Lounge)
-{519}{}{Bishop's Bodyguard}             # ncBisGrd.int    ; New Reno Bishop's Bodyguards
+{519}{}{Bodyguard}                      # ncBisGrd.int    ; New Reno Bishop's Bodyguards
 {520}{}{John Bishop}                    # ncBishop.int    ; New Reno John Bishop
 {521}{}{Casino Machine}                 # niCasMac.int    ; New Reno Casino Machine
 {522}{}{Chop Shop Boy}                  # ncChpBoy.int    ; New Reno Chop Shop Boys
@@ -771,7 +771,7 @@
 {853}{}{Shi Lab Tech}                   # FCslabte.int    ; San Fran Shi Lab techs
 {854}{}{Child}                          # FCSkids.int     ; San Fran Shi Kids
 {855}{}{Ghoul}                          # GCWander.int    ; wandering ghouls in Gecko
-{856}{}{Dr. Fung}                        # FCDrFung.int    ; San Fran Dr Fung
+{856}{}{Dr. Fung}                       # FCDrFung.int    ; San Fran Dr Fung
 {857}{}{Jul}                            # OCJul.int       ; Vault 13 Denmother Guard
 {858}{}{Kerith}                         # OCKerith.int    ; Vault 13 Den Mother
 {859}{}{Chest}                          # AITemCst.int    ; Temple Chest to hold the players things
@@ -840,7 +840,7 @@
 {922}{}{Josh}                           # RCJosh.int      ; Josh Laurance of Redding
 {923}{}{Caminetto}                      # RCCamint.int    ; Caminetto in bar fight in redding
 {924}{}{Bette}                          # RCBette.int     ; Blasphemous Bette in bar fight in redding
-{925}{}{Mai Da Chiang}                  # FCGunmer.int    ; San Fran's gun Merchant
+{925}{}{Gun Merchant}                   # FCGunmer.int    ; San Fran's gun Merchant
 {926}{}{Door}                           # ZIWodDor.int    ; Generic Wooden Door
 {927}{}{Door}                           # ZIMtlDor.int    ; Generic Metal Door
 {928}{}{Emitter}                        # SSEmtN2.int     ; Emitter in NCR area 2
@@ -907,7 +907,7 @@
 {989}{}{Darrow's Stock}                 # VIDarBox.int    ; Vault City Darrow Shop Inventory
 {990}{}{Door}                           # HSCrlDr.int     ; Jail cell door for Broken Hills
 {991}{}{Super Duper Mutant}             # ecTlkMut.int    ; Military Base Conversation Mutants
-{992}{}{Dr. Jing Tie Gahng}             # fcChemst.int    ; Chemist in San Francisco
+{992}{}{Chemist}                        # fcChemst.int    ; Chemist in San Francisco
 {993}{}{Grundel}                        # ecGrunde.int    ; Military Base Mouse Hunter
 {994}{}{Melchior Jr.}                   # ecMelKid.int    ; Some Town USA, Melchior's Kid
 {995}{}{Retinal Scanner}                # WIRetScn.int    ; Retinal Scanner in the Sieera Base
@@ -941,7 +941,7 @@
 {1023}{}{Computer Terminal}             # FSBioSta.int    ; Biology computer station in San Fran
 {1024}{}{Computer Terminal}             # FSCheSta.int    ; Chemistry computer station in San Fran
 {1025}{}{Lao Chou}                      # FCLaoCho.int    ; Merchant in San Fran
-{1026}{}{}                              # FIPaper.int     ; Scrap Papers that combine should only be put on one of the peaces.
+{1026}{}{}                              # FIPaper.int     ; Scrap Papers that combine should only be put on one of thepeaces.
 {1027}{}{Ventilation Shaft}             # CSVent.int      ; Ventilation shaft for Navarro
 {1028}{}{Map Script}                    # EncTrp.int      ; Map Script for Enclave Trap Rooms
 {1029}{}{Dead Body}                     # HtBody.int      ; Script for dead bodies in Broken Hills
@@ -982,7 +982,7 @@
 {1064}{}{Map Script}                    # KlaTrap.int     ; Map Script for Klamath Still area
 {1065}{}{Lydia}                         # VCDwnBar.int    ; Vault City Downtown Bartender
 {1066}{}{}                              # RedDTun.int     ; Redding Downtown Tunnels
-{1067}{}{Harry the Rocketman}           # FCRocMan.int    ; Rocket man in San Fran
+{1067}{}{Rocketman}                     # FCRocMan.int    ; Rocket man in San Fran
 {1068}{}{AHS-7}                         # FCOz7.int       ; Oz 7 in San Fran
 {1069}{}{Crockett}                      # FCCrocke.int    ; Crockett in San Fran
 {1070}{}{Amanda}                        # VCAmanda.int    ; Vault City Coutryard Amanda, Joshua's Wife
@@ -1004,7 +1004,7 @@
 {1086}{}{Wanted Sign}                   # ZSWsign.int     ; Generic Wanted Sign
 {1087}{}{Dr. Wong}                      # FCDrWong.int    ; Dr. Wong in San Fran area
 {1088}{}{Table}                         # FIlaotbl.int    ; Lao Cho's stock tables in san Fran
-{1089}{}{Door}                          # WILv1Dor.int    ; Locked Door on Level 1 Entrance               # local_vars=8
+{1089}{}{Door}                          # WILv1Dor.int    ; Locked Door on Level 1 Entrance         # local_vars=8
 {1090}{}{Punk}                          # FCFemPnk.int    ; San Fran Female punk
 {1091}{}{Punk}                          # FCMalPnk.int    ; San Fran Male Punk
 {1092}{}{Ryan}                          # FCRyan.int      ; San Fran Punk Ryan
@@ -1072,8 +1072,8 @@
 {1154}{}{Quincy}                        # CcQuincy.int    ; Quincy in Navarro
 {1155}{}{Quartermaster}                 # CcQmstr.int     ; Quartermaster in Navarro
 {1156}{}{Guard}                         # CcMedGrd.int    ; Med Lab Guard in Navarro
-{1157}{}{Cybernetic Dog}                # CcK9.int        ; K9 in Navarro
-{1158}{}{Doctor Schreber}               # CcDoctor.int    ; Dr Shreber in Navarro
+{1157}{}{K-9}                           # CcK9.int        ; K9 in Navarro
+{1158}{}{Doctor}                        # CcDoctor.int    ; Dr Shreber in Navarro
 {1159}{}{Technician}                    # CcATech.int     ; Air Tech in Navarro
 {1160}{}{Technician}                    # CcACon.int      ; Air Control in Navarro
 {1161}{}{Guard}                         # CcDrGrd.int     ; Door Guard in Navarro
@@ -1117,9 +1117,9 @@
 {1199}{}{Klaxon}                        # QIKlaxon.int    ; Klaxon Lights for Enclave when under alert
 {1200}{}{Mine}                          # IIMine.int      ; Mines in Raiders Cave
 {1201}{}{Pit}                           # IIPit.int       ; Pits in the Raiders Cave
-{1202}{}{Cal}		                # FCTnkGmr.int    ; Tanker Gun Merchant San Fran
-{1203}{}{Slim}		                # FCTnkBar.int    ; Tanker Bar Tender
-{1204}{}{Jenna}		                # FCTnkMer.int    ; Tanker Merchant
+{1202}{}{Tanker Merchant}               # FCTnkGmr.int    ; Tanker Gun Merchant San Fran
+{1203}{}{Tanker Bartender}              # FCTnkBar.int    ; Tanker Bar Tender
+{1204}{}{Tanker Merchant}               # FCTnkMer.int    ; Tanker Merchant
 {1205}{}{}                              # FITGunTb.int    ; Tanker Gun Mer's table
 {1206}{}{}                              # FITMerTb.int    ; Tanker Merchant's Table
 {1207}{}{Emitter}                       # FSPemtr1.int    ; Palace Emitter 1
@@ -1145,7 +1145,7 @@
 {1227}{}{Computer}                      # ccNComp.int     ; Navarro Computer
 {1228}{}{Kohl}                          # vcKohl.int      ; Vault City Info Officer Kohl
 {1229}{}{Child}                         # ECChild.int     ; Random Encounter Children
-{1230}{}{Cookie}                        # ccCook.int      ; Navarro Cook
+{1230}{}{Cook}                          # ccCook.int      ; Navarro Cook
 {1231}{}{Turret}                        # ccTurret.int    ; Navarro Turret
 {1232}{}{Brian}                         # hcBrian.int     ; Brian, the Power Technician
 {1233}{}{Generator}                     # hiPower.int     ; Power Generator for Broken Hills
@@ -1323,5 +1323,254 @@
 {1405}{}{}                          # MIDavDor.int    ; Davin's Bedroom Door 
 {1406}{}{}                          # SIPtbox2.int    ; box where Merk hides your car trunk stuff
 {1407}{}{}                          # sfshutl1.int    ; map script to Hubologist entrance (shuttle)
-{1408}{}{}                          # patchinf.int    ; patchinf
-{1409}{}{}                          # nijjbox.int     ; Jagged Jimmy J Inventory Box
+{1408}{}{}                          # abbey.int       ; Abbey map script
+{1409}{}{}                          # abbilbox.int    ; bill's storage box
+{1410}{}{Bill}                      # abbill.int      ; Abbey Bill
+{1411}{}{}                          # abbook.int      ; Abbey library book
+{1412}{}{Child}                     # abchild.int     ; Abbey child
+{1413}{}{Death Claw}                # abdeathc.int    ; Dave's Door
+{1414}{}{Sister Elaine}             # abelaine.int    ; Dave's Door
+{1415}{}{Grave}                     # abgrave1.int    ; Dave's Door
+{1416}{}{Grave}                     # abgrave2.int    ; Dave's Door
+{1417}{}{Brother Hank}              # abhank.int      ; Dave's Door
+{1418}{}{Abbey Doctor}              # abhealer.int    ; Dave's Door
+{1419}{}{Brother John}              # abjohn.int      ; Dave's Door
+{1420}{}{Brother Max}               # abmax.int       ; Dave's Door
+{1421}{}{Merchant}                  # abmerch1.int    ; Dave's Door
+{1422}{}{Merchant}                  # abmerch2.int    ; Dave's Door
+{1423}{}{Merchant Guard}            # abmergrd.int    ; Dave's Door
+{1424}{}{Mrs. Peterson}             # abmsptsn.int    ; Dave's Door
+{1425}{}{Abbey citizen}             # abpeople.int    ; Dave's Door
+{1426}{}{Mr. Peterson}              # abpetson.int    ; Dave's Door
+{1427}{}{Water Pump}                # abpump.int      ; Dave's Door
+{1428}{}{Brother Samuel}            # absamuel.int    ; Dave's Door
+{1429}{}{Abbey citizen}             # abstand.int     ; Dave's Door
+{1430}{}{Brother Thomas}            # abthomas.int    ; Dave's Door
+{1431}{}{Tom}                       # abtom.int       ; Dave's Door
+{1432}{}{Abbey computer}            # acompu.int      ; Dave's Door
+{1433}{}{Abbey Head Monk}           # ahmonk.int      ; Dave's Door
+{1434}{}{Abbey monk}                # amonk1.int      ; Dave's Door
+{1435}{}{Abbey monk}                # amonk2.int      ; Dave's Door
+{1436}{}{Abbey monk}                # amonk3.int      ; Dave's Door
+{1437}{}{Abbey monk}                # amonk4.int      ; Dave's Door
+{1438}{}{Brother Paul}              # amonk5.int      ; Dave's Door
+{1439}{}{Tribal}                    # atribal.int     ; Dave's Door
+{1440}{}{Brother Matthew}           # abmatt.int      ; Abbey Matthew
+{1441}{}{map}                           # vill.int      ; Vault Village map script
+{1442}{}{Mole Rat}                      # zclvillrat.int      ; Vault Village Monster
+{1443}{}{Ann}                           # vilann.int      ; Ann in Village
+{1444}{}{Head Warrior}                  # tribec1.int     ; script for head warrior
+{1445}{}{Marli}                         # tribec2.int     ; Script for Marli at well in tribe
+{1446}{}{Villagers}                     # tribec3.int     ; script for random people in tribe
+{1447}{}{Shaman}                        # tribec4.int     ; script for tribe shaman
+{1448}{}{Ghost}                         # tribec5.int     ; script for ghost in tribe
+{1449}{}{Tribal}                        # tribec6.int     ; man outside tent for sulik's sister.
+{1450}{}{Kurisu}                        # tribec7.int     ; sulik's sister script
+{1451}{}{Well}                          # tribei1.int     ; script for well in tribe
+{1452}{}{Tribe map}                     # tribem1.int     ; map script for tribe
+{1453}{}{Tribal}                        # tribec8.int     ; tribal fishermen/women
+{1454}{}{Serin}                         # tribec9.int     ; Missing Tribal (Serin)
+{1455}{}{Tribe map2}                    # tribem2.int     ; Primitive Tribe Map 2
+{1456}{}{Tribe map 2 - spacial 1}       # tribesp1.int    ; cave entrance spacial
+{1457}{}{Tribe map 2 - spacial 2}       # tribesp2.int    ; cavein spacial
+{1458}{}{Gecko}                         # tribec10.int    ; Gecko in Tribe Cave
+{1459}{}{Cave Guard}                    # tribec11.int    ; Tribal guarding entrance to cave
+{1460}{}{dead body}                     # tribec5a.int    ; Nessa's dead body
+{1461}{}{woods spacial}                 # tribesp3.int    ; spacial to trigger seeing the ghost
+{1462}{}{Don}                           # slvcc1.int      ; Head of Slaver Camp
+{1463}{}{Slaver}                        # slvcc2.int      ; Guards at Slaver Camp
+{1464}{}{map script}                    # slvcm1.int      ; Map Script to Slaver's Camp
+{1465}{}{Dog}                           # slvcc3.int      ; guard dog on Slaver Map
+{1466}{}{Slaver}                        # slvcc5.int      ; Slaver on patrol
+{1467}{}{Slave}                         # slvcc4.int      ; slaves at Slaver Camp
+{1468}{}{slavepen door}                 # slvco1.int      ; script to locked slavepen door
+{1469}{}{Shelf}                         # hicdshlf.int    ; Chad's Shelf in BH map 2
+{1470}{}{Door}                          # hichaddr.int    ; Door to Chad's house in BH 2
+{1471}{}{Little Bobby}                  # dclilbby.int      ; Abused boy in Den Residential
+{1472}{}{Little Bobby's Father}         # dclbfthr.int    ; Drunken Father of Bobby
+{1473}{}{Squatter}                      # dcaddct2.int    ; Addicts who live in building which will become the orphanage
+{1474}{}{Drug Dealer}                   # dcdealer.int    ; Dealer/Body guard in Den Residential
+{1475}{}{Den Resident}                  # dcpeasnt.int    ; Citizen of Den Residential
+{1476}{}{Orphan}                        # dcorphn2.int    ; Orphan living at the Orphanage
+{1477}{}{Peasant}                       # dcpesnt2.int    ; Peasant 2 of Den Residential
+{1478}{}{map script}                    # gcenclen.int    ; Enclave Verti Encounter near Gecko
+{1479}{}{Enclave Guard}                 # gcenc.int       ; gecko enclave patrol guard
+{1480}{}{Enclave Guard}                 # gcenc2.int      ; gecko enclave patrol leader
+{1481}{}{safe}                          # hisafe.int      ; safe at hubologist stash
+{1482}{}{guard}                         # hcdorgrd.int    ; Door Guard at Hub Stash
+{1483}{}{Hubologist}                    # hcstldr.int     ; Leader at the Hub Stash
+{1484}{}{Hubologist Guard}              # hcguard.int     ; generic Hub stash guard
+{1485}{}{Hubologist Guard}              # hcguard2.int    ; generic Hub stash guard
+{1486}{}{Metal Door}                    # himndor.int     ; Main Door to Hubologist Stash
+{1487}{}{map script}                    # hubstash.int    ; Map script to Hubologist Stash
+{1488}{}{container script}              # hicontnr.int    ; script to containers in Hub Stash
+{1489}{}{Brahmin}                       # kcdunbra.int    ; Dunton's brahmin in Klamath
+{1490}{}{door}                          # slvco2.int      ; door to slave holding (not the pen)
+{1491}{}{gate}                          # slvco3.int      ; script to gate of big slave pen at slavers camp
+{1492}{}{Tribal Chief}                  # tribec12.int    ; Chief to primitive tribe
+{1493}{}{Barking Man}                   # ncbrkmn.int     ; Barking man in New Reno
+{1494}{}{epax map script}               # epa1.int        ; EPA Map Script (epax.map)
+{1495}{}{EPA MAIN}                      # epa2.int        ; SubLevels Map
+{1496}{}{EPA Secret Level}              # epa3.int        ; EPA Secret Level
+{1497}{}{Mr. handy Robot}               # epac1.int       ; Script for depressed Mr Handy
+{1498}{}{Hologram 00000}                # epac2.int       ; Hologram 00000 script
+{1499}{}{The Brave Little Toaster}      # epac3.int       ; Talking Toaster
+{1500}{}{Hologram 10001}                # epac4.int       ; Script for Hologram 10001
+{1501}{}{Hologram 12001}                # epac5.int       ; Script Hologram 12001
+{1502}{}{Hologram 10031}                # epac6.int       ; Script for Hologram 10031
+{1503}{}{Hologram 40011}                # epac7.int       ; Script for Hologram 40011
+{1504}{}{EPA plant}                     # epac8.int       ; Script for EPA Plants
+{1505}{}{Mr. Chemmie!}                  # epac9.int       ; Script for crafting computer
+{1506}{}{Dex}                           # epac10.int      ; Script for Diplomatic/Evil player
+{1507}{}{Cat Jules}                     # epac11.int      ; Script for combat char from the vats
+{1508}{}{Kitsune}                       # epac12.int      ; Script for Stealth Character
+{1509}{}{Warrior}                       # epac13.int      ; Doctor's personal bodyguards
+{1510}{}{Bug Spray}                     # epac14.int      ; Script for bug spray
+{1511}{}{Doctor's Prisoner}             # epac15.int      ; Script for captured tribals
+{1512}{}{Giant Ant}                     # epac16.int      ; Script for EPA ants
+{1513}{}{The Doctor}                    # epac17.int      ; Script for EPA Doctor
+{1514}{}{Fruit Fly}                     # epac18.int      ; Script for mutant fruit flies
+{1515}{}{Creature}                      # epac19.int      ; Script for doctors crestures
+{1516}{}{Robot}                         # epac20.int      ; Script for the moving robots
+{1517}{}{Robot}                         # epac21.int      ; robot script
+{1518}{}{EPA Leaflet}                   # epai1.int       ; A leaflet for the EPA
+{1519}{}{Voice Computer}                # epai2.int       ; Script for voice computer
+{1520}{}{Research Computer}             # epai3.int       ; Script for main research computer
+{1521}{}{Electric Chair Computer}       # epai4.int       ; Script for Electric Chair Computer
+{1522}{}{Electronic door}               # epai5.int       ; Script for Electronic doors
+{1523}{}{Hologram Generator}            # epai6.int       ; Script for Hologram Generator
+{1524}{}{Security Door}                 # epai7.int       ; Script for Security doors
+{1525}{}{Elevator Door}                 # epai8.int       ; Script for Elevator doors
+{1526}{}{Door}                          # epai9.int       ; Script for doors on ground level
+{1527}{}{Random Chemicals}              # epai10.int      ; Script for Random Chemicals
+{1528}{}{Fertile ground}                # epai11.int      ; script for ground in arroyo
+{1529}{}{Fertile ground}                # epai12.int      ; fertile ground 2 script
+{1530}{}{Hibernation Computer}          # epai13.int      ; Script for Hibernation Computer
+{1531}{}{Lighting Generator}            # epai14.int      ; Script for Lighting Generator
+{1532}{}{Forcefield}                    # epai15.int      ; Script for forcefield to release Holograms
+{1533}{}{Plant spray}                   # epai16.int      ; Script for Plant spray
+{1534}{}{Magnetic coil computer}        # epai17.int      ; Script for Magnetic coil computer
+{1535}{}{Forcefield}                    # epai18.int      ; Script for Forcedfield to warriors
+{1536}{}{Projection machine}            # epai19.int      ; Script for projection of Hologram00000
+{1537}{}{Door}                          # epai20.int      ; door to chemical level
+{1538}{}{computer}                      # epai21.int      ; Location Finder
+{1539}{}{Door}                          # epai22.int      ; Script for doors that look like elevators
+{1540}{}{Computer}                      # epai23.int      ; Script for computer controlling forcefields
+{1541}{}{Forcefield}                    # epai24.int      ; Script for forcefield for critters
+{1542}{}{Dynamite}                      # epai25.int      ; Script for dynamite
+{1543}{}{Dynamite Trigger}              # epai26.int      ; Script for dynamite trigger
+{1544}{}{Stuff on Desk}                 # epai27.int      ; Script for finding paper
+{1545}{}{Locker}                        # epai28.int      ; Script for passcoded locker
+{1546}{}{Spatial Script}                # epas1.int       ; Elevator Spatial Script
+{1547}{}{Spatial Script}                # epas2.int       ; Gas Level Spatial Script
+{1548}{}{Spatial Script}                # epas3.int       ; Spatial script for electric chair
+{1549}{}{Spatial Script}                # epas4.int       ; Spatial script for chemicals
+{1550}{}{Spatial Script}                # epas5.int       ; Spatial script for elevator2
+{1551}{}{Spatial Script}                # epas6.int       ; Spatial script for message about magnetic field
+{1552}{}{Spatial Script}                # epas7.int       ; Spatial script on entry to the gas areas
+{1553}{}{Spatial Script}                # epas8.int       ; Spatial script for access to vents idea
+{1554}{}{Air Conditioning Vent}         # epai29.int      ; Vent to allow player to enter vent shafts of epa
+{1555}{}{Fan}                           # epai30.int      ; Left Fan Script
+{1556}{}{Fan}                           # epai31.int      ; Right Fan Script
+{1557}{}{spatial script}                # epas2a.int      ; Fumes near Mr. Chemmie (become harmless when fans fixed)
+{1558}{}{computer terminal}             # epai32.int      ; EPA Biology Terminal
+{1559}{}{fertile ground}                # epai33.int      ; Ground where EPA seeds can be planted
+{1560}{}{spatial}                       # epas9.int       ; Spatial script for sprouted seeds
+{1561}{}{A hologram}                    # epac22.int      ; Malfunctioning hologram
+{1562}{}{spatial}                       # epas10.int      ; spatial for EPA's Air, Water, and Power Facility Level
+{1563}{}{}                              # epac23.int      ; Monster in Doctor's maze
+{1564}{}{hologram computer}             # epai34.int      ; machine controlling hologram that gives static
+{1565}{}{Child}                         # vilchild.int    ; Children at Vault Village
+{1566}{}{spatial}                       # vsraispt.int    ; spatial for catching the raiders in the act at VC
+{1567}{}{Vertibird}                     # civerti.int     ; Flyable Vertibird
+{1568}{}{computer}                      # cisactrl.int    ; Navarro Satellite control computer
+{1569}{}{spatial}                       # qsvertel.int    ; spatial for vertibird elevator at enclave
+{1570}{}{Mr. Handy}                     # qcwrkbot.int    ; Worker bot (enclave verti pad)
+{1571}{}{Nuke}                          # qinuke.int      ; Nuke at the Enclave
+{1572}{}{Well}                          # viwell.int      ; VC Courtyard Well
+{1573}{}{Well}                          # giwell.int      ; Gecko Well
+{1574}{}{}                              # patchinf.int    ; Patch Information Script
+{1575}{}{NCR Ranger}                    # scrangr.int     ; Ranger at a safe house
+{1576}{}{object name}                   # ncrngsh1.int    ; Maps script to Ranger Safe House 1
+{1577}{}{object name}                   # ncrngsh2.int    ; Maps script to Ranger Safe House 2
+{1578}{}{object name}                   # ncrngsh3.int    ; Maps script to Ranger Safe House 3
+{1579}{}{Map}                           # sirngmap.int    ; Ranger Safe House Map
+{1580}{}{NCR Ranger}                    # scatkrng.int    ; Ranger that aids you in attack on Slaver Camp
+{1581}{}{Slaver}                        # scatkslv.int    ; Slaver that aids you in attack on Ranger Safe Houses
+{1582}{}{}                              # ktcavn1.int     ; creates rubble when you destroy supports
+{1583}{}{}                              # ktcavn2.int     ; creates rubble when you destroy supports
+{1584}{}{}                              # ktcavn3.int     ; creates rubble when you destroy supports
+{1585}{}{}                              # ktcavn4.int     ; creates rubble when you destroy supports
+{1586}{}{}                              # klaratcv.int    ; Rat Caves at Klamath
+{1587}{}{}                              # rtcavn1.int     ; Creates a cave in if the support beam is destroyed
+{1588}{}{}                              # scdmymk.int     ; Dummy script for Merk and his guards
+{1589}{}{Door}                          # kivicdor.int    ; Door to Vic's house in Klamath
+{1590}{}{}                              # simrkstr.int    ; Script to stairs leading to Merk's basement
+{1591}{}{Thug}                          # dcg1grd2.int    ; Tyler's Friend (he's having the party)
+{1592}{}{trip wire}                     # witripwr.int    ; Trip Wire in SAD (level 2)
+{1593}{}{trip wire spatial}             # wstripwr.int    ; Spatial for Trip Wire in SAD (level 2)
+{1594}{}{Prostitute}                    # dcprosti.int    ; Prostitute at Tyler's Party (Den)
+{1595}{}{Goo}                           # esgoo.int       ; Goo in EPA
+{1596}{}{Spatial}                       # wstrpwr2.int    ; Spatial that trips the wire in SAD
+{1597}{}{Hibernation Chamber spatial}   # eshib.int       ; Hibernation Chamber spatial
+{1598}{}{}                              # nscody.int      ; Spatial script for Cody's death
+{1599}{}{Locker}                        # eplkr.int       ; Script controlling the lockers holding the NPC's belongings (EPA)
+{1600}{}{Map Script}                    # easter.int      ; RP Easter Egg Map Script
+{1601}{}{Modder}            		# eastereg.int    ; Script for all those who helped make the RP possible
+{1602}{}{Smoking}            		# zismoke.int     ; Script used by cigs/weed
+{1603}{}{Peeing}            		# peeing.int      ; Script for player peeing
+{1604}{}{Map Script}                    # abbasem.int     ; Abbey Basement
+{1605}{}{Map Script}                    # abundgr.int     ; Abbey Underground
+{1606}{}{Merchant}                      # tribemer.int    ; Roy the merchant
+{1607}{}{Merchant Guard}                # tribemg1.int    ; Warren - Roy's bodyguard
+{1608}{}{Merchant Guard}                # tribemg2.int     ; Second guard for Roy the Merchant
+{1609}{}{Merchant Map}                  # merchant.int     ; Map Script to Primitive Tribe Merchant Encounter
+{1610}{}{computer}                      # epai35.int      ; EPA museum computer
+{1611}{}{computer}                      # epai36.int      ; EPA petting zoo computer
+{1612}{}{auto-doc}                      # epai37.int      ; EPA Character Modification Machine
+{1613}{}{Brother Jason}                 # abjason.int     ; Angry monk at Abbey
+{1614}{}{Todd}                          # viltodd.int     ; Little Todd - Vault Village
+{1615}{}{Robert Baron}                  # vibaron.int     ; Robert Baron - Vault Village caravan provider
+{1616}{}{Guard}                         # vimergrd.int    ; Merchant Guard - Robert Baron
+{1617}{}{Crate}                         # tribei2.int     ; Crate of Stimpacks (Primitive Tribe)
+{1618}{}{Ravenous Human}                # epac24.int      ; Ravenous Humans at EPA Green Level
+{1619}{}{map}                           # vilmerch.int    ; Vault Village Merchant Map
+{1620}{}{force field panel}             # epai38.int      ; force field panel (EPA level 7)
+{1621}{}{Fan}                           # epai39.int      ; Fan to enter EPA base
+{1622}{}{Guard}                         # fcbtgrd.int     ; Shi Motor Boat Guard
+{1623}{}{Motor Boat}                    # sfmboat.int     ; Script to Motor Boat at Shi Docks
+{1624}{}{Guard}                         # fcbtech.int     ; Shi Sub Tech Guard
+{1625}{}{Junk}                          # abjunk.int      ; Abbey Junk Piles
+{1626}{}{stairs}                        # epai40.int      ; EPA Greenhouse stairs
+{1627}{}{elevator shaft}                # epai41.int      ; EPA broken elevator shaft entrance
+{1628}{}{spatial}                       # epas11.int      ; EPA elevator shaft entrance spatial
+{1629}{}{elevator shaft}                # epai42.int      ; EPA elevator shaft level 1
+{1630}{}{Locker}                        # epai43.int      ; EPA Locker with Solar Scorcher
+{1631}{}{Dock Guard}                    # fcdokgrd.int    ; Shit Guard at Motor Boat
+{1632}{}{Technician}                    # fcsbtec1.int    ; Sub Power Console Techie
+{1633}{}{Technician}                    # fcsbtec2.int    ; Sub Target Console Techie
+{1634}{}{Technician}                    # fcsbtec3.int    ; Sub Torpedo Console Techie
+{1635}{}{spatial}                       # httunnel.int    ; spatial script for Broken Hills tunnels
+{1636}{}{Dock Worker}                   # fcdkwrk2.int    ; Named Shi Dock Worker (gives info about sub)
+{1637}{}{map script}                    # sfsub.int       ; Shi Sub Map
+{1638}{}{Door}                          # fssubdr.int     ; Shi Sub Rusted Door
+{1639}{}{spatial}                       # fssubint.int    ; Shi Sub Interior Greeting Spatial
+{1640}{}{power console}                 # fcsubpwr.int    ; Shi Sub Power Console
+{1641}{}{torpedo console}               # fcsubtco.int    ; Shi Sub Torpedo Console
+{1642}{}{targeting console}             # fcsubtar.int    ; Shi Sub Targeting Console
+{1643}{}{torpedo bay}                   # fcsubtor.int    ; Shi Sub Torpedo Bay
+{1644}{}{sub hatch}                     # fcsubhat.int    ; Shi Sub Outer Hatch
+{1645}{}{Guard}                         # fcsubgrd.int    ; Shi Sub Guard
+{1646}{}{vertibird}                     # ncverti.int     ; Vertibird at Salvatore Secret Transaction
+{1647}{}{spatial}                       # fssubsp.int     ; Shi Sub Interior Text Spatial
+{1648}{}{serum}                         # epai44.int      ; Agility +1 serum at the EPA
+{1649}{}{Old Caravan Guard}             # abguard.int     ; Retired Caravan Guard
+{1650}{}{Dr. Sheng}                     # fcdrshng.int    ; Dr. Sheng
+{1651}{}{Plant Creature}                # fcplntmn.int    ; Dr. Sheng's Plant Creature
+{1652}{}{Dr. Sheng's hideout}           # sfsheng.int     ; Dr. Sheng's hideout
+{1653}{}{Door}                          # fcshngdr.int    ; Door to Dr. Sheng's laboratory
+{1654}{}{Door}                          # fcshngd2.int    ; Door to Dr. Sheng's experiments
+{1655}{}{spatial}                       # tribesp4.int    ; Spatial script upon entering the main area of Umbra Tribe
+{1656}{}{Repair Robot}                  # wcrpbot2.int    ; Sierra Base, Repair Robot (generic), level 4
+{1657}{}{Security Robot}                # wcscbot2.int    ; Sierra Base, Security Robot (generic), level 4
+{1658}{}{Door}                          # wibaydr2.int    ; Sierra Base Repair Bay Door (level 4)

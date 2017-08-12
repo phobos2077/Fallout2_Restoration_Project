@@ -50,7 +50,7 @@
 
 {138}{}{You'll be putting your weapons away now, pal.}
 
-{139}{}{You again? Do you actually need something?}
+{139}{}{You again? Do you need something?}
 {140}{}{Just looking around.}
 {141}{}{Err… no, not really.}
 {142}{}{Yeah. I'm here to talk to your prisoners.}
@@ -58,3 +58,8 @@
 
 {144}{}{You shouldn't be hanging around here. Leave now.}
 {145}{}{If I ever find out where those damn prisoners ran off to, there's gonna be hell to pay!}
+
+#added by killap - RP
+{150}{}{But… but… all right. They're out. You're accountable. I just hope you're right. Here is the...Hey, where'd my key go!? Shit, Marcus is gonna have my head if I lost that thing. Sorry, I gotta go.}
+{151}{}{All right.}
+{152}{}{I actually took that key from you. What are going to do about it?}

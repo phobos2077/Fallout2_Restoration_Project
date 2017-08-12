@@ -297,13 +297,13 @@
 #############################################################
 
 {203}{}{The door appears to be locked.}
-{204}{}{You notice a trap in the door jam.}
+{204}{}{You notice a trap in the door jamb.}
 
 # NPC finds trap
 # The following line is to be translated as:
-# NPC notices a trap in the door jam.
+# NPC notices a trap in the door jamb.
 
-{205}{}{ notices a trap in the door jam.}
+{205}{}{ notices a trap in the door jamb.}
 
 #############################################################
 #  Setting traps on a door and whether the door is open or  #

@@ -212,6 +212,7 @@
 {471}{}{Sounds like good advice. I'll be careful. Let me ask you something, though.}
 {472}{}{I think they've got the right idea. Just a little genetic cleansing. I hope they start with you.
  Goodbye.}
+{473}{}{Well, right now they're pretty crazed about the village nearby. Do you know anything about this?}
 
 {480}{}{'Bout the only way us ghouls are going to get an even break is when we're toting a harp of our
  own.}
@@ -287,7 +288,7 @@
 {716}{}{Hmmm...Say, maybe you should call it a day and put those Tragic cards away. I think you have played enough for today.}
 {717}{}{NEVER! BRING FORTH THE GARNERING!}
 {718}{}{MOOAHAHAHAH!!! I AM VICTORIOUS!}
-{719}{}{NOO!! HOW COULD I HAVE LOST!?  Ahhhgghhhgh.}
+{719}{}{NOO!! HOW COULD I HAVE LOST!? Ahhhgghhhgh.}
 {720}{}{Yeah...just can't seem to stop. Just one more game...}
 
 
@@ -304,3 +305,8 @@
 
 {731}{}{Alright, done. Anything else?}
 {732}{}{Yeah, another round for everyone.}
+
+{740}{}{Heh, yeah I heard those assholes are getting attacked by molerats who're protecting those smoothskins. Serves 'em right for fucking with other people's
+ business. I don't really know much more than that though. Lumpy over in the junkyard might know more. That smoothskin's always hearing things.}
+{741}{}{Thanks for the information. Bye.}
+{742}{}{Good to know. Let me ask you something else.}

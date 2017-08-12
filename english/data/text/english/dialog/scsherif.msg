@@ -19,7 +19,7 @@
 {118}{}{President Tandi?}
 {119}{}{Great. Just my luck. Thanks.}
 {120}{}{Listen, I lead a clean and wholesome life! I don't have GECK or anything else.}
-{121}{}{So-rry! What do you know about Vault 13?}
+{121}{}{So-rry! I don't suppose you know where Vault 13 is?}
 {122}{}{We'll just forget I asked. I'll leave you alone now.}
 {123}{}{I can think of a couple of things, if you're really interested.}
 {124}{}{You're joking right? After what you did with Jack? I suppose you could find some steady work.}

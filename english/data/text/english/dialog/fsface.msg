@@ -104,7 +104,7 @@
 {203}{}{I am ACE, an Artificial Conscious Entity. I am more than machine but not as highly developed as a true artificial intelligence.}
 {204}{}{Uh... What artificial intelligence?}
 {205}{}{Is a true AI possible or are you the state of the art at this time?}
-{206}{}{It is a machine with the same free will and sense of  'I am' that a human has.}
+{206}{}{It is a machine with the same free will and sense of 'I am' that a human has.}
 {207}{}{Can be done? Machine think human?}
 {208}{}{A true artificial intelligence is possible. A few such systems were completed for military purposes. The project was discontinued.}
 {209}{}{Why?}

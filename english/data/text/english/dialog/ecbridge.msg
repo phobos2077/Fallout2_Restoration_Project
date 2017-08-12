@@ -71,7 +71,7 @@
 {164}{}{Right. Off you go.}
 {165}{}{Fank u}
 {166}{}{Goodie}
-{167}{}{Oh, thank you.  Thank you very much.}
+{167}{}{Oh, thank you. Thank you very much.}
 {168}{}{I don't know that!}
 {169}{}{Player is disintegrated.}
 {170}{}{Heh-heh.}

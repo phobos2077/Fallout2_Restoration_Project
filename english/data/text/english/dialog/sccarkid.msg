@@ -15,7 +15,7 @@
 {114}{}{He's inside. In his office. He's always in there.}
 {115}{}{Where's his office?}
 {116}{}{Okay. Thanks.}
-{117}{}{By the water tank. I play over there sometimes.  I peek on him while he's working.}
+{117}{}{By the water tank. I play over there sometimes. I peek on him while he's working.}
 {118}{}{You're an annoying little brat, aren't you?}
 {119}{}{Thanks kid, you've been a big help.}
 {120}{}{You're not a nice man, you're a bad man! I'm going to go tell my daddy!}

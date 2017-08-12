@@ -83,3 +83,34 @@
 {168}{}{Now he's paranoid. He believes that Tandi is out to get him. He's obsessed with revenge, and he
  wants Tandi dead. He's riddled with guilt 'cause he hid and lived, rather than dying with his
  gang... and the list goes on and on.}
+
+#added by killap - RP Project 
+{200}{}{Darion is dead.}
+{201}{}{Dar-e-on dead.}
+{202}{}{He is!? Oh, this is wonderful news.}
+{203}{}{What are you going to do now?}
+{204}{}{What yoo do?}
+{205}{}{Well, I see no reason to return to my old life. The town above us doesn't have any medical assistance, so I think
+ I will go up and help them. Thank you again for freeing me.}
+{206}{}{Of course. See you later.}
+{207}{}{Bye!}
+
+{210}{}{I still need to pack a few things. I'll see you on the outside.}
+
+{220}{}{Hey there, good to see you again! Everyone here really appreciates what you have done. I personally am glad
+ to be out of there. Working for Darion was a nightmare.}
+{221}{}{Glad I could help. So, tell me a little bit more about yourself.}
+{222}{}{Alright, see you around.}
+
+{230}{}{Well you see, I'm originally from the New California Republic, but I realized I had a gift for medical practices.
+ So I trained as much as I could under the NCR medical staff, and once I had learned all I could, I decided to try and
+ learn more by making my way to Vault City. I was lucky enough to meet Dr. Troy while he was tending an injured citizen
+ outside the vault, and long story short, he agreed to finalize my training in Vault City. I had just finished my training
+ and was heading out when Darion captured me.}
+{231}{}{That's terrible. Well, I hope everything works out for you now.}
+
+{240}{}{I hope so too. I think I can put my medical skills to good use here.}
+{241}{}{Bye.}
+
+{250}{}{Thanks again for everything.}
+{251}{}{It feels good to be helping civilized people again.}

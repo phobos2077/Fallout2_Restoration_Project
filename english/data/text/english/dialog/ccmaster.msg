@@ -7,7 +7,7 @@
 
 {104}{}{What the- <zzzzaaark!>>}
 
-{105}{}{(So, Sarge sent you. Something about needing power armor.  Well, all I got is one in for
+{105}{}{(So, Sarge sent you. Something about needing power armor. Well, all I got is one in for
  maintenance. Might have a few problems still, so take it easy. Just sign here.)}
 {106}{}{Uh… Could you repeat that?}
 {107}{}{I think there's something wrong with your suit.}

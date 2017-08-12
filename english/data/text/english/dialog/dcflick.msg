@@ -47,7 +47,7 @@
 {303}{}{Ah, I see. Well, I don't want to cramp your, uh, style. Goodbye.}
 
 # 8. They bring you things? (7)
-{315}{}{They bring me stuff what they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
+{315}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
 {316}{}{Sounds like a nice arrangement.}
 
 # 9. Nice arrangement (8)
@@ -82,3 +82,45 @@
 {402}{}{Thanks, now what about Momma?}
 {403}{}{Thanks. Let me ask you something else.}
 {404}{}{Thanks, that's all I need to know. Goodbye.}
+
+
+#killap - expansion
+{410}{}{Well fuck me sideways, look who came by. The good samaritan who "saved the children" decided to grace me with his presence.
+ You know, I'm a good Samurai-itan guy myself -- providin' fer them little paisanos and all. That is, until you came along and made that
+ fuckin' orphanage idea a reality.}
+{411}{}{Well fuck me sideways, look who came by. The good samaritan who "saved the children" decided to grace me with her presence.
+ You know, I'm a good Samurai-itan guy myself -- providin' fer them little paisanos and all. That is, until you came along and made that
+ fuckin' orphanage idea a reality.}
+{412}{}{You provide little pianos?}
+{413}{}{You sound like you don't like the fact that the children are no longer roaming the streets.}
+
+{420}{}{Hey, don't get me wrong. Life on the street is tough fer them kids, but it's the end of our little arrangement that gets me down.}
+{421}{}{What arrangement?}
+{422}{}{You mean them pickpocketing from people and bringing the items to you to sell.}
+
+{430}{}{Don't you get smart with me asshole. The kids bring me items they *find.* I don't know where they get them and frankly, I don't give a fuck.}
+{431}{}{Right.}
+{432}{}{You're full of it. I'm sick of skum like you who use people for their own benefit. Time to die!}
+
+{440}{}{Pai-san-o, you know, the kids. My kids.}
+{441}{}{And you have an arrangement with them?}
+
+{450}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
+{451}{}{Sounds like a nice arrangement.}
+
+{460}{}{Yeah...business was good 'til you came along. See, yer little stunt's gonna cost me. My business is gonna suffer thanks to you.
+ Because of this, I don't really like you too much. In fact, I fuckin' hate you. But, I'm a business man, so if you need to barter,
+ get to it. If not, fuck off.}
+{461}{}{Alright, let's see what you have in stock then.}
+{462}{}{I think I have all I need. Goodbye.}
+{463}{}{I think I'll stay...and kick your ass.}
+
+{470}{}{You again? You better be here to make some good trades, 'cause I'm getting real fuckin' sick of looking at you.
+ In fact, I vomit in my mouth a little every time I see yer face. That's how much you disgust me. And if yer not here to
+ trade, then I suggest you turn around and walk the fuck outta here.}
+{471}{}{Let's trade.}
+{472}{}{Just checking. Well, goodbye Flick.}
+
+{480}{}{You done wastin' my time?}
+{481}{}{Let me take another look.}
+{482}{}{That should do it. Goodbye Flick.}

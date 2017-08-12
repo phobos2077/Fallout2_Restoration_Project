@@ -103,3 +103,16 @@
 {310}{}{Very well. Return to me if you change your mind.}
 {311}{}{Me thank you, Cameron.}
 {312}{}{Thanks, Cameron. I will remember your offer.}
+
+#added by killap - expansion
+{400}{}{Do you ever think about stepping down from your position as the Temple's final trial? I mean, it can be pretty risky.}
+{401}{}{Life is a constant series of risks, Chosen One. With each new dawn, every one of us takes a risk simply by stepping from our homes to greet the unknown day. Why do you ask?}
+{402}{}{No reason. I'll talk with you later, Cameron.}
+{403}{}{Well, I was just thinking about what happened to your predecessor, you know, during his battle with... uh, "He-Who-Must-Not-Be-Named".}
+
+{410}{}{Ah, that was a dark day, indeed, for our tribe lost two good men: one in body, the other in spirit. But the foul deed of that day is no concern of mine. My time will come when the Gods deem it so.}
+{411}{}{And may that day be a long time coming. Good day, Cameron.}
+{412}{}{Are they even going to have other people attempt the Temple? Hasn't it already been determined that I'm the Chosen One?}
+
+{420}{}{There will always be a need to test the might of our people. And I take great honor in doing my part.}
+{421}{}{Alright, I'll see you later, Cameron.}

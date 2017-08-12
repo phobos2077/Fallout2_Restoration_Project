@@ -1,6 +1,6 @@
 {100}{}{You see a sad, older man.}
 {101}{}{You see Dave, "Mr. Depression."}
-{102}{}{You see a grumpy, older man in his early sixties.  He has a weathered face and looks as if he
+{102}{}{You see a grumpy, older man in his early sixties. He has a weathered face and looks as if he
  has had his fair share of abuse.}
 {103}{}{Oh. I didn't see you standing there.}
 {104}{}{How not see? Me big.}
@@ -15,9 +15,9 @@
 {113}{}{Like what?}
 {114}{}{Nice attitude. What caused it?}
 {115}{}{I can tell I want to be elsewhere.}
-{116}{}{I was born two months premature.  When I was one, I was dropped on the porch. When I was two, I
+{116}{}{I was born two months premature. When I was one, I was dropped on the porch. When I was two, I
  had pneumonia. When I was three, I got the chicken pox. When I was four, I fell down the stairs and broke
- six ribs. When I was five, my uncle was decapitated by a watermelon.  When I was six, my parents hit me
+ six ribs. When I was five, my uncle was decapitated by a watermelon. When I was six, my parents hit me
  in the head with a shovel. When I was seven, I lost my right index finger to my pet rat.}
 {117}{}{Uh, me hear someone call. Bye!}
 {118}{}{Sorry things bad.}
@@ -39,7 +39,7 @@
 {131}{}{You no talk no more. Me go.}
 {132}{}{I don't want to hear anymore. I've got to get out of here and away from you. Bye.}
 {133}{}{Please tell me that you don't have any children.}
-{134}{}{Nope.  When I turned twenty-two this strange fungus started to grow on my test...}
+{134}{}{Nope. When I turned twenty-two this strange fungus started to grow on my test...}
 {135}{}{Arrg! You talk no more! Me go!}
 {136}{}{Stop! I don't want to know!}
 {137}{}{Oh. Hi. What can I do for you?}

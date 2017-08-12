@@ -154,6 +154,7 @@
 {253}{}{I've found the cause of Redding's slowed shipments.}
 {254}{}{I found the raiders' camp.}
 {255}{}{I found the raiders' camp and wiped them out.}
+{1255}{}{I found the raiders' camp and convinced their guide to not help them. They won't be able to find their way without him.}
 {256}{}{What can you tell me about your leader?}
 {257}{}{Nothing today, thanks.}
 {258}{}{Nothing more today, thanks.}
@@ -219,6 +220,7 @@
 {313}{}{Recently we have experienced a rash of particularly brutal raider attacks. We have had attacks in
  the past, but nothing like this. I fear these raiders might eventually breach our laser turret defenses.}
 {314}{}{You won't have to worry about those raiders anymore. I wiped them out.}
+{1314}{}{You won't have to worry about those raiders anymore. I convinced their guide to leave and without his help, they will never find their way through the mountains.}
 {315}{}{Can you tell me anything else about these raiders?}
 {316}{}{Uh, sorry to hear it. What was that you said about the NCR?}
 {317}{}{What troubles is Vault City having with Gecko?}

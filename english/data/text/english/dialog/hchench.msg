@@ -18,3 +18,69 @@
 {117}{}{Patrol, patrol, patrol... all I ever do around here.}
 {118}{}{I think I need a nap.}
 {119}{}{I deserve a raise. This is hazardous duty.}
+
+{200}{}{Help you?}
+{201}{}{Yes, I'm looking for the caravan master.}
+{202}{}{I was wondering if I could ask you a few questions about Chad.}
+{203}{}{Who are you?}
+{204}{}{No, thanks.}
+{205}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He is inside that building over there.}
+{2050}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He's the one wearing a hat, right over there.}
+{206}{}{I have some more questions.}
+{207}{}{Thanks. Bye.}
+#About Chad...
+{208}{}{You got questions, maybe I got answers. Whaddya wanna know?}
+{209}{}{What's he like?}
+{210}{}{Can he be trusted?}
+{211}{}{Where does he get his money?}
+{212}{}{What's his history?}
+{213}{}{Forget it. See you later.}
+
+{214}{}{Me? I'm }
+{215}{}{. I'm a guard for Bill's caravans. Anything else?}
+
+{216}{}{What's he like? Well, he's friendly, but abrasive. He's a good boss, and usually fair to us. He
+ doesn't treat us badly or anything, if that's what you mean. Any more questions?}
+{217}{}{Well, he's a little shady, I guess… but then, so are most people these days. Any other questions?}
+{218}{}{I always kind of assumed he'd brought it with him -- and plenty of it, at that. It's not the
+ sort of thing you ask a guy, you know. Any more questions?}
+{219}{}{I have no idea what his history is. I mean, just about all of us caravan guards are drifters
+ who came here for the job. Figure he's another one who had to vacate someplace else in a hurry. Any
+ more questions?}
+{220}{}{Yes.}
+{221}{}{No.}
+{222}{}{All right. See ya, then.}
+{223}{}{Bye.}
+
+{300}{}{Hatch}
+{301}{}{Stark}
+{302}{}{Darin}
+{303}{}{Michael}
+{304}{}{Harry}
+{305}{}{Jake}
+{306}{}{Matt}
+{307}{}{Ted}
+{308}{}{Clay}
+{309}{}{Scott}
+{310}{}{Prentiss}
+{311}{}{Eddie}
+{312}{}{John}
+{313}{}{Max}
+
+{400}{}{Tawni}
+{401}{}{Kim}
+{402}{}{Urs}
+{403}{}{Susan}
+{404}{}{Cindy}
+{405}{}{Jen}
+{406}{}{Lisa}
+{407}{}{Buffy}
+{408}{}{Heather}
+{409}{}{Cathy}
+{410}{}{Lori}
+{411}{}{Mary}
+{412}{}{Julie}
+{413}{}{Sarah}
+
+{450}{}{You see }
+{451}{}{, the caravan guard.}

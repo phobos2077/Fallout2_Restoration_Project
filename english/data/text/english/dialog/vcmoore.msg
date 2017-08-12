@@ -140,7 +140,7 @@
 {209}{}{But I've learned the error of my ways!}
 {210}{}{That does it. Time to cut you open and see what you're made of...}
 {211}{}{All right then.}
-{212}{}{I have  nothing to say to one of such foul disposition. Leave.}
+{212}{}{I have nothing to say to one of such foul disposition. Leave.}
 {213}{}{You want foul disposition? I'll SHOW you foul disposition...}
 {214}{}{I've seen the error of my ways. I've come to repent and hear the word!}
 {215}{}{My heart was torn because of the thought of man's inhumanity to man!}

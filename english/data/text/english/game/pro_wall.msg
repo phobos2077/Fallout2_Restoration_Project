@@ -1542,27 +1542,27 @@
 {152800}{}{Doorway}
 {152900}{}{Doorway}
 {153000}{}{Doorway}
-{153100}{}{Shuttle Wall}
-{153200}{}{Shuttle Wall}
-{153300}{}{Shuttle Wall}
-{153400}{}{Shuttle Wall}
-{153500}{}{Shuttle Wall}
-{153600}{}{Shuttle Wall}
-{153700}{}{Shuttle Wall}
-{153800}{}{Shuttle Wall}
-{153900}{}{Shuttle Wall}
-{154000}{}{Shuttle Wall}
-{154100}{}{Shuttle Wall}
-{154200}{}{Shuttle Wall}
-{154300}{}{Shuttle Wall}
-{154400}{}{Shuttle Wall}
-{154500}{}{Shuttle Wall}
-{154600}{}{Shuttle Wall}
-{154700}{}{Shuttle Wall}
-{154800}{}{Shuttle Wall}
-{154900}{}{Shuttle Wall}
-{155000}{}{Shuttle Wall}
-{155100}{}{Shuttle Wall}
+{153100}{}{Wall}
+{153200}{}{Wall}
+{153300}{}{Stone Pillar}
+{153400}{}{Stone Pillar}
+{153500}{}{Stone Pillar}
+{153600}{}{Stone Pillar}
+{153700}{}{Stone Pillar}
+{153800}{}{Wall}
+{153900}{}{Wall}
+{154000}{}{Wall}
+{154100}{}{Wall}
+{154200}{}{Wall}
+{154300}{}{Wall}
+{154400}{}{Wall}
+{154500}{}{Wall}
+{154600}{}{Wall}
+{154700}{}{Wall}
+{154800}{}{Wall}
+{154900}{}{Wall}
+{155000}{}{Wall}
+{155100}{}{Wall}
 {155200}{}{Shuttle Wall}
 {155300}{}{Forcefield Emitter}
 {155400}{}{Wall}
@@ -1645,3 +1645,312 @@
 {163100}{}{Doorway}
 {163200}{}{Doorway}
 {163300}{}{Wall}
+{163400}{}{Wall}
+{163500}{}{Wall}
+{163600}{}{Wall}
+{163700}{}{Wall}
+{163800}{}{Wall}
+{163900}{}{Wall}
+{164000}{}{Wall}
+{164100}{}{Wall}
+{164200}{}{Wall}
+{164300}{}{Wall}
+{164400}{}{Wall}
+{164500}{}{Wall}
+{164600}{}{Wall}
+{164700}{}{Wall}
+{164800}{}{Wall}
+{164900}{}{Forcefield Emitter}
+{165000}{}{Forcefield Emitter}
+{165100}{}{Forcefield Emitter}
+{165200}{}{Forcefield Emitter}
+{165300}{}{Forcefield Emitter}
+{165400}{}{Forcefield Emitter}
+{165500}{}{Forcefield Emitter}
+{165600}{}{Forcefield Emitter}
+{165700}{}{Forcefield Emitter}
+{165800}{}{Forcefield Emitter}
+{165900}{}{Forcefield Emitter}
+{166000}{}{Forcefield Emitter}
+{166100}{}{Forcefield Emitter}
+{166200}{}{Forcefield Emitter}
+{166300}{}{Forcefield Emitter}
+{166400}{}{Stone Pillar}
+{166500}{}{Stone Pillar}
+{166600}{}{Stone Pillar}
+{166700}{}{Stone Pillar}
+{166800}{}{Stone Pillar}
+{166900}{}{Wall}
+{167000}{}{Wall}
+{167100}{}{Wall}
+{167200}{}{Wall}
+{167300}{}{Wall Pillar}
+{167400}{}{Wall Pillar}
+{167500}{}{Wall Pillar}
+{167600}{}{Wall Pillar}
+{167700}{}{Wall}
+{167800}{}{Wall}
+{167900}{}{Wall}
+{168000}{}{Wall}
+{168100}{}{Wall}
+{168200}{}{Wall}
+{168300}{}{Wall}
+{168400}{}{Wall}
+{168500}{}{Wall}
+{168600}{}{Wall}
+{168700}{}{Wall}
+{168800}{}{Wall}
+{168900}{}{Wall}
+{169000}{}{Wall}
+{169100}{}{Wall}
+{169200}{}{Wall}
+{169300}{}{Wall}
+{169400}{}{Wall}
+{169500}{}{Wall}
+{169600}{}{Wall}
+{169700}{}{Wall}
+{170000}{}{Steel Wall}
+{170100}{}{Steel Wall}
+{170200}{}{Wall}
+{170300}{}{Wall}
+{170400}{}{Wall}
+{170500}{}{Wall}
+{170600}{}{Wall}
+{170700}{}{Wall}
+{170800}{}{Wall}
+{170900}{}{Wall}
+{171000}{}{Doorway}
+{171100}{}{Doorway}
+{171200}{}{Wall}
+{171300}{}{Wall}
+{171400}{}{Doorway}
+{171500}{}{Doorway}
+{171600}{}{Wall}
+{171700}{}{Wall}
+{171800}{}{Doorway}
+{171900}{}{Doorway}
+{172000}{}{Wall}
+{172100}{}{Rusty Steel Railing}
+{172200}{}{Rusty Steel Railing}
+{172300}{}{Rusty Steel Railing}
+{172400}{}{Rusty Steel Railing}
+{172500}{}{Rusty Steel Railing}
+{172600}{}{Rusty Steel Railing}
+{172700}{}{Rusty Steel Railing}
+{172800}{}{Rusty Steel Railing}
+{172900}{}{Rusty Steel Railing}
+{173000}{}{Rusty Steel Railing}
+{173100}{}{Rusty Steel Railing}
+{173200}{}{Rusty Steel Railing}
+{173300}{}{Rusty Steel Railing}
+{173400}{}{Wall}
+{173500}{}{Wall}
+{173600}{}{Wall}
+{173700}{}{Wall}
+{173800}{}{Wall}
+{173900}{}{Wall}
+{174000}{}{Wall}
+{174100}{}{Wall}
+{174200}{}{Wall}
+{174300}{}{Wall}
+{174400}{}{Wall}
+{174500}{}{Wall}
+{174600}{}{Wall}
+{174700}{}{Wall}
+{174800}{}{Wall}
+{174900}{}{Wall}
+{175000}{}{Wall}
+{175100}{}{Wall}
+{175200}{}{Wall}
+{175300}{}{Wall}
+{175400}{}{Wall}
+{175500}{}{Wall}
+{175600}{}{Pipe}
+{175700}{}{Wall}
+{175800}{}{Wall}
+{175900}{}{Wall}
+{176000}{}{Wall}
+{176100}{}{Wall}
+{176200}{}{Wall}
+{176300}{}{Wall}
+{176400}{}{Wall}
+{176500}{}{Wall}
+{176600}{}{Wall}
+{176700}{}{Wall}
+{176800}{}{Wall}
+{176900}{}{Wall}
+{177000}{}{Wall}
+{177100}{}{Wall}
+{177200}{}{Wall}
+{177300}{}{Wall}
+{177400}{}{Wall}
+{177500}{}{Wall}
+{177600}{}{Wall}
+{177700}{}{Wall}
+{177800}{}{Wall}
+{177900}{}{Wall}
+{178000}{}{Wall}
+{178100}{}{Wall}
+{178200}{}{Wall}
+{178300}{}{Wall}
+{178400}{}{Wall}
+{178500}{}{Forcefield Emitter}
+{178600}{}{Forcefield Emitter}
+{178700}{}{Rusty Steel Railing}
+{178800}{}{Wall}
+{178900}{}{Wall}
+{179000}{}{Forcefield Emitter}
+{179100}{}{Wall}
+{179200}{}{Forcefield Emitter}
+{179300}{}{Wall}
+{179400}{}{Wall}
+{179500}{}{Wall}
+{179600}{}{Hatchway}
+{179700}{}{Hatchway}
+{179800}{}{Internal Submarine Wall}
+{179900}{}{Internal Submarine Wall}
+{180000}{}{Internal Submarine Wall}
+{180100}{}{Internal Submarine Wall}
+{180200}{}{External Submarine Wall}
+{180300}{}{External Submarine Wall}
+{180400}{}{External Submarine Wall}
+{180500}{}{External Submarine Wall}
+{180600}{}{External Submarine Wall}
+{180700}{}{External Submarine Wall}
+{180800}{}{External Submarine Wall}
+{180900}{}{External Submarine Wall}
+{181000}{}{External Submarine Wall}
+{181100}{}{External Submarine Wall}
+{181200}{}{Internal Submarine Wall}
+{181300}{}{Internal Submarine Wall}
+{181400}{}{Internal Submarine Wall}
+{181500}{}{External Submarine Wall}
+{181600}{}{External Submarine Wall}
+{181700}{}{External Submarine Wall}
+{181800}{}{External Submarine Wall}
+{181900}{}{External Submarine Wall}
+{182000}{}{External Submarine Wall}
+{182100}{}{External Submarine Wall}
+{182200}{}{External Submarine Wall}
+{182300}{}{External Submarine Wall}
+{182400}{}{Internal Submarine Wall}
+{182500}{}{Internal Submarine Wall}
+{182600}{}{Internal Submarine Wall}
+{182700}{}{Hatchway}
+{182800}{}{Hatchway}
+{182900}{}{Internal Submarine Wall}
+{183000}{}{Internal Submarine Wall}
+{183100}{}{Internal Submarine Wall}
+{183200}{}{Internal Submarine Wall}
+{183300}{}{Wall}
+{183400}{}{Wall}
+{183500}{}{Glowing Cave Wall}
+{183600}{}{Glowing Cave Wall}
+{183700}{}{Glowing Cave Wall}
+{183800}{}{Glowing Cave Wall}
+{183900}{}{Glowing Cave Wall}
+{184000}{}{Glowing Cave Wall}
+{184100}{}{Glowing Cave Wall}
+{184200}{}{Glowing Cave Wall}
+{184300}{}{Glowing Cave Wall}
+{184400}{}{Glowing Cave Wall}
+{184500}{}{Glowing Cave Wall}
+{184600}{}{Glowing Cave Wall}
+{184700}{}{Glowing Cave Wall}
+{184800}{}{Glowing Cave Wall}
+{184900}{}{Glowing Cave Wall}
+{185000}{}{Glowing Cave Wall}
+{185100}{}{Glowing Cave Wall}
+{185200}{}{Glowing Cave Wall}
+{185300}{}{Glowing Cave Wall}
+{185400}{}{Glowing Cave Wall}
+{185500}{}{Glowing Cave Wall}
+{185600}{}{Glowing Cave Wall}
+{185700}{}{Glowing Cave Wall}
+{185800}{}{Glowing Cave Wall}
+{185900}{}{Glowing Cave Wall}
+{186000}{}{Glowing Cave Wall}
+{186100}{}{Glowing Cave Wall}
+{186200}{}{Glowing Cave Wall}
+{186300}{}{Glowing Cave Wall}
+{186400}{}{Glowing Cave Wall}
+{186500}{}{Glowing Cave Wall}
+{186600}{}{Glowing Cave Wall}
+{186700}{}{Glowing Cave Wall}
+{186800}{}{Glowing Cave Wall}
+{186900}{}{Glowing Cave Wall}
+{187000}{}{Glowing Cave Wall}
+{187100}{}{Glowing Cave Wall}
+{187200}{}{Glowing Cave Wall}
+{187300}{}{Glowing Cave Wall}
+{187400}{}{Glowing Cave Wall}
+{187500}{}{Glowing Cave Wall}
+{187600}{}{Glowing Cave Wall}
+{187700}{}{Glowing Cave Wall}
+{187800}{}{Glowing Cave Wall}
+{187900}{}{Glowing Cave Wall}
+{188000}{}{Glowing Cave Wall}
+{188100}{}{Glowing Cave Wall}
+{188200}{}{Glowing Cave Wall}
+{188300}{}{Glowing Cave Wall}
+{188400}{}{Glowing Cave Wall}
+{188500}{}{Glowing Cave Wall}
+{188600}{}{Glowing Cave Wall}
+{188700}{}{Doorway}
+{188800}{}{Doorway}
+{188900}{}{Wall}
+{189000}{}{Wall}
+{189100}{}{Wall}
+{189200}{}{Wall}
+{189300}{}{Wall}
+{189400}{}{Wall}
+{189500}{}{Wall}
+{189600}{}{Wall}
+{189700}{}{Window}
+{189800}{}{Window}
+{189900}{}{Window}
+{190000}{}{Wall}
+{190100}{}{Wall}
+{190200}{}{Wall}
+{190300}{}{Wall}
+{190400}{}{Wall}
+{190500}{}{Wall}
+{190600}{}{Wall}
+{190700}{}{Wall}
+{190800}{}{Window}
+{190900}{}{Window}
+{191000}{}{Window}
+{191100}{}{Wall}
+{191200}{}{Wall}
+{191300}{}{Wall}
+{191400}{}{Wall}
+{191500}{}{Wall}
+{191600}{}{Wall}
+{191700}{}{Wall}
+{191800}{}{Wall}
+{191900}{}{Wall}
+{192000}{}{Window}
+{192100}{}{Window}
+{192200}{}{Window}
+{192300}{}{Window}
+{192400}{}{Window}
+{192500}{}{Window}
+{192600}{}{Wall}
+{192700}{}{Wall}
+{192800}{}{Wall}
+{192900}{}{Wall}
+{193000}{}{Window}
+{193100}{}{Window}
+{193200}{}{Window}
+{193300}{}{Wall}
+{193400}{}{Wall}
+{193500}{}{Wall}
+{193600}{}{Wall}
+{193700}{}{Window}
+{193800}{}{Window}
+{193900}{}{Window}
+{194000}{}{Doorway}
+{194100}{}{Doorway}
+{194200}{}{Doorway}
+{194300}{}{Doorway}
+{194400}{}{Doorway}

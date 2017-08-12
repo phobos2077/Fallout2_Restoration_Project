@@ -130,13 +130,20 @@
 {366}{}{Trap Room}
 #
 # Abbey
-{370}{}{Error:Blank}
+{370}{}{Entrance}
 #
 # Primitive Tribe
-{380}{}{Error:Blank}
+{380}{}{Woodland}
+{381}{}{Tribe}
 #
 # Environmental Protection Agency
-{390}{}{Error:Blank}
+{390}{}{Entrance}
+{391}{}{Ducts}
+{392}{}{Utilities}
+{393}{}{Level One}
+{394}{}{Level Two}
+{395}{}{Level Three}
+{396}{}{Warehouse}
 #
 # Modoc: Ghost Town Sub-Area
 {400}{}{The Ghost Town}
@@ -258,7 +265,7 @@
 # Fake Vault 13 B
 {650}{}{Cavern}
 #
-# Shadow Areas (Those which fit nowhere else
+# Shadow Areas (Those which fit nowhere else)
 {660}{}{Coastline}
 {661}{}{Coastline}
 {662}{}{Desert}
@@ -272,6 +279,14 @@
 # New Reno Stables
 {670}{}{Stables}
 
+# Village
+{680}{}{Village}
+
+{690}{}{Umbra Tribe}
+
+{700}{}{Umbra Tribe}
+
+{710}{}{Umbra Tribe}
 
 #
 # Terrain type names for world map hover button
@@ -287,7 +302,7 @@
 {1500}{}{You gained 10,000 experience points!}
 {1501}{}{Ruins}
 {1502}{}{The car is out of power.}
-{1503}{}{This is a car.  It doesn't look like it's running.}
+{1503}{}{This is a car. It doesn't look like it's running.}
 
 
 
@@ -359,6 +374,7 @@
 {3324}{}{A group of nomads.}
 {3325}{}{A man guarding a bridge.}
 {3326}{}{King Arthur's Knights fighting a rat.}
+{3327}{}{A band of angry outcasts.}
 
 # Encounter Table 7
 {3350}{}{Toxic waste dump.}
@@ -396,6 +412,7 @@
 {3382}{}{King Arthur's Knights.}
 {3383}{}{A tin woodsman.}
 {3384}{}{The Unwashed Villagers hunting a spammer.}
+{3385}{}{A band of angry outcasts.}
 
 # Encounter Table 8
 {3400}{}{A war party.}
@@ -423,6 +440,7 @@
 {3422}{}{A small group of ants.}
 {3423}{}{A hunting party.}
 {3424}{}{A group of nomads.}
+{3425}{}{A band of angry outcasts.}
 
 # Encounter Table 9
 {3450}{}{Toxic waste dump.}
@@ -454,6 +472,7 @@
 {3476}{}{King Arthur's Knights.}
 {3477}{}{A tin woodsman.}
 {3478}{}{The Unwashed Villagers hunting a spammer.}
+{3479}{}{A band of angry outcasts.}
 
 # Encounter Table 10
 {3500}{}{A band of outcasts.}
@@ -477,6 +496,7 @@
 {3518}{}{A band of nomads.}
 {3519}{}{A man guarding a bridge.}
 {3520}{}{King Arthur's Knights fighting a rat.}
+{3521}{}{A band of angry outcasts.}
 
 # Encounter Table 11
 {3550}{}{Toxic waste dump}
@@ -553,6 +573,7 @@
 {3629}{}{A group of trappers.}
 {3630}{}{A man guarding a bridge.}
 {3631}{}{King Arthur's Knights fighting a rat.}
+{3632}{}{A band of angry outcasts.}
 
 # Encounter Table 13
 {3650}{}{Toxic waste dump.}
@@ -590,6 +611,7 @@
 {3682}{}{King Arthur's Knights.}
 {3683}{}{A tin woodsman.}
 {3684}{}{The Unwashed Villagers hunting a spammer.}
+{3685}{}{A band of angry outcasts.}
 
 # Encounter Table 14
 {3700}{}{Toxic waste dump.}
@@ -733,6 +755,7 @@
 {3918}{}{A merchant party.}
 {3919}{}{A man guarding a bridge.}
 {3920}{}{King Arthur's Knights fighting a rat.}
+{3921}{}{Some angry bandits.}
 
 # Encounter Table 19
 {3950}{}{Some highwaymen.}
@@ -762,6 +785,7 @@
 {3974}{}{A herd of brahmin.}
 {3975}{}{A man guarding a bridge.}
 {3976}{}{King Arthur's Knights fighting a rat.}
+{3977}{}{Some angry bandits.}
 
 # Encounter Table 20
 {4000}{}{Some highwaymen tracking with wild dogs.}
@@ -845,6 +869,7 @@
 {4118}{}{A trader and guards.}
 {4119}{}{A man guarding a bridge.}
 {4120}{}{King Arthur's Knights fighting a rat.}
+{4121}{}{Some angry bandits.}
 
 # Encounter Table 23
 {4150}{}{Toxic waste dump.}
@@ -876,6 +901,7 @@
 {4176}{}{King Arthur's Knights.}
 {4177}{}{A tin woodsman.}
 {4178}{}{The Unwashed Villagers hunting a spammer.}
+{4179}{}{Some angry bandits.}
 
 # Encounter Table 24
 {4200}{}{Toxic waste dump.}
@@ -1291,6 +1317,7 @@
 {4918}{}{A caravan.}
 {4919}{}{A man guarding a bridge.}
 {4920}{}{King Arthur's Knights fighting a rat.}
+{4921}{}{A band of angry raiders.}
 
 # Encounter Table 39
 {4950}{}{Toxic waste dump.}
@@ -1322,6 +1349,7 @@
 {4976}{}{King Arthur's Knights.}
 {4977}{}{A tin woodsman.}
 {4978}{}{The Unwashed Villagers hunting a spammer.}
+{4979}{}{A band of angry raiders.}
 
 # Encounter Table 40
 {5000}{}{A band of raiders leading some wolves.}
@@ -1341,6 +1369,7 @@
 {5014}{}{A pack of wolves fighting some raiders.}
 {5015}{}{A man guarding a bridge.}
 {5016}{}{King Arthur's Knights fighting a rat.}
+{5017}{}{A band of angry raiders.}
 
 # Encounter Table 41
 {5050}{}{Toxic waste dump.}
@@ -1368,6 +1397,7 @@
 {5072}{}{King Arthur's Knights.}
 {5073}{}{A tin woodsman.}
 {5074}{}{The Unwashed Villagers hunting a spammer.}
+{5075}{}{A band of angry raiders.}
 
 # Encounter Table 42
 {5100}{}{Toxic waste dump.}
@@ -1448,6 +1478,7 @@
 {5276}{}{A tin woodsman.}
 {5277}{}{The Unwashed Villagers hunting a spammer.}
 {5278}{}{The Cafe of Broken Dreams.}
+{5279}{}{A gathering of important looking individuals.}
 
 # Encounter Table 46
 {5300}{}{Some aliens and deathclaws.}
@@ -1470,6 +1501,7 @@
 {5317}{}{A swarm of floaters.}
 {5318}{}{A man guarding a bridge.}
 {5319}{}{King Arthur's Knights fighting a rat.}
+{5320}{}{A gathering of important looking individuals.}
 
 # Encounter Table 47
 {5350}{}{Some aliens and deathclaws.}
@@ -1490,6 +1522,7 @@
 {5365}{}{Some aliens.}
 {5366}{}{A pack of centaurs.}
 {5367}{}{A swarm of floaters.}
+{5368}{}{A gathering of important looking individuals.}
 
 # Encounter Table 48
 {5400}{}{Toxic waste dump.}
@@ -1515,6 +1548,7 @@
 {5420}{}{A tin woodsman.}
 {5421}{}{The Unwashed Villagers hunting a spammer.}
 {5422}{}{The Cafe of Broken Dreams.}
+{5423}{}{A gathering of important looking individuals.}
 
 # Encounter Table 49
 {5450}{}{A pack of fire geckos.}
@@ -1531,6 +1565,7 @@
 {5461}{}{A band of ruffians led by a Morton Brother.}
 {5462}{}{A man guarding a bridge.}
 {5463}{}{King Arthur's Knights fighting a rat.}
+{5464}{}{A gathering of important looking individuals.}
 
 # Encounter Table 50
 {5500}{}{A pack of fire geckos.}
@@ -1545,6 +1580,7 @@
 {5509}{}{Some bounty hunters.}
 {5510}{}{Some bounty hunters.}
 {5511}{}{A band of ruffians led by a Morton Brother.}
+{5512}{}{A gathering of important looking individuals.}
 
 # Encounter Table 51
 {5550}{}{Toxic waste dump.}
@@ -1735,6 +1771,8 @@
 {5914}{}{Hubologists fighting mercenaries.}
 {5915}{}{Hubologists fending off a press gang.}
 {5916}{}{Hubologists.}
+{5917}{}{A band of angry mercenaries.}
+{5918}{}{A gathering of important looking individuals.}
 
 # Encounter Table 59
 {5950}{}{A band of mercenaries.}
@@ -1756,6 +1794,8 @@
 {5966}{}{Hubologists.}
 {5967}{}{A man guarding a bridge.}
 {5968}{}{King Arthur's Knights fighting a rat.}
+{5969}{}{A band of angry mercenaries.}
+{5970}{}{A gathering of important looking individuals.}
 
 # Encounter Table 60
 {6000}{}{A band of mercenaries.}
@@ -1775,6 +1815,8 @@
 {6014}{}{Hubologists fighting mercenaries.}
 {6015}{}{Hubologists fending off a press gang.}
 {6016}{}{Hubologists.}
+{6017}{}{A band of angry mercenaries.}
+{6018}{}{A gathering of important looking individuals.}
 
 # Encounter Table 61
 {6050}{}{Toxic waste dump.}
@@ -1805,6 +1847,8 @@
 {6075}{}{A tin woodsman.}
 {6076}{}{The Unwashed Villagers hunting a spammer.}
 {6077}{}{The Cafe of Broken Dreams.}
+{6078}{}{A band of angry mercenaries.}
+{6079}{}{A gathering of important looking individuals.}
 
 # Encounter Table 62
 {6100}{}{Toxic waste dump.}
@@ -1837,6 +1881,7 @@
 {6127}{}{A tin woodsman.}
 {6128}{}{The Unwashed Villagers hunting a spammer.}
 {6129}{}{The Cafe of Broken Dreams.}
+{6130}{}{A band of angry mercenaries.}
 
 # Encounter Table 63
 {6150}{}{A band of mercenaries.}
@@ -1858,6 +1903,7 @@
 {6166}{}{A caravan fending off aliens.}
 {6167}{}{A caravan.}
 {6168}{}{A caravan.}
+{6169}{}{A band of angry mercenaries.}
 
 # Encounter Table 64
 {6200}{}{Toxic waste dump.}
@@ -2023,6 +2069,7 @@
 {6529}{}{A tin woodsman.}
 {6530}{}{The Unwashed Villagers hunting a spammer.}
 {6531}{}{The Cafe of Broken Dreams.}
+{6532}{}{A band of angry marauders.}
 
 # Encounter Table 71
 {6550}{}{A band of marauders.}
@@ -2048,6 +2095,7 @@
 {6570}{}{A traveler.}
 {6571}{}{A man guarding a bridge.}
 {6572}{}{King Arthur's Knights fighting a rat.}
+{6573}{}{A band of angry marauders.}
 
 # Encounter Table 72
 {6600}{}{A deteachment of the Master's armies.}
@@ -2069,6 +2117,7 @@
 {6616}{}{Some farmers.}
 {6617}{}{A man guarding a bridge.}
 {6618}{}{King Arthur's Knights fighting a rat.}
+{6619}{}{A band of angry marauders.}
 
 # Encounter Table 73
 {6650}{}{Toxic waste dump.}
@@ -2099,6 +2148,7 @@
 {6675}{}{A tin woodsman.}
 {6676}{}{The Unwashed Villagers hunting a spammer.}
 {6677}{}{The Cafe of Broken Dreams.}
+{6678}{}{A band of angry marauders.}
 
 # Encounter Table 74
 {6700}{}{Remnants of the Master's army fighting mutated molerats.}
