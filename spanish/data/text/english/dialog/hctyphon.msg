@@ -167,7 +167,7 @@
 {337}{}{¡Shhh! ¡Shh! ¡Alguien está escuchando!}
 {338}{}{Es el gran ciclo de la vida, verás... la vida se alimenta de la vida que se alimenta de la vida...}
 {339}{}{Oh, oh. Pero AÚN puedes comer abono. Cristo... filosofía de plantas...}
-{340}{}{¿Puedo jugar con tu armadura de energía algún día?}
+{340}{}{¿Puedo jugar con tu servoarmadura algún día?}
 {341}{}{¿Te refieres a ese viejo uniforme que guardo en el armario? Ji ji...}
 {342}{}{Sí, he probado la polinización cruzada.}
 {343}{}{No es que haya nada MALO en ello.}

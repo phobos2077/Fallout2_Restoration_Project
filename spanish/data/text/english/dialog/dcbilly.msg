@@ -29,7 +29,7 @@
 {177}{}{Te costará $50, amigo.}
 {178}{}{Je, je. Gracias.}
 {179}{}{No tengo bastante dinero.}
-{180}{}{Vale, que sean $50.}
+{180}{}{Vale, que sean 50 dólares.}
 {181}{}{Peor para ti.}
 {182}{}{Nos vemos.}
 {183}{}{No me molestes. Estoy buscando a chicas guapas.}

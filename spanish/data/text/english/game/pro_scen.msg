@@ -1707,8 +1707,8 @@
 {90401}{}{Esta es una pieza de maquinaria que bombea agua.}
 {90500}{}{Cama médica}
 {90501}{}{Esta cama tiene incorporada una pantalla para monitorizar el progreso de los pacientes.}
-{90600}{}{Partes de la armadura de energía}
-{90601}{}{Estas son piezas de una armadura de energía.}
+{90600}{}{Partes de la servoarmadura}
+{90601}{}{Estas son piezas de la servoarmadura.}
 {90700}{}{Luz}
 {90701}{}{Esta luz de seguridad está titilando en un rojo brillante.}
 {90800}{}{Luz}
