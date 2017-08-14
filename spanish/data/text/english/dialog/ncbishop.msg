@@ -300,3 +300,8 @@
 {925}{}{Has asesinado a Westin.}
 {950}{}{Te has cargado a Carlson.}
 {975}{}{Te has convertido en Iniciado de la Familia Bishop.}
+{1805}{}{Sí… se rumorea en el Yermo que alguien que encaja con tu descripción aniquiló a los saqueadores del sur de Ciudad Refugio. }
+{1820}{}{Well, you must be one sly motherfucker to convince their guide to stop leading them through the mountains.
+ And it could be I don't LIKE what you did down there.}
+{1836}{}{A mi modo de ver, me DEBES una de las grandes, tribal. Tendrás que hacer el trabajo de veinte hombres para saldar esa deuda. }
+{1840}{}{Ellos me atacaron a MÍ, Bishop. No te debo nada, y no voy a hacerte el trabajo sucio. ¿Entendido?}

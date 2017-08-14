@@ -3,8 +3,8 @@
 {102}{}{Ves a Marc, uno de los guardias de Tyler.}
 {150}{}{¡Tyler!}
 {200}{}{¿Pero qué...?}
-{225}{}{Sabía que podríamos con esas nenazas.}
-{226}{}{Gracias por el aviso. Ha sido divertido.}
+{225}{}{Gracias por el aviso. Ha sido divertido.}
+{226}{}{Sabía que podríamos con esas nenazas.}
 {227}{}{Mala suerte que los hayamos matado a todos. ¿Ahora qué vamos a hacer?}
 {228}{}{¿Somos buenos o qué?}
 {229}{}{Somos demasiado buenos.}

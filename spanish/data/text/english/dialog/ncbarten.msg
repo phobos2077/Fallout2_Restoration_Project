@@ -36,3 +36,4 @@
 {260}{}{Ese es el chico menor de Jesús, Pequeño Jesús. Él y ese cuchillo son casi amigos
  íntimos… le he visto hacer algunas cosas malas con él. Cambiando de tema... ¿puedo ponerte
  algo, amigo?}
+{270}{}{Gracias. Es un placer hacer negocios contigo.}

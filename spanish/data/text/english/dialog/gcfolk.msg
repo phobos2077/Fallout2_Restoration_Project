@@ -32,7 +32,7 @@
 {160}{}{Hmmph, otro piel suave traicionero.}
 {161}{}{¿Que tal, piel suave?}
 {162}{}{Hola a todos.}
-{163}{}{¿Qué tal?}
+{163}{}{¿Cómo te va?}
 {164}{}{Pórtate bien mientras estés en el pueblo.}
 {165}{}{¿Has caminado mucho para llegar hasta aquí?}
 {166}{}{Pareces alguien de Ciudad Refugio.}

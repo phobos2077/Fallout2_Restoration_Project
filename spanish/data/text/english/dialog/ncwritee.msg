@@ -120,7 +120,7 @@
 {394}{}{Te estoy vigilando, esclavista, así que cuidado con lo que haces, ¿me oyes?}
 {395}{}{Si tocas a uno de los chicos, esclavista, te dispararé tantas veces que volarás fuera de tus botas.}
 {396}{}{Toca a cualquiera de esos chicos, esclavista, y te mataré.}
-{397}{}{Si buscas alcohol, esclavista, ve a la estación de tren en la zona norte de la ciudad… aquí no vendemos.}
+{397}{}{Si buscas alcohol, ve a la estación de tren en la zona norte de la ciudad… aquí no vendemos.}
 {398}{}{i le haces daño a un Wright, esclavista, la Familia no descansará hasta que te estés pudriendo en el Gólgota.}
 {399}{}{¿Estás aquí para ver a papá por negocios? No creo que papá los haga con esclavista. Mejor vete.}
 {410}{}{Mejor será que te vayas… sin ánimo de ofender, pero a papá no le gustan demasiado los tribales.}

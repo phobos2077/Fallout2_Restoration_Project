@@ -21,3 +21,4 @@
 {129}{}{[Activas la secuencia de liberación rápidamente, y los cohetes del barco se alejan del embarcadero].}
 {130}{}{[HECHO]}
 {131}{}{Computadora de navegación activa.}
+{200}{}{WARNING: Submarine still active. Proceeding would result in the ship's destruction.}

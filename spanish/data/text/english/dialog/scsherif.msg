@@ -19,7 +19,7 @@
 {118}{}{¿Presidente Tandi?}
 {119}{}{Genial. Qué suerte la mía. Gracias.}
 {120}{}{¡Perdona, pero yo llevo una vida sana! No tengo ni GECK ni ninguna otra mierda para colocarse.}
-{121}{}{¡Lo siento! ¿Qué sabes del Refugio 13?}
+{121}{}{¿Sabes dónde está el Refugio 13?}
 {122}{}{Olvidemos lo que he preguntado. Ahora te dejaré en paz.}
 {123}{}{Se me ocurren un par de cosas, si realmente estás interesado.}
 {124}{}{¿Estás de broma? ¿Después de lo que hiciste con Jack? Supongo que podrías encontrar un trabajo estable.}

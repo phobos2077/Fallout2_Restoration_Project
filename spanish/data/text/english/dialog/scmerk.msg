@@ -171,3 +171,5 @@
 {270}{}{Hmmphf.}
 {271}{}{Has "encargado" la Hubologista para Merk.}
 {272}{}{Has recuperado los papeles del doctor Henry.}
+{300}{}{¿Qué demonios crees que haces, viniendo a esta ciudad?}
+{301}{}{Mierda... ¡te lo advertí!}

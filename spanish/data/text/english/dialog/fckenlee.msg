@@ -126,5 +126,6 @@
 {500}{}{Vete de inmediato o llamaré a los guardias.}
 {501}{}{Vete ahora. Este es tu segundo aviso.}
 {502}{}{Este es tu último aviso.}
+{503}{}{¡Guardias!}
 {1430}{}{El Emperador permanece oculto a los ojos indiscretos. Es mi trabajo actuar como la pantalla del Emperador. Sin embargo, has demostrado ser un amigo de los Shi. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña "CSPDMSHR-Shih-huang-ti-X9372" y estarás conectado a la Computadora Emperador. Espero que te resulte útil.}
 {2001}{}{Ya... veo. Bien, gracias por tu tiempo. Tengo un poblado que rescatar.}

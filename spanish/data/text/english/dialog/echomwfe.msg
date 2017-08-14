@@ -13,3 +13,5 @@
 {209}{}{De todos modos odiaba la agricultura.}
 {210}{}{Por favor, no quemes la casa.}
 {220}{}{No me molestes.}
+{230}{}{Gracias por ayudarnos.}
+{231}{}{I wish there were more people like you in this world.}

@@ -108,6 +108,9 @@
 {404}{}{Davin podría ganar bastante más… experiencia.}
 {405}{}{Miria quiere darse un paseo por el lado salvaje.}
 {406}{}{De hecho, ninguno de ellos, gracias.}
+{407}{}{Mejor será que vigile a éste. Parece un poco enfermo.}
+{408}{}{Cat Jules here. Watch out though, he might bite the girls.}
+{409}{}{Fuentes informadas dicen que eres el hombre al que ver para hacer negocios, si sabes a lo que me refiero.}
 {420}{}{¿Es este tu amigo? (Mira a tu compañero de arriba a bajo, y asiente). Creo que podemos complacerte… }
 {421}{}{(Mira a tu compañero de arriba a bajo, y asiente). Creo que podemos complacerte… }
 {422}{}{ fichas.}
@@ -209,6 +212,10 @@ el mismo mensaje continuamente. Aunque seguro que TODAVÍA seguirá saliendo, aunq
 {703}{}{Vaya.}
 {704}{}{*Buf*}
 {705}{}{Jeje... Espero no haberla dejado embarazada.}
+{706}{}{It just isn't the same when their blood's still warm, ya know?}
+{707}{}{Espero que así sea.}
+{708}{}{Girls have gotten pretty freaky since the end of the world... I dig that.}
+{709}{}{...and thats why the babes used to call me "Dex, the Duke of Sex".}
 {710}{}{(Hablas durante horas. Las chicas de la Garra de la Gata tienen un asombroso conocimiento de la naturaleza humana).}
 {711}{}{(El lugarteniente de los Mordino llega, y parece impresionado contigo. Te conduce hacia el norte de la
  ciudad, a algún lugar conocido como el "Establo").}
@@ -223,5 +230,6 @@ el mismo mensaje continuamente. Aunque seguro que TODAVÍA seguirá saliendo, aunq
 {760}{}{*Bzzzt*}
 {770}{}{¡Así se hace, Jefe! No había tenido sexo en muuuuuucho tiempo.}
 {800}{}{Le has entregado las revistas de La Garra de la Gata a Miss Kitty.}
+{900}{}{You feel more coordinated and in tune with your body now.}
 {1218}{}{ te enviaría por aquí… (te guiña un ojo).}
 {1336}{}{ fichas por semana.}

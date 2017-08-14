@@ -244,4 +244,20 @@
 {342}{}{Puede ser. Iré a comprobarlo.}
 {343}{}{Le hablaste a McClure de la entrega del antídoto para el Jet.}
 {344}{}{El disco muestra que desde que la central es completamente funcional y está optimizada, puede producir una gran cantidad de energía. Mucha más de la que necesita Gecko. Ciudad Refugio podría usar esta energía. Creo que el Consejo debería considerar lo que este disco tiene que ofrecer.}
-{345}{}{Esto es muy interesante.}
+{345}{}{¿Sabes algo sobre los implantes dérmicos?}
+{346}{}{Actually, yes. Sergeant Stark reported something on this to me recently. What interest do you have in this matter?}
+{347}{}{Is it true that you intend to make servants of those people?}
+{348}{}{Déjame preguntarte algo más.}
+{349}{}{No me importa. Yo ya he cobrado.}
+{350}{}{Recruiting servants is not the issue here. The issue is the threat that these monsters pose to Vault City. According to Sergeant Stark's report, the people of that village seem to coexist with those huge rat creatures. If that's true, they may have found a way to control them, and perhaps that's why these creatures have begun to attack our patrols. Sergeant Stark plans to eliminate these pests, and he has my full support.}
+{351}{}{I assure you the people of that village aren't controlling the mole rats. In fact, I've got a proposition for you: I'll take care of this mole rat problem, and in return, I want your assurance that Vault City will leave the people of that village alone.}
+{352}{}{An interesting proposition, but how exactly do you plan to deal with all those rat creatures?}
+{353}{}{Creo que p-podría s-ser envenenado.}
+{354}{}{Don't really know, but I'll think of something. I always do.}
+{355}{}{Really? Very well then, I'll take your word for it. The raid will be postponed for a month.}
+{356}{}{You're a good man, McClure, and you won't regret this. I'll be back once the problem's taken care of.}
+{357}{}{It's amazing, the mole rat attacks on our patrols suddenly stopped without warning. I don't know how you did it, but I thank you. Also, I shall uphold my end of the bargain -- I'll order Stark to cancel the raid at once. As long as the people of that village pose no threat to Vault City, they'll have nothing to fear from us -- I'll see to that.}
+{358}{}{Gracias.}
+{359}{}{Ves a una aldeana.}
+{360}{}{Esto es muy interesante.}
+{370}{}{De acuerdo. Lo haré. Te veré entonces.}

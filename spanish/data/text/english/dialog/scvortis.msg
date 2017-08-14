@@ -76,3 +76,47 @@
 {175}{}{¡Qué cojones? ¡Guardias! ¡Tenemos un intruso!}
 {176}{}{Entra ahí y te vuelo la puta cabeza. ¿Lo pillas?}
 {177}{}{Es tarde y hemos cerrado. Vuelve por la mañana.}
+{200}{}{Good work. One more thing though. You're a slaver, right? How 'bout you lend a hand and wipe out those safe houses for me. I could
+ pay you for the job - say $1000.}
+{201}{}{Good work. One more thing though. You look like a mean sonuvabith. How 'bout you wipe out those safe houses for me. There's a reward for it - say $1000.}
+{202}{}{Claro.}
+{203}{}{No estoy interesado.}
+{204}{}{Excellent. Here, let me mark these coordinates on your map thingy. Report back when you're done.}
+{205}{}{Buen trabajo. Ahora lo mejor que puedes hacer es esfumarte, por si esos Rangers se enteran.}
+{206}{}{De acuerdo. Adiós.}
+{207}{}{Actually, do you think you could send some of your men along with me? It'd make things go a hell of a lot faster, and further guarantee success.}
+{210}{}{¡Has vuelto! ¿Tienes las armas para nosotros?}
+{211}{}{Hell yeah I did. Piece of cake.}
+{212}{}{No, aún no. Sigo trabajando en ello.}
+{215}{}{Really? Hot damn. This is the best news I've heard yet. This will be quite a blow to the Rangers. Good work. Here's your pay. Now you best make yourself scarce, the Rangers in town are sure to be looking for you.}
+{216}{}{Si, lo tendré en mente. Gracias por el dinero.}
+{217}{}{Bien, entonces. Te veo luego.}
+{218}{}{It seems everything I do manages to piss someone off. I'm used to it now. Bye.}
+{220}{}{Hell no. I'm not rounding up any guys for this. If you feel you can't handle it, then leave.}
+{221}{}{I never said I couldn't handle it. I just thought your men would like to join in on the fun. But whatever, I'll handle it on my own, no problem. I'll report back when I'm done.}
+{222}{}{Fine, you can count me out, asshole. I'm not gonna be your dog. Bye.}
+{223}{}{You calling me chicken? No one calls me that and lives!}
+{225}{}{Well, alright. I think I can round up some boys to aid you in this. They'll meet you on the way. You ready to start
+ now?}
+{226}{}{Aún no. Volveré cuando lo haya hecho.}
+{227}{}{Nací preparado. ¿Dónde firmo?}
+{228}{}{Si, estoy listo. Vamos.}
+{229}{}{Creo que de la próxima voy a pasar.}
+{230}{}{You ready for the raid, or are you here to waste more of my time?}
+{231}{}{Aún necesito más tiempo.}
+{232}{}{Si, estoy listo. Vamos.}
+{240}{}{You wipe out the Rangers' safe houses. This deals quite a blow to the Rangers in their fight against slavery.}
+{241}{}{Me gustaría comprar algunos esclavos.}
+{250}{}{Well that's fuckin nice. We don't sell here. Metzger up north in the Den can help you with that.}
+{251}{}{He estado ahí y eso no es Navarro.}
+{252}{}{Seeing how I killed Metzger, I don't know how that's going to be useful to me. I think I'll kill you instead.}
+{260}{}{Well aren't you a picky fuck. You do realize that his stock isn't limited to just the Den, right? He's got his own holding pen where slaves are dropped off.}
+{261}{}{Interesante. ¿Dónde podría encontrar a ese Whisky Bob?}
+{270}{}{What, do you think you can get whatever the fuck you want for free? $1000. Take it or leave it.}
+{271}{}{What, do you think you can get whatever the fuck you want for free? Plus, you ooze virtuousness. I don't like that. $2000. Take it or leave it.}
+{272}{}{De acuerdo entonces.}
+{273}{}{No importa.}
+{274}{}{Creo que te mataré lentamente.}
+{275}{}{Volveré cuando tenga más dinero.}
+{280}{}{[He points on your map the location of the slaver camp.] It's around there. Now what else are you going to waste my time with?}
+{281}{}{Tengo todos los datos que necesito.}

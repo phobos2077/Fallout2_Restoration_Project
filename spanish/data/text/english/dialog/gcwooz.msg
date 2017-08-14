@@ -202,6 +202,7 @@ ellos si fuera tú.}
 entonces.}
 {472}{}{Creo que tienen unos buenos ideales. Sólo un poco de limpieza 
 genética. Espero que empiecen contigo. Adiós.}
+{473}{}{Investigo incursiones en los ranchos de brahmines locales. ¿Sabes algo de esto?}
 {480}{}{La única forma de que los necrófagos sean libres será cuando puedan tocar su propia arpa.}
 {481}{}{No sabía que los necrófagos fueran especialmente musicales.}
 {482}{}{Oh, ya veo. Je, je. Déjame preguntarte algo.}
@@ -266,3 +267,7 @@ que no tengas sentido del humor.}
 {730}{}{Te has convertido en adicto al juego de Trágico. Muchas noches sin dormir te esperan.}
 {731}{}{De acuerdo, hecho. ¿Algo más?}
 {732}{}{Sí, otra ronda para todos.}
+{740}{}{Heh, yeah I heard those assholes are getting attacked by molerats who're protecting those smoothskins. Serves 'em right for fucking with other people's
+ business. I don't really know much more than that though. Lumpy over in the junkyard might know more. That smoothskin's always hearing things.}
+{741}{}{Gracias por la información. Adiós.}
+{742}{}{Supongo que no. Déjame preguntarte algo más.}

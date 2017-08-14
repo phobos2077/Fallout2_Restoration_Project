@@ -273,3 +273,5 @@
 {361}{}{Excelente. Aquí tienes… una vez más, sólo es válido durante el día: por la noche se te pedirá que abandones la ciudad. Los Ciudadanos también se reservan el derecho a cancelar los privilegios del pase de día en cualquier momento, así que portate bien.}
 {362}{}{Entendido. ¿Puedo hacerte alguna otra pregunta?}
 {363}{}{Gracias.}
+{1255}{}{I found the raiders' camp and convinced their guide to not help them. They won't be able to find their way without him.}
+{1314}{}{You won't have to worry about those raiders anymore. I convinced their guide to leave and without his help, they will never find their way through the mountains.}

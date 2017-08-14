@@ -80,7 +80,7 @@
 {282}{}{Me alegro de haber podido ayudar; por supuesto, los 50 dólares no me vendrían mal.}
 {283}{}{Sí, estoy seguro de que dormiré más tranquilo sabiendo que Klamath está a salvo del alcohol de Bob.}
 {284}{}{No me interesa, amigo.}
-{290}{}{Bien, veamos. Toda clase de cosas están pasando últimamente en el pueblo. (contando con los dedos) Están los hombres bicho mutilando el ganado, roedores de tamaño inusual, un espíritu andante, y un cazador desaparecido. En los últimos tiempos Klamath se ha convertido en un lugar conflictivo.}
+{290}{}{Well, let's see. All sorts of things going on in town lately. (counts on his fingers) There's }
 {291}{}{Háblame de los hombres bicho, por favor.}
 {292}{}{Háblame de los roedores, por favor.}
 {293}{}{Háblame del espíritu andante, por favor.}
@@ -108,3 +108,9 @@
 {390}{}{El jardín del Edén, ¿eh? Jenny es lo más parecido que he visto al jardín del Edén. Sólo hacen falta unos dólares para crearlo (sonríe). Suena bien, pero no tengo ni idea de donde podrías encontrarlo.}
 {391}{}{Oh, eso no es como lo que estoy buscando. Otra pregunta.}
 {392}{}{Es todo lo que quería saber.}
+{2900}{}{Las cosas están muy calmadas por aquí.}
+{2901}{}{Háblame de los hombres bicho, por favor.}
+{2902}{}{rodents of unusual size}
+{2903}{}{¿Aún caminas erguido?}
+{2904}{}{¿Y qué pasa con el trampero desaparecido?}
+{2905}{}{. Klamath's become a real hot spot lately.}

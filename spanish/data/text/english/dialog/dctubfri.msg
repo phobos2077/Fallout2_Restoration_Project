@@ -1,4 +1,4 @@
-{100}{}{Ves a un drogadicto.}
+{100}{}{Ves a un delincuente.}
 {110}{}{Ves a una puta enganchada al jet.}
 {111}{}{Ves a una de las putas de Tubby.}
 {150}{}{Parece ser un amigo de Tubby.}

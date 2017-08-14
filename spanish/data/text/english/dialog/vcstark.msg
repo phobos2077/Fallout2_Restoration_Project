@@ -290,3 +290,46 @@
 {388}{}{Has explorado Gecko para Ciudad Refugio.}
 {389}{}{Has explorado la RNC para Ciudad Refugio.}
 {390}{}{¿Como qué... señora?}
+{391}{}{Yeah, there is something... I have been looking through your reconnaissance report and I found a small village nearby swarming with uhh..."mole rats", that's what the outsiders call them, right? I want you to go there and exterminate all those beasts.}
+{392}{}{Just gun down a few rats? Ok, I'm on it.}
+{393}{}{¿Para qué?}
+{394}{}{¿Qué pasa con La Guarida?}
+{395}{}{¡Espera! ¿Puedo hacerte unas pocas preguntas?}
+{396}{}{No hay problema. Sólo hacía mi trabajo. Adiós.}
+{397}{}{Excellent. Here, let me show you the exact location of the village. [Stark marks the village on your Pip-Boy map.] Pay's $750, just come back and collect once you finish the task. One more thing -- if you don't deal with it in a month, I'll send a squad there to eliminate the monsters...and any other threat.}
+{398}{}{Adiós.}
+{399}{}{What for? [He hesitates for a moment, then frowns.] I don't need to explain my motives to you. I give orders, and you take them -- That's how it is. If you don't want the job, I'll send a squad to do it instead...but things sometimes get a little "messy" when I set my boys loose.}
+{400}{}{Haré el trabajo.}
+{401}{}{Eso es genial. Por cierto, ¿qué eran esas cosas?}
+{402}{}{Sobre ese trabajo...}
+{403}{}{You killed all those big ugly rats? Really?}
+{404}{}{I was told you plan on turning the people of that village into servants, and that the mole rats were preventing you from doing it -- that's the real reason you wanted them exterminated.}
+{405}{}{Sí.}
+{406}{}{Aún no.}
+{407}{}{Oh, you heard that, did you? Well, you heard right -- it's for their own good. Here, they'd be well fed and taken care of. I'm sure they'd come to realize how much better it is to serve in the great Vault City than dwell in their little village with rat shit up to their knees.}
+{408}{}{Sí, aquí están.}
+{409}{}{¿Has completado tu misión?}
+{410}{}{Muy bien, lo haré.}
+{411}{}{No, creo que no.}
+{412}{}{Bien. Ven a verme cuando hayas acabado.}
+{413}{}{Doesn't matter, they'll all become servants just the same. I'm sending a battle squad there immediately. Soon, there'll be nothing left of their little village.}
+{414}{}{[HECHO]}
+{415}{}{Vuelve pronto con el GECK.}
+{416}{}{Great work, soldier. Here's your $750 -- a small price to pay for a village full of new servants. You've done Vault City a great service.}
+{417}{}{¡Nunca dijiste nada de que tuviera que pagar por los brahmines muertos!}
+{418}{}{Como quieras. Adiós.}
+{419}{}{It's for their own good. Once they're servants of Vault City, there'll be no need for them to strife for survival. They'll be fed and taken care of. In return, they'll work for the good of the City. Everyone wins.}
+{420}{}{¡Esclavista!}
+{421}{}{It's not slavery, but a mutually beneficial co-existence, a symbiosis so to speak.}
+{422}{}{Interesante. Adiós.}
+{423}{}{Those primitives must have lost their minds completely. They obtained weapons from somewhere, and started shooting us on sight! So I gave it another thought. Hell with them. After all, it's not like we're short on slaves... I mean servants.}
+{424}{}{What village? Oh, the one we got our new servants from... what about it?}
+{425}{}{¿Dijiste que comerciáis con el oro?}
+{426}{}{I know who provided them with weapons. It was that trader in the courtyard, Harry. }
+{427}{}{Happy Harry, you say? ... figures it'd be one of them scumbags in the courtyard. Ok I'll deal with him. We'll see how "Happy" he is when I'm through. As for you, you can take whatever you find in his store as a reward for selling him out.}
+{428}{}{I don't know why, but proconsul McClure has ordered me to wait with the village a little. It's applying to you as well. }
+{429}{}{Hmm... de acuerdo.}
+{1215}{}{I convinced their guide to no longer lead them through the mountains. They will never find their way without him.}
+{1224}{}{You did? So, they will no longer be a threat to us?}
+{1251}{}{Actually, I already put a stop to them. I convinced their guide to no longer lead them through the mountains. They will never find their way without him.}
+{1422}{}{Bueno, será mejor que me vaya a hacer algo por mi cuenta. Adiós.}

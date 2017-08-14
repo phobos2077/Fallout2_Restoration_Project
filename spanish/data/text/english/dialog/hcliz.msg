@@ -90,3 +90,12 @@
 {184}{}{[CONTINUAR]}
 {185}{}{¡Oye! ¿Quién demonios está ahí fuera?}
 {186}{}{No sé quién eres, pero he venido a por ti.}
+{200}{}{Do you have anything special you could set me up with that isn't on the shelves?}
+{201}{}{Actually... yeah. Seein' that mangy dog of yours reminds me of something I found that might be of some use. Are you interested in some armor for it? It'll cost you $2000.}
+{202}{}{Bueno, sí.}
+{203}{}{Nah, this dog can take on anybody already. Thanks anyway. Let's see what else you've got.}
+{204}{}{(Looks at you and your party) No, sorry. I don't think I have anything special that you would find useful. What you see out here is what you get.}
+{205}{}{Hmm, veamos qué es lo que tienes.}
+{206}{}{Oye, tienes trabajo que hacer. Vuelve cuando hayas pisoteado a esa Rana por nosotros.}
+{207}{}{Muéstrame lo que tienes a la venta.}
+{208}{}{Olvídalo. Volveré en algún otro momento.}

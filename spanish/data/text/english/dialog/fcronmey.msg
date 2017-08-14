@@ -55,3 +55,9 @@
 {154}{}{Me alegra verte de nuevo. ¿Qué necesitas?}
 {155}{}{, y a menos que pierda mi apuesta, que es donde están tus amigos, también.}
 {156}{}{.}
+{200}{}{¿Qué disco?}
+{210}{}{There's an old Chinese submarine marooned out there in the bay. Damn thing gives me the creeps, lurking out there under the water like a rusty ghost. I doubt it's still active, but if it was, its automated weapons systems could blow this tanker to hell before you even got close to that oil rig.}
+{211}{}{¿Por qué simplemente no me matas esta vez?}
+{220}{}{Well, for one, she's been sitting there rotting in the ocean since the great war. Plus, if she were active, she would've fired on this rig back when the Enclave first docked it here. Course, I wouldn't put it past the Shi to go there and start tinkering with it, so you never know. Might be worth checking into before you set sail.}
+{221}{}{¿Cómo pudo hacerme esto?}
+{230}{}{If anyone knows what's going on with that sub, it'd be the Shi. The sub's what brought 'em here in the first place - I wouldn't be surprised if they worship the thing. The Shi Emperor would know everything, of course, but good luck with that. You'd be better off asking Lao Chou, over at the Flying Dragon 8 - he's been known to dole out information from time to time. Hell, maybe you could even get one of the dock workers to talk.}

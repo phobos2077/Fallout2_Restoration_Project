@@ -1,4 +1,4 @@
-{100}{}{Ves a un drogadicto.}
+{100}{}{Ves a un adicto.}
 {101}{}{Ves a Petey.}
 {150}{}{Este de aquí es un pobre drogadicto.}
 {151}{}{Parece que Petey necesita ayuda.}
@@ -13,16 +13,17 @@
 {162}{}{Quizás la próxima vez. Gracias de todos modos. [cof]}
 {163}{}{[hecho]}
 {164}{}{Muchas gracias. [cof] Mu-mu-muchas gracias.}
-{165}{}{De nada.}
+{165}{}{No hay de qué.}
 {166}{}{Ya, ya.}
 {167}{}{Señor, [cof] ¿puede ayudar a un pobre hombre con mala suerte?}
-{168}{}{Aquí tienes 5 dólares.}
+{168}{}{Aquí tengo 50 dólares.}
 {169}{}{Hoy no.}
 {170}{}{Búscate un trabajo.}
 {171}{}{Buena señora, ¿podría ayudar, por favor, [cof] a un pobre hombre hambriento que está [cof] demasiado enfermo para trabajar?}
 {172}{}{Pobrecito, aquí tienes 5 dólares.}
 {173}{}{Me he prometido no dar dinero a los pedigüeños.}
 {174}{}{No.}
+{175}{}{Lo siento, no tengo dinero.}
 {200}{}{Eh, hombre; ¿tienes algo suelto?}
 {201}{}{¿Puede darme algo suelto, amable señor?}
 {202}{}{Eh, ¿podrías ayudarme con unos pocos dólares?}
@@ -40,9 +41,11 @@
 {231}{}{Uhhh...}
 {232}{}{[se ríe]}
 {233}{}{Eh...}
+{234}{}{Maravilloso...}
+{235}{}{Uh, sé...}
 {300}{}{Ahhh, ¿alguien ha matado al puto Tubby?}
 {301}{}{¿Qué coño le ha pasado a Tubby?}
-{302}{}{Oh, mierda, Tubby...}
+{302}{}{Por Dios, ¿por qué tuviste que hacer eso?}
 {303}{}{Ahhh...}
 {304}{}{De todas formas ese gilipollas no me caía bien.}
 {305}{}{¿Flick está muerto? Mierda.}
@@ -66,3 +69,5 @@
 {333}{}{Eres un amigo.}
 {334}{}{Ehhh... Gracias otra vez, Flick.}
 {335}{}{Eres un amigo, Flick.}
+{340}{}{Ahora, morirás.}
+{341}{}{Toma esto y lárgate de aquí, Petey.}

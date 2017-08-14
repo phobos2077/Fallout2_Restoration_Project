@@ -27,12 +27,12 @@
 {136}{}{(Te mira y sacude la cabeza)}
 {137}{}{(Hace un gesto grosero de forma sutil)}
 {138}{}{Estoy seguro de que eres el responsable de la mutilación de ganado.}
-{139}{}{Algunos de los cazadores han desaparecido y probablemente tú seas la causa.}
+{139}{}{Algunos de los tramperos han desaparecido y probablemente tú seas la causa.}
 {140}{}{Hay hombres bicho asustando al pueblo.}
 {141}{}{Hay un espíritu en un cañón al este del pueblo.}
 {142}{}{¡No dejes que los espíritus te pillen!}
 {143}{}{Será mejor que no se te ocurra robar nuestro ganado.}
-{144}{}{No te voy a quitar el ojo de encima.}
+{144}{}{Te estamos vigilando.}
 {150}{}{Me alegra ver a alguien nuevo en el pueblo.}
 {151}{}{Parece que los tribales no son tan malos después de todo.}
 {152}{}{¡Invítanos a una ronda!}

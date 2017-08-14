@@ -1542,27 +1542,27 @@
 {152800}{}{Puerta}
 {152900}{}{Puerta}
 {153000}{}{Puerta}
-{153100}{}{Casco del transbordador}
-{153200}{}{Casco del transbordador}
-{153300}{}{Casco del transbordador}
-{153400}{}{Casco del transbordador}
-{153500}{}{Casco del transbordador}
-{153600}{}{Casco del transbordador}
-{153700}{}{Casco del transbordador}
-{153800}{}{Casco del transbordador}
-{153900}{}{Casco del transbordador}
-{154000}{}{Casco del transbordador}
-{154100}{}{Casco del transbordador}
-{154200}{}{Casco del transbordador}
-{154300}{}{Casco del transbordador}
-{154400}{}{Casco del transbordador}
-{154500}{}{Casco del transbordador}
-{154600}{}{Casco del transbordador}
-{154700}{}{Casco del transbordador}
-{154800}{}{Casco del transbordador}
-{154900}{}{Casco del transbordador}
-{155000}{}{Casco del transbordador}
-{155100}{}{Casco del transbordador}
+{153100}{}{Muro}
+{153200}{}{Muro}
+{153300}{}{Muro de piedra}
+{153400}{}{Muro de piedra}
+{153500}{}{Muro de piedra}
+{153600}{}{Muro de piedra}
+{153700}{}{Muro de piedra}
+{153800}{}{Muro}
+{153900}{}{Muro}
+{154000}{}{Muro}
+{154100}{}{Muro}
+{154200}{}{Muro}
+{154300}{}{Muro}
+{154400}{}{Muro}
+{154500}{}{Muro}
+{154600}{}{Muro}
+{154700}{}{Muro}
+{154800}{}{Muro}
+{154900}{}{Muro}
+{155000}{}{Muro}
+{155100}{}{Muro}
 {155200}{}{Casco del transbordador}
 {155300}{}{Emisor de campo de fuerza}
 {155400}{}{Muro}
@@ -1645,3 +1645,312 @@
 {163100}{}{Puerta}
 {163200}{}{Puerta}
 {163300}{}{Muro}
+{163400}{}{Muro}
+{163500}{}{Muro}
+{163600}{}{Muro}
+{163700}{}{Muro}
+{163800}{}{Muro}
+{163900}{}{Muro}
+{164000}{}{Muro}
+{164100}{}{Muro}
+{164200}{}{Muro}
+{164300}{}{Muro}
+{164400}{}{Muro}
+{164500}{}{Muro}
+{164600}{}{Muro}
+{164700}{}{Muro}
+{164800}{}{Muro}
+{164900}{}{Emisor de campo de fuerza}
+{165000}{}{Emisor de campo de fuerza}
+{165100}{}{Emisor de campo de fuerza}
+{165200}{}{Emisor de campo de fuerza}
+{165300}{}{Emisor de campo de fuerza}
+{165400}{}{Emisor de campo de fuerza}
+{165500}{}{Emisor de campo de fuerza}
+{165600}{}{Emisor de campo de fuerza}
+{165700}{}{Emisor de campo de fuerza}
+{165800}{}{Emisor de campo de fuerza}
+{165900}{}{Emisor de campo de fuerza}
+{166000}{}{Emisor de campo de fuerza}
+{166100}{}{Emisor de campo de fuerza}
+{166200}{}{Emisor de campo de fuerza}
+{166300}{}{Emisor de campo de fuerza}
+{166400}{}{Muro de piedra}
+{166500}{}{Muro de piedra}
+{166600}{}{Muro de piedra}
+{166700}{}{Muro de piedra}
+{166800}{}{Muro de piedra}
+{166900}{}{Muro}
+{167000}{}{Muro}
+{167100}{}{Muro}
+{167200}{}{Muro}
+{167300}{}{Pilar}
+{167400}{}{Pilar}
+{167500}{}{Pilar}
+{167600}{}{Pilar}
+{167700}{}{Muro}
+{167800}{}{Muro}
+{167900}{}{Muro}
+{168000}{}{Muro}
+{168100}{}{Muro}
+{168200}{}{Muro}
+{168300}{}{Muro}
+{168400}{}{Muro}
+{168500}{}{Muro}
+{168600}{}{Muro}
+{168700}{}{Muro}
+{168800}{}{Muro}
+{168900}{}{Muro}
+{169000}{}{Muro}
+{169100}{}{Muro}
+{169200}{}{Muro}
+{169300}{}{Muro}
+{169400}{}{Muro}
+{169500}{}{Muro}
+{169600}{}{Muro}
+{169700}{}{Muro}
+{170000}{}{Pared de acero}
+{170100}{}{Pared de acero}
+{170200}{}{Muro}
+{170300}{}{Muro}
+{170400}{}{Muro}
+{170500}{}{Muro}
+{170600}{}{Muro}
+{170700}{}{Muro}
+{170800}{}{Muro}
+{170900}{}{Muro}
+{171000}{}{Puerta}
+{171100}{}{Puerta}
+{171200}{}{Muro}
+{171300}{}{Muro}
+{171400}{}{Puerta}
+{171500}{}{Puerta}
+{171600}{}{Muro}
+{171700}{}{Muro}
+{171800}{}{Puerta}
+{171900}{}{Puerta}
+{172000}{}{Muro}
+{172100}{}{Barandilla de acero}
+{172200}{}{Barandilla de acero}
+{172300}{}{Barandilla de acero}
+{172400}{}{Barandilla de acero}
+{172500}{}{Barandilla de acero}
+{172600}{}{Barandilla de acero}
+{172700}{}{Barandilla de acero}
+{172800}{}{Barandilla de acero}
+{172900}{}{Barandilla de acero}
+{173000}{}{Barandilla de acero}
+{173100}{}{Barandilla de acero}
+{173200}{}{Barandilla de acero}
+{173300}{}{Barandilla de acero}
+{173400}{}{Muro}
+{173500}{}{Muro}
+{173600}{}{Muro}
+{173700}{}{Muro}
+{173800}{}{Muro}
+{173900}{}{Muro}
+{174000}{}{Muro}
+{174100}{}{Muro}
+{174200}{}{Muro}
+{174300}{}{Muro}
+{174400}{}{Muro}
+{174500}{}{Muro}
+{174600}{}{Muro}
+{174700}{}{Muro}
+{174800}{}{Muro}
+{174900}{}{Muro}
+{175000}{}{Muro}
+{175100}{}{Muro}
+{175200}{}{Muro}
+{175300}{}{Muro}
+{175400}{}{Muro}
+{175500}{}{Muro}
+{175600}{}{Tubería}
+{175700}{}{Muro}
+{175800}{}{Muro}
+{175900}{}{Muro}
+{176000}{}{Muro}
+{176100}{}{Muro}
+{176200}{}{Muro}
+{176300}{}{Muro}
+{176400}{}{Muro}
+{176500}{}{Muro}
+{176600}{}{Muro}
+{176700}{}{Muro}
+{176800}{}{Muro}
+{176900}{}{Muro}
+{177000}{}{Muro}
+{177100}{}{Muro}
+{177200}{}{Muro}
+{177300}{}{Muro}
+{177400}{}{Muro}
+{177500}{}{Muro}
+{177600}{}{Muro}
+{177700}{}{Muro}
+{177800}{}{Muro}
+{177900}{}{Muro}
+{178000}{}{Muro}
+{178100}{}{Muro}
+{178200}{}{Muro}
+{178300}{}{Muro}
+{178400}{}{Muro}
+{178500}{}{Emisor de campo de fuerza}
+{178600}{}{Emisor de campo de fuerza}
+{178700}{}{Barandilla de acero}
+{178800}{}{Muro}
+{178900}{}{Muro}
+{179000}{}{Emisor de campo de fuerza}
+{179100}{}{Muro}
+{179200}{}{Emisor de campo de fuerza}
+{179300}{}{Muro}
+{179400}{}{Muro}
+{179500}{}{Muro}
+{179600}{}{Hatch}
+{179700}{}{Hatch}
+{179800}{}{Internal Submarine Wall}
+{179900}{}{Internal Submarine Wall}
+{180000}{}{Internal Submarine Wall}
+{180100}{}{Internal Submarine Wall}
+{180200}{}{External Submarine Wall}
+{180300}{}{External Submarine Wall}
+{180400}{}{External Submarine Wall}
+{180500}{}{External Submarine Wall}
+{180600}{}{External Submarine Wall}
+{180700}{}{External Submarine Wall}
+{180800}{}{External Submarine Wall}
+{180900}{}{External Submarine Wall}
+{181000}{}{External Submarine Wall}
+{181100}{}{External Submarine Wall}
+{181200}{}{Internal Submarine Wall}
+{181300}{}{Internal Submarine Wall}
+{181400}{}{Internal Submarine Wall}
+{181500}{}{External Submarine Wall}
+{181600}{}{External Submarine Wall}
+{181700}{}{External Submarine Wall}
+{181800}{}{External Submarine Wall}
+{181900}{}{External Submarine Wall}
+{182000}{}{External Submarine Wall}
+{182100}{}{External Submarine Wall}
+{182200}{}{External Submarine Wall}
+{182300}{}{External Submarine Wall}
+{182400}{}{Internal Submarine Wall}
+{182500}{}{Internal Submarine Wall}
+{182600}{}{Internal Submarine Wall}
+{182700}{}{Hatch}
+{182800}{}{Hatch}
+{182900}{}{Internal Submarine Wall}
+{183000}{}{Internal Submarine Wall}
+{183100}{}{Internal Submarine Wall}
+{183200}{}{Internal Submarine Wall}
+{183300}{}{Muro}
+{183400}{}{Muro}
+{183500}{}{Pared de cueva}
+{183600}{}{Pared de cueva}
+{183700}{}{Pared de cueva}
+{183800}{}{Pared de cueva}
+{183900}{}{Pared de cueva}
+{184000}{}{Pared de cueva}
+{184100}{}{Pared de cueva}
+{184200}{}{Pared de cueva}
+{184300}{}{Pared de cueva}
+{184400}{}{Pared de cueva}
+{184500}{}{Pared de cueva}
+{184600}{}{Pared de cueva}
+{184700}{}{Pared de cueva}
+{184800}{}{Pared de cueva}
+{184900}{}{Pared de cueva}
+{185000}{}{Pared de cueva}
+{185100}{}{Pared de cueva}
+{185200}{}{Pared de cueva}
+{185300}{}{Pared de cueva}
+{185400}{}{Pared de cueva}
+{185500}{}{Pared de cueva}
+{185600}{}{Pared de cueva}
+{185700}{}{Pared de cueva}
+{185800}{}{Pared de cueva}
+{185900}{}{Pared de cueva}
+{186000}{}{Pared de cueva}
+{186100}{}{Pared de cueva}
+{186200}{}{Pared de cueva}
+{186300}{}{Pared de cueva}
+{186400}{}{Pared de cueva}
+{186500}{}{Pared de cueva}
+{186600}{}{Pared de cueva}
+{186700}{}{Pared de cueva}
+{186800}{}{Pared de cueva}
+{186900}{}{Pared de cueva}
+{187000}{}{Pared de cueva}
+{187100}{}{Pared de cueva}
+{187200}{}{Pared de cueva}
+{187300}{}{Pared de cueva}
+{187400}{}{Pared de cueva}
+{187500}{}{Pared de cueva}
+{187600}{}{Pared de cueva}
+{187700}{}{Pared de cueva}
+{187800}{}{Pared de cueva}
+{187900}{}{Pared de cueva}
+{188000}{}{Pared de cueva}
+{188100}{}{Pared de cueva}
+{188200}{}{Pared de cueva}
+{188300}{}{Pared de cueva}
+{188400}{}{Pared de cueva}
+{188500}{}{Pared de cueva}
+{188600}{}{Pared de cueva}
+{188700}{}{Puerta}
+{188800}{}{Puerta}
+{188900}{}{Muro}
+{189000}{}{Muro}
+{189100}{}{Muro}
+{189200}{}{Muro}
+{189300}{}{Muro}
+{189400}{}{Muro}
+{189500}{}{Muro}
+{189600}{}{Muro}
+{189700}{}{Ventana}
+{189800}{}{Ventana}
+{189900}{}{Ventana}
+{190000}{}{Muro}
+{190100}{}{Muro}
+{190200}{}{Muro}
+{190300}{}{Muro}
+{190400}{}{Muro}
+{190500}{}{Muro}
+{190600}{}{Muro}
+{190700}{}{Muro}
+{190800}{}{Ventana}
+{190900}{}{Ventana}
+{191000}{}{Ventana}
+{191100}{}{Muro}
+{191200}{}{Muro}
+{191300}{}{Muro}
+{191400}{}{Muro}
+{191500}{}{Muro}
+{191600}{}{Muro}
+{191700}{}{Muro}
+{191800}{}{Muro}
+{191900}{}{Muro}
+{192000}{}{Ventana}
+{192100}{}{Ventana}
+{192200}{}{Ventana}
+{192300}{}{Ventana}
+{192400}{}{Ventana}
+{192500}{}{Ventana}
+{192600}{}{Muro}
+{192700}{}{Muro}
+{192800}{}{Muro}
+{192900}{}{Muro}
+{193000}{}{Ventana}
+{193100}{}{Ventana}
+{193200}{}{Ventana}
+{193300}{}{Muro}
+{193400}{}{Muro}
+{193500}{}{Muro}
+{193600}{}{Muro}
+{193700}{}{Ventana}
+{193800}{}{Ventana}
+{193900}{}{Ventana}
+{194000}{}{Puerta}
+{194100}{}{Puerta}
+{194200}{}{Puerta}
+{194300}{}{Puerta}
+{194400}{}{Puerta}

@@ -131,3 +131,5 @@
 {212}{}{Lo siento, pero sin Chad por aquí organizando al personal, no puedo distribuir el trabajo como solía hacerlo. Echaré de menos
  a ese pobre bastardo. Estirar la pata en el Yermo, como un brahmin herido...}
 {213}{}{Lo siento. Adiós.}
+{214}{}{Lo siento, pero sin Chad por aquí organizando al personal, no puedo distribuir el trabajo como solía hacerlo. Echaré de menos
+ a ese pobre bastardo. Estirar la pata en el Yermo, como un brahmin herido...}

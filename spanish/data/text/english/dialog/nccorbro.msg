@@ -319,6 +319,7 @@
 {937}{}{¡Oh, crueles, crueles dioses del sexo! ¿Qué ofensa os causamos que provocó que nos arrebatarais el cubo?}
 {938}{}{::Suspira:: Sin el cubo, quizá deba dedicarme al macramé.}
 {1000}{}{Siento enfermo mucho en barriga.}
+{1001}{}{Notas un desagradable y poco sano sabor en la boca, y te sientes mal del estómago. ¡Pero oye, 5 fichas son 5 fichas!}
 {1100}{}{¡Agh! ::escupes, escupes:: ¡Eso es un ASCO!}
 {1101}{}{Notas un desagradable y poco sano sabor en la boca, y te sientes mal del estómago. ¡Pero oye, 5 fichas son 5 fichas!}
 {1200}{}{Yo... no me siento muy bien.}

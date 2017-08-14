@@ -27,6 +27,9 @@
 {238}{}{Sulik}
 {239}{}{En vez de eso, ¿puedo hacerte otra pregunta?}
 {240}{}{He cambiado de idea. Adiós.}
+{241}{}{La Guarida}
+{242}{}{Jules}
+{243}{}{Kitsune}
 {245}{}{Adelante.}
 {246}{}{¿Sí?}
 {247}{}{No soy tu puto sirviente, así que date prisa.}
@@ -43,6 +46,8 @@
 {262}{}{No importa. Adiós.}
 {263}{}{ quiere unir gremio.}
 {264}{}{Na.}
+{265}{}{I was looking over the slaves you got back there, but you see, I have very, uh...*selective* tastes, and none of
+ them are quite what I'm looking for. Are these all the slaves you have to offer?}
 {270}{}{¿Crees que podrás soportarlo? No suelo aceptar a cualquiera... qué demonios. Si la jodes, te vendo como esclavo. Tendremos que hacerte un tatuaje en la frente que te identifique ante todo el mundo como esclavista. Es permanente, así que piénsatelo bien.}
 {271}{}{Así que nuestra delicada florecilla ha vuelto... Entonces, ¿has cambiado de idea? ¿Te harás el tatuaje después de todo?}
 {272}{}{Sí, quizás puedas hacerlo... No hace falta mucho cerebro para ir de cacería. Si la jodes, te venderé como esclavo. Si crees que puedes hacerlo tendremos que hacerte un tatuaje en la frente que te identifique como esclavista ante todo el mundo.}
@@ -218,6 +223,22 @@
 {751}{}{Vete a la mierda.}
 {752}{}{Eh, está bien.}
 {800}{}{Has matado al líder del Gremio de Esclavistas.}
+{900}{}{What you see is what you get. If you don't like my merchandise, then get the fuck out of my face and stop wasting my time.}
+{901}{}{Oh, vale. Entonces déjame preguntarte otra cosa.}
+{902}{}{Bien. Creo que iré a hacerlo ahora mismo.}
+{903}{}{Actually, I think I'm going to waste *you* and your whole sick fucking operation.}
+{910}{}{This is all I've got in stock here, you picky fuck, but I've always got new merchandise coming in from my other slave camp.
+ Maybe if you check back later, I'll have something that tickles your fancy -- but they're mostly ignorant tribals that all look the
+ fucking same, so if that's not your thing, you might be shit outta luck.}
+{911}{}{Look, this might be an unusual request, but I'd really like to get first dibs on any new merchandise you got. Is there some
+ way I could go check out the stock at your other camp? Of course, I'd be willing to pay a premium price.}
+{912}{}{Está bien. Volveré más tarde.}
+{913}{}{Good, but next time do me a favor and don't waste my time unless you've got actual business to discuss.}
+{914}{}{Premium price, huh? Now you're talking my kinda language. We usually handle sales here, but I suppose an exception could be made,
+ as long as you're serious. I'll tell you how to get there, but you better keep it to your fucking self. I swear, if you turn out to be a
+ spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pipboy.]}
+{915}{}{Déjame hacerte otra pregunta.}
+{916}{}{Gracias. Iré a buscarle ahora. Adiós.}
 {1360}{}{ dólares por ella. ¿Qué te parece?}
 {1361}{}{?}
 {1363}{}{.}

@@ -67,3 +67,27 @@
 {166}{}{De acuerdo, bien, cuídate y vuelve si necesitas algo.}
 {167}{}{Hecho.}
 {168}{}{Ahora está paranoico. Cree que Tandi va tras él. Está obsesionado con la venganza, y quiere a Tandi muerta. Está lleno de remordimientos porque huyó y vivió, en vez de morir con su banda... y la lista sigue y sigue.}
+{200}{}{Guardia de Darion}
+{201}{}{Estás muerto.}
+{202}{}{He is!? Oh, this is wonderful news.}
+{203}{}{¿Y ahora qué vamos a hacer?}
+{204}{}{¿Qué haces?}
+{205}{}{Well, I see no reason to return to my old life. The town above us doesn't have any medical assistance, so I think
+ I will go up and help them. Thank you again for freeing me.}
+{206}{}{Olvídalo. Te veré más tarde.}
+{207}{}{¡Adiós!}
+{210}{}{I still need to pack a few things. I'll see you on the outside.}
+{220}{}{Hey there, good to see you again! Everyone here really appreciates what you have done. I personally am glad
+ to be out of there. Working for Darion was a nightmare.}
+{221}{}{¿Puedes contarme algo más sobre Richard?}
+{222}{}{Está bien, nos vemos.}
+{230}{}{Well you see, I'm originally from the New California Republic, but I realized I had a gift for medical practices.
+ So I trained as much as I could under the NCR medical staff, and once I had learned all I could, I decided to try and
+ learn more by making my way to Vault City. I was lucky enough to meet Dr. Troy while he was tending an injured citizen
+ outside the vault, and long story short, he agreed to finalize my training in Vault City. I had just finished my training
+ and was heading out when Darion captured me.}
+{231}{}{? Espero que todo te fuera bien en Ocupación.}
+{240}{}{I hope so too. I think I can put my medical skills to good use here.}
+{241}{}{Adiós.}
+{250}{}{Gracias de nuevo por ayudarnos.}
+{251}{}{Es bueno volver a casa de nuevo.}

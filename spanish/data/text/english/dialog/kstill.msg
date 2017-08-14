@@ -8,3 +8,4 @@
 {130}{}{Enciendes el alambique, pero el whisky sabe como si no funcionara bien.}
 {140}{}{No hay sitio para más madera en el alambique.}
 {150}{}{Este alambique ya no está operativo. No hay necesidad de madera.}
+{160}{}{You better not. It's best not to do something before being told to do so, right?}

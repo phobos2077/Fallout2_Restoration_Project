@@ -171,3 +171,4 @@
 {267}{}{¿Qué estás haciendo otra vez aquí? ¡Te envié al Refugio! Por todos los... muy bien, haré que te escolten hasta allí de nuevo.}
 {268}{}{Valeeeee}
 {269}{}{Has convencido a Barkus para liberar a Joshua.}
+{300}{}{Me alegra que seas feliz aquí. Adiós.}

@@ -159,3 +159,6 @@ porque esto te va a costar ::tose:: 200 dólares.}
 {316}{}{[continuar]}
 {400}{}{Albóndiga.}
 {401}{}{K-9.}
+{402}{}{Kitsune.}
+{403}{}{Dex.}
+{404}{}{Jules}

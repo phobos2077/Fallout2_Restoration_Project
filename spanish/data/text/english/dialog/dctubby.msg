@@ -51,3 +51,4 @@
 {510}{}{Aquí tienes, Petey.}
 {511}{}{Sabes, Petey, deberías dejar esta mierda.}
 {512}{}{Toma esto y lárgate de aquí, Petey.}
+{520}{}{Un placer hacer negocios contigo.}

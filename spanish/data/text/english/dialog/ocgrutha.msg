@@ -123,7 +123,7 @@
 {182}{}{Dijiste que si encontrabas un GECK aquí me lo harías saber. ¿Lo has hecho?}
 {183}{}{Sí, estoy buscando un GECK. Me dijeron que podría encontrarlo aquí. ¿Sabes dónde está?}
 {184}{}{No, gracias. Tengo todo lo que necesito.}
-{185}{}{Sí, había un GECK en el almacén del Refugio. Es tuyo con mi agradecimiento.}
+{185}{}{Ah, let me see. [He leaves, then returns a moment later, awkwardly clutching some kind of metallic case in his large claws.] Yes, there was a geck in the vault storage room. It is yours with many thanks.}
 {186}{}{Sí, había un GECK en el almacén del Refugio. Sin embargo, se perdió. Lamento
  no poder dártelo como recompensa por tu generosa ayuda.}
 {187}{}{¡Gracias!}

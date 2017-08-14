@@ -39,7 +39,9 @@
 {402}{}{Te alejas}
 {403}{}{Abordas el vertibird.}
 {404}{}{Dejarlo.}
-{450}{}{[¡La puerta se cierra tras de ti, y el vertibird despega! ¡No puedes abrir la puerta!]}
+{450}{}{[Once you climb inside the cargo hold, the door seals behind you! You attempt to force it open, but it won't
+ budge. As you try to think of a way out, you hear the armored soldiers board the Vertibird, which then takes off with
+ you trapped inside!]}
 {451}{}{Oh oh}
 {452}{}{Oh, mierda...}
 {500}{}{Estas cajas están llenas de latas de un metal fuerte. A juzgar por el cuidadoso empaquetado,

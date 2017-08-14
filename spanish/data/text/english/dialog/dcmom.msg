@@ -69,6 +69,7 @@
 {409}{}{¿Has oído hablar de un Refugio o de alguien llamado Vic?}
 {410}{}{¿Qué se puede hacer en este pueblo?}
 {411}{}{¿Qué tienes para comer?}
+{417}{}{Vaya, si es el forastero misterioso. ¿Qué puedo hacer hoy por ti?}
 {425}{}{Ya lo sé. Pero todo el mundo me llama así. Demonios, incluso trato a la gente como si fueran mis hijos: siempre que obedezcas mis normas, claro.}
 {426}{}{¿Normas?}
 {435}{}{Así es. No robar, no maldecir, y no pelear, en mi tienda no lo harás. Porque si lo haces, fuera te irás. Me gusta que este sitio sea pacífico.}
@@ -111,3 +112,39 @@
 {581}{}{Gracias. Tengo otra pregunta.}
 {582}{}{Gracias, adiós.}
 {600}{}{¿Qué sabes sobre esa casa encantada?}
+{800}{}{I noticed there seems to be a lot of orphans around town.}
+{801}{}{It's a shame, isn't it? Those poor children living on the streets like that… A lot of them steal to get by -- from
+ outsiders mostly -- so if you catch one trying to relieve you of something, please take pity on 'em. I'm not saying it's
+ right, but it's a harsh world we live in, and we all do what we have to in order to make it through the day.}
+{802}{}{There's gotta be something we can do about this. From what I hear, you seem to be the only person around that
+ actually gives a damn about those kids.}
+{803}{}{Why of course I do. Children are our future. They don't *have* to grow up to be jet heads, thugs, and whores like
+ most of their deadbeat parents. Why, with an education and some love and care, these kids could grow into the kind of
+ decent folk that we so desperately need in this world. I've tried establishing an orphanage for them, but sadly, that
+ didn't pan out.}
+{804}{}{Maybe it's time to give it another try. I'm not going to be in town for too much longer, but I'll do what I can to help while I'm here.}
+{805}{}{Eh... cierto. Bueno, ha estado bien hablar contigo. Adiós.}
+{806}{}{Yes, perhaps you *could* help. You see, I procured a large building over on the south-west side that, with a little work, would make an excellent
+ orphanage. But a bunch of lowlifes are squatting there and refuse to leave unless I pay an absurd fee. Even if I *had* the money, I wouldn't give
+ it to them bullies -- they'd just use it to further poison themselves. I'd go to the authorities, but unfortunately, there's no such thing in the Den.
+ Perhaps you'd have better luck at convincing them to leave?}
+{807}{}{I'm sure I could get them out of there. One way, or another. I'll let you know once they're gone.}
+{808}{}{Never was a fan of evicting people. Perhaps someone else is better suited for this.}
+{809}{}{Oh... I see. That's really too bad. Thanks for trying though. Would you like anything before you go?}
+{810}{}{Pues no. Adiós.}
+{811}{}{If I catch one of them little bastards stealing from me, it'll be the last thing they ever do. I don't care what
+ their excuse is, a thief is a thief. Bye.}
+{820}{}{Good news, Mom. The building's all yours. I ran into a little snag, but those squatters won't be bothering you again.}
+{821}{}{The squatters said they'd leave and that they're sorry for causing trouble. They're currently cleaning the place up to try and make it up to you. I was thinking maybe, if they do well enough, you could offer some of them jobs.}
+{822}{}{Oh, that's great news! Thank you so much! I just hope no one was hurt in the process. I'll get in touch with some friends and we'll get
+ started right away. If you're still in town a few days from now, you should stop by. Hopefully, we'll have things up and running by then. Oh,
+ I'm so excited! Thanks again. Here, this meal's on me.}
+{823}{}{Hmm... I suppose everyone deserves a second chance. I'll stop over there with some friends and we'll talk things over with 'em. Thank you so much
+ for helping me with this. If you're still in town a few days from now, you should stop by. Hopefully, we'll have things up and running by then. Oh, I'm so
+ excited! Thanks again. Here, this meal's on me.}
+{824}{}{Gracias. Hasta otra.}
+{850}{}{You help establish an orphanage for the children of The Den.}
+{1821}{}{Good news, Mom. The building's all yours. It took a little convincing, but I got the squatters to agree to pack up and move on.
+ I don't think they'll be bothering you again.}
+{1822}{}{Oh, that's great news! Thank you so much! I'll get in touch with some friends and we'll get started right away. If you're still in town
+ a few days from now, you should stop by. Hopefully, we'll have things up and running by then. Oh, I'm so excited! Thanks again. Here, this meal's on me.}

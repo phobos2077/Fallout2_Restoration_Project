@@ -2,6 +2,7 @@
 {101}{}{Ves a la escandalosa Angela Bishop.}
 {150}{}{Ves a una mujer joven que viste un ajustado vestido de cuero.}
 {151}{}{Ves a Angela Bishop. Cuando te pilla mirándola, se lame los labios lentamente.}
+{152}{}{Ves a Angela Bishop. Te mira despectivamente.}
 {175}{}{Ves a una mujer joven que viste un ajustado vestido de cuero. Parece demasiado refinada como para ser puta.}
 {176}{}{Ves a Angela Bishop. Te mira despectivamente.}
 {200}{}{Mi padre te MATARÁ cuando se entere de cómo me has tratado.}

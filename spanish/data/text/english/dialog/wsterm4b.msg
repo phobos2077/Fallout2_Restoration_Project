@@ -1,4 +1,4 @@
-{100}{}{Una terminal.}
+{100}{}{Un terminal de computadora.}
 {101}{}{Controla la unidad de extracción de órganos de Vault-Tec.}
 {102}{}{Eres incapaz de leer lo que pone en el monitor.}
 {103}{}{Bienvenido al equipo de extracción de órganos de alta tecnología Vault-Tec. Para operarlo, por favor coloque al donante en la sala de extracciones, gire el disco para asignar la especie, y seleccione el órgano para ser extraído.}

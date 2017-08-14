@@ -500,3 +500,85 @@
 {48200}{}{La Muerte}
 {48300}{}{Frank Horrigan}
 {48301}{}{Guardaespaldas del Presidente.}
+{48400}{}{Nessa}
+{48401}{}{La aleta de una ballena muerta.}
+{48500}{}{Chamán}
+{48501}{}{Parece ser un cháman nómada.}
+{48600}{}{Guerrero}
+{48601}{}{Yo Dar, guerrero.}
+{48700}{}{Guardia}
+{48800}{}{La magia de Sulik es débil.}
+{48900}{}{Kaga}
+{49000}{}{Kaga}
+{49100}{}{Kaga}
+{49200}{}{Kaga}
+{49300}{}{Kaga}
+{49400}{}{Hologram 00000}
+{49401}{}{Gracias por las indicaciones.}
+{49500}{}{Hologram 10001}
+{49501}{}{Gracias por las indicaciones.}
+{49600}{}{Hologram 12001}
+{49601}{}{Gracias por las indicaciones.}
+{49700}{}{Hologram 10031}
+{49701}{}{Hologram for the director of Ground Maintenance.}
+{49800}{}{Hologram 40011}
+{49801}{}{Hologram for the Director of Public Relations.}
+{49900}{}{Señor Manitas}
+{49901}{}{A seriously depressed version of the Mr. Handy Robot.}
+{50000}{}{Doctor}
+{50001}{}{The leading, and only, Doctor left in the EPA.}
+{50100}{}{Planta de esporas}
+{50101}{}{Ves una planta espora.}
+{50200}{}{Kitsune}
+{50300}{}{La Guarida}
+{50400}{}{Jules}
+{50500}{}{Bolsa de doctor}
+{50501}{}{Trabajo 'qui para Doctor.}
+{50600}{}{Fruta}
+{50601}{}{Tallo de maíz mutado.}
+{50700}{}{A hologram}
+{50701}{}{A hologram.}
+{50800}{}{Mina: Nivel 1}
+{50900}{}{Mina: Nivel 2}
+{51000}{}{Mina: Nivel 1}
+{51100}{}{Mina: Nivel 1}
+{51200}{}{Mina: Nivel 1}
+{51300}{}{Mina: Nivel 1}
+{51400}{}{Mina: Nivel 2}
+{51500}{}{Nuevo nivel}
+{51600}{}{Nuevo nivel}
+{51700}{}{Nuevo nivel}
+{51800}{}{Cubas Nivel 1}
+{51900}{}{Cubas Nivel 2}
+{52000}{}{Refugio 15: Nivel 3}
+{52100}{}{Cat Jules - level 4}
+{52200}{}{Cat Jules - level 5}
+{52300}{}{MIBoba Fe88}
+{52400}{}{Hivan Zolo}
+{52500}{}{Continúa}
+{52600}{}{Merodeadora}
+{52700}{}{¡Alabado sea el Eje!}
+{52800}{}{R2Qwerty}
+{52900}{}{Chrissy}
+{53000}{}{Yosan12}
+{53100}{}{Obi-Wan-Killap}
+{53200}{}{Empress Timeslip}
+{53300}{}{Ayudar a Skynet.}
+{53400}{}{Mon-Morticia}
+{53500}{}{Kanhef}
+{53600}{}{HawkEyE}
+{53700}{}{Tumba}
+{53800}{}{Doctor Wong}
+{53900}{}{encinodude}
+{54000}{}{Minicañón}
+{54100}{}{Bofast}
+{54200}{}{Krom}
+{54300}{}{Planta de esporas}
+{54400}{}{Alien duro}
+{54500}{}{Planta de esporas}
+{54501}{}{Ves una planta espora.}
+{54600}{}{Perro salvaje}
+{54601}{}{Un perro salvaje de raza cruzada}
+{54700}{}{Robot centinela Mark II}
+{54800}{}{Viejo Joe}
+{54900}{}{(¿Es ésta una criatura Americana?)}

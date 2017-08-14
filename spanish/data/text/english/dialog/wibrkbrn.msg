@@ -3,3 +3,4 @@
 {101}{}{Reemplazas la unidad motriz rota.}
 {102}{}{Conectas el cerebro a la interfaz neuronal del recipiente.}
 {103}{}{La reserva de gel biomédico ahora está llena.}
+{104}{}{Este bot parece desactivado.}

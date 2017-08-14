@@ -416,7 +416,7 @@
 {516}{}{Monte Tres-Cartas}
 {517}{}{Algernon}
 {518}{}{Bill}
-{519}{}{Guardaespaldas de Bishop}
+{519}{}{Guardaespaldas}
 {520}{}{John Bishop}
 {521}{}{Tragaperras}
 {522}{}{Chico del desguace}
@@ -822,7 +822,7 @@
 {922}{}{Josh}
 {923}{}{Caminetto}
 {924}{}{Bette}
-{925}{}{Mai Da Chiang}
+{925}{}{Comerciante de armas}
 {926}{}{Puerta}
 {927}{}{Puerta}
 {928}{}{Emisor}
@@ -889,7 +889,7 @@
 {989}{}{Existencias de Darrow}
 {990}{}{Puerta}
 {991}{}{Mutante superguay}
-{992}{}{Doctor Jing Tie Gahng}
+{992}{}{Farmaceútico}
 {993}{}{Grundel}
 {994}{}{Melchior Jr.}
 {995}{}{Escaner de retina}
@@ -964,7 +964,7 @@
 {1064}{}{Map Script}
 {1065}{}{Lydia}
 {1066}{}{}
-{1067}{}{Harry el Astronauta}
+{1067}{}{Cohete}
 {1068}{}{AHS-7}
 {1069}{}{Crockett}
 {1070}{}{Amanda}
@@ -1054,8 +1054,8 @@
 {1154}{}{Quincy}
 {1155}{}{Oficial de intendencia}
 {1156}{}{Guardia}
-{1157}{}{Perro cibernético}
-{1158}{}{Doctor Schreber}
+{1157}{}{K-9.}
+{1158}{}{Doctor}
 {1159}{}{Técnico}
 {1160}{}{Técnico}
 {1161}{}{Guardia}
@@ -1099,9 +1099,9 @@
 {1199}{}{Klaxon}
 {1200}{}{Mina}
 {1201}{}{Foso}
-{1202}{}{Cal}
-{1203}{}{Slim}
-{1204}{}{Jenna}
+{1202}{}{Comerciante del petrolero}
+{1203}{}{Camarero del petrolero}
+{1204}{}{Comerciante del petrolero}
 {1205}{}{}
 {1206}{}{}
 {1207}{}{Emisor}
@@ -1127,7 +1127,7 @@
 {1227}{}{Computadora}
 {1228}{}{Kohl}
 {1229}{}{Niño}
-{1230}{}{Galleta}
+{1230}{}{Cocinero}
 {1231}{}{Torreta}
 {1232}{}{Brian}
 {1233}{}{Generador}
@@ -1307,3 +1307,252 @@
 {1407}{}{}
 {1408}{}{}
 {1409}{}{}
+{1410}{}{Bill}
+{1411}{}{}
+{1412}{}{Niño}
+{1413}{}{Garra mortal}
+{1414}{}{Hermana Acero}
+{1415}{}{Tumba}
+{1416}{}{Tumba}
+{1417}{}{Base de la Hermandad}
+{1418}{}{Doctor}
+{1419}{}{Donde John}
+{1420}{}{Base de la Hermandad}
+{1421}{}{Mercader}
+{1422}{}{Mercader}
+{1423}{}{Mercader}
+{1424}{}{Persona}
+{1425}{}{Hola, Ciudadano.}
+{1426}{}{Persona}
+{1427}{}{Bomba de agua}
+{1428}{}{Base de la Hermandad}
+{1429}{}{Hola, Ciudadano.}
+{1430}{}{Base de la Hermandad}
+{1431}{}{--Tom}
+{1432}{}{Ves una computadora.}
+{1433}{}{Abbey Head Monk}
+{1434}{}{Abadía}
+{1435}{}{Abadía}
+{1436}{}{Abadía}
+{1437}{}{Abadía}
+{1438}{}{Base de la Hermandad}
+{1439}{}{¡Eeek! ¡Tribal!}
+{1440}{}{Ves a Matthew.}
+{1441}{}{Mapa}
+{1442}{}{Rata Topo}
+{1443}{}{Ana}
+{1444}{}{Guerrero}
+{1445}{}{Charlie}
+{1446}{}{Aldeano}
+{1447}{}{Chamán}
+{1448}{}{Fantasma}
+{1449}{}{¡Eeek! ¡Tribal!}
+{1450}{}{Kurisu}
+{1451}{}{Pozo}
+{1452}{}{Tribe map}
+{1453}{}{¡Eeek! ¡Tribal!}
+{1454}{}{Serin}
+{1455}{}{Tribe map2}
+{1456}{}{Tribe map 2 - spacial 1}
+{1457}{}{Tribe map 2 - spacial 2}
+{1458}{}{Gecko}
+{1459}{}{Guardia Esclavista}
+{1460}{}{Cadáver}
+{1461}{}{woods spacial}
+{1462}{}{Hecho}
+{1463}{}{Esclavista}
+{1464}{}{V13 map script}
+{1465}{}{Perro}
+{1466}{}{Esclavista}
+{1467}{}{Esclavo}
+{1468}{}{slavepen door}
+{1469}{}{Estante}
+{1470}{}{Puerta}
+{1471}{}{Pequeño Joe}
+{1472}{}{Little Bobby's Father}
+{1473}{}{Okupa}
+{1474}{}{Traficante}
+{1475}{}{Barrio Residencial}
+{1476}{}{Huérfano}
+{1477}{}{Campesino}
+{1478}{}{V13 map script}
+{1479}{}{Persona con un extraño tipo de armadura}
+{1480}{}{Persona con un extraño tipo de armadura}
+{1481}{}{safe}
+{1482}{}{Guardia}
+{1483}{}{Hubologista}
+{1484}{}{Guardia Hubologista}
+{1485}{}{Guardia Hubologista}
+{1486}{}{Puerta metálica}
+{1487}{}{V13 map script}
+{1488}{}{Contenedor}
+{1489}{}{Brahmin}
+{1490}{}{Trampilla}
+{1491}{}{gate}
+{1492}{}{Jefe Nómada}
+{1493}{}{Cabeza parlante}
+{1494}{}{V13 map script}
+{1495}{}{EPA MAIN}
+{1496}{}{Nuevo nivel}
+{1497}{}{Señor Manitas}
+{1498}{}{Hologram 00000}
+{1499}{}{La tumba ha sido cubierta.}
+{1500}{}{Hologram 10001}
+{1501}{}{Hologram 12001}
+{1502}{}{Hologram 10031}
+{1503}{}{Hologram 40011}
+{1504}{}{Plantas}
+{1505}{}{Mr. Chemmie!}
+{1506}{}{La Guarida}
+{1507}{}{Jules}
+{1508}{}{Kitsune}
+{1509}{}{Guerrero}
+{1510}{}{Bug Spray}
+{1511}{}{Documentos del doctor}
+{1512}{}{Hormiga gigante}
+{1513}{}{Doctor}
+{1514}{}{Fruta}
+{1515}{}{Creak}
+{1516}{}{Robot}
+{1517}{}{Robot}
+{1518}{}{EPA Leaflet}
+{1519}{}{Computadora}
+{1520}{}{Computadora del reactor}
+{1521}{}{Computadora del reactor}
+{1522}{}{Ganzúa electrónica}
+{1523}{}{Holo-generador}
+{1524}{}{Puerta de seguridad}
+{1525}{}{Puerta del ascensor}
+{1526}{}{Puerta}
+{1527}{}{Random Chemicals}
+{1528}{}{Subterráneo}
+{1529}{}{Subterráneo}
+{1530}{}{Computadora del reactor}
+{1531}{}{Generador}
+{1532}{}{Campo de fuerza}
+{1533}{}{Plantas}
+{1534}{}{Piratear la computadora.}
+{1535}{}{Campo de fuerza}
+{1536}{}{¿Grandes máquinas?}
+{1537}{}{Puerta}
+{1538}{}{Computadora}
+{1539}{}{Puerta}
+{1540}{}{Computadora}
+{1541}{}{Campo de fuerza}
+{1542}{}{Dinamita}
+{1543}{}{Dinamita}
+{1544}{}{Stuff on Desk}
+{1545}{}{Taquilla}
+{1546}{}{Spatial Script}
+{1547}{}{Spatial Script}
+{1548}{}{Spatial Script}
+{1549}{}{Spatial Script}
+{1550}{}{Spatial Script}
+{1551}{}{Spatial Script}
+{1552}{}{Spatial Script}
+{1553}{}{Spatial Script}
+{1554}{}{Air Conditioning Vent}
+{1555}{}{Fan}
+{1556}{}{Fan}
+{1557}{}{Spatial Script}
+{1558}{}{Una terminal.}
+{1559}{}{Subterráneo}
+{1560}{}{spatial}
+{1561}{}{A hologram}
+{1562}{}{spatial}
+{1563}{}{}
+{1564}{}{Malditas computadoras.}
+{1565}{}{Niño}
+{1566}{}{spatial}
+{1567}{}{Vertibird}
+{1568}{}{Computadora}
+{1569}{}{spatial}
+{1570}{}{Señor Manitas}
+{1571}{}{Nuke}
+{1572}{}{Pozo}
+{1573}{}{Pozo}
+{1574}{}{}
+{1575}{}{Ranger de la RNC}
+{1576}{}{object name}
+{1577}{}{object name}
+{1578}{}{object name}
+{1579}{}{Mapa}
+{1580}{}{Ranger de la RNC}
+{1581}{}{Esclavista}
+{1582}{}{}
+{1583}{}{}
+{1584}{}{}
+{1585}{}{}
+{1586}{}{}
+{1587}{}{}
+{1588}{}{}
+{1589}{}{Puerta}
+{1590}{}{}
+{1591}{}{Matón}
+{1592}{}{Franja}
+{1593}{}{trip wire spatial}
+{1594}{}{Prostituta}
+{1595}{}{Sustancia}
+{1596}{}{Spatial Script}
+{1597}{}{Hibernation Chamber spatial}
+{1598}{}{}
+{1599}{}{Taquilla}
+{1600}{}{Map Script}
+{1601}{}{Escalera}
+{1602}{}{rey}
+{1603}{}{Meón}
+{1604}{}{Map Script}
+{1605}{}{Map Script}
+{1606}{}{Mercader}
+{1607}{}{Mercader}
+{1608}{}{Mercader}
+{1609}{}{Mercader}
+{1610}{}{Computadora}
+{1611}{}{Computadora}
+{1612}{}{Auto-Doctor}
+{1613}{}{Base de la Hermandad}
+{1614}{}{Todd}
+{1615}{}{Roberta}
+{1616}{}{Guardia}
+{1617}{}{Embalaje}
+{1618}{}{Ravenous Human}
+{1619}{}{Mapa}
+{1620}{}{¡Tenía activado mi campo de fuerza!}
+{1621}{}{Fan}
+{1622}{}{Guardia}
+{1623}{}{Tu Bote}
+{1624}{}{Guardia}
+{1625}{}{Basura}
+{1626}{}{Escaleras}
+{1627}{}{Hueco del ascensor}
+{1628}{}{spatial}
+{1629}{}{Hueco del ascensor}
+{1630}{}{Taquilla}
+{1631}{}{Guardia de despacho}
+{1632}{}{Técnico}
+{1633}{}{Técnico}
+{1634}{}{Técnico}
+{1635}{}{spatial}
+{1636}{}{Trabajador del puerto}
+{1637}{}{V13 map script}
+{1638}{}{Puerta}
+{1639}{}{spatial}
+{1640}{}{Consola de Computadora}
+{1641}{}{Consola de Computadora}
+{1642}{}{Sólo al apuntar}
+{1643}{}{torpedo bay}
+{1644}{}{sub hatch}
+{1645}{}{Guardia}
+{1646}{}{Vertibird}
+{1647}{}{spatial}
+{1648}{}{serum}
+{1649}{}{Guardia de caravana}
+{1650}{}{Doctor Fung}
+{1651}{}{Plant Creature}
+{1652}{}{Dr. Sheng's hideout}
+{1653}{}{Puerta}
+{1654}{}{Puerta}
+{1655}{}{spatial}
+{1656}{}{Robot de reparaciones}
+{1657}{}{Robot de seguridad}
+{1658}{}{Puerta}

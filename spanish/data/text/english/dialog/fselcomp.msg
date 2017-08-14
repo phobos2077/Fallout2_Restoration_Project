@@ -36,6 +36,13 @@
 {135}{}{Servidor operativo. Oleoducto operativo. Estaciones de investigación operativas. Centro de reparaciones operativo. Cámaras operativas.}
 {136}{}{Atrás.}
 {137}{}{Salir.}
+{200}{}{[La Iglesia Hubologista parece ser inmensamente rica. El enfoque habitual es pedirle a un nuevo recluta que done todas sus posesiones mundanas a la Iglesia como señal de buena fe. Cuando a alguien no le pide hacer esto, aparentemente significa que los Hubologistas no pretenden tratarlo de forma honesta. Tienen un enorme alijo con el botín escondido en algún lugar del desierto. No puedes descifrar las coordenadas].}
+{201}{}{[La Iglesia Hubologista parece ser inmensamente rica. El enfoque habitual es pedirle a un nuevo recluta que done todas sus posesiones mundanas a la Iglesia como señal de buena fe. Cuando a alguien no le pide hacer esto, aparentemente significa que los Hubologistas no pretenden tratarlo de forma honesta. Tienen un enorme alijo con el botín escondido en algún lugar del desierto. No puedes descifrar las coordenadas].}
+{210}{}{Intentar piratear el sistema.}
+{211}{}{[After some time you gain full administrative access to the mainframe. You can now do whatever you want to the system.]}
+{212}{}{Intentar piratear el sistema.}
+{213}{}{Initializing format procedure...Initialized...Formatting...Formatting Complete...System is shutting down. Goodbye.}
+{220}{}{Necesito que formatees el disco duro Hubologista.}
 {250}{}{Dirigir combustible al petrolero Poseidon.}
 {251}{}{Combustible dirigido a petición. Tanques de almacenamiento = Vacíos. Cerrando programa.}
 {252}{}{[HECHO]}

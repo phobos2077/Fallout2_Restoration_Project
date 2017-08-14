@@ -95,3 +95,4 @@
 {366}{}{Córtame, Mick.}
 {367}{}{Recuerda usar el directo de izquierda!}
 {368}{}{¡Veo tres de ellos!}
+{400}{}{Te está mirando malhumorado.}

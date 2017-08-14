@@ -1,10 +1,10 @@
 {100}{}{Ves a uno de los hijos de Wright. }
 {150}{}{Ves a un chico pequeño de pelo negro.}
-{151}{}{Ves a una chica pequeña de pelo negro. Tiene el pelo tan corto, que casi la confundes con un chico.}
+{151}{}{Ves a un chico pequeño de pelo negro.}
 {155}{}{Te saca la lengua.}
 {156}{}{Te está mirando malhumorado.}
 {157}{}{Te saca la lengua.}
-{158}{}{Su pelo negro está tan corto, que puede usar, de modo muy conveniente, el modelo de personaje niño masculino.}
+{158}{}{Te mira sin comprender.}
 {159}{}{Te está mirando malhumorada.}
 {175}{}{Fallout 2, ofrecido en respuesta a la gran demanda de nadie.}
 {176}{}{¡Oye! }

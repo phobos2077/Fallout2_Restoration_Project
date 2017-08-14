@@ -153,3 +153,12 @@
 {618}{}{Será mejor que nos vayamos pronto por si acaso Metzger piensa que fuimos nosotros los que matamos a sus guardias.}
 {619}{}{¿Has estado en Nuevo Reno? Quizás nos dirijamos allí... o al norte.}
 {650}{}{¡De acuerdo! ¡Vamos! ¡Seguidme todos!}
+{700}{}{Alright, we took care of the skeleton crew here at the church, but there still is Tyler and his cronies over in the Residential area.
+ They should be pretty drunk by now and we can easily catch them off guard. You ready to finish this?}
+{701}{}{No del todo. Te avisaré cuando esté listo. Gracias.}
+{702}{}{Vamos.}
+{710}{}{¿Estás listo para pagar los 10.000 dólares esta vez?}
+{720}{}{Well, don't stray too far. We need to finish this tonight or we'll do it without you.}
+{721}{}{Volveré.}
+{722}{}{Vamos.}
+{730}{}{We did it. I can't believe it! We're heading back to the church to take charge. Meet us back there for your reward.}

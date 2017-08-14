@@ -24,6 +24,7 @@
 {161}{}{Ajá, ¿y?}
 {170}{}{Pues ahora que has ayudado a reparar nuestra central nuclear, tengo muchas más posibilidades de obtener lo que quiero. Maximizar mi potencial.}
 {171}{}{¿Maximizar tu potencial? ¿A qué te refieres?}
+{172}{}{Is this greed talking again, Gordon?}
 {180}{}{También he descubierto, a través de una fuente muy confiable, que Ciudad Refugio no se puede expandir sin energía adicional.}
 {181}{}{¿Ciudad Refugio no se puede expandir?}
 {182}{}{¿Una fuente muy confiable? ¿Quién?}

@@ -900,3 +900,5 @@
 {883}{}{Uh, ha sido un error... no quería decir --}
 {884}{}{Mis disculpas, Primer Ciudadano. Yo --}
 {885}{}{¡Guardias!}
+{1663}{}{They were holed up in a series of caves in the foothills to the South. I convinced their guide to not help them anymore. Without him, they will be unable to find their way through the mountains.}
+{1708}{}{They were holed up in a series of caves in the foothills to the South. I convinced their guide to not help them anymore. Without him, they will be unable to find their way through the mountains.}

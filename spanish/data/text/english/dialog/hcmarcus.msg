@@ -90,7 +90,7 @@
 {189}{}{Jacob y Aileen me pidieron que liberase de la cárcel a dos tipos. creo que tienen un plan para conseguirlo.}
 {190}{}{Jacob y Aileen quieren que vuele por los aires la mina. Pensé que podría interesarte saberlo.}
 {191}{}{Un científico de la RNC quiere probar una droga experimental que barrerá del mapa a los mutantes. Ten cuidado con lo que comes y bebes.}
-{192}{}{Chad se quedó con 6.000 dólares del representante de Gecko. El representante se quejaba del precio… decía que estaba subiendo.}
+{192}{}{It looks like you were right about Chad skimming money. He lied to the Gecko rep about a miners' strike to justify a price hike. I'm guessing he's pocketing the profit.}
 {193}{}{Chad se quedó con unos 1.000 dólares del último envío de uranio. Está planeando largarse de la ciudad. Tengo un maletín de documentos para demostrarlo.}
 {194}{}{Nada. Olvídalo.}
 {195}{mcs24}{¿Túneles bajo la ciudad? Supongo que no es extraño, habiendo minas por aquí. Seguirás buscando a esa gente, ¿verdad? }
@@ -325,6 +325,7 @@
 {10005}{}{No te alejes demasiado.}
 {10006}{}{Deberíamos separarnos un poco.}
 {10007}{}{Vámonos pues.}
+{10008}{}{¿Puedes llevarme a tu jardín?}
 {10100}{}{Vamos, Marcus. Hora de continuar.}
 {20000}{mcs81b}{Correcto.}
 {20001}{}{Je. Puedo usar casi cualquier tipo de arma grande, como lanzacohetes y ametralladoras,

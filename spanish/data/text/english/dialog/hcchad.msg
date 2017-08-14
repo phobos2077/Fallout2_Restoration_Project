@@ -28,7 +28,7 @@
 {144}{}{¿Como qué?}
 {145}{}{Él sospecha que está rociando el dinero que se supone que va a Broken Hills.}
 {146}{}{Nada en realidad. Adiós.}
-{147}{}{Mira, no me gusta que la gente me acuse de algo de lo que no sé nada. Te sugiero que te vayas.}
+{147}{}{Look, I don't know anything about that, and I sure as hell don't like it when people accuse me of things. Now I suggest you leave.}
 {150}{}{Voy a encontrar la verdad. Adiós.}
 {156}{}{Habla con Bill. Él te ayudará.}
 {157}{}{Tengo más preguntas.}
@@ -50,3 +50,35 @@
 {173}{}{Mantén los ojos bien abiertos.}
 {174}{}{Te cubriré las espaldas.}
 {175}{}{No dejes que esos cabrones se te echen encima.}
+{200}{}{I don't know what yer talking about. I suggest you drop this matter before you start to piss people off. Now get outta here.}
+{201}{}{I got a better idea. How about I beat you to death instead.}
+{202}{}{Se metieron con la caravana equivocada.}
+{203}{}{Bien. Adiós.}
+{204}{}{Ah dammit, I knew this wouldn't last forever. [Looks around and lowers his voice.] Alright, listen. Keep your mouth shut about this little matter. Here's $1000 to keep you quiet. [He hands you the money.] Now, if you'll excuse me, I have to get going.}
+{205}{}{[HECHO]}
+{206}{}{Tenéis un montón de coches por aquí.}
+{207}{}{}
+{208}{}{¿Qué... quién demonios eres?}
+{209}{}{Me? Uh, I'm the tooth fairy. I have come to bring you great riches.}
+{210}{}{Yeah and I'm Saint Nick. Now who the fuck are you and why are you in my house?}
+{211}{}{Really? I met a guy in New Reno who also claims to be Saint Nick.}
+{212}{}{::Te mira fijamente::}
+{213}{}{(going on) Yeah, and then I told him my life story about Arroyo...}
+{214}{}{Listen, I don't give a flying fuck about any of your rambling bullshit. You're the one who's been snooping around, asking questions about the missing caravan money.}
+{215}{}{That's right. And I'm here to collect the final piece of evidence I need to put you away.}
+{216}{}{Oh yeah? Let me help. The documents you're looking for are in a briefcase that's locked away in the bottom drawer
+ of that dresser over there. But you're never gonna touch it, 'cause I'm gonna kill you, you fuckin' do-gooder. If it
+ weren't for you, I coulda kept skimming off the caravan runs for another couple months. But no, you had to go an'
+ meddle in affairs that aren't any of your fuckin' concern. So now I gotta flee town, but at least I'll have the pleasure
+ of leaving your corpse behind.}
+{217}{}{No one has to die here, Chad. Instead of doing something stupid that might get you killed, you should calm down, and we'll talk this over with Marcus.}
+{218}{}{You think I'm stupid? That big ugly prick would lock me up in a second. No, I'm afraid someone's certainly going to die here. And it's not gonna be me!}
+{219}{}{I'm here for the last piece of evidence in the caravan skimming case.}
+{220}{}{Oh really?...I thought I recognized you.}
+{221}{}{Alright, Alright. I admit to everything. I don't want to die for this. Tell Marcus I'll come peacefully.}
+{222}{}{De acuerdo entonces. Lo haré.}
+{300}{}{You allow Chad to skip town.}
+{400}{}{Déjame tranquilo.}
+{2040}{}{Ah dammit I knew this wouldn't last forever. (Looks around and lowers his voice.) Alright listen. Keep your
+ mouth shut about this little matter. Here's $1000 to keep you quiet. [He hands you the money and you hand him his briefcase.]
+ Now if you excuse me I have to get going.}

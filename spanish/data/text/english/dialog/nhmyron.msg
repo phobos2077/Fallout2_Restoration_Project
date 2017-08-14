@@ -145,6 +145,10 @@
 {593}{}{Entonces... lo de Miria y tú. ¿Vais en serio, o...?}
 {594}{}{Entonces... lo de Miria y tú. ¿Sois libres para estar con otras personas, o....?}
 {595}{}{¿Sueles intercambiar esposas? Puedes quedarte con la mía en cuanto consiga una.}
+{596}{}{So...who is this hot oriental looking chick?}
+{597}{}{Miria es realmente guapa. ¿Puedo?... bien, ya sabes… ¿qué opinas?}
+{598}{}{Seguuuuuuro que tu mujer es muy guapa.}
+{599}{}{Entonces... lo de Miria y tú. ¿Vais en serio, o...?}
 {600}{}{¿Listo para continuar?}
 {605}{}{¿Por qué demonios estamos AQUÍ?}
 {606}{}{Todo el mundo en esta ciudad necesita un enema.}
@@ -635,6 +639,7 @@
 {3004}{}{¿Con qué armas eres hábil, Myron? ¿Alguna?}
 {3005}{}{No importa, hay otra cosa que necesito de ti.}
 {3025}{}{Lo que sea.}
+{4000}{}{Yeah, this should be where that facility I marked on your map is. Probably deep underground too.}
 {5000}{}{¡Joder! ¡Joder! ¡No puedo sentir más este miembro!}
 {5001}{}{¡Siento como estoy derritiendo! ¡Joder!}
 {5002}{}{¡Estoy vomitando mis putos tripas por aquí!}

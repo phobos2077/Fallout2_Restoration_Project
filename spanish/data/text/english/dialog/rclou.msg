@@ -170,3 +170,10 @@
 {234}{}{¿Qué está ocurriendo en este pueblo?}
 {300}{}{Has ayudado a curar la adicción de Fannie.}
 {301}{}{Adiós.}
+{310}{}{Hmmm... Quizás tengo una solución a eso. [Dar a Lou el antídoto del Jet]}
+{1103}{}{Hola. Soy Lou. Propietaria del Salón Malamute, el mejor local al norte de San Fran.}
+{1104}{}{Hola. Soy Lou. Propietaria del Salón Malamute, el mejor local al norte de San Fran.}
+{1105}{}{Sigo sin creer que dejaras libre a ese bastardo que rajó a mi chica. Y todavía tienes el valor
+ de volver aquí. ¿Qué demonios quieres?}
+{1106}{}{Sigues siendo un jodido idiota. Pero la vida sigue para el resto de nosotros. Y ahora dime simplemente qué demonios quieres.}
+{1107}{}{Recuerda lo que he dicho. Demasiado dinero no es bueno para esa chica. Y ahora, ¿qué necesitas?}

@@ -307,3 +307,73 @@
 {1003}{}{Oh Jesús, María, y Jose, no volveré a beber tanto.}
 {1004}{}{Será mejor que madrugue para ir a confesión.}
 {1005}{}{Creo que me voy a quedar acostado un poco más.}
+{2000}{}{I gotta say, Father, New Reno isn't exactly the first place I'd expect to find a preaching man.}
+{2001}{}{Whatza better place than here? B'sidez, they sure as hell didn't want to keep me at their damned Abbey.
+ Bah! Lettem keep their peazful, dull, monastery. Who needs it? Huh? Not me! But ya know what? Those monks sure could
+ make sum good hooch. Oh boy, best damn hooch ever. (He licks his lips.) Ol' Samuel and I, we had ourselfz a lotta fun
+ wit that hooch, lemme tell ya.}
+{2002}{}{Booze at a monastery. Interesting, I think I might have to visit this place. Do you think you could point out its location on my map?}
+{2003}{}{Alright, if I'm interpreting your drunken ramblings correctly, then it sounds like you came from some sort of monastery, where you did a
+ lot of drinking with some guy named Samuel. Father, if you could point out its location on my map, then maybe I could go meet your friend and try
+ some of this hooch you're so fond of.}
+{2004}{}{(You pull out your PipBoy and hold it out for Father Tully to point out the location. He first points at the ocean, then at a random
+ mountain range to the south. After almost poking his eye out, he finally settles his finger on the northeast corner of the map.) Yep, there'z
+ the Abbey. That seemz bout right.}
+{2005}{}{Ninguna de las dos. Aunque tengo otras preguntas.}
+{2006}{}{Thanks. But I'm curious, why'd you leave the Abbey?}
+{2007}{}{Vale, lo que sea. Debo irme ahora.}
+{2008}{}{Well dat wuz a loooong time ago. I haddent quite gotten my act together yet. It waz before th' angel Mrs Wright put me in line. Ya see,
+ them monks didn't take kindly to my wild ways. Me and Brother Samuel, we useta get a lil crazy. Hehe, this one night, Sammy and I went 'round to
+ the sleepin monks, and put their handz in bowls a warm water. Even got the Abbot! Ha! Those were the dayz, lemme tell ya.}
+{2009}{}{That's pretty childish, Father. I take it you were eventually kicked out?}
+{2010}{}{Right. I've had enough of these amateur drunk stories. See you around, Father.}
+{2011}{}{I dunno if I'd say they *kicked* me out... but they zure as hell didn't want me to stick around—not after that night I passed out and
+ axidently set fire to one a th' lieberrys. Boy, you shoulda seen the Abbot's face… if he had half a backbone, he'd a prolly strangled me. Ha! So I
+ left, and good riddenze! I sure do miss that hooch though. And Samuel, it'd be nice ta know how that ol' dog's doing.}
+{2012}{}{I'll be doing a lot of traveling, so if I find my way over to the Abbey, maybe I'll look up this Samuel friend of yours. Hell, maybe
+ I'll even bring you back some of that booze.}
+{2013}{}{Oh, couldja, please? That'd make me happier than a disease-free Reno whore. Thanks fren.}
+{2014}{}{No, aún no. Aunque tengo algunas preguntas más.}
+{2015}{}{Nos vemos.}
+{2016}{}{I'll be doing a lot of traveling, so if I find my way over to the Abbey, maybe I'll bring you back some of that booze.}
+{2017}{}{Um, da igual. Hasta luego.}
+{2020}{}{The Abbey, huh? I've been there before. In fact, I ran into a fellow named Samuel that acts very much like you.}
+{2021}{}{Samuel!? Ha! Howzzat fella doin? Been years since I've seen 'im. Still drinking away, is he?}
+{2022}{}{Sí, bueno, que te jodan.}
+{2023}{}{Ah, thaz great. Good to hear he's doin alright. If you see him again, tell him I say hello. So... (He clasps his
+ hands together and rubs them eagerly.) So, mebbe you pick up summa the Abbey's famous hooch while yer there?}
+{2024}{}{Sí, aquí lo tengo.}
+{2025}{}{I did, but I drank it. Wow is it powerful stuff.}
+{2026}{}{No, no lo he hecho.}
+{2027}{}{No need ta rub it in my face. Itz been so long since I've had some...I could really go for a bottle or two. Any chance you'll stop by the Abbey again?}
+{2028}{}{Thatz too bad. Itz been so long since I've had some. I could really go for a bottle or two. Any chance you
+ will be stopping by the Abbey again?}
+{2029}{}{You do? Itz been so long since I've had some. Would you be willing to part with it?}
+{2030}{}{We'll see. If I do, I'll try to remember to pick some up for you. See you around, Father.}
+{2031}{}{En realidad, no. Oye, será mejor que me vaya. }
+{2032}{}{No quiero saber nada más. Aunque tenía otras preguntas...}
+{2033}{}{Desde luego. Aquí tienes.}
+{2034}{}{Creo que aún me lo voy a guardar un tiempo. Adiós, Doc.}
+{2035}{}{Claro. Por ahora… pero volveré.}
+{2036}{}{(Father Tully grabs the bottle from your hand and takes a big swig.) Oh yeah, jus like I remember it. (He takes
+ several more swigs, waves weakly at you, then stumbles away to the back room. You hear groaning, followed by a thud.)}
+{2037}{}{(Father Tully opens the donations box, grabs a handful of coins and hands them to you. You nod and hand him the
+ bottle. He snatches it from your hand and takes a big swig.) Oh yeah, jus like I remember it. (He takes several more swigs,
+ waves weakly at you and stumbles away to the back room. You hear groaning, followed by a thud.)}
+{2040}{}{The Abbey, huh? I've been there before, but I don't recall meeting anyone named Samuel.}
+{2041}{}{He's a great fella. If ya ever do run inna him, let him know I'm living the good life in New Reno. I haven't talked with him since I left th' Abbey.}
+{2042}{}{Sure. But I'm curious, why'd you leave the Abbey?}
+{2045}{}{Really? Thaz too bad. He was a good fella. I'll miss him.}
+{2046}{}{Sí, tenía algunas preguntas más...}
+{2047}{}{Um, da igual. Hasta luego.}
+{2050}{}{Tengo curiosidad. ¿Qué hay en el maletín?}
+{2060}{}{I spoke with Brother Samuel. He's apparently still drinking himself away.}
+{2061}{}{I got a bottle of the Abbey's famous booze.}
+{2062}{}{Hehe, good ol' Sam. Thaz good to hear. I s'pose someday I should try an get out there again.}
+{2063}{}{Bien, nos veremos más tarde.}
+{2064}{}{I also got a bottle of the Abbey's famous booze that you wanted.}
+{2065}{}{Hehe, good ol' Sam. Thaz good to hear. I s'pose someday I should try an get out there again.}
+{3000}{}{You inform both Father Tully and Brother Samuel about the whereabouts of each other.}
+{3001}{}{You deliver a bottle of the Abbey's famous brew to Father Tully.}
+{3022}{}{En realidad, Soy }
+{20091}{}{Hah! That's classic. I pulled the same prank on my nephew Feargus once, and when he woke up and realized he'd pissed himself, he started bawling -- it was great. Anyway, so did they end up kicking you out?}

@@ -37,10 +37,13 @@
 {136}{}{De acuerdo.}
 {137}{}{!Tú! ¿Qué demonios estás haciendo? !Largo de aquí!}
 {138}{}{Ya estás guardando tus armas ahora mismo, amigo.}
-{139}{}{¿Otra vez tú? ¿Quieres algo en realidad?}
+{139}{}{¿Otra vez tú? ¿Quieres algo?}
 {140}{}{Sólo estaba mirando.}
 {141}{}{Err... no, realmente no.}
 {142}{}{Sí. Estoy aquí para hablar con tus prisioneros.}
 {143}{}{¿Habéis considerado la posibilidad de que vuestros prisioneros esté retenidos ilegalmente?}
 {144}{}{No deberías estar deambulando por aquí. Márchate ahora mismo.}
 {145}{}{Si alguna vez descubro a dónde se han ido corriendo esos malditos prisioneros, ¡lo pagarán en el infierno!}
+{150}{}{Pero... pero... de acuerdo. Serán liberados. Pero tú tienes la responsabilidad. Tengo la esperanza de que estés en lo cierto. Aquí está la llave.}
+{151}{}{De acuerdo.}
+{152}{}{Esta cosa parece potente. ¿Que vas a hacer con esto?}

@@ -37,4 +37,7 @@
 {136}{}{Vale, guarda. Tú ganas.}
 {137}{}{Tienes suerte de que tenga que ir a revisar mis trampas.}
 {138}{}{Creo que he oído a Mamá llamarme.}
+{140}{}{Looks like I don't have any regular gecko pelts, but I do have }
+{141}{}{Looks like I don't have any golden gecko pelts, but I do have }
+{142}{}{Lo siento, se me han acabado las historias.}
 {200}{}{Ves a una mujer demacrada y sucia.}

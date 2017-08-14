@@ -3,7 +3,7 @@
 {102}{}{No hay nada en particular en el tipo. Parece el epítome del burócrata en ciernes.}
 {103}{}{Bienvenido al Congreso. ¿Cómo puedo ayudarte?}
 {104}{}{Has vuelto, por lo que que veo. ¿Cómo puedo ayudarte esta vez?}
-{105}{}{Y ahora, ¿qué puedo hacer por ti?}
+{105}{}{¿Cómo puedo ayudarte?}
 {106}{}{Uhhh...}
 {107}{}{¿Ver a Tandi yo?}
 {108}{}{¿Ver a Tandi yo?}

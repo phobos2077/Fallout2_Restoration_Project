@@ -39,6 +39,9 @@
 {301}{}{Elegido, la gente está muriendo. Debes darte prisa en buscar el sagrado GECK. ¿En que puedo servirte de ayuda en la más sagrada de las búsquedas?}
 {302}{}{Se nos acaba el tiempo, Elegido. Por favor, termina tu sagrada misión pronto. No podemos permitirnos esperar mucho más. Si hay algo que pueda hacer para ayudarte a salvarnos, dímelo.}
 {303}{}{Elegido, el poblado está casi muerto... eres nuestra única esperanza. ¿Hay algo que pueda decirte que te ayude a salvarnos?}
+{400}{}{¿Puedo hacer algo para ayudar?}
+{401}{}{[The villager stares at you, wide-eyed, then slowly steps away from you while glancing around nervously.]}
+{402}{}{Oh, supongo que no.}
 {1000}{}{Anciana}
 {1001}{}{Fundador}
 {1002}{}{Morador del Refugio}

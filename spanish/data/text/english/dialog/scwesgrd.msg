@@ -41,3 +41,4 @@
 {140}{}{Tengo algo de Ciudad Refugio para el señor Westin.}
 {141}{}{De acuerdo, entra. Pero no causes ningún problema, te estaré vigilando.}
 {142}{}{No se te permite entrar en el rancho sin una cuestión oficial.}
+{150}{}{I'm sorry, there's been an incident and no one is allowed on the property. Move along.}

@@ -63,6 +63,11 @@
 {162}{}{Montañas}
 {163}{}{Desierto}
 {164}{}{Montañas}
+{165}{}{APA}
+{166}{}{APA}
+{167}{}{Almacen}
+{168}{}{Mercader}
+{169}{}{Guardia de Shi}
 {200}{}{Desierto}
 {201}{}{}
 {202}{}{}
@@ -451,7 +456,7 @@
 {585}{}{Celdas de detención}
 {586}{}{Celdas de detención}
 {587}{}{Muelle}
-{588}{}{Muelle}
+{588}{}{Planos del vertibird}
 {589}{}{Muelle}
 {590}{}{Sala de Entrada}
 {591}{}{Sala de Entrada}
@@ -517,11 +522,71 @@
 {651}{}{Desierto}
 {652}{}{Desierto}
 {653}{}{Entrada}
-{654}{}{Abajo}
-{655}{}{Desierto}
-{656}{}{}
-{657}{}{}
-{658}{}{}
+{654}{}{Segunda planta}
+{655}{}{Segunda planta}
+{656}{}{Sótano}
+{657}{}{[Player name]}
+{658}{}{[Player name]}
+{659}{}{Cueva}
+{660}{}{[Player name]}
+{661}{}{[Player name]}
+{662}{}{Aldea}
+{663}{}{Aldea}
+{664}{}{Aldea}
+{665}{}{Planchas de madera}
+{666}{}{Tribe}
+{667}{}{Tribe}
+{668}{}{Pastos comunales}
+{669}{}{Canijo}
+{670}{}{[Player name]}
+{671}{}{Entrada}
+{672}{}{Air, Water, and Power Facility Level}
+{673}{}{¿Mantenimiento?}
+{674}{}{Nivel 1}
+{675}{}{Nivel 1}
+{676}{}{Cartel de 'nivel tres'}
+{677}{}{Nuevo nivel}
+{678}{}{[Player name]}
+{679}{}{[Player name]}
+{680}{}{Campamento minero}
+{681}{}{[Player name]}
+{682}{}{[Player name]}
+{683}{}{Desierto}
+{684}{}{Desierto}
+{685}{}{Desierto}
+{686}{}{Entrada}
+{687}{}{Nivel 1}
+{688}{}{Nivel 1}
+{689}{}{Ranger Safe House}
+{690}{}{Ranger Safe House}
+{691}{}{Ranger Safe House}
+{692}{}{Ranger Safe House}
+{693}{}{Ranger Safe House}
+{694}{}{Ranger Safe House}
+{695}{}{Ranger Safe House}
+{696}{}{Ranger Safe House}
+{697}{}{Ranger Safe House}
+{698}{}{Desierto}
+{699}{}{Desierto}
+{700}{}{Desierto}
+{701}{}{Desierto}
+{702}{}{Desierto}
+{703}{}{Desierto}
+{704}{}{Desierto}
+{705}{}{Desierto}
+{706}{}{Desierto}
+{707}{}{Cara Cortada}
+{708}{}{Fortaleza Nivel 1}
+{709}{}{}
+{710}{}{Nivel 1}
+{711}{}{Nivel 1}
+{712}{}{Cartel de 'nivel tres'}
+{713}{}{Nivel 1}
+{714}{}{Nivel 1}
+{715}{}{Cartel de 'nivel tres'}
+{716}{}{Ciudad abandonada}
+{717}{}{Caverna}
+{718}{}{}
 {1500}{}{Arroyo}
 {1501}{}{La Guarida}
 {1502}{}{Klamath}
@@ -539,9 +604,9 @@
 {1514}{}{San Francisco}
 {1515}{}{Navarro}
 {1516}{}{El Enclave}
-{1517}{}{Desierto}
-{1518}{}{Desierto}
-{1519}{}{Desierto}
+{1517}{}{Abadía}
+{1518}{}{Umbra Tribe}
+{1519}{}{APA}
 {1520}{}{Granja fantasma}
 {1521}{}{Coche sin gasolina}
 {1522}{}{Arroyo}
@@ -571,5 +636,15 @@
 {1546}{}{Falso Refugio 13}
 {1547}{}{Encuentro aleatorio}
 {1548}{}{Establo}
-{1549}{}{Abadía}
-{1550}{}{APA}
+{1549}{}{Aldea}
+{1550}{}{Cargamento de esclavos}
+{1551}{}{Base Hubologista}
+{1552}{}{Vertedero}
+{1553}{}{Vertedero}
+{1554}{}{Vertedero}
+{1555}{}{Encuentro aleatorio}
+{1556}{}{Mercader}
+{1557}{}{Mercader}
+{1558}{}{Guardia de Shi}
+{1559}{}{Ciudad abandonada}
+{1560}{}{Patrullera del Enclave}

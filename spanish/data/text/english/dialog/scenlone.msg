@@ -36,7 +36,7 @@
 {135}{}{¿Cuál es tu nivel?}
 {136}{}{Oh. Supuse que podías ver mi aura. Lo siento.}
 {137}{}{Oh. Supuse que podías ver mi aura. Lo siento.}
-{138}{}{}
+{138}{}{Well, last time I checked the character screen, I was at level }
 {139}{}{Pues bien, estoy en la Trascendencia, por supuesto.}
 {140}{}{Uhhh... ¿no es realmente de mala educación hablar sobre niveles?}
 {141}{}{¡Honestamente! No sé qué esperan que logre rodeada de semejante carne de segunda!}
@@ -71,9 +71,10 @@
 {170}{}{Necesito cierta información. El Refugio 13: ¿qué sabes sobre él?}
 {171}{}{¿Cómo han ido las cosas?}
 {172}{}{Olvídalo. Sin resentimientos. Eso es todo.}
-{173}{}{}
+{173}{}{That's impressive. Though I believe we are speaking about two different things, it still sounds like you deserve an experience bonus.}
 {174}{}{¡Sí!}
-{175}{}{}
+{175}{}{It's done. Just remember though, there's more to life than gaining enough experience points to reach the next level. There's a whole "real" world out there.
+ Now that we have that out of the way, shall we try again?}
 {176}{}{¿Transcendencia?  Honestamente, ¡¿cómo esperan de mí que difunda la palabra aquí, cuando ni siquiera me mantienen al día con la doctrina más reciente!?}
 {177}{}{(Continuar)}
 {178}{}{¿Estabas dormido durante el adoctrinamiento? Mmmmm... ¡tú no eres uno de los Iluminados!}
@@ -115,6 +116,6 @@
 {214}{}{Me encantaría ayudarte, pero incluso un AHS-4 debe dormir. Vuelve durante el día.}
 {215}{}{¡Intruso! ¿Planeas destruir este lugar? ¡Sal de aquí!}
 {216}{}{Maravilloso, hermana. ¿Cuál es tu nivel?}
-{217}{}{}
+{217}{}{. I'm sure if I keep wandering and killing random creatures I'll hit level 99 in no time.}
 {218}{}{Ganas }
 {219}{}{ puntos de experiencia por "encargarte" de la Hubologista para Merk.}

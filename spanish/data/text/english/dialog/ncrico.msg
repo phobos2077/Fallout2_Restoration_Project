@@ -18,7 +18,7 @@
 {207}{}{::Muestra los músculos::}
 {208}{}{Grrr}
 {209}{}{Grrr - Grrr}
-{210}{}{Yo no gusta hablar.}
+{210}{}{No gusto hablar.}
 {211}{}{Tú hueles biiien.}
 {212}{}{Hueles como mamá.}
 {213}{}{Tu guapa. Yo no golpeo a tú.}

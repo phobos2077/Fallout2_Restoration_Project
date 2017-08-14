@@ -91,10 +91,18 @@
 {400}{}{¿Has vuelto, eh? Espero que estés cuidando de Sulik. Estoy segura de que está perdido sin que yo le diga lo que tiene que hacer.}
 {401}{}{He vuelto porque necesito algo.}
 {402}{}{Bueno, estoy seguro de que no puedo hacer un trabajo tan bueno como el tuyo cuidando de él, pero lo intento.}
-{420}{}{Oh, será mejor que le preguntes a mamá sobre lo que está ocurriendo en el pueblo.}
+{420}{}{A trapper named Smiley has gone missing. Momma sure is upset about that. I'm sure she would be grateful if
+ someone found him.}
 {421}{}{Será mejor que le preguntes a mamá por lo que ocurre en el pueblo. ¿Has visto a Torr por alguna parte? Parece que se ha escapado, y estamos preocupadas.}
 {422}{}{Vale, hablaré con la señora Buckner sobre el tema. Déjame hacerte otra pregunta.}
 {423}{}{No, no he visto a Torr por ninguna parte. Te lo haré saber si lo veo. Déjame hacerte otra pregunta.}
+{424}{}{Well, Torr has been complaining about "Bug Men" scaring the brahmin. Not sure if I really believe all his stories,
+ but someone or something has been rustling cattle here in town.}
+{425}{}{I'll admit I haven't been paying too much attention to all the gossip around town. Head over to the Golden Gecko,
+ I'm sure someone there might know a thing or two.}
+{426}{}{Bueno, haré lo que pueda. Pero déjame preguntarte otra cosa.}
+{427}{}{Ya veo. ¿Qué otras cosas pasan en la ciudad?}
+{428}{}{Gracias por el consejo. Permíteme preguntarte otra cosa.}
 {430}{}{Gracias por encontrar a mi hermano Torr. Mamá y yo estábamos tan preocupadas. ¿Qué puedo hacer por ti?}
 {431}{}{Gracias de nuevo por encontrar a Torr. ¿Qué puedo hacer por ti?}
 {432}{}{Me alegra haber podido ayudar a Torr.}
@@ -133,3 +141,9 @@
 {542}{}{Oh, entonces volveré cuando tenga más. Adiós.}
 {550}{}{Me alegro mucho de que ese maldito (sollozo) tribal (sollozo) se marche (sollozo) de aquí (sollozo).}
 {600}{}{[MÁS]}
+{700}{}{I found out what's been happening to your brahmin.}
+{701}{}{You have? That's great, but mom's the one you'll want to talk to about that.}
+{702}{}{Entonces iré a preguntarles. }
+{710}{}{Cattle rustling? Any leads?}
+{711}{}{Not really. I'm not even sure if there's a connection between this and the brahmin mutilations.}
+{712}{}{Interesante. ¿Puedes contarme algo más?}

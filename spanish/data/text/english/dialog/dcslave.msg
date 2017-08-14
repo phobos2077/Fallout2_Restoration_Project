@@ -96,6 +96,13 @@
 {462}{}{De nada. Ahora lárgate de aquí.}
 {463}{}{Cuídate.}
 {464}{}{No hay de qué.}
+{470}{}{Wait, one more thing. I'm looking for someone specific and I don't see her here. Do you know where other slaves might be held?}
+{471}{}{Big camp near here. (The tribal points south west) Two moons from here.}
+{472}{}{There's a camp about two days travel south west from here. That's where I was first at.}
+{473}{}{Tú vas por camino de tú. Yo marcho.}
+{474}{}{De acuerdo. Ten cuidado, entonces.}
+{475}{}{¿Alguien ha venido a salvarnos?}
+{476}{}{Gracias. ¡Hasta luego!}
 {480}{}{¿Qué quieres?}
 {481}{}{¿Qué quieres?}
 {482}{}{Oh, nada.}

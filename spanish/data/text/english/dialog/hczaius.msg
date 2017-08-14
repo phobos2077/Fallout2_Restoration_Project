@@ -4,7 +4,7 @@
 {103}{}{¿Tú eres el nuevo de la ciudad?}
 {104}{}{¡Eek, oog og!}
 {105}{}{¡Nuevo! ¡Yo! ¡Ciudad!}
-{106}{}{Correcto.}
+{106}{}{Así es.}
 {107}{}{Sí, he llegado hace dos patadas.}
 {108}{}{No, genio, he vivido aquí todo el tiempo y nunca te habías fijado.}
 {109}{}{He oído que estás teniendo pequeños problemas con la mina.}
@@ -30,7 +30,7 @@
 {125}{}{Nuestro purificador de aire está estropeado. Está en el nivel inferior. No tenemos repuestos, ni equipamiento
  de protección. Sin las piezas de repuesto, no podemos arreglarlo. Sin ropa de protección, el gas radón nos tumbará. ¿Eres
  mañoso?}
-{126}{}{Lo suficiente.}
+{126}{}{Estoy perfectamente.}
 {127}{}{No. No mucho.}
 {128}{}{Otra vez tú, ¿eh?}
 {129}{}{¡Ork! ¡Ooo! ¡Ug ug!}
@@ -40,13 +40,13 @@
  encantada de hablar contigo.}
 {133}{}{Bien, si alguna vez se te ocurre una manera, házmelo saber.}
 {134}{}{¿En serio? ¿Lo harías por mí… y, más importante, por Broken Hills?}
-{135}{}{¿Y qué habría para mí?}
+{135}{}{¿Qué hay para mí?}
 {136}{}{Desde luego, lo haré.}
 {137}{}{Ahora mismo no.}
 {138}{}{¿Es así? Bien, mi avispado amigo, ¿por qué no arreglas el purificador de aire de aquí abajo? Necesitarás las
  piezas, y encontrar una forma de respirar con el gas que hay. Hasta que puedas demostrarme que puedes hacer eso, creo
  que simplemente asumiré que la única parte inteligente de ti es tu bocaza.}
-{139}{}{¿Y qué habría para mí?}
+{139}{}{¿Qué hay para mí?}
 {140}{}{Desde luego, lo haré.}
 {141}{}{¿Estás de broma?}
 {142}{}{El problema principal es que soy un idiota. Lo repito porque no creo que de tu culo haya
@@ -54,7 +54,7 @@
 {143}{}{Sin contar los idiotas que me siguen molestando, el problema es el purificador de aire de la mina. Está
  hecho polvo, y no tenemos ropa de protección para respirar el radón ni piezas para arreglarlo.
  Pero tú puedes, ¿verdad? Como eres tan listo...}
-{144}{}{¿Y qué habría para mí?}
+{144}{}{¿Qué hay para mí?}
 {145}{}{Desde luego, lo haré.}
 {146}{}{¿Estás de broma? Ni hablar.}
 {147}{}{ dólares. ¿Qué tal suena?}
@@ -73,8 +73,8 @@
  piezas.}
 {156}{}{Nos vemos.}
 {157}{}{Lo siento. Ese es el límite. Tómalo o déjalo.}
-{158}{}{Lo tomo.}
-{159}{}{Lo dejo.}
+{158}{}{Me lo quedo.}
+{159}{}{Me marcharé.}
 {160}{}{Bien. Déjalo, entonces. Nada, gracias.}
 {161}{}{Lo que sea.}
 {162}{}{¡Hola, amigo! }
@@ -87,10 +87,10 @@
 {169}{}{¿Qué quieres ahora?}
 {170}{}{¿Qué puedes contarme sobre la ciudad?}
 {171}{}{He oído que estás teniendo pequeños problemas con la mina.}
-{172}{}{¿Cómo están las cosas?}
+{172}{}{¿Cómo van las cosas?}
 {173}{}{¿Te llevas bien con los humanos?}
 {174}{}{¿Ya has cambiado de opinión sobre lo de intentar arreglar lo de la mina?}
-{175}{}{¿Y qué habría para mí?}
+{175}{}{¿Qué hay para mí?}
 {176}{}{Desde luego, lo haré.}
 {177}{}{Ahora mismo no.}
 {178}{}{No.}
@@ -122,7 +122,7 @@
 {201}{}{Bueno, la mejor persona para hablar sobre eso sería Marcus, en el banco, o Steve, el
  pregonero de la ciudad.}
 {202}{}{Hmm. De acuerdo, gracias.}
-{203}{}{Entonces iré a preguntarles.}
+{203}{}{Entonces iré a preguntarles. }
 {204}{}{Tendría que decir que todo está bien. Aún así… siempre podría ser mejor.}
 {205}{}{Je. Gracias por toda la información.}
 {206}{}{Bueno, como los mutantes no son los únicos que se están volviendo viejos y seniles -el gas los mantiene jóvenes, o

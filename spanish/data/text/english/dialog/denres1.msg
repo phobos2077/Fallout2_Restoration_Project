@@ -1,1 +1,1 @@
-{100}{}{*** AQUI DEBERIA ESTAR EL MENSAJE DE ENTRADA AL PUEBLO ***}
+{100}{}{Has entrado en el pequeño asentamiento de Gecko.}

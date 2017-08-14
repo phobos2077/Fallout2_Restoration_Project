@@ -190,3 +190,5 @@
 {289}{}{¿Y entonces?}
 {290}{hak122}{Demasiadas estaciones y demasiadas heridas, Elegido. En vez de eso, debes escuchar.}
 {291}{}{De acuerdo.}
+{300}{}{Those who steal carry a great burden. Remember this, Chosen One.}
+{301}{}{Debes darte prisa, Elegido.}

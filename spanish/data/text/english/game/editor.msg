@@ -163,20 +163,20 @@
 {653}{}{ ::: Skills :::                ::: Kills :::}
 {654}{}{ ::: Inventory :::}
 {655}{}{                                      Total Weight:}
-{656}{}{ ::: Addictions :::}
+{656}{}{ ::: Traits :::}
 {657}{}{ ::: Reputation :::}
 {1000}{}{Reputación (General) }
 {1001}{}{Berserker}
 {1002}{}{Campeón}
 {1003}{}{Infanticida}
-{1004}{}{Adicto a la Nuka Cola}
+{1004}{}{Adicto a la Nuka-Cola}
 {1005}{}{Adicto a los Esteroides}
 {1006}{}{Adicto a los Mentats}
 {1007}{}{Adicto al Psico}
-{1008}{}{Adicto al RadAway}
-{1009}{}{Adicto al Alcohol}
+{1008}{}{Adicto al Radaway}
+{1009}{}{Adicto al Psico}
 {1010}{}{Adicto al Jet}
-{1011}{}{Adicto a Tragic}
+{1011}{}{Adicto al Tragico}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Gigoló}
 {1014}{}{Campeón de Boxeo}
@@ -191,6 +191,7 @@
 {1023}{}{Iniciado: Mordino}
 {1024}{}{Iniciado: Wright}
 {1025}{}{Divorciado}
+{1026}{}{Humo}
 {1100}{}{Esta estadística representa tu reputación general. Cuanto más alto sea el número, más conocido y respetado serás. Si es negativa, serás odiado por algunos debido a tus malvadas acciones.}
 {1101}{}{Has matado a un gran número de gente. Esto generalmente no es algo bueno por lo que ser conocido. Sin embargo, gustarás más a los malos.}
 {1102}{}{Tus acciones te han revelado como el campeón de la gente. Tu guerra contra el mal y la villanía es largamente conocida. La gente honorable te respetará más.}
@@ -217,6 +218,7 @@
 {1123}{}{Eres un mafioso de la Familia Mordino. Eres conocido, respetado, y te sientan genial los sombreros.}
 {1124}{}{Eres un mafioso de la Familia Wright. Eres conocido, respetado, y te sientan genial los sombreros.}
 {1125}{}{Tu esposa ya no está contigo. Espero que estés contento.}
+{1126}{}{You are a smoker. They say it'll kill ya, but you're not dead yet. And anyway, it's a good way to look damn cool in a post-apocalyptic world.}
 {2000}{}{Idolatrado}
 {2001}{}{Querido}
 {2002}{}{Aceptado}
@@ -241,7 +243,7 @@
 {3007}{}{Azote del Yermo}
 {3008}{}{Semilla del Diablo}
 {4000}{}{Reputación}
-{4001}{}{Adicciones}
+{4001}{}{Adicto al Jet}
 {4100}{}{Representa tu reputación en un lugar concreto.}
 {4101}{}{Cosas a las que te has vuelto adicto.}
 {5000}{}{Sorry, you can only print your}

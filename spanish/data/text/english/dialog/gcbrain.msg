@@ -15,6 +15,7 @@
 {142}{}{Eh, debes haberlo olvidado.}
 {143}{}{Sólo es mi loción para después del afeitado. Old Mice: ¿te gusta?}
 {144}{}{Maté a uno de tus sirvientes y se lo arrebaté a su cadáver aún caliente.}
+{145}{}{I got it from a village near Vault City. The people there said your followers left these with them.}
 {150}{}{¿Estás preparado para convertirte en uno de nosotros?}
 {151}{}{Nací preparado. ¿Dónde firmo?}
 {152}{}{¿Te refieres a convertirme en una rata gigante?}
@@ -28,7 +29,13 @@
 {180}{}{No me importa dónde lo conseguiste. La verdadera pregunta es si tienes la intención de unirte a nosotros y llevarlo en serio.}
 {181}{}{¿Unirme a vosotros? ¿A qué te refieres?}
 {182}{}{Preferiría limpiar tu jaula a unirme a ti.}
+{183}{}{That depends. Vault City's patrols keep getting attacked by molerats. I assume you're behind this?}
+{184}{}{Why of course I am. All part of my grand scheme to take over the world. I wouldn't expect your deficient human brain to understand. But alas, what concern is it of yours?}
+{185}{}{I just want your molerats to stop attacking Vault City's patrols.}
+{186}{}{Do you? Interesting... Alright, I propose a deal, human. I shall comply with your request, *if* you complete a certain task for me.}
 {187}{}{¿Qué quieres que haga?}
+{188}{}{Look, we had a deal -- I repair the reactor, and you call off your creatures. I did my part of the bargain, now it's your turn.}
+{189}{}{The reactor is repaired, yes. But is it optimized? No, I'm afraid not. I said I'd call off my molerats when you *complete* the task. Getting it half-done isn't good enough.}
 {190}{}{Bueno, como parte de mi plan para dominar el mundo, tengo la intención de recompensar a mis seguidores necrófagos encontrando una forma de restaurar su humanidad.}
 {191}{}{¿Cómo vas a hacer eso?}
 {200}{}{Cuando una a Gecko y Ciudad Refugio bajo mi liderazgo, dedicaré los laboratorios médicos de Ciudad Refugio a encontrar una manera de revertir los efectos de la radiación que convirtió a las personas en necrófagos. Serán renovados, renacidos como humanos una vez más.}
@@ -120,7 +127,7 @@
  permitirte unirte a mi culto. ¿No hay algo que deberías estar haciendo en este momento?}
 {442}{}{(crunch, munch, crunch) Mmmm, me encantan las bolitas de queso, saben tanto a, bueno, eh, queso.}
 {443}{}{(crunch, munch, crunch) Mmmm, me encantan las bolitas de queso, saben tanto a, bueno, eh, queso.}
-{444}{}{De acuerdo.}
+{444}{}{Uh…}
 {450}{}{Que así sea. ¡Zomak! ¡Mata a este idiota por mí! ¡Pero ten cuidado con las bolitas de queso!}
 {460}{}{Tienes que usar el disco de datos del reactor en la computadora central de Ciudad Refugio. Puedes colarte
  en ella y usarlo, o, si tienes el disco de datos económicos, dirigirte a McClure.}
@@ -206,8 +213,29 @@
 {670}{}{El reactor, siempre el reactor (suspira). Vuelve cuando hayas hecho algún
  progreso con él.}
 {671}{}{Vuelve más tarde. Estoy en comunión con un poder más elevado, o algo así (shhh).}
+{672}{}{Look, if you don't call off the attacks, the people in the village could end up enslaved by Vault City.}
 {700}{}{No tengo nada más que decirte.}
-{701}{}{Parece que Gordon ya te ha dado este Disco de Data de Económico del que hablo. Llévelo inmediatamente a Cuidad Refugio.}
-{702}{}{Estoy en ello.}
-{703}{}{Umm... sí, quizá más tarde.}
+{701}{}{Alright you ugly son-of-a-bitch, now I've got a new deal for you: Either you call off your rodents, or I swear to you I'll blow the damn reactor!}
+{702}{}{All right, all right... Consider it done. Just, don't touch the reactor. (mumbles) Damn psychotic humans...}
+{703}{}{Gracias. Ahora, ¿a qué te referías con eso de 'la dulce ciencia'?}
+{704}{}{Me voy entonces. Adiós.}
+{705}{}{You came to an agreement about the molerats with The Brain.}
+{706}{}{Vault City's patrols keep getting attacked by molerats. I assume you're behind this?}
+{707}{}{You ask for my assistance, yet you leave a task half-finished. (to himself) Typical human. (to you) Optimize the reactor, then, and only then, shall I assist you.}
+{708}{}{¿Sí? ¿Qué pasa?}
+{709}{}{Listen here, you radioactive rat. You're really starting to piss me off. You said your "kin" had kicked the bucket... Well, I want you to know -- it was me, who finished him off. And now I think I'll finish the job of rendering your kind extinct.}
+{710}{}{Listen here, you radioactive rat. You're really starting to piss me off. I think it's time I put a stop to this madness.}
+{711}{}{Debo pensarlo antes.}
+{712}{}{Most interesting... and here I thought you were concerned for the well-being of Vault City. Anyway, the safety of that village is integral to my plan. Therefore, I shall grant your request, human.}
+{713}{}{It seems to me, that because you have fixed and optimized the reactor, you deserve my help. What is it that you want?}
+{714}{}{Gracias. Ahora, ¿a qué te referías con eso de 'la dulce ciencia'?}
+{715}{}{Gracias.}
+{716}{}{Parece que Gordon ya te ha dado este Disco de Data de Económico del que hablo. Llévelo inmediatamente a Cuidad Refugio.}
+{717}{}{Estoy en ello.}
+{718}{}{Umm... sí, quizá más tarde.}
+{719}{}{Sí. Debes conseguir un regulador hidroeléctrico magnetosférico de Ciudad Refugio para reparar el reactor de Gecko. Si no lo haces,
+ Ciudad Refugio no dudará en atacar Gecko. Por supuesto, destruyendo el reactor, se condenarán
+ a sí mismos a la larga, igualmente.}
+{720}{}{Que demonios, te ayudaré.}
+{721}{}{No, screw you rat brain! I've had enough of this. Time to die!}
 {4211}{}{Eh, supongo que mejor voy a conseguir ese disco de Gordon. Adiós.}
