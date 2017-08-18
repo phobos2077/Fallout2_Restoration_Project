@@ -1,9 +1,9 @@
-{100}{}{Ves a un hombre.}
-{101}{}{Ves a un vejestorio grasiento.}
-{102}{}{Oye, deja de manipular eso.}
-{200}{}{¿Por qué tienes una olla en la cabeza?}
+{100}{}{Ves a Hank.}
+{101}{}{Ves a un monje grasiento.}
+{102}{}{Está jugando con un alambique.}
+{200}{}{Oye, amigo. ¿Tienes un encendedor?}
 {201}{}{Yep. [Hand your lighter to him.]}
-{202}{}{Ya veo. Gracias.}
+{202}{}{Es perfecto. ¡Gracias!}
 {203}{}{Eh, ¿qué estás haciendo aquí?}
 {204}{}{Sure. Since you brought me a lighter, here's one on the house.}
 {205}{}{Beberla.}

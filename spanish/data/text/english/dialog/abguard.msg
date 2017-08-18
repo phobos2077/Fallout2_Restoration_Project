@@ -1,14 +1,14 @@
 {100}{}{Ves a un guardia dura.}
 {101}{}{You see an impressively muscled, but aging guard with sun burnt skin. He must have been quite something in his
  prime. His piercing gaze seems to follow you everywhere.}
-{200}{}{No metas las narices donde no te llaman y nos llevaremos bien, extranjero.}
+{200}{}{Hola, viajero. Bienvenido a la Abadía. No metas las narices donde no te llaman y nos llevaremos bien.}
 {201}{}{I'm watching you, slaver. One wrong move and you'll be tainting our graveyard for the rest of eternity.
  I wouldn't wish that on you, and I'm fairly sure you wouldn't enjoy that either, so don't get any funny ideas in that
  warped brain of yours.}
 {202}{}{¿Quién eres?}
-{203}{}{¿Dónde puedo conseguir suministros médicos?}
+{203}{}{¿Dónde puedo trocar por algunos suministros?}
 {204}{}{Somebody is digging up graves, why don't you do anything about it?}
-{205}{}{Doc, he oído hablar sobre ciertos implantes de armadura especiales. ¿Sabes algo de eso?}
+{205}{}{He oído hablar algo de animales en el sótano. ¿Sabes algo de eso?}
 {206}{}{I think it's time I send you to a grave. Let's dance, old man.}
 {207}{}{No importa. Adiós.}
 {300}{}{Nobody... Just an old retired caravan guard. A lot of people mistake me for some sort of sheriff because I'm
@@ -18,7 +18,7 @@
  sure I'm fed and Bill makes sure I've got ammo and stims. Not a bad retirement gig, if you ask me.}
 {302}{}{I'm the one keeping you in line, and that's all you need to know. Now get on with your business and leave me
  alone.}
-{303}{}{Gracias Lenny. Déjame preguntarte sobre algo más.}
+{303}{}{Eso es un buen acuerdo. Déjame preguntarte sobre algo más.}
 {304}{}{Da igual, adiós.}
 {305}{}{You think you can keep me in line? Let's see you try it, old man. This should be fun.}
 {400}{}{You can find Bill, our resident trader, in the building across from here. Other than that, you ought to go
@@ -33,14 +33,14 @@
  but I don't think it's just a bunch of rats and radscorpies.}
 {601}{}{Yes, and Brother Thomas is missing. I don't know what's down there, but I don't think it's just a bunch of rats
  and radscorpies. Why don't you find out, tough guy?}
-{602}{}{¿Por qué no te vas, entonces?}
+{602}{}{¿Por qué no te vas a mirar, entonces?}
 {603}{}{You're the tough guy around here, aren't you? Why don't you drag your ass down there?}
 {610}{}{It's a bit embarrassing, but after spending so much time outdoors with the caravans, I get very nervous when I
  go underground. The walls just close in on me and I have trouble breathing... Maybe you can find out what happened to
  Brother Thomas?}
-{611}{}{Veré lo que puedo hacer. Antes, déjame hacerte algunas otras preguntas.}
+{611}{}{Veré lo que puedo hacer. Mientras tanto, déjame hacerte algunas otras preguntas.}
 {612}{}{Adiós.}
 {613}{}{I am a tough guy, which is why I'm gonna kick your ass.}
 {700}{}{¿Qué más quieres saber?}
-{800}{}{Qué bueno volver a casa.}
-{801}{}{Te estamos vigilando.}
+{800}{}{Es un placer verte de nuevo.}
+{801}{}{Te estoy vigilando.}

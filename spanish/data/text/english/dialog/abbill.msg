@@ -1,5 +1,5 @@
 {100}{}{Ves a Bill el mercader.}
-{101}{}{Ves a un hombre de aspecto malvado.}
+{101}{}{Ves a un mercader de aspecto viejo.}
 {200}{}{Hola, viajero. Nombre es Bill. ¿Qué puedo hacer por ti?}
 {201}{}{Bienvenido de nuevo. ¿Quieres algo más?}
 {202}{}{Vamos a comerciar.}
@@ -39,7 +39,7 @@
 {225}{}{[HECHO]}
 {226}{}{Hey, this fits nicely!}
 {300}{}{¿Qué querías saber?}
-{301}{}{¿Cómo consigues la energía?}
+{301}{}{¿Con qué frecuencia se reabastece?}
 {302}{}{¿Dónde están los caravaneros?}
 {303}{}{Pensándolo mejor, cuenta conmigo. Adiós.}
 {304}{}{I get a new shipment of supplies twice a month. Frankly, I wish they'd come more often, but we're only on a
