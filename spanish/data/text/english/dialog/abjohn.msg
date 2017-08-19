@@ -24,9 +24,9 @@
 {416}{}{Encantado de ayudar a Woody y a ti. Gracias por las medicinas.}
 {417}{}{(He becomes quite angry, but then calms down) Ok, fine, here's your money. Now give me the pills!}
 {418}{}{Si, lo tendré en mente. Gracias por el dinero.}
-{419}{}{Me alegra hacer negocios contigo.}
+{419}{}{Me alegra hacer negocios contigo. Adiós.}
 {420}{}{Hmmm, sorry, I haven't. Talk to the Abbot, he might know something.}
-{421}{}{Está bien, gracias. Oye, tenía algunas otras preguntas…}
+{421}{}{Haré eso, gracias. Ahora, tengo algunas otras preguntas.}
 {422}{}{If I weren't so sick, I would beat the shit out of you. NOW GET OUT OF HERE!}
 {423}{}{Bien, me uniré.}
 {500}{}{Ella: Espero que eso haya ayudado. ¡Buena suerte en tus viajes!}
