@@ -28,7 +28,7 @@
 {420}{}{Hmmm, sorry, I haven't. Talk to the Abbot, he might know something.}
 {421}{}{Haré eso, gracias. Ahora, tengo algunas otras preguntas.}
 {422}{}{If I weren't so sick, I would beat the shit out of you. NOW GET OUT OF HERE!}
-{423}{}{Bien, me uniré.}
+{423}{}{Bien, iré.}
 {500}{}{Ella: Espero que eso haya ayudado. ¡Buena suerte en tus viajes!}
-{600}{}{Tan solo vete, ¿de acuerdo?}
+{600}{}{Tan solo vete, por favor.}
 {700}{}{No ves nada fuera de lo normal.}
