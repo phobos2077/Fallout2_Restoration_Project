@@ -1,8 +1,8 @@
-{100}{}{Ves al guardia de la puerta.}
-{101}{}{Ves a Chad, el caravanero.}
+{100}{}{Ves al guardián del cementerio del monasterio.}
+{101}{}{Ves al hermano Samuel, el guardián del cementerio.}
 {102}{}{He looks drunk and a bit drowsy.}
 {200}{}{*hickup* Why, 'ello there, my name's Samuel. What, uh, *hickup* brings you here?}
-{201}{}{¡Oh! Hola de nuevo.}
+{201}{}{*hipo* Hola de nuevo.}
 {202}{}{Solo voy a echar un vistazo. No quiero molestar.}
 {203}{}{¿Conoces algún otro Refugio?}
 {204}{}{Father Tully, you say? [He appears to be racking his brain trying to remember.] Yeah...I *hickup* 'member Tully.
@@ -12,21 +12,21 @@
 {206}{}{New Reno, huh? [He leans on his shovel, pulls out a small flask and takes a big swig.] I 'member him sayin he'd
  *hickup* be headin that way. I'm glad he made it there safely. I always *hickup* liked that fella. A real hoot. If you
  see him again, tell him Ol' Sammy is still alive an' kickin.}
-{207}{}{No, aún no. Aunque tengo algunas preguntas más.}
-{208}{}{Haré lo que pueda.}
+{207}{}{Lo haré. Aunque tengo algunas preguntas más.}
+{208}{}{Lo haré. Cuídate, Sam.}
 {209}{}{No importa. Lamento molestarte.}
 {210}{}{Actually I was just going to say that he sends his greetings. I'll be sure to tell him you say hello as well. I got some other questions though.}
 {211}{}{Actually I was just going to say that he sends his greetings. I'll be sure to tell him you say hello as well. Take care Sam.}
-{300}{}{¿Qué quieres ahora?}
-{301}{}{¿Eres el Supervisor?}
+{300}{}{¿Qué quieres *hipo* saber?}
+{301}{}{¿Eres el guardián del cementerio?}
 {302}{}{¿Qué puedes contarme acerca de la Abadía?}
-{303}{}{¿Puedo ayudarle en algo, capitán?}
+{303}{}{¿Puedo ayudarle en algo?}
 {400}{}{Yes, *hickup* I tend to these 'ere graves. Nobody else wants to *hickup* do it, so Ol' Sammy got th' job. It's
  not as bad as one might think. It's got its… perks, if you know what I mean. [He grins sloppily and wiggles his bushy
  eyebrows at you.]}
 {401}{}{Sé a lo que te refieres. Puedo dejarlo cuando quiera. Pero no hoy.}
 {402}{}{Ahora mismo no la quiero. Déjeme preguntarle otra cosa.}
-{403}{}{No sé quién eres, pero he venido a por ti.}
+{403}{}{No. No sé a lo que quires decir, pero tengo curiosidad mórbida...}
 {404}{}{Hell yeah I do. Nothing turns me on like a rotten cadaver.}
 {410}{}{Why, I get to be outdoors, and no one's 'round to tell Ol' Sammy when he's had enough. I *know* when I've
  'ad enough... when 'ere's none left! [He cackles, which quickly turns into a hideous cough. After coughing up a lung

@@ -41,7 +41,7 @@
 {303}{}{Elegido, el poblado está casi muerto... eres nuestra única esperanza. ¿Hay algo que pueda decirte que te ayude a salvarnos?}
 {400}{}{¿Puedo hacer algo para ayudar?}
 {401}{}{[The villager stares at you, wide-eyed, then slowly steps away from you while glancing around nervously.]}
-{402}{}{Oh, supongo que no.}
+{402}{}{Bueno, supongo que no.}
 {1000}{}{Anciana}
 {1001}{}{Fundador}
 {1002}{}{Morador del Refugio}

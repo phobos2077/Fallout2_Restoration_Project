@@ -1,16 +1,16 @@
-{100}{}{Ves al líder de los Escorias.}
+{100}{}{Ves al Abad, el líder espiritual de la Abadía.}
 {101}{}{There's something about this monk that leads you to believe he's rather important.}
-{200}{}{Hola, viajero.}
+{200}{}{Bienvenido, viajero.}
 {201}{}{Me alegro de verte.}
-{202}{}{Somos los Guardianes. Ya estás muerto.}
+{202}{}{Somos los guardianes del conocimiento.}
 {203}{}{I'm sorry, but knowledge of our books is of no use to you.}
-{300}{}{Bienvenido al Congreso. ¿Cómo puedo ayudarte?}
-{301}{}{¿Qué puedes contarme sobre vuestro líder?}
-{302}{}{¿Alguna vez ha oído hablar de un lugar llamado Refugio 13?}
+{300}{}{Bienvenido a la Abadía, viajero. ¿Cómo puedo ayudarte?}
+{301}{}{¿Qué puedes contarme sobre vuestro orden?}
+{302}{}{¿Alguna vez ha oído hablar de un dispositivo llamado GECK?}
 {303}{}{¿Sabes dónde puedo encontrar el Refugio 13?}
 {304}{}{Adiós.}
 {400}{}{¿Qué quieres saber?}
-{401}{}{Me gustaría hacerte otra pregunta.}
+{401}{}{Vale. Me gustaría hacerte otra pregunta.}
 {402}{}{Hmm….that *does* sound familiar. Why, yes, I recall Brother Thomas mentioning something about that recently. I'm sorry, but I don't recall exactly what he said.}
 {403}{}{That's fine. Just point me to Brother Thomas and I'll go ask him.}
 {404}{}{No sé nada de eso.}
@@ -28,8 +28,8 @@
  known to be in Brother Thomas's possession, and it's very important to us, as it was passed down by our founders.
  If you could retrieve that book, I would be most grateful. In fact, I'd grant you full access to our computers, so you
  can look for whatever you desire.}
-{412}{}{Trato hecho. Me lo llevaré.}
-{413}{}{Me gustaría pensármelo un poco más.}
+{412}{}{Trato hecho. Volveré pronto.}
+{413}{}{Quizás, déjame pensármelo un poco más...}
 {414}{}{Oh, mi dolorido corazón. Por favor, cuando la encuentres házmelo saber.}
 {415}{}{De acuerdo, adiós.}
 {416}{}{Ser mi amigo.}
@@ -149,7 +149,7 @@
 {1111}{}{No, but I suppose I could go back and check.}
 {1112}{}{¿Quieres decir esta radio?}
 {1113}{}{Antes de irme, deja que te pregunte algo.}
-{1411}{}{¿En serio? Interesante. Tengo que irme.}
+{1411}{}{Muy interesante. Tengo que irme.}
 {3000}{}{¿Cómo puedo ayudarte?}
 {4091}{}{So no one else has even bothered to go down there and check on him? What if he's simply trapped down there somehow, and he's slowly starving to death?}
 {4092}{}{I suppose that's possible, but you must understand. We are a peaceful people. The thought of going up against one of those wasteland monsters is terrifying to us. We're simply not equipped for such confrontations. }
