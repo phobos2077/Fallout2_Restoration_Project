@@ -12,7 +12,7 @@
  Now do you need something or are you just here to piss me off?}
 {203}{}{Metzger sent you? [He fidgets uncomfortably.] Don't tell me he wants more slaves already -- for fuck's sake, we just sent a shipment last week.}
 {300}{}{En realidad, necesito otras indicaciones.}
-{301}{}{De acuerdo, entonces: ¿por qué estás aquí?}
+{301}{}{Entonces: ¿por qué estás aquí?}
 {302}{}{No creo que ahora mismo necesite saber nada más.}
 {303}{}{Well then get the fuck outta here. You're trespassing and you ain't wanted.}
 {304}{}{Me marcho.}

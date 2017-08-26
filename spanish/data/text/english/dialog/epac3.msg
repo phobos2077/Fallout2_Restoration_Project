@@ -2,14 +2,14 @@
 {101}{}{Ves al oficial de Intendencia.}
 {102}{}{BLT, your chirpy, if slightly annoying, breakfast companion.}
 {200}{}{Howdy Doodley-Do! I'm The Brave Little Toaster, your chirpy breakfast companion. But you can just call me BLT. Say, would anybody like any toast?}
-{201}{}{No, pero necesito algo de información.}
-{202}{}{Sí, tengo que irme ahora.}
+{201}{}{No, gracias, pero quiero algo de información.}
+{202}{}{Ahora no, tengo que irme.}
 {210}{}{No, problem! I'm red hot in quantum mechanics, submolecular biology and TV theme tunes. Ask me anything. First though, may I ask you a question?}
-{211}{}{. ¿Qué puedo hacer por ti?}
+{211}{}{Supongo que sí. ¿Qué puedo hacer por ti?}
 {220}{}{¿Estás seguro de que no prefieres rendirte?}
 {221}{}{NO! I don't want any toast. No muffins, no teacakes. No buns, baps, baguettes or bagels. No croissants, no crumpets, no pancakes, no potato cakes and definitely, no smegging flapjacks!!!}
 {230}{}{Ah! So you're a waffle man!}
-{231}{}{Ya he tenido suficiente.}
+{231}{}{Eh, ya he tenido suficiente.}
 {232}{}{[You smack your head in frustration.] I've got to be going. I... I just have to be somewhere. Anywhere other than here.}
 {240}{}{No, wait. I'm sorry. I'm not just a one-dimensional toast obsessed appliance. What can I do for you?}
 {241}{}{Necesito cierta información. El Refugio 13: ¿qué sabes sobre él?}
@@ -20,7 +20,7 @@
 {251}{}{Espera un momento. ¿Por qué estás aquí?}
 {252}{}{Ya veo. Gracias por tu tiempo.}
 {260}{}{I think he had a consignment of gas masks brought in before the accident. Some people even said that it was his errors that caused the problem in the first place.}
-{261}{}{De acuerdo, entonces: ¿por qué estás aquí?}
+{261}{}{Entonces: ¿por qué estás aquí?}
 {262}{}{Gracias por la información.}
 {270}{}{Why, to make your mornings as cheerful as they can be! Say, after all this talking you wouldn't happen to have made some room
  in your stomach for some toast after all, have you?}
@@ -32,11 +32,11 @@
  to a maintenance bay and left me hanging.}
 {281}{}{Ya veo. Bien, gracias por tu tiempo.}
 {290}{}{Not a problem. Do stop by again. Maybe then you'll be hungry.}
-{291}{}{Lo tengo. Adiós.}
+{291}{}{Lo dudo. Adiós.}
 {300}{}{I knew you you'd be back. They always are. So, do you want any toast now?}
 {301}{}{I knew you you'd be back. They always are. And now that I'm fully functional again, I can make toast better than ever. So, do you want any toast now?}
-{302}{}{Bien. Necesito preguntarte algo.}
-{303}{}{Ahora he de irme.}
+{302}{}{Ahora no. Necesito preguntarte algo.}
+{303}{}{Nope. He de irme.}
 {310}{}{De verdad que me gustaría saber más de ti.}
 {311}{}{¿Qué es este lugar?}
 {312}{}{No importa. Adiós.}
@@ -48,9 +48,9 @@
  I'll tell you these secret codes. Just use one of the machines like you normally would and...}
 {353}{}{[MÁS]}
 {354}{}{...And that's all there is to it. You'll be rich in no time, eating toast to your heart's content.}
-{355}{}{Gracias. Lo agradezco, Miss Kitty.}
-{400}{}{Has reparado con éxito el generador.}
-{401}{}{No has conseguido reparar el generador.}
-{402}{}{El obús ya está cargado.}
-{403}{}{Has reparado con éxito el generador.}
+{355}{}{Gracias. Lo agradezco. Hasta la vista.}
+{400}{}{Has reparado con éxito la tostadora.}
+{401}{}{No has conseguido reparar la tostadora.}
+{402}{}{La tostadora ya está reparado.}
+{403}{}{ ha reparado con éxito la tostadora.}
 {404}{}{ no consigue poner la trampa en la caja.}

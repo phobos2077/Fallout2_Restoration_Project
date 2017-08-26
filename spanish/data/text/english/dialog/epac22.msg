@@ -16,7 +16,7 @@
 {311}{}{I keep seeing references to a Blue Level. How do I access it?}
 {312}{}{I found another way into this facility, but it requires a passcode. The service elevator brings you to it.}
 {313}{}{¿Puedes recuperar algo para mí?}
-{314}{}{No importa. Tampoco lo necesito tanto.}
+{314}{}{No importa. No necesito nada.}
 {320}{}{Why of course, the main elevator at the surface should take you where you want to go! Why would you go through the
  ventilation system?}
 {321}{}{Well, that elevator is not working anymore and the only way in I found was through the vents.}
@@ -32,38 +32,38 @@
 {334}{}{¿Cuáles son los beneficios de ser Ciudadano?}
 {335}{}{I made some unknown chemicals with the Mr. Chemmie! machine. What do they do?}
 {336}{}{I found some dynamite that was different than ones that I have encountered. How do I use it?}
-{337}{}{Oh, bueno, déjame hacerte otra pregunta.}
+{337}{}{Actualmente, déjame hacerte otra pregunta.}
 {340}{}{Well, the original designers of this place always liked to place little references from movies, books, and other
  such sources all over the place. They found it funny and so did many others. The dog food is a reference to a movie,
  but I'll leave it up to you to figure out.}
-{341}{}{Déjame hacerte otra pregunta.}
+{341}{}{De acuerdo. Déjame hacerte otra pregunta.}
 {350}{}{Well, those basic instruments for any chemist. I suppose if you want to create something then one would find
  a use for them.}
-{351}{}{Déjame hacerte otra pregunta.}
+{351}{}{De acuerdo. Déjame hacerte otra pregunta.}
 {360}{}{Ah, that's an interesting specimen you have there. I'm afraid I don't recognize it. Please, place it in the container next to me and I'd be happy to analyze it for you.}
 {361}{}{Alright. [You place the item in the container and close the lid.]}
 {362}{}{Pensándolo mejor, déjame hacerte otra pregunta.}
 {363}{}{Reading molecular make-up of liquid in syringe...Success. Analysis Complete. Interesting, it seems this syringe contains a unique serum with traces of feline DNA. It appears to be an experimental drug with the potential to enhance a human's agility. Of course, I wouldn't recommend you use anything that's still in the experimental stage.}
-{364}{}{Déjame hacerte otra pregunta.}
+{364}{}{De acuerdo. Déjame hacerte otra pregunta.}
 {370}{}{Ah, that would be cannabis, also known as marijuana, weed, and ganja, among other things. It's a type of illegal drug that may induce psychoactive effects when smoked or consumed. Some of the technicians here used to be fond of smoking it to help them relax. If you smoke it, you should be aware that it may cloud your mind and lower your reaction time for a period of time.}
-{371}{}{Déjame hacerte otra pregunta.}
+{371}{}{De acuerdo. Déjame hacerte otra pregunta.}
 {380}{}{Ah, that's an interesting specimen you have there. I'm afraid I don't recognize it. Please, place it in the container next to me and I'd be happy to analyze it for you.}
 {381}{}{Alright. [You place the item in the container and close the lid.]}
 {382}{}{Pensándolo mejor, déjame hacerte otra pregunta.}
 {383}{}{Unfortunately, I have no information in my database which describes this item. As with any unknown substance, I'd advise you to take great caution before deciding to use it. Sorry I couldn't be of more help.}
-{384}{}{Déjame hacerte otra pregunta.}
+{384}{}{De acuerdo. Déjame hacerte otra pregunta.}
 {390}{}{This is an interesting item. Unlike other dynamite which has a timer, this dynamite is controlled by a radio trigger.
  Just place the dynamite where ever you want it to go off and press the trigger to detonate it. Quite a nifty item, don't
  you think?}
-{391}{}{Ya veo. Deja que te pregunte algo más.}
-{400}{}{Hola otra vez. ¿Hay algo más en lo que pueda ayudarte?}
+{391}{}{Definitivamente. Deja que te pregunte algo más.}
+{400}{}{Hola otra vez. ¿Hay algo en lo que pueda ayudarte?}
 {401}{}{Tengo algunas preguntas.}
 {402}{}{No importa. Adiós.}
 {500}{}{You open up the side panel to the hologram emitter and look inside. You see a mess of cables and circuit boards.}
-{501}{}{¡Bien, llévame hasta ellos!}
+{501}{}{Bueno, vamos a empezar.}
 {502}{}{After some time you isolate the problem and correct it. You close up the panel and wipe the sweat from your brow.}
-{503}{}{Has protegido con éxito a los brahmines.}
+{503}{}{Has reparado con éxito el holograma.}
 {504}{}{After some experimentation you fail to figure out what is wrong with the hologram.}
 {505}{}{Damn. This is too hard for me. Repair just isn't my forte.}
-{506}{}{No has conseguido reparar el generador.}
+{506}{}{No has conseguido reparar el holograma.}
 {507}{}{[HECHO]}
