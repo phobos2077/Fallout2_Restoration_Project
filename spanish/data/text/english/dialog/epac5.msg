@@ -1,4 +1,4 @@
-{100}{}{Ves una puerta.}
+{100}{}{Ves un Holograma.}
 {101}{}{Ves la estación de trabajo de Química.}
 {102}{}{Hologram 12001. He directs operations within the EPA.}
 {200}{}{[This weasely looking hologram regards you with a nervous smile.] Hello, welcome to the EPA. You may have noticed that we're experiencing some mild issues, but we'll cross that bridge once we come to it.}

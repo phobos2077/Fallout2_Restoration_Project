@@ -1,7 +1,7 @@
 {100}{}{Ves una puerta.}
 {101}{}{Ves una puerta.}
 {200}{}{Zzzzzt...Hello... zzZzzt..Are..zzzZzzZtt...stand...me?}
-{201}{}{Perdona.}
+{201}{}{¿Perdona?}
 {202}{}{Cierto. Adiós.}
 {203}{}{My...zZzzzt..sensor...ZzzzzzZzt...*garble*..fixed?}
 {204}{}{Sorry, but I can't understand you. There's too much static. I'll see if I can maybe fix it somehow.}

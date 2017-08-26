@@ -1,11 +1,11 @@
-{100}{}{Ves una puerta.}
+{100}{}{Ves un Holograma.}
 {101}{}{Ves al dueño de 'El Agujero'.}
 {102}{}{Hologram 00000. He looks after the scientific aspects of the EPA.}
 {200}{}{01001000 01100101 01101100 01110000 00100000 01101101 01100101 00100001}
-{201}{}{¿Sí? ¿Qué?}
+{201}{}{Eh, ¿qué?}
 {210}{}{01000101 01101100 01100101 01100011 01110100 01110010 01101001 01100011 01100001 01101100 00100000 01110011
  01101000 01101111 01110010 01110100 00101110}
-{211}{}{Lo siento, no te entiendo.}
+{211}{}{Lo siento, no te entiendo. Adiós.}
 {212}{}{Interesting. It seems you're only able to communicate using binary numbers. Hold on, if I write down what
  you're saying, I just might be able to figure this out.}
 {220}{}{[After a couple hours, you finally believe you've correctly translated the binary numbers. It appears he's
@@ -24,7 +24,7 @@
 {260}{}{By Hawking, you've done it! My vocal program had been stuck in binary mode for *years*. It's been so long since
  I've had the pleasure of exchanging dialogue with a fellow intellect. You'd think during all this time *one* of my
  comrades would have had the decency to learn binary, but nooo.}
-{261}{}{No hay problema.}
+{261}{}{No hay prob-}
 {270}{}{They didn't have time for me, you see. Oh no, they were too *busy* indulging in their bureaucratic nonsense.
  Too busy imposing regulations upon one another and bickering like fools. And look where it got them: stuck in an endless
  loop in the conference chamber. Ha! Serves 'em right.}
@@ -49,12 +49,12 @@
 {320}{}{Well, that depends. I don't suppose you'd feel comfortable wielding a large experimental gun, would you?}
 {321}{}{Apuesto a que yo podría.}
 {322}{}{Claro.}
-{323}{}{No... creo que voy a pasar.}
+{323}{}{Creo que voy a pasar.}
 {330}{}{Oh, I see. That's too bad. Oh well, no hard feelings. I'll just wait until the next flesh and blood person comes
  wandering into this facility. It's bound to happen again within a century or two. Goodbye.}
 {340}{}{Hello again. I don't suppose you've reconsidered my offer of helping me to test an experimental weapon?}
 {341}{}{No. Lo siento.}
-{342}{}{De acuerdo. Adiós.}
+{342}{}{De acuerdo. Por supuesto.}
 {350}{}{Excellent! You're the perfect candidate. You see, in an effort to help the military become more "environmentally
  friendly", I developed a new weapon that requires no ammo, as it runs completely on *light*. I call it, the
  *Solar Scorcher*. However, it's yet to be tested under direct sunlight, which is, of course, where you come in.}

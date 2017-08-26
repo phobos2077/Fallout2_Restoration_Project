@@ -107,17 +107,17 @@
 {462}{}{Aún no. Me pondré en contacto cuando lo haya hecho.}
 {470}{}{Hola. ¿Has cambiado de opinión acerca de mi oferta?}
 {471}{}{No, I'm here to kill you. The world needs less people like you.}
-{472}{}{Espera, necesito hacerte unas preguntas.}
+{472}{}{Sí, supongo. Necesito hacerte unas preguntas.}
 {480}{}{What do you want? I have experiments to watch over, you know!}
 {481}{}{Háblame de los hombres bicho.}
 {482}{}{Háblame de tu gente.}
-{483}{}{Estoy buscando trabajo. ¿Sabes de alguno?}
+{483}{}{Estoy buscando trabajo. ¿Tienes alguno?}
 {484}{}{¿Dónde consigues tu mierda, Jimmy?}
 {490}{}{¿Has hecho lo que te pedí?}
 {491}{}{Si, aquí están.}
 {492}{}{No, aún no.}
 {500}{}{Wonderful! Excellent! Let me see...ahh yes, these will do nicely! Now then, do you want another job?}
-{501}{}{¿No tienes alguna otra cosa?}
+{501}{}{Sí, si tienes alguna otra cosa.}
 {502}{}{Aún no, gracias. Adiós.}
 {510}{}{Well, although the warehouse is where I do almost all of my work, I still need to enter the main complex from time to time. However, the lights have been permanently fixed on low setting. Sort this out for me so I can enter the EPA building itself.}
 {511}{}{No hay problema.}
@@ -133,11 +133,11 @@
 {540}{}{I am experimenting with a new serum at the moment to improve the agility and awareness of people to help them survive in this harsh world. You'd allow me to try it on you, wouldn't you?}
 {541}{}{Well...I suppose so, what harm could it do?}
 {550}{}{More than you'd ever believe if it goes wrong... Now hold still and let's get down to it!}
-{551}{}{¡Eh, eh! Espere un minuto...!}
+{551}{}{¡Eh, eh! Espere un minuto...}
 {560}{}{Ahh, there you are! Back in the land of the living, I see! How do you feel?}
 {561}{}{Uh, ¿quién tú?}
 {570}{}{You just blacked out for a couple of hours, but you should be fine now. Indications show you are much more alert and responsive.}
-{571}{}{¡Genial! Gracias, doctor.}
+{571}{}{¡Caray! Gracias, doctor.}
 {580}{}{Aquí están tus documentos de Ciudadanía. Si alguna vez necesitas algo, ven a verme.}
 {581}{}{Eso haré. Adiós.}
 {590}{}{¿Has hablado ya con la Anciana?}
@@ -146,10 +146,10 @@
 {600}{}{I'm sorry, but there's nothing more I can do for you now. I have no more jobs left to be done. Thanks for your help.}
 {601}{}{De acuerdo entonces.}
 {602}{}{Yes, there were some loose wires and I had to find some junk to-}
-{603}{}{¿Qué estás haciendo?}
+{603}{}{¡NO! ¿Qué estás haciendo?}
 {700}{}{Wait a second! You were part of the *original* team?! But, that's got to make you almost 200 years old!}
 {701}{}{Well, I suppose that's true, in a way. I was actually born 202 years ago. However, there is no way that I could have lived that long through regular means.}
-{702}{}{Continúa, estoy escuchando.}
+{702}{}{Continúa. Estoy escuchando.}
 {703}{}{When the war started, the other scientists and I used the cryogenic storage chambers. We handed over more control of the facility to the holograms and robots, then put ourselves in the chambers to wait out the worst of the destruction.}
 {704}{}{But, the great war was over many, many years ago.}
 {705}{}{True. We initially came out of hibernation about 90 years ago, and discovered that this place had deteriorated greatly. Most of the other scientists here continued some of their original research, as they didn't really know what else to do.}
@@ -157,12 +157,12 @@
 {707}{}{I couldn't believe their scientific short-sightedness...their utter lack of imagination! We had an incredible opportunity to do some amazing things. We had the chance to remake things how we saw fit. Sadly, my comrades paid for their lack of vision...}
 {708}{}{¿Los borraste del mapa?}
 {709}{}{Entendido.}
-{710}{}{Por favor, no me mates.}
+{710}{}{Por favor, continúa.}
 {711}{}{No, I didn't kill them. But I couldn't have them stay here interfering with my plans. I merely manipulated events here so that they chose to leave.}
 {712}{}{Okay, that answers part of the story. But there is still something missing...}
 {713}{}{Ah, yes. Sorry about that. I sometimes go off on tangents or my mind just wanders. Great minds, you know? Anyway, I continue to use the tank. I have modified it somewhat, though.}
 {714}{}{¿Qué se puede hacer?}
-{715}{}{Ya he oído bastante. Adiós.}
+{715}{}{Creo que ya he oído bastante. Adiós.}
 {716}{}{Well, the first time we used the cryogenic chambers, it was as if I just went to sleep and woke up. But, I realized that was a waste of time. I reset the chamber settings so that I could use it for years at a time, but keep my mind conscious! I use those extended periods to ponder current projects and think up new experiments. By doing so, I can see the long-term effects of my research.}
 {717}{}{Did you ever consider that maybe using the chamber like this might be damaging to you somehow?}
 {718}{}{Nonsense! If anything I am getting better. I can see things so clearly, now, thanks to my periods of lucid hibernation.}
@@ -178,7 +178,7 @@
 {728}{}{No, it just wouldn't do to have them stay here interfering with my plans...not at all... [The Doctor gazes past you seemingly lost in his thoughts.]}
 {729}{}{You know, you are one twisted person. I think I am going to have to show you how I 'experiment' on people. Time to die!}
 {730}{}{So, are you happy with this situation? I mean, being the only one here?}
-{731}{}{Desde luego. ¿Qué más quieres saber?}
+{731}{}{¿Qué más quieres saber?}
 {800}{}{Actually, wait one second. You look like an adventurous type. I may have a use for someone of your skills.}
 {801}{}{Claro. ¿Qué necesitas?}
 {802}{}{No, gracias. Adiós.}
@@ -186,7 +186,7 @@
  I would just go and get it myself, but I'm extremely busy at the moment and for the life of me I cannot remember the exact
  spot I left it at. In any case, head northwest from this building and you will find the area where I left my tool. Should
  be a piece cake.}
-{804}{}{Me pondré a ello ahora mismo. Adiós.}
+{804}{}{Me pondré a ello ahora mismo.}
 {805}{}{No estoy interesado.}
 {806}{}{Well, wait. Are you sure you won't help me with a little something?}
 {810}{}{Excellent! Now, I must get back to work. [To himself.] It's all going according to plan.}

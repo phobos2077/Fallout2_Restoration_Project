@@ -1,4 +1,4 @@
-{100}{}{Ves una puerta.}
+{100}{}{Ves un Holograma.}
 {101}{}{Ves una computadora Emperador.}
 {102}{}{Hologram 10001. He oversees the EPA's security.}
 {200}{}{Halt! Do not attempt to come any closer. Identify yourself, intruder.}

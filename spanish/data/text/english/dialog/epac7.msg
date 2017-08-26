@@ -1,4 +1,4 @@
-{100}{}{Ves una puerta.}
+{100}{}{Ves un Holograma.}
 {101}{}{Ves a la dueña del salón.}
 {102}{}{Hologram 40011. She is in charge of all the tours and press releases at the EPA.}
 {200}{}{[This attractive female hologram greets you with a friendly smile.] Hello visitor, and welcome to the EPA. How may I help you? Lunch will be served in the cafeteria at mid-day for all company employees.}
