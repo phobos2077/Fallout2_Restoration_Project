@@ -61,10 +61,10 @@
 {152}{}{¿Crees que podría comerciar contigo?}
 {153}{}{I think Senior Council Member McClure might be the man to talk to. What do you think?}
 {154}{}{Senior Council Member McClure is a smart man here in Vault City. Perhaps some agreement can be made with him?}
-{155}{}{De acuerdo entonces. Iré a hablar con él.}
+{155}{}{De acuerdo. Trataré de hablar con él.}
 {156}{}{Perhaps I'll go speak with him then. However, I was curious about the mole rats that are guarding the village.}
 {157}{}{He'd be your best bet. He is the only one on the council that has a reasonable soul left.}
-{158}{}{De acuerdo entonces. Iré a hablar con él.}
+{158}{}{De acuerdo. Trataré de hablar con él.}
 {159}{}{I will go speak with him then. I was curious about the molerats that are guarding the village though.}
 {200}{}{Hey, if you really are the same Ian that journeyed with my ancestor, then I've got a question for you.}
 {201}{}{De acuerdo, venid a por mí.}

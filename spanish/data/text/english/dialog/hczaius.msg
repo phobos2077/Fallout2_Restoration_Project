@@ -125,10 +125,7 @@
 {203}{}{Entonces iré a preguntarles. }
 {204}{}{Tendría que decir que todo está bien. Aún así… siempre podría ser mejor.}
 {205}{}{Je. Gracias por toda la información.}
-{206}{}{Bueno, como los mutantes no son los únicos que se están volviendo viejos y seniles -el gas los mantiene jóvenes, o
- algo así– tendría que decir que las cosas están bastante bien. Quiero decir, no queremos matar a todo el mundo, y hasta
- donde yo sé, los humanos no piensan demasiado mal de nosotros. Por supuesto, eso no incluye los humanos
- de otros lugares cerca de aquí… entre ellos hay varios hijos de puta.}
+{206}{}{Bueno, como los mutantes no son los únicos que se están volviendo viejos y seniles -el gas los mantiene jóvenes, o algo así– tendría que decir que las cosas están bastante bien. Quiero decir, no queremos matar a todo el mundo, y hasta donde yo sé, los humanos no piensan demasiado mal de nosotros. Por supuesto, eso no incluye los humanos de otros lugares cerca de aquí… entre ellos hay varios hijos de puta.}
 {207}{}{De acuerdo, gracias. Adiós.}
 {300}{}{ dólares. ¿Qué tal suena?}
 {301}{}{ dólares. ¿Qué tal suena?}

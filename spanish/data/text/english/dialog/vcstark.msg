@@ -293,15 +293,15 @@
 {391}{}{Yeah, there is something... I have been looking through your reconnaissance report and I found a small village nearby swarming with uhh..."mole rats", that's what the outsiders call them, right? I want you to go there and exterminate all those beasts.}
 {392}{}{Just gun down a few rats? Ok, I'm on it.}
 {393}{}{¿Para qué?}
-{394}{}{¿Qué pasa con La Guarida?}
-{395}{}{¡Espera! ¿Puedo hacerte unas pocas preguntas?}
-{396}{}{No hay problema. Sólo hacía mi trabajo. Adiós.}
+{394}{}{¿Qué pasa con la expedición de RNC?}
+{395}{}{Lo pensare. ¿Puedo hacerte unas pocas preguntas?}
+{396}{}{No, no es mi clase de trabajo. Adiós.}
 {397}{}{Excellent. Here, let me show you the exact location of the village. [Stark marks the village on your Pip-Boy map.] Pay's $750, just come back and collect once you finish the task. One more thing -- if you don't deal with it in a month, I'll send a squad there to eliminate the monsters...and any other threat.}
 {398}{}{Adiós.}
 {399}{}{What for? [He hesitates for a moment, then frowns.] I don't need to explain my motives to you. I give orders, and you take them -- That's how it is. If you don't want the job, I'll send a squad to do it instead...but things sometimes get a little "messy" when I set my boys loose.}
 {400}{}{Haré el trabajo.}
 {401}{}{Eso es genial. Por cierto, ¿qué eran esas cosas?}
-{402}{}{Sobre ese trabajo...}
+{402}{}{Sobre ese pueblo...}
 {403}{}{You killed all those big ugly rats? Really?}
 {404}{}{I was told you plan on turning the people of that village into servants, and that the mole rats were preventing you from doing it -- that's the real reason you wanted them exterminated.}
 {405}{}{Sí.}

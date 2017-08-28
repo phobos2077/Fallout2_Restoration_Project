@@ -2,7 +2,7 @@
 {101}{}{Ves la estación de trabajo de Química.}
 {102}{}{Hologram 12001. He directs operations within the EPA.}
 {200}{}{[This weasely looking hologram regards you with a nervous smile.] Hello, welcome to the EPA. You may have noticed that we're experiencing some mild issues, but we'll cross that bridge once we come to it.}
-{201}{}{No. ¿Quién eres?}
+{201}{}{Eh, de acuerdo. ¿Quién eres?}
 {210}{}{I'm the Director of Operations for the EPA.}
 {211}{}{Oh, right. [You scratch your head] What does that actually mean?}
 {220}{}{[He chuckles uneasily.] Why, I coordinate things. Get the ball rolling. Now it's in your court. I like to bring out the best in people. Here at the EPA, that's what it's all about. Honestly. Integrity. Thank you, we value your opinion.}

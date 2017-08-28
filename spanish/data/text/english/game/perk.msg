@@ -118,7 +118,7 @@
 {218}{}{Derribo Mejorado con Arma}
 {219}{}{Gafe}
 {220}{}{Adicto al Psico}
-{221}{}{Humo}
+{221}{}{Fumador}
 {1101}{}{Con Consciencia, recibirás información detallada sobre cada criatura que examines. Verás sus puntos de salud (PS) exactos e información sobre el arma que portan.}
 {1102}{}{Has aprendido las artes orientales secretas, o simplemente es que golpeas más rápido. En cualquier caso, tus ataques desarmados te cuestan 1 punto de acción (PA) menos.}
 {1103}{}{Tu experiencia en combate sin armas te da la ventaja a la hora de hacer daño. Causas +2 puntos de daño sin armas y con armas cuerpo a cuerpo. por cada nivel de este extra.}

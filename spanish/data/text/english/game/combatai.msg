@@ -3633,7 +3633,7 @@
 {70361}{}{No, eso es todo.}
 {70362}{}{Hmm, déjame preguntarte otra cosa.}
 {70363}{}{Hell, I almost feel sorry for you. Almost.}
-{70400}{}{¡Ay! ¡La cabeza de Kaga!}
+{70400}{}{¡Ay! ¡Mi cabeza!}
 {70401}{}{Creo que será mejor que te muevas.}
 {70402}{}{Cào! I hope that didn't break my nose.}
 {70410}{}{¡Ay! ¡Mi brazo!}
@@ -3642,30 +3642,30 @@
 {70420}{}{¡Ay! ¡Mi brazo!}
 {70421}{}{¡Maldición, eso duele!}
 {70422}{}{At least it's not broken… I don't think.}
-{70430}{}{¡Oh, creo que me has roto una costilla!}
+{70430}{}{Creo que me has roto una costilla.}
 {70431}{}{Yo no te haría algo así a ti.}
 {70432}{}{¡Oh! ¡Eso duele!}
-{70440}{}{¡En los ojos no!}
-{70441}{}{¡Erg! ¡Justo en los pendientes reales!}
+{70440}{}{¡En las piernas no!}
+{70441}{}{¡Ay! Justo en la espinilla.}
 {70442}{}{That hurt, but at least I can still walk.}
-{70450}{}{¡En los ojos no!}
-{70451}{}{¡Erg! ¡Justo en los pendientes reales!}
+{70450}{}{¡En las piernas no!}
+{70451}{}{¡Ay! Justo en la espinilla.}
 {70452}{}{That hurt, but at least I can still walk.}
-{70460}{}{¡¡Ay!! ¡Mis ojos!}
+{70460}{}{¡Cào! ¡Mis ojos!}
 {70461}{}{¡Menudo golpe! }
 {70462}{}{Hey! I can't afford another eye surgery!}
 {70470}{}{No te creo. Muéstrame el proceso.}
-{70471}{}{¡No te tengo miedo!}
+{70471}{}{¡No soy ese tipo de chica!}
 {70472}{}{Tú persona pequeña.}
 {70500}{}{Parece que vas a perder.}
 {70501}{}{Preferiría morir que unirme a vosotros.}
-{70502}{}{De acuerdo, venid a por mí.}
+{70502}{}{De acuerdo. Eso es bastante...}
 {70520}{}{Acabemos con esto.}
 {70521}{}{¡Tu muerte se acerca!}
 {70522}{}{Algo sobre un desaparecido.}
-{70540}{}{¡Tú lo has querido!}
+{70540}{}{Tú lo has querido.}
 {70541}{}{No quiero tomar parte en esto.}
 {70542}{}{Creo que mereces respuestas a tus preguntas.}
-{70560}{}{No, eso es todo.}
+{70560}{}{Caray, eso es paté.}
 {70561}{}{¿Suficiente?}
 {70562}{}{Ni de cerca.}

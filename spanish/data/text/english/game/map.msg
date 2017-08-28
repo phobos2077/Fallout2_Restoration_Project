@@ -65,9 +65,9 @@
 {164}{}{Montañas}
 {165}{}{APA}
 {166}{}{APA}
-{167}{}{Almacen}
+{167}{}{Almacen de APA}
 {168}{}{Mercader}
-{169}{}{Guardia de Shi}
+{169}{}{Submarino de Shi}
 {200}{}{Desierto}
 {201}{}{}
 {202}{}{}
@@ -523,40 +523,40 @@
 {652}{}{Desierto}
 {653}{}{Entrada}
 {654}{}{Segunda planta}
-{655}{}{Segunda planta}
+{655}{}{Tercera planta}
 {656}{}{Sótano}
-{657}{}{[Player name]}
-{658}{}{[Player name]}
+{657}{}{introduzca nombre}
+{658}{}{introduzca nombre}
 {659}{}{Cueva}
-{660}{}{[Player name]}
-{661}{}{[Player name]}
+{660}{}{introduzca nombre}
+{661}{}{introduzca nombre}
 {662}{}{Aldea}
 {663}{}{Aldea}
 {664}{}{Aldea}
-{665}{}{Planchas de madera}
+{665}{}{Bosque}
 {666}{}{Tribe}
 {667}{}{Tribe}
-{668}{}{Pastos comunales}
-{669}{}{Canijo}
-{670}{}{[Player name]}
+{668}{}{Zona de pesca}
+{669}{}{Pequeña Cueva}
+{670}{}{introduzca nombre}
 {671}{}{Entrada}
 {672}{}{Air, Water, and Power Facility Level}
-{673}{}{¿Mantenimiento?}
-{674}{}{Nivel 1}
-{675}{}{Nivel 1}
-{676}{}{Cartel de 'nivel tres'}
-{677}{}{Nuevo nivel}
-{678}{}{[Player name]}
-{679}{}{[Player name]}
-{680}{}{Campamento minero}
-{681}{}{[Player name]}
-{682}{}{[Player name]}
+{673}{}{Mantenimiento de robots}
+{674}{}{Nivel Uno}
+{675}{}{Nivel Dos}
+{676}{}{Nivel Tres}
+{677}{}{Nivel Secreto}
+{678}{}{introduzca nombre}
+{679}{}{introduzca nombre}
+{680}{}{Campamento Principal}
+{681}{}{introduzca nombre}
+{682}{}{introduzca nombre}
 {683}{}{Desierto}
 {684}{}{Desierto}
 {685}{}{Desierto}
 {686}{}{Entrada}
-{687}{}{Nivel 1}
-{688}{}{Nivel 1}
+{687}{}{Nivel Uno}
+{688}{}{Nivel Dos}
 {689}{}{Ranger Safe House}
 {690}{}{Ranger Safe House}
 {691}{}{Ranger Safe House}
@@ -575,15 +575,15 @@
 {704}{}{Desierto}
 {705}{}{Desierto}
 {706}{}{Desierto}
-{707}{}{Cara Cortada}
+{707}{}{Subsuperficie}
 {708}{}{Fortaleza Nivel 1}
 {709}{}{}
-{710}{}{Nivel 1}
-{711}{}{Nivel 1}
-{712}{}{Cartel de 'nivel tres'}
-{713}{}{Nivel 1}
-{714}{}{Nivel 1}
-{715}{}{Cartel de 'nivel tres'}
+{710}{}{Nivel Uno}
+{711}{}{Nivel Dos}
+{712}{}{Nivel Tres}
+{713}{}{Nivel Uno}
+{714}{}{Nivel Dos}
+{715}{}{Nivel Tres}
 {716}{}{Ciudad abandonada}
 {717}{}{Caverna}
 {718}{}{}
@@ -645,6 +645,6 @@
 {1555}{}{Encuentro aleatorio}
 {1556}{}{Mercader}
 {1557}{}{Mercader}
-{1558}{}{Guardia de Shi}
+{1558}{}{Submarino de Shi}
 {1559}{}{Ciudad abandonada}
 {1560}{}{Patrullera del Enclave}

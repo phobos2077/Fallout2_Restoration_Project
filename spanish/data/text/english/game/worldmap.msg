@@ -81,14 +81,14 @@
 {365}{}{Reactor}
 {366}{}{Habitacion trampa}
 {370}{}{Entrada}
-{380}{}{Planchas de madera}
+{380}{}{Bosque}
 {381}{}{Tribe}
 {390}{}{Entrada}
 {391}{}{Ducts}
 {392}{}{Grúa}
-{393}{}{Nivel 1}
-{394}{}{Nivel 1}
-{395}{}{Cartel de 'nivel tres'}
+{393}{}{Nivel Uno}
+{394}{}{Nivel Dos}
+{395}{}{Nivel Tres}
 {396}{}{Almacen}
 {400}{}{La Ciudad Fantasma}
 {401}{}{Caverna principal}
