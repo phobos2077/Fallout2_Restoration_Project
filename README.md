@@ -5,7 +5,7 @@
 
 [__Support__](https://github.com/BGforgeNet/fallout2-up-translation/issues) | [__Discussion__](https://forum.bgforge.net/viewtopic.php?f=5&p=69)
 
-This is a localization update effort for Fallout 2 [Killap's Restoration Peoject](http://killap.net/fallout2/web/Downloads.html) (v. 2.3.3).
+This is a localization update effort for Fallout 2 [Killap's Restoration Project](http://killap.net/fallout2/web/Downloads.html) (v. 2.3.3).
 
 Contribute at [BGforge](https://tra.bgforge.net). Discuss on [forums](https://forum.bgforge.net/viewtopic.php?f=5&p=69).
 
