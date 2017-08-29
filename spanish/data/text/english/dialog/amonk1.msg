@@ -1,6 +1,6 @@
 {100}{}{Ves a un hombre.}
 {101}{}{Ves a una santa.}
-{102}{}{Ves a una enorme hormiga.}
+{102}{}{Ves a un monje ordinario de Abadía.}
 {103}{}{Ves a una enorme hormiga.}
 {200}{}{Bienvenido, viajero.}
 {201}{}{Me alegro de verte.}

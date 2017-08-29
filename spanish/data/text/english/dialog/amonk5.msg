@@ -56,7 +56,7 @@
 {602}{}{Gracias. Hasta otra.}
 {650}{}{Greetings traveler! I am Brother Paul and I am in charge of the collection of information for the Abbey. What can I do for you?}
 {651}{}{Eso espero yo también. Tengo algunas preguntas más.}
-{652}{}{Entonces no, gracias. Ya nos veremos.}
+{652}{}{Nada. Ya nos veremos.}
 {4210}{}{Uh, no, I can't say I knew that. That's...interesting.}
 {4211}{}{And did you know a cucumber is 96% water?}
 {4212}{}{Wow, 96%, huh? Fascinating. But, um, what's a cucumber?}

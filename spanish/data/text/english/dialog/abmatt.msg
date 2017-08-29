@@ -27,10 +27,10 @@
  of holy pre-war relics. I'd ask you not to damage anything, but I'm afraid everything's already broken beyond repair.}
 {401}{}{Ahora mismo no. Aunque tengo otras preguntas para ti.}
 {402}{}{Gracias. Lo haré.}
-{500}{}{Desde luego. ¿Qué más quieres saber?}
+{500}{}{Estoy a tu servicio. ¿Qué quieres saber?}
 {501}{}{¿Qué puedes contarme sobre este lugar?}
 {502}{}{You seem to be very poetic in your preaching. Any reason for this?}
-{503}{}{Olvídalo. Me voy.}
+{503}{}{Olvídalo. Cuídate.}
 {600}{}{The Abbey is home to anyone, so long as they don't cause trouble. We are an independent community and rarely get
  visitors, such as yourself. The majority of those you see here are descended from the original founders that settled in
  this old monastery not long after the great Flame Deluge.}
@@ -39,12 +39,12 @@
  here over the years, seeking to escape from the dark chaos of the wastes. Of course, the true value of this place lies
  in its vast library. It's filled with old tomes, containing the strange wisdom of a lost age. Over time, we've come to
  fancy ourselves the keepers and guardians of that wisdom.}
-{603}{}{Entiendo. ¿Otra pregunta?}
+{603}{}{Muy interesante. ¿Otra pregunta?}
 {604}{}{Interesante. Bien, he de irme. }
 {700}{}{[The man chuckles at your question] No, no particular reason. I have just read much poetry throughout my life
  and I enjoy applying it to my teachings. It helps leave a greater impact on those listening.}
-{701}{}{Me parece justo. Tenía algunas otras preguntas...}
-{800}{}{Qué bueno volver a casa.}
+{701}{}{Me parece justo. ¿Otra pregunta?}
+{800}{}{Qué bueno verte de nuevo.}
 {801}{}{. ¿Qué puedo hacer por ti?}
 {802}{}{Tengo algunas preguntas.}
-{803}{}{Entonces no, gracias. Ya nos veremos.}
+{803}{}{Nada. Ya nos veremos.}
