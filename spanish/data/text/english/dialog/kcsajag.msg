@@ -84,7 +84,7 @@
 {291}{}{Háblame de los hombres bicho, por favor.}
 {292}{}{Háblame de los roedores, por favor.}
 {293}{}{Háblame del espíritu andante, por favor.}
-{294}{}{No me sorprende que un cazador haya desaparecido con todo este jaleo, pero háblame también de él.}
+{294}{}{No me sorprende que un trampero haya desaparecido con todo este jaleo, pero háblame también de él.}
 {295}{}{Quería hacerte otra pregunta.}
 {296}{}{No quiero saber nada de eso.}
 {300}{}{Los hermanos Dunton siempre están buscando a alguien que haga el trabajo sucio por ellos. Y ya que estamos, Torr, el chico de los Buckner, está aterrorizado de tener que ir a atender a los brahmines por la noche a causa de los hombres bicho.}
@@ -108,9 +108,9 @@
 {390}{}{El jardín del Edén, ¿eh? Jenny es lo más parecido que he visto al jardín del Edén. Sólo hacen falta unos dólares para crearlo (sonríe). Suena bien, pero no tengo ni idea de donde podrías encontrarlo.}
 {391}{}{Oh, eso no es como lo que estoy buscando. Otra pregunta.}
 {392}{}{Es todo lo que quería saber.}
-{2900}{}{Las cosas están muy calmadas por aquí.}
-{2901}{}{Háblame de los hombres bicho, por favor.}
+{2900}{}{En realidad, ahora las cosas están muy calmadas por aquí.}
+{2901}{}{los hombres bicho que mutilan los brahmines}
 {2902}{}{rodents of unusual size}
-{2903}{}{¿Aún caminas erguido?}
-{2904}{}{¿Y qué pasa con el trampero desaparecido?}
+{2903}{}{un espíritu andante}
+{2904}{}{un trampero desaparecido}
 {2905}{}{. Klamath's become a real hot spot lately.}

@@ -400,7 +400,7 @@
 {1021}{}{Tú tener un montón de problemas con gente. Nosotros irnos hasta que tú cambiar de actitud.}
 {1023}{}{Nosotros no migos de mata-niños.}
 {1025}{}{Tú causar problemas en Klamath. Nosotros irnos.}
-{1026}{}{Tú causar problemas en Klamath. Nosotros irnos.}
+{1026}{}{Tú causar problemas en mi pueblo natal. Nosotros irnos.}
 {2300}{}{Los espíritus nos mueven}
 {2301}{}{Nosotros y yo movernos.}
 {2302}{}{Vale, calmarte.}
@@ -460,7 +460,7 @@
 {3058}{}{Sí.}
 {3059}{}{No, creo que ya va siendo hora de que la busques tú solo.}
 {3060}{slk90}{Quizás. Nosotros y yo echamos de menos a ti. Buenos espíritus contigo, migo.}
-{3061}{}{Gracias, Sulik. Adiós.}
+{3061}{}{Gracias, Sulik. Adiós. [Sulik te da su equipo].}
 {3062}{}{Bueno, quizás deberías seguir conmigo. Supongo que podríamos seguir buscando a tu hermana.}
 {3063}{slk91a}{¿Quieres buena compañía de nuevo?}
 {3064}{slk91b}{Es bueno volver a casa de nuevo.}
@@ -476,7 +476,7 @@
 {3082}{}{Es bueno volver a casa de nuevo.}
 {3083}{}{Cuantas jóvenes doncellas para contar nuestros viajes... y qué poco tiempo.}
 {3084}{}{Nosotros necesitar hablar con el hombre de las hierbas. Dejar que el mundo flotar.}
-{3086}{}{Cuídate.}
+{3086}{}{Cuídate, 'migo.}
 {3087}{}{Nosotros y yo echar un vistazo.}
 {3088}{}{Gracias de nuevo por ayudarnos.}
 {3090}{}{This here be our village. We and I go speak with our friends.}
@@ -484,7 +484,7 @@
 {3100}{}{[MÁS]}
 {3101}{}{Eh, ¿exactamente dónde está tu huerto?}
 {3102}{}{Gracias. Deja que te pregunte algo más.}
-{3103}{}{. ¿Estás teniendo cuidado por ahí?}
+{3103}{}{Tu también, Sulik. Cuídate.}
 {3200}{}{Si, he hablado con la señora Buckner acerca de tu deuda. Ahora sólo necesito llegar a un acuerdo con Maida. Volveré a hablar contigo después de hacerlo con ella.}
 {3500}{}{Nosotros y yo pensamos algo marcha mal con nosotros. Tú mejor echar vistazo a este miembro nuestro.}
 {3501}{}{Nosotros y yo pensamos algo marcha mal con nosotros. Nosotros resplandecer como sol.}

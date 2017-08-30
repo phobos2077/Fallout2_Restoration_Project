@@ -101,8 +101,8 @@
 {425}{}{I'll admit I haven't been paying too much attention to all the gossip around town. Head over to the Golden Gecko,
  I'm sure someone there might know a thing or two.}
 {426}{}{Bueno, haré lo que pueda. Pero déjame preguntarte otra cosa.}
-{427}{}{Ya veo. ¿Qué otras cosas pasan en la ciudad?}
-{428}{}{Gracias por el consejo. Permíteme preguntarte otra cosa.}
+{427}{}{Interesante. ¿Algo más que deba saber?}
+{428}{}{Gracias por el consejo. Pero permíteme preguntarte otra cosa.}
 {430}{}{Gracias por encontrar a mi hermano Torr. Mamá y yo estábamos tan preocupadas. ¿Qué puedo hacer por ti?}
 {431}{}{Gracias de nuevo por encontrar a Torr. ¿Qué puedo hacer por ti?}
 {432}{}{Me alegra haber podido ayudar a Torr.}
@@ -143,7 +143,7 @@
 {600}{}{[MÁS]}
 {700}{}{I found out what's been happening to your brahmin.}
 {701}{}{You have? That's great, but mom's the one you'll want to talk to about that.}
-{702}{}{Entonces iré a preguntarles. }
+{702}{}{Por supuesto, entonces iré a preguntarla.}
 {710}{}{Cattle rustling? Any leads?}
 {711}{}{Not really. I'm not even sure if there's a connection between this and the brahmin mutilations.}
-{712}{}{Interesante. ¿Puedes contarme algo más?}
+{712}{}{Interesante. ¿Alguna otra noticia local que debo conocer?}
