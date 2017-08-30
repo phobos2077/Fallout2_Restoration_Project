@@ -114,8 +114,8 @@
 {502}{}{Nada, gracias.}
 {550}{}{Bob no quiere hablar contigo.}
 {2900}{}{Things have slowed down recently. Nothing really to tell ya.}
-{2901}{}{Pastos de brahmin}
-{2902}{}{¿Qué espíritus?}
-{2903}{}{Ratas gigantes.}
-{2904}{}{Sobre la gente desaparecida...}
-{2905}{}{Siete. Apuesta finalizada.}
+{2901}{}{mutiladores de los brahmines}
+{2902}{}{espíritus que andan}
+{2903}{}{ratas gigantes}
+{2904}{}{la gente desaparecida}
+{2905}{}{. Algunos incluso dicen que La Guarida está involucrada.}

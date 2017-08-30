@@ -108,33 +108,33 @@
 {381}{}{Siento oír eso. ¿A dónde cree que fue Torr?}
 {390}{}{Vale.}
 {400}{}{¿En serio? ¿Dónde está?}
-{401}{}{¿Quién? ¿He dicho Smiley? Oh, no, no, no. No sé donde está. Eh, mire, déjeme preguntarle una cosa.}
-{402}{}{Sí, está muerto. Se lo comieron los geckos.}
-{403}{}{Sólo bromeaba. Yo, eh... le he visto. Dijo que se había ido con otra mujer. ¡Caray! Mira qué tarde es. Debo irme ya.}
+{401}{}{¿Quién? Oh, no, no, no. No sé donde está. Eh, mire, déjeme preguntarle una cosa.}
+{402}{}{Está muerto. Se lo comieron los geckos.}
+{403}{}{Yo, eh... le he visto. Dijo que se había ido con otra mujer. ¡Caray! Mira qué tarde es. Debo irme ya.}
 {404}{}{Eh, yo, eh, nosotros, es que... eh, no, aún no le he encontrado. Seguro que aparece cualquier día de estos. Bueno, adiós.}
 {410}{}{¿Comido por los geckos? No te creo. Los geckos nunca atraparían vivo a mi Smiley. Es demasiado buen trampero para morir así. Te equivocas.}
 {411}{}{Si, probablemente tenga razón. Perdón por asustarla. Déjeme hacerle una pregunta.}
 {412}{}{No, le he visto, o más bien vi lo que quedaba de él. No fue algo agradable. Bueno, ya nos veremos. Adiós.}
 {413}{}{Supongo que ahí me ha pillado. Je, je, tan sólo estaba tomándole el, eh... pelo. Sí, eso es. Adiós.}
-{414}{}{Oye, he encontrado algo.}
+{414}{}{Sí, ¿has encontrado algo?}
 {415}{}{Creo que los hermanos Dunton están robando su ganado. Me imaginé que le gustaría saberlo, señora.}
 {416}{}{Uh, no importa.}
-{417}{}{¡¿Qué?! ¿Cómo lo sabes? ¿Qué pruebas tienes?}
+{417}{}{¡¿Qué?! ¿Estás seguro de esto? ¿Qué pruebas tienes?}
 {418}{}{I found some hallowed out radscorpion claws in a shack near your brahmin's grazing area. I confronted the Duntons about it, and they admitted to using them to scare your boy, Torr.}
 {419}{}{I found some hallowed out radscorpion claws in a shack near your brahmin's grazing area. I think the Duntons are wearing these to scare Torr—hence his fear of "bug men".}
 {420}{}{I thought they were up to their usual tricks! My poor little Torr, what bullies those boys are. Well, that explains what's been spooking Torr, but I'd like to get more proof that the Duntons are the ones that've been stealing our cattle. I'm afraid word of mouth just isn't good enough.}
 {421}{}{I thought they were up to their usual tricks! My poor little Torr, what bullies those boys were. Well, that explains what's been spooking Torr, but I wish there was more proof that it was the Duntons. I'm afraid word of mouth just isn't good enough. And now that the Duntons are dead, I'm not sure if we'll ever get to the bottom of this. But if you come up with anything else, please let me know.}
-{422}{}{Gracias de todos modos, Padre. Veré si puedo gorronear algo de licor.}
+{422}{}{Bien, veré si puedo gorronear algunos más pruebas.}
 {423}{}{Actually, I checked the brands on the brahmin over at the Duntons. If you look closely, you can see they simply slapped their brand over top of a previous one—which I assume was yours.}
 {424}{}{That settles it then. With the bug parts and the double branding, we got enough to turn those no good boys in. I'll
  take it from here. Those ruffians won't be causing trouble anymore. Thanks for your help.}
 {425}{}{That settles it then. With the bug parts and the double branding, we got enough to pin the crime on them. Too bad they're dead, or I would've shown them a thing or two. I guess they got what they deserve. Thanks for your help.}
-{426}{}{Encantado de ayudar, señora Buckner. Déjeme preguntarle otra cosa.}
+{426}{}{Encantado de ayudar, señora. Déjeme preguntarle otra cosa.}
 {427}{}{Those Duntons make me sick. I'm glad you'll take care of them. Goodbye now.}
-{428}{}{Tiene lo que merecía.}
+{428}{}{Los Duntons obtuvieron lo que merecían. Adiós.}
 {429}{}{You did? Well, go on then, what did you find?}
 {430}{}{I checked the brands on the brahmin over at the Duntons. If you look closely, you can see they simply slapped their brand over top of a previous one—which I assume was yours.}
-{500}{}{brahmines muriendo...}
+{500}{}{Sobre tus brahmines muriendo...}
 {510}{}{No habrás visto a un trampero llamado Smiley a las afueras del pueblo, ¿no? (para sí misma) Ha estado fuera demasiado tiempo. Nunca debí haberle dejado irse a semejante búsqueda.}
 {520}{}{Ha sido de mucha ayuda. Gracias.}
 {530}{}{Tan sólo me preguntaba que está ocurriendo aquí.}
@@ -181,11 +181,11 @@
 {1000}{}{You solve the mystery behind the missing brahmin.}
 {1010}{}{Actually, some monetary compensation would be nice in this situation.}
 {1011}{}{What? Oh, of course. You've helped us out greatly, so we do owe you at least something. Here's $150.}
-{1012}{}{Gracias por preocuparte. Nos vemos.}
-{2000}{}{Smiley}
+{1012}{}{Gracias por el dinero. Nos vemos.}
+{2000}{}{¿Smilie?}
 {2001}{}{¿Eh?}
 {2002}{}{Ummm}
 {2003}{}{Yo ayudo.}
-{2004}{}{No gusto hablar.}
-{2005}{}{Oh, gracias. Déjame marcar en tu mapa en donde dijo que pensaba buscar. Estoy segura de que podrás encontrarle. No es que él sea gran cosa, pero todavía le quiero y le extraño más de lo que pensaba. Por favor, encuéntrale.}
-{2006}{}{Creo en yo mismo. ¡Puedo hacer!}
+{2004}{}{No gusto historia. ¡ADIÓS!}
+{2005}{}{Oh, gracias. Déjame marcar en tu mapa en donde dijo que pensaba buscar. Estoy segura de que podrás encontrarle. No es que él sea gran cosa, pero todavía le quiero y le extraño más de lo que pensaba. Por favor, encuéntrale. ¿Estás seguro qué puedes manejar esto... mentalmente?}
+{2006}{}{Soy fuerte. Creo en yo mismo.}

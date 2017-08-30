@@ -57,7 +57,7 @@
 {201}{}{Oh, esto seguro que me refresca el gaznate.}
 {202}{}{Gracias.}
 {203}{}{Mmm-mm, bien.}
-{204}{}{No hay nada como la Buckner’s Best.}
+{204}{}{No hay nada como la Buckner's Best.}
 {205}{}{Gracias por la cerveza.}
 {206}{}{¡Hurra!}
 {207}{}{Los tribales saben qué es lo mejor de la vida.}

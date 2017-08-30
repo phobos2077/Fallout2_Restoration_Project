@@ -93,7 +93,7 @@
 {402}{}{Bueno, estoy seguro de que no puedo hacer un trabajo tan bueno como el tuyo cuidando de él, pero lo intento.}
 {420}{}{A trapper named Smiley has gone missing. Momma sure is upset about that. I'm sure she would be grateful if
  someone found him.}
-{421}{}{Será mejor que le preguntes a mamá por lo que ocurre en el pueblo. ¿Has visto a Torr por alguna parte? Parece que se ha escapado, y estamos preocupadas.}
+{421}{}{Bueno, ¿has visto a Torr por alguna parte? Parece que se ha escapado, y estamos preocupadas.}
 {422}{}{Vale, hablaré con la señora Buckner sobre el tema. Déjame hacerte otra pregunta.}
 {423}{}{No, no he visto a Torr por ninguna parte. Te lo haré saber si lo veo. Déjame hacerte otra pregunta.}
 {424}{}{Well, Torr has been complaining about "Bug Men" scaring the brahmin. Not sure if I really believe all his stories,

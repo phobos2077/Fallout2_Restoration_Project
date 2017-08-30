@@ -211,6 +211,6 @@
 {706}{}{Alright Tribal, you win this time. We'll stop, now just leave us alone.}
 {707}{}{You scare the Dunton brothers into never bothering Torr again.}
 {708}{}{[HECHO]}
-{709}{}{Déjame en paz.}
-{710}{}{Será mejor que te metas en tus asuntos.}
-{800}{}{He encontrado un montón de partes de insecto en esa pequeña casucha de ahí. ¿Sabéis qué pueden ser?}
+{709}{}{Déjanos en paz.}
+{710}{}{Sí, lo que sea, tribal. Sólo mejor que te metas en tus asuntos.}
+{800}{}{He encontrado un montón de partes de insecto en la cabaña en la área de pastoreo. ¿Sabéis qué pueden ser?}
