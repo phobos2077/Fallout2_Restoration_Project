@@ -18,15 +18,15 @@
 {224}{}{Now, please take a moment and reflect on what I have said.}
 {300}{}{Greetings, friend. I don't think I have seen you around here before. My name is Brother Matthew and I help
  spread the word about the importance of preserving the knowledge of the old ones.}
-{301}{}{Me alegra verte, pero debo marcharme.}
-{302}{}{Estoy buscando el sagrado GECK.}
-{303}{}{Ahora he de irme.}
+{301}{}{Es bueno conocerte Matt. Mi nombre es }
+{302}{}{ y estoy en una misión para el sagrado GECK.}
+{303}{}{Lo siento, he de irme.}
 {400}{}{A GECK, huh? I seem to remember reading something about that during one of my transcribing sessions. So it must
  be in our database, but I'm afraid access to our computers is restricted. However, if you talk to the Abbot, it's
  possible he'll grant you access. It couldn't hurt to try, anyway. Oh, and feel free to browse through our collection
  of holy pre-war relics. I'd ask you not to damage anything, but I'm afraid everything's already broken beyond repair.}
 {401}{}{Ahora mismo no. Aunque tengo otras preguntas para ti.}
-{402}{}{Gracias. Lo haré.}
+{402}{}{Gracias. Creo que voy a lo haré ahora.}
 {500}{}{Estoy a tu servicio. ¿Qué quieres saber?}
 {501}{}{¿Qué puedes contarme sobre este lugar?}
 {502}{}{You seem to be very poetic in your preaching. Any reason for this?}

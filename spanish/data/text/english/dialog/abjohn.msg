@@ -18,12 +18,12 @@
 {410}{}{Adiós.}
 {411}{}{You do? Are you saying that you actually HAVE heart pills?}
 {412}{}{Ken Lee me dijo que te entregase esto.}
-{413}{}{Sí, todos los productos químicos están aquí. Podéis comprobarlos si queréis.}
+{413}{}{Sí, tengo las píldoras para el corazón. Puedes tenerlas por 400 dólares.}
 {414}{}{I was only joking. I don't have any heart pills.}
 {415}{}{[He takes the pills from you.] Thank you, my friend! Here, please take this item as a gesture of gratitude.}
-{416}{}{Encantado de ayudar a Woody y a ti. Gracias por las medicinas.}
+{416}{}{Encantado de ayudar y gracias por la cosa. ¡Adiós!}
 {417}{}{(He becomes quite angry, but then calms down) Ok, fine, here's your money. Now give me the pills!}
-{418}{}{Si, lo tendré en mente. Gracias por el dinero.}
+{418}{}{Ha decidido mantener las píldoras para mí. ¡Gracias por el dinero!}
 {419}{}{Me alegra hacer negocios contigo. Adiós.}
 {420}{}{Hmmm, sorry, I haven't. Talk to the Abbot, he might know something.}
 {421}{}{Haré eso, gracias. Ahora, tengo algunas otras preguntas.}
