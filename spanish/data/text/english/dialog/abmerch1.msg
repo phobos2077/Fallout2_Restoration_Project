@@ -56,7 +56,7 @@
 {900}{}{Eso no suena bien.}
 {901}{}{La bomba de agua ha sido reparado.}
 {910}{}{(Wipes the sweat from his forehead.) Yeah, need something?}
-{911}{}{Por supuesto, capitán. ¿Cuál es el problema?}
+{911}{}{El Abad dijo que tal vez necesite ayuda. ¿Cuál es el problema?}
 {912}{}{No importa. Adiós.}
 {913}{}{I took a look at the water pump and it seems the motor is completely busted. The connections are shot, so we're
  going to have to get our hands on a new motor, as well as some wires to reconnect everything since the old wires are fried.}

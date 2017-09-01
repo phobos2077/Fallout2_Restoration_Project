@@ -6,6 +6,6 @@
 {201}{}{Me alegro de verte.}
 {202}{}{Somos los guardianes del conocimiento.}
 {203}{}{Buenas.}
-{204}{}{Hola.}
+{204}{}{Buen tiempo.}
 {205}{}{Espero que estés disfrutando de tu estancia.}
 {500}{}{¡Deja de hacer eso!}

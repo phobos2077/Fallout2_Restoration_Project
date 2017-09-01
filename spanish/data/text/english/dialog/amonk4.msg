@@ -2,7 +2,7 @@
 {101}{}{Esta parece ser la dueña.}
 {200}{}{Bienvenido, viajero.}
 {201}{}{Me alegro de verte.}
-{202}{}{Hola.}
+{202}{}{Buen tiempo.}
 {203}{}{Vamos a echar un polvete... a algún lugar.}
 {300}{}{¿Cómo puedo ayudarte?}
 {301}{}{¿Qué puedes contarme sobre vuestro orden?}

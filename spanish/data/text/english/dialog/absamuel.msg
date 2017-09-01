@@ -31,7 +31,7 @@
 {410}{}{Why, I get to be outdoors, and no one's 'round to tell Ol' Sammy when he's had enough. I *know* when I've
  'ad enough... when 'ere's none left! [He cackles, which quickly turns into a hideous cough. After coughing up a lung
  or two, he smiles at you.]}
-{411}{}{Bien, veré lo que puedo hacer. Permíteme preguntarte otra cosa.}
+{411}{}{Eh, *por supuesto* eso es lo que quería decir. [Suspiro de alivio]. Sin embargo, permíteme preguntarte otra cosa.}
 {420}{}{[His eyes go wide with shock and he seems to instantly sober.] That's not what I meant, you...you MONSTER! FIEND!
  Get away from me! }
 {421}{}{Whatever, you drunk old fuck. You don't know what you're missing.}
@@ -43,12 +43,12 @@
 {501}{}{You don't spend much time in the church? You are a monk, aren't you?}
 {502}{}{[He grins, revealing a gap filled set of rotten teeth.] Well, *hickup* let's just say that th' other monks don't
  take *hickup* too kindly to my, uh, drinking habits.}
-{503}{}{Tengo algunas preguntas más.}
-{504}{}{Oh, bien. Ya nos veremos.}
-{505}{}{Ya veo… ahora debo irme.}
+{503}{}{Tiene sentido, supongo. Tengo algunas preguntas más.}
+{504}{}{Supongo que sí. Ya nos veremos, Sammy.}
+{505}{}{Ya veo. Mira, debo irme.}
 {600}{}{Hmm... *hickup* lemme...lemme tink a minute. Yeah, I might got somethin, if yer up to it.}
-{601}{}{Vale, lo que sea. Debo irme ahora.}
-{602}{}{Claro. ¿Qué necesitas?}
+{601}{}{Eh, olvídelo, Sam. Debo irme ahora.}
+{602}{}{Claro, Sam, qué necesitas?}
 {603}{}{Well, th' past coupla days I've *hickup* noticed some of these graves are bein dug up. Now, whoever's doin this
  don't appear to be gettin that far, but it's a *hickup* a pain fer me to fill 'em back up.}
 {604}{}{Hmm, well did you try and figure out who has been doing this?}
@@ -60,16 +60,16 @@
  from his field. He might know something about this. He and that pretty little wife a his live right over there.
  [He points to the building south of the graveyard.]}
 {608}{}{Veré lo que puedo hacer.}
-{609}{}{Creo que me iré ahora.}
-{700}{}{Me ocupé de la central nuclear de Gecko. No deberíais tener ningún problema más con escapes de radiación.}
+{609}{}{Creo que voy a pasar. Debo irme.}
+{700}{}{He cuidado de la situación de excavación de las tumbas. No deberíais tener más problemas aquí.}
 {701}{}{Well, that's *hickup* good news. Glad I won't be falling into any more open *hickup* graves. Thanks fer th' help.}
-{702}{}{No, aún no. Aunque tengo algunas preguntas más.}
-{703}{}{Me encargaré de ello, entonces.}
+{702}{}{Encantado de ayudar. Aunque tengo algunas preguntas.}
+{703}{}{Bueno, cuídate, entonces.}
 {704}{}{I don't think open graves are the real reason you're falling down Samuel, but you take it easy now.}
-{1000}{}{[Silbas]}
+{1000}{}{*Silbas*}
 {1001}{}{*Cof* *Cof*}
 {1002}{}{*Clears throat*}
 {1003}{}{*Cof*}
 {1004}{}{*Suspiro*}
 {1005}{}{*Hickup*}
-{2000}{}{Es tarde. Vuelve por la mañana.}
+{2000}{}{Ha sido un *hipo* largo día. Vuelve por l'mañana.}

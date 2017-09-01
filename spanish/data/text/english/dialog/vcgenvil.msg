@@ -1,5 +1,5 @@
-{100}{}{Ves a un estibador Shi.}
-{101}{}{Ves a un estibador Shi.}
+{100}{}{Ves a un campesino.}
+{101}{}{Ves a un campesino.}
 {102}{}{Hola.}
 {103}{}{Buenos días a ti.}
 {104}{}{Bienvenido a nuestro poblado.}

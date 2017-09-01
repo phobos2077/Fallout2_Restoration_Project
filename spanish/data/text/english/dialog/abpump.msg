@@ -1,4 +1,4 @@
-{100}{}{Ves a un proxeneta.}
+{100}{}{Ves una bomba de agua.}
 {101}{}{Ves un terminal. Parece estar operativo.}
 {102}{}{Ahora la bomba de agua funciona correctamente.}
 {103}{}{You are going to need more than just your hands to fix this machine. Perhaps some tools would help with installing

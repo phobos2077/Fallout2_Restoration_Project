@@ -1,11 +1,11 @@
 {100}{}{Ves a un hombre.}
-{101}{}{Ves a un hombre.}
-{102}{}{Ves a un habitante de La Guarida.}
-{103}{}{Ves a un habitante de La Guarida.}
-{200}{}{Hola, forastero.}
+{101}{}{Ves a una mujer.}
+{102}{}{Es un habitante de la Abadía.}
+{103}{}{Es un habitante de la Abadía.}
+{200}{}{Bienvenido, forastero.}
 {201}{}{Me alegro de verte.}
-{202}{}{Este lugar es un agujero de mierda.}
+{202}{}{¡Este lugar es tan agradable!}
 {203}{}{Hola.}
-{204}{}{Hola.}
-{205}{}{¡Tus huesos yacerán en el Yermo!}
+{204}{}{Buen tiempo.}
+{205}{}{Ten cuidado en el Yermo.}
 {500}{}{TAFFER!}

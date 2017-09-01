@@ -1,4 +1,4 @@
 {100}{}{Ves a un guardia.}
-{101}{}{Parece estar buscando ladrones entre el público.}
-{102}{}{Habla con Jacob si quieres algo.}
-{103}{}{No queremos problemas aquí.}
+{101}{}{Parece ser guardaespaldas para el commerciante.}
+{102}{}{Habla con el jefe si necesitas algo.}
+{103}{}{No causa ningún problema, ¿entiendes?}
