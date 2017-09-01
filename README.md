@@ -7,7 +7,7 @@
 | [__Download__](https://github.com/BGforgeNet/fallout2-rp-translation/releases)
 | [__Installation__](https://forum.bgforge.net/viewtopic.php?f=5&t=22)
 | [__Discussion__](https://forum.bgforge.net/viewtopic.php?f=5&t=22)
-| [__Report issues__](https://github.com/BGforgeNet/fallout2-up-translation/issues)
+| [__Report issues__](https://github.com/BGforgeNet/fallout2-rp-translation/issues)
 
 This is a localization update effort for Fallout 2 [Killap's Restoration Project](http://killap.net/fallout2/web/Downloads.html) (v. 2.3.3).
 
