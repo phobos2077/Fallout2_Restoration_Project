@@ -38,5 +38,5 @@
 {708}{}{Then perhaps you should learn to be more careful. Sorry, I'm not going to just give away the Abbey's medical supplies.}
 {709}{}{Bien. Adiós.}
 {800}{}{No puedo hablar ahora.}
-{801}{}{Que sí, que sí. Estoy en la mitad de algo.}
+{801}{}{Lo siento. Estoy en la mitad de algo. Ven a verme más tarde.}
 {802}{}{Hola de nuevo.}

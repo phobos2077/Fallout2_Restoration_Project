@@ -1,20 +1,20 @@
-{100}{}{Ves al mercader Jo.}
-{101}{}{Ves a una de las croupiers del casino.}
+{100}{}{Ves al Hermano John.}
+{101}{}{Ves a uno de los monjes antiguos de la Abadía.}
 {102}{}{Ves a un viejo con un brillo de loco en sus ojos.}
-{300}{}{Hola, señor.}
+{300}{}{Hola, joven.}
 {301}{}{¿Quién eres?}
-{302}{}{¿Habéis oído algo sobre mutilaciones de ganado?}
+{302}{}{¿Habéis oído algo sobre el GECK o el Refugio 13?}
 {303}{}{Adiós.}
 {400}{}{Oye, yo soy el que hace las preguntas aquí.}
-{401}{}{¿Cuál es tu trabajo?}
-{402}{}{Ya veo. Adiós.}
+{401}{}{Así que, ¿cuál es tu trabajo?}
+{402}{}{Ya veo, adiós.}
 {403}{}{Well, I used to work on a farm, but it was bad for my heart.}
-{404}{}{Yo tengo p-problemas}
-{405}{}{Eso no es bueno.}
+{404}{}{¿Tienes problemas cardíacos?}
+{405}{}{Eso no es bueno, ¡adios!}
 {406}{}{Yeah, I have a bad heart. If I still had my heart pills, it would ease my life a lot more. It is very difficult
  to find medicine for that problem in today's world you know.}
-{407}{}{Creo que tengo una solución para el problema que tenéis aquí con el Jet.}
-{408}{}{Siento oír eso. Adiós.}
+{407}{}{Creo que tengo una solución para tu problema cardíaco...}
+{408}{}{Siento oír eso, adiós.}
 {410}{}{Adiós.}
 {411}{}{You do? Are you saying that you actually HAVE heart pills?}
 {412}{}{Ken Lee me dijo que te entregase esto.}
