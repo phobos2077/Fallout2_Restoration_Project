@@ -23,7 +23,7 @@
  You see, some of the Abbey's residents claimed to have seen a huge beast lurking down there, and Brother Thomas was quite skeptical.
  He took it upon himself to go dispel these rumors, yet, as it turns out, his disappearance has only further validated them.}
 {409}{}{Hmmm. Maybe I should take a look what's down there. *I AM* the chosen one after all...}
-{410}{}{Nosotros y yo echar un vistazo.}
+{410}{}{Soy aventurero. Pudeo echar un vistazo.}
 {411}{}{You'd really do that? Perhaps while you're down there, you could look for a certain book. You see, it was last
  known to be in Brother Thomas's possession, and it's very important to us, as it was passed down by our founders.
  If you could retrieve that book, I would be most grateful. In fact, I'd grant you full access to our computers, so you
@@ -32,21 +32,21 @@
 {413}{}{Quizás, déjame pensármelo un poco más...}
 {414}{}{Oh, mi dolorido corazón. Por favor, cuando la encuentres házmelo saber.}
 {415}{}{De acuerdo, adiós.}
-{416}{}{Ser mi amigo.}
-{417}{}{Seguro que eres más majo de lo que pareces.}
+{416}{}{Hola, mi amigo.}
+{417}{}{He matado a tu bestia, y tengo tu libro.}
 {418}{}{Excelente. Déjame que lo escanee.}
 {419}{}{Aquí están.}
-{420}{}{No tan rápido, Doc. ¿Cuánto vale para ti?}
+{420}{}{No tan rápido. ¿Cuánto vale para ti?}
 {421}{}{[He takes the book from you and caresses its cover as if to sooth it.] You have done us a great service. You now
  have full access to our computers in the library. Tell Brother Paul I grant you permission to access our files.}
 {422}{}{Gracias.}
 {423}{}{You want money for it? Fine, here's $250. Go see Brother Paul for access to the computers.}
-{424}{}{Gracias por la cerveza.}
+{424}{}{Gracias por el dinero, adiós.}
 {425}{}{You should look on a second floor computer, now that you have full access there.}
 {426}{}{De acuerdo, adiós.}
-{430}{}{¿Cuál es el propósito de tu mensaje?}
-{431}{}{¿Cuál es la historia de este lugar?}
-{432}{}{En este momento no tengo más preguntas.}
+{430}{}{¿Cuál es el propósito de tu orden?}
+{431}{}{¿Cuál es la historia de la Abadía?}
+{432}{}{Hmm, en este momento no tengo preguntas.}
 {433}{}{Our holy mission is to read, copy and take care of our sacred books of knowledge and other relics of the lost age.
  It is our hope that with this knowledge we are able to create a Memorabilia that might one day help humanity emerge from
  its self-imposed Dark Age. Any information that we come across is recorded, lest it be lost like so much was in the
@@ -55,24 +55,24 @@
  its remote location, the monastery survived the Flame Deluge mostly unscathed. As our ancestors explored the building,
  they discovered an extensive library of books. And not just religious texts, oh no, this library contained the gamut of
  written works, from literary classics, to scientific encyclopedias.}
-{435}{}{¿Qué pasó?}
+{435}{}{¿Entonces qué pasó?}
 {436}{}{Ya he oído bastante.}
 {437}{}{They soon realized the true treasure trove of wisdom stored within those books—especially the scientific tomes.
  Here were the chronicles of a fallen civilization. A lost age. There were a few who thought it might be best to
  destroy this knowledge, for fear that it would once again guide humanity towards apocalypse. But it was eventually
  decided that they would instead dedicate themselves to ensuring the preservation of the books, to be released when,
  and if, the world was ready for it.}
-{438}{}{(más)}
+{438}{}{(Más)}
 {439}{}{And so, utilizing a small printing press, they began making copies of the books, and also transcribing them
  into the Abbey's computers to preserve them digitally, should the physical books ever be destroyed. Over the long years,
  others have come across the Abbey, and some have elected to stay and live out their lives in the tranquil quiet of our mountain home.}
 {440}{}{Gracias por la historia.}
 {441}{}{¿De dónde procede el Jet?}
 {442}{}{They never told where they originally came from. We suspect that they came here originally from the east.}
-{443}{}{Oh. Bueno, gracias por la historia.}
+{443}{}{Bueno, gracias por la historia.}
 {444}{}{¿Necesitas escolta hasta Ciudad Refugio?}
-{445}{}{¿Hablas de los necrófagos? Sí, me he enterado de lo que va mal en su central.}
-{446}{}{¿Sabes algo del Refugio?}
+{445}{}{Me he enterado de lo que va mal en su bomba de agua.}
+{446}{}{¿Sabes algo de los fundadores originales?}
 {447}{}{I do not know all the names of our founders, but the most important one I am aware of is Miller.
  Before the Great War he was an electrical engineer working for the United States government. Shortly thereafter,
  he converted to Catholicism and made an oath with himself that we would spend the rest of his life preserving the
@@ -98,15 +98,15 @@
 {455}{}{I understand your frustration with our ways, but you must understand that this is the way things have always been
  for us. To alter things now, after so many years...that would be blasphemous against our faith. Still, I shall consider
  your words. I sense great wisdom in you, wanderer. It is a pity I have met very few like you.}
-{456}{}{Gracias. Aunque necesito saber cómo llegar a otro sitio.}
-{457}{}{Me gustaría hacerte otra pregunta.}
+{456}{}{Gracias. Aunque me gustaría saber algo más.}
+{457}{}{Muy bien. Aunque me gustaría saber algo más.}
 {500}{}{¡Deja de hacer eso!}
-{501}{}{Ganas %d puntos de experiencia por matar: %s.}
-{600}{}{Reparar un petrolero averiado.}
+{501}{}{Ganas 200 puntos de experiencia para traer de vuelto el libro.}
+{600}{}{He reparado su bomba de agua.}
 {601}{}{That is great news, indeed. That waterpump had been acting up for quite some time. Those merchants said they
  could take care of it, but they didn't seem to be making much progress. It's a good thing you came along. Thank you again.}
 {602}{}{I expect some money for this you know. Now cough it up!}
-{603}{}{No, aún no. Aunque tengo algunas preguntas más.}
+{603}{}{No hay problema. Aunque tengo algunas preguntas más.}
 {604}{}{Será bueno para ti. Ten cuidado.}
 {605}{}{[Frowns.] I see. Fine, here, take these coins. Now go, and stop bothering me.}
 {606}{}{Gracias, señor Tramposo.}
@@ -153,6 +153,6 @@
 {3000}{}{¿Cómo puedo ayudarte?}
 {4091}{}{So no one else has even bothered to go down there and check on him? What if he's simply trapped down there somehow, and he's slowly starving to death?}
 {4092}{}{I suppose that's possible, but you must understand. We are a peaceful people. The thought of going up against one of those wasteland monsters is terrifying to us. We're simply not equipped for such confrontations. }
-{4177}{}{Voy a matar a ese bastardo.}
+{4177}{}{He matado a la bestia.}
 {4188}{}{Excellent! And how about the book; were you able to recover it?}
 {6020}{}{If you truly want to show your gratitude, how about some money for my trouble?}

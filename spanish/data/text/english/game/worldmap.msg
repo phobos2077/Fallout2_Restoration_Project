@@ -1796,7 +1796,7 @@
 {6529}{}{El Hombre de Hojalata.}
 {6530}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {6531}{}{El Café de los Sueños Rotos.}
-{6532}{}{Una banda de merodeadores.}
+{6532}{}{Una banda de merodeadores furiosos.}
 {6550}{}{Una banda de merodeadores.}
 {6551}{}{Un grupo de lobos.}
 {6552}{}{Un grupo de escorpiones rad.}
@@ -1820,7 +1820,7 @@
 {6570}{}{Un viajero.}
 {6571}{}{Un hombre guardando un puente.}
 {6572}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{6573}{}{Una banda de merodeadores.}
+{6573}{}{Una banda de merodeadores furiosos.}
 {6600}{}{Un destacamento del ejército del Maestro.}
 {6601}{}{Una banda de merodeadores.}
 {6602}{}{Algunos rangers defendiéndose de una escuadra del ejército del Maestro.}
@@ -1840,7 +1840,7 @@
 {6616}{}{Algunos granjeros.}
 {6617}{}{Un hombre guardando un puente.}
 {6618}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{6619}{}{Una banda de merodeadores.}
+{6619}{}{Una banda de merodeadores furiosos.}
 {6650}{}{Montón de basura tóxica.}
 {6651}{}{Un solitario perro superviviente.}
 {6652}{}{Un rebaño de brahmines.}
@@ -1869,7 +1869,7 @@
 {6675}{}{El Hombre de Hojalata.}
 {6676}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {6677}{}{El Café de los Sueños Rotos.}
-{6678}{}{Una banda de merodeadores.}
+{6678}{}{Una banda de merodeadores furiosos.}
 {6700}{}{Restos del ejército del Maestro luchando contra ratas topo mutadas.}
 {6701}{}{Restos del ejército del Maestro.}
 {6702}{}{Un enjambre de mantis.}

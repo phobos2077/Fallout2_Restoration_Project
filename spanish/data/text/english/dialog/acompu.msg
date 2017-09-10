@@ -1,14 +1,14 @@
-{100}{}{Ves un terminal de computadora.}
-{101}{}{Ves el terminal de una biblioteca.}
-{102}{}{Ves un terminal. Parece estar operativo.}
-{103}{}{Accedes a la computadora y rápidamente escaneas todos los archivos disponibles. Encuentras la localización del Refugio 13 y lo copias en tu PipBoy.}
+{100}{}{Ves un pequeño terminal de computadora.}
+{101}{}{Ves el terminal de computadora de la Abadía.}
+{102}{}{Ves un pequeño terminal de computadora. Parece estar operativo.}
+{103}{}{Accedes a la computadora y rápidamente escaneas todos los archivos disponibles. Encuentras algunos archivos que contienen las palabras clave "GECK" y "Refugio".}
 {104}{}{Read GECK info.}
 {105}{}{El Refugio es el paraíso.}
 {106}{}{ERROR! access card not found. Please, insert access card into encryption slot.}
 {107}{}{(You insert the access card into the slot) BEEP!, access card accepted. LOADING Winblows 2075......DONE.}
-{108}{}{Añadir una orden.}
+{108}{}{Ingresar una orden.}
 {109}{}{Scan files for any information about GECK or VAULT 13.}
-{110}{}{Acceso a controles.}
+{110}{}{Acceder a otros archivos.}
 {111}{}{Play Rock Paper Scissors.}
 {112}{}{Atrás.}
 {113}{}{Desconexión.}
@@ -34,10 +34,10 @@
  your new world", a "Holodisc Reader with Library", which "includes selections from the Library of Congress, complete set of encyclopedias,
  and other life saving information, all contained on four-hundred and sixty handy holodiscs!" and it even contains a "Miniature Pen Flashlight!"
  Surely, this miracle device is exactly what you need to save your dying village.}
-{125}{}{Leer más correos.}
+{125}{}{Leer más.}
 {126}{}{You continue browsing the files, but the only mention you find of Vault 13, simply states that it's located in California,
  which doesn't help you much.}
-{130}{}{Información.}
+{130}{}{Añadir información.}
 {131}{}{No tienes nada a lo que adosar eso.}
 {132}{}{Necesito cierta información.}
 {133}{}{Necesito cierta información.}
@@ -58,24 +58,24 @@
 {148}{}{Error: No keyboard found. Please press any key to reboot.}
 {150}{}{Uploading Environmental Protection Agency Botany information disk...Upload complete. Have a nice day.}
 {200}{}{Rock, Paper, Scissors V.0.3. Select an option.}
-{201}{}{Seleccionar: }
-{202}{}{Seleccionar: }
+{201}{}{Seleccionar ROCA.}
+{202}{}{Seleccionar PAPEL.}
 {203}{}{Select SCISSORS.}
 {204}{}{Vuelves al menú principal.}
 {205}{}{Terminal makes selection.....Calculating.....Terminal wins!}
 {206}{}{Terminal makes selection.....Calculating.....User wins!}
 {207}{}{Terminal makes selection.....Calculating.....Draw!}
 {300}{}{(The computer screen shows various color patterns.)}
-{301}{}{Ohhh, qué bonitas luces.}
+{301}{}{¡Ohhh! Qué bonitas colores.}
 {302}{}{Arrástrate.}
-{400}{}{Leer más correos.}
-{401}{}{Volver al menú principal.}
+{400}{}{Leer más.}
+{401}{}{Volver al menú.}
 {402}{}{Search by topic.}
-{403}{}{Por favor, introduzca su contraseña.}
-{404}{}{Ciencia}
-{405}{}{Reparar}
-{406}{}{medicinas.}
-{407}{}{Pref. de armas}
+{403}{}{Por favor, introduzca un tema para buscar.}
+{404}{}{Ciencia.}
+{405}{}{Reparación.}
+{406}{}{Medicina.}
+{407}{}{Manejo de armas.}
 {408}{}{Persuasive Arguments.}
 {410}{}{After a few hours of reading you learn more about the art of science.}
 {411}{}{After a few hours of reading you learn more about the art of repairing machines.}

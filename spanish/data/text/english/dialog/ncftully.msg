@@ -333,7 +333,7 @@
 {2012}{}{I'll be doing a lot of traveling, so if I find my way over to the Abbey, maybe I'll look up this Samuel friend of yours. Hell, maybe
  I'll even bring you back some of that booze.}
 {2013}{}{Oh, couldja, please? That'd make me happier than a disease-free Reno whore. Thanks fren.}
-{2014}{}{No, aún no. Aunque tengo algunas preguntas más.}
+{2014}{}{No hay problema. Aunque tengo algunas preguntas más.}
 {2015}{}{Nos vemos.}
 {2016}{}{I'll be doing a lot of traveling, so if I find my way over to the Abbey, maybe I'll bring you back some of that booze.}
 {2017}{}{Um, da igual. Hasta luego.}

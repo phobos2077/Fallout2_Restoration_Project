@@ -115,12 +115,12 @@
 {500}{}{¿Has hablado ya con la Anciana?}
 {600}{}{Any final advice for me before I head out into the unknown?}
 {601}{}{Certainly. Beware the weapons of the Outsiders. The gecko's bite is nothing compared to the destructive power of their boom-sticks.}
-{602}{}{¿Algo más?}
+{602}{}{Entiendo. ¿Algo más?}
 {603}{}{Do not give your trust freely. Honor means very little out in the wastes. Stay alert and always question the motives of others.}
-{604}{}{Desde luego. Nos vemos.}
+{604}{}{Desde luego. ¿Nada más?}
 {605}{}{Never forget your roots. The world outside our village is full of shiny toys and luxuries that might make our life here in Arroyo appear simple and plain.
  But remember that the lifestyle of the Outsiders produces wicked men ruled by greed and corruption. Be wary not to become like He-Who-Must-Not-Be-Named.}
-{606}{}{Está bien, Jesús. Gracias por la información.}
+{606}{}{Nunca me voy a olvidar mis raíces. Gracias por el consejo, Mynoc.}
 {607}{}{He-Who-Must-Not-Be-Named? Uh... who?}
 {608}{}{Are you so drunk with the glory of being the Chosen One that you've forgotten about... [Mynoc quickly glances around to be sure no one is listening in, then leans forward and lowers his voice to a whisper.] ... Kaga?}
 {609}{}{Oh! Yeah, that guy. I'll make sure I don't end up like him. Thanks.}
@@ -136,8 +136,8 @@
 {619}{}{Sigue.}
 {620}{}{Wait, he blew up that door and everything? Do we have it rebuilt every time someone goes through the temple? Speaking of that, who built the temple in the first place?}
 {621}{}{I don't have time to answer all your silly questions. Do you want me to finish the tale, or not?}
-{622}{}{Lo siento, por favor no me hagas daño.}
-{623}{}{En realidad, creo que lo conseguiré más tarde. Adiós.}
+{622}{}{Lo siento. Por favor, continua.}
+{623}{}{En realidad, creo que estoy listo para ir. Nos vemos.}
 {624}{}{During the final trial, He-Who-Must-Not-Be-Named unsheathed a hidden blade and used it to kill his opponent. When the Elder confronted him about his dishonorable use of a hidden weapon, he argued that it was not cheating, but rather proved him to be a cunning warrior.}
 {625}{}{The Elder did not agree. He-Who-Must-Not-Be-Named was forcibly exiled from our tribe and his name was never to be spoken amongst us again. As he was cast away into the wastes, he swore an oath of vengeance. Vengeance against our tribe, and especially against you.}
 {626}{}{¿Qué es lo que he de hacer?}
@@ -147,7 +147,7 @@
 {630}{}{I'll be on my guard. Hopefully he's dead out in the wastes by now.}
 {631}{}{Listen, and understand. He-Who-Must-Not-Be-Named is out there. He can't be bargained with. He can't be reasoned with. He won't feel pity, or remorse, or fear. And he absolutely will not stop, ever, until you are dead.}
 {632}{}{You know, I think you might be overdoing it with the melodrama, just a tad. Anyway, thanks for the advice. I'll see you around, Mynoc.}
-{633}{}{Lo tendré en mente. Cuídate, Karl.}
+{633}{}{Lo tendré en mente. Cuídate, Mynoc.}
 {640}{}{¿Puedes contarme algo sobre esta Hermandad?}
 {641}{}{[His eyes go wide and he looks around nervously as if expecting to suddenly be struck by lightning.] Have you lost your senses out in the wastes?! You should know better than to speak the name of the outcast! He is to be referred to only as He-Who-Must-Not-Be-Named.
  Our village suffers enough without inviting the wrath of the Gods upon us. [He raises his eyes nervously to the sky.]}
@@ -156,7 +156,7 @@
 {650}{}{I've faced him before, so I'm sure I can handle him if our paths cross again.}
 {651}{}{Actually, he's already dead. I left his corpse out there to rot in the wastes.}
 {660}{}{[Mynoc nods grimly.] He may have strayed from the path, but he was once a great and respected warrior. I hope his troubled soul has found peace in the next world.}
-{661}{}{Gracias. Hasta otra.}
+{661}{}{De verdad. Hasta otra, Mynoc.}
 {662}{}{Deja que me lo piense. Ya nos veremos, Smitty.}
 {1000}{}{Anciana}
 {1001}{}{Fundador}
