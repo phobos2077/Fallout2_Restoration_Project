@@ -8,26 +8,26 @@
 {300}{}{¿Sí?}
 {301}{}{Tenéis un montón de coches por aquí.}
 {302}{}{¿Qué puedes contarme acerca de la Abadía?}
-{303}{}{Háblame de tu padre.}
-{304}{}{¿Tienes un GECK?}
+{303}{}{Háblame de tu líder.}
+{304}{}{¿Tienes alguna información de un GECK?}
 {305}{}{¿Sabes dónde puedo encontrar el Refugio 13?}
 {306}{}{Adiós.}
-{307}{}{Necesito información.}
+{307}{}{Necesito alguna información específica.}
 {308}{}{¿Como cuales?}
 {400}{}{Yes, we have. Too many, in my opinion. I can't express to you the tedium of having to back up all these files
  each and every day. There's just so much information to preserve, but, of course, it must be done.}
-{401}{}{Claro. Tenía algunas otras preguntas.}
+{401}{}{Por supuesto. De todos modos, tengo algunas otras preguntas.}
 {402}{}{We are an independent community. Anyone is welcome as long as they behave themselves.}
 {403}{}{Vale.}
 {404}{}{The Abbot is a good spiritual leader, but he's been a little cranky since we lost Brother Thomas to the beast.}
-{405}{}{¿Qué tipo de cosa?}
+{405}{}{¿Qué tipo de bestia?}
 {406}{}{I haven't seen it, personally--there's nothing in the world that could get me to go down there and explore those
  caverns--but if I had to guess, I'd say it's probably just some overgrown radscorpion.}
-{407}{}{Si tú no lo hiciste, ¿quién crees que lo cogió?}
+{407}{}{Si tú no lo has visto, ¿por que crees que es un escorpione rad?}
 {408}{}{Because I've heard sounds echoing up from the caves--the sounds of snapping claws and skittering legs.}
 {409}{}{Eso es.}
 {410}{}{In fact, we do. Take a look on that computer over there. Here, you can use this card to access our encrypted files. [He hands you an access card.]}
-{411}{}{No, gracias a ti.}
+{411}{}{Caray, ¡muchas gracias!}
 {412}{}{I don't know anything about Vault 13, but there is Vault City down south. Maybe they have the info you need.}
 {413}{}{Gracias.}
 {414}{}{That computer near me should have the information you seek, but you'd need an access card to use it.

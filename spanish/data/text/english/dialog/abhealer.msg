@@ -15,7 +15,7 @@
 {406}{}{[GO ON]}
 {407}{}{[STOP]}
 {408}{}{(Suddenly, Jack starts to melt.) I'M MELTING, I'M MELTING, OH WHAT A WORLD...}
-{409}{}{¿Pero qué...?}
+{409}{}{¿Pero qué...}
 {500}{}{Hey, don't steal my medical supplies!}
 {501}{}{You gain 200 experience points for making Jack melt. Are you happy now, you sick fuck?}
 {600}{}{I'm a doctor. I've been tending to the people of this Abbey for about, oh, fifteen years now, I believe.}
