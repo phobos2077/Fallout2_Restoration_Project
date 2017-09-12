@@ -5,7 +5,7 @@
  we appreciate all you've done. It's hard to believe that we can finally live in peace without fear of Vault City's goons
  coming to take us from our homes.}
 {201}{}{Glad to be of assistance. You seem to be quite busy here. Need some help with anything?}
-{202}{}{Gracias, Smitty. Sin problema. Nos vemos.}
+{202}{}{Sin problema. Nos vemos.}
 {300}{}{Actually, I *could* use some help. Now that we're becoming more organized, we're starting to see our numbers
  grow. The problem is, I'm not sure we'll have enough food to go around. My husband has attempted to get the caravans
  to stop here, but they don't' think we're worth their time. I don't suppose you could get them to reconsider?}

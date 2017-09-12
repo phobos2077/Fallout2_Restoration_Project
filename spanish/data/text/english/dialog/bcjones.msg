@@ -67,14 +67,14 @@
 {166}{}{De acuerdo, bien, cuídate y vuelve si necesitas algo.}
 {167}{}{Hecho.}
 {168}{}{Ahora está paranoico. Cree que Tandi va tras él. Está obsesionado con la venganza, y quiere a Tandi muerta. Está lleno de remordimientos porque huyó y vivió, en vez de morir con su banda... y la lista sigue y sigue.}
-{200}{}{Guardia de Darion}
-{201}{}{Estás muerto.}
+{200}{}{Darion está muerto.}
+{201}{}{Dar-e-on muerto.}
 {202}{}{He is!? Oh, this is wonderful news.}
-{203}{}{¿Y ahora qué vamos a hacer?}
-{204}{}{¿Qué haces?}
+{203}{}{¿Y ahora qué vas a hacer?}
+{204}{}{¿Qué hac-ces?}
 {205}{}{Well, I see no reason to return to my old life. The town above us doesn't have any medical assistance, so I think
  I will go up and help them. Thank you again for freeing me.}
-{206}{}{Olvídalo. Te veré más tarde.}
+{206}{}{Por supuesto. Te veré más tarde.}
 {207}{}{¡Adiós!}
 {210}{}{I still need to pack a few things. I'll see you on the outside.}
 {220}{}{Hey there, good to see you again! Everyone here really appreciates what you have done. I personally am glad
@@ -89,5 +89,5 @@
 {231}{}{? Espero que todo te fuera bien en Ocupación.}
 {240}{}{I hope so too. I think I can put my medical skills to good use here.}
 {241}{}{Adiós.}
-{250}{}{Gracias de nuevo por ayudarnos.}
+{250}{}{Gracias de nuevo por todo.}
 {251}{}{Es bueno volver a casa de nuevo.}

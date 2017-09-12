@@ -59,7 +59,7 @@
 {245}{}{Well, since you're giving me a choice... (smirk)}
 {246}{}{Te está mirando malhumorada.}
 {247}{}{Oh, I mean, of course I'll help you up. [You help her to her feet.]}
-{250}{}{¿Y ahora qué vamos a hacer?}
+{250}{}{¿Y ahora qué vas a hacer?}
 {251}{}{I don't know. What do you do when you've been hibernating for over a century? Even bears don't sleep that long.
  The world out there isn't the world I knew. I don't know if I could stand to see what it's turned into.}
 {252}{}{I know it's a wasteland out there, but you've still got a whole life to live. You're wasting it down here.

@@ -36,26 +36,26 @@
 {420}{}{I'm guessing you've read a lot of books in your time. So I'm curious, what's the most fascinating thing you could tell me?}
 {421}{}{Hmm, let's see. Did you know a notch in a tree will remain the same distance from the ground as the tree grows?}
 {422}{}{Claro. Si encuentro tantas, seguro que me pasaré por aquí.}
-{423}{}{Vaaaale. Tengo otras preguntas.}
+{423}{}{Vale... Bueno, tengo algunas otras preguntas.}
 {424}{}{Si pudieras, te lo agradecería.}
-{425}{}{No hay problema. Verás, tenía algunas otras preguntas…}
-{426}{}{Gracias. Hasta otra.}
-{430}{}{Tengo información que podría interesarte.}
+{425}{}{No hay problema. Tengo algunas otras preguntas.}
+{426}{}{Cualquier momento. Bueno, ya nos veremos.}
+{430}{}{Ha encontrado información sobra botánica que puede interesarte.}
 {431}{}{Really?! That's great. Please, do tell immediately.}
 {432}{}{Fascinating! I shall take this holodisk and add it to the computer database immediately. I appreciate you
  taking the time to find this for me. Thank you for collecting this for me.}
 {433}{}{Well you see...Understanding habitat destruction and species extinction is dependent on an accurate and complete catalog of plant systematics and taxonomy. And then this means that...}
-{434}{}{Ninguna de las dos. Aunque tengo otras preguntas.}
-{435}{}{Gracias, Smitty. Sin problema. Nos vemos.}
+{434}{}{Cualquier momento. Aunque tengo algunas otras preguntas.}
+{435}{}{Sin problema. Nos vemos.}
 {436}{}{Fascinating! I appreciate you taking the time to find this for me. Please go and upload this information to our computers.}
-{437}{}{Sin problemas, Bob. Te veo en un día.}
-{500}{}{¡Deja de hacer eso!}
+{437}{}{Sin problemas, lo haré ahora. Nos vemos.}
+{500}{}{¡Deja de hacer eso, imbécil!}
 {550}{}{That computer near me should have some information about it. You now have access, so take a look for yourself.}
 {600}{}{The Abbot gave me permission to access the computers here.}
 {601}{}{Ah yes, I heard about what you did. Thanks for taking care of that situation. Here is the access key. (He hands you the key.) Enjoy!}
 {602}{}{Gracias. Hasta otra.}
 {650}{}{Greetings traveler! I am Brother Paul and I am in charge of the collection of information for the Abbey. What can I do for you?}
-{651}{}{Eso espero yo también. Tengo algunas preguntas más.}
+{651}{}{Encantado de conocerte, Paul. Tengo algunas preguntas.}
 {652}{}{Nada. Ya nos veremos.}
 {4210}{}{Uh, no, I can't say I knew that. That's...interesting.}
 {4211}{}{And did you know a cucumber is 96% water?}
@@ -65,5 +65,5 @@
  sucked into it. The world of plants is simply captivating. Perhaps, if, during your travels, you happen upon some botany
  information, you could bring it to me? I'd be most grateful. Of course, it'd have to be our secret.}
 {4220}{}{No creo que quiera saber qué es lo que se cuece por aquí.}
-{4221}{}{Oh, bueno. Sólo quería preguntar.}
+{4221}{}{Oh, bueno, entonces. Bien, olvídalo.}
 {4222}{}{Déjame hacerte otra pregunta.}
