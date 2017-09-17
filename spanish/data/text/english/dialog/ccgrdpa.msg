@@ -64,12 +64,12 @@
 {424}{}{¿Dónde estoy?}
 {425}{}{No, what's *your* name, soldier? I was put here to test you and I gotta say you FAILED. If I were a wasteland
  suicide assassin you and your whole crew would be dead right now! That is unacceptable! Shape up, soldier!}
-{426}{}{Ese es mi nombre.}
+{426}{}{Eh... mi nombre }
 {427}{}{. I take fun ride in metal birdie! Go again! Wanna go again!}
 {428}{}{You not need know my name. I no like you. I kill. [Jump out and start fighting.]}
 {430}{}{What are you, drunk? You're at Navarro, of course. If you're having memory problems, soldier, you might wanna go get yourself checked out. Maybe some of that radiation out there got to you.}
 {440}{}{Don't give me that bullshit. You're one of the new recruits, aren't you? Heh. That smart mouth of yours is gonna land you in all sorts of trouble--and I can't wait to see it happen. Now get back to your post, soldier.}
-{450}{}{¡Señor, sí señor!}
-{451}{}{¡Si, señora!}
+{450}{}{¡Señor! ¡Sí señor!}
+{451}{}{¡Señora! ¡Si, señora!}
 {460}{}{[The soldier looks at one of his comrades.] My God, contact with all the muties and radiation out there must have made him retarded. You see? *That's* why I never volunteer for those wasteland runs. Anyway, let's put this stupid bastard out of his misery before he contaminates us.}
 {461}{}{[The soldier looks at one of his comrades.] My God, contact with all the muties and radiation out there must have made her retarded. You see? *That's* why I never volunteer for those wasteland runs. Anyway, let's put this stupid bitch out of her misery before she contaminates us.}
