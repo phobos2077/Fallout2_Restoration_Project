@@ -14,5 +14,5 @@
 {113}{}{¿Qué pasa? ¿Nos atacan?}
 {114}{}{¿A qué viene la alerta? ¿Qué está ocurriendo?}
 {115}{}{¿Qué carajo está pasando?}
-{200}{}{¿Qué estás haciendo por aquí, }
-{201}{}{Vuelve a tocarme y morirás.}
+{200}{}{¿Qué estás haciendo? No tienes ninguna razón para tocar eso.}
+{201}{}{Vuelve a tocar eso y morirás.}
