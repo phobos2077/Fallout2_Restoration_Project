@@ -1,4 +1,4 @@
-{100}{}{Ves un terminal funcional de computadora.}
+{100}{}{Ves una computadora funcional.}
 {101}{}{Este terminal parece controlar las puertas de este bloque de celdas.}
 {200}{}{Welcome to PoseidoNet. This terminal controls the operations of the MK-17 Fusion Bomb. Current Status of bomb is: Deactivated.}
 {201}{}{Activar Robot.}

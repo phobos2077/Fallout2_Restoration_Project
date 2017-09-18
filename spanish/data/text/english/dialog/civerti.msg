@@ -1,7 +1,7 @@
-{100}{}{Ves a una enorme hormiga.}
+{100}{}{Ves a un enorme avión.}
 {101}{}{Ves un vertibird.}
 {200}{}{Bienvenido a PoseidoNet. Este terminal está limitado a la transmisión entre un petrolero -PMV Valdez- y el muelle. ¿Orden?}
-{201}{}{Estado}
+{201}{}{Estado.}
 {202}{}{Salir.}
 {203}{}{This aircraft has only enough fuel for a complete round trip flight from the Navarro outpost, to the docking rig, and back again.
  All procedures are fully automated and thus no intervention by crew members is needed. Current fuel status is: Full.}
@@ -33,7 +33,7 @@
 {243}{}{Hehe...Fly birdie, fly! }
 {244}{}{Te dejo ahora.}
 {300}{}{Bienvenido a PoseidoNet. Este terminal está limitado a la transmisión entre un petrolero -PMV Valdez- y el muelle. ¿Orden?}
-{301}{}{Estado}
+{301}{}{Estado.}
 {302}{}{Salir.}
 {303}{}{This aircraft has only enough fuel for a complete round trip flight from the Navarro outpost, to the docking rig, and back again.
  All procedures are fully automated and thus no intervention by crew members is needed. Current fuel status is: Empty.}

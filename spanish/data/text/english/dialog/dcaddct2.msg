@@ -17,7 +17,7 @@
  we hate kids or anything, hell, most of us were homeless kids ourselves. We were just trying to make some money, you know? The
  only jobs around here involve peddling drugs or pain, and we're not into that. [He sighs.] We'll leave, but where do you suggest
  we go? This place is our home.}
-{111}{}{No quiero problemas.}
+{111}{}{No sé. Ese no es mi problema.}
 {112}{}{I may regret saying this, but if you're serious about wanting jobs, I'm sure Mom could use some help fixing this place up. She's a real nice lady,
  so maybe if you apologize, she'd give you a fair chance to prove you're more than a bunch of lazy opportunists. I'll talk to her about it. But if you try to
  fuck her over, I'll hunt you down and make you pay.}
@@ -31,7 +31,7 @@
 {200}{}{¿Eh?}
 {201}{}{Este es nuestro territorio.}
 {202}{}{¿Estás segura aquí?}
-{203}{}{¿Algo más?}
+{203}{}{¿Tienes algo para comer?}
 {300}{}{Ves a un hombre con las ropas roídas.}
 {301}{}{Ves a una persona con polvorientas ropas de trabajo.}
 {310}{}{Hey, thanks for helping to set this up for us. We'll work hard.}

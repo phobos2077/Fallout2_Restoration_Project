@@ -1,4 +1,4 @@
-{100}{}{Ves un terminal funcional de computadora.}
+{100}{}{Ves una computadora funcional.}
 {101}{}{Ves el terminal de la puerta del Refugio.}
 {200}{}{Welcome to the EPA's botany terminal. Please select one of the following options.}
 {201}{}{Acceso a base de datos.}

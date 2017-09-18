@@ -1,5 +1,5 @@
 {100}{}{You open the dresser and find rows of files and notes.}
-{101}{}{Buscas en los archivos.}
+{101}{}{Buscas en el cómoda.}
 {102}{}{Te marchas.}
 {103}{}{As you search through the records in the dresser, you notice a thin leather briefcase stuffed carefully deep in the back.}
 {104}{}{Pull out briefcase.}
