@@ -530,8 +530,8 @@
 {50100}{}{Planta de esporas}
 {50101}{}{Ves una planta espora.}
 {50200}{}{Kitsune}
-{50300}{}{La Guarida}
-{50400}{}{Jules}
+{50300}{}{Dex}
+{50400}{}{Cat Jules}
 {50500}{}{Bolsa de doctor}
 {50501}{}{Trabajo 'qui para Doctor.}
 {50600}{}{Fruta}

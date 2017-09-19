@@ -1,7 +1,7 @@
-{100}{}{Ves a un técnico.}
-{101}{}{Ves a un cazarrecompensas.}
+{100}{}{Ves MIBoba Fe88.}
+{101}{}{Ves a un cazarrecompensas duro y despiadado.}
 {110}{}{You see a tough, ruthless bounty hunter. He doesn't look like he talks much. He helped with the new scripts and ideas. And with killing people.}
-{200}{}{Ves a Harold.}
+{200}{}{Ves a Hivan Zolo.}
 {201}{}{A scruffy lookin', but handsome rogue.}
 {210}{}{Kid, I've flown from one side of this galaxy to the other, and I've seen a lot of strange stuff, but I've never seen *anything* to make me believe that there's one all-powerful Force controlling everything.
  'Cause no mystical energy field controls *my* destiny. It's all a lot of simple tricks and nonsense. Hokey religions and ancient weapons are no match for a good blaster at your side. I can tell when a guy is handy
@@ -11,8 +11,8 @@
 {213}{}{Laugh it up, fuzzball.}
 {214}{}{Hokey religions and ancient weapons are no match for a good blaster at your side, kid.}
 {215}{}{Who're you callin' 'scruffy lookin'!?}
-{300}{}{Ves a Rebecca.}
-{301}{}{Te sigue pareciendo un tramposo.}
+{300}{}{Ves a Contie-bacca.}
+{301}{}{Parece como una alfombra.}
 {310}{}{Roow rooo arrrrr rooow.}
 {311}{}{Rrrrrrrrrrrrr .... squeak!}
 {312}{}{Urrrrrgh.}
@@ -23,14 +23,14 @@
 {317}{}{He says he's not speaking Czech-speak, though it does sound a bit like baby-talk.}
 {318}{}{He says it's not a crossbow, it's a blaster. And no you can't have it.}
 {319}{}{¡Laddie! Te he echado de menos, chico. Gracias por traerme de vuelta a mi perro.}
-{400}{}{Ves a un mercader.}
+{400}{}{Ves a Darek Vader.}
 {401}{}{This guy looks hard as hell and appears to be more machine than man.}
 {410}{}{I'm Darek. I helped answer a million noob questions for Obi-Wan-Killap.}
 {411}{}{Join me! Together we can rule the galaxy!}
 {412}{}{Did you know that the great Obi-Wan-Killap asked ME for help?}
 {413}{}{Don't tell Obi-Wan-Killap, but I think he might be losing his mind.}
 {414}{}{I helped squash several nasty bugs. You can thank me later.}
-{500}{}{Ves a John, el okupa.}
+{500}{}{Ves a Jotisz el Hutt.}
 {501}{}{This guy is big, fat and green.}
 {510}{}{I'm Jotisz the Hutt. I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy Sulik is wearing.
  Those were created by Yosan12 and me. I know! And with these stubby hands!}
@@ -39,18 +39,18 @@
 {512}{}{*whistles* I'm a big fat green slug...}
 {513}{}{Ahora no, cariño. En caso de que no lo hayas notado, estoy orinando.}
 {514}{}{¿Dónde habré puesto esas alubias mágicas?}
-{600}{}{Ves a Petey.}
+{600}{}{Ves a R2Qwerty.}
 {601}{}{A feisty little robot. He flashes and beeps.}
 {610}{}{¡Eeeeeep!}
 {611}{}{Rrrrrr beep Rrrrwow!}
 {612}{}{*flashes and jiggles excitedly*}
 {613}{}{Crossbows! Tactics! Crossbows!}
-{700}{}{Ves a Curtis.}
+{700}{}{Ves a Chris3ParksO.}
 {701}{}{A shiny gold humanoid robot. He looks surprised.}
 {710}{}{Hi, I'm Chris3ParksO, human-cyborg relations. I am well versed in over 3 million programming languages.}
 {711}{}{I helped lay the groundwork for the Umbra Tribe and the EPA.}
 {712}{}{This is R2QWERTY: my faithful sidekick. He created new critters and graphics.}
-{800}{}{Ves a Joshua.}
+{800}{}{Ves a Yosan12.}
 {801}{}{A little green guy. He looks OLD.}
 {810}{}{Yosan12 am I. Created the NPC armor mod I did. Lift Xwing from swamp did I too. Talk in strange very also way do I.
  Difficult to understand, hmmm? Hagh Hah ha! Also, created the new Sniper, Wakizashi and lightsaber animations I did. }
@@ -58,7 +58,7 @@
 {812}{}{When gone am I, a little fuzzy glowing ghost will I become.}
 {813}{}{Once, a puppet with wisdom and character was I. Now, a hollow, CGI character for the kids I have become.}
 {814}{}{Stupid JarJar Binks is.}
-{900}{}{Ves a Wallace.}
+{900}{}{Ves a Obi-Wan-Killap.}
 {901}{}{He seems like a kindly old man with something slightly bear-like about him.}
 {910}{}{Saludos, }
 {911}{}{. I see you've been doing quite well for yourself. I'm Obi-Wan-Killap: I make Fallout work like it should have from the very beginning.}
@@ -97,8 +97,8 @@
  Good luck, and may The Source be with you, my friend.}
 {963}{}{What?! My ancestor, The Vault Dweller, had one of these?! I don't remember finding this in Fallout 1! *run off to check*}
 {964}{}{Thank you, Mr. Bear Dude. For everything. May The Source be with you too.}
-{1000}{}{Ves a la señora Bishop.}
-{1001}{}{Ves a un guardia de Ciudad Refugio de aspecto cruel.}
+{1000}{}{Ves a Emperatriz Timeslip.}
+{1001}{}{Ves a una figura envuelta de aspecto cruel con un enconvarse.}
 {1010}{}{I'm Empress Timeslip. I'm a Programming Master, skilled in the way of The Source. It was I who allowed Obi-Wan-Killap's spies to steal my
  engine fixes to greatly improve the stability of this world, and correct FOOLISH AND STUPID MISTAKES left by the original ones.}
 {1011}{}{Indeed, my master. Tell me about yourself oh great one.}
@@ -124,7 +124,7 @@
 {1052}{}{No te fallaré, Anciana.}
 {1053}{}{Hemos matado a todos. Incluso a los niños... [Sollozo]}
 {1060}{}{ESPECIALLY the children.}
-{1100}{}{Ves a Luke.}
+{1100}{}{Ves a Luke Skynet.}
 {1101}{}{A hooded figure who looks quietly confident.}
 {1110}{}{No, estoy aquí para rescatarte.}
 {1111}{}{Rescata a Torr.}
@@ -142,25 +142,25 @@
 {1135}{}{Here. (He shows you on your PipBoy). You should go there now.}
 {1138}{}{No queda espacio libre para ese objeto.}
 {1139}{}{Ten mucho cuidado de no darme.}
-{1200}{}{Ves a Miria.}
-{1201}{}{Parece una cama muy cómoda.}
+{1200}{}{Ves a Mon-Morticia.}
+{1201}{}{Una señora parece muy diplomática.}
 {1210}{}{I helped with writing a walkthrough to aid all the noobs on their new adventures in this improved world.}
 {1211}{}{Shit! I'm on the wrong side! I never was quite sure who's side I was supposed to be on.}
 {1212}{}{Does my bum look big in this?}
 {1213}{}{Empress Timeslip has made a critical error and the time for our attack has come. *wink*}
-{1300}{}{Ves a Paine.}
+{1300}{}{Ves a Kanhef.}
 {1301}{}{Ahora me parezco a Van Gogh.}
 {1310}{}{I'm basically the NMA helpdesk.}
 {1311}{}{Ahora no estoy de humor.}
 {1312}{}{Damn. Why is the no. 23 always late?}
 {1313}{}{In case you didn't know, I'm just an all-round useful guy.}
-{1400}{}{Ves a Becky.}
+{1400}{}{Ves a HawkEyE.}
 {1401}{}{A glittering gem of hatred.}
 {1410}{}{Bonjour. Je suis Hawk-Eye. J'ai translate le version Francais. }
 {1411}{}{I'm Hawk-EyE. I headed the translation of the French version. Vive la France!!}
 {1412}{}{I like to eat .... little fishies so sweeeet!}
 {1413}{}{No le importamos a nadie.}
-{1500}{}{Ves una tumba.}
+{1500}{}{Ves a Adam Dravean.}
 {1501}{}{Gracias por las indicaciones.}
 {1510}{}{I'm Mr. Wolna. I headed the translation of the German version.}
 {1511}{}{[plz bitch-slap me!!]}
@@ -270,4 +270,4 @@
 {2501}{}{This mass of goo seems to spell out something: "Dedicated to all those whose names have been forgotten, but
  yet helped make everything possible."}
 {2510}{}{}
-{5000}{}{Aquí no se permiten armas.}
+{5000}{}{Aquí no se permiten el combate.}

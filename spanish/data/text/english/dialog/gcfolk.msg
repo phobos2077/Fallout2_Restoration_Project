@@ -93,7 +93,7 @@
 {281}{}{Eres el mejor.}
 {282}{}{¡A bombardear Ciudad Refugio hasta que resplandezca!}
 {283}{}{[Canta] 99 jeringuillas de Rad-away en el muro, 99 jeringuillas…}
-{284}{}{[Canta] He estado trabajando en el re-ac-tor, todo el santo día…}
+{284}{}{[Canta] He estado trabajando en el re-ac-tor, todo el santo día...}
 {285}{}{Antes de conocerte jamás habría confiado en un piel suave.}
 {286}{}{Supongo que algunos pieles suaves no son tan malos, después de todo.}
 {287}{}{Deberíamos ir a buscar a Chester para que beba con nosotros.}

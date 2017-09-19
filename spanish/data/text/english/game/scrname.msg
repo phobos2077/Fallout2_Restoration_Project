@@ -1403,8 +1403,8 @@
 {1503}{}{Hologram 40011}
 {1504}{}{Plantas}
 {1505}{}{Mr. Chemmie!}
-{1506}{}{La Guarida}
-{1507}{}{Jules}
+{1506}{}{Dex}
+{1507}{}{Cat Jules}
 {1508}{}{Kitsune}
 {1509}{}{Guerrero}
 {1510}{}{Bug Spray}

@@ -69,7 +69,7 @@
 {409}{}{¿Has oído hablar de un Refugio o de alguien llamado Vic?}
 {410}{}{¿Qué se puede hacer en este pueblo?}
 {411}{}{¿Qué tienes para comer?}
-{417}{}{Vaya, si es el forastero misterioso. ¿Qué puedo hacer hoy por ti?}
+{417}{}{Vaya, si es mi héroe. ¿Qué puedo hacer hoy por ti?}
 {425}{}{Ya lo sé. Pero todo el mundo me llama así. Demonios, incluso trato a la gente como si fueran mis hijos: siempre que obedezcas mis normas, claro.}
 {426}{}{¿Normas?}
 {435}{}{Así es. No robar, no maldecir, y no pelear, en mi tienda no lo harás. Porque si lo haces, fuera te irás. Me gusta que este sitio sea pacífico.}
@@ -131,7 +131,7 @@
 {807}{}{I'm sure I could get them out of there. One way, or another. I'll let you know once they're gone.}
 {808}{}{Never was a fan of evicting people. Perhaps someone else is better suited for this.}
 {809}{}{Oh... I see. That's really too bad. Thanks for trying though. Would you like anything before you go?}
-{810}{}{Pues no. Adiós.}
+{810}{}{Pues no. Adiós, Mamá.}
 {811}{}{If I catch one of them little bastards stealing from me, it'll be the last thing they ever do. I don't care what
  their excuse is, a thief is a thief. Bye.}
 {820}{}{Good news, Mom. The building's all yours. I ran into a little snag, but those squatters won't be bothering you again.}
@@ -142,7 +142,7 @@
 {823}{}{Hmm... I suppose everyone deserves a second chance. I'll stop over there with some friends and we'll talk things over with 'em. Thank you so much
  for helping me with this. If you're still in town a few days from now, you should stop by. Hopefully, we'll have things up and running by then. Oh, I'm so
  excited! Thanks again. Here, this meal's on me.}
-{824}{}{Gracias. Hasta otra.}
+{824}{}{Gracias, Mamá. Hasta otra.}
 {850}{}{You help establish an orphanage for the children of The Den.}
 {1821}{}{Good news, Mom. The building's all yours. It took a little convincing, but I got the squatters to agree to pack up and move on.
  I don't think they'll be bothering you again.}

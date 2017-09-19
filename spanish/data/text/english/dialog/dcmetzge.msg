@@ -27,8 +27,8 @@
 {238}{}{Sulik}
 {239}{}{En vez de eso, ¿puedo hacerte otra pregunta?}
 {240}{}{He cambiado de idea. Adiós.}
-{241}{}{La Guarida}
-{242}{}{Jules}
+{241}{}{Dex}
+{242}{}{Cat Jules}
 {243}{}{Kitsune}
 {245}{}{Adelante.}
 {246}{}{¿Sí?}
@@ -224,20 +224,20 @@
 {752}{}{Eh, está bien.}
 {800}{}{Has matado al líder del Gremio de Esclavistas.}
 {900}{}{What you see is what you get. If you don't like my merchandise, then get the fuck out of my face and stop wasting my time.}
-{901}{}{Oh, vale. Entonces déjame preguntarte otra cosa.}
-{902}{}{Bien. Creo que iré a hacerlo ahora mismo.}
+{901}{}{Eh, lo siento. Entonces déjame preguntarte otra cosa.}
+{902}{}{Bien. Creo que iré entonces.}
 {903}{}{Actually, I think I'm going to waste *you* and your whole sick fucking operation.}
 {910}{}{This is all I've got in stock here, you picky fuck, but I've always got new merchandise coming in from my other slave camp.
  Maybe if you check back later, I'll have something that tickles your fancy -- but they're mostly ignorant tribals that all look the
  fucking same, so if that's not your thing, you might be shit outta luck.}
 {911}{}{Look, this might be an unusual request, but I'd really like to get first dibs on any new merchandise you got. Is there some
  way I could go check out the stock at your other camp? Of course, I'd be willing to pay a premium price.}
-{912}{}{Está bien. Volveré más tarde.}
+{912}{}{Está bien. Volveré más tarde entonces.}
 {913}{}{Good, but next time do me a favor and don't waste my time unless you've got actual business to discuss.}
 {914}{}{Premium price, huh? Now you're talking my kinda language. We usually handle sales here, but I suppose an exception could be made,
  as long as you're serious. I'll tell you how to get there, but you better keep it to your fucking self. I swear, if you turn out to be a
  spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pipboy.]}
-{915}{}{Déjame hacerte otra pregunta.}
+{915}{}{Entiendo. Déjame hacerte otra pregunta.}
 {916}{}{Gracias. Iré a buscarle ahora. Adiós.}
 {1360}{}{ dólares por ella. ¿Qué te parece?}
 {1361}{}{?}

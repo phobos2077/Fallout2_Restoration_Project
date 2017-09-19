@@ -1,11 +1,11 @@
 {100}{}{Ves a un niño.}
-{101}{}{Ves a un niño pequeño. Parece bastante alegre.}
-{102}{}{Ves a una niña pequeña. Parece bastante alegre.}
-{200}{}{¡Asesino de Grim!}
+{101}{}{Ves a un niño. Parece feliz.}
+{102}{}{Ves a una niña. Parece feliz.}
+{200}{}{¡Hola, señor!}
 {201}{}{Lo siento, Solo intentaba ayudar. Hasta luego, doctor.}
-{202}{}{De verdad que me gustaría hacérmelo con ella.}
-{203}{}{Gracias por ayudar a la causa.}
-{300}{}{, señora.}
+{202}{}{Realmente me gusta aquí.}
+{203}{}{¡Gracias por ayudar a Mamá a empezar este lugar!}
+{300}{}{¡Hola, señora!}
 {301}{}{Lo siento, Solo intentaba ayudar. Hasta luego, doctor.}
-{302}{}{De verdad que me gustaría hacérmelo con ella.}
-{303}{}{Gracias por ayudar a la causa.}
+{302}{}{Realmente me gusta aquí.}
+{303}{}{¡Gracias por ayudar a Mamá a empezar este lugar!}

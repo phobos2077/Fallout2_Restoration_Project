@@ -1,10 +1,10 @@
 {100}{}{Ves a un niño pequeño.}
 {101}{}{Ves a Pequeño Bobby.}
 {102}{}{He is wearing dirty clothing and has bruises on his neck and face.}
-{103}{}{Ves a un Shi con el ceño fruncido.}
+{103}{}{Él está usando ropa nueva y tiene una sonrisa en su rostro.}
 {104}{}{Hi mister! My name's Bobby and I live here with my Dad.}
 {105}{}{Hi miss! My name's Bobby and I live here with my Dad.}
-{106}{}{Ya veo. Bueno, hasta luego.}
+{106}{}{Ya veo. Bueno, e-}
 {107}{}{Are you here 'cause my dad owes you money? I don't know if he's here or not. But if I knew where he was,
  I'd tell you, 'cause maybe you'd beat him up so bad he wouldn't ever come home again.}
 {108}{}{This sounds horrible, Bobby. Your father has no right to treat you that way -- no parent does.}
@@ -13,7 +13,7 @@
  I wish my dad was more like you. Sometimes I think about running away. Some of my friends don't have homes, and they say
  it's not so bad. As long as they bring Mr. Flick enough things, they get to eat once a day. But Mr. Flick doesn't sound very
  nice either -- actually, he sounds a lot like my dad.}
-{111}{}{¡Lárgate! ¡No me gustas!}
+{111}{}{¡Eres malo! Lárgate. No me gustas.}
 {112}{}{There's gotta be something that can be done about this. Can you think of any adults in this town that'd be willing to
  look after you -- or any of these homeless kids?}
 {113}{}{[Bobby shrugs.] Maybe Mom? I don't mean *my* mom -- my mom's dead -- but there's a lady that people call Mom. I dunno why.
@@ -28,23 +28,23 @@
  friends! I'm so excited! Thanks again mister, you're the best!}
 {118}{}{[A huge smile lights up the boy's face.] Really? That's great! [He hugs you.] I can't wait to live there with all my
  friends! I'm so excited! Thanks again miss, you're the best!}
-{119}{}{De nada. Hasta que nos volvamos a ver.}
-{120}{}{¿Has hablado ya con la Anciana?}
+{119}{}{De nada, chico. Nos vemos.}
+{120}{}{¡Hola de nuevo! ¿Has hablado ya con señora Mamá?}
 {121}{}{No te preocupes, estoy en ello.}
 {122}{}{You help Bobby find a better life.}
 {123}{}{Hi again! Thanks for everything. I love this new place. Mom is such a great lady!}
 {124}{}{I love this new place. Mom is such a great lady!}
-{125}{}{Supongo que es hora de empaquetar mis cosas.}
-{126}{}{Me pregunto si Chip volverá a estar bien alguna vez.}
-{127}{}{Esto se va a convertir en un desastre.}
-{200}{}{No me gustas. Vete.}
+{125}{}{¡Estoy muy emocionado! Es hora de empaquetar mis cosas.}
+{126}{}{Me pregunto si papá notará que me he ido.}
+{127}{}{Esto se va a ser mucho mejor.}
+{200}{}{No me gustas. ¡Vete!}
 {210}{}{It sounds like you're not too fond of your dad. Mind if I ask why?}
 {211}{}{You little brat, what gives you the right to talk about your dad like that?}
 {220}{}{Cause my dad's not very nice. He leaves me home alone all the time, and when he *is* home, he's always drunk or
  he says he's flying on jet, which is a lie 'cause I never see him fly anywhere. Sometimes, he brings a
  girlfriend home -- he's got lots of girlfriends -- and he makes me go outside for awhile, even if its the middle of the night
  and it's cold or raining.}
-{221}{}{¡Te pillé!}
+{221}{}{Eso es-}
 {230}{}{Oh! And sometimes he tells me to take things from people in secret. He says it's a game and that he gives it back later,
  but I don't' believe him. But if I don't do it, then he gets real mad and his eyes get all scary looking, and he hurts me.
  See? [He lifts up his shirt sleeve, revealing a nasty bruise on his arm.]}
