@@ -159,6 +159,6 @@
 {702}{}{Vamos.}
 {710}{}{¿Estás listo para pagar los 10.000 dólares esta vez?}
 {720}{}{Well, don't stray too far. We need to finish this tonight or we'll do it without you.}
-{721}{}{Volveré.}
+{721}{}{Volveré pronto.}
 {722}{}{Vamos.}
 {730}{}{We did it. I can't believe it! We're heading back to the church to take charge. Meet us back there for your reward.}

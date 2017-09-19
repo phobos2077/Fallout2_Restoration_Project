@@ -63,7 +63,7 @@
 {412}{}{¿Qué les provees pianos?}
 {413}{}{You sound like you don't like the fact that the children are no longer roaming the streets.}
 {420}{}{Hey, don't get me wrong. Life on the street is tough fer them kids, but it's the end of our little arrangement that gets me down.}
-{421}{}{¿Cuáles?}
+{421}{}{¿Qué arreglo?}
 {422}{}{You mean them pickpocketing from people and bringing the items to you to sell.}
 {430}{}{Don't you get smart with me asshole. The kids bring me items they *find.* I don't know where they get them and frankly, I don't give a fuck.}
 {431}{}{Eso es.}
@@ -75,14 +75,14 @@
 {460}{}{Yeah...business was good 'til you came along. See, yer little stunt's gonna cost me. My business is gonna suffer thanks to you.
  Because of this, I don't really like you too much. In fact, I fuckin' hate you. But, I'm a business man, so if you need to barter,
  get to it. If not, fuck off.}
-{461}{}{Déjame ver lo que tienes a la venta.}
-{462}{}{Creo que eso es todo lo que necesito saber. Adiós.}
-{463}{}{Creo que te mataré lentamente.}
+{461}{}{De acuerdo, déjame ver lo que tienes a la venta entonces.}
+{462}{}{Creo que tengo todo lo que necesito. Adiós.}
+{463}{}{Creo que me quedaré... y patearte el culo.}
 {470}{}{You again? You better be here to make some good trades, 'cause I'm getting real fuckin' sick of looking at you.
  In fact, I vomit in my mouth a little every time I see yer face. That's how much you disgust me. And if yer not here to
  trade, then I suggest you turn around and walk the fuck outta here.}
 {471}{}{Vamos a hacer negocios.}
 {472}{}{Sólo quería asegurarme. Bien, adiós Flick.}
-{480}{}{¿Ya te has encargado de Westin?}
-{481}{}{Dejame echar otro vistazo a tus productos.}
-{482}{}{Me parece bien. Adiós.}
+{480}{}{¿Has terminado de perder mi tiempo?}
+{481}{}{Déjame echar otro vistazo.}
+{482}{}{Parece bien. Adiós, Flick.}

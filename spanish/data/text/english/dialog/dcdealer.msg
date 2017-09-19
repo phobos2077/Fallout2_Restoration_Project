@@ -1,9 +1,9 @@
-{100}{}{Ves a una croupier.}
-{101}{}{Ves a una croupier.}
-{102}{}{Si buscas negociar con esclavos, habla con el jefe.}
-{103}{}{Claro, guapo.}
+{100}{}{Ves a un traficante.}
+{101}{}{Ves a un traficante.}
+{102}{}{Si buscas negociar, tengo las cosas.}
+{103}{}{Claro, muestrame.}
 {104}{}{Quizá en algún otro momento.}
-{105}{}{¿Qué necesitas?}
+{105}{}{¿Encontraste lo qué necesitas?}
 {106}{}{Gracias. Adiós.}
 {200}{}{Ves a un matón.}
 {201}{}{Ves a un matón.}

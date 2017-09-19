@@ -1,5 +1,5 @@
 {100}{}{Ves a un niño pequeño.}
-{101}{}{Ves a un niño pequeño.}
+{101}{}{Ves a Pequeño Bobby.}
 {102}{}{He is wearing dirty clothing and has bruises on his neck and face.}
 {103}{}{Ves a un Shi con el ceño fruncido.}
 {104}{}{Hi mister! My name's Bobby and I live here with my Dad.}

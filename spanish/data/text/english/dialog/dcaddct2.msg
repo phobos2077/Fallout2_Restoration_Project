@@ -45,9 +45,9 @@
  wealth. Yeah, I've changed my mind, we're staying until she pays up. Now this conversation's over, so you better leave if you know what's good for you.}
 {360}{}{Alright. No need for this to get out of control. I'll leave you alone.}
 {361}{}{Time to clean this place up then. (Attack)}
-{400}{}{Gracias de nuevo.}
-{401}{}{Lo haré.}
+{400}{}{¡Gracias de nuevo!}
+{401}{}{Vamos a trabajar duro.}
 {402}{}{Gracias por ayudarnos.}
-{403}{}{¡No te decepcionaré, Jefe!}
+{403}{}{No te decepcionaremos.}
 {500}{}{Vaya vaya, mira qué pandilla de gilipollas.}
-{600}{}{Ves a Bill, un okupa.}
+{600}{}{Has eliminado a todos los okupas.}

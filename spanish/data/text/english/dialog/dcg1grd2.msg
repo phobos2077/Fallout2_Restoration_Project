@@ -1,5 +1,5 @@
 {100}{}{Ves a un matón.}
-{101}{}{Es uno de los guaridas de Tyler.}
+{101}{}{Es un amigo de Tyler.}
 {110}{}{¿Estás aquí para ver a Lara?}
 {111}{}{*hickup* Brews on me!}
 {112}{}{No me mientas. Volveré si lo haces.}
