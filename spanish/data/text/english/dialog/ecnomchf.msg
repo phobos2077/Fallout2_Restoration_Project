@@ -22,7 +22,7 @@
 {121}{}{Déjanos.}
 {122}{}{Somos una tribu pacífica.}
 {200}{}{Ah, un viajero. Sé bienvenido a mi humilde tienda. Ven a la sombra y cobíjate del interminable calor de la tierra.}
-{201}{}{Gracias; acepto con gentileza tu oferta de cobijo.}
-{202}{}{Qué desgraciado. Entonces descansa y sé bienvenido a mi campamento.}
-{203}{}{Aquí está. ¿Algo más?}
-{204}{}{No quiero. Marcho ya.}
+{201}{}{Gracias; acepto con gentileza tu oferta.}
+{202}{}{Qué desgraciado. Descansa y sé bienvenido entre nosotros.}
+{203}{}{Espero que hayas encontrado lo que necesitaba. ¿Algo más?}
+{204}{}{Hoy no. Debe irme.}

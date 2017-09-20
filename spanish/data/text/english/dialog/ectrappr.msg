@@ -9,9 +9,9 @@
 {108}{}{¿Qué tienes?}
 {109}{}{No importa.}
 {110}{}{Uhg.}
-{111}{}{Esto es lo que tengo:}
-{112}{}{pieles de gecko normal.}
-{113}{}{pieles de gecko dorado.}
+{111}{}{Esto es lo que tengo: }
+{112}{}{ pieles de gecko normal.}
+{113}{}{ pieles de gecko dorado.}
 {114}{}{Me quedaré con todo lo que tienes.}
 {115}{}{Quizás la próxima vez. Adiós.}
 {116}{}{Has hecho un buen negocio. Nos vemos.}
@@ -39,5 +39,5 @@
 {138}{}{Creo que he oído a Mamá llamarme.}
 {140}{}{Looks like I don't have any regular gecko pelts, but I do have }
 {141}{}{Looks like I don't have any golden gecko pelts, but I do have }
-{142}{}{Lo siento, se me han acabado las historias.}
+{142}{}{Lo siento, parece que no tengo nada.}
 {200}{}{Ves a una mujer demacrada y sucia.}
