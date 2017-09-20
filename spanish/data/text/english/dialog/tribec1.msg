@@ -113,7 +113,7 @@
 {370}{}{[He chuckles.] I offer the hospitality of our tribe and the opportunity to impress me. I promise no more than that.}
 {371}{}{De acuerdo, venid a por mí.}
 {372}{}{Dame un momento para prepararme.}
-{373}{}{No estoy interesado.}
+{373}{}{No estoy interesado. Adiós.}
 {375}{}{¿Estás listo para irte?}
 {376}{}{Aún no.}
 {377}{}{De acuerdo, venid a por mí.}

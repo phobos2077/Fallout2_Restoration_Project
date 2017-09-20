@@ -140,5 +140,5 @@
 {282}{}{¿Por qué no te vas, entonces?}
 {290}{}{I'm Elsie. That's Gond. We're members of an anti-slavery group called the New California Rangers. We could use someone like you. If you're interested in joining us, I've got a task for you.}
 {291}{}{Salgamos.}
-{292}{}{No estoy interesado.}
+{292}{}{No estoy interesado. Adiós.}
 {300}{}{¿Te puedo ayudar en algo?}

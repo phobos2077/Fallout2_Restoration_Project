@@ -42,7 +42,7 @@
 {151}{}{mineral de oro.}
 {152}{}{mineral de uranio.}
 {153}{}{producto de granja.}
-{154}{}{(Cody se encoge de hombros).}
+{154}{}{drogas.}
 {155}{}{esclavos.}
 {156}{}{material diverso.}
 {198}{}{Nuevo Reno}

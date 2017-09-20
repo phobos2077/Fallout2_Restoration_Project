@@ -69,7 +69,7 @@
 {631}{}{Sí, aquí lo tengo.}
 {632}{}{La estoy buscando.}
 {640}{}{Lets see here... Oh, excellent. These will work well. Here, take some healing powder for your time.}
-{641}{}{Gracias. }
+{641}{}{Gracias. Adiós.}
 {1000}{}{You relieve the Tribe's Shaman of his troubles.}
 {2000}{}{Le has entregado la pieza a Skeeter.}
 {3000}{}{I knew you were a great hero all along... The spirits told me so.}

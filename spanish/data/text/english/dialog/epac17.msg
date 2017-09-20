@@ -187,7 +187,7 @@
  spot I left it at. In any case, head northwest from this building and you will find the area where I left my tool. Should
  be a piece cake.}
 {804}{}{Me pondré a ello ahora mismo.}
-{805}{}{No estoy interesado.}
+{805}{}{No estoy interesado. Adiós.}
 {806}{}{Well, wait. Are you sure you won't help me with a little something?}
 {810}{}{Excellent! Now, I must get back to work. [To himself.] It's all going according to plan.}
 {811}{}{[HECHO]}
