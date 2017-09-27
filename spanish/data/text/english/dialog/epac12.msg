@@ -183,7 +183,7 @@
 {454}{}{Como la seda, señor.}
 {460}{}{You've got enough people already. You don't need an entourage.}
 {461}{}{Maybe when you've freed up some space. I don't run well with crowds.}
-{462}{}{Quiero tomarme un tiempo contigo.}
+{462}{}{¿Estás listo para llevarme contigo?}
 {463}{}{Vamos.}
 {464}{}{No, aún no.}
 {470}{}{Jesus, you look like the Grim Reaper. You ought to get yourself checked out.}

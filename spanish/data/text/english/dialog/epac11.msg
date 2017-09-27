@@ -53,10 +53,10 @@
 {306}{}{Gracias, es todo lo que necesitaba saber.}
 {310}{}{Crees que puedes ser capaz de repararlo.}
 {311}{}{I might be able to teach you a thing or two about energy weapons and other big weapons. Now you have to remember...}
-{312}{}{[Continuar]}
+{312}{}{[Continuar.]}
 {313}{}{There you go. That should help you melt those mutants who get in your way.}
 {314}{}{Gracias.}
-{390}{}{Quiero tomarme un tiempo contigo.}
+{390}{}{¿Estás listo para llevarme contigo?}
 {391}{}{Vamos.}
 {392}{}{No, aún no.}
 {400}{}{¿Necesitas algo?}
