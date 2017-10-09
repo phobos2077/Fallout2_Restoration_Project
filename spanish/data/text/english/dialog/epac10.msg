@@ -539,20 +539,20 @@ and fifty years.}
 {4041}{}{I try to stay away from this stuff. But if you insist...}
 {4042}{}{My body's a temple, but I guess this once won't hurt.}
 {4043}{}{Como me hayas roto mi calculadora de bolsillo, te mato.}
-{4045}{}{Me siento mucho mejor, gracias.}
-{4046}{}{Ponte bien.}
-{4050}{}{Sheila! ¡Vigila el bar!}
+{4045}{}{Me siento mucho mejor ahora.}
+{4046}{}{Mucho mejor.}
+{4050}{}{¡Oye! Vigila el pelo.}
 {4051}{}{Eh, no toques la puta puerta.}
 {4060}{}{It just isn't the same when their blood's still warm, ya know?}
 {4061}{}{Espero que así sea.}
 {4062}{}{Girls have gotten pretty freaky since the end of the world... I dig that.}
 {4063}{}{...and thats why the babes used to call me "Dex, the Duke of Sex".}
-{4070}{}{Eh, me siento muy enfermo. Creo que estoy envenenado.}
+{4070}{}{Siento náuseas. Creo que estoy envenenado.}
 {4071}{}{Creo que voy a vomitar.}
-{4080}{}{Necesitaría cierta atención médica.}
-{4081}{}{Creo que he visto gente que vive aquí. ¿No es eso peligroso?}
+{4080}{}{No puedo mover esta extremidad. Necesito atención médica.}
+{4081}{}{Creo que no siento esta extremidad. ¿Es eso malo?}
 {4090}{}{It just got really blurry. Where'd everyone go?}
-{4091}{}{Creo que me miraba a mí.}
+{4091}{}{Creo que la sangre está saliendo de mis ojos.}
 {4100}{}{So, facial tattoos, huh? I guess if I was as ugly as bone-nose, here, I'd want to cover that up too.}
 {4101}{}{Yo, face-tats. You the cannibalistic sort? Maybe we could exchange recipes or something.}
 {4102}{}{I get the feeling your pal Sulik here doesn't dig me too much. You ever think about selling the guy off for some cash?}
@@ -580,14 +580,14 @@ and fifty years.}
 {4172}{}{Myron's like one giant pimple, just waiting to be popped.}
 {4180}{}{At least Goris has the decency to cover himself.}
 {4181}{}{Good job blending in, Goris. You look just like a typical hunchbacked freak.}
-{4200}{}{Es que soy muy curioso y quiero saber qué pasa por aquí.}
+{4200}{}{Tengo curiosidad por ver cómo son estas mujeres tribales.}
 {4210}{}{Whores... whores everywhere. I love this fucking place.}
 {4220}{}{Parece estar buscando algo.}
-{4230}{}{No hay razón para venir aquí si no puedo comerme una tortilla.}
+{4230}{}{Hay muchos policías aquí. Yo digo que salimos.}
 {4240}{}{Muchas gracias por tu ayuda. No seguiré aquí por más tiempo.}
 {4250}{}{We're wasting our time here. Zombie chicks aren't my thing. I generally don't like gals to look dead until AFTER I'm through with 'em.}
-{4260}{}{¿Por qué demonios estamos aquí?}
-{4270}{}{No creo que quiera tomar parte en esto. Adiós.}
+{4260}{}{¿Por qué demonios estamos perdiendo el tiempo aquí? ¿En serio?}
+{4270}{}{No creo que quiero pasar más tiempo en este facilidad.}
 {5000}{}{[He snaps his head towards you and leaps to his feet. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.}
 {5001}{}{[FIN]}
 {5002}{}{¡Joder!}

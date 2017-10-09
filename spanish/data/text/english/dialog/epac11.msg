@@ -1,4 +1,4 @@
-{100}{}{Ves al sargento Granite.}
+{100}{}{Ves al sargento Cat Jules.}
 {101}{}{Ves a un yonqui demacrado. Tiene bolsas bajo los ojos y una expresión de dolor en su cara.}
 {200}{}{[As you approach the cryogenic chamber, you see a slender, naked black man sprawled on the floor.
  His muscular body is still shaking from the icy, cold water. He looks up at you as you approach.]}
