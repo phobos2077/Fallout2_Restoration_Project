@@ -20,7 +20,7 @@
 {242}{}{Still not working? Hold on, let me decipher that.}
 {250}{}{[You're able to decode the message much quicker this time: "Reboot me!"] Oh, of course. [You reboot the machine
  running the hologram. To pass the time, you whistle as it chugs through all its starting procedures.]}
-{251}{}{[Continuar]}
+{251}{}{[Continuar.]}
 {260}{}{By Hawking, you've done it! My vocal program had been stuck in binary mode for *years*. It's been so long since
  I've had the pleasure of exchanging dialogue with a fellow intellect. You'd think during all this time *one* of my
  comrades would have had the decency to learn binary, but nooo.}
@@ -83,6 +83,6 @@
 {411}{}{Lo que sea.}
 {412}{}{No hay problema.}
 {420}{}{Nice to see you again. However, if you'll excuse me, I've got a plethora of projects that require my attention.}
-{421}{}{[Fin]}
+{421}{}{[Fin.]}
 {500}{}{You fix Hologram 00000.}
 {510}{}{You test the Solar Scorcher for the Director of Science.}

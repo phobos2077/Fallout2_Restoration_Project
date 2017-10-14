@@ -1,16 +1,16 @@
-{100}{}{Ves a Derek.}
+{100}{}{Ves a Dex.}
 {101}{}{You see a handsome, impeccably groomed man. Beneath an impressive shock of grease-slicked hair, his eyes
  sparkle with intensity... or perhaps insanity.}
 {200}{}{[As you approach the cryogenic chamber, you see an attractive naked man sprawled on the floor. He draws
  his knees up and hugs them against his chest. He sits there for several moments, staring blankly ahead as his body
  quakes and his teeth chatter. Gradually, he seems to calm down.]}
-{201}{}{Uhh, ¿hola?}
+{201}{}{Eh, ¿hola?}
 {210}{}{[He snaps his head towards you and leaps to his feet. He watches you intently, then glances around like a
  cornered animal. When his eyes return to you, they soften, and he relaxes as his memories come flooding back to him.
  He quickly alters his composure, projecting cool confidence, despite his nakedness.] I don't recognize you, bud.
  You don't mind if I get dressed do you?}
-{211}{}{Hmm, supongo que no está aquí.}
-{212}{}{Bueno, }
+{211}{}{Supongo que no hay daño-}
+{212}{}{Bueno, yo-}
 {220}{}{Of course you don't mind. Thanks, pal. [He steps past you and opens a nearby locker. He casually dresses himself
  in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb, he begins to sculpt and style
  his slicked dark hair with the quick precision of a seasoned pro.] So, where's the doc? }
@@ -23,7 +23,7 @@
  The more you can tell me, the longer you get to live.}
 {230}{}{[His cool demeanor vanishes and his eyes flare with rage.] You think you can intimidate ME? Do you have the first
  FUCKING CLUE who you're talking to? Come here and I'll show you what I'm capable of!}
-{231}{}{[HECHO]}
+{231}{}{[Hecho.]}
 {240}{}{[Dex grins at you, revealing a set of perfect teeth-a product of pre-war dentistry that look strange to you in
  all their pearly white symmetry.] The doc, my friend? [He cocks an eyebrow.] You don't know who I am, do you?}
 {241}{}{Uh, not exactly. I've been sort of wandering around this strange facility, tinkering with stuff, and I just so happened to unthaw you. Why were you frozen in there, anyway?}
@@ -36,7 +36,7 @@
 {261}{}{The Great Silence is what my people call the end of your world. When the great fires rained down from the sky and scorched the land. You'll find the world is nothing like the one you knew.}
 {270}{}{No shit, so they actually dropped the bombs, huh? I guess the vault project wasn't just a big waste of the
  tax-payers' money, after all.}
-{271}{}{¿Sabes algo del Refugio?}
+{271}{}{Espera. ¿Sabes de los Refugios sagrados?}
 {280}{}{Know of them? Hell, I used to live right by the Chicago vault. I even watched 'em finish building the thing.
  Then of course they started doing those damn drills... [He stops and regards you with amusement.] You're really eating
  this up, aren't you?}
@@ -50,7 +50,7 @@
 {291}{}{Hmm, your knowledge of the old ones could prove quite useful to me... But, well, honestly, I, uh, read about you
  in that computer over there, and I'm not sure you're the type of guy I'd want to travel with.}
 {292}{}{I don't really have the time to "show you the ropes". I'm sure you'll do just fine on your own, "bud".}
-{293}{}{Tenemos un trato, gordinflón.}
+{293}{}{Dice que tenemos un trato, compañero.}
 {294}{}{I don't think I'm too eager to go gallivanting around the wasteland with a psychotic murderer. So you're on your
  own, "bud". Don't worry, I'm sure you'll be just fine. [Snicker.]}
 {300}{}{Whoa, stop right there. Let me guess, you read I was some kind of crazy murderer, right? Well bud, I've got two
@@ -95,13 +95,13 @@
 {400}{}{[As you approach the cryogenic chamber, you see an attractive naked man sprawled on the floor. He draws his
  knees up and hugs them against his chest. He sits there for several moments, staring blankly ahead as his body quakes
  and his teeth chatter. Gradually, he seems to calm down.]}
-{401}{}{Uhh, ¿hola?}
+{401}{}{Eh, ¿hola?}
 {410}{}{[He snaps his head towards you and leaps to his feet. He watches you intently, then glances around like a
  cornered animal. When his eyes return to you, they soften, and he relaxes as his memories come flooding back to him.
  He quickly alters his composure, projecting cool confidence, despite his nakedness.] Hey doll, I know I'm quite the
  sight to behold, but it's a tad chilly in here. You mind if I get dressed?}
-{411}{}{Hmm, supongo que no está aquí.}
-{412}{}{Bueno, }
+{411}{}{Supongo que no hay daño-}
+{412}{}{Bueno, yo-}
 {420}{}{Of course you don't mind. Thanks, babe. [He steps past you, gently slapping your rump, and opens a nearby locker.
  He casually dresses himself in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb,
  he begins to sculpt and style his slicked dark hair with the quick precision of a seasoned pro.] I don't think I've
@@ -113,10 +113,10 @@
 {425}{}{Yeah, I DO mind, you fucking creep. I only unthawed you so I could put you down like the sick dog you are.}
 {426}{}{Forget about names. How 'bout you take those clothes back off and show me what pre-war men are made of.}
 {430}{}{[Grins and begins to undress.] You're my kind of gal. Prepare yourself to experience Dex, the Duke of Sex.}
-{431}{}{[Continuar]}
+{431}{}{[Continuar.]}
 {440}{}{[After an intense love making session on the floor of the chamber, the two of you collapse in exhaustion. Dex
  holds a small object near your mouth.] Scream for her, baby. [Just as you realize it's a severed human ear, you feel a blade pierce your chest. You scream as the blade is pulled out and plunged back in...]}
-{441}{}{[Fin]}
+{441}{}{[Fin.]}
 {450}{}{Whoa, whoa, whoa. Back up a second, sweetheart. Did you just say a hundred and fifty years? [He shakes his head in  disbelief.] That is un-fucking-believable. [He checks out his reflection.] But you gotta admit, I'm looking damn good for my age. [He grins at you, revealing a set of perfect teeth-a product of pre-war dentistry that looks strange to you in all  their pearly white symmetry.]}
 {451}{}{Sure, some girls might find you attractive, but I'm finding it hard to look past the fact that you're a cold-blooded murderous psycho.}
 {452}{}{Yes, you're very attractive, but honestly, I'm a bit nervous to talk to you after what I read about you being a murderous psycho.}
@@ -127,7 +127,7 @@
 {460}{}{OK, where are you getting this crap about me being a "murderous psycho"?}
 {461}{}{Don't try to bullshit me. I read about you on that computer.}
 {462}{}{That computer over there had some kind of bio on you, and it had some pretty terrible things in it.}
-{463}{}{No puedes ver el fondo de este pozo.}
+{463}{}{Puedo sentirlo. Pareces de esta manera.}
 {464}{}{Don't try to bullshit me. I know people like you.}
 {470}{}{Ah, now it makes sense. Look, don't worry about that, it's not what you think. I'll explain everything in a
  second. But first of all, would you mind telling me what the hell's happened since they put me on ice? I mean, this
@@ -136,7 +136,7 @@
 {475}{}{Great Silence? The Old Ones? How about you spare me this cryptic bullshit and just tell me what happened?}
 {476}{}{The Great Silence is what my people call the end of your world. When the great fires rained down from the sky and scorched the land. You'll find the world is nothing like the one you knew. }
 {480}{}{No shit, so they actually dropped the bombs, huh? I guess the vault project wasn't just a big waste of the tax-payers' money, after all.}
-{481}{}{¿Sabes algo del Refugio?}
+{481}{}{Espera. ¿Sabes de los Refugios sagrados?}
 {490}{}{Know of them? Hell, I used to live right by the Chicago vault. I even watched 'em finish building the thing.
  Then of course they started doing those damn drills... [He stops and regards you with amusement.] You're really eating
  this up, aren't you, babe?}
@@ -146,7 +146,7 @@
 {493}{}{Well, you see, I had been chosen by my people to try and find a Vault. I risked my life on several occasions to
  find this Holy Vault and I finally was successful in finding it. I am curious what else you might know of these places.}
 {500}{}{I'll tell you what, babe. You need help finding these Vaults, and I need someone to show me the ropes, so to speak, in this crazy world of yours. So what do you say... partner?}
-{501}{}{Tenemos un trato, gordinflón.}
+{501}{}{Dice que tenemos un trato, compañero.}
 {502}{}{Well, your knowledge of the old ones could prove quite useful to me... but, you know, there's that whole psychotic murderer thing...}
 {503}{}{I don't think I'm too eager to go gallivanting around the wasteland with a psychotic murderer. So you're on your
  own, "babe". Don't worry, I'm sure you'll be just fine. [snicker.]}
@@ -170,7 +170,7 @@
  big bucks for healthy test subjects. I needed the money, and, well, it turned out to be the worst mistake of my life.
  I can't even begin to tell you the horrors they subjected me to. [His eyes shimmer with tears as he reflects. He sighs
  deeply and wipes the tears away.] Anyway, thanks to you, }
-{541}{}{Voy a convertirte en la pesadilla de una funeraria.}
+{541}{}{, finalmente estoy libre de esa pesadilla.}
 {542}{}{Bien, supongo que me vendría bien algo de ayuda.}
 {543}{}{Actually, asshole, your nightmare's just begun, because I'm not buying a word of this.}
 {550}{}{So how 'bout it, babe? Can we partner up? Not only do I bring my striking good looks to the table, but I can
@@ -181,7 +181,7 @@
 {552}{}{Sure, I suppose we could partner up. Welcome to the team, Dex.}
 {553}{}{That was a damn good story, and you're not a bad actor, which makes you all the more dangerous. I think I'll
  do the wastelands a favor and remove you before you can do anymore harm.}
-{554}{}{Tenemos un trato, gordinflón.}
+{554}{}{Dice que tenemos un trato... compañero. }
 {555}{}{Well, your knowledge of the old ones could prove quite useful to me... I suppose you've got a deal.}
 {556}{}{I don't really have the time to "show you the ropes". I'm sure you'll do just fine on your own, "babe".}
 {560}{}{[Dex's grin falters and his eyes become unfocused. After a moment, he begins speaking without meeting your eyes.]
@@ -199,13 +199,13 @@
 {600}{}{[As you approach the cryogenic chamber, you see an attractive naked man sprawled on the floor. He draws his knees
  up and hugs them against his chest. He sits there for several moments, staring blankly ahead as his body quakes and his
  teeth chatter. Gradually, he seems to calm down.]}
-{601}{}{Eh, de acuerdo...}
+{601}{}{Eh, oye...}
 {610}{}{[He snaps his head towards you and leaps to his feet. He watches you intently, then glances around like a cornered
  animal. When his eyes return to you, they soften, and he relaxes as his memories come flooding back to him. He quickly
  alters his composure, projecting cool confidence, despite his nakedness.] I don't recognize you, bud. You don't mind if
  I get dressed do you?}
-{611}{}{Hmm, supongo que no está aquí.}
-{612}{}{Bueno, }
+{611}{}{Supongo que no hay daño-}
+{612}{}{Bueno, yo-}
 {620}{}{Of course you don't mind. Thanks, pal. [He steps past you and opens a nearby locker. He casually dresses himself
  in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb, he begins to sculpt and style his
  slicked dark hair with the quick precision of a seasoned pro.] So, where's the doc? }
@@ -221,11 +221,11 @@
 {633}{}{No idea, but you are giving off these evil vibes and I approve.}
 {640}{}{[His cool demeanor vanishes and his eyes flare with rage.] You think you can intimidate ME? Do you have the first
  FUCKING CLUE who you're talking to? Come here and I'll show you what I'm capable of!}
-{641}{}{[HECHO]}
+{641}{}{[Hecho.]}
 {650}{}{[Dex grins at you, revealing a set of perfect teeth-a product of pre-war dentistry that look strange to you in all
  their pearly white symmetry.] I knew there was something I liked about you. You've got good taste. I don't suppose you're
  also a fan of The King?}
-{651}{}{Eh... Gracias.}
+{651}{}{Eh... [Mirada en blanco.]}
 {652}{}{Oh yeah, I love that... uh, what'd you call it, The King? Yeah, huge fan.}
 {660}{}{Nevermind, bud. [Dex takes another look around the room and whistles.] This place has really gone to shit.
  How long did you say it's been?}
@@ -234,7 +234,7 @@
 {666}{}{The Great Silence is what my people call the end of your world. When the great fires rained down from the sky and scorched the land. You'll find the world is nothing like the one you knew.}
 {670}{}{No shit, so they actually dropped the bombs, huh? I guess the vault project wasn't just a big waste of the tax-payers'
  money, after all.}
-{671}{}{¿Sabes algo del Refugio?}
+{671}{}{Espera. ¿Sabes de los Refugios?}
 {680}{}{Know of them? Hell, I killed my first hooker not far from where they were building the Chicago Vault.
  Those were the days... [He stops and regards you with amusement.] You're really eating this up, aren't you?}
 {681}{}{TELL ME MORE OF THE VAULTS!}
@@ -251,19 +251,19 @@
  because that'd fuck me over. I'll be honest, }
 {701}{}{, I don't give a fuck about anyone, or anything, except for myself. If the world is as fucked up as you say it is,
  then sticking with you is the best shot I've got. It's as simple as that.}
-{702}{}{Me parece justo. Adiós.}
+{702}{}{Me parece justo. Vamos.}
 {703}{}{I'm just fucking with you Dex. I never actually had any intention of bringing you with me. I just thought I'd
  have a bit of fun with you before caving your skull in.}
 {800}{}{[As you approach the cryogenic chamber, you see an attractive naked man sprawled on the floor. He draws his knees
  up and hugs them against his chest. He sits there for several moments, staring blankly ahead as his body quakes and his
  teeth chatter. Gradually, he seems to calm down.]}
-{801}{}{Eh, de acuerdo...}
+{801}{}{Eh, oye...}
 {810}{}{[He snaps his head towards you and leaps to his feet. He watches you intently, then glances around like a cornered
  animal. When his eyes return to you, they soften, and he relaxes as his memories come flooding back to him. He quickly
  alters his composure, projecting cool confidence, despite his nakedness.] Hey doll, I know I'm quite the sight to behold,
  but it's a tad chilly in here. You mind if I get dressed?}
-{811}{}{Hmm, supongo que no está aquí.}
-{812}{}{Bueno, }
+{811}{}{Supongo que no hay daño-}
+{812}{}{Bueno, yo-}
 {820}{}{Of course you don't mind. Thanks, babe. [He steps past you, gently slapping your rump, and opens a nearby locker.
  He casually dresses himself in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb, he
  begins to sculpt and style his slicked dark hair with the quick precision of a seasoned pro.] I don't think I've seen
@@ -299,7 +299,7 @@ and fifty years.}
 {856}{}{The Great Silence is what my people call the end of your world. When the great fires rained down from the sky and scorched the land.
  You'll find the world is nothing like the one you knew.}
 {860}{}{No shit, so they actually dropped the bombs, huh? I guess the vault project wasn't just a big waste of the tax-payers' money, after all.}
-{861}{}{¿Sabes algo del Refugio?}
+{861}{}{Espera. ¿Sabes de los Refugios?}
 {870}{}{Know of them? Hell, I killed my first hooker not far from where they were building the Chicago Vault. Those were the
  days... [He stops and regards you with amusement.] You're really eating this up, aren't you?}
 {871}{}{TELL ME MORE OF THE VAULTS!}
@@ -312,94 +312,94 @@ and fifty years.}
 {881}{}{Hell, no need to try and convince me. I'd be happy to have you along just to see your handiwork first hand.}
 {882}{}{I don't know, Dex. Let's just say I let you come along with me, and we make it back to the remote safety of a settlement.
  Once there, how do I know you won't try and slit my throat the first chance you get?}
-{883}{}{Tenemos un trato, gordinflón.}
+{883}{}{Dice que tenemos un trato, compañero.}
 {884}{}{Well, your knowledge of the old ones could prove quite useful to me... I suppose you've got a deal.}
 {885}{}{I don't really have the time to "show you the ropes". I'm sure you'll do just fine on your own, "babe".}
 {890}{}{I can tell you're no saint either, so I could ask you the same thing. But to answer your question, I wouldn't kill
  you because that'd fuck me over. I'll be honest, }
 {891}{}{, I don't give a fuck about anyone, or anything, except for myself. If the world is as fucked up as you say it is,
  then sticking with you is the best shot I've got. It's as simple as that.}
-{892}{}{Me parece justo. Adiós.}
+{892}{}{Me parece justo. Vamos.}
 {893}{}{I'm just fucking with you Dex. I never had any intention of bringing you with me. I just thought I'd have a bit
  of fun with you before caving your skull in.}
 {900}{}{We'll get to that in a second. But first of all, how 'bout you fill me in on what the hell happened since they put me on ice.
  I mean, this place has gone to shit, and you look like you've walked out of some kind of sci-fi adventure tale.}
-{1000}{}{¿Hay noticias?}
+{1000}{}{¿Qué pasa?}
 {1001}{}{[Dex cocks an eyebrow at you.] Something up?}
-{1002}{}{Grita para Kaga.}
+{1002}{}{Hablame.}
 {1003}{}{[Dex smiles.] What's up, pal?}
-{1004}{}{¿Necesitas algo más?}
-{1005}{}{¿Qué puedo hacer por ti?}
-{1010}{}{¿Hay noticias?}
+{1004}{}{¿Necesitas algo?}
+{1005}{}{¿Qué puede hacer Dex por ti?}
+{1010}{}{¿Qué pasa?}
 {1011}{}{[Dex cocks an eyebrow at you.] Something up, babe?}
-{1012}{}{Hora de dormir, bebé.}
+{1012}{}{Hablame, bebé.}
 {1013}{}{[Dex smiles.] What's up, doll?}
-{1014}{}{¿Necesitas algo más?}
-{1015}{}{¿Qué podemos hacer por usted, }
-{1100}{}{¿Listo para ir?}
-{1101}{}{¿Vas a entrar u qué?}
+{1014}{}{¿Necesitas algo más? ¿Algo? [Dex sonríe.]}
+{1015}{}{¿Qué puede Dex hacer por ti, bébe?}
+{1100}{}{¿Estamos listo para rodar?}
+{1101}{}{¿Vas a ir, o qué?}
 {1102}{}{You ready yet? I'm itchin' to move.}
 {1103}{}{So, you realized you're better off with me, huh?}
 {1104}{}{Me estoy cansando de esperar por ti.}
 {1105}{}{Come on. I was frozen for over a hundred and fifty years. I'm eager to move.}
-{1106}{}{Soy Martin, por aquí.}
-{1110}{}{Quiero tomarme un tiempo contigo.}
+{1106}{}{Me estoy impacientando aquí.}
+{1110}{}{¿Estás listo para llevarme contigo?}
 {1111}{}{Vamos.}
 {1112}{}{No, aún no.}
-{1200}{}{¿Qué puedes decirme del Refugio 15?}
-{1201}{}{¿Sabes algo del Refugio?}
+{1200}{}{Así que, ¿qué me puedes decir sobre los Refugios?}
+{1201}{}{Así que, ¿ahora recuerdas algo que me puedes decir sobre los Refugios?}
 {1202}{}{Is there anything useful you can tell me about the time before the Great Silence?}
 {1210}{}{Well, lets see... Huh. You know what? My mind's still a little foggy about some things. You'll have to ask me later.}
-{1211}{}{Oh. De acuerdo.}
+{1211}{}{Hmm. De acuerdo.}
 {1220}{}{The vaults... the vaults... Nope, not yet.}
-{1221}{}{Oh. De acuerdo.}
+{1221}{}{Hmm. De acuerdo.}
 {1230}{}{Yes, actually, I remember... Wait, never mind, I forgot.}
-{1231}{}{Oh. De acuerdo.}
+{1231}{}{Hmm. De acuerdo.}
 {1240}{}{Well, I used to live by the Chicago Vault. Does that help?}
-{1241}{}{¿Sabes dónde puedo encontrar un GECK?}
+{1241}{}{¿Sabes si tenía un GECK?}
 {1242}{}{Estoy realmente contento de no estar en el continente.}
-{1243}{}{Busco la computadora principal. ¿Sabes dónde está?}
+{1243}{}{Bien, ahora tenemos algo. ¿Puedes decirme dónde es este Refugio?}
 {1244}{}{No problem. It's about 2,000 miles in that direction. [Dex points eastward.]}
-{1245}{}{Oh. Eh. No importa.}
+{1245}{}{Oh. Bueno, entonces. No importa.}
 {1250}{}{There was one man, greater than any other, that we called, "The King". He was a handsome man with impeccable
  style, amazing hair, and a voice of gold. With a simple thrust of his pelvis he could impregnate every woman in sight.
  He was worshiped as a God by the people of the world. He was my father.}
-{1251}{}{Interesante.}
+{1251}{}{Interesante...}
 {1260}{}{There were immortals that lived secretly among us. They had to battle each other to the death with swords until
  only one remained to claim "The Prize".}
 {1261}{}{Wait. If they were immortal, how could they kill each other?}
 {1262}{}{They could only be killed by decapitation. When one immortal decapitated another, a quickening
  would be released, giving the slain immortal's powers to the victor.}
-{1263}{}{¿A qué te refieres con "la mejor"?}
+{1263}{}{¿A qué exactamente te refieres con "poderes"?}
 {1264}{}{Uh, fighting powers? Mechanic powers? I don't know, it was kind of vague.}
-{1265}{}{Interesante.}
+{1265}{}{Interesante...}
 {1270}{}{There were these giant lizards, some bigger than buildings, that people would ride around on. We called them
  dinosaurs, and they were known as man's best friend.}
-{1271}{}{¿Tienes uno?}
+{1271}{}{Vaya, ¿tenías uno?}
 {1272}{}{Of course. I rode a T-rex, the most badass giant lizard of them all. Only mine was even more badass because it had wings. Basically, it was a dragon.}
-{1273}{}{Interesante.}
+{1273}{}{Interesante...}
 {1280}{}{In the year 2011, The Awaking took place, and long dormant magical creatures, like Orcs, Elves, Trolls, and
  Dwarves returned to the world, along with magic. Magic and technology then clashed in a dark world of corporate warfare,
  waged in the shadows of the sprawling metropolises.}
-{1281}{}{Me pregunto que le habrá pasado a esas ratas.}
+{1281}{}{Vaya, ¿qué pasó con las criaturas mágicas?}
 {1282}{}{I guess they got taken out when the bombs fell. Except it looks like you've still got some Dwarves, Trolls,
  and Zombies around.}
-{1283}{}{Interesante.}
+{1283}{}{Interesante...}
 {1290}{}{There was this gigantic green lizard called Godzilla. Godzilla would alternate between terrorizing Japan,
  and saving its ass against giant space invaders. There was another violent gigantic lizard called the Tarrasque. I think they were cousins or something.}
-{1291}{}{Me pregunto que le habrá pasado a esas ratas.}
+{1291}{}{Vaya, ¿qué les pasó?}
 {1292}{}{Godzilla got taken out by Ferris Bueller. As for the Tarrasque, we had a giant robot battle him. The robot,
  piloted by yours truly, punched the Tarrasque so hard that be broke apart into thousands of little Tarrasques that
  scattered all over California.}
-{1293}{}{Interesante.}
+{1293}{}{Interesante...}
 {1300}{}{The earth was full of hot women, and I held the world record for the amount of sexual partners I had.}
 {1301}{}{I see. You know, Dex, some of these things you're telling me are a bit... out there. I get this strange feeling
  that it might not all be true.}
 {1302}{}{Hey, were YOU alive back then? No, you weren't. So who's the pre-war expert here? So trust me, it's all true.
  But hey, if you're not going to believe me, then I'm done telling you stories for now.}
 {1303}{}{Huh. That's too bad, because they've been so helpful so far.}
-{1400}{}{Simplemente dime cuántos y dónde los quieres, ricura.}
-{1401}{}{Simplemente dime cuántos y dónde los quieres, ricura.}
+{1400}{}{Simplemente dime dónde me quieres.}
+{1401}{}{Simplemente dime dónde me quieres, bebé.}
 {1402}{}{Ni hablar. No quiero tener ningún problema por aquí.}
 {1403}{}{Sure. If you think you need to keep an eye on me, I'm fine with that.}
 {1404}{}{Sure. I understand it's hard to concentrate when I'm too close. [Dex grins.]}
@@ -415,7 +415,7 @@ and fifty years.}
 {1702}{}{Well, my Uncle was one of them military hard-asses. He trained me with pistols and SMGs, and I even got to toy
  around with some energy weapon prototypes they were working on. He thought I'd follow in his footsteps and be a
  puppet for Uncle Sam, but I, uh... Let's just say I went down a different path.}
-{1703}{}{Gracias. ¿Algo más?}
+{1703}{}{Eso suena bien. ¿Algo más?}
 {1704}{}{I've been known to beat some ass with good 'ol fisticuffs. When I was a teen, I tried my hand at Karate for
  awhile, but they kept feeding me all this shit about being more disciplined, so I told 'em to fuck off. Anything else you need to know?}
 {1705}{}{Me parece muy bien. Gracias.}
@@ -539,20 +539,20 @@ and fifty years.}
 {4041}{}{I try to stay away from this stuff. But if you insist...}
 {4042}{}{My body's a temple, but I guess this once won't hurt.}
 {4043}{}{Como me hayas roto mi calculadora de bolsillo, te mato.}
-{4045}{}{Me siento mucho mejor, gracias.}
-{4046}{}{Ponte bien.}
-{4050}{}{Sheila! ¡Vigila el bar!}
+{4045}{}{Me siento mucho mejor ahora.}
+{4046}{}{Mucho mejor.}
+{4050}{}{¡Oye! Vigila el pelo.}
 {4051}{}{Eh, no toques la puta puerta.}
 {4060}{}{It just isn't the same when their blood's still warm, ya know?}
 {4061}{}{Espero que así sea.}
 {4062}{}{Girls have gotten pretty freaky since the end of the world... I dig that.}
 {4063}{}{...and thats why the babes used to call me "Dex, the Duke of Sex".}
-{4070}{}{Eh, me siento muy enfermo. Creo que estoy envenenado.}
+{4070}{}{Siento náuseas. Creo que estoy envenenado.}
 {4071}{}{Creo que voy a vomitar.}
-{4080}{}{Necesitaría cierta atención médica.}
-{4081}{}{Creo que he visto gente que vive aquí. ¿No es eso peligroso?}
+{4080}{}{No puedo mover esta extremidad. Necesito atención médica.}
+{4081}{}{Creo que no siento esta extremidad. ¿Es eso malo?}
 {4090}{}{It just got really blurry. Where'd everyone go?}
-{4091}{}{Creo que me miraba a mí.}
+{4091}{}{Creo que la sangre está saliendo de mis ojos.}
 {4100}{}{So, facial tattoos, huh? I guess if I was as ugly as bone-nose, here, I'd want to cover that up too.}
 {4101}{}{Yo, face-tats. You the cannibalistic sort? Maybe we could exchange recipes or something.}
 {4102}{}{I get the feeling your pal Sulik here doesn't dig me too much. You ever think about selling the guy off for some cash?}
@@ -580,14 +580,14 @@ and fifty years.}
 {4172}{}{Myron's like one giant pimple, just waiting to be popped.}
 {4180}{}{At least Goris has the decency to cover himself.}
 {4181}{}{Good job blending in, Goris. You look just like a typical hunchbacked freak.}
-{4200}{}{Es que soy muy curioso y quiero saber qué pasa por aquí.}
+{4200}{}{Tengo curiosidad por ver cómo son estas mujeres tribales.}
 {4210}{}{Whores... whores everywhere. I love this fucking place.}
 {4220}{}{Parece estar buscando algo.}
-{4230}{}{No hay razón para venir aquí si no puedo comerme una tortilla.}
+{4230}{}{Hay muchos policías aquí. Yo digo que salimos.}
 {4240}{}{Muchas gracias por tu ayuda. No seguiré aquí por más tiempo.}
 {4250}{}{We're wasting our time here. Zombie chicks aren't my thing. I generally don't like gals to look dead until AFTER I'm through with 'em.}
-{4260}{}{¿Por qué demonios estamos aquí?}
-{4270}{}{No creo que quiera tomar parte en esto. Adiós.}
+{4260}{}{¿Por qué demonios estamos perdiendo el tiempo aquí? ¿En serio?}
+{4270}{}{No creo que quiero pasar más tiempo en este facilidad.}
 {5000}{}{[He snaps his head towards you and leaps to his feet. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.}
 {5001}{}{[FIN]}
 {5002}{}{¡Joder!}
