@@ -70,19 +70,19 @@
 {422}{}{De acuerdo. Volveré.}
 {423}{}{Por mí está bien.}
 {424}{}{I work better solo anyway.}
-{430}{}{No tengo tiempo para esta mierda.}
+{430}{}{No tengo mucha paciencia, así que date prisa.}
 {431}{}{Bien; no pienso esperar más.}
-{440}{}{¿Nos vamos, Jefe?}
+{440}{}{¿Nos vamos?}
 {441}{}{Es hora de que se lo hagamos pagar.}
 {450}{}{It's good to be on the move again. My legs need to keep moving.}
-{451}{}{Es hora de que se lo hagamos pagar.}
+{451}{}{Ya es hora de que hagamos algo juntos de nuevo.}
 {460}{}{Sure, it looks like crap anyway. Got anything in blue?}
 {470}{}{Ok, but this is *my* shiny thing. And if you try and take it off me, I may have to shoot you.}
-{480}{}{Voy a disfrutar con esto.}
-{481}{}{Vete, no tengo nada que decirte.}
+{480}{}{Me siento de primera clase.}
+{481}{}{Solo algunos rasguños, nada de que preocuparse.}
 {482}{}{Los he recibido peores practicando.}
 {483}{}{Call a medic. I'm going down fast.}
-{484}{}{Estoy sangrando... creo.}
+{484}{}{Estoy sangrando en todas partes ahora...}
 {490}{}{Jesus, your ugly. You ought to get yourself checked out. I'm outta here.}
 {491}{}{Guárdate tu dinero. Me largo de aquí.}
 {500}{}{Don't get me wrong, it is good to stick together, but you are taking this a little too far. Come back when you
@@ -94,7 +94,7 @@
 {510}{}{Did I eat bad fish or something? I feel poisoned.}
 {520}{}{I feel like I am melting away here. Must be radiation poisoning.}
 {530}{}{¿Cómo esperan que trabaje sin energía?}
-{540}{}{Creo que hay algo mal en tu traje.}
+{540}{}{¿Quién apagó las luces? Creo que hay algo mal con mis ojos.}
 {600}{}{Some might say I'm a pretty shallow guy, but a shallow guy with a great ass.}
 {601}{}{In the army it was always, "Cat do this. Cat do that." What am I, a dog?}
 {602}{}{[singing] 'Cause you make me tongue tied, tongue tied... [singing]}
