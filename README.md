@@ -5,7 +5,6 @@
 
 [__Help translating__](https://tra.bgforge.net/projects/fallout/rp-male/)
 | [__Download__](https://github.com/BGforgeNet/fallout2-rp-translation/releases)
-| [__Installation__](https://forum.bgforge.net/viewtopic.php?f=5&t=22)
 | [__Discussion__](https://forum.bgforge.net/viewtopic.php?f=5&t=22)
 | [__Report issues__](https://github.com/BGforgeNet/fallout2-rp-translation/issues)
 
