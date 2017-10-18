@@ -86,22 +86,22 @@
 {287}{}{Actually, I think I'm going to strike out on my own. I've always been the independent type, so it shouldn't be any skin off my back. A lot has changed since I've been away and I'd like to see it for myself. Thanks for unthawing me. You take care of yourself.}
 {288}{}{[HECHO]}
 {300}{}{¿Sí?}
-{301}{}{Estoy listo.}
-{302}{}{¿Querías algo más?}
+{301}{}{Estoy escuchando.}
+{302}{}{¿Querías algo?}
 {303}{}{¿Qué pasa? ¡Sabes que tengo mucho que hacer!}
 {304}{}{¿Qué te ocurre?}
-{305}{}{¿Hay algo más que necesites de mí?}
+{305}{}{¿Hay algo que necesites de mí?}
 {310}{}{Kitsune, I'm pretty sure you wouldn't have been frozen in a cryo tank for no good reason.
  I'm interested in knowing what it was exactly you did before you were put on ice.}
-{311}{}{¿Por qué lo llamáis así?}
-{312}{}{He oído que ningún actor quiere trabajar contigo.}
+{311}{}{¿Por qué te importa? Es en el pasado.}
+{312}{}{Estamos en el camino juntos. Quiero saber más sobre ti.}
 {313}{}{[Sighs.] Well, I suppose there's no need for secrecy anymore. It's just hard to break a life-long habit. You see, I was pretty much born a spy.}
 {314}{}{My father was Chinese, but he and his family were no friends of the Chinese government. He was born in Beijing but got the most important aspect of his education here, in the States. When he returned home and got a job as a public servant, he'd already been recruited by the Americans as an intelligence agent.}
 {315}{}{I'm not overly familiar with the politics of your time, but I think I follow what you're saying: Your dad was Chinese, but he was secretly a spy for the Americans. So did the Chinese ever suspect him?}
 {316}{}{My father worked at the Ministry of Agriculture for thirty-eight years.}
 {317}{}{Uh, alright, I guess that's a "no". So when did you enter the picture?}
 {318}{}{Well, one day, an aide to the official my father was working for caught him making copies of secret documents.}
-{319}{}{Ese crujido no puede ser nada bueno.}
+{319}{}{Eso no puede ser nada bueno...}
 {320}{}{Actually, it didn't turn out so bad. You see, she thought along the same lines as my father, and within a couple of months, they were married.}
 {321}{}{Some guys have all the luck, huh?}
 {322}{}{They had me a year later. I was raised in China under the facade of a patriot. In school I'd write about how China was strongest when unified, and how we had to continue to strive toward social equality. 
@@ -111,16 +111,16 @@
 {325}{}{All warfare is based on deception. My parents loved their country. They just hated the people who ran it and thought it would be better off as a democracy. The way they saw it, they weren't betraying China - they were working against a government they didn't believe was good for it.}
 {326}{}{Sigue.}
 {327}{}{I married an official who worked for the Chinese Ministry of National Defense. I chose him because he was the most willing to talk about his work when we were together. So I played the role of the dutiful wife, while secretly reporting relevant information back to my American superiors. But then things got complicated.}
-{328}{}{¿Aburrida? ¿Cómo es eso?}
+{328}{}{¿Cómo es eso?}
 {329}{}{My father was contacted by Dr. Raynard Muldrake, an old colleague he had worked with during his time in the States. Dr. Muldrake urgently requested a private meeting, but my father was in poor health at the time and was in no condition to travel to America. Dr. Muldrake agreed to meet me in his place.}
-{330}{}{¿Y entonces qué pasó?}
+{330}{}{¿Y qué pasó?}
 {331}{}{It turned out Muldrake was part of a top secret project at a West Tek research facility in Southern California. The project had started off innocently enough, as an attempt to find a way to make people immune to the New Plague, but it quickly evolved into something more sinister. Something called Forced Evolutionary Virus, or FEV.}
 {332}{}{Sigue.}
 {333}{}{It had the potential to greatly enhance a person's strength and intellect, but the FEV was dangerously unstable. Despite this, the military hoped to use it to create an army of super soldiers that could crush the Chinese.}
 {334}{}{Dr. Muldrake was against the change in the project's direction, but kept his mouth shut out of fear for his life. But when he learned that the military was testing the virus on unsuspecting, small American towns, he knew he had to take action. The world needed to know the truth.}
-{335}{}{¿Qué pasa entre tú y tu padre?}
+{335}{}{Así que eso es cuando ha contactado a tu padre...}
 {336}{}{Right. When I met him, he gave me a holodisk containing classified documentation of the FEV project. That put me in a rather difficult position: I could release the information contained in the holodisk and betray the country I'd sworn my loyalty to, or I could destroy the disk and bury the ugly truth from the people.}
-{337}{}{No me mates.}
+{337}{}{Mierda. No me digas...}
 {338}{}{I sent copies of the holodisk to just about every major news outlet in the world. It pretty much destroyed whatever sympathy the American government still had. I might have revealed the truth to the world, but I'm afraid I also set in motion its destruction... Things escalated quickly, and eight months later, the bombs were dropped.}
 {339}{}{Y en todo caso, ¿cómo has entrado aquí?}
 {340}{}{The American government was hunting for the person responsible for leaking the information. They finally caught up with me just before the end. They were already preparing to freeze me when the sirens first sounded. Probably to preserve me in case I had any more secrets I hadn't told them.}
