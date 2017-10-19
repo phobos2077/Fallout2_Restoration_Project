@@ -147,7 +147,7 @@
 {362}{}{You've got it now. Remember, practice makes perfect.}
 {363}{}{Creo que ya es hora de que te vayas.}
 {370}{}{Acerca de esos saqueadores...}
-{371}{}{¿Qué pasa con él?}
+{371}{}{¿Qué pasa con ellos?}
 {372}{}{They're different colors.}
 {373}{}{What's the term for it... heterochromia? Is that what you have?}
 {374}{}{Mine isn't a natural condition. The one on the left didn't belong to me. I lost the old one in an accident.
