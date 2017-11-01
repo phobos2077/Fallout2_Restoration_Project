@@ -163,21 +163,21 @@
 {422}{}{Quedarse cerca de mí.}
 {423}{}{De acuerdo. Volveré.}
 {424}{}{No te alejes demasiado.}
-{425}{}{Si lo quieres, es tuyo.}
+{425}{}{Necesitas algo espacio, entiendo.}
 {426}{}{Salgamos.}
 {427}{}{Okay. We're harder targets apart.}
-{430}{}{No aguanto más esto. Me voy.}
-{431}{}{Intentaré encontrar algo mejor… volveré.}
-{432}{}{Mejor que encuentre algo que me ayude a estar despierto. Adiós.}
-{440}{}{Estaremos aquí si nos necesitas.}
+{430}{}{No tome demasiado tempo o me voy sin ti.}
+{431}{}{Voy a jugar al solitario o algo hasta que vuelvas.}
+{432}{}{Estoy seguro de que encontraré algo que hacer mientras estás fuera.}
+{440}{}{Siempre que me necesitas.}
 {441}{}{Glad you're back. I held auditions but I couldn't find a good replacement for you.}
-{442}{}{Echo de menos a mi hijo.}
+{442}{}{¿Extrañas a mi compañía?}
 {443}{}{Feeling guilty about taking off without me?}
-{444}{}{Estoy empezando a pensar que no sirves para esto.}
+{444}{}{Estoy empezando a pensar que no estabas planeado regresar.}
 {445}{}{About time. In Ancient China, tardiness would get you hanged, drawn and quartered.}
-{446}{}{No estaba pensando en dinero.}
+{446}{}{Oye. Estaba pensando en ti ahora.}
 {450}{}{You sure took your time doing whatever it is you were doing without me.}
-{451}{}{Qué bueno volver a casa.}
+{451}{}{Es bueno estar en el camino de nuevo.}
 {452}{}{¿Por qué?}
 {453}{}{¿Hacia dónde nos dirigimos entonces?}
 {454}{}{Como la seda, señor.}
@@ -188,7 +188,7 @@
 {464}{}{No, aún no.}
 {470}{}{Jesus, you look like the Grim Reaper. You ought to get yourself checked out.}
 {480}{}{No hay problema. Aunque tengo una o dos preguntas.}
-{490}{}{No importa. Mejor que me vaya.}
+{490}{}{Nunca ha sido mejor. Vamos.}
 {491}{}{Los he recibido peores practicando.}
 {492}{}{I'm not that bad off. Just some flesh wounds.}
 {493}{}{I'm not doing so great. More blood than I care to have coming out of me.}
