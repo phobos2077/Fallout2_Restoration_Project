@@ -267,25 +267,25 @@
 {2101}{}{He sido envenenado.}
 {2110}{}{Hay algo raro en ellos.}
 {2111}{}{Creo que me estoy bronceando.}
-{2112}{}{No importa. Me marcho.}
+{2112}{}{Mi mano. Esta brillando.}
 {2113}{}{I'm a fox, not a snake... Why's my skin peeling?}
 {2114}{}{This burning inside... What's happening to me?}
 {2120}{}{Got a fracture, I think. Need to get it looked at.}
 {2121}{}{Me gustaría comprar algo.}
-{2130}{}{Puedo aguantar cosas peores.}
-{2131}{}{Odio a los hombres.}
+{2130}{}{Apenas puedo ver, maldita sea.}
+{2131}{}{Odio ser ciego.}
 {2330}{}{¿Cómo sabes mi nombre?}
-{3000}{}{¿Mejor así?}
-{3001}{}{Te lo agradezco. Le daré buen uso a este set.}
-{3002}{}{Me siento mucho mejor, gracias.}
-{3003}{}{Gracias. Lo haré.}
-{3004}{}{De momento ya has tenido suficiente.}
+{3000}{}{Es mejor.}
+{3001}{}{Te lo agradezco. Esos son un regalo del cielo.}
+{3002}{}{Ya me siento mejor. Gracias.}
+{3003}{}{Gracias. Yo necesitaba eso.}
+{3004}{}{¿Tienes suficiente para ti?}
 {3010}{}{Strong stuff. Good thing I can hold my liquor.}
 {3011}{}{Don't know why I'm drinking this. Tastes like drain cleaner.}
 {3012}{}{Never liked booze all that much. But it numbs the pain.}
-{3013}{}{¿Algo más?}
+{3013}{}{¿Tienes algo más para beber?}
 {3014}{}{Let's hope I don't wake up in a pool of my own puke.}
-{3015}{}{Allá va toda sensación de seguridad.}
+{3015}{}{Ahí van mis planes de mantenerse sobrio hoy.}
 {3020}{}{Shit... Let's hope we don't ever have to face a whole gang hopped up on these.}
 {3030}{}{Better go easy. This stuff messes with your testosterone.}
 {3040}{}{Hopefully this doesn't turn me into an idiot once it wears off.}
