@@ -43,20 +43,20 @@
 {221}{}{What types of results? Do you mean you've created these creatures?}
 {222}{}{¿Dónde consigues tu mierda, Jimmy?}
 {230}{}{Here mostly. The EPA was originally designed and furnished with all kinds of machinery and, since all the other scientists left, none of it was ever used. I'm just running out of a few things now after so many years...}
-{231}{}{No importa. Debo irme. Adiós.}
+{231}{}{No importa. Debo irme ahora.}
 {240}{}{Drugs? Dozens! Over the years I've created mentats, buffout, stimpaks, medical kits of varying strengths, psychos and many others that you wouldn't understand. I don't do that anymore, though. I created the Mr. Chemmie! robot to do that for me. It's in the main complex. If you have the intelligence and scientific skills you say you have, then feel free to use it to make any drugs you want.}
-{241}{}{¿Qué clase de drogas tienes?}
+{241}{}{¿Qué clase de drogas especiales has creado?}
 {242}{}{¿Dónde puedo encontrarlo?}
-{243}{}{¿Alguna vez has oído hablar de un GECK?}
+{243}{}{Gracias. Decirme, ¿alguna vez has oído hablar de jet?}
 {250}{}{Yes, I've created many creatures whilst I've been at the EPA. If you're an exploring type, then you may have come across some of them in the wastes. Centaurs?  Floaters? The "Aliens"? They roam freely now in the wastes. I've just retained a few here and in the main base for future reference.}
 {251}{}{Just a minute. Are you telling me that all those creatures out there, those things that are plaguing the wasteland and killing innocents were created by you?!}
-{252}{}{Eh, no, y no quiero. Adiós. }
+{252}{}{Whoa, nota a sí mismo: no ira al Doctor. Adiós.}
 {260}{}{'What do I mean?' The Forced Evolution Virus, of course! I'm only just beginning to experiment as to the effects on humans. We've all heard the story of the Master. I was thinking of doing something similar myself. An army of my own would certainly be very useful!}
 {261}{}{Don't you think that's a bit immoral? How can you even consider such a hideous thing?}
 {262}{}{Just getting around to humans? What else have you worked on then?}
-{263}{}{Vale, lo que sea. Debo irme ahora.}
+{263}{}{Bien, buena suerte con eso. Debo irme ahora.}
 {270}{}{Yes, I suppose you can. You amuse me greatly. What else can I answer for you? }
-{271}{}{Háblame sobre este sitio.}
+{271}{}{Háblame de nuevo sobre este gente.}
 {272}{}{¿Qué se puede hacer por aquí?}
 {273}{}{¿De dónde sacas a todos estos siervos?}
 {280}{}{No, no, no. Before you leave, I must ask you something. Could you do a little favor for me? I don't leave the safety of the warehouse for fear of things being stolen. I need some raw materials. Could you help me?}
