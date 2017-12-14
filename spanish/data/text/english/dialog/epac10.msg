@@ -457,7 +457,7 @@ and fifty years.}
 {3012}{}{Then one day I caught my girlfriend making the beast with two backs with another guy. I butchered them, set
  the place on fire, then high tailed it out of Chicago. Spent the next ten years traveling the nation, seducing girls,
  then cutting 'em up. Then they finally caught me, and my trail turned me into a celebrity.}
-{3013}{}{¿Y entonces qué?}
+{3013}{}{¿Así, entonces qué?}
 {3014}{}{So then one of my new fans, Alice, helps me escape. The two of us go on a three week cross country murder rampage
  before we finally go down in a shootout. Then, for some reason, The Man decides to stitch me back together and run all
  these tests on me. And that's how I wound up at the EPA where you found me.}
@@ -466,7 +466,7 @@ and fifty years.}
  grandpa was alright for an old guy. Introduced me to The King's music. Unfortunately, he was claimed by the New Plague
  when I was seven. Then when I was ten, I watched from the closet as my Dad beat my Mom to death for forgetting to feed
  our dog, Captain Robeenie.}
-{3021}{}{Esta es la mejor parte...}
+{3021}{}{Esto es empezar bien. Continua.}
 {3022}{}{The bitch should've remembered to feed the Captain. Go on.}
 {3023}{}{So they put my Dad away and shipped me off to live with my Aunt and Uncle. You see, I was a little hell-raiser,
  even then, and my Uncle, being a military sort, thought he'd be able to straighten me out-turn me into a Red slaying
@@ -480,28 +480,28 @@ and fifty years.}
  Mr. Popular. Every guy wanted to be my friend and every gal I looked at was willing to spread for me. Except for this
  one gal, Vicky. She actually took a bit of work. Amazing, I know, but eventually I got her to come around and become my girl.}
 {3028}{}{And all the while you were moonlighting as a serial killer?}
-{3029}{}{, realmente cuidas de tus fans. No pasas de ellos, como los demás boxeadores.}
+{3029}{}{Realmente no me importa tu novia de secundaria. Olvida la historia.}
 {3030}{}{Yeah. [Dex grins.] Those were the days. I was actually happy, you know? After we graduated, Vicky and I got our
  own little place together, and everything was aces. But that bitch had to go and ruin everything by sneaking around behind my back.}
-{3031}{}{¿Cómo van las cosas?}
+{3031}{}{Cómo se atreve ella.}
 {3032}{}{I caught her in the act, and I lost it. Things got real brutal. It was sloppy and there was no way I was going to
  be able to just cover it up. So I set the place on fire and hit the road. Did a lot of traveling, laid a lot of girls and
  left most of 'em dead. It wasn't a bad life, you know? It took 'em ten years, but the law finally caught up with me.}
-{3033}{}{Eh, bueno, sí, ¿y luego qué?}
+{3033}{}{Uh-oh. Entonces, ¿qué?}
 {3034}{}{Then they put me on trial and it became a bit of media circus. The girls loved it because I'm a dreamboat,
  and everyone else loved it because it was a distraction from news about the New Plague and politics. So I thought I'd
  give 'em a real show.}
-{3035}{}{¿Qué haces?}
+{3035}{}{¿Qué hiciste?}
 {3036}{}{Well by then I'd made plenty of fans, but there was this one in particular, a real doll named Alice. She said
  she loved me and would do anything for me. So during my trail, she helped me make a break for it. It was a long shot,
  but we were lucky enough to pull it off. Then things got crazy... Are you sure you never heard about any of this?}
-{3037}{}{Lo siento, pero no.}
+{3037}{}{Estoy seguro, pero continua.}
 {3038}{}{Never heard of it, and now I never want to. Just forget it, I'm bored.}
 {3039}{}{Well now that I was with Alice, it was kind of hard to revert back to my old ways of seducing women and slicing
  them open. Instead, we just starting thrill killing anyone that was convenient. It didn't matter how young or old, we
  were equal opportunity killers. But killing recklessly like that, we were easy to track. In three weeks they had us
  cornered. They gunned me down and Alice blew her own brains out.}
-{3040}{}{¿Y entonces qué?}
+{3040}{}{Ya veo. ¿Y entonces qué?}
 {3041}{}{So there I was, certain I was going to die, but then these G-Men stepped in and took me away. They got me back
  to a hundred percent, then started doing these tests on me, trying to figure out what makes me the way I am... Anyway,
  you can figure the rest, and my throats dry from talking. Damn, I was hoping to avoid that.}
