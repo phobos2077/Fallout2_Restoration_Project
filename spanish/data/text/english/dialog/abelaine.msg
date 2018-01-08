@@ -32,4 +32,4 @@
 {723}{}{No quiero ayudar.}
 {730}{}{Really? Great! Please give this machine part to Max in the copying room. He can be found in the BASEMENT. Okay?}
 {731}{}{¡No te decepcionaré!}
-{740}{}{Sigue adelante.}
+{740}{}{Sigues caminando ahora.}

@@ -1,3 +1,3 @@
 {100}{}{Ves una cruz.}
-{101}{}{Here lies the great Per: Author, walkthrough creator, rock hoarder. Alas, he died one rock too short. Last words:
- "Just one more steal check and I'll have all the rocks in th-."}
+{101}{}{Aquí yace el gran Per: autor, creador de recorrido, acaparador de rocas. Por desgracia, murió una roca demasiado corta. Ultimas palabras:
+  "Solo un control de robo más y tendré todas las rocas en th-".}

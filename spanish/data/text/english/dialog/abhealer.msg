@@ -9,33 +9,34 @@
 {400}{}{¡Se acabó!}
 {401}{}{Gracias.}
 {402}{}{¡Deja de hacer eso!}
-{403}{}{[GO ON]}
-{404}{}{[LEAVE]}
-{405}{}{STOP IT! STOP IT! STOP IT!}
-{406}{}{[GO ON]}
-{407}{}{[STOP]}
-{408}{}{(Suddenly, Jack starts to melt.) I'M MELTING, I'M MELTING, OH WHAT A WORLD...}
+{403}{}{[SEGUIR]}
+{404}{}{[SALIR]}
+{405}{}{PARA! PARA! PARA!
+}
+{406}{}{[SEGUIR]}
+{407}{}{[DETENER]}
+{408}{}{(De repente, Jack comienza a derretirse.) ME GOLPEO, ME DERRAME, OH QUE ES UN MUNDO ...}
 {409}{}{¿Pero qué...}
-{500}{}{Hey, don't steal my medical supplies!}
-{501}{}{You gain 200 experience points for making Jack melt. Are you happy now, you sick fuck?}
-{600}{}{I'm a doctor. I've been tending to the people of this Abbey for about, oh, fifteen years now, I believe.}
-{601}{}{I see. That's a lot of years to study all the pre-war medical books in the Abbey's library. You must be quite the doctor.}
+{500}{}{¡Oye, no robes mis suministros médicos!}
+{501}{}{Obtienes 200 puntos de experiencia por hacer que Jack se derrita. ¿Estás contento ahora, estás enfermo?}
+{600}{}{Soy doctor. He estado atendiendo a la gente de esta Abadía durante unos, oh, quince años, creo.}
+{601}{}{Ya veo. Son muchos años para estudiar todos los libros de medicina de antes de la guerra en la biblioteca de la Abadía. Debes ser todo el doctor.}
 {602}{}{¿De dónde conseguiste todo tu equipo médico?}
 {603}{}{Interesante. Creo que debo irme ahora.}
-{604}{}{[He frowns.] I fancy myself a fine doctor, but I can't credit the books for that since I'm not even allowed to...never mind, I won't get into that. My father was a doctor, and he passed his knowledge down to me.}
+{604}{}{[Frunce el ceño.] Me considero un buen médico, pero no puedo dar crédito a los libros por eso, ya que ni siquiera me lo permiten ... no importa, no entraré en eso. Mi padre era médico y me transmitió su conocimiento.}
 {605}{}{Ah, ya veo.}
-{700}{}{Some of these meds I received from my father. Most of the rest were already here at the Abbey.}
+{700}{}{Algunos de estos medicamentos que recibí de mi padre. La mayoría del resto ya estaba aquí en la Abadía.}
 {701}{}{Interesante, adiós.}
-{702}{}{Do you think you could give me some of your meds? You seem to have plenty to spare.}
-{703}{}{You want me to just *give* them to you? What makes you think you deserve them more than the people of the Abbey?}
-{704}{}{Because I tend to get hurt...a lot.}
-{705}{}{Because I'm on a holy quest to find a Garden Of Eden Creation Kit. You see, my entire village will perish if
- I don't find this device in time. Your people, on the other hand, seem to live a peaceful life without much need for so
- much healing equipment. I'm not asking for a lot, even the smallest amount you could give me would help me greatly.}
-{706}{}{[He ponders over your words for a moment, then nods.] Alright, I'll give you some of our excess medical supplies.
- It sounds like you're gonna need 'em. Here. [He hands them to you.] Good luck, wanderer.}
+{702}{}{¿Crees que podrías darme algunos de tus medicamentos? Parece que tienes mucho de sobra.}
+{703}{}{¿Quieres que te las * * entregue? ¿Qué te hace pensar que los mereces más que la gente de la Abadía?}
+{704}{}{Porque tiendo a lastimar ... mucho.}
+{705}{}{Porque estoy en una búsqueda sagrada para encontrar un Kit de Creación de Garden Of Eden. Usted ve, mi pueblo entero perecerá si
+  No encuentro este dispositivo a tiempo. Su gente, por otro lado, parece vivir una vida pacífica sin mucha necesidad de hacerlo
+  mucho equipo de curación No estoy pidiendo mucho, incluso la cantidad más pequeña que podrías darme me ayudaría mucho.}
+{706}{}{[Reflexiona sobre sus palabras por un momento, luego asiente.] De acuerdo, le daré algunos de nuestros suministros médicos en exceso.
+  Parece que los necesitarás. Aquí. [Se los da a ti.] Buena suerte, vagabundo.}
 {707}{}{Gracias, Jack. Eres un verdadero salvador del Yermo. Adiós.}
-{708}{}{Then perhaps you should learn to be more careful. Sorry, I'm not going to just give away the Abbey's medical supplies.}
+{708}{}{Entonces quizás deberías aprender a ser más cuidadoso. Lo siento, no voy a regalar los suministros médicos de la Abadía.}
 {709}{}{Bien. ADÍOS.}
 {800}{}{No puedo hablar ahora.}
 {801}{}{Lo siento. Estoy en la mitad de algo. Ven a verme más tarde.}

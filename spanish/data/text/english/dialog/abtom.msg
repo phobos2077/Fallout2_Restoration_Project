@@ -12,30 +12,30 @@
 {206}{}{No importa. Lamento molestarte.}
 {207}{}{You mean this ol' thing? [He glances down at the rusty shovel in his hands.] Well, uh, you never know when you
  might find something that needs digging up. Always be prepared I say.}
-{208}{}{Find something, eh? You mean like something in a grave?}
+{208}{}{Encontrar algo, eh? Que decir, como algo en una tumba?}
 {209}{}{Eso es un buen lema, de verdad. Bien, ten cuidado.}
-{210}{}{(Tom's eyes widen) I'm not quite sure what you, uh, mean.}
-{211}{}{Tom, you're in a graveyard, you've got mud all over you, and it's past midnight. Why, even Torr could draw a
- conclusion from this. It's time to start giving me some answers, Tom. Why are you digging up these graves?}
-{212}{}{[He puts down the shovel and sighs.] Alright, I'll tell you. My body ain't what it used to be. I've got no job,
- and no real means to get food. I know grave diggin ain't something that folks smile upon, but it's been a way for me to
- bring in some money. I'm just trying to survive...I don't mean no harm.}
-{213}{}{I don't think that digging graves is a good thing for a man in your condition. Tell you what. You just mosey on
- out of here and we'll forget that this conversation ever happened. I never want to see your face again though, Okay?}
-{214}{}{[The old man looks like he's about to protest, then stops.] Alright, you win. You've seen the last of poor old Tom.
- [He picks up his shovel and shuffles away.]}
-{215}{}{Pensándolo bien, creo que será mejor que encuentre otra forma de hacerlo. Adiós.}
+{210}{}{(Los ojos de Tom se ensanchan) No estoy muy seguro de lo que quieres decir.}
+{211}{}{Tom, estás en un cementerio, tienes barro sobre ti, y es pasada la medianoche. Por qué, incluso Torr podría dibujar un
+  conclusión de esto. Es hora de comenzar a darme algunas respuestas, Tom. ¿Por qué estás desenterrando estas tumbas?}
+{212}{}{[Él deja la pala y suspira.] De acuerdo, te lo diré. Mi cuerpo no es lo que solía ser. No tengo trabajo,
+  y no hay medios reales para obtener comida. Sé que la excavación del sepulcro no es algo en lo que la gente sonría, pero ha sido una forma para mí
+  traer algo de dinero Solo trato de sobrevivir ... No me refiero a ningún daño.}
+{213}{}{No creo que excavar tumbas sea algo bueno para un hombre en tu condición. Le dirá qué. Simplemente mosey en
+  fuera de aquí y olvidaremos que esta conversación alguna vez sucedió. Aunque no quiero volver a verte nunca más, ¿de acuerdo?}
+{214}{}{[El anciano parece que está a punto de protestar, luego se detiene.] De acuerdo, tú ganas. Has visto lo último del pobre Tom.
+  [Levanta la pala y se aleja arrastrando los pies.]}
+{215}{}{Pensándolo bien, tal vez sería mejor para el mundo si te mato.}
 {216}{}{Adiós, Tom.}
-{217}{}{I heard you've also been stealing crops from the farmer here.}
-{218}{}{[The old man fidgets uncomfortably.] I couldn't help it! I was just so hungry and the food looked so good. Please,
- I don't mean any trouble. Look, I'll just go away and you won't see me here again. I promise!}
-{219}{}{Sal corriendo antes de que cambie de idea.}
-{220}{}{Wait, no need for any of that. The Petersons own the farm here and they're extremely nice people. Mr. Peterson
- even offered to talk with whoever was taking his crops and come to a reasonable agreement. Go talk with him.
- I'm sure he can help you out somehow.}
-{221}{}{(The old man's eyes light up.) That doesn't sound like a bad idea at all. Hey, thanks. Maybe this world aint as
- cruel as I thought it was.}
-{222}{}{You take care then, Tom. I'll check with you later and see how things are going.}
+{217}{}{Escuché que también has estado robando cosechas del granjero aquí.}
+{218}{}{[El viejo se inquieta incómodo.] ¡No pude evitarlo! Estaba tan hambriento y la comida se veía tan bien. Por favor,
+  No me refiero a ningún problema. Mira, me iré y no me verás aquí de nuevo. ¡Lo prometo!}
+{219}{}{Bien, vete entonces. Antes de cambiar de opinión}
+{220}{}{Espera, no hay necesidad de nada de eso. Los Peterson son dueños de la granja aquí y son personas muy agradables. Sr. Peterson
+  incluso se ofreció a hablar con quienquiera que estuviera tomando sus cultivos y llegar a un acuerdo razonable. Ve a hablar con él.
+  Estoy seguro de que puede ayudarte de alguna manera.}
+{221}{}{(Los ojos del anciano se iluminan.) Eso no suena como una mala idea. Hey gracias. Quizás este mundo no sea como
+  cruel como pensé que era.}
+{222}{}{Cuídate entonces, Tom. Lo consultaré más tarde y veré cómo van las cosas.}
 {223}{}{I sure hope that Peterson fella is as friendly as you say he is.}
 {300}{}{You see Tom. He's wearing new worker's clothing and whistling cheerfully.}
 {301}{}{Hey there! Wow, you were right. That Mr. Peterson is one kindly fella. He forgave me for what I did and even
