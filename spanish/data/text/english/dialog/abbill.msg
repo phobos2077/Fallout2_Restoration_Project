@@ -3,7 +3,7 @@
 {200}{}{Hola, viajero. Nombre es Bill. ¿Qué puedo hacer por ti?}
 {201}{}{Bienvenido de nuevo. ¿Quieres algo más?}
 {202}{}{Vamos a comerciar.}
-{203}{}{Me preguntaba si es usted con quien debería hablar para ponerme al día de los asuntos locales.}
+{203}{}{He oído que es el hombre para hablar acerca de las caravanas.}
 {204}{}{No importa. Adiós.}
 {210}{}{Digamos que me he dado cuenta de que se han acumulado muchos equipos y objetos viejos aquí en la Abadía.
   Supongo que no has encontrado nada ... especial, durante tu tiempo aquí.}
