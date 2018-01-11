@@ -13,4 +13,5 @@ This is a localization effort for Fallout 2 [Killap's Restoration Project](http:
 Help translating at [BGforge](https://tra.bgforge.net/projects/fallout/rp-male/). Discuss on [forums](https://forum.bgforge.net/viewtopic.php?f=5&t=22).
 
 Current languages:
-* Spanish (based on [translation v1.0 by ClanDLAN](http://academia.clandlan.net/?page=academia/view&id=371&title=Traduccion_Fallout_2) for Fallout 1.02d)
+* [Spanish](https://tra.bgforge.net/projects/fallout/rp-male/es/) (based on [translation v1.0 by ClanDLAN](http://academia.clandlan.net/?page=academia/view&id=371&title=Traduccion_Fallout_2) for Fallout 1.02d)
+* [Portuguese](https://tra.bgforge.net/projects/fallout/rp-male/pt/)
