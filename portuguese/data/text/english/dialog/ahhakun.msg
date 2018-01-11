@@ -1,72 +1,72 @@
-{100}{}{Before you stands Hakunin, the village shaman. He appraises you with his crazy eyes from somewhere in the world only he inhabits…..}
-{101}{}{You see Hakunin lying on the ground. He's badly wounded.}
-{102}{}{You see Hakunin. He's very near death.}
-{103}{}{Hakunin is badly burned. He smells like roast chicken, looks like burnt meatloaf, and you don't know how he's managed to stay alive this long.}
-{104}{hak001}{Greetings, Chosen. Why does the earth before me warm to the touch of your passing?}
+{100}{}{Antes que você vá, Hakunin, o chaman da vila. Ele o avalia com seus olhos loucos de algum lugar do mundo, que só ele habita ...}
+{101}{}{Você vê Hakunin deitado no chão. Ele está gravemente ferido.}
+{102}{}{Você vê Hakunin. Ele está muito perto da morte.}
+{103}{}{Hakunin está gravemente queimado. Ele cheira a galinha assada, parece um bolo de carne queimado, e você não sabe como ele conseguiu permanecer vivo por muito tempo.}
+{104}{hak001}{Saudações, Escolhidas. Por que a Terra antes de mim é quente ao tocar sua passagem?}
 {105}{}{Uh? }
-{106}{}{I've come to say goodbye. I'm leaving on my holy quest. }
-{107}{}{I'm heading out. I was hoping just this once you'd talk like a real person. }
-{108}{}{You are doing just way too many drugs. I'm outta here. }
-{109}{}{I'm hurt. Can you heal me?}
-{110}{}{There were some pretty nasty plants infesting your garden- I've taken care of them for you.}
-{111}{hak001a}{Please reveal to clouded eyes the purpose of your passage.}
+{106}{}{Eu vim dizer adeus. Estou saindo na minha santa missão.}
+{107}{}{Eu estou indo para fora. Eu estava esperando que dessa vez você gostaria de falar como uma pessoa real.}
+{108}{}{Você está fazendo apenas muitas drogas. Estou fora daqui.}
+{109}{}{Eu estou machucado. Você pode curar-me?}
+{110}{}{Havia algumas plantas bastante desagradáveis infestando seu jardim - eu cuidei delas por você.}
+{111}{hak001a}{Por favor, revele a olhos nublados o propósito de sua passagem.}
 {112}{}{Uh? }
-{113}{}{I've come to say goodbye. I'm leaving on my holy quest. }
-{114}{}{I'm heading out. I was hoping just this once you'd talk like a real person. }
-{115}{}{You are doing just way too many drugs. I'm outta here. }
-{116}{}{There were some pretty nasty plants infesting your garden- I've taken care of them for you.}
-{117}{hak002}{The Earth sings with the news of a champion upon the land.... Perhaps, before you go, you would bestow a kindness?}
-{118}{}{Sure. What do you need?}
-{119}{}{It depends… what'll you give me?}
-{120}{hak002a}{The views of the world are many - a lesson you will learn soon.... Perhaps, before you reap the experiences of life, you would bestow a kindness?}
-{121}{}{Did you just ask me to do you a favor? If so, sure, why not?}
-{122}{}{I'll do something for you, but since I have to work this hard just to understand you, this task will cost.}
-{123}{hak003}{A blessing on you, for you are truly a child of nature. Would you please use your special talents and rid my garden of the plants of dark soul?}
+{113}{}{Eu vim dizer adeus. Estou saindo na minha santa missão.}
+{114}{}{Eu estou indo para fora. Eu estava esperando que dessa vez você gostaria de falar como uma pessoa real.}
+{115}{}{Você está fazendo apenas muitas drogas. Estou fora daqui.}
+{116}{}{Havia algumas plantas bastante desagradáveis infestando seu jardim - eu cuidei delas por você.}
+{117}{hak002}{A Terra canta com a notícia de um campeão sobre a terra.... Talvez, antes de você ir, você iria conceder uma gentileza?}
+{118}{}{Com certeza. O que você precisa?}
+{119}{}{Depende... o que vai me dar?}
+{120}{hak002a}{As visões do mundo são muitas - uma lição que você aprenderá em breve ... Talvez, antes de colher as experiências da vida, você faria uma gentileza?}
+{121}{}{Você acabou de me pedir para fazer-lhe um favor? Se sim, claro, porque não?}
+{122}{}{Eu farei algo por você, mas como eu tenho que trabalhar tão duro apenas para te entender, essa tarefa custará.}
+{123}{hak003}{Uma benção para você, pois você é verdadeiramente um filho da natureza. Você poderia usar seus talentos especiais e livrar meu jardim das plantas da alma escura?}
 {124}{}{Uh-huh. }
-{125}{}{Nuh-uh. Youuu. Giv. Hed hurt.}
-{126}{hak004}{May your aura grace my presence when you are... Oh, come to my door when you're done and I'll give you something good.}
+{125}{}{Nuh-uh. Você. Dar. Machucado.}
+{126}{hak004}{Que sua aura aproveite minha presença quando você estiver ... Oh, venha à minha porta quando terminar e eu lhe darei uma coisa boa.}
 {127}{}{Urgh.}
-{128}{hak005}{The plants of dark soul have infested my garden again. Many seasons have touched my bones and I am too frail for that fight which is eternal in nature. I ask that you be my champion.}
-{129}{}{I don't think so. I need to start my quest right away.}
-{130}{}{I know you're not a bad guy, but I've got a headache already, so I think I'll have to pass.}
-{131}{}{Forget it. I'm the future leader of this tribe and it would be undignified for me to do your gardening for you.}
-{132}{}{I'd be honored, holy one.}
-{133}{}{Did you just ask me to weed your garden? If that's the case, okay.}
-{134}{}{For a price.}
-{135}{hak006}{To ask payment for a gift will bring you less than the gift itself. I will give you such and add the lesson of your self-disappointment at the receiving.}
-{136}{}{Good enough. Where's the garden?}
-{137}{}{You know, a nice gift would be to SPEAK ENGLISH!}
-{138}{}{What if I give you a lesson in disappointment and leave right now? Bye.}
-{139}{}{Well, if that's your attitude, I don't think I'm interested. Goodbye.}
-{140}{hak006a}{If we speak the same words, do we mean the same thing? Do words always carry the same touch of a soul?}
-{141}{}{Oh, yeah. Much better. And the lesson I learned is to shut up and just ask where the garden is.}
-{142}{}{Let's try the word, "goodbye." It means I'm leaving. }
-{143}{hak007}{Surely you remember it is to the northeast, foolish one.}
-{144}{}{Thank you for your help.}
-{145}{}{Thanks. I actually understood that.}
-{146}{}{Are you calling me a fool? I don't think I want to help you, after all. }
-{147}{}{I'll be back for my payment soon.}
-{148}{hak008}{The burden you carry now will grow ever heavier.}
-{149}{hak009}{May the gods bless your efforts, Chosen. May your aura grace my presence when the earth breathes clean again.}
-{150}{}{I take it you want to see me again when I'm done... You could have just said so, you know.}
+{128}{hak005}{As plantas da alma escura infestaram meu jardim novamente. Muitas estações tocaram meus ossos e eu sou muito frágil para aquela luta que é eterna na natureza. Peço que você seja meu campeão.}
+{129}{}{Eu não penso assim. Eu preciso começar a minha busca imediatamente.}
+{130}{}{Eu sei que você não é um cara mau, mas eu tenho uma dor de cabeça já, então eu acho que eu vou ter que passar.}
+{131}{}{Esqueça. Eu sou o futuro líder desta tribo e seria indigno para mim fazer sua jardinagem para você.}
+{132}{}{Eu ficaria honrado, santo.}
+{133}{}{Você acabou de me pedir para remover ervas daninhas de seu jardim? Se for esse o caso, tudo bem.}
+{134}{}{Por um preço.}
+{135}{hak006}{Pedir o pagamento de um presente irá trazer a você menos do que o próprio presente. Eu vou dar-lhe tal e adicionar a lição de sua auto-decepção no recebimento.}
+{136}{}{Bom o suficiente. Onde está o jardim?}
+{137}{}{Você sabe, um bom presente seria FALAR PORTUGÊS!}
+{138}{}{E se eu der uma lição de decepção e sair agora? Tchau.}
+{139}{}{Bem, se essa é a sua atitude, eu não acho que eu estou interessado. Adeus.}
+{140}{hak006a}{Se falamos as mesmas palavras, queremos dizer o mesmo? As palavras sempre carregam o mesmo toque de uma alma?}
+{141}{}{Oh, sim. Muito melhor. E a lição que eu aprendi é para calar a boca e só perguntar onde o jardim está.}
+{142}{}{Vamos tentar a palavra "adeus". Isso significa que eu estou indo.}
+{143}{hak007}{Certamente você lembre-se que é para o nordeste, tolo.}
+{144}{}{Obrigado por sua ajuda.}
+{145}{}{Obrigado. Na verdade, eu entendi isso.}
+{146}{}{Você está me chamando de um tolo? Eu não acho que eu quero ajudar você, depois de tudo. }
+{147}{}{Eu vou voltar para o meu pagamento em breve.}
+{148}{hak008}{O peso que você carrega agora vai crescer cada vez mais pesado.}
+{149}{hak009}{Que os deuses abençoem seus esforços, Escolhidos. Que sua aura aproveite minha presença quando a terra respirar novamente.}
+{150}{}{Eu entendo que você quer me ver de novo quando terminar ... Você poderia ter dito isso, você sabe.}
 {151}{}{Adeus.}
-{152}{hak010}{Ha! The founder's spirit lives in you. Focus in to fortify the self to expand the greatness to enable such to touch the world. Of course, the rewards will be more than those of the spirit. }
-{153}{}{Sounds good. I'll be back when I'm done.}
-{154}{}{So, I'm getting an actual thing in payment. Good enough. See ya later.}
-{155}{}{I think you've been playing with those plants way too much. To avoid your fate, I'm staying away from the garden.}
-{156}{hak011}{Time can neither be wasted or saved- it must always be now. The actions create the fabric of your life.}
-{157}{}{Uh, right. Like I said, I've got to go. Goodbye. }
-{158}{}{You know, talking to you makes me wonder about that time can't be wasted idea. I'm outta here. }
-{159}{}{If only I had your wisdom, wise one. Forgive me- of course I'll take care of it for you.}
-{160}{hak012}{You may bear the mantle of the Chosen, but your dark soul cries from within.}
-{161}{}{I beg your forgiveness, holy one. How can I cleanse my soul? }
-{162}{}{That's right, Hakunin, and you'd be a real wise man not to forget it.}
-{163}{}{My head aches from within listening to you. I'm gone.}
+{152}{hak010}{Ha! O espírito do fundador vive em você. Concentre-se em fortificar o eu para expandir a grandeza para permitir que eles toquem o mundo. É claro que as recompensas serão mais do que as do espírito.}
+{153}{}{Parece bom. Volto quando terminar.}
+{154}{}{Então, estou recebendo uma coisa real em pagamento. Bom o bastante. Te vejo mais tarde.}
+{155}{}{Eu acho que você já foi brincar com as plantas de forma demasiada. Para evitar o seu destino, eu vou ficar longe do jardim.}
+{156}{hak011}{O tempo não pode ser perdido ou salvo - sempre tem de ser agora. As ações criam o tecido da sua vida.}
+{157}{}{Hum, certo. Como eu disse, eu tenho que ir. Adeus. }
+{158}{}{Você sabe, falar com você me faz pensar que não pode ser uma idéia desperdiçada. Estou fora daqui.}
+{159}{}{Se eu tivesse a sua sabedoria, sábio. Perdoe-me, é claro, eu cuidarei disso por você.}
+{160}{hak012}{Você pode suportar o manto do Escolhido, mas sua alma escura chora por dentro.}
+{161}{}{Eu imploro seu perdão, santo. Como posso limpar minha alma? }
+{162}{}{Isso é certo, Hakunin, e você seria um verdadeiro homem sábio se não esquecê-lo.}
+{163}{}{Minha cabeça chega a doer, ouvindo você. Estou fora.}
 {164}{}{Booka!}
-{165}{hak013}{Cleanse your soul as you would banish demons from my garden.}
-{166}{}{It shall be done, wise one. I will come seek your forgiveness after I have purified your garden.}
-{167}{}{You're trying to say that weeding your garden will be good for me, right? Well, okay, I'll give it a try.}
-{168}{}{I kinda like my soul the way it is. Bye.}
+{165}{hak013}{Limpe sua alma como você baniria demônios do meu jardim.}
+{166}{}{Deve ser feito, sábio. Venho buscar o seu perdão depois de ter purificado seu jardim.}
+{167}{}{Você está tentando dizer que capinar o seu jardim vai ser bom para mim, certo? Bem, ok, eu vou dar-lhe uma chance.}
+{168}{}{Eu meio que gosto da minha alma do jeito que é. Tchau.}
 {169}{}{I'm not worthy. I'll take my leave now.}
 {170}{hak014}{Chosen, once again the wholeness of your being is like a land blessed.}
 {171}{}{Thank you.}
@@ -76,7 +76,7 @@
 {175}{}{You are wise and kind, Holy One.}
 {176}{hak017}{In what way may I touch the chosen soul, Seed of the Dweller?}
 {177}{}{Uh, where exactly is your garden?}
-{178}{}{I'm hurt. Can you heal me?}
+{178}{}{Eu estou machucado. Você pode curar-me?}
 {179}{}{Oh, nothing. Goodbye.}
 {180}{hak018}{Ahh. You return the spirit of the Dweller to the world and bring a smile to the soul of an old man in passing. For this, I give you powders of healing. Remember, they fog the mind as they cleanse the body.}
 {181}{}{Thank you.}

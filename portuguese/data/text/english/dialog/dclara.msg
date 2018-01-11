@@ -119,7 +119,7 @@
 {524}{}{Sorry, you're not reliable.}
 {525}{}{I can't trust you.}
 {530}{}{We did it!}
-{531}{}{Thank you for your help.}
+{531}{}{Obrigado por sua ajuda.}
 {532}{}{Special thanks to you!}
 {533}{}{I've finally paid Tyler back for what he did to my brother.}
 {534}{}{Thank you again.}

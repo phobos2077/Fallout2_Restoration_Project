@@ -133,4 +133,4 @@ GECK ou o nosso povo vai morrer!}
 {236}{}{Isso vai me deixar doente, não é?}
 {237}{eeld13a}{Então, a pele borbulha como vermes abaixo dela. Bolhas crescem e explodem. O sangue corre de seus ouvidos e sua língua aumenta. Aqueles que têm a sorte sufocam até a morte. Aqueles que não são …}
 {238}{}{Eles vão pagar.}
-{239}{}{That certainly was disgusting. What am I supposed to do?}
+{239}{}{Isso certamente foi nojento. O que eu deveria fazer?}
