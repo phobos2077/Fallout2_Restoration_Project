@@ -3,7 +3,7 @@
 {102}{}{Silver and turquoise rings, silver belt buckle, pistol at his side, this guy's clearly used to having money and having his own way.}
 {103}{}{I'm Roger Westin and you can't come barging in here. What do you want?}
 {104}{}{You again? What do you want?}
-{105}{}{What do you want?}
+{105}{}{O que você quer?}
 {106}{}{Duh...}
 {107}{}{Me look Vault 13? You help?}
 {108}{}{I'm looking for Vault 13. Can you help me?}
@@ -20,11 +20,11 @@
 {119}{}{Fine. Be that way.}
 {120}{}{I should have guessed. What did he promise you - money, drugs, or sex? It doesn't matter. You'll never see any of it.}
 {121}{}{What do you mean?}
-{122}{}{Shut up.}
+{122}{}{Cale-se.}
 {123}{}{Oh - simple are you? What a sad thing. It must be a hard cross to bear. Listen - you go, talk to Fee-lix. He give you job. Savvy?}
 {124}{}{Uh-huh.}
 {125}{}{What do you think? You know too much. What if you come back to NCR and sell him out - or threaten to? You're as good as dead already. On the other hand, I've got a better offer.}
-{126}{}{Such as?}
+{126}{}{Como?}
 {127}{}{I don't believe you.}
 {128}{}{Take out Bishop instead. I'll pay cash, whatever he was paying plus 50%. How much was it?}
 {129}{}{(need info from Chris)}
@@ -36,7 +36,7 @@
 {135}{}{Excellent. I knew you were the right person. Well, I promised you pay and I do not renege my deals. Here's your money.}
 {136}{}{Anything else I can do for you?}
 {137}{}{Thanks. Maybe you can help me out. I'm trying to find Vault 13.}
-{138}{}{Goodbye.}
+{138}{}{Adeus.}
 {139}{}{Dumont recommended you? Well, that's good enough for me. Something or someone has been raiding my brahmin at night. I need to find out what's up. How about going out there and looking into it for me? I'll pay you for your trouble.}
 {140}{}{Sounds like easy work. I'll do it.}
 {141}{}{I've decided against it.}
@@ -53,10 +53,10 @@
 {152}{}{Well, then here you go. Nice to meet you, stranger.}
 {153}{}{I'm not sure I believe you, but here's your pay. Hell, if you been lying, my boys will find you. I also said I'd give you some information, so here it is. I've heard a lot of stories about Tandi and the Vault Dweller. Seems he saved her life years ago before NCR was even founded. Anyway, legend has it that he spent a lot of time exploring a vault east of here. If that isn't Vault 13 then maybe you'll find a clue there that will lead you to it.}
 {154}{}{Me tank you!}
-{155}{}{Thanks.}
+{155}{}{Obrigado.}
 {156}{}{The 1st Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
-{157}{}{Yes.}
-{158}{}{No.}
+{157}{}{Sim.}
+{158}{}{Não.}
 {159}{}{And you're a good Citizen, I'm sure. I want you to take this holodisk back to the 1st Citizen. It's important. It has the information she needs to expose this NCR-New Reno plan.}
 {160}{}{I have some other questions.}
 {161}{}{Yes, sir.}

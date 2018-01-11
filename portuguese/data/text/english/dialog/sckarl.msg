@@ -2,7 +2,7 @@
 {101}{}{It's Karl, the town deputy.}
 {102}{}{You see a young man barely out of his teens. He looks eager to please.}
 {103}{}{Welcome, stranger. I'm Deputy Karl. What can I do for you?}
-{104}{}{Such as?}
+{104}{}{Como?}
 {105}{}{Uh...nugh..}
 {106}{}{I'm new to NCR. What can you tell me about your town?}
 {107}{}{Well, I'm looking for Vault 13.}
@@ -26,12 +26,12 @@
 {125}{}{Well, I've got some other questions.}
 {126}{}{Some. Thanks.}
 {127}{}{That's Officer Jack, stranger. One of our men. You haven't been talking to Mira, have you?}
-{128}{}{Yes.}
+{128}{}{Sim.}
 {129}{}{Mira who?}
 {130}{}{That SOB? He's got a spread just outside town. Just take the road past Stockmen's.}
 {131}{}{You don't like him much.}
 {132}{}{Well, I've got some other questions.}
-{133}{}{Thanks.}
+{133}{}{Obrigado.}
 {134}{}{Yeah. He's a real bad one. Killed two of our men and hasn't said a thing.}
 {135}{}{Give me a little time alone with him. Maybe I can convince him to be cooperative.}
 {136}{}{Can I see him now?}
@@ -43,7 +43,7 @@ Do yourself a favor, stay out of it. Jack's a good man, it's just this stuff's g
 {141}{}{Well, thank you kindly for that advice, deputy.}
 {142}{}{His ex, that's all. If he's not here, he might be over at the power plant. He's been moonlighting over there for Dorothy.}
 {143}{}{Well, I've got some other questions.}
-{144}{}{Thanks.}
+{144}{}{Obrigado.}
 {145}{}{Guess I'm pretty obvious. Lot of folks look up to him because he's a councilman, but not me. He thinks he's a big man, like the law don't always apply to him. I'd like to take him down a notch or two someday.}
 {146}{}{Stranger things have happened. What can you tell me about him?}
 {147}{}{I've got to go. Just outside of town, you say?}

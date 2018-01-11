@@ -24,8 +24,8 @@
 {123}{}{Forgive me, but I don't have the time for someone with your attitude. Good-day.}
 {124}{}{}
 {125}{}{}
-{126}{}{All right.}
-{127}{}{What do you want to know?}
+{126}{}{Tudo certo.}
+{127}{}{O que você quer saber?}
 {128}{}{You prisoner?}
 {129}{}{D'claws treat you ok?}
 {130}{}{Want leave?}
@@ -42,7 +42,7 @@
  anyone here against their will, as far as I know.}
 {141}{}{Uh, okay.}
 {142}{}{Got it. Me go.}
-{143}{}{I see.}
+{143}{}{Eu vejo.}
 {144}{}{I think you're lying, bitch.}
 {145}{}{I see. If you don't mind, I need to ask you about a few more things.}
 {146}{}{Yes. They provide me with food, water, shelter, and protection. I feel very safe here, and
@@ -83,7 +83,7 @@
 {174}{}{}
 {175}{}{Go away, you bastard! I want nothing to do with you.}
 {176}{}{Go away, bitch! I have nothing to say to you.}
-{177}{}{Bye.}
+{177}{}{Adeus.}
 {178}{}{.}
 {179}{}{. Yes, I'm new here.}
 {180}{}{I was holding Sandy behind me, trying to keep her from the monster that had shot Rand. He stood

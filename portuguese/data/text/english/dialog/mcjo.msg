@@ -28,7 +28,7 @@
 {172}{}{Mess-aj.}
 {173}{}{Farm?}
 {174}{}{Bad things all gone!}
-{175}{}{I go.}
+{175}{}{Eu vou.}
 {176}{}{I'll be back when I have more to report.}
 {179}{}{There's a drunkard in the Den who matches Karl's description. Says he used to be a farmer too.}
 {180}{}{Those bodies are fake. Just dummies covered in Brahmin guts. They were there to scare you away from the crops.}
@@ -57,7 +57,8 @@
 {196}{}{A group of us were out hunting when we noticed the new farm. But that wasn't the strange thing.
  Soon after, some of us got together to visit our new neighbor, only to discover that there wasn't
  anybody there.}
-{197}{}{Go on.}
+{197}{}{Continue.
+}
 {198}{}{After many months of trying to contact the owners with no success, it was decided that the farm
  must have been abandoned soon after it was built. So instead of letting the crops rot in the fields,
  young Karl moved in.}
@@ -95,7 +96,7 @@
 {217}{}{You're obviously not desperate enough. I'll pass.}
 {218}{}{What was that? Did you say GECK?}
 {219}{}{Unh. GECK.}
-{220}{}{Me go.}
+{220}{}{Eu vou.}
 {222}{}{My name's Jo. Can you say Jo? No matter; you see that rectangular thing over there? That's a
  door. Be careful not to let it hit you on the way out.}
 {223}{}{[You don't quite understand everything he's saying, but you grin and turn to leave.]}
@@ -134,7 +135,7 @@
 {262}{}{Well, spit it out. I can't help you if you don't tell me what you're looking for, and I sure
  ain't going to stand here and try to guess what you're looking for.}
 {263}{}{I am looking for the holy GECK.}
-{264}{}{Never mind.}
+{264}{}{Não importa.}
 {265}{}{Since I rely heavily on the products of the people of Modoc, I don't have much to trade for. You
  know, with the drought and all. You still interested?}
 {266}{}{Let's do some business.}

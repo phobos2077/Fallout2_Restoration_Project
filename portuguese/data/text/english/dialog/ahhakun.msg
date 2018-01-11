@@ -49,7 +49,7 @@
 {148}{hak008}{The burden you carry now will grow ever heavier.}
 {149}{hak009}{May the gods bless your efforts, Chosen. May your aura grace my presence when the earth breathes clean again.}
 {150}{}{I take it you want to see me again when I'm done... You could have just said so, you know.}
-{151}{}{Goodbye.}
+{151}{}{Adeus.}
 {152}{hak010}{Ha! The founder's spirit lives in you. Focus in to fortify the self to expand the greatness to enable such to touch the world. Of course, the rewards will be more than those of the spirit. }
 {153}{}{Sounds good. I'll be back when I'm done.}
 {154}{}{So, I'm getting an actual thing in payment. Good enough. See ya later.}
@@ -94,7 +94,7 @@
 {193}{}{Ow?}
 {194}{}{Ooog! Bak!}
 {195}{hak020}{The pleasure of these words fills me. Alas, the gods whisper for my ear. Goodbye.}
-{196}{}{Bye.}
+{196}{}{Adeus.}
 {197}{}{Still mixing the herbs, huh? See you later.}
 {198}{hak021}{We all have gardens. May your journeys act as tending. Be well. I must seek audience with the gods now.}
 {199}{}{See ya.}
@@ -121,7 +121,7 @@
 {220}{hak028b}{May the Waters soothe your journey.}
 {221}{hak028c}{May the Wind guide you to your goal.}
 {222}{hak028d}{May the Fire toast your bottom until you get this done.}
-{223}{}{Thanks.}
+{223}{}{Obrigado.}
 {224}{}{Say what?!}
 {225}{}{Uh.}
 {226}{}{Huh?!}
@@ -189,6 +189,6 @@
 {288}{hak121}{A strange mist stole their minds and sent them to the land of Sleep. The evil ones walked among the dreamers, yet did not dream.}
 {289}{}{And then?}
 {290}{hak122}{Too many seasons and too many wounds, Chosen. Instead, you must listen.}
-{291}{}{All right.}
+{291}{}{Tudo certo.}
 {300}{}{Those who steal carry a great burden. Remember this, Chosen One.}
 {301}{}{You must now pay for your sins, Chosen One.}

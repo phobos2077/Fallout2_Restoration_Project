@@ -27,7 +27,7 @@
 {124}{}{I'm sorry, can I help you with something?}
 {125}{}{Sumfin? Doodle-doodle doooooo}
 {126}{}{Shamble off}
-{127}{}{What is this place?}
+{127}{}{O que é este lugar?}
 {128}{}{Can I see what you have in stock?}
 {129}{}{Nothing today, thanks.}
 {130}{}{Wait here for a moment, all right? I'll bring someone to show you out.}
@@ -51,5 +51,5 @@
 {145}{}{I don't think so. Goodbye.}
 {146}{}{Hey! Stay away from there!}
 {147}{}{That's it! You're out of here!}
-{148}{}{Thanks.}
+{148}{}{Obrigado.}
 {149}{}{[continue]}

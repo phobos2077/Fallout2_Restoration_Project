@@ -4,7 +4,7 @@
 {103}{}{Can I help you?}
 {104}{}{You again?}
 {105}{}{Uhhhh - work. Work Tandi.}
-{106}{}{Who are you?}
+{106}{}{Quem é você?}
 {107}{}{I'm here to see President Tandi about a job.}
 {108}{}{Sorry, wrong office.}
 {109}{}{You want job?}
@@ -34,16 +34,16 @@
 {133}{}{I have no idea what you are talking about. Do you have real question?}
 {134}{}{I'm searching for Vault 13.}
 {135}{}{I understand the president has a job to be done.}
-{136}{}{Never mind.}
+{136}{}{Não importa.}
 {137}{}{Ah yes. Well, she's instructed me to send in anyone asking about it. You're buzzed in. It's the door to my right.}
 {138}{}{Madam President is finished with you? How did things go?}
 {139}{}{Good. Me bye-bye.}
 {140}{}{Just fine. Now, I'm out of here.}
 {141}{}{Here to report the outcome of Vault 15?}
-{142}{}{Yes.}
-{143}{}{No.}
+{142}{}{Sim.}
+{143}{}{Não.}
 {144}{}{Well, I'm sorry, but Madam President is very busy. Why don't you come back when the job is done?}
-{145}{}{Okay.}
+{145}{}{Tudo bem.}
 {146}{}{Excellent! I'll buzz you right in.}
 {147}{}{You bastard! Guards! Assassin! Murderer!}
 {148}{}{Back so soon! Now what?}
@@ -57,7 +57,7 @@
 {156}{}{Let's see. Contract says $500. Here you are.}
 {157}{}{In fact, she just buzzed me to change your amount - seems you earned a bonus. Here it is, $900 and NCR's thanks. Now, there is work to be done, so goodbye.}
 {158}{}{Your president said you should know there's a spy in your house - somebody named Feargus.}
-{159}{}{Goodbye.}
+{159}{}{Adeus.}
 {160}{}{Feargus? I don't believe it!}
 {161}{}{Take a look at this disk.}
 {162}{}{Whatever. I'm out of here.}
@@ -66,7 +66,7 @@
 {165}{}{Thanks. Have a nice day.}
 {166}{}{Oh, it's you. Look, this is not a good time. In fact, I think Madam President would rather not get you involved in anything else. Thank you and good day.}
 {167}{}{Let me make myself clear. The President is not going to see you - now or ever. You've been paid. Now just leave.}
-{171}{}{Me go.}
+{171}{}{Eu vou.}
 {172}{}{Absolutely nothing.}
 {173}{}{You bitch! Guards! Assassin. Murderer!}
 {174}{}{I've been to Vault 15 and I need to talk to your boss about it.}

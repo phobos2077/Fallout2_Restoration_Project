@@ -7,7 +7,7 @@
 {106}{}{Why you Yell!}
 {107}{}{I bet those bastards at Vault City sent you. Well, you best be off, and leave everything else alive.}
 {108}{}{Well, it's a little late for that.}
-{109}{}{Why?}
+{109}{}{Por quê?}
 {110}{}{Sorry, I have a job to do.}
 {111}{}{Those creatures are the only thing stopping Vault City from making us their so-called "servants".}
 {112}{}{Look, they're paying me to get rid of these beasts, so that's what I'm gonna do.}
@@ -39,7 +39,7 @@
 {135}{}{What was it that you needed again?}
 {136}{}{Yep, here they are.}
 {137}{}{We need four assault rifles and a shotgun. The sooner you can get them to us, the better.}
-{138}{}{Okay.}
+{138}{}{Tudo bem.}
 {139}{}{Alright! With these babies, we should able to make something of this place over the next couple months. Thanks a
  lot, and hey, if you ever need a place to rest, you'll always be welcome here, friend.}
 {140}{}{You're welcome.}
@@ -80,7 +80,8 @@
 {169}{}{You are always welcome here! Goodbye.}
 {170}{}{Yes, but I don't think you're gonna need them. At least not against Vault City. You see, I've convinced the Vault City council not to touch your village.}
 {171}{}{I'll do it. I have some questions before I go though.}
-{172}{}{Nevermind. Bye.}
+{172}{}{Deixa pra lá. Tchau.
+}
 {173}{}{Not yet. I'll return when I have them.}
 {174}{}{Thanks! See you around.}
 {200}{}{It just so happens that I've already got what you need right here.}
@@ -94,7 +95,7 @@
 {212}{}{Alright. Here are the weapons.}
 {213}{}{No, I have decided not to. Goodbye.}
 {214}{}{No price too high, eh? Well, I know how economics work. Increase in demand means an increase in prices.}
-{215}{}{[DONE]}
+{215}{}{[FEITO]}
 {216}{}{[ATTACK]}
 {217}{}{Listen, starting a war with Vault City isn't the answer. Sure, you might be able to fend them off for months, maybe even years, but you can't hold out forever. And in the meantime, lives will be needlessly lost. But if I can just get one member of the Vault City council to see reason, then I know we can reach a peaceful agreement.}
 {218}{}{Hmm...Alright, I trust you have our best interests in mind. If you really think you can reason with one of their council members, then by all means, give it a shot. However, I think you should talk to Old Joe and see what he has to say. You can find him in or around the courtyard bar. Good luck. We're all counting on you.}

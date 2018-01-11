@@ -1,7 +1,6 @@
-{100}{}{You see a plant of dark soul.}
-{101}{}{These plants aren't just harmful to the garden. They also have the ability to attack humans
- and other creatures.}
-{102}{}{These plants of dark soul are an odd mutation. It is doubtful that they mutated this way as
- a result of natural causes.}
-{103}{}{You notice nothing extra about these plants - other than the fact that they attack humans.}
-{150}{}{You have rid the garden of all the plants of dark soul.}
+{100}{}{Você vê uma planta de alma escura.}
+{101}{}{Estas plantas não são apenas prejudiciais para o jardim. Elas também têm a capacidade de atacar humanos e outras criaturas.}
+{102}{}{Essas plantas de alma escura são uma mutação estranha. É duvidoso que eles mutassem dessa maneira como
+  resultado de causas naturais.}
+{103}{}{Você não percebe nada extra sobre essas plantas - além do fato de que elas atacam humanos.}
+{150}{}{Você tem de livrar o jardim de todas as plantas da alma negra.}

@@ -1,181 +1,176 @@
-{100}{}{You see a wooden door.}
-{101}{}{You see a metal door.}
+{100}{}{Você verá uma porta de madeira.}
+{101}{}{Você verá uma porta de metal.}
 {102}{}{You see a study door with a lock which can be picked with
  lockpicks and a highly explosive trap in the doorframe, which
  you may be able to pry open.}
-{103}{}{You see a sturdy door with a lock on it and a highly
- explosive trap in the doorframe, which you may be able to
- pry open.}
-{104}{}{You see a sturdy door with no apparent locking device and
- a highly explosive trap in the doorframe, which you may be able
- to pry open.}
-{105}{}{You see a sturdy door with an old, rusty lock and a highly
- explosive trap in the doorframe, which you may be able to pry
- open.}
+{103}{}{Você vê uma porta resistente com um bloqueio e uma
+  armadilha explosiva no quadro da porta, que você poderá
+  desarmar.}
+{104}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
+  uma armadilha altamente explosiva no quadro da porta, que você pode
+  arrombar.}
+{105}{}{Você vê uma porta resistente com uma fechadura velha e enferrujada e uma
+  armadilha explosiva no batente da porta, que você poderá desarmar.}
 {106}{}{You see a study door with a lock which can be picked with
  lockpicks and a trap in the doorframe, which you may be able to
  pry open.}
-{107}{}{You see a sturdy door with a lock on it and a trap in
- the doorframe, which you may be able to pry open.}
-{108}{}{You see a sturdy door with no apparent locking device and
- a trap in the doorframe, which you may be able to pry open.}
-{109}{}{You see a sturdy door with an old, rusty lock and a trap
- in the doorframe, which you may be able to pry open.}
+{107}{}{Você vê uma porta resistente com um bloqueio e uma armadilha em
+  o quadro da porta, que você poderá abrir.}
+{108}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
+  uma armadilha no quadro da porta, que você poderá abrir.}
+{109}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado e uma armadilha
+  no quadro da porta, que você poderá abrir.}
 {110}{}{You see a study door with a lock which can be picked with
  lockpicks and a cut wire in the doorframe, which you may be
  able to pry open.}
-{111}{}{You see a sturdy door with a lock on it and a severed wire
- in the doorframe, which you may be able to pry open.}
-{112}{}{You see a sturdy door with no apparent locking device and
- a severed wire in the doorframe, which you may be able to pry
- open.}
-{113}{}{You see a sturdy door with an old, rusty lock and a cut
- wire in the doorframe, which you may be able to pry open.}
+{111}{}{Você vê uma porta resistente com uma fechadura e um fio cortado
+  no quadro da porta, que você poderá abrir.}
+{112}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
+  um fio cortado no batente da porta, que você pode conseguir
+  abrir.}
+{113}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado e um corte
+  fio no quadro da porta, que você poderá abrir.}
 {114}{}{You see a study door with a lock which can be picked with
  lockpicks, which you may be able to pry open.}
-{115}{}{You see a sturdy door with a lock on it, which you may be
- able to pry open.}
-{116}{}{You see a sturdy door with no apparent locking device,
- which you may be able to pry open.}
-{117}{}{You see a sturdy door with an old, rusty lock, which
- you may be able to pry open.}
+{115}{}{Você vê uma porta resistente com um bloqueio nele, o que você pode ser
+  capaz de se abrir.}
+{116}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente,
+  que você poderá abrir.}
+{117}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado, que
+  você pode abrir.}
 {118}{}{You see a study door with a lock which can be picked with
  lockpicks and a highly explosive trap in the doorframe.}
-{119}{}{You see a sturdy door with a lock on it and a highly
- explosive trap in the doorframe.}
-{120}{}{You see a sturdy door with no apparent locking device and
- a highly explosive trap in the doorframe.}
-{121}{}{You see a sturdy door with an old, rusty lock and a highly
- explosive trap in the doorframe.}
+{119}{}{Você vê uma porta resistente com um bloqueio e uma
+  armadilha explosiva no quadro da porta.}
+{120}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
+  uma armadilha altamente explosiva no quadro da porta.}
+{121}{}{Você vê uma porta resistente com uma fechadura velha e enferrujada e uma
+  armadilha explosiva no quadro da porta.}
 {122}{}{You see a study door with a lock which can be picked with
  lockpicks and a trap in the doorframe.}
-{123}{}{You see a sturdy door with a lock on it and a trap in
- the doorframe.}
-{124}{}{You see a sturdy door with no apparent locking device and
- a trap in the doorframe.}
-{125}{}{You see a sturdy door with an old, rusty lock and a trap
- in the doorframe.}
+{123}{}{Você vê uma porta resistente com um bloqueio e uma armadilha em
+  o quadro da porta.}
+{124}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
+  uma armadilha no batente da porta.}
+{125}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado e uma armadilha
+  no batente da porta.}
 {126}{}{You see a study door with a lock which can be picked with
  lockpicks and a cut wire in the doorframe.}
-{127}{}{You see a sturdy door with a lock on it and a severed wire
- in the doorframe.}
-{128}{}{You see a sturdy door with no apparent locking device and
- a severed wire in the doorframe.}
-{129}{}{You see a sturdy door with an old, rusty lock and a cut
- wire in the doorframe.}
+{127}{}{Você vê uma porta resistente com uma fechadura e um fio cortado
+  no batente da porta.}
+{128}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
+  um fio cortado no quadro da porta.}
+{129}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado e um corte
+  fio no quadro da porta.}
 {130}{}{You see a study door with a lock which can be picked with
  lockpicks.}
-{131}{}{You see a sturdy door with a lock on it.}
-{132}{}{You see a sturdy door with no apparent locking device.}
-{133}{}{You see a sturdy door with an old, rusty lock.}
+{131}{}{Você vê uma porta resistente com um bloqueio nela.}
+{132}{}{Você verá uma robusta porta aparente sem dispositivo de bloqueio.}
+{133}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado.}
 {134}{}{You see a damaged door with a lock which can be picked with
  lockpicks and a highly explosive trap in the doorframe.}
-{135}{}{You see a damaged door with a lock on it and a highly
- explosive trap in the doorframe.}
-{136}{}{You see a damaged door with no apparent locking device and
- a highly explosive trap in the doorframe.}
-{137}{}{You see a damaged door with an old, rusty lock and a highly
- explosive trap in the doorframe.}
+{135}{}{Você vê uma porta danificada com um bloqueio e uma
+  armadilha explosiva no quadro da porta.}
+{136}{}{Você vê uma porta danificada sem dispositivo de bloqueio aparente e
+  uma armadilha altamente explosiva no quadro da porta.}
+{137}{}{Você vê uma porta danificada com um bloqueio e uma
+  armadilha explosiva no quadro da porta.}
 {138}{}{You see a damaged door with a lock which can be picked with
  lockpicks and a trap in the doorframe.}
-{139}{}{You see a damaged door with a lock on it and a trap in
- the doorframe.}
-{140}{}{You see a damaged door with no apparent locking device and
- a trap in the doorframe.}
-{141}{}{You see a damaged door with an old, rusty lock and a trap
- in the doorframe.}
+{139}{}{Você vê uma porta danificada com um bloqueio e uma armadilha no quadro da porta.}
+{140}{}{Você vê uma porta danificada sem dispositivo de bloqueio aparente e
+  uma armadilha no batente da porta.}
+{141}{}{Você vê uma porta danificada com um bloqueio e uma armadilha no quadro da porta.}
 {142}{}{You see a damaged door with a lock which can be picked with
  lockpicks and a cut wire in the doorframe.}
-{143}{}{You see a damaged door with a lock on it and a severed wire
- in the doorframe.}
-{144}{}{You see a damaged door with no apparent locking device and
- a severed wire in the doorframe.}
-{145}{}{You see a damaged door with an old, rusty lock and a cut
- wire in the doorframe.}
+{143}{}{Você vê uma porta danificada com um bloqueio e um fio cortado
+  no batente da porta.}
+{144}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
+  um fio cortado no quadro da porta.}
+{145}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado e um corte
+  fio no quadro da porta.}
 {146}{}{You see a damaged door with a lock which can be picked with
  lockpicks.}
-{147}{}{You see a damaged door with a lock on it.}
-{148}{}{You see a damaged door with no apparent locking device.}
-{149}{}{You see a damaged door with an old, rusty lock.}
+{147}{}{Você vê uma porta danificada com um bloqueio nele.}
+{148}{}{Você verá uma porta danificada, sem aparente dispositivo de bloqueio.}
+{149}{}{Você vê uma porta danificada com um bloqueio velho e enferrujado.}
 {150}{}{You see an old door with a lock which can be picked with
  lockpicks and a highly explosive trap in the doorframe.}
-{151}{}{You see an old door with a lock on it and a highly
- explosive trap in the doorframe.}
-{152}{}{You see an old door with no apparent locking device and
- a highly explosive trap in the doorframe.}
-{153}{}{You see an old door with an old, rusty lock and a highly
- explosive trap in the doorframe.}
+{151}{}{Você vê uma porta resistente com uma fechadura velha e enferrujada e uma
+  armadilha explosiva no quadro da porta.}
+{152}{}{Você vê uma porta velha sem dispositivo de bloqueio aparente e
+  uma armadilha altamente explosiva no quadro da porta.}
+{153}{}{Você vê uma porta resistente com uma fechadura velha e enferrujada e uma
+  armadilha explosiva no quadro da porta.}
 {154}{}{You see an old door with a lock which can be picked with
  lockpicks and a trap in the doorframe.}
-{155}{}{You see an old door with a lock on it and a trap in
- the doorframe.}
-{156}{}{You see an old door with no apparent locking device and
- a trap in the doorframe.}
-{157}{}{You see an old door with an old, rusty lock and a trap
- in the doorframe.}
+{155}{}{Você vê uma porta velha com um bloqueio e uma armadilha no quadro da porta.}
+{156}{}{Você vê uma porta velha sem dispositivo de bloqueio aparente e
+  uma armadilha no batente da porta.}
+{157}{}{Você verá uma porta velha, a velha e enferrujada de bloqueio e uma armadilha
+no alizar de porta.}
 {158}{}{You see an old door with a lock which can be picked with
  lockpicks and a cut wire in the doorframe.}
-{159}{}{You see an old door with a lock on it and a severed wire
- in the doorframe.}
-{160}{}{You see an old door with no apparent locking device and
- a severed wire in the doorframe.}
-{161}{}{You see an old door with an old, rusty lock and a cut
- wire in the doorframe.}
+{159}{}{Você vê uma porta velha com um bloqueio e um fio cortado
+  no batente da porta.}
+{160}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
+  um fio cortado no quadro da porta.}
+{161}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado e um corte
+  fio no quadro da porta.}
 {162}{}{You see an old door with a lock which can be picked with
  lockpicks.}
-{163}{}{You see an old door with a lock on it.}
-{164}{}{You see an old door with no apparent locking device.}
-{165}{}{You see an old door with an old, rusty lock.}
-{166}{}{You set off the trap and were hit for }
-{167}{}{ points of damage.}
-{168}{}{ sets off the trap and was hit for }
-{169}{}{ points of damage.}
-{170}{}{You deftly pick the lock on the door.}
-{171}{}{Your lack of skill has jammed the lock on this door.}
-{172}{}{You fail to pick the lock on this door.}
-{173}{}{ deftly picks the lock on the door.}
-{174}{}{'s lack of skill has jammed the lock on this door.}
-{175}{}{ failed to pick the lock on this door.}
-{176}{}{You bust the lock off the door.}
-{177}{}{You strain your back while trying to bust the lock and
- take a point of damage.}
-{178}{}{You strain your back while trying to bust the lock and
- take }
-{179}{}{ points of damage.}
-{180}{}{You are too weak to bust the lock.}
-{181}{}{ busts the lock off the door.}
-{182}{}{ strains his back while trying to bust the lock and takes
- a point of damage.}
-{183}{}{ strains his back while trying to bust the lock and takes }
-{184}{}{ points of damage.}
-{185}{}{ is too weak to bust the lock.}
-{186}{}{ strains her back while trying to bust the lock and takes
- a point of damage.}
-{187}{}{ strains her back while trying to bust the lock and takes }
-{188}{}{ points of damage.}
-{189}{}{You deftly lock the door.}
-{190}{}{You fail to lock the door.}
-{191}{}{ deftly locks the door.}
-{192}{}{ failed to lock the door.}
+{163}{}{Você verá uma porta velha com um cadeado.}
+{164}{}{Você verá uma porta danificada, sem aparente dispositivo de bloqueio.}
+{165}{}{Você vê uma porta velha com um bloqueio velho e enferrujado.}
+{166}{}{Você desencadeou a armadilha e foi atingido por}
+{167}{}{pontos de dano.}
+{168}{}{desencadeia a armadilha e foi atingido por}
+{169}{}{pontos de dano.}
+{170}{}{Você abre habilmente o bloqueio na porta.}
+{171}{}{A sua falta de habilidade encravou a trava na porta.}
+{172}{}{Você não consegue abrir o bloqueio nesta porta.}
+{173}{}{ habilmente pega a trava na porta.}
+{174}{}{A sua falta de habilidade encravou a trava na porta.}
+{175}{}{Você não consegue abrir o bloqueio nesta porta.}
+{176}{}{Você arrombou a fechadura da porta.}
+{177}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e
+  toma um ponto de dano.}
+{178}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e toma }
+{179}{}{pontos de dano.}
+{180}{}{Você é muito fraco para ultrapassar o bloqueio.}
+{181}{}{arrombou a fechadura da porta.}
+{182}{}{estica as costas enquanto tenta abater a fechadura e leva
+  pontos de dano.}
+{183}{}{pressiona suas costas enquanto tenta abrir o bloqueio e toma}
+{184}{}{pontos de dano.}
+{185}{}{ é muito fraco para ultrapassar o bloqueio.}
+{186}{}{estica as costas enquanto tenta abater a fechadura e leva
+pontos de dano.}
+{187}{}{pressiona suas costas enquanto tenta abrir o bloqueio e toma }
+{188}{}{pontos de dano.}
+{189}{}{Você seguramente bloqueia a porta.}
+{190}{}{Você não bloqueia a porta.}
+{191}{}{ habilmente tranca a porta.}
+{192}{}{ falha de trancar a porta.}
 {193}{}{The explosives don't even put a scratch on the door.}
-{194}{}{You find a trap on the door.}
-{195}{}{You fail to find any traps on the door.}
-{196}{}{You skillfully disarm the trap.}
-{198}{}{You fail to disarm the trap.}
-{199}{}{ finds a trap on the door.}
-{200}{}{ fails to find any traps on the door.}
-{201}{}{ skillfully disarms the trap.}
-{202}{}{ fails to disarm the trap.}
-{203}{}{The door appears to be locked.}
-{204}{}{You notice a trap in the door jamb.}
-{205}{}{ notices a trap in the door jamb.}
-{206}{}{You are unable to place a trap on this door, because
- the door is open.}
-{207}{}{ is unable to place a trap on this door, because the
- door is open.}
-{208}{}{You skillfully set a trap in the door frame.}
-{209}{}{You fail to properly set the trap in the door frame.}
-{210}{}{ skillfully sets a trap in the door frame.}
-{211}{}{ fails to properly set the trap in the door frame.}
+{194}{}{Você encontra uma armadilha na porta.}
+{195}{}{Você não consegue encontrar armadilhas na porta.}
+{196}{}{Você habilmente desarmar a armadilha.}
+{198}{}{Você não consegue desarmar a armadilha.}
+{199}{}{ encontra uma armadilha na porta.}
+{200}{}{ não consegue encontrar qualquer armadilhas na porta.}
+{201}{}{ habilmente desarma a armadilha.}
+{202}{}{ falha para desarmar a armadilha.}
+{203}{}{A porta parece estar bloqueada.}
+{204}{}{Você percebe uma armadilha no batente da porta.}
+{205}{}{percebe uma armadilha no batente da porta.}
+{206}{}{Você não conseguir colocar uma armadilha na porta, porque
+a porta está aberta.}
+{207}{}{é incapaz de colocar uma armadilha nesta porta, porque 
+A porta está aberta.}
+{208}{}{Você habilmente configurou uma armadilha na moldura da porta.}
+{209}{}{Você não configura adequadamente a armadilha no quadro da porta.}
+{210}{}{ habilmente define uma armadilha na moldura da porta.}
+{211}{}{ falha ao definir adequadamente a armadilha na moldura da porta.}
 {212}{}{This door does not unlock here.}
 {213}{}{The door won't budge.}

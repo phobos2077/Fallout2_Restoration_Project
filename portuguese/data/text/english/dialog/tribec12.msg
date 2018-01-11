@@ -7,14 +7,15 @@
 {106}{}{I am on a quest for the Holy GECK. Do you know anything about this?}
 {107}{}{I am looking for a missing woman. She's the sister of my friend, Sulik.}
 {108}{}{Is there anything else that needs to be done around here?}
-{109}{}{Nevermind. Bye.}
+{109}{}{Deixa pra lá. Tchau.
+}
 {110}{}{The Holy GECK... [He takes a long hit off his pipe.] There is a creature that we sometimes hunt -- sometimes, it hunts us. A gecko. No, I sense that's not what you seek. I'm afraid your Holy GECK is beyond my ken.}
-{111}{}{Let me ask you something else.}
+{111}{}{Deixe-me perguntar-lhe algo mais.}
 {112}{}{That's all I need to know. Bye.}
 {120}{}{Sulik? [He nods.] One of our best men. Equally skilled at the art of the hunt, and the art of communing with bonespirits. He left us to find his sister, Kurisu, who never returned from a nearby tribe. Tell me, child, where is Sulik now?}
 {121}{}{Oh, he's right here. Hey, Sulik, come on in here...}
 {122}{}{Oh, he's alright. I told him to wait while I get some things done.}
-{123}{}{I am sorry, but he is dead.}
+{123}{}{Sinto muito, mas ele está morto.}
 {124}{}{[Sulik and the tribe's chief exchange greetings.] It brings me great pleasure to see Sulik again. The bonespirits told me he had fallen into trouble. But what of his sister, Kurisu?}
 {125}{}{It is good to hear that Sulik is well. We were worried he got into trouble. So, his sister is still missing?
  She too is a member of our tribe.}
@@ -25,7 +26,7 @@
 {130}{}{Thank you, child, but I am content. Perhaps others are not so. Ask around the village.}
 {140}{}{I look for GECK.}
 {141}{}{I looking for missing woman. She sister of friend Sulik.}
-{142}{}{Bye.}
+{142}{}{Adeus.}
 {150}{}{I ask more.}
 {160}{}{Oh, he right here. Sulik, chief man want talk.}
 {161}{}{Oh, he good. He wait for me.}

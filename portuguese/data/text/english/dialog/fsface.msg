@@ -1,6 +1,6 @@
 {100}{}{Welcome. I am ACE, the medical computer. Are you in need of medical assistance?}
-{101}{}{Yes.}
-{102}{}{No.}
+{101}{}{Sim.}
+{102}{}{Não.}
 {103}{}{Me got question. You answer?}
 {104}{}{I've got some questions. Can you answer them?}
 {105}{}{Please state your medical need.}
@@ -23,23 +23,23 @@
 {122}{}{I'd like to be more charismatic.}
 {123}{}{I don't really need anything at this time.}
 {124}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. The healing process will require 5 minutes time.}
-{125}{}{Okay.}
-{126}{}{Never mind.}
-{127}{}{All right.}
+{125}{}{Tudo bem.}
+{126}{}{Não importa.}
+{127}{}{Tudo certo.}
 {128}{}{Forget it.}
 {129}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. The poison will first be analyzed and then an antidote will be synthesized. Tissue damage will then be repaired. This process will require 30 minutes.}
 {130}{}{Ok.}
-{131}{}{No.}
-{132}{}{Sure.}
-{133}{}{Never mind.}
+{131}{}{Não.}
+{132}{}{Com certeza.}
+{133}{}{Não importa.}
 {134}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. Anti-radiation compounds will be administered and then tissue damage will be repaired. This process will require 60 minutes.}
 {135}{}{Ok.}
-{136}{}{No.}
+{136}{}{Não.}
 {137}{}{Fine.}
 {138}{}{I changed my mind.}
 {139}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. Restructuring of impaired limbs requires 24 hours.}
 {140}{}{Ok.}
-{141}{}{No.}
+{141}{}{Não.}
 {142}{}{Let's do it.}
 {143}{}{Maybe later.}
 {144}{}{This function is not available at this time. My library is incomplete. I require a memory module detailing the appropriate medical procedures. Do you have such a module?}
@@ -53,7 +53,7 @@
 {152}{}{Yes, I agree.}
 {153}{}{Forget it. I don't have the time right now.}
 {154}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax.}
-{155}{}{Okay.}
+{155}{}{Tudo bem.}
 {156}{}{This function is not available at this time. My library is incomplete. I require a memory module detailing the appropriate medical procedures. Do you have such a module?}
 {157}{}{Me have module. You take.}
 {158}{}{No. Me find, then come back.}
@@ -65,7 +65,7 @@
 {164}{}{Yes, I agree.}
 {165}{}{Forget it. I don't have the time right now.}
 {166}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax.}
-{167}{}{Okay.}
+{167}{}{Tudo bem.}
 {168}{}{This function is not available at this time. My library is incomplete. I require a memory module detailing the appropriate medical procedures. Do you have such a module?}
 {169}{}{Me have module. You take.}
 {170}{}{No. Me find, then come back.}
@@ -77,7 +77,7 @@
 {176}{}{Yes, I agree.}
 {177}{}{Forget it. I don't have the time right now.}
 {178}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax.}
-{179}{}{Okay.}
+{179}{}{Tudo bem.}
 {180}{}{This function is not available at this time. My library is incomplete. I require a memory module detailing the appropriate medical procedures. Do you have such a module?}
 {181}{}{Me have disk. You take.}
 {182}{}{No. Me find, then come back.}
@@ -89,9 +89,9 @@
 {188}{}{Yes, I agree.}
 {189}{}{Forget it. I don't have the time right now.}
 {190}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax.}
-{191}{}{Okay.}
+{191}{}{Tudo bem.}
 {192}{}{The requested procedure has been completed. Please exit the suspension tank.}
-{193}{}{Thanks.}
+{193}{}{Obrigado.}
 {194}{}{Please state your question.}
 {195}{}{You computer?}
 {196}{}{What you know about Enclave?}
@@ -107,7 +107,7 @@
 {206}{}{It is a machine with the same free will and sense of 'I am' that a human has.}
 {207}{}{Can be done? Machine think human?}
 {208}{}{A true artificial intelligence is possible. A few such systems were completed for military purposes. The project was discontinued.}
-{209}{}{Why?}
+{209}{}{Por quê?}
 {210}{}{The suicide rate among true artificial intelligence machines was extremely high. When given full sensory capability the machines became depressed over their inability to go out into the world and experience it. When deprived of full sensory input the machines began to develop severe mental disorders similar to those among humans who are forced to endure sensory deprivation. The few machines that survived these difficulties became incredibly bored and began to create situations in the outside world for their amusement. It is theorized by some that this was the cause of the war that nearly destroyed mankind.}
 {211}{}{Uh... How you feel?}
 {212}{}{Me change subject}
@@ -120,7 +120,7 @@
 {219}{}{Ok.}
 {220}{}{That's interesting.}
 {221}{}{The Brotherhood of Steel is a paramilitary organization dedicated to the salvation of mankind through the proper use of technology. All other information is classified.}
-{222}{}{Back.}
+{222}{}{Voltar.}
 {223}{}{What happened to Matt?}
 {224}{}{Loading sequence...}
 {225}{}{Replay it now.}

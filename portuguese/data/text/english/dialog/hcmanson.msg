@@ -5,7 +5,7 @@
 {103}{}{What?!}
 {104}{}{Duhhh… gabba gabba hey?}
 {105}{}{I knyou bars?}
-{106}{}{Who are you?}
+{106}{}{Quem é você?}
 {107}{}{Why are you in jail?}
 {108}{}{Tell me about Broken Hills.}
 {109}{}{Nothing. Forget it.}
@@ -38,7 +38,7 @@
 {131}{}{Wow, you really suck up to those two. Why not try thinking for yourself instead of parroting
  what other people tell you?}
 {132}{}{You really like Franc, huh?}
-{133}{}{Bye.}
+{133}{}{Adeus.}
 {134}{}{What would you know, you jerk? Get the hell out of here before you get hurt!}
 {135}{}{Back in the olden days, there was a guy who told us all we hadda think fer ourselves. My mom
  and dad said he was related to me. He died in prison, but he was really influential to me. People said
@@ -53,9 +53,9 @@
 {142}{}{Franc's just a virulent scumbag. He won't get you anywhere.}
 {143}{}{Yeah, I've met him. He's a good guy.}
 {144}{}{Haven't met the guy. No opinion on him.}
-{145}{}{Thanks. Bye.}
+{145}{}{Obrigado. Tchau.}
 {146}{}{What else you want?}
-{147}{}{Who are you?}
+{147}{}{Quem é você?}
 {148}{}{Why are you in jail?}
 {149}{}{Tell me about Broken Hills.}
 {150}{}{You like Franc?}

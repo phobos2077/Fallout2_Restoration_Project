@@ -15,7 +15,7 @@
 {112}{}{Why aren’t you in the city?}
 {113}{}{What do you do here?}
 {114}{}{Can I ask you something else?}
-{115}{}{Thanks. Goodbye.}
+{115}{}{Obrigado. Adeus.}
 {116}{}{My family and I work a farm here in the Courtyard. We get by. Don’t know
  for how long, though.}
 {117}{}{What’s the problem?}
@@ -39,12 +39,12 @@
 {131}{}{Can I help?}
 {132}{}{Can I ask you something else?}
 {133}{}{Oh, well, I’m sorry to hear that. Goodbye.}
-{134}{}{Sure.}
+{134}{}{Com certeza.}
 {135}{}{Well, we’re from the wasteland... like yourself. So all we can get is
  protection from Vault City.}
 {136}{}{What kind of protection?}
 {137}{}{Can I ask you something else?}
-{138}{}{Thanks. Goodbye.}
+{138}{}{Obrigado. Adeus.}
 {139}{}{They keep us safe from the outside, but it costs me and the wife quite
  a bit. And without a plow… well, making ends meet is difficult.}
 {140}{}{Can I help with the plow?}

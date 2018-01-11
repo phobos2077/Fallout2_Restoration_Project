@@ -15,7 +15,7 @@
 {114}{}{Oh... hello! Was there something I could help you with?}
 {115}{}{Frazz-urb-luuw!}
 {116}{}{Shamble off}
-{117}{}{What is this place?}
+{117}{}{O que é este lugar?}
 {118}{}{Nothing. Sorry to disturb you.}
 {119}{}{Uh... pardon me?}
 {120}{}{Cripple-cripple creep}
@@ -34,7 +34,7 @@
 {132}{}{Maybe I'll check there, then.}
 {133}{}{Hello, again. Did you need help finding anything?}
 {134}{}{Certainly. What questions did you have?}
-{135}{}{What is this place?}
+{135}{}{O que é este lugar?}
 {136}{}{Do you know where I can find a GECK?}
 {137}{}{Do you know where I could find the Vault?}
 {138}{}{Nothing today, thanks.}
@@ -90,7 +90,7 @@
 {181}{}{They haven't shipped all the books out to the Amenities Offices yet. I know Randal won't miss them if I gave them to someone who appreciated them... someone like yourself.}
 {182}{}{I'd love to have them. Thanks.}
 {183}{}{I'll go fetch them...}
-{184}{}{All right.}
+{184}{}{Tudo certo.}
 {185}{}{Here you go. I hope you enjoy reading them. They are some of my favorites... a little on the technical side, but still quite good.}
 {186}{}{Thanks. Do you mind if I ask you some other questions?}
 {187}{}{Great. I'll go check these out.}

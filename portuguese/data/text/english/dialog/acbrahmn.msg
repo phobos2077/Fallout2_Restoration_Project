@@ -1,8 +1,8 @@
-{100}{}{You see a regular domesticated brahmin.}
-{101}{}{The brahmin's extra head is probably the result of a regular
- cow being exposed too soon to radiation.}
-{102}{}{You don’t notice anything unusual about the brahmin.}
-{103}{}{Brahmin aren't much for conversations.}
-{104}{}{Don't you have anything better to do than sit around
- talking to a two-headed cow?}
-{105}{}{Brahmin are a mutated breed of cows.}
+{100}{}{Você vê um brahmin doméstico regular.}
+{101}{}{A cabeça extra do brahmin é provavelmente o resultado de uma
+  vaca regular sendo exposta logamente a radiação.}
+{102}{}{Você não percebe nada incomum sobre o brahmin.}
+{103}{}{Brahmin não é muito para conversas.}
+{104}{}{Você não tem nada melhor a fazer do que sentar ao redor
+  falando com uma vaca de duas cabeças?}
+{105}{}{Brahmin são uma mutação da raça das vacas.}

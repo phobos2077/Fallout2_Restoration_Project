@@ -29,7 +29,7 @@
 {125}{}{I'm sorry, only Citizens are permitted to enter the Vault. I'm sure you
  understand.}
 {126}{}{Only Citizens may enter. Now leave.}
-{127}{}{Okay.}
+{127}{}{Tudo bem.}
 {128}{}{Umgh}
 {129}{}{Of course. Please pass through.}
 {130}{}{Thankee!}
@@ -42,7 +42,7 @@
 {137}{}{I'm sorry... I don't recognize you. I'm under orders to only let Citizens I know into the Vault.
  Perhaps First Citizen Lynette can help you. Good day.}
 {138}{}{Hello, Captain. Can I help you?}
-{139}{}{Oh, okay.}
+{139}{}{Ah, tudo bem.}
 {140}{}{Oh, sure. I was just looking.}
 {141}{}{Umgh}
 {142}{}{Yeah, whatever, Mungoth. Talk to the hand.}

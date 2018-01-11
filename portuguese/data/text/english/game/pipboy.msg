@@ -465,7 +465,7 @@
 {11118}{}{fuel, the invaders have been pushed back to their}
 {11119}{}{home capital of Beijing.}
 {11120}{}{**END-DISK**}
-{12000}{}{Welcome!}
+{12000}{}{Bem-vindo!}
 {12001}{}{Welcome to the Hubology Holodisk! Within these electronic}
 {12002}{}{pages, you'll find a quick description of our beliefs, }
 {12003}{}{including the formerly-repressed teachings of the Hub. }

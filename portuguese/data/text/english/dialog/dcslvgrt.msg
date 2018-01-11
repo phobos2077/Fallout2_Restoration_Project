@@ -32,7 +32,7 @@
 {250}{}{Do you know a man named Vic?}
 {251}{}{I'm looking for a Merchant.}
 {252}{}{You ever heard of Vault 13?}
-{253}{}{Bye.}
+{253}{}{Adeus.}
 {254}{}{Work.}
 {255}{}{Food.}
 {256}{}{Kill.}
@@ -58,8 +58,8 @@
 {304}{}{Okay, thanks. Bye.}
 {310}{}{He's in the back room right through the door over there.}
 {311}{}{You playing with me? He's right back there. Just go through that door.}
-{312}{}{Okay.}
-{313}{}{Thanks.}
+{312}{}{Tudo bem.}
+{313}{}{Obrigado.}
 {320}{}{Damn, you don't know Metzger? What're ya doin' in this town, if not ta see him? He's the head of the Slaver's Guild.}
 {321}{}{How many times do I have to tell ya? He's the slave master. He runs things in this town.}
 {322}{}{Can I ask you something else?}
@@ -81,7 +81,7 @@
 {353}{}{I was just joking, man.}
 {354}{}{I'm sorry. I was just trying to impress you.}
 {360}{}{Run along, before I change m'mind.}
-{361}{}{Okay.}
+{361}{}{Tudo bem.}
 {370}{}{What? Oh, you must be looking for Mom's. You're one building off. She's in the building directly south. S-o-u-t-h. That way. [Aidan points out the door.]}
 {371}{}{Huh? Uh… Oh.}
 {380}{}{Ya look like ya might fit in, but Metzger's never hired a woman. Not sure why, but I doubt he's gonna start now.}

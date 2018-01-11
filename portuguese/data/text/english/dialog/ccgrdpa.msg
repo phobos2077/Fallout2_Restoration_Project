@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{Você vê um guarda.}
 {101}{}{You see a guard in power armor.}
 {102}{}{You see someone wearing power armor of an unusual design. There is an insignia on the breastplate that you are unfamiliar with.}
 {103}{}{Nothing to report.}
@@ -42,7 +42,7 @@
 {326}{}{Yeah, I believe you. Looks like we got ourselves an intruder...}
 {327}{}{Damnit! Ah, whatever. I never get told shit around here. Fine. Be on your way.}
 {328}{}{Woah, that sounds bad. You better get moving then, I don't want this shit on my hands. Oh, and don't worry, I won't tell anyone.}
-{329}{}{[DONE]}
+{329}{}{[FEITO]}
 {400}{}{[After a half hour of sitting in the dark cargo hold, you feel the craft touch down to earth once more. A moment
  later, the cargo door opens and you see a squad of power armored soldiers. One of them does a double take at you then
  turns to the others.] Holy shit! One of those mutie wastlanders stowed away in the 'bird! ALERT! We got an intruder!}

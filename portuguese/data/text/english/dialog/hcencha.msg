@@ -8,15 +8,15 @@
 {105}{}{Me work 'yere?}
 {106}{}{Yes, I'm looking for the caravan master.}
 {107}{}{I was wondering if I could ask you a few questions about Chad.}
-{108}{}{Who are you?}
+{108}{}{Quem é você?}
 {109}{}{Sorry about Chad. Who's the new boss?}
-{110}{}{No, thanks.}
+{110}{}{Não, obrigado.}
 {111}{}{If you're looking for work, you might want to talk to Bill, the guy inside there. In-SIDE. He
  might understand you. Good luck!}
 {112}{}{Duhhhh…}
 {113}{}{That'd be }
-{114}{}{Yes.}
-{115}{}{No.}
+{114}{}{Sim.}
+{115}{}{Não.}
 {116}{}{You got questions, maybe I got answers. Whaddya wanna know?}
 {117}{}{What's he like?}
 {118}{}{Can he be trusted?}
@@ -25,9 +25,9 @@
 {121}{}{Forget it. See you later.}
 {122}{}{Me? I'm }
 {123}{}{You're sorry about Chad? Ha! Made a nice profit, did you? The new boss is }
-{124}{}{Bye.}
+{124}{}{Adeus.}
 {125}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He can hook you up.}
-{126}{}{Thanks.}
+{126}{}{Obrigado.}
 {127}{}{All right. See ya, then.}
 {128}{}{What's he like? Well, he's friendly, but abrasive. He's a good boss, and usually fair to us. He
  doesn't treat us badly or anything, if that's what you mean. Any more questions?}
@@ -44,7 +44,7 @@
 {135}{}{When's the next caravan leave?}
 {136}{}{Nothing, thanks.}
 {137}{}{Talk to Bill, just like always.}
-{138}{}{Okay.}
+{138}{}{Tudo bem.}
 {139}{}{After what happened to Chad? I don't think so. Anything else?}
 {140}{}{We're here. Here's your $500. If you want to come back, we leave at the end of the day. You'll
  earn the money on the way back, too, if you want it. One way or another, though, we're leaving then.}

@@ -36,20 +36,21 @@
 {128}{}{We're a small mining community. We were founded several decades ago by our sheriff, Marcus, and
  a man named Jacob. The two of them chose this site because it was near some uranium deposits. Would
  you like to hear more?}
-{129}{}{Yes.}
-{130}{}{No.}
+{129}{}{Sim.}
+{130}{}{Não.}
 {131}{}{We're a collective of humans, mutants, and ghouls. We don't have the racial tensions that
  plague Vault City; in our eyes, everyone's equal.}
 {132}{}{You live next to mutants? Don't you know they're evil?}
 {133}{}{Equal?}
-{134}{}{Thanks. Bye.}
+{134}{}{Obrigado. Tchau.}
 {135}{}{Nominally, Sheriff Marcus is in charge of the city. He helped found it, and he helps us through
  our crises. In truth, though, everyone in the city has a voice.}
 {136}{}{That seems unworkable.}
 {137}{}{That sounds like a good way to run things.}
-{138}{}{Go on.}
+{138}{}{Continue.
+}
 {139}{}{The guy who helped create the city's still in charge? That would make him very, very old.}
-{140}{}{Thanks. Bye.}
+{140}{}{Obrigado. Tchau.}
 {141}{}{Aside from the mutants all being DEAD and this town being DOOMED…}
 {142}{}{Aside from the mutants being dead and our only source of livelihood destroyed…}
 {143}{}{Aside from you being a hero for exposing the corruption in our midst…}
@@ -57,7 +58,7 @@
 {145}{}{Aside from Chad's betrayal of the city and your justice -– for which everyone's grateful -– }
 {146}{}{Not too much, really.}
 {147}{}{I have more questions.}
-{148}{}{Bye.}
+{148}{}{Adeus.}
 {149}{}{Oh. You again.}
 {150}{}{Hi again.}
 {151}{}{Welcome back.}
@@ -71,8 +72,8 @@
 {159}{}{We make our living by refining the ore we dig from the hills, and selling it to nearby
  communities like Vault City, Gecko, and the New California Republic. We use some ourselves for our
  own power. More?}
-{160}{}{Yes.}
-{161}{}{No.}
+{160}{}{Sim.}
+{161}{}{Não.}
 {162}{}{Everyone's equal. We all came from humans; we all have the same core underneath the exterior.
  To say that someone's evil just because of their appearance indicates only ignorance.}
 {163}{}{You calling me ignorant?}
@@ -81,31 +82,31 @@
 {166}{}{Whatever. Bye.}
 {167}{}{We find that it works fine for our purposes. Plus, Marcus is eminently fair.}
 {168}{}{Where I can find Marcus?}
-{169}{}{Bye.}
+{169}{}{Adeus.}
 {170}{}{He is old. But he's holding up well. See, he's a mutant, and apparently they live longer than
  most other folks.}
 {171}{}{You're letting a MUTANT run this place? What are you, nuts?}
 {172}{}{Really? I would have thought most of them would have died off by now.}
 {173}{}{A mutant sheriff, eh? I'll bet most folks here are pretty law-abiding, then. That must work out
  well.}
-{174}{}{Bye.}
+{174}{}{Adeus.}
 {175}{}{So now we're eking out a living, creating our own version of civilization, and doing our best
  to avoid giving in to Vault City or NCR -– we don't need their style of government. That's all.}
 {176}{}{Great. I have more questions.}
-{177}{}{Thanks. Bye.}
+{177}{}{Obrigado. Tchau.}
 {178}{}{If you're going to persist in believing you can judge someone's mind by what you see on the
  outside, then yes. You are undeniably ignorant.}
 {179}{}{To hell with you, pal. YOU'RE the ignorant one.}
 {180}{}{Oh, all right. You've got a point.}
 {181}{}{Anyway, that's all I wanted to say. Welcome to Broken Hills.}
-{182}{}{Wait.}
-{183}{}{Bye.}
+{182}{}{Esperar.}
+{183}{}{Adeus.}
 {184}{}{If the mutants intended us harm, they'd have moved on us before now. They're not going to last
  forever -– in fact, most of them are going senile now. Building a community isn't going to help them
  achieve their aims.}
 {185}{}{You have a point.}
 {186}{}{They're still evil.}
-{187}{}{Bye.}
+{187}{}{Adeus.}
 {188}{}{Pal, the more I talk to you, the dumber I feel myself becoming. With an attitude like that, you
  won't be too welcome in Broken Hills. Excuse me. I have a job to do.}
 {189}{}{Jerk.}
@@ -113,18 +114,18 @@
 {191}{}{We have a mine, a refinery, a tavern, a hotel -– which, by the way, has lost its owner, so we
  just let people stay there free -– a hospital, a general store, and a chemist. We grow our own food.}
 {192}{}{All right. I have more questions.}
-{193}{}{Bye.}
+{193}{}{Adeus.}
 {194}{}{Well, many of them have. Since mutants are sterile… or so I'm led to believe … they're dying
  out. The ones who are left seem to be getting senile, too. Not Marcus, though. He's still as sharp as
  ever.}
 {195}{}{Where can I find Marcus?}
 {196}{}{I have more questions.}
-{197}{}{Bye.}
+{197}{}{Adeus.}
 {198}{}{Marcus, are you sure you don't want to stick around and lead us for a while?}
 {199}{}{Marcus: Ain't no future in it. You'll do fine without me.}
-{200}{}{[MORE]}
+{200}{}{[MAIS]}
 {201}{}{Pal, you're not wanted here. You've done enough damage.}
-{202}{}{[DONE]}
+{202}{}{[FEITO]}
 {300}{}{You can usually find Marcus near the Bank – that also serves as a tougher jail – or at the
  Jail. Sometimes he's in the tavern or at home, but he's usually working.}
 {301}{}{Bummer!}

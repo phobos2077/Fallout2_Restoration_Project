@@ -2,7 +2,7 @@
 {101}{}{You see Matthew.}
 {102}{}{You see a man wearing metal armor with a lightning bolt insignia on it.}
 {103}{}{Hello,}
-{104}{}{. What can I do for you?}
+{104}{}{. O que eu posso fazer por você?}
 {105}{}{You answer questions?}
 {106}{}{Nothing. Me come back later.}
 {107}{}{You can start by answering some questions.}
@@ -68,7 +68,7 @@
 {167}{}{Me guess...}
 {168}{}{Yeah, I guess I see what you mean.}
 {169}{}{Too many people in any one place can attract attention. One man in a city of many men is less noticeable.}
-{170}{}{Okay.}
+{170}{}{Tudo bem.}
 {171}{}{Hello again. Is there something I can help you with?}
 {172}{}{No, just say hi.}
 {173}{}{Yes. You answer question?}
@@ -77,10 +77,10 @@
 {176}{}{Hello. Have you thought about my offer?}
 {177}{}{No. Me not think yet.}
 {178}{}{Yes. Me take job.}
-{179}{}{No, not yet.}
+{179}{}{Não, ainda não.}
 {180}{}{Yeah, I think I'll take the job.}
 {181}{}{Hello. Have you changed your mind about my offer?}
-{182}{}{No.}
+{182}{}{Não.}
 {183}{}{Yes. Me take.}
 {184}{}{No, I haven't.}
 {185}{}{Yes, I'll take the job.}
@@ -90,15 +90,15 @@
 {189}{}{No, I'm still working on it.}
 {190}{}{I got the vertibird plans for you.}
 {191}{}{Well, keep working on it. I know it's a difficult mission, but I think you can pull it off.}
-{192}{}{Okay.}
+{192}{}{Tudo bem.}
 {193}{}{Excellent work! Let me have the plans, and I'll make a copy of them. As promised, I'll give you full access to our facilities. Thank you.}
 {194}{}{You welcome.}
 {195}{}{You're welcome.}
 {196}{}{Navarro is relatively new and not fully staffed as yet. My sources tell me that they receive new recruits from time to time. Perhaps you could pose as a new arrival. I would suggest that.}
 {197}{}{Navarro is relatively new and not fully staffed as yet. My sources tell me that they receive new recruits from time to time. Perhaps, if you went in alone, you could pose as a new arrival. I would suggest that. You could have your friends wait here.}
-{198}{}{Okay.}
+{198}{}{Tudo bem.}
 {199}{}{You say you 'sources.' What they be?}
-{200}{}{All right.}
+{200}{}{Tudo certo.}
 {201}{}{You mentioned your 'sources.' Who would they be?}
 {202}{}{I had an operative go and scout the base. Her reports recently stopped; I can only assume the worst. Please be careful}
 {203}{}{. I don't enjoy sending people to their deaths.}

@@ -12,7 +12,7 @@
 {111}{}{Um, I need a growth removed. My sixth toe.}
 {112}{}{Actually, my friend here could use some medical attention.}
 {113}{}{Actually, my friends here could use some medical attention.}
-{114}{}{What is this place?}
+{114}{}{O que é este lugar?}
 {115}{}{Uh, what is this place again?}
 {116}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
 {117}{}{Not right now. It looks worse than it is.}
@@ -23,12 +23,12 @@
 {122}{}{Patshhh? Patshh! Take moneee, fixx leaks.}
 {123}{}{Bye-bye.}
 {124}{}{Not nuff moneee. Bye-bye.}
-{125}{}{All right.}
+{125}{}{Tudo certo.}
 {126}{}{That's pretty steep. How about }
 {127}{}{?}
 {128}{}{Never mind. How about my friend instead?}
 {129}{}{Never mind. How about my friends instead?}
-{130}{}{What is this place?}
+{130}{}{O que é este lugar?}
 {131}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
 {132}{}{I don't have enough. I'll be back when I have some more cash.}
 {133}{}{No, thanks. Maybe some other time.}
@@ -40,7 +40,7 @@
 {139}{}{Buyhye.}
 {140}{}{Can you cure my friend here?}
 {141}{}{Can you cure my friends here?}
-{142}{}{What is this place?}
+{142}{}{O que é este lugar?}
 {143}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
 {144}{}{I feel much better, thanks.}
 {145}{}{Uh, well now, that might not be the safest thing for you, friend. Seems like you already took a few trips in the ol' Doctor from the way you talk. But if you want to...}
@@ -59,21 +59,21 @@
 {158}{}{All right...from the looks of it, it's gonna cost }
 {159}{}{ bucks. You got the cash, then you're good to go.}
 {160}{}{No guarantees with the ol' Doctor in the back room, of course . . .}
-{161}{}{All right.}
+{161}{}{Tudo certo.}
 {162}{}{That's pretty steep. How about }
 {163}{}{?}
 {164}{}{Never mind. How about me instead?}
-{165}{}{What is this place?}
+{165}{}{O que é este lugar?}
 {166}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
 {167}{}{I don't have enough. I'll be back when I have some more cash.}
 {168}{}{I've changed my mind. Maybe some other time.}
 {169}{}{Well, now...tell you what. }
 {170}{}{ bucks for the whole lot of you, and we'll call it even. What do you say?}
-{171}{}{All right.}
+{171}{}{Tudo certo.}
 {172}{}{I don't know. That's a little steep. How about }
 {173}{}{ bucks?}
 {174}{}{Can you heal just me instead?}
-{175}{}{What is this place?}
+{175}{}{O que é este lugar?}
 {176}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
 {177}{}{I don't have enough. I'll be back when I have some more cash.}
 {178}{}{I've changed my mind. Maybe some other time.}
@@ -107,7 +107,7 @@
 {206}{}{Um, I need a growth removed. My sixth toe.}
 {207}{}{My friend here could use some medical attention.}
 {208}{}{My friends here could use some medical attention.}
-{209}{}{What is this place?}
+{209}{}{O que é este lugar?}
 {210}{}{What is this place again?}
 {211}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
 {212}{}{Nothing more today, actually.}
@@ -135,7 +135,7 @@
 {234}{}{7000? Uh, 5000 bucks is all I have.}
 {235}{}{Hmmm. Tell me about the other implants.}
 {236}{}{Never mind. I had some other questions...}
-{237}{}{I'll come back when I have more money.}
+{237}{}{Eu vou voltar quando eu tiver mais dinheiro.}
 {238}{}{I'll come back when I get a set of Combat Armor.}
 {239}{}{I see. Maybe some other time.}
 {240}{}{Well, technically, "high impact" is standard Dermal Impact Armor with extra assault-issue impact plates crammed under your skin.}
@@ -161,7 +161,7 @@
 {260}{}{I don't know. 40K's pretty steep. I do have $30,000 on me, though.}
 {261}{}{Tell me about the other implants.}
 {262}{}{Never mind. I had some other questions.}
-{263}{}{I'll come back when I have more money.}
+{263}{}{Eu vou voltar quando eu tiver mais dinheiro.}
 {264}{}{I'll come back when I get a suit of Combat Armor.}
 {265}{}{I see. Maybe some other time.}
 {266}{}{The Phoenix Implants take the bite outta fire, lasers and plasma burns...about 5%. I'll need to strip some combat armor for the thermal membranes, and it'll take two days for the operation. 10K oughta cover it.}
@@ -169,7 +169,7 @@
 {268}{}{$10,000's a bit out of my league. How about $8000?}
 {269}{}{Tell me about the other implants.}
 {270}{}{Never mind. I had some other questions.}
-{271}{}{I'll come back when I have more money.}
+{271}{}{Eu vou voltar quando eu tiver mais dinheiro.}
 {272}{}{I'll come back when I get a suit of combat armor.}
 {273}{}{I see. Maybe some other time.}
 {274}{}{Well, technically, "high thermal" is standard Phoenix Armor with some thermal dissipaters layered over the membranes.}
@@ -188,7 +188,7 @@
 {287}{}{40,000 and it's a deal.}
 {288}{}{Tell me about the other implants.}
 {289}{}{Never mind. I had some other questions.}
-{290}{}{I'll come back when I have more money.}
+{290}{}{Eu vou voltar quando eu tiver mais dinheiro.}
 {291}{}{I'll come back when I have another set of combat armor.}
 {292}{}{I see. Maybe some other time.}
 {293}{}{Well...that sounds fair.}

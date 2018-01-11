@@ -1,5 +1,5 @@
-1:The slaughter of Vault City has become the stuff of legend.
-2:One day it was a thriving community, and the next, the body of its Citizens lay strewn throughout the streets.
-3:It looked as if raiders had sacked the city, but no bodies of the attackers were ever found.
-4:Their Vault was plundered of all its technology, and the inhabitants of Gecko soon moved into the broken walls of the city.
-5:In a few short months, they had rebuilt the city and restored much of the systems that had been damaged by the raiders.
+1:O matadouro de Vault City tornou-se o elemento da lenda.
+2:Um dia, era uma comunidade próspera, e o próximo, o corpo de seus Cidadãos estava espalhado pelas ruas.
+3:Parecia que os incursores haviam demitido a cidade, mas nenhum corpo dos atacantes nunca foi encontrado.
+4:O Vault foi saqueada de toda sua tecnologia, e os habitantes de Gecko logo se mudaram para as paredes quebradas da cidade.
+5:Em poucos meses, eles reconstruiu a cidade e restauraram muitos dos sistemas danificados pelos incursores.

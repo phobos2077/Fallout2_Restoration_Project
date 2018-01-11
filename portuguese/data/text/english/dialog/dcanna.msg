@@ -2,10 +2,10 @@
 {101}{}{You see Anna the ghost.}
 {150}{}{This a ghost. That's not something you see every day.}
 {151}{}{She seems quite tormented.}
-{152}{}{[TALK]}
+{152}{}{[FALAR]}
 {153}{}{Oh, the pain! It burns so!}
 {154}{}{What's the matter?}
-{155}{}{Who are you?}
+{155}{}{Quem é você?}
 {156}{}{Begone, foul spirit!}
 {157}{}{I stop and knock at every door, but no one comes, no one hears.}
 {158}{}{I can hear you. What's the matter?}
@@ -25,9 +25,9 @@
 {172}{}{OK. Here you go.}
 {173}{}{Here. May you rest in peace.}
 {174}{}{OK.}
-{175}{}{No.}
+{175}{}{Não.}
 {176}{}{My locket, my locket! I'm coming, Daddy! I'm coming!}
-{177}{}{Goodbye.}
+{177}{}{Adeus.}
 {178}{}{Wait! Don't go!}
 {179}{}{Go into the light.}
 {200}{}{Where could it be?}

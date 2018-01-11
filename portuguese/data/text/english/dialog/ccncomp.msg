@@ -22,7 +22,7 @@
 {121}{}{Okay. Where maintenance?}
 {122}{}{Fine. So where is maintenance located?}
 {123}{}{Searching... Accessing base architectural files... Data acquired. Maintenance is located above ground in the northeast quadrant of the base. }
-{124}{}{Thanks.}
+{124}{}{Obrigado.}
 {125}{}{Searching... Accessing geographical maps... Data acquired. Enclave headquarters is located 175 miles off of the coast of California in the Pacific Ocean. Coordinates are 37 degrees 18 minutes north latitude by 120 degrees 7 minutes west longitude.}
 {126}{}{What the hell all that mean?}
 {127}{}{What the hell does all that crap mean?}
@@ -30,10 +30,10 @@
 {129}{}{How get there?}
 {130}{}{How can I get there?}
 {131}{}{Searching... Accessing transportation directory... Data acquired. Transportation files indicate that 1,257 methods can be used to reach Enclave headquarters. However, records also indicate that only 2 of these methods are currently available. Vertibird transportation can be acquired at Navarro outpost. Ship transportation can be acquired at San Francisco harbor. Please note that ship transportation has been flagged as inaccessible due to security act 9837-334-27A. Ship has been disabled and a passkey is required for reactivation. Base commander, Navarro outpost, currently holds the passkey.}
-{132}{}{Okay.}
+{132}{}{Tudo bem.}
 {133}{}{Got it.}
 {134}{}{Searching... Accessing base architectural files... Data acquired. Armory is located below ground in the northwest quadrant of the base.}
-{135}{}{Me got it.}
+{135}{}{Eu entendi.}
 {136}{}{Yeah, got it.}
 {137}{}{Searching... Accessing base architectural files... Data acquired. Base commander's office is located below ground in the northeast quadrant of the base.}
 {138}{}{Fine.}

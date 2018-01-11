@@ -8,12 +8,12 @@
 {211}{}{Access file on crop rotation.}
 {212}{}{Access file on botany.}
 {213}{}{Access file on animal and biological testing.}
-{214}{}{Back.}
+{214}{}{Voltar.}
 {220}{}{Crop rotation avoids a decrease in soil fertility, as growing the same crop repeatedly in the same place
  eventually depletes the soil of various nutrients. A crop that leaches the soil of one kind of nutrient is followed
  during the next growing season by a dissimilar crop that returns that nutrient to the soil or draws a different ratio
  of nutrients.}
-{221}{}{[MORE]}
+{221}{}{[MAIS]}
 {222}{}{Crop rotation is also used to control pests and diseases that can become established in the soil over time.
  Plants within the same family tend to have similar pests and pathogens. By regularly changing the planting location,
  the pest cycles can be broken or limited.}
@@ -44,7 +44,7 @@
 {252}{}{After extensive testing, Centaurs appear to be the by-product of the Forced Evolutionary Virus. They seem to be
  a mixture of dog, cat, brahmin, and other animals. FEV isn't the only cause of the mutation, however, as radiation also
  appears to have played a role. They seem to prefer living in a heavy radiated environment and as such they radiate everything around them.}
-{253}{}{[MORE]}
+{253}{}{[MAIS]}
 {254}{}{The origin and etymology of Floaters are unknown but they are thought to be related to the Centaurs with which they are often found.
  They too appear to be the result of FEV. Additional testing has shown them to be completely immune to electrical damage.}
 {255}{}{Radscorpions are an extremely large version of the North American Emperor scorpion, mutated by radiation.

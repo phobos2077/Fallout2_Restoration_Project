@@ -78,28 +78,28 @@
  want to be with her after that bastard finished with her. I gave her some money and let her go.}
 {164}{}{Do you know who did it?}
 {165}{}{Do you know what happened?}
-{166}{}{Let me ask you something else.}
+{166}{}{Deixe-me perguntar-lhe algo mais.}
 {167}{}{I'll sort this out for you. You can count on me. Goodbye.}
 {168}{}{I don't know 'xactly who did it, but she had a Morningstar Mine pay scrip in her hand when we
  found her, and it was a miner who was with her last.}
 {169}{}{Can I see the girl?}
 {170}{}{Do you know what happened?}
 {171}{}{A Morningstar Mine pay scrip? What's that?}
-{172}{}{Let me ask you something else.}
+{172}{}{Deixe-me perguntar-lhe algo mais.}
 {173}{}{I'll sort this out for you. You can count on me. Goodbye.}
 {174}{}{Well, there was some screaming and carrying on and so I went to the room. When I got there, the
  bastard who did it was already gone and my girl was in a bad way. So I called the doc and then the
  Sheriff. You know the rest.}
 {175}{}{Do you know who did it?}
 {176}{}{Can I see the girl?}
-{177}{}{Let me ask you something else.}
+{177}{}{Deixe-me perguntar-lhe algo mais.}
 {178}{}{I'll sort this out for you. You can count on me. Goodbye.}
 {179}{}{In the north part of town Dan McGrew runs the Morningstar mine. Usually the miners get paid on
  account or with chits from each mine...you know, scrip. Well, my girl was found with one of those
  pieces of scrip in her hand. Here it is. Look for yourself. (She hands you the scrip)}
 {180}{}{Oh, I see. Can I see the girl?}
 {181}{}{Oh, I see. Do you know what happened?}
-{182}{}{Let me ask you something else.}
+{182}{}{Deixe-me perguntar-lhe algo mais.}
 {183}{}{I'll sort this out for you. You can count on me. Goodbye.}
 {184}{}{Well, I'm sure glad that someone's workin' on it. This type of thing is just bad all the way
  around. I sure hope you make the bastard pay for what he did to my girl. Make sure he cain't never do
@@ -170,7 +170,7 @@
 {233}{}{I'm interested in getting something here.}
 {234}{}{What's going on in this town?}
 {300}{}{You helped cure Fannie's addiction.}
-{301}{}{Goodbye.}
+{301}{}{Adeus.}
 {310}{}{I may have something that can help Fannie. [Give Lou the jet antidote]}
 {1103}{}{Hello there. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
  I just want you to know that I'm thankful for what you did. How can I help you?}

@@ -28,10 +28,10 @@
 {258}{}{Well, I'm fairly skilled in repairing things. Maybe I could help?}
 {259}{}{Well, I'm fairly skilled in the sciences, maybe I could help?}
 {260}{}{The door's locked. Could you open it?}
-{261}{}{Thanks.}
+{261}{}{Obrigado.}
 {275}{}{Thanks for cash. I'm just letting you talk to him. No funny stuff. He can't leave that room without Metzger's okay.}
 {276}{}{Now, I'm just letting you talk to him, okay? No funny stuff. He can't leave that room without Metzger's okay.}
-{277}{}{Okay.}
+{277}{}{Tudo bem.}
 {285}{}{To be sure no one bugs him while he works on something for the boss, but mainly to be sure he doesn't run off.}
 {286}{}{Just to be sure he doesn't run off, I guess. He fixed that radio somehow.}
 {287}{}{Who's your boss?}
@@ -43,7 +43,7 @@
 {297}{}{Well, could you open the door then?}
 {298}{}{Okay, thanks.}
 {305}{}{Of course. I didn't know you wanted to talk to him right now, sorry. I just thought you were curious or something.}
-{306}{}{Thanks.}
+{306}{}{Obrigado.}
 {310}{}{Huh? You just in the habit of walking around into places you don't know? This is the Slaver's Guild.}
 {311}{}{Oh, so that would make your boss's name…}
 {312}{}{Oh, that's where I am? I thought I was in Kansas.}
@@ -56,7 +56,7 @@
 {332}{}{Oh, where's his office?}
 {333}{}{Okay, bye.}
 {340}{}{Right through the back door there.}
-{341}{}{Thanks.}
+{341}{}{Obrigado.}
 {350}{}{Sorry, I don't understand.}
 {351}{}{Hmph.}
 {360}{}{Sorry, Vic doesn't get visitors.}
@@ -68,7 +68,7 @@
 {371}{}{Sure, you can see him. Let me unlock that for you.}
 {372}{}{Tank.}
 {380}{}{Oh really? I'm sure the boss would appreciate it. Just as long as he stays put. We don't want him running off again.}
-{381}{}{Thanks.}
+{381}{}{Obrigado.}
 {390}{}{No, sorry. He's busy working on something for the boss.}
 {391}{}{Sorry, can't do that. Direct orders from the boss.}
 {392}{}{Well, you got my money?}
@@ -77,12 +77,13 @@
 {395}{}{Yes. Here.}
 {396}{}{No. I'll come back.}
 {397}{}{Who's your boss?}
-{398}{}{Nevermind. Bye.}
+{398}{}{Deixa pra lá. Tchau.
+}
 {410}{}{Stop bothering me. Go talk to Metzger. He's the boss.}
 {411}{}{Leave me alone! What's your problem?}
 {412}{}{I said talk to Metzger!}
 {413}{}{Okay, fine! You can talk to him, but that's it! He's not stepping a foot outside that room. Got it? Now beat it!}
-{414}{}{Okay.}
+{414}{}{Tudo bem.}
 {415}{}{Thanks!}
 {430}{}{Yeah, talk to Metzger. I'm sure he has some work available. I think he said he needed another man.}
 {431}{}{Yeah, talk to Metzger. I'm sure he has some work available. He said he needed another man… but I'm sure you'll do.}
@@ -99,14 +100,14 @@
 {470}{}{Well, uh… I don't know. I guess it wouldn't hurt just for you to talk to him. $300 and I'll let you in.}
 {471}{}{You're nuts. That's too much!}
 {472}{}{Screw you, buddy!}
-{473}{}{Sure.}
+{473}{}{Com certeza.}
 {474}{}{Sorry, can't afford that.}
 {480}{}{Fine, see if I care.}
-{481}{}{Okay.}
+{481}{}{Tudo bem.}
 {482}{}{Fine.}
 {490}{}{No, sorry.}
 {491}{}{I said no. Now beat it. You've got to talk to Metzger}
-{492}{}{Okay.}
+{492}{}{Tudo bem.}
 {500}{}{To bad you didn't join us.}
 {501}{}{You should join the guild.}
 {502}{}{Just doing that guard thing.}
@@ -114,4 +115,4 @@
 {504}{}{Vic better be working hard for ya.}
 {505}{}{Maybe I'll catch you on a run.}
 {506}{}{How's it going?}
-{507}{}{Hi, again.}
+{507}{}{Olá, novamente.}

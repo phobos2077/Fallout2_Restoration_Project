@@ -5,7 +5,7 @@
 {104}{}{Agh. Um. Duur.}
 {105}{}{Dr. Jing sent me. He wants some hardened power armor.}
 {106}{}{You can upgrade power armor?}
-{107}{}{Who are you?}
+{107}{}{Quem é você?}
 {108}{}{What do you do here?}
 {109}{}{Nothing, thanks.}
 {110}{}{I swear, there are more subhumans running around every single day. Shoo! Shoo!}
@@ -25,8 +25,8 @@
 {124}{}{What new tech have you developed?}
 {125}{}{Loud and clear. See ya.}
 {126}{}{Well... I *guess* that'll have to do. It's a deal. Do you have the armor to be hardened on you?}
-{127}{}{Yes.}
-{128}{}{No.}
+{127}{}{Sim.}
+{128}{}{Não.}
 {129}{}{Great. That'll cost you $10,000, straight up, no bartering. I need some new equipment.}
 {130}{}{$10,000? That's outrageous! I don't have that kind of money!}
 {131}{}{All right. Here you go.}
@@ -40,7 +40,7 @@ Are you really threatening me for this?}
 {138}{}{I'll be back for the armor.}
 {139}{}{I can't very well work my magic on it if you don't have it. Come back when you do.}
 {140}{}{I have more questions.}
-{141}{}{Bye.}
+{141}{}{Adeus.}
 {142}{}{::he shrugs::
 You want this armor or not? It's $10,000 flat out.}
 {143}{}{I'll get back to you.}
@@ -48,8 +48,8 @@ You want this armor or not? It's $10,000 flat out.}
 {145}{}{Highway robbery. No way.}
 {146}{}{::he looks into your eyes and decides that you're serious::
 Do you have the armor here?}
-{147}{}{Yes.}
-{148}{}{No.}
+{147}{}{Sim.}
+{148}{}{Não.}
 {149}{}{::he looks into your eyes and decides that you're bluffing::
 Try it, bucko. You'll have guards down on your ass and you'll never learn how to harden your armor.}
 {150}{}{Fine. Die, pencil-neck.}
@@ -63,16 +63,16 @@ Try it, bucko. You'll have guards down on your ass and you'll never learn how to
 {158}{}{I see. Well, I have more questions.}
 {159}{}{Hmm. Gotta go. Bye.}
 {160}{}{Hey, I got no beef with you. Just don't hurt me.}
-{161}{}{I have some questions for you.}
+{161}{}{Eu tenho algumas perguntas para você.}
 {162}{}{I'm here for my armor.}
 {163}{}{Too late.}
-{164}{}{Bye.}
+{164}{}{Adeus.}
 {165}{}{It's not ready yet. You have to give me time!}
 {166}{}{Fine. I have some questions.}
 {167}{}{Fine. I'll be back.}
 {168}{}{I've got it right here for you. Take it, take it.}
 {169}{}{Thanks. I have questions.}
-{170}{}{Thanks.}
+{170}{}{Obrigado.}
 {171}{}{Thanks. NOW you can die.}
 {172}{}{I'm out of chemicals for it. Sorry.}
 {173}{}{Then you can answer me some questions.}

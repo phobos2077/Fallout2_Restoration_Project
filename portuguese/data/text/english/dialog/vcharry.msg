@@ -23,10 +23,10 @@
 {124}{}{Working with Dave, eh? Yeah, I know the fella. I see he's still got a knack for getting others to do his leg work--lazy bastard.
  [He chuckles.] Anyway, I think I got what you're lookin for, but lemme just go back an' check. [Harry goes into his back room where you
  hear boxes being shuffled and moved around. He returns a minute later.] Yep, got it right here. $500 and she's all yours.}
-{125}{}{Sure. Here's the money.}
+{125}{}{Com certeza. Aqui está o dinheiro.}
 {126}{}{500? Damn. I hope I get reimbursed for this. Fine, here is the money.}
 {127}{}{Thanks for the business. Take care.}
-{128}{}{Bye.}
+{128}{}{Adeus.}
 {129}{}{Connar sent me for the goods.}
 {130}{}{[Harry's eyes dart around quickly, he seems a bit nervous] Yes, sure. Just a moment...}
 {131}{}{[Harry brings you the rifles.] Here, take em. That'll be ten thousand, and let's make this snappy.}
@@ -37,7 +37,7 @@
 {136}{}{Look, I'm putting my neck on the line . . . Oh, to hell with it, I don't have time to argue. Just take em. [He quickly pockets your money.] Now get outta here. And remember, you didn't buy those from me.}
 {137}{}{Excellent. But remember, you didn't buy these weapons here.}
 {138}{}{It's a deal. Bye.}
-{139}{}{[MORE]}
+{139}{}{[MAIS]}
 {140}{}{Well then, wait a bit until I get the money.}
 {141}{}{Well, have you brought the money?}
 {142}{}{What if I just give you five grand?}

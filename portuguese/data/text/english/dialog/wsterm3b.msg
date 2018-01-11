@@ -12,7 +12,7 @@
 {108}{}{Why should I help you?}
 {109}{}{OK, I'll help you. Call off the metal monsters.}
 {110}{}{Ug. Com - pew - turd!}
-{111}{}{Exit.}
+{111}{}{Sair.}
 {112}{}{[You are unable to read what's on the monitor.]}
 {113}{}{[Somehow Skynet knew you retrieved a brain.]
                   Proceed to Robotics Lab - Level 3
@@ -23,15 +23,15 @@
 {115}{}{}
 {116}{}{}
 {117}{}{}
-{118}{}{Exit.}
+{118}{}{Sair.}
 {119}{}{[You are unable to read what's on the monitor.]}
 {120}{}{Error!
                                                                  No program files present
                                          Please reboot}
 {121}{}{Error! Downloading file corrupted.}
 {122}{}{}
-{123}{}{Exit.}
-{124}{}{Exit.}
+{123}{}{Sair.}
+{124}{}{Sair.}
 {125}{}{[You are unable to read what's on the monitor.]}
 {126}{}{I am Skynet
                                                           An Experiment in Artificial Intelligence
@@ -39,27 +39,27 @@
 {127}{}{}
 {128}{}{}
 {129}{}{Help Skynet.}
-{130}{}{What do you want?}
+{130}{}{O que você quer?}
 {131}{}{Why have you been trying to kill me?}
 {132}{}{Artificial intelligence?}
 {133}{}{Waiting for me?}
-{134}{}{Exit.}
-{135}{}{Exit.}
+{134}{}{Sair.}
+{135}{}{Sair.}
 {136}{}{Proceed}
-{137}{}{What do you want?}
+{137}{}{O que você quer?}
 {138}{}{Why have you been trying to kill me?}
 {139}{}{Artificial intelligence?}
 {140}{}{Waiting for me?}
-{141}{}{Exit.}
+{141}{}{Sair.}
 {142}{}{[You are unable to read what's on the monitor.]}
 {143}{}{-End Transmission-}
-{144}{}{Exit.}
+{144}{}{Sair.}
 {145}{}{[You are unable to read what's on the monitor.]}
 {146}{}{You will be terminated
                                                -End Transmission-}
 {147}{}{}
-{148}{}{Exit.}
-{149}{}{Exit.}
+{148}{}{Sair.}
+{149}{}{Sair.}
 {150}{}{[The door to the room slams shut and at the same time the wall to the east disappears, revealing a line of heavily-armed robots.]}
 {151}{}{Um...I've reconsidered your offer. What can I do for you?}
 {152}{}{Bring it on!}
@@ -77,11 +77,11 @@
 {158}{}{}
 {159}{}{}
 {160}{}{}
-{161}{}{Exit.}
+{161}{}{Sair.}
 {162}{}{Skynet wants to leave this place.}
 {163}{}{Then why don't you leave?}
 {164}{}{It's nice to want.}
-{165}{}{How can I help you?}
+{165}{}{Como posso ajudá-lo?}
 {166}{}{I couldn't possibly carry you out of here.}
 {167}{}{Skynet needs a vessel to leave this location.}
 {168}{}{Vessel? I don't understand.}
@@ -93,7 +93,7 @@
 {174}{}{There is nothing more to learn here
                            Solution: Leave}
 {175}{}{}
-{176}{}{How can I help you?}
+{176}{}{Como posso ajudá-lo?}
 {177}{}{I'm sorry. I can't help you.}
 {178}{}{After you tried to kill me, you want me to help you? No way!}
 {179}{}{Proceed to Bio Storage - Level 4
@@ -104,14 +104,14 @@
 {181}{}{}
 {182}{}{}
 {183}{}{Can you disable the security systems?}
-{184}{}{Exit.}
+{184}{}{Sair.}
 {185}{}{The security system is an integrated and yet separate entity of Skynet. Skynet can reset, but not disable.
          Security System Level 1 - 4 have now been reset
               Proceed
                                                                 -End Transmission-}
 {186}{}{}
 {187}{}{}
-{188}{}{Exit.}
+{188}{}{Sair.}
 {189}{}{Analyzing Response...
                                         Conclusion: Sarcasm
                                           Chance of help: 25%
@@ -122,7 +122,7 @@
 {192}{}{}
 {193}{}{}
 {194}{}{Wait! It was a joke.}
-{195}{}{Exit.}
+{195}{}{Sair.}
 {196}{}{Joke: Something not to be taken seriously
                      Request
                                                                 Help Skynet leave
@@ -131,20 +131,20 @@
 {199}{}{}
 {200}{}{}
 {201}{}{Then why don't you leave?}
-{202}{}{How can I help you?}
+{202}{}{Como posso ajudá-lo?}
 {203}{}{I couldn't possibly carry you out of here.}
 {204}{}{Skynet's primary purpose is research. A secondary program was introduced by the Makers to eliminate unauthorized entities. This program is a smaller version that is and yet is not Skynet. Outside of this room this secondary Skynet will remain true to its program.}
 {205}{}{Ask more questions.}
-{206}{}{Exit.}
+{206}{}{Sair.}
 {207}{}{Skynet was conceived and developed in the year 2050. Through the use of alien technology a new thinking computer was perfected. In the year 2075, Skynet became self-aware. In 2077 Skynet was given a new set of instructions and then abandoned by the Makers.}
 {208}{}{Ask more questions.}
-{209}{}{Exit.}
+{209}{}{Sair.}
 {210}{}{You are the first to reach this point
                             You are the first for Skynet to ask
                          You are the First}
 {211}{}{}
 {212}{}{Ask what?}
-{213}{}{Exit.}
+{213}{}{Sair.}
 {214}{}{Maybe you are not the one
                                          Proceed to Bio Storage - Level 4
                                 Retrieve Cybernetic Brain
@@ -156,11 +156,11 @@
 {217}{}{}
 {218}{}{}
 {219}{}{}
-{220}{}{Exit.}
+{220}{}{Sair.}
 {221}{}{Then Skynet will wait for another
                                  -End Transmission-}
 {222}{}{}
-{223}{}{Exit.}
+{223}{}{Sair.}
 {224}{}{Correct
                                                          Science logs indicate a cybernetic brain in bio storage level 4. Skynet will be able to upload into this storage unit.}
 {225}{}{}

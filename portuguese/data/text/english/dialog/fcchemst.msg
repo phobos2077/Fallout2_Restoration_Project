@@ -9,7 +9,7 @@
 {108}{}{Nothing. I'm leaving now.}
 {109}{}{You don't belong here if you're an imbecile. Run along now, before I call the guards.}
 {110}{}{You really don't understand me, do you? Perhaps you will understand the guards. Guards! Intruder!}
-{111}{}{[DONE]}
+{111}{}{[FEITO]}
 {112}{}{I am Jing Tie Gahng. I am in charge of the chemical laboratory of the Steel Palace... and you are interrupting important work. Please leave. NOW - before I call the guards.}
 {113}{}{Go ahead and call them, old man.}
 {114}{}{Fine, fine. I'm leaving.}
@@ -40,16 +40,16 @@
 {139}{}{That will be quite impossible. Our fuel supply has already vanished. Even if I wanted to help the Hubologists, which I do not, I couldn't. Good day.}
 {140}{}{Okay. Bye.}
 {141}{}{Good. Then let me get back to what I'm doing.}
-{142}{}{[DONE]}
+{142}{}{[FEITO]}
 {143}{}{You can't do it? Then I can't sell you the fuel. Now go away. I'm busy.}
-{144}{}{[DONE]}
+{144}{}{[FEITO]}
 {145}{}{You have hardened power armor? Excellent! How do you want to be paid?}
 {146}{}{Channel fuel to the Hubologists in exchange for this.}
 {147}{}{Channel fuel to the Poseidon Oil tanker.}
 {148}{}{How about some money? I think $}
 {149}{}{I decided I'd rather keep it.}
 {150}{}{Consider it done. I'll make the adjustments shortly. Now, if you'll excuse me, I must get back to work.}
-{151}{}{Thanks. Bye.}
+{151}{}{Obrigado. Tchau.}
 {152}{}{So much? Ah! Yet, for such a powerful suit of armor to study... very well. Here is your money.}
 {153}{}{Thanks. So long.}
 {154}{}{You want to keep it? Very well. If you should change your mind, let me know.}
@@ -57,18 +57,18 @@
 {156}{}{Fat chance. Bye.}
 {157}{}{Guards! Guards! The outsider is back! Kill him! }
 {158}{}{Have you spoken to this Hubologist who calls himself Crocket, and gotten the armor?}
-{159}{}{No, not yet.}
+{159}{}{Não, ainda não.}
 {160}{}{Then why do you keep coming back here to bother me?}
 {161}{}{Because I have some questions.}
 {162}{}{I have no idea. Goodbye.}
 {163}{}{Do not try my patience.}
-{164}{}{What do you want?}
+{164}{}{O que você quer?}
 {165}{}{What do you do here?}
 {166}{}{I'm here to obtain fuel for the Poseidon Oil Tanker.}
 {167}{}{I'm here to obtain fuel for the Hubologists.}
 {168}{}{Nothing. Sorry.}
 {169}{}{We're all out of fuel now. I can't help you with anything else. I'm too busy with this armor. Good day.}
-{170}{}{Bye.}
+{170}{}{Adeus.}
 {171}{}{. I'm just looking around.}
 {172}{}{, do you actually have business here?}
 {173}{}{ would be nice.}

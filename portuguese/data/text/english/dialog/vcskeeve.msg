@@ -22,7 +22,7 @@
 {121}{}{Since you're a part of customs and all, I was wondering if you had any 'advice' on how to bring certain items within the city.}
 {122}{}{Nothing. Sorry to bother you.}
 {123}{}{The Vault? It's inside the city. Why? You looking to get past the gate?}
-{124}{}{Yes.}
+{124}{}{Sim.}
 {125}{}{No, just looking around. Thanks.}
 {126}{}{Well, you could go see my boss, Wallace, and TRY to get permission to get inside, but you'd be wasting your time. He never lets anybody in. Of course, there's other ways...}
 {127}{}{What other ways?}
@@ -34,7 +34,7 @@
 {133}{}{Probably not enough to interest you. I'll be back when I have some more.}
 {134}{}{Never mind. Maybe we'll talk later.}
 {135}{}{Well, there's a few things you can do. One is become a Citizen. They never search Citizens. Of course, your chances of becoming a Citizen are next to nothing.}
-{136}{}{Why?}
+{136}{}{Por quê?}
 {137}{}{What else could I do?}
 {138}{}{Nevermind. Maybe we'll talk some other time.}
 {139}{}{If you're not born a Citizen, then you have to take a test to become a Citizen. Number of Outsiders that have taken the test and become Citizens? Zero. Your chances? LESS than zero.}
@@ -75,7 +75,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {170}{}{Never mind. Maybe we'll talk some other time.}
 {171}{}{Hmmm. Well, all right... I'm feeling charitable today. But don't tell any of your other Outsider
  friends you got them so cheap.}
-{172}{}{All right.}
+{172}{}{Tudo certo.}
 {173}{}{Just give me the damn papers.}
 {174}{}{All right, they're all done printing. Here you are..."Citizen." And don't tell anyone about this,
  ESPECIALLY Wallace, all right?}
@@ -104,12 +104,12 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {193}{}{You again. What do you want?}
 {194}{}{Vant? Vant!}
 {195}{}{Shamble off}
-{196}{}{What is this place?}
+{196}{}{O que é este lugar?}
 {197}{}{I'd like to get inside the city.}
 {198}{}{I'd like to buy those fake Citizenship papers you were offering before.}
 {199}{}{I've decided to turn you in for selling fake Citizenship papers.}
 {200}{}{Since you're a part of customs and all, I was wondering if you had any 'advice' on how to bring certain items within the city.}
-{201}{}{Never mind.}
+{201}{}{Não importa.}
 {202}{}{Look, dim, get out of here, or I'll call the guards.}
 {203}{}{Look, dim, get out of h -- Mmmm. Wait a minute. Maybe...}
 {204}{}{Hurnh?}
@@ -157,7 +157,8 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {243}{}{Hmmmm. How much for the Citizenship papers again?}
 {244}{}{If I have to pry it from his dead fingers, I will.}
 {245}{}{How do you become a real Citizen?}
-{246}{}{Nothing, never mind.}
+{246}{}{Nada, esquece.
+}
 {247}{}{No, thanks. Maybe some other time.}
 {248}{}{If you're not born a Citizen, then you have to take a test to become a Citizen. Number of
  Outsiders that have taken the test and become Citizens? Zero. Your chances? LESS than zero.}

@@ -26,7 +26,7 @@
  sell it to merchants in various towns. All very boring, if you ask me.}
 {176}{}{Have you come to the right place! This town is so boring, there's nothing else to do but gossip
  and… [She keeps talking for awhile and sometime later you're able to get a word in.]}
-{177}{}{What else do you want to know?}
+{177}{}{O que mais você quer saber?}
 {178}{}{What do you know about the Cornelius's missing watch?}
 {179}{}{You mentioned something about Rose?}
 {180}{}{What's this about a mutated brahmin?}

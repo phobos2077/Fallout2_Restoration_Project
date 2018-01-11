@@ -5,13 +5,13 @@
 {104}{mcs1b}{What do you want, human?}
 {105}{mcs1c}{Something else you wanted?}
 {106}{}{Uggie.}
-{107}{}{Who are you?}
+{107}{}{Quem é você?}
 {108}{}{What's the story with this place?}
 {109}{}{Why aren't you mutants attacking me?}
 {110}{}{What's the news?}
 {111}{}{I have something I wanted to tell you.}
 {112}{}{You wanna travel with me?}
-{113}{}{Bye.}
+{113}{}{Adeus.}
 {114}{mcs3}{Yeah, I'm a ugly mutant. I also run this place. You got a problem with that?}
 {115}{}{Uh!}
 {116}{}{Nuh.}
@@ -25,7 +25,7 @@
 {124}{mcs7}{I'm Marcus. Helped build the place. Now I'm sheriff.}
 {125}{}{You helped build this place? That must have been a long time ago…}
 {126}{}{Bullshit. How could you have been around that long?}
-{127}{}{Bye.}
+{127}{}{Adeus.}
 {128}{mcs8}{Long story. Want it short or the whole thing?}
 {129}{}{Give me the short version.}
 {130}{}{Hell, I'm not too busy. Let's hear it all.}
@@ -60,7 +60,7 @@
 {159}{}{How ‘bout more questions while I think it over.}
 {160}{}{Let me think about it. Bye.}
 {161}{mcs17}{That ain't good enough for you? Then get out.}
-{162}{}{Bye.}
+{162}{}{Adeus.}
 {163}{mcs18}{Got a little trouble with the mine. If you're interested in helping fix it, go talk to Zaius, the mine foreman.}
 {164}{}{Where can I find him?}
 {165}{}{You got anything else?}
@@ -69,20 +69,20 @@
 {168}{mcs19}{Usually at the mine. Sometimes the saloon.}
 {169}{}{Got anything else?}
 {170}{}{I have more questions.}
-{171}{}{Bye.}
+{171}{}{Adeus.}
 {172}{mcs20}{Somebody busted two lunatics out of the jail in the Bank. Find ‘em. Tell me and I'll stuff ‘em back in.}
 {173}{}{Got anything else?}
 {174}{}{I have more questions.}
-{175}{}{Bye.}
+{175}{}{Adeus.}
 {176}{mcs21}{What exactly do you want? Okay. We've got some folks missing. No idea what's happened. Find ‘em, get $500.}
 {177}{}{I'll do it for free.}
 {178}{}{$500? Sounds good.}
 {179}{}{I don't have time.}
 {180}{}{I have more questions.}
-{181}{}{Bye.}
+{181}{}{Adeus.}
 {182}{mcs22}{Great. Let me know when you've found something, right?}
 {183}{}{Sure. I have more questions.}
-{184}{}{Will do. Bye.}
+{184}{}{Vai fazer. Tchau.}
 {185}{mcs23}{Yeah? What?}
 {186}{}{You wanted me to find those missing people. I've found some tunnels below the city. They might be there.}
 {187}{}{I've found those missing people. They're in tunnels beneath the city.}
@@ -98,7 +98,7 @@
 {197}{mcs25a}{They're dead? Damn… I'll tell the families myself. }
 {198}{mcs25b}{Here's your reward. $500. Thanks for your time.}
 {199}{mcs25c}{Oh, hey, I know you said you'd do this for free, but take this as our thanks.}
-{200}{}{Sure.}
+{200}{}{Com certeza.}
 {201}{mcs26}{Right. Me and my deputies will take it from here...And, thanks. I don't forget things like this.}
 {202}{}{No prob. Bye.}
 {203}{mcs27}{What is it people got against mutants? We'll be on the lookout. Thanks. The town owes you. And I never forget things like this.}
@@ -106,24 +106,24 @@
 {205}{mcs28}{Keep your eye on him, will you? I want to catch him red-handed.}
 {206}{}{No problem.}
 {207}{mcs29}{Well, in that case, we'd better be sure to stop him. Want to come along?}
-{208}{}{Sure.}
-{209}{}{No, thanks.}
+{208}{}{Com certeza.}
+{209}{}{Não, obrigado.}
 {210}{mcs30}{You want me to come along with you? Ah, what the hell, I'm too old to settle down. We goin' now?}
-{211}{}{Yes.}
+{211}{}{Sim.}
 {212}{}{No, not right now.}
 {213}{mcs31}{Ah, there's too much going on right now. When things calm down, then I just might.}
 {214}{}{Sure. I got more questions.}
-{215}{}{Bye.}
+{215}{}{Adeus.}
 {216}{mcs32}{Damn right. Best friend I ever had.}
 {217}{}{Yeah, right, you would've dipped him just like everyone else.}
-{218}{}{Bye.}
+{218}{}{Adeus.}
 {219}{mcs33}{Hell, yes, I would've. What a great mutant he would've been.}
 {220}{}{I don't think he'd be happy to hear you say that.}
-{221}{}{Bye.}
+{221}{}{Adeus.}
 {222}{mcs34}{(laughs) We had this argument all the time. (sighs) I miss that hard-head.}
 {223}{}{What about the Master's hatred for humans?}
 {224}{}{I still think it's a rotten fate.}
-{225}{}{Bye.}
+{225}{}{Adeus.}
 {226}{mcs35}{You're talking a long time ago. The world's moved on. You want to hear ancient history?}
 {227}{}{Definitely.}
 {228}{}{Not right now. I'd like to ask some other questions, though.}
@@ -188,7 +188,7 @@
 {287}{}{Got it. Just so you know.}
 {288}{}{Humph. Something wasn't right.}
 {289}{mcs109}{You want me back now?}
-{290}{}{Okay.}
+{290}{}{Tudo bem.}
 {291}{}{Not just yet. Goodbye.}
 {292}{mcs110}{What do you want?}
 {293}{}{How are you feeling?}
@@ -200,10 +200,10 @@
 {299}{mcs111c}{You got anything to help?}
 {300}{mcs111d}{Maybe you should have a look at this.}
 {301}{}{Use your skills to heal yourself.}
-{302}{}{Never mind.}
+{302}{}{Não importa.}
 {303}{}{OK}
 {304}{mcs160}{I'll just stay here and tighten the vises on my shoulder.}
-{305}{}{Never mind.}
+{305}{}{Não importa.}
 {306}{}{OK}
 {307}{}{North.}
 {308}{}{Northwest.}
@@ -216,7 +216,7 @@
 {315}{}{Don't ask me. I don't know. }
 {316}{}{Yep.}
 {317}{}{Right.}
-{318}{}{Nope.}
+{318}{}{Não.}
 {319}{}{Why're you talking to me like this?}
 {320}{}{Not very nice.}
 {321}{}{Thanks. }
@@ -251,7 +251,7 @@
  what did you mean?}
 {350}{mcs113}{Didn't your folks explain this to you?}
 {351}{}{No, I mean, I thought all you mutants were sterile.}
-{352}{}{Never mind.}
+{352}{}{Não importa.}
 {353}{mcs114}{What? Where the hell did you hear that?}
 {354}{}{So... you AREN'T sterile?}
 {355}{}{Nevermind.}

@@ -31,7 +31,7 @@
 {291}{}{Tell me about trappers.}
 {292}{}{I'm looking for a trader. Know any of them that deal in old items, like from the beforetimes?}
 {293}{}{Do you happen to know how to get to the Den from here?}
-{294}{}{Bye.}
+{294}{}{Adeus.}
 {295}{}{Jenny, have you ever heard of something called a GECK?}
 {300}{}{Well, there's not much to tell about the trappers, really. They get a few gecko pelts...or get
  lucky with a few golden geckos...and then they come in to blow off some steam. Quick and not too
@@ -55,7 +55,7 @@
 {330}{}{The Den is a hive of scum and villainy southeast of here. I guess about a week or so? Don't
  remember too clearly. Anyhow, it's an exciting place. Dangerous, but exciting. Sorry to leave there,
  in a way.}
-{331}{}{Let me ask you something else.}
+{331}{}{Deixe-me perguntar-lhe algo mais.}
 {332}{}{I think I'll leave now, thanks.}
 {340}{}{I don't rightly know where Vic is. I know he has a house just down the street from us, to the
  east. He could be out trading with tribals or even in the Den, for all I know. I hope he's okay. He was

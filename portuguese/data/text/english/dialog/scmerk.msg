@@ -34,7 +34,7 @@
 {133}{}{Some say you might know a thing or two about, oh say, stuff missing from cars.}
 {134}{}{You again? So's the job done?}
 {135}{}{Glub.}
-{136}{}{No.}
+{136}{}{Não.}
 {137}{}{I got some questions}
 {138}{}{Hmm... Strong. Dumb...If you want a job, talk to Mira. Understand? Mi-ra. Over there.}
 {139}{}{Like making noises? Will somebody get this brahmin turd out of here?}
@@ -62,7 +62,7 @@
 {161}{}{Have it your way.}
 {162}{}{True. Been too dull around here. Time for a little one-on-one in the basement. Come on, Lenny, I want to watch you kill this}
 {163}{}{Like I've got problems that need solving.}
-{164}{}{Such as?}
+{164}{}{Como?}
 {165}{}{Jet? Are you proposing something...?}
 {166}{}{My friend here knows how to make it. Interested?}
 {167}{}{Something illegal? No, I wouldn't do that.}
@@ -87,7 +87,7 @@
 {186}{}{Now, I suggest you leave.}
 {187}{}{By all means, call in the officers. Of course, I assume you have evidence to back up your wild accusation.}
 {188}{}{Yeah, sure.}
-{189}{}{Never mind.}
+{189}{}{Não importa.}
 {190}{}{Such as there's a damn Hubologist in town who has irritated me. Once this itch is scratched, come back and talk to me.}
 {191}{}{Consider it done. I got just the backscratcher for him but... what's a Hubologist and where do I find him?}
 {192}{}{How dare you speak against the true belief!}
@@ -135,7 +135,7 @@
 {234}{}{Your feeble attempts to intimidate me are almost amusing, but now I suggest you leave before I tire of this game.}
 {235}{}{Ah, I've heard the news. You still interested in a job?}
 {236}{}{Yeah, I'm tired of freebies. I could use the work.}
-{237}{}{No.}
+{237}{}{Não.}
 {238}{}{What the hell you doing in my place?}
 {239}{}{I was out of line before. I won't do it again. I just want a little of your time.}
 {240}{}{I'll do what I want, you weasel.}
@@ -145,7 +145,7 @@
 {244}{}{That disappoints me. I normally remove things that disappoint me. However, in your case I can be generous. Just leave and don't come back and I'll forget all about it.}
 {245}{}{So, is that little business with Dr. Henry done?}
 {246}{}{Yeah, I got the papers you want.}
-{247}{}{No.}
+{247}{}{Não.}
 {248}{}{Days like this make me so happy. Well, let's conclude our business.}
 {249}{}{It has come to my attention that the ingenious doctor expired during your visit. That was against my orders. To recoup future losses I think it will be necessary to receive a refund.}
 {250}{}{Look, I'll just give you 500 bucks and we'll forget the whole deal.}

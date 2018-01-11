@@ -63,7 +63,7 @@
 {162}{}{Okay, here you go.}
 {163}{}{Uh, what I meant was, how do I go about getting Citizenship?}
 {164}{}{My apologies, Citizen. I didn't mean to offend you. You have clearance to enter.}
-{165}{}{Very well.}
+{165}{}{Muito bem.}
 {166}{}{Look, "Citizen," you need a Day Pass to get in here, all right? Don't try to trick me again.}
 {167}{}{(Leave.)}
 {168}{}{Hmmmnn... these look legit. Funny, I don't recall ever seeing you around before.}
@@ -77,9 +77,9 @@
 {176}{}{All right. Goodbye.}
 {177}{}{Well, all right, you're cleared to enter. Vault City prevails, Citizen.}
 {178}{}{Uh, yes... Vault City prevails, Citizen.}
-{179}{}{Thanks.}
+{179}{}{Obrigado.}
 {180}{}{Day Pass, please.}
-{181}{}{Here you go.}
+{181}{}{Aqui está.}
 {182}{}{I don't need a Day Pass. I'm a Citizen.}
 {183}{}{I was just stopping by to see how you were doing.}
 {184}{}{I don't have time for small talk, all right? Now get out of here.}
@@ -106,9 +106,9 @@
 {204}{}{Forget it, then. I don't need to get into Vault City that badly.}
 {205}{}{Sorry, can't let you in with those items in your possession. Drugs and alcohol are not permitted in Vault
  City. Ditch them then come back, all right?}
-{206}{}{Okay.}
+{206}{}{Tudo bem.}
 {207}{}{All right, it looks like you're clean. You can head on in.}
-{208}{}{Thanks.}
+{208}{}{Obrigado.}
 {209}{}{Yup. Heer}
 {210}{}{Byeeee}
 {211}{}{Uh… (Studies you for a moment, then shrugs.) }

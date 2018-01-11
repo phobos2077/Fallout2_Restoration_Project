@@ -43,7 +43,7 @@
 {140}{}{Your secret's safe. I got it from a reliable source.}
 {141}{}{You might try the caves or the area near the homes. I understand there are plenty of monsters
  there.}
-{142}{}{Thanks. Bye.}
+{142}{}{Obrigado. Tchau.}
 {143}{}{Humanoids, eh? Any humanoids in particular?}
 {144}{}{Humans.}
 {145}{}{Ghouls.}
@@ -56,9 +56,9 @@
 {152}{}{Oh, well, if you got it from a reliable source, then yeah. Are you going to put an end to the
  mutants' domination?}
 {153}{}{Yep.}
-{154}{}{No.}
+{154}{}{Não.}
 {155}{}{Then I guess I'd better start cleaning up the loose ends.}
-{156}{}{[DONE]}
+{156}{}{[FEITO]}
 {157}{}{I don't support killin' in this store. Get out.}
 {158}{}{Yeah, whatever. Bitch.}
 {159}{}{Ghouls are useful slaves. They ain't got enough minds of their own to be people, but they ain't
@@ -68,16 +68,16 @@
 {162}{}{If you're really interested in killing mutants, maybe you ought to go talk to Jacob the chemist.}
 {163}{}{Jacob, eh? Will do.}
 {164}{}{Thought you might be. Now get along.}
-{165}{}{Sure.}
+{165}{}{Com certeza.}
 {166}{}{In that case, take the hidden passage in the floor in my room down to the stronghold. I got a
  small arsenal down there. Git going.}
-{167}{}{Thanks.}
+{167}{}{Obrigado.}
 {168}{}{Coincidentally, I got rid of all the guns I had except what you see here. Help you with
  somethin' else?}
-{169}{}{Yes.}
-{170}{}{No.}
+{169}{}{Sim.}
+{170}{}{Não.}
 {171}{}{I ain't sellin' to you. Get out of my store.}
-{172}{}{[DONE]}
+{172}{}{[FEITO]}
 {173}{}{The store is closed. We open at eight.}
 {174}{}{Hey! Get away from there!}
 {175}{}{That's it! You asked for it!}
@@ -86,8 +86,8 @@
 {180}{}{I'm not going to warn you again. Stay away from there!}
 {181}{}{That's it! Get over here!}
 {182}{}{What else are you going to bother me with?}
-{183}{}{Thanks.}
-{184}{}{[CONTINUE]}
+{183}{}{Obrigado.}
+{184}{}{[CONTINUAR]}
 {185}{}{Hey! Who the hell is out there?}
 {186}{}{I don't know who you are, but I'm comin' for ya'.}
 {200}{}{Do you have anything special you could set me up with that isn't on the shelves?}

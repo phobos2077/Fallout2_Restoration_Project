@@ -7,7 +7,7 @@
 {103}{}{You have come to the Stables. A new chainlink fence surrounds the two farm
  section entrances.}
 {150}{}{[PREVIOUS]}
-{151}{}{[MORE]}
+{151}{}{[MAIS]}
 {201}{}{Salvatore}
 {202}{}{Bishop}
 {203}{}{Mordino}
@@ -116,7 +116,7 @@
 {403}{}{Piston}
 {404}{}{Hurricane}
 {405}{}{Big Bad Muthuh}
-{406}{}{Chosen One}
+{406}{}{Escolhido}
 {407}{}{Raging Bull}
 {408}{}{LaMotta}
 {409}{}{Sledge}

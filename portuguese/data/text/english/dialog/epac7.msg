@@ -29,7 +29,7 @@
 {290}{}{Hello there. I'm a little busy at the moment designing a new tour program for the coming season. Could you come back later?}
 {291}{}{I would, but I'm in too much of a hurry. You see, I *really* need the password for those doors. Would you please give it to me?}
 {300}{}{Thanks again for your assistance, and please be responsible with the password I gave you. Remember, that's our little secret. Thank you for visiting the EPA, I hope you have a pleasant experience.}
-{301}{}{Thanks. Bye.}
+{301}{}{Obrigado. Tchau.}
 {302}{}{Come visit us again sometime.}
 {303}{}{Don't forget to visit the EPA souvenir stand.}
 {310}{}{Do you think you could fix the lighting? It's improper for me to conduct tours through such a dimly lit complex.

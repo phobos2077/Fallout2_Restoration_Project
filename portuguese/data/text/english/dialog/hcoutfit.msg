@@ -9,7 +9,7 @@
 {108}{}{What can you tell me about Chad?}
 {109}{}{Sorry about Chad. He had it coming.}
 {110}{}{Guess your caravan master Chad is in deep shit now.}
-{111}{}{Who are you?}
+{111}{}{Quem é você?}
 {112}{}{Sorry, kid, but I can't make out a word of what you're saying. Have a lollipop.}
 {113}{}{Oooh!}
 {114}{}{Sure. There's a heap of brahmin crap out back. Shovel that for a day and I'll give you $100.
@@ -24,7 +24,7 @@
 {120}{}{I'll do the caravan to NCR.}
 {121}{}{How about Vault City?}
 {122}{}{I changed my mind. I'd like something else, instead.}
-{123}{}{Bye!}
+{123}{}{Adeus!}
 {124}{}{Yeah? What do you wanna buy?}
 {125}{}{You got questions about Chad? Like what?}
 {126}{}{Is he skimming off the top?}
@@ -39,19 +39,19 @@
 {133}{}{Not interested? All right. Come back when I can do something for you.}
 {134}{}{Okay!}
 {135}{}{Well, actually, I was interested in something else.}
-{136}{}{Bye.}
+{136}{}{Adeus.}
 {137}{}{All right. Gecko it is. Come back on the 1st of the month and you'll be on your way. Want anything else?}
-{138}{}{Yes.}
-{139}{}{No.}
+{138}{}{Sim.}
+{139}{}{Não.}
 {140}{}{All right. The Republic it is. Come back on the 11th of the month and you'll be on your way. Want anything else?}
 {141}{}{All right. Vault City it is. Come back on the 21st of the month and you'll be on your way. Want anything else?}
-{142}{}{What do you want?}
+{142}{}{O que você quer?}
 {143}{}{I'm looking for a job.}
 {144}{}{I need to buy stuff.}
 {145}{}{What can you tell me about Chad?}
 {146}{}{Sorry about Chad. He had it coming.}
 {147}{}{Guess your caravan master's in deep shit now.}
-{148}{}{Who are you?}
+{148}{}{Quem é você?}
 {149}{}{Nice dealin' with ya'. You want anything more from me?}
 {150}{}{Sorry. That doesn't cut it for me. You want anything more from me?}
 {151}{}{No. Bye!}
@@ -74,11 +74,11 @@
  And … he's a hell of a caravan master. That's all.}
 {163}{}{I have some more questions.}
 {164}{}{I want some other things.}
-{165}{}{Thanks.}
+{165}{}{Obrigado.}
 {166}{}{I'm off duty now. Talk to me when I'm at the shop.}
 {167}{}{He had it coming? You piece of crap, money ain't worth killing over. Get the hell out of my
  store.}
-{168}{}{Bye.}
+{168}{}{Adeus.}
 {169}{}{Any trouble he's in, he made for himself. Too bad… he was a hell of a caravan master. You want
  something?}
 {170}{}{Out of my store. Y'ain't wanted here.}
@@ -98,7 +98,7 @@
 {183}{}{Yeah? Fine. Get out of my store. Come back when you got enough guts to make the trip.}
 {184}{}{Great. Then get going.}
 {185}{}{I wanted something else first.}
-{186}{}{All right.}
+{186}{}{Tudo certo.}
 {187}{}{Pal, I can't do anything else for you now. With all the mutants dead, we got no one to work the
  mine effectively. This town's gonna ghost in a year or two. Ain't nothing else here. So long.}
 {188}{}{Sorry, pal. I got nothing for you to do anymore. Ya' shoveled all the crap I had.}
@@ -126,7 +126,7 @@
 {207}{}{Yep, I'm all set. Let's go.}
 {208}{}{Not quite yet. I'll let you know when I'm ready. Thanks.}
 {209}{}{Not yet. I'll let you know when I'm ready. I have some more questions.}
-{210}{}{Thanks.}
+{210}{}{Obrigado.}
 {211}{}{[continue]}
 {212}{}{I'm sorry, but without Chad around to help manage personnel, I can't be givin' out work the way I used to. I'm gonna miss
  that poor bastard. Dyin' out in the wastes like some wounded brahmin.}

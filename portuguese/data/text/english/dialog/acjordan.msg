@@ -1,11 +1,10 @@
-{100}{}{You see Jordan, twirling his spear as usual.}
-{101}{}{You see Jordan, twirling his spear as usual.}
-{102}{}{Good luck! Our village depends on you.}
-{103}{}{Chosen One, the way you use a spear, you'll be meat for the geckos
- in no time. I can show you a few tricks.}
-{104}{}{Sure.}
-{105}{}{No, thanks.}
-{106}{}{This will take a little while.}
-{107}{}{You're a swift student -- it looks like you've learned all I can
- teach you.}
-{108}{}{Thanks Jordan, that's going to help a lot.}
+{100}{}{Você vê Jordan, girando sua lança como de costume.}
+{101}{}{Você vê Jordan, girando sua lança como de costume.}
+{102}{}{Boa sorte! A nossa aldeia depende de você.}
+{103}{}{Escolhido, a forma como você usa uma lança, você vai ser carne para o lagartixas em algum momento. Eu posso mostrar-lhe alguns truques.}
+{104}{}{Com certeza.}
+{105}{}{Não, obrigado.}
+{106}{}{Isso vai demorar um pouco.}
+{107}{}{Você é um estudante rápido - parece que aprendeu tudo o que posso
+  te ensinam.}
+{108}{}{Obrigado Jordan, isso vai ajudar muito.}

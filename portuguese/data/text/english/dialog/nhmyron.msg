@@ -197,7 +197,8 @@
 {682}{}{Forget this. Different topic…}
 {683}{}{I can see where this is going. Nevermind, Myron.}
 {690}{myn109}{Ah, Christ. Well...when I came across the Mordino family way back when, they were farming peyote cacti and trying to sell it to tourists as the 'Reno experience.' Total bullshit.}
-{691}{}{Go on.}
+{691}{}{Continue.
+}
 {692}{}{Forget this. I had some other questions…}
 {693}{}{Forget I mentioned it.}
 {700}{myn110}{I mean, peyote? C'mon. It isn't even half the strength of, say, old school LSD.}
@@ -365,14 +366,14 @@
 {1176}{}{Bye-bye}
 {1177}{}{Your guards are too busy being dead to be watching the door.}
 {1178}{}{I used this badge. Marjorie sent me.}
-{1179}{}{Who are you?}
+{1179}{}{Quem é você?}
 {1180}{}{You Myron?}
 {1181}{}{Easy there, tiger. Keep those hormones in check. Who are you?}
 {1182}{}{Easy there, tiger. Keep those hormones in check. You Myron?}
 {1183}{}{Sorry. I seem to have entered the wrong room.}
 {1195}{myn202}{So. Who are you? Spill it, or I'll have the guards BEAT it out of you.}
 {1196}{}{Your guards are too dead to do much of anything. Got any other questions, you little shit?}
-{1197}{}{Who are you?}
+{1197}{}{Quem é você?}
 {1198}{}{You Myron?}
 {1199}{}{I think I'll just go take a walk out of here. Nice meeting you.}
 {1205}{myn203}{Great. One of the mental midgets from upstairs. Look, I ain't got much here, but you can, tuh-tuh-take whatever you want.}
@@ -646,7 +647,7 @@
 {5616}{}{Sure am. Try me.}
 {5617}{}{I think I could show you a thing or two.}
 {5725}{}{Fine, fine. What was the problem with making barbiturates?}
-{5741}{}{Why?}
+{5741}{}{Por quê?}
 {5851}{}{Yes...?}
 {5861}{}{I thought so.}
 {6208}{}{?}

@@ -4,8 +4,8 @@
 {103}{}{Let's see how you like this, you antisocial jerk.}
 {104}{}{Whaddya want?}
 {105}{}{Nyug aarg.}
-{106}{}{Who are you?}
-{107}{}{What is this place?}
+{106}{}{Quem é você?}
+{107}{}{O que é este lugar?}
 {108}{}{Ever hear of a GECK?}
 {109}{}{Say, Eric asked me to adjust the power ration to his house. He said that he's sweating too much.}
 {110}{}{Hey, Eric's really happy in his nice cool house. And I notice the power hasn't failed across the city.}
@@ -33,7 +33,7 @@
 {132}{}{Well, no, it's not. Not really. I mostly just sit here and make sure none of the dials flip out. I make some minor adjustments. I flip some switches. That's about all. Anyone could do it.}
 {133}{}{So, say, you could send more power to Eric's home?}
 {134}{}{Anyone, eh? I have other questions.}
-{135}{}{Thanks. Bye.}
+{135}{}{Obrigado. Tchau.}
 {136}{}{Well, with the uranium mine right there, and with atomic power being the power of the future, it seems only right that we keep up with the times. We might be small, but we're progressive.}
 {137}{}{Hmm. Right. I have other questions.}
 {138}{}{Right. Bye.}
@@ -43,7 +43,7 @@
 {142}{}{You're all heart, big guy.}
 {143}{}{Go shove it up the lips you never kiss with. No thanks to you for making this harder than it had to be.}
 {144}{}{Maybe he just ought to bathe more often. Good day.}
-{145}{}{Bye.}
+{145}{}{Adeus.}
 {146}{}{No. I'm afraid not. The needs of the city outweigh the needs of the one.}
 {147}{}{I have other questions, then.}
 {148}{}{That's very utilitarian of you. I'll let him know he's not important. Goodbye.}

@@ -29,7 +29,7 @@
 {177}{}{I'll bet you're nicer than you look.}
 {178}{}{Let's play tag. You're it.}
 {179}{}{You don't smell that bad.}
-{180}{}{Have you seen my invisible friend?}
+{180}{}{Você viu meu amigo invisível?}
 {181}{}{I want to travel the world when I'm as old as you.}
 {182}{}{You're a nice tribal, not like the others.}
 {183}{}{I bet you do to bathe.}
@@ -38,7 +38,7 @@
 {186}{}{I want to be just like you when I grow up.}
 {187}{}{My dog loves drymeat.}
 {188}{}{I've got a shiny pebble.}
-{189}{}{Have you seen my invisible friend?}
+{189}{}{Você viu meu amigo invisível?}
 {190}{}{Can I join your tribe?}
 {191}{}{You're nice.}
 {192}{}{You look funny.}
@@ -73,30 +73,30 @@
 {221}{}{Do you like me?}
 {222}{}{Are you married?}
 {223}{}{One, two, three - weee!}
-{1000}{}{Elder}
-{1001}{}{Founder}
-{1002}{}{Vault Dweller}
+{1000}{}{Ancião}
+{1001}{}{Fundador}
+{1002}{}{Morador do Vault}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{Chosen One}
-{1007}{}{Shaman}
+{1006}{}{Escolhido}
+{1007}{}{Xamã}
 {1008}{}{Hakunin}
-{1009}{}{Healing Powder}
-{1010}{}{Bridge}
+{1009}{}{Cura Em Pó}
+{1010}{}{Ponte}
 {1011}{}{Mynoc}
-{1100}{}{The Elder is your mother and our leader.}
-{1101}{}{Our great ancestor who gave us knowledge.}
-{1102}{}{The first to fight and win over chaos.}
-{1103}{}{That would be our beautiful village.}
+{1100}{}{O Ancião é a sua mãe, e o nosso líder.}
+{1101}{}{Nosso grande ancestral que nos deu conhecimento.}
+{1102}{}{O primeiro a lutar e a vitória sobre o caos.}
+{1103}{}{Essa seria a nossa bela aldeia.}
 {1104}{}{That's trading outpost a few days east of here.}
-{1105}{}{The Vault is heaven.}
-{1106}{}{You are the Chosen One.}
+{1105}{}{O Vault é o paraíso.}
+{1106}{}{Você é o Escolhido.}
 {1107}{}{He heals us with his herbs and magic. He is in the north part
  of our village.}
 {1108}{}{He heals us with his herbs and magic. He is in the north part
  of our village.}
-{1109}{}{It is a magic powder which will heal you, but will make you
- sleepy.}
-{1110}{}{The Great Bridge exits our village in the south.}
-{1111}{}{He guards the bridge leading into our village.}
+{1109}{}{É um pó mágico que irá curá-lo, mas irá fazer você
+  sonolento.}
+{1110}{}{A Grande Ponte sai da nossa aldeia no sul.}
+{1111}{}{Ele guarda a ponte que leva para a nossa aldeia.}

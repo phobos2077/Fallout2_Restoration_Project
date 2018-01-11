@@ -23,17 +23,17 @@
 {122}{}{Is that so? Well, I know EVERY Citizen in Vault City, and I don't recognize you. Where's your papers?}
 {123}{}{You want them? Come get them.}
 {124}{}{I don't have them on me.}
-{125}{}{Here you go.}
+{125}{}{Aqui está.}
 {126}{}{Then stop wasting my time, "Citizen." Come on, let's move it.}
 {127}{}{Your business is over for the day. Come on, let's move it.}
 {128}{}{I'm not going anywhere. You try and move me, you'll regret it.}
 {129}{}{All right, I'm going.}
 {130}{}{Captain. Can I help you... sir?}
 {131}{}{Can I help you, Citizen?}
-{132}{}{What do you want?}
+{132}{}{O que você quer?}
 {133}{}{Yah!}
 {134}{}{Shamble off}
-{135}{}{Who are you?}
+{135}{}{Quem é você?}
 {136}{}{Nothing, sorry to disturb you.}
 {137}{}{Come with me, boy. NOW.}
 {138}{}{Come with me, lady. NOW.}
@@ -57,7 +57,7 @@
 {156}{}{Raiders?}
 {157}{}{About those Raiders...}
 {158}{}{Can I ask you some questions?}
-{159}{}{Thanks. Goodbye.}
+{159}{}{Obrigado. Adeus.}
 {160}{}{Permission to speak freely, sir.}
 {161}{}{Granted.}
 {162}{}{No. I had some other questions for you, first.}
@@ -100,7 +100,7 @@
 {199}{}{Can I ask you something else?}
 {200}{}{But I am a Citizen.}
 {201}{}{How do you become a citizen?}
-{202}{}{Thanks. Goodbye.}
+{202}{}{Obrigado. Adeus.}
 {203}{}{That so? I don't recognize you, and I know every Citizen in Vault City.}
 {204}{}{Here's my papers. I think you'll find everything in order.}
 {205}{}{Uh, never mind. I had some other questions...}
@@ -213,7 +213,7 @@
 {312}{}{Yeah? Has it got a Northern California world map installed?}
 {313}{}{Yes. Well, at least from what I can see through the fog of war on the damn thing.}
 {314}{}{I got a job for you, then. I need someone to scout the terrain around Gecko... that ghoul encampment to the northeast. Hit the eight sectors on the world map around the town, then report back.}
-{315}{}{Why?}
+{315}{}{Por quê?}
 {316}{}{No problem. I've already scouted out the area.}
 {317}{}{All right. I'll come back when I've scouted the area.}
 {318}{}{On second thought, count me out. Goodbye.}
@@ -246,7 +246,7 @@
 {344}{}{I don't think I want this job. Maybe some other time.}
 {345}{}{That so? Heh.}
 {346}{}{All right then. Download the information into my Pip Boy, and I'll log it into the patrol computers.}
-{347}{}{All right.}
+{347}{}{Tudo certo.}
 {348}{}{This intelligence looks good. Well done. Here's payment for your services, five hundred dollars... plus, you might find this useful.}
 {349}{}{What is it?}
 {350}{}{It's a Vault-Tec Motion sensor. We were going to strip it for parts, since it's too old for our Pip Boys, but it looks like it's compatible with your model.}
@@ -297,15 +297,15 @@
 {395}{}{I'll think about it. Can I ask you a few questions?}
 {396}{}{No, not my kind of job. Goodbye.}
 {397}{}{Excellent. Here, let me show you the exact location of the village. [Stark marks the village on your Pip-Boy map.] Pay's $750, just come back and collect once you finish the task. One more thing -- if you don't deal with it in a month, I'll send a squad there to eliminate the monsters...and any other threat.}
-{398}{}{Bye.}
+{398}{}{Adeus.}
 {399}{}{What for? [He hesitates for a moment, then frowns.] I don't need to explain my motives to you. I give orders, and you take them -- That's how it is. If you don't want the job, I'll send a squad to do it instead...but things sometimes get a little "messy" when I set my boys loose.}
 {400}{}{Got it. I'll take the job.}
 {401}{}{It's clear. What's with that village, anyway?}
 {402}{}{About that village...}
 {403}{}{You killed all those big ugly rats? Really?}
 {404}{}{I was told you plan on turning the people of that village into servants, and that the mole rats were preventing you from doing it -- that's the real reason you wanted them exterminated.}
-{405}{}{Yes.}
-{406}{}{Not yet.}
+{405}{}{Sim.}
+{406}{}{Ainda não.}
 {407}{}{Oh, you heard that, did you? Well, you heard right -- it's for their own good. Here, they'd be well fed and taken care of. I'm sure they'd come to realize how much better it is to serve in the great Vault City than dwell in their little village with rat shit up to their knees.}
 {408}{}{They're happy right where they are.}
 {409}{}{Doesn't matter. Will you complete your task or not?}
@@ -313,7 +313,7 @@
 {411}{}{No, I don't think so. }
 {412}{}{Great, return when you are done.}
 {413}{}{Doesn't matter, they'll all become servants just the same. I'm sending a battle squad there immediately. Soon, there'll be nothing left of their little village.}
-{414}{}{[DONE]}
+{414}{}{[FEITO]}
 {415}{}{Return when all is done.}
 {416}{}{Great work, soldier. Here's your $750 -- a small price to pay for a village full of new servants. You've done Vault City a great service.}
 {417}{}{Wait -- You never said anything about making the villagers your servants.}

@@ -5,7 +5,7 @@
 {103}{}{Yes, what else can I help you with?}
 {104}{}{Is this fenced-in area the city?}
 {105}{}{I'm looking for the Vault.}
-{106}{}{Who are you?}
+{106}{}{Quem é você?}
 {107}{}{No thanks. Goodbye.}
 {108}{}{Thizz Valt Citeee?}
 {109}{}{No, no... don't let the surroundings confuse you. You're
@@ -22,7 +22,7 @@
 {118}{}{My name? Why, it's Melinda. I'm the Chief Greeting Officer for Vault City.}
 {119}{}{Sounds like a tough job.}
 {120}{}{Can I ask you something else?}
-{121}{}{Thanks for your help.}
+{121}{}{Obrigado por sua ajuda.}
 {122}{}{The Courtyard is an area where we protect the less fortunate Outworlders. Many
  live within our protection and add to the splendor of Vault City. The Inner City is
  where the Citizens of the city live.}
@@ -47,7 +47,7 @@
 {136}{}{We don't do it for *ourselves.* We do it for the betterment of everyone.}
 {137}{}{Yeah, sure you do. It sounds better that way.}
 {138}{}{Can I ask you something else?}
-{139}{}{Thanks for your help.}
+{139}{}{Obrigado por sua ajuda.}
 {140}{}{You don't seem capable of understanding what we're doing here.}
 {141}{}{You're right. I can't understand it because it doesn't make any *sense.*}
 {142}{}{I was just curious. Thanks for your help.}

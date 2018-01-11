@@ -12,7 +12,8 @@
 {404}{}{My name is not important. I have come to warn you. You are in great danger!}
 {405}{}{I am your nemesis. Prepare to join your ancestors!}
 {406}{}{I'm French. Why do you think I have this outrageous accent? [Stare at him oddly.]}
-{407}{}{Nevermind. Sorry to bother you.}
+{407}{}{Deixa pra lá. Desculpe incomodá-lo.
+}
 {410}{}{You speak to Shadow Who Walks. Why have you come here?}
 {411}{}{I'm trying to stop raider attacks on Vault City, and I have reason to believe that this is the raiders' base of operations. What do you know about the raiders?}
 {412}{}{I was sent by Vault City on account of Raiders attacking them.}
@@ -95,7 +96,7 @@
 {727}{}{Never mind, I'll just leave.}
 {728}{}{I don't wanna talk to you no more, you empty headed animal food trough wiper! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries!}
 {800}{}{Shadow Who Walks believes you not. Shadow Who Walks is through talking. Goodbye.}
-{801}{}{[END]}
+{801}{}{[FIM]}
 {802}{}{Don't you turn your back on me tribal. I'm talking to you.}
 {810}{}{How dare you threaten Shadow Who Walks. Leave now.}
 {811}{}{[Walk Away]}
@@ -121,7 +122,7 @@
 {932}{}{She drank this drink, it smelled quite strong, and vivid dreams came to her.}
 {933}{}{The bone in here nose told her. This is how she communicates with our ancestors.}
 {940}{}{You are lying. This is not how one talks with the spirits. Now Shadow Who Walks will see how tongue of liar tastes with favorite brock sauce.}
-{941}{}{[DONE]}
+{941}{}{[FEITO]}
 {950}{}{Oh, then it is true what you speak. Shadow Who Walks knows the power of the spirits. What should Shadow Who Walks do?}
 {951}{}{Well, I just spoke with them and they told me they don't like you very much. They asked me to kill you.}
 {952}{}{You have to leave here forever and never guide these men again. The spirits are angry at you for leading these men

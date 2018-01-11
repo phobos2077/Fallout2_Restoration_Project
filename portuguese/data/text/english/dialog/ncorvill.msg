@@ -27,7 +27,7 @@
  hairs are left in his thick gray hair.) }
 {241}{}{Start talking, tribal. Who are you and what do you want?}
 {242}{}{Start talking, slaver. Who are you and what do you want?}
-{243}{}{Me }
+{243}{}{Eu}
 {244}{}{Boogity boogity}
 {245}{}{Yoo Boo Hoo Yooooo}
 {246}{}{Kootchie Kootchie Koooo}
@@ -158,7 +158,7 @@
 {526}{}{All right. I'll go check it out. When I find a way inside, I'll be back.}
 {535}{}{Ah, it's you. You got some good news for me? You find a way into that army base?}
 {536}{}{If you're back and ain't done what I asked, then you're in for a world of hurt.}
-{537}{}{Not yet.}
+{537}{}{Ainda não.}
 {538}{}{Yes. I managed to get inside and found a lot of old weapons and military hardware there. It's all there for the taking.
  Now, about my payment…}
 {539}{}{I got inside the base, but there was an…accident…the base is contaminated.}

@@ -83,7 +83,7 @@
 {212}{}{Village}
 {213}{}{}
 {214}{}{}
-{215}{}{Bridge}
+{215}{}{Ponte}
 {216}{}{Destroyed Bridge}
 {217}{}{}
 {218}{}{West Side}
@@ -623,7 +623,7 @@
 {1533}{}{Talking Head}
 {1534}{}{Federation Shuttle}
 {1535}{}{Unwashed Villagers}
-{1536}{}{Bridge}
+{1536}{}{Ponte}
 {1537}{}{Cafe of Broken Dreams}
 {1538}{}{Paladins}
 {1539}{}{Vorpal Rat Cave}

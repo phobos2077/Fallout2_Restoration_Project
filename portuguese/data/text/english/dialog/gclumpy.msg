@@ -26,16 +26,16 @@
 {151}{}{Keeter. Heh, heh, heh.}
 {152}{}{Who're you?}
 {153}{}{What do you do here?}
-{154}{}{I have some questions for you.}
+{154}{}{Eu tenho algumas perguntas para você.}
 {155}{}{Oh, okay. I'll talk to Skeeter then. Thanks.}
 {160}{}{Hello there. Since you've already invited yourself in -— what can I do for you?}
 {161}{}{Me hungry.}
 {162}{}{Uh, I was wondering where Skeeter is?}
-{163}{}{I have some questions for you.}
+{163}{}{Eu tenho algumas perguntas para você.}
 {164}{}{Oh, sorry. I didn't mean to barge in. Goodbye.}
 {170}{}{I guard the brahmin or help Skeeter in his workshop.}
 {171}{}{Who's Skeeter?}
-{172}{}{Let me ask you something else.}
+{172}{}{Deixe-me perguntar-lhe algo mais.}
 {173}{}{I think that's all I need to know for now. Goodbye, Lumpy.}
 {180}{}{Well, it's sort of a joke. You see, they usually call people like you and me smoothskins. But I
  was treated so poorly by other Smoothskins down in Vault City that everyone here figured that I must
@@ -65,7 +65,7 @@
  I understand, the uranium is mined by mutants down there. But they have humans trade the stuff for
  them.}
 {231}{}{Why do they have humans trade the stuff for them?}
-{240}{}{What do you want to know?}
+{240}{}{O que você quer saber?}
 {241}{}{Aren't you the curious one? Well, okay. What do you want to know?}
 {242}{}{What do you want to know now?}
 {243}{}{What's all that junk in the yard?}

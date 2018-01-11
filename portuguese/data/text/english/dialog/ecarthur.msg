@@ -18,32 +18,32 @@
 {115}{}{Why do you search for such a terrible weapon?}
 {116}{}{We of the Brotherhood of Steel seek to find this most devastating weapon of our ancestors, and
  secure it from those who would abuse the power of the Holy Hand Grenade of Antioch.}
-{117}{}{Why?}
+{117}{}{Por quê?}
 {118}{}{Well...because the Brotherhood of Steel is dedicated to protecting the weak and defenseless, and
  this thing could really hurt someone.}
-{119}{}{Why?}
+{119}{}{Por quê?}
 {120}{}{Umm...because it's really the only moral thing to do.}
-{121}{}{Why?}
+{121}{}{Por quê?}
 {122}{}{Wha...um...Look now, we're really quite busy. Are you going to help us or not? Have you seen
  the Holy Hand Grenade of Antioch or not?}
-{123}{}{Yes.}
-{124}{}{No.}
+{123}{}{Sim.}
+{124}{}{Não.}
 {125}{}{Well, why didn't you just say so? If you could just tell us where, we'll be off and you can get
  back to whatever it is you were doing.}
 {126}{}{[You point in a random direction.]}
 {127}{}{Right then. Thank you for your help. Something for your trouble.}
 {128}{}{Wait! I am also on a quest. I seek the holy GECK. Have you seen it?}
 {129}{}{Well then, no sense in continuing this conversation. We're off.}
-{130}{}{[END]}
+{130}{}{[FIM]}
 {131}{}{Bloody peasant!}
-{132}{}{[END]}
+{132}{}{[FIM]}
 {133}{}{GECK, you said? Why yes, we have two of them. Don't need another one. Thanks all the same
  though.}
 {134}{}{Since you have two of them, maybe you could give me one.}
 {135}{}{No. No. Couldn't do that. Wouldn't be right to end your quest that easily. There's some more
  of them that way. Go get your own. [He points in a direction about the same way you pointed when you
  told him where the Holy Hand Grenade of Antioch was.]}
-{136}{}{[END]}
+{136}{}{[FIM]}
 {200}{}{Do you speak the king's tongue?}
 {201}{}{Hellooo.}
 {202}{}{Hey, I'm over here.}

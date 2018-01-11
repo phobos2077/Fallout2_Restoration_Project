@@ -9,7 +9,7 @@
 {107}{}{You look like guard.}
 {108}{}{Me go now.}
 {109}{}{Just saying hello.}
-{110}{}{Who are you?}
+{110}{}{Quem é você?}
 {111}{}{What are you doing?}
 {112}{}{You look like you're guarding that trail.}
 {113}{}{I'll be going now.}
@@ -17,7 +17,7 @@
 {115}{}{Me want talk.}
 {116}{}{Ok, me go.}
 {117}{}{I want to talk to you.}
-{118}{}{Bye.}
+{118}{}{Adeus.}
 {119}{}{I said I'm Dalia. Look, I don't mean to be rude, but I don't want to talk to anyone right now. Okay?}
 {120}{}{Okay, bye.}
 {121}{}{Just little more.}
@@ -47,7 +47,7 @@
 {144}{}{Did you see someone go by here in a hurry?}
 {145}{}{I see people go by here every day. I really don't pay much attention to them.}
 {146}{}{Me not have time for you crap.}
-{147}{}{Oh, okay.}
+{147}{}{Ah, tudo bem.}
 {148}{}{Girl life at stake. Young girl. Someone daughter. You please help?}
 {149}{}{I don't have time for your crap.}
 {150}{}{Fine, bye.}

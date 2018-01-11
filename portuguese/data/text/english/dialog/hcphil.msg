@@ -65,7 +65,7 @@
 {181}{}{Nothing. Forget it.}
 {182}{}{Tapped, eh? Too bad. You can stick around here, but don't bug the customers. I got work to do.
  See you.}
-{183}{}{Bye!}
+{183}{}{Adeus!}
 {184}{}{Hey! Welcome back. What'll it be?}
 {185}{}{Welcome back, pard. What'll it be?}
 {186}{}{You again? What'll it be?}
@@ -75,7 +75,7 @@
 {194}{}{Well, all right then! What'll it be?}
 {198}{}{What's been going on in town? Well…}
 {199}{}{Thanks. I have more questions. }
-{200}{}{Thanks. Bye.}
+{200}{}{Obrigado. Tchau.}
 {201}{}{What to do, what to do… let's see…}
 {202}{}{- more - }
 {203}{}{Someone busted those lunatics out of jail!}
@@ -99,7 +99,7 @@
 {218}{}{I understand that you can poke around the mine now. Hell, if you find anything, you might even
  get to keep it.}
 {219}{}{You got anything else?}
-{220}{}{Thanks.}
+{220}{}{Obrigado.}
 {221}{}{Hell yeah! Find out where those two lunatics Franc and Manson went!}
 {222}{}{I'm on it.}
 {223}{}{Got it. See ya.}
@@ -115,14 +115,14 @@
 {232}{}{Nothing. Forget it.}
 {233}{}{I hope you don't mind me saying that the folks 'round here are a little pissed off that you
  kept that uranium for yourself. You been warned. Anyway… ready for a drink?}
-{234}{}{Yes.}
+{234}{}{Sim.}
 {235}{}{No. But I have some questions.}
 {236}{}{Some folks might be a tad pissed off about Chad. You been warned. Ready for a drink?}
-{237}{}{Yes.}
+{237}{}{Sim.}
 {238}{}{No. But I have some questions.}
 {239}{}{All the mutants are dead. Someone blew up the damn mine while they were in it. Some bastard must have
  cried wolf and they all just came running to help. I just don't understand some people. Hell... Can I get you a drink?}
-{240}{}{Yes.}
+{240}{}{Sim.}
 {241}{}{No. But I have questions.}
 {242}{}{Get out of my bar. Now. Scumbag.}
 {300}{}{!}
@@ -139,4 +139,5 @@
 {1981}{}{A couple of loons've been locked up for spreading hate propaganda.}
 {1982}{}{Mine's purifiers are down.}
 {1983}{}{Caravans all over the place. That's about normal.}
-{1984}{}{Go on.}
+{1984}{}{Continue.
+}

@@ -10,7 +10,8 @@
 {109}{}{What that mean?}
 {110}{}{What do you mean by that?}
 {111}{}{You're attracting the attention of a lot of people. You need to be careful.}
-{112}{}{Go on.}
+{112}{}{Continue.
+}
 {113}{}{Go on, I'm listening.}
 {114}{}{I've said enough for now. I think you should get about your business.}
 {115}{}{This same blow off me get from Joshua. Me need ask question.}
@@ -30,7 +31,7 @@
 {129}{}{Now wait a minute! Where's the vault?}
 {130}{}{Yes, its location is stored in the vault 15 computer systems, east of here. Good luck,}
 {131}{}{.}
-{132}{}{Thanks.}
+{132}{}{Obrigado.}
 {133}{}{We are the Brotherhood of Steel. There is nothing more that I will tell you at this time. Good luck,}
 {134}{}{Wait! Me need know even more now!}
 {135}{}{Wait, you can't just leave it at that!}

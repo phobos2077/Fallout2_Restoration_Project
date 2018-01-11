@@ -2,7 +2,7 @@
 {101}{}{You see Becky.}
 {150}{}{This looks like the owner.}
 {151}{}{This is Becky, owner of this place.}
-{152}{}{[TALK]}
+{152}{}{[FALAR]}
 {153}{}{Hello, stranger, and welcome to my saloon. I’m Becky.}
 {154}{}{Hello, I am }
 {155}{}{. What’s there to do around here?}
@@ -19,7 +19,7 @@
 {166}{}{Can I ask a question?}
 {167}{}{I want a drink!}
 {168}{}{Hmm, those are some cheap drinks. Let’s see one.}
-{169}{}{Thanks. Bye.}
+{169}{}{Obrigado. Tchau.}
 {170}{}{Vault 13? Nope, never heard of it.}
 {171}{}{Hmm, can I ask something else?}
 {172}{}{Damn, I need to find it. Bye.}
@@ -31,12 +31,12 @@
 {178}{}{Mom runs a little restaurant across town.}
 {179}{}{Mommy! Mommy!}
 {180}{}{One more question.}
-{181}{}{Thanks. Bye.}
+{181}{}{Obrigado. Tchau.}
 {182}{}{Beat it.}
 {183}{}{Gwah.}
 {184}{}{I’ll give you something to beat.}
 {185}{}{Quick question first?}
-{186}{}{Bye.}
+{186}{}{Adeus.}
 {187}{}{A shot of whiskey is $5. Pay first.}
 {188}{}{Huh?}
 {189}{}{Here’s the money.}
@@ -47,7 +47,7 @@
 {194}{}{Here’s the drink. Anything else?}
 {195}{}{Question?}
 {196}{}{Yeha, how about you and I...}
-{197}{}{Nope.}
+{197}{}{Não.}
 {198}{}{Hey, you don’t enough cash for this drink. You’re poorer than even these sops!}
 {199}{}{Sorry.}
 {200}{}{Hmm, I’ll come back.}
@@ -75,11 +75,11 @@
 {221}{}{Why? Why did you destroy my still? You bastard!}
 {222}{}{Nothing personal. I got paid to do it.}
 {223}{}{I’m sorry.}
-{224}{}{Bye.}
+{224}{}{Adeus.}
 {225}{}{I’ll just make another one, you know.}
 {226}{}{I know.}
 {227}{}{Well, that’s good.}
-{228}{}{Bye.}
+{228}{}{Adeus.}
 {232}{}{Why? Why did you destroy my still? You bitch!}
 {233}{}{Where are you, baby?}
 {234}{}{Are you coming?}

@@ -1,79 +1,78 @@
-{100}{}{You see a tribesman.}
-{101}{}{You see a tribeswoman.}
-{150}{}{Before you stands a large warrior of your village, wearing
- pants fashioned from animal hides.}
-{151}{}{[TALK]}
-{152}{}{Hello, Chosen One, can I help you in your quest?}
-{153}{}{I'm just looking around the village one last time before I leave.}
-{154}{}{What can you tell me of the traders who trade with us?}
-{155}{}{Could you tell me where I can find more healing powder?}
-{156}{}{Gods give you speed to bring back Eden before it is too late.}
-{157}{}{I do have a question for you.}
-{158}{}{Goodbye, my friend.}
-{159}{}{Oh, you're testing me. Go see Hakunin in the northern corner of the village. He makes our
- medicines.}
-{160}{}{Thank you. Goodbye.}
-{161}{}{Well, I've seen them when Mynoc has us guard the bridge, but he does all the dealing.
- Talk to him at the Great Bridge.}
-{162}{}{Thank you. Goodbye.}
-{163}{}{Could tell me where the Great Bridge is located?}
-{164}{}{One more question, if I may.}
-{165}{}{Chosen One? The Great Bridge is at the southern end of the village. You know,
- you've been there many times.}
-{166}{}{Thank you. Goodbye.}
-{167}{}{One more question, if I may.}
-{168}{}{Of course, what is it?}
-{169}{}{Could you tell me where I can find some healing herbs?}
-{170}{}{What can you tell me of the traders who trade with us?}
-{171}{}{Never mind.}
-{172}{}{Ah, dull one. They say you are the Chosen One. I must say the spirit
- of the Founder works in strange ways.}
+{100}{}{Você vê um membro da tribo.}
+{101}{}{Você vê uma mulher tribal.}
+{150}{}{A sua frente está um grande guerreiro de sua aldeia, vestindo
+  calças feitas de peles de animais.}
+{151}{}{[FALAR]}
+{152}{}{Olá, Escolhido, posso ajudá-lo em sua busca?}
+{153}{}{Eu estou apenas olhando em redor da aldeia, uma última vez, antes de eu sair.}
+{154}{}{O que você pode me dizer dos comerciantes que negociam com a gente?}
+{155}{}{Você poderia me dizer onde posso encontrar a cura em pó?}
+{156}{}{Os deuses te dão velocidade para trazer o Ancião antes que seja tarde demais.}
+{157}{}{Eu tenho uma pergunta para você.}
+{158}{}{Adeus, meu amigo.}
+{159}{}{Ah, você está me testando. Vá ver Hakunin, no canto norte da aldeia. Ele faz os nossos medicamentos.}
+{160}{}{Obrigado. Adeus.}
+{161}{}{Bem, eu os vi quando Mynoc nos guarda na ponte, mas ele faz todo o trato.
+  Fale com ele na Grande Ponte.}
+{162}{}{Obrigado. Adeus.}
+{163}{}{Poderia me dizer onde a Grande Ponte está localizada?}
+{164}{}{Só mais uma pergunta, se eu puder.}
+{165}{}{Escolhido? A Grande Ponte fica no extremo sul da aldeia. Você sabe,
+você já esteve lá muitas vezes.}
+{166}{}{Obrigado. Adeus.}
+{167}{}{Só mais uma pergunta, se eu puder.}
+{168}{}{Claro, o que é?}
+{169}{}{Você poderia me dizer onde eu posso encontrar algumas ervas medicinais?}
+{170}{}{O que você pode me dizer dos comerciantes que negociam com a gente?}
+{171}{}{Não importa.}
+{172}{}{Ah, maçante. Eles dizem que você é o Escolhido. Devo dizer que o espírito
+do Fundador funciona de maneiras estranhas.}
 {173}{}{Oon Ga.}
-{174}{}{ Have a safe journey, dull one -- for our sake.}
+{174}{}{ Tenham uma viagem segura, sem brilho, por nossa causa.}
 {175}{}{????}
-{176}{}{You betray us. You must die.}
-{177}{}{A traitor to your own people!}
-{178}{}{Why do you do this?}
-{179}{}{Death to the evil one!}
-{180}{}{They are nothing to us! They scavenge the dying corpse
- of the wastes to live.}
-{181}{}{Could you tell me where I can find some healing herbs?}
-{182}{}{Thank you. Goodbye.}
-{183}{}{One more question, if I may.}
-{300}{}{Hello again, Chosen One. May the warrior spirits protect and guide you.}
-{301}{}{Are you having difficulties, Chosen One? You must not fail us - please hurry.}
-{302}{}{Why do you wait so long? We must have the GECK soon. Chosen One, our village is dying.}
-{303}{}{Chosen One, our village is almost dead. Why have you not brought the holy GECK to us yet?}
-{970}{}{That is my name.}
-{971}{}{You are talking to me.}
-{972}{}{What a silly question. That's me.}
-{980}{}{I don't know anything about that.}
-{981}{}{Sorry. No clue.}
-{982}{}{Never heard of it.}
-{1000}{}{Elder}
-{1001}{}{Founder}
-{1002}{}{Vault Dweller}
+{176}{}{Você trair-nos. Você deve morrer.}
+{177}{}{Um traidor de seu próprio povo!}
+{178}{}{Por que você faz isso?}
+{179}{}{A morte para o mal!}
+{180}{}{Eles não são nada para nós! Eles descobrem os cadáveres moribundos
+  dos resíduos para viver.}
+{181}{}{Você poderia me dizer onde eu posso encontrar algumas ervas medicinais?}
+{182}{}{Obrigado. Adeus.}
+{183}{}{Só mais uma pergunta, se eu puder.}
+{300}{}{Olá novamente, Escolhido. Que os espíritos guerreiros o protejam e guiem.}
+{301}{}{Você está tendo dificuldades, Escolhido? Você não deve nos deixar - por favor, apresse-se.}
+{302}{}{Por que esperar tanto tempo? Temos de ter o GECK em breve. Escolhido, a nossa aldeia está morrendo.}
+{303}{}{Escolhido, nossa aldeia está quase morta. Por que você ainda não trouxe o sagrado GECK para nós?}
+{970}{}{Este é o meu nome.}
+{971}{}{Você está falando para mim.}
+{972}{}{Que pergunta tola. Este sou eu.}
+{980}{}{Eu não sei nada sobre isso.}
+{981}{}{Desculpe. Nenhuma pista.}
+{982}{}{Nunca ouvi falar dele.}
+{1000}{}{Ancião}
+{1001}{}{Fundador}
+{1002}{}{Morador do Vault}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{Chosen One}
-{1007}{}{Shaman}
+{1006}{}{Escolhido}
+{1007}{}{Xamã}
 {1008}{}{Hakunin}
-{1009}{}{Healing Powder}
-{1010}{}{Bridge}
+{1009}{}{Cura Em Pó}
+{1010}{}{Ponte}
 {1011}{}{Mynoc}
-{1100}{}{The Elder is your mother and our leader.}
-{1101}{}{Our great ancestor who gave us knowledge.}
-{1102}{}{The first to fight and win over chaos.}
-{1103}{}{That would be our beautiful village.}
-{1104}{}{That's a trading outpost a few days east of here.}
-{1105}{}{The Vault is heaven.}
-{1106}{}{You are the Chosen One.}
-{1107}{}{He heals us with his herbs and magic. He is in the northern
- part of our village.}
-{1108}{}{He heals us with his herbs and magic. He is in the northern
- part of our village.}
-{1109}{}{It is a magic powder which will heal you, but will make
- you sleepy.}
-{1110}{}{The Great Bridge exits our village in the south.}
-{1111}{}{He guards the bridge leading into our village.}
+{1100}{}{O Ancião é a sua mãe, e o nosso líder.}
+{1101}{}{Nosso grande ancestral que nos deu conhecimento.}
+{1102}{}{O primeiro a lutar e a vitória sobre o caos.}
+{1103}{}{Essa seria a nossa bela aldeia.}
+{1104}{}{Esse é um posto comercial a poucos dias a leste daqui.}
+{1105}{}{O Vault é o paraíso.}
+{1106}{}{Você é o Escolhido.}
+{1107}{}{Ele nos cura com suas ervas e magia. Ele está na
+  parte norte da nossa aldeia.}
+{1108}{}{Ele nos cura com suas ervas e magia. Ele está na
+  parte norte da nossa aldeia.}
+{1109}{}{Ele é um pó mágico que vai curar você, mas vai fazer
+você sonolento.}
+{1110}{}{A Grande Ponte sai da nossa aldeia no sul.}
+{1111}{}{Ele guarda a ponte que leva para a nossa aldeia.}

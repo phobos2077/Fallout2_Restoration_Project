@@ -1,7 +1,8 @@
-1:It is done.
-2:Vault Thirteen belongs to the Unity and the Master.
-3:Your knowledge of the Vault defenses saved many mutant lives during the attack.
-4:You personally made the final kill when you took the life of the Overseer.
-5:You will certainly become one of the finest soldiers for the Unity, and your skills will see you rewarded often in the future.
-6:You are happy.
-7:But there remains the tiniest doubt of what could have been...
+1:Está feito.
+
+2:Vault 13 pertence à Unidade e ao Mestre.
+3:Seu conhecimento das defesas da Vault salvou muitas vidas mutantes durante o ataque.
+4:Você pessoalmente fez a morte final quando você tirou a vida do Supervisor.
+5:Você certamente se tornará um dos melhores soldados da Unidade, e suas habilidades o verão recompensado no futuro.
+6:Você está feliz.
+7:Mas não resta a menor dúvida de que poderia ter sido...

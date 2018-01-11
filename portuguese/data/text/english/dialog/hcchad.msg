@@ -9,7 +9,7 @@
 {124}{}{Marcus has been asking a few questions about you.}
 {125}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. You're going down.}
 {126}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. Cut me in for $1000 and I'll make sure you can flee town.}
-{127}{}{Who are you?}
+{127}{}{Quem é você?}
 {128}{}{Tell me about this place.}
 {129}{}{Nothing. Bye.}
 {130}{}{Look what the wasteland dragged in! Sorry, pal, I can't help you.}
@@ -22,12 +22,12 @@
 {137}{}{Sounds exciting.}
 {138}{}{Sounds boring.}
 {139}{}{I have more questions.}
-{140}{}{Thanks. Bye.}
+{140}{}{Obrigado. Tchau.}
 {141}{}{Tell you about Broken Hills? Well… I moved here a few years back. Got a job with the Bill -–
  that's the Outfitter -– and moved up to where I am now. I report to Marcus and the Bill, but I'm
  responsible for the livelihood of the town.}
 {142}{}{I have more questions.}
-{143}{}{Bye.}
+{143}{}{Adeus.}
 {144}{}{Like what?}
 {145}{}{He suspects that you're skimming money that's supposed to be going to Broken Hills.}
 {146}{}{Nothing really, Bye.}
@@ -35,13 +35,13 @@
 {150}{}{I'm going to find out the truth. Bye.}
 {156}{}{Talk to the Bill. He'll help you out.}
 {157}{}{I have more questions.}
-{158}{}{Thanks. Bye.}
+{158}{}{Obrigado. Tchau.}
 {159}{}{Yeah, it is. You wouldn't think it, but I get to travel and see the world… and I feel I
  contribute to the town here. It's a good life.}
 {160}{}{Sounds great. I'd like a job like that.}
 {161}{}{Actually, that sounds pretty boring.}
 {162}{}{I have more questions.}
-{163}{}{Bye.}
+{163}{}{Adeus.}
 {164}{}{Probably a hell of a lot more exciting than what you do with your life, jerkoff.}
 {165}{}{Yeah, whatever. I have more questions.}
 {166}{}{Ha ha ha ha! Right. See ya, loser.}
@@ -59,7 +59,7 @@
 {202}{}{Wrong answer. Looks like you picked the wrong guy to mess with.}
 {203}{}{Fine, goodbye.}
 {204}{}{Ah dammit, I knew this wouldn't last forever. [Looks around and lowers his voice.] Alright, listen. Keep your mouth shut about this little matter. Here's $1000 to keep you quiet. [He hands you the money.] Now, if you'll excuse me, I have to get going.}
-{205}{}{[DONE]}
+{205}{}{[FEITO]}
 {206}{}{Help! We have a thief on our hands here.}
 {207}{}{}
 {208}{}{What the!? Who the hell are you?}
@@ -82,7 +82,7 @@
 {221}{}{Alright, Alright. I admit to everything. I don't want to die for this. Tell Marcus I'll come peacefully.}
 {222}{}{Alright, don't move. I'll go get Marcus.}
 {300}{}{You allow Chad to skip town.}
-{400}{}{Leave me alone.}
+{400}{}{Deixe-me sozinho.}
 {2040}{}{Ah dammit I knew this wouldn't last forever. (Looks around and lowers his voice.) Alright listen. Keep your
  mouth shut about this little matter. Here's $1000 to keep you quiet. [He hands you the money and you hand him his briefcase.]
  Now if you excuse me I have to get going.}

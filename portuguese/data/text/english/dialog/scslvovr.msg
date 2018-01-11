@@ -5,9 +5,9 @@
 {104}{}{NCR meddling do-gooder! I got a cure for you.}
 {105}{}{Vortis, we've got an intruder!}
 {106}{}{Guards! Alert!}
-{107}{}{What do you want?}
+{107}{}{O que você quer?}
 {108}{}{Kurg?}
-{109}{}{What is this place?}
+{109}{}{O que é este lugar?}
 {110}{}{The Rangers sent me.}
 {111}{}{I'm looking for the owner.}
 {112}{}{Brother slaver, I've got a few questions.}

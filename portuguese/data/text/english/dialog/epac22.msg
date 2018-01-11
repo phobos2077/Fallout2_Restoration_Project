@@ -57,8 +57,9 @@
  you think?}
 {391}{}{Definitely. Let me ask you something else.}
 {400}{}{Hello again. Something else I can help you with?}
-{401}{}{I have some questions.}
-{402}{}{Nevermind. Bye.}
+{401}{}{Eu tenho algumas perguntas.}
+{402}{}{Deixa pra lá. Tchau.
+}
 {500}{}{You open up the side panel to the hologram emitter and look inside. You see a mess of cables and circuit boards.}
 {501}{}{Well, let's get started.}
 {502}{}{After some time you isolate the problem and correct it. You close up the panel and wipe the sweat from your brow.}
@@ -66,4 +67,4 @@
 {504}{}{After some experimentation you fail to figure out what is wrong with the hologram.}
 {505}{}{Damn. This is too hard for me. Repair just isn't my forte.}
 {506}{}{You fail to repair the hologram.}
-{507}{}{[DONE]}
+{507}{}{[FEITO]}

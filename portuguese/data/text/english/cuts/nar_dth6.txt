@@ -1,2 +1,2 @@
-1:You have died.
-2:You shall never know what happened to your kidnapped village.
+1:Você morreu.
+2:Você nunca deve saber o que aconteceu com sua aldeia sequestrada.

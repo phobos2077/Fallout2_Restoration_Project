@@ -43,7 +43,7 @@
 {149}{}{Your momma ain’t in here kid; try the Bathhouse.}
 {150}{}{Why don’t you go play someplace else?}
 {151}{}{There’s a nice canyon for you, just east of here.}
-{152}{}{What do you want?}
+{152}{}{O que você quer?}
 {153}{}{Better just mind your own business.}
 {154}{}{Your name Torr? (heh, heh, heh)}
 {155}{}{Go drink with Aldo, why dontcha?}
@@ -53,7 +53,7 @@
 {159}{}{You sure ain’t much to look at.}
 {160}{}{Feeling unwelcome…yet?}
 {162}{}{‘Bout time, tribal.}
-{163}{}{Thanks.}
+{163}{}{Obrigado.}
 {164}{}{Nee!}
 {165}{}{Ecky, ecky, p’tang!}
 {166}{}{I’m going to get pissed.}

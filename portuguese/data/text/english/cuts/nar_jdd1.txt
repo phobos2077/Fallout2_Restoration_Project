@@ -1,2 +1,2 @@
-1:You're dead.
-2:Again.
+1:Você está morto.
+2:Novamente.

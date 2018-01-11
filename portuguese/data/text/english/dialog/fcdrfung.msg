@@ -6,10 +6,10 @@
 {105}{}{Yeah - I'm hurt and it looks like you're a doctor.}
 {106}{}{Yes. I need a doctor for my friend.}
 {107}{}{Do you have any stimpacks? I'd like to buy some.}
-{108}{}{Who are you?}
+{108}{}{Quem é você?}
 {109}{}{I have a friend who's missing a spleen. Can you help him?}
-{110}{}{What can you tell me about this place?}
-{111}{}{Bye.}
+{110}{}{O que você pode me dizer sobre este lugar?}
+{111}{}{Adeus.}
 {112}{}{Let me take a look at that. Hmm. Yes. I'll have to charge you, of course.}
 {113}{}{How much?}
 {114}{}{Forget it.}
@@ -45,7 +45,7 @@
 {159}{}{Do you have stimpacks?}
 {160}{}{No thanks.}
 {161}{}{It has been a pleasure doing business with you.}
-{162}{}{Thanks.}
+{162}{}{Obrigado.}
 {163}{}{Your offer, sadly, is not acceptable.}
 {164}{}{How about this?}
 {165}{}{It's all I want to offer. So long.}
@@ -57,7 +57,7 @@
 {171}{}{You need more?}
 {172}{}{I need healing.}
 {173}{}{I have a friend who needs healing.}
-{174}{}{Who are you?}
+{174}{}{Quem é você?}
 {175}{}{Tell me about this place.}
 {176}{}{I have a friend who's missing a spleen. Can you help him?}
 {177}{}{No. Thanks, though.}
@@ -68,23 +68,23 @@
 {182}{}{Our people landed here on the submarine Shih-huang-ti, when the missiles exploded over the world. With the aid of a cult, we, the Shi, rebuilt San Francisco. That is the short version.}
 {183}{}{How about the long version?}
 {184}{}{Thanks. I have more questions.}
-{185}{}{Thanks.}
+{185}{}{Obrigado.}
 {186}{}{The long version is this: We are here because our people are the descendants of the crew of a nuclear submarine, called the Shih-huang-ti. When the missiles fell in the Great Deluge, the systems aboard the submarine failed and we drifted in the dark for many days.}
 {187}{}{-more-}
 {188}{}{At last, we drifted ashore. We found ourselves near the ruins of San Francisco. Most of the city was devastated in the war. We had to recreate society based on the few survivors who had crept back to the city.}
 {189}{}{-more-}
 {190}{}{We rebuilt with what we could find, and we have scientists and technology the world must envy. We are rebuilding civilization, but not as that horrid Master creature did.}
 {191}{}{I see. I have more questions.}
-{192}{}{Thanks. Bye.}
+{192}{}{Obrigado. Tchau.}
 {193}{}{Of course I can. And since you are aware of Doc Holliday... I will do it for no more than the sake of friendship. Tell your spleenless friend to come here and I will replace it for him.}
 {194}{}{Thanks! I have more questions.}
 {195}{}{Thanks!}
 {196}{}{Yes. I can do this. It will cost you $1000 dollars to do it. Up front. Do you accept?}
-{197}{}{Yes.}
-{198}{}{No.}
+{197}{}{Sim.}
+{198}{}{Não.}
 {199}{}{Tell your friend to come here and I will replace it for him.}
 {200}{}{Thanks. I have more questions.}
-{201}{}{Thanks.}
+{201}{}{Obrigado.}
 {202}{}{I can do nothing for him, until you have the $1000. Good day.}
 {203}{}{Good day.}
 {204}{}{I do not treat the enemies of my people. My humble apologies.}
@@ -119,7 +119,7 @@
 {233}{}{Hell yes. Let's do it.}
 {234}{}{Wow. That's… expensive. I'll get back to you.}
 {235}{}{::he shakes his head:: Do not toy with me. You are missing necessary ingredients. Listen more carefully to me next time. Now go, and come back when I can help you.}
-{236}{}{Okay.}
+{236}{}{Tudo bem.}
 {237}{}{There you go! You are … enhanced. Remember… do not pick at the scabs unless you want horrid scarring to add to your suddenly not-entirely-pleasing appearance.}
 {238}{}{Thanks, doc. So long.}
 {239}{}{I have the money for the spleen.}

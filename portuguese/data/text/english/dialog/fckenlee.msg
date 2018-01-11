@@ -2,11 +2,11 @@
 {101}{}{You see Ken Lee, advisor to the Emperor.}
 {102}{}{You see a stocky Shi man wearing glasses and a half-smile.}
 {103}{}{What would you like, friend?}
-{104}{}{What do you want?}
+{104}{}{O que você quer?}
 {105}{}{What can I do for you?}
 {106}{}{You?}
-{107}{}{Who are you?}
-{108}{}{What is this place?}
+{107}{}{Quem é você?}
+{108}{}{O que é este lugar?}
 {109}{}{I'm looking for some lost villagers.}
 {110}{}{I am in need of fuel.}
 {111}{}{I would like to speak to the Emperor.}
@@ -31,19 +31,19 @@
 {130}{}{If you wish to see the Emperor then you must give me your own name.}
 {131}{}{Oh. Right. I'm}
 {132}{}{Sure. My name is}
-{133}{}{Yes.}
+{133}{}{Sim.}
 {134}{}{Forget it.}
 {135}{}{Not everyone is granted a chance to see the Emperor. You must first prove your worth. Are you willing to prove yours?}
-{136}{}{Yes.}
+{136}{}{Sim.}
 {137}{}{No. I've had enough tests in the last several months to last me a lifetime.}
 {138}{}{I do not believe the Emperor would like to see you. I have been told to forbid entrance to those who offend me or who reek of evil. You do both, traveler. Good day.}
-{139}{}{[DONE]}
+{139}{}{[FEITO]}
 {140}{}{Insults will get you nowhere, traveler, except removed from the Steel Palace. Kindly control your tongue.}
 {141}{}{Make me.}
 {142}{}{Fine.}
 {143}{}{The Emperor remains hidden from prying eyes. As my job is to act as the Emperor's screen, I cannot and will not tell you where he is.}
 {144}{}{I have more questions.}
-{145}{}{Bye.}
+{145}{}{Adeus.}
 {146}{}{We do research that will change the world. For more answers to your questions, you should seek out Dr. Wong Yi Tze. }
 {147}{}{I will. And I have more questions.}
 {148}{}{I will. Bye.}
@@ -55,7 +55,7 @@
 {154}{}{No. My real name is}
 {155}{}{It's all the name you need, old man.}
 {156}{}{That will be quite impossible. Good day.}
-{157}{}{[DONE]}
+{157}{}{[FEITO]}
 {158}{}{Surely you must give me more credit than that. I know how the "biz" works. I have traveled to New Reno before.}
 {159}{}{Okay, my name is}
 {160}{}{That's my real name! Now let me talk to the Emperor!}
@@ -63,11 +63,11 @@
 {162}{}{You got it.}
 {163}{}{Forget it.}
 {164}{}{Will you reconsider taking our test?}
-{165}{}{Nope.}
+{165}{}{Não.}
 {166}{}{Oh, all right. I'll do it.}
 {167}{}{Lost villagers? I have heard nothing of this. Perhaps the Emperor would know of them.}
 {168}{}{I have more questions.}
-{169}{}{Thanks. Bye.}
+{169}{}{Obrigado. Tchau.}
 {170}{}{You must complete a second test: the Hubologists are our enemies. Their leader, AHS-9, has been abducting and brainwashing our children. Kill him for the good of the Shi and I shall tell you how to speak to the Emperor.}
 {171}{}{He's as good as dead.}
 {172}{}{No, I don't think so.}
@@ -82,18 +82,18 @@
 {181}{}{Well, I have more questions.}
 {182}{}{Yeah, poor you. Bye.}
 {183}{}{You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find the force field to the large computer has been turned off.  Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer.  The Emperor will be able to direct our fuel to where you need it.}
-{184}{}{Thanks.}
+{184}{}{Obrigado.}
 {185}{}{Guards! The enemy is among us! Guards!}
 {186}{}{Have they really? Perhaps you would like to turn the tables on them? I can promise you our aid if you will agree to kill AHS-9. }
 {187}{}{He's as good as dead.}
-{188}{}{No.}
+{188}{}{Não.}
 {189}{}{Excellent. I hope to hear of your success soon.}
 {190}{}{You will. I have more questions.}
 {191}{}{You will. Bye.}
 {192}{}{Then in that case, you can only be an enemy. Good day.}
 {193}{}{Good day.}
 {194}{}{With the death of AHS-9, the Great and Terrible, the Hubologists pose no real threat to us and our researches. Well done. You have our gratitude. Would you like to speak to the Emperor?}
-{195}{}{Yes.}
+{195}{}{Sim.}
 {196}{}{Not right now. I have other questions, though.}
 {197}{}{You have proven yourself to be a friend to the Shi. I believe I can trust you with our secrets. In the back room, you will find the forcefield to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. I hope this will prove useful to you.}
 {198}{}{The Emperor is a COMPUTER?}

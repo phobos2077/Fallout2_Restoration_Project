@@ -8,7 +8,7 @@
 {106}{}{Dallo?}
 {107}{}{Dallo!}
 {108}{}{What's there to do around here?}
-{109}{}{Who are you?}
+{109}{}{Quem é você?}
 {110}{}{Oh, good. An idiot. Touched by the radiation, eh, pal? I can't understand you. I can't help you.}
 {111}{}{I said I can't help you! Go away and pester someone else!}
 {112}{}{What's there to do? Well, the mine's shut down because we haven't got an air purifier that
@@ -18,11 +18,11 @@
 {114}{}{Where's the saloon?}
 {115}{}{Where are the caravaneers?}
 {116}{}{Where's the general store?}
-{117}{}{Thanks. Bye.}
+{117}{}{Obrigado. Tchau.}
 {118}{}{Just one of the miners. Do you want someone important?}
-{119}{}{Yes.}
-{120}{}{No.}
-{121}{}{Bye.}
+{119}{}{Sim.}
+{120}{}{Não.}
+{121}{}{Adeus.}
 {122}{}{The movers and shakers of the town are Marcus, who's kind of the mayor and sheriff, Zaius, who's
  the mine foreman, and Chad, who runs the caravan. Phil the bartender's the leader of the ghouls, I guess…
  if you can say they have a leader. Who were you again?}
@@ -31,7 +31,7 @@
 {125}{}{Where can I find Cameron?}
 {126}{}{Where can I find Chad?}
 {127}{}{Where can I find Phil?}
-{128}{}{Thanks. Bye.}
+{128}{}{Obrigado. Tchau.}
 {129}{}{If you think you can help out at the mine, go talk to Zaius. He's usually in the foreman's hut
  outside the mine. He's in a bad mood because of the air purifier being shut down. Anything else?}
 {130}{}{Phil the ghoul runs the saloon. He's kinda the spokesman for the ghouls in town. You can find
@@ -51,10 +51,10 @@
  only thing keeping this town going. Well, at least I can go senile without any more work…}
 {139}{}{You bastard! Die!}
 {140}{}{Thanks for fixing the mine for us. We really owe you for this. What can I do for you?}
-{141}{}{Who are you?}
+{141}{}{Quem é você?}
 {142}{}{What's there to do in this town?}
 {143}{}{Nothing.}
 {144}{}{We owe you for saving us from those NCR bastards. Thanks, pal. What can I do for you?}
-{145}{}{Who are you?}
+{145}{}{Quem é você?}
 {146}{}{What's there to do in this town?}
 {147}{}{Nothing.}

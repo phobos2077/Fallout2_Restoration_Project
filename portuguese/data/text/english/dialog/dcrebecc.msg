@@ -33,7 +33,7 @@
 {241}{}{What would you like to know?}
 {242}{}{I'd be happy to.}
 {243}{}{But of course.}
-{244}{}{Sure.}
+{244}{}{Com certeza.}
 {245}{}{I don't mind.}
 {246}{}{I'll help if I can.}
 {247}{}{Of course, don't be silly.}
@@ -68,7 +68,7 @@
 {304}{}{Why are your drinks so cheap?}
 {305}{}{Dyer?}
 {306}{}{Can I ask a question?}
-{307}{}{Bye.}
+{307}{}{Adeus.}
 {308}{}{Wekee}
 {309}{}{Urka.}
 {320}{}{Oh, that's the family name. The name Dyer has been in the bar business for a
@@ -77,7 +77,7 @@
  all over the world.}
 {322}{}{I'll take a drink.}
 {323}{}{Can I ask another question?}
-{324}{}{Bye.}
+{324}{}{Adeus.}
 {330}{}{Well, since you're such a good customer, I'll let you in on a little secret.
  It's simple really - I have a still. A friend from a nearby town taught me how to
  make one. So, would you like another one?}
@@ -100,13 +100,13 @@
 {354}{}{I'm still looking for that book of mine.}
 {355}{}{What's the catch?}
 {356}{}{Tell me more.}
-{357}{}{Can I ask you a question?}
-{358}{}{Bye.}
+{357}{}{Posso fazer uma pergunta?}
+{358}{}{Adeus.}
 {370}{}{Catch? Oh, well, if you knew Fred you'd understand. He's owed me the money
  for quite a long time. I'd written it off as a loss, but if you can get it back, I'd be
  amazed... and grateful. He's somewhere in town, I'm sure.}
 {371}{}{The book was The Lavender Flower. Derek should be over around Mom's on the east side.}
-{372}{}{I'll see what I can do.}
+{372}{}{Eu vou ver o que posso fazer.}
 {373}{}{Sure sounds easy.}
 {374}{}{I already found it.}
 {375}{}{I'll have to get back to you.}
@@ -126,7 +126,7 @@
 {410}{}{I can't believe they are both dead. I'm sorry. Thank you for finding out for
  me. If you'll excuse me...}
 {411}{}{I can't believe he's dead... after all these years.}
-{412}{}{Sure.}
+{412}{}{Com certeza.}
 {413}{}{...}
 {420}{}{Yeah, I know who that is. That's Vic - the guy Metzger has locked up.}
 {421}{}{Yeah, I know Vic. Metzger's got him locked up. I'm not sure why though.}
@@ -136,7 +136,7 @@
 {430}{}{You came to the Den and you don't know who Metzger is? He's the slave master.
  He's on the east side of town. Hard to miss.}
 {431}{}{I have another question.}
-{432}{}{Thanks.}
+{432}{}{Obrigado.}
 {440}{}{Murderer!}
 {441}{}{Childkiller!}
 {442}{}{Please leave.}
@@ -157,7 +157,7 @@
  Metal Armor, an Uzi, 5 clips of ammo, a Plasma Grenade, and a flower]}
 {491}{}{Thanks!}
 {500}{}{No problem. I was just holding them for you. Well, I better get back to work.}
-{501}{}{Thanks, bye.}
+{501}{}{Obrigado, tchau.}
 {510}{}{Didn't you hear! He's dead! Oh, I know I shouldn't be happy, but he was a very
  evil man.}
 {511}{}{He sure put up a good fight.}
@@ -177,7 +177,7 @@
  world a great service.}
 {541}{}{You are wonderful woman. Even though I don't condone your actions. You did the
  world a great service.}
-{542}{}{Thanks.}
+{542}{}{Obrigado.}
 {550}{}{You are not welcome here. Please leave.}
 {551}{}{Please leave.}
 {560}{}{Why did you destroy my still? What did I ever do to you?}

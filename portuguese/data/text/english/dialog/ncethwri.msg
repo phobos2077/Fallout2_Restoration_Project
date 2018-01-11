@@ -3,7 +3,7 @@
 {151}{}{You see Mrs. Wright. She seems to be depressed and is sighing to herself.}
 {175}{}{You see a plump, rosy-cheeked woman. She seems to be in good spirits and is humming to herself.}
 {176}{}{You see Mrs. Wright. She seems to be in good spirits and is humming to herself.}
-{200}{}{*Sigh*}
+{200}{}{*Suspiro*}
 {201}{}{How could he do this to me?}
 {205}{}{Another fine Reno day!}
 {206}{}{::Whistle while you work…::}
@@ -15,7 +15,7 @@
 {212}{}{Who, who?}
 {213}{}{Hello, hello!}
 {214}{}{You not mom…Mom? Mommmm…?! Mom! Me go look for Mom}
-{215}{}{Who are you?}
+{215}{}{Quem é você?}
 {216}{}{I noticed you humming to yourself and thought I would stop and speak to you a moment, ma'am. Beautiful weather we're
  having, isn't it?}
 {217}{}{Sorry. I thought you were someone else.}
@@ -102,11 +102,11 @@
 {347}{}{Maybe I'll go look for him right now.}
 {350}{}{Hmmph! Of all the crass rudeness! If you see me again, you had best simply pass by in silence.}
 {351}{}{That's the plan.}
-{352}{}{Very well.}
+{352}{}{Muito bem.}
 {355}{}{Why, yes, yes, he is. (Squints at you again.) I'm sorry, do you know my husband?}
 {356}{}{Yes, I know him. The Wright family controls the distribution of alcohol in New Reno.}
 {357}{}{Not personally, but I know the Wrights control the distribution of alcohol in New Reno.}
-{358}{}{No.}
+{358}{}{Não.}
 {359}{}{Not really. Look, I have to be going.}
 {360}{}{Oh. (Blinks.) So what is it I can do for you?}
 {361}{}{So what are these questions you have?}

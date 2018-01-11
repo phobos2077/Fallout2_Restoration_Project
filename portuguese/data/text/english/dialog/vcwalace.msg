@@ -12,8 +12,8 @@
 {111}{}{Hello, traveler. Welcome to Vault City. Is there anything I can help you with?}
 {112}{}{Frazz-urb-luuw!}
 {113}{}{Shamble off}
-{114}{}{Who are you?}
-{115}{}{What is this place?}
+{114}{}{Quem é você?}
+{115}{}{O que é este lugar?}
 {116}{}{I believe your assistant, Skeev, is involved in illegal practices.}
 {117}{}{Nothing today, thanks.}
 {118}{}{Well, I see I'll have to have to have a talk with the guards in the Courtyard. They seem to be letting just about ANY Outsider into Vault City nowadays. }
@@ -38,7 +38,7 @@
 {137}{}{Shamble off}
 {138}{}{I'd like to get back into the city.}
 {139}{}{I wanted to ask you some questions...}
-{140}{}{Never mind.}
+{140}{}{Não importa.}
 {141}{}{Cease bothering me, you fool.}
 {142}{}{Me no FUL. YOU FUL.}
 {143}{}{Shamble off}
@@ -102,7 +102,7 @@
 {201}{}{Forget it. I'll come back some other time.}
 {202}{}{Well... this certainly seems to be a matter for the First Citizen. Here is your Day Pass. It is only good during the day - at night you will be asked to leave the city. Citizens also reserve the right to cancel the Day Pass privileges at any time, so behave yourself.}
 {203}{}{Understood. Can I ask you some other questions?}
-{204}{}{Thanks.}
+{204}{}{Obrigado.}
 {205}{}{Don't waste any more of my time, Outsider. Leave.}
 {206}{}{I suggest you leave now, or I will summon the guards.}
 {207}{}{NO Uuu LEAVE or me HIT U}
@@ -147,7 +147,7 @@
 {246}{}{What else did you want to know?}
 {247}{}{Frazz-urb-luuw!}
 {248}{}{Shamble off}
-{249}{}{What is this place?}
+{249}{}{O que é este lugar?}
 {250}{}{What kind of shipments do you receive here?}
 {251}{}{Your assistant, Skeev, is involved in illegal practices.}
 {252}{}{Can I get another Day Pass?}
@@ -198,7 +198,7 @@
 {295}{}{I see. I had some other questions...}
 {296}{}{Hmmm. Interesting. Thanks for the information.}
 {297}{}{Our First Citizen is Joanne Lynette. She has done many good things for our city in her ten years of service.}
-{298}{}{Such as?}
+{298}{}{Como?}
 {299}{}{She has kept our city untainted by the outside world. Even with NCR pressuring us to join the
  Republic and the raider attacks, she has kept our city strong. Now there are the troubles with Gecko....}
 {300}{}{What is the NCR?}
@@ -237,7 +237,7 @@
  Here you go. The pass is only good during the day; at night you will be asked to leave. Now go.}
 {329}{}{Before I leave, can I ask you another question?}
 {330}{}{I'll go do that.}
-{331}{}{Thanks. Goodbye.}
+{331}{}{Obrigado. Adeus.}
 {332}{}{Oh, uh, that's not my place to say. You'd have to speak with the First Citizen about such matters.}
 {333}{}{What were you saying about NCR?}
 {334}{}{What were you saying about raiders?}
@@ -272,6 +272,6 @@
 {360}{}{Five hundred's a little more than I can afford right now. Maybe some other time.}
 {361}{}{Excellent. Here you go…again, it is only good during the day - at night you will be asked to leave the city. Citizens also reserve the right to cancel the Day Pass privileges at any time, so behave yourself.}
 {362}{}{Understood. Can I ask you some other questions?}
-{363}{}{Thanks.}
+{363}{}{Obrigado.}
 {1255}{}{I found the raiders' camp and convinced their guide to not help them. They won't be able to find their way without him.}
 {1314}{}{You won't have to worry about those raiders anymore. I convinced their guide to leave and without his help, they will never find their way through the mountains.}

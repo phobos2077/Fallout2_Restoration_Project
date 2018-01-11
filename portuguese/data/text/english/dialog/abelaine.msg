@@ -1,35 +1,36 @@
-{100}{}{You see a stout nun.}
-{101}{}{You see Elaine.}
-{102}{}{You still see her.}
-{200}{}{Greetings!}
-{201}{}{Hi, what's your name?}
-{202}{}{What can you tell me about the Abbey?}
-{203}{}{Bye.}
-{300}{}{If you want to know more about our order, talk to the Abbot. You can find him in his quarters on the third floor.}
-{301}{}{I see. A few more questions...}
-{400}{}{Of course. What would you like to know?}
-{401}{}{What is your name?}
-{402}{}{Nothing really, bye.}
-{403}{}{What can you tell me about the Abbey?}
-{500}{}{My name is Elaine.}
-{501}{}{I see. A few more questions...}
-{600}{}{Hey! Before you go, perhaps you could do me a favor. I'm supposed to bring this machine part to Max in the
- basement copy room. But you see, my left knee has been acting up lately, and it's a real pain for me to go up and down
- all those stairs. Would it trouble you too much to bring him this part for me?}
-{601}{}{Sure.}
-{602}{}{Sorry, I don't have time for this. Bye.}
-{603}{}{Do I look like your personal delivery service? Do it yourself, you fat lazy bitch. Bye.}
-{604}{}{Thanks! Here's the part. The copying room is in the basement. Just use the stairs directly behind Brother Matthew
- in the chapel area.}
-{605}{}{Not a problem. [You take the part.] I'll bring it down to Max right away.}
-{700}{}{Me }
-{701}{}{. Who you?}
-{710}{}{Hehe. That pretty name.}
-{711}{}{Bye!}
-{720}{}{You're a special little guy aren't you? Could you do me a BIG favor and be my special helper today?}
-{721}{}{You're a special little gal aren't you? Could you do me a BIG favor and be my special helper today?}
-{722}{}{Me special. Me help.}
-{723}{}{Me no wanna help.}
-{730}{}{Really? Great! Please give this machine part to Max in the copying room. He can be found in the BASEMENT. Okay?}
-{731}{}{I no let you down!}
-{740}{}{You keep on truckin' now.}
+{100}{}{Você vê uma freira robusta.}
+{101}{}{Você vê Elaine.}
+{102}{}{Você ainda a vê.}
+{200}{}{Meus cumprimentos!}
+{201}{}{Oi, qual é o seu nome?}
+{202}{}{O que você pode me dizer sobre a Abadia?}
+{203}{}{Adeus.}
+{300}{}{Se você quer saber mais sobre nossa ordem, falar com o Abade. Você pode encontrá-lo em seus aposentos no terceiro andar.}
+{301}{}{Eu vejo. Mais algumas perguntas...}
+{400}{}{Claro. O que você gostaria de saber?
+}
+{401}{}{Qual é o seu nome?}
+{402}{}{Nada realmente, tchau.}
+{403}{}{O que você pode me dizer sobre a Abadia?}
+{500}{}{Meu nome é Elaine.}
+{501}{}{Eu vejo. Mais algumas perguntas...}
+{600}{}{Ei! Antes de ir, talvez você possa me fazer um favor. Eu deveria trazer essa máquina para Max na
+  sala de cópia do porão. Mas você vê, meu joelho esquerdo tem doído ultimamente, e é uma dor real para eu subir e descer
+  todas aquelas escadas. Você se incomodaria demais para lhe trazer essa parte?}
+{601}{}{Com certeza.}
+{602}{}{Desculpe, eu não tenho tempo para isso. Tchau.}
+{603}{}{Eu pareço o pessoal do serviço de entrega? Faça você mesmo, sua cadela gorda preguiçosa. Tchau.}
+{604}{}{Obrigado! Aqui está a parte. A sala de cópia está no porão. Basta usar as escadas diretamente atrás do irmão Matthew
+  na área da capela.}
+{605}{}{Não é um problema. [Você toma a parte.] Vou levar-lo para Max imediatamente.}
+{700}{}{Eu}
+{701}{}{Quem você?}
+{710}{}{Hehe. Que bonito nome.}
+{711}{}{Adeus!}
+{720}{}{Você é um pequeno homem especial, você não é? Você poderia me fazer um grande favor e ser meu ajudante especial hoje?}
+{721}{}{Você é um pequeno homem especial, você não é? Você poderia me fazer um grande favor e ser meu ajudante especial hoje?}
+{722}{}{Eu especial. Eu ajudo.}
+{723}{}{Eu não quero ajudar.}
+{730}{}{Mesmo? Ótimo! Por favor, entregue esta peça de máquina para Max na sala de cópia. Ele pode ser encontrado no SÓTÃO. OK?}
+{731}{}{Eu não vou deixar você para baixo!}
+{740}{}{Você continua caminhando agora.}

@@ -8,7 +8,7 @@
 {107}{}{I'm here to speak to Crocket about some armor.}
 {108}{}{I'd like to look around.}
 {109}{}{I'm interested in potentially joining your group.}
-{110}{}{Who are you?}
+{110}{}{Quem é você?}
 {111}{}{I've come to kill you all.}
 {112}{}{Ah, poor child. Would you like to be aligned?}
 {113}{}{'Es!}
@@ -20,9 +20,9 @@
 {119}{}{::his voice hardens:: Then I see no reason you should be admitted here. Good day.}
 {120}{}{'Ey!}
 {121}{}{Very well. Be quick, though - he's a busy, busy man.}
-{122}{}{Okay.}
+{122}{}{Tudo bem.}
 {123}{}{This is not a place that is open for random tours. Good day.}
-{124}{}{[DONE]}
+{124}{}{[FEITO]}
 {125}{}{Excellent! Go in, go in. Speak to Juan Cruz and Vikki Goldman - they're celebrities, you know, but they'll talk to YOU.}
 {126}{}{Who are they?}
 {127}{}{Ooh! Celebrities!}
@@ -41,12 +41,12 @@
 {140}{}{Forget it. I'm out of here.}
 {141}{}{So now you've spoken to Juan and Vikki. Are you interested in joining our friends in the search for enlightenment to the Great Wheel?}
 {142}{}{Oh yes. Yes yes yes.}
-{143}{}{Sure.}
+{143}{}{Com certeza.}
 {144}{}{Not right now. Can I get back to you?}
 {145}{}{I don't think it's my bag. Sorry.}
 {146}{}{Hell no. Your crazy cult deserves to be torched down to the ground.}
 {147}{}{::he smiles:: You won't regret this. You may have the run of the compound. Oh... you're a person who knows how to use a weapon. Would you care to use yours in the service of the Great Wheel?}
-{148}{}{Yes.}
+{148}{}{Sim.}
 {149}{}{Maybe later.}
 {150}{}{Do not wait too long before returning with a reply. Your neurodynes will be filled with more and more pollution until we can begin the cleansing process.}
 {151}{}{I changed my mind. I'll join.}
@@ -55,10 +55,10 @@
 {154}{}{Thanks for the concern. See you.}
 {155}{}{I don't think I'd be the one hurt. So long.}
 {156}{}{Torch us? TORCH US? GUARDS! KILL THE UNBELIEVER!}
-{157}{}{[DONE]}
+{157}{}{[FEITO]}
 {158}{}{So. You have now had time to reconsider your decision. Will you join us?}
-{159}{}{Yes.}
-{160}{}{No.}
+{159}{}{Sim.}
+{160}{}{Não.}
 {161}{}{I still need more time.}
 {162}{}{You do not have more time. Make your choice, meat.}
 {163}{}{Fine, I'll join.}
@@ -82,7 +82,7 @@
 {181}{}{Will do. I have more questions.}
 {182}{}{Sure thing. Bye.}
 {183}{}{Have you removed the Emperor's oppressive stain from this material existence?}
-{184}{}{Not yet.}
+{184}{}{Ainda não.}
 {185}{}{Yes, AHS-7. He is dead.}
 {186}{}{The de facto leader of the Tanker vagrants is a piece of anti-therapeutic raw meat named Badger. With his death, they will come to understand our position. Will you remove him?}
 {187}{}{I'll do it.}
@@ -91,7 +91,7 @@
 {190}{}{I'll do it.}
 {191}{}{I'd still rather not.}
 {192}{}{Have you removed this "Badger"?}
-{193}{}{Not yet.}
+{193}{}{Ainda não.}
 {194}{}{Yes. He's gone.}
 {195}{}{His people shall embrace the Hub! All will be well! You have performed a great service!}
 {196}{}{Thanks! I have more questions.}
@@ -99,7 +99,7 @@
 {198}{}{Actually, now I'm going to kill you too.}
 {199}{}{Now that the ship is filled with fuel, we await only the word of AHS-9 the Great and Terrible to achieve liftoff.}
 {200}{}{Sure we will. I have some questions.}
-{201}{}{Thanks. Bye.}
+{201}{}{Obrigado. Tchau.}
 {202}{}{Aside from the precious fuel we need to launch ourselves into the bosom of our starry brethren on the planet Quetzel, I can't think of a place. Perhaps the Shi?}
 {203}{}{Huh. I have more questions.}
 {204}{}{Yeah, maybe.}
@@ -108,13 +108,13 @@
 {207}{}{Maybe. Thanks.}
 {208}{}{Simply use the holodisk Juan and Vikki provided to you and check out the Glossary.}
 {209}{}{Thanks. More questions?}
-{210}{}{Thanks.}
+{210}{}{Obrigado.}
 {211}{}{When AHS-9 receives his vision from the Hub, we will leave, and join him in celestial glory!}
 {212}{}{Yeah, praise the Wheel or whatever. I have more questions.}
 {213}{}{Most informative. Thanks.}
 {214}{}{He's usually in his lab, working on ways to perfect our bodies and our spirits.}
 {215}{}{Thanks. I wanted to ask something else.}
-{216}{}{Thanks.}
+{216}{}{Obrigado.}
 {217}{}{Before you can truly be one of us, we must perform an initial zeta scan - an alignment. Are you prepared for your scan?}
 {218}{}{No! No scan!}
 {219}{}{Sure. Let's do it.}

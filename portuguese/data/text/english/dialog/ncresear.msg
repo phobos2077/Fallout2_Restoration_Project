@@ -38,7 +38,7 @@
 {253}{}{Heh-heh. You bald. You look like man}
 {254}{}{Delenn?}
 {255}{}{Wander off}
-{256}{}{Who are you?}
+{256}{}{Quem é você?}
 {257}{}{Sorry, I thought you were some other bald woman with a clipboard. I'll be going now.}
 {265}{}{(The woman looks up and glares at you.) Are you one of the control subjects? As if matters anyway...Guards! Detain this slave!}
 {266}{}{Where slave? Me no see one}
@@ -48,7 +48,8 @@
 {278}{}{I'm one of the new personnel assigned here.}
 {279}{}{I'm looking for Myron. Is he around?}
 {280}{}{Are those test results you have on that clipboard? Can I see them?}
-{282}{}{Nevermind. Sorry to bother you.}
+{282}{}{Deixa pra lá. Desculpe incomodá-lo.
+}
 {295}{}{This area is not open for…visitors. Leave or I will call the guards.}
 {296}{}{But hey, I had some questions for you…}
 {298}{}{Are those test results you have on that clipboard? Can I see them? I'm something of a researcher myself.}
@@ -66,7 +67,7 @@
  could be of some assistance in your studies.}
 {328}{}{I have to be going.}
 {335}{}{Ha! I think I'll just watch you go, period. Leave before I call the guards.}
-{336}{}{All right.}
+{336}{}{Tudo certo.}
 {337}{}{I'm going…::mumble::…you bald-headed bitch.}
 {345}{}{Hmmmm. All right then. Let me give you a run-down on what we do here: we test the effects and potency of a metamphetamine
  called Jet.}

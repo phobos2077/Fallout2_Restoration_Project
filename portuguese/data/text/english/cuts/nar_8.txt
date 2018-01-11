@@ -1,2 +1,2 @@
-1:You fought valiantly, but to no avail.  
-2:Your twisted and ruined body goes down in a hail of bullets, and thus ends your life in the wasteland.
+1:Você lutou bravamente, mas não adiantou. 
+2:Seu corpo retorcido e arruinado desce em um granizo de balas e, assim, acaba sua vida na terra desolada.

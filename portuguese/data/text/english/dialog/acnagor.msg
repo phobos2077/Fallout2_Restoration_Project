@@ -1,66 +1,61 @@
-{100}{}{You see your young cousin, Nagor. You don't see his dog, Smoke, anywhere.}
-{101}{}{You've known Nagor since he was an infant, and have always helped him when you could.}
-{102}{}{Cousin, am I glad to see you! I need your help.}
-{103}{}{Sorry, but I don't have the time.}
-{104}{}{What do you need help with?}
-{105}{}{Then I'll go out in the wilds myself!}
-{106}{}{Hold on there... what was it you need help with?}
-{107}{}{You do that.}
-{108}{}{Smoke ran off into the hunting grounds and hasn't come back and now Morlis
- won't let me go find him. She says it's too dangerous and he's just a dog, but I was
- going to go anyway. But now you're here and you could do it and I wouldn't get in
- trouble.}
-{109}{}{Sure. But where are the hunting grounds?}
-{110}{}{Sure. I'll find him right now.}
-{111}{}{Forget it, I don't have time for this.}
-{112}{}{What'd you do, get hit in the head with a rock? They're on the far side of
- Hakunin's tent, north of the village.}
-{113}{}{I'll be back with him soon.}
-{114}{}{Have you found Smoke yet?}
-{115}{}{No, not yet. Where did you say the hunting grounds were?}
-{116}{}{No, not yet.}
-{117}{}{Have you found Smoke yet?}
-{118}{}{No, not yet. I'll be back soon, though.}
-{119}{}{I am sorry, but he is dead.}
-{120}{}{You're just saying that 'cause you don't wanna look! I don't care what
- Morlis says, I'm going to find him.}
-{121}{}{Nagor, what if something happens to you? Morlis would be alone and that would
- make her real sad. You don't want to make her sad, do you?}
-{122}{}{You do that.}
-{123}{}{Well... no, I don't want to do that. Okay, I won't go, but it's not fair!}
-{124}{}{Smoke will be okay. Goodbye.}
-{125}{}{You found Smoke! Thanks! Smoke, you're a bad dog!}
-{126}{}{You're welcome. Goodbye.}
-{127}{}{Thanks again. I hope you have a really fun trip!}
-{128}{}{I miss Smoke. Why couldn't you save him? You're the Chosen One.}
-{129}{}{I'm busy, dumb one. Go play someplace else.}
-{130}{}{I go.}
-{131}{}{I'm going after Smoke.}
-{200}{}{Hello cousin... uh, I mean Chosen One. I hope you've found the GECK. I've heard a lot of
- talk about hard times to come.}
-{201}{}{Hello cousin... uh, I mean Chosen One. I hope you've found the GECK. I've heard a lot of
- talk about hard times to come.}
-{202}{}{Me still look, Nagor.}
-{203}{}{I'm still looking, nephew.}
-{204}{}{Welcome home, cousin. Things are getting a little tight around here. Have you found the holy
- Thirteen and the GECK?}
-{205}{}{Welcome home, cousin. Things are getting a little tight around here. Have you found the holy
- Thirteen and the GECK?}
-{206}{}{Me not find. Sorry.}
-{207}{}{I'm sorry, Nagor. I'm still looking.}
-{208}{}{Hello again, cousin. I guess you've noticed that things are really falling apart here. Please
- find the GECK. We are in desperate need!}
-{209}{}{Hello again, cousin. I guess you've noticed that things are really falling apart here. Please
- find the GECK. We are in desperate need!}
-{210}{}{Hi, cousin.}
-{211}{}{Hi, cousin.}
-{212}{}{You not sound like usual self.}
-{213}{}{You don't sound like your usual self.}
-{214}{}{I'm sorry, cousin. Things have been getting worse and worse since you last left. People are
- sick, the brahmin are dying and... I... my dog Smoke died - Morlis cooked him. I miss him so much. Sorry, but I can't
- really talk any more...}
-{215}{}{I'm sorry, cousin. Things have been getting worse and worse since you last left. People are sick,
- the brahmin are dying and... I... my dog Smoke died. I miss him so much. Sorry, but I can't really
- talk any more...}
-{300}{}{You see Nagor.}
-{302}{}{Cousin, am I glad to see you! I need your help.}
+{100}{}{Você vê seu primo, Nagor. Você não vê seu cachorro, Fumaça, em qualquer lugar.}
+{101}{}{Você conheceu Nagor desde que ele era um bebê, e sempre o ajudou quando podia.}
+{102}{}{Primo, estou feliz em ver você! Eu preciso de sua ajuda.}
+{103}{}{Desculpe, mas eu não tenho tempo.}
+{104}{}{Que tipo de ajuda você precisa?}
+{105}{}{Então eu irei para fora na minha missão!}
+{106}{}{Espere aí... em que você precisa de ajuda?}
+{107}{}{Você faz isso.
+}
+{108}{}{Fumaça fugiu para o campo de caça e não voltou e agora Morlis não deixe-me ir encontrar ele. Ela diz que é muito perigoso e ele é apenas um cão, mas eu estava indo de qualquer maneira. Mas agora você está aqui e você pode fazê-lo e eu não iria me meter em apuros.}
+{109}{}{Com certeza. Mas onde estão os terrenos de caça?}
+{110}{}{Com certeza. Eu vou encontrá-lo agora.}
+{111}{}{Esqueça, eu não tenho tempo para isso.}
+{112}{}{O que você fez, foi atingido na cabeça com uma pedra? Eles estão do outro lado da tenda de Hakunin, a norte da vila.}
+{113}{}{Eu vou estar de volta com ele em breve.}
+{114}{}{Você já encontrou Fumaça?}
+{115}{}{Não, ainda não. Onde você disse que é o campo de caça?}
+{116}{}{Não, ainda não.}
+{117}{}{Você já encontrou Fumaça?}
+{118}{}{Não, ainda não. Eu vou estar de volta em breve, porém.}
+{119}{}{Sinto muito, mas ele está morto.}
+{120}{}{Você está apenas dizendo isso porque você não quer olhar! Eu não me importo com o que
+  Morlis diz, eu vou encontrá-lo.}
+{121}{}{Nagor, e se algo acontecer com você? Morlis ficaria sozinha e isso faria
+ com que ela ficase triste. Você não quer deixá-la triste, não é?}
+{122}{}{Você faz isso.
+}
+{123}{}{Bem... não, eu não quero fazer isso. Ok, eu não quero ir, mas não é justo!}
+{124}{}{Fumaça ficará bem. Adeus.}
+{125}{}{Você encontrou o Fumaça! Obrigado! Fumaça, você é um cão mau!}
+{126}{}{Você é bem-vindo. Adeus.}
+{127}{}{Obrigado novamente. Eu espero que você tenha realmente uma viagem divertida!}
+{128}{}{Eu sinto falta do Fumaça. Por que você não poderia salvá-lo? Você é o Escolhido.}
+{129}{}{Estou ocupada, burro. Vá jogar em outro lugar.}
+{130}{}{Eu vou.}
+{131}{}{Eu vou depois do Fumaça.}
+{200}{}{Olá primo ... eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi muito
+  Falar sobre tempos difíceis vindo. }
+{201}{}{Olá primo ... eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi muito
+  Falar sobre tempos difíceis vindo. }
+{202}{}{Eu ainda olho, Nagor.}
+{203}{}{Eu ainda estou procurando, sobrinho.}
+{204}{}{Bem-vindo a casa, primo. As coisas estão ficando um pouco apertadas por aqui. Você já encontrou o santo Treze e o GECK?}
+{205}{}{Bem-vindo a casa, primo. As coisas estão ficando um pouco apertadas por aqui. Você já encontrou o santo Treze e o GECK?}
+{206}{}{Não encontrei. Desculpa.}
+{207}{}{Desculpe, Nagor. Eu ainda estou procurando.}
+{208}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos pedaços aqui. Por favor encontre o GECK. Estamos em necessidade desesperada!}
+{209}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos pedaços aqui. Por favor encontre o GECK. Estamos em necessidade desesperada!}
+{210}{}{Oi, primo.}
+{211}{}{Oi, primo.}
+{212}{}{Você não soa auto como de costume.}
+{213}{}{Você não soa como seu eu habitual.}
+{214}{}{Me desculpe, primo. As coisas estão piorando desde a última vez que você deixou. As pessoas estão
+  doentes, os brahmins estão morrendo e ... eu ... meu cachorro, Fumaça morreu - Morlis o cozinhou. Sinto muita falta dele. Desculpe, mas não posso
+  realmente falar mais ...
+}
+{215}{}{Me desculpe, primo. As coisas estão piorando desde a última vez que você deixou. As pessoas estão doentes,
+  Os brahmins estão morrendo e ... eu ... meu cachorro Fumaça morreu. Sinto muita falta dele. Desculpe, mas não posso realmente
+  falar mais ...}
+{300}{}{Você vê Nagor.}
+{302}{}{Primo, estou feliz em ver você! Eu preciso de sua ajuda.}

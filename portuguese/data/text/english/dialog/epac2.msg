@@ -48,7 +48,7 @@
 {311}{}{What kind of help do you need?}
 {320}{}{Well, that depends. I don't suppose you'd feel comfortable wielding a large experimental gun, would you?}
 {321}{}{Hell yeah I would!}
-{322}{}{Sure.}
+{322}{}{Com certeza.}
 {323}{}{I think I'll pass.}
 {330}{}{Oh, I see. That's too bad. Oh well, no hard feelings. I'll just wait until the next flesh and blood person comes
  wandering into this facility. It's bound to happen again within a century or two. Goodbye.}
@@ -72,7 +72,7 @@
 {390}{}{Ah, welcome back. Have you gotten a chance to test the Solar Scorcher?}
 {391}{}{Sure did. It scorched the hell out of things.}
 {392}{}{Sure did, but the piece of shit broke on me. I had to trash it.}
-{393}{}{No, not yet.}
+{393}{}{Não, ainda não.}
 {394}{}{I'll get around to it.}
 {400}{}{Excellent! I'm delighted to know it works as intended. Thank you for assisting me with this. Why don't you go
  ahead and keep the Solar Scorcher, I'd rather it get some use than sit around here and collect dust.}

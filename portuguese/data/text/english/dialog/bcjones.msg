@@ -42,7 +42,7 @@
  be here for the people in the town above. They have no medical help at all, and there is a lot I can
  do to aid them.}
 {137}{}{Okay. Need know more.}
-{138}{}{Thanks. Bye.}
+{138}{}{Obrigado. Tchau.}
 {139}{}{That's very commendable of you.}
 {140}{}{I see. I'll be going now.}
 {141}{}{They're squatters! Let 'em die. Get on with your life.}
@@ -90,7 +90,7 @@
 {205}{}{Well, I see no reason to return to my old life. The town above us doesn't have any medical assistance, so I think
  I will go up and help them. Thank you again for freeing me.}
 {206}{}{Of course. See you later.}
-{207}{}{Bye!}
+{207}{}{Adeus!}
 {210}{}{I still need to pack a few things. I'll see you on the outside.}
 {220}{}{Hey there, good to see you again! Everyone here really appreciates what you have done. I personally am glad
  to be out of there. Working for Darion was a nightmare.}
@@ -103,6 +103,6 @@
  and was heading out when Darion captured me.}
 {231}{}{That's terrible. Well, I hope everything works out for you now.}
 {240}{}{I hope so too. I think I can put my medical skills to good use here.}
-{241}{}{Bye.}
+{241}{}{Adeus.}
 {250}{}{Thanks again for everything.}
 {251}{}{It feels good to be helping civilized people again.}

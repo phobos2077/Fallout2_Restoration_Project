@@ -2,11 +2,11 @@
 {101}{}{You see Tubby.}
 {150}{}{This is the store owner.}
 {151}{}{This is Tubby, the shop store owner.}
-{152}{}{[TALK]}
+{152}{}{[FALAR]}
 {153}{}{I would prefer that you take your business elsewhere.}
 {154}{}{You are a business man. Let's conduct business.}
 {155}{}{Can I ask you something.}
-{156}{}{Bye.}
+{156}{}{Adeus.}
 {157}{}{I am so happy to see you again. What can I do for you today?}
 {158}{}{Let's trade.}
 {159}{}{Can I ask you something?}
@@ -15,14 +15,14 @@
  you?}
 {162}{}{Yes, let's trade.}
 {163}{}{I need some information.}
-{164}{}{Goodbye.}
+{164}{}{Adeus.}
 {165}{}{Hello, madam. I am called Tubby by my friends, and I welcome you
  to my store. How may I help you?}
 {166}{}{I want to buy some things.}
 {167}{}{I need some information.}
-{168}{}{Goodbye.}
+{168}{}{Adeus.}
 {169}{}{I would prefer that you leave, instead.}
-{170}{}{Bye.}
+{170}{}{Adeus.}
 {171}{}{What would you like to know?}
 {172}{}{Who's in charge of this town?}
 {173}{}{Why is everyone selling drugs?}
@@ -41,7 +41,7 @@
 town may use grain or gold. Redding is another prime example of a town fueled by drugs.
  Damn miners are too high all the time to get any real work done. I have never been there myself,
  but it is a couple days south-east of here if you want to check it out.}
-{183}{}{Thanks.}
+{183}{}{Obrigado.}
 {184}{}{I have heard of a place called Vault City. But unfortunately, I can't
  help you with directions. You see, very few of us towns can offer acceptable
  exchange for the medical services they provide, so most of us have never been

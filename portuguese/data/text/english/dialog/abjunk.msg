@@ -1,4 +1,4 @@
-{100}{}{You see pre-war gadgets.}
-{101}{}{Displayed on the table, like holy relics, is an impressive array of pre-war gadgets and gizmos.
- Too bad none of it works anymore.}
-{102}{}{There is nothing of use here.}
+{100}{}{Você vê pré-guerra gadgets.}
+{101}{}{Exibido na mesa, como relíquias sagradas, é uma impressionante variedade de aparelhos e aparelhos de pré-guerra.
+  Muito ruim, nada disso funciona.}
+{102}{}{Não há nada de uso aqui.}

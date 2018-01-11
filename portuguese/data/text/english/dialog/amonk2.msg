@@ -1,6 +1,6 @@
 {100}{}{You see a monk.}
 {101}{}{You see a holy woman.}
-{102}{}{You see a regular Abbey monk.}
+{102}{}{Você vê um monge regular da Abadia.}
 {103}{}{You see a regular Abbey nun.}
 {200}{}{Greetings.}
 {201}{}{Welcome to the Abbey.}
@@ -8,4 +8,4 @@
 {203}{}{Good day...or is it night already?}
 {204}{}{There's so much work that must be done.}
 {205}{}{Life here at the Abbey is a peaceful one. Something rare in these wretched wastes.}
-{500}{}{Stop that!}
+{500}{}{Pare com isso!}

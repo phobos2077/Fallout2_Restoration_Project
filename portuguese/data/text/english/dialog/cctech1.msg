@@ -13,7 +13,7 @@
 {112}{}{Where Enclave main base at.}
 {113}{}{Me look for vertibird plans. Where I find?}
 {117}{}{Me be go now.}
-{118}{}{What is this place?}
+{118}{}{O que é este lugar?}
 {119}{}{What is your job here?}
 {120}{}{Where is the Enclave main base located?}
 {121}{}{I need to look at the vertibird plans. Where are they kept?}
@@ -31,10 +31,10 @@
 {136}{}{No. Reason military. How many way get to base?}
 {137}{}{No. This is a military matter. Now, how many ways do you know of to reach the base?}
 {138}{}{Well... there’s the vertibirds, but that’s pretty obvious. Then there’s the tanker down in San Fran. Other than that I guess you’d have to swim.}
-{139}{}{Thanks.}
-{140}{}{Thanks.}
+{139}{}{Obrigado.}
+{140}{}{Obrigado.}
 {141}{}{They would be located in maintenance, next to air traffic control. }
-{142}{}{Okay.}
+{142}{}{Tudo bem.}
 {143}{}{Got it.}
 {153}{}{Are you nuts, walking around here out of uniform? Get suited up!}
 {154}{}{If the sergeant catches you out of uniform he’ll hand you your ass.}

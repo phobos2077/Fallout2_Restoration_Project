@@ -11,9 +11,9 @@
 {110}{}{You're kidding.}
 {111}{}{Ha-ha.}
 {112}{}{There you are, sonny.}
-{113}{}{Again.}
+{113}{}{Novamente.}
 {114}{}{Thanks, Doc. Maybe you can help me out with some answers.}
-{115}{}{Goodbye.}
+{115}{}{Adeus.}
 {116}{}{It'll cost you $50.}
 {117}{}{Just heal me.}
 {118}{}{I'm not staying here.}
@@ -58,10 +58,10 @@
 {157}{}{Thanks for the story.}
 {158}{}{You best go talk to President Tandi. I've heard she's looking for a special type of person.}
 {159}{}{Another question...}
-{160}{}{Thanks.}
+{160}{}{Obrigado.}
 {161}{}{I might... There is a group set against slavery and- well, most the other vices, too. You can sometimes find them over at the big shop, working on some automobile.}
 {162}{}{Another question...}
-{163}{}{Thanks.}
+{163}{}{Obrigado.}
 {164}{}{Hey, get your hands off that, punk!}
 {165}{}{Careful there! Just takes tiny amount to expose yourself.}
 {166}{}{Put that back! You could seriously hurt yourself with that stuff.}

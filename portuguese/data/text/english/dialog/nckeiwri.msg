@@ -1,7 +1,7 @@
 {100}{}{You see Keith Wright.}
 {150}{}{You see a thin, pale-faced young man with long stringy blonde hair. He's looking at you warily.}
 {151}{}{You see Keith Wright. He's looking at you warily.}
-{200}{}{Who are you?}
+{200}{}{Quem é você?}
 {201}{}{Whatdya want?}
 {220}{}{Hey, }
 {230}{}{Make another move toward that door, an' you'll be sorry.}
@@ -19,7 +19,8 @@
 {259}{}{I'm looking for a job. Chris sent me by. Is Family Wright hiring?}
 {262}{}{Hey, Keith. I ran into your Mom.}
 {263}{}{Can you tell me about your brother Richard?}
-{264}{}{Nevermind. Sorry to bother you.}
+{264}{}{Deixa pra lá. Desculpe incomodá-lo.
+}
 {280}{}{Get outta here, dimbulb. Next time you talk to me, I'll plug you fulla holes.}
 {281}{}{Holes holes holes in my soles}
 {282}{}{Shamma Lamma DING DONG}
@@ -31,7 +32,7 @@
 {310}{}{I'm Keith Wright of the Family Wright. Now, you gonna tell me what yer doing here?}
 {312}{}{Chris told me to stop by. I'm looking for work. Can you help me?}
 {313}{}{Keith Wright, huh? I ran into your mother.}
-{315}{}{What is this place?}
+{315}{}{O que é este lugar?}
 {325}{}{This is the Family Wright HOUSE. Now, you gonna tell me what yer doing here?}
 {335}{}{Chris sent you, huh?}
 {336}{}{That's right. He said you might have some work for me.}
@@ -44,7 +45,7 @@
 {359}{}{All right then.}
 {365}{}{Naw, I reckon you WILL be leaving, 'cause you look like the kinda person who likes living. Now get.}
 {366}{}{I'm NOT leaving.}
-{367}{}{All right.}
+{367}{}{Tudo certo.}
 {375}{}{I WARNED you…}
 {376}{}{You want some of THIS, BOY?! You want some of THIS?! Then come GET s --}
 {380}{}{Uh… what about her? Has she gotten herself in trouble again?}
@@ -83,7 +84,7 @@
 {461}{}{Thanks, Keith. I won't be long.}
 {470}{}{Hold on. (Knocks on door behind him.) Pa? (He sticks his head in, there's some mumbling, then he comes back and nods at the door.)
  You ken go in, but watch out. Dad's in a pissy mood.}
-{471}{}{Thanks.}
+{471}{}{Obrigado.}
 {480}{}{He's Big Jesus' son. A bastard, more like. He mighta caught Richard alone, then pumped him fulla
  Jet outta spite. You looking for him, check out the Desperado. Little Jesus hangs out there with his old man.}
 {1220}{}{. What's goin' on?}

@@ -11,17 +11,17 @@
 {157}{}{What’s your name little boy?}
 {158}{}{Tell me your name you little monster.}
 {159}{}{Would you like some candy little kid.}
-{160}{}{Hello again.}
+{160}{}{Olá novamente.}
 {161}{}{Is your name Jonny?}
 {162}{}{What’s your name little boy?}
 {163}{}{Tell me your name you little monster.}
 {164}{}{Would you like some candy little kid.}
-{165}{}{Hello again.}
+{165}{}{Olá novamente.}
 {166}{}{Your mother and father have sent me to find you.}
 {167}{}{Would you like some candy little kid.}
 {168}{}{Have you talked to Vegeir about me going home?}
 {169}{}{Yes. He says he wants your parents to come down and get you.}
-{170}{}{No, not yet.}
+{170}{}{Não, ainda não.}
 {171}{}{My dad said Laddie went with you to look for me. Where is she? I miss her.}
 {172}{}{I’m sorry Jonny. Laddie died while we were searching for you.}
 {173}{}{Rose said she would look after your dog.}

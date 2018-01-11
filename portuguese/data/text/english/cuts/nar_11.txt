@@ -1,2 +1,2 @@
-1:You managed to destroy the Vats, then you killed the Master before he could realize his twisted plans.
-2:With the Master gone, his armies flee to the east in fear of retribution from the remaining normals.
+1:Você conseguiu destruir os Vats, então você matou o Mestre antes que ele pudesse realizar seus planos distorcidos. 
+2:Com o Mestre desaparecido, seus exércitos fogem para o oriente com medo de represálias dos remanecentes normais.

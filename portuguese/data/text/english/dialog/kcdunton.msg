@@ -70,7 +70,7 @@
 {204}{}{I don't think I want to do that after all.}
 {205}{}{OK, I'll be there. Goodbye.}
 {206}{}{In the meantime, though, there's something that I want to know.}
-{207}{}{Goodbye.}
+{207}{}{Adeus.}
 {208}{}{I'm Chuck Dunton. What are you? Dumb?}
 {209}{}{I'm Buck Dunton. What are you? Dumb?}
 {210}{}{Do I look especially ugly? I'm Chuck Dunton.}
@@ -259,7 +259,7 @@
 {705}{}{[hyuk, hyuk, hyuk] Yeah right, tribal. I think it's about time we teach you what happens to nosy tribals 'round here.}
 {706}{}{Alright Tribal, you win this time. We'll stop, now just leave us alone.}
 {707}{}{You scare the Dunton brothers into never bothering Torr again.}
-{708}{}{[DONE]}
+{708}{}{[FEITO]}
 {709}{}{Just leave us alone.}
 {710}{}{Yeah, whatever tribal. Just mind your own business.}
 {800}{}{I found a pile of bug parts in the cabin over at the grazing area. Do you know what they are?}

@@ -25,7 +25,7 @@
 {124}{}{Yes, what is it?}
 {125}{}{Ken I Helf uuuuuuuu}
 {126}{}{Shamble off}
-{127}{}{What is this place?}
+{127}{}{O que é este lugar?}
 {128}{}{Can I see what you have in stock?}
 {129}{}{Nothing today, thanks.}
 {130}{}{Great, another Outsider... guards! We have an Outsider that needs to be escorted to the gate!
@@ -52,5 +52,5 @@
  in Vault City. I am Sub-Amenities Officer Holden. How may I help you today, Captain?}
 {151}{}{Hey! Stay away from there!}
 {152}{}{That's it! You're out of here!}
-{153}{}{Thanks.}
+{153}{}{Obrigado.}
 {154}{}{[continue]}

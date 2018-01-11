@@ -1,6 +1,6 @@
 {100}{}{You see a member of the Slaver's Guild.}
 {150}{}{You see Metzger, head of the Slaver's Guild.}
-{151}{}{[TALK]}
+{151}{}{[FALAR]}
 {152}{}{Guards! Attack!}
 {153}{}{[done]}
 {154}{}{Come back in the morning damn it! I do my business during the day.}
@@ -92,7 +92,7 @@
 {236}{}{No way! I want double!}
 {237}{}{You drive a hard bargain. Here is your money!}
 {238}{}{Thanks. I have some more questions.}
-{239}{}{Thanks. Bye.}
+{239}{}{Obrigado. Tchau.}
 {240}{}{Anything else?}
 {241}{}{Yes, I have a question.}
 {242}{}{Nope. Bye.}
@@ -101,7 +101,7 @@
 {245}{}{Interesting. I'll give you }
 {246}{}{ coins.}
 {247}{}{Sold!}
-{248}{}{No, thanks.}
+{248}{}{Não, obrigado.}
 {249}{}{I want more money than that!}
 {250}{}{Alright, I'll give you }
 {251}{}{ but no more!}
@@ -114,7 +114,7 @@
 {258}{}{Nothing. Never mind.}
 {259}{}{He is not for sale, yet.}
 {260}{}{Why not?}
-{261}{}{Oh, okay.}
+{261}{}{Ah, tudo bem.}
 {262}{}{He will cost $2000.}
 {263}{}{Here is your money.}
 {264}{}{That's a lot. Maybe later.}
@@ -122,7 +122,7 @@
 {266}{}{Here is your money.}
 {267}{}{Don't have that much yet. Bye.}
 {268}{}{Our radio is broken and he's in charge of fixing it.}
-{269}{}{I see.}
+{269}{}{Eu vejo.}
 {270}{}{You haven't got the money!}
 {271}{}{Too bad for me. Can I ask you a question?}
 {272}{}{Sorry, I'll come back.}

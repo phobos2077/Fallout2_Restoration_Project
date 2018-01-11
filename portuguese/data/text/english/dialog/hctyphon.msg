@@ -4,9 +4,9 @@
 {103}{}{Howdy there, kiddo, and welcome to the Old Ghouls' Home!}
 {104}{}{Nol Ghul?}
 {105}{}{Old Ghouls' Home?}
-{106}{}{Who are you?}
+{106}{}{Quem é você?}
 {107}{}{Hey, you ever heard of a GECK?}
-{108}{}{Bye.}
+{108}{}{Adeus.}
 {109}{}{Another waste-baby, huh? Hey, kid, you want to know a secret?}
 {110}{}{Yeh!}
 {111}{}{Nuh uh.}
@@ -17,9 +17,9 @@
 {115}{}{What kind of treasure?}
 {116}{}{What kind of favor?}
 {117}{}{I had other questions.}
-{118}{}{Bye!}
+{118}{}{Adeus!}
 {119}{}{Heh. All right, then. I ain't got nothin' for you. Go on, git.}
-{120}{}{Bye.}
+{120}{}{Adeus.}
 {121}{}{Kid, y'got to do me a favor, first.}
 {122}{}{Okey!}
 {123}{}{Nuh uh!}
@@ -35,7 +35,7 @@
 {133}{}{Thanks for the mag, kid. Let me get back to you in an hour or so.}
 {134}{}{Okay!}
 {135}{}{I ain't done yet, kid! Sheesh! Can't an old ghoul have his privacy?}
-{136}{}{[DONE]}
+{136}{}{[FEITO]}
 {137}{}{What kind o' treasure? Money, kid, lots and lots of money. Enough to satisfy any sane person.}
 {138}{}{What's the catch?}
 {139}{}{I don't need money.}
@@ -45,11 +45,11 @@
 {143}{}{What kind of treasure is it?}
 {144}{}{Yeah, tell me.}
 {145}{}{I had other questions for you first.}
-{146}{}{No.}
+{146}{}{Não.}
 {147}{}{Like what?}
 {148}{}{This is the Old Ghouls' Home?}
 {149}{}{You ever heard of a GECK?}
-{150}{}{Who are you?}
+{150}{}{Quem é você?}
 {151}{}{Anything else you can tell me?}
 {152}{}{It's kind of a joke. There ain't any ghouls but old ghouls. We're all sterile, see, but we're incredibly long-lived. We're the first and last generation of ghouls. This is a place for those of us who just wanna rest for a while.}
 {153}{}{I see. I had other questions.}
@@ -64,15 +64,15 @@
 {162}{}{Damn. Bye.}
 {163}{}{"Total bastard" would be a fine way to describe the old man. Being turned into a ghoul from the radiation didn't do much for his sense of humor or sense of authority, let me tell you. 'Course, it kinda screwed up everyone's brains. I think growing up ghoulie made it a little easier on me.}
 {164}{}{I see. I had other questions.}
-{165}{}{Thanks. Bye.}
+{165}{}{Obrigado. Tchau.}
 {166}{}{Well? Do you have my Cat's Paw magazine yet?}
 {167}{}{'Es. [Give Cat's Paw to Typhon.]}
 {168}{}{Nuh-uh.}
 {169}{}{Yup. Here you go. [Give Cat's Paw to Typhon.]}
 {170}{}{Not yet. I had other questions.}
-{171}{}{Nope.}
+{171}{}{Não.}
 {172}{}{Well, hurry it up! I'm an old, old ghoul, and I tell you, I gotta have relaxation! Now go, go, go!}
-{173}{}{[DONE]}
+{173}{}{[FEITO]}
 {174}{}{Kid, that magazine stirred up the ol' juices, and I figure that for the sort of treasure I'm talkin', you can hunt me down a few more things. Go git me a blow-up doll. You can probably find one in New Reno.}
 {175}{}{Okey! Bye!}
 {176}{}{Nuh-uh!}
@@ -82,9 +82,9 @@
 {180}{}{Forget it.}
 {181}{}{Got it right here. [Give Blow-Up Doll to Typhon.]}
 {182}{}{This, kid, will hit the spot. Gimme a few hours and we'll talk more. Go on. [He eyes the doll lustfully.]}
-{183}{}{[DONE]}
+{183}{}{[FEITO]}
 {184}{}{Can't a guy get a little privacy! Git! Git! G'wan!}
-{185}{}{[DONE]}
+{185}{}{[FEITO]}
 {186}{}{I'm all tuckered out now. Go get me some rotgut and we'll talk about the treasure. Phil the bartender should be able to take care o' that for you.}
 {187}{}{Rite! Bye!}
 {188}{}{No!}
@@ -102,11 +102,11 @@
 {200}{}{That's a bit vague, but thanks. See ya.}
 {201}{}{You find that treasure yet, kid?}
 {202}{}{Nuh uh.}
-{203}{}{Not yet.}
+{203}{}{Ainda não.}
 {204}{}{Nope. I had some questions.}
 {205}{}{Nope. Bye.}
 {206}{}{Well, keep lookin'. You're bound to get it eventually.}
-{207}{}{Okay.}
+{207}{}{Tudo bem.}
 {208}{}{Guess so. Bye.}
 {209}{}{How's the treasure, kid?}
 {210}{}{Bad! Caps!}

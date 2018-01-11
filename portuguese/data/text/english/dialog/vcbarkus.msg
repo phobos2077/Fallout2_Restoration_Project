@@ -106,7 +106,7 @@
 {199}{}{I see. I may return later when I have enough funds for a donation.}
 {200}{}{Well...that's not as much of a donation as I would like, but it will do. I shall see to it that this Joshua you have
  requested is shipped to the Courtyard for processing. Let me make the necessary arrangements.}
-{201}{}{Okay.}
+{201}{}{Tudo bem.}
 {202}{}{It is done. Joshua is no longer a servant of Vault City, and he has been moved into the Courtyard with the rest
  of the Outworlders.}
 {203}{}{Thanks. I had some other questions...}

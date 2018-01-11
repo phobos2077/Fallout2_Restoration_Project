@@ -122,7 +122,7 @@
 {515}{}{(Nods, frowning slightly.) Well, awright then...go tell Mr. Salvatore what you found.}
 {516}{}{Oh, REALLY? Is THAT what I should do? Thanks, Mason. Without you, I wouldn't even know how to get
  from place to place. Sheesh. Idiot.}
-{517}{}{All right.}
+{517}{}{Tudo certo.}
 {520}{}{You done the job yet?}
 {525}{}{Go see Mr. Salvatore. He's waiting for you.}
 {530}{}{Awright, then. You're gonna be a one-man collection agency. Drill's simple: Visit Renesco's Pharmacy
@@ -144,7 +144,7 @@
 {575}{}{I told you not to come back until you got that money...I TOLD you. (Taps his head.) Are you stupid?!
  Must be, cause here you are talking to me again. Stupid...and DEAD.}
 {585}{}{(Mason's eyes narrow.) So friggin' what? You tell him who you worked for?}
-{586}{}{Yes.}
+{586}{}{Sim.}
 {587}{}{Well, no.}
 {595}{}{Then did you SHOW him who you worked for?}
 {596}{}{Show him?}

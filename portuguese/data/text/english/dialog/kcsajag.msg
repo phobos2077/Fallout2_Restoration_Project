@@ -18,7 +18,7 @@
 {134}{}{I'd like to trade.}
 {135}{}{I'd like a room for the night.}
 {136}{}{Thanks for your help. Goodbye.}
-{137}{}{Goodbye.}
+{137}{}{Adeus.}
 {140}{}{One tall mug of Golden Gecko Piss coming up. Only $5 for the best beer north of Redding.}
 {141}{}{You poured me a mug of piss!?!}
 {142}{}{Thanks for the beer. I need some information though.}
@@ -41,7 +41,7 @@
 {181}{}{Nice of you to drink with us lowlifes. (snickers) Just what do you want anyway?}
 {182}{}{I think I'll have another drink.}
 {183}{}{I'd like to buy a round of drinks for all my new friends here.}
-{184}{}{I have some questions for you.}
+{184}{}{Eu tenho algumas perguntas para você.}
 {185}{}{I think that's all I need for now, thanks.}
 {190}{}{Well information's what it's all about, pal. What do you want to know about?}
 {191}{}{Yeah? What the heck do you want to know about?}

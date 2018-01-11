@@ -2,7 +2,7 @@
 {101}{}{You see a hermit.}
 {102}{}{It looks as if he hasn't washed in years.}
 {103}{}{Can guess you why I hermit? [It seems he hasn't spoken to anyone in years.]}
-{104}{}{Why?}
+{104}{}{Por quê?}
 {105}{}{Just passing through.}
 {106}{}{Ug.}
 {107}{}{Me want left alone.}
@@ -15,9 +15,9 @@
 {114}{}{I'll be going now.}
 {115}{}{Hmm...I like you. No ear talk off. Stay, trade me and you.}
 {116}{}{K'}
-{117}{}{Me go.}
+{117}{}{Eu vou.}
 {118}{}{Nice talk. Go now. Tired am I.}
-{119}{}{[END]}
+{119}{}{[FIM]}
 {120}{}{Talk give pain in head. Go.}
 {121}{}{Done me talk to you.}
 {122}{}{No talk. Go.}
@@ -25,4 +25,4 @@
 {124}{}{Leave home!}
 {125}{}{How you dare me attack!}
 {126}{}{Leave alone me.}
-{127}{}{I go.}
+{127}{}{Eu vou.}

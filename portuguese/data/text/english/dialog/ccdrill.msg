@@ -10,7 +10,7 @@
 {109}{}{Uh... me }
 {110}{}{I'm }
 {111}{sgnt4}{Oh, lovely. They've sent me a mo-ron. Listen closely. You will stand guard at the hangar. This is your duty post. You will go there now and stay on guard until told otherwise. Now move it, soldier!}
-{112}{}{Me go.}
+{112}{}{Eu vou.}
 {113}{sgnt5}{What was that? Did you forget something, maggot?}
 {114}{}{My name is }
 {115}{sgnt6}{I am not a Sir. I work for a living, you mo-ron. You will call me Sergeant or Sergeant Dornan. Do you understand me! }
@@ -30,7 +30,7 @@
 {129}{}{Okay. Me go get suit.}
 {130}{}{Yes, Sergeant!}
 {131}{sgnt11}{Those paper-shuffling jackasses! How the hell do they expect me to run this unit if they keep shortchanging me on supplies! Double-time it over to the armory and get your issue, then report back to me. Dismissed!}
-{132}{}{Okay.}
+{132}{}{Tudo bem.}
 {133}{}{Yes, Sergeant!}
 {134}{sgnt12}{If I like you, you can call me Sarge. But guess what? I don't like you! Do you understand?}
 {135}{}{Yes, Sergeant!}

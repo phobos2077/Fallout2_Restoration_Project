@@ -25,14 +25,14 @@
 {173}{}{Sorry, I don't have anything for you. Bye.}
 {174}{}{Do you know where I can find a GECK?}
 {175}{}{You mentioned something about a garden earlier. Tell me more.}
-{178}{}{Me go.}
+{178}{}{Eu vou.}
 {179}{}{Hey cheapskate! (hic) Come on, I know you gots money… (hic) Just some spare change then… (hic)
  something, anything! Show some compassion.}
 {180}{}{Here. Here's $25.}
 {184}{}{Here. Here's $1.}
 {185}{}{Here money.}
 {186}{}{No money.}
-{187}{}{What do you want?}
+{187}{}{O que você quer?}
 {188}{}{[Tell Karl about what Jo said.]}
 {189}{}{Ghosts, Karl… they're everywhere. Look, there's one now!}
 {190}{}{Gibba gibba.}
@@ -80,7 +80,7 @@
  reaches into your purse and takes half your money.] Very kind of you (hic) if you needs anything,
  don't hesitate to ask.}
 {228}{}{GECK?}
-{229}{}{I go.}
+{229}{}{Eu vou.}
 {230}{}{Jooky… hic… It's a party in a can.}
 {231}{}{Maybe later, then.}
 {232}{}{Gee... (hic) ...thanks. Maybe I can buy a (hic) bullet to shoot myself with. (hic) Course I'd

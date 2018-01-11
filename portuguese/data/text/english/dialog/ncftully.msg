@@ -46,7 +46,7 @@
 {254}{}{Nightie-night.}
 {255}{}{Uh, it's actually day time, Father.}
 {256}{}{Uh, it's actually night time, Father.}
-{257}{}{Who are you?}
+{257}{}{Quem é você?}
 {258}{}{Are you drunk?}
 {259}{}{'Father' Tully, huh? Can you do divorces?}
 {261}{}{Say, I brought some hootch, Father. Can we talk for a moment…?}
@@ -161,8 +161,8 @@
 {591}{}{Business at home?}
 {600}{}{Well, not much, but I hear thingz OUSSIDE th' confessional about oul' Bishop. Crafty devil. Got iron ballz, he
  does...must clink when he walkz. I figger he'z behind thosse raidz on Vault City…you heard 'bout those?}
-{601}{}{No.}
-{602}{}{Yes.}
+{601}{}{Não.}
+{602}{}{Sim.}
 {603}{}{Father, keep it down. That kind of talk could get you killed in this town…}
 {604}{}{Look, maybe I'll come back when you're sober.}
 {610}{}{(Ignores you.) See, a few months back, oul' Bishop sends a caravan to Vault City, SUGGESTING a marriage o' convenience 'tween

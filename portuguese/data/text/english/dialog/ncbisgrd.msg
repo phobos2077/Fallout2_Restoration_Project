@@ -121,7 +121,7 @@
 {480}{}{Forget it then.}
 {490}{}{(The guard steps away for a moment, opens a panel on one of the walls and whispers something.
  He waits for a minute, listens, then turns back to you and shrugs.) He says you can head on up.}
-{491}{}{All right.}
+{491}{}{Tudo certo.}
 {495}{}{Yo, }
 {496}{}{! }
 {497}{}{Mr. Bishop 'xpecting you?}
@@ -130,7 +130,7 @@
 {505}{}{Sure, go on up, }
 {506}{}{. }
 {507}{}{Next time, don't even sweat asking…just head on up.}
-{508}{}{Thanks.}
+{508}{}{Obrigado.}
 {1228}{}{. Now.}
 {1229}{}{. Ain't your family gonna be missing you?}
 {1230}{}{ family is a bunch of pussies. What you think about that?}

@@ -1,2 +1,2 @@
-1:Repairing Gecko's power plant prevented any further radioactivity from leaking into Vault City's groundwater.
-2:Though this eased tensions between the two communities, they still maintain an uneasy truce.
+1:A reparação da usina de Gecko impediu que qualquer radioatividade adicional vazasse nas águas subterrâneas da Vault City.
+2:Embora essas tensões facilitadas entre as duas comunidades, eles ainda mantêm uma trégua desconfortável.

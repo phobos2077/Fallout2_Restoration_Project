@@ -43,7 +43,7 @@
 {142}{}{Itz juhst over th-there...itz th' tuh-tuh-talking cuh-cuh-compuhter.}
 {143}{}{(It's just over there. It's the talking computer.)}
 {144}{}{What is it you do here?}
-{145}{}{Thanks. Goodbye.}
+{145}{}{Obrigado. Adeus.}
 {146}{}{Juhst keep an uh-uh-eye on things in stuh-storage down here. Muh-Muh-Make shure all the doors stay luh-luh-locked.}
 {147}{}{(Just keep an eye on things in storage down here. Make sure all the doors stay locked.)}
 {148}{}{Do you have a key?}
@@ -71,7 +71,8 @@
 {170}{}{Could you stop that goddamn singing?! It's driving me crazy.}
 {171}{}{You have a great singing voice. You should keep practicing.}
 {172}{}{What was it you do here again?}
-{173}{}{Nevermind. Sorry to bother you.}
+{173}{}{Deixa pra lá. Desculpe incomodá-lo.
+}
 {174}{}{Th-th-thanks! That's n-nice of you to say.}
 {175}{}{What was it you do here again?}
 {176}{}{Just thought you should know. Take care.}

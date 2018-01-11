@@ -2,7 +2,7 @@
 {101}{}{You see Jacob the Chemist.}
 {102}{}{You see a bedraggled man in a stained lab coat. His hands are discolored from chemicals.}
 {103}{}{Hi there. I'm Jacob, the chemist of the Chemist's Drugstore. What can I do for you?}
-{104}{}{What do you want?}
+{104}{}{O que você quer?}
 {105}{}{Hello again! What can I for you today?}
 {106}{}{Welcome back. What can I do for you?}
 {107}{}{Da yagga! Eep oop op!}
@@ -11,17 +11,17 @@
 {110}{}{What can you tell me about Broken Hills?}
 {111}{}{I want some chemicals mixed.}
 {112}{}{I was told to speak to you about a certain matter regarding mutants.}
-{113}{}{Bye.}
+{113}{}{Adeus.}
 {114}{}{::A look of disgust crosses his face:: Get out of here. I don't have time for you.}
-{115}{}{[DONE]}
+{115}{}{[FEITO]}
 {116}{}{Drugstore. It's a drugstore. Look, do you want anything?}
 {117}{}{You again? Do you want something?}
 {118}{}{'Es!}
 {119}{}{Unh uh.}
 {120}{}{Fine. Let's see what you want.}
-{121}{}{[MORE]}
+{121}{}{[MAIS]}
 {122}{}{Then leave.}
-{123}{}{[DONE]}
+{123}{}{[FEITO]}
 {124}{}{There. We're done. Thank you for the tip. Now please leave.}
 {125}{}{D'okay!}
 {148}{}{Why don't you tell me how you feel about mutants first?}
@@ -38,15 +38,16 @@
 {158}{}{No, I'm not really interested.}
 {159}{}{In that case, it's just great being here. This town has everything you could want… mutant
  sheriff, uranium mine, hospital, store… you can get just about anything here. You want anything else?}
-{160}{}{Yes.}
-{161}{}{No.}
+{160}{}{Sim.}
+{161}{}{Não.}
 {162}{}{Great. Bye.}
-{163}{}{Bye.}
+{163}{}{Adeus.}
 {164}{}{He's been ruling here ever since the Master was destroyed. He puts down anyone who disagrees
  with him… or they just "disappear." The place looks civilized on the top of things, but the truth is
  that it's a killing ground for bloodthirsty mutants. There's a friend of a friend who had friends who
  disappeared after speaking up.}
-{165}{}{Go on.}
+{165}{}{Continue.
+}
 {166}{}{That's enough. You're crazy. Goodbye.}
 {167}{}{We all pretend that this is a civilized town, that we're all on the up and up… but we all live
  in fear of the mutant rage. Each day, there are fewer and fewer humans.}
@@ -57,7 +58,7 @@
 {172}{}{Fool me? I see. Well, I have to go. Nice talking to you.}
 {173}{}{Actually, we are. Some friends of mine and I are planning to strike a blow that will rid this
  town of mutants, but we need to get some friends out of jail. Are you with us?}
-{174}{}{No.}
+{174}{}{Não.}
 {175}{}{No. And I'm turning you in. You're crazy.}
 {176}{}{Sure! }
 {177}{}{Are you sure? This is a chance to keep humanity free, you know, from those vicious mutant
@@ -84,9 +85,9 @@
 {196}{}{Nothing. Bye.}
 {222}{}{Way to turn on your own kind, mutie-lover. How could you do that to Chad? I don't care what you've done for us. You're a
  disgrace to humanity.}
-{223}{}{Bye.}
+{223}{}{Adeus.}
 {224}{}{Well done on the jail work! }
-{225}{}{Thanks.}
+{225}{}{Obrigado.}
 {226}{}{Did you really have to kill everyone? Now they're all going to be worried. Well, no matter.}
 {227}{}{Sorry.}
 {228}{}{You got them out. I guess that's the important part. Of course, now everyone in town knows
@@ -108,11 +109,11 @@
 {263}{}{Will do.}
 {264}{}{I can't do it.}
 {265}{}{Why not? Are you scared or something? Are you positive you won't do it?}
-{266}{}{Yes.}
+{266}{}{Sim.}
 {267}{}{No, I guess I'll do it.}
 {268}{}{I suppose I can understand. You'll be equally understanding, I hope, when I tell you to get the
  hell out of my sight. Traitor.}
-{269}{}{[DONE]}
+{269}{}{[FEITO]}
 {270}{}{Are you ready to go on with the plan?}
 {272}{}{Yes. Let's do it.}
 {273}{}{I've changed my mind. I don't want to do this.}
@@ -136,7 +137,7 @@
 {289}{}{You got it. Want to help me make a distraction?}
 {290}{}{I'd like to buy some... uh... medicine.}
 {291}{}{Anything else?}
-{292}{}{Yes.}
+{292}{}{Sim.}
 {293}{}{No, thanks. Bye.}
 {294}{}{Now you can see how treacherous the mutants are. If only you had seen earlier.}
 {295}{}{If you're not gonna help us, we ain't gonna help you.}
@@ -157,7 +158,7 @@
 {310}{}{I already told you everything you need to know about this place. So, what do you want?}
 {311}{}{I have some other questions.}
 {312}{}{Nothing. Forget it.}
-{313}{}{Thanks.}
-{314}{}{[CONTINUE]}
+{313}{}{Obrigado.}
+{314}{}{[CONTINUAR]}
 {315}{}{Hey, friend. I appreciate your help gettin' our friends out of their spot of trouble. You're all right in my book.}
-{316}{}{Thanks.}
+{316}{}{Obrigado.}

@@ -27,7 +27,7 @@
 {244}{}{Hunh?}
 {245}{}{Why you soooo small?}
 {246}{}{[Wander off.]}
-{247}{}{Who are you?}
+{247}{}{Quem é você?}
 {248}{}{Nothing. I was just looking around.}
 {250}{}{(Makes a shooing motion.) Buzz off, asshead. Yer wasting my time.}
 {251}{}{Bzzzzzzz-bzzzzzz}
@@ -47,7 +47,7 @@
 {283}{}{I'm an outtie}
 {290}{}{(Smiles.) All right, it's a done deal. Name's Stuart, most call me Stuart Little, but that's only cause…well, all YOU
  need to know is I'm big in all the important ways. You got a name, asshead?}
-{291}{}{Me }
+{291}{}{Eu}
 {292}{}{Me…uh…me…}
 {293}{}{Me Big Stu}
 {296}{}{[Wander away in search of adventure.]}

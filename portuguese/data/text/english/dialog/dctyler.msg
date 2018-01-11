@@ -24,27 +24,27 @@
 {251}{}{So, what do you want this time?}
 {252}{}{Metzger sent me.}
 {253}{}{I'm here to inspect the church.}
-{254}{}{Nevermind. Goodbye.}
-{255}{}{Me }
+{254}{}{Deixa pra lá. Adeus.}
+{255}{}{Eu}
 {256}{}{Aruwa?}
 {260}{}{What the hell for? His stuff's not going anywhere.}
 {261}{}{His crap still hasn't moved an inch.}
 {262}{}{Oh, yeah. You're a slaver now, eh? So what did he want? It's not going anywhere - not like it could.}
 {263}{}{He wanted me to check it for him.}
 {264}{}{Well, he wants to be sure.}
-{265}{}{Never mind.}
+{265}{}{Não importa.}
 {270}{}{Sure he did. I've never seen you around here before. Now, beat it.}
 {271}{}{Let me in there now, before I have to get angry on your face!}
 {272}{}{Look, he had me come into town just to inspect his damn stuff. I could care less.}
-{273}{}{Okay.}
+{273}{}{Tudo bem.}
 {280}{}{Whatever, slaver. Just go on in. Does he think it's just going to up and leave?
  Who the hell would want that shit?}
 {281}{}{Fuck it. Just go in. Does he think it's just going to up and leave? Who the
  hell would want that shit anyhow?}
-{282}{}{Bye.}
+{282}{}{Adeus.}
 {290}{}{Okay, fuck. It's not like I really care. Like you would know what to do with any of that shit anyway.}
 {291}{}{Grrrr.}
-{292}{}{Thanks.}
+{292}{}{Obrigado.}
 {300}{}{Beat it, tough guy, before I get angry on Your face.}
 {301}{}{Beat it, bitch. Metzger wouldn't have sent a woman anyhow, so take a hike.}
 {302}{}{Bitch? I'll show you what this bitch can do.}
@@ -58,7 +58,7 @@
 {331}{}{Sukyu!}
 {332}{}{Arug!}
 {340}{}{I don't think so. Now beat it.}
-{341}{}{Okay.}
+{341}{}{Tudo bem.}
 {342}{}{But!}
 {343}{}{Fine.}
 {350}{}{Yeah, I bet you are. Who sent you?}
@@ -86,13 +86,13 @@
 {393}{}{I understand, thanks. Have fun.}
 {394}{}{See ya.}
 {400}{}{You better believe it! We're going to drink until we drop!}
-{401}{}{Bye.}
+{401}{}{Adeus.}
 {410}{}{What the fuck do you care. Beat it.}
 {411}{}{Yeah, so-so.}
 {412}{}{You trying to annoy me?}
 {413}{}{Not bad.}
 {414}{}{Tired.}
-{415}{}{Okay.}
+{415}{}{Tudo bem.}
 {416}{}{Beat it.}
 {417}{}{Been better.}
 {418}{}{Oh.}
@@ -121,14 +121,14 @@
 {481}{}{Lara's planning on hitting this place tonight.}
 {482}{}{No, sorry.}
 {490}{}{Oh really? So that bitch has got some balls after all? Well, that's worth a $100.}
-{491}{}{Thanks.}
+{491}{}{Obrigado.}
 {500}{}{Not so fast, slick. Just to be sure, we'll wait until after they show.
  You could be lying to me for all I know. You just be sure they show, and I'll pay you after.}
 {501}{}{But I'm a lover, not a fighter.}
 {502}{}{Sounds good.}
 {510}{}{Look, I don't give a rat's ass what you are. I'm not giving you a dollar
  until after they show. We'll do the fighting, but you better be sure they show.}
-{511}{}{Okay.}
+{511}{}{Tudo bem.}
 {600}{}{So, you're the boss's new whipping boy?}
 {601}{}{What do ya want?}
 {602}{}{What's up with Metzger? Doesn't he trust us anymore?}
@@ -148,10 +148,10 @@
 {713}{}{I'm his new bitch, that's why! If you don't let me in right now, I'll be sure you find yourself at the top of his shit list.}
 {714}{}{Look, buddy. Metzger's going to have my hide if I don't inspect everything soon. You know how he gets.}
 {715}{}{None of your fucking business. If the Boss wants his shit checked out, that's what I do. I don't ask questions.}
-{716}{}{Never mind.}
+{716}{}{Não importa.}
 {717}{}{Shaka?}
 {800}{}{Who the- Hey! It's you. You came to *hickup* party with us. I knew you would. (Tyler stumbles over to you and grabs your shoulder)
  Did I ever tell you how much I-(He spies Lara's gang) What the fuck! No fuckin way! This party ain't endin *hickup* cause of some fuckin bitch
  and her cronies. Time to lock and load guys!}
-{801}{}{[END]}
+{801}{}{[FIM]}
 {1255}{}{!}

@@ -8,7 +8,7 @@
 {107}{}{Yeah, rolled in a little while back.}
 {108}{}{No, genius, I've been living here all along and you never noticed me.}
 {109}{}{Heard you're having a little trouble with the mine.}
-{110}{}{What can you tell me about this place?}
+{110}{}{O que você pode me dizer sobre este lugar?}
 {111}{}{Ummm… riiiight. Tell you what. Here's a couple of dollars. Head on down to the saloon and get
  yourself something to drink.}
 {112}{}{Yagga? Ogg? Gronk!}
@@ -93,7 +93,7 @@
 {175}{}{What's in it for me?}
 {176}{}{Sure, I'll do it.}
 {177}{}{Not right now.}
-{178}{}{No.}
+{178}{}{Não.}
 {179}{}{How's it coming? I hope you're going to take care of this soon…}
 {180}{}{It's coming along all right.}
 {181}{}{I'm a busy man. I haven't gotten around to it yet.}

@@ -28,16 +28,16 @@
 {127}{}{Then I guess we got to kill you.}
 {128}{}{Done with your meeting?}
 {129}{}{Westin. Job. Me}
-{130}{}{Me go.}
+{130}{}{Eu vou.}
 {131}{}{Fine, he wants you to have a job; I got a job for you. Someone, or something, kill moo-moos. You come me. You guard. Keep moo-moos safe. Make boss happy. Okay?}
-{132}{}{Okay.}
+{132}{}{Tudo bem.}
 {133}{}{No. Me no kill.}
 {134}{}{Back again, are you? Job done?}
-{135}{}{Yes.}
-{136}{}{No.}
+{135}{}{Sim.}
+{136}{}{Não.}
 {137}{}{Yeah, he left orders. He's been expecting you.}
 {138}{}{HEY YOU! Get away from there!}
-{139}{}{Okay.}
+{139}{}{Tudo bem.}
 {140}{}{Fuck you!}
 {141}{}{Yeah. He said to see you about some problem with the brahmin.}
 {142}{}{Yes. I'm out of here.}

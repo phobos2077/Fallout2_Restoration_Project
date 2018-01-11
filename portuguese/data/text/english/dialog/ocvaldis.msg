@@ -23,13 +23,13 @@
 {121}{}{Uh... sure.}
 {122}{}{You talk funny. Me leave.}
 {123}{}{I'll be leaving now, Valdis.}
-{124}{}{I see.}
+{124}{}{Eu vejo.}
 {125}{}{Well, you certainly seem to know your job well.}
 {126}{}{Do you have the brains to decide who is or is not 'authorized?'}
 {127}{}{Why yes, I do. I also have enough brains to decide who is or is not an asshole -- and I have
  concluded that you excel in that category! Now, why don't you leave before I dance on your face for
  half an hour?}
-{128}{}{All right.}
+{128}{}{Tudo certo.}
 {129}{}{Bad lizard. Now I have to shoot you.}
 {130}{}{Hey, I'm sorry. I'll watch my tongue from now on.}
 {131}{}{Yes. We are quite diverse in our levels of education. I am doing my best to continue mine in my
@@ -43,7 +43,7 @@
 {138}{}{Hear someone call. Me go.}
 {139}{}{I see. Let us try this again. Hello. I am Valdis. What is your name?}
 {140}{}{Me}
-{141}{}{Bye.}
+{141}{}{Adeus.}
 {142}{}{Unauthorized personnel. Meaning 'people who do not have permission to be here.'}
 {143}{}{Ok. Me understand.}
 {144}{}{Me get another of those headaches. Me go now.}

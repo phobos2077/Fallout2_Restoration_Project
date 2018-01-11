@@ -1,5 +1,5 @@
-1:With the destruction of the conspiracy to destroy the mutants, Broken Hills began to thrive.
-2:Then the uranium ran out.
-3:The city, having lost its sole reason for existing, slowly dispersed.
-4:The residents carried their riches with them, leaving the place a wind-swept, desolate ghost town.
-5:A few hold-outs remained, attempting to eke out a pathetic existence, but eventually, they too, disappeared.
+1:Com a destruição da conspiração para destruir os mutantes, Broken Hills começou a prosperar.
+2:Em seguida, o urânio correu para fora.
+3:A cidade, tendo perdido a única razão de existir, lentamente dispersa.
+4:Os moradores levaram suas riquezas com eles, deixando o lugar uma cidade fantasma varrida pelo vento e desolada.
+5:Faltavam alguns esforços, tentando evitar uma existência patética, mas, finalmente, eles também desapareceram.

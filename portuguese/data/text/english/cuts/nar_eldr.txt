@@ -1,4 +1,4 @@
-1:Arroyo's elder lived for many years after the destruction of the Enclave.
-2:She was pleased that the ancient separation between Vault 13 and the Vault Dweller had been reconciled, and many were the times she told you that she wished the Vault Dweller were alive to have seen the reconciliation take place.
-3:The Elder passed away in her sleep, certain that the safety of your new village had been secured and was now flourishing.
-4:Many of the older Arroyo residents believe that she now lives in the vault of the sky, telling the Vault Dwellers of your brave deeds.
+1:O ancião de Arroyo viveu por muitos anos após a destruição do Enclave.
+2:Ficou satisfeita por a reconciliação da antiga separação entre o Vault 13 e o Morador do Vault , e muitos foram os tempos em que ela lhe disse que desejava que o morador do Vault estivesse vivo para ter visto a reconciliação ter lugar.
+3:O Ancião morreu em seu sono, certo de que a segurança de sua nova aldeia tinha sido garantida e agora estava florescendo.
+4:Muitos dos antigos residentes de Arroyo acreditam que ela agora mora no cofre do céu, dizendo aos Moradores de Vault seus corajosos atos.

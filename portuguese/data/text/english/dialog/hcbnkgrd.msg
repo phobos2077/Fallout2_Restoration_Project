@@ -30,11 +30,11 @@
 {129}{}{But… but… all right. They're out. You're accountable. I just hope you're right. Here is the key.}
 {130}{}{That's all I wanted. Great. Thanks. Bye.}
 {131}{}{Yeah, but maybe we should be. Right now, they are. And they're staying there until someone can show me a better reason to let them out. Now… get out.}
-{132}{}{No.}
-{133}{}{All right.}
+{132}{}{Não.}
+{133}{}{Tudo certo.}
 {134}{}{So they're going to stay in jail for now. We gotta protect society. Now… get out.}
-{135}{}{No.}
-{136}{}{All right.}
+{135}{}{Não.}
+{136}{}{Tudo certo.}
 {137}{}{You! What the hell are you doing? Get the hell out of here!}
 {138}{}{You'll be putting your weapons away now, pal.}
 {139}{}{You again? Do you need something?}
@@ -45,5 +45,5 @@
 {144}{}{You shouldn't be hanging around here. Leave now.}
 {145}{}{If I ever find out where those damn prisoners ran off to, there's gonna be hell to pay!}
 {150}{}{But… but… all right. They're out. You're accountable. I just hope you're right. Here is the...Hey, where'd my key go!? Shit, Marcus is gonna have my head if I lost that thing. Sorry, I gotta go.}
-{151}{}{All right.}
+{151}{}{Tudo certo.}
 {152}{}{I actually took that key from you. What are going to do about it?}

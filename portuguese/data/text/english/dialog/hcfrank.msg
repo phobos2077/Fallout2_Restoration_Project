@@ -5,9 +5,9 @@
 {103}{}{Whadda you want?}
 {104}{}{Aggggg! ::drool::}
 {105}{}{You! Me! Go!}
-{106}{}{Who are you?}
+{106}{}{Quem é você?}
 {107}{}{Why are you in jail?}
-{108}{}{What can you tell me about this place?}
+{108}{}{O que você pode me dizer sobre este lugar?}
 {109}{}{What can you tell me about Marcus?}
 {110}{}{I got no idea what you're saying, freak. Get out of my sight.}
 {111}{}{Oooooh…}
@@ -35,13 +35,13 @@
 {127}{}{Damn mutants. Just as I thought.}
 {128}{}{Yeah, I am a tough guy. If I weren't in jail, I'd prove it to you. You think you're tough?
  Think you can prove it, loser?}
-{129}{}{Of course.}
+{129}{}{Claro.}
 {130}{}{I don't have anything to prove to you, lowlife.}
 {131}{}{Get the hell out of my sight, you jerk! I'd kill you if I had the chance!}
-{132}{}{Bye.}
+{132}{}{Adeus.}
 {133}{}{The law 'round here is based on mutant love. Do you hate mutants?}
-{134}{}{Yes.}
-{135}{}{No.}
+{134}{}{Sim.}
+{135}{}{Não.}
 {136}{}{Yeah? Then go talk to Jacob, the chemist. I'll catch you later.}
 {137}{}{Mutie-lover! Get outta here! I don't want to breathe the same air as you!}
 {138}{}{You again? What do you want?}
@@ -56,7 +56,8 @@
 {147}{}{You went and screwed that all up! You gotta die now, pal!}
 {148}{}{Lets' get out of here.}
 {149}{}{Nutting. ByeBye.}
-{150}{}{Nevermind. Bye.}
+{150}{}{Deixa pra lá. Tchau.
+}
 {151}{}{This ain't justice. You oughta be ashamed of yourself.}
 {152}{}{Thanks for your help, friend. Let's go talk to Jacob and Aileen.}
 {153}{}{You have successfully performed the jailbreak.}

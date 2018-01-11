@@ -105,7 +105,7 @@
 {391}{}{Who you}
 {392}{}{ wanna play machine}
 {393}{}{Wander off}
-{394}{}{Who are you?}
+{394}{}{Quem é você?}
 {395}{}{What are you doing?}
 {396}{}{Mind if I give it a pull?}
 {397}{}{Nothing. Sorry to bother you.}
@@ -113,7 +113,8 @@
  Stubborn machine! I'm gonna get my chips back anyday now…}
 {407}{}{ go now! By-yye}
 {409}{}{Uh…how long have you been doing this?}
-{410}{}{Nevermind. Sorry to bother you.}
+{410}{}{Deixa pra lá. Desculpe incomodá-lo.
+}
 {415}{}{}
 {416}{}{}
 {417}{}{Close now to five years…I reckon anyday now this machine's gotta break, and when it DOES…

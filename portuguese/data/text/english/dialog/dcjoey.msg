@@ -1,7 +1,7 @@
 {100}{}{You see a thug.}
 {101}{}{You see Joey.}
 {150}{}{This guy doesn't look too friendly.}
-{151}{}{[TALK]}
+{151}{}{[FALAR]}
 {152}{}{I’m gonna cut you up, fucker!}
 {153}{}{Yeah? Come on and try.}
 {154}{}{Hey, wait just one minute!}
@@ -37,7 +37,7 @@
 {182}{}{Then I guess I have to kill you.}
 {183}{}{Hey. How's it goin'?}
 {184}{}{OK, and you?}
-{185}{}{Not so good.}
+{185}{}{Não é tão bom.}
 {186}{}{Did you take a locket from that haunted house?}
 {187}{}{What do you know about that ghost that comes around here at night?}
 {188}{}{Hey, man, I’m Joey. What're you doin' on my turf?}
@@ -56,7 +56,7 @@
 {201}{}{No, I want information.}
 {202}{}{I have to go. Bye.}
 {203}{}{How about you and I get it on?}
-{204}{}{Okay.}
+{204}{}{Tudo bem.}
 {205}{}{Not if you were the last nonmutated man on the planet.}
 {206}{}{Er, no... I don’t think so. I need something else.}
 {207}{}{You’ll be coming back.}
@@ -67,7 +67,7 @@
 {212}{}{I just did. You do anything more than talk?}
 {213}{}{Whatever. Are you selling anything or just making small talk?}
 {214}{}{My apologies. I’m actually looking around and don’t know the area.}
-{215}{}{What do you want?}
+{215}{}{O que você quer?}
 {216}{}{I’m looking for a locket.}
 {217}{}{I need to know more about that haunted house.}
 {218}{}{What’s the deal with the old church and those guards?}
@@ -110,7 +110,7 @@
  uncut shit, shipped directly from New Reno. }
 {250}{}{Wait, I’ll buy it.}
 {251}{}{Well, can I ask you something?}
-{252}{}{Bye.}
+{252}{}{Adeus.}
 {253}{}{OK, I’ll drop the price to $350, but no less! That’s my final offer. You got to pay
  top dollar for the good shit. Don't buy from Tubby or any of those losers. They cut their
  shit. I'm the only one for miles that can get a hold of the best stuff.}

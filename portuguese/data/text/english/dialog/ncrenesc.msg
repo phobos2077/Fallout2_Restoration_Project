@@ -21,7 +21,7 @@
 {239}{}{Okee dokee. Need open bra first. Hold on (Zip.)}
 {240}{}{Whut me WANT? Whut you GOT?}
 {241}{}{[Stare at him for a second, just to make sure he's real, then wander away]}
-{242}{}{Who are you?}
+{242}{}{Quem é você?}
 {243}{}{Hey, I have a pair of glasses, if you want them.}
 {244}{}{How's the glasses?}
 {245}{}{You know, there are decaf brands that taste just as good as the real thing.}
@@ -107,7 +107,8 @@
 {414}{}{I see…I must be going now.}
 {420}{}{Well, tribal, I doubt you have the sense to notice this yet, but New Reno doesn't produce anything useful.
  It's like a big, brightly-lit prairie tick sitting out in the desert. Now, Redding, on the other hand…}
-{421}{}{Go on.}
+{421}{}{Continue.
+}
 {422}{}{…DOES produce something useful.}
 {423}{}{I've heard enough.}
 {430}{}{First and last time I'm gonna warn you, tribal: Don't finish my goddamn sentences. I don't like smartass primates
@@ -432,7 +433,7 @@
 {6096}{}{Whoa, easy there fuzzy little man peach. Maybe I'll just come back when you're in a better mood.}
 {6100}{}{Well. I guess that concludes our business, then. I must say, tribal, this has been... almost *tolerable*. Now, sit on your hands and try not to ruin the moment. (Renesco takes your money and goes to work.)}
 {6101}{}{(Minutes pass. Renesco dusts off his hands and rolls a pill bottle indistinguishable from Westin's across the counter at you.) There you are. Now, are we done here?}
-{6102}{}{Let me ask you something else.}
+{6102}{}{Deixe-me perguntar-lhe algo mais.}
 {6103}{}{That's it for me. See you around.}
 {6110}{}{(Renesco flushes, nostrils flaring in anger, but then looks down and begins cleaning his glasses very intently on his smock as he speaks.) Primate, the ONLY two things I will EVER be indebted to you for are JACK and SHIT.}
 {6111}{}{Now, that being the case... if it will disabuse you of this intolerable provincial delusion that you've somehow got something over me, the very THOUGHT of which makes me ill in ways I lack the words to describe... }

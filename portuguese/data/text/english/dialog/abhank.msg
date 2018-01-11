@@ -1,48 +1,48 @@
-{100}{}{You see Hank.}
-{101}{}{You see a greasy monk.}
-{102}{}{He is messing with a still.}
-{200}{}{Hey, buddy. Do you have a lighter on you?}
-{201}{}{Yep. [Hand your lighter to him.]}
-{202}{}{This is perfect. Thanks!}
-{203}{}{Out of curiosity, what exactly are you doing here?}
-{204}{}{Sure. Since you brought me a lighter, here's one on the house.}
-{205}{}{[Drink it.]}
-{206}{}{I changed my mind I don't want any alcohol. Bye.}
-{207}{}{(You feel warm and relaxed after you gulp down the wine.)}
-{208}{}{Gimme another, Hank.}
-{209}{}{I'll go now, bye.}
-{210}{}{(Suddenly you feel like shit, then your vision begins to blur. You fall on the ground...)}
-{211}{}{[DONE]}
-{212}{}{No, Sorry.}
-{213}{}{Hi, again.}
-{214}{}{Hi and bye.}
-{215}{}{This one won't be free. It'll cost you $20.}
-{216}{}{Sure. Here's the money.}
-{217}{}{Nah, I've had enough. Maybe next time.}
-{218}{}{(He pockets the money.) Alright then, here's the drink.}
-{219}{}{I'll come back when I have more money.}
-{220}{}{Any luck finding a lighter?}
-{250}{}{I would like to buy some of the alcohol you make here.}
-{251}{}{Just looking around. Take care.}
-{252}{}{Sure. $20 a bottle.}
-{253}{}{[Hold on to it.]}
-{300}{}{Where did I put my lighter?}
-{301}{}{I need a lighter.}
-{302}{}{COULD SOMEONE BRING ME A LIGHTER!?}
-{303}{}{Uh, hi there.}
-{304}{}{Sorry, I can't chat with you now.}
-{400}{}{Ooh, look at all those pretty stars!}
-{500}{}{Hello. Need something?}
-{501}{}{Hey, thanks again for the lighter. It's better than my old one.}
-{600}{}{We brew our own alcohol here at the monastery. Some of the most powerful stuff you'll taste in the Wastes.}
-{601}{}{Mind if I try some?}
-{602}{}{Sounds interesting. I must be going.}
-{700}{}{That's too bad. I lost mine recently and I can't seem to find it anywhere. If you ever get a hold of one,
- I'd be glad to take it off your hands.}
-{701}{}{Sure. If I come across one I'll let you know. Bye.}
-{702}{}{Sorry. I'm a bit of a collector and keep all that I find. Bye.}
-{800}{}{Li-ter? I have fire maker. It burn me many times. (You hold up a lighter.)}
-{810}{}{Yeah, that's what I need. Will you give it to me?}
-{811}{}{Otay. I no likee it.}
-{812}{}{I no give you.}
-{820}{}{You no now burn self too. Bye!}
+{100}{}{Você vê Hank.}
+{101}{}{Você vê um monge gorduroso.}
+{102}{}{Ele está mexendo com uma calma.}
+{200}{}{Ei, amigo. Você tem um isqueiro?}
+{201}{}{Sim. [Ofereça seu isqueiro para ele.]}
+{202}{}{Isso é perfeito. Obrigado!}
+{203}{}{Por curiosidade, o que exatamente você está fazendo aqui?}
+{204}{}{Com certeza. Desde que você me trouxe um isqueiro, aqui está em casa.}
+{205}{}{[Beber.]}
+{206}{}{Eu mudei de idéia, eu não quero álcool. Tchau.}
+{207}{}{(Você se sente confortável e relaxado depois de engolir o vinho.)}
+{208}{}{Dê outro, Hank.}
+{209}{}{Eu irei agora, tchau.}
+{210}{}{(De repente você se sente como merda, então a sua visão começa a diluir-se. Você cai no chão...)}
+{211}{}{[FEITO]}
+{212}{}{Não, Desculpe.}
+{213}{}{Olá, novamente.}
+{214}{}{Oi e tchau.}
+{215}{}{Este não será gratuito. Vai custar-lhe $ 20.}
+{216}{}{Com certeza. Aqui está o dinheiro.}
+{217}{}{Nah, eu tive o suficiente. Talvez da próxima vez.}
+{218}{}{(Ele pega o dinheiro.) Tudo bem então, aqui está a bebida.}
+{219}{}{Eu vou voltar quando eu tiver mais dinheiro.}
+{220}{}{Alguma sorte encontrando um isqueiro?}
+{250}{}{Eu gostaria de comprar alguns dos álcools que você faz aqui.}
+{251}{}{Basta olhar em volta. Cuidado.}
+{252}{}{Com certeza. $20 uma garrafa.}
+{253}{}{[Segurá-lo.]}
+{300}{}{Onde coloquei meu isqueiro?}
+{301}{}{Eu preciso de um isqueiro.}
+{302}{}{ALGUÉM PODERIA ME TRAZER UM ISQUEIRO!?}
+{303}{}{Uh, olá.}
+{304}{}{Desculpe, eu não posso conversar com você agora.}
+{400}{}{Ooh, olhe para todas aquelas belas estrelas!}
+{500}{}{Olá. Precisa de algo?}
+{501}{}{Ei, obrigado novamente pelo isqueiro. É melhor do que o meu antigo.}
+{600}{}{Nós fabricamos nosso próprio álcool aqui no mosteiro. Algumas das coisas mais poderosas que você experimentará nos Resíduos.}
+{601}{}{Se importa se eu tentar?}
+{602}{}{Soa interessante. Eu devo ir.}
+{700}{}{Isso é ruim. Perdi o meu recentemente e não consigo achar isso em qualquer lugar. Se você conseguir uma única,
+  Eu ficaria feliz em tirar de suas mãos.}
+{701}{}{Certo. Se me deparar, eu vou deixar você saber. Tchau.}
+{702}{}{Desculpa. Sou um colecionador e mantenho tudo o que encontro. Tchau.}
+{800}{}{Is-queiro? Eu tenho o criador de fogo. Ele queimou-me muitas vezes. (Você segurar um isqueiro.)}
+{810}{}{Sim, isso é o que eu preciso. Você vai dar para mim?}
+{811}{}{Otay. Eu não gosto disso.}
+{812}{}{Eu não dou a você.}
+{820}{}{Você não vá queima-se também. Tchau!}

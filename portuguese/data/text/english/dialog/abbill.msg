@@ -1,55 +1,57 @@
-{100}{}{You see trader Bill.}
-{101}{}{You see an older looking merchant.}
-{200}{}{Hello there, traveler. Name's Bill. What can I get for you?}
-{201}{}{Welcome back. Need something else?}
-{202}{}{Let's barter.}
-{203}{}{I hear you're the man to talk to about caravans.}
-{204}{}{Nevermind. Bye.}
-{210}{}{Say, I've noticed a lot of old equipment and items have been collected here at the Abbey.
- I don't suppose you've found anything...special, during your time here?}
-{211}{}{Heh, so you noticed that, huh? Yeah, the Abbey folks have a bit of a fascination with anything pre-war,
- especially if it's tech related. They've formed some kind of kooky religion around it. I don't quite understand it,
- myself, but they're nice people and they pay good money for anything pre-war I manage to get my hands on. But anyway,
- as for something special...hmm, [He glances over at Marcus.] It's funny you should ask, I just might have something that
- would interest your friend here.}
-{212}{}{Heh, so you noticed that, huh? Yeah, the Abbey folks have a bit of a fascination with anything pre-war,
- especially if it's tech related. They've formed some kind of kooky religion around it. I don't quite understand it,
- myself, but they're nice people and they pay good money for anything pre-war I manage to get my hands on. But anyway,
- as for something special...hmm, [He glances over your party.] Sorry, I don't think I have anything special you'd find
- useful right now.}
-{213}{}{Oh, well. Let's see what you have in stock instead.}
-{214}{}{That's alright. Let me ask you something else.}
-{215}{}{Such as?}
-{216}{}{You see, a caravan came through here not too long ago, claiming to have come up from the deep south. Said they'd
- been attacked by some of them vile mutants (turning to Marcus) no offense, big guy. Anyway, they did a lot of bragging
- about how they'd wasted all the muties. Claimed there'd been nearly a dozen of 'em, and I called bullshit. But it turns
- out they had some proof.}
-{217}{}{Yeah? What was that?}
-{218}{}{A hulking set of mutant armor they'd managed to salvage off one of the corpses. Of course, for all I know, they
- stole it off the bones of some long dead mutie they'd stumbled upon in the wastes, but who knows? Anyway, they weren't
- eager to keep lugging the heavy thing around, so they offered it to me for dirt cheap. I didn't know what I'd ever do
- with it, but I figured a deals a deal.}
-{219}{}{Well, I'm sure Marcus here could benefit from this. How much for it?}
-{220}{}{That's interesting. Well, Marcus here is tough enough. I don't think we'll be needing that item. Let me ask you
- something else.}
-{221}{}{Well, this bad boy could easily be melted down to make three or four sets of metal armor. Let's say $3000.}
-{222}{}{I've got enough for that.}
-{223}{}{I think I'll pass for right now. Let me ask you something else.}
-{224}{}{Alright then. This is going to take two of us to move this thing, so let me help you fit it to your friend here.}
-{225}{}{[Done]}
-{226}{}{Hey, this fits nicely!}
-{300}{}{I might know a thing or two. What would you like to know?}
-{301}{}{How often do you get resupplied?}
-{302}{}{Are the caravans hiring?}
-{303}{}{On second thought, I have to go.}
-{304}{}{I get a new shipment of supplies twice a month. Frankly, I wish they'd come more often, but we're only on a
- minor trade route so I guess this is the best we can get.}
-{305}{}{I'm not quite sure. Usually, the ones that stop by here are pretty well equipped and not really interested in
- hanging around very long. But if you're looking to hook up with one of em, I'd head over to Redding or even down to NCR.
- They've got pretty active caravans and good help is always wanted.}
-{306}{}{Interesting. I was curious about something else.}
-{307}{}{Thanks. Let's barter.}
-{308}{}{Well, thanks for the information. See you around.}
-{400}{}{Found everything you need?}
-{401}{}{Actually, I'd like to take another look at your goods.}
-{402}{}{Yes I did. See you around.}
+{100}{}{Você vê o comerciante Bill.}
+{101}{}{Você vê uma velha à procura de comerciante.}
+{200}{}{Olá, viajante. Bill é meu nome. O que posso fazer por você?}
+{201}{}{Bem-vindo de volta. Precisa de mais alguma coisa?}
+{202}{}{Vamos trocar.}
+{203}{}{Eu ouvi que você é o homem para conversar sobre caravanas.}
+{204}{}{Deixa pra lá. Tchau.
+}
+{210}{}{Diga, notei que muitos equipamentos e itens já foram coletados aqui na Abadia.
+  Suponho que não encontrou nada ... especial, durante o seu tempo aqui?}
+{211}{}{Heh, então você percebeu isso, hein? Sim, as pessoas da Abadia têm um pouco de fascínio por qualquer coisa antes da guerra,
+  especialmente se é relacionado à tecnologia. Eles formaram algum tipo de religião kooky em torno disso. Eu não entendo bem isso,
+  eu mesmo, mas eles são pessoas agradáveis e pagam muito dinheiro por qualquer coisa antes da guerra, eu consegui colocar minhas mãos. Mas mesmo assim,
+  Quanto a algo especial ... hmm, [Ele olha para Marcus.] É engraçado que você deveria perguntar, eu só poderia ter algo que
+  interessaria seu amigo aqui.}
+{212}{}{Heh, então você percebeu isso, hein? Sim, as pessoas da Abadia têm um pouco de fascínio por qualquer coisa antes da guerra,
+  especialmente se é relacionado à tecnologia. Eles formaram algum tipo de religião kooky em torno disso. Eu não entendo bem isso,
+  eu mesmo, mas eles são pessoas agradáveis e pagam muito dinheiro por qualquer coisa antes da guerra, eu consegui colocar minhas mãos. Mas mesmo assim,
+  Quanto a algo especial ... hmm, [Ele olha para a sua festa.] Desculpe, eu não acho que tenho algo especial que você acharia
+  útil agora.}
+{213}{}{Oh, bem. Vamos ver o que você tem em estoque, em vez disso.}
+{214}{}{Está tudo certo. Deixe-me perguntar-lhe algo mais.}
+{215}{}{Como?}
+{216}{}{Você vê, uma caravana veio até aqui não muito tempo atrás, alegando ter subido do sul profundo. Disse que sim
+  foram atacados por alguns daqueles vis mutantes (virando-se para Marcus) sem ofensa, grandalhão. De qualquer forma, eles fizeram muita gabolice
+  sobre como eles haviam dispersado todos os distúrbios. Alegou que havia quase uma dúzia deles e eu chamei de besteira. Mas volta-e-meia
+  eles tinham algumas provas.}
+{217}{}{Sim? O que foi isso?}
+{218}{}{Um enorme conjunto de armaduras mutantes que conseguiram salvar um dos cadáveres. Claro, por tudo o que sei, eles
+  roubou os ossos de um mutie longo e morto no qual haviam tropeçado nos resíduos, mas quem sabe? De qualquer forma, eles não eram
+  ansioso para manter a coisa pesada, então eles me ofereceram barato. Eu nunca saberia o que eu  faria
+  com isso, mas achei um bom acordo.}
+{219}{}{Bem, tenho certeza de que Marcus pode se beneficiar disso. Quanto custa?}
+{220}{}{Isso é interessante. Bem, Marcus, aqui, é resistente o suficiente. Eu não acho que nós vamos precisar desse item. Deixe-me perguntar
+outra coisa.}
+{221}{}{Bem, esse garoto mal pode ser facilmente derretido para fazer três ou quatro conjuntos de armaduras metálicas. Digamos $ 3000.}
+{222}{}{Eu tenho o suficiente para isso.}
+{223}{}{Acho que vou passar agora. Deixe-me perguntar-lhe outra coisa.}
+{224}{}{Tudo bem então. Isto vai levar dois de nós para mover essa coisa, então deixe-me ajudá-lo a ajustar-la ao seu amigo aqui.}
+{225}{}{[Feito]}
+{226}{}{Ei, isso se encaixa muito bem!}
+{300}{}{Eu poderia saber uma coisa ou duas. O que você gostaria de saber?}
+{301}{}{Com que frequência você é reabastecido?}
+{302}{}{As caravanas estão contratando?}
+{303}{}{Pensando bem, tenho que ir.}
+{304}{}{Recebo um novo carregamento de suprimentos duas vezes por mês. Francamente, eu gostaria que eles viessem com mais freqüência, mas estamos apenas em um
+  pequena rota de comércio, então acho que isso é o melhor que podemos obter.}
+{305}{}{Eu não tenho tanta certeza. Geralmente, aqueles que param por aqui estão bem equipados e não estão realmente interessados em
+  andar por ai por muito tempo. Mas se você estiver olhando para se conectar com um deles, eu iria a Redding ou até a NCR.
+  Eles têm caravanas bastante ativas e uma boa ajuda sempre é desejada.}
+{306}{}{Interessantes. Eu estava curioso sobre outra coisa.}
+{307}{}{Obrigado. Vamos trocar.}
+{308}{}{Bem, obrigado pela informação. Até a próxima.}
+{400}{}{Encontrou tudo o que você precisa?}
+{401}{}{Na verdade, eu gostaria de dar uma olhada em seus produtos.}
+{402}{}{Sim eu fiz. Até a próxima.
+}

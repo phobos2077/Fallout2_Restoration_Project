@@ -1,111 +1,112 @@
-{100}{}{You see Cameron, a fellow tribesman.}
-{101}{}{You see Cameron.}
-{102}{}{You see a young man with bulging muscles and a very confident air about him.}
-{103}{}{Greetings, }
-{104}{}{. I have the honor of being your final challenge. To continue in your quest you must defeat
- me in unarmed combat. Shall we begin?}
-{105}{}{Me got questions.}
-{106}{}{Okay, we fight.}
-{107}{}{No, me get ready first.}
-{108}{}{I've got some questions for you first.}
-{109}{}{Sure, let's party.}
-{110}{}{I think I need a moment to prepare for this.}
-{111}{}{What would you like to know? }
-{112}{}{Why we fight?}
-{113}{}{We fight to death?}
-{114}{}{We fight unarmed?}
-{115}{}{Okay, we fight now.}
-{116}{}{Me need get ready.}
-{117}{}{Why do we have to fight?}
-{118}{}{Is this a fight to the death?}
-{119}{}{You say that we are to fight unarmed?}
-{120}{}{Let's get this fight over with.}
-{121}{}{I need a moment to prepare for the fight.}
-{122}{}{The path of the Chosen One is not an easy trail to walk, }
-{123}{}{. You will be faced with many challenges throughout your lifetime, and the most difficult
- of these will be dealing with your fellow man. There will come a time when diplomacy and tact
- will prove to be useless and your hand must be raised instead. This challenge prepares you to face
- another human, look him in the eyes, and know that you may have to kill him.}
-{124}{}{Okay.}
-{125}{}{I see.}
-{126}{}{No, my friend, you need only defeat me. When the time comes, we will end the battle.}
-{127}{}{Me understand.}
-{128}{}{All right.}
-{129}{}{Yes. Weapons tend to distance us from battle and desensitize the effects of our actions
- against others. When you strike another human being with your bare fist, you both see and feel the
- pain you cause. Battle becomes very personal and all too real then. This is an important lesson for
- you, }
+{100}{}{Você vê Cameron, um companheiro de tribo.}
+{101}{}{Você vê Cameron.}
+{102}{}{Você vê um homem jovem, com músculos salientes e de ar muito confiante sobre ele.}
+{103}{}{Saudações,
+}
+{104}{}{. Eu tenho a honra de ser seu desafio final. Para continuar em sua busca, você deve derrotar
+me em combate desarmado. Vamos começar?}
+{105}{}{Eu tenho perguntas.}
+{106}{}{Tudo bem, a gente luta.}
+{107}{}{Não, eu me preparo primeiro.}
+{108}{}{Eu tenho algumas perguntas para você primeiro.}
+{109}{}{Claro, vamos fazer uma festa.}
+{110}{}{Acho que preciso de um momento para me preparar para isso.}
+{111}{}{O que você gostaria de saber? }
+{112}{}{Por que nós lutamos?}
+{113}{}{Vamos lutar até a morte?}
+{114}{}{Vamos lutar desarmado?}
+{115}{}{Ok, vamos lutar agora.}
+{116}{}{Preciso me preparar.}
+{117}{}{Por que temos que lutar?}
+{118}{}{Esta é uma luta até a morte?}
+{119}{}{Você diz que devemos lutar desarmado?}
+{120}{}{Vamos acabar com essa luta.}
+{121}{}{Eu preciso de um momento para me preparar para a luta.}
+{122}{}{O caminho do Escolhido não é uma trilha fácil de caminhar,}
+{123}{}{. Você será confrontado com muitos desafios ao longo da sua vida, e o mais difícil
+  destes estara lidando com seus semelhantes. Chegará um momento em que a diplomacia e o tato
+  provará ser inútil e sua mão deve ser levantada em vez disso. Esse desafio te prepara para enfrentar
+  outro humano, olhe-o nos olhos e saiba que você pode ter que matá-lo.}
+{124}{}{Tudo bem.}
+{125}{}{Eu vejo.}
+{126}{}{Não, meu amigo, você precisa apenas derrotar-me. Quando chega a hora, vamos terminar a batalha.}
+{127}{}{Eu compreendo.
+}
+{128}{}{Tudo certo.}
+{129}{}{Sim. As armas tendem a distanciar-nos da batalha e dessensibilizar os efeitos de nossas ações
+  contra outros. Quando você atinge outro ser humano com seu punho nu, você vê e sente o
+  dor que você causa. A batalha torna-se muito pessoal e muito real então. Esta é uma lição importante para
+  você,}
 {130}{}{.}
-{131}{}{Me got it.}
-{132}{}{I understand.}
-{133}{}{Very well. Shall we begin?}
-{134}{}{Me ready.}
-{135}{}{No, me get ready first.}
-{136}{}{I'm ready.}
-{137}{}{No, I need some time to prepare.}
-{138}{}{Very well. Return and tell me when you are ready for your challenge.}
-{139}{}{Are you ready for your challenge, }
+{131}{}{Eu entendi.}
+{132}{}{Eu entendo.}
+{133}{}{Muito bem. Vamos começar?}
+{134}{}{Estou pronto.}
+{135}{}{Não, eu me preparo primeiro.}
+{136}{}{Eu estou pronto.}
+{137}{}{Não, preciso de algum tempo para me preparar.}
+{138}{}{Muito bem. Retorne e me avise quando estiver pronto para o seu desafio.}
+{139}{}{Você está pronto para o desafio, }
 {140}{}{?}
-{141}{}{Me ready. }
-{142}{}{Me not ready yet.}
-{143}{}{I think so.}
-{144}{}{No, give me a minute.}
-{145}{}{Excellent! Your equipment will be kept in the trunk outside of the room.
- You can get it after the fight. Let the fight begin! Good luck to you }
+{141}{}{Estou pronto.}
+{142}{}{Ainda não estou pronto.}
+{143}{}{Eu penso assim.}
+{144}{}{Não, dá-me um minuto.}
+{145}{}{Excelente! O seu equipamento será mantido no porta-malas fora do quarto.
+Você pode obtê-lo após a luta. Deixe que a luta comece! Boa sorte para você }
 {146}{}{.}
-{147}{}{It is good to see you again, Chosen One. How may I help you?}
-{148}{}{Me want visit temple again.}
-{149}{}{Want fight again?}
-{150}{}{Just say hello. Me go now.}
-{151}{}{I'd like to visit the temple again.}
-{152}{}{Hello, Cameron. Ready for another fight?}
-{153}{}{Just thought I'd say hi. See you later.}
-{154}{}{Take the path to my left, Chosen One. It leads to the temple proper.
- The cave entrance behind me will return you to the last chamber.}
-{155}{}{Okay, me go.}
-{156}{}{All right. Thanks}
-{157}{}{No thank you, Chosen One. I still carry the bruises from our last encounter and will need
- years to recover!}
-{158}{}{Go bye, Cameron.}
-{159}{}{Ha! Good day to you, Cameron.}
-{160}{}{Chosen One, my ass. I am going to make you the dead one!}
-{161}{}{You have defeated me. You are worthy, Chosen One.}
-{165}{}{I disagree with you. I think that a peaceful solution to any problem is possible.}
-{166}{}{You may be correct, }
-{167}{}{, but not in our current situation. You must defeat me to succeed in your trial.}
-{168}{}{Look, I don't know all of your strengths and weaknesses, and you don't know mine.
- Accidents do happen, so what if one of us inadvertently kills the other? Let's just
- end this now rather than take that chance, okay?}
-{169}{}{Hmm... I see your point. I wouldn't want to be responsible for
- killing you when all I meant to do was test your mettle. Very well -- you may
- pass, Chosen One.}
-{170}{}{Hmm... I see your point. However, we must still do battle. I will
- simply take care not to hurt you too much.}
-{171}{}{Thanks! I'll see you back in the village.}
-{172}{}{I see.}
-{200}{}{I don't seem to remember our last battle, Chosen One. I will always wonder how you managed
- to get past me.}
-{201}{}{You have a tongue of purest silver, Chosen One. Your skill with words will open many doors
- for you.}
-{300}{}{And to you as well, Chosen One. May the spirits guide you on your quest.}
-{301}{}{Thanks, Cameron.}
-{302}{}{Chosen One, I could not help but notice that you lack strong combat skills. It has been my experience that you cannot always rely on your wits or words for protection. With your permission I will teach you a few things that I think you will find most useful.}
-{303}{}{Yes, you teach.}
-{304}{}{No, me not need.}
-{305}{}{Yes, please teach me all that you can.}
-{306}{}{Thanks, but I think I can handle myself just fine.}
-{307}{}{You learn well, Chosen One. I think you will be able to handle yourself in a fight now. However, remember that even the strongest of warriors must sometimes retreat. There is no shame in living to fight another day.}
-{308}{}{Me thank you, Cameron.}
-{309}{}{Thanks, Cameron. I will remember your words.}
-{310}{}{Very well. Return to me if you change your mind.}
-{311}{}{Me thank you, Cameron.}
-{312}{}{Thanks, Cameron. I will remember your offer.}
-{400}{}{Do you ever think about stepping down from your position as the Temple's final trial? I mean, it can be pretty risky.}
-{401}{}{Life is a constant series of risks, Chosen One. With each new dawn, every one of us takes a risk simply by stepping from our homes to greet the unknown day. Why do you ask?}
-{402}{}{No reason. I'll talk with you later, Cameron.}
-{403}{}{Well, I was just thinking about what happened to your predecessor, you know, during his battle with... uh, "He-Who-Must-Not-Be-Named".}
-{410}{}{Ah, that was a dark day, indeed, for our tribe lost two good men: one in body, the other in spirit. But the foul deed of that day is no concern of mine. My time will come when the Gods deem it so.}
-{411}{}{And may that day be a long time coming. Good day, Cameron.}
-{412}{}{Are they even going to have other people attempt the Temple? Hasn't it already been determined that I'm the Chosen One?}
-{420}{}{There will always be a need to test the might of our people. And I take great honor in doing my part.}
-{421}{}{Alright, I'll see you later, Cameron.}
+{147}{}{É bom ver você novamente, Escolhido. Como posso ajudá-lo?}
+{148}{}{Eu quero visitar o templo novamente.}
+{149}{}{Quero lutar de novo?}
+{150}{}{Dizer apenas olá. Eu vou agora.}
+{151}{}{Eu gostaria de visitar o templo novamente.}
+{152}{}{Olá, Cameron. Pronto para outra luta?}
+{153}{}{Apenas pensei em dizer oi. Vejo você mais tarde.}
+{154}{}{Pegue o caminho para a minha esquerda, Escolhido. Isso leva ao templo propriamente dito.
+  A entrada da caverna atrás de mim irá voltar para a última câmara.}
+{155}{}{Ok, eu vou.}
+{156}{}{Tudo bem. Obrigado}
+{157}{}{Não, obrigado, Escolhido. Eu ainda carrego as contusões de nosso último encontro e precisarei de
+  anos para me recuperar!}
+{158}{}{Adeus, Cameron.}
+{159}{}{Ha! Bom dia para você, Cameron.}
+{160}{}{Escolhido é meu cú. Eu vou fazer de você um morto!}
+{161}{}{Você me derrotou. Você é digno, Escolhido.}
+{165}{}{Eu não concordo com você. Penso que é possível uma solução pacífica para qualquer problema.}
+{166}{}{Você pode estar correto,}
+{167}{}{, mas não na nossa atual situação. Você deve derrotar-me para ter êxito em seu julgamento.}
+{168}{}{Olha, não conheço todos os seus pontos fortes e fracos, e você não conhece o meu.
+  Acidentes acontecem, então, e se um de nós inadvertidamente mata o outro? Vamos só
+  Feche isso agora, em vez de desperdiçar essa chance, ok?}
+{169}{}{Hmm ... Eu vejo seu ponto. Eu não gostaria de ser responsável por
+  matá-lo quando tudo o que eu quisesse fazer era testar seu valor. Muito bem - você pode
+  Passe, Escolheu.}
+{170}{}{Hmm ... Eu vejo seu ponto. No entanto, ainda devemos lutar. eu vou
+  simplesmente tomar cuidado para não machucá-lo demais.}
+{171}{}{Obrigado! Eu vou ver você de volta na aldeia.}
+{172}{}{Eu vejo.}
+{200}{}{Não me lembro da nossa última batalha, escolhido. Eu sempre me pergunto como você conseguiu
+  passar por mim.}
+{201}{}{Você tem uma língua da mais pura prata, Escolhido. Sua habilidade com as palavras, irá abrir muitas portas para você.}
+{300}{}{E para você também, Escolhido. Que os espíritos o guiem na sua missão.}
+{301}{}{Obrigado, Cameron.}
+{302}{}{Escolhido, não pude deixar de notar que você não possui habilidades de combate fortes. Por minha experiência você nem sempre pode confiar em sua inteligência ou palavras para proteção. Com sua permissão, eu vou ensinar-lhe algumas coisas que eu acho que você vai achar mais útil.}
+{303}{}{Sim, você ensina.}
+{304}{}{Não, eu não preciso.}
+{305}{}{Sim, por favor me ensine tudo o que você pode.}
+{306}{}{Obrigado, mas acho que posso lidar comigo mesmo.}
+{307}{}{Você aprende bem, escolhido. Eu acho que você será capaz de lidar com você mesmo em uma briga agora. No entanto, lembre-se de que mesmo o mais forte dos guerreiros deve às vezes se retirar. Não há vergonha de viver para lutar outro dia.}
+{308}{}{Eu lhe agradeço, Cameron. }
+{309}{}{Obrigado, Cameron. Me lembro de suas palavras.}
+{310}{}{Muito bem. Retorne para mim se você mudar de idéia.}
+{311}{}{Eu lhe agradeço, Cameron. }
+{312}{}{Obrigado, Cameron. Me lembro de sua oferta.}
+{400}{}{Você já pensou em abandonar sua posição como o julgamento final do Templo? Quero dizer, pode ser bastante arriscado.}
+{401}{}{A vida é uma constante série de riscos, Escolhido. Com cada novo amanhecer, cada um de nós corre o risco de sair de nossas casas para cumprimentar o dia desconhecido. Por que você pergunta?}
+{402}{}{Sem razão. Eu vou falar com você mais tarde, Cameron.}
+{403}{}{Bem, eu só estava pensando sobre o que aconteceu com o seu antecessor, você sabe, durante sua batalha com o... uh, "Aquele-Que-Não-Deve-Ser-Nomeado".}
+{410}{}{Ah, esse era um dia sombrio, de fato, pois nossa tribo perdeu dois bons homens: um em corpo, o outro em espírito. Mas a falta de ação daquele dia não é minha preocupação. Chegará o meu tempo quando os Deuses o entenderem.}
+{411}{}{E pode ser que esse dia leve muito tempo. Bom dia, Cameron.}
+{412}{}{Será que eles vão ter outras pessoas tentando o Templo? Não foi determinado que sou o Escolhido?}
+{420}{}{Sempre haverá uma necessidade para testar a força do nosso povo. E eu tenho grande honra de fazer a minha parte.}
+{421}{}{Tudo bem, eu te vejo mais tarde, Cameron.}

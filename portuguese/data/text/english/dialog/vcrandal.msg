@@ -100,7 +100,7 @@
 {199}{}{Nothing today, actually.}
 {200}{}{So... you're Citizen }
 {201}{}{Yeah, he said you'd be stopping by... }
-{202}{}{All right.}
+{202}{}{Tudo certo.}
 {203}{}{Actually, never mind, I'll come back later for it.}
 {204}{}{Okay, here you go. One Hy-Mag. Kinda looks like a lava lamp, doesn't it? Oh, don't drop it... it's pretty fragile.}
 {205}{}{Say, what else do you have in stock?}
@@ -126,5 +126,5 @@
 {225}{}{!}
 {226}{}{, huh? Wait one minute, and I'll go get you the Hydroelectric Magneto...uh, the Hy-Mag.}
 {227}{}{, right? Wait one minute, and I'll go get you the Hydroelectric Magneto...uh, the Hy-Mag.}
-{228}{}{Thanks.}
+{228}{}{Obrigado.}
 {229}{}{[continue]}

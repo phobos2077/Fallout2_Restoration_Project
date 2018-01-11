@@ -3,7 +3,7 @@
 {200}{}{Greetings.}
 {201}{}{Welcome to the Abbey.}
 {202}{}{Hi.}
-{203}{}{Hello.}
+{203}{}{Olá.}
 {204}{}{Are you from the Arroyo tribe?}
 {205}{}{Greetings.}
 {206}{}{Nice outfit!}

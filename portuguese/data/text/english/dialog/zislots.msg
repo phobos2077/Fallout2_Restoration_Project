@@ -19,7 +19,7 @@
 {251}{}{. }
 {252}{}{Play last $}
 {253}{}{.}
-{254}{}{Call it a day.}
+{254}{}{Liga-o por um dia.}
 {255}{}{You are broke. You are forced to call it a night.}
 {256}{}{Call it a night.}
 {257}{}{You are broke. You are forced to call it a day.}
@@ -65,7 +65,7 @@
 {2012}{}{*Well ain't you a pretty lil' thing. Why don't you come play me?*}
 {2100}{}{You see a strange golden metal box with three eyes and one arm. It is one of the
  prettiest things you have ever seen.}
-{2101}{}{Me }
+{2101}{}{Eu}
 {2102}{}{ who yu?}
 {2103}{}{Me miss MOM. }
 {2104}{}{ miss ARR-YO. Me want go home}

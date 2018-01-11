@@ -2,7 +2,7 @@
 {101}{}{You see Frankie, owner of The Hole.}
 {150}{}{This appears to be the owner of this place.}
 {151}{}{This is Frankie. He owns this joint.}
-{152}{}{[TALK]}
+{152}{}{[FALAR]}
 {153}{}{I'm Frankie and yer standing in 'The Hole.' Best damn bar for
  a hundred miles! Everyone crawls into The Hole when it's time to let loose.
  Now don't you be causing too much trouble, y'hear?}
@@ -28,12 +28,12 @@
 {173}{}{Why does your whiskey cost so much more than Becky's?}
 {174}{}{No thanks.}
 {175}{}{Anything else?}
-{176}{}{Yes.}
+{176}{}{Sim.}
 {177}{}{Nope, thanks.}
 {178}{}{You don't have enough money! This ain't no charity!}
 {179}{}{Oh, sorry. I'm low on funds.}
 {180}{}{I'll come back.}
-{181}{}{What do you want?}
+{181}{}{O que você quer?}
 {182}{}{Whiskey.}
 {183}{}{Nothing. I'm leaving.}
 {184}{}{Wahdo a peedee!}
@@ -65,27 +65,27 @@
 {210}{}{Then here's the $500. Thanks.}
 {211}{}{Nice doing business with you.}
 {212}{}{You know, Frankie, she's just going to build another one.}
-{213}{}{Thanks, bye.}
+{213}{}{Obrigado, tchau.}
 {214}{}{Damn! Well, in the mean time she'll have no booze.}
 {215}{}{Why fight her, Frankie? Join her.}
 {216}{}{Think. Where else can you get liquor?}
 {217}{}{What do you mean?}
 {218}{}{Buy liquor from her. It's cheaper than New Reno's, so you'll make more money, too.}
 {219}{}{I don't want to do this.}
-{220}{}{Never mind.}
+{220}{}{Não importa.}
 {221}{}{Look, I just want her still destroyed. Will you do it?}
 {222}{}{Alright, I will.}
 {223}{}{No, I won't. Good bye.}
 {224}{}{Maybe you're right. I'll talk to her. Thanks.}
 {225}{}{Hey, what are friends for?}
-{226}{}{Bye.}
+{226}{}{Adeus.}
 {227}{}{Information I do not have.}
 {228}{}{Really? How about why Becky's drinks are so much cheaper than yours?}
 {229}{}{I thought bartenders knew everything.}
 {230}{}{Then I'm in the wrong place. Bye.}
 {231}{}{Go talk to Sheila. Hey, Sheila, you got a customer!}
 {232}{}{Wait, that's not what I want!}
-{233}{}{Thanks. Bye.}
+{233}{}{Obrigado. Tchau.}
 {234}{}{Yeah, I bet. You must have the damnedest time getting men. Try your luck somewhere else, sister. I ain't into no charities.}
 {235}{}{Fine! Something else then.}
 {236}{}{Why, you little...}
@@ -98,7 +98,7 @@
 {244}{}{You were the best I ever had. Really. I mean that.}
 {245}{}{I hate to eat and run, but...}
 {246}{}{Well, see you later.}
-{247}{}{Bye.}
+{247}{}{Adeus.}
 {248}{}{Yeah, whatever. Just clean up after yourself this time, will ya?}
 {249}{}{Hey, everyone! Let's hear it for Billy. He's actually getting some!}
 {250}{}{You need a mop?}

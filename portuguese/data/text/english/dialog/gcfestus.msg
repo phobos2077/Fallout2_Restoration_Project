@@ -135,7 +135,7 @@
 {423}{}{I deserve a raise for the work I do.}
 {424}{}{Gecko sure owes me now.}
 {425}{}{Did you see me out there? Never even faltered.}
-{430}{}{What do you want?}
+{430}{}{O que você quer?}
 {431}{}{I heard that you take care of parts requisitions and I need one.}
 {432}{}{I just wondered what you do here. }
 {440}{}{You? What do you need one for?}
@@ -148,7 +148,7 @@
 {450}{}{Well, okay. Here's your Part Requisition Form. I guess you have your reasons for needing it.}
 {451}{}{Well, okay. Here's your…Hey? Where'd I put that darn thing? It must be here somewhere… Hmm, I guess
  I can't find it right now. It'll turn up, though.}
-{452}{}{Thanks. Goodbye.}
+{452}{}{Obrigado. Adeus.}
 {453}{}{Oh, well. Maybe I'll come back later, then. Goodbye.}
 {460}{}{I don't care what you want. Those Part Requisition Forms are for official business only. They
  only entrust them to key personnel. That's why I have them. Get me? Key personnel, only. }
@@ -166,12 +166,12 @@
  break open. And another thing, my fingernails keep tearing...}
 {491}{}{Hold on! Wait! I think I've heard enough. Uh, let's back up a little.}
 {500}{}{Festus leaves and then comes back. He is still carrying the part.}
-{510}{}{[Done]}
+{510}{}{[Feito]}
 {520}{}{Festus gives you back the part.}
 {530}{}{Festus leaves and then comes back. He looks very pleased about something.}
 {600}{}{I have a reactor data disk that may help you optimize the reactor.}
 {610}{}{Okay, give it to me and I'll see what I can do.}
-{620}{}{Here you go.}
+{620}{}{Aqui está.}
 {630}{}{No, I think I'll keep it for now.}
 {640}{}{Okay. Looks good. Thanks for all your help.}
 {650}{}{Sure. No problem.}

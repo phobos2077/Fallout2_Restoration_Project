@@ -14,7 +14,7 @@
 {113}{}{I'm here to see President Tandi.}
 {114}{}{I'm here to see President Tandi.}
 {115}{}{I'm looking for a job.}
-{116}{}{What is this place?}
+{116}{}{O que é este lugar?}
 {117}{}{You can't.}
 {118}{}{Me go away.}
 {119}{}{Sorry, no public bathrooms here. Why don't you move along?}
@@ -25,7 +25,7 @@
 {124}{}{I heard your president's got a job to be done.}
 {125}{}{The folks at Vault 15 want to make a deal.}
 {126}{}{}
-{127}{}{Such as?}
+{127}{}{Como?}
 {128}{}{Someone's been selling her out.}
 {129}{}{It's none of your business.}
 {130}{}{That's nice. This isn't a hiring hall. Why don't you try downtown?}
@@ -34,7 +34,7 @@
 {133}{}{13? Or did you mean 15?}
 {134}{}{I said 13.}
 {135}{}{15?}
-{136}{}{No.}
+{136}{}{Não.}
 {137}{}{(Continue)}
 {138}{}{Oh, that. Talk to Mr. Gunther, in back.}
 {139}{}{Vault 15? They want to make a deal? Interesting. In the back - talk to Gunther.}

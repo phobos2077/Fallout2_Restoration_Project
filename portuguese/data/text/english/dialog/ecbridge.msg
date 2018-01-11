@@ -7,15 +7,15 @@
 {104}{}{Stop! Who would cross the Bridge of Death must answer me these questions three, 'ere the
  other side he see.}
 {105}{}{Cee...Deeee...Eee...Ffff...Gggg}
-{106}{}{Shamble off.}
-{107}{}{Very well.}
+{106}{}{Desliga.}
+{107}{}{Muito bem.}
 {108}{}{Ask me the questions, bridge keeper. I'm not afraid.}
 {109}{}{Maybe I'll just come back later.}
-{110}{}{What is your name?}
+{110}{}{Qual é o seu nome?}
 {111}{}{Hhhh....Eye...Jay...Kay...Lell...}
 {112}{}{?}
 {113}{}{Me}
-{114}{}{Shamble off.}
+{114}{}{Desliga.}
 {115}{}{of Arroyo.}
 {116}{}{Harry}
 {117}{}{Hakuin}

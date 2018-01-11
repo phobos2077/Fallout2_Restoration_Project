@@ -1,46 +1,45 @@
-{100}{}{You see a Tough Guard.}
-{101}{}{You see an impressively muscled, but aging guard with sun burnt skin. He must have been quite something in his
- prime. His piercing gaze seems to follow you everywhere.}
-{200}{}{Hi there, traveler. Welcome to the Abbey. Keep your nose clean and we'll get along just fine.}
-{201}{}{I'm watching you, slaver. One wrong move and you'll be tainting our graveyard for the rest of eternity.
- I wouldn't wish that on you, and I'm fairly sure you wouldn't enjoy that either, so don't get any funny ideas in that
- warped brain of yours.}
-{202}{}{Who are you?}
-{203}{}{Where can I barter for some supplies?}
-{204}{}{Somebody is digging up graves, why don't you do anything about it?}
-{205}{}{I heard something about animals in the basement. Know anything about that?}
-{206}{}{I think it's time I send you to a grave. Let's dance, old man.}
-{207}{}{Nevermind. Goodbye.}
-{300}{}{Nobody... Just an old retired caravan guard. A lot of people mistake me for some sort of sheriff because I'm
- the closest thing resembling the law in these parts, but I'm not. I just look out for this community because I think
- it's worth protecting.}
-{301}{}{And in return the community looks out for me. I get some complimentary booze from the monks, Peterson makes
- sure I'm fed and Bill makes sure I've got ammo and stims. Not a bad retirement gig, if you ask me.}
-{302}{}{I'm the one keeping you in line, and that's all you need to know. Now get on with your business and leave me
- alone.}
-{303}{}{That is a nice arrangement. Let me ask you something else.}
-{304}{}{Whatever, goodbye.}
-{305}{}{You think you can keep me in line? Let's see you try it, old man. This should be fun.}
-{400}{}{You can find Bill, our resident trader, in the building across from here. Other than that, you ought to go
- to Percy's Survival Gear Locker at the Junkyard in Gecko or Happy Harry's in the Courtyard at Vault City.}
-{401}{}{Good to know. I have another question.}
-{402}{}{Thanks, bye.}
-{500}{}{If someone is poor or greedy enough to try and dig up graves, that's their business. It's not like the dead can
- use what they're buried with anyway. Not my problem... I'm not losing any sleep over it.}
-{501}{}{Let me ask you something else.}
-{502}{}{Bye.}
-{600}{}{Yes, and Brother Thomas is missing. He was a smart man, but a bit foolhardy. I don't know what's down there,
- but I don't think it's just a bunch of rats and radscorpies.}
-{601}{}{Yes, and Brother Thomas is missing. I don't know what's down there, but I don't think it's just a bunch of rats
- and radscorpies. Why don't you find out, tough guy?}
-{602}{}{So why don't you go look?}
-{603}{}{You're the tough guy around here, aren't you? Why don't you drag your ass down there?}
-{610}{}{It's a bit embarrassing, but after spending so much time outdoors with the caravans, I get very nervous when I
- go underground. The walls just close in on me and I have trouble breathing... Maybe you can find out what happened to
- Brother Thomas?}
-{611}{}{I'll see what I can do. In the meantime, let me ask you something else.}
-{612}{}{Bye.}
-{613}{}{I am a tough guy, which is why I'm gonna kick your ass.}
-{700}{}{What else do you want to know?}
-{800}{}{It's good to see you again.}
-{801}{}{I'm keeping my eye on you.}
+{100}{}{Você vê uma Dura Guarda.}
+{101}{}{Você vê uma força impressionantemente musculosa, mas envelhecimento com pele queimada pelo sol. Ele deve ter sido algo em sua
+  Prime. Seu olhar penetrante parece segui-lo em todos os lugares.}
+{200}{}{Oi, viajante. Bem-vindo à Abadia. Mantenha o nariz limpo e nós vamos nos dar bem.}
+{201}{}{Estou te observando, escravista. Um movimento errado e você estará contaminando nosso cemitério pelo resto da eternidade.
+  Eu não desejaria isso pra você, e eu tenho certeza de que você não gostaria disso, então não obtenha idéias engraçadas nesse
+  cérebro deformado.}
+{202}{}{Quem é você?}
+{203}{}{Onde posso trocar por alguns suprimentos?}
+{204}{}{Alguém está cavando sepulturas, por que você não faz alguma coisa sobre isso?}
+{205}{}{Eu ouvi algo sobre os animais no porão. Sabe alguma coisa sobre isso?}
+{206}{}{Acho que é hora de enviar-lhe ao túmulo. Vamos dançar, velho.}
+{207}{}{Deixa pra lá. Adeus.}
+{300}{}{Ninguém ... Apenas um velho guarda de caravanas aposentado. Muitas pessoas me confundem com algum tipo de xerife porque eu sou
+  A coisa mais próxima que se assemelha à lei nestas partes, mas não sou. Eu apenas procuro essa comunidade porque eu acho que
+  vale a pena proteger.}
+{301}{}{E, em troca, a comunidade cuida de mim. Recebo algumas bebidas alcoólicas complementares dos monges, Peterson garante que eu esteja alimentado e Bill faz com que eu tenha munição e stims. Não é um plano de aposentadoria ruim, se você me perguntar.}
+{302}{}{Eu sou o único que o mantém em linha, e é tudo o que você precisa saber. Agora continue com o seu negócio e me deixe
+  sozinho.}
+{303}{}{Esse é um bom arranjo. Deixe-me perguntar-lhe outra coisa.}
+{304}{}{Seja o que for, adeus.}
+{305}{}{Você acha que pode me manter em linha? Vamos ver você tentar, velho. Isso deve ser divertido.}
+{400}{}{Você pode encontrar Bill, nosso comerciante residente, no prédio em frente àqui. Além disso, você deveria ir
+  para Percy's Survival Gear Locker no ferro-velho em Gecko ou Happy Harry's no patio em Vault City.}
+{401}{}{Bom saber. Eu tenho outra pergunta.}
+{402}{}{Obrigado, tchau.}
+{500}{}{Se alguém é pobre ou ganancioso o suficiente para tentar desenterrar túmulos, esse é o seu negócio. Não é como a lata morta
+  use o que eles estão enterrados de qualquer maneira. Não é meu problema ... Não estou perdendo o sono sobre isso.}
+{501}{}{Deixe-me perguntar-lhe algo mais.}
+{502}{}{Adeus.}
+{600}{}{Sim, e o Irmão Thomas está faltando. Ele era um homem inteligente, mas um pouco temerário. Eu não sei o que está lá em baixo,
+mas eu não acho que é só um monte de ratos e radscorpies.}
+{601}{}{Sim, e o irmão Thomas está ausente. Eu não sei o que está lá, mas eu não acho que seja só um monte de ratos
+  e radscorpies. Por que você não descobr, cara duro?}
+{602}{}{Então, por que você não vai olhar?}
+{603}{}{Você é o cara duro aqui, não é? Por que você não arrastou a bunda lá embaixo?}
+{610}{}{É um pouco embaraçoso, mas depois de passar tanto tempo ao ar livre com as caravanas, fico muito nervoso quando eu
+  vou no subsolo. As paredes apenas se aproximam de mim e tenho problemas para respirar ... Talvez você possa descobrir o que aconteceu com
+  Irmão Thomas?}
+{611}{}{Eu vou ver o que posso fazer. Entretanto, deixe-me perguntar-lhe algo mais.}
+{612}{}{Adeus.}
+{613}{}{Eu sou um cara durão, e é por isso que eu vou chutar o seu traseiro.}
+{700}{}{O que mais você quer saber?}
+{800}{}{É bom ver você novamente.}
+{801}{}{Eu vou manter meus olhos em você.}

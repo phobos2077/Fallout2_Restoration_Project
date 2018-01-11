@@ -16,7 +16,7 @@
 {107}{}{[You notice a button on the keyboard labeled help.] Push key.}
 {108}{}{Hack into security systems}
 {109}{}{Attempt to turn off alarm.}
-{110}{}{Exit.}
+{110}{}{Sair.}
 {111}{}{Arg! [You slam you fist into the keyboard in frustration.]}
 {113}{}{Skynet Security Systems}
 {114}{}{Retina Scanner Activated
@@ -28,7 +28,7 @@
 {118}{}{Arg! [You slam you fist into the keyboard in frustration.]}
 {120}{}{Skynet Security Systems
                                       Access to This Terminal is Denied}
-{122}{}{Exit.}
+{122}{}{Sair.}
 {124}{}{Error!
                                                                  No program files present
                                             Please reboot}
@@ -36,7 +36,7 @@
 {127}{}{Analyzing Command Please Wait...
                                   Overriding User Command
                                             Access Denied}
-{128}{}{[MORE]}
+{128}{}{[MAIS]}
 {129}{}{To Deactivate Alarm Press - 1
                                     To Run Diagnostic Program Press - 2
                              To Exit Press - 3}
@@ -46,8 +46,8 @@
 {133}{}{Exit}
 {134}{}{Warning! This program works best if you shut down all
  programs. Do you wish to do so now?}
-{135}{}{Yes.}
-{136}{}{No.}
+{135}{}{Sim.}
+{136}{}{Não.}
 {137}{}{Exit}
 {138}{}{Shutting Down Skynet Security Program
                          Analyzing Data Structure...
@@ -71,7 +71,7 @@
                                       Access to this Terminal is Terminated.}
 {145}{}{Exit}
 {146}{}{Exiting Diagnostic Program.}
-{147}{}{[MORE]}
+{147}{}{[MAIS]}
 {300}{}{ - ID Confirmed: }
 {301}{}{
             Terminal Last Accessed: }

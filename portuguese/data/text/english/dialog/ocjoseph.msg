@@ -39,9 +39,9 @@
 {134}{}{No, I'm not a prisoner. I stay because I'm needed here. I've learned to accept the fact that
  some of my patients are Deathclaws.}
 {135}{}{Okay. Need know more.}
-{136}{}{Thanks. Bye.}
+{136}{}{Obrigado. Tchau.}
 {137}{}{That's very commendable of you.}
-{138}{}{I see.}
+{138}{}{Eu vejo.}
 {139}{}{That's a decision that I can't agree with, but it's your life.}
 {140}{}{Yes I can, and often do. I have to collect my herbs from time to time, and I've never been
  stopped. I used to wonder if the Deathclaws were secretly following me and whether or not they would
@@ -49,7 +49,7 @@
 {141}{}{Me got it. Go now.}
 {142}{}{Need ask more.}
 {143}{}{You took a foolish chance and you're lucky it paid off.}
-{144}{}{All right.}
+{144}{}{Tudo certo.}
 {145}{}{Good idea. I'm glad to see it worked.}
 {146}{}{Well, let's see... Deathclaws appear to be mutated Jackson's Chameleons, the horned variety.
  There are a lot of similarities still present, but an even greater number of differences. The mutation

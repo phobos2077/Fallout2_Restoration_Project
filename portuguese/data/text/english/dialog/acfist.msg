@@ -1,34 +1,34 @@
-{100}{}{You see Lucas.}
-{101}{}{Lucas is the chief warrior of your tribe.}
-{102}{}{So there you are, Chosen One. Hmmmph! How goes your quest?}
-{103}{}{Pretty well.}
-{104}{}{Not so good.}
+{100}{}{Você vê Lucas.}
+{101}{}{Lucas é o chefe guerreiro de sua tribo.}
+{102}{}{Então lá está você, Um Escolhido. Hmmmph! Como vai sua busca?}
+{103}{}{Muito bem.}
+{104}{}{Não é tão bom.}
 {105}{}{Ugh?!}
-{106}{}{I must get back to it.}
-{107}{}{Maybe you need a warrior's help.}
-{108}{}{Sure. What can you help me with?}
-{109}{}{Nope. I am doing fine.}
-{110}{}{Good answer, dumb one. Now keep quiet while I practice.}
+{106}{}{Devo voltar a ela.}
+{107}{}{Talvez você precisa de um guerreiro.}
+{108}{}{Com certeza. O que você pode me ajudar?}
+{109}{}{Não. Eu estou fazendo muito bem.}
+{110}{}{Boa resposta, burro. Agora fique quieto enquanto eu pratico.}
 {111}{}{Uh-kay.}
-{112}{}{I know how to fight with fists and feet. Think you can learn that?}
-{113}{}{What can you teach me?}
-{114}{}{May the wind be at your back, Chosen One.}
-{115}{}{Goodbye.}
-{116}{}{Hmmm -- spend a day with me and I'll teach you how to punch harder.}
-{117}{}{Okay. Let's do it.}
-{118}{}{Sorry, don't have the time right now.}
-{119}{}{You know all I can teach you, Chosen One. Good luck to you on your quest.}
-{120}{}{Oh, okay.}
-{121}{}{Ha! Chosen One, you aren't graceful enough for me to teach you anything.}
-{122}{}{Oh, okay.}
-{123}{}{You are not quick enough in combat for my training to help you, Chosen One.}
-{124}{}{Oh, okay.}
-{125}{}{You need to learn more about combat before I can help you, little brother.}
-{126}{}{Oh, okay.}
-{127}{}{I can teach you a more powerful kick. It will take us all of one day.}
-{128}{}{Okay.}
-{129}{}{I can teach you enough to fight better. It will take us all of one day.}
-{130}{}{Okay.}
-{131}{}{You have learned well, Chosen One. May the wind be at your back.}
-{132}{}{Thanks for your help.}
-{133}{}{I have taught you all I can, Chosen One. Good luck on your quest.}
+{112}{}{Eu sei como lutar com os punhos e os pés. Acha que você pode aprender algo?}
+{113}{}{O que você pode me ensinar?}
+{114}{}{Que o vento esteja às suas costas, escolhido.}
+{115}{}{Adeus.}
+{116}{}{Hmmm -- passar um dia comigo e eu vou ensinar a você como socar mais forte.}
+{117}{}{Tudo bem. Vamos fazer isso.}
+{118}{}{Desculpe, não tenho tempo agora.}
+{119}{}{Você sabe tudo o que eu posso ensinar a você, Escolhido. Boa sorte para você em sua busca.}
+{120}{}{Ah, tudo bem.}
+{121}{}{Ha! Escolhido, você não é gracioso o suficiente para eu ensinar-lhe qualquer coisa.}
+{122}{}{Ah, tudo bem.}
+{123}{}{Você não é rápido o suficiente no combate para a minha formação para ajudar você, Escolhido.}
+{124}{}{Ah, tudo bem.}
+{125}{}{Você precisa aprender mais sobre o combate antes que eu possa ajudar você, irmãozinho.}
+{126}{}{Ah, tudo bem.}
+{127}{}{Posso te ensinar um chute mais poderoso. Isso nos levará todo um dia.}
+{128}{}{Tudo bem.}
+{129}{}{Eu posso ensinar-lhe o suficiente para lutar melhor. Isso vai levar cerca de um dia.}
+{130}{}{Tudo bem.}
+{131}{}{Você aprendeu bem, Escolhido. Possa o vento estar a sua volta.}
+{132}{}{Obrigado por sua ajuda.}
+{133}{}{Eu lhe ensinei tudo o que eu posso, Escolhido. Boa sorte em sua busca.}

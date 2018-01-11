@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
-{101}{}{He seems to be hired muscle for the merchant.}
-{102}{}{Talk to the boss if you need something.}
-{103}{}{Don't cause any trouble, ya hear?}
+{100}{}{Você vê um guarda.}
+{101}{}{Ele parece ser muito musculoso para um comerciante.}
+{102}{}{Falar para o chefe se você precisa de algo.}
+{103}{}{Não causa qualquer problema, tá ouvindo? }

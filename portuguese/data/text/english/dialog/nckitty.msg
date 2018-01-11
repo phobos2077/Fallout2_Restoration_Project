@@ -197,7 +197,7 @@
  yourself…presentable. Sorry.}
 {597}{}{yes… yes, I think you'd do just fine. Are you interested in the job? All of my other girls
  are…sick of it.}
-{598}{}{Sure.}
+{598}{}{Com certeza.}
 {599}{}{Hmmmph. I had some other questions…}
 {600}{}{No, but I may ask again later. I had some other questions…}
 {610}{}{(Nods.) Excellent. One of the Mordino lieutenants should be showing up soon. If you want to take a

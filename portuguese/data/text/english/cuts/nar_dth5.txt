@@ -1,2 +1,2 @@
-1:You have died.
-2:Your quest to find the Garden of Eden and return it to your village has failed.
+1:Você morreu.
+2:Sua busca para encontrar o Jardim do Éden e devolvê-lo para a sua aldeia falhou.

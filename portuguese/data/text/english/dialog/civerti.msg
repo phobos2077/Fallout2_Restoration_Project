@@ -15,7 +15,7 @@
 {210}{}{Run pre-flight diagnostics.}
 {211}{}{Log off.}
 {212}{}{Beginning system diagnostics...35% complete...75% complete...100% complete. All systems appear operational. Checking for response from docking rig...}
-{213}{}{[MORE]}
+{213}{}{[MAIS]}
 {214}{}{No signal returned from docking rig. Reason: Satellites not aligned for automated docking with Oil Rig. Please make sure docking rig is aware of the presence of incoming aircrafts.}
 {215}{}{Hmm...Looks like I will have to find a way to align the satellites.}
 {216}{}{Urg?}

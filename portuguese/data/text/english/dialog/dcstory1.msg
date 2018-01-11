@@ -39,14 +39,15 @@
 {144}{}{Well this might take a bit. Be a gentleman and buy me a drink, wouldn't you please? Not whiskey though, Nuka-Cola please.}
 {145}{}{Well this might take a bit. Be a doll and buy me a drink, wouldn't you please? Not whiskey though, Nuka-Cola please.}
 {146}{}{Shall we get started? I remember it quite well now.}
-{147}{}{Sure.}
+{147}{}{Com certeza.}
 {148}{}{Sorry, I can't spare $5 right now.}
 {149}{}{Thanks. Now let's see... I remember my mom telling me about this huge migration that happened 70... or was it 80 years ago...}
 {150}{}{Please, go on.}
 {151}{}{Really big mutants with weapons as tall as you and me came from the south. Mom said it looked like a big migration of some sort.}
 {152}{}{How many?}
 {153}{}{Don't know, but there were multiple groups of them. Some would continue north, others headed east. No one knew where they were going.}
-{154}{}{Go on.}
+{154}{}{Continue.
+}
 {155}{}{They were quite upset and seemed to be fleeing from something.}
 {156}{}{Really?}
 {157}{}{Yeah, there were also others in dirty, tattered purple robes... they kept babbling about how the Master was dead...}
@@ -57,6 +58,6 @@
 {162}{}{Thanks for the story.}
 {163}{}{Well, it's getting late. Bye.}
 {164}{}{My pleasure. Bye.}
-{165}{}{Bye.}
+{165}{}{Adeus.}
 {166}{}{Nevermind.}
 {167}{}{Leanne told you her story about the Master.}

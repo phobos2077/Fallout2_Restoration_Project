@@ -9,20 +9,20 @@
 {108}{}{Show me what you've got.}
 {109}{}{Nothing, I'm leaving.}
 {110}{}{Information huh? Well I ain't no library and this ain't no computer room. Drink up or get out. Want some booze or not?}
-{111}{}{Yes.}
-{112}{}{No.}
+{111}{}{Sim.}
+{112}{}{Não.}
 {113}{}{Fine. If this shit don't kill you, nothing will.}
 {114}{}{}
 {115}{}{Ok.}
 {116}{}{That it for you?}
-{117}{}{Yes.}
-{118}{}{No.}
+{117}{}{Sim.}
+{118}{}{Não.}
 {119}{}{Later then.}
 {120}{}{}
 {121}{}{Ok.}
 {122}{}{Welcome back. Need more booze?}
-{123}{}{Yes.}
-{124}{}{No.}
+{123}{}{Sim.}
+{124}{}{Não.}
 {125}{}{I'm closed. Go away.}
 {126}{}{}
 {127}{}{Ok.}

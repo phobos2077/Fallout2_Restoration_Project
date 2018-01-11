@@ -13,9 +13,9 @@
 {222}{}{Ack.}
 {230}{}{The name doesn't ring a bell, but then again I don't keep track of who comes in and out of town. Check with Becky. Everyone ends up going through there. She might know.}
 {231}{}{Got any work?}
-{232}{}{Thanks. Bye.}
+{232}{}{Obrigado. Tchau.}
 {240}{}{If you didn't come to the Den for a specific reason you should probably leave. It's not very safe around here.}
-{241}{}{Oh, okay.}
+{241}{}{Ah, tudo bem.}
 {242}{}{Got any work?}
 {243}{}{I can handle myself.}
 {244}{}{Okay, thanks.}
@@ -28,12 +28,12 @@
 {262}{}{Sure what's that?}
 {263}{}{Maybe later.}
 {270}{}{Let me know if you change your mind.}
-{271}{}{All right.}
+{271}{}{Tudo certo.}
 {280}{}{Well, there's a church east of here. Metzger has some people guarding whatever
  is inside. Find out what and I'll pay you $200.}
 {281}{}{That was easy. I already know.}
-{282}{}{Sure.}
-{283}{}{I'll see what I can do.}
+{282}{}{Com certeza.}
+{283}{}{Eu vou ver o que posso fazer.}
 {290}{}{Thanks. Don't get in a fight... yet. I have a plan.}
 {291}{}{No problem.}
 {292}{}{I'll be right back.}
@@ -53,26 +53,26 @@
 {350}{}{Not sure exactly. Somewhere to the south I think. I've never been there, I just see their caravans stop by once in a while - once in a long while.}
 {351}{}{Oh, okay. Thanks.}
 {360}{}{You looking for some more quick and easy cash? $50. Easy money.}
-{361}{}{Sure.}
+{361}{}{Com certeza.}
 {362}{}{Make it quick.}
 {370}{}{I need you to check with Metzger to see if he'd be okay if Tyler and I settled some old matters. He'll understand what I mean.}
 {371}{}{Why do you want me to ask?}
 {372}{}{If I get a chance.}
-{373}{}{Okay.}
+{373}{}{Tudo bem.}
 {380}{}{Because I don't want Tyler to see any of my people going into or out of Metzger's place. I don't want to tip our hand.}
 {381}{}{Don't you get it? If Tyler sees me all of a sudden talking to Metzger he might catch wind of something fishy.}
 {382}{}{We'll see.}
-{383}{}{Okay.}
+{383}{}{Tudo bem.}
 {390}{}{So did you find out what's in there?}
 {391}{}{Raw chemical compounds in large crates.}
 {392}{}{Big containers holding chemicals of some kind.}
-{393}{}{Not yet.}
+{393}{}{Ainda não.}
 {400}{}{So did you talk to him yet? What did he say?}
 {401}{}{He said yes. If you win, you can have their job, like before.}
 {402}{}{Na.}
 {410}{}{Great. I was hoping as much. I hear he's been complaining about them lately. Here's your money.}
 {411}{}{I assume there's something else now?}
-{412}{}{Thanks. Bye.}
+{412}{}{Obrigado. Tchau.}
 {420}{}{I have one more job for you. I'm not sure how you'll do it, but since you were able to get inside maybe they trust you.}
 {421}{}{I snuck inside.}
 {422}{}{What is it?}
@@ -86,13 +86,13 @@
 {443}{}{Consider it done.}
 {450}{}{We'll give you $150. There's no way we can get close enough to find out by ourselves.}
 {451}{}{If I get around to it.}
-{452}{}{Okay.}
+{452}{}{Tudo bem.}
 {460}{}{I don't know. That's why I'm asking you to help.}
 {461}{}{I'll try.}
 {462}{}{This is pointless.}
 {470}{}{Did you find anything?}
 {471}{}{Yes. They're having a party tonight.}
-{472}{}{Not yet. I'll let you know.}
+{472}{}{Ainda não. Eu aviso você.}
 {473}{}{Gra.}
 {474}{}{Na.}
 {480}{}{Excellent! They're sure to leave a skeleton crew. Those should be good
@@ -105,12 +105,12 @@
 {493}{}{Give me a bit to get ready.}
 {494}{}{No way. Keep your money!}
 {500}{}{Okay, but we've got to act soon so don't take too long or we'll ruin our chance.}
-{501}{}{Okay.}
+{501}{}{Tudo bem.}
 {510}{}{You don't have to fight. Easy money.}
 {511}{}{Well, have you changed your mind?}
 {512}{}{Let's go. I'm ready.}
 {513}{}{Okay, I'll be right back.}
-{514}{}{No.}
+{514}{}{Não.}
 {515}{}{Uk}
 {520}{}{Because of you we blew our chance.}
 {521}{}{Coward!}

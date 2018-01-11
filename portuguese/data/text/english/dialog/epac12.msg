@@ -84,7 +84,7 @@
 {285}{}{[Kitsune ponders your words for a good long while. Finally, she lines her eyes with yours.] I can't pretend you don't have a point. Maybe... maybe I will take my chances with you.}
 {286}{}{Let's get out of here, then. It's time we left this dump behind.}
 {287}{}{Actually, I think I'm going to strike out on my own. I've always been the independent type, so it shouldn't be any skin off my back. A lot has changed since I've been away and I'd like to see it for myself. Thanks for unthawing me. You take care of yourself.}
-{288}{}{[Done]}
+{288}{}{[Feito]}
 {300}{}{Yes?}
 {301}{}{I'm all ears.}
 {302}{}{Something you wanted?}
@@ -109,13 +109,15 @@
 {323}{}{Wow, most of that went way over my head. But if I understand correctly, you're saying you and your parents deceived the Chinese into thinking you were loyal.}
 {324}{}{Your parents took great pains to make sure your family's true loyalties stayed secret.}
 {325}{}{All warfare is based on deception. My parents loved their country. They just hated the people who ran it and thought it would be better off as a democracy. The way they saw it, they weren't betraying China - they were working against a government they didn't believe was good for it.}
-{326}{}{Go on.}
+{326}{}{Continue.
+}
 {327}{}{I married an official who worked for the Chinese Ministry of National Defense. I chose him because he was the most willing to talk about his work when we were together. So I played the role of the dutiful wife, while secretly reporting relevant information back to my American superiors. But then things got complicated.}
 {328}{}{How so?}
 {329}{}{My father was contacted by Dr. Raynard Muldrake, an old colleague he had worked with during his time in the States. Dr. Muldrake urgently requested a private meeting, but my father was in poor health at the time and was in no condition to travel to America. Dr. Muldrake agreed to meet me in his place.}
 {330}{}{So what happened?}
 {331}{}{It turned out Muldrake was part of a top secret project at a West Tek research facility in Southern California. The project had started off innocently enough, as an attempt to find a way to make people immune to the New Plague, but it quickly evolved into something more sinister. Something called Forced Evolutionary Virus, or FEV.}
-{332}{}{Go on.}
+{332}{}{Continue.
+}
 {333}{}{It had the potential to greatly enhance a person's strength and intellect, but the FEV was dangerously unstable. Despite this, the military hoped to use it to create an army of super soldiers that could crush the Chinese.}
 {334}{}{Dr. Muldrake was against the change in the project's direction, but kept his mouth shut out of fear for his life. But when he learned that the military was testing the virus on unsuspecting, small American towns, he knew he had to take action. The world needed to know the truth.}
 {335}{}{So that's when he contacted your father...}
@@ -185,7 +187,7 @@
 {461}{}{Maybe when you've freed up some space. I don't run well with crowds.}
 {462}{}{You ready to take me with you?}
 {463}{}{Let's go.}
-{464}{}{No, not yet.}
+{464}{}{Não, ainda não.}
 {470}{}{Jesus, you look like the Grim Reaper. You ought to get yourself checked out.}
 {480}{}{No problem. I'm lighter on my feet without it.}
 {490}{}{Never been better. Let's keep going.}
@@ -363,5 +365,5 @@
 {3260}{}{So they were traitors to their people, but for their people's own good. Got it.}
 {3261}{}{Look, I'm sick of hearing about your parents. How 'bout you get to the part about you being a spy?}
 {5000}{}{[As the woman looks up at your face, her eyes suddenly grow wide and she starts gasping for air.}
-{5001}{}{[END]}
+{5001}{}{[FIM]}
 {5002}{}{Holy shit!}

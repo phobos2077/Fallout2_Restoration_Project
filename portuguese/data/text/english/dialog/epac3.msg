@@ -38,15 +38,16 @@
 {302}{}{Not right now. I need to ask you something.}
 {303}{}{Nope. I must be going.}
 {310}{}{Sure, what would you like to know? I hope it's about toast.}
-{311}{}{What is this place?}
-{312}{}{Nevermind. Bye.}
+{311}{}{O que é este lugar?}
+{312}{}{Deixa pra lá. Tchau.
+}
 {350}{}{Hey, you fixed me! I knew Mr. Handy left the job unfinished. Now I feel better than ever! Thanks.}
 {351}{}{Sure, it's what I do. See you later.}
 {352}{}{Now hold on there. If you won't let me reward you with toast, then at least allow me give you a little tip. You
  know those slot machines you find in casinos? Well, I calculated a method that can jinx the machines out of their cash.
  I have an IQ of 6000, you know. When I'm not making toast, I like to ponder these kinds of things. For helping me out,
  I'll tell you these secret codes. Just use one of the machines like you normally would and...}
-{353}{}{[MORE]}
+{353}{}{[MAIS]}
 {354}{}{...And that's all there is to it. You'll be rich in no time, eating toast to your heart's content.}
 {355}{}{Thanks. I appreciate this. So long.}
 {400}{}{You successfully repair the toaster.}

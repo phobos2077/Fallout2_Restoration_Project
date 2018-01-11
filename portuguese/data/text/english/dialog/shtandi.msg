@@ -39,7 +39,7 @@
 {138}{tand6a}{Fair enough. Do it right and there's a reward.}
 {139}{tand6b}{Lord, I know I'm making a mistake but... give it a shot - if you understood anything I said.}
 {140}{}{Ok. Me go.}
-{141}{}{Me got questions.}
+{141}{}{Eu tenho perguntas.}
 {142}{}{All right. I'm off.}
 {143}{}{I'd like to ask you some questions.}
 {144}{tand7a}{Well, I got a little time to spare.}
@@ -66,7 +66,8 @@
 {165}{}{That's all for now. I'll be going.}
 {166}{tand8}{It's just east of here, an underground shelter from the war. Most families in NCR came from it, so it's rightfully ours.}
 {167}{}{Tell more.}
-{168}{}{Go on.}
+{168}{}{Continue.
+}
 {169}{tand9}{A couple of years ago some squatters moved in and built a shantytown on the surface. They call it 'The Squat.' They're nothing but dogs in the manger. They can't get into the vault but they keep us out.}
 {170}{}{Me got more questions.}
 {171}{}{I see. I need to ask you about a few other things.}
@@ -112,12 +113,12 @@
 {211}{}{Rumor has it that the NCR is making a deal with the Bishops.}
 {212}{}{Ok, on to other things.}
 {213}{tand20}{No point trying to keep secrets around here. We're negotiating with New Reno for membership in the NCR. They should have some pull with places like Vault City.}
-{214}{}{Me see.}
-{215}{}{All right.}
+{214}{}{Eu vejo.}
+{215}{}{Tudo certo.}
 {216}{tand21}{Most figure we've got to work with New Reno one way or another. But folks like Westin and the ranchers blame New Reno for rustling the cattle drives between here and Redding.}
 {217}{}{Humph.}
 {218}{}{Who Westin?}
-{219}{}{I see.}
+{219}{}{Eu vejo.}
 {220}{}{Who is this Westin person?}
 {221}{tand22}{Congressman Westin? One of the biggest brahmin ranchers around. His spreads on the west side of town. Just don't bring up New Reno if you talk to him - it gets him going. If you're looking for a steady job... but you aren't that type, are you?}
 {222}{}{No thanks.}
@@ -150,7 +151,7 @@
 {249}{}{Tell about NCR.}
 {250}{}{Me ask about something else.}
 {251}{}{Tell me about the NCR please.}
-{252}{}{Let me ask you something else.}
+{252}{}{Deixe-me perguntar-lhe algo mais.}
 {253}{tand32}{Lord, I could talk about that forever and I just don't have the time. Here's a holodisk on the NCR. We make 'em to spread the good word.}
 {254}{}{Uh, thanks.}
 {255}{tand33}{So, they finally got reasonable. I can bull the Congress into sending supplies and techs. You sure we can get into the vault?}
@@ -161,7 +162,7 @@
 {260}{}{Me need know one more thing. What if me found Vault 13?}
 {261}{}{I'm afraid you have another problem. If you'll look at this holodisk you'll see that you have a spy in the NCR.}
 {262}{}{Just one more thing. What if I told you that I found Vault 13?}
-{263}{}{Thanks.}
+{263}{}{Obrigado.}
 {264}{tand35}{Damn, the only person who knew all this was Feargus! I'm not suggesting anything, but maybe Gunther should know about this.}
 {265}{}{Me tell. Me go now.}
 {266}{}{Me need know one more thing. What if me found Vault 13?}
@@ -180,7 +181,7 @@
 {279}{}{Uh, ok.}
 {280}{}{Fine, what can I do for you?}
 {281}{tand39}{You're back. So, you interested in a job or not?}
-{282}{}{No.}
+{282}{}{Não.}
 {283}{}{Ok.}
 {284}{tand40}{Back, are you stranger? So's the job done? Do we have access to the vault?}
 {285}{}{Me working on it. Bye.}
@@ -208,9 +209,9 @@
 {307}{}{Right. I'll be leaving.}
 {308}{tand45}{You earned yourself a bonus. My assistant will square things up.}
 {309}{}{}
-{310}{}{Thanks.}
+{310}{}{Obrigado.}
 {311}{tand46}{A real horse trader you are. Fine, see Gunther. He'll handle the arrangements.}
-{312}{}{Thanks.}
+{312}{}{Obrigado.}
 {313}{tand47}{Boys, get this glob of brahmin spit out of my office! Time for you to head on out, stranger.}
 {314}{}{Done}
 {315}{tand14b}{My dad and Seth searched for years trying to find Vault 13. They died looking - always said it was west of here. If somebody were to find Vault 13, that'd do us even better than 15.}

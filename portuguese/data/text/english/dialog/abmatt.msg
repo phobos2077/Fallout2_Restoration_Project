@@ -1,50 +1,52 @@
-{100}{}{You see a middle aged monk.}
-{101}{}{You see Brother Matthew.}
-{102}{}{He is standing at a podium preaching to the citizens of the Abbey.}
-{200}{}{Good people of the Abbey. Take a moment to listen, for I have much to say.}
-{201}{}{Here we collect, the holy relics of an age long past.}
-{202}{}{Scorched by the Flame Deluge, into the dark, we were cast.}
-{203}{}{A Memorabilia we shall make, to preserve the wisdom of old.}
-{204}{}{We must guard and care for it, though the flame has gone cold;}
-{205}{}{It could ignite once again, should the wisdom be misused.}
-{206}{}{Thus, no one shall learn, for fear of another, Flame Deluge.}
-{207}{}{But one day, men shall rise above their desire for destruction.}
-{208}{}{And the Memorabilia will be there, awaiting re-introduction.}
-{209}{}{So we tend to our holy task, lest all that wisdom, we lose.}
-{210}{}{We must preserve and protect it, but never shall we use.}
-{211}{}{So go now my friends, and let your spirits be lifted;}
-{212}{}{For the guardians of knowledge, we have each, been gifted.}
-{213}{}{Now, please take a moment and reflect on what I have said.}
-{224}{}{Now, please take a moment and reflect on what I have said.}
-{300}{}{Greetings, friend. I don't think I have seen you around here before. My name is Brother Matthew and I help
- spread the word about the importance of preserving the knowledge of the old ones.}
-{301}{}{It's good to meet you Matt. My name is }
-{302}{}{ and I am on a quest for the holy GECK.}
-{303}{}{Sorry, I must be going.}
-{400}{}{A GECK, huh? I seem to remember reading something about that during one of my transcribing sessions. So it must
- be in our database, but I'm afraid access to our computers is restricted. However, if you talk to the Abbot, it's
- possible he'll grant you access. It couldn't hurt to try, anyway. Oh, and feel free to browse through our collection
- of holy pre-war relics. I'd ask you not to damage anything, but I'm afraid everything's already broken beyond repair.}
-{401}{}{I think I just might. I have some questions though.}
-{402}{}{Thanks. I think I'll go do that now.}
-{500}{}{I am at your service. What would you like to know?}
-{501}{}{What can you tell me about this place?}
-{502}{}{You seem to be very poetic in your preaching. Any reason for this?}
-{503}{}{Nevermind. Take care.}
-{600}{}{The Abbey is home to anyone, so long as they don't cause trouble. We are an independent community and rarely get
- visitors, such as yourself. The majority of those you see here are descended from the original founders that settled in
- this old monastery not long after the great Flame Deluge.}
-{601}{}{Go on.}
-{602}{}{The quiet, peaceful quality of this place has made it an appealing home to other travelers that have wandered
- here over the years, seeking to escape from the dark chaos of the wastes. Of course, the true value of this place lies
- in its vast library. It's filled with old tomes, containing the strange wisdom of a lost age. Over time, we've come to
- fancy ourselves the keepers and guardians of that wisdom.}
-{603}{}{Very interesting. Another question.}
-{604}{}{Interesting. Well, I must be going.}
-{700}{}{[The man chuckles at your question] No, no particular reason. I have just read much poetry throughout my life
- and I enjoy applying it to my teachings. It helps leave a greater impact on those listening.}
-{701}{}{Fair enough. Another question.}
-{800}{}{It is good to see you again }
-{801}{}{. What can I do for you?}
-{802}{}{I have some questions.}
-{803}{}{Nothing. See you around.}
+{100}{}{Você vê um monge de meia idade.}
+{101}{}{Você vê o Irmão Mateus.}
+{102}{}{Ele está de pé no pódio pregando para os cidadãos da Abadia.}
+{200}{}{As boas pessoas da Abadia. Tome um momento para ouvir, porque eu tenho muito o que dizer.}
+{201}{}{Aqui recolhemos, as relíquias sagradas de uma época longa.}
+{202}{}{Queimada pela Chama do Dilúvio, no escuro, fomos lançados. }
+{203}{}{Um Memorial que devemos fazer, para preservar a sabedoria dos antigos.}
+{204}{}{Devemos cuidar e cuidar disso, embora a chama tenha esfriado;}
+{205}{}{Poderia inflamar mais uma vez, se a sabedoria fosse utilizada.}
+{206}{}{Assim, ninguém deve aprender, por medo de outro Dilúvio de Chamas.}
+{207}{}{Mas um dia, os homens devem subir acima de seu desejo por destruição.}
+{208}{}{E a Recordação vai estar lá, à espera de re-introdução.}
+{209}{}{Então, nós tendemos a nossa santa tarefa, para que não seja perdida aquela sabedoria.}
+{210}{}{Temos de preservar e proteger, mas nunca vamos usar.}
+{211}{}{Então, vão agora meus amigos, e deixem seus espíritos ser levantados;}
+{212}{}{Para os guardiões do conhecimento, cada um de nós já foi dotado.}
+{213}{}{Agora, por favor, tomem um momento para refletir sobre o que eu disse.}
+{224}{}{Agora, por favor, tomem um momento para refletir sobre o que eu disse.}
+{300}{}{Saudações amigo. Não creio ter visto você por aqui antes. Meu nome é Irmão Matthew e eu ajudo a
+  espalhar a palavra sobre a importância de preservar o conhecimento dos antigos.}
+{301}{}{É bom conhecer você, Matt. Meu nome é }
+{302}{}{ e eu estou em uma busca pelo santo GECK.}
+{303}{}{Desculpe, devo estar indo.}
+{400}{}{Um GECK, hein? Acho que lembro de ler algo sobre isso durante uma das minhas sessões de transcrição. Então deve
+  estar em nosso banco de dados, mas receio que o acesso aos nossos computadores seja restrito. No entanto, se você conversar com o abade, é
+  É possível que ele lhe conceda acesso. Não custa tentar, de qualquer forma. Ah, e sinta-se à vontade para navegar em nossa coleção
+  de relíquias sagradas de antes da guerra. Gostaria de pedir-lhe para não danificar nada, mas receio que tudo já esteja inutilizado, se não reparado.}
+{401}{}{Eu acho que eu poderia. Eu tenho algumas perguntas embora.}
+{402}{}{Obrigado. Eu acho que vou fazer isso agora.}
+{500}{}{Eu estou ao seu serviço. O que você gostaria de saber?}
+{501}{}{O que você pode me dizer sobre este lugar?}
+{502}{}{Você parece ser muito poético em sua pregação. Alguma razão para isso?}
+{503}{}{Deixa pra lá. Cuide-se.
+}
+{600}{}{A Abadia é o lar de qualquer pessoa, desde que não causem problemas. Somos uma comunidade independente e raramente recebemos
+  visitantes, como você. A maioria daqueles que você vê aqui são descendentes dos fundadores originais que se estabeleceram
+  neste antigo mosteiro não muito tempo depois do grande dilúvio da Chama.}
+{601}{}{Continue.
+}
+{602}{}{A qualidade tranquila e pacífica deste lugar tornou-a uma casa atraente para outros viajantes que vagaram
+  aqui ao longo dos anos, procurando escapar do caos sombrio dos resíduos. Claro, o verdadeiro valor desse lugar reside
+  em sua vasta biblioteca. Está cheio de tomos velhos, contendo a estranha sabedoria da idade perdida. Com o tempo, chegamos a
+  nos tornar os guardiões dessa sabedoria.}
+{603}{}{Muito interessante. Outra pergunta.}
+{604}{}{Interessantes. Bem, tenho que ir.}
+{700}{}{[O homem ri de sua pergunta] Não, nenhuma razão específica. Acabei de ler muita poesia durante toda a minha vida
+  e eu gosto de aplicá-la aos meus ensinamentos. Isso ajuda a deixar um maior impacto sobre aqueles que ouvem.}
+{701}{}{Justo o suficiente. Outra pergunta.}
+{800}{}{É bom ver você de novo }
+{801}{}{. O que eu posso fazer por você?}
+{802}{}{Eu tenho algumas perguntas.}
+{803}{}{Nada. Vejo você por aí.}

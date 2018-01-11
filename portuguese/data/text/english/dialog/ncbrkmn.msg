@@ -21,7 +21,7 @@
 {302}{}{(You slowly verbalize the series of letters you learned from the computer at the EPA, making sure the correct
  inflections are used on each letter. When you are done reading the phrase you look back up at the man. He looks back
  at you then shakes his whole body like a dog trying to dry himself after a rainstorm.)}
-{303}{}{[MORE]}
+{303}{}{[MAIS]}
 {304}{}{Woo- Woah. Hey, I can speak normally! Wow, this is great. What'd you do to me?}
 {305}{}{I learned that if you read a specific series of letters, making sure to use the correct inflections on each
  letter, you can cure someone with either autism or epilepsy.}

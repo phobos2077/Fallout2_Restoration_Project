@@ -27,7 +27,7 @@
 {310}{}{Nothing to repay me? Look lady, I could have died in those woods. It's filled with all kinds of deadly creatures. I risked my neck for this fucking wood. Not to mention I think one of the logs gave me a splinter. I *hate* splinters.}
 {311}{}{Well, here, take this money. I have no real use for it here. Thank you again.}
 {312}{}{That's better. Bye.}
-{313}{}{[DONE]}
+{313}{}{[FEITO]}
 {314}{}{Hmmf. Go bother someone else.}
 {315}{}{Did you bring the firewood?}
 {316}{}{Yeah, I got it right here.}

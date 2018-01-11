@@ -37,7 +37,7 @@
 {133}{}{The main computer? It's down on the third level. Just take the elevator down, walk straight
  until you hit the T-intersection, then make the first left. That'll take you right to the control room.}
 {134}{}{What is it you do here?}
-{135}{}{Thanks.}
+{135}{}{Obrigado.}
 {136}{}{I am Vault City's primary physician. I take care of all the Citizens within Vault City and do my
  best to keep everyone healthy.}
 {137}{}{I'm looking for the main computer. Can you tell me where it is?}
@@ -50,7 +50,7 @@
 {144}{}{No, I'm not.}
 {145}{}{A pleasure to meet you, }
 {146}{}{. If you are ever in need of my services, you can find me here.}
-{147}{}{Thanks. Goodbye.}
+{147}{}{Obrigado. Adeus.}
 {148}{}{You're not a Vault City native, though, am I right? I'm certain I would remember someone like
  you. Where are you from?}
 {149}{}{Hold on a moment... you're an Outsider, correct? Where are you from?}
@@ -158,7 +158,7 @@
 {229}{}{Brahmin fumes? Not a conventional manufacturing process, but... hmmmmm. Perhaps I could take
  blood samples from the brahmin in the courtyard, then... thank you, my friend.}
 {230}{}{No problem.}
-{231}{}{Sure.}
+{231}{}{Com certeza.}
 {232}{}{You may also tell your little hooligan friend that he is wasting his considerable intellect
  manufacturing drugs. His manners and language also leave MUCH to be desired.}
 {233}{}{Tell me about it.}
@@ -235,7 +235,7 @@
 {295}{}{Nothing today. Good day, Doctor.}
 {296}{}{Certainly. I'm sorry... it's been some time since I actually had to administer them. Most
  Citizens received theirs many, many years ago. Let me prep the Autodoc for the procedure...}
-{297}{}{All right.}
+{297}{}{Tudo certo.}
 {298}{}{All finished. A word of caution: This vaccination doesn't make you immune to poison and
  radiation, but it does bolster your natural resistance.}
 {299}{}{Much appreciated. Say, I had some other questions I wanted to ask you...}

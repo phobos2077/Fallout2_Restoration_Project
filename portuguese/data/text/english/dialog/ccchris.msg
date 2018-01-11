@@ -10,7 +10,7 @@
 {107}{}{You see metal bird fly here?}
 {108}{}{You hear Enclave? They here?}
 {109}{}{Me just look around.}
-{110}{}{What is this place?}
+{110}{}{O que é este lugar?}
 {111}{}{I'm looking for Navarro. Is this it?}
 {112}{}{Have you seen any vertibirds fly through here?}
 {113}{}{Ever hear of the Enclave? Are they around here?}
@@ -49,10 +49,10 @@
 {139}{}{What do you think you're doing?}
 {140}{}{Hey, I'm outta here.}
 {141}{}{(speaking into radio) Alert! We got an intruder at the station! Alert!}
-{142}{}{[DONE]}
+{142}{}{[FEITO]}
 {143}{}{Well, nice talking with you. Here's some advice though - ain't nothing
  in these parts except wasteland and radiation. Civilization's south of here. I'd be heading that way if I was you.}
-{144}{}{Thanks.}
+{144}{}{Obrigado.}
 {145}{}{Metal birds? Oh, you must mean vertibirds. Now why would you be
  asking about them here?}
 {146}{}{Vertibirds? That's an interesting subject. Now why would you be
@@ -114,7 +114,7 @@
 {181}{}{Then I would suggest you tell me the best way into the base... now!}
 {182}{}{I suppose that would be through the trap door in the floor of my room.
  Just go and leave me be.}
-{183}{}{Okay, me go.}
+{183}{}{Ok, eu vou.}
 {184}{}{All right. I'll do that.}
 {185}{}{I know they fly over here from time to time. They're usually heading
  south toward San Fran. If you're interested in vertibirds, I'd head there.}
@@ -153,7 +153,7 @@
 {208}{}{I hired an escort!}
 {209}{}{Well, I don't mean to be rude or nothing, but this here's private property.
  If you're going to be poking around somewhere, don't be doing it here.}
-{210}{}{[DONE]}
+{210}{}{[FEITO]}
 {211}{}{You're back. What can old Chris help you with?}
 {212}{}{You tell me Navarro south. You lie! Me here for truth.}
 {213}{}{You told me Navarro was to the south, old man. Now I want to know the truth.}

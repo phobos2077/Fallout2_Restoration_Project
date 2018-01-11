@@ -35,7 +35,7 @@
 {320}{}{Excellent! Brilliant! I can crush those fools now! The EPA will be cleansed once more! Alright, now I have something for you. [Speaking to the robots] Get yer metal ass in gear and come give this civie a reward for serving this great nation!
  [A robot wheels over to you and holds out a keycard. Once you take the card, you watch it wheel back out of the room. Somehow, you get the impression that these robots would have been
  happier if you'd left them inactive.] Be on your way now. You are dismissed.}
-{321}{}{Thanks.}
+{321}{}{Obrigado.}
 {322}{}{Dismissed? What am I, a guardsman? Later, old timer.}
 {330}{}{Leave me alone!}
 {331}{}{I want nothing more to do with you.}

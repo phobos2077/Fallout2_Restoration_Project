@@ -13,7 +13,7 @@
 {112}{}{Where Enclave main base at?}
 {113}{}{Me look for vertibird plans. Where I find?}
 {117}{}{Me be go now.}
-{118}{}{What is this place?}
+{118}{}{O que é este lugar?}
 {119}{}{What is your job here?}
 {120}{}{Where is the Enclave main base located?}
 {121}{}{I need to look at the vertibird plans. Where are they kept?}
@@ -25,18 +25,18 @@
 {130}{}{Uh... yeah.}
 {131}{}{Good. Keep up the good work.}
 {132}{}{Soldier, that information is on a "need to know"-only basis. If you have to ask the question then you don’t need to know.}
-{133}{}{Okay.}
+{133}{}{Tudo bem.}
 {134}{}{Come on, it’s not like I’m some damn tribal or something. We’re in the same outfit; notice the insignia on the armor?}
-{135}{}{I understand.}
+{135}{}{Eu entendo.}
 {136}{}{Yes, sir. The main base is located off the Pacific coast near the city of San Francisco. May I inquire why you are asking, sir?}
 {137}{}{Soldier, I told you that information is on a "need to know"-only basis.}
 {138}{}{For security purposes, I’m checking the level of information awareness among base personnel. Now, tell me all the ways you personally know of to get to main base.}
-{139}{}{I understand.}
+{139}{}{Eu entendo.}
 {140}{}{Yes, sir. First, the vertibirds are the primary method used in reaching main base. Due to the complexity of their operation it is doubtful that subversives could commandeer a vertibird. Second, there is an operational fuel tanker in San Francisco harbor. The ship has, however, been disabled and a passkey is required to restart it. The base commander has the passkey in his possession. Third, with the proper equipment, you could conceivably swim to main base but the probability of survival is next to nil.}
-{141}{}{Thanks.}
-{142}{}{Thanks.}
+{141}{}{Obrigado.}
+{142}{}{Obrigado.}
 {143}{}{They would be located in maintenance, next to air traffic control. }
-{144}{}{Okay.}
+{144}{}{Tudo bem.}
 {145}{}{Got it.}
 {155}{}{Are you nuts, walking around here out of uniform? Get suited up!}
 {156}{}{If the sergeant catches you out of uniform he’ll hand you your ass.}

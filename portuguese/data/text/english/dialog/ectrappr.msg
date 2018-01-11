@@ -9,7 +9,7 @@
 {107}{}{Well, I reckon I might be able to sell ya my pelts. It'll save me the trouble of going into
  town.}
 {108}{}{What do you have?}
-{109}{}{Never mind.}
+{109}{}{Não importa.}
 {110}{}{Ug.}
 {111}{}{Here's what I got: }
 {112}{}{ regular gecko pelts.}
@@ -17,22 +17,22 @@
 {114}{}{I'll take all you got.}
 {115}{}{Maybe next time. Bye.}
 {116}{}{Nice doing business with ya. See you around.}
-{117}{}{Bye.}
+{117}{}{Adeus.}
 {118}{}{Seems you're short on cash. How about you give me five minutes with yer woman. I'll make it
  worth your while.}
 {119}{}{Seems you're short on cash. How bout give'n me 5 minutes with yer man. You know what I mean. I can give you pelts in trade.}
 {120}{}{Seems you're short on cash. Tell you what, I've been in these woods for a LONG time, if you
  catch my drift. I'll make it worth your while.}
-{121}{}{Sure.}
+{121}{}{Com certeza.}
 {122}{}{Not a chance. Bye.}
 {123}{}{[Miria will forgive you...eventually. But on the positive side, the trapper gave you some
  pelts.]}
 {124}{}{[Davin seems no worse for wear after the experience.]}
 {125}{}{[You feel dirty in more than one sense of the word - but you got some gecko pelts.]}
-{126}{}{Bye.}
+{126}{}{Adeus.}
 {127}{}{[He holds up his right hand and says] How. Me mighty trapper. Hunt big geckos. Me no mean
  trespass on your land. Leave peacefully. [He hands you a gecko pelt as a gift.]}
-{128}{}{[END]}
+{128}{}{[FIM]}
 {129}{}{I've got no more business with you.}
 {130}{}{Yellow bellied sapsucker!}
 {131}{}{This is my hunting territory. Leave!}

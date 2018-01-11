@@ -1,7 +1,7 @@
 {100}{}{Hibernation Chamber Control Computer. Select an option.}
 {101}{}{Subject history.}
 {102}{}{Retrieve a test subject.}
-{103}{}{[DONE]}
+{103}{}{[FEITO]}
 {104}{}{Hibernation Chambers. Three individuals were sealed within these chambers before the war, each for specific classified
  reasons. Subjects remain sealed and unaware of their surroundings. Log entries are available for each subject.}
 {105}{}{Return to Main Menu.}
@@ -30,11 +30,11 @@
 {211}{}{Subject A.}
 {212}{}{Subject B.}
 {213}{}{Subject C.}
-{214}{}{Back.}
+{214}{}{Voltar.}
 {220}{}{Log Entry #87983: It's finally happened. They've launched their nukes at us and we've launched ours at them.
  Brass won't go into detail, but it's probably already Judgment Day topside by now. Radio communications have been disrupted
  indefinitely. Good thing I've grown used to this place. I've got no illusions about ever seeing the surface again.}
-{221}{}{[MORE]}
+{221}{}{[MAIS]}
 {222}{}{They brought in a woman to be cryoed. Didn't say why; only that it was top secret business. She was quite the looker.
  Petite, Chinese-looking, and there was something about her eyes. She took down two secret service agents when she found
  out what we had in mind. Caught them off guard and opened them both up with one of Delnay's scalpels, Jesus Christ. That was
@@ -46,23 +46,23 @@
  sociopathic murderer, known to occasionally dabble in necrophilia and cannibalism. He is cold hearted to the extreme,
  showing no remorse for his victims, who ranged from innocent children to the elderly and disabled. His preferred targets
  were attractive young women, who he'd usually seduce into intercourse before brutally dispatching them.}
-{231}{}{[MORE]}
+{231}{}{[MAIS]}
 {232}{}{Despite his antisocial behavior, he remains remarkably sociable, even charming. In fact, several female
  staff members seem to be taken with him, despite knowing the numerous atrocities he's committed. Dex's confirmed
  victims is currently 68, though he has boasted the actual number is well into the triple digits.
  While Dex has proven to be a compulsive liar, I still find it difficult to doubt the validity of his claim.}
-{233}{}{[MORE]}
+{233}{}{[MAIS]}
 {234}{}{The only emotional attachment Dex seems to have is for a mid-20th century rock 'n roll idol, whom he admires
  as a role model and perhaps even as a father figure. He's also shown an unhealthy attachment to a severed human ear,
  which we have identified as belonging to Vicky Safron, Dex's high school sweet heart and one of his early victims.
  He claims to keep the ear in his pocket so Vicky can hear the screams of all his victims.}
-{235}{}{[MORE]}
+{235}{}{[MAIS]}
 {236}{}{I've decided to have Dexter frozen for the time being, as the government has re-routed funds away from our
  project in order to further fuel the war effort, and my team is being re-assigned to other locations. Let it be noted
  that I deem this a terrible mis-step, as our studies on the nature of human evil are progressing swiftly and I believe
  we are near a major breakthrough that would be far more valuable to our government than the production of more "tin suits".
  But I digress.}
-{237}{}{[MORE]}
+{237}{}{[MAIS]}
 {238}{}{Dex is to remain frozen here until the powers-that-be come to their senses and resurrect this vastly important
  project. I only hope I'm still around to resume my work when that day comes.
  -Dr. Dustin C. Delnay, 04/13/2075}
@@ -71,11 +71,11 @@
  and is one of the highest-graded energy arms and unarmed combat specialists in his unit. However, these achievements are
  marred by an equally long history of accusations of very petty theft, repeated counts of being out of uniform, and an attitude
  of extreme arrogance to superior officers.}
-{241}{}{[MORE]}
+{241}{}{[MAIS]}
 {242}{}{Sgt. Jules was recruited as a test subject for the Human Reflex Enhancement Project on 10/05/2075 in exchange for the removal of
  some of these reports from his file. Complications arose from the initial trial and Sgt. Jules was sedated for the safety
  of himself those around him.}
-{243}{}{[MORE]}
+{243}{}{[MAIS]}
 {244}{}{A few days have passed and Sgt. Jules appears to be in good health, but he has developed lengthened canines and
  certain eccentric characteristics in addition to the project goals of improved reflexes and heightened sensory capability.
  I have logged several reports with the base Commander requesting further funding, but alas it seems there are those who do not

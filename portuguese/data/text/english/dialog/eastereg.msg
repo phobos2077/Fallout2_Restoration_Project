@@ -248,7 +248,7 @@
 {2131}{}{I'll keep that in mind. Thanks.}
 {2132}{}{Right. Goodbye.}
 {2140}{}{Most excellent. Well, you take care.}
-{2141}{}{Goodbye.}
+{2141}{}{Adeus.}
 {2142}{}{See you around.}
 {2150}{}{The Source is tricky, but I can handle it.}
 {2151}{}{Enjoy the expanded visibility of this world!}

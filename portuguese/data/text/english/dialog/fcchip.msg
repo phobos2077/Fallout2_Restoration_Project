@@ -6,7 +6,7 @@
 {105}{}{Owie?}
 {106}{}{What's the matter with you?}
 {107}{}{You're in pain? Ha ha ha.}
-{108}{}{Who are you?}
+{108}{}{Quem é você?}
 {109}{}{Do you have any information for me about my people?}
 {110}{}{Oooh, my guts. I'm in pain. Please leave me alone.}
 {111}{}{Okey-dokey.}
@@ -43,15 +43,15 @@
 {142}{}{No, not yet. But I will.}
 {143}{}{No. Actually, I'm not looking.}
 {144}{}{All right. ::pant:: Before I do, maybe we ought to set up a way to get it back in me. Talk to Dr. Fung about that, all right? Thanks.}
-{145}{}{All right.}
-{146}{}{No.}
+{145}{}{Tudo certo.}
+{146}{}{Não.}
 {147}{}{I really appreciate what you're doing for me. I won't forget it.}
 {148}{}{No prob.}
 {149}{}{Dude, I can't really get places without a lot of effort. If you can't help me, I'm screwed.}
 {150}{}{Fine. I'll go talk to Fung.}
 {151}{}{Fine. I don't give a crap about you anyway.}
 {152}{}{If you could do something about it... kill him, or talk some sense into him, or something... I'll die without it.}
-{153}{}{I'll see what I can do.}
+{153}{}{Eu vou ver o que posso fazer.}
 {154}{}{Sorry, man... I think you're screwed. I can't help.}
 {155}{}{With no spleen, I'm going to die. Thanks for your help anyway.}
 {156}{}{I found it. Go over to Dr. Wong's place.}
@@ -65,7 +65,7 @@
 {164}{}{You got it.}
 {165}{}{Can you cover me?}
 {166}{}{Yeah, I suppose.}
-{167}{}{No.}
+{167}{}{Não.}
 {168}{}{I really appreciate this. Come back in a day and I'll see what help I can give you.}
 {169}{}{You better.}
 {170}{}{I can't afford to do this on my own. I guess I'm going to die.}
@@ -78,16 +78,16 @@
 {177}{}{Nothing right now, thanks. Bye.}
 {178}{}{Check with the Captain. He lives in the captain's office upstairs.}
 {179}{}{Thanks. More questions...}
-{180}{}{Thanks. Bye.}
+{180}{}{Obrigado. Tchau.}
 {181}{}{Word has it they got taken west, across the water. Your best bet in getting there is getting this tub running.}
 {182}{}{Thanks. More questions...}
-{183}{}{Thanks. Bye.}
+{183}{}{Obrigado. Tchau.}
 {184}{}{Computer work? If you can't get it from the Shi or the Hubologists, you'll want to talk to Badger. He's a whiz.}
 {185}{}{Thanks. More questions...}
-{186}{}{Thanks. Bye.}
+{186}{}{Obrigado. Tchau.}
 {187}{}{Shit. Talk to the Hubologists or the Shi. With Badger dead, I have no idea.}
 {188}{}{Thanks. More questions...}
-{189}{}{Thanks. Bye.}
+{189}{}{Obrigado. Tchau.}
 {190}{}{Scumbag.}
 {191}{}{You're going to need some painkillers.}
 {192}{}{Dirtball. I'm going to work you over.}

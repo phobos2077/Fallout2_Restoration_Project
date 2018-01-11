@@ -1,16 +1,14 @@
-{100}{}{You see a waterpump.}
-{101}{}{You see a really old waterpump that appears to be broken.}
-{102}{}{The waterpump is working fine now.}
-{103}{}{You are going to need more than just your hands to fix this machine. Perhaps some tools would help with installing
- this part.}
-{104}{}{You repaired the waterpump.}
-{105}{}{You failed to repair the pump.}
-{106}{}{You find out what is wrong with the water pump.}
-{200}{}{You open the machine and look inside. You see a lot of rusty gears and motors. One of the motors
- has a crack in it.}
-{201}{}{Call it a day.}
-{202}{}{Investigate more.}
-{203}{}{Upon closer inspection you see that the crack is not the cause of the trouble, but rather
- the connection for where the wires go. The connectors seem to have burned out over the years of use. It's going to
- take a whole new motor as well as a new set of wires to get this machine working again.}
-{204}{}{Exit.}
+{100}{}{Você vê uma bomba de água.}
+{101}{}{Você vê uma bomba de água realmente velha que parece estar quebrada.}
+{102}{}{A bomba de água está funcionando bem agora.}
+{103}{}{Você vai precisar mais do que apenas suas mãos para corrigir esta máquina. Talvez algumas ferramentas de ajuda com a instalação desta peça.}
+{104}{}{Você reparou a bomba de água.}
+{105}{}{Você não conseguiu reparar a bomba.}
+{106}{}{Você descobre o que há de errado com a bomba de água.}
+{200}{}{Você abre a máquina e olhar para dentro. Você vê um monte de enferrujadas engrenagens e motores. Um dos motores está quebrado.}
+{201}{}{Liga-o por um dia.}
+{202}{}{Investigar mais.}
+{203}{}{Após uma inspeção mais próxima, você vê que a rachadura não é a causa do problema, mas sim
+  A conexão para onde os fios vão. Os conectores parecem queimados ao longo dos anos de uso. Está precisando de
+um motor totalmente novo, bem como um novo conjunto de fios para que esta máquina funcione novamente.}
+{204}{}{Sair.}

@@ -10,7 +10,7 @@
  name.}
 {108}{}{I'm just a normal person who is quite impressed with your special nature. Can you tell me your
  name?}
-{109}{}{Never mind.}
+{109}{}{Não importa.}
 {110}{}{(Giggles) You look funny! Meow... I'm Sandy. I'm not really a cat. I just like to play like I
  am.}
 {111}{}{(Screams) Mommy! Mommy! Mommy!}
@@ -33,14 +33,14 @@
  it's fair that she can do anything she wants but I've gotta do what she says all the time.}
 {127}{}{Ok.}
 {128}{}{Me got leave now.}
-{129}{}{I see.}
+{129}{}{Eu vejo.}
 {130}{}{I think I've heard enough for now. Bye.}
 {131}{}{I guess. I miss not having other kids to play with but Mom says that will change some day. She
  thinks other kids will come to live here. Until they do I like to play with Valdis. He's funny and he
  gives me piggy back rides. Mom says I should leave Valdis alone. He's busy and doesn't have time to
  play but he always plays with me when I ask him. I just don't tell Mom about it anymore.}
 {132}{}{Piggy... (confused puppy look)}
-{133}{}{Me go.}
+{133}{}{Eu vou.}
 {134}{}{That's nice.}
 {135}{}{Ok, see ya.}
 {136}{}{Yeah. Mommy takes care of me and Valdis wouldn't let anyone hurt me. I'm safe here.}

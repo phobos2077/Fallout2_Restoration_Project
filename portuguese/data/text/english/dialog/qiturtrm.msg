@@ -19,7 +19,7 @@
 {118}{}{Enter User ID:}
 {119}{}{(Let me try this) List users.}
 {120}{}{(I wonder if this'll work?) Smith, J.}
-{121}{}{Back.}
+{121}{}{Voltar.}
 {123}{}{I think I better do this somewhere else.}
 {124}{}{Listing (the terminal displays a list of about 500 names)}
 {125}{}{Listing (the computer displays a list of names)}
@@ -122,7 +122,7 @@
 {223}{}{Return to User ID:}
 {224}{}{This terminal currently running deep diagnostic. Please try another terminal. Thank-you.}
 {225}{}{Welcome to PoseidoNet Help system. We regret that your Help files are currently out of date, and unavailable. Seek Help file update? (Y/N)}
-{226}{}{Yes.}
+{226}{}{Sim.}
 {227}{}{No, Back.}
 {228}{}{User Help file update not available with trial PoseidoNet software. Please purchase full version for full access to all further updates. Your trial period for PoseidoNet access is 59, 439 days overdue.}
 {229}{}{Back to Log On.}

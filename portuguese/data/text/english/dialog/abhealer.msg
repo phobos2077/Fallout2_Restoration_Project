@@ -1,42 +1,42 @@
-{100}{}{You see Jack, the Abbey's medic.}
-{101}{}{He has a red cross on his shoulder.}
-{200}{}{If you are injured, talk to me.}
-{300}{}{How can I help you?}
-{301}{}{I'm injured, can you help me?}
-{302}{}{[Drool.]}
-{303}{}{So, what do you do here at the Abbey?}
-{304}{}{Bye.}
-{400}{}{It is done!}
-{401}{}{Thanks.}
-{402}{}{Stop that!}
-{403}{}{[GO ON]}
-{404}{}{[LEAVE]}
-{405}{}{STOP IT! STOP IT! STOP IT!}
-{406}{}{[GO ON]}
-{407}{}{[STOP]}
-{408}{}{(Suddenly, Jack starts to melt.) I'M MELTING, I'M MELTING, OH WHAT A WORLD...}
-{409}{}{What the fu...}
-{500}{}{Hey, don't steal my medical supplies!}
-{501}{}{You gain 200 experience points for making Jack melt. Are you happy now, you sick fuck?}
-{600}{}{I'm a doctor. I've been tending to the people of this Abbey for about, oh, fifteen years now, I believe.}
-{601}{}{I see. That's a lot of years to study all the pre-war medical books in the Abbey's library. You must be quite the doctor.}
-{602}{}{Where did you get all your medical equipment?}
-{603}{}{Interesting. I think I will be leaving now.}
-{604}{}{[He frowns.] I fancy myself a fine doctor, but I can't credit the books for that since I'm not even allowed to...never mind, I won't get into that. My father was a doctor, and he passed his knowledge down to me.}
-{605}{}{Ah, I see.}
-{700}{}{Some of these meds I received from my father. Most of the rest were already here at the Abbey.}
-{701}{}{Interesting, bye.}
-{702}{}{Do you think you could give me some of your meds? You seem to have plenty to spare.}
-{703}{}{You want me to just *give* them to you? What makes you think you deserve them more than the people of the Abbey?}
-{704}{}{Because I tend to get hurt...a lot.}
-{705}{}{Because I'm on a holy quest to find a Garden Of Eden Creation Kit. You see, my entire village will perish if
- I don't find this device in time. Your people, on the other hand, seem to live a peaceful life without much need for so
- much healing equipment. I'm not asking for a lot, even the smallest amount you could give me would help me greatly.}
-{706}{}{[He ponders over your words for a moment, then nods.] Alright, I'll give you some of our excess medical supplies.
- It sounds like you're gonna need 'em. Here. [He hands them to you.] Good luck, wanderer.}
-{707}{}{Thanks, Jack. You're a true savior of the wastes. Bye.}
-{708}{}{Then perhaps you should learn to be more careful. Sorry, I'm not going to just give away the Abbey's medical supplies.}
-{709}{}{Fine. GOODBYE.}
-{800}{}{I can't talk right now.}
-{801}{}{Sorry, I'm in the middle of something now. Come see me later.}
-{802}{}{Hello again.}
+{100}{}{Você vê Jack, o médico da Abadia.}
+{101}{}{Ele tem uma cruz vermelha no ombro.}
+{200}{}{Se você está ferido, fale comigo.}
+{300}{}{Como posso ajudá-lo?}
+{301}{}{Eu estou ferido, você pode me ajudar?}
+{302}{}{[Baba.]}
+{303}{}{Então, o que você faz aqui na Abadia?}
+{304}{}{Adeus.}
+{400}{}{Está feito!}
+{401}{}{Obrigado.}
+{402}{}{Pare com isso!}
+{403}{}{[CONTINUAR]}
+{404}{}{[DEIXAR]}
+{405}{}{PARE COM ISSO! PARE COM ISSO! PARE COM ISSO!}
+{406}{}{[CONTINUAR]}
+{407}{}{[PARE]
+}
+{408}{}{(De repente, Jack começa a derreter.) EU ESTOU DERRETENDO, EU ESTOU DERRETENDO, OH QUE MUNDO...}
+{409}{}{O que o fu...}
+{500}{}{Ei, não roube meu suprimentos médicos!}
+{501}{}{Você ganha 200 pontos de experiência por fazer o derretimento de Jack. Você está feliz agora, você é doente?}
+{600}{}{Eu sou um médico. Eu tenho estado cuidando das pessoas desta Abadia por aproximadamente, oh, quinze anos agora, eu acredito.}
+{601}{}{Entendo. São muitos anos para estudar todos os livros médicos pré-guerra na biblioteca da Abadia. Você deve ser o médico.}
+{602}{}{De onde você tirou todos os seus equipamentos médicos?}
+{603}{}{Interessante. Acho que vou sair agora.}
+{604}{}{[Ele franziu a testa.] Eu me considero um bom médico, mas não posso acreditar nos livros porque não tenho permissão para ... não importa, não vou entrar nisso. Meu pai era um médico, e ele passou seu conhecimento para mim.}
+{605}{}{Ah, eu vejo.}
+{700}{}{Alguns desses medicamentos recebi de meu pai. A maioria do resto já estavam aqui na Abadia.}
+{701}{}{Interessante, tchau.}
+{702}{}{Você acha que poderia me dar alguns dos seus medicamentos? Você parece ter muito de sobra.}
+{703}{}{Você quer que eu apenas os *dê*? O que faz você pensar que você merece mais do que as pessoas da Abadia?}
+{704}{}{Porque eu costumo me machucar ... muito.}
+{705}{}{Porque estou numa missão sagrada para encontrar um Kit de Criação do Jardim do Éden. Você vê, toda a minha aldeia perecerá se
+  Não encontro esse dispositivo a tempo. Seu povo, por outro lado, parece viver uma vida pacífica sem muita necessidade de
+  muito equipamento de cura. Não estou pedindo muito, mesmo a menor quantidade que você poderia me dar me ajudaria muito.}
+{706}{}{[Ele vê através de suas palavras por um momento, então concorda com a cabeça.] Tudo bem, eu vou dar-lhe alguns de nossos excessos de suprimentos médicos. Parece que você vai precisar. Aqui. [Ele entrega-los para você.] Boa sorte, vagabundo.}
+{707}{}{Obrigado, Jack. Você é um verdadeiro salvador dos resíduos. Tchau.}
+{708}{}{Então talvez você devesse aprender a ser mais cuidadoso. Desculpe, não vou apenas dar os suprimentos médicos da Abadia.}
+{709}{}{Bem. ADEUS.}
+{800}{}{Eu não posso falar agora.}
+{801}{}{Desculpe, eu estou no meio de algo agora. Venha me ver mais tarde.}
+{802}{}{Olá novamente.}

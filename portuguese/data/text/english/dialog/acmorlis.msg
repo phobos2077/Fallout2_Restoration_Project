@@ -1,55 +1,53 @@
-{100}{}{You see Morlis, one of your aunts -- the one who never liked you.}
-{101}{}{Why do you bother me, nephew? Can't you see I'm busy?}
-{102}{}{Umm, okay. Sorry.}
-{103}{}{What is it? You know I have a lot to do!}
-{104}{}{Ummm, Mynoc said...}
-{105}{}{Mynoc said what? Out with it, child!}
-{106}{}{That, umm, you might have some flint.}
-{107}{}{I do. You want some, is that it?}
-{108}{}{Well, yeah.}
-{109}{}{Well... I want three doses of healing powder. Bad times are coming
- and I'm going to be ready. Bring them to me and you can have the flint. Now
- get to it!}
-{110}{}{Yes, ma'am!}
-{111}{}{Now don't waste my time. Do you have the powders?}
-{112}{}{Yes, here they are.}
-{113}{}{Umm, I guess not.}
-{114}{}{Here is the flint. Now off with you! I don't have time to gossip.}
-{115}{}{Thank you, Aunt Morlis.}
-{116}{}{Again you waste my time, worthless nephew! How did you ever become
- the Chosen One?}
-{117}{}{Yes, Aunt Morlis.}
-{118}{}{Uh, Aunt Morlis, I have three right here.}
-{150}{}{Aunt Morlis, I'm on a perilous quest for the salvation of our village.
- My chances of success will be greatly enhanced if I keep the healing powders
- for myself and you give me the flint. Don't you agree?}
-{151}{}{What do you think you are doing, child? This is no way for the Chosen One to act. Now get out of my sight!}
-{152}{}{If this flint is so important that you are willing to disgrace the name of the Chosen One, then here. Take
- the flint and get out of my sight.}
-{153}{}{Yes, Aunt Morlis.}
-{154}{}{Well... Oh, very well. Here is the flint. I wish you a safe journey, child. }
-{155}{}{No, I don't. Now stop wasting my time and get out of here!}
-{156}{}{Yes, Aunt Morlis.}
-{200}{}{So you've returned. Did you find the holy Thirteen?}
-{201}{}{No, Aunt Morlis, I...}
-{202}{}{Then get yourself out of here and find it! People are depending on you!}
-{203}{}{Yes, Aunt Morlis.}
-{204}{}{Well, here you are again. Have you once again failed to complete your quest?}
-{205}{}{Yes, Aunt Morlis, but...}
-{206}{}{Then get yourself out of here and don't come back until you do! Why waste time coming back here, when you could be using that time to continue your search!?}
-{207}{}{Yes, Aunt Morlis.}
-{208}{}{The fact that you are standing here must mean that you have completed your quest. You wouldn't waste precious time returning here empty-handed, would you?}
-{209}{}{Yes, Aunt Morlis. I mean no, Aunt Morlis. Uh, I've got to go, Aunt Morlis.}
-{210}{}{So, child. Once again you stand before me. Are you empty-handed yet again?}
-{211}{}{Yes, Aunt Morlis.}
-{212}{}{Listen, }
-{213}{}{. People are dying, cattle are dying, and crops are failing. Everyone is either hungry, sick, or both. Our time draws near. If you do not find the GECK soon, we are doomed. Do you understand me?}
-{214}{}{Yes, Aunt Morlis.}
-{215}{}{Then get yourself out of here and find the GECK! People are depending on you!}
-{216}{}{Yes, Aunt Morlis.}
-{300}{}{Well, I seem to have misplaced the flint. Oh well, at least I got my powders. Now off with you! I don't have time to gossip.}
-{301}{}{Why do you bother me, niece? Can't you see I'm busy?}
-{302}{}{Well, I can't seem to find the flint. I'm sure you took it from me when I wasn't looking though. I caught you before. Now off with you! I don't have time to gossip.}
-{303}{}{Well... Oh, I'm sorry but I seem to have misplaced the flint. I wish you a safe journey though, child. }
-{304}{}{I already gave you the flint, stupid. Now stop wasting my time and get out of here!}
-{305}{}{I already gave you the flint, stupid. Oh well, at least I got my powders. Now off with you! I don't have time to gossip.}
+{100}{}{Você vê Morlis, uma de suas tias, que nunca gostou de você.}
+{101}{}{Por que você me incomoda, sobrinho? Você não pode ver que eu estou ocupada?}
+{102}{}{Umm, tudo bem. Desculpe.}
+{103}{}{O que é? Você sabe que eu tenho muito a fazer!}
+{104}{}{Ummm, Mynoc disse...}
+{105}{}{Mynoc disse o que? Com isso, criança!}
+{106}{}{Isso, umm, você pode ter algum sílex.}
+{107}{}{Eu faço. Você quer alguns, é isso?}
+{108}{}{Bem, sim.}
+{109}{}{Bem ... Quero três doses de pó curativo. Os tempos ruins estão chegando
+  e eu vou estar pronta. Traga-os para mim e você pode ter o pederneira. Agora
+  vá pegar!}
+{110}{}{Sim, senhora!}
+{111}{}{Agora, não desperdice meu tempo. Você tem o pó?}
+{112}{}{Sim, eles estão aqui.}
+{113}{}{Umm, eu acho que não.}
+{114}{}{Aqui está a pedra. Agora fora com você! Eu não tenho tempo para fofocas.}
+{115}{}{Obrigado, Tia Morlis.}
+{116}{}{Novamente você perder meu tempo, inútil sobrinho! Como você conseguiu se tornar
+o Escolhido?}
+{117}{}{Sim, Tia Morlis.}
+{118}{}{Uh, Tia Morlis, eu tenho três aqui.}
+{150}{}{Tia Morlis, eu estou em uma jornada perigosa para a salvação da nossa aldeia. As minhas chances de sucesso serão muito melhor se eu manter a cura em pó para mim e se você me der o sílex. Não concorda?}
+{151}{}{O que você acha que você está fazendo, filho? Isto não é maneira do Escolhido agir. Agora saia da minha vista!}
+{152}{}{Se este sílex é tão importante que você está disposto a desgraçar o nome do Escolhido, então aqui. Leve
+  o sílex e sai da minha vista.}
+{153}{}{Sim, Tia Morlis.}
+{154}{}{Bem... Oh, muito bem. Aqui está a pedra. Desejo-lhe uma viagem segura, criança. }
+{155}{}{Não, eu não. Agora, pare de desperdiçar o meu tempo e saia daqui!}
+{156}{}{Sim, Tia Morlis.}
+{200}{}{Então, você já voltou. Você encontrou o santo Treze?}
+{201}{}{Não, Tia Morlis, Eu...}
+{202}{}{Então retire-se daqui e ache-o! As pessoas dependem de você!}
+{203}{}{Sim, Tia Morlis.}
+{204}{}{Bem, aqui está novamente. Você já não conseguiu completar sua missão?}
+{205}{}{Sim, Tia Morlis, mas...}
+{206}{}{Então saia daqui e não volte até você fazer! Por que perder o tempo de voltar aqui, quando você poderia estar usando esse tempo para continuar sua busca?}
+{207}{}{Sim, Tia Morlis.}
+{208}{}{O fato de estar aqui parado deve significar que você completou sua missão. Você não desperdiçaria um tempo precioso retornando aqui com as mãos vazias, você fez?}
+{209}{}{Sim, Tia Morlis. Quero dizer, não, Tia Morlis. Uh, eu tenho que ir, Tia Morlis.}
+{210}{}{Então, criança. Mais uma vez você está diante de mim. Você está de mãos vazias novamente?}
+{211}{}{Sim, Tia Morlis.}
+{212}{}{Ouvir, }
+{213}{}{. As pessoas estão morrendo, o gado está morrendo, e as culturas estão falhando. Todo mundo está com fome, doente, ou ambos. Nosso tempo está próximo. Se você não encontrar o GECK logo, estamos condenados. Você me entende?}
+{214}{}{Sim, Tia Morlis.}
+{215}{}{Então retire-se daqui e encontre o GECK! As pessoas dependem de você!}
+{216}{}{Sim, Tia Morlis.}
+{300}{}{Bem, eu pareço ter perdido a pederneira. Oh, bem, pelo menos eu tenho meus pós. Agora com você! Não tenho tempo para fofocar.}
+{301}{}{Por que você me incomoda, sobrinha? Você não vê que estou ocupada?}
+{302}{}{Bem, não consigo achar o pederneira. Tenho certeza de que você tirou isso de mim quando eu não estava olhando. Eu peguei você antes. Agora com você! Não tenho tempo para fofocar.}
+{303}{}{Bem ... Oh, desculpe, mas parece ter perdido o pederneira. Desejo-lhe uma viagem segura, criança.}
+{304}{}{Eu já lhe dei a pederneira, estúpido. Agora pare de desperdiçar meu tempo e saia daqui!}
+{305}{}{Eu já lhe dei a pederneira, estúpido. Oh, bem, pelo menos eu tenho meus pós. Agora com você! Não tenho tempo para fofocar.}

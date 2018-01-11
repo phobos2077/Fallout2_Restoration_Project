@@ -6,14 +6,14 @@
 {104}{}{Me need ask you something.}
 {105}{}{Nothing.}
 {106}{}{Hi. I need to ask you something.}
-{107}{}{Never mind.}
+{107}{}{Não importa.}
 {108}{}{All right, but make it quick. I have inventory to do.}
 {109}{}{What do you need to know?}
 {110}{}{What this place?}
 {111}{}{Me look for vertibird plans. Where find?}
 {112}{}{Me told by tech me find vertibird plans here.}
 {113}{}{Me go now.}
-{114}{}{What is this place?}
+{114}{}{O que é este lugar?}
 {115}{}{I'm looking for vertibird plans. Do you know where I can find them?}
 {116}{}{I was told by a tech that I could find the vertibird plans here.}
 {117}{}{Well, got to go.}
@@ -38,7 +38,7 @@
  paperwork.}
 {133}{}{Look, Einstein, I can't give you the plans without authorization, okay?
  So, go back to whoever sent you here and get the proper paperwork.}
-{134}{}{Okay, me go.}
+{134}{}{Ok, eu vou.}
 {135}{}{No, me shoot you first, find plans second, then... what come after two?}
 {136}{}{Hey, you got it.}
 {137}{}{No, I think I'll shoot you instead and look around for the plans while
@@ -53,13 +53,13 @@
  plans! And now he doesn't even have the brass bouncing balls to come to me
  and ask for them? Fine, they're in the locker over there. Oh and, when you
  deliver them, tell that asshole I want to see him.}
-{144}{}{Thanks.}
+{144}{}{Obrigado.}
 {145}{}{So you're back. Did you get the authorization?}
 {146}{}{You again? What is it now?}
 {147}{}{Yeah, me got plasma rifle. That good enough me!}
-{148}{}{No, not yet.}
+{148}{}{Não, ainda não.}
 {149}{}{Yeah, I've got a big fucking gun. That's good enough for me!}
-{150}{}{No, not yet.}
+{150}{}{Não, ainda não.}
 {151}{}{Me ask you something.}
 {152}{}{Me just say 'Hi'.}
 {153}{}{I need to ask you something.}

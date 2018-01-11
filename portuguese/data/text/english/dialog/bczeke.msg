@@ -4,7 +4,7 @@
 {103}{}{My name's Zeke, stranger. I'm sorry, but I don't have time to talk to you -- and I don't think
  there's anything in this town for you, anyway. You should move on.}
 {104}{}{Uh, okay.}
-{105}{}{Me got questions.}
+{105}{}{Eu tenho perguntas.}
 {106}{}{All right, I'll leave.}
 {107}{}{I just wanted to ask a couple of questions.}
 {108}{}{Well, I think you'll find that we're all out of answers here. Why don't you come back when we
@@ -15,11 +15,11 @@
 {111}{}{Done.}
 {112}{}{Rebecca has told me what you did for her. I want to apologize for the treatment you received
  here. You certainly didn't deserve it. What can I help you with?}
-{113}{}{Me got questions.}
+{113}{}{Eu tenho perguntas.}
 {114}{}{Nothing. Wavy.}
 {115}{}{I've got some questions for you.}
 {116}{}{Nothing for now, thanks.}
-{117}{}{What do you want to know?}
+{117}{}{O que você quer saber?}
 {118}{}{You work for Darion?}
 {119}{}{What you do about raiders?}
 {120}{}{Where vault door?}
@@ -32,8 +32,8 @@
 {127}{}{I guess that's it. I'll be going now.}
 {128}{}{Yes, I do. I act as the middle man between him and the people up here. I'm not very happy about
  the fact, now that I know what he's up to.}
-{129}{}{Okay.}
-{130}{}{I see.}
+{129}{}{Tudo bem.}
+{130}{}{Eu vejo.}
 {131}{}{Nothing. They have the guns, they control the water, and they control the food. That means
  they are in charge. Period. We have no skills and no means of support without the backing of Darion.
  How can we turn against him? We're at his mercy.}
@@ -66,7 +66,7 @@
 {150}{}{Well, take the time to think about it, but know this -- until Darion is out of the picture, I
  have no choice but to maintain things around here as they are. It's for the safety of everyone
  concerned. That means no deal and you are still persona non grata. Understand?}
-{151}{}{Okay.}
+{151}{}{Tudo bem.}
 {152}{}{Hi. I'm still waiting for a final resolution to our troubles. In other words, kick Darion's ass!}
 {153}{}{Done.}
 {154}{}{You've done it, friend! We're no longer under Darion's yoke. Thank you! I'm ready to accept your deal with NCR now.
@@ -77,7 +77,7 @@
 {158}{}{Wait, before you go... I found this key card some time ago, and I have no idea what it’s for.
  Rebecca says that you found some sort of entrance where they were holding Chrissy. Maybe this card will
  open it. Here, take it.}
-{159}{}{Thanks.}
+{159}{}{Obrigado.}
 {160}{}{What can I help you with?}
 {161}{}{Just the problems with the NCR, but I think the deal you offered will solve that.}
 {162}{}{You've done it, friend! We're no longer under Darion's yoke. Thank you!}

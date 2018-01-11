@@ -1,4 +1,4 @@
-{200}{}{Bridge}
+{200}{}{Ponte}
 {201}{}{Village}
 {202}{}{Temple Entrance}
 {203}{}{Wilderness}
@@ -144,7 +144,7 @@
 {521}{}{Big Head}
 {530}{}{Crash Site}
 {540}{}{Desert}
-{550}{}{Bridge}
+{550}{}{Ponte}
 {560}{}{Cafe of Broken Dreams}
 {570}{}{Desert}
 {580}{}{Cavern}

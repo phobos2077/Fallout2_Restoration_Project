@@ -1,5 +1,5 @@
 {100}{}{You see a well-traveled person.}
-{101}{}{You see a merchant.}
+{101}{}{Você vê um comerciante.}
 {102}{}{Wow, I rarely see people out here.}
 {103}{}{Hey! Wait! I have things that could help you along!}
 {104}{}{Hey! Do you have anything to trade for these?}
@@ -12,7 +12,7 @@
 {250}{}{That'd be good.}
 {251}{}{Sorry, have to keep on moving.}
 {252}{}{Yah. Me got stuff!}
-{253}{}{Me go.}
+{253}{}{Eu vou.}
 {260}{}{Good trading with you. Good luck in your travels.}
-{261}{}{Bye.}
+{261}{}{Adeus.}
 {270}{}{Glad to have you back. Can I interest you in something else?}

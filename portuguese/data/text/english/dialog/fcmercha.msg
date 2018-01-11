@@ -1,5 +1,5 @@
-{100}{}{You see a merchant.}
-{101}{}{You see a merchant.}
+{100}{}{Você vê um comerciante.}
+{101}{}{Você vê um comerciante.}
 {102}{}{You see an animated Shi merchant. Like all the others, he seems to be full of wind.}
 {103}{}{Come buy octopus! Very tasty!}
 {104}{}{You like fish? We got fish!}

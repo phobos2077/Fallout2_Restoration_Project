@@ -1,8 +1,8 @@
-{100}{}{You see a small child.}
-{101}{}{The child appears to be happy.}
+{100}{}{Você vê uma criança pequena.}
+{101}{}{A criança parece estar feliz.}
 {200}{}{Whee!}
-{201}{}{This place is nice.}
-{202}{}{Have you seen my invisible friend?}
-{203}{}{You smell!}
-{204}{}{Hi!}
-{500}{}{Mommy!}
+{201}{}{Este lugar é agradável.}
+{202}{}{Você viu meu amigo invisível?}
+{203}{}{Você cheira!}
+{204}{}{Olá!}
+{500}{}{Mamãe!}

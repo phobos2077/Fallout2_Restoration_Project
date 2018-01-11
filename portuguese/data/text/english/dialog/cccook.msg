@@ -37,7 +37,7 @@
 {137}{}{Raul, the vertibird mechanic, doesn't like Quincy, the head of maintenance. Those two are always
  getting into it. I don't think it's a case of professional rivalry either. Anyway, Raul's an arrogant
  ass but Quincy's an okay kind of guy. I hope he wins in the end.}
-{138}{}{Okay.}
+{138}{}{Tudo bem.}
 {139}{}{Yeah, I hear you.}
 {140}{}{Med lab's been taken over by an Enclave egghead named Schreber. Mean son of a bitch; don't care
  for nothing or nobody. He's been doing some sort of experiments on deathclaws down there, don't know
@@ -47,11 +47,11 @@
 {143}{}{Ha! We're talking romance, my friend. It seems one of the computer geeks has fallen for one of the grunts, the guard outside med lab. Even has one of those cutesy names for her. Calls her "Snookie" of all things.}
 {144}{}{Cute.}
 {145}{}{Nah, that's it around this place. If I hear anything more I'll let ya know. I like talking about it just as much as I like hearing it!}
-{146}{}{Thanks.}
+{146}{}{Obrigado.}
 {147}{}{Why ya interested in those? Oh well, no matter. Quincy keeps them over in maintenance I think. }
-{148}{}{Okay.}
+{148}{}{Tudo bem.}
 {149}{}{Where that?}
-{150}{}{I see.}
+{150}{}{Eu vejo.}
 {151}{}{Where's that?}
 {152}{}{Northeast corner of the base, friend. Can't miss it.}
 {153}{}{Okay. Thanks.}
@@ -66,7 +66,7 @@
 {161}{}{That's a good idea.}
 {162}{}{So where's the commander's office?}
 {163}{}{Take the elevator in the next room down, follow the hallway to the main junction, and go straight. }
-{164}{}{Thanks.}
+{164}{}{Obrigado.}
 {165}{}{Hey, soldier. Good to hear from you again. Grub or talk this time?}
 {166}{}{Food.}
 {167}{}{Chitchat.}
@@ -79,13 +79,13 @@
 {173}{}{Little lady, I can tell from the smell that you're not wearin' one of them powered armor suits.
  If the Sarge sees you out of uniform you're screwed. And I ain't talking the type of screwing that feels good. Now get your ass down to supply and suit up.}
 {174}{}{Where that?}
-{175}{}{Okay.}
+{175}{}{Tudo bem.}
 {176}{}{Where's that?}
 {177}{}{I'll take care of it.}
 {178}{}{Take the elevator in the next room down, follow the hall to the main junction, turn left, and it's the first door on your left. Off you go.}
-{179}{}{Thanks.}
+{179}{}{Obrigado.}
 {180}{}{Holy shit! I'm just a cook... and a blind one at that. I didn't see any intruders come through here.}
-{181}{}{Thanks.}
+{181}{}{Obrigado.}
 {182}{}{Damned alarms. Always such a ruckus when they go off.}
 {183}{}{What the hell is that damn thing going on about this time?}
 {184}{}{I wish to hell we'd use silent alarms, damn thing gives me a headache.}

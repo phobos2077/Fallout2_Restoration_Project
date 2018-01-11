@@ -31,4 +31,4 @@
 {509}{}{Damn, that's too bad. Well, go ahead then. I'll be here if you need something.}
 {510}{}{The flu? Yeah, right. Looks like we got an intruder on our hands.}
 {600}{}{I warned you, asshole!}
-{800}{}{[DONE]}
+{800}{}{[FEITO]}

@@ -3,7 +3,7 @@
 {151}{}{You see a robust older woman, with a cheerful smile on her face.}
 {200}{}{Hello there, I'm Mom. I haven't seen you around here before.}
 {201}{}{Hello again. What can Mom do for you?}
-{202}{}{Me }
+{202}{}{Eu}
 {203}{}{Mmmm. Ook? Bye bye Mommy.}
 {220}{}{You already half-ate me out of house and home. Why dontcha find someplace else to hang out for a while? You've eaten here enough today.}
 {221}{}{Well }
@@ -111,12 +111,12 @@
  a little gold locket he kept for himself.}
 {561}{}{Do you remember his name?}
 {562}{}{Locket? Strange. Who was it?}
-{563}{}{Let me ask you something else.}
-{564}{}{Thanks, bye.}
+{563}{}{Deixe-me perguntar-lhe algo mais.}
+{564}{}{Obrigado, tchau.}
 {580}{}{Not sure. Think it was Joseph, Joel or something like that. He's almost 19
  now.... A shame, really. I believe he's joined up with some local thugs.}
 {581}{}{Thanks. I have another question for you.}
-{582}{}{Thanks, bye.}
+{582}{}{Obrigado, tchau.}
 {600}{}{What do you know about that haunted house?}
 {800}{}{I noticed there seems to be a lot of orphans around town.}
 {801}{}{It's a shame, isn't it? Those poor children living on the streets like that… A lot of them steal to get by -- from

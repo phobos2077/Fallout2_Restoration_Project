@@ -1,79 +1,74 @@
-{100}{}{You see the Elder of your village.}
-{101}{}{It is the Elder.}
-{102}{}{The Elder is just that - old, older than you can remember. Still, she has the
- strength and fire to lead the village through these hard times.}
-{103}{aeld1}{Congratulations, Chosen One, you have survived the Temple of Trials. Are
- you ready for your quest?}
-{104}{}{What were you doing - trying to get me killed in the temple?}
-{105}{}{Of course.}
-{106}{}{I'd like to think about it some more.}
-{107}{aeld2a}{I am proud of you, Chosen. You have overcome much. Now. You must go find Vault
- 13. Vault 13. Bring the GECK home. GECK. Here is a shiny bottle. Vic gave us this. Vic.
- He is a trader in Klamath. Klamath. Go to Vic. Find Vault 13. Find GECK. Come home. Do
- your best, child.}
-{112}{aeld2b}{You not find vault. Find vault! Vault 13.}
+{100}{}{Você vê o Ancião de sua aldeia.}
+{101}{}{Ele é o Ancião.}
+{102}{}{O Ancião é apenas isso - velho, mais velho do que você pode lembrar. Ainda assim, ela tem a
+  força e fogo para liderar a aldeia através desses tempos difíceis.}
+{103}{aeld1}{Parabéns, Escolhido, você sobreviveu ao Templo dos julgamentos. 
+  Você está pronto para sua missão?}
+{104}{}{O que você estava fazendo - tentando me matar no templo?}
+{105}{}{Claro.}
+{106}{}{Eu gostaria de pensar sobre isso um pouco mais.}
+{107}{aeld2a}{Estou orgulhosa de você, escolhido. Você superou muito. Agora. Você deve procurar o Vault
+  13. Vault 13. Traga o GECK para casa. GECK. Aqui está uma garrafa brilhante. Vic nos deu isso. Vic.
+  Ele é um comerciante em Klamath. Klamath. Vá para Vic. Encontre o Vault 13. Encontre o GECK. Venha para casa. Faz
+  seu melhor filho}
+{112}{aeld2b}{Você não encontra vault. Encontre vault! Vault 13.}
 {113}{}{Uh.}
-{114}{aeld3}{Chosen One, do you wish us all dead? You must find the Vault!}
-{115}{}{I'm sorry, Elder. I will not fail.}
-{116}{}{Yeah, yeah. Stop yelling.}
-{117}{aeld4}{Chosen One, why are you here?}
-{118}{}{I know where Vault 13 is!}
-{119}{}{I am ready for the holy quest.}
-{120}{}{I need some more info.}
-{121}{}{I'm not going to get myself killed!}
-{122}{}{What was I supposed to do again?}
-{123}{}{I'm going now.}
-{124}{aeld5}{That is good news, but not enough to save us. You must come back soon with the
- GECK or our people will die!}
-{125}{}{I need some more info.}
-{126}{}{Fine, I'm going now.}
-{127}{aeld6}{You survived. The Chosen One cannot be weak or we are all doomed. Are you
- prepared for your quest?}
-{128}{}{I've passed the test. Of course, I'm ready.}
-{129}{}{I need to think about this.}
-{130}{}{I'm not going to get myself killed!}
-{131}{aeld7}{Pay attention. Find the holy Vault 13 and bring back the GECK. Vic, the trader
- from Klamath, brought us the flask from the holy Thirteen. Start your search with him.
- The disk will remind you of your task. May the gods of the Vault watch over you.}
-{133}{}{Before I go, I have some questions.}
-{134}{}{Goodbye. I will not fail the tribe.}
-{135}{aeld8}{Very well. See me when you decide - but do not wait too long.}
-{136}{}{Goodbye.}
-{137}{aeld9}{I cannot help much. So much has been lost from the Long Ago. What wisdom do you seek?}
-{138}{aeld9b}{What do you need?}
-{139}{}{Tell me more about the GECK.}
-{140}{}{How do I get to Klamath?}
-{141}{}{Where is Vault 13?}
-{142}{}{On second thought, I don't need any help now. Goodbye.}
-{143}{aeld10}{It is a holy artifact - the Garden of Eden Creation Kit. The disks promise it
- will make our lands green and our village prosperous. It will save us. More, I do not know.}
-{144}{}{There's more I want to know.}
-{145}{}{Goodbye.}
-{146}{aeld11}{Klamath is to the east.}
-{147}{}{There are other things I would learn.}
-{148}{}{I am ready. Goodbye.}
-{149}{aeld12}{The holy Thirteen? I cannot help you. Only the Vault Dweller knew. His tales have
- the sound of a perilous journey. }
-{150}{}{I see. There is much I need to know.}
-{151}{}{Goodbye, Elder.}
-{152}{aeld13}{Being a coward will kill us all! Including you. You passed
- the Temple Trials. We have faith in you. We need you.}
-{153}{}{Not so fast, old woman. I need time to think about this!}
-{154}{}{As you wish, Elder.}
-{155}{aeld14a}{You've betrayed us. You will perish.}
-{156}{aeld14b}{You are a traitor!}
-{157}{aeld14c}{Why do you do this?}
-{158}{aeld14d}{I knew you had the soul of darkness!}
-{159}{aeld15}{Then take this flask. It is from the holy Vault 13. Vic, a trader in Klamath,
- brought it to us. He may know where the vault is. You may also need some of what they
- call money. Here.}
-{160}{}{Uh… What was my quest again?}
-{161}{}{Is there more you can tell me?}
-{162}{}{Wish me luck, Elder, and I will not fail you.}
-{163}{aeld16}{Find Vic in Klamath. We are counting on you.}
-{164}{aeld17}{It's good to see you again, Child. I don't mean to be abrupt but I see you
- haven't completed your quest to find the holy Thirteen. Please, let's not waste time
- talking. The need of our people is great. Go find the Vault!}
+{114}{aeld3}{Escolhido, você nos deseja todos mortos? Você deve encontrar o Vault!}
+{115}{}{Desculpe, Ancião. Eu não vou falhar.}
+{116}{}{Sim Sim. Pare de gritar.
+}
+{117}{aeld4}{Escolhido, por que você está aqui?}
+{118}{}{Eu sei onde o Vault 13 está!}
+{119}{}{Estou pronto para a santa missão.}
+{120}{}{Eu preciso de mais algumas informações.}
+{121}{}{Eu não estou indo para minha morte!}
+{122}{}{O que era para eu fazer de novo?}
+{123}{}{Eu estou indo agora.}
+{124}{aeld5}{Isso é uma boa notícia, mas não o suficiente para nos salvar. Você deve voltar logo com o
+GECK ou o nosso povo vai morrer!}
+{125}{}{Eu preciso de mais algumas informações.}
+{126}{}{Bem, eu estou indo agora.}
+{127}{aeld6}{Você sobreviveu. O Escolhido não pode ser fraco ou estamos todos condenados. Está você preparado para sua busca?}
+{128}{}{Eu passei o teste. Claro, estou pronto.}
+{129}{}{Eu preciso pensar sobre isso.}
+{130}{}{Eu não estou indo para minha morte!}
+{131}{aeld7}{Preste atenção. Encontrar o santo Vault 13 e trazer de volta o GECK. Vic, o comerciante a partir de Klamath, nos trouxe o frasco de santo Treze. Comece a sua busca com ele. O disco irá lembrá-lo de sua tarefa. Talvez os deuses do Cofre cuidem de você.}
+{133}{}{Antes de eu ir, eu tenho algumas perguntas.}
+{134}{}{Adeus. Eu não vou falhar com a tribo.}
+{135}{aeld8}{Muito bem. Veja-me quando você decidir - mas não espere muito.}
+{136}{}{Adeus.}
+{137}{aeld9}{Eu não posso ajudar muito. Muito tem sido perdido ao longo do tempo. Que sabedoria você procura?}
+{138}{aeld9b}{O que você precisa?}
+{139}{}{Conte-me mais sobre o GECK.}
+{140}{}{Como faço para chegar a Klamath?}
+{141}{}{Onde está o Vault 13?}
+{142}{}{Pensando bem, não preciso de ajuda agora. Adeus.}
+{143}{aeld10}{É um artefato sagrado - o Kit de Criação do Jardim do Éden. Os discos o prometem
+  tornará nossas terras verdes e nossa aldeia próspera. Isso nos salvará. Mais, eu não sei.}
+{144}{}{Há mais o que quero saber.}
+{145}{}{Adeus.}
+{146}{aeld11}{Klamath é para o leste.}
+{147}{}{Há outras coisas que eu poderia aprender.}
+{148}{}{Eu estou pronto. Adeus.}
+{149}{aeld12}{O santo Treze? Eu não posso ajudar você. Apenas o Morador do Vault  sabia. Seus contos falam de uma perigosa jornada.}
+{150}{}{Eu vejo. Há muito que eu preciso saber.}
+{151}{}{Adeus, Ancião.}
+{152}{aeld13}{Ser um covarde nos matará a todos! Incluindo você. Você passou
+  nos testes do templo. Temos fé em você. Nós precisamos de você.}
+{153}{}{Não tão rápido, velha. Preciso de tempo para pensar sobre isso!}
+{154}{}{Como você deseja, Ancião.}
+{155}{aeld14a}{Você nos traiu. Você perecerá.}
+{156}{aeld14b}{Você é um traidor!}
+{157}{aeld14c}{Por que você faz isso?}
+{158}{aeld14d}{Eu sabia que você tinha a alma das trevas!}
+{159}{aeld15}{Em seguida, pegue esse frasco. É do santo Vault 13. Vic, comerciante em Klamath,
+  trouxe para nós. Ele pode saber onde está o cofre. Você também pode precisar de um pouco do que eles
+  chamam dinheiro. Aqui.}
+{160}{}{Uh ... Qual foi a minha missão de novo?}
+{161}{}{Existe mais o que você pode me dizer?}
+{162}{}{Deseje-me sorte, Ancião, e não falharei com você.}
+{163}{aeld16}{Encontrar Vic em Klamath. Estamos contando com você.}
+{164}{aeld17}{É bom ver você de novo, Filho. Eu não quero ser abrupta, mas eu vejo que você ainda não completou sua busca para encontrar o santo Treze. Por favor, não vamos perder tempo falando. A necessidade do nosso povo é grande. Vá encontrar o Cofre!}
 {165}{}{Me go now.}
 {166}{}{All right, I'm going.}
 {167}{}{I will not fail you elder.}
@@ -87,14 +82,15 @@
 {174}{aeld19}{Chosen One, things are not well here. We need the GECK if our village is to
  survive. Our people grow weak with hunger and our food reserves will not last much
  longer. Please, find the holy Thirteen and return to us. Go now.}
-{175}{}{Me go.}
+{175}{}{Eu vou.}
 {176}{}{Very well. I'm on my way.}
 {177}{}{I will do my best to find the GECK and save our village.}
 {178}{}{Don't push me, old woman. I'm doing my best.}
 {179}{aeld20}{Child, our need is greater than ever before. Our people sicken, the brahmin
  are dying, and our food is all but gone. The blight of the land can only be cured with
  the GECK. Go, find the GECK and save our people.}
-{180}{}{Me understand.}
+{180}{}{Eu compreendo.
+}
 {181}{}{I'm on my way.}
 {182}{}{Forgive me Elder. I will find the GECK without delay.}
 {183}{}{Yeah, yeah. You're beginning to sound like a broken disk...}
@@ -115,13 +111,13 @@
 {214}{eeld5a}{Then they brought us here, to hell. They have killed most of us with something they call effeevee. They will kill us all before they are through!
  Do you know what must be done, Chosen One?}
 {215}{}{Effeevee?}
-{216}{}{Yes.}
-{217}{}{No.}
+{216}{}{Sim.}
+{217}{}{Não.}
 {218}{eeld6}{If you destroy the machine, we will find the ship. Hurry, there are not many of us left. }
 {219}{}{What happened?}
-{220}{}{I understand.}
+{220}{}{Eu entendo.}
 {221}{eeld7}{You must destroy the machine and kill the devils in this place. We will meet you outside! And Chosen One, if you have not found the GECK, seek it here. Our freedom is nothing if we cannot save our village. Now go!}
-{222}{}{Goodbye.}
+{222}{}{Adeus.}
 {223}{eeld8}{I am still the Elder. Remember your place! Apologize or I will not help you anymore.}
 {224}{}{Sorry, you're not an old bitch. What's going on?}
 {225}{}{Like you could help me in there? Fuck off and die.}

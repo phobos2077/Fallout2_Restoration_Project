@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{Você vê um guarda.}
 {150}{}{You see a bored-looking guard. He looks like he would rather be anywhere else.}
 {151}{}{You see one of Myron's bored-looking guards.}
 {152}{}{You see one of Myron's bored-looking guards. He looks like he would rather be anywhere else.}
@@ -77,7 +77,7 @@
 {400}{}{Nope. Now piss OFF, you little shit.}
 {401}{}{I'm staying until you let me in. In fact, I'd like to see you TRY and move me.}
 {402}{}{I'm staying until you let me in. In fact, I'd like to see you sorry sacks of shit TRY and move me.}
-{404}{}{All right.}
+{404}{}{Tudo certo.}
 {411}{}{Neither have I…}
 {412}{}{Defend yourself.}
 {425}{}{Yeah? Lemme see. Hmmmm. (Checks badge, shrugs.) All right, but keep it quick. Myron's busy, and he don't
@@ -89,7 +89,7 @@
 {437}{}{We'll see, all right?}
 {445}{}{Sure, sweetheart. Head on in.}
 {446}{}{Yeah, head on in.}
-{447}{}{Thanks.}
+{447}{}{Obrigado.}
 {455}{}{You? Ha! Chica, unless Myron suddenly went blind, you ain't going in there. I know his tastes, right?
  He ain't interested in any skanky Jet-begging whore.}
 {457}{}{Look, I'm here to see Myron. I have a badge.}

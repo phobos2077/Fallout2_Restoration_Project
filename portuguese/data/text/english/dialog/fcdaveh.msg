@@ -4,29 +4,30 @@
 {103}{}{Why do you want to hurt us?}
 {104}{}{How can I help you, enlightened one?}
 {105}{}{I'm going to move on Vikki... umm... soon.}
-{106}{}{How can I help you?}
-{107}{}{What do you want?}
+{106}{}{Como posso ajudá-lo?}
+{107}{}{O que você quer?}
 {108}{}{Da... oooh...}
-{109}{}{Who are you?}
+{109}{}{Quem é você?}
 {110}{}{What do you do here?}
 {111}{}{I talked to Vikki. She and Juan made fun of you and said you're not a real man.}
 {112}{}{I talked to Vikki. She said you're hot and she wants you sometime.}
 {113}{}{You want me to talk Vikki up for you?}
-{114}{}{Nevermind. Bye.}
+{114}{}{Deixa pra lá. Tchau.
+}
 {115}{}{Ummm... oookay. Whatever. Say, what's that over there?
 [as you turn to look, he whips back to what he was doing and ignores you]}
-{116}{}{[DONE]}
+{116}{}{[FEITO]}
 {117}{}{I'm Dave Handy. I'm down from Canada.}
 {118}{}{So, what do you do here?}
 {119}{}{What brought you down?}
-{120}{}{Thanks. Bye.}
+{120}{}{Obrigado. Tchau.}
 {121}{}{I show these guys how to move their data and I answer stupid questions all day long.}
 {122}{}{Would you be able to hack into the Shi database?}
 {123}{}{What sort of stupid questions?}
 {124}{}{Well, I have other questions for you.}
 {125}{}{Sounds great. Bye.}
 {126}{}{Promise not to laugh.}
-{127}{}{Okay.}
+{127}{}{Tudo bem.}
 {128}{}{No, forget it.}
 {129}{}{The Hub recruiter, Vikki Goldman. I saw one of her movies up in Canada, and I just knew that she'd fall in love with me. It hasn't happened yet, but I'm working on it.}
 {130}{}{I'll keep it under my hat. I have some more questions.}
@@ -56,7 +57,7 @@ Oh well.
 {151}{}{Good luck. See ya!}
 {152}{}{There. Teach these bastards to use and reject me. Goodbye.}
 {153}{}{Well, I was really just kidding. She didn't actually say that.}
-{154}{}{Goodbye.}
+{154}{}{Adeus.}
 {155}{}{She didn't say that. Oh good.}
 {156}{}{So, I've done all this harm for nothing. I'm going to kill you now.}
 {157}{}{Try it.}

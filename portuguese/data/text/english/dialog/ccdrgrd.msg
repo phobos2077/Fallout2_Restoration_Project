@@ -6,15 +6,15 @@
 {105}{}{Uh... me new here.}
 {106}{}{Me here clean.}
 {107}{}{Me not remember. Me go.}
-{108}{}{What is this place?}
+{108}{}{O que é este lugar?}
 {109}{}{Hi, I'm new here.}
 {110}{}{I'm here to clean the commander's office.}
-{111}{}{Never mind.}
+{111}{}{Não importa.}
 {112}{}{This is the base commander's office. This area is off limits to all personnel. I'll have to ask you to leave, sir.}
 {113}{}{Me have business with commander.}
 {114}{}{Fine.}
 {115}{}{I have business with the commander.}
-{116}{}{All right.}
+{116}{}{Tudo certo.}
 {117}{}{What is the nature of your business, sir?}
 {118}{}{Uh...}
 {119}{}{Shit. Me screw up...}
@@ -29,23 +29,23 @@
 {128}{}{What? Oh, I get it. You screwed the pooch and Dornan's got you on cleaning detail.}
 {129}{}{Yeah... me screw... doggy and... yuck.}
 {130}{}{(speaking to self) Commander. Cleaning detail is here, sir. (pause) Yes, sir. (looking at you) Go on in.}
-{131}{}{Thanks.}
+{131}{}{Obrigado.}
 {132}{}{(speaking to self) Commander. Security detail is here. Main base wants the tanker passkey secured. (pause) Yes, sir. (looking at you) Go on in.}
 {133}{}{Let me see your orders.}
-{134}{}{Thanks.}
+{134}{}{Obrigado.}
 {135}{}{Oh, I didn't bring them with me.}
 {136}{}{(quietly) You must be lost then. This is the base commander's office. Nobody's allowed here unless the old man sends for you.}
 {137}{}{Nobody come here? Ever?}
 {138}{}{Nobody sees him?}
 {139}{}{(quietly) Nobody. Well, just the cleaning crew. They usually come by here in an hour or so. Other than that, this place is off limits. Now, you better head on out.}
-{140}{}{Okay.}
+{140}{}{Tudo bem.}
 {141}{}{(speaking to self) Commander. Cleaning detail is here, sir. (pause) Yes, sir. (looking at you) Go on in.}
 {142}{}{You're early. Come back later.}
-{143}{}{Okay.}
+{143}{}{Tudo bem.}
 {144}{}{Then get back to comm center and have them print the order.}
-{145}{}{Okay.}
+{145}{}{Tudo bem.}
 {146}{}{You must be looking for the armory. Go back down the hall, turn right, and it's the first door on the left. You'll get your issue there.}
-{147}{}{Thanks.}
+{147}{}{Obrigado.}
 {148}{}{Who the hell are you guys... Alert! Intruders!}
 {149}{}{We've been infiltrated! Alert!}
 {150}{}{Multiple intruders! Sound the alarm!}

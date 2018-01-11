@@ -149,7 +149,7 @@
  First, you'll need a stage name, something that screams STAR. Any ideas?}
 {517}{}{Awright - how about another name?}
 {525}{}{I...hmmmm...I...hmmmm. Look, I'll agree to the 500 chips, but NO ROYALTIES. You hear me?}
-{526}{}{All right.}
+{526}{}{Tudo certo.}
 {527}{}{No deal. I'll be seeing you.}
 {528}{}{No royalties, no }
 {535}{}{All right! "}
@@ -224,7 +224,7 @@
 {692}{}{Makes sense. God knows what use some thief could put that cube to if they got their hands on it. Oh, well. Bye!}
 {700}{}{X-cellent! A-course, I'll need ta see what yer made of, a little try-out to see how you get over the 'hump.' You game, pal?}
 {701}{}{X-cellent! A-course, I'll need ta see what yer made of, a little try-out to see how you get over the 'hump.' You game, honey-tits?}
-{702}{}{Sure.}
+{702}{}{Com certeza.}
 {703}{}{Uh, no thanks. I've changed my mind. Some other time.}
 {710}{}{Then get the hell outta here, you little shit! We don't need you! Get lost! You'll never work in porn again!}
 {711}{}{Me no want to anyway! SO THERE!}
@@ -253,7 +253,7 @@
 {780}{}{The Corsican Bros at yer service... (The man glances up, irritated, then does a double take.) Holy...}
 {781}{}{Me 4! Me 4!}
 {782}{}{Nothing}
-{783}{}{What is this place?}
+{783}{}{O que é este lugar?}
 {784}{}{Can you tell me a little about the studio?}
 {785}{}{Got any...openings...I could fill?}
 {786}{}{Got any work for someone like me?}
@@ -267,7 +267,7 @@
 {806}{}{[Do as the man directs.]}
 {810}{}{The Corsican Bros at yer service... (The man glances up, irritated, then does a double take.) Holy...uh...hey, how you doing, }
 {812}{}{Nuthin}
-{813}{}{What is this place?}
+{813}{}{O que é este lugar?}
 {814}{}{Indulge me. Tell me a little about this studio.}
 {815}{}{Good question. You got any...openings...I could fill?}
 {816}{}{Good question. Got any work for someone like me?}

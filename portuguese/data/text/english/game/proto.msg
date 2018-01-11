@@ -144,8 +144,8 @@
 {624}{}{For being victorious in combat,}
 {625}{}{For crushing your enemies,}
 {626}{}{For destroying your enemies without taking a scratch,}
-{650}{}{[DONE]}
-{651}{}{[MORE]}
+{650}{}{[FEITO]}
+{651}{}{[MAIS]}
 {652}{}{More}
 {653}{}{[BACK]}
 {654}{}{Back}
@@ -153,8 +153,8 @@
 {656}{}{Err...}
 {660}{}{You can't see there.}
 {661}{}{Too far away.}
-{670}{}{Okay.}
-{671}{}{Sure.}
+{670}{}{Tudo bem.}
+{671}{}{Com certeza.}
 {672}{}{As you wish.}
 {673}{}{Whatever you say.}
 {674}{}{I'll try.}

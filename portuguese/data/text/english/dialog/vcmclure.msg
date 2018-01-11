@@ -16,7 +16,7 @@
 {115}{}{San-tah Klass?}
 {116}{}{Shamble off}
 {117}{}{Can I ask you some questions?}
-{118}{}{Who are you?}
+{118}{}{Quem é você?}
 {119}{}{Just looking around, thanks. Good day.}
 {120}{}{How did you get into our City? Guards! We have an Outworlder that needs to be escorted to the gate!}
 {121}{}{I go no I GO NO}
@@ -153,9 +153,9 @@
 {252}{}{It's a chem with a 100% addiction rate, and severe withdrawals.}
 {253}{}{Please keep me posted.}
 {254}{}{Can I ask you some other questions?}
-{255}{}{Sure.}
+{255}{}{Com certeza.}
 {256}{}{This is sad news, we need to find a way to put a stop to this. If this keeps up, our ore supplies will dwindle to nothing. Please help us.}
-{257}{}{I'll see what I can do.}
+{257}{}{Eu vou ver o que posso fazer.}
 {258}{}{He has? Well then, what are you doing here? Take it to Doc Johnson in Redding! He should be able to find a way to administer it to the miners.}
 {259}{}{I know, you already told me. Please take it to Redding and see if you can help them.}
 {260}{}{Before I go, can I ask you some other questions?}
@@ -184,20 +184,20 @@
 {283}{}{Vault City, prevails, Captain.}
 {284}{}{Here's your Citizenship papers. If you ever need anything, come see me.}
 {285}{}{Vault City prevails, Councilor.}
-{286}{}{Thanks.}
+{286}{}{Obrigado.}
 {287}{}{Yes, you mentioned that.}
 {288}{}{Well done, Captain.}
 {289}{}{Well done, Citizen.}
 {290}{}{Well done.}
 {291}{}{I had some other questions...}
-{292}{}{Thanks.}
+{292}{}{Obrigado.}
 {293}{}{I'm sorry... an economic data disk? What do you mean?}
 {294}{}{Here, take a look.}
 {295}{}{It's an economic data disk that shows the amount of energy that Gecko's atomic power plant produced before the war... and could produce again.}
 {296}{}{Never mind. I had some other questions.}
 {297}{}{Nothing. Sorry to disturb you.}
 {298}{}{Very well. Give me a moment...}
-{299}{}{All right.}
+{299}{}{Tudo certo.}
 {300}{}{Hmmm. How did you come by this disk?}
 {301}{}{I... found it.}
 {302}{}{I found it while searching some of the archives in the Vault City library.}
@@ -227,7 +227,7 @@
 {326}{}{All right. But I don't have the reactor disk on me. I'll be back with it.}
 {327}{}{That'd be great.}
 {328}{}{Excellent!}
-{329}{}{All right.}
+{329}{}{Tudo certo.}
 {330}{}{Let me take the reactor disk, and I'll have the Vault central computer optimize it.}
 {331}{}{Great. Thanks.}
 {332}{}{What is it?}

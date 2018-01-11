@@ -92,7 +92,7 @@
 {507}{}{Something you want, chica?}
 {508}{}{Hoo ooh?}
 {511}{}{Wander off}
-{512}{}{Who are you?}
+{512}{}{Quem é você?}
 {513}{}{Sorry. I thought you were someone else.}
 {522}{}{Eh...? You again? What do you want now?}
 {523}{}{Heeeey...whatzzup, friend? Something on your mind?}
@@ -100,7 +100,8 @@
 {525}{}{Ay-me-go?}
 {526}{}{Cheee-ka Cheeek-aaaah}
 {529}{}{I had some questions…}
-{530}{}{Nevermind. Sorry to bother you.}
+{530}{}{Deixa pra lá. Desculpe incomodá-lo.
+}
 {540}{}{}
 {541}{}{}
 {542}{}{Hey, hey, hey! You're }
@@ -233,7 +234,7 @@
 {930}{}{No, not me…head on upstairs and see my Pa. He's the one you want to talk to.}
 {931}{}{And you are...?}
 {932}{}{All right then. Before I go, I had some questions…}
-{933}{}{Thanks.}
+{933}{}{Obrigado.}
 {940}{}{FUCK you. Get outta my family's casino 'fore I carve my initials on your dead body.}
 {942}{}{Don't you threaten me, Jesus.}
 {943}{}{Hold on - I had some other questions…}

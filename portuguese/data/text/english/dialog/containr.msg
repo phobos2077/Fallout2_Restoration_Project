@@ -126,10 +126,10 @@
 {163}{}{You see an old container with a lock on it.}
 {164}{}{You see an old container with no apparent locking device.}
 {165}{}{You see an old container with an old, rusty lock.}
-{166}{}{You set off the trap and were hit for }
-{167}{}{ points of damage.}
-{168}{}{ sets off the trap and was hit for }
-{169}{}{ points of damage.}
+{166}{}{Você desencadeou a armadilha e foi atingido por}
+{167}{}{pontos de dano.}
+{168}{}{desencadeia a armadilha e foi atingido por}
+{169}{}{pontos de dano.}
 {170}{}{You deftly pick the lock on the container.}
 {171}{}{Your lack of skill has jammed the lock on this container.}
 {172}{}{You fail to pick the lock on this container.}
@@ -137,22 +137,21 @@
 {174}{}{'s lack of skill has jammed the lock on this container.}
 {175}{}{ failed to pick the lock on this container.}
 {176}{}{You bust the lock off the container.}
-{177}{}{You strain your back while trying to bust the lock and
- take a point of damage.}
-{178}{}{You strain your back while trying to bust the lock and
- take }
-{179}{}{ points of damage.}
-{180}{}{You are too weak to bust the lock.}
+{177}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e
+  toma um ponto de dano.}
+{178}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e toma }
+{179}{}{pontos de dano.}
+{180}{}{Você é muito fraco para ultrapassar o bloqueio.}
 {181}{}{ busts the lock off the container.}
-{182}{}{ strains his back while trying to bust the lock and takes
- a point of damage.}
-{183}{}{ strains his back while trying to bust the lock and takes }
-{184}{}{ points of damage.}
-{185}{}{ is too weak to bust the lock.}
-{186}{}{ strains her back while trying to bust the lock and takes
- a point of damage.}
-{187}{}{ strains her back while trying to bust the lock and takes }
-{188}{}{ points of damage.}
+{182}{}{estica as costas enquanto tenta abater a fechadura e leva
+  pontos de dano.}
+{183}{}{pressiona suas costas enquanto tenta abrir o bloqueio e toma}
+{184}{}{pontos de dano.}
+{185}{}{ é muito fraco para ultrapassar o bloqueio.}
+{186}{}{estica as costas enquanto tenta abater a fechadura e leva
+pontos de dano.}
+{187}{}{pressiona suas costas enquanto tenta abrir o bloqueio e toma }
+{188}{}{pontos de dano.}
 {189}{}{You deftly lock the container.}
 {190}{}{You fail to lock the container.}
 {191}{}{ deftly locks the container.}
@@ -160,12 +159,12 @@
 {193}{}{The explosives don't even put a scratch on the container.}
 {194}{}{You find a trap on the container.}
 {195}{}{You fail to find any traps on the container.}
-{196}{}{You skillfully disarm the trap.}
-{198}{}{You fail to disarm the trap.}
+{196}{}{Você habilmente desarmar a armadilha.}
+{198}{}{Você não consegue desarmar a armadilha.}
 {199}{}{ finds a trap on the container.}
 {200}{}{ fails to find any traps on the container.}
-{201}{}{ skillfully disarms the trap.}
-{202}{}{ fails to disarm the trap.}
+{201}{}{ habilmente desarma a armadilha.}
+{202}{}{ falha para desarmar a armadilha.}
 {203}{}{The container appears to be locked.}
 {204}{}{You notice a trap on the container.}
 {205}{}{ notices a trap on the container jamb.}

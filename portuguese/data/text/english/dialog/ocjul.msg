@@ -8,14 +8,14 @@
 {106}{}{Who you?}
 {107}{}{All right, I'll leave}
 {108}{}{I go where I please, lizard breath!}
-{109}{}{What is this place?}
-{110}{}{Who are you?}
+{109}{}{O que é este lugar?}
+{110}{}{Quem é você?}
 {111}{}{This hatchery. Pack mother inside. Eggs inside. I guard. All of pack guard.}
 {112}{}{Me want talk mother.}
 {113}{}{Who you?}
 {114}{}{Me go now.}
 {115}{}{I'll be leaving then.}
-{116}{}{Who are you?}
+{116}{}{Quem é você?}
 {117}{}{I'd like to speak to the mother.}
 {118}{}{I Jul. Pack warrior. I guard hatchery. I guard mother.}
 {119}{}{Me}
@@ -25,12 +25,12 @@
 {123}{}{Guarding mother is a position of great responsibility. You must be an important pack member.}
 {124}{}{I guess I'll be leaving now.}
 {125}{}{You wait. I ask mother.}
-{126}{}{Okay.}
+{126}{}{Tudo bem.}
 {127}{}{Mother say she talk to you. You go in. You not cause trouble. I not want hurt you, but I hurt
  you bad if you cause trouble.}
 {128}{}{Mother say she talk to you. You go in but you go alone; friends stay here. You not cause
  trouble. I not want hurt you, but I hurt you bad if you cause trouble.}
-{129}{}{Okay.}
+{129}{}{Tudo bem.}
 {130}{}{You think so? I not look at it that way. That make me feel good. I like. Thank you.}
 {131}{}{You welcome. Me go now.}
 {132}{}{Me want talk mother.}
@@ -46,7 +46,7 @@
 {140}{}{Who you say you be?}
 {141}{}{What this place?}
 {142}{}{Just dropped by to say hello.}
-{143}{}{What is this place?}
+{143}{}{O que é este lugar?}
 {144}{}{Who are you again?}
 {145}{}{You already dead. You just too dumb to fall over.}
 {146}{}{. Me want talk mother.}

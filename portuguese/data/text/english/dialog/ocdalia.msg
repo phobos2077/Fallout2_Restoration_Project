@@ -9,11 +9,11 @@
 {107}{}{Things are fine, but I've got to go.}
 {108}{}{Hey, I'm glad to hear that. It was my pleasure to do what I could for you. So, what can I help
  you with?}
-{109}{}{Me got questions.}
+{109}{}{Eu tenho perguntas.}
 {110}{}{Nothing. Me say hi.}
-{111}{}{I have some questions for you.}
+{111}{}{Eu tenho algumas perguntas para você.}
 {112}{}{Nothing. But it's nice to see you again. Bye.}
-{113}{}{What do you want to know?}
+{113}{}{O que você quer saber?}
 {114}{}{You prisoner.}
 {115}{}{You leave when want?}
 {116}{}{What know about D'claws?}
@@ -28,12 +28,12 @@
 {125}{}{Thanks. I'll talk at you later.}
 {126}{}{No, I'm not. I'm here of my own free will and I like it. I think this will be a safe place for
  me to stay for a while.}
-{127}{}{Okay.}
-{128}{}{Bye.}
-{129}{}{All right.}
+{127}{}{Tudo bem.}
+{128}{}{Adeus.}
+{129}{}{Tudo certo.}
 {130}{}{I see. Well, I'll be going then.}
 {131}{}{Yeah, I've been told I'm free to go or stay. I'm staying for now.}
-{132}{}{Me see.}
+{132}{}{Eu vejo.}
 {133}{}{Okay then.}
 {134}{}{I don't know any more about them than you do, I guess. I'm still trying to get used to
  them talking to me instead of tearing my head off and using it for a golf ball. It's scary, you know?}
@@ -56,10 +56,10 @@
 {144}{}{You're safe now, Dalia. You'll have no need to worry about any retribution.}
 {145}{}{Thanks,}
 {146}{}{You welcome.}
-{147}{}{Bye.}
+{147}{}{Adeus.}
 {148}{}{You're welcome.}
 {149}{}{I'll see ya.}
-{150}{}{Hello.}
+{150}{}{Olá.}
 {151}{}{Hello again. How's it going?}
 {152}{}{I have no quarrel with you. }
 {153}{}{. I hope everything worked out for you at the Squat.}

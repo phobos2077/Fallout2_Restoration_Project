@@ -1,17 +1,17 @@
-{100}{}{You see a grave marker.}
-{101}{}{The grave marker reads: }
-{102}{}{"Here lies Brother Gregory. A man who knew no limits."}
-{103}{}{"Aunt Patty. Good riddance indeed."}
-{104}{}{"Here lies Per Joner. Died one rock too short."}
-{105}{}{"Here lies Father Michael. Founder, Father, Fighter."}
-{106}{}{"An Atheist. All dressed up and no place to go."}
-{107}{}{"Here lies Johnny Yeast. Pardon me for not rising."}
-{108}{}{"Mary Jane. Loving wife and mother."}
-{109}{}{"'Checkmate!' was the call to dear old Jon, On the chessboard of life, He was just a pawn.}
-{110}{}{"Sir John Strange, here lies an honest lawyer, and that is Strange."}
-{111}{}{"Tears cannot restore her -- therefore I weep."}
-{112}{}{"Every day in every way, I am getting better and better."}
-{250}{}{There are no markings on this grave marker.}
-{251}{}{The grave marker is too cracked and broken to be read.}
-{252}{}{The name on the grave marker reads John Doe.}
-{253}{}{The name and date on this headstone have been worn off by the weather.}
+{100}{}{Você verá uma lápide.}
+{101}{}{A lápide lê-se: }
+{102}{}{"Aqui jaz o Irmão Gregório. Um homem que não conhecia limites."}
+{103}{}{"Tia Patty. Boa viagem, de fato."}
+{104}{}{"Aqui jaz Por Joner. Morreu um rock muito curto."}
+{105}{}{"Aqui jaz o Pai de Michael. O Fundador, O Pai, O Lutador".}
+{106}{}{"Um Ateu. Todos vestidos e sem lugar para ir."}
+{107}{}{"Aqui está Johnny Fermento. Perdoe-me por não subir."}
+{108}{}{"Mary Jane. Amorosa esposa e mãe."}
+{109}{}{"Checkmate!" foi o chamado para o querido velho Jon, no tabuleiro da vida, ele era apenas um peão.}
+{110}{}{"Sir John Estranho, aqui jaz um advogado honesto, o que é Estranho."}
+{111}{}{"Lágrimas não podem restaurá-la - então eu choro".}
+{112}{}{"Todos os dias, em todos os sentidos, eu estou ficando melhor e melhor."}
+{250}{}{Não existem marcações sobre esta lápide.}
+{251}{}{O monumento é muito rachado e quebrado para ser lido.}
+{252}{}{O nome na lápide lê-João da Silva.}
+{253}{}{O nome e a data desta lápide foram desgastadas pelo clima.}

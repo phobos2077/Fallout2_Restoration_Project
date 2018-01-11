@@ -2,7 +2,7 @@
 {101}{}{You see Vic.}
 {150}{}{This slave seems to be kept under tight surveillance.}
 {151}{}{This is Vic.}
-{152}{}{[TALK]}
+{152}{}{[FALAR]}
 {153}{}{Would you tell him I can't... wait. Who are you? You're not a
  slaver. What are you doing here?}
 {154}{}{My name is }
@@ -25,7 +25,7 @@
 {168}{}{Where can I get the parts?}
 {169}{}{Maybe I can repair it.}
 {170}{}{Can you use this radio I found?}
-{171}{}{I'll see what I can do.}
+{171}{}{Eu vou ver o que posso fazer.}
 {172}{}{Spa pa?}
 {173}{}{I know I can do it, I just need some spare parts. There is an old radio in
  my shack back in Klamath that has exactly what I need. You been to the Dunton's?
@@ -35,8 +35,8 @@
 {176}{}{Hmmm... I'll be back.}
 {177}{}{That's great! I'll have the radio fixed in no time.}
 {178}{}{Okay, I'll talk to Metzger.}
-{179}{}{Thanks.}
-{180}{}{Bye.}
+{179}{}{Obrigado.}
+{180}{}{Adeus.}
 {181}{}{Pardon? I'm sorry but I don't understand.}
 {182}{}{hurm.}
 {183}{}{Thank you! I'm forever in your debt. What can I do to repay you?}
@@ -47,7 +47,7 @@
 {189}{}{Vault 13? There's a Vault City east of here. I trade there,
  sometimes.}
 {190}{}{Want to go there with me?}
-{191}{}{Thanks. Bye.}
+{191}{}{Obrigado. Tchau.}
 {192}{}{Sure, I'll join up with you! This old fart has one big adventure left
  in him. I'm sure of it! I'm pretty good at repairing things too, despite what
  Metzger says.}
@@ -58,7 +58,7 @@
 {197}{}{Want to join me on my search?}
 {198}{}{Great! Thanks.}
 {203}{}{Vault City is east of here. I'll point it out on that map of yours.}
-{204}{}{Thanks.}
+{204}{}{Obrigado.}
 {206}{}{It's right here. [pointing to a map]}
 {220}{}{Darn it. That's close, but I need the radio from my shack in Klamath. I know that one has the parts I need.}
 {300}{}{Yeah, I can probably help you, but you've got to get me out of here first.}
@@ -93,7 +93,7 @@
  Only problem is that Metzger's got me locked up here until I fix this radio and
  I don't have the parts I need.}
 {753}{}{Where can I get the parts you need?}
-{754}{}{I'll see what I can do.}
+{754}{}{Eu vou ver o que posso fazer.}
 {760}{}{It's a long story. I guess you could say that Metzger's keeping me here until
  I fix this darn radio. The crystal's shot and I don't have any spare parts. How does
  he expect me to fix it?}
@@ -104,7 +104,7 @@
 {803}{}{I doubt it. Good luck.}
 {810}{}{Why'd you kill poor Mom… I guess you had your reasons… I'm sorry, Boss. It's not my place to question you. This is a pretty bad town. I'm sure she did something pretty bad.}
 {811}{}{Hey, Boss. Thanks for getting me out of that mess with Metzger. You need anything? Mom's been kind enough to feed me while you've been gone. I help her around the place….}
-{812}{}{Bye.}
+{812}{}{Adeus.}
 {813}{}{Oooh.}
 {814}{}{Beiye}
 {823}{}{Where is your friend Ed, again?}
@@ -174,13 +174,13 @@
 {2310}{}{He should be around here somewhere.}
 {2311}{}{Vault City. Check that fancy map thing of yours.}
 {2403}{}{Where did you get the Vault 13 water flask?}
-{2404}{}{Never mind.}
+{2404}{}{Não importa.}
 {2500}{}{Sure, Boss.}
 {2501}{}{Ask anything, Boss.}
 {2502}{}{I'll help you if I can, Boss.}
 {2503}{}{I'm not in trouble am I, Boss?}
 {2504}{}{Did I do something wrong, Boss?}
-{2505}{}{Of course.}
+{2505}{}{Claro.}
 {2600}{}{What'll we do now, Boss?}
 {2601}{}{What's the plan, Boss?}
 {2602}{}{Doing my best, Boss.}
@@ -204,7 +204,7 @@
 {2809}{}{Don't worry, Boss. Sulik and I'll get along, honest.}
 {2810}{}{Let's go.}
 {2811}{}{Stay here. I'll be right back.}
-{2812}{}{Me go.}
+{2812}{}{Eu vou.}
 {3100}{}{What? Uh… okay, Boss. If you say so.}
 {3101}{}{Can I put something else on, Boss? I'm a little worried.}
 {3102}{}{Okay… you're not going to leave me here… Are you, Boss?}
@@ -271,7 +271,7 @@
 {4513}{}{I need to get out of the relic business… nothing but trouble.}
 {4514}{}{Why is waiting so tiring…}
 {4600}{}{Uh, thanks, Boss.}
-{4601}{}{Thanks.}
+{4601}{}{Obrigado.}
 {4602}{}{You sure you know what you're doing?}
 {4603}{}{Can't we just rest instead?}
 {4604}{}{Should we make camp?}

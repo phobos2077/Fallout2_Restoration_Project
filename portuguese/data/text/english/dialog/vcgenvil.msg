@@ -1,6 +1,6 @@
-{100}{}{You see a peasant.}
-{101}{}{You see a peasant.}
-{102}{}{Hello.}
+{100}{}{Você vê um camponês.}
+{101}{}{Você vê um camponês.}
+{102}{}{Olá.}
 {103}{}{Good day to you.}
 {104}{}{Welcome to our village.}
 {105}{}{The monsters protect us.}

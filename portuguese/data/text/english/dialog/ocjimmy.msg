@@ -48,9 +48,9 @@
 {147}{}{All right, but I need to ask you a couple of things first.}
 {148}{}{This is a mainframe computer system and related support devices. From here all functions of the vault are remotely controlled.}
 {149}{}{Uh... what you said.}
-{150}{}{Ah, I see.}
+{150}{}{Ah, eu vejo.}
 {151}{}{Normally the vault overseer would be stationed here but Vault 13 has been fully automated.}
-{152}{}{Why?}
+{152}{}{Por quê?}
 {153}{}{Okay, me ask more.}
 {154}{}{Why? I mean, isn't that unusual?}
 {155}{}{I see. Let's change the subject.}
@@ -67,7 +67,7 @@
 {166}{}{You think they threat to people?}
 {167}{}{Do you think they are a threat to human society?}
 {168}{}{Oh, absolutely. They are far superior to us physically and they are our equals mentally. That makes them a pretty big threat. However, it all comes down to morals and ethics in the end. Fortunately, they seem to be ethical and morally well developed.}
-{169}{}{Me see.}
+{169}{}{Eu vejo.}
 {170}{}{Yeah, I see what you mean.}
 {171}{}{Hi there. It's good to see you again. What can I help you with?}
 {172}{}{Need ask question.}
@@ -75,7 +75,7 @@
 {174}{}{I need to ask you something.}
 {175}{}{Just saying hi.}
 {176}{}{Well, let's see... I suppose the best place to look would be Vault City since they're the most modern place I can think of. You might want to give New Reno a try though. They're closer and they do a lot of trading with Vault City.}
-{177}{}{Thanks.}
+{177}{}{Obrigado.}
 {178}{}{Thanks for fixing the computer. You've saved all our butts.}
 {179}{}{I've got better things to do than shoot the likes of you, but everyone needs a vacation!}
 {180}{}{. Me ask question?}

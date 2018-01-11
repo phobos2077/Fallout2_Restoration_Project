@@ -7,7 +7,7 @@
 {112}{}{Hmph. I didn't ask for your help, outworlder. I could have taken care of the well myself.}
 {113}{}{Right. No thanks required.}
 {114}{}{Whatever. Way to be ungrateful.}
-{120}{}{What do you want?}
+{120}{}{O que você quer?}
 {121}{}{I see you're having some trouble with that well. What's wrong, exactly?}
 {130}{}{What's wrong? I dropped the rope, that's what's wrong. [He shifts uncomfortably.] I was fastening a new rope to the well and then I looked up and saw this fine young maiden stretching in the sunlight. Spirits of lust distracted me and the rope slipped from my hands and... What's it to you anyway, outworlder? Unless you got a new rope for me, you be wasting my time.}
 {131}{}{I don't have a rope on me, but I'll see if I can come up with one. I'll get back to you.}
@@ -22,19 +22,19 @@
 {161}{}{Right.}
 {162}{}{How 'bout *you* reattach the bucket, and I'll see if I can restrain myself from beating your ass.}
 {170}{}{Did you attach the bucket?}
-{171}{}{No, not yet.}
+{171}{}{Não, ainda não.}
 {172}{}{Does it *look* like I attached the bucket?}
 {180}{}{So the well is fixed, yes? With the bucket attached and everything?}
 {181}{}{Yes, it's all done.}
 {182}{}{...}
 {190}{}{[The corner of his mouth twitches up into a hint of a smile.] Ah, I suppose you outworlders aren't all bad, after all. Here, take this money. The spirits tell me you be needing this more than I.}
-{191}{}{Thanks.}
+{191}{}{Obrigado.}
 {200}{}{May your ancestors guide you well.}
-{201}{}{Thanks for your help.}
+{201}{}{Obrigado por sua ajuda.}
 {202}{}{Nice to be seeing you again.}
 {210}{}{You won't take us alive, slaver!}
 {300}{}{All right, calm your spirits of anger. I'll do it myself. [He mumbles.] Crazy outworlder...}
-{301}{}{[DONE]}
+{301}{}{[FEITO]}
 {310}{}{[He narrows his eyes at you, then glances at the well.] No.}
 {311}{}{Then no, I guess I didn't attach it yet.}
 {320}{}{Hey, did you hear me? I asked if the well be fixed yet.}

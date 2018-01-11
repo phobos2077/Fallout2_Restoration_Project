@@ -345,7 +345,7 @@ and fifty years.}
 {1106}{}{I'm getting impatient over here.}
 {1110}{}{You ready to take me with you?}
 {1111}{}{Let's go.}
-{1112}{}{No, not yet.}
+{1112}{}{Não, ainda não.}
 {1200}{}{So, what can you tell me about the Vaults?}
 {1201}{}{So, now do you remember anything you can tell me about the Vaults?}
 {1202}{}{Is there anything useful you can tell me about the time before the Great Silence?}
@@ -475,7 +475,7 @@ and fifty years.}
 {3025}{}{So anyway, we did a lot of moving around and it wasn't until I was in high school that we finally settled down
  in Chicago. That's when I took to sneaking out at night and knifing hookers. I'd been killing things for as long as I
  could remember, but gutting neighborhood critters didn't compare to the real deal, you know?}
-{3026}{}{Sure.}
+{3026}{}{Com certeza.}
 {3027}{}{So things were pretty sweet, for the most part. I mean, I fucking hated my Uncle and Aunt, but at school I was
  Mr. Popular. Every guy wanted to be my friend and every gal I looked at was willing to spread for me. Except for this
  one gal, Vicky. She actually took a bit of work. Amazing, I know, but eventually I got her to come around and become my girl.}
@@ -515,7 +515,7 @@ and fifty years.}
  [He looks you over, then nods.] Alright, what the hell. I'll give you some pointers that'll have the fellas eating out of
  your hands. Now, the first thing you gotta do is...}
 {3105}{}{There you go. Now don't be telling other people these trade secrets.}
-{3106}{}{Thanks.}
+{3106}{}{Obrigado.}
 {4000}{}{Man do I love the post-nuclear future.}
 {4001}{}{Come on. Let's have some violence.}
 {4002}{}{Let's find some more young ladies to, uh, admire.}
@@ -589,5 +589,5 @@ and fifty years.}
 {4260}{}{Why the hell are we even wasting our time here? Seriously?}
 {4270}{}{I don't think I want to willingly spend any more of my time in this facility.}
 {5000}{}{[He snaps his head towards you and leaps to his feet. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.}
-{5001}{}{[END]}
+{5001}{}{[FIM]}
 {5002}{}{Holy shit!}

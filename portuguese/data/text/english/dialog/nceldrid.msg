@@ -48,7 +48,7 @@
 {262}{}{Excellent... can I see you special stock?}
 {270}{}{Here at New Reno Arms, we have the latest personal protection devices needed to stop any yellow-bellied sonuvabitch dead in his tracks. (Smiles evilly.)}
 {272}{}{Hello again, friend. What can I do for you?}
-{273}{}{Such as?}
+{273}{}{Como?}
 {274}{}{Stuff me like stuff you like stuff tooooo?}
 {276}{}{You're just the man I was looking for then. Can I see what you got in stock?}
 {277}{}{Can I see what you got in stock?}
@@ -89,10 +89,10 @@
 {370}{}{Expand the magazine of the AK-112 assault rifle.}
 {371}{}{Attach that low-light scope on the FN FAL.}
 {385}{}{You want that cattleprod juiced up? I can SUPERCHARGE it for $}
-{386}{}{Sure.}
+{386}{}{Com certeza.}
 {395}{}{(Eldridge takes the item, examines it critically.) Awright...you just hold on for a bit, and I'll see what I can do.
  (He disappears into the back.)}
-{396}{}{Okay.}
+{396}{}{Tudo bem.}
 {400}{}{(You wait...)}
 {401}{}{Wait...}
 {405}{}{(And wait some more...)}

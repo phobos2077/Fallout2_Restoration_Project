@@ -122,7 +122,7 @@
 {381}{}{That's a mighty fine trade. You should be able to jist plug that sucker in and git your car
  a'workin'. You know I could do you another favor by fixin' up some of yur stuff for free, too.}
 {382}{}{Really? For free, huh? What do I need to do for you?}
-{383}{}{Let me ask you something else.}
+{383}{}{Deixe-me perguntar-lhe algo mais.}
 {384}{}{I'm going to go try that right away. Goodbye.}
 {390}{}{Well, ya see, I need a darn 3-Step Plasma Transformer. An the only place I can figger to git one
  is from the supply room.}
@@ -185,12 +185,12 @@
 {626}{}{Attach that low-light scope on the FN FAL.}
 {627}{}{Too rich for my blood. I'll be back when I have more cash.}
 {630}{}{You want that melee weapon juiced up? I can *supercharge* it for $}
-{631}{}{Sure.}
+{631}{}{Com certeza.}
 {640}{}{[Skeeter takes the item and looks it over with a weird gleam in his
  eye] Well, this is a mite challengin', but I think I can fix this up real nice
  for ya. Just sit tight for a while. [Skeeter takes the weapon over to his
  workbench and locks it in a really big vise.]}
-{641}{}{Okay.}
+{641}{}{Tudo bem.}
 {650}{}{[As you wait you can see Skeeter's back as he works on your weapon. You
  dont't know exactly what he's doing but that weird chuckle and all the pounding are
  making you nervous.]}

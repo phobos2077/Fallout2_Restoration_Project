@@ -1,6 +1,6 @@
-{100}{}{You see a merchant.}
-{101}{}{He seems to be assisting the man who is fixing the pump.}
-{102}{}{This is taking longer than we thought.}
-{103}{}{Check with the boss if you think you can help.}
-{104}{}{Great job with fixing the pump.}
-{105}{}{Thanks again for your help.}
+{100}{}{Você vê um comerciante.}
+{101}{}{Ele parece estar ajudando o homem que está a consertar a bomba.}
+{102}{}{Isto está demorando mais do que pensávamos.}
+{103}{}{Verifique com o chefe, se você acha que você pode ajudar.}
+{104}{}{Ótimo trabalho, com fixação da bomba.}
+{105}{}{Obrigado novamente por sua ajuda.}

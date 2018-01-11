@@ -3,9 +3,9 @@
  to have difficulty breathing.}
 {151}{}{You see Louis Salvatore. He is carrying an oxygen tank, and he seems
  to have difficulty breathing.}
-{200}{}{*Cough*}
+{200}{}{*Tosse*}
 {201}{}{::Wheeze::}
-{202}{}{*Cough* *Cough*}
+{202}{}{*Tosse* *Tosse*}
 {210}{}{Guards! Gu…*cough* *cough*…Guards!}
 {215}{}{(Salvatore turns to you with a stone-faced expression. He studies you for a fraction
  of a second, then makes a strange motion with his hand. Instantly, an alarm rings throughout the casino.)}
@@ -19,7 +19,7 @@
  a breathing mask, which is connected to an oxygen tank by his side.) What… do you want of me?}
 {231}{}{Me want…me no know what I want}
 {232}{}{Me want}
-{233}{}{Me }
+{233}{}{Eu}
 {234}{}{[Wander off.]}
 {235}{}{I have information for you.}
 {236}{}{I have information for you, Mr. Salvatore.}
@@ -62,7 +62,7 @@
 {339}{}{It could be a rough assignment: Can I have one of those laser weapons your family uses?}
 {340}{}{Uh, I don't do contract hits. I'll be leaving now.}
 {350}{}{Mason will have…the details. (Nods at exit.) Go now.}
-{351}{}{All right.}
+{351}{}{Tudo certo.}
 {352}{}{Thank you, Mr. Salvatore. I will go ask Mason.}
 {360}{}{Then you are of…no use to me. Leave now.}
 {361}{}{Uh, waitaminute…I changed my mind. I'll do it.}
@@ -76,7 +76,7 @@
 {385}{}{(Salvatore looks up at you, takes a breath from the mask.) Have…you disposed of the thief?}
 {386}{}{Naw...Lloyd left town with the money.}
 {387}{}{Yep. The vultures are probably shitting pieces of him out right now.}
-{388}{}{Not yet.}
+{388}{}{Ainda não.}
 {389}{}{No, Mr. Salvatore. Lloyd left town with the money.}
 {390}{}{Yes. I made an example of him, Mr. Salvatore.}
 {391}{}{Not yet, Mr. Salvatore.}
@@ -85,7 +85,7 @@
 {405}{}{(Puts his fingers together.) And…the money. Has it been recovered?}
 {406}{}{No, I couldn't find the money.}
 {407}{}{No, Lloyd already spent the money.}
-{408}{}{Yes.}
+{408}{}{Sim.}
 {410}{}{No, Mr. Salvatore, I couldn't find the money.}
 {411}{}{No, Mr. Salvatore, Lloyd already spent the money.}
 {412}{}{Yes, Mr. Salvatore.}
@@ -170,7 +170,8 @@
 {621}{}{How about…}
 {630}{}{(Nods) That is a…good name. Now go speak to Mason. He will have…
 something for you.}
-{640}{}{Greetings, }
+{640}{}{Saudações,
+}
 {645}{}{I have no further need of your services, }
 {650}{}{...}
 {651}{}{...hurkkk...}

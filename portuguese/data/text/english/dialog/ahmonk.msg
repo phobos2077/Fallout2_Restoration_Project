@@ -1,19 +1,19 @@
 {100}{}{You see the Abbot, the spiritual leader of the Abbey.}
 {101}{}{There's something about this monk that leads you to believe he's rather important.}
 {200}{}{Welcome traveler.}
-{201}{}{Peace to you.}
+{201}{}{Paz para você.}
 {202}{}{We are the guardians of knowledge.}
 {203}{}{I'm sorry, but knowledge of our books is of no use to you.}
 {300}{}{Welcome to the Abbey, traveler. How can I help you?}
 {301}{}{What can you tell me about your order?}
 {302}{}{Have you ever heard of a device called a GECK?}
 {303}{}{Do you know where I could find Vault 13?}
-{304}{}{Bye.}
-{400}{}{What do you want to know?}
+{304}{}{Adeus.}
+{400}{}{O que você quer saber?}
 {401}{}{Okay. I'd like to know something else.}
 {402}{}{Hmm….that *does* sound familiar. Why, yes, I recall Brother Thomas mentioning something about that recently. I'm sorry, but I don't recall exactly what he said.}
 {403}{}{That's fine. Just point me to Brother Thomas and I'll go ask him.}
-{404}{}{I don't know anything about that.}
+{404}{}{Eu não sei nada sobre isso.}
 {405}{}{Well, thanks anyway.}
 {406}{}{I'm afraid I won't be able to do that. You see, I am under the impression that Brother Thomas is no longer among
  the living. But, fortunately for you, he was one of our most reliable transcribers. I'm sure whatever articles he came
@@ -35,7 +35,7 @@
 {416}{}{Hello, my friend.}
 {417}{}{I've killed your beast, and I've got your book.}
 {418}{}{Excellent! Let me have it!}
-{419}{}{Here you go.}
+{419}{}{Aqui está.}
 {420}{}{Not so fast. How much is it worth to you?}
 {421}{}{[He takes the book from you and caresses its cover as if to sooth it.] You have done us a great service. You now
  have full access to our computers in the library. Tell Brother Paul I grant you permission to access our files.}
@@ -100,7 +100,7 @@
  your words. I sense great wisdom in you, wanderer. It is a pity I have met very few like you.}
 {456}{}{Thanks. I'd like to know something else though.}
 {457}{}{Very well. I'd like to know something else though.}
-{500}{}{Stop that!}
+{500}{}{Pare com isso!}
 {501}{}{You gain 200 experience points for bringing back the book.}
 {600}{}{I fixed your broken waterpump.}
 {601}{}{That is great news, indeed. That waterpump had been acting up for quite some time. Those merchants said they
@@ -150,7 +150,7 @@
 {1112}{}{Do you mean this book?}
 {1113}{}{Before I go, let me ask you something else.}
 {1411}{}{Very interesting. I have to go now.}
-{3000}{}{How can I help you?}
+{3000}{}{Como posso ajudá-lo?}
 {4091}{}{So no one else has even bothered to go down there and check on him? What if he's simply trapped down there somehow, and he's slowly starving to death?}
 {4092}{}{I suppose that's possible, but you must understand. We are a peaceful people. The thought of going up against one of those wasteland monsters is terrifying to us. We're simply not equipped for such confrontations. }
 {4177}{}{I've killed the beast.}

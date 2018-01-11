@@ -191,7 +191,7 @@
 {290}{}{That hurts.}
 {291}{}{That really hurts.}
 {292}{}{That's got to hurt.}
-{293}{}{I don't know anything about that.}
+{293}{}{Eu não sei nada sobre isso.}
 {294}{}{Yes}
 {295}{}{No}
 {296}{}{Why do you talk to me this way?}

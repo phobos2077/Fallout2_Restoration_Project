@@ -38,7 +38,7 @@
 {143}{}{Ok...Can I ask you something else?}
 {150}{slk6b}{That be funny, fren. At least, Grampy Bone think so. He say you got wit. Say
  you going to need it.}
-{151}{}{Why?}
+{151}{}{Por quê?}
 {152}{}{Who's Grampy Bone?}
 {153}{}{Can I ask you something else?}
 {160}{slk6c}{Him got feeling about you. Grampy Bone one smart spirit.}
@@ -57,7 +57,7 @@
 {220}{slk7}{Vic the traitor, more like. Comes to village, says he knows about slavers, tell us
  to come see him. We go, he ain't there.}
 {221}{}{Your sister was taken by slavers?}
-{222}{}{Let me ask you something else.}
+{222}{}{Deixe-me perguntar-lhe algo mais.}
 {223}{}{I guess that's all I need to know for now. Goodbye.}
 {230}{slk8}{We and I thank you. Name's Sulik. How can we repay?}
 {231}{}{Uh.}
@@ -238,7 +238,7 @@
 {769}{}{Would you like to come with me? We might be able to find your sister in the course of my travels.}
 {770}{}{I don't think I need to know anything else right now.}
 {771}{slk45}{The tribe's home is next to Great Salt Water. Two moons from here, fren.}
-{772}{}{Let me ask you something else.}
+{772}{}{Deixe-me perguntar-lhe algo mais.}
 {773}{}{Two moons? That's a long ways. How did you travel so far safely?}
 {774}{}{That's all I need for now. Goodbye.}
 {775}{slk46}{Geckos. The little dudes don't bite hard. It's the Goldens. They go through your leg like an
@@ -247,7 +247,7 @@
  peep him, get pretty hot.}
 {777}{}{Vic's here but I don't think he knows much about slaves. Other than being held as one in the
  Den, that is. Tell me something else.}
-{778}{}{Bye.}
+{778}{}{Adeus.}
 {779}{slk48a}{Slavers got our sis. Thought Vic be having information. Couldn't peep him, got p.o.'d, drank
  like a fish. Spirits of Anger and Chaos pop out and now we have to pay some coin to make it right.}
 {780}{slk48b}{We be trying to know which way to go to find slavers who take sis. Maybe south.}
@@ -268,7 +268,7 @@
  the rest. Let's ease on down.}
 {795}{}{Uh, yeah. OK, Sulik.}
 {796}{slk54}{What can we and I do ya for?}
-{797}{}{I have some questions for you.}
+{797}{}{Eu tenho algumas perguntas para você.}
 {798}{}{Where can I find trade, a healer, or a room?}
 {799}{}{Ever hear of a Garden of Eden Creation Kit?}
 {800}{}{What's going on in town?}
@@ -346,7 +346,7 @@
 {892}{}{I want you to use your best weapon.}
 {893}{}{I want you to use your best armor.}
 {894}{}{I want you to change your aggressiveness.}
-{895}{}{Never mind.}
+{895}{}{Não importa.}
 {900}{slk67}{What distance you need us at?}
 {901}{}{I want you to stay at only a Short distance.}
 {902}{}{I want you to stay at Medium distance.}
@@ -446,8 +446,8 @@
 {3006}{}{To the rising sun.}
 {3007}{}{To the Northeast.}
 {3008}{}{We don't know anything about that.}
-{3009}{}{Yes.}
-{3010}{}{No.}
+{3009}{}{Sim.}
+{3010}{}{Não.}
 {3011}{}{What do you expect from us?}
 {3012}{}{That not be nice.}
 {3013}{}{Thank-you.}
@@ -488,7 +488,7 @@
  your home so soon.}
 {3057}{slk89}{Good to see home, but not while sis is still gone. Be wanting to stay in your
  company, OK?}
-{3058}{}{Yes.}
+{3058}{}{Sim.}
 {3059}{}{No, I think it's time you looked for her yourself.}
 {3060}{slk90}{Maybe so. We and I miss you, though. Good spirits be with you, fren.}
 {3061}{}{Thanks, Sulik. Goodbye. [Sulik hands you his gear.]}
@@ -512,7 +512,7 @@
 {3088}{}{Thanks again for everything fren.}
 {3090}{}{This here be our village. We and I go speak with our friends.}
 {3091}{}{We and I go speak with our friends again before headin out.}
-{3100}{}{[MORE]}
+{3100}{}{[MAIS]}
 {3101}{}{Where exactly is your tribe, Sulik?}
 {3102}{}{Thanks. Let me ask you something else.}
 {3103}{}{You too, Sulik. Take care of yourself.}

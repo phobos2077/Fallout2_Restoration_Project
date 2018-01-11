@@ -32,7 +32,7 @@
 {280}{}{Shoot. What d'you want to know?}
 {281}{}{Fooooooo foo foo fooooo}
 {282}{}{Wander off}
-{283}{}{Who are you?}
+{283}{}{Quem é você?}
 {284}{}{What casino is this?}
 {285}{}{Can you tell me a little about the casino?}
 {286}{}{You know somebody named Pretty Boy Lloyd?}
@@ -75,7 +75,7 @@
 {341}{}{What can I do for you, hon?}
 {342}{}{Fooooooo foo foo fooooo}
 {343}{}{Wander off}
-{344}{}{Who are you?}
+{344}{}{Quem é você?}
 {345}{}{What casino is this?}
 {346}{}{Can you tell me a little about the casino?}
 {347}{}{You know somebody named Pretty Boy Lloyd?}
@@ -87,14 +87,14 @@
 {353}{}{Just checking on things. Carry on.}
 {355}{}{The }
 {356}{}{The }
-{357}{}{Who are you?}
+{357}{}{Quem é você?}
 {358}{}{Can you tell me a little about the casino?}
 {359}{}{I see. Thanks for your time.}
 {360}{}{Hey, look who's here! Hey, }
 {361}{}{. Welcome to }
 {362}{}{Fooooooo foo foo fooooo}
 {363}{}{Wander off}
-{364}{}{Who are you?}
+{364}{}{Quem é você?}
 {365}{}{What casino is this?}
 {366}{}{Can you tell me a little about the casino?}
 {367}{}{You know somebody named Pretty Boy Lloyd?}
@@ -131,7 +131,7 @@
 {445}{}{[You count up the evening's chips. Not a bad haul.]}
 {446}{}{The leather was a nice touch. }
 {447}{}{That ball gag you had with you didn't hurt, either. }
-{448}{}{[CONTINUE]}
+{448}{}{[CONTINUAR]}
 {455}{}{Yeah, he stinks worse than brahmin shit. Still, you…? Aw, why the hell not. A little improv ain't gonna hurt, but
  it's a rough crowd…better hope you're good.}
 {456}{}{Oh, I'm good…just watch me go.}
@@ -180,12 +180,12 @@
 {1306}{}{. Take a rest from saving the world and have some fun.}
 {1335}{}{This is the }
 {1336}{}{This is the }
-{1337}{}{Who are you?}
+{1337}{}{Quem é você?}
 {1338}{}{Can you tell me a little about the casino?}
 {1339}{}{Nothing, thanks. Sorry to bother you.}
 {1345}{}{Best goddamn casino in town…but I am a little biased. Anything else you want to know?}
 {1346}{}{Best goddamn casino in town, best goddamn tables…now why don't you run along now, check 'em out? All right?}
-{1347}{}{Who are you?}
+{1347}{}{Quem é você?}
 {1348}{}{Who owns this casino?}
 {1349}{}{Okay, thanks. Sorry to bother you.}
 {1355}{}{ Family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}

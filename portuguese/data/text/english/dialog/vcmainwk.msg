@@ -31,7 +31,7 @@
 {130}{}{I was looking for the Vault. Can you tell me where it is?}
 {131}{}{Actually, I was just leaving.}
 {132}{}{It's that big hole in the mountain to the east, past those two heavily-armed guards. Anything else you want to ask or can I get back to work?}
-{133}{}{What is this place?}
+{133}{}{O que é este lugar?}
 {134}{}{Watch it. I'm not in the mood for any bullshit today.}
 {135}{}{Thanks for the directions. Goodbye.}
 {136}{}{As if Vault City didn't have enough human brahmin... look, you CANT BE IN HERE, OKAY? You could HURT yourself! NOW GET OUT! GO!}
@@ -154,7 +154,7 @@
 {251}{}{I see you've picked up some tricks from my cheapskate father. Give me about an hour, and it'll be good to go...}
 {252}{}{All right, all right. You sound just like my cheapskate Dad. Give me about an hour, and it'll be good to go...}
 {253}{}{All right, give me about an hour, and it'll be good to go...}
-{254}{}{All right.}
+{254}{}{Tudo certo.}
 {255}{}{There you go. Anything else?}
 {256}{}{I had some other questions...}
 {257}{}{Can you upgrade anything else I have?}

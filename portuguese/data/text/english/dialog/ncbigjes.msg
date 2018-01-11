@@ -5,7 +5,7 @@
 {201}{}{That does not… belong to you.}
 {202}{}{Touch that again, and you shall… die on Golgotha.}
 {210}{}{::Wheeze::}
-{211}{}{*Cough* *Cough*}
+{211}{}{*Tosse* *Tosse*}
 {212}{}{::Wipes sweat from forehead.::}
 {220}{}{You are the… *cough*… most valued of my men.}
 {221}{}{Are the people of Reno showing you… *cough*… proper respect?}
@@ -21,7 +21,7 @@
 {245}{}{Stare back at him with a sneering gaze}
 {246}{}{Stare back at him with affected disinterest}
 {247}{}{Wander off}
-{248}{}{Who are you?}
+{248}{}{Quem é você?}
 {249}{}{Are you Jesus Mordino?}
 {250}{}{Sorry. I've entered the wrong room.}
 {260}{}{You. (Mordino glares at Myron as he enters, black lightning flashing in his eyes.) You have… left your post. Your USE
@@ -149,7 +149,7 @@
 {502}{}{Uh... just checking. About my payment...}
 {510}{}{I have no more... work for you. (Nods at the door.) I wish to be alone. Leave now... and do NOT return.}
 {511}{}{Aw, c'mon. There must be SOME other job that I could do...}
-{512}{}{Okay.}
+{512}{}{Tudo bem.}
 {520}{}{I… have more work for you. I need someone… (He takes a deep wheezing breath, then wipes sweat from his forehead.) … to collect
  my percentage from the... Corsican Brothers. They are LATE in their payments.}
 {523}{}{I think I'll pass. Thanks anyway.}
@@ -162,7 +162,7 @@
 {543}{}{Oh. Guess I misheard.}
 {551}{}{Uh... yes, but I don't have the money on me. Just give me some time, and I'll return it to you.}
 {552}{}{Yes, here is the money.}
-{553}{}{No, not yet.}
+{553}{}{Não, ainda não.}
 {554}{}{No, uh, I'll go take care of it now.}
 {560}{}{Then... why are you here? (He wipes his forehead, then takes a deep breath.) WHY do you not have the money?}
 {561}{}{Well, you see, I had some questions first...}
@@ -204,7 +204,7 @@
 {640}{}{(Nods.) That is good. The man is old... a cripple... he hides in his bar, "Salvatore's," near the Bishop Casino.
  He is a... coward and never leaves his room upstairs. When he is... dead, return.}
 {641}{}{Cripple?}
-{642}{}{All right.}
+{642}{}{Tudo certo.}
 {650}{}{(Nods.) The butcher's legs... are weak. (Jesus wipes his forehead, then draws another weak breath.)
  He also has... difficulty... breathing. He takes air through an... oxygen tank.}
 {651}{}{Oxygen tank, huh? Hmmmm. All right.}
@@ -219,7 +219,7 @@
 {672}{}{Try anything, and you'll be joining the Mordinos that the Salvatores butchered.}
 {680}{}{So I have heard. (Nods respectfully.) You have done... well. My faith in you is not misplaced. Here is... your
  payment. Five hundred... chips. }
-{681}{}{Thanks.}
+{681}{}{Obrigado.}
 {682}{}{That'll do... for now.}
 {683}{}{And... armor and a weapon you may find... useful.}
 {690}{}{(Nods.) Your success... pleases me. I would welcome you into the Family Mordino. (Clasps your shoulders.) Will

@@ -27,9 +27,9 @@
  somewhere else and find a different job. Otherwise you'll never be able to move on.}
 {240}{}{Yes. Yes, this is what I should have done long ago. It is the only way to retain what little honor I have left.
  Thank you, lao wai. [He takes out a knife and slits his throat. You watch as he quickly bleeds to death.]}
-{241}{}{[DONE]}
+{241}{}{[FEITO]}
 {250}{}{Yes. This I warned you about. Now, let me be. I have nothing else to say to you.}
-{251}{}{[DONE]}
+{251}{}{[FEITO]}
 {260}{}{Perhaps you are right. All my life, I've known nothing but the Shi. But there is nothing left here for me but sorrow.
  Yes, I think I shall venture out into the world and forge a new destiny. Even if the wastes offer me nothing but a swift
  death, that is preferable to remaining here. Thank you, lao wai.}

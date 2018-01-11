@@ -86,22 +86,22 @@
 {185}{}{Sure thing, boss. See ya.}
 {186}{}{I'd rather not.}
 {187}{}{I was not aware I had made it a request, child. Kill him!}
-{188}{}{No.}
+{188}{}{Não.}
 {189}{}{Oh, all right. I'll do it.}
 {190}{}{You disobey the commands of AHS-9, the Great and Terrible? Then you shall die.}
 {191}{}{Bring it on.}
 {192}{}{Wait, I changed my mind.}
 {193}{}{Too late, meat. You have shown you cannot be trusted. Die!}
-{194}{}{[DONE]}
+{194}{}{[FEITO]}
 {195}{}{Child, there are some things you are not meant to know for now. [He smiles benignly.]}
 {196}{}{All right. I have more questions.}
 {197}{}{Hm. Bye.}
 {198}{}{The ESS Quetzel will launch when the stars are right. }
 {199}{}{Right-o. I have more questions.}
-{200}{}{Thanks. Bye.}
+{200}{}{Obrigado. Tchau.}
 {201}{}{Your enburgled aura tells me that you come here meaning me no good. Tell me, child, do you wish to profit from your venture?}
-{202}{}{Yes.}
-{203}{}{No.}
+{202}{}{Sim.}
+{203}{}{Não.}
 {204}{}{No, I just want you to die.}
 {205}{}{This, then, is my bargain: return to the Shi and eliminate Ken Lee and the Emperor. I will repay you with more money than you have ever dreamed.}
 {206}{}{No, I don't think so.}

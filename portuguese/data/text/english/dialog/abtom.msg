@@ -1,59 +1,59 @@
-{100}{}{You see a hunched over old man.}
-{101}{}{The decrepit old man reeks of sweat and possibly urine. He's garbed in tattered, muddy rags, and is carrying a shovel.}
-{102}{}{You see Tom.}
-{200}{}{[The old man jolts with surprise when he sees you approach.] Uh, look, I really must be going...}
-{201}{}{Now you hold on a minute. [You grab the man by the arm as he begins to walk away.] Who are you, and what are you
- doing here at this hour?}
-{202}{}{What? Why, uh...the name's Tom and can't an old man enjoy a nightly stroll anymore without getting asked a bunch of
- questions?}
-{203}{}{Not when he's slinking around like a thief and carrying a shovel.}
-{204}{}{Alright fine, but why are you carrying a shovel?}
-{205}{}{Whatever, I'm out of here.}
-{206}{}{Nevermind. Sorry to bother you.}
-{207}{}{You mean this ol' thing? [He glances down at the rusty shovel in his hands.] Well, uh, you never know when you
- might find something that needs digging up. Always be prepared I say.}
-{208}{}{Find something, eh? You mean like something in a grave?}
-{209}{}{That's a good motto indeed. Well, take care.}
-{210}{}{(Tom's eyes widen) I'm not quite sure what you, uh, mean.}
-{211}{}{Tom, you're in a graveyard, you've got mud all over you, and it's past midnight. Why, even Torr could draw a
- conclusion from this. It's time to start giving me some answers, Tom. Why are you digging up these graves?}
-{212}{}{[He puts down the shovel and sighs.] Alright, I'll tell you. My body ain't what it used to be. I've got no job,
- and no real means to get food. I know grave diggin ain't something that folks smile upon, but it's been a way for me to
- bring in some money. I'm just trying to survive...I don't mean no harm.}
-{213}{}{I don't think that digging graves is a good thing for a man in your condition. Tell you what. You just mosey on
- out of here and we'll forget that this conversation ever happened. I never want to see your face again though, Okay?}
-{214}{}{[The old man looks like he's about to protest, then stops.] Alright, you win. You've seen the last of poor old Tom.
- [He picks up his shovel and shuffles away.]}
-{215}{}{On second thought, maybe it would be better for the world if I kill you.}
-{216}{}{Goodbye Tom.}
-{217}{}{I heard you've also been stealing crops from the farmer here.}
-{218}{}{[The old man fidgets uncomfortably.] I couldn't help it! I was just so hungry and the food looked so good. Please,
- I don't mean any trouble. Look, I'll just go away and you won't see me here again. I promise!}
-{219}{}{Alright, get going then. Before I change my mind.}
-{220}{}{Wait, no need for any of that. The Petersons own the farm here and they're extremely nice people. Mr. Peterson
- even offered to talk with whoever was taking his crops and come to a reasonable agreement. Go talk with him.
- I'm sure he can help you out somehow.}
-{221}{}{(The old man's eyes light up.) That doesn't sound like a bad idea at all. Hey, thanks. Maybe this world aint as
- cruel as I thought it was.}
-{222}{}{You take care then, Tom. I'll check with you later and see how things are going.}
-{223}{}{I sure hope that Peterson fella is as friendly as you say he is.}
-{300}{}{You see Tom. He's wearing new worker's clothing and whistling cheerfully.}
-{301}{}{Hey there! Wow, you were right. That Mr. Peterson is one kindly fella. He forgave me for what I did and even
- offered me a job helping out in the field. He says once I pay off the food I've taken, then I'll start making a
- weekly salary. Thanks again for your trouble.}
-{302}{}{You're welcome, Tom. You take care of yourself now.}
-{303}{}{Alright I wi- Oh, wait a second. I want to give you something for helping an old fella like me out. I found this
- lighter on some lad I dug up a couple weeks ago. I have no use for it and hopefully you might.}
-{304}{}{Thanks, Tom. I'm sure this'll come in handy. See you around.}
-{305}{}{(The old man nods and goes back to what he was doing.)}
-{306}{}{[END]}
-{307}{}{Hello again. Thanks for everything!}
-{308}{}{*Whistle*}
-{400}{}{You youngins never learn. You aint the boss of me. I think I'll just kill you instead.}
-{450}{}{Listen, I've dug up my share of graves too. I'm a bit of a kleptomaniac. What's your reason?}
-{451}{}{I'm not unfamiliar to grave digging, Tom. Every man has his own enjoyment. Now you be on your way.}
-{1000}{}{You figure out who is digging up the graves and set Tom towards a new life.}
-{1001}{}{You figure out who is digging up the graves.}
-{1002}{}{I'm going. No need to rush an old man.}
-{1003}{}{You see Tom. He's got a smile on his face and he's wearing new worker's clothing.}
-{1004}{}{He seems to be in much better condition and he smiles when you approach.}
+{100}{}{Você vê um velho curvado.}
+{101}{}{O homem decrépito cheira a suor e possivelmente urina. Ele está vestido com trapos esfarrapados e enlameados e está carregando uma pá.}
+{102}{}{Você vê Tom.}
+{200}{}{[O velho sacode de surpresa quando ele vê que você se aproxima.] Uh, olha, eu realmente devo ir ...}
+{201}{}{Agora você aguenta um minuto. [Você pega o homem pelo braço quando ele começa a se afastar.] Quem é você e o que você é?
+  o que faz aqui a esta hora?}
+{202}{}{O que? Por que, uh ... o nome é Tom e não pode um ancião desfrutar mais um passeio noturno sem responder um monte de
+  questões?}
+{203}{}{Não quando ele está passando como um ladrão e carregando uma pá.}
+{204}{}{Tudo bem, mas por que você está carregando uma pá?}
+{205}{}{Seja como for, estou saindo daqui.}
+{206}{}{Deixa pra lá. Desculpe incomodá-lo.
+}
+{207}{}{Você quer dizer esta coisa? [Ele olha para a pá enferrujada em suas mãos.] Bem, uh, você nunca sabe quando você
+  pode encontrar algo que precisa desenterrar. Sempre esteja preparado, eu digo.}
+{208}{}{Encontrar alguma coisa, hein? Você quer dizer como algo em uma sepultura?}
+{209}{}{Isso é um bom lema de fato. Bem, tome cuidado.}
+{210}{}{(Os olhos de Tom se ampliam) Não tenho certeza do que você, uh, quer dizer.}
+{211}{}{Tom, você está em um cemitério, você tem lama em cima de você, e já passa da meia-noite. Por que, mesmo Torr poderia desenhar uma conclusão a partir disso. É hora de começar a dar-me algumas respostas, Tom. Por que você iria desenterrar esses túmulos?}
+{212}{}{[Ele coloca a pá e suspira.] Tudo bem, eu vou te contar. Meu corpo não é o que costumava ser. Não tenho trabalho,
+  e nenhum meio real para obter comida. Eu sei que um ladrão de tumba não é algo que as pessoas admirem, mas tem sido uma maneira para mim
+  conseguir algum dinheiro. Estou apenas tentando sobreviver ... Não quero fazer nenhum mal.}
+{213}{}{Eu não acho que cavar túmulos é bom para um homem em sua condição. Dizer-te o que. Você estária morto
+  fora daqui e vamos esquecer que essa conversa já aconteceu. Eu nunca mais quero ver o seu rosto, ok?}
+{214}{}{[O velho parece que ele está prestes a protestar, então pára.] Tudo bem, você ganhou. Você viu a última do velho e pobre Tom.
+  [Ele pega sua pá e alegra-se.]}
+{215}{}{Pensando bem, talvez seja melhor para o mundo se eu te matar.}
+{216}{}{Adeus Tom.}
+{217}{}{Eu ouvi dizer que você também já foi roubar culturas do agricultor aqui.}
+{218}{}{[O velho se agacha inconformadamente.] Eu não pude evitar! Eu estava com tanta fome e a comida parecia tão boa. Por favor,
+  Não quero criar nenhum problema. Olha, vou embora e você não vai me ver aqui novamente. Eu prometo!}
+{219}{}{Tudo bem, continue. Antes de mudar de ideia.}
+{220}{}{Aguarde, não precisa de nada disso. Os Peterson são proprietários da fazenda aqui e são pessoas extremamente agradáveis. Sr. Peterson
+  até se ofereceu para conversar com quem estava tomando suas colheitas e chegar a um acordo razoável. Vá falar com ele.
+  Tenho certeza de que ele pode ajudá-lo de alguma forma.}
+{221}{}{(Os olhos do homem velho se acendem.) Isso não soa como uma má idéia. Ei, obrigado. Talvez este mundo não seja tão
+  cruel como pensei que fosse.}
+{222}{}{Você tome cuidado em seguida, Tom. Vou verificar com você mais tarde e ver como as coisas estão indo.}
+{223}{}{Espero que Peterson seja tão amigável como você diz que ele é.}
+{300}{}{Você vê Tom. Ele está usando roupa de novo trabalhador e assobiando alegremente.}
+{301}{}{Olá! Uau, você estava certo. O Sr. Peterson é um amigo gentil. Ele me perdoou pelo que fiz e até mesmo
+  me ofereceu um trabalho ajudando no campo. Ele diz que depois de pagar as refeições que tomei, então vou começar a ganhar um
+  salário semanal. Obrigado novamente por sua ajuda.}
+{302}{}{De nada, Tom. Você cuida de si mesmo agora.}
+{303}{}{Tudo bem, eu sei, espere um segundo. Quero lhe dar algo por ajudar um velho amigo como eu. Eu achei isto
+  De um tumulo que eu tirei algumas semanas atrás. Eu não uso nada e espero que você possa.}
+{304}{}{Obrigado, Tom. Eu tenho certeza que isso vai vir a calhar. Vejo você por ai.}
+{305}{}{(O velho homem acena com a cabeça e volta para o que estava fazendo.)}
+{306}{}{[FIM]}
+{307}{}{Olá novamente. Obrigado por tudo!}
+{308}{}{*Assobio*}
+{400}{}{Vocês jovens nunca aprendem. Você não é meu chefe. Acho que vou acabar com você.}
+{450}{}{Escute, eu escavei a minha quota de sepulturas. Eu sou um pouco de um cleptomaníaco. Qual é o seu motivo?}
+{451}{}{Não estou familiarizado com a escavação de túmulos, Tom. Todo homem tem sua própria diversão. Agora você está no seu caminho.}
+{1000}{}{Você descobre quem está cavando os túmulos e preparou Tom para uma nova vida.}
+{1001}{}{Você descobre quem está cavando os túmulos.}
+{1002}{}{Estou indo. Não há necessidade de apressar um homem velho.}
+{1003}{}{Você vê Tom. Ele tem um sorriso no rosto e ele está vestindo roupas de novo trabalhador.}
+{1004}{}{Ele parece estar em muito melhor condição e sorri quando você se aproxima.}

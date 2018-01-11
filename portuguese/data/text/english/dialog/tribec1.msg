@@ -115,7 +115,7 @@
 {372}{}{Alright, but give me a moment to get ready.}
 {373}{}{Not interested. Bye.}
 {375}{}{Are you ready to go?}
-{376}{}{Not yet.}
+{376}{}{Ainda não.}
 {377}{}{Alright. Let's do this.}
 {380}{}{It's up to you to decide.}
 {390}{}{[Krom examines one of the tribe's newly acquired stimpaks.] These should prove to be quite useful. [He brings
@@ -165,7 +165,7 @@
 {462}{}{I was wondering if I could ask you a couple questions.}
 {463}{}{No, sorry, I thought this was a different tent. I'll be going now.}
 {464}{}{[[Smile seductively] Yeah, big guy. I need something, alright. [Wink.]}
-{470}{}{Of course.}
+{470}{}{Claro.}
 {471}{}{You look like you've been through a lot. I was wondering what your story is.}
 {472}{}{What could you tell me about this village?}
 {473}{}{Is there anything going on here I could help you with?}
@@ -237,16 +237,17 @@
 {831}{}{I found.}
 {832}{}{I still look.}
 {840}{}{[Krom quickly scrutinizes the weapons, then grins and pats you on the back.] You did a good job. Thank you. Now run along and stay out of trouble.}
-{841}{}{Bye!}
+{841}{}{Adeus!}
 {850}{}{[Krom ruffles your hair.] There's my special helper. You run along now and stay out of trouble.}
-{851}{}{Bye!}
+{851}{}{Adeus!}
 {860}{}{Come to press your luck, have you?}
 {861}{}{No, I've come to kick your ass.}
 {862}{}{No, I just wanted to apologize for offending you.}
 {863}{}{No, I was just leaving.}
 {870}{}{Ah, it seems I'm in a forgiving mood today, friend. Now what can I do for you?}
 {871}{}{I don't like being toyed with girl, but by the gods, how could I stay mad at a goddess like you? Now, what can I do for you?}
-{872}{}{Nevermind. Bye.}
+{872}{}{Deixa pra lá. Tchau.
+}
 {1000}{}{[The giant warrior nods respectfully to you.] Well, if it isn't the great hero of the wastes. That was a pretty
  impressive feat, sending them Enclave dogs to hell like that. In fact, hearing tales of your exploits has inspired me to
  head back out into the wastes myself.}

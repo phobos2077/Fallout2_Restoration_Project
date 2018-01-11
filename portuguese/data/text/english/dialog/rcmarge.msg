@@ -27,7 +27,7 @@
  would have kept the peace in town. What do you want?}
 {122}{}{You sure know how to spank a baby with an axe, don't you? Nobody needed to die over a bar-brawl.
  Just what the hell do you want from me, anyway?}
-{123}{}{Who are you?}
+{123}{}{Quem é você?}
 {124}{}{I wanted to ask you about something.}
 {125}{}{I was just walking past. I think I'll keep walking. Goodbye.}
 {126}{}{Hello there. I'm Marge. Marge LeBarge, and I run this mine.}
@@ -41,11 +41,11 @@
  and the New California Republic.}
 {134}{}{You send it all over the place?}
 {135}{}{Why did you call your mine Kokoweef?}
-{136}{}{Let me ask you something else.}
+{136}{}{Deixe-me perguntar-lhe algo mais.}
 {137}{}{I see. Thanks. That's all I need to know for now. Goodbye.}
 {138}{}{Sure do. Everyone likes gold. You should talk to the caravan master, James Hoffy, if you're real
  curious about it.}
-{139}{}{Let me ask you something else.}
+{139}{}{Deixe-me perguntar-lhe algo mais.}
 {140}{}{Thanks, I'll do that. Goodbye.}
 {141}{}{A Garden of Eden Creation Kit, huh? Sounds pretty impressive. If I had something like that you
  sure wouldn't find me grubbing around in the dirt to make ends meet, now would you?}

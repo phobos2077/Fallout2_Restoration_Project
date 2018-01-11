@@ -1,22 +1,22 @@
-{100}{}{You see a peasant.}
-{101}{}{You see a healthy looking peasant.}
-{102}{}{You see a person.}
-{103}{}{Drinking too much booze lately?}
-{104}{}{Stay away from the alcohol for a while.}
-{105}{}{I see that you drank Hank's "special" mix.}
-{106}{}{Welcome, hero!}
-{107}{}{You really showed those Enclave bastards!}
-{108}{}{You are truly a hero!}
-{109}{}{I've heard that you destroyed the Enclave, well done!}
-{110}{}{Hello.}
-{111}{}{I hope that it starts to rain soon, or my crops will not survive.}
-{112}{}{We don't get too many visitors here.}
-{113}{}{Welcome!}
-{114}{}{Yeah, I know. It's pretty boring here, but at least we're safe from raiders and such...}
-{115}{}{Hi, tribal.}
-{116}{}{It sure is a hot day today!}
-{117}{}{Good farming grounds here...}
-{118}{}{Have a nice day.}
-{119}{}{Welcome to the Abbey, wanderer!}
-{120}{}{Impressive monastery we have here, eh?}
-{200}{}{Get your freaking hands off me!}
+{100}{}{Você vê um camponês.}
+{101}{}{Você vê um camponês de aparência saudável.}
+{102}{}{Você ver uma pessoa.}
+{103}{}{Bebe muito álcool ultimamente?}
+{104}{}{Fique longe do álcool por um tempo.}
+{105}{}{Vejo que você bebeu a mistura "especial" de Hank.}
+{106}{}{Bem-vindo, herói!}
+{107}{}{Você realmente mostrou aqueles Enclave safados!}
+{108}{}{Você é verdadeiramente um herói!}
+{109}{}{Ouvi dizer que você destruiu o Enclave, bem feito!}
+{110}{}{Olá.}
+{111}{}{Espero que comece a chover em breve, ou as minhas culturas não sobreviverão.}
+{112}{}{Não temos muitos visitantes aqui.}
+{113}{}{Bem-vindo!}
+{114}{}{Sim, eu sei. É muito chato aqui, mas pelo menos estamos a salvo de invasores e tal...}
+{115}{}{Oi, tribal.}
+{116}{}{Com certeza é um dia quente hoje!}
+{117}{}{Boa agricultura aqui ...}
+{118}{}{Tenha um bom dia.}
+{119}{}{Bem-vindo ao mosteiro, vagabundo!}
+{120}{}{Impressionante mosteiro temos aqui, hein?}
+{200}{}{Tire suas mãos sujas de mim!}

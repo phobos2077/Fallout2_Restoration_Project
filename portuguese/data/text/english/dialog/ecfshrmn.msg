@@ -1,6 +1,6 @@
 {100}{}{You see a Fisherman.}
 {101}{}{You are just in time to witness the blessings of the Goddess of the Sea.}
-{102}{}{[MORE]}
+{102}{}{[MAIS]}
 {103}{}{}
 {104}{}{Just before a big storm we hurl spears into the sea to show our bravery against the elements.
  If we have proven ourselves worthy, the Goddess rewards us with fruit.}
@@ -21,7 +21,7 @@
 {114}{}{Fruit [$5]}
 {115}{}{Xander [$20]}
 {116}{}{Broc [$10]}
-{117}{}{Bye.}
+{117}{}{Adeus.}
 {118}{}{[He points you in the direction of the sea.] Just keep walking. The Goddess wishes to meet you
  personally.}
 {119}{}{[End]}

@@ -6,7 +6,7 @@
 {105}{}{No, me come back later.}
 {106}{}{Very well. I have to live with you grunts so I might as well make
  an effort to get along with you.}
-{107}{}{What do you want to know?}
+{107}{}{O que você quer saber?}
 {108}{}{Who you?}
 {109}{}{What you do?}
 {110}{}{What this place?}
@@ -14,9 +14,9 @@
 {112}{}{Why D'claw in other room?}
 {113}{}{Why doggie by door no move? No nothing?}
 {114}{}{Me got go now.}
-{115}{}{Who are you?}
+{115}{}{Quem é você?}
 {116}{}{What do you do here?}
-{117}{}{What is this place?}
+{117}{}{O que é este lugar?}
 {118}{}{Why is this room soundproofed?}
 {119}{}{Why is there a deathclaw in the other room?}
 {120}{}{What's with the dog statue by the door?}
@@ -24,7 +24,7 @@
 {122}{}{My name is Schreber, Dr. Schreber. I'm the base physician among
  other things. Don't bother with your name, soldier. All of you grunts look
  the same in that armor of yours.}
-{123}{}{Okay.}
+{123}{}{Tudo bem.}
 {124}{}{Got it.}
 {125}{}{I work as the base physician but that's just a sideline. Actually,
  I'm a geneticist.}
@@ -48,7 +48,7 @@
  subjects. Sometimes they get a little vocal. The base commander found
  this to be disturbing so he had the soundproofing installed.}
 {136}{}{Oh...}
-{137}{}{I see.}
+{137}{}{Eu vejo.}
 {138}{}{Big, brown, and ugly? It's an experiment that I've recently
  completed. It's scheduled for termination.}
 {139}{}{What termination mean?}
@@ -115,13 +115,13 @@
  distasteful thing I do.}
 {180}{}{Oh...}
 {181}{}{He be fixed?}
-{182}{}{I see.}
+{182}{}{Eu vejo.}
 {183}{}{Can he be fixed?}
 {184}{}{Oh yes. I removed his motivator circuit and gave it to
  Raul up in maintenance. It could always be put back in... Maybe
  I'll do that someday just to see if he's changed his attitude.}
-{185}{}{Okay.}
-{186}{}{All right.}
+{185}{}{Tudo bem.}
+{186}{}{Tudo certo.}
 {187}{}{Are you a civilian?}
 {188}{}{This is the med lab. The armory is down the hall on your left.}
 {189}{}{Why are you out of uniform?}
@@ -134,7 +134,7 @@
 {196}{}{I'm not a hostile, don't shoot me.}
 {197}{}{I didn't sign up for combat, so leave me alone.}
 {198}{}{Damn it! I'm a doctor not a soldier!}
-{200}{}{[MORE]}
+{200}{}{[MAIS]}
 {201}{}{I wanted to ask you some questions.}
 {202}{}{Not right now. Sorry to bother you.}
 {800}{}{You killed Doctor Schreber.}

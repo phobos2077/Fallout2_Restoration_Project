@@ -1,105 +1,106 @@
-{100}{}{You see a small computer terminal.}
-{101}{}{You see the Abbey's computer terminal.}
-{102}{}{You see a small computer terminal. It appears to be functional.}
-{103}{}{You access the computer and scan all available files. You find some files containing the keywords "GECK" and "Vault".}
-{104}{}{Read GECK info.}
-{105}{}{Read Vault info.}
-{106}{}{ERROR! access card not found. Please, insert access card into encryption slot.}
-{107}{}{(You insert the access card into the slot) BEEP!, access card accepted. LOADING Winblows 2075......DONE.}
-{108}{}{Input command.}
-{109}{}{Scan files for any information about GECK or VAULT 13.}
-{110}{}{Access other files.}
-{111}{}{Play Rock Paper Scissors.}
-{112}{}{Back.}
-{113}{}{Logoff.}
-{114}{}{[CONTINUE]}
-{115}{}{You find some files containing the keywords "GECK" and "Vault".}
-{116}{}{Browse files pertaining to "GECK".}
-{117}{}{Browse files pertaining to "Vault".}
-{118}{}{The search program seems to be a little too difficult for you.}
-{119}{}{Your eyes widen and your heart quickens as you discover what appears to be an old advertisement for a Garden of Eden
- Creation Kit. The ad depicts a grinning cartoon guy in a vault suit holding up a large case that says, "Survival Kit". It's
- almost as if the smiling bastard is taunting you.}
-{120}{}{You browse over the files, which contain mostly government propaganda for how amazing life in the Vaults would be.
- You learn that in the mid-21st century, the US government commissioned Vault-Tec to construct 122 Vaults across the United States.
- These Vaults were meant to serve as shelters for up to 1,000 US citizens in the event of a nuclear holocaust. Within the safe confines
- of the underground Vaults, the Vault Dwellers could live out a luxurious existence as they await the signal informing them that the
- surface world is once again inhabitable.}
-{121}{}{As you search through the system you find hundreds of digitized books and magazines categorized on the hard drive. You
- wouldn't even know where to begin searching for something of use.}
-{122}{}{As you search through the system you find hundreds of digitized books and magazines categorized on the hard drive. Since
- you are skilled in how information is usually stored, perhaps searching by topic would yield something of use.}
-{123}{}{[MORE]}
-{124}{}{According to the ad, the kit includes a "Base Replicator Unit", which "replicates food and basic items needed for building
- your new world", a "Holodisc Reader with Library", which "includes selections from the Library of Congress, complete set of encyclopedias,
- and other life saving information, all contained on four-hundred and sixty handy holodiscs!" and it even contains a "Miniature Pen Flashlight!"
- Surely, this miracle device is exactly what you need to save your dying village.}
-{125}{}{Read more.}
-{126}{}{You continue browsing the files, but the only mention you find of Vault 13, simply states that it's located in California,
- which doesn't help you much.}
-{130}{}{Add information.}
-{131}{}{[You have nothing to add.] Back.}
-{132}{}{Input Botony information.}
-{133}{}{Input [Blah] information.}
-{140}{}{Read Help/About file.}
-{141}{}{Congratulations on successfully installing Winblows 2075! This version is the most advanced Winblows version to date.
- With the probability of only one crash per million function calls confirmed, our technicians are confident that Winblows is perfect
- for any corporate environment. The newest addition to Winblows 2075 is an improved and tweaked code base which now only wastes 15%
- of your CPU cycles on background administration as opposed to previous versions which would waste up to 25% of your CPU cycles.
- Of course, much user consideration has been put into this latest release. As with previous versions of Winblows, the common
- commands of Search, Add, Move, Delete, and Format are available to the user.}
-{142}{}{Format file system, including all backup databases on host and networked machines.}
-{143}{}{Back.}
-{144}{}{Formatting backup database...SUCCESS...Formatting current file system...WAITING...Warning: There has been a catastrophic error.
- Please stand by...}
-{145}{}{Wait.}
-{146}{}{...System Error: The operation completed successfully...(A screeching sound begins to emanate from inside the computer and others nearby.}
-{147}{}{[Walk Away.]}
-{148}{}{Error: No keyboard found. Please press any key to reboot.}
-{150}{}{Uploading Environmental Protection Agency Botany information disk...Upload complete. Have a nice day.}
-{200}{}{Rock, Paper, Scissors V.0.3. Select an option.}
-{201}{}{Select ROCK.}
-{202}{}{Select PAPER.}
-{203}{}{Select SCISSORS.}
-{204}{}{Return to main menu.}
-{205}{}{Terminal makes selection.....Calculating.....Terminal wins!}
-{206}{}{Terminal makes selection.....Calculating.....User wins!}
-{207}{}{Terminal makes selection.....Calculating.....Draw!}
-{300}{}{(The computer screen shows various color patterns.)}
-{301}{}{Ohhh! Pretty colors.}
-{302}{}{Shamble off.}
-{400}{}{Read more.}
-{401}{}{Return to menu.}
-{402}{}{Search by topic.}
-{403}{}{Please enter a topic to search for.}
-{404}{}{Science.}
-{405}{}{Repair.}
-{406}{}{Medicine.}
-{407}{}{Weapon Usage.}
-{408}{}{Persuasive Arguments.}
-{410}{}{After a few hours of reading you learn more about the art of science.}
-{411}{}{After a few hours of reading you learn more about the art of repairing machines.}
-{412}{}{After a few hours of reading you learn more about the art of medicine.}
-{413}{}{After a few hours of reading you learn more about the art of defending oneself with a weapon.}
-{414}{}{After a few hours of reading you learn more about the art of persuasion.}
-{420}{}{After a few hours of reading you learn nothing new about the art of science.}
-{421}{}{After a few hours of reading you learn nothing new about the art of repairing machines.}
-{422}{}{After a few hours of reading you learn nothing new about the art of medicine.}
-{423}{}{After a few hours of reading you learn nothing new about the art of firing a gun.}
-{424}{}{After a few hours of reading you learn nothing new about the art of persuasion.}
-{430}{}{Back.}
-{500}{}{As you read over more articles, you learn the GECK was developed by Future-Tec, a division of Vault-Tec, and that
- it was standard issue in all Vault-Tec vaults. It was meant to be used upon exiting a Vault, to help re-establish life in
- the harsh environments of a world devastated by nuclear war.}
-{501}{}{Upon further reading, you discover the GECK isn't quite the miracle device the ad made it out to be. The "Base Replicator"
- is actually nothing more than a fertilizer system containing food seeds, soil supplements, and chemicals specifically engineered to
- turn arid wasteland into fertile soil. Its claim that it can "build basic items" actually alludes to new codes it provides for the
- Vault's machines, allowing them to create new items from the dispensers. The GECK also contains schematics for basic force fields
- and the construction of "sand-crete" walls and buildings.}
-{502}{}{[MORE]}
-{503}{}{It seems the GECK itself is meant to be disassembled over the course of its use. You read an example of how its cold fusion
- power source is intended be used for main city power production. The GECK even contains instructions on disassembling sections of the
- Vault to create homes and defensive structures for the new community. As you finish reading over the files, you decide that even though
- it's not the magical device the Elder seems to think it is, finding a GECK is still your best option if you hope to save your tribe.}
-{1000}{}{You upload the EPA Botany Holodisk.}
-{2000}{}{You format the Abbey's book databases.}
+{100}{}{Você vê um pequeno terminal de computador.}
+{101}{}{Você vê o terminal do computador da Abadia.}
+{102}{}{Você verá um pequeno terminal de computador. Parece ser funcional.}
+{103}{}{Você acessa o computador e verifica todos os arquivos disponíveis. Você encontra alguns arquivos contendo as palavras-chave "GECK" e "Vault".}
+{104}{}{Leia GECK informações.}
+{105}{}{Leia informações do Vault.}
+{106}{}{ERRO! cartão de acesso não encontrado. Por favor, insira o cartão de acesso no slot de criptografia.}
+{107}{}{(Você insere o cartão de acesso no slot) BEEP !, cartão de acesso aceito. LOADING Winblows 2075 ...... FEITO.}
+{108}{}{Entrada do comando.}
+{109}{}{Verificação de arquivos para qualquer informação sobre o GECK ou VAULT 13.}
+{110}{}{Acesso a outros arquivos.}
+{111}{}{Jogar Pedra Papel Tesoura.}
+{112}{}{Voltar.}
+{113}{}{Fim de sessão.}
+{114}{}{[CONTINUAR]}
+{115}{}{Você pode encontrar alguns arquivos que contêm as palavras-chave "GECK" e "Vault".}
+{116}{}{Procurar arquivos pertencentes a "GECK".}
+{117}{}{Procurar arquivos pertencentes a "Vault".}
+{118}{}{O programa de pesquisa parece ser um pouco difícil para você.}
+{119}{}{Seus olhos se expandem e seu coração se acelera quando você descobre o que parece ser um anúncio antigo para um Kit de Criação do Jardim do Éden. 
+O anúncio retrata um cara de desenhos animados sorridente em um terno de Vault segurando um grande caso que diz, "Survival Kit". Está
+  quase como se o bastardo sorridente estivesse zombando de você.}
+{120}{}{Você navega sobre os arquivos, que contêm principalmente propaganda do governo para a forma como a vida maravilhosa nos Vaults seria.
+  Você aprendeu que em meados do século 21, o governo dos EUA encomendou a Vault-Tec para construir 122 Vaults em todo os Estados Unidos.
+  Essas bóias deveriam servir de abrigo para até 1.000 cidadãos dos EUA no caso de um holocausto nuclear. Dentro dos limites seguros
+  dos Vaults subterrâneos, os Moradores do Vault podiam viver uma existência luxuosa enquanto esperavam o sinal informando-os de que a
+  O mundo da superfície é mais uma vez habitável.}
+{121}{}{Ao pesquisar pelo sistema, você encontra centenas de livros e revistas digitalizados categorizados no disco rígido. Você
+  nem saberia por onde começar a procurar algo de uso.}
+{122}{}{Ao pesquisar pelo sistema, você encontra centenas de livros e revistas digitalizados categorizados no disco rígido. Desde já
+  Você é habilidoso em como as informações geralmente são armazenadas, talvez a pesquisa por tópico produza algo de uso.}
+{123}{}{[MAIS]}
+{124}{}{De acordo com o anúncio, o kit inclui uma "Unidade de Replicador Base", que "replica alimentos e itens básicos necessários para a construção
+  do seu novo mundo ", um" Holodisc Reader with Library ", que" inclui seleções da Biblioteca do Congresso, conjunto completo de enciclopédias,
+  e outras informações que salvam vidas, todas contidas em quatrocentos e sessenta holodiscs úteis! "e até contém uma" lanterna de caneta miniatura "!
+  Certamente, esse dispositivo milagroso é exatamente o que você precisa para salvar sua vila moribunda.}
+{125}{}{Ler mais.}
+{126}{}{Você continua navegando nos arquivos, mas a única menção que você encontra do Vault 13, simplesmente afirma que está localizado na Califórnia,
+  o que não ajuda muito.}
+{130}{}{Adicionar informações.}
+{131}{}{[Você não tem nada para adicionar.] Para trás.}
+{132}{}{Entrada Botony informações.}
+{133}{}{Insira informações [Blah].}
+{140}{}{Leia o arquivo de Ajuda / Sobre.}
+{141}{}{Parabéns pela instalação do Winblows 2075 com sucesso! Esta versão é a versão mais avançada do Winblows até à data.
+  Com a probabilidade de apenas uma falha por milhão de chamadas de função confirmadas, nossos técnicos estão confiantes de que Winblows é perfeito
+  para qualquer ambiente corporativo. A adição mais recente ao Winblows 2075 é uma base de código melhorada e ajustada que agora só desperdiça 15%
+  dos seus ciclos de CPU na administração em segundo plano, em oposição às versões anteriores, que desperdiçariam até 25% de seus ciclos de CPU.
+  Claro, muita consideração do usuário foi colocada nesta última versão. Tal como acontece com versões anteriores do Winblows, o comum
+  Os comandos de Pesquisar, Adicionar, Mover, Excluir e Formato estão disponíveis para o usuário.}
+{142}{}{Formatação de sistema de arquivo, incluindo todos os bancos de dados de backup no host e as máquinas da rede.}
+{143}{}{Voltar.}
+{144}{}{Formatação backup de banco de dados...SUCESSO...a Formatação do sistema de arquivos atual...ESPERA...Aviso: Não foi um erro grave.
+Por favor stand by...}
+{145}{}{Esperar.}
+{146}{}{... Erro do sistema: a operação foi concluída com sucesso ... (Um som gritante começa a emanar do interior do computador e de outros próximos.}
+{147}{}{[Ir embora.]
+}
+{148}{}{Erro: Teclado Não encontrado. Por favor, pressione qualquer tecla para reinicializar.}
+{150}{}{Carregando Agência de Proteção Ambiental Botânica informações do disco...Upload completo. Tenha um bom dia.}
+{200}{}{Pedra, Papel, Tesoura V. 0.3. Selecione uma opção.}
+{201}{}{Selecione ROCK.}
+{202}{}{Selecione o PAPEL.}
+{203}{}{Selecione uma TESOURA.}
+{204}{}{Voltar para o menu principal.}
+{205}{}{O terminal faz a seleção ... Calculando ..... Terminal ganha!}
+{206}{}{O Terminal faz a selecção.....Cálculo.....Usuário ganha!}
+{207}{}{O Terminal faz a selecção.....Cálculo.....Desenhar!}
+{300}{}{(A tela do computador mostra vários padrões de cores.)}
+{301}{}{Ohhh! Cores bonitas.}
+{302}{}{Desliga.}
+{400}{}{Ler mais.}
+{401}{}{Voltar ao menu.}
+{402}{}{Pesquisar por tópico.}
+{403}{}{Por favor insira um assunto para pesquisar.}
+{404}{}{Ciência.}
+{405}{}{Reparo.}
+{406}{}{Medicina.}
+{407}{}{Uso Da Arma.}
+{408}{}{Os Argumentos De Persuasão.}
+{410}{}{Depois de algumas horas de leitura, você aprende mais sobre a arte da ciência.}
+{411}{}{Depois de algumas horas de leitura você aprender mais sobre a arte de reparo de máquinas.}
+{412}{}{Depois de algumas horas de leitura você aprender mais sobre a arte da medicina.}
+{413}{}{Depois de algumas horas de leitura você aprender mais sobre a arte de defender-se com uma arma.}
+{414}{}{Depois de algumas horas de leitura você aprender mais sobre a arte da persuasão.}
+{420}{}{Depois de algumas horas de leitura você aprende nada de novo sobre a arte da ciência.}
+{421}{}{Depois de algumas horas de leitura você aprende nada de novo sobre a arte de reparo de máquinas.}
+{422}{}{Depois de algumas horas de leitura você aprende nada de novo sobre a arte da medicina.}
+{423}{}{Depois de algumas horas de leitura você aprende nada de novo sobre a arte de disparar uma arma.}
+{424}{}{Depois de algumas horas de leitura você aprende nada de novo sobre a arte da persuasão.}
+{430}{}{Voltar.}
+{500}{}{Ao ler mais artigos, você aprendeu que o GECK foi desenvolvido pela Future-Tec, uma divisão da Vault-Tec, e que
+  Era uma questão padrão em todos os cofres Vault-Tec. Estava destinada a ser usada na saída de um Vault, para ajudar a restabelecer a vida
+  nos ambientes hostis de um mundo devastado pela guerra nuclear.}
+{501}{}{Ao ler mais, você descobre que o GECK não é o dispositivo milagroso que o anúncio fez pareser. O "Replicador Base"
+  na verdade é nada mais do que um sistema de fertilizantes contendo sementes de alimentos, suplementos de solo e produtos químicos especificamente projetados para
+  virar terra árida em solo fértil. A afirmação de que ele pode "criar itens básicos" realmente alude a novos códigos que prevê para as
+  Máquinas do Vault, permitindo que eles criem novos itens dos dispensadores. O GECK também contém esquemas para campos de força básicos
+  e a construção de paredes e prédios de "areia-crete".}
+{502}{}{[MAIS]}
+{503}{}{Parece que o próprio GECK deve ser desmontado durante o seu uso. Você lê um exemplo de como é a fusão a frio
+  A fonte de energia destina-se a ser usada para a produção de energia principal da cidade. O GECK ainda contém instruções sobre desmontagem de seções do
+  Vault para criar casas e estruturas defensivas para a nova comunidade. Quando você termina de ler os arquivos, você decide que, embora
+  Não seja o dispositivo mágico que o Ancião parece pensar, encontrar um GECK ainda é sua melhor opção se você quiser salvar sua tribo.}
+{1000}{}{Você faz o upload do EPA Botânica Holodisk.}
+{2000}{}{Você formata os bancos de dados de livros da Abadia.}

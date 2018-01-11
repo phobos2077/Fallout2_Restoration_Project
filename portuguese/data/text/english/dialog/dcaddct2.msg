@@ -1,7 +1,7 @@
 {100}{}{You see a squatter.}
 {101}{}{You see a man covered in dirt and filth.}
 {102}{}{You see a woman covered in dirt and filth.}
-{103}{}{What do you want?}
+{103}{}{O que você quer?}
 {104}{}{I want you and your friends out of this building. It's come to my attention that Mom intends to turn this place
  into an orphanage to get all those homeless children off the streets. And she can't do that with you squatting here.}
 {105}{}{[He snickers uneasily and glances at his fellow squatters for support.] Mom knows the deal. We're not going anywhere
@@ -37,7 +37,7 @@
 {310}{}{Hey, thanks for helping to set this up for us. We'll work hard.}
 {311}{}{You better. Make sure the children stay out of trouble too.}
 {312}{}{We'll do our best.}
-{313}{}{Bye.}
+{313}{}{Adeus.}
 {350}{}{Anywhere but here. The Den's a big place, I'm sure you can find somewhere else to crash. Come on, do you really want the children to live on the streets?}
 {351}{}{Nah, you're right, that ain't cool for the children. Alright, we'll pack our things and move out. This place had a leaky roof anyway.}
 {352}{}{Thanks. This will mean a lot to them. Take care.}

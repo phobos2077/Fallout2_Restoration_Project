@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{Você vê um guarda.}
 {101}{}{You see Grant, the guard}
 {102}{}{You see a guard. His armor and weapons are in excellent condition.}
 {103}{}{This is private property, please move along.}
@@ -26,17 +26,17 @@
 {125}{}{Never mind, I'll come back later.}
 {126}{}{Hmm... I seem to remember something about work being available. All right, come on in. Don't cause any trouble though, I'll be watching you.}
 {127}{}{Me thank.}
-{128}{}{Thanks.}
+{128}{}{Obrigado.}
 {129}{}{Mr. Westin doesn't just 'chat' with anyone who walks in off the street. If you don't have specific business with him then I suggest you leave until such time as you do. Now please go away.}
-{130}{}{[DONE]}
+{130}{}{[FEITO]}
 {131}{}{(sigh) I've heard that Mr. Westin has a soft spot for people like you. Come on in.}
 {132}{}{Me thank you.}
 {133}{}{Yeah, yeah. I am in the middle of something.}
 {134}{}{Hey, get away from there!}
 {135}{}{You should ask before you play with things that aren't yours.}
 {136}{}{Hello. Did you need to see Mr. Westin again?}
-{137}{}{Yes.}
-{138}{}{No.}
+{137}{}{Sim.}
+{138}{}{Não.}
 {139}{}{Me have things from Vault City for Mr. Westin.}
 {140}{}{I have something from Vault City for Mr. Westin.}
 {141}{}{All right, come on in. Don't cause any trouble though, I'll be watching you.}

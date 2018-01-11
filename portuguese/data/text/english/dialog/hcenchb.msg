@@ -5,21 +5,21 @@
 {103}{}{Can I help you with something?}
 {104}{}{Urg?}
 {105}{}{Ny work here!}
-{106}{}{Who are you?}
+{106}{}{Quem é você?}
 {107}{}{What can you tell me about Chad?}
 {108}{}{I got no patience for idiots. Sorry, pal, but you'll have to find someone else to play with.}
 {109}{}{::sniff::}
 {110}{}{I'm Max. I'm one of the caravan guards.}
 {111}{}{What can you tell me about Chad?}
-{112}{}{Thanks. Bye.}
+{112}{}{Obrigado. Tchau.}
 {113}{}{Honestly? I don't care for the guy. Lately, he's been tossing around a lot of coin. I mean, sure, he's the
  caravan master, so it makes sense for him to take a larger cut—I understand that. But there's no way he should be
  *that* loaded. I think it'd be *real* interesting to take a peek at his records.}
 {114}{}{Marcus told me he suspects Chad of skimming some of the caravan money that supposed to be going to Broken Hills.
  I told him I'd look into it.}
-{115}{}{Thanks. Bye.}
+{115}{}{Obrigado. Tchau.}
 {116}{}{Thanks. I'm sure glad that's over. You better watch your back though.}
-{117}{}{Bye.}
+{117}{}{Adeus.}
 {118}{}{It's the enemy! Die!}
 {119}{}{Oops.}
 {120}{}{[Lowers his voice and looks around.] That's gotta be it. In fact, I was a guard on the latest uranium run to

@@ -1,2 +1,2 @@
-1:The wasteland has claimed your life.
-2:Arroyo attempts to send out others to search for the GECK, but they die quickly, and the village soon follows.
+1:A terra perdida reivindicou sua vida.
+2:Arroyo tenta enviar outros para procurar o GECK, mas eles morrem rapidamente, e a aldeia logo a seguir.

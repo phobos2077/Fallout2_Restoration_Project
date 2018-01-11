@@ -1,33 +1,33 @@
 {100}{}{You gain }
 {101}{}{ experience points.}
 {102}{}{You successfully disarm the trap.}
-{103}{}{You fail to disarm the trap.}
+{103}{}{Você não consegue desarmar a armadilha.}
 {104}{}{You accidentally set off the trap.}
 {105}{}{ successfully disarms the trap.}
 {106}{}{ fail to disarms the trap.}
 {107}{}{ accidentally sets off the trap.}
 {200}{}{Thank you.}
 {201}{}{Good Day.}
-{202}{}{Thanks.}
+{202}{}{Obrigado.}
 {203}{}{Thanks!}
 {204}{}{No thank you.}
 {205}{}{No thanks.}
-{206}{}{Sure.}
-{207}{}{Yes.}
-{208}{}{No.}
+{206}{}{Com certeza.}
+{207}{}{Sim.}
+{208}{}{Não.}
 {209}{}{OK.}
 {300}{}{Ug.}
 {301}{}{Og.}
 {302}{}{Ooga.}
 {303}{}{Urg.}
-{350}{}{[END]}
+{350}{}{[FIM]}
 {351}{}{[BYE]}
-{352}{}{[MORE]}
-{353}{}{[CONTINUE]}
+{352}{}{[MAIS]}
+{353}{}{[CONTINUAR]}
 {354}{}{[COMBAT]}
 {355}{}{[GIVE MONEY]}
-{375}{}{Bye.}
-{376}{}{Goodbye.}
+{375}{}{Adeus.}
+{376}{}{Adeus.}
 {400}{}{You die due to the lethal injection from Dr. Troy.}
 {450}{}{The coast is clear. Let's move out!}
 {900}{}{The old, worn door looks like it could be destroyed
