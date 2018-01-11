@@ -131,6 +131,6 @@ GECK ou o nosso povo vai morrer!}
 {235}{}{Então o que?
 }
 {236}{}{Isso vai me deixar doente, não é?}
-{237}{eeld13a}{Then the skin bubbles like maggots beneath it. Boils grow and burst. Blood runs from your ears and your tongue swells. Those who are lucky choke to death. Those who are not…}
-{238}{}{They'll pay.}
+{237}{eeld13a}{Então, a pele borbulha como vermes abaixo dela. Bolhas crescem e explodem. O sangue corre de seus ouvidos e sua língua aumenta. Aqueles que têm a sorte sufocam até a morte. Aqueles que não são …}
+{238}{}{Eles vão pagar.}
 {239}{}{That certainly was disgusting. What am I supposed to do?}
