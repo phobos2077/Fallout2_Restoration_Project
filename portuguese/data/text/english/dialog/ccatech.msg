@@ -35,7 +35,7 @@
 {140}{}{Obrigado.}
 {141}{}{Vertibird plans... I don't see why you would need to know that. I suggest you talk to maintenance next door.}
 {142}{}{Tudo bem.}
-{143}{}{Got it.}
+{143}{}{Tenho-o.}
 {153}{}{Are you nuts, walking around here out of uniform? Get suited up!}
 {154}{}{If the sergeant catches you out of uniform, he'll hand you your ass.}
 {155}{}{Why are you out of uniform? }

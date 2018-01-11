@@ -7,7 +7,7 @@
 {105}{}{Uh, who you?}
 {106}{}{What you do here?}
 {107}{}{You look like guard.}
-{108}{}{Me go now.}
+{108}{}{Eu vou agora.}
 {109}{}{Just saying hello.}
 {110}{}{Quem é você?}
 {111}{}{What are you doing?}

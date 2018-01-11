@@ -7,7 +7,7 @@
 {105}{}{Who you?}
 {106}{}{What you do?}
 {107}{}{How smart you?}
-{108}{}{Me go now.}
+{108}{}{Eu vou agora.}
 {109}{}{Quem é você?}
 {110}{}{What are you doing here?}
 {111}{}{No offense, but just how smart are you?}
@@ -17,7 +17,7 @@
 {115}{}{Me leave.}
 {116}{}{I've got to go.}
 {117}{}{It's a pleasure to meet you, Thearn. I'm}
-{118}{}{Got it.}
+{118}{}{Tenho-o.}
 {119}{}{Now that I think about it, I don't give a radrat's ass who you are.}
 {120}{}{I guard hall. Safety of pack goal.}
 {121}{}{Oh... Uh...}

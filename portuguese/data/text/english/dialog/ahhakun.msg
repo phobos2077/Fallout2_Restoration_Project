@@ -147,7 +147,7 @@
 {246}{hak035}{Chosen? Chosen? Do you hear me? The village dies. All of our futures die, too. We have little left in both time and essence... Hurry. Hurry...}
 {247}{hak101}{Chosen - the shadow of darkness arrived before you.}
 {248}{}{Owwww!}
-{249}{}{What happened?}
+{249}{}{O que aconteceu?}
 {250}{}{You look bad. Let me help.}
 {251}{hak102}{Child of Nature, how could we put such a burden on your shoulders? (sigh) Your people have been taken.}
 {252}{}{Uhh?}
@@ -187,7 +187,7 @@
 {286}{hak120}{An ocean of tears, cried by a mother for her children.}
 {287}{}{Oh, the ocean. But what shall I do?}
 {288}{hak121}{A strange mist stole their minds and sent them to the land of Sleep. The evil ones walked among the dreamers, yet did not dream.}
-{289}{}{And then?}
+{289}{}{E então?}
 {290}{hak122}{Too many seasons and too many wounds, Chosen. Instead, you must listen.}
 {291}{}{Tudo certo.}
 {300}{}{Those who steal carry a great burden. Remember this, Chosen One.}

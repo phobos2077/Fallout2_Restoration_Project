@@ -69,69 +69,68 @@ GECK ou o nosso povo vai morrer!}
 {162}{}{Deseje-me sorte, Ancião, e não falharei com você.}
 {163}{aeld16}{Encontrar Vic em Klamath. Estamos contando com você.}
 {164}{aeld17}{É bom ver você de novo, Filho. Eu não quero ser abrupta, mas eu vejo que você ainda não completou sua busca para encontrar o santo Treze. Por favor, não vamos perder tempo falando. A necessidade do nosso povo é grande. Vá encontrar o Cofre!}
-{165}{}{Me go now.}
-{166}{}{All right, I'm going.}
-{167}{}{I will not fail you elder.}
-{168}{}{I'm working on it, Ok?}
-{169}{aeld18}{Once again you return without the GECK. Our crops begin to fail us, Chosen. Our
- need becomes greater with the passage of time. Go find the holy Thirteen!}
-{170}{}{Ok, me go now.}
-{171}{}{Yes, Elder.}
-{172}{}{I will not fail you or our people, Elder.}
-{173}{}{Look. If you think you can do better... }
-{174}{aeld19}{Chosen One, things are not well here. We need the GECK if our village is to
- survive. Our people grow weak with hunger and our food reserves will not last much
- longer. Please, find the holy Thirteen and return to us. Go now.}
+{165}{}{Eu vou agora.}
+{166}{}{Tudo bem, eu vou.}
+{167}{}{Eu não vou falhar ancião. }
+{168}{}{Eu estou trabalhando nisso, Ok?}
+{169}{aeld18}{Mais uma vez você volta sem o GECK. Nossas colheitas começam a nos deixar, Escolhido. Nossa
+  necessidade se torna maior com a passagem do tempo. Vá encontrar o santo treze!}
+{170}{}{Ok, eu vou agora.}
+{171}{}{Sim, Ancião.}
+{172}{}{Eu não falharei com você ou com o nosso povo, Ancião.}
+{173}{}{Olhar. Se acha que pode fazer melhor... }
+{174}{aeld19}{Escolhido, as coisas não são bem aqui. Precisamos do GECK, se a nossa aldeia quiser sobreviver. Nosso povo cresce fraco, com fome e nossas reservas de alimentos não vai durar muito mais. Por favor, encontre o santo Treze e nos devolva. Vá agora.}
 {175}{}{Eu vou.}
-{176}{}{Very well. I'm on my way.}
-{177}{}{I will do my best to find the GECK and save our village.}
-{178}{}{Don't push me, old woman. I'm doing my best.}
-{179}{aeld20}{Child, our need is greater than ever before. Our people sicken, the brahmin
- are dying, and our food is all but gone. The blight of the land can only be cured with
- the GECK. Go, find the GECK and save our people.}
+{176}{}{Muito bem. Eu estou a caminho.}
+{177}{}{Eu farei o meu melhor para encontrar o GECK e salvar a nossa aldeia.}
+{178}{}{Não me aprece, velha. Estou fazendo o meu melhor.}
+{179}{aeld20}{Criança, nossa necessidade é maior do que nunca. Nosso povo adoece, os brahmin
+  estão morrendo, e nossa comida está quase desaparecida. A praga da terra só pode ser curada com
+  o GECK. Vá, encontre o GECK e sauve nosso povo.}
 {180}{}{Eu compreendo.
 }
-{181}{}{I'm on my way.}
-{182}{}{Forgive me Elder. I will find the GECK without delay.}
-{183}{}{Yeah, yeah. You're beginning to sound like a broken disk...}
-{200}{eeld1}{Chosen One! How did you get here?}
-{201}{}{Uhh… duh?}
-{202}{}{I've come to rescue you.}
-{203}{}{What the hell's going on here?}
-{204}{eeld2}{You monster! Have you come to kill me, too?}
-{205}{}{Uhhh?}
-{206}{}{No, it's me, the Chosen One!}
-{207}{}{Oh, shut up, you old bitch! It's me, your Chosen One.}
-{208}{eeld3}{Oh, gods... Listen - go down. Find machine that makes power. Kill machine. Kill bad men. Kill everybody! You kill, we go home. Also, if you not have GECK then look for GECK here. Must have GECK to save village! Freedom is nothing without home to return to. Understand? Oh, gods.}
+{181}{}{Eu estou no meu caminho.}
+{182}{}{Perdoe-me Ancião. Vou encontrar o GECK sem demora.}
+{183}{}{Sim, sim. Você está começando a soar como um disco quebrado...}
+{200}{eeld1}{Escolhido! Como você chegou aqui?}
+{201}{}{Uhh... duh?}
+{202}{}{Eu vim para te resgatar.}
+{203}{}{O que diabos está acontecendo aqui?}
+{204}{eeld2}{Você monstro! Você veio para me matar também?}
+{205}{}{Hã?}
+{206}{}{Não, sou eu, o Escolhido!}
+{207}{}{Oh, cale-se, velha cadela! Sou eu, o seu Escolhido.}
+{208}{eeld3}{Oh, deuses ... Ouça - vá para baixo. Encontre a máquina que faz o poder. Mate a máquina. Mate homens maus. Mate todo mundo! Você mata, vamos para casa. Além disso, se você não tem GECK, procure GECK aqui. Deve ter GECK para salvar a vila! A liberdade é nada sem lar para retornar. Compreende? Oh, deuses.}
 {209}{}{Uh -huh!}
-{210}{eeld4}{Careful, do not touch the glow wall. I think the machine that feeds it is beneath us. Destroy it so we may escape. How did you get here?}
-{211}{}{I have a ship. }
-{212}{eeld5}{Men came to our village in flying machines and took us. There were others, too - from the holy Thirteen! I thought we were saved. I thought we were going to heaven. (sigh)}
-{213}{}{And then?}
-{214}{eeld5a}{Then they brought us here, to hell. They have killed most of us with something they call effeevee. They will kill us all before they are through!
- Do you know what must be done, Chosen One?}
+{210}{eeld4}{Cuidado, não toque na parede de brilho. Acho que a máquina que o alimenta está abaixo de nós. Destrua-o para que possamos escapar. Como você chegou aqui?}
+{211}{}{Eu tenho um navio. }
+{212}{eeld5}{Os homens chegaram à nossa aldeia em máquinas voadoras e nos levaram. Havia outros, também - do santo treze! Eu pensei que estivéssemos salvos. Pensei que íamos para o céu. (suspiro)}
+{213}{}{E então?}
+{214}{eeld5a}{Então eles nos trouxeram até o inferno. Eles mataram a maioria de nós com algo que eles chamam de effeevee. Eles vão nos matar todos antes que eles terminem!
+  Você sabe o que deve ser feito, Escolhido?}
 {215}{}{Effeevee?}
 {216}{}{Sim.}
 {217}{}{Não.}
-{218}{eeld6}{If you destroy the machine, we will find the ship. Hurry, there are not many of us left. }
-{219}{}{What happened?}
+{218}{eeld6}{Se você destruir a máquina, vamos encontrar o navio. Pressa, não há muitos de nós que restaram.}
+{219}{}{O que aconteceu?}
 {220}{}{Eu entendo.}
-{221}{eeld7}{You must destroy the machine and kill the devils in this place. We will meet you outside! And Chosen One, if you have not found the GECK, seek it here. Our freedom is nothing if we cannot save our village. Now go!}
+{221}{eeld7}{Você deve destruir a máquina e matar os demônios neste lugar. Vamos encontrá-lo fora! E Escolhido, se você não encontrou o GECK, procure-o aqui. A nossa liberdade não é nada se não podemos salvar a nossa aldeia. Agora vá!}
 {222}{}{Adeus.}
-{223}{eeld8}{I am still the Elder. Remember your place! Apologize or I will not help you anymore.}
-{224}{}{Sorry, you're not an old bitch. What's going on?}
-{225}{}{Like you could help me in there? Fuck off and die.}
-{226}{eeld9}{Go away. You are no better than these devils. I weep you were named the Chosen One.}
-{227}{eeld10}{Why are you here? Every minute you waste another of our people could be killed. And don't forget the GECK! We must have it.}
+{223}{eeld8}{Eu ainda sou o Ancião. Lembre-se do seu lugar! Peça desculpas ou eu não vou ajudá-lo mais.}
+{224}{}{Desculpe, você não é uma velha cadela. O que está acontecendo?}
+{225}{}{Como você poderia me ajudar? Se foda e morra.}
+{226}{eeld9}{Vá embora. Você não é melhor do que esses demônios. Eu choro por você ter sido nomeado o Escolhido.}
+{227}{eeld10}{Por quê você está aqui? Cada minuto que você desperdiça, outro de nosso povo pode ser morto. E não se esqueça do GECK! Nós devemos tê-lo.}
 {228}{}{Nuh??}
-{229}{}{Where was I supposed to go?}
-{230}{}{Just wanted to annoy you. I'm on it. Don't worry.}
-{231}{eeld11}{(sigh) Go below. Kill. Smash machines. Go now!}
-{232}{eeld12}{Listen this time! Go to the levels below us. Find the machine that makes power. Stop it and we can escape. The men here are not true to the Vault dream. They are evil. Also, if you have not yet found the GECK, seek it here. Our freedom is nothing if our village cannot be saved. Now go!}
-{233}{}{Got it.}
-{234}{eeld13}{That is what they call it. They stick needles into our skin, like stimpacks, but then terrible things happen. Then... (chokes up)}
-{235}{}{Then what?}
-{236}{}{This is going to make me sick, isn't it?}
+{229}{}{Onde eu deveria ir?}
+{230}{}{Só queria irritar você. Eu estou trabalhando nisso. Não se preocupe.}
+{231}{eeld11}{(suspiro) Ir abaixo. Mate. Quebrar a máquinas. Vá agora!}
+{232}{eeld12}{Escute esta vez! Vá para os níveis abaixo de nós. Encontre a máquina que faz energia. Pare e podemos escapar. Os homens aqui não são leais ao sonho do Vault. Eles são maus. Além disso, se ainda não encontrou o GECK, procure-o aqui. Nossa liberdade não é nada se a nossa aldeia não puder ser salva. Agora vá!}
+{233}{}{Tenho-o.}
+{234}{eeld13}{É isso que eles chamam de. Eles colocam agulhas na nossa pele, como as bolsas de estímulo, mas as coisas terríveis acontecem. Então ... (engasga)}
+{235}{}{Então o que?
+}
+{236}{}{Isso vai me deixar doente, não é?}
 {237}{eeld13a}{Then the skin bubbles like maggots beneath it. Boils grow and burst. Blood runs from your ears and your tongue swells. Those who are lucky choke to death. Those who are not…}
 {238}{}{They'll pay.}
 {239}{}{That certainly was disgusting. What am I supposed to do?}

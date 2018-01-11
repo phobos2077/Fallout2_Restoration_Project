@@ -71,7 +71,7 @@
  technology that may still be there.}
 {158}{}{Ah. Me understand.}
 {159}{}{I knew there had to be something here other than the waste-of-flesh inhabitants.}
-{160}{}{Got it.}
+{160}{}{Tenho-o.}
 {161}{}{That explains a lot. You've been very helpful. I need to ask some more questions, though.}
 {162}{}{That would be Zeke. He runs everything up here. You can find him in the building over there.
  ::points north-east::}

@@ -12,7 +12,7 @@
 {110}{}{What this place?}
 {111}{}{Me look for vertibird plans. Where find?}
 {112}{}{Me told by tech me find vertibird plans here.}
-{113}{}{Me go now.}
+{113}{}{Eu vou agora.}
 {114}{}{O que é este lugar?}
 {115}{}{I'm looking for vertibird plans. Do you know where I can find them?}
 {116}{}{I was told by a tech that I could find the vertibird plans here.}

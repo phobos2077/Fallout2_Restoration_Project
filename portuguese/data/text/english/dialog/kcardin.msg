@@ -77,7 +77,7 @@
 {270}{}{I just don't know what to think. My boy Torr's missing. I sure wish someone would help me find
  him. He's never been gone from home so long before.}
 {271}{}{Torr?}
-{272}{}{What happened?}
+{272}{}{O que aconteceu?}
 {273}{}{That's nice, lady, but I need something from you.}
 {274}{}{Well, I can tell you're busy. I'll come back later. Goodbye.}
 {280}{}{He took off last night. I got mad at him after we lost those last few brahmin. We just can't
