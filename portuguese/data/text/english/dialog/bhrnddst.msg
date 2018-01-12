@@ -43,74 +43,74 @@
 {302}{}{Você encontra NCR Rangers lutando contra os restos do exército do Mestre.}
 {303}{}{Você encontra NCR Rangers em luta com demolidores.}
 {304}{}{Você encontra os agricultores defendendo-se dos restos do exército do Mestre.}
-{305}{}{You encounter farmers fending off marauders.}
-{306}{}{You encounter NCR Rangers.}
-{307}{}{You encounter farmers.}
-{350}{}{You encounter a slaver caravan.}
-{351}{}{You encounter highwaymen and robbers.}
-{352}{}{You encounter highwaymen.}
-{353}{}{You encounter robbers.}
-{354}{}{You encounter a caravan fending off highwaymen.}
-{355}{}{You encounter a caravan fighting robbers.}
-{356}{}{You encounter a caravan fighting highwaymen.}
-{357}{}{You encounter a caravan besieged by robbers.}
-{358}{}{You encounter a slave caravan fighting a caravan.}
-{359}{}{You encounter highwaymen fighting robbers.}
+{305}{}{Você encontra os agricultores defendendo-se dos saqueadores.}
+{306}{}{Você encontra NCR Rangers.}
+{307}{}{Você encontra agricultores.}
+{350}{}{Você encontra uma caravana escravista.}
+{351}{}{Você encontra vadios e ladrões.}
+{352}{}{Você encontra vadios.}
+{353}{}{Encontra os ladrões.}
+{354}{}{Você encontra uma caravana combatendo vadios.}
+{355}{}{Você encontra uma caravana em luta com ladrões.}
+{356}{}{Você encontra uma caravana em luta com vadios.}
+{357}{}{Você encontra uma caravana saqueada por ladrões.}
+{358}{}{Você encontra uma caravana de escravos lutando contra uma caravana.}
+{359}{}{Você encontra vadios em luta com ladrões.}
 {360}{}{Você encontra uma caravana.}
 {361}{}{Você encontra uma caravana.}
-{400}{}{You encounter highwaymen.}
-{401}{}{You encounter robbers.}
-{402}{}{You encounter robbers and highwaymen.}
-{403}{}{You encounter golden geckos and radscorpions.}
+{400}{}{Você encontra vadios.}
+{401}{}{Encontra os ladrões.}
+{402}{}{Encontra os ladrões e salteadores.}
+{403}{}{Você encontra geckos dourados e radscorpions.}
 {404}{}{Você encontra geckos dourados.}
-{405}{}{You encounter mole rats and pig rats.}
+{405}{}{Você encontra toupeira e ratos porcos.}
 {406}{}{Você encontra radscorpions.}
 {407}{}{Você encontra plantas de esporos.}
-{408}{}{You encounter robbers fighting highwaymen.}
-{409}{}{You encounter a caravan fending off highwaymen.}
-{410}{}{You encounter a caravan fending off robbers.}
+{408}{}{Você encontra ladrões em luta com vadios.}
+{409}{}{Você encontra uma caravana combatendo vadios.}
+{410}{}{Você encontra uma caravana a afastar os ladrões.}
 {411}{}{Você encontra uma caravana a cortar radscorpions.}
-{412}{}{You encounter geckos fighting radscorpions.}
+{412}{}{Você encontra geckos lutando contra radscorpions.}
 {413}{}{Você encontra uma caravana.}
-{450}{}{You encounter highwaymen and robbers.}
-{451}{}{You encounter highwaymen and geckos.}
+{450}{}{Você encontra vadios e ladrões.}
+{451}{}{Você encontra caminhantes e geckos.}
 {452}{}{Você encontra geckos dourados.}
-{453}{}{You encounter radscorpions and spore plants.}
-{454}{}{You encounter robbers fighting radscorpions.}
-{455}{}{You encounter radscorpions fighting robbers.}
-{456}{}{You encounter a caravan fending off highwaymen.}
-{457}{}{You encounter a caravan fending off robbers.}
-{458}{}{You encounter some highwaymen weeding out some spore plants.}
+{453}{}{Você encontra radscorpions e plantas de esporos.}
+{454}{}{Você encontra ladrões em luta com radscorpions.}
+{455}{}{Você encontra radscorpions em luta com ladrões.}
+{456}{}{Você encontra uma caravana combatendo vadios.}
+{457}{}{Você encontra uma caravana a afastar os ladrões.}
+{458}{}{Você encontra alguns salteadores que eliminam algumas plantas de esporos.}
 {459}{}{Você encontra uma caravana.}
-{500}{}{You encounter highwaymen and wild dogs.}
-{501}{}{You encounter robbers and wild dogs.}
-{502}{}{You encounter robbers.}
-{503}{}{You encounter highwaymen.}
-{504}{}{You encounter a swarm of mantis and some spore plants.}
-{505}{}{You encounter dogs and spore plants.}
-{506}{}{You encounter a swarm of mantis.}
+{500}{}{Você encontra vadios e cães selvagens.}
+{501}{}{Encontra os ladrões e cães selvagens.}
+{502}{}{Encontra os ladrões.}
+{503}{}{Você encontra vadios.}
+{504}{}{Você encontra um enxame de mantis e algumas plantas de esporos.}
+{505}{}{Você encontra cachorros e plantas de esporos.}
+{506}{}{Você encontra um enxame de mantis.}
 {507}{}{Você encontra cães selvagens.}
-{508}{}{You encounter robbers fighting dogs.}
-{509}{}{You encounter a caravan fending off dogs.}
-{510}{}{You encounter a caravan fending off robbers.}
-{511}{}{You encounter a caravan fending off highwaymen.}
+{508}{}{Você encontra ladrões que lutam com cães.}
+{509}{}{Você encontra uma caravana afastando cães.}
+{510}{}{Você encontra uma caravana a afastar os ladrões.}
+{511}{}{Você encontra uma caravana combatendo vadios.}
 {512}{}{Você encontra uma caravana.}
-{550}{}{You encounter geckos and wolves.}
-{551}{}{You encounter claim jumpers.}
+{550}{}{Você encontra geckos e lobos.}
+{551}{}{Você encontra salteadores.}
 {552}{}{Você encontra lobos.}
 {553}{}{Você encontra geckos dourados.}
-{554}{}{You encounter prospectors fending off claim jumpers.}
-{555}{}{You encounter trappers hunting geckos.}
-{556}{}{You encounter bootleggers fighting wolves.}
-{557}{}{You encounter homesteaders fighting claim jumpers}
-{558}{}{You encounter homesteaders fighting wolves.}
-{559}{}{You encounter bootleggers.}
-{560}{}{You encounter trappers.}
-{561}{}{You encounter prospectors.}
-{600}{}{You encounter deathclaws.}
-{601}{}{You encounter fire geckos.}
-{602}{}{You encounter a caravan fleeing from deathclaws.}
-{603}{}{You encounter a caravan fighting deathclaws.}
+{554}{}{Você encontra garimpeiros afastando salteadores.}
+{555}{}{Você encontra caçadores caçando geckos.}
+{556}{}{Você encontra criminosos combatendo lobos.}
+{557}{}{Você encontra sem-terras combatendo salteadores.}
+{558}{}{Você encontra sem-terras e lobos lutando.}
+{559}{}{Você encontra contrabandistas.}
+{560}{}{Você encontra caçadores.}
+{561}{}{Você encontra garimpeiros.}
+{600}{}{Você encontra garras mortais.}
+{601}{}{Você encontra geckos de fogo.}
+{602}{}{Você encontrar uma caravana fugindo de garras mortais.}
+{603}{}{Você encontrar uma caravana em luta com garras mortais.}
 {604}{}{You encounter a caravan fighting fire geckos.}
 {605}{}{You encounter a caravan fighting fire geckos.}
 {606}{}{Você encontra uma caravana.}
@@ -119,10 +119,10 @@
 {609}{}{Você encontra uma caravana.}
 {650}{}{You encounter aliens and deathclaws.}
 {651}{}{You encounter centaurs and floaters.}
-{652}{}{You encounter fire geckos.}
+{652}{}{Você encontra geckos de fogo.}
 {653}{}{You encounter aliens.}
-{654}{}{You encounter deathclaws.}
-{655}{}{You encounter fire geckos.}
+{654}{}{Você encontra garras mortais.}
+{655}{}{Você encontra geckos de fogo.}
 {656}{}{You encounter aliens.}
 {657}{}{You encounter centaurs.}
 {658}{}{You encounter floaters.}
@@ -135,7 +135,7 @@
 {706}{}{Você encontra um viajante.}
 {750}{}{You encounter a caravan fending off remnants of the Master's army.}
 {751}{}{You encounter a caravan fighting remnants of the master's army.}
-{752}{}{You encounter a caravan fighting deathclaws.}
+{752}{}{Você encontrar uma caravana em luta com garras mortais.}
 {753}{}{Você encontra uma caravana.}
 {754}{}{Você encontra uma caravana.}
 {755}{}{Você encontra uma caravana.}
