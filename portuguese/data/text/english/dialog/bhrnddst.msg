@@ -111,30 +111,30 @@
 {601}{}{Você encontra geckos de fogo.}
 {602}{}{Você encontrar uma caravana fugindo de garras mortais.}
 {603}{}{Você encontrar uma caravana em luta com garras mortais.}
-{604}{}{You encounter a caravan fighting fire geckos.}
-{605}{}{You encounter a caravan fighting fire geckos.}
+{604}{}{Você encontra uma caravana lutando com geckos de fogo.}
+{605}{}{Você encontra uma caravana lutando com geckos de fogo.}
 {606}{}{Você encontra uma caravana.}
 {607}{}{Você encontra uma caravana.}
 {608}{}{Você encontra uma caravana.}
 {609}{}{Você encontra uma caravana.}
-{650}{}{You encounter aliens and deathclaws.}
-{651}{}{You encounter centaurs and floaters.}
+{650}{}{Você encontra aliens e garras mortais.}
+{651}{}{Você encontra centauros e flutuadores.}
 {652}{}{Você encontra geckos de fogo.}
-{653}{}{You encounter aliens.}
+{653}{}{Encontra aliens.}
 {654}{}{Você encontra garras mortais.}
 {655}{}{Você encontra geckos de fogo.}
-{656}{}{You encounter aliens.}
-{657}{}{You encounter centaurs.}
-{658}{}{You encounter floaters.}
-{700}{}{You encounter some Yakuza.}
-{701}{}{You encounter a gang.}
-{702}{}{You encounter some wolves.}
-{703}{}{You encounter some mobsters fighting some Yakuza.}
-{704}{}{You encounter some mobsters fighting a gang.}
-{705}{}{You encounter some mobsters.}
+{656}{}{Encontra aliens.}
+{657}{}{Você encontra centauros.}
+{658}{}{Você encontra flutuadores.}
+{700}{}{Você encontra alguns Yakuza.}
+{701}{}{Você encontra uma gangue.}
+{702}{}{Você encontra alguns lobos.}
+{703}{}{Você encontra alguns mafiosos em luta com alguns Yakuza.}
+{704}{}{Você encontra alguns mafiosos em luta com uma gangue.}
+{705}{}{Você encontra alguns mafiosos.}
 {706}{}{Você encontra um viajante.}
-{750}{}{You encounter a caravan fending off remnants of the Master's army.}
-{751}{}{You encounter a caravan fighting remnants of the master's army.}
+{750}{}{Você encontra uma caravana que evita os restos do exército do Mestre.}
+{751}{}{Você encontra uma caravana que combate restos do exército do mestre.}
 {752}{}{Você encontrar uma caravana em luta com garras mortais.}
 {753}{}{Você encontra uma caravana.}
 {754}{}{Você encontra uma caravana.}

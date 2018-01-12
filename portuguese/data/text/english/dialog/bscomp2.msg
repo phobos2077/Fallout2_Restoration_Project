@@ -1,10 +1,10 @@
-{100}{}{You see a computer terminal.}
-{101}{}{You see Darion's computer terminal.}
-{102}{}{You see a standard computer terminal. It appears to be functional and ready for input.}
-{103}{}{You access the computer and quickly scan all available files. Among some personal journal
- entries, you find several detailed reports on the NCR. It seems there is a spy on their council.
- You copy the reports to a holodisk.}
-{104}{}{You are having difficulty accessing the files.}
+{100}{}{Você vê um terminal de computador.}
+{101}{}{Você vê o terminal de computador de Darion.}
+{102}{}{Você vê um terminal de computador padrão. Parece estar funcional e pronto para entrada.}
+{103}{}{Você acessar o computador e verificar rapidamente todos os arquivos disponíveis. Entre algumas diário pessoal
+entradas, você pode encontrar vários relatórios detalhados sobre o NCR. Parece que há um espião em seu conselho.
+Copiar os relatórios para um holodisk.}
+{104}{}{Você está tendo dificuldade para acessar os arquivos.}
 {105}{}{Feito.}
-{106}{}{Other than the information about the NCR spy, the computer contains no useful information.}
+{106}{}{além da informação sobre o espião NCR, o computador não contém informações úteis.}
 {107}{}{Feito.}

@@ -1,4 +1,4 @@
-{100}{}{You see a computer terminal.}
+{100}{}{Você vê um terminal de computador.}
 {101}{}{You see the physics station.}
 {102}{}{You see a functional computer terminal.}
 {103}{}{Greetings. Please confirm your identity.}

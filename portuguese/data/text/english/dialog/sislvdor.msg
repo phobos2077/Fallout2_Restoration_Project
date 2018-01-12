@@ -152,7 +152,7 @@ pontos de dano.}
 {190}{}{Você não bloqueia a porta.}
 {191}{}{ habilmente tranca a porta.}
 {192}{}{ falha de trancar a porta.}
-{193}{}{The explosives don't even put a scratch on the door.}
+{193}{}{Os explosivos nem sequer colocam um risco na porta.}
 {194}{}{Você encontra uma armadilha na porta.}
 {195}{}{Você não consegue encontrar armadilhas na porta.}
 {196}{}{Você habilmente desarmar a armadilha.}

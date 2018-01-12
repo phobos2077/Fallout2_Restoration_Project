@@ -1,4 +1,4 @@
-{100}{}{You see a computer terminal.}
+{100}{}{Você vê um terminal de computador.}
 {101}{}{You see a Hubologist computer.}
 {102}{}{You see a computer. It seems to be in good working order, though primitive.}
 {103}{}{This unit not accepting commands. Goodbye.}

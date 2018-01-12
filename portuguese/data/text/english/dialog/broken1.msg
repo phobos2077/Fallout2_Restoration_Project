@@ -1,1 +1,1 @@
-{100}{}{You have entered the small town of Broken Hills.}
+{100}{}{Você entrou na pequena cidade de Broken Hills.}
