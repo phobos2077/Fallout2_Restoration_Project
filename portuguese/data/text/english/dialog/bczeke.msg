@@ -1,84 +1,82 @@
 {100}{}{Você vê um idoso posseiro.}
 {101}{}{Você vê Zeke, um posseiro.}
-{102}{}{You see an older man with thinning, white hair.}
-{103}{}{My name's Zeke, stranger. I'm sorry, but I don't have time to talk to you -- and I don't think
- there's anything in this town for you, anyway. You should move on.}
-{104}{}{Uh, okay.}
+{102}{}{Você vê um homem mais velho, de desbaste, de cabelos brancos.}
+{103}{}{Meu nome é Zeke, estranho. Me desculpe, mas não tenho tempo para falar com você - e não penso
+  Há alguma coisa nesta cidade para você, mesmo assim. Você deve seguir em frente.}
+{104}{}{Uh, tudo bem.}
 {105}{}{Eu tenho perguntas.}
-{106}{}{All right, I'll leave.}
-{107}{}{I just wanted to ask a couple of questions.}
-{108}{}{Well, I think you'll find that we're all out of answers here. Why don't you come back when we
- get a shipment in?}
+{106}{}{Tudo bem, eu vou deixar.}
+{107}{}{Eu só queria pedir um par de perguntas.}
+{108}{}{Bem, acho que você achará que estamos sem respostas aqui. Por que você não volta quando nós?
+  tivermos uma remessa?}
 {109}{}{Feito.}
-{110}{}{Hello, again. I still don't have any answers for you, stranger. Why don't you take a hint and
- get the duck out of fodge?}
+{110}{}{Olá de novo. Ainda não tenho respostas para você, estranho. Por que você não toma uma dica e
+  tirar o pato do forno?}
 {111}{}{Feito.}
-{112}{}{Rebecca has told me what you did for her. I want to apologize for the treatment you received
- here. You certainly didn't deserve it. What can I help you with?}
+{112}{}{Rebecca disse-me o que você fez por ela. Eu quero pedir desculpas pelo tratamento que você recebeu aqui. Você certamente não merecia isso. Com o que eu posso ajudar?}
 {113}{}{Eu tenho perguntas.}
-{114}{}{Nothing. Wavy.}
-{115}{}{I've got some questions for you.}
-{116}{}{Nothing for now, thanks.}
+{114}{}{Nada, até.}
+{115}{}{Eu tenho algumas perguntas para você.}
+{116}{}{Nada por agora, obrigado.}
 {117}{}{O que você quer saber?}
-{118}{}{You work for Darion?}
-{119}{}{What you do about raiders?}
-{120}{}{Where vault door?}
-{121}{}{Anything else go on here?}
-{122}{}{Me leave now.}
+{118}{}{Você trabalha para Darion?}
+{119}{}{O que você faz sobre incursores?}
+{120}{}{Onde é a pota do vault?}
+{121}{}{Qualquer outra coisa que vá aqui?}
+{122}{}{Me deixe agora.}
 {123}{}{Você trabalha para Darion?}
-{124}{}{What do you intend to do about the raiders?}
-{125}{}{Where is the vault entrance?}
-{126}{}{Is there anything else going on around here?}
-{127}{}{I guess that's it. I'll be going now.}
-{128}{}{Yes, I do. I act as the middle man between him and the people up here. I'm not very happy about
- the fact, now that I know what he's up to.}
+{124}{}{O que você pretende fazer sobre os incursores?}
+{125}{}{Onde está a entrada do vault?}
+{126}{}{Há mais alguma coisa acontecendo por aqui?}
+{127}{}{Eu acho que é isso. Eu vou estar indo agora.}
+{128}{}{Sim eu quero. Eu agi como o homem do meio entre ele e as pessoas aqui em cima. Não estou muito feliz 
+pelo fato, agora que eu sei o que ele está fazendo.}
 {129}{}{Tudo bem.}
 {130}{}{Eu vejo.}
-{131}{}{Nothing. They have the guns, they control the water, and they control the food. That means
- they are in charge. Period. We have no skills and no means of support without the backing of Darion.
- How can we turn against him? We're at his mercy.}
-{132}{}{Hmm. Me think me understand.}
-{133}{}{Hmm. I see.}
-{134}{}{It's behind that door over there, but it's locked from the other side and trapped, too. I don't have
- any means of opening it... Wait a minute. I found this key card some time ago, and I have no idea what
- it is for. Rebecca says that you found some sort of door where they were holding Chrissy. Maybe this
- card will open it. Here, take it.}
-{135}{}{Me thank you.}
-{136}{}{Thanks. I'll give it a try.}
-{137}{}{There's a city west of here called NCR. They claim Vault 15 is their ancestral home and they want it
- back. They've been sending people here trying to talk us into leaving but we aren't going for it. This is the only home we know.}
-{138}{}{You maybe make deal NCR?}
-{139}{}{Would you consider making a deal with NCR?}
-{140}{}{That all depends. What did you have in mind?}
-{141}{}{Join NCR tribe. Learn from elders. Give NCR you permission enter vault. Both happy.}
-{142}{}{Join NCR, let them annex your territory, and give them access to the vault. In return, they can teach you all the skills
- you need to survive on your own and offer you their protection.}
-{143}{}{Not bad... I like it. You've got yourself a deal if you can get NCR to agree to it as well. But...
- Look, someone has to take care of Darion and his cronies. It should be done now before they realize what has happened
- and have time to prepare for an attack. Why not get this over with and take Darion out now?
- You'll have the element of surprise on your side.}
-{144}{}{You right, me take care of.}
-{145}{}{Me not sure.}
-{146}{}{Yeah, I guess it has to be done.}
-{147}{}{I don't know.}
-{148}{}{Excellent. Good luck to you, and thank you.}
+{131}{}{Nada. Eles têm armas, controlam a água e controlam a comida. Que significa
+  Eles estão no comando. Periódicoo. Não temos habilidades e nenhum meio de apoio sem o apoio de Darion.
+  Como podemos nos voltar contra ele? Estamos à sua mercê.}
+{132}{}{Hmm. Me acho me entender.}
+{133}{}{Hmm. Eu vejo.}
+{134}{}{Está por trás dessa porta por aí, mas está trancada do outro lado e presa também. Eu não tenho
+  qualquer forma de abri-lo ... Espere um minuto. Encontrei esse cartão-chave há algum tempo, e não tenho ideia do que
+  isto é para fazer. Rebecca diz que você encontrou algum tipo de porta onde eles estavam segurando Chrissy. Talvez isto
+  O cartão abrirá. Aqui, pegue isso.}
+{135}{}{- Me agradecer-lhe.}
+{136}{}{Obrigado. Eu vou dar-lhe uma tentativa.}
+{137}{}{Há uma cidade a oeste daqui chamada NCR. Eles afirmam que o Vault 15 é sua casa ancestral e eles querem isso
+  de volta. Eles estão enviando pessoas aqui tentando nos convencer a sair, mas não estamos prontos para isso. Esta é a única casa que conhecemos.}
+{138}{}{Você pode fazer negócios com NCR?}
+{139}{}{Você consideraria fazer um acordo com NCR?}
+{140}{}{Que tudo depende. O que você tem em mente?}
+{141}{}{Junte-se à tribo NCR. Aprenda com os anciãos. Dê a NCR sua permissão de entrar no vault. Ambos felizes.}
+{142}{}{Junte-se a NCR, deixe-os anexar seu território e dê-lhes acesso ao cofre. Em troca, eles podem ensinar-lhe todas as habilidades
+  que você precisa para sobreviver por conta própria e oferecer-lhe sua proteção.}
+{143}{}{Não está mal ... Eu gosto disso. Você conseguiu um acordo se você conseguir que a NCR concordasse também. Mas...
+  Olha, alguém precisa cuidar de Darion e seus amigos. Isso deve ser feito agora antes de perceber o que aconteceu
+  e ter tempo para se preparar para um ataque. Por que não acaba com isso e tirar Darion agora?
+  Você terá o elemento surpresa do seu lado.}
+{144}{}{Você está certo, eu cuido.}
+{145}{}{Não tenho certeza.}
+{146}{}{Sim, eu acho que tem que ser feito.}
+{147}{}{Eu não sei.}
+{148}{}{Excelente. Boa sorte para você, e muito obrigado.}
 {149}{}{Feito.}
-{150}{}{Well, take the time to think about it, but know this -- until Darion is out of the picture, I
- have no choice but to maintain things around here as they are. It's for the safety of everyone
- concerned. That means no deal and you are still persona non grata. Understand?}
+{150}{}{Bem, aproveite o tempo para pensar sobre isso, mas conheça isso - até que Darion esteja fora da foto, eu
+  não tem escolha senão manter as coisas por aqui como estão. É para com a segurança de todos que estou
+  preocupado. Isso significa que não há acordo e você ainda é persona non grata. Compreende?}
 {151}{}{Tudo bem.}
-{152}{}{Hi. I'm still waiting for a final resolution to our troubles. In other words, kick Darion's ass!}
+{152}{}{Olá. Eu ainda estou esperando por uma resolução final para os nossos problemas. Em outras palavras, chute a bunda de Darion!}
 {153}{}{Feito.}
-{154}{}{You've done it, friend! We're no longer under Darion's yoke. Thank you! I'm ready to accept your deal with NCR now.
- Just have them send one of their reps by and I'll seal the deal.}
+{154}{}{Você fez isso, amigo! Não estamos mais sob o jugo de Darion. Obrigado! Estou pronto para aceitar o seu acordo com a NCR agora.
+  Basta mandar enviar um de seus representantes e selarei o acordo.}
 {155}{}{Feito.}
-{156}{}{Thanks for the chance of a new life. We all owe you.}
-{157}{}{Just go away. I have nothing to say to you.}
-{158}{}{Wait, before you go... I found this key card some time ago, and I have no idea what it’s for.
- Rebecca says that you found some sort of entrance where they were holding Chrissy. Maybe this card will
- open it. Here, take it.}
+{156}{}{Obrigado pela oportunidade de uma nova vida. Nós todos temos uma divida com você.}
+{157}{}{Apenas vá embora. Eu não tenho nada a dizer para você.}
+{158}{}{Aguarde, antes de você ir... eu achei este cartão-chave há algum tempo, e eu não tenho nenhuma idéia do que é. Rebecca diz que você encontrou uma espécie de entrada onde eles estavam segurando Chrissy. Talvez esta placa abra-o. Aqui, pegue-a.}
 {159}{}{Obrigado.}
-{160}{}{What can I help you with?}
-{161}{}{Just the problems with the NCR, but I think the deal you offered will solve that.}
-{162}{}{You've done it, friend! We're no longer under Darion's yoke. Thank you!}
-{163}{}{Now that Darion's gone we don't have any way to get food. We will surely perish! Thanks a lot.}
+{160}{}{Com o que posso ajudar?
+}
+{161}{}{Apenas a problemas com a NCR, mas eu acho que o negócio que você ofereceu vai resolver isso.}
+{162}{}{Você fez isso, amigo! Não estamos mais sob o jugo de Darion. Obrigado!}
+{163}{}{Agora que Darion se foi, não temos como obter comida. Nós certamente morreremos! Muito obrigado.}

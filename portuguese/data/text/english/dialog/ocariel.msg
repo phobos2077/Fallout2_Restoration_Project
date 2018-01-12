@@ -40,7 +40,7 @@
 {139}{}{I must be going now.}
 {140}{}{No, I can leave anytime I want. The deathclaws have made that very clear to me. They don't hold
  anyone here against their will, as far as I know.}
-{141}{}{Uh, okay.}
+{141}{}{Uh, tudo bem.}
 {142}{}{Got it. Me go.}
 {143}{}{Eu vejo.}
 {144}{}{I think you're lying, bitch.}

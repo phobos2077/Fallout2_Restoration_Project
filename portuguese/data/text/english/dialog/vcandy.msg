@@ -102,7 +102,8 @@
 {201}{}{Go ahead. Call them. They won't get here in time to save your ass.}
 {202}{}{Well, then. You're welcome.}
 {203}{}{So...was there something else I could help you with?}
-{204}{}{What can I help you with?}
+{204}{}{Com o que posso ajudar?
+}
 {205}{}{I could use some medical attention.}
 {206}{}{Um, I need a growth removed. My sixth toe.}
 {207}{}{My friend here could use some medical attention.}

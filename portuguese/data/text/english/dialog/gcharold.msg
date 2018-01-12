@@ -187,7 +187,7 @@
 {286}{}{To the east of here}
 {287}{}{To the northeast}
 {288}{}{I don't understand.}
-{289}{}{I don't know.}
+{289}{}{Eu não sei.}
 {290}{}{That hurts.}
 {291}{}{That really hurts.}
 {292}{}{That's got to hurt.}

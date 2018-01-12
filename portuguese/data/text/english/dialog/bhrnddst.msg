@@ -1,10 +1,10 @@
-{100}{}{You encounter rogues and wolves.}
-{101}{}{You encounter rogues.}
-{102}{}{You encounter wolves.}
-{103}{}{You encounter radscorpions.}
-{104}{}{You encounter spore plants.}
-{105}{}{You encounter a Unity Patrol fighting rogues.}
-{106}{}{You encounter a Unity Patrol fighting wolves.}
+{100}{}{Você encontra malandros e lobos.}
+{101}{}{Você encontra vilões.}
+{102}{}{Você encontra lobos.}
+{103}{}{Você encontra radscorpions.}
+{104}{}{Você encontra plantas de esporos.}
+{105}{}{Você encontrar uma Unidade de Patrulha de combate a bandidos.}
+{106}{}{Você encontra uma Unidade de Patrulha combatendo lobos.}
 {107}{}{You encounter a Unity Patrol.}
 {150}{}{You encounter slavers and dogs.}
 {151}{}{You encounter slavers.}
@@ -17,7 +17,7 @@
 {158}{}{You encounter a patrol fighting wild dogs.}
 {159}{}{You encounter a patrol.}
 {200}{}{You are ambushed by raiders.}
-{201}{}{You encounter wolves.}
+{201}{}{Você encontra lobos.}
 {202}{}{You encounter a caravan fending off raiders.}
 {203}{}{You encounter a caravan fending off raiders.}
 {204}{}{You encounter a caravan fending off raiders}
@@ -27,8 +27,8 @@
 {208}{}{You encounter a caravan.}
 {209}{}{You encounter a caravan.}
 {250}{}{You encounter marauders.}
-{251}{}{You encounter wolves.}
-{252}{}{You encounter radscorpions.}
+{251}{}{Você encontra lobos.}
+{252}{}{Você encontra radscorpions.}
 {253}{}{You encounter a caravan fending off marauders.}
 {254}{}{You encounter a caravan fending off marauders.}
 {255}{}{You encounter a caravan fending off wolves.}
@@ -64,8 +64,8 @@
 {403}{}{You encounter golden geckos and radscorpions.}
 {404}{}{You encounter golden geckos.}
 {405}{}{You encounter mole rats and pig rats.}
-{406}{}{You encounter radscorpions.}
-{407}{}{You encounter spore plants.}
+{406}{}{Você encontra radscorpions.}
+{407}{}{Você encontra plantas de esporos.}
 {408}{}{You encounter robbers fighting highwaymen.}
 {409}{}{You encounter a caravan fending off highwaymen.}
 {410}{}{You encounter a caravan fending off robbers.}
@@ -97,7 +97,7 @@
 {512}{}{You encounter a caravan.}
 {550}{}{You encounter geckos and wolves.}
 {551}{}{You encounter claim jumpers.}
-{552}{}{You encounter wolves.}
+{552}{}{Você encontra lobos.}
 {553}{}{You encounter golden geckos.}
 {554}{}{You encounter prospectors fending off claim jumpers.}
 {555}{}{You encounter trappers hunting geckos.}

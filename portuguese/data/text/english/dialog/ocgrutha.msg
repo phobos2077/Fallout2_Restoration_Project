@@ -177,7 +177,7 @@
 {231}{}{. Have you examined the machine?}
 {232}{}{. I will wait for your return.}
 {233}{}{. Have you found the part to fix the machine?}
-{234}{}{Uh, okay.}
+{234}{}{Uh, tudo bem.}
 {235}{}{I hope you are enjoying your stay.}
 {236}{}{Unfortunately, it had to come to this. I allowed him to stay unharmed as long as he presented no threat to the pack. He chose his path. I hope you understand.}
 {237}{}{You bad.}

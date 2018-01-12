@@ -7,7 +7,8 @@
 {106}{}{I'm new here and I'm trying to get familiar with the base. Can I ask you some questions?}
 {107}{}{Just saying hi. See ya.}
 {108}{}{Sure. I've got a few minutes.}
-{109}{}{What can I help you with?}
+{109}{}{Com o que posso ajudar?
+}
 {110}{}{What this place?}
 {111}{}{What you job?}
 {112}{}{Where Enclave main base at?}

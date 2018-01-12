@@ -3,7 +3,8 @@
 {102}{}{You see a typical Deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
  claws. This one appears to be female but you cannot tell with any certainty. You notice the scars of several injuries on her torso.}
 {103}{}{A human visitor is an unexpected but not unwelcome event. I am Kerith.}
-{104}{}{What can I help you with?}
+{104}{}{Com o que posso ajudar?
+}
 {105}{}{You D'claw mother?}
 {106}{}{Who D'claw father?}
 {107}{}{Door look like crap. What happen?}
@@ -25,7 +26,7 @@
 {122}{}{Eu entendo.}
 {123}{}{These eggs were sired by Gruthar, the pack leader. It is Gruthar who decides who will mate and
  who will not. The pack will be made strong by Gruthar.}
-{124}{}{Uh, okay.}
+{124}{}{Uh, tudo bem.}
 {125}{}{Hmmm. I see. Selective breeding to improve the strain.}
 {126}{}{That is a painful memory. A treacherous human sneaked in here and planted a bomb among the eggs
  while I was asleep. Fortunately he was not as stealthy leaving and I awoke to find the bomb. There was

@@ -7,7 +7,8 @@
 {106}{}{I知 new here. I need to ask a few questions to familiarize myself with the base.}
 {107}{}{Sorry to bother you. I知 just saying hi.}
 {108}{}{I知 a new recruit myself, sir. I don稚 know if I can answer all your questions but I値l try.}
-{109}{}{What can I help you with?}
+{109}{}{Com o que posso ajudar?
+}
 {110}{}{What this place?}
 {111}{}{What you job?}
 {112}{}{Where Enclave main base at.}

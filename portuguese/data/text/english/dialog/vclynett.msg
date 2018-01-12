@@ -828,7 +828,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {821}{}{I'll take that.}
 {822}{}{Give me that.}
 {823}{}{Eu não sei nada sobre isso.}
-{824}{}{I don't know.}
+{824}{}{Eu não sei.}
 {825}{}{Sim.}
 {826}{}{Não.}
 {827}{}{Certainly.}
