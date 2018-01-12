@@ -1,11 +1,12 @@
-{100}{}{You see a young woman.}
+{100}{}{Você vê uma mulher jovem.}
 {101}{}{You see Ann, Connar's wife.}
 {102}{}{She appears to be busily cooking.}
 {200}{}{Why hello there, I'm Connar's wife, Ann. You must be the one who helped us out. I can't tell you how much
  we appreciate all you've done. It's hard to believe that we can finally live in peace without fear of Vault City's goons
  coming to take us from our homes.}
 {201}{}{Glad to be of assistance. You seem to be quite busy here. Need some help with anything?}
-{202}{}{No problem. See you around.}
+{202}{}{Sem problemas. Até a próxima.
+}
 {300}{}{Actually, I *could* use some help. Now that we're becoming more organized, we're starting to see our numbers
  grow. The problem is, I'm not sure we'll have enough food to go around. My husband has attempted to get the caravans
  to stop here, but they don't' think we're worth their time. I don't suppose you could get them to reconsider?}

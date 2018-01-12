@@ -32,7 +32,7 @@
 {271}{}{I have come to make a donation.}
 {280}{}{Oh, I didn't know you were following such divine orders. In that case, you're free to enter. Here, let me unlock this door for you.}
 {281}{}{[He frowns.] Huh, I was never told about any inspections...}
-{282}{}{Thanks. See you around.}
+{282}{}{Obrigado. Nos vemos.}
 {283}{}{Listen, I was personally told by AHS-9 to check on things. He asked that I collect a specific artifact that was donated recently. It is crucial for reaching the Star Father.}
 {284}{}{I'm getting real sick of your lies. I think it's time I remove one more weed from the world.}
 {290}{}{But this isn't where you go to donate. You can go do that at any of our churches.}

@@ -45,7 +45,7 @@
 {255}{}{I'm a traveler, looking for Vault 13. Have you heard of it?}
 {256}{}{I'm a traveler...do you know where I could find something called the 'Garden of Eden Creation Kit?'}
 {257}{}{Look, maybe I better be going. Goodbye.}
-{260}{}{Yes?}
+{260}{}{Sim?}
 {261}{}{Can you tell me about Mr. Bishop?}
 {262}{}{Can you tell me about the Bishop Family?}
 {263}{}{Have you ever heard of a place called Vault 13?}

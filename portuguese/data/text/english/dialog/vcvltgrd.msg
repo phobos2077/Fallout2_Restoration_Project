@@ -33,7 +33,7 @@
 {128}{}{Umgh}
 {129}{}{Of course. Please pass through.}
 {130}{}{Thankee!}
-{131}{}{Thank you.}
+{131}{}{Obrigado.}
 {132}{}{Yes? May I help you?}
 {133}{}{I'd like to enter the Vault.}
 {134}{}{Nothing, sorry to disturb you.}

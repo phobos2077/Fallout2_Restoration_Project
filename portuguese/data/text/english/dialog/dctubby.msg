@@ -23,7 +23,7 @@
 {168}{}{Adeus.}
 {169}{}{I would prefer that you leave, instead.}
 {170}{}{Adeus.}
-{171}{}{What would you like to know?}
+{171}{}{O que você gostaria de saber?}
 {172}{}{Who's in charge of this town?}
 {173}{}{Why is everyone selling drugs?}
 {174}{}{Do you know where the Vault is located?}

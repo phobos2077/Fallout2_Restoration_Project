@@ -26,7 +26,7 @@
 {119}{}{Mind if I ask you some questions?}
 {120}{}{It's a deal! I would love to hear anything you can tell me.}
 {121}{}{Besides, I couldn't refuse a friend of Gruthar.}
-{122}{}{What would you like to know?}
+{122}{}{O que você gostaria de saber?}
 {123}{}{What are you doing here?}
 {124}{}{Are you a prisoner here?}
 {125}{}{How long have you been here?}

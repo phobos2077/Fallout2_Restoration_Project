@@ -3,7 +3,7 @@
 {102}{}{You see someone wearing a lab coat. He appears confident and self-assured.}
 {103}{}{Yes, soldier?}
 {104}{}{Me new here. Need ask question.}
-{105}{}{Me just say hi. Me go now.}
+{105}{}{Eu apenas disse oi. Eu vou agora.}
 {106}{}{I'm new here and I'm trying to get familiar with the base. Can I ask you some questions?}
 {107}{}{Just saying hi. See ya.}
 {108}{}{Sure. I've got a few minutes.}

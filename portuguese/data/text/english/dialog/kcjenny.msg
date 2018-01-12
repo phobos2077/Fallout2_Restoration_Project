@@ -27,7 +27,7 @@
 {274}{}{Mommy?}
 {280}{}{Hmm, I think you just better clear out of here before Big Nose Sally finds you. She doesn't
  take kindly to idjits in her place.}
-{290}{}{What would you like to know?}
+{290}{}{O que você gostaria de saber?}
 {291}{}{Tell me about trappers.}
 {292}{}{I'm looking for a trader. Know any of them that deal in old items, like from the beforetimes?}
 {293}{}{Do you happen to know how to get to the Den from here?}

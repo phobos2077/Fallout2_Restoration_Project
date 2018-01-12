@@ -54,7 +54,7 @@
 {330}{}{Damn, man. Metzger's the slaver master. He runs things around here.}
 {331}{}{Damn, lady. This is the last place a lady like you would want to be. Metzger's the slaver master.}
 {332}{}{Oh, where's his office?}
-{333}{}{Okay, bye.}
+{333}{}{Tudo bem, tchau.}
 {340}{}{Right through the back door there.}
 {341}{}{Obrigado.}
 {350}{}{Sorry, I don't understand.}
@@ -96,7 +96,7 @@
 {460}{}{He's busy.}
 {461}{}{Please, he won't leave the room. I promise.}
 {462}{}{Can't we work something out - financially maybe?}
-{463}{}{Okay, bye.}
+{463}{}{Tudo bem, tchau.}
 {470}{}{Well, uh… I don't know. I guess it wouldn't hurt just for you to talk to him. $300 and I'll let you in.}
 {471}{}{You're nuts. That's too much!}
 {472}{}{Screw you, buddy!}

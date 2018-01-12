@@ -1,7 +1,7 @@
-{100}{}{You see a simple vase.}
-{101}{}{You see a small chest.}
-{102}{}{You see a sun-baked clay vase.}
-{103}{}{You see a chest for the shaman's herbs.}
-{104}{}{You deftly steal from the shaman's things.}
-{105}{}{You skillfully lock the chest.}
-{106}{}{You skillfully unlock the chest.}
+{100}{}{Você vê um vaso simples.}
+{101}{}{Você verá um baú.}
+{102}{}{Você vê um vaso de argila ao sol.}
+{103}{}{Você vê um baú para as ervas do xamã.}
+{104}{}{Você habilmente rouba coisas do xamã.}
+{105}{}{Você habilmente bloqueia o baú.}
+{106}{}{Você habilmente destrava o baú.}

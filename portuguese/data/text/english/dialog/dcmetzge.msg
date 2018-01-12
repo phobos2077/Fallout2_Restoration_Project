@@ -181,7 +181,7 @@
 {510}{}{Okay, he's yours, but get his ass out of here before I change my mind
  and put a bullet in that stupid fucking head of his.}
 {511}{}{Can I ask you some more questions first?}
-{512}{}{Thank you.}
+{512}{}{Obrigado.}
 {520}{}{Oh, yes. We can work everything out nice and smooth... I'll give you
  half off if you make it worth my while...}
 {521}{}{You had best stop teasing me, girly. I'm not much with patience.}

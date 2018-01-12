@@ -24,7 +24,7 @@
 {123}{}{My name's Martin.}
 {124}{}{I can tell you what happened.}
 {125}{}{Hello there, I'm Martin Frobisher. I speak for these people. Thank God you're here.}
-{126}{}{What would you like to know?}
+{126}{}{O que você gostaria de saber?}
 {127}{}{Nice outfits, just like mine. Who are you people?}
 {128}{}{What are you people doing here?}
 {129}{}{Are you the Overseer?}

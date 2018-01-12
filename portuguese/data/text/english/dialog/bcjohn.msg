@@ -1,16 +1,15 @@
-{100}{}{You see a squatter.}
-{101}{}{You see John, the squatter.}
-{102}{}{You see a middle-aged man wearing worn clothing.}
-{103}{}{Sorry, stranger, I don't have time to chat with you.}
-{104}{}{Why no talk?}
-{105}{}{Okay, wavy.}
-{106}{}{All right, see ya.}
-{107}{}{Wait a minute. Why won't you talk to me?}
-{108}{}{We're a very private community here, and we don't want any trouble or interference from outside
- sources. Please just leave us be.}
+{100}{}{Você vê um posseiro.}
+{101}{}{Você vê John, o posseiro.}
+{102}{}{Você vê um homem de meia-idade, vestindo roupas usadas.}
+{103}{}{Desculpe, estranho, eu não tenho tempo para conversar com você.}
+{104}{}{Por que não falar?}
+{105}{}{Ok, suave.}
+{106}{}{Tudo bem, vejo você.}
+{107}{}{Espere um minuto. Por que você não conversa comigo?}
+{108}{}{Nós somos uma comunidade aqui, e nós não queremos nenhum problema ou interferência de fontes de fora. Por favor, deixe estar.}
 {109}{}{Tudo bem.}
-{110}{}{Hello... and good bye.}
-{111}{}{Thank you for all that you've done. I apologize for the cold shoulder earlier.}
-{112}{}{Screw you, asshole!}
-{113}{}{Damn, I hate it when that happens.}
-{114}{}{Take that! Yeah, that'll show ya.}
+{110}{}{Olá... e adeus.}
+{111}{}{Obrigado por tudo o que você fez. Peço desculpas pelo geito frio antes.}
+{112}{}{Toque você, idiota!}
+{113}{}{Porra, eu odeio quando isso acontece.}
+{114}{}{Tome isso! Sim, isso te mostrará.}

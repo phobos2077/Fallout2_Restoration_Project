@@ -222,7 +222,7 @@
 {282}{}{Hello, Captain. How may I be of assistance?}
 {283}{}{Hello, Citizen. How may I be of assistance?}
 {284}{}{How may I be of assistance?}
-{285}{}{Yes?}
+{285}{}{Sim?}
 {286}{}{Me got ouchie}
 {287}{}{Ass-is-tense?}
 {288}{}{(Shamble off)}
@@ -306,7 +306,7 @@
  convenience. The risk is too great, and the implants are not a substantial improvement over standard
  combat armor.}
 {351}{}{Hmmm. Okay, I had some other questions...}
-{352}{}{Well, thanks anyway.}
+{352}{}{Bem, de qualquer forma obrigado.}
 {353}{}{Well, thanks anyway. Maybe I can find somebody else to perform the operation.}
 {354}{}{I'm sorry. The facilities are only for Citizens, and a list of all patients is kept in the
  database... [Lowers voice.] However, the stimpacks in the lower level supply lockers would not be missed

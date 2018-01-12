@@ -1,53 +1,53 @@
-{100}{}{You see a short man carrying a book in his hands.}
+{100}{}{Você vê um pequeno homem com um livro em suas mãos.}
 {101}{}{You see Joseph, the herbalist.}
 {102}{}{You see a short man with a book called "Herbs and Their Medicinal Uses."}
 {103}{}{Hello, I'm Joseph the herbalist. What can I help you with?}
-{104}{}{Got owie. You fix?}
-{105}{}{Feel icky. You fix?}
-{106}{}{Me gimp, you fix?}
-{107}{}{Got questions. Okay?}
-{108}{}{Sorry, me go.}
-{109}{}{I'm injured. Can you help me?}
-{110}{}{I feel ill. Can you help me?}
-{111}{}{I'm crippled. Can you help me?}
-{112}{}{I wanted to ask you some questions.}
-{113}{}{Just saying hello.}
+{104}{}{Tenho owie. Você conserta?}
+{105}{}{Sinto icky. Você conserta?}
+{106}{}{Eu gimp, você conserta?}
+{107}{}{Tenho dúvidas. Tudo bem?}
+{108}{}{Desculpe, eu vou.}
+{109}{}{Eu estou ferido. Você pode me ajudar?}
+{110}{}{Eu me sinto doente. Você pode me ajudar?}
+{111}{}{Eu estou aleijado. Você pode me ajudar?}
+{112}{}{Eu queria pedir-lhe algumas perguntas.}
+{113}{}{Apenas dizer "olá".}
 {114}{}{Why, certainly. Hmmm. You'll need to take some of this. I'll apply this balm to the wound.
  Now just lie back and rest for a couple of hours.}
-{115}{}{Me thank. Bye.}
-{116}{}{Thanks, Doc. I feel much better.}
+{115}{}{Eu agradecer. Tchau.}
+{116}{}{Obrigado, Doc. Eu me sinto muito melhor.}
 {117}{}{Why, certainly. Hmmm. This will take a while, so you'll have to stay here overnight. You'll
  need to take this, drink this -- all of it, I know it tastes foul. Now, just lie back and I'll wake
  you in the morning.}
-{118}{}{Me feel good. Bye.}
+{118}{}{Me sinto bem. Tchau.}
 {119}{}{Thanks. That did the trick.}
 {120}{}{I'm sorry, but I'm not a medical doctor and I can't perform surgery. I would suggest that you
  go to one of the bigger cities and see a surgeon. Try the New California Republic. It's east of here.}
 {121}{}{Okay. Bye.}
-{122}{}{All right. Thanks anyway.}
-{123}{}{What would you like to know?}
+{122}{}{Tudo bem. Obrigado de qualquer forma.}
+{123}{}{O que você gostaria de saber?}
 {124}{}{You prisoner?}
-{125}{}{You leave here when want?}
+{125}{}{Você sai daqui quando quer?}
 {126}{}{What you know about D'claws?}
-{127}{}{How you be here?}
+{127}{}{Como você está aqui?}
 {128}{}{Eu vou agora.}
 {129}{}{Are you a prisoner here?}
-{130}{}{Can you leave here if you want?}
+{130}{}{Você pode sair daqui se você deseja?}
 {131}{}{What can you tell me about the Deathclaws?}
-{132}{}{How did you come to be here in the first place?}
-{133}{}{Thanks for the information. I'll be heading out now.}
+{132}{}{Como você chegou a estar aqui, em primeiro lugar?}
+{133}{}{Obrigado pela informação. Eu vou estar indo agora.}
 {134}{}{No, I'm not a prisoner. I stay because I'm needed here. I've learned to accept the fact that
  some of my patients are Deathclaws.}
-{135}{}{Okay. Need know more.}
+{135}{}{Tudo bem. Precisa saber mais.}
 {136}{}{Obrigado. Tchau.}
-{137}{}{That's very commendable of you.}
+{137}{}{Isso é muito louvável.}
 {138}{}{Eu vejo.}
 {139}{}{That's a decision that I can't agree with, but it's your life.}
 {140}{}{Yes I can, and often do. I have to collect my herbs from time to time, and I've never been
  stopped. I used to wonder if the Deathclaws were secretly following me and whether or not they would
  stop me if I tried to leave. So one day I put the theory to test.}
-{141}{}{Me got it. Go now.}
-{142}{}{Need ask more.}
+{141}{}{Eu entendi. Vá agora.}
+{142}{}{Precisa pedir mais.}
 {143}{}{You took a foolish chance and you're lucky it paid off.}
 {144}{}{Tudo certo.}
 {145}{}{Good idea. I'm glad to see it worked.}
@@ -56,8 +56,8 @@
  factor is quite high. This species is highly intelligent, about the equivalent of an eight-year-old,
  with some individuals reaching human normal level. Their learning capacity is very high and they are
  capable of abstract thought and reasoning.}
-{147}{}{Uh... what you said.}
-{148}{}{Got go now.}
+{147}{}{Uh... o que você disse.}
+{148}{}{Tenho que ir agora.}
 {149}{}{Uh-huh.}
 {150}{}{Wow, I'm impressed with your knowledge.}
 {151}{}{Sounds like a bunch of hogwash to me.}
@@ -65,11 +65,11 @@
  watching you,' it said, 'and I know that you are a healer. Are you dedicated to your art enough to heal
  someone foreign to you? Someone whom many would consider an enemy?'}
 {153}{}{Ugh.}
-{154}{}{Thanks. Me be leave now.}
+{154}{}{Obrigado. Eu vou embora agora.}
 {155}{}{What a waste to be here when you could be helping others.}
 {156}{}{You are truly a dedicated man who deserves recognition.}
 {157}{}{Interesting.}
-{158}{}{I'll not help someone like you. Go away.}
+{158}{}{Eu não vou ajudar alguém como você. Vá embora.}
 {159}{}{I traveled to another town and stayed there a week or so before returning. When I got back, I was
  warmly welcomed. Gruthar, the pack leader, came to me privately and personally thanked me for coming
  back. No, I am definitely here because I want to be.}

@@ -55,7 +55,7 @@
 {159}{}{Some of them even committed suicide right here in town!}
 {160}{}{So?}
 {161}{}{Well don't you see. They were talking about the Master, the one your ancestor killed.}
-{162}{}{Thanks for the story.}
+{162}{}{Obrigado pela história.}
 {163}{}{Well, it's getting late. Bye.}
 {164}{}{My pleasure. Bye.}
 {165}{}{Adeus.}

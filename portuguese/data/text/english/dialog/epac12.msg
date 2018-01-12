@@ -59,7 +59,7 @@
 {245}{}{Well, since you're giving me a choice... (smirk)}
 {246}{}{[She glares at you wordlessly.]}
 {247}{}{Oh, I mean, of course I'll help you up. [You help her to her feet.]}
-{250}{}{What are you going to do now?}
+{250}{}{O que você vai fazer agora?}
 {251}{}{I don't know. What do you do when you've been hibernating for over a century? Even bears don't sleep that long.
  The world out there isn't the world I knew. I don't know if I could stand to see what it's turned into.}
 {252}{}{I know it's a wasteland out there, but you've still got a whole life to live. You're wasting it down here.
@@ -85,7 +85,7 @@
 {286}{}{Let's get out of here, then. It's time we left this dump behind.}
 {287}{}{Actually, I think I'm going to strike out on my own. I've always been the independent type, so it shouldn't be any skin off my back. A lot has changed since I've been away and I'd like to see it for myself. Thanks for unthawing me. You take care of yourself.}
 {288}{}{[Feito]}
-{300}{}{Yes?}
+{300}{}{Sim?}
 {301}{}{I'm all ears.}
 {302}{}{Something you wanted?}
 {303}{}{What is it? You look like you have something to say.}

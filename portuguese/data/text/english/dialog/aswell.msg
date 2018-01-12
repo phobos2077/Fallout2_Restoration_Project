@@ -1,2 +1,2 @@
-{100}{}{The well has not worked in a while. It needs to be repaired.}
-{101}{}{The well is working fine.}
+{100}{}{O poço não funciona há algum tempo. Precisa ser reparado.}
+{101}{}{O poço está funcionando bem.}

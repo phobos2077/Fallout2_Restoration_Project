@@ -1,2 +1,2 @@
-{100}{}{You see a simple vase.}
-{101}{}{You see a sun-baked clay vase.}
+{100}{}{Você vê um vaso simples.}
+{101}{}{Você vê um vaso de argila ao sol.}

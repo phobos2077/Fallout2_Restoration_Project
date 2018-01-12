@@ -1,5 +1,5 @@
 {100}{}{You see a very attractive young lady.}
-{101}{}{You see Rebecca.}
+{101}{}{Você vê Rebecca.}
 {150}{}{You see Rebecca, the owner of Becky's Casino Bar.}
 {200}{}{Hi there, I'm Rebecca. Can I get you something to drink? I'm sure you're thirsty
  after your trip through the wastes.}
@@ -22,7 +22,7 @@
 {217}{}{Need something?}
 {218}{}{Nice to see you again. How can I help you today?}
 {219}{}{What?}
-{220}{}{Yes?}
+{220}{}{Sim?}
 {221}{}{Now what?}
 {222}{}{Please keep it short. It's a busy day. What do you need?}
 {223}{}{What can I do for you? I'm really busy.}
@@ -30,7 +30,7 @@
 {225}{}{I'm really not in the mood. What now?}
 {226}{}{You're back already? I guess you want a drink then?}
 {240}{}{Sure, handsome.}
-{241}{}{What would you like to know?}
+{241}{}{O que você gostaria de saber?}
 {242}{}{I'd be happy to.}
 {243}{}{But of course.}
 {244}{}{Com certeza.}
@@ -122,7 +122,7 @@
  that's all. To show my appreciation, I'll split it with you, right down the
  middle. Thank you again, that was very honest of you.}
 {401}{}{Oh, I'm so glad you were able to find it… Thank you very much. Here's your money.}
-{402}{}{You're welcome.}
+{402}{}{Você é bem-vindo.}
 {410}{}{I can't believe they are both dead. I'm sorry. Thank you for finding out for
  me. If you'll excuse me...}
 {411}{}{I can't believe he's dead... after all these years.}

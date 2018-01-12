@@ -1,147 +1,148 @@
-{100}{}{You see an older woman.}
-{101}{}{You see Rebecca.}
-{102}{}{You see an older woman. Although she appears to have lived a hard life, she has not lost any of
- her natural beauty.}
-{103}{}{Hi, I'm Rebecca. Can we talk privately, please?}
-{104}{}{What talk about?}
-{105}{}{Why need talk private?}
+{100}{}{Você vê uma mulher mais velha.}
+{101}{}{Você vê Rebecca.}
+{102}{}{Você vê uma mulher mais velha. Embora ela parece ter vivido uma vida difícil, ela não perdeu nada de sua beleza natural.}
+{103}{}{Oi, eu sou a Rebecca. Podemos conversar a sós, por favor?}
+{104}{}{O que falar?}
+{105}{}{Por que precisa falar privada?}
 {106}{}{Tudo bem.}
-{107}{}{No. Me leave.}
-{108}{}{Sorry, not interested.}
-{109}{}{What do you want to talk to me about?}
-{110}{}{Sure, where can we go for privacy?}
-{111}{}{Why the need for privacy?}
-{112}{}{(whispering) My daughter is missing and I need help finding her. I can't talk about it here,
- though. Can we go somewhere private?}
+{107}{}{Não. Me deixe.}
+{108}{}{Desculpe, não interessa.}
+{109}{}{O que você quer falar comigo?}
+{110}{}{Com certeza, onde podemos ir para a privacidade?}
+{111}{}{Por isso a necessidade de privacidade?}
+{112}{}{(sussurrando) Minha filha está perdida e eu preciso de ajuda para encontrá-la. Não posso falar sobre isso aqui,
+  Apesar. Podemos ir a algum lugar privado?}
 {113}{}{Tudo bem.}
-{114}{}{Why need talk private?}
-{115}{}{No, me go.}
-{116}{}{All right, let's go.}
-{117}{}{Why the need for privacy?}
-{118}{}{No thanks, I don't want to get involved.}
-{119}{}{(whispering) You may think I'm crazy but I get the feeling I'm being watched all the time. It's
- rather disturbing, and I'm a bit on edge because of it.}
-{120}{}{Okay, we go private.}
-{121}{}{No time for sicky in head.}
-{122}{}{All right; where can we go to talk?}
-{123}{}{Sorry, I don't like the sound of this.}
-{124}{}{Thanks; we can go to my tent.}
+{114}{}{Por que precisa falar privada?}
+{115}{}{Não, eu vou.}
+{116}{}{Tudo bem, vamos lá.}
+{117}{}{Por isso a necessidade de privacidade?}
+{118}{}{Não, obrigado, eu não quero me envolver.}
+{119}{}{(sussurrando) Você pode pensar que eu sou louca, mas tenho a sensação de estar sendo observada o tempo todo. Está
+  um pouco perturbador, e estou um pouco aflita por causa disso.}
+{120}{}{Ok, vamos privado.}
+{121}{}{Não há tempo para doença na cabeça.}
+{122}{}{Tudo bem; onde podemos conversar?}
+{123}{}{Desculpe, eu não gosto do som disso.}
+{124}{}{Obrigado; podemos ir para a minha tenda.}
 {125}{}{Tudo bem.}
-{126}{}{We should be able to talk here.}
-{127}{}{Okay, what problem?}
-{128}{}{Me got questions first.}
-{129}{}{Okay, so what's so important?}
-{130}{}{I have some questions for you, first.}
-{131}{}{I have a daughter named Chrissy who's a bit of a tomboy. She likes to run around, explore,
- and pretty much stick her nose into things. Chrissy's a good kid, though. She doesn't
- cause trouble, she's always home on time and she's shown herself to be a very responsible young lady.
- I let her do as she pleases most of the time. Last week Chrissy didn't come home. I've asked
- around, and nobody's seen or heard from her. I tried to find her myself, but Zeke, he's... sort of the
- mayor here... stopped me. He said it wasn't safe for me to go out looking on my own; he'd have some of
- his men do it. They couldn't find her, either, and said that maybe the slavers got her.}
-{132}{}{No, not get involved.}
-{133}{}{Need think before decide.}
-{134}{}{Ok, me seem be hero type lately.}
-{135}{}{Sorry, not interested.}
+{126}{}{Devemos ser capazes de falar aqui.}
+{127}{}{Ok, qual é o problema?}
+{128}{}{Eu tem perguntas primeiro.}
+{129}{}{Ok, então o que é tão importante?}
+{130}{}{Eu tenho algumas perguntas para você, em primeiro lugar.}
+{131}{}{Eu tenho uma filha chamada Chrissy, que é um pouco de sapeca. Ela gosta de correr, explorar,
+  e praticamente enfia o nariz nas coisas. Chrissy é uma boa garota, no entanto. Ela não
+  Causa problemas, ela está sempre em casa e ela mostrou-se uma jovem muito responsável.
+  Eu a deixo fazer o que quiser na maioria das vezes. Na semana passada Chrissy não voltou para casa. Eu perguntei
+  ao redor, e ninguém viu ou ouviu falar dela. Eu tentei encontrá-la eu mesma, mas Zeke, ele é ... tipo de
+  O prefeito aqui ... me deteve. Ele disse que não era seguro para eu sair olhando sozinha; ele teria alguns dos
+  seus homens fazem isso. Eles também não conseguiram encontrá-la e disseram que talvez os escravistas a levaram.}
+{132}{}{Não, não se envolver.}
+{133}{}{Preciso pensar antes de decidir.}
+{134}{}{Ok, eu pareço ser um tipo de herói ultimamente.}
+{135}{}{Desculpe, não interessa.}
 {136}{}{Eu preciso pensar sobre isso.}
-{137}{}{All right, Rebecca. I'll try to help you.}
-{138}{}{If I help you, what's in it for me?}
+{137}{}{Tudo bem, Rebecca. Eu vou tentar ajudá-la.}
+{138}{}{Se eu a ajudar, o que há para mim?}
 {139}{}{O que você quer saber?}
-{140}{}{What go on here?}
-{141}{}{Who boss?}
-{142}{}{Me try find Vault 13. You know where is?}
-{143}{}{Tell about vault.}
-{144}{}{Tell about Darion.}
-{145}{}{Thanks. We talk you problem?}
-{146}{}{What's going on around here?}
-{147}{}{Who's in charge around here?}
-{148}{}{I'm looking for Vault 13. Do you know anything about it?}
-{149}{}{Tell me about the vault.}
-{150}{}{So tell me about Darion.}
-{151}{}{Thanks Rebecca. Let's talk about your problem now.}
-{152}{}{We call this place the 'Squat' because it was settled by the homeless of many cities. It's not
- much, but it's all we have. To the west is a city called the NCR. They've known about us for quite some
- time, and never offered us any kind of help or hindrance. Now, they are suddenly claiming this area as their
- ancestral home, and they want it back.}
+{140}{}{O que aconteceu aqui?}
+{141}{}{Que chefe?}
+{142}{}{Eu tento encontrar o Vault 13. Você sabe onde está?}
+{143}{}{Conte sobre vault.}
+{144}{}{Conte sobre Darion.}
+{145}{}{Obrigado. Fale-me seu problema?}
+{146}{}{O que está acontecendo por aqui?}
+{147}{}{Quem está no comando aqui?}
+{148}{}{Estou procurando o Vault 13. Você sabe alguma coisa sobre isso?}
+{149}{}{Conte-me sobre o cofre.}
+{150}{}{Então me diga sobre Darion.}
+{151}{}{Obrigado Rebecca. Vamos falar sobre o seu problema agora.}
+{152}{}{Nós chamamos esse lugar do "Squat" porque foi formado pelos sem-teto de muitas cidades. Não é
+  Muito, mas é tudo o que temos. Para o oeste é uma cidade chamada NCR. Eles sabem sobre nós faz algun
+  tempo, e nunca nos ofereceram nenhum tipo de ajuda ou obstáculo. Agora, eles estão repentinamente reivindicando essa área como
+  casa ancestral, e eles querem isso de volta.}
 {153}{}{Tudo bem.}
-{154}{}{What here they want?}
+{154}{}{O que eles querem aqui?}
 {155}{}{Eu vejo.}
-{156}{}{What is here that they want so badly?}
-{157}{}{Well... there is a vault here; I think it's number 15. They want to loot it for any of the old
- technology that may still be there.}
-{158}{}{Ah. Me understand.}
-{159}{}{I knew there had to be something here other than the waste-of-flesh inhabitants.}
+{156}{}{O que é tão mal que eles querem?}
+{157}{}{Bem ... há um cofre aqui; Eu acho que é o número 15. Eles querem pilhá-lo por qualquer uma das antigas
+  tecnologias que ainda podem estar lá.}
+{158}{}{Ah. Eu compreendo.}
+{159}{}{Eu sabia que tinha que haver algo aqui, além de resíduos de carne de habitantes.}
 {160}{}{Tenho-o.}
-{161}{}{That explains a lot. You've been very helpful. I need to ask some more questions, though.}
-{162}{}{That would be Zeke. He runs everything up here. You can find him in the building over there.
- ::points north-east::}
-{163}{}{Thanks. Ask more.}
-{164}{}{Thank you. I need to ask you some more questions.}
-{165}{}{I'm sorry, I have no idea. I would ask about it in NCR. They've taken a great interest in
- vaults lately.}
-{166}{}{Okay, me do.}
-{167}{}{All right, I will.}
-{168}{}{Well... we're not supposed to talk about it, but since I need your help... The vault is being
- repaired by Darion. He's our benefactor. When it's fully functional, we're all supposed to move in
- where we'll be safe from raiders, slavers, and such. So far he has the food and water systems up, but
- that's about it.}
-{169}{}{Me see. Need know more.}
-{170}{}{I need to know more.}
-{171}{}{There's not much to say, really. Darion keeps to himself and never leaves the vault. If he has
- anything to say, he says it through Zeke. I've only met him once, and he seemed like a nice guy.}
+{161}{}{Isso explica muito. Você foi muito útil. Eu ainda tenho que fazer mais algumas perguntas.}
+{162}{}{Esse seria Zeke. Ele comanda tudo aqui. Você pode encontrá-lo no prédio lá.
+  :: aponta norte-leste ::}
+{163}{}{Obrigado. Pedir mais.}
+{164}{}{Obrigado. Eu preciso pedir-lhe mais algumas perguntas.}
+{165}{}{Me desculpe, eu não tenho nenhuma idéia. Gostaria de perguntar sobre ele na NCR. Eles tomaram um grande interesse em
+cofres ultimamente.}
+{166}{}{Ok, eu faço.}
+{167}{}{Tudo bem, eu vou.}
+{168}{}{Bem ... não devemos falar sobre isso, mas desde que eu preciso de sua ajuda ... O cofre está sendo
+  Reparado por Darion. Ele é nosso benfeitor. Quando estiver totalmente funcional, todos nós devemos mudar
+  pra onde estaremos a salvo de incursores, escravistas e tal. Até agora ele tem os sistemas de alimentação e água, mas
+  é sobre isso.}
+{169}{}{Eu vejo. Precisa saber mais.}
+{170}{}{Eu preciso saber mais.}
+{171}{}{Não há muito a dizer, na verdade. Darion se mantém consigo mesmo e nunca sai do cofre. Se ele tiver
+  qualquer coisa para dizer, ele diz isso através de Zeke. Só o conheci uma vez, e ele parecia um cara legal.}
 {172}{}{Tudo bem.}
-{173}{}{Nice guys finish last. I wonder what he's up to?}
+{173}{}{Boa gente acaba por último. Eu me pergunto o que ele está fazendo?}
 {174}{}{Eu vejo.}
-{175}{}{That's okay. You are very helpful.}
-{176}{}{I have nothing to give you other than my undying gratitude.}
-{177}{}{That's more than enough. I'll help you.}
-{178}{}{It'll take more than that to buy my help.}
-{179}{}{What the hell, I'll help you.}
-{180}{}{Thank you so much. I'll never be able to repay you for this. I'll wait here until you bring...
- Hey, there was someone outside listening to us! I saw their shadow on the tent wall. They just ran off
- that way! ::points north-east:: They must have heard everything!}
-{181}{}{Me stop, no get away!}
-{182}{}{You no worry, me find girl.}
-{183}{}{Ooops.}
-{184}{}{I'll try and stop them.}
-{185}{}{They won't stop me from finding your daughter.}
-{186}{}{Oh well. Shit happens.}
-{187}{}{Please, just go away.}
-{188}{}{Have you thought things through?}
-{189}{}{Me ask questions.}
-{190}{}{No, still think.}
-{191}{}{No, I'm still considering everything.}
-{192}{}{I want to ask you some questions.}
-{193}{}{Have you changed your mind? Will you help me?}
-{194}{}{Sorry, no.}
-{195}{}{Me help.}
-{196}{}{Yes, I'll help you.}
-{197}{}{You must be the person who saved my daughter. I can never repay you for your kindness. Thank you.
- Please wait here, I need to talk to Chrissy and then I'd like to talk to you.}
-{198}{}{You saved my daughter. I can never repay you for your kindness. Thank you.
- Please wait here, I need to talk to Chrissy and then I'd like to talk to you.}
+{175}{}{Tudo bem. Você foi muito útil.
+}
+{176}{}{Não tenho nada para te dar além da minha eterna gratidão.}
+{177}{}{Isso é mais do que suficiente. Eu vou ajudar você.}
+{178}{}{Vai custar mais do que isso para comprar minha ajuda.}
+{179}{}{Que inferno, eu vou ajudar.}
+{180}{}{Muito obrigado. Nunca poderei reembolsá-lo por isso. Espero aqui até você trazer ...
+  Ei, havia alguém fora nos ouvindo! Vi a sombra deles na parede da tenda. Eles simplesmente fugiram
+  dessa maneira! :: aponta ao nordeste :: eles devem ter ouvido tudo!}
+{181}{}{Me pare, não fugir!}
+{182}{}{Não se preocupe, me encontrar a menina.}
+{183}{}{Opa.}
+{184}{}{Eu vou tentar pará-los.}
+{185}{}{Eles não me impedirão encontrar sua filha.}
+{186}{}{Oh, bem. Merda acontece.}
+{187}{}{Por favor, vá embora.}
+{188}{}{Você já pensou em coisas?}
+{189}{}{Eu faz perguntas.}
+{190}{}{Não, ainda pensa.}
+{191}{}{Não, eu ainda estou considerando tudo.}
+{192}{}{Quero fazer-lhe algumas perguntas.}
+{193}{}{Você mudou de ideia? Você vai me ajudar?
+}
+{194}{}{Desculpe, não.}
+{195}{}{Eu ajuda.}
+{196}{}{Sim, eu vou ajudar você.}
+{197}{}{Você deve ser a pessoa que salvou minha filha. Eu nunca poderei reembolsá-lo por sua bondade. Obrigado.
+  Aguarde aqui, eu preciso falar com Chrissy e depois eu gostaria de falar com você.}
+{198}{}{Você salvou a minha filha. Eu nunca poderei compensá-lo por sua bondade. Obrigado.
+ Por favor, espere aqui, eu preciso falar com Chrissy e, em seguida, eu gostaria de falar com você.}
 {199}{}{Tudo bem.}
-{200}{}{My daughter has told me everything. I find it hard to believe that Darion is such a monster
- after all he's been doing for us. And to think, we've been helping him hide his operations as a raider.
- I can guarantee you we won't stand for it any longer. I've already talked to Zeke, and he wants to see
- you. You should go see him now.}
-{201}{}{I find it hard to believe that Darion is such a monster after all he's been doing for us. And to
- think, we've been helping him hide his operations as a raider. I can guarantee you we won't stand for
- it any longer. I'll talk to Zeke and explain everything. I'm sure he'll want to see you. You should go
- talk to him later.}
-{202}{}{Thank you.}
-{203}{}{I hope you find Chrissy soon.}
-{204}{}{Me looking.}
-{205}{}{I'll continue to search for her.}
-{206}{}{Thanks for everything you've done for me.}
-{207}{}{I can't explain why, but I don't believe the slavers took her. I've an uneasy feeling that
- something else is going on. And then there's this feeling that I'm being followed. I've had it ever
- since I talked to Zeke about Chrissy. I need someone to help me find my daughter. Will you help me,
- please?}
-{208}{}{They keep sending people here to try and talk us out of our home, but they don't understand
- that we have nowhere else to go. We don't have the skills necessary to survive on our own if we leave
- here.}
-{209}{}{You know, it's kind of funny that they managed to get something that complex fixed, but not the
- lights. The damn place is lit by torches. Anyway, Darion doesn't want anyone to know what's going on
- with the vault. He's afraid that someone will take it all away from us if they find out. So, we're told
- to drive off anyone who shows up here -- especially the NCR.}
+{200}{}{Minha filha me contou tudo. Eu acho difícil acreditar que Darion é um monstro
+  Afinal, ele está fazendo por nós. E para pensar, nós o ajudamos a esconder suas operações como incursor.
+  Posso garantir-lhe que não aguardamos mais. Já falei com Zeke, e ele quer ver
+  você. Você deve vê-lo agora.}
+{201}{}{Eu acho difícil acreditar que Darion é um monstro, depois de tudo o que ele tem feito por nós. E para
+  pense, nós o ajudamos a esconder suas operações como incursor. Eu posso garantir-lhe que não representaremos
+  por mais tempo. Eu vou falar com Zeke e explicar tudo. Tenho certeza de que ele vai querer vê-lo. Você deveria ir
+  falar com ele mais tarde.}
+{202}{}{Obrigado.}
+{203}{}{Eu espero que você encontre Chrissy em breve.}
+{204}{}{Me olhando.}
+{205}{}{Eu vou continuar a procurá-la.}
+{206}{}{Obrigado por tudo que você fez por mim.}
+{207}{}{Não posso explicar o porquê, mas não acredito que os escravistas a tenham levado. Tenho uma sensação de desconforto que
+  outra coisa está acontecendo. E então há esse sentimento de que estou sendo seguida. Eu já tive isso
+  desde que falei com Zeke sobre Chrissy. Preciso de alguém para me ajudar a encontrar minha filha. Você vai me ajudar,
+  por favor?}
+{208}{}{Eles continuam enviando pessoas aqui para tentar nos convencer a sair de nossa casa, mas eles não entendem
+  que não temos para onde ir. Não temos as habilidades necessárias para sobreviver por conta própria se saímos
+  Daqui.}
+{209}{}{Você sabe, é engraçado que eles conseguiram obter algo complexo, mas não as
+  luzes. O maldito lugar é iluminado por tochas. De qualquer forma, Darion não quer que ninguém saiba o que está acontecendo
+  com o cofre. Ele tem medo de que alguém o retire de tudo se eles descobrirem. Então, somos informados
+  para expulsar alguém que aparece aqui - especialmente a NCR.}

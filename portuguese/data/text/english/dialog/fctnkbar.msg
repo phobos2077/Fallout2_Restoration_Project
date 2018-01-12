@@ -4,7 +4,7 @@
 {103}{}{I'm Slim. What'll you have?}
 {104}{}{Me want information.}
 {105}{}{What you got?}
-{106}{}{No, me go.}
+{106}{}{Não, eu vou.}
 {107}{}{I want some information.}
 {108}{}{Show me what you've got.}
 {109}{}{Nothing, I'm leaving.}

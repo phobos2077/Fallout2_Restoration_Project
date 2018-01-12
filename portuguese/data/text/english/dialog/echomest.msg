@@ -4,7 +4,7 @@
 {103}{}{You arrived just in the nick of time. If you hadn't gotten here when you did...Well, let's just
  be thankful that you came when you did. We don't have much, but I'd like you to accept this as a
  reward for helping us. [He hands you something.]}
-{104}{}{Thank you.}
+{104}{}{Obrigado.}
 {105}{}{Ug}
 {106}{}{Thanks again for helping us.}
 {107}{}{}

@@ -461,7 +461,7 @@ and fifty years.}
 {3014}{}{So then one of my new fans, Alice, helps me escape. The two of us go on a three week cross country murder rampage
  before we finally go down in a shootout. Then, for some reason, The Man decides to stitch me back together and run all
  these tests on me. And that's how I wound up at the EPA where you found me.}
-{3015}{}{Thanks for the story.}
+{3015}{}{Obrigado pela história.}
 {3020}{}{Let's see.... My Mom was a drug fiend and a whore, and my Dad was an ornery drunken bastard. Fortunately, my
  grandpa was alright for an old guy. Introduced me to The King's music. Unfortunately, he was claimed by the New Plague
  when I was seven. Then when I was ten, I watched from the closet as my Dad beat my Mom to death for forgetting to feed
@@ -505,7 +505,7 @@ and fifty years.}
 {3041}{}{So there I was, certain I was going to die, but then these G-Men stepped in and took me away. They got me back
  to a hundred percent, then started doing these tests on me, trying to figure out what makes me the way I am... Anyway,
  you can figure the rest, and my throats dry from talking. Damn, I was hoping to avoid that.}
-{3042}{}{Thanks for the story.}
+{3042}{}{Obrigado pela história.}
 {3100}{}{Any tips you might be able to give me?}
 {3101}{}{Tips? What kind of tips?}
 {3102}{}{Well, I'm sure you've got some skill.}

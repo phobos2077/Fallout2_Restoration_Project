@@ -61,7 +61,7 @@
 {205}{}{Thanks for the brew.}
 {206}{}{Huzzah!}
 {207}{}{Tribals know what's best in life.}
-{208}{}{Thank you.}
+{208}{}{Obrigado.}
 {209}{}{Thanks, friend.}
 {210}{}{I sure needed that. Thanks.}
 {211}{}{Thanks a million!}

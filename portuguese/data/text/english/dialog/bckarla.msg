@@ -1,8 +1,8 @@
-{100}{}{You see a Khan raider.}
-{101}{}{You see Karla, a Khan.}
-{102}{}{You see a tough-looking woman in metal armor. She would be pretty, if it were not for the scars
- that line her face.}
-{103}{}{Talk to Phil, shit head.}
-{104}{}{Talk to Phil, bitch.}
+{100}{}{Você vê um incursor dos Khan.}
+{101}{}{Você vê Karla, uma Khan.}
+{102}{}{Você vê uma mulher de aparência dura em armadura de metal. Ela seria linda, se não fosse pelas cicatrizes
+  que desalinham o rosto dela.}
+{103}{}{Fale com Phil, cabeça de merda.}
+{104}{}{Fale com Phil, puta.}
 {105}{}{Ok.}
-{106}{}{That little bitch is dead.}
+{106}{}{A putinha está morta.}

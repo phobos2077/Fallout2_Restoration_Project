@@ -5,7 +5,7 @@
 {104}{}{Good day to you, miss. May I help you?}
 {105}{}{Me want information.}
 {106}{}{What you got?}
-{107}{}{No, me go.}
+{107}{}{Não, eu vou.}
 {108}{}{I want some information.}
 {109}{}{Sure, show me what you've got.}
 {110}{}{Não importa.}

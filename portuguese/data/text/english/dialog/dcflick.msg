@@ -66,7 +66,7 @@
 {421}{}{What arrangement?}
 {422}{}{You mean them pickpocketing from people and bringing the items to you to sell.}
 {430}{}{Don't you get smart with me asshole. The kids bring me items they *find.* I don't know where they get them and frankly, I don't give a fuck.}
-{431}{}{Right.}
+{431}{}{Certo.}
 {432}{}{You're full of it. I'm sick of skum like you who use people for their own benefit. Time to die!}
 {440}{}{Pai-san-o, you know, the kids. My kids.}
 {441}{}{And you have an arrangement with them?}

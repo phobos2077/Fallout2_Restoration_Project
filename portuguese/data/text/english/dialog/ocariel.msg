@@ -31,7 +31,7 @@
 {130}{}{Want leave?}
 {131}{}{So why sad?}
 {132}{}{How you come here?}
-{133}{}{Got go now.}
+{133}{}{Tenho que ir agora.}
 {134}{}{Are you a prisoner here?}
 {135}{}{Are you treated all right by the deathclaws?}
 {136}{}{Would you like to leave the vault?}

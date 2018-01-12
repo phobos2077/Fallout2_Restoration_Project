@@ -68,7 +68,7 @@
 {167}{}{Bye-bye and sleep tight, old man.}
 {168}{}{dollars it is. You do the job, I pay you. You say no, you don't get out of here alive. Well?}
 {169}{}{Ohh yeah. Well, I was having some problem with varmints, but they stopped coming around. Sorry about that. Try Felix and see if he has anything for you to do.}
-{170}{}{Ok, thanks.}
+{170}{}{Ok, obrigado.}
 {171}{}{Ehhh.... I have a bad heart condition... can't take...}
 {172}{}{Must ..... ttteeeelll Feeellliixx.}
 {173}{}{Wow, I guess he did have a heart problem.}

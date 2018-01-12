@@ -162,7 +162,7 @@
 {427}{}{All right, all right! I'm leaving!}
 {428}{}{Jeez-Louise. Loosen those drawstrings a little before they cut off your circulation.}
 {430}{}{(Squints at you, then her gaze travels to your slaver brand. Her tone becomes glacial.) }
-{431}{}{Yes?}
+{431}{}{Sim?}
 {432}{}{You again. We have NOTHING to talk about.}
 {433}{}{Me…uh…me…me wanted to…uh…me looking for…uh…dam! Me hate bein stoopid! Me hate!}
 {434}{}{I…uh…ooooh, shiny thing!}

@@ -45,7 +45,7 @@
 {280}{}{Talk ta Metzger about that. He doesn't normally sell to the public. Has his hands full with... bigger customers.}
 {281}{}{Who's Metzger?}
 {282}{}{Can I ask something else then?}
-{283}{}{Okay, bye.}
+{283}{}{Tudo bem, tchau.}
 {284}{}{What about Vic?}
 {290}{}{Ya don't say. Beat it!}
 {291}{}{Dumb bitch.}
@@ -68,7 +68,7 @@
 {331}{}{I already said. I ain't gonna talk about that.}
 {332}{}{Tell me before I blow a hole through your head.}
 {333}{}{I understand. Another question?}
-{334}{}{Okay, bye.}
+{334}{}{Tudo bem, tchau.}
 {340}{}{Listen here, ya li'le shit head, don't you dare threaten me or anyone else in our guild, or you're dead. Get that? Dead.}
 {341}{}{Listen here, ya li'l cunt. Don't you dare threaten me or anyone else in our guild, or your dead. Get that? Dead.}
 {342}{}{Now, young jet eye, you will die.}

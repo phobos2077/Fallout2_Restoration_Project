@@ -37,7 +37,7 @@
 {136}{}{Three back-up lists are now being entered into Source Safe.}
 {137}{}{Failsafe back-up of lists is now being sent to the main list server for distribution to all other terminals in Vault City.}
 {138}{}{It is now safe to turn off the terminal. }
-{139}{}{Thank you.}
+{139}{}{Obrigado.}
 {140}{}{Beginning System Diagnostic. }
 {141}{}{Once begun, System Diagnostic may be cancelled at any point by the system operator.}
 {142}{}{Vault-Tec recommends regular system maintenance and diagnostics to insure smooth operation.}
@@ -63,7 +63,7 @@
 {162}{}{Three back-up lists are now being entered into Source Safe.}
 {163}{}{Failsafe back-up of lists is now being sent to the main list server for distribution to all other terminals in Vault City.}
 {164}{}{It is now safe to turn off the terminal. }
-{165}{}{Thank you.}
+{165}{}{Obrigado.}
 {166}{}{You see a metal box talking to the air in a woman's voice. The woman must be inside the box! She must be really, really cramped in there.}
 {167}{}{You have logged on to the Vault City Central Computer. The interface seems relatively easy to understand; everything seems to be broken down into archives.}
 {168}{}{Hewllo? Hewllo?}
@@ -171,7 +171,7 @@
 {249}{}{Give the Pip Boy the finger.}
 {250}{}{Fallout 2 Development Information is being entered into Pip Boy database. Copying file...
  Vault City Development Credits... Download complete.}
-{251}{}{Thank you.}
+{251}{}{Obrigado.}
 {252}{}{This time-waster better be worth some extra skill points, or I'm going to be pissed off.}
 {253}{}{The Pip Boy on the screen waves good-bye, and then the screen turns black. The terminal has shut
  down.}

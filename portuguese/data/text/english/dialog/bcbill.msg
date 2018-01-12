@@ -1,8 +1,8 @@
-{100}{}{You see a squatter.}
-{101}{}{You see Bill, the squatter.}
-{102}{}{You see a middle aged man wearing worn clothing.}
-{103}{}{Sorry, stranger. I don't have time to chat with you.}
-{104}{}{Hey, I said I don't have time to chat. Please go away.}
-{105}{}{Thanks for helping Rebecca. That was a fine thing you did.}
-{106}{}{Leave me alone. I'm no threat to you.}
-{107}{}{All right, all right. I'm moving.}
+{100}{}{Você vê um posseiro.}
+{101}{}{Você vê o Bill, o posseiro.}
+{102}{}{Você vê um homem de meia idade vestindo roupas usadas.}
+{103}{}{Desculpe, estranho. Eu não tenho tempo para conversar com você.}
+{104}{}{Ei, eu disse que eu não tenho tempo para conversar. Por favor, vá embora.}
+{105}{}{Obrigado por ajudar Rebecca. Foi uma coisa boa que você fez.}
+{106}{}{Deixe-me sozinho. Eu não sou ameaça para você.}
+{107}{}{Tudo bem, tudo certo. Estou de mudança.}

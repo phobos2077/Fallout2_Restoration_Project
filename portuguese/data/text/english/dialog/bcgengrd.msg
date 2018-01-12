@@ -1,46 +1,46 @@
-{100}{}{You see a Khan raider.}
-{101}{}{You see a Khan raider.}
-{102}{}{You see a tough looking person with armor, weapons, and a bad attitude. It must be a Khan.}
-{103}{}{What the... I don't think I know you. Who the hell are you?}
-{104}{}{I got my ID right here! Let me show ya.}
-{105}{}{The name's... umm... Pat, and I'm new here.}
-{106}{}{All right, wise-ass. Take your best shot.}
-{107}{}{Oh yeah. Sorry. Didn't recognize you at first. Go on about your business.}
-{108}{}{Hey, I'm not as stupid as you look.}
-{109}{}{You're not dead yet? Shit.}
-{110}{}{Man, Darion doesn't pay me enough to stand around here and do nothing.}
-{111}{}{Sometimes I sit and think about absolutely nothing.}
-{112}{}{I generally don't care what anyone else thinks.}
-{113}{}{Ignorance is bliss... I think.}
-{114}{}{When's the next caravan passing through? I could use some action.}
-{115}{}{I could use a break.}
-{116}{}{Damn, I still hurt from that bitch Chrissy kicking me.}
-{117}{}{Hey, we never get any new blood around here.}
-{118}{}{So when are we going to get out of this stupid place?}
-{119}{}{I don't know about you, but I think this sucks.}
-{120}{}{There ain't nothin' to kill around here.}
-{121}{}{Where's the damn bathroom?}
-{122}{}{Hey, we never get a break around here. Isn't there some law or something?}
-{123}{}{We should start up a government like in the old days.}
-{124}{}{Man, I wonder what it was like to be President back then?}
-{125}{}{I bet you could do anything you wanted if you were President.}
-{126}{}{I think my father would be proud of me today. Too bad I killed him.}
-{127}{}{I HATE RATS! HATE HATE HATE!}
-{128}{}{Hey, is that new armor you have on? How do you rate getting new armor?}
-{129}{}{This damn vault smells. Don't you hate it?}
-{130}{}{Hey, who is it we're supposed to be keeping an eye open for?}
-{131}{}{All I do is stand, stand, stand.}
-{132}{}{I think we should just waste everyone upstairs and say to hell with this place.}
-{133}{}{What the hell is your problem with rats?}
-{134}{}{Have you ever pulled one of the legs off of a rat?}
-{135}{}{I like guns, yeah! GUNS I LIKE! GUNS: I REALLY, REALLY LIKE THEM!}
-{136}{}{Hey, is anyone listening to me?}
-{137}{}{Oh well, I just talk to keep myself sane anyway.}
-{138}{}{Hey, anyone remember what was in a Long Island Ice Tea?}
-{139}{}{Yeah, vodka, rum, tequila, triple sec, lime, and Nuka.}
-{140}{}{Hey, look -- the lights came on. What the...}
-{141}{}{Darion said he'd get the damn lights fixed. I guess he came through.}
-{142}{}{I don't think the generator just fixes itself, does it?}
-{143}{}{That was kind of weird; now I can see. Jesus, this place looks like shit!}
-{144}{}{Wow, it's bright in here. Where's the dimmer control?}
-{145}{}{Die!}
+{100}{}{Você vê um incursor dos Khan.}
+{101}{}{Você vê um incursor dos Khan.}
+{102}{}{Você vê uma pessoa de aparência difícil com armaduras, armas e uma má atitude. Deve ser um Khan.}
+{103}{}{O que ... eu não acho que eu conheço você. Quem diabos é você?}
+{104}{}{Eu tenho o meu ID aqui! Deixe-me te mostrar.}
+{105}{}{O nome do... umm... Pat, e eu sou novo aqui.}
+{106}{}{Tudo bem, sábichão. Dê o seu melhor tiro.}
+{107}{}{Oh sim. Desculpa. Não o reconheci no início. Continue com seu negócio.}
+{108}{}{Ei, eu não sou tão estúpido quanto você pensa. }
+{109}{}{Você não está morto ainda? Merda.}
+{110}{}{Cara, Darion não me paga o suficiente para ficar por aqui e não fazer nada.}
+{111}{}{Às vezes eu sento e penso absolutamente em nada.}
+{112}{}{Eu geralmente não ligo para o que ninguém pensa.}
+{113}{}{Ignorância é uma benção... eu acho.}
+{114}{}{Quando a próxima caravana está passando? Eu poderia ter alguma ação.}
+{115}{}{Eu poderia dar uma pausa.}
+{116}{}{Maldita seja, ainda machuco daquela cadela Chrissy chutando-me.}
+{117}{}{Ei, nunca recebemos sangue novo por aqui.}
+{118}{}{Então, quando vamos sair desse lugar estúpido?}
+{119}{}{Eu não sei sobre você, mas eu acho que isso é uma merda.}
+{120}{}{Não há nada para matar por aqui.}
+{121}{}{Onde está a maldita casa de banho?}
+{122}{}{Ei, nós nunca vamos fazer uma pausa aqui. Não existe alguma lei ou algo assim?}
+{123}{}{Deveríamos começar um governo como nos velhos tempos.}
+{124}{}{Cara, eu me pergunto o que era ser presidente naquela época?}
+{125}{}{Eu aposto que você poderia fazer qualquer coisa que você quisesse, se você fosse Presidente.}
+{126}{}{Eu acho que meu pai estaria orgulhoso de mim hoje. Muito ruim, eu o matei.}
+{127}{}{EU ODEIO RATOS! ODEIO, ODEIO, ODEIO!}
+{128}{}{Ei, é a armadura nova que você tem? Como você avalia a obtenção de novas armaduras?}
+{129}{}{Este maldito cheiro de cofre. Você não odeia isso?}
+{130}{}{Ei, para quem é que devemos manter o olho aberto?}
+{131}{}{Tudo o que faço é ficar de pé, ficar de pé, ficar de pé.}
+{132}{}{Eu acho que devemos desperdiçar todos os altos e dizer ao inferno com esse lugar.}
+{133}{}{O que diabos é o seu problema com os ratos?}
+{134}{}{Você já puxou uma das pernas de um rato?}
+{135}{}{Eu gosto de armas, yeah! ARMAS QUE EU GOSTO! ARMAS DE FOGO: EU REALMENTE, REALMENTE GOSTO DELAS!}
+{136}{}{Ei, alguém está me ouvindo?}
+{137}{}{Oh, bem, eu acabei de falar para me manter são, de qualquer maneira.}
+{138}{}{Ei, alguém se lembra do que estava em Long Island Ice Tea?}
+{139}{}{Sim, vodka, rum, tequila, triple sec, cal, e Nuka.}
+{140}{}{Ei, olha - as luzes acenderam. O que...}
+{141}{}{Darion disse que conseguiria as malditas luzes fixadas. Eu acho que ele passou.}
+{142}{}{Eu não acho que o gerador apenas se conserte, não é?}
+{143}{}{Que foi meio estranho, agora eu consigo ver. Jesus, esse lugar parece uma merda!}
+{144}{}{Wow, é brilhante aqui. Onde está o controle do atenuador de iluminação?}
+{145}{}{Morra!}

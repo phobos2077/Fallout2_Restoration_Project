@@ -3,7 +3,7 @@
 {102}{}{You see a man in armor wearing a chef's hat and an apron.}
 {103}{}{Hey soldier. Ya looking for some grub or just someone to talk to?}
 {104}{}{Me want food.}
-{105}{}{Me want talk.}
+{105}{}{Eu quero falar.}
 {106}{}{I could use something to eat.}
 {107}{}{Let's chat a while.}
 {108}{}{Well, here ya go. Have some shit on a shingle. The snow and fly shit's over there. Anything else?}
@@ -14,11 +14,11 @@
 {112}{}{Oh... thanks. We talk while eat.}
 {113}{}{Got it, sorry. Let's chat while I eat.}
 {114}{}{What ya want to talk about?}
-{115}{}{What go on here?}
+{115}{}{O que aconteceu aqui?}
 {116}{}{Where vertibird plans?}
 {118}{}{Where main base at?}
 {119}{}{Me need get back on duty. Thanks.}
-{120}{}{What's going on around here?}
+{120}{}{O que está acontecendo por aqui?}
 {121}{}{I'm interested in the vertibirds. If I wanted to look at the plans, where could I find them?}
 {123}{}{Where's the Enclave main base located?}
 {124}{}{Thanks. I need to get back to my duty post.}
@@ -54,7 +54,7 @@
 {150}{}{Eu vejo.}
 {151}{}{Where's that?}
 {152}{}{Northeast corner of the base, friend. Can't miss it.}
-{153}{}{Okay. Thanks.}
+{153}{}{Tudo bem. Obrigado.}
 {156}{}{I'm surprised ya don't know, ya must be a local, I guess. Anyway, main base's in the middle of the goddamned
  ocean. Well, not smack ass in the middle, but it might as well be. Only way to get there is by ship or vertibird
  and the damn ship's been tinkered with. Ya need a fob to operate the damn thing.}

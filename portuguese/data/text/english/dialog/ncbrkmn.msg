@@ -27,7 +27,7 @@
  letter, you can cure someone with either autism or epilepsy.}
 {306}{}{Sounds like a bunch of hoop-la to me, but hey, I'm talking, so there must be something to it. Anyway, I really
  appreciate what you've done. Here, take these stimpacks. I found 'em when I was scavenging for food behind all these buildings.}
-{307}{}{Thanks. See you around.}
+{307}{}{Obrigado. Nos vemos.}
 {350}{}{Woof!}
 {351}{}{Woof! Woooof!}
 {352}{}{*scratches self*}

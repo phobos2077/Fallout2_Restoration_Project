@@ -1,3 +1,3 @@
 {100}{}{Você vê um guarda.}
-{101}{}{You see one of Darion's personal guards.}
-{102}{}{He has armor, weapons, and a bad attitude - not the type of guy who likes your company.}
+{101}{}{Você vê um dos guardas pessoais de Darion.}
+{102}{}{Ele tem armadura, armas e uma má atitude - não o tipo de cara que gosta da sua companhia. }

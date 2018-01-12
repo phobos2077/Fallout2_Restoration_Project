@@ -21,7 +21,7 @@
 {120}{}{Hates slavery, huh. Interesting. What would you do if you found this outfit?}
 {121}{}{I'd ask to join them.}
 {122}{}{I'd kick their butts.}
-{123}{}{Nothing.}
+{123}{}{Nada.}
 {124}{}{None of your business. Now get out.}
 {125}{}{We've gotten out of the car business. Closed permanently. Goodbye.}
 {126}{}{It's not. Goodbye.}

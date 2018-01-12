@@ -1,11 +1,11 @@
-{100}{}{You see a monk.}
-{101}{}{You see a holy woman.}
+{100}{}{Você vê um monge.}
+{101}{}{Você vê uma mulher santa.}
 {102}{}{Você vê um monge regular da Abadia.}
-{103}{}{You see a regular Abbey nun.}
-{200}{}{Welcome traveler.}
+{103}{}{Você vê uma freira regular da Abadia.}
+{200}{}{Bem-vindo viajante.}
 {201}{}{Paz para você.}
-{202}{}{We are the guardians of knowledge.}
-{203}{}{Hi.}
+{202}{}{Nós somos os guardiões do conhecimento.}
+{203}{}{Olá.}
 {204}{}{Bom tempo.}
-{205}{}{I hope you enjoy your stay here.}
+{205}{}{Eu espero que você aproveite a sua estadia aqui.}
 {500}{}{Pare com isso!}

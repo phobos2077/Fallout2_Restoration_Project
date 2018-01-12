@@ -815,7 +815,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {808}{}{To the Southwest}
 {809}{}{To the Southeast}
 {810}{}{I don't want that.}
-{811}{}{Thank you.}
+{811}{}{Obrigado.}
 {812}{}{Thanks for your time.}
 {813}{}{Guards!}
 {814}{}{I love Scott Rodenhiser.}
@@ -835,7 +835,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {828}{}{Claro.}
 {829}{}{Correct.}
 {830}{}{Exactly.}
-{831}{}{Right.}
+{831}{}{Certo.}
 {832}{}{Hmpphhh.}
 {833}{}{Explain to me again why Fallout 2 doesn't have any black hero models?}
 {834}{}{Vault City prevails. }

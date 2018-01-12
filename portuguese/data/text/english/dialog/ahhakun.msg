@@ -67,128 +67,133 @@
 {166}{}{Deve ser feito, sábio. Venho buscar o seu perdão depois de ter purificado seu jardim.}
 {167}{}{Você está tentando dizer que capinar o seu jardim vai ser bom para mim, certo? Bem, ok, eu vou dar-lhe uma chance.}
 {168}{}{Eu meio que gosto da minha alma do jeito que é. Tchau.}
-{169}{}{I'm not worthy. I'll take my leave now.}
-{170}{hak014}{Chosen, once again the wholeness of your being is like a land blessed.}
-{171}{}{Thank you.}
-{172}{}{You mean I'm better, right?}
-{173}{hak015}{To make one whole instills a sense of fullness that you would be well to understand, Chosen.}
-{174}{}{Wait, don't tell me. I'm better and you felt good doing it, right? Thanks.}
-{175}{}{You are wise and kind, Holy One.}
-{176}{hak017}{In what way may I touch the chosen soul, Seed of the Dweller?}
-{177}{}{Uh, where exactly is your garden?}
+{169}{}{Eu não sou digno. Agora vou embora.}
+{170}{hak014}{Escolhido, mais uma vez a totalidade do seu ser é como uma terra abençoada.}
+{171}{}{Obrigado.}
+{172}{}{Você quer dizer que estou melhor, certo?}
+{173}{hak015}{Para fazer um todo incute um sentimento de plenitude que seria bom entender, Escolhido.}
+{174}{}{Espere, não me diga. Eu estou melhor e me senti bem fazendo isso, certo? Obrigado.}
+{175}{}{Você é sábio e bondoso, Santo.}
+{176}{hak017}{De que maneira posso tocar a alma escolhido , a Semente do Morador?}
+{177}{}{Uh, exatamente onde é o seu jardim?}
 {178}{}{Eu estou machucado. Você pode curar-me?}
-{179}{}{Oh, nothing. Goodbye.}
-{180}{hak018}{Ahh. You return the spirit of the Dweller to the world and bring a smile to the soul of an old man in passing. For this, I give you powders of healing. Remember, they fog the mind as they cleanse the body.}
-{181}{}{Thank you.}
-{182}{hak018a}{And also, will I mix the broc flower with the xander root together whenever you bring both to me. May your pathways be true and your heart follow suit. }
-{183}{}{Where can I find these things?}
-{184}{}{Thank you.}
-{185}{}{I'm almost sorry to go. I can just about understand you now. Bye.}
-{186}{hak019}{Ah, Chosen, my garden is well- how is yours?}
-{187}{}{I'm all right.}
-{188}{}{I need healing.}
-{189}{}{Where did you say the plants were?}
-{190}{}{I don't have a garden- what the hell are you talking about this time?}
-{191}{}{I'd like you to make some healing powder for me.}
-{192}{}{Oh, never mind. I've got to go.}
+{179}{}{Oh, nada. Adeus.}
+{180}{hak018}{Ahh. Você retorna o espírito do morador para o mundo e traz um sorriso para a alma de um velho de passagem. Por isso, dou-lhe pó de cura. Lembre-se, eles encobrem a mente enquanto limpam o corpo.}
+{181}{}{Obrigado.}
+{182}{hak018a}{E também, vou misturar a flor broc com a raiz xander sempre que você me trazer. Que seus caminhos sejam verdadeiros e seu coração siga o exemplo.}
+{183}{}{Onde posso encontrar essas coisas?}
+{184}{}{Obrigado.}
+{185}{}{Eu estou quase com pena de ir. Eu quase posso compreender agora. Tchau.}
+{186}{hak019}{Ah, Escolhido, meu jardim está bem ... como está o seu?}
+{187}{}{Eu estou bem.}
+{188}{}{Eu preciso de cura.}
+{189}{}{Onde você disse que as plantas estão?}
+{190}{}{Eu não tenho um jardim - o que diabos você está falando neste momento?}
+{191}{}{Eu gostaria que você fizesse alguma cura em pó para mim.}
+{192}{}{Oh, não importa. Eu tenho que ir.}
 {193}{}{Ow?}
 {194}{}{Ooog! Bak!}
-{195}{hak020}{The pleasure of these words fills me. Alas, the gods whisper for my ear. Goodbye.}
+{195}{hak020}{O prazer dessas palavras me enche. Infelizmente, os deuses sussurram pela minha orelha. Adeus.}
 {196}{}{Adeus.}
-{197}{}{Still mixing the herbs, huh? See you later.}
-{198}{hak021}{We all have gardens. May your journeys act as tending. Be well. I must seek audience with the gods now.}
-{199}{}{See ya.}
-{200}{}{I'm betting you carry your audience with you wherever you go. Be well.}
-{201}{hak022}{Look to the north, Chosen, and the way will be open.}
-{202}{}{Okay. Thanks.}
-{203}{hak023}{I am honored to serve the Chosen.}
-{204}{hak024}{Such is life. Two creates a third. You will need both xander root and broc flower for the healing powder.}
-{205}{}{Oh. Thanks}
+{197}{}{Ainda está misturando as ervas, hein? Até logo.}
+{198}{hak021}{Todos temos jardins. Que suas jornadas atuem como tendências. Fique bem. Devo procurar audiência com os deuses agora.}
+{199}{}{Até mais.
+}
+{200}{}{Estou a apostar que você carrega seu público com você onde quer que você vá. Fique bem.}
+{201}{hak022}{Olhar para o norte, Escolhido, e o caminho estará aberto.}
+{202}{}{Tudo bem. Obrigado.}
+{203}{hak023}{Estou honrado de servir o Escolhido.}
+{204}{hak024}{Como a vida. Dois criam um terceiro. Você precisará tanto da raiz xander e flor broc para o pó de cura.}
+{205}{}{Oh. Obrigado}
 {206}{}{Poo.}
-{207}{hak025}{May this be of no use.}
-{208}{}{Okay. Thanks.}
+{207}{hak025}{Isso pode ser inútil.}
+{208}{}{Tudo bem. Obrigado.}
 {209}{}{Uh!}
-{210}{hak026}{You are well.}
-{211}{}{Thank you.}
-{212}{}{No lessons? No incomprehensible speeches? You sure you're okay?}
-{213}{hak027}{Welcome, Chosen. Bless us with words that the GECK will be found soon. Our village ails, our need is great, our time, short.}
+{210}{hak026}{Você está bem.}
+{211}{}{Obrigado.}
+{212}{}{Sem lições? Não há discursos incompreensíveis? Você tem certeza de que está bem?}
+{213}{hak027}{Bem-vindo, escolhido. Abençoe-nos com palavras que o GECK será encontrado em breve. Nossa aldeia está aflita, nossa necessidade é grande, nosso tempo, curto.}
 {214}{}{Nuh.}
-{215}{}{And your ability to speak normally, non-existent. I'm still trying.}
-{216}{}{I'm on it. }
-{217}{}{Get off my back, old man. I'm doing the best I can.}
-{218}{}{I'm still looking, holy one. I hope to have the GECK soon.}
-{219}{hak028a}{May the Earth cushion the steps you must take.}
-{220}{hak028b}{May the Waters soothe your journey.}
-{221}{hak028c}{May the Wind guide you to your goal.}
-{222}{hak028d}{May the Fire toast your bottom until you get this done.}
+{215}{}{E a sua capacidade de falar normalmente, inexistente. Eu ainda estou tentando.}
+{216}{}{Eu estou trabalhando nisso.
+}
+{217}{}{Saia das minhas costas, velho. Estou fazendo o melhor que posso.}
+{218}{}{Eu ainda estou procurando, santo. Espero ter o GECK em breve.}
+{219}{hak028a}{Possa a Terra amortecer os passos que você deve tomar.}
+{220}{hak028b}{Possam as Águas, acalmar a sua viagem.}
+{221}{hak028c}{Possa o Vento guiá-lo ao seu objetivo.}
+{222}{hak028d}{Possa o Fogo iluminar seu caminho até você conseguir este feito.}
 {223}{}{Obrigado.}
-{224}{}{Say what?!}
+{224}{}{Dizer o que?!}
 {225}{}{Uh.}
-{226}{}{Huh?!}
-{227}{hak029}{Welcome back, Chosen. I see by your face the salvation of the GECK is not yet ours. Be tireless as the ant before our reserves run out. You are our last hope.}
+{226}{}{Hein?!}
+{227}{hak029}{Bem-vindo de volta, Escolhido. Eu vejo ao seu lado que a salvação do GECK ainda não é nossa. Seja incansável como a formiga antes de nossas reservas se esgotarem. Você é a nossa última esperança.}
 {228}{}{Uh-huh.}
-{229}{}{I'm trying. I'd like to see the ant covering the miles I am.}
-{230}{}{I'm doing my best.}
-{231}{}{I'll double my efforts, holy one. I will not let you down.}
-{232}{}{Yeah, yeah. I've heard it all before.}
-{233}{hak030}{Chosen - the village cries in desperation. The children are weak with hunger. Please, we cannot hold out much longer.}
+{229}{}{Estou tentando. Gostaria de ver a formiga cobrindo as milhas que eu estou.}
+{230}{}{Eu estou fazendo o meu melhor.}
+{231}{}{Eu vou dobrar os meus esforços, santo. Eu não vou deixar você para baixo.}
+{232}{}{Sim, sim. Eu já ouvi tudo isso antes.}
+{233}{hak030}{Escolhido - a aldeia chora em desespero. As crianças são fracas com fome. Por favor, não podemos aguentar mais por muito tempo.}
 {234}{}{Uh-huh.}
-{235}{}{I'm trying. I'm trying! Give me a break!}
-{236}{}{I'll find the GECK, holy one. You have my word.}
-{237}{}{I'll do my best to find the GECK.}
-{238}{hak031}{Chosen, the sands of time are but a few grains. Please. Bring the GECK soon and make the future of the village like the beach of the ocean. Quickly, before the last grain falls.}
+{235}{}{Eu estou tentando. Eu estou tentando! Me dá mais uma chance!}
+{236}{}{Eu vou encontrar o GECK, santo. Você tem a minha palavra.}
+{237}{}{Eu vou fazer o meu melhor para encontrar o GECK.}
+{238}{hak031}{Escolhido, as areias do tempo são apenas alguns grãos. Por favor. Traga o GECK em breve e faça o futuro da aldeia como a praia do oceano. Rapidamente, antes do último grão cair.}
 {239}{}{Uh-huh.}
-{240}{}{All right. I'm off to find it.}
-{241}{}{Life's a beach, huh?}
-{242}{}{I will find the GECK, holy one. I will not let our people down.}
-{243}{hak032}{Chosen, the spirits of our ancestors guide me to a world of dreams that I may touch thoughts. Our village suffers without the holy GECK. Your hands hold our lives as a father holds his children.}
-{244}{hak033}{Once again my spirit touches you from the void, Chosen. Our crops fail, our reserves are meager. Return to us with the GECK. Your failure is our last light.}
-{245}{hak034}{Chosen. The village weakens. It is harder to touch your dreams. You must hurry or we will all...}
-{246}{hak035}{Chosen? Chosen? Do you hear me? The village dies. All of our futures die, too. We have little left in both time and essence... Hurry. Hurry...}
-{247}{hak101}{Chosen - the shadow of darkness arrived before you.}
+{240}{}{Tudo bem. Eu vou sair para encontrá-lo.}
+{241}{}{A vida é uma praia, hein?}
+{242}{}{Eu vou encontrar o GECK, santo. Eu não vou abandonar nosso povo.}
+{243}{hak032}{Escolhido, os espíritos de nossos antepassados me guiam para um mundo de sonhos onde eu possa tocar pensamentos. Nossa aldeia sofre sem o sagrado GECK. Suas mãos mantêm nossas vidas como um pai segura seus filhos.}
+{244}{hak033}{Mais uma vez meu espírito o toca do vazio, Escolhido. Nossos cultivos falham, nossas reservas são escassas. Retorne-nos o GECK. Seu fracasso é a nossa última luz.}
+{245}{hak034}{Escolhido. A aldeia enfraquece. É mais difícil para tocar seus sonhos. Você deve se apressar ou vamos todos...}
+{246}{hak035}{Escolhido? Escolhido? Você pode me ouvir? A aldeia morre. Todos os nossos futuros morrem, também. Temos pouco no tempo e essência... Pressa. Pressa...}
+{247}{hak101}{Escolhido - a sombra da escuridão chegou antes de você.}
 {248}{}{Owwww!}
 {249}{}{O que aconteceu?}
-{250}{}{You look bad. Let me help.}
-{251}{hak102}{Child of Nature, how could we put such a burden on your shoulders? (sigh) Your people have been taken.}
+{250}{}{Você parece mal. Deixa-me ajudar.
+}
+{251}{hak102}{Filho da Natureza, como podemos colocar uma carga tão pesada sobre seus ombros? (Suspiro) Seu povo foi levado.}
 {252}{}{Uhh?}
-{253}{hak103}{Yes. Gone. Many dark souls came, riding the metal birds like a flock of hungry chittick bugs, hiding their evil in shiny skins. }
-{254}{}{Ooo! Shiny Purty!}
-{255}{hak104}{No! Not shiny pretty! They kidnapped our people and took them to the southwest.}
+{253}{hak103}{Sim. Foi. Muitas almas escuras chegaram, montando as aves de metal como um bando de bichos de carniça com fome, escondendo seu mal em peles brilhantes.}
+{254}{}{Ooo! Brilhante Pele!}
+{255}{hak104}{Não! Não muito brilhante! Eles seqüestraram o nosso povo e levou-os para o sudoeste.}
 {256}{}{Ow.}
-{257}{hak105}{Yes. Great sadness and pain. I stand between worlds to tell you, Chosen. Save your people.}
+{257}{hak105}{Sim. Uma grande tristeza e dor. Eu estou entre os mundos para contar a você, o Escolhido. Salve o seu povo.}
 {258}{}{Uh?}
-{259}{hak106}{Chosen, please let my words touch you. Go southwest. South and west. Save our people. Save our people.}
+{259}{hak106}{Escolhido, deixe minhas palavras tocá-lo. Vá para o sudoeste. Sul e oeste. Salve nossa gente. Salve nossa gente.}
 {260}{}{Uh-huh..}
-{261}{hak107}{Thank the ancestors. Now my soul may join the eternal song. Safe journey, Chosen.}
-{262}{}{Go?}
-{263}{hak108}{Go!...}
-{264}{}{Bye bye.}
-{265}{hak109}{Dark souls came. They took everyone.}
-{266}{}{Dark souls? What do you mean?}
-{267}{hak110}{A rush of wind came. On it were great dragonflies that spat flame. Evil men crawled from the beasts' bellies and brought death to our warriors.}
-{268}{}{Our warriors couldn't stop them?}
-{269}{hak112}{The spirit was willing, but the spearheads were weak. The evil ones burned our warriors with the lights of hell.}
-{270}{}{They killed everyone?}
-{271}{hak113}{All were dead or taken. My spirit returned to flesh only to reveal the truth to the Chosen.}
-{272}{}{What happened to the ones taken?}
-{273}{hak114}{The beasts swallowed all, then took to the winds.}
-{274}{}{Uh, which way were the winds that they followed going?}
-{275}{hak115}{Did you never listen when I taught you the yearly dance of the wind spirits? South, of course.}
-{276}{}{Your descriptions were so vivid and powerful, great Hakunin, that I was often stricken senseless for the duration of your lessons.}
-{277}{}{Oh, those winds. Of course. }
-{278}{hak116}{Yes, they traveled the wind south. I overheard the dark souls speaking. They planned to rest their beasts at a place named Navarro before crossing the great basin of our earth-mother's tears.}
-{279}{}{What shall I do?}
-{280}{}{Basin of tears?}
-{281}{hak117}{For me, nothing. Chosen, you must seek the fold of the dark ones and rescue our people.}
-{282}{}{I will try.}
-{283}{hak118}{You are the Chosen. You must do.}
+{261}{hak107}{Agradeço aos antepassados. Agora, minha alma pode se juntar à canção eterna. Viaje em segurança, escolhido.}
+{262}{}{Ir?}
+{263}{hak108}{Vai!...}
+{264}{}{Tchau tchau.
+}
+{265}{hak109}{Almas das trevas chegaram. Eles levaram todos.}
+{266}{}{Almas escuras? O que você quer dizer?
+}
+{267}{hak110}{Chegou uma onda de vento. Sobre grandes libélulas que cuspiram chamas. Os homens doentios se arrastaram das barrigas dos animais e trouxeram a morte aos nossos guerreiros.}
+{268}{}{Nossos guerreiros não podiam detê-los?}
+{269}{hak112}{O espírito estava disposto, mas as pontas de lança eram fracas. Os malvados queimaram nossos guerreiros com as luzes do inferno.}
+{270}{}{Eles mataram todos?}
+{271}{hak113}{Todos foram mortos ou levados. Meu espírito voltou para a carne apenas para revelar a verdade para o Escolhido.}
+{272}{}{O que aconteceu com os capturados?}
+{273}{hak114}{As bestas engoliram tudo, depois levaram os ventos.}
+{274}{}{Uh, onde foram os ventos que seguiram?}
+{275}{hak115}{Você nunca ouviu quando ensinei a dança anual dos espíritos do vento? Sul, é claro.}
+{276}{}{Suas descrições eram tão vívidas e poderosas, ó grande Hakunin, que muitas vezes fui atingido sem sentidos durante a duração das suas lições.}
+{277}{}{Ah, esses ventos. Claro.}
+{278}{hak116}{Sim, eles viajaram pelo vento sul. Ouvi as almas das trevas falando. Eles planejaram descansar seus animais em um lugar chamado Navarro antes de atravessar a grande bacia das lágrimas de nossa terra-mãe.}
+{279}{}{O que devo fazer?}
+{280}{}{Bacia de lágrimas?}
+{281}{hak117}{Para mim, nada. Escolhido, você deve procurar a dobra das sombras e resgatar nosso povo.}
+{282}{}{Vou tentar.}
+{283}{hak118}{Você é o Escolhido. Você deve fazer.}
 {284}{}{Hakunin?}
-{285}{}{First time I understood what you meant.}
-{286}{hak120}{An ocean of tears, cried by a mother for her children.}
-{287}{}{Oh, the ocean. But what shall I do?}
-{288}{hak121}{A strange mist stole their minds and sent them to the land of Sleep. The evil ones walked among the dreamers, yet did not dream.}
+{285}{}{Primeira vez que eu entendi o que você quis dizer.}
+{286}{hak120}{Um oceano de lágrimas, clamou como uma mãe por seus filhos.}
+{287}{}{Ah, o oceano. Mas o que devo fazer?}
+{288}{hak121}{Uma estranha névoa roubou suas mentes e as enviou para a terra do sono. Os malignos caminharam entre os sonhadores, mas não sonharam.}
 {289}{}{E então?}
-{290}{hak122}{Too many seasons and too many wounds, Chosen. Instead, you must listen.}
+{290}{hak122}{Muitas estações e muitas feridas, Escolhido. Em vez disso, você deve ouvir.}
 {291}{}{Tudo certo.}
-{300}{}{Those who steal carry a great burden. Remember this, Chosen One.}
-{301}{}{You must now pay for your sins, Chosen One.}
+{300}{}{Aqueles que roubam carregam um grande fardo. Lembre-se disso, Escolhido.}
+{301}{}{Agora, você deve pagar por seus pecados, Escolhido.}

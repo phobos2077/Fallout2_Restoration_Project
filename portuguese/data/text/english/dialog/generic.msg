@@ -6,7 +6,7 @@
 {105}{}{ successfully disarms the trap.}
 {106}{}{ fail to disarms the trap.}
 {107}{}{ accidentally sets off the trap.}
-{200}{}{Thank you.}
+{200}{}{Obrigado.}
 {201}{}{Good Day.}
 {202}{}{Obrigado.}
 {203}{}{Thanks!}

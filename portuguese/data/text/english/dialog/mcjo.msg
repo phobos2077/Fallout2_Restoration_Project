@@ -7,7 +7,7 @@
 {150}{}{We killed everyone. Even the children… [sob]}
 {151}{}{Meet us at the Ghost Farm. We attack immediately.}
 {152}{}{Thank you for saving the residents of Modoc.}
-{153}{}{What are you doing?}
+{153}{}{O que você está fazendo?}
 {154}{}{Hey! Leave that alone!}
 {155}{}{Thief!}
 {156}{}{Sorry, this trading post is closed indefinitely due to the drought.}

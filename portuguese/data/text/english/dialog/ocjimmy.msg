@@ -16,8 +16,8 @@
 {115}{}{Hey, sorry. I didn't mean to step on your toes. I'll leave you to your business.}
 {116}{}{Good.}
 {117}{}{It's a pleasure to meet you,}
-{118}{}{What would you like to know?}
-{119}{}{What you do here?}
+{118}{}{O que você gostaria de saber?}
+{119}{}{O que você faz aqui?}
 {120}{}{What all this machine?}
 {121}{}{Vault have overseer. This overseer room?}
 {122}{}{You here in vault cause you want be?}
@@ -47,7 +47,7 @@
 {146}{}{Okay, but me ask more questions first.}
 {147}{}{All right, but I need to ask you a couple of things first.}
 {148}{}{This is a mainframe computer system and related support devices. From here all functions of the vault are remotely controlled.}
-{149}{}{Uh... what you said.}
+{149}{}{Uh... o que você disse.}
 {150}{}{Ah, eu vejo.}
 {151}{}{Normally the vault overseer would be stationed here but Vault 13 has been fully automated.}
 {152}{}{Por quê?}

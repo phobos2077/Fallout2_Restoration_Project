@@ -110,7 +110,7 @@
 {421}{}{Continue.
 }
 {422}{}{…DOES produce something useful.}
-{423}{}{I've heard enough.}
+{423}{}{Eu já ouvi o suficiente.}
 {430}{}{First and last time I'm gonna warn you, tribal: Don't finish my goddamn sentences. I don't like smartass primates
  that talk when they should listen. No wonder you all still use spears…}
 {431}{}{Not all of us. For example, I use a variety of weapons to kill people...let me show you.}

@@ -49,13 +49,13 @@
 {148}{}{Well, that's more than what I had before.}
 {149}{}{The big one. Saltbeef's an old uranium prospector - more accurately, a drunk. Lives out on the Westin spread these days.}
 {150}{}{Another question...}
-{151}{}{Thanks for the story.}
+{151}{}{Obrigado pela história.}
 {152}{}{Well, I was really hoping to get some money for it. I'll let it go for $}
 {153}{}{Maybe later, another question...}
 {154}{}{Maybe later, I have to go.}
 {155}{}{Saltbeef's an old uranium prospector. Lives out on the Westin spread these days.}
 {156}{}{Another question...}
-{157}{}{Thanks for the story.}
+{157}{}{Obrigado pela história.}
 {158}{}{You best go talk to President Tandi. I've heard she's looking for a special type of person.}
 {159}{}{Another question...}
 {160}{}{Obrigado.}

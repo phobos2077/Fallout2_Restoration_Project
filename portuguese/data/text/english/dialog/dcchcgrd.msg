@@ -15,7 +15,7 @@
 {163}{}{Here’s my authorization! Attack!}
 {164}{}{I’ll come back.}
 {165}{}{[Embarrassed] No...um...alright, just go on in...}
-{166}{}{Thank you.}
+{166}{}{Obrigado.}
 {167}{}{That’s more like it.}
 {168}{}{What do you people want?}
 {169}{}{We need to go inside.}

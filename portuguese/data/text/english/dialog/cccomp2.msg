@@ -3,7 +3,7 @@
 {102}{}{You see someone wearing a lab coat. He appears confident and self-assured.}
 {103}{}{Yes, soldier?}
 {104}{}{What this place?}
-{105}{}{Me just say hi. Me go now.}
+{105}{}{Eu apenas disse oi. Eu vou agora.}
 {106}{}{O que é este lugar?}
 {107}{}{Just saying hi. See ya.}
 {108}{}{This is the computer room. That’s the mainframe over there, the interface terminal is next to it, and these devices are the holotape data storage units. This is the latest and the greatest.}

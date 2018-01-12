@@ -1,5 +1,5 @@
 {100}{}{You see a young woman in metal armor.}
-{101}{}{You see Dalia.}
+{101}{}{Você vê Dalia.}
 {102}{}{You see a pretty young woman dressed in metal armor. She watches her surroundings very
  carefully.}
 {103}{}{Well, I'll be. How are you doing,}
@@ -17,7 +17,7 @@
 {114}{}{You prisoner.}
 {115}{}{You leave when want?}
 {116}{}{What know about D'claws?}
-{117}{}{How you be here?}
+{117}{}{Como você está aqui?}
 {118}{}{Why you worry safe?}
 {119}{}{Thanks. Me go.}
 {120}{}{Are you a prisoner here?}
@@ -55,9 +55,9 @@
 {143}{}{You safe now. Dalia no worry.}
 {144}{}{You're safe now, Dalia. You'll have no need to worry about any retribution.}
 {145}{}{Thanks,}
-{146}{}{You welcome.}
+{146}{}{Você é bem-vindo.}
 {147}{}{Adeus.}
-{148}{}{You're welcome.}
+{148}{}{Você é bem-vindo.}
 {149}{}{I'll see ya.}
 {150}{}{Olá.}
 {151}{}{Hello again. How's it going?}

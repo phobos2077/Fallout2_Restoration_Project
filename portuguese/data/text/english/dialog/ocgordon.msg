@@ -14,7 +14,7 @@
 {111}{}{Ah. Ok. Me ask questions?}
 {112}{}{Okay. Bye.}
 {113}{}{Certainly you may.}
-{114}{}{What would you like to know?}
+{114}{}{O que você gostaria de saber?}
 {115}{}{Who shrine for?}
 {116}{}{How long you here?}
 {117}{}{D'claws bad?}
@@ -37,7 +37,7 @@
  years.}
 {132}{}{You here before D'claws?}
 {133}{}{Ah. Need know more.}
-{134}{}{Got go now.}
+{134}{}{Tenho que ir agora.}
 {135}{}{You are a very dedicated man. May I ask you some more questions?}
 {136}{}{That's a long time. Can you answer some more questions?}
 {137}{}{It's your life to waste as you see fit, bud.}
@@ -48,7 +48,7 @@
  convinced that they are not responsible for what happened to my fellow citizens. If, by chance, you
  want more information on this matter, you can seek out Goris in the library.}
 {140}{}{Okay, thanks.}
-{141}{}{Okay, bye.}
+{141}{}{Tudo bem, tchau.}
 {142}{}{I'll keep this in mind.}
 {143}{}{I don't need you telling me where to go or who to see.}
 {144}{}{Thank you for your help. I have more questions, though.}
@@ -89,5 +89,5 @@
 {173}{}{Ask question?}
 {174}{}{Me been here before? Sorry. Got go.}
 {175}{}{I wanted to talk with you once again.}
-{176}{}{Just saying hello.}
+{176}{}{Apenas dizer "olá".}
 {177}{}{. Can I ask you some questions?}

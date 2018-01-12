@@ -9,7 +9,7 @@
 {121}{}{[FEITO]}
 {130}{}{Heard about the good deeds you been doing. See I was wrong about you. Forgive me for being a rude man, fren. Go on in and peep the big man. He be waiting for you.}
 {131}{}{Heard about the good deeds you been doing, fren. Go on in and peep the big man. He be waiting for you.}
-{132}{}{Thank you.}
+{132}{}{Obrigado.}
 {133}{}{Thankee.}
 {140}{}{Greetings, fren.}
 {141}{}{How goes things, warrior?}

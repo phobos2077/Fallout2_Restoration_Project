@@ -35,7 +35,7 @@
 {134}{}{I've been there and I have the parts you're looking for.}
 {135}{}{I've handled this already. The squatters want a deal. You help them become self sufficient and they'll give you the vault. Also, here are the parts.}
 {136}{tand5}{Hell and thunder... Your choice - but if you change your mind...}
-{137}{}{Done.}
+{137}{}{Feito.}
 {138}{tand6a}{Fair enough. Do it right and there's a reward.}
 {139}{tand6b}{Lord, I know I'm making a mistake but... give it a shot - if you understood anything I said.}
 {140}{}{Ok. Me go.}
@@ -103,7 +103,7 @@
 {201}{tand18}{New Reno? A damn bucket of brahmin spit. Got every vice there is. We've gotta be tough with them if we're going to unify this land. Congress has got to understand that.}
 {202}{}{What know about Bishop?}
 {203}{}{Tell about congress?}
-{204}{}{Me ask more.}
+{204}{}{Eu peço mais.}
 {205}{}{What about the Bishops?}
 {206}{}{Tell me about the congress.}
 {207}{}{I see. Can you tell me some more?}

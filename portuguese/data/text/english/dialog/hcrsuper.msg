@@ -9,7 +9,7 @@
 {108}{}{Quem é você?}
 {109}{}{O que é este lugar?}
 {110}{}{I want some uranium.}
-{111}{}{Nothing.}
+{111}{}{Nada.}
 {112}{}{Forget it. Bye.}
 {113}{}{Look son, I'm sorry that you've got no mind. But you can't be here. Run along now.}
 {114}{}{[FEITO]}
@@ -22,12 +22,12 @@
 {121}{}{O que é este lugar?}
 {122}{}{I want some ore refined.}
 {123}{}{I want some uranium.}
-{124}{}{Nothing.}
+{124}{}{Nada.}
 {125}{}{This is the refinery of Broken Hills. This is where we purify the ore dug from the mine. What do you want?}
 {126}{}{O que é este lugar?}
 {127}{}{I want some ore refined.}
 {128}{}{I want some uranium.}
-{129}{}{Nothing.}
+{129}{}{Nada.}
 {130}{}{You don't have enough money. Come on back when you do.}
 {131}{}{[FEITO]}
 {132}{}{All right. Give us a day and we'll have it ready for you.}

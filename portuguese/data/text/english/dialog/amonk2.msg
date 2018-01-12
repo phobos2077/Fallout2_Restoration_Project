@@ -1,11 +1,11 @@
-{100}{}{You see a monk.}
-{101}{}{You see a holy woman.}
+{100}{}{Você vê um monge.}
+{101}{}{Você vê uma mulher santa.}
 {102}{}{Você vê um monge regular da Abadia.}
-{103}{}{You see a regular Abbey nun.}
-{200}{}{Greetings.}
-{201}{}{Welcome to the Abbey.}
-{202}{}{You should talk to our leader if you wish to gain any information.}
-{203}{}{Good day...or is it night already?}
-{204}{}{There's so much work that must be done.}
-{205}{}{Life here at the Abbey is a peaceful one. Something rare in these wretched wastes.}
+{103}{}{Você vê uma freira regular da Abadia.}
+{200}{}{Cumprimentos.}
+{201}{}{Bem-vindo à Abadia.}
+{202}{}{Você deve falar ao nosso líder, se você deseja obter qualquer informação.}
+{203}{}{Bom dia...ou é noite, já?}
+{204}{}{Há muito trabalho que deve ser feito.}
+{205}{}{A vida aqui na Abadia é pacífica. Algo raro nesses resíduos miseráveis.}
 {500}{}{Pare com isso!}

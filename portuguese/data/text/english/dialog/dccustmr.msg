@@ -12,12 +12,12 @@
 {201}{}{Leave me alone!}
 {202}{}{Don't touch me!}
 {203}{}{Stop it!}
-{204}{}{What are you doing?}
+{204}{}{O que você está fazendo?}
 {300}{}{Sorry, can't talk now.}
 {301}{}{Where was I going again?}
 {302}{}{Olá.}
 {303}{}{Excuse me.}
-{304}{}{Hi.}
+{304}{}{Olá.}
 {305}{}{Becky's place is the best, and not just cuz of the prices.}
 {306}{}{You here for the drinks or the tables?}
 {307}{}{All we need now are some troubadours.}

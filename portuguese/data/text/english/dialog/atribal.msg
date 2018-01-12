@@ -1,11 +1,11 @@
-{100}{}{You see a Tribal.}
-{101}{}{You see a strong looking man.}
-{200}{}{Greetings.}
-{201}{}{Welcome to the Abbey.}
-{202}{}{Hi.}
+{100}{}{Você vê um Tribal.}
+{101}{}{Você vê um homem forte.}
+{200}{}{Cumprimentos.}
+{201}{}{Bem-vindo à Abadia.}
+{202}{}{Olá.}
 {203}{}{Olá.}
-{204}{}{Are you from the Arroyo tribe?}
-{205}{}{Greetings.}
-{206}{}{Nice outfit!}
-{207}{}{Hello, fellow tribal!}
-{500}{}{Don't mess with my stuff!}
+{204}{}{Você é da tribo Arroyo?}
+{205}{}{Cumprimentos.}
+{206}{}{Roupa bonita!}
+{207}{}{Olá, companheiros de tribo!}
+{500}{}{Não mexa com as minhas coisas!}

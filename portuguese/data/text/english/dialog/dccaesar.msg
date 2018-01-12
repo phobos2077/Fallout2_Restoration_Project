@@ -31,7 +31,7 @@
 {179}{}{Or what?}
 {180}{}{Alright. But I'll be back!}
 {181}{}{OK. Bye.}
-{182}{}{What would you like to know?}
+{182}{}{O que você gostaria de saber?}
 {183}{}{About Trader Vic...}
 {184}{}{Can I join the Slaver's Guild?}
 {185}{}{I'd like to sell my husband into slavery.}
@@ -144,7 +144,7 @@
 {320}{}{Thank you. I will.}
 {321}{}{I don't know if I like this too much.}
 {322}{}{You need to improve your enslavement technique.}
-{323}{}{I will try.}
+{323}{}{Vou tentar.}
 {324}{}{I apologize for my poor performance.}
 {325}{}{I think I'm good enough.}
 {326}{}{Damn it! You did terribly in this Run. Are you trying to ruin me? Be more careful next time.

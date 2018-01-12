@@ -11,7 +11,7 @@
 {109}{}{I want to kill something. What's around?}
 {110}{}{What's up with the guns in your basement?}
 {111}{}{I understand you have a surplus of weapons. I need some.}
-{112}{}{Nothing.}
+{112}{}{Nada.}
 {113}{}{Oh, god… another addle-headed mutant baby. When will someone just shoot these things?}
 {114}{}{Gurgle.}
 {115}{}{Speak slowly and clearly and I'll see if I can help you.}

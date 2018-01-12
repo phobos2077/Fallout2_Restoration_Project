@@ -93,7 +93,7 @@
 {367}{}{(Blinks as chips change hands) Well, now...hell, I don't know what to say. }
 {368}{}{That was mighty kind of you, boy...er, mister. I…}
 {369}{}{That was mighty kind of you, girlie...er, miss. I…}
-{370}{}{Yes?}
+{370}{}{Sim?}
 {375}{}{Don't you DARE turn yore back on me, boy!}
 {376}{}{Don't you DARE turn yore back on me, girlie!}
 {385}{}{}
@@ -106,7 +106,7 @@
 {392}{}{ wanna play machine}
 {393}{}{Wander off}
 {394}{}{Quem é você?}
-{395}{}{What are you doing?}
+{395}{}{O que você está fazendo?}
 {396}{}{Mind if I give it a pull?}
 {397}{}{Nothing. Sorry to bother you.}
 {405}{}{(A series of symbols roll by on the slot machine, and there is a *bzzzzt*) Dammmit!

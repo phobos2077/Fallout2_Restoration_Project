@@ -54,7 +54,7 @@
 {282}{}{Who the hell are you guys?}
 {283}{}{Where am I? }
 {284}{}{How can I get some of that sweet armor?}
-{285}{}{I've heard enough.}
+{285}{}{Eu já ouvi o suficiente.}
 {290}{}{Because you ARE. Sure, you might look kinda human, but don't let that fool you. You're still a mutant. You and
  everyone else on the mainland. All tainted. Next question?}
 {300}{}{We're the Enclave--the last bastion of true humanity on this damn planet. We're the only ones still upholding

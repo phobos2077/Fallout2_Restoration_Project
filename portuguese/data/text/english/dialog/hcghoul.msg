@@ -83,5 +83,5 @@
 {180}{}{Don't hurt me.}
 {181}{}{Deixe-me sozinho.}
 {182}{}{No! No! No!}
-{183}{}{I'll be going now.}
+{183}{}{Eu vou estar indo agora.}
 {184}{}{Leave our town!}

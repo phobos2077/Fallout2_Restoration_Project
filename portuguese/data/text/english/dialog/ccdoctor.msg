@@ -135,6 +135,6 @@
 {197}{}{I didn't sign up for combat, so leave me alone.}
 {198}{}{Damn it! I'm a doctor not a soldier!}
 {200}{}{[MAIS]}
-{201}{}{I wanted to ask you some questions.}
+{201}{}{Eu queria pedir-lhe algumas perguntas.}
 {202}{}{Not right now. Sorry to bother you.}
 {800}{}{You killed Doctor Schreber.}

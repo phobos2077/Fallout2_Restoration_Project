@@ -1,65 +1,63 @@
-{100}{}{You see a young woman in tattered clothing.}
-{101}{}{You see Dalia.}
-{102}{}{You see a young woman in tattered clothing. She seems very alert, and watches her surroundings
- carefully.}
-{103}{}{Hi. I'm Dalia. What can I help you with?}
-{104}{}{Nothing, just say hi.}
-{105}{}{Uh, who you?}
-{106}{}{What you do here?}
-{107}{}{You look like guard.}
+{100}{}{Você vê uma mulher jovem em roupas esfarrapadas.}
+{101}{}{Você vê Dalia.}
+{102}{}{Você vê uma jovem mulher com roupas esfarrapadas. Ela parece muito alerta e observa seus arredores
+  cuidadosamente.}
+{103}{}{Oi. Eu sou Dalia. Com o que posso ajudar?}
+{104}{}{Nada, apenas dizer oi.}
+{105}{}{Uh, quem é você?}
+{106}{}{O que você faz aqui?}
+{107}{}{Você parece surpresa.}
 {108}{}{Eu vou agora.}
-{109}{}{Just saying hello.}
+{109}{}{Apenas dizer "olá".}
 {110}{}{Quem é você?}
-{111}{}{What are you doing?}
-{112}{}{You look like you're guarding that trail.}
-{113}{}{I'll be going now.}
-{114}{}{Well, hello to you. Now, I'm sorry, but you should go.}
-{115}{}{Me want talk.}
-{116}{}{Ok, me go.}
-{117}{}{I want to talk to you.}
+{111}{}{O que você está fazendo?}
+{112}{}{Você parece estar guardando essa trilha.}
+{113}{}{Eu vou estar indo agora.}
+{114}{}{Bem, olá para você. Agora, me desculpe, mas você deve ir.}
+{115}{}{Eu quero falar.}
+{116}{}{Ok, eu vou.}
+{117}{}{Eu quero falar com você.}
 {118}{}{Adeus.}
-{119}{}{I said I'm Dalia. Look, I don't mean to be rude, but I don't want to talk to anyone right now. Okay?}
-{120}{}{Okay, bye.}
-{121}{}{Just little more.}
-{122}{}{Then I'll leave.}
-{123}{}{I just want to ask you a question.}
-{124}{}{I like the fresh air, I like the trees, so I'm standing here. Do you have a problem with that?}
-{125}{}{Sorry, me go.}
-{126}{}{No, not problem. Me ask you something.}
-{127}{}{I don't have a problem, but I am curious about something.}
-{128}{}{Sorry, I'll be going then.}
-{129}{}{No, I'm not guarding the trail. There's nothing in this hole worth guarding. I told you, I'm
- enjoying the fresh air. Now go away.}
-{130}{}{You nice talk to. Me talk more.}
-{131}{}{Sorry me bother. Me go.}
-{132}{}{But we're having such a nice conversation, why stop?}
-{133}{}{I guess it's time to leave.}
-{134}{}{Oh no, it's the pest again. Look, I have nothing to say to you. Go away!}
+{119}{}{Eu disse que eu sou Dalia. Olha, eu não quero ser rude, mas eu não quero falar com ninguém agora. Tudo bem?}
+{120}{}{Tudo bem, tchau.}
+{121}{}{Apenas pouco mais.}
+{122}{}{Então vou embora.}
+{123}{}{Eu só quero lhe fazer uma pergunta.}
+{124}{}{Eu gosto do ar fresco, eu gosto de árvores, por isso eu estou aqui de pé. Você tem um problema com isso?}
+{125}{}{Desculpe, eu vou.}
+{126}{}{Não, não é problema. Eu te pergunto uma coisa.}
+{127}{}{Eu não tenho um problema, mas eu estou curioso sobre uma coisa.}
+{128}{}{Desculpe, eu vou estar indo em seguida.}
+{129}{}{Não, eu não estou guardando a trilha. Não há nada nesse buraco precisando de proteção. Eu disse a você, eu estou desfrutando o ar fresco. Agora vá embora.}
+{130}{}{Que bom falar. Me fale mais.}
+{131}{}{Desculpe-me incomodar. Eu vou.}
+{132}{}{Mas estamos tendo uma conversa agradável, por que parar?}
+{133}{}{Eu acho que é hora de sair.}
+{134}{}{Oh não, é a praga de novo. Olha, eu não tenho nada a dizer para você. Vá embora!}
 {135}{}{}
 {136}{}{}
-{137}{}{I have no quarrel with you. Leave me be.}
+{137}{}{Eu não tenho briga com você. Deixe-me estar.}
 {138}{}{}
 {139}{}{}
-{140}{}{Hi. I'm Dalia. What can I help you with?}
-{141}{}{Person go by here? In hurry?}
-{142}{}{Nothing.}
-{143}{}{Nothing.}
-{144}{}{Did you see someone go by here in a hurry?}
-{145}{}{I see people go by here every day. I really don't pay much attention to them.}
-{146}{}{Me not have time for you crap.}
+{140}{}{Oi. Eu sou Dalia. Com o que posso ajudar?}
+{141}{}{Alguém passou por aqui? Com pressa?}
+{142}{}{Nada.}
+{143}{}{Nada.}
+{144}{}{Você viu alguém passar por aqui com pressa?}
+{145}{}{Eu vejo pessoas passar por aqui todos os dias. Eu realmente não presto muita atenção a eles.}
+{146}{}{Eu não tenho tempo para sua porcaria.}
 {147}{}{Ah, tudo bem.}
-{148}{}{Girl life at stake. Young girl. Someone daughter. You please help?}
-{149}{}{I don't have time for your crap.}
-{150}{}{Fine, bye.}
-{151}{}{Look, a young girl's life is at stake here. The daughter of a worried mother. Can you please
- help me out?}
-{152}{}{I don't give a radrat's ass... I'm sorry. I'm just a gun who was hired to stand here and guard
- this trail. Other than that, I don't know what's going on around here. I had a daughter once, though,
- and...yeah, some guy went by here. I let him through because he knew the proper sign...just like the
- sign you gave me. Go on. I'm outta here. }
-{153}{}{Thanks. Me no forget this, Dalia.}
-{154}{}{Thanks. I won't forget this, Dalia.}
-{155}{}{Then go the hell away and leave me be!}
-{156}{}{Done.}
-{157}{}{Then go the hell away and leave me be!}
-{158}{}{Done.}
+{148}{}{Vida de garota em jogo. Jovem menina. Alguém filha. Ajudar, por favor?}
+{149}{}{Eu não tenho tempo para a suas besteiras.}
+{150}{}{Bem, adeus.}
+{151}{}{Olha, é a vida de uma jovem que está em jogo aqui. Filha de uma mãe preocupada. Você pode por favor me ajudar?}
+{152}{}{Eu não dou uma minima importancia ... Desculpe. Eu sou apenas uma arma que foi contratada para ficar aqui e proteger
+  essa trilha. Além disso, não sei o que está acontecendo aqui. Eu tive uma filha uma vez, no entanto,
+  e ... sim, algum cara veio aqui. Eu o livrei porque ele conhecia o sinal apropriado ... assim como o
+  sinal que você me deu. Continue. Eu nem estou aqui.}
+{153}{}{Obrigado. Não me esqueço, Dalia.}
+{154}{}{Obrigado. Eu não vou esquecer isso, Dalia.}
+{155}{}{Em seguida, vá pro inferno fora e me deixe estar!}
+{156}{}{Feito.}
+{157}{}{Em seguida, vá pro inferno fora e me deixe estar!}
+{158}{}{Feito.}

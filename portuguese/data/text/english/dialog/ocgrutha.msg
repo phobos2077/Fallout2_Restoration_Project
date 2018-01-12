@@ -58,7 +58,7 @@
  sense little evil in you. Very well, I shall place my trust in you.}
 {140}{}{(Gruthar stares at you intently for a moment.) I think not. I can sense the evil in you, human.
  I cannot risk the lives of those I protect by taking a chance with you.}
-{141}{}{Thank you.}
+{141}{}{Obrigado.}
 {142}{}{Fine. I think a bullet lobotomy is a viable solution to my problem.}
 {143}{}{Sorry you feel that way, Gruthar.}
 {144}{}{I'll be leaving, then.}
@@ -107,12 +107,12 @@
 {168}{}{I see...}
 {169}{}{I am displeased with your decision but I accept it. You may leave, but please return if you
  reconsider.}
-{170}{}{Done.}
+{170}{}{Feito.}
 {171}{}{Hello}
 {172}{}{No. I'll get to it, though.}
 {173}{}{I'm sorry, Gruthar. The voice module has gone bad. I'll have to go get one.}
 {174}{}{I do not understand the workings of such things but I trust you,}
-{175}{}{Done.}
+{175}{}{Feito.}
 {176}{}{I shall return, you have my word.}
 {177}{}{Hello}
 {178}{}{Não, eu ainda estou procurando.}
@@ -171,9 +171,9 @@
 {225}{}{You are not welcome here at this time. You may leave.}
 {226}{}{Good-bye.}
 {227}{}{Good-bye.}
-{228}{}{Done.}
+{228}{}{Feito.}
 {229}{}{Apology accepted, human. Have a nice day!}
-{230}{}{Done.}
+{230}{}{Feito.}
 {231}{}{. Have you examined the machine?}
 {232}{}{. I will wait for your return.}
 {233}{}{. Have you found the part to fix the machine?}

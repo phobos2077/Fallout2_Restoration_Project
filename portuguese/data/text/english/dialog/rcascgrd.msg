@@ -85,7 +85,7 @@
 {184}{}{I can't believe you're pulling that shit right in front of us.}
 {185}{}{Uh, excuse me. KNOCK THAT SHIT OFF!}
 {186}{}{Stop fucking with the door, you idiot.}
-{187}{}{What are you doing?}
+{187}{}{O que você está fazendo?}
 {188}{}{Sheesh, just a lower quality of criminals every day. }
 {189}{}{Step away from the door.}
 {190}{}{Don't touch that door again.}

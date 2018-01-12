@@ -130,7 +130,7 @@
 {228}{}{I'm glad I held onto my money.}
 {229}{}{That would've cost me.}
 {230}{}{That was a good fight. Glad I didn't bet on it though.}
-{231}{}{Ok, thanks.}
+{231}{}{Ok, obrigado.}
 {300}{}{Keen Squeek}
 {301}{}{Vicky}
 {302}{}{Spike}

@@ -18,7 +18,7 @@
 {114}{}{You know about the Vault?}
 {115}{}{I'll take a beer.}
 {116}{}{I'll take a shot.}
-{117}{}{What's going on around here?}
+{117}{}{O que está acontecendo por aqui?}
 {118}{}{Nothing today, thanks. Goodbye.}
 {119}{}{Around here? Same old, same old. Bores me to tears most of the time.
  Why, you looking for something?}
@@ -44,7 +44,7 @@
 {132}{}{You sound pretty fed up with the place.}
 {133}{}{Sorry to hear that. What do you know about the Vault?}
 {134}{}{We all make mistakes...some more than others. So what do you want?}
-{135}{}{What's going on around here?}
+{135}{}{O que está acontecendo por aqui?}
 {136}{}{Nothing today, thanks. Goodbye.}
 {137}{}{Yeah, wish I could get the hell outta here.}
 {138}{}{Why don't you leave?}

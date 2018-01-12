@@ -8,7 +8,7 @@
 {107}{}{You see The Doctor.}
 {108}{}{The leading - and only - Doctor left in the EPA.}
 {109}{}{It would be unwise to attack me.}
-{120}{}{Yes?}
+{120}{}{Sim?}
 {121}{}{Hi, my name is }
 {122}{}{. Who are you?}
 {123}{}{Sorry to bother you. Goodbye.}

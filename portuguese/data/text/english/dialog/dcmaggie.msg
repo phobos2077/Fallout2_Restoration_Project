@@ -23,7 +23,7 @@
 {170}{}{Vault 13? Nope, never heard of it.}
 {171}{}{Hmm, can I ask something else?}
 {172}{}{Damn, I need to find it. Bye.}
-{173}{}{What would you like to know?}
+{173}{}{O que você gostaria de saber?}
 {174}{}{Where’s a good place to eat?}
 {175}{}{Do you know where Vault 13 is?}
 {176}{}{Why are your drinks so cheap?}

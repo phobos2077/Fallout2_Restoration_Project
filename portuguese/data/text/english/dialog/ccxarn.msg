@@ -20,7 +20,7 @@
  I should be able to climb the shaft and gain my freedom. However,
  the door is securely locked and requires a passkey to open.
  Find the key, unlock the door, and grant me my freedom.}
-{116}{}{Okay, me do.}
+{116}{}{Ok, eu faço.}
 {117}{}{Me think about it.}
 {118}{}{Sure, I'll do it.}
 {119}{}{I'll think about it.}
@@ -63,7 +63,7 @@
 {138}{}{No, but I'll think about it.}
 {139}{}{No, I don't think so.}
 {140}{}{Very well... I will wait here until you come to a decision.}
-{141}{}{Done.}
+{141}{}{Feito.}
 {142}{}{Very well... I am saddened by your decision but it is
  your choice. If you change your mind, I will be here.}
 {143}{}{Adeus.}
@@ -99,7 +99,7 @@
 {173}{}{Yeah, I've got it. I'll open the door for you.}
 {174}{}{Eu ainda estou procurando.}
 {175}{}{Thank you. I will not forget this.}
-{176}{}{You welcome.}
+{176}{}{Você é bem-vindo.}
 {177}{}{You are welcome.}
 {178}{}{Thank you again, my friend. I owe you a debt that can not be repaid.}
 {179}{}{Greetings, human. The base is on full alert. Are you by any chance the cause?}

@@ -70,7 +70,7 @@
 {361}{}{But...}
 {362}{}{Fine.}
 {370}{}{Now what the hell does the boss want? Another stupid fucking inspection?}
-{371}{}{Yes?}
+{371}{}{Sim?}
 {372}{}{What now?}
 {373}{}{How's it going?}
 {374}{}{Sorry, gotta go.}
@@ -84,7 +84,8 @@
 {391}{}{Yeah, he's throwing a party tonight at his place. Should be a blast. I'd invite you, honey, but it's only for his closest friends.}
 {392}{}{Down a few brews for me.}
 {393}{}{I understand, thanks. Have fun.}
-{394}{}{See ya.}
+{394}{}{Até mais.
+}
 {400}{}{You better believe it! We're going to drink until we drop!}
 {401}{}{Adeus.}
 {410}{}{What the fuck do you care. Beat it.}
@@ -103,7 +104,7 @@
 {440}{}{Hey, what's up? Almost time for that party.}
 {441}{}{What's up?}
 {442}{}{I have some information you might be interested in.}
-{443}{}{Nothing.}
+{443}{}{Nada.}
 {444}{}{Uhg.}
 {445}{}{Urseco?}
 {450}{}{Damn, what the hell's wrong with you today? Lay off the drugs.}
