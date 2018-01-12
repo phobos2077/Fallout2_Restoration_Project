@@ -1,1 +1,1 @@
-{100}{}{Your car has run out of gas. Sure hope you are carrying some spare fuel.}
+{100}{}{Seu carro ficou sem gás. Certifique-se de que esteja levando algum combustível de reposição.}

@@ -1,11 +1,11 @@
-{100}{}{You see an old man.}
-{101}{}{You see Chris, the gas station attendant.}
-{102}{}{You see a scruffy-looking old man wearing a purple robe.}
+{100}{}{Você vê um homem velho.}
+{101}{}{Você vê Chris, o atendente da posse de gasolina.}
+{102}{}{Você vê um homem idoso desgastando com um manto roxo.}
 {103}{}{Howdy, stranger. Whoa baby! Check out that set of wheels. Ain't seen one
  of those in years. What can old Chris do for you?}
 {104}{}{Howdy, stranger. Ain't seen you around these parts before. What can old
  Chris do for you?}
-{105}{}{What this place?}
+{105}{}{O que este lugar?}
 {106}{}{Me look for Navarro. This it?}
 {107}{}{You see metal bird fly here?}
 {108}{}{You hear Enclave? They here?}
@@ -139,7 +139,7 @@
  replacements?}
 {200}{}{Wait a minute. Are you trying to say you're one of the Enclave
  replacements?}
-{201}{}{Uh... yeah.}
+{201}{}{Uh... sim.}
 {202}{}{That's right.}
 {203}{}{Damn. Sorry for the hassles. I'm supposed to clear a bunch of newbies
  coming through here but I got to weed out the trash. Anyway, just go up to the gate,

@@ -83,7 +83,7 @@
  them in the wild. However, I am certain that you have noticed that we are an exception. My pack poses
  no threat to you or your human communities. We have evolved beyond our base cousins and wish simply to
  be left alone.}
-{157}{}{Uh... yeah.}
+{157}{}{Uh... sim.}
 {158}{}{Your heightened intellect could make you even more of a threat than the average Deathclaw,
  Gruthar.}
 {159}{}{I can see that you are not the savage killers that Deathclaws are known to be.}

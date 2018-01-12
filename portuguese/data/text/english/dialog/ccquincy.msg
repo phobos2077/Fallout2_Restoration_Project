@@ -9,7 +9,7 @@
 {107}{}{Não importa.}
 {108}{}{All right, but make it quick. I have inventory to do.}
 {109}{}{What do you need to know?}
-{110}{}{What this place?}
+{110}{}{O que este lugar?}
 {111}{}{Me look for vertibird plans. Where find?}
 {112}{}{Me told by tech me find vertibird plans here.}
 {113}{}{Eu vou agora.}
@@ -65,14 +65,14 @@
 {153}{}{I need to ask you something.}
 {154}{}{Nothing, just saying 'Hi'.}
 {155}{}{Are you nuts? Walking around here out of uniform? Get suited up!}
-{156}{}{If the sergeant catches you out of uniform, he'll hand you your ass.}
+{156}{}{Se o sargento o pegar fora do uniforme, ele vai entregar seu traseiro.}
 {157}{}{Why are you out of uniform?}
-{158}{}{Holy shit! We're being invaded! Alert!}
-{159}{}{Intruders! Call the guard!}
+{158}{}{Puta merda! Estamos sendo invadidos! Alerta!}
+{159}{}{Intrusos! Chamar a guarda!!}
 {160}{}{Guard! Intruders in maintenance!}
-{161}{}{What's up? Are we under attack?}
-{162}{}{Why the alert? What's happening?}
-{163}{}{What the hell's going on?}
+{161}{}{O que é? Estamos sob ataque?}
+{162}{}{Por isso o alerta? O que está acontecendo?}
+{163}{}{O que diabos está acontecendo?}
 {164}{}{Hey! Don't be rummaging through those drawers.}
 {165}{}{I told you not to go through my stuff! Guards!}
 {200}{}{Yeah. Well, don't believe everything you hear.}

@@ -1,12 +1,12 @@
-{100}{}{The generator is functioning normally. Power output is optimal.}
-{101}{}{The generator seems to be in an emergency stand-by mode. The power output is minimal.}
-{102}{}{Try to diagnose the problem.}
-{103}{}{Oh well. Gotta go.}
-{104}{}{There must have been a short in the system at some time. The emergency circuit breakers kicked
- in, but fused in the open position. You may be able to free them up and restore power.}
-{105}{}{You can't seem to find anything wrong. It just doesn't work.}
-{106}{}{Try to repair it.}
-{107}{}{Time to leave.}
-{108}{}{You manage to break the contacts loose and restore power!}
-{109}{}{Damn. This is tougher than it looks.}
+{100}{}{O gerador está funcionando normalmente. A saída de potência é a ideal.}
+{101}{}{O gerador parece estar em uma emergência do modo stand-by. A saída de potência é mínima.}
+{102}{}{Tente diagnosticar o problema.}
+{103}{}{Oh, bem. Tenho que ir.}
+{104}{}{Deve ter havido um curto no sistema em algum momento. Os disjuntores de emergência derrubaram
+  dentro, mas fundido na posição aberta. Você pode liberá-los e restaurar a energia.}
+{105}{}{Você não consegue encontrar nada de errado. Ele simplesmente não funciona.}
+{106}{}{Tente repará-lo.}
+{107}{}{Hora de ir embora.}
+{108}{}{Você consegue quebrar os contactos solto e restaurar o poder!}
+{109}{}{Porra. Este é mais resistente do que parece.}
 {110}{}{Feito.}

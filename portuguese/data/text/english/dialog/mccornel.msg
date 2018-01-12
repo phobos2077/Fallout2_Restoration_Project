@@ -1,4 +1,4 @@
-{100}{}{You see an old man.}
+{100}{}{Você vê um homem velho.}
 {101}{}{You see Cornelius.}
 {102}{}{Other than the slightly unsettled look on his face, there appears to be nothing out of the
  ordinary about him.}

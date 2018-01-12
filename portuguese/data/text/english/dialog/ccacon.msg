@@ -1,18 +1,18 @@
-{100}{}{You see someone in a military uniform.}
-{101}{}{You see someone in a military uniform.}
-{102}{}{You see someone wearing a military uniform but they appear to be more a tech than a soldier.}
-{103}{}{Hey. How's it going?}
-{104}{}{'Roger that, I've got you on the scope' – sorry, but I'm in the middle of something right now.}
+{100}{}{Você vê alguém em um uniforme militar.}
+{101}{}{Você vê alguém em um uniforme militar.}
+{102}{}{Você vê alguém vestindo um uniforme militar, mas eles parecem ser mais um técnico do que um soldado.}
+{103}{}{Olá. Como vai?}
+{104}{}{'Confirme, eu tenho você no escopo' - desculpe, mas estou no meio de algo agora.}
 {105}{}{Eu não posso falar agora.}
-{106}{}{Feel free to look, but don't touch.}
-{107}{}{Are you nuts to walk around here out of uniform? Get suited up!}
-{108}{}{If the sergeant catches you out of uniform, he'll hand you your ass.}
-{109}{}{Why are you out of uniform? }
-{110}{}{Holy shit! We're being invaded! Alert!}
-{111}{}{Intruders! Call the guard!}
-{112}{}{Guard! Intruders in air traffic control!}
-{113}{}{What's up? Are we under attack?}
-{114}{}{Why the alert? What's happening?}
-{115}{}{What the hell's going on?}
-{200}{}{What are you doing? You have no reason to touch that.}
-{201}{}{Touch that again and you die.}
+{106}{}{Sinta-se livre para olhar, mas não tocar.}
+{107}{}{Você é louco por andar aqui sem uniforme? Seja adequado!}
+{108}{}{Se o sargento o pegar fora do uniforme, ele vai entregar seu traseiro.}
+{109}{}{Por que você está sem uniforme?}
+{110}{}{Puta merda! Estamos sendo invadidos! Alerta!}
+{111}{}{Intrusos! Chamar a guarda!!}
+{112}{}{Guarda! Intrusos em controle de tráfego aéreo!}
+{113}{}{O que é? Estamos sob ataque?}
+{114}{}{Por isso o alerta? O que está acontecendo?}
+{115}{}{O que diabos está acontecendo?}
+{200}{}{O que você está fazendo? Você não tem motivos para tocar isso.}
+{201}{}{Toque novamente e você morre.}

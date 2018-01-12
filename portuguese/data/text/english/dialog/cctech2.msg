@@ -1,30 +1,31 @@
-{100}{}{You see a tech.}
-{101}{}{You see an Enclave technician.}
-{102}{}{You see someone wearing a lab coat. He appears confident and self-assured.}
+{100}{}{Você vê um técnico.}
+{101}{}{Você vê um Enclave técnico.}
+{102}{}{Você vê alguém usando um bata de laboratório. Ele parece confiante e seguro de si mesmo.}
 {103}{}{Yes, sir?}
-{104}{}{Me new here. Need ask question.}
+{104}{}{Eu novo aqui. Precisa perguntar.}
 {105}{}{Eu apenas disse oi. Eu vou agora.}
 {106}{}{I’m new here and I’m trying to get familiar with the base. Can I ask you some questions?}
-{107}{}{Just saying hi. See ya.}
+{107}{}{Só dizendo Oi. Até mais.
+}
 {108}{}{Certainly, soldier.}
 {109}{}{Com o que posso ajudar?
 }
-{110}{}{What this place?}
-{111}{}{What you job?}
-{112}{}{Where Enclave main base at?}
-{113}{}{Me look for vertibird plans. Where I find?}
-{117}{}{Me be go now.}
+{110}{}{O que este lugar?}
+{111}{}{O que você trabalho?}
+{112}{}{Onde Enclave base principal?}
+{113}{}{Eu procuro planos de vertibird. Onde eu encontro?}
+{117}{}{- Me ir agora.}
 {118}{}{O que é este lugar?}
-{119}{}{What is your job here?}
-{120}{}{Where is the Enclave main base located?}
-{121}{}{I need to look at the vertibird plans. Where are they kept?}
+{119}{}{Qual é o seu trabalho aqui?}
+{120}{}{Onde está localizada a base principal Enclave?}
+{121}{}{Preciso olhar para os planos do vertibird. Onde eles são mantidos?}
 {125}{}{Nothing. I’ve got to go.}
 {126}{}{This is the comm center. From here we handle all communications with the main base and any other outposts that have been established.}
-{127}{}{Me see. Me ask more.}
-{128}{}{All right. A couple more questions.}
+{127}{}{Eu vejo. Eu peço mais.}
+{128}{}{Tudo bem. Mais um par de perguntas.}
 {129}{}{I’m a comm center technician, first class. I perform supervisory duties. Mainly I make sure the other techs don’t screw up.}
-{130}{}{Uh... yeah.}
-{131}{}{Good. Keep up the good work.}
+{130}{}{Uh... sim.}
+{131}{}{Boa. Mantenha o bom trabalho.}
 {132}{}{Soldier, that information is on a "need to know"-only basis. If you have to ask the question then you don’t need to know.}
 {133}{}{Tudo bem.}
 {134}{}{Come on, it’s not like I’m some damn tribal or something. We’re in the same outfit; notice the insignia on the armor?}
@@ -39,12 +40,12 @@
 {143}{}{They would be located in maintenance, next to air traffic control. }
 {144}{}{Tudo bem.}
 {145}{}{Tenho-o.}
-{155}{}{Are you nuts, walking around here out of uniform? Get suited up!}
+{155}{}{Você está louco, andando aqui sem uniforme? Seja adequado!}
 {156}{}{If the sergeant catches you out of uniform he’ll hand you your ass.}
 {157}{}{Why are you out of uniform?}
 {158}{}{Holy shit! We’re being invaded! Alert!}
-{159}{}{Intruders! Call the guard!}
-{160}{}{Guard! Intruders in the comm center!}
+{159}{}{Intrusos! Chamar a guarda!!}
+{160}{}{Guarda! Intrusos no centro de comunicação!}
 {161}{}{What’s up? Are we under attack?}
 {162}{}{Why the alert? What’s happening?}
 {163}{}{What the hell’s going on?}

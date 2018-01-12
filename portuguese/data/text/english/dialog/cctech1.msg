@@ -1,30 +1,30 @@
-{100}{}{You see a tech.}
-{101}{}{You see an Enclave technician.}
+{100}{}{Você vê um técnico.}
+{101}{}{Você vê um Enclave técnico.}
 {102}{}{You see someone wearing a lab coat with a pocket protector and lots of pens stuffed in it. He has that slightly confused look of someone new to a job.}
 {103}{}{Yes, sir?}
-{104}{}{Me new here. Need ask question.}
+{104}{}{Eu novo aqui. Precisa perguntar.}
 {105}{}{Eu apenas disse oi. Eu vou agora.}
 {106}{}{I’m new here. I need to ask a few questions to familiarize myself with the base.}
 {107}{}{Sorry to bother you. I’m just saying hi.}
 {108}{}{I’m a new recruit myself, sir. I don’t know if I can answer all your questions but I’ll try.}
 {109}{}{Com o que posso ajudar?
 }
-{110}{}{What this place?}
-{111}{}{What you job?}
+{110}{}{O que este lugar?}
+{111}{}{O que você trabalho?}
 {112}{}{Where Enclave main base at.}
-{113}{}{Me look for vertibird plans. Where I find?}
-{117}{}{Me be go now.}
+{113}{}{Eu procuro planos de vertibird. Onde eu encontro?}
+{117}{}{- Me ir agora.}
 {118}{}{O que é este lugar?}
-{119}{}{What is your job here?}
-{120}{}{Where is the Enclave main base located?}
-{121}{}{I need to look at the vertibird plans. Where are they kept?}
+{119}{}{Qual é o seu trabalho aqui?}
+{120}{}{Onde está localizada a base principal Enclave?}
+{121}{}{Preciso olhar para os planos do vertibird. Onde eles são mantidos?}
 {125}{}{Nothing. I’ve got to go.}
 {126}{}{This is the comm center. We handle all communications with the main base from here.}
-{127}{}{Me see. Me ask more.}
-{128}{}{All right. A couple more questions.}
+{127}{}{Eu vejo. Eu peço mais.}
+{128}{}{Tudo bem. Mais um par de perguntas.}
 {129}{}{I’m a comm center technician, second class. I handle all communications with main base and I maintain equipment status.}
-{130}{}{Uh... yeah.}
-{131}{}{Good. Keep up the good work.}
+{130}{}{Uh... sim.}
+{131}{}{Boa. Mantenha o bom trabalho.}
 {132}{}{You’ve got to be kidding, right? }
 {133}{}{No kid. Where base?}
 {134}{}{Do I look like I’m kidding?}
@@ -37,12 +37,12 @@
 {141}{}{They would be located in maintenance, next to air traffic control. }
 {142}{}{Tudo bem.}
 {143}{}{Tenho-o.}
-{153}{}{Are you nuts, walking around here out of uniform? Get suited up!}
+{153}{}{Você está louco, andando aqui sem uniforme? Seja adequado!}
 {154}{}{If the sergeant catches you out of uniform he’ll hand you your ass.}
-{155}{}{Why are you out of uniform? }
+{155}{}{Por que você está sem uniforme?}
 {156}{}{Holy shit! We’re being invaded! Alert!}
-{157}{}{Intruders! Call the guard!}
-{158}{}{Guard! Intruders in the comm center!}
+{157}{}{Intrusos! Chamar a guarda!!}
+{158}{}{Guarda! Intrusos no centro de comunicação!}
 {159}{}{What’s up? Are we under attack?}
 {160}{}{Why the alert? What’s happening?}
 {161}{}{What the hell’s going on?}

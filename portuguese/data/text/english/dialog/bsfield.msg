@@ -2,5 +2,4 @@
   se preocupe com o barbear.}
 {151}{}{O campo de força parece não ser afetado.}
 {152}{}{O campo de força foi adiado por cerca de quinze segundos.}
-{200}{}{Yes, there is a lot of energy going through there. You stop before the electricity arcs to your
- hand.}
+{200}{}{Sim, há uma grande quantidade de energia por lá. Você para antes da eletricidade chegar até a sua mão.}

@@ -4,7 +4,7 @@
  claws.}
 {103}{}{Stop. You not go here. This place off limits.}
 {104}{}{Okay. Me go.}
-{105}{}{What this place?}
+{105}{}{O que este lugar?}
 {106}{}{Who you?}
 {107}{}{All right, I'll leave}
 {108}{}{I go where I please, lizard breath!}
@@ -44,7 +44,7 @@
 {138}{}{It you again. What you want?}
 {139}{}{Me say hi. Me go.}
 {140}{}{Who you say you be?}
-{141}{}{What this place?}
+{141}{}{O que este lugar?}
 {142}{}{Just dropped by to say hello.}
 {143}{}{O que é este lugar?}
 {144}{}{Who are you again?}
