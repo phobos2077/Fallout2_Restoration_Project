@@ -42,7 +42,7 @@
 {301}{}{Você encontra demolidores.}
 {302}{}{Você encontra NCR Rangers lutando contra os restos do exército do Mestre.}
 {303}{}{Você encontra NCR Rangers em luta com demolidores.}
-{304}{}{You encounter farmers fending off remnants of the Master's army.}
+{304}{}{Você encontra os agricultores defendendo-se dos restos do exército do Mestre.}
 {305}{}{You encounter farmers fending off marauders.}
 {306}{}{You encounter NCR Rangers.}
 {307}{}{You encounter farmers.}
