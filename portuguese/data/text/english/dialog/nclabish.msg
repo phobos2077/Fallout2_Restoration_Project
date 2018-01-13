@@ -40,7 +40,7 @@
  I am Leslie Anne Bishop. }
 {251}{}{My husband is the head of the Bishop family here in New Reno. And YOU are...?}
 {252}{}{My late husband was the head of the Bishop family here in New Reno. And YOU are...?}
-{253}{}{My name is }
+{253}{}{Meu nome é }
 {254}{}{I am a simple traveler.}
 {255}{}{I'm a traveler, looking for Vault 13. Have you heard of it?}
 {256}{}{I'm a traveler...do you know where I could find something called the 'Garden of Eden Creation Kit?'}

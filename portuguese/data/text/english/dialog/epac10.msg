@@ -106,7 +106,7 @@
  He casually dresses himself in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb,
  he begins to sculpt and style his slicked dark hair with the quick precision of a seasoned pro.] I don't think I've
  seen you around, doll, and I doubt I'd forget a face like yours. Name's Dex, but I'm sure you know that. Mind if I ask yours?}
-{421}{}{I'm }
+{421}{}{Eu sou }
 {422}{}{. But you should know I've got a strict rule of not dating any strange men I unthaw. Since you've been on ice for the past century and a half, I'll assume your hand spasmed and accidentally slapped my ass. But if it happens again, I'll rip your cock off. Got it?}
 {423}{}{My name's }
 {424}{}{. It's nice to meet you, Dex. I can't imagine what it must be like to wake up after being frozen for over a hundred and fifty years.}
@@ -268,7 +268,7 @@
  He casually dresses himself in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb, he
  begins to sculpt and style his slicked dark hair with the quick precision of a seasoned pro.] I don't think I've seen
  you around, doll, and I doubt I'd forget a face like yours. Name's, Dex, but I'm sure you know that. Mind if I ask yours?}
-{821}{}{I'm }
+{821}{}{Eu sou }
 {822}{}{. But you should know I've got a strict rule of not dating any strange men I unthaw. Since you've been on ice for the past century and a half, I'll assume your hand spasmed and accidentally slapped my ass. But if it happens again, I'll rip your cock off. Got it?}
 {823}{}{My name's }
 {824}{}{. It's nice to meet you, Dex. I can't imagine what it must be like to wake up after being frozen for over a hundred

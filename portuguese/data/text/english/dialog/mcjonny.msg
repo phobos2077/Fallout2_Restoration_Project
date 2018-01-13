@@ -20,7 +20,7 @@
 {172}{}{I'm sorry Jonny. Laddie died while we were searching for you.}
 {173}{}{Rose said she would look after your dog.}
 {174}{}{My name is Jonny. What's yours?}
-{175}{}{My name is }
+{175}{}{Meu nome é }
 {176}{}{.}
 {177}{}{My name's not important.}
 {178}{}{My name's Jonny, and I don't like you.}

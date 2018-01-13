@@ -1,72 +1,72 @@
 {100}{}{Você vê um Sargento.}
 {101}{}{Você vê o Sargento Dornan.}
 {102}{}{Você vê um homem vestindo armadura de energia de um design incomum. Há uma insígnia no peitoral que você não conhece.}
-{103}{sgnt1a}{Welcome to Camp Navarro... a civilian! How in the hell did a civilian get on this base! I'll have someone's ass for dinner! Get this civilian off government property.}
-{104}{sgnt1b}{Welcome to Camp Navarro... civilians! How the hell did civilians get on this base! I'll have someone's ass for dinner! Get these civilians off government property.}
-{105}{}{Wait. I...}
-{106}{sgnt2a}{Well I'll be damned. I had you escorted off this base and here you are again. I don't think you're a civilian after all. More than likely you're a spy! Sound the alarm and execute this maggot!}
-{107}{sgnt2b}{Well I'll be damned. I had the bunch of you escorted off this base and here you are again. I don't think you're civilians after all. More than likely you're all spies! Sound the alarm and execute these maggots!}
-{108}{sgnt3}{Welcome to Camp Navarro. So, you're the replacement. What's your name, private?}
+{103}{sgnt1a}{Bem-vindo ao Camp Navarro ... um civil! Como no inferno um civil chegou a essa base! Eu vou ter um traseiro para jantar! Ponham este civil fora da propriedade do governo.}
+{104}{sgnt1b}{Bem-vindo ao Camp Navarro ... civis! Como diabos os civis chegaram a essa base! Eu vou ter um traseiro para jantar! Retire esses civis da propriedades do governo.}
+{105}{}{Espere, Eu...}
+{106}{sgnt2a}{Bem, eu vou ser condenado. Eu escolhi essa base e aqui está novamente. Eu não acho que você é civil, afinal. Mais do que provavelmente você é um espião! Soem o alarme e executem esse verme!}
+{107}{sgnt2b}{Bem, eu vou ser condenado. Tive o grupo de vocês escoltado desta base e aqui está novamente. Eu não acho que vocês são civis depois de tudo. Mais do que provável, vocês são espiões! Soem o alarme e executem esses vermes!}
+{108}{sgnt3}{Bem-vindo ao Camp Navarro. Então, você é o substituto. Qual o seu nome, recruta?}
 {109}{}{Uh... me }
-{110}{}{I'm }
-{111}{sgnt4}{Oh, lovely. They've sent me a mo-ron. Listen closely. You will stand guard at the hangar. This is your duty post. You will go there now and stay on guard until told otherwise. Now move it, soldier!}
+{110}{}{Eu sou }
+{111}{sgnt4}{Oh amável. Eles me enviaram um mongol. Ouça com atenção. Você ficará de guarda no hangar. Esta é a sua publicação de dever. Você vai lá agora e fique de guarda até que seja dito de outra forma. Agora mova-se, soldado!}
 {112}{}{Eu vou.}
-{113}{sgnt5}{What was that? Did you forget something, maggot?}
-{114}{}{My name is }
-{115}{sgnt6}{I am not a Sir. I work for a living, you mo-ron. You will call me Sergeant or Sergeant Dornan. Do you understand me! }
-{116}{}{Yes, Sergeant!}
-{117}{}{Sure, Sarge. Whatever.}
-{118}{sgnt7}{Outstanding. Proceed on the double to the hangar where you will stand guard duty. You will do a fine job. Do you understand?}
-{119}{}{What am I guarding there, Sergeant?}
-{120}{}{Yes, Sergeant!}
-{121}{sgnt8}{You mo-ron, you are not to question my orders! When I say jump, you jump! When I say fight, you fight! When I tell you to die for your country, then you will certainly die! Have I made myself clear?}
-{122}{}{Yes, Sergeant!}
-{123}{sgnt9}{Welcome to Camp Navarro. So, you're the new replacement... You are out of uniform, soldier! Where is your power armor?}
-{124}{}{Uh... me not have.}
-{125}{}{The base didn't issue me any. They said it would be issued here.}
-{126}{}{Uh... I wasn't issued any armor.}
-{127}{}{It so happens that you're wearing it... I'll just take it off your dead body!}
-{128}{sgnt10}{Don't have any? You expect me to believe that, maggot? The truth is you lost an expensive piece of army-issue equipment. That suit is going to come out of your pay, and you will remain in this man's army until you are five hundred and ten years old, which is the number of years it will take for you to pay for a Mark II Powered Combat Armor you have lost! Report to the armory and have a new suit issued to you, then report back to me, private! Dismissed!}
-{129}{}{Okay. Me go get suit.}
-{130}{}{Yes, Sergeant!}
-{131}{sgnt11}{Those paper-shuffling jackasses! How the hell do they expect me to run this unit if they keep shortchanging me on supplies! Double-time it over to the armory and get your issue, then report back to me. Dismissed!}
+{113}{sgnt5}{O que foi isso? Você se esqueceu de algo, verme?}
+{114}{}{Meu nome é }
+{115}{sgnt6}{Eu não sou um senhor. Eu trabalho para ganhar a vida, você é mongol. Você vai me chamar de sargento ou sargento Dornan. Você me entende!}
+{116}{}{Sim, Sargento!}
+{117}{}{Claro, Sargento. Tanto faz.}
+{118}{sgnt7}{Excepcional. Prossiga no dobro para o hangar, onde você ficará de guarda. Você fará um bom trabalho. Voce entende?}
+{119}{}{O que estou guardando lá, Sargento?}
+{120}{}{Sim, Sargento!}
+{121}{sgnt8}{Você mongol não deve questionar minhas ordens! Quando eu digo saltar, você pula! Quando eu digo luta, você luta! Quando eu digo que você morra por seu país, então você certamente morrerá! Fui claro?}
+{122}{}{Sim, Sargento!}
+{123}{sgnt9}{Bem-vindo ao Acampamento Navarro. Então, você é o novo substituto... Você está fora do uniforme, soldado! Onde está a sua armadura de energia?}
+{124}{}{Uh... eu não tenho.}
+{125}{}{A base não me emitiu nenhum. Eles disseram que seria emitido aqui.}
+{126}{}{Uh... eu não foi emitido qualquer armadura.}
+{127}{}{Acontece que você está usando ele... eu só vou tirá-lo de seu cadaver!}
+{128}{sgnt10}{Não tem nenhum? Você espera que acredite nisso, verme? A verdade é que você perdeu uma peça cara de equipamento do exército. Esse processo vai sair do seu salário e você permanecerá no exército desse homem até que você tenha quinze anos de trabalho, o número de anos que você demorará para pagar uma Armadura de Combate Mark II Powered perdida! Informe para o arsenal e tenha um novo terno emitido para você, então informe-me, privado! Dispensado!}
+{129}{}{Tudo bem. Me ir buscar o terno.}
+{130}{}{Sim, Sargento!}
+{131}{sgnt11}{Esses bichos de troca de papel! Como diabos eles esperam que eu execute esta unidade se eles continuarem me falando em suprimentos! Vá rápido até o arsenal e resolva o seu problema, então informe-me. Dispensado!}
 {132}{}{Tudo bem.}
-{133}{}{Yes, Sergeant!}
-{134}{sgnt12}{If I like you, you can call me Sarge. But guess what? I don't like you! Do you understand?}
-{135}{}{Yes, Sergeant!}
-{136}{sgnt13}{Excellent! You're in uniform now so I'm going to give you a rare opportunity. We are going to start over as if I never met your sorry ass. Would you like that, soldier?}
-{137}{}{Yes, uh... Sargent!}
-{138}{}{No! Me not care anymore. Me kick you ass.}
-{139}{}{Yes, Sergeant!}
-{140}{}{I don't particularly care now that I'm wearing this nice armor. I'm going to kick your ass.}
-{141}{sgnt14a}{Soldier, you are still out of uniform. I gave you a direct order to report to supplies and get your issue. Now, get out of my face and don't come back until you look like a soldier!}
-{142}{sgnt14b}{This is the second time you have come to me out of uniform, Soldier. There will not be a third!}
-{143}{}{Okay! Okay! Me going.}
-{144}{}{Screw this. Me tired of crap.}
-{145}{}{Yes, Sergeant! I'm on my way.}
-{146}{}{Fuck it. I'm not cut out for this.}
-{147}{sgnt15a}{Trooper, what are you doing here? Get back to your guard post!}
-{148}{sgnt15b}{Mo-ron. If I see you away from your post again, it will be the sorriest day of your short life!}
-{149}{sgnt15c}{You are a danger to us all. That will end now.}
-{150}{sgnt16}{This base is on alert and I don't recognize you. Show me your papers, soldier.}
-{151}{}{Me not have papers with on me.}
-{152}{}{Me no need papers!}
-{153}{}{I don't have my papers with me. They're in my footlocker.}
-{154}{}{Papers? I've got your papers right here!}
-{155}{sgnt17}{Wrong answer, maggot. You are to carry your papers with you at all times and you should know that!}
+{133}{}{Sim, Sargento!}
+{134}{sgnt12}{Se eu gostar de você, você pode me chamar de Sarge. Mas adivinhe o quê? Eu não gosto de você! Você entende?}
+{135}{}{Sim, Sargento!}
+{136}{sgnt13}{Excelente! Você está em uniforme agora, então vou lhe dar uma oportunidade rara. Vamos começar de novo como se nunca conhecesse o seu rabo. Gostaria disso, soldado?}
+{137}{}{Sim, uh ... Sargento!}
+{138}{}{Não! Eu não me importo mais. Eu chutar sua bunda.}
+{139}{}{Sim, Sargento!}
+{140}{}{Eu não me importo muito agora que eu estou vestindo essa armadura agradável. Eu vou chutar sua bunda.}
+{141}{sgnt14a}{Soldado, você ainda está fora de uniforme. Eu dei uma ordem direta para informar sobre suprimentos e resolver seu problema. Agora, saia da minha vista e não volte até você se parecer com um soldado!}
+{142}{sgnt14b}{Esta é a segunda vez que você veio a mim fora do uniforme, soldado. Não haverá uma terceira!}
+{143}{}{Tudo bem! Tudo bem! - Me ir.}
+{144}{}{Dane-se isso. Me cansado de porcaria.}
+{145}{}{Sim, Sargento! Eu estou no meu caminho.}
+{146}{}{Que se foda. Eu não sou talhado para isso.}
+{147}{sgnt15a}{Soldado, o que você está fazendo aqui? Voltar para o seu posto de guarda!}
+{148}{sgnt15b}{Idiota. Se eu te vejo longe do seu posto novamente, será o dia mais engraçado da sua vida curta!}
+{149}{sgnt15c}{Você é um perigo para todos nós. Que vai acabar agora.}
+{150}{sgnt16}{Esta base está em alerta e não reconheço você. Mostre-me seus papéis, soldado.}
+{151}{}{Não Me têm papéis em mim.}
+{152}{}{Não Me precisa papeis! }
+{153}{}{não tenho meus papéis comigo. Eles estão na minha maleta.}
+{154}{}{Papéis? Eu tenho os papéis aqui!}
+{155}{sgnt17}{Resposta errada, verme. Você deve levar seus papéis com você em todos os momentos e você deve saber disso!}
 {156}{}{Oops.}
-{157}{}{Stay alert, soldier!}
-{158}{}{Good. You're on the ball. Stay that way!}
-{159}{}{Nothing to report, I see. Stay at your post.}
-{160}{}{If I catch any of you sleeping I'll make sure you sleep forever!}
-{161}{}{Good! You found your duty station!}
-{162}{}{Stay at your post until you're relieved, soldier!}
-{163}{}{At your duty post and awake. Excellent!}
-{164}{}{Stay awake, stay alert, stay alive!}
-{165}{}{Alert! Intruders on the base!}
-{166}{}{Guards! Intruders!}
-{167}{}{Who the hell let these bastards through? Guards!}
-{168}{}{Alert! Spies in the complex!}
+{157}{}{Fique alerta, soldado!}
+{158}{}{Boa. Você está na bola. Fique assim!}
+{159}{}{Nada a relatar, eu vejo. Permanecer em seu posto.}
+{160}{}{Se eu pegar qualquer um de vocês dormindo, eu vou ter certeza de que você dorme para sempre!}
+{161}{}{Boa! Você encontrou o seu local de trabalho!}
+{162}{}{Fique em seu posto até você ser aliviado, soldado!}
+{163}{}{No seu posto de guarda e acordado. Excelente!}
+{164}{}{Ficar acordado, fique alerta, fique vivo!}
+{165}{}{Alerta! Intrusos na base!}
+{166}{}{Guardas! Intrusos!}
+{167}{}{Quem diabos deixou esses bastardos? Guardas!}
+{168}{}{Alerta! Espiões no complexo!}
 {169}{}{Where the hell is that screw-up private?!}
 {200}{}{.}
 {201}{}{, Sir!}

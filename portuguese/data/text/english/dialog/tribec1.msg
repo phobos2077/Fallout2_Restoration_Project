@@ -6,9 +6,9 @@
 {201}{}{[This sun bronzed giant looks as if his corded muscles were carved out of granite. Beneath a mane of black hair,
  his smoldering blue eyes roam unabashedly over your body.] I'm Krom, the head warrior of this tribe. By the Gods, girl,
  your beauty could drive a man mad.}
-{202}{}{I'm }
+{202}{}{Eu sou }
 {203}{}{, and I'm on a holy quest to save my village, Arroyo, from certain destruction.}
-{204}{}{I'm }
+{204}{}{Eu sou }
 {205}{}{, and I've been on a holy quest to save my village, Arroyo, from certain destruction. I found what I needed though.}
 {206}{}{I'm a simple wanderer -- nothing more. I'll be moving on now.}
 {207}{}{[Smile.] Thank you, Krom.}

@@ -19,7 +19,7 @@
 {118}{}{What papers?}
 {119}{}{You blow me!}
 {120}{}{I don't seem to have them with me...}
-{121}{}{Papers? I've got your papers right here!}
+{121}{}{Papéis? Eu tenho os papéis aqui!}
 {122}{}{Wrong answer, maggot. You're to carry your papers with you at all times. You should know that!}
 {123}{}{Fuck you.}
 {124}{}{Leave my locker alone or I will dish out some serious pain.}

@@ -37,7 +37,7 @@
  here until I free everyone from this camp. [To the other slaves.] Keep quiet and head for the woods. I'll handle the guards.}
 {500}{}{If you be choosin' me for a lay, you best expect a fight -- wait, you don't be having the demon mark on your head. Who you be?}
 {501}{}{I'm the "Chosen One" and who are you?}
-{502}{}{My name is }
+{502}{}{Meu nome é }
 {503}{}{. Who are you?}
 {510}{}{My name be Kurisu. I come from tribe to south west, sits next to the Great Salt Water. Slavers got me. Got others too, but they been sent on. They say they ain't done with me. Be keeping me around for their wicked pleasure. Please, you needin' to get us out of cage and away from de evil men.}
 {511}{}{Don't worry I'm here to get you out. I got a key and permission to take you out of here.}

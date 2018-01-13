@@ -6,7 +6,7 @@
 {201}{}{He watches you silently.}
 {300}{}{Shhh... I'm huntin' wabbits.}
 {400}{}{[He looks upon you with untrusting eyes.] Who goes there?}
-{401}{}{My name is }
+{401}{}{Meu nome é }
 {402}{}{. Who are you?}
 {403}{}{I'm on a mission for Vault City. Who are you?}
 {404}{}{My name is not important. I have come to warn you. You are in great danger!}
@@ -71,7 +71,7 @@
 {700}{}{(The tribal looks upon you with silence)}
 {701}{}{[Keep staring]}
 {702}{}{[Attack]}
-{703}{}{My name is }
+{703}{}{Meu nome é }
 {704}{}{. Who are you?}
 {705}{}{I'm on a mission for Vault City. Who are you?}
 {706}{}{My name is not important. I have come to warn you. You are in great danger!}
@@ -80,7 +80,7 @@
 {710}{}{(The tribal continues to look upon you with silence)}
 {711}{}{[Keep staring]}
 {712}{}{[Attack]}
-{713}{}{My name is }
+{713}{}{Meu nome é }
 {714}{}{. Who are you?}
 {715}{}{I'm on a mission for Vault City. Who are you?}
 {716}{}{My name is not important. I have come to warn you. You are in great danger!}
@@ -89,7 +89,7 @@
 {720}{}{(The tribal continues to look upon you with silence. It is clear he is becoming impatient.)}
 {721}{}{[Keep staring]}
 {722}{}{[Attack]}
-{723}{}{My name is }
+{723}{}{Meu nome é }
 {724}{}{. Who are you?}
 {725}{}{I'm on a mission for Vault City. Who are you?}
 {726}{}{My name is not important. I have come to warn you. You are in great danger!}

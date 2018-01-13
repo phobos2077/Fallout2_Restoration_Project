@@ -658,5 +658,5 @@
 {6257}{}{ fren?}
 {6287}{}{ go.}
 {6298}{}{ go, }
-{6379}{}{I'm }
+{6379}{}{Eu sou }
 {6525}{}{Sure would. I'd make them see what they'd really lost.}

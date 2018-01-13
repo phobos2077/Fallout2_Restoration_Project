@@ -8,7 +8,7 @@
  Who am *I*? Who are *you*? You look like a heavily armed hobo!}
 {211}{}{[Standing up and shaking himself dry like a wet animal, the man looks at you grinning widely, revealing some oddly sharp front teeth.]
  Who am *I*. Why, I'm only Sgt. Jules, the best-looking soldier on this base, gorgeous!}
-{212}{}{I'm }
+{212}{}{Eu sou }
 {213}{}{. But, what's your name?}
 {214}{}{Don't you get cocky with me. What's with this place anyway?}
 {215}{}{I see. Well, Sgt. Jules, what's going on around here anyway?}
