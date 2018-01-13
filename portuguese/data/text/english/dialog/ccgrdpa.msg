@@ -30,48 +30,48 @@
 {312}{}{(Ir embora.)
 }
 {315}{}{Oh merda, parece que nos conseguimos um intruso. Código vermelho! Eu repito, código vermelho!}
-{316}{}{That sounds like a good idea. Touch the aircraft again and I'll put a bullet in your head.}
-{320}{}{Right. And therefore you are...}
-{321}{}{About to leave. Sorry to bother you.}
-{322}{}{About to deliver an important message to the main base.}
-{323}{}{Oh, really? And what does this message say.}
-{324}{}{It's super top secret. I cannot tell you.}
-{325}{}{I'll tell you, but it's absolutely essential that you don't disclose this information to anyone else, for fear of a
- mass panic. You see, it's come to my attention that one of the recent shipments of slaves is infected with an unknown, and
- highly deadly, virus strain. I *must* get to the base immediately, or all our lives could be lost. Now stop wasting my time,
- as there isn't a moment to spare.}
-{326}{}{Yeah, I believe you. Looks like we got ourselves an intruder...}
-{327}{}{Damnit! Ah, whatever. I never get told shit around here. Fine. Be on your way.}
-{328}{}{Woah, that sounds bad. You better get moving then, I don't want this shit on my hands. Oh, and don't worry, I won't tell anyone.}
+{316}{}{Isso soa como uma boa ideia. Toque a aeronave novamente e eu vou colocar uma bala em sua cabeça.}
+{320}{}{Certo. E, portanto, você é ...}
+{321}{}{Prestes a sair. Desculpe incomodá-lo.}
+{322}{}{Para entregar uma mensagem importante para a base principal.}
+{323}{}{Sério? E o que esta mensagem diz.}
+{324}{}{É super secreto. Eu não posso contar a você.}
+{325}{}{Eu vou lhe dizer, mas é absolutamente essencial que você não divulgue essas informações a mais ninguém, por medo de um
+  pânico em massa. Você vê, chamou a atenção para mim que uma das recentes expedições de escravos está infectada com algo desconhecido, e
+  altamente mortal, algum vírus. Eu * devo * chegar à base imediatamente, ou todas as nossas vidas podem ser perdidas. Agora pare de desperdiçar meu tempo,
+  pois não há um momento de sobra.}
+{326}{}{Sim, eu acredito em você. Parece que temos de nós mesmos um intruso...}
+{327}{}{Droga! Ah, seja o que for. Nunca me dizem nada por aqui. Bem. Esteja a caminho.}
+{328}{}{Woah, isso parece ruim. É melhor você se mandar, então, não quero essa merda em minhas mãos. Ah, e não se preocupe, não vou contar a ninguém.}
 {329}{}{[FEITO]}
-{400}{}{[After a half hour of sitting in the dark cargo hold, you feel the craft touch down to earth once more. A moment
- later, the cargo door opens and you see a squad of power armored soldiers. One of them does a double take at you then
- turns to the others.] Holy shit! One of those mutie wastlanders stowed away in the 'bird! ALERT! We got an intruder!}
-{401}{}{[After a half hour of sitting in the dark cargo hold, you feel the craft touch down to earth once more. A moment
- later, the cargo door opens and you see a squad of power armored soldiers. One of them does a double take at you then
- turns to the others.] Holy shit! Some of those mutie wastlanders stowed away in the 'bird! ALERT! We got intruders!}
-{402}{}{[Jump out and see how many you can take down before they waste you.]}
-{403}{}{[Raise hands in surrender and hope for the best.]}
-{410}{}{Aw, it doesn't look like the mutie's gonna put up a fight. Maybe we should bring him to the Commander -- see
- what he wants to do about this.}
-{411}{}{Aw, it doesn't look like the mutie's gonna put up a fight. Maybe we should bring her to the Commander -- see
- what he wants to do about this.}
-{412}{}{Aw, it doesn't look like the muties are gonna put up a fight. Maybe we should bring them to the Commander -- see
- what he wants to do about this.}
-{420}{}{[After a half hour of sitting in the dark cargo hold, you feel the craft touch down to earth once more. A moment
- later, the cargo door opens and you see a squad of Enclave soldiers. One of them does a double-take at you.] What the hell
- are you doing back here? You weren't authorized to be on that mission. What's your name, soldier?}
-{421}{}{It doesn't matter what my name is, 'cause I'm not here to talk. [Jump out and start fighting.]}
-{422}{}{Me? Oh, I'm, uh, *cough*mumble*cough*. Don't mind me, though. In fact, I should probably be going now.
- [Get out and attempt to walk away nonchalantly.]}
-{423}{}{My name's }
-{424}{}{. Where am I?}
-{425}{}{No, what's *your* name, soldier? I was put here to test you and I gotta say you FAILED. If I were a wasteland
- suicide assassin you and your whole crew would be dead right now! That is unacceptable! Shape up, soldier!}
-{426}{}{Uh . . . my name }
-{427}{}{. I take fun ride in metal birdie! Go again! Wanna go again!}
-{428}{}{You not need know my name. I no like you. I kill. [Jump out and start fighting.]}
-{430}{}{What are you, drunk? You're at Navarro, of course. If you're having memory problems, soldier, you might wanna go get yourself checked out. Maybe some of that radiation out there got to you.}
+{400}{}{[Depois de uma meia hora de sentado no compartimento de carga escuro, você sente a nave tocar a terra novamente. Um momento
+  mais tarde, a porta da carga abre e você vê um esquadrão de soldados com armadura de poder. Um deles faz uma revista em você, então
+  vira para os outros.] Puta merda! Um desses wastilanders muti guardou-se no "pássaro! ALERTA! Nós temos um intruso!}
+{401}{}{[Depois de uma meia hora de sentado no compartimento de carga escuro, você sente a nave tocar a terra novamente. Um momento
+  mais tarde, a porta da carga abre e você vê um esquadrão de soldados com armadura de poder. Um deles faz uma revista em você, então
+  vira para os outros.] Puta merda! Alguns desses wastsland mutie entraram no "pássaro!" ALERTA! Temos intrusos!}
+{402}{}{[Salte e veja quantos você pode derrubar antes de dispersar-los.]}
+{403}{}{[Levantar as mãos em rendição e esperar o melhor.]}
+{410}{}{Ah, não parece que o mutie vai fazer uma briga. Talvez devêssemos levá-lo ao Comandante - veja
+  o que ele quer fazer sobre isso.}
+{411}{}{Ah, não parece que o mutie vai causar uma briga. Talvez devêssemos levá-la ao Comandante - veja
+  o que ele quer fazer sobre isso.}
+{412}{}{Ah, não parece que os muties vão causar uma briga. Talvez devêssemos levá-los ao Comandante - veja
+  o que ele quer fazer sobre isso.}
+{420}{}{[Depois de uma meia hora de sentar no compartimento de carga escuro, você sente a nave tocar a terra novamente. Um momento
+  mais tarde, a porta da carga abre e você vê um esquadrão de soldados do Enclave. Um deles faz uma dupla tomada para você.] O que diabos
+  você está de volta aqui? Você não estava autorizado a participar dessa missão. Qual o seu nome, soldado?}
+{421}{}{Não importa qual é o meu nome, porque eu não estou aqui para falar. [Saltar para fora e começar a lutar.]}
+{422}{}{Eu? Oh, eu sou, uh, * tosse * engasga * tosse *. Não me agrada, no entanto. Na verdade, provavelmente deveria estar indo agora.
+  [Sair e tentar ir embora com indiferença.]}
+{423}{}{Meu nome é}
+{424}{}{. Onde estou?}
+{425}{}{Não, qual é * seu * nome, soldado? Eu estava aqui para testá-lo e eu tenho que dizer que você falhou. Se eu fosse um vagante 
+do deserto assassino você e toda a sua equipe estariam mortos agora! Isso é inaceitável! Em forma, soldado!}
+{426}{}{Uh . . . meu nome }
+{427}{}{. Eu tomo passeio divertido em pássaro de metal! Vá novamente! Quero ir de novo! }
+{428}{}{Você não precisa saber meu nome. Eu não gosto de você. Eu mato. [Saltar para fora e começar a lutar.]}
+{430}{}{Você está bêbado? Você está no Navarro, é claro. Se você está tendo problemas de memória, soldado, você pode querer se verificar. Talvez alguma dessas radiações lá fora tenha chegado a você.}
 {440}{}{Don't give me that bullshit. You're one of the new recruits, aren't you? Heh. That smart mouth of yours is gonna land you in all sorts of trouble--and I can't wait to see it happen. Now get back to your post, soldier.}
 {450}{}{Sir! Yes sir!}
 {451}{}{Ma'am! Yes ma'am!}

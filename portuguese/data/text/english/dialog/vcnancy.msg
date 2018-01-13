@@ -51,7 +51,7 @@
 {150}{}{Oh! Well, welcome to Vault City, Captain.}
 {151}{}{Well, welcome to Vault City, fellow Citizen.}
 {152}{}{We don't see many new faces around here. I'm Phyllis. What's your name?}
-{153}{}{My name's }
+{153}{}{Meu nome é}
 {154}{}{Eu sou }
 {155}{}{If I wanted to give you my name, I would have told it to you, "Sy-phyllis"... or whatever the hell your name is.}
 {156}{}{Sorry, I don't have time to talk right now.}

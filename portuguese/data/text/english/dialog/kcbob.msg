@@ -14,7 +14,7 @@
 {140}{}{Humph, I don't want you as my drinking partner. Now git.}
 {141}{}{Humph, I think that I'd rather go to Sally's bathhouse than spend time with you. Now git.}
 {150}{}{Howdy stranger, my name's Whiskey Bob. What's yours?}
-{151}{}{My name's }
+{151}{}{Meu nome é}
 {152}{}{. Nice to meet you Whiskey Bob.}
 {153}{}{Eu sou }
 {154}{}{. What's happening here in town?}

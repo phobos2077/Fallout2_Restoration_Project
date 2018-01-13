@@ -4,7 +4,7 @@
  It's my job to greet anyone new in town and to answer any questions they might have about
  our bucolic little burg. Welcome to Klamath. (hic) Who might you be?}
 {201}{}{Uhh, thanks for the greeting. I'm just a traveler.}
-{202}{}{My name's }
+{202}{}{Meu nome é}
 {203}{}{. Thanks for welcoming me here.}
 {204}{}{ of Arroyo. I'm the Chosen One.}
 {205}{}{You don't need to know my name or anything else about me. Go away, you filthy drunkard.}
