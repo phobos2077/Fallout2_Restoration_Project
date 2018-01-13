@@ -7,9 +7,9 @@
 {106}{}{You're out of uniform. }
 {107}{}{You better report to the Sarge and get suited up.}
 {108}{}{You're taking a big chance being out of uniform. You better report to supply.}
-{109}{}{Who the hell are you guys... Alert! Intruders!}
+{109}{}{Quem diabos são vocês... Alerta! Intrusos!}
 {110}{}{We've been infiltrated! Alert!}
-{111}{}{Multiple intruders! Sound the alarm!}
+{111}{}{Vários intrusos! Soar o alarme!}
 {112}{}{Security alert! Seal the base!}
 {113}{}{Secure all stations! We're on alert!}
 {114}{}{Intruder alert! Go code red!}

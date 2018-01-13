@@ -45,7 +45,7 @@
 {140}{}{Me}
 {141}{}{Adeus.}
 {142}{}{Unauthorized personnel. Meaning 'people who do not have permission to be here.'}
-{143}{}{Ok. Me understand.}
+{143}{}{Ok. Me entender.}
 {144}{}{Me get another of those headaches. Me go now.}
 {145}{}{My goal is to maintain as much patience as I can, in light of the fact that you are being rude.
  If you cannot deal with me civilly, then please leave.}

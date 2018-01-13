@@ -46,9 +46,9 @@
 {145}{}{Tudo bem.}
 {146}{}{You must be looking for the armory. Go back down the hall, turn right, and it's the first door on the left. You'll get your issue there.}
 {147}{}{Obrigado.}
-{148}{}{Who the hell are you guys... Alert! Intruders!}
+{148}{}{Quem diabos são vocês... Alerta! Intrusos!}
 {149}{}{We've been infiltrated! Alert!}
-{150}{}{Multiple intruders! Sound the alarm!}
+{150}{}{Vários intrusos! Soar o alarme!}
 {151}{}{Security alert! Seal the base!}
 {152}{}{Secure all stations! We're on alert!}
 {153}{}{Intruder alert! Go code red!}

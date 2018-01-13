@@ -27,7 +27,7 @@
 {172}{}{No way! That's too much!}
 {173}{}{Why does your whiskey cost so much more than Becky's?}
 {174}{}{No thanks.}
-{175}{}{Anything else?}
+{175}{}{Mais alguma coisa?}
 {176}{}{Sim.}
 {177}{}{Nope, thanks.}
 {178}{}{You don't have enough money! This ain't no charity!}

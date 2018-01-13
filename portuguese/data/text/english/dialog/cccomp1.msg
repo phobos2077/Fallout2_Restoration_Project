@@ -1,18 +1,18 @@
 {100}{}{Você vê um técnico.}
-{101}{}{You see a computer tech.}
-{102}{}{You see someone wearing a lab coat, complete with pocket protector and a stash of pens.}
-{103}{}{Good day, soldier.}
-{104}{}{Please don’t touch anything.}
-{105}{}{You grunts are not supposed to be in here.}
-{106}{}{You’re out of uniform. }
-{107}{}{You better suit up. Armory is down the hall on the left.}
-{108}{}{You’re taking a big chance being out of uniform. You better report to supply.}
-{109}{}{Who the hell are you guys... Alert! Intruders!}
-{110}{}{We’ve been infiltrated! Alert!}
-{111}{}{Multiple intruders! Sound the alarm!}
-{112}{}{Shit! Get the backups started.}
-{113}{}{Shut down all classified operations.}
-{114}{}{Secure the system and enable all security passwords.}
-{115}{}{I’m a scientist, not a fighter!}
-{116}{}{Pointy end with the laser diode goes toward the enemy. Then pull trigger.}
-{117}{}{Help! Help! To the computer lab!}
+{101}{}{Você vê um técnico de computador.}
+{102}{}{Você vê alguém vestindo um jaleco de laboratório, completo com um bolso e um protetor de estoque de canetas.}
+{103}{}{Bom dia, soldado.}
+{104}{}{Por favor, não toque em nada.}
+{105}{}{Vocês grunhidos não deveiam estar aqui.}
+{106}{}{Você está fora do uniforme. }
+{107}{}{É melhor você se adequar. Arsenal está no corredor do lado esquerdo.}
+{108}{}{Você está tendo uma grande chance de estar fora do uniforme. Melhor relatar ao fornecimento.}
+{109}{}{Quem diabos são vocês... Alerta! Intrusos!}
+{110}{}{Temos sido infiltrado! Alerta!}
+{111}{}{Vários intrusos! Soar o alarme!}
+{112}{}{Merda! Obter as cópias de segurança iniciado.}
+{113}{}{Encerrar todas as operações secretas.}
+{114}{}{Proteger o sistema e habilitar todas as senhas de segurança.}
+{115}{}{Eu sou um cientista, não um lutador!}
+{116}{}{O extremo pontilhado com o diodo laser vai para o inimigo. Em seguida, puxe o gatilho.}
+{117}{}{Ajuda! Ajuda! Para o laboratório de informática!}

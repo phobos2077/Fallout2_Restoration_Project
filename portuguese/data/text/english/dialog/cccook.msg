@@ -1,52 +1,52 @@
-{100}{}{You see a cook.}
-{101}{}{You see Cookie, the cook.}
-{102}{}{You see a man in armor wearing a chef's hat and an apron.}
-{103}{}{Hey soldier. Ya looking for some grub or just someone to talk to?}
-{104}{}{Me want food.}
+{100}{}{Você vê um cozinheiro.}
+{101}{}{Você vê Cookie, o cozinheiro.}
+{102}{}{Você vê um homem em armadura vestindo um chapéu de chef e um avental.}
+{103}{}{Hey soldado. Ya procurando algumas grub ou apenas alguém para conversar?}
+{104}{}{Eu quero comida.}
 {105}{}{Eu quero falar.}
-{106}{}{I could use something to eat.}
-{107}{}{Let's chat a while.}
-{108}{}{Well, here ya go. Have some shit on a shingle. The snow and fly shit's over there. Anything else?}
-{109}{}{What you want me eat?}
-{110}{}{Shit? Snow? What the hell kind of food is this?}
-{111}{}{I'm sorry, ya must be new to the army. Don't take offense to what I said, that's just what we call stuff here.
- Shit on a shingle's chipped beef on toast. Snow and fly shit's another name for salt and pepper.}
-{112}{}{Oh... thanks. We talk while eat.}
-{113}{}{Got it, sorry. Let's chat while I eat.}
-{114}{}{What ya want to talk about?}
+{106}{}{Eu poderia pegar algo para comer.}
+{107}{}{Vamos conversar um pouco.}
+{108}{}{Bem, aqui, vá. Tenha alguma merda em uma telha. A merda da neve e da mosca está por aí. Algo mais?}
+{109}{}{O que você quer que eu coma?}
+{110}{}{Merda? Neve? Que tipo de comida é essa?}
+{111}{}{Me desculpe, você deve ser novo no exército. Não se ofenda com o que eu disse, é exatamente o que chamamos de coisas aqui.
+  Merda na carne lascada de uma telha no brinde. A neve e a mosca são outro nome para sal e pimenta.}
+{112}{}{Oh ... obrigado. Conversamos enquanto comemos.}
+{113}{}{Entendi, desculpe. Vamos conversar enquanto eu como.}
+{114}{}{O que você quer falar?}
 {115}{}{O que aconteceu aqui?}
-{116}{}{Where vertibird plans?}
-{118}{}{Where main base at?}
-{119}{}{Me need get back on duty. Thanks.}
+{116}{}{Onde vertibird planos?}
+{118}{}{Onde a base principal?}
+{119}{}{Me necessário voltar a dever. Obrigado.}
 {120}{}{O que está acontecendo por aqui?}
-{121}{}{I'm interested in the vertibirds. If I wanted to look at the plans, where could I find them?}
-{123}{}{Where's the Enclave main base located?}
-{124}{}{Thanks. I need to get back to my duty post.}
-{125}{}{Looking for some gossip? I could give ya the latest on what's happening in maintenance, med lab, or among the grunts.}
-{126}{}{What ya want to hear?}
-{127}{}{What about maintenance?}
-{128}{}{What about med lab?}
-{129}{}{What about grunts?}
-{130}{}{Anything else?}
-{131}{}{Me hear enough.}
-{132}{}{What's going on in maintenance?}
-{133}{}{What can you tell me about med lab?}
-{134}{}{What about us grunts?}
-{135}{}{Anything else happening?}
-{136}{}{I've heard enough, I think.}
-{137}{}{Raul, the vertibird mechanic, doesn't like Quincy, the head of maintenance. Those two are always
- getting into it. I don't think it's a case of professional rivalry either. Anyway, Raul's an arrogant
- ass but Quincy's an okay kind of guy. I hope he wins in the end.}
+{121}{}{Estou interessado nos vertibirds. Se eu quisesse olhar os planos, onde eu poderia encontrá-los?}
+{123}{}{Onde está a base principal do Enclave?}
+{124}{}{Obrigado. Preciso voltar para o meu posto de dever.}
+{125}{}{Procurando algumas fofocas? Eu poderia te dar o mais recente sobre o que está acontecendo na manutenção, med lab, ou entre os grunhidos.}
+{126}{}{O que você quer ouvir?}
+{127}{}{E sobre manutenção?}
+{128}{}{O que sobre med lab?}
+{129}{}{O que sobre grunhidos?}
+{130}{}{Mais alguma coisa?}
+{131}{}{- Me ouvir o suficiente.}
+{132}{}{O que está acontecendo em manutenção?}
+{133}{}{O que você pode me dizer sobre o med lab?}
+{134}{}{E a respeito de nós grunhidos?}
+{135}{}{Outra coisa acontecendo?}
+{136}{}{Eu já ouvi o suficiente, eu acho.}
+{137}{}{Raul, o mecânico de vertibird, não gosta de Quincy, o chefe de manutenção. Esses dois estão sempre
+  entrando nisso. Eu também não acho que seja um caso de rivalidade profissional. Enfim, Raul é um arrogante
+  mas Quincy é um bom tipo de cara. Espero que ele vença no final.}
 {138}{}{Tudo bem.}
-{139}{}{Yeah, I hear you.}
-{140}{}{Med lab's been taken over by an Enclave egghead named Schreber. Mean son of a bitch; don't care
- for nothing or nobody. He's been doing some sort of experiments on deathclaws down there, don't know
- what though. Anyway, he was making all kinds of noise until the commander ordered the room soundproofed.}
+{139}{}{Sim, eu ouvi você.}
+{140}{}{O laboratório de Med foi assumido por um Enclave egghead chamado Schreber. Maldito filho da puta; não se importam
+  por nada ou por ninguém. Ele tem feito algum tipo de experimentos com os garras mortais lá embaixo, não sei
+  embora. De qualquer forma, ele estava fazendo todos os tipos de barulho até que o comandante ordenou que o quarto fosse insonorizado.}
 {141}{}{Tenho-o.}
-{142}{}{That's interesting. }
-{143}{}{Ha! We're talking romance, my friend. It seems one of the computer geeks has fallen for one of the grunts, the guard outside med lab. Even has one of those cutesy names for her. Calls her "Snookie" of all things.}
-{144}{}{Cute.}
-{145}{}{Nah, that's it around this place. If I hear anything more I'll let ya know. I like talking about it just as much as I like hearing it!}
+{142}{}{Isso é interessante. }
+{143}{}{Ha! Estamos falando de romance, meu amigo. Parece que um dos geeks do computador caiu por um dos grunhidos, a guarda fora do laboratório de medicina. Mesmo tem um desses nomes cutesy para ela. Chama-a sua "Snookie" de todas forma.}
+{144}{}{Bonito.}
+{145}{}{Nah, é isso em torno deste lugar. Se eu ouvir algo mais, eu vou deixar você saber. Eu gosto de falar sobre isso, tanto quanto eu gosto de ouvir!}
 {146}{}{Obrigado.}
 {147}{}{Why ya interested in those? Oh well, no matter. Quincy keeps them over in maintenance I think. }
 {148}{}{Tudo bem.}

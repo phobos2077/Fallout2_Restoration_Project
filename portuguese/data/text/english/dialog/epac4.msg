@@ -56,7 +56,7 @@
 {400}{}{Arrest me? You're a hologram. You can't even touch me.}
 {401}{}{I see I got a goddamn Klugscheiﬂer on my hands! You think I can't beat the piss out of a Warmduscher like you? Well, maybe I can't, but that's what the damn robots are for! Now I'm running out of patience real fast. You best start explaining yourself. How do I know you're not a Chinese spy?}
 {410}{}{You the one that brought the robot control computer back online?}
-{411}{}{That's right.}
+{411}{}{… isso mesmo.}
 {412}{}{Uh...maybe.}
 {413}{}{Nope. Wasn't me.}
 {420}{}{Quatsch! You're the only flesh and blood being around, so I damn well know it was you.}

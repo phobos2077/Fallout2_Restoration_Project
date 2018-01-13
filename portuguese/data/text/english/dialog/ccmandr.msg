@@ -34,7 +34,7 @@
 {210}{}{I don't have time for this bullshit. Guards! Kill this mutie!}
 {220}{}{So you're saying you're nothing more than a stray wasteland rat that happened to wander into one of our vertibirds?}
 {221}{}{Uh, yeah, pretty much . . . except for that part about me being a rat.}
-{222}{}{That's right.}
+{222}{}{É isso mesmo.}
 {223}{}{No, I'm saying that this is all just a big misunderstanding. I don't know who you guys are, and I don't care.
  So if you don't mind, I'll be moving along now.}
 {230}{}{Good, if you're acting alone, then I don't have to waste another second of my time with you. Guards! Kill this mutie!}

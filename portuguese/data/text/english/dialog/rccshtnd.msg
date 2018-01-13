@@ -5,6 +5,6 @@
 {104}{}{Nada.}
 {105}{}{want shinies.}
 {106}{}{go bye-bye.}
-{107}{}{Anything else?}
+{107}{}{Mais alguma coisa?}
 {108}{}{I've got some more things to trade in.}
 {109}{}{want mor shinies.}

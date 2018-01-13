@@ -92,7 +92,7 @@
 {267}{}{Nevermind. Let's move on.}
 {268}{}{No, don't hurt Myron. Not today, anyway. I'll keep you posted.}
 {269}{Cas0269}{Well, shotguns and rifles, mostly...just personal preference. I ain't a bad shot with pistols, neither.}
-{270}{}{Anything else?}
+{270}{}{Mais alguma coisa?}
 {271}{}{Okay. I had some other questions...}
 {272}{}{All right. Just checking.}
 {273}{Cas0273}{If you ever need to learn somebody some manners up close and personal, slip me some brass knuckles, and I can tapdance on their face with my fists.}

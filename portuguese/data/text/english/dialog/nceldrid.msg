@@ -133,7 +133,7 @@
 {480}{}{(Smiles, rubs hands as you lay the money on the table.) Awright, here you go. Anything else? }
 {481}{}{(Thinks about it for a moment, studies you, then nods.) Awright then...I'm letting you have it for a steal, but
  here you go. (Hands you the module, takes your money.) }
-{482}{}{Anything else?}
+{482}{}{Mais alguma coisa?}
 {485}{}{Yeah, I was interested in something else...}
 {486}{}{Nothing else today, thanks.}
 {495}{}{(Blinks in surprise, then laughs.) Haw! No, no...those weapons are something else, ain't they? Sure would LIKE

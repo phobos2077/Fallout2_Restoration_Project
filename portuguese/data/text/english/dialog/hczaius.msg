@@ -4,7 +4,7 @@
 {103}{}{You the new guy in town?}
 {104}{}{Eek, oog og!}
 {105}{}{New! Me! Town!}
-{106}{}{That's right.}
+{106}{}{É isso mesmo.}
 {107}{}{Yeah, rolled in a little while back.}
 {108}{}{No, genius, I've been living here all along and you never noticed me.}
 {109}{}{Heard you're having a little trouble with the mine.}

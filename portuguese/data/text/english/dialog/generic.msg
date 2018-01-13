@@ -9,7 +9,7 @@
 {200}{}{Obrigado.}
 {201}{}{Good Day.}
 {202}{}{Obrigado.}
-{203}{}{Thanks!}
+{203}{}{Obrigado!}
 {204}{}{No thank you.}
 {205}{}{No thanks.}
 {206}{}{Com certeza.}

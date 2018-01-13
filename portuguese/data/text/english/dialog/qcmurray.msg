@@ -31,7 +31,7 @@
 {130}{}{Intruders! Alert!}
 {131}{}{Run for your lives! The primitives are loose!}
 {132}{}{Guards! Heeeeeeelllllp!}
-{133}{}{Intruder alert! Intruder alert!}
+{133}{}{Alerta de intrusão! Alerta de intrusão!}
 {134}{}{Shut it down? Are you crazed? You're not going to shut down *my* reactor.}
 {135}{}{Yes, I am. You better tell me how, or I'll shut you down, permanently.}
 {136}{}{Did I say shut down? I'm sorry, I just wanted to know how your reactor works.}

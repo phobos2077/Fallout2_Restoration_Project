@@ -128,7 +128,7 @@
 {280}{}{We're leaving town. You should too.}
 {281}{}{Come find me when I'm in the store and we'll talk.}
 {282}{}{Your ore is done. Here you go.}
-{283}{}{Thanks!}
+{283}{}{Obrigado!}
 {284}{}{I'm not done with the ore yet. Give me some time.}
 {285}{}{I had other questions.}
 {286}{}{Okay. Bye.}
@@ -136,7 +136,7 @@
 {288}{}{Ready to try that distraction again?}
 {289}{}{You got it. Want to help me make a distraction?}
 {290}{}{I'd like to buy some... uh... medicine.}
-{291}{}{Anything else?}
+{291}{}{Mais alguma coisa?}
 {292}{}{Sim.}
 {293}{}{No, thanks. Bye.}
 {294}{}{Now you can see how treacherous the mutants are. If only you had seen earlier.}

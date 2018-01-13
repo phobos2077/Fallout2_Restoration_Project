@@ -126,7 +126,7 @@
 {185}{}{Ah, let me see. [He leaves, then returns a moment later, awkwardly clutching some kind of metallic case in his large claws.] Yes, there was a geck in the vault storage room. It is yours with many thanks.}
 {186}{}{Yes, there was a geck in the vault storage room. However, it is missing. I am sorry
  that I cannot give it to you as a reward for all your generous help.}
-{187}{}{Thanks!}
+{187}{}{Obrigado!}
 {188}{}{Uh... that's okay. I'll try to locate one elsewhere.}
 {189}{}{Hello again, human. I hope that you do not intend to play the fool with me.}
 {190}{}{I want to apologize and start over, Gruthar.}

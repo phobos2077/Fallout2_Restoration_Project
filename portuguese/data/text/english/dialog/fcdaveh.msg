@@ -18,7 +18,7 @@
 [as you turn to look, he whips back to what he was doing and ignores you]}
 {116}{}{[FEITO]}
 {117}{}{I'm Dave Handy. I'm down from Canada.}
-{118}{}{So, what do you do here?}
+{118}{}{Então, o que você faz aqui?}
 {119}{}{What brought you down?}
 {120}{}{Obrigado. Tchau.}
 {121}{}{I show these guys how to move their data and I answer stupid questions all day long.}

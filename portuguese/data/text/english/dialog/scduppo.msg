@@ -17,7 +17,7 @@
 {116}{}{Sounds good.}
 {117}{}{Nah, I don't want to go to Redding.}
 {118}{}{Well, then there's no work for you here. Countryside's a rough place. No place for weaklings, stranger. }
-{119}{}{Anything else?}
+{119}{}{Mais alguma coisa?}
 {120}{}{Good enough. Anything else, stranger?}
 {121}{}{Buy.}
 {122}{}{Work.}

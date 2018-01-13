@@ -120,61 +120,61 @@ Eu vou... Sim, bem, eu tenho algumas coisas para fazer.}
 {187}{}{Me tem amigos quem quiser me encontrar vertibirds. Amigos dizem vertibirds
 vir aqui.}
 {188}{}{Ok, eu irei por aí.}
-{189}{}{Look, I have some friends who want me to find vertibirds. They say
- they come from here.}
-{190}{}{Enclave? That a group or something? That don't ring no chimes
- with me. What you want with 'em?}
-{191}{}{Me want join.}
-{192}{}{I want to join.}
-{193}{}{Join up? You're a tribal! What makes you think they'd want a tribal?}
-{194}{}{Join up? You're a tribal! What makes you think they'd want a tribal,
- and his posse no less?}
-{195}{}{Me serious. Me join Enclave.}
-{196}{}{Me serious. Me Join Enclave.}
-{197}{}{I'm serious. I'm looking to join the Enclave.}
-{198}{}{I'm serious. I'm looking to join the Enclave.}
-{199}{}{Wait a minute, dummy. Are you trying to say you're one of the Enclave
- replacements?}
-{200}{}{Wait a minute. Are you trying to say you're one of the Enclave
- replacements?}
+{189}{}{Olha, tenho alguns amigos que querem que eu encontre vertibirds. Eles dizem
+  eles vieram daqui.}
+{190}{}{Enclave? Que um grupo ou algo assim? Isso não soa sem carrilhões
+  comigo. O que você quer com eles?}
+{191}{}{Eu quero participar.}
+{192}{}{Eu quero participar.}
+{193}{}{Juntar-se? Você é um tribal! O que faz você pensar que eles querem uma tribal?}
+{194}{}{Juntar-se? Você é um tribal! O que faz você pensar que eles querem uma tribal,
+  e sua posse nada menos?}
+{195}{}{Me sério. Me juntar Enclave.}
+{196}{}{Me sério. Me Juntar Enclave.}
+{197}{}{Estou falando sério. Estou procurando me juntar ao Enclave.}
+{198}{}{Estou falando sério. Estou procurando me juntar ao Enclave.}
+{199}{}{Espere um pouco, manequim. Você está tentando dizer que você é um dos substitutos do
+Enclave?}
+{200}{}{Espere um pouco. Você está tentando dizer que você é um dos substitutos do
+Enclave?}
 {201}{}{Uh... sim.}
-{202}{}{That's right.}
-{203}{}{Damn. Sorry for the hassles. I'm supposed to clear a bunch of newbies
- coming through here but I got to weed out the trash. Anyway, just go up to the gate,
- through the woods there, and give 'em the password. It's 'sheepshead.' Oh, and stay on the path!}
-{204}{}{Thanks!}
-{205}{}{Wait a minute, dummy. Are you trying to say you're one of the Enclave
- replacements? If that's the case, then why aren't you alone?}
-{206}{}{Wait a minute. Are you trying to say you're one of the Enclave
- replacements? If that's the case, then why aren't you alone?}
-{207}{}{Uh... escort?}
-{208}{}{I hired an escort!}
-{209}{}{Well, I don't mean to be rude or nothing, but this here's private property.
- If you're going to be poking around somewhere, don't be doing it here.}
+{202}{}{É isso mesmo.}
+{203}{}{Droga. Desculpe os aborrecimentos. Eu deveria limpar um grupo de iniciantes
+  Chegando aqui, mas eu consegui descartar o lixo. De qualquer forma, basta ir até o portão,
+  através da floresta lá, e dê-lhes a senha. É "cabeça de carneiro". Ah, e fique no caminho!}
+{204}{}{Obrigado!}
+{205}{}{Aguarde um pouco, manequim. Você está tentando dizer que você é uma das substituições do Enclave? 
+Se for esse o caso, então, por que você não está sozinho?}
+{206}{}{Aguarde um pouco. Você está tentando dizer que você é uma das substituições do Enclave? 
+Se for esse o caso, então, por que você não está sozinho?}
+{207}{}{Uh... escolta?}
+{208}{}{Eu contratei um acompanhante!}
+{209}{}{Bem, eu não quero ser rude ou nada, mas isso aqui é propriedade privada.
+  Se você estiver indo por algum lado, não faça isso aqui.}
 {210}{}{[FEITO]}
-{211}{}{You're back. What can old Chris help you with?}
-{212}{}{You tell me Navarro south. You lie! Me here for truth.}
-{213}{}{You told me Navarro was to the south, old man. Now I want to know the truth.}
-{214}{}{You look familiar. Old Chris thinks he's seen you before... Nope, can't be.}
-{215}{}{Intruder at the station! Send help!}
-{216}{}{Sound the alarm!}
-{217}{}{Intruder alert! Intruder alert!}
-{218}{}{Die, scum!}
-{219}{}{The Enclave will promote me for killing you!}
-{220}{}{Die, outsider!}
-{221}{}{What the...?!}
-{222}{}{You use radio and me make you sorry!}
-{223}{}{You use that radio and I'll make you sorry!}
-{224}{}{Fuck you! You want to see sorry? I got some boys who'll show you a
- whole new meaning for the word! (starts to turn the radio on)}
+{211}{}{Você voltou. O que o velho Chris pode ajudá-lo?}
+{212}{}{Você me conta Navarro sul. Você mente! Eu aqui para a verdade.}
+{213}{}{Você me disse que Navarro estava no sul, velho. Agora eu quero saber a verdade.}
+{214}{}{Você parece familiar. Velho Chris acha que ele viu você antes... Não, não pode ser.}
+{215}{}{Intruso na estação! Enviar ajuda!}
+{216}{}{Soar o alarme!}
+{217}{}{Alerta de intrusão! Alerta de intrusão!}
+{218}{}{Morrer, escória!}
+{219}{}{O Enclave vai me promover por te matar!}
+{220}{}{Morra, estranho!}
+{221}{}{O que...?!}
+{222}{}{Você usar o rádio e me fazer você se arrepender!}
+{223}{}{Você usa esse rádio e eu vou fazer você se arrepender!}
+{224}{}{Foda-se! Você quer ver desculpa? Eu tenho alguns meninos que vão te mostrar um
+  novo significado para a palavra! (começa a ligar o rádio)}
 {225}{}{- Me matar-te morto!}
 {226}{}{O que fazer agora?}
 {227}{}{Eu ir embora.}
 {228}{}{Isso é uma má jogada, parceiro.}
 {229}{}{O que você pensa que está fazendo?}
 {230}{}{Ei, estou fora daqui.}
-{231}{}{Yeah, right.}
-{232}{}{He's pulling out a radio. He's going to alert the whole base! I've got to deal with him quickly.}
-{233}{}{Oh, no. Man pull out talkie box. He tell on me. Must stop him.}
-{800}{}{You conned Chris to give you the password.}
-{810}{}{You killed Chris before he could warn the base.}
+{231}{}{Sim, certo.}
+{232}{}{Ele está tirando um rádio. Ele vai alertar toda a base! Eu tenho que lidar com ele rapidamente.}
+{233}{}{Ah não. Homem puxa a caixa de conversa. Ele conta de mim. Deve detê-lo.}
+{800}{}{Você enganou Chris para lhe dar a senha.}
+{810}{}{Você matou o Chris antes que ele pudesse avisar a base.}

@@ -14,7 +14,7 @@
 {113}{}{Great. Have a look.}
 {114}{}{}
 {115}{}{Ok.}
-{116}{}{Anything else?}
+{116}{}{Mais alguma coisa?}
 {117}{}{Sim.}
 {118}{}{Não.}
 {119}{}{Well, you have a great day then.}

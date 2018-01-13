@@ -3,7 +3,7 @@
 {102}{}{This guy's clothes are ragged and he's got gun-bluing all over his hands, arms, and face. Still, he seems pretty cheerful.}
 {103}{}{Hey, welcome to Buster's Fine Emporium of Armament! I'm Buster and there ain't nobody else. Got some fine goods for sale here. And if you don't see something you like, then make sure you check out my shelves for additional product. I'm bound to have somethin' that'll tickle yer fancy.}
 {104}{}{Hey, back again? What can I do for you?}
-{105}{}{Anything else?}
+{105}{}{Mais alguma coisa?}
 {106}{}{Want gun.}
 {107}{}{What do you got?}
 {108}{}{Maybe you can fix me up something special?}

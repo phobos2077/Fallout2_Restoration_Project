@@ -93,7 +93,7 @@
 {237}{}{You drive a hard bargain. Here is your money!}
 {238}{}{Thanks. I have some more questions.}
 {239}{}{Obrigado. Tchau.}
-{240}{}{Anything else?}
+{240}{}{Mais alguma coisa?}
 {241}{}{Yes, I have a question.}
 {242}{}{Nope. Bye.}
 {243}{}{Which "friend" are you selling?}

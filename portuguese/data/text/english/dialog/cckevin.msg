@@ -8,12 +8,12 @@
 {300}{}{You're out of uniform.}
 {301}{}{You better suit up soldier.}
 {302}{}{You're taking a big chance being out of uniform. You better report to supply.}
-{400}{}{Who the hell are you guys... Alert! Intruders!}
+{400}{}{Quem diabos são vocês... Alerta! Intrusos!}
 {401}{}{We've been infiltrated! Alert!}
-{402}{}{Multiple intruders! Sound the alarm!}
-{500}{}{Shit! Get the backups started.}
-{501}{}{Shut down all classified operations.}
-{502}{}{Secure the system and enable all security passwords.}
+{402}{}{Vários intrusos! Soar o alarme!}
+{500}{}{Merda! Obter as cópias de segurança iniciado.}
+{501}{}{Encerrar todas as operações secretas.}
+{502}{}{Proteger o sistema e habilitar todas as senhas de segurança.}
 {600}{}{I'm a mechanic, not a fighter!}
 {601}{}{Pointy end with the laser diode goes toward the enemy. Then pull the trigger.}
 {602}{}{Help! Help! To maintenance!}

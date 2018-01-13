@@ -7,35 +7,35 @@
 {106}{}{O que é este lugar?}
 {107}{}{Só dizendo Oi. Até mais.
 }
-{108}{}{This is the computer room. That’s the mainframe over there, the interface terminal is next to it, and these devices are the holotape data storage units. This is the latest and the greatest.}
+{108}{}{Esta é a sala de computadores. Esse é o mainframe por aí, o terminal da interface está ao lado dele e esses dispositivos são as unidades de armazenamento de dados holotape. Este é o mais recente e o melhor.}
 {109}{}{Oh. Uh, What you do?}
-{110}{}{So, what do you do here?}
-{111}{}{I’m the senior computer analyst. I get to maintain all of the equipment here.}
-{112}{}{Oh. Me use computer?}
-{113}{}{Me no understand. Me go.}
-{114}{}{Say, can I use the system for a minute? You know, check it out?}
-{115}{}{Hey, nice talking to you. I’ll see you later.}
+{110}{}{Então, o que você faz aqui?}
+{111}{}{Eu sou o analista sênior de informática. Eu consigo manter todo o equipamento aqui.}
+{112}{}{Oh. - Me usar o computador?}
+{113}{}{Não Me entender. - Me ir.}
+{114}{}{Diga, posso usar o sistema por um minuto? Você sabe, o check-out?}
+{115}{}{Hey, bom falar com você. Eu te vejo mais tarde.}
 {116}{}{Well... I’m not supposed to allow anyone other than trained personnel to use the equipment. It’s all rather complex and delicate you understand.}
-{117}{}{Please? Me no break.}
+{117}{}{Por favor? Não Me quebrar.}
 {118}{}{I promise not to break it}
 {119}{}{All right. You can access the system from the terminal over there. Just be careful please. They’ll shoot us both if you damage that machine. Oh, the guest password is ‘Snookie.’}
-{120}{}{I’m sorry but it’s out of the question. I’m not even supposed to allow enlisted personnel in the room let alone allow them to use the equipment.}
-{121}{}{Snookie? What is snookie?}
-{122}{}{Ok. Me understand.}
-{123}{}{Snookie? What the hell is a snookie?}
-{124}{}{All right. I understand.}
-{125}{}{‘Snookie’ is my girlfriend’s nickname. I think it’s cute. That’s her out in the hall by the way. She’s one of the guards.}
-{126}{}{Ok, fine. Thanks.}
+{120}{}{Desculpe, mas está fora de questão. Eu nem mesmo deveria permitir que o pessoal alistado na sala permitia que eles usassem o equipamento.}
+{121}{}{Snookie? O que é snookie?}
+{122}{}{Ok. Me entender.}
+{123}{}{Snookie? O que diabos é uma snookie?}
+{124}{}{Tudo bem. Eu entendo.}
+{125}{}{'Snookie' é o apelido da minha namorada. Eu acho que é fofo. A propósito, ela está fora no salão. Ela é uma das guardas.}
+{126}{}{Ok, muito bem. Obrigado.}
 {127}{}{Yeah... Cute. Thanks.}
-{128}{}{You’re out of uniform. }
-{129}{}{You better suit up. Armory is down the hall on the left.}
-{130}{}{You’re taking a big chance being out of uniform. You better report to supply.}
-{131}{}{Who the hell are you guys... Alert! Intruders!}
-{132}{}{We’ve been infiltrated! Alert!}
-{133}{}{Multiple intruders! Sound the alarm!}
-{134}{}{Shit! Get the backups started.}
-{135}{}{Shut down all classified operations.}
-{136}{}{Secure the system and enable all security passwords.}
-{137}{}{I’m a scientist, not a fighter!}
-{138}{}{Pointy end with the laser diode goes toward the enemy. Then pull trigger.}
-{139}{}{Help! Help! To the computer lab!}
+{128}{}{Você está fora do uniforme. }
+{129}{}{É melhor você se adequar. Arsenal está no corredor do lado esquerdo.}
+{130}{}{Você está tendo uma grande chance de estar fora do uniforme. Melhor relatar ao fornecimento.}
+{131}{}{Quem diabos são vocês... Alerta! Intrusos!}
+{132}{}{Temos sido infiltrado! Alerta!}
+{133}{}{Vários intrusos! Soar o alarme!}
+{134}{}{Merda! Obter as cópias de segurança iniciado.}
+{135}{}{Encerrar todas as operações secretas.}
+{136}{}{Proteger o sistema e habilitar todas as senhas de segurança.}
+{137}{}{Eu sou um cientista, não um lutador!}
+{138}{}{O extremo pontilhado com o diodo laser vai para o inimigo. Em seguida, puxe o gatilho.}
+{139}{}{Ajuda! Ajuda! Para o laboratório de informática!}
