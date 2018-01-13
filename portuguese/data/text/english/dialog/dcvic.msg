@@ -202,7 +202,7 @@
 {2807}{}{Need some back up?}
 {2808}{}{Need something repaired, don't you? I'm your man, Boss!}
 {2809}{}{Don't worry, Boss. Sulik and I'll get along, honest.}
-{2810}{}{Let's go.}
+{2810}{}{Vamos lá.}
 {2811}{}{Stay here. I'll be right back.}
 {2812}{}{Eu vou.}
 {3100}{}{What? Uh… okay, Boss. If you say so.}

@@ -194,8 +194,8 @@
 {292}{mcs110}{What do you want?}
 {293}{}{How are you feeling?}
 {294}{}{Heal yourself.}
-{295}{}{I need you to wait here until I come back.}
-{296}{}{That's it for now.}
+{295}{}{Eu preciso que você espere aqui até eu voltar.}
+{296}{}{É isso por agora.}
 {297}{mcs111a}{I'm all set.}
 {298}{mcs111b}{Got nothing that'll slow us down.}
 {299}{mcs111c}{You got anything to help?}
@@ -321,10 +321,10 @@
 {9999}{}{I wanted to ask you some questions...}
 {10001}{}{Take some more stims and heal yourself.}
 {10002}{}{Marcus, I need you to wait here until I come back.}
-{10003}{}{Put your weapon away.}
-{10004}{}{Stay close to me.}
-{10005}{}{Don't get too far away.}
-{10006}{}{We should spread out a bit.}
+{10003}{}{Coloque sua arma de distância.}
+{10004}{}{Ficar perto de mim.}
+{10005}{}{Não fique muito longe.}
+{10006}{}{Devemos espalhar um pouco.}
 {10007}{}{Let's head out then.}
 {10008}{}{Can you put your armor on?}
 {10100}{}{C'mon, Marcus. Time to head out.}

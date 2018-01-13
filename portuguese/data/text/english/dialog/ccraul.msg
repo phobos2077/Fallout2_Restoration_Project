@@ -1,4 +1,4 @@
-{100}{}{You see a mechanic.}
+{100}{}{Você vê um mecânico.}
 {101}{}{You see Raul, the mechanic.}
 {102}{}{You see a man in a filthy military uniform. Judging by the grease
  spots you think he is more of a mechanic than a soldier, and a hard working

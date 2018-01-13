@@ -264,7 +264,7 @@
 {741}{}{Bring it on!}
 {742}{}{I'm not getting out of this am I?}
 {750}{}{Oh, but this will be fun. Trust me.}
-{751}{}{Fuck you.}
+{751}{}{Foda-se você.}
 {752}{}{Uh, tudo bem.}
 {800}{}{You've killed the leader of the Slave Guild.}
 {900}{}{What you see is what you get. If you don't like my merchandise, then get the fuck out of my face and stop wasting my time.}

@@ -45,7 +45,7 @@
 {310}{}{Let's just get out of here. This fucking sucks.}
 {320}{}{Not bad.}
 {321}{}{Hope we got enough. I need to replenish my jet supply.}
-{322}{}{Let's go.}
+{322}{}{Vamos lá.}
 {323}{}{I've seen better, but money's money.}
 {324}{}{Metzger should be fine with these.}
 {325}{}{Pretty good.}

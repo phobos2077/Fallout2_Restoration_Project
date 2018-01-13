@@ -48,7 +48,7 @@
 {300}{}{Beat it, tough guy, before I get angry on Your face.}
 {301}{}{Beat it, bitch. Metzger wouldn't have sent a woman anyhow, so take a hike.}
 {302}{}{Bitch? I'll show you what this bitch can do.}
-{303}{}{Fuck you.}
+{303}{}{Foda-se você.}
 {304}{}{[Leave]}
 {310}{}{Beat it.}
 {320}{}{That's nice. Me Tyler. Me go bye bye.}

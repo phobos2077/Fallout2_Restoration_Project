@@ -62,7 +62,7 @@
 {161}{}{Yeah, I'll do it your way.}
 {162}{}{Nope. Forget it.}
 {163}{}{Excellent. Then let us see if your skills are strong enough to fight Lo Pan.}
-{164}{}{Let's go.}
+{164}{}{Vamos lá.}
 {165}{}{Not right now. I'll come back for it later.}
 {166}{}{I am the Dragon, protector of the people and sworn enemy of Lo Pan. He and I are the last masters of our fighting style.}
 {167}{}{I'm not too bad at hand-to-hand combat myself. Wanna give me a try?}

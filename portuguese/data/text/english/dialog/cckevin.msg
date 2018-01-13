@@ -1,12 +1,12 @@
-{100}{}{You see a mechanic.}
-{101}{}{You see Kevin, the mechanic.}
-{102}{}{You see a man in a military uniform. Judging by the grease spots you think he is more of
- a mechanic than a soldier.}
-{200}{}{I can't talk right now. Go see Quincy.}
-{201}{}{Quincy is in charge here. Go see him.}
-{202}{}{I'm just a junior mechanic. You'll want to talk to Quincy.}
+{100}{}{Você vê um mecânico.}
+{101}{}{Você ver Kevin, o mecânico.}
+{102}{}{Você vê um homem com um uniforme militar. A julgar pelas manchas de graxa você acha que ele é mais
+um mecânico do que um soldado.}
+{200}{}{Eu não posso falar agora. Vá ver Quincy.}
+{201}{}{Quincy está no comando aqui. Vá vê-lo.}
+{202}{}{Eu sou apenas um mecânico júnior. Você vai querer falar com Quincy.}
 {300}{}{Você está fora do uniforme.}
-{301}{}{You better suit up soldier.}
+{301}{}{Você melhor adequar-se soldado.}
 {302}{}{Você está tendo uma grande chance de estar fora de uniforme. Melhor você informar ao fornecimento.}
 {400}{}{Quem diabos são vocês... Alerta! Intrusos!}
 {401}{}{Temos sido infiltrados! Alerta!}
@@ -14,6 +14,6 @@
 {500}{}{Merda! Obter as cópias de segurança iniciado.}
 {501}{}{Encerrar todas as operações secretas.}
 {502}{}{Proteger o sistema e habilitar todas as senhas de segurança.}
-{600}{}{I'm a mechanic, not a fighter!}
-{601}{}{Pointy end with the laser diode goes toward the enemy. Then pull the trigger.}
-{602}{}{Help! Help! To maintenance!}
+{600}{}{Eu sou um mecânico, não um lutador!}
+{601}{}{O extremo pontilhado com o diodo laser vai para o inimigo. Em seguida, puxe o gatilho.}
+{602}{}{Ajuda! Ajuda! Para manutenção!}

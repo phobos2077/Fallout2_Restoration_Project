@@ -608,7 +608,7 @@
 {1845}{}{If it was just your body odor, I could stand it. Let's go.}
 {1860}{myn232a}{All right.}
 {1863}{}{Kid, your ego just wrote a check your body can't cash. Get ready to die.}
-{1866}{}{Let's go.}
+{1866}{}{Vamos lá.}
 {1870}{}{Mee feel oogy now.}
 {1875}{}{You have convinced Myron there might be a cure.}
 {1880}{}{That's the grave where Big Jesus' stashed those extra chips.}

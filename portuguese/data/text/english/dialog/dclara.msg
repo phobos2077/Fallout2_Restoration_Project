@@ -162,9 +162,9 @@
 {700}{}{Alright, we took care of the skeleton crew here at the church, but there still is Tyler and his cronies over in the Residential area.
  They should be pretty drunk by now and we can easily catch them off guard. You ready to finish this?}
 {701}{}{Let me heal first. I'll tell you when I am ready.}
-{702}{}{Let's go.}
+{702}{}{Vamos lá.}
 {710}{}{You ready to take Tyler and his crew out?}
 {720}{}{Well, don't stray too far. We need to finish this tonight or we'll do it without you.}
 {721}{}{I'll be back shortly.}
-{722}{}{Let's go.}
+{722}{}{Vamos lá.}
 {730}{}{We did it. I can't believe it! We're heading back to the church to take charge. Meet us back there for your reward.}

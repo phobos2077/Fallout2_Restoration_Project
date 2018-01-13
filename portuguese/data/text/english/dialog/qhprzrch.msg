@@ -111,7 +111,7 @@
 {210}{}{So we're mutants. So what?}
 {211}{}{Creatures change all the time. It's called evolution. Without that change you and I would still be two bits of protoplasmic goo.}
 {212}{prs31}{We try to keep ourselves safe and secure from radiation. That's what separates humans - like me - from mutants like you.}
-{213}{}{Why do you keep calling me a mutant?}
+{213}{}{Por que você continua me chamando de mutante?}
 {214}{}{Enough talk. Time for you to face that great electoral college in the sky.}
 {215}{}{I've killed men for less than that. But I'm in a hurry today. Goodbye.}
 {216}{prs32}{We were winning, too. And then those damn Reds launched. We barely got our birds up.}

@@ -76,10 +76,10 @@
 {174}{}{I wanted to ask you some questions...}
 {175}{}{You look like you've taken some damage. Use some stims and heal yourself.}
 {176}{}{Cassidy, I need you to wait here until I come back.}
-{177}{}{Put your weapon away.}
-{178}{}{Stay close to me.}
-{179}{}{Don't get too far away.}
-{180}{}{We should spread out a bit.}
+{177}{}{Coloque sua arma de distância.}
+{178}{}{Ficar perto de mim.}
+{179}{}{Não fique muito longe.}
+{180}{}{Devemos espalhar um pouco.}
 {181}{}{C'mon, Cassidy. Time to head out.}
 {182}{}{Nada, esquece.
 }
@@ -216,10 +216,10 @@
 {9999}{}{I wanted to ask you some questions...}
 {10001}{}{Take some more stims and heal yourself.}
 {10002}{}{Cassidy, I need you to wait here until I come back.}
-{10003}{}{Put your weapon away.}
-{10004}{}{Stay close to me.}
-{10005}{}{Don't get too far away.}
-{10006}{}{We should spread out a bit.}
+{10003}{}{Coloque sua arma de distância.}
+{10004}{}{Ficar perto de mim.}
+{10005}{}{Não fique muito longe.}
+{10006}{}{Devemos espalhar um pouco.}
 {10007}{}{Let's head out then.}
 {10100}{}{C'mon, Cassidy. Time to head out.}
 {20000}{Cas20000}{All right, I'm listening.}

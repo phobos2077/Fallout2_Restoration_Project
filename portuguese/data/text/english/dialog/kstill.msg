@@ -4,7 +4,7 @@
 {103}{}{You see a damaged distilling device. Someone beat this thing up pretty badly.}
 {110}{}{It sounds as though the hootch is distilling nicely now. You gain }
 {111}{}{ experience points for refueling the still.}
-{120}{}{That does nothing.}
+{120}{}{Isto não faz nada.}
 {130}{}{You start up the still but the whiskey tastes like it has gone bad.}
 {140}{}{There is no more room in the still for wood.}
 {150}{}{This still is no longer operational. There is no need for any wood.}

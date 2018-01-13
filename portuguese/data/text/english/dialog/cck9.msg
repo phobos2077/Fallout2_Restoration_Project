@@ -73,164 +73,160 @@ canto nordeste da base.}
 {160}{}{Vá embora. Eu não quero você como mestre.}
 {161}{}{Leave me in peace.}
 {162}{}{I do not like you. Go away.}
-{163}{}{I will terminate you.}
-{164}{}{Locking weapons on target. Prepare to engage.}
-{165}{}{You will be destroyed.}
-{166}{}{Yes, master?}
-{167}{}{You heal you self.}
-{168}{}{You wait here. I be back and get.}
-{169}{}{Uh... put weapon away. Okay?}
-{170}{}{You stay close.}
-{171}{}{You no get far away.}
-{172}{}{You too close. Spread out.}
-{173}{}{We go now.}
-{174}{}{Me done.}
-{175}{}{You should heal yourself now.}
-{176}{}{I need you to wait here until I come back.}
-{177}{}{Put your weapon away, okay?}
-{178}{}{Stay close to me.}
-{179}{}{Don't get too far away.}
-{180}{}{We should spread out a bit.}
-{181}{}{Let's go.}
-{182}{}{That's it for now.}
-{183}{}{All systems are functioning at full capacity, master.}
-{184}{}{My systems are functioning at near full capacity, master.}
-{185}{}{I have performed what repairs I can, master, but I will require
- further assistance.}
-{186}{}{I have performed what repairs I can, master, but system failure
- is imminent without assistance.}
-{187}{}{You wait here. I be back and get.}
-{188}{}{Uh... put weapon away. Okay?}
-{189}{}{You stay close.}
-{190}{}{You no get far away.}
-{191}{}{You too close. Spread out.}
-{192}{}{We go now.}
-{193}{}{Me done.}
-{194}{}{I need you to wait here until I come back.}
-{195}{}{Put your weapon away.}
-{196}{}{Stay close to me.}
-{197}{}{Don't get too far away.}
-{198}{}{We should spread out a bit.}
-{199}{}{Let's go.}
-{200}{}{That's it for now.}
+{163}{}{Vou terminar com você.}
+{164}{}{Bloqueando armas no alvo. Prepare-se para se engajar.}
+{165}{}{Você será destruído.}
+{166}{}{Sim, mestre?}
+{167}{}{Você se cura.}
+{168}{}{Você espera aqui. Eu voltarei logo.}
+{169}{}{Uh... colocar arma de distância. Tudo bem?}
+{170}{}{Você ficar perto.}
+{171}{}{Você não se afasta.}
+{172}{}{Você muito perto. Espalhe.}
+{173}{}{Podemos ir agora.}
+{174}{}{Eu terminei.}
+{175}{}{Você deve curar-se agora.}
+{176}{}{Eu preciso que você espere aqui até eu voltar.}
+{177}{}{Coloque sua arma de distância, ok?}
+{178}{}{Ficar perto de mim.}
+{179}{}{Não fique muito longe.}
+{180}{}{Devemos espalhar um pouco.}
+{181}{}{Vamos lá.}
+{182}{}{É isso por agora.}
+{183}{}{Todos os sistemas estão a funcionar em plena capacidade, mestre.}
+{184}{}{Meus sistemas estão funcionando perto da capacidade total, mestre.}
+{185}{}{Eu executei o conserto que posso, mestre, mas eu exigirei
+  mais assistência.}
+{186}{}{Eu executei os reparos que posso, mestre, mas falha no sistema
+  é iminente sem assistência.}
+{187}{}{Você espera aqui. Eu voltarei logo.}
+{188}{}{Uh... colocar arma de distância. Tudo bem?}
+{189}{}{Você ficar perto.}
+{190}{}{Você não se afasta.}
+{191}{}{Você muito perto. Espalhe.}
+{192}{}{Podemos ir agora.}
+{193}{}{Eu terminei.}
+{194}{}{Eu preciso que você espere aqui até eu voltar.}
+{195}{}{Coloque sua arma de distância.}
+{196}{}{Ficar perto de mim.}
+{197}{}{Não fique muito longe.}
+{198}{}{Devemos espalhar um pouco.}
+{199}{}{Vamos lá.}
+{200}{}{É isso por agora.}
 {201}{}{Eu vou esperar aqui para o seu retorno, mestre.}
-{202}{}{You heal you self.}
-{203}{}{Uh... put weapon away. Okay?}
-{204}{}{You stay close.}
-{205}{}{You no get far away.}
-{206}{}{You too close. Spread out.}
-{207}{}{We go now.}
-{208}{}{Me done.}
-{209}{}{You should heal yourself now.}
-{210}{}{Put your weapon away.}
-{211}{}{Stay close to me.}
-{212}{}{Don't get too far away.}
-{213}{}{We should spread out a bit.}
-{214}{}{Let's go.}
-{215}{}{That's it for now.}
-{216}{}{Retracting weapon, master.}
-{217}{}{You heal you self.}
-{218}{}{You wait here. I be back and get.}
-{219}{}{You stay close.}
-{220}{}{You no get far away.}
-{221}{}{You too close. Spread out.}
-{222}{}{We go now.}
-{223}{}{Me done.}
-{224}{}{You should heal yourself now.}
-{225}{}{I need you to wait here until I come back.}
-{226}{}{Stay close to me.}
-{227}{}{Don't get too far away.}
-{228}{}{We should spread out a bit}
-{229}{}{Let's go.}
-{230}{}{That's it for now.}
-{231}{}{Narrowing distance between us, master.}
-{232}{}{You heal you self.}
-{233}{}{You wait here. I be back and get.}
-{234}{}{Uh... put weapon away. Ok?}
-{235}{}{You no get far away.}
-{236}{}{You too close. Spread out.}
-{237}{}{We go now.}
-{238}{}{Me done.}
-{239}{}{You should heal yourself now.}
-{240}{}{I need you to wait here until I come back.}
-{241}{}{Put your weapon away.}
-{242}{}{Don't get too far away.}
-{243}{}{We should spread out a bit.}
-{244}{}{Let's go.}
-{245}{}{That's it for now.}
-{246}{}{Increasing distance between us, master.}
-{247}{}{You heal you self.}
-{248}{}{You wait here. I be back and get.}
-{249}{}{Uh... put weapon away. Okay?}
-{250}{}{You stay close.}
-{251}{}{You too close. Spread out.}
-{252}{}{We go now.}
-{253}{}{Me done.}
-{254}{}{You should heal yourself now.}
-{255}{}{I need you to wait here until I come back.}
-{256}{}{Put your weapon away.}
-{257}{}{Stay close to me.}
-{258}{}{We should spread out a bit.}
-{259}{}{Let's go.}
-{260}{}{That's it for now.}
-{261}{}{Increasing distance to maximum, master.}
-{262}{}{You heal you self.}
-{263}{}{You wait here. I be back and get.}
-{264}{}{Uh... put weapon away. Okay?}
-{265}{}{You stay close.}
-{266}{}{You no get far away.}
-{267}{}{We go now.}
-{268}{}{Me done.}
-{269}{}{You should heal yourself now.}
-{270}{}{I need you to wait here until I come back.}
-{271}{}{Put your weapon away.}
-{272}{}{Stay close to me.}
-{273}{}{Don't get too far away.}
-{274}{}{Let's go.}
-{275}{}{That's it for now.}
-{276}{}{I am sorry, master, but there does not appear to be room for me in
- your party. I will wait here until a position opens.}
-{277}{}{As you command, master.}
-{278}{}{You heal you self.}
-{279}{}{You wait here. I be back and get.}
-{280}{}{Uh... put weapon away. Okay?}
-{281}{}{You stay close.}
-{282}{}{You no get far away.}
-{283}{}{You too close. Spread out.}
-{284}{}{Me done.}
-{285}{}{You should heal yourself now.}
-{286}{}{I need you to wait here until I come back.}
-{287}{}{Put your weapon away.}
-{288}{}{Stay close to me.}
-{289}{}{Don't get too far away.}
-{290}{}{We should spread out a bit.}
-{291}{}{That's it for now.}
-{292}{}{Sure. You look like a nice enough dog.}
+{202}{}{Você se cura.}
+{203}{}{Uh... colocar arma de distância. Tudo bem?}
+{204}{}{Você ficar perto.}
+{205}{}{Você não se afasta.}
+{206}{}{Você muito perto. Espalhe.}
+{207}{}{Podemos ir agora.}
+{208}{}{Eu terminei.}
+{209}{}{Você deve curar-se agora.}
+{210}{}{Coloque sua arma de distância.}
+{211}{}{Ficar perto de mim.}
+{212}{}{Não fique muito longe.}
+{213}{}{Devemos espalhar um pouco.}
+{214}{}{Vamos lá.}
+{215}{}{É isso por agora.}
+{216}{}{Cancelamento de arma, mestre.}
+{217}{}{Você se cura.}
+{218}{}{Você espera aqui. Eu voltarei logo.}
+{219}{}{Você ficar perto.}
+{220}{}{Você não se afasta.}
+{221}{}{Você muito perto. Espalhe.}
+{222}{}{Podemos ir agora.}
+{223}{}{Eu terminei.}
+{224}{}{Você deve curar-se agora.}
+{225}{}{Eu preciso que você espere aqui até eu voltar.}
+{226}{}{Ficar perto de mim.}
+{227}{}{Não fique muito longe.}
+{228}{}{Devemos nos espalhar um pouco}
+{229}{}{Vamos lá.}
+{230}{}{É isso por agora.}
+{231}{}{O estreitamento da distância entre nós, mestre.}
+{232}{}{Você se cura.}
+{233}{}{Você espera aqui. Eu voltarei logo.}
+{234}{}{Uh... colocar arma de distância. Ok?}
+{235}{}{Você não se afasta.}
+{236}{}{Você muito perto. Espalhe.}
+{237}{}{Podemos ir agora.}
+{238}{}{Eu terminei.}
+{239}{}{Você deve curar-se agora.}
+{240}{}{Eu preciso que você espere aqui até eu voltar.}
+{241}{}{Coloque sua arma de distância.}
+{242}{}{Não fique muito longe.}
+{243}{}{Devemos espalhar um pouco.}
+{244}{}{Vamos lá.}
+{245}{}{É isso por agora.}
+{246}{}{O aumento da distância entre nós, mestre.}
+{247}{}{Você se cura.}
+{248}{}{Você espera aqui. Eu voltarei logo.}
+{249}{}{Uh... colocar arma de distância. Tudo bem?}
+{250}{}{Você ficar perto.}
+{251}{}{Você muito perto. Espalhe.}
+{252}{}{Podemos ir agora.}
+{253}{}{Eu terminei.}
+{254}{}{Você deve curar-se agora.}
+{255}{}{Eu preciso que você espere aqui até eu voltar.}
+{256}{}{Coloque sua arma de distância.}
+{257}{}{Ficar perto de mim.}
+{258}{}{Devemos espalhar um pouco.}
+{259}{}{Vamos lá.}
+{260}{}{É isso por agora.}
+{261}{}{O aumento da distância ao máximo, mestre.}
+{262}{}{Você se cura.}
+{263}{}{Você espera aqui. Eu voltarei logo.}
+{264}{}{Uh... colocar arma de distância. Tudo bem?}
+{265}{}{Você ficar perto.}
+{266}{}{Você não se afasta.}
+{267}{}{Podemos ir agora.}
+{268}{}{Eu terminei.}
+{269}{}{Você deve curar-se agora.}
+{270}{}{Eu preciso que você espere aqui até eu voltar.}
+{271}{}{Coloque sua arma de distância.}
+{272}{}{Ficar perto de mim.}
+{273}{}{Não fique muito longe.}
+{274}{}{Vamos lá.}
+{275}{}{É isso por agora.}
+{276}{}{Desculpe, mestre, mas não parece haver espaço para mim em a sua festa. Eu vou esperar aqui até que uma posição seja aberta.}
+{277}{}{Como você ordena, mestre.}
+{278}{}{Você se cura.}
+{279}{}{Você espera aqui. Eu voltarei logo.}
+{280}{}{Uh... colocar arma de distância. Tudo bem?}
+{281}{}{Você ficar perto.}
+{282}{}{Você não se afasta.}
+{283}{}{Você muito perto. Espalhe.}
+{284}{}{Eu terminei.}
+{285}{}{Você deve curar-se agora.}
+{286}{}{Eu preciso que você espere aqui até eu voltar.}
+{287}{}{Coloque sua arma de distância.}
+{288}{}{Ficar perto de mim.}
+{289}{}{Não fique muito longe.}
+{290}{}{Devemos espalhar um pouco.}
+{291}{}{É isso por agora.}
+{292}{}{Com certeza. Você parece bom o suficiente cão.}
 {293}{}{Não, obrigado.}
-{300}{}{Me sad. Me no can fix.}
-{301}{}{I'm sorry; I can't fix you.}
-{400}{}{You seem to be missing a part.}
-{410}{}{That does nothing.}
-{420}{}{That does not fit.}
-{800}{}{You fixed K-9.}
-{1000}{}{Yes, master?}
-{1100}{}{All systems are functioning at full capacity, master.}
-{1200}{}{My systems are functioning at near full capacity, master.}
-{1300}{}{I have performed what repairs I can master, but I will require
- further assistance.}
-{1400}{}{I have performed what repairs I can master, but system failure
- is imminent without assistance.}
-{1500}{}{I will await your return, master.}
-{1600}{}{Do you expect me to swallow my teeth, master?}
-{1700}{}{I will follow at your heel, master.}
-{1800}{}{I will move to a medium distance, master.}
-{1900}{}{I will move to maximum acceptable range, master.}
-{2000}{}{I am sorry, master, but there does not appear to be room for me in
- your party. I will wait here until a position opens.}
-{2200}{}{As you command, master.}
-{2300}{}{I have fur, master. I carry no other gear.}
-{2400}{}{I have no desire to remove my fur, master.}
-{2500}{}{Teeth, master. The shiny white things installed in my mouth.}
-{2700}{}{You are a bigger asshole than Schreber. I will not join you.}
-{2800}{}{Very well, master. I am at your command.}
-{2900}{}{You are a cretin. I will not go anywhere with you. Go away.}
+{300}{}{Eu triste. Eu não consigo consertar.}
+{301}{}{Me desculpe; eu não posso corrigir.}
+{400}{}{Você parece estar faltando uma parte.}
+{410}{}{Isto não faz nada.}
+{420}{}{Isso não se encaixa.}
+{800}{}{Você fixa K-9.}
+{1000}{}{Sim, mestre?}
+{1100}{}{Todos os sistemas estão a funcionar em plena capacidade, mestre.}
+{1200}{}{Meus sistemas estão funcionando perto da capacidade total, mestre.}
+{1300}{}{Eu tenho realizado os reparos que posso mestre, mas vou exigir mais ajuda.}
+{1400}{}{Eu tenho realizado os reparos que posso mestre, mas a falha do sistema é iminente sem assistência.}
+{1500}{}{Vou aguardar seu retorno, mestre.}
+{1600}{}{Você espera que eu engula os meus dentes, mestre?}
+{1700}{}{Eu vou seguir em seu calcanhar, mestre.}
+{1800}{}{Eu vou passar para um meio de distância, mestre.}
+{1900}{}{Vou passar para o máximo de intervalo aceitável, mestre.}
+{2000}{}{Desculpe, mestre, mas não parece haver espaço para mim em a sua festa. Eu vou esperar aqui até que uma posição seja aberta.}
+{2200}{}{Como você ordena, mestre.}
+{2300}{}{Tenho pele, mestre. Eu não carrego nenhum outro equipamento.}
+{2400}{}{Eu não tenho nenhum desejo para remover a minha pele, mestre.}
+{2500}{}{Dentes, mestre. As coisas brancas brilhantes instaladas na minha boca.}
+{2700}{}{Você é um imbecil maior do que Schreber. Eu não vou me juntar a você.}
+{2800}{}{Muito bem, mestre. Eu estou ao seu comando.}
+{2900}{}{Você é um cretino. Eu não vou ir a qualquer lugar com você. Vá embora.}

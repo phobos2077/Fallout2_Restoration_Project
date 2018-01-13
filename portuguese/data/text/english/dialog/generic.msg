@@ -240,21 +240,21 @@
 {9001}{}{Rearming Complete.}
 {9002}{}{Repairing Structural Damage.}
 {10000}{}{Tell me something.}
-{10001}{}{You should heal yourself now.}
-{10002}{}{I need you to wait here until I come back.}
-{10003}{}{Put your weapon away.}
-{10004}{}{Stay close to me.}
-{10005}{}{Don't get too far away.}
-{10006}{}{We should spread out a bit.}
-{10007}{}{That's it for now.}
+{10001}{}{Você deve curar-se agora.}
+{10002}{}{Eu preciso que você espere aqui até eu voltar.}
+{10003}{}{Coloque sua arma de distância.}
+{10004}{}{Ficar perto de mim.}
+{10005}{}{Não fique muito longe.}
+{10006}{}{Devemos espalhar um pouco.}
+{10007}{}{É isso por agora.}
 {10008}{}{We need to change our distance from one another.}
 {10009}{}{I need to talk to you about your gear.}
 {10010}{}{On second thought, I think this distance is OK for now.}
 {10011}{}{Actually, I guess there's nothing I need to really know right about your gear.}
 {10012}{}{I need you to remove the armor that you're wearing.}
 {10013}{}{I need to know what kind of weapons you can use.}
-{10100}{}{Let's go.}
-{20000}{}{That does nothing.}
+{10100}{}{Vamos lá.}
+{20000}{}{Isto não faz nada.}
 {20100}{}{There is no lock on this door.}
 {21020}{}{twenty}
 {30000}{}{You have stolen from your own tribe.}

@@ -55,7 +55,7 @@
 {150}{}{My friend! Has the sun been shining upon you? How does your day flower? Are you ready for the move? I certainly am!}
 {151}{}{'Es!}
 {152}{}{Nuh uh! No move!}
-{153}{}{Let's go.}
+{153}{}{Vamos lá.}
 {154}{}{I've changed my mind. I don't want to help you.}
 {155}{}{I'm so excited I could release a spore cloud all over myself! Let's go!}
 {156}{}{-done-}

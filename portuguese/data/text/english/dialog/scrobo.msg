@@ -23,8 +23,8 @@
 {122}{}{I don't think I want to rejoin you just yet. Goodbye.}
 {123}{}{Rowf? <boing> Raggy?}
 {124}{}{How are you?}
-{125}{}{I need you to wait here until I come back.}
-{126}{}{That's it for now.}
+{125}{}{Eu preciso que você espere aqui até eu voltar.}
+{126}{}{É isso por agora.}
 {127}{}{<click> whimper}
 {128}{}{Não importa.}
 {129}{}{OK}

@@ -125,7 +125,7 @@
 {551}{}{\nError: obj_examine: proto_ptr failed!}
 {580}{}{You use the %s.}
 {581}{}{You use the %s on %s.}
-{582}{}{That does nothing.}
+{582}{}{Isto não faz nada.}
 {583}{}{To your dismay, you realize that it is already dead.}
 {584}{}{As you reach down, you realize that it is already dead.}
 {585}{}{Alas, you are too late.}

@@ -162,9 +162,9 @@
 {411}{}{I have a black belt in sanshou. I can stab a man to death if the situation calls for it. Pistols, rifles and the like I'm decent with.}
 {420}{}{We need to talk about the distance between us.}
 {421}{}{What's wrong with it?}
-{422}{}{Stay close to me.}
+{422}{}{Ficar perto de mim.}
 {423}{}{Alright. I have your back.}
-{424}{}{Don't get too far away.}
+{424}{}{Não fique muito longe.}
 {425}{}{You need your space, got it.}
 {426}{}{Let's spread out.}
 {427}{}{Okay. We're harder targets apart.}
@@ -186,7 +186,7 @@
 {460}{}{You've got enough people already. You don't need an entourage.}
 {461}{}{Maybe when you've freed up some space. I don't run well with crowds.}
 {462}{}{You ready to take me with you?}
-{463}{}{Let's go.}
+{463}{}{Vamos lá.}
 {464}{}{Não, ainda não.}
 {470}{}{Jesus, you look like the Grim Reaper. You ought to get yourself checked out.}
 {480}{}{No problem. I'm lighter on my feet without it.}

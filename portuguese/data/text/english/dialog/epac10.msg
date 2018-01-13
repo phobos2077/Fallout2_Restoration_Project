@@ -344,7 +344,7 @@ and fifty years.}
 {1105}{}{Come on. I was frozen for over a hundred and fifty years. I'm eager to move.}
 {1106}{}{I'm getting impatient over here.}
 {1110}{}{You ready to take me with you?}
-{1111}{}{Let's go.}
+{1111}{}{Vamos lá.}
 {1112}{}{Não, ainda não.}
 {1200}{}{So, what can you tell me about the Vaults?}
 {1201}{}{So, now do you remember anything you can tell me about the Vaults?}

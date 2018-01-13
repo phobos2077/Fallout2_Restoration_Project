@@ -1,58 +1,58 @@
-{100}{}{You see someone in power armor. }
-{101}{}{You see the Navarro base Commander.}
+{100}{}{Você vê alguém na armadura de energia. }
+{101}{}{Você vê o Comandante da base de Navarro.}
 {102}{}{Você vê alguém vestindo armadura de energia de um design incomum. Há uma insígnia no peitoral que você não conhece.}
-{103}{}{Who the hell are you guys... Alert! Intruders on the base!}
-{104}{}{I don't have time to chitchat with the grunts. You're dismissed.}
-{105}{}{Time to die.}
+{103}{}{Quem diabos são vocês... Alerta! Intrusos na base!}
+{104}{}{Não tenho tempo para conversar com os grunhidos. Você está dispensado. }
+{105}{}{Tempo para morrer.}
 {106}{}{Tudo bem.}
-{107}{}{I told you I don't have time for you. Leave this office and do not come back here unless I send for you. Dismissed!}
-{108}{}{Disobeying a direct order of a superior officer is treason. I don't have time to court martial you so I'll handle this myself. Guards! Kill this idiot!}
+{107}{}{Eu disse que não tenho tempo para você. Deixe este escritório e não volte aqui, a menos que eu envie para você. Dispensado!}
+{108}{}{A desobediência a uma ordem direta de um superior hierárquico é traição. Eu não tenho tempo para corte marcial de você, então eu vou lidar com isso sozinho. Guardas! Matem esse idiota!}
 {109}{}{Tudo bem.}
-{110}{}{Screw you!}
-{111}{}{The Fob is in the locker over there. Have the duty officer contact me once it's secured. Dismissed!}
-{112}{}{Yes sir!}
-{113}{}{Make it quick soldier, I don't have all day to stand around.}
-{114}{}{Yes sir!}
-{115}{}{Leave my locker alone or I will dish out some serious pain.}
-{116}{}{Yes sir!}
-{117}{}{This base is on alert and I don't recognize you. Show me your papers, soldier.}
-{118}{}{What papers?}
-{119}{}{You blow me!}
-{120}{}{I don't seem to have them with me...}
+{110}{}{Que se dane!}
+{111}{}{O Fob está no armário lá. Peça ao funcionário que me contacte quando estiver seguro. Dispensado!}
+{112}{}{Sim, senhor!}
+{113}{}{Faça isso rápido soldado, eu não tenho o dia todo para isso.}
+{114}{}{Sim, senhor!}
+{115}{}{Deixe o meu armário sozinho ou vou causar uma dor séria.}
+{116}{}{Sim, senhor!}
+{117}{}{Esta base está em alerta e não reconheço você. Mostre-me seus papéis, soldado.}
+{118}{}{Que documentos?}
+{119}{}{Você me estoura!}
+{120}{}{Acho que não tenho eles comigo...}
 {121}{}{Papéis? Eu tenho os papéis aqui!}
-{122}{}{Wrong answer, maggot. You're to carry your papers with you at all times. You should know that!}
-{123}{}{Fuck you.}
-{124}{}{Leave my locker alone or I will dish out some serious pain.}
-{125}{}{Time to die.}
-{200}{}{Alright, let's get this over with--I don't like muties stinking up my office, and I got shit to do. Do you work
- for the Salvatores? }
-{201}{}{None of your business, asshole.}
-{202}{}{I work for no one.}
-{203}{}{So what if I do?}
-{204}{}{Yeah, I work for the Salvatores.}
-{205}{}{Before I answer any questions, I've got a few of my own.}
-{210}{}{I don't have time for this bullshit. Guards! Kill this mutie!}
-{220}{}{So you're saying you're nothing more than a stray wasteland rat that happened to wander into one of our vertibirds?}
-{221}{}{Uh, yeah, pretty much . . . except for that part about me being a rat.}
+{122}{}{Resposta errada, verme. Você deve transportar os seus documentos com você em todos os momentos. Você deve saber disso!}
+{123}{}{Foda-se você.}
+{124}{}{Deixe o meu armário sozinho ou vou causar uma dor séria.}
+{125}{}{Tempo para morrer.}
+{200}{}{Tudo bem, vamos acabar com isso - eu não gosto de muties fedendo em meu escritório, e eu tenho merdas para fazer. Você trabalha
+  para os Salvatores?}
+{201}{}{Nada de sua conta, idiota.}
+{202}{}{Não trabalho para ninguém.}
+{203}{}{Então, e se eu fizer?}
+{204}{}{Sim, eu trabalho para os Salvatores.}
+{205}{}{Antes de responder qualquer dúvida, tenho algumas das minhas.}
+{210}{}{Eu não tenho tempo para esta besteira. Guardas! Matem este mutie!}
+{220}{}{Então, você está dizendo que você não é nada além de um rato de terra desviada que passou a vagar em um de nossos vertibirds?}
+{221}{}{Uh, sim, praticamente. . . exceto por essa parte sobre eu ser um rato.}
 {222}{}{É isso mesmo.}
-{223}{}{No, I'm saying that this is all just a big misunderstanding. I don't know who you guys are, and I don't care.
- So if you don't mind, I'll be moving along now.}
-{230}{}{Good, if you're acting alone, then I don't have to waste another second of my time with you. Guards! Kill this mutie!}
-{240}{}{You're not leaving here alive, mutant. I couldn't risk you blabbing the location of this base to all your
- wasteland friends, now could I? Guards! Kill this mutie!}
-{250}{}{Tell me what I want to know, and I'll make sure your death is quick and . . . relatively painless.
- Did Salvatore put you up to this?}
-{251}{}{Uhh . . . no? Wait, yeah. Maybe.}
-{252}{}{Nope. Playing hide-and-seek in your flying machine was all my own idea. Genius, I know.}
-{253}{}{Yeah, he thought he'd sweeten the trade by sending me along. What a deal, huh?}
-{254}{}{Before I answer any questions, I've got a few of my own.}
-{260}{}{I don't have time for this bullshit. Guards! Kill this mutie!}
-{270}{}{That supposed to be funny, mutant? I think you'll be a lot funnier to me when you're a bleeding corpse. Guards!
- Kill this mutie!}
-{280}{}{Oh, you do? [He chuckles.] Well hell, why not? You're dying anyway. What do you want to know, mutant?}
-{281}{}{Why do you keep calling me a mutant?}
-{282}{}{Who the hell are you guys?}
-{283}{}{Where am I? }
+{223}{}{Não, estou dizendo que isso é tudo apenas um grande mal-entendido. Não sei quem são vocês, e não me importo.
+  Então, se você não se importar, eu vou me mudar agora.}
+{230}{}{Bom, se você está agindo sozinho, então eu não tenho que perder outro segundo do meu tempo com você. Guardas! Matem este mutie!}
+{240}{}{Você não sairá daqui vivo, mutante. Eu não poderia arriscar você a entregar a localização desta base para todos os seus
+  amigos desolados, agora poderia? Guardas! Matem este mutie!}
+{250}{}{Diga-me o que eu quero saber, e vou me certificar de que sua morte seja rápida e. . . relativamente indolor.
+  Salvatore colocou você para isso?}
+{251}{}{Uhh . . . não? Espere, sim. Talvez.}
+{252}{}{Não. Brincando de esconde-esconde na sua máquina voadora foi toda minha própria ideia. Gênio, eu sei.}
+{253}{}{Sim, ele pensou que ele adoçaria o comércio, me enviando. Que negócio, hein?}
+{254}{}{Antes de responder qualquer dúvida, tenho algumas das minhas.}
+{260}{}{Eu não tenho tempo para esta besteira. Guardas! Matem este mutie!}
+{270}{}{Isso era pra ser engraçado, mutante? Eu acho que você será muito mais engraçado quando você for um cadáver sangrando. Guardas!
+  Matem este mutie!}
+{280}{}{Oh, que fazer? [Ele dá uma risadinha.] Bem inferno, por que não? Você está morrendo de vontade de qualquer maneira. O que você quer saber, mutante?}
+{281}{}{Por que você continua me chamando de mutante?}
+{282}{}{Quem diabos são vocês?}
+{283}{}{Onde estou? }
 {284}{}{How can I get some of that sweet armor?}
 {285}{}{Eu já ouvi o suficiente.}
 {290}{}{Because you ARE. Sure, you might look kinda human, but don't let that fool you. You're still a mutant. You and

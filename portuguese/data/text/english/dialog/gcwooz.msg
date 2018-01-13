@@ -220,7 +220,7 @@
 {702}{}{I need a ruling on that!}
 {703}{}{Kick me in the jimmy.}
 {704}{}{Hi, shills.}
-{705}{}{Fuck you.}
+{705}{}{Foda-se você.}
 {706}{}{I wouldn't shit you on this one.}
 {707}{}{Let's play Tragic.}
 {708}{}{I am the worst Tragic player in the world.}
