@@ -5,9 +5,9 @@
 {200}{}{I can't talk right now. Go see Quincy.}
 {201}{}{Quincy is in charge here. Go see him.}
 {202}{}{I'm just a junior mechanic. You'll want to talk to Quincy.}
-{300}{}{You're out of uniform.}
+{300}{}{Você está fora do uniforme.}
 {301}{}{You better suit up soldier.}
-{302}{}{You're taking a big chance being out of uniform. You better report to supply.}
+{302}{}{Você está tendo uma grande chance de estar fora de uniforme. Melhor você informar ao fornecimento.}
 {400}{}{Quem diabos são vocês... Alerta! Intrusos!}
 {401}{}{Temos sido infiltrados! Alerta!}
 {402}{}{Vários intrusos! Soar o alarme!}

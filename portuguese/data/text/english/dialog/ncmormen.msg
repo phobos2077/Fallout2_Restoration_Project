@@ -165,7 +165,8 @@
 {493}{}{(Blinks.) Eh...? What you say?}
 {494}{}{Forget it. Go squat on a firearm and pull the trigger, all right?}
 {495}{}{Nothing. If I were you, Ramirez, I'd do all humanity a favor and take that entire box of Jet all at once. See you.}
-{496}{}{(Walk away.)}
+{496}{}{(Ir embora.)
+}
 {500}{}{(As you turn away, Ramirez grunts.) Hey! This box's been opened! }
 {501}{}{You skimmin', homes? }
 {502}{}{You skimmin', chica? }

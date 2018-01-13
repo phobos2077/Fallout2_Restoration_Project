@@ -22,7 +22,7 @@
 {120}{}{I guard hall. Safety of pack goal.}
 {121}{}{Oh... Uh...}
 {122}{}{Guard? What?}
-{123}{}{Ok. Me go.}
+{123}{}{Ok. - Me ir.}
 {124}{}{Well, continue on. I'll be leaving now.}
 {125}{}{You're doing a great job!}
 {126}{}{You call yourself a guard? Ha!}

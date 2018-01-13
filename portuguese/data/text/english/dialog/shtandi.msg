@@ -38,7 +38,7 @@
 {137}{}{Feito.}
 {138}{tand6a}{Fair enough. Do it right and there's a reward.}
 {139}{tand6b}{Lord, I know I'm making a mistake but... give it a shot - if you understood anything I said.}
-{140}{}{Ok. Me go.}
+{140}{}{Ok. - Me ir.}
 {141}{}{Eu tenho perguntas.}
 {142}{}{All right. I'm off.}
 {143}{}{I'd like to ask you some questions.}

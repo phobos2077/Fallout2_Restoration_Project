@@ -129,7 +129,7 @@
 {300}{}{You can usually find Marcus near the Bank – that also serves as a tougher jail – or at the
  Jail. Sometimes he's in the tavern or at home, but he's usually working.}
 {301}{}{Bummer!}
-{302}{}{Damn!}
+{302}{}{Porra!}
 {303}{}{Hooray!}
 {304}{}{Scoundrels!}
 {305}{}{That rat bastard!}

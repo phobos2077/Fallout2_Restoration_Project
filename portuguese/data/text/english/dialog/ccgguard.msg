@@ -1,55 +1,55 @@
-{100}{}{You see a guard. }
-{101}{}{You see the gate guard.}
-{102}{}{You see a guard wearing power armor of an unusual design. There is an insignia on the breastplate that you are unfamiliar with.}
-{103}{gate1}{Halt! This is federal property – no admittance without proper authorization.}
+{100}{}{Você verá um guarda. }
+{101}{}{Você verá o portão da guarda.}
+{102}{}{Você vê um guarda com uma armadura de poder de um design incomum. Há uma insígnia no peitoral a qual você não conhece.}
+{103}{gate1}{Pare! Esta é propriedade federal - sem admissão sem autorização adequada.}
 {104}{}{Uh... fed ur al?}
-{105}{}{Me got pass... where I put?}
-{106}{}{Me new. Me told you expect.}
-{107}{}{Oh. Sorry, me go.}
-{108}{}{I have my pass... it was right here.}
-{109}{}{I'm a new recruit. I was told you'd be expecting me.}
-{110}{}{Oh, sorry. I'll be heading out then.}
-{111}{gate2}{You're a little slow, aren'tcha?? Well, just keep moving and don't come back here. You'll be fine. Understand?}
-{112}{}{Me want go inside.}
-{113}{}{Ok. Me go.}
-{114}{gate3}{Nobody gets... Damn. (slowly) Need pass get inside. You no got pass. You go away. You no go away, you get hurt. Understand?}
-{115}{}{How bout me hurt you instead?}
-{116}{}{Ok. Me go.}
-{117}{gate14}{(places hand on weapon) Don't give me any excuses! You need to either show me your pass or give me the password!}
-{118}{}{No can find pass, no remember password!}
-{119}{}{Screw this. Me kill.}
-{120}{}{I'm sorry, I lost my pass and I don't know anything about a password.}
-{121}{}{Screw you and everyone who looks like you!}
-{122}{gate5}{I suggest you leave this installation immediately and do not return here without proper authorization. Do I make myself clear?}
+{105}{}{Eu ter passe... onde eu coloco?}
+{106}{}{Eu novo. Eu disse que você esperava.}
+{107}{}{Oh. Desculpe, - me ir.}
+{108}{}{Eu tenho o meu passe ... estava bem aqui.}
+{109}{}{Eu sou um novo recruta. Me disseram que você estaria esperando por mim.}
+{110}{}{Oh, desculpe. Eu vou estar indo para fora em seguida.}
+{111}{gate2}{Você é um pouco lento, não é? Bem, continue em movimento e não volte aqui. Você vai ficar bem. Compreende?}
+{112}{}{Eu quero ir para dentro.}
+{113}{}{Ok. - Me ir.}
+{114}{gate3}{Ninguém consegue ... Maldito. (lento) Precisa de passe pra entrar. Você não conseguiu passe. Vai embora. Você não vai embora, você se machuca. Compreende?}
+{115}{}{Que tal eu machucar você?}
+{116}{}{Ok. - Me ir.}
+{117}{gate14}{(coloca a mão na arma) não me dê desculpas! Você precisa do passe ou me dar a senha!}
+{118}{}{Não pode encontrar passe, sem lembrar senha!}
+{119}{}{Dane-se isso. Eu matar.}
+{120}{}{Me desculpe, eu perdi a minha passagem e eu não sei nada sobre uma palavra-passe.}
+{121}{}{Aperto você e todos que se parecem com você!}
+{122}{gate5}{Eu sugiro que você deixe esta instalação imediatamente e não voltar aqui, sem a devida autorização. Estou sendo claro?}
 {123}{}{Sim.}
-{124}{gate6a}{I see. May I have your password?}
-{125}{gate6b}{I see. (places hand on weapon) All new recruits are to report for duty alone. I suggest you leave this installation immediately and do not return here with your entourage. Do I make myself clear?}
+{124}{gate6a}{Entendo. Posso ter sua senha?}
+{125}{gate6b}{Entendo. (coloca mão na arma) Todos os novos recrutas são para denunciar apenas para o dever. Sugiro que você deixe esta instalação imediatamente e não volte aqui com sua comitiva. Fui claro?}
 {126}{}{Sheepshead.}
 {127}{}{Sim.}
-{128}{gate7a}{One moment. (pause) Okay, you check out. Report to the drill chief. Go through the gate, past the kennel, and it's the first door on the right.}
-{129}{gate7b}{(mumbles) Damn jarheads are getting dumber by the hour.}
+{128}{gate7a}{Um momento. (pausa) Certo, você verifica. Informe ao chefe de drill. Atravesse o portão, além do canil, e é a primeira porta à direita.}
+{129}{gate7b}{(murmúrios) Malditos jarheads estão ficando mais burros por hora.}
 {130}{}{Ok.}
-{131}{gate8a}{Halt! – Oh. I see you've returned and you're alone this time. All right, recruit, what's the password?}
-{132}{gate8b}{Halt! – You again. I see you've still got your group with you. (places hand on weapon) I suggest you leave this installation immediately and do not return here. Do I make myself clear?}
+{131}{gate8a}{Pare! - Oh. Vejo que você retornou e você está sozinho desta vez. Certo, recrute, qual é a senha?}
+{132}{gate8b}{Pare! - Você novamente. Eu vejo que você ainda tem o seu grupo com você. (coloca a mão na arma) Eu sugiro que você deixe esta instalação imediatamente e não volte aqui. Fui claro?}
 {133}{}{Sheepshead.}
 {134}{}{Sim.}
-{135}{gate9}{Halt! – Back again, huh? You'd better have your pass or know your password this time. Well, I'm waiting?}
-{136}{}{Uh... me not know. Me come back.}
-{137}{}{Screw this. Me walk in over you dead body.}
-{138}{}{Look, I lost my pass...}
-{139}{}{Oh to hell with it. Bite the bullet, asshole!}
-{140}{gate10}{This is your final warning. I suggest you leave this installation immediately and do not return here. Do I make myself clear?}
-{141}{}{Ok, me go again...}
-{142}{}{In words of ancients... Fuck you!}
+{135}{gate9}{Parar! – De volta, hein? É melhor você ter o seu passe ou saber sua senha neste momento. Bem, eu estou esperando?}
+{136}{}{Uh ... eu não sei. Eu volto.}
+{137}{}{Dane-se isso. Eu ando sobre seu cadaver.}
+{138}{}{Olha, eu perdi a minha passagem...}
+{139}{}{Oh para o inferno com isso. Morda a bala, idiota!}
+{140}{gate10}{Este é o seu último aviso. Eu sugiro que você deixe esta instalação imediatamente e não voltar aqui. Posso me tornar claro?}
+{141}{}{Ok, eu vou novamente ...}
+{142}{}{Nas palavras dos antigos... Foda-se você!}
 {143}{}{Tudo bem, eu vou.}
-{144}{}{In the words of the ancients... Fuck you!}
-{145}{gate11a}{Halt! – You again? You were warned. Alarm! Intruder at the gate! }
-{146}{}{Damn!}
-{147}{}{Intruder at the gate!}
-{148}{}{Main entrance under attack!}
-{149}{}{To the gate! Intruder at the gate!}
-{200}{}{...asshole...}
-{201}{}{...yeah, you'd BETTER walk away...}
-{202}{}{...what a brownie hound...}
-{203}{}{...yes, sir! fuckin' sir!...}
-{300}{}{Move along soldier.}
+{144}{}{Nas palavras dos antigos... Foda-se você!}
+{145}{gate11a}{Parar! – Você de novo? Você foi avisado. Alarme! Intruso no portão! }
+{146}{}{Porra!}
+{147}{}{Intruso no portão!}
+{148}{}{Entrada principal sob ataque!}
+{149}{}{Para o portão! Intruso no portão!}
+{200}{}{...imbecil...}
+{201}{}{...sim, é MELHOR você ir embora...}
+{202}{}{... o que um caipira marrom...}
+{203}{}{...sim, senhor! fuckin' senhor!...}
+{300}{}{Acompanhe o soldado.}

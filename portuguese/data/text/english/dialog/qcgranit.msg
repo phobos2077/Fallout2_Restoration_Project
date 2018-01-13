@@ -14,7 +14,7 @@
 {113}{}{You can go.}
 {114}{}{I didn't see nuthin'.}
 {115}{}{These are not the droids we are looking for.}
-{116}{}{Move along.}
+{116}{}{Mova-se.}
 {117}{}{I'm tired of the killing.}
 {118}{}{Go on, get!}
 {119}{}{Stand easy, lads.}

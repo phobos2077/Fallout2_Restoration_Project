@@ -163,7 +163,7 @@
  and the home of others who rely on me for their protection. Do not push me to the point that either of
  us will regret it!}
 {219}{}{I'm sorry; I've been impolite and overstepped my bounds.}
-{220}{}{Screw you and everyone who looks like you!}
+{220}{}{Aperto você e todos que se parecem com você!}
 {221}{}{Whoa! I'm outta here.}
 {222}{}{Thank you. Please go to the control room and replace the module.}
 {223}{}{Consider it done!}

@@ -1,12 +1,12 @@
 {100}{}{Você vê um guarda.}
-{101}{}{You see a guard in combat armor.}
-{102}{}{You see someone wearing combat armor. There is an insignia on the breastplate that you are unfamiliar with.}
-{103}{}{Nothing to report.}
-{104}{}{Nothing going on with me, how 'bout you?}
-{105}{}{Shouldn't you be at your post, soldier? It's not good to wander about here.}
-{106}{}{You're out of uniform. }
-{107}{}{You better report to the Sarge and get suited up.}
-{108}{}{You're taking a big chance being out of uniform. You better report to supply.}
+{101}{}{Você verá um guarda em armadura de combate.}
+{102}{}{Você vê alguém vestindo armadura de combate. Há uma insígnia no peitoral que você não conhece.}
+{103}{}{Nada a assinalar.}
+{104}{}{Nada de errado comigo, que tal você?}
+{105}{}{Não deveria estar no seu posto, soldado? Não é bom para passear aqui.}
+{106}{}{Você está fora do uniforme. }
+{107}{}{É melhor informar o Sargento e se adequar.}
+{108}{}{Você está tendo uma grande chance de estar fora de uniforme. Melhor você informar ao fornecimento.}
 {109}{}{Quem diabos são vocês... Alerta! Intrusos!}
 {110}{}{Temos sido infiltrados! Alerta!}
 {111}{}{Vários intrusos! Soar o alarme!}

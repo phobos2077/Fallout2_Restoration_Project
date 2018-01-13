@@ -1,12 +1,12 @@
 {100}{}{Você vê um guarda.}
-{101}{}{You see a guard in power armor.}
-{102}{}{You see someone wearing power armor of an unusual design. There is an insignia on the breastplate that you are unfamiliar with.}
-{103}{}{Nothing to report.}
-{104}{}{Nothing going on with me, how 'bout you?}
-{105}{}{Shouldn't you be at your post, soldier? It's not good to wander about here.}
-{106}{}{You're out of uniform.}
-{107}{}{You better report to the Sarge and get suited up.}
-{108}{}{You're taking a big chance being out of uniform. You better report to supply.}
+{101}{}{Você vê um guarda em armadura de poder.}
+{102}{}{Você vê alguém vestindo armadura de energia de um design incomum. Há uma insígnia no peitoral que você não conhece.}
+{103}{}{Nada a assinalar.}
+{104}{}{Nada de errado comigo, que tal você?}
+{105}{}{Não deveria estar no seu posto, soldado? Não é bom para passear aqui.}
+{106}{}{Você está fora do uniforme.}
+{107}{}{É melhor informar o Sargento e se adequar.}
+{108}{}{Você está tendo uma grande chance de estar fora de uniforme. Melhor você informar ao fornecimento.}
 {109}{}{Quem diabos são vocês... Alerta! Intrusos!}
 {110}{}{Temos sido infiltrados! Alerta!}
 {111}{}{Vários intrusos! Soar o alarme!}
@@ -16,19 +16,20 @@
 {115}{}{Nós vamos colocá-lo abaixo!}
 {116}{}{O Enclave vai dominar o mundo!}
 {117}{}{Você morre para que o Enclave sobreviva!}
-{200}{}{...asshole...}
-{201}{}{...yeah, you'd BETTER walk away...}
-{202}{}{...what a brownie hound...}
-{203}{}{...yes, sir! fuckin' sir!...}
-{300}{}{Hold on there. What do you think you're doing with that aircraft? There are no scheduled flights for several days.}
+{200}{}{...imbecil...}
+{201}{}{...sim, é MELHOR você ir embora...}
+{202}{}{... o que um caipira marrom...}
+{203}{}{...sim, senhor! fuckin' senhor!...}
+{300}{}{Aguarde lá. O que você acha que está fazendo com essa aeronave? Não há vôos programados por vários dias.}
 {301}{}{Nrg?}
-{302}{}{I am aware of this.}
-{303}{}{I'm sorry. I was just looking. I'll be going now.}
-{304}{}{There's been a change of plans. I'm taking this aircraft.}
-{310}{}{What? Oh, I see. Look, don't touch. Okay? Touch again and you die.}
-{311}{}{(Smile then attack.)}
-{312}{}{(Walk away.)}
-{315}{}{Oh shit, looks like we got ourselves an intruder. Code Red! I repeat, code Red!}
+{302}{}{Eu estou ciente disso.}
+{303}{}{Sinto muito. Eu só estava procurando. Eu vou estar indo agora.}
+{304}{}{Houve uma mudança de planos. Eu estou tomando esta aeronave.}
+{310}{}{O que? Oh, eu vejo. Olhe, mas não toque. Tudo bem? Toque novamente e você morre.}
+{311}{}{(Sorriso, em seguida, atacar.)}
+{312}{}{(Ir embora.)
+}
+{315}{}{Oh merda, parece que nos conseguimos um intruso. Código vermelho! Eu repito, código vermelho!}
 {316}{}{That sounds like a good idea. Touch the aircraft again and I'll put a bullet in your head.}
 {320}{}{Right. And therefore you are...}
 {321}{}{About to leave. Sorry to bother you.}

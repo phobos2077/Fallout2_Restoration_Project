@@ -5,7 +5,7 @@
 {104}{}{No hand-outs here. Now git!}
 {105}{}{You're a few fries short of a happy meal, aren't you?}
 {106}{}{Move along, little doggy.}
-{107}{}{Move along.}
+{107}{}{Mova-se.}
 {108}{}{Howdy there. My name's Earl Marion. I'm the Sheriff in these here parts. Sounds downright
  picturesque, don't it? Well, that's my job.}
 {109}{}{What can Sheriff Marion do for you?}

@@ -1,18 +1,18 @@
 {100}{}{Você vê um guarda.}
-{101}{}{You see a guard in power armor.}
-{102}{}{You see someone wearing power armor of an unusual design. There is an insignia on the breastplate that you are unfamiliar with.}
-{103}{}{Move along.}
-{104}{}{I’m on duty. I have no time for talk.}
-{105}{}{Keep it moving. Gate’s that way.}
-{106}{}{Better go get your issue.}
-{107}{}{Don’t wander around out of uniform.}
-{108}{}{You’re in the army now. Don’t get caught out of uniform.}
-{109}{}{Intruders at the main gate!}
-{110}{}{Sound the alarm! Intruders!}
-{111}{}{Deploy backup to the main gate. We’ve got intruders!}
-{112}{}{Security alert at the main gate!}
-{113}{}{Secure all stations! Main gate under attack!}
-{114}{}{Code red at the main gate!}
-{115}{}{We’re going to put you under!}
+{101}{}{Você vê um guarda em armadura de poder.}
+{102}{}{Você vê alguém vestindo armadura de energia de um design incomum. Há uma insígnia no peitoral que você não conhece.}
+{103}{}{Mova-se.}
+{104}{}{Eu estou de plantão. Já não tenho tempo para falar.}
+{105}{}{Mantê-lo em movimento. Portão de que maneira.}
+{106}{}{Melhor ir resolver o seu problema.}
+{107}{}{Não passear fora do uniforme.}
+{108}{}{Você está no exército agora. Não seja pego sem uniforme.}
+{109}{}{Os intrusos no portão principal!}
+{110}{}{Soar o alarme! Intrusos!}
+{111}{}{Implementar o backup para o portão principal. Temos intrusos!}
+{112}{}{Alerta de segurança no portão principal!}
+{113}{}{Seguro todas as estações! Portão principal sob ataque!}
+{114}{}{Código vermelho no portão principal!}
+{115}{}{Nós vamos colocá-lo abaixo!}
 {116}{}{O Enclave vai dominar o mundo!}
 {117}{}{Você morre para que o Enclave sobreviva!}

@@ -67,7 +67,7 @@
 {166}{}{Guardas! Intrusos!}
 {167}{}{Quem diabos deixou esses bastardos? Guardas!}
 {168}{}{Alerta! Espiões no complexo!}
-{169}{}{Where the hell is that screw-up private?!}
+{169}{}{Onde diabos é esse parafuso-privado?!}
 {200}{}{.}
-{201}{}{, Sir!}
-{300}{}{I told you not to come back here out of uniform!}
+{201}{}{, Senhor!}
+{300}{}{Eu disse a você para não voltar aqui sem uniforme!}
