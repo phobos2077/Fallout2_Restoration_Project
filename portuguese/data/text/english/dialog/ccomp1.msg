@@ -1,7 +1,7 @@
 {100}{}{Você vê um técnico.}
 {101}{}{Você vê um técnico de computador.}
-{102}{}{You see someone wearing a lab coat complete with pocket protector and a stash of pens.}
-{103}{}{Good day soldier.}
+{102}{}{Você vê alguém vestindo um jaleco de laboratório completo, com bolso e um protetor de estoque de canetas.}
+{103}{}{Bom dia, soldado.}
 {104}{}{Por favor, não toque em nada.}
 {105}{}{Vocês grunhidos não deveiam estar aqui.}
 {106}{}{Você está fora do uniforme. }

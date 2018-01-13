@@ -21,28 +21,28 @@
 {120}{}{Procurando ... Acessando registros de inventário atuais ... Dados adquiridos. Os registros atuais indicam que 1 conjunto de esquemas vertibird estão em estoque. Quatro cópias dos esquemas dos vertibirds foram encomendadas neste trimestre. Quatro cópias dos esquemas de vertibird foram entregues neste trimestre. Três cópias dos esquemas dos vertibirds foram relatados perdidos neste trimestre. Os esquemas vertibird estão alojados em manutenção.}
 {121}{}{Tudo bem. Onde a manutenção?}
 {122}{}{Fine. So where is maintenance located?}
-{123}{}{Searching... Accessing base architectural files... Data acquired. Maintenance is located above ground in the northeast quadrant of the base. }
+{123}{}{Procurando ... Acessando arquivos arquitetônicos base ... Dados adquiridos. A manutenção está localizada acima do solo no quadrante nordeste da base.}
 {124}{}{Obrigado.}
-{125}{}{Searching... Accessing geographical maps... Data acquired. Enclave headquarters is located 175 miles off of the coast of California in the Pacific Ocean. Coordinates are 37 degrees 18 minutes north latitude by 120 degrees 7 minutes west longitude.}
-{126}{}{What the hell all that mean?}
-{127}{}{What the hell does all that crap mean?}
-{128}{}{Searching... Accessing English slang dictionary... Data acquired. Translation follows: 1) It's a long ways out in the ocean. 2) It's off the coast of California. 3) It's west of the city of San Francisco. 4) If you do not understand the geographical coordinate system then you will not find it.}
-{129}{}{How get there?}
-{130}{}{How can I get there?}
-{131}{}{Searching... Accessing transportation directory... Data acquired. Transportation files indicate that 1,257 methods can be used to reach Enclave headquarters. However, records also indicate that only 2 of these methods are currently available. Vertibird transportation can be acquired at Navarro outpost. Ship transportation can be acquired at San Francisco harbor. Please note that ship transportation has been flagged as inaccessible due to security act 9837-334-27A. Ship has been disabled and a passkey is required for reactivation. Base commander, Navarro outpost, currently holds the passkey.}
+{125}{}{Procurando ... Acessando mapas geográficos ... Dados adquiridos. A sede do Enclave está localizada a 175 milhas da costa da Califórnia no Oceano Pacífico. As coordenadas são 37 graus 18 minutos de latitude norte em 120 graus e 7 minutos de longitude oeste.}
+{126}{}{O que diabos tudo isso significa?}
+{127}{}{O que diabos significa toda essa porcaria?}
+{128}{}{Procurando ... Acessando dicionário de gírias portuguesas ... Dados adquiridos. A tradução segue: 1) É um longo caminho para fora no oceano. 2) Está fora da costa da Califórnia. 3) Está a oeste da cidade de São Francisco. 4) Se você não entende o sistema de coordenadas geográficas, então não o encontrará.}
+{129}{}{Como chegar lá?}
+{130}{}{Como posso chegar lá?}
+{131}{}{Procurando ... Acessando diretório de transporte ... Dados adquiridos. Os arquivos de transporte indicam que 1.257 métodos podem ser usados para chegar à sede do Enclave. No entanto, os registros também indicam que apenas 2 desses métodos estão atualmente disponíveis. O transporte Vertibird pode ser adquirido no posto avançado da Navarro. O transporte do navio pode ser adquirido no porto de São Francisco. Por favor, note que o transporte do navio foi sinalizado como inacessível devido ao ato de segurança 9837-334-27A. O navio foi desativado e uma senha é necessária para a reativação. O comandante da base, borne avançado da Navarro, atualmente detém a senha.}
 {132}{}{Tudo bem.}
 {133}{}{Tenho-o.}
-{134}{}{Searching... Accessing base architectural files... Data acquired. Armory is located below ground in the northwest quadrant of the base.}
+{134}{}{Procurando ... Acessando arquivos arquitetônicos base ... Dados adquiridos. Arsenal está localizado abaixo do solo no quadrante noroeste da base.}
 {135}{}{Eu entendi.}
-{136}{}{Yeah, got it.}
-{137}{}{Searching... Accessing base architectural files... Data acquired. Base commander's office is located below ground in the northeast quadrant of the base.}
+{136}{}{Sim, tem isso.}
+{137}{}{Procurando ... Acessando arquivos arquitetônicos base ... Dados adquiridos. O escritório do comandante da base está localizado abaixo do solo no quadrante nordeste da base.}
 {138}{}{Bem.
 }
 {139}{}{Parece bom.}
-{140}{}{Thank you for accessing EnclaveNet. Logging off... }
+{140}{}{Obrigado por acessar EnclaveNet. O log off... }
 {141}{}{Feito.}
-{142}{}{Command?}
-{143}{}{Unauthorized activity detected in main computer complex. Security alert. Security alert.}
-{144}{}{Initiate welcome program.}
-{145}{}{Shit!}
-{146}{}{Security System Lockout in Progress.}
+{142}{}{Comando?}
+{143}{}{Atividade não autorizada detectado no computador principal do complexo. Alerta de segurança. Alerta de segurança.}
+{144}{}{Iniciar o programa de boas-vindas.}
+{145}{}{Merda!}
+{146}{}{Sistema de segurança de Travamento em Andamento.}

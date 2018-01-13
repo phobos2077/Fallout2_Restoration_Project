@@ -1,82 +1,82 @@
-{100}{}{You see a man in a military uniform.}
-{101}{}{You see Quincy, the mechanic.}
-{102}{}{You see a man in a military uniform. Judging by the grease spots you think
- he is more of a mechanic than a soldier.}
-{103}{}{Name's Quincy, soldier. Why are you tapping my shoulder and looking lost?}
-{104}{}{Me need ask you something.}
+{100}{}{Você vê um homem com um uniforme militar.}
+{101}{}{Você vê Quincy, o mecânico.}
+{102}{}{Você vê um homem com um uniforme militar. A julgar pelas manchas de graxa você acha
+ele é mais mecânico do que um soldado.}
+{103}{}{Nome Quincy, soldado. Por que você está batendo no meu ombro e está perdido?}
+{104}{}{Me preciso perguntar uma coisa.}
 {105}{}{Nada.}
-{106}{}{Hi. I need to ask you something.}
+{106}{}{Olá. Eu preciso perguntar uma coisa.}
 {107}{}{Não importa.}
-{108}{}{All right, but make it quick. I have inventory to do.}
-{109}{}{What do you need to know?}
+{108}{}{Tudo bem, mas faça isso rápido. Tenho estoque para fazer.}
+{109}{}{O que você precisa saber?}
 {110}{}{O que este lugar?}
-{111}{}{Me look for vertibird plans. Where find?}
-{112}{}{Me told by tech me find vertibird plans here.}
+{111}{}{- Me olhar para vertibird planos. Onde encontrar?}
+{112}{}{Técnico disse eu encontrar planos de vertibird aqui.}
 {113}{}{Eu vou agora.}
 {114}{}{O que é este lugar?}
-{115}{}{I'm looking for vertibird plans. Do you know where I can find them?}
-{116}{}{I was told by a tech that I could find the vertibird plans here.}
-{117}{}{Well, got to go.}
-{118}{}{This is maintenance. We repair pretty much anything except for the vertibirds.}
-{119}{}{Where vertibird get repair?}
-{120}{}{Where do the vertibirds get repaired?}
-{121}{}{They only fit in the hangar or outdoors. You figure it out from there, okay?}
-{122}{}{Oh... okay.}
-{123}{}{Oh, yeah. I get it.}
-{124}{}{Well... I've got a copy of the plans but I can't just hand them out to
- anyone who asks for them. What do you want with them?}
-{125}{}{Me got friends down south who want.}
-{126}{}{Uh... well...}
-{127}{}{I've got some friends down south who want to get their hands on them.}
-{128}{}{I was told by the Sarge to get them.}
-{129}{}{Down south... Holy shit! We've got a spy here! Guards! Alert!}
+{115}{}{Estou à procura de planos vertibird. Você sabe onde eu posso encontrá-los?}
+{116}{}{Foi-me dito por um técnico que eu poderia encontrar os planos vertibird aqui.}
+{117}{}{Bem, tenho que ir.}
+{118}{}{Isso é manutenção. Reparamos praticamente qualquer coisa, exceto os vertibirds.}
+{119}{}{Onde o vertibird é reparado?}
+{120}{}{Onde os vertibirds são reparados?}
+{121}{}{Eles apenas se encaixam no hangar ou ao ar livre. Você descobriu a partir daí, ok?}
+{122}{}{Ah... tudo bem.}
+{123}{}{Oh, sim. Eu entendi.}
+{124}{}{Bem ... eu tenho uma cópia dos planos, mas não posso apenas entregá-los para
+  qualquer pessoa que os solicite. O que você quer com eles?}
+{125}{}{Me tem amigos lá no sul que querem.}
+{126}{}{Uh... bem...}
+{127}{}{Tenho alguns amigos no sul que querem colocar as mãos sobre eles.}
+{128}{}{Foi-me dito pelo Sarge para obtê-los.}
+{129}{}{Mais para o sul... puta merda! Temos um espião aqui! Guardas! Alerta!}
 {130}{}{Opa.}
-{131}{}{Ooops. Put my foot in it this time.}
-{132}{}{You're one round short of a full clip, aren't you? Well, they call you
- grunts for a reason. Look, Einstein, I can't give you the plans without
- authorization, okay? So, go back to whoever sent you here and get the proper
- paperwork.}
-{133}{}{Look, Einstein, I can't give you the plans without authorization, okay?
- So, go back to whoever sent you here and get the proper paperwork.}
+{131}{}{Ooops. Atolei meu pé dessa vez.}
+{132}{}{Você está a uma curta distância de um clipe completo, não é? Bem, eles te chamam
+  grunhidos por um motivo. Olha, Einstein, não posso te dar os planos sem
+  autorização, está bem? Então, volte para quem o enviou aqui e obtenha a
+  papelada.}
+{133}{}{Olha, Einstein, eu não posso dar-lhe os planos, sem autorização, ok? Então, vá de volta para quem enviou você aqui e pegue a documentação necessária.}
 {134}{}{Ok, eu vou.}
-{135}{}{No, me shoot you first, find plans second, then... what come after two?}
-{136}{}{Hey, you got it.}
-{137}{}{No, I think I'll shoot you instead and look around for the plans while
- you bleed.}
-{138}{}{A tech told you... You mean Raul? Did he send you?}
-{139}{}{Uh, yeah.}
-{140}{}{Uh, no.}
-{141}{}{Yeah, that's the guy.}
-{142}{}{No, I don't think it was Raul.}
-{143}{}{Damn it! You know, Raul would lose his head if it weren't placed so
- firmly up his ass! This is the third time this quarter that he's lost those
- plans! And now he doesn't even have the brass bouncing balls to come to me
- and ask for them? Fine, they're in the locker over there. Oh and, when you
- deliver them, tell that asshole I want to see him.}
+{135}{}{Não, me atirar em você, primeiro, encontrar planos de segundo, e então... o que vem depois de dois?}
+{136}{}{Ei, você entendeu.}
+{137}{}{Não, acho que vou atirar em você e olhar em volta para os planos enquanto
+  você sangra.}
+{138}{}{Uma tecnico disse ... Você quer dizer Raul? Ele enviou você?
+}
+{139}{}{Uh... sim.}
+{140}{}{Uh, não.}
+{141}{}{Sim, esse é o cara.}
+{142}{}{Não, eu não acho que foi Raul.}
+{143}{}{Droga! Você sabe, Raul perderia a cabeça se não fosse colocada tão
+  firmemente na sua bunda! Esta é a terceira vez que ele perdeu aqueles
+  planos! E agora ele nem sequer tem as bolas para vir até mim
+  e pedir por eles? Tudo bem, eles estão no armário lá. Ah, e quando você
+  entregar a ele, conte a esse idiota que eu quero vê-lo.}
 {144}{}{Obrigado.}
-{145}{}{So you're back. Did you get the authorization?}
-{146}{}{You again? What is it now?}
-{147}{}{Yeah, me got plasma rifle. That good enough me!}
+{145}{}{Então você está de volta. Você conseguiu a autorização?}
+{146}{}{Você de novo? O que é isso agora?}
+{147}{}{Sim, eu tenho um rifle de plasma. Que é bom o suficiente para mim!}
 {148}{}{Não, ainda não.}
-{149}{}{Yeah, I've got a big fucking gun. That's good enough for me!}
+{149}{}{Sim, tenho uma grande e foda arma. Isso é bom o suficiente para mim!}
 {150}{}{Não, ainda não.}
-{151}{}{Me ask you something.}
-{152}{}{Me just say 'Hi'.}
-{153}{}{I need to ask you something.}
-{154}{}{Nothing, just saying 'Hi'.}
-{155}{}{Are you nuts? Walking around here out of uniform? Get suited up!}
+{151}{}{- Me perguntar-lhe algo.}
+{152}{}{- Me apenas dizer 'Oi'.}
+{153}{}{Eu preciso perguntar uma coisa.}
+{154}{}{Nada, apenas dizendo 'Oi'.}
+{155}{}{Você é louco? Andando aqui fora de uniforme? Seja adequado!}
 {156}{}{Se o sargento o pegar fora do uniforme, ele vai entregar seu traseiro.}
 {157}{}{Por que você está fora de uniforme?}
 {158}{}{Puta merda! Estamos sendo invadidos! Alerta!}
 {159}{}{Intrusos! Chamar a guarda!!}
-{160}{}{Guard! Intruders in maintenance!}
+{160}{}{Guarda! Intrusos na manutenção!}
 {161}{}{O que é? Estamos sob ataque?}
 {162}{}{Por isso o alerta? O que está acontecendo?}
 {163}{}{O que diabos está acontecendo?}
-{164}{}{Hey! Don't be rummaging through those drawers.}
-{165}{}{I told you not to go through my stuff! Guards!}
-{200}{}{Yeah. Well, don't believe everything you hear.}
+{164}{}{Hey! Não se atreva a vasculhar as gavetas.}
+{165}{}{Eu lhe disse para não mexer com as minhas coisas! Guardas! }
+{200}{}{Sim. Bem, não acredite em tudo que você ouve.}
 {201}{}{Who told you that? 'Cause he's next after I knock some sense into you.}
 {300}{}{Can't you see that I am busy?}
 {301}{}{Hey! Don't be rummaging through those drawers!}
-{302}{}{I told you not to go through my stuff! Guards!}
+{302}{}{Eu lhe disse para não mexer com as minhas coisas! Guardas! }

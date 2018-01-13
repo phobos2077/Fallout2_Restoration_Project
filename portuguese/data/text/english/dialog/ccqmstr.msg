@@ -1,44 +1,44 @@
-{100}{}{You see someone in power armor.}
-{101}{}{You see the Quartermaster.}
-{102}{}{You see someone wearing power armor of an unusual design.
- There is an insignia on the breastplate that you are unfamiliar with.}
+{100}{}{Você vê alguém na armadura de energia.}
+{101}{}{Você vê o intendente.}
+{102}{}{Você vê alguém vestindo uma armadura de poder de um design incomum.
+  Há uma insígnia no peitoral a qual você não conhece.}
 {103}{}{Quem diabos são vocês... Alerta! Intrusos na base!}
-{104}{}{What the... I can see why you're here. You obviously want
- to get rid of that antique suit you're wearing.}
-{105}{}{Why are you out of uniform, soldier?}
+{104}{}{O que ... Eu posso ver por que você está aqui. Você obviamente quer
+  se livrar desse terno antigo que você está vestindo.}
+{105}{}{Por que você está fora de uniforme, soldado?}
 {106}{}{Morra!}
-{107}{}{Uh, yeah...}
+{107}{}{Uh... sim.}
 {108}{}{Uh...}
-{109}{}{Me new here.}
-{110}{}{Me not one you soldiers!}
-{111}{}{Uh, well...}
-{112}{}{I'm new here.}
-{113}{}{I'm not one of your soldiers!}
-{114}{}{Uh, what? Can't think of a good excuse? I'm waiting, soldier!}
-{115}{}{Me not have uniform yet.}
-{116}{}{I don't have a uniform yet.}
-{117}{}{You're a bit on the slow side, aren't you? (sigh) Well, that's
- not your fault. I have a brother just like you. Anyway, are you new here?
- I don't recall seeing you before.}
-{118}{}{Are you new here? I don't recall seeing you before.}
-{119}{}{Yes! Me new here!}
-{120}{}{Yes, I'm new here.}
-{121}{}{Well, you'll need your standard issue, then. Go into the armory,
- suit up, and take your weapon. You should report to the Drill Sergeant
- afterwards.}
+{109}{}{Eu novo aqui.}
+{110}{}{Eu não sou um soldado!}
+{111}{}{Hum, bem...}
+{112}{}{Eu sou novo aqui.}
+{113}{}{Eu não sou um de seus soldados!}
+{114}{}{Uh, o que? Não pode pensar em uma boa desculpa? Eu estou esperando, soldado!}
+{115}{}{Ainda não tenho uniforme.}
+{116}{}{Eu não tenho um uniforme ainda.}
+{117}{}{Você é um pouco do lento, não é? (suspiro) Bem, isso é
+  não é sua culpa. Eu tenho um irmão como você. De qualquer forma, você é novo aqui?
+  Não lembro de te ver antes.}
+{118}{}{Você é novo por aqui? Eu não lembro de ter visto você antes.}
+{119}{}{Sim! Eu novo aqui!}
+{120}{}{Sim, eu sou novo aqui.}
+{121}{}{Bem, você precisa cuidar do seu problema padrão, então. Vá para o arsenal,
+  prepare-se e tire sua arma. Você deve se reportar ao sargento Drill
+  depois.}
 {122}{}{Obrigado!}
-{123}{}{You're welcome. Now get out of here. I've got work to do and I
- don't want to be disturbed.}
-{124}{}{I'm busy right now. Come back later.}
-{125}{}{Hello, recruit. I just got a call from your Sergeant. He says
- I'm to suit you up and send you back to him. That right?}
+{123}{}{Seja bem-vindo. Agora sai daqui. Tenho trabalho a fazer e eu
+  não quer ser perturbado.}
+{124}{}{Eu estou ocupado agora. Volte mais tarde.}
+{125}{}{Olá, recrute. Acabei de receber uma chamada do seu sargento. Ele diz
+  Eu devo te equipar e mandar de volta para ele. Esta certo?}
 {126}{}{Sim.}
-{127}{}{This base is on alert and I don't recognize you. Show me your
- papers, soldier.}
+{127}{}{Esta base está em alerta e não reconheço você. Me mostre seu
+  papéis, soldado.}
 {128}{}{Não Me têm papéis em mim.}
 {129}{}{Não Me precisa papeis! }
 {130}{}{não tenho meus papéis comigo. Eles estão na minha maleta.}
 {131}{}{Papéis? Eu tenho os papéis aqui!}
-{132}{}{Wrong answer. You're to carry your papers with you at all times
- and you should know that!}
+{132}{}{Resposta errada. Você deve levar seus papéis com você em todos os momentos
+  e você deve saber disso!}
 {133}{}{Oops.}
