@@ -60,6 +60,6 @@
 {161}{}{Não, ainda não. Eu vou buscar.}
 {162}{}{Okay, certo. Eu lhe digo que a equipe de limpeza está chegando e então você mágicamente se torna um deles.
   Você nem me deixou a vista. Você acha que eu sou um idiota? Saia daqui!}
-{200}{}{(speaking to self) Commander. (pause) Are you there Commander? (pause) Hmm...No response. That's not like him at all.
- I better go check on him.}
-{201}{}{(Holy shit the Commander is dead! Sound the alarms we have an intruder!!}
+{200}{}{(falando para si mesmo) Comandante. (pausa) Você está ai Comandante? (pausa) Hmm ... Sem resposta. Isso não é dele.
+  É melhor eu verificá-lo.}
+{201}{}{Puta merda, o Comandante está morto! Som, alarmes, temos um intruso!!}
