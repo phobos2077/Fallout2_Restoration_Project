@@ -114,12 +114,12 @@ Eu vou... Sim, bem, eu tenho algumas coisas para fazer.}
 {182}{}{Eu suponho que seria através do alçapão no chão do meu quarto. Apenas vá e me deixe estar.}
 {183}{}{Ok, eu vou.}
 {184}{}{Tudo bem. Eu vou fazer isso.}
-{185}{}{I know they fly over here from time to time. They're usually heading
- south toward San Fran. If you're interested in vertibirds, I'd head there.}
-{186}{}{Okay, me try there.}
-{187}{}{Me have friends who want me find vertibirds. Friends say vertibirds
- come here.}
-{188}{}{Okay, I'll head that way.}
+{185}{}{Eu sei que eles voam aqui de vez em quando. Eles geralmente estão indo
+  Sul em direção a San Fran. Se você estiver interessado em vertibirds, eu iria lá.}
+{186}{}{Ok, vou tentar lá.}
+{187}{}{Me tem amigos quem quiser me encontrar vertibirds. Amigos dizem vertibirds
+vir aqui.}
+{188}{}{Ok, eu irei por aí.}
 {189}{}{Look, I have some friends who want me to find vertibirds. They say
  they come from here.}
 {190}{}{Enclave? That a group or something? That don't ring no chimes
