@@ -12,7 +12,7 @@
 {231}{}{Don't touch that again.}
 {232}{}{Back off!}
 {233}{}{Leave that alone.}
-{234}{}{What do you think you're doing?}
+{234}{}{O que você pensa que está fazendo?}
 {240}{}{Thief!}
 {250}{}{We don't tolerate that here.}
 {300}{}{Baby, you up for something after work?}

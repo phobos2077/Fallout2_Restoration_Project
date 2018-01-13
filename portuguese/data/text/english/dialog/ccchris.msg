@@ -1,121 +1,119 @@
 {100}{}{Você vê um homem velho.}
 {101}{}{Você vê Chris, o atendente da posse de gasolina.}
 {102}{}{Você vê um homem idoso desgastando com um manto roxo.}
-{103}{}{Howdy, stranger. Whoa baby! Check out that set of wheels. Ain't seen one
- of those in years. What can old Chris do for you?}
-{104}{}{Howdy, stranger. Ain't seen you around these parts before. What can old
- Chris do for you?}
+{103}{}{Howdy, estranho. Whoa baby! Confira esse conjunto de rodas. Não é visto um
+  de anos em anos. O que o velho Chris pode fazer por você?}
+{104}{}{Olá, estranho. Não viu você em torno destas peças antes. O que pode o antigo Chris fazer por você?}
 {105}{}{O que este lugar?}
-{106}{}{Me look for Navarro. This it?}
-{107}{}{You see metal bird fly here?}
-{108}{}{You hear Enclave? They here?}
-{109}{}{Me just look around.}
+{106}{}{Eu busco Navarro. É isso?}
+{107}{}{Você vê o pássaro de metal voar aqui?}
+{108}{}{Você ouve Enclave? Eles aqui?}
+{109}{}{Me basta olhar ao redor.}
 {110}{}{O que é este lugar?}
-{111}{}{I'm looking for Navarro. Is this it?}
-{112}{}{Have you seen any vertibirds fly through here?}
-{113}{}{Ever hear of the Enclave? Are they around here?}
-{114}{}{I'm just looking around.}
-{115}{}{This here's my place, Chris's. It's a service station - ain't you ever
- seen one of those, in old magazines and such? That's what I got here - a service
- station.}
-{116}{}{Me look for Navarro. This it?}
-{117}{}{You see metal bird fly here?}
-{118}{}{You hear Enclave? They here?}
-{119}{}{Uh... me got go.}
-{120}{}{I'm looking for Navarro. Is this it?}
-{121}{}{Have you seen any vertibirds fly through here?}
-{122}{}{Ever hear of the Enclave? Are they around here?}
-{123}{}{Sorry, got to go.}
-{124}{}{Navarro? Ain't heard that name in ages. Old military base southeast of
- San Fran, and that's a ways south of here.}
-{125}{}{Me been there. It not Navarro.}
-{126}{}{Okay. Me thank. Me look there.}
-{127}{}{You lie me. Me know Navarro here. You tell truth or me make you sorry!}
-{128}{}{I've been there and that's not Navarro.}
-{129}{}{Okay. I'll take a look there. Thanks.}
-{130}{}{You're lying. I know that Navarro's here. Tell me the truth or you'll
- be sorry!}
-{131}{}{Huh? Uh... Well sure it is. I heard tell of it a while back! Navarro
- military base, southeast of San Francisco.}
-{132}{}{You lie me. Me no got patience. You tell truth or me make you sorry!}
-{133}{}{You lie. I don't have the patience for this. Tell me the truth or
- you'll be sorry.}
-{134}{}{Fuck you! (takes a radio out of robe) You want to see sorry? I got
- some boys who'll show you a whole new meaning for the word! (starts to turn the radio on)}
-{135}{}{Me kill you dead!}
-{136}{}{What you do now?}
-{137}{}{Me gone.}
-{138}{}{That's a bad move, partner.}
-{139}{}{What do you think you're doing?}
-{140}{}{Hey, I'm outta here.}
-{141}{}{(speaking into radio) Alert! We got an intruder at the station! Alert!}
+{111}{}{Estou procurando Navarro. É isso?}
+{112}{}{Você já viu algum vertibirds voar por aqui?}
+{113}{}{Já ouviu falar do Enclave? Eles estão por aqui?}
+{114}{}{Eu estou apenas olhando ao redor.}
+{115}{}{Este é o meu lugar, Chris's. É uma estação de serviço - você nunca havia
+  visto um desses, em revistas antigas e outras? Foi assim que eu cheguei aqui - uma estação de 
+serviço.}
+{116}{}{Eu busco Navarro. É isso?}
+{117}{}{Você vê o pássaro de metal voar aqui?}
+{118}{}{Você ouve Enclave? Eles aqui?}
+{119}{}{Uh... eu tenho de ir.}
+{120}{}{Estou procurando Navarro. É isso?}
+{121}{}{Você já viu algum vertibirds voar por aqui?}
+{122}{}{Já ouviu falar do Enclave? Eles estão por aqui?}
+{123}{}{Desculpe, tenho que ir.}
+{124}{}{Navarro? Não é ouvido esse nome em tempos. Antiga base militar ao sudeste de
+  San Fran, e esse é um caminho ao sul daqui.}
+{125}{}{Eu estava lá. Não é Navarro.}
+{126}{}{Tudo bem. Me agradecer. Me olhe lá.}
+{127}{}{Você mentir-me. - Me saber Navarro aqui. Você diga a verdade ou me fazer você se arrepender!}
+{128}{}{Estive lá e não é Navarro.}
+{129}{}{Tudo bem. Vou dar uma olhada lá. Obrigado.}
+{130}{}{Você está mentindo. Eu sei que Navarro está aqui. Diga-me a verdade ou você vai
+  se arrepender!}
+{131}{}{Hã? Uh ... Certeza de que sim. Ouvi dizer que há um tempo atrás! Navarro
+  base militar, a sudeste de São Francisco.}
+{132}{}{Você mentir-me. Não Me tenho paciência. Você diga a verdade ou me fazer você se arrepender!}
+{133}{}{É mentira. Eu não tenho paciência para isso. Diga-me a verdade ou
+você vai se arrepender.}
+{134}{}{Foda-se! (tira um rádio da túnica) Quer ver desculpa? Eu tenho
+  alguns meninos que lhe mostrarão um novo significado para a palavra! (começa a ligar o rádio)}
+{135}{}{- Me matar-te morto!}
+{136}{}{O que fazer agora?}
+{137}{}{Eu ir embora.}
+{138}{}{Isso é uma má jogada, parceiro.}
+{139}{}{O que você pensa que está fazendo?}
+{140}{}{Ei, estou fora daqui.}
+{141}{}{(falando no rádio) Alerta! Temos um intruso na estação! Alerta!}
 {142}{}{[FEITO]}
-{143}{}{Well, nice talking with you. Here's some advice though - ain't nothing
- in these parts except wasteland and radiation. Civilization's south of here. I'd be heading that way if I was you.}
+{143}{}{Bem, bom conversar com você. Aqui está um conselho - não ha nada
+  nessas partes, exceto terrenos baldios e radiações. Civilização ao sul da daqui. Eu estaria indo assim se eu fosse você.}
 {144}{}{Obrigado.}
-{145}{}{Metal birds? Oh, you must mean vertibirds. Now why would you be
- asking about them here?}
-{146}{}{Vertibirds? That's an interesting subject. Now why would you be
- asking about them here?}
-{147}{}{Shaman say metal bird take village, fly Navarro. Me try find.}
-{148}{}{People interested. Me try find for them.}
-{149}{}{You know about? What you know?}
-{150}{}{The shaman of my tribe told me these vertibirds stole our people.
- I'm here to find them.}
-{151}{}{I know some people who are interested in vertibirds. I'm trying
- to locate them for them.}
-{152}{}{So you know about vertibirds. Tell me what you know.}
-{153}{}{Shaman? Look here; if your shaman says he sees things flying around
- and scooping up people then he's been sniffing too many herbs. Got it?}
-{154}{}{Hakunin great shaman. If he say he see then he see.}
-{155}{}{Hakunin was a great shaman. If he says he saw vertibirds, then he
- saw them!}
-{156}{}{Well, that doesn't mean anything to me, but in case I see one of
- these vertibirds, whom should I be telling?}
-{157}{}{You tell me. Me be around.}
-{158}{}{Tell Shi.}
-{159}{}{Tell Brotherhood of Steel.}
-{160}{}{Tell Hubologists.}
-{161}{}{Take pick. You tell Shi or Brotherhood of Steel or Hubologists.
- Everybody interested.}
-{162}{}{You tell me. I'll be around.}
-{163}{}{You can tell the Shi.}
-{164}{}{You can tell the Brotherhood of Steel.}
-{165}{}{You can tell the Hubologists.}
-{166}{}{Take your pick. You can tell the Shi or the Brotherhood of Steel
- or the Hubologists. Everybody seems to be interested in vertibirds.}
-{167}{}{The Shi, huh? Well if you say so. I'll send word to 'em down in
- Chiny town. Meanwhile, I got things to do.}
-{168}{}{Wait. Me have strong friends. They say Navarro here. You tell
- where or things get messy!}
-{169}{}{Wait a minute, pal. Obviously, I've got some powerful friends and
- they tell me Navarro is here. Now you tell me where or things will get messy!}
-{170}{}{The Brotherhood... Uh, yeah, well, I'll do just that. Meanwhile,
- I got things to do.}
-{171}{}{Wait. Me have strong friends. They say Navarro here. You tell
- where or things get messy!}
-{172}{}{Wait a minute, pal. Obviously, I've got some powerful friends and
- they tell me Navarro is here. Now you tell me where or things will get messy!}
-{173}{}{The Hubs? Yeah, sure, I'll send word if something comes up.
- Meanwhile, I got things to do.}
-{174}{}{Wait. Me have strong friends. They say Navarro here. You tell
- where or things get messy!}
-{175}{}{Wait a minute, pal. Obviously, I've got some powerful friends and
- they tell me Navarro is here. Now you tell me where or things will get messy!}
-{176}{}{Damn, that's a hell of a list... Uh, well, if something comes up
- I'll... Yeah, well, I got some things to do.}
-{177}{}{Wait. Me have strong friends. They say Navarro here. You tell where
- or things get messy!}
-{178}{}{Wait a minute, pal. Obviously, I've got some powerful friends and they
- tell me Navarro is here. Now you tell me where or things will get messy!}
-{179}{}{Uh... Hey, I'm just told to shy off visitors and such. I don't want
- the kind of trouble you're talking.}
-{180}{}{Then tell best way in base... now!}
-{181}{}{Then I would suggest you tell me the best way into the base... now!}
-{182}{}{I suppose that would be through the trap door in the floor of my room.
- Just go and leave me be.}
+{145}{}{Pássaros de metal? Oh, você deve se referir ao vertibirds. Agora, por que você estaria
+  perguntando sobre eles aqui?}
+{146}{}{Vertibirds? Esse é um assunto interessante. Agora, por que você estaria
+  perguntando sobre eles aqui?}
+{147}{}{Shaman diz que o pássaro de metal leva vila, voa Navarro. Eu tenta encontrar.}
+{148}{}{As pessoas interessadas. - Me tentar encontrar para eles.}
+{149}{}{Você sabe a respeito? O que você sabe?}
+{150}{}{O xamã da minha tribo contou-me que esses pássaros torrenços roubaram nosso povo.
+  Estou aqui para encontrá-los.}
+{151}{}{Conheço algumas pessoas interessadas em vertibirds. estou tentando
+  localizá-los para eles.}
+{152}{}{Então você sabe sobre vertibirds. Diga-me o que você sabe.}
+{153}{}{Xamã? Olhe aqui; Se o xamã diz que vê as coisas voarem ao redor
+  e pegando pessoas, ele está cheirando muitas ervas. Entendeu?}
+{154}{}{Hakunin grande xamã. Se ele disser que ele vê, então, ele vê.}
+{155}{}{Hakunin foi um grande xamã. Se ele diz que viu vertibirds, então ele
+vi-os!}
+{156}{}{Bem, isso não significa nada para mim, mas no caso de eu ver um 
+destes vertibirds, a quem eu deveria dizer?}
+{157}{}{Diga-me você. Me estar ao redor.}
+{158}{}{Dizer-Shi.}
+{159}{}{Diga a Irmandade do Aço.}
+{160}{}{Diga Hubologistas.}
+{161}{}{Pegue a escolha. Você diz a Shi ou à Irmandade do Aço ou Hubologistas.
+  Todos estão interessados.}
+{162}{}{Diga a mim. Estarei por perto.
+}
+{163}{}{Você pode dizer aos Shi.}
+{164}{}{Você pode dizer que a Irmandade do Aço.}
+{165}{}{Você pode dizer aos Hubologistas.}
+{166}{}{Faça a sua escolha. Você pode dizer aos Shi ou a Irmandade do Aço ou os Hubologistas. Todo mundo parece estar interessado em vertibirds.}
+{167}{}{O Shi, hein? Bem, se você diz. Vou enviar-lhes as palavras para dentro de
+  Chiny town. Enquanto isso, eu tenho coisas para fazer.}
+{168}{}{Esperar. Eu tenho amigos fortes. Eles dizem Navarro aqui. Você conta
+  Onde ou coisas ficam bagunçantes!}
+{169}{}{Aguarde um minuto, amigo. Obviamente, eu tenho alguns amigos poderosos e
+  Eles me contam que Navarro está aqui. Agora você me diz onde ou as coisas ficarão bagunçadas!}
+{170}{}{A Irmandade ... Uh, sim, bem, vou fazer exatamente isso. Enquanto isso,
+  Eu tenho coisas para fazer.}
+{171}{}{Esperar. Eu tenho amigos fortes. Eles dizem Navarro aqui. Você conta
+  Onde ou coisas ficam bagunçantes!}
+{172}{}{Aguarde um minuto, amigo. Obviamente, eu tenho alguns amigos poderosos e
+  Eles me contam que Navarro está aqui. Agora você me diz onde ou as coisas ficarão bagunçadas!}
+{173}{}{Os Hubs? Sim, com certeza, eu vou enviar uma palavra se algo surge.
+Enquanto isso, eu tenho coisas para fazer.}
+{174}{}{Esperar. Eu tenho amigos fortes. Eles dizem Navarro aqui. Você conta
+  Onde ou coisas ficam bagunçantes!}
+{175}{}{Aguarde um minuto, amigo. Obviamente, eu tenho alguns amigos poderosos e
+  Eles me contam que Navarro está aqui. Agora você me diz onde ou as coisas ficarão bagunçadas!}
+{176}{}{Porra, isso é um inferno de uma lista de... Uh, bem, se algo vem
+Eu vou... Sim, bem, eu tenho algumas coisas para fazer.}
+{177}{}{Esperar. Eu tenho amigos fortes. Eles dizem Navarro aqui. Você diz onde
+  ou as coisas ficam bagunçantes!}
+{178}{}{Aguarde um minuto, amigo. Obviamente, eu tenho alguns amigos poderosos e eles
+  dizem-me que Navarro está aqui. Agora você me diz onde ou as coisas ficarão bagunçadas!}
+{179}{}{Uh ... Ei, acabei me dizendo para evitar visitantes e outros. Eu não quero
+  o tipo de problema que você está falando.}
+{180}{}{Então diga melhor caminho na base ... agora!}
+{181}{}{Então eu sugiro que você diga-me o melhor caminho para a base... agora!}
+{182}{}{Eu suponho que seria através do alçapão no chão do meu quarto. Apenas vá e me deixe estar.}
 {183}{}{Ok, eu vou.}
-{184}{}{All right. I'll do that.}
+{184}{}{Tudo bem. Eu vou fazer isso.}
 {185}{}{I know they fly over here from time to time. They're usually heading
  south toward San Fran. If you're interested in vertibirds, I'd head there.}
 {186}{}{Okay, me try there.}
@@ -169,12 +167,12 @@
 {223}{}{You use that radio and I'll make you sorry!}
 {224}{}{Fuck you! You want to see sorry? I got some boys who'll show you a
  whole new meaning for the word! (starts to turn the radio on)}
-{225}{}{Me kill you dead!}
-{226}{}{What you do now?}
-{227}{}{Me gone.}
-{228}{}{That's a bad move, partner.}
-{229}{}{What do you think you're doing?}
-{230}{}{Hey, I'm outta here.}
+{225}{}{- Me matar-te morto!}
+{226}{}{O que fazer agora?}
+{227}{}{Eu ir embora.}
+{228}{}{Isso é uma má jogada, parceiro.}
+{229}{}{O que você pensa que está fazendo?}
+{230}{}{Ei, estou fora daqui.}
 {231}{}{Yeah, right.}
 {232}{}{He's pulling out a radio. He's going to alert the whole base! I've got to deal with him quickly.}
 {233}{}{Oh, no. Man pull out talkie box. He tell on me. Must stop him.}

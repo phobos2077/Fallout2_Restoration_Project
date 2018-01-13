@@ -58,7 +58,7 @@
 {393}{}{Too bad Frankie's gone. He knew how to party.}
 {394}{}{You got quite a temper. What'd Frankie do to you?}
 {395}{}{Frankie insult your mom or something?}
-{410}{}{I'm just looking around.}
+{410}{}{Eu estou apenas olhando ao redor.}
 {411}{}{I'm not sure what I'm looking for.}
 {412}{}{Tubby sure goes through a lot of Jet.}
 {413}{}{You see anything good?}
