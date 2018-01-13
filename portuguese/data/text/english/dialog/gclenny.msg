@@ -7,7 +7,7 @@
 {113}{}{Hello there. I j'just can't g'get over h'how much you look like the Vault Dweller. Wh'what
  c'can I do for you?}
 {114}{}{Grenny? Heewo.}
-{115}{}{What do you do here?}
+{115}{}{O que você faz aqui?}
 {116}{}{I'm wounded. Can you help me?}
 {117}{}{One of my friends is hurt. Can you help them?}
 {118}{}{My friends are hurt. Can you help them?}

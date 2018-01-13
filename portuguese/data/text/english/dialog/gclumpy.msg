@@ -8,7 +8,7 @@
 {114}{}{By God, you are just as dumb as you look.}
 {120}{}{Hello there. My name's Lumpy.}
 {121}{}{That's sort of an unusual name. How did you come by it?}
-{122}{}{What do you do here?}
+{122}{}{O que você faz aqui?}
 {123}{}{That's nice, Lumpy. Uh, I've got to be going now.}
 {130}{}{Well, my real name's John -- but everyone here just calls me Lumpy.}
 {131}{}{Why Lumpy?}
@@ -17,7 +17,7 @@
  long as I have, you sure notice.}
 {141}{}{Yup. Downright fascinating. That's what they are.}
 {142}{}{Moo moos.}
-{143}{}{What do you do here?}
+{143}{}{O que você faz aqui?}
 {144}{}{That's really interesting. Who are you?}
 {145}{}{I'm curious about some things.}
 {146}{}{Nice to meet you. Goodbye.}
@@ -25,7 +25,7 @@
  stuff. I'm just here to help out.}
 {151}{}{Keeter. Heh, heh, heh.}
 {152}{}{Who're you?}
-{153}{}{What do you do here?}
+{153}{}{O que você faz aqui?}
 {154}{}{Eu tenho algumas perguntas para você.}
 {155}{}{Oh, okay. I'll talk to Skeeter then. Thanks.}
 {160}{}{Hello there. Since you've already invited yourself in -— what can I do for you?}
@@ -69,7 +69,7 @@
 {241}{}{Aren't you the curious one? Well, okay. What do you want to know?}
 {242}{}{What do you want to know now?}
 {243}{}{What's all that junk in the yard?}
-{244}{}{What do you do here?}
+{244}{}{O que você faz aqui?}
 {245}{}{Who's Skeeter?}
 {246}{}{Anything unusual going on around here?}
 {250}{}{Well, because they trade uranium to Vault City, too. Vault City treats anyone that's not a pure

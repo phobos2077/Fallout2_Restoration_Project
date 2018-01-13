@@ -70,7 +70,7 @@
 {169}{}{What do you think of Dr. Troy?}
 {170}{}{Can you tell me where the Central Computer is?}
 {171}{}{I need some healing.}
-{172}{}{What do you do here?}
+{172}{}{O que você faz aqui?}
 {173}{}{Can you tell me about Vault City?}
 {174}{}{Actually, never mind. Thanks anyway.}
 {175}{}{Oh, Dr. Troy can be pretty strict sometimes, but all in all, he's a good man. Vault City's fortunate to have him.}

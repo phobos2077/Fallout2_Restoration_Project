@@ -63,7 +63,7 @@
 {162}{}{I have no idea. Goodbye.}
 {163}{}{Do not try my patience.}
 {164}{}{O que você quer?}
-{165}{}{What do you do here?}
+{165}{}{O que você faz aqui?}
 {166}{}{I'm here to obtain fuel for the Poseidon Oil Tanker.}
 {167}{}{I'm here to obtain fuel for the Hubologists.}
 {168}{}{Nothing. Sorry.}

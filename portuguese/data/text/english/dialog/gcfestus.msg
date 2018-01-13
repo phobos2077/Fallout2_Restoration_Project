@@ -11,7 +11,7 @@
  down. I'm a very busy man. They really overwork me here.}
 {121}{}{I've got so much to do here. I could really use a break. But, you know, nobody else can run the
  atomic power plant. I'm harnessing the power of the atom, you know. Really tires a fellow out.}
-{122}{}{What do you do here?}
+{122}{}{O que você faz aqui?}
 {123}{}{I understand that the reactor isn't running very well. Is that true?}
 {124}{}{Why do you look -- and smell -- as though you're falling apart?}
 {125}{}{Well, I wouldn't want to take up your valuable time. I'll just be on my way. Goodbye.}

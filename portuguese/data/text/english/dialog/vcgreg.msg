@@ -30,7 +30,7 @@
 {129}{}{*Tchh* Those Servants seem to get stupider every day.}
 {130}{}{I am Proconsul Gregory. Is this the office you were looking for, or...?}
 {131}{}{"Proconsul?" What the hell is a "Proconsul?"}
-{132}{}{What do you do here?}
+{132}{}{O que você faz aqui?}
 {133}{}{Just looking around, thanks.}
 {134}{}{I am the ASSISTANT to the First Citizen. I schedule her appointments, administer the Citizenship test to potential applicants, and update all the lists on the Vault City server. No small task, I assure you.}
 {135}{}{The Citizenship test?}

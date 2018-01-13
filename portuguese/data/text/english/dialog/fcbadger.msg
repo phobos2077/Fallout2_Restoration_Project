@@ -6,7 +6,7 @@
 {105}{}{You who?}
 {106}{}{Quem é você?}
 {107}{}{Can you tell me about this tanker?}
-{108}{}{What do you do here?}
+{108}{}{O que você faz aqui?}
 {109}{}{I'd like you to hack into a computer for me.}
 {110}{}{How's the hacking coming?}
 {111}{}{Nothing. Nice belch.}

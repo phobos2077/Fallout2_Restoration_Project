@@ -5,14 +5,14 @@
 {103}{}{Stop. You not go here. This place off limits.}
 {104}{}{Okay. Me go.}
 {105}{}{O que este lugar?}
-{106}{}{Who you?}
+{106}{}{Quem é você?}
 {107}{}{All right, I'll leave}
 {108}{}{I go where I please, lizard breath!}
 {109}{}{O que é este lugar?}
 {110}{}{Quem é você?}
 {111}{}{This hatchery. Pack mother inside. Eggs inside. I guard. All of pack guard.}
 {112}{}{Me want talk mother.}
-{113}{}{Who you?}
+{113}{}{Quem é você?}
 {114}{}{Eu vou agora.}
 {115}{}{I'll be leaving then.}
 {116}{}{Quem é você?}

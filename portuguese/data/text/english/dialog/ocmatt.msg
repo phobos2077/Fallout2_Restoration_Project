@@ -8,7 +8,7 @@
 {106}{}{Yes, I'd like to ask you some questions.}
 {107}{}{No, I'll be leaving.}
 {108}{}{O que você quer?}
-{109}{}{Who you?}
+{109}{}{Quem é você?}
 {110}{}{You prisoner?}
 {111}{}{Eu vou agora.}
 {112}{}{Quem é você?}

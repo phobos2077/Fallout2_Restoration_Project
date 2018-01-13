@@ -24,7 +24,7 @@
 {123}{}{What you think about D'claws?}
 {124}{}{Computer need part. You know where get?}
 {125}{}{Me know enough. Me go now.}
-{126}{}{What do you do here?}
+{126}{}{O que você faz aqui?}
 {127}{}{What's all this machinery for?}
 {128}{}{Isn't this the vault overseer room?}
 {129}{}{Are you here in the vault because you want to be?}

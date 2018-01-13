@@ -17,7 +17,7 @@
 {132}{}{OK, thanks.}
 {140}{}{I see you are adequately skilled in the ways of science. Maybe you could understand what I do here after all. What do you wish to know?}
 {141}{}{Why are you here?}
-{142}{}{What do you do here?}
+{142}{}{O que você faz aqui?}
 {150}{}{I'm sorry, but I don't believe you have the skills required to understand what I'm doing here. Come back when you're mentally tougher.}
 {151}{}{Whoa, just a minute. I'll have a go at anything you give me!}
 {152}{}{Well, all right then. Goodbye.}
@@ -30,7 +30,7 @@
 {181}{}{I most certainly am not. Try me.}
 {190}{}{<smiles> Well, maybe so. OK, if you wish, I'll give you a chance. What would you like to know then?}
 {191}{}{Why are you here?}
-{192}{}{What do you do here?}
+{192}{}{O que você faz aqui?}
 {200}{}{Why of course! Nobody to watch over me. No rules whatsoever. I do whatever I want, whenever I want. Also, with only me being left here, I have access to all the equipment I would ever need. Anything else?}
 {201}{}{Who are the people over there in those cages?}
 {202}{}{What's all the funny colored liquid I've seen around the EPA?}

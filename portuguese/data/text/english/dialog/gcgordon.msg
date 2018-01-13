@@ -40,7 +40,7 @@
 {191}{}{I don't see how that helps you.}
 {200}{}{Well, if our power plant's working better, we could trade our excess power and technical
  expertise to Vault City in exchange for medical technology. }
-{201}{}{And?}
+{201}{}{E?}
 {210}{}{Without more power Vault City will burn out their reactor within 15 years. If Gecko's reactor
  isn't repaired, we won't last half that time. Without medical technology, all of us Ghouls are going
  to die off in the next 20 years, anyway. Everyone loses if Vault City and Gecko don't cooperate.}

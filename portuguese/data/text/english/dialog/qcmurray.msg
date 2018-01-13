@@ -1,4 +1,4 @@
-{100}{}{You see a balding man in a lab coat.}
+{100}{}{Você vê um homem calvo em um bata de laboratório.}
 {101}{}{You see Tom Murray, the head of the Atomic Energy Commission.}
 {102}{}{You see a very nervous old man in a pristine lab coat.}
 {103}{}{My machine! My beautiful machine gone. (Sob, sob.)}

@@ -13,7 +13,7 @@
 {111}{}{Well, what you see here ain't really Vault City... you’re actually standing
  in the city's Courtyard.}
 {112}{}{Why aren’t you in the city?}
-{113}{}{What do you do here?}
+{113}{}{O que você faz aqui?}
 {114}{}{Can I ask you something else?}
 {115}{}{Obrigado. Adeus.}
 {116}{}{My family and I work a farm here in the Courtyard. We get by. Don’t know

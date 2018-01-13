@@ -1,4 +1,4 @@
-{100}{}{You see a scientist.}
+{100}{}{Você vê um cientista.}
 {150}{}{You see a stern-looking man with a clipboard and a hypodermic. He ignores you.}
 {151}{}{He looks extremely tired and irritable.}
 {152}{}{You see a tired -looking woman. She is checking a clipboard and looking around as

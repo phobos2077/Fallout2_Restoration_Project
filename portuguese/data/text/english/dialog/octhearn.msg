@@ -4,8 +4,8 @@
  claws.}
 {103}{}{Forgive. I no speak well. I try talk you.}
 {104}{}{You want what?}
-{105}{}{Who you?}
-{106}{}{What you do?}
+{105}{}{Quem é você?}
+{106}{}{O que você faz?}
 {107}{}{How smart you?}
 {108}{}{Eu vou agora.}
 {109}{}{Quem é você?}

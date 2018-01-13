@@ -48,47 +48,48 @@
 {144}{}{Bonito.}
 {145}{}{Nah, é isso em torno deste lugar. Se eu ouvir algo mais, eu vou deixar você saber. Eu gosto de falar sobre isso, tanto quanto eu gosto de ouvir!}
 {146}{}{Obrigado.}
-{147}{}{Why ya interested in those? Oh well, no matter. Quincy keeps them over in maintenance I think. }
+{147}{}{Por que você está interessado nesses? Bem, não importa. Quincy mantém-os na manutenção, eu acho.}
 {148}{}{Tudo bem.}
-{149}{}{Where that?}
+{149}{}{Onde isso?}
 {150}{}{Eu vejo.}
-{151}{}{Where's that?}
-{152}{}{Northeast corner of the base, friend. Can't miss it.}
+{151}{}{Onde é isso?}
+{152}{}{Canto nordeste da base, amigo. Não pode perder.}
 {153}{}{Tudo bem. Obrigado.}
-{156}{}{I'm surprised ya don't know, ya must be a local, I guess. Anyway, main base's in the middle of the goddamned
- ocean. Well, not smack ass in the middle, but it might as well be. Only way to get there is by ship or vertibird
- and the damn ship's been tinkered with. Ya need a fob to operate the damn thing.}
+{156}{}{Estou surpreso que você não saiba, você deve ser um local, eu acho. Enfim, a base principal está no meio do maldito
+  oceano. Bem, não é um burro no meio, mas também pode ser. A única maneira de chegar lá é por navio ou vertibird
+  e o maldito navio foi manipulado. Você precisa de um fob para operar a maldita coisa.}
 {157}{}{Fob?}
-{158}{}{Yeah, a passkey. Commander keeps it in his office. Without it ya can't access some areas of the ship and that
- keeps the locals down in San Fran from paying an unwelcome visit.}
-{159}{}{Good idea.}
-{160}{}{Where commander office?}
-{161}{}{That's a good idea.}
-{162}{}{So where's the commander's office?}
-{163}{}{Take the elevator in the next room down, follow the hallway to the main junction, and go straight. }
+{158}{}{Sim, uma senha. O comandante o guarda em seu escritório. Sem isso, você não pode acessar algumas áreas do navio e isso
+  Mantem os moradores locais em San Fran de pagar uma visita indesejável.}
+{159}{}{Boa idéia.}
+{160}{}{Onde escritório do comandante?}
+{161}{}{O que é uma boa idéia.}
+{162}{}{Então, onde está o comandante?}
+{163}{}{Tome o elevador na sala ao lado, para baixo, siga o corredor para o cruzamento principal, e vá em linha reta. }
 {164}{}{Obrigado.}
-{165}{}{Hey, soldier. Good to hear from you again. Grub or talk this time?}
-{166}{}{Food.}
-{167}{}{Chitchat.}
-{168}{}{Me just say hi.}
-{169}{}{Neither, I'm just saying hi.}
-{170}{}{Here ya go. It's dead, it's cooked, it's unidentifiable. Enjoy.}
-{171}{}{Uh... Thanks.}
-{172}{}{Son, I can tell from the smell that you're not wearin' one of them powered armor suits.
- If the Sarge sees you out of uniform you're screwed. And I ain't talking the type of screwing that feels good. Now get your ass down to supply and suit up.}
-{173}{}{Little lady, I can tell from the smell that you're not wearin' one of them powered armor suits.
- If the Sarge sees you out of uniform you're screwed. And I ain't talking the type of screwing that feels good. Now get your ass down to supply and suit up.}
-{174}{}{Where that?}
+{165}{}{Ei, soldado. Bom ouvir notícias de você novamente. Grub ou fala desta vez?}
+{166}{}{Comida.}
+{167}{}{Bate-papo.}
+{168}{}{- Me apenas dizer oi.}
+{169}{}{Nem, eu só estou dizendo oi.}
+{170}{}{Aqui vamos nós. Ele está morto, ele é cozido, não-identificáveis. Desfrute.}
+{171}{}{Uh... Obrigado.}
+{172}{}{Filho, posso dizer com o cheiro que você não está vestindo um desses ternos de armaduras motorizadas.
+  Se o Sargento vê você fora do uniforme você está ferrado. E eu não estou falando sobre o tipo de parafuso que se sente bem. Agora pegue seu culo para fornecer e atender.}
+{173}{}{Pequena senhora, posso dizer com o cheiro que você não está vestindo um dos ternos de armaduras motorizadas.
+  Se o Sargento vê você fora de uniforme você está ferrada. E eu não estou falando sobre o tipo de parafuso que se sente bem. Agora pegue seu culo para fornecer e atender.}
+{174}{}{Onde isso?}
 {175}{}{Tudo bem.}
-{176}{}{Where's that?}
-{177}{}{I'll take care of it.}
-{178}{}{Take the elevator in the next room down, follow the hall to the main junction, turn left, and it's the first door on your left. Off you go.}
+{176}{}{Onde é isso?}
+{177}{}{Eu cuidarei disso.
+}
+{178}{}{Pegue o elevador no quarto seguinte para baixo, siga o corredor até a junção principal, vire à esquerda e é a primeira porta à sua esquerda. Você vai chegar.}
 {179}{}{Obrigado.}
-{180}{}{Holy shit! I'm just a cook... and a blind one at that. I didn't see any intruders come through here.}
+{180}{}{Puta merda! Eu sou apenas um cozinheiro... e um cego. Eu não vejo qualquer intruso que vem por aqui.}
 {181}{}{Obrigado.}
-{182}{}{Damned alarms. Always such a ruckus when they go off.}
-{183}{}{What the hell is that damn thing going on about this time?}
-{184}{}{I wish to hell we'd use silent alarms, damn thing gives me a headache.}
-{185}{}{I'm gonna fry your ass up and serve it on a plate.}
-{186}{}{Your goose is cooked. Ha! I made a funny!}
-{187}{}{Out of the frying pan and into the fire.}
+{182}{}{Danado de alarmes. Sempre um tumulto quando vão para fora.}
+{183}{}{O que diabos é essa maldita coisa acontecendo a essa hora?}
+{184}{}{Desejo que usássemos alarmes silenciosos, maldita coisa me dá uma dor de cabeça.}
+{185}{}{Eu vou fritar seu traseiro e servi-lo em um prato.}
+{186}{}{O ganso está cozido. Ha! Eu fiz uma piada!}
+{187}{}{Da frigideira para o fogo.}

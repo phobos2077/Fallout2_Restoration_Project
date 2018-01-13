@@ -6,7 +6,7 @@
  and breakfast. Can I help you?}
 {151}{}{If you run this place, then how come it's called ROSE'S Bed and Breakfast?}
 {152}{}{I'm looking for a gold watch.}
-{153}{}{What do you do here?}
+{153}{}{O que você faz aqui?}
 {154}{}{Who's Rose?}
 {155}{}{I'm interested in getting a room.}
 {156}{}{Questions? Was I asking you something? Hi, my name's Cornelius.}

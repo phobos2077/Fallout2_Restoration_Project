@@ -14,7 +14,7 @@
 {112}{}{Is there any work here in Redding?}
 {113}{}{What's going on here in town lately?}
 {114}{}{Have you heard of anything called a Garden of Eden Creation Kit?}
-{115}{}{What do you do here?}
+{115}{}{O que você faz aqui?}
 {116}{}{I was just looking around, Mayor. See you later. Goodbye.}
 {117}{}{I run this here casino, and I help to run things in town, too. I keep track of things like deeds
  and such.}

@@ -20,7 +20,7 @@
 {164}{}{I'm looking to buy a gold pocket watch. Do you know where I can get one?}
 {165}{}{What do you have to trade?}
 {166}{}{What can you tell me about this town?}
-{167}{}{What do you do here?}
+{167}{}{O que você faz aqui?}
 {168}{}{GECK!}
 {169}{}{You're back! What did you find out about the farm?}
 {170}{}{I cleaned out your Ghost Farm problem. You can take over the farm any time.}

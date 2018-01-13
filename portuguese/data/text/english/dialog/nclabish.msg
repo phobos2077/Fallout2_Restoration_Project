@@ -374,7 +374,7 @@
  Don't mention that place.}
 {736}{}{O que aconteceu?}
 {740}{}{JOHN happened. I used to live there. He visited once, I was pleasantly charmed because he was so...rough, I guess. Different from most Vault Citizens. Of course, he let me try some drugs and... (Sighs.)}
-{741}{}{And?}
+{741}{}{E?}
 {745}{}{They had memory enhancers for the Pip Boys there. Had dictionaries
  and encyclopedias stored on them. Took one of the lingual enhancers when I left, though I don't know why.}
 {746}{}{Where is this enhancer?}

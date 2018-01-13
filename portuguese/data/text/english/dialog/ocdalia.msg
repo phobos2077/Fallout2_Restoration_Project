@@ -10,7 +10,7 @@
 {108}{}{Hey, I'm glad to hear that. It was my pleasure to do what I could for you. So, what can I help
  you with?}
 {109}{}{Eu tenho perguntas.}
-{110}{}{Nothing. Me say hi.}
+{110}{}{Nada. - Me dizer oi.}
 {111}{}{Eu tenho algumas perguntas para você.}
 {112}{}{Nothing. But it's nice to see you again. Bye.}
 {113}{}{O que você quer saber?}

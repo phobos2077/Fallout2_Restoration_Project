@@ -7,7 +7,7 @@
 {105}{}{Ouchie!}
 {106}{}{I'm hurt and need healing.}
 {107}{}{One of my friends is hurt and needs healing.}
-{108}{}{What do you do here?}
+{108}{}{O que você faz aqui?}
 {109}{}{Tell me about the town.}
 {110}{}{Any gossip?}
 {111}{}{Just sell me some stimpacks.}

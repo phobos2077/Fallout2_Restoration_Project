@@ -5,7 +5,7 @@
 {111}{}{What do you want now? Are you dumb?}
 {112}{}{Hello. What do you want?}
 {113}{}{Booze, Wooz.}
-{114}{}{What do you do here?}
+{114}{}{O que você faz aqui?}
 {115}{}{Tell me about this place.}
 {116}{}{Have you ever heard of something called a Garden of Eden Creation Kit?}
 {117}{}{I don't want anything from you. Goodbye.}

@@ -39,7 +39,7 @@
 {200}{}{Have you heard of something called a Garden of Eden Creation Kit?}
 {201}{}{Do you have a battery that I could use to fix a car?}
 {202}{}{I have some things that I want you to take a look at.}
-{203}{}{What do you do here?}
+{203}{}{O que você faz aqui?}
 {204}{}{Uh, I was just looking around. Goodbye.}
 {210}{}{What do ya want me to look at?}
 {211}{}{Ready for me to take a gander at something else? What do ya want me to look at now?}
