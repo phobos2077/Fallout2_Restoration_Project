@@ -8,11 +8,11 @@
 {107}{}{You better report to the Sarge and get suited up.}
 {108}{}{You're taking a big chance being out of uniform. You better report to supply.}
 {109}{}{Quem diabos são vocês... Alerta! Intrusos!}
-{110}{}{We've been infiltrated! Alert!}
+{110}{}{Temos sido infiltrados! Alerta!}
 {111}{}{Vários intrusos! Soar o alarme!}
-{112}{}{Security alert! Seal the base!}
-{113}{}{Secure all stations! We're on alert!}
-{114}{}{Intruder alert! Go code red!}
-{115}{}{We're going to put you under!}
-{116}{}{The Enclave will rule the world!}
-{117}{}{You die so that the Enclave will survive!}
+{112}{}{Alerta de segurança! Selo de base!}
+{113}{}{Proteja todas as estações! Estamos em alerta!}
+{114}{}{Alerta de intrusão! Vá código vermelho!}
+{115}{}{Nós vamos colocá-lo abaixo!}
+{116}{}{O Enclave vai dominar o mundo!}
+{117}{}{Você morre para que o Enclave sobreviva!}

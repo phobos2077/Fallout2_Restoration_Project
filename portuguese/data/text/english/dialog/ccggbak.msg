@@ -14,5 +14,5 @@
 {113}{}{Secure all stations! Main gate under attack!}
 {114}{}{Code red at the main gate!}
 {115}{}{We’re going to put you under!}
-{116}{}{The Enclave will rule the world!}
-{117}{}{You die so that the Enclave will survive!}
+{116}{}{O Enclave vai dominar o mundo!}
+{117}{}{Você morre para que o Enclave sobreviva!}

@@ -29,7 +29,8 @@
 {128}{}{Take out Bishop instead. I'll pay cash, whatever he was paying plus 50%. How much was it?}
 {129}{}{(need info from Chris)}
 {130}{}{(Avellone, that is)}
-{131}{}{Fine.}
+{131}{}{Bem.
+}
 {132}{}{Deal.}
 {133}{}{Too bad for you, old man.}
 {134}{}{I look forward to hearing from you. Now, go out the way you came.}

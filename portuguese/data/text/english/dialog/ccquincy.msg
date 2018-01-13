@@ -66,7 +66,7 @@
 {154}{}{Nothing, just saying 'Hi'.}
 {155}{}{Are you nuts? Walking around here out of uniform? Get suited up!}
 {156}{}{Se o sargento o pegar fora do uniforme, ele vai entregar seu traseiro.}
-{157}{}{Why are you out of uniform?}
+{157}{}{Por que você está fora de uniforme?}
 {158}{}{Puta merda! Estamos sendo invadidos! Alerta!}
 {159}{}{Intrusos! Chamar a guarda!!}
 {160}{}{Guard! Intruders in maintenance!}

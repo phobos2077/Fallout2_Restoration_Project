@@ -15,7 +15,7 @@
 {301}{}{So, why are you here?}
 {302}{}{I don't think I need anything else.}
 {303}{}{Well then get the fuck outta here. You're trespassing and you ain't wanted.}
-{304}{}{I'm leaving.}
+{304}{}{Estou de saída.}
 {305}{}{Oh, I'll leave—but not until I've killed you and your buddies.}
 {307}{}{As a matter of fact, he does. He's going to be entertaining some big shot from New Reno, and wanted a couple more girls for the occasion. But, hey if you can't spare any...I'm sure the boss will be thrilled when I return empty handed.}
 {308}{}{[Sweat begins to form on the man's tattooed head.] Whoa, hold on a second. I never said I couldn't spare a few. In fact, here, take the key to the shack, that's where we keep our, uh, personal favorites. The pick of the litter, you might say. [He hands you a key and smiles nervously.]}

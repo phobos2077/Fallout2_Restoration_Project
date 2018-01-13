@@ -104,7 +104,8 @@
 {474}{}{Sorry, can't afford that.}
 {480}{}{Fine, see if I care.}
 {481}{}{Tudo bem.}
-{482}{}{Fine.}
+{482}{}{Bem.
+}
 {490}{}{No, sorry.}
 {491}{}{I said no. Now beat it. You've got to talk to Metzger}
 {492}{}{Tudo bem.}

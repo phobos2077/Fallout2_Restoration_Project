@@ -9,7 +9,7 @@
 {301}{}{You better suit up soldier.}
 {302}{}{You're taking a big chance being out of uniform. You better report to supply.}
 {400}{}{Quem diabos são vocês... Alerta! Intrusos!}
-{401}{}{We've been infiltrated! Alert!}
+{401}{}{Temos sido infiltrados! Alerta!}
 {402}{}{Vários intrusos! Soar o alarme!}
 {500}{}{Merda! Obter as cópias de segurança iniciado.}
 {501}{}{Encerrar todas as operações secretas.}

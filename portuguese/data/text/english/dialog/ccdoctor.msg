@@ -106,31 +106,31 @@ ou animais.}
 {178}{}{Isso é K-9, meu cachorro. Eu decidi ver se eu poderia ciber
   melhorar a sua inteligência. Funcionou, mas ele desenvolveu um caso ruim de
   moral. Ele decidiu que ele não gostava tanto do meu trabalho nem de mim, e ele me mordeu.}
-{179}{}{As punishment I disabled his legs but left him pretty much
- functional otherwise. Now he gets to sit there and watch every
- distasteful thing I do.}
+{179}{}{Como punição, desabilitei as pernas, mas o deixava praticamente
+  de outra forma. Agora ele fica sentado lá e observa cada
+  coisa desagradável que eu faço.}
 {180}{}{Oh...}
-{181}{}{He be fixed?}
+{181}{}{Ele ser fixo?}
 {182}{}{Eu vejo.}
-{183}{}{Can he be fixed?}
-{184}{}{Oh yes. I removed his motivator circuit and gave it to
- Raul up in maintenance. It could always be put back in... Maybe
- I'll do that someday just to see if he's changed his attitude.}
+{183}{}{Ele pode ser corrigido?}
+{184}{}{Ai sim. Retirei seu circuito de motivação e entreguei a
+  Raul na manutenção. Sempre pode ser posto de volta em ... Talvez
+  Eu vou fazer um dia para ver se ele mudou sua atitude.}
 {185}{}{Tudo bem.}
 {186}{}{Tudo certo.}
-{187}{}{Are you a civilian?}
-{188}{}{This is the med lab. The armory is down the hall on your left.}
-{189}{}{Why are you out of uniform?}
+{187}{}{Você é um civil?}
+{188}{}{Este é o med lab. O arsenal é o corredor à sua esquerda.}
+{189}{}{Por que você está fora de uniforme?}
 {190}{}{Puta merda! Estamos sendo invadidos! Alerta!}
 {191}{}{Intrusos! Chamar a guarda!!}
-{192}{}{Guard! Intruders in the med lab!}
+{192}{}{Guarda! Os intrusos no med lab!}
 {193}{}{O que é? Estamos sob ataque?}
 {194}{}{Por isso o alerta? O que está acontecendo?}
 {195}{}{O que diabos está acontecendo?}
-{196}{}{I'm not a hostile, don't shoot me.}
-{197}{}{I didn't sign up for combat, so leave me alone.}
-{198}{}{Damn it! I'm a doctor not a soldier!}
+{196}{}{Eu não sou hostil, não atire em mim.}
+{197}{}{Eu não me inscrevi para o combate, então me deixe em paz.}
+{198}{}{Caramba! Eu sou um médico, não um soldado!}
 {200}{}{[MAIS]}
 {201}{}{Eu queria pedir-lhe algumas perguntas.}
-{202}{}{Not right now. Sorry to bother you.}
-{800}{}{You killed Doctor Schreber.}
+{202}{}{Não agora. Desculpe incomodá-lo.}
+{800}{}{Você matou Médico Schreber.}

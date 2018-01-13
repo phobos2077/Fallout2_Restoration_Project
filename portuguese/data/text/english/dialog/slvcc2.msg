@@ -30,7 +30,7 @@
 {409}{}{Umm...well, he uhh, said he needs more slaves.}
 {410}{}{More slaves? He got a huge shipment last week. You're full of shit and I don't have time for this. Leave now
  or you'll find a bullet in your head.}
-{411}{}{I'm leaving.}
+{411}{}{Estou de saída.}
 {412}{}{I think I'll stay and kill you first.}
 {500}{}{Umm..uhh...the boss sent me.}
 {501}{}{The "boss" huh? Sounds like your full of shit me. Looks like we got a trespasser.}

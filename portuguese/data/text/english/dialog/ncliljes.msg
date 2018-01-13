@@ -229,7 +229,7 @@
 {920}{}{Oh, so that makes it all better then, huh? (Spits at your feet.) Get the hell outta here 'fore I carve you.}
 {921}{}{Just try it and see what happens…LITTLE Jesus.}
 {922}{}{Calm down, Jesus…look, I had a few other questions…}
-{923}{}{I'm leaving.}
+{923}{}{Estou de saída.}
 {924}{}{You spit on my shoe? You fuck! I'm gonna teach you a lesson about respect, mother fucker.}
 {930}{}{No, not me…head on upstairs and see my Pa. He's the one you want to talk to.}
 {931}{}{And you are...?}

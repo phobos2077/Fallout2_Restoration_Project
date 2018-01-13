@@ -60,7 +60,8 @@
 {340}{}{I don't think so. Now beat it.}
 {341}{}{Tudo bem.}
 {342}{}{But!}
-{343}{}{Fine.}
+{343}{}{Bem.
+}
 {350}{}{Yeah, I bet you are. Who sent you?}
 {351}{}{Yeah, you said that already, fuck head. Who sent you?}
 {352}{}{Who do you think, moron? Now stop dicking around and let me in.}
@@ -68,7 +69,8 @@
 {354}{}{Okay, you'll regret that.}
 {360}{}{The what? Get outta here!}
 {361}{}{But...}
-{362}{}{Fine.}
+{362}{}{Bem.
+}
 {370}{}{Now what the hell does the boss want? Another stupid fucking inspection?}
 {371}{}{Sim?}
 {372}{}{What now?}

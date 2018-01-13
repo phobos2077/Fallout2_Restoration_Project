@@ -117,7 +117,8 @@
 {366}{}{How about someone else?}
 {367}{}{Well, let me ask you another question then.}
 {368}{}{Tudo bem.}
-{369}{}{Fine.}
+{369}{}{Bem.
+}
 {370}{}{Tudo bem.}
 {371}{}{Not worth it.}
 {372}{}{Não.}

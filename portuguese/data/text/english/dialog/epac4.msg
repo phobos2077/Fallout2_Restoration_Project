@@ -27,7 +27,8 @@
 {280}{}{Thanks. If you can repair the robot control computer, I'll grant you full access to the security wing on the red level. You can take what you like from the stores. I'm afraid we have no use for them now anyway.}
 {281}{}{Thanks. I'll get back to you when I'm done.}
 {290}{}{Lech mich! I have nothing more to say to you.}
-{291}{}{Fine.}
+{291}{}{Bem.
+}
 {300}{}{Have you managed to complete the task yet? *Eyes gleam expectantly*}
 {301}{}{No, not yet. I'll keep working on it.}
 {310}{}{Are the computers back online yet?}
