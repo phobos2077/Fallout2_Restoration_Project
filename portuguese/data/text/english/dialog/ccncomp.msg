@@ -1,25 +1,25 @@
-{100}{}{You see a computer.}
-{101}{}{You see a computer.}
-{102}{}{You see the central computer for Navarro.}
-{103}{}{Please enter your password.}
+{100}{}{Você verá um computador.}
+{101}{}{Você verá um computador.}
+{102}{}{Você vê o computador central para Navarro.}
+{103}{}{Por favor, digite a sua senha.}
 {104}{}{Enter 'Snookie'}
-{105}{}{Forget this doo doo.}
-{106}{}{Screw this.}
-{107}{}{Try to hack the system.}
-{108}{}{Welcome to the Enclave. You have limited system privileges at this time. For ease of use this system has been equipped with a common English parser. Please enter all requests as English sentences.}
-{109}{}{How may I help you?}
+{105}{}{Esqueça isso doo doo.}
+{106}{}{Dane-se isso.}
+{107}{}{Tente atacar o sistema.}
+{108}{}{Bem-vindo ao Enclave. Você tem privilégios de sistema limitados neste momento. Para facilidade de uso, este sistema foi equipado com um analisador português comum. Digite todos os pedidos como frases em português.}
+{109}{}{Como posso ajudá-lo?}
 {110}{}{Onde vertibird planos?}
-{111}{}{Where Enclave main base?}
-{112}{}{Where armory?}
-{113}{}{Where base commander?}
-{114}{}{Me guess that all.}
-{115}{}{Where are the vertibird plans located?}
+{111}{}{Onde Enclave base principal?}
+{112}{}{Onde arsenal?}
+{113}{}{Onde o comandante da base?}
+{114}{}{Eu acho que tudo.}
+{115}{}{Onde estão os vertibird planos localizado?}
 {116}{}{Onde está localizada a base principal Enclave?}
-{117}{}{Where is the armory located?}
-{118}{}{Where is the base commander's office located?}
-{119}{}{I guess that's all.}
-{120}{}{Searching... Accessing current inventory records... Data acquired. Current records indicate that 1 set of vertibird schematics are in stock. Four copies of the vertibird schematics have been ordered this quarter. Four copies of the vertibird schematics have been delivered this quarter. Three copies of the vertibird schematics have been reported lost this quarter. The vertibird schematics are housed in maintenance.}
-{121}{}{Okay. Where maintenance?}
+{117}{}{Onde está localizado o arsenal?}
+{118}{}{Onde está localizado o escritório do comandante da base?}
+{119}{}{Eu acho que é tudo.}
+{120}{}{Procurando ... Acessando registros de inventário atuais ... Dados adquiridos. Os registros atuais indicam que 1 conjunto de esquemas vertibird estão em estoque. Quatro cópias dos esquemas dos vertibirds foram encomendadas neste trimestre. Quatro cópias dos esquemas de vertibird foram entregues neste trimestre. Três cópias dos esquemas dos vertibirds foram relatados perdidos neste trimestre. Os esquemas vertibird estão alojados em manutenção.}
+{121}{}{Tudo bem. Onde a manutenção?}
 {122}{}{Fine. So where is maintenance located?}
 {123}{}{Searching... Accessing base architectural files... Data acquired. Maintenance is located above ground in the northeast quadrant of the base. }
 {124}{}{Obrigado.}

@@ -9,7 +9,7 @@
 {154}{}{I hear ya.}
 {155}{}{Yeah, okay. Whatever.}
 {156}{}{I see why you call this place "The Hole."}
-{157}{}{Huh?}
+{157}{}{Hein?}
 {158}{}{What's yer pleasure?}
 {159}{}{Whiskey.}
 {160}{}{Women.}

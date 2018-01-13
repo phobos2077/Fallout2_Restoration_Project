@@ -93,7 +93,7 @@
 {411}{}{Shucks}
 {412}{}{Jeesh}
 {413}{}{He, he, heee...}
-{414}{}{Huh?}
+{414}{}{Hein?}
 {500}{}{*SPIT, SPIT* Eccchhhh...}
 {510}{}{Hey buddy, care to "rent" that fine ho of yours?}
 {511}{}{Can't this wait? I've got to get a drink.}

@@ -10,7 +10,7 @@
  fucking whorehouse.}
 {213}{}{You're starting to piss me off. What the hell do you want now?}
 {214}{}{Now what, damn it?}
-{215}{}{What?}
+{215}{}{O que?}
 {216}{}{Oh, you better make it quick.}
 {217}{}{You here to work for a fucking change?}
 {218}{}{I'm starting to get used to your ugly mug. So... are you here for a reason or what?}
@@ -242,7 +242,7 @@
 {680}{}{You guess? I didn't think you were that smart. You really are a stupid fuck.
  [Metzger glares at you then looks to his guards and motions in your direction.]}
 {681}{}{Actions?}
-{682}{}{What?}
+{682}{}{O que?}
 {690}{}{Oh, so you aren't as dumb as you act. Well, that's a shame. You see, I'm having a bit of a dilemma. Someone had the nerve to attack my men.}
 {691}{}{Really?}
 {692}{}{It was an accident!}
@@ -251,7 +251,7 @@
 {702}{}{Here. Let me show you. [attack]}
 {703}{}{Make them pay.}
 {710}{}{You think so? Honestly? I don't know. I was thinking of something a little more... permanent. [With an evil grin, Metzger looks to his guards and nods.]}
-{711}{}{What?}
+{711}{}{O que?}
 {712}{}{Oh boy...}
 {720}{}{I'm glad we're in agreement. [Metzger looks to his guards.] Men, it's payday.}
 {721}{}{Uh...}

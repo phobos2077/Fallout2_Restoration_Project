@@ -1,101 +1,101 @@
-{100}{}{Big surprise —- it looks like a guy in power armor.}
-{101}{}{Yep, it's still a guy in power armor.}
-{102}{}{He's got some kind of insignia on his chest that different from any of the others you've seen
- around here. }
-{103}{}{<Skzzzt-spork> -the armory!}
-{104}{}{What the- <zzzzaaark!>>}
-{105}{}{(So, Sarge sent you. Something about needing power armor. Well, all I got is one in for
- maintenance. Might have a few problems still, so take it easy. Just sign here.)}
-{106}{}{Uh… Could you repeat that?}
-{107}{}{I think there's something wrong with your suit.}
-{108}{}{Sure, I'll do that.}
-{109}{}{No way. Forget it.}
-{110}{}{You the guy Arch radioed about?}
-{111}{}{Are you sure you're not the guy?}
-{112}{}{Huh?}
+{100}{}{Grande surpresa -- parece um cara de armadura.}
+{101}{}{Sim, ele ainda é um homem em armadura de energia.}
+{102}{}{Ele tem algum tipo de insígnia no peito que diferem de qualquer outro que você viu
+  por aqui.}
+{103}{}{<Skzzzt-spork> -o arsenal!}
+{104}{}{O que o- <zzzzaaark!>>}
+{105}{}{(Então, Sarge lhe enviou. Alguma coisa sobre a necessidade de uma armadura de poder. Bem, tudo que eu tenho é um para
+  manutenção. Poderia ter alguns problemas ainda, então vá com calma. Basta assinar aqui.)}
+{106}{}{Uh... você Poderia repetir?}
+{107}{}{Eu acho que há algo errado com o seu terno.}
+{108}{}{Com certeza, eu vou fazer isso.}
+{109}{}{De maneira nenhuma. Esqueça-o.}
+{110}{}{Você, o cara, Arch, transmitiu rádio?}
+{111}{}{Tem certeza que você não é o cara?}
+{112}{}{Hein?}
 {113}{}{Sim.}
 {114}{}{Não.}
-{115}{}{Who are you? What are you doing here?}
-{116}{}{What?}
-{117}{}{Uh… I'm new here?}
+{115}{}{Quem é você? O que você está fazendo aqui?}
+{116}{}{O que?}
+{117}{}{Uh... eu sou novo por aqui?}
 {118}{}{Peek-a-boo!}
-{119}{}{Who are you? What are you doing here?}
-{120}{}{What?}
-{121}{}{Uh… I'm new here?}
+{119}{}{Quem é você? O que você está fazendo aqui?}
+{120}{}{O que?}
+{121}{}{Uh... eu sou novo por aqui?}
 {122}{}{Peek-a-boo!}
-{123}{}{What do you mean? This suit's working fine! You gonna sign the papers or not?}
-{124}{}{I'm not understanding a word of this.}
-{125}{}{Your speaker's broken.}
-{126}{}{Sure, whatever.}
-{127}{}{To hell with this!}
-{128}{}{(What, are you deaf? I said I got a suit; just sign here.)}
-{129}{}{Clown, are you? Well, I don't need this. You explain to Sarge why you don't have a uniform!}
-{130}{}{Huh?}
-{131}{}{Okay, fine. I'll do it.}
-{132}{}{Just forget it, okay?}
-{133}{}{Your speaker's not broken. I can hear you just fine. Just sign the papers and we can get this
- done.}
-{134}{}{Huh?}
-{135}{}{Fine, I give up!}
-{136}{}{You want me to what? I'm not that kind of person!}
-{137}{}{Okay, what's your name?}
-{138}{}{[Player name]}
-{139}{}{Pisces?}
-{140}{}{I want the power armor.}
-{141}{}{Swordfish.}
-{142}{}{Right. Unit?}
+{123}{}{O que você quer dizer? Este terno está funcionando bem! Você vai assinar os papéis ou não?}
+{124}{}{Eu não estou entendendo uma palavra sobre isso.}
+{125}{}{O altofalante está quebrado.}
+{126}{}{Com certeza, qualquer que seja.}
+{127}{}{Para o inferno com isso!}
+{128}{}{(O que, você está surdo? Eu disse: eu tenho um terno, basta fazer a inscrição aqui.)}
+{129}{}{Palhaço,é você? Bem, não preciso disso. Você explica a Sarge por que você não possui um uniforme!}
+{130}{}{Hein?}
+{131}{}{Ok, tudo bem. Eu vou fazer isso.}
+{132}{}{Apenas esqueça, ok?}
+{133}{}{O alto-falante não está quebrado. Eu posso ouvir você muito bem. Basta assinar os papéis e podemos fazer isso
+feito.}
+{134}{}{Hein?}
+{135}{}{Bem, eu desisto!}
+{136}{}{Você quer que eu faça o quê? Eu não sou esse tipo de pessoa!}
+{137}{}{Ok, qual é o seu nome?}
+{138}{}{[Nome do jogador]}
+{139}{}{Peixes?}
+{140}{}{Eu quero a armadura de energia.}
+{141}{}{Peixe-espada.}
+{142}{}{Direito. Unidade?}
 {143}{}{Arroyo.}
 {144}{}{Não.}
-{145}{}{I got better.}
+{145}{}{Eu melhorei.}
 {146}{}{42.}
-{147}{}{That with an S or a C?}
+{147}{}{Com um S ou um C?}
 {148}{}{Sim.}
 {149}{}{Não.}
 {150}{}{Eu não sei.}
-{151}{}{You'll get the damn armor when I'm good and ready! Now, answer the question.}
-{152}{}{[Player name]}
-{153}{}{Pisces?}
-{154}{}{Swordfish.}
-{155}{}{Arroy— Wait a minute! We just hit that place. You're a damn tribal! Guards!}
-{156}{}{Look, clown, don't be making trouble or I'll have your insubordinate ass up on report. Just
- answer the question. }
+{151}{}{Você receberá a maldita armadura quando estiver bem e pronto! Agora responda a pergunta.}
+{152}{}{[Nome do jogador]}
+{153}{}{Peixes?}
+{154}{}{Peixe-espada.}
+{155}{}{Arroy - espere um minuto! Acabamos de atingir esse lugar. Você é um maldito tribal! Guardas!}
+{156}{}{Olha, palhaço, não esteja causando problemas ou terei um ataque insubordinado no relatório. Somente
+  responda a questão.}
 {157}{}{Arroyo.}
 {158}{}{42.}
-{159}{}{That's it! Get your ass over to your sergeant. I'm sending you up on charges. Dismissed.}
-{160}{}{The 42nd, eh? Good unit. Okay. Here's your gear. Dismissed, soldier.}
-{161}{}{What are you, deaf? Are you the guy or not?}
+{159}{}{É isso aí! Pegue seu traseiro para o seu sargento. Eu estou enviando você em cobranças. Dispensado.}
+{160}{}{O 42, eh? Boa unidade. OK. Aqui está o seu equipamento. Dispensado, soldado.}
+{161}{}{Você é surdo? Você é o cara ou não?}
 {162}{}{Sim.}
-{163}{}{Like a fish in water.}
-{164}{}{Not.}
-{165}{}{Okay, let's make this quick. Take that off and I'll give you a new suit.}
-{166}{}{You're nothing but static.}
-{167}{}{Huh?}
+{163}{}{Como um peixe na água.}
+{164}{}{Não.}
+{165}{}{Ok, vamos fazer isso rápido. Tirar isso e eu vou dar-lhe um terno novo.}
+{166}{}{Você não é nada senão estático.}
+{167}{}{Hein?}
 {168}{}{Tudo bem.}
-{169}{}{You're gonna off me? I don't think so!}
-{170}{}{Oh, well never mind.}
-{171}{}{The power armor. Give me the power armor, you moron.}
+{169}{}{Você vai me deixar? Acho que não!}
+{170}{}{Oh, bem, não importa.}
+{171}{}{A armadura de poder. Me dê a armadura de poder, seu idiota.}
 {172}{}{Tudo bem.}
-{173}{}{I already made the deal. I'm not giving you any more.}
-{174}{}{You bet I got something for you, you bastard.}
-{175}{}{Okay, here's the suit. Now get out of here.}
-{176}{}{You moron; you don't have the suit. Get out of here!}
-{177}{}{What the hell are you talking about? Give me the suit.}
-{178}{}{All right, already!}
-{179}{}{Screw this!}
-{180}{}{Right, J. Okay, Unit?}
+{173}{}{Eu já fiz o acordo. Não vou te dar mais nada.}
+{174}{}{Pode apostar que eu tenho algo para você, safado.}
+{175}{}{Ok, aqui está o terno. Agora saia daqui.}
+{176}{}{Você idiota; você não tem o naipe. Saia daqui!}
+{177}{}{O que diabos você está falando? Dê-me o terno.}
+{178}{}{Tudo certo, já!}
+{179}{}{Dane-se isso!}
+{180}{}{Direito, J. Ok, Unidade?}
 {181}{}{Arroyo.}
 {182}{}{Não.}
-{183}{}{I got better.}
+{183}{}{Eu melhorei.}
 {184}{}{42.}
-{185}{}{You deaf? Who are you?}
-{186}{}{I'm the new guy?}
-{187}{}{Nope, never heard of 'em.}
-{188}{}{New guy, eh? Suppose you want your issue. Why don't anybody ever tell me these things? What's
- your name?}
-{189}{}{Huh? You ain't nothing but static.}
-{190}{}{[Player name]}
-{191}{}{Not if I shoot first!}
-{192}{}{Wait a minute -— you're not one of us! GUARDS!}
-{193}{}{Look soldier, I already gave you your gear, so get on out of here.}
+{185}{}{Você é surdo? Quem é Você?}
+{186}{}{Eu sou o cara novo?}
+{187}{}{Não, nunca ouvi falar deles.}
+{188}{}{Novo cara, eh? Suponha que você queira resolver o seu problema. Por que ninguém nunca me conta essas coisas? Qual é
+  seu nome?}
+{189}{}{Hein? Você não é nada, mas estático.}
+{190}{}{[Nome do jogador]}
+{191}{}{Não se eu atirar primeiro!}
+{192}{}{Espere um minuto, você não é um de nós! GUARDAS!}
+{193}{}{Olhe soldado, já lhe dei seu equipamento, então saia daqui.}
 {194}{}{O que você quer?}
 {195}{}{Droog?}

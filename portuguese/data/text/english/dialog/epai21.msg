@@ -18,6 +18,6 @@
 {115}{}{Voltar para o menu principal.}
 {116}{}{Thank you for using the location finder.}
 {117}{}{[FEITO]}
-{118}{}{You see a computer.}
+{118}{}{Você verá um computador.}
 {119}{}{You see the EPA Location Finder.}
 {120}{}{You see a computer with detailed information about the levels in the EPA.}

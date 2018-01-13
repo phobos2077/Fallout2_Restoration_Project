@@ -28,7 +28,7 @@
 {116}{}{She's not going to pay you. But I'm here to offer you a new deal: You and your friends walk away from here now, and you get to keep your lives.}
 {117}{}{Alright, well, I gave it a shot. Bye.}
 {120}{}{This is a great idea. We'll get things ready.}
-{200}{}{Huh?}
+{200}{}{Hein?}
 {201}{}{This is our turf.}
 {202}{}{You squatting here too?}
 {203}{}{Got anything to eat?}

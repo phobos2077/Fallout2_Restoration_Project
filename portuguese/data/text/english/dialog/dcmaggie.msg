@@ -38,7 +38,7 @@
 {185}{}{Quick question first?}
 {186}{}{Adeus.}
 {187}{}{A shot of whiskey is $5. Pay first.}
-{188}{}{Huh?}
+{188}{}{Hein?}
 {189}{}{Here’s the money.}
 {190}{}{Changed my mind.}
 {191}{}{I’m a little short of cash. Can I have a tab?}

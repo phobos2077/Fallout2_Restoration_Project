@@ -1,4 +1,4 @@
-{100}{}{You see a computer.}
+{100}{}{Você verá um computador.}
 {150}{}{Please select an option below.}
 {151}{}{Information}
 {152}{}{Employee Access}

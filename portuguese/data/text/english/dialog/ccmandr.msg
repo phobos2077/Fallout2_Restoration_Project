@@ -53,16 +53,16 @@
 {281}{}{Por que você continua me chamando de mutante?}
 {282}{}{Quem diabos são vocês?}
 {283}{}{Onde estou? }
-{284}{}{How can I get some of that sweet armor?}
+{284}{}{Como posso obter uma destas doces armaduras?}
 {285}{}{Eu já ouvi o suficiente.}
-{290}{}{Because you ARE. Sure, you might look kinda human, but don't let that fool you. You're still a mutant. You and
- everyone else on the mainland. All tainted. Next question?}
-{300}{}{We're the Enclave--the last bastion of true humanity on this damn planet. We're the only ones still upholding
- the honor of the ol' red, white, and blue. That's right, we're true patriots. We eat bald eagles and shit stars and
- stripes. We're all that's left of the great United States of America. But we're enough. Oh, yeah, we're enough to set
- things right. You can count on that, mutie. Next question?}
-{310}{}{This here's Navarro, our secret mainland base. We're sitting right on the coast of California and the pacific
- ocean. Next question?}
-{320}{}{By prying it off my dead body. Good luck with that, mutie. Next question?}
-{330}{}{Good, 'cause I'm damn tired of wasting my breath on a mutant. In fact, this whole things a waste of my time,
- because I don't give a flying fuck what you've got to say to me. Guards! Kill this mutie!}
+{290}{}{Porque você é. Claro, você pode parecer meio humano, mas não deixe isso te enganar. Você ainda é um mutante. Você e
+  todos os outros no continente. Tudo manchado. Próxima questão?}
+{300}{}{Nós somos o Enclave - o último bastião da verdadeira humanidade neste maldito planeta. Nós somos os únicos que ainda defendem
+  a honra do hol vermelho, branco e azul. É verdade, somos verdadeiros patriotas. Nós comemos águias caras e estrelas de merda e
+  listras. Nós somos tudo o que resta do grande Estados Unidos da América. Mas somos suficientes. Oh, sim, somos suficientes para configurar
+  tudo certo. Você pode contar com isso, mutie. Próxima questão?}
+{310}{}{Aqui está Navarro, nossa base secreta do continente. Estamos sentados bem na costa da Califórnia e do oceano 
+Pacífico. Próxima questão?}
+{320}{}{Ao tirá-la do meu cadáver. Boa sorte com isso, mutie. Próxima questão?}
+{330}{}{Bom, porque estou cansado de desperdiçar a respiração com um mutante. Na verdade, tudo isso é um desperdício do meu tempo,
+  porque eu não ligo a minima para o que você tem a dizer. Guardas! Matem este mutie!}

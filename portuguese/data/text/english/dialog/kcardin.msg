@@ -219,7 +219,7 @@
 {1011}{}{What? Oh, of course. You've helped us out greatly, so we do owe you at least something. Here's $150.}
 {1012}{}{Thanks for the money. See you around.}
 {2000}{}{Smilie?}
-{2001}{}{Huh?}
+{2001}{}{Hein?}
 {2002}{}{Ummm}
 {2003}{}{I help.}
 {2004}{}{Me no like story. BYE!}
