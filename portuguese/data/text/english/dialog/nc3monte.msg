@@ -74,7 +74,7 @@
 {286}{}{Nuh-uh Me no LIKE game BYYYYE}
 {287}{}{I'm not playing with a cheater like you.}
 {288}{}{Sure. Here's 20 chips.}
-{289}{}{No thanks.}
+{289}{}{Não, obrigado.}
 {300}{}{(You hand over the cash. Monte nods, shows you the cards, then lays them on the ground. As he does, he palms a card, so quickly you almost miss it. He then proceeds to shuffle for a few seconds.)}
 {301}{}{So...which one's the queen, pal?}
 {302}{}{So...which one's the queen, lady?}

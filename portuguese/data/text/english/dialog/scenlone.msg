@@ -80,7 +80,7 @@
 {178}{}{Were you asleep during indoctrination? Hmmph - you are not one of the Enlightened!}
 {179}{}{So you're saying there's some higher power who creates us with a purpose and then just abandons us? I can't believe any being would be so callous. Come, embrace the Church of Hubology. Let us show you the true way.}
 {180}{}{What true way?}
-{181}{}{No thanks.}
+{181}{}{Não, obrigado.}
 {182}{}{Without control of your own life, though, what's the point? Nothing you do has any value. Did you choose to get up this morning? No, you're just a puppet by your own philosophy. Now, we at the church of Hubology have a true answer.}
 {183}{}{Which is?}
 {184}{}{Sure you do.}

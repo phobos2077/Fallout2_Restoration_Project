@@ -3,7 +3,7 @@
 {102}{}{You see a typical Deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
  claws.}
 {103}{}{Stop. You not go here. This place off limits.}
-{104}{}{Okay. Me go.}
+{104}{}{Tudo bem. - Me ir.}
 {105}{}{O que este lugar?}
 {106}{}{Quem é você?}
 {107}{}{All right, I'll leave}

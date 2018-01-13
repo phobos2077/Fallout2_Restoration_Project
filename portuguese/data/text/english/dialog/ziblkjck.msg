@@ -3,7 +3,7 @@
 {102}{}{Care to play some Black Jack? Minimum bet is $}
 {103}{}{.}
 {104}{}{Com certeza.}
-{105}{}{No thanks.}
+{105}{}{Não, obrigado.}
 {106}{}{Wuh blak juk?}
 {107}{}{Sorry, you don't seem to have the minimum bet amount. Come back when
  you have more money.}

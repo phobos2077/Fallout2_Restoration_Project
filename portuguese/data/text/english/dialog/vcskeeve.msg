@@ -95,7 +95,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {185}{}{No problem. You have my silence.}
 {186}{}{Two hundred or nothing, Outsider. It's the only way you're going to get inside the gate.}
 {187}{}{I think I'll try official channels.}
-{188}{}{No thanks.}
+{188}{}{Não, obrigado.}
 {189}{}{Ha! Good luck, Outsider. The only way you'll get a Day Pass outta ol' man Wallace is if you pry
  it from his stingy, dead fingers.}
 {190}{}{I'll try him anyway.}

@@ -1,78 +1,76 @@
-{100}{}{You see a cyberdog.}
-{101}{}{You see K-9.}
-{102}{}{You see a cyberdog. It is part machine and part dog.}
-{103}{}{The life functions of my master have terminated. Are you my new master?}
-{104}{}{Uh... doggie talk?}
-{105}{}{Okay. Me like doggie.}
-{106}{}{No. Not want doggie.}
-{107}{}{Ha! A talking dog.}
-{108}{}{One; I am a dog. Two; I am communicating with you vocally using the common
- English language. Therefore it is safe to assume that the answer to your question
- is 'yes, doggie talk.' Now, do you intend to answer the question that I posed to
- you a moment ago?}
-{109}{}{One; I am a dog. Two; I am communicating with you vocally using the common
- English language. Therefore it is safe to assume that I am a talking dog. Now, do
- you intend to answer the question that I posed to you a moment ago?}
-{110}{}{Sorry, me forget question.}
+{100}{}{Você vê um cyberdog.}
+{101}{}{Você vê K-9.}
+{102}{}{Você vê um cyberdog. É parte máquina e parte cão.}
+{103}{}{As funções vitais de meu mestre estão terminadas. Você é o meu novo mestre?}
+{104}{}{Uh... cachorrinho falar?}
+{105}{}{OK. Eu gosto de cachorrinho.}
+{106}{}{Não. Não quero cachorrinho.}
+{107}{}{Ha! Um cão falante.}
+{108}{}{1; Eu sou um cão. Dois; Estou me comunicando vocalmente usando a comum
+  Língua Portuguêsa. Portanto, é seguro assumir que a resposta à sua pergunta
+  é "sim, conversa com cachorro". Agora, você pretende responder a pergunta que eu fiz
+  ha um momento?}
+{109}{}{1; Eu sou um cão. Dois; Estou me comunicando vocalmente usando a comum
+  Língua Portuguesa. Portanto, é seguro assumir que eu sou um cão falante. Agora
+  você pretende responder a pergunta que eu lhe fiz há um momento?}
+{110}{}{Desculpe-me, esqueci pergunta.}
 {111}{}{Sim.}
 {112}{}{Não.}
-{113}{}{(sigh) Pay attention. Concentrate. Look me in the eyes. Now, are you ready?}
-{114}{}{Ready what?}
-{115}{}{Yes. Me ready.}
-{116}{}{I... If it were not for the fact that your IQ is less than my height in
- feet I would think that you are trying to irritate me. Now, be silent. Pay
- attention. Concentrate. Look me in the eyes. I am about to ask you a question.}
-{117}{}{So go ahead. Who stopping you?}
-{118}{}{The life functions of my master have terminated. Are you my new master?}
-{119}{}{Uh... doggie talk?}
-{120}{}{Yes. Me want doggie.}
-{121}{}{No thanks.}
-{122}{}{Sounds good.}
-{123}{}{No thanks.}
-{124}{}{I... I refuse to go through this with you a second time! Were I
- capable of full motivation I would bite you in the fleshy part of your
- anterior region commonly referred to as the...}
-{125}{}{Ass. Me know what ass is. Me not dummy. Me just joke with you.}
-{126}{}{Oh, a joke. Hardy har har har. Now, are you my new master or not?}
-{127}{}{Okay. Me like doggie.}
-{128}{}{No. No want doggie.}
-{129}{}{Excellent. I am in need of repairs, master. My motivation unit has
- been removed. Find it, replace it, and I will join you.}
-{130}{}{Uh... Where I find?}
-{131}{}{Any ideas on where I can find this part?}
-{132}{}{I am not sure, master. I would try maintenance. It is upstairs in the
- northeast corner of the base.}
-{133}{}{Okay. Me go.}
-{134}{}{I'll try there. If I don't find it, I'll look around for it.}
-{135}{}{Then leave me in peace.}
+{113}{}{(suspiro) Preste atenção. Concentrar-se. Olha-me nos olhos. Agora, você está pronto?}
+{114}{}{Pronto o que?}
+{115}{}{Sim. Me pronto.}
+{116}{}{Eu... Se não fosse pelo fato de que seu QI é menos da minha altura, em pés eu iria pensar que você está tentando me irritar. Agora, ficar em silêncio. Prestar atenção. Concentrar-se. Olha-me nos olhos. Eu estou prestes a lhe fazer uma pergunta.}
+{117}{}{Então vá em frente. Quem te parou?}
+{118}{}{As funções vitais de meu mestre estão terminadas. Você é o meu novo mestre?}
+{119}{}{Uh... cachorrinho falar?}
+{120}{}{Sim. Em mim o desejo de cachorrinho.}
+{121}{}{Não, obrigado.}
+{122}{}{Parece bom.}
+{123}{}{Não, obrigado.}
+{124}{}{Eu ... eu me recuso a passar por isso com você uma segunda vez! Eu seria
+  capaz de motivação total, eu morderia você na parte carnuda do sua
+  região anterior comumente referida como ...}
+{125}{}{Bunda. Eu sei o que é bunda. Eu não sou burro. Eu apenas brinco com você.}
+{126}{}{Oh, uma piada. Hardy Har Har Har Har. Agora, você é meu novo mestre ou não?}
+{127}{}{OK. Eu gosto de cachorrinho.}
+{128}{}{Não. Não quero cachorrinho.}
+{129}{}{Excelente. Preciso de reparos, mestre. Minha unidade de motivação
+  foi removida. Encontre, substitua e eu vou me juntar a você.}
+{130}{}{Uh... Onde posso encontrar?}
+{131}{}{Alguma idéia de onde eu posso encontrar esta peça?}
+{132}{}{Eu não estou certo, mestre. Gostaria de tentar a manutenção. É no andar de cima, no
+canto nordeste da base.}
+{133}{}{Tudo bem. - Me ir.}
+{134}{}{Vou tentar lá. Se eu não encontrar, eu vou procurar por ele.}
+{135}{}{Então me deixe em paz.}
 {136}{}{Tudo bem.}
-{137}{}{You got it.}
-{138}{}{Hello again. The life functions of my master have terminated. Are
- you my new master?}
+{137}{}{Você tem isso.}
+{138}{}{Olá de novo. As funções de vida do meu mestre foram encerradas. Então
+  você é meu novo mestre?}
 {139}{}{Tudo bem.}
 {140}{}{Não.}
 {141}{}{Tudo certo.}
-{142}{}{No thanks.}
-{143}{}{You are not my master. I cannot speak to you. Good bye.}
+{142}{}{Não, obrigado.}
+{143}{}{Você não é o meu mestre. Eu não posso falar para você. Adeus, até logo.}
 {144}{}{Tudo bem.}
-{145}{}{Hello master. Have you found my motivation unit?}
-{146}{}{No, me look more.}
-{147}{}{Yes. Me find.}
-{148}{}{No, I'm still looking for it.}
-{149}{}{Got it right here.}
-{150}{}{I will wait here for your return, master.}
+{145}{}{Oi, mestre. Você encontrou minha unidade de motivação?}
+{146}{}{Não, me olhar mais.}
+{147}{}{Sim. Me encontrar.}
+{148}{}{Não, eu ainda estou procurando por ele.}
+{149}{}{Tenho-o aqui.}
+{150}{}{Eu vou esperar aqui para o seu retorno, mestre.}
 {151}{}{Tudo bem.}
-{152}{}{Then please install the part, master! Please, master!}
-{153}{}{Okay. Calm down.}
-{154}{}{I appear to be fully functional now, master. Shall I join you?}
-{155}{}{That is not where that goes, master. Are you sure you know what you
- are doing?}
-{156}{}{Okay. Doggie come me.}
-{157}{}{Me know what doing! Me try again.}
-{158}{}{Yes, let's go.}
-{159}{}{Hey, I've fixed more complex things than your mangy mutt ass. Be
- quiet and I'll try this again.}
-{160}{}{Go away. I do not want you for a master.}
+{152}{}{Então, por favor instalar a parte, mestre! Por favor, mestre!}
+{153}{}{OK. Acalme-se.
+}
+{154}{}{Eu parecem ser totalmente funcional agora, mestre. Devo juntar a você?}
+{155}{}{Não é aí que isso encaixa, mestre. Tem certeza de que sabe o que você
+  estão fazendo?}
+{156}{}{Tudo bem. Cachorrinho vem comigo.}
+{157}{}{- Me saber o que fazer! - Me tentar novamente.}
+{158}{}{Sim, vamos lá.}
+{159}{}{Ei, eu consertei coisas mais complexas do que a sua bunda vira-lata sarnento. Fique tranquilo e eu vou tentar isso de novo.}
+{160}{}{Vá embora. Eu não quero você como mestre.}
 {161}{}{Leave me in peace.}
 {162}{}{I do not like you. Go away.}
 {163}{}{I will terminate you.}
@@ -115,7 +113,7 @@
 {198}{}{We should spread out a bit.}
 {199}{}{Let's go.}
 {200}{}{That's it for now.}
-{201}{}{I will wait here for your return, master.}
+{201}{}{Eu vou esperar aqui para o seu retorno, mestre.}
 {202}{}{You heal you self.}
 {203}{}{Uh... put weapon away. Okay?}
 {204}{}{You stay close.}

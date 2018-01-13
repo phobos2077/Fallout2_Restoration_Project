@@ -239,7 +239,7 @@
 {740}{}{The Corsican Brothers at yer service... (The man glances up, smiles.) Hey, welcome back, }
 {743}{}{Sure am. Let's break some bedsprings.}
 {745}{}{Not really. I'm here for Big Jesus Mordino's money.}
-{746}{}{No thanks.}
+{746}{}{Não, obrigado.}
 {755}{}{Whoa...you don't WANT to do it?! What, you too GOOD for us, now? We made you what you are, '}
 {756}{}{Me not forget no get mad make me sad me come back but me got to go now}
 {758}{}{Ignore him and wander off}

@@ -11,7 +11,7 @@
 {202}{}{Obrigado.}
 {203}{}{Obrigado!}
 {204}{}{No thank you.}
-{205}{}{No thanks.}
+{205}{}{Não, obrigado.}
 {206}{}{Com certeza.}
 {207}{}{Sim.}
 {208}{}{Não.}

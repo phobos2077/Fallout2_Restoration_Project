@@ -43,7 +43,7 @@
 {142}{}{Forget it.}
 {158}{}{What? You do not have the money? How do you expect me to survive if you ask me for free healing?}
 {159}{}{Do you have stimpacks?}
-{160}{}{No thanks.}
+{160}{}{Não, obrigado.}
 {161}{}{It has been a pleasure doing business with you.}
 {162}{}{Obrigado.}
 {163}{}{Your offer, sadly, is not acceptable.}

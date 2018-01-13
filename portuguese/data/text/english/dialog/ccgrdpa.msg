@@ -72,8 +72,8 @@ do deserto assassino você e toda a sua equipe estariam mortos agora! Isso é inac
 {427}{}{. Eu tomo passeio divertido em pássaro de metal! Vá novamente! Quero ir de novo! }
 {428}{}{Você não precisa saber meu nome. Eu não gosto de você. Eu mato. [Saltar para fora e começar a lutar.]}
 {430}{}{Você está bêbado? Você está no Navarro, é claro. Se você está tendo problemas de memória, soldado, você pode querer se verificar. Talvez alguma dessas radiações lá fora tenha chegado a você.}
-{440}{}{Don't give me that bullshit. You're one of the new recruits, aren't you? Heh. That smart mouth of yours is gonna land you in all sorts of trouble--and I can't wait to see it happen. Now get back to your post, soldier.}
-{450}{}{Sir! Yes sir!}
-{451}{}{Ma'am! Yes ma'am!}
-{460}{}{[The soldier looks at one of his comrades.] My God, contact with all the muties and radiation out there must have made him retarded. You see? *That's* why I never volunteer for those wasteland runs. Anyway, let's put this stupid bastard out of his misery before he contaminates us.}
-{461}{}{[The soldier looks at one of his comrades.] My God, contact with all the muties and radiation out there must have made her retarded. You see? *That's* why I never volunteer for those wasteland runs. Anyway, let's put this stupid bitch out of her misery before she contaminates us.}
+{440}{}{Não me diga essa besteira. Você é um dos novos recrutas, não é? Heh. Essa boca esperta vai te enterrar em todos os tipos de problemas - e não posso esperar para ver isso acontecer. Agora volte para seu posto, soldado.}
+{450}{}{Senhor! Sim, senhor!}
+{451}{}{Senhora! Sim, senhora!}
+{460}{}{[O soldado olha para um de seus companheiros.] Meu Deus, o contato com todos os distúrbios e a radiação lá fora deve ter feito seu atraso. Entende? * É por isso * que eu nunca sou voluntário para essas corridas de terra firme. De qualquer forma, vamos colocar este estúpido bastardo fora de sua miséria antes de nos contaminar.}
+{461}{}{[O soldado olha para um de seus companheiros.] Meu Deus, o contato com todos os distúrbios e a radiação lá fora deve ter feito ele retardado. Entende? * É por isso * que eu nunca sou voluntário para essas corridas de terra firme. De qualquer forma, vamos deixar essa besta estúpida sair de sua miséria antes de nos contaminar.}

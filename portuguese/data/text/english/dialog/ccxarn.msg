@@ -79,7 +79,7 @@
 {153}{}{No want fight, want hear you story.}
 {154}{}{Me not want fight. Me here rescue you.}
 {155}{}{No. Me go.}
-{156}{}{Yes. Me ready.}
+{156}{}{Sim. Me pronto.}
 {157}{}{I don't really want to fight. Can I hear your story instead?}
 {158}{}{I'm here to rescue you, not fight.}
 {159}{}{No. I'll be leaving now.}

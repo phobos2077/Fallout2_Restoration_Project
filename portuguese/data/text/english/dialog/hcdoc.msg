@@ -68,7 +68,7 @@ because this is going to cost ::cough:: $200.}
 {159}{}{Friend, you don't have that kind of money. I can sell you some stimpacks if you like, but with
  the healing you're looking for, you can't afford what I can afford to give you.}
 {160}{}{Give me the stimpacks.}
-{161}{}{No thanks.}
+{161}{}{Não, obrigado.}
 {162}{}{It's been a pleasure.}
 {163}{}{Obrigado.}
 {164}{}{That's not acceptable.}

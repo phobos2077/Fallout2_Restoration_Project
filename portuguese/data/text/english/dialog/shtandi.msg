@@ -121,7 +121,7 @@
 {219}{}{Eu vejo.}
 {220}{}{Who is this Westin person?}
 {221}{tand22}{Congressman Westin? One of the biggest brahmin ranchers around. His spreads on the west side of town. Just don't bring up New Reno if you talk to him - it gets him going. If you're looking for a steady job... but you aren't that type, are you?}
-{222}{}{No thanks.}
+{222}{}{Não, obrigado.}
 {223}{tand23}{Stubborn as a mule... but a good man. Why?}
 {224}{}{Me curious about work.}
 {225}{}{Me curious about work.}

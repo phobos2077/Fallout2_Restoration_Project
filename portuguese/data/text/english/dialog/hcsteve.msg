@@ -68,7 +68,7 @@
 {155}{}{Tell me about the place.}
 {156}{}{Who lives here?}
 {157}{}{What services do you have here?}
-{158}{}{No thanks.}
+{158}{}{Não, obrigado.}
 {159}{}{We make our living by refining the ore we dig from the hills, and selling it to nearby
  communities like Vault City, Gecko, and the New California Republic. We use some ourselves for our
  own power. More?}
