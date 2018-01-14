@@ -71,8 +71,8 @@ canto nordeste da base.}
 {158}{}{Sim, vamos lá.}
 {159}{}{Ei, eu consertei coisas mais complexas do que a sua bunda vira-lata sarnento. Fique tranquilo e eu vou tentar isso de novo.}
 {160}{}{Vá embora. Eu não quero você como mestre.}
-{161}{}{Leave me in peace.}
-{162}{}{I do not like you. Go away.}
+{161}{}{Deixe-me em paz.}
+{162}{}{Eu não gosto de você. Vá embora.}
 {163}{}{Vou terminar com você.}
 {164}{}{Bloqueando armas no alvo. Prepare-se para se engajar.}
 {165}{}{Você será destruído.}
