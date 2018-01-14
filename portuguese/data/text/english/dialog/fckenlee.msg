@@ -71,7 +71,7 @@
 {169}{}{Obrigado. Tchau.}
 {170}{}{You must complete a second test: the Hubologists are our enemies. Their leader, AHS-9, has been abducting and brainwashing our children. Kill him for the good of the Shi and I shall tell you how to speak to the Emperor.}
 {171}{}{He's as good as dead.}
-{172}{}{No, I don't think so.}
+{172}{}{Não, eu não penso assim.}
 {173}{}{No? It saddens me, but I understand. Best of luck in your quest. If you change your mind, you know where to reach me.}
 {174}{}{Sure do. I have more questions.}
 {175}{}{Yep. Bye.}

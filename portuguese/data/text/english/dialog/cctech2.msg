@@ -4,10 +4,10 @@
 {103}{}{Sim, senhor?}
 {104}{}{Eu novo aqui. Precisa perguntar.}
 {105}{}{Eu apenas disse oi. Eu vou agora.}
-{106}{}{I’m new here and I’m trying to get familiar with the base. Can I ask you some questions?}
+{106}{}{Eu sou novo aqui e estou tentando familiarizar-me com a base. Posso fazer-lhe algumas perguntas?}
 {107}{}{Só dizendo Oi. Até mais.
 }
-{108}{}{Certainly, soldier.}
+{108}{}{Certamente, soldado.}
 {109}{}{Com o que posso ajudar?
 }
 {110}{}{O que este lugar?}
@@ -20,21 +20,21 @@
 {120}{}{Onde está localizada a base principal Enclave?}
 {121}{}{Preciso olhar para os planos do vertibird. Onde eles são mantidos?}
 {125}{}{Nada. Tenho que ir.}
-{126}{}{This is the comm center. From here we handle all communications with the main base and any other outposts that have been established.}
+{126}{}{Este é o centro de comando. A partir daqui podemos lidar com todas as comunicações com a base principal e quaisquer outros postos que foram estabelecidos.}
 {127}{}{Eu vejo. Eu peço mais.}
 {128}{}{Tudo bem. Mais um par de perguntas.}
-{129}{}{I’m a comm center technician, first class. I perform supervisory duties. Mainly I make sure the other techs don’t screw up.}
+{129}{}{Eu sou um técnico de centro de comunicação, de primeira classe. Eu executo tarefas de supervisão. Principalmente eu me certifico de que os outros técnicos não estragem.}
 {130}{}{Uh... sim.}
 {131}{}{Boa. Mantenha o bom trabalho.}
-{132}{}{Soldier, that information is on a "need to know"-only basis. If you have to ask the question then you don’t need to know.}
+{132}{}{Soldado, essa informação está em uma "necessidade de saber", apenas da base. Se você tiver que fazer a pergunta, então não precisa saber.}
 {133}{}{Tudo bem.}
-{134}{}{Come on, it’s not like I’m some damn tribal or something. We’re in the same outfit; notice the insignia on the armor?}
+{134}{}{Vamos, não é como se eu fosse um maldito tribal ou algo assim. Estamos na mesma roupa; Observa as insígnias na armadura?}
 {135}{}{Eu entendo.}
-{136}{}{Yes, sir. The main base is located off the Pacific coast near the city of San Francisco. May I inquire why you are asking, sir?}
-{137}{}{Soldier, I told you that information is on a "need to know"-only basis.}
-{138}{}{For security purposes, I’m checking the level of information awareness among base personnel. Now, tell me all the ways you personally know of to get to main base.}
+{136}{}{Sim senhor. A base principal está localizada na costa do Pacífico, perto da cidade de São Francisco. Posso perguntar por que você está perguntando, senhor?}
+{137}{}{Soldado, eu disse a você que a informação está em uma "necessidade de saber"-apenas a base.}
+{138}{}{Por motivos de segurança, estou verificando o nível de conscientização da informação entre o pessoal da base. Agora, me diga todas as maneiras que você conhece pessoalmente para chegar à base principal.}
 {139}{}{Eu entendo.}
-{140}{}{Yes, sir. First, the vertibirds are the primary method used in reaching main base. Due to the complexity of their operation it is doubtful that subversives could commandeer a vertibird. Second, there is an operational fuel tanker in San Francisco harbor. The ship has, however, been disabled and a passkey is required to restart it. The base commander has the passkey in his possession. Third, with the proper equipment, you could conceivably swim to main base but the probability of survival is next to nil.}
+{140}{}{Sim senhor. Primeiro, os vertibirds são o principal método usado para alcançar a base principal. Devido à complexidade de sua operação, é duvidoso que os subversivos possam comandar um vertibird. Em segundo lugar, existe um petroleiro de combustível operacional no porto de São Francisco. O navio, no entanto, foi desativado e uma senha é necessária para reiniciá-lo. O comandante da base possui a senha na sua posse. Em terceiro lugar, com o equipamento adequado, você poderia nadar para a base principal, mas a probabilidade de sobrevivência é próxima a zero.}
 {141}{}{Obrigado.}
 {142}{}{Obrigado.}
 {143}{}{Eles devem estar localizados na área de manutenção, ao lado de controlo de tráfego aéreo. }

@@ -1,3 +1,3 @@
-{100}{}{You see a Plasma Turret.}
-{101}{}{You see a Mk II Plasma Turret.}
-{102}{}{A sign on the turret warns that tampering with it will most likely result in death.}
+{100}{}{Você vê um canhão de Plasma.}
+{101}{}{Você vê um Mk II canhão de Plasma.}
+{102}{}{Um sinal na torre adverte que a adulteração é mais provável de resultar em morte.}
