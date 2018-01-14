@@ -13,7 +13,7 @@
 {112}{}{Log Out.}
 {113}{}{Please speak to the system administrator. Goodbye.}
 {114}{}{Hack into computer.}
-{115}{}{Leave.}
+{115}{}{Deixar.}
 {116}{}{Intruder alert activated. Shutting down. Have a nice day.}
 {117}{}{[FEITO]}
 {118}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sea life. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
@@ -29,7 +29,7 @@
 {128}{}{[FEITO]}
 {129}{}{Station deactivated.}
 {130}{}{Activate station.}
-{131}{}{Leave.}
+{131}{}{Deixar.}
 {132}{}{[Your random approach works wonders... you're in the machine!]}
 {133}{}{[MAIS]}
 {134}{}{The computer does not respond to any input.}

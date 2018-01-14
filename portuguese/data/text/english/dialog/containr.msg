@@ -1,14 +1,14 @@
-{100}{}{You see a wooden crate.}
-{101}{}{You see a metal locker.}
-{102}{}{You see a sturdy container with a lock (which can be picked with
- lockpicks) and a highly explosive trap in the frame, which
- you may be able to pry open.}
-{103}{}{You see a sturdy container with a lock on it and a highly
- explosive trap in the frame, which you may be able to
- pry open.}
-{104}{}{You see a sturdy container with no apparent locking device and
- a highly explosive trap in the frame, which you may be able
- to pry open.}
+{100}{}{Você vê uma caixa de madeira.}
+{101}{}{Você vê um armário de metal.}
+{102}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
+  gazua) e uma armadilha altamente explosiva no quadro, que
+  você pode abrir.}
+{103}{}{Você vê um recipiente resistente com um bloqueio e um
+  armadilha explosiva no quadro, que você poderá
+  abrir.}
+{104}{}{Você vê um recipiente resistente com nenhum dispositivo de bloqueio aparente e
+  uma armadilha altamente explosiva no quadro, que você pode
+  abrir.}
 {105}{}{You see a sturdy container with an old, rusty lock and a highly
  explosive trap in the frame, which you may be able to pry
  open.}
@@ -176,5 +176,5 @@ pontos de dano.}
 {209}{}{You fail to properly set the trap in the container.}
 {210}{}{ skillfully sets a trap on the container.}
 {211}{}{ fails to properly set the trap in the container.}
-{212}{}{You see a refrigerator.}
+{212}{}{Você vê um frigorífico.}
 {400}{}{You unlock the container.}

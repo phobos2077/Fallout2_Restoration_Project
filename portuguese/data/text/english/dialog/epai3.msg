@@ -1,4 +1,4 @@
-{100}{}{You see a functional computer.}
+{100}{}{Você verá um computador funcional.}
 {101}{}{You see the EPA's Top Secret Research and Development Terminal.}
 {102}{}{Welcome to EPA's Top Secret Research and Development Terminal. Error initializing quick access procedure. Please
  search for something specific.}

@@ -146,11 +146,11 @@ e tem realizado experimentos para determinar minha verdadeira natureza. Ele
 {600}{}{Juntos, vamos esmagar os nossos inimigos.}
 {601}{}{Você os alinha e eu vou derrubá-los.}
 {602}{}{Time for some serious head bashing.}
-{700}{}{You see a deathclaw. It watches you with strangely intelligent eyes.}
-{701}{}{You see Xarn, the deathclaw.}
-{702}{}{You see a typical deathclaw. The creature is huge, with a powerful body, sharp teeth, and long claws.}
-{800}{}{You killed Xarn.}
-{810}{}{You freed Xarn.}
-{820}{}{You joined Xarn.}
-{900}{}{No. Me here rescue you. Really. Me already open door for leave. You go.}
-{901}{}{Look, I really am here to rescue you! I already unlocked the other door. You are free to leave.}
+{700}{}{Você vê um garra mortal. Ele observa você com olhos estranhamente inteligentes.}
+{701}{}{Você vê Xarn, o garra mortal.}
+{702}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados, e longas garras.}
+{800}{}{Você matou Xarn.}
+{810}{}{Você libertou Xarn.}
+{820}{}{Você se juntou a Xarn.}
+{900}{}{Não. Aqui Me resgatar você. Realmente. Já Me abra a porta para sair. Você ir.}
+{901}{}{Olha, eu realmente estou aqui para resgatá-lo! Eu já abri a outra porta. Você está livre para sair.}

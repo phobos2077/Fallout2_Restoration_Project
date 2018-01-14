@@ -1,9 +1,9 @@
-{100}{}{You see a functional computer.}
+{100}{}{Você verá um computador funcional.}
 {101}{}{You see the EPA's botany terminal.}
 {200}{}{Welcome to the EPA's botany terminal. Please select one of the following options.}
 {201}{}{Access information database.}
 {202}{}{Access seed storage.}
-{203}{}{Log off.}
+{203}{}{Termine a sessão.}
 {210}{}{There are currently two databases available for viewing. Please make your choice below.}
 {211}{}{Access file on crop rotation.}
 {212}{}{Access file on botany.}
