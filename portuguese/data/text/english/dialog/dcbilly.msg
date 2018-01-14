@@ -35,41 +35,41 @@
 }
 {183}{}{Não me incomode. Estou procurando por pintinhos bonitos.}
 {184}{}{Good luck. You'll need it.}
-{185}{}{What am I, chopped liver?}
+{185}{}{O que sou eu, fígado picado?}
 {186}{}{Adeus.}
-{187}{}{Oooh. OK. Bye.}
-{188}{}{[looks you up and down] No. I like chopped liver.}
-{189}{}{I don't need this from you!}
-{190}{}{Excuse me, I have to go.}
-{191}{}{Too bad. I thought you were cute.}
-{203}{}{I want my money back.}
-{204}{}{I ain't giving you anything but a hole in the head.}
-{205}{}{OK, here you go.}
-{206}{}{Hey.}
-{207}{}{Oh come on, give }
-{208}{}{ another chance here.}
-{209}{}{I can see you don't want to talk to me. I'm leaving.}
-{210}{}{I gave you your chance and you blew it.}
-{211}{}{OK, but just one more chance.}
-{212}{}{That's my boy.}
-{213}{}{I'm just gonna have to kill you, then.}
-{220}{}{Hey, Frankie, I'm gonna just borrow the back room for a little while.}
-{221}{}{Hey, Frankie, look what I snagged.}
-{222}{}{Uh, Frankie, if anyone's... uh... looking for me, I'll be in back.}
-{223}{}{Follow me.}
-{224}{}{It's gonna have to wait. I'll talk to you later.}
-{225}{}{I don't have it.}
-{300}{}{Damn, I'm fucked flat.}
+{187}{}{Oooh. OK. Tchau.}
+{188}{}{[olha você para cima e para baixo] Não. Eu gosto de fígado picado.}
+{189}{}{Eu não preciso disso!}
+{190}{}{Desculpe-me, tenho que ir.}
+{191}{}{Que pena. Eu pensei que você era fofo.}
+{203}{}{Eu quero o meu dinheiro de volta.}
+{204}{}{Eu não vou lhe dar nada além de um buraco na cabeça.}
+{205}{}{OK, aqui vai.}
+{206}{}{Olá.}
+{207}{}{Oh, venha, dê}
+{208}{}{ outra chance aqui.}
+{209}{}{Eu posso ver que você não quer falar comigo. Estou de saída.}
+{210}{}{Eu te dei a chance e você estragou tudo.}
+{211}{}{OK, mas apenas mais uma chance.}
+{212}{}{Esse é o meu garoto.}
+{213}{}{Eu só vou ter que matar você, então.}
+{220}{}{Ei, Frankie, só vou emprestar o quarto de trás por um momento.}
+{221}{}{Ei, Frankie, olha o que eu fisguei. }
+{222}{}{Uh, Frankie, se alguém estiver ... uh ... procurando por mim, estarei de volta.}
+{223}{}{Siga-me.}
+{224}{}{Ele vai ter de esperar. Eu vou falar com você mais tarde.}
+{225}{}{Eu não tenho isso.}
+{300}{}{Porra, estou fodido liso. }
 {301}{}{Wahoo.}
-{302}{}{That was... was... WOW!!!}
-{303}{}{You could set her ass on fire.}
-{304}{}{Damn that parted my hair - well, what little I have.}
-{305}{}{Sure beats a roll with Dave.}
-{320}{}{Not bad... Not bad...}
-{321}{}{I might even pay for that again.}
+{302}{}{Isso foi... foi... UAU!!!}
+{303}{}{Você poderia incendiar sua bunda.}
+{304}{}{Porra que dividia o meu cabelo - bem, o pouco que eu tenho.}
+{305}{}{Certo, bate um rolo com Dave.}
+{320}{}{Nada mau... Nada mau...}
+{321}{}{Eu posso até pagar por isso de novo.}
 {322}{}{Mmmm...}
-{323}{}{Not bad, not bad.}
-{324}{}{We'll have to do that again and work on our... flexibility.}
+{323}{}{Nada mau, nada mau.}
+{324}{}{Teremos que fazer isso novamente e trabalhar com a nossa ... flexibilidade.}
 {350}{}{Looks like I'm going to be getting Handy again.}
 {351}{}{Don't let the door hit your DRY ASS on the way out!}
 {352}{}{Time to finish what you couldn't even start!}

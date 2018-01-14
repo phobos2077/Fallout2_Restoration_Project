@@ -65,7 +65,7 @@
 }
 {213}{}{It will cost $}
 {214}{}{ for a session. Pay first.}
-{215}{}{Follow me.}
+{215}{}{Siga-me.}
 {216}{}{I'm waiting.}
 {217}{}{I'm not gonna stand here in this cold room all day.}
 {218}{}{Would you hurry up?}
@@ -73,7 +73,7 @@
 {220}{}{Fine; I'm not waiting around any longer.}
 {221}{}{Come on, come on.}
 {222}{}{Getting excited or something?}
-{223}{}{Follow me.}
+{223}{}{Siga-me.}
 {224}{}{Hey, pal, keep your hands off of the merchandise.}
 {225}{}{Knock it off! I'm not just some toy to use.}
 {230}{}{Uhhh...? Was this your first time?}

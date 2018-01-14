@@ -89,7 +89,7 @@
 {234}{}{Yeah, I bet. You must have the damnedest time getting men. Try your luck somewhere else, sister. I ain't into no charities.}
 {235}{}{Fine! Something else then.}
 {236}{}{Why, you little...}
-{237}{}{I don't need this from you!}
+{237}{}{Eu não preciso disso!}
 {238}{}{I have a room over there. You and I can use it.}
 {239}{}{OK.}
 {240}{}{No, I didn't mean that!}
@@ -109,7 +109,7 @@
 {255}{}{Where are you, woman?}
 {256}{}{Would you get in here?}
 {257}{}{Come on, baby.}
-{258}{}{Follow me.}
+{258}{}{Siga-me.}
 {259}{}{No woman stands me up. Get the hell out!}
 {260}{}{Bem.
 }
