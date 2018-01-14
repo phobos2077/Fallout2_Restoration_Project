@@ -1,38 +1,39 @@
-{100}{}{You see a patron of the Hole.}
-{150}{}{This fellow sure isn't very attractive.}
-{151}{}{This guy's only got one tooth.}
+{100}{}{Você vê um patrono do Buraco.}
+{150}{}{Esse colega não é muito atraente.}
+{151}{}{Esse cara só tem um dente.}
 {152}{}{[FALAR]}
-{153}{}{Your wife sure is pretty!}
-{154}{}{Get away from us.}
-{155}{}{You like her, huh?}
-{156}{}{Yes, she is.}
-{157}{}{Yup.}
-{158}{}{I sure would like to do her.}
-{159}{}{Go right ahead.}
-{160}{}{OK. That'll be $50.}
-{161}{}{Sure, but it'll cost you $200.}
-{162}{}{No way! Get away from us!}
+{153}{}{A sua esposa com certeza é bonita!}
+{154}{}{Ficar longe de nós.}
+{155}{}{Você gosta dela, hein?}
+{156}{}{Sim, ela é.}
+{157}{}{Sim.}
+{158}{}{Eu com certeza gostaria de fazer o seu.}
+{159}{}{Vá em frente.}
+{160}{}{ESTÁ BEM. Isso será $ 50.}
+{161}{}{Com certeza, mas vai custar-lhe $200.}
+{162}{}{De jeito nenhum! Se afaste de nós!}
 {163}{}{OK.}
 {164}{}{Não.}
-{165}{}{Alright! Now come with Billy, sweetie.}
-{166}{}{Now go away.}
+{165}{}{Tudo bem! Agora com Billy, querida.}
+{166}{}{Agora vá embora.}
 {167}{}{Obrigado. Tchau.}
 {168}{}{Adeus.}
-{169}{}{Aw, shucks.}
+{169}{}{Aw, nojo.}
 {170}{}{[FEITO]}
-{171}{}{I am plumb tuckered out.}
-{172}{}{I'll come back.}
+{171}{}{Estou cheio de plumas.}
+{172}{}{Eu vou voltar.}
 {173}{}{OK.}
-{174}{}{You sure are a pretty thing.}
-{175}{}{Get away from me.}
-{176}{}{Give me $200 and you can spend some time with me.}
-{177}{}{I cost $50, Mac.}
-{178}{}{Hee hee. Thanks.}
-{179}{}{I don't have enough money.}
-{180}{}{Ok, $50 then.}
-{181}{}{Too bad for you.}
-{182}{}{See you around.}
-{183}{}{Don't bother me. I'm scoping for nice-looking chicks.}
+{174}{}{Você com certeza é uma bela coisa.}
+{175}{}{Fique longe de mim.}
+{176}{}{Me dê us $200 e você pode passar algum tempo comigo.}
+{177}{}{Eu custo $50, Mac.}
+{178}{}{Hee hee. Obrigado.}
+{179}{}{Eu não tenho dinheiro suficiente.}
+{180}{}{Ok, $50 então.}
+{181}{}{Muito ruim para você.}
+{182}{}{Até a próxima.
+}
+{183}{}{Não me incomode. Estou procurando por pintinhos bonitos.}
 {184}{}{Good luck. You'll need it.}
 {185}{}{What am I, chopped liver?}
 {186}{}{Adeus.}

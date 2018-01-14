@@ -1,38 +1,39 @@
-{100}{}{This man looks fairly strong and alert.}
-{101}{}{She seems strong despite her size.}
-{200}{}{He seems to be awfully thin but angry.}
-{201}{}{This one looks fairly strong.}
-{202}{}{He moves with great speed.}
-{210}{}{She doesn't seem to have ever bathed.}
-{211}{}{She looks like strong fighter.}
-{212}{}{This one doesn't seem like much trouble.}
-{245}{}{Quiet! They near.}
-{246}{}{Kill bad men.}
-{247}{}{No take family from me.}
-{248}{}{I protect family.}
-{249}{}{Must not find us.}
-{250}{}{They bad people.}
-{260}{}{Slavers are coming. Everyone quiet.}
-{261}{}{Get ready. I think they're close now.}
-{262}{}{I'm not going down without a fight.}
-{263}{}{They'll never enslave us.}
-{264}{}{Those slavers will pay for this.}
-{265}{}{No slaver's going to take my family.}
-{300}{}{You die now!}
-{301}{}{Me kill!}
-{302}{}{You no hurt family!}
-{303}{}{You no take family!}
-{304}{}{I protect!}
-{305}{}{I hurt you!}
-{306}{}{You pay!}
+{100}{}{Este homem parece bastante forte e alerta.}
+{101}{}{Ela parece forte, apesar de seu tamanho.}
+{200}{}{Ele parece ser muito fino, mas com raiva.}
+{201}{}{Este parece bastante forte.}
+{202}{}{Ele se move com grande velocidade.}
+{210}{}{Ela não parece ter se banhado.}
+{211}{}{Ela parece forte lutadora.}
+{212}{}{Este não parece ser muito problema.}
+{245}{}{Silêncio! Eles perto.}
+{246}{}{Matar os homens maus.}
+{247}{}{Não tire minha família de mim.}
+{248}{}{Eu proteger a família.}
+{249}{}{Não devem encontrar-nos.}
+{250}{}{Eles pessoas más.}
+{260}{}{Escravistas estão chegando. Todos quietos.}
+{261}{}{Prepare-se. Eu acho que eles estão perto agora.}
+{262}{}{Eu não vou cair sem uma luta.}
+{263}{}{Eles nunca vão nos escravizar.}
+{264}{}{Aqueles escravistas pagarão por isso.}
+{265}{}{Nenhum escravista vai levar minha família.}
+{300}{}{Você morrer agora!}
+{301}{}{Me matar!}
+{302}{}{Você não magoar a família!}
+{303}{}{Você não levar a família!}
+{304}{}{Eu proteger!}
+{305}{}{Eu feri você!
+}
+{306}{}{Você paga!}
 {307}{}{Morra!}
-{308}{}{I'm gonna hurt you.}
-{350}{}{You're not going to take my family, slaver!}
-{351}{}{Die, slaving scum!}
-{352}{}{You'll pay, you bastard!}
-{353}{}{I'll fight to the death for my family!}
-{354}{}{You won't get away with this!}
-{355}{}{You're not leaving here with my friends!}
-{356}{}{I'm going to get you for this!}
-{357}{}{God damn slavers!}
-{358}{}{You'll pay for this!}
+{308}{}{Eu vou machucar você.}
+{350}{}{Você não vai levar a minha família, escravista!}
+{351}{}{Morra, escravo escória!}
+{352}{}{Você vai pagar, seu sacana!}
+{353}{}{Eu vou lutar até a morte para a minha família!}
+{354}{}{Você não vai conseguir acabar com isso!}
+{355}{}{Você não vai sair com meus amigos!}
+{356}{}{Eu vou receber por isso!}
+{357}{}{Malditos escravistas!}
+{358}{}{Você vai pagar por isso!}

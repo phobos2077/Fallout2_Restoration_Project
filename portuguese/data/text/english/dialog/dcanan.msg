@@ -37,38 +37,38 @@
 {141}{}{Ai está! A MÚMIA! (A porta do sarcófago se abre para revelar um cadáver dessecado, que se parece muito com um ghoul comum, parado em um sarcófago de papel mal pintado, estilhaçado e quebrado).}
 {142}{}{Ai está! Apresentando, a MÚMIA! (uma porta de cripta se abre para revelar uma múmia egípcia de jan-u-wine em um sarcófago aberto que parece ter sido feita de ouro puro!)}
 {143}{}{Ei, espere um minuto. Isso não é uma Múmia. Isso é um ghoul. WOODY! Ei WOODY! Isso é você?}
-{144}{}{That sure looks like a ghoul to me.}
-{145}{}{That's a mummy? I can't believe I just paid $25 to see a six-foot hunk of jerky. Goodbye.}
-{146}{}{Wow, that's fantastic...I guess. (you look at the Mummy very intently for a while). Uh, thanks, Goodbye.}
-{147}{}{(the Mummy, snorts, stretches languidly, and then looks at you with a sleepy blink to its eyes) Hello. (he says, sleepily)}
-{148}{}{Holy shit! That *is* Woody! Run Woody, run for it! Well, uh, gimp for it then! Go Woody go!}
-{149}{}{I assure you that the Mummy is, in fact, quite jan-u-wine.}
-{150}{}{I don't think I believe you. Let me try something. WOODY! Hey WOODY! Is that you?}
-{151}{}{Well, if you say so. But I sure think it looks like an ordinary ghoul. Goodbye.}
-{152}{}{(Woody--for it is in fact Woody, not a Mummy, that stands somewhat drowsily before you--grabs the sides of the
- paper-
-mache sarcophagus, lets out a shriek and runs for the door, leaving a trail of toilet-paper 'mummy-wrappings'
- and a hasty "Thankee kindly, Stranger!" behind him.)}
-{153}{}{Hah! I knew it! You're finished in this town. You're not the Great Ananias anymore, you're just another ass.}
-{154}{}{Go Woody go! Ahah! I knew it!}
-{155}{}{(The Great Ananias shrugs) I knew I should have picked up that mono-headed Brahmin instead. Oh well, back to the drawing board.}
-{156}{}{Mono-headed brahmin? Sure, who would ever believe that! Goodbye, you Charlatan.}
-{157}{}{You woke up Woody the ghoul and freed him from indentured mummy-tude.}
-{158}{}{I think I'd rather hear the ghost story.}
-{200}{}{I know things that mere mortal man is not meant to know. Aiiieeee! Nyarloth...Oh, sorry (heh, heh). Got a little carried away
- there for a moment. I have tales of a Ghost that haunts these very grounds, as well as a Jan-u-wine Egypt-ee-an Mummy that you
- can see, right here in this marvelous sarcophagus.}
-{201}{}{Tell me about the mummy. I'm just dying to hear more about that.}
-{202}{}{I've just got to hear that ghost story. Uh, do I get a nice hot cup of cocoa to go with it?}
-{203}{}{I don't think I have any more time to waste on whatever it is that you're hawking.}
-{300}{}{Well, you see, (he motions you closer) there was once a great queen that ruled all of the surrounding town. She kept her
- throne by virtue of a special amulet that she kept around her neck at all times. Great stuff, huh?}
-{301}{}{Uh, yeah. You bet. So this princess had a *magic* amulet. Oh, do go on. I just can't stand this level of suspense
- much longer (yawn).}
-{302}{}{OK. I think I've heard just about enough. Goodbye.}
-{400}{}{Well, I'll cut to the chase then. So, the evil wizard poisoned the young princess and took her amulet. She's been wandering
- around the room next door ever since. Well, uh, that is, just at the witching hour, anyway. That's why I keep the door locked.
- Pretty darn scary, huh?}
-{401}{}{The ghost of an amuletless princess in the trashed room next door? That's it? I can't believe you're peddling *that* as a story.
- I'd rather hear about this stupid Mummy you're supposed to have here.}
-{402}{}{OK. I think I've heard just about enough. Goodbye.}
+{144}{}{Isso parece um ghoul para mim.}
+{145}{}{Essa é uma múmia? Eu não posso acreditar que eu acabei de pagar us $25 para ver seis-pés de pedaço de charque. Adeus.}
+{146}{}{Uau, que fantástico...eu acho. (você olhar para a Múmia muito atentamente por um tempo). Uh, obrigado, Adeus.}
+{147}{}{(A Múmia, bufa, se estende lânguida e depois olha para você com um piscar de sono aos olhos) Olá. (diz ele, com sono)}
+{148}{}{Puta merda! Isso * é * Woody! Corra Woody, corre daqui! Bem, uh, acabe com isso, então! Vai Woody vai!}
+{149}{}{Eu garanto a você que a Múmia é, na verdade, bastante jan-u-vinho.}
+{150}{}{Eu não acho que eu acredito em você. Deixe-me tentar algo. WOODY! Ei WOODY! É você?}
+{151}{}{Bem, se você diz. Mas eu acho que parece um ghoul normal. Adeus.}
+{152}{}{(Woody - pois é, de fato, Woody, não uma Múmia, que fica um pouco arrepiante antes de você - agarra os lados do
+  papel-
+mache sarcófago, solta um grito e corre para a porta, deixando uma trilha de papel higiênico "embrulhos de múmia"
+  e um acelerado "Obrigado gentil, estranho!" atrás dele.)}
+{153}{}{Hah! Eu sabia! Você terminou nesta cidade. Você não é o Grande Ananias mais, você é apenas mais uma bunda.}
+{154}{}{Ir Woody ir! Ahah! Eu sabia!}
+{155}{}{(O Grande Ananias encolhe os ombros) Eu sabia que deveria ter pegado aquele Brahmin de uma cabeça em vez disso. Ah, bem, de volta ao quadro de desenho.}
+{156}{}{Brahmin de uma cabeça? Claro, quem jamais acreditaria nisso! Adeus, seu Charlatão.}
+{157}{}{Você acordou Woody o ghoul e o libertou do contratado múmia-tude.}
+{158}{}{Eu acho que eu prefiro ouvir a história de fantasma.}
+{200}{}{Eu sei coisas que o mero homem mortal não deve ser conhecido. Aiiieeee! Nyarloth ... Oh, desculpe (heh, heh). Fiquei um pouco levado
+  por um momento. Tenho contos de um fantasma que assombra esses próprios edificios, bem como Jan-u-wine Egito-ee-uma Múmia que 
+você pode ver, aqui, nesta maravilhosa sarcófago.}
+{201}{}{Conte-me sobre a múmia. Eu estou morrendo de vontade de ouvir mais sobre isso.}
+{202}{}{Acabei de ouvir essa história de fantasmas. Uh, eu recebo uma boa xícara quente de cacau para ir com isso?}
+{203}{}{Eu não acho que tenho mais tempo para desperdiçar o que quer que seja que você está falando.}
+{300}{}{Bem, você vê, (ele movimenta você mais perto) havia uma vez uma ótima rainha que governou toda a cidade vizinha. Ela a manteve
+  trono em virtude de um amuleto especial que ela manteve ao redor de seu pescoço em todos os momentos. Grande coisa, hein?}
+{301}{}{Uh, sim. Pode apostar. Então, essa princesa teve um amuleto * mágico *. Oh, continue. Eu simplesmente não suporto esse nível de suspense
+  muito mais longo (bocejo).}
+{302}{}{OK. Eu acho que eu ouvi apenas o suficiente. Adeus.}
+{400}{}{Bem, vou cortar a perseguição então. Então, o mago maligno envenenou a jovem princesa e pegou seu amuleto. Ela está vagando
+  Em torno da sala da vizinhança desde então. Bem, uh, isto é, apenas na hora das bruxas, mesmo assim. É por isso que mantenho a porta trancada.
+  Muito ruim assustador, hein?}
+{401}{}{O fantasma de uma princesa amuleto na sala destroçada ao lado? É isso aí? Não posso acreditar que você está pedindo * algo * como essa história.
+  Eu preferiria ouvir sobre essa múmia estúpida que você deveria ter aqui.}
+{402}{}{OK. Eu acho que eu ouvi apenas o suficiente. Adeus.}

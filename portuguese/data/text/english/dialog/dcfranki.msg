@@ -32,7 +32,7 @@
 {177}{}{Nope, thanks.}
 {178}{}{You don't have enough money! This ain't no charity!}
 {179}{}{Oh, sorry. I'm low on funds.}
-{180}{}{I'll come back.}
+{180}{}{Eu vou voltar.}
 {181}{}{O que você quer?}
 {182}{}{Whiskey.}
 {183}{}{Nothing. I'm leaving.}

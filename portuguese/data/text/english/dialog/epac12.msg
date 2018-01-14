@@ -89,7 +89,7 @@
 {301}{}{I'm all ears.}
 {302}{}{Something you wanted?}
 {303}{}{What is it? You look like you have something to say.}
-{304}{}{What's the matter?}
+{304}{}{Qual é o problema?}
 {305}{}{Is there anything you need from me?}
 {310}{}{Kitsune, I'm pretty sure you wouldn't have been frozen in a cryo tank for no good reason.
  I'm interested in knowing what it was exactly you did before you were put on ice.}
