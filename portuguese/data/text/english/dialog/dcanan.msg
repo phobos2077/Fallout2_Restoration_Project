@@ -1,7 +1,7 @@
-{100}{}{You see a short man with a thick mustache.}
-{101}{}{You see the Great Ananias.}
-{102}{}{You see a short, mustachioed, man with a somewhat furtive look to him.}
-{103}{}{You! What do you want to do to the, formerly, Great Ananias now?}
+{100}{}{Você vê um homem baixo, com um espesso bigode.}
+{101}{}{Você vê o Grande Ananias.}
+{102}{}{Você vê um homem curto, de bigode, com um olhar um pouco furtivo para ele.}
+{103}{}{Você! O que você quer fazer para o, anteriormente, Grande Ananias agora?}
 {104}{}{Get away from me!}
 {105}{}{Go ruin someone else's business.}
 {106}{}{Take it out on someone else.}

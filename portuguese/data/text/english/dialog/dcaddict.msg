@@ -94,16 +94,17 @@
 {373}{}{Faça parar!}
 {374}{}{Ug.}
 {375}{}{Ah, a dor.}
-{376}{}{<cough> <cough> <cough>}
-{377}{}{Ooh, my head!}
-{378}{}{Where'd I put my stash?}
-{400}{}{A demon!}
-{401}{}{The enemy is upon us!}
-{402}{}{You murderer! You killed my son!}
-{403}{}{A monster! Kill it!}
+{376}{}{<tosse> <tosse> <tosse>}
+{377}{}{Ooh, minha cabeça!}
+{378}{}{Onde eu coloquei meu esconderijo?}
+{400}{}{Um demônio!}
+{401}{}{O inimigo está sobre nós!}
+{402}{}{Você assassino! Você matou meu filho!}
+{403}{}{Um monstro! Mate-o!}
 {404}{}{Ah! Pargasraka!}
-{405}{}{Feet fom chin rat going! Ahhh!}
-{406}{}{You won't take it from me!}
-{407}{}{Give it back!}
-{408}{}{No!!!}
-{409}{}{My family!}
+{405}{}{Pés de rato indo! Ahhh!}
+{406}{}{Você não tira isso de mim!}
+{407}{}{Devolva!
+}
+{408}{}{Não!!!}
+{409}{}{Minha família!}
