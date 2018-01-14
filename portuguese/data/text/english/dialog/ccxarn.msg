@@ -145,7 +145,7 @@ e tem realizado experimentos para determinar minha verdadeira natureza. Ele
 {503}{}{Isso vai te machucar muito mais do que a mim.}
 {600}{}{Juntos, vamos esmagar os nossos inimigos.}
 {601}{}{Você os alinha e eu vou derrubá-los.}
-{602}{}{Time for some serious head bashing.}
+{602}{}{Tempo para um golpe de cabeça grave.}
 {700}{}{Você vê um garra mortal. Ele observa você com olhos estranhamente inteligentes.}
 {701}{}{Você vê Xarn, o garra mortal.}
 {702}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados, e longas garras.}

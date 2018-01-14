@@ -1,9 +1,9 @@
-{170}{}{You deftly pick the lock on the locker.}
-{171}{}{Your lack of skill has jammed the lock on this locker.}
-{172}{}{You fail to pick the lock on this locker.}
-{173}{}{ deftly picks the lock on the locker.}
-{174}{}{'s lack of skill has jammed the lock on this locker.}
-{175}{}{ failed to pick the lock on this locker.}
+{170}{}{Você habilmente pegar o bloqueio no armário.}
+{171}{}{A sua falta de habilidade tem obstruído o bloqueio no armário.}
+{172}{}{Você não pegar o bloqueio no armário.}
+{173}{}{ habilmente pega o bloqueio no armário.}
+{174}{}{'s falta de habilidade tem obstruído o bloqueio no armário.}
+{175}{}{ não conseguiu pegar o bloqueio no armário.}
 {176}{}{Você arrombou a fechadura da porta.}
 {177}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e
   toma um ponto de dano.}
@@ -20,11 +20,11 @@
   pontos de dano.}
 {187}{}{pressiona suas costas enquanto tenta abrir o bloqueio e toma }
 {188}{}{pontos de dano.}
-{189}{}{You deftly lock the locker.}
-{190}{}{You fail to lock the locker.}
-{191}{}{ deftly locks the locker.}
-{192}{}{ failed to lock the locker.}
-{203}{}{The locker appears to be locked.}
-{800}{}{You retrieved the fob.}
-{810}{}{You retrieved the plans.}
-{820}{}{You retrieved the K-9 motivator.}
+{189}{}{Você bloqueia habilmente o armário.}
+{190}{}{Você não bloqueia o armário.}
+{191}{}{ habilmente bloqueia o armário.}
+{192}{}{ falha ao bloquear o armário.}
+{203}{}{O armário parece estar bloqueado.}
+{800}{}{Você recuperou o fob.}
+{810}{}{Você recuperou os planos.}
+{820}{}{Você recuperou o K-9 motivador.}

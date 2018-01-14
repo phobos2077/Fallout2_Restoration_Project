@@ -9,140 +9,141 @@
 {104}{}{Você vê um recipiente resistente com nenhum dispositivo de bloqueio aparente e
   uma armadilha altamente explosiva no quadro, que você pode
   abrir.}
-{105}{}{You see a sturdy container with an old, rusty lock and a highly
- explosive trap in the frame, which you may be able to pry
- open.}
-{106}{}{You see a sturdy container with a lock (which can be picked with
- lockpicks) and a trap in the frame, which you may be able to
- pry open.}
-{107}{}{You see a sturdy container with a lock on it and a trap in
- the frame, which you may be able to pry open.}
-{108}{}{You see a sturdy container with no apparent locking device and
- a trap in the frame, which you may be able to pry open.}
-{109}{}{You see a sturdy container with an old, rusty lock and a trap
- in the frame, which you may be able to pry open.}
-{110}{}{You see a sturdy container with a lock (which can be picked with
- lockpicks) and a cut wire in the frame, which you may be
- able to pry open.}
-{111}{}{You see a sturdy container with a lock on it and a severed wire
- in the frame, which you may be able to pry open.}
-{112}{}{You see a sturdy container with no apparent locking device and
- a severed wire in the frame, which you may be able to pry
- open.}
-{113}{}{You see a sturdy container with an old, rusty lock and a cut
- wire in the frame, which you may be able to pry open.}
-{114}{}{You see a sturdy container with a lock (which can be picked with
- lockpicks), which you may be able to pry open.}
-{115}{}{You see a sturdy container with a lock on it, which you may be
- able to pry open.}
-{116}{}{You see a sturdy container with no apparent locking device,
- which you may be able to pry open.}
-{117}{}{You see a sturdy container with an old, rusty lock, which
- you may be able to pry open.}
-{118}{}{You see a sturdy container with a lock (which can be picked with
- lockpicks) and a highly explosive trap in the frame.}
-{119}{}{You see a sturdy container with a lock on it and a highly
- explosive trap in the frame.}
-{120}{}{You see a sturdy container with no apparent locking device and
- a highly explosive trap in the frame.}
-{121}{}{You see a sturdy container with an old, rusty lock and a highly
- explosive trap in the frame.}
-{122}{}{You see a sturdy container with a lock (which can be picked with
- lockpicks) and a trap in the frame.}
-{123}{}{You see a sturdy container with a lock on it and a trap in
- the frame.}
-{124}{}{You see a sturdy container with no apparent locking device and
- a trap in the frame.}
-{125}{}{You see a sturdy container with an old, rusty lock and a trap
- in the frame.}
-{126}{}{You see a sturdy container with a lock (which can be picked with
- lockpicks) and a cut wire in the frame.}
-{127}{}{You see a sturdy container with a lock on it and a severed wire
- in the frame.}
-{128}{}{You see a sturdy container with no apparent locking device and
- a severed wire in the frame.}
-{129}{}{You see a sturdy container with an old, rusty lock and a cut
- wire in the frame.}
-{130}{}{You see a sturdy container with a lock (which can be picked with
- lockpicks) on it.}
-{131}{}{You see a sturdy container with a lock on it.}
-{132}{}{You see a sturdy container with no apparent locking device.}
-{133}{}{You see a sturdy container with an old, rusty lock.}
-{134}{}{You see a damaged container with a lock (which can be picked with
- lockpicks) and a highly explosive trap in the frame.}
-{135}{}{You see a damaged container with a lock on it and a highly
- explosive trap in the frame.}
-{136}{}{You see a damaged container with no apparent locking device and
- a highly explosive trap in the frame.}
-{137}{}{You see a damaged container with an old, rusty lock and a highly
- explosive trap in the frame.}
-{138}{}{You see a damaged container with a lock (which can be picked with
- lockpicks) and a trap in the frame.}
-{139}{}{You see a damaged container with a lock on it and a trap in
- the frame.}
-{140}{}{You see a damaged container with no apparent locking device and
- a trap in the frame.}
-{141}{}{You see a damaged container with an old, rusty lock and a trap
- in the frame.}
-{142}{}{You see a damaged container with a lock (which can be picked with
- lockpicks) and a cut wire in the frame.}
-{143}{}{You see a damaged container with a lock on it and a severed wire
- in the frame.}
-{144}{}{You see a damaged container with no apparent locking device and
- a severed wire in the frame.}
-{145}{}{You see a damaged container with an old, rusty lock and a cut
- wire in the frame.}
-{146}{}{You see a damaged container with a lock (which can be picked with
- lockpicks).}
-{147}{}{You see a damaged container with a lock on it.}
-{148}{}{You see a damaged container with no apparent locking device.}
-{149}{}{You see a damaged container with an old, rusty lock.}
-{150}{}{You see an old container with a lock (which can be picked with
- lockpicks) and a highly explosive trap in the frame.}
-{151}{}{You see an old container with a lock on it and a highly
- explosive trap in the frame.}
-{152}{}{You see an old container with no apparent locking device and
- a highly explosive trap in the frame.}
-{153}{}{You see an old container with an old, rusty lock and a highly
- explosive trap in the frame.}
-{154}{}{You see an old container with a lock (which can be picked with
- lockpicks) and a trap in the frame.}
-{155}{}{You see an old container with a lock on it and a trap in
- the frame.}
-{156}{}{You see an old container with no apparent locking device and
- a trap in the frame.}
-{157}{}{You see an old container with an old, rusty lock and a trap
- in the frame.}
-{158}{}{You see an old container with a lock (which can be picked with
- lockpicks) and a cut wire in the frame.}
-{159}{}{You see an old container with a lock on it and a severed wire
- in the frame.}
-{160}{}{You see an old container with no apparent locking device and
- a severed wire in the frame.}
-{161}{}{You see an old container with an old, rusty lock and a cut
- wire in the frame.}
-{162}{}{You see an old container with a lock (which can be picked with
- lockpicks).}
-{163}{}{You see an old container with a lock on it.}
-{164}{}{You see an old container with no apparent locking device.}
-{165}{}{You see an old container with an old, rusty lock.}
+{105}{}{Você vê um recipiente resistente com um bloqueio velho e enferrujado e um
+  armadilha explosiva no quadro, que você pode conseguir
+  abrir.}
+{106}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
+  gazua) e uma armadilha no quadro, que você poderá
+  abrir.}
+{107}{}{Você vê um recipiente resistente com um bloqueio e uma armadilha em
+  o quadro, que você poderá abrir.}
+{108}{}{Você vê um recipiente resistente com nenhum dispositivo de bloqueio aparente e
+  uma armadilha no quadro, que você poderá abrir.}
+{109}{}{Você vê um recipiente resistente com um bloqueio velho e enferrujado e uma armadilha
+  no quadro, que você poderá abrir.}
+{110}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
+  gazua) e um fio cortado no quadro, que você pode ser
+  capaz de se abrir.}
+{111}{}{Você vê um recipiente resistente com um bloqueio e um fio cortado
+  no quadro, que você poderá abrir.}
+{112}{}{Você vê um recipiente resistente com nenhum dispositivo de bloqueio aparente e
+  um fio cortado no quadro, que você pode conseguir
+  abrir.}
+{113}{}{Você vê um recipiente resistente com um bloqueio velho e enferrujado e um corte
+  fio na moldura, que você poderá abrir.}
+{114}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
+  gazua), que você poderá abrir.}
+{115}{}{Você vê um recipiente resistente com um bloqueio, o que você pode ser
+  capaz de abrir.}
+{116}{}{Você vê um recipiente resistente sem dispositivo de bloqueio aparente,
+  que você poderá abrir.
+}
+{117}{}{Você vê um recipiente resistente com uma trava velha e enferrujada, que
+  você pode abrir.}
+{118}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
+  gazua) e uma armadilha altamente explosiva no quadro.}
+{119}{}{Você vê um recipiente resistente com um bloqueio e um
+  armadilha explosiva no quadro.}
+{120}{}{Você vê um recipiente resistente com nenhum dispositivo de bloqueio aparente e
+  uma armadilha altamente explosiva no quadro.}
+{121}{}{Você vê um recipiente resistente com um bloqueio velho e enferrujado e um
+  armadilha explosiva no quadro.}
+{122}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
+  gazua) e uma armadilha no quadro.}
+{123}{}{Você vê um recipiente resistente com um bloqueio e uma armadilha na
+   moldura.}
+{124}{}{Você vê um recipiente resistente com nenhum dispositivo de bloqueio aparente e
+  uma armadilha no quadro.}
+{125}{}{Você vê um recipiente resistente com um bloqueio velho e enferrujado e uma armadilha
+  no quadro.}
+{126}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
+  gazua) e um fio cortado no quadro.}
+{127}{}{Você vê um recipiente resistente com um bloqueio e um fio cortado
+  no quadro.}
+{128}{}{Você vê um recipiente resistente com nenhum dispositivo de bloqueio aparente e
+  um fio cortado no quadro.}
+{129}{}{Você vê um recipiente resistente com um bloqueio velho e enferrujado e um corte
+  fio no quadro.}
+{130}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
+  gazua) sobre ele.}
+{131}{}{Você vê um recipiente resistente com um bloqueio nele.}
+{132}{}{Você vê um recipiente resistente sem dispositivo de bloqueio aparente.}
+{133}{}{Você vê um recipiente resistente com um bloqueio velho e enferrujado.}
+{134}{}{Você vê um recipiente danificado com um bloqueio (que pode ser colhido com
+  gazua) e uma armadilha altamente explosiva no quadro.}
+{135}{}{Você vê um recipiente danificado com um bloqueio e um
+  armadilha explosiva no quadro.}
+{136}{}{Você vê um recipiente danificado sem dispositivo de bloqueio aparente e
+  uma armadilha altamente explosiva no quadro.}
+{137}{}{Você vê um recipiente danificado com um bloqueio antigo e enferrujado e um
+  armadilha explosiva no quadro.}
+{138}{}{Você vê um recipiente danificado com um bloqueio (que pode ser colhido com
+  gazua) e uma armadilha no quadro.}
+{139}{}{Você vê um recipiente danificado com um bloqueio e uma armadilha em
+  a moldura.}
+{140}{}{Você vê um recipiente danificado sem dispositivo de bloqueio aparente e
+  uma armadilha no quadro.}
+{141}{}{Você vê um recipiente danificado com um bloqueio velho e enferrujado e uma armadilha
+  no quadro.}
+{142}{}{Você vê um recipiente danificado com um bloqueio (que pode ser colhido com
+  gazua) e um fio cortado no quadro.}
+{143}{}{Você vê um recipiente danificado com um bloqueio nele e um fio cortado
+  no quadro.}
+{144}{}{Você vê um recipiente danificado sem dispositivo de bloqueio aparente e
+  um fio cortado no quadro.}
+{145}{}{Você vê um recipiente danificado com um bloqueio antigo e enferrujado e um corte
+  fio no quadro.}
+{146}{}{Você vê um recipiente danificado com um bloqueio (que pode ser colhido com
+  gazua).}
+{147}{}{Você vê um recipiente danificado com um bloqueio nele.}
+{148}{}{Você vê um recipiente danificado sem dispositivo de bloqueio aparente.}
+{149}{}{Você vê um recipiente danificado com um bloqueio antigo e enferrujado.}
+{150}{}{Você vê um recipiente antigo com um bloqueio (que pode ser colhido com
+  gazua) e uma armadilha altamente explosiva no quadro.}
+{151}{}{Você vê um recipiente antigo com um bloqueio e um
+  armadilha explosiva no quadro.}
+{152}{}{Você vê um recipiente antigo sem dispositivo de bloqueio aparente e
+  uma armadilha altamente explosiva no quadro.}
+{153}{}{Você vê um recipiente antigo com um bloqueio antigo e enferrujado e um
+  armadilha explosiva no quadro.}
+{154}{}{Você vê um recipiente antigo com um bloqueio (que pode ser colhido com
+ gazua) e uma armadilha no quadro.}
+{155}{}{Você vê um recipiente antigo com um bloqueio e uma armadilha em
+  a moldura.}
+{156}{}{Você vê um recipiente antigo sem dispositivo de bloqueio aparente e
+  uma armadilha no quadro.}
+{157}{}{Você vê um recipiente antigo com um bloqueio velho e enferrujado e uma armadilha
+  no quadro.}
+{158}{}{Você vê um recipiente antigo com um bloqueio (que pode ser colhido com
+  gazua) e um fio cortado no quadro.}
+{159}{}{Você vê um recipiente antigo com um bloqueio e um fio cortado
+  no quadro.}
+{160}{}{Você vê um recipiente antigo sem dispositivo de bloqueio aparente e
+  um fio cortado no quadro.}
+{161}{}{Você vê um recipiente antigo com um bloqueio antigo e enferrujado e um corte
+  fio no quadro.}
+{162}{}{Você vê um recipiente antigo com um bloqueio (que pode ser colhido com
+  gazua).}
+{163}{}{Você vê um recipiente antigo com um bloqueio nele.}
+{164}{}{Você vê um antigo recipiente, sem aparente dispositivo de bloqueio.}
+{165}{}{Você vê um recipiente antigo com um bloqueio antigo e enferrujado.}
 {166}{}{Você desencadeou a armadilha e foi atingido por}
 {167}{}{pontos de dano.}
 {168}{}{desencadeia a armadilha e foi atingido por}
 {169}{}{pontos de dano.}
-{170}{}{You deftly pick the lock on the container.}
-{171}{}{Your lack of skill has jammed the lock on this container.}
-{172}{}{You fail to pick the lock on this container.}
-{173}{}{ deftly picks the lock on the container.}
-{174}{}{'s lack of skill has jammed the lock on this container.}
-{175}{}{ failed to pick the lock on this container.}
-{176}{}{You bust the lock off the container.}
+{170}{}{Você colhe habilmente o bloqueio no recipiente.}
+{171}{}{Sua falta de habilidade bloqueou o bloqueio neste recipiente.}
+{172}{}{Você não consegue colher o bloqueio neste recipiente.}
+{173}{}{ Colhe habilmente o bloqueio no recipiente.}
+{174}{}{A falta de habilidade bloqueou o bloqueio neste recipiente.}
+{175}{}{não conseguiu colher o bloqueio neste recipiente.}
+{176}{}{Você emperra o bloqueio do recipiente.}
 {177}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e
   toma um ponto de dano.}
 {178}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e toma }
 {179}{}{pontos de dano.}
 {180}{}{Você é muito fraco para ultrapassar o bloqueio.}
-{181}{}{ busts the lock off the container.}
+{181}{}{ emperra o bloqueio do recipiente.}
 {182}{}{estica as costas enquanto tenta abater a fechadura e leva
   pontos de dano.}
 {183}{}{pressiona suas costas enquanto tenta abrir o bloqueio e toma}
@@ -152,29 +153,30 @@
 pontos de dano.}
 {187}{}{pressiona suas costas enquanto tenta abrir o bloqueio e toma }
 {188}{}{pontos de dano.}
-{189}{}{You deftly lock the container.}
-{190}{}{You fail to lock the container.}
-{191}{}{ deftly locks the container.}
-{192}{}{ failed to lock the container.}
-{193}{}{The explosives don't even put a scratch on the container.}
-{194}{}{You find a trap on the container.}
-{195}{}{You fail to find any traps on the container.}
+{189}{}{Você bloqueia habilmente o recipiente.}
+{190}{}{Você não bloqueia o recipiente.}
+{191}{}{ bloqueia habilmente o recipiente.}
+{192}{}{ falha ao bloquear o recipiente.}
+{193}{}{Os explosivos nem sequer colocam um arranhão no recipiente.}
+{194}{}{Você encontra uma armadilha no recipiente.}
+{195}{}{Você não consegue encontrar nenhuma armadilha no recipiente.}
 {196}{}{Você habilmente desarmar a armadilha.}
 {198}{}{Você não consegue desarmar a armadilha.}
-{199}{}{ finds a trap on the container.}
-{200}{}{ fails to find any traps on the container.}
+{199}{}{ encontra uma armadilha no recipiente.}
+{200}{}{ não consegue encontrar qualquer armadilhas no recipiente.}
 {201}{}{ habilmente desarma a armadilha.}
 {202}{}{ falha para desarmar a armadilha.}
-{203}{}{The container appears to be locked.}
-{204}{}{You notice a trap on the container.}
-{205}{}{ notices a trap on the container jamb.}
-{206}{}{You are unable to place a trap on this container, because
- the container is open.}
-{207}{}{ is unable to place a trap on this container, because the
- container is open.}
-{208}{}{You skillfully set a trap in the container.}
-{209}{}{You fail to properly set the trap in the container.}
-{210}{}{ skillfully sets a trap on the container.}
-{211}{}{ fails to properly set the trap in the container.}
+{203}{}{O recipiente parece estar bloqueado.}
+{204}{}{Você percebe uma armadilha no recipiente.}
+{205}{}{percebe uma armadilha no batente do recipiente.}
+{206}{}{Não é possível colocar uma armadilha neste recipiente, porque
+  O recipiente está aberto.}
+{207}{}{é incapaz de colocar uma armadilha neste recipiente, porque 
+  O recipiente está aberto.}
+{208}{}{Você habilmente configurou uma armadilha no recipiente.
+}
+{209}{}{Você não configura adequadamente a armadilha no recipiente.}
+{210}{}{ habilmente define uma armadilha no recipiente.}
+{211}{}{ falha ao definir adequadamente a armadilha no recipiente.}
 {212}{}{Você vê um frigorífico.}
-{400}{}{You unlock the container.}
+{400}{}{Você desbloqueia o recipiente.}
