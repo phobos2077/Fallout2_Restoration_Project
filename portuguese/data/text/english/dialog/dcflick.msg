@@ -50,39 +50,39 @@
 {382}{}{Obrigado. Deixe-me perguntar-lhe algo mais.}
 {383}{}{Obrigado, isso é tudo que eu preciso saber. Adeus.}
 {400}{}{Está certo. Metzger, esse estronzo, ele está morto. Não sei o que aconteceu com Vic.}
-{401}{}{That Metzger, he's a real rompiballe, that one. Runs the Slaver's Guild. East side of town, just north of Momma's. Anyhow, he got Vic, I know.}
-{402}{}{Thanks, now what about Momma?}
+{401}{}{Esse Metzger, ele é um verdadeiro rompiballe, aquele. Executa o Slaver's Guild. Lado leste da cidade, ao norte de Mamãe. De qualquer forma, ele prendeu Vic, eu sei.}
+{402}{}{Obrigado, agora que sobre a Mamãe?}
 {403}{}{Obrigado. Deixe-me perguntar-lhe algo mais.}
 {404}{}{Obrigado, isso é tudo que eu preciso saber. Adeus.}
-{410}{}{Well fuck me sideways, look who came by. The good samaritan who "saved the children" decided to grace me with his presence.
- You know, I'm a good Samurai-itan guy myself -- providin' fer them little paisanos and all. That is, until you came along and made that
- fuckin' orphanage idea a reality.}
-{411}{}{Well fuck me sideways, look who came by. The good samaritan who "saved the children" decided to grace me with her presence.
- You know, I'm a good Samurai-itan guy myself -- providin' fer them little paisanos and all. That is, until you came along and made that
- fuckin' orphanage idea a reality.}
+{410}{}{Bem, foda-me de lado, olhe quem veio. O bom samaritano que "salvou as crianças" decidiu me agradar com sua presença.
+  Você sabe, eu sou um bom cara de Samurai-itan - providenciando os pequenos paisanos e tudo. Ou seja, até que você veio e fez essa
+  ideia fodida de orfanato uma realidade.}
+{411}{}{Bem, foda-me de lado, olhe quem veio. O bom samaritano que "salvou as crianças" decidiu me agradar com sua presença.
+  Você sabe, eu sou um bom cara de Samurai-itan - providenciando os pequenos paisanos e tudo. Ou seja, até que você veio e fez essa
+  ideia fodida de orfanato uma realidade.}
 {412}{}{Vocês fornecem pequenos pianos?}
-{413}{}{You sound like you don't like the fact that the children are no longer roaming the streets.}
-{420}{}{Hey, don't get me wrong. Life on the street is tough fer them kids, but it's the end of our little arrangement that gets me down.}
-{421}{}{What arrangement?}
-{422}{}{You mean them pickpocketing from people and bringing the items to you to sell.}
-{430}{}{Don't you get smart with me asshole. The kids bring me items they *find.* I don't know where they get them and frankly, I don't give a fuck.}
+{413}{}{Você parece não gostar do fato de que as crianças não estão mais circulando pelas ruas.}
+{420}{}{Ei, não me interprete mal. A vida na rua é difícil para eles, mas é o fim de nosso pequeno arranjo que me deixa para baixo.}
+{421}{}{Que acordo?}
+{422}{}{Você quer dizer que eles estavam batendo carteiras de pessoas e trazendo os itens para vender.}
+{430}{}{Você não fica esperto comigo, imbecil. As crianças me trazem itens que eles *encontram*. Não sei onde eles conseguem e, francamente, eu não me importo.}
 {431}{}{Certo.}
-{432}{}{You're full of it. I'm sick of skum like you who use people for their own benefit. Time to die!}
+{432}{}{Você está cheio disso. Estou cansado de skum como você que usa pessoas para seu próprio benefício. Hora de morrer!}
 {440}{}{Pai-san-o, você sabe, as crianças. Meus filhos.}
-{441}{}{And you have an arrangement with them?}
+{441}{}{E você tem um acordo com eles?}
 {450}{}{Eles me trazem coisas que eles acham. Pequenas e pequenas coisas. Coisas, ninguém já não usa mais. Em troca, eu cuido deles.}
 {451}{}{Soa como um bom arranjo.}
-{460}{}{Yeah...business was good 'til you came along. See, yer little stunt's gonna cost me. My business is gonna suffer thanks to you.
- Because of this, I don't really like you too much. In fact, I fuckin' hate you. But, I'm a business man, so if you need to barter,
- get to it. If not, fuck off.}
-{461}{}{Alright, let's see what you have in stock then.}
-{462}{}{I think I have all I need. Goodbye.}
-{463}{}{I think I'll stay...and kick your ass.}
-{470}{}{You again? You better be here to make some good trades, 'cause I'm getting real fuckin' sick of looking at you.
- In fact, I vomit in my mouth a little every time I see yer face. That's how much you disgust me. And if yer not here to
- trade, then I suggest you turn around and walk the fuck outta here.}
-{471}{}{Let's trade.}
+{460}{}{Sim ... o negócio foi bom até você vir. Veja, sua pequena duvida vai me custar. O meu negócio vai sofrer graças a você.
+  Por causa disso, eu realmente não gosto muito de você. Na verdade, eu te odeio. Mas, eu sou um homem de negócios, então, se você precisa trocar,
+  chegar ai. Se não, foda-se.}
+{461}{}{Tudo bem, vamos ver o que você tem em estoque.}
+{462}{}{Eu acho que eu tenho tudo que eu preciso. Adeus.}
+{463}{}{Eu acho que eu vou ficar...e chutar a sua bunda.}
+{470}{}{Você novamente? É melhor você estar aqui para fazer alguns bons negócios, porque estou ficando realmente fulo de olhar para você.
+  Na verdade, vomito na minha boca um pouco toda vez que vejo seu rosto. Isso é o quanto você me enoja. E se você não estiver aqui para
+  comércio, então eu sugiro que você se vire e caminhe pra fora daqui.}
+{471}{}{Vamos comércio.}
 {472}{}{Apenas checando. Bem, adeus Flick.}
-{480}{}{You done wastin' my time?}
-{481}{}{Let me take another look.}
-{482}{}{That should do it. Goodbye Flick.}
+{480}{}{Você acabou por perder o tempo?}
+{481}{}{Deixe-me dar uma olhada.}
+{482}{}{Isso deve resolver. Adeus Flick.}
