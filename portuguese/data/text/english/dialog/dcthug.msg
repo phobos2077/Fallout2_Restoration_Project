@@ -1,4 +1,4 @@
-{100}{}{You see a thug.}
+{100}{}{Você vê um bandido.}
 {150}{}{The thug looks pretty ruthless.}
 {151}{}{Get out of my face.}
 {152}{}{You lookin' for trouble?}

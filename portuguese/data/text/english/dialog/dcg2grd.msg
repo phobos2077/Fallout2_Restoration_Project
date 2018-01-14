@@ -25,7 +25,7 @@
 {251}{}{Coward.}
 {252}{}{You make me sick.}
 {253}{}{Get lost.}
-{254}{}{Beat it.}
+{254}{}{Vencê-lo.}
 {255}{}{We're ready when you are.}
 {256}{}{It's about time we pay them back.}
 {257}{}{I hate waiting.}

@@ -1,63 +1,63 @@
-{100}{}{You see a citizen of the Den.}
-{101}{}{You see Derek.}
-{150}{}{He looks quite agile.}
-{200}{}{Beat it.}
-{201}{}{I'm too tired to talk.}
-{202}{}{Get out of my place.}
-{203}{}{Get your own place to sleep.}
-{204}{}{Stop bothering me.}
-{205}{}{I'm bushed.}
+{100}{}{Você vê um cidadão do Den.}
+{101}{}{Você vê Derek.}
+{150}{}{Ele parece bastante ágil.}
+{200}{}{Vencê-lo.}
+{201}{}{Estou cansado demais para falar.}
+{202}{}{Sair do meu lugar.}
+{203}{}{Obtenha seu próprio lugar para dormir.}
+{204}{}{Pare de me incomodar.}
+{205}{}{Estou cansado.}
 {206}{}{Doh!}
-{207}{}{Hey, what are you doing here?}
-{220}{}{Stay away from Metzger, tribal.}
-{221}{}{Why is it always so damn hot?}
-{222}{}{Why do we live in the desert?}
-{223}{}{I'm a good cook.}
-{224}{}{I'm going to open my own restaurant someday.}
-{225}{}{I wish I had a real kitchen.}
-{226}{}{Why am I always getting the short end of life?}
-{227}{}{People are always screwing me.}
-{228}{}{Fred's a dreamer - master plan, my ass.}
-{240}{}{Shhhh! They're everywhere.}
-{241}{}{Make them stop!}
-{242}{}{So you found that damn book?}
-{243}{}{I don't know why Becky won't hire me.}
-{244}{}{I will not go insane!}
-{245}{}{I got my quarters!}
-{246}{}{They come out at night, mostly.}
-{247}{}{I like potatoes!}
-{248}{}{Don't walk on the green stuff without boots!}
-{249}{}{Just turn it inside out.}
-{250}{}{Oh, my head hurts really bad now.}
-{251}{}{I'm a grandmaster cook!}
-{252}{}{I would never poison a newbie's food.}
-{260}{}{Hey you looking for some freshly baked bread?}
+{207}{}{Ei, o que você está fazendo aqui?}
+{220}{}{Fique longe de Metzger, tribal.}
+{221}{}{Por que sempre é tão quente?}
+{222}{}{Porque vivemos no deserto?}
+{223}{}{Eu sou um bom cozinheiro.}
+{224}{}{Eu vou abrir meu próprio restaurante um dia.}
+{225}{}{Eu queria ter uma verdadeira cozinha.}
+{226}{}{Por que estou sempre tendo o fim da vida?}
+{227}{}{As pessoas estão sempre gritando comigo.}
+{228}{}{Fred é um sonhador - plano mestre, meu cu.}
+{240}{}{Shhhh! Eles estão em toda parte.}
+{241}{}{Faça-os parar!}
+{242}{}{Então você achou esse maldito livro?}
+{243}{}{Não sei por que Becky não vai me contratar.}
+{244}{}{Eu não vou enlouquecer!}
+{245}{}{Eu tenho meus aposentos!}
+{246}{}{Eles saem à noite, principalmente.}
+{247}{}{Eu gosto de batatas!}
+{248}{}{Não ande no material verde sem botas!}
+{249}{}{Basta ativá-lo de dentro para fora.}
+{250}{}{Oh, minha cabeça dói muito ruim agora.}
+{251}{}{Sou um grande cozinheiro chefe!}
+{252}{}{Eu nunca iria envenenar a comida de um novato.}
+{260}{}{Ei, você está procurando um pouco de pão recém-assado?}
 {261}{}{Sim.}
-{262}{}{I'm looking for Becky's book.}
-{263}{}{No, bye.}
-{270}{}{Oh, hi again.}
-{271}{}{So where's Becky's book?}
-{272}{}{Hey, how about some of that bread?}
+{262}{}{Estou procurando o livro de Becky.}
+{263}{}{Não, tchau.}
+{270}{}{Oh, oi novamente.}
+{271}{}{Então, onde está o livro de Becky?}
+{272}{}{Ei, que tal um pouco de pão?}
 {273}{}{Adeus.}
-{280}{}{Ha! So am I. Have I told you what a great cook I am? Becky wont' hire me for some reason. She says I'm unstable.}
-{281}{}{She's probably right.}
-{282}{}{I'm looking for Becky's book.}
-{283}{}{That's great. I've uh… got to go.}
-{290}{}{What? You! Screw you buddy! I'm not… Ow! Fuck.}
-{291}{}{What? You! Screw you lady! I'm not… Ow! Fuck.}
-{292}{}{Damn.}
-{293}{}{Nuf Said.}
-{300}{}{Oh yeah. I didn't like it. Too much kissing. I threw it in the corner of that building... no that building... no... was it a building? Maybe I dropped it somewhere else... or did I throw it? Ow! My head!}
-{301}{}{Book? Oh, that book. Who sent you? I'm not sure if that's the proper side. Don't forget the tissue.}
-{302}{}{I can't! They're… oh crap… Do you have the cheese? Hide!}
-{303}{}{Hey! Not my problem. What was I supposed to do? Fight them? Little green men, big pointy teeth! Fuck! Ouch! Stop that!}
-{304}{}{My head hurts! What... who said that?}
-{305}{}{That helps a lot.}
+{280}{}{Ha! Eu também. Eu já lhe contei o que é uma ótima cozinheira que eu sou? Becky não vai me contratar por algum motivo. Ela diz que eu sou instável.}
+{281}{}{Ela provavelmente está certa.}
+{282}{}{Estou procurando o livro de Becky.}
+{283}{}{Isso é ótimo. Eu tenho hum... tenho que ir.}
+{290}{}{O que? Você! Dane-se seu amigo! Eu não sou ... Ow! Porra.}
+{291}{}{O que? Você! Que se dane senhora! Eu não sou... Ow! Foda-se.}
+{292}{}{Porra.}
+{293}{}{Na Disse.}
+{300}{}{Oh sim. Eu não gostei disso. Muitos beijos. Eu joguei na esquina daquele edifício ... não esse edifício ... não ... era um prédio? Talvez eu tenha deixado isso em outro lugar ... ou eu joguei isso? Ow! Minha cabeça!}
+{301}{}{Livro? Ah, esse livro. Quem te enviou? Não tenho certeza se esse é o lado apropriado. Não esqueça o tecido.}
+{302}{}{Eu não posso! Eles são... oh merda... você tem o queijo? Esconder!}
+{303}{}{Hey! Não é meu problema. O que eu deveria fazer? Combatê-los? Pequenos homens verdes, grandes dentes pontudos! Porra! Ouch! Pare com isso!}
+{304}{}{Minha cabeça dói! O que... quem disse isso?}
+{305}{}{Isso ajuda muito.}
 {306}{}{Uh.}
-{310}{}{What? Are you mocking me! Screw you! I'm not unstable! I can cook! I don't have voices in my head!}
-{311}{}{I'm gonna- shit! Fuck! Damn it! Stop that. Be quiet! What?... Okay.}
-{312}{}{Hey! Sto- do... fuck.}
+{310}{}{O que? Você está zombando de mim! Que se dane! Eu não sou instável! Eu posso cozinhar! Eu não tenho vozes na minha cabeça!}
+{311}{}{Eu sou uma merda! Porra! Droga! Pare com isso. Fique quieto! O que? ... Ok.}
+{312}{}{Hey! Sto - não... foda-se.}
 {313}{}{Adeus.}
 {314}{}{Nada.}
-{320}{}{Hey! Get away from me!}
+{320}{}{Hey! Fique longe de mim!}
 {321}{}{Não me toque!}

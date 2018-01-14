@@ -1,10 +1,10 @@
-{100}{}{You see a drug dealer.}
-{101}{}{You see a drug dealer.}
-{102}{}{If you are looking to deal, I got the stuff.}
-{103}{}{Sure, show me.}
-{104}{}{Maybe some other time.}
-{105}{}{Find what you need?}
+{100}{}{Você vê um traficante de drogas.}
+{101}{}{Você vê um traficante de drogas.}
+{102}{}{Se você estiver olhando para lidar, eu tenho o material.}
+{103}{}{Com certeza, me mostre.}
+{104}{}{Talvez alguma outra hora.}
+{105}{}{Encontrou o que precisa?}
 {106}{}{Obrigado. Adeus.}
-{200}{}{You see a thug.}
-{201}{}{You see a thug.}
-{202}{}{I'm here for protection. Talk to the dealer if you wanna buy.}
+{200}{}{Você vê um bandido.}
+{201}{}{Você vê um bandido.}
+{202}{}{Estou aqui para proteção. Fale com o revendedor se quiser comprar.}

@@ -1,66 +1,66 @@
-{100}{}{You see a thin, greasy looking, man.}
-{150}{}{You see Flick, giving his groin a thorough scratching.}
-{151}{}{You see an unclean fellow with a nasty facial-twitch.}
-{200}{}{Get outta heeya, you dumb-ass.}
-{201}{}{Hey meatball! Yeah, you. Get outta heeya.}
-{202}{}{You dumb or sumpin'?}
-{203}{}{Whatchur problem, eh?}
-{204}{}{Get the hell outta heeya.}
-{220}{}{Hey der, I'm Flick. What the fuck do you want, huh?}
-{221}{}{Now what? You wastin' my time heeya.}
-{222}{}{What's with the wacky accent, Flick?}
-{223}{}{What the hell do you do here?}
-{224}{}{I'm looking for a Vault - oh yeah, and some trader named Vic, too. Know where they might be?}
-{225}{}{I'd like to trade with you.}
-{240}{}{That 'bout do it for ya, pal?}
-{241}{}{Actually I'd like to take another look at your goods if I may.}
-{242}{}{Actually, I'd like to ask you a question.}
-{243}{}{That did it. See you around Flick.}
-{260}{}{I'm a fuckin' provider, waddya think? I'm like a good Samurai-itan guy.}
-{261}{}{Say what?}
-{262}{}{Yeah, uh, well…let me ask you something else.}
-{263}{}{Uh, oh. OK. Goodbye, Flick.}
-{280}{}{I provide fer them little paisanos.}
-{281}{}{You provide little pianos?}
-{290}{}{Pai-san-o, you know, the kids. My kids.}
-{291}{}{Your kids?}
-{292}{}{Well, I'm not really interested in music lessons for children. Let me ask you about something else.}
-{300}{}{Yeah, well they work for me. They bring me things. Little things. You know.}
+{100}{}{Você vê um homem magro, gorduroso.}
+{150}{}{Você vê Flick, dando a sua virilha um raspador minucioso.}
+{151}{}{Você vê um sujeito impuro com uma contração facial desagradável.}
+{200}{}{Saia do heeya, você burro.}
+{201}{}{Ei almôndega! Sim, você. Fuja heeya.}
+{202}{}{Você é idiota ou estupido? }
+{203}{}{Whatchur problema, hein?}
+{204}{}{Ao inferno fora de heeya.}
+{220}{}{Hey der, eu sou o Flick. Que merda você quer, hein?}
+{221}{}{O que agora? Você ficou no meu tempo, heeya.}
+{222}{}{Qual é a desse maluco, Flick?}
+{223}{}{O que diabos você faz aqui?}
+{224}{}{Estou à procura de um Vault - oh, sim, e um comerciante chamado Vic também. Sabe onde eles podem estar?}
+{225}{}{Gostaria de trocar com você.}
+{240}{}{Que tal fazê-lo para você, amigo?}
+{241}{}{Na verdade, gostaria de dar uma olhada em seus produtos se puder.}
+{242}{}{Na verdade, eu gostaria de lhe fazer uma pergunta.}
+{243}{}{Que fez isso. Vejo você por aí Flick.}
+{260}{}{Eu sou um fodido provedor, pensou Whaddya? Eu sou como um bom homem samurai-irã.}
+{261}{}{Dizer o que?}
+{262}{}{Yeah, uh, bem...deixe-me perguntar-lhe algo mais.}
+{263}{}{Uh, oh. ESTÁ BEM. Adeus, Flick.}
+{280}{}{Fornecendo-lhes pequenos paisanos.}
+{281}{}{Vocês fornecem pequenos pianos?}
+{290}{}{Pai-san-o, você sabe, as crianças. Meus filhos.}
+{291}{}{Seus filhos?}
+{292}{}{Bem, eu não estou realmente interessado em aulas de música para crianças. Deixe-me perguntar-lhe sobre outra coisa.}
+{300}{}{Sim, bem, eles trabalham para mim. Eles me trazem coisas. Pequenas coisas. Você sabe.}
 {301}{}{Uh, não.}
-{302}{}{Oh, OK. Let me ask you something else then.}
-{303}{}{Ah, I see. Well, I don't want to cramp your, uh, style. Goodbye.}
-{315}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
-{316}{}{Sounds like a nice arrangement.}
-{325}{}{(Flick shrugs) I get by OK.}
-{326}{}{Let me ask you about something else then.}
-{327}{}{They must have brought you some real bargains. Let's see what you've got.}
-{328}{}{Just checking. Well, goodbye Flick.}
-{340}{}{What you talkin' about? You think I'm a fucking stupid pirla? Some dumb filio di puttana? You think I'm some kinda clown? Am I here to amuse you, is that it?}
-{341}{}{Uh, no. Sorry, I was just curious. Let me ask you about something else.}
-{342}{}{Yeah, that's right, shithead. And nothing's going to amuse me more than your death-throes.}
-{343}{}{Well, if you're going to get all huffy about it, I'm leaving.}
-{360}{}{Vault huh? Maybe Momma knows about that, 'cause I don't. But that Vic guy - him I know. Metzger's got that porca pistola.}
-{361}{}{Vic? Ain't that him with you? You biota. But Momma, her I know.}
-{362}{}{Who's Metzger?}
-{363}{}{Who's Momma?}
-{364}{}{Thanks. Let me ask you something else.}
-{365}{}{Thanks, that's all I need to know. Goodbye.}
-{380}{}{Momma runs a food place over in da East side a town. Just past the graveyard. Nice place, she got good pasta, Mama mia.}
-{381}{}{Thanks, What about that Metzger fellow that's got Vic?}
-{382}{}{Thanks. Let me ask you something else.}
-{383}{}{Thanks, that's all I need to know. Goodbye.}
-{400}{}{That's right. Metzger, that stronzo, he's dead. I don't know what happen to Vic.}
+{302}{}{Ah, OK. Deixe-me perguntar-lhe algo mais.}
+{303}{}{Ah, eu vejo. Bem, eu não quero atrapalhar seu estilo. Adeus.}
+{315}{}{Eles me trazem coisas que eles acham. Pequenas e pequenas coisas. Coisas, ninguém já não usa mais. Em troca, eu cuido deles.}
+{316}{}{Soa como um bom arranjo.}
+{325}{}{(Flick dá de ombros) eu consigo OK.}
+{326}{}{Deixe-me perguntar sobre outra coisa, então.}
+{327}{}{Eles devem ter trazido a você algumas verdadeiras pechinchas. Vamos ver o que você tem.}
+{328}{}{Apenas checando. Bem, adeus Flick.}
+{340}{}{Do que você está falando? Você acha que eu sou uma maldito pirata estúpido? Algum estranho filio di puttana? Você acha que eu sou um palhaço? Estou aqui para divertir você, é isso?}
+{341}{}{Uh, não. Desculpe, eu estava apenas curioso. Deixe-me perguntar-lhe sobre outra coisa.}
+{342}{}{Sim, é verdade, merda. E nada vai me divertir mais do que a sua morte.}
+{343}{}{Bem, se você vai ficar irritado com isso, eu vou embora.}
+{360}{}{Vault, hein? Talvez mamãe saiba sobre isso, porque eu não. Mas aquele cara o Vic - ele eu sei. Metzger tem aquela porca pistola.}
+{361}{}{Vic? Não é ele com você? Você é uma biota. Mas mamãe, ela eu sei.}
+{362}{}{Quem é o Metzger?}
+{363}{}{Quem é a mãe?}
+{364}{}{Obrigado. Deixe-me perguntar-lhe algo mais.}
+{365}{}{Obrigado, isso é tudo que eu preciso saber. Adeus.}
+{380}{}{Mamãe dirige um lugar de comida no lado leste da cidade. Justo após o cemitério. Bom lugar, ela faz um bom macarrão, Mama Mia.}
+{381}{}{Obrigado, e o Metzger que tem Vic?}
+{382}{}{Obrigado. Deixe-me perguntar-lhe algo mais.}
+{383}{}{Obrigado, isso é tudo que eu preciso saber. Adeus.}
+{400}{}{Está certo. Metzger, esse estronzo, ele está morto. Não sei o que aconteceu com Vic.}
 {401}{}{That Metzger, he's a real rompiballe, that one. Runs the Slaver's Guild. East side of town, just north of Momma's. Anyhow, he got Vic, I know.}
 {402}{}{Thanks, now what about Momma?}
-{403}{}{Thanks. Let me ask you something else.}
-{404}{}{Thanks, that's all I need to know. Goodbye.}
+{403}{}{Obrigado. Deixe-me perguntar-lhe algo mais.}
+{404}{}{Obrigado, isso é tudo que eu preciso saber. Adeus.}
 {410}{}{Well fuck me sideways, look who came by. The good samaritan who "saved the children" decided to grace me with his presence.
  You know, I'm a good Samurai-itan guy myself -- providin' fer them little paisanos and all. That is, until you came along and made that
  fuckin' orphanage idea a reality.}
 {411}{}{Well fuck me sideways, look who came by. The good samaritan who "saved the children" decided to grace me with her presence.
  You know, I'm a good Samurai-itan guy myself -- providin' fer them little paisanos and all. That is, until you came along and made that
  fuckin' orphanage idea a reality.}
-{412}{}{You provide little pianos?}
+{412}{}{Vocês fornecem pequenos pianos?}
 {413}{}{You sound like you don't like the fact that the children are no longer roaming the streets.}
 {420}{}{Hey, don't get me wrong. Life on the street is tough fer them kids, but it's the end of our little arrangement that gets me down.}
 {421}{}{What arrangement?}
@@ -68,10 +68,10 @@
 {430}{}{Don't you get smart with me asshole. The kids bring me items they *find.* I don't know where they get them and frankly, I don't give a fuck.}
 {431}{}{Certo.}
 {432}{}{You're full of it. I'm sick of skum like you who use people for their own benefit. Time to die!}
-{440}{}{Pai-san-o, you know, the kids. My kids.}
+{440}{}{Pai-san-o, você sabe, as crianças. Meus filhos.}
 {441}{}{And you have an arrangement with them?}
-{450}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
-{451}{}{Sounds like a nice arrangement.}
+{450}{}{Eles me trazem coisas que eles acham. Pequenas e pequenas coisas. Coisas, ninguém já não usa mais. Em troca, eu cuido deles.}
+{451}{}{Soa como um bom arranjo.}
 {460}{}{Yeah...business was good 'til you came along. See, yer little stunt's gonna cost me. My business is gonna suffer thanks to you.
  Because of this, I don't really like you too much. In fact, I fuckin' hate you. But, I'm a business man, so if you need to barter,
  get to it. If not, fuck off.}
@@ -82,7 +82,7 @@
  In fact, I vomit in my mouth a little every time I see yer face. That's how much you disgust me. And if yer not here to
  trade, then I suggest you turn around and walk the fuck outta here.}
 {471}{}{Let's trade.}
-{472}{}{Just checking. Well, goodbye Flick.}
+{472}{}{Apenas checando. Bem, adeus Flick.}
 {480}{}{You done wastin' my time?}
 {481}{}{Let me take another look.}
 {482}{}{That should do it. Goodbye Flick.}

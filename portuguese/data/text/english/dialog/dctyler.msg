@@ -50,7 +50,7 @@
 {302}{}{Bitch? I'll show you what this bitch can do.}
 {303}{}{Foda-se você.}
 {304}{}{[Leave]}
-{310}{}{Beat it.}
+{310}{}{Vencê-lo.}
 {320}{}{That's nice. Me Tyler. Me go bye bye.}
 {321}{}{Ur.}
 {322}{}{Uh…}
@@ -96,7 +96,7 @@
 {413}{}{Not bad.}
 {414}{}{Tired.}
 {415}{}{Tudo bem.}
-{416}{}{Beat it.}
+{416}{}{Vencê-lo.}
 {417}{}{Been better.}
 {418}{}{Oh.}
 {430}{}{Can't wait for that party. Hope he has a few whores there again.}
