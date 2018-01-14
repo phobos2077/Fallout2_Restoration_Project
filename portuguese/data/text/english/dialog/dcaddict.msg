@@ -1,96 +1,99 @@
-{100}{}{You see an addict.}
-{101}{}{This person is heavily drugged.}
-{102}{}{He looks like he's high on drugs.}
-{103}{}{She looks like she's high on drugs.}
-{104}{}{He's looking pretty bad. You suspect it's withdrawal from some kind of drug.}
-{105}{}{She's seen better days. She looks like she's going through withdrawal.}
-{106}{}{This addict looks like the living dead.}
-{107}{}{You think this addict just threw up.}
-{150}{}{The lights are hurting me!}
-{151}{}{Monsters everywhere!}
-{152}{}{That felt weird.}
-{153}{}{Am I bleeding?}
-{154}{}{It doesn't normally seem this real.}
-{155}{}{Stop it, man!}
-{156}{}{Will no one help me?}
-{157}{}{Help!}
-{158}{}{Get away!}
-{159}{}{My head hurts enough as it is!}
+{100}{}{Você vê um viciado.}
+{101}{}{Esta pessoa é fortemente drogado.}
+{102}{}{Ele parece que está sob efeito de drogas.}
+{103}{}{Parece que ela está sob efeito de drogas.}
+{104}{}{Ele parece muito ruim. Você suspeita que é retirada de algum tipo de droga.}
+{105}{}{Ela viu dias melhores. Parece que ela está passando por abstinência.}
+{106}{}{Este viciado se parece com um morto-vivo.}
+{107}{}{Você acha que este viciado apenas vomitou.}
+{150}{}{As luzes estão me machucando!}
+{151}{}{Monstros em todos os lugares!}
+{152}{}{Senti-me estranho.}
+{153}{}{Eu estou sangrando?}
+{154}{}{Ele normalmente não parece real.}
+{155}{}{Pare com isso, cara!}
+{156}{}{Será que ninguém me ajuda?}
+{157}{}{Ajuda!}
+{158}{}{Fugir!}
+{159}{}{Minha cabeça doi o suficiente como é!}
 {160}{}{Deixe-me sozinho.}
-{200}{}{Wow, you've got a weird dark glow.}
-{201}{}{My, you're a big pup.}
-{202}{}{Don't tell them what we know is not there.}
+{200}{}{Uau, você tem um estranho brilho escuro.}
+{201}{}{Meu, você é um cachorro grande.}
+{202}{}{Não diga a eles o que sabemos que não existe.}
 {203}{}{Ahhh…}
-{204}{}{Can you see me?}
-{205}{}{Be vewy, vewy quiet. I'm hunting wabbits.}
-{206}{}{How did you get way up here?}
-{207}{}{Shhh, I'm hiding.}
-{208}{}{I'm running faster than a wolf!}
-{209}{}{I feel so alive!}
-{210}{}{It's coursing through my veins…}
-{211}{}{Right there, baby.}
-{212}{}{Oooohhh, can you feel the power?}
-{213}{}{Wow, you're glowing…}
-{214}{}{I love you, man!}
-{215}{}{Life's been so good to me. Has it been good to you?}
-{216}{}{The little ones fly at night.}
-{217}{}{Say hello to my little friend.}
-{218}{}{Boy, I'm sleepy…}
-{219}{}{Have you seen my dog?}
-{220}{}{Shhh, they're right behind you…}
-{221}{}{Mine!}
-{222}{}{Oooh, my head.}
-{223}{}{I ache all over.}
-{224}{}{I'm starting to get the shakes.}
-{225}{}{Oh, I need some more.}
-{226}{}{I need a fix.}
-{227}{}{I can't wait, I need it now.}
-{228}{}{You take my shit?}
-{229}{}{Ah, leave me alone.}
-{230}{}{I got the shakes bad, man.}
-{231}{}{I hate this part.}
-{232}{}{I just want to die.}
-{233}{}{I need some more bad.}
-{234}{}{I can't take this much longer.}
-{235}{}{I think I have a fever.}
-{236}{}{I think I'm going to puke.}
-{237}{}{Maybe if I just sleep...}
-{238}{}{I got the shakes bad, lady.}
-{300}{}{Is that blood?}
-{301}{}{Whoa! Am I bleeding? I can't feel a thing!}
-{302}{}{It tingles.}
-{303}{}{Who did that?}
-{304}{}{What's going on?}
-{305}{}{I'm bleeding... I think.}
-{306}{}{Oh, the pain.}
-{307}{}{Now I really need a fix.}
-{308}{}{Just let me die.}
+{204}{}{Você pode me ver?}
+{205}{}{Ser vewy, vewy tranquila. Eu sou caça wabbits.}
+{206}{}{Como você conseguiu chegar até aqui?}
+{207}{}{Shhh, eu estou escondido.}
+{208}{}{Eu estou correndo mais rápido do que um lobo!}
+{209}{}{Eu me sinto tão vivo!}
+{210}{}{É correndo em minhas veias…}
+{211}{}{Bem lá, querida.}
+{212}{}{Oooohhh, você pode sentir o poder?}
+{213}{}{Wow, você está brilhando…}
+{214}{}{Eu amo você, cara!}
+{215}{}{A vida tem sido tão boa para mim. Foi bom para você?}
+{216}{}{Os pequeninos voam de noite.}
+{217}{}{Diga olá para o meu amiguinho.}
+{218}{}{Rapaz, eu estou com sono…}
+{219}{}{Você já viu o meu cão?}
+{220}{}{Shhh, eles estão atrás de você…}
+{221}{}{Mina!}
+{222}{}{Poxa, a minha cabeça.}
+{223}{}{Eu adoro tudo.
+}
+{224}{}{Estou começando a pegar o balanço.}
+{225}{}{Oh, eu preciso de um pouco mais.}
+{226}{}{Eu preciso de uma correção.}
+{227}{}{Eu não posso esperar, eu preciso agora.}
+{228}{}{Você pega minha merda?}
+{229}{}{Ah, deixe-me em paz.}
+{230}{}{Eu consegui as batidas ruins, cara.}
+{231}{}{Eu odeio essa parte.}
+{232}{}{Eu só quero morrer.}
+{233}{}{Eu preciso de mais alguns ruim.}
+{234}{}{Eu não posso levar isso muito mais tempo.}
+{235}{}{Eu acho que eu tenho uma febre.}
+{236}{}{Eu acho que eu vou vomitar.}
+{237}{}{Talvez se eu dormir só...}
+{238}{}{Eu tenho as vibrações ruins, senhora.}
+{300}{}{Isso é sangue?}
+{301}{}{Uau! Estou sangrando? Não consigo sentir nada!}
+{302}{}{Este arrepio.}
+{303}{}{Quem fez isso?}
+{304}{}{O que está acontecendo?}
+{305}{}{Eu estou sangrando... eu acho.}
+{306}{}{Ah, a dor.}
+{307}{}{Agora eu realmente preciso de uma correção.}
+{308}{}{Apenas deixe-me morrer.}
 {350}{}{Ahhhh...}
-{351}{}{I'm floating...}
-{352}{}{I have the power!}
-{353}{}{Hello, Mr. Flower.}
-{354}{}{All the colors...}
-{355}{}{More longer friend see that sky?}
-{356}{}{They aren't listening...}
-{357}{}{Where am I?}
-{358}{}{There it is!}
-{359}{}{Whoa, no! Stop! Wait! Okay, go ahead.}
-{360}{}{There, there... ahh...}
-{361}{}{Yea, baby!}
-{362}{}{What was that?}
-{363}{}{Sasha? Where are you Sasha?}
-{364}{}{The colors are fading!}
-{365}{}{Mom?}
-{366}{}{Hey! Get away from me! Oh…}
-{367}{}{Don't you do that!}
-{368}{}{I can't see... again.}
-{369}{}{Need...}
-{370}{}{Get more...}
-{371}{}{There? No.}
-{372}{}{No. Can't find it.}
-{373}{}{Make it stop!}
+{351}{}{Eu estou flutuando...}
+{352}{}{Eu tenho o poder!}
+{353}{}{Olá, Sr. Flor.}
+{354}{}{Todas as cores...}
+{355}{}{Um amigo mais longo vê esse céu?}
+{356}{}{Eles não estão a ouvir...}
+{357}{}{Onde estou?}
+{358}{}{Lá está ele!}
+{359}{}{Caraca, não! Parar! Aguarde! Ok, vá em frente.}
+{360}{}{Há, há... ahh...}
+{361}{}{Sim, bebê!}
+{362}{}{O que foi isso?}
+{363}{}{Sasha? Onde está você Sasha?}
+{364}{}{As cores estão desaparecendo!}
+{365}{}{Mãe?}
+{366}{}{Hey! Fique longe de mim! Oh…}
+{367}{}{Não fazer isso!}
+{368}{}{Eu não posso ver... outra vez.}
+{369}{}{Precisa...}
+{370}{}{Pegue mais...
+}
+{371}{}{Lá? Não.
+}
+{372}{}{Não. Não é possível encontrá-lo.}
+{373}{}{Faça parar!}
 {374}{}{Ug.}
-{375}{}{Oh, the pain.}
+{375}{}{Ah, a dor.}
 {376}{}{<cough> <cough> <cough>}
 {377}{}{Ooh, my head!}
 {378}{}{Where'd I put my stash?}

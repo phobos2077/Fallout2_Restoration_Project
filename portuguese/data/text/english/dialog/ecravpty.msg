@@ -19,7 +19,7 @@
 {117}{}{Ahhh man! You don't have enuf money! Cum back when ya gets sum.}
 {118}{}{[End]}
 {119}{}{He has a bit of a wild look to him.}
-{120}{}{You see an addict.}
+{120}{}{Você vê um viciado.}
 {121}{}{He seems a bit jittery.}
 {122}{}{Whatdoyawant? Igotitall!}
 {123}{}{Mentats [$560]}

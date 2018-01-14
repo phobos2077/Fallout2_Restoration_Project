@@ -1,1 +1,1 @@
-{100}{}{This laboratory appears to be heavily soundproofed.}
+{100}{}{Este laboratório parece ser fortemente insonorizado.}

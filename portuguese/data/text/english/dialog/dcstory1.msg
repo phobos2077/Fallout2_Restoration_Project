@@ -59,5 +59,6 @@
 {163}{}{Well, it's getting late. Bye.}
 {164}{}{My pleasure. Bye.}
 {165}{}{Adeus.}
-{166}{}{Nevermind.}
+{166}{}{Deixa pra lá.
+}
 {167}{}{Leanne told you her story about the Master.}

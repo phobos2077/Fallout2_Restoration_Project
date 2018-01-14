@@ -8,7 +8,7 @@
 {155}{}{. What’s there to do around here?}
 {156}{}{Hi, I’m }
 {157}{}{. Can I ask some questions?}
-{158}{}{Mom?}
+{158}{}{Mãe?}
 {159}{}{Mag gah.}
 {160}{}{Run along. I don’t need your kind here.}
 {161}{}{Mmmm...}

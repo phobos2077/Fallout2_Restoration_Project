@@ -154,7 +154,8 @@ because this is going to cost ::cough:: $200.}
 {310}{}{Davin.}
 {311}{}{Miria.}
 {312}{}{Robobrain.}
-{313}{}{Nevermind.}
+{313}{}{Deixa pra lá.
+}
 {314}{}{You're hurt? Let me fix that. I'll take care of your companions too.}
 {315}{}{There ya' go. All better.}
 {316}{}{[continue]}

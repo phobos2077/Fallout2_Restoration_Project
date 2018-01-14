@@ -1,1 +1,1 @@
-{100}{}{You retrieved the tanker fob.}
+{100}{}{Você recuperou o petroleiro fob.}
