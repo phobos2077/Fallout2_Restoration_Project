@@ -72,9 +72,9 @@
 {215}{}{Aaaaaaaaaaaaah!}
 {216}{}{Traitor!}
 {217}{}{Scumbag!}
-{218}{}{Leave me alone!}
+{218}{}{Deixe-me em paz!}
 {219}{}{No! No! No!}
-{220}{}{Don't touch me!}
+{220}{}{Não me toque!}
 {221}{}{Don't hurt me!}
 {250}{}{Those poor people.}
 {251}{}{Who fell down Jacob’s ladder?}

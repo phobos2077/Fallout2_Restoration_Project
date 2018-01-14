@@ -30,7 +30,7 @@
 {180}{}{Um, no.}
 {181}{}{[drool]}
 {182}{}{You don’t have enough bucks. Get lost, honey.}
-{183}{}{I’ll come back.}
+{183}{}{Eu vou voltar.}
 {184}{}{You’re not worth it, toots.}
 {185}{}{Wah!}
 {186}{}{You were incredible!}

@@ -1,9 +1,9 @@
 {100}{}{You see a bar patron.}
 {101}{}{You see Leanne.}
 {102}{}{She's very beautiful, but seems to be lost in thought.}
-{103}{}{Stop it!}
+{103}{}{Pare com isso!}
 {104}{}{Why are you doing this?}
-{105}{}{Leave me alone!}
+{105}{}{Deixe-me em paz!}
 {106}{}{Please stop!}
 {107}{}{You murderer!}
 {108}{}{How could you do that to Becky!}

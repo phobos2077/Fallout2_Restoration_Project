@@ -60,4 +60,4 @@
 {313}{}{Adeus.}
 {314}{}{Nada.}
 {320}{}{Hey! Get away from me!}
-{321}{}{Don't touch me!}
+{321}{}{Não me toque!}

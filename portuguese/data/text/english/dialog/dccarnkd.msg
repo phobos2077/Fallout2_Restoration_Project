@@ -2,10 +2,10 @@
 {101}{}{Esta criança suja parece ser empregada para anunciar uma atração turística de algum tipo.}
 {500}{}{Vê a Misteriosa Múmia!}
 {501}{}{See the Ancient Wonder!}
-{502}{}{A Jan-u-wine Mummy, here now!}
-{503}{}{See the Egyptian Prince!}
-{504}{}{See the Queen of the Nile!}
-{505}{}{Enter the Jan-u-wine haunted house!}
-{506}{}{Mysteries of the Netherworld revealed!}
-{507}{}{Come one, come all!}
-{508}{}{The educational opportunity of a lifetime!}
+{502}{}{Jan-u-wine Múmia, aqui, agora!}
+{503}{}{Veja o Príncipe egípcio!}
+{504}{}{Ver a Rainha do Nilo!}
+{505}{}{Entre na casa assombrada do Jan-u-wine!}
+{506}{}{Mistérios do Submundo revelados!}
+{507}{}{Venham todos!}
+{508}{}{Educacional, a oportunidade de uma vida!}

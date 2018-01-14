@@ -78,7 +78,7 @@
 {215}{}{Aaaaaaaaaaah!}
 {216}{}{Traitor!}
 {217}{}{Scumbag!}
-{218}{}{Leave me alone!}
+{218}{}{Deixe-me em paz!}
 {219}{}{No! No! No!}
 {220}{}{Don’t touch me!}
 {221}{}{Don’t hurt me!}

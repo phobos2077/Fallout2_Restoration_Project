@@ -1,4 +1,4 @@
-{100}{}{You see a townsperson.}
+{100}{}{Você vê um cidadão.}
 {200}{}{I sure hope it rains soon.}
 {201}{}{Our crops are dying from lack of water.}
 {202}{}{Even the wells have gone dry.}

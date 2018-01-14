@@ -1,46 +1,46 @@
 {100}{}{Você vê um guarda.}
-{150}{}{The guard is guarding the old church.}
+{150}{}{O guarda guarda a igreja velha.}
 {151}{}{[FALAR]}
-{152}{}{How dare you show your face again!}
+{152}{}{Como você se atreve a mostrar o seu rosto novamente!}
 {153}{}{[Feito]}
-{154}{}{Ho! No one enters the Family Wright warehouse at night!}
-{155}{}{Well, Mr. Wright himself sent me on an errand. If you don’t know about it, too bad.}
-{156}{}{I’ll come back tomorrow.}
-{157}{}{I need to get in there now.}
-{158}{}{[Looking nervous] Sorry...I didn’t know. Do you have any papers?}
-{159}{}{Please! Can you even read?}
-{160}{}{No, he didn’t give me any.}
-{161}{}{I left them back with my guard. I’ll go fetch them.}
-{162}{}{You cannot get in without papers.}
-{163}{}{Here’s my authorization! Attack!}
-{164}{}{I’ll come back.}
-{165}{}{[Embarrassed] No...um...alright, just go on in...}
+{154}{}{Ho! Ninguém entra no armazém da família Wright à noite!}
+{155}{}{Bem, o próprio Sr. Wright me enviou uma missão. Se você não sabe sobre isso, muito ruim.}
+{156}{}{Eu vou voltar amanhã.}
+{157}{}{Eu preciso chegar lá agora.}
+{158}{}{[Olhando nervoso] Desculpe...eu não sabia. Você tem algum papel?}
+{159}{}{Por favor! Você pode mesmo ler?}
+{160}{}{Não, ele não me deu nenhum.}
+{161}{}{Deixei-os de volta com minha guarda. Eu vou buscá-los.}
+{162}{}{Você não pode entrar sem documentos.}
+{163}{}{Aqui está a minha autorização! Ataque!}
+{164}{}{Eu vou voltar.}
+{165}{}{[Vergonha] Não...hum...tudo bem, basta ir em na...}
 {166}{}{Obrigado.}
-{167}{}{That’s more like it.}
-{168}{}{What do you people want?}
-{169}{}{We need to go inside.}
-{170}{}{We were sent here by the boss.}
-{171}{}{I would have heard if a group was sent here. Be off!}
-{172}{}{Off with your head!}
-{173}{}{OK, OK; we’re going.}
-{174}{}{What is your business here?}
-{175}{}{I need to go inside.}
-{176}{}{I’ve been sent on official business by the boss. Stand aside!}
-{177}{}{Removing your head from your shoulders.}
-{178}{}{Sorry, wrong place.}
-{179}{}{Hello again. You can go on in.}
+{167}{}{O que mais gosta.}
+{168}{}{O que vocês querem?}
+{169}{}{Precisamos ir para dentro.}
+{170}{}{Fomos enviados aqui pelo chefe.}
+{171}{}{Eu teria ouvido se um grupo foi enviado aqui. Saia!}
+{172}{}{Fora com a sua cabeça!}
+{173}{}{OK, OK, nós estamos indo.}
+{174}{}{Qual é o seu negócio aqui?}
+{175}{}{Eu preciso ir para dentro.}
+{176}{}{Eu fui enviado no negócio oficial pelo chefe. Fique de lado!}
+{177}{}{Removendo a cabeça dos seus ombros.}
+{178}{}{Desculpe, lugar errado.}
+{179}{}{Olá novamente. Você pode ir em frente.}
 {180}{}{Obrigado.}
-{181}{}{Hey, get the hell away from the door!}
-{182}{}{Don't touch the door again unless you want trouble.}
-{183}{}{I see you touch that door again, you're gonna get a bullet in the head.}
-{184}{}{Hey, what do you think you're doing?}
-{185}{}{I've had enough of you.}
-{186}{}{Sorry; I can let you in, but your friends are gonna have to wait outside.}
-{187}{}{Only one of you are allowed in at a time.}
-{200}{}{Good evening.}
-{201}{}{Good afternoon.}
-{202}{}{Good morning.}
-{203}{}{Just finish up your business, thank you.}
-{250}{}{You know, pal, I've had enough of your shit!}
-{251}{}{You know, bitch, I've had enough of your shit!}
+{181}{}{Ei, fique longe da porta!}
+{182}{}{Não toque na porta novamente, a menos que você queira problemas.}
+{183}{}{Eu vejo você tocar nessa porta novamente, você vai pegar uma bala na cabeça.}
+{184}{}{Hey, o que você pensa que está fazendo?}
+{185}{}{Eu já tive o suficiente de você.}
+{186}{}{Desculpa; Posso deixar você entrar, mas seus amigos terão de esperar lá fora.}
+{187}{}{Apenas um de vocês são permitidos por vez.}
+{200}{}{Boa noite.}
+{201}{}{Boa tarde.}
+{202}{}{Bom dia.}
+{203}{}{Apenas termine seu negócio, obrigado.}
+{250}{}{Você sabe, amigo, já tive o suficiente da sua merda!}
+{251}{}{Você sabe, puta, eu já tive o suficiente de sua merda!}
 {252}{}{[FIM]}

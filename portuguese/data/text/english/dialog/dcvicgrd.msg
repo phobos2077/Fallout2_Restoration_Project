@@ -115,5 +115,5 @@
 {503}{}{Hope Vic works out for you.}
 {504}{}{Vic better be working hard for ya.}
 {505}{}{Maybe I'll catch you on a run.}
-{506}{}{How's it going?}
+{506}{}{Como vai?}
 {507}{}{Olá, novamente.}

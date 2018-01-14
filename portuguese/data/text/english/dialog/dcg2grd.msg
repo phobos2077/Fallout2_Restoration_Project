@@ -34,12 +34,12 @@
 {260}{}{Just let Lara know when it's time.}
 {270}{}{You looking to join up?}
 {271}{}{You must be here to see Lara.}
-{272}{}{How's it going?}
+{272}{}{Como vai?}
 {273}{}{Lara's the person you should be talking to.}
 {274}{}{Olá.}
 {275}{}{You here to see Lara?}
 {300}{}{Olá.}
-{301}{}{How's it going?}
+{301}{}{Como vai?}
 {302}{}{Hope things are going good.}
 {303}{}{So you might be able to help us out?}
 {304}{}{Good to see you.}

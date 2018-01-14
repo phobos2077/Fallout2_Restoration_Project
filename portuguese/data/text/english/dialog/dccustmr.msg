@@ -1,102 +1,103 @@
-{100}{}{You see a customer.}
-{101}{}{You see a townsperson.}
-{150}{}{He looks like he's headed somewhere.}
-{151}{}{She looks like she's headed somewhere.}
-{152}{}{He's busy drinking and talking to other customers.}
-{153}{}{She seems to be busy talking.}
-{154}{}{He's looking over Tubby's shelves.}
-{155}{}{She seems to be looking around Tubby's store.}
-{156}{}{You don't see anything unusual about him.}
-{157}{}{You don't see anything unusual about her.}
+{100}{}{Você vê um cliente.}
+{101}{}{Você vê um cidadão.}
+{150}{}{Parece que ele está indo para algum lugar.}
+{151}{}{Parece que ela está indo em algum lugar.}
+{152}{}{Ele está ocupado bebendo e conversando com outros clientes.}
+{153}{}{Ela parece estar ocupada conversando.}
+{154}{}{Ele está olhando pelas prateleiras de Tubby.}
+{155}{}{Ela parece estar olhando pela loja de Tubby.}
+{156}{}{Você não vê nada de anormal sobre ele.}
+{157}{}{Você não vê nada de anormal sobre ela.}
 {200}{}{Fique longe de mim!}
-{201}{}{Leave me alone!}
-{202}{}{Don't touch me!}
-{203}{}{Stop it!}
+{201}{}{Deixe-me em paz!}
+{202}{}{Não me toque!}
+{203}{}{Pare com isso!}
 {204}{}{O que você está fazendo?}
-{300}{}{Sorry, can't talk now.}
-{301}{}{Where was I going again?}
+{300}{}{Desculpe, não posso falar agora.}
+{301}{}{Onde eu estava indo novamente?}
 {302}{}{Olá.}
-{303}{}{Excuse me.}
+{303}{}{Desculpa-me.}
 {304}{}{Olá.}
-{305}{}{Becky's place is the best, and not just cuz of the prices.}
-{306}{}{You here for the drinks or the tables?}
-{307}{}{All we need now are some troubadours.}
+{305}{}{Becky é o melhor lugar, e não apenas por causa dos preços.}
+{306}{}{Você está aqui para as bebidas ou as mesas?}
+{307}{}{Tudo o que precisamos agora são alguns trovadores.}
 {308}{}{Olá.}
-{309}{}{You a gambler?}
-{310}{}{How's the outside world?}
-{311}{}{Frankie's a scum bag. He's mean to Becky for no reason.}
-{312}{}{You a friend of Becky?}
-{313}{}{Grab a drink, friend!}
-{314}{}{Drink up! Drinks are cheap!}
-{315}{}{There's no way these are watered down.}
-{316}{}{That Dyer sure knows her stuff.}
-{317}{}{Nothing like good drinks and good company.}
-{318}{}{Only trouble with Becky's drinks is you tend to drink to many!}
-{319}{}{Becky… I mean Rebecca sure is a sweetheart.}
-{320}{}{If anyone ever lays a finger on her, they'll regret it.}
-{321}{}{This is some good stuff.}
-{340}{}{We should kill you for what you did.}
-{341}{}{I don't know what she did to you but she didn't deserve to die.}
-{342}{}{Maybe we should head to New Reno, since Becky's is closed.}
-{343}{}{I miss Becky's smile.}
-{344}{}{No more cheap booze.}
-{345}{}{The Den isn't the same without Becky's.}
-{360}{}{Frankie's is truly a hole… in the wall, that is.}
-{361}{}{I like the Hole better than Becky's.}
-{362}{}{We call this place the Hole.}
-{363}{}{Take a seat. Oh, wait. Maybe not.}
-{364}{}{Frankie's has action. Becky's is just a money pit.}
-{365}{}{Frankie sure doesn't like Becky.}
-{366}{}{Frankie says Becky's drinks are watered down.}
-{367}{}{How's it going?}
-{368}{}{Frankie knows how to party.}
-{369}{}{Becky's tables are rigged! Well, that's what Frankie says.}
+{309}{}{Você é um jogador?}
+{310}{}{Como está o mundo lá fora?}
+{311}{}{Frankie é uma bolsa de escória. Ele é mau para Becky sem motivo.}
+{312}{}{Você é amigo de Becky?}
+{313}{}{Pegue uma bebida, amigo!}
+{314}{}{Bebam! As bebidas são baratas!}
+{315}{}{Não há como isso ser diluído.}
+{316}{}{Esse Dyer certamente conhece suas coisas.}
+{317}{}{Nada como bons drinks e boa companhia.}
+{318}{}{O problema com as bebidas de Becky é que você costuma beber demais! }
+{319}{}{Becky ... quero dizer, Rebecca tem um bom coração.}
+{320}{}{Se alguém coloca um dedo nela, eles se arrependerão.}
+{321}{}{Esta é uma coisa boa.}
+{340}{}{Devemos matar você pelo que fez.}
+{341}{}{Eu não sei o que ela fez para você, mas ela não merecia morrer.}
+{342}{}{Talvez devêssemos nos dirigir para New Reno, já que a Becky está fechada.}
+{343}{}{Sinto falta do sorriso de Becky.}
+{344}{}{Não mais bebida barata.}
+{345}{}{O Den não é o mesmo sem Becky.}
+{360}{}{Frankie é realmente um buraco ... na parede, isso é.}
+{361}{}{Eu gosto do Buraco melhor do que Becky.}
+{362}{}{Nós chamamos este lugar o Buraco.}
+{363}{}{Sente-se. Oh espere. Talvez não.
+}
+{364}{}{Frankie tem ação. Becky's é apenas um poço de dinheiro.}
+{365}{}{Frankie certamente não gosta de Becky.}
+{366}{}{Frankie diz que as bebidas de Becky são diluídas.}
+{367}{}{Como vai?}
+{368}{}{Frankie sabe como fazer uma festa.}
+{369}{}{As mesas de Becky são manipuladas! Bem, é isso que Frankie diz.}
 {370}{}{Bottoms up!}
-{390}{}{Damn, I warned Frankie about how he treated people.}
-{391}{}{Frankie should have watched his temper.}
-{392}{}{Now where we going to hang out?}
-{393}{}{Too bad Frankie's gone. He knew how to party.}
-{394}{}{You got quite a temper. What'd Frankie do to you?}
-{395}{}{Frankie insult your mom or something?}
+{390}{}{Porra, eu avisei a Frankie sobre como ele tratava as pessoas.}
+{391}{}{Frankie deveria ter observado seu temperamento.}
+{392}{}{Agora, onde nós vamos sair?}
+{393}{}{Muito ruim, Frankie se foi. Ele sabia fazer uma festa.}
+{394}{}{Você tem bastante temperamento. O que Frankie fez com você?}
+{395}{}{Frankie insulto a sua mãe ou algo assim?}
 {410}{}{Eu estou apenas olhando ao redor.}
-{411}{}{I'm not sure what I'm looking for.}
-{412}{}{Tubby sure goes through a lot of Jet.}
-{413}{}{You see anything good?}
-{414}{}{Not much here.}
-{415}{}{Tubby needs to get some better suppliers.}
-{416}{}{You need drugs? Tubby is normally well stocked.}
-{430}{}{What did you kill Tubby for?}
-{431}{}{No great loss, but Tubby was the only real shop in town.}
-{432}{}{What'd Tubby do to piss you off?}
-{433}{}{Tubby sold you some bad shit, didn't he?}
-{434}{}{The rumor is you whacked Tubby because of a bad deal or something.}
-{435}{}{Not surprised really. A lot of people have been sore with Tubby lately.}
-{440}{}{Nothing I'm interested in today…}
-{441}{}{Oh, hi. Just talking to my good friend Flick.}
-{442}{}{What are you doing in here?}
-{443}{}{You a friend of Flick's, too?}
-{444}{}{I didn't do anything.}
-{445}{}{What are you staring at?}
-{446}{}{Just pretend you don't see me.}
-{447}{}{Don't mind me.}
-{460}{}{Damn. You killed Flick.}
-{461}{}{Flick rip you off?}
-{462}{}{Flick's been into some dangerous work.}
-{463}{}{That sucks about Flick.}
-{464}{}{Wonder what all those kids are going to do now that Flick is dead.}
-{465}{}{Surprised Flick lasted this long.}
-{480}{}{We call this home.}
-{481}{}{Most of us grew up on Mom's cooking.}
-{482}{}{I've known Mom since I was a kid.}
-{483}{}{Mom takes care of everyone in the Den.}
-{484}{}{Mom can make a sandwich out of anything.}
-{485}{}{I hope you get to know Mom as well as us.}
-{486}{}{Great company, great food. What else could you ask for?}
-{487}{}{Cheers!}
+{411}{}{Eu não tenho certeza do que eu estou procurando.}
+{412}{}{Tubby certamente passa por um monte de Jet.}
+{413}{}{Você vê alguma coisa boa?}
+{414}{}{Não muito por aqui.}
+{415}{}{A Tubby precisa obter alguns fornecedores melhores.}
+{416}{}{Você precisa de drogas? Tubby está normalmente bem abastecido.}
+{430}{}{Por que você matou o Tubby?}
+{431}{}{Nenhuma grande perda, mas Tubby foi a única loja na cidade.}
+{432}{}{O que Tubby fez para irritá-lo?}
+{433}{}{Tubby vendeu-lhe alguma merda ruim, não é?}
+{434}{}{O rumor é que você abateu Tubby por causa de um mau negócio ou algo assim.}
+{435}{}{Não está realmente surpreso. Muitas pessoas estiveram doloridas com Tubby ultimamente.}
+{440}{}{Nada que eu esteja interessado hoje …}
+{441}{}{Oh Olá. Apenas falando com o meu bom amigo Flick.}
+{442}{}{O que você está fazendo aqui?}
+{443}{}{Um amigo do Flick, também?}
+{444}{}{Eu não fiz nada.}
+{445}{}{O que você está olhando?}
+{446}{}{Apenas finja que não me vê.}
+{447}{}{Não mente para mim.}
+{460}{}{Droga. Você matou Flick.}
+{461}{}{Flick rasgá-lo fora?}
+{462}{}{Flick está em algum trabalho perigoso.}
+{463}{}{Isso é uma merda sobre o Flick.}
+{464}{}{Imagina o que todas aquelas crianças vão fazer agora que o Flick está morto.}
+{465}{}{Surpreso Flick durar tanto tempo.}
+{480}{}{Podemos chamar isso de lar.}
+{481}{}{A maioria de nós cresceu na cozinha da Mamãe.}
+{482}{}{Conheço mamãe desde que eu era criança.}
+{483}{}{Mãe cuida de todos em Den.}
+{484}{}{A mamãe pode fazer um sanduíche de tudo.}
+{485}{}{Eu espero que você conheça Mãe assim como nós.}
+{486}{}{Boa companhia, boa comida. O que mais você poderia pedir?}
+{487}{}{Elogios!}
 {488}{}{Olá.}
-{500}{}{How could you have hurt poor old Mom?}
-{501}{}{I've known, I mean, knew Mom all my life.}
-{502}{}{What did she ever do to you?}
-{503}{}{Murderer! Poor Mom…}
-{504}{}{Why did you have to do that?}
-{505}{}{You heartless monster!}
+{500}{}{Como você pode ter prejudicado a velha e pobre mãe?}
+{501}{}{Eu sabia, quero dizer, conhecia a mãe toda a minha vida.}
+{502}{}{O que ela fez com você?}
+{503}{}{Assassino! Pobre Mãe …}
+{504}{}{Por que você teve que fazer isso?}
+{505}{}{Seu monstro sem coração!}

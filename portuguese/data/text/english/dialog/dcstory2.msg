@@ -1,7 +1,7 @@
 {100}{}{You see bar patron.}
 {101}{}{You see Stacy.}
 {102}{}{She seems to be a little sad.}
-{103}{}{Stop it!}
+{103}{}{Pare com isso!}
 {104}{}{How could you?}
 {105}{}{Fique longe de mim!}
 {106}{}{Por quê?}
