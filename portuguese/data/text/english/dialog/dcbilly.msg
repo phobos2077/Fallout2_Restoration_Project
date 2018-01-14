@@ -89,19 +89,19 @@
 {401}{}{Hey Billy, você precisa de uma esfregada?}
 {402}{}{Billy, seu voo está baixo. NOVAMENTE!}
 {403}{}{Yo Billy, não se esqueça de mudar suas calças mais tarde.}
-{404}{}{Billy, you been eating doughnuts?}
+{404}{}{Billy, você foi comer donuts?}
 {410}{}{Uhhh.}
-{411}{}{Shucks}
+{411}{}{Nojo}
 {412}{}{Jeesh}
 {413}{}{He, he, heee...}
 {414}{}{Hein?}
-{500}{}{*SPIT, SPIT* Eccchhhh...}
-{510}{}{Hey buddy, care to "rent" that fine ho of yours?}
-{511}{}{Can't this wait? I've got to get a drink.}
-{512}{}{Yeah, if you want to talk to me, I'll be at The Hole.}
-{513}{}{How about you meet me at The Hole and I buy you a drink?}
-{520}{}{Sorry, I'm a hurry to get home. I just got some new porn in.}
-{521}{}{I'm uhhh, tired, please let me go home and uhhh, sleep...}
-{522}{}{I'm going over to Dave's. He's got a whole porn wing!}
-{530}{}{Uhhh, no thanks. I don't have money to piss away on that again.}
-{540}{}{Alright, I'll give your ass a try again.}
+{500}{}{*CUSPO, CUSPE* Eccchhhh...}
+{510}{}{Ei, amigo, se preocupe em "arrumar" o seu bom negócio?}
+{511}{}{Não pode essa espera? Tenho que pegar uma bebida.}
+{512}{}{Sim, se você quiser falar comigo, eu vou estar no Buraco.}
+{513}{}{Que tal você me conhece no The Hole e eu compro uma bebida?}
+{520}{}{Desculpe, estou com pressa em chegar em casa. Acabei de receber uma pornografia nova.}
+{521}{}{Estou cansada, por favor, deixe-me ir para casa e uhhh, durma ...}
+{522}{}{Eu vou para Dave's. Ele tem uma asa de pornografia inteira!}
+{530}{}{Hã, não, obrigado. Eu não tenho dinheiro para mijar longe nessa novamente.}
+{540}{}{Tudo bem, eu vou te dar sua bunda tente novamente.}

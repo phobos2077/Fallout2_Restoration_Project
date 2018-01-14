@@ -43,7 +43,7 @@
 {142}{}{Bem.
 }
 {143}{}{The Emperor remains hidden from prying eyes. As my job is to act as the Emperor's screen, I cannot and will not tell you where he is.}
-{144}{}{I have more questions.}
+{144}{}{Eu tenho mais perguntas.}
 {145}{}{Adeus.}
 {146}{}{We do research that will change the world. For more answers to your questions, you should seek out Dr. Wong Yi Tze. }
 {147}{}{I will. And I have more questions.}
@@ -67,7 +67,7 @@
 {165}{}{Não.}
 {166}{}{Oh, all right. I'll do it.}
 {167}{}{Lost villagers? I have heard nothing of this. Perhaps the Emperor would know of them.}
-{168}{}{I have more questions.}
+{168}{}{Eu tenho mais perguntas.}
 {169}{}{Obrigado. Tchau.}
 {170}{}{You must complete a second test: the Hubologists are our enemies. Their leader, AHS-9, has been abducting and brainwashing our children. Kill him for the good of the Shi and I shall tell you how to speak to the Emperor.}
 {171}{}{He's as good as dead.}
@@ -103,7 +103,7 @@
 {201}{}{I ... see. Well, thanks for your time.}
 {202}{}{Our spies report that you have given the vertibird plans to the Hubologists. Steal them for us and you shall be rewarded.}
 {203}{}{You got it. I have some questions.}
-{204}{}{No way.}
+{204}{}{De maneira nenhuma.}
 {205}{}{Thank you for the vertibird plans, traveler. What can I do for you?}
 {206}{}{I have questions.}
 {207}{}{Um... Nothing.}

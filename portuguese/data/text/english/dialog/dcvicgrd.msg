@@ -75,7 +75,7 @@
 {393}{}{I just need to ask him a few questions.}
 {394}{}{Oh, come on. Just let me talk to him real quick.}
 {395}{}{Yes. Here.}
-{396}{}{No. I'll come back.}
+{396}{}{Não. Eu vou voltar.}
 {397}{}{Who's your boss?}
 {398}{}{Deixa pra lá. Tchau.
 }

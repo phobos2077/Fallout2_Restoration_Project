@@ -65,21 +65,21 @@
 {163}{mcs18}{Got a little trouble with the mine. If you're interested in helping fix it, go talk to Zaius, the mine foreman.}
 {164}{}{Where can I find him?}
 {165}{}{You got anything else?}
-{166}{}{I have more questions.}
+{166}{}{Eu tenho mais perguntas.}
 {167}{}{Maybe later. Bye.}
 {168}{mcs19}{Usually at the mine. Sometimes the saloon.}
 {169}{}{Got anything else?}
-{170}{}{I have more questions.}
+{170}{}{Eu tenho mais perguntas.}
 {171}{}{Adeus.}
 {172}{mcs20}{Somebody busted two lunatics out of the jail in the Bank. Find ‘em. Tell me and I'll stuff ‘em back in.}
 {173}{}{Got anything else?}
-{174}{}{I have more questions.}
+{174}{}{Eu tenho mais perguntas.}
 {175}{}{Adeus.}
 {176}{mcs21}{What exactly do you want? Okay. We've got some folks missing. No idea what's happened. Find ‘em, get $500.}
 {177}{}{I'll do it for free.}
 {178}{}{$500? Sounds good.}
 {179}{}{I don't have time.}
-{180}{}{I have more questions.}
+{180}{}{Eu tenho mais perguntas.}
 {181}{}{Adeus.}
 {182}{mcs22}{Great. Let me know when you've found something, right?}
 {183}{}{Sure. I have more questions.}

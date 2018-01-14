@@ -1,6 +1,6 @@
-{100}{}{You see a child shouting corny slogans.}
-{101}{}{This dirty child appears to be employed to advertise a tourist attraction of some sort.}
-{500}{}{See the Mysterious Mummy!}
+{100}{}{Você vê uma criança gritando slogans brega.}
+{101}{}{Esta criança suja parece ser empregada para anunciar uma atração turística de algum tipo.}
+{500}{}{Vê a Misteriosa Múmia!}
 {501}{}{See the Ancient Wonder!}
 {502}{}{A Jan-u-wine Mummy, here now!}
 {503}{}{See the Egyptian Prince!}

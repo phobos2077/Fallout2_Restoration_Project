@@ -52,7 +52,7 @@
 {147}{}{Your ore's done. Before you take it, listen - our town really needs this ore. If you donate it to the
  town, I'll refund your money. Hell, if you want more money for it, I can even give you an extra $500 to make it worth your time.
  Please. With the fiasco at the mine, Broken Hills needs this to stay afloat. What do you say?}
-{148}{}{No way.}
+{148}{}{De maneira nenhuma.}
 {149}{}{Sure. Don't worry about the extra $500. You probably need it more than I do.}
 {150}{}{Fine. Be that way. Here's your ore. Now get out of my refinery.}
 {151}{}{Adeus.}

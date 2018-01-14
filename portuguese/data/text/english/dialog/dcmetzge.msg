@@ -49,7 +49,7 @@
 {258}{}{Lara wanted me to ask you for permission to fight Tyler.}
 {259}{}{Can I join the guild?}
 {260}{}{What can you tell me about your guild?}
-{261}{}{I'd like to go on a slave run.}
+{261}{}{Eu gostaria de seguir uma corrida de escravos.}
 {262}{}{Never mind. Bye.}
 {263}{}{ want to ill.}
 {264}{}{Na.}
@@ -152,7 +152,7 @@
 {442}{}{What about him?}
 {443}{}{Yeah, that's him.}
 {444}{}{Can I see him?}
-{445}{}{Why are you keeping him here?}
+{445}{}{Por que você está mantendo ele aqui?}
 {446}{}{Okay, thanks. Bye.}
 {455}{}{That little fuck - he sold me a radio that he said would be able to pick up
  some transmissions. It didn't. I caught his ass trying to sneak out of town before
@@ -168,7 +168,7 @@
 {463}{}{What kind transmissions were you talking about before?}
 {475}{}{What for? Ah, fuck, never mind. Just don't keep him from fixing that damn
  radio - and he better fix it soon. I'm sick of feeding his lazy ass.}
-{476}{}{Why are you keeping him here?}
+{476}{}{Por que você está mantendo ele aqui?}
 {477}{}{Obrigado.}
 {485}{}{The Enclave and New... Hey, what the hell you care for? It's business. I need to be sure no one's trying to fuck me over. That's all you need to know.}
 {486}{}{Mind your own business.}

@@ -67,7 +67,7 @@
 {166}{}{Sim, eu vou fazê-lo.}
 {167}{}{No, the Shi have never done anything to me.}
 {168}{}{Perhaps you will reconsider. Let me know if you do. Now, is there anything the Hub can provide for you, recruit?}
-{169}{}{Yes, I have some questions.}
+{169}{}{Sim, eu tenho algumas perguntas.}
 {170}{}{No, not right now, thanks.}
 {171}{}{Have you thought on aiding us in our struggle against the oppressive Shi? The Star Father will bless you if you take part in our crusade.}
 {172}{}{I still am not sure I want to do it.}

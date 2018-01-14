@@ -126,7 +126,7 @@
 {511}{}{Tudo bem.}
 {520}{}{Say, you know what? That hundred's really going to uh… delay things. Do you think I could borrow a little bit back?}
 {521}{}{How much?}
-{522}{}{No way.}
+{522}{}{De maneira nenhuma.}
 {530}{}{Wait! I know. Tell you what, I'll give you $100 and you spot me for the other $100 I owe Becky. I'll pay you back real soon.}
 {531}{}{Okay fine.}
 {532}{}{No deal.}

@@ -18,7 +18,7 @@
 {163}{}{Nothing today. Bye.}
 {164}{}{Wee wee.}
 {165}{}{Hey! You better shut your hole!}
-{166}{}{Or what?}
+{166}{}{Ou o que?}
 {167}{}{Just do your job and get me a drink.}
 {168}{}{I'll just leave instead.}
 {169}{}{Whiskey is $}
