@@ -3,40 +3,40 @@
 {102}{}{Você vê um homem curto, de bigode, com um olhar um pouco furtivo para ele.}
 {103}{}{Você! O que você quer fazer para o, anteriormente, Grande Ananias agora?}
 {104}{}{Fique longe de mim!}
-{105}{}{Go ruin someone else's business.}
-{106}{}{Take it out on someone else.}
-{107}{}{You've already done your worst to me.}
-{108}{}{Just go away, you've done enough harm to me.}
-{109}{}{I'm so hungry.}
-{110}{}{How will I ever feed my family now?}
-{111}{}{You were born with a heart 12 sizes too small.}
-{112}{}{No, my friend, a MUMMY! Straight from the sands of ancient Egypt to the sands of the Wastes! Exclusively for you to see!}
-{113}{}{OK, I'll bite. How much to see the wizened corpse?}
-{114}{}{(to yourself) Hmm, a mummy would kinda describe the way a ghoul looks. OK, I'd like to take a look -- how much?}
-{115}{}{I've seen enough corpses already. Goodbye.}
-{116}{}{Hello, welcome, salutations! I am the Great Ananias (he offers you a slight bow, with a flourish). I bring mysteries from near and far friend. Mysteries from a world beyond our own... of the Netherworld.}
-{117}{}{Come back to learn of the Great Ananias' mysteries of the Netherworld have you?}
-{118}{}{What kind of mysteries?}
-{119}{}{Uh, nice to meet you Mr. Great Anus...something.}
-{120}{}{Hmm, mysteries make me sleep uneasily, I better go. Goodbye.}
-{121}{}{Step right up!}
-{127}{}{Today, in the room within, I have, for your eyes exclusively...A Jan-u-wine Egyptian Mummy!}
-{128}{}{A mummy?}
-{129}{}{A mummy? Hmm, I wonder if it could be.... No, nobody could be that stupid.}
-{130}{}{I don't have any interest in that sort of thing. Corpses scare me.}
-{131}{}{Out of the way, you're blocking paying customers.}
-{132}{}{I don't think this is for you.}
-{133}{}{Why don't you take your little tribal self elsewhere.}
-{134}{}{This isn't really for you.}
-{135}{}{I see, hmmm, how about GO (he points) AWAY!}
-{136}{}{For a person of your obvious class I would be happy to show this unique, and historic, specimen to you for a mere $25.}
-{137}{}{OK, I'll cough up the dough. Now...Show Me The Mummy!}
-{138}{}{I don't want to spend that much. I think I'll survive without seeing the thing. Goodbye.}
-{139}{}{Simply open the sarcophagus lid and the marvelous Mummy will be revealed, in all its ancient glory, to you. But please, no touching, and, uh, no flash photography.}
-{140}{}{Great.}
-{141}{}{There you go! The MUMMY! (the door to the sarcophagus swings open to reveal a desiccated corpse, that looks very much like an ordinary ghoul, standing in a poorly painted, chipped and cracked paper-mache sarcophagus.)}
-{142}{}{There you go! Presenting, the MUMMY! (a crypt-like door swings open to reveal a jan-u-wine Egyptian mummy standing in an open sarcophagus that looks as though it's made out of pure gold!)}
-{143}{}{Hey, wait a minute. That's not a Mummy. That's a ghoul. WOODY! Hey WOODY! Is that you?}
+{105}{}{Vai arruinar o negócio de outra pessoa.}
+{106}{}{Retire-o de outra pessoa.}
+{107}{}{Você já fez o seu pior para mim.}
+{108}{}{Apenas vá embora, você me causou bastante mal.}
+{109}{}{Eu estou com tanta fome.}
+{110}{}{Como vou alimentar a minha família agora?}
+{111}{}{Você nasceu com um coração 12 de tamanhos muito pequenos.}
+{112}{}{Não, meu amigo, uma MÚMIA! Direto das areias do Egito antigo para as areias dos Resíduos! Exclusivamente para você ver!}
+{113}{}{OK, eu vou morder. Quanto ver o cadáver marcado?}
+{114}{}{(para você mesmo) Hmm, uma múmia descreveria a maneira como um ghoul parece. Ok, eu gostaria de dar uma olhada - quanto?}
+{115}{}{Já vi cadáveres suficientes. Adeus.}
+{116}{}{Olá, bem-vindo, saudações! Eu sou o Grande Ananias (ele oferece um leve arco, com um floreio). Eu trago mistérios de amigos próximos e distantes. Mistérios de um mundo além do nosso ... do Submundo.}
+{117}{}{Voltou para aprender sobre os mistérios do Grande Ananias do Submundo que você tem?}
+{118}{}{Que tipo de mistérios?}
+{119}{}{Uh, prazer em conhecê-lo, Mr. Grande Ânus...algo.}
+{120}{}{Hmm, mistérios me fazer dormir desconfortavelmente, é melhor eu ir. Adeus.}
+{121}{}{Passo até!}
+{127}{}{Hoje, na sala de dentro, eu tenho, para os seus olhos exclusivamente...Jan-u-vinho Múmia Egípcia!}
+{128}{}{Uma múmia?}
+{129}{}{Uma múmia? Hmm, eu me pergunto se poderia ser.... Não, ninguém poderia ser tão estúpido.}
+{130}{}{Não tenho interesse nesse tipo de coisa. Os cadáveres me assustam.}
+{131}{}{Fora do caminho, você está bloqueando os clientes pagantes.}
+{132}{}{Eu acho que isto não é para você.}
+{133}{}{Por que você não leva seu pequeno ser tribal em outro lugar.}
+{134}{}{Isto não é realmente para você.}
+{135}{}{Eu vejo, hmmm, que tal IR (ele aponta) de DISTÂNCIA!}
+{136}{}{Para uma pessoa da sua óbvia classe, ficaria feliz em mostrar este exemplar único e histórico para você por apenas US $ 25.}
+{137}{}{OK, eu vou tossir a massa. Agora...Me Mostrar A Múmia!}
+{138}{}{Eu não quero gastar muito. Eu acho que eu vou sobreviver sem ver a coisa. Adeus.}
+{139}{}{Basta abrir a tampa do sarcófago e a maravilhosa Múmia será revelada, em toda a sua antiga glória, para você. Mas por favor, sem tocar, e, uh, sem fotografia instantânea.}
+{140}{}{Grande.}
+{141}{}{Ai está! A MÚMIA! (A porta do sarcófago se abre para revelar um cadáver dessecado, que se parece muito com um ghoul comum, parado em um sarcófago de papel mal pintado, estilhaçado e quebrado).}
+{142}{}{Ai está! Apresentando, a MÚMIA! (uma porta de cripta se abre para revelar uma múmia egípcia de jan-u-wine em um sarcófago aberto que parece ter sido feita de ouro puro!)}
+{143}{}{Ei, espere um minuto. Isso não é uma Múmia. Isso é um ghoul. WOODY! Ei WOODY! Isso é você?}
 {144}{}{That sure looks like a ghoul to me.}
 {145}{}{That's a mummy? I can't believe I just paid $25 to see a six-foot hunk of jerky. Goodbye.}
 {146}{}{Wow, that's fantastic...I guess. (you look at the Mummy very intently for a while). Uh, thanks, Goodbye.}
