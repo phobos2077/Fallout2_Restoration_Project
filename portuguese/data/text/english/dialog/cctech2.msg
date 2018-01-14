@@ -1,7 +1,7 @@
 {100}{}{Você vê um técnico.}
 {101}{}{Você vê um Enclave técnico.}
 {102}{}{Você vê alguém usando um bata de laboratório. Ele parece confiante e seguro de si mesmo.}
-{103}{}{Yes, sir?}
+{103}{}{Sim, senhor?}
 {104}{}{Eu novo aqui. Precisa perguntar.}
 {105}{}{Eu apenas disse oi. Eu vou agora.}
 {106}{}{I’m new here and I’m trying to get familiar with the base. Can I ask you some questions?}
@@ -19,7 +19,7 @@
 {119}{}{Qual é o seu trabalho aqui?}
 {120}{}{Onde está localizada a base principal Enclave?}
 {121}{}{Preciso olhar para os planos do vertibird. Onde eles são mantidos?}
-{125}{}{Nothing. I’ve got to go.}
+{125}{}{Nada. Tenho que ir.}
 {126}{}{This is the comm center. From here we handle all communications with the main base and any other outposts that have been established.}
 {127}{}{Eu vejo. Eu peço mais.}
 {128}{}{Tudo bem. Mais um par de perguntas.}
@@ -37,18 +37,18 @@
 {140}{}{Yes, sir. First, the vertibirds are the primary method used in reaching main base. Due to the complexity of their operation it is doubtful that subversives could commandeer a vertibird. Second, there is an operational fuel tanker in San Francisco harbor. The ship has, however, been disabled and a passkey is required to restart it. The base commander has the passkey in his possession. Third, with the proper equipment, you could conceivably swim to main base but the probability of survival is next to nil.}
 {141}{}{Obrigado.}
 {142}{}{Obrigado.}
-{143}{}{They would be located in maintenance, next to air traffic control. }
+{143}{}{Eles devem estar localizados na área de manutenção, ao lado de controlo de tráfego aéreo. }
 {144}{}{Tudo bem.}
 {145}{}{Tenho-o.}
 {155}{}{Você está louco, andando aqui sem uniforme? Seja adequado!}
-{156}{}{If the sergeant catches you out of uniform he’ll hand you your ass.}
+{156}{}{Se o sargento o pega fora do do uniforme, ele vai lhe entregar seu traseiro.}
 {157}{}{Por que você está fora de uniforme?}
-{158}{}{Holy shit! We’re being invaded! Alert!}
+{158}{}{Puta merda! Estamos sendo invadidos! Alerta!}
 {159}{}{Intrusos! Chamar a guarda!!}
 {160}{}{Guarda! Intrusos no centro de comunicação!}
-{161}{}{What’s up? Are we under attack?}
-{162}{}{Why the alert? What’s happening?}
-{163}{}{What the hell’s going on?}
-{164}{}{I’m just a tech, don’t shoot me!}
-{165}{}{I didn’t sign up for combat, just tech training!}
-{166}{}{This is a lab coat, not armor! I’m outta here!}
+{161}{}{O que é? Estamos sob ataque?}
+{162}{}{Por que o alerta? O que está acontecendo?}
+{163}{}{O que diabos está acontecendo?}
+{164}{}{Eu sou apenas um técnico, não atire em mim!}
+{165}{}{Eu não me inscrevi para o combate, apenas de treinamento em tecnologia!}
+{166}{}{Isto é um bata de laboratório, não uma armadura! Estou fora daqui!}

@@ -127,4 +127,4 @@
 {235}{}{You can take care of Lo Pan yourself.}
 {236}{}{[The Dragon studies you] I regretfully cannot let one of your skill level hurt himself.}
 {237}{}{Ok, but can I ask something else?}
-{238}{}{Fine. Bye.}
+{238}{}{Bem. Tchau.}

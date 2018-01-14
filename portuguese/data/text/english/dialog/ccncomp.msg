@@ -20,7 +20,7 @@
 {119}{}{Eu acho que é tudo.}
 {120}{}{Procurando ... Acessando registros de inventário atuais ... Dados adquiridos. Os registros atuais indicam que 1 conjunto de esquemas vertibird estão em estoque. Quatro cópias dos esquemas dos vertibirds foram encomendadas neste trimestre. Quatro cópias dos esquemas de vertibird foram entregues neste trimestre. Três cópias dos esquemas dos vertibirds foram relatados perdidos neste trimestre. Os esquemas vertibird estão alojados em manutenção.}
 {121}{}{Tudo bem. Onde a manutenção?}
-{122}{}{Fine. So where is maintenance located?}
+{122}{}{Bem. Então, onde está localizado a manutenção?}
 {123}{}{Procurando ... Acessando arquivos arquitetônicos base ... Dados adquiridos. A manutenção está localizada acima do solo no quadrante nordeste da base.}
 {124}{}{Obrigado.}
 {125}{}{Procurando ... Acessando mapas geográficos ... Dados adquiridos. A sede do Enclave está localizada a 175 milhas da costa da Califórnia no Oceano Pacífico. As coordenadas são 37 graus 18 minutos de latitude norte em 120 graus e 7 minutos de longitude oeste.}

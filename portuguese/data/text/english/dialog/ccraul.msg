@@ -1,72 +1,72 @@
 {100}{}{Você vê um mecânico.}
-{101}{}{You see Raul, the mechanic.}
-{102}{}{You see a man in a filthy military uniform. Judging by the grease
- spots you think he is more of a mechanic than a soldier, and a hard working
- one to boot.}
-{103}{}{Sorry, man, but I don't have time to chit-chat, you know? I got to get
- this bird working.}
-{104}{}{Doc want fix K-9. He say you got part.}
-{105}{}{Uh... okay.}
-{106}{}{Uh, Quincy want see you. He ask me tell you.}
-{107}{}{The doc wants to fix his dog. He sent me for the part.}
-{108}{}{Fine. Bye.}
-{109}{}{Raul, Quincy wants to see you.}
-{110}{}{Quincy, huh? Well, Raul don't want to see him, man. Raul is tired of
- his shit, you know?}
+{101}{}{Você vê o Raul, o mecânico.}
+{102}{}{Você vê um homem com um uniforme militar imundo. A julgar pela graxa
+  pontos que você acha que ele é mais mecânico do que um soldado e que trabalha duro
+  para inicializar.}
+{103}{}{Desculpe, cara, mas não tenho tempo para bate-papo, você sabe? Eu tenho que fazer
+  Este pássaro funcionar.}
+{104}{}{Doc deseja corrigir K-9. Ele diz que tem parte.}
+{105}{}{Hum... ok.}
+{106}{}{Uh, Quincy quer vê-lo. Ele me pede que lhe diga.}
+{107}{}{O doc quer corrigir seu cão. Ele me enviou para a peça.}
+{108}{}{Bem. Tchau.}
+{109}{}{Raul, Quincy quer ver você.}
+{110}{}{Quincy, hein? Bem, Raul não quer vê-lo, cara. Raul está cansado de
+  sua merda, você sabe?}
 {111}{}{Tudo bem.}
-{112}{}{Quincy say you asshole. You no got balls see him.}
+{112}{}{Quincy dizer que você imbecil. Você não tem bolas para vê-lo.}
 {113}{}{Bem.
 }
-{114}{}{Quincy said you were an asshole and that you wouldn't have
- the balls to report to him.}
-{115}{}{ Hey man, Raul don't take no shit from nobody. You see Quincy working on these
- birds? No way, man. Only Raul works on these babies. You know why? Cause
- Quincy don't know DICK, man, that's why!}
+{114}{}{Quincy disse que você era um idiota e que você não teria
+as bolas para o relatório para ele.}
+{115}{}{Ei cara, Raul não tira nada de ninguém. Você vê Quincy trabalhando nesses
+  pássaros? De jeito nenhum, cara. Somente Raul trabalha com esses bebês. Você sabe porque? Porque
+  Quincy não conhece DICK, cara, é por isso!}
 {116}{}{Uh...}
 {117}{}{Bem...}
-{118}{}{Hey, sorry, man. Raul shouldn't be yelling at you, you know? It's
- not your fault; you're just the messenger. Hey, man, you busy right now?}
-{119}{}{No, me not busy. Why?}
-{120}{}{Not really, why?}
-{121}{}{Hey look, man. Raul's going to go pay Quincy a visit, you know?
- Raul's going to clean the old man's clock.
- You stay here and watch Raul's birds. Ok?}
-{122}{}{Me watch.}
-{123}{}{Sure Raul. I'll do it for you, but not just anybody.}
-{124}{}{Hey, thanks, man. Raul owes you one!
- Don't go away and, hey, man, if anybody
- screws with Raul's birds, you shoot them in the ass. Ok?}
+{118}{}{Ei, desculpa, cara. Raul não deveria estar gritando com você, você sabe? Esta
+  não é sua culpa; você é apenas o mensageiro. Ei, cara, você está ocupado agora?}
+{119}{}{Não, eu não estou ocupado. Por quê?}
+{120}{}{Realmente não, por quê?}
+{121}{}{Olhe, cara. Raul vai fazer uma visita a Quincy, você sabe?
+  Raul vai limpar o relógio do velho.
+  Você fica aqui e vigia os pássaros de Raul. Ok?}
+{122}{}{Eu vigio.}
+{123}{}{Certeza Raul. Eu vou fazer isso por você, mas não conte a ninguém.}
+{124}{}{Ei, obrigado, cara. Raul deve-lhe uma!
+  Não vá embora e, hey, cara, se alguém
+  Mexer com os pássaros de Raul, você os dispara na bunda. Ok?}
 {125}{}{Tudo bem.}
-{126}{}{Hey man, what you think you doing? Get the fuck away from that bird,
- man! Raul's got enough problems without you grunts fucking with things, you
- know? Damn flyboys are bad enough!}
-{127}{}{Hey, man, Raul told you to keep the fuck away from his birds, man.
- Now Raul has to teach you to listen. Come on, man. Take off the fucking
- armor and go one on one, mano e mano with Raul.}
-{128}{}{No, me not think so.}
-{129}{}{Screw you, Raul. Me shoot you ass dead!}
-{130}{}{No thanks, you're too tough for me pal.}
-{131}{}{Why use fists when I have a perfectly good gun?}
-{132}{}{Then don't fuck with Raul's birds, man! Get out of here!}
+{126}{}{Ei cara, o que você acha que está fazendo? Saia desse pássaro,
+  homem! Raul tem problemas suficientes sem você grunhir fodendo com as coisas, você
+  sabe? Malditos pilotos são ruins o suficiente!}
+{127}{}{Eh, cara, Raul disse-lhe que ficasse longe de seus pássaros, cara.
+  Agora, Raul deve ensinar você a ouvir. Vamos lá, cara. Tira a merda da
+  armadura e vem um a um, mano a mano com Raul.}
+{128}{}{Não, eu não penso assim.}
+{129}{}{Toque você, Raul. Eu atirar em sua bunda morto!}
+{130}{}{Não, obrigado, você é muito difícil para mim, amigo.}
+{131}{}{Por que usar os punhos quando eu tenho uma ótima arma?}
+{132}{}{Então não foda com os pássaros de Raul, cara! Saia daqui!}
 {133}{}{Tudo bem.}
-{134}{}{Raul thinks you must be nuts walking around here out of uniform.}
-{135}{}{Hey, man, if the sergeant catches you out of uniform he'll hand
- you your ass.}
-{136}{}{Why are you out of uniform, man?}
+{134}{}{Raul acha que você deve ser louco andando aqui fora do uniforme.}
+{135}{}{Ei, cara, se o sargento te pega fora do uniforme, ele vai entregar
+  você e seu traseiro.}
+{136}{}{Por que você está fora do uniforme, cara?}
 {137}{}{Puta merda! Estamos sendo invadidos! Alerta!}
 {138}{}{Intrusos! Chamar a guarda!!}
-{139}{}{Guard! Intruders in the hangar!}
-{140}{}{Hey, man, what's up? We under attack?}
-{141}{}{Why the alert, man? What's happening?}
+{139}{}{Guarda! Os intrusos no hangar!}
+{140}{}{Ei, cara, o que há? Estamos sob ataque?}
+{141}{}{Por que o alerta, cara? O que está acontecendo?}
 {142}{}{O que diabos está acontecendo?}
-{143}{}{Raul's going to put you in med lab, man.}
-{144}{}{Hey, man, say your prayers!}
-{145}{}{Raul's going to kick your ass!}
-{146}{}{Hey, man, it's in the locker over there. Take it and tell the doc
- Raul says hi.}
+{143}{}{Raul vai colocá-lo no laboratório de medicina, cara.}
+{144}{}{Ei, cara, diga suas orações!}
+{145}{}{Raul vai chutar a sua bunda!}
+{146}{}{Ei, cara, está no armário lá. Pegue e diga ao doc
+  Raul diz oi.}
 {147}{}{Obrigado.}
-{150}{}{Hey, man! Raul don't like it when people mess with his shit. Get out, man.}
-{151}{}{Raul told you not to go through his stuff! Guards!}
-{200}{}{Raul heard you were talking shit about him again.}
-{201}{}{This has happened once too often, asshole. Raul's gonna hurt you bad this time.}
-{300}{}{Can't you see that Raul's busy?}
+{150}{}{E aí cara! Raul não gosta quando as pessoas mexem com suas merdas. Saia, cara.}
+{151}{}{Raul disse que não passasse por suas coisas! Guardas!}
+{200}{}{Raul ouviu falar que estava falando sobre ele de novo.}
+{201}{}{Isto aconteceu uma vez, muito frequentemente, imbecil. Raul vai feri-lo de ruim neste momento.}
+{300}{}{Você não pode ver que Raul está ocupado?}

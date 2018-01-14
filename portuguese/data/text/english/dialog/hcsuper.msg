@@ -43,12 +43,12 @@
 {138}{}{Adeus.}
 {139}{}{That's ridiculous. We're not giving you any.}
 {140}{}{Then die.}
-{141}{}{Fine. Bye.}
+{141}{}{Bem. Tchau.}
 {142}{}{Hey! Get away from there or you'll suffer the consequences!}
 {143}{}{Get out of my refinery! Now!}
 {144}{}{We're still working on refining your ore. Give us time. This isn't instantaneous.}
 {145}{}{I want to ask you something.}
-{146}{}{Fine. Bye.}
+{146}{}{Bem. Tchau.}
 {147}{}{Your ore's done. Before you take it, listen - our town really needs this ore. If you donate it to the
  town, I'll refund your money. Hell, if you want more money for it, I can even give you an extra $500 to make it worth your time.
  Please. With the fiasco at the mine, Broken Hills needs this to stay afloat. What do you say?}
