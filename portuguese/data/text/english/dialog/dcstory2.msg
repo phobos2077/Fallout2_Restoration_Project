@@ -3,7 +3,7 @@
 {102}{}{She seems to be a little sad.}
 {103}{}{Stop it!}
 {104}{}{How could you?}
-{105}{}{Get away from me!}
+{105}{}{Fique longe de mim!}
 {106}{}{Por quê?}
 {107}{}{Please stop!}
 {108}{}{You murderer!}
