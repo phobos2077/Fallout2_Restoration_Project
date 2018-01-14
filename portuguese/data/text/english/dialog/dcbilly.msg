@@ -34,7 +34,7 @@
 {182}{}{Até a próxima.
 }
 {183}{}{Não me incomode. Estou procurando por pintinhos bonitos.}
-{184}{}{Good luck. You'll need it.}
+{184}{}{Boa sorte. Você vai precisar dela.}
 {185}{}{O que sou eu, fígado picado?}
 {186}{}{Adeus.}
 {187}{}{Oooh. OK. Tchau.}
@@ -70,25 +70,25 @@
 {322}{}{Mmmm...}
 {323}{}{Nada mau, nada mau.}
 {324}{}{Teremos que fazer isso novamente e trabalhar com a nossa ... flexibilidade.}
-{350}{}{Looks like I'm going to be getting Handy again.}
-{351}{}{Don't let the door hit your DRY ASS on the way out!}
-{352}{}{Time to finish what you couldn't even start!}
-{370}{}{Oh, that's nice.}
-{371}{}{Billy likes that.}
-{372}{}{Ohhhh yeah.}
-{373}{}{Nice.}
-{374}{}{Jeezus and ramona.}
-{375}{}{Good Gracious.}
-{376}{}{I shoulda packed a box of tissue.}
-{377}{}{Hmmm, who should I imagine now.}
-{390}{}{Hey, can't you see I'm busy in here?}
-{391}{}{Hey, hey, get the hell out.}
-{392}{}{Hey, you couldn't finish the job, so get out.}
-{393}{}{Can you get me a mop and come back in 5?}
-{400}{}{Billy, you better not have made a mess on that mattress again!}
-{401}{}{Hey Billy, you need a mop?}
-{402}{}{Billy, your fly's down. AGAIN!}
-{403}{}{Yo Billy, don't forget to change your pants later.}
+{350}{}{Parece que vou ficar acessível novamente.}
+{351}{}{Não deixe a porta bater seu CU SECO no caminho!}
+{352}{}{Tempo para terminar o que você nem conseguiu começar!}
+{370}{}{Ah, que bom.}
+{371}{}{Billy gosta.}
+{372}{}{Ohhhh sim.}
+{373}{}{Gostoso.}
+{374}{}{Jeezus e ramona.}
+{375}{}{Bom Gracioso.}
+{376}{}{Eu deveria colocar uma caixa de lenço de papel.}
+{377}{}{Hmmm, quem eu devo imaginar agora.}
+{390}{}{Hey, você não está vendo que eu estou ocupado aqui?}
+{391}{}{Hey, Hey, vá pro inferno fora.}
+{392}{}{Ei, você não conseguiu terminar o trabalho, então saia.}
+{393}{}{Você pode me pegar uma esfregona e voltar em 5?}
+{400}{}{Billy, é melhor você não ter feito uma bagunça no colchão novamente!}
+{401}{}{Hey Billy, você precisa de uma esfregada?}
+{402}{}{Billy, seu voo está baixo. NOVAMENTE!}
+{403}{}{Yo Billy, não se esqueça de mudar suas calças mais tarde.}
 {404}{}{Billy, you been eating doughnuts?}
 {410}{}{Uhhh.}
 {411}{}{Shucks}
