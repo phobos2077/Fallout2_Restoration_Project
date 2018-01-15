@@ -49,7 +49,7 @@
 {6005}{}{You suck!}
 {6006}{}{}
 {7000}{}{Molerats?}
-{7001}{}{Oh boy...}
+{7001}{}{Oh rapaz...}
 {7002}{}{What's up with these things?}
 {7003}{}{Are they moles...}
 {7004}{}{Or...}

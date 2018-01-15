@@ -1,5 +1,5 @@
-{100}{}{You see a kindly-looking older woman.}
-{150}{}{You see Mom, busily cooking and cleaning.}
+{100}{}{Você vê uma mulher mais velha de aparência gentil.}
+{150}{}{Você vê Mãe, ocupada cozinhando e limpando.}
 {151}{}{You see a robust older woman, with a cheerful smile on her face.}
 {200}{}{Hello there, I'm Mom. I haven't seen you around here before.}
 {201}{}{Hello again. What can Mom do for you?}
@@ -55,7 +55,7 @@
 {357}{}{Centaur chops, my specialty.}
 {358}{}{It's a surprise.}
 {359}{}{I can't give away my secret recipes!}
-{360}{}{Really?}
+{360}{}{Realmente?}
 {375}{}{Here you go. You look half-starved. (Mom hands you a big steaming plate of delicious smelling food.)}
 {376}{}{Tank-u, Mom.}
 {385}{}{There you go. I knew you'd enjoy that.}

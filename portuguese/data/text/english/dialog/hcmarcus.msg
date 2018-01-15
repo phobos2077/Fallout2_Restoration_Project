@@ -35,7 +35,7 @@
 {134}{}{Great. I have more questions.}
 {135}{}{Fair enough. Bye.}
 {136}{mcs10}{Right...After the Master and the vats were destroyed, I wandered a bit. No place to go. One day got attacked by this fool wearin' power armor.}
-{137}{}{Really?}
+{137}{}{Realmente?}
 {138}{mcs11}{That was Jacob, from the Brotherhood of Steel. He'd sworn some oath to destroy muties. We tussled for a while – probably a day or two. After a while, we just started laughing. What was the point?}
 {139}{}{Então o que?
 }
@@ -126,7 +126,7 @@
 {224}{}{I still think it's a rotten fate.}
 {225}{}{Adeus.}
 {226}{mcs35}{You're talking a long time ago. The world's moved on. You want to hear ancient history?}
-{227}{}{Definitely.}
+{227}{}{Definitivamente.}
 {228}{}{Not right now. I'd like to ask some other questions, though.}
 {229}{}{Not right now. I'll talk to you later.}
 {230}{mcs36}{Right. Well, never really HATED humans. We just had a better way. These new governments, they think they've got all the answers. Blah, blah. Been there, seen that, got the scars.}

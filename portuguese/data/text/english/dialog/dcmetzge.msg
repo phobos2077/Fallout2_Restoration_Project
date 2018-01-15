@@ -199,93 +199,94 @@ metade se vale a pena o meu tempo...}
 {542}{}{Bom trabalho lá fora. Eis $}
 {543}{}{Aqui está o seu dinheiro, }
 {544}{}{$}
-{545}{}{Well it's $}
-{546}{}{It wasn't that tough, now was it? Next time no mistakes. Here's $}
+{545}{}{Bem, é $}
+{546}{}{Não foi tão difícil, agora foi? Na próxima vez, sem erros. Aqui está $}
 {547}{}{$}
-{548}{}{Come on! $}
-{549}{}{Remember, watch each other's backs and only kill the hostile slaves. Here's $}
-{550}{}{Only $}
-{551}{}{You want to make any money or not? You're pissing me off. How fucking
- hard can it be? Now take your $}
-{552}{}{What the hell was your problem? You don't earn shit this time. We're
- in this to make money, not dick around.}
-{553}{}{I'll do better next time.}
-{554}{}{Thanks for nothing.}
+{548}{}{Venha! $}
+{549}{}{Lembre-se, vigie as costas do outro e apenas mate os escravos hostis. Aqui está $}
+{550}{}{Apenas $}
+{551}{}{Você quer ganhar dinheiro ou não? Você está me irritando. Como fodido
+  difícil pode ser? Agora pegue seu $}
+{552}{}{Qual foi o seu problema? Você não ganha merda desta vez. Estamos
+  Nisso, para ganhar dinheiro, não foder tudo.}
+{553}{}{Eu vou fazer melhor da próxima vez.}
+{554}{}{Obrigado por nada.}
 {555}{}{Obrigado.}
 {556}{}{Ug.}
-{570}{}{Damn bitch, was that your first time? There's no way that was not your first time.}
-{571}{}{Damn girl, was that your first time?}
-{572}{}{Pretty good, I guess.}
-{573}{}{Very nice, maybe we can do it again sometime.}
-{574}{}{Damn! That was... very well spent money.}
-{575}{}{Damn! You were the best piece of ass I've ever had, and I've had a lot.}
-{600}{}{YOU STUPID FUCK! How dare you abandon your fellow slavers out there? [Spits in your face] KILL HIM!}
-{601}{}{But I...}
-{602}{}{Alright, let's do this.}
-{620}{}{Well, nice to see you could make it back.}
-{621}{}{Yeah, it was a tough run.}
-{622}{}{Thanks. Things got a little hairy out there.}
+{570}{}{Porra cadela, foi a sua primeira vez? Não havia como não ser a sua primeira vez.}
+{571}{}{Caramba menina, foi que sua primeira vez?}
+{572}{}{Muito bom, eu acho.}
+{573}{}{Muito bom, talvez possamos fazê-lo de novo em algum momento.}
+{574}{}{Droga! Isso foi ... dinheiro muito bem gasto.}
+{575}{}{Porra! Você foi o melhor pedaço de bunda que eu já tive, e eu tinha um monte.}
+{600}{}{SEU ESTÚPIDO FODIDO! Como você se atreve a abandonar seus companheiros escravistas lá fora? [Cospe em seu rosto] MATEM-NO!}
+{601}{}{Mas Eu...}
+{602}{}{Tudo bem, vamos fazer isso.}
+{620}{}{Bem, é bom ver que você poderia recuperar.}
+{621}{}{Sim, foi uma corrida difícil.}
+{622}{}{Obrigado. As coisas ficaram um pouco difíceis lá fora.}
 {623}{}{Agra Moo ne!}
-{630}{}{Oh, you want money? You want to be paid?}
+{630}{}{Ah, você quer dinheiro? Você quer ser pago?}
 {631}{}{Yah.}
 {632}{}{Ugh.}
-{640}{}{Of course I'd LOVE to help you out but... there's this slight problem I have... something about attacking one of my men.}
-{641}{}{Sorry! I didn't mean to- I mean... Ug?}
+{640}{}{É claro que eu adoraria ajudá-lo, mas... há esse pequeno problema que eu tenho... algo sobre o ataque a um dos meus homens.}
+{641}{}{Desculpe! Eu não o quero - quero dizer... Ug?}
 {642}{}{Uh, oh.}
-{650}{}{Oh, don't worry. I'm sure I can find it in my heart to pay- I mean repay you. Men, it's payday.}
-{651}{}{Oh, don't worry. I'm sure I can find it in my heart to pay- I mean repay you. Men,
- take this bitch down.}
+{650}{}{Oh, não se preocupe. Tenho certeza de que posso encontrá-lo no meu coração para pagar - quero dizer, pagar você. Homens, é dia de pagamento.}
+{651}{}{Oh, não se preocupe. Tenho certeza de que posso encontrá-lo no meu coração para pagar - quero dizer, pagar você. Homens,
+  ponham esta cadela para baixo.}
 {652}{}{Oops.}
 {653}{}{Garaka!}
-{654}{}{Uh... Tank?}
-{670}{}{Oh, I'm sure. This line of work isn't to be taken lightly. It takes trust and loyalty. We watch each other's backs. Good policy don't you think?}
-{671}{}{I guess.}
-{672}{}{Uh, what's going on?}
-{673}{}{Definitely.}
-{680}{}{You guess? I didn't think you were that smart. You really are a stupid fuck.
- [Metzger glares at you then looks to his guards and motions in your direction.]}
-{681}{}{Actions?}
+{654}{}{Uh... Brigado?}
+{670}{}{Tenho certeza. Esta linha de trabalho não deve ser tomada de forma leve. É preciso confiança e lealdade. Nós observamos as costas uns dos outros. Boa política, não acha?}
+{671}{}{Eu acho.}
+{672}{}{Uh, o que está acontecendo?}
+{673}{}{Definitivamente.}
+{680}{}{Você acha? Eu não pensei que você era tão inteligente. Você realmente é uma merda estúpida.
+  [Metzger olha para você, então olha para seus guardas e movimentos em sua direção.]}
+{681}{}{Ações?}
 {682}{}{O que?}
-{690}{}{Oh, so you aren't as dumb as you act. Well, that's a shame. You see, I'm having a bit of a dilemma. Someone had the nerve to attack my men.}
-{691}{}{Really?}
-{692}{}{It was an accident!}
-{700}{}{Really? I'm so glad you agree. Now what would you do if someone betrayed this trust?}
-{701}{}{Uh, give them a warning?}
-{702}{}{Here. Let me show you. [attack]}
-{703}{}{Make them pay.}
-{710}{}{You think so? Honestly? I don't know. I was thinking of something a little more... permanent. [With an evil grin, Metzger looks to his guards and nods.]}
+{690}{}{Ah, então você não é tão burro quanto você parece. Bem, isso é uma vergonha. Você vê, estou tendo um pouco de dilema. Alguém teve a coragem de atacar meus homens.}
+{691}{}{Realmente?}
+{692}{}{Foi um acidente!}
+{700}{}{Mesmo? Estou tão feliz que você concorda. Agora, o que você faria se alguém traísse essa confiança?}
+{701}{}{Uh, dar-lhes um aviso?}
+{702}{}{Aqui. Deixe-me mostrar a você. [ataque]}
+{703}{}{Fazê-los pagar.}
+{710}{}{Você acha? Honestamente? Eu não sei. Eu estava pensando em algo um pouco mais ... permanente. [Com um sorriso malvado, Metzger olha para seus guardas e acena com a cabeça.]}
 {711}{}{O que?}
-{712}{}{Oh boy...}
-{720}{}{I'm glad we're in agreement. [Metzger looks to his guards.] Men, it's payday.}
+{712}{}{Oh rapaz...}
+{720}{}{Eu estou contente que nós estamos de acordo. [Metzger olha para seus guardas.] Homens, é dia de pagamento.}
 {721}{}{Uh...}
-{730}{}{Yes. It's a shame really. This person just doesn't seem to get it, but
- I think they are about to. [You see Metzger making a small hand gesture to his
- men.] Play time.}
-{731}{}{Oh really?}
+{730}{}{Sim. É uma vergonha realmente. Essa pessoa simplesmente não parece conseguir, mas
+  Eu acho que ele esta prestes a. [Você vê Metzger fazendo um pequeno gesto de mão para sua os homens.]
+ Tempo de jogo.}
+{731}{}{Ah, sério?}
 {732}{}{Uh oh.}
-{740}{}{Yes, I'm afraid accidents happen around here quite often. In fact, I'm afraid we're about to have another one. [Metzger smiles pleasantly and then nods towards his men.]}
-{741}{}{Bring it on!}
-{742}{}{I'm not getting out of this am I?}
-{750}{}{Oh, but this will be fun. Trust me.}
+{740}{}{Sim, tenho medo que os acidentes ocorram por aqui com bastante frequência. Na verdade, eu tenho medo de termos outro. [Metzger sorri agradavelmente e depois acena para os homens.]}
+{741}{}{Pode vir!
+}
+{742}{}{Eu não estou saindo disso sou eu?}
+{750}{}{Ah, mas isso vai ser divertido. Confie em mim.}
 {751}{}{Foda-se você.}
 {752}{}{Uh, tudo bem.}
-{800}{}{You've killed the leader of the Slave Guild.}
-{900}{}{What you see is what you get. If you don't like my merchandise, then get the fuck out of my face and stop wasting my time.}
-{901}{}{Uh, sorry. Let me ask you something else then.}
-{902}{}{Right. I think I'll go then.}
-{903}{}{Actually, I think I'm going to waste *you* and your whole sick fucking operation.}
-{910}{}{This is all I've got in stock here, you picky fuck, but I've always got new merchandise coming in from my other slave camp.
- Maybe if you check back later, I'll have something that tickles your fancy -- but they're mostly ignorant tribals that all look the
- fucking same, so if that's not your thing, you might be shit outta luck.}
-{911}{}{Look, this might be an unusual request, but I'd really like to get first dibs on any new merchandise you got. Is there some
- way I could go check out the stock at your other camp? Of course, I'd be willing to pay a premium price.}
-{912}{}{Alright, I'll keep checking back then.}
-{913}{}{Good, but next time do me a favor and don't waste my time unless you've got actual business to discuss.}
-{914}{}{Premium price, huh? Now you're talking my kinda language. We usually handle sales here, but I suppose an exception could be made,
- as long as you're serious. I'll tell you how to get there, but you better keep it to your fucking self. I swear, if you turn out to be a
- spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pipboy.]}
-{915}{}{Got it. Let me ask you something else.}
-{916}{}{Thanks. I'll be on my way now. Bye.}
+{800}{}{Você matou o líder do Slave Guild.}
+{900}{}{O que você vê é o que você obtém. Se você não gosta da minha mercadoria, então tire a foda do meu rosto e pare de desperdiçar meu tempo.}
+{901}{}{Uh, desculpe. Deixe-me perguntar-lhe algo mais.}
+{902}{}{Certo. Eu acho que irei então.}
+{903}{}{Na verdade, acho que vou desperdiçar * você * e toda a sua maldita operação fodida.}
+{910}{}{Isto é tudo que eu tenho em estoque aqui, você é uma vadia exigente, mas sempre recebi mercadorias novas do meu outro campo de escravos.
+  Talvez se você voltar depois, eu terei algo que faça cócegas à sua fantasia - mas eles são na sua maioria tribais ignorantes que todos parecem
+  fodidos mesmo, então, se não é o seu caso, você pode estar com muita sorte.}
+{911}{}{Olha, isso pode ser um pedido incomum, mas eu realmente gostaria de obter os primeiros ganhos sobre qualquer mercadoria nova que você obteve. Existe algum
+  modo de eu poder verificar o estoque no seu outro campo? Claro, eu estaria disposto a pagar um preço grande.}
+{912}{}{Tudo bem, eu vou verificar e voltar em seguida.}
+{913}{}{Bom, mas da próxima vez me faça um favor e não perca meu tempo, a menos que você tenha negócios reais para discutir.}
+{914}{}{Preço grande, hein? Agora você está falando meu tipo de linguagem. Costumamos lidar com vendas aqui, mas eu suponho que uma exceção poderia ser feita,
+  desde que você esteja falando sério. Eu vou te dizer como chegar lá, mas é melhor que fique com você. Eu juro, se você vir a ser um
+  espião para eles, Rangers, vou caçar você e te enterrar vivo. [Você escuta as instruções dele e anota a localização do Slaver Camp's no seu Pipboy.]}
+{915}{}{Tenho-o. Deixe-me perguntar-lhe algo mais.}
+{916}{}{Obrigado. Eu vou estar no meu caminho agora. Tchau.}
 {1360}{}{  por ela. Que tal?}
 {1361}{}{?}
 {1363}{}{.}
@@ -296,14 +297,14 @@ metade se vale a pena o meu tempo...}
 {1541}{}{. Você chutou um traseiro sério. Mantem.}
 {1542}{}{.}
 {1543}{}{. $}
-{1544}{}{ isn't something to laugh at, but you can't make a lot more than that.}
-{1545}{}{ this time. Pretty good job.}
+{1544}{}{ não é algo para rir, mas você não pode fazer muito mais do que isso.}
+{1545}{}{desta vez. Bom trabalho.}
 {1546}{}{.}
-{1547}{}{? Not bad.}
-{1548}{}{? You can do better than that.}
+{1547}{}{? Não é mau.}
+{1548}{}{? Você pode fazer melhor do que isso.}
 {1549}{}{.}
-{1550}{}{! That's fucking pitiful! Shape up or I'll kick your ass out.}
-{1551}{}{ and get out.}
+{1550}{}{! Isso é uma merda lamentável! Melhore ou eu vou chutar o seu traseiro.}
+{1551}{}{  e saia.}
 {2540}{}{.}
 {2543}{}{.}
 {15401}{}{. Muito foda bom trabalho, }
