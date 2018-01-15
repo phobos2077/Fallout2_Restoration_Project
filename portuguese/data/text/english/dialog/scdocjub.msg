@@ -25,7 +25,7 @@
 {124}{}{Well, if it festers, don't blame me.}
 {125}{}{I don't run a charity hospital. You'll need to get some cash before I do anything.}
 {126}{}{So what can I do for you?}
-{127}{}{Shoot.}
+{127}{}{Atirar.}
 {128}{}{Vault 13?}
 {129}{}{Know where I could find Vault 13?}
 {130}{}{I heard somebody saying Mr. Westin's not well. That true? I'm worried something might happen to him. He owes me money.}

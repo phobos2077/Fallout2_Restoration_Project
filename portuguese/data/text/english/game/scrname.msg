@@ -1404,7 +1404,7 @@
 {1504}{}{EPA plant}
 {1505}{}{Mr. Chemmie!}
 {1506}{}{Dex}
-{1507}{}{Cat Jules}
+{1507}{}{Gato Jules}
 {1508}{}{Kitsune}
 {1509}{}{Warrior}
 {1510}{}{Bug Spray}

@@ -21,7 +21,7 @@
 {251}{}{His name's Vic - some merchant that broke something of the boss's, or something like that. Not too sure.}
 {252}{}{Oh, him? Yeah, some merchant. I think he broke something, but I'm not sure. Why? You know him?}
 {253}{}{Oh, him? Yeah, some merchant. I think he broke something, but I'm not sure. Why? You know him?}
-{254}{}{Yeah?}
+{254}{}{Sim?}
 {255}{}{Why are you guarding him?}
 {256}{}{Who's your boss?}
 {257}{}{Can I see him?}

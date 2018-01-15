@@ -227,7 +227,7 @@
 {700}{}{Faça isso rápido.}
 {701}{}{Look, I'm a busy man…}
 {702}{}{Well? Out with it already!}
-{703}{}{Yeah?}
+{703}{}{Sim?}
 {704}{}{Did I ever tell you about my village Arroyo?}
 {706}{}{Did you sell Jet to Richard Wright?}
 {707}{}{I've come to collect Mr. Salvatore's tribute.}

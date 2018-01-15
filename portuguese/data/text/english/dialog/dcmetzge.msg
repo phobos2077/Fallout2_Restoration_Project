@@ -2,63 +2,64 @@
 {101}{}{Você vê Metzger, o mestre escravista.}
 {150}{}{Metzger é o chefe da Slaver's Guild.}
 {200}{}{Você vai pagar por isso.}
-{210}{}{What the fuck do you want? This is the Slaver's Guild, not some safe
- house for you fucking jet heads.}
-{211}{}{What the hell do you want, you ugly bitch? This is the Slaver's
- Guild, not some fucking whorehouse.}
-{212}{}{What the hell do you want, bitch? This is the Slaver's Guild, not some
- fucking whorehouse.}
-{213}{}{You're starting to piss me off. What the hell do you want now?}
-{214}{}{Now what, damn it?}
+{210}{}{Que merda você quer? Esta é a Guilda dos Escravistas, não é casa 
+segura para você, idiota cabeça de jato.}
+{211}{}{Que diabos você quer, sua cadela feia? Esta é a Slaver's
+  Guild, não é uma merda de puteiro.}
+{212}{}{Que diabos você quer, puta? Esta é a Guilda dos Escravistas, não alguma
+  porra de bordel.}
+{213}{}{Você está começando a me irritar. Que diabos você quer agora?}
+{214}{}{Agora, o que, porra?}
 {215}{}{O que?}
-{216}{}{Oh, you better make it quick.}
-{217}{}{You here to work for a fucking change?}
-{218}{}{I'm starting to get used to your ugly mug. So... are you here for a reason or what?}
-{219}{}{Do I look like your fucking dad or something? I sure as hell hope not. Now spit it
- out, what do you want?}
-{220}{}{Oh, look who's here. You think you're special or something? Speak up or get the
- fuck out.}
-{221}{}{What do you want now, slaver?}
-{222}{}{You just going to stand there or are you going to say something?}
-{223}{}{Speak up. I don't have all day for this crap.}
-{230}{}{Oh, and 'who' would that be? I hope you don't plan on seeing this person again...}
-{231}{}{You don't have anyone that I'm interested in. I'm only interested in people -
- normal ones, that is.}
-{232}{}{You fucking moron, what do you think I am, a fucking store or something? If you get
- a slave you'd like to sell, let me know. If you want to sell something else, go to a fucking store.}
+{216}{}{Oh, é melhor fazer isso rápido.}
+{217}{}{Você está aqui para trabalhar por uma maldita mudança?}
+{218}{}{Estou começando a me acostumar com sua cara feia. Então ... você está aqui por uma razão ou o quê?}
+{219}{}{Eu pareço seu maldito pai ou algo assim? Com certeza, espero que não. Agora cuspa
+  para fora, o que você quer?}
+{220}{}{Olhem quem está aqui. Você acha que é especial ou algo assim? Fale ou trate 
+de cair fora.}
+{221}{}{O que você quer agora, escravista?}
+{222}{}{Você só vai ficar aí parado ou vai dizer algo?}
+{223}{}{Fala. Eu não tenho o dia todo para essa porcaria.}
+{230}{}{Ah, e 'quem' seria esse? Espero que você não planeje ver essa pessoa novamente ...}
+{231}{}{Você não tem ninguém em quem estou interessado. Só estou interessado em pessoas -
+  normais, isso é.}
+{232}{}{Você está louco, o que você acha que sou, uma loja ou algo assim? Se você pegar
+  um escravo que você gostaria de vender, avise-me. Se você deseja vender outra coisa, vá até uma merda de loja.}
 {233}{}{Miria}
 {234}{}{Davin}
 {235}{}{Vic}
 {236}{}{Myron}
 {237}{}{Cassidy}
 {238}{}{Sulik}
-{239}{}{Can I ask you another question instead?}
-{240}{}{I changed my mind. Bye.}
+{239}{}{Posso fazer outra pergunta?}
+{240}{}{Eu mudei de ideia. Tchau.
+}
 {241}{}{Dex}
-{242}{}{Cat Jules}
+{242}{}{Gato Jules}
 {243}{}{Kitsune}
-{245}{}{Go ahead.}
-{246}{}{Yeah?}
-{247}{}{I'm not your fucking servant, so hurry it up.}
-{248}{}{What is it? I don't have all day.}
-{249}{}{Shoot.}
+{245}{}{Vá em frente.}
+{246}{}{Sim?}
+{247}{}{Eu não sou seu maldito servo, então apresse-se.}
+{248}{}{O que é? Eu não tenho o dia todo.}
+{249}{}{Atirar.}
 {250}{}{Talvez.}
-{255}{}{I have someone I'd like to sell.}
-{256}{}{About Vic...}
-{257}{}{I'm looking for a merchant.}
-{258}{}{Lara wanted me to ask you for permission to fight Tyler.}
-{259}{}{Can I join the guild?}
-{260}{}{What can you tell me about your guild?}
+{255}{}{Eu tenho alguém que eu gostaria de vender.}
+{256}{}{Sobre Vic...}
+{257}{}{Procuro um comerciante.}
+{258}{}{Lara queria que eu pedisse permissão para lutar contra Tyler.}
+{259}{}{Posso me juntar à guild?}
+{260}{}{O que você pode me dizer sobre sua guilda?}
 {261}{}{Eu gostaria de seguir uma corrida de escravos.}
 {262}{}{Deixa pra lá. Tchau.
 }
-{263}{}{ want to ill.}
+{263}{}{ quer mal.}
 {264}{}{Nd.}
-{265}{}{I was looking over the slaves you got back there, but you see, I have very, uh...*selective* tastes, and none of
- them are quite what I'm looking for. Are these all the slaves you have to offer?}
-{270}{}{You think you can cut it? I don't take in just anyone... What the hell. If
- you fuck up, I'll sell you off. You'll have to get a tattoo on your forehead
- identifying you as a slaver to everyone. It's permanent, so no second thoughts.}
+{265}{}{Eu estava olhando os escravos que você tem lá, mas você vê, eu tenho muito, uh ... *gosto seletivo* e nenhum 
+  deles é bem o que eu estou procurando. Esses são todos os escravos que você tem para oferecer?}
+{270}{}{Você acha que pode cortá-lo? Eu não aceito ninguém ... Que diabos. E se
+  você foda-se, eu vou te vender. Você terá que se tatuar na testa
+  identificando você como um escravista para todos. É permanente, então não há segundas intenções.}
 {271}{}{So, our delicate little flower girl returns... You changed your mind then?
  Going to get that tat after all?}
 {272}{}{Yeah, you might do... You don't need much in the way of brains to go on a run.

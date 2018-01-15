@@ -531,7 +531,7 @@
 {50101}{}{A hideously mutated spore plant.}
 {50200}{}{Kitsune}
 {50300}{}{Dex}
-{50400}{}{Cat Jules}
+{50400}{}{Gato Jules}
 {50500}{}{Doctor's Warrior}
 {50501}{}{A warrior for the doctor.}
 {50600}{}{Fruit fly}

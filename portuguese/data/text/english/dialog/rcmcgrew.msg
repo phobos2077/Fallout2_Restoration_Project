@@ -199,7 +199,7 @@
 {247}{}{I don't have time for a political lesson. Goodbye.}
 {248}{}{Everyone wants what Redding's got. Some folks are going to be nicer about how they get it out
  of us, though. Let me explain the situation.}
-{249}{}{Go ahead.}
+{249}{}{Vá em frente.}
 {250}{}{I've heard enough of your explanation all ready. Goodbye.}
 {251}{}{I'll pay you $1,000 for that Excavator Chip.}
 {252}{}{That sounds good to me. Where do I find it?}

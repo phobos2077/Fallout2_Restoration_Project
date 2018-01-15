@@ -84,7 +84,7 @@
 {233}{}{Onde está você, baby?}
 {234}{}{Você está vindo?
 }
-{235}{}{I'm waiting.}
+{235}{}{Eu estou esperando.}
 {236}{}{Eu estou aqui, amante.}
 {237}{}{Eu tenho um bar para executar.}
 {238}{}{Siga-me, docinho.}
