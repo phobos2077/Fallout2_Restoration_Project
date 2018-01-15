@@ -99,7 +99,7 @@
  the golden gecko hides I could carry to the meet. I don't know what his miracle item is, but it's likely some civilized
  trinket that he'll hope I'll be ignorant of enough to pay far more than it's worth. That's why I'd like you to make the
  trade.}
-{351}{}{Why me?}
+{351}{}{Por que eu?}
 {352}{}{Sorry, but I think I'll pass. Bye.}
 {360}{}{Because you're my kin -- a fellow tribal, as they call us -- yet I can tell you've had recent experience with the
  civilized world. If he tries to pull something, you'd be more likely to spot it than me. Besides, I've got a good

@@ -93,7 +93,7 @@
 {410}{}{What the fuck do you care. Beat it.}
 {411}{}{Yeah, so-so.}
 {412}{}{You trying to annoy me?}
-{413}{}{Not bad.}
+{413}{}{Não é mau.}
 {414}{}{Tired.}
 {415}{}{Tudo bem.}
 {416}{}{Vencê-lo.}

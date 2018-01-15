@@ -5,7 +5,7 @@
 {104}{}{Me want information.}
 {105}{}{What you got?}
 {106}{}{Não, eu vou.}
-{107}{}{I want some information.}
+{107}{}{Eu precisava de algumas informações.}
 {108}{}{Sure, show me what you've got.}
 {109}{}{Not right now.}
 {110}{}{I've learned that the less you know, the longer you live. I have no other information for you. Would you like to see my goods?}

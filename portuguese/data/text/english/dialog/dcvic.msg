@@ -284,7 +284,7 @@
 {4705}{}{You sure you have enough of that to spare.}
 {4706}{}{Sure, Boss. I'll take some.}
 {4707}{}{Thanks, Boss.}
-{4708}{}{Not bad.}
+{4708}{}{Não é mau.}
 {5000}{}{I'm a bit hungry at the moment. We'll talk again at Mom's.}
 {5500}{}{I feel like I broke a limb, Boss. You better have a look.}
 {5501}{}{I feel like I am burning up, Boss. You better have a look.}

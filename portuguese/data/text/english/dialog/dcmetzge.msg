@@ -42,7 +42,7 @@
 {247}{}{I'm not your fucking servant, so hurry it up.}
 {248}{}{What is it? I don't have all day.}
 {249}{}{Shoot.}
-{250}{}{Maybe.}
+{250}{}{Talvez.}
 {255}{}{I have someone I'd like to sell.}
 {256}{}{About Vic...}
 {257}{}{I'm looking for a merchant.}

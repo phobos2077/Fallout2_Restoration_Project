@@ -44,7 +44,7 @@
 {197}{}{[Half an hour later, you lie there exhausted.]}
 {198}{}{[Fifteen minutes and a couple grunts later.]}
 {199}{}{[You made it as far as removing your shirt before you no longer felt the need.]}
-{200}{}{I have to go. Bye.}
+{200}{}{Eu tenho que ir. Tchau.}
 {400}{}{Dad!}
 {401}{}{Uh-oh!}
 {402}{}{I surely do!}

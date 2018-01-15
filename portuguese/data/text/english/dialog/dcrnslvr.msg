@@ -43,7 +43,7 @@
 {308}{}{We better not do that again.}
 {309}{}{Fuck... and I was going to drink up tonight.}
 {310}{}{Let's just get out of here. This fucking sucks.}
-{320}{}{Not bad.}
+{320}{}{Não é mau.}
 {321}{}{Hope we got enough. I need to replenish my jet supply.}
 {322}{}{Vamos lá.}
 {323}{}{I've seen better, but money's money.}

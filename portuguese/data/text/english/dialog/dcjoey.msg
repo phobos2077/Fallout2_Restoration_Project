@@ -1,73 +1,74 @@
 {100}{}{Você vê um bandido.}
-{101}{}{You see Joey.}
-{150}{}{This guy doesn't look too friendly.}
+{101}{}{Você vê Joey.}
+{150}{}{Esse cara não parece muito amigável.}
 {151}{}{[FALAR]}
-{152}{}{I’m gonna cut you up, fucker!}
-{153}{}{Yeah? Come on and try.}
-{154}{}{Hey, wait just one minute!}
-{155}{}{I’d think twice if I were you.}
-{156}{}{What do you want? Why shouldn’t I just kill you rather than listen
- to your bullshit after what you've done?}
-{157}{}{I want to talk to you about a ghost that comes around here at night.}
-{158}{}{Did you take a locket from the haunted house?}
-{159}{}{Never mind. I'll just kick your ass instead.}
-{160}{}{Nothing. Just passing through.}
-{161}{}{What the hell are you talking about?}
-{162}{}{Did you steal a locket from that haunted house?}
+{152}{}{Eu vou cortar você, filho da puta!}
+{153}{}{Sim? Venha e experimente.}
+{154}{}{Ei, espere apenas um minuto!}
+{155}{}{Eu pensaria duas vezes se eu fosse você.}
+{156}{}{O que você quer? Por que eu não deveria simplesmente te matar ao invés de ouvir
+  as suas besteiras depois do que você fez?}
+{157}{}{Eu quero falar com você sobre um fantasma que vem aqui à noite.}
+{158}{}{Você pegou um medalhão da casa assombrada?}
+{159}{}{Deixa pra lá. Em vez disso, vou chutar a sua bunda.}
+{160}{}{Nada. Só de passagem.}
+{161}{}{O que diabos você está falando?}
+{162}{}{Você roubou um medalhão daquela casa assombrada?}
 {163}{}{Nada, esquece.
 }
-{164}{}{Forget it. I’ll kill you now and sort out the pieces later.}
-{165}{}{I-I don’t know what you’re talking about.}
-{166}{}{Oh, I think you do! You stole a dead girl’s locket, and now her spirit can't rest.}
-{167}{}{Then I’ll take it by force.}
-{168}{}{T-That's f-fucking crazy! Y-you must h-have been r-really fucked up on some of Tubby's shit. I-I n-never s-saw no g-ghost w-when I stayed t-there- just a bad trip, wasn't f-fucking real.}
-{169}{}{Look, I’ll buy it from you.}
-{170}{}{Give it to me or you can join her.}
-{171}{}{If you don’t return it now, she’ll come after you. And she can’t
- be stopped.}
-{172}{}{Huh? Oh yeah. Yeah. T-That's for damn sure. You're gonna have to fork over some bucks for sure. You ain't gettin' this for free! $50 or beat it!}
-{173}{}{Okay, here’s the money.}
-{174}{}{Take $20 and be happy I don’t just take it from you.}
-{175}{}{Nah, I changed my mind. See ya.}
-{176}{}{Give it to me or I kill you for it.}
-{177}{}{Here. Now just leave me alone.}
-{178}{}{Gladly.}
-{179}{}{Don’t let me catch you doing this again!}
-{180}{}{H-Hey! You don’t have the money! Get the hell out of here!}
-{181}{}{Oops. I’ll come back.}
-{182}{}{Then I guess I have to kill you.}
-{183}{}{Hey. How's it goin'?}
-{184}{}{OK, and you?}
+{164}{}{Esqueça. Vou matá-lo agora e resolver as peças mais tarde.}
+{165}{}{Eu-eu não sei do que você está falando.}
+{166}{}{Oh, eu acho que você sabe! Você roubou o medalhão de uma garota morta, e agora seu espírito não pode descansar.}
+{167}{}{Então eu vou levá-lo pela força.}
+{168}{}{I-Isso é louco! Você deveria ter sido r-realmente fodido em alguma merda de Tubby. Eu - eu nunca vi nenhum f-fantasma q-quando eu fiquei a-ali - apenas uma viagem ruim, não f-foi real.}
+{169}{}{Olha, eu vou comprá-lo de você.}
+{170}{}{Dê para mim ou você pode se juntar a ela.}
+{171}{}{Se você não devolver agora, ela irá atras de você. E ela não pode
+  ser parada.}
+{172}{}{Hã? Oh sim. Sim. I-Isso é com certeza. Você vai ter que ganhar com alguns dólares com certeza. Você não está conseguindo isso de graça! US $ 50 ou esqueça!}
+{173}{}{Ok, aqui está o dinheiro.}
+{174}{}{Pegue US $ 20 e fique feliz, eu não levo apenas isso de você.}
+{175}{}{Nah, eu mudei de idéia. Até mais.}
+{176}{}{Dê para mim ou eu mato você por isso.}
+{177}{}{Aqui. Agora me deixe em paz.}
+{178}{}{Alegremente.}
+{179}{}{Não me deixe pegar você fazendo isso de novo!}
+{180}{}{H-Hey! Você não tem dinheiro! Saia já daqui!}
+{181}{}{Oops. Eu vou voltar.}
+{182}{}{Então eu acho que eu tenho que matar você.}
+{183}{}{Ei. Como isso vai?
+}
+{184}{}{OK, e você?}
 {185}{}{Não é tão bom.}
-{186}{}{Did you take a locket from that haunted house?}
-{187}{}{What do you know about that ghost that comes around here at night?}
-{188}{}{Hey, man, I’m Joey. What're you doin' on my turf?}
-{189}{}{Your turf? I don’t think so.}
-{190}{}{Maybe I’m looking for you.}
-{191}{}{Just leaving. Bye.}
-{192}{}{Looking for some information.}
-{193}{}{Hey, baby cakes. You looking for Joey? Here I am.}
-{194}{}{No. Go away.}
-{195}{}{Maybe. What are you offering me?}
-{196}{}{I want some information.}
-{197}{}{No, sorry. I have to go now.}
-{198}{}{Hey, I got some jet. It’s great stuff and brand new from Reno. Want some?}
-{199}{}{No way!}
+{186}{}{Você pegou um medalhão daquela casa assombrada?}
+{187}{}{O que você sabe sobre esse fantasma que chega aqui à noite?}
+{188}{}{Ei, cara, eu sou o Joey. O que você tá fazendo no meu gramado?}
+{189}{}{Seu gramado? Eu não penso assim.}
+{190}{}{Talvez eu esteja procurando por você.}
+{191}{}{Apenas saindo. Tchau.}
+{192}{}{Procurando algumas informações.}
+{193}{}{Ei, bosta de bebê. Você está procurando por Joey? Aqui estou.}
+{194}{}{Não. Vá embora.}
+{195}{}{Talvez. O que você está me oferecendo?}
+{196}{}{Eu precisava de algumas informações.}
+{197}{}{Não, desculpe. Eu tenho que ir agora.}
+{198}{}{Hey, eu tenho alguns jet. É uma coisa ótima e nova marca de Reno. Quer algumas?}
+{199}{}{De jeito nenhum!}
 {200}{}{Quanto?}
-{201}{}{No, I want information.}
-{202}{}{I have to go. Bye.}
-{203}{}{How about you and I get it on?}
+{201}{}{Não, eu quero informações.}
+{202}{}{Eu tenho que ir. Tchau.}
+{203}{}{Que tal você e eu entendi?}
 {204}{}{Tudo bem.}
-{205}{}{Not if you were the last nonmutated man on the planet.}
-{206}{}{Er, no... I don’t think so. I need something else.}
-{207}{}{You’ll be coming back.}
-{208}{}{Maybe.}
-{209}{}{Don’t count on it.}
-{210}{}{Wait! Can I ask you something?}
-{211}{}{Nobody talks to me like that!}
-{212}{}{I just did. You do anything more than talk?}
-{213}{}{Whatever. Are you selling anything or just making small talk?}
-{214}{}{My apologies. I’m actually looking around and don’t know the area.}
+{205}{}{Nem se você fosse o último homem não morto no planeta.}
+{206}{}{Er, não... eu não penso assim. Eu preciso de algo mais.}
+{207}{}{Você vai voltar.}
+{208}{}{Talvez.}
+{209}{}{Não conte com isso.}
+{210}{}{Aguarde! Posso perguntar uma coisa?}
+{211}{}{Ninguém fala assim comigo!}
+{212}{}{Eu apenas fiz. Você faz mais do que falar?}
+{213}{}{Seja o que for. Você está vendendo alguma coisa ou apenas fazendo uma pequena conversa?}
+{214}{}{Me desculpe. Estou realmente olhando ao redor e não conheço a área.}
 {215}{}{O que você quer?}
 {216}{}{I’m looking for a locket.}
 {217}{}{I need to know more about that haunted house.}

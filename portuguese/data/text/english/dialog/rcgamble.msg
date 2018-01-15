@@ -4,7 +4,7 @@
 {103}{}{Come on, baby needs new shoes.}
 {104}{}{Yeah, that's the ticket!}
 {105}{}{Merda!}
-{106}{}{Why me?}
+{106}{}{Por que eu?}
 {107}{}{Can anyone spare me some change?}
 {108}{}{I've got a sure thing this time.}
 {109}{}{My system always works.}

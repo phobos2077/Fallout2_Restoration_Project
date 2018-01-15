@@ -5,85 +5,86 @@
 {104}{}{Essa pessoa não parece estar a ganhar ou a perder.}
 {105}{}{Esta pessoa não ganhou em um tempo.}
 {106}{}{She looks like she's about to cry and seems to almost be out of money.}
-{107}{}{He looks very angry and seems to be losing big.}
-{200}{}{Don't hurt me!}
-{201}{}{Don't shoot!}
-{202}{}{I don't have any money!}
-{203}{}{Why did you have to kill poor Becky?}
+{107}{}{Ele parece muito irritado e parece estar perdendo grandes.}
+{200}{}{Não me machucar!}
+{201}{}{Não atire!}
+{202}{}{Eu não tenho dinheiro!}
+{203}{}{Por que você teve que matar a pobre Becky?}
 {204}{}{O que ela fez com você?}
-{205}{}{I didn't do anything!}
-{206}{}{Please go, I won't tell.}
-{300}{}{Yes! The dice love me!}
-{301}{}{Oh, that was close.}
-{302}{}{Don't interrupt me. You'll ruin my winning streak.}
-{303}{}{I'm hot!}
-{304}{}{Money, money, money!}
-{305}{}{I love this game!}
-{306}{}{You see that! Yes!}
-{307}{}{Roulette is the game to play!}
-{308}{}{I'm doing pretty good, how about you?}
-{309}{}{I'm doing better than normal.}
-{310}{}{Great place don't you think?}
-{311}{}{Becky's tables are better than New Reno.}
-{312}{}{You like this game? It's a lot of fun.}
-{313}{}{I haven't had a good roll in a while.}
-{314}{}{I need a good roll.}
-{315}{}{Well, at least I'm not losing.}
-{316}{}{I'm not going anywhere.}
-{317}{}{I'm just breaking even.}
-{318}{}{You've got to play the numbers.}
-{319}{}{Just betting on the red or black is bad odds.}
-{320}{}{The dice aren't behaving.}
-{321}{}{I'm down and it's not looking good.}
-{322}{}{I hope you do better than I.}
-{323}{}{I've seen better days.}
-{324}{}{I know how to play, honest.}
-{325}{}{The ball's not bouncing my way today.}
-{326}{}{Another payday lost for good.}
-{327}{}{I'm almost broke!}
-{328}{}{Damn it. This sucks.}
-{329}{}{Why does this always happen to me?}
-{330}{}{I can't win.}
-{331}{}{I hate this game.}
-{400}{}{Damn, Becky's was the only place to gamble around here!}
-{401}{}{Stay away.}
-{402}{}{Don't shoot!}
-{403}{}{Please leave us alone.}
-{500}{}{Don't stop there.}
-{501}{}{Keep moving.}
-{502}{}{COME ON 7!}
-{503}{}{Yes!}
-{504}{}{Keep it coming!}
-{505}{}{Becky! I'm going to take all your money today!}
-{506}{}{Woohoo! Winner!}
-{507}{}{Give me another good bounce!}
-{508}{}{Yes!}
-{509}{}{All right!}
-{510}{}{Again, let's see that again.}
-{511}{}{Come on.}
-{512}{}{That's what I wanted.}
-{513}{}{Almost.}
-{514}{}{Not bad.}
-{515}{}{How did that happen?}
+{205}{}{Eu não fiz nada!}
+{206}{}{Por favor, vá, eu não vou dizer.}
+{300}{}{Sim! Os dados me amam!}
+{301}{}{Oh, isso estava perto.}
+{302}{}{Não me interrompa. Você vai estragar a minha série de vitórias.}
+{303}{}{Eu estou quente!}
+{304}{}{Dinheiro, dinheiro, dinheiro!}
+{305}{}{Eu amo este jogo!}
+{306}{}{Você vê isso! Sim!}
+{307}{}{Roleta é o jogo para jogar!}
+{308}{}{Eu estou fazendo muito bem, e você?}
+{309}{}{Eu estou fazendo um trabalho melhor do que o normal.}
+{310}{}{Ótimo lugar, você não acha?}
+{311}{}{As mesas de Becky são melhores que New Reno.}
+{312}{}{Você gosta deste jogo? É um monte de diversão.}
+{313}{}{Eu não tive um bom rolo há algum tempo.}
+{314}{}{Eu preciso de um bom rolo.}
+{315}{}{Bem, pelo menos eu não estou perdendo.}
+{316}{}{Eu não estou indo a lugar algum.}
+{317}{}{Eu só estou quebrando mesmo.}
+{318}{}{Você tem que jogar os números.}
+{319}{}{Simplesmente apostar em vermelho ou preto, é ruim de probabilidades.}
+{320}{}{Os dados não estão se comportando.}
+{321}{}{Eu estou para baixo e as perspectivas não são boas.}
+{322}{}{Eu espero que você faça melhor do que eu.}
+{323}{}{Eu vi dias melhores.}
+{324}{}{Eu sei como jogar, honesto.}
+{325}{}{A bola não saltando no meu caminho hoje.}
+{326}{}{Outro dia de pagamento perdido para sempre.}
+{327}{}{Estou quase quebrado!}
+{328}{}{Porra. Isso é uma merda.}
+{329}{}{Por que isso sempre acontece comigo?}
+{330}{}{Eu não posso ganhar.}
+{331}{}{Eu odeio esse jogo.}
+{400}{}{Porra, Becky era o único lugar para se jogar por aqui!}
+{401}{}{Ficar de fora.}
+{402}{}{Não atire!}
+{403}{}{Por favor, deixe-nos em paz.}
+{500}{}{Não pare por aí.}
+{501}{}{Manter em movimento.}
+{502}{}{VENHA 7!}
+{503}{}{Sim!}
+{504}{}{Deixe vir!
+}
+{505}{}{Becky! Eu vou tomar todo o seu dinheiro de hoje!}
+{506}{}{Woohoo! O vencedor!}
+{507}{}{Dê-me outro bom salto!}
+{508}{}{Sim!}
+{509}{}{Tudo certo!}
+{510}{}{Novamente, vamos ver isso de novo.}
+{511}{}{Venha.}
+{512}{}{É o que eu queria.}
+{513}{}{Quase.}
+{514}{}{Não é mau.}
+{515}{}{Como foi que isso aconteceu?}
 {516}{}{Oops.}
-{517}{}{No wammies, no wammies. Stop!}
-{518}{}{Well, the game lives up to its name.}
-{519}{}{I just need one big win.}
-{520}{}{Figures!}
-{521}{}{Again?}
-{522}{}{This isn't looking good.}
-{523}{}{Roulette sucks!}
-{524}{}{Becky! You're tables are killing me!}
-{525}{}{Are those loaded dice or what?}
-{526}{}{Not again!}
-{527}{}{Why me?}
-{528}{}{Damn it! So close!}
-{529}{}{Oh sweet sweet Jesus, KILL ME NOW!}
-{530}{}{I hate this game!}
-{531}{}{Damn! That was my number on the last spin!}
-{532}{}{Black again!?!?}
+{517}{}{Sem brincadeiras, sem brincadeiras. Pare!}
+{518}{}{Bem, o jogo faz jus ao seu nome.}
+{519}{}{Eu só preciso de uma grande vitória.}
+{520}{}{Figuras!}
+{521}{}{Novamente?}
+{522}{}{Isso não parece estar bem.}
+{523}{}{Roleta é uma merda!}
+{524}{}{Becky! Suas mesas estão me matando!}
+{525}{}{São os dados carregados ou o quê?}
+{526}{}{Não de novo!}
+{527}{}{Por que eu?}
+{528}{}{Caramba! Tão perto!}
+{529}{}{Oh doce doce Jesus, MATA-ME AGORA!}
+{530}{}{Eu odeio esse jogo!!!!}
+{531}{}{Droga! Esse foi o meu número na última rodada!}
+{532}{}{Preto de novo!?!?}
 {600}{}{Fugir!}
-{601}{}{Why did you do that?}
+{601}{}{Por que você fez isso?}
 {602}{}{Fugir!}
-{603}{}{Stop it, I'm fragile.}
-{604}{}{I wouldn't do that do you.}
+{603}{}{Pare com isso, eu sou frágil.}
+{604}{}{Eu não faria isso por você.}

@@ -12,7 +12,7 @@
 {329}{}{What's going to happen to us?}
 {330}{}{What did we do wrong?}
 {331}{}{Leave us alone, slaver!}
-{332}{}{Don't hurt me!}
+{332}{}{Não me machucar!}
 {333}{}{Fique longe de mim!}
 {350}{}{Quem é você?}
 {351}{}{You no slaver.}

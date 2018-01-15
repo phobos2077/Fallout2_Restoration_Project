@@ -62,7 +62,7 @@
 {161}{}{So how's this purging work? Is it painful?}
 {162}{}{It's not painful. You just undergo a zeta-scan. I can do one now, if you like.}
 {163}{}{Com certeza.}
-{164}{}{No way!}
+{164}{}{De jeito nenhum!}
 {165}{}{The Church of Hubology exists to free mankind from the chains that have kept his full spiritual potential in shackles.}
 {166}{}{How do you do that?}
 {167}{}{Oh yeah, like "Let my psyche go," right?}

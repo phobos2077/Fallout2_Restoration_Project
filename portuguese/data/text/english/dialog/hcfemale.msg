@@ -75,7 +75,7 @@
 {218}{}{Deixe-me em paz!}
 {219}{}{No! No! No!}
 {220}{}{Não me toque!}
-{221}{}{Don't hurt me!}
+{221}{}{Não me machucar!}
 {250}{}{Those poor people.}
 {251}{}{Who fell down Jacob’s ladder?}
 {252}{}{Well, look what the desert dragged in.}

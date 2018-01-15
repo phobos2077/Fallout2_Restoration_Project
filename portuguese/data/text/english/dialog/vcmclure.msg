@@ -61,7 +61,7 @@
 {160}{}{Your powers are weak, old man. You are no match for me.}
 {161}{}{That's it! Citizen or not, you're out of here. Guards, show this degenerate to the gates!}
 {162}{}{I'm going. This place sucked anyway.}
-{163}{}{I'm not going anywhere.}
+{163}{}{Eu não estou indo a lugar algum.}
 {164}{}{What can I do for you?}
 {165}{}{I don't know, old man. What CAN you do for me?}
 {166}{}{I'm looking for a Garden of Eden Creation Kit.}

@@ -6,7 +6,7 @@
 {105}{}{Me want information.}
 {106}{}{What you got?}
 {107}{}{Não, eu vou.}
-{108}{}{I want some information.}
+{108}{}{Eu precisava de algumas informações.}
 {109}{}{Sure, show me what you've got.}
 {110}{}{Não importa.}
 {111}{}{I have no information to sell. I deal only in weapons. Do you want to see my wares?}

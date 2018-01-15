@@ -29,6 +29,6 @@
 {128}{}{What are you? Are you a person?}
 {129}{}{You're awfully big.}
 {130}{}{Waaaaaah!}
-{131}{}{Don't hurt me!}
+{131}{}{Não me machucar!}
 {132}{}{::crying::}
 {133}{}{Help, Mommy!}

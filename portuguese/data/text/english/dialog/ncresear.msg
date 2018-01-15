@@ -34,7 +34,7 @@
 {246}{}{Myron, this new hallucinogen you've developed is promising, but it is not as addictive as jet…}
 {250}{}{(The bald woman doesn't even look up from her clipboard.) Yes?}
 {251}{}{No!}
-{252}{}{Yes!}
+{252}{}{Sim!}
 {253}{}{Heh-heh. You bald. You look like man}
 {254}{}{Delenn?}
 {255}{}{Wander off}

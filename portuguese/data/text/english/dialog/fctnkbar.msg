@@ -5,7 +5,7 @@
 {104}{}{Me want information.}
 {105}{}{What you got?}
 {106}{}{Não, eu vou.}
-{107}{}{I want some information.}
+{107}{}{Eu precisava de algumas informações.}
 {108}{}{Show me what you've got.}
 {109}{}{Nothing, I'm leaving.}
 {110}{}{Information huh? Well I ain't no library and this ain't no computer room. Drink up or get out. Want some booze or not?}

@@ -28,7 +28,7 @@
 {150}{}{Trade? I'm always ready to trade Tragic cards. I've got a couple of old Vox Mubies, a Black
  Dahlia, and some Rare Earths.}
 {151}{}{I suppose you just want to trade stuff, huh?}
-{152}{}{What the hell are you talking about?}
+{152}{}{O que diabos você está falando?}
 {153}{}{Uh, I don't know what you're on, but I hope you have some in inventory to trade.}
 {154}{}{Yes, I'd like to trade.}
 {155}{}{Hmm... let me ask you about something else, first.}
