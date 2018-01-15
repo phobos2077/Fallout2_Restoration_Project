@@ -922,7 +922,7 @@
 {2303}{}{This was fun, but I'm gone!}
 {2304}{}{You'll pay for this - later!}
 {2305}{}{Let's do this again soon!}
-{2306}{}{I'll be back.}
+{2306}{}{Eu vou estar de volta.}
 {2307}{}{See ya around.}
 {2308}{}{I'll be back, 'til then you can dream about me.}
 {2309}{}{You bore me.}
@@ -2373,7 +2373,7 @@
 {36764}{}{Was that an attack?}
 {36765}{}{We are the Chosen!}
 {36800}{}{Now I know why you're wanted!}
-{36801}{}{I'll be back.}
+{36801}{}{Eu vou estar de volta.}
 {36802}{}{This isn't the last you'll see of me.}
 {36803}{}{The good guys are supposed to win?}
 {36804}{}{Why don't we talk about this?}

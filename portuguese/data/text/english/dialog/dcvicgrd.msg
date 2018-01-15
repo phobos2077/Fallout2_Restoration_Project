@@ -106,7 +106,7 @@
 {481}{}{Tudo bem.}
 {482}{}{Bem.
 }
-{490}{}{No, sorry.}
+{490}{}{Não, desculpe.}
 {491}{}{I said no. Now beat it. You've got to talk to Metzger}
 {492}{}{Tudo bem.}
 {500}{}{To bad you didn't join us.}

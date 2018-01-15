@@ -54,7 +54,7 @@
 {153}{}{You're a sick, rude bastard, aren't you?}
 {154}{}{Right. Bye.}
 {155}{}{You are a dishonorable person. I will not have you in my shop. Come back some other time.}
-{156}{}{Whatever.}
+{156}{}{Seja o que for.}
 {157}{}{They did not. They came from the north and flew over us, heading out over the sea.}
 {158}{}{Over the horizon? How the hell do I get there?}
 {159}{}{Yeah, right they did. Tell me where they are before I open you like a can of sardines.}
@@ -153,13 +153,13 @@
 {450}{}{That depends. I don't suppose you have $10000 to ensure the continued prosperity of my shop?}
 {451}{}{Here's your $10000.}
 {452}{}{That's outrageous for a simple password. I'll only go as high as $5000.}
-{453}{}{No deal.}
+{453}{}{Nenhum acordo.}
 {460}{}{Ah, much appreciated. The password is XY8QIV2SHI. Others may be watching me after this, so don't forget the password. If ever we discuss it again, I'll need even more money for bribes.}
 {461}{}{Obrigado. Adeus.}
 {470}{}{You are a crafty one, I'll give you that. Fine. I accept your offer. The password is XY8QIV2SHI. Don't forget it, or you'll have buy it from me again.}
 {471}{}{Obrigado. Adeus.}
 {480}{}{Don't insult me with your meager offers. $10000. Take it or leave it.}
 {481}{}{Fine. Here's your $10000.}
-{482}{}{No deal.}
+{482}{}{Nenhum acordo.}
 {490}{}{Your loss then. I don't believe we have anything else to discuss. Goodbye.}
 {491}{}{Adeus.}

@@ -35,7 +35,7 @@
 {282}{}{Com certeza.}
 {283}{}{Eu vou ver o que posso fazer.}
 {290}{}{Thanks. Don't get in a fight... yet. I have a plan.}
-{291}{}{No problem.}
+{291}{}{Não há problema.}
 {292}{}{I'll be right back.}
 {300}{}{What's that?}
 {301}{}{Raw chemical compounds in large crates.}
@@ -82,7 +82,7 @@
  and slightly outnumber us. If you can find some kind of weakness we could use
  to balance out the odds or something we can exploit...}
 {441}{}{Huh? Find a weakness? How am I supposed to do that?}
-{442}{}{How much?}
+{442}{}{Quanto?}
 {443}{}{Consider it done.}
 {450}{}{We'll give you $150. There's no way we can get close enough to find out by ourselves.}
 {451}{}{If I get around to it.}
@@ -133,7 +133,7 @@
 {560}{}{Thanks. Here's your money and $100 extra.}
 {570}{}{Did you kill Tyler and his guards? How are we supposed to prove ourselves to Metzger? He'll never hire us now. That was our only chance.}
 {571}{}{We don't have any work. Someone killed off Metzger's guards and now he won't talk to us. He thinks we did it. Oh well.}
-{572}{}{Sorry.}
+{572}{}{Sinto.}
 {573}{}{Too bad.}
 {574}{}{That was me, and you're next.}
 {575}{}{Oh. Okay, bye.}

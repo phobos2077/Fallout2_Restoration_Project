@@ -147,7 +147,7 @@
 {441}{}{I don't blame you for not making the trade. I had bad feeling about the deal as well. I admit those stimpaks would
  have proven useful, but we've been getting by without them, and we'll continue to do so. You're welcome to stay among us
  girl, and treat our tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
-{442}{}{No problem.}
+{442}{}{Não há problema.}
 {443}{}{My pleasure.}
 {444}{}{Whatever. Bye.}
 {450}{}{If I ever see that cheating dog again, I'll take great pleasure in cleaving his ugly skull. However, you did well
@@ -156,7 +156,7 @@
 {451}{}{If I ever see that cheating dog again, I'll take great pleasure in cleaving his ugly skull. However, you did well
  in spotting his deceit. I see I made a wise choice in trusting you, girl. You're welcome to stay among us, and treat our
  tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
-{452}{}{No problem.}
+{452}{}{Não há problema.}
 {453}{}{My pleasure.}
 {454}{}{Whatever. Bye.}
 {460}{}{[The giant warrior nods a greeting as you approach.] Welcome back, friend. Do you need something?}

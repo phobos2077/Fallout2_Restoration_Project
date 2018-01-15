@@ -138,7 +138,7 @@
  get hurt.}
 {511}{}{Okayeee! Thanx!}
 {520}{}{Kind of like shit through the intestines, huh? Don't stay too long, bitch, or you're gonna get hurt.}
-{521}{}{Whatever.}
+{521}{}{Seja o que for.}
 {522}{}{Bitch...}
 {531}{}{Yeah, I understand you need someone to put in your place, PRINCESS, and I'm just the one to do it.}
 {532}{}{Understood, Miss Bishop.}

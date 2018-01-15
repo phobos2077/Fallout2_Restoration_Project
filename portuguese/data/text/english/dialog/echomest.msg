@@ -36,7 +36,7 @@
 {132}{}{I'm just a poor farmer.}
 {133}{}{Please, don't burn my farm down.}
 {134}{}{I didn't like farming anyway.}
-{135}{}{I'll be back.}
+{135}{}{Eu vou estar de volta.}
 {136}{}{Take my wife - please...}
 {200}{}{Thanks fer your help.}
 {201}{}{Bout time some order was brought to these here lands.}

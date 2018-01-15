@@ -157,7 +157,7 @@
 {228}{}{Go ahead. Call me if you need anything... like a baseball bat.}
 {229}{}{Brahmin fumes? Not a conventional manufacturing process, but... hmmmmm. Perhaps I could take
  blood samples from the brahmin in the courtyard, then... thank you, my friend.}
-{230}{}{No problem.}
+{230}{}{Não há problema.}
 {231}{}{Com certeza.}
 {232}{}{You may also tell your little hooligan friend that he is wasting his considerable intellect
  manufacturing drugs. His manners and language also leave MUCH to be desired.}

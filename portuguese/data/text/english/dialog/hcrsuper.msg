@@ -51,4 +51,4 @@
 {150}{}{Fine. Be that way. Here's your ore. Now get out of my refinery.}
 {151}{}{Adeus.}
 {152}{}{Thanks! Here's your money back.}
-{153}{}{No problem.}
+{153}{}{Não há problema.}

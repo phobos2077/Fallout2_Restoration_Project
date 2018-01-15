@@ -50,7 +50,7 @@
 {150}{}{Odds 10:}
 {151}{}{Field bet set at:}
 {152}{}{Which PROPOSITION BET?}
-{153}{}{How much?}
+{153}{}{Quanto?}
 {154}{}{Single Roll bets...}
 {155}{}{Hardway bets...}
 {156}{}{What type of bet?}

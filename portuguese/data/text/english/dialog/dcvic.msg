@@ -53,7 +53,7 @@
  Metzger says.}
 {193}{}{Great, let's go.}
 {194}{}{Welcome aboard.}
-{195}{}{Whatever.}
+{195}{}{Seja o que for.}
 {196}{}{Vic me bess frend.}
 {197}{}{Want to join me on my search?}
 {198}{}{Great! Thanks.}

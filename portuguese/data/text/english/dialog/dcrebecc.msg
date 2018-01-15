@@ -46,7 +46,7 @@
 {254}{}{Well, okay. What is it?}
 {255}{}{I suppose.}
 {256}{}{O que?}
-{257}{}{No, sorry.}
+{257}{}{Não, desculpe.}
 {258}{}{Not right now.}
 {270}{}{I need a drink.}
 {271}{}{I'm looking for a merchant who sells Vault equipment.}
@@ -117,7 +117,7 @@
 {389}{}{Sorry, but Derek's also dead.}
 {390}{}{I'm sorry, but he's dead.}
 {391}{}{Yes. Here it is.}
-{392}{}{No, sorry.}
+{392}{}{Não, desculpe.}
 {400}{}{I can't believe it. How did you do it? Oh, never mind. I'm just stunned,
  that's all. To show my appreciation, I'll split it with you, right down the
  middle. Thank you again, that was very honest of you.}
@@ -184,7 +184,7 @@
 {561}{}{I was paid to do it.}
 {562}{}{I don't have to answer to anyone.}
 {563}{}{I don't know what you're talking about.}
-{564}{}{Whatever.}
+{564}{}{Seja o que for.}
 {565}{}{Ooba gooba.}
 {570}{}{Oh really? That sleaze Frankie put you up to it, I'm sure of it. I'll just
  make another one, you know.}

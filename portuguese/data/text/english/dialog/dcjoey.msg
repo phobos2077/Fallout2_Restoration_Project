@@ -53,7 +53,7 @@
 {197}{}{No, sorry. I have to go now.}
 {198}{}{Hey, I got some jet. It’s great stuff and brand new from Reno. Want some?}
 {199}{}{No way!}
-{200}{}{How much?}
+{200}{}{Quanto?}
 {201}{}{No, I want information.}
 {202}{}{I have to go. Bye.}
 {203}{}{How about you and I get it on?}

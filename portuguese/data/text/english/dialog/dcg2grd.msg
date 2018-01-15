@@ -28,7 +28,7 @@
 {254}{}{Vencê-lo.}
 {255}{}{We're ready when you are.}
 {256}{}{It's about time we pay them back.}
-{257}{}{I hate waiting.}
+{257}{}{Eu odeio esperar.}
 {258}{}{Let's go already.}
 {259}{}{You ready yet?}
 {260}{}{Just let Lara know when it's time.}

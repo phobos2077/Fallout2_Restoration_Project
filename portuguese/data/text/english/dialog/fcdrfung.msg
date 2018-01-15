@@ -11,10 +11,10 @@
 {110}{}{O que você pode me dizer sobre este lugar?}
 {111}{}{Adeus.}
 {112}{}{Let me take a look at that. Hmm. Yes. I'll have to charge you, of course.}
-{113}{}{How much?}
+{113}{}{Quanto?}
 {114}{}{Forget it.}
 {115}{}{I can heal... but for a price, you understand.}
-{116}{}{How much?}
+{116}{}{Quanto?}
 {117}{}{Forget it.}
 {118}{}{Who am I? I am Dr. Fung. I teach and I heal.}
 {119}{}{Dr. Fung? Do you know Doc Holliday?}

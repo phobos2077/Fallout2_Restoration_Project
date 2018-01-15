@@ -13,10 +13,10 @@
 {111}{}{Just sell me some stimpacks.}
 {112}{}{Forget it. Sorry.}
 {113}{}{Let me take a look at that. I can heal you, but it'll cost.}
-{114}{}{How much?}
+{114}{}{Quanto?}
 {115}{}{Forget it.}
 {116}{}{Yes, I can heal this… ::wheeze:: for a price.}
-{117}{}{How much?}
+{117}{}{Quanto?}
 {118}{}{Forget it.}
 {119}{}{What do I do here? You're in a hospital. I'm wearing a doctor's coat. I'm covered with blood.
  There are sharp, pointy things lying all around. Either I'm a successful killer or a fair doctor. Take your pick.}

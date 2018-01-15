@@ -56,7 +56,7 @@
 {270}{}{[Ignoring your comment, he grins at Krom, then turns to one of his bodyguards.] Warren, come give me your hand.
  [The guard frowns, but does as he's told. Roy quickly takes out a knife and slashes it across the top of Warren's arm.
  Warren winces with pain but does not cry out.] As you can see, Warren's got quite a nasty gash here.}
-{275}{}{How much?}
+{275}{}{Quanto?}
 {276}{}{Practically giving them away? How much are you asking?}
 {280}{}{I'll give you this entire crate full of 'em -- that's *fifty* stimpaks—and all I ask in return is a measly *twenty*
  golden gecko pelts. You just can't beat a deal like that.}
@@ -64,7 +64,7 @@
 {282}{}{That's a good deal alright. Too good. What's the catch?}
 {283}{}{We'll offer you ten golden gecko skins. No more.}
 {284}{}{Let me think it over for a moment.}
-{285}{}{No deal.}
+{285}{}{Nenhum acordo.}
 {290}{}{[Roy's face lights up.] Excellent choice! It's a deal then. [The items are quickly exchanged, then Roy hastens
  off to his next stop.]}
 {300}{}{[Roy chuckles and glances at his bodyguards before returning his eye to you.] Look, a single stimpak is worth much
@@ -92,7 +92,7 @@
 {340}{}{Alright, but don't take too long. We've got another stop to make before nightfall.}
 {350}{}{Alright, if you're done messing around, let's get this show on the road. I'm a busy man.}
 {351}{}{Alright. We'll accept the deal.}
-{352}{}{No deal.}
+{352}{}{Nenhum acordo.}
 {353}{}{I need to think about this a little more.}
 {354}{}{I've got a new deal for you: give us the stimpaks, and you get to keep your life.}
 {360}{}{You're a busy guy, huh? You're also a liar and a cheat.}

@@ -92,69 +92,70 @@
 {412}{}{Ug.}
 {420}{}{Do que você está falando? Não devo nada a ninguém. Que diabos você está falando?}
 {421}{}{Sim, você disse na última vez. Eu não sei do que você está falando? Quem é essa pessoa imaginária novamente?}
-{422}{}{Becky says you owe her $500}
-{423}{}{Becky sent me.}
-{424}{}{Rebecca says she lent you $200.}
-{430}{}{Oh yeah, right. Rebecca lent me $200… Oh, wait. Maybe- ummm…}
-{431}{}{She's told me to break your neck if you don't pay.}
-{432}{}{Hand it over.}
-{440}{}{Yeah, right. I've never seen that much money before in my life.}
+{422}{}{Becky diz que você deve $500}
+{423}{}{Becky me enviou.}
+{424}{}{Rebecca diz que ela emprestou US $ 200.}
+{430}{}{Ah sim, certo. Rebecca me emprestou $ 200 ... Oh, espere. Talvez ... ummm …}
+{431}{}{Ela me disse para quebrar o seu pescoço, se você não pagar.}
+{432}{}{Entregue-o.}
+{440}{}{Sim, certo. Eu nunca vi tanto dinheiro na minha vida.}
 {441}{}{Hmmm.}
 {442}{}{Oh.}
-{450}{}{Right! That'll be the day. Becky wouldn't hurt a fly. She sure is pretty though.}
-{451}{}{Well, you're wrong, asshole.}
-{452}{}{Maybe it was someone else.}
-{460}{}{Damn. I think your right, but - I'm almost broke. I can't afford that kind of money! I've got to eat you know.}
-{461}{}{Sorry.}
-{462}{}{Tough luck.}
-{470}{}{Oh, damn it. I can barely afford $100. Could you spot me half? I promise I'll pay you back!}
-{471}{}{No sorry.}
-{472}{}{Come on. Pay up the full amount!}
-{473}{}{Okay, fine.}
-{480}{}{Damn it. You're going to ruin me! Well, okay, here. Now I'm completely broke.}
-{481}{}{Oh, fine. I'll cover you.}
-{482}{}{Thanks. Manage your money better next time.}
-{483}{}{Thank you for your business.}
-{490}{}{I told you! I can't! I'll starve if I do. Oh, come on, can't you help me out?}
-{491}{}{All right. I'll cover half of it.}
-{492}{}{No sorry. I don't have the cash either.}
-{493}{}{I'll be back.}
-{500}{}{What? Really? Wow! Thanks a lot, man! Here's a $100. I'll get the other $100 to you as soon as possible!}
-{501}{}{What? Really? Wow! Thanks a lot, lady! Here's a $100. I'll get the other $100 to you as soon as possible!}
-{502}{}{No problem.}
-{503}{}{You better pay me back.}
-{510}{}{Oh, don't worry. I will! You have my word and I won't forget about it this time!}
+{450}{}{Certo! Esse será o dia. Becky não feriria uma mosca. Ela certamente é bonita.}
+{451}{}{Bem, você está errado, idiota.}
+{452}{}{Talvez fosse outra pessoa.}
+{460}{}{Droga. Eu acho seu direito, mas - estou quase quebrado. Eu não posso pagar esse tanto de dinheiro! Eu tenho que comer você sabe.}
+{461}{}{Sinto.}
+{462}{}{Que azar.}
+{470}{}{Oh droga. Eu quase não posso pagar US $ 100. Você poderia me ver metade? Eu prometo que vou te pagar de volta!}
+{471}{}{Não desculpe.}
+{472}{}{Venha. Pagar o valor integral!}
+{473}{}{Ok, tudo bem.}
+{480}{}{Porra. Você vai arruinar-me! Bem, ok, aqui. Agora eu estou completamente falido.}
+{481}{}{Oh, tudo bem. Eu vou cobrir você.}
+{482}{}{Obrigado. Gerir o seu dinheiro melhor da próxima vez.}
+{483}{}{Agradeço pelos seus serviços.
+}
+{490}{}{Eu disse a você! Eu não posso! Eu vou morrer de fome se eu fazer. Oh, venha, você não pode me ajudar?}
+{491}{}{Tudo bem. Eu vou cobrir a metade.}
+{492}{}{Não desculpe. Eu também não tenho dinheiro.}
+{493}{}{Eu vou estar de volta.}
+{500}{}{O que? Mesmo? Uau! Valeu mesmo, cara! Aqui estão $ 100. Recebo os outros $ 100 para você o mais rápido possível!}
+{501}{}{O que? Mesmo? Uau! Muito obrigado, senhora! Aqui estão $ 100. Recebo os outros $ 100 para você o mais rápido possível!}
+{502}{}{Não há problema.}
+{503}{}{É melhor você me paga de volta.}
+{510}{}{Ah, não se preocupe. Eu vou! Você tem a minha palavra e eu não vou esquecer este momento!}
 {511}{}{Tudo bem.}
-{520}{}{Say, you know what? That hundred's really going to uh… delay things. Do you think I could borrow a little bit back?}
-{521}{}{How much?}
+{520}{}{Diga, você sabe o que? Que cem realmente vão ... atrasar as coisas. Você acha que eu poderia emprestar um pouco de volta?}
+{521}{}{Quanto?}
 {522}{}{De maneira nenhuma.}
-{530}{}{Wait! I know. Tell you what, I'll give you $100 and you spot me for the other $100 I owe Becky. I'll pay you back real soon.}
-{531}{}{Okay fine.}
-{532}{}{No deal.}
-{540}{}{Just $50. Please! It's all part of the master plan!}
+{530}{}{Esperar! Eu sei. Diga-lhe o que, vou dar-lhe US $ 100 e você me observa pelos outros US $ 100 que devo à Becky. Eu vou pagar de volta em breve.}
+{531}{}{Tudo bem, feito.}
+{532}{}{Nenhum acordo.}
+{540}{}{Apenas us $50. Por favor! É tudo parte do plano!}
 {541}{}{Tudo certo.}
-{542}{}{But that'll only leave me with $50 to pay your $200 loan.}
+{542}{}{Mas isso só vai me deixar com $50 para pagar $200 de empréstimo.}
 {543}{}{Não.}
-{550}{}{Wha- uh… Damn! You won't regret this! I'm good for it!}
-{551}{}{No problem.}
-{560}{}{Uh, yeah. I see your math skills- I mean, please! It's not much to you I'm sure, but it's a hell of a lot for me.}
+{550}{}{Wha-uh ... Droga! Você não vai se arrepender disso! Eu sou bom para isso!}
+{551}{}{Não há problema.}
+{560}{}{Uh, sim. Vejo suas habilidades de matemática, quero dizer, por favor! Não tenho muita coisa para você, tenho certeza, mas é muito para mim.}
 {561}{}{Tudo bem.}
 {562}{}{Não.}
-{570}{}{Yeah, sure she did. Everyone knows she hates that name. You're not fooling me!}
-{571}{}{I don't owe her anything.}
-{572}{}{She said you were forgetful.}
-{573}{}{Look, I don't have time for this. Pay up damn it!}
-{574}{}{Rebecca said she lent it to you a while ago.}
-{580}{}{I am not! I… wait. There was that one time. Didn't I pay her back? I thought I did…}
-{581}{}{No, you didn't. That's why she sent me.}
-{582}{}{Just pay up so I can get out of here.}
-{590}{}{I don't remember… but Becky sure has helped me and my friends out in the past.}
-{591}{}{Hand over the $200.}
-{592}{}{Just give me the money.}
+{570}{}{Sim, com certeza ela fez. Todo mundo sabe que ela odeia esse nome. Você não está enganando a mim!}
+{571}{}{Não devo nada a ela.}
+{572}{}{Ela disse que foram esquecidos.}
+{573}{}{Olha, não tenho tempo para isso. Pague maldição!}
+{574}{}{Rebecca disse que ela deu a você um tempo atrás.}
+{580}{}{Eu não sou! Eu... espere. Não era que uma vez. Que eu não pagar a sua volta? Eu pensei que eu fiz…}
+{581}{}{Não, você não. É por isso que ela me enviou.}
+{582}{}{Basta pagar para que eu possa sair daqui.}
+{590}{}{Eu não me lembro... mas Becky com certeza tem ajudado a mim e meus amigos de fora no passado.}
+{591}{}{Entregue os $ 200.}
+{592}{}{Apenas me dê o dinheiro.}
 {600}{}{Deixe-me sozinho.}
-{601}{}{Whatever.}
+{601}{}{Seja o que for.}
 {602}{}{Tudo bem.}
-{610}{}{Uh. Hi again. So, uh, I suppose you want the money. Do you think you could cover me for half?}
-{611}{}{No, sorry.}
-{612}{}{If she lent you $200, you'll pay it.}
-{613}{}{Okay fine.}
+{610}{}{Uh. Oi novamente. Então, uh, eu suponho que você quer o dinheiro. Você acha que você poderia me dar cobertura para metade?}
+{611}{}{Não, desculpe.}
+{612}{}{Se ela emprestou us $200, você vai pagar.}
+{613}{}{Tudo bem, feito.}

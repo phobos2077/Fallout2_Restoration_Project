@@ -57,7 +57,7 @@
 {150}{}{Fine. Be that way. Here's your ore. Now get out of my refinery.}
 {151}{}{Adeus.}
 {152}{}{Thanks! Here's your money back. Broken Hills won't forget this.}
-{153}{}{No problem.}
+{153}{}{Não há problema.}
 {154}{}{I told you to get out of here!}
 {155}{}{..little bastard comes in here and <grumble> <rant>...}
 {156}{}{An extra $500? Sure, I'll take it.}

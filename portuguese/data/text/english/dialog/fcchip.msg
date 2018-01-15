@@ -26,7 +26,7 @@
 {125}{}{Hey, you lost it. It's your problem. You deal with it.}
 {126}{}{Well, hell, I'll take a look for it.}
 {127}{}{I really appreciate this. Go talk to Lao Chou, the merchant, and tell him I need my spleen back.}
-{128}{}{I'll be back.}
+{128}{}{Eu vou estar de volta.}
 {129}{}{I'm Chip. And I'm in a lot of pain.}
 {130}{}{What's the matter with you?}
 {131}{}{You're in pain? Ha ha ha.}

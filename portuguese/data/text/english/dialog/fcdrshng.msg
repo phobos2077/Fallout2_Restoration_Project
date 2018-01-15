@@ -36,7 +36,7 @@
 {294}{}{I don't have them on me, and even if I did I wouldn't hand them over to you. I want nothing to do with you or your veggie-zombies.}
 {300}{}{The facility is known as the EPA. I've marked it on your mapping device. Please, go there and try to find some seeds. And not just any plain old seeds — they must be unique.}
 {301}{}{Ah, it seems you already know the location of the EPA. Please, go there and try to find some seeds. And not just any plain old seeds — they must be unique.}
-{302}{}{I'll be back.}
+{302}{}{Eu vou estar de volta.}
 {303}{}{Eh, on second thought, I'm not interested in working for you anymore. We're done here.}
 {310}{}{[His eyes flare with rage] Kill him, my children! His body shall make a fine host for your newest sibling!}
 {311}{}{[His eyes flare with rage] Kill her, my children! Her body shall make a fine host for your newest sibling!}
@@ -45,7 +45,7 @@
 {321}{}{[CONTINUAR]}
 {322}{}{Keep your reward. I don't have time to wait around.}
 {330}{}{Yes, bring the seeds to me and you may claim your reward.}
-{331}{}{I'll be back.}
+{331}{}{Eu vou estar de volta.}
 {340}{}{Simply giving you the location of the facility is a reward in itself, as it is bound to be full of useful supplies. You may of course keep anything else you find. I am only interested in unique seed samples. Once you have brought them to me, I will give you a gift to present to the Shi.}
 {341}{}{Alright, I'll do it. I'll be back.}
 {342}{}{You call that a reward? I can explore ruins on my own time. I'm not interested.}

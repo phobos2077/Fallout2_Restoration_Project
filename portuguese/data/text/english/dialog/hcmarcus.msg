@@ -105,7 +105,7 @@
 {203}{mcs27}{What is it people got against mutants? We'll be on the lookout. Thanks. The town owes you. And I never forget things like this.}
 {204}{}{My pleasure. Bye.}
 {205}{mcs28}{Keep your eye on him, will you? I want to catch him red-handed.}
-{206}{}{No problem.}
+{206}{}{Não há problema.}
 {207}{mcs29}{Well, in that case, we'd better be sure to stop him. Want to come along?}
 {208}{}{Com certeza.}
 {209}{}{Não, obrigado.}

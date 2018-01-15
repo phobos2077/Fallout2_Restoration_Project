@@ -404,7 +404,7 @@ and fifty years.}
 {1403}{}{Sure. If you think you need to keep an eye on me, I'm fine with that.}
 {1404}{}{Sure. I understand it's hard to concentrate when I'm too close. [Dex grins.]}
 {1405}{}{[Dex cocks his eyebrow at you and winks.]}
-{1406}{}{No problem.}
+{1406}{}{Não há problema.}
 {1500}{}{Why? You don't trust me with weapons? [He laughs.] Sure thing, if it'll put your mind at ease.}
 {1600}{}{Uh, sure. But just so we're on the same page here, you know I'm into chicks... right?}
 {1601}{}{All-right. [Dex strips off his armor and begins stripping off his clothes. He stops when he sees you glaring
@@ -429,7 +429,7 @@ and fifty years.}
  when I find you.}
 {1903}{}{Alright, as long as you aren't just ditching me to make room for some other jerk. Because I promise you I'm
  better than them in every conceivable way.}
-{1904}{}{No problem.}
+{1904}{}{Não há problema.}
 {1905}{}{No problem, babe.}
 {1906}{}{Alright, as long as you aren't just ditching me to make room for some other jerk. Because I promise you I'm
  better than them in every conceivable way.}

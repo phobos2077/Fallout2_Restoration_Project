@@ -120,7 +120,7 @@
 {501}{}{Yes, if you have anything}
 {502}{}{Not just yet thanks. Bye.}
 {510}{}{Well, although the warehouse is where I do almost all of my work, I still need to enter the main complex from time to time. However, the lights have been permanently fixed on low setting. Sort this out for me so I can enter the EPA building itself.}
-{511}{}{No problem.}
+{511}{}{Não há problema.}
 {512}{}{I'll get back to you when I have time to do it.}
 {513}{}{I've already done this! There were some loose wires on the main circuit board and I mana-}
 {520}{}{Now that you've killed all of my warriors, you have more than proven yourself worthy. Would you consider working for me?}
@@ -142,7 +142,7 @@
 {581}{}{I will. Goodbye.}
 {590}{}{Have you decided to help me yet?}
 {591}{}{Yes, I will help you. I'll return when the power is restored.}
-{592}{}{No, sorry.}
+{592}{}{Não, desculpe.}
 {600}{}{I'm sorry, but there's nothing more I can do for you now. I have no more jobs left to be done. Thanks for your help.}
 {601}{}{Bye then.}
 {602}{}{Yes, there were some loose wires and I had to find some junk to-}

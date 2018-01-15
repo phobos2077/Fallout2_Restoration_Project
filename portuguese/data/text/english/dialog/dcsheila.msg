@@ -2,8 +2,8 @@
 {150}{}{This is your usual, run of the mill, prostitute.}
 {152}{}{[FALAR]}
 {153}{}{Hey, I don’t do chicks!}
-{154}{}{Whatever.}
-{155}{}{Sorry.}
+{154}{}{Seja o que for.}
+{155}{}{Sinto.}
 {156}{}{Mãe?}
 {157}{}{Hey, it’ll cost more if you've got an audience with ya.}
 {158}{}{Hey, they go where I go.}
@@ -35,7 +35,7 @@
 {185}{}{Wah!}
 {186}{}{You were incredible!}
 {187}{}{Always, baby.}
-{188}{}{Whatever.}
+{188}{}{Seja o que for.}
 {189}{}{You were, too.}
 {190}{}{Me edible!}
 {191}{}{You were great!}

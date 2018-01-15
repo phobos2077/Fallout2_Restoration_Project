@@ -62,4 +62,4 @@
 {152}{}{Thanks for your help, friend. Let's go talk to Jacob and Aileen.}
 {153}{}{You have successfully performed the jailbreak.}
 {154}{}{Thanks for your help in the slammer, stranger.}
-{155}{}{No problem.}
+{155}{}{Não há problema.}
