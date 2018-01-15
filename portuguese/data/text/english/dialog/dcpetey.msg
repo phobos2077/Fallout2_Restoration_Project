@@ -1,29 +1,30 @@
-{100}{}{You see a drug addict.}
-{101}{}{You see Petey.}
-{150}{}{This here is a poor drug addict.}
-{151}{}{Petey here looks like he could use some help.}
-{152}{}{[talk]}
-{155}{}{[cough, cough] Any spare change for Petey?}
-{156}{}{Sure, here ya go.}
-{157}{}{No, get away from me.}
+{100}{}{Você vê um viciado em drogas.}
+{101}{}{Você vê Petey.}
+{150}{}{Este aqui é um pobre viciado em drogas.}
+{151}{}{Petey aqui parece que ele poderia usar alguma ajuda.}
+{152}{}{[falar]}
+{155}{}{[tosse, tosse] Qualquer mudança de reposição para Petey?}
+{156}{}{Certo, aqui vamos nós.}
+{157}{}{Não, fique longe de mim.}
 {158}{}{Peewee?}
-{159}{}{You're worse off than me. [cough] Thanks anyway.}
-{160}{}{Sorry; bye.}
-{161}{}{Duh, you are welcome, uh-huh, yeah.}
-{162}{}{Maybe next time. Thank you anyway. [cough]}
+{159}{}{Você está pior do que eu. [tosse] Obrigado de qualquer forma.}
+{160}{}{Desculpe, tchau.}
+{161}{}{Duh, você é bem-vindo, uh-huh, sim.}
+{162}{}{Talvez da próxima vez. Obrigado de qualquer forma. [tosse]}
 {163}{}{[feito]}
-{164}{}{Thank you so much. [cough] So, so, so very much.}
+{164}{}{Muito obrigado. [tosse] tão, tão, Tão muito.}
 {165}{}{Você é bem-vindo.}
-{166}{}{Yeah, yeah.}
-{167}{}{Sir, [cough] can you help a poor man down on his luck?}
-{168}{}{Here's $5.}
-{169}{}{Not today.}
-{170}{}{Get a job.}
-{171}{}{Kind lady, please help [cough] a poor, starving man who is [cough] too sick to work.}
-{172}{}{You poor thing, here's $5.}
-{173}{}{I make a point of not giving money to panhandlers.}
+{166}{}{Sim, sim.}
+{167}{}{Senhor, [tosse] você pode ajudar um pobre homem baixo em sua sorte?}
+{168}{}{Aqui está $5.}
+{169}{}{Hoje não.}
+{170}{}{Arrume um emprego.
+}
+{171}{}{Gentil senhora, por favor, ajude [tosse], pobre, faminto que é [tosse] demasiado doentes para trabalhar.}
+{172}{}{Coitadinho de você, aqui tem $5.}
+{173}{}{Eu faço questão de não dar dinheiro para mendigos.}
 {174}{}{Não.}
-{175}{}{Sorry, I don't have any money on me.}
+{175}{}{Desculpe, eu não tenho nenhum dinheiro comigo.}
 {200}{}{Hey, man; give me some money?}
 {201}{}{Spare some change, kind sir?}
 {202}{}{Hey, can you help me with a few bucks?}

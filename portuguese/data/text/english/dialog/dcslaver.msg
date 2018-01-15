@@ -1,4 +1,4 @@
-{100}{}{You see a slaver.}
+{100}{}{Você vê um escravista.}
 {150}{}{He seems to be one of Metzger's personal guards.}
 {200}{}{Aí está você.}
 {201}{}{Now you die.}

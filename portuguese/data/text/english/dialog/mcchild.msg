@@ -54,7 +54,7 @@
 {200}{}{Where ya going?}
 {201}{}{Can I come with you?}
 {202}{}{How old are you?}
-{203}{}{What's your name?}
+{203}{}{Qual é o seu nome?}
 {204}{}{Do you like kids?}
 {205}{}{What is that?}
 {206}{}{Do you wanna play a game?}

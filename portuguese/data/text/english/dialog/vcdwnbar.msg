@@ -127,7 +127,7 @@
 {226}{}{Why? You looking for something with some more kick than these synthetic drinks?}
 {227}{}{Perhaps. Drinking synthetic alcohol can't really compare to the real thing.}
 {228}{}{Not really. I was looking for some information instead...}
-{229}{}{Not today.}
+{229}{}{Hoje não.}
 {230}{}{That's for sure. I used to have a... well, I used to know this merchant who had a bottle of Maddog 30/30. Bitter stuff...couldn't feel my tongue afterwards, but it was refreshingly different.}
 {231}{}{What happened to this "merchant's" stash?}
 {232}{}{I was looking for some information.}

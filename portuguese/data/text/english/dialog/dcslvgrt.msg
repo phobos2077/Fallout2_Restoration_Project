@@ -1,4 +1,4 @@
-{100}{}{You see a slaver.}
+{100}{}{Você vê um escravista.}
 {150}{}{He looks like he could easily take care of himself in a fight.}
 {200}{}{Ah, fresh meat.... Welcome ta the slaver's guild. The name's Aidan. Ya here on
  business? Ya better be.}

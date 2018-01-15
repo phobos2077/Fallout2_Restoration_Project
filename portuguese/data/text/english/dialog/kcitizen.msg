@@ -31,7 +31,7 @@
 {186}{}{No rest for the poor.}
 {187}{}{My joints ache; weather must be changing.}
 {188}{}{Wind's picking up a bit.}
-{190}{}{Nice to see you.}
+{190}{}{Bom ver você.}
 {191}{}{Any more like you at home?}
 {192}{}{Hope you're enjoying Klamath.}
 {193}{}{We could use a few more people of your caliber here.}

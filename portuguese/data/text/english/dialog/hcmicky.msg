@@ -10,7 +10,7 @@
 {109}{}{Adeus.}
 {110}{}{No, not today. If I run across any, I'll let you know, though.}
 {111}{}{Well, yes, actually. I think you'd be the perfect partner for a, shall we say, "joint venture".}
-{112}{}{What's your name?}
+{112}{}{Qual é o seu nome?}
 {113}{}{Não importa.}
 {114}{}{Me? I'm Micky, suave and debonair Treasure Hunter of Broken Hills.}
 {115}{}{Hunnterr?}

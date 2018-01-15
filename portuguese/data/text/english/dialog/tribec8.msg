@@ -12,7 +12,7 @@
 {206}{}{The spirits accept you as one of us.}
 {207}{}{Thank you for helping us.}
 {208}{}{I thought all outworlders were evil. It is not so...}
-{209}{}{Don't do that.}
+{209}{}{Não faça isso.}
 {300}{}{Excuse me, but could you do me a small favor? I'm a little busy here and I don't know if I can leave this pot unattended.}
 {301}{}{Com certeza. O que você precisa?}
 {302}{}{I'm busy too. Perhaps a little later.}

@@ -24,7 +24,8 @@
 {142}{}{Hello there, friend.}
 {143}{}{You're not like other smoothskins.}
 {144}{}{See anything interesting out in the wastes?}
-{145}{}{Hi there.}
+{145}{}{Olá.
+}
 {146}{}{Howdy, friend.}
 {147}{}{Our atomic reactor makes me glow with pride.}
 {148}{}{We've harnessed the power of the atom here.}

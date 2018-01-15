@@ -1,11 +1,11 @@
-{100}{}{You see a resident of The Den.}
-{101}{}{You see a resident of The Den.}
-{200}{}{Hello and welcome to- Hey! You're the one who helped make this place possible. The people of the Den really appreciate
- what you have done.}
-{201}{}{It was my pleasure. How are the children?}
-{202}{}{They're doing fine. Thanks to you, they're off the streets and now have a place to live. The squatters you negotiated
- with are also a big help around here. Thanks again for everything!}
-{203}{}{They're doing fine. Thanks to you, they're off the streets and now have a place to live. Thanks again for everything!}
-{204}{}{Glad to hear it. Take care.}
-{205}{}{Hello again! Help you with something?}
-{206}{}{Nope, just looking around.}
+{100}{}{Você vê um residente do Den.}
+{101}{}{Você vê um residente do Den.}
+{200}{}{Olá e bem vindo a - Hey! Você é o único que ajudou a tornar este lugar possível. As pessoas do Den realmente apreciam
+  o que você fez.}
+{201}{}{Foi um prazer. Como estão as crianças?}
+{202}{}{Eles estão bem. Graças a você, eles estão fora das ruas e agora têm um lugar para viver. Os invasores que você negociou
+  também são uma grande ajuda por aqui. Obrigado novamente por tudo!}
+{203}{}{Eles estão bem. Graças a você, eles estão fora das ruas e agora têm um lugar para viver. Obrigado novamente por tudo!}
+{204}{}{Fico feliz em ouvir isso. Cuide-se.}
+{205}{}{Olá novamente! Ajudá-lo em alguma coisa?}
+{206}{}{Não, apenas olhando ao redor.}

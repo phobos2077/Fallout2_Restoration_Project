@@ -6,50 +6,51 @@
 }
 {210}{}{Este é o lugar de Tubby.}
 {211}{}{Tubby vende coisas ruins.}
-{212}{}{Tubby's not very nice.}
-{213}{}{Tubby smells funny.}
-{220}{}{This is Flick's shop.}
-{221}{}{Flick is nice.}
-{222}{}{Flick sells a lot of different stuff.}
-{223}{}{Don't forget to say hi to Flick.}
-{230}{}{This is Frankie's place.}
-{231}{}{You a friend of Frankie?}
-{232}{}{This place smells yucky.}
-{233}{}{Frankie's drinks are expensive… so I hear.}
-{240}{}{Becky's so nice.}
-{241}{}{This is Rebecca's place.}
-{242}{}{Becky has the best prices on drinks… so I've heard.}
-{243}{}{Rebecca won't let me play her games.}
-{244}{}{Becky's so pretty.}
-{245}{}{Have you met Rebecca? I wish she was my mom.}
-{250}{}{Hey, lady, got any spare change?}
-{251}{}{Hey, mister, got any spare change?}
-{270}{}{You just gonna stand there or go in?}
+{212}{}{Tubby não é muito agradável.}
+{213}{}{Tubby cheira engraçado.}
+{220}{}{Esta é a loja do Flick.}
+{221}{}{Flick é bom.}
+{222}{}{Flick vende muitas coisas diferentes.}
+{223}{}{Não esqueça de dizer oi para o Flick.}
+{230}{}{Este é o lugar de Frankie.}
+{231}{}{Um amigo de Frankie?}
+{232}{}{Este lugar cheira nojento.}
+{233}{}{As bebidas de Frankie são caras ... é o que eu ouço.}
+{240}{}{Becky é tão legal.}
+{241}{}{Este é o lugar da Rebecca.}
+{242}{}{Becky tem os melhores preços em bebidas... assim que eu ouvi.}
+{243}{}{Rebecca não me deixa jogar seus jogos.}
+{244}{}{Becky é tão bonita.}
+{245}{}{Você conheceu Rebecca? Eu queria que ela fosse minha mãe.}
+{250}{}{Ei, senhora, tem alguma mudança de reposição?}
+{251}{}{Hey, mister, tem alguma mudança de reposição?}
+{270}{}{Você vai ficar ai ou entrar?}
 {271}{}{Olá.}
-{272}{}{I'm hungry.}
-{273}{}{Hey, you! Tubby's is always open. Come on over.}
-{280}{}{You goin' in or what??}
-{281}{}{Come check Flicks' place out.}
+{272}{}{Eu estou com fome.}
+{273}{}{Ei você! Tubby's está sempre aberto. Venha conferir.}
+{280}{}{Você está entrando ou o que?}
+{281}{}{Venha conferir o lugar de Flick.}
 {282}{}{Olá.}
-{283}{}{Hey, you over there! Check out Flick's shop.}
-{290}{}{Well, you goin' in?}
+{283}{}{Ei, você aí! Confira a loja do Flick.}
+{290}{}{Bem, você entra?}
 {291}{}{Olá.}
-{292}{}{Don't do that.}
-{293}{}{Hey! Frankie's got great stuff.}
-{300}{}{You should go in, Beck's very nice.}
-{301}{}{I'm keepin' watch.}
-{302}{}{Wow, you're pretty.}
+{292}{}{Não faça isso.}
+{293}{}{Hey! Frankie tem grandes coisas.}
+{300}{}{Você deveria entrar, Beck é muito legal.}
+{301}{}{Estou observando.}
+{302}{}{Wow, você está bonita.}
 {303}{}{Olá.}
-{304}{}{What's your name?}
-{305}{}{Becky would like you.}
-{306}{}{Hey! Come check out Becky's.}
-{310}{}{Ahhhh! Leave me alone.}
-{311}{}{Help, I'm being repressed!}
-{312}{}{Now we see the violence inherent in the system.}
-{313}{}{I didn't do nuthin'}
+{304}{}{Qual é o seu nome?}
+{305}{}{Becky gostaria de você.}
+{306}{}{Ei! Venha ver a Becky's.}
+{310}{}{Ahhhh! Deixe-me sozinho.}
+{311}{}{Ajuda, estou sendo reprimido!}
+{312}{}{Agora vemos a violência inerente ao sistema.}
+{313}{}{Eu não fiz nada}
 {314}{}{Ahhhh!}
-{315}{}{Missed me.}
-{316}{}{You're it.}
-{317}{}{Don't!}
-{318}{}{Stop it.}
-{319}{}{I didn't do anythin' to you!}
+{315}{}{Sentiu minha falta.
+}
+{316}{}{Você é isso.}
+{317}{}{Não!}
+{318}{}{Pare com isso.}
+{319}{}{Eu não fiz nada para você!}

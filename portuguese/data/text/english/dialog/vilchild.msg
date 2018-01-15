@@ -1,5 +1,5 @@
 {100}{}{Você vê um menino pequeno.}
-{101}{}{You see a small girl.}
+{101}{}{Você vê uma menina pequena.}
 {102}{}{He smiles when he sees you.}
 {103}{}{She smiles when she sees you.}
 {104}{}{He looks at you with uncertainty.}

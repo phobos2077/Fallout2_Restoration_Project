@@ -1,4 +1,4 @@
-{100}{}{You see a slaver.}
+{100}{}{Você vê um escravista.}
 {101}{}{This slaver looks like one mean dude.}
 {200}{}{Aí está você.}
 {201}{}{Now you die.}

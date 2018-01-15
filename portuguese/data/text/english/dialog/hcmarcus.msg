@@ -271,7 +271,7 @@
 {502}{}{Deixa pra lá. Tchau.
 }
 {600}{}{I don't feel so good, boss.}
-{601}{}{Don't do that.}
+{601}{}{Não faça isso.}
 {602}{}{Don't you think this place is a little creepy?}
 {603}{}{Hope you got hip waders... we're about to walk into some heavy shit.}
 {604}{}{I don't much like the looks of this place.}

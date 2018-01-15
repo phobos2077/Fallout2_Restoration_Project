@@ -1,13 +1,14 @@
-{100}{}{You see a resident of The Den.}
-{101}{}{You see a resident of The Den.}
+{100}{}{Você vê um residente do Den.}
+{101}{}{Você vê um residente do Den.}
 {102}{}{Olá.}
-{103}{}{Nice to see you.}
-{104}{}{Not from around here, are you?}
-{105}{}{Mom is a great lady, isn't she?}
-{106}{}{I'm glad the orphans of The Den have a place to live now.}
-{200}{}{Hi mister!}
-{201}{}{I'm glad the other kids aren't stealing anymore.}
-{300}{}{Hi miss!}
-{301}{}{I'm glad the other kids aren't stealing anymore.}
+{103}{}{Bom ver você.}
+{104}{}{Não é daqui, é?}
+{105}{}{Mãe é uma grande dama, ela não é?}
+{106}{}{Fico feliz que os órfãos do Den tenham um lugar para viver agora.}
+{200}{}{Oi senhor!
+}
+{201}{}{Estou feliz que as outras crianças não estão roubando mais.}
+{300}{}{Oi moça!}
+{301}{}{Estou feliz que as outras crianças não estão roubando mais.}
 {400}{}{Você vê um menino pequeno.}
-{401}{}{You see a small girl.}
+{401}{}{Você vê uma menina pequena.}

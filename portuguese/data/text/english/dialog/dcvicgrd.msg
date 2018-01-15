@@ -1,7 +1,8 @@
-{100}{}{You see a slaver.}
+{100}{}{Você vê um escravista.}
 {150}{}{He seems to be paying close attention to the door next to him.}
 {200}{}{Hey! Hands off.}
-{201}{}{That's it!}
+{201}{}{É isso aí!
+}
 {210}{}{Problems?}
 {211}{}{Practicing?}
 {212}{}{Hmmm.}
