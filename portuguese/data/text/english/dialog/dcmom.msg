@@ -1,78 +1,78 @@
 {100}{}{Você vê uma mulher mais velha de aparência gentil.}
 {150}{}{Você vê Mãe, ocupada cozinhando e limpando.}
-{151}{}{You see a robust older woman, with a cheerful smile on her face.}
-{200}{}{Hello there, I'm Mom. I haven't seen you around here before.}
-{201}{}{Hello again. What can Mom do for you?}
+{151}{}{Você vê uma mulher mais velha e robusta, com um sorriso alegre no rosto.}
+{200}{}{Olá, eu sou a Mãe. Eu não tenho visto você por aqui antes.}
+{201}{}{Olá novamente. O que a Mãe pode fazer por você?}
 {202}{}{Eu}
-{203}{}{Mmmm. Ook? Bye bye Mommy.}
-{220}{}{You already half-ate me out of house and home. Why dontcha find someplace else to hang out for a while? You've eaten here enough today.}
-{221}{}{Well }
-{222}{}{ you sure do look as though you're a mite confused. I hate to see a critter suffer. Want something to eat?}
-{223}{}{Me full. Mom food good. Bye Mom.}
-{224}{}{Me pay?}
-{225}{}{Me go. Bye Mom.}
-{240}{}{Well, OK. Whatcha got? (Mom reaches for your purse)}
-{241}{}{Mom? (you hold out your purse)}
-{242}{}{No! Me go. Bye Mommy.}
-{250}{}{No, not really. I'm sorry. We just have rat-pie, rat-loaf, and spaghetti.}
-{251}{}{What'll it be this time around?}
-{252}{}{Uh, could I get something without so much rat in it?}
-{253}{}{I guess I'll have the rat-loaf.}
-{254}{}{I guess I'll have the rat-pie.}
-{270}{}{You could have the spaghetti. It doesn't have too much rat in it - just the sauce, that's all.}
-{271}{}{Well, OK, I guess I'll have the spaghetti with rat-sauce.}
-{280}{}{I'll get you a nice helping right away. That'll be $10.}
-{281}{}{I don't have enough money right now. Let me ask you a question instead.}
-{282}{}{$10 for rat? You've got to be crazy. Heck, around the village we charge much more for a nice juicy one. That's a deal.}
-{283}{}{Well, OK. Here's your money.}
-{284}{}{I think I've changed my mind. Let me ask you a question instead.}
-{285}{}{I think I'll come back later. Goodbye.}
-{300}{}{You have quite an appetite there. I love to see a healthy eater. Will that do it for you?}
-{301}{}{Not a chance, Mom. I want seconds.}
-{302}{}{Sure will. Let me ask you something, Mom.}
-{303}{}{That's it for now. Goodbye, Mom.}
-{320}{}{Well, I sure need someone to deliver a meal to Smitty. He's just west of here at the junkyard. Will you do it for me? I'll give you a free meal if you do.}
-{321}{}{Sure, I don't mind.}
-{322}{}{Let me think about it. In the meantime, let me ask you about something else.}
-{323}{}{Uh, sorry, Mom. I can't. Goodbye.}
-{340}{}{You're in luck. We're having radscorpion stew.}
-{341}{}{We're having braised pig-rat.}
-{342}{}{We're serving steamed radscorpion tails in drawn butter.}
-{343}{}{Cabbage soup is all I've got right now.}
-{344}{}{Fresh brahmin fries!}
-{345}{}{Pipin' hot gecko pie, comin' up.}
-{346}{}{Flank steak.}
-{347}{}{Well-marbled molerat.}
-{348}{}{Fricasseed floater.}
-{349}{}{Filet mignon.}
-{350}{}{Medallions of grilled gecko.}
-{351}{}{Mantis marsala.}
+{203}{}{Mmmm. Ook? Adeus Mamãe.}
+{220}{}{Você já comeu fora de casa e em casa. Por que não encontrar outro lugar para sair por um tempo? Você já comeu aqui o suficiente hoje.}
+{221}{}{Bem }
+{222}{}{ você com certeza parece como se estivesse um ácaro confuso. Odeio ver uma besta sofrer. Quer comer alguma coisa?}
+{223}{}{Estou cheio. Mamãe comida boa. Tchau mãe.}
+{224}{}{Me pagar?}
+{225}{}{- Me ir. Tchau Mãe.}
+{240}{}{Bem ok. O que você tem? (Mãe alcança sua bolsa)}
+{241}{}{Mamãe? (você segura sua bolsa)}
+{242}{}{Não! Eu vou. Tchau mamãe.}
+{250}{}{Não, na verdade não. Eu sinto Muito. Nós apenas temos torta de rato, pão de rato e espaguete.}
+{251}{}{O que vai ser dessa vez?}
+{252}{}{Uh, eu poderia conseguir algo sem tanto rato nisso?}
+{253}{}{Eu acho que vou ter o pão de rato.}
+{254}{}{Acho que vou ter a torta do rato.}
+{270}{}{Você poderia ter o espaguete. Não tem muito rato nele - apenas o molho, isso é tudo.}
+{271}{}{Bem, ok, acho que vou ter o espaguete com molho de rato.}
+{280}{}{Eu terei uma boa ajuda de imediato. Isso será $ 10.}
+{281}{}{Não tenho dinheiro suficiente agora. Deixe-me fazer uma pergunta em vez disso.}
+{282}{}{$ 10 por rato? Você deve estar louca. Puxa, ao redor da aldeia, cobramos muito mais por uma boa suculenta. Isso é um negócio.}
+{283}{}{Bem, OK. Aqui está o seu dinheiro.}
+{284}{}{Eu acho que eu mudei de ideia. Deixe-me fazer uma pergunta em vez disso.}
+{285}{}{Eu acho que eu vou voltar mais tarde. Adeus.}
+{300}{}{Você tem bastante apetite lá. Adoro ver um comedor saudável. Isso o fará por você?}
+{301}{}{Não é uma chance, Mamãe. Eu quero segundos.}
+{302}{}{Com certeza será. Deixe-me perguntar uma coisa, Mãe.}
+{303}{}{É isso por agora. Adeus, Mãe.}
+{320}{}{Bem, eu preciso de alguém para entregar uma refeição a Smitty. Ele está a oeste daqui no ferro-velho. Você fará isso por mim? Eu vou lhe dar uma refeição grátis se você fizer.}
+{321}{}{Com certeza, eu não me importo.}
+{322}{}{Deixe-me pensar sobre isso. Entretanto, deixe-me perguntar-lhe sobre outra coisa.}
+{323}{}{Ah, desculpe, Mãe. Eu não posso. Adeus.}
+{340}{}{Você está com sorte. Nós estamos tendo ensopado de radscorpion.}
+{341}{}{Estamos tendo porco-rato assado.}
+{342}{}{Estamos servindo caudas de radscorpion ao vapor na manteiga deretida.}
+{343}{}{Sopa de repolho é tudo o que tenho agora.}
+{344}{}{Fritadas de brahmin frescas!}
+{345}{}{Torta de gecko quente de Pipin, chegando.}
+{346}{}{Bife de flanco.}
+{347}{}{Molerat bem marmoreado.}
+{348}{}{Flutuador Fricasseed.}
+{349}{}{Filé mignon.}
+{350}{}{Medalhões de grelhados gecko.}
+{351}{}{Louva-a-deus marsala.}
 {352}{}{Molerat manicotti.}
 {353}{}{Brahmin en brochette.}
 {354}{}{Radscorpion en croute.}
-{355}{}{It's Smeat!}
-{356}{}{Uh, I'm not sure, but it tastes like chicken.}
-{357}{}{Centaur chops, my specialty.}
-{358}{}{It's a surprise.}
-{359}{}{I can't give away my secret recipes!}
+{355}{}{É Smeat!}
+{356}{}{Uh, eu não tenho certeza, mas tem gosto de frango.}
+{357}{}{Costeletas de centauro, minha especialidade.}
+{358}{}{É uma surpresa.}
+{359}{}{Não posso dar minhas receitas secretas!}
 {360}{}{Realmente?}
-{375}{}{Here you go. You look half-starved. (Mom hands you a big steaming plate of delicious smelling food.)}
-{376}{}{Tank-u, Mom.}
-{385}{}{There you go. I knew you'd enjoy that.}
-{386}{}{Mmm, yum yum. Bye, Mom.}
-{395}{}{Thanks so much. I'd do it myself but there's nobody to watch the place while I'm gone. Here's Smitty's meal. If I didn't have it brought to him I'm sure he'd forget to eat.}
-{396}{}{I'll bring it right over to him.}
-{405}{}{I'm so disappointed in you. Poor Smitty had to come get his own meal. Now what do you want?}
-{406}{}{Hello there, my name's Mom and I run this place. Got the best food north of New Reno, too.}
-{407}{}{What did you want to talk to Mom about?}
-{408}{}{You're not my mom.}
-{409}{}{Have you heard of a Vault or anyone named Vic?}
-{410}{}{What's there to do here in town?}
-{411}{}{What do you have to eat here?}
-{417}{}{Well if it isn't my hero. What can Mom do you for today?}
-{425}{}{I know that. But everyone calls me that. Heck, I even treat people like they're my kin - long as you obey my rules that is.}
-{426}{}{Rules?}
-{435}{}{That's right. No stealing, no cursing, and no fighting - not in my shop you don't. 'Cause if'n you do, out you'll go. I like things peaceful here.}
+{375}{}{Aqui está. Você está meio morto de fome. (Mãe lhe dá um grande prato fumegante de deliciosos alimentos cheirosos).}
+{376}{}{Brigad-u, Mãe.}
+{385}{}{Ai está. Eu sabia que você iria gostar disso.}
+{386}{}{Mmm, o yum yum. Tchau, Mãe.}
+{395}{}{Muito obrigado. Eu faria isso sozinho, mas não há ninguém para assistir o lugar enquanto eu vou embora. Aqui está a refeição de Smitty. Se eu não tivesse trazido para ele, tenho certeza que ele esqueceria de comer.}
+{396}{}{Vou trazê-lo diretamente para ele.}
+{405}{}{Estou tão decepcionado com você. Pobre Smitty teve que vir buscar sua própria refeição. Agora, o que você quer?}
+{406}{}{Olá, meu nome é Mãe e eu dirijo esse lugar. Tem a melhor comida ao norte de New Reno, também.}
+{407}{}{Sobre o que você queria falar com a mamãe?}
+{408}{}{Você não é minha mãe.}
+{409}{}{Você já ouviu falar de um Vault ou de alguém chamado Vic?}
+{410}{}{O que há para fazer aqui na cidade?}
+{411}{}{O que você tem para comer aqui?}
+{417}{}{Bem, se não é o meu herói. O que a mãe pode fazer por você hoje?}
+{425}{}{Eu sei disso. Mas todos me chamam disso. Heck, eu até trato as pessoas como se fossem meus parentes - enquanto você obedecer minhas regras.}
+{426}{}{Regras?}
+{435}{}{Está certo. Sem roubar, sem xingamento e sem luta - não na minha loja, você não. Porque se você fizer isso, você vai embora. Eu gosto de coisas pacíficas aqui.}
 {436}{}{I see. Let me ask you something else.}
 {437}{}{That makes sense. See you later, Mom.}
 {445}{}{Well now, there's a Vault City a ways east of here and a little north. And Vic, hmm, lemme think.}
