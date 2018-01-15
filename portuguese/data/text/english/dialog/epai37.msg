@@ -24,19 +24,19 @@
 {416}{}{Alter Hairstyle (Blond Hair).}
 {417}{}{On second thought, I don't really have time for this right now. Bye.}
 {500}{}{This procedure will take four weeks for you to recover and has a 50% chance of death. Do you wish to begin now?}
-{501}{}{Let's do it.}
+{501}{}{Vamos fazer isso.}
 {502}{}{Yes. Finally, I can be the person I've always been on the inside.}
 {503}{}{Eh, maybe later. Bye.}
 {504}{}{Let me choose another procedure.}
 {505}{}{Hell no! I'm outta here!}
 {510}{}{Excellent choice. This procedure will take two weeks for you to recover and has a 25% chance of death. Do you wish to begin now?}
-{511}{}{Let's do it.}
+{511}{}{Vamos fazer isso.}
 {512}{}{Yes. Finally, I can be the person I've always been on the inside.}
 {513}{}{Eh, maybe later. Bye.}
 {514}{}{Let me choose another procedure.}
 {515}{}{Hell no! I'm outta here!}
 {520}{}{Excellent choice. This procedure will take one day for you to recover and has a 1% chance of death. Do you wish to begin now?}
-{521}{}{Let's do it.}
+{521}{}{Vamos fazer isso.}
 {522}{}{Yes. Finally, I can be the person I've always been on the inside.}
 {523}{}{Eh, maybe later. Bye.}
 {524}{}{Let me choose another procedure.}

@@ -35,7 +35,7 @@
 {140}{}{How interesting. That reminds me of a story I heard a long time ago. Something about a master.}
 {141}{}{Really? What was it?}
 {142}{}{Tell me.}
-{143}{}{Oh, okay. Bye.}
+{143}{}{Ah, tudo bem. Tchau.}
 {144}{}{Well this might take a bit. Be a gentleman and buy me a drink, wouldn't you please? Not whiskey though, Nuka-Cola please.}
 {145}{}{Well this might take a bit. Be a doll and buy me a drink, wouldn't you please? Not whiskey though, Nuka-Cola please.}
 {146}{}{Shall we get started? I remember it quite well now.}

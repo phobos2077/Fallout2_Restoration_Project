@@ -30,7 +30,7 @@
 {128}{}{It's a boring little mining town filled with all sorts of undesirables. You want a guided tour,
  talk to Steve or someone.}
 {129}{}{Wow, a crabby one. I have more questions.}
-{130}{}{Okay. Bye.}
+{130}{}{Tudo bem. Tchau.}
 {131}{}{What'd you have in mind for killing?}
 {132}{}{Radscorpions, rats, that sort of thing.}
 {133}{}{Oh, the occasional humanoid.}

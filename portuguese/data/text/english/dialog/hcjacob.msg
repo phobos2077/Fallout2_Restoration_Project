@@ -131,7 +131,7 @@
 {283}{}{Obrigado!}
 {284}{}{I'm not done with the ore yet. Give me some time.}
 {285}{}{I had other questions.}
-{286}{}{Okay. Bye.}
+{286}{}{Tudo bem. Tchau.}
 {287}{}{Ready for the distraction?}
 {288}{}{Ready to try that distraction again?}
 {289}{}{You got it. Want to help me make a distraction?}

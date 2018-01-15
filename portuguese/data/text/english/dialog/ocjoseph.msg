@@ -23,7 +23,7 @@
 {119}{}{Thanks. That did the trick.}
 {120}{}{I'm sorry, but I'm not a medical doctor and I can't perform surgery. I would suggest that you
  go to one of the bigger cities and see a surgeon. Try the New California Republic. It's east of here.}
-{121}{}{Okay. Bye.}
+{121}{}{Tudo bem. Tchau.}
 {122}{}{Tudo bem. Obrigado de qualquer forma.}
 {123}{}{O que você gostaria de saber?}
 {124}{}{You prisoner?}

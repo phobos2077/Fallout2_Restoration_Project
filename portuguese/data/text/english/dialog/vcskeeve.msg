@@ -54,7 +54,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {151}{}{Any other options?}
 {152}{}{All right, then. Thanks.}
 {153}{}{Well, you CAN become a Citizen... unofficially.}
-{154}{}{What are you talking about?}
+{154}{}{Do que você está falando?}
 {155}{}{Never mind. Maybe we'll talk some other time.}
 {156}{}{If you got the cash, then I'll go into detail. Otherwise...}
 {157}{}{I've got the money. What are you selling?}

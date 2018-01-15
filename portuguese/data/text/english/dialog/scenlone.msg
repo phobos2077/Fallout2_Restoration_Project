@@ -21,7 +21,7 @@
 {120}{}{It's simple. I am the Chosen One because that is what must be.}
 {121}{}{AHS one?}
 {122}{}{That's what my Elder says I am.}
-{123}{}{What are you talking about?}
+{123}{}{Do que você está falando?}
 {124}{}{Can we just get to the part where you sprinkle holy water on me or something?}
 {125}{}{Oh. Well, are you seeking true understanding and spiritual peace? We can help.}
 {126}{}{No, I'm looking for a GECK.}
@@ -88,7 +88,7 @@
 {186}{}{How?}
 {187}{}{Oh, get out of my face.}
 {188}{}{Vault 13? Our scientists have been searching for it somewhere to the west. That is all I know. Are you sure you don't want an alignment?}
-{189}{}{Sure, why not.}
+{189}{}{Claro, porque não.}
 {190}{}{No thanks. I'm fine.}
 {191}{}{I tell you, spreading the word of Hubology out here is harder than you can imagine! AHS-9 just doesn't understand the difficulty. In fact, I've written it all down. Say, would you be willing to deliver it to AHS-9 in San Francisco? I can't promise any reward, but I know AHS-9 will appreciate it.}
 {192}{}{Sure, why not?}

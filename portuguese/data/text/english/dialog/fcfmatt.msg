@@ -45,12 +45,12 @@
 {143}{}{No way. Find yourself a new chump.}
 {144}{}{What the hell. I must be crazy, but I'll do it.}
 {145}{}{Fair enough. Come back to me when you reach a decision.}
-{146}{}{Okay. Bye.}
+{146}{}{Tudo bem. Tchau.}
 {147}{}{Okay, but me ask more.}
 {148}{}{All right. I'll see ya.}
 {149}{}{All right, but I'd like to ask you a few more things.}
 {150}{}{I understand your hesitation in accepting such a mission. If you change your mind please let me know.}
-{151}{}{Okay. Bye.}
+{151}{}{Tudo bem. Tchau.}
 {152}{}{Okay, but me ask more.}
 {153}{}{All right. I'll see ya.}
 {154}{}{All right, but I'd like to ask you a few more things.}
@@ -61,7 +61,7 @@
 {159}{}{Fine. I'll get on it.}
 {160}{}{Upon successful completion of your mission I will grant you access to our facility here. In the meantime it would be best if you got started immediately. Thank you,}
 {161}{}{.}
-{162}{}{Okay. Bye.}
+{162}{}{Tudo bem. Tchau.}
 {163}{}{Sure, but me ask more.}
 {164}{}{Yeah, I'll see ya.}
 {165}{}{Sure thing, but I'd like to ask you a few more things.}

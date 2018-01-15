@@ -24,7 +24,7 @@
 {254}{}{Sim?}
 {255}{}{Why are you guarding him?}
 {256}{}{Who's your boss?}
-{257}{}{Can I see him?}
+{257}{}{Posso vê-lo?}
 {258}{}{Well, I'm fairly skilled in repairing things. Maybe I could help?}
 {259}{}{Well, I'm fairly skilled in the sciences, maybe I could help?}
 {260}{}{The door's locked. Could you open it?}
@@ -35,8 +35,8 @@
 {285}{}{To be sure no one bugs him while he works on something for the boss, but mainly to be sure he doesn't run off.}
 {286}{}{Just to be sure he doesn't run off, I guess. He fixed that radio somehow.}
 {287}{}{Who's your boss?}
-{288}{}{Can I see him?}
-{289}{}{Can I see him?}
+{288}{}{Posso vê-lo?}
+{289}{}{Posso vê-lo?}
 {290}{}{Okay thanks.}
 {295}{}{Oh, sure. I didn't mean you could see him, now that you're a slaver and all.}
 {296}{}{Oh, sure. I guess so. He's not busy and he's not going anywhere, so no harm I guess.}

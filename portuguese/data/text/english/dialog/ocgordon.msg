@@ -12,7 +12,7 @@
 {110}{}{Yes. A shrine is a place of worship that is usually dedicated to a god, a saint, or other being
  of power.}
 {111}{}{Ah. Ok. Me ask questions?}
-{112}{}{Okay. Bye.}
+{112}{}{Tudo bem. Tchau.}
 {113}{}{Certainly you may.}
 {114}{}{O que você gostaria de saber?}
 {115}{}{Who shrine for?}

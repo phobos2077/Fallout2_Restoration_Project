@@ -55,7 +55,7 @@
 {301}{}{Well, I hear he finally fixed the radio. You should ask Metzger. He's not much use now, not very good trade quality.}
 {302}{}{Quem é o Metzger?}
 {303}{}{Where's Metzger at?}
-{304}{}{Okay, thanks. Bye.}
+{304}{}{Ok, obrigado. Tchau.}
 {310}{}{He's in the back room right through the door over there.}
 {311}{}{You playing with me? He's right back there. Just go through that door.}
 {312}{}{Tudo bem.}
@@ -94,7 +94,7 @@
 {387}{}{Uh… kay.}
 {400}{}{Nope, but I'd check with the boss. He's probably been all over the fuckin' place.}
 {401}{}{Another question.}
-{402}{}{Okay, thanks. Bye.}
+{402}{}{Ok, obrigado. Tchau.}
 {410}{}{Merchant? Oh, you must mean Vic, that guy that sells the old Vault stuff. He's fucked. Metzger pretty pissed with'm.}
 {411}{}{Yeah, Vic… that Merchant guy, right? The one that sells the old Vault stuff. He's fucked. Metzger pretty pissed with'm.}
 {412}{}{How many times you gonna ask me that? Metzger's got'm.}

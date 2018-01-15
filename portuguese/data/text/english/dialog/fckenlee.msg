@@ -109,7 +109,7 @@
 {207}{}{Um... Nothing.}
 {208}{}{Once you have obtained the vertibird plans, give them to Dr. Wong Yi Tze. He will put them to good use.}
 {209}{}{Okay. I have other questions.}
-{210}{}{Okay. Bye.}
+{210}{}{Tudo bem. Tchau.}
 {211}{}{. I'd like to see the Emperor.}
 {212}{}{.}
 {213}{}{Remember, you must take the plans to Dr. Wong Yi Tze.}

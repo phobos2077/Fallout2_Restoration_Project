@@ -38,7 +38,7 @@
 {137}{}{Even if I wanted to help you, I could not. Our fuel reserves have been depleted. Perhaps you would be better off asking the Hubologists for their help. Goodbye.}
 {138}{}{Oh. Well, that's all, then.}
 {139}{}{That will be quite impossible. Our fuel supply has already vanished. Even if I wanted to help the Hubologists, which I do not, I couldn't. Good day.}
-{140}{}{Okay. Bye.}
+{140}{}{Tudo bem. Tchau.}
 {141}{}{Good. Then let me get back to what I'm doing.}
 {142}{}{[FEITO]}
 {143}{}{You can't do it? Then I can't sell you the fuel. Now go away. I'm busy.}

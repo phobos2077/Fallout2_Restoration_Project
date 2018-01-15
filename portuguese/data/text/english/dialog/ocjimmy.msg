@@ -15,7 +15,7 @@
 {113}{}{I'm just looking around. I won't bother anything.}
 {114}{}{You're annoying. Go away.}
 {115}{}{Hey, sorry. I didn't mean to step on your toes. I'll leave you to your business.}
-{116}{}{Good.}
+{116}{}{Boa.}
 {117}{}{It's a pleasure to meet you,}
 {118}{}{O que você gostaria de saber?}
 {119}{}{O que você faz aqui?}

@@ -107,7 +107,7 @@
 {221}{}{Umm… forget it. I have other questions.}
 {222}{}{None, actually. Bye.}
 {223}{}{Excellent. I'll need a set of combat armor and, oh, $5500. You'll need two days and the ability not to pick at scabs.}
-{224}{}{Let's do it.}
+{224}{}{Vamos fazer isso.}
 {225}{}{Forget it. So long.}
 {226}{}{The dermal upgrade, eh? That will cost you several days of your life, $33000, combat armor, and a brand-new set of scars that you'll never ever lose as long as you live.}
 {227}{}{So? I can afford ALL of that.}

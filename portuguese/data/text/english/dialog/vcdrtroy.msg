@@ -101,7 +101,7 @@
 {184}{}{I had something else I wanted to ask you first...}
 {185}{}{You know, I don't think you really want to inhale that... crap. Trust me.}
 {186}{}{Sorry, just trying to help. Later, Doctor.}
-{187}{}{What are you talking about?}
+{187}{}{Do que você está falando?}
 {188}{}{Forget it. I had something else I wanted to ask you...}
 {189}{}{Well, they make that stuff from brahmin shit.}
 {190}{}{Those are brahmin shit fumes in that Jet canister. Gross, huh?}

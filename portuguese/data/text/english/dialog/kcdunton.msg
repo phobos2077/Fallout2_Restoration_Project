@@ -41,7 +41,7 @@
 {166}{}{Oh, yeah. Well, tell me something else then.}
 {167}{}{Hey, wait - I really do want to help you guys out. Tell me about that job again.}
 {168}{}{Well, I guess I missed out. I'll be going then. Goodbye.}
-{169}{}{Okay. Bye.}
+{169}{}{Tudo bem. Tchau.}
 {170}{}{You worthless sack of gecko shit! Just what the hell are doing in our sight again?}
 {171}{}{I just wanted to apologize. I didn't mean to screw up. I'm just not as good at rustling as you
  two. Besides, I need something from you.}
