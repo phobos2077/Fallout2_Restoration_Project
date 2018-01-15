@@ -232,7 +232,7 @@
 {330}{}{Gotta be another way.}
 {331}{}{Siga-me.}
 {332}{}{Try this.}
-{333}{}{Come here.}
+{333}{}{Venha aqui.}
 {334}{}{Found something you might want to see.}
 {335}{}{Far as I can tell, it's safe to camp here.}
 {336}{}{Ain't safe to camp here.}

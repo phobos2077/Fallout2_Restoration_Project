@@ -230,7 +230,7 @@
 {329}{}{What are you talking about?}
 {330}{}{Is everyone else crazy here?}
 {331}{}{There must be another way.}
-{332}{}{Come here.}
+{332}{}{Venha aqui.}
 {333}{}{I don't understand.}
 {334}{}{Eu não sei.}
 {335}{}{That hurts.}

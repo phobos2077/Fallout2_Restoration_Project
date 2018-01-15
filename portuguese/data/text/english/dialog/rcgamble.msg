@@ -1,4 +1,4 @@
-{100}{}{You see a gambler.}
+{100}{}{Você vê um jogador.}
 {101}{}{You see a gambler hoping to make some money.}
 {102}{}{You see a nervously excited person gambling.}
 {103}{}{Come on, baby needs new shoes.}

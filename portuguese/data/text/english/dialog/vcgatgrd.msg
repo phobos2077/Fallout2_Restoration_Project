@@ -15,7 +15,7 @@
 {114}{}{Good to see you, Citizen.}
 {115}{}{Vault City prevails, Citizen.}
 {116}{}{Get out of here.}
-{117}{}{Get lost.}
+{117}{}{Se perder.}
 {118}{}{Got a problem? Or are you looking for one?}
 {119}{}{I don't want to have to hurt you.}
 {120}{}{You're cleared to enter. Head on in.}

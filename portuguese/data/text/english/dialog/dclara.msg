@@ -118,7 +118,7 @@
 {523}{}{It was probably a trap anyhow.}
 {524}{}{Sorry, you're not reliable.}
 {525}{}{I can't trust you.}
-{530}{}{We did it!}
+{530}{}{Nós fizemos isso!}
 {531}{}{Obrigado por sua ajuda.}
 {532}{}{Special thanks to you!}
 {533}{}{I've finally paid Tyler back for what he did to my brother.}
@@ -161,9 +161,9 @@
 {650}{}{Alright! Let's go! Everyone follow me!}
 {700}{}{Alright, we took care of the skeleton crew here at the church, but there still is Tyler and his cronies over in the Residential area.
  They should be pretty drunk by now and we can easily catch them off guard. You ready to finish this?}
-{701}{}{Let me heal first. I'll tell you when I am ready.}
+{701}{}{Deixe-me curar primeiro. Eu vou te dizer quando eu estou pronto.}
 {702}{}{Vamos lá.}
-{710}{}{You ready to take Tyler and his crew out?}
+{710}{}{Você está pronto para tirar Tyler e sua equipe?}
 {720}{}{Well, don't stray too far. We need to finish this tonight or we'll do it without you.}
 {721}{}{I'll be back shortly.}
 {722}{}{Vamos lá.}

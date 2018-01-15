@@ -3,7 +3,7 @@
 {102}{}{You see Wallace's Assistant, Skeev.}
 {103}{}{You see a scrawny young man. His eyes are darting back and forth.}
 {104}{}{Hey, you got any pieces of Horrigan? I could sell 'em for fifty, hundred bucks a pop, give you 10% of the action.}
-{105}{}{Get lost.}
+{105}{}{Se perder.}
 {106}{}{Beat it. I got nothing to say to you.}
 {107}{}{Oh, uh, hey, Captain. Good day, huh?}
 {108}{}{Well, if it ain't the new Citizen.}

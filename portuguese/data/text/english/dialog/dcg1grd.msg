@@ -29,5 +29,5 @@
 {242}{}{Tudo isso esperando e nada.}
 {243}{}{Então, o que aconteceu com essa armadilha, você nos ajudaria a definir?}
 {244}{}{O que aconteceu na outra noite?}
-{245}{}{Too bad those cowards chickened out. It would have been nice to finish them off.}
-{246}{}{Can't believe those bastards were going to try and ambush us.}
+{245}{}{Muito ruim, esses covardes se irritaram. Teria sido bom terminá-los.}
+{246}{}{Não posso acreditar que os bastardos tentassem nos emboscar.}

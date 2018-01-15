@@ -1,9 +1,9 @@
-{100}{}{You see a gambler.}
-{101}{}{This gambler seems to be doing extremely well.}
-{102}{}{He seems to be winning, but all his money is on the table.}
-{103}{}{She seems to be winning, but all her money is on the table.}
-{104}{}{This person doesn't seem to be winning or losing.}
-{105}{}{This person hasn't won in a while.}
+{100}{}{Você vê um jogador.}
+{101}{}{Esse jogador parece estar se saindo muito bem.}
+{102}{}{Ele parece estar ganhando, mas todo o seu dinheiro está sobre a mesa.}
+{103}{}{Ela parece ser a vitória, mas todo o seu dinheiro está sobre a mesa.}
+{104}{}{Essa pessoa não parece estar a ganhar ou a perder.}
+{105}{}{Esta pessoa não ganhou em um tempo.}
 {106}{}{She looks like she's about to cry and seems to almost be out of money.}
 {107}{}{He looks very angry and seems to be losing big.}
 {200}{}{Don't hurt me!}

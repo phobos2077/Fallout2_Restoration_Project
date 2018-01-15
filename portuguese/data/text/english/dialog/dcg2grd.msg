@@ -1,64 +1,65 @@
-{100}{}{You see a gangster.}
-{150}{}{He seems to be a member of Lara's gang.}
-{151}{}{She seems to be a member of Lara's gang.}
-{200}{}{Wise guy.}
-{201}{}{There you are.}
-{202}{}{Pay back.}
-{203}{}{Come here.}
-{204}{}{I'm not through with you.}
-{205}{}{Bitch.}
-{225}{}{Wonder how long things will last around here with Metzger gone?}
-{226}{}{So, Metzger's finally dead?}
-{227}{}{Was that your handiwork?}
-{228}{}{The Den'll never be the same again.}
-{240}{}{I can't believe it, we actually beat them!}
-{241}{}{Metzger's got to show us respect now.}
-{242}{}{We sure showed them.}
-{243}{}{We gave 'em our own brand of justice.}
-{244}{}{We couldn't have done it without you!}
-{245}{}{Thank you for your help!}
-{246}{}{We did it!}
-{247}{}{You screwing around with us?}
-{248}{}{Better watch your step.}
-{249}{}{Lara's the only reason we don't string you up right now.}
-{250}{}{What were you trying to pull?}
-{251}{}{Coward.}
-{252}{}{You make me sick.}
-{253}{}{Get lost.}
+{100}{}{Você vê um gangster.}
+{150}{}{Parece ser um membro da gangue de Lara.}
+{151}{}{Ela parece ser uma membro da gangue de Lara.
+}
+{200}{}{Sábio cara.}
+{201}{}{Aí está você.}
+{202}{}{Pagar de volta.}
+{203}{}{Venha aqui.}
+{204}{}{Eu não estou com você.}
+{205}{}{Cadela.}
+{225}{}{Imagina por quanto tempo as coisas vão durar aqui com Metzger morto?}
+{226}{}{Então, Metzger está finalmente morto?}
+{227}{}{Foi o seu trabalho manual?}
+{228}{}{A Den, nunca será a mesma novamente.}
+{240}{}{Eu não posso acreditar, conseguimos vencê-los!}
+{241}{}{Metzger deve mostrar-nos o respeito agora.}
+{242}{}{Nós mostramos isso.}
+{243}{}{Nós lhes demos a nossa própria marca de justiça.}
+{244}{}{Não poderíamos ter feito isso sem você!}
+{245}{}{Obrigado por sua ajuda!}
+{246}{}{Nós fizemos isso!}
+{247}{}{Você se divertindo com a gente?}
+{248}{}{Melhor assistir o seu passo.}
+{249}{}{Lara é a única razão pela qual não te enjaulamos agora.}
+{250}{}{O que você estava tentando puxar?}
+{251}{}{Covarde.}
+{252}{}{Você me faz mal.}
+{253}{}{Se perder.}
 {254}{}{Vencê-lo.}
-{255}{}{We're ready when you are.}
-{256}{}{It's about time we pay them back.}
+{255}{}{Nós estamos pronto quando você estiver.}
+{256}{}{Já é hora de devolvê-los.}
 {257}{}{Eu odeio esperar.}
-{258}{}{Let's go already.}
-{259}{}{You ready yet?}
-{260}{}{Just let Lara know when it's time.}
-{270}{}{You looking to join up?}
-{271}{}{You must be here to see Lara.}
+{258}{}{Vamos já.}
+{259}{}{Você está pronto ainda?}
+{260}{}{Apenas deixe Lara saber quando é hora.}
+{270}{}{Você está procurando juntar-se?}
+{271}{}{Você deve estar aqui para ver Lara.}
 {272}{}{Como vai?}
-{273}{}{Lara's the person you should be talking to.}
+{273}{}{Lara é a pessoa que você deve estar falando.}
 {274}{}{Olá.}
-{275}{}{You here to see Lara?}
+{275}{}{Você está aqui para ver Lara?}
 {300}{}{Olá.}
 {301}{}{Como vai?}
-{302}{}{Hope things are going good.}
-{303}{}{So you might be able to help us out?}
-{304}{}{Good to see you.}
-{305}{}{We'll pay back Tyler soon…}
-{306}{}{Any new developments?}
-{310}{}{Thanks for the help. Too bad about Lara.}
-{311}{}{We finally got em!}
-{312}{}{We couldn't have done this without you.}
-{313}{}{At least Lara went out in fight.}
-{314}{}{I can't believe Lara didn't make it.}
-{315}{}{We sure showed Metzger who's best.}
-{316}{}{Metzger's better off with us.}
-{350}{}{You said it!}
-{351}{}{They're dead meat!}
-{352}{}{We're going to kick some serious ass!}
-{400}{}{We kicked serious ass! We'll be over at the church if you need us.}
-{500}{}{Shit, I can't believe we lost Lara. We took care of the skeleton crew here, but Tyler and his crew are still alive.
- If we attack them now during their party over in the Residential area, we're sure to catch them off guard. Let's finish this job. You still in?}
-{501}{}{Let me heal first. I'll tell you when I am ready.}
+{302}{}{Espero que as coisas estejam indo bem.}
+{303}{}{Então você pode ser capaz de nos ajudar?}
+{304}{}{Bom ver você.}
+{305}{}{Nós devolveremos a Tyler em breve …}
+{306}{}{Alguma novidade?}
+{310}{}{Obrigado pela ajuda. Muito ruim sobre Lara.}
+{311}{}{Conseguimos, finalmente, em!}
+{312}{}{Nós não poderíamos ter feito isso sem você.}
+{313}{}{Pelo menos Lara saiu em luta.}
+{314}{}{Não posso acreditar que Lara não conseguiu.}
+{315}{}{Temos certeza que mostrou Metzger quem é o melhor.}
+{316}{}{Metzger está melhor com a gente.}
+{350}{}{Você disse isso!}
+{351}{}{Eles são carne morta!}
+{352}{}{Nós vamos chutar um traseiro sério!}
+{400}{}{Nós chutamos o traseiro sério! Nós vamos estar na igreja se você precisar de nós.}
+{500}{}{Merda, não posso acreditar que perdemos Lara. Nós cuidamos da equipe de esqueletos aqui, mas Tyler e sua equipe ainda estão vivas.
+  Se os atacarmos agora durante o sua festa na área residencial, temos a certeza de pegá-los desprevenidos. Vamos terminar este trabalho. Você ainda está?}
+{501}{}{Deixe-me curar primeiro. Eu vou te dizer quando eu estou pronto.}
 {502}{}{Vamos lá.}
-{510}{}{You ready to take Tyler and his crew out?}
-{520}{}{Hey, don't stray too far. We need to finish this tonight.}
+{510}{}{Você está pronto para tirar Tyler e sua equipe?}
+{520}{}{Ei, não se afaste muito. Precisamos terminar isso hoje à noite.}
