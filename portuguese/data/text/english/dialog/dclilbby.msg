@@ -1,5 +1,5 @@
-{100}{}{You see a small boy.}
-{101}{}{You see Little Bobby.}
+{100}{}{Você vê um menino pequeno.}
+{101}{}{Você vê o Pequeno Bobby.}
 {102}{}{He is wearing dirty clothing and has bruises on his neck and face.}
 {103}{}{He is wearing new clothing and has a smile on his face.}
 {104}{}{Hi mister! My name's Bobby and I live here with my Dad.}

@@ -98,76 +98,77 @@
 {472}{}{Ainda não. Eu aviso você.}
 {473}{}{Gra.}
 {474}{}{Nd.}
-{480}{}{Excellent! They're sure to leave a skeleton crew. Those should be good
- odds. We'll take out those at the party after we hit the church.}
-{481}{}{And my money?}
-{490}{}{I don't think so. You'll have to come with us if you want your money. You
- won't have to fight but just to be sure it's not a trap. We'll give you $300 total.}
-{491}{}{You ready?}
-{492}{}{Okay, let's do it.}
-{493}{}{Give me a bit to get ready.}
-{494}{}{No way. Keep your money!}
-{500}{}{Okay, but we've got to act soon so don't take too long or we'll ruin our chance.}
+{480}{}{Excelente! Eles estão certos de deixar uma equipe minima. Essa deve ser uma boa
+  probabilidades. Vamos retirar aqueles na festa depois que atingimos a igreja.}
+{481}{}{E o meu dinheiro?}
+{490}{}{Acho que não. Você terá que vir conosco se quiser o seu dinheiro. Você
+  não terá que lutar, mas apenas para ter certeza de que não é uma armadilha. Vamos dar-lhe um total de $ 300.}
+{491}{}{Você está pronto?}
+{492}{}{Ok, vamos fazer isso.}
+{493}{}{Me dê um tempo para me preparar.}
+{494}{}{De jeito nenhum. Mantenha seu dinheiro!}
+{500}{}{Ok, mas temos que agir em breve, então não demore muito ou vamos arruinar a nossa chance.}
 {501}{}{Tudo bem.}
-{510}{}{You don't have to fight. Easy money.}
-{511}{}{Well, have you changed your mind?}
-{512}{}{Let's go. I'm ready.}
-{513}{}{Okay, I'll be right back.}
+{510}{}{Você não tem que lutar. Dinheiro fácil.}
+{511}{}{Bem, você mudou de idéia?}
+{512}{}{Vamos lá. Eu estou pronto.}
+{513}{}{Tudo bem, eu vou estar de volta.}
 {514}{}{Não.}
-{515}{}{Uk}
-{520}{}{Because of you we blew our chance.}
-{521}{}{Coward!}
-{522}{}{You get nothing.}
-{523}{}{It was probably a trap anyhow.}
-{524}{}{Sorry, you're not reliable.}
-{525}{}{I can't trust you.}
+{515}{}{Uk!}
+{520}{}{Por causa de você perdemos a nossa chance.}
+{521}{}{Covarde!}
+{522}{}{Você não ganha nada.}
+{523}{}{Provavelmente era uma armadilha de qualquer forma.}
+{524}{}{Desculpe, você não é confiável.}
+{525}{}{Eu não posso confiar em você.}
 {530}{}{Nós fizemos isso!}
 {531}{}{Obrigado por sua ajuda.}
-{532}{}{Special thanks to you!}
-{533}{}{I've finally paid Tyler back for what he did to my brother.}
-{534}{}{Thank you again.}
-{540}{}{Now that Metzger's dead, I don't know what'll happen.}
-{541}{}{Maybe we should just pack up.}
-{542}{}{Did you hear Metzger died? I don't know what to do now.}
-{543}{}{What's going to happen to the Den now? Maybe something better.}
-{544}{}{This could actually be for the better.}
-{550}{}{Bastard!}
-{551}{}{Bitch!}
-{560}{}{Thanks. Here's your money and $100 extra.}
-{570}{}{Did you kill Tyler and his guards? How are we supposed to prove ourselves to Metzger? He'll never hire us now. That was our only chance.}
-{571}{}{We don't have any work. Someone killed off Metzger's guards and now he won't talk to us. He thinks we did it. Oh well.}
+{532}{}{Agradecimentos especiais para você!}
+{533}{}{Eu finalmente paguei Tyler pelo que ele fez com meu irmão.}
+{534}{}{Obrigado novamente.}
+{540}{}{Agora que Metzger está morto, eu não sei o que vai acontecer.}
+{541}{}{Talvez devêssemos apenas arrumar.}
+{542}{}{Você ouviu que Metzger morreu? Não sei o que fazer agora.}
+{543}{}{O que vai acontecer com o Den agora? Talvez algo melhor.}
+{544}{}{Isso poderia ser para melhor.}
+{550}{}{Safado!}
+{551}{}{Cadela!}
+{560}{}{Obrigado. Aqui está o seu dinheiro e us $100 extra.}
+{570}{}{Você matou Tyler e seus guardas? Como devemos provar a nós mesmos para Metzger? Ele nunca vai nos contratar agora. Essa foi a nossa única chance.}
+{571}{}{Não temos nenhum trabalho. Alguém matou os guardas de Metzger e agora ele não vai falar conosco. Ele pensa que nós fizemos isso. Ah bem.}
 {572}{}{Sinto.}
-{573}{}{Too bad.}
-{574}{}{That was me, and you're next.}
-{575}{}{Oh. Okay, bye.}
+{573}{}{Muito ruim.}
+{574}{}{Foi eu, e você é o próximo.}
+{575}{}{Oh. Tudo bem, tchau.}
 {576}{}{Uhr?}
 {577}{}{Ug.}
-{590}{}{I told you we would go together. Since no one was there to watch the place, it got ransacked and now Metzger's madder than hell.}
-{591}{}{I told you to find a weakness, not kill them! Since no one was there to watch the place, it got ransacked and now Metzger's madder than hell.}
-{592}{}{Damn it! I told you to ask Metzger, not to kill them! Since no one was there to watch the place, it got ransacked and now Metzger's madder than hell.}
-{593}{}{Damn it! I told you not to attack them! Since no one was there to watch the place, it got ransacked and now Metzger's madder than hell.}
-{594}{}{Oh, well, I've got to go.}
-{595}{}{That's a shame.}
-{596}{}{You're next, bitch.}
+{590}{}{Eu disse que iremos juntos. Como ninguém estava lá para vigiar o lugar, ele foi roubado e agora Metzger está mais louco que o inferno.}
+{591}{}{Eu disse para você encontrar uma fraqueza, e não matá-los! Como ninguém estava lá para assistir o lugar, ele foi roubado e agora Metzger está mais louco que o inferno.}
+{592}{}{Droga! Eu disse para você pedir a Metzger, não matá-los! Como ninguém estava lá para assistir o lugar, ele foi roubado e agora Metzger está mais louco que o inferno.}
+{593}{}{Droga! Eu disse para não atacá-los! Como ninguém estava lá para assistir o lugar, ele foi roubado e agora Metzger está mais louco que o inferno.}
+{594}{}{Oh, bem, eu tenho que ir.}
+{595}{}{Isso é uma vergonha.}
+{596}{}{Você é o próximo, cadela.}
 {597}{}{Hmph!}
-{598}{}{You next.}
-{610}{}{You really know how to screw things up, don't you?}
-{611}{}{We don't need any more of your help.}
-{612}{}{Go bother someone else.}
-{613}{}{Metzger better not take anything out on us.}
-{614}{}{I'm sorry. I can't help you.}
-{615}{}{Can't talk. I'm trying to figure out what to do now.}
-{616}{}{I hope Metzger doesn't think we were involved.}
-{617}{}{What are we going to do now?}
-{618}{}{We better leave soon in case Metzger thinks we killed his guards.}
-{619}{}{You ever been to New Reno? Maybe we'll head there - or north.}
-{650}{}{Alright! Let's go! Everyone follow me!}
-{700}{}{Alright, we took care of the skeleton crew here at the church, but there still is Tyler and his cronies over in the Residential area.
- They should be pretty drunk by now and we can easily catch them off guard. You ready to finish this?}
+{598}{}{Você o próximo.
+}
+{610}{}{Você realmente sabe como estragar as coisas, não é?}
+{611}{}{Não precisamos mais de sua ajuda.}
+{612}{}{Vá incomodar outra pessoa.}
+{613}{}{Metzger melhor não tira nada de nós.}
+{614}{}{Sinto muito. Eu não posso ajudar você.}
+{615}{}{Não posso falar. Estou tentando descobrir o que fazer agora.}
+{616}{}{Espero que a Metzger não pense que estivemos envolvidos.}
+{617}{}{O que vamos fazer agora?}
+{618}{}{É melhor irmos em breve caso o Metzger pense que matamos seus guardas.}
+{619}{}{Você já esteve em New Reno? Talvez nós vamos lá - ou no norte.}
+{650}{}{Tudo bem! Vamos lá! Todos me seguem!}
+{700}{}{Tudo bem, cuidamos da equipe de esqueletos aqui na igreja, mas ainda há Tyler e seus colegas na área residencial.
+  Eles já deveriam estar muito bêbados e podemos facilmente pegá-los de brincadeira. Você está pronto para terminar isso?}
 {701}{}{Deixe-me curar primeiro. Eu vou te dizer quando eu estou pronto.}
 {702}{}{Vamos lá.}
 {710}{}{Você está pronto para tirar Tyler e sua equipe?}
-{720}{}{Well, don't stray too far. We need to finish this tonight or we'll do it without you.}
-{721}{}{I'll be back shortly.}
+{720}{}{Bem, não se desvie demais. Precisamos terminar esta noite ou faremos isso sem você.}
+{721}{}{Eu vou estar de volta em breve.}
 {722}{}{Vamos lá.}
-{730}{}{We did it. I can't believe it! We're heading back to the church to take charge. Meet us back there for your reward.}
+{730}{}{Nós fizemos isso. Não posso acreditar! Nós estamos voltando para a igreja para assumir o controle. Encontre-nos lá para a sua recompensa.}

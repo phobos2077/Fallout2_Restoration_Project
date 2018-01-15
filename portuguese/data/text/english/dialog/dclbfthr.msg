@@ -1,18 +1,18 @@
-{100}{}{You see a middle aged man.}
-{101}{}{He is unshaven and reeks of alcohol.}
-{102}{}{*hickup* Do I know you?}
-{103}{}{It's 11 O'clock. Do you know where your children are?}
-{104}{}{(Looks at you sleepily) What? *hickup* It's 11 already?}
-{105}{}{Actually no it isn't, I just wanted to say that. But seriously, do you know where your children are?}
-{106}{}{Actually yeah it is, but that's not important right now. Seriously though, do you know where your children are?}
-{107}{}{*hickup* I have children? *hickup* Oh yeah, I do. He..or is it she..*hickup* should be around here somewhere.}
-{108}{}{Wow, you're such a drunk. Well, good thing I am working on a way to get your child out of here.}
-{109}{}{(Ignores what you just said.) Yeah that's great. *hickup* Now let me get back to this drink.}
-{110}{}{You are a hero to all fathers out there. Keep it up!}
+{100}{}{Você vê um homem de meia idade.}
+{101}{}{Ele está de barba por fazer e cheira a álcool.}
+{102}{}{* hickup * Eu conheço você?}
+{103}{}{São 11 horas. Você sabe onde seus filhos estão?}
+{104}{}{(Olha para você sonolento) o Que? *hickup* 11 já?}
+{105}{}{Na verdade não, não era, eu só queria dizer isso. Mas, sério, você sabe onde estão seus filhos?}
+{106}{}{Na verdade, é sim, mas isso não é importante neste momento. Sério, porém, você sabe onde estão seus filhos?}
+{107}{}{* soluço * Eu tenho filhos? * soluço * Oh, sim, eu sei. Ele ... ou é ela ... * hickup * deveria estar por aqui em algum lugar.}
+{108}{}{Uau, você é um bêbado. Bem, é bom que eu esteja trabalhando em uma maneira de tirar seu filho daqui.}
+{109}{}{(Ignora o que você acabou de dizer.) Sim, isso é ótimo. * hickup * Agora deixe-me voltar a esta bebida.}
+{110}{}{Você é um herói para todos os pais lá fora. Continue assim!}
 {111}{}{zzzZZZZzzz...}
 {112}{}{zZZZZzzZZzzz...}
-{113}{}{*mumbles*}
-{114}{}{Can't you see I'm drinking here? *hickup*}
-{115}{}{Don't bother me. *hickup*}
-{116}{}{Actually it is a little before 11 O'clock, but that's not important right now. Seriously though, do you know where your children are?}
-{117}{}{Actually it is a little past 11 O'clock, but that's not important right now. Seriously though, do you know where your children are?}
+{113}{}{*murmura*}
+{114}{}{Você não vê que estou bebendo aqui? *soluço*}
+{115}{}{Não me incomode. *soluço*}
+{116}{}{Na verdade, é um pouco antes das 11 horas, mas isso não é importante neste momento. Sério, porém, você sabe onde estão seus filhos?}
+{117}{}{Na verdade, é um pouco depois das 11 horas, mas isso não é importante neste momento. Sério, porém, você sabe onde estão seus filhos?}

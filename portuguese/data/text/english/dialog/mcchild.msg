@@ -1,4 +1,4 @@
-{100}{}{You see a small boy.}
+{100}{}{Você vê um menino pequeno.}
 {101}{}{You see a little girl.}
 {120}{}{You see a small boy. He seems rather playful.}
 {121}{}{You see a little girl. She seems rather playful.}

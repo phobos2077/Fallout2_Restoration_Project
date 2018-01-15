@@ -9,5 +9,5 @@
 {201}{}{I'm glad the other kids aren't stealing anymore.}
 {300}{}{Hi miss!}
 {301}{}{I'm glad the other kids aren't stealing anymore.}
-{400}{}{You see a small boy.}
+{400}{}{Você vê um menino pequeno.}
 {401}{}{You see a small girl.}

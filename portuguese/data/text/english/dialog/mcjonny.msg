@@ -1,4 +1,4 @@
-{100}{}{You see a small boy.}
+{100}{}{Você vê um menino pequeno.}
 {101}{}{You see Jonny.}
 {102}{}{Blonde hair, blue eyes; your typical all-American looking kid.}
 {150}{}{Waaaaa!}

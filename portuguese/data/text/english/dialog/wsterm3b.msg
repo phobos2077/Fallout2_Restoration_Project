@@ -89,12 +89,12 @@
 {170}{}{I want no part of this.}
 {171}{}{A container in which Skynet may leave.}
 {172}{}{Why do you want to leave?}
-{173}{}{I'm sorry. I can't help you.}
+{173}{}{Sinto muito. Eu não posso ajudar você.}
 {174}{}{There is nothing more to learn here
                            Solution: Leave}
 {175}{}{}
 {176}{}{Como posso ajudá-lo?}
-{177}{}{I'm sorry. I can't help you.}
+{177}{}{Sinto muito. Eu não posso ajudar você.}
 {178}{}{After you tried to kill me, you want me to help you? No way!}
 {179}{}{Proceed to Bio Storage - Level 4
                              Retrieve Cybernetic Brain
