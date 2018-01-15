@@ -1,96 +1,97 @@
 {100}{}{Você vê um cidadão do Den.}
-{101}{}{You see Fred.}
-{102}{}{You see Fred, wearing very fine clothes.}
-{150}{}{He seems to be busy thinking about something.}
-{151}{}{He seems pretty happy with his fine new threads.}
-{200}{}{I'm going to make it big some day.}
-{201}{}{Oh, leave me alone. I'm busy.}
-{202}{}{The master plan…}
-{203}{}{Going to figure it out some day…}
-{204}{}{Why do I always lose?}
-{205}{}{Tables must be rigged.}
-{206}{}{...I'll own my own place some day.}
-{207}{}{Going to get nice clothes.}
-{220}{}{Hey, man! It's late. Leave me alone.}
-{221}{}{No, I don't need any company.}
-{222}{}{Do you know what time it is?}
-{223}{}{I don't have anything.}
-{224}{}{Bug me in the morning. I'm tired.}
+{101}{}{Você vê Fred.}
+{102}{}{Você vê Fred, vestindo roupas muito finas.}
+{150}{}{Ele parece estar muito ocupado pensando em algo.}
+{151}{}{Ele parece muito feliz com seus novos e legais trajes.}
+{200}{}{Eu vou fazer isso um dia grande.}
+{201}{}{Oh, deixe-me em paz. Eu estou ocupado.}
+{202}{}{O plano mestre…}
+{203}{}{Indo descobrir algum dia …}
+{204}{}{Por que eu sempre perco?}
+{205}{}{Tabelas devem ser manipuladas.}
+{206}{}{... Eu vou ter meu próprio lugar algum dia.}
+{207}{}{Indo para obter boas roupas.}
+{220}{}{Ei, homem! Já é tarde. Deixe-me sozinho.}
+{221}{}{Não, não preciso de nenhuma companhia. }
+{222}{}{Você sabe que hora é?}
+{223}{}{Eu não tenho nada.}
+{224}{}{Bug me da manhã. Estou cansado.}
 {225}{}{Vencê-lo.}
-{226}{}{No one's home.}
-{227}{}{Can't talk. I'm getting ready for bed.}
-{228}{}{Hey, lady! It's late. Leave me alone.}
-{240}{}{No more money! Leave me alone.}
-{241}{}{There's no work. What am I going to do?}
-{242}{}{Don't tell me I owe someone else! Ahh!}
-{243}{}{I'm never going to make it big now.}
-{244}{}{I'm so broke.}
-{245}{}{Oh man, I need some cash.}
-{246}{}{I'll never get to buy new clothes now.}
-{247}{}{Got to get a new master plan…}
-{260}{}{Thanks for covering for me!}
-{261}{}{You're a real life saver.}
-{262}{}{I'll have the money for you soon.}
-{263}{}{I'll win it big anytime soon!}
-{264}{}{You're the first person I'll see when I win big.}
-{275}{}{Master plan is in action!}
-{276}{}{Thanks for the loan! Your money's in good hands!}
-{277}{}{Those tables sure are rough, but don't worry.}
-{278}{}{I'll win big some day, thanks to you.}
-{279}{}{I'm due any day! I can feel it.}
-{280}{}{I'm going to pay you back, I swear!}
-{281}{}{I'm going to win it big soon. I can smell it.}
-{295}{}{Huh? Do I know you? What do you want?}
-{296}{}{Why do you keep bothering me? I don't even know you. Go bug someone else.}
-{297}{}{I'm here to collect some money you owe someone.}
+{226}{}{Ninguém em casa.}
+{227}{}{Não posso falar. Estou me preparando para a cama.}
+{228}{}{Ei, senhora! Já é tarde. Deixe-me sozinho.}
+{240}{}{Não há mais dinheiro! Deixe-me sozinho.}
+{241}{}{Não há nenhum trabalho. O que é que eu vou fazer?}
+{242}{}{Não me diga que eu devo ser outra pessoa! Ahh!}
+{243}{}{Eu nunca vou fazer isso grande agora.}
+{244}{}{Eu estou tão quebrado.}
+{245}{}{Oh cara, eu preciso de dinheiro.}
+{246}{}{Nunca vou comprar roupas novas agora.}
+{247}{}{Comecei a ter um novo plano mestre…}
+{260}{}{Obrigado por me cobrir!}
+{261}{}{Você é realmente um salvador de vidas.}
+{262}{}{Eu vou ter o dinheiro para você em breve.}
+{263}{}{Eu vou ganhar grande em breve!}
+{264}{}{Você é a primeira pessoa que eu vou ver quando eu ganhar um grande prémio.}
+{275}{}{Plano mestre está em ação!}
+{276}{}{Obrigado pelo empréstimo! Seu dinheiro está em boas mãos!}
+{277}{}{Essas tabelas são ásperas, mas não se preocupe.}
+{278}{}{Eu vou ganhar o grande algum dia, graças a você.}
+{279}{}{Eu sou devido em qualquer dia! Eu posso sentir isso.}
+{280}{}{Eu vou pagar de volta, eu juro!}
+{281}{}{Eu vou ganhar grande em breve. Eu posso sentir o cheiro.}
+{295}{}{Hein? Eu sei que você? O que você quer?}
+{296}{}{Por que você continua incomodando-me? Eu nem conheço você. Vai investigar outra pessoa.}
+{297}{}{Estou aqui para coletar algum dinheiro que você deve a alguém.}
 {298}{}{Não importa.}
 {299}{}{Uk!}
 {300}{}{Adeus.}
-{310}{}{HEY! There you are! I've been looking all over for you! Check out these threads!}
-{311}{}{Thanks again.}
-{312}{}{Looking very nice.}
-{313}{}{You look like crap!}
+{310}{}{EI! Aí está você! Estive procurando por você! Confira esses tópicos!}
+{311}{}{Obrigado novamente.}
+{312}{}{Parecendo muito bom.}
+{313}{}{Você parece uma porcaria!}
 {314}{}{Yuk!}
 {315}{}{Ug.}
-{320}{}{Thank you. Thank you very much! Thanks to you, I have four sets just like these!}
-{321}{}{So you won it big after all?}
-{322}{}{So, where's my money?}
-{330}{}{You don't like my threads? You know, I think you're right. I don't like them either. Time for some new ones - I can afford it!}
-{331}{}{So, you won it big after all?}
-{332}{}{Where's my money?}
+{320}{}{Obrigado. Muito obrigado! Graças a você, eu tenho quatro conjuntos como esses!}
+{321}{}{Então você não é grande, afinal?}
+{322}{}{Então, onde está o meu dinheiro?}
+{330}{}{Você não gosta dos meus tópicos? Você sabe, eu acho que você está certo. Eu também não gosto deles. Tempo para alguns novos - eu posso pagar!}
+{331}{}{Então, você não é grande, afinal?}
+{332}{}{Onde está o meu dinheiro?}
 {333}{}{Hmph.}
-{340}{}{I was getting there! Won't even let me bask in my glory? I worked hard for this you know.}
-{341}{}{I know, I'm sorry.}
-{342}{}{Screw that. Where's the money I covered you for?}
-{343}{}{I don't give a crap. Where's my money?}
-{350}{}{Fine. Here. [Fred gives you $500] There's a little extra for trusting me. Well, see you later. Thanks again.}
+{340}{}{Eu estava chegando lá! Não vai mesmo me deixar gozar em minha glória? Eu trabalhei duro para isso você sabe.}
+{341}{}{Eu sei, me desculpe.}
+{342}{}{Dane-se isso. Onde está o dinheiro pelo qual te cobri? }
+{343}{}{Eu não dou uma porcaria. Onde esta meu dinheiro?}
+{350}{}{Bem. Aqui. [Fred te dá $ 500] Há um pouco de mais por me confiar. Bem, vejo você mais tarde. Obrigado novamente.}
 {351}{}{Obrigado!}
-{352}{}{What ever.}
-{360}{}{Thanks a lot for covering for me. It really meant a lot to me, to be trusted by a complete stranger. Let me give you this.}
+{352}{}{Tanto faz.
+}
+{360}{}{Muito obrigado por me cobrir. Realmente significava muito para mim, para ser confiado por um completo estranho. Deixe-me dar-lhe isso.}
 {361}{}{Tudo bem.}
-{362}{}{You shouldn't have.}
+{362}{}{Você não deveria ter.}
 {363}{}{Uh.}
-{370}{}{I owe you a lot. You trusted me when I was down on my luck. As a small gesture of gratitude I have something for you.}
+{370}{}{Eu devo-lhe muito. Você confiou em mim quando eu estava na minha sorte. Como um pequeno gesto de gratidão, eu tenho algo para você.}
 {371}{}{Tudo bem.}
-{372}{}{You shouldn't have.}
+{372}{}{Você não deveria ter.}
 {373}{}{Uh.}
-{380}{}{Here. [Fred give you $1000.] I hope this helps. I'm sure you'll find someplace to spend it.}
-{381}{}{Sorry, I can't accept this.}
+{380}{}{Aqui. [Fred lhe dá $ 1000.] Espero que isso ajude. Tenho certeza que você encontrará algum lugar para gastá-lo.}
+{381}{}{Desculpe, eu não posso aceitar isso.}
 {382}{}{Obrigado.}
-{383}{}{Not really, but I'll take it.}
-{384}{}{Yum.}
-{390}{}{Here. [Fred gives you $2000, 5 Fusion Cells, 5 Energy Cells, and a Plasma Grenade.] I hope this helps, at least a little.}
-{391}{}{Sorry, I can't accept this.}
-{392}{}{Thank you very much.}
-{393}{}{Not really, but I'll take it.}
-{394}{}{Yum.}
-{400}{}{What? Well, okay, if you insist. Thank you so very much. Take good care of yourself.}
+{383}{}{Na verdade não, mas vou entender.}
+{384}{}{O Yum.}
+{390}{}{Aqui. [Fred lhe dá $ 2000, 5 células Fusion, 5 células de energia e uma granada de plasma.] Espero que isso ajude, pelo menos um pouco.}
+{391}{}{Desculpe, eu não posso aceitar isso.}
+{392}{}{Muito obrigado.}
+{393}{}{Na verdade não, mas vou entender.}
+{394}{}{O Yum.}
+{400}{}{O que? Bem, se você insistir. Muito obrigado. Cuide bem de você.}
 {401}{}{Adeus.}
-{410}{}{What? You doing some strange drug? You don't look like a jethead. Get away from me you freak.}
-{411}{}{Beat it!}
+{410}{}{O que? Você está fazendo alguma estranha droga? Você não se parece com um jethead. Fique longe de mim você é louco.}
+{411}{}{Vencê-lo!}
 {412}{}{Ug.}
-{420}{}{What are you talking about? I don't owe anyone anything. Who the hell are you talking about?}
-{421}{}{Yea, you said that last time. I don't know what you're talking about? Who's this imaginary person again?}
+{420}{}{Do que você está falando? Não devo nada a ninguém. Que diabos você está falando?}
+{421}{}{Sim, você disse na última vez. Eu não sei do que você está falando? Quem é essa pessoa imaginária novamente?}
 {422}{}{Becky says you owe her $500}
 {423}{}{Becky sent me.}
 {424}{}{Rebecca says she lent you $200.}

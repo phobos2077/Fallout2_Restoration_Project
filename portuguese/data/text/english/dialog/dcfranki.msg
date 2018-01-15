@@ -81,53 +81,53 @@
 {226}{}{Adeus.}
 {227}{}{Informação eu não tenho.}
 {228}{}{Mesmo? Que tal porque as bebidas de Becky são muito mais baratas que as suas?}
-{229}{}{I thought bartenders knew everything.}
-{230}{}{Then I'm in the wrong place. Bye.}
-{231}{}{Go talk to Sheila. Hey, Sheila, you got a customer!}
-{232}{}{Wait, that's not what I want!}
+{229}{}{Eu pensei que o bartenders sabia tudo.}
+{230}{}{Então eu estou no lugar errado. Tchau.}
+{231}{}{Vá falar com Sheila. Ei, Sheila, você tem um cliente!}
+{232}{}{Espere, não é isso que eu quero!}
 {233}{}{Obrigado. Tchau.}
-{234}{}{Yeah, I bet. You must have the damnedest time getting men. Try your luck somewhere else, sister. I ain't into no charities.}
-{235}{}{Fine! Something else then.}
-{236}{}{Why, you little...}
+{234}{}{Sim, eu aposto. Você deve ter o melhor momento para conseguir homens. Tente sua sorte em outro lugar, irmã. Não estou em instituições de caridade.}
+{235}{}{Bem! Outra coisa então.}
+{236}{}{Por isso, é pouco...}
 {237}{}{Eu não preciso disso!}
-{238}{}{I have a room over there. You and I can use it.}
+{238}{}{Eu tenho um quarto lá. Você e eu podemos usá-lo.}
 {239}{}{OK.}
-{240}{}{No, I didn't mean that!}
-{242}{}{Neither were you.}
-{243}{}{I might have tried if you knew how to please a woman.}
-{244}{}{You were the best I ever had. Really. I mean that.}
-{245}{}{I hate to eat and run, but...}
-{246}{}{Well, see you later.}
+{240}{}{Não, eu não queria dizer isso!}
+{242}{}{Você também não estava.}
+{243}{}{Talvez eu tenha tentado se soubesse como agradar uma mulher.}
+{244}{}{Você foi o melhor que já tive. Mesmo. Quero dizer isso.}
+{245}{}{Eu odeio comer e correr, mas...}
+{246}{}{Bem, vejo vocês mais tarde.}
 {247}{}{Adeus.}
-{248}{}{Yeah, whatever. Just clean up after yourself this time, will ya?}
-{249}{}{Hey, everyone! Let's hear it for Billy. He's actually getting some!}
-{250}{}{You need a mop?}
-{251}{}{See ya in five.}
-{252}{}{Sheila! Watch the bar!}
-{253}{}{Hey, Billy, get outta here!}
-{254}{}{Now where were we?}
-{255}{}{Where are you, woman?}
-{256}{}{Would you get in here?}
-{257}{}{Come on, baby.}
+{248}{}{Sim, seja o que for. Apenas limpe você mesmo desta vez, você vai?}
+{249}{}{Ei, todos! Vamos ouvir isso do Billy. Ele está realmente recebendo alguns!}
+{250}{}{Você precisa de um esfregão?}
+{251}{}{See ya em cinco.}
+{252}{}{Sheila! Assista o bar!}
+{253}{}{Ei, Billy, saia daqui!}
+{254}{}{Agora, onde estávamos?}
+{255}{}{Onde está você, mulher?}
+{256}{}{Você poderia entrar aqui?}
+{257}{}{Venha, baby.}
 {258}{}{Siga-me.}
-{259}{}{No woman stands me up. Get the hell out!}
+{259}{}{Nenhuma mulher me levanta. Dar o fora!}
 {260}{}{Bem.
 }
-{261}{}{I forgot; I had something else I had to attend to right away. Please forgive me, baby.}
-{262}{}{I decided I didn't want to sleep with your ugly ass after all.}
-{263}{}{Lucky for you, I'm a nice guy. Just don't pull that crap with me again.}
-{264}{}{I won't, baby, I promise.}
-{265}{}{I'm gonna put my foot in your ass, woman!}
-{266}{}{No one talks to me like that! Die!}
-{267}{}{I've given you all the chances I'm gonna give ya. Now get out.}
-{268}{}{You're not going in my back room with that trash!}
-{300}{}{Hey, I didn't fucking say I'd pay you to kill the bitch. Get the fuck out!}
-{350}{}{Wow! Holy fuck. That was amazing.}
-{351}{}{Damn, you were pretty good baby.}
-{352}{}{Thanks, it was fun. Now get out.}
-{353}{}{You were, uhhh... Never mind, get out.}
-{354}{}{Well, I've never had worse than that.}
-{400}{}{You know baby, you might be hot and all, but you've got lots and lots to learn.}
-{410}{}{Baby, I do have work to do you know. I don't just stand around in this spot all day and do nothing.
- Well, okay, so what if I do? That's what I'm here to do.}
-{420}{}{Look, I just wanted her still destroyed and you do it. Now beat it.}
+{261}{}{Eu esqueci; Eu tinha outra coisa que eu tinha que atender imediatamente. Por favor, perdoe-me, baby.}
+{262}{}{Eu decidi que não queria dormir com seu feio culo depois de tudo.}
+{263}{}{Sorte sua, sou um cara legal. Apenas não puxe essa porcaria comigo novamente.}
+{264}{}{Eu não, baby, eu prometo.}
+{265}{}{Eu vou colocar meu pé na sua bunda, mulher!}
+{266}{}{Ninguém fala comigo assim! Morra!}
+{267}{}{Eu lhe dei todas as chances de que eu vou te dar. Agora saia.}
+{268}{}{Você não vai no meu quarto de volta com esse lixo!}
+{300}{}{Ei, eu não disse que eu pagaria você para matar a cadela. Tire a culpa!}
+{350}{}{Wow! Santa foda. Isso foi incrível.}
+{351}{}{Porra, você estava muito bom bebê.}
+{352}{}{Obrigado, foi divertido. Agora saia.}
+{353}{}{Você foi, uhhh ... Não importa, saia.}
+{354}{}{Bem, nunca tive pior do que isso.}
+{400}{}{Você sabe, baby, que você pode estar quente e tudo mais, mas você tem muitas e muitas coisas para aprender.}
+{410}{}{Baby, eu tenho trabalho para fazer, você sabe. Eu não quero ficar neste lugar todos os dias e não fazer nada. 
+Bem, ok, então o que se deve fazer? É isso que eu estou aqui a fazer.}
+{420}{}{Olha, eu só queria que aquele alambique estivesse destruído e você faz isso. Agora vença.}

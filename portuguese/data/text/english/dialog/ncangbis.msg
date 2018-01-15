@@ -13,7 +13,7 @@
 {221}{}{Hello there.}
 {222}{}{You. Talk to me. Now.}
 {223}{}{You. Come here. Now.}
-{224}{}{Yum.}
+{224}{}{O Yum.}
 {225}{}{Hmmmm.}
 {226}{}{Well, well…}
 {230}{}{I'm BORED.}
