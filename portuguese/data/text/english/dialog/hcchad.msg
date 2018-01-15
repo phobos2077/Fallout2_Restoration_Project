@@ -11,7 +11,7 @@
 {126}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. Cut me in for $1000 and I'll make sure you can flee town.}
 {127}{}{Quem é você?}
 {128}{}{Tell me about this place.}
-{129}{}{Nothing. Bye.}
+{129}{}{Nada. Tchau.}
 {130}{}{Look what the wasteland dragged in! Sorry, pal, I can't help you.}
 {131}{}{Doobye!}
 {132}{}{I'm Chad. }

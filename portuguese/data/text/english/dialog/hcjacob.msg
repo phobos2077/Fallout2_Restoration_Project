@@ -82,7 +82,7 @@
 {193}{}{I have some ore I want refined, and I don't want to pay the refinery's prices.}
 {194}{}{What can you tell me about Broken Hills?}
 {195}{}{I want some chemicals mixed.}
-{196}{}{Nothing. Bye.}
+{196}{}{Nada. Tchau.}
 {222}{}{Way to turn on your own kind, mutie-lover. How could you do that to Chad? I don't care what you've done for us. You're a
  disgrace to humanity.}
 {223}{}{Adeus.}

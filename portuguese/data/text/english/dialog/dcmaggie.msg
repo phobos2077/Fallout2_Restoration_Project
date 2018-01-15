@@ -1,88 +1,89 @@
-{100}{}{You see the owner of the saloon.}
-{101}{}{You see Becky.}
-{150}{}{This looks like the owner.}
-{151}{}{This is Becky, owner of this place.}
+{100}{}{Você vê o proprietário do salão.}
+{101}{}{Você vê Becky.}
+{150}{}{Isto se parece com o proprietário.}
+{151}{}{Esta é a Becky, proprietário do lugar.}
 {152}{}{[FALAR]}
-{153}{}{Hello, stranger, and welcome to my saloon. I’m Becky.}
-{154}{}{Hello, I am }
-{155}{}{. What’s there to do around here?}
-{156}{}{Hi, I’m }
-{157}{}{. Can I ask some questions?}
+{153}{}{Olá, estranho, e bem-vindo ao meu salão. Eu sou Becky.}
+{154}{}{Olá, eu sou }
+{155}{}{. O que há para fazer por aqui?}
+{156}{}{Oi, eu sou }
+{157}{}{. Posso fazer algumas perguntas?}
 {158}{}{Mãe?}
 {159}{}{Mag gah.}
-{160}{}{Run along. I don’t need your kind here.}
+{160}{}{Corra junto. Não preciso do seu tipo aqui.}
 {161}{}{Mmmm...}
-{162}{}{Screw you.}
-{163}{}{I’m going.}
-{164}{}{Sorry, no offense was meant. Can I ask something?}
-{165}{}{Drink of whiskey is $5 and the gambling tables are right over there. Have a good one.}
-{166}{}{Can I ask a question?}
-{167}{}{I want a drink!}
-{168}{}{Hmm, those are some cheap drinks. Let’s see one.}
+{162}{}{Que se dane.}
+{163}{}{Estou indo.}
+{164}{}{Desculpe, nenhuma ofensa foi feita. Posso perguntar algo?}
+{165}{}{A bebida de whisky é de $5 e as mesas de jogo estão bem ali. Tenha um bom dia.}
+{166}{}{Posso fazer uma pergunta?}
+{167}{}{Eu quero uma bebida!}
+{168}{}{Hmm, algumas bebidas são baratas. Vamos ver um.}
 {169}{}{Obrigado. Tchau.}
-{170}{}{Vault 13? Nope, never heard of it.}
-{171}{}{Hmm, can I ask something else?}
-{172}{}{Damn, I need to find it. Bye.}
+{170}{}{O Vault 13? Não, nunca ouvi falar dele.}
+{171}{}{Hmm, eu posso pedir algo mais?}
+{172}{}{Porra, eu preciso encontrá-lo. Tchau.}
 {173}{}{O que você gostaria de saber?}
-{174}{}{Where’s a good place to eat?}
-{175}{}{Do you know where Vault 13 is?}
-{176}{}{Why are your drinks so cheap?}
-{177}{}{Nothing. Bye.}
-{178}{}{Mom runs a little restaurant across town.}
-{179}{}{Mommy! Mommy!}
-{180}{}{One more question.}
+{174}{}{Onde é um bom lugar para comer?}
+{175}{}{Você sabe onde é o Vault 13?}
+{176}{}{Por que suas bebidas são tão baratas?}
+{177}{}{Nada. Tchau.}
+{178}{}{Mãe tem um pequeno restaurante do outro lado da cidade.}
+{179}{}{Mamãe! Mamãe!}
+{180}{}{Mais uma pergunta.}
 {181}{}{Obrigado. Tchau.}
 {182}{}{Vencê-lo.}
 {183}{}{Gwah.}
-{184}{}{I’ll give you something to beat.}
-{185}{}{Quick question first?}
+{184}{}{Eu vou dar-lhe algo para bater.}
+{185}{}{Pergunta rápida primeiro?}
 {186}{}{Adeus.}
-{187}{}{A shot of whiskey is $5. Pay first.}
+{187}{}{Um tiro de whisky é $5. Pague primeiro.}
 {188}{}{Hein?}
-{189}{}{Here’s the money.}
-{190}{}{Changed my mind.}
-{191}{}{I’m a little short of cash. Can I have a tab?}
-{192}{}{Can I ask a question?}
-{193}{}{Gotta go.}
-{194}{}{Here’s the drink. Anything else?}
-{195}{}{Question?}
-{196}{}{Yeha, how about you and I...}
+{189}{}{Aqui está o dinheiro.}
+{190}{}{Mudei de ideia.
+}
+{191}{}{Estou com pouco dinheiro. Posso ter uma guia?}
+{192}{}{Posso fazer uma pergunta?}
+{193}{}{Tenho que ir.}
+{194}{}{Aqui está a bebida. Algo mais?}
+{195}{}{Pergunta?}
+{196}{}{Yeha, e você e eu ...}
 {197}{}{Não.}
-{198}{}{Hey, you don’t enough cash for this drink. You’re poorer than even these sops!}
+{198}{}{Ei, você não tem dinheiro suficiente para esta bebida. Você é mais pobre do que esses mendigos!}
 {199}{}{Sinto.}
-{200}{}{Hmm, I’ll come back.}
-{201}{}{Hmm. Let me get someone to watch the bar. You and I can go into the back room and play a little
- game I call "First Strike." If you’re good, well, there’s "Ground Zero."}
+{200}{}{Hmm, eu vou voltar.}
+{201}{}{Hmm. Deixe-me levar alguém para assistir o bar. Você e eu podemos entrar na sala de tras e jogar um pouco
+  jogo que eu chamo de "Primeira Greve". Se você é bom, bem, há "Marco Zero".}
 {202}{}{OK!}
-{203}{}{Er...uh...I have to go.}
-{205}{}{You were OK.}
-{206}{}{Next time, let’s play "Into the Glow." But for now...}
-{207}{}{Can you do something for me?}
-{208}{}{I have to go, but I’ll come back.}
-{209}{}{What can I do for you, sweet cheeks?}
-{210}{}{I need some more lovin’.}
-{211}{}{I got some questions.}
-{212}{}{How can you sell your drinks so cheaply?}
-{213}{}{How about a drink?}
-{214}{}{Gotta run. See ya.}
-{215}{}{Not now. Maybe later. Yes, definitely later.}
-{216}{}{Can I ask a question?}
-{217}{}{Later then.}
-{218}{}{I have a still in the basement. I made it myself. Beats paying triple to those New Reno
- gangsters.}
-{219}{}{Smart girl! I like that!}
-{220}{}{Hmm, I have to go. I’ll see you later.}
-{221}{}{Why? Why did you destroy my still? You bastard!}
-{222}{}{Nothing personal. I got paid to do it.}
-{223}{}{I’m sorry.}
+{203}{}{Er...uh...eu tenho que ir.}
+{205}{}{Você estava OK.}
+{206}{}{Da próxima vez, vamos jogar "Para o Brilho." Mas por agora...}
+{207}{}{Você pode fazer algo para mim?}
+{208}{}{Eu tenho que ir, mas eu vou voltar.}
+{209}{}{O que posso fazer por você, bochechas doces?}
+{210}{}{Eu preciso de mais amor.}
+{211}{}{Eu tenho algumas perguntas.}
+{212}{}{Como você pode vender suas bebidas tão barato?}
+{213}{}{Que tal uma bebida?}
+{214}{}{Tenho que correr. Até mais.}
+{215}{}{Não agora. Talvez mais tarde. Sim, definitivamente, mais tarde.}
+{216}{}{Posso fazer uma pergunta?}
+{217}{}{Mais tarde, então.}
+{218}{}{Eu tenho um alambique no porão. Eu mesma fiz. Doía pagar o triplo para os bandidos de Novos Reno.}
+{219}{}{Menina inteligente! Eu gosto disso!}
+{220}{}{Hmm, eu tenho que ir. Eu te vejo mais tarde.}
+{221}{}{Por quê? Por que você destruiu meu alambique? Seu desgraçado!}
+{222}{}{Nada pessoal. Eu fui pago para fazer isso.}
+{223}{}{Sinto muito.}
 {224}{}{Adeus.}
-{225}{}{I’ll just make another one, you know.}
-{226}{}{I know.}
-{227}{}{Well, that’s good.}
+{225}{}{Eu vou fazer outro, você sabe.}
+{226}{}{Eu sei.}
+{227}{}{Bem, isso é bom.}
 {228}{}{Adeus.}
-{232}{}{Why? Why did you destroy my still? You bitch!}
-{233}{}{Where are you, baby?}
-{234}{}{Are you coming?}
+{232}{}{Por quê? Por que você destruir o meu alambique? Sua puta!}
+{233}{}{Onde está você, baby?}
+{234}{}{Você está vindo?
+}
 {235}{}{I'm waiting.}
 {236}{}{I'm in here, lover.}
 {237}{}{I've got a bar to run.}

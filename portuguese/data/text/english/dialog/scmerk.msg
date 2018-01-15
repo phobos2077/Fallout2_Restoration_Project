@@ -149,7 +149,7 @@
 {248}{}{Days like this make me so happy. Well, let's conclude our business.}
 {249}{}{It has come to my attention that the ingenious doctor expired during your visit. That was against my orders. To recoup future losses I think it will be necessary to receive a refund.}
 {250}{}{Look, I'll just give you 500 bucks and we'll forget the whole deal.}
-{251}{}{Screw you.}
+{251}{}{Que se dane.}
 {252}{}{Well, success in your ventures. I see no reason for us to talk again.}
 {253}{}{Fine by me.}
 {254}{}{Deal - but only because I like you. I suggest you don't come back any time soon.}

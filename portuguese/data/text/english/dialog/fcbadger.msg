@@ -51,7 +51,7 @@
 {150}{}{What's your price?}
 {151}{}{Yeah, whatever. I gotta go.}
 {152}{}{It means that I can find data you need.}
-{153}{}{Can you do something for me?}
+{153}{}{Você pode fazer algo para mim?}
 {154}{}{I see. Cool. I have more questions.}
 {155}{}{I see. Thanks.}
 {156}{}{Yeah, you would have. Anyway, I have to get back to this.}

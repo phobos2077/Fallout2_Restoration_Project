@@ -17,7 +17,7 @@
 {116}{}{That it for you?}
 {117}{}{Sim.}
 {118}{}{Não.}
-{119}{}{Later then.}
+{119}{}{Mais tarde, então.}
 {120}{}{}
 {121}{}{Ok.}
 {122}{}{Welcome back. Need more booze?}

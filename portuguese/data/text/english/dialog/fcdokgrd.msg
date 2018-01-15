@@ -8,7 +8,7 @@
 {201}{}{It's you again. What is it that you want, lao wai?}
 {202}{}{What are you guarding?}
 {203}{}{I need to use the motorboat.}
-{204}{}{Nothing. Bye.}
+{204}{}{Nada. Tchau.}
 {210}{}{Everything. Don't try anything funny.}
 {211}{}{Can't you be any more specific?}
 {220}{}{No. Now back away, outsider.}

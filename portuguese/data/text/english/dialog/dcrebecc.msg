@@ -54,7 +54,7 @@
 {273}{}{Do you have any work?}
 {274}{}{About that job...}
 {275}{}{Any more work for me?}
-{276}{}{Nothing. Bye.}
+{276}{}{Nada. Tchau.}
 {277}{}{Wekee.}
 {278}{}{Ruh ruh?}
 {279}{}{Iho shasha.}
@@ -65,9 +65,9 @@
 {301}{}{Drinks are still $5, and the Dyer family makes the best darn drinks in the whole world.}
 {302}{}{You okay? You want whiskey? Only $5.}
 {303}{}{I'll take a drink.}
-{304}{}{Why are your drinks so cheap?}
+{304}{}{Por que suas bebidas são tão baratas?}
 {305}{}{Dyer?}
-{306}{}{Can I ask a question?}
+{306}{}{Posso fazer uma pergunta?}
 {307}{}{Adeus.}
 {308}{}{Wekee}
 {309}{}{Urka.}

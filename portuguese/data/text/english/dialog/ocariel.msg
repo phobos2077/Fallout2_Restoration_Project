@@ -11,7 +11,7 @@
 {110}{}{Sorry. I don't have time for this.}
 {111}{}{It's a pleasure to meet you. What can I help you with?}
 {112}{}{Answer questions?}
-{113}{}{Nothing. Bye.}
+{113}{}{Nada. Tchau.}
 {114}{}{You can't possibly be of any help to me. Bye.}
 {115}{}{I'd like to ask you some questions.}
 {116}{}{I'm sorry to intrude on your solitude, but could you answer some questions?}

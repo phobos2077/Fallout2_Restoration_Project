@@ -8,7 +8,7 @@
 {107}{}{Quem é você?}
 {108}{}{O que é este lugar?}
 {109}{}{Who's in charge?}
-{110}{}{Nothing. Bye.}
+{110}{}{Nada. Tchau.}
 {111}{}{Hmm. Nope, sorry, can't help you with that. Maybe you should try someone else.}
 {112}{}{Anks?}
 {113}{}{I'm Marc. I'm the resident smart-ass and know-it-all. ::he smiles::}

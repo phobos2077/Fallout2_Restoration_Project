@@ -7,7 +7,7 @@
 {106}{}{Test!}
 {107}{}{Who are you? And what's with the scorpion?}
 {108}{}{I'd like to take one of your tests.}
-{109}{}{Nothing. Bye.}
+{109}{}{Nada. Tchau.}
 {110}{}{Ah, a test subject! Would you like to take a test, my friend?}
 {111}{}{Sim!}
 {112}{}{No!}

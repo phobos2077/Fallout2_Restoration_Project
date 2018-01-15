@@ -12,7 +12,7 @@
 {302}{}{Just wandering around.}
 {303}{}{Not much. What are you doing out here?}
 {304}{}{Looking for people to kill.}
-{305}{}{Nothing. Bye.}
+{305}{}{Nada. Tchau.}
 {306}{}{huh?}
 {307}{}{Um, I think I need to be going now. Bye.}
 {310}{}{I wish I could help you, but I've been wandering these parts

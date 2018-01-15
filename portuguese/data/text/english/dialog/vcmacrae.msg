@@ -25,7 +25,7 @@
 {120}{}{What do you have to drink here?}
 {121}{}{Do you know anything about the Vault?}
 {122}{}{It can't be that bad.}
-{123}{}{Nothing. Bye.}
+{123}{}{Nada. Tchau.}
 {124}{}{Ah...hit on the head a little too often, I see. Sorry, I don't speak
  imbecile.}
 {125}{}{Here you go. Drink up. It's about the only fun you'll see in this

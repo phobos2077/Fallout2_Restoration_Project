@@ -10,7 +10,7 @@
 {109}{}{Say, Eric asked me to adjust the power ration to his house. He said that he's sweating too much.}
 {110}{}{Hey, Eric's really happy in his nice cool house. And I notice the power hasn't failed across the city.}
 {111}{}{I just went and talked to Eric and he said that he used to run the place and that there's so much power in the uranium slugs that you'd never notice the small drain he'd take. So cough up the power.}
-{112}{}{Nothing. Bye.}
+{112}{}{Nada. Tchau.}
 {113}{}{Me? I'm Brian. I work the generator that powers this place.}
 {114}{}{Then you're the guy I need to see. Eric says he's too uncomfortable in his place, and he needs more power for his air conditioning.}
 {115}{}{I see. That's very interesting. Must be rewarding work.}

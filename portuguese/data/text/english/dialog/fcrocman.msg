@@ -9,7 +9,7 @@
 {111}{}{None of your business.}
 {112}{}{I want to join the Hubologists.}
 {113}{}{Who are YOU? And what are YOU doing here?}
-{114}{}{Nothing. Bye.}
+{114}{}{Nada. Tchau.}
 {115}{}{Great, an idiot. Look, pal, just go down those stairs there and maybe they can adjust your neurodynes and make something useful of you. Until then, though, I'm busy. Now go.}
 {116}{}{Oh-tay!}
 {117}{}{Take it downstairs. Show it to AHS-7, who has gate duty right now, and he'll take it for you or send you on to AHS-9. Now can I get back to work, meat?}
@@ -21,12 +21,12 @@
 {123}{}{None of your business.}
 {124}{}{I want to join the Hubologists.}
 {125}{}{Who are YOU? And what are YOU doing here?}
-{126}{}{Nothing. Bye.}
+{126}{}{Nada. Tchau.}
 {127}{}{I am Harry. I am the chief rocket technician.}
 {128}{}{I'm}
 {129}{}{None of your business.}
 {130}{}{I want to join the Hubologists.}
-{131}{}{Nothing. Bye.}
+{131}{}{Nada. Tchau.}
 {132}{}{Not willing to cooperate, eh? Guards! Kill this intruder!}
 {133}{}{Your guards are dead men.}
 {134}{}{Go down that elevator and talk to AHS-7 at the guard post. He'll direct you accordingly.}

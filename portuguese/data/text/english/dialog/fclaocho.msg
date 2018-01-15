@@ -27,7 +27,7 @@
 {126}{}{I need some computer parts for the PMV Valdez.}
 {127}{}{I'm looking for a spleen.}
 {128}{}{I hear some flying machines brought a load of villagers down this way.}
-{129}{}{Nothing. Bye.}
+{129}{}{Nada. Tchau.}
 {130}{}{Talk to Crocket, over in the Hubologist camp. He is their head scientist.}
 {131}{}{Thanks. I want more information.}
 {132}{}{Obrigado. Tchau.}
