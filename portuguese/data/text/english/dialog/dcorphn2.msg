@@ -1,4 +1,4 @@
-{100}{}{You see a child.}
+{100}{}{Você vê uma criança.}
 {101}{}{You see a child. He seems happy.}
 {102}{}{You see a child. She seems happy.}
 {200}{}{Hi mister!}

@@ -73,84 +73,84 @@
 {425}{}{Eu sei disso. Mas todos me chamam disso. Heck, eu até trato as pessoas como se fossem meus parentes - enquanto você obedecer minhas regras.}
 {426}{}{Regras?}
 {435}{}{Está certo. Sem roubar, sem xingamento e sem luta - não na minha loja, você não. Porque se você fizer isso, você vai embora. Eu gosto de coisas pacíficas aqui.}
-{436}{}{I see. Let me ask you something else.}
-{437}{}{That makes sense. See you later, Mom.}
-{445}{}{Well now, there's a Vault City a ways east of here and a little north. And Vic, hmm, lemme think.}
-{446}{}{I sure hope you know where Vic is. He's a trader.}
-{447}{}{Thanks but that's all I need to know. Bye, Mom.}
-{455}{}{Trader Vic? Now that rings a bell. Yes, I think he's being held by Metzger for some reason.}
-{456}{}{Who's Metzger and where do I find him?}
-{457}{}{That's great, Mom. Thanks.}
-{465}{}{Metzger's the head of the local Slaver's Guild. He's got all kinds of people locked up in his place. It's right up the street, just north of here.}
-{466}{}{Metzger used to be the head of the local Slaver's Guild. He had all kinds of people locked up in his place. But I don't know now - I heard he's been killed.}
-{467}{}{Thanks for the information. Let me ask you something else, Mom.}
-{468}{}{I need to go take care of some business. Thanks, Mom.}
-{475}{}{Go on and get that meal to Smitty now.}
-{476}{}{I won't help you out until you keep your word.}
-{477}{}{Hurry up now.}
-{478}{}{Go give Smitty his meal. Hurry up.}
-{479}{}{Stop your lollygagging and get that meal to Smitty.}
-{485}{}{That was good work. You must have worked up quite an appetite.
- I have a real treat for you as a reward. A combination plate of the best
- darn food I have here, just for you.}
-{486}{}{That sounds great! Let me at it!}
-{487}{}{Gee, Mom. I don't think I can eat just now, but thanks anyhow. Goodbye.}
-{500}{}{Hmm, don't know much about that. Someone's probably just having
- a little fun, that's all.}
-{501}{}{Has it always been haunted?}
-{502}{}{Does anyone use that house?}
-{503}{}{I agree. Bye.}
-{520}{}{Started about 2 years back. I heard about the moaning and the spirits and all.
- Don't believe it myself.}
-{521}{}{Two years, huh? Anybody use the place back then?}
-{522}{}{Me neither. Thanks.}
-{540}{}{One of the boys used to sleep there a few years back. Maybe he knows something.}
-{541}{}{Who?}
+{436}{}{Eu vejo. Deixe-me perguntar-lhe algo mais.}
+{437}{}{Isso faz sentido. Vejo você mais tarde, mãe.}
+{445}{}{Bem, agora, há a Cidade de Vault um caminho a leste daqui e um pouco a norte. E Vic, hmm, vou pensar.}
+{446}{}{Espero que você saiba onde está Vic. Ele é comerciante.}
+{447}{}{Obrigado, mas isso é tudo que eu preciso saber. Tchau, Mãe.}
+{455}{}{Comerciante Vic? Agora isso soa um sino. Sim, acho que ele está sendo mantido por Metzger por algum motivo.}
+{456}{}{Quem é o Metzger e onde o encontro?}
+{457}{}{Isso é ótimo, Mãe. Obrigado.}
+{465}{}{Metzger é o chefe da Guilda dos Escravistas local. Ele tem todos os tipos de pessoas trancadas em seu lugar. Está bem na rua, ao norte daqui.}
+{466}{}{Metzger costumava ser o chefe do Slaver's Guild local. Ele tinha todos os tipos de pessoas presas em seu lugar. Mas eu não sei agora - eu ouvi dizer que ele foi morto.}
+{467}{}{Obrigado pela informação. Deixe-me perguntar mais uma coisa, Mãe.}
+{468}{}{Eu preciso ir cuidar de alguns negócios. Obrigada, Mãe.}
+{475}{}{Vá em frente e entregue essa refeição para Smitty agora.}
+{476}{}{Eu não vou ajudá-lo até você manter sua palavra.}
+{477}{}{Apresse-se agora.}
+{478}{}{Vá dar a Smitty sua refeição. Se apresse.}
+{479}{}{Pare com a brincadeira e entregue essa refeição para Smitty.}
+{485}{}{Foi um bom trabalho. Você deve ter ficado com bastante apetite.
+  Tenho um verdadeiro deleite para você como uma recompensa. Uma placa combinada da melhor
+  comida maldita que eu tenho aqui, só para você.}
+{486}{}{Isso parece ótimo! Deixe-me com isso!}
+{487}{}{Pô, Mãe. Eu não acho que eu posso comer agora, mas obrigado de qualquer maneira. Adeus.}
+{500}{}{Hmm, não sei muito sobre isso. Alguém provavelmente está apenas tendo
+  um pouco de diversão, é só isso.}
+{501}{}{Sempre foi assombrada?}
+{502}{}{Alguém utilizar essa casa?}
+{503}{}{Estou de acordo. Tchau.}
+{520}{}{Iniciou cerca de 2 anos atrás. Ouvi sobre os gemidos e os espíritos e tudo mais.
+  Não acredite em mim mesma.}
+{521}{}{Dois anos, hein? Alguém usava o lugar naquela época?}
+{522}{}{Nem eu. Obrigado.}
+{540}{}{Um dos meninos costumava dormir há alguns anos atrás. Talvez ele saiba algo.}
+{541}{}{Quem?}
 {542}{}{Provavelmente não. Tchau.}
-{560}{}{He used to come by and try to pawn stuff. Jewelry mostly. I remember
- a little gold locket he kept for himself.}
-{561}{}{Do you remember his name?}
-{562}{}{Locket? Strange. Who was it?}
+{560}{}{Ele costumava passar e tentar pegar coisas. Jóias principalmente. Eu lembro
+  um pequeno medalhão de ouro que ele guardava para si mesmo.}
+{561}{}{Você se lembra do seu nome?}
+{562}{}{Medalhão? Estranho. Quem foi?}
 {563}{}{Deixe-me perguntar-lhe algo mais.}
 {564}{}{Obrigado, tchau.}
-{580}{}{Not sure. Think it was Joseph, Joel or something like that. He's almost 19
- now.... A shame, really. I believe he's joined up with some local thugs.}
-{581}{}{Thanks. I have another question for you.}
+{580}{}{Não tenho certeza. Penso que era Joseph, Joel ou algo assim. Ele tem quase 19 anos
+  agora ... uma vergonha, na verdade. Eu acredito que ele se juntou a alguns bandidos locais.}
+{581}{}{Obrigado. Eu tenho outra pergunta para você.}
 {582}{}{Obrigado, tchau.}
-{600}{}{What do you know about that haunted house?}
-{800}{}{I noticed there seems to be a lot of orphans around town.}
-{801}{}{It's a shame, isn't it? Those poor children living on the streets like that… A lot of them steal to get by -- from
- outsiders mostly -- so if you catch one trying to relieve you of something, please take pity on 'em. I'm not saying it's
- right, but it's a harsh world we live in, and we all do what we have to in order to make it through the day.}
-{802}{}{There's gotta be something we can do about this. From what I hear, you seem to be the only person around that
- actually gives a damn about those kids.}
-{803}{}{Why of course I do. Children are our future. They don't *have* to grow up to be jet heads, thugs, and whores like
- most of their deadbeat parents. Why, with an education and some love and care, these kids could grow into the kind of
- decent folk that we so desperately need in this world. I've tried establishing an orphanage for them, but sadly, that
- didn't pan out.}
-{804}{}{Maybe it's time to give it another try. I'm not going to be in town for too much longer, but I'll do what I can to help while I'm here.}
-{805}{}{That's too bad. Well, nice talking with you. Bye.}
-{806}{}{Yes, perhaps you *could* help. You see, I procured a large building over on the south-west side that, with a little work, would make an excellent
- orphanage. But a bunch of lowlifes are squatting there and refuse to leave unless I pay an absurd fee. Even if I *had* the money, I wouldn't give
- it to them bullies -- they'd just use it to further poison themselves. I'd go to the authorities, but unfortunately, there's no such thing in the Den.
- Perhaps you'd have better luck at convincing them to leave?}
-{807}{}{I'm sure I could get them out of there. One way, or another. I'll let you know once they're gone.}
-{808}{}{Never was a fan of evicting people. Perhaps someone else is better suited for this.}
-{809}{}{Oh... I see. That's really too bad. Thanks for trying though. Would you like anything before you go?}
-{810}{}{Nope. Bye Mom.}
-{811}{}{If I catch one of them little bastards stealing from me, it'll be the last thing they ever do. I don't care what
- their excuse is, a thief is a thief. Bye.}
-{820}{}{Good news, Mom. The building's all yours. I ran into a little snag, but those squatters won't be bothering you again.}
-{821}{}{The squatters said they'd leave and that they're sorry for causing trouble. They're currently cleaning the place up to try and make it up to you. I was thinking maybe, if they do well enough, you could offer some of them jobs.}
-{822}{}{Oh, that's great news! Thank you so much! I just hope no one was hurt in the process. I'll get in touch with some friends and we'll get
- started right away. If you're still in town a few days from now, you should stop by. Hopefully, we'll have things up and running by then. Oh,
- I'm so excited! Thanks again. Here, this meal's on me.}
-{823}{}{Hmm... I suppose everyone deserves a second chance. I'll stop over there with some friends and we'll talk things over with 'em. Thank you so much
- for helping me with this. If you're still in town a few days from now, you should stop by. Hopefully, we'll have things up and running by then. Oh, I'm so
- excited! Thanks again. Here, this meal's on me.}
-{824}{}{Thanks Mom. See you around.}
-{850}{}{You help establish an orphanage for the children of The Den.}
-{1821}{}{Good news, Mom. The building's all yours. It took a little convincing, but I got the squatters to agree to pack up and move on.
- I don't think they'll be bothering you again.}
-{1822}{}{Oh, that's great news! Thank you so much! I'll get in touch with some friends and we'll get started right away. If you're still in town
- a few days from now, you should stop by. Hopefully, we'll have things up and running by then. Oh, I'm so excited! Thanks again. Here, this meal's on me.}
+{600}{}{O que você sabe sobre essa casa mal-assombrada?}
+{800}{}{Eu notei que parece haver muitos órfãos em torno da cidade.}
+{801}{}{É uma pena, não é? Aquelas pobres crianças que vivem nas ruas assim ... Muitos deles roubam para passar - de
+  viajantes principalmente - então, se você pegar um tentando aliviar você de alguma coisa, tenha pena deles. Não estou dizendo que é
+  Certo, mas é um mundo duro em que vivemos, e todos nós fazemos o que temos para fazer isso durante o dia.}
+{802}{}{Tem que haver algo que possamos fazer sobre isso. Pelo que eu ouço, você parece ser a única pessoa em torno disso que
+  na verdade, dá a minima para essas crianças.}
+{803}{}{Por que, claro, eu faço. As crianças são o nosso futuro. Eles não * têm * que crescer para serem cabeça de jet, bandidos e prostitutas como
+  a maioria de seus pais morrendo. Por que, com uma educação e algum amor e cuidado, essas crianças poderiam crescer no tipo de
+  gente decente que precisamos tão desesperadamente neste mundo. Eu tentei estabelecer um orfanato para eles, mas, infelizmente, isso
+  não apareceu.}
+{804}{}{Talvez seja hora de dar outra tentativa. Eu não vou estar na cidade por muito tempo, mas vou fazer o que posso para ajudar enquanto estou aqui.}
+{805}{}{Isso é muito ruim. Bem, bom falar com você. Tchau.}
+{806}{}{Sim, talvez você * possa * ajudar. Você vê, eu procurei um grande edifício no lado sudoeste que, com um pouco de trabalho, faria uma excelente
+  orfanato. Mas um monte de pessoas baixas estão agachadas lá e se recusam a sair, a menos que eu pague uma taxa absurda. Mesmo que eu * tivesse * o dinheiro, eu não daria
+  Para aqueles cretinos - eles apenas usariam para envenenar-se. Eu iria às autoridades, mas, infelizmente, não há tal coisa no Den.
+  Talvez você tenha mais sorte para convencê-los a sair?}
+{807}{}{Tenho certeza de que eu poderia tirá-los dali. De uma forma ou de outra. Eu vou deixar você saber uma vez que eles se foram.}
+{808}{}{Nunca fui fã de despejar pessoas. Talvez alguém seja mais adequado para isso.}
+{809}{}{Ah eu vejo. Isso é realmente muito ruim. Obrigado por tentar. Gostaria de qualquer coisa antes de ir?}
+{810}{}{Não. Tchau Mãe.}
+{811}{}{Se eu pegar um desses pequenos bastardos roubando de mim, será a última coisa que eles iram fazer. Eu não me importo com o que
+  Sua desculpa é, um ladrão é um ladrão. Tchau.}
+{820}{}{Boas notícias, mãe. O edifício é todo seu. Eu tive um pequeno obstáculo, mas esses invasores não vão incomodá-la novamente.}
+{821}{}{Os invasores disseram que iriam e que desculpe por causar problemas. Eles estão atualmente limpando o lugar para tentar fazer isso com você. Eu estava pensando talvez, se eles fizerem o suficiente, você poderia oferecer a alguns deles um trabalho.}
+{822}{}{Oh, é uma ótima notícia! Muito obrigado! Só espero que ninguém tenha sofrido ferimento no processo. Vou entrar em contato com alguns amigos e nós teremos
+  começo de imediato. Se você ainda estiver na cidade por alguns dias, você deve visitar. Felizmente, teremos as coisas funcionando até então. Ah,
+  Eu estou tão animada! Obrigado novamente. Aqui, esta refeição está por mim.}
+{823}{}{Hmm ... Suponho que todos merecem uma segunda chance. Eu vou falar com alguns amigos e conversaremos com eles. muito obrigado
+  por me ajudar com isso. Se você ainda estiver na cidade por alguns dias, você deve visitar. Felizmente, teremos as coisas funcionando até então. Oh, eu estou tão
+  animada! Obrigado novamente. Aqui, esta refeição está por mim.}
+{824}{}{Obrigado, mãe. Até a próxima.}
+{850}{}{Você ajuda a estabelecer um orfanato para as crianças de Den.}
+{1821}{}{Boas notícias, mãe. O edifício é todo seu. Demorou um pouco pra convencer, mas peguei os invasores para concordar em arrumar e seguir em frente.
+  Eu não acho que eles vão incomodá-la novamente.}
+{1822}{}{Oh, é uma ótima notícia! Muito obrigado! Eu vou entrar em contato com alguns amigos e nós começaremos imediatamente. Se você ainda está na cidade
+  dentro de alguns dias, você deve visitar. Felizmente, teremos as coisas funcionando até então. Oh, estou tão animada! Obrigado novamente. Aqui, esta refeição está por mim.}

@@ -1,10 +1,11 @@
-{100}{}{You see a child.}
-{150}{}{You see a small orphan child.}
-{200}{}{Spare change?}
+{100}{}{Você vê uma criança.}
+{150}{}{Você vê uma pequena criança órfã.}
+{200}{}{Mudança de reposição?}
 {201}{}{O que?}
-{202}{}{I'm not doin' anythin'!}
-{210}{}{This is Tubby's place.}
-{211}{}{Tubby sells bad things.}
+{202}{}{Eu não estou fazendo nada'!
+}
+{210}{}{Este é o lugar de Tubby.}
+{211}{}{Tubby vende coisas ruins.}
 {212}{}{Tubby's not very nice.}
 {213}{}{Tubby smells funny.}
 {220}{}{This is Flick's shop.}

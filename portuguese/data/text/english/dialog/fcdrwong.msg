@@ -106,7 +106,7 @@
 {353}{}{Well, that's that. Let me ask you something else.}
 {360}{}{You'll have to excuse me for seeming so callous about the matter. The truth is, Dr. Sheng was not very popular around here and I do not believe any of us miss him in the slightest.}
 {361}{}{I think I'd like follow up on this Dr. Sheng guy. Could you give me his last known location?}
-{362}{}{I see. Let me ask you something else.}
+{362}{}{Eu vejo. Deixe-me perguntar-lhe algo mais.}
 {370}{}{I suppose I could... I must admit I am somewhat curious to learn of his fate. Here, I'll mark Dr. Sheng's last known location on your mapping device. But I must warn you that it could prove to be highly dangerous. Of course, it is always dangerous out there in the wastes. Anyway, if you find something of interest, do let me know.}
 {371}{}{Thanks, I'll do that. Bye.}
 {372}{}{Deixe-me perguntar-lhe algo mais.}

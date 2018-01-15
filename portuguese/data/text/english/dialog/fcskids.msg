@@ -1,5 +1,5 @@
 {100}{}{You see a kid.}
-{101}{}{You see a child.}
+{101}{}{Você vê uma criança.}
 {102}{}{This kid looks much like other kids.}
 {103}{}{You look mean.}
 {104}{}{Don't hurt me, 'kay?}

@@ -72,7 +72,7 @@
 {159}{}{I was just pulling your leg. Uh, what I mean to say is…uh. Goodbye, Sheriff.}
 {160}{}{The Doc's office is at the west end of downtown here. He's just about always happy to see new
  patients.}
-{161}{}{I see. Let me ask you something else.}
+{161}{}{Eu vejo. Deixe-me perguntar-lhe algo mais.}
 {162}{}{Maybe I'll go visit with him for a while. Goodbye, Sheriff.}
 {163}{}{We all have a respect of the need for law and order, of course. And we also have some concerns
  regarding the future of Redding.}
