@@ -1,25 +1,25 @@
 {100}{}{Você vê um guarda.}
-{101}{}{You see Marc, a guard.}
-{102}{}{You see Marc, one of Tyler's guards.}
+{101}{}{Você vê Marc, um guarda.}
+{102}{}{Você vê Marc, um dos guardas de Tyler.}
 {150}{}{Yo, Tyler!}
-{200}{}{What the…?}
-{225}{}{Thanks for the tip. That was some fun stuff.}
-{226}{}{I knew we could take those pussies.}
-{227}{}{Too bad we killed them all. Now what are we to do?}
-{228}{}{Are we hot or what?}
-{229}{}{We're too good.}
-{230}{}{We fucking kicked some ass! Fuck yeah!}
-{250}{}{Tyler's the one to talk to, not me, lady.}
-{251}{}{What's up. You need something; you gotta talk to Tyler here.}
-{252}{}{What you looking at?}
-{253}{}{Tyler's the one to talk to, not me, man.}
-{255}{}{We're going to kick some ass tonight!}
-{256}{}{Tonight's the night!}
-{257}{}{I'm going to remember this night for sure.}
-{258}{}{Don't even tell me they chickened out.}
-{259}{}{Oh, I sure hope those fuckers show.}
-{260}{}{I knew those pussies wouldn't show.}
-{261}{}{We should just go kick their asses just for thinking about fighting us.}
-{262}{}{We would have ripped through them if they had showed.}
-{263}{}{I could have taken them on by myself.}
-{264}{}{Tyler and I would have kicked some serious ass.}
+{200}{}{O que...?}
+{225}{}{Obrigado pela dica. Essa foi uma coisa divertida.}
+{226}{}{Eu sabia que poderia pegar os bichanos.}
+{227}{}{Pena que matou todos eles. Agora o que vamos fazer?}
+{228}{}{Está quente ou o que?}
+{229}{}{Nós somos muito bons.}
+{230}{}{Nós caralho chutamos algumas bundas! Foda-se!}
+{250}{}{Tyler é o único a falar, eu não, senhora.}
+{251}{}{Estás bem. Você precisa de algo; você tem que falar com Tyler aqui.}
+{252}{}{O que você está procurando?}
+{253}{}{Tyler é a pessoa com quem falar, não eu, cara.}
+{255}{}{Vamos arrasar hoje à noite!}
+{256}{}{Esta noite é a noite!}
+{257}{}{Vou lembrar desta noite, com certeza.}
+{258}{}{Não vai mesmo me dizer que eles se acovardaram.}
+{259}{}{Oh, eu espero que esses filhos da puta mostrem-se.}
+{260}{}{Eu sabia que os bichanos não iria mostrar-se.}
+{261}{}{Nós devemos simplesmente ir chutar suas bundas apenas por pensar em lutar contra nós.}
+{262}{}{Nós os teríamos rasgado se tivessem aparecido.}
+{263}{}{Eu poderia ter vencido por mim mesmo.}
+{264}{}{Tyler e eu teríamos chutado uns traseiros sério.}

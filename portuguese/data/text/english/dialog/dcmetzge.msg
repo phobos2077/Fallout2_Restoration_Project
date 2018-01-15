@@ -1,7 +1,7 @@
-{100}{}{You see a mean looking man.}
-{101}{}{You see Metzger, the slaver master.}
-{150}{}{Metzger's the head of the Slaver's Guild.}
-{200}{}{You'll pay for that.}
+{100}{}{Você vê um homem de aparência médiana.}
+{101}{}{Você vê Metzger, o mestre escravista.}
+{150}{}{Metzger é o chefe da Slaver's Guild.}
+{200}{}{Você vai pagar por isso.}
 {210}{}{What the fuck do you want? This is the Slaver's Guild, not some safe
  house for you fucking jet heads.}
 {211}{}{What the hell do you want, you ugly bitch? This is the Slaver's

@@ -1,7 +1,7 @@
 {100}{}{You see a tough, middle aged slaver.}
 {101}{}{You see slaver with a large scar on his face.}
-{102}{}{You see a rather large slaver.}
-{150}{}{There's a slaver who seems to enjoy his work.}
+{102}{}{Você vê um escravista bastante grande.}
+{150}{}{Há um escravista que parece aproveitar o trabalho dele.}
 {151}{}{This slaver seems to be very strong but not to bright.}
 {152}{}{This slaver seems to be well-armed, like the others.}
 {225}{}{Let's get em.}

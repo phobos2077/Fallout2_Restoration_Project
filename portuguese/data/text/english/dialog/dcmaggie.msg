@@ -85,10 +85,10 @@
 {234}{}{Você está vindo?
 }
 {235}{}{I'm waiting.}
-{236}{}{I'm in here, lover.}
-{237}{}{I've got a bar to run.}
-{238}{}{Follow me, sugar.}
-{240}{}{How did you... Do that... Uhhh...}
-{241}{}{It's O.K., size doesn't really matter.}
-{242}{}{That was, ummm, nice -- I guess.}
-{243}{}{Thanks, sweety; that was fun.}
+{236}{}{Eu estou aqui, amante.}
+{237}{}{Eu tenho um bar para executar.}
+{238}{}{Siga-me, docinho.}
+{240}{}{Como é que você... Fazer o que... Uhhh...}
+{241}{}{É O. K., tamanho realmente não importa.}
+{242}{}{Isso foi, hum, legal - eu acho.}
+{243}{}{Obrigado, querida; isso foi divertido.}
