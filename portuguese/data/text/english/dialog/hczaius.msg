@@ -65,7 +65,7 @@
  lying around the shop. Tell him Zaius sent you. Tell him that I said, "The canary's kicked the
  bucket." I don't know where to get protective equipment for the gas. I suppose you could go in without any
  but you'll be hurting. Again, thank you.}
-{152}{}{No problem. Bye.}
+{152}{}{Não há problema. Tchau.}
 {153}{}{No? Well, if you should change your mind, you know where to find me.}
 {154}{}{Sure thing. Bye.}
 {155}{}{ it is, then. Take half now. I'll give you the other half when you're done. Go to New Reno and

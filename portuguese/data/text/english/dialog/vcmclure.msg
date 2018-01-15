@@ -230,7 +230,7 @@
 {329}{}{Tudo certo.}
 {330}{}{Let me take the reactor disk, and I'll have the Vault central computer optimize it.}
 {331}{}{Great. Thanks.}
-{332}{}{What is it?}
+{332}{}{O que é?}
 {333}{}{I have a reactor data disk here from Gecko. According to... the... uh, technician at the power plant, the Vault City computer can optimize the reactor disk and make the plant run more smoothly.}
 {334}{}{Guards! Guards!}
 {335}{}{}

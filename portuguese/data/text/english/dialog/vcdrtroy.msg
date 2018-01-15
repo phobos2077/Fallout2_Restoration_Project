@@ -73,7 +73,7 @@
 {162}{}{I don't think I'm ready to go right now, "doctor." First, I'd like to see what you've got in
  stock.}
 {163}{}{I've been looking for someone who might be able to perform a special errand for me.}
-{164}{}{What is it?}
+{164}{}{O que é?}
 {165}{}{Not interested, thanks.}
 {166}{}{Excellent! I'm glad you've reconsidered.}
 {167}{}{It has come to my attention that there is a new drug in the wastes. It's called "Jet," I

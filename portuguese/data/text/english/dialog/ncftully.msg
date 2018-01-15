@@ -66,7 +66,7 @@
 {305}{}{Temprance Union, Misssus Wright…same pershun. Tryin' ta clean up New Reeno. Done a pretty good job with me.}
 {306}{}{Sure has. I had some other questions…}
 {315}{}{Queshions? Can't say I know tooo much 'bout them. But ast away.}
-{316}{}{Have you heard of Vault 13?}
+{316}{}{Você já ouviu falar do Vault 13?}
 {317}{}{I'm here because I'm looking for my tribe. They were kidnapped from my village.}
 {318}{}{You don't know how to fix an oil tanker, do you?}
 {319}{}{Have you heard about something called the Garden of Eden Creation Kit?}

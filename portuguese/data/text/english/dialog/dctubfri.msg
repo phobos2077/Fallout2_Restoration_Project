@@ -38,7 +38,7 @@
 {254}{}{Dang, that was nasty shit.}
 {255}{}{Wow, man. She killed Tubby.}
 {260}{}{Ooooohhyaaa… Good stuff.}
-{261}{}{What's that?}
+{261}{}{O que é isso?}
 {262}{}{Oh, yeah, I'm flying now.}
 {263}{}{Oh so warm.}
 {264}{}{She's so pretty.}

@@ -50,7 +50,7 @@
 {258}{}{Not right now.}
 {270}{}{I need a drink.}
 {271}{}{I'm looking for a merchant who sells Vault equipment.}
-{272}{}{I'm looking for a merchant named Vic.}
+{272}{}{Estou à procura de um comerciante chamado Vic.}
 {273}{}{Do you have any work?}
 {274}{}{About that job...}
 {275}{}{Any more work for me?}
@@ -86,10 +86,10 @@
  really hit the spot.}
 {332}{}{Sure. I'll have one.}
 {333}{}{Can I ask another question?}
-{334}{}{Okay, thanks.}
+{334}{}{Ok, obrigado.}
 {340}{}{There you are. Thank you very much.}
 {341}{}{Thanks. Can I ask you a question?}
-{342}{}{Okay, thanks.}
+{342}{}{Ok, obrigado.}
 {343}{}{Thankey youey.}
 {344}{}{Asky?}
 {350}{}{Sorry. I don't think so.}
@@ -152,7 +152,7 @@
 {471}{}{Oh.}
 {480}{}{Oh, he said to give you this. It's a present from the Hendee family. It should
  help you out some.}
-{481}{}{What is it?}
+{481}{}{O que é?}
 {490}{}{Oh, just a few trinkets. Here you go. [Becky hands you $1000, 5 Stimpaks,
  Metal Armor, an Uzi, 5 clips of ammo, a Plasma Grenade, and a flower]}
 {491}{}{Obrigado!}

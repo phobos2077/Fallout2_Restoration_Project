@@ -70,62 +70,64 @@
 {213}{}{Seja o que for. Você está vendendo alguma coisa ou apenas fazendo uma pequena conversa?}
 {214}{}{Me desculpe. Estou realmente olhando ao redor e não conheço a área.}
 {215}{}{O que você quer?}
-{216}{}{I’m looking for a locket.}
-{217}{}{I need to know more about that haunted house.}
-{218}{}{What’s the deal with the old church and those guards?}
-{219}{}{Nothing you can provide.}
-{220}{}{Have you heard of Vault 13?}
-{221}{}{Um, never mind. See you around.}
-{222}{}{Oh, you mean Tyler and his gang? They guard some shit that comes in from Vault City. Big fucking crates. Once in a while you see them get picked up by caravans heading to New Reno.}
-{223}{}{Can I ask you more about them?}
-{224}{}{Can I ask you something else?}
-{225}{}{OK, thanks. Bye.}
-{226}{}{What else you wanna know?}
-{227}{}{Who’s Tyler?}
-{228}{}{Where’s New Reno?}
-{229}{}{So, what are they guarding?}
-{230}{}{I want to ask you about something else.}
-{231}{}{That’s it. Bye.}
-{232}{}{Tyler's just some weasel who screwed all the rest of us out of a sweet deal with
- Metzger, but fuck that shit! I don't fucking care anymore. I could kick his fucking ass though.
- Lara and him still have some really bad blood. Something about Tyler and her brother.}
-{233}{}{That could be useful. Can I ask you more about them?}
-{234}{}{Can I ask you something else?}
-{235}{}{OK, thanks. Bye.}
-{236}{}{New Reno is down to the south a long ways, then east some. There's a lot
- of action to be made there, but it's pretty fucking dangerous too. I might head back
- some day. Here, I can show you where it's at on that fancy screen thing of yours.}
-{237}{}{I think I can find it now. Can I ask you more about them?}
-{238}{}{Can I ask you something else?}
-{239}{}{OK, thanks. Bye.}
-{240}{}{Hell if I know.}
-{241}{}{Interesting. Can I ask you more about them?}
-{242}{}{Can I ask you something else?}
-{243}{}{OK, thanks. Bye.}
-{244}{}{For you, I will sell jet for $500.}
-{245}{}{No, thanks. Bye.}
-{246}{}{No, thanks, but I would like to ask you something.}
-{247}{}{That’s too much!}
-{248}{}{OK, I’ll buy it.}
-{249}{}{If you don’t have the money, come back when you can afford it. Don't let me see
- you buying from anyone else or I'll kick your fucking ass. I'm the only one with the pure
- uncut shit, shipped directly from New Reno. }
-{250}{}{Wait, I’ll buy it.}
-{251}{}{Well, can I ask you something?}
+{216}{}{Eu estou procurando um medalhão.}
+{217}{}{Eu preciso saber mais sobre essa casa mal-assombrada.}
+{218}{}{Qual é o negócio com a velha igreja e os guardas?}
+{219}{}{Nada que você possa fornecer.}
+{220}{}{Você já ouviu falar do Vault 13?}
+{221}{}{Hum, não importa. Até a próxima.}
+{222}{}{Oh, você quer dizer Tyler e sua gangue? Eles guardam uma merda que vem da cidade de Vault. Grandes caixas de porra. De vez em quando você vê-los pegar as caravanas em direção a New Reno.}
+{223}{}{Posso perguntar-lhe mais sobre eles?}
+{224}{}{Posso pedir mais uma coisa?}
+{225}{}{OK, obrigado. Tchau.}
+{226}{}{O que mais você quer saber?}
+{227}{}{Quem é o Tyler?}
+{228}{}{Onde está o Novo Reno?}
+{229}{}{Então, o que eles estão protegendo?}
+{230}{}{Eu quero perguntar a você sobre algo.}
+{231}{}{É isso. Tchau.}
+{232}{}{Tyler é apenas uma doninha que ferrou todo o resto de nós por um doce negócio com
+  Metzger, mas foda-se essa merda! Eu não me importo mais. Eu poderia chutar o seu maldito culo, no entanto.
+  Lara e ele ainda têm um sangue muito ruim. Algo sobre Tyler e seu irmão.}
+{233}{}{Isso poderia ser útil. Posso lhe perguntar mais sobre eles?}
+{234}{}{Posso pedir mais uma coisa?}
+{235}{}{OK, obrigado. Tchau.}
+{236}{}{O novo Reno está no sul por longos caminhos, depois pelo leste. Há muito
+  de ação a ser feita lá, mas também é muito perigoso. Eu posso voltar
+  algum dia. Aqui, posso mostrar-lhe onde está naquela tela fantasiosa sua.}
+{237}{}{Eu acho que eu posso encontrá-lo agora. Posso perguntar-lhe mais sobre eles?}
+{238}{}{Posso pedir mais uma coisa?}
+{239}{}{OK, obrigado. Tchau.}
+{240}{}{Inferior se eu soubesse. }
+{241}{}{Interessantes. Posso perguntar-lhe mais sobre eles?}
+{242}{}{Posso pedir mais uma coisa?}
+{243}{}{OK, obrigado. Tchau.}
+{244}{}{Para você, eu vou vender o jet por $500.}
+{245}{}{Não, obrigado. Tchau.}
+{246}{}{Não, obrigado, mas eu gostaria de perguntar uma coisa.}
+{247}{}{Isso é demais!}
+{248}{}{OK, eu vou comprá-lo.}
+{249}{}{Se você não tem o dinheiro, volte quando você pode pagar. Não me deixe ver
+  você estar comprando de qualquer outra pessoa ou eu vou chutar seu bicho maldito. Eu sou o único com a pura
+  merda não cortada, enviada diretamente de New Reno.}
+{250}{}{Espere, eu vou comprá-lo.}
+{251}{}{Bem, posso perguntar uma coisa?}
 {252}{}{Adeus.}
-{253}{}{OK, I’ll drop the price to $350, but no less! That’s my final offer. You got to pay
- top dollar for the good shit. Don't buy from Tubby or any of those losers. They cut their
- shit. I'm the only one for miles that can get a hold of the best stuff.}
-{254}{}{Forget it. Can I ask you something?}
-{255}{}{OK, I’ll buy it.}
-{256}{}{Never mind. Bye.}
-{257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
- with another new chem! Nothing can beat jet!}
-{258}{}{No, you moron.}
-{259}{}{No, it’s a place. Can I ask something else?}
-{260}{}{Yes, a wonderful chem.}
+{253}{}{OK, vou baixar o preço para $ 350, mas não menos! Essa é a minha oferta final. Você tem que pagar
+  valor superior pela boa merda. Não compre contra Tubby ou nenhum desses perdedores. Eles cortaram a
+  merda. Eu sou o único por milhas que pode conseguir as melhores coisas.}
+{254}{}{Esqueça. Posso te perguntar uma coisa?
+}
+{255}{}{OK, eu vou comprá-lo.}
+{256}{}{Deixa pra lá. Tchau.
+}
+{257}{}{Vault ... Vault ... Vault 13? Não, nunca ouvi falar disso. Não me diga que eles apareceram
+  com outro novo químico! Nada pode vencer o jet!}
+{258}{}{Não, seu idiota.}
+{259}{}{Não, é um lugar. Posso pedir outra coisa?}
+{260}{}{Sim, um químico maravilhoso.}
 {261}{}{Não, tchau.}
-{262}{}{Joey here isn't much of a conversationalist.}
-{300}{}{Probably not. Bye.}
-{350}{}{You been sleeping? Turns out that Lara's a mean little bitch after all. She gunned Tyler down. I hear Metzger was in on it. Well, I better get back to… work.}
-{351}{}{You been sleeping? Turns out that Lara was a mean little bitch after all- too bad she's dead. Whipped out Tyler's group. Her gang's running things over there now, last I heard.}
+{262}{}{Joey aqui não é muito conversador.}
+{300}{}{Provavelmente não. Tchau.}
+{350}{}{Você estava dormindo? Acontece que Lara é uma pequena puta, afinal. Ela tirou Tyler para baixo. Ouvi dizer que Metzger estava envolvido. Bem, é melhor eu voltar para ... trabalhar.}
+{351}{}{Você estava dormindo? Acontece que Lara era uma pequena puta depois disso, muito ruim, ela está morta. Tirou o grupo de Tyler. Sua gangue está mandando lá, agora, da última vez que eu ouvi.}

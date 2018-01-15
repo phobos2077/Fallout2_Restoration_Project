@@ -33,7 +33,7 @@
 {128}{}{Of course I do. Uh, let me ask you about something else, Mayor.}
 {129}{}{Yes, of course. I was just checking. Goodbye, Mayor Ascorti.}
 {130}{}{All kinds of private property. Why, right now, I have a Jim-dandy of a deed for sale.}
-{131}{}{What's that?}
+{131}{}{O que é isso?}
 {132}{}{I bet you do, but let me ask you about something else first, Mayor.}
 {133}{}{Hmm, I think I'll look around town first, Mayor. Goodbye.}
 {134}{}{It's the deed to the Great Wanamingo Mine just outside of town. I can sell it to you for only

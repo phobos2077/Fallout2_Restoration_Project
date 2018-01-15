@@ -43,7 +43,7 @@
 {137}{}{Let's see what we've got here.}
 {138}{}{[You gingerly open the sack, relishing the adrenaline rush. The fabric of the sack parts to reveal.....]}
 {139}{}{Yah, Yah?}
-{140}{}{What is it?}
+{140}{}{O que é?}
 {141}{}{10000 bottlecaps.}
 {142}{}{CAPS?!}
 {143}{}{Freakin' bottlecaps?!}

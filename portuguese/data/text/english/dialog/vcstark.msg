@@ -97,7 +97,7 @@
 {196}{}{The Vault's right outside the door...sir.}
 {197}{}{The Vault's right outside the door. Just tell the guards you're a Citizen, and they'll let you through.}
 {198}{}{The Vault's right outside the door. Only Citizens are allowed in there, so I don't want to catch you bothering the guards.}
-{199}{}{Can I ask you something else?}
+{199}{}{Posso pedir mais uma coisa?}
 {200}{}{But I am a Citizen.}
 {201}{}{How do you become a citizen?}
 {202}{}{Obrigado. Adeus.}
@@ -109,7 +109,7 @@
 {208}{}{Touch me, and you'll regret it.}
 {209}{}{I'm going, I'm going. Stop pushing.}
 {210}{}{I was BORN a Citizen. Interested in becoming a Citizen? Find a council member.}
-{211}{}{Can I ask you something else?}
+{211}{}{Posso pedir mais uma coisa?}
 {212}{}{I will, thanks. Goodbye.}
 {213}{}{Yeah, what about them?}
 {214}{}{I found their base.}
@@ -248,7 +248,7 @@
 {346}{}{All right then. Download the information into my Pip Boy, and I'll log it into the patrol computers.}
 {347}{}{Tudo certo.}
 {348}{}{This intelligence looks good. Well done. Here's payment for your services, five hundred dollars... plus, you might find this useful.}
-{349}{}{What is it?}
+{349}{}{O que é?}
 {350}{}{It's a Vault-Tec Motion sensor. We were going to strip it for parts, since it's too old for our Pip Boys, but it looks like it's compatible with your model.}
 {351}{}{How does it work?}
 {352}{}{Keep it in your hand and it IDs hostiles in your immediate area when you use it. Or you can call up the Pip Boy automap as normal, then just click the "scanner" button and they're lit up like a neon sign.}

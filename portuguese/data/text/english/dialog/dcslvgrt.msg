@@ -62,8 +62,8 @@
 {313}{}{Obrigado.}
 {320}{}{Damn, you don't know Metzger? What're ya doin' in this town, if not ta see him? He's the head of the Slaver's Guild.}
 {321}{}{How many times do I have to tell ya? He's the slave master. He runs things in this town.}
-{322}{}{Can I ask you something else?}
-{323}{}{Okay, thanks.}
+{322}{}{Posso pedir mais uma coisa?}
+{323}{}{Ok, obrigado.}
 {330}{}{I ain't talkin' about that. Metzger'll string me up. Plus, we wouldn't want any outside competition.}
 {331}{}{I already said. I ain't gonna talk about that.}
 {332}{}{Tell me before I blow a hole through your head.}
@@ -101,7 +101,7 @@
 {413}{}{Quem é o Metzger?}
 {414}{}{Can I ask another question?}
 {415}{}{Is he for sale?}
-{416}{}{Okay, thanks.}
+{416}{}{Ok, obrigado.}
 {430}{}{Hey, boys, look who's back.}
 {431}{}{Run, it's a slaver! Ah, I crack m'self up.}
 {432}{}{Back for some action?}

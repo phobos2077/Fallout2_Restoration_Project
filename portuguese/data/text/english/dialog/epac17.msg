@@ -91,7 +91,7 @@
 {400}{}{One moment, before you go. Please, take this as a token for bringing Myron here. I have no real use for it.}
 {401}{}{Hey, thanks. Um, what is it?}
 {410}{}{It's a Solar Scorcher. It was an experiment of mine. It feeds off the energy from the sun and thus no ammunition is required. It actually works and will be of great use to you, I'm sure, in the deep wastes. This requires a further question actually...}
-{411}{}{What's that?}
+{411}{}{O que é isso?}
 {420}{}{You seem an adventurous type. I'm restricted to the grounds of the EPA to watch over many of the experiments, but I need some equipment that I've run out of. Could you collect a few things for me?}
 {421}{}{Yeah, I suppose so. What do you need?}
 {422}{}{No, I'm too busy at the moment saving my village. Maybe some other time.}
@@ -128,7 +128,7 @@
 {522}{}{No thanks. Bye.}
 {530}{}{Have you sorted out the power problem yet?}
 {531}{}{Yes, yes, yes, I don't need to know the specifics. Thanks. Now, I still have one more task if you wish to undertake it.}
-{532}{}{What's that?}
+{532}{}{O que é isso?}
 {533}{}{No, I'm still working on it.}
 {540}{}{I am experimenting with a new serum at the moment to improve the agility and awareness of people to help them survive in this harsh world. You'd allow me to try it on you, wouldn't you?}
 {541}{}{Well...I suppose so, what harm could it do?}

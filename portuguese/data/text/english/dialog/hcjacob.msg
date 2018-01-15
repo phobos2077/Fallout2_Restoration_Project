@@ -138,7 +138,7 @@
 {290}{}{I'd like to buy some... uh... medicine.}
 {291}{}{Mais alguma coisa?}
 {292}{}{Sim.}
-{293}{}{No, thanks. Bye.}
+{293}{}{Não, obrigado. Tchau.}
 {294}{}{Now you can see how treacherous the mutants are. If only you had seen earlier.}
 {295}{}{If you're not gonna help us, we ain't gonna help you.}
 {296}{}{Well, what are ya doin' just standin' there? You've got patriots to rescue from incarceration!}

@@ -20,7 +20,7 @@
 {119}{}{Uh, with.}
 {120}{}{Without, of course.}
 {121}{}{Of course you do, of course. Any loyal citizen of these great United States would do the same.}
-{122}{}{Why is that?}
+{122}{}{Por que isso?}
 {123}{}{I've got work to do. Goodbye.}
 {124}{}{Carry on, trooper. The future will be better tomorrow.}
 {125}{}{What do you mean by that?}

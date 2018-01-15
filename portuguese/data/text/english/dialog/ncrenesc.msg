@@ -224,7 +224,7 @@
 {687}{}{Great! Let's see what you've got, "buddy."}
 {688}{}{Excellent! Say, I had some other questions…}
 {689}{}{I'll be back to shop later. }
-{700}{}{Make it quick.}
+{700}{}{Faça isso rápido.}
 {701}{}{Look, I'm a busy man…}
 {702}{}{Well? Out with it already!}
 {703}{}{Yeah?}

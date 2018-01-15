@@ -152,7 +152,7 @@
 {223}{}{The way I see it, Redding's best chance is with Vault City controlling things here. That's where
  I'm from - so I might be biased - but I really do think that Vault City can do a better job of helping
  the citizens of Redding.}
-{224}{}{Why is that?}
+{224}{}{Por que isso?}
 {225}{}{Because they handle Vault City in a just and humane manner. They would do the same for Redding.
  I'm sure of it.}
 {226}{}{Vault City takes care of their citizens all right, but they treat non-citizens like dirt.}

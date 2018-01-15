@@ -42,7 +42,7 @@
 {140}{}{Ok.}
 {141}{}{Não.}
 {142}{}{Let's do it.}
-{143}{}{Maybe later.}
+{143}{}{Talvez mais tarde.}
 {144}{}{This function is not available at this time. My library is incomplete. I require a memory module detailing the appropriate medical procedures. Do you have such a module?}
 {145}{}{Me have module. You take.}
 {146}{}{No. Me find, then come back.}

@@ -30,7 +30,7 @@
 {122}{}{Are you insane? Chad's a powerful guy in this town and he's got a lot of friends. If I try to rat him out, there's a lot of people that'd hate me. Hell, I might even get killed.}
 {123}{}{Hmm, then perhaps I could say something to Marcus. I don't plan to stay around here too much longer anyway.}
 {124}{}{Hey, you do what you need to do, just don't drag me into it. In fact, we never had this conversation, OK?}
-{125}{}{No problem. Bye.}
+{125}{}{Não há problema. Tchau.}
 {126}{}{Actually, one more thing. I know Chad keeps records of all the transactions he makes. He's kind of a record freak.
  In fact, the guy's such a nut about it, I bet he even has records of all the money he's been skimming. The problem is,
  he keeps all the stuff locked up in his house on the other side of town, and there's no way you're getting in there—his

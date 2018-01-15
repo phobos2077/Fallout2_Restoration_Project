@@ -70,7 +70,7 @@
 {451}{}{That sounds like a deal, Smitty. Here's the part and the money.}
 {452}{}{I'll have to think about it, Smitty. Goodbye for now.}
 {460}{}{Mostly I just keep watch over all this old junk. Only got one thing worth doodly-squat.}
-{461}{}{What's that?}
+{461}{}{O que é isso?}
 {462}{}{I figured that. Let me ask you something else.}
 {470}{}{Why, it's none other than this Chrysalis Motors Highwayman. They used ta say that "Nothing can stop a Highwayman." They shore built 'em tough, I'll say that for 'em.}
 {471}{}{Wow, does it run?}

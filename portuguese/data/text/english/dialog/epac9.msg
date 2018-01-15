@@ -5,7 +5,7 @@
 {201}{}{What do you do?}
 {210}{}{I make drugs! All kinds of drugs! When life gets you down, Mr. Chemmie is here to pick you up! How does Mr. Chemmie work?! It's simple! All you need is some scientific know-how and the right ingredients, then leave the rest up to me! Go on! Give me a try! And kids, remember to ask Mommy or Daddy for permission before playing with Mr. Chemmie!}
 {211}{}{Alright, I'll give this a try.}
-{212}{}{Maybe later.}
+{212}{}{Talvez mais tarde.}
 {220}{}{Alright! Let's make drugs! What do you wish to create?!}
 {221}{}{Stimpak}
 {222}{}{Super Stimpak}

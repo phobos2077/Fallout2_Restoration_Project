@@ -58,7 +58,7 @@
 {148}{}{Well, there's always rumors...but I do have something that needs doing.}
 {149}{}{I'll get back to that. Let me ask you about something else first, though.}
 {150}{}{Tell me about the rumors.}
-{151}{}{What's that?}
+{151}{}{O que é isso?}
 {152}{}{I bet you do. Sorry, but I'm too busy right now. Goodbye.}
 {153}{}{I've got a great big ol' digger machine down in my mine. Problem is that the control chip for it
  don't work anymore. I need a new one if I want to expand my operations.}

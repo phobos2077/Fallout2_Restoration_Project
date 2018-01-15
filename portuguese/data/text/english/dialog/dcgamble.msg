@@ -4,7 +4,7 @@
 {103}{}{Ela parece ser a vitória, mas todo o seu dinheiro está sobre a mesa.}
 {104}{}{Essa pessoa não parece estar a ganhar ou a perder.}
 {105}{}{Esta pessoa não ganhou em um tempo.}
-{106}{}{She looks like she's about to cry and seems to almost be out of money.}
+{106}{}{Parece que está prestes a chorar e parece estar quase sem dinheiro.}
 {107}{}{Ele parece muito irritado e parece estar perdendo grandes.}
 {200}{}{Não me machucar!}
 {201}{}{Não atire!}

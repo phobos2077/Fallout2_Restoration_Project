@@ -8,7 +8,8 @@
 {107}{}{I'm here to see the boss.}
 {108}{}{I'm looking for work.}
 {109}{}{I'm looking for Vault 13.}
-{110}{}{Just looking around.}
+{110}{}{Apenas olhando por aí.
+}
 {111}{}{Great, another idiot. I suppose you want to see the boss?}
 {112}{}{Uh-huh.}
 {113}{}{Nooo.}

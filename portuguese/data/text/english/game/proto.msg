@@ -157,7 +157,7 @@
 {671}{}{Com certeza.}
 {672}{}{As you wish.}
 {673}{}{Whatever you say.}
-{674}{}{I'll try.}
+{674}{}{Eu vou tentar.}
 {675}{}{I can't do that.}
 {676}{}{I don't think I can do that.}
 {677}{}{Arf!}

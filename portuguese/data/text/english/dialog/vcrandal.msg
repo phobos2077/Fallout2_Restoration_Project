@@ -109,7 +109,7 @@
 {208}{}{Got it. Thanks for the part.}
 {209}{}{Yeah, the First Citizen said you'd be stopping by... Captain. (Winks.) Let me tell you, Captain, you've got a BEAUTY waiting for you.}
 {210}{}{Yeah, the First Citizen said you'd be stopping by. Well, let me tell you, friend, you got a BEAUTY waiting for you.}
-{211}{}{What is it?}
+{211}{}{O que é?}
 {212}{}{Actually, keep it for me. I'll pick it up later.}
 {213}{}{Nothing less than a Heckler and Koch G11, one of the best assault weapons ever made...(hefts weapon, passes it to you)...fires a 4.7 mm caseless cartridge, 50-round magazine. When it talks, people listen.}
 {214}{}{I'll bet. Thanks.}

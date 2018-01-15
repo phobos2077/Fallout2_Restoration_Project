@@ -23,7 +23,7 @@
 {121}{}{Kid, y'got to do me a favor, first.}
 {122}{}{Okey!}
 {123}{}{Nuh uh!}
-{124}{}{What is it?}
+{124}{}{O que é?}
 {125}{}{Forget it.}
 {126}{}{I'm an old guy, an' I don't get out too much. Ain't got much chance for action, y'know what I mean? So what I want is a Cat's Paw magazine. Find me one.}
 {127}{}{'Ere! [Give Cat's Paw to Typhon.]}

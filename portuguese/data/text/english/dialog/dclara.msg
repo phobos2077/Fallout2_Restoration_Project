@@ -1,100 +1,103 @@
-{100}{}{You see Lara.}
-{150}{}{She's the leader of this gang.}
-{200}{}{The name's Lara; I run this gang. You better not be here to cause trouble or
- you're in for a world of hurt.}
-{201}{}{Hi again. Need something?}
-{202}{}{Got any work?}
-{203}{}{Just looking around.}
-{204}{}{I'm looking for a merchant named Vic.}
+{100}{}{Você vê Lara.}
+{150}{}{Ela é a líder da gangue.}
+{200}{}{O nome é Lara; Eu comando essa quadrilha. É melhor não estar aqui para causar problemas ou
+  Você está em um mundo de dor.}
+{201}{}{Oi novamente. Precisa de algo?}
+{202}{}{Tem algum trabalho?}
+{203}{}{Apenas olhando por aí.
+}
+{204}{}{Estou à procura de um comerciante chamado Vic.}
 {205}{}{Aruh.}
 {206}{}{Rara.}
-{220}{}{We don't have any doctors in town and I can't help you.}
-{221}{}{Sorry, I still don't understand.}
+{220}{}{Não temos médicos na cidade e eu não posso ajudar você.}
+{221}{}{Desculpe, eu ainda não entendo.}
 {222}{}{Ack.}
-{230}{}{The name doesn't ring a bell, but then again I don't keep track of who comes in and out of town. Check with Becky. Everyone ends up going through there. She might know.}
-{231}{}{Got any work?}
+{230}{}{O nome não toca um sino, mas, novamente, eu não acompanho quem entra e sai da cidade. Verifique com Becky. Todo mundo acaba passando por lá. Ela pode saber.}
+{231}{}{Tem algum trabalho?}
 {232}{}{Obrigado. Tchau.}
-{240}{}{If you didn't come to the Den for a specific reason you should probably leave. It's not very safe around here.}
+{240}{}{Se você não veio ao Den por uma razão específica, você provavelmente deveria sair. Não é muito seguro por aqui.}
 {241}{}{Ah, tudo bem.}
-{242}{}{Got any work?}
-{243}{}{I can handle myself.}
-{244}{}{Okay, thanks.}
-{250}{}{No doubt. Otherwise you probably wouldn't have made it here alive.}
-{251}{}{Uh, yes, so I heard. You said that already.}
-{252}{}{Got any work?}
-{253}{}{Okay, thanks.}
-{260}{}{Well it depends on what you're good at. There is something I'm curious about. If you can find out, I'll pay you a bit.}
-{261}{}{As I said, I'm looking for more information on a certain something... or someplace. I'll pay of course.}
-{262}{}{Sure what's that?}
-{263}{}{Maybe later.}
-{270}{}{Let me know if you change your mind.}
+{242}{}{Tem algum trabalho?}
+{243}{}{Eu me viro sozinho.
+}
+{244}{}{Ok, obrigado.}
+{250}{}{Sem dúvida. Caso contrário, você provavelmente não teria chegado aqui vivo.}
+{251}{}{Uh, sim, então eu ouvi. Você já disse isso.}
+{252}{}{Tem algum trabalho?}
+{253}{}{Ok, obrigado.}
+{260}{}{Bem, depende do que você é bom. Há algo sobre o que tenho curiosidade. Se você consegue descobrir, eu vou pagar um pouco.}
+{261}{}{Como eu disse, estou procurando mais informações sobre uma certa coisa ... ou em algum lugar. Vou pagar, é claro.}
+{262}{}{Claro, o que é isso?}
+{263}{}{Talvez mais tarde.}
+{270}{}{Deixe-me saber se você mudar de idéia.}
 {271}{}{Tudo certo.}
-{280}{}{Well, there's a church east of here. Metzger has some people guarding whatever
- is inside. Find out what and I'll pay you $200.}
-{281}{}{That was easy. I already know.}
+{280}{}{Bem, há uma igreja a leste daqui. Metzger tem algumas pessoas que guardam o que quer que seja
+  lá dentro. Descubra o que e eu pagarei $200.}
+{281}{}{Essa foi fácil. Eu já sei.}
 {282}{}{Com certeza.}
 {283}{}{Eu vou ver o que posso fazer.}
-{290}{}{Thanks. Don't get in a fight... yet. I have a plan.}
+{290}{}{Obrigado. Não entre em uma briga ... ainda. Eu tenho um plano.}
 {291}{}{Não há problema.}
-{292}{}{I'll be right back.}
-{300}{}{What's that?}
-{301}{}{Raw chemical compounds in large crates.}
-{302}{}{Big containers holding chemicals of some kind.}
-{303}{}{Let me check again.}
-{310}{}{That makes sense actually. Thanks. Here's your money.}
-{311}{}{Why is that?}
-{312}{}{No problem. Bye.}
-{320}{}{I've seen caravans from Vault City come in and then some of it gets picked up by caravans from New Reno.}
-{321}{}{So? Why does that make sense?}
+{292}{}{Eu vou estar de volta.}
+{300}{}{O que é isso?}
+{301}{}{Compostos químicos brutos em grandes caixotes.}
+{302}{}{Grandes recipientes com produtos químicos de qualquer tipo.}
+{303}{}{Deixe-me ver novamente.}
+{310}{}{Isso realmente faz sentido. Obrigado. Aqui está o seu dinheiro.}
+{311}{}{Por que isso?}
+{312}{}{Não há problema. Tchau.}
+{320}{}{Eu vi caravanas de Vault City entrar e, em seguida, alguns deles são apanhados pelas caravanas de New Reno.}
+{321}{}{Então? Por que isso faz sentido?}
 {322}{}{Oh.}
-{340}{}{New Reno is the chem capital around here. They have to get the raw materials to make their chems from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
-{341}{}{Where's New Reno?}
-{342}{}{Okay, thanks.}
-{350}{}{Not sure exactly. Somewhere to the south I think. I've never been there, I just see their caravans stop by once in a while - once in a long while.}
-{351}{}{Oh, okay. Thanks.}
-{360}{}{You looking for some more quick and easy cash? $50. Easy money.}
+{340}{}{O novo Reno é a capital dos químicos por aqui. Eles têm que obter as matérias-primas para fazer seus chems de algum lugar, certo? Parece que eles estão recebendo algum, ou tudo isso, de Vault City.}
+{341}{}{Onde está o Novo Reno?}
+{342}{}{Ok, obrigado.}
+{350}{}{Não tenho certeza exatamente. Algum lugar para o sul, eu acho. Eu nunca estive lá, eu só vejo suas caravanas parar de vez em quando - uma vez em um longo tempo.}
+{351}{}{Ah, tudo bem. Obrigado.}
+{360}{}{Você está procurando um dinheiro mais rápido e fácil? $ 50. Dinheiro fácil.}
 {361}{}{Com certeza.}
-{362}{}{Make it quick.}
-{370}{}{I need you to check with Metzger to see if he'd be okay if Tyler and I settled some old matters. He'll understand what I mean.}
-{371}{}{Why do you want me to ask?}
-{372}{}{If I get a chance.}
+{362}{}{Faça isso rápido.}
+{370}{}{Preciso que você cheque com Metzger para ver se ele ficaria bem se Tyler e eu resolvêssemos alguns assuntos antigos. Ele vai entender o que quero dizer.}
+{371}{}{Por que você quer que eu pergunte?}
+{372}{}{Se eu tiver uma chance.}
 {373}{}{Tudo bem.}
-{380}{}{Because I don't want Tyler to see any of my people going into or out of Metzger's place. I don't want to tip our hand.}
-{381}{}{Don't you get it? If Tyler sees me all of a sudden talking to Metzger he might catch wind of something fishy.}
-{382}{}{We'll see.}
+{380}{}{Porque eu não quero que Tyler veja qualquer um dos meus homens entrando ou saindo do lugar de Metzger. Eu não quero dar uma sugestão para o nosso lado.}
+{381}{}{Você não entendeu? Se Tyler me vê, de repente, conversando com Metzger, ele pode pegar vento de algo suspeito.}
+{382}{}{Nós vamos ver.}
 {383}{}{Tudo bem.}
-{390}{}{So did you find out what's in there?}
-{391}{}{Raw chemical compounds in large crates.}
-{392}{}{Big containers holding chemicals of some kind.}
+{390}{}{Então, você descobriu o que está lá?}
+{391}{}{Compostos químicos brutos em grandes caixotes.}
+{392}{}{Grandes recipientes com produtos químicos de qualquer tipo.}
 {393}{}{Ainda não.}
-{400}{}{So did you talk to him yet? What did he say?}
-{401}{}{He said yes. If you win, you can have their job, like before.}
-{402}{}{Na.}
-{410}{}{Great. I was hoping as much. I hear he's been complaining about them lately. Here's your money.}
-{411}{}{I assume there's something else now?}
+{400}{}{Então você falou com ele ainda? O que ele disse?}
+{401}{}{Ele disse que sim. Se você ganhar, você pode ter o seu trabalho, como antes.}
+{402}{}{Nd.}
+{410}{}{Ótimo. Eu estava esperando tanto. Eu ouvi dizer que ele está reclamando sobre eles ultimamente. Aqui está o seu dinheiro.}
+{411}{}{Eu suponho que há algo mais agora?}
 {412}{}{Obrigado. Tchau.}
-{420}{}{I have one more job for you. I'm not sure how you'll do it, but since you were able to get inside maybe they trust you.}
-{421}{}{I snuck inside.}
-{422}{}{What is it?}
-{430}{}{I'm sure you can figure something out.}
-{431}{}{Okay, what is it?}
-{440}{}{We can't take them at their present strength. They have extra funding
- and slightly outnumber us. If you can find some kind of weakness we could use
- to balance out the odds or something we can exploit...}
-{441}{}{Huh? Find a weakness? How am I supposed to do that?}
+{420}{}{Tenho mais um trabalho para você. Não tenho certeza de como você vai fazer isso, mas desde que você conseguiu entrar, talvez eles confiem em você.}
+{421}{}{Eu caio dentro.}
+{422}{}{O que é?}
+{430}{}{Tenho certeza que você pode descobrir alguma coisa.}
+{431}{}{Ok, o que é isso?}
+{440}{}{Não podemos derrotar-los com nossa força atual. Eles têm financiamento extra
+  e um pouco mais nos números. Se você puder encontrar algum tipo de fraqueza, podemos usar
+  para equilibrar as chances ou algo que possamos explorar ...}
+{441}{}{Hein? Encontrar um sinal de fraqueza? Como vou fazer isso?}
 {442}{}{Quanto?}
-{443}{}{Consider it done.}
-{450}{}{We'll give you $150. There's no way we can get close enough to find out by ourselves.}
-{451}{}{If I get around to it.}
+{443}{}{Considere-o feito.}
+{450}{}{Nós vamos dar-lhe $ 150. Não há como chegar perto o suficiente para descobrir por nós mesmos.}
+{451}{}{Se eu descobrir isso.}
 {452}{}{Tudo bem.}
-{460}{}{I don't know. That's why I'm asking you to help.}
-{461}{}{I'll try.}
-{462}{}{This is pointless.}
-{470}{}{Did you find anything?}
-{471}{}{Yes. They're having a party tonight.}
+{460}{}{Eu não sei. É por isso que eu estou pedindo que você ajude.}
+{461}{}{Eu vou tentar.}
+{462}{}{Isso não tem sentido.
+}
+{470}{}{Você achou alguma coisa?}
+{471}{}{Sim. Eles estão tendo uma festa esta noite.}
 {472}{}{Ainda não. Eu aviso você.}
 {473}{}{Gra.}
-{474}{}{Na.}
+{474}{}{Nd.}
 {480}{}{Excellent! They're sure to leave a skeleton crew. Those should be good
  odds. We'll take out those at the party after we hit the church.}
 {481}{}{And my money?}

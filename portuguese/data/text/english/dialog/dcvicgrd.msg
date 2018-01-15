@@ -41,13 +41,13 @@
 {295}{}{Oh, sure. I didn't mean you could see him, now that you're a slaver and all.}
 {296}{}{Oh, sure. I guess so. He's not busy and he's not going anywhere, so no harm I guess.}
 {297}{}{Well, could you open the door then?}
-{298}{}{Okay, thanks.}
+{298}{}{Ok, obrigado.}
 {305}{}{Of course. I didn't know you wanted to talk to him right now, sorry. I just thought you were curious or something.}
 {306}{}{Obrigado.}
 {310}{}{Huh? You just in the habit of walking around into places you don't know? This is the Slaver's Guild.}
 {311}{}{Oh, so that would make your boss's name…}
 {312}{}{Oh, that's where I am? I thought I was in Kansas.}
-{313}{}{Okay, thanks.}
+{313}{}{Ok, obrigado.}
 {320}{}{Where? No, never heard of it. This is the Den. Not sure about that place, but I don't get out much. Sorry.}
 {321}{}{Moron.}
 {322}{}{Uh, okay. Thanks.}

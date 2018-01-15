@@ -88,7 +88,7 @@
 {1002}{}{I got it.}
 {1003}{}{Glad to help.}
 {1004}{}{Tudo bem.}
-{1005}{}{I'll try.}
+{1005}{}{Eu vou tentar.}
 {1100}{}{If you have trouble, let me know.}
 {1101}{}{You got it?}
 {1102}{}{If that's what you want.}

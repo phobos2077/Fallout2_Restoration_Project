@@ -178,7 +178,7 @@
 {504}{}{A Hydroelectric Magnetosphere Regulator. That's the part that you need to get from
  Vault City. Then you need to bring it back here and get it installed in the reactor.}
 {505}{}{Get it installed in the reactor? How can I do that?}
-{506}{}{Oh, okay. Thanks.}
+{506}{}{Ah, tudo bem. Obrigado.}
 {510}{}{The reactor's optimization data has been recorded on the disk you have by Vault City's
  Central Computer. Now all you have to do is to bring the disk to that pompous windbag, Festus.
  Or I suppose that you could just use the disk on the reactor robot control terminal, if you can't

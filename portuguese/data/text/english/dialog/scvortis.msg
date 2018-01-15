@@ -68,7 +68,7 @@
 {167}{}{Oh yeah, I forgot.}
 {168}{}{Not since you did your job. Thanks.}
 {169}{}{Just a question or two.}
-{170}{}{No problem. Bye.}
+{170}{}{Não há problema. Tchau.}
 {171}{}{Good work. Now you best make yourself scarce, in case those Rangers ever wise up.}
 {172}{}{Pleasure doing business.}
 {173}{}{Well don't hang around here, you moron! Somebody'll get suspicious.}

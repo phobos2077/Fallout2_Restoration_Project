@@ -50,9 +50,10 @@
 {259}{}{Can I join the guild?}
 {260}{}{What can you tell me about your guild?}
 {261}{}{Eu gostaria de seguir uma corrida de escravos.}
-{262}{}{Never mind. Bye.}
+{262}{}{Deixa pra lá. Tchau.
+}
 {263}{}{ want to ill.}
-{264}{}{Na.}
+{264}{}{Nd.}
 {265}{}{I was looking over the slaves you got back there, but you see, I have very, uh...*selective* tastes, and none of
  them are quite what I'm looking for. Are these all the slaves you have to offer?}
 {270}{}{You think you can cut it? I don't take in just anyone... What the hell. If
@@ -144,7 +145,7 @@
 {430}{}{Look, I don't give a shit which of them guards it. Just as long as none of my goods are
  damaged, I don't care.}
 {431}{}{Another question, please.}
-{432}{}{Okay, thanks.}
+{432}{}{Ok, obrigado.}
 {440}{}{What the fuck are you asking me for? Do I look like some kind of fucking... oh,
  wait. You're probably looking for Vic?}
 {441}{}{He's the one that 'specializes' in vault technology, or so he says. He's my
@@ -163,7 +164,7 @@
 {458}{}{He still tried to screw me over.}
 {459}{}{Can I see him?}
 {460}{}{What kind of transmissions are you talking about?}
-{461}{}{Okay, thanks.}
+{461}{}{Ok, obrigado.}
 {462}{}{Maybe some money might help clear things up?}
 {463}{}{What kind transmissions were you talking about before?}
 {475}{}{What for? Ah, fuck, never mind. Just don't keep him from fixing that damn
@@ -188,7 +189,7 @@
 {521}{}{You had best stop teasing me, girly. I'm not much with patience.}
 {522}{}{Only if you're good to me.}
 {523}{}{Sure, why not.}
-{524}{}{Maybe later.}
+{524}{}{Talvez mais tarde.}
 {530}{}{Oh, you better believe it.}
 {531}{}{Good.}
 {540}{}{Here's $}

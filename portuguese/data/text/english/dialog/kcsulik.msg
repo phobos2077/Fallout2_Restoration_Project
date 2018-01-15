@@ -40,7 +40,7 @@
  you going to need it.}
 {151}{}{Por quê?}
 {152}{}{Who's Grampy Bone?}
-{153}{}{Can I ask you something else?}
+{153}{}{Posso pedir mais uma coisa?}
 {160}{slk6c}{Him got feeling about you. Grampy Bone one smart spirit.}
 {162}{}{What feeling?}
 {170}{slk6d}{Spirits be everywhere. Travel with we and I. Grampy Bone do most the talking.}

@@ -106,7 +106,7 @@
 {522}{}{Me neither. Thanks.}
 {540}{}{One of the boys used to sleep there a few years back. Maybe he knows something.}
 {541}{}{Who?}
-{542}{}{Probably not. Bye.}
+{542}{}{Provavelmente não. Tchau.}
 {560}{}{He used to come by and try to pawn stuff. Jewelry mostly. I remember
  a little gold locket he kept for himself.}
 {561}{}{Do you remember his name?}

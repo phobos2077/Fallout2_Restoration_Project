@@ -106,7 +106,7 @@
 {205}{}{Just so happens, I've got a map to Vault 13. It's only 1000 bucks. You interested?}
 {206}{}{Sure. I'll take it.}
 {207}{}{And I'll bet you've got a bridge to sell, too.}
-{208}{}{Maybe later.}
+{208}{}{Talvez mais tarde.}
 {209}{}{Is it some kind of chem out of New Reno? I've never heard of it.}
 {210}{}{Nope. I've got some more questions, though.}
 {211}{}{That's all I needed to know.}

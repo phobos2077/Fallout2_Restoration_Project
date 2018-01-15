@@ -268,7 +268,8 @@
 {440}{}{About a scientist from NCR...}
 {500}{}{You've got a lot of nerve showing your face here again.}
 {501}{}{Never mind. Could I ask you something?}
-{502}{}{Never mind. Bye.}
+{502}{}{Deixa pra lá. Tchau.
+}
 {600}{}{I don't feel so good, boss.}
 {601}{}{Don't do that.}
 {602}{}{Don't you think this place is a little creepy?}

@@ -47,7 +47,7 @@
  the vault, I found the Deathclaws were already here. Needless to say, I was in shock. However, I am
  convinced that they are not responsible for what happened to my fellow citizens. If, by chance, you
  want more information on this matter, you can seek out Goris in the library.}
-{140}{}{Okay, thanks.}
+{140}{}{Ok, obrigado.}
 {141}{}{Tudo bem, tchau.}
 {142}{}{I'll keep this in mind.}
 {143}{}{I don't need you telling me where to go or who to see.}

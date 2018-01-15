@@ -47,7 +47,7 @@
 {146}{}{Hell no. Your crazy cult deserves to be torched down to the ground.}
 {147}{}{::he smiles:: You won't regret this. You may have the run of the compound. Oh... you're a person who knows how to use a weapon. Would you care to use yours in the service of the Great Wheel?}
 {148}{}{Sim.}
-{149}{}{Maybe later.}
+{149}{}{Talvez mais tarde.}
 {150}{}{Do not wait too long before returning with a reply. Your neurodynes will be filled with more and more pollution until we can begin the cleansing process.}
 {151}{}{I changed my mind. I'll join.}
 {152}{}{You got it. Talk to you later.}
