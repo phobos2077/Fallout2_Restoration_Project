@@ -1,87 +1,93 @@
 {100}{}{Você vê um homem grande e de aparência primitiva.}
-{125}{}{He has cuts and bruises all over his body.}
-{150}{}{You see a slender, primitive woman.}
-{175}{}{She looks like she's been beaten.}
+{125}{}{Ele tem cortes e hematomas por todo o corpo.}
+{150}{}{Você vê uma mulher esbelta e primitiva.}
+{175}{}{Parece que ela foi espancada.}
 {200}{}{Você vê um homem de aparência irregular.}
-{225}{}{He doesn't look very healthy.}
-{250}{}{You see a woman captive.}
-{275}{}{She's filthy and seems to be malnourished.}
-{300}{}{No hurt, please!}
-{301}{}{We leave now?}
-{302}{}{No talk. Must run.}
-{303}{}{Thank you for help.}
-{304}{}{Thank you very much!}
-{305}{}{You are a saint.}
-{306}{}{What are you doing? We should go.}
-{307}{}{Please help us escape.}
-{320}{}{You bad!}
-{321}{}{We no talk you.}
-{322}{}{We get free.}
-{323}{}{You no keep us.}
-{324}{}{You slaver!}
-{325}{}{Why you slavers do this?}
-{326}{}{How could you work for these people?}
-{327}{}{We're not primitives!}
-{328}{}{Don't you have any morals?}
-{329}{}{What's going to happen to us?}
-{330}{}{What did we do wrong?}
-{331}{}{Leave us alone, slaver!}
+{225}{}{Ele não parece muito saudável.}
+{250}{}{Você vê uma mulher cativa.}
+{275}{}{Ela está suja e parece estar desnutrida.}
+{300}{}{Sem dor, por favor!}
+{301}{}{Partimos agora?}
+{302}{}{Não fale. Deve correr.}
+{303}{}{Obrigado pela ajuda.}
+{304}{}{Muito obrigado!}
+{305}{}{Você é um santo.}
+{306}{}{O que você está fazendo? Nós devemos ir.
+}
+{307}{}{Por favor, ajude-nos a escapar.}
+{320}{}{Você é mau!}
+{321}{}{Nós não conversamos com você.}
+{322}{}{Temos livre.}
+{323}{}{Você não nos mantém.}
+{324}{}{Seu escravista!}
+{325}{}{Por que você escravista faz isso?}
+{326}{}{Como você pode trabalhar para essas pessoas?}
+{327}{}{Nós não somos primitivos!}
+{328}{}{Você não tem moral?}
+{329}{}{O que vai acontecer com a gente?}
+{330}{}{O que fizemos de errado?}
+{331}{}{Deixe-nos em paz, escravista!}
 {332}{}{Não me machucar!}
 {333}{}{Fique longe de mim!}
 {350}{}{Quem é você?}
-{351}{}{You no slaver.}
-{352}{}{You no hurt?}
-{353}{}{Friend?}
-{354}{}{You help?}
-{355}{}{What's going to happen to us?}
-{356}{}{Were you captured too?}
-{357}{}{We're not primitives!}
-{358}{}{Who do these people think they are?}
-{359}{}{Please help us!}
-{360}{}{Get me out of here.}
-{380}{}{You no keep us here!}
-{381}{}{No right!}
-{382}{}{We no bad!}
-{383}{}{We help?}
-{384}{}{Free us!}
-{385}{}{No like.}
-{386}{}{Bad place.}
-{387}{}{Why bad people do this?}
-{388}{}{We no slave!}
-{389}{}{We do nothing wrong.}
-{390}{}{Let go!}
-{391}{}{What go on?}
-{392}{}{Big noise?}
-{393}{}{Who fight?}
-{394}{}{What happen?}
-{395}{}{Something happen?}
-{396}{}{Someone help us!}
-{397}{}{Hey! Can't anyone hear me?}
-{398}{}{This is wrong!}
-{399}{}{We didn't do anything!}
-{400}{}{Let us out of here!}
-{401}{}{Someone get us out!}
-{402}{}{What did we do?}
-{403}{}{We didn't do anything.}
-{404}{}{We don't deserve this.}
-{405}{}{Those bastards!}
-{406}{}{Help us!}
-{407}{}{Let me out!}
-{408}{}{We're not slaves!}
-{409}{}{We're not primitives! Let us out of here!}
-{410}{}{What's happening?}
-{411}{}{Is someone here to save us?}
-{412}{}{Over here!}
-{413}{}{Help! Don't leave us!}
-{414}{}{What was all that shooting?}
+{351}{}{Você não é escravista.}
+{352}{}{Você não se machucou?}
+{353}{}{Um amigo?}
+{354}{}{Você ajuda?}
+{355}{}{O que vai acontecer com a gente?}
+{356}{}{Foram capturados também?}
+{357}{}{Nós não somos primitivos!}
+{358}{}{Quem essas pessoas pensam que são?}
+{359}{}{Por favor, ajude-nos!}
+{360}{}{Tire-me daqui.
+}
+{380}{}{Você não nos manterá aqui!}
+{381}{}{Não há direito!}
+{382}{}{Não somos ruins!}
+{383}{}{Podemos ajudar?}
+{384}{}{Livre-nos!}
+{385}{}{Não gostei.}
+{386}{}{Mau lugar.}
+{387}{}{Por que pessoas más fazem isso?}
+{388}{}{Nós não escravos!}
+{389}{}{Nós não fizemos nada de errado.}
+{390}{}{Solte!
+}
+{391}{}{O que aconteceu?}
+{392}{}{Grande barulho?}
+{393}{}{Que luta?}
+{394}{}{O que aconteceu?}
+{395}{}{Algo aconteceu?
+}
+{396}{}{Alguém nos ajude!}
+{397}{}{Ei! Ninguém pode me ouvir?}
+{398}{}{Isso é errado!}
+{399}{}{Não fizemos nada!}
+{400}{}{Vamos sair daqui!}
+{401}{}{Alguém nos tire!}
+{402}{}{O que fizemos?}
+{403}{}{Não fizemos nada.}
+{404}{}{Nós não merecemos isso.}
+{405}{}{Aqueles bastardos!}
+{406}{}{Ajude-nos!}
+{407}{}{Deixe-me fora!}
+{408}{}{Nós não somos escravos!}
+{409}{}{Nós não somos primitivos! Vamos sair daqui!}
+{410}{}{O que está acontecendo?}
+{411}{}{É alguém aqui para nos salvar?}
+{412}{}{Por aqui!
+}
+{413}{}{Ajuda! Não nos deixe!}
+{414}{}{O que foi esse tiroteio?}
 {415}{}{O que está acontecendo?}
 {420}{}{Ahhh!}
 {421}{}{Ug!}
-{422}{}{Don't stop!}
+{422}{}{Não pare!}
 {423}{}{Sim!}
-{424}{}{I'm heading as far away from this place as possible.}
-{425}{}{Keep moving!}
-{426}{}{Freedom! Freedom at last!}
+{424}{}{Eu estou indo tão longe quanto possível deste lugar.}
+{425}{}{Continue andando!
+}
+{426}{}{Liberdade! Liberdade finalmente!}
 {440}{}{What loud gun noise? What you want?}
 {441}{}{Hey! What was all that gunfire? Are the slavers dead?}
 {442}{}{Hey! What was all that gunfire? What's going on?}

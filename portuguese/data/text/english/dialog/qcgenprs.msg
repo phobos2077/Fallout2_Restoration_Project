@@ -22,7 +22,7 @@
 {121}{}{Você já conversou com o Ancião?}
 {122}{}{The Elder's in the first cell. You should talk to her.}
 {123}{}{Talk to the Elder.}
-{124}{}{Free us!}
+{124}{}{Livre-nos!}
 {125}{}{Get us out of here.}
 {126}{}{I can't take these walls anymore.}
 {127}{}{I yearn to feel the wind on my face once more.}
@@ -42,14 +42,14 @@
 {141}{}{Shut off the power!}
 {142}{}{Free us.}
 {143}{}{Go, get us out of here!}
-{144}{}{Please help us!}
+{144}{}{Por favor, ajude-nos!}
 {145}{}{You're our only hope!}
 {146}{}{Please, I can't take this much longer.}
 {147}{}{I don't want any more medicine. No, no. Nooooooo!}
 {148}{}{Spirits protect us!}
 {149}{}{Where are the spirits when you need them?}
-{150}{}{Help us!}
-{151}{}{Free us!}
+{150}{}{Ajude-nos!}
+{151}{}{Livre-nos!}
 {152}{}{I want to go home.}
 {153}{}{First drought and now this.}
 {154}{}{No more needles, no more!}

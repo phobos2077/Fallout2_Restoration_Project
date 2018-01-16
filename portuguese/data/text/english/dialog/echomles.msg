@@ -2,7 +2,7 @@
 {101}{}{Give us food!}
 {102}{}{We're hungry!}
 {103}{}{Some money for those less fortunate.}
-{104}{}{Help us!}
+{104}{}{Ajude-nos!}
 {105}{}{Food!}
 {106}{}{Eu estou com tanta fome.}
 {107}{}{My children are starving.}

@@ -35,11 +35,11 @@
 }
 {354}{}{Corra disso, Marty!}
 {355}{}{Ahhh!}
-{356}{}{Stop the insanity!}
-{357}{}{We didn't do anything! Leave us alone!}
-{358}{}{I recognize that tattoo!}
-{359}{}{No, please!}
-{360}{}{Please don't kill me!}
-{361}{}{I won't fight; don't kill me!}
-{362}{}{Please, I don't want to die!}
-{363}{}{You're slavers aren't you? Oh god.}
+{356}{}{Pare a insanidade!}
+{357}{}{Não fizemos nada! Deixe-nos em paz!}
+{358}{}{Eu reconheço essa tatuagem!}
+{359}{}{Não, por favor!}
+{360}{}{Por favor, não me mate!}
+{361}{}{Eu não lutar; não me mate!}
+{362}{}{Por favor, eu não quero morrer!}
+{363}{}{Vocês são escravistas não são? Oh Deus.}

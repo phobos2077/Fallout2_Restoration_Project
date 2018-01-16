@@ -160,7 +160,7 @@
 {2202}{}{Sure thing, Boss.}
 {2203}{}{Ready to go when you are, Boss.}
 {2204}{}{Great! Let's go.}
-{2205}{}{Great!}
+{2205}{}{Grande!}
 {2206}{}{You're the best, Boss!}
 {2207}{}{You won't be disappointed. No more mistakes!}
 {2208}{}{I'll be careful this time, don't you worry!}

@@ -24,11 +24,11 @@
 {221}{}{Não machuque!}
 {222}{}{Nenhum mal!}
 {223}{}{Eu não lutar!}
-{230}{}{I recognize that tattoo!}
-{231}{}{No, please!}
-{232}{}{Please don't kill me!}
-{233}{}{I won't fight; don't kill me!}
-{234}{}{Please, I don't want to die!}
+{230}{}{Eu reconheço essa tatuagem!}
+{231}{}{Não, por favor!}
+{232}{}{Por favor, não me mate!}
+{233}{}{Eu não lutar; não me mate!}
+{234}{}{Por favor, eu não quero morrer!}
 {235}{}{You're slavers aren't you? Oh, god.}
 {245}{}{Silêncio! Eles perto.}
 {246}{}{Matar os homens maus.}
@@ -81,5 +81,5 @@
 {323}{}{Help someone! Please!}
 {324}{}{Corra disso, Marty!}
 {325}{}{Ahhh!}
-{326}{}{Stop the insanity!}
-{327}{}{We didn't do anything! Leave us alone!}
+{326}{}{Pare a insanidade!}
+{327}{}{Não fizemos nada! Deixe-nos em paz!}

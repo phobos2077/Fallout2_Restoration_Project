@@ -14,7 +14,7 @@
 {113}{}{Hey, you shouldn't kill anyone - especially kids.}
 {114}{}{I don't think I like you.}
 {115}{}{Hey, just let me know when you are going to go postal.}
-{116}{}{I have to go.}
+{116}{}{Eu tenho que ir.}
 {117}{}{Who the hell do you think you are - coming into this town?}
 {118}{}{Just leave before anyone gets hurt.}
 {119}{}{I don't like you.}

@@ -19,7 +19,7 @@
 {118}{}{No. Bye}
 {119}{}{You need something else?}
 {120}{}{Me buy!}
-{121}{}{No. Bye.}
+{121}{}{Não. Tchau.}
 {122}{}{I was looking for some weaponry.}
 {123}{}{Tell me about the place.}
 {124}{}{Forget it.}

@@ -37,7 +37,8 @@
 {136}{}{We was just having a bit of fun. Let us out.}
 {137}{}{What we was doin' weren't none of your business.}
 {138}{}{Get the hell out of here.}
-{139}{}{Get me out of here.}
+{139}{}{Tire-me daqui.
+}
 {140}{}{Hey, let me out.}
 {141}{}{I'm innocent.}
 {142}{}{I didn't do nothin'}
