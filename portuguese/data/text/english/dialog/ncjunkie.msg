@@ -289,7 +289,7 @@
 {578}{}{::Glares at you past chem-hazed eyes::}
 {600}{}{Nice...}
 {601}{}{Mmmm...}
-{602}{}{You're a pal.}
+{602}{}{Você é um amigo.}
 {603}{}{j}
 {604}{}{J}
 {605}{}{Give me a J... ummm...}

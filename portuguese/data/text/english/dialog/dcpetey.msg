@@ -25,50 +25,51 @@
 {173}{}{Eu faço questão de não dar dinheiro para mendigos.}
 {174}{}{Não.}
 {175}{}{Desculpe, eu não tenho nenhum dinheiro comigo.}
-{200}{}{Hey, man; give me some money?}
-{201}{}{Spare some change, kind sir?}
-{202}{}{Hey, can you help me with a few bucks?}
-{203}{}{Do you think you can help me out with coupla bucks?}
-{204}{}{Do you think you could lend me a few bucks?}
-{205}{}{Spare some change, kind lady?}
-{206}{}{Hey, lady; spare some money?}
-{220}{}{Please help me, sir.}
-{221}{}{Ahhh, it hurts.}
-{222}{}{I need help. It hurts bad.}
-{223}{}{Lady, can you get me some help?}
-{225}{}{I greatly appreciate that.}
+{200}{}{E aí cara; me dê algum dinheiro?
+}
+{201}{}{Poupe alguma mudança, senhor amável?}
+{202}{}{Ei, você pode me ajudar com alguns dólares?}
+{203}{}{Você acha que pode me ajudar com os dólares de esmola?}
+{204}{}{Você acha que você poderia me emprestar algum dinheiro?}
+{205}{}{De reposição de alguma mudança, gentil senhora?}
+{206}{}{Ei, senhora; não poupar algum dinheiro?}
+{220}{}{Por favor, ajude-me, senhor.}
+{221}{}{Ahhh, dói.}
+{222}{}{Eu preciso de ajuda. Dói ruim.}
+{223}{}{Senhora, pode me ajuda?}
+{225}{}{Aprecio muito isso.}
 {226}{}{Hey, o que você pensa que está fazendo?}
-{230}{}{Feels so good.}
+{230}{}{Uma sensação tão boa.}
 {231}{}{Uhhh...}
-{232}{}{[giggle]}
-{233}{}{Hey...}
-{234}{}{Niiicceee...}
+{232}{}{[risadinha]}
+{233}{}{Ei...}
+{234}{}{Booommm...}
 {235}{}{Oh yeah...}
-{300}{}{I can't believe someone fucking killed Tubby...}
-{301}{}{What the fuck happened to Tubby?}
-{302}{}{Ah, why did Tubby have to die.}
+{300}{}{Não posso acreditar que alguém tenha matado Tubby ...}
+{301}{}{O que diabos aconteceu com Tubby?}
+{302}{}{Ah, por que Tubby teve que morrer.}
 {303}{}{Ahhh...}
-{304}{}{Didn't like that asshole anyway.}
-{305}{}{Flick's dead...Crap.}
-{306}{}{What happened to Flick?}
-{307}{}{I miss Flick...}
-{310}{}{Hey Tubby, I..uhhh..need some help here.}
-{311}{}{HEY TUBBY!}
+{304}{}{Na verdade, não gostava desse idiota.}
+{305}{}{Flick morreu...uma Porcaria.}
+{306}{}{O que aconteceu para Flick?}
+{307}{}{Eu sinto falta de Flick...}
+{310}{}{Ei Tubby, I..uhhh..precisa de alguma ajuda aqui.}
+{311}{}{EI TUBBY!}
 {312}{}{Olá.}
 {313}{}{HEY!}
-{314}{}{Hey Flick, I..uhhh..need some help here.}
+{314}{}{Ei Flick, I..uhhh..precisa de alguma ajuda aqui.}
 {315}{}{HEY FLICK!}
-{320}{}{Hey Tubby, can you hook me up? I've got cash.}
-{321}{}{Ummm, Tubby, I've got some money.}
+{320}{}{Ei, Tubby, você pode me ligar? Eu tenho dinheiro.}
+{321}{}{Ummm, Tubby, eu tenho um pouco de dinheiro.}
 {322}{}{Uhhh...}
-{323}{}{I need a fix man.}
-{324}{}{Hey, Flick; can you hook me up? I've got cash.}
-{325}{}{Ummm, Flick, I've got some money.}
-{330}{}{Uhhh... Thanks again, Tubby.}
-{331}{}{You're a pal, Tubby.}
-{332}{}{I promise. I'm gonna kick tomorrow.}
-{333}{}{You're a pal.}
-{334}{}{Uhhh... Thanks again, Flick.}
-{335}{}{You're a pal, Flick.}
-{340}{}{Here. Now beat, you druggie.}
-{341}{}{Take it and get the hell out.}
+{323}{}{Eu preciso de uma correção cara.}
+{324}{}{Ei, Flick; você pode me ligar? Eu tenho dinheiro.}
+{325}{}{Ummm, Flick, eu tenho um pouco de dinheiro.}
+{330}{}{Uhhh... Obrigado mais uma vez, Tubby.}
+{331}{}{Você é um amigo, Tubby.}
+{332}{}{Eu prometo. Eu vou chutar o amanhã.}
+{333}{}{Você é um amigo.}
+{334}{}{Uhhh ... Obrigado novamente, Flick.}
+{335}{}{Você é um amigo, Flick.}
+{340}{}{Aqui. Agora bata, seu drogado.}
+{341}{}{Pegue e saia.}

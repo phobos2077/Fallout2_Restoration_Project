@@ -1,17 +1,18 @@
 {100}{}{Você vê um guarda.}
-{101}{}{You see a guard for Becky's Casino Bar.}
-{150}{}{He seems to be keeping a close eye on this door.}
-{200}{}{You're not getting off that easy.}
-{210}{}{This is to Rebecca's room. No one's allowed in.}
-{211}{}{Hope you're enjoying yourself.}
-{212}{}{You looking for Becky? She's right there.}
+{101}{}{Você vê um guarda do Becky's Casino Bar.}
+{150}{}{Ele parece estar de olho na porta.}
+{200}{}{Você não vai sair tão fácil.}
+{210}{}{Isto é para o quarto de Rebecca. Ninguém é permitido.}
+{211}{}{Espero que você esteja se divertindo.}
+{212}{}{Você está procurando por Becky? Ela está ali mesmo.}
 {213}{}{Olá.}
-{214}{}{Enjoy the tables.}
-{215}{}{Becky's got the cheapest drinks in town.}
-{230}{}{Get away from that right now.}
-{231}{}{Don't touch that again.}
-{232}{}{Back off!}
-{233}{}{Leave that alone.}
+{214}{}{Desfrute das mesas.}
+{215}{}{Becky tem as bebidas mais baratas da cidade.}
+{230}{}{Afaste-se disso agora mesmo.}
+{231}{}{Não toque nisso novamente.}
+{232}{}{Recuar!
+}
+{233}{}{Deixe isso sozinho.}
 {234}{}{O que você pensa que está fazendo?}
 {240}{}{Thief!}
 {250}{}{We don't tolerate that here.}

@@ -1,4 +1,4 @@
-{100}{}{You see a prostitute.}
+{100}{}{Você vê uma prostituta.}
 {150}{}{This is your usual, run of the mill, prostitute.}
 {152}{}{[FALAR]}
 {153}{}{Hey, I don’t do chicks!}

@@ -1,4 +1,4 @@
-{100}{}{You see a prostitute.}
+{100}{}{Você vê uma prostituta.}
 {150}{}{You see a...lady of the evening. Her tattered clothes are draped seductively around her body.}
 {151}{}{You see a prostitute. She winks at you.}
 {152}{}{You see a prostitute. Her eyes are like blown fuses.}
