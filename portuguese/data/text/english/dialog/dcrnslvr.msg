@@ -1,17 +1,17 @@
-{100}{}{You see a tough, middle aged slaver.}
-{101}{}{You see slaver with a large scar on his face.}
+{100}{}{Você vê uma dura escravista de meia-idade.}
+{101}{}{Você vê um escravista, com uma grande cicatriz em seu rosto.}
 {102}{}{Você vê um escravista bastante grande.}
 {150}{}{Há um escravista que parece aproveitar o trabalho dele.}
-{151}{}{This slaver seems to be very strong but not to bright.}
-{152}{}{This slaver seems to be well-armed, like the others.}
-{225}{}{Let's get em.}
-{226}{}{Only kill the hostile ones.}
-{227}{}{Lead the way; we're right behind you.}
-{228}{}{Only take out the hostile ones- the others are our pay.}
-{229}{}{I'm ready to split some heads.}
-{230}{}{Where they at? You see em?}
-{235}{}{It's not time to leave yet.}
-{236}{}{Get the last of the hostile ones.}
+{151}{}{Este escravista parece ser muito forte, mas não brilhante.}
+{152}{}{Este escravista parece estar bem armados, como os outros.}
+{225}{}{Vamos pegar eles.}
+{226}{}{Só matar os hostis.}
+{227}{}{Lidere o caminho; estamos logo atrás de você.}
+{228}{}{Apenas tire os hostis - os outros são nossos salários.}
+{229}{}{Estou pronto para dividir algumas cabeças.}
+{230}{}{Onde eles estão? Você os vê?}
+{235}{}{Não é hora de partir ainda.}
+{236}{}{Pegue o último dos hostis.}
 {237}{}{Leave the unarmed ones alone. Get the others.}
 {238}{}{There's still some more bloodshed waiting for us.}
 {245}{}{That was a horrible run.}

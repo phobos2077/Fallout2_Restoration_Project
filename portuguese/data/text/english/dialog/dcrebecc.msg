@@ -162,37 +162,37 @@ depois de sua viagem através dos resíduos.}
 {501}{}{Obrigado, tchau.}
 {510}{}{Você não ouviu! Ele está morto! Oh, eu sei que não deveria estar feliz, mas ele era um
   homem maligno.}
-{511}{}{He sure put up a good fight.}
-{512}{}{I have a question.}
-{513}{}{Yes, he was. Goodbye.}
-{514}{}{ kill!}
-{520}{}{What? You? I... don't know what to say. He was such an evil man...}
-{521}{}{A thank you would be enough.}
+{511}{}{Ele certamente fez uma boa luta.}
+{512}{}{Eu tenho uma pergunta.}
+{513}{}{Sim, ele foi. Adeus.}
+{514}{}{ matar!}
+{520}{}{O que? Você? Eu... não sei o que dizer. Ele era um homem mau...}
+{521}{}{Um obrigado seria o suficiente.}
 {522}{}{Humph.}
-{530}{}{Oh, a thank you would be enough. I know this isn't right but... here, take this
- money. [Becky gives you 1000 dollars]}
-{531}{}{Keep your money, Rebecca.}
+{530}{}{Ah, um obrigado seria o suficiente. Eu sei que isto não é certo, mas... aqui, pegue esta
+dinheiro. [Becky dá 1000 dólares]}
+{531}{}{Mantenha seu dinheiro, Rebecca.}
 {532}{}{Muito obrigado.}
-{533}{}{Tank!}
-{534}{}{Ug! Perdy lady.}
-{540}{}{You are wonderful man. Even though I don't condone your actions. You did the
- world a great service.}
-{541}{}{You are wonderful woman. Even though I don't condone your actions. You did the
- world a great service.}
+{533}{}{Brigado!}
+{534}{}{Ug! Perdy senhora.}
+{540}{}{Você é um homem maravilhoso. Embora eu não tolere suas ações. Você fez ao
+  mundo um ótimo serviço.}
+{541}{}{Você é mulher maravilhosa. Apesar de eu não toleram as suas ações. Você fez ao mundo um grande serviço.}
 {542}{}{Obrigado.}
-{550}{}{You are not welcome here. Please leave.}
+{550}{}{Você não é bem vindo aqui. Por favor saia.
+}
 {551}{}{Por favor saia.
 }
-{560}{}{Why did you destroy my still? What did I ever do to you?}
-{561}{}{I was paid to do it.}
-{562}{}{I don't have to answer to anyone.}
-{563}{}{I don't know what you're talking about.}
+{560}{}{Por que você destruiu meu alambique? O que eu fiz para você?}
+{561}{}{Fui pago para fazer isso.}
+{562}{}{Eu não tenho que responder a ninguém.}
+{563}{}{Eu não sei o que você está falando.}
 {564}{}{Seja o que for.}
 {565}{}{Ooba gooba.}
-{570}{}{Oh really? That sleaze Frankie put you up to it, I'm sure of it. I'll just
- make another one, you know.}
-{571}{}{Doesn't matter. I got paid.}
-{572}{}{So.}
-{573}{}{I wouldn't be surprised.}
-{580}{}{So, you're a coward too? Figures.}
+{570}{}{Sério? Aquele Frankie mal-humorado colocou você no assunto, tenho certeza disso. Eu vou apenas
+  fazer outro, você sabe.}
+{571}{}{Não importa. Eu fui pago.}
+{572}{}{Assim.}
+{573}{}{Eu não ficaria surpreso.}
+{580}{}{Então, você é um covarde também? Figuras.}
 {581}{}{...}

@@ -1,16 +1,16 @@
 {100}{}{Você vê um guarda.}
 {101}{}{Você vê um guarda do Becky's Casino Bar.}
-{150}{}{He seems to be eyeing the crowd for thieves.}
-{151}{}{She seems to be keeping a close eye on everyone in the room.}
-{200}{}{Now you'll get it.}
-{201}{}{You're not getting away this time.}
-{210}{}{Sorry, Becky doesn't want us disturbing the customers.}
+{150}{}{Ele parece estar olhando a multidão para ladrões.}
+{151}{}{Ela parece estar atenta a todos na sala.}
+{200}{}{Agora você vai buscar.}
+{201}{}{Você não está fugindo desta vez.}
+{210}{}{Desculpe, Becky não quer incomodar os clientes.}
 {211}{}{Espero que você esteja se divertindo.}
-{212}{}{Rest assured, we have a zero tolerance policy for thievery.}
-{213}{}{You're safe inside these walls.}
-{214}{}{Rebecca has the best drinks.}
-{215}{}{Rebecca's the best boss I've ever had.}
-{216}{}{You feeling lucky tonight? Blackjack's my game.}
-{217}{}{Becky's right over there, if you need anything.}
-{218}{}{Rebecca's tables are honest, so try your luck.}
+{212}{}{Tenha certeza, temos uma política de tolerância zero para o roubo.}
+{213}{}{Você está segura dentro destas paredes.}
+{214}{}{Rebecca tem as melhores bebidas.}
+{215}{}{Rebecca é a melhor chefe que já tive.}
+{216}{}{Você está com sorte hoje? Blackjack é o meu jogo.}
+{217}{}{Becky está logo ali, se precisar de alguma coisa.}
+{218}{}{As mesas de Rebecca são honestas, então tente sua sorte.}
 {230}{}{Nós não toleramos isso aqui.}
