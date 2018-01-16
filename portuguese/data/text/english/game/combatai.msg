@@ -3452,7 +3452,7 @@
 {44901}{}{I'm leaving!}
 {44902}{}{Retreat!}
 {44903}{}{Fall back!}
-{44904}{}{I'm out of here!}
+{44904}{}{Eu estou fora daqui!}
 {44905}{}{Feet don't fail me now!}
 {44906}{}{Out of the way, I'm moving out!}
 {44907}{}{I'm not retreating, this is a strategic withdrawal.}

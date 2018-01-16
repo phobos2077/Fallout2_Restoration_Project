@@ -1,22 +1,22 @@
 {100}{}{Você vê um escravista.}
-{150}{}{He seems to be one of Metzger's personal guards.}
+{150}{}{Ele parece ser um dos guardas pessoais de Metzger.}
 {200}{}{Aí está você.}
-{201}{}{Now you die.}
-{300}{}{You want to see the boss? Go right in.}
-{301}{}{Metzger's the man to talk to, not me.}
-{302}{}{Go on in.}
-{303}{}{Behave yourself.}
-{304}{}{Metzger's right through this door.}
-{305}{}{Don't piss Metzger off.}
-{306}{}{We're not selling if that's what you're here for.}
-{307}{}{Still can't get used to a woman slaver.}
-{308}{}{Nice to have you with us.}
-{309}{}{Hi. How's it going?}
-{310}{}{You club any slaves yet?}
-{311}{}{Hi again.}
-{312}{}{Going to go on another run?}
-{313}{}{Things are pretty calm.}
-{314}{}{When am I going to see some action?}
-{315}{}{I miss going on slave runs. Guarding sucks.}
-{316}{}{Slave runs are a blast.}
-{317}{}{Hey, man, glad to have you with us.}
+{201}{}{Agora você morre.}
+{300}{}{Você quer ver o patrão? Vá para a direita.}
+{301}{}{Metzger é o homem com quem falar, não eu.}
+{302}{}{Vá em frente.}
+{303}{}{Comportar-se.}
+{304}{}{Metzger direita por esta porta.}
+{305}{}{Não deixe Metzger irritado.}
+{306}{}{Não estamos vendendo se é por isso que você está aqui.}
+{307}{}{Ainda não consigo me acostumar a uma mulher escravista.}
+{308}{}{É bom ter você com a gente.}
+{309}{}{Olá. Como vai?}
+{310}{}{Você ainda abre qualquer escravo?}
+{311}{}{Oi novamente.}
+{312}{}{Indo para outra corrida?}
+{313}{}{As coisas estão bastante calmas.}
+{314}{}{Quando eu vou ver alguma ação?}
+{315}{}{Eu sinto falta de corridas de escravos. Guardando é uma merda.}
+{316}{}{As corridas de escravos são uma explosão.}
+{317}{}{Ei, cara, prazer em tê-lo conosco.}

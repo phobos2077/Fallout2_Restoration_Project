@@ -2,21 +2,21 @@
 {101}{}{This slaver looks like one mean dude.}
 {102}{}{This slaver looks like one mean chick.}
 {200}{}{Aí está você.}
-{201}{}{Now you die.}
+{201}{}{Agora você morre.}
 {202}{}{Shit, Rangers! Time to kick ass.}
 {300}{}{You lost or something?}
 {301}{}{Don is the one in charge. Talk to him.}
 {302}{}{This is private property. No loitering.}
 {303}{}{You don't see too many women slavers.}
-{304}{}{Nice to have you with us.}
-{305}{}{Hi. How's it going?}
-{306}{}{You club any slaves yet?}
-{307}{}{Hi again.}
+{304}{}{É bom ter você com a gente.}
+{305}{}{Olá. Como vai?}
+{306}{}{Você ainda abre qualquer escravo?}
+{307}{}{Oi novamente.}
 {308}{}{Heading out on another run?}
-{309}{}{Things are pretty calm.}
+{309}{}{As coisas estão bastante calmas.}
 {310}{}{When am I gonna see some action?}
 {311}{}{Bagging slaves always brings a smile to my face.}
-{312}{}{Slave runs are a blast.}
+{312}{}{As corridas de escravos são uma explosão.}
 {313}{}{Hey, glad to have you with us.}
 {400}{}{Hold it right there. Where the hell do you think you're going?}
 {401}{}{Metzger sent me. I need to speak with whoever is in charge here.}

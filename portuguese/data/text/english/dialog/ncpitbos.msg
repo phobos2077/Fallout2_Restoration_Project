@@ -39,7 +39,7 @@
 {287}{}{Who's that old guy at the slot machine?}
 {288}{}{That comic you got on stage is weak. Mind if I try?}
 {289}{}{Do you need a dancer for the night? I'm open for a limited engagement.}
-{290}{}{Thanks, I will.}
+{290}{}{Obrigado, eu vou.}
 {291}{}{Nothing, thanks. Sorry to bother you.}
 {292}{}{Just checking on things. Carry on.}
 {295}{}{No droids.}
@@ -82,7 +82,7 @@
 {348}{}{Who's that old guy at the slot machine?}
 {349}{}{That comic you got on stage is weak. Mind if I try?}
 {350}{}{Do you need a dancer for the night? I'm open for a limited engagement.}
-{351}{}{Thanks, I will.}
+{351}{}{Obrigado, eu vou.}
 {352}{}{Nothing, thanks. Sorry to bother you.}
 {353}{}{Just checking on things. Carry on.}
 {355}{}{The }

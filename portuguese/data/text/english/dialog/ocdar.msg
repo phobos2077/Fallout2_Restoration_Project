@@ -3,7 +3,7 @@
 {102}{}{You see a typical Deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
  claws.}
 {103}{}{Hello, human.}
-{104}{}{What you want?}
+{104}{}{O que você quer?}
 {105}{}{Hi. Who you?}
 {106}{}{Why you here?}
 {107}{}{You smart like rest?}

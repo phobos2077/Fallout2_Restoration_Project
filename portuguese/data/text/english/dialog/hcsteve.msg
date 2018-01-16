@@ -60,7 +60,7 @@
 {147}{}{Eu tenho mais perguntas.}
 {148}{}{Adeus.}
 {149}{}{Oh. You again.}
-{150}{}{Hi again.}
+{150}{}{Oi novamente.}
 {151}{}{Welcome back.}
 {152}{}{You want to know more?}
 {153}{}{What's new here?}

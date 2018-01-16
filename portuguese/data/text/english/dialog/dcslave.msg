@@ -89,59 +89,61 @@
 }
 {426}{}{Liberdade! Liberdade finalmente!}
 {440}{}{What loud gun noise? What you want?}
-{441}{}{Hey! What was all that gunfire? Are the slavers dead?}
-{442}{}{Hey! What was all that gunfire? What's going on?}
-{443}{}{That was Metzger's nightcap.}
-{444}{}{Oh, nothing. Just checking up on you. Bye.}
-{445}{}{You are free to go. Metzger's dead.}
-{446}{}{You free.}
-{447}{}{ friend. He kill Mezgur. You go now.}
-{448}{}{ friend. She kill Mezgur. You go now.}
-{460}{}{He dead? Me thank you! We leave fast. Bye. You friend.}
-{461}{}{What? Metzger's dead? Oh, thank you so much! We better leave before others show up. Thank you again.}
-{462}{}{You're welcome. Now get out of here.}
-{463}{}{Take care.}
+{441}{}{Ei! O que foi todo esse tiroteio? Os escravistas estão mortos?}
+{442}{}{Ei! O que foi todo esse tiroteio? O que está acontecendo?}
+{443}{}{Essa foi a touca de Metzger.}
+{444}{}{Oh, nada. Apenas de olho em você. Tchau.}
+{445}{}{Você está livre para ir. Metzger está morto.}
+{446}{}{Você livre.
+}
+{447}{}{amigos. Ele mata Mezgur. Você vai agora.}
+{448}{}{amigo. Ela mata Mezgur. Você vai agora.}
+{460}{}{Ele morto? Eu, obrigado! Nós deixamos rápido. Tchau. Seu amigo.}
+{461}{}{O que? Metzger está morto? Oh, muito obrigado! É melhor deixar antes que outros apareçam. Obrigado novamente.}
+{462}{}{Você é bem-vindo. Agora saia daqui.}
+{463}{}{Se cuida.}
 {464}{}{Você é bem-vindo.}
-{470}{}{Wait, one more thing. I'm looking for someone specific and I don't see her here. Do you know where other slaves might be held?}
-{471}{}{Big camp near here. (The tribal points south west) Two moons from here.}
-{472}{}{There's a camp about two days travel south west from here. That's where I was first at.}
-{473}{}{Thank you. Now get out of here.}
-{474}{}{Thank you. Take care then.}
-{475}{}{Wait. I look for someone. Where more slaves?}
-{476}{}{Thankee. Go now!}
-{480}{}{What you want?}
+{470}{}{Espere, mais uma coisa. Estou procurando alguém específico e não a vejo aqui. Você sabe onde outros escravos podem ser mantidos?}
+{471}{}{Grande acampamento perto daqui. (Os tribais apontam a sudoeste) Duas luas daqui.}
+{472}{}{Há um acampamento cerca de dois dias de viagem a sudoeste a partir daqui. Foi lá que eu era o primeiro.}
+{473}{}{Obrigado. Agora saia daqui.}
+{474}{}{Obrigado. Tome cuidado então.}
+{475}{}{Esperar. Procuro por alguém. Onde mais escravos?}
+{476}{}{Brigado. Vá agora!}
+{480}{}{O que você quer?}
 {481}{}{O que você quer?}
-{482}{}{Oh, nothing.}
+{482}{}{Oh, nada.}
 {500}{}{Hein?}
-{501}{}{Never mind. You're free to go. Metzger's dead.}
-{510}{}{Wha? Free? Bad men gone? We go now! Thank you. You friend! Bye!}
-{511}{}{Free? What? You killed them all? Thank you so much! We'd better leave while we still can. Thank you again, you're a saint!}
-{520}{}{Damn you!}
-{521}{}{Rot in hell!}
-{522}{}{You'll pay for this.}
-{523}{}{Why are you even talking to me?}
+{501}{}{Deixa pra lá. Você está livre para ir. Metzger está morto.}
+{510}{}{Wha? Livre? Homens maus foram? Nós vamos agora! Obrigado. Seu amigo! Tchau!}
+{511}{}{Livre? O que? Você matou todos eles? Muito obrigado! É melhor sair enquanto ainda podemos. Obrigado novamente, você é um santo!}
+{520}{}{Maldito!
+}
+{521}{}{Apodrecer no inferno!}
+{522}{}{Você vai pagar por isso.}
+{523}{}{Por que você está falando comigo mesmo?}
 {524}{}{Deixe-me sozinho.}
-{525}{}{I don't want to talk to you.}
-{526}{}{How could you?!}
-{527}{}{I don't ever want to see you again.}
-{528}{}{This isn't going to change things.}
-{529}{}{I'll be on my way, if you don't mind.}
-{530}{}{Please, just let me leave.}
-{531}{}{Just let me be on my way.}
-{532}{}{I still don't want to talk to you.}
+{525}{}{Eu não quero falar com você.}
+{526}{}{Como você pôde?!}
+{527}{}{Eu não quero nunca mais ver você de novo.}
+{528}{}{Isso não vai mudar as coisas.}
+{529}{}{Eu irei no caminho, se você não se importar.}
+{530}{}{Por favor, só me deixe.}
+{531}{}{Apenas deixe-me estar a caminho.}
+{532}{}{Eu ainda não quero falar com você.}
 {533}{}{Deixe-me sozinho.}
-{534}{}{No chance.}
-{535}{}{You think this makes things better?}
-{600}{}{We go?}
-{601}{}{No hurt?}
-{602}{}{Go!}
-{603}{}{Home!}
-{604}{}{Free?}
+{534}{}{Nenhuma chance.}
+{535}{}{Você acha que isso faz as coisas melhor?}
+{600}{}{Estamos indo?}
+{601}{}{Não se machucou?}
+{602}{}{Vai!}
+{603}{}{Em casa!}
+{604}{}{Livre?}
 {605}{}{Hein?}
 {606}{}{O que?}
-{607}{}{Did you say free?}
-{608}{}{I'm out of here!}
-{609}{}{Let's go!}
-{610}{}{Everyone! We're free!}
+{607}{}{Você quis dizer livre?}
+{608}{}{Eu estou fora daqui!}
+{609}{}{Vamos lá!}
+{610}{}{A todos!!! Estamos livres!}
 {611}{}{Yaaahooo!}
-{700}{}{You free the slaves from their pens.}
+{700}{}{Você liberta os escravos de suas penas.}

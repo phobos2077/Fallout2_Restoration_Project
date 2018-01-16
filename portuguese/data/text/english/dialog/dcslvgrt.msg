@@ -1,67 +1,67 @@
 {100}{}{Você vê um escravista.}
-{150}{}{He looks like he could easily take care of himself in a fight.}
-{200}{}{Ah, fresh meat.... Welcome ta the slaver's guild. The name's Aidan. Ya here on
- business? Ya better be.}
-{201}{}{What exactly does your guild do?}
+{150}{}{Parece que ele poderia facilmente cuidar de si mesmo em uma briga.}
+{200}{}{Ah, carne fresca ... Bem-vindo à guilda dos escravistas. O nome é Aidan. Já aqui
+  a negócio? Você é melhor.}
+{201}{}{O que exatamente faz a tua guilda?}
 {202}{}{Slaver's guild?}
-{203}{}{Save guld?}
-{204}{}{Aruk kun sung?}
-{215}{}{[Aidan looks you up and down.] Well, ya look like you'd fit right in, buddy, but you'll
- have ta talk ta Metzger, of course. Right though that back door.}
-{216}{}{[Aidan looks you up and down.] You don't look like ya could stomach it, pal, but who
- am I ta judge? Ya gotta talk ta Metzger. He's through the back door.}
-{217}{}{I said ta talk ta Metzger. You fucking deaf and dumb or just dumb?}
+{203}{}{Salvar guld?}
+{204}{}{Aruk kun cantou?}
+{215}{}{[Aidan olha você para cima e para baixo.] Bem, parece que você entraria bem, amigo, mas você vai
+  ter uma conversa com Metzger, é claro. Mesmo assim, a porta de traz. }
+{216}{}{[Aidan olha você para cima e para baixo.] Você não parece que poderia estragar, amigo, mas quem
+  Sou um juiz? Você deve falar com Metzger. Ele atravessa a porta dos fundos.}
+{217}{}{Eu disse falar com Metzger. Você é surdo, burro ou simplesmente idiota?}
 {218}{}{Quem é o Metzger?}
-{219}{}{Another question for you then.}
-{220}{}{Thanks, I will.}
+{219}{}{Outra pergunta para você, então.}
+{220}{}{Obrigado, eu vou.}
 {221}{}{Medger}
-{222}{}{Uh… kay.}
-{230}{}{Now you die.}
-{240}{}{Ya gotta be shittin' me! We capture and sell slaves. That's what yer here for, right?
- Ya looking for some action?}
-{241}{}{Ya gotta be shittin' me! We capture and sell slaves. If ya ain't here for that, whatta
- want?}
-{242}{}{So, ya joined up. This should be interesting. If you like action, yer in the right line of work. If ya don't, ya won't last long.}
-{243}{}{I never thought I would see that tat on a woman. It looks good though. Surprised Metzger... fuck it. So what do ya need?}
-{244}{}{What do ya want? Ya lost or somethin'?}
-{245}{}{Hello again. li'l lady. Whatcha need?}
+{222}{}{Uh... kay.}
+{230}{}{Agora você morre.}
+{240}{}{Tem que me fazer uma merda! Nós capturamos e vendemos escravos. Isso é por que você está aqui, certo?
+  Você está procurando alguma ação?}
+{241}{}{Tem que me fazer uma merda! Nós capturamos e vendemos escravos. Se você não está aqui para isso, o que?
+  quer?}
+{242}{}{Então, você se juntou. Isso deve ser interessante. Se você gosta de ação, você está na linha de trabalho correta. Se você não, você não durará muito.}
+{243}{}{Nunca pensei em ver aquela tatuagem em uma mulher. Parece bem, no entanto. Surpreendeu Metzger ... foda-se. Então, o que você precisa?}
+{244}{}{O que você quer? Você perdeu alguma coisa?}
+{245}{}{Olá de novo. senhora. O que você precisa?}
 {246}{}{O que?}
-{247}{}{I'm looking to join.}
-{248}{}{Where do you get your slaves?}
-{249}{}{I'd like to buy some slaves.}
-{250}{}{Do you know a man named Vic?}
-{251}{}{I'm looking for a Merchant.}
-{252}{}{You ever heard of Vault 13?}
+{247}{}{Estou procurando me juntar.}
+{248}{}{De onde você tira seus escravos?}
+{249}{}{Eu gostaria de comprar alguns escravos.}
+{250}{}{Você conhece um homem chamado Vic?}
+{251}{}{Estou à procura de um comerciante.}
+{252}{}{Você já ouviu falar do Vault 13?}
 {253}{}{Adeus.}
-{254}{}{Work.}
+{254}{}{Trabalho.}
 {255}{}{Comida.}
-{256}{}{Kill.}
+{256}{}{Matar.}
 {257}{}{Ug.}
-{270}{}{Ah, a bloodthirsty one. Well... Talk to the boss. We might have a place for ya. Go through the back door.}
-{271}{}{Metzger's never had a bitch slaver, but if you're really that bloodthirsty, check with him. He's right through that door.}
+{270}{}{Ah, um sanguinário. Bem ... Fale com o chefe. Podemos ter um lugar para você. Atravesse a porta dos fundos.}
+{271}{}{Metzger nunca teve uma puta escravista, mas se você é realmente tão sanguinária, verifique com ele. Ele atravessa essa porta.}
 {272}{}{Okke.}
 {273}{}{Uh.}
 {274}{}{Krook}
-{280}{}{Talk ta Metzger about that. He doesn't normally sell to the public. Has his hands full with... bigger customers.}
+{280}{}{Converse com Metzger sobre isso. Ele normalmente não vende ao público. Tem as mãos cheias com ... clientes maiores.}
 {281}{}{Quem é o Metzger?}
-{282}{}{Can I ask something else then?}
+{282}{}{Posso pedir outra coisa?}
 {283}{}{Tudo bem, tchau.}
-{284}{}{What about Vic?}
-{290}{}{Ya don't say. Beat it!}
-{291}{}{Dumb bitch.}
+{284}{}{E quanto ao Vic?}
+{290}{}{Você não diz. Cai fora!}
+{291}{}{Puta idiota.}
 {292}{}{Oook?}
 {293}{}{Hmph.}
-{300}{}{Not likely. That dumbass Vic pissed Metzger off about some radio or something. I doubt that he'd sell'm. You'll have to talk ta him yourself.}
-{301}{}{Well, I hear he finally fixed the radio. You should ask Metzger. He's not much use now, not very good trade quality.}
+{300}{}{Não é provável. Aquele idiota Vic irritou Metzger com algum rádio ou algo assim. Eu duvido que ele o venda. Você terá que falar com ele mesmo.}
+{301}{}{Bem, eu ouvi dizer que ele finalmente corrigiu o rádio. Você deve perguntar ao Metzger. Ele não usa muito agora, não é uma boa qualidade comercial.}
 {302}{}{Quem é o Metzger?}
-{303}{}{Where's Metzger at?}
+{303}{}{Onde está Metzger?}
 {304}{}{Ok, obrigado. Tchau.}
-{310}{}{He's in the back room right through the door over there.}
-{311}{}{You playing with me? He's right back there. Just go through that door.}
+{310}{}{Ele está na parte de trás da porta por aí.}
+{311}{}{Você está brincando comigo? Ele está bem lá. Apenas atravesse essa porta.}
 {312}{}{Tudo bem.}
 {313}{}{Obrigado.}
-{320}{}{Damn, you don't know Metzger? What're ya doin' in this town, if not ta see him? He's the head of the Slaver's Guild.}
-{321}{}{How many times do I have to tell ya? He's the slave master. He runs things in this town.}
+{320}{}{Porra, você não conhece Metzger? O que você está fazendo nesta cidade, se não o vê? Ele é o chefe do Slaver's Guild.}
+{321}{}{Quantas vezes eu tenho que te dizer? Ele é o mestre escravista. Ele dirige coisas nesta cidade.}
 {322}{}{Posso pedir mais uma coisa?}
 {323}{}{Ok, obrigado.}
 {330}{}{I ain't talkin' about that. Metzger'll string me up. Plus, we wouldn't want any outside competition.}
@@ -89,9 +89,9 @@
 {382}{}{I said ta talk ta Metzger.}
 {383}{}{Quem é o Metzger?}
 {384}{}{Another question.}
-{385}{}{Thanks, I will.}
+{385}{}{Obrigado, eu vou.}
 {386}{}{Medger}
-{387}{}{Uh… kay.}
+{387}{}{Uh... kay.}
 {400}{}{Nope, but I'd check with the boss. He's probably been all over the fuckin' place.}
 {401}{}{Another question.}
 {402}{}{Ok, obrigado. Tchau.}
@@ -106,7 +106,7 @@
 {431}{}{Run, it's a slaver! Ah, I crack m'self up.}
 {432}{}{Back for some action?}
 {433}{}{You know the way.}
-{434}{}{Go on in.}
+{434}{}{Vá em frente.}
 {435}{}{He's wait'n for ya.}
 {436}{}{E agora?}
 {437}{}{I know that ugly face.}
