@@ -61,7 +61,7 @@
 {390}{}{You ready to take me with you?}
 {391}{}{Vamos lá.}
 {392}{}{Não, ainda não.}
-{400}{}{Need something?}
+{400}{}{Precisa de algo?}
 {401}{}{How can the Cat be of service?}
 {402}{}{Sim?}
 {410}{}{O que você precisa saber?}

@@ -45,7 +45,7 @@
 {144}{}{Hmmm.. Well, the wife will want a new fur.}
 {145}{}{Hmmm.. You're gonna have to contribute more.}
 {146}{}{Ah, a little short on funds these days?}
-{147}{}{I guess so.}
+{147}{}{- Acho que sim.}
 {148}{}{Come on now, don't be cheap.}
 {149}{}{You're getting warmer.}
 {150}{}{Look, I'm going to need a little more incentive.}

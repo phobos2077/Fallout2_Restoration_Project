@@ -3,7 +3,7 @@
 {102}{}{You see a middle-aged woman whose scowl has eroded her face. She looks like one of those
  people who takes a perverse pleasure in a hard life.}
 {103}{}{Hi. I'm Liz. What do you want?}
-{104}{}{Now what?}
+{104}{}{E agora?}
 {105}{}{Nggg! Nnnnnng!}
 {106}{}{Me nget ssssstUFF!}
 {107}{}{I'd like to buy something.}

@@ -13,4 +13,4 @@
 {216}{}{You feeling lucky tonight? Blackjack's my game.}
 {217}{}{Becky's right over there, if you need anything.}
 {218}{}{Rebecca's tables are honest, so try your luck.}
-{230}{}{We don't tolerate that here.}
+{230}{}{Nós não toleramos isso aqui.}

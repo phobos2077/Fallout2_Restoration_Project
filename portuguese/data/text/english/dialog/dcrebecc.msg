@@ -1,91 +1,92 @@
-{100}{}{You see a very attractive young lady.}
+{100}{}{Você vê uma jovem dama muito atraente.}
 {101}{}{Você vê Rebecca.}
-{150}{}{You see Rebecca, the owner of Becky's Casino Bar.}
-{200}{}{Hi there, I'm Rebecca. Can I get you something to drink? I'm sure you're thirsty
- after your trip through the wastes.}
-{201}{}{Hey! You want a drink or did you just come back to say hi?}
-{202}{}{Hi! Glad you came back. Any questions or are you here for some fine whiskey?}
-{203}{}{Really glad to see you. What's up? Need something?}
-{204}{}{Hope everything's going well for my favorite customer! What can we do for you today?}
-{205}{}{Hello!}
-{206}{}{Always nice to see you again.}
-{207}{}{Hi! You care for a drink? Finest whiskey in the land!}
-{208}{}{Hi there!}
-{209}{}{It's you! I thought so. How about a drink, my honey?}
-{210}{}{You back for some of Rebecca's great entertainment or the world famous whiskey?}
-{211}{}{Welcome back to Rebecca's Bar and Casino. How can I help you?}
-{212}{}{Hello. How can we help you?}
-{213}{}{Something for you today? How about a drink?}
-{214}{}{Would you care for a drink today, or perhaps something else?}
-{215}{}{How can I be of service?}
-{216}{}{Greetings. What can we get you?}
-{217}{}{Need something?}
-{218}{}{Nice to see you again. How can I help you today?}
+{150}{}{Você vê Rebecca, dona do Becky's Casino Bar.}
+{200}{}{Olá, eu sou a Rebecca. Posso arranjar-lhe alguma coisa para beber? Tenho certeza de que você está com sede
+depois de sua viagem através dos resíduos.}
+{201}{}{Hey! Você quer uma bebida ou acabou de voltar para dizer oi?}
+{202}{}{Oi! Feliz por você ter voltado. Qualquer dúvida ou você está aqui para algum whisky fino?}
+{203}{}{Muito feliz por vê-lo. Estás bem? Precisa de algo?}
+{204}{}{Espero que tudo esteja indo bem para o meu cliente favorito! O que podemos fazer por você hoje?}
+{205}{}{Olá!}
+{206}{}{Sempre bom ver você novamente.}
+{207}{}{Oi! Você se gostaria de uma bebida? O uísque mais fino da terra!}
+{208}{}{ Olá!}
+{209}{}{É você! Eu pensei assim. Que tal uma bebida, meu querido?}
+{210}{}{Você volta para o grande entretenimento da Rebecca ou o whisky mundialmente famoso?}
+{211}{}{Bem-vindo de volta para Rebecca Bar e Cassino. Como posso ajudá-lo?}
+{212}{}{Olá. Como podemos ajudar?}
+{213}{}{Algo para você hoje? Que tal uma bebida?}
+{214}{}{Gostaria de tomar uma bebida hoje, ou talvez algo mais?}
+{215}{}{Como posso ser útil?}
+{216}{}{Saudações. O que podemos tirar de você?}
+{217}{}{Precisa de algo?}
+{218}{}{Bom ver você de novo. Como posso ajudá-lo hoje?}
 {219}{}{O que?}
 {220}{}{Sim?}
-{221}{}{Now what?}
-{222}{}{Please keep it short. It's a busy day. What do you need?}
-{223}{}{What can I do for you? I'm really busy.}
-{224}{}{You here for a drink? The tables are over there.}
-{225}{}{I'm really not in the mood. What now?}
-{226}{}{You're back already? I guess you want a drink then?}
-{240}{}{Sure, handsome.}
+{221}{}{E agora?}
+{222}{}{Por favor mantenha-o curto. É um dia ocupado. O que você precisa?}
+{223}{}{O que eu posso fazer por você? Eu estou realmente ocupada.}
+{224}{}{Você está aqui para tomar uma bebida? As mesas estão por aí.}
+{225}{}{Eu realmente não estou com vontade. E agora?}
+{226}{}{Você já está de volta? Eu acho que você quer uma bebida então?}
+{240}{}{Com certeza, bonito.}
 {241}{}{O que você gostaria de saber?}
-{242}{}{I'd be happy to.}
-{243}{}{But of course.}
+{242}{}{Eu ficaria feliz.}
+{243}{}{Mas é claro.}
 {244}{}{Com certeza.}
-{245}{}{I don't mind.}
-{246}{}{I'll help if I can.}
-{247}{}{Of course, don't be silly.}
-{248}{}{Anything. Now what was it?}
-{249}{}{I'll do my best to help you out. What did you need to know?}
-{250}{}{Ask away.}
-{251}{}{If you insist.}
-{252}{}{I guess so.}
-{253}{}{Let's keep it short. I have a business to run.}
-{254}{}{Well, okay. What is it?}
-{255}{}{I suppose.}
+{245}{}{Eu não me importo.}
+{246}{}{Eu vou te ajudar se eu puder.}
+{247}{}{Claro, não seja bobo.}
+{248}{}{Qualquer coisa. Agora, o que era?}
+{249}{}{Eu vou fazer o meu melhor para ajudá-lo. O que você precisa saber?}
+{250}{}{Pergunte a distância.}
+{251}{}{Se você insiste.
+}
+{252}{}{- Acho que sim.}
+{253}{}{Vamos ser curtos. Eu tenho um negócio para correr.}
+{254}{}{Bem, bem. O que é?}
+{255}{}{Eu suponho.}
 {256}{}{O que?}
 {257}{}{Não, desculpe.}
-{258}{}{Not right now.}
-{270}{}{I need a drink.}
-{271}{}{I'm looking for a merchant who sells Vault equipment.}
+{258}{}{Não agora.}
+{270}{}{Eu preciso de uma bebida.}
+{271}{}{Estou à procura de um comerciante que venda equipamentos de Vault.}
 {272}{}{Estou à procura de um comerciante chamado Vic.}
-{273}{}{Do you have any work?}
-{274}{}{About that job...}
-{275}{}{Any more work for me?}
+{273}{}{Você tem algum trabalho?}
+{274}{}{Sobre esse trabalho...}
+{275}{}{Mais trabalho para mim?}
 {276}{}{Nada. Tchau.}
 {277}{}{Wekee.}
 {278}{}{Ruh ruh?}
-{279}{}{Iho shasha.}
+{279}{}{Ohi shasha.}
 {280}{}{dy.}
 {281}{}{Ruh ruh?}
-{300}{}{Whiskey is my specialty. It's almost a tradition in the Dyer family. I charge the
- low, low price of only $5.}
-{301}{}{Drinks are still $5, and the Dyer family makes the best darn drinks in the whole world.}
-{302}{}{You okay? You want whiskey? Only $5.}
-{303}{}{I'll take a drink.}
+{300}{}{Whiskey é minha especialidade. É quase uma tradição na família Dyer. Eu cobro o
+  preço baixo e baixo de apenas $ 5.}
+{301}{}{As bebidas ainda são de $5, e a família Dyer faz as melhores bebidas malditas em todo o mundo.}
+{302}{}{Você está bem? Você quer whisky? Apenas $5.}
+{303}{}{Eu vou tomar uma bebida.}
 {304}{}{Por que suas bebidas são tão baratas?}
-{305}{}{Dyer?}
+{305}{}{Tintureiro?}
 {306}{}{Posso fazer uma pergunta?}
 {307}{}{Adeus.}
 {308}{}{Wekee}
 {309}{}{Urka.}
-{320}{}{Oh, that's the family name. The name Dyer has been in the bar business for a
- long time - prewar times, of course.}
-{321}{}{As I said, it's my family name. There used to be Dyer pubs, saloons or something,
- all over the world.}
-{322}{}{I'll take a drink.}
-{323}{}{Can I ask another question?}
+{320}{}{Ah, esse é o nome da família. O nome Dyer esteve no negócio do bar por
+  muito tempo - tempos de pré-guerra, é claro.}
+{321}{}{Como eu disse, é o meu nome de família. Costumava haver pubs Dyer, salões ou algo assim,
+  No mundo todo.}
+{322}{}{Eu vou tomar uma bebida.}
+{323}{}{Posso fazer outra pergunta?}
 {324}{}{Adeus.}
-{330}{}{Well, since you're such a good customer, I'll let you in on a little secret.
- It's simple really - I have a still. A friend from a nearby town taught me how to
- make one. So, would you like another one?}
+{330}{}{Bem, já que você é um bom cliente, eu vou deixar você entrar em um pequeno segredo.
+  É realmente simples - eu tenho um alambique. Um amigo de uma cidade próxima me ensinou como
+  faz um. Então, você gostaria de outro?}
 {331}{}{Sorry, it's a trade secret. Plus, I don't really know you that well. I wouldn't
  want Frankie finding out. He's enough trouble as it is. Did you still want one? They
  really hit the spot.}
 {332}{}{Sure. I'll have one.}
-{333}{}{Can I ask another question?}
+{333}{}{Posso fazer outra pergunta?}
 {334}{}{Ok, obrigado.}
 {340}{}{There you are. Thank you very much.}
 {341}{}{Thanks. Can I ask you a question?}

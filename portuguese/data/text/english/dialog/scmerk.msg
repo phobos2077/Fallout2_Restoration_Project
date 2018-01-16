@@ -93,7 +93,7 @@
 {192}{}{How dare you speak against the true belief!}
 {193}{}{Sorry, I don't get involved in religious wars.}
 {194}{}{Well, I am a learned man. What's your question?}
-{195}{}{Ask away.}
+{195}{}{Pergunte a distância.}
 {196}{}{I'm looking for Vault 13.}
 {197}{}{Ever hear of a GECK?}
 {198}{}{What do you know about some outfit called the Rangers?}

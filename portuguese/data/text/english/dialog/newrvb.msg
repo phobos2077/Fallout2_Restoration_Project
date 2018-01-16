@@ -43,7 +43,7 @@
  budge. As you try to think of a way out, you hear the armored soldiers board the Vertibird, which then takes off with
  you trapped inside!]}
 {451}{}{Uh-oh}
-{452}{}{Oh, shit...}
+{452}{}{Oh, merda...}
 {500}{}{These crates are filled with heavy metal canisters. Judging from the care packing
  them, you suspect that they contain some sort of hazardous chemicals.}
 {550}{}{Now's probably not the best time to be striking up conversation.}

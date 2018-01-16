@@ -14,22 +14,22 @@
 }
 {233}{}{Deixe isso sozinho.}
 {234}{}{O que você pensa que está fazendo?}
-{240}{}{Thief!}
-{250}{}{We don't tolerate that here.}
-{300}{}{Baby, you up for something after work?}
-{301}{}{You're looking fine, as always.}
-{302}{}{You really know how to run the table, baby.}
-{303}{}{Hey honey, can you pick up those dice again? I love the way you move.}
-{304}{}{Hey. How's it going, sweetness?}
-{305}{}{So... you and me... after work?}
-{306}{}{Becky might give me tomorrow off if you're... available.}
-{307}{}{I ever tell you what beautiful eyes you have?}
-{350}{}{You ignoring me again. Two can play that game.}
-{351}{}{What? You still pissed at me?}
-{352}{}{You're, uh, doing a good job... continue with your work...}
-{353}{}{What? You ignoring me again?}
-{354}{}{You're busy... I understand. We'll chat later.}
-{355}{}{Man, you sure know how to play hard to get.}
-{356}{}{I'll... uh, talk to you later then.}
-{357}{}{Nice talking to you too... I'll just be heading back over there then.}
-{375}{}{Oh, shit...}
+{240}{}{Ladrão!}
+{250}{}{Nós não toleramos isso aqui.}
+{300}{}{Baby, você está fazendo algo depois do trabalho?}
+{301}{}{Você está bem, como sempre.}
+{302}{}{Você realmente sabe como correr a mesa, baby.}
+{303}{}{Ei mel, você pode pegar os dados de novo? Eu amo o jeito que você se move.}
+{304}{}{Olá. Como vai, doçura?}
+{305}{}{Então... você e eu... depois do trabalho?}
+{306}{}{Becky pode me dar amanhã se você estiver... disponível.}
+{307}{}{Eu já te disse o que olhos bonitos você tem?}
+{350}{}{Você me ignorando novamente. Dois podem jogar esse jogo.}
+{351}{}{O que? Você ainda está chateado comigo?}
+{352}{}{Você, uh, fazendo um bom trabalho... continue com seu trabalho...}
+{353}{}{O que? Você me ignorando novamente?}
+{354}{}{Você está ocupado... eu entendo. Vamos conversar mais tarde.}
+{355}{}{Cara, você sabe como jogar duro para conseguir.}
+{356}{}{Eu vou... uh, falo com você mais tarde, então.}
+{357}{}{Bom falar com você também... vou voltar mais lá, então.}
+{375}{}{Oh, merda...}

@@ -99,7 +99,7 @@
 {411}{}{Yeah, Vic… that Merchant guy, right? The one that sells the old Vault stuff. He's fucked. Metzger pretty pissed with'm.}
 {412}{}{How many times you gonna ask me that? Metzger's got'm.}
 {413}{}{Quem é o Metzger?}
-{414}{}{Can I ask another question?}
+{414}{}{Posso fazer outra pergunta?}
 {415}{}{Is he for sale?}
 {416}{}{Ok, obrigado.}
 {430}{}{Hey, boys, look who's back.}
@@ -108,7 +108,7 @@
 {433}{}{You know the way.}
 {434}{}{Go on in.}
 {435}{}{He's wait'n for ya.}
-{436}{}{Now what?}
+{436}{}{E agora?}
 {437}{}{I know that ugly face.}
 {438}{}{How's it goin'?}
 {439}{}{Yer back. Ya gonna join up?}
