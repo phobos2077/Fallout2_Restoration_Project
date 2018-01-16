@@ -180,7 +180,7 @@
 {446}{}{Hey. I was just thinking about you.}
 {450}{}{You sure took your time doing whatever it is you were doing without me.}
 {451}{}{Good to be on the road again.}
-{452}{}{Where to?}
+{452}{}{Para onde?}
 {453}{}{So, where are we headed?}
 {454}{}{Lead the way, skipper.}
 {460}{}{You've got enough people already. You don't need an entourage.}

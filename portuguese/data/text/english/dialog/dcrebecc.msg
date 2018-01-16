@@ -82,82 +82,83 @@ depois de sua viagem através dos resíduos.}
 {330}{}{Bem, já que você é um bom cliente, eu vou deixar você entrar em um pequeno segredo.
   É realmente simples - eu tenho um alambique. Um amigo de uma cidade próxima me ensinou como
   faz um. Então, você gostaria de outro?}
-{331}{}{Sorry, it's a trade secret. Plus, I don't really know you that well. I wouldn't
- want Frankie finding out. He's enough trouble as it is. Did you still want one? They
- really hit the spot.}
-{332}{}{Sure. I'll have one.}
+{331}{}{Desculpe, é um segredo comercial. Além disso, eu realmente não conheço você tão bem. Eu não gostaria
+  que Frankie descobrisse. Ele é bem difícil. Você ainda quer um? Eles
+  realmente atingiriam o local.}
+{332}{}{Com certeza. Eu vou ter um.}
 {333}{}{Posso fazer outra pergunta?}
 {334}{}{Ok, obrigado.}
-{340}{}{There you are. Thank you very much.}
-{341}{}{Thanks. Can I ask you a question?}
+{340}{}{Aí está você. Muito obrigado.}
+{341}{}{Obrigado. Posso fazer uma pergunta?}
 {342}{}{Ok, obrigado.}
 {343}{}{Thankey youey.}
 {344}{}{Asky?}
-{350}{}{Sorry. I don't think so.}
-{351}{}{Fred owes me $200. If you can collect it somehow, we'll work something out.}
-{352}{}{I still have that debt I need collected.}
-{353}{}{Derek borrowed a book of mine a while back. I'll pay $80 if you can get it
- back for me.}
-{354}{}{I'm still looking for that book of mine.}
-{355}{}{What's the catch?}
-{356}{}{Tell me more.}
+{350}{}{Desculpe. Eu não penso assim.}
+{351}{}{Fred me deve $ 200. Se você puder coletá-lo de alguma forma, vamos resolver algo.}
+{352}{}{Ainda tenho essa dívida que eu preciso coletar.}
+{353}{}{Derek emprestou um livro meu há um tempo atrás. Eu pagarei $ 80 se você puder obtê-lo
+  de volta para mim.}
+{354}{}{Ainda estou procurando esse meu livro.}
+{355}{}{Qual é o truque?}
+{356}{}{Conte-me mais.}
 {357}{}{Posso fazer uma pergunta?}
 {358}{}{Adeus.}
-{370}{}{Catch? Oh, well, if you knew Fred you'd understand. He's owed me the money
- for quite a long time. I'd written it off as a loss, but if you can get it back, I'd be
- amazed... and grateful. He's somewhere in town, I'm sure.}
-{371}{}{The book was The Lavender Flower. Derek should be over around Mom's on the east side.}
+{370}{}{Truque? Oh, bem, se você conhecesse o Fred, você entenderia. Ele me devia o dinheiro
+  por muito tempo. Eu escrevi isso como uma perda, mas se você conseguir recuperá-lo, eu seria
+  impressionada... e agradecida. Ele está em algum lugar da cidade, tenho certeza.}
+{371}{}{O livro era The Lavender Flower. Derek deveria estar em torno da Mamãe no lado leste.}
 {372}{}{Eu vou ver o que posso fazer.}
-{373}{}{Sure sounds easy.}
-{374}{}{I already found it.}
-{375}{}{I'll have to get back to you.}
-{385}{}{You didn't really get it did you? I'd be amazed.}
-{386}{}{Oh, did you find my book? Derek better not have messed it up.}
-{387}{}{Yes, I did.}
-{388}{}{I'm sorry. He's dead.}
-{389}{}{Sorry, but Derek's also dead.}
-{390}{}{I'm sorry, but he's dead.}
-{391}{}{Yes. Here it is.}
+{373}{}{Com certeza, parece fácil.}
+{374}{}{Eu já encontrei.}
+{375}{}{Eu vou ter de voltar para você.}
+{385}{}{Você realmente não conseguiu? Eu ficaria impressionada.}
+{386}{}{Ah, você encontrou meu livro? Derek melhor não ter esganado.}
+{387}{}{Sim, eu fiz.}
+{388}{}{Sinto muito. Ele está morto.}
+{389}{}{Desculpe, mas Derek também está morto.}
+{390}{}{Me desculpe, mas ele está morto.}
+{391}{}{Sim. Aqui está ele.}
 {392}{}{Não, desculpe.}
-{400}{}{I can't believe it. How did you do it? Oh, never mind. I'm just stunned,
- that's all. To show my appreciation, I'll split it with you, right down the
- middle. Thank you again, that was very honest of you.}
-{401}{}{Oh, I'm so glad you were able to find it… Thank you very much. Here's your money.}
+{400}{}{Não posso acreditar nisso. Como você fez isso? Oh, não importa. Estou atordoada,
+  Isso é tudo. Para mostrar minha apreciação, vou dividi-lo com você, logo meio a
+  meio. Obrigado novamente, isso foi muito honesto de você.}
+{401}{}{Oh, estou tão feliz que você conseguiu encontrá-lo ... Muito obrigado. Aqui está o seu dinheiro.}
 {402}{}{Você é bem-vindo.}
-{410}{}{I can't believe they are both dead. I'm sorry. Thank you for finding out for
- me. If you'll excuse me...}
-{411}{}{I can't believe he's dead... after all these years.}
+{410}{}{Não posso acreditar que eles estão mortos. Eu sinto Muito. Obrigado por descobrir por
+  mim. Se você me desculpar ...}
+{411}{}{Eu não posso acreditar que ele está morto... depois de todos esses anos.}
 {412}{}{Com certeza.}
 {413}{}{...}
-{420}{}{Yeah, I know who that is. That's Vic - the guy Metzger has locked up.}
-{421}{}{Yeah, I know Vic. Metzger's got him locked up. I'm not sure why though.}
+{420}{}{Sim, eu sei quem é esse. É o Vic - o cara que Metzger encerrou.}
+{421}{}{Sim, eu conheço Vic. Metzger o colocou trancado. Ainda não sei por que.}
 {422}{}{Quem é o Metzger?}
 {423}{}{Eu tenho outra pergunta.}
-{424}{}{Great! Bye.}
-{430}{}{You came to the Den and you don't know who Metzger is? He's the slave master.
- He's on the east side of town. Hard to miss.}
+{424}{}{Grande! Tchau.}
+{430}{}{Você veio ao Den e você não sabe quem é Metzger? Ele é o mestre escravista.
+  Ele está no lado leste da cidade. Difícil de perder.}
 {431}{}{Eu tenho outra pergunta.}
 {432}{}{Obrigado.}
-{440}{}{Murderer!}
-{441}{}{Childkiller!}
-{442}{}{Please leave.}
-{443}{}{I won't deal with the likes of you.}
-{444}{}{I'm not going down without a fight!}
-{450}{}{Buffy! It's you! How are you? It's been a long time!}
+{440}{}{Assassino!}
+{441}{}{Infanticida!}
+{442}{}{Por favor saia.
+}
+{443}{}{Eu não sei lidar com gente como você.}
+{444}{}{Eu não vou descer sem uma briga!}
+{450}{}{Buffy! É você! Como você está? Faz muito tempo!}
 {451}{}{Hein?}
 {452}{}{Hein?}
-{460}{}{Dave sends his best and wishes he could be here to say hi, but he had to run off.}
-{461}{}{Where to?}
-{470}{}{Something about a commando... or that he was going after a commando. Not sure
- exactly. Something like that.}
+{460}{}{Dave envia o seu melhor e deseja que ele possa estar aqui para dizer oi, mas ele teve que fugir.}
+{461}{}{Para onde?}
+{470}{}{Algo sobre um comando ... ou que ele estava indo atrás de um comando. Não tenho certeza
+  exatamente. Algo parecido.}
 {471}{}{Oh.}
-{480}{}{Oh, he said to give you this. It's a present from the Hendee family. It should
- help you out some.}
+{480}{}{Ah, ele disse para lhe dar isso. É um presente da família Hendee. Deveria
+  ajudá-lo em alguns.}
 {481}{}{O que é?}
-{490}{}{Oh, just a few trinkets. Here you go. [Becky hands you $1000, 5 Stimpaks,
- Metal Armor, an Uzi, 5 clips of ammo, a Plasma Grenade, and a flower]}
+{490}{}{Ah, apenas algumas bugigangas. Aqui está. [Becky lhe entrega $ 1000, 5 Stimpaks,
+  Metal Armor, um Uzi, 5 clipes de munição, uma Granada de Plasma e uma flor]}
 {491}{}{Obrigado!}
-{500}{}{No problem. I was just holding them for you. Well, I better get back to work.}
+{500}{}{Não há problema. Eu estava apenas mantendo-los para você. Bem, é melhor eu voltar ao trabalho.}
 {501}{}{Obrigado, tchau.}
 {510}{}{Didn't you hear! He's dead! Oh, I know I shouldn't be happy, but he was a very
  evil man.}
@@ -180,7 +181,8 @@ depois de sua viagem através dos resíduos.}
  world a great service.}
 {542}{}{Obrigado.}
 {550}{}{You are not welcome here. Please leave.}
-{551}{}{Please leave.}
+{551}{}{Por favor saia.
+}
 {560}{}{Why did you destroy my still? What did I ever do to you?}
 {561}{}{I was paid to do it.}
 {562}{}{I don't have to answer to anyone.}

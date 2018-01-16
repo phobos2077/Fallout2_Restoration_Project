@@ -37,7 +37,7 @@
 {135}{}{I ain't done yet, kid! Sheesh! Can't an old ghoul have his privacy?}
 {136}{}{[FEITO]}
 {137}{}{What kind o' treasure? Money, kid, lots and lots of money. Enough to satisfy any sane person.}
-{138}{}{What's the catch?}
+{138}{}{Qual é o truque?}
 {139}{}{I don't need money.}
 {140}{}{You're back, eh? You want to know about that treasure, kid?}
 {141}{}{'Es!}

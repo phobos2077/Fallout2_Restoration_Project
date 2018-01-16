@@ -99,7 +99,7 @@
 {290}{}{The golden ones are sneaky and twice as vicious as the regular ones. Plus, once they bite you
  they'll hold on and gnaw through to the bone. And that's not even counting their poison. But their
  hides look real nice, and so they're worth a lot more. }
-{291}{}{Tell me more.}
+{291}{}{Conte-me mais.}
 {300}{}{One real good trapper, name of Smiley, went north looking for wherever they come from. He was
  convinced that they all came from one place. Thing is, nobody's heard from him for a couple months now.}
 {301}{}{What do you think happened to him?}

@@ -32,7 +32,7 @@
 {153}{}{A human named Jacob – I was named after him – founded this place. The mutant Marcus came along
  and forced everyone under his rule. }
 {154}{}{That's enough. You're crazy. Goodbye.}
-{155}{}{Tell me more.}
+{155}{}{Conte-me mais.}
 {156}{}{Maybe if I tell you the real history, you'll change your mind.}
 {157}{}{Okay. Tell me.}
 {158}{}{No, I'm not really interested.}
