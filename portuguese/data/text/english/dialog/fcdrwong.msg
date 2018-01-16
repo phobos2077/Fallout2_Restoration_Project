@@ -75,7 +75,7 @@
 {207}{}{[The man looks like he is about to yell, then calms down.] Fine. Here is $500. More than enough for something
  that always belonged to us. Now leave, I'm a busy man.}
 {208}{}{Pleasure doing business with you. Bye.}
-{209}{}{Oh, shit!}
+{209}{}{Oh, merda!}
 {210}{}{Let's dance!}
 {211}{}{You recover the missing Xeno Program specimen.}
 {220}{}{So where is it then? Are you trying to play games with me?}

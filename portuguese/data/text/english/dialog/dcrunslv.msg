@@ -1,38 +1,39 @@
-{100}{}{You see a big, primitive-looking man.}
-{101}{}{You see a slender primitive woman.}
-{200}{}{You see a strange-looking man.}
-{201}{}{You see a ragged-looking man.}
-{202}{}{You see a man in tattered clothing.}
-{210}{}{You see a very grimy woman.}
-{211}{}{You see a rather dirty woman.}
-{212}{}{You see a scrawny looking woman.}
-{270}{}{They no find me.}
-{271}{}{Must hide. Must hide.}
-{272}{}{Why they want hurt?}
-{273}{}{Me scared.}
-{274}{}{Me no fight.}
-{275}{}{Me want live.}
-{276}{}{No hurt family.}
-{280}{}{Oh, shit!}
-{281}{}{Why are they doing this?}
-{282}{}{What about my family?}
-{283}{}{I don't want to die.}
-{284}{}{I don't want to be a slave.}
-{285}{}{I deserve better than this.}
+{100}{}{Você vê um homem grande e de aparência primitiva.}
+{101}{}{Você vê uma mulher primitiva delgada.}
+{200}{}{Você vê um homem de aparência estranha.}
+{201}{}{Você vê um homem de aparência irregular.}
+{202}{}{Você vê um homem em roupas esfarrapadas.}
+{210}{}{Você vê uma mulher muito suja.}
+{211}{}{Você vê uma mulher bastante suja.}
+{212}{}{Você vê uma mulher de aparência magra.}
+{270}{}{Eles não me encontram.}
+{271}{}{Deve se esconder. Deve se esconder.}
+{272}{}{Por que eles querem machucar?}
+{273}{}{Me assusta.}
+{274}{}{Eu não luta.}
+{275}{}{Eu quero viver.}
+{276}{}{Não machuca família.}
+{280}{}{Oh, merda!}
+{281}{}{Por que eles estão fazendo isso?}
+{282}{}{E a minha família?}
+{283}{}{Eu não quero morrer.}
+{284}{}{Eu não quero ser um escravo.}
+{285}{}{Eu mereço melhor do que isso.}
 {300}{}{Ahhh!}
-{301}{}{No kill! No kill!}
-{302}{}{Stop!}
-{303}{}{Heeeelp!}
-{304}{}{Run!}
-{305}{}{Leave alone!}
-{306}{}{Don't hurt!}
-{307}{}{No hurt you!}
-{308}{}{I don't fight!}
-{350}{}{Run for your lives!}
-{351}{}{Don't let them catch you!}
-{352}{}{Slavers! Run for it!}
-{353}{}{Help, someone! Please!}
-{354}{}{Run for it, Marty!}
+{301}{}{Não mate! Não mate!}
+{302}{}{Pare!}
+{303}{}{Socorro!}
+{304}{}{Corre!}
+{305}{}{Deixe sozinho!}
+{306}{}{Não machuque!}
+{307}{}{Nenhum mal!}
+{308}{}{Eu não lutar!}
+{350}{}{Correr para sua vida!}
+{351}{}{Não deixe que eles o peguem!}
+{352}{}{Escravistas! Corra disso!}
+{353}{}{Ajude alguém! Por favor!
+}
+{354}{}{Corra disso, Marty!}
 {355}{}{Ahhh!}
 {356}{}{Stop the insanity!}
 {357}{}{We didn't do anything! Leave us alone!}

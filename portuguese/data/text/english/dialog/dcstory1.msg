@@ -19,7 +19,7 @@
 {118}{}{Hello again. Doing well, I hope?}
 {119}{}{So, tell me what you know about the Master.}
 {120}{}{Great. How are things with you?}
-{121}{}{Pretty good.}
+{121}{}{Muito bom.}
 {122}{}{Can't talk right now. Bye.}
 {123}{}{Igsby?}
 {124}{}{Bgy.}

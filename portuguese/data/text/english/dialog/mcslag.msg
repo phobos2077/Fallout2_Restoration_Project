@@ -1,4 +1,4 @@
-{100}{}{Run!}
+{100}{}{Corre!}
 {101}{}{Ajuda!}
 {102}{}{We're being attack by the surfacers.}
 {103}{}{Leave us in peace.}

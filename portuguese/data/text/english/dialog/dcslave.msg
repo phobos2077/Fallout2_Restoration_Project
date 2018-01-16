@@ -1,8 +1,8 @@
-{100}{}{You see a big, primitive-looking man.}
+{100}{}{Você vê um homem grande e de aparência primitiva.}
 {125}{}{He has cuts and bruises all over his body.}
 {150}{}{You see a slender, primitive woman.}
 {175}{}{She looks like she's been beaten.}
-{200}{}{You see a ragged-looking man.}
+{200}{}{Você vê um homem de aparência irregular.}
 {225}{}{He doesn't look very healthy.}
 {250}{}{You see a woman captive.}
 {275}{}{She's filthy and seems to be malnourished.}
