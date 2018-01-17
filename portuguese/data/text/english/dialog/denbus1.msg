@@ -1,12 +1,12 @@
-{100}{}{This town looks like one mean place. A good place to own a gun.}
-{200}{}{You helped Lara's gang to win the battle.}
-{300}{}{You've successfully ambushed Lara's gang.}
-{400}{}{You've found Becky's still for Frankie.}
-{500}{}{You've destroyed Becky's still.}
-{600}{}{You convinced Frankie to buy from Becky.}
-{700}{}{You finished your first slave run.}
-{800}{}{You paid Fred's debt off to Rebecca.}
-{900}{}{You returned Rebecca's book.}
+{100}{}{Esta cidade parece um lugar médio. Um bom lugar para possuir uma arma.}
+{200}{}{Você ajudou o grupo de Lara a vencer a batalha.}
+{300}{}{Você emboscou com êxito a gangue de Lara.}
+{400}{}{Você achou o alambique de Becky para Frankie.}
+{500}{}{Você destruiu o alambique de Becky.}
+{600}{}{Você convenceu Frankie a comprar da Becky.}
+{700}{}{Você terminou sua primeira corrida de escravos.}
+{800}{}{Você pagou a dívida de Fred para Rebecca.}
+{900}{}{Você retornou o livro de Rebecca.}
 {1000}{}{You returned Anna's locket.}
 {1100}{}{You managed to fast talk your way inside the church.}
 {1200}{}{You delivered Smitty's meal.}

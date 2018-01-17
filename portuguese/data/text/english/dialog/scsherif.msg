@@ -15,7 +15,7 @@
 {114}{}{GECK?}
 {115}{}{Tudo bem.}
 {116}{}{No, I don't. That's something even President Tandi would like to know. Solve a lot of problems.}
-{117}{}{Problems?}
+{117}{}{Problemas?}
 {118}{}{President Tandi?}
 {119}{}{Great. Just my luck. Thanks.}
 {120}{}{Listen, I lead a clean and wholesome life! I don't have GECK or anything else.}
@@ -57,7 +57,7 @@
 {156}{}{Duppo up at the Stockmen's Association wrangles hands for the brahmin drives. Go try him.}
 {157}{}{Westin?}
 {158}{}{President Tandi?}
-{159}{}{Got to go.}
+{159}{}{Tenho que ir.}
 {160}{}{Roger Westin. His spread's just out the west gate. He's been having some problem with varmints. He'd take care of it himself, but his health ain't what it used to be. Bad ticker, Doc Jubilee says.}
 {161}{}{Sim?}
 {162}{}{Any work to be had in this town?}

@@ -231,64 +231,64 @@ com você mais.}
 {4010}{}{Ooof.}
 {4011}{}{Como é esse Chefe?}
 {4012}{}{Eu vou ficar por aqui.}
-{4013}{}{I'll just move over here now.}
-{4100}{}{Boss! I'm not doing so well here.}
-{4101}{}{I need a doctor.}
-{4102}{}{Oh, boy. This really hurts.}
+{4013}{}{Eu vou passar aqui agora.}
+{4100}{}{Chefe! Eu não estou tão bem aqui.}
+{4101}{}{Eu preciso de um médico.}
+{4102}{}{Oh, rapaz. Isso realmente dói.}
 {4103}{}{Ow!}
-{4104}{}{Ouch.}
-{4105}{}{Dang it.}
+{4104}{}{Ai.}
+{4105}{}{Dang-lo.}
 {4106}{}{Medic?}
-{4107}{}{I'm hanging in there… barely.}
-{4200}{}{I never liked this place.}
-{4201}{}{Why is this place so clean?}
-{4202}{}{Do you smell something, Boss?}
-{4203}{}{You know, Boss. I don't think I'll be coming back here when we're through. I can no longer call it home.}
-{4204}{}{It sure is a lot dirtier than I remember.}
-{4205}{}{We're not staying here long, are we Boss?}
-{4206}{}{This place'll never change.}
-{4207}{}{Boss, I'm not going to miss this place.}
-{4208}{}{Thanks again for getting me out of this place, Boss.}
-{4209}{}{I really owe you one, Boss.}
-{4210}{}{Wow, this place sure has changed.}
-{4211}{}{I haven't been here in ages.}
-{4212}{}{I'm going to retire here.}
-{4213}{}{I could open a repair shop around here.}
-{4300}{}{Ah, a sight for sore eyes. This is… was my place, but I guess you knew that. Right, Boss?}
-{4400}{}{Sulik, don't you be looking at me like that.}
-{4401}{}{Boss, Sulik's glaring at me again.}
-{4402}{}{Nice pooch.}
+{4107}{}{Eu estou pendurado lá... mal.}
+{4200}{}{Eu nunca gostei deste lugar.}
+{4201}{}{Por que este lugar é tão limpo?}
+{4202}{}{Você cheira alguma coisa, chefe?}
+{4203}{}{Você sabe, chefe. Não acho que voltarei aqui quando terminarmos. Não posso mais chamá-lo de casa.}
+{4204}{}{Com certeza é muito mais sujo do que eu me lembro.}
+{4205}{}{Nós não somos de ficar aqui o tempo, estamos Chefe?}
+{4206}{}{Este lugar nunca mudará.}
+{4207}{}{Chefe, eu não vou perder este lugar.}
+{4208}{}{Obrigado novamente por me tirar deste lugar, Chefe.}
+{4209}{}{Eu realmente devo uma, Chefe.}
+{4210}{}{Uau, esse lugar com certeza mudou.}
+{4211}{}{Eu não estive aqui há séculos.}
+{4212}{}{Vou me aposentar aqui.}
+{4213}{}{Eu poderia abrir uma oficina de reparação por aqui.}
+{4300}{}{Ah, um colírio para os olhos. Isso é... era o meu lugar, mas eu acho que você sabia disso. Certo, Chefe?}
+{4400}{}{Sulik, você não fique me olhando desse jeito.}
+{4401}{}{Chefe, Sulik está me olhando de novo.}
+{4402}{}{Bom cão.}
 {4500}{}{La de da…}
 {4501}{}{Ho hum.}
-{4502}{}{Waiting for the Boss…}
-{4503}{}{I'm waiting for the Boss.}
-{4504}{}{Just waiting.}
-{4505}{}{The Boss sure wouldn't leave me behind…}
-{4506}{}{Knock Knock… who's there… wait. How'd that go…}
-{4507}{}{Still waiting.}
-{4508}{}{What's that smell?}
-{4509}{}{Anything to repair around here?}
-{4510}{}{Here I am… waiting for the Boss.}
-{4511}{}{An old man like me, wasting away his talents, just standing here.}
-{4512}{}{I sure wish I had a stick of gum… it's been decades.}
-{4513}{}{I need to get out of the relic business… nothing but trouble.}
-{4514}{}{Why is waiting so tiring…}
-{4600}{}{Uh, thanks, Boss.}
+{4502}{}{Esperando o Chefe …}
+{4503}{}{Eu estou esperando o Chefe.}
+{4504}{}{Só esperando.}
+{4505}{}{O Chefe certamente não iria deixar-me para trás…}
+{4506}{}{Knock Knock ... quem está lá ... espera. Como foi isso …}
+{4507}{}{Ainda à espera.}
+{4508}{}{Que cheiro é esse?}
+{4509}{}{Qualquer coisa para reparar por aqui?}
+{4510}{}{Aqui estou... esperando o Chefe.}
+{4511}{}{Um homem velho como eu, consumindo seus talentos, de pé aqui.}
+{4512}{}{Eu certamente gostaria de ter uma vara de goma ... foram décadas.}
+{4513}{}{Eu preciso sair do negócio da relíquia ... nada além de problemas.}
+{4514}{}{Por que está esperando tão cansativo…}
+{4600}{}{Uh, obrigado, Chefe.}
 {4601}{}{Obrigado.}
-{4602}{}{You sure you know what you're doing?}
-{4603}{}{Can't we just rest instead?}
-{4604}{}{Should we make camp?}
-{4605}{}{Am I that bad off?}
-{4700}{}{Not too much, Boss.}
-{4701}{}{If you insist, Boss.}
-{4702}{}{Boss, my head's not going to explode, is it?}
-{4703}{}{Boss, I think I'm starting to like that stuff.}
-{4704}{}{I'm feeling a bit funny, Boss.}
-{4705}{}{You sure you have enough of that to spare.}
-{4706}{}{Sure, Boss. I'll take some.}
-{4707}{}{Thanks, Boss.}
+{4602}{}{Você tem certeza que sabe o que está fazendo?}
+{4603}{}{Não podemos apenas descansar de vez?}
+{4604}{}{Devemos fazer acampamento?}
+{4605}{}{Eu estou tão mal?}
+{4700}{}{Não muito, Chefe.}
+{4701}{}{Se você insistir, Chefe.}
+{4702}{}{Chefe, minha cabeça não vai explodir, não é?}
+{4703}{}{Chefe, eu acho que eu estou começando a gostar de coisas.}
+{4704}{}{Eu estou me sentindo um pouco engraçado, Chefe.}
+{4705}{}{Tem a certeza de que temos o suficiente para poupar.}
+{4706}{}{Certo, Chefe. Eu vou levar algum.}
+{4707}{}{Obrigado, Chefe.}
 {4708}{}{Não é mau.}
-{5000}{}{I'm a bit hungry at the moment. We'll talk again at Mom's.}
-{5500}{}{I feel like I broke a limb, Boss. You better have a look.}
-{5501}{}{I feel like I am burning up, Boss. You better have a look.}
-{5502}{}{I feel like I have been poisoned, Boss. You better have a look.}
+{5000}{}{Estou um pouco com fome no momento. Vamos falar novamente na mãe.}
+{5500}{}{Eu sinto que eu quebrei um membro, Chefe. É melhor dar uma olhada.}
+{5501}{}{Eu sinto que estou queimando, chefe. É melhor dar uma olhada.}
+{5502}{}{Eu sinto como se tivesse sido envenenado, Chefe. É melhor você dar uma olhada.}

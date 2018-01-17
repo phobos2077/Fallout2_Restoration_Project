@@ -4,7 +4,7 @@
 {103}{}{I'm Doc Jubilee. What's wrong, young man?}
 {104}{}{What's wrong, young man?}
 {105}{}{Me hurt.}
-{106}{}{I need a doctor.}
+{106}{}{Eu preciso de um médico.}
 {107}{}{Can't you just take some pills or something and stop bothering me with this twaddle?}
 {108}{}{Hell, you're hardly bleeding.}
 {109}{}{I don't know. Don't think I can save it. We may have to cut that leg off.}

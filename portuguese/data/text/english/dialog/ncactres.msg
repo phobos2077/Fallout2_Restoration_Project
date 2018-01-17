@@ -50,7 +50,7 @@
 {273}{}{Let's see…(Studies script)… he walks in, we have sex. Got it.}
 {274}{}{What I really want to do is direct.}
 {275}{}{Thank God they finally installed that padded headboard.}
-{280}{}{What's that smell?}
+{280}{}{Que cheiro é esse?}
 {281}{}{Great. Another tribal shit-kicker.}
 {282}{}{Don't talk to me.}
 {283}{}{Let's see…"Oh god"… "Give it to me…" Damn! What's that next line?}
