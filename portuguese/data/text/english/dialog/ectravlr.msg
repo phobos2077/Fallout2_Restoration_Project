@@ -1,4 +1,4 @@
-{100}{}{You see a traveler.}
+{100}{}{Você vê um viajante.}
 {101}{}{Hail! Fellow traveler.}
 {102}{}{I'm in need of directions. Can you help me out?}
 {103}{}{Where are you headed?}

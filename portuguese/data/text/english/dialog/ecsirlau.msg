@@ -1,4 +1,4 @@
-{100}{}{A man in power armor.}
+{100}{}{Um homem em armadura de energia.}
 {101}{}{Sir Launcelot.}
 {102}{}{He's caressing his gun.}
 {103}{}{Sir Launcelot, at your service.}

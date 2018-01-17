@@ -250,5 +250,5 @@
 {732}{}{Yeah, another round for everyone.}
 {740}{}{Heh, yeah I heard those assholes are getting attacked by molerats who're protecting those smoothskins. Serves 'em right for fucking with other people's
  business. I don't really know much more than that though. Lumpy over in the junkyard might know more. That smoothskin's always hearing things.}
-{741}{}{Thanks for the information. Bye.}
+{741}{}{Obrigado pela informação. Tchau.}
 {742}{}{Good to know. Let me ask you something else.}

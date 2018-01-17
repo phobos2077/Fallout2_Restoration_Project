@@ -1,5 +1,5 @@
-{100}{}{A man in power armor.}
-{101}{}{Arthur, son of Uther Pendragon.}
+{100}{}{Um homem em armadura de energia.}
+{101}{}{Arthur, filho de Uther Pendragon.}
 {102}{}{His fly is down.}
 {103}{}{Hail, travelers. My name is Arthur, son of Uther Pendragon, from the Brotherhood of Steel. We
  are on quest for the Holy Hand Grenade of Antioch. Hast thou seen it?}

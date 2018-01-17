@@ -263,12 +263,12 @@
 {2212}{}{Hope you enjoyed the sub.}
 {2300}{}{Você vê x'il.}
 {2301}{}{Ele olha para você com admiração.}
-{2310}{}{I helped a lot with critter appearances. Hope you have enjoyed it!}
-{2311}{}{Nice hair, man. I helped make that possible.}
+{2310}{}{Ajudei muito com aparências de bichos. Espero que você tenha gostado!}
+{2311}{}{Bom cabelo, cara. Ajudei a tornar isso possível.}
 {2400}{}{Você vê uma pilha de rochas.}
 {2401}{}{Há uma placa sobre as rochas.}
-{2410}{}{There is a plaque on the pile of rocks. It reads: "Dedicated to Per Jorner. Master of the walkthroughs,
- King of the lizards, and Accumulator of all rocks.}
+{2410}{}{Há uma placa na pilha de pedras. Lê: "Dedicado a Per Jorner. Mestre das orientações,
+  Rei dos lagartos, e Acumulador de todas as rochas.}
 {2500}{}{Você vê uma grande massa de gosma.}
 {2501}{}{Esta massa de goo parece soletrar algo: "Dedicado a todos aqueles cujos nomes foram esquecidos, mas
   ainda ajudaram a tornar tudo possível ".}
