@@ -152,13 +152,13 @@
 {710}{}{O espertinho está de volta! Então você realmente quer ir nesta igreja? Por quê? Não há nada aqui que você esteja interessado.}
 {711}{}{Agora, o que diabos você quer?}
 {712}{}{You see this mark on my forehead? Let me in. Now!}
-{713}{}{I'm his new bitch, that's why! If you don't let me in right now, I'll be sure you find yourself at the top of his shit list.}
-{714}{}{Look, buddy. Metzger's going to have my hide if I don't inspect everything soon. You know how he gets.}
-{715}{}{None of your fucking business. If the Boss wants his shit checked out, that's what I do. I don't ask questions.}
+{713}{}{Eu sou sua nova cadela, é por isso! Se você não me deixar no momento, eu vou ter certeza de que você se encontra no topo de sua lista de merda.}
+{714}{}{Olha, amigo. Metzger vai ter meu esconderijo se eu não inspecionar tudo em breve. Você sabe como ele fica.}
+{715}{}{Nenhum de seus fodidos negócios. Se o chefe quiser que sua merda seja verificada, é o que eu faço. Não faço perguntas.}
 {716}{}{Não importa.}
 {717}{}{Shaka?}
-{800}{}{Who the- Hey! It's you. You came to *hickup* party with us. I knew you would. (Tyler stumbles over to you and grabs your shoulder)
- Did I ever tell you how much I-(He spies Lara's gang) What the fuck! No fuckin way! This party ain't endin *hickup* cause of some fuckin bitch
- and her cronies. Time to lock and load guys!}
+{800}{}{Quem é o - Hey! É você. Você veio para * hickup * festa com a gente. Eu sabia que você faria. (Tyler tropeça com você e agarra seu ombro)
+  Eu sempre contei o quanto eu ... (Ele espia a gangue de Lara) O que diabos! De jeito nenhum! Esta festa não é a * hickup * casa de uma puta fodida
+  e seus amigos. Hora de bloquear e carregar, caras!}
 {801}{}{[FIM]}
 {1255}{}{!}

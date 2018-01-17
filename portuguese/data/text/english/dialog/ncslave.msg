@@ -1,6 +1,6 @@
 {100}{}{You see a sickly slave.}
 {101}{}{You see a drugged slave.}
-{102}{}{You see a slave.}
+{102}{}{Você vê um escravo.}
 {150}{}{You see a broken looking man. His eyes dart around the area, as if following some invisible insect.}
 {151}{}{You see a sickly slave. He looks terribly frightened, and his eyes seem unable to focus on you.}
 {152}{}{You see a sickly slave. His clothes are in tatters, and his skin hangs loosely on his flesh.}

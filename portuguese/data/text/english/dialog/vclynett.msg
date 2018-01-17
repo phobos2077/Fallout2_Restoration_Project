@@ -327,7 +327,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
  Citizen. As for the archives, yes...they are located inside our Vault. Peruse them at your leisure.}
 {377}{}{Before I go examine the archives, I wanted to ask you some other questions...}
 {378}{}{Do you happen to have a GECK as well?}
-{379}{}{Great! Thanks.}
+{379}{}{Grande! Obrigado.}
 {380}{}{Thank you, First Citizen.}
 {381}{lyn053a}{Yes? What is it I can help you with?}
 {382}{lyn053b}{Yes? What is it?}

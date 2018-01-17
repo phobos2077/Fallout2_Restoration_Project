@@ -1,4 +1,4 @@
-{100}{}{You see a slave.}
+{100}{}{Você vê um escravo.}
 {101}{}{You see a healthy looking slave.}
 {320}{}{Você é mau!}
 {321}{}{Nós não conversamos com você.}

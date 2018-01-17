@@ -72,7 +72,7 @@
 {331}{}{Not to my knowledge.}
 {332}{}{Not to my knowledge. I think I'd remember.}
 {340}{}{One of my sons…my boy, Richard, passed away recently. Drug overdose. Jet.}
-{341}{}{How can I help?}
+{341}{}{Como posso ajudar?}
 {342}{}{Uh…I don't really see how I can --}
 {350}{}{I want to know what dealer gave that SHIT to Richard and forced him to take it. Every time I send my boys to find out,
  they turn up nothin'. Maybe somebody who ain't got Wright blood could get some answers.}

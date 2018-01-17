@@ -1,129 +1,129 @@
-{100}{}{You see a slave.}
-{101}{}{You see Vic.}
-{150}{}{This slave seems to be kept under tight surveillance.}
-{151}{}{This is Vic.}
+{100}{}{Você vê um escravo.}
+{101}{}{Você vê Vic.}
+{150}{}{Este escravo parece ser mantidos sob estrita vigilância.}
+{151}{}{Este é Vic.}
 {152}{}{[FALAR]}
-{153}{}{Would you tell him I can't... wait. Who are you? You're not a
- slaver. What are you doing here?}
+{153}{}{- Você gostaria de dizer a ele que eu não posso... aguarde. Quem é você? Você não é um
+escravista. O que você está fazendo aqui?}
 {154}{}{Meu nome é }
-{155}{}{. I'm here to get you out.}
+{155}{}{Eu estou aqui para tira-lo.}
 {156}{}{Eu sou }
-{157}{}{, but why have you been locked in this room?}
-{158}{}{Can you tell me where Vault 13 is?}
+{157}{}{, mas por que você foi preso neste quarto?}
+{158}{}{Você pode me dizer onde o Vault 13 é?}
 {159}{}{Eu sou }
-{160}{}{. I'll be right back.}
+{160}{}{. Eu vou estar de volta.}
 {161}{}{Dubba iba }
 {162}{}{.}
-{163}{}{Metzger's still quite upset with me, even though we fixed his darn radio.
- He's threatening to sell me off! I'll do anything you ask if you can get me out
- of this mess.}
-{164}{}{OK, I will.}
-{165}{}{Sorry, I can't. Bye.}
+{163}{}{Metzger ainda está bastante chateado comigo, apesar de arrumarmos seu maldito rádio.
+  Ele está ameaçando me vender! Eu farei qualquer coisa que você perguntar se você puder me tirar
+  desta bagunça.}
+{164}{}{OK, eu vou.}
+{165}{}{Desculpe, eu não posso. Tchau.}
 {166}{}{Whoo.}
-{167}{}{Oh, hi again. This darn radio isn't going to repair itself. How does
- he expect me to fix it?}
-{168}{}{Where can I get the parts?}
-{169}{}{Maybe I can repair it.}
-{170}{}{Can you use this radio I found?}
+{167}{}{Oh, oi novamente. Este rádio maldito não vai se consertar. Como é que
+  Ele espera que eu conserte isso?}
+{168}{}{Onde posso obter as peças?}
+{169}{}{Talvez eu possa consertá-lo.}
+{170}{}{Você pode usar esse rádio que eu encontrei?}
 {171}{}{Eu vou ver o que posso fazer.}
 {172}{}{Spa pa?}
-{173}{}{I know I can do it, I just need some spare parts. There is an old radio in
- my shack back in Klamath that has exactly what I need. You been to the Dunton's?
- My shack's... well, it was just east of their place.}
-{174}{}{Do you mean this radio?}
-{175}{}{I'll go look for it.}
-{176}{}{Hmmm... I'll be back.}
-{177}{}{That's great! I'll have the radio fixed in no time.}
-{178}{}{Okay, I'll talk to Metzger.}
+{173}{}{Eu sei que posso fazê-lo, eu só preciso de algumas peças sobressalentes. Existe um rádio antigo em
+  minha barraca de volta em Klamath que tem exatamente o que eu preciso. Você foi ao Dunton's?
+  Minha barraca ... bem, estava exatamente a leste de seu lugar.}
+{174}{}{Você quer dizer esse rádio?}
+{175}{}{Eu irei procurá-lo.}
+{176}{}{Hmmm... eu vou estar de volta.}
+{177}{}{Isso é ótimo! Eu vou ter o rádio consertado em poco tempo.}
+{178}{}{Tudo bem, eu vou falar para Metzger.}
 {179}{}{Obrigado.}
 {180}{}{Adeus.}
-{181}{}{Pardon? I'm sorry but I don't understand.}
+{181}{}{Perdão? Desculpe, mas não entendo.}
 {182}{}{hurm.}
-{183}{}{Thank you! I'm forever in your debt. What can I do to repay you?}
-{184}{}{Tell me where Vault 13 is.}
-{186}{}{Come with me, I could use a hand.}
-{187}{}{It was nothing. Good bye.}
-{188}{}{Candy?}
-{189}{}{Vault 13? There's a Vault City east of here. I trade there,
- sometimes.}
-{190}{}{Want to go there with me?}
+{183}{}{Obrigado! Estou sempre em debito. O que posso fazer para pagar você?}
+{184}{}{Diga-me onde está o Vault 13.}
+{186}{}{Venha comigo, eu poderia usar uma mão.}
+{187}{}{Não foi nada. Adeus, até logo.}
+{188}{}{Doces?}
+{189}{}{Vault 13? Há uma cidade de Vault ao leste daqui. Eu troco lá,
+  as vezes.}
+{190}{}{Quer ir lá comigo?}
 {191}{}{Obrigado. Tchau.}
-{192}{}{Sure, I'll join up with you! This old fart has one big adventure left
- in him. I'm sure of it! I'm pretty good at repairing things too, despite what
- Metzger says.}
-{193}{}{Great, let's go.}
-{194}{}{Welcome aboard.}
+{192}{}{Claro, vou me juntar a você! Este velho peido tem uma grande aventura à esquerda
+  nele. Estou certo disso! Eu também estou bem em reparar as coisas, apesar do que
+  Metzger diz.}
+{193}{}{Ótimo, vamos lá.}
+{194}{}{Bem-vindo a bordo.}
 {195}{}{Seja o que for.}
-{196}{}{Vic me bess frend.}
-{197}{}{Want to join me on my search?}
-{198}{}{Great! Thanks.}
-{203}{}{Vault City is east of here. I'll point it out on that map of yours.}
+{196}{}{Vic meu bom amigo.}
+{197}{}{Quer se juntar a mim na minha pesquisa?}
+{198}{}{Grande! Obrigado.}
+{203}{}{Vault City está a leste daqui. Vou apontá-lo para o seu mapa.}
 {204}{}{Obrigado.}
-{206}{}{It's right here. [pointing to a map]}
-{220}{}{Darn it. That's close, but I need the radio from my shack in Klamath. I know that one has the parts I need.}
-{300}{}{Yeah, I can probably help you, but you've got to get me out of here first.}
-{301}{}{I told you. If you can get me out of here, I'll help you with anything you want.}
-{302}{}{How do we do that?}
-{303}{}{You're on you own then.}
-{304}{}{Okay, I'll see what I can do.}
-{350}{}{You think you can help me out?}
-{351}{}{Metzger still won't let me leave.}
-{352}{}{I can't take much more of this.}
-{353}{}{I'll do anything for you if you help me.}
-{354}{}{I'll earn back any expenses you may incur!}
-{400}{}{You haven't been by my place yet have you? I really need that radio,
- Metzger's getting angrier with me by the day.}
-{450}{}{Where did you get this water flask?}
-{451}{}{I had a water flask that had a big yellow 13 on it. Do you remember where you got it?}
-{500}{}{Oh, yeah. I remember that. I bought that from Ed. He's a brahmin dealer over in Vault City.}
-{501}{}{Water Flask? Oh, wait. Yea, I had a few dozen of'm. Sold pretty well. I got'm from Ed, a
- brahmin dealer over in Vault City.}
+{206}{}{Está bem aqui. [apontando para um mapa]}
+{220}{}{Danado. Está perto, mas preciso do rádio da minha cabana em Klamath. Eu sei que tem as partes que eu preciso.}
+{300}{}{Sim, eu provavelmente posso ajudá-lo, mas você tem que me tirar daqui primeiro.}
+{301}{}{Eu disse a você. Se você pode me tirar daqui, eu vou ajudá-lo com qualquer coisa que você quiser.}
+{302}{}{Como podemos fazer isso?}
+{303}{}{Você está sozinho, então.}
+{304}{}{Ok, vou ver o que posso fazer.}
+{350}{}{Você acha que você pode me ajudar?}
+{351}{}{Metzger ainda não me deixa sair.}
+{352}{}{Eu não posso levar muito mais do que isso.}
+{353}{}{Eu vou fazer de tudo para você, se você me ajudar.}
+{354}{}{Eu vou ganhar de volta a quaisquer despesas que podem incorrer!}
+{400}{}{Você ainda não esteve na minha casa? Eu realmente preciso desse rádio,
+  Metzger está ficando mais irritado comigo a cada dia.}
+{450}{}{Onde você pegou este frasco de água?}
+{451}{}{Eu tinha um frasco de água que tinha um grande amarelo 13 sobre ele. Você se lembra de onde você conseguiu?}
+{500}{}{Oh sim. Eu lembro disso. Comprei isso do Ed. Ele é um negociante de brahmin em Vault City.}
+{501}{}{Frasco de água? Oh espere. Sim, eu tinha algumas dúzias deles. Vendido muito bem. Eu tenho de Ed, um
+  revendedor brahmin em Vault City.}
 {502}{}{Vault City?}
-{550}{}{Would you stop calling me Boss?}
-{600}{}{Sure thing, Chief!}
-{601}{}{I mean it! STOP IT!}
-{602}{}{I guess that'll have to do.}
-{650}{}{You got it, Sport!}
+{550}{}{Você poderia parar de me chamar de Chefe?}
+{600}{}{Claro, chefe!}
+{601}{}{O que eu quis dizer! PARE COM ISSO!}
+{602}{}{Eu acho que vou ter que fazer.}
+{650}{}{Você conseguiu, Sport!}
 {651}{}{Uggg!}
-{700}{}{Bee my friend.}
-{710}{}{Would you tell him I can't fix this without the parts. I don't know... wait.
- Who are you? Some new recruit? He didn't send you here to rough me up again did
- he? It's not going to make any difference. I can't fix it here.}
-{750}{}{Wow! You'd do that for me? I'd do anything if you could get me out this mess.
- Only problem is that Metzger's got me locked up here until I fix this radio and
- I don't have the parts I need.}
-{753}{}{Where can I get the parts you need?}
+{700}{}{Ser meu amigo.}
+{710}{}{Você poderia dizer-lhe que não consigo corrigir isso sem as partes. Eu não sei ... aguarde.
+  Quem é Você? Algum novo recruta? Ele não enviou você aqui para me espremer novamente.
+  ele fez? Não vai fazer qualquer diferença. Não consigo corrigi-lo aqui.}
+{750}{}{Uau! Você faria isso por mim? Eu faria qualquer coisa se pudesse me tirar dessa bagunça.
+  O único problema é que Metzger me mantem trancado até eu corrigir este rádio e
+  Eu não tenho as peças que eu preciso.}
+{753}{}{Onde posso conseguir as peças que você precisa?}
 {754}{}{Eu vou ver o que posso fazer.}
-{760}{}{It's a long story. I guess you could say that Metzger's keeping me here until
- I fix this darn radio. The crystal's shot and I don't have any spare parts. How does
- he expect me to fix it?}
-{761}{}{Well, I'm here to get you out.}
-{764}{}{Don't know. See ya.}
-{800}{}{I've got to get this radio fixed. If you can help me do that, then maybe we can reason with him.}
-{801}{}{How can I help?}
-{803}{}{I doubt it. Good luck.}
-{810}{}{Why'd you kill poor Mom… I guess you had your reasons… I'm sorry, Boss. It's not my place to question you. This is a pretty bad town. I'm sure she did something pretty bad.}
-{811}{}{Hey, Boss. Thanks for getting me out of that mess with Metzger. You need anything? Mom's been kind enough to feed me while you've been gone. I help her around the place….}
+{760}{}{É uma longa história. Eu acho que você poderia dizer que Metzger está me mantendo aqui até
+  Eu reparo esse maldito rádio. O tiro do cristal e eu não temos peças sobressalentes. Como é que
+  Ele espera que eu conserte isso?}
+{761}{}{Bem, estou aqui para tirá-lo.}
+{764}{}{Não sei. Até mais.}
+{800}{}{Tenho que corrigir esse rádio. Se você pode me ajudar a fazer isso, então talvez possamos negociar com ele.}
+{801}{}{Como posso ajudar?}
+{803}{}{Eu duvido. Boa sorte.}
+{810}{}{Por que você matou a pobre mãe ... Eu acho que você teve seus motivos ... Desculpe, chefe. Não é meu lugar questioná-lo. Esta é uma cidade muito ruim. Tenho certeza de que ela fez algo muito ruim.}
+{811}{}{Ei, chefe. Obrigado por me tirar dessa bagunça com Metzger. Você precisa de alguma coisa? A mãe tem sido gentil o suficiente para me alimentar enquanto você se foi. Ajudo-a pelo lugar ...}
 {812}{}{Adeus.}
 {813}{}{Oooh.}
 {814}{}{Beiye}
-{823}{}{Where is your friend Ed, again?}
-{830}{}{I would if I could, but you're just not looking good. I'd only be a burden. Now that Mom's gone, I think I'll just head out. Don't know where… maybe we'll see each other again. Thank you for everything you've done for me.}
-{831}{}{I would if I could, but you're just not looking good. Looks like you can barely take care of yourself. I'd only be a burden. I'll just wait here, Mom's cooking reminds me of my ex-wife….}
-{832}{}{I would, honest. I'd do almost anything for you. It's just that you don't look like you're in any shape to lead anyone. I'd only be a burden. I'll just head over to Mom's, in a bit… until you can work things out. I haven't had her home cooking for a long time.}
-{833}{}{Sorry, Boss. Looks like you're pretty crowded. Now that Mom's gone, I think I'll just head out. Don't know where… maybe we'll see each other again. Thank you for everything you've done for me.}
-{834}{}{You're looking a bit crowded, Boss. I'll just wait here for you until you've worked things out. Mom's cooking reminds me of my ex-wife… not sure if that's a good thing or bad thing….}
-{835}{}{I would love to, Boss. It's just that you don't look like you have any more room. I'll just head over to Mom's. I haven't been there in a while. Just come get me if you find some room for me.}
-{840}{}{Ed's over at Vault City. He's a Brahmin Dealer. He was just one of my many suppliers. Vault City's not too far from here.}
-{845}{}{I told you, it's over here. [Vic points to a location on your PIPBoy2000.]}
-{900}{}{You learned about Vic being a trader.}
+{823}{}{Onde está o seu amigo Ed, novamente?}
+{830}{}{Eu faria, se pudesse, mas você não está ficando bem. Eu só seria um fardo. Agora que mamãe se foi, acho que vou sair. Não sei onde ... talvez nos veremos novamente. Obrigado por tudo o que você fez por mim.}
+{831}{}{Eu faria, se pudesse, mas você não está ficando bem. Parece que você mal pode cuidar de si mesmo. Eu só seria um fardo. Espero aqui, a culinária da mãe me faz lembrar da minha ex-esposa ...}
+{832}{}{Eu, honesto. Eu faria quase tudo por você. É só que você não parece que você está em qualquer forma para liderar qualquer um. Eu só seria um fardo. Eu vou apenas para mamãe, um pouco ... até que você possa resolver as coisas. Eu não tive sua cozinha caseira há muito tempo.}
+{833}{}{Desculpe chefe. Parece que você está muito lotado. Agora que mamãe se foi, acho que vou sair. Não sei onde ... talvez nos veremos novamente. Obrigado por tudo o que você fez por mim.}
+{834}{}{Você está um pouco cheio, Chefe. Eu espero aqui por você até que você tenha trabalhado as coisas. A culinária da mãe me faz lembrar da minha ex-esposa ... não tenho certeza se é uma coisa boa ou ruim ...}
+{835}{}{Eu adoraria, chefe. É só que você não parece ter mais espaço. Vou dirigir-me para a mãe. Eu não estive lá há algum tempo. Apenas venha me buscar se você encontrar algum espaço para mim.}
+{840}{}{Ed está no Vault City. Ele é um revendedor Brahmin. Ele era apenas um dos meus muitos fornecedores. Vault City não está muito longe daqui.}
+{845}{}{Eu disse a você que está aqui. [Vic aponta para um local no seu PIPBoy2000.]}
+{900}{}{Você aprendeu que Vic era comerciante.}
 {1000}{}{Eu preciso perguntar uma coisa.}
-{1100}{}{Fully healed, Boss. Anything else?}
-{1200}{}{Almost perfect condition, Boss.}
-{1300}{}{I'm mostly healed up, Boss, but I've been better.}
-{1400}{}{I tried, Boss, but I'm not doing so hot. I'll do what I can though.}
-{1500}{}{Whatever you say, Boss.}
-{1501}{}{Here? Right here? Okay, you're the Boss.}
+{1100}{}{Totalmente curado, Chefe. Mais alguma coisa?}
+{1200}{}{Condição quase perfeita, chefe.}
+{1300}{}{Estou em grande parte curado, chefe, mas fui melhor.}
+{1400}{}{Eu tentei, chefe, mas não estou tão quente. Eu vou fazer o que posso embora.}
+{1500}{}{Tudo o que você disser, Chefe.}
+{1501}{}{Aqui? Bem aqui? Ok, você é o Chefe.}
 {1502}{}{Right. I'll stay here until you come back, Boss. You will come back, right?}
 {1503}{}{As long as you want. I'm not going anywhere.}
 {1504}{}{Of course, Boss.}
