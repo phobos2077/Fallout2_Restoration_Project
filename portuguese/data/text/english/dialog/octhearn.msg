@@ -15,7 +15,7 @@
 {113}{}{I Thearn. Who you?}
 {114}{}{Me}
 {115}{}{Me leave.}
-{116}{}{I've got to go.}
+{116}{}{Tenho que ir.}
 {117}{}{It's a pleasure to meet you, Thearn. I'm}
 {118}{}{Tenho-o.}
 {119}{}{Now that I think about it, I don't give a radrat's ass who you are.}

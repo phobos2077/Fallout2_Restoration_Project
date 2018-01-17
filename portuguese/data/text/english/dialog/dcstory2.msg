@@ -1,33 +1,33 @@
-{100}{}{You see bar patron.}
-{101}{}{You see Stacy.}
-{102}{}{She seems to be a little sad.}
+{100}{}{Você vê o patrão do bar.}
+{101}{}{Você vê Stacy.}
+{102}{}{Ela parece estar um pouco triste.}
 {103}{}{Pare com isso!}
-{104}{}{How could you?}
+{104}{}{Como você pôde?}
 {105}{}{Fique longe de mim!}
 {106}{}{Por quê?}
-{107}{}{Please stop!}
-{108}{}{You murderer!}
-{109}{}{Poor Mom! You'll pay for that!}
-{110}{}{Mom...}
-{111}{}{But she was so nice to everyone...}
-{112}{}{Sorry, can't think of anything else interesting.}
-{113}{}{My brains all dried up.}
-{114}{}{That's it.}
+{107}{}{Por favor, pare!}
+{108}{}{Seu assassino!}
+{109}{}{Pobre Mãe! Você vai pagar por isso!}
+{110}{}{Mãe...}
+{111}{}{Mas ela era tão agradável para todos...}
+{112}{}{Desculpe, não consigo pensar em nada mais interessante.}
+{113}{}{Meus cérebros estavam secos.}
+{114}{}{É isso.}
 {115}{}{Olá.}
-{116}{}{Have you said hi to Mom yet?}
-{117}{}{Oh, hi.}
-{118}{}{Oh, you again.}
-{119}{}{Tell me about your cat.}
-{120}{}{Why the glum face?}
-{121}{}{You come here often?}
-{122}{}{I'll have to catch you later. Bye.}
+{116}{}{Você já disse olá para a mãe ainda?}
+{117}{}{Ah, oi.}
+{118}{}{Ah, você de novo.}
+{119}{}{Conte-me sobre seu gato.}
+{120}{}{Porque o rosto triste?}
+{121}{}{Você vem aqui muitas vezes?}
+{122}{}{Eu vou ter que te pegar mais tarde. Tchau.}
 {123}{}{Okah?}
 {124}{}{Ug.}
-{131}{}{Please don't bother me. I'm really not in the mood right now.}
+{131}{}{Por favor, não me incomoda. Eu realmente não estou com o humor agora.}
 {132}{}{Ugra.}
 {133}{}{Fegi.}
-{134}{}{Oh, nothing really. Just sometimes I get thinking about my mom and cat. I miss them so very much.}
-{135}{}{Cat?}
+{134}{}{Oh, nada realmente. Às vezes eu consigo pensar sobre minha mãe e meu gato. Eu sinto tanto falta deles.}
+{135}{}{Gato?}
 {136}{}{Sorry to hear that. Bye.}
 {137}{}{Yeah, Cuddles. She was such a sweet cat. I really don't feel like talking about it... Well, unless you'd like to buy me a drink. That might help.}
 {138}{}{As I said, I would prefer not to talk about it right now. If you'd like to buy me a drink, it might loosen my tongue.}

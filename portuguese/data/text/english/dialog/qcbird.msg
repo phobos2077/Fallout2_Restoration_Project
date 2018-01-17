@@ -44,7 +44,7 @@
 {143}{}{Yes, I can see that.}
 {144}{}{What impact are you planning to have on history?}
 {145}{}{Yes, I like that direction. I have made good judgments in the past. I have made good judgments in the future. So, by all means, let's go in that direction.}
-{146}{}{Uh, yes.}
+{146}{}{Uh, sim.}
 {147}{}{I believe we are on an irreversible trend toward more freedom and democracy - but that could change.}
 {148}{}{The polluted environment of the Wastes could use a little freedom for a change.}
 {149}{}{I can't take it anymore. You've just got to be killed.}

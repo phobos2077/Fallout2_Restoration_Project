@@ -692,7 +692,7 @@
 {1898}{}{I hope my groin just went to genital heaven.}
 {2000}{}{Mercy!}
 {2001}{}{Somebody help me!}
-{2002}{}{Please stop!}
+{2002}{}{Por favor, pare!}
 {2003}{}{Ajuda!}
 {2004}{}{Aaaaahhhh!}
 {2005}{}{Mercy!}
@@ -773,7 +773,7 @@
 {2100}{}{Attack someone else, please!}
 {2101}{}{Have mercy!}
 {2102}{}{Somebody help me!}
-{2103}{}{Please stop!}
+{2103}{}{Por favor, pare!}
 {2104}{}{Just leave me alone.}
 {2105}{}{I ain't dyin' for this!}
 {2106}{}{Stop picking on me!}

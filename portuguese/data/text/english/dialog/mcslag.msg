@@ -19,4 +19,4 @@
 {254}{}{Hello, surfacer.}
 {300}{}{I knew we could trust you.}
 {301}{}{Thank you for helping us.}
-{302}{}{Nice to see you again.}
+{302}{}{Bom ver você de novo.}

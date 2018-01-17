@@ -99,7 +99,7 @@
 {198}{}{What do you know about some outfit called the Rangers?}
 {199}{}{What can you tell me about some guy named Westin?}
 {200}{}{I'm looking for info on Vice-President Carlson.}
-{201}{}{That's it.}
+{201}{}{É isso.}
 {202}{}{Your payment gets you one question. Another costs you another $50.}
 {203}{}{Okay, here.}
 {204}{}{I've got all the facts I need.}

@@ -77,7 +77,7 @@
 {349}{}{I'm not interested in your double-talk brahmin shit. I'm outta here.}
 {355}{}{All right then…it's on the Golgotha plain south of Reno, buried in one of the
  graves. Only I know where it is, though.}
-{357}{}{Tell me.}
+{357}{}{Conte-me.}
 {358}{}{That's the biggest load of…oh hell, I'm just going to kill you, Lloyd and let the spirits
  sort it out.}
 {359}{}{Oh, forget this horseshit. I'm outta here.}

@@ -15,7 +15,7 @@
 {113}{}{Me human.}
 {114}{}{Oooo! Something shiny. Me go.}
 {115}{}{Hey, I'm the one asking the questions here.}
-{116}{}{I've got to go.}
+{116}{}{Tenho que ir.}
 {117}{}{Glad to meet you, I'm}
 {118}{}{Tenho-o.}
 {119}{}{I am currently guarding this area of the vault against any unauthorized personnel.}

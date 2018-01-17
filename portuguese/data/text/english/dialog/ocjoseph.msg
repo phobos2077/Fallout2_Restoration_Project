@@ -68,7 +68,7 @@
 {154}{}{Obrigado. Eu vou embora agora.}
 {155}{}{What a waste to be here when you could be helping others.}
 {156}{}{You are truly a dedicated man who deserves recognition.}
-{157}{}{Interesting.}
+{157}{}{Interessante.}
 {158}{}{Eu não vou ajudar alguém como você. Vá embora.}
 {159}{}{I traveled to another town and stayed there a week or so before returning. When I got back, I was
  warmly welcomed. Gruthar, the pack leader, came to me privately and personally thanked me for coming

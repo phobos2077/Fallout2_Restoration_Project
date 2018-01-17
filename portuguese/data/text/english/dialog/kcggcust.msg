@@ -1,7 +1,7 @@
 {100}{}{You see a bar patron looking at you.}
 {101}{}{You see a bar patron eating some jerky.}
 {102}{}{You see a bar patron drinking a mug of beer.}
-{103}{}{You see a bar patron.}
+{103}{}{Você vê o dono do bar.}
 {104}{}{You see a scruffy looking bar patron. Possibly a trapper.}
 {105}{}{You see a tough-looking patron. Probably a trapper.}
 {106}{}{You see a weathered bar patron. Probably either a trapper or a farmer.}

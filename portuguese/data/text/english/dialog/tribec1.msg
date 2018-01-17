@@ -93,7 +93,7 @@
 {340}{}{[He looks you over, seeming to consider something for a moment.] I'm to meet with one of them damned civilized
  trader's soon -- a pudgy one-eyed dog of a man, who I trust about as much as a starving radscorpion. He's not wronged us
  yet, but I've got a feeling about our next meeting.}
-{341}{}{Why's that?}
+{341}{}{Por que?}
 {342}{}{I don't see how I fit into this. What's your point?}
 {350}{}{When last we spoke, he boasted he'd be bringing me something truly miraculous, and that I'd be wise to haul all
  the golden gecko hides I could carry to the meet. I don't know what his miracle item is, but it's likely some civilized

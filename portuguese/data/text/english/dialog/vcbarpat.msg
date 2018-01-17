@@ -1,5 +1,5 @@
 {100}{}{You see a dusty-looking traveler.}
-{101}{}{You see a bar patron.}
+{101}{}{Você vê o dono do bar.}
 {102}{}{You see a dusty-looking traveler.}
 {103}{}{Hey! Everybody! It's the one who kicked the Enclave's ass!}
 {104}{}{Congratulations, hero!}

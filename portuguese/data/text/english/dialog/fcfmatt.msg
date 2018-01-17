@@ -17,7 +17,7 @@
 {115}{}{Who are you guys?}
 {116}{}{Why is it that nobody around here mentions you?}
 {117}{}{Why do you have only one person here?}
-{118}{}{I've got to go.}
+{118}{}{Tenho que ir.}
 {119}{}{We are a paramilitary organization known as the Brotherhood of Steel.}
 {120}{}{What Brotherhood do?}
 {121}{}{Okay - and what is it that you do?}

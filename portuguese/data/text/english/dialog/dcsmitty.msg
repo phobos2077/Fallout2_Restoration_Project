@@ -37,57 +37,57 @@
 {320}{}{Esse foi um grande tipo de você. Muito obrigado, compadre. Aqui está um pouco para o seu problema. Vai ser útil por estas peças. (Ele lhe entrega um Stimpack).}
 {321}{}{Obrigado, Smitty. Sem problemas. Até a próxima.}
 {322}{}{Well, uhhh... Thanks, but I already headed over to Mom's and got some eats myself, so I won't be needin' that anymore.}
-{323}{}{Oops, I'm not the usual delivery person. He called in sick today. Can I get some experience points anyway?}
-{324}{}{OK, sorry about the mix-up. I hope Mom doesn't fire me! I really need this job.}
-{325}{}{You know we're not doing the free meal after 24 hours thing anymore, right?}
-{326}{}{Well, maybe I'll just eat it myself then.}
-{327}{}{Mom's not gonna be too happy with this.}
-{330}{}{Well, you see, I've got this car, a Chrysalis Motors Highwayman. She's a beaut, too. They used to say "Nothing can stop a Highwayman." Built tough, that's what they were.}
-{331}{}{Yeah, so what's that got to do with me?}
-{340}{}{Well, you see, I thought I needed a battery for the thing but all I really need is a fuel cell controller. Them things was always going bad on 'em.}
-{341}{}{Well, I've got one of those.}
-{350}{}{That right? Here's the deal. You give me $2,000 and I'll sell you the car. Heck I'll even install the fuel cell controller for you. Should run good as new. I'll even charge it up with some extra micro fusion power cells I got.}
-{351}{}{That sounds good to me. Here's the money and the part.}
-{352}{}{I don't think I want to do that right now. Let me ask you about something else, Smitty.}
-{353}{}{Let me think about it. I'll see you around, Smitty.}
-{370}{}{Jist take it easy with her 'til she warms up, now.}
-{371}{}{OK, I will. Thanks, Smitty.}
-{380}{}{Well, a lot an' not so much at the same time.}
+{323}{}{Opa, eu não sou a pessoa de entrega habitual. Ele ficou doente hoje. Posso obter alguns pontos de experiência de qualquer maneira?}
+{324}{}{Ok, desculpe a confusão. Espero que a mãe não me atire! Eu realmente preciso desse emprego.}
+{325}{}{Você sabe que não estamos fazendo a refeição gratuita depois das 24 horas mais, certo?}
+{326}{}{Bem, talvez eu apenas coma eu mesmo.}
+{327}{}{Mamãe não vai ficar muito feliz com isso.}
+{330}{}{Bem, você vê, eu tenho este carro, um Chrysalis Motors Highwayman. Ela também é uma beleza. Eles costumavam dizer "Nada pode parar um Highwayman". Construído duro, era o que eram.}
+{331}{}{Sim, então o que é que isso tem a ver comigo?}
+{340}{}{Bem, você entende, pensei que precisava de uma bateria para a coisa, mas tudo que eu realmente preciso é um controlador de célula de combustível. As coisas sempre foram ruins para eles.}
+{341}{}{Bem, eu tenho um desses.}
+{350}{}{Está direito? Aqui está o acordo. Você me forneceu $ 2.000 e eu vou vender o carro. Puxa vou instalar o controlador de célula de combustível para você. Deve correr bem como novo. Eu até vou carregá-lo com algumas células de micro fusão extras que eu tenho.}
+{351}{}{Isso soa bem para mim. Aqui está o dinheiro e a parte.}
+{352}{}{Eu não acho que eu quero fazer isso agora. Deixe-me perguntar-lhe sobre algo, Smitty.}
+{353}{}{Deixe-me pensar sobre isso. Eu vou ver você de volta, Smitty.}
+{370}{}{Apenas tenha calma com ela até que ela se esquece, agora.}
+{371}{}{OK, eu vou. Obrigado, Smitty.}
+{380}{}{Bem, muito e não tanto ao mesmo tempo.}
 {381}{}{Hein?}
-{390}{}{What I'm saying is that havin' a regulator is nice but you need to find a fuel cell controller.}
-{391}{}{Why's that?}
-{400}{}{'Cause if'n you had a controller, and $2,000, I could fix this here Chrysalis Motors Highwayman that I got here and you could drive around in style.}
-{401}{}{Really? Where can I find a fuel cell controller?}
-{410}{}{Now that's a silly question. Don't you think if I knew that then I'd be driving around in the car?}
-{411}{}{Wow. I'll have to look for one of those.}
-{420}{}{Be a good idea. If you find one jist come on back here with it. Oh, and don' forget the $2,000, neither.}
-{421}{}{Sounds like a plan, Smitty. Hey, let me ask you about something else.}
-{422}{}{I'm going to go look for one right now. Goodbye.}
-{430}{}{Hey there, how's that car runnin' for ya?}
-{431}{}{Pretty good, Smitty, but I found this part for the car and I don't know what to do with it.}
-{432}{}{Great, Smitty, just great. Hey, I brought you a meal. Compliments of Mom.}
-{433}{}{Real good, Smitty, real good. Thanks. See you around. Goodbye.}
-{450}{}{Well now, that's a fuel cell regulator. That'll give you better mileage per energy cell. I could put that in for you, if you had say $750 for my trouble.}
-{451}{}{That sounds like a deal, Smitty. Here's the part and the money.}
-{452}{}{I'll have to think about it, Smitty. Goodbye for now.}
-{460}{}{Mostly I just keep watch over all this old junk. Only got one thing worth doodly-squat.}
+{390}{}{O que estou dizendo é que um regulador é bom, mas você precisa encontrar um controlador de célula de combustível.}
+{391}{}{Por que?}
+{400}{}{Porque se você tivesse um controlador e US $ 2.000, poderia consertar aqui o Chrysalis Motors Highwayman que tenho aqui e você poderia dirigir com estilo.}
+{401}{}{Mesmo? Onde posso encontrar um controlador de célula de combustível?}
+{410}{}{Agora, essa é uma pergunta tola. Você não pensa se eu soubesse disso, então eu estaria dirigindo no carro?}
+{411}{}{Uau. Eu vou ter que procurar por um desses.}
+{420}{}{Seria uma boa ideia. Se você encontrar um só vem de volta aqui com ele. Ah, e não esqueça os US $ 2.000, mais tarde.}
+{421}{}{Soa como um plano, Smitty. Ei, deixe-me perguntar-lhe sobre outra coisa.}
+{422}{}{Eu estou indo para ir procurar um agora. Adeus.}
+{430}{}{Ei ai, como esse carro corre pra você?}
+{431}{}{Muito bom, Smitty, mas achei essa parte do carro e não sei o que fazer com isso.}
+{432}{}{Ótimo, Smitty, ótimo. Ei, trouxe-lhe uma refeição. Elogios de mamãe.}
+{433}{}{Muito bom, Smitty, muito bom. Obrigado. Até a próxima. Adeus.}
+{450}{}{Bem, agora, esse é um regulador de célula de combustível. Isso lhe dará melhor quilometragem por célula de energia. Eu poderia colocar isso para você, se você tivesse dito $ 750 para o meu problema.}
+{451}{}{Isso parece um acordo, Smitty. Aqui está a parte e o dinheiro.}
+{452}{}{Eu vou ter que pensar sobre isso, Smitty. Adeus por agora.}
+{460}{}{Principalmente, eu apenas monto tudo sobre esse lixo antigo. Só conseguiu uma coisa digna de doodly-squat.}
 {461}{}{O que é isso?}
-{462}{}{I figured that. Let me ask you something else.}
-{470}{}{Why, it's none other than this Chrysalis Motors Highwayman. They used ta say that "Nothing can stop a Highwayman." They shore built 'em tough, I'll say that for 'em.}
-{471}{}{Wow, does it run?}
-{480}{}{If'n it ran, do you think I'd still be in this shithole of a town?}
-{481}{}{Uh, yes.}
-{482}{}{I guess not.}
-{490}{}{Well, you're probably right. I got kinda settled in here.}
+{462}{}{Eu percebi isso. Deixe-me perguntar-lhe algo mais.}
+{470}{}{Por que, não é senão este Chrysalis Motors Highwayman. Eles costumavam dizer que "Nada pode parar um Highwayman". Eles os construíram duro, eu direi isso para eles.}
+{471}{}{Uau, ele corre?}
+{480}{}{Se correu, você acha que eu ainda estaria nessa merda de cidade?}
+{481}{}{Uh, sim.}
+{482}{}{Eu acho que não.}
+{490}{}{Bem, você provavelmente está certo. Eu me encontrei um pouco aqui.}
 {491}{}{Eu vejo.}
-{500}{}{Well, then again, mebbe' I would too. I got all comfortable here.}
+{500}{}{Bem, então, novamente, talvez eu também. Fiquei bem aqui.}
 {501}{}{Eu entendo.}
-{510}{}{I wouldn't mind selling the car though. If someone brought me the battery - no strike that, uh, I guess I'd need a fuel cell controller. Yeah, if'n I had one of them, I'd sell the car for $2,000. Even install the controller so it'd run right.}
-{511}{}{That sounds interesting. I'll have to come back if I ever find a fuel cell controller. Let me ask you something else right now.}
-{512}{}{When I find one, I'll be back. Goodbye, Smitty.}
-{520}{}{There you go. Better'n new. Take it easy with her now.}
-{521}{}{I will. Thanks, Smitty. Goodbye.}
-{600}{}{YOU GET THE HELL AWAY FROM MY CAR!}
-{650}{}{Don't let me catch you sneaking around my car like that again.}
-{651}{}{You won't.}
+{510}{}{Ainda não me importaria de vender o carro. Se alguém me trouxe a bateria - não acerte isso, uh, acho que eu precisaria de um controlador de célula de combustível. Sim, se eu tivesse um deles, eu venderia o carro por US $ 2.000. Mesmo instalar o controlador para que corra corretamente.}
+{511}{}{Isso parece interessante. Eu vou ter que voltar se eu encontrar um controlador de célula de combustível. Deixe-me perguntar-lhe outra coisa agora.}
+{512}{}{Quando eu encontrar, eu vou estar de volta. Adeus, Smitty.}
+{520}{}{Ai está. Como novo. Tome calma com ele agora.}
+{521}{}{Eu vou. Obrigado, Smitty. Adeus.}
+{600}{}{VOCÊ PARA O INFERNO FORA DO MEU CARRO!}
+{650}{}{Não me deixe pegar você esgueirando meu carro assim novamente.}
+{651}{}{Você não.}
 {652}{}{Uggg-K}
