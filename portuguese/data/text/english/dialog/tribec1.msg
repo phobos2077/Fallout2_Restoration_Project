@@ -113,7 +113,8 @@
 {370}{}{[He chuckles.] I offer the hospitality of our tribe and the opportunity to impress me. I promise no more than that.}
 {371}{}{Alright. Let's do this.}
 {372}{}{Alright, but give me a moment to get ready.}
-{373}{}{Not interested. Bye.}
+{373}{}{Não interessado. Tchau.
+}
 {375}{}{Are you ready to go?}
 {376}{}{Ainda não.}
 {377}{}{Alright. Let's do this.}
