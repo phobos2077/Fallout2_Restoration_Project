@@ -88,7 +88,7 @@
 {425}{}{Continue andando!
 }
 {426}{}{Liberdade! Liberdade finalmente!}
-{440}{}{What loud gun noise? What you want?}
+{440}{}{Qual ruído alto da arma? O que você quer?}
 {441}{}{Ei! O que foi todo esse tiroteio? Os escravistas estão mortos?}
 {442}{}{Ei! O que foi todo esse tiroteio? O que está acontecendo?}
 {443}{}{Essa foi a touca de Metzger.}

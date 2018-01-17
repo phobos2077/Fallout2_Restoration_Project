@@ -1,23 +1,23 @@
-{100}{}{You see a big, primitive looking man.}
+{100}{}{Você vê um homem grande e de aparência primitiva.}
 {101}{}{Este homem parece bastante forte e alerta.}
 {110}{}{Você vê uma mulher primitiva delgada.}
 {111}{}{Ela parece forte, apesar de seu tamanho.}
-{120}{}{You see a strange looking man.}
-{121}{}{He seems to be awfully thin.}
-{130}{}{You see a ragged looking man.}
+{120}{}{Você vê um homem estranho.}
+{121}{}{Ele parece ser extremamente magro.}
+{130}{}{Você vê um homem de aparência esfarrapada.}
 {131}{}{Este parece bastante forte.}
 {140}{}{Você vê um homem em roupas esfarrapadas.}
-{141}{}{He movements suggest on with speed.}
+{141}{}{Os movimentos sugerem velocidade.}
 {150}{}{Você vê uma mulher muito suja.}
 {151}{}{Ela não parece ter se banhado.}
-{160}{}{You see a rather large woman.}
+{160}{}{Você vê uma mulher bastante grande.}
 {161}{}{Ela parece forte lutadora.}
 {170}{}{Você vê uma mulher de aparência magra.}
 {171}{}{Este não parece ser muito problema.}
 {200}{}{Morra!}
-{201}{}{Where you at?}
-{202}{}{I'm gunna hurt you.}
-{210}{}{I'm going to get your for this!}
+{201}{}{Onde você está?}
+{202}{}{Eu vou te machucar.}
+{210}{}{Eu vou pegar o seu por isso!}
 {211}{}{Malditos escravistas!}
 {212}{}{Você vai pagar por isso!}
 {220}{}{Deixe sozinho!}
@@ -29,7 +29,7 @@
 {232}{}{Por favor, não me mate!}
 {233}{}{Eu não lutar; não me mate!}
 {234}{}{Por favor, eu não quero morrer!}
-{235}{}{You're slavers aren't you? Oh, god.}
+{235}{}{Vocês são escravistas não é? Oh Deus.}
 {245}{}{Silêncio! Eles perto.}
 {246}{}{Matar os homens maus.}
 {247}{}{Não tire minha família de mim.}
@@ -37,14 +37,14 @@
 {249}{}{Não devem encontrar-nos.}
 {250}{}{Eles pessoas más.}
 {260}{}{Escravistas estão chegando. Todos quietos.}
-{261}{}{Get ready; I think they're close now.}
+{261}{}{Prepare-se; eu acho que eles estão perto agora.}
 {262}{}{Eu não vou cair sem uma luta.}
 {263}{}{Eles nunca vão nos escravizar.}
 {264}{}{Aqueles escravistas pagarão por isso.}
 {265}{}{Nenhum escravista vai levar minha família.}
 {270}{}{Eles não me encontram.}
 {271}{}{Deve se esconder. Deve se esconder.}
-{272}{}{Why they want hurt.}
+{272}{}{Por que eles querem machucar.}
 {273}{}{Me assusta.}
 {274}{}{Eu não luta.}
 {275}{}{Eu quero viver.}
@@ -74,11 +74,11 @@
 {312}{}{Pare!}
 {313}{}{Socorro!}
 {314}{}{Corre!}
-{315}{}{No do that!}
+{315}{}{Não faça isso!}
 {320}{}{Correr para sua vida!}
 {321}{}{Não deixe que eles o peguem!}
 {322}{}{Escravistas! Corra disso!}
-{323}{}{Help someone! Please!}
+{323}{}{Ajudar alguém! Por favor!}
 {324}{}{Corra disso, Marty!}
 {325}{}{Ahhh!}
 {326}{}{Pare a insanidade!}

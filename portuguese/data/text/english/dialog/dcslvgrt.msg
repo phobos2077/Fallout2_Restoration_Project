@@ -64,51 +64,52 @@
 {321}{}{Quantas vezes eu tenho que te dizer? Ele é o mestre escravista. Ele dirige coisas nesta cidade.}
 {322}{}{Posso pedir mais uma coisa?}
 {323}{}{Ok, obrigado.}
-{330}{}{I ain't talkin' about that. Metzger'll string me up. Plus, we wouldn't want any outside competition.}
-{331}{}{I already said. I ain't gonna talk about that.}
-{332}{}{Tell me before I blow a hole through your head.}
-{333}{}{I understand. Another question?}
+{330}{}{Eu não estou falando sobre isso. Metzger vai me amarrar. Além disso, não queremos nenhuma competição externa.}
+{331}{}{Eu já disse. Não vou falar sobre isso.}
+{332}{}{Diga-me antes de eu abrir um buraco através de sua cabeça.}
+{333}{}{Eu entendo. Outra pergunta?}
 {334}{}{Tudo bem, tchau.}
-{340}{}{Listen here, ya li'le shit head, don't you dare threaten me or anyone else in our guild, or you're dead. Get that? Dead.}
-{341}{}{Listen here, ya li'l cunt. Don't you dare threaten me or anyone else in our guild, or your dead. Get that? Dead.}
-{342}{}{Now, young jet eye, you will die.}
+{340}{}{Ouça aqui, você é uma merda, não se atreva a me ameaçar ou a ninguém em nossa aliança, ou você está morto. Pegou isso? Morto.}
+{341}{}{Ouça aqui, você está lendo. Não se atreva a me ameaçar ou a ninguém em nossa aliança, ou será sua morte. Pegou isso? Morto.}
+{342}{}{Agora, jovem jato, você vai morrer.}
 {343}{}{Que se dane.}
-{344}{}{Sorry, please don't hurt me.}
-{345}{}{Yeah, whatever. I'll let you live this time.}
-{350}{}{Oh, really? Maybe I should just blow a hole through your head right here 'n now. What do you think, hot shot?}
-{351}{}{Take your best shot.}
-{352}{}{Don't make me laugh.}
-{353}{}{I was just joking, man.}
-{354}{}{I'm sorry. I was just trying to impress you.}
-{360}{}{Run along, before I change m'mind.}
+{344}{}{Desculpe, por favor, não me faça mal.}
+{345}{}{Sim, que seja. Eu vou deixar você viver este tempo.}
+{350}{}{Sério? Talvez eu devesse explodir um buraco na cabeça aqui mesmo agora. O que você acha, tiro quente?}
+{351}{}{Dê o seu melhor tiro.}
+{352}{}{Não me faça rir.}
+{353}{}{Eu estava apenas brincando, cara.}
+{354}{}{Sinto muito. Eu só estava tentando impressioná-lo.}
+{360}{}{Corra junto, antes de eu mudar de ideia.}
 {361}{}{Tudo bem.}
-{370}{}{What? Oh, you must be looking for Mom's. You're one building off. She's in the building directly south. S-o-u-t-h. That way. [Aidan points out the door.]}
-{371}{}{Huh? Uh… Oh.}
-{380}{}{Ya look like ya might fit in, but Metzger's never hired a woman. Not sure why, but I doubt he's gonna start now.}
-{381}{}{Ya don't look the type. Hell, Metzger's never hired a woman before. Not sure why, but I doubt he's starting now.}
-{382}{}{I said ta talk ta Metzger.}
+{370}{}{O que? Ah, você deve procurar a mãe. Você vai num edifício fora. Ela está no prédio diretamente ao sul. Sul. Dessa maneira. [Aidan aponta a porta.]}
+{371}{}{Hein? Uh... Oh.}
+{380}{}{Parece que você poderia entrar, mas a Metzger nunca contratou uma mulher. Não tenho certeza por que, mas duvido que ele comece agora.}
+{381}{}{Você não parece o tipo. Inferno, Metzger nunca contratou uma mulher antes. Não tenho certeza por que, mas duvido que ele esteja começando agora.}
+{382}{}{Eu disse ta falar com Metzger.}
 {383}{}{Quem é o Metzger?}
-{384}{}{Another question.}
+{384}{}{Outra pergunta.}
 {385}{}{Obrigado, eu vou.}
 {386}{}{Medger}
 {387}{}{Uh... kay.}
-{400}{}{Nope, but I'd check with the boss. He's probably been all over the fuckin' place.}
-{401}{}{Another question.}
+{400}{}{Não, mas eu verificaria com o chefe. Ele provavelmente esteve por toda parte.}
+{401}{}{Outra pergunta.}
 {402}{}{Ok, obrigado. Tchau.}
-{410}{}{Merchant? Oh, you must mean Vic, that guy that sells the old Vault stuff. He's fucked. Metzger pretty pissed with'm.}
-{411}{}{Yeah, Vic… that Merchant guy, right? The one that sells the old Vault stuff. He's fucked. Metzger pretty pissed with'm.}
-{412}{}{How many times you gonna ask me that? Metzger's got'm.}
+{410}{}{Comerciante? Oh, você deve falar do Vic, aquele cara que vende coisas do Vault. Ele está fodido. Metzger estava muito enojado com eles.}
+{411}{}{Sim, Vic ... esse Comerciante, certo? Aquele que vende o antigo material do Vault. Ele está fodido. Metzger estava muito enojada com eles.}
+{412}{}{Quantas vezes você vai me perguntar isso? Metzger pegou.}
 {413}{}{Quem é o Metzger?}
 {414}{}{Posso fazer outra pergunta?}
-{415}{}{Is he for sale?}
+{415}{}{Ele está à venda?}
 {416}{}{Ok, obrigado.}
-{430}{}{Hey, boys, look who's back.}
-{431}{}{Run, it's a slaver! Ah, I crack m'self up.}
-{432}{}{Back for some action?}
-{433}{}{You know the way.}
+{430}{}{Ei, meninos, olha quem está de volta.}
+{431}{}{Corra, é um escravista! Ah, eu me separo.}
+{432}{}{De volta para um pouco de ação?}
+{433}{}{Você conhece o caminho.}
 {434}{}{Vá em frente.}
-{435}{}{He's wait'n for ya.}
+{435}{}{Ele está esperando por você.}
 {436}{}{E agora?}
-{437}{}{I know that ugly face.}
-{438}{}{How's it goin'?}
-{439}{}{Yer back. Ya gonna join up?}
+{437}{}{Eu conheço esse rosto feio.}
+{438}{}{Como vai'?
+}
+{439}{}{Yer para trás. Ya vamos participar?}

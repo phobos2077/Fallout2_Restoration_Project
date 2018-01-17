@@ -1,40 +1,41 @@
-{100}{}{You see a greasy old coot.}
-{150}{}{You see Smitty the mechanic and junkyard owner.}
-{151}{}{You see a greasy old coot with dirty work-clothes on.}
-{200}{}{You varmint! Git outta here before I hafta learn ya!}
-{201}{}{Git outta my place!}
-{202}{}{Git off my land!}
-{203}{}{Dang varmint, git outta here.}
-{204}{}{Go the hell away from me.}
-{220}{}{Hey, git off my land.}
-{221}{}{You there, dumbass, git outta here.}
-{222}{}{Git, go on, git!}
-{223}{}{I ain't got time for your type.}
-{224}{}{Sorry, I guess I don't speak idjit.}
-{240}{}{Hello there, young feller. What can old Smitty do ya for?}
-{241}{}{Hello there, cute-stuff. What can old Smitty do ya for?}
-{242}{}{Jumpin' jiminy, what can I do for ya now?}
-{243}{}{Hey there, I really enjoyed my meal from Mom's. Thanks. Now what can old Smitty do for ya?}
-{244}{}{I was just wondering what you do here?}
-{245}{}{Say, old timer, I have this thingy here that I picked up in Gecko….}
-{246}{}{Hey Smitty, I was wondering about that car you had for sale.}
-{247}{}{I brought your meal from Mom's.}
-{248}{}{Say, old timer, I have this thingy here that I picked up in Klamath….}
-{249}{}{I was just looking around a bit. See you later, Smitty.}
-{260}{}{Let old Smitty here take a look at it.}
-{261}{}{Sure, here it is.}
-{262}{}{On second thought, let me ask you about something else.}
-{263}{}{Maybe another time. Goodbye, Smitty.}
-{280}{}{Let old Smitty here take a look at it.}
-{281}{}{Sure, here it is.}
-{282}{}{On second thought, let me ask you about something else.}
-{283}{}{Maybe another time. Goodbye, Smitty.}
-{300}{}{Well now, that looks to me like it's an old fuel cell controller. Hmm, I bet if I used that with the old Highwayman I could get her purring like a kitten.}
+{100}{}{Você vê uma galeira velha gordurosa.}
+{150}{}{Você vê Smitty o mecânico e proprietário do ferro-velho.}
+{151}{}{Você vê uma galeira gordurosa e velha com roupa de trabalho suja.}
+{200}{}{Você Varmint! Saia daqui antes que eu prenda você!}
+{201}{}{Saia do meu lugar!}
+{202}{}{Saia da minha terra!}
+{203}{}{Dang varmint, saia daqui!}
+{204}{}{Vá para o inferno fora de mim.}
+{220}{}{Ei, fora de minha terra.}
+{221}{}{Você lá, idiota, saia daqui.}
+{222}{}{Vá embora, vá!}
+{223}{}{Eu não tenho tempo para o seu tipo.}
+{224}{}{Desculpe, eu acho que eu não falo idjit.}
+{240}{}{Olá, jovem rapaz. O que pode o velho Smitty fazer por você?}
+{241}{}{Olá, coisa-bonita. O que pode antigo Smitty fazer?}
+{242}{}{Grilo sautitante, o que posso fazer agora?}
+{243}{}{Ei, eu realmente gostei da minha refeição da Mãe. Obrigado. Agora, o que pode antigo Smitty fazer por vocês?}
+{244}{}{Eu só estava me perguntando o que você faz aqui?}
+{245}{}{Dizem que, de tempos antigos, eu tenho essa coisa aqui que eu peguei no Gecko....}
+{246}{}{Hey Smitty, eu estava pensando sobre o carro que você tinha para venda.}
+{247}{}{Eu trouxe a sua refeição da Mãe.}
+{248}{}{Dizem que, de tempos antigos, eu tenho essa coisa aqui que eu peguei em Klamath....}
+{249}{}{Eu só estava olhando um pouco. Vejo você mais tarde, Smitty.}
+{260}{}{Deixe velho Smitty aqui dar uma olhada nisso.}
+{261}{}{Certo, aqui está.}
+{262}{}{Pensando bem, deixe-me perguntar-lhe sobre outra coisa.}
+{263}{}{Talvez em outra ocasião. Adeus, Smitty.}
+{280}{}{Deixe velho Smitty aqui dar uma olhada nisso.}
+{281}{}{Certo, aqui está.}
+{282}{}{Pensando bem, deixe-me perguntar-lhe sobre outra coisa.}
+{283}{}{Talvez em outra ocasião. Adeus, Smitty.}
+{300}{}{Bem, agora, isso me parece que é um antigo controlador de célula de combustível. Hmm, eu aposto que se eu usar isso com o velho Highwayman, eu poderia fazer com que ele 
+ ronronar como uma gatinha.}
 {301}{}{Hein?}
-{310}{}{Hmm, that looks jist like a fuel cell regulator. If I had a car that ran, it'd sure improve the mileage on it.}
+{310}{}{Hmm, isso parece um regulador de célula de combustível. Se eu tivesse um carro que funcionasse, certamente aumentaria a quilometragem.}
 {311}{}{Hein?}
-{320}{}{That was mighty darn kind of you. Thanks mucho, compadre. Here's a little something for your trouble. It'll come in handy 'round these parts. (He hands you a Stimpack.)}
-{321}{}{Thanks, Smitty. No problem. See you around.}
+{320}{}{Esse foi um grande tipo de você. Muito obrigado, compadre. Aqui está um pouco para o seu problema. Vai ser útil por estas peças. (Ele lhe entrega um Stimpack).}
+{321}{}{Obrigado, Smitty. Sem problemas. Até a próxima.}
 {322}{}{Well, uhhh... Thanks, but I already headed over to Mom's and got some eats myself, so I won't be needin' that anymore.}
 {323}{}{Oops, I'm not the usual delivery person. He called in sick today. Can I get some experience points anyway?}
 {324}{}{OK, sorry about the mix-up. I hope Mom doesn't fire me! I really need this job.}
