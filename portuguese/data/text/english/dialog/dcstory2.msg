@@ -29,37 +29,38 @@
 {134}{}{Oh, nada realmente. Às vezes eu consigo pensar sobre minha mãe e meu gato. Eu sinto tanto falta deles.}
 {135}{}{Gato?}
 {136}{}{Sorry to hear that. Bye.}
-{137}{}{Yeah, Cuddles. She was such a sweet cat. I really don't feel like talking about it... Well, unless you'd like to buy me a drink. That might help.}
-{138}{}{As I said, I would prefer not to talk about it right now. If you'd like to buy me a drink, it might loosen my tongue.}
-{139}{}{Of course I will. I'd love to hear about it.}
+{137}{}{Sim, Cuddles. Ela era um gato tão doce. Eu realmente não sinto vontade de falar sobre isso ... Bem, a menos que você goste de me comprar uma bebida. Isso pode ajudar.}
+{138}{}{Como eu disse, eu prefiro não falar sobre isso agora. Se você gostaria de me comprar uma bebida, pode soltar minha língua.}
+{139}{}{É claro que eu vou. Eu adoraria ouvir sobre isso.}
 {140}{}{Com certeza.}
-{141}{}{Sorry, I can't spare $10 right now.}
-{142}{}{Obviously.}
-{143}{}{Do you think you're funny or something? Get a better line.}
-{144}{}{So why the glum face?}
+{141}{}{Desculpe, eu não posso gastar $10 agora.}
+{142}{}{Obviamente.}
+{143}{}{Você acha que é engraçado ou algo assim? Obtenha uma linha melhor.}
+{144}{}{Então, por que o triste rosto?}
 {145}{}{Seja o que for, adeus.}
-{146}{}{I hear there used to be ones that were as big as you and me. They used to eat animals as big as a brahmin. Now that's scary stuff.}
-{147}{}{That's nothing.}
-{148}{}{Yeah, it is.}
-{149}{}{The kind I'm talking about is a small cute animal, bigger than a rat but smaller than a dog. Some are fluffy, like my Cuddles, but others have short hair.}
+{146}{}{Ouvi dizer que costumava haver aqueles que eram tão grandes quanto você e eu. Eles costumavam comer animais tão grandes quanto um brahmin. Agora, isso é coisa assustadora.}
+{147}{}{Que nada.}
+{148}{}{Sim, é.}
+{149}{}{O tipo de que estou falando é um pequeno animal fofo, maior do que um rato, mas menor que um cachorro. Alguns são esponjosos, como meus Cuddles, mas outros têm cabelo curto.}
 {150}{}{Realmente?}
-{151}{}{They like to be pet like a dog does, but cats make this wonderful relaxing sound when you pet them.}
-{152}{}{Strange.}
-{153}{}{Cuddles always used to help me go to sleep at night. I think of her every night when I try to go to sleep.}
-{154}{}{Sounds nice.}
+{151}{}{Eles gostam de ser um animal de estimação como um cachorro, mas os gatos fazem esse maravilhoso som relaxante quando você os acaricia.}
+{152}{}{Estranho.}
+{153}{}{Cuddles costumava me ajudar a dormir à noite. Penso nela todas as noites quando tento dormir.}
+{154}{}{Parece bom.}
 {155}{}{Continue.
 }
-{156}{}{I had her when I was a kid, but she disappeared. I didn't know then what happened to her, I was too young.}
+{156}{}{Eu a tinha quando eu era criança, mas ela desapareceu. Eu não sabia o que aconteceu com ela, eu era muito jovem.}
 {157}{}{Por quê?}
-{158}{}{Well, food was awfully scarce back then and people had to eat. It's quite sad really...}
+{158}{}{Bem, a comida era muito escassa naquela época e as pessoas tinham que comer. É realmente muito triste ...}
 {159}{}{O que?}
-{160}{}{People would hunt them because they were such easy prey. None of them are around anymore because of it.}
-{161}{}{Sick!}
-{162}{}{I can understand that.}
-{163}{}{Those were the wild ones, but I'm sure that's what happened to mine. Now I know why Mom always kept a close eye on her.}
-{164}{}{How sad.}
-{165}{}{I'm sorry.}
+{160}{}{As pessoas iriam caçá-los porque eram uma presa tão fácil. Nenhum deles está por perto por causa disso.}
+{161}{}{Doente!}
+{162}{}{Eu posso entender isso.}
+{163}{}{Esses eram os selvagens, mas tenho certeza de que é o que aconteceu com o meu. Agora eu sei por que mamãe sempre olhou atentamente sobre ele.}
+{164}{}{Que triste.
+}
+{165}{}{Sinto muito.}
 {166}{}{Oh...}
-{167}{}{It makes me sad to think about it...}
+{167}{}{Isso me deixa triste em pensar ...}
 {168}{}{Adeus.}
-{169}{}{Stacy told you a sweet story about her darling cat Cuddles.}
+{169}{}{Stacy lhe contou uma doce história sobre seu querido gato Cuddles.}

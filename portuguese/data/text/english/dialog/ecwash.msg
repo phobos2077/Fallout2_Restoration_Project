@@ -78,7 +78,7 @@
 {436}{}{Come my child, let me take your pain away.}
 {437}{}{You're dead.  You just don't know it yet.}
 {440}{}{Get some!}
-{441}{}{You want some of this?}
+{441}{}{Você quer um pouco disso?}
 {442}{}{Not the face, not the face!}
 {445}{}{Dante hasn't written about the hell I'm sending you to...}
 {450}{}{Guns! Guns! Guns! Where are my guns!}

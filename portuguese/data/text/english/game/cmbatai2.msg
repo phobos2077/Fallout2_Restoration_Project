@@ -1150,7 +1150,7 @@
 {32341}{}{I railed your ass!}
 {32342}{}{YEAH!}
 {32343}{}{Yeah, baby, yeah!}
-{32344}{}{You want some of this?}
+{32344}{}{Você quer um pouco disso?}
 {32345}{}{Don't move that way!}
 {32346}{}{Shagadelic, bay-by!}
 {32347}{}{Oh, is that your face?}

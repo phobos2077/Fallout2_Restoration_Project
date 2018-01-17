@@ -1,68 +1,69 @@
-{100}{}{You see the shop owner.}
-{101}{}{You see Tubby.}
-{150}{}{This is the store owner.}
-{151}{}{This is Tubby, the shop store owner.}
+{100}{}{Você vê o dono da loja.}
+{101}{}{Você vê Tubby.}
+{150}{}{Esse é o proprietário da loja.}
+{151}{}{Este é Tubby, o dono da loja.}
 {152}{}{[FALAR]}
-{153}{}{I would prefer that you take your business elsewhere.}
-{154}{}{You are a business man. Let's conduct business.}
-{155}{}{Can I ask you something.}
+{153}{}{Preferiria que você fizesse o seu negócio em outro lugar.}
+{154}{}{Você é um homem de negócios. Vamos realizar negócio.}
+{155}{}{Posso pedir-lhe algo.}
 {156}{}{Adeus.}
-{157}{}{I am so happy to see you again. What can I do for you today?}
+{157}{}{Estou tão feliz em vê-lo novamente. O que eu posso fazer para você hoje?}
 {158}{}{Vamos comércio.}
-{159}{}{Can I ask you something?}
-{160}{}{Nothing for now. Bye.}
-{161}{}{Hello, sir, and welcome to Tubby's. I am the proprietor. May I help
- you?}
-{162}{}{Yes, let's trade.}
-{163}{}{I need some information.}
+{159}{}{Posso perguntar uma coisa?}
+{160}{}{Nada para agora. Tchau.}
+{161}{}{Olá, senhor, e bem-vindo ao Tubby's. Eu sou o proprietário. Posso ajudar
+  você?}
+{162}{}{Sim, vamos negociar.}
+{163}{}{Preciso de algumas informações.}
 {164}{}{Adeus.}
-{165}{}{Hello, madam. I am called Tubby by my friends, and I welcome you
- to my store. How may I help you?}
-{166}{}{I want to buy some things.}
-{167}{}{I need some information.}
+{165}{}{Ola senhora. Eu sou chamado Tubby pelos meus amigos, e eu a agradeço
+  para minha loja. Como posso ajudá-la?}
+{166}{}{Eu quero comprar algumas coisas.}
+{167}{}{Preciso de algumas informações.}
 {168}{}{Adeus.}
-{169}{}{I would prefer that you leave, instead.}
+{169}{}{Preferiria que você fosse embora.}
 {170}{}{Adeus.}
 {171}{}{O que você gostaria de saber?}
-{172}{}{Who's in charge of this town?}
-{173}{}{Why is everyone selling drugs?}
-{174}{}{Do you know where the Vault is located?}
-{175}{}{I would like to barter after all.}
-{176}{}{Never mind. Bye}
-{177}{}{Oh my. I can tell we will have a communication problem. Please nod
- if you would like to trade any goods.}
-{178}{}{[Nod]}
+{172}{}{Quem está no comando desta cidade?}
+{173}{}{Por que todos estão vendendo drogas?}
+{174}{}{Você sabe onde o Vault está localizado?}
+{175}{}{Eu gostaria de poder trocar depois de tudo.}
+{176}{}{Deixa pra lá. Tchau.
+}
+{177}{}{Oh meu. Posso dizer que teremos um problema de comunicação. Acorde com a cabeça
+  se você gostaria de trocar mercadorias.}
+{178}{}{[aceno]}
 {179}{}{Byebye.}
-{180}{}{No one, I'm afraid. The Den is an anarchistic place where a kind of
- Darwinian struggle is played out. Only the strongest, fastest or smartest
- will survive here. I'm sure you will find your niche.}
-{181}{}{Um, thanks.}
-{182}{}{OK. Drugs are the basis for this town's economic system, just as another 
-town may use grain or gold. Redding is another prime example of a town fueled by drugs.
- Damn miners are too high all the time to get any real work done. I have never been there myself,
- but it is a couple days south-east of here if you want to check it out.}
+{180}{}{Ninguém, tenho medo. O Den é um lugar anarquista onde uma espécie de
+  luta darwiniana é desempenhada. Somente o mais forte, mais rápido ou mais inteligente
+  sobreviverá aqui. Tenho certeza que você encontrará seu nicho.}
+{181}{}{Hum, obrigado.}
+{182}{}{ESTÁ BEM. As drogas são a base para o sistema econômico desta cidade, assim como outra
+ cidade pode usar grãos ou ouro. Redding é outro excelente exemplo de uma cidade alimentada por drogas.
+  Os mineros são muito altos o tempo todo para fazer algum trabalho real. Eu nunca estive lá,
+  mas é um par de dias a sudeste daqui se você quiser verificá-lo.}
 {183}{}{Obrigado.}
-{184}{}{I have heard of a place called Vault City. But unfortunately, I can't
- help you with directions. You see, very few of us towns can offer acceptable
- exchange for the medical services they provide, so most of us have never been
- there.}
-{185}{}{OK. Thanks.}
-{186}{}{That's not the kind of information I would just GIVE away to anyone.}
-{187}{}{Would a hundred bucks change your mind?}
-{188}{}{How about I give you $50 and you tell me.}
-{189}{}{What do you say you give me the information, or I give you a new hole
- in the head.}
+{184}{}{Ouvi falar de um lugar chamado Vault City. Mas, infelizmente, não posso
+  ajudá-lo com instruções. Você vê, muito poucos de nós, cidadãos, podem oferecer aceitável
+  troca dos serviços médicos que eles fornecem, então a maioria de nós nunca foi
+  lá.}
+{185}{}{OK. Obrigado.}
+{186}{}{Esse não é o tipo de informação que eu simplesmente DARIA a ninguém.}
+{187}{}{Algum dinheiro mudaria de ideia?}
+{188}{}{Que tal eu lhe dou $ 50 e você me conta.}
+{189}{}{O que você diz que me fornece informações, ou eu lhe dou um novo buraco
+  na cabeça.}
 {190}{}{Deixa pra lá.
 }
-{191}{}{Well, can I ask you something else, then?}
-{192}{}{Sure, that kind of money MIGHT help me change my mind. But you ain't got
- it!}
-{193}{}{I must have dropped it somewhere. I'm gonna go look for it.}
-{194}{}{I don't think that's going to be enough.}
-{500}{}{Sure Petey. I'll be there in a second.}
-{501}{}{Hold on, Petey!}
-{502}{}{I'm comin', I'm comin'.}
-{510}{}{Here you go, Petey.}
-{511}{}{You know, Petey, you should kick this shit.}
-{512}{}{Take this and get the hell outta here, Petey.}
-{520}{}{Pleasure doing business.}
+{191}{}{Bem, posso pedir-lhe algo mais, então?}
+{192}{}{Claro, esse tipo de dinheiro PODE me ajudar a mudar de ideia. Mas você não tem
+  isto!}
+{193}{}{Devo tê-lo deixado em algum lugar. Eu vou procurar por isso.}
+{194}{}{Eu não acho que vai ser o suficiente.}
+{500}{}{Claro, Petey. Estarei lá em um segundo.}
+{501}{}{Segure-se, Petey!}
+{502}{}{Eu estou chegando, estou chegando'.}
+{510}{}{Aqui você vá, Petey.}
+{511}{}{Você sabe, Petey, você deveria chutar essa merda.}
+{512}{}{Pegue isso e saia daqui, Petey.}
+{520}{}{Prazer fazer negócios.}

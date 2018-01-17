@@ -70,7 +70,7 @@
 {169}{}{Just a question or two.}
 {170}{}{Não há problema. Tchau.}
 {171}{}{Good work. Now you best make yourself scarce, in case those Rangers ever wise up.}
-{172}{}{Pleasure doing business.}
+{172}{}{Prazer fazer negócios.}
 {173}{}{Well don't hang around here, you moron! Somebody'll get suspicious.}
 {174}{}{All right, I get the hint.}
 {175}{}{What the fuck? Guards! We got an intruder!}
@@ -80,7 +80,8 @@
  pay you for the job - say $1000.}
 {201}{}{Good work. One more thing though. You look like a mean sonuvabith. How 'bout you wipe out those safe houses for me. There's a reward for it - say $1000.}
 {202}{}{Com certeza.}
-{203}{}{Not interested.}
+{203}{}{Não interessado.
+}
 {204}{}{Excellent. Here, let me mark these coordinates on your map thingy. Report back when you're done.}
 {205}{}{Your loss. Now you best make yourself scarce, in case those Rangers ever wise up.}
 {206}{}{Alright. Bye.}

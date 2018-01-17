@@ -1,12 +1,12 @@
-{100}{}{You see a druggie.}
-{110}{}{You see a jet whore.}
-{111}{}{You see one of Tubby's jet whores.}
-{150}{}{He seems to be a friend of Tubby's.}
-{160}{}{She seems to be extremely doped up.}
-{161}{}{She seems to be suffering from massive withdrawals.}
-{200}{}{Oh, man. Where we going to get our shit now?}
-{201}{}{What'd ya kill Tubby for?}
-{202}{}{Oh man, that sucks.}
+{100}{}{Você vê um drogado.}
+{110}{}{Você vê uma prostituta de jet.}
+{111}{}{Você vê uma das putas de Jet de Tubby.}
+{150}{}{Ele parece ser um amigo de Tubby.}
+{160}{}{Ela parece estar extremamente dopada.}
+{161}{}{Ela parece estar sofrendo grandes retiradas.}
+{200}{}{Oh cara. Onde vamos pegar nossa merda agora?}
+{201}{}{Por que matou Tubby?}
+{202}{}{Oh, cara, isso é uma merda.}
 {203}{}{Now what're we supposed to do?}
 {204}{}{Oh, man…}
 {205}{}{Hey, that's not fair.}

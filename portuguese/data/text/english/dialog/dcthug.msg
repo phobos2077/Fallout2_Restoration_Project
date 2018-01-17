@@ -1,15 +1,16 @@
 {100}{}{Você vê um bandido.}
-{150}{}{The thug looks pretty ruthless.}
-{151}{}{Get out of my face.}
-{152}{}{You lookin' for trouble?}
-{153}{}{Keep right on walking.}
-{154}{}{Not interested.}
+{150}{}{O bandido parece muito cruel.}
+{151}{}{Sair do meu rosto.}
+{152}{}{Você está procurando por problemas?}
+{153}{}{Mantenha-se à direita na caminhada.}
+{154}{}{Não interessado.
+}
 {155}{}{Vá embora.}
 {200}{}{Hey punk.}
-{201}{}{You want some trouble?}
-{202}{}{Come here, sissy.}
-{203}{}{Don't make me come over there and beat your ass.}
-{204}{}{You talking to me?}
-{205}{}{You want some of this?}
-{206}{}{Hey baby, come here.}
-{207}{}{Hey, you like what you see?}
+{201}{}{Você deseja algum problema?}
+{202}{}{Venha aqui, mocinha.}
+{203}{}{Não me faça ir aí e bater em sua bunda.}
+{204}{}{Você falando comigo?}
+{205}{}{Você quer um pouco disso?}
+{206}{}{Hey baby, venha aqui.}
+{207}{}{Ei, você gosta do que vê?}

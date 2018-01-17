@@ -172,7 +172,8 @@
 {270}{}{Me take but me need ask questions}
 {271}{}{Me not interested.}
 {272}{}{I'll take it but I need some information.}
-{273}{}{Not interested.}
+{273}{}{Não interessado.
+}
 {274}{tand37a}{I'm Tandi, president of the NCR. So you whupped my boy, Hoss, over at Dusty's? Maybe you're the right man at the right time. Interested in some work?}
 {275}{tand37b}{I'm Tandi, president of the NCR. So you're the girl who whupped my boy Hoss? I should've had such a daughter! I've got a job you might want. Interested?}
 {276}{}{Maybe. What job?}

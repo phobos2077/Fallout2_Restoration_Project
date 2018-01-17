@@ -1705,7 +1705,7 @@
 {18126}{}{Gonna take my time hurting you...}
 {18127}{}{Gonna beat you like a dog...}
 {18140}{}{Who's your Daddy?}
-{18141}{}{You want some of this?}
+{18141}{}{Você quer um pouco disso?}
 {18142}{}{Ernhhh}
 {18143}{}{Hrghhh}
 {18144}{}{Hrggg}
@@ -1897,7 +1897,7 @@
 {32341}{}{I railed your ass!}
 {32342}{}{YEAH!}
 {32343}{}{Yeah, baby, yeah!}
-{32344}{}{You want some of this?}
+{32344}{}{Você quer um pouco disso?}
 {32345}{}{Don't move that way!}
 {32346}{}{Shagadelic, bay-by!}
 {32347}{}{Oh, is that your face?}
@@ -3084,7 +3084,7 @@
 {41718}{}{What the hell am I doing?}
 {41719}{}{Here I go...}
 {41720}{}{I got a can of Sh! with your name on it.}
-{41721}{}{You want some of this?}
+{41721}{}{Você quer um pouco disso?}
 {41722}{}{You screwed with the wrong guy.}
 {41723}{}{I'm gonna enjoy this...}
 {41724}{}{Feet, hands, head... all going in your asshole.}
