@@ -80,7 +80,7 @@
 {176}{}{I wonder how those people dug the tunnels without us noticing.}
 {177}{}{Now we know what Franc and Manson were up to.}
 {178}{}{Those poor, poor people. Their poor families.}
-{180}{}{Don't hurt me.}
+{180}{}{Não me machucar.}
 {181}{}{Deixe-me sozinho.}
 {182}{}{No! No! No!}
 {183}{}{Eu vou estar indo agora.}

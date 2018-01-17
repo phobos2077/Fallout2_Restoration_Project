@@ -8,7 +8,7 @@
 {125}{}{I'm the Grim Reaper, you can't kill me. Aren't I funny.}
 {126}{}{I want a tank!}
 {127}{}{Where's my chainsaw?}
-{128}{}{Don't hurt me.}
+{128}{}{Não me machucar.}
 {129}{}{I didn't mean to be such a jerk.}
 {130}{}{I didn't mean those death threats.}
 {131}{}{I'm sorry Buffy!}

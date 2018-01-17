@@ -28,7 +28,7 @@
 {133}{}{Fegi.}
 {134}{}{Oh, nada realmente. Às vezes eu consigo pensar sobre minha mãe e meu gato. Eu sinto tanto falta deles.}
 {135}{}{Gato?}
-{136}{}{Sorry to hear that. Bye.}
+{136}{}{Triste de ouvir isso. Tchau.}
 {137}{}{Sim, Cuddles. Ela era um gato tão doce. Eu realmente não sinto vontade de falar sobre isso ... Bem, a menos que você goste de me comprar uma bebida. Isso pode ajudar.}
 {138}{}{Como eu disse, eu prefiro não falar sobre isso agora. Se você gostaria de me comprar uma bebida, pode soltar minha língua.}
 {139}{}{É claro que eu vou. Eu adoraria ouvir sobre isso.}

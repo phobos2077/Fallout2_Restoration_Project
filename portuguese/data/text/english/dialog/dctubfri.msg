@@ -7,93 +7,94 @@
 {200}{}{Oh cara. Onde vamos pegar nossa merda agora?}
 {201}{}{Por que matou Tubby?}
 {202}{}{Oh, cara, isso é uma merda.}
-{203}{}{Now what're we supposed to do?}
-{204}{}{Oh, man…}
-{205}{}{Hey, that's not fair.}
-{206}{}{Don't hurt us, we won't tell.}
-{220}{}{Wow, you look pretty mean.}
-{221}{}{Hey, you're a real nice guy. Anyone ever tell you that?}
-{222}{}{Hey, you're a real nice gal. Anyone ever tell you that?}
-{223}{}{We're Tubby's guards.}
-{224}{}{Don't mess with Tubby. This is his place.}
-{225}{}{Damn, I'm feeling good.}
-{226}{}{Can you believe we're guards? Cool, isn't it.}
-{227}{}{This shit is great.}
-{228}{}{Oh, man I can't feel my legs.}
-{229}{}{Tubby's our buddy.}
-{230}{}{Tubby keeps us happy.}
-{231}{}{Oh boy, oh boy oh boy… Damn my eyes.}
-{232}{}{Hey, man, you a slaver? Wow…}
-{233}{}{Did that tattoo hurt?}
-{234}{}{You slavers sure are tough.}
-{235}{}{Isn't it dangerous being a slaver?}
-{236}{}{Hey, I heard your boss got shot or something. Tough luck.}
-{237}{}{Hey, you hear? Metzger's dead or something.}
-{238}{}{Wow, someone diced the Metzger the Butcher.}
-{239}{}{Hope Tubby can stay in business with Metz gone.}
-{250}{}{Wow, man. He killed Tubby.}
-{251}{}{I think my shit went bad.}
-{252}{}{Woh, what's going on?}
-{253}{}{What was all that noise?}
-{254}{}{Dang, that was nasty shit.}
-{255}{}{Wow, man. She killed Tubby.}
-{260}{}{Ooooohhyaaa… Good stuff.}
+{203}{}{Agora, o que devemos fazer?}
+{204}{}{Oh, cara…}
+{205}{}{Ei, não é justo.}
+{206}{}{Não nos machuque, não vamos contar.}
+{220}{}{Uau, você parece muito malvado.}
+{221}{}{Ei, você é um cara realmente legal. Alguém já te disse isso?}
+{222}{}{Ei, você é uma bom sujeito. Alguém já disse isso?}
+{223}{}{Somos os guardas de Tubby.}
+{224}{}{Não mexa com Tubby. Este é o seu lugar.}
+{225}{}{Porra, estou me sentindo bem.}
+{226}{}{Você pode acreditar que somos guardas? Legal, não é.}
+{227}{}{Essa merda é grande.}
+{228}{}{Oh, cara, eu não consigo sentir minhas pernas.}
+{229}{}{Tubby é nosso amigo.}
+{230}{}{Tubby nos mantém felizes.}
+{231}{}{Oh garoto, oh, garoto, oh, garoto ... Maldito meus olhos.}
+{232}{}{Ei, cara, você é um escravista? Wow…}
+{233}{}{Essa tatuagem doeu?}
+{234}{}{Vocês escravistas certamente são difíceis.}
+{235}{}{Não é perigoso ser um escravista?}
+{236}{}{Hey, eu ouvi que seu chefe levou um tiro, ou algo assim. Que azar.}
+{237}{}{Ei, você ouviu? Metzger está morto ou algo assim.}
+{238}{}{Uau, alguém cortou o Metzger o açougueiro.}
+{239}{}{Espero que Tubby possa ficar no negócio com Metz ido.}
+{250}{}{Uau, cara. Ele matou Tubby.}
+{251}{}{Acho que minha merda foi ruim.}
+{252}{}{Woh, o que está acontecendo?}
+{253}{}{O que era todo esse barulho?}
+{254}{}{Dang, era uma merda desagradável.}
+{255}{}{Uau, cara. Ela matou Tubby.}
+{260}{}{Ooooohhyaaa... coisas Boas.}
 {261}{}{O que é isso?}
-{262}{}{Oh, yeah, I'm flying now.}
-{263}{}{Oh so warm.}
-{264}{}{She's so pretty.}
-{265}{}{Oh, blackout… Shit, I can't see.}
-{270}{}{Wow, you see that?}
-{271}{}{Yeah, you know what it was?}
-{272}{}{I think it was a bird.}
-{273}{}{No, a dog.}
-{274}{}{But it was flying man.}
-{275}{}{No way - it zoomed across the ground.}
-{276}{}{Yeah, you seeing things, man.}
-{277}{}{No way. That was real.}
+{262}{}{Oh, sim, eu estou voando agora.}
+{263}{}{Oh, tão quente.}
+{264}{}{Ela é tão bonita.}
+{265}{}{Oh, blackout e... Merda, eu não posso ver.}
+{270}{}{Uau, você vê isso?}
+{271}{}{Sim, você sabe o que era?}
+{272}{}{Eu acho que ele era um pássaro.}
+{273}{}{Não, um cachorro.}
+{274}{}{Mas estava voando cara.}
+{275}{}{De jeito nenhum - aumentou o zoom no chão.}
+{276}{}{Sim, você está vendo coisas, cara.}
+{277}{}{De jeito nenhum. Isso foi real.}
 {278}{}{Seja o que for.}
-{279}{}{Ohhhh it's kicking in again. Ahh.}
-{290}{}{Pretty lights.}
-{291}{}{Lots of lights.}
-{292}{}{They're so warm.}
-{293}{}{And the trees.}
-{294}{}{Where are the women?}
-{295}{}{So green and pretty.}
-{296}{}{I like potatoes.}
-{297}{}{Trees are made of wood.}
-{298}{}{I like women and potatoes.}
-{299}{}{They make smoke when they burn.}
-{300}{}{But not together.}
-{301}{}{Animals live in trees.}
-{302}{}{No, not women and trees, women and potatoes.}
-{303}{}{I can climb a tree.}
-{304}{}{A woman climbing a tree eating potatoes? You're dumb.}
-{305}{}{Where do trees come from?}
-{306}{}{You can't climb a tree and eat potatoes.}
-{307}{}{I like bushes, too.}
-{308}{}{Well, not very easily.}
-{309}{}{Because they're green.}
-{310}{}{Potatoes aren't green.}
-{311}{}{Ohhh, the pretty lights.}
-{312}{}{Oh, my head hurts…}
-{320}{}{Don't talk to me, man. My head hurts.}
-{321}{}{I won't tell anyone.}
-{322}{}{Don't hurt me.}
+{279}{}{Ohhhh está chutando novamente. Ahh.}
+{290}{}{Luzes bonitas.
+}
+{291}{}{Muitas luzes.}
+{292}{}{Eles são tão quentes.}
+{293}{}{E as árvores.}
+{294}{}{Onde estão as mulheres?}
+{295}{}{Tão verde e bonito.}
+{296}{}{Eu gosto de batatas.}
+{297}{}{As árvores são feitas de madeira.}
+{298}{}{Eu gosto de mulheres e batatas.}
+{299}{}{Elas fazem fumaça quando queimam.}
+{300}{}{Mas não juntos.}
+{301}{}{Os animais vivem em árvores.}
+{302}{}{Não, as mulheres e as árvores, as mulheres e as batatas.}
+{303}{}{Eu posso subir em uma árvore.}
+{304}{}{Uma mulher escalando uma árvore comendo batatas? Você é idiota.}
+{305}{}{De onde vêm as árvores?}
+{306}{}{Você não pode escalar uma árvore e comer batatas.}
+{307}{}{Eu gosto de arbustos, também.}
+{308}{}{Bem, não muito facilmente.}
+{309}{}{Porque eles são verdes.}
+{310}{}{As batatas não são verdes.}
+{311}{}{Ohhh, as lindas luzes.}
+{312}{}{Oh, minha cabeça dói…}
+{320}{}{Não fale comigo, cara. Minha cabeça dói.}
+{321}{}{Não vou contar a ninguém.}
+{322}{}{Não me machucar.}
 {323}{}{Eu não fiz nada.}
-{324}{}{I didn't see anything.}
-{325}{}{I didn't hear anything.}
-{326}{}{Please, just leave.}
-{327}{}{Lady, I don't feel much like talking. My fucking head is killing me.}
-{340}{}{Oh man, you suck.}
-{341}{}{What did you go and ruin a perfect high for?}
-{342}{}{Man, that hurt!}
-{343}{}{What the hell?}
-{344}{}{How's that going to happen?}
-{400}{}{Tubby's so wonderful.}
-{401}{}{Jet makes me so horny.}
-{402}{}{Tubby knows how to take care of his women!}
-{403}{}{Isn't Tubby wonderful?}
-{404}{}{Oh, baby- Wait! You ain't Tubby.}
+{324}{}{Eu não vi nada.}
+{325}{}{Eu não ouvi nada.}
+{326}{}{Por favor, é só deixar.}
+{327}{}{Senhora, eu não me sinto muito a vontade de falar. A porra da minha cabeça está me matando.}
+{340}{}{Oh cara, você suga.}
+{341}{}{O que fez você ir e arruinar uma alta perfeita?}
+{342}{}{Homem, isso doeu!}
+{343}{}{O que o inferno?}
+{344}{}{Como é que isso vai acontecer?}
+{400}{}{Tubby é tão maravilhoso.}
+{401}{}{Jet me deixa tão excitada.}
+{402}{}{Tubby sabe como cuidar de suas mulheres!}
+{403}{}{Não é Tubby maravilhoso?}
+{404}{}{Oh, baby - Espera! Você não é Tubby.}
 {405}{}{Where's our big man at?}
 {406}{}{Doesn't it just make your skin tingle?}
 {407}{}{Tubby has the best supply in town.}

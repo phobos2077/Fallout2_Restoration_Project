@@ -36,7 +36,7 @@
 {311}{}{Hein?}
 {320}{}{Esse foi um grande tipo de você. Muito obrigado, compadre. Aqui está um pouco para o seu problema. Vai ser útil por estas peças. (Ele lhe entrega um Stimpack).}
 {321}{}{Obrigado, Smitty. Sem problemas. Até a próxima.}
-{322}{}{Well, uhhh... Thanks, but I already headed over to Mom's and got some eats myself, so I won't be needin' that anymore.}
+{322}{}{Bem, uhh ... Obrigado, mas já me dirigi para a mãe e consegui comer, então não vou precisar disso.}
 {323}{}{Opa, eu não sou a pessoa de entrega habitual. Ele ficou doente hoje. Posso obter alguns pontos de experiência de qualquer maneira?}
 {324}{}{Ok, desculpe a confusão. Espero que a mãe não me atire! Eu realmente preciso desse emprego.}
 {325}{}{Você sabe que não estamos fazendo a refeição gratuita depois das 24 horas mais, certo?}
