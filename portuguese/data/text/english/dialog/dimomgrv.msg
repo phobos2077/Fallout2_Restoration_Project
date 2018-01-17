@@ -1,1 +1,1 @@
-{101}{}{The name on the gravestone reads: "Mrs. Tamara Winslow."}
+{101}{}{O nome na lápide lê-se: "Dona Tamara Winslow."}

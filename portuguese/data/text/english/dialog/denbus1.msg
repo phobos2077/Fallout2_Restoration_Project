@@ -8,7 +8,7 @@
 {800}{}{Você pagou a dívida de Fred para Rebecca.}
 {900}{}{Você retornou o livro de Rebecca.}
 {1000}{}{You returned Anna's locket.}
-{1100}{}{You managed to fast talk your way inside the church.}
-{1200}{}{You delivered Smitty's meal.}
-{1300}{}{You have found a weakness in Tyler's gang.}
-{1400}{}{You have gotten permission for Lara's gang to attack.}
+{1100}{}{Você conseguiu conversar rapidamente dentro da igreja.}
+{1200}{}{Você entregou a refeição de Smitty.}
+{1300}{}{Você encontrou uma fraqueza na gangue de Tyler.}
+{1400}{}{Você obteve permissão para a quadrilha de Lara atacar.}

@@ -1,2 +1,2 @@
-{101}{}{The name on the gravestone reads: "Anna Winslow."}
-{200}{}{You put Anna's bones to rest.}
+{101}{}{O nome na lápide diz: "Anna Winslow".}
+{200}{}{Você coloca os ossos de Anna para descansar.}

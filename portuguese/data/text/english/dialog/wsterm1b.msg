@@ -16,7 +16,7 @@
 {106}{}{Terminate Alarm Level 1 - False Alarm}
 {107}{}{[You notice a key on the keyboard labeled "Help"]. Press Key.}
 {108}{}{Hack into security systems}
-{109}{}{Exit}
+{109}{}{Sair}
 {110}{}{Arg! [You slam your fist into the keyboard in frustration]}
 {112}{}{Skynet Security Systems
                                            Intruders Detected - Outside Perimeter
@@ -27,15 +27,15 @@
                     Returning to power save mode}
 {113}{}{Activate Alarm System Level 1}
 {114}{}{Run self-diagnostic program.}
-{115}{}{Exit}
+{115}{}{Sair}
 {116}{}{Arg! [You slam your fist into the keyboard in frustration]}
 {118}{}{Skynet Security Systems
                                           Access to this terminal is denied.}
-{120}{}{Exit}
+{120}{}{Sair}
 {122}{}{Error 29
                                                              Unable to contact server
                                            Please reboot}
-{124}{}{Exit}
+{124}{}{Sair}
 {125}{}{Analyzing Command Please Wait..
                                     Granted
                                                              Terminating Alarm Systems Level 1}
@@ -50,7 +50,7 @@
 {131}{}{Warning! This program works best if you shut down all programs. Do you wish to do so now?}
 {132}{}{Yes}
 {133}{}{No}
-{134}{}{Exit}
+{134}{}{Sair}
 {135}{}{Shutting down all programs
                                   Shutting down Skynet Security Program - Level 1
         Last time system was diagnosed Oct. 15 1990
@@ -63,9 +63,9 @@
                                                        Quada Adjfjef
                                                  Access Granted
                                                  Terminating Alarm Systems Level 1}
-{138}{}{Exit}
+{138}{}{Sair}
 {139}{}{Unauthorized Access
                                             Initiating Security Lockout of remote terminal
                   User Access to this Terminal is TERMINATED}
-{140}{}{Exit}
+{140}{}{Sair}
 {200}{}{Computer in diagnostic mode. Please wait until diagnostic routine is finished.}

@@ -24,7 +24,7 @@
                                                               Searching Database}
 {115}{}{Activate Alarm System Level 2}
 {116}{}{Run self-diagnostic program.}
-{117}{}{Exit}
+{117}{}{Sair}
 {118}{}{Arg! [You slam you fist into the keyboard in frustration.]}
 {120}{}{Skynet Security Systems
                                       Access to This Terminal is Denied}
@@ -32,7 +32,7 @@
 {124}{}{Error!
                                                                  No program files present
                                             Please reboot}
-{126}{}{Exit}
+{126}{}{Sair}
 {127}{}{Analyzing Command Please Wait...
                                   Overriding User Command
                                             Access Denied}
@@ -43,12 +43,12 @@
 {130}{}{Press 1}
 {131}{}{Press 2}
 {132}{}{Press 3}
-{133}{}{Exit}
+{133}{}{Sair}
 {134}{}{Warning! This program works best if you shut down all
  programs. Do you wish to do so now?}
 {135}{}{Sim.}
 {136}{}{Não.}
-{137}{}{Exit}
+{137}{}{Sair}
 {138}{}{Shutting Down Skynet Security Program
                          Analyzing Data Structure...
                                      Diagnostic Interrupted
@@ -56,20 +56,20 @@
                                    Reinitiating Security Program
                                     Resetting Alarm
                                                       Skynet Security System - Status Ready}
-{139}{}{Exit}
+{139}{}{Sair}
 {140}{}{Access Denied...
                                                   Access Denied...
                                                   Access Granted
                                           Terminating Alarm Systems Level 2}
-{141}{}{Exit}
+{141}{}{Sair}
 {142}{}{Unauthorized Access
                                         Initiating Security Lock-Out of this Terminal}
-{143}{}{Exit}
+{143}{}{Sair}
 {144}{}{Analyzing Command Please Wait...
                            Terminate al...
                                                          Override By Skynet Code 667
                                       Access to this Terminal is Terminated.}
-{145}{}{Exit}
+{145}{}{Sair}
 {146}{}{Exiting Diagnostic Program.}
 {147}{}{[MAIS]}
 {300}{}{ - ID Confirmed: }

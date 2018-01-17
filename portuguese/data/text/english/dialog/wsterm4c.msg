@@ -10,14 +10,14 @@
 {106}{}{}
 {107}{}{Retrieve}
 {108}{}{Store}
-{109}{}{Exit}
+{109}{}{Sair}
 {110}{}{Ug.}
 {111}{}{[You are unable to read what's on the monitor.]}
 {112}{}{This terminal is Out of Order
                                 Please contact network administrator for further details.}
 {113}{}{}
 {114}{}{Urg}
-{115}{}{Exit}
+{115}{}{Sair}
 {116}{}{Main Retrieval Menu
                                                   Virus
                                                               Organs
@@ -29,7 +29,7 @@
 {121}{}{Select Organs}
 {122}{}{Select Cadavers}
 {123}{}{Return to Main Menu}
-{124}{}{Exit}
+{124}{}{Sair}
 {125}{}{Virus Menu
                                                             Anthrax
                                                              Black Plague (Strain 238)
@@ -47,9 +47,9 @@
 {134}{}{Retrieve Ebola}
 {135}{}{Retrieve Hantavirus}
 {137}{}{Return to Main Retrieval Menu}
-{138}{}{Exit}
+{138}{}{Sair}
 {139}{}{[You watch as the robot proceeds down the aisles of stored biological materials, and return with a small vial which it promptly deposits into an opening in the wall. You watch in fascination as the vial is transferred from the sealed environment of the storage area to the room you're standing in. Your fascination turns to horror as the vial drops to the floor and breaks. Running seems like a good idea.]}
-{140}{}{Exit}
+{140}{}{Sair}
 {141}{}{Organ Menu
                                                            Heart
                                                                 Brain
@@ -67,13 +67,13 @@
 {150}{}{Retrieve Liver}
 {151}{}{Retrieve Lung}
 {152}{}{Return to Main Retrieval Menu}
-{153}{}{Exit}
+{153}{}{Sair}
 {154}{}{Warning! Storage apparatus malfunction.
                         [According to the readout, the storage devices for these organs failed a long time ago. Unless you plan to make soup, retrieval would be pointless.]}
 {155}{}{}
 {156}{}{Return to Organ Menu}
 {157}{}{Return to Main Retrieval Menu}
-{158}{}{Exit}
+{158}{}{Sair}
 {159}{}{Warning! Storage apparatus malfunction.
                          Storage tanks 101 - 104
                                       Settings Correction Requested
@@ -134,23 +134,23 @@
 {212}{}{[Brain activity is off the charts! By the looks of it the signals are of both digital and human origin.]
            Retrieve?}
 {216}{}{[The robot quickly leaves to retrieve your brain. Upon returning you notice that the robot appears to be having problems. The observation is driven home when the robot explodes suddenly. Luckily for you, it managed to deliver the brain before it expired.]}
-{217}{}{Exit}
+{217}{}{Sair}
 {218}{}{Cadaver Retrieval Menu
                                           Private Dobbs}
 {219}{}{}
 {220}{}{Retrieve Private Dobbs}
 {221}{}{Return to Main Retrieval Menu}
-{222}{}{Exit}
+{222}{}{Sair}
 {223}{}{[According to the readings, Private Dobbs is alive! He's located in the Experimental Biomed Gel regeneration tank.]
    Retrieve?}
 {224}{}{}
 {225}{}{Yes}
 {226}{}{No}
 {227}{}{[The body of Private Dobbs is now lying at your feet, but to your surprise, he stands up and starts talking to you. Funny, he doesn't look dead.]}
-{228}{}{Exit}
+{228}{}{Sair}
 {229}{}{There are no cadavers currently in storage.}
 {230}{}{Return to Main Retrieval Menu}
-{231}{}{Exit}
+{231}{}{Sair}
 {232}{}{[Even though you can plainly see empty storage units, the readout says they are all full. Must be an error in the program. Oh well.]}
 {233}{}{Return to Main Menu}
 {234}{}{Exit }

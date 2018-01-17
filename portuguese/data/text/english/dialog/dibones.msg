@@ -1,1 +1,1 @@
-{100}{}{You see some bones.}
+{100}{}{Você vê alguns ossos.}

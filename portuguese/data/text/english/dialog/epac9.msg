@@ -26,7 +26,7 @@
 {251}{}{Make a Psycho.}
 {260}{}{Great choice! To make some Mentats, please feed me: one First Aid Kit, one piece of Fruit, and one bottle of Booze! Yum-yum!}
 {262}{}{Make some Mentats.}
-{263}{}{Exit}
+{263}{}{Sair}
 {270}{}{Great choice! To make a Doctor's Bag, please feed me: one Stimpak, one First Aid Kit, one Empty Hypodermic needle and one Poison Antidote! Yum-yum!}
 {272}{}{Make a Doctor's Bag.}
 {280}{}{Great choice! To make a First Aid Kit, please feed me: one Stimpak, one Empty Hypodermic needle, one Poison Antidote and one Rad Away! Yum-yum!}

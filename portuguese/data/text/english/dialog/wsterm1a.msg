@@ -17,16 +17,16 @@
 {109}{}{Hack into security systems}
 {110}{}{You don't have a clue. Exit.}
 {113}{}{Force Fields Disabled - Level 1}
-{115}{}{Exit}
+{115}{}{Sair}
 {117}{}{Access to this terminal has been terminated.}
-{119}{}{Exit}
+{119}{}{Sair}
 {121}{}{Error 29
                                                             Unable to contact server
                                      Please reboot}
-{123}{}{Exit}
+{123}{}{Sair}
 {124}{}{Access Granted
                                                  Force Fields Level 1: Deactivated}
-{125}{}{Exit}
+{125}{}{Sair}
 {126}{}{Invalid Password
                                                       Access Denied
                                                       Please enter Password:_}
@@ -42,10 +42,10 @@
                                    Activating Security Protocol
                                    User access to this terminal is terminated
                       End Transmission}
-{136}{}{Exit}
+{136}{}{Sair}
 {137}{}{It's no use. The program is just too complicated for you to understand.}
 {138}{}{Your ineptness has caused you to set off the alarm system.}
-{139}{}{Exit}
+{139}{}{Sair}
 {200}{}{ is unable to read what is on the monitor.}
 {300}{}{The computer seems to have some sort of defense mechanism.}
 {301}{}{You are shocked for }

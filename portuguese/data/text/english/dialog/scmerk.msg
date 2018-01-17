@@ -77,7 +77,7 @@
 {176}{}{Here's $50.}
 {177}{}{Forget it.}
 {178}{}{Oh, you're that person.}
-{179}{}{Continue}
+{179}{}{Continuar}
 {180}{}{Well, as far as I'm concerned, here you're just a pile of dung.}
 {181}{}{I had you figured for a wuss.}
 {182}{}{Okay. No problem. I don't want no trouble. I'll tell you what, I'll even have my boys put the stuff right back where they found it.}

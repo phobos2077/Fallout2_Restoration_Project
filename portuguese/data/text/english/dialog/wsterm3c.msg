@@ -6,11 +6,11 @@
 {104}{}{}
 {105}{}{Systems Check.}
 {106}{}{Activate Robot}
-{107}{}{Exit}
+{107}{}{Sair}
 {108}{}{Erg?}
 {109}{}{[You are unable to read what's on the monitor.]}
 {110}{}{End Program}
-{111}{}{Exit}
+{111}{}{Sair}
 {112}{}{Ug}
 {113}{}{Please Wait...
                                                            Robot Body - OK
@@ -56,7 +56,7 @@
 {122}{}{}
 {124}{}{}
 {153}{}{Begin Start Sequence}
-{154}{}{Exit}
+{154}{}{Sair}
 {155}{}{Failsafe overridden
                                                   Unit is now running}
 {156}{}{}
@@ -73,7 +73,7 @@
 {167}{}{                                               Unit is operational}
 {170}{}{                                              Synch Ratio - 50%}
 {174}{}{                                              Synch Ratio - 10%}
-{176}{}{Exit}
+{176}{}{Sair}
 {200}{}{ is unable to read what's on the monitor.}
 {300}{}{The computer seems to have some sort of defense mechanism.}
 {500}{}{Initiating start-up sequence

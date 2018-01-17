@@ -1,8 +1,8 @@
-{100}{}{You see MIBoba Fe88.}
-{101}{}{You see a tough, ruthless bounty hunter.}
+{100}{}{Você vê MIBoba Fe88.}
+{101}{}{Você vê um duro e implacável caçador de recompensas.}
 {110}{}{You see a tough, ruthless bounty hunter. He doesn't look like he talks much. He helped with the new scripts and ideas. And with killing people.}
-{200}{}{You see Hivan Zolo.}
-{201}{}{A scruffy lookin', but handsome rogue.}
+{200}{}{Você vê Hivan Zolo.}
+{201}{}{Um olhar desalinhado, mas um patife bonito.}
 {210}{}{Kid, I've flown from one side of this galaxy to the other, and I've seen a lot of strange stuff, but I've never seen *anything* to make me believe that there's one all-powerful Force controlling everything.
  'Cause no mystical energy field controls *my* destiny. It's all a lot of simple tricks and nonsense. Hokey religions and ancient weapons are no match for a good blaster at your side. I can tell when a guy is handy
  with a gun, so take this. Trust me: it'll come in handy when you've got a price on your head. (He hands you a blaster.)}
@@ -11,8 +11,8 @@
 {213}{}{Laugh it up, fuzzball.}
 {214}{}{Hokey religions and ancient weapons are no match for a good blaster at your side, kid.}
 {215}{}{Who're you callin' 'scruffy lookin'!?}
-{300}{}{You see Contie-bacca.}
-{301}{}{He looks like a walking carpet.}
+{300}{}{Você vê Contie-bacca.}
+{301}{}{Ele parece um tapete de pé.}
 {310}{}{Roow rooo arrrrr rooow.}
 {311}{}{Rrrrrrrrrrrrr .... squeak!}
 {312}{}{Nowrrrrragh.}
@@ -23,15 +23,15 @@
 {317}{}{He says he's not speaking Czech-speak, though it does sound a bit like baby-talk.}
 {318}{}{He says it's not a crossbow, it's a blaster. And no you can't have it.}
 {319}{}{He says you should thank him for bringing the sub back into the game.}
-{400}{}{You see Darek Vader.}
-{401}{}{This guy looks hard as hell and appears to be more machine than man.}
+{400}{}{Você vê Darek Vader.}
+{401}{}{Esse cara parece duro como o inferno e parece ser mais máquina que o homem.}
 {410}{}{I'm Darek. I helped answer a million noob questions for Obi-Wan-Killap.}
 {411}{}{Join me! Together we can rule the galaxy!}
 {412}{}{Did you know that the great Obi-Wan-Killap asked ME for help?}
 {413}{}{Don't tell Obi-Wan-Killap, but I think he might be losing his mind.}
 {414}{}{I helped squash several nasty bugs. You can thank me later.}
-{500}{}{You see Jotisz the Hutt.}
-{501}{}{This guy is big, fat and green.}
+{500}{}{Você vê Jotisz, o Hutt.}
+{501}{}{Esse cara é grande, gordo e verde.}
 {510}{}{I'm Jotisz the Hutt. I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy Sulik is wearing.
  Those were created by Yosan12 and me. I know! And with these stubby hands!}
 {511}{}{I'm Jotisz the Hutt. I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy...hey where
@@ -39,27 +39,27 @@
 {512}{}{*whistles* I'm a big fat green slug...}
 {513}{}{In case you didn't notice, I'm suspiciously easy to strangle.}
 {514}{}{Now, where did I put Leia...?}
-{600}{}{You see R2Qwerty.}
-{601}{}{A feisty little robot. He flashes and beeps.}
+{600}{}{Você vê R2Qwerty.}
+{601}{}{Um pequeno robô enfezado. Ele pisca e emite um sinal sonoro.}
 {610}{}{Beep beep!}
 {611}{}{Rrrrrr beep Rrrrwow!}
 {612}{}{*flashes and jiggles excitedly*}
 {613}{}{Crossbows! Tactics! Crossbows!}
-{700}{}{You see Chris3ParksO.}
-{701}{}{A shiny gold humanoid robot. He looks surprised.}
+{700}{}{Você vê Chris3ParksO.}
+{701}{}{Um ouro brilhante robô humanóide. Ele parece surpreso.}
 {710}{}{Hi, I'm Chris3ParksO, human-cyborg relations. I am well versed in over 3 million programming languages.}
 {711}{}{I helped lay the groundwork for the Umbra Tribe and the EPA.}
 {712}{}{This is R2QWERTY: my faithful sidekick. He created new critters and graphics.}
-{800}{}{You see Yosan12.}
-{801}{}{A little green guy. He looks OLD.}
+{800}{}{Você vê Yosan12.}
+{801}{}{Um homenzinho verde. Ele parece velho.}
 {810}{}{Yosan12 am I. Created the NPC armor mod I did. Lift Xwing from swamp did I too. Talk in strange very also way do I.
  Difficult to understand, hmmm? Hagh Hah ha! Also, created the new Sniper, Wakizashi and lightsaber animations I did. }
 {811}{}{Remember: anger, fear, hatred: of the dark side are they.}
 {812}{}{When gone am I, a little fuzzy glowing ghost will I become.}
 {813}{}{Once, a puppet with wisdom and character was I. Now, a hollow, CGI character for the kids I have become.}
 {814}{}{Stupid JarJar Binks is.}
-{900}{}{You see Obi-Wan-Killap.}
-{901}{}{He seems like a kindly old man with something slightly bear-like about him.}
+{900}{}{Você vê Obi-Wan-Killap.}
+{901}{}{Ele parece um velho e bondoso homem com algo um pouco de urso sobre ele.}
 {910}{}{Greetings }
 {911}{}{. I see you've been doing quite well for yourself. I'm Obi-Wan-Killap: I make Fallout work like it should have from the very beginning.}
 {912}{}{Wow. Well, thank you for that, Mr. Killap. How did you do it?}
@@ -97,8 +97,8 @@
  Good luck, and may The Source be with you, my friend.}
 {963}{}{What?! My ancestor, The Vault Dweller, had one of these?! I don't remember finding this in Fallout 1! *run off to check*}
 {964}{}{Thank you, Mr. Bear Dude. For everything. May The Source be with you too.}
-{1000}{}{You see Empress Timeslip.}
-{1001}{}{You see a mean-looking cloaked figure with a stoop.}
+{1000}{}{Você vê Imperatriz Timeslip.}
+{1001}{}{Você vê uma figura de camuflagem com uma aparência fraca.}
 {1010}{}{I'm Empress Timeslip. I'm a Programming Master, skilled in the way of The Source. It was I who allowed Obi-Wan-Killap's spies to steal my
  engine fixes to greatly improve the stability of this world, and correct FOOLISH AND STUPID MISTAKES left by the original ones.}
 {1011}{}{Indeed, my master. Tell me about yourself oh great one.}
@@ -124,8 +124,8 @@
 {1052}{}{I will not fail you, my master.}
 {1053}{}{Kill everything? you mean ... even the children?}
 {1060}{}{ESPECIALLY the children.}
-{1100}{}{You see Luke Skynet.}
-{1101}{}{A hooded figure who looks quietly confident.}
+{1100}{}{Você vê Luke Skynet.}
+{1101}{}{Uma figura encapuzada que parece confiante.}
 {1110}{}{I'm Luke Skynet: I'm here to rescue you.}
 {1111}{}{Rescue me?}
 {1112}{}{Do I look like a princess? What do you mean 'rescue'?}
@@ -142,33 +142,33 @@
 {1135}{}{Here. (He shows you on your PipBoy). You should go there now.}
 {1138}{}{The Abbey is a place of solitude.}
 {1139}{}{Be careful out there.}
-{1200}{}{You see Mon-Morticia.}
-{1201}{}{A very diplomatic looking lady.}
+{1200}{}{Você ve Mon-Morticia.}
+{1201}{}{Uma senhora muito diplomática olhando.}
 {1210}{}{I helped with writing a walkthrough to aid all the noobs on their new adventures in this improved world.}
 {1211}{}{Shit! I'm on the wrong side! I never was quite sure who's side I was supposed to be on.}
 {1212}{}{Does my bum look big in this?}
 {1213}{}{Empress Timeslip has made a critical error and the time for our attack has come. *wink*}
-{1300}{}{You see Kanhef.}
-{1301}{}{Now HE looks like a great guy.}
+{1300}{}{Você vê Kanhef.}
+{1301}{}{Agora, ELE parece um cara grande.}
 {1310}{}{I'm basically the NMA helpdesk.}
 {1311}{}{I'm not with these weirdoes.}
 {1312}{}{Damn. Why is the no. 23 always late?}
 {1313}{}{In case you didn't know, I'm just an all-round useful guy.}
-{1400}{}{You see HawkEyE.}
-{1401}{}{A glittering gem of hatred.}
+{1400}{}{Você vê HawkEyE.}
+{1401}{}{Uma joia brilhante de ódio.}
 {1410}{}{Bonjour. Je suis Hawk-Eye. J'ai translate le version Francais. }
 {1411}{}{I'm Hawk-EyE. I headed the translation of the French version. Vive la France!!}
 {1412}{}{I like to eat .... little fishies so sweeeet!}
 {1413}{}{Nobody here but us chickens.}
-{1500}{}{You see Adam Dravean.}
-{1501}{}{He nods in your direction.}
+{1500}{}{Você vê Adão Dravean.}
+{1501}{}{Ele acena com a cabeça em sua direção.}
 {1510}{}{I'm Mr. Wolna. I headed the translation of the German version.}
 {1511}{}{[plz bitch-slap me!!]}
 {1512}{}{Good work, guys! Keep it up!}
 {1513}{}{Look! A golden Eagle!}
 {1514}{}{Ich komme aus Deutschland!}
-{1600}{}{You see Mr. Wolna.}
-{1601}{}{This guy is seriously enthusiastic...}
+{1600}{}{Você vê o Sr. Wolna.}
+{1601}{}{Esse cara está seriamente entusiasmado ...}
 {1610}{}{[He removes his helmet and casts aside his crimson cloak, revealing a ruggedly handsome man with a shaved head and a leather jacket. He seems to exude charisma and awesomeness.] Hey stranger, the name's Adam. How's it going?}
 {1611}{}{Pretty good. It's been a rocky road, but I've finally come to the end.}
 {1612}{}{I don't have time for this. Bye.}
@@ -187,24 +187,24 @@
 {1671}{}{Keep your eye on Dex, alright? I don't want him getting into trouble. After all, he's my creation.}
 {1672}{}{You're welcome for cleaning up the dialogue of the wastes.}
 {1673}{}{Hey, where's Dex? Did I mention I'm his creator?}
-{1700}{}{You see encinodude.}
-{1701}{}{He looks like a good guy.}
+{1700}{}{Você vê encinodude.}
+{1701}{}{Ele parece ser um cara bom.}
 {1710}{}{*Looks over at your party members* Lookin' good Kitsune.}
 {1711}{}{You keep an eye on Kitsune, you hear. I don't want her getting into trouble. She's my creation, you know.}
 {1712}{}{I helped out with the sub, you know.}
 {1713}{}{Hey, where's Kitsune? I wrote her dialogue you know.}
 {1714}{}{I helped out with the sub, you know.}
-{1800}{}{You see Minigun Jim.}
-{1801}{}{He is wearing a Red Dwarf T-shirt under his armor.}
+{1800}{}{Você vê Minigun Jim.}
+{1801}{}{Ele está usando uma camiseta Anã Vermelha sob sua armadura.}
 {1810}{}{*Looks over at your party members* Lookin' good Cat.}
 {1811}{}{You keep an eye on Cat, you hear. I don't want him getting into trouble. He's my creation, you know.}
 {1812}{}{Hey, where's Cat? I wrote his dialogue you know.}
-{1900}{}{You see Bofast.}
-{1901}{}{He stands up straight as he sees you looking at him.}
+{1900}{}{Você vê Bofast.}
+{1901}{}{Ele ergueu-se em linha reta enquanto o vê olhando para ele.}
 {1910}{}{Good going bringing a peaceful end to the Raiders attacking Vault City. I helped make that possible.}
 {1911}{}{You didn't have to kill all those Raiders attacking Vault City. There is a peaceful solution now, thanks to me.}
-{2000}{}{You see Pixote.}
-{2001}{}{You see a noble repair bot.}
+{2000}{}{Você vê Pixote.}
+{2001}{}{Você vê um robô de reparo nobre.}
 {2010}{}{[The robot nods as you approach.] Hello there. Are you enjoying your time in this world?}
 {2011}{}{Yes I am. Thanks for asking.}
 {2012}{}{Not really. Things could be better.}
@@ -228,8 +228,8 @@
 {2051}{}{Whatever. Bye.}
 {2060}{}{I so enjoy creating new things.}
 {2061}{}{So many new details now. So beautiful.}
-{2100}{}{You see Mash.}
-{2101}{}{He nods at you.}
+{2100}{}{Você vê Mash.}
+{2101}{}{Ele acena com a cabeça para você.}
 {2110}{}{Greetings! Glad you've made it this far. I hope you are enjoying the expanded visible size of this world. Not enough
  of this world could be shown at any one time. I changed all this though. Empress Timeslip and I are masters of the
  Source. He and I have brought this old world into a new era.}
@@ -254,16 +254,16 @@
 {2150}{}{The Source is tricky, but I can handle it.}
 {2151}{}{Enjoy the expanded visibility of this world!}
 {2152}{}{Enjoy the new you!}
-{2200}{}{You see Mikael Grizzly.}
-{2201}{}{This animal is extremely furry.}
+{2200}{}{Você vê Mikael Grizzly.}
+{2201}{}{Este animal é extremamente peludo.}
 {2210}{}{Hello there. I helped bring the submarine back into this world.}
 {2211}{}{You like how furry I am? I know I do.}
 {2212}{}{Hope you enjoyed the sub.}
-{2300}{}{You see x'il.}
-{2301}{}{He looks at you with admiration.}
+{2300}{}{Você vê x'il.}
+{2301}{}{Ele olha para você com admiração.}
 {2310}{}{I helped a lot with critter appearances. Hope you have enjoyed it!}
 {2311}{}{Nice hair, man. I helped make that possible.}
-{2400}{}{You see a pile of rocks.}
+{2400}{}{Você vê uma pilha de rochas.}
 {2401}{}{There is a plaque on the rocks.}
 {2410}{}{There is a plaque on the pile of rocks. It reads: "Dedicated to Per Jorner. Master of the walkthroughs,
  King of the lizards, and Accumulator of all rocks.}
@@ -271,4 +271,4 @@
 {2501}{}{This mass of goo seems to spell out something: "Dedicated to all those whose names have been forgotten, but
  yet helped make everything possible."}
 {2510}{}{}
-{5000}{}{Combat is not allowed here.}
+{5000}{}{O combate não é permitido aqui.}

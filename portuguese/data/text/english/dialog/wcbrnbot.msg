@@ -7,7 +7,7 @@
 {106}{}{                              [This contraption could be useful.]}
 {107}{}{Take robot with you.}
 {108}{}{Leave robot.}
-{109}{}{Exit}
+{109}{}{Sair}
 {110}{}{Urg}
 {111}{}{[All this advanced cybernetic technology is wasted on such an inferior brain.] }
 {112}{}{Move out of my way, you tin can.}

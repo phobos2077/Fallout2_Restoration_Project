@@ -1,2 +1,2 @@
-{100}{}{You see an old locket.}
-{101}{}{This is most likely the locket that the ghost was looking for.}
+{100}{}{Você vê um antigo medalhão.}
+{101}{}{Este é, provavelmente, o medalhão que o fantasma estava procurando.}

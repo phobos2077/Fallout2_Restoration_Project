@@ -1,1 +1,1 @@
-{100}{}{You see crates filled with various chemicals that are of no use to you.}
+{100}{}{Você vê caixotes preenchidos com vários produtos químicos que não servem de nada para você.}

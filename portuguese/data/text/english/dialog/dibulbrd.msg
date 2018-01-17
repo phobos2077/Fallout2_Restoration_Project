@@ -1,40 +1,40 @@
-{100}{}{You see a bulletin board.}
-{150}{}{There seem to be a few messages posted on it.}
-{200}{}{Den Bulletin: Maintained by Rebecca's Casino Bar, best drinks in the Den. }
-{201}{}{Den Bulletin: Maintained by Rebecca's Casino Bar...}
-{202}{}{[Someone has scribbled something on the side of this post.]}
-{203}{}{[You notice that a part of this post has been torn off.]}
+{100}{}{Você vê um quadro de avisos.}
+{150}{}{Parece haver algumas mensagens postadas nele.}
+{200}{}{Den Bulletin: Mantido pelo Rebecca's Casino Bar, melhores bebidas no Den.}
+{201}{}{Den Boletim: Mantido pelo Rebecca's Casino Bar ...}
+{202}{}{[Alguém já escreveu algo no lado deste post.]}
+{203}{}{[Você percebe que uma parte desta publicação foi arrancada.]}
 {204}{}{Slaver's Guild}
-{205}{}{Bars & Gambling}
-{206}{}{Dining}
-{207}{}{Shops}
-{225}{}{The Slaver's Guild is the best and only supplier of slaves in the wastes.}
-{250}{}{For employment opportunities, buying or selling of slaves, see Slave Master Metzger.}
-{275}{}{The Slaver's Guild is located on the east side of town, past Becky's and Frankie's.}
-{300}{}{They are currently not selling slaves to the general public, due to increased demand.}
-{325}{}{[Two are listed.]}
-{350}{}{Rebecca's Casino Bar has both gambling and great affordable drinks.}
-{375}{}{We are located just east of here. We are the first building on the left as you enter town. Be sure to come by and say hello!}
-{400}{}{Becky's a hore and her drinks is watered down! She's a krook and a lier! [The writing is barely legible.]}
-{401}{}{[The message that was here is neatly torn off.]}
-{425}{}{Words words... by... words... Bar... words... in the Den.}
-{426}{}{You find it all very confusing and your head starts to hurt.}
-{450}{}{Frankie runs a bar, inn, and 'pleasure' business on the east side of town.}
-{475}{}{Mom's is the only restaurant in the Den. She's located on the east side of town just south of the Slaver's Guild.}
-{500}{}{[It looks like someone tried to set it on fire. You can't make out any of the posts.]}
-{525}{}{[There are three posts.]}
-{550}{}{Tubby sells all sorts of items, but primarily drugs and ammo.}
-{575}{}{Tubby's is located west of this bulletin board. It's the first building on the right as you enter town.}
-{600}{}{Flick sells various items out of his 'office' in the residential building directly south from here and right below Rebecca's Casino Bar.}
-{625}{}{Smitty is the local mechanic. He sometimes has things for sale.}
-{650}{}{Smitty's located in the junkyard on the southwest corner of town.}
-{1000}{}{Continue}
-{1010}{}{Directions:}
-{1020}{}{Exit}
+{205}{}{Bares & Jogos}
+{206}{}{Jantar}
+{207}{}{Lojas}
+{225}{}{O Slaver's Guild é o melhor e único fornecedor de escravos nos resíduos.}
+{250}{}{Para oportunidades de emprego, compra ou venda de escravos, veja o Mestre Escravista Metzger.}
+{275}{}{O Slaver's Guild está localizado no lado leste da cidade, passado Becky's e Frankie's.}
+{300}{}{Atualmente, eles não estão vendendo escravos para o público em geral, devido ao aumento da demanda.}
+{325}{}{[Dois são listados.]}
+{350}{}{O Rebecca's Casino Bar tem jogos de azar e excelentes bebidas acessíveis.}
+{375}{}{Estamos localizados a leste daqui. Nós somos o primeiro edifício à esquerda enquanto entra na cidade. Certifique-se de passar e dizer olá!}
+{400}{}{Becky é uma ferida e suas bebidas são diluídas! Ela é uma cachorrinha e uma mentirosa! [A escrita é praticamente legível.]}
+{401}{}{[A mensagem que estava aqui estava arrumada.]}
+{425}{}{Palavras palavras ... por ... palavras ... Bar ... palavras ... no Den.}
+{426}{}{Você achar que é tudo muito confuso, e sua cabeça começa a doer.}
+{450}{}{Frankie dirige um bar, uma pousada e um negócio de "prazer" no lado leste da cidade.}
+{475}{}{Mamãe é o único restaurante no Den. Ela está localizada no lado leste da cidade, ao sul da Slaver's Guild.}
+{500}{}{[Parece que alguém tentou incendiar. Você não pode distinguir nenhuma das postagens.]}
+{525}{}{[Existem três posts.]}
+{550}{}{Tubby vende todos os tipos de itens, mas, principalmente, drogas e munição.}
+{575}{}{O Tubby's está localizado a oeste deste quadro de avisos. É o primeiro edifício à direita, à medida que você entra na cidade.}
+{600}{}{Flick vende vários itens de seu "escritório" no prédio residencial diretamente a sul a partir daqui e logo abaixo do Rebecca's Casino Bar.}
+{625}{}{Smitty é o mecânico local. Ele às vezes tem coisas para venda.}
+{650}{}{Smitty localizado no ferro-velho no canto sudoeste da cidade.}
+{1000}{}{Continuar}
+{1010}{}{Sentidos:}
+{1020}{}{Sair}
 {1030}{}{Flick's}
 {1040}{}{Frankie's}
 {1050}{}{Rebecca's Casino Bar}
-{1060}{}{Return to Main Page}
+{1060}{}{Voltar para Página Principal}
 {1070}{}{Smitty}
-{1080}{}{Special Note:}
+{1080}{}{Nota Especial:}
 {1090}{}{Tubby's}
