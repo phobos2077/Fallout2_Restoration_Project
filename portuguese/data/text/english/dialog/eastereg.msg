@@ -1,6 +1,6 @@
 {100}{}{Você vê MIBoba Fe88.}
 {101}{}{Você vê um duro e implacável caçador de recompensas.}
-{110}{}{You see a tough, ruthless bounty hunter. He doesn't look like he talks much. He helped with the new scripts and ideas. And with killing people.}
+{110}{}{Você vê um caçador de recompensas duro e implacável. Ele não parece que fala muito. Ele ajudou com os novos scripts e idéias. E com a morte de pessoas.}
 {200}{}{Você vê Hivan Zolo.}
 {201}{}{Um olhar desalinhado, mas um patife bonito.}
 {210}{}{Kid, I've flown from one side of this galaxy to the other, and I've seen a lot of strange stuff, but I've never seen *anything* to make me believe that there's one all-powerful Force controlling everything.
@@ -264,11 +264,11 @@
 {2310}{}{I helped a lot with critter appearances. Hope you have enjoyed it!}
 {2311}{}{Nice hair, man. I helped make that possible.}
 {2400}{}{Você vê uma pilha de rochas.}
-{2401}{}{There is a plaque on the rocks.}
+{2401}{}{Há uma placa sobre as rochas.}
 {2410}{}{There is a plaque on the pile of rocks. It reads: "Dedicated to Per Jorner. Master of the walkthroughs,
  King of the lizards, and Accumulator of all rocks.}
-{2500}{}{You see a large mass of goo.}
-{2501}{}{This mass of goo seems to spell out something: "Dedicated to all those whose names have been forgotten, but
- yet helped make everything possible."}
+{2500}{}{Você vê uma grande massa de gosma.}
+{2501}{}{Esta massa de goo parece soletrar algo: "Dedicado a todos aqueles cujos nomes foram esquecidos, mas
+  ainda ajudaram a tornar tudo possível ".}
 {2510}{}{}
 {5000}{}{O combate não é permitido aqui.}
