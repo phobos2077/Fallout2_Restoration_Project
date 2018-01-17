@@ -203,7 +203,7 @@
 {841}{}{[You ignore the man's reaction.] Alright, well if you need anything else, let me know. Bye.}
 {850}{}{That's none of your business. [He snatches the tool from your hand.] Now, get out of here. I've got things to do. [He looks
  away muttering to himself.]}
-{851}{}{Whatever. Bye.}
+{851}{}{Seja o que for. Tchau.}
 {852}{}{I don't think so. You tried to kill me and now I will return the favor. Prepare to die!}
 {860}{}{Uh, yes, of course. Well, get to it then.}
 {861}{}{[FEITO]}

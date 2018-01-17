@@ -77,7 +77,7 @@
 {292}{}{Whoa! Let me go, you got the wrong idea!}
 {300}{}{To hell with you, temptress! Go bring your teasing elsewhere. I have no time to waste on you.}
 {301}{}{Yeah, well fuck you too. Bye.}
-{302}{}{Whatever. Bye.}
+{302}{}{Seja o que for. Tchau.}
 {310}{}{[Several hours pass by in a haze of sweaty, brutal passion. Finally, you lay on the floor of Krom's hut, exhausted.
  Krom lies at your side, his eyes devouring the contours of your body.] By the Gods, girl, you're incredible!}
 {311}{}{Thanks. You're not so bad yourself.}
@@ -150,7 +150,7 @@
  girl, and treat our tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
 {442}{}{Não há problema.}
 {443}{}{My pleasure.}
-{444}{}{Whatever. Bye.}
+{444}{}{Seja o que for. Tchau.}
 {450}{}{If I ever see that cheating dog again, I'll take great pleasure in cleaving his ugly skull. However, you did well
  in spotting his deceit. I see I made a wise choice in trusting you. You're welcome to stay among us, and treat our tribe
  as your own. However, I may call on your aid again in the future. Thanks for your help.}
@@ -159,7 +159,7 @@
  tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
 {452}{}{Não há problema.}
 {453}{}{My pleasure.}
-{454}{}{Whatever. Bye.}
+{454}{}{Seja o que for. Tchau.}
 {460}{}{[The giant warrior nods a greeting as you approach.] Welcome back, friend. Do you need something?}
 {461}{}{[The giant warrior grins as he watches you approach.] By the God's, I nearly forgot how gorgeous you are. Do you
  need something, girl?}

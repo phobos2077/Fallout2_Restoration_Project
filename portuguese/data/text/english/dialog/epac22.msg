@@ -5,7 +5,7 @@
 {202}{}{Right. Bye.}
 {203}{}{My...zZzzzt..sensor...ZzzzzzZzt...*garble*..fixed?}
 {204}{}{Sorry, but I can't understand you. There's too much static. I'll see if I can maybe fix it somehow.}
-{205}{}{I don't have time for this. Bye.}
+{205}{}{Eu não tenho tempo para isso. Tchau.}
 {300}{}{Ah, thank you so much for repairing me! I was dreading the thought of some visitor happening along and asking me questions which I'd be unable to properly answer due to all the static. Of course, you're the first visitor I've seen since the war, but still, *had* I encountered someone else, that could have been quite embarrassing.}
 {301}{}{No problem. So what exactly is this place anyway?}
 {302}{}{[He grins, seemingly delighted at the prospect of having questions to answer.] You're standing in the Environmental Protection Agency, more commonly referred to as the EPA. We're a government research facility that specializes in testing chemicals to ensure that they're safe for the Earth's environment. But that's just scratching the surface. We had all sorts of exciting things going on here, at least until the facility was vacated due to the war. Things haven't quite been the same since.}

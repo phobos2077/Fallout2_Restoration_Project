@@ -141,7 +141,7 @@
 {502}{}{I will. See you around.}
 {510}{}{That was just awful. I don't know how you do it, but you are actually worse than the regular. I don't think we will be needing you again.}
 {511}{}{Fine, I'll go take my talent to someone who WILL actually appreciate it.}
-{512}{}{Whatever. Bye.}
+{512}{}{Seja o que for. Tchau.}
 {520}{}{You were smokin' out there. The next Traci Lords. }
 {521}{}{I don't think I have seen anyone move like that on stage. You got real talent. }
 {522}{}{I will. See you around.}

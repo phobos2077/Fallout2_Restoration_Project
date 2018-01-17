@@ -38,7 +38,7 @@
  of the land. Besides, they're slavers; it's not like they are real people.}
 {336}{}{Yeah, you're right. Well, I've gotta go.}
 {337}{}{Really? Well, to me you're dead meat.}
-{338}{}{Whatever. Bye.}
+{338}{}{Seja o que for. Tchau.}
 {340}{}{You bastard! I'll kill you for that!}
 {341}{}{You bitch! I'll kill you for that!}
 {342}{}{Not if I kill you first!}
@@ -51,7 +51,7 @@
 {360}{}{Just looking to shut down the slave routes.}
 {361}{}{O que você quer dizer?}
 {362}{}{Oh, ok. Good luck to you.}
-{363}{}{Whatever. Bye.}
+{363}{}{Seja o que for. Tchau.}
 {370}{}{Try slavers. They make really good kills. Nice and messy.}
 {371}{}{Cool. Thanks for the info.}
 {372}{}{You're here. I'd rather kill you.}

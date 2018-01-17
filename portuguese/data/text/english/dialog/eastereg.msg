@@ -122,143 +122,143 @@
 {1045}{}{Vá em frente e cause estragos meu filho.}
 {1046}{}{Vá-se embora!}
 {1050}{}{Eeeexcellente. Em seguida, pegue essa arma Java. Use-o. Mate indiscriminadamente. USE SEUS SENTIMENTOS AGRESSIVOS, CRIANÇA! (Ele lhe dá um sabre de luz vermelho.)}
-{1051}{}{So.... basically carry on as I've been doing. No problem. Bye!}
-{1052}{}{I will not fail you, my master.}
-{1053}{}{Kill everything? you mean ... even the children?}
-{1060}{}{ESPECIALLY the children.}
+{1051}{}{Então, basicamente, continue como eu fiz. Sem problemas. Tchau!}
+{1052}{}{Eu não falharei com você, meu mestre.}
+{1053}{}{Matar tudo? você quer dizer ... até mesmo as crianças?}
+{1060}{}{ESPECIALMENTE as crianças.}
 {1100}{}{Você vê Luke Skynet.}
 {1101}{}{Uma figura encapuzada que parece confiante.}
-{1110}{}{I'm Luke Skynet: I'm here to rescue you.}
-{1111}{}{Rescue me?}
-{1112}{}{Do I look like a princess? What do you mean 'rescue'?}
-{1113}{}{Right. I think you're the one that needs rescuing, pal...from your own movie career. Bye.}
-{1120}{}{Yes, I'm here to rescue you. I created the basis to what you see at the Abbey, and there you will find salvation. There you will find the light!}
-{1121}{}{I've actually already been there. I 'rescued' a lot stuff from getting lost in all those drawers and containers.}
-{1122}{}{Amen brother. Thank you for aiding in the creation of that place of peace and solace. And just when I needed to rest my radiated feet and seek spiritual rejuvenation.}
-{1123}{}{I remember that place. No qualified shaman though, and no herb-superb. I don't know who's idea of a spiritual center that is, but it's not mine.}
-{1124}{}{Oh? And where is this place that can rescue me?}
-{1125}{}{Cuck-oo! Bye bye now!}
-{1130}{}{You should return there again. It is a safe haven in these harsh Wastes.}
-{1131}{}{I'm on my way, Mr. Skynet. Thanks for everything. Goodbye.}
-{1132}{}{Well, I think YOU should go there Skybrain, and stay there. I'm outta here. Freak.}
-{1135}{}{Here. (He shows you on your PipBoy). You should go there now.}
-{1138}{}{The Abbey is a place of solitude.}
-{1139}{}{Be careful out there.}
+{1110}{}{Eu sou Lucas Skynet: eu estou aqui para resgata-lo.}
+{1111}{}{Me resgatar?}
+{1112}{}{Pareço como uma princesa? O que você quer dizer com "resgate"?}
+{1113}{}{Certo. Eu acho que você é o único que precisa de resgate, amigo ... da sua própria carreira no cinema. Tchau.}
+{1120}{}{Sim, estou aqui para te resgatar. Eu criei a base para o que você vê na Abadia, e lá você encontrará a salvação. Lá, você encontrará a luz!}
+{1121}{}{Na verdade, já estive lá. Eu "resgatei" muitas coisas de se perder em todas aquelas gavetas e recipientes.}
+{1122}{}{Amém irmão. Obrigado por ajudar na criação desse lugar de paz e consolo. E quando eu precisava descansar meus pés irradiados e buscar rejuvenescimento espiritual.}
+{1123}{}{Lembro-me desse lugar. Nenhum shaman qualificado, porém, não é erva excelente. Não sei de quem é a ideia de um centro espiritual, mas não é minha.}
+{1124}{}{Oh? E onde é esse lugar que pode me salvar?}
+{1125}{}{Cuco! Bye Bye agora!}
+{1130}{}{Você deve voltar lá novamente. É um abrigo seguro nesses resíduos severos.}
+{1131}{}{Eu estou no meu caminho, o Sr. Skynet. Obrigado por tudo. Adeus.}
+{1132}{}{Bem, eu acho que VOCÊ deveria ir lá Skybrain, e ficar lá. Eu sou daqui. Freak.}
+{1135}{}{Aqui. (Ele mostra no seu PipBoy). Você deve ir agora para lá.}
+{1138}{}{A Abadia é um lugar de solidão.}
+{1139}{}{Tenha cuidado lá fora.}
 {1200}{}{Você ve Mon-Morticia.}
 {1201}{}{Uma senhora muito diplomática olhando.}
-{1210}{}{I helped with writing a walkthrough to aid all the noobs on their new adventures in this improved world.}
-{1211}{}{Shit! I'm on the wrong side! I never was quite sure who's side I was supposed to be on.}
-{1212}{}{Does my bum look big in this?}
-{1213}{}{Empress Timeslip has made a critical error and the time for our attack has come. *wink*}
+{1210}{}{Ajudei a escrever um guia para ajudar todos os noobs em suas novas aventuras neste mundo melhorado.}
+{1211}{}{Merda! Estou no lado errado! Eu nunca tinha certeza de qual era o lado em que deveria estar.}
+{1212}{}{Meu bum parece grande nisso?}
+{1213}{}{Empress Timeslip cometeu um erro crítico e chegou a hora do nosso ataque. *piscadela*}
 {1300}{}{Você vê Kanhef.}
 {1301}{}{Agora, ELE parece um cara grande.}
-{1310}{}{I'm basically the NMA helpdesk.}
-{1311}{}{I'm not with these weirdoes.}
-{1312}{}{Damn. Why is the no. 23 always late?}
-{1313}{}{In case you didn't know, I'm just an all-round useful guy.}
+{1310}{}{Eu sou basicamente o serviço de assistência da NMA.}
+{1311}{}{Eu não estou com esses estranhos.}
+{1312}{}{Droga. Por que o n. 23 sempre atrasado?}
+{1313}{}{No caso de você não saber, eu sou apenas um all-round útil cara.}
 {1400}{}{Você vê HawkEyE.}
 {1401}{}{Uma joia brilhante de ódio.}
-{1410}{}{Bonjour. Je suis Hawk-Eye. J'ai translate le version Francais. }
-{1411}{}{I'm Hawk-EyE. I headed the translation of the French version. Vive la France!!}
-{1412}{}{I like to eat .... little fishies so sweeeet!}
-{1413}{}{Nobody here but us chickens.}
+{1410}{}{Bonjour. Je suis Hawk-Eye. J'ai traduzir le versão em Francês. }
+{1411}{}{Eu sou Hawk-EyE. Dirigi a tradução da versão francesa. Vive la France!!}
+{1412}{}{Eu gosto de comer .... little fishies, então sweeeet!}
+{1413}{}{Ninguém aqui, exceto nós, galinhas.}
 {1500}{}{Você vê Adão Dravean.}
 {1501}{}{Ele acena com a cabeça em sua direção.}
-{1510}{}{I'm Mr. Wolna. I headed the translation of the German version.}
-{1511}{}{[plz bitch-slap me!!]}
-{1512}{}{Good work, guys! Keep it up!}
-{1513}{}{Look! A golden Eagle!}
+{1510}{}{Eu sou o Sr. Wolna. Encabecei a tradução da versão alemã.}
+{1511}{}{[plz cadela me dar um tapa!!]}
+{1512}{}{Bom trabalho, rapazes! Mantenham-no! }
+{1513}{}{Olha! Uma Águia dourada!}
 {1514}{}{Ich komme aus Deutschland!}
 {1600}{}{Você vê o Sr. Wolna.}
 {1601}{}{Esse cara está seriamente entusiasmado ...}
-{1610}{}{[He removes his helmet and casts aside his crimson cloak, revealing a ruggedly handsome man with a shaved head and a leather jacket. He seems to exude charisma and awesomeness.] Hey stranger, the name's Adam. How's it going?}
-{1611}{}{Pretty good. It's been a rocky road, but I've finally come to the end.}
-{1612}{}{I don't have time for this. Bye.}
-{1620}{}{That's good to hear. [He looks around, then furrows his brow.] Where's Dex? I spent a lot of time writing that dude's dialogue, and you're not even using him? [He sighs heavily and shakes his head.]}
-{1621}{}{Dex? Wrote his dialogue? What are you talking about?}
-{1630}{}{That's good to hear. Excuse me a moment. [He walks over to Dex, gives him a high five, then returns to you.] I'm glad to see you and my man Dex have stuck together. You know I spent a lot of time writing that dude's dialogue.}
-{1631}{}{How do you know Dex? And you "wrote his dialogue"? What are you talking about?}
-{1640}{}{Look, don't worry about it. But if you ever decide to embark on another epic quest, make sure to stop by the EPA. There's a shitload of things to do there and if you play your cards right, you might find yourself a new companion. [He looks you over and grins.] Yeah, you're just Dex's type, so you'll be friends for sure.}
-{1641}{}{Thanks. I'll keep that in mind.}
-{1650}{}{Look, don't worry about it. But if you ever decide to embark on another epic quest, make sure to stop by the EPA. There's a shitload of things to do there and if you play your cards right, you might find yourself a new companion. [He looks you over.] You'll probably have to change your attitude if you want to make friends with Dex. He likes his companions to be a bit more ... morally impaired.}
-{1651}{}{Thanks. I'll keep that in mind.}
-{1660}{}{[He nods and looks off into the distance.] You know, Dex wasn't my only contribution. I also helped the Bear Dude in sprucing this world up by serving as adviser, tester, and guardian of canon and original intent. But mostly, I was tasked with bringing all the new wasteland speech up to par. It's been a hell of a long road, but if you ask me, this thing turned out pretty fuckin' sweet. [He looks back at you and grins.]}
-{1661}{}{Whatever. I'm tired of listening to this. Bye.}
-{1662}{}{That's quite noble of you. You've done a remarkable job. Take care of yourself. Bye.}
-{1670}{}{*Looks over at your party members* Lookin' good, Dex.}
-{1671}{}{Keep your eye on Dex, alright? I don't want him getting into trouble. After all, he's my creation.}
-{1672}{}{You're welcome for cleaning up the dialogue of the wastes.}
-{1673}{}{Hey, where's Dex? Did I mention I'm his creator?}
+{1610}{}{[Ele remove seu capacete e solta seu manto carmesim, revelando um homem robusto, com uma cabeça raspada e uma jaqueta de couro. Ele parece exalar carisma e grandeza.] Ei estranho, o nome é Adam. Como tá indo?}
+{1611}{}{Muito bom. Tem sido uma estrada rochosa, mas finalmente cheguei ao fim.}
+{1612}{}{Eu não tenho tempo para isso. Tchau.}
+{1620}{}{Isso é bom de ouvir. [Ele olha em volta, então sulca sua sobrancelha.] Onde está Dex? Passei muito tempo escrevendo o diálogo desse tipo e você nem o usa? [Ele suspira pesadamente e balança a cabeça.]}
+{1621}{}{Dex? Escreveu em seu diálogo? Do que você está falando?}
+{1630}{}{Isso é bom de ouvir. Um momento, por favor. [Ele caminha até Dex, dá-lhe um alto cinco, então volta para você.] Estou feliz em ver que você e meu homem Dex se juntaram. Você sabe que passei muito tempo escrevendo o diálogo desse tipo.}
+{1631}{}{Como você conhece o Dex? E você "escreveu seu diálogo"? Do que você está falando?}
+{1640}{}{Olha, não se preocupe com isso. Mas se você decidir se embarcar em outra missão épica, certifique-se de parar pela EPA. Há uma grande quantidade de coisas para fazer lá e se você jogar suas cartas direito, você pode encontrar-se com um novo companheiro. [Ele te olha e sorri.] Sim, você é apenas o tipo de Dex, então você será amigo com certeza.}
+{1641}{}{Obrigado. Eu vou manter isso em mente.}
+{1650}{}{Olha, não se preocupe com isso. Mas se você decidir se embarcar em outra missão épica, certifique-se de parar pela EPA. Há uma grande quantidade de coisas para fazer lá e se você jogar suas cartas direito, você pode encontrar-se um novo companheiro. [Ele te olha.] Você provavelmente terá que mudar sua atitude se quiser fazer amizade com Dex. Ele gosta de que seus companheiros sejam um pouco mais ... moralmente prejudicados.}
+{1651}{}{Obrigado. Eu vou manter isso em mente.}
+{1660}{}{[Ele acena com a cabeça e olha para a distância.] Você sabe, Dex não foi minha única contribuição. Eu também ajudei o Bear Dude a preparar este mundo ao servir como conselheiro, testador e guardião do cânone e intenção original. Mas na maior parte, eu fui encarregado de trazer toda a nova discussão com várzea à perfeição. Tem sido um longo caminho, mas se você me perguntar, esse assunto acabou por ser muito gostoso. [Ele olha para você e sorri.]}
+{1661}{}{Seja o que for. Eu estou cansado de ouvir isso. Tchau.}
+{1662}{}{Isso é muito nobre de você. Você tem feito um trabalho notável. Cuidar de si mesmo. Tchau.}
+{1670}{}{*Olha para os membros de seu grupo* Lookin' bom, Dex.}
+{1671}{}{Mantenha seu olho no Dex, tudo bem? Eu não quero que ele se meta em problemas. Afinal, ele é minha criação.}
+{1672}{}{Você é bem-vindo para limpar o diálogo dos resíduos.}
+{1673}{}{Ei, onde está o Dex? Eu mencionei que eu sou o seu criador?}
 {1700}{}{Você vê encinodude.}
 {1701}{}{Ele parece ser um cara bom.}
-{1710}{}{*Looks over at your party members* Lookin' good Kitsune.}
-{1711}{}{You keep an eye on Kitsune, you hear. I don't want her getting into trouble. She's my creation, you know.}
-{1712}{}{I helped out with the sub, you know.}
-{1713}{}{Hey, where's Kitsune? I wrote her dialogue you know.}
-{1714}{}{I helped out with the sub, you know.}
+{1710}{}{*Olha para os membros de seu grupo* Procurando boa Kitsune.}
+{1711}{}{Você observe Kitsune, você ouve. Eu não quero que ela esteja com problemas. Ela é minha criação, você sabe.}
+{1712}{}{Me ajudou com o sub, você sabe.}
+{1713}{}{ Ei, onde está a Kitsune? Eu escrevi o seu diálogo, você sabe.}
+{1714}{}{Me ajudou com o sub, você sabe.}
 {1800}{}{Você vê Minigun Jim.}
 {1801}{}{Ele está usando uma camiseta Anã Vermelha sob sua armadura.}
-{1810}{}{*Looks over at your party members* Lookin' good Cat.}
-{1811}{}{You keep an eye on Cat, you hear. I don't want him getting into trouble. He's my creation, you know.}
-{1812}{}{Hey, where's Cat? I wrote his dialogue you know.}
+{1810}{}{*Olha para os membros de seu grupo* Lookin' bom Gato.}
+{1811}{}{Você olha o gato, você ouve. Não quero que ele entre em problemas. Ele é minha criação, você sabe.}
+{1812}{}{Ei, onde está o Gato? Eu escrevi seu diálogo, você sabe.}
 {1900}{}{Você vê Bofast.}
 {1901}{}{Ele ergueu-se em linha reta enquanto o vê olhando para ele.}
-{1910}{}{Good going bringing a peaceful end to the Raiders attacking Vault City. I helped make that possible.}
-{1911}{}{You didn't have to kill all those Raiders attacking Vault City. There is a peaceful solution now, thanks to me.}
+{1910}{}{Bom indo trazer um final pacífico para os Raiders atacando a Cidade do Vault. Ajudei a tornar isso possível.}
+{1911}{}{Você não teve que matar todos aqueles Raiders atacando a Cidade do Vault. Há uma solução pacífica agora, graças a mim.}
 {2000}{}{Você vê Pixote.}
 {2001}{}{Você vê um robô de reparo nobre.}
-{2010}{}{[The robot nods as you approach.] Hello there. Are you enjoying your time in this world?}
-{2011}{}{Yes I am. Thanks for asking.}
-{2012}{}{Not really. Things could be better.}
-{2013}{}{I'm not in the mood to chat. Bye.}
-{2020}{}{That's great to hear! I hope all the hard work I have done to make each location appear as unique and detailed as possible is in some way responsible for your happiness. It took a lot of work to tidy things up, but the overall atmosphere and appearance is top notch now. Don't you agree?}
-{2021}{}{Oh, definitely. Everything looks amazing. You're quite talented!}
-{2022}{}{Meh, it's alright.}
-{2023}{}{That's nice. Bye.}
-{2030}{}{I'm sorry to hear that. Perhaps you haven't taken a good look at the world around you. I have done much
- to make each location appear as unique and detailed as possible. Maybe if you look at the details, this will lift your
- spirits. It took a lot of work to tidy things up, but the overall atmosphere and appearance is top notch now.
- Don't you agree?}
-{2031}{}{Now that you mention it, I did notice things look a lot nicer now.}
-{2032}{}{Didn't really notice.}
-{2033}{}{That's nice. Bye.}
-{2040}{}{[The robot rocks back and forth with glee.] I'm glad you like it. Well, I must be going now. I've got more goodies
- to unleash upon this world.}
-{2041}{}{Alright. Take care.}
-{2050}{}{[The robot's head lowers in sadness.] Well, my work isn't for everyone I suppose. Now, if you'll excuse me,
- I must be going. I've got more goodies to unleash upon this world.}
-{2051}{}{Whatever. Bye.}
-{2060}{}{I so enjoy creating new things.}
-{2061}{}{So many new details now. So beautiful.}
+{2010}{}{[O robô move conforme você se aproxima.] Olá. Você está desfrutando o seu tempo neste mundo?}
+{2011}{}{Sim, eu estou. Obrigado por perguntar.}
+{2012}{}{Não realmente. As coisas poderiam estar melhores.}
+{2013}{}{Eu não estou no humor para conversar. Tchau.}
+{2020}{}{Que bom ouvir isso! Espero que todo o trabalho duro que fiz para tornar cada local tão simples e detalhado quanto possível seja de alguma forma responsável pela sua felicidade. Demandou muito trabalho para arrumar as coisas, mas a atmosfera geral e a aparência são de primeira qualidade agora. Você não concorda?}
+{2021}{}{Oh, definitivamente. Tudo parece incrível. Você é muito talentoso!}
+{2022}{}{Meh, está tudo bem.}
+{2023}{}{Que bom. Tchau.}
+{2030}{}{Sinto muito por ouvir isso. Talvez você não tenha dado uma boa olhada no mundo à sua volta. Eu fiz muito
+  para que cada local apareça tão único e detalhado quanto possível. Talvez, se você olhar para os detalhes, isso levará seu
+  espíritos. Demandou muito trabalho para arrumar as coisas, mas a atmosfera geral e a aparência são de primeira qualidade agora.
+  Você não concorda?}
+{2031}{}{Agora que você menciona isso, notei que as coisas ficam muito melhores agora.}
+{2032}{}{Realmente não notei.}
+{2033}{}{Que bom. Tchau.}
+{2040}{}{[O robô anda de um lado para o outro com alegria.] Estou feliz que você goste. Bem, devo ir agora. Eu tenho mais guloseimas
+  para desencadear neste mundo.}
+{2041}{}{Tudo bem. Se cuida.}
+{2050}{}{[A cabeça do robô diminui de tristeza.] Bem, meu trabalho não é para todos, eu suponho. Agora, se você me desculpar,
+  Eu devo ir. Eu tenho mais presentes para desencadear neste mundo.}
+{2051}{}{Seja o que for. Tchau.}
+{2060}{}{Aproveito assim criando coisas novas.}
+{2061}{}{Muitos detalhes agora. Tão bonito.}
 {2100}{}{Você vê Mash.}
 {2101}{}{Ele acena com a cabeça para você.}
-{2110}{}{Greetings! Glad you've made it this far. I hope you are enjoying the expanded visible size of this world. Not enough
- of this world could be shown at any one time. I changed all this though. Empress Timeslip and I are masters of the
- Source. He and I have brought this old world into a new era.}
-{2111}{}{Wow, thanks for that. Everything is a lot better. Sometimes a bit too small, but I can easily adjust that.}
-{2112}{}{I don't have time for this. Bye.}
-{2120}{}{I'm glad you are enjoying my hard work. I also made it possible to change appearances. No longer are you stuck
- with a specific race or hair type. Yosan12, x'il, and others made the physical appearances themselves, but I, with the
- help of Empress Timeslip, dug deep into the Source to make it all possible. I see that you have taken advantage of this
- new ability. Outstanding!}
-{2121}{}{Oh, I love my new looks. Thanks for that!}
-{2122}{}{Right. Goodbye.}
-{2130}{}{I'm glad you are enjoying my hard work. I also made it possible to change appearances. No longer are you stuck
- with a specific race or hair type. Yosan12, x'il, and others made the physical appearances themselves, but I, with the
- help of Empress Timeslip, dug deep into the Source to make it all possible. I see that you have not taken advantage of
- this feature. Just know that it is there and available. A great place to test it out is at the EPA. Oh, what fun!}
-{2131}{}{I'll keep that in mind. Thanks.}
-{2132}{}{Right. Goodbye.}
-{2140}{}{Most excellent. Well, you take care.}
+{2110}{}{Saudações! Feliz que você chegou até aqui. Espero que você esteja gostando do tamanho visível expandido deste mundo. Insuficiente
+  deste mundo pode ser mostrado a qualquer momento. Eu ainda mudei tudo isso. Empress Timeslip e eu somos mestres da
+  Fonte. Ele e eu trouxemos esse mundo antigo para uma nova era.}
+{2111}{}{Uau, obrigado por isso. Tudo é muito melhor. Às vezes, um pouco pequeno, mas eu posso ajustar facilmente.}
+{2112}{}{Eu não tenho tempo para isso. Tchau.}
+{2120}{}{Fico feliz que você esteja aproveitando meu trabalho duro. Eu também tornei possível mudar as aparências. Já não está preso
+  com uma raça específica ou tipo de cabelo. Yosan12, x'il e outros fizeram as próprias aparências físicas, mas eu, com a
+  ajuda de Empress Timeslip, mergulhei profundamente na fonte para tornar tudo possível. Eu vejo que você se aproveitou dessas
+  nova habilidade. Excepcional!}
+{2121}{}{Ah, eu amo a minha nova aparência. Obrigado!}
+{2122}{}{Direito. Adeus.}
+{2130}{}{Fico feliz que você esteja aproveitando meu trabalho duro. Eu também tornei possível mudar as aparências. Já não está preso
+  com uma raça específica ou tipo de cabelo. Yosan12, x'il e outros fizeram as próprias aparências físicas, mas eu, com a
+  ajuda de Empress Timeslip, mergulhei profundamente na fonte para tornar tudo possível. Eu vejo que você não aproveitou
+  esse recurso. Só sei que está lá e disponível. Um ótimo lugar para testá-lo é na EPA. Oh, que divertido!}
+{2131}{}{Eu vou manter isso em mente. Obrigado.}
+{2132}{}{Direito. Adeus.}
+{2140}{}{Mais excelente. Bem, se cuida.}
 {2141}{}{Adeus.}
 {2142}{}{Até a próxima.
 }
-{2150}{}{The Source is tricky, but I can handle it.}
-{2151}{}{Enjoy the expanded visibility of this world!}
-{2152}{}{Enjoy the new you!}
+{2150}{}{A Fonte é complicada, mas eu posso lidar com isso.}
+{2151}{}{Aproveite a visibilidade expandida deste mundo!}
+{2152}{}{Aproveite o novo você!}
 {2200}{}{Você vê Mikael Grizzly.}
 {2201}{}{Este animal é extremamente peludo.}
-{2210}{}{Hello there. I helped bring the submarine back into this world.}
+{2210}{}{Olá. Ajudei a trazer o submarino de volta para este mundo.}
 {2211}{}{You like how furry I am? I know I do.}
 {2212}{}{Hope you enjoyed the sub.}
 {2300}{}{Você vê x'il.}

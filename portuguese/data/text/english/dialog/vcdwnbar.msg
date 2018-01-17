@@ -92,7 +92,7 @@
 {191}{}{Oh. Well, thanks for the advice.}
 {192}{}{Look, first thing I have to say is that you better not call it "slavery" around here or you're going to get yourself in a whole mess of trouble. They're called "servants," not slaves. Just a word of advice.}
 {193}{}{Point taken. Say, I wanted to know something else...}
-{194}{}{Thanks. I'll keep that in mind.}
+{194}{}{Obrigado. Eu vou manter isso em mente.}
 {195}{}{Not much. Most contact we have with Outsiders is merchants travelling the Big Circle caravan trail from Broken Hills, New Reno, and Redding. Only other place outside the caravan trail that I know of is Gecko.}
 {196}{}{Tell me about Broken Hills.}
 {197}{}{Tell me about New Reno.}

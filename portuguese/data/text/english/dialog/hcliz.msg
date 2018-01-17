@@ -64,7 +64,7 @@
 {159}{}{Ghouls are useful slaves. They ain't got enough minds of their own to be people, but they ain't
  worth killin', either. I don't support the killin' of ghouls.}
 {160}{}{Fine. I want something else.}
-{161}{}{Whatever. Bye.}
+{161}{}{Seja o que for. Tchau.}
 {162}{}{If you're really interested in killing mutants, maybe you ought to go talk to Jacob the chemist.}
 {163}{}{Jacob, eh? Will do.}
 {164}{}{Thought you might be. Now get along.}

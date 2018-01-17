@@ -79,7 +79,7 @@
 {163}{}{You calling me ignorant?}
 {164}{}{That's true.}
 {165}{}{Not necessarily. Who knows what the virus that mutated him has done to his mind?}
-{166}{}{Whatever. Bye.}
+{166}{}{Seja o que for. Tchau.}
 {167}{}{We find that it works fine for our purposes. Plus, Marcus is eminently fair.}
 {168}{}{Where I can find Marcus?}
 {169}{}{Adeus.}

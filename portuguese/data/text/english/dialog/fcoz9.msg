@@ -55,7 +55,7 @@
 {154}{}{That, my child, you will have to discover on your own. Ask around and you shall find the truth.}
 {155}{}{Very helpful. I have more questions.}
 {156}{}{How do you know all this?}
-{157}{}{Whatever. Bye.}
+{157}{}{Seja o que for. Tchau.}
 {158}{}{Child, I am AHS-9. I see many things that transpire in the fleshy world. Do you have more questions, or may I return to my meditations?}
 {159}{}{More questions.}
 {160}{}{Return to your meditations. I'm done.}

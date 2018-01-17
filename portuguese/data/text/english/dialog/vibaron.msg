@@ -80,7 +80,7 @@
 {403}{}{[Check your weapons while you wait.]}
 {404}{}{[Stand there silently and make awkward eye contact with the caravan guards while you listen to the sounds of your wife being defiled by the merchant master.]}
 {410}{}{[An hour later, you see Robert Baron and Miria, now sweaty and disheveled from their sexual romp, walking back towards you. You notice Miria is walking with a slight limp. The merchant grins at you as he refastens his belt.] Holy shit, you sure know how to drive a good bargain. If you ever need to talk a merchant into doing something else, you make sure and look me up. Now, I should really be going. It was a pleasure doing business with you.}
-{411}{}{Whatever. Bye.}
+{411}{}{Seja o que for. Tchau.}
 {412}{}{Anytime. Bye.}
 {413}{}{Adeus.}
 {500}{}{You convince the merchant to add the village to his trade route.}
