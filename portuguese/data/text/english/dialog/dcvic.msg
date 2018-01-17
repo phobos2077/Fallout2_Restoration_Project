@@ -124,110 +124,113 @@ escravista. O que você está fazendo aqui?}
 {1400}{}{Eu tentei, chefe, mas não estou tão quente. Eu vou fazer o que posso embora.}
 {1500}{}{Tudo o que você disser, Chefe.}
 {1501}{}{Aqui? Bem aqui? Ok, você é o Chefe.}
-{1502}{}{Right. I'll stay here until you come back, Boss. You will come back, right?}
-{1503}{}{As long as you want. I'm not going anywhere.}
-{1504}{}{Of course, Boss.}
-{1600}{}{If you say so.}
-{1601}{}{Good call Boss.}
-{1602}{}{Great thinking, Boss.}
-{1603}{}{Sure, Boss. Anything else?}
-{1604}{}{Away it is, Boss.}
-{1605}{}{No problem, Boss.}
-{1606}{}{Done, Boss.}
-{1700}{}{Sure, Boss.}
-{1701}{}{Close it is, Boss.}
-{1702}{}{You know best, Boss.}
-{1703}{}{I'm right behind ya, Boss.}
-{1704}{}{Like glue, Boss.}
-{1705}{}{If you say so, Boss.}
-{1706}{}{Oh. Okay, Boss.}
-{1800}{}{OK, I'll keep my distance, but not too far, Boss.}
-{1801}{}{Okay, I won't, Boss.}
-{1802}{}{I'll just stay back a little then, Boss.}
-{1803}{}{Sure, Boss.}
-{1900}{}{Right Boss. I'll hang way back.}
-{1901}{}{What ever you say, Boss.}
-{1902}{}{There you go, Boss.}
-{1903}{}{Standing back, Boss.}
-{1904}{}{Backing away, Boss.}
-{1905}{}{Spreading out, Boss.}
-{1906}{}{Okay, Boss.}
-{2000}{}{Uh, Boss? You seem a bit crowded. I'll just keep waiting here for ya.}
-{2100}{}{You're scaring me, Boss. What's happened to you? You look... well,
- scary. I think I'll just hang out here for a while...}
-{2200}{}{You bet, Boss!}
-{2201}{}{Darn right I will, Boss.}
-{2202}{}{Sure thing, Boss.}
-{2203}{}{Ready to go when you are, Boss.}
-{2204}{}{Great! Let's go.}
+{1502}{}{Certo. Eu vou ficar aqui até você voltar, chefe. Você vai voltar, certo?}
+{1503}{}{Contanto que você queira. Eu não estou indo a lugar nenhum.
+}
+{1504}{}{Claro, Chefe.}
+{1600}{}{Se você disser que sim.}
+{1601}{}{É bom chamar Chefe.}
+{1602}{}{Grande ideia, Chefe.}
+{1603}{}{Certo, Chefe. Mais alguma coisa?}
+{1604}{}{Afastado está, chefe.}
+{1605}{}{Não há problema, chefe.}
+{1606}{}{Feito Chefe.}
+{1700}{}{Certo, Chefe.}
+{1701}{}{Fechado, Chefe.}
+{1702}{}{Você sabe melhor, Chefe.}
+{1703}{}{Eu estou logo atrás de você, Chefe.}
+{1704}{}{Como cola, Chefe.}
+{1705}{}{Se você disser que sim, Chefe.}
+{1706}{}{Oh. Tudo Bem, Chefe.}
+{1800}{}{OK, eu vou manter a minha distância, mas não muito longe, Chefe.}
+{1801}{}{Ok, não vou, chefe.}
+{1802}{}{Só vou ficar um pouco atrás, chefe.}
+{1803}{}{Certo, Chefe.}
+{1900}{}{Certo Chefe. Eu vou ficar atras. }
+{1901}{}{O que você quer dizer, chefe.}
+{1902}{}{Lá vai você, Chefe.}
+{1903}{}{De pé novamente, Chefe.}
+{1904}{}{Retirando, chefe.}
+{1905}{}{Espalhando-se, Chefe.}
+{1906}{}{Tudo Bem, Chefe.}
+{2000}{}{Uh, Chefe? Você parece um pouco cheio. Vou aguardar aqui por você.}
+{2100}{}{Você está me assustando, Chefe. O que aconteceu com você? Você olha... bem,
+assustador. Acho que vou ficar aqui por um tempo...}
+{2200}{}{Você aposta, Chefe!}
+{2201}{}{Maldito direito eu vou, Chefe.}
+{2202}{}{Claro, chefe.}
+{2203}{}{Pronto para ir quando você estiver, Chefe.}
+{2204}{}{Grande! Vamos lá.}
 {2205}{}{Grande!}
-{2206}{}{You're the best, Boss!}
-{2207}{}{You won't be disappointed. No more mistakes!}
-{2208}{}{I'll be careful this time, don't you worry!}
-{2209}{}{I knew you would forgive me for that… um. So, uh, Boss. What's the plan?}
-{2210}{}{I won't let you down, Boss!}
-{2211}{}{You're super, Boss!}
-{2212}{}{I knew I wasn't too old for this. Those were just bad odds! Right, Boss?}
-{2300}{}{From Ed. He's a brahmin dealer over in Vault City. You been there before?
- Let me show you on that map thing of yours.}
-{2305}{}{Vault City. Here. Let me show you on that fancy map thing of yours.}
-{2310}{}{He should be around here somewhere.}
-{2311}{}{Vault City. Check that fancy map thing of yours.}
-{2403}{}{Where did you get the Vault 13 water flask?}
+{2206}{}{Você é o melhor, chefe!}
+{2207}{}{Você não será desapontado. Sem mais erros!}
+{2208}{}{Eu vou ser cuidadoso desta vez, não se preocupe!}
+{2209}{}{Eu sabia que você iria me perdoar por isso... um. Então, uh, Chefe. Qual é o plano?}
+{2210}{}{Eu não vou deixar você para baixo, Chefe!}
+{2211}{}{Você é super, chefe!}
+{2212}{}{Eu sabia que não era muito velho para isso. Essas foram apenas más chances! Certo, Chefe?}
+{2300}{}{De Ed. Ele é um negociante do brahmin em Vault City. Você já esteve lá antes?
+  Deixe-me mostrar-lhe sobre esse seu mapa.}
+{2305}{}{Vault City. Aqui. Deixe-me mostrar-lhe nesse seu mapa elegante.}
+{2310}{}{Ele deve estar por aqui em algum lugar.}
+{2311}{}{Vault City. Verifique se o mapa sofisticado é seu.}
+{2403}{}{Onde você pegou o frasco de água do Vault 13?}
 {2404}{}{Não importa.}
-{2500}{}{Sure, Boss.}
-{2501}{}{Ask anything, Boss.}
-{2502}{}{I'll help you if I can, Boss.}
-{2503}{}{I'm not in trouble am I, Boss?}
-{2504}{}{Did I do something wrong, Boss?}
+{2500}{}{Certo, Chefe.}
+{2501}{}{Pergunte o que quiser, Chefe.}
+{2502}{}{Eu vou ajudar você, se eu posso, Chefe.}
+{2503}{}{Não estou com problemas, eu sou, chefe?}
+{2504}{}{Eu fiz algo errado, Chefe?}
 {2505}{}{Claro.}
-{2600}{}{What'll we do now, Boss?}
-{2601}{}{What's the plan, Boss?}
-{2602}{}{Doing my best, Boss.}
-{2603}{}{What can I do for you, Boss?}
-{2604}{}{Change of plans, Boss?}
-{2605}{}{Different strategy, Boss?}
-{2700}{}{Boss, they got me good. You've got to get me to a doctor. I don't know if I can
- back you up anymore.}
-{2701}{}{I need a doctor, Boss. I'm really messed up. I don't know if I can fight
- with you anymore.}
-{2702}{}{Boss, I'm really messed up. You got to get Lenny to check me out.}
-{2800}{}{Hey, Boss. You want me to join up with you now?}
-{2801}{}{Hey, Boss. I don't mind waiting for you. I'm a real patient man.}
-{2802}{}{We joining up again, Boss? I'll try harder.}
-{2803}{}{I was afraid you might not come back. It sure is nice to see you again, Boss.}
-{2804}{}{You looking for company again?}
-{2805}{}{I'm ready to go, Boss.}
-{2806}{}{I knew you wouldn't leave me.}
-{2807}{}{Need some back up?}
-{2808}{}{Need something repaired, don't you? I'm your man, Boss!}
-{2809}{}{Don't worry, Boss. Sulik and I'll get along, honest.}
+{2600}{}{O que será que vamos fazer agora, Chefe?}
+{2601}{}{Qual é o plano, Chefe?}
+{2602}{}{Fazendo o meu melhor, Chefe.}
+{2603}{}{O que eu posso fazer por você, Chefe?}
+{2604}{}{Mudança de planos, Chefe?}
+{2605}{}{Estratégia diferente, Chefe?}
+{2700}{}{Chefe, eles me deram bem. Você deve me levar ao médico. Não sei se posso ir
+  de volta com você mais.}
+{2701}{}{Eu preciso de um médico, Chefe. Eu estou realmente confuso. Eu não sei se eu posso lutar
+com você mais.}
+{2702}{}{Chefe, eu estou realmente confuso. Você tem que chegar em Lenny para ver-me.}
+{2800}{}{Ei, chefe. Você quer que eu me junte com você agora?}
+{2801}{}{Ei, chefe. Não me importo de te esperar. Sou um homem muito paciente.}
+{2802}{}{Nós nos juntamos de novo, Chefe? Vou tentar mais.}
+{2803}{}{Eu temia que você não voltasse. Com certeza, é bom ver você de novo, chefe.}
+{2804}{}{Você está procurando companhia de novo?}
+{2805}{}{Eu estou pronto para ir, Chefe.}
+{2806}{}{Eu sabia que você não iria me deixar.}
+{2807}{}{Precisa de algum substituto?}
+{2808}{}{Precisa de algo reparado, não é? Eu sou seu homem, Chefe!}
+{2809}{}{Não se preocupe, chefe. Sulik e eu vamos nos dar bem, honesto.}
 {2810}{}{Vamos lá.}
-{2811}{}{Stay here. I'll be right back.}
+{2811}{}{Fica aqui. Eu vou estar de volta.}
 {2812}{}{Eu vou.}
-{3100}{}{What? Uh… okay, Boss. If you say so.}
-{3101}{}{Can I put something else on, Boss? I'm a little worried.}
-{3102}{}{Okay… you're not going to leave me here… Are you, Boss?}
-{3103}{}{But… I mean… Of course, Boss. Coming right off.}
-{3200}{}{Well, Boss…. I'm pretty good with small arms. I can handle almost any rifle, shotgun, and most small-medium pistols. I 'can' use knives. I've also got a pretty good throwing arm, but my aim's not the best in the world… actually, it's pretty horrible. Sorry, Boss. I'm really trying to get better.}
-{3201}{}{Like I said, Boss, I prefer small arms. I can handle almost any rifle, shotgun, and most of those small-medium pistols. If we're really in a pinch I can try using a knife or even thrown weapons.}
-{3300}{}{I 'can' use knives and I've got a pretty good throwing arm, but… my aim's not the best in the world. Actually it's pretty horrible. Sorry, Boss. I'm really trying to get better.}
-{3301}{}{Like I said, Boss. Knives and I've got pretty good throwing arm… I just miss a lot.}
-{3400}{}{I've had it up to here!}
-{3401}{}{I'm going to rip your darn head off! No one hurts my family!}
-{4000}{}{Over here?}
-{4001}{}{This better Boss?}
-{4002}{}{How 'bout here?}
-{4003}{}{Yes Boss.}
+{3100}{}{O que? Uh ... ok, chefe. Se você diz.}
+{3101}{}{Posso colocar outra coisa, Chefe? Eu estou um pouco preocupado.}
+{3102}{}{Ok ... você não vai me deixar aqui ... Você vai, chefe?}
+{3103}{}{Mas ... quero dizer ... Claro, chefe. Vindo imediatamente.}
+{3200}{}{Bem, chefe ... Eu sou muito bom com armas pequenas. Eu posso lidar com quase qualquer arma de rifle, espingarda e a maioria das pistolas de pequeno e médio. Eu posso usar facas. Eu também tenho um bom braço jogando, mas meu objetivo não é o melhor do mundo ... na verdade, é muito horrível. Desculpe chefe. Estou realmente tentando melhorar.}
+{3201}{}{Como eu disse, chefe, eu prefiro armas pequenas. Eu posso lidar com quase qualquer rifle, espingarda e a maioria dessas pistolas de pequeno e médio porte. Se estamos realmente em uma pitada eu posso tentar usar uma faca ou mesmo armas jogadas.}
+{3300}{}{Eu posso usar facas e tenho um bom braço jogando, mas ... meu objetivo não é o melhor do mundo. Na verdade, é muito horrível. Desculpe chefe. Estou realmente tentando melhorar.}
+{3301}{}{Como eu disse, chefe. Facas e eu tenho muito bom braço jogando ... Eu só sinto falta de muita coisa.}
+{3400}{}{Eu tive-o até aqui!
+}
+{3401}{}{Eu vou rasgar sua cabeça maldita fora! Ninguém machuca minha família!}
+{4000}{}{Por aqui?
+}
+{4001}{}{Este Chefe melhor?}
+{4002}{}{Que tal aqui?}
+{4003}{}{Sim, Chefe.}
 {4004}{}{O que?}
-{4005}{}{Where we going?}
-{4006}{}{We leaving Boss?}
-{4007}{}{I'm moving.}
-{4008}{}{Sorry Boss.}
-{4009}{}{Better?}
+{4005}{}{Para onde vamos?}
+{4006}{}{Nós deixamos Chefe?}
+{4007}{}{Estou me movendo.}
+{4008}{}{Desculpe, Chefe.}
+{4009}{}{Melhor?}
 {4010}{}{Ooof.}
-{4011}{}{How's this Boss?}
-{4012}{}{I'll stand over here.}
+{4011}{}{Como é esse Chefe?}
+{4012}{}{Eu vou ficar por aqui.}
 {4013}{}{I'll just move over here now.}
 {4100}{}{Boss! I'm not doing so well here.}
 {4101}{}{I need a doctor.}

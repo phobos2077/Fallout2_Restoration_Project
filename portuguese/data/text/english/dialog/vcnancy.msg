@@ -179,7 +179,7 @@
 {278}{}{Aw, c'mon. I'm new. I'll get into trouble if I go around by myself.}
 {279}{}{All right. Can I ask you some questions then?}
 {280}{}{Oh, well. Just thought I'd ask.}
-{281}{}{Great! Let's go.}
+{281}{}{Grande! Vamos lá.}
 {282}{}{Thanks for the wonderful evening.}
 {283}{}{Uh... sure. Maybe we'll go out some other time. I'll... uh, call you. Bye.}
 {284}{}{I'm sorry, but no.}

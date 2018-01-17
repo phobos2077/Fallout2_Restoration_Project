@@ -205,7 +205,7 @@
 {701}{}{Uh, about the Jet --?}
 {710}{myn112}{Plus, a peyote trip is too long. The profit's in fast turn around and high addiction. Like, uh, barbiturates before the Big One, y'know?}
 {711}{}{I hope this is leading somewhere.}
-{712}{}{If you say so.}
+{712}{}{Se você disser que sim.}
 {713}{}{Barbiturates…like old school cocaine, crank, all that?}
 {714}{}{You mean barbiturates…like old school cocaine, crank, all that?}
 {716}{}{Nevermind, Myron. I don't have time for your long-winded bullshit.}
