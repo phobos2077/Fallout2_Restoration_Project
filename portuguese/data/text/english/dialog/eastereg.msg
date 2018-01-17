@@ -3,48 +3,48 @@
 {110}{}{Você vê um caçador de recompensas duro e implacável. Ele não parece que fala muito. Ele ajudou com os novos scripts e idéias. E com a morte de pessoas.}
 {200}{}{Você vê Hivan Zolo.}
 {201}{}{Um olhar desalinhado, mas um patife bonito.}
-{210}{}{Kid, I've flown from one side of this galaxy to the other, and I've seen a lot of strange stuff, but I've never seen *anything* to make me believe that there's one all-powerful Force controlling everything.
- 'Cause no mystical energy field controls *my* destiny. It's all a lot of simple tricks and nonsense. Hokey religions and ancient weapons are no match for a good blaster at your side. I can tell when a guy is handy
- with a gun, so take this. Trust me: it'll come in handy when you've got a price on your head. (He hands you a blaster.)}
-{211}{}{My real name is Ivan Zaharath.}
-{212}{}{I translated the RP into Polski for the benefit of the great and powerful Republic of Poland ... I mean Rebel Alliance.}
-{213}{}{Laugh it up, fuzzball.}
-{214}{}{Hokey religions and ancient weapons are no match for a good blaster at your side, kid.}
-{215}{}{Who're you callin' 'scruffy lookin'!?}
+{210}{}{Filho, eu voei de um lado da galáxia para o outro, e eu vi muitas coisas estranhas, mas nunca vi * nada * para me fazer acreditar que existe uma força poderosa que tudo controle.
+  Porque nenhum campo de energia mística controla * meu * destino. Tudo é um monte de truques simples e sem sentido. As religiões de Hokey e as armas antigas não são compatíveis com um bom blaster ao seu lado. Posso dizer quando um cara é útil
+  com uma arma, então pegue isso. Confie em mim: será útil quando você tiver um preço por sua cabeça. (Ele te entrega um blaster.)}
+{211}{}{Meu verdadeiro nome é Ivan Zaharath.}
+{212}{}{Eu traduzi o RP em Polonês para o benefício da grande e poderosa República da Polônia ... quero dizer, Rebel Aliança.}
+{213}{}{Ligue isso, fuzzball.}
+{214}{}{As religiões de Hokey e as armas antigas não são páreo para um bom blaster ao seu lado, criança.}
+{215}{}{Quem você está chamando de "olhar desalinhado" !?}
 {300}{}{Você vê Contie-bacca.}
 {301}{}{Ele parece um tapete de pé.}
 {310}{}{Roow rooo arrrrr rooow.}
-{311}{}{Rrrrrrrrrrrrr .... squeak!}
+{311}{}{Rrrrrrrrrrrrr .... o squeak!}
 {312}{}{Nowrrrrragh.}
 {313}{}{Yawrrrk!}
 {314}{}{Roow rooo Nowrrrrragh!}
-{315}{}{He says he's Continuum, and he made new & unique graphics.}
-{316}{}{He says he made them using 3D modeling. He's quite clever you know. For a human.}
-{317}{}{He says he's not speaking Czech-speak, though it does sound a bit like baby-talk.}
-{318}{}{He says it's not a crossbow, it's a blaster. And no you can't have it.}
-{319}{}{He says you should thank him for bringing the sub back into the game.}
+{315}{}{Ele diz que ele é o Continuum, e ele criou gráficos novos e únicos.}
+{316}{}{Ele diz que ele o fez usando a modelagem 3D. Ele é muito inteligente, você sabe. Para um ser humano.}
+{317}{}{Ele diz que não está falando checo, embora pareça um pouco como baby-talk.}
+{318}{}{Ele diz que não é uma besta, é um blaster. E não, você não pode tê-lo.}
+{319}{}{Ele diz que você deve agradecê-lo por ter trazido o sub de volta ao jogo.}
 {400}{}{Você vê Darek Vader.}
 {401}{}{Esse cara parece duro como o inferno e parece ser mais máquina que o homem.}
-{410}{}{I'm Darek. I helped answer a million noob questions for Obi-Wan-Killap.}
-{411}{}{Join me! Together we can rule the galaxy!}
-{412}{}{Did you know that the great Obi-Wan-Killap asked ME for help?}
-{413}{}{Don't tell Obi-Wan-Killap, but I think he might be losing his mind.}
-{414}{}{I helped squash several nasty bugs. You can thank me later.}
+{410}{}{Eu sou Darek. Ajudei a responder um milhão de perguntas noob para Obi-Wan-Killap.}
+{411}{}{Junte-se a mim! Juntos podemos governar a galáxia!}
+{412}{}{Você sabia que o grande Obi-Wan-Killap me pediu ajuda?}
+{413}{}{Não conte a Obi-Wan-Killap, mas acho que ele pode estar perdendo a cabeça.}
+{414}{}{Eu ajudei a eliminar vários bugs desagradáveis. Você pode me agradecer mais tarde.}
 {500}{}{Você vê Jotisz, o Hutt.}
 {501}{}{Esse cara é grande, gordo e verde.}
-{510}{}{I'm Jotisz the Hutt. I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy Sulik is wearing.
- Those were created by Yosan12 and me. I know! And with these stubby hands!}
-{511}{}{I'm Jotisz the Hutt. I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy...hey where
- is Sulik? You should go get him and see how he looks. His threads were created by Yosan12 and me. I know! And with these stubby hands!}
-{512}{}{*whistles* I'm a big fat green slug...}
-{513}{}{In case you didn't notice, I'm suspiciously easy to strangle.}
-{514}{}{Now, where did I put Leia...?}
+{510}{}{Eu sou o Jotisz the Hutt. Posso parecer uma grande lombra verde gorda, mas na verdade ajudei a criar esses novos e legais segredos blindados, o seu amigo Sulik está vestindo.
+  Essas foram criadas por Yosan12 e eu. Eu sei! E com essas mãos estranhas!}
+{511}{}{Eu sou o Jotisz the Hutt. Posso parecer uma lesma verde grande e gorda, mas na verdade ajudei a criar esses novos e legais segredos blindados, seu amigo ... ei, onde está
+  Sulik? Você deve buscá-lo e ver como ele parece. Seus tópicos foram criados por Yosan12 e por mim. Eu sei! E com essas mãos estranhas!}
+{512}{}{* assobios * Eu sou uma grossa lesma verde gorda ...}
+{513}{}{No caso de você não ter notado, sou suspeitamente fácil de estrangular.}
+{514}{}{Agora, onde foi que eu coloquei Leia...?}
 {600}{}{Você vê R2Qwerty.}
 {601}{}{Um pequeno robô enfezado. Ele pisca e emite um sinal sonoro.}
-{610}{}{Beep beep!}
+{610}{}{Beep Beep!}
 {611}{}{Rrrrrr beep Rrrrwow!}
-{612}{}{*flashes and jiggles excitedly*}
-{613}{}{Crossbows! Tactics! Crossbows!}
+{612}{}{* pisca e chacoalha excitadamente *}
+{613}{}{Bestas! Táticas! Bestas!}
 {700}{}{Você vê Chris3ParksO.}
 {701}{}{Um ouro brilhante robô humanóide. Ele parece surpreso.}
 {710}{}{Hi, I'm Chris3ParksO, human-cyborg relations. I am well versed in over 3 million programming languages.}

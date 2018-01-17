@@ -7,7 +7,7 @@
 {700}{}{Você terminou sua primeira corrida de escravos.}
 {800}{}{Você pagou a dívida de Fred para Rebecca.}
 {900}{}{Você retornou o livro de Rebecca.}
-{1000}{}{You returned Anna's locket.}
+{1000}{}{Você devolveu o medalho de Anna.}
 {1100}{}{Você conseguiu conversar rapidamente dentro da igreja.}
 {1200}{}{Você entregou a refeição de Smitty.}
 {1300}{}{Você encontrou uma fraqueza na gangue de Tyler.}

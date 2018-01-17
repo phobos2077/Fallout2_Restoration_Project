@@ -151,7 +151,7 @@
 {702}{}{Eu estou ocupado.}
 {710}{}{O espertinho está de volta! Então você realmente quer ir nesta igreja? Por quê? Não há nada aqui que você esteja interessado.}
 {711}{}{Agora, o que diabos você quer?}
-{712}{}{You see this mark on my forehead? Let me in. Now!}
+{712}{}{Você vê essa marca na minha testa? Deixe-me. Agora!}
 {713}{}{Eu sou sua nova cadela, é por isso! Se você não me deixar no momento, eu vou ter certeza de que você se encontra no topo de sua lista de merda.}
 {714}{}{Olha, amigo. Metzger vai ter meu esconderijo se eu não inspecionar tudo em breve. Você sabe como ele fica.}
 {715}{}{Nenhum de seus fodidos negócios. Se o chefe quiser que sua merda seja verificada, é o que eu faço. Não faço perguntas.}

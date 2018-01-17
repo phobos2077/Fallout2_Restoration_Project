@@ -95,7 +95,7 @@
 {402}{}{Tubby sabe como cuidar de suas mulheres!}
 {403}{}{Não é Tubby maravilhoso?}
 {404}{}{Oh, baby - Espera! Você não é Tubby.}
-{405}{}{Where's our big man at?}
+{405}{}{Onde está o nosso grande homem?}
 {406}{}{Não faz apenas a sua pele tremer?}
 {407}{}{Tubby tem o melhor fornecimento na cidade.}
 {408}{}{Eu me sinto tão vivo!}
