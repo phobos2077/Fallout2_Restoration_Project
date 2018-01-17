@@ -35,7 +35,7 @@
 {160}{}{Hmmph, another cheating smoothskin.}
 {161}{}{Heya, smoothy.}
 {162}{}{Hello there.}
-{163}{}{What's up?}
+{163}{}{O que é?}
 {164}{}{Be nice while you're in town.}
 {165}{}{Come far to get here?}
 {166}{}{You look like you're from Vault City.}

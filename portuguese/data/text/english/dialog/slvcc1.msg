@@ -3,7 +3,7 @@
 {102}{}{You see Don, the slaver in charge of this camp.}
 {105}{}{Hey, what the fuck!? Who the hell are you?}
 {106}{}{I'm your worst nightmare. Prepare to die!}
-{107}{}{Metzger sent me.}
+{107}{}{Metzger me enviou.}
 {108}{}{I'm here to join.}
 {109}{}{Uhh, this isn't where I left my car...}
 {200}{}{You first, asshole.}

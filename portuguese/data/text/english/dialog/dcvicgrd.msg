@@ -50,7 +50,7 @@
 {312}{}{Oh, that's where I am? I thought I was in Kansas.}
 {313}{}{Ok, obrigado.}
 {320}{}{Where? No, never heard of it. This is the Den. Not sure about that place, but I don't get out much. Sorry.}
-{321}{}{Moron.}
+{321}{}{Imbecil.}
 {322}{}{Uh, okay. Thanks.}
 {330}{}{Damn, man. Metzger's the slaver master. He runs things around here.}
 {331}{}{Damn, lady. This is the last place a lady like you would want to be. Metzger's the slaver master.}

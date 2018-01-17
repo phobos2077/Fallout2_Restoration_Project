@@ -16,7 +16,7 @@
 {115}{}{We don't want any trouble here.}
 {116}{}{I've been looking at you, too.}
 {117}{}{Howdy, stranger.}
-{118}{}{What's up?}
+{118}{}{O que é?}
 {119}{}{How're you doing?}
 {120}{}{Good day to you.}
 {121}{}{Sim.}

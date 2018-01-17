@@ -1,152 +1,156 @@
-{100}{}{You see Tyler.}
-{101}{}{You see Tyler, the leader of this gang.}
-{150}{}{He seems fairly strong.}
-{200}{}{Hey, don't touch the fucking door.}
-{201}{}{Moron.}
-{210}{}{Now we finish it.}
-{220}{}{Told you it would be a piece of cake.}
-{221}{}{That was like leading lambs to the slaughter.}
-{222}{}{That fucking bitch is finally dead!}
-{223}{}{Thanks for the tip, that was sweet.}
-{230}{}{Where the hell were you?}
-{231}{}{Trap my ass! Fucking liar.}
-{232}{}{I should gut you right now.}
-{233}{}{So much for the plan, asshole.}
-{234}{}{You better not have been jerking me around.}
-{235}{}{How'd you fuck this one up?}
-{240}{}{You just lead those dumb bastards here and we'll nail them to the wall.}
-{241}{}{We're waiting.}
-{242}{}{We can't wait all night.}
-{243}{}{What are you waiting for? I'm ready for blood.}
-{244}{}{Do it already! Don't let them get suspicious.}
-{245}{}{Hurry the hell up.}
-{250}{}{Who the hell are you and what do you want?}
-{251}{}{So, what do you want this time?}
-{252}{}{Metzger sent me.}
-{253}{}{I'm here to inspect the church.}
+{100}{}{Você vê Tyler.}
+{101}{}{Você vê Tyler, o líder da gangue.}
+{150}{}{Ele parece bastante forte.}
+{200}{}{Ei, não tocar a porra da porta.}
+{201}{}{Imbecil.}
+{210}{}{Agora vamos terminá-lo.}
+{220}{}{Disse que você era um pedaço de bolo.}
+{221}{}{Isso foi como levar cordeiros ao abate.}
+{222}{}{Essa puta fodida finalmente está morta!}
+{223}{}{Obrigado pela dica, que era doce.}
+{230}{}{Onde diabos você estava?}
+{231}{}{Armadilha do meu cu! Mentiroso do caralho.}
+{232}{}{Eu deveria estripar você agora.}
+{233}{}{Tanto para o plano, imbecil.}
+{234}{}{É melhor você não ter empurrado para mim.}
+{235}{}{Como você fodeu este?}
+{240}{}{Você acabou de liderar esses bastardos estúpidos aqui e nós os pregamos na parede.}
+{241}{}{Estamos esperando.}
+{242}{}{Não podemos esperar toda a noite.}
+{243}{}{O que você está esperando? Eu estou pronto para o sangue.}
+{244}{}{Faça isso já! Não os deixe suspeitar.}
+{245}{}{Apresse-se inferno.}
+{250}{}{Quem diabos é você e o que você quer?}
+{251}{}{Então, o que você quer desta vez?}
+{252}{}{Metzger me enviou.}
+{253}{}{Eu estou aqui para inspecionar a igreja.}
 {254}{}{Deixa pra lá. Adeus.}
 {255}{}{Eu}
 {256}{}{Aruwa?}
-{260}{}{What the hell for? His stuff's not going anywhere.}
-{261}{}{His crap still hasn't moved an inch.}
-{262}{}{Oh, yeah. You're a slaver now, eh? So what did he want? It's not going anywhere - not like it could.}
-{263}{}{He wanted me to check it for him.}
-{264}{}{Well, he wants to be sure.}
+{260}{}{Por que diabos? Suas coisas não vão a lugar nenhum.}
+{261}{}{A porcaria ainda não se moveu um centímetro.}
+{262}{}{Oh sim. Você é escravista agora, eh? Então, o que ele queria? Ele não vai a lugar nenhum - não é como ele poderia.}
+{263}{}{Ele queria que eu checasse para ele.}
+{264}{}{Bem, ele quer ter a certeza.}
 {265}{}{Não importa.}
-{270}{}{Sure he did. I've never seen you around here before. Now, beat it.}
-{271}{}{Let me in there now, before I have to get angry on your face!}
-{272}{}{Look, he had me come into town just to inspect his damn stuff. I could care less.}
+{270}{}{Claro que sim. Eu nunca vi você por aqui antes. Agora, saia.}
+{271}{}{Deixe-me entrar agora, antes de ter que ficar com raiva no seu rosto!}
+{272}{}{Olha, ele me fez entrar na cidade apenas para inspecionar suas malditas coisas. Eu poderia me preocupar menos.}
 {273}{}{Tudo bem.}
-{280}{}{Whatever, slaver. Just go on in. Does he think it's just going to up and leave?
- Who the hell would want that shit?}
-{281}{}{Fuck it. Just go in. Does he think it's just going to up and leave? Who the
- hell would want that shit anyhow?}
+{280}{}{O que quer que seja, escravista. Apenas vá dentro. Ele acha que só vai subir e sair?
+  Quem diabos quereria essa merda?}
+{281}{}{Foda-se. Apenas entre. Será que ele pensa que vai subir e sair? Quem
+  inferno quereria essa merda de qualquer maneira?}
 {282}{}{Adeus.}
-{290}{}{Okay, fuck. It's not like I really care. Like you would know what to do with any of that shit anyway.}
+{290}{}{Ok, porra. Não é como se eu realmente me importasse. Como você saberia o que fazer com qualquer uma dessas merdas de qualquer maneira.}
 {291}{}{Grrrr.}
 {292}{}{Obrigado.}
-{300}{}{Beat it, tough guy, before I get angry on Your face.}
-{301}{}{Beat it, bitch. Metzger wouldn't have sent a woman anyhow, so take a hike.}
-{302}{}{Bitch? I'll show you what this bitch can do.}
+{300}{}{Saia, cara duro, antes de me irritar com teu rosto.}
+{301}{}{Saia, puta. Metzger não teria enviado uma mulher de qualquer forma, então faça uma caminhada.}
+{302}{}{Puta? Eu vou te mostrar o que essa puta consegue fazer.}
 {303}{}{Foda-se você.}
-{304}{}{[Leave]}
+{304}{}{[Deixar]}
 {310}{}{Vencê-lo.}
-{320}{}{That's nice. Me Tyler. Me go bye bye.}
+{320}{}{Isso é bom. Eu Tyler. Eu vou adeus.}
 {321}{}{Ur.}
 {322}{}{Uh…}
-{330}{}{Beat it, freak.}
+{330}{}{Saia, aberração.}
 {331}{}{Sukyu!}
 {332}{}{Arug!}
-{340}{}{I don't think so. Now beat it.}
+{340}{}{Acho que não. Agora cai fora.}
 {341}{}{Tudo bem.}
-{342}{}{But!}
+{342}{}{Mas!}
 {343}{}{Bem.
 }
-{350}{}{Yeah, I bet you are. Who sent you?}
-{351}{}{Yeah, you said that already, fuck head. Who sent you?}
-{352}{}{Who do you think, moron? Now stop dicking around and let me in.}
-{353}{}{The pink panther.}
-{354}{}{Okay, you'll regret that.}
-{360}{}{The what? Get outta here!}
-{361}{}{But...}
+{350}{}{Sim, eu aposto que você está. Quem o enviou?}
+{351}{}{Sim, você já disse isso, fodido. Quem te enviou?}
+{352}{}{Quem você acha, idiota? Agora, pare de rodeios e me deixar entrar.}
+{353}{}{A pantera cor de rosa.}
+{354}{}{Ok, você não vai se arrepender.}
+{360}{}{O que? Sair daqui!}
+{361}{}{Mas...}
 {362}{}{Bem.
 }
-{370}{}{Now what the hell does the boss want? Another stupid fucking inspection?}
+{370}{}{Agora, o que diabos o patrão quer? Outra estúpida do caralho inspeção?}
 {371}{}{Sim?}
-{372}{}{What now?}
+{372}{}{O que agora?
+
+}
 {373}{}{Como vai?}
-{374}{}{Sorry, gotta go.}
+{374}{}{Desculpe, tenho que ir.}
 {375}{}{Uk.}
 {376}{}{Lub?}
-{380}{}{Actually, great! Almost forgot - a buddy of mine won it big at the tables and he's sharing the wealth, if you know what I mean.}
-{381}{}{Pretty fucking bored. I hate guarding - but, hey, things can't be that bad. A buddy of mine won it big at the tables and he's sharing the wealth, if you know what I mean.}
-{382}{}{Big plans, then?}
-{383}{}{Sounds like fun.}
-{390}{}{Yeah, he's throwing a party tonight at his place. Should be a blast.}
-{391}{}{Yeah, he's throwing a party tonight at his place. Should be a blast. I'd invite you, honey, but it's only for his closest friends.}
-{392}{}{Down a few brews for me.}
-{393}{}{I understand, thanks. Have fun.}
+{380}{}{Na verdade, ótimo! Quase esqueci - um amigo meu ganhou grande nas mesas e ele está compartilhando a riqueza, se você sabe o que quero dizer.}
+{381}{}{Muito fodido. Odeio guardar - mas, hey, as coisas não podem ser tão ruins. Um amigo meu ganhou grande nas mesas e ele está compartilhando a riqueza, se você sabe o que quero dizer.}
+{382}{}{Grandes planos, então?}
+{383}{}{Parece divertido.}
+{390}{}{Sim, ele está dando uma festa esta noite em seu lugar. Deve ser uma explosão.}
+{391}{}{Sim, ele está dando uma festa esta noite em seu lugar. Deve ser uma explosão. Eu convido você, querida, mas é só para seus amigos mais próximos.}
+{392}{}{Dece algumas cervejas para mim.}
+{393}{}{Eu entendo, obrigado. Divertir-se.}
 {394}{}{Até mais.
 }
-{400}{}{You better believe it! We're going to drink until we drop!}
+{400}{}{É melhor você acreditar! Nós vamos beber até cair!}
 {401}{}{Adeus.}
-{410}{}{What the fuck do you care. Beat it.}
-{411}{}{Yeah, so-so.}
-{412}{}{You trying to annoy me?}
+{410}{}{Que merda você se importa. Cai fora.}
+{411}{}{Sim, assim-sim.}
+{412}{}{Você está tentando me irritar?}
 {413}{}{Não é mau.}
-{414}{}{Tired.}
+{414}{}{Cansado.
+}
 {415}{}{Tudo bem.}
 {416}{}{Vencê-lo.}
-{417}{}{Been better.}
+{417}{}{Estive melhor.
+}
 {418}{}{Oh.}
-{430}{}{Can't wait for that party. Hope he has a few whores there again.}
-{431}{}{My buddy really knows how to throw a party.}
-{432}{}{Almost party time.}
-{433}{}{Party! Wish I was there now.}
-{440}{}{Hey, what's up? Almost time for that party.}
-{441}{}{What's up?}
-{442}{}{I have some information you might be interested in.}
+{430}{}{Não posso esperar por essa festa. Espero que ele tenha algumas putas lá novamente.}
+{431}{}{Meu amigo realmente sabe como dar uma festa.}
+{432}{}{Quase hora da festa.}
+{433}{}{Festa! Gostaria de estar lá agora.}
+{440}{}{E ai, como vai? Quase na hora da festa.}
+{441}{}{O que é?}
+{442}{}{Tenho algumas informações sobre as quais você pode estar interessado.}
 {443}{}{Nada.}
 {444}{}{Uhg.}
 {445}{}{Urseco?}
-{450}{}{Damn, what the hell's wrong with you today? Lay off the drugs.}
-{451}{}{Drugs are bad for you, man.}
-{452}{}{Drugs are bad for you, lady.}
-{453}{}{[Grunt]}
-{460}{}{Oh, yeah? What's that?}
-{461}{}{It'll cost you.}
-{462}{}{Lara's planning on hitting this place tonight.}
-{463}{}{Wait a minute.}
-{470}{}{You fucking earned this. Here's your money. I've been wanting to finish them off
- for a while.}
-{480}{}{Yeah, fuck you. It depends on what it is. You tell me, then I'll decide
- if I pay you anything for it.}
-{481}{}{Lara's planning on hitting this place tonight.}
+{450}{}{Porra, o que diabos há de errado com você hoje? Jogue fora as drogas.}
+{451}{}{As drogas são ruins para você, cara.}
+{452}{}{As drogas são ruins para você, senhora.}
+{453}{}{[Grunhido]}
+{460}{}{Oh, sim? O que é isso?}
+{461}{}{Vai custar-lhe.}
+{462}{}{Lara está planejando bater neste lugar esta noite.}
+{463}{}{Espere um minuto.}
+{470}{}{Você ganhou isso. Aqui está o seu dinheiro. Eu queria acabar com eles
+  faz um tempo.}
+{480}{}{Sim, foda-se você. Depende do que é. Você me diz, então vou decidir
+  se eu vou pagar qualquer coisa por isso.}
+{481}{}{Lara está planejando bater neste lugar esta noite.}
 {482}{}{Não, desculpe.}
-{490}{}{Oh really? So that bitch has got some balls after all? Well, that's worth a $100.}
+{490}{}{Sério? Então, essa cadela tem algumas bolas depois de tudo? Bem, isso vale $ 100.}
 {491}{}{Obrigado.}
-{500}{}{Not so fast, slick. Just to be sure, we'll wait until after they show.
- You could be lying to me for all I know. You just be sure they show, and I'll pay you after.}
-{501}{}{But I'm a lover, not a fighter.}
+{500}{}{Não tão rápido, liso. Apenas para ter certeza, vamos esperar até depois que eles mostrarem.
+  Você poderia estar mentindo para mim por tudo o que eu conheço. Você só tem certeza de que eles mostram, e eu pagarei você depois.}
+{501}{}{Mas eu sou um amante, não um lutador.}
 {502}{}{Parece bom.}
-{510}{}{Look, I don't give a rat's ass what you are. I'm not giving you a dollar
- until after they show. We'll do the fighting, but you better be sure they show.}
+{510}{}{Olha, eu não dou o traseiro de um rato pro que você é. Eu não estou lhe dando um dólar
+  até depois de mostrarem. Vamos fazer a luta, mas é melhor você ter certeza de que eles aparecem.}
 {511}{}{Tudo bem.}
-{600}{}{So, you're the boss's new whipping boy?}
-{601}{}{What do ya want?}
-{602}{}{What's up with Metzger? Doesn't he trust us anymore?}
-{603}{}{You done checking that shit yet?}
-{604}{}{Told you Metzger's shit wasn't going anywhere.}
-{605}{}{So, you finished in there or what?}
-{606}{}{I'm sure Metzger needs you for something. Why don't you run along and check?}
-{607}{}{What the fuck's wrong with Metzger? Thinking we're not guarding his shit...}
-{608}{}{You still here? Don't you have another little errand to run for Metzger?}
-{609}{}{So, you're the boss's new whipping girl?}
-{700}{}{I'm not in the mood.}
-{701}{}{Not now.}
-{702}{}{I'm busy.}
-{710}{}{The smart ass is back! So you really want in this church? Why? There's nothing in here you'd be interested in.}
-{711}{}{Now what the fuck do you want?}
+{600}{}{Então, você é o novo garoto do chefe?}
+{601}{}{O que você quer?}
+{602}{}{O que há com o Metzger? Ele não confia mais em nós?}
+{603}{}{Você já verificou essa merda ainda?}
+{604}{}{Disse que a merda de Metzger não estava indo a lugar nenhum.}
+{605}{}{Então, você terminou lá ou o quê?}
+{606}{}{Tenho certeza de que Metzger precisa de você para algo. Por que você não corre e checa?}
+{607}{}{O que diabos está errado com Metzger? Pensando que não estamos guardando sua merda ...}
+{608}{}{Você ainda está aqui? Você não tem outra pequena tarefa para correr a Metzger?}
+{609}{}{Então, você é a nova menina chicoteada do chefe?}
+{700}{}{Eu não estou no clima.}
+{701}{}{Não agora.}
+{702}{}{Eu estou ocupado.}
+{710}{}{O espertinho está de volta! Então você realmente quer ir nesta igreja? Por quê? Não há nada aqui que você esteja interessado.}
+{711}{}{Agora, o que diabos você quer?}
 {712}{}{You see this mark on my forehead? Let me in. Now!}
 {713}{}{I'm his new bitch, that's why! If you don't let me in right now, I'll be sure you find yourself at the top of his shit list.}
 {714}{}{Look, buddy. Metzger's going to have my hide if I don't inspect everything soon. You know how he gets.}

@@ -65,7 +65,9 @@
 {152}{}{Before I go, let me ask you something.}
 {153}{}{OK, I'll try to raise some cash. Goodbye.}
 {154}{}{O que você gostaria de saber?}
-{155}{}{What now?}
+{155}{}{O que agora?
+
+}
 {156}{}{I think I have a solution for the Jet problem that you have here.}
 {157}{}{I hear that Redding has been having a problem here with its exports lately.}
 {158}{}{I could sure use some healing.}

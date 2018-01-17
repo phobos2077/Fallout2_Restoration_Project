@@ -96,23 +96,23 @@
 {403}{}{Não é Tubby maravilhoso?}
 {404}{}{Oh, baby - Espera! Você não é Tubby.}
 {405}{}{Where's our big man at?}
-{406}{}{Doesn't it just make your skin tingle?}
-{407}{}{Tubby has the best supply in town.}
+{406}{}{Não faz apenas a sua pele tremer?}
+{407}{}{Tubby tem o melhor fornecimento na cidade.}
 {408}{}{Eu me sinto tão vivo!}
-{420}{}{Did you hear a load bang?}
-{421}{}{Haven't seen Tubby in a while.}
-{422}{}{Where's Tubby?}
-{423}{}{You seen Tubby?}
-{440}{}{Oh, my head!}
-{441}{}{Where's Tubby! I think I'm going to die!}
+{420}{}{Você ouviu um estrondo alto?}
+{421}{}{Não vi Tubby há algum tempo.}
+{422}{}{Onde está Tubby?}
+{423}{}{Você viu Tubby?}
+{440}{}{Oh!minha cabeça!}
+{441}{}{Onde está Tubby! Eu acho que eu vou morrer!}
 {442}{}{Eu não posso levar isso muito mais tempo.}
-{443}{}{Oh, the pain is getting really bad.}
-{444}{}{Tubby hasn't given us any in a while. Where he at?}
-{445}{}{My lips are numb.}
-{446}{}{I can't feel my fingers.}
+{443}{}{Ah, a dor está ficando muito ruim.}
+{444}{}{Tubby não nos deu nenhum por um tempo. Onde ele está?}
+{445}{}{Meus lábios estão dormentes.}
+{446}{}{Eu consigo sentir os meus dedos.}
 {460}{}{Não me machucar!}
-{461}{}{Please, don't!}
-{462}{}{I didn't take it!}
-{463}{}{It wasn't me!}
+{461}{}{Por favor, não!}
+{462}{}{Não entendi!}
+{463}{}{Não fui eu!}
 {464}{}{Deixe-me em paz!}
-{465}{}{I didn't know it was yours!}
+{465}{}{Eu não sabia que era seu!}
