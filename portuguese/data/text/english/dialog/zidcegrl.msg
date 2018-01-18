@@ -29,7 +29,7 @@
 {202}{}{::Whistles::}
 {203}{}{}
 {204}{}{Thought you'd forgotten about us while you were off saving the world.}
-{215}{}{Hello, }
+{215}{}{Olá, }
 {216}{}{If you're looking for a little company later…}
 {217}{}{Hey, you…[winks]…you looking to gamble?}
 {218}{}{He looks so…[shivers]…dangerous.}
@@ -56,7 +56,7 @@
 {258}{}{Step right up, }
 {259}{}{Need another drink?}
 {260}{}{Welcome to the casino, }
-{261}{}{Hello, }
+{261}{}{Olá, }
 {262}{}{Looking to gamble, }
 {263}{}{Welcome to the casino, }
 {270}{}{Hey there, movie man. You looking to spend some chips?}

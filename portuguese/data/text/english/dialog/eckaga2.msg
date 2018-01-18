@@ -1,24 +1,24 @@
-{100}{}{You see a man wearing leather armor.}
+{100}{}{Você vê um homem vestindo armadura de couro.}
 {101}{}{Você vê Kaga.}
-{102}{}{He is wearing leather armor and has an annoying habit of talking about himself in the third person.}
-{103}{}{This will be the last time Kaga meets you.}
-{104}{}{After Kaga kill you, he will burn Arroyo to the ground.}
-{105}{}{Feel the wrath of Kaga!}
-{106}{}{I am the great Kaga!}
-{107}{}{Kaga is to be feared by all.}
-{108}{}{Kaga will have your head for a trophy.}
-{109}{}{Surrender and your death will be quick.}
-{110}{}{Kaga will be back!}
-{111}{}{You cannot kill the great Kaga!}
-{112}{}{You are lucky Kaga has business elsewhere.}
-{113}{}{Kaga will meet you again.}
-{120}{}{It's that Kaga guy again.}
+{102}{}{Ele está vestindo uma armadura de couro e tem um irritante hábito de falar sobre si mesmo em terceira pessoa.}
+{103}{}{Esta será a última vez que Kaga te encontra.}
+{104}{}{Depois de Kaga matá-lo, ele vai queimar Arroyo até o chão.}
+{105}{}{Sinta a ira de Kaga!}
+{106}{}{Eu sou o grande Kaga!}
+{107}{}{Kaga é para ser temido por todos.}
+{108}{}{Kaga terá sua cabeça para um troféu.}
+{109}{}{Rendição e sua morte será rápida.}
+{110}{}{Kaga estará de volta!}
+{111}{}{Você não pode matar o grande Kaga!}
+{112}{}{Você tem sorte Kaga tem negócios em outro lugar.}
+{113}{}{Kaga irá encontrá-lo novamente.}
+{120}{}{É esse cara Kaga de novo.}
 {150}{}{[A tall and powerfully built warrior stands before you, his eyes blaze with hatred as he looks you over.] So, they cast out Kaga, then deem YOU the Chosen One? Ha! You think being the grandchild of the Vault Dweller makes you special?! You think you are better than I, Kaga the Great?!}
 {151}{}{Well, I AM the Chosen One, aren't I?}
-{152}{}{Hey now, hold on a second. I never said I was better than you.}
-{160}{}{That title will mean nothing when Kaga rips the head from your shoulders!}
-{161}{}{No words can save your hide. With your death, Kaga's honor shall be restored. Kaga will now take his vengeance!}
+{152}{}{Ei agora, segure um segundo. Nunca disse que era melhor do que você.}
+{160}{}{Esse título vai significar nada quando Kaga rasga a cabeça dos seus ombros!}
+{161}{}{Nenhuma palavra pode salvar sua pele. Com sua morte, a honra de Kaga deve ser restaurada. Kaga vai agora vingar-se!}
 {200}{}{Ooglie?}
-{201}{}{What!? They picked *you* to be the Chosen One? Oh my, they've become desperate.}
-{202}{}{Me no likie. U lookie bad.}
-{203}{}{Kaga won't even bother speaking with you further. Prepare to die at the hands of Kaga!}
+{201}{}{O que!? Eles escolheram * você * para ser o Escolhido? Oh meu, eles ficaram desesperados.}
+{202}{}{Eu não gosto. Você parece mal.}
+{203}{}{Kaga nem sequer se incomodará em falar com você ainda mais. Prepare-se para morrer nas mãos de Kaga!}

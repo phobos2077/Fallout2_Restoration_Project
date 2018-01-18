@@ -1,15 +1,15 @@
-{100}{}{You see a mobster.}
-{101}{}{Well, well - what have we got here?}
-{102}{}{Simple travelers, eh? Ain't no such thing. You need help with any of your valuables? }
-{103}{}{Watch where you're walking around Reno, or you're gonna get hurt. Stay outta my way.}
-{104}{}{Hello, }
+{100}{}{Você vê um mafioso.}
+{101}{}{Bem, bem o que temos aqui?}
+{102}{}{Simples viajantes, hein? Não há tal coisa. Você precisa de ajuda com algum de seus objetos de valor? }
+{103}{}{- Olhe por onde você está andando em torno de Reno, ou você vai se machucar. Ficar fora do caminho.}
+{104}{}{Olá, }
 {105}{}{.}
-{106}{}{What are you doing out here, }
+{106}{}{O que você está fazendo aqui, }
 {107}{}{?}
-{108}{}{We were just coming out to check on you, }
-{109}{}{. Nice day today, eh, }
+{108}{}{Nós estávamos apenas saindo para verificar você,}
+{109}{}{. Bom dia de hoje, hein, }
 {110}{}{?}
-{111}{}{Did you come out here to get away from it all, }
+{111}{}{Você veio aqui para ficar longe de tudo, }
 {112}{}{? }
-{113}{}{ was wondering what you were up to, }
+{113}{}{ queria saber o que você estava aprontando, }
 {114}{}{.}

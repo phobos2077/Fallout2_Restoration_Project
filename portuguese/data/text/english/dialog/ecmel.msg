@@ -1,3 +1,3 @@
-{100}{}{You see a man in black.}
-{101}{}{You see a man in black.}
-{102}{}{It is a man in black. And he doesn't seem too happy.}
+{100}{}{Você vê um homem de preto.}
+{101}{}{Você vê um homem de preto.}
+{102}{}{Ele é um homem de preto. E ele não parece muito feliz.}

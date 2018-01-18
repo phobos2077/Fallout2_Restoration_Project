@@ -25,7 +25,7 @@
 {202}{}{::Whistles::}
 {203}{}{! Welcome to the casino, hero!}
 {204}{}{Thought you'd forgotten about us while you were saving the world.}
-{210}{}{Hello, }
+{210}{}{Olá, }
 {211}{}{If you're looking for a little company later…}
 {212}{}{Hey, you…(winks)...you looking to gamble?}
 {213}{}{He looks so…(shivers)…dangerous.}
@@ -53,7 +53,7 @@
 {239}{}{Step right up, }
 {240}{}{Need another drink?}
 {241}{}{Welcome to the casino, }
-{242}{}{Hello, }
+{242}{}{Olá, }
 {243}{}{Looking to gamble, }
 {244}{}{Welcome to the casino, }
 {250}{}{Hey there, movie man. You looking to spend some chips?}

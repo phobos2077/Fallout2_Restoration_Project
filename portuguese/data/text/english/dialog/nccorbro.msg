@@ -23,7 +23,7 @@
 {232}{}{}
 {233}{}{Hey, welcome back, honey-tits!}
 {245}{}{Uh-oh. A suit. Everybody on their toes.}
-{246}{}{Hello, }
+{246}{}{Olá, }
 {250}{}{Hey there, you sexual Hercules!}
 {251}{}{Check out those pecs. Flex a few times.}
 {252}{}{Ever thought about a career in the business, }

@@ -695,7 +695,7 @@
 {865}{}{}
 {866}{}{If you're looking for a little company later...}
 {867}{}{}
-{868}{}{Hello, }
+{868}{}{Olá, }
 {869}{}{Put in a good word with the boss for me?}
 {870}{}{Well, if it isn't the devilish }
 {871}{}{I can do ANYTHING you want...it's all for the asking.}

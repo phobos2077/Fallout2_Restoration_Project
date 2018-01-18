@@ -2211,7 +2211,7 @@
 {36221}{}{I am to be feared by all!}
 {36222}{}{Kaga will have your head for a trophy!}
 {36223}{}{Surrender and I'll make your death quick!}
-{36240}{}{Feel the wrath of Kaga!}
+{36240}{}{Sinta a ira de Kaga!}
 {36241}{}{Don't bother screaming for mercy...}
 {36242}{}{I'm gonna enjoy this!}
 {36243}{}{Oooo, Kaga felt that one from here.}
@@ -2227,17 +2227,17 @@
 {36263}{}{Bwahaha. Kaga didn't even have to duck!}
 {36264}{}{You can't kill what you can't hit!}
 {36265}{}{Too slow!}
-{36300}{}{This is getting to be a bad habit.}
+{36300}{}{Isso está virando um mau hábito.}
 {36301}{}{Kaga needs more training.}
 {36302}{}{I'll be back. Yada yada yada I'm gonna kill you.}
 {36303}{}{You are in luck! Kaga has business elsewhere.}
 {36304}{}{You and Kaga will meet again.}
 {36305}{}{You'll pay for this -- later!}
 {36320}{}{Kaga and the Chosen One meet again.}
-{36321}{}{Let's end this.}
+{36321}{}{Vamos acabar com isso.}
 {36322}{}{You will regret ever hearing the name Kaga!}
-{36323}{}{My skills have increased since we last met.}
-{36340}{}{Feel the wrath of Kaga!}
+{36323}{}{Minhas habilidades aumentaram desde o nosso último encontro.}
+{36340}{}{Sinta a ira de Kaga!}
 {36341}{}{I'm gonna enjoy this!}
 {36342}{}{Oooo, Kaga felt that one from here.}
 {36343}{}{I'm gonna take your head back to the Elder.}
@@ -2252,17 +2252,17 @@
 {36363}{}{Bwahaha. Kaga didn't even have to duck!}
 {36364}{}{You can't kill what you can't hit!}
 {36365}{}{Too slow!}
-{36400}{}{This is getting to be a bad habit.}
+{36400}{}{Isso está virando um mau hábito.}
 {36401}{}{Kaga needs more training.}
-{36402}{}{This is not the last you will see of Kaga.}
+{36402}{}{Este não é o último que você vai ver de Kaga.}
 {36403}{}{You are in luck! Kaga has business elsewhere.}
 {36404}{}{You and Kaga will meet again.}
 {36405}{}{You'll pay for this -- later!}
-{36420}{}{The Chosen One will never return to Arroyo!}
-{36421}{}{Kaga will crush you!}
-{36422}{}{Kaga fears no one!}
+{36420}{}{O Escolhido nunca irá retornar para Arroyo!}
+{36421}{}{Kaga vai esmagar você!}
+{36422}{}{Kaga não teme ninguém!}
 {36423}{}{Let Kaga teach you new skills he has learned!}
-{36440}{}{Feel the wrath of Kaga!}
+{36440}{}{Sinta a ira de Kaga!}
 {36441}{}{Hold still so Kaga can get a good shot.}
 {36442}{}{I'm gonna enjoy this!}
 {36443}{}{Oooo, Kaga felt that one from here.}
@@ -2285,10 +2285,10 @@
 {36504}{}{}
 {36505}{}{}
 {36520}{}{Kaga is ready for you now.}
-{36521}{}{You are no match for Kaga.}
+{36521}{}{Vocês não são páreo para Kaga.}
 {36522}{}{Kaga will send you to your next life!}
 {36523}{}{Kaga gonna miss you.}
-{36540}{}{Feel the wrath of Kaga!}
+{36540}{}{Sinta a ira de Kaga!}
 {36541}{}{Kaga will be famous for killing you!}
 {36542}{}{I'm gonna enjoy this.}
 {36543}{}{Oooo, Kaga felt that one from here.}

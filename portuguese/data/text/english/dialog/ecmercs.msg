@@ -1,6 +1,7 @@
-{100}{}{You see a mercenary.}
-{101}{}{Practice time, boys!}
-{102}{}{Easy target.}
-{103}{}{Run…I like moving targets.}
-{104}{}{Kill zone!}
-{105}{}{Hostile contact confirmed.}
+{100}{}{Você vê um mercenário.}
+{101}{}{Tempo de prática, meninos!}
+{102}{}{Alvo fácil.}
+{103}{}{Corre...eu gosto de alvos em movimento.}
+{104}{}{Zona de morte!
+}
+{105}{}{Contacto hostil confirmado.}
