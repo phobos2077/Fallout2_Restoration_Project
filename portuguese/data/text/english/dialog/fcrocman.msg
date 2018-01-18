@@ -6,7 +6,8 @@
 {108}{}{Duh?}
 {109}{}{I have a letter for AHS-9. Where do I take it?}
 {110}{}{I'm}
-{111}{}{None of your business.}
+{111}{}{Não é da sua conta.
+}
 {112}{}{I want to join the Hubologists.}
 {113}{}{Who are YOU? And what are YOU doing here?}
 {114}{}{Nada. Tchau.}
@@ -18,13 +19,15 @@
 {120}{}{Fine, fine. No need to get testy.}
 {121}{}{Actually, it is my business. This is my ship and these are my guards - now, who are you and what are you doing here?}
 {122}{}{I'm}
-{123}{}{None of your business.}
+{123}{}{Não é da sua conta.
+}
 {124}{}{I want to join the Hubologists.}
 {125}{}{Who are YOU? And what are YOU doing here?}
 {126}{}{Nada. Tchau.}
 {127}{}{I am Harry. I am the chief rocket technician.}
 {128}{}{I'm}
-{129}{}{None of your business.}
+{129}{}{Não é da sua conta.
+}
 {130}{}{I want to join the Hubologists.}
 {131}{}{Nada. Tchau.}
 {132}{}{Not willing to cooperate, eh? Guards! Kill this intruder!}

@@ -22,7 +22,8 @@
 {116}{}{Sorry, but I think I'll be leaving.}
 {117}{}{Yes, I've had some adventures. Say, if you wouldn't mind answering some questions for me, I
  could tell you some of my adventures in return.}
-{118}{}{None of your business.}
+{118}{}{Não é da sua conta.
+}
 {119}{}{Mind if I ask you some questions?}
 {120}{}{It's a deal! I would love to hear anything you can tell me.}
 {121}{}{Besides, I couldn't refuse a friend of Gruthar.}

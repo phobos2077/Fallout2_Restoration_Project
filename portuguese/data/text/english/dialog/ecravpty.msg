@@ -1,45 +1,44 @@
-{100}{}{This person seems to be swaying slightly.}
-{101}{}{You see the party bartender.}
-{102}{}{It seems he's been sampling some of his merchandise.}
-{103}{}{Wha...whas..what cans I gets yas. [Hick.]}
+{100}{}{Esta pessoa parece estar balançando ligeiramente.}
+{101}{}{Você vê a festa de bartender.}
+{102}{}{Parece que ele está avaliando algumas de suas mercadorias.}
+{103}{}{Wha ... whas ... o que eu consigo. [Caipira.]}
 {104}{}{Nuka Cola [$6]}
-{105}{}{Beer [$15]}
-{106}{}{Booze [$30]}
-{107}{}{Nothing today. Thanks.}
+{105}{}{Cerveja [$15]}
+{106}{}{Bebida [$30]}
+{107}{}{Nada hoje. Obrigado.}
 {108}{}{Ug.}
-{109}{}{Ohhhh...that ain't no fun ta drinks. [He hands you your drink.]}
+{109}{}{Ohhhh ... isso não é nada divertido. [Ele lhe entrega sua bebida.]}
 {110}{}{[Fim]}
-{111}{}{Here ya goes. It's a bit warm cuz it hasn't had time to cool. Sellen' the stuff faster than I
- can makes it. [It's warm, it's yellow it's....]}
+{111}{}{Aqui você vai. É um pouco quente porque não teve tempo de esfriar. Vendo as coisas mais rapidamente do que eu
+  posso fazê-lo. [Está quente, é amarelo, é ...]}
 {112}{}{[Fim]}
-{113}{}{[You feel the walls of your stomach dissolve as you take a large gulp.]}
+{113}{}{[Você sente que as paredes do seu estômago se dissolverem à medida que você toma um grande gole.]}
 {114}{}{[Fim]}
-{115}{}{Whoa...[hick] I thinks yuz had nuf ta drinks already.}
+{115}{}{Caraca...[hick] eu acho yuz tinha na ta bebidas já.}
 {116}{}{[Fim]}
-{117}{}{Ahhh man! You don't have enuf money! Cum back when ya gets sum.}
+{117}{}{Ahhh homem! Você não tem muito dinheiro! Volte quando tiver a soma.}
 {118}{}{[Fim]}
-{119}{}{He has a bit of a wild look to him.}
+{119}{}{Ele tem um olhar selvagem para ele.}
 {120}{}{Você vê um viciado.}
-{121}{}{He seems a bit jittery.}
-{122}{}{Whatdoyawant? Igotitall!}
+{121}{}{Ele parece um pouco nervoso.}
+{122}{}{O que você quer? Eu entendi tudo!}
 {123}{}{Mentats [$560]}
 {124}{}{Buffout [$400]}
 {125}{}{Psycho [$800]}
-{126}{}{Nothing today. Thanks.}
+{126}{}{Nada hoje. Obrigado.}
 {127}{}{Ug.}
-{128}{}{Thatsgreat! Givemethemoneyandgetoutofhere. Igotabusinesstorun.}
+{128}{}{Isso é ótimo! Me dê seu dinheiro e saia para lá. Eu tenho um negócio para correr.}
 {129}{}{[Fim]}
-{130}{}{Likethesayinggoes. Nomoneynohoney. Oh. Thatsforsex. Howaboutnodoughnoblow.
- Comebackwhenyougotsomecash.}
+{130}{}{Como diz o ditado. Sem dinheiro, não é amor. Oh. Isso é por sexo. Que tal, sem massa, nenhum golpe. Volte quando ganhou algum dinheiro.}
 {131}{}{[Fim]}
-{132}{}{Heheheh! Lookslikeyoucanusesomementats. Giveme$1000.}
-{133}{}{[Give the man $1000]}
+{132}{}{Heheheh! Parece que você pode  usar alguns mentats. Me dê $ 1000.}
+{133}{}{[Dar ao homem us $1000]}
 {134}{}{Eu vou.}
-{135}{}{OHYEAH! Thiswillpickyourightup!}
+{135}{}{OH SIM! Isso irá escolher o seu alto!}
 {136}{}{[FIM]}
-{150}{}{Hey, you're kinda cute; whats your name?}
-{151}{}{A'lil higher. Ohh, yeah.}
-{152}{}{You ready ... get jiggy with it?}
+{150}{}{Ei, você é bonitinho; qual é seu nome?}
+{151}{}{Alil mais alto. Oh, sim.}
+{152}{}{Você está pronto ... fique com isso?}
 {153}{}{Naw..naw..naw..naw nuh naw.}
 {154}{}{Watch like this. Yeah.}
 {155}{}{Na't now go away.}
@@ -67,4 +66,4 @@
 {203}{}{This is not cool!}
 {204}{}{Chill dude.}
 {205}{}{Relax man!}
-{210}{}{It seems she's been sampling some of her own merchandise.}
+{210}{}{Parece que ele está avaliando algumas de suas próprias mercadorias.}

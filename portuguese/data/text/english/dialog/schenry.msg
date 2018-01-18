@@ -7,7 +7,8 @@
 {106}{}{I'm}
 {107}{}{Enough chit-chat. You've got some papers Mr. Merk wants. Hand 'em over and nobody gets hurt.}
 {108}{}{Ever heard of a place called the Enclave?}
-{109}{}{None of your business.}
+{109}{}{Não é da sua conta.
+}
 {110}{}{Hmm, sub-par cranial development... Stunted intellectual development. No gross physical mutation, though. No, you just simply won't do, I'm afraid. Good day.}
 {111}{}{The Chosen One? Of course, that makes sense. Interesting... I'm afraid I can't help you. I was assigned to cyber-genetics research, not the Vault Behavioral Project.}
 {112}{}{Do que você está falando?}

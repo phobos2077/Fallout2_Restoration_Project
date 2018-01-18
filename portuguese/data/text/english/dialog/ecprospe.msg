@@ -11,11 +11,11 @@
 {108}{}{[Fim]}
 {109}{}{Eu acho que é melhor você continuar se movendo.}
 {110}{}{Nós não temos mais nada para falar.}
-{111}{}{On your way!}
-{112}{}{Go get 'em.}
-{113}{}{Can't have you tell'en anyone where my claim is.}
-{114}{}{Why'd you go an attack me?}
-{115}{}{Now I have to kill you.}
-{116}{}{I just wanted some supplies.}
-{117}{}{You can have my claim!}
-{118}{}{Mercy!}
+{111}{}{Em seu caminho!}
+{112}{}{Vá buscá-los.}
+{113}{}{Não é possível que você diga a ninguém onde está minha reivindicação.}
+{114}{}{Por que você me atacou?}
+{115}{}{Agora eu tenho que matar você.}
+{116}{}{Eu só queria um pouco de suprimentos.}
+{117}{}{Você pode ter minha reivindicação! }
+{118}{}{Misericórdia!}

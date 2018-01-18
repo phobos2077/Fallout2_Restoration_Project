@@ -23,7 +23,8 @@
 {121}{}{Good luck, mutant. You're gonna need it.}
 {122}{}{Halt! What are you doing here?}
 {123}{}{I'm trying to get back to my people.}
-{124}{}{None of your business.}
+{124}{}{Não é da sua conta.
+}
 {125}{}{I don't have time for your questions.}
 {126}{}{Just who are you?}
 {127}{}{Well, you know that freak, Agent Horrigan, just stormed past here. He's waiting for someone to try and make a break for it.}

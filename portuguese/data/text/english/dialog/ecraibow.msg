@@ -1,20 +1,20 @@
-{100}{}{Gay pride!}
-{101}{}{Down with heteros!}
-{102}{}{Outsiders are not welcome!}
-{103}{}{Proud to be a dyke!}
+{100}{}{Orgulho gay!}
+{101}{}{Para baixo com heteros!}
+{102}{}{Forasteiros não são bem vindos!}
+{103}{}{O orgulho de ser um dique!}
 {104}{}{Girl power!}
-{105}{}{Don't need a man!}
-{106}{}{The Rainbow Confederation will live on.}
-{107}{}{Retreat to the Love Shack.}
-{108}{}{We shall overcome!}
-{109}{}{Welcome to the Rainbow Confederation.}
-{110}{}{Your kind are welcome here.}
-{111}{}{You're one of us.}
-{112}{}{Colonizers.}
-{113}{}{Colon-ist.}
-{114}{}{Queer.}
+{105}{}{Não preciso de um homem!}
+{106}{}{A Confederação do Arco-íris irá viver.}
+{107}{}{Retiro para o Amor Shack.}
+{108}{}{Venceremos!}
+{109}{}{Bem-vindo à Confederação do Arco-íris.}
+{110}{}{Seu tipo é bem-vindo aqui.}
+{111}{}{Você é um de nós.}
+{112}{}{Colonizadores.}
+{113}{}{Colono.}
+{114}{}{Estranho.}
 {115}{}{Pansy.}
-{116}{}{Queen.}
+{116}{}{Rainha.}
 {117}{}{Lesbo.}
-{118}{}{Dyke.}
-{119}{}{This looks to be a }
+{118}{}{Dique.}
+{119}{}{Isso parece ser um}

@@ -1,30 +1,32 @@
-{100}{}{You see a group of well-armed travelers.}
-{101}{}{They're still well-armed strangers.}
-{102}{}{They have clean, well-polished weapons and are wearing some kind of badge on their chests.}
-{103}{}{We're looking for slaver patrols. Seen any, stranger?}
-{104}{}{Greetings stranger. Sure hope you're not a slaver - for your own sake.}
-{105}{}{Nice meeting you, stranger. Don't mind us and there won't be any trouble.}
-{106}{}{We're the NCR Rangers - we make the world a better place. Just thought you'd like to know.}
-{107}{}{We're Rangers. Killing slavers is our business.}
-{108}{}{Damn, slave-lover. You're gonna die hard!}
-{109}{}{Shit - I warned you!}
-{110}{}{Your type ain't needed around here - so die.}
-{111}{}{Always the guns. Doesn't anybody just surrender anymore?}
-{112}{}{Well, that's it - open season!}
-{113}{}{Uh -- I'll go get reinforcements. Don't move!}
-{114}{}{"We can take 'em," he said. Sure…}
+{100}{}{Você vê um grupo de bem-armados viajantes.}
+{101}{}{Eles ainda são estranhos bem armados.}
+{102}{}{Eles têm armas limpas e bem polidas e estão usando algum tipo de emblema em seus baús.}
+{103}{}{Estamos à procura de patrulhas escravistas. Já viu alguma estranho?}
+{104}{}{Saudações estranhas. Certifique-se de que você não seja um escravista - por sua própria causa.}
+{105}{}{É um prazer conhecê-lo, estranho. Não nos importune e não haverá nenhum problema.}
+{106}{}{Nós somos o NCR Rangers - nós fazemos o mundo um lugar melhor. Só pensei que você gostaria de saber.}
+{107}{}{Nós somos Rangers. matar escravistas é o nosso negócio.}
+{108}{}{Caramba, amante de escravos. Você vai morrer!}
+{109}{}{Merda - eu avisei a você!}
+{110}{}{Seu tipo não é necessário aqui - assim morra.}
+{111}{}{Sempre as armas. Ninguém se rende mais?}
+{112}{}{Bem, é isso - aberta a temporada!}
+{113}{}{Uh - vou buscar reforços. Não se mexa!}
+{114}{}{"Nós podemos levá-los", disse ele. Certo…}
 {115}{}{Ow-ow-ow-ow-ow!}
-{116}{}{Crap! I'm out of here!}
-{117}{}{I'm not dying for this!}
-{118}{}{I see you got a tattoo there -- the mark of the slavers. You wouldn't be a slaver now, would you?}
+{116}{}{Uma porcaria! Eu estou fora daqui!}
+{117}{}{Eu não vou morrer por isso!}
+{118}{}{Vejo que você tem uma tatuagem lá - a marca dos escravistas. Você não seria um escravista agora, você seria?}
 {119}{}{Sim.}
 {120}{}{Não.}
-{121}{}{Too bad - for you. We're NCR Rangers. Ever heard of us? We kill slavers.}
-{122}{}{You are such a lying sack of shit. Take 'em!}
-{123}{}{Greetings, stranger. We're NCR Rangers. Who be you?}
-{124}{}{None of your business.}
-{125}{}{Say, I've heard that name. You're a Ranger, aren't you?}
+{121}{}{Muito ruim para você. Nós somos NCR Rangers. Já ouviu falar de nós? Nós matamos escravistas.}
+{122}{}{Você é um saco de merda mentiroso. Pegue-o!}
+{123}{}{Saudações, estranho. Nós somos NCR Rangers. Quem é você?}
+{124}{}{Não é da sua conta.
+}
+{125}{}{Diga, eu ouvi esse nome. Você é um Ranger, não é?}
 {126}{}{Sim.}
-{127}{}{None of your business.}
-{128}{}{Fine, be anti-social. At least you're not a slaver. Goodbye.}
-{129}{}{Pleased to meet you, fellow Ranger. Keep your eyes clear for trouble. See you around.}
+{127}{}{Não é da sua conta.
+}
+{128}{}{Tudo bem, seja anti-social. Pelo menos você não é um escravista. Adeus.}
+{129}{}{Prazer em conhecê-lo, amigo Ranger. Mantenha seus olhos claros para problemas. Até a próxima.}

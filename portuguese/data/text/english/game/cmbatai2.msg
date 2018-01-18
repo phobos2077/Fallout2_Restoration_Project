@@ -420,12 +420,12 @@
 {1896}{}{Pardon me while I throw up all over the place.}
 {1897}{}{That...hurt...a...LOT.}
 {1898}{}{I hope my groin just went to genital heaven.}
-{2000}{}{Mercy!}
+{2000}{}{Misericórdia!}
 {2001}{}{Somebody help me!}
 {2002}{}{Por favor, pare!}
 {2003}{}{Ajuda!}
 {2004}{}{Aaaaahhhh!}
-{2005}{}{Mercy!}
+{2005}{}{Misericórdia!}
 {2020}{}{Hmm, uh, stop!}
 {2021}{}{I don't like your kind...}
 {2022}{}{I really hoped it wouldn't come to this...}

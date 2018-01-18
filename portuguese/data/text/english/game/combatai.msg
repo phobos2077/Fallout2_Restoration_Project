@@ -690,12 +690,12 @@
 {1896}{}{Pardon me while I throw up all over the place.}
 {1897}{}{That...hurt...a...LOT.}
 {1898}{}{I hope my groin just went to genital heaven.}
-{2000}{}{Mercy!}
+{2000}{}{Misericórdia!}
 {2001}{}{Somebody help me!}
 {2002}{}{Por favor, pare!}
 {2003}{}{Ajuda!}
 {2004}{}{Aaaaahhhh!}
-{2005}{}{Mercy!}
+{2005}{}{Misericórdia!}
 {2006}{}{Somebody help meeeee!}
 {2007}{}{Oh God, oh God, oh God....}
 {2008}{}{Just don't kill me, pleeeeaaasssssee!}
@@ -2428,7 +2428,7 @@
 {36852}{}{Do you feel lucky?}
 {36853}{}{Catch!}
 {36854}{}{Morra!}
-{36855}{}{No mercy!}
+{36855}{}{Sem misericórdia!}
 {36856}{}{You'd better start praying.}
 {36857}{}{I'm sorry I have to do this. Just kidding.}
 {36858}{}{Prepare to die!}
