@@ -2,7 +2,7 @@
 {101}{}{De que tipo?}
 {102}{}{Rato surpresa.}
 {103}{}{Parece bom. Como eu faço?}
-{104}{}{Catch rat. Careful no squish too much.}
+{104}{}{Pegar ratos. Cuidado para não esmagar demais.}
 {105}{}{How no squish? Every time I club them, they pop. Very messy.}
 {106}{}{You want hear recipe or not? Catch rat your problem.}
 {107}{}{Me sorry.}
