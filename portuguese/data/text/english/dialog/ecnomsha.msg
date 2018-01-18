@@ -1,53 +1,53 @@
-{100}{}{You see a nomad shaman.}
-{101}{}{He appears to be a nomad shaman.}
-{102}{}{The strong smell of herbs cling to this one's clothing.}
-{103}{}{Hello, stranger. I am the tribe shaman. I am skilled in the art of healing.}
+{100}{}{Você vê um nômade xamã.}
+{101}{}{Ele parece ser um nômade, xamã.}
+{102}{}{O cheiro forte de ervas agarrar-se a este vestuário.}
+{103}{}{Olá, estranho. Eu sou o xamã da tribo. Eu sou hábil na arte da cura.}
 {104}{}{Olá novamente.}
-{105}{}{I am in need of healing.}
-{106}{}{Can you combine the Xander root and the Broc flower?}
+{105}{}{Eu estou precisando de cura.}
+{106}{}{Você pode combinar a raiz Xander e a flor Broc?}
 {107}{}{Adeus.}
 {108}{}{Ooga.}
-{109}{}{Be still and I will examine you.}
-{110}{}{[Continue]}
-{111}{}{I have found these afflictions.}
-{112}{}{Can you help me?}
-{113}{}{I can perform the following for a price:}
-{114}{}{Please extract the poison from my body.}
-{115}{}{Please heal me.}
-{116}{}{See what you can do for my broken limb.}
+{109}{}{Fique quieto e eu vou examiná-lo.}
+{110}{}{[Continuar]}
+{111}{}{Eu encontrei essas aflições.}
+{112}{}{Você pode me ajudar?}
+{113}{}{Posso realizar o seguinte por um preço:}
+{114}{}{Por favor, extraia o veneno do meu corpo.}
+{115}{}{Por favor, me cure.}
+{116}{}{Veja o que você pode fazer para o meu membro quebrado.}
 {117}{}{Adeus.}
-{118}{}{You have been healed.}
-{119}{}{You have been healed.}
-{120}{}{You have been healed.}
-{121}{}{I am in need of more of your skills.}
-{122}{}{Thank you; I feel much better. Bye.}
-{123}{}{My skills are limited, and I cannot help you any further in this area.}
-{124}{}{[Continue]}
-{125}{}{You do not require this type of healing.}
-{126}{}{[Continue]}
-{127}{}{Ahh...You are familiar with the healing properties of these two plants. It will only cost
- you}
-{128}{}{Please combine the two plants for me.}
-{129}{}{Maybe later, bye.}
-{130}{}{[You watch as he carefully crushes and combines the two plants, and then hands you precisely
- measured doses of the powder.]}
+{118}{}{Você foi curado.}
+{119}{}{Você foi curado.}
+{120}{}{Você foi curado.}
+{121}{}{Eu estou precisando de mais das suas habilidades.}
+{122}{}{Obrigado; eu me sinto muito melhor. Tchau.}
+{123}{}{Meus conhecimentos são limitados, e eu não posso mais ajudá-lo nesta área.}
+{124}{}{[Continuar]}
+{125}{}{Você não requer esse tipo de cura.}
+{126}{}{[Continuar]}
+{127}{}{Ahh ... Você está familiarizado com as propriedades curativas dessas duas plantas. Isso só custará
+  você}
+{128}{}{Combine as duas plantas para mim.}
+{129}{}{Talvez mais tarde, tchau.}
+{130}{}{[Você vê como ele esmaga cuidadosamente e combina as duas plantas e, em seguida, entrega você precisamente
+  doses medidas do pó.]}
 {131}{}{Adeus.}
-{132}{}{You seem to be short on cash. Return later when your purse is fatter.}
+{132}{}{Você parece ser curto em dinheiro. Retorne mais tarde quando sua bolsa estiver mais gorda.}
 {133}{}{[FIM]}
-{134}{}{I do not have time for such nonsense. Leave!}
+{134}{}{Não tenho tempo para tantas bobagens. Sair!}
 {135}{}{[FIM]}
-{136}{}{[Poisoned]}
-{137}{}{[Injured]}
-{138}{}{[Radiated]}
-{139}{}{[Crippled]}
+{136}{}{[Envenenado]}
+{137}{}{[Lesionado]}
+{138}{}{[Irradiado]}
+{139}{}{[Aleijado]}
 {140}{}{Cure poison,}
 {141}{}{Fix crippled limbs,}
 {142}{}{Healing $}
-{143}{}{Infidel!}
-{144}{}{Why do you attack us?}
-{145}{}{I will defend the tribe with my life!}
-{146}{}{How dare you violate our hospitality.}
-{147}{}{Be gone!}
-{148}{}{Leave us.}
-{149}{}{We are a peaceful tribe.}
+{143}{}{Infiel!}
+{144}{}{Por que você nos atacar?}
+{145}{}{Eu vou defender a tribo com a minha vida!}
+{146}{}{Como você se atreve a violar a nossa hospitalidade.}
+{147}{}{Sai!}
+{148}{}{Deixe-nos.}
+{149}{}{Somos uma tribo pacífica.}
 {150}{}{and I will combine the two for you.}

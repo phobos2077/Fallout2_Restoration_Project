@@ -8,8 +8,8 @@
 {108}{}{Nós vamos nos encontrar novamente!}
 {109}{}{Nunca fui espancado antes!}
 {110}{}{Vou me dedicar para a sua destruição.}
-{150}{}{[A tall and powerfully built warrior stands before you, his eyes blaze with hatred as he looks you over.] So, they cast out Kaga, then deem YOU the Chosen One? Ha! You think being the grandchild of the Vault Dweller makes you special?! You think you are better than I, Kaga the Great?!}
-{151}{}{Well, I AM the Chosen One, aren't I?}
+{150}{}{[Um guerreiro alto e poderosamente construído está diante de você, seus olhos chamejam de ódio enquanto ele olha para você.] Então, eles expulsaram Kaga, então, consideram você o Escolhido? Ha! Você acha que ser o neto do Morador do Vault faz você especial ?! Você acha que é melhor do que eu, Kaga o Grande ?!}
+{151}{}{Bem, eu SOU o Escolhido, não sou?}
 {152}{}{Ei agora, segure um segundo. Nunca disse que era melhor do que você.}
 {160}{}{Esse título vai significar nada quando Kaga rasga a cabeça dos seus ombros!}
 {161}{}{Nenhuma palavra pode salvar sua pele. Com sua morte, a honra de Kaga deve ser restaurada. Kaga vai agora vingar-se!}

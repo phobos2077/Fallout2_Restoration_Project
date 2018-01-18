@@ -12,9 +12,9 @@
 {204}{}{Jerem and I be going out for weekly hunt. Took cave passage to field where many geckos roam. Hunt went bad. Had to run. Too many geckos with spirits of fury. We entered cave. Started yelling for help. [He pauses for a moment and winces in pain as he tries to rub his leg.]}
 {205}{}{Please go on.}
 {206}{}{Passage was already on brink of doom. Water seeping in from stream overhead. A deadly pass, but it be a great shortcut to fields. Not no more. See, we be yelling like fools and the ceiling come crashing down on us.}
-{207}{}{[Continue]}
+{207}{}{[Continuar]}
 {208}{}{Poor Jerem. I saw big rock crush him like bug. The big rocks missed me, but the Gecko's bite didn't. Just when I thinking I be safe, a gecko come from nowhere and take big bite outta leg. Took me right to the ground. Had no spear, thought the Gecko be dining on me for sure. But the spirits had other plans. Brought a final big 'o rock down on the geckos head. Crushed it flat. But crushed my leg, too.}
-{209}{}{[Continue]}
+{209}{}{[Continuar]}
 {210}{}{So I be stuck on ground, without spear. Suddenly, I be hearing something come at me from the dark. It got closer, and I saw it be one big angry gecko. The falling rocks only be making it more pissed. That's when you came in, fren. Truly, I be in your debt.}
 {211}{}{Wow, that's quite the story. It seems you're very lucky to be alive. How's your leg?}
 {212}{}{Not good, fren. It seems rock be stronger than my leg bone. I doubt I be getting up and walking out soon.}

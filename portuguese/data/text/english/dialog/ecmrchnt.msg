@@ -1,18 +1,18 @@
-{100}{}{You see a well-traveled person.}
+{100}{}{Você vê uma pessoa bem viajada.}
 {101}{}{Você vê um comerciante.}
-{102}{}{Wow, I rarely see people out here.}
-{103}{}{Hey! Wait! I have things that could help you along!}
-{104}{}{Hey! Do you have anything to trade for these?}
-{105}{}{This must be my lucky day. Come, see what I have for sale.}
-{200}{}{Greetings, traveler! I rarely see many people along this route, but
- am always happy to have new customers. Would you like to trade?}
-{201}{}{Hey there! It's really great that you stopped. Most people along this
- route just keep right on going. Hey, would you like to trade some things?}
-{202}{}{Would you be interested in a little trade?}
-{250}{}{That'd be good.}
-{251}{}{Sorry, have to keep on moving.}
-{252}{}{Yah. Me got stuff!}
+{102}{}{Wow, eu raramente vejo pessoas aqui fora.}
+{103}{}{Ei! Esperar! Tenho coisas que podem ajudá-lo!}
+{104}{}{Hey! Você tem alguma coisa para trocar por estes?}
+{105}{}{Este deve ser meu dia de sorte. Vinde, vede o que eu tenho para a venda.}
+{200}{}{Saudações, viajante! Eu raramente vejo muitas pessoas ao longo deste caminho, mas
+estou sempre feliz de ter novos clientes. Gostaria de negociar?}
+{201}{}{Olá! É realmente ótimo que você parou. A maioria das pessoas ao longo desta
+rota que acabou de expor. Ei, você gosta de trocar algumas coisas?}
+{202}{}{Você estaria interessado em um pouco de comércio?}
+{250}{}{Isso seria bom.}
+{251}{}{Desculpe, tenho que continuar em movimento.}
+{252}{}{Yah. Eu tenho coisas!}
 {253}{}{Eu vou.}
-{260}{}{Good trading with you. Good luck in your travels.}
+{260}{}{Bom negociar com você. Boa sorte em suas viagens.}
 {261}{}{Adeus.}
-{270}{}{Glad to have you back. Can I interest you in something else?}
+{270}{}{Feliz por ter você de volta. Posso interessá-lo em algo mais?}

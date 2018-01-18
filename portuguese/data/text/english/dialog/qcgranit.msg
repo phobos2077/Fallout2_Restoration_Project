@@ -8,7 +8,8 @@
 {107}{}{Let's take that freak down!}
 {108}{}{Slag 'im.}
 {109}{}{I'm good to go.}
-{110}{}{Let's rock!}
+{110}{}{Vamos arrasar!
+}
 {111}{}{I'm gonna light that freak up!}
 {112}{}{I don't take to killing idjits.}
 {113}{}{You can go.}

@@ -1,6 +1,7 @@
-{100}{}{You see a helpful stranger.}
-{101}{}{You see the mysterious stranger.}
-{102}{}{I will help thee.}
-{103}{}{I don't talk much.}
-{104}{}{Looks like you could use some assistance.}
-{105}{}{Let's rock!}
+{100}{}{Você vê um estranho útil.}
+{101}{}{Você vê o estranho misterioso.}
+{102}{}{Eu vou ajudar-te.}
+{103}{}{Eu não falo muito.}
+{104}{}{Parece que você poderia usar alguma ajuda.}
+{105}{}{Vamos arrasar!
+}

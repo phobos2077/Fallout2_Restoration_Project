@@ -1,30 +1,30 @@
-{100}{}{You see a nomad chieftain.}
-{101}{}{He appears to be a nomad chieftain.}
-{102}{}{By his dress and the way he carries himself, he must be a leader of some sort.}
-{103}{}{Ah, a traveler. Be welcome to my humble tent. Take shade from the unending heat of the land.}
-{104}{}{Thank you; I graciously accept your offer of shade.}
-{105}{}{I must decline your offer. I am just passing through.}
+{100}{}{Você vê um nômade chefe.}
+{101}{}{Ele parece ser um nômade chefe.}
+{102}{}{Por seu vestido e a maneira como ele se desenvolve, ele deve ser um líder de algum tipo.}
+{103}{}{Ah, um viajante. Seja bem-vindo a minha humilde tenda. Tire a máscara do infinito calor da terra.}
+{104}{}{Obrigado; Aceito graciosamente a sua oferta de sombra.}
+{105}{}{Terei que recusar sua oferta. Eu estou apenas de passagem.}
 {106}{}{Ooga.}
-{107}{}{Be welcome, then. We have long been away from the 'civilized' lands. We are in need of
- certain items. Perhaps we might be able to trade?}
-{108}{}{What do you have to trade?}
-{109}{}{I have nothing to trade. Sorry.}
-{110}{}{Perhaps another time, then? May your travels be free of danger.}
+{107}{}{Seja bem vindo, então. Nós ficamos longe das terras "civilizadas". Precisamos de
+  Certos itens. Talvez possamos negociar?}
+{108}{}{O que você tem para negociar?}
+{109}{}{Eu não tenho nada para negociar. Desculpe.}
+{110}{}{Talvez outra vez, então? Que suas viagens estejam livres de perigo.}
 {111}{}{Obrigado. Tchau.}
-{112}{}{How unfortunate. Then rest and be welcome in my camp.}
-{113}{}{Thank you. Bye.}
-{114}{}{My offer of shade has come too late for you. The sun must have boiled away words from your
- brain. I must be kind to those less fortunate than I. Stay as long you like in my camp, dimwitted one.}
+{112}{}{Que pena. Então descanse e seja bem vindo no meu acampamento.}
+{113}{}{Obrigado. Tchau.}
+{114}{}{Minha oferta de sombra chegou muito tarde para você. O sol deve ter fervido as palavras do seu
+  cérebro. Eu devo ser gentil com aqueles menos afortunados do que eu. Fique o tempo que você gosta no meu acampamento, maldito.}
 {115}{}{Adeus.}
-{116}{}{Infidel!}
-{117}{}{Why do you attack us?}
-{118}{}{I will defend the tribe with my life!}
-{119}{}{How dare you violate our hospitality.}
-{120}{}{Be gone!}
-{121}{}{Leave us.}
-{122}{}{We are a peaceful tribe.}
-{200}{}{Ah, a traveler. I am sorry that we have no tent from which you may take shade from the unending heat of the land. Do rest a moment, so that we may talk.}
-{201}{}{Thank you; I graciously accept your offer.}
-{202}{}{How unfortunate. Rest a moment then; you are welcome among us.}
-{203}{}{I do hope you found what you needed. Anything else?}
-{204}{}{Not today. I must be going.}
+{116}{}{Infiel!}
+{117}{}{Por que você nos atacar?}
+{118}{}{Eu vou defender a tribo com a minha vida!}
+{119}{}{Como você se atreve a violar a nossa hospitalidade.}
+{120}{}{Sai!}
+{121}{}{Deixe-nos.}
+{122}{}{Somos uma tribo pacífica.}
+{200}{}{Ah, um viajante. Eu sinto muito que nós não temos nenhuma tenda a partir do qual você pode tirar a máscara do infinito calor da terra. Descansar um momento, para que possamos conversar.}
+{201}{}{Obrigado; eu graciosamente aceitar a sua oferta.}
+{202}{}{Lamentável. Descansar um momento; você é bem-vindo entre nós.}
+{203}{}{Eu espero que você tenha achado o que você precisava. Mais alguma coisa?}
+{204}{}{Hoje não. Devo estar indo.}
