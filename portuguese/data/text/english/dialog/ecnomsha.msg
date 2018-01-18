@@ -40,7 +40,7 @@
 {137}{}{[Lesionado]}
 {138}{}{[Irradiado]}
 {139}{}{[Aleijado]}
-{140}{}{Cure poison,}
+{140}{}{Cure veneno.}
 {141}{}{Corrija os membros incapacitados,}
 {142}{}{Cura $}
 {143}{}{Infiel!}

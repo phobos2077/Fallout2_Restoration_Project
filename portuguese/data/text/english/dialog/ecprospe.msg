@@ -1,16 +1,16 @@
-{100}{}{You see a Prospector.}
-{101}{}{Hold it right there, stranger! I'm not used to ambushing strangers, but I need supplies and I
- can't leave my claim. Want to do a quick trade?}
+{100}{}{Você vê um Garimpeiro.}
+{101}{}{Segure-o ali mesmo, estranho! Eu não estou acostumado a emboscar estranhos, mas eu preciso de suprimentos e eu
+  não posso deixar minha reivindicação. Quer fazer um comércio rápido?}
 {102}{}{Com certeza.}
-{103}{}{I've got nothing to trade. Sorry.}
+{103}{}{Eu não tenho nada para negociar. Desculpe.}
 {104}{}{Booga.}
-{105}{}{What a stroke of luck. You can't talk can you? Can't talk, can't tell anyone where my claim
- is. Let's trade.}
+{105}{}{Que sorte de sorte. Você não pode falar, você pode? Não posso falar, não posso dizer a ninguém onde minha reivindicação
+  é. Vamos trocar.}
 {106}{}{[Troca]}
-{107}{}{OK, beat it! And you better not tell anyone where my claim is.}
+{107}{}{OK, saia! E é melhor não contar a ninguém onde é minha reivindicação.}
 {108}{}{[Fim]}
-{109}{}{I think you better keep moving.}
-{110}{}{We have nothing more to talk about.}
+{109}{}{Eu acho que é melhor você continuar se movendo.}
+{110}{}{Nós não temos mais nada para falar.}
 {111}{}{On your way!}
 {112}{}{Go get 'em.}
 {113}{}{Can't have you tell'en anyone where my claim is.}

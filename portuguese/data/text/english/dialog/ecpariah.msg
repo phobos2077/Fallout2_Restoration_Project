@@ -1,4 +1,4 @@
-{100}{}{You see ragged looking dog that could expire at any moment.}
-{101}{}{It is that damn bad luck dog.}
-{102}{}{This dog has several patches of fur missing and almost seems to be a walking corpse. He also seems to have a glass eye.}
-{103}{}{The dog seems to take a liking to you. This can't be good.}
+{100}{}{Você vê cachorro esfarrapado que pode expirar a qualquer momento.}
+{101}{}{É aquele maldito cão de má sorte.}
+{102}{}{Este cão tem várias manchas de pele em falta e quase parece ser um cadáver ambulante. Ele também parece ter um olho de vidro.}
+{103}{}{O cachorro parece gostar de você. Isso não pode ser bom.}
