@@ -73,7 +73,7 @@
 {335}{}{Ooooh…what over here?}
 {340}{}{(The little man lets the pot fall down over his head, and resumes *bzzzzing* around.)}
 {341}{}{Run around with him for a while making *bzzzzing* noises.}
-{342}{}{Shamble off}
+{342}{}{Desliga}
 {343}{}{(Leave.)}
 {350}{}{INSECT, stoo-pid! We SAW one when we were out in the desert! It was as big… (Takes a deep breath.) …as big as a HOUSE!
  N'it had metal PEOPLE in it.}

@@ -21,7 +21,7 @@
 {120}{}{Talk give pain in head. Go.}
 {121}{}{Done me talk to you.}
 {122}{}{No talk. Go.}
-{123}{}{Go away!}
+{123}{}{Vá embora!}
 {124}{}{Leave home!}
 {125}{}{How you dare me attack!}
 {126}{}{Leave alone me.}

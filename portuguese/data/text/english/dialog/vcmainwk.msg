@@ -25,7 +25,7 @@
 {124}{}{Yes?!}
 {125}{}{Did you WANT something, or are you just going to stand there gawking like a moron?}
 {126}{}{Mooo-ron}
-{127}{}{Shamble off}
+{127}{}{Desliga}
 {128}{}{Whoa, easy. I was just stopping in to see what this place is.}
 {129}{}{Watch it. I'm not in the mood for any bullshit today.}
 {130}{}{I was looking for the Vault. Can you tell me where it is?}
@@ -36,7 +36,7 @@
 {135}{}{Thanks for the directions. Goodbye.}
 {136}{}{As if Vault City didn't have enough human brahmin... look, you CANT BE IN HERE, OKAY? You could HURT yourself! NOW GET OUT! GO!}
 {137}{}{*Snfff* You big meenie... *snff*... me go sumplace n' have partee wiff clowns... *snfff*... and ice creem...and kake...and me no invit smart meen peuple like YOU!}
-{138}{}{Shamble off}
+{138}{}{Desliga}
 {139}{}{Get out of here. Or I'm going to summon the guards to MAKE you get out.}
 {140}{}{Try it. I'll like it.}
 {141}{}{All right, I'm leaving.}
@@ -248,12 +248,12 @@
 {345}{}{You come back here for a little peace and quiet, Mr. Big Hero?}
 {346}{}{You come back here for a little peace and quiet, Ms. Big Heroine?}
 {347}{}{HE-wo? Hee-hee! Yup!}
-{348}{}{Shamble off}
+{348}{}{Desliga}
 {349}{}{Thought I'd come back and touch base with Vault City for a while. The peace and quiet doesn't hurt, either. I needed something first, though...}
 {350}{}{Nothing today, thanks. Take care.}
 {351}{}{Well, you be careful around here, you hear? Don't be blowing up Vault City if you can help it. And... hey, thanks for saving us all.}
 {352}{}{Swure! Bye-bye!}
-{353}{}{Shamble off}
+{353}{}{Desliga}
 {354}{}{Nevermind. I'll talk to you later.}
 {355}{}{You helped Valerie obtain new tools.}
 {356}{}{You convinced Val to give her Dad a chance.}

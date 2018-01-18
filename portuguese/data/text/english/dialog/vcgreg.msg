@@ -21,12 +21,12 @@
 {120}{}{I don't know how you became Captain. You're nothing but a mutant to me. If only someone would believe me...}
 {121}{}{I'm sorry... can I help you?}
 {122}{}{Hep yew.}
-{123}{}{Shamble off}
+{123}{}{Desliga}
 {124}{}{Quem é você?}
 {125}{}{Just looking around, thanks.}
 {126}{}{Yet ANOTHER Servant that has strayed from his rounds?! I'll put Barkus on report if he keeps letting them wander about... now, you... Shoo! Shoo!}
 {127}{}{SHOOT yew? Ok-ay.}
-{128}{}{Shamble off}
+{128}{}{Desliga}
 {129}{}{*Tchh* Those Servants seem to get stupider every day.}
 {130}{}{I am Proconsul Gregory. Is this the office you were looking for, or...?}
 {131}{}{"Proconsul?" What the hell is a "Proconsul?"}

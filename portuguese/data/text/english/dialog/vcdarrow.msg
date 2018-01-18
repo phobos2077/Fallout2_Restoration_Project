@@ -26,7 +26,7 @@
 {123}{}{Anything I could help you with, Citizen?}
 {124}{}{I'm sorry, can I help you with something?}
 {125}{}{Sumfin? Doodle-doodle doooooo}
-{126}{}{Shamble off}
+{126}{}{Desliga}
 {127}{}{O que é este lugar?}
 {128}{}{Can I see what you have in stock?}
 {129}{}{Nothing today, thanks.}

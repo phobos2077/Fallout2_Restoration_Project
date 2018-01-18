@@ -17,32 +17,32 @@
 {116}{}{We're closed. Once I finish making this list of our stock, I'll be closing up.}
 {117}{}{Hey there, Chosen One! We were just talking about your adventure... can I get you anything to drink?}
 {118}{}{Dwinkie-winkie me make stinkie}
-{119}{}{Shamble off}
+{119}{}{Desliga}
 {120}{}{What's on tap?}
 {121}{}{I was looking for some information.}
 {122}{}{I have that shipment of alcohol you wanted.}
 {123}{}{Nothing today, thanks.}
 {124}{}{Uh... so I smell. Um, thanks again for saving the world and all.}
 {125}{}{Stinkie-blinkie me make twinkie!}
-{126}{}{Shamble off}
+{126}{}{Desliga}
 {127}{}{Look, maybe you saved the world and all, but a poet, you're not. Now cut it out.}
 {128}{}{Flinkie-flinkie klinkie-klinkie!}
-{129}{}{Shamble off}
+{129}{}{Desliga}
 {130}{}{Look, take these and get out of here, okay? They ought to keep your mouth busy for a while.}
 {131}{}{Thankie wankie my stankie}
-{132}{}{Shamble off}
+{132}{}{Desliga}
 {133}{}{Uh...what can I do for you, Captain?}
 {134}{}{What can I do for you, Citizen?}
 {135}{}{Yes? Can I help you?}
 {136}{}{You? Yoo? Yew? Yewwwww. E-yewwww is sound otherz make when see me}
-{137}{}{Shamble off}
+{137}{}{Desliga}
 {138}{}{What's on tap?}
 {139}{}{I was looking for some information.}
 {140}{}{I have that shipment of alcohol you wanted.}
 {141}{}{Nothing today, thanks.}
 {142}{}{That is perhaps the most fascinating thing I've ever heard. Hold on a second...I want the guards to hear it, too.}
 {143}{}{Too? Tew. Tewwwww. Tewwww sexeee fur my clothez}
-{144}{}{Shamble off}
+{144}{}{Desliga}
 {145}{}{We have synthetic beers and liquor...vodka-H, tequila derivatives W and W2. Oh, and water. And brahmin milk. Beer or liquor is ten bucks, water or milk's three bucks.}
 {146}{}{Like...?}
 {147}{}{Uh, do you have any real alcohol?}
@@ -155,5 +155,5 @@
 {254}{}{I see. Thanks anyway.}
 {255}{}{I...see. Well, uh, take care now. Okay?}
 {256}{}{Thankie wankie my stankie}
-{257}{}{Shamble off}
+{257}{}{Desliga}
 {258}{}{Zzzzzzzz.}

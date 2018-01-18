@@ -16,24 +16,24 @@
 {115}{}{Don't you have homes to go to?}
 {116}{}{Welcome! We've all heard about your exploits against the Enclave. Can I get you something to drink?}
 {117}{}{Awnt-awnt}
-{118}{}{Shamble off}
+{118}{}{Desliga}
 {119}{}{What's on tap?}
 {120}{}{I was looking for some information.}
 {121}{}{Nothing today, thanks.}
 {122}{}{Heh-heh, "awnt-awnt" to you, too. Please be careful out in the wastes.}
 {123}{}{Oonnt-oooont!}
-{124}{}{Shamble off}
+{124}{}{Desliga}
 {125}{}{What can I do for you, Captain?}
 {126}{}{What can I do for you, Citizen?}
 {127}{}{Yes? Can I help you?}
 {128}{}{Awnt-awnt}
-{129}{}{Shamble off}
+{129}{}{Desliga}
 {130}{}{What's on tap?}
 {131}{}{I was looking for some information.}
 {132}{}{Nothing today, thanks.}
 {133}{}{Yes, "awnt-awnt" to you, too. Hold on a moment while I summon the guards to "awnt-awnt" you to the front gate.}
 {134}{}{Urnt? Urnt-urnt.}
-{135}{}{Shamble off}
+{135}{}{Desliga}
 {136}{}{"On tap?" How... quaint.}
 {137}{}{We have mineral water, distilled water, and sparkling water. We also have several synthesized alcohols.}
 {138}{}{Um... what synthesized alcohols do you have?}

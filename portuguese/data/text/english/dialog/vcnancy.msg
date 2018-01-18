@@ -38,15 +38,15 @@
 {137}{}{Uh... hmmm. Listen to me again, closely this time: YOU - GO - MARTIN.}
 {138}{}{HUGO MARTIN.}
 {139}{}{Got ouchie... *snfff*... ouchie HURT}
-{140}{}{Shamble off}
+{140}{}{Desliga}
 {141}{}{YES, MARTIN. GO - BOTTOM - LEVEL.}
 {142}{}{YES, MAR-TIN. GO BOTTOM LEVEL.}
 {143}{}{Got ouchie... *snfff*... ouchie HURT}
-{144}{}{Shamble off}
+{144}{}{Desliga}
 {145}{}{GO - BOTTOM - LEVEL. LEVEL - THREE. NOW.}
 {146}{}{ME GO BOTTOM LEVEL TREE NOW}
 {147}{}{Got ouchie... *snfff*... ouchie HURT}
-{148}{}{Shamble off}
+{148}{}{Desliga}
 {149}{}{Maybe our Servants have some sort of Intelligence Deficiency Syndrome...}
 {150}{}{Oh! Well, welcome to Vault City, Captain.}
 {151}{}{Well, welcome to Vault City, fellow Citizen.}

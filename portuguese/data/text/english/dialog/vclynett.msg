@@ -59,7 +59,7 @@
 {148}{}{Hrnnnn?}
 {149}{}{Nooom-ber}
 {150}{}{Har funeee!}
-{151}{}{Shamble off}
+{151}{}{Desliga}
 {152}{lyn010}{I don't know how you mustered the brain power to get inside the city, but I'll make sure
  you don't wander in here again...guards! Escort this imbecile outside the walls!}
 {153}{}{NO!}

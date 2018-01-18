@@ -118,7 +118,7 @@
 {463}{}{VERY impressive. I think you're just the person to help me with this… problem I have. }
 {464}{}{Me have problems}
 {465}{}{Only you ken prevent forest firez}
-{466}{}{Shamble off}
+{466}{}{Desliga}
 {467}{}{What problem is that?}
 {468}{}{No, I don't think so. I better be going.}
 {469}{}{I ain't got time for this. I'm outta here.}

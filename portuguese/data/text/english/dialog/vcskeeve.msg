@@ -13,7 +13,7 @@
 {112}{}{We're shut down for the night. Come back in the morning.}
 {113}{}{Look, Outsider, if you got customs business, Wallace is in the back there, okay? He'll set you up with all the forms you need.}
 {114}{}{Furms need?}
-{115}{}{Shamble off}
+{115}{}{Desliga}
 {116}{}{Uh... what is this place?}
 {117}{}{All right. Thanks.}
 {118}{}{This is the CUSTOMS Office. Like the sign outside says. If you haven't got customs business, what are you doing here?}
@@ -103,7 +103,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {192}{}{You reconsider?}
 {193}{}{You again. What do you want?}
 {194}{}{Vant? Vant!}
-{195}{}{Shamble off}
+{195}{}{Desliga}
 {196}{}{O que é este lugar?}
 {197}{}{I'd like to get inside the city.}
 {198}{}{I'd like to buy those fake Citizenship papers you were offering before.}
@@ -113,7 +113,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {202}{}{Look, dim, get out of here, or I'll call the guards.}
 {203}{}{Look, dim, get out of h -- Mmmm. Wait a minute. Maybe...}
 {204}{}{Hurnh?}
-{205}{}{Shamble off}
+{205}{}{Desliga}
 {206}{}{Come with me a second, dim. I got somebody you gotta meet.}
 {207}{}{Okee-dokeee}
 {208}{}{Nuh-uh ME STAY}
@@ -138,7 +138,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {227}{}{Whoa. How did you escape?}
 {228}{}{Whoa. How did you escape? You better get back inside before Barkus gets mad. C'mon...}
 {229}{}{Oh-keeee}
-{230}{}{Shamble off}
+{230}{}{Desliga}
 {231}{}{Like I said before, I can make you a full-fledged Citizen for $200. You'll have free passage
  through the gate, no hassles. I can print out the papers, register your serial number,
  and have you on your way in five minutes.}

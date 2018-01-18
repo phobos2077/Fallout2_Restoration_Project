@@ -14,7 +14,7 @@
 {113}{}{Good day, Citizen. Can I help you?}
 {114}{}{Yes? Was there something else you wanted?}
 {115}{}{San-tah Klass?}
-{116}{}{Shamble off}
+{116}{}{Desliga}
 {117}{}{Can I ask you some questions?}
 {118}{}{Quem é você?}
 {119}{}{Just looking around, thanks. Good day.}

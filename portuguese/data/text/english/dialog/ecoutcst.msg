@@ -4,4 +4,4 @@
 {103}{}{Sucker.}
 {104}{}{Leave us!}
 {105}{}{Unclean!}
-{106}{}{Go away!}
+{106}{}{Vá embora!}

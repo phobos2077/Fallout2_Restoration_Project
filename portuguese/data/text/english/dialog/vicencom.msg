@@ -68,7 +68,7 @@
 {167}{}{You have logged on to the Vault City Central Computer. The interface seems relatively easy to understand; everything seems to be broken down into archives.}
 {168}{}{Hewllo? Hewllo?}
 {169}{}{Try and pry open the box so the woman can get out.}
-{170}{}{Shamble off}
+{170}{}{Desliga}
 {171}{}{Search the archives for location of Vault 13.}
 {172}{}{Search archives for any mention of the Garden of Eden Creation Kit.}
 {173}{}{Insert Gecko power plant disk into the computer.}
@@ -78,14 +78,14 @@
 {177}{}{Log off the terminal.}
 {178}{}{The metal box does not answer.}
 {179}{}{Try and pry open the box so the woman can get out.}
-{180}{}{Shamble off}
+{180}{}{Desliga}
 {181}{}{You kneel down beneath the metal box. You dig your fingers into one of the boards under the box
  and yank it off. There isn't a woman in there! Just a bunch of dead snakes and sparkling lights.}
 {182}{}{Reach in the snakes, feel around.}
-{183}{}{Shamble off}
+{183}{}{Desliga}
 {184}{}{There is a GZZZZTTTTTT and then...}
 {185}{}{...you wake up.}
-{186}{}{Shamble off}
+{186}{}{Desliga}
 {187}{}{You pry open the panel beneath the machine and search for a voice recognition module. You don't
  see one...the circuit boards in this computer look much different than the ones in the Vault 13
  computer.}

@@ -7,7 +7,7 @@
 {104}{}{Uurmph}
 {105}{}{Ecch}
 {106}{}{Portzebie}
-{107}{}{Shamble off}
+{107}{}{Desliga}
 {108}{}{Why, no... I haven't.}
 {109}{}{And you are...?}
 {110}{}{Uh, no, and I don't want to. Goodbye. }
@@ -129,7 +129,7 @@
 {199}{}{Uurmph}
 {200}{}{Ecch}
 {201}{}{Portzebie}
-{202}{}{Shamble off}
+{202}{}{Desliga}
 {203}{}{Hey, I only acted like a slaver to get information.}
 {204}{}{Well, I had something to say to you: Why does Vault City have slaves? I thought this was a
  free city.}

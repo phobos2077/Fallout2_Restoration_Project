@@ -9,7 +9,7 @@
 {108}{}{Yes, Citizen?}
 {109}{}{Yes, what is it? I'm behind in my assignments.}
 {110}{}{Umm...Me luuwk Valt!}
-{111}{}{Shamble off}
+{111}{}{Desliga}
 {112}{}{What is this building?}
 {113}{}{I'm looking for the Vault.}
 {114}{}{I'm looking for a particular Servant...Joshua, I believe. Is he here?}

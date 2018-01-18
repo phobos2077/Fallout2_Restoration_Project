@@ -32,7 +32,7 @@
 {233}{}{(Follow her.)}
 {234}{}{We go good place?}
 {235}{}{You go. Me stay}
-{236}{}{Shamble off}
+{236}{}{Desliga}
 {240}{}{(She smiles faintly.) Yes. *Very* good place. Now come along.}
 {245}{}{(She frowns, and her face reddens.) Get out of here before I have you shot.}
 {246}{}{Sorreee... me go}

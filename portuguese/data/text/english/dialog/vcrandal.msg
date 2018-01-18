@@ -21,24 +21,24 @@
 {120}{}{Hello there, stranger. Always a pleasure to see a new face. Name's Randal...I'm the Chief Amenities Officer. Need something?}
 {121}{}{Gechkk}
 {122}{}{Nooooooooo-pe}
-{123}{}{Shamble off}
+{123}{}{Desliga}
 {124}{}{Well, it depends. What is this place?}
 {125}{}{Nothing today, actually.}
 {126}{}{A GECK? That's a Garden of Eden Creation Kit, a kind of gray suitcase looking thing, right? I haven't heard anyone mention one of those in... well, since... almost forever.}
 {127}{}{NEED Gechkkk}
-{128}{}{Shamble off}
+{128}{}{Desliga}
 {129}{}{Do you have one?}
 {130}{}{Mind if I ask you something else?}
 {131}{}{Well, never mind then.}
 {132}{}{Hate to break it to you, friend, but we don't have ours anymore. Used it up to make Vault City...*poof.* All gone.}
 {133}{}{NEED Gechkkk.}
-{134}{}{Shamble off}
+{134}{}{Desliga}
 {135}{}{Oh...well, do you know of any place that might have one?}
 {136}{}{Mind if I ask you something else?}
 {137}{}{Well, nevermind then.}
 {138}{}{Well, hmmm. Here's your problem, as I see it: the GECK's an old piece of tech... pre-war tech, in fact. You just can't "find" them anymore. They were only issued to Vaults.}
 {139}{}{NEED Valt.}
-{140}{}{Shamble off}
+{140}{}{Desliga}
 {141}{}{Do you know where I could find any other Vaults?}
 {142}{}{Mind if I ask you something else?}
 {143}{}{Well, never mind then.}
@@ -50,7 +50,7 @@
 {149}{}{Hey there, welcome back. Anything I can do for you?}
 {150}{}{Sure. What's on your mind?}
 {151}{}{Gechkk?}
-{152}{}{Shamble off}
+{152}{}{Desliga}
 {153}{}{What is this place again?}
 {154}{}{Do you happen to have a GECK in stock?}
 {155}{}{Valerie over at the maintenance shed could use a new wrench and some pliers.}

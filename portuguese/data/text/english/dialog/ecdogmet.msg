@@ -1,46 +1,46 @@
-{100}{}{You see one meeeean looking dog.}
-{101}{}{You see Dogmeat.}
-{102}{}{You see Dogmeat.}
-{103}{}{The dog gives a low whine when it sees the vault suit. It looks like it wants to come with you.}
-{104}{}{Whistle}
-{105}{}{Maybe you ken come wif me when I haf more ruum.}
-{106}{}{Uh-uh, doggie. Yu stay.}
-{107}{}{C'mon, boy. Time to do some damage.}
-{108}{}{Don't worry, boy. I'll come back and get you when I have some room in my party.}
-{109}{}{Sorry, Dogmeat. Not this time.}
-{110}{}{The dog greedily swallows the iguana on a stick, then looks at you expectantly.}
-{111}{}{Whistle}
-{112}{}{Maybe you ken come wif me when I haf more ruum.}
-{113}{}{Uh-uh, doggie. Yu stay.}
-{114}{}{C'mon, boy. Time to do some damage.}
-{115}{}{Don't worry, boy. I'll come back and get you when I have some room in my party.}
-{116}{}{Sorry, Dogmeat. Not this time.}
-{117}{}{You see one meeeean-looking dog.}
-{118}{}{Whistle}
-{119}{}{Maybe you ken come wif me when I haf more ruum.}
-{120}{}{Wait doggie, no move.}
-{121}{}{Shamble off}
-{122}{}{C'mon, boy. Time to do some damage.}
-{123}{}{I'll come back and get you when I have some room in my party.}
-{124}{}{Stick close to me. All right, boy?}
-{125}{}{Keep a medium distance, Dogmeat.}
-{126}{}{Stay far away from me, Dogmeat. Watch my back.}
-{127}{}{Stay, Dogmeat. Stay!}
-{128}{}{I think I'll just leave Dogmeat alone.}
-{129}{}{Dogmeat gives a sharp bark, then a low growl.}
-{130}{}{Stick close to me. All right, boy?}
-{131}{}{Keep a medium distance, Dogmeat.}
-{132}{}{Stay far away from me, Dogmeat. Watch my back.}
-{133}{}{Stay, Dogmeat. Stay!}
-{134}{}{Thanks, Dogmeat. You kick ass.}
+{100}{}{Você vê um cão com aparência média.}
+{101}{}{Você vê Dogmeat.}
+{102}{}{Você vê Dogmeat.}
+{103}{}{O cão dá um baixo gemido quando vê o terno do cofre. Parece que quer vir com você.}
+{104}{}{Apito}
+{105}{}{Talvez você possa vir comigo quando eu tiver mais ruum.}
+{106}{}{Uh-uh, cachorrinho. Você fica.}
+{107}{}{Vamos lá, rapaz. Tempo para fazer um pouco de dano.}
+{108}{}{Não se preocupe, garoto. Eu vou voltar e pegar você quando eu tiver algum espaço na minha festa.}
+{109}{}{Desculpe, Dogmeat. Não desta vez.}
+{110}{}{O cão avidamente avança a iguana em uma vara, então olha para você com expectativa.}
+{111}{}{Apito}
+{112}{}{Talvez você possa vir comigo quando eu tiver mais ruum.}
+{113}{}{Uh-uh, cachorrinho. Você fica.}
+{114}{}{Vamos lá, rapaz. Tempo para fazer um pouco de dano.}
+{115}{}{Não se preocupe, garoto. Eu vou voltar e pegar você quando eu tiver algum espaço na minha festa.}
+{116}{}{Desculpe, Dogmeat. Não desta vez.}
+{117}{}{Você vê um cão de aparência média.}
+{118}{}{Apito}
+{119}{}{Talvez você possa vir comigo quando eu tiver mais ruum.}
+{120}{}{Aguarde cachorrinho, sem se mover.}
+{121}{}{Desliga}
+{122}{}{Vamos lá, rapaz. Tempo para fazer um pouco de dano.}
+{123}{}{Eu vou voltar e pegar você quando eu tiver algum espaço na minha festa.}
+{124}{}{Ficar perto de mim. Tudo bem, garoto?}
+{125}{}{Mantenha uma distância média, Dogmeat.}
+{126}{}{Fique longe de mim, Dogmeat. Me dê cobertura.}
+{127}{}{Fica, Dogmeat. Fica!}
+{128}{}{Eu acho que eu vou deixar apenas Dogmeat sozinho.}
+{129}{}{Dogmeat dá um forte casca, em seguida, um baixo rosnado.}
+{130}{}{Ficar perto de mim. Tudo bem, garoto?}
+{131}{}{Mantenha uma distância média, Dogmeat.}
+{132}{}{Fique longe de mim, Dogmeat. Me dê cobertura.}
+{133}{}{Fica, Dogmeat. Fica!}
+{134}{}{Obrigado, Dogmeat. Você arrebenta.}
 {135}{}{Awooooooooooo}
 {136}{}{Awooooooooooo}
-{137}{}{Ey'e mate, you screwen with me dog.}
+{137}{}{Olha companheiro, você furou comigo cão.}
 {138}{}{Grrrrr....}
-{139}{}{(I wonder if I can get Dogmeat to follow me differently?)}
+{139}{}{(Eu me pergunto se eu posso fazer o Dogmeat de me seguir de forma diferente?)}
 {150}{}{Woof! Woof!}
-{200}{}{Here boy, I got something for you! Let's see somebody mess with you now! (You place the K-9 Kevlar on Dogmeat.)}
-{201}{}{Is the armor weighting you down, boy? Here, let's take that thing off. (You remove the K-9 Kevlar from Dogmeat.) }
+{200}{}{Aqui garoto, eu tenho algo para você! Vamos ver alguém bagunçar com você agora! (Você coloca o K-9 Kevlar em Dogmeat.)}
+{201}{}{A armadura está pesando você, garoto? Aqui, vamos tirar essa coisa. (Você remove o K-9 Kevlar da Dogmeat.)}
 {300}{}{*Wimper*}
 {301}{}{Awooooooooooo! *wimper*}
-{1110}{}{The dog greedily swallows the contents of the can of dog food, then looks at you expectantly.}
+{1110}{}{O cão engole avidamente o conteúdo da lata de comida para cachorro, em seguida, olha para você com expectativa.}

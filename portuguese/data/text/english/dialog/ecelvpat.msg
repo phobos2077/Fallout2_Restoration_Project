@@ -1,19 +1,19 @@
-{100}{}{You see an Enclave Patrolman.}
-{200}{}{You're an illegal alien on Enclave territory. Proposition 312 orders us to shoot on sight.
- Sorry, boy!}
-{201}{}{He's a mutant spy! Take him out, team!}
-{202}{}{As a loyal soldier of the Enclave, I got orders to kill you. Hope you don't mind.}
-{203}{}{Base we got an intruder, sector 3; awaiting orders...Kill him? Roger that base.}
-{204}{}{Now I suppose you're going to tell me you're just out looking for a water chip. Do I look dumb?
- Get him!}
-{205}{}{Die, wasteland scum!}
-{206}{}{You! It's your kind that destroyed this once mighty nation. You're gonna pay!}
-{207}{}{Hey, Louie! You ever seen what one of these babies does to soft tissue? Watch!}
-{300}{}{Geez, I hate having to kill a woman. Let's make this quick, okay?}
-{301}{}{Alarm! Alarm!}
-{302}{}{Looks like you come a long way for nothing, lady. }
-{303}{}{As a loyal soldier of the Enclave, I got orders to kill you. Hope you don't mind.}
-{304}{}{You! It's your kind that destroyed this once mighty nation. You're gonna pay!}
-{305}{}{Don't worry, it's only some wasteland bimbo. She won't put up much of a fight.}
-{306}{}{It's a shame we couldn't have met under different circumstances.}
-{307}{}{Don't talk to me! You'll not corrupt me with your feminine temptations! Die!}
+{100}{}{Você vê um patrulheiro do Enclave.}
+{200}{}{Você é um estrangeiro ilegal no território Enclave. A Proposição 312 nos ordena atirar à vista.
+  Desculpe, menino!}
+{201}{}{Ele é um espião mutante! Peguem-no, equipe!}
+{202}{}{Como um soldado leal do Enclave, recebi ordens para matar você. Espero que você não se importe.}
+{203}{}{Base temos um intruso, sector 3; aguardando ordens ... Mate-o? Entendido base.}
+{204}{}{Agora, suponho que você vai me dizer que você está apenas procurando por um chip de água. Pareço burro?
+  Pegue-o!}
+{205}{}{Morra, escoria!}
+{206}{}{Você! É o seu tipo que destruiu essa nação poderosa. Você vai pagar!}
+{207}{}{Ei, Louie! Você já viu o que um desses bebês faz para os tecidos moles? Veja!}
+{300}{}{Nossa, eu odeio ter que matar uma mulher. Vamos fazer isso rápido, ok?}
+{301}{}{Alarme! Alarme!}
+{302}{}{Parece que você percorreu um longo caminho para o nada, senhora. }
+{303}{}{Como um soldado leal do Enclave, recebi ordens para matar você. Espero que você não se importe.}
+{304}{}{Você! É o seu tipo que destruiu essa nação poderosa. Você vai pagar!}
+{305}{}{Não se preocupe, é apenas um bimbo do deserto. Ela não aguentará muita briga.}
+{306}{}{É uma pena que não tivéssemos encontrado em circunstâncias diferentes.}
+{307}{}{Não fale comigo! Você não me corromperá com suas tentações femininas! Morra!}

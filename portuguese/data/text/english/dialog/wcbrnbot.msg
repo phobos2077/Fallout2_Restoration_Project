@@ -30,7 +30,7 @@
 {129}{}{Ug.}
 {130}{}{Give weapon                                                    Proceed to surface.}
 {131}{}{}
-{132}{}{Bye}
+{132}{}{Adeus}
 {133}{}{Ug}
 {134}{}{You wish to interact with Skynet?}
 {135}{}{Move out of my way.}

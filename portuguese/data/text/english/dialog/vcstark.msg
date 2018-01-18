@@ -32,7 +32,7 @@
 {131}{}{Can I help you, Citizen?}
 {132}{}{O que você quer?}
 {133}{}{Yah!}
-{134}{}{Shamble off}
+{134}{}{Desliga}
 {135}{}{Quem é você?}
 {136}{}{Nothing, sorry to disturb you.}
 {137}{}{Come with me, boy. NOW.}
@@ -261,7 +261,7 @@
 {359}{}{Yes, Citizen. What did you want to know?}
 {360}{}{Like what?}
 {361}{}{Hep-Hep Schlep-Bep}
-{362}{}{Shamble off}
+{362}{}{Desliga}
 {363}{}{You got some kind of problem, Sergeant?}
 {364}{}{You the one who busted up Cassidy's bar?}
 {365}{}{Have you heard of a Servant named Joshua?}

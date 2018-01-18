@@ -4,7 +4,7 @@
 {103}{Cas0103}{Well, now. I ain't seen you around before, stranger. Name's Cassidy. I run this place. What can I do for you?}
 {104}{Cas0104}{Well now, if it ain't the mysterious stranger. What can I do for you today?}
 {105}{}{Ug Nog?}
-{106}{}{Shamble off}
+{106}{}{Desliga}
 {107}{}{I'm looking for the Vault.}
 {108}{}{You looking to get out of here yet?}
 {109}{}{What have you got on tap?}

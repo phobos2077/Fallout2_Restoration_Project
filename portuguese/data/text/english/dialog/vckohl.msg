@@ -14,12 +14,12 @@
 {113}{}{Silence IS a virtue.}
 {114}{}{Oh... hello! Was there something I could help you with?}
 {115}{}{Frazz-urb-luuw!}
-{116}{}{Shamble off}
+{116}{}{Desliga}
 {117}{}{O que é este lugar?}
 {118}{}{Nothing. Sorry to disturb you.}
 {119}{}{Uh... pardon me?}
 {120}{}{Cripple-cripple creep}
-{121}{}{Shamble off}
+{121}{}{Desliga}
 {122}{}{Oh my, you must be one of the Servants. You should REALLY head back to Master Barkus at once, or he'll be quite irate!}
 {123}{}{Okee!}
 {124}{}{This is the Information Center for Vault City. Is this the place you were looking for?}

@@ -1,6 +1,6 @@
 {100}{}{You see a Hubologist guard.}
 {101}{}{You see a well-armed person with a cruel look in their eyes.}
-{110}{}{You see a Hubologist.}
+{110}{}{Você vê um Hubologista.}
 {111}{}{He is staring at the various computer equipment before him.}
 {200}{}{We're loyal to AHS-9.}
 {201}{}{The Star Father cares for all of us.}

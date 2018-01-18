@@ -1,6 +1,6 @@
-{100}{}{You see a Hubologist.}
-{101}{}{Do you think you can escape the wrathful eye of the Hub?}
-{102}{}{You are raw meat. You are recruits. Pray you do not become enemies.}
-{103}{}{Perhaps you would like to join the Hubologists?}
-{104}{}{Walk carefully here. We have Shi in the town. Harm nothing in our city.}
-{105}{}{Perhaps you will be permitted to gaze upon our project.}
+{100}{}{Você vê um Hubologista.}
+{101}{}{Você acha que pode escapar do olho furioso do Hub?}
+{102}{}{Você é carne crua. Você é recruta. Oro para que você não se torne inimigo.}
+{103}{}{Talvez você gostaria de participar dos Hubologistas?}
+{104}{}{Caminha com atenção aqui. Nós temos Shi na cidade. Não prejudique nada em nossa cidade.}
+{105}{}{Talvez você seja autorizado a contemplar nosso projeto.}

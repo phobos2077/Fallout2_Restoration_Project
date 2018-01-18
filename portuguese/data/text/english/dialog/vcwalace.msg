@@ -11,14 +11,14 @@
 {110}{}{Hello, Citizen. Is there anything I can help you with?}
 {111}{}{Hello, traveler. Welcome to Vault City. Is there anything I can help you with?}
 {112}{}{Frazz-urb-luuw!}
-{113}{}{Shamble off}
+{113}{}{Desliga}
 {114}{}{Quem é você?}
 {115}{}{O que é este lugar?}
 {116}{}{I believe your assistant, Skeev, is involved in illegal practices.}
 {117}{}{Nothing today, thanks.}
 {118}{}{Well, I see I'll have to have to have a talk with the guards in the Courtyard. They seem to be letting just about ANY Outsider into Vault City nowadays. }
 {119}{}{Dayz. Daze? Daiseeee.}
-{120}{}{Shamble off}
+{120}{}{Desliga}
 {121}{}{Idiota.}
 {122}{}{"Daiseee," you say? How fascinating. Why don't you go back to the Courtyard and tell the rest of your inbred Outsider friends all about it?}
 {123}{}{Okee!}
@@ -35,20 +35,20 @@
 {134}{}{What do *you* want?}
 {135}{}{Citeee? Me go in?}
 {136}{}{Hewooo?}
-{137}{}{Shamble off}
+{137}{}{Desliga}
 {138}{}{I'd like to get back into the city.}
 {139}{}{I wanted to ask you some questions...}
 {140}{}{Não importa.}
 {141}{}{Cease bothering me, you fool.}
 {142}{}{Me no FUL. YOU FUL.}
-{143}{}{Shamble off}
+{143}{}{Desliga}
 {144}{}{Look, maybe we can work something out...?}
 {145}{}{Uh, goodbye, then.}
 {146}{}{You were kicked out of Vault City for a reason, Outworlder. No second chances.}
 {147}{}{Another one? What happened to the first one?}
 {148}{}{ME GO IN. NOW.}
 {149}{}{Pwease?}
-{150}{}{Shamble off}
+{150}{}{Desliga}
 {151}{}{Look, it was all a misunderstanding.}
 {152}{}{Well, I just don't have it on me. Can't you issue me another one?}
 {153}{}{Nevermind then.}
@@ -106,7 +106,7 @@
 {205}{}{Don't waste any more of my time, Outsider. Leave.}
 {206}{}{I suggest you leave now, or I will summon the guards.}
 {207}{}{NO Uuu LEAVE or me HIT U}
-{208}{}{Shamble off}
+{208}{}{Desliga}
 {209}{}{I'm not going anywhere. You want to try and move me, go ahead.}
 {210}{}{All right, all right.}
 {211}{}{And where, may I ask, did you come by this fraudulent Citizenship? These serial numbers are the same as the Citizenship papers stolen last month.}
@@ -146,7 +146,7 @@
 {245}{}{Of course, Citizen. What else did you want to know?}
 {246}{}{What else did you want to know?}
 {247}{}{Frazz-urb-luuw!}
-{248}{}{Shamble off}
+{248}{}{Desliga}
 {249}{}{O que é este lugar?}
 {250}{}{What kind of shipments do you receive here?}
 {251}{}{Your assistant, Skeev, is involved in illegal practices.}

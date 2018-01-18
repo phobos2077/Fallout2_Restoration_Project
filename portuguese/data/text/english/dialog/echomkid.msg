@@ -1,12 +1,12 @@
-{100}{}{Plbbt. Can't get me.}
-{101}{}{My pa's gonna whip you.}
-{102}{}{Take this.}
-{103}{}{Go away!}
+{100}{}{Plbbt. Não pode me pegar.}
+{101}{}{O meu pai vai chicoteá-lo.}
+{102}{}{Tome isso.}
+{103}{}{Vá embora!}
 {104}{}{Pblbbt!}
 {105}{}{Whaaa!}
 {106}{}{Mamãe!}
-{107}{}{Daddy!}
-{200}{}{You see a young child.}
-{201}{}{It's a little boy.}
-{202}{}{It's a little girl.}
+{107}{}{Papai!}
+{200}{}{Você vê uma criança.}
+{201}{}{É um menino.}
+{202}{}{É uma menina.}
 {210}{}{Olá.}

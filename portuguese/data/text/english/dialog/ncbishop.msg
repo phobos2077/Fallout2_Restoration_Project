@@ -9,7 +9,7 @@
 {205}{}{Eat lead, you stupid son of a bitch.}
 {206}{}{Eat lead, bitch.}
 {207}{}{Me not LIKE lead taste gross}
-{208}{}{Shamble off}
+{208}{}{Desliga}
 {209}{}{If that's what you want carved on your tombstone, so be it...}
 {210}{}{Poor choice of last words.}
 {211}{}{[Run for it.]}

@@ -37,7 +37,7 @@
 {241}{}{You cheater. You no play fair}
 {242}{}{Okay here chips me not sure how many 20 is so herez a bunch}
 {243}{}{Uh, me flattered but me not want to get down to it now...byyyyye}
-{244}{}{Shamble off}
+{244}{}{Desliga}
 {245}{}{Let's play.}
 {246}{}{Uh, get down to what?}
 {247}{}{I'm familiar with the game. Let's play.}

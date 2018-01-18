@@ -78,7 +78,7 @@
 {260}{}{Help, Daddy! Get her away!}
 {270}{}{Help! Get him away!}
 {280}{}{Help! Get her away!}
-{400}{}{Daddy!}
+{400}{}{Papai!}
 {401}{}{Uh oh!}
 {402}{}{I surely do!}
 {410}{}{Uhh...}

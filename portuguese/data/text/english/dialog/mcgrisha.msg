@@ -3,7 +3,7 @@
 {102}{}{You can't quite place him, but he looks familiar.}
 {151}{}{I told you you'd get yours!}
 {152}{}{Bwahahaha!}
-{153}{}{Go away!}
+{153}{}{Vá embora!}
 {154}{}{I'm busy!}
 {155}{}{I knew my daughter was odd.}
 {156}{}{Different people, different tastes, I suppose.}

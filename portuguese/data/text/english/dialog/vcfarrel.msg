@@ -24,7 +24,7 @@
 {123}{}{Can I help you, Citizen?}
 {124}{}{Yes, what is it?}
 {125}{}{Ken I Helf uuuuuuuu}
-{126}{}{Shamble off}
+{126}{}{Desliga}
 {127}{}{O que é este lugar?}
 {128}{}{Can I see what you have in stock?}
 {129}{}{Nothing today, thanks.}

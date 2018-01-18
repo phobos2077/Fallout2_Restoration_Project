@@ -24,7 +24,7 @@
 {123}{}{Yer metal doggie looks like he wants to eat me.}
 {124}{}{I lost Mr. Nixon. I don't know where I left him.}
 {125}{}{Thizzz Nixxson?}
-{126}{}{Shamble off}
+{126}{}{Desliga}
 {127}{}{This him? He was looking around for you, too.}
 {128}{}{I have Mr. Nixon right here. But you know what? I think Mr. Nixon should be punished for going off on his own. Some ritual dismemberment may be in order. So, first I'm going to pull off his arms, then...}
 {129}{}{Neither do I.}

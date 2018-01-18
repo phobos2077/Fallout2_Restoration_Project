@@ -31,12 +31,12 @@
 {130}{}{No mutants are allow in Vault City. Get that... thing out of here. Now.}
 {131}{}{Stop right there, friend. No one is allowed past this point without proper authorization.}
 {132}{}{Propa uh-zat-shun?}
-{133}{}{Shamble off}
+{133}{}{Desliga}
 {134}{}{Proper authorization?}
 {135}{}{Never mind, then.}
 {136}{}{Looks like we got another victim of the Outworlder inbreeding here... look, dim, get out of here before you get hurt, all right?}
 {137}{}{ME NO GOH!}
-{138}{}{Shamble off}
+{138}{}{Desliga}
 {139}{}{Yes, "proper authorization."}
 {140}{}{If you want to get into Vault City, you need to speak to Wallace, Head of Customs. He can issue you a Day Pass.}
 {141}{}{Where can I find Wallace?}

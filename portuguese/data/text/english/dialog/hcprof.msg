@@ -46,7 +46,7 @@
 {145}{}{All right, all right. Say, I'd like to try out my skills against your scorpion.}
 {146}{}{All right, I believe you. I'll just be leaving.}
 {147}{}{How... how could you kill my scorpion like that? I was close... so close...}
-{148}{}{Shamble off}
+{148}{}{Desliga}
 {200}{}{Woo hoo! Beat THAT, Mr. Exoskeleton.}
 {201}{}{Wooooooo Hoooo!}
 {202}{}{Damn it!}

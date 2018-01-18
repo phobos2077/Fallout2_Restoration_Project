@@ -1,13 +1,13 @@
 {100}{}{You see a lean, tan looking woman.}
-{101}{}{You see a farmer.}
-{102}{}{You notice she has a farmer's tan.}
-{200}{}{This is my house.}
-{201}{}{Damn bandits.}
-{202}{}{Leave us alone!}
-{203}{}{I hate bandits.}
-{204}{}{We have nothing for you to steal.}
-{205}{}{Don't kill me.}
-{206}{}{I've had enough.}
+{101}{}{Você vê um agricultor.}
+{102}{}{Você percebe que ela tem um bronzeado de fazendeira.}
+{200}{}{Esta é a minha casa.}
+{201}{}{Porra bandidos.}
+{202}{}{Deixe-nos em paz!}
+{203}{}{Eu odeio bandidos.}
+{204}{}{Nós não temos nada para roubar.}
+{205}{}{Não me mate.}
+{206}{}{Eu já tive o suficiente.}
 {207}{}{Take what you want.}
 {208}{}{Please, don't kill me.}
 {209}{}{I hated farming anyway.}

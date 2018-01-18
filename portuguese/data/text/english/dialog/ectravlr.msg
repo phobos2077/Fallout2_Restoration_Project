@@ -55,7 +55,7 @@
 {142}{}{I want to make the next town by nightfall. I'd better go.}
 {143}{}{I'd better be going.}
 {144}{}{Ambush!}
-{145}{}{Can't trust anyone these days.}
+{145}{}{Não pode confiar em alguém nos dias de hoje.}
 {146}{}{You have broken the code of the traveler.}
 {147}{}{Time to go.}
 {148}{}{I've overstayed my welcome.}
