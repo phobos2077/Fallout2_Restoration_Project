@@ -1,5 +1,5 @@
 {100}{}{You see a man wearing metal armor.}
-{101}{}{You see Kaga.}
+{101}{}{Você vê Kaga.}
 {102}{}{Yep, it's Kaga the not-so-great. He has metal armor and wants to kill you.}
 {103}{}{You again!}
 {104}{}{I grow tired of our constant meetings.}

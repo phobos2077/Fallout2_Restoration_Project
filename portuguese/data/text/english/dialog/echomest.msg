@@ -9,8 +9,8 @@
 {106}{}{Obrigado novamente por nos ajudar.}
 {107}{}{}
 {108}{}{}
-{109}{}{You just keep your hands where I can see them. We've been plagued by bandits lately, and I
- think you just might be one of them. What do you want?}
+{109}{}{Você mantém suas mãos onde posso vê-las. Já fomos atormentados por bandidos ultimamente, e eu
+  acho que você pode ser um deles. O que você quer?}
 {110}{}{Eu só queria trocar por suprimentos.}
 {111}{}{Eu estou só de passagem. Eu vou estar no meu caminho.}
 {112}{}{Ug.}
@@ -38,5 +38,5 @@
 {134}{}{Eu não gosto de agricultura de qualquer maneira.}
 {135}{}{Eu vou estar de volta.}
 {136}{}{Leve a minha esposa - por favor...}
-{200}{}{Thanks fer your help.}
-{201}{}{Bout time some order was brought to these here lands.}
+{200}{}{Obrigado pela sua ajuda.}
+{201}{}{Por algum tempo, alguma ordem foi trazida para estas terras aqui.}

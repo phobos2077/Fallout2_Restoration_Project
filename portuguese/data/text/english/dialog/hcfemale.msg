@@ -63,7 +63,7 @@
 {206}{}{Who let you in?}
 {207}{}{I don’t know why they don’t run you out of town.}
 {208}{}{Please leave me alone.}
-{209}{}{Don't bother me.}
+{209}{}{Não me incomode.}
 {210}{}{I can't help you. Go away.}
 {211}{}{Die in the desert, jerk.}
 {212}{}{Vá embora.}

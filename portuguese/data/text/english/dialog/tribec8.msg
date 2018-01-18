@@ -10,7 +10,7 @@
 {204}{}{Welcome, friend.}
 {205}{}{You will always be welcome here.}
 {206}{}{The spirits accept you as one of us.}
-{207}{}{Thank you for helping us.}
+{207}{}{Obrigado por nos ajudar.}
 {208}{}{I thought all outworlders were evil. It is not so...}
 {209}{}{Não faça isso.}
 {300}{}{Excuse me, but could you do me a small favor? I'm a little busy here and I don't know if I can leave this pot unattended.}

@@ -1,31 +1,31 @@
-{100}{}{You see a Fisherman.}
-{101}{}{You are just in time to witness the blessings of the Goddess of the Sea.}
+{100}{}{Você vê um pescador.}
+{101}{}{Você está apenas em tempo de testemunhar as bênçãos da Deusa do Mar.}
 {102}{}{[MAIS]}
 {103}{}{}
-{104}{}{Just before a big storm we hurl spears into the sea to show our bravery against the elements.
- If we have proven ourselves worthy, the Goddess rewards us with fruit.}
-{105}{}{When the season of storms begins, we throw Broc flowers out on the sea with the tide. After
- the Goddess works her magic, she returns the Broc flowers as the rare Xander root. }
-{106}{}{We offer tribute to the Goddess of the Sea each year in the form of Xander root. If the
- Goddess deems us worthy, she will turn the Xander root into Broc flowers. }
-{107}{}{After a bountiful harvest, we give tribute to the Goddess of the Sea that she might watch over
- and protect us.  Every year she has rewarded our piety by sending spears on the tide as sign that she
- is watching over us.}
-{108}{}{May I see what the Goddess has bestowed upon you?}
+{104}{}{Pouco antes de uma grande tempestade, lançamos lanças no mar para mostrar nossa bravura contra os elementos.
+  Se nos provamos ser dignos, a Deusa nos recompensa com frutos.}
+{105}{}{Quando a estação das tempestades começa, lançamos flores Broc no mar com a maré. Depois de
+  A Deusa trabalhar sua magia, ela retorna as flores Broc como a rara raiz Xander.}
+{106}{}{Oferecemos tributo à Deusa do Mar a cada ano sob a forma de raiz Xander. Se o
+  A deusa nos julga dignos, ela transformará a raiz Xander em flores Broc.}
+{107}{}{Depois de uma colheita abundante, nós damos tributo à Deusa do Mar que ela possa vigiar
+  e nos proteja. Todos os anos, ela recompensou nossa piedade ao enviar lanças na maré como sinal de que ela
+  está cuidando de nós.}
+{108}{}{Gostaria de ver o que a Deusa lhe concedeu?}
 {109}{}{Ug}
-{110}{}{Here is what the great Goddess has given us this year. We will gladly share her blessings with
- you, for a price.}
-{111}{}{Junk [$10]}
+{110}{}{Aqui está o que a grande Deusa nos deu este ano. Teremos o prazer de compartilhar suas bênçãos com
+você, por um preço.}
+{111}{}{Lixo [r$10]}
 {112}{}{Laser Pistol [$10000]}
-{113}{}{Sharpened sticks [$40]}
-{114}{}{Fruit [$5]}
+{113}{}{Paus afiados [$40]}
+{114}{}{Fruto [$5]}
 {115}{}{Xander [$20]}
-{116}{}{Broc [$10]}
+{116}{}{Broc [r$10]}
 {117}{}{Adeus.}
-{118}{}{[He points you in the direction of the sea.] Just keep walking. The Goddess wishes to meet you
- personally.}
-{119}{}{[End]}
-{120}{}{May the blessing of the Goddess of the Sea go with you.}
-{121}{}{[End]}
-{122}{}{[He frowns as you fail to produce the required sum of money.] Perhaps another time, then.}
-{123}{}{[End]}
+{118}{}{[Ele o aponta na direção do mar.] Apenas continue andando. A Deusa deseja conhecer você
+  pessoalmente.}
+{119}{}{[Fim]}
+{120}{}{Que a bênção da Deusa do Mar vá com você.}
+{121}{}{[Fim]}
+{122}{}{[Ele franziu o cenho quando você não conseguiu produzir a soma de dinheiro necessária.] Talvez outra vez, então.}
+{123}{}{[Fim]}

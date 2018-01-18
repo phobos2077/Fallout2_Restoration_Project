@@ -4,7 +4,7 @@
  home.}
 {103}{}{Howdy. Don't come across people too often out here in trapper country. Whatcha want?}
 {104}{}{Do you have any gecko pelts for sale?}
-{105}{}{Just passing through.}
+{105}{}{Só de passagem.}
 {106}{}{Ug.}
 {107}{}{Well, I reckon I might be able to sell ya my pelts. It'll save me the trouble of going into
  town.}

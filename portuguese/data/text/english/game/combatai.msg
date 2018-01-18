@@ -699,7 +699,7 @@
 {2006}{}{Somebody help meeeee!}
 {2007}{}{Oh God, oh God, oh God....}
 {2008}{}{Just don't kill me, pleeeeaaasssssee!}
-{2009}{}{Don't kill me!}
+{2009}{}{Não me mate!}
 {2010}{}{Please don't kill me.}
 {2011}{}{Help me! Oh, please! Heeeellllp!}
 {2012}{}{Just don't hurt me any more.}
@@ -2175,13 +2175,13 @@
 {36093}{}{That...wheeeeze...hurt!}
 {36094}{}{Urp!}
 {36095}{}{Gasp!}
-{36100}{}{We will meet again!}
+{36100}{}{Nós vamos nos encontrar novamente!}
 {36101}{}{I'll be back...}
-{36102}{}{I have never been beaten before!}
+{36102}{}{Nunca fui espancado antes!}
 {36103}{}{I will dedicate myself to hunting you down!}
 {36104}{}{You ain't heard the last of me!}
 {36105}{}{You'll pay for this -- later!}
-{36120}{}{I should have been the Chosen One!}
+{36120}{}{Eu deveria ter sido o Escolhido!}
 {36121}{}{Arroyo will regret casting me out!}
 {36122}{}{I will have my revenge on YOU!}
 {36123}{}{Kaga will send you to the next life!}
@@ -2201,7 +2201,7 @@
 {36163}{}{Bwahaha. Kaga didn't even have to duck!}
 {36164}{}{You can't kill what you can't hit!}
 {36165}{}{Too slow!}
-{36200}{}{We will meet again!}
+{36200}{}{Nós vamos nos encontrar novamente!}
 {36201}{}{I'll be back...}
 {36202}{}{You cannot kill the Great Kaga!}
 {36203}{}{You are in luck! Kaga has business elsewhere.}

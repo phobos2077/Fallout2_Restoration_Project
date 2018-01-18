@@ -1,7 +1,7 @@
-{100}{}{How dare you interrupt my meditation!}
-{101}{}{Spirits of the land, attack!}
-{102}{}{Great Spirit, protect me.}
-{103}{}{My bones nourish the earth...many years from now.}
-{104}{}{Screw the spirits; I'm outta here.}
-{105}{}{You see a holy man.}
+{100}{}{Como você se atreve a interromper a minha meditação!}
+{101}{}{Espíritos da terra, ataque!}
+{102}{}{Grande Espírito, proteger-me.}
+{103}{}{Meus ossos nutrir a terra...muitos anos a partir de agora.}
+{104}{}{Dane-se os espíritos; Estou fora daqui.}
+{105}{}{Você vê um homem santo.}
 {106}{}{Você vê uma mulher santa.}

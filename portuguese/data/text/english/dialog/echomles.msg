@@ -1,13 +1,13 @@
-{100}{}{Food!}
-{101}{}{Give us food!}
-{102}{}{We're hungry!}
-{103}{}{Some money for those less fortunate.}
+{100}{}{Comida!}
+{101}{}{Dar-nos comida!}
+{102}{}{Estamos com fome!}
+{103}{}{Algum dinheiro para os menos afortunados.}
 {104}{}{Ajude-nos!}
-{105}{}{Food!}
+{105}{}{Comida!}
 {106}{}{Eu estou com tanta fome.}
-{107}{}{My children are starving.}
-{108}{}{Nobody cares about us.}
-{109}{}{Don't kill me!}
-{110}{}{I just wanted some food.}
-{111}{}{Forgive me.}
-{112}{}{The beggar takes the item.}
+{107}{}{Meus filhos estão morrendo de fome.}
+{108}{}{Ninguém se importa conosco.}
+{109}{}{Não me mate!}
+{110}{}{Eu só queria um pouco de comida.}
+{111}{}{Perdoa-me.}
+{112}{}{O mendigo leva o item.}

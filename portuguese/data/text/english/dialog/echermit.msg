@@ -1,28 +1,28 @@
-{100}{}{You see a hermit.}
-{101}{}{You see a hermit.}
-{102}{}{It looks as if he hasn't washed in years.}
-{103}{}{Can guess you why I hermit? [It seems he hasn't spoken to anyone in years.]}
+{100}{}{Você vê um eremita.}
+{101}{}{Você vê um eremita.}
+{102}{}{Parece como se ele não tivesse lavado em anos.}
+{103}{}{Pode adivinhar o por que de eu eremita? [Parece que ele não tinha falado para ninguém em anos.]}
 {104}{}{Por quê?}
-{105}{}{Just passing through.}
+{105}{}{Só de passagem.}
 {106}{}{Ug.}
-{107}{}{Me want left alone.}
-{108}{}{Since I'm here, maybe we can barter. I'm sure I have something you might want.}
-{109}{}{I'll leave you alone then.}
-{110}{}{Trade. Then leave you will.}
-{111}{}{OK, here's what I have to trade.}
-{112}{}{I best leave.}
-{113}{}{Leave now.}
+{107}{}{Eu quero ficar sozinho.}
+{108}{}{Desde que eu estou aqui, talvez possamos trocar. Eu tenho certeza que eu tenho algo que você pode querer.}
+{109}{}{Eu vou deixar você sozinho, então.}
+{110}{}{Comércio. Em seguida, deixe você.}
+{111}{}{OK, aqui está o que eu tenho para o comércio.}
+{112}{}{Eu vou embora.}
+{113}{}{Deixe agora.}
 {114}{}{Eu vou estar indo agora.}
-{115}{}{Hmm...I like you. No ear talk off. Stay, trade me and you.}
+{115}{}{Hmm ... Eu gosto de você. Nenhuma orelha fala. Fique eu troco com você.}
 {116}{}{K'}
 {117}{}{Eu vou.}
-{118}{}{Nice talk. Go now. Tired am I.}
+{118}{}{Boa conversa. Vá agora. Cansado estou.}
 {119}{}{[FIM]}
-{120}{}{Talk give pain in head. Go.}
-{121}{}{Done me talk to you.}
-{122}{}{No talk. Go.}
+{120}{}{Falar dar dor de cabeça. Ir.}
+{121}{}{Fez-me falar com você.}
+{122}{}{Sem falar. Ir.}
 {123}{}{Vá embora!}
-{124}{}{Leave home!}
-{125}{}{How you dare me attack!}
-{126}{}{Leave alone me.}
+{124}{}{Sair de casa!}
+{125}{}{Como você ousa me atacar!}
+{126}{}{Deixe-me sozinho.}
 {127}{}{Eu vou.}

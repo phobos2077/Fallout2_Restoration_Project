@@ -1,9 +1,9 @@
-{100}{}{Here mousy, mousy.}
-{101}{}{Grundel need you to make stew.}
-{102}{}{Come here, wittle mousy.}
-{103}{}{Kind Grundel no hurt you.}
-{104}{}{Tasty little ones.}
-{105}{}{Come on, mousy. Me hungry.}
+{100}{}{Aqui tímido, tímido.}
+{101}{}{Grundel precisa de você para fazer ensopado.}
+{102}{}{Venha aqui, wittle tímido.}
+{103}{}{Kind Grundel não te machuca.}
+{104}{}{Gostoso pequeninos.}
+{105}{}{Venha, tímido. Me fome.}
 {106}{}{Squeek, Squeeeek. SQUEEEEK!}
-{107}{}{OK, OK, me lied, me gonna to eat you.}
-{110}{}{Oooh! You a big mousy. Make good dinner for Grundel.}
+{107}{}{OK, OK, eu menti, eu vou comer você.}
+{110}{}{Oooh! Um grande tímido. Fazer o bom jantar para Grundel.}

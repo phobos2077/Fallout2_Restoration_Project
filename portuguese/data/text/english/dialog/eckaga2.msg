@@ -1,5 +1,5 @@
 {100}{}{You see a man wearing leather armor.}
-{101}{}{You see Kaga.}
+{101}{}{Você vê Kaga.}
 {102}{}{He is wearing leather armor and has an annoying habit of talking about himself in the third person.}
 {103}{}{This will be the last time Kaga meets you.}
 {104}{}{After Kaga kill you, he will burn Arroyo to the ground.}

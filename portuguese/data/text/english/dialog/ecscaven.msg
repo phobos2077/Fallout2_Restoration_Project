@@ -4,6 +4,6 @@
 {103}{}{We don't usually scavenge off the living.}
 {104}{}{That's some nice stuff you have there.}
 {105}{}{Você vai pagar por isso.}
-{106}{}{Next time.}
+{106}{}{A próxima vez.}
 {107}{}{Running's a bitch!}
 {108}{}{You get to keep your stuff...this time.}

@@ -25,9 +25,9 @@
 {114}{}{I'll take it.}
 {115}{}{I'll pass.}
 {116}{}{Yes indeedy, you won't regret this. It was nice giving you the business. See you around.}
-{117}{}{[End]}
+{117}{}{[Fim]}
 {118}{}{Shit! What a waste of my time. Go on, beat it!}
-{119}{}{[End]}
+{119}{}{[Fim]}
 {120}{}{Well, that was a wasted speech. $}
 {121}{}{Sim.}
 {122}{}{Não.}

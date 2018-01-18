@@ -6,7 +6,7 @@
 {105}{}{Kaga will crush you!}
 {106}{}{Kaga fears no one!}
 {107}{}{Hold still, so Kaga can get a good shot.}
-{108}{}{We will meet again!}
+{108}{}{Nós vamos nos encontrar novamente!}
 {109}{}{This is not the last you will see of Kaga.}
 {110}{}{Kaga definitely needs more training.}
 {120}{}{Go away Kaga!}

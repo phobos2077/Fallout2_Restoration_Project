@@ -8,7 +8,7 @@
 {204}{}{Welcome, warrior.}
 {205}{}{You will always be welcome here.}
 {206}{}{The spirits accept you as one of us.}
-{207}{}{Thank you for helping us.}
+{207}{}{Obrigado por nos ajudar.}
 {208}{}{I thought all outworlders were evil. It is not so...}
 {209}{}{Não faça isso.}
 {210}{}{Slavers aren't welcome here!}

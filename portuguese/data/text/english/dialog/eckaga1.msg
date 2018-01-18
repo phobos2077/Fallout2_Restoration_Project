@@ -1,13 +1,13 @@
-{100}{}{You see a man wearing minimal clothing.}
-{101}{}{You see Kaga.}
-{103}{}{He is wearing pants and looks like he came from a tribe.}
-{104}{}{I should have been the Chosen One!}
-{105}{}{How dare Arroyo cast me out of the tribe.}
-{106}{}{I will have my revenge on you!}
-{107}{}{Kaga will send you to the next life.}
-{108}{}{We will meet again!}
-{109}{}{I have never been beaten before!}
-{110}{}{I will dedicate myself to your destruction.}
+{100}{}{Você vê um homem vestindo o mínimo de roupa.}
+{101}{}{Você vê Kaga.}
+{103}{}{Ele está vestindo calças e parece que ele veio de uma tribo.}
+{104}{}{Eu deveria ter sido o Escolhido!}
+{105}{}{Como se atreve, Arroyo me expulsou da tribo.}
+{106}{}{Eu terei minha vingança sobre você!}
+{107}{}{Kaga vai mandar você para a próxima vida.}
+{108}{}{Nós vamos nos encontrar novamente!}
+{109}{}{Nunca fui espancado antes!}
+{110}{}{Vou me dedicar para a sua destruição.}
 {150}{}{[A tall and powerfully built warrior stands before you, his eyes blaze with hatred as he looks you over.] So, they cast out Kaga, then deem YOU the Chosen One? Ha! You think being the grandchild of the Vault Dweller makes you special?! You think you are better than I, Kaga the Great?!}
 {151}{}{Well, I AM the Chosen One, aren't I?}
 {152}{}{Hey now, hold on a second. I never said I was better than you.}

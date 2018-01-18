@@ -8,16 +8,16 @@
 {107}{}{Nothing today. Thanks.}
 {108}{}{Ug.}
 {109}{}{Ohhhh...that ain't no fun ta drinks. [He hands you your drink.]}
-{110}{}{[End]}
+{110}{}{[Fim]}
 {111}{}{Here ya goes. It's a bit warm cuz it hasn't had time to cool. Sellen' the stuff faster than I
  can makes it. [It's warm, it's yellow it's....]}
-{112}{}{[End]}
+{112}{}{[Fim]}
 {113}{}{[You feel the walls of your stomach dissolve as you take a large gulp.]}
-{114}{}{[End]}
+{114}{}{[Fim]}
 {115}{}{Whoa...[hick] I thinks yuz had nuf ta drinks already.}
-{116}{}{[End]}
+{116}{}{[Fim]}
 {117}{}{Ahhh man! You don't have enuf money! Cum back when ya gets sum.}
-{118}{}{[End]}
+{118}{}{[Fim]}
 {119}{}{He has a bit of a wild look to him.}
 {120}{}{Você vê um viciado.}
 {121}{}{He seems a bit jittery.}
@@ -28,10 +28,10 @@
 {126}{}{Nothing today. Thanks.}
 {127}{}{Ug.}
 {128}{}{Thatsgreat! Givemethemoneyandgetoutofhere. Igotabusinesstorun.}
-{129}{}{[End]}
+{129}{}{[Fim]}
 {130}{}{Likethesayinggoes. Nomoneynohoney. Oh. Thatsforsex. Howaboutnodoughnoblow.
  Comebackwhenyougotsomecash.}
-{131}{}{[End]}
+{131}{}{[Fim]}
 {132}{}{Heheheh! Lookslikeyoucanusesomementats. Giveme$1000.}
 {133}{}{[Give the man $1000]}
 {134}{}{Eu vou.}

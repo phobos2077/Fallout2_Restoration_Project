@@ -1,10 +1,10 @@
-{100}{}{You see a man strumming a lute.}
-{101}{}{This is Joshua.}
-{102}{}{He is a traveling minstrel.}
-{103}{}{Brave Sir Robin ran away...}
-{104}{}{Bravely ran away, away...}
-{105}{}{When danger reared its ugly head, he bravely turned his tail and fled...}
-{106}{}{Yes, Brave Sir Robin turned about...}
-{107}{}{And gallantly he chickened out. Bravely taking to his feet...}
-{108}{}{He beat a very brave retreat...}
-{109}{}{Oh, Brave Sir Robin.}
+{100}{}{Você vê um homem dedilhando um alaúde.}
+{101}{}{Este é Joshua.}
+{102}{}{Ele é um viajante trovador.}
+{103}{}{Bravo Sir Robin fugiu...}
+{104}{}{Bravamente correu para longe, para longe...}
+{105}{}{Quando em perigo a sua cara feia, ele bravamente virou-se de sua cauda, e fugiu...}
+{106}{}{Sim, Bravo Sir Robin virou-se sobre...}
+{107}{}{E galantemente ele se acovardou. Bravamente tendo a seus pés...}
+{108}{}{Ele bateu muito corajoso retiro...}
+{109}{}{Oh, Bravo Sir Robin.}

@@ -1,1 +1,1 @@
-{100}{}{You receive a dose of radiation.}
+{100}{}{Você recebe uma dose de radiação.}

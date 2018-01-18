@@ -2,7 +2,7 @@
 {101}{}{You see Madame Modjeska.}
 {102}{}{I want to be alone.}
 {103}{}{Please just go away.}
-{104}{}{Don't bother me.}
+{104}{}{Não me incomode.}
 {105}{}{Please leave me.}
 {106}{}{I have no tolerance for the simple.}
 {107}{}{Most of the rabble are just working to get enough Jet. They need something to take their minds

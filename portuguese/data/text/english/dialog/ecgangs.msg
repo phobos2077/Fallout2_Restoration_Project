@@ -1,9 +1,10 @@
-{100}{}{Get off our turf!}
-{101}{}{You're on the wrong side of the tracks, fella.}
-{102}{}{This is gonna hurt.}
-{103}{}{Whatcha' doing in my hood?}
-{104}{}{You ever had a knuckle sandwich?}
+{100}{}{Desça nosso relvado!}
+{101}{}{Você está no lado errado dos trilhos, cara.}
+{102}{}{Isso vai doer.}
+{103}{}{O que está fazendo no meu capuz?}
+{104}{}{Você já teve um sanduíche de juncos?}
 {105}{}{Scram!}
-{106}{}{You'll regret this!}
-{107}{}{Tough cookie!}
-{108}{}{Next time.}
+{106}{}{Você vai se arrepender!}
+{107}{}{Biscoito Duro!
+}
+{108}{}{A próxima vez.}

@@ -8,7 +8,7 @@
  is. Let's trade.}
 {106}{}{[Troca]}
 {107}{}{OK, beat it! And you better not tell anyone where my claim is.}
-{108}{}{[End]}
+{108}{}{[Fim]}
 {109}{}{I think you better keep moving.}
 {110}{}{We have nothing more to talk about.}
 {111}{}{On your way!}

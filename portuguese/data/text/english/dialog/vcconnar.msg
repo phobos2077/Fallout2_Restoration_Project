@@ -113,7 +113,7 @@
 {312}{}{No deal. It's a dangerous world out there and I need all the guns I can get my hands on. Goodbye.}
 {400}{}{Thanks friend. With these weapons we stand a chance!}
 {401}{}{Welcome back. Thanks to you we were successful in pushing back the Vault City patrol. They won't be bothering us anymore.}
-{500}{}{Don't bother me.}
+{500}{}{Não me incomode.}
 {600}{}{What was the name of your contact in Vault City again?}
 {601}{}{Old Joe. As the name implies, he's a real old fella. You'll either find him in the courtyard bar or wandering nearby.}
 {602}{}{Alright, thanks.}

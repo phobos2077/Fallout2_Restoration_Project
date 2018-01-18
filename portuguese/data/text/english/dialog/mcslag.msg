@@ -18,5 +18,5 @@
 {253}{}{What's the sun look like?}
 {254}{}{Hello, surfacer.}
 {300}{}{I knew we could trust you.}
-{301}{}{Thank you for helping us.}
+{301}{}{Obrigado por nos ajudar.}
 {302}{}{Bom ver você de novo.}
