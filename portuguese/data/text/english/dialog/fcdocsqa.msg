@@ -11,7 +11,7 @@
 {110}{}{We'll be moving on sometime, I'm sure.}
 {111}{}{You like our homes?}
 {112}{}{I love living on the beach.}
-{113}{}{Please don't hurt me!}
+{113}{}{Por favor, não me faça mal!}
 {114}{}{No! Don't hurt me!}
 {115}{}{Leave my children alone!}
 {116}{}{Stop! Don't hurt us!}

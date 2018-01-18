@@ -1,9 +1,9 @@
-{100}{}{This is our territory.}
-{101}{}{You're not wanted here.}
-{102}{}{I think you need to pay a toll.}
-{103}{}{We don't usually scavenge off the living.}
-{104}{}{That's some nice stuff you have there.}
+{100}{}{Este é o nosso território.}
+{101}{}{Você não é procurado aqui.}
+{102}{}{Eu acho que você precisa pagar um pedágio.}
+{103}{}{Nós geralmente não recuperamos a vida.}
+{104}{}{São algumas coisas legais que você tem lá.}
 {105}{}{Você vai pagar por isso.}
 {106}{}{A próxima vez.}
-{107}{}{Running's a bitch!}
-{108}{}{You get to keep your stuff...this time.}
+{107}{}{A corrida é uma cadela!}
+{108}{}{Você consegue manter suas coisas ... desta vez.}

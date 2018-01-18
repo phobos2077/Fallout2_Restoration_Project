@@ -1,16 +1,16 @@
-{100}{}{You see a pathetic looking spammer.}
-{110}{}{You see absolutely nothing of interest.}
-{120}{}{Will there be a Mac version?}
-{121}{}{I want multi-player!}
-{122}{}{I hate you all!}
+{100}{}{Você vê um spammer com aspecto patético.}
+{110}{}{Você vê absolutamente nada de interesse.}
+{120}{}{Será que vai haver uma versão para Mac?}
+{121}{}{Eu quero multi-jogador!}
+{122}{}{Eu odeio todos vocês!}
 {123}{}{Ahhh!}
-{124}{}{You can't hurt me!}
-{125}{}{I'm the Grim Reaper, you can't kill me. Aren't I funny.}
-{126}{}{I want a tank!}
-{127}{}{Where's my chainsaw?}
+{124}{}{Você não pode me machucar!}
+{125}{}{Eu sou o Grim Reaper, você não pode me matar. Não sou engraçado.}
+{126}{}{Eu quero um tanque!}
+{127}{}{Onde está a minha moto-serra?}
 {128}{}{Não me machucar.}
-{129}{}{I didn't mean to be such a jerk.}
-{130}{}{I didn't mean those death threats.}
-{131}{}{I'm sorry Buffy!}
-{132}{}{I'm sorry Unwashed! I just wanted to be noticed.}
-{133}{}{I want an on-line version!}
+{129}{}{Eu não quero ser um idiota.}
+{130}{}{Eu não queria dizer aquelas ameaças de morte.}
+{131}{}{Me desculpe, Buffy!}
+{132}{}{Sinto muito Sujo! Eu só queria ser notado.}
+{133}{}{Eu quero uma versão on-line!}

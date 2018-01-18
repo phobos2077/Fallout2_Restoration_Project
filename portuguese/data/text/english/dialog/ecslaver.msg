@@ -1,13 +1,14 @@
-{100}{}{These will fetch a good price at market.}
-{101}{}{Try not to damage the merchandise.}
-{102}{}{You'll make a spirited slave.}
-{103}{}{This is not good.}
-{104}{}{Retreat!}
-{105}{}{Maybe I'll sell furniture instead.}
-{106}{}{Fellow slavers should not attack one another.}
-{107}{}{The guild will hear of this!}
+{100}{}{Estes vão buscar um bom preço no mercado.}
+{101}{}{Tente não danificar a mercadoria.}
+{102}{}{Você fará um escravo espirituoso.}
+{103}{}{Isso não é bom.}
+{104}{}{Retiro!}
+{105}{}{Talvez eu vou vender móveis em vez disso.}
+{106}{}{Os companheiros escravistas não devem atacar uns aos outros.}
+{107}{}{A guilda ouvirá sobre isso!}
 {108}{}{O que você está fazendo?}
-{109}{}{Any luck?}
-{110}{}{Find any good slaves?}
-{111}{}{We're looking for new stock.}
-{112}{}{This is our territory.}
+{109}{}{Alguma sorte?
+}
+{110}{}{Encontrou qualquer bom escravos?}
+{111}{}{Estamos à procura de novas ações.}
+{112}{}{Este é o nosso território.}

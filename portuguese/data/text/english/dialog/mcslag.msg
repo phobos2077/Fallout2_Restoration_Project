@@ -4,7 +4,7 @@
 {103}{}{Leave us in peace.}
 {104}{}{Can't we all just get along?}
 {150}{}{Go back where you came from.}
-{151}{}{You're not wanted here.}
+{151}{}{Você não é procurado aqui.}
 {152}{}{All you surfacers are alike.}
 {153}{}{You will not escape.}
 {200}{}{Groan!}

@@ -40,30 +40,30 @@
 {151}{}{Alil mais alto. Oh, sim.}
 {152}{}{Você está pronto ... fique com isso?}
 {153}{}{Naw..naw..naw..naw nuh naw.}
-{154}{}{Watch like this. Yeah.}
-{155}{}{Na't now go away.}
-{156}{}{Lemme be drunk over here.}
-{157}{}{Go get jiggy ..somewhere else.}
-{158}{}{How about you and me get away from the crowd?}
-{159}{}{Uhh, let's do it!}
-{160}{}{Naa, I'm drunk.}
-{161}{}{[Burb] ::smile::}
-{170}{}{Hey, you want to go behind that bush?}
-{171}{}{You ever been high and done it?}
-{172}{}{I could show you the stars, baby.}
-{173}{}{You know I want some lovin'.}
-{174}{}{I was hoping to run into someone who was ready to go.}
-{175}{}{That was enough for me.}
-{176}{}{Hey, you got a cigarette?}
-{177}{}{Hey, now don't get too attached -- I like my freedom.}
-{178}{}{You're as sleek as a panther and I want you.}
+{154}{}{Assista assim. Sim.}
+{155}{}{Na não agora vá embora.}
+{156}{}{Seja bebido por aqui.}
+{157}{}{Vá buscar o jiggy ..em outro lugar.}
+{158}{}{Que tal você e eu nos afastarmos da multidão?}
+{159}{}{Uhh, vamos fazê-lo!}
+{160}{}{Naa, eu estou bêbado.}
+{161}{}{[Burb] ::sorriso::}
+{170}{}{Ei, você quer ir atrás desse mato?}
+{171}{}{Você já esteve em alta e fez isto?}
+{172}{}{Eu poderia lhe mostrar as estrelas, bebê.}
+{173}{}{Você sabe que eu quero um pouco de amor'.}
+{174}{}{Eu estava esperando encontrar alguém que estava pronto para ir.}
+{175}{}{Isso foi o suficiente para mim.}
+{176}{}{Ei, você tem um cigarro?}
+{177}{}{Hey, agora não fique muito ligado -- eu gosto da minha liberdade.}
+{178}{}{Você é tão elegante como uma pantera e eu quero você.}
 {179}{}{Você está pronto?}
-{180}{}{Not now; I gotta shoot up.}
-{181}{}{Man the hatches. We're goin' in.}
-{200}{}{Don't be a jerk!}
-{201}{}{Go party elsewhere.}
-{202}{}{Who let you in?}
-{203}{}{This is not cool!}
-{204}{}{Chill dude.}
-{205}{}{Relax man!}
+{180}{}{Agora não; Tenho que disparar.}
+{181}{}{Sirva as escotilhas. Nós estamos entrando.}
+{200}{}{Não seja um idiota!}
+{201}{}{Ir de festa em outro lugar.}
+{202}{}{Quem deixou você?}
+{203}{}{Isso não é legal!}
+{204}{}{Cara frio.}
+{205}{}{Relaxa cara!}
 {210}{}{Parece que ele está avaliando algumas de suas próprias mercadorias.}

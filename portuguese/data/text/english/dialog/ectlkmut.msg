@@ -1,7 +1,7 @@
-{100}{}{Want hear new recipe?}
-{101}{}{What kind?}
-{102}{}{Rat surprise.}
-{103}{}{Sound good. How me make?}
+{100}{}{Quer ouvir nova receita?}
+{101}{}{De que tipo?}
+{102}{}{Rato surpresa.}
+{103}{}{Parece bom. Como eu faço?}
 {104}{}{Catch rat. Careful no squish too much.}
 {105}{}{How no squish? Every time I club them, they pop. Very messy.}
 {106}{}{You want hear recipe or not? Catch rat your problem.}

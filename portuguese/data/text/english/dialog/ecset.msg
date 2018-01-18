@@ -1,17 +1,17 @@
-{100}{}{You see...Set.}
-{101}{}{You see a decaying ghoul with machine parts sticking out of his head. It's hard to tell whether
- he's senile or not.}
-{102}{}{You see Set. He is talking to himself.}
-{103}{}{You see Set. He is talking to himself.}
+{100}{}{Você vê...Set.}
+{101}{}{Você vê um decadente ghoul com partes da máquina que saía da sua cabeça. É difícil dizer se
+ele está senil ou não.}
+{102}{}{Você vê Set. Ele está falando consigo mesmo.}
+{103}{}{Você vê Set. Ele está falando consigo mesmo.}
 {104}{}{"Dirtnap!"}
 {105}{}{"Dirtnap!"}
-{106}{}{"Dirtnap...Makes my shadow GROW."}
+{106}{}{"Dirtnap...Faz a minha sombra CRESCER."}
 {107}{}{Heh-heh.}
 {108}{}{Dirt.}
 {109}{}{Nap.}
 {110}{}{Dirtnap!}
-{111}{}{Heh-heh. I ruuule Necropolis.}
-{112}{}{Normies. Everywhere, normies.}
-{113}{}{Name's Set. Yours is World-a-hurt.}
-{114}{}{Chuckle-chuckle.}
+{111}{}{Heh heh. Eu ordeno a Necrópole.}
+{112}{}{Normies. Em todos os lugares, normies.}
+{113}{}{Nome é Set. O seu Mundo é-um-ferido.}
+{114}{}{Rir-rir.}
 {115}{}{Nap. Dirt. Napdirt!}

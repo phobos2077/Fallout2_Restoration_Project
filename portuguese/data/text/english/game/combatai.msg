@@ -1151,7 +1151,7 @@
 {2864}{}{}
 {2865}{}{}
 {2900}{}{Flee! Flee!}
-{2901}{}{Retreat!}
+{2901}{}{Retiro!}
 {2902}{}{Regroup!}
 {2903}{}{Fall back!}
 {2904}{}{Withdraw!}
@@ -1391,7 +1391,7 @@
 {10158}{}{ZZzzzzzzzttt! Sprack!}
 {10159}{}{But the M-5 is invincible.}
 {12000}{}{No way am I staying in this clusterfuck...}
-{12001}{}{Retreat!}
+{12001}{}{Retiro!}
 {12002}{}{Time to get the hell outta Dodge...}
 {12003}{}{Scatter!}
 {12004}{}{Fall back!}
@@ -1739,7 +1739,7 @@
 {18176}{}{Weak...}
 {18177}{}{Slow...}
 {26000}{}{Flee! Flee!}
-{26001}{}{Retreat!}
+{26001}{}{Retiro!}
 {26002}{}{Regroup!}
 {26003}{}{Fall back!}
 {26004}{}{Withdraw!}
@@ -1762,7 +1762,7 @@
 {26049}{}{I'm gonna loot your corpse!}
 {26050}{}{Drill the scraggin' bastard!}
 {26100}{}{Khans! Cover me!}
-{26101}{}{Retreat!}
+{26101}{}{Retiro!}
 {26102}{}{Regroup!}
 {26103}{}{Fall back!}
 {26104}{}{Withdraw!}
@@ -3451,7 +3451,7 @@
 {44894}{}{Crotch shot... good thing I'm not human!}
 {44900}{}{Time to bail!}
 {44901}{}{I'm leaving!}
-{44902}{}{Retreat!}
+{44902}{}{Retiro!}
 {44903}{}{Fall back!}
 {44904}{}{Eu estou fora daqui!}
 {44905}{}{Feet don't fail me now!}

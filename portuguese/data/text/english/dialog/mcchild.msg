@@ -14,7 +14,7 @@
 {159}{}{I'm not afraid of you!}
 {160}{}{Help meee!}
 {161}{}{It's after me!}
-{162}{}{Please don't hurt me!}
+{162}{}{Por favor, não me faça mal!}
 {163}{}{Stay away from me!}
 {164}{}{Eeeeeeeee!}
 {165}{}{I hate you!}

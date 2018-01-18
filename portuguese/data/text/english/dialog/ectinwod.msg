@@ -1,7 +1,7 @@
-{100}{}{You see a man in some type of armor.}
-{101}{}{You see a man in some type of armor.}
-{102}{}{His armor seems to be quite rusty.}
-{103}{}{Oil can.}
-{104}{}{Thanks a lot. You have no idea how long I have been stuck here. Well, take this for your trouble. I have to go.}
-{105}{}{Uhh, thanks.}
-{106}{}{Sorry, gotta run. I'll see you some other time.}
+{100}{}{Você vê um homem em algum tipo de armadura.}
+{101}{}{Você vê um homem em algum tipo de armadura.}
+{102}{}{Sua armadura parece ser bastante enferrujada.}
+{103}{}{Lata de óleo.}
+{104}{}{Muito obrigado. Você não tem idéia de quanto tempo eu tenho sido preso aqui. Bem, leve isso para o seu problema. Eu tenho que ir.}
+{105}{}{Uhh, obrigado.}
+{106}{}{Desculpe, tenho que ir. Vejo você mais uma vez.}

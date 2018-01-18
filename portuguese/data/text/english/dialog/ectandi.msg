@@ -1,16 +1,16 @@
-{100}{}{You see...Tandi.}
-{101}{}{You see a cute, raven-haired girl with a winsome expression. She is gazing dreamily into the
- distance.}
-{102}{}{You see Tandi. She is gazing dreamily into the distance.}
-{103}{}{You see Tandi. She is gazing dreamily into the distance.}
-{104}{}{Hi! So you're a descendent of the Fallout 1 hero? Wow! I'm Tandi! Hi!}
-{105}{}{I didn't want to just blurt it out, but your grandfather sure was cute! *Sigh*}
-{106}{}{Ian? I think he's still in Fallout 2 somewhere. Vault City, maybe?}
-{107}{}{Actually, I hear *I'm* in Fallout 2 somewhere. I don't want to go find me, though...might creep
- us both out.}
-{108}{}{Sorry I didn't have better combat skills in Fallout 1. I guess I didn't get out much.}
-{109}{}{Say...do you and Tycho still keep in touch?}
-{110}{}{So there was this bug when you rescued me from the raiders and brought me back to Dad, he'd go
- ballistic. Gosh, that sucked!}
-{111}{}{I'd join you, but I'm waiting for my Dad, Aradesh, to show up. He was supposed to join me a few
- revisions ago.}
+{100}{}{Você vê...Tandi.}
+{101}{}{Você vê uma garota linda, de cabelos curtos, com uma expressão maravilhosa. Ela está olhando sonhadoramente para a
+  distância.}
+{102}{}{Você vê Tandi. Ela está olhando com ar sonhador na distância.}
+{103}{}{Você vê Tandi. Ela está olhando com ar sonhador na distância.}
+{104}{}{Oi! Então você é um descendente do herói de Fallout 1? Uau! Eu sou Tandi! Oi!}
+{105}{}{Eu não quero apenas deixar escapar para fora, mas seu avô com certeza foi bonito! *Suspiro*}
+{106}{}{Ian? Eu acho que ele ainda está em Fallout 2 em algum lugar. Vault City, talvez?}
+{107}{}{Na verdade, eu ouço * Estou * em Fallout 2 em algum lugar. Eu não quero ir me encontrar, no entanto ... pode arrasar
+  nós dois.}
+{108}{}{Desculpe eu não ter melhores habilidades de combate em Fallout 1. Eu acho que eu não sai muito.}
+{109}{}{Diga ... você e Tycho continuam em contato?}
+{110}{}{Então, houve esse erro quando você me salvou de saqueadores, e me trouxe de volta para o Pai, ele iria
+balísticos. Caramba, que chupada!}
+{111}{}{Eu me juntaria a você, mas estou esperando meu pai, Aradesh, para aparecer. Ele deveria se juntar a mim alguns
+  revisões atrás.}

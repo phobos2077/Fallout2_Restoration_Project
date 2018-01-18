@@ -60,7 +60,7 @@
 {203}{}{I think things are finally starting to go our way.}
 {204}{}{Get away from me, scumbag.}
 {205}{}{I don’t associate with your kind.}
-{206}{}{Who let you in?}
+{206}{}{Quem deixou você?}
 {207}{}{I don’t know why they don’t run you out of town.}
 {208}{}{Please leave me alone.}
 {209}{}{Não me incomode.}

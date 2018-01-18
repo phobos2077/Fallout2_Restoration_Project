@@ -1,20 +1,20 @@
-{100}{}{You see...a red-haired heroine model.}
-{101}{}{You see a strikingly attractive red-haired woman in a Vault 13 jumpsuit. She is glaring angrily
- into the distance.}
-{102}{}{You see a red-haired heroine model. She is glaring into the distance.}
-{103}{}{You see a red-haired heroine model. She is glaring into the distance.}
-{104}{}{I can't believe I didn't make the final cut in Fallout 1.}
-{105}{}{They chose that black-haired *strumpet* instead. Of all the nerve!}
-{106}{}{A *black-haired* female model. Can you get any more generic? BOR-ing.}
-{107}{}{Redheads are infinitely more interesting.}
-{108}{}{That black-haired female model got in only because she slept with *every* artist on the team.}
-{109}{}{AND the programmers.}
-{110}{}{AND the project leader. They're soooo easily swayed. Show a little skin, and their spines turns to
- rubber.}
-{111}{}{So I get shafted and end up being "filler NPCs" in Vault 13. Keee-rist. Talk about typecasting.}
-{112}{}{I'm surprised they rendered that black-haired female model with any clothes.}
-{113}{}{I mean, it's not like she was IN them very much during the screening process.}
+{100}{}{Você vê...uma ruiva heroína modelo.}
+{101}{}{Você vê uma mulher de cabelos ruivos surpreendente e atraente em um macacão Vault 13. Ela está furiosa com raiva
+  Na distância.}
+{102}{}{Você vê um modelo de heroína ruiva. Ela está olhando para a distância.}
+{103}{}{Você vê um modelo de heroína ruiva. Ela está olhando para a distância.}
+{104}{}{Não posso acreditar que não fiz o corte final no Fallout 1.}
+{105}{}{Eles escolheram esse * strumpet de cabelo preto * em vez disso. De todo o nervo!}
+{106}{}{A * modelo feminino de cabelo preto *. Você pode obter mais genéricos? Chato.}
+{107}{}{Ruivos são infinitamente mais interessantes.}
+{108}{}{Esse modelo feminino de cabelos negros entrou apenas porque dormiu com * cada * artista na equipe.}
+{109}{}{E os programadores.}
+{110}{}{E o líder do projeto. Eles são tão facilmente balançados. Mostre um pouco de pele, e suas espinhas se voltam para
+  borracha.}
+{111}{}{Então, eu vim e acabo sendo "NPCs de preenchimento" no Vault 13. Keee-Rist. Fale sobre falsificação.}
+{112}{}{Estou surpresa que eles renderam aquele modelo feminino de cabelos negros com qualquer roupa.}
+{113}{}{Quero dizer, não é como se estivesse neles muito durante o processo de triagem.}
 {114}{}{*Suspiro*}
-{115}{}{I hate men.}
-{116}{}{Well, except for that dreamy Scotty Everts.}
-{117}{}{I think he stuck up for me. I only had to sleep with him a few times for him to vote for me.}
+{115}{}{Eu odeio os homens.}
+{116}{}{Bem, exceto por esse sonhador Scotty Everts.}
+{117}{}{Eu acho que ele pegou para mim. Eu só tive que dormir com ele poucas vezes para ele votar por mim.}
