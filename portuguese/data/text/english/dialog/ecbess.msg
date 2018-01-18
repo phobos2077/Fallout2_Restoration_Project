@@ -1,2 +1,2 @@
-{100}{}{Oh my God, it's Bess!}
-{101}{}{This brahmin looks vaguely familiar.}
+{100}{}{Oh, meu Deus, é Bess!}
+{101}{}{Este brahmin parece vagamente familiar.}

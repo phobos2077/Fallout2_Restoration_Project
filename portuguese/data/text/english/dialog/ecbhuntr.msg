@@ -1,9 +1,10 @@
-{100}{}{You see a bounty hunter.}
-{101}{}{You are going to die.}
-{102}{}{So, you're the one marked for death.}
-{103}{}{You should learn better manners.}
-{104}{}{I am going to bring you back in a body bag.}
-{105}{}{Die, you scum!}
-{106}{}{Screw this - they can keep the bounty.}
-{107}{}{I'm outta here.}
-{108}{}{The job isn't worth this.}
+{100}{}{Você vê um caçador de recompensas.}
+{101}{}{Você vai morrer.}
+{102}{}{Então, você está marcado para morrer.}
+{103}{}{Você deve aprender melhores maneiras.}
+{104}{}{Eu vou trazer você de volta em um saco de corpo.}
+{105}{}{Morra, escória!}
+{106}{}{Dane-se isso - eles podem manter a recompensa.}
+{107}{}{Estou fora daqui.
+}
+{108}{}{O trabalho não vale a pena isso.}

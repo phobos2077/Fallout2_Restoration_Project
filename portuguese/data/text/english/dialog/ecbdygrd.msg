@@ -1,10 +1,11 @@
-{100}{}{You see a huge brick of a man.}
-{101}{}{You see a huge brick of a man.}
-{102}{}{He is a giant of a man and probably eats people like you for breakfast.}
-{103}{}{Old man, you WILL come with us.}
-{104}{}{Leave us alone. I will never support the cause of your superiors.}
-{105}{}{I will not ask you again. Come now, or you will be made an example of.}
-{106}{}{I would rather what knowledge I have disappear with me into the grave.}
-{107}{}{So be it. Kill them all.}
-{108}{}{This is none of your affair. Turn around and walk away.}
-{109}{}{You seem to find some people in the wrong place at the wrong time.}
+{100}{}{Você vê um enorme tijolo de um homem.}
+{101}{}{Você vê um enorme tijolo de um homem.}
+{102}{}{Ele é um gigante de um homem e provavelmente come pessoas como você para o café da manhã.}
+{103}{}{Velho, você VAI vir com a gente.}
+{104}{}{Nos deixe em paz. Nunca apoiarei a causa de seus superiores.}
+{105}{}{Eu não vou perguntar de novo. Venha agora, ou você vai ser feito um exemplo.}
+{106}{}{Prefiro que o conhecimento eu tenha desapareça comigo no túmulo.}
+{107}{}{Que assim seja. Mate todos.
+}
+{108}{}{Este não é seu caso. Vire-se e vá embora.}
+{109}{}{Você parece encontrar algumas pessoas no lugar errado na hora errada.}

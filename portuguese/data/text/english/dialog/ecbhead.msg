@@ -1,68 +1,70 @@
-{100}{}{You see a large stone monument that appears to be...mumbling to itself?}
-{101}{}{You see a stone monument of the Vault Dweller's head. It's a pretty flattering likeness, though
- you doubt the Vault Dweller's head was actually that size.}
-{102}{}{You see a large stone monument.}
-{103}{}{You see a stone monument of the Vault Dweller's head. It's a pretty flattering likeness, though
- you doubt the Vault Dweller's head was actually that size.}
-{104}{}{Damn tourists...}
-{105}{}{"I'm the Chosen One." What crapola.}
-{106}{}{If I were you, "Chosen One," I'd get out of here.}
+{100}{}{Você vê um grande monumento de pedra, que parece estar...murmurando para si mesmo?}
+{101}{}{Você vê um monumento de pedra da cabeça do Morador do Vault. É uma semelhança bastante lisonjeira, porém
+  Você duvida que a cabeça do Morador da Vault fosse na verdade desse tamanho.}
+{102}{}{Você vê um grande monumento de pedra.}
+{103}{}{Você vê um monumento de pedra da cabeça do Morador do Vault. É uma semelhança bastante lisonjeira, porém
+  Você duvida que a cabeça do Morador da Vault fosse na verdade desse tamanho.}
+{104}{}{Porra turistas...}
+{105}{}{"Eu sou o escolhido". Que crápula. }
+{106}{}{Se eu fosse você, "Escolhido," eu saía daqui.}
 {107}{}{Zzzzzz Snzzzzz Zzzzzzzzzz}
 {108}{}{ZZZZZZZzzzzzzzz}
 {109}{}{Zsnzzz...*snort*...zzzzsZZZZZ}
 {110}{}{Zzssnnnnnzzzzz}
 {111}{}{ZZZZzzzzzZZZZZ}
-{112}{}{I wish I could see what's behind me.}
-{113}{}{If only someone would come along and dig the rest of me up...}
-{114}{}{I'm sure those stone-eating ants will be along at any moment to devour me.}
-{115}{}{"Be a big stone head! See the world!" What hogwash.}
-{116}{}{It is a mystery to me how I ended up out here in the desert.}
-{117}{}{I still don't see why I have to sit out here in the desert, while that other head gets to hang
- out at the village.}
-{118}{}{I mean, he gets worshipped and cleaned and prayed to...all I get is to look at sand all day.}
-{119}{}{I hear those guys at Easter Island have it pretty good.}
-{120}{}{I bet Stonehenge gets more visitors than me.}
-{121}{}{Hrnnfff...uh-uh, Mom...therez no school today...Zsnzzzzz}
-{122}{}{Zzzsnnnzzzz...I don wanna get up yet....Zzznnsss}
-{123}{}{Zzsssccs...eh?}
+{112}{}{Eu queria ver o que está por trás de mim.}
+{113}{}{Se alguém viesse e cavasse o resto de mim ...}
+{114}{}{Tenho certeza de que essas formigas comendo pedras estarão a qualquer momento para me devorar.}
+{115}{}{"Seja uma grande cabeça de pedra! Veja o mundo!" O que acontece com a culpa.}
+{116}{}{É um mistério para mim como eu acabei aqui no deserto.}
+{117}{}{Ainda não vejo por que tenho que me sentar aqui no deserto, enquanto essa outra cabeça fica pendurada
+  na aldeia.}
+{118}{}{Quero dizer, ele é adorado e limpo e rezam ... tudo o que consigo é olhar a areia o dia todo.}
+{119}{}{Eu ouço esses caras na Ilha de Páscoa que são muito bons.}
+{120}{}{Eu aposto que Stonehenge recebe mais visitantes do que a mim.}
+{121}{}{Hrdf ... uh-uh, mãe ... não há escola hoje ... Zzzzzzzz}
+{122}{}{Zzzzzzz ... Eu não quero me levantar ainda ... Zzz Sss}
+{123}{}{Zzsssccs...hein?}
 {124}{}{Wha--?}
-{125}{}{GET YOUR DAMN HANDS OFFA ME!}
-{126}{}{Player should turn around, take a few steps back, then turn back around and face the monument.}
+{125}{}{MANTENHA SUAS MÃOS DANADAS LONGE DE MIM! }
+{126}{}{O jogador deve se virar, dar alguns passos para trás, depois voltar e enfrentar o monumento.}
 {127}{}{*Ahem*}
-{128}{}{WHO DARES APPROACH THE SACRED HEAD OF THE VAULT DWELLER?!}
-{129}{}{It is I, the Chosen One.}
+{128}{}{QUEM SE ATREVE A APROXIMAR-SE DA CABEÇA SAGRADA DO MORADOR DO VAULT?!}
+{129}{}{Sou Eu, o Escolhido.}
 {130}{}{HA HA HA HA HA HA!}
-{131}{}{*YOU*?! THE CHOSEN ONE?!}
-{132}{}{YOU ARE NO BIGGER THAN MY FINGER!}
-{133}{}{YOU ARE *NOT* THE CHOSEN ONE.}
-{134}{}{Yes, I am.}
-{135}{}{NO, YOU'RE NOT.}
-{136}{}{Yes, I am.}
+{131}{}{*VOCÊ*?! O ESCOLHIDO?!
+}
+{132}{}{VOCÊ NÃO É MAIS GRANDE DO QUE MEU DEDO!}
+{133}{}{VOCÊ *NÃO* É O ESCOLHIDO.}
+{134}{}{Sim, eu sou.}
+{135}{}{NÃO, VOCÊ NÃO É.}
+{136}{}{Sim, eu sou.}
 {137}{}{UH-UH.}
 {138}{}{Uh-huh.}
 {139}{}{UH-UH.}
 {140}{}{Uh-huh.}
 {141}{}{UH...UH...}
-{142}{}{Uh...huh...}
-{143}{}{UH...ENOUGH OF THIS!}
-{144}{}{VERY WELL! YOU HAVE PROVEN YOURSELF!}
-{145}{}{YOU *ARE* THE CHOSEN ONE!}
-{146}{}{TAKE THIS!}
-{147}{}{NOW LEAVE ME!}
-{148}{}{Hey, thanks!}
-{149}{}{YEAH, WHATEVER. NOW GET OUTTA HERE.}
-{150}{}{DAMN TOURISTS.}
-{151}{}{I ALREADY GAVE YOU A GIFT.}
-{152}{}{BEGONE!}
-{153}{}{Idiot.}
-{154}{}{WHAT?! STEAL FROM ME, WILL YOU?!}
-{155}{}{DIE!}
-{156}{}{Disintegrate the player with plasma death animation.}
-{200}{}{(12 Hours Later)}
-{1129}{}{Me Chosen One.}
-{1134}{}{Me am too.}
-{1136}{}{Am too!}
+{142}{}{Hum...hum...}
+{143}{}{UH...O SUFICIENTE!}
+{144}{}{MUITO BEM! VOCÊ TEM PROVADO A SI MESMO!}
+{145}{}{VOCÊ *É* O ESCOLHIDO!}
+{146}{}{TOME ISSO!}
+{147}{}{AGORA, POIS, DEIXA-ME!}
+{148}{}{Hey, obrigado!}
+{149}{}{SIM, QUALQUER QUE SEJA. AGORA SAIR DAQUI.}
+{150}{}{PORRA TURISTAS.}
+{151}{}{EU JÁ DEI UM PRESENTE A VOCÊ.}
+{152}{}{VÁ EMBORA!}
+{153}{}{Idiota.}
+{154}{}{ QUE?! ROUBOU DE MIM, VOCÊ VAI?!}
+{155}{}{MORRER!}
+{156}{}{Desintegre o jogador com a animação da morte por plasma.}
+{200}{}{(12 Horas Depois)}
+{1129}{}{Eu Escolhido.}
+{1134}{}{Eu também sou.}
+{1136}{}{Sou também!
+}
 {1138}{}{Uh-huh.}
 {1140}{}{Uh-huh.}
-{1142}{}{Uh...huh...}
+{1142}{}{Hum...hum...}
 {1148}{}{Tankee!}

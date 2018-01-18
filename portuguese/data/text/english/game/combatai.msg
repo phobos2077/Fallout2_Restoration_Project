@@ -855,7 +855,8 @@
 {2209}{}{You won this time.}
 {2210}{}{Next time the luck's going to be on my side.}
 {2211}{}{Better to live again to fight another day.}
-{2212}{}{I'm outta here.}
+{2212}{}{Estou fora daqui.
+}
 {2213}{}{You're not worth the trouble.}
 {2214}{}{Shit, I didn't think you'd be so much work.}
 {2215}{}{Crap, time to scram.}
@@ -1848,7 +1849,7 @@
 {32160}{}{Only a coward uses weapons.}
 {32161}{}{Are you afraid to face a real fighter?}
 {32162}{}{Your kung fu is no good here.}
-{32163}{}{Surrender!}
+{32163}{}{Render!}
 {32164}{}{You call that fighting?}
 {32165}{}{You move like a pregnant yak.}
 {32200}{}{I'm looking for a green-eyed girl... goodbye!}

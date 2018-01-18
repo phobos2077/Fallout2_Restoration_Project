@@ -11,7 +11,7 @@
 {222}{}{Nope. I'll be on my way now.}
 {230}{}{[He furrows his brow.] Village? Not sure what your--oh! Are you talking about that rat infested little shit-hole down the way?}
 {231}{}{Uh, maybe.}
-{232}{}{Yes, I am.}
+{232}{}{Sim, eu sou.}
 {233}{}{It's not a shit-hole. They're a struggling community that's making some real progress.}
 {240}{}{Look, I already met with them, and I'm going to tell you the same thing I told them. They're simply too small for me to bother with. Besides, that place is fetid as all hell.}
 {241}{}{Alright. I gave it a shot. Bye.}

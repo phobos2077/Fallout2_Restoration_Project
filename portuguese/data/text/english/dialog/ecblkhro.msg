@@ -1,9 +1,9 @@
-{100}{}{You see...a black hero model.}
-{101}{}{You see a heavily muscled black man in a Vault 13 jumpsuit. He is glaring at you resentfully.}
-{102}{}{You see a black hero model. He is glaring at you resentfully.}
-{103}{}{You see a black hero model. He is glaring at you resentfully.}
-{104}{}{I was originally one of the hero models for Fallout 1.}
-{105}{}{Of course, *I* didn't make the final cut.}
+{100}{}{Você vê ... um modelo de herói preto.}
+{101}{}{Você vê um homem preto pesadamente musculoso em um macacão Vault 13. Ele está olhando para você com ressentimento.}
+{102}{}{Você vê um modelo de herói preto. Ele está olhando para você com ressentimento.}
+{103}{}{Você vê um modelo de herói preto. Ele está olhando para você com ressentimento.}
+{104}{}{Eu era originalmente um dos modelos heróis de Fallout 1.}
+{105}{}{É claro que, *eu* não fiz o corte final.}
 {106}{}{They claimed it was 'too much animation.' 'Too many frames,' they said.}
 {107}{}{I'm black. *You* figure it out.}
 {108}{}{Every time you think you're getting ahead, whitey changes the rules.}

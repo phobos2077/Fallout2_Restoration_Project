@@ -1101,7 +1101,7 @@
 {32160}{}{Only a coward uses weapons.}
 {32161}{}{Are you afraid to face a real fighter?}
 {32162}{}{Your kung fu is no good here.}
-{32163}{}{Surrender!}
+{32163}{}{Render!}
 {32164}{}{You call that fighting?}
 {32165}{}{You move like a pregnant yak.}
 {32200}{}{I'm looking for a green-eyed girl... goodbye!}

@@ -1,56 +1,55 @@
 {100}{}{Um homem em armadura de energia.}
 {101}{}{Arthur, filho de Uther Pendragon.}
-{102}{}{His fly is down.}
-{103}{}{Hail, travelers. My name is Arthur, son of Uther Pendragon, from the Brotherhood of Steel. We
- are on quest for the Holy Hand Grenade of Antioch. Hast thou seen it?}
-{104}{}{Holy what of who?}
-{105}{}{Player Response}
-{106}{}{Unga.}
-{107}{}{No time to talk. We're on quest.}
-{108}{}{We seek the Holy Hand Grenade of Antioch.}
-{109}{}{For the Brotherhood of Steel!}
-{110}{}{Hmm...African or European swallow?}
-{111}{}{Hey now! That's not yours, is it?}
-{112}{}{I'm warning you. Keep your hands to yourself.}
-{113}{}{That's it. Enough is enough.}
-{114}{}{The Holy Hand Grenade of Antioch? Why, 'tis only the greatest hand held, anti-personnel weapon
- of its kind.}
-{115}{}{Why do you search for such a terrible weapon?}
-{116}{}{We of the Brotherhood of Steel seek to find this most devastating weapon of our ancestors, and
- secure it from those who would abuse the power of the Holy Hand Grenade of Antioch.}
+{102}{}{Seu vôo é baixo.}
+{103}{}{Salve, viajantes. Meu nome é Arthur, filho de Uther Pendragon, da Brotherhood of Steel. Nós
+  estão em busca da Granada de mão sagrada de Antioquia. Você viu isso?}
+{104}{}{Santo o que de quem?}
+{105}{}{Resposta do jogador}
+{106}{}{Agnu.}
+{107}{}{Não há tempo para falar. Estamos em busca.}
+{108}{}{Buscamos a Granada de Mão Sagrada de Antioquia.}
+{109}{}{Para a Irmandade do Aço!}
+{110}{}{Hmm ... Andorinha africana ou europeia?}
+{111}{}{Ei agora! Isso não é seu, não é?}
+{112}{}{Eu estou avisando. Mantenha as suas mãos para si mesmo.}
+{113}{}{É isso. O suficiente é suficiente.}
+{114}{}{A Granada de mão sagrada de Antioquia? Por que, é apenas a maior mão, arma anti-pessoal
+  de seu tipo.}
+{115}{}{Por que você procurar por uma arma terrível?}
+{116}{}{Nós da Irmandade do Aço procuramos encontrar esta arma mais devastadora de nossos antepassados, e
+  assegurar daqueles que abusariam do poder da Sagrada Grade Mágica de Antioquia.}
 {117}{}{Por quê?}
-{118}{}{Well...because the Brotherhood of Steel is dedicated to protecting the weak and defenseless, and
- this thing could really hurt someone.}
+{118}{}{Bem...porque a Irmandade do Aço é dedicada a proteger os fracos e indefesos, e essa coisa podia machucar alguém.}
 {119}{}{Por quê?}
-{120}{}{Umm...because it's really the only moral thing to do.}
+{120}{}{Umm ... porque é realmente a única coisa moral a fazer.}
 {121}{}{Por quê?}
-{122}{}{Wha...um...Look now, we're really quite busy. Are you going to help us or not? Have you seen
- the Holy Hand Grenade of Antioch or not?}
+{122}{}{Wha ... um ... Olhe agora, estamos muito ocupados. Você vai nos ajudar ou não? Você viu
+  a Granada de mão sagrada de Antioquia ou não?}
 {123}{}{Sim.}
 {124}{}{Não.}
-{125}{}{Well, why didn't you just say so? If you could just tell us where, we'll be off and you can get
- back to whatever it is you were doing.}
-{126}{}{[You point in a random direction.]}
-{127}{}{Right then. Thank you for your help. Something for your trouble.}
-{128}{}{Wait! I am also on a quest. I seek the holy GECK. Have you seen it?}
-{129}{}{Well then, no sense in continuing this conversation. We're off.}
+{125}{}{Bem, por que você não disse? Se você pudesse nos dizer onde, vamos sair e você pode obter
+  De volta ao que quer que você esteja fazendo.}
+{126}{}{[Você aponta em uma direção aleatória.]}
+{127}{}{Certo então. Obrigado pela ajuda. Algo para o seu problema.}
+{128}{}{Esperar! Eu também estou em uma missão. Procuro o sagrado GECK. Você já viu?}
+{129}{}{Bem, não há sentido em continuar essa conversa. Vamos embora. }
 {130}{}{[FIM]}
-{131}{}{Bloody peasant!}
+{131}{}{Sangrento camponês!}
 {132}{}{[FIM]}
-{133}{}{GECK, you said? Why yes, we have two of them. Don't need another one. Thanks all the same
- though.}
-{134}{}{Since you have two of them, maybe you could give me one.}
-{135}{}{No. No. Couldn't do that. Wouldn't be right to end your quest that easily. There's some more
- of them that way. Go get your own. [He points in a direction about the same way you pointed when you
- told him where the Holy Hand Grenade of Antioch was.]}
+{133}{}{GECK, você disse? Por que sim, nós temos dois deles. Não precisa de outro. Agradece a todos a mesma
+  Apesar.}
+{134}{}{Já que você tem dois deles, talvez você poderia me dar um.}
+{135}{}{Não. Não. Não conseguiria fazer isso. Não seria correto terminar sua busca facilmente. Há mais alguns
+  daquele jeito. Vá buscar o seu próprio. [Ele aponta uma direção da mesma maneira que você apontou quando você
+  disse-lhe onde estava a Granada Mágica de Antioquia.]}
 {136}{}{[FIM]}
-{200}{}{Do you speak the king's tongue?}
+{200}{}{Você fala a língua do rei?}
 {201}{}{Hellooo.}
-{202}{}{Hey, I'm over here.}
-{203}{}{If you could spare a moment of your time.}
+{202}{}{Ei, estou aqui.}
+{203}{}{Se você pudesse poupar um momento do seu tempo.}
 {204}{}{Ahem.}
-{205}{}{Now come on. Don't ignore me.}
-{206}{}{Pleeeease! I need to ask you something important.}
-{207}{}{Well, we must continue our quest for the Hand Grenade of Antioch. Come, Patsy.}
-{300}{}{Our quest has been fulfilled!}
-{301}{}{Arthur, at your service.}
+{205}{}{Agora vamos. Não me ignore.}
+{206}{}{Porfavooooor! Eu preciso perguntar uma coisa importante.}
+{207}{}{Bem, devemos continuar nossa busca pela Granada de Mãos de Antioquia. Venha, Patsy.}
+{300}{}{Nossa missão foi cumprida!}
+{301}{}{Arthur, ao seu serviço.}

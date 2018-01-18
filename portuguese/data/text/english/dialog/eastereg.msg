@@ -47,7 +47,7 @@
 {613}{}{Bestas! Táticas! Bestas!}
 {700}{}{Você vê Chris3ParksO.}
 {701}{}{Um ouro brilhante robô humanóide. Ele parece surpreso.}
-{710}{}{Hi, I'm Chris3ParksO, human-cyborg relations. I am well versed in over 3 million programming languages.}
+{710}{}{Oi, eu sou Chris3ParksO, cyborg de relações humanas. Estou bem versado em mais de 3 milhões de linguagens de programação.}
 {711}{}{Ajudei a estabelecer as bases da Umbra Tribe e da EPA.}
 {712}{}{Este é R2QWERTY: o meu fiel escudeiro. Ele criou novas criaturas e gráficos.}
 {800}{}{Você vê Yosan12.}
@@ -259,8 +259,8 @@
 {2200}{}{Você vê Mikael Grizzly.}
 {2201}{}{Este animal é extremamente peludo.}
 {2210}{}{Olá. Ajudei a trazer o submarino de volta para este mundo.}
-{2211}{}{You like how furry I am? I know I do.}
-{2212}{}{Hope you enjoyed the sub.}
+{2211}{}{Você gosta de como eu estou peludo? Eu sei que eu faço.}
+{2212}{}{Espero que tenha gostado do sub.}
 {2300}{}{Você vê x'il.}
 {2301}{}{Ele olha para você com admiração.}
 {2310}{}{Ajudei muito com aparências de bichos. Espero que você tenha gostado!}

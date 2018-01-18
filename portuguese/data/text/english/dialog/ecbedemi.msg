@@ -1,10 +1,10 @@
-{100}{}{You see a man in power armor.}
-{101}{}{This is Sir Bedemir.}
-{102}{}{He seems to be deep in thought.}
-{103}{}{Sir Bedemir at your service.}
-{104}{}{...and that is how we know that the Earth is banana-shaped.}
-{105}{}{Let me explain how sheep's bladders may be employed to prevent earthquakes.}
-{106}{}{I need some time to think. Please, go bother someone else.}
-{200}{}{Here now! Your hands are ice cold!}
-{201}{}{That doesn't belong to you.}
-{202}{}{Hey, those are my things!}
+{100}{}{Você vê um homem em armadura de energia.}
+{101}{}{Este é Sir Bedemir.}
+{102}{}{Ele parece estar num pensamento profundo.}
+{103}{}{Sir Bedemir ao seu serviço.}
+{104}{}{... e é assim que sabemos que a Terra é em forma de banana.}
+{105}{}{Deixe-me explicar como as bexigas de ovelhas podem ser empregadas para prevenir terremotos.}
+{106}{}{Eu preciso de algum tempo para pensar. Por favor, vá incomodar alguém.}
+{200}{}{Aqui agora! Suas mãos estão geladas!}
+{201}{}{Isso não pertence a você.}
+{202}{}{Ei, essas são as minhas coisas!}

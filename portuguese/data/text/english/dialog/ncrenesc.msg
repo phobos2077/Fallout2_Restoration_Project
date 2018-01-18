@@ -54,7 +54,8 @@
 {293}{}{What do I WANT? I don't really know. Most of the time I ignore my quest and walk into the homes of others,
  riffling through people's shelves...oooh, like those over there!}
 {294}{}{You have an interesting vocabulary…Renesco. Are you from around here?}
-{295}{}{I'm outta here.}
+{295}{}{Estou fora daqui.
+}
 {305}{}{I sell recreational drugs mostly. That's why they gave me that idiotic appellation, 'the Rocketman.' Hmmmph. I
  also sell some caravan supplies. You NEED anything or can I get back to something important?}
 {306}{}{Rocketman, huh? Know the line in that Elton John song, "Rocketman, burning off the mmmncfnfm there at home?' What's

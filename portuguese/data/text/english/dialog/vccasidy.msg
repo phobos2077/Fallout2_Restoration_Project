@@ -110,7 +110,7 @@
 {285}{}{Hmmm. Look, I had some other questions...}
 {286}{}{All right. Thanks for the rundown.}
 {287}{Cas0287}{Aw, don't be playing with ol' Cassidy now. You ain't no tribal.}
-{288}{}{Yes, I am.}
+{288}{}{Sim, eu sou.}
 {289}{}{Whatever. Look, I had some other questions...}
 {290}{}{Forget it. I don't want to get into this with you right now.}
 {291}{Cas0291}{Uh, well...damn it all, you can have my apology right here and now. I didn't mean any offense.}

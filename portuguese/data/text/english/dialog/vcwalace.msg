@@ -19,7 +19,7 @@
 {118}{}{Well, I see I'll have to have to have a talk with the guards in the Courtyard. They seem to be letting just about ANY Outsider into Vault City nowadays. }
 {119}{}{Dayz. Daze? Daiseeee.}
 {120}{}{Shamble off}
-{121}{}{Idiot.}
+{121}{}{Idiota.}
 {122}{}{"Daiseee," you say? How fascinating. Why don't you go back to the Courtyard and tell the rest of your inbred Outsider friends all about it?}
 {123}{}{Okee!}
 {124}{}{Actually, now that I think about it, maybe you better leave your weapons and armor here. Just for the safety of Vault City.}

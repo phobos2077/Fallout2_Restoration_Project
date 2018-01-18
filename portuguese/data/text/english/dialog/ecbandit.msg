@@ -1,22 +1,24 @@
-{100}{}{You see a bandit.}
-{101}{}{You see a marauder.}
-{102}{}{You see a robber.}
-{103}{}{You see a highwayman.}
-{104}{}{You see a rogue.}
-{200}{}{Surrender!}
-{201}{}{Your money or your life.}
-{202}{}{This is a stick up.}
-{203}{}{Give me all your valuables.}
-{204}{}{Don't move! This is a holdup.}
-{205}{}{Put yer hands up.}
-{206}{}{Stick 'em up.}
-{207}{}{Don't panic; this will be over in a minute.}
-{208}{}{Let's see those hands there.}
-{209}{}{Cover me, fellas.}
-{210}{}{Don't make this hard on yourself.}
-{211}{}{Hand over the loot.}
-{212}{}{Get 'em, boys.}
-{213}{}{Kill them all.}
-{214}{}{I promise to make your death quick.}
-{215}{}{Reach for the sky.}
-{216}{}{Don't move.}
+{100}{}{Você vê um bandido.}
+{101}{}{Você vê um demolidor.}
+{102}{}{Você vê um ladrão.}
+{103}{}{Você vê um salteador.}
+{104}{}{Você vê um malandro.}
+{200}{}{Render!}
+{201}{}{Seu dinheiro ou sua vida.}
+{202}{}{Esta é uma vantagem.}
+{203}{}{Dá-me todos os seus bens.}
+{204}{}{Não se mova! Isso é um assalto.}
+{205}{}{Coloque suas mãos para cima.}
+{206}{}{Pegue-os.}
+{207}{}{Não entre em pânico; Isso acabará em um minuto.}
+{208}{}{Vamos ver essas mãos aí.}
+{209}{}{Cubra-me, companheiros.}
+{210}{}{Não faça isso duro consigo mesmo.}
+{211}{}{Entregue o saque. }
+{212}{}{Pegue-os, meninos.}
+{213}{}{Matem todos.
+}
+{214}{}{Eu prometo tornar sua morte rápida.}
+{215}{}{Alcançar os céus.
+}
+{216}{}{Não se mova.}
