@@ -1,7 +1,7 @@
-{100}{}{Do not run.}
-{101}{}{We are your friends.}
-{102}{}{Do not attack.}
-{103}{}{Sucker.}
-{104}{}{Leave us!}
-{105}{}{Unclean!}
+{100}{}{Não executar.}
+{101}{}{Nós somos seus amigos.}
+{102}{}{Não ataque.}
+{103}{}{Idiota.}
+{104}{}{Deixe-nos!}
+{105}{}{Imundo!}
 {106}{}{Vá embora!}

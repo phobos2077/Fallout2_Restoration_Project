@@ -41,8 +41,8 @@
 {138}{}{[Irradiado]}
 {139}{}{[Aleijado]}
 {140}{}{Cure poison,}
-{141}{}{Fix crippled limbs,}
-{142}{}{Healing $}
+{141}{}{Corrija os membros incapacitados,}
+{142}{}{Cura $}
 {143}{}{Infiel!}
 {144}{}{Por que você nos atacar?}
 {145}{}{Eu vou defender a tribo com a minha vida!}
@@ -50,4 +50,4 @@
 {147}{}{Sai!}
 {148}{}{Deixe-nos.}
 {149}{}{Somos uma tribo pacífica.}
-{150}{}{and I will combine the two for you.}
+{150}{}{e eu vou combinar os dois para você.}
