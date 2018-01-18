@@ -2,7 +2,7 @@
 {101}{}{You see Ariel, the widow.}
 {102}{}{You see a short, slender woman wearing a blue velvet sun dress. She appears to be sad.}
 {103}{}{Hello, I'm Ariel. I don't think I've seen you here before. Who are you?}
-{104}{}{Me}
+{104}{}{Eu}
 {105}{}{Uh... you look sad. Why?}
 {106}{}{Eu vou agora.}
 {107}{}{Hello, Ariel, my name is}

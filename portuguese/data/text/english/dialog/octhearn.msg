@@ -13,7 +13,7 @@
 {111}{}{No offense, but just how smart are you?}
 {112}{}{Well, just passing the time.}
 {113}{}{I Thearn. Who you?}
-{114}{}{Me}
+{114}{}{Eu}
 {115}{}{Me leave.}
 {116}{}{Tenho que ir.}
 {117}{}{It's a pleasure to meet you, Thearn. I'm}

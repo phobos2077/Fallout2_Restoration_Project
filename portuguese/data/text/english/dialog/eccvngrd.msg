@@ -1,11 +1,11 @@
 {100}{}{Você vê um guarda.}
-{101}{}{You see one of the guards helping you with this caravan run.}
-{200}{}{You see a caravan driver.}
-{201}{}{You see one of the drivers helping you with this caravan run.}
-{300}{}{I hope we don't get too many more encounters along the way.}
-{301}{}{It'll be good to get that paycheck at the end of the run.}
-{302}{}{I hope they have the bar open for when I get there.}
-{303}{}{It'll be good to get some real food for once.}
-{304}{}{I always wanted to travel. I guess this is the closest thing to it.}
-{305}{}{My feet are killing me. I wish those stupid brahmin would hurry up.}
-{306}{}{I hear that we don't have much further to go on this trip.}
+{101}{}{Você vê um dos guardas ajudando você com esta corrida de caravanas.}
+{200}{}{Você vê um motorista de caravana.}
+{201}{}{Você vê um dos motoristas que o ajudam com esta corrida de caravanas.}
+{300}{}{Espero que não tenhamos muitos mais encontros ao longo do caminho.}
+{301}{}{Será bom obter esse cheque de pagamento no final da corrida.}
+{302}{}{Eu espero que eles tenham um bar aberto para quando eu chegar lá.}
+{303}{}{Vai ser bom ter um pouco de comida de verdade uma vez.}
+{304}{}{Eu sempre quis viajar. Eu acho que isso é a coisa mais próxima disso.	}
+{305}{}{Meus pés estão me matando. Eu queria que aqueles estúpidos brahmin se apressassem.}
+{306}{}{Ouvi dizer que nós não temos muito mais para ir nesta viagem.}

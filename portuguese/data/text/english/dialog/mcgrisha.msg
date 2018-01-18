@@ -15,7 +15,7 @@
 {162}{}{The name's Grisham. Welcome to my slaughterhouse. You dropping off or picking up?}
 {163}{}{I guess picking up? I'm interested in buying some traveling provisions.}
 {164}{}{You wouldn't have happened to have seen a gold watch lying around here somewhere?}
-{165}{}{What can I do for you now?}
+{165}{}{O que eu posso fazer por você agora?}
 {166}{}{I would like to buy some of your famous jerky.}
 {168}{}{Can you tell me a little bit about the slaughterhouse?}
 {169}{}{I see the drought hasn't affected your business yet.}

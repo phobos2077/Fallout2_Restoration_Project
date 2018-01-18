@@ -15,9 +15,9 @@
 {111}{}{I'm just passing through. I'll be on my way.}
 {112}{}{Ug.}
 {113}{}{Well, I guess there's no harm in that. Here's what I got to trade.}
-{114}{}{[Barter]}
+{114}{}{[Troca]}
 {115}{}{OK, now git!}
-{116}{}{[Barter]}
+{116}{}{[Troca]}
 {117}{}{I said git!}
 {118}{}{}
 {119}{}{[He relaxes a bit.] You're too stupid to be a bandit. Do you need supplies?}

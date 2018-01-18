@@ -15,7 +15,7 @@
 {113}{}{I Dar, warrior.}
 {114}{}{Ok.}
 {115}{}{You all same. Me leave.}
-{116}{}{Me}
+{116}{}{Eu}
 {117}{}{I see. Well I've got to go now.}
 {118}{}{I'm}
 {119}{}{Tenho-o.}

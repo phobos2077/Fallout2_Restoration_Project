@@ -6,7 +6,7 @@
 {104}{}{Booga.}
 {105}{}{What a stroke of luck. You can't talk can you? Can't talk, can't tell anyone where my claim
  is. Let's trade.}
-{106}{}{[Barter]}
+{106}{}{[Troca]}
 {107}{}{OK, beat it! And you better not tell anyone where my claim is.}
 {108}{}{[End]}
 {109}{}{I think you better keep moving.}

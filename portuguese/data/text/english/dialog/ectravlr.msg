@@ -1,7 +1,7 @@
 {100}{}{Você vê um viajante.}
 {101}{}{Hail! Fellow traveler.}
 {102}{}{I'm in need of directions. Can you help me out?}
-{103}{}{Where are you headed?}
+{103}{}{Onde você está indo?}
 {104}{}{What do you do?}
 {105}{}{Ug.}
 {106}{}{Well...I don't know. I'm pretty new to this area and I've only been to the following areas.}

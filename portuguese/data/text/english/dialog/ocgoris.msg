@@ -3,7 +3,7 @@
 {102}{}{You see a humanoid figure wearing a long sleeved, hooded robe. There is something unnatural
  about his stance, but you're not sure exactly what it is.}
 {103}{}{Hello, I'm Goris. I don't recognize you; are you new here?}
-{104}{}{Me}
+{104}{}{Eu}
 {105}{}{Eu vou.}
 {106}{}{Yeah, so what?}
 {107}{}{Hi. I'm}

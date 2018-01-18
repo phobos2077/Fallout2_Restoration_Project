@@ -1,12 +1,13 @@
-{100}{}{You see a little boy.}
-{101}{}{You see a little girl.}
-{200}{}{Are we there yet?}
-{201}{}{I'm tired.}
-{202}{}{Will you carry me?}
-{203}{}{I'm not supposed to talk to strangers.}
-{204}{}{Mommy and Daddy went out here.}
-{205}{}{See my shiny rock?}
-{206}{}{Will you play with me?}
-{207}{}{La la la la la la. I can't hear you.}
-{208}{}{Why can't I play now?}
-{209}{}{You wanna play?}
+{100}{}{Você vê um menino pequeno.}
+{101}{}{Você vê uma menina.}
+{200}{}{Estamos lá ainda?}
+{201}{}{Estou cansado.
+}
+{202}{}{Você vai me levar?}
+{203}{}{Eu não devia falar com estranhos.}
+{204}{}{A mamãe e o Papai saiu aqui.}
+{205}{}{Veja minha rocha brilhante?}
+{206}{}{Você vai jogar comigo?}
+{207}{}{La La la la la la. Eu não posso ouvi-lo.}
+{208}{}{Por que não posso jogar agora?}
+{209}{}{Você quer jogar?}

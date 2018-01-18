@@ -41,7 +41,7 @@
 {139}{}{A GECK? That name sounds familiar. What does it do?}
 {140}{}{You know, I don't know myself. To hear the Elder of my village tell it, it's supposed to be some panacea for my village.
  I'm a little more skeptical.}
-{141}{}{I don't really know.}
+{141}{}{Eu realmente não sei.}
 {142}{}{Can I ask you some other questions?}
 {143}{}{Never mind. Maybe we'll talk some other time.}
 {144}{}{The Vault? Why, the entrance is just down the street... it's the large hole in the side of the mountain.}

@@ -1,6 +1,6 @@
-{100}{}{You see a claim jumper.}
-{101}{}{We were here first.}
-{102}{}{Go find your own claim to jump.}
-{103}{}{Just another notch in my pistol.}
-{104}{}{Can't let you go now.}
-{105}{}{You've seen too much.}
+{100}{}{Você vê um chamado salteador.}
+{101}{}{Nós estávamos aqui primeiro.}
+{102}{}{Vá encontrar sua própria reivindicação de salto.}
+{103}{}{Apenas um outro entalhe na minha pistola.}
+{104}{}{Não posso deixar você ir agora.}
+{105}{}{Você já viu muito.}

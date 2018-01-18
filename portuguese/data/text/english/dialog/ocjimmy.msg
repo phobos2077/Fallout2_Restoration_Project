@@ -3,7 +3,7 @@
 {102}{}{You see a tall, lanky man wearing thick glasses. His brow is furrowed in deep thought and he talks to himself as he wanders about the room.}
 {103}{}{Oh, hello there. I'm Jim, or Jimmy. Whatcha up to?}
 {104}{}{Me look around.}
-{105}{}{Me}
+{105}{}{Eu}
 {106}{}{Uh... Me wander about. Me go now.}
 {107}{}{Apenas olhando por aí.
 }

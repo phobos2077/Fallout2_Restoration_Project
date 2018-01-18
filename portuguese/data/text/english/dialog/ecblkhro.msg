@@ -4,7 +4,7 @@
 {103}{}{Você vê um modelo de herói preto. Ele está olhando para você com ressentimento.}
 {104}{}{Eu era originalmente um dos modelos heróis de Fallout 1.}
 {105}{}{É claro que, *eu* não fiz o corte final.}
-{106}{}{They claimed it was 'too much animation.' 'Too many frames,' they said.}
-{107}{}{I'm black. *You* figure it out.}
-{108}{}{Every time you think you're getting ahead, whitey changes the rules.}
-{109}{}{I wish I could get my hands on....}
+{106}{}{Eles alegaram que era "muita animação". "Muitos quadros", disseram eles.}
+{107}{}{Eu sou preto. *Você* descobriu.}
+{108}{}{Toda vez que você pensar que você está ficando à frente, branquinho muda as regras.}
+{109}{}{Eu gostaria de poder me entregar ...}

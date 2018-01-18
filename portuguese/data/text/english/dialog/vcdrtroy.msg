@@ -18,7 +18,7 @@
 {117}{}{Hello, I'm Dr. Troy. How may I be of assistance?}
 {118}{}{Me got ouchie}
 {119}{}{Ass-is-tense?}
-{120}{}{(Shamble off)}
+{120}{}{(Desliga)}
 {121}{}{I'm looking for the main computer. Can you tell me where it is?}
 {122}{}{What is it you do here?}
 {123}{}{Just passing through, thanks.}
@@ -225,7 +225,7 @@
 {285}{}{Sim?}
 {286}{}{Me got ouchie}
 {287}{}{Ass-is-tense?}
-{288}{}{(Shamble off)}
+{288}{}{(Desliga)}
 {289}{}{I'm in need of your medical expertise.}
 {290}{}{You mentioned before you were a doctor... I'm something of a doctor myself.}
 {291}{}{Do you have any endorphin blockers?}

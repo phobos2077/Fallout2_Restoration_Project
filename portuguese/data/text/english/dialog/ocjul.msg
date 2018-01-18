@@ -18,7 +18,7 @@
 {116}{}{Quem é você?}
 {117}{}{I'd like to speak to the mother.}
 {118}{}{I Jul. Pack warrior. I guard hatchery. I guard mother.}
-{119}{}{Me}
+{119}{}{Eu}
 {120}{}{Eu vou agora.}
 {121}{}{Guard mother important job. You important.}
 {122}{}{I'm}

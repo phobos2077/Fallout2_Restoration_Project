@@ -594,7 +594,7 @@
 {1504}{}{Vault City}
 {1505}{}{Gecko}
 {1506}{}{Broken Hills}
-{1507}{}{New Reno}
+{1507}{}{Novo Reno}
 {1508}{}{Sierra Army Depot}
 {1509}{}{Vault 15}
 {1510}{}{New California Republic}

@@ -42,7 +42,7 @@
 {137}{}{Me know. Me just test you. Uh... you pass.}
 {138}{}{Hear someone call. Me go.}
 {139}{}{I see. Let us try this again. Hello. I am Valdis. What is your name?}
-{140}{}{Me}
+{140}{}{Eu}
 {141}{}{Adeus.}
 {142}{}{Unauthorized personnel. Meaning 'people who do not have permission to be here.'}
 {143}{}{Ok. Me entender.}

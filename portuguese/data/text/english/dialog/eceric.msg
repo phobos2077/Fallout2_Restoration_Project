@@ -1,4 +1,4 @@
 {100}{}{Você vê um homem.}
 {101}{}{This is Eric.}
-{102}{}{He's banging two coconut halves together.}
-{103}{}{Clip! Clop!}
+{102}{}{Ele está batendo duas metades de coco juntos.}
+{103}{}{Clipe! Clop!}

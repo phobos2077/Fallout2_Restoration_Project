@@ -37,7 +37,8 @@
 {136}{}{Não.}
 {137}{}{Bem.
 }
-{138}{}{I changed my mind.}
+{138}{}{Eu mudei de ideia.
+}
 {139}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. Restructuring of impaired limbs requires 24 hours.}
 {140}{}{Ok.}
 {141}{}{Não.}
