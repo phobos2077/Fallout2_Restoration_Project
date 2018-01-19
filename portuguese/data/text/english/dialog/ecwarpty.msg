@@ -1,8 +1,8 @@
-{150}{}{Leave our land.}
-{151}{}{You trespass.}
-{152}{}{This is our land.}
-{153}{}{Let the spirits of the sky piss on you.}
-{154}{}{May the spirit of the earth swallow you.}
-{155}{}{May the spirits of the wind blow a foul stench in your direction.}
-{156}{}{Spirits of the water desert you.}
-{157}{}{Great spirits of fire curse you.}
+{150}{}{Deixar a nossa terra.}
+{151}{}{Você ultrapassa.}
+{152}{}{Esta é a nossa terra.}
+{153}{}{Deixe os espíritos do céu mijar em você.}
+{154}{}{Possa o espírito da terra engolir você.}
+{155}{}{Que os espíritos do vento soprem um mau cheiro na sua direção.}
+{156}{}{Espíritos da água do deserto.}
+{157}{}{Grandes espíritos de fogo o amaldiçoam.}

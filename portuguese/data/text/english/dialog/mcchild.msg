@@ -62,7 +62,7 @@
 {208}{}{Have you seen any bugs?}
 {209}{}{Where did you get that?}
 {210}{}{Can I have that?}
-{211}{}{What do you do?}
+{211}{}{O que fazer?}
 {212}{}{I can run fast. Wanna see?}
 {213}{}{Watch me! Watch me!}
 {214}{}{Mommy says I talk too much.}

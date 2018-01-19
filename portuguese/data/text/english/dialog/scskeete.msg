@@ -22,7 +22,7 @@
 {121}{}{Right, sure man.}
 {122}{}{Squa?}
 {123}{}{I am not a man!}
-{124}{}{What do you do?}
+{124}{}{O que fazer?}
 {125}{}{O que é este lugar?}
 {126}{}{Nothing. Thought you were somebody else. Bye.}
 {127}{}{Whoa, man, I warned you. Bad place. Bad folks around here. Heard stuff from your transport got jacked.}

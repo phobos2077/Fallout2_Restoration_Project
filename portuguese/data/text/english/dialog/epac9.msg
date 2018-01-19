@@ -2,7 +2,7 @@
 {101}{}{You see Mr. Chemmie!}
 {102}{}{A large crafting computer for drugs.}
 {200}{}{Hello user! I'm the pharmacist of the future, Mr. Chemmie! How can I help you?!}
-{201}{}{What do you do?}
+{201}{}{O que fazer?}
 {210}{}{I make drugs! All kinds of drugs! When life gets you down, Mr. Chemmie is here to pick you up! How does Mr. Chemmie work?! It's simple! All you need is some scientific know-how and the right ingredients, then leave the rest up to me! Go on! Give me a try! And kids, remember to ask Mommy or Daddy for permission before playing with Mr. Chemmie!}
 {211}{}{Alright, I'll give this a try.}
 {212}{}{Talvez mais tarde.}

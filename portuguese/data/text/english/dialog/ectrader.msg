@@ -25,32 +25,32 @@ inimigos a correr. Uma pechincha no }
 {115}{}{Eu vou passar.}
 {116}{}{Sim, de fato, você não vai se arrepender disso. Foi bom dar-lhe o negócio. Até a próxima.}
 {117}{}{[Fim]}
-{118}{}{Shit! What a waste of my time. Go on, beat it!}
+{118}{}{Merda! Que desperdício do meu tempo. Continue, saia!}
 {119}{}{[Fim]}
-{120}{}{Well, that was a wasted speech. $}
+{120}{}{Bem, esse foi um desperdício de discurso. $}
 {121}{}{Sim.}
 {122}{}{Não.}
-{123}{}{Hey, it's you again. I got some new stuff - you interested?}
-{124}{}{Sure, let's hear what you got.}
-{125}{}{Not a chance, Willy.}
+{123}{}{Ei, é você de novo. Eu tenho algumas coisas novas - você está interessado?}
+{124}{}{Com certeza, vamos ouvir o que você tem.}
+{125}{}{Não é um acaso, Willy.}
 {126}{}{Sim.}
 {127}{}{Não.}
-{128}{}{Beat it! I'm busy.}
-{129}{}{Come back when you got some money.}
-{130}{}{GO AWAY!}
-{131}{}{No refunds.}
-{132}{}{No exchanges.}
-{133}{}{No credit.}
-{134}{}{Go away, I'm busy.}
-{135}{}{Not a smart move.}
+{128}{}{Cai fora! Eu estou ocupado.}
+{129}{}{Volte quando você ganhou algum dinheiro.}
+{130}{}{VÁ EMBORA!}
+{131}{}{Nenhum reembolso.}
+{132}{}{Sem trocas.}
+{133}{}{Nenhum crédito.}
+{134}{}{Vá embora, estou ocupado.}
+{135}{}{Não é uma jogada inteligente.}
 {136}{}{Safado!}
-{137}{}{Is this supposed to get me to lower my prices?}
-{138}{}{All right, I'll lower the prices.}
-{139}{}{How about a 20% discount?}
-{140}{}{How about a 40% discount?}
-{141}{}{How about an 80% discount?}
-{142}{}{Okay, FREE; here, take it!}
-{143}{}{Willy}
+{137}{}{Isso deveria me fazer baixar meus preços?}
+{138}{}{Tudo bem, eu vou reduzir os preços.}
+{139}{}{Como cerca de 20% de desconto?}
+{140}{}{Como cerca de 40% de desconto?}
+{141}{}{Como cerca de 80% de desconto?}
+{142}{}{Ok, GRÁTIS; aqui, tome isso!}
+{143}{}{Willy.}
 {144}{}{George}
 {145}{}{Mike}
 {146}{}{Walter}
@@ -59,5 +59,5 @@ inimigos a correr. Uma pechincha no }
 {149}{}{Mick}
 {150}{}{Smitty}
 {151}{}{Jack}
-{152}{}{. You want it or not?}
+{152}{}{. Você quer ou não?}
 {200}{}{.}

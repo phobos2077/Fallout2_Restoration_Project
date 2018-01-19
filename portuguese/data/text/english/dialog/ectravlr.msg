@@ -1,63 +1,62 @@
 {100}{}{Você vê um viajante.}
-{101}{}{Hail! Fellow traveler.}
-{102}{}{I'm in need of directions. Can you help me out?}
+{101}{}{Hail! Companheiro de viagem.}
+{102}{}{Eu estou precisando de indicações. Você pode me ajudar?}
 {103}{}{Onde você está indo?}
-{104}{}{What do you do?}
+{104}{}{O que fazer?}
 {105}{}{Ug.}
-{106}{}{Well...I don't know. I'm pretty new to this area and I've only been to the following areas.}
-{107}{}{New Reno.}
+{106}{}{Bem ... eu não sei. Eu sou muito novo nesta área e só fui nas seguintes áreas.}
+{107}{}{Novo Reno.}
 {108}{}{Vault City.}
 {109}{}{Redding.}
 {110}{}{The Den.}
 {111}{}{San Francisco.}
-{112}{}{New California Republic.}
-{113}{}{An abandoned mine.}
-{114}{}{An old, abandoned facility.}
-{115}{}{No, I've been there already. Thanks anyway.}
-{116}{}{New Reno -- now that's a great place to go. Sex, drugs and gambling. What more can one ask for?
- Here, let me show you where it is.}
+{112}{}{Califórnia, Nova República.}
+{113}{}{Uma mina abandonada.}
+{114}{}{Uma antiga instalação abandonada.}
+{115}{}{Não, eu estive lá. Obrigado de qualquer forma.}
+{116}{}{Novo Reno -- agora que é um ótimo lugar para ir. Sexo, drogas e jogos de azar. O que mais se pode pedir?
+Aqui, deixe-me mostrar-lhe onde ele está.}
 {117}{}{Obrigado. Tchau.}
-{118}{}{Vault City -- now that's a city of morons. Grow an extra finger and they treat you like some kind
- of freak. Never been inside, but I know where it is.}
+{118}{}{Vault City-agora que é uma cidade de idiotas. Crescer um extra de dedo e eles tratam você como algum tipo
+de freak. Nunca estive dentro, mas eu sei onde ele está.}
 {119}{}{Obrigado. Tchau.}
-{120}{}{Redding...I don't know much about it, other than it's an old mining town. It's located up north,
- right smack dab in the middle of some of meanest mountains you've ever seen.}
+{120}{}{Redding...eu não sei muito sobre ele, mais do que isso, é uma antiga cidade mineira. Ele está situado ao norte,
+direito smack dab no meio de alguns dos pior montanhas que você já viu.}
 {121}{}{Obrigado. Tchau.}
-{122}{}{I'd stay away from the Den if I were you. It's a magnet for lowlifes of the area. I'll show you
- where it is, but I don't recommend you go there.}
+{122}{}{Eu iria ficar longe da Den, se eu fosse você. É um ímã para lowlifes da área. Eu vou te mostrar
+onde ele está, mas eu não recomendo que você vá lá.}
 {123}{}{Obrigado. Tchau.}
-{124}{}{San Francisco. Um...all I can say is that the people there are...strange. It's located on the
- coast.}
+{124}{}{San Francisco. Hum...tudo o que posso dizer é que as pessoas de lá são...estranhas. Ela está situada na costa.}
 {125}{}{Obrigado. Tchau.}
-{126}{}{The New California Republic...now there's a nice place. I'd like to settle down and live there
- some day. Clean, nice people, and very well maintained. It's located right here on your map.}
+{126}{}{A Califórnia, Nova República...agora há um lugar agradável. Eu gostaria de estabelecer e viver lá
+algum dia. Limpo, boa gente, e muito bem conservado. Ele está localizado aqui no seu mapa.}
 {127}{}{Obrigado. Tchau.}
-{128}{}{Yeah, a while back I came across an abandoned mining camp. Thought I'd rest there a day or two,
- but then wolves started showing up and I thought it best if I left. A shame, too; it looks like the
- miners left in a hurry. They left a lot of stuff behind. I'm not planning to go back, so I guess it's
- all right if I show you where it is.}
+{128}{}{Sim, um tempo atrás, encontrei um campo de mineração abandonado. Pensei que descansaria um dia ou dois,
+  Mas então os lobos começaram a aparecer e achei melhor se eu fosse embora. Uma vergonha também; parece que
+  Os mineiros deixaram com pressa. Eles deixaram muitas coisas para trás. Não estou planejando voltar, então acho que está
+  Tudo bem, se eu lhe mostrar onde está.}
 {129}{}{Obrigado. Tchau.}
-{130}{}{Yeah, a while back I came across an old facility that looked like it'd been abandoned since the Great War.
- Looked pretty important too, so I bet it's chock full of pre-war goods. I would've scavenged the place myself,
- but it's grounds were covered with some real pissed off man-eating plants. I'm not planning on going back, so I guess
- it's all right if I show you where it is.}
+{130}{}{Sim, um tempo atrás, encontrei uma antiga instalação que parecia ter sido abandonada desde a Grande Guerra.
+  Parecia muito importante também, então eu aposto que está cheio de bens de pré-guerra. Eu teria eliminado o lugar sozinho,
+  Mas as terras estavam cobertas com algumas plantas verdadeiramente irritadas. Não estou planejando voltar, então eu acho
+  Está tudo bem se eu lhe mostrar onde está.}
 {131}{}{Obrigado. Tchau.}
-{132}{}{Oh...it doesn't really matter. I just decided to travel one day and well, here I am.}
-{133}{}{Maybe you can help me. I need some directions.}
-{134}{}{What do you do?}
-{135}{}{Nice talking to you.}
-{136}{}{I do odd jobs here and there to get me by. But mostly I just travel.}
-{137}{}{Maybe you can help me. I need some directions.}
-{138}{}{Where you headed?}
-{139}{}{Nice talking to you.}
-{140}{}{I really should be going now. It was nice talking to you.}
-{141}{}{Maybe we'll meet again.}
-{142}{}{I want to make the next town by nightfall. I'd better go.}
-{143}{}{I'd better be going.}
-{144}{}{Ambush!}
+{132}{}{Oh...isso realmente não importa. Eu só decidi viajar um dia e bem, aqui estou eu.}
+{133}{}{Talvez você possa me ajudar. Eu preciso de algumas orientações.}
+{134}{}{O que fazer?}
+{135}{}{Bom falar com você.}
+{136}{}{Eu faço trabalhos estranhos aqui e aí para me ajudar. Mas principalmente eu apenas viajo.}
+{137}{}{Talvez você possa me ajudar. Eu preciso de algumas orientações.}
+{138}{}{Para onde vai?}
+{139}{}{Bom falar com você.}
+{140}{}{Eu realmente deveria ir agora. Foi legal conversar com você.}
+{141}{}{Talvez vamos nos encontrar novamente.}
+{142}{}{Eu quero chegar a próxima cidade ao cair da noite. É melhor eu ir.}
+{143}{}{É melhor eu ir.}
+{144}{}{Uma emboscada!}
 {145}{}{Não pode confiar em alguém nos dias de hoje.}
-{146}{}{You have broken the code of the traveler.}
-{147}{}{Time to go.}
-{148}{}{I've overstayed my welcome.}
-{149}{}{I must depart.}
-{150}{}{Thanks. I need directions to some other places.}
+{146}{}{Você quebrou o código do viajante.}
+{147}{}{Hora de ir.}
+{148}{}{Eu ultrapassei minha saudação.}
+{149}{}{Eu devo partir.}
+{150}{}{Obrigado. Preciso de direções para outros lugares.}

@@ -54,7 +54,8 @@
 {153}{}{I want you dead.}
 {154}{prs13}{Okay, okay, whatever you say. I'll just sit here quietly. It's, uh, nice to meet you. Goodbye.}
 {155}{}{That's too easy. Before I go, I'd like to know just what you're doing here.}
-{156}{}{Watch yourself.}
+{156}{}{Tenha cuidado.
+}
 {157}{}{Nice to meet you, Mr. President. Goodbye.}
 {158}{prs14}{Ahhh. Ahhh. Guards? Guards!}
 {159}{}{Say goodnight, Mr. President.}

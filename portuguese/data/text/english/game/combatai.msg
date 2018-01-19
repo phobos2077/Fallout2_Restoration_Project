@@ -2889,7 +2889,7 @@
 {41302}{}{No one told me it would be dangerous!}
 {41303}{}{What do you mean they're armed!?}
 {41304}{}{Run awaaaaaay!}
-{41305}{}{Run for it!}
+{41305}{}{Corra por isso!}
 {41306}{}{Incoming!!!!!!}
 {41307}{}{My super-powers are useless against this foe!}
 {41308}{}{Uh, I've got to talk to a man about a horse.}
@@ -3076,7 +3076,7 @@
 {41709}{}{I got your backs.}
 {41710}{}{Let's move it out!}
 {41711}{}{Come on, yokels!}
-{41712}{}{Let's get out of here!}
+{41712}{}{Vamos sair daqui!}
 {41713}{}{Feet, don't fail me now.}
 {41714}{}{Ye gods... if other mutants could see me now.}
 {41715}{}{::shakes his head and runs::}
