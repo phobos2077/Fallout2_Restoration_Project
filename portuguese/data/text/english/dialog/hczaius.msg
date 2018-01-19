@@ -74,7 +74,7 @@
 {156}{}{Até mais.
 }
 {157}{}{Sorry. That's the limit. Take it or leave it.}
-{158}{}{I'll take it.}
+{158}{}{Eu vou levá-la.}
 {159}{}{I'll leave it.}
 {160}{}{Fine. Leave it, then. No thanks.}
 {161}{}{Seja o que for.}

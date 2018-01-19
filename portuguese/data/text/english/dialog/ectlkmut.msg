@@ -3,10 +3,10 @@
 {102}{}{Rato surpresa.}
 {103}{}{Parece bom. Como eu faço?}
 {104}{}{Pegar ratos. Cuidado para não esmagar demais.}
-{105}{}{How no squish? Every time I club them, they pop. Very messy.}
-{106}{}{You want hear recipe or not? Catch rat your problem.}
-{107}{}{Me sorry.}
-{108}{}{Like said, catch rat. Hang by tail on wall.}
-{109}{}{Let hang til tail fall off. It ready then.}
-{110}{}{Eat quickly, if let sit too long, the surprise crawl out and fly away.}
-{111}{}{Sound yummy.}
+{105}{}{Como não esmagar? Toda vez que os bato, eles estouram. Muito bagunçado.}
+{106}{}{Você quer ouvir a receita ou não? Pegar rato é seu problema.}
+{107}{}{- Me desculpe.}
+{108}{}{Como disse, pegue um rato. Pendure por cauda na parede.}
+{109}{}{Deixe pendurado até a cauda cair. Está pronto então.}
+{110}{}{Coma rapidamente, se deixa ficar muito tempo, a surpresa se arrastará e voa para longe.}
+{111}{}{Som gostoso.}

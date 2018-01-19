@@ -1,30 +1,29 @@
-{100}{}{A salesman.}
+{100}{}{Um vendedor.}
 {101}{}{Willy.}
-{102}{}{A slick traveling salesman.}
-{103}{}{Greetings friend, my name is Willy and have I got a deal for you. [He seems to be reading from
- a card, and after a while you doze off.]}
+{102}{}{Uma mancha de caixeiro-viajante.}
+{103}{}{Saudações, amigo, meu nome é Willy e tenho um acordo para você. [Ele parece estar lendo de
+  um cartão, e depois de um tempo você cochila.]}
 {104}{}{Zzzzzzz...}
-{105}{}{[You groggily open your eyes as you finally notice that someone is kicking you.] Well, are you
- interested or not?}
-{106}{}{Interested in what?}
+{105}{}{[Você groggily abre seus olhos como você finalmente percebe que alguém está chutando você.] Bem, você está
+  interessado ou não?}
+{106}{}{Interessados em quê?}
 {107}{}{Erg?}
-{108}{}{Why, it slices it dices and it'll also come in handy against pesky critters. A bargain at any
- price, but for you it's on special for only }
-{109}{}{Why it's made of only the finest wood around. Use it to jab at critters to keep them at bay or,
- if you're skilled enough, throw it. It's very aerodynamic and won't break on impact.  What do you say?
- It's a steal at only }
-{110}{}{This weapon is made of the finest recycled steel. Just feel how that fits comfortably into your
- hand. And don't worry, our engineers have tested it for safety and reliability. No robber in his right
- mind would dare try to steal from if you wave this baby around.  And it'll only set you back }
-{111}{}{This little gem is truly one of a kind. From the far reaches of... It works by pointing it
- like- Look, I don't know what the hell this is. You want it or not? The price is }
-{112}{}{This little dandy just screams. "Don't mess with me!" The mere sight of it will send your
- enemies running. A bargain at }
-{113}{}{I can tell you're the type of person that likes to get close up and personal when dealing with
- riff raff. Well this little doohickey is just what you need, and it'll only cost you }
-{114}{}{I'll take it.}
-{115}{}{I'll pass.}
-{116}{}{Yes indeedy, you won't regret this. It was nice giving you the business. See you around.}
+{108}{}{Por isso, ele fatias ele corta e ele também vai vir a calhar contra bichos traquinas. Uma pechincha em qualquer o preço, mas para você é especial por somente}
+{109}{}{Por que é feito apenas da melhor madeira ao redor. Use-o para jab em criaturas para mantê-los à distância ou,
+  Se você é habilidoso o suficiente, jogue-o. É muito aerodinâmico e não vai impactar. O que você disse?
+  É um roubo apenas}
+{110}{}{Esta arma é feita com o melhor aço reciclado. Apenas sinta como isso se encaixa confortavelmente em sua
+  mão. E não se preocupe, nossos engenheiros o testaram por segurança e confiabilidade. Nenhum ladrão no seu direito
+  A mente se atreveu a tentar roubar se você acenou este bebê ao redor. E isso só irá torná-lo de volta}
+{111}{}{Esta pequena jóia é verdadeiramente um de um tipo. Dos confins de... funciona apontando
+como - Olha, eu não sei o que diabos é isso. Você quer ou não? O preço é de }
+{112}{}{Este pequeno dandy só grita. "Não mexa comigo!" A mera visão dele irá enviar o seu
+inimigos a correr. Uma pechincha no }
+{113}{}{Posso dizer que você é o tipo de pessoa que gosta de se aproximar e pessoal ao lidar com
+  riff raff. Bem, este pequeno doohickey é exatamente o que você precisa, e isso só vai custar-lhe}
+{114}{}{Eu vou levá-la.}
+{115}{}{Eu vou passar.}
+{116}{}{Sim, de fato, você não vai se arrepender disso. Foi bom dar-lhe o negócio. Até a próxima.}
 {117}{}{[Fim]}
 {118}{}{Shit! What a waste of my time. Go on, beat it!}
 {119}{}{[Fim]}
