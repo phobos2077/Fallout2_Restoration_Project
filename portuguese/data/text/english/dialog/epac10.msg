@@ -206,27 +206,27 @@
   Eu me viste?}
 {611}{}{Eu acho que não há mal nenhum-}
 {612}{}{Bem, Eu-}
-{620}{}{Of course you don't mind. Thanks, pal. [He steps past you and opens a nearby locker. He casually dresses himself
- in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb, he begins to sculpt and style his
- slicked dark hair with the quick precision of a seasoned pro.] So, where's the doc? }
+{620}{}{Claro que não se importa. Valeu cara. [Ele passa além de você e abre um armário próximo. Ele casualmente se veste
+  em um terno finamente adaptado, em seguida, enfia o conteúdo do armário. Utilizando um pente de bolso, ele começa a esculpir e modelar o seu
+  cabelos escuros escorregadios com a precisão rápida de um experiente profissional.] Então, onde está o doc?}
 {621}{}{Sei lá. Onde quer que ele esteja, ele já está morto há muito tempo. Você vê, você está fazendo essa marca de picolé por um tempo muito longo.}
-{622}{}{Listen up, pretty boy. I didn't unthaw your psychotic ass so I could answer your questions and watch you groom yourself.
- I'm only letting you live long enough to tell me whatever useful information you might have. So start talking. The more
- you can tell me, the longer you get to live.}
-{630}{}{Is that so? [He regards you curiously.] You don't exactly look like you belong here, bud, yet you've decided to
- release me and I'd like to know why. I assume you know who I am?}
-{631}{}{Yeah, you're Dex, right? If what I read about you is true, then you're one evil son of a bitch. I like that.}
+{622}{}{Escute, garoto bonito. Eu não desprezei seu entalhe psicótico para que eu pudesse responder suas perguntas e assistir você se preparar.
+  Só estou deixando você viver o suficiente para me contar qualquer informação útil que você possa ter. Então comece a falar. O mais
+  você pode me dizer, quanto mais tempo você conseguir viver.}
+{630}{}{É assim mesmo? [Ele considera você com curiosidade.] Você não parece exatamente como você pertence aqui, diga, mas você decidiu
+  Liberte-me e eu gostaria de saber por quê. Eu suponho que você sabe quem eu sou?}
+{631}{}{Sim, você é Dex, certo? Se o que eu leio sobre você é verdade, então você é um filho da puta maligno. Eu gosto disso.}
 {632}{}{Bem, de acordo com esse computador, você é Dex, um assassino narcisista e sociopático de antes do grande silêncio.
   Eu apenas libertei você para que eu pudesse colocá-lo como o cachorro doente que você é.}
-{633}{}{No idea, but you are giving off these evil vibes and I approve.}
+{633}{}{Não tenho ideia, mas você está liberando essas vibrações do mal e eu aprovo.}
 {640}{}{[Seu comportamento legal desaparece e seus olhos se acendem com raiva.] Você acha que pode me intimidar? Você tem a primeira
   LOJA DE FODA para quem você está falando? Venha aqui e vou lhe mostrar o que sou capaz!}
 {641}{}{[Feito]}
-{650}{}{[Dex grins at you, revealing a set of perfect teeth-a product of pre-war dentistry that look strange to you in all
- their pearly white symmetry.] I knew there was something I liked about you. You've got good taste. I don't suppose you're
- also a fan of The King?}
-{651}{}{Uh.... [Blank stare.]}
-{652}{}{Oh yeah, I love that... uh, what'd you call it, The King? Yeah, huge fan.}
+{650}{}{[Dex sorri para você, revelando um conjunto de dentes perfeitos - um produto da odontologia de antes da guerra que parece estranho para você em todos
+  sua simetria branca perolada.] Eu sabia que havia algo que eu gostava em você. Você tem bom gosto. Eu não suponho que você esteja
+  também um fã do rei?}
+{651}{}{Uh.... [Olhar vazio.]}
+{652}{}{Ah sim, eu amo isso ... uh, o que você chamou, o rei? Sim, grande fã.}
 {660}{}{Nevermind, bud. [Dex takes another look around the room and whistles.] This place has really gone to shit.
  How long did you say it's been?}
 {661}{}{Passaram-se mais de cento e cinquenta anos desde que o grande silêncio acabou com os Antigos ... * seu * povo.}
