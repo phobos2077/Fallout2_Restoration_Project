@@ -7,8 +7,7 @@
 {203}{}{Adeus.}
 {300}{}{Se você quer saber mais sobre nossa ordem, falar com o Abade. Você pode encontrá-lo em seus aposentos no terceiro andar.}
 {301}{}{Eu vejo. Mais algumas perguntas...}
-{400}{}{Claro. O que você gostaria de saber?
-}
+{400}{}{Claro. O que você gostaria de saber?}
 {401}{}{Qual é o seu nome?}
 {402}{}{Nada realmente, tchau.}
 {403}{}{O que você pode me dizer sobre a Abadia?}

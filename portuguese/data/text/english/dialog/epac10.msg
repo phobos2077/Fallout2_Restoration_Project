@@ -199,7 +199,7 @@
 {600}{}{[À medida que você se aproxima da câmara criogênica, você vê um homem nu atraente esparramado no chão. Ele desenha os joelhos
   e os abraça contra o peito. Ele se senta lá por vários momentos, olhando fixamente à frente, enquanto seu corpo tremula e seu
   danças de dentes. Gradualmente, ele parece se acalmar.]}
-{601}{}{Uh, hey...}
+{601}{}{Oh, ei...}
 {610}{}{[Ele encaixa a cabeça em sua direção e pula em seus pés. Ele o observa atentamente, depois olha como uma curva
   animal. Quando seus olhos retornam a você, eles se suavizam, e ele relaxa enquanto suas lembranças chegam de volta a ele. Ele rapidamente
   altera sua compostura, projetando confiança legal, apesar de sua nudez.] Eu não reconheço você, broto. Você não se importa se
@@ -209,7 +209,7 @@
 {620}{}{Of course you don't mind. Thanks, pal. [He steps past you and opens a nearby locker. He casually dresses himself
  in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb, he begins to sculpt and style his
  slicked dark hair with the quick precision of a seasoned pro.] So, where's the doc? }
-{621}{}{Beats me. Wherever he is, he's long dead by now. You see, you've been doing that popsicle impression for a REAL long time.}
+{621}{}{Sei lá. Onde quer que ele esteja, ele já está morto há muito tempo. Você vê, você está fazendo essa marca de picolé por um tempo muito longo.}
 {622}{}{Listen up, pretty boy. I didn't unthaw your psychotic ass so I could answer your questions and watch you groom yourself.
  I'm only letting you live long enough to tell me whatever useful information you might have. So start talking. The more
  you can tell me, the longer you get to live.}
@@ -257,7 +257,7 @@
 {800}{}{[À medida que você se aproxima da câmara criogênica, você vê um homem nu atraente esparramado no chão. Ele desenha os joelhos
   e os abraça contra o peito. Ele se senta lá por vários momentos, olhando fixamente à frente, enquanto seu corpo tremula e seu
   danças de dentes. Gradualmente, ele parece se acalmar.]}
-{801}{}{Uh, hey...}
+{801}{}{Oh, ei...}
 {810}{}{[He snaps his head towards you and leaps to his feet. He watches you intently, then glances around like a cornered
  animal. When his eyes return to you, they soften, and he relaxes as his memories come flooding back to him. He quickly
  alters his composure, projecting cool confidence, despite his nakedness.] Hey doll, I know I'm quite the sight to behold,

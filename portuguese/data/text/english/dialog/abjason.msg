@@ -7,9 +7,7 @@
 {210}{}{Eu não sei o que você está falando. Eu não tenho qualquer baralho de cartas.}
 {211}{}{Não minta para mim. Eu vi você colocar no seu bolso. Eu só queria saber por quê.}
 {212}{}{Tudo bem, o que você disser. Até mais.}
-{220}{}{Olhe, não conte a ninguém, está bem? Não devemos "usar" as relíquias anteriores à guerra, basta adorá-las. Mas estes Trágicos
-  Os cartões são tão legais. [Ele parece se perder em outro mundo enquanto olha amorosamente para o baralho. Depois de um momento,
-  ele olha para você.] Oh, desculpe. Eu sou o irmão Jason, a propósito. Eu, uh, não suponha que você jogasse Trágico? }
+{220}{}{Olhe, não conte a ninguém, está bem? Não devemos "usar" as relíquias anteriores à guerra, basta adorá-las. Mas estes cartôes trágicos são tão legais. [Ele parece se perder em outro mundo enquanto olha amorosamente para o baralho. Depois de um momento, ele olha para você.] Oh, desculpe. Eu sou o irmão Jason, a propósito. Eu, uh, não suponha que você jogasse Trágico?}
 {221}{}{BRING FORTH THE GARNERING!!!}
 {222}{}{Inferno sim, eu amo o Tragic the Garnering.}
 {223}{}{Eu tentei, mas não é para mim.}
