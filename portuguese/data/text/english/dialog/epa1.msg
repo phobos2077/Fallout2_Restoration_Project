@@ -1,2 +1,2 @@
-{100}{}{You discover a walled off facility that appears to have been abandoned long ago. Its dilapidated grounds are now
- teeming with carnivorous plant life.}
+{100}{}{Você descobre uma instalação murada que parece ter sido abandonada há muito tempo. Suas terras dilapidadas são agora
+  repletas de vegetação carnívora.}

@@ -1423,7 +1423,7 @@
 {12044}{}{Get critical!}
 {12045}{}{You want some of this?! YOU WANT SOME OF THIS?!}
 {12046}{}{Hiyaaaaaa!!!}
-{12047}{}{Get some!}
+{12047}{}{Obter algum!}
 {12048}{}{Better hope you packed some stimpacks, tribal...}
 {12049}{}{Kiss your ass good-bye...}
 {12060}{}{You fight like old people fuck!}

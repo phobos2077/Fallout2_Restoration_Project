@@ -1,1 +1,1 @@
-{100}{}{There seems to be a city just west of the Military Base. You log it on your Pip Boy.}
+{100}{}{Parece haver uma cidade a oeste da Base Militar. Você faz logon no seu Pip Boy.}

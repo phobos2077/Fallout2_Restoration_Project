@@ -72,14 +72,14 @@
 {406}{}{Grim Buster!}
 {410}{}{Only a guanabana could compare with the taste of this victory...}
 {415}{}{The village is a happy place, but you made it very, very angry.}
-{420}{}{You have embarrassed our country with your actions for the last time!}
-{430}{}{I'm gonna put you to sleep for good!}
-{435}{}{We're all going to hell, and I'm driving the bus.}
-{436}{}{Come my child, let me take your pain away.}
-{437}{}{You're dead.  You just don't know it yet.}
-{440}{}{Get some!}
+{420}{}{Você envergonhou nosso país com suas ações pela última vez!}
+{430}{}{Eu vou colocar você para dormir para o bem!}
+{435}{}{Estamos todos indo para o inferno, e eu estou dirigindo o ônibus.}
+{436}{}{Venha meu filho, me deixar levar sua dor para longe.}
+{437}{}{Você está morto. Você só não sabe disso ainda.}
+{440}{}{Obter algum!}
 {441}{}{Você quer um pouco disso?}
-{442}{}{Not the face, not the face!}
-{445}{}{Dante hasn't written about the hell I'm sending you to...}
-{450}{}{Guns! Guns! Guns! Where are my guns!}
-{451}{}{Ok, yes. I'm crazy. Deal with it.}
+{442}{}{Não o rosto, não o rosto!}
+{445}{}{Dante ainda não escreveu sobre o inferno, eu estou mandando você para...}
+{450}{}{Armas! Armas! Armas! Onde estão as minhas armas!}
+{451}{}{Ok, sim. Eu sou louco. Lide com isso.}

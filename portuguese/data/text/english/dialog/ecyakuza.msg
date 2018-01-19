@@ -1,9 +1,9 @@
-{100}{}{Killing is an art form.}
-{101}{}{It is your karma to die.}
-{102}{}{Life and death are the same.}
-{103}{}{Die with honor!}
-{104}{}{It is my time to die.}
-{105}{}{To die in battle is honorable. Yeah, right!}
-{106}{}{More study is required.}
-{107}{}{Fleeing is dishonorable. Dying would be worse.}
-{108}{}{Better a live coward than a dead hero.}
+{100}{}{Matar é uma forma de arte.}
+{101}{}{É o seu carma para morrer.}
+{102}{}{A vida e a morte são a mesma coisa.}
+{103}{}{Morrer com honra!}
+{104}{}{É o meu tempo para morrer.}
+{105}{}{Para morrer em batalha, é elevado. Sim, isso mesmo!}
+{106}{}{Mais estudo é necessário.}
+{107}{}{Fugindo é desonroso. Morrer seria pior.}
+{108}{}{Melhor um covarde vivo que um herói morto.}
