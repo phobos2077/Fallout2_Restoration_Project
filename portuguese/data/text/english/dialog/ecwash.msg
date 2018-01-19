@@ -1,74 +1,74 @@
-{100}{}{You see Buffy, a member of the Unwashed Villagers.}
-{101}{}{You see Doombot, a member of the Unwashed Villagers.}
-{102}{}{You see Panoply, a member of the Unwashed Villagers.}
-{103}{}{You see Lerk, a member of the Unwashed Villagers.}
-{104}{}{You see Ymir, a member of the Unwashed Villagers.}
-{105}{}{You see Iguana Eater, a member of the Unwashed Villagers.}
-{106}{}{You see Night Owl, a member of the Unwashed Villagers.}
-{107}{}{You see Shadow Dancer, a member of the Unwashed Villagers.}
-{108}{}{You see Amish Commando, a member of the Unwashed Villagers.}
-{109}{}{You see Alexand the Killer Bee, a member of the Unwashed Villagers.}
-{110}{}{You see Hatchetman, a member of the Unwashed Villagers.}
-{111}{}{You see BlueCross, a member of the Unwashed Villagers.}
-{113}{}{You see Buffy, a very beautiful, intelligent and perky cheerleader. First Woman of the Unwashed Villagers.}
-{114}{}{You see Doombot, Sound Goddess and sister to Buffy. She kinda looks like Marie Osmond.}
-{115}{}{You see Panoply, a pixie-like girl, whose eyes betray a slight case of dementia.}
-{116}{}{You see Lerk, Leader of The Unwashed SWAT Team - Artist Of The Unwashed Villagers - Tree Talker.}
-{117}{}{You see Ymir, the down under Poet & Co-Founding Member of the Poetry Bastards - Village Educator.}
-{118}{}{You see Iguana Eater, High Lord of Smeet Lite.}
-{119}{}{You see Night Owl, He Who Watches Over The Sleeping - Co-founder Of the Poetry Bastards.}
-{120}{}{You see Shadow Dancer, Gothic Poetry Bastard - Oddly, he looks a lot like Kevin Bacon.}
-{121}{}{You see Amish Commando, Commissar Of Blunt Force Trauma, Sub-commander Of The Unwashed SWAT Team.}
-{122}{}{You see Alexand the Killer Bee, a gentle and intelligent variety of killer bee - Head Scribe Of The Unwashed Villagers.}
-{123}{}{You see Hatchetman, Gunsmith of the Unwashed - Starter of fires - Keeper of the Shadowrun lore.}
-{124}{}{You see BlueCross, Low Priest of the Unwashed - Manufacturing Director.}
-{200}{}{Unwashed Villagers save the day, once again!}
-{201}{}{Death is too good for him.}
-{202}{}{And stay dead!}
-{203}{}{The village is safe, once again!}
-{204}{}{We protect the innocent and keep the peace.}
-{205}{}{And we're off to patrol the wastes. Keeping it save from spammers.}
-{206}{}{Come join us sometime!}
-{207}{}{Parting is such sweet sorrow....}
-{208}{}{And the Devil came and saw how awful goodness was ....}
-{209}{}{Payback's a bitch, aint it?}
-{210}{}{Grim has finally found a use - fertilizer.}
-{211}{}{That's what you get for using soap...}
-{212}{}{We're out of here!}
-{213}{}{'This house is clean.'}
-{214}{}{Can I poke him with a stick to make sure?}
-{215}{}{Don't wait up for us!}
-{216}{}{Its a dirty job, and I really enjoy it!}
-{217}{}{Back to patrol!}
-{218}{}{The Unwashed Villagers.  Keeping peace in a blasted wasteland.}
-{219}{}{He got what he deserved.}
-{220}{}{I'll race ya!}
-{300}{}{Soap? We don't need no sticking soap!}
-{301}{}{Rally unwashed! Destroy the Spammer!}
-{302}{}{Death to the Spammer!}
-{303}{}{This is for threatening people's lives!}
-{304}{}{Now you will die Grim Reaper.}
-{305}{}{You're going back 'down under'!}
-{306}{}{The gene pool needs a little chlorine.}
-{307}{}{Pay back time!}
-{308}{}{Now you're going to get it.}
-{309}{}{The Unwashed Villager are here to protect people from scum like you!}
-{310}{}{Leave people alone!}
-{311}{}{The power of DIRT!}
-{312}{}{We may be Unwashed but we're here to clean up!}
-{313}{}{You can not escape us this time!}
-{314}{}{Protect the Chosen One from the Spammer's idiocies!}
-{315}{}{Chosen One! Join us!}
-{316}{}{UNWASHED VENGENCE!}
-{317}{}{You will never be 'Unwashed' childish fool!}
-{318}{}{You don't have a chance!}
-{319}{}{We're not finished yet!}
-{320}{}{I've been waiting for this day for a looooong time.}
-{400}{}{This is for threatening me!}
-{401}{}{Like I'm sure! You wouldn't hurt a girl are you?}
-{402}{}{'Revenge is a dish best served cold.'}
-{403}{}{I'm Buffy... your toast.}
-{405}{}{No one threatens Doombot!}
+{100}{}{Você vê Buffy, um membro dos aldeões não lavados.}
+{101}{}{Você vê Doombot, um membro dos Aldeões não Lavados.}
+{102}{}{Você vê Panoply, um membro dos Aldeões não Lavados.}
+{103}{}{Você vê Lerk, um membro dos Aldeões não Lavados.}
+{104}{}{Você vê Ymir, um membro dos Aldeões não Lavados.}
+{105}{}{Você vê Iguana Eater, um membro dos Aldeões não Lavados.}
+{106}{}{Você vê Night Owl, um membro dos Aldeões não Lavados.}
+{107}{}{Você vê Shadow Dancer, um membro dos Aldeões não Lavados.}
+{108}{}{Você vê Amish Commando, um membro dos Aldeões não Lavados.}
+{109}{}{Você vê Alexand o Killer Bee, um membro dos Aldeões não Lavados.}
+{110}{}{Você vê Hatchetman, um membro dos Aldeões não Lavados.}
+{111}{}{Você vê BlueCross, um membro dos Aldeões não Lavados.}
+{113}{}{Você vê Buffy, uma líder de torcida muito bonita, inteligente e alegre. Primeira mulher dos aldeões não lavados.}
+{114}{}{Você vê Doombot, Deusa do som e irmã de Buffy. Ela parece muito com Marie Osmond.}
+{115}{}{Você vê Panoply, uma menina tipo duende, cujos olhos traem um pequeno caso de demência.}
+{116}{}{Você vê Lerk, Líder da equipe de SWAT não lavada - Artista dos aldeões não lavados - Tree Talker.}
+{117}{}{Você vê Ymir, o abaixo do poeta e membro co-fundador da Poetry Bastards - Village Educator.}
+{118}{}{Você vê Iguana Eater, Alto Senhor de Smeet Lite.}
+{119}{}{Você vê Night Owl, ele que observa o sono - co-fundador dos bastões de poesia.}
+{120}{}{Você vê Shadow Dancer, Gothics Poetry Bastard - Curiosamente, ele se parece muito com Kevin Bacon.}
+{121}{}{Você vê o Amish Comando, Comissário de Trauma de Força Explícita, Subcomandante da Equipa de SWAT não lavado.}
+{122}{}{Você vê Alexand the Killer Bee, uma variedade gentil e inteligente de abelhas assassinas - Head Scribe Of The Unwashed Villagers.}
+{123}{}{Você vê Hatchetman, Gunsmith of the Unwashed - Starter of fires - Keeper of the Shadowrun lore.}
+{124}{}{Você vê BlueCross, Low Priest of the Unwashed - Director de fabricação.}
+{200}{}{Aldeões não Lavados salvam o dia, mais uma vez! }
+{201}{}{A morte é boa demais para ele.}
+{202}{}{E ficar morto!}
+{203}{}{A aldeia está segura, mais uma vez!}
+{204}{}{Protegemos os inocentes e mantemos a paz.}
+{205}{}{E nós vamos patrulhar os resíduos. Mantendo-o salvo dos spammers.}
+{206}{}{Junte-se a nós em algum momento!}
+{207}{}{A separação é doce tristeza....}
+{208}{}{E o Diabo veio e viu como terrível a bondade era ....}
+{209}{}{Payback é uma puta, não é?}
+{210}{}{Grim finalmente encontrou um uso - fertilizante.}
+{211}{}{Isso é o que você obtém para usar sabão ...}
+{212}{}{Estamos fora daqui!}
+{213}{}{'Esta casa está limpa.'}
+{214}{}{Posso puxá-lo com uma vara para ter certeza?}
+{215}{}{Não espere por nós!}
+{216}{}{Um trabalho sujo, e eu realmente gosto dele!}
+{217}{}{De volta a patrulha!}
+{218}{}{Os aldeões sem lavagem. Manter a paz em uma terra desolada.}
+{219}{}{Ele tem o que ele merecia.}
+{220}{}{Eu vou corrê-lo!}
+{300}{}{Sabão? Nós não precisamos de nenhuma degola sabão!}
+{301}{}{Rally sem lavar! Destrua o Spammer!}
+{302}{}{A morte para o Spammer!}
+{303}{}{Este é, por ameaçar a vida das pessoas!}
+{304}{}{Agora você vai morrer Grim Reaper.}
+{305}{}{Você está indo de volta 'down under'!}
+{306}{}{O pool genético, precisa de um pouco de cloro.}
+{307}{}{Pagar de volta o tempo!}
+{308}{}{Agora você está indo para obtê-lo.}
+{309}{}{Os Aldeões não Lavados estão aqui para proteger as pessoas de escória como você!}
+{310}{}{Deixar as pessoas em paz!}
+{311}{}{O poder da SUJEIRA!}
+{312}{}{Podemos ser Sujos, mas nós estamos aqui para limpar!}
+{313}{}{Você não pode escapar a nós neste momento!}
+{314}{}{Proteja o escolhido das idiotices do Spammer!}
+{315}{}{Escolhido! Junte-se a nós!}
+{316}{}{NÃO-LAVADA VINGANÇA!}
+{317}{}{Você nunca será um "não lavado" tolo infantil!}
+{318}{}{Você não tem uma chance!}
+{319}{}{Ainda não terminamos!}
+{320}{}{Eu estive esperando por esse dia por um looooongo tempo.}
+{400}{}{Isso é por me ameaçar!}
+{401}{}{Como tenho certeza! Você não machucaria uma garota, você faria?}
+{402}{}{A vingança é um prato melhor servido frio.'}
+{403}{}{Eu sou Buffy... o seu brinde.}
+{405}{}{Ninguém ameaça Doombot!}
 {406}{}{Grim Buster!}
 {410}{}{Only a guanabana could compare with the taste of this victory...}
 {415}{}{The village is a happy place, but you made it very, very angry.}
