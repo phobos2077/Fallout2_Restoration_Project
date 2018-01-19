@@ -1,72 +1,72 @@
-{100}{}{You see Dex.}
-{101}{}{You see a handsome, impeccably groomed man. Beneath an impressive shock of grease-slicked hair, his eyes
- sparkle with intensity... or perhaps insanity.}
-{200}{}{[As you approach the cryogenic chamber, you see an attractive naked man sprawled on the floor. He draws
- his knees up and hugs them against his chest. He sits there for several moments, staring blankly ahead as his body
- quakes and his teeth chatter. Gradually, he seems to calm down.]}
-{201}{}{Uh, hello?}
-{210}{}{[He snaps his head towards you and leaps to his feet. He watches you intently, then glances around like a
- cornered animal. When his eyes return to you, they soften, and he relaxes as his memories come flooding back to him.
- He quickly alters his composure, projecting cool confidence, despite his nakedness.] I don't recognize you, bud.
- You don't mind if I get dressed do you?}
-{211}{}{I guess there's no harm-}
-{212}{}{Well, I-}
-{220}{}{Of course you don't mind. Thanks, pal. [He steps past you and opens a nearby locker. He casually dresses himself
- in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb, he begins to sculpt and style
- his slicked dark hair with the quick precision of a seasoned pro.] So, where's the doc? }
-{221}{}{The doc? Oh, he's probably around here somewhere. In fact, I think he's on his way now, so I'll just mosey on out of here and let you two catch up. Bye!}
-{222}{}{This may come as a shock to you, but you've been frozen for a very long time. Whoever "the doc" was, he's
- certainly long dead by now. If he was your friend, then I'm sorry.}
-{223}{}{I don't mean to blow your mind, but you've been on ice for a *real* long time. I'm pretty sure your friend, "the doc", is long dead by now.}
-{224}{}{Listen up, pretty boy. I didn't unthaw your psychotic ass so I could answer your questions and watch you groom
- yourself. I'm only letting you live long enough to tell me whatever useful information you might have. So start talking.
- The more you can tell me, the longer you get to live.}
-{230}{}{[His cool demeanor vanishes and his eyes flare with rage.] You think you can intimidate ME? Do you have the first
- FUCKING CLUE who you're talking to? Come here and I'll show you what I'm capable of!}
-{231}{}{[Done.]}
-{240}{}{[Dex grins at you, revealing a set of perfect teeth-a product of pre-war dentistry that look strange to you in
- all their pearly white symmetry.] The doc, my friend? [He cocks an eyebrow.] You don't know who I am, do you?}
-{241}{}{Uh, not exactly. I've been sort of wandering around this strange facility, tinkering with stuff, and I just so happened to unthaw you. Why were you frozen in there, anyway?}
-{242}{}{Well, according to that computer, you're Dex, a narcissistic, sociopathic killer from before the great silence.
- I only unthawed you so I could put you down like the sick dog you are.}
-{243}{}{Uh, not exactly. I'm sure you're a perfectly normal guy that was kept frozen for perfectly normal, non-evil reasons. Hell, what do I know? I've been sort of wandering around this strange facility, tinkering with stuff, and I just so happened to unthaw you.}
-{250}{}{[Dex takes another look around the room and whistles.] This place has really gone to shit. How long did you say it's been?}
-{251}{}{It's been over a hundred and fifty years since the Great Silence brought an end to the Old Ones... *your* people.}
-{260}{}{Great Silence? The Old Ones? How about you spare me this cryptic bullshit and just tell me what happened?}
-{261}{}{The Great Silence is what my people call the end of your world. When the great fires rained down from the sky and scorched the land. You'll find the world is nothing like the one you knew.}
-{270}{}{No shit, so they actually dropped the bombs, huh? I guess the vault project wasn't just a big waste of the
- tax-payers' money, after all.}
-{271}{}{Wait. You know of the holy vaults?}
-{280}{}{Know of them? Hell, I used to live right by the Chicago vault. I even watched 'em finish building the thing.
- Then of course they started doing those damn drills... [He stops and regards you with amusement.] You're really eating
- this up, aren't you?}
-{281}{}{TELL ME MORE OF THE VAULTS!}
-{282}{}{Well, you see, I've been chosen by my people to try and find a Vault. There, I hope to retrieve a G.E.C.K. and
- use its power to save my village from destruction. Anything you can tell me of the Vaults could help me in my quest.}
-{283}{}{Well, you see, I had been chosen by my people to try and find a Vault. After risking my life in countless adventures,
- I finally discovered the Holy 13. However, I'm curious what else you might know of these places.}
-{290}{}{I'll tell you what, bud. You need help finding these Vaults, and I need someone to show me the ropes, so to speak,
- in this crazy world of yours. So what do you say... partner?}
-{291}{}{Hmm, your knowledge of the old ones could prove quite useful to me... But, well, honestly, I, uh, read about you
- in that computer over there, and I'm not sure you're the type of guy I'd want to travel with.}
-{292}{}{I don't really have the time to "show you the ropes". I'm sure you'll do just fine on your own, "bud".}
-{293}{}{I say you've got a deal... partner.}
-{294}{}{I don't think I'm too eager to go gallivanting around the wasteland with a psychotic murderer. So you're on your
- own, "bud". Don't worry, I'm sure you'll be just fine. [Snicker.]}
-{300}{}{Whoa, stop right there. Let me guess, you read I was some kind of crazy murderer, right? Well bud, I've got two
- words for you: Bull. Shit. Don't you buy a word of it.}
-{301}{}{But that doesn't make any sense, why would they lie about you?}
-{302}{}{The only bullshit around here is what's spewing out of your mouth, and I think it's time I shut you up for good.}
-{310}{}{Hey, I know it doesn't seem to make a lot of sense, but have you looked around this place? There's not much
- sense to be made around here. Who knows what goes on in the fucked up minds of these scientists. }
-{311}{}{Hmm... you've got a point, there. I'm not saying I believe you... but I guess I can at least hear you out.}
-{312}{}{Yeah, no kidding. Go on...}
-{320}{}{Alright, you see, it's all part of their "experiments". These crazy fucking doctors were doing some kind of tests on
- the "nature of human evil" or some crap. They were injecting me with the memories of a maniac in order to see how it
- would affect the personality of a normal person. At least, that's the best I could figure it.}
-{321}{}{Well... if that's true, then that's terrible. But what made them choose you as a test subject in the first place?}
-{322}{}{Wow man, that really sucks. Anyway, that's all the in past now. Those asshole scientists are long dead and won't
- be able to mess with you anymore. Come along with me and we'll get out of this place.}
+{100}{}{Você vê Dex.}
+{101}{}{Você vê um homem bonito e impecável. Sob um choque impressionante de cabelos escamosos, os olhos dele
+  brilha com intensidade ... ou talvez insanidade.}
+{200}{}{[À medida que você se aproxima da câmara criogênica, você vê um homem nu atraente esparramado no chão. Ele desenha
+  os joelhos dele e os abraça contra o peito. Ele se senta lá por vários momentos, olhando fixamente para a frente como seu corpo
+  treme e seus dentes tagarelam. Gradualmente, ele parece se acalmar.]}
+{201}{}{Uh, olá?}
+{210}{}{[Ele encaixa a cabeça em sua direção e pula em seus pés. Ele olha você atentamente, então olha como um
+  animal encurralado. Quando seus olhos retornam a você, eles se suavizam, e ele relaxa enquanto suas lembranças chegam de volta a ele.
+  Ele rapidamente altera sua compostura, projetando confiança legal, apesar de sua nudez.] Eu não reconheço você, broto.
+  Você não se importa se eu me vestir sim?}
+{211}{}{Eu acho que não há mal nenhum-}
+{212}{}{Bem, Eu-}
+{220}{}{Claro que não se importa. Valeu cara. [Ele passa além de você e abre um armário próximo. Ele casualmente se veste
+  em um terno finamente adaptado, em seguida, enfia o conteúdo do armário. Utilizando um pente de bolso, ele começa a esculpir o estilo do
+  seus cabelos escuros com a precisão de um experiente profissional.] Então, onde está o doc?}
+{221}{}{O doc? Ah, ele provavelmente está por aí em algum lugar. Na verdade, eu acho que ele está a caminho agora, então vou apenas sair daqui e deixar vocês dois apanharem. Tchau!}
+{222}{}{Isso pode ser um choque para você, mas você ficou congelado há muito tempo. Quem fosse "o doc", ele está
+  Certamente há muito tempo morto até agora. Se ele fosse seu amigo, então desculpe.}
+{223}{}{Eu não quero dizer sua mente, mas você esteve no gelo por um * tempo real *. Tenho certeza de que seu amigo, "o doc", está a muito tempo morto.}
+{224}{}{Escute, garoto bonito. Eu não desprezei seu burro psicótico para que eu pudesse responder às suas perguntas e assisti-lo noivo
+  você mesmo. Só estou deixando você viver o suficiente para me contar qualquer informação útil que você possa ter. Então comece a falar.
+  Quanto mais você me disser, mais tempo você viverá.}
+{230}{}{[Seu comportamento legal desaparece e seus olhos se acendem com raiva.] Você acha que pode me intimidar? Você tem a primeira
+  LOJA DE FODA para quem você está falando? Venha aqui e vou lhe mostrar o que sou capaz!}
+{231}{}{[Feito]}
+{240}{}{[Dex sorri para você, revelando um conjunto de dentes perfeitos - um produto da odontologia de antes da guerra que parece estranho para você
+  toda a simetria de branco perolado.] O doc, meu amigo? [Ele bate uma sobrancelha.] Você não sabe quem eu sou, não é?}
+{241}{}{Uh, não exatamente. Eu estive tipo vagando por essa facilidade estranha, mexendo com coisas, e eu acabei de liberta-lo. Por que você estava congelado lá, afinal?}
+{242}{}{Bem, de acordo com esse computador, você é Dex, um assassino narcisista e sociopático de antes do grande silêncio.
+  Eu apenas libertei você para que eu pudesse colocá-lo como o cachorro doente que você é.}
+{243}{}{Uh, não exatamente. Tenho certeza de que você é um homem perfeitamente normal, mantido congelado por razões perfeitas e não-malévolas. Inferno, o que eu sei? Eu estive tipo vagando por essa facilidade estranha, mexendo com coisas, e eu acabei de liberta-lo.}
+{250}{}{[Dex dá outro olhar ao redor da sala e associa.] Este lugar realmente foi para merda. Quanto tempo você disse que tem sido?}
+{251}{}{Passaram-se mais de cento e cinquenta anos desde que o Grande Silêncio acabou com os Antigos ... * seu * povo.}
+{260}{}{Grande Silêncio? Os Antigos? Que tal me poupar essa merda enigmática e apenas me dizer o que aconteceu?}
+{261}{}{O Grande Silêncio é o que o meu povo chama o fim do seu mundo. Quando os grandes incêndios choveram do céu e queimaram a terra. Você encontrará que o mundo não é nada como o que você conheceu.}
+{270}{}{Sem merda, então eles largaram as bombas, hein? Eu acho que o projeto do vault não foi apenas um grande desperdício do
+  dinheiro dos contribuintes, afinal.}
+{271}{}{Esperar. Você conhece os Vaults santos?}
+{280}{}{Conhecê-los? Inferno, eu costumava viver bem pelo Vault de Chicago. Eu mesmo assisti-los acabar de construir o objeto.
+  Então, é claro, eles começaram a fazer essas malditas brocas ... [Ele pára e considera você com diversão.] Você está realmente entendendo
+  isso, você não está?}
+{281}{}{DIGA-ME MAIS DOS VAULTS!}
+{282}{}{Bem, você vê, fui escolhido por minha gente para tentar encontrar um Vault. Lá, espero recuperar um G.E.C.K. e
+  usar seu poder para salvar minha aldeia da destruição. Qualquer coisa que você possa me dizer sobre os Vaults poderia me ajudar na minha busca.}
+{283}{}{Bem, você viu, eu fui escolhido pelo meu povo para tentar encontrar um Vault. Depois de arriscar minha vida em inúmeras aventuras,
+  Eu finalmente descobri o Santo 13. No entanto, estou curioso o que mais você pode saber desses lugares.}
+{290}{}{Eu vou te dizer o que, broto. Você precisa de ajuda para encontrar esses Vaults e preciso de alguém para me mostrar as cordas, por assim dizer,
+  neste mundo maluco. Então, o que você diz ... parceiro?}
+{291}{}{Hmm, seu conhecimento dos antigos poderia me ser bastante útil ... Mas, bem, honestamente, eu, eu leio sobre você
+  nesse computador lá, e não tenho certeza se você é o tipo de cara com quem eu gostaria de viajar.}
+{292}{}{Eu realmente não tenho tempo para "mostrar-lhe as cordas". Tenho certeza de que você fará bem sozinho, "broto".}
+{293}{}{Eu digo que você tem um negócio... parceiro.}
+{294}{}{Eu não acho que estou ansioso para ir galilando em torno do terremoto com um assassino psicótico. Então você está no seu
+  próprio "broto". Não se preocupe, tenho certeza que você estará bem. [Risada.]}
+{300}{}{Whoa, pare bem ali. Deixe-me adivinhar, você leu que eu era um tipo de assassino louco, certo? Bem, eu tenho dois
+  palavras para você: Tudo Besteira. Não compre uma palavra dele.}
+{301}{}{Mas isso não faz sentido, por que eles mentiram sobre você?}
+{302}{}{A única besteira por aqui é o que vomita da sua boca, e acho que é hora de eu te calar para sempre.}
+{310}{}{Ei, eu sei que não parece ter muito sentido, mas você já olhou em torno desse lugar? Não há muito
+  sentido de ser feito por aqui. Quem sabe o que se passa nas mentes fodidas desses cientistas.}
+{311}{}{Hmm ... você tem um ponto, lá. Eu não estou dizendo que eu acredito em você ... mas acho que posso pelo menos escutar você.}
+{312}{}{Sim, sem brincadeira. Vá em...}
+{320}{}{Tudo bem, você vê, é parte de seus "experimentos". Esses malditos médicos estavam fazendo algum tipo de testes em
+  a "natureza do mal humano" ou alguma porcaria. Eles estavam me injetando as memórias de um maníaco para ver como
+  afetaria a personalidade de uma pessoa normal. Pelo menos, é o melhor que eu poderia imaginar.}
+{321}{}{Bem ... se isso for verdade, então é terrível. Mas o que os fez escolher você como sujeito de teste em primeiro lugar?}
+{322}{}{Uau, isso realmente é uma merda. Enfim, isso é tudo no passado agora. Esses cientistas do caralho estão muito mortos e não vão
+  poder mais incomodar com você. Venha comigo e sairemos deste lugar.}
 {330}{}{Heh, you see that's the funny thing. *I* actually came to *them*. Answered an ad they put out saying they'd pay big
  bucks for healthy test subjects. I needed the money, and, well, it turned out to be the worst mistake of my life.
  I can't even begin to tell you the horrors they subjected me to. [His eyes shimmer with tears as he reflects. He sighs
@@ -95,13 +95,13 @@
 {400}{}{[As you approach the cryogenic chamber, you see an attractive naked man sprawled on the floor. He draws his
  knees up and hugs them against his chest. He sits there for several moments, staring blankly ahead as his body quakes
  and his teeth chatter. Gradually, he seems to calm down.]}
-{401}{}{Uh, hello?}
+{401}{}{Uh, olá?}
 {410}{}{[He snaps his head towards you and leaps to his feet. He watches you intently, then glances around like a
  cornered animal. When his eyes return to you, they soften, and he relaxes as his memories come flooding back to him.
  He quickly alters his composure, projecting cool confidence, despite his nakedness.] Hey doll, I know I'm quite the
  sight to behold, but it's a tad chilly in here. You mind if I get dressed?}
-{411}{}{I guess there's no harm-}
-{412}{}{Well, I-}
+{411}{}{Eu acho que não há mal nenhum-}
+{412}{}{Bem, Eu-}
 {420}{}{Of course you don't mind. Thanks, babe. [He steps past you, gently slapping your rump, and opens a nearby locker.
  He casually dresses himself in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb,
  he begins to sculpt and style his slicked dark hair with the quick precision of a seasoned pro.] I don't think I've
@@ -133,20 +133,20 @@
  second. But first of all, would you mind telling me what the hell's happened since they put me on ice? I mean, this
  place has gone to shit, and you look like you've walked out of some kind of sci-fi adventure tale.}
 {471}{}{It's been over a hundred and fifty years since the great silence brought an end to the Old Ones... *your* people.}
-{475}{}{Great Silence? The Old Ones? How about you spare me this cryptic bullshit and just tell me what happened?}
+{475}{}{Grande Silêncio? Os Antigos? Que tal me poupar essa merda enigmática e apenas me dizer o que aconteceu?}
 {476}{}{The Great Silence is what my people call the end of your world. When the great fires rained down from the sky and scorched the land. You'll find the world is nothing like the one you knew. }
 {480}{}{No shit, so they actually dropped the bombs, huh? I guess the vault project wasn't just a big waste of the tax-payers' money, after all.}
-{481}{}{Wait. You know of the holy vaults?}
+{481}{}{Esperar. Você conhece os Vaults santos?}
 {490}{}{Know of them? Hell, I used to live right by the Chicago vault. I even watched 'em finish building the thing.
  Then of course they started doing those damn drills... [He stops and regards you with amusement.] You're really eating
  this up, aren't you, babe?}
-{491}{}{TELL ME MORE OF THE VAULTS!}
-{492}{}{Well, you see, I've been chosen by my people to try and find a Vault. There, I hope to retrieve a G.E.C.K. and
- use its power to save my village from destruction. Anything you can tell me of the Vaults could help me in my quest.}
+{491}{}{DIGA-ME MAIS DOS VAULTS!}
+{492}{}{Bem, você vê, fui escolhido por minha gente para tentar encontrar um Vault. Lá, espero recuperar um G.E.C.K. e
+  usar seu poder para salvar minha aldeia da destruição. Qualquer coisa que você possa me dizer sobre os Vaults poderia me ajudar na minha busca.}
 {493}{}{Well, you see, I had been chosen by my people to try and find a Vault. I risked my life on several occasions to
  find this Holy Vault and I finally was successful in finding it. I am curious what else you might know of these places.}
 {500}{}{I'll tell you what, babe. You need help finding these Vaults, and I need someone to show me the ropes, so to speak, in this crazy world of yours. So what do you say... partner?}
-{501}{}{I say you've got a deal... partner.}
+{501}{}{Eu digo que você tem um negócio... parceiro.}
 {502}{}{Well, your knowledge of the old ones could prove quite useful to me... but, you know, there's that whole psychotic murderer thing...}
 {503}{}{I don't think I'm too eager to go gallivanting around the wasteland with a psychotic murderer. So you're on your
  own, "babe". Don't worry, I'm sure you'll be just fine. [snicker.]}
@@ -155,15 +155,15 @@
  experimented on me.}
 {512}{}{But that doesn't make any sense. What was done to you?}
 {513}{}{Bullshit. I think it's time I shut you up for good.}
-{514}{}{But that doesn't make any sense, why would they lie about you?}
+{514}{}{Mas isso não faz sentido, por que eles mentiram sobre você?}
 {515}{}{The only bullshit around here is what's spewing out of your mouth and I think it's time I shut you up for good.}
 {520}{}{Hey, I know it doesn't seem to make a lot of sense, but have you looked around this place? There's not much sense to be made around here. Who knows what goes on in the fucked up minds of these scientists.}
 {521}{}{Hmm... you've got a point there. I'm not saying I believe you... but I suppose I can at least hear you out.}
-{522}{}{Yeah, no kidding. Go on...}
+{522}{}{Sim, sem brincadeira. Vá em...}
 {530}{}{Alright, you see, it's all part of their "experiments". These crazy fucking doctors were doing some kind of tests
  on the "nature of human evil" or some crap. They were injecting me with the memories of a maniac, in order to see how
  it would effect the personality of a normal person. At least, that's the best I could figure it.}
-{531}{}{Well... if that's true, then that's terrible. But what made them choose you as a test subject in the first place?}
+{531}{}{Bem ... se isso for verdade, então é terrível. Mas o que os fez escolher você como sujeito de teste em primeiro lugar?}
 {532}{}{Awe, you poor thing. Well, that's all the in past now. Those terrible men are long dead and won't be able to
  hurt you anymore. Come along with me and we'll get out of this place.}
 {540}{}{Heh, you see that's the funny thing. *I* actually came to *them*. Answered an add they put out saying they'd pay
@@ -204,8 +204,8 @@
  animal. When his eyes return to you, they soften, and he relaxes as his memories come flooding back to him. He quickly
  alters his composure, projecting cool confidence, despite his nakedness.] I don't recognize you, bud. You don't mind if
  I get dressed do you?}
-{611}{}{I guess there's no harm-}
-{612}{}{Well, I-}
+{611}{}{Eu acho que não há mal nenhum-}
+{612}{}{Bem, Eu-}
 {620}{}{Of course you don't mind. Thanks, pal. [He steps past you and opens a nearby locker. He casually dresses himself
  in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb, he begins to sculpt and style his
  slicked dark hair with the quick precision of a seasoned pro.] So, where's the doc? }
@@ -216,12 +216,12 @@
 {630}{}{Is that so? [He regards you curiously.] You don't exactly look like you belong here, bud, yet you've decided to
  release me and I'd like to know why. I assume you know who I am?}
 {631}{}{Yeah, you're Dex, right? If what I read about you is true, then you're one evil son of a bitch. I like that.}
-{632}{}{Well, according to that computer, you're Dex, a narcissistic, sociopathic killer from before the great silence.
- I only unthawed you so I could put you down like the sick dog you are.}
+{632}{}{Bem, de acordo com esse computador, você é Dex, um assassino narcisista e sociopático de antes do grande silêncio.
+  Eu apenas libertei você para que eu pudesse colocá-lo como o cachorro doente que você é.}
 {633}{}{No idea, but you are giving off these evil vibes and I approve.}
-{640}{}{[His cool demeanor vanishes and his eyes flare with rage.] You think you can intimidate ME? Do you have the first
- FUCKING CLUE who you're talking to? Come here and I'll show you what I'm capable of!}
-{641}{}{[Done.]}
+{640}{}{[Seu comportamento legal desaparece e seus olhos se acendem com raiva.] Você acha que pode me intimidar? Você tem a primeira
+  LOJA DE FODA para quem você está falando? Venha aqui e vou lhe mostrar o que sou capaz!}
+{641}{}{[Feito]}
 {650}{}{[Dex grins at you, revealing a set of perfect teeth-a product of pre-war dentistry that look strange to you in all
  their pearly white symmetry.] I knew there was something I liked about you. You've got good taste. I don't suppose you're
  also a fan of The King?}
@@ -230,20 +230,20 @@
 {660}{}{Nevermind, bud. [Dex takes another look around the room and whistles.] This place has really gone to shit.
  How long did you say it's been?}
 {661}{}{It's been over a hundred and fifty years since the great silence brought an end to the Old Ones... *your* people.}
-{665}{}{Great Silence? The Old Ones? How about you spare me this cryptic bullshit and just tell me what happened?}
-{666}{}{The Great Silence is what my people call the end of your world. When the great fires rained down from the sky and scorched the land. You'll find the world is nothing like the one you knew.}
+{665}{}{Grande Silêncio? Os Antigos? Que tal me poupar essa merda enigmática e apenas me dizer o que aconteceu?}
+{666}{}{O Grande Silêncio é o que o meu povo chama o fim do seu mundo. Quando os grandes incêndios choveram do céu e queimaram a terra. Você encontrará que o mundo não é nada como o que você conheceu.}
 {670}{}{No shit, so they actually dropped the bombs, huh? I guess the vault project wasn't just a big waste of the tax-payers'
  money, after all.}
 {671}{}{Wait. You know of the vaults?}
 {680}{}{Know of them? Hell, I killed my first hooker not far from where they were building the Chicago Vault.
  Those were the days... [He stops and regards you with amusement.] You're really eating this up, aren't you?}
-{681}{}{TELL ME MORE OF THE VAULTS!}
+{681}{}{DIGA-ME MAIS DOS VAULTS!}
 {682}{}{Well, I'm supposed to be trying to find a Vault for my tribe. Once I do, I'm expected to find a G.E.C.K. so we
  can use its power to save my dying village. Anything you can tell me about the Vaults could make my job a hell of a lot easier.}
 {683}{}{Well, you see, I had been chosen by my people to try and find a Vault. I risked my life on several occasions to
  find that damn Holy Vault and I finally was successful in finding it. I am curious what else you might know of these places.}
-{690}{}{I'll tell you what, bud. You need help finding these Vaults, and I need someone to show me the ropes, so to speak,
- in this crazy world of yours. So what do you say... partner?}
+{690}{}{Eu vou te dizer o que, broto. Você precisa de ajuda para encontrar esses Vaults e preciso de alguém para me mostrar as cordas, por assim dizer,
+  neste mundo maluco. Então, o que você diz ... parceiro?}
 {691}{}{Hell, no need to try and convince me. I'd be happy to have you along just to see your handiwork first hand.}
 {692}{}{I don't know, Dex. Let's just say I let you come along with me, and we make it back to the remote safety of a
  settlement. Once there, how do I know you won't try and slit my throat the first chance you get?}
@@ -262,8 +262,8 @@
  animal. When his eyes return to you, they soften, and he relaxes as his memories come flooding back to him. He quickly
  alters his composure, projecting cool confidence, despite his nakedness.] Hey doll, I know I'm quite the sight to behold,
  but it's a tad chilly in here. You mind if I get dressed?}
-{811}{}{I guess there's no harm-}
-{812}{}{Well, I-}
+{811}{}{Eu acho que não há mal nenhum-}
+{812}{}{Bem, Eu-}
 {820}{}{Of course you don't mind. Thanks, babe. [He steps past you, gently slapping your rump, and opens a nearby locker.
  He casually dresses himself in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb, he
  begins to sculpt and style his slicked dark hair with the quick precision of a seasoned pro.] I don't think I've seen
@@ -295,14 +295,14 @@ and fifty years.}
 {850}{}{Well they usually don't see that side of me until it's too late. But anyways... [Dex takes another look around the room and whistles.]
  This place has really gone to shit. So what have I missed out on?}
 {851}{}{It's been over a hundred and fifty years since the great silence brought an end to the Old Ones... *your* people.}
-{855}{}{Great Silence? The Old Ones? How about you spare me this cryptic bullshit and just tell me what happened?}
+{855}{}{Grande Silêncio? Os Antigos? Que tal me poupar essa merda enigmática e apenas me dizer o que aconteceu?}
 {856}{}{The Great Silence is what my people call the end of your world. When the great fires rained down from the sky and scorched the land.
  You'll find the world is nothing like the one you knew.}
 {860}{}{No shit, so they actually dropped the bombs, huh? I guess the vault project wasn't just a big waste of the tax-payers' money, after all.}
 {861}{}{Wait. You know of the vaults?}
 {870}{}{Know of them? Hell, I killed my first hooker not far from where they were building the Chicago Vault. Those were the
  days... [He stops and regards you with amusement.] You're really eating this up, aren't you?}
-{871}{}{TELL ME MORE OF THE VAULTS!}
+{871}{}{DIGA-ME MAIS DOS VAULTS!}
 {872}{}{Well, I'm supposed to be trying to find a Vault for my tribe. Once I do, I'm expected to find a G.E.C.K. so we
  can use its power to save my dying village. Anything you can tell me about the Vaults could make my job a hell of a lot  easier.}
 {873}{}{Well, you see, I had been chosen by my people to try and find a Vault. I risked my life on several occasions to
@@ -312,7 +312,7 @@ and fifty years.}
 {881}{}{Hell, no need to try and convince me. I'd be happy to have you along just to see your handiwork first hand.}
 {882}{}{I don't know, Dex. Let's just say I let you come along with me, and we make it back to the remote safety of a settlement.
  Once there, how do I know you won't try and slit my throat the first chance you get?}
-{883}{}{I say you've got a deal... partner.}
+{883}{}{Eu digo que você tem um negócio... parceiro.}
 {884}{}{Well, your knowledge of the old ones could prove quite useful to me... I suppose you've got a deal.}
 {885}{}{I don't really have the time to "show you the ropes". I'm sure you'll do just fine on your own, "babe".}
 {890}{}{I can tell you're no saint either, so I could ask you the same thing. But to answer your question, I wouldn't kill

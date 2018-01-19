@@ -70,8 +70,8 @@
 {403}{}{Eu sou Buffy... o seu brinde.}
 {405}{}{Ninguém ameaça Doombot!}
 {406}{}{Grim Buster!}
-{410}{}{Only a guanabana could compare with the taste of this victory...}
-{415}{}{The village is a happy place, but you made it very, very angry.}
+{410}{}{Apenas um guanabana poderia comparar com o sabor desta vitória...}
+{415}{}{A vila é um lugar feliz, mas você fez isso com muita, muita raiva.}
 {420}{}{Você envergonhou nosso país com suas ações pela última vez!}
 {430}{}{Eu vou colocar você para dormir para o bem!}
 {435}{}{Estamos todos indo para o inferno, e eu estou dirigindo o ônibus.}

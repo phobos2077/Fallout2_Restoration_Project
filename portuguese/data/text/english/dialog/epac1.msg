@@ -11,6 +11,6 @@
 {207}{}{...SOLUÇO...}
 {208}{}{Vida. Não me falem de vida.}
 {209}{}{Eu acho que você deveria saber que eu estou me sentindo muito deprimido.}
-{210}{}{Pardon me for breathing, which I never do anyway so I don't know why I bother to say it, oh God, I'm so depressed.}
-{500}{}{Yeah, just push me over a cliff}
-{501}{}{***bzzt Stop that! *** bzzt}
+{210}{}{Perdoe-me por respirar, que eu nunca faço de qualquer maneira, então eu não sei por que me preocupar em dizer isso, oh Deus, eu estou tão deprimido.}
+{500}{}{Sim, só me empurrar de um penhasco}
+{501}{}{***bzzt Pare com isso! *** bzzt}
