@@ -200,10 +200,10 @@
   e os abraça contra o peito. Ele se senta lá por vários momentos, olhando fixamente à frente, enquanto seu corpo tremula e seu
   danças de dentes. Gradualmente, ele parece se acalmar.]}
 {601}{}{Uh, hey...}
-{610}{}{[He snaps his head towards you and leaps to his feet. He watches you intently, then glances around like a cornered
- animal. When his eyes return to you, they soften, and he relaxes as his memories come flooding back to him. He quickly
- alters his composure, projecting cool confidence, despite his nakedness.] I don't recognize you, bud. You don't mind if
- I get dressed do you?}
+{610}{}{[Ele encaixa a cabeça em sua direção e pula em seus pés. Ele o observa atentamente, depois olha como uma curva
+  animal. Quando seus olhos retornam a você, eles se suavizam, e ele relaxa enquanto suas lembranças chegam de volta a ele. Ele rapidamente
+  altera sua compostura, projetando confiança legal, apesar de sua nudez.] Eu não reconheço você, broto. Você não se importa se
+  Eu me viste?}
 {611}{}{Eu acho que não há mal nenhum-}
 {612}{}{Bem, Eu-}
 {620}{}{Of course you don't mind. Thanks, pal. [He steps past you and opens a nearby locker. He casually dresses himself
