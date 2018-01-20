@@ -6,17 +6,17 @@
 {201}{}{Quem é você?}
 {210}{}{[De pé e se sacudindo como um animal molhado, o homem olha para você e sorri, revelando alguns dentes da frente estranhamente afiados.]
   Quem sou *eu*? Quem é *Você*? Você parece um vagabundo fortemente armado!}
-{211}{}{[Standing up and shaking himself dry like a wet animal, the man looks at you grinning widely, revealing some oddly sharp front teeth.]
- Who am *I*. Why, I'm only Sgt. Jules, the best-looking soldier on this base, gorgeous!}
+{211}{}{[De pé e se sacudindo como um animal molhado, o homem olha para você sorrindo amplamente, revelando alguns dentes da frente estranhamente afiados.]
+  Quem sou *eu*. Por que, sou sargento Jules, o soldado mais bem parecido desta base, lindo!}
 {212}{}{Eu sou }
-{213}{}{. But, what's your name?}
-{214}{}{Don't you get cocky with me. What's with this place anyway?}
-{215}{}{I see. Well, Sgt. Jules, what's going on around here anyway?}
-{216}{}{How come you're alive? The Doctor said he was the only survivor.}
-{220}{}{The name's Sgt. Jules, but you can call me Cat. I'm the fastest and best-looking soldier on this base.}
-{221}{}{Right, whatever you say. So, what's with this place?}
+{213}{}{. Mas, qual é o seu nome?}
+{214}{}{Não se arrisque comigo. O que há com esse lugar de qualquer maneira?}
+{215}{}{Entendo. Bem, Sgt. Jules, o que está acontecendo aqui de qualquer maneira?}
+{216}{}{Como você está vivo? O Médico disse que ele foi o único sobrevivente.}
+{220}{}{O nome é Sgt. Jules, mas você pode me chamar de gato. Eu sou o soldado mais rápido e de melhor aparência nesta base.}
+{221}{}{Certo, o que você disser. Então, o que há com esse lugar?}
 {230}{}{You mean Doctor C? Why would he forget about me? Hell, he helped shape this work of *ART* [He gestures at his body].}
-{231}{}{Right, whatever you say. So, what's with this place?}
+{231}{}{Certo, o que você disser. Então, o que há com esse lugar?}
 {232}{}{I think we are talking about two different people...So, what's going on around here anyway?}
 {240}{}{This is some government facility as far as I know. They do all kinds of top secret research. But...[He looks around
  the room.] it's awfully quiet. Where is everybody?}
