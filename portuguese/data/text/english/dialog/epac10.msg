@@ -443,112 +443,116 @@ que não podem ser todas verdadeiras.}
 {2010}{}{Está um pouco cheio. Deixe-me saber se as coisas se abrem.}
 {2020}{}{Nenhuma maneira no inferno que eu estou viajando com você. Você é feio pra caralho.}
 {2030}{}{Vamos rolar.}
-{2031}{}{About time we got goin' again.}
-{3000}{}{So, what's your story?}
-{3001}{}{What, like my life story? Look, I know I'm pretty fascinating, but I don't want to stand around talking forever.
- My mouth will get all dry and there's not a whole lot of water to go around-it's just not a good situation to be in.
- But I suppose I could sum it up for you if you really want to know... Actually, I DO like to talk about myself so I'll
- leave up to you. You want the quick summary or the version with more detail?}
-{3002}{}{Just give me the quick summary.}
-{3003}{}{Lets hear the detailed version.}
-{3004}{}{Never mind, I lost interest.}
-{3010}{}{Alright, basically, ever since I was a kid, I liked to kill things. I could talk about my childhood and my
- shitty parents and try to analyze why I like to do it, but I don't need an excuse. I do it simply because I can, and
- it's fun. By the time I was sixteen I spent my days as a popular high school heartthrob, and my nights as a ripper of
- Chicago's young working girls.}
-{3011}{}{Uh huh. Go on.}
-{3012}{}{Then one day I caught my girlfriend making the beast with two backs with another guy. I butchered them, set
- the place on fire, then high tailed it out of Chicago. Spent the next ten years traveling the nation, seducing girls,
- then cutting 'em up. Then they finally caught me, and my trail turned me into a celebrity.}
-{3013}{}{So, then what?}
-{3014}{}{So then one of my new fans, Alice, helps me escape. The two of us go on a three week cross country murder rampage
- before we finally go down in a shootout. Then, for some reason, The Man decides to stitch me back together and run all
- these tests on me. And that's how I wound up at the EPA where you found me.}
+{2031}{}{Por volta do tempo, conseguimos ir novamente.}
+{3000}{}{Então, qual é a sua história?}
+{3001}{}{Como, como a história da minha vida? Olha, eu sei que sou muito fascinante, mas não quero ficar em pé falando para sempre.
+  Minha boca ficará seca e não há muita água para dar uma volta - não é apenas uma boa situação.
+  Mas eu suponho que eu poderia resumi-la para você, se você realmente quer saber ... Na verdade, eu gosto de falar sobre mim mesmo, então eu vou
+  Deixar para você. Você quer o resumo rápido ou a versão com mais detalhes?}
+{3002}{}{Apenas me dê resumo rápido.}
+{3003}{}{Vamos ouvir a versão detalhada.}
+{3004}{}{Não importa, perdi o interesse.}
+{3010}{}{Tudo bem, basicamente, desde que eu era criança, gostava de matar coisas. Eu poderia falar sobre minha infância e meus
+  pais de merda e tente analisar por que eu gosto de fazê-lo, mas não preciso de uma desculpa. Eu faço isso simplesmente porque eu posso, e
+  é divertido. Quando eu tinha dezesseis anos, passei meus dias como um galã popular do ensino médio e minhas noites como um estripador de
+  Jovens trabalhadoras de Chicago.}
+{3011}{}{Uh huh. Ir em frente.}
+{3012}{}{Então um dia eu peguei minha namorada fazendo a besta com duas costas com outro cara. Eu os matei, estabeleci
+  O lugar em chamas, depois o alto caiu fora de Chicago. Passou os próximos dez anos viajando pela nação, seduzindo meninas,
+  depois cortando-as. Então eles finalmente me pegaram, e minha trilha me transformou em uma celebridade.}
+{3013}{}{Então, o que?}
+{3014}{}{Então, um dos meus novos fãs, Alice, me ajuda a escapar. Nós dois fomos em uma fuga de assalto de três semanas por país
+  antes de finalmente cair em um tiroteio. Então, por algum motivo, O Homem decide me juntar e correr tudo
+  Esses testes em mim. E foi assim que acabei na EPA, onde você me encontrou.
+}
 {3015}{}{Obrigado pela história.}
-{3020}{}{Let's see.... My Mom was a drug fiend and a whore, and my Dad was an ornery drunken bastard. Fortunately, my
- grandpa was alright for an old guy. Introduced me to The King's music. Unfortunately, he was claimed by the New Plague
- when I was seven. Then when I was ten, I watched from the closet as my Dad beat my Mom to death for forgetting to feed
- our dog, Captain Robeenie.}
-{3021}{}{This is off to a pleasant start. Go on.}
-{3022}{}{The bitch should've remembered to feed the Captain. Go on.}
-{3023}{}{So they put my Dad away and shipped me off to live with my Aunt and Uncle. You see, I was a little hell-raiser,
- even then, and my Uncle, being a military sort, thought he'd be able to straighten me out-turn me into a Red slaying
- soldier boy, just like the son he'd lost. He gave it his best shot, but I was a stubborn son-of-a-bitch.}
-{3024}{}{Uh huh. Go on.}
-{3025}{}{So anyway, we did a lot of moving around and it wasn't until I was in high school that we finally settled down
- in Chicago. That's when I took to sneaking out at night and knifing hookers. I'd been killing things for as long as I
- could remember, but gutting neighborhood critters didn't compare to the real deal, you know?}
+{3020}{}{Vamos ver ... Minha mãe era uma droga e uma prostituta, e meu pai era um bastardo bêbado. Felizmente, meu
+  Vovó estava certo para um velho. Introduziu-me na música do rei. Infelizmente, ele foi reivindicado pela Nova Praga
+  Quando eu tinha sete. Então, quando eu tinha dez anos, assisti do armário enquanto meu pai batia minha mãe até a morte por esquecer de alimentar
+  nosso cachorro, o capitão Robeenie.}
+{3021}{}{Este é um bom começo. Continue.}
+{3022}{}{A cadela deveria ter se lembrado de alimentar o capitão. Continue.}
+{3023}{}{Então eles colocaram meu pai e me levaram para viver com minha tia e tio. Você viu, eu era um pequeno invasor,
+  mesmo assim, e meu tio, sendo um tipo militar, pensou que seria capaz de endireitar-me - transformar-me em um assassino vermelho
+  menino soldado, assim como o filho que ele perdeu. Ele deu seu melhor tiro, mas eu era um filho de puta teimoso.}
+{3024}{}{Uh huh. Ir em frente.}
+{3025}{}{Então, de qualquer forma, fizemos muitas mudanças e não foi até que eu estivesse no colégio que finalmente nos estabelecemos
+  em Chicago. Foi quando eu levantei para fugir à noite e cortar putas. Eu estava matando coisas por enquanto eu
+  poderia lembrar, mas destruir bichos de vizinhança não se comparou ao negócio real, você sabe?}
 {3026}{}{Com certeza.}
-{3027}{}{So things were pretty sweet, for the most part. I mean, I fucking hated my Uncle and Aunt, but at school I was
- Mr. Popular. Every guy wanted to be my friend and every gal I looked at was willing to spread for me. Except for this
- one gal, Vicky. She actually took a bit of work. Amazing, I know, but eventually I got her to come around and become my girl.}
-{3028}{}{And all the while you were moonlighting as a serial killer?}
-{3029}{}{I don't really care about your high school sweetheart. Forget the story.}
-{3030}{}{Yeah. [Dex grins.] Those were the days. I was actually happy, you know? After we graduated, Vicky and I got our
- own little place together, and everything was aces. But that bitch had to go and ruin everything by sneaking around behind my back.}
-{3031}{}{How dare she.}
-{3032}{}{I caught her in the act, and I lost it. Things got real brutal. It was sloppy and there was no way I was going to
- be able to just cover it up. So I set the place on fire and hit the road. Did a lot of traveling, laid a lot of girls and
- left most of 'em dead. It wasn't a bad life, you know? It took 'em ten years, but the law finally caught up with me.}
-{3033}{}{Uh-oh. So then what?}
-{3034}{}{Then they put me on trial and it became a bit of media circus. The girls loved it because I'm a dreamboat,
- and everyone else loved it because it was a distraction from news about the New Plague and politics. So I thought I'd
- give 'em a real show.}
-{3035}{}{What'd you do?}
-{3036}{}{Well by then I'd made plenty of fans, but there was this one in particular, a real doll named Alice. She said
- she loved me and would do anything for me. So during my trail, she helped me make a break for it. It was a long shot,
- but we were lucky enough to pull it off. Then things got crazy... Are you sure you never heard about any of this?}
-{3037}{}{I'm sure, but go on.}
-{3038}{}{Never heard of it, and now I never want to. Just forget it, I'm bored.}
-{3039}{}{Well now that I was with Alice, it was kind of hard to revert back to my old ways of seducing women and slicing
- them open. Instead, we just starting thrill killing anyone that was convenient. It didn't matter how young or old, we
- were equal opportunity killers. But killing recklessly like that, we were easy to track. In three weeks they had us
- cornered. They gunned me down and Alice blew her own brains out.}
-{3040}{}{I see. Then what?}
-{3041}{}{So there I was, certain I was going to die, but then these G-Men stepped in and took me away. They got me back
- to a hundred percent, then started doing these tests on me, trying to figure out what makes me the way I am... Anyway,
- you can figure the rest, and my throats dry from talking. Damn, I was hoping to avoid that.}
+{3027}{}{Então, as coisas eram muito bonitas, na maioria das vezes. Quero dizer, eu odeio meu tio e tia, mas na escola eu era o
+  Sr. Popular. Todo homem queria ser meu amigo e todas as garotas que eu olhava estavam dispostas a espalhar por mim. Exceto por isso
+  uma galinha, Vicky. Ela realmente tomou um pouco de trabalho. Incrível, eu sei, mas eventualmente eu consegui que ela viesse e se tornasse minha garota.}
+{3028}{}{E todo o tempo você estava brilhando como um serial killer?}
+{3029}{}{Eu não me importo muito com sua namorada do colégio. Esqueça a história.}
+{3030}{}{Sim. [Dex sorri.] Aqueles foram os dias. Eu estava realmente feliz, você sabe? Depois que nos formamos, Vicky e eu obtivemos nosso
+  pequeno lugar em comum, e tudo era um aces. Mas aquela cadela tinha que ir e arruinar tudo se esgueirando atrás de minhas costas.}
+{3031}{}{Como ela ousa.}
+{3032}{}{Eu a peguei no ato, e eu perdi. As coisas ficaram muito brutais. Era desleixado e não havia como eu estava indo
+  ser capaz de encobri-lo. Então coloquei o lugar em chamas e acertei na estrada. Viajei muito, coloquei muitas garotas e
+  deixei a maioria delas morta. Não foi uma vida ruim, você sabe? Demorou dez anos, mas a lei finalmente me alcançou.
+}
+{3033}{}{Uh-oh. Então, o que?}
+{3034}{}{Então eles me levaram a julgamento e tornou-se um pouco de circo de mídia. As meninas adoraram porque sou um dreamboat,
+  e todos os outros amaram porque era uma distração das notícias sobre a nova praga e a política. Então eu pensei que eu iria
+  Dar-lhes um show real.}
+{3035}{}{O que você fez?}
+{3036}{}{Bem, naquela época, eu fazia muitos fãs, mas havia esse em particular, uma boneca real chamada Alice. Ela disse
+  ela me amava e faria qualquer coisa por mim. Então, durante minha trilha, ela me ajudou a fazer uma pausa para isso. Foi um tiro longo,
+  Mas tivemos a sorte de retirar isso. Então as coisas ficaram loucas ... Você tem certeza de que nunca ouviu falar sobre isso?
+}
+{3037}{}{Tenho certeza, mas continue.}
+{3038}{}{Nunca ouvi falar dele, e agora eu nunca mais quero. Apenas esqueça, eu estou entediado.}
+{3039}{}{Bem, agora que eu estava com Alice, era meio difícil reverter minhas velhas maneiras de seduzir mulheres e cortar
+  Eles estão abertos. Em vez disso, acabamos de começar a emoção de matar qualquer um que fosse conveniente. Não importava quão jovem ou velho, nós
+  eramos assassinos de igualdade de oportunidades. Mas matando imprudentemente assim, fomos fáceis de rastrear. Em três semanas eles nos tiveram
+  encurralados. Eles me derrubaram e Alice soltou seus próprios cérebros.}
+{3040}{}{Entendo. Então o que?
+}
+{3041}{}{Então, estava lá, certo de que ia morrer, mas esses G-Men entraram e me levaram. Eles me deram de volta
+  para cem por cento, então comecei a fazer esses testes em mim, tentando descobrir o que me faz do jeito que eu sou ... De qualquer forma,
+  Você pode imaginar o resto e minhas gargantas secas de falar. Porra, eu estava esperando para evitar isso.}
 {3042}{}{Obrigado pela história.}
-{3100}{}{Any tips you might be able to give me?}
-{3101}{}{Tips? What kind of tips?}
-{3102}{}{Well, I'm sure you've got some skill.}
-{3103}{}{Oh, I've got all *kinds* of skills. But if you're looking for advice... [He looks you over, then nods.] Alright,
- what the hell. I'll give you some pointers that'll have the ladies crawling at your feet. Now, the first thing you gotta do is...}
-{3104}{}{You wanna see my skills? I'll show you my skills anytime, sweetheart. But if you're looking for advice...
- [He looks you over, then nods.] Alright, what the hell. I'll give you some pointers that'll have the fellas eating out of
- your hands. Now, the first thing you gotta do is...}
-{3105}{}{There you go. Now don't be telling other people these trade secrets.}
+{3100}{}{Alguma dicas que você possa me dar?}
+{3101}{}{Dicas? Que tipo de dicas?}
+{3102}{}{Bem, eu tenho certeza que você tem alguma habilidade.}
+{3103}{}{Oh, eu tenho todos os * tipos * de habilidades. Mas se você está procurando um conselho ... [Ele te olha, depois acena com a cabeça.] Tudo bem,
+  que diabos. Vou dar-lhe algumas dicas que terão as senhoras rastejando aos seus pés. Agora, o primeiro que você precisa fazer é ...}
+{3104}{}{Você quer ver minhas habilidades? Vou mostrar-lhe minhas habilidades a qualquer momento, querida. Mas se você está procurando conselhos ...
+  [Ele te olha, depois acena com a cabeça.] Tudo bem, o que diabos. Eu vou dar-lhe algumas dicas que terão os amigos comendo nas
+  suas mãos. Agora, o primeiro que você precisa fazer é ...}
+{3105}{}{Ai está. Agora não diga a outras pessoas esses segredos comerciais.}
 {3106}{}{Obrigado.}
-{4000}{}{Man do I love the post-nuclear future.}
-{4001}{}{Come on. Let's have some violence.}
-{4002}{}{Let's find some more young ladies to, uh, admire.}
-{4003}{}{Let us seek more carnal knowledge.}
-{4004}{}{You ever just sprawl a girl out on a bed and cut her open? I tell ya, absolute beauty.}
-{4005}{}{I really need to cut something soon...}
-{4006}{}{You'd think a corpse would be terrible in bed, but you'd be surprised.}
-{4007}{}{[singing] I put an ax in my baby's head, I'm gonna end up doing time... she looked so good in red...[singing]}
-{4008}{}{[singing] 'caus I'm eviiillllll, my middle name is, miseerryyy...[singing]}
-{4009}{}{You dig my suit? This sweet baby was made in Grand Rapids, Michigan.}
-{4010}{}{So... where about the wasteland do you think they keep the hair gel?}
-{4011}{}{I know it sounds a bit gross, but don't knock deep fried ovaries 'til you've tried 'em.}
-{4012}{}{[Removes pocket comb and fixes hair.]}
-{4020}{}{Hey! I'm fuckin' bleeding over here.}
-{4021}{}{Oh man, I'm not doing too well.}
-{4022}{}{Get me to a fucking doctor.}
-{4023}{}{You gonna just stand there and watch me bleed to death or are you going to do something about this?}
-{4030}{}{I'm feeling a little weird over here...}
-{4031}{}{Hey, I'm feeling a bit radiated. If this isn't the kind that grants super powers, then I'm going to be pissed.}
-{4040}{}{You know, you're a bad influence.}
-{4041}{}{I try to stay away from this stuff. But if you insist...}
-{4042}{}{My body's a temple, but I guess this once won't hurt.}
-{4043}{}{If this does any permanent damage, I'm going to cut you.}
-{4045}{}{I feel much better now.}
-{4046}{}{Much better.}
-{4050}{}{Hey! Watch the hair.}
-{4051}{}{Hey, you don't rush perfection.}
-{4060}{}{It just isn't the same when their blood's still warm, ya know?}
-{4061}{}{I hope you took notes.}
-{4062}{}{Girls have gotten pretty freaky since the end of the world... I dig that.}
+{4000}{}{Cara, Eu amo o futuro pós-nuclear.}
+{4001}{}{Venha. Vamos ter algum tipo de violência.}
+{4002}{}{Vamos encontrar mais jovens para admirar.}
+{4003}{}{Vamos buscar mais conhecimento carnal.}
+{4004}{}{Você acabou de espalhar uma garota em uma cama e cortá-la? Eu lhe digo, beleza absoluta.}
+{4005}{}{Eu realmente preciso cortar algo em breve...}
+{4006}{}{Você acha que um cadáver seria terrível na cama, mas você ficaria surpreso.}
+{4007}{}{[cantando] Eu coloquei um machado na cabeça do meu bebê, eu vou acabar fazendo tempo ... ela parecia tão boa em vermelho ... [cantando]}
+{4008}{}{[cantando] porque eu sou maligno, meu nome do meio é, miséria ... [cantando]}
+{4009}{}{Você escava meu terno? Este doce bebê foi criado em Grand Rapids, Michigan.}
+{4010}{}{Então ... onde sobre a terra devastada você acha que eles mantêm o gel de cabelo?}
+{4011}{}{Eu sei que parece um pouco grosseiro, mas não desprese ovários fritos até que você os tenha experimentado.}
+{4012}{}{[Remove pente de bolso e corrige o cabelo.]}
+{4020}{}{Ei! Estou sangrando por aqui.}
+{4021}{}{Oh, cara, não vou muito bem.}
+{4022}{}{Me leve a um maldito médico.}
+{4023}{}{Você vai ficar parado lá e me observa sangrar até a morte ou você vai fazer algo sobre isso?}
+{4030}{}{Eu estou me sentindo um pouco estranho por aqui...}
+{4031}{}{Ei, estou me sentindo um pouco irradiado. Se este não for o tipo que concede superpoderes, então eu vou ficar chateado.}
+{4040}{}{Você sabe, você é uma má influência.}
+{4041}{}{Eu tento ficar longe de tudo isso. Mas se você insiste...}
+{4042}{}{Meu corpo é um templo, mas eu acho que desta vez não vai doer.}
+{4043}{}{Se isso faz algum dano permanente, eu vou cortar você.}
+{4045}{}{Eu me sinto muito melhor agora.}
+{4046}{}{Muito melhor.}
+{4050}{}{Hey! Assista o cabelo.}
+{4051}{}{Ei, você não apressa a perfeição.}
+{4060}{}{Não é o mesmo quando seu sangue ainda está quente, você sabe?}
+{4061}{}{Espero que você tenha tomado notas.}
+{4062}{}{As meninas ficaram muito loucas desde o fim do mundo ... Eu escavo isso.}
 {4063}{}{...and thats why the babes used to call me "Dex, the Duke of Sex".}
 {4070}{}{I feel nauseated. I think I'm poisoned.}
 {4071}{}{I feel like I'm gonna puke my guts out.}

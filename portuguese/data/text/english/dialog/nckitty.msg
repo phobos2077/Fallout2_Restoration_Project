@@ -214,9 +214,9 @@
 {703}{}{Wow.}
 {704}{}{*Whew*}
 {705}{}{Heh...I sure hope I didn't get her pregnant.}
-{706}{}{It just isn't the same when their blood's still warm, ya know?}
-{707}{}{I hope you took notes.}
-{708}{}{Girls have gotten pretty freaky since the end of the world... I dig that.}
+{706}{}{Não é o mesmo quando seu sangue ainda está quente, você sabe?}
+{707}{}{Espero que você tenha tomado notas.}
+{708}{}{As meninas ficaram muito loucas desde o fim do mundo ... Eu escavo isso.}
 {709}{}{...and thats why the babes used to call me "Dex, the Duke of Sex".}
 {710}{}{You talk for hours. The girls at the Cat's Paw have amazing insight into human nature.}
 {711}{}{The Mordino lieutenant arrives, and seems impressed with you. He leads you north out of
