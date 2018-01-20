@@ -1,7 +1,7 @@
 {100}{}{Seems to be a guard of some sort.}
 {101}{}{You see a Protector.}
 {150}{}{Besides the pale skin and enlarged pupils, he looks to be an ordinary person.}
-{200}{}{Holy shit!}
+{200}{}{Puta merda!}
 {201}{}{Oooh! Now that's gotta hurt.}
 {210}{}{You do know you can enter from the back door...}
 {211}{}{Bwahahahaha!}

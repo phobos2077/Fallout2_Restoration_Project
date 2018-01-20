@@ -1,11 +1,11 @@
-{100}{}{You see Sergeant Cat Jules.}
-{101}{}{You see a good-looking black man with rather pronounced canines. He moves with a constant swagger and has a smug
- expression on his face.}
-{200}{}{[As you approach the cryogenic chamber, you see a slender, naked black man sprawled on the floor.
- His muscular body is still shaking from the icy, cold water. He looks up at you as you approach.]}
+{100}{}{Você vê o Sargento Gato Jules.}
+{101}{}{Você vê um homem negro bem parecido com caninos bastante pronunciados. Ele se move com uma arrogância constante e tem uma presunçosa
+  expressão no rosto.}
+{200}{}{[À medida que você se aproxima da câmara criogênica, você vê um homem preto esbelto e nu, esparramado no chão.
+  Seu corpo musculoso ainda está tremendo da água gelada e fria. Ele olha para você enquanto você se aproxima.]}
 {201}{}{Quem é você?}
-{210}{}{[Standing up and shaking himself dry like a wet animal, the man looks at you and smirks, revealing some oddly sharp front teeth.]
- Who am *I*? Who are *you*? You look like a heavily armed hobo!}
+{210}{}{[De pé e se sacudindo como um animal molhado, o homem olha para você e sorri, revelando alguns dentes da frente estranhamente afiados.]
+  Quem sou *eu*? Quem é *Você*? Você parece um vagabundo fortemente armado!}
 {211}{}{[Standing up and shaking himself dry like a wet animal, the man looks at you grinning widely, revealing some oddly sharp front teeth.]
  Who am *I*. Why, I'm only Sgt. Jules, the best-looking soldier on this base, gorgeous!}
 {212}{}{Eu sou }
@@ -113,4 +113,4 @@
 {2901}{}{[FIM]}
 {5000}{}{[The man stands up and shakes himself dry like a wet animal. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.}
 {5001}{}{[FIM]}
-{5002}{}{Holy shit!}
+{5002}{}{Puta merda!}

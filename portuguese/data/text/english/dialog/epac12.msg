@@ -366,4 +366,4 @@
 {3261}{}{Look, I'm sick of hearing about your parents. How 'bout you get to the part about you being a spy?}
 {5000}{}{[As the woman looks up at your face, her eyes suddenly grow wide and she starts gasping for air.}
 {5001}{}{[FIM]}
-{5002}{}{Holy shit!}
+{5002}{}{Puta merda!}

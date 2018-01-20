@@ -554,47 +554,47 @@ que não podem ser todas verdadeiras.}
 {4061}{}{Espero que você tenha tomado notas.}
 {4062}{}{As meninas ficaram muito loucas desde o fim do mundo ... Eu escavo isso.}
 {4063}{}{... e é por isso que as bebês costumavam me chamar de "Dex, o duque do sexo".}
-{4070}{}{I feel nauseated. I think I'm poisoned.}
-{4071}{}{I feel like I'm gonna puke my guts out.}
-{4080}{}{I can't move this limb. I need medical attention.}
-{4081}{}{I think I lost feeling in this limb. Is that bad?}
-{4090}{}{It just got really blurry. Where'd everyone go?}
-{4091}{}{I think blood is coming out of my eyes.}
-{4100}{}{So, facial tattoos, huh? I guess if I was as ugly as bone-nose, here, I'd want to cover that up too.}
-{4101}{}{Yo, face-tats. You the cannibalistic sort? Maybe we could exchange recipes or something.}
-{4102}{}{I get the feeling your pal Sulik here doesn't dig me too much. You ever think about selling the guy off for some cash?}
-{4110}{}{Seriously, what's with the dumpy bald dude? You keeping him out of pity or something?}
-{4111}{}{So Vic, I hear you've got a spunky daughter. You should introduce me to her.}
-{4120}{}{Miria, honey, we really need to spend some one-on-one time together.}
-{4121}{}{So I'm guessing we get to take turns with Miria, right?}
-{4122}{}{[Winks at Miria.]}
-{4123}{}{[Smiles at Miria.]}
-{4124}{}{Miria, you need a man who's in the same league as you. You know, one like me.}
-{4125}{}{[Brandishes knife at Miria. Grins.]}
-{4130}{}{I say we put a hole in Davin's head and roll him into a ditch.}
-{4131}{}{Let's say, hypothetically, that Davin somehow gets his throat slit in his sleep tonight. No one's gonna care, right?}
-{4140}{}{Hey Cassidy, you should really try some Psycho. I heard it can even re-grow hair.}
-{4141}{}{Why don't you hit that booze a little harder, Cassidy? It seems to have aged you so well.}
-{4142}{}{It's pathetic to see someone as old as Cassidy trying to hold on to life. If I were in his shoes,
- I'd kiss the barrel of a shotgun and just end it.}
-{4150}{}{Lets say we ditch the walking corpse.}
-{4151}{}{Alright, this whole joke about bringing Lenny along has gone on a little long now, don't you think?}
-{4152}{}{How the hell am I supposed to pick up the ladies with Lenny hanging around?}
-{4160}{}{So, uh, Marcus, when do you revert back to the mild mannered physicist?}
-{4161}{}{Hey Marcus, don't you have some kind of town you're supposed to be running?}
-{4170}{}{Hang in there Myron, I'm sure someday your balls will drop.}
-{4171}{}{The Dork-boy's kinda cramping my style.}
-{4172}{}{Myron's like one giant pimple, just waiting to be popped.}
-{4180}{}{At least Goris has the decency to cover himself.}
-{4181}{}{Good job blending in, Goris. You look just like a typical hunchbacked freak.}
-{4200}{}{I'm curious to see what these tribal women are like.}
-{4210}{}{Whores... whores everywhere. I love this fucking place.}
-{4220}{}{This place is just begging for some chaos.}
-{4230}{}{There's too many cops here. I say we bail.}
-{4240}{}{Great, more freaks. We better not stay here longer than we have to.}
-{4250}{}{We're wasting our time here. Zombie chicks aren't my thing. I generally don't like gals to look dead until AFTER I'm through with 'em.}
-{4260}{}{Why the hell are we even wasting our time here? Seriously?}
-{4270}{}{I don't think I want to willingly spend any more of my time in this facility.}
-{5000}{}{[He snaps his head towards you and leaps to his feet. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.}
+{4070}{}{Sinto-me nauseado. Acho que estou envenenada.}
+{4071}{}{Eu sinto que vou vomitar minhas tripas para fora.}
+{4080}{}{Eu não posso mover este membro. Eu preciso de um médico.}
+{4081}{}{Acho que perdi a sensação neste membro. Isso é ruim?}
+{4090}{}{Ele ficou realmente embaçado. Para onde todos foram?}
+{4091}{}{Eu acho que o sangue está saindo dos meus olhos.}
+{4100}{}{Então, tatuagens faciais, hein? Acho que se eu fosse tão feio como o nariz ósseo, aqui, eu gostaria de cobrir isso também.}
+{4101}{}{Ei, tatuagem facial. Você é o tipo canibal? Talvez possamos trocar receitas ou algo assim.}
+{4102}{}{Tenho a sensação de que seu amigo, Sulik, não me escava demais. Você já pensou em vender o cara fora por algum dinheiro?}
+{4110}{}{Sério, o que há com o cara ruivo e calvo? Você mantem-o por pena ou algo assim?}
+{4111}{}{Então, Vic, eu ouvi você ter uma filha robusta. Você deve me apresentar para ela.}
+{4120}{}{Miria, querido, precisamos passar algum tempo juntos.}
+{4121}{}{Então, eu acho que nós vamos nos revezar com a Miria, certo?}
+{4122}{}{[Pisca para Miria.]}
+{4123}{}{[Sorri para Miria.]}
+{4124}{}{Miria, você precisa de um homem que esteja na mesma liga que você. Você sabe, um como eu.}
+{4125}{}{[Exibe a faca para Miria. Sorrisos.]}
+{4130}{}{Eu digo que colocamos um buraco na cabeça de Davin e o colocamos em uma vala.}
+{4131}{}{Digamos, hipoteticamente, que Davin de alguma maneira fica com a garganta cortada em sono esta noite. Ninguém vai se importar, né?}
+{4140}{}{Ei, Cassidy, você realmente deveria tentar algum Psycho. Ouvi dizer que pode até crescer o cabelo.}
+{4141}{}{Por que você não bateu essa bebida um pouco mais difícil, Cassidy? Parece que envelheceu você tão bem.}
+{4142}{}{É patético ver alguém tão antigo quanto Cassidy tentando manter a vida. Se eu estivesse no chão,
+  Eu beijaria o cano de uma espingarda e acabaria com isso.}
+{4150}{}{Digamos que abandonemos o cadáver ambulante.}
+{4151}{}{Tudo bem, essa piada sobre trazer Lenny junto passou um pouco do tempo agora, você não acha?}
+{4152}{}{Como diabos eu deveria pegar as senhoras com Lenny aí?}
+{4160}{}{Então, uh, Marcus, quando você volta para o físico moderado?}
+{4161}{}{Ei, Marcus, você não tem algum tipo de cidade que você deveria estar executando?}
+{4170}{}{Inclua lá Myron, tenho certeza que um dia suas bolas vão cair.}
+{4171}{}{O Dork-boy tem um pouco de calcinha no meu estilo.}
+{4172}{}{Myron é como uma espinha gigante, apenas esperando que apareça.}
+{4180}{}{Pelo menos Goris tem a decência de cobrir-se.}
+{4181}{}{Bom trabalho se misturando, Goris. Você parece um típico idiota corcunda.}
+{4200}{}{Tenho curiosidade em ver como são essas mulheres tribais.}
+{4210}{}{Putas ... putas em todos os lugares. Eu amo esse lugar de merda.}
+{4220}{}{Este lugar está apenas implorando por algum caos.}
+{4230}{}{Há muitos policiais aqui. Eu digo que nós fomentamos.}
+{4240}{}{Ótimo, mais malucos. É melhor não ficar aqui mais tempo do que temos.}
+{4250}{}{Estamos perdendo o nosso tempo aqui. Os pintainhos zombis não são meus. Em geral, não gosto que a moça pareça morta até depois de terminar com elas.}
+{4260}{}{Por que diabos estamos perdendo nosso tempo aqui? A sério?}
+{4270}{}{Não acho que eu desejei passar de bom grado mais do meu tempo nesta instalação.}
+{5000}{}{[Ele encaixa a cabeça em sua direção e pula em seus pés. Enquanto ele olha para você, seus olhos de repente ficam muito abertos e ele começa a ofegar pelo ar.}
 {5001}{}{[FIM]}
-{5002}{}{Holy shit!}
+{5002}{}{Puta merda!}
