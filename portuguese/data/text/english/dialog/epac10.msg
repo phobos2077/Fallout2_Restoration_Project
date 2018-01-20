@@ -553,7 +553,7 @@ que não podem ser todas verdadeiras.}
 {4060}{}{Não é o mesmo quando seu sangue ainda está quente, você sabe?}
 {4061}{}{Espero que você tenha tomado notas.}
 {4062}{}{As meninas ficaram muito loucas desde o fim do mundo ... Eu escavo isso.}
-{4063}{}{...and thats why the babes used to call me "Dex, the Duke of Sex".}
+{4063}{}{... e é por isso que as bebês costumavam me chamar de "Dex, o duque do sexo".}
 {4070}{}{I feel nauseated. I think I'm poisoned.}
 {4071}{}{I feel like I'm gonna puke my guts out.}
 {4080}{}{I can't move this limb. I need medical attention.}

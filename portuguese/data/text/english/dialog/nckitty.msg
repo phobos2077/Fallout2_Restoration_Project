@@ -217,7 +217,7 @@
 {706}{}{Não é o mesmo quando seu sangue ainda está quente, você sabe?}
 {707}{}{Espero que você tenha tomado notas.}
 {708}{}{As meninas ficaram muito loucas desde o fim do mundo ... Eu escavo isso.}
-{709}{}{...and thats why the babes used to call me "Dex, the Duke of Sex".}
+{709}{}{... e é por isso que as bebês costumavam me chamar de "Dex, o duque do sexo".}
 {710}{}{You talk for hours. The girls at the Cat's Paw have amazing insight into human nature.}
 {711}{}{The Mordino lieutenant arrives, and seems impressed with you. He leads you north out of
  town to someplace called the "Stables."}
