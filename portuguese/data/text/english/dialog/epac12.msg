@@ -185,7 +185,7 @@
 {454}{}{Lead the way, skipper.}
 {460}{}{You've got enough people already. You don't need an entourage.}
 {461}{}{Maybe when you've freed up some space. I don't run well with crowds.}
-{462}{}{You ready to take me with you?}
+{462}{}{Você está pronto para me levar com você?}
 {463}{}{Vamos lá.}
 {464}{}{Não, ainda não.}
 {470}{}{Jesus, you look like the Grim Reaper. You ought to get yourself checked out.}

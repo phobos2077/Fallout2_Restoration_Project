@@ -58,7 +58,7 @@
 {312}{}{[Continuar.]}
 {313}{}{There you go. That should help you melt those mutants who get in your way.}
 {314}{}{Obrigado.}
-{390}{}{You ready to take me with you?}
+{390}{}{Você está pronto para me levar com você?}
 {391}{}{Vamos lá.}
 {392}{}{Não, ainda não.}
 {400}{}{Precisa de algo?}
