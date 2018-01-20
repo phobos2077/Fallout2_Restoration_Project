@@ -7,7 +7,7 @@
 {106}{}{Ready to rock.}
 {107}{}{Let's take that freak down!}
 {108}{}{Slag 'im.}
-{109}{}{I'm good to go.}
+{109}{}{Eu estou bem para ir.}
 {110}{}{Vamos arrasar!
 }
 {111}{}{I'm gonna light that freak up!}

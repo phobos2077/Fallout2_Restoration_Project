@@ -380,52 +380,53 @@ e cinquenta anos.}
 {1271}{}{Uau, você tem um?}
 {1272}{}{Claro. Eu montava um T-rex, o lagarto gigante mais malvado de todos. Apenas o meu era ainda mais mau porque tinha asas. Basicamente, era um dragão.}
 {1273}{}{Interessante...}
-{1280}{}{In the year 2011, The Awaking took place, and long dormant magical creatures, like Orcs, Elves, Trolls, and
- Dwarves returned to the world, along with magic. Magic and technology then clashed in a dark world of corporate warfare,
- waged in the shadows of the sprawling metropolises.}
-{1281}{}{Wow, what happened to the magical creatures?}
-{1282}{}{I guess they got taken out when the bombs fell. Except it looks like you've still got some Dwarves, Trolls,
- and Zombies around.}
+{1280}{}{No ano de 2011, O Despertar ocorreu, e longas criaturas mágicas dormentes, como Orcs, Elfos, Trolls e
+  Os anões voltaram para o mundo, juntamente com a magia. A magia e a tecnologia entraram em confronto num mundo sombrio de guerra corporativa,
+  travada nas sombras das grandes metrópoles.}
+{1281}{}{Wow, o que aconteceu com as criaturas mágicas?}
+{1282}{}{Eu acho que eles foram retirados quando as bombas caíram. Exceto que parece que vocês ainda tem alguns Anões, Trolls,
+  e zombis por aí.}
 {1283}{}{Interessante...}
-{1290}{}{There was this gigantic green lizard called Godzilla. Godzilla would alternate between terrorizing Japan,
- and saving its ass against giant space invaders. There was another violent gigantic lizard called the Tarrasque. I think they were cousins or something.}
-{1291}{}{Wow, what happened to them?}
-{1292}{}{Godzilla got taken out by Ferris Bueller. As for the Tarrasque, we had a giant robot battle him. The robot,
- piloted by yours truly, punched the Tarrasque so hard that be broke apart into thousands of little Tarrasques that
- scattered all over California.}
+{1290}{}{Havia este gigantesco lagarto verde chamado Godzilla. Godzilla alternaria entre aterrorizar o Japão,
+  e salvando seu traseiro contra invasores espaciais gigantes. Havia outro vilão e gigante lagarto chamado Tarrasque. Eu acho que eles eram primos ou algo assim.}
+{1291}{}{Wow, o que aconteceu com eles?}
+{1292}{}{Godzilla foi retirado por Ferris Bueller. Quanto ao Tarrasque, nós tínhamos um robô gigante de batalha. O robô,
+  pilotado verdadeiramente por seus verdadeiros golpes, socou o Tarrasque que foi dividido em milhares de pequenos Tarrasques que foram
+  espalhados pela Califórnia.}
 {1293}{}{Interessante...}
-{1300}{}{The earth was full of hot women, and I held the world record for the amount of sexual partners I had.}
-{1301}{}{I see. You know, Dex, some of these things you're telling me are a bit... out there. I get this strange feeling
- that it might not all be true.}
-{1302}{}{Hey, were YOU alive back then? No, you weren't. So who's the pre-war expert here? So trust me, it's all true.
- But hey, if you're not going to believe me, then I'm done telling you stories for now.}
-{1303}{}{Huh. That's too bad, because they've been so helpful so far.}
-{1400}{}{Just tell me where you want me.}
-{1401}{}{Just tell me where you want me, babe.}
-{1402}{}{No problem. I wouldn't want to make you nervous. [Dex grins.]}
-{1403}{}{Sure. If you think you need to keep an eye on me, I'm fine with that.}
-{1404}{}{Sure. I understand it's hard to concentrate when I'm too close. [Dex grins.]}
-{1405}{}{[Dex cocks his eyebrow at you and winks.]}
+{1300}{}{A terra estava cheia de mulheres quentes, e eu segurei o recorde mundial para a quantidade de parceiros sexuais que eu tinha.}
+{1301}{}{Eu vejo. Você sabe, Dex, algumas dessas coisas que você está me dizendo que são um pouco... lá fora. Eu tenho esse sentimento estranho
+que não podem ser todas verdadeiras.}
+{1302}{}{Ei, você estava vivo naquela época? Não, você não estava. Então, quem é o especialista da pré-guerra aqui? Então confie em mim, tudo é verdade.
+  Mas oi, se você não vai acreditar em mim, então acabei de contar histórias por enquanto.}
+{1303}{}{Hã. Isso é muito ruim, porque eles foram tão úteis até agora.}
+{1400}{}{Apenas me diga onde você me quer.}
+{1401}{}{Apenas me diga onde você me quer, amor.}
+{1402}{}{Não há problema. Eu não quero fazer você nervoso. [Dex sorri.]}
+{1403}{}{Com certeza. Se você acha que você precisa manter um olho em mim, eu estou bem com isso.}
+{1404}{}{Com certeza. Eu entendo que é difícil se concentrar quando estou perto demais. [Dex sorri.]}
+{1405}{}{[Dex bate sua sobrancelha para você e pisca.]}
 {1406}{}{Não há problema.}
-{1500}{}{Why? You don't trust me with weapons? [He laughs.] Sure thing, if it'll put your mind at ease.}
-{1600}{}{Uh, sure. But just so we're on the same page here, you know I'm into chicks... right?}
-{1601}{}{All-right. [Dex strips off his armor and begins stripping off his clothes. He stops when he sees you glaring
- at him.] You're sending me mixed signals here, doll. Dex doesn't like to be toyed with. Just the armor it is.}
-{1700}{}{Well, I can do wondrous things with knives. It's like an art. There's something very special about the way a
- blade slices into flesh, you know what I mean?}
-{1701}{}{Uh... yeah, sure. Anything else you can use? Feel free to be less creepy about it this time.}
-{1702}{}{Well, my Uncle was one of them military hard-asses. He trained me with pistols and SMGs, and I even got to toy
- around with some energy weapon prototypes they were working on. He thought I'd follow in his footsteps and be a
- puppet for Uncle Sam, but I, uh... Let's just say I went down a different path.}
-{1703}{}{That sounds alright. Anything else?}
-{1704}{}{I've been known to beat some ass with good 'ol fisticuffs. When I was a teen, I tried my hand at Karate for
- awhile, but they kept feeding me all this shit about being more disciplined, so I told 'em to fuck off. Anything else you need to know?}
-{1705}{}{That should cover it. Thanks.}
-{1800}{}{I'm good to go.}
-{1801}{}{I've been better, but I can handle it.}
-{1802}{}{I'm not feeling very good.}
-{1803}{}{I think I hear the King calling. I can see the light...}
-{1900}{}{No problem. But you're going to feel a lot less cool without me around. Just saying...}
+{1500}{}{Por quê? Você não confia em mim com armas? [Ele ri.] Certo, se isso deixa sua mente à vontade.}
+{1600}{}{Uh, com certeza. Mas só assim estamos na mesma página aqui, você sabe que eu estou entre pintos ... certo?}
+{1601}{}{Tudo bem. [Dex tira sua armadura e começa a tirar suas roupas. Ele pára quando ele vê você olhando
+  para ele.] Você está me enviando sinais mistos aqui, boneca. Dex não gosta de brincar com. Apenas a armadura é isso.}
+{1700}{}{Bem, eu posso fazer coisas maravilhosas com facas. É como uma arte. Há algo muito especial sobre a forma como uma
+  As fatias da lâmina na carne, você sabe o que quero dizer?}
+{1701}{}{Uh... sim, com certeza. Qualquer outra coisa que você pode usar? Sinta-se livre para ser menos assustador sobre isso neste momento.}
+{1702}{}{Bem, meu tio era um daqueles duro-burro. Ele me treinou com pistolas e SMGs e até cheguei
+  em torno de alguns protótipos de armas de energia em que estavam trabalhando. Ele pensou em seguir seus passos e ser um
+  fantoche para o tio Sam, mas eu, eu ... Digamos que desci um caminho diferente.}
+{1703}{}{Isso soa bem. Mais alguma coisa?}
+{1704}{}{Fui conhecido por vencer um pouco com bons "ol fisticuffs". Quando eu era adolescente, tentei minha mão no Karate por
+  algum tempo, mas eles continuaram me alimentando toda essa merda por ser mais disciplinado, então eu disse a eles para que fossem fodidos. Algo mais que você precisa saber?
+}
+{1705}{}{Isso deveria cobri-lo. Obrigado.}
+{1800}{}{Eu estou bem para ir.}
+{1801}{}{Eu estive melhor, mas posso lidar com isso.}
+{1802}{}{Não estou me sentindo muito bem.}
+{1803}{}{Eu acho que eu ouvi o Rei a chamar. Que eu possa ver a luz...}
+{1900}{}{Sem problemas. Mas você vai sentir muito menos legal sem mim. Apenas dizendo...}
 {1901}{}{Sure. I'll catch ya later.}
 {1902}{}{Sure, I'll wait. But if you don't come back, then I'm going to start looking for you, and it won't be pleasant
  when I find you.}
