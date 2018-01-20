@@ -427,22 +427,22 @@ que não podem ser todas verdadeiras.}
 {1802}{}{Não estou me sentindo muito bem.}
 {1803}{}{Eu acho que eu ouvi o Rei a chamar. Que eu possa ver a luz...}
 {1900}{}{Sem problemas. Mas você vai sentir muito menos legal sem mim. Apenas dizendo...}
-{1901}{}{Sure. I'll catch ya later.}
-{1902}{}{Sure, I'll wait. But if you don't come back, then I'm going to start looking for you, and it won't be pleasant
- when I find you.}
-{1903}{}{Alright, as long as you aren't just ditching me to make room for some other jerk. Because I promise you I'm
- better than them in every conceivable way.}
+{1901}{}{Certo. Eu vou te pegar mais tarde.}
+{1902}{}{Claro, vou esperar. Mas se você não voltar, então vou começar a procurá-lo, e não será agradável
+  quando eu encontrar você.}
+{1903}{}{Tudo bem, desde que você não esteja apenas abandonando-me para abrir espaço para algum outro idiota. Porque eu prometo que eu sou
+  melhor do que eles de todas as maneiras concebíveis.}
 {1904}{}{Não há problema.}
-{1905}{}{No problem, babe.}
-{1906}{}{Alright, as long as you aren't just ditching me to make room for some other jerk. Because I promise you I'm
- better than them in every conceivable way.}
-{1907}{}{Getting you too hot and bothered am I? I understand.}
-{2000}{}{Alright, what about it?}
-{2001}{}{Look, I know I was on ice for a long time, but trust me, everything is in PERFECT working order. If you want,
- I'll prove it to you right here, right now. [Dex stops when he sees you glaring] Oh, I see, my *other* gear. What about it?}
-{2010}{}{It's a bit crowded. Let me know if things open up.}
-{2020}{}{No way in hell I'm traveling with you. You're ugly as fuck.}
-{2030}{}{Let's roll.}
+{1905}{}{Não há problema, babe.}
+{1906}{}{Tudo bem, desde que você não esteja apenas abandonando-me para abrir espaço para algum outro idiota. Porque eu prometo que eu sou
+  melhor do que eles de todas as maneiras concebíveis.}
+{1907}{}{Você está muito quente e incomodado? Compreendo.}
+{2000}{}{Tudo bem, o que sobre isso?}
+{2001}{}{Olha, eu sei que estava no gelo por um longo tempo, mas confie em mim, tudo está em perfeito estado de funcionamento. Se você quiser,
+  Eu vou provar isso para você aqui mesmo, agora mesmo. [Dex pára quando ele vê você olhando] Oh, eu vejo, meu * outro * equipamento. E quanto a isso?}
+{2010}{}{Está um pouco cheio. Deixe-me saber se as coisas se abrem.}
+{2020}{}{Nenhuma maneira no inferno que eu estou viajando com você. Você é feio pra caralho.}
+{2030}{}{Vamos rolar.}
 {2031}{}{About time we got goin' again.}
 {3000}{}{So, what's your story?}
 {3001}{}{What, like my life story? Look, I know I'm pretty fascinating, but I don't want to stand around talking forever.
