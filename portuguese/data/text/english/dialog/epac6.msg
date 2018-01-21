@@ -1,18 +1,19 @@
-{100}{}{You see a worn-looking Hologram.}
-{101}{}{You see the Director of Ground Maintenance.}
-{102}{}{Hologram 10031. He is in charge of all the ground maintenance at the EPA.}
-{200}{}{Hello there. Mind if I ask how you managed to get in here? The elevators to the surface broke down a long time ago.}
-{201}{}{Let's see... I used a rope to climb down an elevator shaft to the utility level... Then I crawled through a fan duct and found myself in a robot maintenance area...}
-{210}{}{I'm surprised you made it past all those damn plants without being eaten. I'm Hologram 10031, the Director of Ground Maintenance here at the EPA. [He sighs heavily.] I know, I know, the grounds look terrible. No need to tell me.}
-{211}{}{If you're not happy with the way the grounds look, why don't you do something about it?}
-{212}{}{No kidding. The grounds are littered with radioactive goo, corpses, mutant carnivorous plants... Seriously, you must be the worst groundskeeper ever.}
-{220}{}{If I could do something about it, trust me, I would. I've got no physical body, and the damn robots won't respond to a word I say. I've been operating at 100% inefficiency for the last few decades -- how pathetic is that? The other Holograms won't let me forget it either. The only one more useless than me is the Director of Operations.}
-{221}{}{Maybe I could help somehow?}
-{222}{}{That's really a shame. I have to be going now. Goodbye.}
-{230}{}{Hey, if you're really willing to help, that'd be great. I'll ensure you get something for your troubles.}
-{231}{}{Consider it done. What can I help you with?}
-{232}{}{No, I haven't the time right now.}
-{240}{}{Those mutated spore plants have spread beyond the confines of the green house and have taken root all over the EPA's grounds. If you could get rid of all those bastards for me, that'd be a big step in the right direction.}
+{100}{}{Você vê um holograma desgastado.}
+{101}{}{Você vê o Diretor de manutenção do solo.}
+{102}{}{Holograma 10031. Ele é responsável por toda a manutenção no solo na EPA.}
+{200}{}{Olá. Se importa se pergunte como você conseguiu entrar aqui? Os elevadores à superfície quebraram há muito tempo.}
+{201}{}{Vamos ver ... Eu usei uma corda para subir de um elevador para o nível de utilidade ... Então eu me arrastei num canal de ventilador e me encontrei em uma área de manutenção de robôs ...}
+{210}{}{Estou surpreso que você tenha passado todas essas malditas plantas sem ser comido. Eu sou holograma 10031, o diretor de manutenção do solo aqui na EPA. [Ele suspira pesadamente.] Eu sei, eu sei, os terrenos parecem terríveis. Não precisa me dizer.}
+{211}{}{Se você não está feliz com a aparência dos terrenos, por que você não faz algo sobre isso?}
+{212}{}{Sem brincadeiras. Os solos estão repletos de gotas radioativas, cadáveres, plantas carnívoras mutantes ... Sério, você deve ser o pior zelador de todos os tempos.}
+{220}{}{Se eu pudesse fazer algo sobre isso, confie em mim, eu faria. Eu não tenho corpo físico, e os malditos robôs não responderão a uma palavra que eu digo. Eu tenho operado com 100% de ineficiência nas últimas décadas - quão patético é isso? Os outros Hologramas também não me deixam esquecer. O único mais inútil do que eu é o Diretor de Operações.}
+{221}{}{Talvez eu pudesse ajudar de alguma forma?}
+{222}{}{Isso é realmente uma vergonha. Eu tenho que ir agora. Adeus.}
+{230}{}{Ei, se você está realmente disposto a ajudar, seria ótimo. Eu vou garantir que você tenha algo para seus problemas.}
+{231}{}{Considere isso feito. Com o que posso ajudar?
+}
+{232}{}{Não, eu não tenho tempo agora.}
+{240}{}{Essas plantas de esporos mutantes se espalharam além dos limites da casa verde e se enraizaram por todo o território da EPA. Se você pudesse se livrar de todos esses bastardos para mim, seria um grande passo na direção certa.}
 {241}{}{Sure, I could kill all the spore plants for you. I'll be back once it's done.}
 {242}{}{That's easy enough. I already killed them all.}
 {250}{}{Hello again. What can I do for you? *Sigh*}

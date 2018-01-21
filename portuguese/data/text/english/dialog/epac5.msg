@@ -1,25 +1,26 @@
 {100}{}{Você vê um holograma.}
-{101}{}{You see the Director of Operations.}
-{102}{}{Hologram 12001. He directs operations within the EPA.}
-{200}{}{[This weasely looking hologram regards you with a nervous smile.] Hello, welcome to the EPA. You may have noticed that we're experiencing some mild issues, but we'll cross that bridge once we come to it.}
-{201}{}{Uh, OK. Who are you?}
-{210}{}{I'm the Director of Operations for the EPA.}
-{211}{}{Oh, right. [You scratch your head] What does that actually mean?}
-{220}{}{[He chuckles uneasily.] Why, I coordinate things. Get the ball rolling. Now it's in your court. I like to bring out the best in people. Here at the EPA, that's what it's all about. Honestly. Integrity. Thank you, we value your opinion.}
+{101}{}{Você vê, o Diretor de Operações.}
+{102}{}{Holograma 12001. Ele direciona as operações dentro do EPA.}
+{200}{}{[Este holograma de aparência pesada o considera com um sorriso nervoso.] Olá, bem-vindo à EPA. Você pode ter percebido que estamos experimentando alguns problemas leves, mas cruzaremos essa ponte uma vez que chegarmos a ela.}
+{201}{}{Uh, OK. Quem é você?}
+{210}{}{Eu sou o Diretor de Operações para a EPA.}
+{211}{}{Oh, certo. [Você coçar a cabeça] o Que é que isso significa realmente?}
+{220}{}{[Ele ri de um jeito malicioso.] Por que, eu coordeno as coisas. Deixe a bola rolar. Agora está no seu tribunal. Eu gosto de tirar o melhor das pessoas. Aqui na EPA, é disso que se trata. Honestamente. Integridade. Obrigado, valorizamos a sua opinião.}
 {221}{}{O que diabos você está falando?}
-{230}{}{I assure you that we are working diligently to resolve all issues. We've had a bit of downsizing, but things are looking up. I feel confident that all quotas will be achieved in due time.}
-{231}{}{What quotas? You're not making any sense. Do you actually do anything here? Can you help me, or not?}
-{240}{}{That all depends on your outlook. My hands are tied on this matter, but I'd be delighted to assist you if you could.}
-{241}{}{Forget it. Bye.}
-{242}{}{I'm sorry I couldn't be of further assistance.}
-{243}{}{Thank you for your time.}
-{244}{}{I don't want to comment.}
-{245}{}{No comment.}
-{246}{}{I would, but I'm currently authoratally challenged.}
-{247}{}{We'll tackle that issue once we come to it.}
-{248}{}{This meeting is for discussion, not for action.}
-{249}{}{I'm confident the EPA is on track for success.}
-{250}{}{That issue's relevancy is in question.}
-{251}{}{Let's not be hasty, lest we act too quick.}
-{252}{}{That sounds adequate.}
-{253}{}{I understand your concern.}
+{230}{}{Garanto-vos que estamos trabalhando diligentemente para resolver todos os problemas. Tivemos um pouco de downsizing, mas as coisas estão olhando para cima. Sinto-me confiante de que todas as quotas serão alcançadas no devido tempo.}
+{231}{}{Quais as cotas? Você não faz nenhum sentido. Você realmente faz alguma coisa aqui? Você pode me ajudar, ou não?}
+{240}{}{Tudo depende da sua perspectiva. Minhas mãos estão ligadas a este assunto, mas ficaria encantado de ajudá-lo se pudesse.}
+{241}{}{Esqueça. Tchau.
+}
+{242}{}{Me desculpe, eu não poderia ser de mais ajuda.}
+{243}{}{Obrigado pelo seu tempo.}
+{244}{}{Eu não quero comentar.}
+{245}{}{Nenhum comentário.}
+{246}{}{Gostaria, mas atualmente sou atormentado.}
+{247}{}{Nós abordaremos essa questão uma vez que chegarmos a ela.}
+{248}{}{Esta reunião é para a discussão, não para a ação.}
+{249}{}{Estou confiante de que a EPA está no caminho certo para o sucesso.}
+{250}{}{Que relevância do problema em questão.}
+{251}{}{Não vamos ser precipitados, para que não agimos muito rápido.}
+{252}{}{Que sons adequados.}
+{253}{}{Eu entendo a sua preocupação.}

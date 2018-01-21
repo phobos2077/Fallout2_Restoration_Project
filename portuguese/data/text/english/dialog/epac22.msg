@@ -25,7 +25,7 @@
   Você precisará de um código de acesso para entrar. Como agradeço que você me reparou, eu vou lhe dizer o código. O código é "FLOWERPOT".}
 {323}{}{Obrigado. Deixe-me perguntar-lhe algo mais.}
 {324}{}{Oh, desculpe, mas o nível azul contém pesquisa secreta. O acesso a esse nível é restrito a ... oh, para o inferno com isso. Você foi gentil para me consertar, então suponho que eu poderia lhe dar a senha. É "FLOWERPOT".}
-{330}{}{I will do my best. What item would you like me to identify?}
+{330}{}{Eu farei o meu melhor. Qual item você gostaria que eu identificasse?}
 {331}{}{Qual é o propósito deste alimento de cão?}
 {332}{}{Eu achei essa seringa cheia de uma substância desconhecida. Você poderia me dizer o que ela faz?}
 {333}{}{Eu encontrei este suporte de tubos de ensaio. Nada específico que eu posso fazer com ele?}

@@ -17,7 +17,7 @@
 {202}{}{You're bleeding a bit}
 {203}{}{Not feeling good}
 {204}{}{You need a tourniquet}
-{205}{}{Never!}
+{205}{}{Nunca!}
 {300}{}{None}
 {301}{}{Melee}
 {302}{}{Melee then ranged}

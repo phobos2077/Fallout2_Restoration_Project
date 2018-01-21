@@ -45,7 +45,8 @@
 {175}{}{I have the plans for the vertibird.}
 {176}{}{The Shi have the plans for the vertibird}
 {177}{}{What can I do for you?}
-{178}{}{Forget it. Bye.}
+{178}{}{Esqueça. Tchau.
+}
 {179}{}{I am Harry, AHS-5. I am the starbrother in charge of the rocket ship. We are going to use it to travel to Quetzel.}
 {180}{}{Can I ask something else?}
 {181}{}{Got it. Bye.}
