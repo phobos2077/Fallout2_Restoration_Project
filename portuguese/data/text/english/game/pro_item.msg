@@ -90,7 +90,7 @@
 {4501}{}{A knife, balanced specifically for throwing. Made of titanium, and laser sharpened. Min ST: 3.}
 {4600}{}{Bag}
 {4601}{}{An average sized bag. Made from weaved brahmin hairs.}
-{4700}{}{First Aid Kit}
+{4700}{}{Kit De Primeiros Socorros}
 {4701}{}{A small kit containing basic medical equipment. Bandages, wraps, antiseptic spray, and more.}
 {4800}{}{RadAway}
 {4801}{}{A chemical solution that bonds with radiation particles and passes them through your system. Takes time to work.}
@@ -178,7 +178,7 @@
 {8901}{}{A 40-hp electric motor.}
 {9000}{}{Back Pack}
 {9001}{}{A basic backpack, with optional carrying straps.}
-{9100}{}{Doctor's Bag}
+{9100}{}{Saco do médico}
 {9101}{}{This brown bag contains instruments and chems used by doctors in the application of their trade.}
 {9200}{}{Scorpion Tail}
 {9201}{}{The severed tail of a radscorpion.}
@@ -654,7 +654,7 @@
 {33201}{}{This submachine gun filled National Guard arsenals after the Army replaced it with newer weapons. However, the "Grease Gun" was simple and cheap to manufacture so there are still quite a few still in use. Min ST: 4.}
 {33300}{}{Heart Pills}
 {33301}{}{These pills are used by people with heart problems.}
-{33400}{}{Poison}
+{33400}{}{Veneno}
 {33401}{}{A hypodermic needle full of powerful poison.}
 {33500}{}{Moore's Briefcase}
 {33501}{}{Thomas Moore asked you to take this brahmin hide briefcase to the Bishop family in New Reno. It is securely locked, and you can't seem to open it.}

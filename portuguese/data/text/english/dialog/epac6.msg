@@ -14,36 +14,36 @@
 }
 {232}{}{Não, eu não tenho tempo agora.}
 {240}{}{Essas plantas de esporos mutantes se espalharam além dos limites da casa verde e se enraizaram por todo o território da EPA. Se você pudesse se livrar de todos esses bastardos para mim, seria um grande passo na direção certa.}
-{241}{}{Sure, I could kill all the spore plants for you. I'll be back once it's done.}
-{242}{}{That's easy enough. I already killed them all.}
-{250}{}{Hello again. What can I do for you? *Sigh*}
-{251}{}{You're looking rather glum. What's wrong?}
-{260}{}{Hello again. Have you reconsidered helping me? As I mentioned before, I'll make it worthwhile for you.}
-{261}{}{Yeah, why not. I have nothing better to do.}
-{262}{}{No, I'm still too busy at the moment. I'll come back some other time.}
-{270}{}{Have you completed the task for me?}
-{271}{}{Yep, I've killed all the plants. The grounds still look like hell, but at least they're a little safer.}
-{272}{}{No, not yet. I'll have to get back to you.}
-{280}{}{Oh, thank you so much. For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing that for you. You now have authorization to access the storage shed. Thanks again.}
-{281}{}{[You pick up the key and pocket it.] No problem. See ya.}
-{290}{}{You look rather messy. Is everything all right?}
-{291}{}{Yeah, I'm fine. I had some trouble with some mutated plants on the way down here but I took care of them.}
-{300}{}{You have? Wonderful! For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing the keys to me awhile ago -- just in case. Take 'em. You now have authorization to access the storage shed. Thanks again.}
-{301}{}{Oh no. It's all I could do. Don't worry about it.}
-{302}{}{Hey thanks! Goodbye.}
-{310}{}{Hey, you've done me a good turn so you'll take the key and anything you want or need. It's my way of saying thank you for what you've done.}
-{311}{}{Oh, all right then. Say who are you anyway? Why is it so important to you that I've killed all of these plants?}
-{320}{}{I'm the Director for Ground Maintenance. I ensure that the grounds are in good order, but as I'm a Hologram and can't do anything myself, I command the robots to do it all for me. As most of them have stopped working, I've operated at 100% inefficiency for the last few years. You've helped me more than you could ever imagine.}
-{321}{}{Well, no problem. I've got to be going now.}
-{330}{}{Keep up the good work, assistant.}
-{331}{}{I'm now operating at 1% efficiency!}
-{332}{}{You wipe out the mutant plants that have grown rampant over the EPA's grounds.}
-{333}{}{The whole place has been taken over by these mutant plants.}
-{334}{}{They're everywhere.}
-{335}{}{And then there's the mantises...}
-{336}{}{The greenhouse is in shambles.}
-{337}{}{If only the robots would respond to commands.}
-{338}{}{I know, I'm a complete failure.}
-{339}{}{I thoroughly apologize for the state of the grounds.}
-{340}{}{If I could do something about it, I would.}
-{341}{}{Maybe 10001 is right. Maybe we should just destroy it all.}
+{241}{}{Claro, eu poderia matar todas as plantas de esporos para você. Eu voltarei uma vez que esteja pronto.}
+{242}{}{Isso é bastante fácil. Já matei todos eles.}
+{250}{}{Olá novamente. O que eu posso fazer por você? *Suspiro*}
+{251}{}{Você está olhando bastante ruim. O que está errado?}
+{260}{}{Olá de novo. Você reconsiderou ajudando-me? Como mencionei anteriormente, vou fazer valer a pena pra você.}
+{261}{}{Sim, porque não. Eu não tenho nada melhor para fazer.}
+{262}{}{Não, eu ainda estou muito ocupado no momento. Eu vou voltar outra hora.}
+{270}{}{Você completou a tarefa para mim?}
+{271}{}{Sim, matei todas as plantas. Os solos ainda parecem infernos, mas pelo menos eles são um pouco mais seguros.}
+{272}{}{Não, ainda não. Eu vou ter que voltar para você.}
+{280}{}{Oh, muito obrigado. Por isso, eu contrato você como meu assistente de jardinagem. [Ele aponta para uma chave no chão por seus pés.] Eu consegui coaxar um dos robôs meio trabalhando para trazer isso para você. Agora você tem autorização para acessar o galpão de armazenamento. Obrigado novamente.}
+{281}{}{[Você pega a chave e guarda-a.] Não há problema. Até mais.}
+{290}{}{Você parece um pouco bagunçado. Está tudo bem?}
+{291}{}{Sim eu estou bem. Tive alguns problemas com algumas plantas mutadas no caminho para baixo, mas eu cuidei delas.}
+{300}{}{Você fez? Maravilhoso! Por isso, eu contrato você como meu assistente de jardinagem. [Ele aponta para uma chave no chão aos seus pés.] Eu consegui convencer um dos robôs trabalhando meio em trazer as chaves para mim há algum tempo - apenas no caso. Pegue-os. Agora você tem autorização para acessar o galpão de armazenamento. Obrigado novamente.}
+{301}{}{Ah não. Era tudo que eu podia fazer. Não se preocupe com isso.}
+{302}{}{Ei, obrigado! Adeus.}
+{310}{}{Ei, você me fez um bom turno para que você tome a chave e tudo o que quiser ou precisa. É minha maneira de agradecer pelo que você fez.}
+{311}{}{Oh, tudo bem então. Diga quem você é? Por que é tão importante para você que matei todas essas plantas?}
+{320}{}{Sou Diretor de Manutenção no solo. Eu asseguro que os solos estão em boa ordem, mas como eu sou um holograma e não posso fazer nada sozinho, eu ordeno aos robôs que façam tudo por mim. Como a maioria deles parou de funcionar, eu operava com 100% de ineficiência nos últimos anos. Você me ajudou mais do que você poderia imaginar.}
+{321}{}{Bem, não há problema. Eu tenho que ir agora.}
+{330}{}{Mantenha o bom trabalho, assistente.}
+{331}{}{Agora, eu estou operando a 1% de eficiência!}
+{332}{}{Você limpa as plantas mutantes que cresceram desenfreadas nos terrenos da EPA.}
+{333}{}{Todo o lugar foi tomado por estas plantas mutantes.}
+{334}{}{Eles estão em toda parte.}
+{335}{}{E depois há mantis ...}
+{336}{}{O efeito estufa é um desastre.}
+{337}{}{Se apenas os robôs respondessem aos comandos.}
+{338}{}{Eu sei, eu sou um completo fracasso.}
+{339}{}{Eu me desculpo pelo estado do terreno.}
+{340}{}{Se eu pudesse fazer algo sobre isso, eu o faria.}
+{341}{}{Talvez 10001 esteja certo. Talvez devêssemos destruir tudo.}

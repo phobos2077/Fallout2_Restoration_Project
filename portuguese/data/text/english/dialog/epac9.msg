@@ -1,36 +1,36 @@
-{100}{}{You see a large computer.}
-{101}{}{You see Mr. Chemmie!}
-{102}{}{A large crafting computer for drugs.}
-{200}{}{Hello user! I'm the pharmacist of the future, Mr. Chemmie! How can I help you?!}
+{100}{}{Você vê um computador grande.}
+{101}{}{Você vê o Sr. Chemmie!}
+{102}{}{Um grande computador de elaboração para drogas.}
+{200}{}{Olá, usuário! Eu sou o farmacêutico do futuro, Sr. Chemmie! Como posso ajudá-lo?!}
 {201}{}{O que fazer?}
-{210}{}{I make drugs! All kinds of drugs! When life gets you down, Mr. Chemmie is here to pick you up! How does Mr. Chemmie work?! It's simple! All you need is some scientific know-how and the right ingredients, then leave the rest up to me! Go on! Give me a try! And kids, remember to ask Mommy or Daddy for permission before playing with Mr. Chemmie!}
-{211}{}{Alright, I'll give this a try.}
+{210}{}{Eu faço drogas! Todos os tipos de drogas! Quando a vida te derrubar, o Sr. Chemmie está aqui para buscá-lo! Como o Sr. Chemmie trabalha ?! É simples! Tudo que você precisa é algum conhecimento científico e os ingredientes certos, então deixe o resto comigo! Continue! Me dê uma chance! E crianças, lembre-se de pedir a Mamãe ou Papai permissão antes de jogar com o Sr. Chemmie!}
+{211}{}{Tudo bem, vou dar uma chance.}
 {212}{}{Talvez mais tarde.}
-{220}{}{Alright! Let's make drugs! What do you wish to create?!}
+{220}{}{Tudo bem! Vamos fazer drogas! O que você gostaria de criar?!}
 {221}{}{Stimpak}
 {222}{}{Super Stimpak}
-{223}{}{Poison}
-{224}{}{Poison Antidote}
-{225}{}{First Aid Kit}
-{226}{}{Doctor's Bag}
+{223}{}{Veneno}
+{224}{}{Antídoto Do Veneno}
+{225}{}{Kit De Primeiros Socorros}
+{226}{}{Saco do médico}
 {227}{}{Buffout}
 {228}{}{Mentats}
 {229}{}{Psycho}
-{230}{}{Great choice! To make a Stimpak, please feed me: one Broc Flower, one Xander Root and one Empty Hypodermic needle! Yum-yum!}
-{231}{}{Make a stimpak.}
-{232}{}{I don't have those right now.}
-{233}{}{Return to the menu.}
-{240}{}{Great choice! To make a Super Stimpak, please feed me: one ordinary Stimpak, one piece of Fruit and one Nuka Cola! Yum-yum!}
-{241}{}{Make a Super Stimpak.}
-{250}{}{Great choice! To make Psycho, please feed me: one box of Mentats, one Buffout, one piece of Fruit and one Stimpak! Yum-yum!}
-{251}{}{Make a Psycho.}
-{260}{}{Great choice! To make some Mentats, please feed me: one First Aid Kit, one piece of Fruit, and one bottle of Booze! Yum-yum!}
-{262}{}{Make some Mentats.}
+{230}{}{Ótima escolha! Para fazer um Stimpak, por favor me alimente: uma Flor Broc, uma Raiz Xander e uma agulha Hypodermic vazia! Yum-yum!}
+{231}{}{Fazer uma stimpak.}
+{232}{}{Eu não tenho esses agora.}
+{233}{}{Voltar para o menu.}
+{240}{}{Ótima escolha! Para fazer um Super Stimpak, por favor me alimente: um Stimpak comum, um pedaço de fruta e um Nuka Cola! Yum-yum!}
+{241}{}{Faça uma Super Stimpak.}
+{250}{}{Ótima escolha! Para fazer Psycho, por favor me alimente: uma caixa de Mentats, um Buffout, um pedaço de Fruta e um Stimpak! Yum-yum!}
+{251}{}{Faça um Psycho.}
+{260}{}{Ótima escolha! Para fazer alguns Mentats, por favor me alimente: um Kit de Primeiros Socorros, um pedaço de Fruta e uma garrafa de Booze! Yum-yum!}
+{262}{}{Fazer algumas Mentats.}
 {263}{}{Sair}
-{270}{}{Great choice! To make a Doctor's Bag, please feed me: one Stimpak, one First Aid Kit, one Empty Hypodermic needle and one Poison Antidote! Yum-yum!}
-{272}{}{Make a Doctor's Bag.}
-{280}{}{Great choice! To make a First Aid Kit, please feed me: one Stimpak, one Empty Hypodermic needle, one Poison Antidote and one Rad Away! Yum-yum!}
-{282}{}{Make a First Aid Kit.}
+{270}{}{Ótima escolha! Para fazer um saco de doutor, por favor me alimente: um Stimpak, um kit de primeiros socorros, uma agulha hipodérmica vazia e um antídoto venenoso! Yum-yum!}
+{272}{}{Fazer Saco de um Médico.}
+{280}{}{Ótima escolha! Para fazer um kit de primeiros socorros, por favor me alimente: um Stimpak, uma agulha Hypodermic vazia, um antídoto de veneno e um Rad Away! Yum-yum!}
+{282}{}{Faça um Kit de Primeiros Socorros.}
 {290}{}{Great choice! To make Poison, please feed me: one Empty Hypodermic needle, one Scorpion Tail and one Nuka Cola! Yum-yum!}
 {292}{}{Make some poison.}
 {300}{}{Great choice! To make Buffout, please feed me: one First Aid Kit, one bottle of Beer and one Nuka Cola! Yum-yum!}
@@ -55,8 +55,8 @@
 {375}{}{Mr. Chemmie loves to help! I can create a substance called nitroglycerin, which will control an irregular heartbeat and prevent heart attacks!}
 {380}{}{Rad-X}
 {381}{}{Rad Away}
-{382}{}{Something Special}
-{383}{}{Nothing}
+{382}{}{Algo Especial}
+{383}{}{Nada}
 {390}{}{This is your lucky day! I have just enough chemicals in my storage tanks to make one batch of ERSIs! Would you like Mr. Chemmie to make them for you?!}
 {391}{}{Create.}
 {392}{}{Sair.}

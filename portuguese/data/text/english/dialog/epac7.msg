@@ -1,50 +1,52 @@
 {100}{}{Você vê um holograma.}
-{101}{}{You see the Director of Public Relations.}
-{102}{}{Hologram 40011. She is in charge of all the tours and press releases at the EPA.}
-{200}{}{[This attractive female hologram greets you with a friendly smile.] Hello visitor, and welcome to the EPA. How may I help you? Lunch will be served in the cafeteria at mid-day for all company employees.}
-{201}{}{What? Oh nevermind. Who are you?}
-{202}{}{I need to be going. Bye.}
-{210}{}{Me? I'm Hologram 40011, the Director of Public Relations. I organize trips, tours and other things and ensure that the place is running smoothly for the public on a day to day basis. The tour of the EPA museum will begin shortly. Please have your passes ready.}
-{211}{}{That sounds like a riveting job. Goodbye.}
-{212}{}{So maybe you could help me with something?}
-{220}{}{Of course. I'd love to help. How may I assist you? Tour pamphlets can be found in the main office and in letterboxes throughout the EPA.}
-{221}{}{There's some doors around the complex that I can't open without speaking a password. I'd really like to get through them and see more of your facility. I don't suppose you know the password?}
-{230}{}{Of course I know the password, but unfortunately, I'm unable to share it with you. I understand your enthusiasm for wanting to experience all that this great facility has to offer, but there are rules we must follow for your own safety. Remember everyone, we offer guided tours of our complex at predetermined times.}
-{231}{}{Oh, you don't have to worry about my safety, I'm the Chosen One. Besides, when's the last time you had a *real* visitor? Do you really want to leave me disappointed?}
-{232}{}{Right then. Goodbye}
-{240}{}{Of course not. But, if I give you the password, then not only could I be endangering you, but I'd also be endangering the complex. Children, please do not taunt the holograms.}
-{241}{}{How could that endanger the complex? I hate to break it to you lady, but this complex has already gone to hell and back. There's nothing here but hazardous chemicals and broken robots. Honestly, I don't see how I could possibly make matters worse.}
-{242}{}{Oh forget it then.}
-{250}{}{I... I don't know. I'd be defying protocol. But... perhaps if you could assist me with something. Visitors, please note that the blue level is restricted for reasons that are very uninteresting. There's no need to be curious about it.}
-{251}{}{Sure, I could assist you. Just tell me what you need.}
-{260}{}{Ah yes, it looks much better in here now, thank you. The password is ABRE. Just speak clearly to the door and it
- will open. Now would everybody please...}
-{261}{}{YES, we've heard you already. Thanks for the code. Goodbye.}
-{270}{}{Hello again. What do you need? The EPA complex will be closed for the foreseeable future due to lack of staff.}
-{271}{}{Now that I have more time, could you tell me what you do here?}
+{101}{}{Você vê o Director de Relações Públicas.}
+{102}{}{Holograma 40011. Ela é responsável por todos os passeios e comunicados de imprensa na EPA.}
+{200}{}{[Este atraente holograma feminino o cumprimenta com um sorriso amigável.] Olá visitante e bem vindo à EPA. Como posso ajudá-lo? O almoço será servido na cafeteria no meio do dia para todos os funcionários da empresa.}
+{201}{}{O que? Ah, deixa pra lá. Quem é você?}
+{202}{}{Eu preciso ir. Tchau.}
+{210}{}{Eu? Sou o holograma 40011, diretor de relações públicas. Organizo viagens, passeios e outras coisas e asseguro que o local funcione sem problemas para o público no dia-a-dia. O passeio do museu da EPA começará em breve. Por favor, prepare suas passagens.}
+{211}{}{Isso soa como um trabalho fascinante. Adeus.}
+{212}{}{Então, talvez você poderia me ajudar com alguma coisa?}
+{220}{}{Claro. Eu adoraria ajudar. Como posso ajudá-lo? Os folhetos da turnê podem ser encontrados no escritório principal e nas caixas de correio em toda a EPA.}
+{221}{}{Há algumas portas ao redor do complexo que não consigo abrir sem falar uma senha. Eu realmente gostaria de passar por eles e ver mais de suas instalações. Eu não suponho que você conheça a senha?}
+{230}{}{Claro que sei a senha, mas, infelizmente, não consigo compartilhar com você. Eu entendo seu entusiasmo por querer experimentar tudo o que essa ótima facilidade tem para oferecer, mas há regras que devemos seguir para sua própria segurança. Lembre-se de todos, oferecemos visitas guiadas ao nosso complexo em horários predeterminados.}
+{231}{}{Oh, você não precisa se preocupar com minha segurança, eu sou o Escolhido. Além disso, quando é a última vez que você teve um visitante * real *? Você realmente quer me deixar desapontado?}
+{232}{}{Certo então. Adeus
+}
+{240}{}{Claro que não. Mas, se eu lhe der a senha, não só eu poderia estar colocando em risco você, mas também estaria ameaçando o complexo. Crianças, por favor, não provoquem os hologramas.}
+{241}{}{Como isso poderia pôr em perigo o complexo? Odeio quebrar isso para você senhora, mas esse complexo já foi para o inferno e para trás. Não há nada além de produtos químicos perigosos e robôs quebrados. Honestamente, não vejo como poderia piorar as coisas.}
+{242}{}{Oh, esqueça.}
+{250}{}{Eu ... eu não sei. Eu estaria desafiando o protocolo. Mas ... talvez, se você pudesse me ajudar com alguma coisa. Visitantes, note que o nível azul é restrito por razões que não são muito interessantes. Não há necessidade de ser curioso sobre isso.}
+{251}{}{Certo, eu poderia ajudá-lo. Apenas me diga o que você precisa.}
+{260}{}{Ah, sim, parece muito melhor aqui agora, obrigado. A senha é ABRE. Apenas fale claramente à porta e
+  vai abrir. Agora, todos por favor ...}
+{261}{}{SIM, já ouvimos você. Obrigado pelo código. Adeus.}
+{270}{}{Olá de novo. O que você precisa? O complexo da EPA será fechado para o futuro previsível devido à falta de pessoal.}
+{271}{}{Agora que tenho mais tempo, você poderia me dizer o que você faz aqui?}
 {272}{}{Deixa pra lá.
 }
-{280}{}{Welcome back, visitor. There isn't a tour at the moment, but if you'd like to wait around for enough visitors to arrive, I'd be happy to arrange one.}
-{281}{}{I don't want to go on a tour, thanks. Goodbye.}
-{282}{}{I wonder if you could do something for me?}
-{290}{}{Hello there. I'm a little busy at the moment designing a new tour program for the coming season. Could you come back later?}
-{291}{}{I would, but I'm in too much of a hurry. You see, I *really* need the password for those doors. Would you please give it to me?}
-{300}{}{Thanks again for your assistance, and please be responsible with the password I gave you. Remember, that's our little secret. Thank you for visiting the EPA, I hope you have a pleasant experience.}
+{280}{}{Bem-vindo de volta, visitante. Não há um passeio no momento, mas se você quiser esperar por visitantes suficientes, eu ficaria feliz em organizar um.}
+{281}{}{Eu não quero ir em uma excursão, obrigado. Adeus.}
+{282}{}{Gostaria de saber se você poderia fazer algo por mim?}
+{290}{}{Olá. Estou um pouco ocupado no momento, projetando um novo programa de turismo para a próxima temporada. Você poderia voltar mais tarde?}
+{291}{}{Eu gostaria, mas estou com muita pressa. Você vê, eu * realmente * preciso da senha para essas portas. Você poderia me dar isso?}
+{300}{}{Obrigado novamente por sua ajuda, e seja responsável pela senha que eu dei. Lembre-se, esse é nosso pequeno segredo. Obrigado por visitar a EPA, espero que você tenha uma experiência agradável.}
 {301}{}{Obrigado. Tchau.}
-{302}{}{Come visit us again sometime.}
-{303}{}{Don't forget to visit the EPA souvenir stand.}
-{310}{}{Do you think you could fix the lighting? It's improper for me to conduct tours through such a dimly lit complex.
- If you could brighten this place up for me, I'll give you the password. Please, remember to wash your hands thoroughly
- after visiting our petting zoo.}
-{311}{}{Alright. I'll see what I can do.}
-{312}{}{Nevermind. I'm not interested.}
-{320}{}{The complex is still looking rather drab. You're still going to fix the lights, aren't you? Remember visitors, all wavers must be signed before the end of the tour.}
-{321}{}{Don't worry. I'm working on it.}
+{302}{}{Venha visitar-nos de novo em algum momento.}
+{303}{}{Não se esqueça de visitar o stand de lembranças da EPA.}
+{310}{}{Você acha que poderia consertar a iluminação? É improvável que eu realize passeios através de um complexo mal iluminado.
+  Se você pudesse iluminar este lugar para mim, eu lhe darei a senha. Por favor, lembre-se de lavar as mãos cuidadosamente
+  depois de visitar nosso zoológico.}
+{311}{}{Tudo bem. Eu vou ver o que posso fazer.}
+{312}{}{Deixa pra lá. Eu não estou interessado.
+}
+{320}{}{O complexo ainda parece bastante monótono. Você ainda vai consertar as luzes, não é? Lembre-se de visitantes, todos os indecisos devem ser assinados antes do final do passeio.}
+{321}{}{Não se preocupe. Eu estou trabalhando nele.}
 {322}{}{Eu vou pegar.}
-{330}{}{We'd have more visitors if the grounds were clean.}
-{331}{}{How am I supposed to conduct tours without proper lighting?}
-{332}{}{Those plants are killing all potential tourists.}
-{333}{}{All those broken down robots are *very* unsightly.}
-{334}{}{10031, you've been useless for decades.}
-{335}{}{All I'm saying, is that this place needs to be more presentable.}
-{336}{}{Destroying the complex is not the answer.}
+{330}{}{Teríamos mais visitantes se os solos estivessem limpos.}
+{331}{}{Como vou realizar visitas sem iluminação adequada?}
+{332}{}{As plantas estão matando todos os potenciais turistas.}
+{333}{}{Todos esses robôs quebrados são * muito * desagradáveis.}
+{334}{}{10031, você foi inútil por décadas.}
+{335}{}{Tudo o que eu estou dizendo, é que esse lugar precisa ser mais apresentável.}
+{336}{}{Destruir o complexo não é a resposta.}

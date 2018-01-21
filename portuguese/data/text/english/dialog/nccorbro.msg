@@ -252,7 +252,7 @@
 {770}{}{All right. I'll try back later when I've, uh, calmed down.}
 {780}{}{The Corsican Bros at yer service... (The man glances up, irritated, then does a double take.) Holy...}
 {781}{}{Me 4! Me 4!}
-{782}{}{Nothing}
+{782}{}{Nada}
 {783}{}{O que é este lugar?}
 {784}{}{Can you tell me a little about the studio?}
 {785}{}{Got any...openings...I could fill?}
