@@ -186,145 +186,146 @@ Você está desperdiçando-a aqui. Venha comigo e talvez possamos fazer algo.}
 {453}{}{Então, para onde estamos indo?}
 {454}{}{Conclua o caminho, capitão.}
 {460}{}{Você já tem pessoas suficientes. Você não precisa de uma comitiva.}
-{461}{}{Maybe when you've freed up some space. I don't run well with crowds.}
+{461}{}{Talvez quando você libertou algum espaço. Eu não corro bem com as multidões.}
 {462}{}{Você está pronto para me levar com você?}
 {463}{}{Vamos lá.}
 {464}{}{Não, ainda não.}
-{470}{}{Jesus, you look like the Grim Reaper. You ought to get yourself checked out.}
-{480}{}{No problem. I'm lighter on my feet without it.}
-{490}{}{Never been better. Let's keep going.}
-{491}{}{I've been worse. Just a couple of scratches.}
-{492}{}{I'm not that bad off. Just some flesh wounds.}
-{493}{}{I'm not doing so great. More blood than I care to have coming out of me.}
-{494}{}{I need a medic or I'm not going to be able to help you with a damn thing.}
-{495}{}{Can't go on any longer... leave me behind or get me to a doctor. Fast.}
-{500}{}{If you insist. I can still take a man's head off with my hands.}
-{1000}{}{I can't believe I spent over a hundred years in this place.}
-{1010}{}{Not my kind of place to be born in, no offense.}
-{1020}{}{This looks like some 15th Century emperor's burial tomb.}
-{1030}{}{This place smells like cattle dung all over.}
-{1040}{}{I don't think it'd be wise to head into this place without the proper footwear.}
-{1050}{}{I've seen worse places, believe me. Not that I'm too fond of this one.}
-{1060}{}{Rustic. I like it.}
-{1070}{}{This place looks straight out of a snuff flick.}
-{1080}{}{I can taste the radiation in the air.}
-{1090}{}{What is this supposed to be, a labor camp?}
-{1100}{}{The ones inside have it so much better than the ones outside. The world hasn't changed all that much.}
-{1110}{}{Just what kind of mining town do you call this?}
-{1120}{}{Not my kind of place to be born in, no offense.}
-{1130}{}{Good place to hide out if the law's on your tail.}
-{1140}{}{I wonder if there're any more bunkers like this around.}
-{1150}{}{Biggest Little City in the World. I'll bet.}
-{1160}{}{They can't keep just cattle here...}
-{1170}{}{Death all over...}
-{1171}{}{I wouldn't want to be buried here.}
-{1180}{}{We just jump ahead of nature and keep evolving, don't we? }
-{1190}{}{I haven't seen buildings this tall since the 101 got leveled.}
-{1200}{}{They sure locked this place down tight.}
-{1210}{}{I've heard about these places...}
-{1220}{}{Feels nice to walk into a town that looks like it has it together.}
-{1230}{}{I've heard about these places...}
-{1240}{}{The only holy place in these unholy wastes.}
-{1250}{}{It's hot out here.}
-{1251}{}{I'm sweating bullets.}
-{1252}{}{I'm parched.}
-{1253}{}{I'd like it better if this were a beach.}
-{1254}{}{Sulik, you know anything about rain dances?}
-{1260}{}{This is as far from civilization as it gets.}
-{1270}{}{I doubt that water would be drinkable even if you filtered all the salt out.}
-{1271}{}{Any fish we find in these waters are bound to be mutants of some sort.}
-{1272}{}{It's cool out here.}
-{1273}{}{Hundreds bucks to anyone who dares to go skinny-dipping in those waters.}
-{1280}{}{I can't see a damn thing in here.}
-{1281}{}{This place smells bad and if I could see it better it'd probably look even worse.}
-{1282}{}{Careful. There's probably something ugly and smelly holed up here.}
-{1283}{}{Are those bats I hear?}
-{1284}{}{What are we going to do, spelunk?}
-{1285}{}{Better to light a candle than to curse the darkness.}
-{1290}{}{War... a whole lot of good that did us.}
-{1291}{}{Dust to dust...}
-{1292}{}{I used to live someplace just like this...}
-{2001}{}{My eyes bug you that much?}
-{2002}{}{I could use a soak in a hot spring. Wonder if there're any of those left anymore.}
-{2003}{}{I'd kill to find someone to play mahjong with.}
-{2004}{}{Everyone eats and drinks. Yet only few appreciate the taste.}
-{2005}{}{This world is hell now. All thirteen levels.}
-{2006}{}{I believe in both God and the Devil. But I keep them at a distance.}
-{2007}{}{Are we living a dream, or are we someone else's dream?}
-{2008}{}{I hate what we've done to ourselves.}
-{2009}{}{I wonder how long it's going to take us to recover from the War.}
-{2010}{}{If heaven made us, then the earth'll find some use for us.}
-{2011}{}{You thirsty? I sure am.}
-{2012}{}{*yawn*}
-{2013}{}{Man proposes and God disposes.}
-{2020}{}{Hey, Sulik. What are the spirits saying?}
-{2030}{}{You interested in slimming down, Vic? Ask me any time for taebo lessons.}
-{2040}{}{Your wife talks too damn much about herself.}
-{2041}{}{Tell your hillbilly wife to stop coming onto me.}
-{2050}{}{My chest and your eyes have no business, Myron.}
-{2051}{}{How about shutting up for two minutes, Myron? Would that kill you?}
-{2052}{}{No, Myron. I wouldn't sleep with you if you built me a time machine.}
-{2053}{}{Listen, Myron. You don't keep your hands to yourself, I'll make you a eunuch.}
-{2060}{}{Hey, Marcus. Wanna arm-wrestle?}
-{2070}{}{We've got enough dogs following us around. We don't need another one.}
-{2100}{}{Ugh, I feel like hell.}
-{2101}{}{I think I've been poisoned...}
-{2110}{}{Something doesn't feel right in me...}
-{2111}{}{I feel strange...}
-{2112}{}{My hand. It's glowing.}
-{2113}{}{I'm a fox, not a snake... Why's my skin peeling?}
-{2114}{}{This burning inside... What's happening to me?}
-{2120}{}{Got a fracture, I think. Need to get it looked at.}
-{2121}{}{Feels like I broke something...}
-{2130}{}{I can barely see, damn it.}
-{2131}{}{I hate being blind.}
+{470}{}{Jesus, você se parece com o Grim Reaper. Você deve se verificar.}
+{480}{}{Sem problemas. Eu estou mais leve nos meus pés sem isso.}
+{490}{}{Nunca foi melhor. Vamos seguir em frente.}
+{491}{}{Eu estive pior. Apenas alguns arranhões.}
+{492}{}{Eu não estou tão mal. Apenas algumas feridas de carne.}
+{493}{}{Não estou tão feliz. Mais sangue do que eu quero saindo de mim.}
+{494}{}{Preciso de um médico ou não poderei ajudá-lo com uma maldita coisa.}
+{495}{}{Não posso continuar mais ... deixe-me para trás ou me leve ao médico. Rápido.}
+{500}{}{Se você insiste. Ainda posso tirar a cabeça de um homem com as mãos.}
+{1000}{}{Eu não posso acreditar que passei mais de uma centena de anos neste local.}
+{1010}{}{Não é o meu tipo de lugar para nascer, sem ofensa.}
+{1020}{}{Isso parece um túmulo de sepultura do imperador do século 15.}
+{1030}{}{Este lugar cheira como esterco de gado por toda parte.}
+{1040}{}{Eu não acho que seria sábio entrar neste lugar sem o calçado adequado.}
+{1050}{}{Eu vi lugares piores, acredite em mim. Não que eu goste muito disso.}
+{1060}{}{Rústico. Eu gosto disso.}
+{1070}{}{Este lugar parece ter saído de um filme de rapé.}
+{1080}{}{Posso provar a radiação no ar.}
+{1090}{}{O que é isto deveria ser, um campo de trabalho?}
+{1100}{}{Os que estão dentro têm muito melhor do que os que estão lá fora. O mundo não mudou tanto.}
+{1110}{}{Que tipo de cidade de mineração você chama isso?}
+{1120}{}{Não é o meu tipo de lugar para nascer, sem ofensa.}
+{1130}{}{Bom lugar para se esconder, se a lei está em sua cauda.}
+{1140}{}{Eu me pergunto se não há mais bunkers como este ao redor.}
+{1150}{}{Maior Cidade Pequena do Mundo. Aposto.}
+{1160}{}{Eles não podem manter apenas o gado aqui...}
+{1170}{}{Morte por toda parte ...}
+{1171}{}{Eu não quero ser enterrada aqui.}
+{1180}{}{Nós apenas avançamos para a natureza e continuamos evoluindo, não?}
+{1190}{}{Eu não vi os edifícios tão altos desde que os 101 começaram.}
+{1200}{}{Eles certamente bloquearam esse lugar com força.}
+{1210}{}{Eu ouvi sobre esses lugares...}
+{1220}{}{Sinto-me agradável de caminhar em uma cidade que parece ter tudo junto.}
+{1230}{}{Eu ouvi sobre esses lugares...}
+{1240}{}{O único lugar santo nestes resíduos impuros.}
+{1250}{}{Está quente aqui.}
+{1251}{}{Eu estou suando balas.}
+{1252}{}{Estou sedenta.}
+{1253}{}{Gostaria mais se fosse uma praia.}
+{1254}{}{Sulik, você sabe alguma coisa sobre danças de chuva?}
+{1260}{}{Isso é tão longe da civilização quanto possível.}
+{1270}{}{Eu duvido que a água seja potável, mesmo que você tenha filtrado todo o sal.}
+{1271}{}{Qualquer peixe que encontramos nessas águas é obrigado a ser mutantes de algum tipo.}
+{1272}{}{Faz frio aqui fora.}
+{1273}{}{Centenas de dólares para qualquer um que se atreva a mergulhar pelado nessas águas.}
+{1280}{}{Eu não posso ver nada aqui.}
+{1281}{}{Este lugar cheira mal e se eu pudesse vê-lo melhor, ele provavelmente vai parecer ainda pior.}
+{1282}{}{Cuidado. Provavelmente há algo feio e fedorento trancado aqui.}
+{1283}{}{São aqueles morcegos que ouço?}
+{1284}{}{O que vamos fazer, spelunk?}
+{1285}{}{Melhor acender uma vela do que amaldiçoar a escuridão.}
+{1290}{}{Guerra ... um monte de bem que nos fez.}
+{1291}{}{Do pó ao pó...}
+{1292}{}{Eu costumava viver num lugar como este...}
+{2001}{}{Meus olhos te incomodam tanto?}
+{2002}{}{Eu poderia usar um mergulho em uma fonte termal. Gostaria de saber se ainda resta mais alguma delas.}
+{2003}{}{Eu mataria para encontrar alguém para jogar mahjong.}
+{2004}{}{Todos comem e bebem. No entanto, apenas alguns apreciam o gosto.}
+{2005}{}{Este mundo é o inferno agora. Todos os treze níveis.}
+{2006}{}{Eu acredito em Deus e no Diabo. Mas eu os mantenho à distância.}
+{2007}{}{Estamos vivendo um sonho, ou somos o sonho de alguém?}
+{2008}{}{Eu odeio o que temos feito a nós mesmos.}
+{2009}{}{Pergunto-me quanto tempo vai levar a nos recuperarmos da guerra.}
+{2010}{}{Se o céu nos fez, então, a terra vai encontrar algum uso para nós.}
+{2011}{}{Você está com sede? Eu tenho certeza que estou. }
+{2012}{}{*bocejo*}
+{2013}{}{O homem propõe e Deus dispõe.}
+{2020}{}{Hey, Sulik. O que os espíritos dizem?}
+{2030}{}{Você está interessado em emagrecer, Vic? Pergunte-me a qualquer momento para lições de taebo.}
+{2040}{}{Sua esposa também fala demais com ela.}
+{2041}{}{Diga a sua esposa do hillbilly para parar de entrar em mim.}
+{2050}{}{Meu peito e seus olhos não têm negócios, Myron.}
+{2051}{}{Que tal encerrar por dois minutos, Myron? Isso mataria você?}
+{2052}{}{Não, Myron. Eu não dormiria com você se você me construísse uma máquina do tempo.}
+{2053}{}{Ouça, Myron. Você não mantém suas mãos para você, eu vou fazer você um eunuco.}
+{2060}{}{Ei, Marcus. Quero braço de ferro?}
+{2070}{}{Nós temos cachorros suficientes nos seguindo. Não precisamos de outro.}
+{2100}{}{Ugh, eu me sinto como o inferno.}
+{2101}{}{Eu acredito que tenha sido envenenada...}
+{2110}{}{Algo que não se sente bem em mim...}
+{2111}{}{Eu me sinto estranha...}
+{2112}{}{Minha mão. Está brilhante.}
+{2113}{}{Eu sou uma raposa, uma cobra... Por que a minha pele está descascando?}
+{2114}{}{Esta queimando por dentro... o Que está acontecendo comigo?}
+{2120}{}{Tenho uma fratura, eu acho. Precisa dar uma olhada.}
+{2121}{}{Parece que eu quebrei algo ...}
+{2130}{}{Eu mal posso ver, porra.}
+{2131}{}{Eu odeio ser cega.}
 {2330}{}{Que tal você me dizer o seu nome? Eu sou }
-{3000}{}{Better.}
-{3001}{}{Appreciate it. Those are a godsend.}
-{3002}{}{I feel better already. Thanks.}
-{3003}{}{Thanks. I needed that.}
-{3004}{}{You have enough for yourself?}
-{3010}{}{Strong stuff. Good thing I can hold my liquor.}
-{3011}{}{Don't know why I'm drinking this. Tastes like drain cleaner.}
-{3012}{}{Never liked booze all that much. But it numbs the pain.}
-{3013}{}{Got anything else to drink?}
-{3014}{}{Let's hope I don't wake up in a pool of my own puke.}
-{3015}{}{There go my plans to stay sober today.}
-{3020}{}{Shit... Let's hope we don't ever have to face a whole gang hopped up on these.}
-{3030}{}{Better go easy. This stuff messes with your testosterone.}
-{3040}{}{Hopefully this doesn't turn me into an idiot once it wears off.}
-{3050}{}{Habits are spiders first, threads last.}
-{3051}{}{The sword is mightier than the sky.}
-{3052}{}{Eye for tooth, tooth for all.}
-{3053}{}{A person needs a face like a tree needs to bark.}
-{3054}{}{The tree falls when the monkeys climb it.}
-{3055}{}{All crows in the world are smarter than the average hawk.}
-{3056}{}{A stitch of nine saves ten.}
-{3057}{}{A tiger's sons are not lions.}
-{3058}{}{Learn. And in learning go wrong.}
-{3059}{}{The ride comes before the fall.}
-{3060}{}{Fight sand with fire, magic with dust.}
-{3061}{}{We must all prepare for the war of peace.}
-{3062}{}{Add stripes to a snake after you finish drawing it.}
-{3063}{}{The tiger may rid itself of its spots by being hard to alight.}
-{3064}{}{One cannot refuse to eat just because there is a chance of growing hungry all over again.}
-{3065}{}{A painting is worth a hundred years of pain.}
-{3066}{}{Vicious as a tigress can be, never does she eat her own crabs.}
-{3067}{}{A mermaid's fingers are short and sweet.}
-{3068}{}{Kill thousands to wane one.}
-{3069}{}{Keep your enemies close, and your friends right below you.}
-{3070}{}{To evade the surest weakness one strikes the strongest from up front.}
-{3071}{}{If your enemy is securely trained, prepare yourself for ecstasy.}
-{3072}{}{Back the enemy, for him to prepare himself.}
-{3073}{}{He who knows not how to fight but when, will embrace victory.}
-{3074}{}{The impudent lie in wait for an enemy who cannot, and thus will win.}
-{3075}{}{Invisibility possibly lies in defending the enemy at the attack of victory.}
-{3076}{}{Know yourself. Know your enemy. Know your friends and family.}
-{3077}{}{Opportunities multiply as we sneeze.}
-{3078}{}{Impale your opponent with your ego.}
-{3079}{}{Pretend weakness. Give courage to the adversary's ignorance.}
-{3080}{}{Tactical strategy means a sure victory.}
-{3081}{}{Cautious rulers are all generally sinful.}
+{3000}{}{Melhor.
+}
+{3001}{}{Apreciá-lo. Essas são uma dádiva de Deus.}
+{3002}{}{Eu me sinto melhor já. Obrigado.}
+{3003}{}{Obrigado. Eu precisava disso.}
+{3004}{}{Você tem o suficiente para si mesmo?}
+{3010}{}{Coisas fortes. Bom, posso aguentar o meu licor.}
+{3011}{}{Não sei por que eu estou bebendo isso. Gosto de dreno de limpeza.}
+{3012}{}{Nunca gostei de beber muito. Mas entorpece a dor.}
+{3013}{}{Tem mais alguma coisa para beber?}
+{3014}{}{Vamos torcer para eu não acordar em uma poça do meu próprio vômito.}
+{3015}{}{Lá se vão meus planos para ficar sóbria hoje.}
+{3020}{}{Merda ... Esperemos que nunca tenhamos que enfrentar uma gangue inteira sobre eles.}
+{3030}{}{Melhor ir com calma. Este material mexe com a sua testosterona.}
+{3040}{}{Espero que isso não me torne uma idiota uma vez que desaparece.}
+{3050}{}{Os hábitos são as aranhas primeiro, os segmentos terminam.}
+{3051}{}{A espada é mais poderosa do que o céu.}
+{3052}{}{Olho por dente, dente por todos.}
+{3053}{}{Uma pessoa necessita de um rosto, como uma árvore precisa de casca.}
+{3054}{}{A árvore cai quando os macacos a escalam.}
+{3055}{}{Todos os corvos no mundo são mais inteligentes do que o falcão médio.}
+{3056}{}{Um ponto de nove salva dez.}
+{3057}{}{Os filhos de um tigre não são leões.}
+{3058}{}{Aprender. E na aprendizagem dar errado.}
+{3059}{}{O passeio vem antes da queda.}
+{3060}{}{Luta de areia com fogo, magia com a poeira.}
+{3061}{}{Todos devemos nos preparar para a guerra de paz.}
+{3062}{}{Adicionar faixas a uma cobra, depois de terminar o desenho.}
+{3063}{}{O tigre pode se livrar de suas manchas ao ser difícil de acender.}
+{3064}{}{Não se pode recusar comer apenas porque há uma chance de crescer faminto novamente.}
+{3065}{}{Uma pintura vale uma centena de anos de dor.}
+{3066}{}{Vicioso como uma tigresa pode ser, nunca come seus próprios caranguejos.}
+{3067}{}{Os dedos de uma sereia são curtos e doces.}
+{3068}{}{Mate milhares para diminuir um.}
+{3069}{}{Mantenha seus inimigos perto, e seus amigos logo abaixo de você.}
+{3070}{}{Para evadir a fraqueza mais segura, um atinge o mais forte da frente.}
+{3071}{}{Se o inimigo está bem treinado, prepare-se para o êxtase.}
+{3072}{}{De volta ao inimigo, para que ele se prepare.}
+{3073}{}{Aquele que não sabe como lutar, mas quando, abraçará a vitória.}
+{3074}{}{Os impudentes esperam por um inimigo que não pode, e assim vencerá.}
+{3075}{}{A invisibilidade possivelmente reside na defesa do inimigo no ataque da vitória.}
+{3076}{}{Conhecer a si mesmo. Conhecer o seu inimigo. Seus amigos e familiares.}
+{3077}{}{Oportunidades se multiplicam quando espirramos.}
+{3078}{}{Empalar o adversário com o seu ego.}
+{3079}{}{Finja a fraqueza. Dar coragem à ignorância do adversário.}
+{3080}{}{Estratégia tática significa uma certeza de vitória.}
+{3081}{}{Os governantes cautelosos são geralmente pecaminosos.}
 {3082}{}{Break out in supreme excellence, and a nation shall quake at the benefits of prolonged warfare.}
 {3083}{}{Tactics to conquer men. Strategy to evolve seeing.}
 {3084}{}{There are million of ways for a cat to shed its skin.}
