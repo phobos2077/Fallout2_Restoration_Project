@@ -161,9 +161,10 @@
 {410}{}{O que você precisa saber?}
 {411}{}{I have a black belt in sanshou. I can stab a man to death if the situation calls for it. Pistols, rifles and the like I'm decent with.}
 {420}{}{We need to talk about the distance between us.}
-{421}{}{What's wrong with it?}
+{421}{}{O que há de errado com isso?
+}
 {422}{}{Ficar perto de mim.}
-{423}{}{Alright. I have your back.}
+{423}{}{Bem. Eu tenho suas costas.}
 {424}{}{Não fique muito longe.}
 {425}{}{You need your space, got it.}
 {426}{}{Let's spread out.}

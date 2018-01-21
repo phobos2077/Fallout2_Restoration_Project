@@ -151,7 +151,7 @@
 {250}{}{Look, I'll just give you 500 bucks and we'll forget the whole deal.}
 {251}{}{Que se dane.}
 {252}{}{Well, success in your ventures. I see no reason for us to talk again.}
-{253}{}{Fine by me.}
+{253}{}{Bem por mim.}
 {254}{}{Deal - but only because I like you. I suggest you don't come back any time soon.}
 {255}{}{I think I'll just kill you, get my money back, and collect a reward. After all, that's what being a good citizen is all about.}
 {256}{}{You again! DIE!}

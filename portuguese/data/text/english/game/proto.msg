@@ -156,7 +156,7 @@
 {670}{}{Tudo bem.}
 {671}{}{Com certeza.}
 {672}{}{As you wish.}
-{673}{}{Whatever you say.}
+{673}{}{O que você diz.}
 {674}{}{Eu vou tentar.}
 {675}{}{I can't do that.}
 {676}{}{I don't think I can do that.}

@@ -15,88 +15,89 @@
 {216}{}{Como você está vivo? O Médico disse que ele foi o único sobrevivente.}
 {220}{}{O nome é Sgt. Jules, mas você pode me chamar de gato. Eu sou o soldado mais rápido e de melhor aparência nesta base.}
 {221}{}{Certo, o que você disser. Então, o que há com esse lugar?}
-{230}{}{You mean Doctor C? Why would he forget about me? Hell, he helped shape this work of *ART* [He gestures at his body].}
+{230}{}{Você quer dizer médico C? Por que ele esqueceria de mim? Inferno, ele ajudou a moldar este trabalho de * ART * [Ele gesticula em seu corpo].}
 {231}{}{Certo, o que você disser. Então, o que há com esse lugar?}
-{232}{}{I think we are talking about two different people...So, what's going on around here anyway?}
-{240}{}{This is some government facility as far as I know. They do all kinds of top secret research. But...[He looks around
- the room.] it's awfully quiet. Where is everybody?}
-{241}{}{Well, this is probably going to come as a shock to you, but you've been frozen for over a century. The world's
- not the same anymore. They dropped the bombs and the Earth went silent. Society is still trying to rebuild itself from
- the ashes.}
-{250}{}{[Sgt. Jules looks at you with a raised eyebrow.] You ain't kidding, are you? Well, they actually followed through
- with it then. Damn. Guess I'm lucky to have been pulled from the military and brought here.}
-{251}{}{You were in the army?}
-{260}{}{Yep. I was the energy weapons expert. Pretty nimble on my feet too. I was only in the army for about a year
- before I was reassigned here. It's a shame I'll never see any of my friends again. I would have liked to have exchanged some goodbyes.}
+{232}{}{Eu acho que estamos falando de duas pessoas diferentes ... Então, o que está acontecendo aqui de qualquer maneira?}
+{240}{}{Esta é uma instalação do governo, tanto quanto eu sei. Eles fazem todos os tipos de pesquisa secreta. Mas ... [Ele olha ao redor
+  a sala.] é muito silencioso. Onde está todo mundo?}
+{241}{}{Bem, isso provavelmente vai te surpreender, mas você ficou congelado há mais de um século. O mundo
+  não é o mesmo. Eles deixaram cair as bombas e a Terra ficou em silêncio. A sociedade ainda tenta se reconstruir
+  das cinzas.}
+{250}{}{[Sgt. Jules olha para você com uma sobrancelha levantada.] Você não está brincando, não é? Bem, eles realmente seguiram
+  com isso, então. Droga. Adivinha, sou afortunado de ter sido retirado dos militares e trazido aqui.}
+{251}{}{Você estava no exército?}
+{260}{}{Sim. Eu era o especialista em armas de energia. Muito ágil nos meus pés também. Eu só estava no exército por cerca de um ano
+  antes de ser reatribuído aqui. É uma vergonha que nunca volte a ver nenhum dos meus amigos. Gostaria de ter trocado algumas despedidas.}
 {261}{}{Sinto muito.}
-{262}{}{I'm sorry for your losses, but you have to move on. Wallowing in your own misery won't get you anywhere.}
-{270}{}{Yeah, ain't we all. What am I gonna to do now though?}
-{271}{}{I guess you're right. What am I going to do now though?}
-{272}{}{Well, I could use a companion. Want to join me?}
-{273}{}{Well, I really must be going. Best of luck to you out there.}
-{280}{}{Hey, why not! I'll show you this Cat still got what it takes.}
-{281}{}{Sounds good. Let's go.}
-{282}{}{Whatever you say.}
-{290}{}{Don't you worry about this ol' cat. I'll find my place in this world. Now step aside and let the Cat do his thing.}
+{262}{}{Desculpe-me pelas perdas, mas é preciso seguir em frente. Revolver em sua própria miséria não o levará a lugar algum.}
+{270}{}{Sim, não somos todos. O que eu vou fazer agora?}
+{271}{}{Acho que você está certo. O que é que eu vou fazer agora?}
+{272}{}{Bem, eu poderia usar um companheiro. Quer se juntar a mim?}
+{273}{}{Bem, eu realmente devo estar indo. Boa sorte para você lá fora.}
+{280}{}{Ei, por que não! Vou mostrar-lhe que este gato ainda tem o que é necessário.}
+{281}{}{Parece bom. Vamos lá.}
+{282}{}{O que você diz.}
+{290}{}{Não se preocupe com este gato. Eu encontrarei meu lugar neste mundo. Agora, afaste-se e deixe o gato fazer o que é.}
 {291}{}{[FIM]}
-{300}{}{So, how did you end up in that cryo chamber? And what happened to your teeth?}
-{301}{}{I used to be the guard for one of the genetics labs. They were messing with human and feline DNA.
- Trying to make something with the best of both worlds, I suppose. And that's where yours truly comes in.
- [Cat flashes you his toothy grin.] They wanted a volunteer for one of their projects. It was for scouts and the like, supposed to
- make you more agile and flexible. I liked the sound of that *leers*. Anyway, they gave me this shot, put me under, and
- the next thing I knew, I had these teeth, and I felt.... sharper? Kind of predatory.}
+{300}{}{Então, como você acabou naquela câmara cryo? E o que aconteceu com os dentes?}
+{301}{}{Eu costumava ser o guarda de um dos laboratórios de genética. Estavam mexendo com DNA humano e felino.
+  Tentando fazer algo com o melhor dos dois mundos, suponho. E é aí que o seu realmente entra.
+  [O gato mostra seu sorriso dentado.] Eles queriam um voluntário para um de seus projetos. Era para escoteiros e coisas do gênero, supostamente
+  torná-lo mais ágil e flexível. Eu gostei do som desse * leers *. De qualquer forma, eles me deram esse tiro, me colocaram abaixo e
+  A próxima coisa que eu sabia, eu tinha esses dentes, e eu sentia ... mais nítida? Tipo de predatório.}
 {302}{}{Continue.
 }
-{303}{}{Well, apparently the experiment wasn't going as planned and whatever they put inside me wasn't sitting
- well with my system. I don't know what they meant by that, since I felt better than ever. They decided to throw me in
- the cryo freezer until they figured out what to do with me.}
-{304}{}{And then I thawed you out. Seems like you owe me one.}
-{305}{}{Yeah, you saved me. In return, maybe I can save your sense of style, monkey.}
-{306}{}{Monkey? Must be the cat DNA talking. That's all I need to know for now.}
-{310}{}{Since you were in the army, you think you might be able to teach me anything?}
-{311}{}{I might be able to teach you a thing or two about energy weapons and other big weapons. Now you have to remember...}
+{303}{}{Bem, aparentemente, o experimento não estava indo como planejado e tudo o que eles colocaram dentro de mim não estava sentado
+  bem com o meu sistema. Eu não sei o que eles queriam dizer com isso, já que eu me senti melhor do que nunca. Eles decidiram me jogar
+  no congelador de cryo até descobrir o que fazer comigo.}
+{304}{}{E então eu te descongelei. Parece que você me deve um.}
+{305}{}{Sim, você me salvou. Em troca, talvez eu possa salvar o seu senso de estilo, macaco.}
+{306}{}{Macaco? Deve ser o DNA do gato falando. Isso é tudo que eu preciso saber por enquanto.}
+{310}{}{Desde que você estava no exército, você acha que você pode me ensinar qualquer coisa?}
+{311}{}{Talvez eu possa ensinar uma ou duas coisas sobre armas de energia e outras grandes armas. Agora você precisa lembrar ...}
 {312}{}{[Continuar.]}
-{313}{}{There you go. That should help you melt those mutants who get in your way.}
+{313}{}{Ai está. Isso deve ajudá-lo a derreter esses mutantes que se interpõem no seu caminho.}
 {314}{}{Obrigado.}
 {390}{}{Você está pronto para me levar com você?}
 {391}{}{Vamos lá.}
 {392}{}{Não, ainda não.}
 {400}{}{Precisa de algo?}
-{401}{}{How can the Cat be of service?}
+{401}{}{Como pode o Gato estar a serviço?}
 {402}{}{Sim?}
 {410}{}{O que você precisa saber?}
-{411}{}{Well, I was trained to use the usual military stuff. Rifles, pistols, SMGs and the like. I prefer laser
- weapons and the like better though. Those have style! But if you give me some brass knuckles or one of those power fists,
- I'll pounce on any flat-footed goons before they know what hit them!}
-{421}{}{What's wrong with it?}
-{422}{}{Alright. I have your back.}
-{423}{}{Fine by me.}
-{424}{}{I work better solo anyway.}
-{430}{}{I don't have much patience, so hurry back.}
-{431}{}{I'm not a fan of waiting. Don't take too long.}
-{440}{}{We moving out?}
-{441}{}{It is about time you got back.}
-{450}{}{It's good to be on the move again. My legs need to keep moving.}
-{451}{}{It's about time we did something together again.}
-{460}{}{Sure, it looks like crap anyway. Got anything in blue?}
-{470}{}{Ok, but this is *my* shiny thing. And if you try and take it off me, I may have to shoot you.}
-{480}{}{I'm feeling top notch.}
-{481}{}{Just a few scratches, nothing to worry about.}
-{482}{}{I've seen worse in the army.}
-{483}{}{Call a medic. I'm going down fast.}
-{484}{}{I'm bleeding out of everything now...}
-{490}{}{Jesus, your ugly. You ought to get yourself checked out. I'm outta here.}
-{491}{}{Baby, you got real ugly. I'm outta here.}
-{500}{}{Don't get me wrong, it is good to stick together, but you are taking this a little too far. Come back when you
- got less people.}
-{501}{}{Don't get me wrong, it is good to stick together, but you are taking this a little too far. Come back when you
- got less people. Now while you are making room, I'm going to find some clothing to wear. [Looking around, Cat Jules spots
- a locker, opens it and looks inside.] These really are not my style, but I guess they will do. [He quickly puts the clothing on.]
- Alright, let me know when you are ready.}
-{510}{}{Did I eat bad fish or something? I feel poisoned.}
-{520}{}{I feel like I am melting away here. Must be radiation poisoning.}
-{530}{}{How do you expect me to perform at my best with this broken limb?}
-{540}{}{Who turned out the lights? I think something's wrong with my eyes.}
+{411}{}{Bem, fui treinado para usar as coisas militares habituais. Rifles, pistolas, SMGs e similares. Eu prefiro as armas laser
+  e o gosto melhor. Esses têm estilo! Mas se você me der um punho de bronze ou um desses punhos de poder,
+  Eu irei atacar qualquer bixo de patas planas antes que eles saibam o que os atingiu!}
+{421}{}{O que há de errado com isso?
+}
+{422}{}{Bem. Eu tenho suas costas.}
+{423}{}{Bem por mim.}
+{424}{}{Eu trabalho melhor solo de qualquer maneira.}
+{430}{}{Eu não tenho muita paciência, então corra de volta.}
+{431}{}{Não sou fã de esperar. Não demore muito.}
+{440}{}{Temos de sair?}
+{441}{}{Chegou a hora de você voltar.}
+{450}{}{É bom estar em movimento novamente. Minhas pernas precisam se manter em movimento.}
+{451}{}{Já faz tempo que fizemos algo juntos novamente.}
+{460}{}{Claro, isso parece uma porcaria. Alguma coisa em azul?}
+{470}{}{Ok, mas isso é * minha * coisa brilhante. E se você tentar tirar isso de mim, talvez eu tenha que atirar em você.}
+{480}{}{Eu estou me sentindo top de linha.}
+{481}{}{Apenas alguns arranhões, nada para se preocupar.}
+{482}{}{Eu vi pior no exército.}
+{483}{}{Ligue para um médico. Estou indo depressa.}
+{484}{}{Estou sangrando de tudo agora ...}
+{490}{}{Jesus, seu feio. Você deve se verificar. Estou fora daqui.}
+{491}{}{Baby, você ficou realmente feio. Estou fora daqui.}
+{500}{}{Não me interpretem mal, é bom ficar juntos, mas você está levando isso um pouco longe demais. Volte quando você
+  tiver menos pessoas.}
+{501}{}{Não me interpretem mal, é bom ficar juntos, mas você está levando isso um pouco longe demais. Volte quando você
+  tiver menos pessoas. Agora, enquanto você está fazendo espaço, eu vou encontrar algumas roupas para vestir. [Olhando ao redor, pontos de Cat Jules
+  um armário, abre e olha para dentro.] Estes realmente não são meu estilo, mas acho que eles vão fazer. [Ele rapidamente coloca a roupa.]
+  Tudo bem, avise-me quando estiver pronto.}
+{510}{}{Eu comi peixe ruim ou algo assim? Eu me sinto envenenado.}
+{520}{}{Eu sinto que estou derretendo aqui. Deve ser envenenamento por radiação.}
+{530}{}{Como você espera que eu realize o meu melhor com esse membro quebrado?}
+{540}{}{Quem viu as luzes? Eu acho que tem algo errado com os meus olhos.}
 {600}{}{Some might say I'm a pretty shallow guy, but a shallow guy with a great ass.}
 {601}{}{In the army it was always, "Cat do this. Cat do that." What am I, a dog?}
 {602}{}{[singing] 'Cause you make me tongue tied, tongue tied... [singing]}
@@ -108,8 +109,8 @@
 {810}{}{What's with the bone, Neanderthal?}
 {820}{}{Least I didn't end up like YOU, Lenny!}
 {830}{}{Least I didn't end up like YOU, Marcus!}
-{2900}{}{I need to put on some clothing first. [Looking around, Cat spots a locker, opens it and looks inside.]
- These really aren't my style, but I guess they'll do. [He quickly puts the clothing on.] Alright, I'm good to go.}
+{2900}{}{Eu preciso colocar roupas primeiro. [Olhando ao redor, Cat pega um armário, abre e olha para dentro.]
+  Estes realmente não são o meu estilo, mas acho que eles vão servir. [Ele rapidamente coloca a roupa.] Tudo bem, eu estou bem para ir.}
 {2901}{}{[FIM]}
 {5000}{}{[The man stands up and shakes himself dry like a wet animal. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.}
 {5001}{}{[FIM]}
