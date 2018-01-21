@@ -99,31 +99,31 @@
 {198}{}{Tell me about Redding.}
 {199}{}{Tell me about Gecko.}
 {200}{}{I wanted to know something else...}
-{201}{}{Thanks for the information.}
+{201}{}{Obrigado pela informação.}
 {202}{}{It's a mining community like Redding, except it's located to the far South. We get many of our uranium shipments from there.}
 {203}{}{Tell me about New Reno.}
 {204}{}{Tell me about Redding.}
 {205}{}{Tell me about Gecko.}
 {206}{}{I wanted to know something else...}
-{207}{}{Thanks for the information.}
+{207}{}{Obrigado pela informação.}
 {208}{}{It's a ways to the southwest. I hear conflicting reports about Reno. Some merchants, especially the slavers, really love it there. Other merchants... don't. City with a lot of glitter... and a lot of trouble, I hear.}
 {209}{}{Tell me about Broken Hills.}
 {210}{}{Tell me about Redding.}
 {211}{}{Tell me about Gecko.}
 {212}{}{I wanted to know something else...}
-{213}{}{Thanks for the information.}
+{213}{}{Obrigado pela informação.}
 {214}{}{It's a mining town far to the west. We haven't seen too many caravans from them recently, and it's got some of the high-ups a little worried. Senior Councilman McClure especially.}
 {215}{}{Tell me about Broken Hills.}
 {216}{}{Tell me about New Reno.}
 {217}{}{Tell me about Gecko.}
 {218}{}{I wanted to know something else...}
-{219}{}{Thanks for the information.}
+{219}{}{Obrigado pela informação.}
 {220}{}{A town of ghouls less than a day's travel to the northeast, as I understand it. Rumor is they prey on any travelers that enter their territory. Best stay away.}
 {221}{}{Tell me about Broken Hills.}
 {222}{}{Tell me about New Reno.}
 {223}{}{Tell me about Redding.}
 {224}{}{I wanted to know something else...}
-{225}{}{Thanks for the information.}
+{225}{}{Obrigado pela informação.}
 {226}{}{Why? You looking for something with some more kick than these synthetic drinks?}
 {227}{}{Perhaps. Drinking synthetic alcohol can't really compare to the real thing.}
 {228}{}{Not really. I was looking for some information instead...}

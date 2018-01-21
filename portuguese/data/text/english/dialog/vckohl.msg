@@ -52,19 +52,19 @@
  There may be some mention of them in the Central Computer in the Vault.}
 {149}{}{How can I get down to the Vault?}
 {150}{}{Can I ask you some other questions?}
-{151}{}{Thanks for the information.}
+{151}{}{Obrigado pela informação.}
 {152}{}{Hmmmm. Well, you know, the Central Computer down in the Vault might have some information about it. We keep most
  of the older archives down there.}
 {153}{}{How can I get down to the Vault?}
 {154}{}{Can I ask you some other questions?}
-{155}{}{Thanks for the information.}
+{155}{}{Obrigado pela informação.}
 {156}{}{Well, you are a Citizen of the community, aren't you? You are permitted to walk down there.}
 {157}{}{Oh you are? Pardon me, pardon me... well, then, you are permitted to simply walk down there and use the computer.}
 {158}{}{Well, you'd need to be a Citizen of Vault City first. If you want, you could take the Citizenship test... or better yet,
  speak to First Citizen Lynette. I'm sure she might make an exception in your case.}
 {159}{}{Uh, but I am a Citizen.}
 {160}{}{Can I ask you some other questions?}
-{161}{}{Thanks for the information.}
+{161}{}{Obrigado pela informação.}
 {162}{}{Yes, well, everything is being transcribed because... hmmm. This is a somewhat delicate matter, but I believe my post here
  in Vault City has become obsolete.}
 {163}{}{Ob-so-lete? What do you mean?}

@@ -1,57 +1,57 @@
-{100}{}{You see A dull silver toaster sitting on a desk.}
-{101}{}{You see The Brave Little Toaster.}
-{102}{}{BLT, your chirpy, if slightly annoying, breakfast companion.}
-{200}{}{Howdy Doodley-Do! I'm The Brave Little Toaster, your chirpy breakfast companion. But you can just call me BLT. Say, would anybody like any toast?}
-{201}{}{No thanks, but I do want some information.}
-{202}{}{Not now, I need to be going.}
-{210}{}{No, problem! I'm red hot in quantum mechanics, submolecular biology and TV theme tunes. Ask me anything. First though, may I ask you a question?}
-{211}{}{I guess so. What can I do for you?}
-{220}{}{Are you sure you won't have some toast?}
-{221}{}{NO! I don't want any toast. No muffins, no teacakes. No buns, baps, baguettes or bagels. No croissants, no crumpets, no pancakes, no potato cakes and definitely, no smegging flapjacks!!!}
-{230}{}{Ah! So you're a waffle man!}
-{231}{}{Oh, I've had enough of this.}
-{232}{}{[You smack your head in frustration.] I've got to be going. I... I just have to be somewhere. Anywhere other than here.}
-{240}{}{No, wait. I'm sorry. I'm not just a one-dimensional toast obsessed appliance. What can I do for you?}
-{241}{}{I just need some information about this place. What can you tell me about it?}
-{250}{}{I can tell you one thing: this is a terrible place for someone of my toast making expertise. Did you know that it's
- been well over a century since I had the pleasure of making toast for someone? You're the first toast consumer to come
- through here since the war, and, here's the real kicker: were you to actually request toast, I'm not even sure I'd be up
- for the task. You see, I'm feeling a little under the weather inside. It's rather embarrassing, really.}
-{251}{}{That's, uh, quite tragic. So, why are you here?}
-{252}{}{I see. Thanks for your time.}
-{260}{}{I think he had a consignment of gas masks brought in before the accident. Some people even said that it was his errors that caused the problem in the first place.}
-{261}{}{So, why are you here?}
-{262}{}{Thanks for the information.}
-{270}{}{Why, to make your mornings as cheerful as they can be! Say, after all this talking you wouldn't happen to have made some room
- in your stomach for some toast after all, have you?}
-{271}{}{I thought we got past this!! I'm not hungry and never will be. So, why are you REALLY here?}
-{280}{}{Alright, no need to shout. Angry is never a good way to begin your day. I was created as a breakfast companion
- but I can also be used for lunch and dinner. There isn't a time of day when some toast wouldn't hurt. If you're asking
- why I happen to be sitting here with a wire hanging from my side, well, it seems Mr. Handy doesn't always live up to his
- namesake -- the bloke started breaking down right in the middle of my annual maintenance checkup. Of course, he scuttled off
- to a maintenance bay and left me hanging.}
-{281}{}{I see. Well, thanks for your time.}
-{290}{}{Not a problem. Do stop by again. Maybe then you'll be hungry.}
-{291}{}{I doubt it. Bye.}
-{300}{}{I knew you you'd be back. They always are. So, do you want any toast now?}
-{301}{}{I knew you you'd be back. They always are. And now that I'm fully functional again, I can make toast better than ever. So, do you want any toast now?}
-{302}{}{Not right now. I need to ask you something.}
-{303}{}{Nope. I must be going.}
-{310}{}{Sure, what would you like to know? I hope it's about toast.}
+{100}{}{Você vê uma torradeira prateada embotada sentada em uma mesa.}
+{101}{}{Você vê A Pequena e Valente Torradeira.}
+{102}{}{BLT, seu companheiro de café-da-manhã chato, se um pouco irritante.}
+{200}{}{Howdy Doodley-Do! Eu sou The Brave Little Toaster, seu companheiro de café-da-manhã chato. Mas você pode me chamar de BLT. Digamos que alguém gostaria de brinde?}
+{201}{}{Não, obrigado, mas eu precisava de algumas informações.}
+{202}{}{Não agora, eu preciso ir.}
+{210}{}{Sem problemas! Estou vermelho na mecânica quântica, biologia submolecular e músicas do tema da TV. Pergunte-me qualquer coisa. Em primeiro lugar, posso fazer uma pergunta?}
+{211}{}{- Acho que sim. O que eu posso fazer por você?}
+{220}{}{Tem certeza de que não terá um pouco de torrada?}
+{221}{}{NÃO! Eu não quero nenhum brinde. Sem muffins, não teacakes. Sem pãezinhos, bolachas, baguetes ou bagels. Sem croissants, sem crumpets, sem panquecas, sem bolachas de batata e definitivamente, sem flocos de smegging !!!}
+{230}{}{Ah! Então você é um homem de waffle!}
+{231}{}{Ah, eu já tive o suficiente disso.}
+{232}{}{[Você bate na cabeça com frustração.] Eu tenho que ir. Eu ... eu só tenho que estar em algum lugar. Em qualquer outro lugar que não seja aqui.}
+{240}{}{Não, espere. Eu sinto Muito. Não sou apenas um aparelho obsessivo de brinde unidimensional. O que posso fazer para você?}
+{241}{}{Eu só preciso de algumas informações sobre este lugar. O que você pode me dizer sobre isso?}
+{250}{}{Posso dizer-lhe uma coisa: este é um lugar terrível para alguém da minha torrada fazer experiência. Você sabia que já
+  Foi bem mais de um século desde que eu tive o prazer de fazer brinde por alguém? Você é o primeiro consumidor de torradas a vir
+  por aqui desde a guerra, e, aqui é o verdadeiro kicker: se você realmente pedisse torrada, nem tenho certeza de que eu estaria
+  para a tarefa. Você vê, estou me sentindo um pouco abaixo do tempo dentro. É realmente embaraçoso.}
+{251}{}{Que, uh, bastante trágico. Então, por que você está aqui?}
+{252}{}{Eu vejo. Obrigado pelo seu tempo.}
+{260}{}{Eu acho que ele tinha uma consignação de máscaras de gás trazidas antes do acidente. Algumas pessoas até disseram que foram seus erros que causaram o problema em primeiro lugar.}
+{261}{}{Então, por que você está aqui?}
+{262}{}{Obrigado pela informação.}
+{270}{}{Por que fazer suas manhãs tão alegres como elas podem ser! Diga, depois de tudo isso falando, você não faria algum espaço
+  no seu estômago para um brinde depois de tudo, você tem?}
+{271}{}{Eu pensei que passamos isso !! Não estou com fome e nunca será. Então, por que você está REALMENTE aqui?}
+{280}{}{Tudo bem, não é preciso gritar. Raiva nunca é uma boa maneira de começar seu dia. Eu fui criado como um colega de café da manhã
+  mas também posso ser usado para almoço e jantar. Não há uma hora do dia em que alguns brinde não seja bom. Se você está perguntando
+  Por que eu estou sentado aqui com um fio pendurado do meu lado, bem, parece que o Sr. Handy nem sempre está à sua altura
+  homenagem - o cara começou a quebrar no meio do meu exame de manutenção anual. Claro, ele escorregou
+  para um compartimento de manutenção e me deixou pendurado.}
+{281}{}{Eu vejo. Bem, obrigado pelo seu tempo.}
+{290}{}{Não é um problema. Pare de novo. Talvez então você fique com fome.}
+{291}{}{Eu duvido. Tchau.}
+{300}{}{Eu sabia que você voltaria. Eles sempre vem. Então, você quer algum brinde agora?}
+{301}{}{Eu sabia que você voltaria. Eles sempre vem. E agora que estou totalmente funcional novamente, eu posso fazer torradas melhor do que nunca. Então, você quer algum brinde agora?}
+{302}{}{Não agora. Eu preciso perguntar uma coisa.}
+{303}{}{Não. Devo estar indo.}
+{310}{}{Claro, o que você gostaria de saber? Espero que seja sobre torradas.}
 {311}{}{O que é este lugar?}
 {312}{}{Deixa pra lá. Tchau.
 }
-{350}{}{Hey, you fixed me! I knew Mr. Handy left the job unfinished. Now I feel better than ever! Thanks.}
-{351}{}{Sure, it's what I do. See you later.}
-{352}{}{Now hold on there. If you won't let me reward you with toast, then at least allow me give you a little tip. You
- know those slot machines you find in casinos? Well, I calculated a method that can jinx the machines out of their cash.
- I have an IQ of 6000, you know. When I'm not making toast, I like to ponder these kinds of things. For helping me out,
- I'll tell you these secret codes. Just use one of the machines like you normally would and...}
+{350}{}{Ei, você me corrigiu! Eu sabia que o Sr. Handy deixou o trabalho inacabado. Agora me sinto melhor do que nunca! Obrigado.}
+{351}{}{Com certeza, é o que eu faço. Vejo você mais tarde.}
+{352}{}{Agora aguarde. Se você não me deixa recompensá-lo com brinde, então, pelo menos, permita-me dar uma pequena dica. Você
+  Conheça as máquinas caça-níqueis que você encontra nos casinos? Bem, eu calculo um método que pode excluir as máquinas do seu dinheiro.
+  Eu tenho um QI de 6000, você sabe. Quando não estou fazendo torradas, eu gosto de refletir sobre esse tipo de coisas. Por me ajudar,
+  Vou lhe contar estes códigos secretos. Basta usar uma das máquinas como você normalmente faria e ...}
 {353}{}{[MAIS]}
-{354}{}{...And that's all there is to it. You'll be rich in no time, eating toast to your heart's content.}
-{355}{}{Thanks. I appreciate this. So long.}
-{400}{}{You successfully repair the toaster.}
-{401}{}{You fail to repair the toaster.}
-{402}{}{The toaster is already repaired.}
-{403}{}{ successfully repairs the toaster.}
-{404}{}{ fails to repair the toaster.}
+{354}{}{... E isso é tudo aí. Você será rico em algum momento, comendo torradas ao conteúdo do seu coração.}
+{355}{}{Obrigado. Agradeço isso. Tanto tempo.}
+{400}{}{Você repara com sucesso a torradeira.}
+{401}{}{Você não consegue reparar a torradeira.}
+{402}{}{A torradeira já está reparada.}
+{403}{}{ repara com sucesso a torradeira.}
+{404}{}{ não consegue reparar a torradeira.}

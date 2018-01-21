@@ -83,7 +83,7 @@
 {181}{}{It was disassembled, and its parts were used for other applications.}
 {182}{}{What was in the shipment meant for Vault 13?}
 {183}{}{Can I ask you another question?}
-{184}{}{I see. Thanks for your time.}
+{184}{}{Eu vejo. Obrigado pelo seu tempo.}
 {185}{}{She is the leader of the people. The Citizens of Vault City look to her for guidance, but the Citizens, through the Council, still have final say on matters. In these trying times, she is a pillar of our society.}
 {186}{}{"Trying times?" What do you mean?}
 {187}{}{What is it you do?}

@@ -34,16 +34,16 @@
 {133}{}{Let me mark it on your map. See, Broken Hills is south... bear west on the trail from there, and you'll hit Reno.
  Northwest o' Reno is Redding, then it's north to the Den, east to Modoc, then east to here, Vault City.}
 {134}{}{Any idea which of those places you got the flask from?}
-{135}{}{Thanks for the information.}
+{135}{}{Obrigado pela informação.}
 {136}{}{Sorry, can't remember exactly. It was a long time ago. Why do you want to know?}
 {137}{}{I'm looking for the Vault the flask came from.}
-{138}{}{Thanks for the information.}
+{138}{}{Obrigado pela informação.}
 {139}{}{Well, hell, if it's a Vault you're looking for, then there's one inside the walls of Vault City.}
 {140}{}{Vault 13 is inside the city?}
-{141}{}{Thanks for the information.}
+{141}{}{Obrigado pela informação.}
 {142}{}{Well, now, don't know if it's "13" exactly, but there's a Vault. If that ain't the one you're looking for, the vault's central computer might know where the others are. They've damn near listed everything in it.}
 {143}{}{I had some other questions...}
-{144}{}{Thanks for the information.}
+{144}{}{Obrigado pela informação.}
 {145}{}{Shoot. What did you want to know?}
 {146}{}{Do you know a trader named Vic? He said he bought this Vault water flask from you.}
 {147}{}{Do you know a trader named Vic?}

@@ -1,17 +1,17 @@
 {100}{}{Você vê um holograma.}
-{101}{}{You see the The Director of Security.}
-{102}{}{Hologram 10001. He oversees the EPA's security.}
-{200}{}{Halt! Do not attempt to come any closer. Identify yourself, intruder.}
-{201}{}{I'm the Chosen One of Arroyo. I'm exploring the EPA.}
-{202}{}{I'm not an intruder and now I need to be leaving.}
+{101}{}{Você vê o Diretor de Segurança.}
+{102}{}{Holograma 10001. Ele supervisiona a segurança da EPA.}
+{200}{}{Pare! Não tente aproximar-se. Identifique-se, intruso.}
+{201}{}{Eu sou o escolhido de Arroyo. Estou explorando a EPA.}
+{202}{}{Eu não sou um intruso e agora eu preciso sair.}
 {203}{}{Eu sou }
-{204}{}{, and I'm not trying to intrude, I'm just exploring.}
-{210}{}{Exploring!? Exploring...MY...EPA!? How dare you have the audacity to break in here and just casually wander around! Vollidiot! I have a half a mind to arrest you and toss your ass in the petting zoo -- give them freakshows a real feast!}
-{211}{}{No, wait! I'm not doing you any harm! Let me explain...}
-{220}{}{You aren't going anywhere fast, Pisskopf. Nobody saunters into MY EPA without explaining themselves. How do I know you're not a Chinese spy?}
-{221}{}{I guess you don't. But if you give me a chance to explain myself, I'm sure we can sort this whole mess out.}
-{222}{}{So what if I am? Does it even matter? Your precious EPA isn't exactly relevant anymore. It's just another decaying relic of a lost age.}
-{230}{}{Go on then, Schwachkopf, explain yourself. Make it good though, or I'll have the robots beat you and drag you down to the electric chair!}
+{204}{}{, e não estou tentando me intrometer, estou apenas explorando.}
+{210}{}{Explorando !? Explorando ... MEU ... EPA !? Como você se atreve a ter a audácia de entrar aqui e simplesmente vagar vagarosamente! Vollidiot! Eu tenho uma meia mente para prendê-lo e jogar sua bunda no zoológico de animais de estimação - dê-lhes um freakshows um verdadeiro banquete!}
+{211}{}{Não, espera! Eu não estou fazendo nenhum mal! Deixe-me explicar...}
+{220}{}{Você não vai a lugar rápido, Pisskopf. Ninguém se aproxima da minha EPA sem se explicar. Como eu sei que você não é um espião chinês?}
+{221}{}{Eu acho que você não. Mas se você me der uma chance de me explicar, tenho certeza de que podemos classificar toda essa bagunça.}
+{222}{}{Então, e se eu estiver? Será que isso importa? Seu EPA precioso já não é mais relevante. É apenas outra relíquia decadente de uma idade perdida.}
+{230}{}{Continue então, Schwachkopf, explique-se. Seja bom, ou eu vou ter os robôs para te baterem e arrastá-lo para a cadeira elétrica!}
 {231}{}{Alright. First off, I'm not a Chinese spy -- I'm what you might call a tribal. I've been chosen to embark on a perilous quest so that I might save my tribe from destruction. I only entered this complex in hope of scavenging something that could aid me in my quest.}
 {232}{}{Fuck off. Seriously, you're a *hologram*. The worst you can do is try and shout me to death, which you seem to be giving your best shot. As for those scrap heaps you call robots, I might be a little more intimidated if I saw any around here that actually work.}
 {240}{}{Scavenge! You Pissnelke! How dare you discredit the name of the EPA in this way! Nobody so much as removes a piece of paper from this building without my say so! However, to have entered this far into the EPA would require some skill...perhaps I could find a use for you after all. }

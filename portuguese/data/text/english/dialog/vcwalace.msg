@@ -169,7 +169,7 @@
 {268}{}{What can you tell me about Broken Hills?}
 {269}{}{What can you tell me about Redding?}
 {270}{}{I had some other questions for you...}
-{271}{}{Thanks for the information.}
+{271}{}{Obrigado pela informação.}
 {272}{}{Thought I'd ask anyway. Goodbye.}
 {273}{}{*Thanks.* Goodbye.}
 {274}{}{Broken Hills is a mining town to the south. As I understand it, mutants mine the uranium, and they ship it here by caravan.}
@@ -228,7 +228,7 @@
 {320}{}{If I track down these raiders, will you let me in the City?}
 {321}{}{I had some other questions...}
 {322}{}{I'll go see what I can find out about these raiders.}
-{323}{}{Thanks for the information.}
+{323}{}{Obrigado pela informação.}
 {324}{}{Certainly. If you can find the raiders base camp, I'll grant you a Day Pass.}
 {325}{}{I'll see what I can do. But first, I had some other questions...}
 {326}{}{It's a deal. Goodbye.}

@@ -89,7 +89,7 @@
 {356}{}{The }
 {357}{}{Quem é você?}
 {358}{}{Can you tell me a little about the casino?}
-{359}{}{I see. Thanks for your time.}
+{359}{}{Eu vejo. Obrigado pelo seu tempo.}
 {360}{}{Hey, look who's here! Hey, }
 {361}{}{. Welcome to }
 {362}{}{Fooooooo foo foo fooooo}
@@ -111,10 +111,10 @@
  a few days ago and nobody saw him leave.}
 {387}{}{Mr. Salvatore mentioned that there was a specific dealer that Lloyd won the money from. Who was that?}
 {388}{}{I had some other questions…}
-{389}{}{Thanks for the information.}
+{389}{}{Obrigado pela informação.}
 {395}{}{Nikki? Yeah, she's over there, at the middle table. Is there some sort of problem?}
 {396}{}{No problem. Just wanted to meet her. I had some other questions…}
-{397}{}{Thanks for the information.}
+{397}{}{Obrigado pela informação.}
 {405}{}{Her name WAS Nikki. She used to work here but she got aced…not too long ago.}
 {406}{}{Hmmm. Do you mind if I ask you some other questions…?}
 {407}{}{Interesting. Thanks for the information.}
@@ -198,7 +198,7 @@
  Sure was pissed about you winning his fortune. I'd be careful around him.}
 {1367}{}{Is the machine rigged?}
 {1368}{}{I had some other questions…}
-{1369}{}{Thanks for the information.}
+{1369}{}{Obrigado pela informação.}
 {1425}{}{Sure. Let's hope you are as good as last time.}
 {1455}{}{Sure. I'm getting sick of our regular anyway. Let's hope you are as good as last time.}
 {1500}{}{Umm...Yo' mama is so fat when she fell over she rocked herself asleep trying to get up again.}

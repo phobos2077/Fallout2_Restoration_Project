@@ -433,7 +433,7 @@
 {1435}{}{Doesn't surprise me...that sort of thing seems to happen a LOT in this town.}
 {1436}{}{What do you mean by that?}
 {1437}{}{What can you tell me about this empty Jet canister?}
-{1439}{}{I see. Well, thanks for your time.}
+{1439}{}{Eu vejo. Bem, obrigado pelo seu tempo.}
 {1450}{}{(Glances at it.) Like a hundred others I've seen. It ain't mine, though...could be Jagged Jimmy J's or Renesco's.}
 {1451}{}{Jagged Jimmy J?}
 {1452}{}{Renesco?}

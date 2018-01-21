@@ -46,7 +46,7 @@
 {145}{}{Well, if you had access to our Vault Central Computer, you might be able to find some mention of some other Vaults. But only Citizens are allowed in the Vault.}
 {146}{}{Tanks}
 {147}{}{Mind if I ask you something else?}
-{148}{}{Thanks for the information.}
+{148}{}{Obrigado pela informação.}
 {149}{}{Hey there, welcome back. Anything I can do for you?}
 {150}{}{Sure. What's on your mind?}
 {151}{}{Gechkk?}

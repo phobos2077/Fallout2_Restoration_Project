@@ -12,7 +12,7 @@
  Now do you need something or are you just here to piss me off?}
 {203}{}{Metzger sent you? [He fidgets uncomfortably.] Don't tell me he wants more slaves already -- for fuck's sake, we just sent a shipment last week.}
 {300}{}{Actually yes, I do need something.}
-{301}{}{So, why are you here?}
+{301}{}{Então, por que você está aqui?}
 {302}{}{I don't think I need anything else.}
 {303}{}{Well then get the fuck outta here. You're trespassing and you ain't wanted.}
 {304}{}{Estou de saída.}
