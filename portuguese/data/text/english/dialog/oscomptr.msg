@@ -112,17 +112,17 @@
 {278}{}{Access Overseer Logs.}
 {279}{}{Termine a sessão.}
 {280}{}{Authorization required. Please enter password. }
-{281}{}{[BACK]}
+{281}{}{[VOLTAR]}
 {282}{}{[Guess password]}
 {283}{}{[Attempt to hack into it.]}
 {284}{}{Termine a sessão.}
 {290}{}{Incorrect. Please enter password.}
-{291}{}{[BACK]}
+{291}{}{[VOLTAR]}
 {292}{}{[Guess password]}
 {293}{}{[Attempt to hack into it.]}
 {294}{}{Termine a sessão.}
 {300}{}{Incorrect. You are now locked out of these files. Vault-Tec apologizes for any inconvenience.}
-{301}{}{[BACK]}
+{301}{}{[VOLTAR]}
 {302}{}{[Attempt to hack into it.]}
 {303}{}{Termine a sessão.}
 {310}{}{[You try everything you can think of, but you're unable to gain access. With a sigh of defeat, you return to the main menu.]}

@@ -8,10 +8,10 @@
 {107}{}{Check status.}
 {108}{}{Log Off}
 {109}{}{-Fuel Tanks: Empty- -Cargo Hold: Empty- -Navigation Computer: Non Functional- -Mooring Lines: Attached-}
-{110}{}{[BACK]}
+{110}{}{[VOLTAR]}
 {111}{}{Log Off.}
 {112}{}{-Fuel Tanks: Full- -Cargo Hold: Empty- -Navigation Computer: Non Functional- -Mooring Lines: Attached-}
-{113}{}{[BACK]}
+{113}{}{[VOLTAR]}
 {114}{}{Log Off}
 {115}{}{ERROR: Fuel Tanks Empty.}
 {116}{}{ERROR: Navagational Computer non Functional.}

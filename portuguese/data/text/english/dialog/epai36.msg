@@ -1,14 +1,14 @@
 {100}{}{Você verá um computador.}
-{150}{}{Please select an option below.}
-{151}{}{Information}
-{152}{}{Employee Access}
-{160}{}{Please select an option below.}
-{161}{}{Lower Force Field}
-{162}{}{[BACK]}
-{170}{}{To lower force fields, please enter access password. (If password is lost or forgotten, please see Hologram 40011, Director of Public Relations.)}
+{150}{}{Por favor, selecione uma das opções abaixo.}
+{151}{}{Informações}
+{152}{}{Acesso De Funcionários}
+{160}{}{Por favor, selecione uma das opções abaixo.}
+{161}{}{Menor Campo De Força}
+{162}{}{[VOLTAR]}
+{170}{}{Para baixar os campos de força, insira a senha de acesso. (Se a senha for perdida ou esquecida, veja o Holograma 40011, Diretor de Relações Públicas.)}
 {171}{}{ABRE}
-{172}{}{[BACK]}
-{180}{}{Thank you. Force fields are now disengaged.}
+{172}{}{[VOLTAR]}
+{180}{}{Obrigado. Campos de força agora estão desativados.}
 {181}{}{[FEITO]}
 {200}{}{Welcome to the EPA Petting Zoo! Here you'll have the pleasure of interacting with these unique creatures that
  look like hideously deformed humans! That's because these ugly beasts are the result of exciting experiments where our

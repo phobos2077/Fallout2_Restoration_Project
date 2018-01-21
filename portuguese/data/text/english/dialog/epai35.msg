@@ -17,13 +17,13 @@
   Sala de estar, com a família substituída por esqueletos.] Uh-oh! Parece que os comunas derrubaram o grande, e os
   Johnsons não estava tão seguro quanto eles pensavam. Agora, o que podemos aprender com o erro da família Johnson?}
 {231}{}{[MAIS]}
-{240}{}{That's right! In the event of a nuclear war, you want your family to be safe within the shelter of a Vault-Tec
- brand vault. Vault-Tec have constructed 122 public vaults around our great nation, so there's bound to be one near you.
- As you can imagine, space is very limited, so reserve your space today, or else *your* family might end up like the
- Johnsons here. [Dr. Caleb pats the head of the skeletal dog. The skull detaches from the body and hits the floor,
- shattering. A Mr. Handy robot hovers over and sweeps up the skull fragments.]}
+{240}{}{Está certo! No caso de uma guerra nuclear, você quer que sua família seja segura dentro do abrigo de um Vault-Tec
+  cofre da marca. O Vault-Tec construiu 122 cofres públicos em torno de nossa grande nação, então é necessário que seja um perto de você.
+  Como você pode imaginar, o espaço é muito limitado, então reserve seu espaço hoje, ou então * sua * família pode acabar como a
+  Johnsons aqui. [Dr. Caleb bate a cabeça do cão esqueletal. O crânio se separa do corpo e atinge o chão,
+  quebrando. Um robô do Sr. Handy paira e varre os fragmentos do crânio.]}
 {241}{}{[MAIS]}
-{250}{}{It looks like Mr. Handy's going to have his work cut out for him if he plans to clean up *this* mess. [Dr. Caleb
- laughs as the image fades away and is replaced by text.] Thank you for watching. This educational video was brought to
- you by the fine folks at Vault-Tec. Vault-Tec, America's Final Word in Homes.}
+{250}{}{Parece que o Sr. Handy vai ter seu trabalho cortado para ele se ele planeja limpar * esta * bagunça. [Dr. Caleb
+  ri como a imagem desaparece e é substituído por texto.] Obrigado por assistir. Este vídeo educacional foi trazido para
+  Você pelo bom pessoal da Vault-Tec. Vault-Tec, Palavra final da América em casas.}
 {251}{}{[Fim de sessão.]}
