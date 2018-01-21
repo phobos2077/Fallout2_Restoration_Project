@@ -36,29 +36,29 @@
 {133}{}{Talvez mais uma pesquisa?}
 {134}{}{Após muita pesquisa dolorosa, você encontra um arquivo oculto.}
 {135}{}{Arquivo de acesso rotulado: Projeto de Fluoração de Massa.}
-{136}{}{In the continued effort to make the citizens of the United States more controllable, the inclusion of sodium
- fluoride in all available drinking water is effective immediately. Long term effects in testing has resulted in
- subjects becoming more "stupid and docile." In addition, it was observed that sodium fluoride caused slight damage to
- a specific part of the brain, making it more difficult for the person affected to defend his freedom and causing the
- individual to become more docile towards authority.}
+{136}{}{No esforço contínuo para tornar os cidadãos dos Estados Unidos mais controláveis, a inclusão de sódio
+  O fluoreto em toda a água potável disponível é efetivo imediatamente. Os efeitos a longo prazo nos testes resultaram em
+  assuntos tornando-se mais "estúpidos e dóceis". Além disso, observou-se que o fluoreto de sódio causou danos leves a
+  uma parte específica do cérebro, tornando mais difícil para a pessoa afetada defender sua liberdade e 
+  fazendo com que o indivíduo se torne mais dócil em relação à autoridade.}
 {137}{}{[MAIS]}
-{138}{}{In our most recent experimentation, we have chosen military official, General J. Ripper, as a subject. Initially,
- he was unaware of our intent but now seems to have caught on. He has become obsessed with the phrase "precious bodily
- fluids" and avoids drinking any substance he does not know from where it originated. He has even stopped having sexual
- intercourse as he fears that women seek "the life essence."}
+{138}{}{Em nossa experimentação mais recente, nós escolhemos o oficial militar, General J. Ripper, como sujeito. Inicialmente,
+  Ele não sabia da nossa intenção, mas agora parece ter pegado. Ele ficou obcecado com a frase "precioso corporal
+  fluidos" e evita beber qualquer substância que ele não saiba de onde se originou. Ele mesmo parou de ter relações sexuais
+  intercurso porque teme que as mulheres busquem "a essência da vida".}
 {139}{}{Voltar.}
-{150}{}{Gender Modification.}
-{151}{}{Virus-laden Fruit Flies.}
-{160}{}{Dr. Glen Wood has achieved a new breakthrough in his research into gender modification that he claims will
- revolutionize our countries espionage efforts. With just a simple procedure, a man could become a woman, or vice versa.
- Dr. Wood has insisted that he be the first to undergo the radical transformation. Once the operation is complete, he has
- requested that he, or she, be referred to as Glenda.}
-{170}{}{The mutant fruit flies are now successfully carrying the virus. However, before we unleash them on foreign soil,
- it's been decided that we shall first expose the fruit flies to a small isolated American community, where we can monitor
- the effects outside of a lab environment. The civilian casualties that are likely to result are an unfortunate, yet
- necessary, sacrifice. Besides, any true American would be honored to give up their life for the good of our great nation.}
-{200}{}{You learn about the true intent of water fluoridation.}
+{150}{}{Modificação de gênero.}
+{151}{}{Carregados de vírus Moscas-das-Frutas.}
+{160}{}{Dr. Glen Wood alcançou um novo avanço na pesquisa sobre a modificação de gênero que ele alega
+  revolucionar os esforços de espionagem de nossos países. Com apenas um procedimento simples, um homem pode se tornar uma mulher, ou vice-versa.
+  Dr. Wood insistiu em ser o primeiro a sofrer a transformação radical. Uma vez concluída a operação, ele tem
+  pediu que ele, ou ela, fosse referido como Glenda.}
+{170}{}{As moscas de frutas mutantes agora estão carregando com sucesso o vírus. No entanto, antes de libertá-los em solo estrangeiro,
+  Decidiu-se que primeiro exporemos as moscas da fruta a uma pequena comunidade americana isolada, onde podemos monitorar
+  os efeitos fora de um ambiente de laboratório. As vítimas civis que provavelmente resultarão são infelizes, ainda assim
+  necessário, sacrifício. Além disso, qualquer americano verdadeiro seria honrado em desistir de sua vida pelo bem da nossa grande nação.}
+{200}{}{Você aprende sobre a verdadeira intenção de fluoretação da água.}
 {311}{}{Whirrrr....}
 {312}{}{BEEP!!}
-{313}{}{Clunk...}
+{313}{}{Estalidos...}
 {1311}{}{Não desista. Algo está destinado a ser encontrado.}

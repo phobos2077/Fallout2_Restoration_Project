@@ -1,72 +1,72 @@
 {100}{}{Você verá um computador funcional.}
-{101}{}{You see the EPA's botany terminal.}
-{200}{}{Welcome to the EPA's botany terminal. Please select one of the following options.}
-{201}{}{Access information database.}
-{202}{}{Access seed storage.}
+{101}{}{Você vê o terminal de botânica da EPA.}
+{200}{}{Bem-vindo ao terminal de botânica da EPA. Por favor, selecione uma das seguintes opções.}
+{201}{}{Acesso a informações de banco de dados.}
+{202}{}{Acesse o armazenamento de sementes.}
 {203}{}{Termine a sessão.}
-{210}{}{There are currently two databases available for viewing. Please make your choice below.}
-{211}{}{Access file on crop rotation.}
-{212}{}{Access file on botany.}
-{213}{}{Access file on animal and biological testing.}
+{210}{}{Existem atualmente dois bancos de dados disponíveis para visualização. Por favor, faça sua escolha abaixo.}
+{211}{}{Acesse o arquivo na rotação da cultura.}
+{212}{}{Acesse o arquivo na botânica.}
+{213}{}{Acessar arquivo em testes biológicos e animais.}
 {214}{}{Voltar.}
-{220}{}{Crop rotation avoids a decrease in soil fertility, as growing the same crop repeatedly in the same place
- eventually depletes the soil of various nutrients. A crop that leaches the soil of one kind of nutrient is followed
- during the next growing season by a dissimilar crop that returns that nutrient to the soil or draws a different ratio
- of nutrients.}
+{220}{}{A rotação de culturas evita uma diminuição da fertilidade do solo, como cultivar a mesma cultura repetidamente no mesmo local
+  eventualmente esgota o solo de vários nutrientes. Uma cultura que lixivia o solo de um tipo de nutriente é seguida
+  durante a próxima estação de crescimento por uma safra dissimilar que retorna esse nutriente ao solo ou desenha uma proporção diferente
+  de nutrientes.}
 {221}{}{[MAIS]}
-{222}{}{Crop rotation is also used to control pests and diseases that can become established in the soil over time.
- Plants within the same family tend to have similar pests and pathogens. By regularly changing the planting location,
- the pest cycles can be broken or limited.}
-{223}{}{Back}
-{230}{}{Botany is the scientific study of plant life. As with other life forms in biology, plant life can be studied
- from different perspectives, from the molecular all the way up to individual plants themselves. A good understanding of
- plants is crucial to our future as it allows us to:
+{222}{}{A rotação de culturas também é usada para controlar pragas e doenças que podem se estabelecer no solo ao longo do tempo.
+  As plantas dentro da mesma família tendem a ter pragas e patógenos semelhantes. Ao mudar regularmente o local de plantio,
+  Os ciclos de pragas podem ser quebrados ou limitados.}
+{223}{}{De volta}
+{230}{}{Botânica é o estudo científico da vida vegetal. Tal como acontece com outras formas de vida em biologia, a vida vegetal pode ser estudada
+  de diferentes perspectivas, do molecular todo o caminho até as próprias plantas individuais. Uma boa compreensão das
+  plantas são cruciais para o nosso futuro, pois nos permite:
 
- -Produce food to feed an expanding population.
- -Understand fundamental life processes.
- -Produce medicine and materials to treat diseases and other ailments.
- -Understand environmental changes more clearly.
+  -Produzir alimentos para alimentar uma população em expansão.
+  - Compreender os processos fundamentais da vida.
+  -Produzir medicamentos e materiais para tratar doenças e outros males.
+  - Confirmar as mudanças ambientais com mais clareza.
 
-  The rest of the information appears to be various charts, graphs, and pictures of cross sections of plants.}
-{231}{}{Download information to a holodisk.}
-{232}{}{Back}
-{240}{}{This facility has been the site of various experiments on various animal and plant life forms. Extensive testing has been
- done on the a plant-like life form known as a spore plant and some animal-like creatures known as Centaurs, Floaters, and Radscorpions.}
-{241}{}{Read about plant experiments.}
-{242}{}{Read about Spore Plants.}
-{243}{}{Read about Centuars and Floaters.}
-{244}{}{Read about Radscorpions.}
-{250}{}{Various experiments have been conducted to grow new plant life. Several of these attempts have been successful
- and can now be seen growing in a healthy state in the arboretum. Storage tanks currently indicate seed samples are still available for further testing.}
-{251}{}{A spore plant is a mutated form of some Venus-fly-trap-like plant. Additional testing has shown the plant is quite
- aggressive and has two forms of attacking. One is a spore which it spits at its enemies. The other form is a bite with its thorned maw.
- Great caution is suggested when handling and working with these life forms.}
-{252}{}{After extensive testing, Centaurs appear to be the by-product of the Forced Evolutionary Virus. They seem to be
- a mixture of dog, cat, brahmin, and other animals. FEV isn't the only cause of the mutation, however, as radiation also
- appears to have played a role. They seem to prefer living in a heavy radiated environment and as such they radiate everything around them.}
+  O resto da informação parece ser vários quadros, gráficos e imagens de secções transversais de plantas.}
+{231}{}{Transferir informações para um holodisk.}
+{232}{}{De volta}
+{240}{}{Esta facilidade foi o local de vários experimentos em várias formas de vida animal e vegetal. Testes extensivos foram
+  feito em uma forma de vida semelhante a uma planta conhecida como uma planta de esporos e algumas criaturas semelhantes a animais conhecidas como Centauros, Flutuadores e Radscorpions.}
+{241}{}{Leia sobre experiências de plantas.}
+{242}{}{Leia sobre Plantas de Esporos.}
+{243}{}{Leia sobre Centauros e Flutuadores.}
+{244}{}{Leia sobre Radscorpions.}
+{250}{}{Vários experimentos foram realizados para desenvolver novas plantas. Várias dessas tentativas foram bem-sucedidas
+  e agora pode ser visto crescendo em um estado saudável no arboreto. Atualmente, os tanques de armazenamento indicam que as amostras de sementes ainda estão disponíveis para novos testes.}
+{251}{}{Uma planta de esporos é uma forma mutada de alguma planta de Venus-fly-trap-like. Testes adicionais mostraram que a planta é bastante
+  agressiva e tem duas formas de ataque. Um é uma espora que cospe em seus inimigos. A outra forma é uma mordida com sua boca espinhosa.
+  É sugerido muito cuidado ao manipular e trabalhar com essas formas de vida.}
+{252}{}{Após testes extensivos, os Centauros parecem ser o subproduto do Vírus Evolutivo Forçado. Eles parecem ser
+  uma mistura de cachorro, gato, brahmin e outros animais. A FEV não é a única causa da mutação, no entanto, como a radiação também
+  parece ter desempenhado um papel. Eles parecem preferir viver em um ambiente irradiado pesado e, como tal, irradiam tudo ao seu redor.}
 {253}{}{[MAIS]}
-{254}{}{The origin and etymology of Floaters are unknown but they are thought to be related to the Centaurs with which they are often found.
- They too appear to be the result of FEV. Additional testing has shown them to be completely immune to electrical damage.}
-{255}{}{Radscorpions are an extremely large version of the North American Emperor scorpion, mutated by radiation.
- Contrary to initial expectations, their poison grew more potent, not diluted. They are nocturnal and sensitive to light.
- Further testing has shown that samples of poison from their tails can be used to make antidotes.}
-{256}{}{Back}
-{257}{}{Various experiments have been conducted to grow new plant life. Several of these attempts have been successful
- and can now be seen growing in a healthy state in the arboretum. Storage tanks currently indicate there are no more seed samples available for further testing.}
-{260}{}{Current EPA storage containers report there are seeds remaining in Storage Tanks One and Two.}
-{261}{}{Current EPA storage containers report there are seeds remaining in Storage Tank Two.}
-{262}{}{Current EPA storage containers report there are seeds remaining in Storage Tank One.}
-{263}{}{Current EPA storage containers report there are no more seeds remaining in any of the Storage Tanks.}
-{264}{}{Access Storage Tank One.}
-{265}{}{Access Storage Tank Two.}
-{266}{}{Back}
-{270}{}{Storage Tank One reports 5 remaining packets from the U.S. Food Enhancement Program. Seeds from corn plants were genetically modified
- to be immune to disease and insect infestation.}
-{271}{}{Storage Tank Two reports 2 remaining seed packets, each of similar or different families. No research has been conducted and the outcome of seed germination is unknown.}
-{273}{}{Retrieve seeds.}
-{280}{}{Collecting seed samples...Successfully collected 5 packets of genetically modified corn seeds. Depositing packets to collection container...Success...
- Closing storage container...Success.}
-{281}{}{Collecting seed samples...Successfully collected 2 packets of unknown seeds. Depositing packets to collection container...Success...
- Closing storage container...Success.}
-{290}{}{Downloading Botany database to a holodisk...75% complete...Finished. Please remove the disk and return to the menu.}
-{291}{}{Back}
+{254}{}{A origem e a etimologia dos Flutuadores são desconhecidas, mas pensa-se que elas estão relacionadas aos Centauros com as quais eles são freqüentemente encontrados.
+  Eles também parecem ser o resultado do VEF. Testes adicionais mostraram que eles eram completamente imunes a danos elétricos.}
+{255}{}{Radscorpions são uma versão extremamente grande do escorpião Imperador norte-americano, mutado pela radiação.
+  Ao contrário das expectativas iniciais, seu veneno tornou-se mais potente, não diluído. Eles são noturnos e sensíveis à luz.
+  Outros testes mostraram que amostras de veneno de suas caudas podem ser usadas para fazer antídotos.}
+{256}{}{De volta}
+{257}{}{Vários experimentos foram realizados para desenvolver novas plantas. Várias dessas tentativas foram bem-sucedidas
+  e agora pode ser visto crescendo em um estado saudável no arboreto. Os tanques de armazenamento indicam atualmente que não há mais amostras de sementes disponíveis para novos testes.}
+{260}{}{Os atuais contêineres de armazenamento da EPA relatam que existem sementes restantes nos tanques de armazenamento um e dois.}
+{261}{}{Os atuais contêineres de armazenamento da EPA relatam que existem sementes restantes no tanque de armazenamento dois.}
+{262}{}{Os atuais contêineres de armazenamento da EPA informam que existem sementes no tanques de armazenamento um.}
+{263}{}{Os atuais contêineres de armazenamento da EPA informam que não há mais sementes em nenhum dos tanques de armazenamento.}
+{264}{}{Acesse o Tanque de Armazenamento Um.}
+{265}{}{Acesse o Tanque de Armazenamento Dois.}
+{266}{}{De volta}
+{270}{}{O Tanque de Armazenamento Um relata 5 pacotes restantes do Programa de Melhoramento de Alimentos dos EUA. As sementes de plantas de milho foram geneticamente modificadas
+  para ser imune a doenças e infestação de insetos.}
+{271}{}{Tanque de Armazenamento Dois relatam 2 pacotes de sementes restantes, cada um de famílias similares ou diferentes. Nenhuma pesquisa foi realizada e o resultado da germinação da semente é desconhecido.}
+{273}{}{Obter sementes.}
+{280}{}{Coletando amostras de sementes ... Recolhido com sucesso 5 pacotes de sementes de milho geneticamente modificadas. Depósito de pacotes para o recipiente de coleta ... Sucesso ...
+  Fechar recipiente de armazenamento ... Sucesso.}
+{281}{}{Coletando amostras de sementes ... Recolhido com sucesso 2 pacotes de sementes desconhecidas. Depósito de pacotes para o recipiente de coleta ... Sucesso ...
+  Fechar recipiente de armazenamento ... Sucesso.}
+{290}{}{Carregando base de dados de botânica para um holodisco ... 75% concluído ... Terminado. Remova o disco e volte ao menu.}
+{291}{}{De volta}

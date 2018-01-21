@@ -1,21 +1,21 @@
 {100}{}{Você verá um computador.}
-{101}{}{You see the EPA's museum computer.}
-{200}{}{Welcome to the EPA's museum! This terminal will project a movie using exciting new holographic technology!
- The movie is an entertaining and informational look at the scary, but possible, reality of a post-nuclear world.}
-{201}{}{[Play movie.]}
-{202}{}{[Logoff.]}
-{210}{}{[The terminal projects a hologram of a tall bespectacled man in a lab coat. He waves and gives you a friendly smile.]
- Hello, I'm Dr. Caleb, and I'll be hosting this holographic video on a post-holocaust America.}
+{101}{}{Você vê o computador do museu da EPA.}
+{200}{}{Bem-vindo ao museu da EPA! Este terminal projetará um filme usando uma nova tecnologia holográfica excitante!
+  O filme é um visual divertido e informativo sobre a realidade assustadora, mas possível, de um mundo pós-nuclear.}
+{201}{}{[Reproduzir o filme.]}
+{202}{}{[Fim de sessão.]}
+{210}{}{[O terminal projeta um holograma de um homem de óculos altos em uma bata de laboratório. Ele acena e te dá um sorriso amigável.]
+  Olá, sou o Dr. Caleb, e irei hospedar este vídeo holográfico em uma América pós-holocausto.}
 {211}{}{[MAIS]}
-{220}{}{[A living room materializes around Dr. Caleb, where a family appears to be relaxing for the evening. Dr. Caleb
- pats the head of the family dog, then smiles at you.] Meet the Johnsons. They're your average American family. Dad smokes
- his pipe, Mom reads her cook book, and little Billy and Susie catch some boob-tube before bedtime. They think everything
- will be just fine. They ignore the warning sirens, thinking that it's just another drill. Oh, but what's this?}
+{220}{}{[Uma sala de estar se materializa em torno do Dr. Caleb, onde uma família parece estar relaxando para a noite. Dr. Caleb 
+  acaricia a cabeça do cão da família, então sorri para você.] Conheça Johnsons. Eles são a sua família americana média. Papai fuma
+  seu cachimbo, mamãe lê seu livro de cozinhar, e o pequeno Billy e Susie pegam algum tubo de boob antes de dormir. Eles pensam que tudo
+  ficará bem. Eles ignoram as sirenes de advertência, pensando que é apenas uma outra broca. Ah, mas o que é isso?}
 {221}{}{[MAIS]}
-{230}{}{[Through the back window, you see a large bomb crash to the earth, creating a massive mushroom cloud explosion,
- followed by a blinding light. Once the light fades away, you see Dr. Caleb is now standing in the burnt ruins of the
- living room, with the family replaced by skeletons.] Uh-oh! It looks like the commies dropped the big one, and the
- Johnsons weren't quite as safe as they thought. Now, what can we learn from the Johnson family's mistake?}
+{230}{}{[Através da janela de trás, você vê um grande choque de bomba para a Terra, criando uma enorme explosão de nuvem de cogumelo,
+  seguido por uma luz cegante. Uma vez que a luz desaparece, você vê o Dr. Caleb agora está parado nas ruínas queimadas da
+  Sala de estar, com a família substituída por esqueletos.] Uh-oh! Parece que os comunas derrubaram o grande, e os
+  Johnsons não estava tão seguro quanto eles pensavam. Agora, o que podemos aprender com o erro da família Johnson?}
 {231}{}{[MAIS]}
 {240}{}{That's right! In the event of a nuclear war, you want your family to be safe within the shelter of a Vault-Tec
  brand vault. Vault-Tec have constructed 122 public vaults around our great nation, so there's bound to be one near you.
@@ -26,4 +26,4 @@
 {250}{}{It looks like Mr. Handy's going to have his work cut out for him if he plans to clean up *this* mess. [Dr. Caleb
  laughs as the image fades away and is replaced by text.] Thank you for watching. This educational video was brought to
  you by the fine folks at Vault-Tec. Vault-Tec, America's Final Word in Homes.}
-{251}{}{[Logoff.]}
+{251}{}{[Fim de sessão.]}

@@ -102,7 +102,7 @@
 {201}{}{Physics database: Exploration - Theory}
 {202}{}{Exploration}
 {203}{}{Theory}
-{204}{}{Back}
+{204}{}{De volta}
 {205}{}{"With recent acquisition of vertibird plans, the possibility of creating a practical flying machine has taken a quantum leap forward. We expect to have a working prototype by the end of the year, and the ability to mass-produce such vehicles within two years." -Dr. Wong}
 {206}{}{::copy plans:: Back.}
 {207}{}{Voltar.}

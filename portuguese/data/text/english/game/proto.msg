@@ -148,7 +148,7 @@
 {651}{}{[MAIS]}
 {652}{}{More}
 {653}{}{[BACK]}
-{654}{}{Back}
+{654}{}{De volta}
 {655}{}{Go on}
 {656}{}{Err...}
 {660}{}{You can't see there.}

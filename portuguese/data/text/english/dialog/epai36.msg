@@ -22,7 +22,7 @@
  these failed abominations, we thought it'd be fun to put them in a petting zoo. Don't worry, despite their horrific appearance,
  they're not likely to attack as long as they're well fed. We're happy to report only three visitor casualties have occurred
  in the past year!}
-{221}{}{[Logoff.]}
+{221}{}{[Fim de sessão.]}
 {300}{}{Welcome to our newest exhibit! The strange looking tentacled creatures you'll see in this cage might look like they
  came from outer space, but they're not aliens, in fact, they were made right here in America! As you may have guessed,
  these guys weren't created by mother nature, they were created by science!}
@@ -35,7 +35,7 @@
 {320}{}{You're looking at the future of biological warfare! But don't worry, these vicious slaughter machines can't get
  you, as they're safely locked within the confines of their highly secure cage. You'll have to excuse the dim lighting,
  but these guys are happiest when dwelling in cool, dark places, and you wouldn't want them to get angry, would you?}
-{321}{}{[Logoff.]}
+{321}{}{[Fim de sessão.]}
 {400}{}{Here you can see plant life unlike any you've seen before! This exciting new species, derived from the Venus Fly
  Trap, was specifically engineered by our brilliant scientists to be able to survive in a world devastated by a nuclear
  war. Why would we want to do that? It's simple.}
@@ -48,4 +48,4 @@
 {420}{}{Sounds terrible, doesn't it? But don't worry. These new plants may be the answer to that problem. Instead of
  relying on fertile soil and rainfall, they're able to derive nutrients by killing and eating animals, just like
  people! All through the wonders of science!}
-{421}{}{[Logoff.]}
+{421}{}{[Fim de sessão.]}
