@@ -98,20 +98,20 @@
 {520}{}{Eu sinto que estou derretendo aqui. Deve ser envenenamento por radiação.}
 {530}{}{Como você espera que eu realize o meu melhor com esse membro quebrado?}
 {540}{}{Quem viu as luzes? Eu acho que tem algo errado com os meus olhos.}
-{600}{}{Some might say I'm a pretty shallow guy, but a shallow guy with a great ass.}
-{601}{}{In the army it was always, "Cat do this. Cat do that." What am I, a dog?}
-{602}{}{[singing] 'Cause you make me tongue tied, tongue tied... [singing]}
-{700}{}{LADIES! Ladies, one at a TIME, please!}
-{710}{}{I've got a nose for trouble, and it's going off like a nuke attack siren!}
-{720}{}{GOLD mining? This where they dig up the shiny things?}
-{730}{}{I thought we were leaving this place for good?}
-{800}{}{I've had enough of smart-ass lunatics! Can we leave this greasy little idiot?}
-{810}{}{What's with the bone, Neanderthal?}
-{820}{}{Least I didn't end up like YOU, Lenny!}
-{830}{}{Least I didn't end up like YOU, Marcus!}
+{600}{}{Alguns podem dizer que eu sou um cara muito raso, mas um cara superficial com um grande bumbum.}
+{601}{}{No exército, sempre foi: "Gato faz isso. Gato faz aquilo". O que eu sou um cachorro?}
+{602}{}{[cantando] Porque você me faz amarrar a língua, língua amarrada ... [cantando]}
+{700}{}{SENHORAS! Senhoras, uma de cada VEZ, por favor!}
+{710}{}{Eu tenho um nariz para problemas, e está indo como uma sirene de ataque nuclear!}
+{720}{}{Mineração de OURO? Isso é onde eles desenterram as coisas brilhantes?}
+{730}{}{Eu pensei que nós estávamos saindo para o bem?}
+{800}{}{Eu tive o suficiente de lunáticos inteligentes! Podemos deixar este pequeno idiota gorduroso?}
+{810}{}{Qual é o osso, Neanderthal?}
+{820}{}{Menos eu não acabei como VOCÊ, Lenny!}
+{830}{}{Pelo menos não acabei como VOCÊ, Marcus!}
 {2900}{}{Eu preciso colocar roupas primeiro. [Olhando ao redor, Cat pega um armário, abre e olha para dentro.]
   Estes realmente não são o meu estilo, mas acho que eles vão servir. [Ele rapidamente coloca a roupa.] Tudo bem, eu estou bem para ir.}
 {2901}{}{[FIM]}
-{5000}{}{[The man stands up and shakes himself dry like a wet animal. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.}
+{5000}{}{[O homem ergue-se e se seca como um animal molhado. Enquanto ele olha para você, seus olhos de repente ficam muito abertos e ele começa a ofegar pelo ar.}
 {5001}{}{[FIM]}
 {5002}{}{Puta merda!}

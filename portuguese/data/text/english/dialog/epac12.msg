@@ -1,58 +1,58 @@
-{100}{}{You see a specimen from the Storage Tanks.}
-{101}{}{You see Kitsune.}
-{102}{}{Her eyes are different colors. One of them brown as malmbrick, the other bright green.}
-{103}{}{You see a slender, dark-haired woman who looks difficult to predict.}
-{104}{}{She has a soft face and entrancing eyes.}
-{150}{}{It's not nice to stare.}
-{200}{}{Before you lies an open tank with icy cold water slowly being drained through a long, serpentine pipe. Inside, a
- woman, naked from head to toe, lies gasping and shivering. Looking around quickly, you snatch a bundle of loose clothing
- from a nearby locker and drape them over her for warmth.}
-{201}{}{Whoa. That had to be some trip. Are you alright?}
-{202}{}{Y-yes, the p-p-preservator r-restored my b-body t-t-temperature.}
-{203}{}{Not all of it, it looks like. }
-{204}{}{[You give it some time for her teeth to stop chattering. She recovers much quicker than you expect her to
- and looks up at you with sudden gravity.] Is... it over?}
-{205}{}{Is what over? }
-{206}{}{You mean the War?}
-{207}{}{The War. All those nukes.}
-{208}{}{The War, yes.}
-{209}{}{That war ended long ago. Finished about as soon as it started.}
-{210}{}{[She brushes wet strands of hair from her eyes. You notice one eye is brown while the other is emerald green.] Who won?}
-{211}{}{No one.}
-{212}{}{[She looks at you blankly. She's very easy on the eyes, especially for someone who was just thawed out of a block of ice.]}
-{213}{}{When 90% of the world is scorched to a crispy brown, I'd say it's hard to declare a clear winner.
- I mean, there wasn't much left worth winning.}
-{214}{}{What... what date is it? What year? Is it still 2077?}
-{215}{}{Hell, no. [You show her the date on your Pip Boy's calendar.]}
-{216}{}{[She stares at the flickering screen, frozen in time like she never left the tank.]}
-{217}{}{Are you alright?}
-{218}{}{My God. I don't believe it. I was in that thing for over a century?!}
-{219}{}{Seems like it. Hey, listen, don't look at me like that. I had nothing to do with putting you in there. Hell,
- my grandpa wasn't even alive back then. I just stumbled upon the location of this place and decided to check it out.}
-{220}{}{Well, will you help me up, or would like it better if I continued sitting naked at your feet?}
-{221}{}{I was just about to. [You help her to her feet.]}
-{222}{}{Why did you wake me?}
-{223}{}{No particular reason.}
-{224}{}{I have this terrible habit of touching everything I encounter. One thing led to another.}
-{225}{}{You say you don't even work in this place?}
-{226}{}{That's what I said.}
-{227}{}{Then if you hadn't come along, I would've been stuck in that thing even longer. Maybe forever.
- (She pulls one of the shirts you wrapped her in over her head.) What's it like now, the world out there?
- You said 90% of it was destroyed?}
-{228}{}{My world is a wasteland where every day is a struggle for survival. Most people have taken shelter in the ruined remains of the old ones.
- Others, like my tribe, attempt to forge a simple existence in the harsh wilderness. Truth told, it could be centuries before it even comes close to recovering.}
-{229}{}{It can't possibly be as bad as it sounds. [She doesn't sound like she's convinced of one word she just said.]}
-{230}{}{It's nothing like America in 2077, that's for sure.}
-{231}{}{[She pulls a pair of pants on.] So, what now?}
-{232}{}{We never did properly introduce ourselves. My name's }
-{233}{}{. What's yours?}
-{234}{}{You can call me Kitsune.}
-{235}{}{Kitsune, what were you doing cryoed away in that tank?}
-{236}{}{I don't know for sure. They knew the War was about to happen, so they put me in a preservator like the others.}
-{237}{}{Do you have any clue what this place is?}
-{238}{}{From what I know, it's a branch of the United States Environmental Protection Agency. I was in Arizona when the
- War happened. I was taken here immediately.}
-{239}{}{You must have been pretty important for them to want to preserve you. Were you a Chosen One, like me?}
+{100}{}{Você vê um espécime dos Tanques de Armazenamento.}
+{101}{}{Você vê Kitsune.}
+{102}{}{Seus olhos são cores diferentes. Um deles marrom como malmbrick, o outro verde brilhante.}
+{103}{}{Você vê uma mulher esbelta e de cabelos escuros que parece difícil de prever.}
+{104}{}{Ela tem um rosto macio e hipnotizantes olhos.}
+{150}{}{Não é bom olhar.}
+{200}{}{Antes de você encontrar um tanque aberto com água fria gelada lentamente sendo drenado através de um longo tubo de serpentina. No interior, um
+  Mulher, nua da cabeça aos pés, fica ofegante e tremendo. Olhando rapidamente, você pega um pacote de roupas soltas
+  de um armário próximo e coloca-os sobre o corpo dela.}
+{201}{}{Uau. Isso tinha que ser uma viagem. Você está bem?}
+{202}{}{S-sim, o c-c-conservator r-restaurou a temperatura do d-d do c-corpo.}
+{203}{}{Não de tudo, parece.}
+{204}{}{[Você dá um pouco de tempo para que seus dentes parem de tagarelar. Ela se recupera muito mais rápido do que você espera 
+  e olha para você com súbita gravidade.] Está ... acabou?}
+{205}{}{Acabou?}
+{206}{}{Você quer dizer a Guerra?}
+{207}{}{A Guerra. Todas aquelas armas nucleares.}
+{208}{}{A Guerra, sim.}
+{209}{}{Essa guerra terminou há muito tempo. Terminado logo que começou.}
+{210}{}{[Ela escova os fios de cabelo molhados de seus olhos. Você percebe que um olho está marrom enquanto o outro é verde esmeralda.] Quem ganhou?}
+{211}{}{Ninguém.}
+{212}{}{[Ela olha para você em branco. Ela é muito fácil para os olhos, especialmente para alguém que foi simplesmente descongelado de um bloco de gelo.]}
+{213}{}{Quando 90% do mundo é queimado para um marrom crocante, eu diria que é difícil declarar um vencedor claro.
+  Quero dizer, não valeu a pena ganhar muito.}
+{214}{}{O que... o que data é esta? Em que ano? É ainda 2077?}
+{215}{}{De jeito nenhum. [Você mostra a data no calendário do seu Pip Boy.]}
+{216}{}{[Ela olha para a tela cintilante, congelada no tempo como se ela nunca tivesse deixado o tanque.]}
+{217}{}{Você está bem?}
+{218}{}{O Meu Deus. Eu não acredito. Eu estava naquela coisa por mais de um século?!}
+{219}{}{Parece que sim. Ei, escute, não me olhe assim. Não tive nada a ver com colocá-la lá. Inferno,
+  meu vovô ainda não estava vivo naquela época. Acabei de tropeçar na localização deste lugar e decidi verificar isso.}
+{220}{}{Bem, você vai me ajudar ou gostaria melhor se eu continuasse sentada nua aos seus pés?}
+{221}{}{Eu estava prestes a. [Você a ajuda nos seus pés.]}
+{222}{}{Por que você me acordou?}
+{223}{}{Nenhuma razão em particular.}
+{224}{}{Eu tenho esse terrível hábito de tocar tudo que encontro. Uma coisa levou à outra.}
+{225}{}{Você diz que nem trabalha neste lugar?}
+{226}{}{Foi o que eu disse.}
+{227}{}{Então, se você não tivesse vindo, eu estaria presa nessa coisa ainda mais. Talvez para sempre.
+  (Ela puxa uma das camisolas que você a envolveu sobre sua cabeça.) Como é agora, o mundo lá fora?
+  Você disse que 90% foram destruídos?}
+{228}{}{Meu mundo é uma terra desolada onde todos os dias é uma luta pela sobrevivência. A maioria das pessoas se abrigou nos restos arruinados dos antigos.
+  Outros, como minha tribo, tentam forjar uma existência simples na região selvagem áspera. Verdade seja dita, poderiam ser séculos antes mesmo de se recuperar.}
+{229}{}{Não pode ser tão ruim quanto parece. [Ela não soa como se ela estivesse convencida de uma palavra do que ela acabou de dizer.]}
+{230}{}{Não é nada como a América em 2077, isso é certo.}
+{231}{}{[Ela puxa um par de calças.] Então, o que fazer agora?}
+{232}{}{Nunca nos apresentamos adequadamente. Meu nome é}
+{233}{}{. Qual é o seu?}
+{234}{}{Você pode me chamar de Kitsune.}
+{235}{}{Kitsune, o que você estava fazendo congelada naquele tanque?}
+{236}{}{Eu não sei com certeza. Eles sabiam que a Guerra estava prestes a acontecer, então eles me colocaram em um preservador como os outros.}
+{237}{}{Você tem alguma ideia de que lugar é esse?}
+{238}{}{Pelo que eu sei, é um ramo da Agência de Proteção Ambiental dos Estados Unidos. Eu estava no Arizona quando o
+  A guerra aconteceu. Fui levada aqui imediatamente.}
+{239}{}{Você deve ter sido muito importante para eles querer preservar você. Você era um escolhido, como eu?}
 {240}{}{Uh, not exactly. I was a homemaker, married to a councilman. Before that I wrote for several different news publications. It wasn't what you'd call a terribly exciting life.}
 {241}{}{What happened to him, your husband?}
 {242}{}{I don't know. Probably one of the billions of casualties. I doubt any of my family made it through the war. My God, even if they did, it's been so long... everyone I ever knew is dead. [She bites her lip and her eyes start to shimmer with tears, but she quickly wipes them away and sighs, bringing herself under control.]}
@@ -277,7 +277,7 @@
 {2121}{}{Feels like I broke something...}
 {2130}{}{I can barely see, damn it.}
 {2131}{}{I hate being blind.}
-{2330}{}{How 'bout you tell me your name? I'm }
+{2330}{}{Que tal você me dizer o seu nome? Eu sou }
 {3000}{}{Better.}
 {3001}{}{Appreciate it. Those are a godsend.}
 {3002}{}{I feel better already. Thanks.}
