@@ -22,25 +22,25 @@
                                                Please Enter Password:}
 {113}{}{Hack into security systems}
 {114}{}{Guess Password}
-{115}{}{Return to Main Menu}
+{115}{}{Voltar para o Menu Principal}
 {116}{}{Sair}
 {117}{}{[This program is just too complex for you to understand.]}
-{118}{}{Return to Main Menu}
+{118}{}{Voltar para o Menu Principal}
 {119}{}{Sair}
 {120}{}{[You manage to bypass the password and turn off the Shock Plates.]}
-{121}{}{Return to Main Menu}
+{121}{}{Voltar para o Menu Principal}
 {122}{}{Sair}
 {123}{}{Disable Force Fields
                                                   Please Enter Password:}
 {124}{}{Hack into security systems}
 {125}{}{Guess Password}
-{126}{}{Return to Main Menu}
+{126}{}{Voltar para o Menu Principal}
 {127}{}{Sair}
 {128}{}{[The files are encrypted and without a decoder you are unable to read anything.]}
-{129}{}{Return to Main Menu}
+{129}{}{Voltar para o Menu Principal}
 {130}{}{Sair}
 {131}{}{[Mere child's play. The force fields are now deactivated.]}
-{132}{}{Return to Main Menu}
+{132}{}{Voltar para o Menu Principal}
 {133}{}{Sair}
 {134}{}{[Somebody forgot to close their mailbox.]
                      Order Confirmation
@@ -52,7 +52,7 @@
 {137}{}{Read Notice to Evacuate}
 {138}{}{Read Penpal Greetings}
 {139}{}{Read Trade}
-{140}{}{Return to Main Menu}
+{140}{}{Voltar para o Menu Principal}
 {141}{}{Sair}
 {142}{}{This is to confirm your video order for Debbie Does the Army and Deep Throat volume 1059. Your order should arrive by mail in 2-4 weeks. Thank you for your order.}
 {143}{}{Read more mail}
@@ -67,17 +67,17 @@
 {152}{}{Sair}
 {153}{}{[What incredible luck! You manage to guess the correct password. "Hooters"]
                                                 Deactivating Shock Plates}
-{154}{}{Return to Main Menu}
+{154}{}{Voltar para o Menu Principal}
 {155}{}{Sair}
 {156}{}{[No matter how hard you try, you cannot guess the password.]}
-{157}{}{Return to Main Menu}
+{157}{}{Voltar para o Menu Principal}
 {158}{}{Sair}
 {159}{}{[This person must have an infatuation with breasts. The password was "nipples"]
                                 Deactivating Force Fields}
-{160}{}{Return to Main Menu}
+{160}{}{Voltar para o Menu Principal}
 {161}{}{Sair}
 {162}{}{[No matter how hard you try, you cannot guess the password.]}
-{163}{}{Return to Main Menu}
+{163}{}{Voltar para o Menu Principal}
 {164}{}{Sair}
 {165}{}{[Somehow your tampering causes the terminal to explode in your face.]}
 {166}{}{Sair}

@@ -2,7 +2,7 @@
 {101}{}{PICK A QUICK LOAD SLOT}
 {102}{}{SAVE GAME}
 {103}{}{PICK A QUICK SAVE SLOT}
-{104}{}{DONE}
+{104}{}{FEITO}
 {105}{}{CANCEL}
 {106}{}{Error loading save game list!}
 {107}{}{Save game directory:}

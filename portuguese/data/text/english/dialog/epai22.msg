@@ -1,2 +1,2 @@
-{100}{}{You see a heavy door leading to another part of the EPA.}
-{101}{}{You see a door.}
+{100}{}{Você vê uma porta pesada que leva a outra parte da EPA.}
+{101}{}{Você vê uma porta.}

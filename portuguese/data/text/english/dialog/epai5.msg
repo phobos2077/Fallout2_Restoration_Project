@@ -1,4 +1,4 @@
-{100}{}{You see a door.}
+{100}{}{Você vê uma porta.}
 {101}{}{You see an electronic door.}
 {102}{}{You see an electronic door with an override, voice activated, lock.}
 {200}{}{Confirm code:}

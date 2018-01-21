@@ -214,7 +214,7 @@
 {311}{tand46}{A real horse trader you are. Fine, see Gunther. He'll handle the arrangements.}
 {312}{}{Obrigado.}
 {313}{tand47}{Boys, get this glob of brahmin spit out of my office! Time for you to head on out, stranger.}
-{314}{}{Done}
+{314}{}{Feito}
 {315}{tand14b}{My dad and Seth searched for years trying to find Vault 13. They died looking - always said it was west of here. If somebody were to find Vault 13, that'd do us even better than 15.}
 {316}{}{You'll have to talk to my aide, Gunther, about that.}
 {400}{}{Squatters want deal. You teach, you help, they give you vault.}

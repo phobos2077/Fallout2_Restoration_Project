@@ -1,39 +1,41 @@
 {100}{}{Você verá um computador funcional.}
-{101}{}{You see the EPA's Top Secret Research and Development Terminal.}
-{102}{}{Welcome to EPA's Top Secret Research and Development Terminal. Error initializing quick access procedure. Please
- search for something specific.}
-{103}{}{Search for anything of importance.}
+{101}{}{Você vê o Terminal de Pesquisa e Desenvolvimento Top Secret da EPA.}
+{102}{}{Bem-vindo ao Terminal de Pesquisa e Desenvolvimento Top Secret da EPA. Erro ao inicializar o procedimento de acesso rápido. Por favor
+  procure algo específico.}
+{103}{}{Procure qualquer coisa de importância.}
 {104}{}{Fim de sessão.}
-{105}{}{After 30 minutes of sifting through all the files you find four of which appear useful. Please make a choice below.}
-{106}{}{Access FEV history log.}
-{107}{}{Access file on Epilepsy cure.}
-{108}{}{Keep searching.}
-{109}{}{Please make a choice below.}
-{110}{}{As tensions continued to mount between the US and China, a fear at the forefront of the minds of our military officials
- was that the Chinese would deploy biological weapons against American troops. As a result, West Tek, a major high tech
- defense contractor, was hired to develop a counter agent. This led to West Tek's research on the Pan-Immunity Virion
- Project (PVP) with the intent of creating immunity in soldiers by restructuring their DNA. During testing of PVP in 2076,
- abnormal side effects were observed in test subjects. The test animals began to grow dramatically and their brain activity
- increased.}
+{105}{}{Após 30 minutos de peneirar todos os arquivos, você encontrará quatro dos quais parecem úteis. Faça uma escolha abaixo.}
+{106}{}{Acesse o registro do histórico FEV.}
+{107}{}{Acesse o arquivo sobre cura de Epilepsia.
+}
+{108}{}{Continue procurando.
+}
+{109}{}{Faça uma escolha abaixo.}
+{110}{}{À medida que as tensões continuavam a aumentar entre os EUA e a China, um medo na vanguarda das mentes dos nossos oficiais militares
+  era que os chineses iriam implantar armas biológicas contra tropas americanas. Como resultado, a West Tek, uma das principais empreiteiras tecnologicas 
+  de alta tecnologia de defesa, foi contratada para desenvolver um agente contador. Isso levou à pesquisa da West Tek no Virion Pan-Immunity
+  Projeto (PVP) com a intenção de criar imunidade em soldados, reestruturando seu DNA. Durante o teste de PVP em 2076,
+  Foram observados efeitos colaterais anormais em indivíduos com teste. Os animais de teste começaram a crescer drasticamente e sua atividade cerebral
+  aumentou.}
 {111}{}{[MAIS]}
-{112}{}{Seeing the potential there, the Army quickly commandeered the project and renamed it FEV: Forced Evolutionary Virus.
- Not content with mere immunity to disease, FEV would potentially turn soldiers into abnormally strong and intelligent
- "supermen". Once testing on animals reached its logical conclusion, FEV research was moved to its current location at
- the Mariposa Military Base. There, we have learned that the testing will proceed to the next level, as they begin top
- secret testing on military prisoners. We eagerly anticipate the results of these exciting experiments.}
+{112}{}{Vendo o potencial lá, o Exército rapidamente requisitou o projeto e renomeou-o FEV: Virus Evolutivo Forçado.
+  Não contente com a mera imunidade à doença, o VEF potencialmente transformaria os soldados em anormalmente fortes e inteligentes
+  "Super homens". Uma vez que os testes em animais chegaram a sua conclusão lógica, a pesquisa FEV foi transferida para sua localização atual na
+  Base Militar de Mariposa. Lá, aprendemos que os testes irão para o próximo nível, já que eles começam os ultimos
+  testes secretos em prisioneiros militares. Antecipamos ansiosamente os resultados dessas excitantes experiências.}
 {113}{}{Voltar.}
-{120}{}{One of our researches, Dr. Hodkin, has made a wonderful discovery in his recent research on the way the human brain
- processes verbal responses. Apparently, by repeating a series of letters with the proper inflections, a listener can be
- cured of a number of neurological diseases, such as autism or epilepsy. Included in this log is the exact string of letters
- (and the proper inflections) used by Dr. Hodkin in his experiments. This is wonderful news and is a great beginning to
- further research into treatment for chronic neurological disorders.}
-{121}{}{This might be useful. Make note of the string and search for something else.}
-{130}{}{You find nothing more of interest.}
-{131}{}{You still find nothing more of interest.}
-{132}{}{Maybe if you search a little more, you might find something?}
-{133}{}{Maybe one more search?}
-{134}{}{After much painful searching, you come across a hidden file.}
-{135}{}{Access file labeled: Mass Fluoridation Project.}
+{120}{}{Uma das nossas pesquisas, o Dr. Hodkin, fez uma descoberta maravilhosa em suas pesquisas recentes sobre o modo como o cérebro humano
+  processa respostas verbais. Aparentemente, ao repetir uma série de letras com as inflexões apropriadas, um ouvinte pode ser
+  curado de uma série de doenças neurológicas, como autismo ou epilepsia. Incluído neste registro é a seqüência exata de letras
+  (e as inflexões apropriadas) usadas pelo Dr. Hodkin em suas experiências. Esta é uma notícia maravilhosa e é um excelente começo para
+  Pesquisa adicional sobre o tratamento de distúrbios neurológicos crônicos.}
+{121}{}{Isto poderá ser útil. Tome nota da seqüência de caracteres e procurar outra coisa.}
+{130}{}{Você não encontra mais nada de interesse.}
+{131}{}{Você ainda não encontra mais nada de interesse.}
+{132}{}{Talvez se você procurar um pouco mais, talvez encontre alguma coisa?}
+{133}{}{Talvez mais uma pesquisa?}
+{134}{}{Após muita pesquisa dolorosa, você encontra um arquivo oculto.}
+{135}{}{Arquivo de acesso rotulado: Projeto de Fluoração de Massa.}
 {136}{}{In the continued effort to make the citizens of the United States more controllable, the inclusion of sodium
  fluoride in all available drinking water is effective immediately. Long term effects in testing has resulted in
  subjects becoming more "stupid and docile." In addition, it was observed that sodium fluoride caused slight damage to
@@ -59,4 +61,4 @@
 {311}{}{Whirrrr....}
 {312}{}{BEEP!!}
 {313}{}{Clunk...}
-{1311}{}{Don't give up. Something is bound to be found.}
+{1311}{}{Não desista. Algo está destinado a ser encontrado.}

@@ -4,7 +4,7 @@
 {3}{}{Distance}
 {4}{}{Attack Who}
 {5}{}{Chem Use}
-{10}{}{Done}
+{10}{}{Feito}
 {11}{}{Cancel}
 {99}{}{Not Applicable.}
 {100}{}{Always!}

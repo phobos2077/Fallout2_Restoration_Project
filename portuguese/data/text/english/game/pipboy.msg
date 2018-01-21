@@ -20,7 +20,7 @@
 {211}{}{DATA}
 {212}{}{of}
 {213}{}{Page}
-{214}{}{DONE}
+{214}{}{FEITO}
 {215}{}{You cannot rest at this location!}
 {300}{}{ALARM CLOCK}
 {301}{}{Hit Points}

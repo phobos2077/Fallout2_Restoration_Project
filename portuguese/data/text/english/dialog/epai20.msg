@@ -1,3 +1,4 @@
-{100}{}{Incorrect password. Locking system.}
-{101}{}{Password correct.}
+{100}{}{Senha incorreta. Sistema de bloqueio.
+}
+{101}{}{Palavra-passe correcta.}
 {102}{}{FLOWERPOT}

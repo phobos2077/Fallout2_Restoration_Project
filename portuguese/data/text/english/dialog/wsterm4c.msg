@@ -28,7 +28,7 @@
 {120}{}{Select Virus}
 {121}{}{Select Organs}
 {122}{}{Select Cadavers}
-{123}{}{Return to Main Menu}
+{123}{}{Voltar para o Menu Principal}
 {124}{}{Sair}
 {125}{}{Virus Menu
                                                             Anthrax
@@ -152,6 +152,6 @@
 {230}{}{Return to Main Retrieval Menu}
 {231}{}{Sair}
 {232}{}{[Even though you can plainly see empty storage units, the readout says they are all full. Must be an error in the program. Oh well.]}
-{233}{}{Return to Main Menu}
+{233}{}{Voltar para o Menu Principal}
 {234}{}{Exit }
 {300}{}{ is unable to read what's on the monitor.}

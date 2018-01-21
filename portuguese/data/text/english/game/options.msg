@@ -2,7 +2,7 @@
 {1}{}{LOAD GAME}
 {2}{}{PREFERENCES}
 {3}{}{EXIT GAME}
-{4}{}{DONE}
+{4}{}{FEITO}
 {100}{}{GAME PREFERENCES}
 {101}{}{GAME DIFFICULTY}
 {102}{}{COMBAT DIFFICULTY}
@@ -51,7 +51,7 @@
 {222}{}{Loud}
 {223}{}{Brighter}
 {224}{}{Wide}
-{300}{}{DONE}
+{300}{}{FEITO}
 {301}{}{PAUSED}
 {1000}{}{Sorry, the preferences menu is not}
 {1001}{}{available in the demo version.}

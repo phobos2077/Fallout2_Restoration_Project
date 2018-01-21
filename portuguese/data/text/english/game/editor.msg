@@ -1,4 +1,4 @@
-{100}{}{DONE}
+{100}{}{FEITO}
 {101}{}{OPTIONS}
 {102}{}{CANCEL}
 {103}{}{PRINT}
@@ -112,7 +112,7 @@
 {601}{}{LOAD}
 {602}{}{PRINT TO FILE}
 {603}{}{ERASE}
-{604}{}{DONE}
+{604}{}{FEITO}
 {605}{}{Are you sure you want to erase}
 {606}{}{the current character?}
 {607}{}{ was successfully saved.}
