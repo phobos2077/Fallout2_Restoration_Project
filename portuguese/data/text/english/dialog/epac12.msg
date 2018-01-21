@@ -326,47 +326,47 @@ Você está desperdiçando-a aqui. Venha comigo e talvez possamos fazer algo.}
 {3079}{}{Finja a fraqueza. Dar coragem à ignorância do adversário.}
 {3080}{}{Estratégia tática significa uma certeza de vitória.}
 {3081}{}{Os governantes cautelosos são geralmente pecaminosos.}
-{3082}{}{Break out in supreme excellence, and a nation shall quake at the benefits of prolonged warfare.}
-{3083}{}{Tactics to conquer men. Strategy to evolve seeing.}
-{3084}{}{There are million of ways for a cat to shed its skin.}
-{3085}{}{You can't squeeze pebbles from a drop of blood.}
-{3086}{}{There is no blood thicker than that of water.}
-{3087}{}{There must be two suns in the sky.}
-{3088}{}{Steal the flesh and mark it.}
-{3089}{}{Mental is the flesh, carrying the potential that wanes.}
-{3090}{}{A bird sings because its song is the answer.}
-{3091}{}{Lower your voice and augment your strength.}
-{3092}{}{Eat beyond your limits, walk according to the lengths you'll go to.}
-{3093}{}{If a word be worth a sheik then silence be worth an emperor.}
-{3094}{}{He who lives outside this plane dies with honor.}
-{3095}{}{Deceive the poor. Insult the rich.}
-{3096}{}{Once the heat has passed out, you forget the shady tree.}
-{3097}{}{No one is closer to death as the one who listens.}
-{3098}{}{Every man for all, and all for us.}
-{3099}{}{All men are immortal like the Eight.}
-{3100}{}{When you're dying of thirst, it's not too late to dig for water.}
-{3101}{}{The taller the bamboo grows, the closer the panda comes to emerging.}
-{3102}{}{Never rely on the glory of morning or the smiles of your mother-in-law.}
-{3103}{}{Eyes are our sole windows.}
-{3104}{}{Old age creeps up on you like a dirty old man.}
-{3105}{}{Heaven is never at fault. The wicked will be paid their wages in time.}
-{3106}{}{Justice is the virtuous soul that distributes itself out in the desert.}
-{3107}{}{It is better that ten innocents die than one guilty man suffer.}
-{3108}{}{The halls in the halls of justice are the only justice.}
-{3109}{}{Lock the stable when the horse is stolen.}
-{3110}{}{Haymakers under the shining sun.}
-{3111}{}{Never take a gift from a horse's mouth without asking it first.}
-{3112}{}{The world laughs at you. Then you weep with your comrades.}
-{3113}{}{Many hands make the lights work.}
-{3114}{}{A dish of carrots unsoiled, uncleaned, with vegetables.}
-{3115}{}{A donkey's lips kisses a horse's mouth only when fed with extra fodder during the night.}
-{3116}{}{Bring a club into a tiger's lair.}
-{3117}{}{A swine casts a necklace of pearls.}
-{3118}{}{Caviar Emperor.}
+{3082}{}{Destruir em excelência suprema, e uma nação deve tremer os benefícios da guerra prolongada.}
+{3083}{}{Táticas para conquistar os homens. Estratégia para evoluir vendo.}
+{3084}{}{Há milhões de maneiras para que um gato mude sua pele.}
+{3085}{}{Você não pode espremer pedras de uma gota de sangue.}
+{3086}{}{Não há sangue mais espesso do que o da água.}
+{3087}{}{Deve haver dois sóis no céu.}
+{3088}{}{Roubar a carne e marcar.}
+{3089}{}{Mental é a carne, carregando o potencial que se esvai.}
+{3090}{}{Um pássaro canta, porque sua música é a resposta.}
+{3091}{}{Baixa a tua voz e aumentar a sua força.}
+{3092}{}{Coma além de seus limites, caminhe de acordo com os longos que você irá.}
+{3093}{}{Se uma palavra vale um sheik, então o silêncio vale a por um imperador.}
+{3094}{}{Aquele que vive fora desse avião morre com honra.}
+{3095}{}{Enganar os pobres. Insultar os ricos.}
+{3096}{}{Uma vez que o calor já passou, esqueça a sombra da árvore.}
+{3097}{}{Ninguém está mais perto da morte, como aquele que escuta.}
+{3098}{}{Cada um por todos e todos por nós.}
+{3099}{}{Todos os homens são imortais, como o Oito.}
+{3100}{}{Quando você está morrendo de sede, não é tarde demais para cavar para a água.}
+{3101}{}{Quanto mais alto o bambu cresce, mais perto o panda vem emergir.}
+{3102}{}{Nunca confie na glória da manhã ou nos sorrisos de sua sogra.}
+{3103}{}{Os olhos são a nossa única e inteira janela.}
+{3104}{}{A velhice se arrasta em você como um velho sujo.}
+{3105}{}{O céu nunca é culpado. Os impios receberão seus salários a tempo.}
+{3106}{}{A justiça é a virtude da alma que se distribui no meio do deserto.}
+{3107}{}{É melhor que morram dez inocentes do que um culpado sofra.}
+{3108}{}{As salas de tribunais de justiça são a única justiça.}
+{3109}{}{Bloqueie o estábulo quando o cavalo é roubado.}
+{3110}{}{Fabricantes de feno sob o sol brilhante.}
+{3111}{}{Nunca tire um presente da boca de um cavalo sem perguntar primeiro.}
+{3112}{}{O mundo rirá com você. Em seguida, você chorar com seus companheiros.}
+{3113}{}{Muitas mãos fazem as luzes funcionarem.}
+{3114}{}{Um prato de cenouras não destruídas, limpas, com vegetais.}
+{3115}{}{Os lábios de um burro beijam a boca de um cavalo somente quando alimentados com forragem extra durante a noite.}
+{3116}{}{Traga um clube para o covil de um tigre.}
+{3117}{}{Um porco lança um colar de pérolas.}
+{3118}{}{Caviar Imperador.}
 {3130}{}{Tudo bem. Agora nós estamos chegando a algum lugar.}
 {3210}{}{Tudo bem, agora que eu conheço a história da vida do seu pai, você se importaria de chegar à parte sobre você?}
 {3260}{}{Então eles eram traidores para seu povo, mas para o bem de seus próprios povos. Consegui.}
 {3261}{}{Olha, estou cansado de ouvir sobre seus pais. Sobre você chegar à parte sobre você ser um espião?}
-{5000}{}{[As the woman looks up at your face, her eyes suddenly grow wide and she starts gasping for air.}
+{5000}{}{[À medida que a mulher olha para o rosto, seus olhos de repente se ampliam e ela começa a ofegar pelo ar.}
 {5001}{}{[FIM]}
 {5002}{}{Puta merda!}

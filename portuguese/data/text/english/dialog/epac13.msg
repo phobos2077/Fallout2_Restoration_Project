@@ -1,4 +1,4 @@
-{100}{}{You see a Warrior.}
+{100}{}{Você vê um Guerreiro.}
 {101}{}{You see a fierce looking warrior. Foam is dribbling down his chin.}
 {102}{}{One of the Doctor's personal bodyguards.}
 {103}{}{We will kill you!}
