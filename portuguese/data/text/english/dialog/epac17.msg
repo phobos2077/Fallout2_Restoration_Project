@@ -122,82 +122,83 @@
 {502}{}{Ainda não, obrigado. Tchau.}
 {510}{}{Bem, embora o armazém seja onde eu faço quase todo o meu trabalho, ainda preciso entrar no complexo principal de vez em quando. No entanto, as luzes foram fixadas permanentemente em baixa configuração. Classifique isso para mim para que eu possa entrar no próprio edifício EPA.}
 {511}{}{Não há problema.}
-{512}{}{I'll get back to you when I have time to do it.}
-{513}{}{I've already done this! There were some loose wires on the main circuit board and I mana-}
-{520}{}{Now that you've killed all of my warriors, you have more than proven yourself worthy. Would you consider working for me?}
-{521}{}{What!? Working for you!? What would you want me to do?}
-{522}{}{No thanks. Bye.}
-{530}{}{Have you sorted out the power problem yet?}
-{531}{}{Yes, yes, yes, I don't need to know the specifics. Thanks. Now, I still have one more task if you wish to undertake it.}
+{512}{}{Eu vou voltar para você, quando eu tiver tempo para fazer.}
+{513}{}{Eu já fiz isso! Havia alguns fios soltos sobre a placa de circuito principal e eu mana-}
+{520}{}{Agora que você matou todos os meus guerreiros, você já demonstrou ser digno de você. Você pensaria em trabalhar para mim?}
+{521}{}{O que!? Trabalhando para você!? O que você quer que eu faça?}
+{522}{}{Não, obrigado. Tchau.}
+{530}{}{Você já solucionou o problema de energia ainda?}
+{531}{}{Sim, sim, sim, eu não preciso saber as especificidades. Obrigado. Agora, eu ainda tenho mais uma tarefa se você deve empreender.}
 {532}{}{O que é isso?}
-{533}{}{No, I'm still working on it.}
-{540}{}{I am experimenting with a new serum at the moment to improve the agility and awareness of people to help them survive in this harsh world. You'd allow me to try it on you, wouldn't you?}
-{541}{}{Well...I suppose so, what harm could it do?}
-{550}{}{More than you'd ever believe if it goes wrong... Now hold still and let's get down to it!}
-{551}{}{Whoa! Wait a minute...}
-{560}{}{Ahh, there you are! Back in the land of the living, I see! How do you feel?}
-{561}{}{Uh, fine why?}
-{570}{}{You just blacked out for a couple of hours, but you should be fine now. Indications show you are much more alert and responsive.}
-{571}{}{Wow! Thanks, Doctor.}
-{580}{}{No problem. If you ever need anything, let me know.}
-{581}{}{I will. Goodbye.}
-{590}{}{Have you decided to help me yet?}
-{591}{}{Yes, I will help you. I'll return when the power is restored.}
+{533}{}{Não, eu ainda estou trabalhando nisso.}
+{540}{}{Estou experimentando com um novo soro no momento para melhorar a agilidade e a consciência das pessoas para ajudá-los a sobreviver neste mundo hostil. Você me permitiria tentar isso com você, não é?}
+{541}{}{Bem...suponho que sim, que mal poderia fazer?}
+{550}{}{Mais do que você jamais acreditaria se der errado ... Agora fique quieto e vamos descer!}
+{551}{}{Caraca! Espere um minuto...}
+{560}{}{Ahh, você está ai! De volta à terra da vida, vejo! Como você está se sentindo?}
+{561}{}{Uh, bem, por que?}
+{570}{}{Você acabou de escurecer por algumas horas, mas você deveria estar bem agora. As indicações mostram que você está muito mais alerta e responsivo.}
+{571}{}{Wow! Obrigado, Doutor.}
+{580}{}{Não há problema. Se você alguma vez precisar de alguma coisa, me avise.}
+{581}{}{Eu vou. Adeus.}
+{590}{}{Você já decidiu me ajudar?}
+{591}{}{Sim, eu vou ajudar você. Eu vou voltar quando a energia estiver restaurada.}
 {592}{}{Não, desculpe.}
-{600}{}{I'm sorry, but there's nothing more I can do for you now. I have no more jobs left to be done. Thanks for your help.}
-{601}{}{Bye then.}
-{602}{}{Yes, there were some loose wires and I had to find some junk to-}
-{603}{}{NO! What are you doing?}
-{700}{}{Wait a second! You were part of the *original* team?! But, that's got to make you almost 200 years old!}
-{701}{}{Well, I suppose that's true, in a way. I was actually born 202 years ago. However, there is no way that I could have lived that long through regular means.}
-{702}{}{Go on. I'm listening.}
-{703}{}{When the war started, the other scientists and I used the cryogenic storage chambers. We handed over more control of the facility to the holograms and robots, then put ourselves in the chambers to wait out the worst of the destruction.}
-{704}{}{But, the great war was over many, many years ago.}
-{705}{}{True. We initially came out of hibernation about 90 years ago, and discovered that this place had deteriorated greatly. Most of the other scientists here continued some of their original research, as they didn't really know what else to do.}
+{600}{}{Me desculpe, mas não há nada mais que eu possa fazer por você agora. Eu não tenho mais trabalhos a ser feito. Obrigado por sua ajuda.}
+{601}{}{Tchau então.}
+{602}{}{Sim, havia alguns fios soltos e eu tinha de encontrar algum lixo-}
+{603}{}{NÃO! O que você está fazendo?}
+{700}{}{Espere um segundo! Você faz parte da equipe * original * ?! Mas, isso tem que fazer você ter quase 200 anos de idade!}
+{701}{}{Bem, suponho que isso seja verdade, de certa forma. Na verdade, nasci há 202 anos. No entanto, não há nenhuma maneira que eu poderia ter vivido tanto tempo através de meios regulares.}
+{702}{}{Vá em frente. Eu estou ouvindo.}
+{703}{}{Quando a guerra começou, os outros cientistas e eu usamos as câmaras de armazenamento criogênico. Entregamos mais controle das instalações aos hologramas e robôs, então nos colocamos nas câmaras para aguardar o pior da destruição.}
+{704}{}{Mas, a grande guerra foi ao longo de muitos, muitos anos atrás.}
+{705}{}{Verdade. Inicialmente, saímos da hibernação há cerca de 90 anos e descobrimos que este lugar havia se deteriorado muito. A maioria dos outros cientistas aqui continuou algumas de suas pesquisas originais, já que na verdade não sabiam o que mais fazer.}
 {706}{}{[MAIS]}
-{707}{}{I couldn't believe their scientific short-sightedness...their utter lack of imagination! We had an incredible opportunity to do some amazing things. We had the chance to remake things how we saw fit. Sadly, my comrades paid for their lack of vision...}
-{708}{}{You killed them!?}
-{709}{}{Understandable.}
-{710}{}{Please continue.}
-{711}{}{No, I didn't kill them. But I couldn't have them stay here interfering with my plans. I merely manipulated events here so that they chose to leave.}
-{712}{}{Okay, that answers part of the story. But there is still something missing...}
-{713}{}{Ah, yes. Sorry about that. I sometimes go off on tangents or my mind just wanders. Great minds, you know? Anyway, I continue to use the tank. I have modified it somewhat, though.}
-{714}{}{What modifications have you done?}
-{715}{}{I think I've heard enough of this. Goodbye.}
-{716}{}{Well, the first time we used the cryogenic chambers, it was as if I just went to sleep and woke up. But, I realized that was a waste of time. I reset the chamber settings so that I could use it for years at a time, but keep my mind conscious! I use those extended periods to ponder current projects and think up new experiments. By doing so, I can see the long-term effects of my research.}
-{717}{}{Did you ever consider that maybe using the chamber like this might be damaging to you somehow?}
-{718}{}{Nonsense! If anything I am getting better. I can see things so clearly, now, thanks to my periods of lucid hibernation.}
-{719}{}{What a loon! Goodbye.}
-{720}{}{That's actually a great idea. Genius! Hey, do you think that I could see this cryogenic chamber?}
-{721}{}{I see. Tell me about something else.}
-{722}{}{Well of course. It's right over there. I had it moved up here some time ago. Keeping the chamber in the sublevels of this facility was just not a wise idea.}
-{723}{}{Interesting. So, how does it work?}
-{724}{}{Well, of course the scientific principles of cryogenics is quite advanced. However, the functions are governed by the computer here, has a fairly easy interface. [He takes a few minutes showing you how the system works.]}
-{725}{}{Thanks for the information, Doctor. I guess I would still like to know about a few other things.}
-{726}{}{Thanks for the information, Doctor. Who knows? Information like that just might prove useful someday. Goodbye.}
-{727}{}{Well, enough chit-chat. I should be going. Goodbye, Doctor.}
-{728}{}{No, it just wouldn't do to have them stay here interfering with my plans...not at all... [The Doctor gazes past you seemingly lost in his thoughts.]}
-{729}{}{You know, you are one twisted person. I think I am going to have to show you how I 'experiment' on people. Time to die!}
-{730}{}{So, are you happy with this situation? I mean, being the only one here?}
-{731}{}{What else would you like to know about?}
-{800}{}{Actually, wait one second. You look like an adventurous type. I may have a use for someone of your skills.}
+{707}{}{Eu não podia acreditar na sua visão científica curta ... sua falta de imaginação! Tivemos uma oportunidade incrível de fazer algumas coisas incríveis. Tivemos a chance de refazer as coisas como achamos oportuno. Infelizmente, meus camaradas pagaram sua falta de visão ...}
+{708}{}{Você os matou!?}
+{709}{}{Compreensível.}
+{710}{}{Por favor, continue.}
+{711}{}{Não, eu não os matei. Mas eu não poderia fazê-los ficar aqui interferindo com meus planos. Eu simplesmente manipulei eventos aqui para que eles escolhessem sair.}
+{712}{}{Ok, isso responde parte da história. Mas ainda falta algo ...}
+{713}{}{Ah sim. Me desculpe por isso. Às vezes, sento em tangentes ou minha mente simplesmente vagueia. Grandes mentes, você sabe? De qualquer forma, continuo usando o tanque. Eu ainda o modifiquei um pouco.}
+{714}{}{Quais as modificações que você fez?}
+{715}{}{Eu acho que já ouvi o suficiente disso. Adeus.}
+{716}{}{Bem, a primeira vez que usamos as câmaras criogênicas, era como se eu tivesse ido dormir e acordei. Mas percebi que era uma perda de tempo. Eu redefini as configurações da câmara para que eu pudesse usá-la por anos de cada vez, mas mantendo a mente consciente! Eu uso esses períodos prolongados para refletir sobre projetos atuais e pensar em novas experiências. Ao fazê-lo, posso ver os efeitos a longo prazo da minha pesquisa.}
+{717}{}{Alguma vez pensou que talvez ao utilizar a câmara de como isso pode ser prejudicial para você de alguma forma?}
+{718}{}{Absurdo! De alguma coisa estou melhorando. Posso ver as coisas tão claramente, agora, graças aos meus períodos de hibernação lúcida.}
+{719}{}{Que buraco! Adeus.}
+{720}{}{Essa é realmente uma ótima ideia. Gênio! Ei, você acha que eu poderia ver essa câmara criogênica?}
+{721}{}{Eu vejo. Conte-me sobre outra coisa.}
+{722}{}{Bem, claro. Está bem ali. Eu fiz isso acontecer há algum tempo atrás. Manter a câmara no subnível desta instalação não era apenas uma ideia sábia.}
+{723}{}{Interessantes. Então, como é que funciona?}
+{724}{}{Bem, claro, os princípios científicos da criogenia são bastante avançados. No entanto, as funções são regidas pelo computador aqui, tem uma interface bastante fácil. [Ele leva alguns minutos mostrando como o sistema funciona.]}
+{725}{}{Obrigado pelas informações, Doutor. Eu acho que eu ainda gostaria de saber sobre algumas outras coisas.}
+{726}{}{Obrigado pela informação, doutor. Quem sabe? Informações como essa só podem ser úteis algum dia. Adeus.}
+{727}{}{Bom, chega de bate-papo. Eu deveria estar indo. Adeus, Doutor.}
+{728}{}{Não, simplesmente não faria para deixá-los ficar aqui interferindo com meus planos ... de modo algum ... [O Médico olha além de você aparentemente perdido em seus pensamentos.]}
+{729}{}{Você sabe, você é uma pessoa torcida. Eu acho que vou ter que mostrar-lhe como eu 'experimento' nas pessoas. Hora de morrer!}
+{730}{}{Então, você está feliz com essa situação? Quero dizer, sendo o único aqui?}
+{731}{}{O que mais gostaria de conhecer?}
+{800}{}{Na verdade, espere um segundo. Você parece um tipo aventureiro. Eu podem ter um uso para alguém com suas habilidades.}
 {801}{}{Com certeza. O que você precisa?}
-{802}{}{No thanks. Bye.}
-{803}{}{Well, I was out collecting samples at one of my work sites and I seem to have left one of my tools there. Normally
- I would just go and get it myself, but I'm extremely busy at the moment and for the life of me I cannot remember the exact
- spot I left it at. In any case, head northwest from this building and you will find the area where I left my tool. Should
- be a piece cake.}
-{804}{}{I'll get right on it.}
+{802}{}{Não, obrigado. Tchau.}
+{803}{}{Bem, eu estava coletando amostras em um dos meus sítios de trabalho e pareço ter deixado uma das minhas ferramentas lá. Normalmente
+  Eu simplesmente iria buscá-lo, mas estou extremamente ocupado no momento e por minha vida não consigo lembrar o exato
+  local em que eu deixei. Em qualquer caso, siga a noroeste deste edifício e você encontrará a área onde deixei minha ferramenta. Deve
+  ser um bolo de peças.
+}
+{804}{}{Eu irei direto para isso.}
 {805}{}{Não interessado. Tchau.
 }
-{806}{}{Well, wait. Are you sure you won't help me with a little something?}
-{810}{}{Excellent! Now, I must get back to work. [To himself.] It's all going according to plan.}
+{806}{}{Bem, espere. Tem certeza que você não vai me ajudar com uma coisinha?}
+{810}{}{Excelente! Agora, preciso voltar ao trabalho. [Para si mesmo.] Tudo vai de acordo com o plano.}
 {811}{}{[FEITO]}
-{820}{}{That's too bad. Well, I must be getting back to work. [To himself.] Almost had him. Now, where am I going to find another test subject…}
+{820}{}{Isso é ruim. Bem, devo estar voltando ao trabalho. [Para si.] Quase o teve. Agora, onde vou encontrar outro sujeito de teste …}
 {821}{}{[FEITO]}
-{830}{}{[The man looks up startled.] What the-?!}
-{831}{}{I'm still looking for your part.}
-{832}{}{Here's your tool. Piece of cake indeed.}
+{830}{}{[O homem olha assustado.] O que-?!}
+{831}{}{Eu ainda estou procurando a sua parte.}
+{832}{}{Aqui está a sua ferramenta. Pedaço de bolo de fato.}
 {833}{}{Were you trying to kill me out there? That was a maze full of mutated monsters. This wasn't an ordinary part
  retrieval job, now was it?}
 {840}{}{What?! Give me that! [He snatched the tool from your hand.] How did you- Oh, nevermind. Back to the drawing board then...}

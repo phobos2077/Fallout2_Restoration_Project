@@ -36,7 +36,7 @@
 {135}{}{Somehow, I think you're pulling my leg about this whole thing.}
 {136}{}{Uh, well, uh, I can see that you're a busy man. See you later. Goodbye.}
 {137}{}{(He looks you over.) Mebbe' so. Mebbe' so. Well then, suit yourself.}
-{138}{}{I will. Goodbye.}
+{138}{}{Eu vou. Adeus.}
 {139}{}{Well, mebbe' I am at that. Ne'er-the-less, you were a bonny good sport about it. Here's a beer, on me, for takin' it so well.}
 {140}{}{Thanks. Now what were you saying about the sweet science?}
 {141}{}{I'm not taking a beer from you. I know more than you could teach me, you old drunk. Goodbye.}

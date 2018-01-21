@@ -191,7 +191,7 @@
 {472}{}{You certainly do ask a lot of dangerous questions about my husband's business.
  I'd be *very* careful if I were you.}
 {473}{}{Uh, thanks for the advice. I had some other, safer, questions...}
-{474}{}{I will. Goodbye.}
+{474}{}{Eu vou. Adeus.}
 {475}{}{Thanks for your time... and your advice, Mrs. Bishop.}
 {480}{}{*Suspiro*}
 {481}{}{Another BEAUTIFUL Reno day. The devil must be dancing a jig.}

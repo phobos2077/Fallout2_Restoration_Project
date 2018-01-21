@@ -88,7 +88,7 @@
 {186}{}{Have you completed your mission?}
 {187}{}{No, me still work on it.}
 {188}{}{Me get plans.}
-{189}{}{No, I'm still working on it.}
+{189}{}{Não, eu ainda estou trabalhando nisso.}
 {190}{}{I got the vertibird plans for you.}
 {191}{}{Well, keep working on it. I know it's a difficult mission, but I think you can pull it off.}
 {192}{}{Tudo bem.}
