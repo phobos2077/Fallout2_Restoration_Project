@@ -1,4 +1,4 @@
-{100}{}{You see a Hologram.}
+{100}{}{Você vê um holograma.}
 {101}{}{You see the The Director of Security.}
 {102}{}{Hologram 10001. He oversees the EPA's security.}
 {200}{}{Halt! Do not attempt to come any closer. Identify yourself, intruder.}

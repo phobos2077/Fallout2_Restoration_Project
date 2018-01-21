@@ -52,7 +52,7 @@
 {151}{}{Yes. It was a debt. He is an honorable man.}
 {152}{}{I see. I need more information.}
 {153}{}{You're a sick, rude bastard, aren't you?}
-{154}{}{Right. Bye.}
+{154}{}{Direito. Tchau.}
 {155}{}{You are a dishonorable person. I will not have you in my shop. Come back some other time.}
 {156}{}{Seja o que for.}
 {157}{}{They did not. They came from the north and flew over us, heading out over the sea.}

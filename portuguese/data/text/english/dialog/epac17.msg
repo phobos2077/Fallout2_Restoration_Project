@@ -199,16 +199,16 @@
 {830}{}{[O homem olha assustado.] O que-?!}
 {831}{}{Eu ainda estou procurando a sua parte.}
 {832}{}{Aqui está a sua ferramenta. Pedaço de bolo de fato.}
-{833}{}{Were you trying to kill me out there? That was a maze full of mutated monsters. This wasn't an ordinary part
- retrieval job, now was it?}
-{840}{}{What?! Give me that! [He snatched the tool from your hand.] How did you- Oh, nevermind. Back to the drawing board then...}
-{841}{}{[You ignore the man's reaction.] Alright, well if you need anything else, let me know. Bye.}
-{850}{}{That's none of your business. [He snatches the tool from your hand.] Now, get out of here. I've got things to do. [He looks
- away muttering to himself.]}
+{833}{}{Você estava tentando me matar lá fora? Era um labirinto cheio de monstros mutantes. Esta não era uma parte comum
+  trabalho de recuperação, agora era?}
+{840}{}{O que?! Me dê isso! [Ele tirou a ferramenta de sua mão.] Como é que você - Ah, deixa pra lá. De volta à prancheta de desenho, em seguida,...}
+{841}{}{[Você ignora a reação do homem.] Muito bem, se você precisar de mais alguma coisa, avise-me. Tchau.}
+{850}{}{Isso não é da sua conta. [Ele arranca a ferramenta da sua mão.] Agora, saia daqui. Eu tenho coisas para fazer. [Ele olha
+  murmurando para si mesmo.]}
 {851}{}{Seja o que for. Tchau.}
-{852}{}{I don't think so. You tried to kill me and now I will return the favor. Prepare to die!}
-{860}{}{Uh, yes, of course. Well, get to it then.}
+{852}{}{Eu não penso assim. Você tentou me matar e agora vou retribuir o favor. Prepare-se para morrer!}
+{860}{}{Uh, sim, é claro. Bem, vá lá então.}
 {861}{}{[FEITO]}
-{900}{}{*Grumbles*}
-{901}{}{*To himself* I was sure he wouldn't return.}
-{1000}{}{You return the Doctor's forgotten tool.}
+{900}{}{*Resmunga*}
+{901}{}{* Para si mesmo * Tinha certeza de que ele não voltaria.}
+{1000}{}{Você retorna a ferramenta esquecida do médico.}

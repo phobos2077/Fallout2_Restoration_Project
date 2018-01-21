@@ -11,7 +11,7 @@
 {108}{}{Who's in charge?}
 {109}{}{What's new here?}
 {110}{}{What services do you have here?}
-{111}{}{Nope. Sorry.}
+{111}{}{Não. Desculpe.}
 {112}{}{Oh dear. Another poor child of the wastes. Well, come in. You'll find we're just as hospitable
  as any of the other towns in the wasteland.}
 {113}{}{Guyyyyyyyyyy!}

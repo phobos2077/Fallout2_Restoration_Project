@@ -1,4 +1,4 @@
-{100}{}{You see a Hologram.}
+{100}{}{Você vê um holograma.}
 {101}{}{You see the Director of Public Relations.}
 {102}{}{Hologram 40011. She is in charge of all the tours and press releases at the EPA.}
 {200}{}{[This attractive female hologram greets you with a friendly smile.] Hello visitor, and welcome to the EPA. How may I help you? Lunch will be served in the cafeteria at mid-day for all company employees.}
@@ -40,7 +40,7 @@
 {312}{}{Nevermind. I'm not interested.}
 {320}{}{The complex is still looking rather drab. You're still going to fix the lights, aren't you? Remember visitors, all wavers must be signed before the end of the tour.}
 {321}{}{Don't worry. I'm working on it.}
-{322}{}{I'll get around to it.}
+{322}{}{Eu vou pegar.}
 {330}{}{We'd have more visitors if the grounds were clean.}
 {331}{}{How am I supposed to conduct tours without proper lighting?}
 {332}{}{Those plants are killing all potential tourists.}

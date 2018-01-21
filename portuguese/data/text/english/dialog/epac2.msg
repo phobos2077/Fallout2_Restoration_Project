@@ -1,88 +1,88 @@
-{100}{}{You see a Hologram.}
-{101}{}{You see the Director of Science.}
-{102}{}{Hologram 00000. He looks after the scientific aspects of the EPA.}
+{100}{}{Você vê um holograma.}
+{101}{}{Você vê o Diretor de Ciência.}
+{102}{}{Holograma 00000. Ele cuida dos aspectos científicos da EPA.}
 {200}{}{01001000 01100101 01101100 01110000 00100000 01101101 01100101 00100001}
-{201}{}{Uh, what?}
+{201}{}{Uh, o que?}
 {210}{}{01000101 01101100 01100101 01100011 01110100 01110010 01101001 01100011 01100001 01101100 00100000 01110011
- 01101000 01101111 01110010 01110100 00101110}
-{211}{}{Sorry, I can't understand you. Bye.}
-{212}{}{Interesting. It seems you're only able to communicate using binary numbers. Hold on, if I write down what
- you're saying, I just might be able to figure this out.}
-{220}{}{[After a couple hours, you finally believe you've correctly translated the binary numbers. It appears he's
- saying "Help me! Electrical short."}
-{221}{}{Well, that was fun to decode. See ya.}
-{222}{}{An electrical short in the tape reel, huh? Alright, let's see if we can get you fixed.}
+01101000 01101111 01110010 01110100 00101110}
+{211}{}{Desculpe, eu não consigo entender você. Tchau.}
+{212}{}{Interessante. Parece que você só pode se comunicar usando números binários. Aguarde, se eu escrever o que
+  Você está dizendo, eu poderia descobrir isso.}
+{220}{}{[Depois de algumas horas, você finalmente acredita que você traduziu corretamente os números binários. Parece que ele está
+  dizendo "Ajude-me! Curto-circuito".}
+{221}{}{Bem, isso foi divertido para decodificar. See ya.}
+{222}{}{Um curto elétrico no carretel da fita, hein? Tudo bem, vamos ver se podemos corrigi-lo.}
 {230}{}{01001000 01100101 01101100 01110000 00100000 01101101 01100101 00100001}
-{231}{}{Just checking in. See ya.}
-{232}{}{Don't worry, I'm working on getting you fixed.}
+{231}{}{Apenas checando. Vejo você.}
+{232}{}{Não se preocupe, estou trabalhando para corrigir você.}
 {240}{}{01010010 01100101 01100010 01101111 01101111 01110100 00100000 01101101 01100101 00100001}
-{241}{}{Alright, I give up. Sorry.}
-{242}{}{Still not working? Hold on, let me decipher that.}
-{250}{}{[You're able to decode the message much quicker this time: "Reboot me!"] Oh, of course. [You reboot the machine
- running the hologram. To pass the time, you whistle as it chugs through all its starting procedures.]}
+{241}{}{Tudo bem, eu desisto. Desculpe.}
+{242}{}{Ainda não funciona? Segure-se, deixe-me decifrar.}
+{250}{}{[Você pode decodificar a mensagem muito mais rápido desta vez: "Reinicie-me!"] Oh, claro. [Você reinicia a máquina
+  executando o holograma. Para passar o tempo, você assobia enquanto se encaixa em todos os seus procedimentos iniciais.]}
 {251}{}{[Continuar.]}
-{260}{}{By Hawking, you've done it! My vocal program had been stuck in binary mode for *years*. It's been so long since
- I've had the pleasure of exchanging dialogue with a fellow intellect. You'd think during all this time *one* of my
- comrades would have had the decency to learn binary, but nooo.}
-{261}{}{No prob—}
-{270}{}{They didn't have time for me, you see. Oh no, they were too *busy* indulging in their bureaucratic nonsense.
- Too busy imposing regulations upon one another and bickering like fools. And look where it got them: stuck in an endless
- loop in the conference chamber. Ha! Serves 'em right.}
-{271}{}{Stuck in a loop?}
-{272}{}{I actually fixed that problem. No more endless loops.}
-{280}{}{What's that? Oh, yes, yes, it seems a malfunction somewhere has generated a powerful magnetic field, which is
- erasing their short term memory every couple minutes, damning them to a kind of hologram purgatory. But never mind that,
- we're better off without them. With them tied up in an endless argument, that leaves me, er, I mean, *us*, in charge of
- the facility. With my supreme intellect, and your physical body, we could make quite the duo.}
-{281}{}{First off, why don't you tell me what exactly this place is?}
-{290}{}{Really? In my opinion, we're better off without them, but if you thought otherwise who am I to complain. With my
- supreme intellect, and your physical body, we could make quite the duo, you know.}
-{291}{}{First off, why don't you tell me what exactly this place is?}
-{300}{}{Why, it's the Environmental Protection Agency, of course. This is a federal facility originally established to
- regulate chemicals and ensure the protection of the environment, but it's become oh so much more than that! Why, you're
- standing in one of the nation's top experimental research facilities. We have so many exciting things in development. Of
- course, progress has been a bit slow lately, what with the fall of civilization and all...}
-{301}{}{That's understandable.}
-{302}{}{The apocalypse is no excuse for slacking off.}
-{310}{}{Yes, if only I had an able bodied assistant, I could finally make some more progress on my research...}
-{311}{}{What kind of help do you need?}
-{320}{}{Well, that depends. I don't suppose you'd feel comfortable wielding a large experimental gun, would you?}
-{321}{}{Hell yeah I would!}
+{260}{}{Por Hawking, você fez isso! Meu programa vocal tinha sido preso no modo binário por * anos *. Faz tanto tempo que
+  Tive o prazer de trocar o diálogo com um outro intelecto. Você pensaria que durante todo esse tempo * um * do meus
+  camaradas teriam a decência de aprender binário, mas não.}
+{261}{}{Sem proble—}
+{270}{}{Eles não tiveram tempo para mim, você vê. Ah, não, eles estavam tão ocupados *indulgentes* com seus insensatos burocráticos.
+  Muito ocupados impondo regulamentos uns aos outros e brigando como tolos. E olhe para onde os obteve: preso em um interminável
+  loop na câmara da conferência. Ha! Serve bem.}
+{271}{}{Preso em um loop?}
+{272}{}{Na verdade, reparei esse problema. Não há mais loops infinitos.}
+{280}{}{O que é isso? Oh sim, sim, parece que um mau funcionamento em algum lugar gerou um poderoso campo magnético, que está
+  apagando sua memória de curto prazo a cada dois minutos, condenando-os a uma espécie de purgatório de holograma. Mas não importa isso,
+  Nós estamos melhor sem eles. Com eles amarrados em um argumento sem fim, isso me deixa, er, quero dizer, * nós *, responsável pela
+  facilidade. Com meu intelecto supremo e seu corpo físico, poderíamos fazer uma dupla.}
+{281}{}{Primeiro, por que você não me dizer o que exatamente este lugar é?}
+{290}{}{Mesmo? Na minha opinião, estamos melhor sem eles, mas se você pensou de outra forma, a quem devo reclamar. Com meu
+  intelecto supremo e seu corpo físico, poderíamos fazer uma dupla, você sabe.}
+{291}{}{Primeiro, por que você não me dizer o que exatamente este lugar é?}
+{300}{}{Por que, é a Agência de Proteção Ambiental, é claro. Esta é uma instalação federal originalmente estabelecida para
+  regulam os produtos químicos e assegurar a proteção do meio ambiente, mas é muito mais do que isso! Por que você está
+  ficando em uma das principais instalações de pesquisa experimental da nação. Temos muitas coisas interessantes em desenvolvimento. Do
+  claro, o progresso tem sido um pouco lento ultimamente, o que com a queda da civilização e tudo ...}
+{301}{}{Isso é compreensível.}
+{302}{}{O apocalipse não é desculpa para faltar.}
+{310}{}{Sim, se eu tivesse um assistente de corpo capaz, eu poderia finalmente fazer mais progressos na minha pesquisa ...}
+{311}{}{Que tipo de ajuda você precisa?}
+{320}{}{Bem, isso depende. Eu não suponho que você se sinta confortável empunhando uma grande arma experimental, você faria?}
+{321}{}{Inferno sim, eu iria!}
 {322}{}{Com certeza.}
-{323}{}{I think I'll pass.}
-{330}{}{Oh, I see. That's too bad. Oh well, no hard feelings. I'll just wait until the next flesh and blood person comes
- wandering into this facility. It's bound to happen again within a century or two. Goodbye.}
-{340}{}{Hello again. I don't suppose you've reconsidered my offer of helping me to test an experimental weapon?}
-{341}{}{Nope. Sorry.}
-{342}{}{Alright. Sure.}
-{350}{}{Excellent! You're the perfect candidate. You see, in an effort to help the military become more "environmentally
- friendly", I developed a new weapon that requires no ammo, as it runs completely on *light*. I call it, the
- *Solar Scorcher*. However, it's yet to be tested under direct sunlight, which is, of course, where you come in.}
-{351}{}{So you just want me to go outside and shoot this thing? That's it?}
-{352}{}{Yeah, yeah, just give me the gun already.}
-{360}{}{Essentially, yes. Of course, I need to know how well it fares in a combat situation, so I'd appreciate it if you
- could find some threatening life forms out there, which you could then spectacularly dispatch with my Solar Scorcher.}
-{361}{}{Go outside and kill something, got it. So, where is this Solar Scorcher?}
-{370}{}{Not so hasty, my friend. I don't want you to simply shoot the weapon outside aimlessly. I need to know how well
- it fares in a combat situation, so I'd appreciate it if you could find some threatening life forms out there, which you
- could then spectacularly dispatch with my Solar Scorcher.}
-{371}{}{Go outside and kill something, got it. So, where is this Solar Scorcher?}
-{380}{}{Oh, yes, it's in that locker on the wall over there, next to my projector. The passcode is 03141879.}
-{381}{}{Alright, I'll try it out and let you know how it goes.}
-{390}{}{Ah, welcome back. Have you gotten a chance to test the Solar Scorcher?}
-{391}{}{Sure did. It scorched the hell out of things.}
-{392}{}{Sure did, but the piece of shit broke on me. I had to trash it.}
+{323}{}{Eu acho que eu vou passar.}
+{330}{}{Ah eu vejo. Isso é ruim. Oh, bem, sem ressentimentos. Eu espero até que a próxima pessoa de carne e sangue venha
+  vagando com essa facilidade. É inevitável que aconteça dentro de um século ou dois. Adeus.}
+{340}{}{Olá de novo. Eu não suponho que você tenha reconsiderado minha oferta de me ajudar a testar uma arma experimental?}
+{341}{}{Não. Desculpe.}
+{342}{}{Tudo bem. Com certeza.}
+{350}{}{Excelente! Você é o candidato perfeito. Você vê, em um esforço para ajudar os militares a se tornarem mais "ambientalmente
+  amigáveis ", desenvolvi uma nova arma que não exige munição, já que ela carrega completamente na * luz *. Eu chamo isso, o
+  * Solar Scorcher *. No entanto, ainda não foi testado sob a luz solar direta, que é, claro, onde você entra.}
+{351}{}{Assim você só quer que eu vá lá fora e atirar com essa coisa? Que é isso?}
+{352}{}{Sim, sim, me dê a arma já.}
+{360}{}{Essencialmente, sim. Claro, eu preciso saber o quão bom é em uma situação de combate, então eu apreciaria se você
+  poderia encontrar algumas formas de vida ameaçadoras lá fora, que você poderia despachar espetacularmente com meu Solar Scorcher.}
+{361}{}{Vá para fora e mata algo, entendi. Então, onde está este Solar Scorcher?}
+{370}{}{Não seja tão apressado, meu amigo. Eu não quero que você simplesmente atire a arma fora sem rumo. Eu preciso saber o quão bem
+  Ela está em uma situação de combate, então eu apreciaria se você pudesse encontrar formas de vida ameaçadoras lá, o que você
+  poderia despachar espetacularmente com o meu Solar Scorcher.}
+{371}{}{Vá para fora e mata algo, entendi. Então, onde está este Solar Scorcher?}
+{380}{}{Ah, sim, está naquele armário na parede lá, ao lado do meu projetor. A senha é 03141879.}
+{381}{}{Tudo bem, eu vou testá-lo e deixá-lo saber como ele vai.}
+{390}{}{Ah, bem-vindo de volta. Tivemos a oportunidade de testar o Solar Scorcher?}
+{391}{}{Claro que sim. Ele arrasou as coisas.}
+{392}{}{Claro, mas o pedaço de merda falhou em mim. Eu tinha que arruiná-lo.}
 {393}{}{Não, ainda não.}
-{394}{}{I'll get around to it.}
-{400}{}{Excellent! I'm delighted to know it works as intended. Thank you for assisting me with this. Why don't you go
- ahead and keep the Solar Scorcher, I'd rather it get some use than sit around here and collect dust.}
+{394}{}{Eu vou pegar.}
+{400}{}{Excelente! Estou muito feliz por saber que funciona como pretendido. Obrigado por me ajudar com isso. Por que você não vai
+  À frente e mantenha o Solar Scorcher, preferiria ter algum uso do que sentar por aqui e coletar pó.}
 {401}{}{Obrigado!}
-{402}{}{Good, because I didn't plan on giving it back anyway.}
-{410}{}{Oh... I see. I don't understand, that prototype withstood vigorous lab testing... [He shakes his head
- sadly.] Anyway, thanks for assisting me.}
+{402}{}{Bom, porque não planejava devolvê-lo de qualquer jeito.}
+{410}{}{Ah eu vejo. Eu não entendo, esse protótipo resistiu ao teste de laboratório vigoroso ... [Ele balança a cabeça
+  infelizmente.] De qualquer forma, obrigado por me ajudar.}
 {411}{}{Seja o que for.}
 {412}{}{Não há problema.}
-{420}{}{Nice to see you again. However, if you'll excuse me, I've got a plethora of projects that require my attention.}
+{420}{}{É um prazer ver você de novo. No entanto, se você me desculpar, eu tenho uma infinidade de projetos que exigem minha atenção.}
 {421}{}{[Fim.]}
-{500}{}{You fix Hologram 00000.}
-{510}{}{You test the Solar Scorcher for the Director of Science.}
+{500}{}{Você repara o holograma 00000.}
+{510}{}{Você prova o Solar Scorcher para o Diretor de Ciências.}

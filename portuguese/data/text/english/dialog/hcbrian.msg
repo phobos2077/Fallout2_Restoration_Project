@@ -36,7 +36,7 @@
 {135}{}{Obrigado. Tchau.}
 {136}{}{Well, with the uranium mine right there, and with atomic power being the power of the future, it seems only right that we keep up with the times. We might be small, but we're progressive.}
 {137}{}{Hmm. Right. I have other questions.}
-{138}{}{Right. Bye.}
+{138}{}{Direito. Tchau.}
 {139}{}{Well, sure, technically that's true, but...}
 {140}{}{But nothing. You're just lazy. Get a move on.}
 {141}{}{You don't have to be mean about it. [He ducks his head and turns a dial.] There. Please tell him to stop complaining now.}

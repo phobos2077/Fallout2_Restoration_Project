@@ -1,30 +1,30 @@
-{100}{}{You see a hologram.}
-{101}{}{You see a hologram.}
-{200}{}{Zzzzzt...Hello... zzZzzt..Are..zzzZzzZtt...stand...me?}
-{201}{}{Excuse me?}
-{202}{}{Right. Bye.}
-{203}{}{My...zZzzzt..sensor...ZzzzzzZzt...*garble*..fixed?}
-{204}{}{Sorry, but I can't understand you. There's too much static. I'll see if I can maybe fix it somehow.}
+{100}{}{Você vê um holograma.}
+{101}{}{Você vê um holograma.}
+{200}{}{Zzzzzt...Olá... zzZzzt..São..zzzZzzZtt...ficar...comigo?}
+{201}{}{Desculpe-me?}
+{202}{}{Direito. Tchau.}
+{203}{}{Meu ... zZzzzt..sensor ... ZzzzzzZzt ... * garble * ... corrigido?}
+{204}{}{Desculpe, mas não consigo entender você. Há muita estática. Veremos se posso talvez consertar de alguma forma.}
 {205}{}{Eu não tenho tempo para isso. Tchau.}
-{300}{}{Ah, thank you so much for repairing me! I was dreading the thought of some visitor happening along and asking me questions which I'd be unable to properly answer due to all the static. Of course, you're the first visitor I've seen since the war, but still, *had* I encountered someone else, that could have been quite embarrassing.}
-{301}{}{No problem. So what exactly is this place anyway?}
-{302}{}{[He grins, seemingly delighted at the prospect of having questions to answer.] You're standing in the Environmental Protection Agency, more commonly referred to as the EPA. We're a government research facility that specializes in testing chemicals to ensure that they're safe for the Earth's environment. But that's just scratching the surface. We had all sorts of exciting things going on here, at least until the facility was vacated due to the war. Things haven't quite been the same since.}
-{303}{}{Interesting. So, what exactly is your purpose here?}
-{304}{}{Well, unlike the other holograms you will encounter, I wasn't created for a specific task. I'm merely here to answer visitor's questions or help solve difficult mathematical problems that the human mind cannot accomplish.}
-{305}{}{I see. Then perhaps you could answer some questions for me?}
-{310}{}{Oh, I'd love to answer your questions. Ask away and I'll answer them to the best of my ability.}
-{311}{}{I keep seeing references to a Blue Level. How do I access it?}
-{312}{}{I found another way into this facility, but it requires a passcode. The service elevator brings you to it.}
-{313}{}{Can you identify some items I found around here?}
-{314}{}{Nevermind. I don't need anything.}
-{320}{}{Why of course, the main elevator at the surface should take you where you want to go! Why would you go through the
- ventilation system?}
-{321}{}{Well, that elevator is not working anymore and the only way in I found was through the vents.}
-{322}{}{Oh, I see. That makes more sense. Well, there is another way in. There is a service elevator which stops on level two.
- It should be accessible from under the Doctor's workshop. He can be found outside, to the east of the main entrance to the EPA.
- You will need an access code to get inside, however. Since I am grateful for you repairing me, I shall tell you code. The code is "FLOWERPOT".}
+{300}{}{Ah, muito obrigado por me reparar! Eu estava temendo o pensamento de algum visitante acontecendo e me fazendo perguntas que eu não seria capaz de responder corretamente devido a todas as estáticas. Claro, você é o primeiro visitante que vi desde a guerra, mas ainda assim * tivesse * Eu encontrado alguém, isso poderia ter sido bastante embaraçoso.}
+{301}{}{Não há problema. Então, o que exatamente é esse lugar mesmo?}
+{302}{}{[Ele sorri, aparentemente encantado com a perspectiva de ter perguntas para responder.] Você está na Agência de Proteção Ambiental, mais comumente referido como a EPA. Somos uma instituição de pesquisa do governo especializada em testes de produtos químicos para garantir que eles estejam seguros para o meio ambiente da Terra. Mas é só coçar a superfície. Nós tivemos todo tipo de coisas interessantes acontecendo aqui, pelo menos até que a instalação tenha sido desocupada devido à guerra. As coisas não foram as mesmas desde então.}
+{303}{}{Interessantes. Então, o que exatamente é o seu propósito aqui?}
+{304}{}{Bem, ao contrário dos outros hologramas que você encontrará, não fui criado para uma tarefa específica. Estou apenas aqui para responder as perguntas dos visitantes ou ajudar a resolver problemas matemáticos difíceis que a mente humana não pode realizar.}
+{305}{}{Eu vejo. Então, talvez você poderia responder algumas perguntas para mim?}
+{310}{}{Oh, eu adoraria responder suas perguntas. Pergunte e eu vou respondê-las para o melhor de minha capacidade.}
+{311}{}{Eu continuo vendo referências a um Nível Azul. Como faço para acessá-lo?}
+{312}{}{Eu encontrei um outro caminho para esta facilidade, mas requer um código de acesso. O serviço de elevador leva você para ele.}
+{313}{}{Você pode identificar alguns itens que eu encontrei por aqui?}
+{314}{}{Deixa pra lá. Não preciso de nada.}
+{320}{}{Por que, claro, o elevador principal na superfície deve levá-lo para onde você quer ir! Por que você passaria pelo
+  sistema de ventilação?}
+{321}{}{Bem, esse elevador não está funcionando mais e a única maneira em que encontrei foi através das aberturas.}
+{322}{}{Ah eu vejo. Isso faz mais sentido. Bem, há outra maneira de entrar. Existe um elevador de serviço que pára no nível dois.
+  Deve ser acessível a partir da oficina do médico. Ele pode ser encontrado lá fora, a leste da entrada principal da EPA.
+  Você precisará de um código de acesso para entrar. Como agradeço que você me reparou, eu vou lhe dizer o código. O código é "FLOWERPOT".}
 {323}{}{Obrigado. Deixe-me perguntar-lhe algo mais.}
-{324}{}{Oh, I'm sorry but the Blue Level contains top secret research. Access to that level is restricted to... oh, to hell with it. You were kind enough to repair me, so I suppose I could give you the password. It's "FLOWERPOT".}
+{324}{}{Oh, desculpe, mas o nível azul contém pesquisa secreta. O acesso a esse nível é restrito a ... oh, para o inferno com isso. Você foi gentil para me consertar, então suponho que eu poderia lhe dar a senha. É "FLOWERPOT".}
 {330}{}{I will do my best. What item would you like me to identify?}
 {331}{}{What is the purpose of this dog food?}
 {332}{}{I found this syringe full of an unknown substance. Could you tell me what it does?}

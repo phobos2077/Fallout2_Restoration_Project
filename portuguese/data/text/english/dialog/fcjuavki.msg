@@ -30,7 +30,7 @@
 {129}{}{The "right" choice. Sure. What about free will?}
 {130}{}{Sounds great. How do I join?}
 {131}{}{Sure. I have more questions.}
-{132}{}{Right. Bye.}
+{132}{}{Direito. Tchau.}
 {133}{}{Him: More questions? Then we have the answers! Provided by the Great Wheel's graces, of course.}
 {134}{}{How do I join?}
 {135}{}{What makes you celebrities?}
@@ -45,7 +45,7 @@
 {144}{}{Err... right. I have more questions.}
 {145}{}{What, because some crackpot wrote something down you feel the need to publish EVERYTHING?}
 {146}{}{Yes! Praise the Hub! I see the light! How do I join?}
-{147}{}{Right. Bye.}
+{147}{}{Direito. Tchau.}
 {148}{}{Him: Yes. Some might think we resemble certain people. Her: But the truth is, it's entirely coincidental.}
 {149}{}{Whew. Well, that's a load off. Say, I have more questions.}
 {150}{}{Got it. So long.}
