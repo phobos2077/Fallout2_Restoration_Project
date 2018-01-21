@@ -1,4 +1,4 @@
-{100}{}{You see a tribal.}
+{100}{}{Você vê um tribal.}
 {101}{}{You see Shadow-Who-Walks.}
 {150}{}{You see a heavily-muscled primitive with black scars covering his face. He is watching you silently.}
 {151}{}{You see Shadow-Who-Walks. His face is heavily scarred by ritual tattoos.}
@@ -7,7 +7,7 @@
 {300}{}{Shhh... I'm huntin' wabbits.}
 {400}{}{[He looks upon you with untrusting eyes.] Who goes there?}
 {401}{}{Meu nome é }
-{402}{}{. Who are you?}
+{402}{}{. Quem é você?}
 {403}{}{I'm on a mission for Vault City. Who are you?}
 {404}{}{My name is not important. I have come to warn you. You are in great danger!}
 {405}{}{I am your nemesis. Prepare to join your ancestors!}
@@ -72,7 +72,7 @@
 {701}{}{[Keep staring]}
 {702}{}{[Attack]}
 {703}{}{Meu nome é }
-{704}{}{. Who are you?}
+{704}{}{. Quem é você?}
 {705}{}{I'm on a mission for Vault City. Who are you?}
 {706}{}{My name is not important. I have come to warn you. You are in great danger!}
 {707}{}{Never mind, I'll just leave.}
@@ -81,7 +81,7 @@
 {711}{}{[Keep staring]}
 {712}{}{[Attack]}
 {713}{}{Meu nome é }
-{714}{}{. Who are you?}
+{714}{}{. Quem é você?}
 {715}{}{I'm on a mission for Vault City. Who are you?}
 {716}{}{My name is not important. I have come to warn you. You are in great danger!}
 {717}{}{Never mind, I'll just leave.}
@@ -90,7 +90,7 @@
 {721}{}{[Keep staring]}
 {722}{}{[Attack]}
 {723}{}{Meu nome é }
-{724}{}{. Who are you?}
+{724}{}{. Quem é você?}
 {725}{}{I'm on a mission for Vault City. Who are you?}
 {726}{}{My name is not important. I have come to warn you. You are in great danger!}
 {727}{}{Never mind, I'll just leave.}

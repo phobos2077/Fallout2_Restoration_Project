@@ -1,125 +1,126 @@
-{100}{}{That's it... I think.}
-{101}{}{No, but it can't... I, well...hmmm...}
-{102}{}{The blue wire to the red housing...}
-{103}{}{Those mutations are progressing nicely.}
-{104}{}{It won't be long now.}
-{105}{}{Just a few more drops of HCl...}
-{106}{}{You see a man in a white lab coat.}
-{107}{}{You see The Doctor.}
-{108}{}{The leading - and only - Doctor left in the EPA.}
-{109}{}{It would be unwise to attack me.}
+{100}{}{É isso mesmo ... acho.}
+{101}{}{Não, mas ele não pode... eu, bem...hmmm...}
+{102}{}{O fio azul para a caixa vermelha ...}
+{103}{}{Estas mutações estão progredindo muito bem.}
+{104}{}{Não demorará muito agora.}
+{105}{}{Apenas mais algumas gotas de HCl...}
+{106}{}{Você vê um homem de jaleco branco.}
+{107}{}{Você vê O Médico.}
+{108}{}{O principal - e único - Doutor deixado na EPA.}
+{109}{}{Seria imprudente para atacar-me.}
 {120}{}{Sim?}
-{121}{}{Hi, my name is }
-{122}{}{. Who are you?}
-{123}{}{Sorry to bother you. Goodbye.}
-{130}{}{I'm known as the Doctor.}
-{131}{}{Oh, right. So what do you do? Why are you here all on your own? The rest of the place looks deserted.}
-{132}{}{OK, thanks.}
-{140}{}{I see you are adequately skilled in the ways of science. Maybe you could understand what I do here after all. What do you wish to know?}
-{141}{}{Why are you here?}
+{121}{}{Oi, meu nome é }
+{122}{}{. Quem é você?}
+{123}{}{Desculpe incomodá-lo. Adeus.}
+{130}{}{Eu sou conhecido como o Médico.}
+{131}{}{Oh, certo. Então, o que faz? Por que você está aqui sozinho? O resto do lugar parece deserto.}
+{132}{}{OK, obrigado.}
+{140}{}{Vejo que você é adequadamente habilidoso nos caminhos da ciência. Talvez você possa entender o que eu faço depois de tudo. O que você deseja saber?}
+{141}{}{Por que você está aqui?}
 {142}{}{O que você faz aqui?}
-{150}{}{I'm sorry, but I don't believe you have the skills required to understand what I'm doing here. Come back when you're mentally tougher.}
-{151}{}{Whoa, just a minute. I'll have a go at anything you give me!}
-{152}{}{Well, all right then. Goodbye.}
-{160}{}{I was part of the original team of scientists that worked here in the EPA before the war. Unfortunately, none of them were skilled enough in the scientific disciplines or possessed sufficient resolve and had to leave. Now, I'm the only one left.}
-{161}{}{So, are you happy with that? I mean, being the only one here?}
-{170}{}{Anything I want to really. At the moment, I'm carrying out more genetic research on creatures that I've created in order to observe the effects of FEV on their immune systems. Years ago, I created many new drugs and adapted several others, but I don't do that anymore.}
-{171}{}{What's that about creatures you've created?}
-{172}{}{What types of drugs have you made?}
-{180}{}{No, you cannot. You just aren't skilled enough in the ways of science and biological enhancements. Now, if you'll excuse me, you're wasting my time.}
-{181}{}{I most certainly am not. Try me.}
-{190}{}{<smiles> Well, maybe so. OK, if you wish, I'll give you a chance. What would you like to know then?}
-{191}{}{Why are you here?}
+{150}{}{Desculpe, mas não acredito que você tenha as habilidades necessárias para entender o que estou fazendo aqui. Volte quando você for mentalmente mais capacitado.}
+{151}{}{Whoa, apenas um minuto. Eu terei uma chance em qualquer coisa que você me desse!}
+{152}{}{Bem, tudo certo então. Adeus.}
+{160}{}{Eu fazia parte da equipe original de cientistas que trabalhava aqui na EPA antes da guerra. Infelizmente, nenhum deles era habilidoso o suficiente nas disciplinas científicas ou possuía resolução suficiente e teve que sair. Agora, eu sou o único a ser deixado.}
+{161}{}{Então, você está feliz com isso? Quero dizer, sendo o único aqui?}
+{170}{}{Tudo o que eu quero realmente. No momento, estou realizando mais pesquisas genéticas sobre criaturas que criei para observar os efeitos da VEF em seus sistemas imunológicos. Anos atrás, criei muitas drogas novas e adaptei várias outras, mas não faço mais isso.}
+{171}{}{O que isso tem a ver com as criaturas que você tenha criado?}
+{172}{}{Que tipo de drogas você já fez?}
+{180}{}{Não, você não pode. Você simplesmente não é qualificado o suficiente nas formas de aprimoramento científico e biológico. Agora, se você me desculpar, está perdendo meu tempo.}
+{181}{}{Eu certamente não estou. Tente-me.}
+{190}{}{<sorrisos> Bem, talvez sim. OK, se você quiser, vou lhe dar uma chance. O que você gostaria de saber?}
+{191}{}{Por que você está aqui?}
 {192}{}{O que você faz aqui?}
-{200}{}{Why of course! Nobody to watch over me. No rules whatsoever. I do whatever I want, whenever I want. Also, with only me being left here, I have access to all the equipment I would ever need. Anything else?}
-{201}{}{Who are the people over there in those cages?}
-{202}{}{What's all the funny colored liquid I've seen around the EPA?}
-{203}{}{Where do you get all of the equipment from?}
-{210}{}{Those in the first cells over by that wall are some villagers that wandered in here by mistake and I captured them for use later on. The other stronger-looking ones are my own warriors for...emergencies.}
-{211}{}{...for use later? What do you mean?}
-{212}{}{Thanks. Can I ask another question?}
-{213}{}{Right. Thanks. I must be going now.}
-{220}{}{Chemicals and tanks of FEV mostly. It was all contained in great barrels for safe storage here at the EPA. Unfortunately, there was a minor accident and a huge chemical leak forced everyone except those daft holograms to leave. Some of the chemicals have leaked into the lower levels. I'm now using it as experimentation material. So far, it's provided some promising results!}
-{221}{}{What types of results? Do you mean you've created these creatures?}
-{222}{}{So where do you get all your equipment from?}
-{230}{}{Here mostly. The EPA was originally designed and furnished with all kinds of machinery and, since all the other scientists left, none of it was ever used. I'm just running out of a few things now after so many years...}
-{231}{}{Never mind. I must be going now.}
-{240}{}{Drugs? Dozens! Over the years I've created mentats, buffout, stimpaks, medical kits of varying strengths, psychos and many others that you wouldn't understand. I don't do that anymore, though. I created the Mr. Chemmie! robot to do that for me. It's in the main complex. If you have the intelligence and scientific skills you say you have, then feel free to use it to make any drugs you want.}
-{241}{}{What special drugs have you created?}
-{242}{}{Where can I find Mr. Chemmie!?}
-{243}{}{Thanks. Say, have you ever heard of jet?}
-{250}{}{Yes, I've created many creatures whilst I've been at the EPA. If you're an exploring type, then you may have come across some of them in the wastes. Centaurs?  Floaters? The "Aliens"? They roam freely now in the wastes. I've just retained a few here and in the main base for future reference.}
-{251}{}{Just a minute. Are you telling me that all those creatures out there, those things that are plaguing the wasteland and killing innocents were created by you?!}
-{252}{}{Whoa, note to self: Do not anger the Doctor. Goodbye.}
-{260}{}{'What do I mean?' The Forced Evolution Virus, of course! I'm only just beginning to experiment as to the effects on humans. We've all heard the story of the Master. I was thinking of doing something similar myself. An army of my own would certainly be very useful!}
-{261}{}{Don't you think that's a bit immoral? How can you even consider such a hideous thing?}
-{262}{}{Just getting around to humans? What else have you worked on then?}
-{263}{}{Well, good luck with that. I must get going now.}
-{270}{}{Yes, I suppose you can. You amuse me greatly. What else can I answer for you? }
-{271}{}{Tell me again about these people.}
-{272}{}{What's all the funny-colored liquid around the EPA?}
-{273}{}{Where do you get all the equipment and supplies for your experiments?}
-{280}{}{No, no, no. Before you leave, I must ask you something. Could you do a little favor for me? I don't leave the safety of the warehouse for fear of things being stolen. I need some raw materials. Could you help me?}
-{281}{}{Yeah, I suppose so. What do you need?}
-{282}{}{No, I'm too busy at the moment. Maybe some other time.}
-{290}{}{Yeah, I wondered what the virus would do on regular domesticated animals saved in storage from before the war. The unfortunate thing was it affected their reproductive cycles and they bred very quickly. I released them into the wastes soon after I realized that.}
-{291}{}{You're a monster! No wonder nobody in the area knows about you! You ought to be disposed of.}
-{292}{}{Well, I don't agree with what you are doing, but there's nothing I can do about it. Goodbye.}
-{300}{}{Special drugs? Well, I've been cultivating a new crop of marijuana. It's a pre-war drug that I found in deep freeze. I only have manure though from the mutated creatures you see here, so it was more dangerous than I first thought. The first trials weren't very successful, anyway...}
-{301}{}{Can I get some of this drug?}
-{302}{}{Why weren't they successful? What happened?}
-{310}{}{Mr. Chemmie! is located in the northeast section of the bottom floor of the EPA. Or maybe the northwest... Actually, it's on the top floor. Oh, I can't remember anymore. It's a huge chunk of machinery. You can't miss it.}
-{311}{}{Right. Thanks. You mentioned you'd created some special drugs. Like what?}
-{320}{}{Easily. I'm a scientist. That's what I do. Experiments are my life. Though different, it really is just another type of experiment.}
-{321}{}{You're messing with things that you shouldn't be altering! What if things go wrong? What if some of the people you're working on die!?}
-{330}{}{Disposed of! Oh, no. I don't think so. I'm doing the job I was originally hired to do. Investigate and experiment. As time goes on though, you start to run out of things to investigate, so you have to be more liberal in your ideas. I think it was once called 'thinking outside the box'.}
-{331}{}{I've had enough of this! If no one else will stop you, then I will.}
-{332}{}{You're sick and I'm leaving. Goodbye.}
-{340}{}{Yeah, why not? Help yourself. There's plenty in the storage sheds on the surface level. I think I may have programmed Mr. Chemmie! to make it as well. I don't keep any around here anymore as it takes up a lot of space.}
-{341}{}{Thanks! You were saying a moment ago that you weren't successful in early trials? Why is that?}
-{350}{}{Well, some of the test subjects had severe reactions to the virus, but those are not even worth mentioning. A few errors here and there are expected in our line of work. Now, if you'll excuse me, I have things to do.}
-{351}{}{Yeah, I suppose I do as well. Goodbye.}
-{360}{}{Then they die. What do you expect me to do? This is how one makes progress.}
-{361}{}{Monstrous! Unbelievable! You die - now!}
-{362}{}{I can't stand this anymore. Goodbye. I won't be back soon.}
-{370}{}{Jet? Yeah, that's the drug that most of Redding's been high on, if I'm not mistaken. It's an exceptionally complex compound and my machines couldn't reproduce it even on maximum power. Why? What do you know of it?}
-{371}{}{Well, I have here with me it's creator.}
-{380}{}{[*Eyes sparkle*] Really!? Who? Can I see him? Maybe speak to him?}
-{381}{}{Of course. His name is Myron. He's right here.}
-{390}{}{Thank you for bringing that Myron kid to me. He's very knowledgeable! Not quite as intellectually adept as me, understand, but well nonetheless. If he ever wants to settle down he can come here as my apprentice.}
-{391}{}{I'm not sure he'd like being anybody's apprentice. We'd better be going.}
-{400}{}{One moment, before you go. Please, take this as a token for bringing Myron here. I have no real use for it.}
-{401}{}{Hey, thanks. Um, what is it?}
-{410}{}{It's a Solar Scorcher. It was an experiment of mine. It feeds off the energy from the sun and thus no ammunition is required. It actually works and will be of great use to you, I'm sure, in the deep wastes. This requires a further question actually...}
+{200}{}{Por que, claro! Ninguém para cuidar de mim. Não tem regras. Faço o que quiser, sempre que quiser. Além disso, com apenas eu sendo deixado aqui, tenho acesso a todos os equipamentos que eu precisaria. Algo mais?}
+{201}{}{Quem são as pessoas por ali naquelas gaiolas?}
+{202}{}{O que é o engraçado líquido colorido que eu vi em torno da EPA?}
+{203}{}{De onde você tira todos os equipamentos?}
+{210}{}{Aqueles nas primeiras celas por esse muro são alguns aldeões que vagaram aqui por engano e eu os capturei para uso mais tarde. Os outros de aparência mais forte são meus próprios guerreiros para ... emergências.}
+{211}{}{...para usar mais tarde? O que você quer dizer?}
+{212}{}{Obrigado. Posso fazer outra pergunta?}
+{213}{}{Direito. Obrigado. Eu preciso ir agora.}
+{220}{}{Químicos e tanques de VEF principalmente. Tudo estava completo em grandes barris para armazenamento seguro aqui na EPA. Infelizmente, houve um pequeno acidente e um enorme vazamento químico forçou todos, exceto aqueles hologramas daft, a sair. Alguns dos produtos químicos vazaram para os níveis mais baixos. Agora estou usando isso como material de experimentação. Até agora, ofereceu alguns resultados promissores!}
+{221}{}{Que tipos de resultados? Quer dizer que você criou essas criaturas?}
+{222}{}{Então, onde você obter todos os seus equipamentos?}
+{230}{}{Aqui principalmente. A EPA foi originalmente projetada e decorada com todos os tipos de máquinas e, como todos os outros cientistas deixaram, nenhum foi usado. Estou acabando com algumas coisas agora depois de tantos anos ...}
+{231}{}{Deixa pra lá. Eu devo ir agora.
+}
+{240}{}{Drogas? Dezenas! Ao longo dos anos eu criei mentats, buffouts, stimpaks, kits médicos de diferentes pontos fortes, psicos e muitos outros que você não entenderia. Mas não faço mais isso. Eu criei o Sr. Chemmie! robô para fazer isso por mim. Está no complexo principal. Se você tem a inteligência e habilidades científicas que você diz, então, sinta-se livre para usá-lo para fazer qualquer droga que você deseja.}
+{241}{}{Que medicamentos você criou?}
+{242}{}{Onde posso encontrar o Chemmie!?}
+{243}{}{Obrigado. Digo, você já ouviu falar do jet?}
+{250}{}{Sim, criei muitas criaturas enquanto estive na EPA. Se você é um tipo explorador, então você pode ter encontrado alguns deles nos resíduos. Centauros? Flutuadores? Os aliens"? Eles vagam livremente agora nos resíduos. Acabei de reter alguns aqui e na base principal para futuras referências.}
+{251}{}{Só um minuto. Você está me dizendo que todas aquelas criaturas lá fora, as coisas que estão atacando o deserto e matando inocentes foram criadas por você ?!}
+{252}{}{Whoa, nota para si: não se enoje com o médico. Adeus.}
+{260}{}{'O que eu quero dizer?' O vírus da evolução forçada, é claro! Estou apenas começando a experimentar os efeitos sobre os seres humanos. Todos nós ouvimos a história do Mestre. Eu estava pensando em fazer algo parecido comigo mesmo. Um exército próprio seria certamente muito útil!}
+{261}{}{Você não acha isso um pouco imoral? Como você pode considerar uma coisa tão hedionda?}
+{262}{}{Apenas ficando ao redor dos humanos? Em que mais você trabalhou?}
+{263}{}{Bem, boa sorte com isso. Devo ir agora.}
+{270}{}{Sim, suponho que você pode. Você me diverte muito. O que mais posso responder pra você?}
+{271}{}{Diga-me novamente sobre essas pessoas.}
+{272}{}{O que é o engraçado líquido colorido em torno do EPA?}
+{273}{}{De onde você tira todos os equipamentos e suprimentos para suas experiências?}
+{280}{}{Não não não. Antes de sair, devo pedir-lhe uma coisa. Você poderia me fazer um pequeno favor? Não deixo a segurança do armazém por medo de serem roubadas. Preciso de algumas matérias-primas. Você poderia me ajudar?}
+{281}{}{Sim, suponho que sim. O que você precisa?}
+{282}{}{Não, estou muito ocupado no momento. Talvez alguma outra hora.}
+{290}{}{Sim, eu me perguntei o que o vírus faria em animais domesticados normais, salvo no armazenamento antes da guerra. O desafortunado teve afetado seus ciclos reprodutivos e eles procriaram muito rapidamente. Os soltei nos resíduos logo que percebi isso.}
+{291}{}{Você é um monstro! Não é de admirar que ninguém na área conheça você! Você deve ser descartado.}
+{292}{}{Bem, eu não concordo com o que você está fazendo, mas não há nada que eu possa fazer sobre isso. Adeus.}
+{300}{}{Medicamentos especiais? Bem, eu tenho cultivado uma nova safra de maconha. É uma droga pré-guerra que encontrei em um congelamento profundo. Eu só tenho estrume com as criaturas mutantes que você vê aqui, então era mais perigoso do que eu pensava. Os primeiros testes não tiveram muito sucesso, mesmo assim ...}
+{301}{}{Posso pegar um pouco dessa droga?}
+{302}{}{Por que não estavam a ser bem sucedido? O que aconteceu?}
+{310}{}{Sr. Chemmie! está localizado na seção nordeste do piso inferior da EPA. Ou talvez o noroeste ... Na verdade, está no último andar. Oh, não consigo lembrar mais. É um enorme pedaço de maquinaria. Você não pode perder isso.}
+{311}{}{Direito. Obrigado. Você mencionou que você tinha criado alguns medicamentos especiais. Como o que?}
+{320}{}{Facilmente. Sou cientista. Isto é o que eu faço. As experiências são minha vida. Embora diferente, é realmente apenas outro tipo de experiência.}
+{321}{}{Você está mexendo com coisas que você não deveria estar alterando! E se der errado? E se algumas das pessoas que você está trabalhando morrem !?}
+{330}{}{Eliminado! Ah não. Acho que não. Estou fazendo o trabalho que originalmente fui contratado para fazer. Investigue e experimente. Contudo, com o passar do tempo, você começa a ficar sem coisas para investigar, então você tem que ser mais liberal em suas idéias. Eu acho que uma vez foi chamado de "pensar fora da caixa".}
+{331}{}{Eu já tive o suficiente disso! Se ninguém vai parar você, então eu vou.}
+{332}{}{Você está doente e eu estou deixando. Adeus.}
+{340}{}{Sim, porque não? Fique a vontade. Há abundância nos galpões de armazenamento no nível da superfície. Eu acho que posso ter programado o Sr. Chemmie! para fazê-lo também. Não faço mais nada por aqui, pois ocupa muito espaço.}
+{341}{}{Obrigado! Você estava dizendo há um momento que você não teve sucesso em julgamentos iniciais? Por que isso?}
+{350}{}{Bem, alguns dos sujeitos de teste tiveram reações graves ao vírus, mas nem sequer valem a pena mencionar. Alguns erros aqui e ali são esperados em nossa linha de trabalho. Agora, se você me desculpar, tenho coisas para fazer.}
+{351}{}{Sim, eu suponho que eu faço bem. Adeus.}
+{360}{}{Em seguida, eles morrem. O que você espera que eu faça? Esta é a forma como se faz o progresso.}
+{361}{}{Monstruoso! Inacreditável! Você morre - agora!}
+{362}{}{Eu não aguento mais isso. Adeus. Eu não vou estar de volta em breve.}
+{370}{}{Jato? Sim, essa é a droga que a maior parte de Redding está em alta, se não estou enganada. É um composto excepcionalmente complexo e minhas máquinas não conseguiram reproduzi-lo mesmo em potência máxima. Por quê? O que você sabe disso?}
+{371}{}{Bem, eu tenho aqui comigo o seu criador.}
+{380}{}{[*Olhos brilham*] Realmente!? Quem? Posso vê-lo? Talvez falar com ele?}
+{381}{}{Claro. O nome dele é Myron. Ele está bem aqui.}
+{390}{}{Obrigado por trazer esse garoto Myron para mim. Ele é muito experiente! Não tão intelectualmente adepto quanto eu, entendo, mas bem, no entanto. Se ele quiser se estabelecer, pode vir aqui como meu aprendiz.}
+{391}{}{Não tenho certeza de que ele gostaria de ser um aprendiz de alguém. É melhor irmos.}
+{400}{}{Um momento, antes de você ir. Por favor, pegue isso como um sinal por trazer Myron aqui. Não tenho nenhum uso real para isso.}
+{401}{}{Hey, obrigado. Hum, o que é?}
+{410}{}{É um Solar Scorcher. Foi um experimento meu. Ele de alimenta da energia do sol e, portanto, não é necessária munição. Na verdade, funciona e será de grande utilidade para você, tenho certeza, nos resíduos profundos. Isso requer uma pergunta adicional na verdade ...}
 {411}{}{O que é isso?}
-{420}{}{You seem an adventurous type. I'm restricted to the grounds of the EPA to watch over many of the experiments, but I need some equipment that I've run out of. Could you collect a few things for me?}
-{421}{}{Yeah, I suppose so. What do you need?}
-{422}{}{No, I'm too busy at the moment saving my village. Maybe some other time.}
-{430}{}{Well, one of the only animals I haven't looked into in detail is the Golden Gecko. I need some research material before I can go any further. Could you collect, say, 10 golden gecko pelts and bring them back here to me? I'm sure I could find something here to give you.}
-{431}{}{No problem. I'll be back as soon as I have them.}
-{432}{}{I already have 10 pelts with me.}
-{440}{}{[Looks up at you.] What?}
-{441}{}{Uh, hello again. I didn't catch who you are the last time we spoke.}
-{450}{}{You again? What do you want now?}
-{451}{}{What do you do here? This place is like a ghost town.}
-{460}{}{If you do not wish to help me, then please leave me alone. Or, have you decided to lend your abilities?}
-{461}{}{Yes. What do you want me to do?}
-{462}{}{No, but as soon as I'm free I'll be back to help you.}
-{470}{}{Hello there. Have you calmed down at all yet?}
-{471}{}{No, I'm here to kill you. The world needs less people like you.}
-{472}{}{Yeah, I suppose so. I need to ask you some questions.}
-{480}{}{What do you want? I have experiments to watch over, you know!}
-{481}{}{Tell me about the drugs you're making.}
-{482}{}{Tell me about those people again.}
-{483}{}{I'm looking for work. Do you have any?}
-{484}{}{Where do you get all your equipment from?}
-{490}{}{Have you collected the pelts as I requested?}
+{420}{}{Você parece um tipo aventureiro. Estou restrito aos fundamentos da EPA para cuidar de muitas experiências, mas preciso de algum equipamento que acabei. Você poderia colecionar algumas coisas para mim?}
+{421}{}{Sim, suponho que sim. O que você precisa?}
+{422}{}{Não, estou ocupado no momento em salvar minha aldeia. Talvez outra hora.}
+{430}{}{Bem, um dos únicos animais que não procurei em detalhes é o Gecko Dourado. Preciso de algum material de pesquisa antes de poder ir mais longe. Você poderia coletar, digamos, 10 peles de gecko de ouro e trazê-las de volta aqui para mim? Tenho certeza de que poderia encontrar algo aqui para lhe dar.}
+{431}{}{Sem problemas. Eu voltarei assim que os tiver.}
+{432}{}{Eu já tenho 10 peles comigo.}
+{440}{}{[Olha para você.] O que?}
+{441}{}{Uh, olá novamente. Não percebi quem você é a última vez que falamos.}
+{450}{}{Você de novo? O que você quer agora?}
+{451}{}{O que você faz aqui? Este lugar é como uma cidade fantasma.}
+{460}{}{Se você não quiser me ajudar, então por favor, me deixe em paz. Ou, você já decidiu emprestar suas habilidades?}
+{461}{}{Sim. O que você quer que eu faça?}
+{462}{}{Não, mas assim como eu sou livre, eu vou estar de volta para o ajudar.}
+{470}{}{Olá. Você já se acalmou em tudo ainda?}
+{471}{}{Não, eu estou aqui para matar você. O mundo precisa de menos pessoas como você.}
+{472}{}{Sim, suponho que sim. Eu preciso fazer algumas perguntas.}
+{480}{}{O que você quer? Eu tenho experiências para assistir a mais, você sabe!}
+{481}{}{Conte-me sobre os medicamentos que você está fazendo.}
+{482}{}{Conte-me sobre essas pessoas novamente.}
+{483}{}{Eu estou procurando por trabalho. Você tem algum?}
+{484}{}{De onde você tira todo o seu equipamento?}
+{490}{}{Você já coletou as peles como eu pedi?}
 {491}{}{Sim, eles estão aqui.}
-{492}{}{No, not as yet.}
-{500}{}{Wonderful! Excellent! Let me see...ahh yes, these will do nicely! Now then, do you want another job?}
-{501}{}{Yes, if you have anything}
-{502}{}{Not just yet thanks. Bye.}
-{510}{}{Well, although the warehouse is where I do almost all of my work, I still need to enter the main complex from time to time. However, the lights have been permanently fixed on low setting. Sort this out for me so I can enter the EPA building itself.}
+{492}{}{Não, ainda não.}
+{500}{}{Maravilhoso!!! Excelente! Deixe-me ver...ah sim, estes farão muito bem! Agora, então, você quer outro trabalho?}
+{501}{}{Sim, se você tem alguma coisa}
+{502}{}{Ainda não, obrigado. Tchau.}
+{510}{}{Bem, embora o armazém seja onde eu faço quase todo o meu trabalho, ainda preciso entrar no complexo principal de vez em quando. No entanto, as luzes foram fixadas permanentemente em baixa configuração. Classifique isso para mim para que eu possa entrar no próprio edifício EPA.}
 {511}{}{Não há problema.}
 {512}{}{I'll get back to you when I have time to do it.}
 {513}{}{I've already done this! There were some loose wires on the main circuit board and I mana-}
