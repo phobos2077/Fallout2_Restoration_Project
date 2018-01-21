@@ -1,1 +1,1 @@
-{100}{}{You use up the entire can of plant spray.}
+{100}{}{Você usa toda a lata de spray de planta.}

@@ -94,7 +94,7 @@
 {710}{}{Buried Vault}
 {720}{}{Shady Sands}
 {721}{}{Cure Jarvis of Radscorpion Poison.}
-{722}{}{Make Poison Antidote.}
+{722}{}{Fazer O Antídoto Do Veneno.}
 {723}{}{Rescue Tandi from the Raiders.}
 {724}{}{Stop the Radscorpions.}
 {730}{}{Junktown}

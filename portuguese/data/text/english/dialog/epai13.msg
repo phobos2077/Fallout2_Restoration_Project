@@ -1,90 +1,88 @@
-{100}{}{Hibernation Chamber Control Computer. Select an option.}
-{101}{}{Subject history.}
-{102}{}{Retrieve a test subject.}
+{100}{}{Computador de controle da câmara de hibernação. Selecione uma opção.}
+{101}{}{Histórico do sujeito.}
+{102}{}{Recuperar um sujeito de teste.}
 {103}{}{[FEITO]}
-{104}{}{Hibernation Chambers. Three individuals were sealed within these chambers before the war, each for specific classified
- reasons. Subjects remain sealed and unaware of their surroundings. Log entries are available for each subject.}
-{105}{}{Return to Main Menu.}
-{106}{}{WARNING: Extended periods of time in a deep freeze environment alters the chemical processes of the body.
- Without proper application of chemicals to the subject's body on exiting the chambers, they may suffer from ERS
- (Environmental Rejection Syndrome). To ensure the safety of the subject, it is highly recommended that you place an ERSI
- (Environmental Rejection Syndrome Inhibitor) canister into the dispenser before continuing.}
-{107}{}{Oh wonderful. I've just woken up a pile of bones.}
-{108}{}{No, return to Main Menu.}
-{109}{}{Retrieving test subject.}
-{110}{}{Retrieving test subject.}
-{111}{}{Retrieving test subject.}
-{112}{}{Thank you for using the Hibernation Control Computer.}
+{104}{}{Câmaras de hibernação. Três indivíduos foram selados dentro dessas câmaras antes da guerra, cada um para classificados específicas
+  razões. Os sujeitos permanecem selados e desconhecem seus arredores. As entradas do registro estão disponíveis para cada assunto.}
+{105}{}{Voltar para o Menu Principal.}
+{106}{}{AVISO: períodos prolongados de tempo em um ambiente de congelamento profundo alteram os processos químicos do corpo.
+  Sem a aplicação adequada de produtos químicos ao corpo do sujeito na saída das câmaras, eles podem sofrer de ERS
+  (Síndrome de rejeição ambiental). Para garantir a segurança do sujeito, é altamente recomendável que você coloque um ERSI
+  (Inibidor da Síndrome de Rejeição Ambiental) pode entrar no dispensador antes de continuar.}
+{107}{}{Oh maravilhoso. Acabei de acordar uma pilha de ossos.}
+{108}{}{Não, voltar ao Menu Principal.}
+{109}{}{Recuperando o sujeito do teste.}
+{110}{}{Recuperando o sujeito do teste.}
+{111}{}{Recuperando o sujeito do teste.}
+{112}{}{Obrigado por usar o Computador de Controle de Hibernação.}
 {113}{}{Você vê um computador grande.}
-{114}{}{You see The Hibernation Control Computer.}
-{115}{}{You see a computer that is used to regulate anything to do with the Hibernation Vats.}
-{116}{}{Place ERSI canister into the dispenser.}
-{117}{}{Proceed anyway.}
-{118}{}{Environmental Rejection Syndrome Inhibitors were successfully applied to the specimen. Heart rate of specimen appears normal. Please
- proceed to the Cryo chamber for retrieval.}
-{119}{}{WARNING: No Environmental Rejection Syndrome Inhibitors were applied to the specimen. State of specimen is unknown. Please
- proceed to the Cryo chamber for retrieval.}
-{120}{}{Hmm, maybe I should go see if I can find one of these ERSI canisters. There's got to be someplace around here to get those chemicals...}
-{200}{}{Read log entries.}
-{210}{}{Please choose a subject.}
-{211}{}{Subject A.}
-{212}{}{Subject B.}
-{213}{}{Subject C.}
+{114}{}{Você vê o computador de controle de hibernação.}
+{115}{}{Você vê um computador que é usado para regular qualquer coisa a ver com as Cubas de Hibernação.}
+{116}{}{Coloque o recipiente ERSI no dispensador.}
+{117}{}{Proceda de qualquer maneira.}
+{118}{}{Os inibidores da síndrome de rejeição ambiental foram aplicados com sucesso na amostra. A frequência cardíaca do espécime parece normal. Por favor
+  avance para a câmara Cryo para recuperação.}
+{119}{}{ADVERTÊNCIA: Não foram aplicados inibidores da síndrome de rejeição ambiental à amostra. O estado do espécime é desconhecido. Por favor
+  avance para a câmara Cryo para recuperação.}
+{120}{}{Hmm, talvez eu devesse ir ver se eu posso encontrar uma dessas latas ERSI. Tem que haver algum lugar por aqui para obter esses produtos químicos ...}
+{200}{}{Leia entradas de registo.}
+{210}{}{Por favor, escolha um assunto.}
+{211}{}{Sujeito A.}
+{212}{}{Sujeito B.}
+{213}{}{Sujeito C.}
 {214}{}{Voltar.}
-{220}{}{Log Entry #87983: It's finally happened. They've launched their nukes at us and we've launched ours at them.
- Brass won't go into detail, but it's probably already Judgment Day topside by now. Radio communications have been disrupted
- indefinitely. Good thing I've grown used to this place. I've got no illusions about ever seeing the surface again.}
+{220}{}{Entrada de Log #87983: o Que finalmente aconteceu. Eles já lançaram suas armas nucleares em nós, e nós lançamos o nosso a eles. Bronze não vou entrar em detalhes, mas é, provavelmente, já o Dia do Juízo, sim, por agora. Rádio comunicações foram interrompidas indefinidamente. Coisa boa habituei a este lugar. Eu não tenho ilusões sobre eu nunca mais ver de novo a superfície.}
 {221}{}{[MAIS]}
-{222}{}{They brought in a woman to be cryoed. Didn't say why; only that it was top secret business. She was quite the looker.
- Petite, Chinese-looking, and there was something about her eyes. She took down two secret service agents when she found
- out what we had in mind. Caught them off guard and opened them both up with one of Delnay's scalpels, Jesus Christ. That was
- a sight for tired eyes. The third one managed to subdue her. It's not like she wouldn't be spending the rest of her
- life down here if she'd managed to kill them all, anyway. She's unconscious now and they're prepping her tank.
- It's right next to that psychopath Patrick's, too. What a shame. I would've liked to have gotten to know her better.
- -Dr. David Kimble, 10/23/2077}
-{230}{}{Log Entry #81977: Dexter "Dex" Patrick is a rather interesting specimen. He's a narcissistic, woman hating,
- sociopathic murderer, known to occasionally dabble in necrophilia and cannibalism. He is cold hearted to the extreme,
- showing no remorse for his victims, who ranged from innocent children to the elderly and disabled. His preferred targets
- were attractive young women, who he'd usually seduce into intercourse before brutally dispatching them.}
+{222}{}{Eles trouxeram uma mulher para ser criada. Não disse por quê? só que era um negócio secreto. Ela era bem conhecida.
+  Petite, de aparência chinesa, e havia algo sobre seus olhos. Ela tirou dois agentes de serviços secretos quando encontrou
+  O que nós tenhamos em mente. Pegou-os com a guarda baixa e abriu os dois com um dos bisturis de Delnay, Jesus Cristo. Aquilo foi
+  uma visão para os olhos cansados. O terceiro conseguiu subjugá-la. Não é como se ela não passasse o resto daquela
+  vida aqui fora, se ela tivesse conseguido matá-los todos, mesmo assim. Ela está inconsciente agora e eles estão preparando seu tanque.
+  É mesmo ao lado da psicopata Patrick's também. Que pena. Gostaria de ter conseguido conhecê-la melhor.
+  -Dr. David Kimble, 23/10/2077}
+{230}{}{Log Entry # 81977: Dexter "Dex" Patrick é um espécime bastante interessante. Ele é um narcisista, mulher odiando,
+  assassino sociopático, conhecido por ocasionalmente em necrofilia e canibalismo. Ele tem coração frio ao extremo,
+  sem remorso para as vítimas, que variaram de crianças inocentes a idosos e deficientes. Seus alvos preferidos
+  eram mulheres jovens e atraentes, que ele geralmente seduziria na relação sexual antes de enviá-las brutalmente.}
 {231}{}{[MAIS]}
-{232}{}{Despite his antisocial behavior, he remains remarkably sociable, even charming. In fact, several female
- staff members seem to be taken with him, despite knowing the numerous atrocities he's committed. Dex's confirmed
- victims is currently 68, though he has boasted the actual number is well into the triple digits.
- While Dex has proven to be a compulsive liar, I still find it difficult to doubt the validity of his claim.}
+{232}{}{Apesar de seu comportamento anti-social, ele permanece incrivelmente sociável, até mesmo encantador. Na verdade, várias mulheres
+  Os membros da equipe parecem ser levados com ele, apesar de conhecer as numerosas atrocidades que cometeu. Dex confirmou
+  Atualmente, as vítimas têm 68, embora tenha se vangloriado de que o número real esteja bem nos três dígitos.
+  Embora o Dex tenha provado ser um mentiroso compulsivo, ainda acho difícil duvidar da validade de sua reivindicação.}
 {233}{}{[MAIS]}
-{234}{}{The only emotional attachment Dex seems to have is for a mid-20th century rock 'n roll idol, whom he admires
- as a role model and perhaps even as a father figure. He's also shown an unhealthy attachment to a severed human ear,
- which we have identified as belonging to Vicky Safron, Dex's high school sweet heart and one of his early victims.
- He claims to keep the ear in his pocket so Vicky can hear the screams of all his victims.}
+{234}{}{O único apego emocional que Dex parece ter é para um ídolo do rock and roll do meio do século 20, a quem ele admira
+  como um modelo a seguir e talvez até como uma figura paterna. Ele também mostrou um apego insalubre a uma orelha humana cortada,
+  que identificamos como pertencendo a Vicky Safron, o coração doce do ensino médio de Dex e uma de suas primeiras vítimas.
+  Ele afirma manter a orelha no bolso para que Vicky possa ouvir os gritos de todas as vítimas.}
 {235}{}{[MAIS]}
-{236}{}{I've decided to have Dexter frozen for the time being, as the government has re-routed funds away from our
- project in order to further fuel the war effort, and my team is being re-assigned to other locations. Let it be noted
- that I deem this a terrible mis-step, as our studies on the nature of human evil are progressing swiftly and I believe
- we are near a major breakthrough that would be far more valuable to our government than the production of more "tin suits".
- But I digress.}
+{236}{}{Decidi ter o Dexter congelado por enquanto, já que o governo reencaminhou fundos para longe de nossos
+  projeto para aumentar ainda mais o esforço de guerra, e minha equipe está sendo reatribuída a outros locais. Deixar notar
+  que eu considero este um péssimo passo, já que nossos estudos sobre a natureza do mal humano estão progredindo rapidamente e eu acredito
+  Estamos perto de um grande avanço que seria muito mais valioso para o nosso governo do que a produção de mais "fatos de lata".
+  Mas eu divago.}
 {237}{}{[MAIS]}
-{238}{}{Dex is to remain frozen here until the powers-that-be come to their senses and resurrect this vastly important
- project. I only hope I'm still around to resume my work when that day comes.
- -Dr. Dustin C. Delnay, 04/13/2075}
-{240}{}{Log Entry #80052: Sergeant Christopher "Cat" Jules was assigned to the EPA military security detail on 17/02/2074.
- Prior to this, he was attached to a reconnaissance unit of the 205th Airborne. The Sergeant has an impressive combat record,
- and is one of the highest-graded energy arms and unarmed combat specialists in his unit. However, these achievements are
- marred by an equally long history of accusations of very petty theft, repeated counts of being out of uniform, and an attitude
- of extreme arrogance to superior officers.}
+{238}{}{Dex deve permanecer congelado aqui até que os poderes - que - sejam os seus sentidos e ressuscitem esse muito importante
+  projeto. Eu só espero que eu ainda esteja por perto para retomar o meu trabalho quando esse dia chegar.
+  -Dr. Dustin C. Delnay, 13/04/2075}
+{240}{}{Entrada de registro # 80052: O sargento Christopher "Cat" Jules foi designado para detalhes de segurança militar da EPA em 17/02/2074.
+  Antes disso, ele estava ligado a uma unidade de reconhecimento do 205th Airborne. O sargento tem um impressionante recorde de combate,
+  e é um dos braços de energia de maior classificação e especialistas de combate desarmados em sua unidade. No entanto, essas realizações são
+  marcado por uma história igualmente longa de acusações de roubo muito insignificante, repetidas razões de estar fora de uniforme e uma atitude
+  de extrema arrogância para oficiais superiores.}
 {241}{}{[MAIS]}
-{242}{}{Sgt. Jules was recruited as a test subject for the Human Reflex Enhancement Project on 10/05/2075 in exchange for the removal of
- some of these reports from his file. Complications arose from the initial trial and Sgt. Jules was sedated for the safety
- of himself those around him.}
+{242}{}{Sargento. Jules foi recrutado como sujeito de teste para o Projeto de Reflexão Humana em 10/05/2075 em troca da remoção de
+  Alguns desses relatórios de seu arquivo. Complicações surgiram do julgamento inicial e do Sgt. Jules foi sedado pela segurança
+  de si mesmo a seu redor.}
 {243}{}{[MAIS]}
-{244}{}{A few days have passed and Sgt. Jules appears to be in good health, but he has developed lengthened canines and
- certain eccentric characteristics in addition to the project goals of improved reflexes and heightened sensory capability.
- I have logged several reports with the base Commander requesting further funding, but alas it seems there are those who do not
- wish for my project to continue. This is quite a shame, since the tissue samples and psych reports for Sgt. Jules indicate
- only minor disfigurement and a tendency to a slightly reduced attention span. Other than this, he is perfectly fit
- for service and in fact, he is likely more capable than before as a result of the treatment. Until more funding is
- received for this project, Sgt. Jules shall remain in suspended animation.
- -Dr. R.D. Crichton, 11/04/2075}
-{300}{}{Choose a subject:}
-{301}{}{Sergeant Christopher "Cat" Jules}
+{244}{}{Passaram-se alguns dias e Sgt. Jules parece estar em boa saúde, mas ele desenvolveu caninos alongados e
+  certas características excêntricas, além dos objetivos do projeto de reflexos melhorados e capacidade sensorial aumentada.
+  Tenho registado vários relatórios com o Comandante da base solicitando um financiamento adicional, mas, infelizmente, parece que existem aqueles que não o fazem
+  Desejo que meu projeto continue. Isso é bastante envergonhado, já que as amostras de tecido e os relatórios de psicologia para Sgt. Jules indica
+  apenas desfiguração menor e uma tendência para uma capacidade de atenção ligeiramente reduzida. Além disso, ele está perfeitamente em forma
+  Para o serviço e de fato, ele provavelmente é mais capaz do que antes como resultado do tratamento. Até que mais financiamento seja
+  recebeu para este projeto, Sgt. Jules deve permanecer em animação suspensa.
+  -Dr. R.D. Crichton, 11/04/2075}
+{300}{}{Escolha um sujeito:}
+{301}{}{Sargento Christopher "Cat" Jules}
 {302}{}{Dexter "Dex" Patrick}
 {303}{}{Kitsune}

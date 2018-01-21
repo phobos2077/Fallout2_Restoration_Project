@@ -1,5 +1,5 @@
-{100}{}{Data Storage and Maintenance. Select Option.}
-{101}{}{Run Diagnostic Check.}
+{100}{}{Armazenamento e manutenção de dados. Selecione a opção.}
+{101}{}{Executar Verificação De Diagnóstico.}
 {102}{}{[FEITO]}
 {103}{}{Running Check... Initiating...Compiling...Thank you for being patient during this procedure...Complete. Data storage running at 84% efficiency. Wiring fault on this computer's mainframe is causing magnetic coils to run at a high power. The resulting magnetic field could cause interference with other devices if not fixed. End check.}
 {104}{}{[FEITO]}

@@ -31,32 +31,32 @@
 {272}{}{Fazer Saco de um Médico.}
 {280}{}{Ótima escolha! Para fazer um kit de primeiros socorros, por favor me alimente: um Stimpak, uma agulha Hypodermic vazia, um antídoto de veneno e um Rad Away! Yum-yum!}
 {282}{}{Faça um Kit de Primeiros Socorros.}
-{290}{}{Great choice! To make Poison, please feed me: one Empty Hypodermic needle, one Scorpion Tail and one Nuka Cola! Yum-yum!}
-{292}{}{Make some poison.}
-{300}{}{Great choice! To make Buffout, please feed me: one First Aid Kit, one bottle of Beer and one Nuka Cola! Yum-yum!}
-{302}{}{Make Buffout.}
-{310}{}{Great choice! To make Rad-X, please feed me: one First Aid Kit and one Nuka Cola! Yum-yum!}
-{312}{}{Make a Rad-X.}
-{320}{}{Great choice! To make Rad Away, please feed me: one Nuka Cola, one Empty Hypodermic needle and one Stimpak! Yum-yum!}
-{322}{}{Make a Rad Away.}
-{330}{}{Great choice! To make a Poison Antidote, please feed me: one Scorpion Tail and one bottle of Booze! Yum-yum!}
-{331}{}{Make Poison Antidote.}
-{340}{}{Oh boy! A special request! What kind of special drug would you like Mr. Chemmie to create for you today?!}
-{341}{}{Marijuana.}
-{342}{}{Doctor's Chemicals.}
-{343}{}{My friend Cassidy has a problem with his heart. Can you make something to help him?}
-{344}{}{Environmental Rejection Syndrome Inhibitors.}
-{350}{}{This is your lucky day! I have enough chemicals in my storage tanks to make these! Would you like Mr. Chemmie to make them for you?!}
-{351}{}{Create.}
-{352}{}{Return to Main Menu.}
-{360}{}{Uh-oh! Sorry, but I no longer have the chemicals needed to create these!}
-{370}{}{Selection created! That was fun! Please collect the item from the machine! Thank you for using Mr. Chemmie! Let's make drugs again sometime!}
-{371}{}{More Options.}
-{375}{}{Mr. Chemmie loves to help! I can create a substance called nitroglycerin, which will control an irregular heartbeat and prevent heart attacks!}
+{290}{}{Ótima escolha! Para fazer Veneno, por favor me alimente: uma agulha Hypodermic vazia, uma Cauda de Escorpião e uma Nuka Cola! Yum-yum!}
+{292}{}{Fazer algum veneno.}
+{300}{}{Grande escolha! Para fazer Buffout, por favor, me alimentar: um Kit de Primeiros Socorros, uma garrafa de Cerveja e um Nuka Cola! O Yum-yum!}
+{302}{}{Fazer Buffout.}
+{310}{}{Grande escolha! Para fazer Rad-X, por favor, me alimentar: um Kit de Primeiros Socorros e um Nuka Cola! O Yum-yum!}
+{312}{}{Fazer um Rad-X.}
+{320}{}{Grande escolha! Para fazer Rad Away, por favor, me alimentar: um Nuka Cola, uma agulha Hipodérmic Vazia e um Stimpak! O Yum-yum!}
+{322}{}{Fazer um Rad Away.}
+{330}{}{Grande escolha! Para fazer um Antídoto do Veneno, por favor, me alimentar: uma Cauda de Escorpião e uma garrafa de Booze! O Yum-yum!}
+{331}{}{Fazer O Antídoto Do Veneno.}
+{340}{}{Oh garoto! Um pedido especial! Que tipo de droga especial você gostaria que o Sr. Chemmie criasse para você hoje ?!}
+{341}{}{Maconha.}
+{342}{}{Químicos do médico.}
+{343}{}{Meu amigo Cassidy tem um problema com seu coração. Você pode fazer algo para ajudá-lo?}
+{344}{}{Inibidores da síndrome de rejeição ambiental.}
+{350}{}{Esse é seu dia de sorte! Eu tenho produtos químicos suficientes em meus tanques de armazenamento para fazer isso! Você gostaria que o Sr. Chemmie os fizesse por você ?!}
+{351}{}{Criar.}
+{352}{}{Voltar para o Menu Principal.}
+{360}{}{Uh-oh! Desculpe, mas não tenho mais os produtos químicos necessários para criar esses!}
+{370}{}{Seleção criada! Foi divertido! Colecione o item da máquina! Obrigado por usar o Sr. Chemmie! Vamos fazer drogas novamente em algum momento!}
+{371}{}{Mais Opções.}
+{375}{}{O Sr. Chemmie gosta de ajudar! Eu posso criar uma substância chamada nitroglicerina, que irá controlar um batimento cardíaco irregular e prevenir ataques cardíacos!}
 {380}{}{Rad-X}
 {381}{}{Rad Away}
 {382}{}{Algo Especial}
 {383}{}{Nada}
-{390}{}{This is your lucky day! I have just enough chemicals in my storage tanks to make one batch of ERSIs! Would you like Mr. Chemmie to make them for you?!}
-{391}{}{Create.}
+{390}{}{Esse é seu dia de sorte! Tenho apenas produtos químicos suficientes em meus tanques de armazenamento para fazer um lote de ERSIs! Você gostaria que o Sr. Chemmie os fizesse por você ?!}
+{391}{}{Criar.}
 {392}{}{Sair.}

@@ -1,11 +1,11 @@
-{100}{}{You see a pamphlet.}
+{100}{}{Você vê um panfleto.}
 {101}{}{}
-{102}{}{This is an introductory leaflet given out at the start of tours.}
-{200}{}{Welcome to the EPA! When touring our facility, please don't be alarmed by the sight of translucent people
- wandering the halls. They're not ghosts -- they're our friendly new staff of holograms! Think of them as computer programs
- given human form through the magic and wonders of science! They'd be happy to answer any questions you may have,
- so please, don't hesitate to approach them. WARNING! Holograms exist via a suspended crystal with anti-gravimetric
- properties. These can be highly volatile if tampered with, so please, for your own safety, do not attempt to touch any
- of the holograms. Thank you and enjoy your tour!}
-{201}{}{END}
-{202}{}{You need to take this out of inventory first.}
+{102}{}{Este é um folheto introdutório distribuído no início dos passeios.}
+{200}{}{Bem-vindo à EPA! Ao visitar nossas instalações, não fique alarmado com a visão de pessoas translúcidas
+  vagando pelos corredores. Eles não são fantasmas - eles são nossa nova e amigável equipe de hologramas! Pense neles como programas de computador
+  Força humana dada através da magia e das maravilhas da ciência! Eles ficariam felizes em responder quaisquer perguntas que você pudesse ter,
+  então por favor, não hesite em abordá-los. ATENÇÃO! Os hologramas existem através de um cristal suspenso com anti-gravimétrico
+  propriedades. Estes podem ser altamente voláteis se forem adulterados, por isso, por sua própria segurança, não tente tocar em qualquer
+  dos hologramas. Obrigado e aproveite o seu passeio!}
+{201}{}{FIM}
+{202}{}{Você precisa tirar isso do inventário primeiro.}

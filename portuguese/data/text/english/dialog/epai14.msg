@@ -1,12 +1,12 @@
-{100}{}{The generator has a damaged circuit board. Maybe you could scavenge replacement parts from some junk.}
-{101}{}{You see a generator.}
-{102}{}{You see an EPA lighting generator.}
-{103}{}{You see a generator that controls the lighting in the EPA.}
-{104}{}{After a lengthy search, a circuit board with some damaged pieces is located. Maybe if some junk is found to scavenge through, some replacement parts could be obtained.}
-{105}{}{There's the problem!}
-{106}{}{The broken parts have been mended together and the generator is back online.}
-{107}{}{Nothing wrong can be found with the generator. It just doesn't seem work.}
-{108}{}{It's working. There's nothing else to do.}
-{109}{}{Something doesn't seem right with this generator.}
+{100}{}{O gerador possui uma placa de circuito danificada. Talvez você possa tirar peças de reposição de algum lixo.}
+{101}{}{Você vê um gerador.}
+{102}{}{Você vê um gerador de iluminação EPA.}
+{103}{}{Você vê um gerador que controla a iluminação do EPA.}
+{104}{}{Após uma longa busca, uma placa de circuito com algumas peças danificadas está localizada. Talvez, se algum lixo for descoberto, algumas peças de reposição poderiam ser obtidas.}
+{105}{}{Há o problema!}
+{106}{}{As partes quebradas foram reparadas e o gerador voltou a estar conectado.}
+{107}{}{Nada de errado pode ser encontrado com o gerador. Ele só não parece funcionar.}
+{108}{}{Está funcionando. Não há mais nada a fazer.}
+{109}{}{Algo não parece certo com este gerador.}
 {200}{}{*whirr*}
 {201}{}{*bzzt*}
