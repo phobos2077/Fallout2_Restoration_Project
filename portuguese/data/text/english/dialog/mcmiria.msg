@@ -101,7 +101,7 @@
 {1009}{}{Okay, muffin, but do we have to stop with just the armor?}
 {1010}{}{Sharp weapons like knives get me excited although I can use weapons like an SMG in
  a pinch if I need to. Just don't expect me to actually hit anything.}
-{1020}{}{We need to talk about the distance between us.}
+{1020}{}{Precisamos falar a distância entre nós.}
 {1100}{}{I'm completely healed and ready to go.}
 {1200}{}{Hardly more than a scratch left on me now.}
 {1300}{}{Well, I'm mostly healed -- but I could use more healing when we get a chance.}
