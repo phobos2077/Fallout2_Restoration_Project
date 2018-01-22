@@ -45,27 +45,27 @@
 {144}{}{O porta-voz do imperador! Morto! A cidade desmoronará!}
 {145}{}{O que acontece agora?}
 {146}{}{Espero que os selvagens não nos invadam agora.}
-{147}{}{The good always die young.}
-{148}{}{I hope we can survive without Ken Lee.}
-{149}{}{I hear that Ken Lee was the only one who kept the Emperor in line.}
-{150}{}{I hear that the Emperor was only a façade for Ken Lee. }
-{151}{}{Maybe Lo Pan could take Ken Lee's spot...}
+{147}{}{Os bons sempre morrem jovens.}
+{148}{}{Eu espero que nós possamos sobreviver sem Ken Lee.}
+{149}{}{Ouvi dizer que Ken Lee foi o único que manteve o Imperador em linha.}
+{150}{}{Ouvi dizer que o Imperador era apenas uma fachada para Ken Lee. }
+{151}{}{Talvez Lo Pan pudesse ocupar o lugar de Ken Lee ...}
 {152}{}{Trabalho, trabalho, trabalho. Arroz, arroz, arroz. ::suspiro::}
 {153}{}{Não existe mais na vida do que isso?}
 {154}{}{Nós somos mais espertos do que você pensa.}
 {155}{}{Olha! Um lao wai!}
-{163}{}{You killed AHS-9? Yeah!}
-{164}{}{Those Hubologists give me the creeps.}
-{165}{}{You have done us a great service.}
-{166}{}{Death to the Hubologists!}
-{167}{}{This will hurry those Hubologists out of here.}
-{168}{}{Stupid Hubologists, can't even protect their own leader.}
-{169}{}{The Hubologists better not come after us in revenge.}
-{170}{}{I guess you're not a spy.}
-{171}{}{Son of a pig! Die!}
-{172}{}{You have dishonored your family!}
-{173}{}{Leave us alone, lao wai!}
-{174}{}{Haven't you done enough damage?}
+{163}{}{Você matou AHS-9? Sim!}
+{164}{}{Aqueles Hubologistas me dão arrepios.}
+{165}{}{Você nos fez um excelente serviço.}
+{166}{}{Morte aos Hubologistas!}
+{167}{}{Isso vai apressar aqueles Hubologistas fora daqui.}
+{168}{}{Estúpidos Hubologistas, nem podem proteger seu próprio líder.}
+{169}{}{Os Hubologistas melhor não virem depois de nossa vingança.}
+{170}{}{Eu acho que você não é um espião.}
+{171}{}{Filho de um porco! Morra!}
+{172}{}{Você tem desonrado a sua família!}
+{173}{}{Deixe-nos em paz, lao wai!}
+{174}{}{Você não fez danos suficientes?}
 {175}{}{I hate you!}
 {176}{}{Leave this city!}
 {177}{}{Go home to your people!}

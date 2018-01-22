@@ -47,26 +47,26 @@
 {146}{}{The Emperor's mouthpiece! Dead!}
 {147}{}{O que acontece agora?}
 {148}{}{I hope the savages don't overrun us now!}
-{149}{}{The good always die young.}
+{149}{}{Os bons sempre morrem jovens.}
 {150}{}{I hope we can survive the winter without Ken Lee.}
-{151}{}{I hear that Ken Lee was the only one who kept the Emperor in line.}
-{152}{}{I hear that the Emperor was only a façade for Ken Lee. }
+{151}{}{Ouvi dizer que Ken Lee foi o único que manteve o Imperador em linha.}
+{152}{}{Ouvi dizer que o Imperador era apenas uma fachada para Ken Lee. }
 {153}{}{Trabalho, trabalho, trabalho. Arroz, arroz, arroz. ::suspiro::}
 {154}{}{Não existe mais na vida do que isso?}
 {155}{}{Nós somos mais espertos do que você pensa.}
 {156}{}{Look! An outsider!}
 {164}{}{You killed AHS-9? Good job!}
-{165}{}{Those Hubologists give me the creeps.}
+{165}{}{Aqueles Hubologistas me dão arrepios.}
 {166}{}{Honored visitor, you have done us a great service.}
-{167}{}{Death to the Hubologists!}
+{167}{}{Morte aos Hubologistas!}
 {168}{}{Maybe this will hurry those Hubologists out of here.}
-{169}{}{Stupid Hubologists, can't even protect their own leader.}
+{169}{}{Estúpidos Hubologistas, nem podem proteger seu próprio líder.}
 {170}{}{I just hope the Hubologists don't come after us in revenge.}
 {171}{}{I guess you're not a spy after all.}
-{172}{}{Son of a pig! Die!}
-{173}{}{You have dishonored your family!}
-{174}{}{Leave us alone, lao wai!}
-{175}{}{Haven't you done enough damage?}
+{172}{}{Filho de um porco! Morra!}
+{173}{}{Você tem desonrado a sua família!}
+{174}{}{Deixe-nos em paz, lao wai!}
+{175}{}{Você não fez danos suficientes?}
 {176}{}{I hate you!}
 {177}{}{Leave this city!}
 {178}{}{Go home to your people!}
