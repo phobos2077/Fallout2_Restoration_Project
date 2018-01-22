@@ -1,8 +1,8 @@
-{100}{}{You see an anxious Shi guard.}
-{101}{}{The guard's eyes shift nervously about the gloom.}
-{200}{}{This place is sacred. Incredibly eerie, but sacred.}
-{201}{}{Let's get this over with.}
-{202}{}{I can feel the spirits of my ancestors among us.}
-{203}{}{Go do your tech thing so can return to the mainland.}
-{204}{}{Did you hear that? I swear I heard something.}
-{205}{}{Why do I always get assigned to this? }
+{100}{}{Você vê um guarda Shi ansioso.}
+{101}{}{Os olhos do guarda se movem nervosamente sobre a escuridão.}
+{200}{}{Este lugar é sagrado. Incrivelmente misterioso, mas sagrado.}
+{201}{}{Vamos acabar com isso.}
+{202}{}{Eu posso sentir o espírito de meus ancestrais entre nós.}
+{203}{}{Vá fazer a sua tec coisa, então pode voltar para o continente.}
+{204}{}{Você ouviu? Eu juro que eu ouvi algo.}
+{205}{}{Por que sempre me atribuem isso?}

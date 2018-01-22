@@ -40,7 +40,7 @@
 {139}{}{A spleen? Ha ha! Yes, Chip from the Valdez lost his spleen in a card game the other day. I sold it to Dr. Wong. He was fascinated by it.}
 {140}{}{Dr. Wong? Where can I find him?}
 {141}{}{How do you lose a spleen?}
-{142}{}{Thanks. I have more questions.}
+{142}{}{Obrigado. Eu tenho mais perguntas.}
 {143}{}{Ah, so. Bye.}
 {144}{}{Dr. Wong is the head scientist in the Steel Palace. Seek him there.}
 {145}{}{How do you lose a spleen, incidentally?}

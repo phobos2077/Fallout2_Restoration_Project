@@ -37,7 +37,7 @@
 {281}{}{Yes, I'm ready to go.}
 {282}{}{Não, ainda não.}
 {290}{}{Can't you see I'm busy here?}
-{300}{}{Me ride metal fishy-fish?}
+{300}{}{Eu passeio de peixes de peixe de metal?}
 {310}{}{[He looks at you as if you're dumbest creature he could possibly imagine. Slowly, he shakes his head.] You no ride
  metal fishy-fish. You go. You go, or I shoot. Understand?}
 {311}{}{Okie, bu-bye!}

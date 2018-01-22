@@ -1,14 +1,14 @@
-{100}{}{You see a vigilant Shi guard.}
-{101}{}{This scowling man appears to be guarding the motorboat. He seems to be taking his job very seriously.}
-{200}{}{[He eyes you suspiciously.] Help you with something?}
-{201}{}{Nope. I'm all set. Bye.}
-{202}{}{I was just wondering what you're doing.}
-{203}{}{Say, that's a nice boat you got there. Does that thing still work?}
-{204}{}{Me ride metal fishy-fish?}
-{210}{}{None of your business, outsider. Piss off.}
-{211}{}{Poor choice of words, asshole. They're gonna be your last.}
-{212}{}{I can take a hint. No need to be a dick about it. Bye.}
-{213}{}{Whatever you say, buddy.}
+{100}{}{Você vê um guarda Shi vigilante.}
+{101}{}{Esse homem franzido parece estar guardando a lancha. Ele parece estar levando seu trabalho muito a sério.}
+{200}{}{[Ele olha você com desconfiança.] Ajudá-lo com alguma coisa?}
+{201}{}{Não. Eu tenho tudo definido. Tchau.}
+{202}{}{Eu estava imaginando o que você está fazendo.}
+{203}{}{Diga, é um bom barco, você chegou lá. Isso ainda funciona?}
+{204}{}{Eu passeio de peixes de peixe de metal?}
+{210}{}{Nenhum dos seus negócios, estranho. Não me chateies.}
+{211}{}{Pobre escolha de palavras, idiota. Elas serão as suas últimas.}
+{212}{}{Eu posso dar uma sugestão. Não precisa ser um escroto sobre isso. Tchau.}
+{213}{}{O que você diz, amigo.}
 {220}{}{[He looks at you as if you're dumbest creature he could possibly imagine. Slowly, he shakes his head.] You no ride metal fishy-fish. You go. You go, or I shoot. Understand?}
 {221}{}{Okie, bu-bye!}
 {222}{}{You meanie-man. Me smash meanie-man!}

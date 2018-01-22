@@ -67,7 +67,7 @@
 {181}{}{Neither. I have other questions, though.}
 {182}{}{Our people landed here on the submarine Shih-huang-ti, when the missiles exploded over the world. With the aid of a cult, we, the Shi, rebuilt San Francisco. That is the short version.}
 {183}{}{How about the long version?}
-{184}{}{Thanks. I have more questions.}
+{184}{}{Obrigado. Eu tenho mais perguntas.}
 {185}{}{Obrigado.}
 {186}{}{The long version is this: We are here because our people are the descendants of the crew of a nuclear submarine, called the Shih-huang-ti. When the missiles fell in the Great Deluge, the systems aboard the submarine failed and we drifted in the dark for many days.}
 {187}{}{-more-}
@@ -83,7 +83,7 @@
 {197}{}{Sim.}
 {198}{}{Não.}
 {199}{}{Tell your friend to come here and I will replace it for him.}
-{200}{}{Thanks. I have more questions.}
+{200}{}{Obrigado. Eu tenho mais perguntas.}
 {201}{}{Obrigado.}
 {202}{}{I can do nothing for him, until you have the $1000. Good day.}
 {203}{}{Good day.}

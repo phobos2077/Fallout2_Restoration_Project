@@ -67,9 +67,9 @@
 {173}{}{Você tem desonrado a sua família!}
 {174}{}{Deixe-nos em paz, lao wai!}
 {175}{}{Você não fez danos suficientes?}
-{176}{}{I hate you!}
-{177}{}{Leave this city!}
-{178}{}{Go home to your people!}
-{179}{}{Do not darken my life with your face!}
-{180}{}{What will it take to get rid of you?}
-{181}{}{Help! Help!}
+{176}{}{Eu odeio você!}
+{177}{}{Deixe essa cidade!}
+{178}{}{Vá para casa, para o seu povo!}
+{179}{}{Não obscureça minha vida com seu rosto!}
+{180}{}{O que será necessário para se livrar de você?}
+{181}{}{Ajuda! Ajuda!}

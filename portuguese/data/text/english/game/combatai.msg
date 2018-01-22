@@ -3661,7 +3661,7 @@
 {70500}{}{Looks like I've no choice but to run...}
 {70501}{}{I'd rather flee than die.}
 {70502}{}{Alright. That's enough of this...}
-{70520}{}{Let's get this over with.}
+{70520}{}{Vamos acabar com isso.}
 {70521}{}{Your death shall come swiftly.}
 {70522}{}{Looks like it's come to this...}
 {70540}{}{You asked for this.}

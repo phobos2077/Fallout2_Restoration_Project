@@ -42,10 +42,10 @@
 {141}{}{Umm. Com certeza. Eu tenho mais perguntas.}
 {142}{}{Eu aposto que você chupou.}
 {143}{}{Você geralmente pode encontrar o Marc no bar.}
-{144}{}{Thanks. I have more questions.}
+{144}{}{Obrigado. Eu tenho mais perguntas.}
 {145}{}{Obrigado. Isso é tudo.}
 {146}{}{O Capitão geralmente na ponte. Apenas suba as escadas no bar.}
-{147}{}{Thanks. I have more questions.}
+{147}{}{Obrigado. Eu tenho mais perguntas.}
 {148}{}{Obrigado. Isso é tudo.}
 {149}{}{Sim, mas vai custar-lhe.}
 {150}{}{Qual é o seu preço?}

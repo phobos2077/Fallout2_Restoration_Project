@@ -17,7 +17,7 @@
 {162}{}{Por favor, não me faça mal!}
 {163}{}{Stay away from me!}
 {164}{}{Eeeeeeeee!}
-{165}{}{I hate you!}
+{165}{}{Eu odeio você!}
 {166}{}{Mommy mommy mommy!}
 {167}{}{Deixe-me em paz!}
 {168}{}{You stink!}

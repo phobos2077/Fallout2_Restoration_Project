@@ -23,7 +23,7 @@
 {122}{}{I have other questions to ask you, then.}
 {123}{}{Adeus.}
 {124}{}{The Captain is a tough-ass ol' military guy. He sits upstairs there and checks the place out. He's got some thorough knowledge about this ship.}
-{125}{}{Thanks. I have more questions.}
+{125}{}{Obrigado. Eu tenho mais perguntas.}
 {126}{}{Obrigado. Tchau.}
 {127}{}{Oh, all over the wasteland. We'd heard things about San Francisco, passed down from our elders. Some of us have ancestors who used to live here before the great war. You want to hear more?}
 {128}{}{Sim.}
