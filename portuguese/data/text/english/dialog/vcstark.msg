@@ -152,7 +152,7 @@
 {251}{}{Actually, I wiped them out already.}
 {252}{}{Any idea where these raiders are striking from?}
 {253}{}{All right. I had some other questions...}
-{254}{}{I'll do that.}
+{254}{}{Eu vou fazer isso.}
 {255}{}{Curious, huh? So am I. Now, what do you know about the raiders?}
 {256}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
 {257}{}{I don't know anything. That's why I'm asking you.}

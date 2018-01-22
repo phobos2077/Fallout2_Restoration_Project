@@ -75,7 +75,8 @@
 {174}{}{Knowledge costs you. Am I clear?}
 {175}{}{"The price of wisdom is above rubies."}
 {176}{}{Here's $50.}
-{177}{}{Forget it.}
+{177}{}{Esqueça.
+}
 {178}{}{Oh, you're that person.}
 {179}{}{Continuar}
 {180}{}{Well, as far as I'm concerned, here you're just a pile of dung.}
@@ -172,4 +173,4 @@
 {271}{}{You have "taken care of" the Hubologist for Merk.}
 {272}{}{You retrieved Dr. Henry's papers.}
 {300}{}{Where the hell do you think you are going?! Try that again and I'll kick your ass.}
-{301}{}{I warned you!}
+{301}{}{Eu avisei a você!}

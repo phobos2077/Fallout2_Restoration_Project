@@ -9,17 +9,18 @@
 {211}{}{Pobre escolha de palavras, idiota. Elas serão as suas últimas.}
 {212}{}{Eu posso dar uma sugestão. Não precisa ser um escroto sobre isso. Tchau.}
 {213}{}{O que você diz, amigo.}
-{220}{}{[He looks at you as if you're dumbest creature he could possibly imagine. Slowly, he shakes his head.] You no ride metal fishy-fish. You go. You go, or I shoot. Understand?}
-{221}{}{Okie, bu-bye!}
-{222}{}{You meanie-man. Me smash meanie-man!}
-{230}{}{[The guard grips his weapon and glares at you wordlessly.]}
-{231}{}{Can I borrow your boat for a minute?}
-{232}{}{I was just checking to see if you're still an asshole. Yep, looks like you are. Bye.}
-{233}{}{Sorry, I thought you were, uh, someone else. Bye.}
-{234}{}{I hope you know how to use that thing, 'cause I plan on taking that fucking boat, one way or another.}
-{240}{}{[He looks at you as if you're dumbest creature he could possibly imagine. Slowly, he shakes his head.] No. Now go away. Ask me another question, and I'll hurt you.}
-{241}{}{Alright, I'm going. Bye.}
-{242}{}{Is that a fact?}
-{250}{}{Get away from there!}
-{251}{}{Touch that again and I'll kill you.}
-{252}{}{I warned you!}
+{220}{}{[Ele olha para você como se você fosse a criatura mais estúpida que ele pudesse imaginar. Lentamente, ele balança a cabeça.] Você não usa peixe de peixe de metal. Você vai. Você vai, ou eu atiro. Compreende?}
+{221}{}{Ok, até!}
+{222}{}{Você é um homem de verdade. Eu esmago homem de verdade!}
+{230}{}{[O guarda aperta sua arma e olha para você sem palavras.]}
+{231}{}{Pode me emprestar seu barco por um minuto?}
+{232}{}{Eu estava só checando para ver se você ainda está um imbecil. Sim, parece que você está. Tchau.}
+{233}{}{Desculpe, eu pensei que você fosse, uh, alguém. Tchau.}
+{234}{}{Eu espero que você saiba como usar essa coisa, porque estou pensando em tomar a porra do barco, de um jeito ou de outro.}
+{240}{}{[Ele olha para você como se você fosse a criatura mais estúpida que ele pudesse imaginar. Lentamente, ele balança a cabeça.] Não. Agora vá embora. Pergunte-me outra pergunta, e eu vou te machucar.}
+{241}{}{Tudo bem, eu vou. Tchau.}
+{242}{}{Isto é fato?
+}
+{250}{}{Afaste-se daí!}
+{251}{}{Toque novamente e eu vou matar você.}
+{252}{}{Eu avisei a você!}

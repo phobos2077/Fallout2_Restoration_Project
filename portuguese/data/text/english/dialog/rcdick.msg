@@ -49,7 +49,7 @@
 {138}{}{Hey Dick…what's going on in town lately?}
 {139}{}{Hear any interesting rumors?}
 {140}{}{What's At-the-basket mean?}
-{141}{}{What's the matter with you?}
+{141}{}{Qual é o problema com você?}
 {142}{}{What happened to you?}
 {143}{}{I work a spell now and then here at the Morningstar. They can always use experienced help.}
 {144}{}{Let me ask you something else, then.}

@@ -8,7 +8,8 @@
 {107}{}{Quem é você?}
 {108}{}{Teach me how to fight.}
 {109}{}{I wish to challenge you.}
-{110}{}{Forget it.}
+{110}{}{Esqueça.
+}
 {111}{}{I am afraid I do not understand your language. ::he bows:: Good day.}
 {112}{}{Byeeeee!}
 {113}{}{I am the Dragon, friend. I fight oppression and my enemy, Lo Pan, who desires to control this town. I fight, and I teach others to fight.}

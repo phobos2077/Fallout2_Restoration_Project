@@ -40,6 +40,6 @@
 {300}{}{Eu passeio de peixes de peixe de metal?}
 {310}{}{[He looks at you as if you're dumbest creature he could possibly imagine. Slowly, he shakes his head.] You no ride
  metal fishy-fish. You go. You go, or I shoot. Understand?}
-{311}{}{Okie, bu-bye!}
-{312}{}{You meanie-man. Me smash meanie-man!}
+{311}{}{Ok, até!}
+{312}{}{Você é um homem de verdade. Eu esmago homem de verdade!}
 {500}{}{You talk your way into gaining access to the motor boat.}

@@ -45,7 +45,7 @@
 {137}{}{Looks as though a lot of people here are chem-users. What's going on in town lately?}
 {138}{}{Hear any interesting rumors?}
 {139}{}{Why do they call you Madame Modjeska?}
-{140}{}{What's the matter with you?}
+{140}{}{Qual é o problema com você?}
 {141}{}{What happened to you?}
 {142}{}{Lately, I don't do much at all. I used to run part of Lou's operation at the Malamute Saloon -
  but we had a falling out, so I quit.}

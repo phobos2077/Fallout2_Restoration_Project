@@ -32,7 +32,8 @@
 {131}{}{Oh. Right. I'm}
 {132}{}{Sure. My name is}
 {133}{}{Sim.}
-{134}{}{Forget it.}
+{134}{}{Esqueça.
+}
 {135}{}{Not everyone is granted a chance to see the Emperor. You must first prove your worth. Are you willing to prove yours?}
 {136}{}{Sim.}
 {137}{}{No. I've had enough tests in the last several months to last me a lifetime.}
@@ -47,7 +48,7 @@
 {145}{}{Adeus.}
 {146}{}{We do research that will change the world. For more answers to your questions, you should seek out Dr. Wong Yi Tze. }
 {147}{}{I will. And I have more questions.}
-{148}{}{I will. Bye.}
+{148}{}{Eu vou. Tchau.}
 {149}{}{We were the survivors from the wreck of a submarine. When we ran aground, we stripped the metal from the submarine to create the Palace. Some do not believe this.}
 {150}{}{Hm. It sounds almost as if you're berating someone.}
 {151}{}{I see. Thanks. Bye.}
@@ -62,7 +63,8 @@
 {160}{}{That's my real name! Now let me talk to the Emperor!}
 {161}{}{Excellent. This is what I require of you: there is a small military base north of here, called Navarro. There are numerous vertibirds there. We need plans and blueprints to manufacture some of our own. Fetch those and you will be on your way to seeing the Emperor.}
 {162}{}{Você tem isso.}
-{163}{}{Forget it.}
+{163}{}{Esqueça.
+}
 {164}{}{Will you reconsider taking our test?}
 {165}{}{Não.}
 {166}{}{Oh, all right. I'll do it.}

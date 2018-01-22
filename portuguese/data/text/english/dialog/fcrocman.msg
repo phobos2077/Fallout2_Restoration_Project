@@ -5,7 +5,7 @@
 {107}{}{Hey! Raw meat! Who are you? What are you doing here?}
 {108}{}{Duh?}
 {109}{}{I have a letter for AHS-9. Where do I take it?}
-{110}{}{I'm}
+{110}{}{Eu sou}
 {111}{}{Não é da sua conta.
 }
 {112}{}{I want to join the Hubologists.}
@@ -18,14 +18,14 @@
 {119}{}{You're not one of the brethren, and you're therefore not authorized to be here. Unless you're planning on joining us - which you may do by expressing your interest to AHS-7, who is at the guard post. Now, either get downstairs or get out of here.}
 {120}{}{Fine, fine. No need to get testy.}
 {121}{}{Actually, it is my business. This is my ship and these are my guards - now, who are you and what are you doing here?}
-{122}{}{I'm}
+{122}{}{Eu sou}
 {123}{}{Não é da sua conta.
 }
 {124}{}{I want to join the Hubologists.}
 {125}{}{Who are YOU? And what are YOU doing here?}
 {126}{}{Nada. Tchau.}
 {127}{}{I am Harry. I am the chief rocket technician.}
-{128}{}{I'm}
+{128}{}{Eu sou}
 {129}{}{Não é da sua conta.
 }
 {130}{}{I want to join the Hubologists.}
@@ -34,9 +34,9 @@
 {133}{}{Your guards are dead men.}
 {134}{}{Go down that elevator and talk to AHS-7 at the guard post. He'll direct you accordingly.}
 {135}{}{Obrigado. Tchau.}
-{161}{}{. I'm just looking around.}
-{162}{}{. I'm just looking around.}
-{163}{}{. I'm just looking around.}
+{161}{}{. Eu estou apenas olhando ao redor.}
+{162}{}{. Eu estou apenas olhando ao redor.}
+{163}{}{. Eu estou apenas olhando ao redor.}
 {170}{}{I am in need of help, child. Can you help me?}
 {171}{}{I am still in need of help, child. Can you help me?}
 {172}{}{Quem é você?}
@@ -65,7 +65,8 @@
 {194}{}{No one has been able to get plans for the vertibirds from the Shi, or from that old base in Navarro. Have you reconsidered helping us?}
 {195}{}{Remember, recruit! The hated Shi have the plans.}
 {196}{}{I have the plans for the vertibird.}
-{197}{}{Forget it.}
+{197}{}{Esqueça.
+}
 {198}{}{Ok, I'll do it.}
 {199}{}{Now you know what we need? Gas. A lot of it. The Shi have some. See if you can get it.}
 {200}{}{Remember, you were getting us gas for our great spaceship.}

@@ -52,7 +52,8 @@
 {151}{}{Look, it was all a misunderstanding.}
 {152}{}{Well, I just don't have it on me. Can't you issue me another one?}
 {153}{}{Nevermind then.}
-{154}{}{Forget it.}
+{154}{}{Esqueça.
+}
 {155}{}{I can. But there is a $50 fee for every Day Pass I issue past the first.}
 {156}{}{All right. Here's the money.}
 {157}{}{Never mind. I don't need it that badly.}
@@ -188,7 +189,7 @@
 {287}{}{You have? This is excellent news! Please go tell Councilor McClure right away.}
 {288}{}{You have? That is excellent news! Let me give you a Day Pass so you can speak with Councilor McClure. The pass is only good during the day; at night you will be asked to leave. Now go.}
 {289}{}{Can I ask you another question before I go?}
-{290}{}{I'll do that.}
+{290}{}{Eu vou fazer isso.}
 {291}{}{I'll go speak to him at once.}
 {292}{}{Funny you should mention that. The price has been going up of late... nothing we can't afford,
  mind you. We're certainly getting a better deal than Gecko. Those filthy scavengers need the uranium

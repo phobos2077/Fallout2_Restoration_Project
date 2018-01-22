@@ -2,7 +2,7 @@
 {150}{}{You see a well-dressed gentleman. He looks perpetually pissed off. That's probably why his brown hair is graying around the edges.}
 {151}{}{You see a grumbling Orville Wright. He looks like he is about to pull out what remains of his hair.}
 {152}{}{You see a grumbling Orville Wright. He looks upset and is sighing a lot.}
-{200}{}{Get away from there!}
+{200}{}{Afaste-se daí!}
 {210}{}{Kids, get away! It's a hitman!}
 {211}{}{You're gonna die, you sonuvabitch.}
 {212}{}{Come into my house, will you…}
@@ -149,7 +149,7 @@
 {496}{}{Seems like Reno's filled with sad stories these days. I'll take the job.}
 {497}{}{Y'know, it's stories like that that make me realize I really can't take this job. Later, Wright.}
 {505}{}{(Shakes his head.) Too bad. You come back and see me if you change your mind.}
-{506}{}{I'll do that.}
+{506}{}{Eu vou fazer isso.}
 {515}{}{(Wright smiles when he sees you.) You change your mind about that proposition I had?}
 {516}{}{What was this proposition again?}
 {517}{}{No, just stopping by. I'll be going now.}

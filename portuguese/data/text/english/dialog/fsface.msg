@@ -26,7 +26,8 @@
 {125}{}{Tudo bem.}
 {126}{}{Não importa.}
 {127}{}{Tudo certo.}
-{128}{}{Forget it.}
+{128}{}{Esqueça.
+}
 {129}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. The poison will first be analyzed and then an antidote will be synthesized. Tissue damage will then be repaired. This process will require 30 minutes.}
 {130}{}{Ok.}
 {131}{}{Não.}

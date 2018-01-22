@@ -36,6 +36,6 @@
 {361}{}{Sorry, I'm working.}
 {370}{}{Don't touch that!}
 {371}{}{What did I tell you?!}
-{372}{}{I warned you!}
+{372}{}{Eu avisei a você!}
 {375}{}{What the hell are you doing! Guards!}
 {380}{}{Stop wasting time and get to work.}

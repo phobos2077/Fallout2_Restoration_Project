@@ -51,4 +51,4 @@
 {421}{}{Buh bye!}
 {422}{}{Me want goodies inside. U die now.}
 {430}{}{Last chance. Leave now or die.}
-{431}{}{I warned you!}
+{431}{}{Eu avisei a você!}
