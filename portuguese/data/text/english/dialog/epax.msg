@@ -1,1 +1,1 @@
-{100}{}{You have entered an abandoned base.}
+{100}{}{Você entrou em uma base abandonada.}

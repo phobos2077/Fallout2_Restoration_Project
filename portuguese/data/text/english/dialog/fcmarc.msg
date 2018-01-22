@@ -41,7 +41,7 @@
 {140}{}{Obrigado. Tchau.}
 {141}{}{I think the Captain's figured out how to do it - but we need several elements first. We've basically given up on taking it for ourselves, to tell the truth - we've got other plans now.}
 {142}{}{What are they?}
-{143}{}{Where can I find the Captain?}
+{143}{}{Onde posso encontrar o Capitão?}
 {144}{}{I wanted to ask something else.}
 {145}{}{Adeus.}
 {146}{}{They're crazy. Don't trust them - unless you're mentally feeble or like being screwed over. They're interested only in your money and your soul, and there's a good chance they'll destroy the one to get at the other. I've seen it happen too many times.}

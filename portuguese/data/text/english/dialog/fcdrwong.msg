@@ -3,7 +3,7 @@
 {102}{}{You see a short, rotund Shi man.}
 {103}{}{May I assist you with something?}
 {104}{}{Daghi nu?}
-{105}{}{You who?}
+{105}{}{Você quem?}
 {106}{}{I hear you have someone else's spleen.}
 {107}{}{Quem é você?}
 {108}{}{O que você faz aqui?}

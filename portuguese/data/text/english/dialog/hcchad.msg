@@ -5,7 +5,7 @@
 {120}{}{Howdy, friend! What can I do for you?}
 {121}{}{More questions? I'll see what I can do for answers.}
 {122}{}{Deerk deegler!}
-{123}{}{You who?}
+{123}{}{Você quem?}
 {124}{}{Marcus has been asking a few questions about you.}
 {125}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. You're going down.}
 {126}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. Cut me in for $1000 and I'll make sure you can flee town.}

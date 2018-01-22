@@ -1,4 +1,4 @@
-{100}{}{What level would you like to access?}
-{101}{}{Blue Level}
-{102}{}{Violet Level}
+{100}{}{Em que nível você gostaria de acessar?}
+{101}{}{Nível Azul}
+{102}{}{Violeta Nível}
 {103}{}{[Sair.]}

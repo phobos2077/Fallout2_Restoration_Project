@@ -1,2 +1,2 @@
-{100}{}{It looks as if there was some kind of battle here fairly recently. The bodies look
- like they were beaten into a bloody pulp.}
+{100}{}{Parece que havia algum tipo de batalha aqui bastante recente. Os corpos parecem
+  como se fossem espancados em uma polpa sangrenta.}

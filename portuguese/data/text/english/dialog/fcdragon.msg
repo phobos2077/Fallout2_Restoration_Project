@@ -3,7 +3,7 @@
 {102}{}{You see a bare-chested, well-muscled man whose hands look like dangerous weapons.}
 {103}{}{How may I be of assistance?}
 {104}{}{Dinkle humper doo!}
-{105}{}{You who?}
+{105}{}{Você quem?}
 {106}{}{Who was that you were fighting?}
 {107}{}{Quem é você?}
 {108}{}{Teach me how to fight.}

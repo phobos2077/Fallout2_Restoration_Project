@@ -4,7 +4,7 @@
 {103}{}{What the hell do you want? I don't speak to anyone unless they're friends or good people. Do something for one of my buddies and then come talk to me.}
 {104}{}{[FEITO]}
 {105}{}{I heard what you did for my men. Thanks. What can I help you with?}
-{106}{}{You who?}
+{106}{}{Você quem?}
 {107}{}{I hear you're the one who knows all about this ship.}
 {108}{}{Why do they call you the Captain?}
 {109}{}{How do you get this thing to go?}

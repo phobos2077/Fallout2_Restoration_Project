@@ -5,14 +5,14 @@
 {201}{}{XY104FD}
 {202}{}{BFN12}
 {203}{}{Aberto}
-{204}{}{Wheat}
+{204}{}{Trigo}
 {205}{}{Abre}
 {206}{}{[FIM]}
-{300}{}{Incorrect door code. Locking door. Please contact the head of Public Relations for the override code.}
+{300}{}{Código de porta incorreto. Porta bloqueada. Entre em contato com o chefe de Relações Públicas para o código de substituição.}
 {301}{}{[FIM]}
-{400}{}{Confirm override code.}
+{400}{}{Confirme o código de substituição.}
 {401}{}{[FIM]}
-{402}{}{This door is electronically locked.}
-{403}{}{Unlocking door. Thank you and have a pleasant day.}
+{402}{}{Esta porta está bloqueada eletronicamente.}
+{403}{}{Destrancando a porta. Obrigado e tenha um dia agradável.}
 {404}{}{[FIM]}
-{500}{}{There is no lock to pick.}
+{500}{}{Não existe nenhum bloqueio para escolher.}

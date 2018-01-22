@@ -1,5 +1,5 @@
-{100}{}{There seems to be a problem with this elevator.}
-{101}{}{This elevator is obviously not working. You'll have to find another way.}
-{102}{}{You see a damaged elevator door.}
-{103}{}{On closer inspection, the elevator car is missing and the doors are jammed.}
-{104}{}{You don't have a chance of repairing this.}
+{100}{}{Parece que há um problema com este elevador.}
+{101}{}{Este elevador obviamente não está funcionando. Você terá que encontrar outra maneira.}
+{102}{}{Você vê uma porta de elevador danificada.}
+{103}{}{Em uma inspeção mais próxima, a cabine do elevador está faltando e as portas estão presas.}
+{104}{}{Você não tem uma chance de consertar isso.}

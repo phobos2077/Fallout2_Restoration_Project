@@ -1,47 +1,47 @@
-{100}{}{You see a punk wearing a half-smile.}
-{101}{}{You see Badger.}
-{102}{}{You see a punk with a half-sneer across his face.}
-{103}{}{:::He belches loudly:: Whaddya want?}
-{104}{}{::belch:::}
-{105}{}{You who?}
+{100}{}{Você vê um punk com um meio sorriso.}
+{101}{}{Você vê Badger.}
+{102}{}{Você ver um punk com um meio-sorriso sarcástico em seu rosto.}
+{103}{}{::: Ele grita alto :: Whaddya quer?}
+{104}{}{::arroto:::}
+{105}{}{Você quem?}
 {106}{}{Quem é você?}
-{107}{}{Can you tell me about this tanker?}
+{107}{}{Você pode me falar sobre esse petroleiro?}
 {108}{}{O que você faz aqui?}
-{109}{}{I'd like you to hack into a computer for me.}
-{110}{}{How's the hacking coming?}
-{111}{}{Nothing. Nice belch.}
-{112}{}{::He summons another throaty burp::}
-{113}{}{::Belch louder::}
-{114}{}{Gross.}
-{115}{}{::He spits forth a horrific belch that defies the very heavens in its volume and depth::}
-{116}{}{::Applaud::}
-{117}{}{I'm Badger. I used to have a band. ::sigh:: Called ourselves There We Smolder. Now I'm the resident computer tech in San Fran.}
-{118}{}{Oh! Tanks!}
-{119}{}{What sort of computer stuff do you do?}
-{120}{}{I'll bet your band sucked.}
-{121}{}{Was the band any good?}
+{109}{}{Gostaria que você invadisse um computador para mim.}
+{110}{}{Como está chegando a pirataria?}
+{111}{}{Nada. Bom arroto.}
+{112}{}{::Ele evoca outro gutural arroto::}
+{113}{}{::Arroto mais alto::}
+{114}{}{Bruto.}
+{115}{}{:: Ele escreve um horrível arroto que desafia o próprio céu em seu volume e profundidade ::}
+{116}{}{::Aplaudir::}
+{117}{}{Eu sou Badger. Eu costumava ter uma banda. :: suspiro :: Chamavamos There We Smolder. Agora eu sou o tecnólogo de informática residente em San Francisco.}
+{118}{}{Oh! Tanques!}
+{119}{}{Que tipo de coisa de computador você faz?}
+{120}{}{Aposto que sua banda sugou.}
+{121}{}{A banda era boa?}
 {122}{}{Obrigado. Tchau.}
-{123}{}{Uhh... okay.}
+{123}{}{Uhh... ok.}
 {124}{}{Adeus!}
-{125}{}{You oughta talk to Marc or the Captain about that.}
-{126}{}{Where can I find Marc?}
-{127}{}{Where can I find the Captain?}
-{128}{}{I'm the resident computer genius.}
-{129}{}{What sort of computer stuff do you do?}
+{125}{}{Você devia falar com Marc ou o Capitão sobre isso.}
+{126}{}{Onde posso encontrar Marc?}
+{127}{}{Onde posso encontrar o Capitão?}
+{128}{}{Eu sou o residente gênio do computador.}
+{129}{}{Que tipo de coisa de computador você faz?}
 {130}{}{Obrigado. Tchau.}
-{131}{}{Don't pester me. ::He farts:: I'm working on it, all right?}
-{132}{}{All right, all right. Just let me know when you're done.}
-{133}{}{Well, let's just say I'm an information retrieval specialist.}
-{134}{}{Can you retrieve some stuff for me?}
-{135}{}{What does that mean?}
-{136}{}{Yeah, well, fuck you.}
+{131}{}{Não importunar-me. ::Ele peida:: eu estou trabalhando nisso, certo?}
+{132}{}{Tudo bem, tudo certo. Apenas deixe-me saber quando você tiver feito.}
+{133}{}{Bem, digamos que sou um especialista em recuperação de informações.}
+{134}{}{Você pode obter algumas coisas para mim?}
+{135}{}{O que significa isso?}
+{136}{}{Sim, bem, foda-se você.}
 {137}{}{Hey!}
-{138}{}{Fuck you, too.}
-{139}{}{I'll say! We kicked ass! Our singer was... umm... a bit of a ponce, and Aaron was always sweating, and everything else was Todd's fault. But we were good.}
-{140}{}{Too bad you're not back together. I'd like to have heard you.}
-{141}{}{Umm. Sure. I have more questions.}
-{142}{}{I'll bet you sucked.}
-{143}{}{You can usually find Marc down in the bar.}
+{138}{}{Foda-se você, também.}
+{139}{}{Eu direi! Nós chutamos o traseiro! Nosso cantor era ... umm ... um pouco de ponce, e Aaron sempre suava, e tudo o resto era culpa de Todd. Mas estávamos bem.}
+{140}{}{Pena que você não está de volta juntos. Eu gostaria de ter ouvido você.}
+{141}{}{Umm. Com certeza. Eu tenho mais perguntas.}
+{142}{}{Eu aposto que você chupou.}
+{143}{}{Você geralmente pode encontrar o Marc no bar.}
 {144}{}{Thanks. I have more questions.}
 {145}{}{Thanks. That's all.}
 {146}{}{The Captain's usually in the bridge. Just go up the stairs in the bar.}

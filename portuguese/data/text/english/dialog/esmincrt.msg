@@ -1,15 +1,15 @@
-{100}{}{Maybe you shouldn't set the timer. That could be dangerous.}
-{101}{}{This does not appear to be a powerful enough explosive to
- clear the opening.}
-{102}{}{The mining cart looks functional. You could probably push it.}
-{103}{}{Attaching dynamite to the metal pole might give it enough power to bust open the
- entrance.}
-{104}{}{The dynamite is attached to a metal pole on the cart.}
-{105}{}{One good push should get this thing rolling.}
-{106}{}{You strain yourself pushing the cart.}
-{107}{}{You push the cart down the tracks.}
-{108}{}{The cart by itself isn't going to be enough to open the mine.}
-{109}{}{You have nothing to attach that too.}
-{110}{}{If only you had a metal pole to attach to the front of the mining cart.}
-{111}{}{You attach the metal pole to the cart.}
-{112}{}{You attach the dynamite to the metal pole.}
+{100}{}{Talvez você não configure o temporizador. Isso poderia ser perigoso.}
+{101}{}{Isso não parece ser um explosivo poderoso o suficiente para
+  limpar a abertura.}
+{102}{}{O carrinho de mineração parece funcional. Você provavelmente poderia empurrá-lo.}
+{103}{}{Anexar dinamite ao poste de metal pode dar energia suficiente para abrir a
+  Entrada.}
+{104}{}{A dinamite é anexada a um pólo metálico no carrinho.}
+{105}{}{Uma boa impulsão deve obter essa coisa rolando.}
+{106}{}{Você se pressiona empurrando o carrinho.}
+{107}{}{Você empurra o carrinho pelos trilhos.}
+{108}{}{O carrinho por si só não será suficiente para abrir a mina.}
+{109}{}{Você não tem nada para anexar também.}
+{110}{}{Se ao menos você tivesse um poste de metal para prender na frente do carrinho de mineração.}
+{111}{}{Você anexar o pólo metal para o carrinho.}
+{112}{}{Você anexar a dinamite para o pólo metal.}

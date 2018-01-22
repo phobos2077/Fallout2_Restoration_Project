@@ -1,10 +1,10 @@
-{100}{}{This generator looks badly damaged.}
-{101}{}{You think you might be able to repair this.}
-{102}{}{It's a barely working generator.}
-{103}{}{It's working, but just barely.}
-{104}{}{Yup, it's broken. Kicking it doesn't seem to work.}
-{105}{}{Almost had it.}
-{106}{}{Just a little bit more.}
-{107}{}{This just seems impossible to fix.}
-{108}{}{The lights dimly flicker on as the generator sputters to life.}
-{200}{}{You successfully repair the power generator.}
+{100}{}{Este gerador parece estar gravemente danificado.}
+{101}{}{Você acha que você pode ser capaz de reparar isso.}
+{102}{}{É um gerador trabalhando pouco.}
+{103}{}{Ele está trabalhando, mas apenas um pouco.}
+{104}{}{Yup, está quebrado. Chutando ele parece não funcionar.}
+{105}{}{Quase tinha.}
+{106}{}{Apenas um pouco mais.}
+{107}{}{Isso só parece ser impossível de corrigir.}
+{108}{}{As luzes cintilam vagamente quando o gerador retorna a vida.}
+{200}{}{Você repara com sucesso o gerador de energia.}
