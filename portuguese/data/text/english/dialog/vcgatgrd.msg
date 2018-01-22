@@ -95,7 +95,7 @@
 {194}{}{I'm sorry. I'll be moving along.}
 {195}{}{Oh, so NOW you're a Citizen, huh? Just like last time? Give me those "Citizenship papers" and get out of here.}
 {196}{}{You want these papers? Come get them!}
-{197}{}{All right, all right.}
+{197}{}{Tudo bem, tudo certo.}
 {198}{}{Go talk to Wallace, Head of Customs. Now leave me alone.}
 {199}{}{Okay. Goodbye.}
 {200}{}{Yeah, you have a DAY Pass. Does it look like day to you? Move along.}

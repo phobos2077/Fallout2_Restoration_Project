@@ -54,7 +54,7 @@
 {151}{}{Go away. I'm busy.}
 {152}{}{Don't you have anything better to do?}
 {153}{}{I don't recall asking for any test subjects.}
-{154}{}{What the hell do you want?}
+{154}{}{O que diabos você quer?}
 {155}{}{Bugger off.}
 {156}{}{Go pester someone else.}
 {157}{}{Sim?}

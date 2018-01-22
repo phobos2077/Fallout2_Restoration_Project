@@ -32,7 +32,7 @@
 {131}{}{Neither. I have more questions.}
 {132}{}{Neither. See ya.}
 {133}{mcs9}{Right. Me and a human named Jacob built this place around that old bank about 60 years ago. Anyone's welcome here, long as they keep the peace.}
-{134}{}{Great. I have more questions.}
+{134}{}{Grande. Eu tenho mais perguntas.}
 {135}{}{Fair enough. Bye.}
 {136}{mcs10}{Right...After the Master and the vats were destroyed, I wandered a bit. No place to go. One day got attacked by this fool wearin' power armor.}
 {137}{}{Realmente?}

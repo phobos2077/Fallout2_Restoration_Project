@@ -68,7 +68,7 @@
 {370}{}{(Sneers.) Sorry. "Need-ta-know" basis. Now get lost…amigo.}
 {371}{}{(Sneers.) Sorry. "Need-ta-know" basis. Now get lost, chica.}
 {374}{}{Let me by. I have to get past that door.}
-{375}{}{All right, all right.}
+{375}{}{Tudo bem, tudo certo.}
 {380}{}{Oh, you ARE, are you? Well, goddamn, why didn't you say something earlier? We could have avoided
  this talk altogether, and I could have told you to piss off right from the start.}
 {381}{}{Myron's expecting me. You better let me see him, or you'll hear about it later.}

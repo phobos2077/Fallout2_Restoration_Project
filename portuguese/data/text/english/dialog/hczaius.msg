@@ -119,7 +119,7 @@
 {197}{}{Bite me. I'll get it done. See ya.}
 {198}{}{That's the last straw. Goodbye, dead man.}
 {199}{}{Please hurry. The mine is our town's lifeblood.}
-{200}{}{All right, all right.}
+{200}{}{Tudo bem, tudo certo.}
 {201}{}{Well, the best person to talk to about that would be Marcus, over at the bank, or Steve, the
  greeter for the town.}
 {202}{}{Hmm. All right, thanks.}

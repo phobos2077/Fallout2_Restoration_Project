@@ -1,59 +1,59 @@
-{100}{}{You see a person in funny pajamas.}
-{101}{}{You see a Shi townsperson.}
-{102}{}{This person looks different from anyone you've seen before. They don't seem to care much about you.}
-{103}{}{You're not a spy, are you?}
+{100}{}{Você vê uma pessoa com pijama engraçado.}
+{101}{}{Você vê um cidadão Shi.}
+{102}{}{Esta pessoa parece diferente de todos que você já viu antes. Eles não parecem se importar muito sobre você.}
+{103}{}{Você não é um espião?}
 {104}{}{Quem é você?}
-{105}{}{Fish and seaweed. That's all we get.}
-{106}{}{Ha ha! Look at the funny round-eyes!}
-{107}{}{You look like a Hubologist.}
-{108}{}{Leave us in peace.}
-{109}{}{Long live Lo Pan!}
-{110}{}{Down with the Dragon!}
-{111}{}{Lo Pan is a hero.}
-{112}{}{Look out for the Dragon. He's trouble.}
-{113}{}{Those punks are always so loud.}
-{114}{}{Work, work, work. Rice, rice, rice. ::sigh::}
-{115}{}{Isn't there more to life than this?}
-{116}{}{We're smarter than you think.}
-{117}{}{Look! A lao wai!}
-{118}{}{Welcome to San Francisco.}
-{119}{}{You seem like a person with a straight head.}
-{120}{}{Lo Pan can use your help.}
-{121}{}{Don't hurt the people in red, lao wai.}
-{122}{}{Lao wai means "foreigner".}
-{123}{}{You're on our side, right?}
-{124}{}{Kill the Dragon for us, will you?}
-{125}{}{You honor us with your presence.}
-{126}{}{Our leader! Stricken!}
-{127}{}{We must get vengeance for Lo Pan!}
-{128}{}{Who will lead us to greatness if Lo Pan is dead?}
-{129}{}{What shall we do now?}
-{130}{}{We are dishonored. We should be dead like Lo Pan.}
-{131}{}{Life holds no meaning.}
-{132}{}{If Lo Pan is dead our dreams are crushed.}
-{133}{}{Lo Pan was the last great leader.}
-{134}{}{The Dragon is dead! Lo Pan is victorious!}
-{135}{}{Mock the losers!}
-{136}{}{The Dragon has fallen!}
+{105}{}{Peixes e algas. Isso é tudo o que temos.}
+{106}{}{Ha ha! Olhe os divertidos olhos redondos!}
+{107}{}{Você parece um Hubologista.}
+{108}{}{Nos deixe em paz.}
+{109}{}{Viva Lo Pan!}
+{110}{}{Para baixo com o Dragão!}
+{111}{}{Lo Pan é um herói.}
+{112}{}{Tenha cuidado com o Dragão. Ele é um problema.}
+{113}{}{Esses punks são sempre tão altos.}
+{114}{}{Trabalho, trabalho, trabalho. Arroz, arroz, arroz. ::suspiro::}
+{115}{}{Não existe mais na vida do que isso?}
+{116}{}{Nós somos mais espertos do que você pensa.}
+{117}{}{Olha! Um lao wai!}
+{118}{}{Bem-vindo a San Francisco.}
+{119}{}{Você parece uma pessoa com uma cabeça reta.}
+{120}{}{Lo Pan pode usar a sua ajuda.}
+{121}{}{Não ferir as pessoas, em vermelho, lao wai.}
+{122}{}{Lao wai significa "estrangeiro".}
+{123}{}{Você está do nosso lado, certo?}
+{124}{}{Matar o Dragão para nós, você vai?}
+{125}{}{Você nos honrar com a sua presença.}
+{126}{}{O nosso líder! Aflito!}
+{127}{}{Temos de obter vingança por Lo Pan!}
+{128}{}{Quem vai levar-nos a grandeza se Lo Pan está morto?}
+{129}{}{O que vamos fazer agora?}
+{130}{}{Somos desonrados. Devemos morrer como Lo Pan.}
+{131}{}{A vida não tem sentido.}
+{132}{}{Se Lo Pan está morto nossos sonhos são esmagados.}
+{133}{}{Lo Pan foi o último grande líder.}
+{134}{}{O Dragão está morto! Lo Pan é vitorioso!}
+{135}{}{Zombar dos perdedores!}
+{136}{}{O Dragão caiu!}
 {137}{}{Lo Pan! Lo Pan! Lo Pan!}
-{138}{}{We are the winners!}
-{139}{}{The Dragon is dead. Yeah!}
-{140}{}{Work, work, work. Rice, rice, rice. ::sigh::}
-{141}{}{Isn't there more to life than this?}
-{142}{}{We're smarter than you think.}
-{143}{}{Look! A lao wai!}
-{144}{}{The Emperor's mouthpiece! Dead! The city will fall apart!}
-{145}{}{What happens now?}
-{146}{}{I hope the savages don't overrun us now.}
+{138}{}{Nós somos os vencedores!}
+{139}{}{O Dragão está morto. Sim!}
+{140}{}{Trabalho, trabalho, trabalho. Arroz, arroz, arroz. ::suspiro::}
+{141}{}{Não existe mais na vida do que isso?}
+{142}{}{Nós somos mais espertos do que você pensa.}
+{143}{}{Olha! Um lao wai!}
+{144}{}{O porta-voz do imperador! Morto! A cidade desmoronará!}
+{145}{}{O que acontece agora?}
+{146}{}{Espero que os selvagens não nos invadam agora.}
 {147}{}{The good always die young.}
 {148}{}{I hope we can survive without Ken Lee.}
 {149}{}{I hear that Ken Lee was the only one who kept the Emperor in line.}
 {150}{}{I hear that the Emperor was only a façade for Ken Lee. }
 {151}{}{Maybe Lo Pan could take Ken Lee's spot...}
-{152}{}{Work, work, work. Rice, rice, rice. ::sigh::}
-{153}{}{Isn't there more to life than this?}
-{154}{}{We're smarter than you think.}
-{155}{}{Look! A lao wai!}
+{152}{}{Trabalho, trabalho, trabalho. Arroz, arroz, arroz. ::suspiro::}
+{153}{}{Não existe mais na vida do que isso?}
+{154}{}{Nós somos mais espertos do que você pensa.}
+{155}{}{Olha! Um lao wai!}
 {163}{}{You killed AHS-9? Yeah!}
 {164}{}{Those Hubologists give me the creeps.}
 {165}{}{You have done us a great service.}

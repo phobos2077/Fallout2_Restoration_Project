@@ -108,7 +108,7 @@
 {207}{}{NO Uuu LEAVE or me HIT U}
 {208}{}{Desliga}
 {209}{}{I'm not going anywhere. You want to try and move me, go ahead.}
-{210}{}{All right, all right.}
+{210}{}{Tudo bem, tudo certo.}
 {211}{}{And where, may I ask, did you come by this fraudulent Citizenship? These serial numbers are the same as the Citizenship papers stolen last month.}
 {212}{}{If I tell you, will you give me a Day Pass?}
 {213}{}{It was your assistant, Skeev. He sold it to me.}

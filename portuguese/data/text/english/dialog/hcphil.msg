@@ -83,11 +83,11 @@
 {205}{}{All the mutants are dead!}
 {206}{}{Not much.}
 {207}{}{Eu tenho mais perguntas.}
-{208}{}{Thanks. See ya.}
+{208}{}{Obrigado. Até mais.}
 {209}{}{You look like burly one. I'm betting you could arm wrestle with Francis. He's the
  mutant sitting over there. Apparently he's got a prize of some sort. Interested? Go talk to Francis.}
 {210}{}{Thanks. Is there anything else?}
-{211}{}{Thanks. See ya.}
+{211}{}{Obrigado. Até mais.}
 {212}{}{There are some people missing. We're not sure where they are. If you could find them, I'm sure
  there'd be something in it for you. Do you want to start with that? Go talk to Marcus.}
 {213}{}{Thanks. Anything else?}
@@ -95,7 +95,7 @@
 {215}{}{Hmm. The mine's air purifiers are broken. You might want to go talk to Zaius, the mine foreman,
  about that.}
 {216}{}{All right. Anything else?}
-{217}{}{Thanks. See ya.}
+{217}{}{Obrigado. Até mais.}
 {218}{}{I understand that you can poke around the mine now. Hell, if you find anything, you might even
  get to keep it.}
 {219}{}{You got anything else?}

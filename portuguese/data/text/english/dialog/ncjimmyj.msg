@@ -219,7 +219,7 @@
  Whoever was sucking on this ain't long for this world... (Hands canister back.)}
 {676}{}{It's poisoned?}
 {677}{}{Hmmm. I had some other questions…}
-{678}{}{I see. Thanks.}
+{678}{}{Eu vejo. Obrigado.}
 {685}{}{Hell, yes! Gotta be careful in this town with shit like that being passed around...that's why Jimmy always says --}
 {686}{}{Any idea where this might have come from?}
 {695}{}{Naw, I don't...look, now, don't be spreading the word that's mine...if I were you, I'd ask Jules and Renesco

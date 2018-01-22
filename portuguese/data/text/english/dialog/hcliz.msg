@@ -26,7 +26,7 @@
 {124}{}{Tank yoo!}
 {125}{}{You want to buy something? Fine. This is what I've got.}
 {126}{}{One other thing...}
-{127}{}{Thanks. See ya.}
+{127}{}{Obrigado. Até mais.}
 {128}{}{It's a boring little mining town filled with all sorts of undesirables. You want a guided tour,
  talk to Steve or someone.}
 {129}{}{Wow, a crabby one. I have more questions.}

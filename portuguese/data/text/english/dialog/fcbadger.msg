@@ -43,82 +43,87 @@
 {142}{}{Eu aposto que você chupou.}
 {143}{}{Você geralmente pode encontrar o Marc no bar.}
 {144}{}{Thanks. I have more questions.}
-{145}{}{Thanks. That's all.}
-{146}{}{The Captain's usually in the bridge. Just go up the stairs in the bar.}
+{145}{}{Obrigado. Isso é tudo.}
+{146}{}{O Capitão geralmente na ponte. Apenas suba as escadas no bar.}
 {147}{}{Thanks. I have more questions.}
-{148}{}{Thanks. That's all.}
-{149}{}{Yeah, but it'll cost you.}
-{150}{}{What's your price?}
-{151}{}{Yeah, whatever. I gotta go.}
-{152}{}{It means that I can find data you need.}
+{148}{}{Obrigado. Isso é tudo.}
+{149}{}{Sim, mas vai custar-lhe.}
+{150}{}{Qual é o seu preço?}
+{151}{}{Sim, seja o que for. Eu tenho que ir.}
+{152}{}{Isso significa que eu posso encontrar os dados de que você precisa.}
 {153}{}{Você pode fazer algo para mim?}
-{154}{}{I see. Cool. I have more questions.}
-{155}{}{I see. Thanks.}
-{156}{}{Yeah, you would have. Anyway, I have to get back to this.}
-{157}{}{Wait. I have more questions.}
-{158}{}{Thanks. See ya.}
-{159}{}{I think I like you enough that I can do it for you now. Who do you want me to visit?}
-{160}{}{The Hubologists.}
-{161}{}{The Shi.}
-{162}{}{Neither. Just checking.}
-{163}{}{I suppose I can do it for free, since you checked for my girlfriend. It'll take a while, though. Who do you want me to hit?}
-{164}{}{The Hubologists.}
-{165}{}{The Shi.}
-{166}{}{Neither. Just checking.}
-{167}{}{You gotta do me a favor, first. My girlfriend got herself lost in the tanker. Find her for me and I'll do it.}
-{168}{}{You got it. See ya.}
-{169}{}{Forget it. See ya.}
-{170}{}{Like stealing candy from a baby. They'll never find me. What do you want from them?}
-{171}{}{Great. I have more questions.}
-{172}{}{Great. I'll be back.}
-{173}{}{I can get them. They're pretty protective of their info, and they've got some serious ice protecting their machines. Are you sure you want me to go after them?}
-{174}{}{Well, good luck. I have more questions.}
-{175}{}{Good luck. I'll be back later.}
-{176}{}{Hey, find my girlfriend and then we'll talk.}
-{177}{}{All right, all right.}
-{178}{}{She's dead? She's DEAD? How did she die? No, wait... don't tell me. Give me a few hours to get myself together.}
-{179}{}{Sure, sure.}
-{180}{}{Snap out of it, Sparky. We got shit to do.}
-{181}{}{All right. I'm better now.}
-{182}{}{Good. I need to ask you something.}
-{183}{}{Good for you. I didn't want to talk to you.}
-{184}{}{Thank you, thank you, thank you. I can't thank you enough for saving her. What do you want?}
+{154}{}{Eu vejo. Legal. Eu tenho mais perguntas.}
+{155}{}{Eu vejo. Obrigado.}
+{156}{}{Sim, você teria. De qualquer maneira, eu tenho que voltar a isso.}
+{157}{}{Esperar. Eu tenho mais perguntas.}
+{158}{}{Obrigado. Até mais.}
+{159}{}{Acho que gosto de você o suficiente para que eu possa fazer isso por você agora. Quem você quer que eu visite?}
+{160}{}{Os Hubologistas.}
+{161}{}{Os Shi.}
+{162}{}{Nenhum. Apenas checando. 
+}
+{163}{}{Suponho que eu posso fazer isso de graça, já que você encontrou minha namorada. Vai demorar um pouco, no entanto. Quem você quer que eu atinja?}
+{164}{}{Os Hubologistas.}
+{165}{}{Os Shi.}
+{166}{}{Nenhum. Apenas checando. 
+}
+{167}{}{Você deve me fazer um favor, primeiro. Minha namorada se perdeu no petroleiro. Encontre-a para mim e eu vou fazer isso.}
+{168}{}{Você entendeu. Até mais.
+}
+{169}{}{Esqueça. Até mais.
+}
+{170}{}{Como roubar doce de uma criança. Eles nunca vão me encontrar. O que você quer?}
+{171}{}{Grande. Eu tenho mais perguntas.}
+{172}{}{Grande. Eu vou estar de volta.}
+{173}{}{Eu posso obtê-lo. Eles são bastante protetores de suas informações, e eles conseguiram um gelo grave protegendo suas máquinas. Tem certeza de que deseja que eu vá atrás deles?}
+{174}{}{Bem, boa sorte. Eu tenho mais perguntas.}
+{175}{}{Boa sorte. Eu volto mais tarde.}
+{176}{}{Ei, encontrar minha namorada, e então falaremos.}
+{177}{}{Tudo bem, tudo certo.}
+{178}{}{Ela está morta? Ela está MORTA? Como ela morreu? Não, espere ... não me diga. Me dê algumas horas para me juntar.}
+{179}{}{Claro, com certeza.}
+{180}{}{Saia dessa, Sparky. Nós temos uma merda para fazer.}
+{181}{}{Tudo bem. Eu estou melhor agora.}
+{182}{}{Boa. Eu preciso perguntar uma coisa.}
+{183}{}{Bom para você. Eu não queria falar com você.}
+{184}{}{Obrigado, obrigado, obrigado. Eu não posso agradecer o suficiente por salvá-la. O que você quer?}
 {185}{}{Eu tenho algumas perguntas.}
-{186}{}{Your gratitude is enough for me. So long.}
-{187}{}{Okay, I got into the Shi computers. I don't know if I made it out undetected. I guess now the best thing is to hide. You want anything else?}
+{186}{}{Gratidão é o suficiente para mim. Assim por muito tempo.}
+{187}{}{Ok, entrei nos computadores Shi. Eu não sei se eu fiz isso sem ser detectado. Eu acho que agora o melhor é esconder. Você quer alguma outra coisa?}
 {188}{}{Sim.}
-{189}{}{No. See ya.}
-{190}{}{Got the Hubologists. No problem. Need anything else?}
+{189}{}{Não. Até mais.}
+{190}{}{Tenho os Hubologistas. Sem problemas. Precisa de mais alguma coisa?}
 {191}{}{Sim.}
-{192}{}{No. See ya.}
-{193}{}{You just made a big mistake, pal. I just turned the Shi against you through their computers. You're finished in San Francisco. }
-{194}{}{I guess I'd better kill you then.}
-{195}{}{Give me a few hours to get myself together.}
-{196}{}{You want me to hack a formatted computer? The information's gone. It ain't gonna happen.}
-{197}{}{I am going to have to vacate this place.}
-{198}{}{Good to see ya.}
-{199}{}{I'm looking for some fuel.}
-{200}{}{I've heard the Hubologists have some fuel, and I could take a looksee in their computer for you.}
-{201}{}{The Shi have all the fuel around here. I could take a gander at their mainframe for you.}
-{202}{}{Can you?}
-{203}{}{What the hell do you want?}
-{204}{}{Badger of the punks, I presume?}
-{205}{}{You have disgraced our Emperor for the last time!}
-{206}{}{I think I will go get some candy from Lao Chou in town.}
-{207}{}{So much for a fair trial. Hmmm...}
-{208}{}{Dude, lighten up. I just wanted some candy.}
-{209}{}{Can you transfer the fuel from their spaceship to the tanker?}
-{210}{}{Can you get me a copy of their vertibird plan?}
-{211}{}{Can you transfer the fuel and get me the plans?}
-{212}{}{Yes, I need what they have.}
-{213}{}{Nah, I'll figure out another way.}
-{214}{}{All right, but shit might hit the fan.}
-{215}{}{Can you transfer the fuel from their reserves to the tanker?}
-{216}{}{Never mind, I'll do it another way.}
+{192}{}{Não. Até mais.}
+{193}{}{Você cometeu um grande erro, amigo. Acabei de transformar o Shi contra você através de seus computadores. Você terminou em São Francisco.}
+{194}{}{Eu acho que é melhor eu matar você, então.}
+{195}{}{Me dê algumas horas para me juntar.}
+{196}{}{Você quer que eu invada um computador formatado? A informação está desaparecida. Não vai acontecer.}
+{197}{}{Eu vou ter que abandonar este lugar.}
+{198}{}{Bom ver-te.}
+{199}{}{Estou à procura de algum combustível.}
+{200}{}{Eu ouvi que os Hubologistas ter algum combustível, e eu poderia dar um olhar em seu computador para você.}
+{201}{}{O Shi tem todo o combustível por aqui. Eu poderia dar uma olhada na sua mainframe para você.}
+{202}{}{Você consegue?}
+{203}{}{O que diabos você quer?}
+{204}{}{Badger dos punks, eu presumo?}
+{205}{}{Você desonrou nosso Imperador pela última vez!}
+{206}{}{Eu acho que vou buscar alguns doces de Lao Chou na cidade.}
+{207}{}{Tanto para um julgamento justo. Hmmm...}
+{208}{}{Cara, acenda. Eu só queria alguns doces.}
+{209}{}{Você pode transferir o combustível da nave espacial para o petroleiro?}
+{210}{}{Você pode me dar uma cópia do seu plano vertibird?}
+{211}{}{Você pode transferir o combustível e me pegar os planos?}
+{212}{}{Sim, eu preciso do que eles têm.}
+{213}{}{Nah, eu vou descobrir de outra forma.}
+{214}{}{Tudo bem, mas a merda pode atingir o ventilador.}
+{215}{}{Você pode transferir o combustível das suas reservas para o petroleiro?}
+{216}{}{Não importa, eu vou fazê-lo de outra forma.}
 {217}{}{Não importa.}
-{218}{}{Alright. Check back with me in a day or so and I'll let you know.}
-{219}{}{Did you get what I needed?}
-{220}{}{Yeah, I got the fuel.}
-{221}{}{Yeah, I got the verti plans.}
-{222}{}{Yeah, I got the fuel and the plans.}
-{223}{}{Thanks a lot. See ya.}
+{218}{}{Tudo bem. Volte-me em um ou dois dias e eu vou deixar você saber.}
+{219}{}{Você conseguiu o que eu precisava?}
+{220}{}{Sim, eu tenho o combustível.}
+{221}{}{Sim, eu tenho os planos verti.}
+{222}{}{Sim, eu tenho o combustível e os planos.}
+{223}{}{Muito obrigado. Até mais.
+}

@@ -7,7 +7,7 @@
 {203}{}{You see Myron. He looks bored.}
 {204}{}{You see Myron. As you watch, he gives a wide yawn, then rubs his eyes.}
 {210}{}{Get off your asses and get in here, guys! We got an intruder!}
-{215}{}{What the hell do you want?}
+{215}{}{O que diabos você quer?}
 {216}{}{If you're here for Jet, don't waste my time, just get out.}
 {217}{}{Thought I smelled something…}
 {225}{}{Hell-oooo, beautiful.}

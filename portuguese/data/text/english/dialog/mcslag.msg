@@ -1,7 +1,7 @@
 {100}{}{Corre!}
 {101}{}{Ajuda!}
 {102}{}{We're being attack by the surfacers.}
-{103}{}{Leave us in peace.}
+{103}{}{Nos deixe em paz.}
 {104}{}{Can't we all just get along?}
 {150}{}{Go back where you came from.}
 {151}{}{Você não é procurado aqui.}

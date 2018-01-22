@@ -14,7 +14,7 @@
 {113}{}{Me? I'm Brian. I work the generator that powers this place.}
 {114}{}{Then you're the guy I need to see. Eric says he's too uncomfortable in his place, and he needs more power for his air conditioning.}
 {115}{}{I see. That's very interesting. Must be rewarding work.}
-{116}{}{Great. I have more questions.}
+{116}{}{Grande. Eu tenho mais perguntas.}
 {117}{}{This place is the power station for Broken Hills. What I do is essentially a maintenance job on the place... make sure it keeps running. It's pretty damn functional, though... powered by uranium slugs.}
 {118}{}{That must be great. Say, I have more questions.}
 {119}{}{Uranium slugs?}

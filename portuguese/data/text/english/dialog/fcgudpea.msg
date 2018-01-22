@@ -1,21 +1,21 @@
-{100}{}{You see a person in funny pajamas.}
-{101}{}{You see a Shi townsperson.}
-{102}{}{This person looks different from anyone you've seen before. They don't seem to care much about you.}
-{103}{}{You're not a spy, are you?}
+{100}{}{Você vê uma pessoa com pijama engraçado.}
+{101}{}{Você vê um cidadão Shi.}
+{102}{}{Esta pessoa parece diferente de todos que você já viu antes. Eles não parecem se importar muito sobre você.}
+{103}{}{Você não é um espião?}
 {104}{}{Quem é você?}
-{105}{}{Fish and seaweed. That's all we get.}
-{106}{}{Ha ha! Look at the funny round-eyes!}
-{107}{}{You look like a Hubologist.}
-{108}{}{Leave us in peace.}
+{105}{}{Peixes e algas. Isso é tudo o que temos.}
+{106}{}{Ha ha! Olhe os divertidos olhos redondos!}
+{107}{}{Você parece um Hubologista.}
+{108}{}{Nos deixe em paz.}
 {109}{}{Long live the Dragon!}
 {110}{}{Down with Lo Pan!}
 {111}{}{The Dragon is a hero.}
 {112}{}{Look out for Lo Pan. He's trouble.}
-{113}{}{Those punks are always so loud.}
-{114}{}{Work, work, work. Rice, rice, rice. ::sigh::}
-{115}{}{Isn't there more to life than this?}
-{116}{}{We're smarter than you think.}
-{117}{}{Look! A lao wai!}
+{113}{}{Esses punks são sempre tão altos.}
+{114}{}{Trabalho, trabalho, trabalho. Arroz, arroz, arroz. ::suspiro::}
+{115}{}{Não existe mais na vida do que isso?}
+{116}{}{Nós somos mais espertos do que você pensa.}
+{117}{}{Olha! Um lao wai!}
 {118}{}{I don't think I like you.}
 {119}{}{You scare me.}
 {120}{}{Don't hurt me, please.}
@@ -29,12 +29,12 @@
 {128}{}{Lo Pan is dead!}
 {129}{}{Now for the Hubologists!}
 {130}{}{Look at the funny round-eyes!}
-{131}{}{You look like a Hubologist.}
-{132}{}{Leave us in peace.}
+{131}{}{Você parece um Hubologista.}
+{132}{}{Nos deixe em paz.}
 {133}{}{Long live the Dragon!}
 {134}{}{Long live the Emperor!}
-{135}{}{Work, work, work. Rice, rice, rice. ::sigh::}
-{136}{}{Isn't there more to life than this?}
+{135}{}{Trabalho, trabalho, trabalho. Arroz, arroz, arroz. ::suspiro::}
+{136}{}{Não existe mais na vida do que isso?}
 {137}{}{The Dragon... is dead...}
 {138}{}{Oh no! The Dragon is dead!}
 {139}{}{Life has no meaning.}
@@ -45,15 +45,15 @@
 {144}{}{Let us teach our children to be like the Dragon.}
 {145}{}{We must make new dreams now.}
 {146}{}{The Emperor's mouthpiece! Dead!}
-{147}{}{What happens now?}
+{147}{}{O que acontece agora?}
 {148}{}{I hope the savages don't overrun us now!}
 {149}{}{The good always die young.}
 {150}{}{I hope we can survive the winter without Ken Lee.}
 {151}{}{I hear that Ken Lee was the only one who kept the Emperor in line.}
 {152}{}{I hear that the Emperor was only a façade for Ken Lee. }
-{153}{}{Work, work, work. Rice, rice, rice. ::sigh::}
-{154}{}{Isn't there more to life than this?}
-{155}{}{We're smarter than you think.}
+{153}{}{Trabalho, trabalho, trabalho. Arroz, arroz, arroz. ::suspiro::}
+{154}{}{Não existe mais na vida do que isso?}
+{155}{}{Nós somos mais espertos do que você pensa.}
 {156}{}{Look! An outsider!}
 {164}{}{You killed AHS-9? Good job!}
 {165}{}{Those Hubologists give me the creeps.}

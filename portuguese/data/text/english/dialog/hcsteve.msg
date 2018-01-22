@@ -92,7 +92,7 @@
 {174}{}{Adeus.}
 {175}{}{So now we're eking out a living, creating our own version of civilization, and doing our best
  to avoid giving in to Vault City or NCR -– we don't need their style of government. That's all.}
-{176}{}{Great. I have more questions.}
+{176}{}{Grande. Eu tenho mais perguntas.}
 {177}{}{Obrigado. Tchau.}
 {178}{}{If you're going to persist in believing you can judge someone's mind by what you see on the
  outside, then yes. You are undeniably ignorant.}

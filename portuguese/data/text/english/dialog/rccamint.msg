@@ -43,7 +43,7 @@
 {141}{}{I'm innocent.}
 {142}{}{I didn't do nothin'}
 {143}{}{Sheriff? I gotta take a leak.}
-{144}{}{What the hell do you want?}
+{144}{}{O que diabos você quer?}
 {145}{}{I'm not going to let you fight each other.}
 {146}{}{I was just wondering what's going on here.}
 {147}{}{Me and my boys are gonna teach these Morningstar creampuffs a lesson. Starting with Blasphemous
