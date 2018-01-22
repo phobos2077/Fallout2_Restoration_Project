@@ -57,7 +57,7 @@
 {153}{}{Eu vou ver o que posso fazer.}
 {154}{}{Desculpe, cara... eu acho que você está ferrado. Eu não posso ajudar.}
 {155}{}{With no spleen, I'm going to die. Thanks for your help anyway.}
-{156}{}{I found it. Go over to Dr. Wong's place.}
+{156}{}{Eu encontrei. Vá até o lugar do Dr. Wong.}
 {157}{}{Oh, I'll cover you. Get over to Fung's.}
 {158}{}{No prob. Good luck.}
 {159}{}{Did you talk to Fung?}
