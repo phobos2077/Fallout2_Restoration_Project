@@ -10,42 +10,42 @@
 {172}{}{[VOLTAR]}
 {180}{}{Obrigado. Campos de força agora estão desativados.}
 {181}{}{[FEITO]}
-{200}{}{Welcome to the EPA Petting Zoo! Here you'll have the pleasure of interacting with these unique creatures that
- look like hideously deformed humans! That's because these ugly beasts are the result of exciting experiments where our
- brilliant scientists are attempting to splice human and animal DNA!}
+{200}{}{Bem-vindo ao Zoológico da EPA Petting! Aqui você terá o prazer de interagir com essas criaturas únicas que
+  Parece humanos horrivelmente deformados! Isso porque essas bestas feias são o resultado de experimentos excitantes onde nosso
+  cientistas brilhantes estão tentando unir DNA humano e animal!}
 {201}{}{[MAIS]}
-{210}{}{In theory, this new science might one day allow us to create a "Super Person". Imagine a US Soldier with the sight
- of an eagle, the speed of a cheetah, and the strength of an ape! Imagine how this "Super Soldier" would strike fear into
- the hearts of commies! It sounds like science fiction, but it may soon be science fact!}
+{210}{}{Em teoria, essa nova ciência poderia um dia permitir-nos criar uma "Super Persona". Imagine um soldado dos EUA com a visão
+  de uma águia, a velocidade de um guepardo e a força de um macaco! Imagine como este "Super Soldado" atingiria medo nos
+  corações dos comunas! Parece uma ficção científica, mas pode ser um fato científico!}
 {211}{}{[MAIS]}
-{220}{}{The creatures you see here are the results of experiments that haven't quite met with success. Instead of euthanizing
- these failed abominations, we thought it'd be fun to put them in a petting zoo. Don't worry, despite their horrific appearance,
- they're not likely to attack as long as they're well fed. We're happy to report only three visitor casualties have occurred
- in the past year!}
+{220}{}{As criaturas que você vê aqui são os resultados de experiências que não se encontraram com sucesso. Em vez de eutanizar
+  estas abominações fracassadas, pensamos que seria divertido colocá-las em um zoológico de acampamento. Não se preocupe, apesar da aparência horrível deles,
+  eles não são susceptíveis de atacar, desde que sejam bem alimentados. Estamos felizes em informar que apenas três vítimas de visitantes ocorreram
+  no ano passado!}
 {221}{}{[Fim de sessão.]}
-{300}{}{Welcome to our newest exhibit! The strange looking tentacled creatures you'll see in this cage might look like they
- came from outer space, but they're not aliens, in fact, they were made right here in America! As you may have guessed,
- these guys weren't created by mother nature, they were created by science!}
+{300}{}{Bem-vindo à nossa mais nova exibição! As criaturas de tentáculos estranhos tentados que você verá nesta gaiola podem parecer como se eles
+  vieram do espaço exterior, mas eles não são alienígenas, de fato, eles foram feitos aqui mesmo na América! Como você pode ter adivinhado,
+  Esses caras não foram criados pela mãe natureza, eles foram criados pela ciência!}
 {301}{}{[MAIS]}
-{310}{}{That's right, these fearsome monstrosities were engineered by American scientists in top secret laboratories, as
- the newest weapon in the war for freedom. Their powerful tentacles and sharp teeth were specifically designed to tear
- apart America's enemies. Their tentacles also excel at digging, so the commies won't even be safe in their underground
- bunkers! Also, these ferocious killers have skin so thick, that bullets have a hard time penetrating it!}
+{310}{}{Certo, essas monstruosidades temíveis foram projetadas por cientistas americanos em laboratórios secretos, como
+  A mais nova arma na guerra pela liberdade. Seus tentáculos poderosos e dentes afiados foram projetados especificamente para rasgar
+  em pedaços inimigos da América. Seus tentáculos também se destacam em cavar, então os comunas não estarão nem seguros em seus subterrâneos
+  bunkers! Além disso, esses assassinos ferozes têm uma pele tão grossa, que as balas têm dificuldade em penetrá-la!}
 {311}{}{[MAIS]}
-{320}{}{You're looking at the future of biological warfare! But don't worry, these vicious slaughter machines can't get
- you, as they're safely locked within the confines of their highly secure cage. You'll have to excuse the dim lighting,
- but these guys are happiest when dwelling in cool, dark places, and you wouldn't want them to get angry, would you?}
+{320}{}{Você está olhando o futuro da guerra biológica! Mas não se preocupe, essas máquinas de abate viciosas não conseguem
+  você, como eles estão bloqueados com segurança dentro dos limites de sua gaiola altamente segura. Você terá que desculpar a iluminação fraca,
+  Mas esses caras são mais felizes quando moram em lugares legais, e você não quer que eles se irritem, você quer?}
 {321}{}{[Fim de sessão.]}
-{400}{}{Here you can see plant life unlike any you've seen before! This exciting new species, derived from the Venus Fly
- Trap, was specifically engineered by our brilliant scientists to be able to survive in a world devastated by a nuclear
- war. Why would we want to do that? It's simple.}
+{400}{}{Aqui você pode ver a vida vegetal diferente de qualquer que você já viu antes! Esta nova e excitante espécie, derivada da Venus Fly
+  Trap, foi projetada especificamente por nossos brilhantes cientistas para poder sobreviver em um mundo devastado por uma guerra 
+  nuclear. Por que queremos fazer isso? É simples.}
 {401}{}{[MAIS]}
-{410}{}{After a global nuclear war, scientists believe that much of the Earth will become a barren wasteland. Plant life
- will have a difficult time surviving in this harsh new environment. Now imagine us emerging from the safety of our
- Vault-Tec vaults only to find that all the plants are dead! That'd mean no more salads for Mom, and no more lawns for
- Billy and Rover to play fetch in.}
+{410}{}{Após uma guerra nuclear global, os cientistas acreditam que grande parte da Terra se tornará uma terra deserta estéril. Vida vegetal
+  Terá dificuldade em sobreviver neste novo e severo ambiente. Agora imagine-nos emergindo da segurança de nossos
+  Cofres Vault-Tec apenas para descobrir que todas as plantas estão mortas! Isso não significaria mais saladas para mamãe, e não há mais gramados para
+  Billy e Rover para jogar buscar.}
 {411}{}{[MAIS]}
-{420}{}{Sounds terrible, doesn't it? But don't worry. These new plants may be the answer to that problem. Instead of
- relying on fertile soil and rainfall, they're able to derive nutrients by killing and eating animals, just like
- people! All through the wonders of science!}
+{420}{}{Parece terrível, não é? Mas não se preocupe. Essas novas plantas podem ser a resposta para esse problema. Ao invés de
+  dependendo de solo fértil e chuva, eles são capazes de derivar nutrientes matando e comendo animais, assim como
+  pessoas! Ao longo das maravilhas da ciência!}
 {421}{}{[Fim de sessão.]}

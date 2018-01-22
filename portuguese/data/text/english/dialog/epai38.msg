@@ -1,10 +1,10 @@
-{100}{}{Force field control panel.}
-{200}{}{You successfully disable the force field.}
-{201}{}{You fail to disable the force field.}
-{202}{}{You successfully enable the force field.}
-{203}{}{You fail to enable the force field.}
-{210}{}{ disables the force field.}
-{211}{}{ fails to disable the force field.}
-{212}{}{ enables the force field.}
-{213}{}{ fails to enable the force field.}
-{300}{}{You have destroyed the computer.}
+{100}{}{Painel de controle de campo de força.}
+{200}{}{Você desabilita com êxito o campo de força.}
+{201}{}{Você não consegue desativar o campo de força.}
+{202}{}{Você habilita com êxito o campo de força.}
+{203}{}{Você não habilita o campo de força.}
+{210}{}{ desabilita o campo de força.}
+{211}{}{ falha para desativar o campo de força.}
+{212}{}{ habilita o campo de força.}
+{213}{}{ falha ao ativar o campo de força.}
+{300}{}{Você destruiu o computador.}
