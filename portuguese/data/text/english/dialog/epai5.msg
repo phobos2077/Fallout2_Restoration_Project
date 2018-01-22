@@ -1,10 +1,10 @@
 {100}{}{Você vê uma porta.}
-{101}{}{You see an electronic door.}
-{102}{}{You see an electronic door with an override, voice activated, lock.}
-{200}{}{Confirm code:}
+{101}{}{Você vê uma porta eletrônica.}
+{102}{}{Você vê uma porta eletrônica com uma substituição, ativada por voz, bloqueio.}
+{200}{}{Confirme o código:}
 {201}{}{XY104FD}
 {202}{}{BFN12}
-{203}{}{Open}
+{203}{}{Aberto}
 {204}{}{Wheat}
 {205}{}{Abre}
 {206}{}{[FIM]}
