@@ -66,7 +66,7 @@
 {310}{}{All right, then. I'm leaving.}
 {315}{}{Hold on a minute there, tribal...(Smiles, taps briefcase.) Ol' Tomcat says you're a team player. I need people like that.
  I got a job for you, if you're interested.}
-{316}{}{I'm listening.}
+{316}{}{Eu estou ouvindo.}
 {317}{}{No, I've really got to be heading on.}
 {325}{}{(Checks you out for a moment, then nods.) Yeah...I got a job for you. }
 {326}{}{I have this..."problem" down South in NCR. This fella, Westin, has a big mouth that needs to be shut...permanently.

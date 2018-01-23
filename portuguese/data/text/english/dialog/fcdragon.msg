@@ -92,7 +92,7 @@
 {188}{}{Grande. Tchau.}
 {189}{}{Seu kung fu não é bom aqui.}
 {190}{}{Eu vou te vencer um dia, Dragão.}
-{191}{}{I will be waiting for you, Lo Pan.}
+{191}{}{Eu estarei esperando por você, Lo Pan.}
 {200}{}{O Dragão detecta seu avanço e você desliza por ele.}
 {201}{}{Um ladrão não tem honra entre os Shi. Saia agora.}
 {202}{}{Eu avisei a você para sair. Agora você deve pagar.}

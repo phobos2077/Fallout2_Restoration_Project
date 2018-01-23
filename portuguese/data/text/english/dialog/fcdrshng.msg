@@ -1,57 +1,57 @@
-{100}{}{You see a crazed-looking Shi scientist.}
-{101}{}{You see Dr. Sheng.}
-{200}{}{[You see a Shi scientist with a wispy beard and a crazed look in his eyes. His hair and clothes are disheveled and he appears to have not slept in days.] Ah! Yes! Yes, I was expecting you. They told me you were coming. [He looks you up and down.] Yes, you are perfect.}
-{201}{}{I won't argue with that, but what the hell is going on here?}
-{202}{}{You must be Dr. Sheng. Dr. Wong told me your location. The Shi thought you might be dead.}
-{203}{}{First of all, what are these creatures?}
-{204}{}{Perfect for what, exactly?}
-{205}{}{Who told you I was coming?}
-{210}{}{Science! What else? I am Dr. Sheng and these creatures are my creations. Beautiful, are they not?}
-{211}{}{Uh, yeah ... But, what are they?}
-{212}{}{Actually, I find them rather repulsive. Vomit inducing, really. And that smell, both sweet and fetid, like syrup made from corpse juice. What are these things?}
-{220}{}{Ha! Dr. Wong wishes I were dead. Oh no, I am doing better than ever. And things will only improve if you are willing to assist me.}
-{221}{}{Assist you with what?}
-{222}{}{Hold on. Before I agree to help you with anything, tell me what these creatures are.}
-{230}{}{They are the future! A new race of sentient plant life forms, created by me. I have finally achieved success in synthesizing my new plant life with fresh human cadavers! As you can see, this endows the plants with, sensory, ambulatory, and vocal capabilities which they would otherwise lack. It also grants a human-like appearance which will allow them to more easily assimilate into our culture.}
-{231}{}{So where are you getting these 'fresh human cadavers'? }
-{232}{}{Assimilate into our culture? Good luck with that. The ghouls and mutants can hardly manage that and they are—or were—at one point human. These things are abominations.}
-{233}{}{Actually, I've met a spore plant that could talk without being infused with a human body.}
-{234}{}{That's incredible. As a fellow student of science, I must know how this was made possible.}
-{240}{}{Perfect for the task at hand. You see, not all of my experimental creatures have been as successful as the specimens you see here. Most tend to end up being mindless, violent brutes. I keep these failures locked within a pen in my lab, but they recently got loose. I managed to get out and lock the door before any could escape into the wild, but now I am unable to return to my lab.}
-{241}{}{So what do you want me to do about it?}
-{250}{}{My creations, of course. They are ever vigilant of the wastes. There is much out there to be wary of, as I'm sure you would agree. When they told me of your approach, I instructed them to bring you to me, as I believe you may be able to assist me.}
-{251}{}{Assist you with what?}
-{252}{}{Before I agree to assist you with anything, tell me what these creatures are.}
-{260}{}{Oh, mostly from raiders who foolishly decide to attack us here. But enough about that. I must know if you are willing to assist me.}
-{261}{}{Assist you with what?}
-{270}{}{You see, not all of my experimental creatures have been as successful as the specimens you see here. Most tend to end up being mindless, violent brutes. I keep these failures locked within a pen in my lab, but they recently got loose. I managed to get out and lock the door before any could escape into the wild, but now I am unable to return to my lab.}
-{271}{}{So what do you want me to do about it?}
-{280}{}{How you feel about my work is of no concern to me. Now I shall be blunt. I have a task which you seem qualified for. Upon its completion, you will be rewarded. Are you interested?}
-{281}{}{I'm listening.}
-{282}{}{I want nothing to do with you or your disgusting creations.}
-{290}{}{Excellent! Give them to me, and you shall be rewarded.}
-{291}{}{Sure, it's not like I have much use for them. Here you go.}
-{292}{}{Nah. I've grown rather fond of the little guys. I think I'll hold on to them. Maybe start a garden or something.}
-{293}{}{I don't have them on me but I'll go see if I can find them.}
-{294}{}{I don't have them on me, and even if I did I wouldn't hand them over to you. I want nothing to do with you or your veggie-zombies.}
-{300}{}{The facility is known as the EPA. I've marked it on your mapping device. Please, go there and try to find some seeds. And not just any plain old seeds — they must be unique.}
-{301}{}{Ah, it seems you already know the location of the EPA. Please, go there and try to find some seeds. And not just any plain old seeds — they must be unique.}
+{100}{}{Você vê um cientista Shi enlouquecido.}
+{101}{}{Você vê o Dr. Sheng.}
+{200}{}{[Você vê um cientista Shi com uma barba rala e um olhar enlouquecido em seus olhos. Seu cabelo e suas roupas estão desgrenhados e ele parece não ter dormido nos dias.] Ah! Sim! Sim, eu estava esperando você. Eles me disseram que você estava vindo. [Ele olha você para cima e para baixo.] Sim, você é perfeito.}
+{201}{}{Eu não vou discutir com isso, mas o que diabos está acontecendo aqui?}
+{202}{}{Você deve ser o Dr. Sheng. O Dr. Wong me contou sua localização. O Shi achou que você poderia estar morto.}
+{203}{}{Primeiro de tudo, o que são essas criaturas?}
+{204}{}{Perfeito para o que, exatamente?}
+{205}{}{Quem disse a você que eu estava vindo?}
+{210}{}{A ciência! O que mais? Eu sou o Dr. Sheng e essas criaturas são as minhas criações. Bonito, não?}
+{211}{}{Uh, sim ... Mas, o que são eles?}
+{212}{}{Na verdade, acho-os bastante repulsivos. Vomito induzindo, na verdade. E aquele cheiro, doce e fétido, como o xarope feito de suco de cadáver. O que são essas coisas?}
+{220}{}{Ha! O Dr. Wong deseja que eu estivesse morto. Oh não, estou melhor do que nunca. E as coisas só melhorarão se você estiver disposto a me ajudar.}
+{221}{}{Ajudá-lo com o que?}
+{222}{}{Aguente. Antes de eu concordar em ajudá-lo com qualquer coisa, me diga o que essas criaturas são.}
+{230}{}{Eles são o futuro! Uma nova raça de formas de vida vegetal sensíveis, criada por mim. Eu finalmente consegui sucesso na síntese da minha nova vida vegetal com cadáveres humanos frescos! Como você pode ver, isso proporciona às plantas, capacidades sensoriais, ambulatoriais e vocais que de outra forma não teriam. Também garante uma aparência humana que lhes permita aderir mais facilmente à nossa cultura.}
+{231}{}{Então, onde você está recebendo esses "cadáveres de seres humanos'? }
+{232}{}{Assimilar a nossa cultura? Boa sorte com isso. Os ghouls e os mutantes dificilmente podem controlar isso e são - ou eram - em um ponto humanos. Essas coisas são abominações.}
+{233}{}{Na verdade, conheci uma planta de esporos que poderia falar sem ser infundida com um corpo humano.}
+{234}{}{Isso é incrível. Como um colega de ciência, eu preciso saber como isso foi possível.}
+{240}{}{Perfeito para a tarefa em questão. Você vê, nem todas as minhas criaturas experimentais foram tão bem sucedidas quanto os espécimes que você vê aqui. A maioria tende a acabar sendo imprudentes, brutos violentos. Eu mantenho essas falhas trancadas dentro de uma cela no meu laboratório, mas elas escaparam recentemente. Eu consegui sair e trancar a porta antes de qualquer poderia escapar para a natureza, mas agora eu não consigo retornar ao meu laboratório.}
+{241}{}{Então, o que você quer que eu faça sobre isso?}
+{250}{}{Minhas criações, é claro. Eles estão sempre vigilantes com os resíduos. Há muito lá para se esquecer, como tenho certeza de que você concordaria. Quando me contaram a sua abordagem, instruí-los a levá-lo para mim, pois acredito que você pode me ajudar.}
+{251}{}{Ajudá-lo com o que?}
+{252}{}{Antes de eu concordar em ajudá-lo com qualquer coisa, diga-me o que essas criaturas são.}
+{260}{}{Oh, principalmente a partir de assaltantes, que tolamente decidem atacar-nos aqui. Mas o suficiente sobre isso. Devo saber se você está disposto a me ajudar.}
+{261}{}{Ajudá-lo com o que?}
+{270}{}{Você vê, nem todas as minhas criaturas experimentais foram tão bem sucedidas quanto os espécimes que você vê aqui. A maioria tende a acabar sendo imprudentes, brutos violentos. Eu mantenho essas falhas trancadas dentro de uma cela no meu laboratório, mas elas escaparam recentemente. Eu consegui sair e trancar a porta antes de qualquer poderia escapar para a natureza, mas agora eu não consigo retornar ao meu laboratório.}
+{271}{}{Então, o que você quer que eu faça sobre isso?}
+{280}{}{Como você se sente sobre meu trabalho não me interessa. Agora devo ser contundente. Eu tenho uma tarefa que você parece qualificado. Após a sua conclusão, você será recompensado. Você está interessado?}
+{281}{}{Eu estou ouvindo.}
+{282}{}{Eu não quero nada com você ou com suas criações nocivas.}
+{290}{}{Excelente! Dar-lhes a mim, e você será recompensado.}
+{291}{}{Claro, não é como se eu tivesse muito uso para eles. Aqui está.}
+{292}{}{Nah. Eu gostei bastante dos pequenos. Eu acho que vou segurá-los. Talvez comece com um jardim ou algo assim.}
+{293}{}{Eu não os tenho em mim, mas vou ver se consigo encontrá-los.}
+{294}{}{Eu não os tenho em mim, e mesmo que eu tivesse, eu não os entregaria a você. Eu não quero nada com você ou com seus zumbis vegetais.}
+{300}{}{A facilidade é conhecida como a EPA. Marquei no seu dispositivo de mapeamento. Por favor, vá lá e tente encontrar algumas sementes. E não apenas qualquer simples sementes antigas - elas devem ser únicas.}
+{301}{}{Ah, parece que você já conhece a localização da EPA. Por favor, vá lá e tente encontrar algumas sementes. E não apenas qualquer simples sementes antigas - elas devem ser únicas.}
 {302}{}{Eu vou estar de volta.}
-{303}{}{Eh, on second thought, I'm not interested in working for you anymore. We're done here.}
-{310}{}{[His eyes flare with rage] Kill him, my children! His body shall make a fine host for your newest sibling!}
-{311}{}{[His eyes flare with rage] Kill her, my children! Her body shall make a fine host for your newest sibling!}
+{303}{}{Eh, pensando bem, não estou mais interessado em trabalhar para você. Já terminamos aqui.}
+{310}{}{[Seus olhos brilham com raiva] Mate-o, meus filhos! Seu corpo deve fazer um bom acolhimento para o seu mais novo irmão!}
+{311}{}{[Seus olhos brilham com raiva] Mate-a, meus filhos! Seu corpo deve ser um bom anfitrião para seu mais novo irmão!}
 {312}{}{[FEITO]}
-{320}{}{Excellent! Now I shall prepare your reward. Make yourself comfortable. This may take a little while.}
+{320}{}{Excelente! Agora vou preparar a sua recompensa. Sinta-se confortável. Isso pode demorar um pouco.}
 {321}{}{[CONTINUAR]}
-{322}{}{Keep your reward. I don't have time to wait around.}
-{330}{}{Yes, bring the seeds to me and you may claim your reward.}
+{322}{}{Mantenha sua recompensa. Não tenho tempo para esperar.}
+{330}{}{Sim, me traga as sementes e você pode reivindicar sua recompensa.}
 {331}{}{Eu vou estar de volta.}
-{340}{}{Simply giving you the location of the facility is a reward in itself, as it is bound to be full of useful supplies. You may of course keep anything else you find. I am only interested in unique seed samples. Once you have brought them to me, I will give you a gift to present to the Shi.}
-{341}{}{Alright, I'll do it. I'll be back.}
-{342}{}{You call that a reward? I can explore ruins on my own time. I'm not interested.}
-{350}{}{[Looks at you expectantly.]}
-{351}{}{Here are the seeds you wanted.}
-{352}{}{I'll come back when I have the seeds.}
+{340}{}{Basta dar-lhe a localização da instalação é uma recompensa em si, pois é obrigado a estar cheio de suprimentos úteis. Você pode, naturalmente, manter qualquer outra coisa que você encontrar. Só estou interessado em amostras únicas de sementes. Uma vez que você os trouxe para mim, eu lhe darei um presente para apresentar ao Shi.}
+{341}{}{Tudo bem, eu vou fazê-lo. Eu vou estar de volta.}
+{342}{}{Você chama isso de uma recompensa? Eu posso explorar ruínas no meu próprio tempo. Eu não estou interessado.}
+{350}{}{[Olha para você com expectativa.]}
+{351}{}{Aqui estão as sementes que você queria.}
+{352}{}{Eu vou voltar quando eu tiver as sementes.}
 {360}{}{Then it seems I have no further use for you. [He motions to the plant creatures.] Kill him, my children! His body shall make a fine host for your newest sibling!}
 {361}{}{Then it seems I have no further use for you. [He motions to the plant creatures.] Kill her, my children! Her body shall make a fine host for your newest sibling!}
 {362}{}{[FEITO]}
@@ -81,7 +81,7 @@
 {424}{}{There's no way I'm killing Dr. Wong for you. I'm done here.}
 {430}{}{Very well. This poison may come in handy. I extracted it from one of my creations. It is extremely deadly. [He gives you a syringe.]}
 {431}{}{Eu vou ver o que posso fazer.}
-{440}{}{[Looks at you expectantly.]}
+{440}{}{[Olha para você com expectativa.]}
 {441}{}{I'm still working on things. I'll get back to you.}
 {442}{}{I delivered the sample to the Shi.}
 {443}{}{The Shi have the sample and Dr. Wong is dead.}
@@ -92,7 +92,7 @@
 {451}{}{Yeah, I suppose it *does* sound rather silly. Anyway, what did you want me to assist you with?}
 {452}{}{Don't change the subject—I was telling the truth! I swear on the Vault Dweller, his name was Seymour and he could talk. He wanted me to re-plant him in a better location. I'm not making this up and I wasn't hallucinating.}
 {460}{}{Enough! I do not have time for this foolishness. Will you assist me, or not?}
-{461}{}{Assist you with what?}
+{461}{}{Ajudá-lo com o que?}
 {462}{}{No! I'm not going to assist you, asshole! Seymour was real! SEYMOUR WAS REAL!}
 {470}{}{[He grins, obviously eager to show off his genius.] I've always been fascinated by plants. They are so remarkably different from animals, and yet surprisingly similar. When you look at an animal, you know it can think, that it's aware of its surroundings, experiences pain and fear. That it has reason. Obviously the extent of this ability varies, but the point is that an animal possesses this.}
 {471}{}{Continue.
@@ -136,7 +136,7 @@
 {600}{}{I shall give you money, of course. Also, I have information that I believe would be of great interest to you. So, will you assist me?}
 {601}{}{All right. I'll do it.}
 {602}{}{I'm not interested in cleaning up your messes.}
-{610}{}{[Looks at you expectantly.]}
+{610}{}{[Olha para você com expectativa.]}
 {611}{}{I'll come back after I've taken out the creatures in the lab.}
 {612}{}{All the creatures in the lab are dead.}
 {613}{}{All the creatures in the lab are dead, but I've been poisoned. You said something about an antidote?}

@@ -124,12 +124,12 @@
 {229}{}{Se você não se importa de sair com $ 8500, alguns dias e um conjunto de armadura de combate, podemos começar a operação agora.}
 {230}{}{Me amarre, doc. Estou pronto para ir.}
 {231}{}{That's a little steep. Let me get back to you.}
-{232}{}{This is a major operation. It will cost you your "good looks", a set of combat armor, and $49000. Are you willing to invest in this?}
-{233}{}{Hell yes. Let's do it.}
-{234}{}{Wow. That's… expensive. I'll get back to you.}
-{235}{}{::he shakes his head:: Do not toy with me. You are missing necessary ingredients. Listen more carefully to me next time. Now go, and come back when I can help you.}
+{232}{}{Esta é uma operação importante. Vai custar-lhe o seu "bom visual", um conjunto de armadura de combate e $ 49000. Você está disposto a investir nisso?}
+{233}{}{Inferno, sim. Vamos fazer isso.}
+{234}{}{Wow. Isso é... caro. Eu vou voltar para você.}
+{235}{}{:: ele balança a cabeça :: Não brinque comigo. Você está sem os ingredientes necessários. Ouça mais atentamente para mim na próxima vez. Agora vá e volte quando posso ajudá-lo.}
 {236}{}{Tudo bem.}
-{237}{}{There you go! You are … enhanced. Remember… do not pick at the scabs unless you want horrid scarring to add to your suddenly not-entirely-pleasing appearance.}
-{238}{}{Thanks, doc. So long.}
-{239}{}{I have the money for the spleen.}
-{240}{}{Are you interested again in implants?}
+{237}{}{Ai está! Você está ... aprimorado. Lembre-se ... não pegue as crostas, a menos que você queira uma cicatriz horrível para adicionar a sua aparência, de repente, não totalmente agradável.}
+{238}{}{Obrigado, doc. Até mais.}
+{239}{}{Eu tenho o dinheiro para o baço.}
+{240}{}{Você está interessado novamente em implantes?}
