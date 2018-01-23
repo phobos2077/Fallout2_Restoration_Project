@@ -29,11 +29,11 @@
 {125}{}{Continue com seu negócio.}
 {126}{}{Não incomode aqueles que tentam se concentrar.}
 {127}{}{Sua presença é bem-vinda ... lá.}
-{128}{}{The Hub has set us to watch over his flock.}
+{128}{}{O Hub nos colocou para vigiar o seu rebanho.}
 {129}{}{The Star Father cares for you. That's why he gave you us.}
 {130}{}{We're loyal to AHS-9.}
 {131}{}{Obey.}
-{132}{}{Sleep.}
+{132}{}{Dormir.}
 {133}{}{Consume.}
 {134}{}{We have your best interests at heart.}
 {135}{}{.}
