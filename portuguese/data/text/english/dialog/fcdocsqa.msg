@@ -1,22 +1,22 @@
-{100}{}{You see a dirty, ill-kempt person.}
+{100}{}{Você vê uma pessoa suja e maltratada.}
 {101}{}{Você vê um posseiro.}
-{102}{}{You see a dirty, ill-kempt person.}
-{103}{}{This is one of the best homes we've had in years!}
-{104}{}{Ahh... sea air!}
-{105}{}{This is the life, eh? No bosses, no governments... just the clean sea breeze.}
-{106}{}{There's a car in the ocean there. Too bad it's rusted out.}
-{107}{}{I'll bet the kids love it here.}
-{108}{}{Fresh seafood every night! Tasty, even if it has two heads.}
-{109}{}{Our neighbors are certainly "interesting."}
-{110}{}{We'll be moving on sometime, I'm sure.}
-{111}{}{You like our homes?}
-{112}{}{I love living on the beach.}
+{102}{}{Você vê uma pessoa suja e maltratada.}
+{103}{}{Esta é uma das melhores casas que já tivemos nos anos!}
+{104}{}{Ahh... o ar do mar!}
+{105}{}{Esta é a vida, hein? Sem chefes, sem governos ... apenas a brisa do mar.}
+{106}{}{Há um carro no oceano lá. Muito ruim, está enferrujado.}
+{107}{}{Aposto que as crianças adoram aqui.}
+{108}{}{Frutos do mar frescos todos os dias! Gostoso, mesmo se ele tem duas cabeças.}
+{109}{}{Nossos vizinhos são, certamente, "interessantes".}
+{110}{}{Nós vamos estar movendo-se em algum momento, eu tenho certeza.}
+{111}{}{Você gosta de nosso lar?}
+{112}{}{Eu amo morar na praia.}
 {113}{}{Por favor, não me faça mal!}
-{114}{}{No! Don't hurt me!}
-{115}{}{Leave my children alone!}
-{116}{}{Stop! Don't hurt us!}
-{117}{}{I'll do anything!}
+{114}{}{Não! Não me machucar!}
+{115}{}{Deixe meus filhos sozinhos!}
+{116}{}{Parar! Não nos machucar!}
+{117}{}{Eu vou fazer de tudo!}
 {118}{}{Ajuda!}
-{119}{}{Oh no! An oppressor!}
-{120}{}{Oh, if only we had guards!}
-{121}{}{I regret giving up the protection of society now...}
+{119}{}{Oh, não! Um opressor!}
+{120}{}{Ah, se apenas tivéssemos guardas!}
+{121}{}{Lamento desistir da proteção da sociedade agora ...}

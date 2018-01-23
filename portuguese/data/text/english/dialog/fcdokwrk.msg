@@ -1,29 +1,29 @@
-{100}{}{You see a Shi peasant.}
-{101}{}{You see a dockworker.}
-{102}{}{You see a Shi peasant whose clothes are smeared with fish scales, tar, and salt.}
-{103}{}{Nice day to be at the ocean.}
-{104}{}{I always did like the waves.}
-{105}{}{You like fish juice?}
-{106}{}{Sun, fresh air, and seafood. What more could anyone want but a bath?}
-{107}{}{I am getting sick of fish.}
-{108}{}{My back hurts.}
-{109}{}{Oh, look... Another tourist.}
-{112}{}{Look out for the monsters in the tanker. Oh, wait... I guess you already did.}
-{113}{}{So you're getting through the tanker all right?}
-{114}{}{That tanker's a tough place. That's what the punks say.}
-{115}{}{Are you getting somewhere in there?}
-{116}{}{Nice day to be at the ocean.}
-{117}{}{I always did like the waves.}
-{118}{}{You like fish juice?}
-{119}{}{Sun, fresh air, and seafood. What more could anyone want but a bath?}
-{120}{}{I am getting sick of fish.}
-{121}{}{My back hurts.}
-{122}{}{Oh, look... another tourist.}
+{100}{}{Você vê um Shi camponês.}
+{101}{}{Você vê um trabalhador portuário.}
+{102}{}{Você vê um camponês Shi cujas roupas são manchadas com escamas de peixe, alcatrão e sal.}
+{103}{}{Bom dia para estar no oceano.}
+{104}{}{Eu sempre fiz como as ondas.}
+{105}{}{Você gosta de suco de peixe?}
+{106}{}{Sol, ar fresco e frutos do mar. O que mais alguém poderia querer, mas um banho?}
+{107}{}{Estou a ficar farto de peixes.}
+{108}{}{Minhas costas doem.}
+{109}{}{Oh, não... Outro turista.}
+{112}{}{Procure os monstros do petroleiro. Oh, espere ... acho que você já fez.}
+{113}{}{Então você está passando pelo petroleiro tudo bem?}
+{114}{}{Esse petroleiro é um lugar difícil. Isso é o que dizem os punks.}
+{115}{}{Você está chegando em algum lugar lá?}
+{116}{}{Bom dia para estar no oceano.}
+{117}{}{Eu sempre fiz como as ondas.}
+{118}{}{Você gosta de suco de peixe?}
+{119}{}{Sol, ar fresco e frutos do mar. O que mais alguém poderia querer, mas um banho?}
+{120}{}{Estou a ficar farto de peixes.}
+{121}{}{Minhas costas doem.}
+{122}{}{Oh, não... outro turista.}
 {125}{}{}
 {126}{}{}
 {127}{}{}
 {128}{}{}
-{150}{}{Time to die, tourist.}
-{151}{}{Think you can handle a dock fight?}
-{152}{}{I don't think you'll be too tough.}
-{153}{}{Let's see how you like the rough and tumble of a Shi dockworker!}
+{150}{}{Hora de morrer, turista.}
+{151}{}{Acha que você pode lidar com uma luta na doca?}
+{152}{}{Eu não acho que você vai ser muito difícil.}
+{153}{}{Vamos ver como você gosta do áspero e da queda de um trabalhador portuário Shi!}

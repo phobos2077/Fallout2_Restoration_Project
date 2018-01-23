@@ -1,4 +1,4 @@
-{100}{}{You see a kid.}
+{100}{}{Você vê uma criança.}
 {101}{}{Você vê uma criança.}
 {102}{}{This kid looks much like other kids.}
 {103}{}{You look mean.}

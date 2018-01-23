@@ -1,4 +1,4 @@
-{100}{}{You see a guard in loose clothing, wearing a look of wary boredom.}
+{100}{}{Você vê um guarda com roupas soltas, usando um olhar de tédio cauteloso.}
 {101}{}{You see a Palace Guard.}
 {102}{}{You see a Palace Guard.}
 {103}{}{Just keep moving along and there'll be no problem.}

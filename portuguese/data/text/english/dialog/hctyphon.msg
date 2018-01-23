@@ -55,12 +55,12 @@
 {151}{}{Anything else you can tell me?}
 {152}{}{It's kind of a joke. There ain't any ghouls but old ghouls. We're all sterile, see, but we're incredibly long-lived. We're the first and last generation of ghouls. This is a place for those of us who just wanna rest for a while.}
 {153}{}{I see. I had other questions.}
-{154}{}{Got it. Bye.}
+{154}{}{Tenho-o. Tchau.}
 {155}{}{I'm Typhon. Y'ever hear of Set? He used to run the old-time town of Necropolis. I'm his son. Got born before the radiation hit us, so I grew up mutated. Ain't never been any other way for me.}
 {156}{}{Tell me about Set.}
 {157}{}{Set? I heard he was a total bastard!}
 {158}{}{I see. I had other questions.}
-{159}{}{Got it. Bye.}
+{159}{}{Tenho-o. Tchau.}
 {160}{}{Yep. Used to have some, but all the pure-strain humans stole 'em to make their own little Gardens of Eden. Vault City might be your best bet to find one. Either there or NCR to the south.}
 {161}{}{Damn. Okay, I had more questions.}
 {162}{}{Damn. Bye.}

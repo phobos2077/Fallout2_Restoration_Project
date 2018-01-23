@@ -5,7 +5,7 @@
 {200}{}{[He appears deep in thought. Upon noticing you, he does a startled jump, then quickly regains his composure.] Uh, yes, outworlder? If you come seeking spiritual guidance, I'm afraid I'm not up to it at the moment. Perhaps... perhaps some other time.}
 {201}{}{Huh?! Oh, it's you again. You shouldn't sneak up on people like that. Look, I've got a lot on my mind at the moment. Perhaps I could help you some other time.}
 {202}{}{It seems like something is troubling you. Is there anything I could help you with?}
-{203}{}{I'll come back later.}
+{203}{}{Eu vou voltar mais tarde.}
 {204}{}{Huh-huh! I skeered yu! Booh!}
 {210}{}{The offer is appreciated, but... No, no, this is a personal matter that I must face on my own.}
 {211}{}{[He contemplates for a moment, then sighs.] This is rather embarrassing to admit but... You see, I've never actually *believed* in spirits, the afterlife, any of it. I know what you're thinking, what good is a shaman that doesn't believe? It's just that, well, it was either this or I take up a spear and hunt geckos with the warriors. Do I look like a warrior to you? Wait, don't answer that.}

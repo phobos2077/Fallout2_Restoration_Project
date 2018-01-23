@@ -49,10 +49,10 @@
 }
 {179}{}{I am Harry, AHS-5. I am the starbrother in charge of the rocket ship. We are going to use it to travel to Quetzel.}
 {180}{}{Can I ask something else?}
-{181}{}{Got it. Bye.}
+{181}{}{Tenho-o. Tchau.}
 {182}{}{What I'm doing is preparing the ship for the grand trip to the Star-Father. We're very close right now.}
 {183}{}{Can I ask something else?}
-{184}{}{Got it. Bye.}
+{184}{}{Tenho-o. Tchau.}
 {185}{}{You have the plans? Excellent! Now all we need is fuel! The Shi have a bunch. See if you can go route some to us. Good luck, recruit!}
 {186}{}{[FEITO]}
 {187}{}{Then you must go get them, yes? Now please excuse me, comrade - I must continue readying the ship for our epic journey.}

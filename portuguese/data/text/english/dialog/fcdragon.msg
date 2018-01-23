@@ -1,17 +1,18 @@
-{100}{}{You see a bare-chested Shi man.}
-{101}{}{You see the Dragon, hero to many of the Shi peasants.}
-{102}{}{You see a bare-chested, well-muscled man whose hands look like dangerous weapons.}
-{103}{}{How may I be of assistance?}
+{100}{}{Você vê um homem Shi com cabelos nus.}
+{101}{}{Você vê o Dragão, o herói para muitos dos Shi camponeses.}
+{102}{}{Você vê um homem descolado, bem musculoso, cujas mãos se parecem com armas perigosas.}
+{103}{}{Como posso ser de ajuda?}
 {104}{}{Dinkle humper doo!}
 {105}{}{Você quem?}
-{106}{}{Who was that you were fighting?}
+{106}{}{Quem foi que você estava lutando?}
 {107}{}{Quem é você?}
-{108}{}{Teach me how to fight.}
-{109}{}{I wish to challenge you.}
+{108}{}{Ensina-me a lutar.}
+{109}{}{Eu gostaria de desafiá-lo.}
 {110}{}{Esqueça.
 }
-{111}{}{I am afraid I do not understand your language. ::he bows:: Good day.}
-{112}{}{Byeeeee!}
+{111}{}{Tenho medo de não entender o seu idioma. :: ele se inclina :: Bom dia.}
+{112}{}{Tchau!
+}
 {113}{}{I am the Dragon, friend. I fight oppression and my enemy, Lo Pan, who desires to control this town. I fight, and I teach others to fight.}
 {114}{}{Teach me!}
 {115}{}{Tank yu.}

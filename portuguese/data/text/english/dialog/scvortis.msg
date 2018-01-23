@@ -84,7 +84,7 @@
 }
 {204}{}{Excellent. Here, let me mark these coordinates on your map thingy. Report back when you're done.}
 {205}{}{Your loss. Now you best make yourself scarce, in case those Rangers ever wise up.}
-{206}{}{Alright. Bye.}
+{206}{}{Tudo bem. Tchau.}
 {207}{}{Actually, do you think you could send some of your men along with me? It'd make things go a hell of a lot faster, and further guarantee success.}
 {210}{}{You're back. Did you wipe out the Rangers' safe houses?}
 {211}{}{Hell yeah I did. Piece of cake.}

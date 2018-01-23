@@ -10,48 +10,49 @@
 {210}{}{Meu problema? [Ele ri amargamente.] Loa wai, você não deseja saber o meu problema. Para ouvir sobre dores como as minhas
   é esquecer o som do riso de uma criança e o caloroso abraço de um amante. Não, confie em mim, você não deseja vislumbrar o meu inferno pessoal.}
 {211}{}{I've witnessed a lot of terrible things in my time. I'm sure that whatever your problem is, I can handle it.}
-{212}{}{You think *your* problems are bad? I bet they don't *compare* to things I've been through.}
-{213}{}{I'm sorry things have been rough for you, but it might help to talk about it. If you're willing to talk, then I'm willing to listen.}
-{214}{}{All right Mr. Melodrama, I'm gonna leave now before you make me depressed. Bye.}
-{220}{}{Fine. You want to know my problem. I'll tell you. Two years ago, my brother, who looks very similar to me, had
- an affair with a local gang leader's girlfriend. The gang leader found out about it and my brother fled town. The gang
- caught me instead, and, thinking I was my brother, they severed my penis as punishment. Now I piss through a tube.}
-{221}{}{Oh, well— }
-{230}{}{Oh no! I'm not done yet. Then my beautiful girlfriend left me, because I was no longer a "real man" and could not
- satisfy her. She then married my next door neighbor, who also happens to be my boss. Now, all day at work, he orders me
- around and mocks me with my co-workers. And every night I must try to fall asleep to the sound of him making love to the
- girl I should have married.}
-{231}{}{Hahaha! Holy shit, you're a loser. Why don't you do yourself a favor and just end it?}
-{232}{}{I, uh, wow, I'm not sure what to say. That's a terrible story.}
-{233}{}{I'm sorry that happened to you, Meng. Life can be cruel, but it can always get better. If I were you, I'd move
- somewhere else and find a different job. Otherwise you'll never be able to move on.}
-{240}{}{Yes. Yes, this is what I should have done long ago. It is the only way to retain what little honor I have left.
- Thank you, lao wai. [He takes out a knife and slits his throat. You watch as he quickly bleeds to death.]}
+{212}{}{Você pensa que * seus * problemas são ruins? Eu aposto que eles não * comparam-se * com as coisas que passei.}
+{213}{}{Lamento que as coisas tenham sido difíceis para você, mas isso pode ajudar a falar sobre isso. Se você está disposto a falar, então estou disposto a ouvir.}
+{214}{}{Tudo bem, Sr. Melodrama, vou partir agora antes de me deixar deprimida. Tchau.}
+{220}{}{Bem. Você quer saber o meu problema. Eu vou te dizer. Dois anos atrás, meu irmão, que parece muito parecido comigo, teve
+  Um caso com a namorada do líder de uma gangue local. O líder da gangue descobriu isso e meu irmão fugiu da cidade. A gangue
+  Me surpreendeu, e, pensando que eu era meu irmão, eles cortaram meu pênis como punição. Agora eu mijo através de um tubo.}
+{221}{}{Oh, bem }
+{230}{}{Ah não! Ainda não terminei. Então minha linda namorada me deixou, porque eu não era mais um "homem real" e não podia
+  satisfazer-la. Ela então se casou com meu vizinho, que também é meu chefe. Agora, o dia todo no trabalho, ele me ordena
+  ao redor e zomba com meus colegas de trabalho. E todas as noites eu devo tentar adormecer ao som dele fazendo amor com a
+  garota com quem eu deveria ter me casado.}
+{231}{}{Hahaha! Puta merda, você é um perdedor. Por que você não se faz um favor e acaba com isso?}
+{232}{}{Eu, uh, wow, eu não tenho certeza do que dizer. Essa é uma história terrível.}
+{233}{}{Desculpe-me que tenha acontecido com você, Meng. A vida pode ser cruel, mas sempre pode melhorar. Se eu fosse você, eu me moviria
+  em outro lugar e encontraria um trabalho diferente. Caso contrário, você nunca poderá seguir em frente.}
+{240}{}{Sim. Sim, isso é o que eu deveria ter feito há muito tempo. É a única maneira de reter o pouco da honra que deixei.
+  Obrigado, lao wai. [Ele tira uma faca e corta sua garganta. Você observa enquanto ele sangra rapidamente até a morte.]}
 {241}{}{[FEITO]}
-{250}{}{Yes. This I warned you about. Now, let me be. I have nothing else to say to you.}
+{250}{}{Sim. Isso eu avisei sobre você. Agora, deixe-me estar. Não tenho mais nada a dizer-lhe.}
 {251}{}{[FEITO]}
-{260}{}{Perhaps you are right. All my life, I've known nothing but the Shi. But there is nothing left here for me but sorrow.
- Yes, I think I shall venture out into the world and forge a new destiny. Even if the wastes offer me nothing but a swift
- death, that is preferable to remaining here. Thank you, lao wai.}
-{261}{}{Good luck, Meng. I hope your fortunes improve.}
-{262}{}{Before you start packing, I was wondering if you could answer a question or two for me?}
-{270}{}{Why not? I'm severing all ties to the Shi. Their secrets now mean nothing to me. Ask what you will.}
-{271}{}{What can you tell me about that guarded motorboat over there? }
-{272}{}{Never mind. Good luck on your new life, Meng.}
-{280}{}{The Shi use that motorboat to access our sleeping guardian, the sub.}
-{281}{}{What can you tell me about the sub?}
-{290}{}{The Shi-Huang-Ti is the submarine that brought our ancestors to this place from a far away land. In the aftermath
- of the Great War it lost power and ran aground in the San Francisco bay. Captain Ye Li and his crew then made their way
- to this city and established what would become the Shi society.}
-{291}{}{You referred to it as a "sleeping guardian." What do you mean by that?}
-{300}{}{Like a hibernating dragon whose snores can still produce deadly fire -- the sub is immobile, but not helpless.
- The Shi have been working on it in secret, making clandestine trips to the sub under cover of night. Its weapons have
- been reactivated and will surly destroy any non-Chinese vessels that dare to sail through this bay.}
-{301}{}{So, let's say, *hypothetically*, if that big tanker that's docked here where to try and set sail...}
-{310}{}{Then... BOOM!}
-{311}{}{Gotcha. I don't suppose you know how I could disarm it?}
-{320}{}{Only the Shi's technicians would know such a thing. I've told you all I know.}
-{321}{}{Thanks, Meng. Good luck with your new life.}
-{330}{}{Now it is time to begin anew...}
-{350}{}{Leave me be, lao wai.}
-{400}{}{You convince Meng to move on with his life.}
+{260}{}{Talvez você esteja certo. Toda a minha vida, eu não conheci nada além do Shi. Mas não há mais nada para mim senão tristeza.
+  Sim, acho que vou me aventurar no mundo e forjar um novo destino. Mesmo que os resíduos não me ofereçam nada além de uma rápida
+  morte, é preferível a permanecer aqui. Obrigado, lao wai.}
+{261}{}{Boa sorte, Meng. Espero que suas fortunas melhorem.}
+{262}{}{Antes de começar a arrumar, eu estava me perguntando se você poderia responder a uma pergunta ou duas para mim?}
+{270}{}{Por que não? Estou cortando todos os laços com o Shi. Os seus segredos agora não significam nada para mim. Pergunte o que você quiser.}
+{271}{}{O que você pode me dizer sobre o que guarda lancha ali? }
+{272}{}{Deixa pra lá. Boa sorte na sua nova vida, Meng.}
+{280}{}{Os Shi usa essa lancha para acessar o nosso guardião dormindo, o submarino.}
+{281}{}{O que você pode me dizer sobre o sub?}
+{290}{}{O Shi-Huang-Ti é o submarino que trouxe nossos antepassados para este lugar de uma terra distante. No rescaldo
+  da Grande Guerra, perdeu força e encalhou na baía de San Francisco. O capitão Ye Li e sua tripulação então abriram caminho
+  para esta cidade e estabeleceu o que se tornaria a sociedade Shi.}
+{291}{}{Você se referiu a isso como um "guardião adormecido". O que você quer dizer com isso?}
+{300}{}{Como um dragão hibernante, cujos roncos ainda podem produzir fogo mortal - o submarino é imobilizado, mas não impotente.
+  O Shi tem trabalhado nele em segredo, fazendo viagens clandestinas ao submarino sob a cobertura da noite. Suas armas 
+  foram reativadas e destruirá os navios que não são chineses que se atrevem a navegar por esta baía.
+}
+{301}{}{Então, digamos, * hipoteticamente *, se aquele grande petroleiro que está ancorado aqui tentar navegar ...}
+{310}{}{Então... BOOM!}
+{311}{}{Peguei vocês. Eu não suponho que você sabe como eu poderia desarmá-lo?}
+{320}{}{Somente os técnicos do Shi saberiam tal coisa. Eu disse a você tudo o que sei.}
+{321}{}{Obrigado, Meng. Boa sorte com a sua nova vida.}
+{330}{}{Agora é hora de começar de novo...}
+{350}{}{Deixe-me estar, lao wai.}
+{400}{}{Você convencer Meng para seguir em frente com sua vida.}

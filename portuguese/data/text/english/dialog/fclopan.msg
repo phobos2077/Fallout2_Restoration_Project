@@ -4,10 +4,10 @@
 {103}{}{O que você quer?}
 {104}{}{Daggle aggle aggle!}
 {105}{}{Quem é você?}
-{106}{}{Who was that you were fighting?}
+{106}{}{Quem foi que você estava lutando?}
 {107}{}{Quem é você?}
 {108}{}{I want to learn to fight like you. Teach me.}
-{109}{}{I wish to challenge you.}
+{109}{}{Eu gostaria de desafiá-lo.}
 {110}{}{Esqueça.
 }
 {111}{}{Get out of here, idiot. I don't have anything to say to you.}

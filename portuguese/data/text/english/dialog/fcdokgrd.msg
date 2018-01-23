@@ -1,45 +1,45 @@
-{100}{}{You see a guard in loose clothing, wearing a look of wary boredom.}
-{101}{}{You see a dock guard. He's unusually well armed.}
-{102}{}{You see the motorboat guard.}
-{150}{}{Hey! Step away from that!}
-{151}{}{Don't even think about that. This is your last warning.}
-{152}{}{I warned you, lao wai, now die!}
-{200}{}{What do you want, lao wai?}
-{201}{}{It's you again. What is it that you want, lao wai?}
-{202}{}{What are you guarding?}
-{203}{}{I need to use the motorboat.}
+{100}{}{Você vê um guarda com roupas soltas, usando um olhar de tédio cauteloso.}
+{101}{}{Você vê um guarda-costas. Ele está excepcionalmente bem armado.}
+{102}{}{Você vê o guarda da lancha.}
+{150}{}{Hey! Passo longe!}
+{151}{}{Nem pense nisso. Este é o seu último aviso.}
+{152}{}{Eu avisei, lao wai, agora morre!}
+{200}{}{O que você quer, lao wai?}
+{201}{}{É você de novo. O que é que você quer, lao wai?}
+{202}{}{O que você está protegendo?}
+{203}{}{Eu preciso usar o barco.}
 {204}{}{Nada. Tchau.}
-{210}{}{Everything. Don't try anything funny.}
-{211}{}{Can't you be any more specific?}
-{220}{}{No. Now back away, outsider.}
-{221}{}{Alright. Bye.}
-{222}{}{Nobody tells me what to do. You're fucking dead!}
-{230}{}{And I need you to fuck right off. You're not permitted to use the motorboat, hell, you're a lao wai, not a Shi.}
-{231}{}{Listen, I'm in a desperate situation. If you don't let me use that motorboat, then my entire tribe could die.
- Right now, they're in the clutches of those Enclave bastards and they're counting on me to save them. But in order to
- do that, I'm going to need to use that motorboat. If you won't let me use it, I'll have to take it by force and one of
- us will end up dead. Please, don't let it come to that.}
-{232}{}{Actually, I'm an honorary member of the Shi. I was hired for the submarine maintenance team due to my expertise in...subology. Here's my password...}
-{233}{}{I don't think you realize who you're insulting. Time to die, asshole.}
-{234}{}{Alright, I'm going... Sheesh, some people...}
-{240}{}{[He stares at you for a long moment, then sighs.] Look, no one gets on this boat without giving the proper password. You know, like the one you just gave me. [Mumbles.] Ken Lee's going to have my head for this...}
-{241}{}{Thank you, friend. And don't worry, I won't speak a word of this anyone.}
-{250}{}{I hope not, for both our sakes... Let me know when you're ready to use the boat. You can't bring anyone with you, as it'll draw too much attention. You'll have to go at this alone.}
-{251}{}{I'd like to use it right now.}
+{210}{}{Tudo. Não tente nada de engraçado.}
+{211}{}{Você não pode ser mais específico?}
+{220}{}{Não. Agora, afastado, estranho.}
+{221}{}{Tudo bem. Tchau.}
+{222}{}{Ninguém me diz o que fazer. Você está fodidamente morto!}
+{230}{}{E eu preciso que você caia fora logo. Você não tem permissão para usar a lancha, inferno, você é um lao wai, não um Shi.}
+{231}{}{Escute, estou numa situação desesperada. Se você não me deixar usar aquela lancha, minha tribo toda poderia morrer.
+  Agora, eles estão nas garras desses bastardos do Enclave e eles estão contando comigo para salvá-los. Mas, a fim de
+  fazer isso, eu vou precisar usar essa lancha. Se você não me deixar usar, eu vou ter que assumi-lo pela força e um de
+  Nós acabara morrendo. Por favor, não deixe isso acontecer.}
+{232}{}{Na verdade, sou membro honorário do Shi. Eu fui contratado para a equipe de manutenção de submarinos devido à minha experiência em ... subologia. Aqui está a minha senha ...}
+{233}{}{Eu não acho que você percebe quem você está insultando. Hora de morrer, idiota.}
+{234}{}{Tudo bem, vou indo... *risada*, algumas pessoas ...}
+{240}{}{[Ele olha para você por um longo momento, depois suspira.] Olha, ninguém entra neste barco sem dar a senha adequada. Você sabe, como aquela que você acabou de me dar. [Murmura.] Ken Lee vai ter minha cabeça por isso ...}
+{241}{}{Obrigado amigo E não se preocupe, não falarei nada disso a ninguém. }
+{250}{}{Eu espero que não, por ambos os nossos bens... Deixe-me saber quando você está pronto para usar o barco. Você não pode trazer ninguém com você, pois vai chamar muita atenção. Você terá que ir sozinho.}
+{251}{}{Eu gostaria de usá-lo agora.}
 {252}{}{Não agora.}
-{260}{}{[The guard listens to the password and nods.] I guess you really are a technician. Hmm, the Shi must be getting desperate to hire outsiders... Anyway, you're early. Didn't they tell you that the tech team doesn't leave port until midnight? You can wait for the rest of the team here, if you wish.}
-{261}{}{I don't really have anything better to do, so sure...}
-{262}{}{I'll come back later.}
-{270}{}{Just use the mooring post and slide down the rope to the boat. Don't take too long out there, though, I don't want to get into any trouble.}
-{271}{}{Got it. Bye.}
-{272}{}{Easy enough. Goodbye.}
-{280}{}{Ready to join the tech team?}
-{281}{}{Yes, I'm ready to go.}
+{260}{}{[O guarda escuta a senha e assente.] Eu acho que você realmente é um técnico. Hmm, o Shi deve ficar desesperado para contratar pessoas de fora ... Enfim, você está cedo. Eles não disseram que a equipe de tecnologia não deixa o porto até a meia-noite? Você pode esperar o resto da equipe aqui, se desejar.}
+{261}{}{Eu realmente não tenho nada melhor para fazer, então, com certeza...}
+{262}{}{Eu vou voltar mais tarde.}
+{270}{}{Basta usar o poste de amarração e deslizar a corda para o barco. Não demoro muito lá fora, no entanto, não quero entrar em nenhum problema.}
+{271}{}{Tenho-o. Tchau.}
+{272}{}{Fácil o suficiente. Adeus.}
+{280}{}{Pronto para se juntar ao time de tecnologia?}
+{281}{}{Sim, eu estou pronto para ir.}
 {282}{}{Não, ainda não.}
-{290}{}{Can't you see I'm busy here?}
+{290}{}{Você não pode ver que eu estou ocupado aqui?}
 {300}{}{Eu passeio de peixes de peixe de metal?}
-{310}{}{[He looks at you as if you're dumbest creature he could possibly imagine. Slowly, he shakes his head.] You no ride
- metal fishy-fish. You go. You go, or I shoot. Understand?}
+{310}{}{[Ele olha para você como se você fosse a criatura mais estúpida que ele pudesse imaginar. Lentamente, ele balança a cabeça.] Você não anda
+  peixe-peixe de metal. Você vai. Você vai, ou eu atiro. Compreende?}
 {311}{}{Ok, até!}
 {312}{}{Você é um homem de verdade. Eu esmago homem de verdade!}
-{500}{}{You talk your way into gaining access to the motor boat.}
+{500}{}{Você fala a sua forma de obtenção de acesso ao barco a motor.}

@@ -221,7 +221,7 @@
 {281}{}{No problem. Thanks, Doc.}
 {282}{}{Hello, Captain. How may I be of assistance?}
 {283}{}{Hello, Citizen. How may I be of assistance?}
-{284}{}{How may I be of assistance?}
+{284}{}{Como posso ser de ajuda?}
 {285}{}{Sim?}
 {286}{}{Me got ouchie}
 {287}{}{Ass-is-tense?}
