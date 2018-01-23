@@ -30,10 +30,11 @@
 {126}{}{Não incomode aqueles que tentam se concentrar.}
 {127}{}{Sua presença é bem-vinda ... lá.}
 {128}{}{O Hub nos colocou para vigiar o seu rebanho.}
-{129}{}{The Star Father cares for you. That's why he gave you us.}
-{130}{}{We're loyal to AHS-9.}
-{131}{}{Obey.}
+{129}{}{O Pai das Estrelas cuida de você. É por isso que ele te deu.}
+{130}{}{Somos leais ao AHS-9.}
+{131}{}{Obedecer.
+}
 {132}{}{Dormir.}
-{133}{}{Consume.}
-{134}{}{We have your best interests at heart.}
+{133}{}{Consumir.}
+{134}{}{Nós temos seus melhores interesses no coração.}
 {135}{}{.}

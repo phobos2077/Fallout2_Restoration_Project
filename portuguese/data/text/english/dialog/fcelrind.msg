@@ -1,9 +1,9 @@
-{100}{}{You see someone in a floppy robe.}
-{101}{}{It's another robed Hubologist.}
-{102}{}{It appears to be someone wearing a robe.}
+{100}{}{Você vê alguém em um manto frouxo.}
+{101}{}{É outro manto Hubologista.}
+{102}{}{Parece ser alguém vestindo um manto.}
 {103}{}{Quem é você? O que você está fazendo aqui?}
-{104}{}{You're not supposed to be here, are you?}
-{105}{}{Look! Rim meat!}
+{104}{}{Você não deveria estar aqui, está?}
+{105}{}{Veja! Carne macia!}
 {106}{}{Hey! Who let the rim meat in?}
 {107}{}{You shouldn't be wandering without an escort.}
 {108}{}{Ahh! You're messing with my neurodynes!}
