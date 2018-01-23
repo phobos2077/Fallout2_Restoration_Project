@@ -93,7 +93,8 @@
 {191}{}{A scientist from NCR wants to try an experimental drug that'll wipe out mutants. Be careful of what you eat and drink.}
 {192}{}{It looks like you were right about Chad skimming money. He lied to the Gecko rep about a miners' strike to justify a price hike. I'm guessing he's pocketing the profit.}
 {193}{}{Chad kept about $1000 from the last uranium shipment for himself. He's planning on bailing outta town. I got a briefcase of documents to prove it.}
-{194}{}{Nothing. Forget it.}
+{194}{}{Nada. Esqueça.
+}
 {195}{mcs24}{Tunnels under the city? Guess it's not that surprising with the mines around. You'll keep looking around for those folks, right? }
 {196}{}{Certo.}
 {197}{mcs25a}{They're dead? Damn… I'll tell the families myself. }

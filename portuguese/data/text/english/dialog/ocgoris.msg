@@ -105,7 +105,7 @@
  adventure stories you promised?}
 {173}{}{Gladly. It's a pleasure to talk to you.}
 {174}{}{Promise? What promise?}
-{175}{}{Yeah, sure.}
+{175}{}{Sim, com certeza.}
 {176}{}{(Goris hesitates and you get the feeling you are being carefully scrutinized.) I would be
  honored to join you!}
 {177}{}{(Goris hesitates and you get the feeling you are being carefully scrutinized.) I'm sorry, but I

@@ -48,7 +48,7 @@
 {147}{}{Obrigado. Tchau.}
 {148}{}{He was drunk. Very, very drunk. He was obsessed with his spleen all night long. And then he bet it.}
 {149}{}{So you took his SPLEEN?}
-{150}{}{I see. Well, I have more questions.}
+{150}{}{Eu vejo. Bem, eu tenho mais perguntas.}
 {151}{}{Yes. It was a debt. He is an honorable man.}
 {152}{}{I see. I need more information.}
 {153}{}{You're a sick, rude bastard, aren't you?}

@@ -85,20 +85,21 @@
 {181}{}{A palavra é que eles foram levados para o oeste, através da água. Sua melhor aposta em chegar lá está em fazer funcionar esta banheira.}
 {182}{}{Obrigado. Mais perguntas...}
 {183}{}{Obrigado. Tchau.}
-{184}{}{Computer work? If you can't get it from the Shi or the Hubologists, you'll want to talk to Badger. He's a whiz.}
+{184}{}{O trabalho em computador? Se você não pode obtê-lo do Shi ou dos Hubologistas, você quer falar com o Badger. Ele é um gênio.}
 {185}{}{Obrigado. Mais perguntas...}
 {186}{}{Obrigado. Tchau.}
-{187}{}{Shit. Talk to the Hubologists or the Shi. With Badger dead, I have no idea.}
+{187}{}{Merda. Falar para os Hubologistas ou a Shi. Com Texugo morto, eu não tenho nenhuma ideia.}
 {188}{}{Obrigado. Mais perguntas...}
 {189}{}{Obrigado. Tchau.}
-{190}{}{Scumbag.}
-{191}{}{You're going to need some painkillers.}
-{192}{}{Dirtball. I'm going to work you over.}
+{190}{}{Desprezível.
+}
+{191}{}{Você vai precisar de alguns analgésicos.}
+{192}{}{Bola de sujeira. Eu vou te ajudar.}
 {193}{}{Você vê um punk calvo.}
-{194}{}{You see Chip. He appears to be in a lot of pain.}
-{195}{}{You see a bald punk. He is holding his side and gasping in pain.}
-{196}{}{All right. I will talk to Fung.}
-{197}{}{Any more luck with my spleen?}
-{198}{}{Yeah, and he wanted $1000 - but I paid for it.}
-{199}{}{Thanks for all your help, buddy.}
-{200}{}{Dude, I heard you found my spleen. Did you know to talk to Dr. Fung about putting it back in me?}
+{194}{}{Você vê Chip. Ele parece estar com muita dor.}
+{195}{}{Você vê um punk calvo. Ele está segurando seu lado e ofegante de dor.}
+{196}{}{Tudo bem. Vou falar com Fung.}
+{197}{}{Mais sorte com o meu baço?}
+{198}{}{Sim, e ele queria $1000 - mas eu paguei por isso.}
+{199}{}{Obrigado por toda sua ajuda, amigo.}
+{200}{}{Cara, eu ouvi falar que você encontrou meu baço. Você sabia que falar com o Dr. Fung sobre colocá-lo de volta em mim?}

@@ -157,7 +157,8 @@
 {309}{}{Yeah, well... their day is comin'.}
 {310}{}{I already told you everything you need to know about this place. So, what do you want?}
 {311}{}{I have some other questions.}
-{312}{}{Nothing. Forget it.}
+{312}{}{Nada. Esqueça.
+}
 {313}{}{Obrigado.}
 {314}{}{[CONTINUAR]}
 {315}{}{Hey, friend. I appreciate your help gettin' our friends out of their spot of trouble. You're all right in my book.}

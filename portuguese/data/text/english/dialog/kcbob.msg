@@ -158,7 +158,7 @@
 {432}{}{Damn, I thought I was so close. I guess that's enough disappointment for now. Goodbye, Bob.}
 {500}{}{Howdy, what can I do for you?}
 {501}{}{What is going on around here?}
-{502}{}{Nothing, thanks.}
+{502}{}{Nada, obrigado.}
 {550}{}{Bob doesn't seem to want to talk to you.}
 {2900}{}{Things have slowed down recently. Nothing really to tell ya.}
 {2901}{}{brahmin mutilators}

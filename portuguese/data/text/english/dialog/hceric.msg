@@ -36,7 +36,8 @@
 {135}{}{Where's the power generator?}
 {136}{}{Quem é você?}
 {137}{}{It's much nicer in here. Comfy?}
-{138}{}{Nothing. Forget it.}
+{138}{}{Nada. Esqueça.
+}
 {139}{}{I could scrape a little something together for you if you did it. I can't promise much, but then, it's not too huge a favor, either.}
 {140}{}{You've got a deal. Just make sure to have something for me when I get your power for you.}
 {141}{}{I'll do it for free. No charge.}

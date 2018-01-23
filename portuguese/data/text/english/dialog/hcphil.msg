@@ -62,7 +62,8 @@
 {178}{}{What's been going on in town?}
 {179}{}{What's there to do around here?}
 {180}{}{What's new?}
-{181}{}{Nothing. Forget it.}
+{181}{}{Nada. Esqueça.
+}
 {182}{}{Tapped, eh? Too bad. You can stick around here, but don't bug the customers. I got work to do.
  See you.}
 {183}{}{Adeus!}
@@ -112,7 +113,8 @@
 {229}{}{What's been going on in town?}
 {230}{}{What's there to do around here?}
 {231}{}{What's new?}
-{232}{}{Nothing. Forget it.}
+{232}{}{Nada. Esqueça.
+}
 {233}{}{I hope you don't mind me saying that the folks 'round here are a little pissed off that you
  kept that uranium for yourself. You been warned. Anyway… ready for a drink?}
 {234}{}{Sim.}

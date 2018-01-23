@@ -1,23 +1,23 @@
-{100}{}{You see a sandy-haired man.}
-{101}{}{You see Dave H.}
-{102}{}{You see a sandy-haired man with a hopeful glint to his eye.}
-{103}{}{Why do you want to hurt us?}
-{104}{}{How can I help you, enlightened one?}
-{105}{}{I'm going to move on Vikki... umm... soon.}
+{100}{}{Você vê um homem de cabelo arenoso.}
+{101}{}{Você vê Dave H.}
+{102}{}{Você vê um homem de cabelo arenoso com um brilho esperançoso no olho.}
+{103}{}{Por que você queria ferir-nos?}
+{104}{}{Como posso ajudá-lo, iluminado?}
+{105}{}{Eu vou seguir em Vikki... umm... em breve.}
 {106}{}{Como posso ajudá-lo?}
 {107}{}{O que você quer?}
 {108}{}{Da... oooh...}
 {109}{}{Quem é você?}
 {110}{}{O que você faz aqui?}
-{111}{}{I talked to Vikki. She and Juan made fun of you and said you're not a real man.}
-{112}{}{I talked to Vikki. She said you're hot and she wants you sometime.}
-{113}{}{You want me to talk Vikki up for you?}
+{111}{}{Falei com Vikki. Ela e Juan se burlaram de você e disseram que você não é um homem de verdade.}
+{112}{}{Falei com Vikki. Ela disse que você é gostoso e ela quer você em algum momento.}
+{113}{}{Você quer que eu fale com Vikki para você?}
 {114}{}{Deixa pra lá. Tchau.
 }
-{115}{}{Ummm... oookay. Whatever. Say, what's that over there?
-[as you turn to look, he whips back to what he was doing and ignores you]}
+{115}{}{Ummm ... oookay. Tanto faz. Diga, o que está por ai?
+[à medida que você se virou para olhar, ele voltou para o que estava fazendo e ignora você]}
 {116}{}{[FEITO]}
-{117}{}{I'm Dave Handy. I'm down from Canada.}
+{117}{}{Sou Dave Handy. Sou do Canadá.}
 {118}{}{Então, o que você faz aqui?}
 {119}{}{What brought you down?}
 {120}{}{Obrigado. Tchau.}

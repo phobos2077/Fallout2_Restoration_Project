@@ -87,7 +87,7 @@
 {185}{}{Such a person just might be able to.}
 {186}{}{Now, I suggest you leave.}
 {187}{}{By all means, call in the officers. Of course, I assume you have evidence to back up your wild accusation.}
-{188}{}{Yeah, sure.}
+{188}{}{Sim, com certeza.}
 {189}{}{Não importa.}
 {190}{}{Such as there's a damn Hubologist in town who has irritated me. Once this itch is scratched, come back and talk to me.}
 {191}{}{Consider it done. I got just the backscratcher for him but... what's a Hubologist and where do I find him?}

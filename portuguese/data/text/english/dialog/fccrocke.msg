@@ -1,90 +1,93 @@
-{100}{}{You see a fairly young, balding scientist. He looks intent on his job.}
-{101}{}{You see Crocket, the Hubologist scientist.}
-{102}{}{You see a relatively young, balding scientist. He seems like a slovenly geek.}
-{103}{}{Yeah? Whaddya want?}
+{100}{}{Você vê um cientista bastante jovem e calvo. Ele parece intrigado em seu trabalho.}
+{101}{}{Você vê Crocket, o Hubologista cientista.}
+{102}{}{Você vê um cientista relativamente jovem e calvo. Ele parece um geek desleixado.}
+{103}{}{Sim? O que você quer?}
 {104}{}{Agh. Um. Duur.}
-{105}{}{Dr. Jing sent me. He wants some hardened power armor.}
-{106}{}{You can upgrade power armor?}
+{105}{}{O Dr. Jing me enviou. Ele quer alguma armadura de poder endurecida.}
+{106}{}{Você pode atualizar armadura de energia?}
 {107}{}{Quem é você?}
 {108}{}{O que você faz aqui?}
-{109}{}{Nothing, thanks.}
-{110}{}{I swear, there are more subhumans running around every single day. Shoo! Shoo!}
+{109}{}{Nada, obrigado.}
+{110}{}{Eu juro, há mais subhumanos correndo todos os dias. Shoo! Shoo!}
 {111}{}{Awww.}
-{112}{}{Yeah, I can do that. But what are you willing to trade for it?}
-{113}{}{Dr. Jing will probably be willing to sell you fuel for the spaceship.}
-{114}{}{I can pay for it.}
-{115}{}{I'll let you live.}
-{116}{}{Nothing. Forget it.}
-{117}{}{I'm Crocket. I'm a scientist and fix-it guy. Can I get back to it?}
-{118}{}{No. I have more questions.}
-{119}{}{Yeah, sure.}
-{120}{}{I develop new technology and I get my share of cultist tail, if you catch my meaning.}
-{121}{}{So you're not an Hubologist?}
-{122}{}{I got it. I have more questions.}
-{123}{}{No. What do you mean?}
-{124}{}{What new tech have you developed?}
-{125}{}{Loud and clear. See ya.}
-{126}{}{Well... I *guess* that'll have to do. It's a deal. Do you have the armor to be hardened on you?}
+{112}{}{Sim, posso fazer isso. Mas o que você está disposto a trocar por isso?}
+{113}{}{Dr. Jing provavelmente vai estar dispostos a vender combustível para a nave.}
+{114}{}{Eu posso pagar por isso.}
+{115}{}{Eu vou deixar você viver.}
+{116}{}{Nada. Esqueça.
+}
+{117}{}{Eu sou Crocket. Eu sou cientista e reparo. Posso voltar para isto?}
+{118}{}{Não. Eu tenho mais perguntas.}
+{119}{}{Sim, com certeza.}
+{120}{}{Eu desenvolvo novas tecnologias e recebo minha parte dos cultistas, se você entende o meu significado.}
+{121}{}{Então você não é um Hubologista?}
+{122}{}{Entendi. Eu tenho mais perguntas.}
+{123}{}{Não. O que você quer dizer?}
+{124}{}{Que nova tecnologia tem desenvolvido?}
+{125}{}{Alto e claro. Até mais.
+}
+{126}{}{Bem ... eu *adivinho* que terá que fazer. É um acordo. Você tem a armadura a ser endurecida com você?}
 {127}{}{Sim.}
 {128}{}{Não.}
-{129}{}{Great. That'll cost you $10,000, straight up, no bartering. I need some new equipment.}
-{130}{}{$10,000? That's outrageous! I don't have that kind of money!}
-{131}{}{All right. Here you go.}
-{132}{}{I'll get back to you.}
-{133}{}{::he looks amused::
-Are you really threatening me for this?}
-{134}{}{Yes. Do it or die.}
-{135}{}{No, I was just kidding.}
-{136}{}{Leave it here for a day and I'll do it. Before you go, you ought to know I've only got the material to do this for two sets of armor.}
-{137}{}{Sure thing. I have more questions.}
-{138}{}{I'll be back for the armor.}
-{139}{}{I can't very well work my magic on it if you don't have it. Come back when you do.}
+{129}{}{Ótimo. Isso custará $ 10.000, direto, sem troca. Eu preciso de algum equipamento novo.}
+{130}{}{$10.000? Isso é ultrajante! Eu não tenho esse dinheiro!}
+{131}{}{Tudo bem. Aqui está.
+}
+{132}{}{Eu vou voltar para você.}
+{133}{}{::ele parece divertido::
+Você realmente me ameaça para isso?}
+{134}{}{Sim. Faça ou morra.}
+{135}{}{Não, eu estava apenas brincando.}
+{136}{}{Deixe-o aqui por um dia e eu vou fazer isso. Antes de ir, você deve saber que eu só tenho o material para fazer isso por dois conjuntos de armaduras.}
+{137}{}{Coisa certa. Eu tenho mais perguntas.}
+{138}{}{Eu vou estar de volta para a armadura.}
+{139}{}{Eu não posso muito bem trabalhar minha magia se não tiver. Volte quando você tiver.}
 {140}{}{Eu tenho mais perguntas.}
 {141}{}{Adeus.}
-{142}{}{::he shrugs::
-You want this armor or not? It's $10,000 flat out.}
-{143}{}{I'll get back to you.}
-{144}{}{Fine. Here.}
-{145}{}{Highway robbery. No way.}
-{146}{}{::he looks into your eyes and decides that you're serious::
-Do you have the armor here?}
+{142}{}{::ele dá de ombros:: Você quer esta armadura ou não? É $10.000 a vista.}
+{143}{}{Eu vou voltar para você.}
+{144}{}{Bem. Aqui.}
+{145}{}{Assalto em estrada. De maneira nenhuma.}
+{146}{}{::ele olha nos seus olhos e decide que você é sério::
+Você tem a armadura aqui?}
 {147}{}{Sim.}
 {148}{}{Não.}
-{149}{}{::he looks into your eyes and decides that you're bluffing::
-Try it, bucko. You'll have guards down on your ass and you'll never learn how to harden your armor.}
-{150}{}{Fine. Die, pencil-neck.}
-{151}{}{Shit. You called my bluff.}
-{152}{}{Bluffer. I think we'll see what the guards have to say about this.}
-{153}{}{Dammit!}
-{154}{}{These guys don't know real science - I help them justify their extravagance in exchange for some downtime with the ladies and a hefty salary.}
-{155}{}{Hmm. I had more questions I wanted to ask.}
-{156}{}{Not bad at all. See ya.}
-{157}{}{Let's see... I built a nuclear reactor for the spaceship. I created the hardening process for power armor. And I fix things that are broken.}
-{158}{}{I see. Well, I have more questions.}
-{159}{}{Hmm. Gotta go. Bye.}
-{160}{}{Hey, I got no beef with you. Just don't hurt me.}
+{149}{}{:: ele olha nos seus olhos e decide que está blefando ::
+Experimente, bucko. Você terá protetores na sua bunda e você nunca aprenderá a endurecer sua armadura.}
+{150}{}{Bem. Morrer, lápis-de-pescoço.}
+{151}{}{Merda. Você chamou meu blefe.}
+{152}{}{Blefe. Eu acho que nós vamos ver o que os guardas têm a dizer sobre isso.}
+{153}{}{Caramba!}
+{154}{}{Esses caras não conhecem ciência real - eu os ajudo a justificar sua extravagância em troca de algum tempo de inatividade com as senhoras e um salário robusto.}
+{155}{}{Hmm. Eu tinha mais perguntas que eu queria perguntar.}
+{156}{}{Nada mal. Até mais.}
+{157}{}{Vamos ver ... Eu construí um reator nuclear para a nave espacial. Eu criei o processo de endurecimento para a armadura de energia. E reparo coisas que estão quebradas.}
+{158}{}{Eu vejo. Bem, eu tenho mais perguntas.}
+{159}{}{Hmm. Tenho que ir. Tchau.}
+{160}{}{Hey, eu não tenho treta com você. Só não me machucar.}
 {161}{}{Eu tenho algumas perguntas para você.}
-{162}{}{I'm here for my armor.}
-{163}{}{Too late.}
+{162}{}{Eu estou aqui por minha armadura.}
+{163}{}{Tarde demais.}
 {164}{}{Adeus.}
-{165}{}{It's not ready yet. You have to give me time!}
-{166}{}{Fine. I have some questions.}
-{167}{}{Fine. I'll be back.}
-{168}{}{I've got it right here for you. Take it, take it.}
-{169}{}{Thanks. I have questions.}
+{165}{}{Ainda não está pronta. Você tem que me dar tempo!}
+{166}{}{Bem. Eu tenho algumas perguntas.}
+{167}{}{Bem. Eu vou estar de volta.}
+{168}{}{Eu tenho ela aqui para você. Pegue, pegue.}
+{169}{}{Obrigado. Eu tenho perguntas.}
 {170}{}{Obrigado.}
-{171}{}{Thanks. NOW you can die.}
-{172}{}{I'm out of chemicals for it. Sorry.}
-{173}{}{Then you can answer me some questions.}
-{174}{}{Then you can die.}
-{175}{}{Oh. Damn. Bye.}
-{176}{}{So where's my fuel? You promised me fuel, asshole.}
-{177}{}{You'll get it, you'll get it. Now answer some questions.}
-{178}{}{Yeah, well, I screwed you.}
-{179}{}{And for the last time, too. GUARDS!}
-{180}{}{Die, asshole.}
-{181}{}{Shit. I'm outta here.}
-{182}{}{Ok, now what do ya want?}
-{183}{}{You ready to pay the $10k this time?}
-{184}{}{Leave it here for a day and I'll do it. Remember though, this is the last set I can make.}
-{185}{}{Hey, I have another suit for you to upgrade.}
+{171}{}{Obrigado. AGORA você pode morrer.}
+{172}{}{Estou sem produtos químicos para isso. Desculpa.}
+{173}{}{Em seguida, você pode me responder algumas perguntas.}
+{174}{}{Em seguida, você pode morrer.}
+{175}{}{Oh. Porra. Tchau.}
+{176}{}{Então, onde está o meu combustível? Você me prometeu combustível, imbecil.}
+{177}{}{Você vai conseguir, você vai conseguir. Agora responda a algumas perguntas.}
+{178}{}{Sim, bem, eu te ferrei.}
+{179}{}{E pela última vez, também. GUARDAS!}
+{180}{}{Morrer, idiota.}
+{181}{}{Merda. Estou fora daqui.
+}
+{182}{}{Ok, agora, o que você quer?}
+{183}{}{Você está pronto para pagar os $10k, neste momento?}
+{184}{}{Deixe-o aqui por um dia e eu vou fazer isso. Lembre-se, porém, este é o último conjunto que posso fazer.}
+{185}{}{Ei, eu tenho um outro terno para você atualizar.}

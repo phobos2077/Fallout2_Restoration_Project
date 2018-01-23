@@ -42,7 +42,7 @@
 {133}{}{I want a job.}
 {134}{}{You skimming off the top?}
 {135}{}{When's the next caravan leave?}
-{136}{}{Nothing, thanks.}
+{136}{}{Nada, obrigado.}
 {137}{}{Talk to Bill, just like always.}
 {138}{}{Tudo bem.}
 {139}{}{After what happened to Chad? I don't think so. Anything else?}
