@@ -56,40 +56,40 @@
 {152}{}{Se você pudesse fazer algo sobre isso ... matá-lo, ou falar algum sentido nele, ou algo assim ... Eu vou morrer sem ele.}
 {153}{}{Eu vou ver o que posso fazer.}
 {154}{}{Desculpe, cara... eu acho que você está ferrado. Eu não posso ajudar.}
-{155}{}{With no spleen, I'm going to die. Thanks for your help anyway.}
+{155}{}{Sem baço, eu vou morrer. Obrigado por sua ajuda de qualquer maneira.}
 {156}{}{Eu encontrei. Vá até o lugar do Dr. Wong.}
-{157}{}{Oh, I'll cover you. Get over to Fung's.}
-{158}{}{No prob. Good luck.}
-{159}{}{Did you talk to Fung?}
-{160}{}{Yeah, and he says he'll stick it in you for free.}
-{161}{}{Yeah, and he's charging me $1,000.}
+{157}{}{Oh, eu vou te cobrir. Vá até Fung.}
+{158}{}{Sem problemas. Boa sorte.}
+{159}{}{Você já falou com Fung?}
+{160}{}{Sim, e ele diz que vai colocá-lo em você de graça.}
+{161}{}{Sim, e ele está me cobrando $ 1.000.}
 {162}{}{}
-{163}{}{Wow. You have some serious connections. Come back in a day and I'll see what help I can give you.}
+{163}{}{Uau. Você tem algumas conexões sérias. Volte em um dia e vou ver que ajuda eu posso lhe dar.}
 {164}{}{Você tem isso.}
-{165}{}{Can you cover me?}
-{166}{}{Yeah, I suppose.}
+{165}{}{Você pode me cobrir?}
+{166}{}{Sim, eu suponho.}
 {167}{}{Não.}
-{168}{}{I really appreciate this. Come back in a day and I'll see what help I can give you.}
-{169}{}{You better.}
-{170}{}{I can't afford to do this on my own. I guess I'm going to die.}
-{171}{}{Oh, fine, I'll cover you.}
-{172}{}{Tough. I'm broke.}
-{173}{}{I can't tell you how much better I feel. Now, what was it you wanted from me?}
-{174}{}{How do I run this boat?}
-{175}{}{Where are my people? Do you know?}
-{176}{}{I need some computer work done.}
-{177}{}{Nothing right now, thanks. Bye.}
-{178}{}{Check with the Captain. He lives in the captain's office upstairs.}
-{179}{}{Thanks. More questions...}
+{168}{}{Eu realmente aprecio isso. Voltar em um dia e eu vou ver o que posso dar-lhe.}
+{169}{}{Você está melhor.}
+{170}{}{Não posso fazer isso sozinho. Acho que vou morrer.}
+{171}{}{Oh, bem, eu vou cobrir você.}
+{172}{}{Difícil. Eu estou quebrado.}
+{173}{}{Eu não posso dizer a você o quanto eu sinto. Agora, o que foi que você queria de mim?}
+{174}{}{Como faço para pilotar este barco?}
+{175}{}{Onde está o meu povo? Você sabe?}
+{176}{}{Preciso de algum trabalho de computador feito.}
+{177}{}{Nada agora, obrigado. Tchau.}
+{178}{}{Verifique com o capitão. Ele mora no escritório do capitão no andar de cima.}
+{179}{}{Obrigado. Mais perguntas...}
 {180}{}{Obrigado. Tchau.}
-{181}{}{Word has it they got taken west, across the water. Your best bet in getting there is getting this tub running.}
-{182}{}{Thanks. More questions...}
+{181}{}{A palavra é que eles foram levados para o oeste, através da água. Sua melhor aposta em chegar lá está em fazer funcionar esta banheira.}
+{182}{}{Obrigado. Mais perguntas...}
 {183}{}{Obrigado. Tchau.}
 {184}{}{Computer work? If you can't get it from the Shi or the Hubologists, you'll want to talk to Badger. He's a whiz.}
-{185}{}{Thanks. More questions...}
+{185}{}{Obrigado. Mais perguntas...}
 {186}{}{Obrigado. Tchau.}
 {187}{}{Shit. Talk to the Hubologists or the Shi. With Badger dead, I have no idea.}
-{188}{}{Thanks. More questions...}
+{188}{}{Obrigado. Mais perguntas...}
 {189}{}{Obrigado. Tchau.}
 {190}{}{Scumbag.}
 {191}{}{You're going to need some painkillers.}

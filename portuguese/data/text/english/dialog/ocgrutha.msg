@@ -35,7 +35,7 @@
  not out of fear or prejudice.}
 {125}{}{Hey, maybe you figure I can kick your ass?}
 {126}{}{You seem to be an honorable being, Gruthar.}
-{127}{}{Yeah, I suppose.}
+{127}{}{Sim, eu suponho.}
 {128}{}{A geck. Is that not a small lizard... no, wait... that is a gecko. I am sorry, but I do not know
  what a geck is, nor where it can be found.}
 {129}{}{Yes, I believe you mentioned this once before. I do not know what a geck is, nor where it can be
