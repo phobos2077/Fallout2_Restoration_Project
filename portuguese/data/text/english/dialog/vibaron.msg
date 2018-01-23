@@ -41,14 +41,14 @@
 {304}{}{You make that village a regular stop on your route, and in return, my wife here will show you a good time you'll never forget.}
 {305}{}{Actually, never mind. Bye.}
 {310}{}{Now you're speaking my language! Alright, it's a deal. [He greedily snatches the money from you and shakes your hand.]}
-{311}{}{Pleasure doing business with you. Bye.}
+{311}{}{Prazer fazer negócios com você. Tchau.}
 {312}{}{Adeus.}
 {320}{}{$500? Not worth it. Make it $1,000 and you've got a deal}
 {321}{}{I don't have that much. Bye.}
 {322}{}{Alright, fine. $1,000 it is.}
 {323}{}{No deal. Goodbye.}
 {330}{}{Now you're speaking my language! You've got yourself a deal. [He greedily snatches the money from you and shakes your hand.]}
-{331}{}{Pleasure doing business with you. Bye.}
+{331}{}{Prazer fazer negócios com você. Tchau.}
 {332}{}{Adeus.}
 {340}{}{Are you threatening me? No one threatens me and lives! (to his caravan guards) Kill this stupid fuck!}
 {341}{}{Pode vir!

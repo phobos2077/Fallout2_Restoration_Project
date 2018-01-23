@@ -18,7 +18,7 @@
 {240}{}{Ain't you better be getting back to your }
 {241}{}{You look like a }
 {245}{}{Put that weapon away…unless you WANT trouble.}
-{250}{}{Intruder!}
+{250}{}{Intruso!}
 {260}{}{Get that rolling trash can outta here.}
 {261}{}{No bots allowed in here. Beat it.}
 {262}{}{That robot's gonna be scrap if it stays.}

@@ -107,7 +107,7 @@
 {206}{}{Não, eu não penso assim.}
 {207}{}{You've got a deal, fat man.}
 {208}{}{Then go and smite those troublesome souls. I await word of your success. [He smiles beatifically.]}
-{209}{}{So long.}
+{209}{}{Até mais.}
 {210}{}{No, wait, I changed my mind. I want you dead.}
 {211}{}{Ah, child, how could you stray from the path of truth like this? I see from your aura that you plan to kill me. I am bitterly disappointed. Bitterly. Ah well. Let us proceed.}
 {212}{}{Yes, let's. Die.}

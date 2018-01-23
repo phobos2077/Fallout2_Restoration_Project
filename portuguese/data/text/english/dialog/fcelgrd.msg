@@ -1,31 +1,34 @@
-{100}{}{You see a well-armed guard.}
-{101}{}{You see a Hubologist guard.}
-{102}{}{You see a well-armed person with a cruel look to the eyes.}
-{103}{}{Intruder!}
-{104}{}{Get the intruder!}
-{105}{}{Over here! Over here!}
-{106}{}{Time to die, infidel! The Great Wheel rolls over you!}
-{107}{}{We are the Guardians. You are to die now.}
-{108}{}{Star Father, guide my aim.}
-{109}{}{You have defiled our tenets!}
-{110}{}{If the lawyers don't work, our weapons will.}
-{111}{}{We are the long arm of the Hub's law.}
+{100}{}{Você vê uma guarda bem armada.}
+{101}{}{Você vê uma guarda Hubologista.}
+{102}{}{Você vê uma pessoa bem armada com um olhar cruel para os olhos.
+}
+{103}{}{Intruso!}
+{104}{}{Pegue o intruso!}
+{105}{}{Por aqui! Por aqui!
+}
+{106}{}{Hora de morrer, infiel! A Grande Roda rola sobre você!}
+{107}{}{Nós somos os Guardiões. Você está para morrer agora.}
+{108}{}{Estrela Pai, guia o meu objetivo.}
+{109}{}{Você tem contaminado os nossos princípios!}
+{110}{}{Se os advogados não funcionam, nossas armas irão.}
+{111}{}{Nós somos o braço longo da lei do Hub.}
 {112}{}{Transgressor!}
-{113}{}{Watch your step.}
-{114}{}{Tread lightly, outsider.}
-{115}{}{Don't touch anything you're not supposed to.}
-{116}{}{If you step out of line, we'll make raw meat of you.}
-{117}{}{Be very, very careful.}
-{118}{}{We are the law of the Hub. Don't break it.}
-{119}{}{I am AHS-4.}
-{120}{}{I will "align" you if you misbehave.}
-{121}{}{I have sanction from the Great Wheel.}
-{122}{}{Greetings, fellow traveler.}
-{123}{}{Greetings,}
-{124}{}{Glad to have you with us.}
-{125}{}{Go on about your business.}
-{126}{}{Don't bother those who try to focus.}
-{127}{}{Your presence is welcome... over there.}
+{113}{}{Cuidado com o degrau.}
+{114}{}{Pisar leve, estranho.}
+{115}{}{Não toque em nada você não deveria.}
+{116}{}{Se você sair da linha, faremos carne crua de você.}
+{117}{}{Seja muito, muito cuidadoso.}
+{118}{}{Nós somos a lei do Hub. Não quebre isso.}
+{119}{}{Eu sou AHS-4.}
+{120}{}{Eu vou "alinhar" você se você se comportar mal.}
+{121}{}{Tenho a sanção da Grande Roda.}
+{122}{}{Saudações, colega de trabalho.}
+{123}{}{Saudações,
+}
+{124}{}{Fico feliz por tê-lo conosco.}
+{125}{}{Continue com seu negócio.}
+{126}{}{Não incomode aqueles que tentam se concentrar.}
+{127}{}{Sua presença é bem-vinda ... lá.}
 {128}{}{The Hub has set us to watch over his flock.}
 {129}{}{The Star Father cares for you. That's why he gave you us.}
 {130}{}{We're loyal to AHS-9.}

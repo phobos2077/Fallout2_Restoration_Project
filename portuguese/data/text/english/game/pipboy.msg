@@ -83,7 +83,7 @@
 {604}{}{Alarm Clock}
 {605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
 {606}{}{Welcome to the Rob Co Pipboy 2000.}
-{607}{}{So long.}
+{607}{}{Até mais.}
 {608}{}{Wake up.}
 {700}{}{Vault 13}
 {701}{}{Calm rebel faction.}
