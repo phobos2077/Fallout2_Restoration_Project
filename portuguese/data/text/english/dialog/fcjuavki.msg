@@ -65,7 +65,7 @@
 {164}{}{Hmm. Nah, not right now. I do have more questions, though.}
 {165}{}{Umm... gotta go. Bye.}
 {166}{}{Him: That's very forward-thinking of you. Her: Very enlightened. Him: We offer our opinions to people - and if our celebrity can attract more believers, we're anxious to use it.}
-{167}{}{I have other questions.}
+{167}{}{Tenho outras perguntas.}
 {168}{}{I'm interested in joining.}
 {169}{}{Entendo. Bem, até mais.}
 {170}{}{Him: Well, it's very simple. We just give you this informational holodisc. Her: ... you sit through a short movie... Him:... and then you go talk to AHS-7! Her: Easy, isn't it?}

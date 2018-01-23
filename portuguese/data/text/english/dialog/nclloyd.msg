@@ -105,7 +105,8 @@
  I think the matter can only be settled by removing myself as far from New Reno as possible.}
 {396}{}{Success at their gambling tables, eh? How much you win, Lloyd?}
 {397}{}{Como posso ajudar?}
-{398}{}{What's in it for me?}
+{398}{}{O quê tem pra mim?
+}
 {399}{}{I don't think I can help you, Lloyd. I think we better just forget we met. Goodbye.}
 {405}{}{Hmmmm…you look well-equipped to serve as a bodyguard. Help me get out of town. Escort me
  to the Gologtha plain to the south, and I can pay you some chips for your trouble.}

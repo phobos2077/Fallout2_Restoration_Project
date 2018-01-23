@@ -156,7 +156,7 @@
 {308}{}{Accident, my ass! Eat this, you mutie-lovin' rat-bastard!}
 {309}{}{Yeah, well... their day is comin'.}
 {310}{}{I already told you everything you need to know about this place. So, what do you want?}
-{311}{}{I have some other questions.}
+{311}{}{Eu tenho algumas outras perguntas.}
 {312}{}{Nada. Esqueça.
 }
 {313}{}{Obrigado.}

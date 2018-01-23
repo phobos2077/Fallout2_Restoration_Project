@@ -59,10 +59,10 @@
 {157}{}{Sim.}
 {158}{}{Não.}
 {159}{}{And you're a good Citizen, I'm sure. I want you to take this holodisk back to the 1st Citizen. It's important. It has the information she needs to expose this NCR-New Reno plan.}
-{160}{}{I have some other questions.}
+{160}{}{Eu tenho algumas outras perguntas.}
 {161}{}{Yes, sir.}
 {162}{}{Well then, that's all.}
-{163}{}{I have some other questions.}
+{163}{}{Eu tenho algumas outras perguntas.}
 {164}{}{Seja o que for.}
 {165}{}{A job. You mean--}
 {166}{}{Bishop sent me. Got a little message for you.}

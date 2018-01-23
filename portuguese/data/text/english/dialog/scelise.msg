@@ -139,7 +139,7 @@
 {281}{}{Obrigado. Tchau.}
 {282}{}{Thanks. Now why don't you tell me who you are?}
 {290}{}{I'm Elsie. That's Gond. We're members of an anti-slavery group called the New California Rangers. We could use someone like you. If you're interested in joining us, I've got a task for you.}
-{291}{}{Let's hear it.}
+{291}{}{Vamos ouvi-lo.}
 {292}{}{Não interessado. Tchau.
 }
 {300}{}{Help you with something, Ranger?}

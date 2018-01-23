@@ -51,7 +51,8 @@
 {149}{}{Oh. My mistake. Well, thanks. Bye.}
 {150}{mcs15a}{What's news… what's news…}
 {151}{mcs15b}{Well, gettin' kind of worried about one of our caravan guys. Chad. He might be skimming. You up to checking him out for me?}
-{152}{}{What's in it for me?}
+{152}{}{O quê tem pra mim?
+}
 {153}{}{Sure. I'll do it.}
 {154}{}{I'm a little busy.}
 {155}{}{You have anything else?}

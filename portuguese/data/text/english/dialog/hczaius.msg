@@ -40,13 +40,15 @@
  who'd love to talk to you.}
 {133}{}{Well, if you ever happen to think of a way, let me know.}
 {134}{}{Really? Would you do it for me… and, more importantly, for Broken Hills?}
-{135}{}{What's in it for me?}
+{135}{}{O quê tem pra mim?
+}
 {136}{}{Com certeza, eu vou fazer.}
 {137}{}{Não agora.}
 {138}{}{Izzat so? Well, my brainy friend, why not fix the air purifier down below? You'll need the
  parts, and you'll need to find a way to breathe the gas. Until you can show me you can do that, I think
  I'll just assume the only thing smart about you is your mouth.}
-{139}{}{What's in it for me?}
+{139}{}{O quê tem pra mim?
+}
 {140}{}{Com certeza, eu vou fazer.}
 {141}{}{Are you kidding?}
 {142}{}{The main problem is that I'm an idiot. I'm repeating this because I don't believe that your
@@ -54,7 +56,8 @@
 {143}{}{Aside from the jerks who keep harassing me, the problem is the air purifier in the mine. It's
  busted, and we don't have the protective gear to breathe the radon and we don't have the parts to fix it.
  You can, though, right? Because you're so smart?}
-{144}{}{What's in it for me?}
+{144}{}{O quê tem pra mim?
+}
 {145}{}{Com certeza, eu vou fazer.}
 {146}{}{Are you kidding? No way.}
 {147}{}{. How's that sound?}
@@ -91,7 +94,8 @@
 {172}{}{How're things?}
 {173}{}{You get along all right with the humans?}
 {174}{}{You changed your mind about trying to fix the mine yet?}
-{175}{}{What's in it for me?}
+{175}{}{O quê tem pra mim?
+}
 {176}{}{Com certeza, eu vou fazer.}
 {177}{}{Não agora.}
 {178}{}{Não.}

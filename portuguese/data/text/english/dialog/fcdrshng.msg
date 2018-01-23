@@ -98,57 +98,60 @@
 {470}{}{[Ele sorri, obviamente ansioso para mostrar o seu gênio.] Eu sempre fui fascinado pelas plantas. Eles são tão notavelmente diferentes dos animais, e ainda surpreendentemente semelhantes. Quando você olha para um animal, você sabe que pode pensar, que está ciente de seus arredores, experimenta dor e medo. Que tem razão. Obviamente, a extensão dessa habilidade varia, mas o ponto é que um animal possui isso.}
 {471}{}{Continue.
 }
-{480}{}{When you look at a plant though, do you also think this? If you kick a plant, does it fight back? Does it respond to you in anyway? Does talking to a plant affect its growth? Some cultures before the Great War tested such theories. A people known as the Germans conducted experiments which lead them to believe that plants are capable of emotions and that one could promote healthy growth with talk, attention, and affection.}
-{481}{}{But plants lack a nervous system, and without one what you're suggesting just isn't possible.}
-{482}{}{I think all forms of life perceive in some way or another.}
-{483}{}{Those spore plants I've encountered sure fight back. So yeah, I'd say plants feel something.}
-{490}{}{And you would not be alone in thinking that. I too was skeptical at first. But you see, in the twentieth century, the United States government conducted similar experiments with a focus on communication. Sure, all forms of life have some means of self-damage detection, otherwise known as pain, but do they communicate this pain in some way? And what was the conclusion of these experiments? The idea of biocommunication—that plants are sentient.}
-{491}{}{Are you suggesting that plants are almost like humans?}
-{500}{}{And you would not be alone in thinking that. In the twentieth century, the United States government conducted similar experiments with a focus on communication. Sure, all forms of life have some means of self-damage detection, otherwise known as pain, but do they communicate this pain in some way? And what was the conclusion of these experiments? The idea of biocommunication—that plants are sentient.}
-{501}{}{Are you suggesting that plants are almost like humans?}
-{510}{}{I'm suggesting that they COULD be like humans. And as you can see, I was right. They just required a little help.}
-{511}{}{A little help?}
-{520}{}{Gene-splicing! Through the magic of science, I was able to develop a botany sentience serum. But giving the plants human-like intelligence was only half of the equation. In order to fully utilize such intelligence, I knew they would require a human-like body and senses.}
-{521}{}{Ah, which is where the 'fresh human cadavers' come in. You must tell me how you were able to get the plant life to interface with and take control of a human nervous system. And a dead one, at that. I wouldn't believe it were possible if I hadn't seen it firsthand.}
-{530}{}{Very well, I cannot promise you will fully comprehend what I am about to say, but I will do my best to explain it to you. [With the zeal of a preacher raving about his god to a rapt listener, he spends two hours detailing the process of his experiments, obviously taking great pride in his accomplishments.]}
+{480}{}{Quando você olha para uma planta, você também pensa isso? Se você chutar uma planta, ele luta de volta? Responde-lhe de qualquer maneira? Falar com uma planta afeta seu crescimento? Algumas culturas antes da Grande Guerra testaram tais teorias. Um povo conhecido como alemães conduziu experimentos que os levaram a acreditar que as plantas são capazes de emoções e que poderia promover um crescimento saudável com conversa, atenção e carinho.}
+{481}{}{Mas as plantas não têm um sistema nervoso, e sem o que você está sugerindo simplesmente não é possível.}
+{482}{}{Penso que todas as formas de vida percebem de alguma forma.}
+{483}{}{Essas plantas de esporos que encontrei com certeza lutaram de volta. Então, sim, eu diria que as plantas sentem algo.}
+{490}{}{E você não ficaria sozinho pensando isso. Eu também fui céptico no início. Mas você vê, no século XX, o governo dos Estados Unidos conduziu experimentos semelhantes com foco na comunicação. Claro, todas as formas de vida têm algum meio de detecção de auto-dano, também conhecido como dor, mas eles comunicam essa dor de alguma forma? E qual foi a conclusão dessas experiências? A ideia de biocomunicação - que as plantas são sensíveis.}
+{491}{}{Você está sugerindo que as plantas são quase como seres humanos?}
+{500}{}{E você não ficaria sozinho pensando isso. No século XX, o governo dos Estados Unidos conduziu experimentos semelhantes com foco na comunicação. Claro, todas as formas de vida têm algum meio de detecção de auto-dano, também conhecido como dor, mas eles comunicam essa dor de alguma forma? E qual foi a conclusão dessas experiências? A ideia de biocomunicação - que as plantas são sensíveis.}
+{501}{}{Você está sugerindo que as plantas são quase como seres humanos?}
+{510}{}{Estou sugerindo que elas PODERIAM ser como seres humanos. E, como você pode ver, estava certo. Elas só precisavam de uma pequena ajuda.}
+{511}{}{Um pouco de ajuda?}
+{520}{}{Gene-splicing! Através da magia da ciência, consegui desenvolver um soro de sentimento de botânica. Mas, dando às plantas, a inteligência humana era apenas metade da equação. A fim de utilizar plenamente essa inteligência, eu sabia que eles exigiriam um corpo e sentimentos semelhantes aos humanos.}
+{521}{}{Ah, que é onde os "cadáveres humanos frescos" entram. Você deve me dizer como você conseguiu fazer a vida da planta para se conectar e controlar o sistema nervoso humano. E um morto, naquele. Eu não acreditaria que fosse possível se eu não tivesse visto isso de primeira mão.}
+{530}{}{Muito bem, não posso prometer que você compreenderá o que estou prestes a dizer, mas farei o meu melhor para explicar isso. [Com o zelo de um pregador que elogia sobre seu deus para um ouvinte atrevido, ele passa duas horas detalhando o processo de suas experiências, obviamente orgulhando-se de suas realizações.]}
 {531}{}{[MAIS]}
-{540}{}{And so now you understand, I hope?}
-{541}{}{Yes, I do. It seemed totally impossible, but the way you've explained it makes complete sense. And the thing about the sponges, absolute genius! Morbid, but genius. But there was one thing you didn't explain. Where exactly are you getting these 'fresh human cadavers'?}
-{550}{}{Now hold on there a minute. Dr. Wong will be a bit of an obstacle here. If he were removed from the picture, things would go much more smoothly. Give Dr. Wong the sample. Even if he distrusts me, his curiosity will getter the better of him and he'll accept it. Once the sample has been stored away, find a way to eliminate Dr. Wong without alerting the other Shi. Perhaps an overdose of some sort. Do this, and I'll see that your reward is tripled.}
+{540}{}{E agora, você compreende, eu espero?}
+{541}{}{Sim eu faço. Parecia totalmente impossível, mas a maneira como você explicou isso faz todo o sentido. E a coisa sobre as esponjas, o gênio absoluto! Mórbida, mas genial. Mas houve uma coisa que você não explicou. Onde exatamente você está recebendo esses "cadáveres humanos frescos"?}
+{550}{}{Agora aguarde um minuto. Dr. Wong será um obstáculo aqui. Se ele fosse removido da imagem, as coisas iriam muito mais suavemente. Dê ao Dr. Wong a amostra. Mesmo que ele desconfia de mim, sua curiosidade conseguirá o melhor dele e ele vai aceitá-lo. Uma vez que a amostra foi armazenada, procure uma maneira de eliminar o Dr. Wong sem alertar os outros Shi. Talvez uma overdose de algum tipo. Faça isso, e eu vejo que sua recompensa será triplicada.}
 {551}{}{Eu vou ver o que posso fazer.}
 {552}{}{Se você quiser Wong morto, você precisará me dar algo adiantado.}
 {553}{}{Você sabe, isso está ficando um pouco complicado. Eu acho que prefiro apenas massacrar você e depois ir massacrar o Shi.}
 {554}{}{Não há como matar o Dr. Wong por você. Eu acabei por aqui.}
-{560}{}{Excellent. And what of Dr. Wong?}
-{561}{}{He is still alive. I'll return once he's out of the picture.}
-{562}{}{I'm not going to kill Dr. Sheng for you. I gave them the plant sample, and now I'm done helping you.}
-{570}{}{I need them put down, and you look more than capable of the task.}
-{571}{}{Why don't you send these, uh, more successful ones in there to take care of them?}
-{572}{}{Sounds fun. I'll do it.}
-{573}{}{What's in it for me?}
-{574}{}{I'm not interested in cleaning up your messes.}
-{580}{}{They will not attack their own. They understand why I must now dispose of their less-fortunate brethren, but they will not carry out the task themselves. That left me in a rather delicate situation. Which is why I was so pleased to learn of your approach. So, will you assist me?}
-{581}{}{All right. I'll do it.}
-{582}{}{What's in it for me?}
-{583}{}{I'm not interested in cleaning up your messes.}
-{590}{}{The laboratory is right up there to the north. The sentry will let you through. Be careful. These creatures are incredibly strong, so try not to let them get too close. Oh, and beware of the poisonous spore they shoot out. But do not worry. I have an antidote, should you get poisoned.}
-{591}{}{Okay. I'll be back.}
-{592}{}{So they're incredibly strong and have poisonous projectiles? On second thought, I'm going to have to pass.}
-{600}{}{I shall give you money, of course. Also, I have information that I believe would be of great interest to you. So, will you assist me?}
-{601}{}{All right. I'll do it.}
-{602}{}{I'm not interested in cleaning up your messes.}
+{560}{}{Excelente. E o que dizer do Dr. Wong?}
+{561}{}{Ele ainda está vivo. Eu vou retornar assim que ele sair de cena.}
+{562}{}{Não vou matar o Dr. Sheng por você. Eu dei-lhes a amostra da planta, e agora eu terminei de ajudá-lo.}
+{570}{}{Eu preciso deles derrubados, e você parece mais do que capaz da tarefa.}
+{571}{}{Por que você não envia estes, uh, mais bem sucedidos lá para cuidar deles?}
+{572}{}{Parece divertido. Eu vou fazer isso.}
+{573}{}{O quê tem pra mim?
+}
+{574}{}{Eu não estou interessado em limpar a sua bagunça.}
+{580}{}{Eles não atacarão os seus. Eles entendem por que agora tenho que descartar os seus irmãos menos afortunados, mas eles não realizarão a tarefa sozinhos. Isso me deixou em uma situação bastante delicada. É por isso que fiquei tão satisfeito por aprender sobre sua abordagem. Então, você vai me ajudar?}
+{581}{}{Tudo bem. Eu vou fazer isso.}
+{582}{}{O quê tem pra mim?
+}
+{583}{}{Eu não estou interessado em limpar a sua bagunça.}
+{590}{}{O laboratório está bem lá para o norte. A sentinela irá deixar você passar. Seja cuidadoso. Essas criaturas são incrivelmente fortes, então tente não deixá-las chegar muito perto. Ah, e cuidado com a esponja venenosa que eles disparam. Mas não se preocupe. Eu tenho um antídoto, se você for envenenado.}
+{591}{}{OK. Eu voltarei.
+}
+{592}{}{Então eles são incrivelmente fortes e possuem projéteis venenosos? Pensando bem, eu vou ter que passar.}
+{600}{}{Devo dar-lhe dinheiro, é claro. Além disso, eu tenho informações que eu acredito que seria de grande interesse para você. Então, você vai me ajudar?}
+{601}{}{Tudo bem. Eu vou fazer isso.}
+{602}{}{Eu não estou interessado em limpar a sua bagunça.}
 {610}{}{[Olha para você com expectativa.]}
-{611}{}{I'll come back after I've taken out the creatures in the lab.}
-{612}{}{All the creatures in the lab are dead.}
-{613}{}{All the creatures in the lab are dead, but I've been poisoned. You said something about an antidote?}
-{620}{}{Yes, I shall administer it at once. Here.}
-{621}{}{Ah. I feel better already.}
-{630}{}{It is a pity to lose those specimens, but a necessary evil to reclaim my laboratory. You have done well. Here is your monetary reward. [He hands you $1000.] The second half of your reward is information — and a second task to go with it.}
-{631}{}{It is a pity to lose those specimens, but a necessary evil to reclaim my laboratory. You have done well. Your reward is information — and a second task to go with it.}
-{632}{}{Let's hear it.}
-{633}{}{Forget it. Keep your information. I'm done working for you.}
-{640}{}{Exellent. And the Shi have the sample I gave you?}
-{641}{}{Oh, uh ... No, actually. I forgot to give it to him first.}
-{700}{}{You clear out Dr. Sheng's lab.}
-{710}{}{You deliver plant seeds to Dr. Sheng.}
-{800}{}{*gasp* Ahhh...}
+{611}{}{Eu voltarei depois de ter retirado as criaturas no laboratório.}
+{612}{}{Todas as criaturas no laboratório estão mortas.}
+{613}{}{Todas as criaturas no laboratório estão mortas, mas fui envenenada. Você disse algo sobre um antídoto?}
+{620}{}{Sim, eu devo administrá-lo imediatamente. Aqui.}
+{621}{}{Ah. Eu me sinto melhor já.}
+{630}{}{É uma pena perder esses espécimes, mas um mal necessário para recuperar meu laboratório. Você fez bem. Aqui está a sua recompensa monetária. [Ele lhe entrega $ 1000.] A segunda metade da sua recompensa é a informação - e uma segunda tarefa para ir com ela.}
+{631}{}{É uma pena perder esses espécimes, mas um mal necessário para recuperar meu laboratório. Você fez bem. Sua recompensa é informação - e uma segunda tarefa para ir com ela.}
+{632}{}{Vamos ouvi-lo.}
+{633}{}{Esqueça. Mantenha suas informações. Acabei de trabalhar para você.}
+{640}{}{Excelente. E os Shi têm a amostra que eu dei?}
+{641}{}{Oh, uh ... Não, na verdade. Esqueci-me de dar-lhe primeiro.}
+{700}{}{Você limpa o laboratório do Dr. Sheng.}
+{710}{}{Você entrega sementes de plantas para o Dr. Sheng.}
+{800}{}{*suspiro* Ahhh...}

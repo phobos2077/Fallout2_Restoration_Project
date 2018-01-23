@@ -1,59 +1,59 @@
-{100}{}{You see a short, rotund Shi man.}
-{101}{}{You see Dr. Wong Yi Tze.}
-{102}{}{You see a short, rotund Shi man.}
-{103}{}{May I assist you with something?}
+{100}{}{Você vê um homem Shi curto e rotundo.}
+{101}{}{Você vê o Dr. Wong Yi Tze.}
+{102}{}{Você vê um homem Shi curto e rotundo.}
+{103}{}{Posso ajudar em alguma coisa?}
 {104}{}{Daghi nu?}
 {105}{}{Você quem?}
-{106}{}{I hear you have someone else's spleen.}
+{106}{}{Eu ouvi que você tem o baço de outra pessoa.}
 {107}{}{Quem é você?}
 {108}{}{O que você faz aqui?}
-{109}{}{No, thanks. That's all.}
-{110}{}{I must confess, I do not speak your tongue. Perhaps you ought to speak to Ken Lee, he understands many different languages.}
+{109}{}{Não, obrigado. Isso é tudo.}
+{110}{}{Devo confessar, não falo sua língua. Talvez você deva falar com Ken Lee, ele entende muitas línguas diferentes.}
 {111}{}{Aagh!}
-{112}{}{I am Dr. Wong. I am the head scientist of this installation.}
-{113}{}{More questions, please.}
+{112}{}{Eu sou o Dr. Wong. Eu sou o principal cientista desta instalação.}
+{113}{}{Mais perguntas, por favor.}
 {114}{}{Obrigado. Tchau.}
-{115}{}{I oversee the scientific experiments we create and run here. I also am in charge of the computer network.}
-{116}{}{What are you planning?}
-{117}{}{How does one get access to the computer network?}
-{118}{}{I have other questions.}
-{119}{}{I see. Bye.}
-{120}{}{Ah, but if I tell you our plans, then everyone will know. I'm afraid they are secret plans, for now.}
-{121}{}{Fine, fine. I have other questions.}
+{115}{}{Eu supervisiono os experimentos científicos que criamos e corremos aqui. Eu também estou no comando da rede de informática.}
+{116}{}{O que você está planejando?}
+{117}{}{Como se faz para obter acesso à rede de computadores?}
+{118}{}{Tenho outras perguntas.}
+{119}{}{Eu vejo. Tchau.}
+{120}{}{Ah, mas se eu lhe contar os nossos planos, todos saberão. Receio que eles sejam planos secretos, por enquanto.}
+{121}{}{Bem, bem. Tenho outras perguntas.}
 {122}{}{Obrigado. Tchau.}
-{123}{}{How about if I stick a gun under your nose and force you to tell me?}
-{124}{}{Why, one learns how to hack into it, or how to make friends with one of my underlings. I'm joking, of course, about hacking into it - if you were to do that, I'd send someone after you to kill you. [He smiles to show he means no offense.]}
-{125}{}{Would you really kill me?}
-{126}{}{So you wouldn't have any real objections to me getting into the computer?}
-{127}{}{I have some other questions.}
-{128}{}{Sure you would. Bye.}
-{129}{}{Then I would have to regard it as a threat and warn you that such a course of action might be detrimental to your health.}
-{130}{}{Let's give it a try.}
-{131}{}{I was just kidding. I have other questions.}
-{132}{}{[He smiles] We must protect our honor, stranger.}
-{133}{}{Err, right. So would you have any real objections to me getting into the computer?}
-{134}{}{Riiight. I have other questions.}
-{135}{}{I'll bet. Bye.}
-{136}{}{If you can convince my subordinates into doing so. But I certainly won't.}
-{137}{}{What if I shoved a gun under your nose?}
-{138}{}{Great. Well, I have more questions.}
-{139}{}{Hmm. I see. Well, so long.}
-{140}{}{Ahh, yes! Indeed. I will prepare it with fava beans and a nice Chianti.}
-{141}{}{You've still got it? Good. Chip needs it back.}
-{142}{}{That's a human spleen, you sick bastard!}
-{143}{}{You do know that you're supposed to serve liver with that wine instead of spleen, right?}
-{144}{}{That's a human spleen, you know.}
-{145}{}{Who is this Chip? It's my spleen now, and I'm having it for dinner.}
-{146}{}{Chip's the original owner of the spleen. He was drunk and sold it to Lao Chou.}
-{147}{}{He needs it to survive, you know. It came from inside his body.}
-{148}{}{Then maybe I'd better kill you for it.}
-{149}{}{A deal is a deal. He can't have it. Sorry, but we made a bargain and just because Chip regrets it now doesn't mean he can go back on his deal.}
+{123}{}{Que tal se eu pegar uma arma no seu nariz e forçá-lo a me dizer?}
+{124}{}{Por que, alguém aprende como invadir isso, ou como fazer amizade com um dos meus subordinados. Eu estou brincando, é claro, com uma invasão - se você fizesse isso, eu enviaria alguém depois de você para matá-lo. [Ele sorri para mostrar que isso não significa ofensa.]}
+{125}{}{Você realmente iria me matar?}
+{126}{}{Então, você não teria nenhuma objeção real para eu entrar no computador?}
+{127}{}{Eu tenho algumas outras perguntas.}
+{128}{}{Certeza de que você teria. Tchau.}
+{129}{}{Então eu teria de considerá-lo como uma ameaça e avisá-lo de que tal curso de ação pode ser prejudicial para a sua saúde.}
+{130}{}{Vamos dar-lhe uma tentativa.}
+{131}{}{Eu estava apenas brincando. Tenho outras perguntas.}
+{132}{}{[Sorri] Temos que proteger a nossa honra, estranho.}
+{133}{}{Err, certo. Então, você teria alguma objeção real para eu entrar no computador?}
+{134}{}{Certo. Tenho outras questões.}
+{135}{}{Aposto. Tchau.}
+{136}{}{Se você pode convencer meus subordinados a fazê-lo. Mas eu certamente não.}
+{137}{}{E se eu coloquei uma arma debaixo do nariz?}
+{138}{}{Grande. Bem, eu tenho mais perguntas.}
+{139}{}{Hmm. Eu vejo. Bem, até mais. }
+{140}{}{Ahh, sim! De facto. Vou prepará-lo com fava, feijão e um bom Chianti.}
+{141}{}{Você ainda tem ele? Boa. Chip necessidades de volta.}
+{142}{}{Isso é um baço humano, seu bastardo doente!}
+{143}{}{Você sabe que é suposto servir fígado com esse vinho em vez de baço, certo?}
+{144}{}{Isso é um baço humano, você sabe.}
+{145}{}{Quem é esse Chip? É meu baço agora, e estou com ele para o jantar.}
+{146}{}{O Chip é o proprietário original do baço. Ele estava bêbado e vendeu-o para Lao Chou.}
+{147}{}{Ele precisa disso para sobreviver, você sabe. Ele veio de dentro de seu corpo.}
+{148}{}{Então, é melhor eu te matar por isso.}
+{149}{}{Um acordo é um acordo. Ele não pode ter isso. Desculpe, mas fizemos uma pechincha e só porque Chip se arrepende agora, não significa que ele possa voltar ao acordo.}
 {150}{}{[MAIS]}
-{151}{}{It's a human spleen? Lao Chou didn't tell me that!}
-{152}{}{Yet, because of the rudeness of the messenger, I believe I will hold all parties to the bargain. I will experiment on it instead.}
-{153}{}{Tell your friend to come by for it within the next day, and I will gladly return it to him. I just hope you can find a way to replace it in his body in time.}
+{151}{}{É um baço humano? Lao Chou não me disse isso!}
+{152}{}{No entanto, por causa da descortesia do mensageiro, acredito que vou manter todas as partes no negócio. Em vez disso, vou experimentar.}
+{153}{}{Diga ao seu amigo que venha por ele no próximo dia, e com prazer vou devolvê-lo. Eu só espero que você possa encontrar uma maneira de recolocar em seu corpo a tempo.}
 {154}{}{Muito bem.}
-{155}{}{Ha ha! Yes, I too saw that old movie. Wait... what are you saying? Are you saying that...?}
+{155}{}{Ha ha! Sim, eu também vi esse filme antigo. Espere ... o que você está dizendo? Você está dizendo que ...?}
 {156}{}{Yes, it's a human spleen.}
 {157}{}{Actually, I would object to that. You have not shown yourself to be of good character. Indeed, I do not know why I am talking to you. Good day.}
 {158}{}{[FEITO]}
@@ -120,7 +120,7 @@
 {410}{}{The Shi will be most grateful for this service. Once Dr. Sheng and all of his creations have been eliminated, report back to me to receive your reward.}
 {411}{}{[FEITO]}
 {420}{}{I'll leave that up to you. We could grant you weapons, supplies, or money. You may decide once the task is complete.}
-{421}{}{All right. I'll do it.}
+{421}{}{Tudo bem. Eu vou fazer isso.}
 {422}{}{Not interested. Dr. Sheng's your problem—you guys can deal with him.}
 {423}{}{All right. I'll do it. But before I go, Dr. Sheng wanted me to deliver this plant sample to you. He said it should help you achieve the goal of creating radiation-resistant plant life.}
 {430}{}{Fair enough. We will handle the problem ourselves, but it will have to wait, as we don't have the resources to expend at the moment. Hopefully it won't be too late once we are able to act. In the meantime, if you should change your mind, please let me know.}

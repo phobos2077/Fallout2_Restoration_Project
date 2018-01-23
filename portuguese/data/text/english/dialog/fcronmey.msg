@@ -45,7 +45,7 @@
 {144}{}{Obrigado. Tchau.}
 {145}{}{Word gets around.}
 {146}{}{I see. What else is going on out there on the rig?}
-{147}{}{I see. Bye.}
+{147}{}{Eu vejo. Tchau.}
 {148}{}{Beats me. I was a Navarro tech, not a rig operator. We talked to them over the comm lines, and that was about the extent of it.}
 {149}{}{I see. How do I pilot this again?}
 {150}{}{Obrigado. Tchau.}

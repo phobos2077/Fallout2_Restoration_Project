@@ -16,7 +16,7 @@
 {115}{}{Adeus.}
 {116}{}{This is the Poseidon Marine Vessel Valdez - also called the PMV Valdez. If you want more information about the Valdez, the best person to ask is the Captain.}
 {117}{}{The Captain? Who's that?}
-{118}{}{I have other questions.}
+{118}{}{Tenho outras perguntas.}
 {119}{}{Adeus.}
 {120}{}{In charge? No one's in charge of us.}
 {121}{}{Where'd you all come from?}
@@ -37,7 +37,7 @@
 {136}{}{Have you figured out how to move the tanker?}
 {137}{}{Tell me about the Hubologists.}
 {138}{}{Tell me about the Shi.}
-{139}{}{I have other questions.}
+{139}{}{Tenho outras perguntas.}
 {140}{}{Obrigado. Tchau.}
 {141}{}{I think the Captain's figured out how to do it - but we need several elements first. We've basically given up on taking it for ourselves, to tell the truth - we've got other plans now.}
 {142}{}{What are they?}
@@ -47,22 +47,22 @@
 {146}{}{They're crazy. Don't trust them - unless you're mentally feeble or like being screwed over. They're interested only in your money and your soul, and there's a good chance they'll destroy the one to get at the other. I've seen it happen too many times.}
 {147}{}{Have you figured out to move the tanker?}
 {148}{}{Tell me about the Shi.}
-{149}{}{I have other questions.}
+{149}{}{Tenho outras perguntas.}
 {150}{}{Adeus.}
 {151}{}{They're a good sort, as far as they go. They're a little untrusting of outsiders, but then, that's not always such a bad attitude to take in these times. They've got some weird customs and they talk funny, but they're all right.}
 {152}{}{Have you figured out to move the tanker?}
 {153}{}{Tell me about the Hubologists.}
-{154}{}{I have other questions.}
+{154}{}{Tenho outras perguntas.}
 {155}{}{Adeus.}
 {156}{}{You want to know what our plans are? We're going to keep moving around until we can find a place that hasn't been screwed over by human greed and then we're going to try to set up a better society.}
 {157}{}{Do you know how you're going to do that?}
-{158}{}{I have other questions.}
+{158}{}{Tenho outras perguntas.}
 {159}{}{Obrigado. Tchau.}
 {160}{}{We're hoping that we can avoid society's mistakes. Hell, things can't get much worse.}
 {161}{}{Have you figured out to move the tanker?}
 {162}{}{Tell me about the Hubologists.}
 {163}{}{Tell me about the Shi.}
-{164}{}{I have other questions.}
+{164}{}{Tenho outras perguntas.}
 {165}{}{Obrigado. Tchau.}
 {166}{}{You seen Badger's girlfriend around?}
 {167}{}{I think I saw her go down below. There's a hole on the north side of this deck.}
