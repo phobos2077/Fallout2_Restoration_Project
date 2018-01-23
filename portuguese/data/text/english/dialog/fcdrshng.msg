@@ -55,46 +55,47 @@
 {360}{}{Então, parece que não tenho mais uso para você. [Ele move para as criaturas da planta.] Mate-o, meus filhos! Seu corpo deve fazer um bom acolhimento para o seu mais novo irmão!}
 {361}{}{Então, parece que não tenho mais uso para você. [Ele move para as criaturas da planta.] Mate-a, meus filhos! Seu corpo deve ser um bom anfitrião para seu mais novo irmão!}
 {362}{}{[FEITO]}
-{370}{}{[The Doctor departs. After about an hour, he returns and hands you a single plant seed.] This plant sample is my gift to the Shi. It will change everything. I am giving you the honor of presenting it to Doctor Wong.}
-{371}{}{What's so special about this plant sample?}
-{372}{}{That's it? I went and got those damn seeds for you and this is what I get for my trouble? Yet another seed? Fuck you and your creepy plant zombies. I think I'll do the world a favor and put an end to this morbid operation of yours.}
-{380}{}{The Shi have been attempting to create plant life that is resistant to radiation. I was the head of that project, but during my research I made a discovery that led me down a different path. I created a plant sentience serum, but after a few ... unfortunate incidences, the Shi wanted to shut the project down. So I left to continue my work unimpeded.}
-{381}{}{Okay. So how does this plant sample figure into this?}
-{382}{}{Go on...}
-{390}{}{Ironically, just as my focus was shifting to my new sentient plant creations, I happened to make a major breakthrough in radiation-resistant plant research. I kept this breakthrough a secret, as I did not want to draw attention away from my more significant discovery. When the others failed to see the importance of my sentient plants, I decided to keep my secret out of spite. That is, until now. With the plant sample I have given you, even a narrow-minded fool like Dr. Wong could achieve the goal of radiation-resistant plant life.}
-{391}{}{So why the change of heart?}
-{392}{}{Okay. I'll deliver it to Dr. Wong.}
-{393}{}{I'll bring this to Dr. Wrong. But if he doesn't give me a proper reward for it, then you'll be seeing me again.}
-{394}{}{You can keep the sample. I'm sure Dr. Wong and the other Shi scientists can figure it out without your help. I'm done doing you favors.}
-{400}{}{I have had no change of heart. In addition to being radiation resistant, the plant sample is infused with my sentience serum. Like a proud father, I merely wish to see my creation flourish. Deliver it for me, and you shall be granted a true reward.}
-{401}{}{Okay. I'll deliver it to Dr. Wong.}
-{402}{}{Nah. Keep your sample. I'm done helping you.}
-{403}{}{Dr. Wong seems like a sly guy. You really think he'll trust a plant sample from you?}
-{410}{}{It has come to my attention that there is an old US government facility where one might obtain unique plant seeds untouched by radiation. This facility is too far away for me to personally venture to, but I believe it would be a simple task for an experienced wastelander such as you.}
-{411}{}{Oh, you're talking about these weird seeds from the EPA. Been there, got them.}
-{412}{}{I'm always up for exploring some old ruins. Give me the location and I'll go see what I can find.}
-{413}{}{And what do I get out of it?}
-{420}{}{Yes, Dr. Wong is a bit of an obstacle. If he were removed from the picture, things would go much more smoothly. Give Dr. Wong the sample. Even if he distrusts me, his curiosity will get the better of him and he'll accept it. Once the sample has been stored away, find a way to eliminate Dr. Wong without alerting the other Shi. Perhaps an overdose of some sort. Do this, and I'll see that your reward is tripled.}
+{370}{}{[O médico parte. Após cerca de uma hora, ele retorna e lhe entrega uma única semente de planta.] Esta amostra de planta é meu presente para o Shi. Isso mudará tudo. Estou lhe dando a honra de apresentá-lo ao médico Wong.}
+{371}{}{O que é tão especial sobre essa amostra de plantas?}
+{372}{}{É isso aí? Eu fui e consegui essas malditas sementes para você e isso é o que eu recebo por meu problema? Mais uma semente? Foda-se você e seus zombis de planta assustadores. Eu acho que vou fazer um favor ao mundo e acabar com essa operação mórbida.}
+{380}{}{O Shi tem tentado criar vida vegetal resistente à radiação. Eu fui o chefe desse projeto, mas durante minha pesquisa fiz uma descoberta que me levou por um caminho diferente. Eu criei um soro de planta senciente, mas depois de alguns ... incidentes infelizes, o Shi queria fechar o projeto. Então eu deixei continuar meu trabalho sem obstáculos.}
+{381}{}{OK. Então, como essa amostra de planta se enquadra nisso?}
+{382}{}{Continue...
+}
+{390}{}{Ironicamente, assim como meu foco estava mudando para minhas novas criações de plantas sensíveis, eu fiz um grande avanço na pesquisa de plantas resistentes à radiação. Mantive esse segredo, como não quis tirar atenção da minha descoberta mais significativa. Quando os outros não conseguiram ver a importância das minhas plantas sensíveis, eu decidi manter meu segredo fora de despeito. Ou seja, até agora. Com a amostra da planta que lhe dei, mesmo um idiota de mentalidade estreita, como o Dr. Wong, poderia alcançar o objetivo da vida vegetal resistente à radiação.}
+{391}{}{Então, por que a mudança de coração?}
+{392}{}{Tudo bem. Eu vou entregá-lo ao Dr. Wong.}
+{393}{}{Vou trazer isso para o Dr. Wrong. Mas se ele não me der uma recompensa adequada, então você vai me ver novamente.}
+{394}{}{Você pode manter a amostra. Tenho certeza de que o Dr. Wong e os outros cientistas Shi podem descobrir isso sem sua ajuda. Acabei de fazer favores.}
+{400}{}{Não tive nenhuma mudança de coração. Além de ser resistente à radiação, a amostra da planta é infundida com meu soro de sensibilidade. Como um pai orgulhoso, eu apenas desejo ver minha criação florescer. Entregue-o para mim, e você receberá uma verdadeira recompensa.}
+{401}{}{Tudo bem. Eu vou entregá-lo ao Dr. Wong.}
+{402}{}{Nah. Mantenha sua amostra. Acabei de ajudá-lo.}
+{403}{}{O Dr. Wong parece ser um cara manhoso. Você realmente acha que ele vai confiar em uma amostra de plantas de você?}
+{410}{}{Chegou à minha atenção que há uma antiga instalação do governo dos EUA onde se poderia obter sementes únicas de plantas intactas por radiação. Esta facilidade está muito distante para me aventurar pessoalmente, mas acredito que seria uma tarefa simples para um forasteiro experiente, como você.}
+{411}{}{Oh, você está falando sobre essas sementes estranhas da EPA. Fui lá, peguei-as. }
+{412}{}{Estou sempre a caminho de explorar algumas ruínas antigas. Me dê a localização e irei ver o que posso encontrar.}
+{413}{}{E o que eu ganho com isso?}
+{420}{}{Sim, o Dr. Wong é um obstáculo. Se ele fosse removido da imagem, as coisas iriam muito mais suavemente. Dê ao Dr. Wong a amostra. Mesmo que ele desconfia de mim, sua curiosidade o melhorará e ele vai aceitá-lo. Uma vez que a amostra foi armazenada, procure uma maneira de eliminar o Dr. Wong sem alertar o outro Shi. Talvez uma overdose de algum tipo. Faça isso, e eu vejo que sua recompensa será triplicada.}
 {421}{}{Eu vou ver o que posso fazer.}
-{422}{}{If you want Wong dead, you'll need to give me something up front.}
-{423}{}{You know, this is all getting a bit complicated. I think I'd rather just massacre you and then go massacre the Shi.}
-{424}{}{There's no way I'm killing Dr. Wong for you. I'm done here.}
-{430}{}{Very well. This poison may come in handy. I extracted it from one of my creations. It is extremely deadly. [He gives you a syringe.]}
+{422}{}{Se você quiser Wong morto, você precisará me dar algo adiantado.}
+{423}{}{Você sabe, isso está ficando um pouco complicado. Eu acho que prefiro apenas massacrar você e depois ir massacrar o Shi.}
+{424}{}{Não há como matar o Dr. Wong por você. Eu acabei por aqui.}
+{430}{}{Muito bem. Este veneno pode ser útil. Eu extrai de uma das minhas criações. É extremamente mortal. [Ele lhe dá uma seringa.]}
 {431}{}{Eu vou ver o que posso fazer.}
 {440}{}{[Olha para você com expectativa.]}
-{441}{}{I'm still working on things. I'll get back to you.}
-{442}{}{I delivered the sample to the Shi.}
-{443}{}{The Shi have the sample and Dr. Wong is dead.}
-{444}{}{Your method of revenge wasn't direct enough for my tastes, so I just killed everyone for you.}
-{445}{}{Dr. Wong is dead.}
-{446}{}{I delivered the sample to the Shi and told Dr. Wong about your intentions. He destroyed the sample immediately.}
-{450}{}{Impossible! A spore plant cannot be capable of speech regardless of its intelligence. Either you are making some sort of jest or you were under a drug-induced hallucination. By the looks of you, I'd guess it was the latter. But enough about that nonsense. I must know if you are willing to assist me.}
-{451}{}{Yeah, I suppose it *does* sound rather silly. Anyway, what did you want me to assist you with?}
-{452}{}{Don't change the subject—I was telling the truth! I swear on the Vault Dweller, his name was Seymour and he could talk. He wanted me to re-plant him in a better location. I'm not making this up and I wasn't hallucinating.}
-{460}{}{Enough! I do not have time for this foolishness. Will you assist me, or not?}
+{441}{}{Eu ainda estou trabalhando em coisas. Eu vou voltar para você.}
+{442}{}{Eu entreguei a amostra para o Shi.}
+{443}{}{O Shi tem a amostra e o Dr. Wong está morto.}
+{444}{}{Seu método de vingança não foi direto o suficiente para os meus gostos, então eu acabei de matar todos por você.}
+{445}{}{Dr. Wong está morto.}
+{446}{}{Entreguei a amostra ao Shi e disse ao Dr. Wong sobre suas intenções. Ele destruiu a amostra imediatamente.}
+{450}{}{Impossível! Uma planta de esporos não pode ser capaz de falar, independentemente da sua inteligência. Ou você está fazendo algum tipo de brincadeira ou você estava sob uma alucinação induzida por drogas. Por sua aparência, eu acho que foi o último. Mas o suficiente sobre esse absurdo. Devo saber se você está disposto a me ajudar.}
+{451}{}{Sim, suponho que * faça * parecer bastante bobo. De qualquer forma, com o que você queria que eu o ajudasse?}
+{452}{}{Não altere o assunto - eu estava falando a verdade! Juro pelo Morador do Vault, seu nome era Seymour e ele podia falar. Ele queria que eu o replantasse-o em uma localização melhor. Não estou inventando isso e não estava alucinando.}
+{460}{}{O suficiente! Eu não tenho tempo para esta loucura. Você vai me ajudar ou não?}
 {461}{}{Ajudá-lo com o que?}
-{462}{}{No! I'm not going to assist you, asshole! Seymour was real! SEYMOUR WAS REAL!}
-{470}{}{[He grins, obviously eager to show off his genius.] I've always been fascinated by plants. They are so remarkably different from animals, and yet surprisingly similar. When you look at an animal, you know it can think, that it's aware of its surroundings, experiences pain and fear. That it has reason. Obviously the extent of this ability varies, but the point is that an animal possesses this.}
+{462}{}{Não! Eu não vou ajudar você, idiota! Seymour foi real! SEYMOUR FOI REAL!}
+{470}{}{[Ele sorri, obviamente ansioso para mostrar o seu gênio.] Eu sempre fui fascinado pelas plantas. Eles são tão notavelmente diferentes dos animais, e ainda surpreendentemente semelhantes. Quando você olha para um animal, você sabe que pode pensar, que está ciente de seus arredores, experimenta dor e medo. Que tem razão. Obviamente, a extensão dessa habilidade varia, mas o ponto é que um animal possui isso.}
 {471}{}{Continue.
 }
 {480}{}{When you look at a plant though, do you also think this? If you kick a plant, does it fight back? Does it respond to you in anyway? Does talking to a plant affect its growth? Some cultures before the Great War tested such theories. A people known as the Germans conducted experiments which lead them to believe that plants are capable of emotions and that one could promote healthy growth with talk, attention, and affection.}
@@ -115,9 +116,9 @@
 {541}{}{Yes, I do. It seemed totally impossible, but the way you've explained it makes complete sense. And the thing about the sponges, absolute genius! Morbid, but genius. But there was one thing you didn't explain. Where exactly are you getting these 'fresh human cadavers'?}
 {550}{}{Now hold on there a minute. Dr. Wong will be a bit of an obstacle here. If he were removed from the picture, things would go much more smoothly. Give Dr. Wong the sample. Even if he distrusts me, his curiosity will getter the better of him and he'll accept it. Once the sample has been stored away, find a way to eliminate Dr. Wong without alerting the other Shi. Perhaps an overdose of some sort. Do this, and I'll see that your reward is tripled.}
 {551}{}{Eu vou ver o que posso fazer.}
-{552}{}{If you want Wong dead, you'll need to give me something up front.}
-{553}{}{You know, this is all getting a bit complicated. I think I'd rather just massacre you and then go massacre the Shi.}
-{554}{}{There's no way I'm killing Dr. Wong for you. I'm done here.}
+{552}{}{Se você quiser Wong morto, você precisará me dar algo adiantado.}
+{553}{}{Você sabe, isso está ficando um pouco complicado. Eu acho que prefiro apenas massacrar você e depois ir massacrar o Shi.}
+{554}{}{Não há como matar o Dr. Wong por você. Eu acabei por aqui.}
 {560}{}{Excellent. And what of Dr. Wong?}
 {561}{}{He is still alive. I'll return once he's out of the picture.}
 {562}{}{I'm not going to kill Dr. Sheng for you. I gave them the plant sample, and now I'm done helping you.}
