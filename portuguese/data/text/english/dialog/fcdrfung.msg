@@ -123,7 +123,7 @@
 {228}{}{Hmm. Eu não acho que eu quero pagar tanto. Até mais.}
 {229}{}{Se você não se importa de sair com $ 8500, alguns dias e um conjunto de armadura de combate, podemos começar a operação agora.}
 {230}{}{Me amarre, doc. Estou pronto para ir.}
-{231}{}{That's a little steep. Let me get back to you.}
+{231}{}{Isso é um pouco íngreme. Deixe-me voltar para você.}
 {232}{}{Esta é uma operação importante. Vai custar-lhe o seu "bom visual", um conjunto de armadura de combate e $ 49000. Você está disposto a investir nisso?}
 {233}{}{Inferno, sim. Vamos fazer isso.}
 {234}{}{Wow. Isso é... caro. Eu vou voltar para você.}

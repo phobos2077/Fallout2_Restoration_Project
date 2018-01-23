@@ -52,8 +52,8 @@
 {350}{}{[Olha para você com expectativa.]}
 {351}{}{Aqui estão as sementes que você queria.}
 {352}{}{Eu vou voltar quando eu tiver as sementes.}
-{360}{}{Then it seems I have no further use for you. [He motions to the plant creatures.] Kill him, my children! His body shall make a fine host for your newest sibling!}
-{361}{}{Then it seems I have no further use for you. [He motions to the plant creatures.] Kill her, my children! Her body shall make a fine host for your newest sibling!}
+{360}{}{Então, parece que não tenho mais uso para você. [Ele move para as criaturas da planta.] Mate-o, meus filhos! Seu corpo deve fazer um bom acolhimento para o seu mais novo irmão!}
+{361}{}{Então, parece que não tenho mais uso para você. [Ele move para as criaturas da planta.] Mate-a, meus filhos! Seu corpo deve ser um bom anfitrião para seu mais novo irmão!}
 {362}{}{[FEITO]}
 {370}{}{[The Doctor departs. After about an hour, he returns and hands you a single plant seed.] This plant sample is my gift to the Shi. It will change everything. I am giving you the honor of presenting it to Doctor Wong.}
 {371}{}{What's so special about this plant sample?}
