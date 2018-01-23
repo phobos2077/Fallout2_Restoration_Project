@@ -90,31 +90,32 @@
 {208}{}{I am Loopal. You will get no further.}
 {209}{}{I am Smitty. It is your time to be beaten.}
 {210}{}{I am Master Krall. You are finished.}
-{211}{}{FIGHT!}
+{211}{}{LUTA!}
 {212}{}{You need to train more.}
 {213}{}{Prepare yourself!}
 {214}{}{You have beaten Lo Pan in mortal combat. For some reason the sun seems a little brighter today.}
 {215}{}{You have already defeated my men. You have passed my test. You are ready to fight the Dragon.}
 {216}{}{You're pretty good already. Go learn to shoot or something.}
-{217}{}{Let us begin. Follow my lead.}
-{218}{}{Training is done for the day.}
+{217}{}{Vamos começar. Siga minha liderança.}
+{218}{}{O treinamento é feito durante o dia.}
 {219}{}{You have learned well.}
-{220}{}{You have already defeated my men. No others wish to challenge you.}
+{220}{}{Você já derrotou a meus homens. Outros não desejam desafiar você.}
 {221}{}{You have helped me and did not even know it. With the Dragon dead I no longer have to follow those outdated moral traditions.}
-{222}{}{It was my pleasure. Bye.}
+{222}{}{Foi um prazer. Tchau.
+}
 {223}{}{You're welcome. Bye bye.}
 {224}{}{You're welcome. Can I ask a question?}
-{225}{}{Welcome. Me ask?}
-{226}{}{You WIN!}
-{227}{}{You LOSE!}
-{228}{}{Next Opponent!}
+{225}{}{Bem vinda. Eu pergunto?}
+{226}{}{Você GANHA!}
+{227}{}{Você PERDE!}
+{228}{}{Próximo Adversário!}
 {229}{}{Hey, look I what I found.}
-{230}{}{First, you will need to prove you can do it. I will have you go up against five of my fighters - one at a time. If you beat them then you will receive your final test.}
-{231}{}{What is that?}
-{232}{}{Sounds like too much trouble. Bye.}
+{230}{}{Primeiro, você precisará provar que você pode fazê-lo. Eu vou ter que enviar cinco dos meus lutadores - um de cada vez. Se você os vencer, você receberá seu teste final.}
+{231}{}{O que é isso?}
+{232}{}{Parece problemas demais. Tchau.}
 {233}{}{You will need to defeat my chosen apprentice. However, none of these battles will to be to the death - to protect my men, of course. [he sneers]}
 {234}{}{Let's get it on!}
 {235}{}{You can take care of the Dragon yourself.}
 {236}{}{[Lo Pan studies you and then throws a quick punch which smacks you in the nose before you can even react.] You are not good enough.}
-{237}{}{Ok, but can I ask something else?}
+{237}{}{Ok, mas posso pedir outra coisa?}
 {238}{}{Bem. Tchau.}

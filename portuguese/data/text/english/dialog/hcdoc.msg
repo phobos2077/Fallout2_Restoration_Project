@@ -34,47 +34,47 @@
 {127}{}{Oh yeah? Like what?}
 {128}{}{I changed my mind. I'd rather ask other questions.}
 {129}{}{That'll cost you $50.}
-{130}{}{I'll pay.}
+{130}{}{Eu vou pagar.}
 {131}{}{Esqueça.
 }
 {132}{}{For wounds like that, you'll be losing $100.}
-{133}{}{I'll pay.}
+{133}{}{Eu vou pagar.}
 {134}{}{Esqueça.
 }
 {135}{}{That looks like it must have hurt. Going to hurt your wallet, too... $150.}
-{136}{}{I'll pay.}
+{136}{}{Eu vou pagar.}
 {137}{}{Esqueça.
 }
 {138}{}{Ouch! You're going to need some serious patching. $200.}
-{139}{}{I'll pay.}
+{139}{}{Eu vou pagar.}
 {140}{}{Esqueça.
 }
 {141}{}{Whew… friend, this is going to hurt you a lot. $300 and you're good as new.}
-{142}{}{I'll pay.}
+{142}{}{Eu vou pagar.}
 {143}{}{Esqueça.
 }
 {144}{}{He should be okay after a little help from me… ::wheeze:: to the tune of $50.}
-{145}{}{I'll pay.}
+{145}{}{Eu vou pagar.}
 {146}{}{Esqueça.
 }
 {147}{}{You been seeing some action? I remember back when I was a little spitfire. Got plenty of holes
  in me, too. This misadventure will cost you $100.}
-{148}{}{I'll pay.}
+{148}{}{Eu vou pagar.}
 {149}{}{Esqueça.
 }
 {150}{}{Kid, do you take care of your friends? ::cough:: If you're going to take care of this friend,
  you'll need to pay $150.}
-{151}{}{I'll pay.}
+{151}{}{Eu vou pagar.}
 {152}{}{Esqueça.
 }
 {153}{}{You must be pretty good to inspire loyalty like this from your friends. I hope you're good...
 because this is going to cost ::cough:: $200.}
-{154}{}{I'll pay.}
+{154}{}{Eu vou pagar.}
 {155}{}{Esqueça.
 }
 {156}{}{Ouch! I'll need to put a cast on that or something. For my extensive medical knowledge, you'll
  be parting with $300.}
-{157}{}{I'll pay.}
+{157}{}{Eu vou pagar.}
 {158}{}{Esqueça.
 }
 {159}{}{Friend, you don't have that kind of money. I can sell you some stimpacks if you like, but with
@@ -84,8 +84,9 @@ because this is going to cost ::cough:: $200.}
 {162}{}{It's been a pleasure.}
 {163}{}{Obrigado.}
 {164}{}{That's not acceptable.}
-{165}{}{How about this?}
-{166}{}{It's all I want to offer. So long.}
+{165}{}{Que tal agora?
+}
+{166}{}{É tudo o que quero oferecer. Até mais.}
 {167}{}{::wheeze:: Are you hurt? Let me take a look at that. Do you have money?}
 {168}{}{Mo-ney?}
 {169}{}{'Es!}
@@ -93,7 +94,7 @@ because this is going to cost ::cough:: $200.}
  may hurt a little bit.}
 {171}{}{Hurt?}
 {172}{}{Yes. Now… There! We're done. Good luck to you, okay? Don't get hurt!}
-{173}{}{Tanks!}
+{173}{}{Obrigado!}
 {174}{}{That's right. I'm a doctor. Good to see that intelligence is alive and well in the post-nuclear
  world.}
 {175}{}{Ha! And it's kicking around inside the body of a 70-year-old man!}

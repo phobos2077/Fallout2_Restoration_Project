@@ -341,7 +341,7 @@
 {884}{}{You should heal yourself.}
 {885}{}{Tell me how you are.}
 {886}{}{That's it for now, Sulik.}
-{887}{}{Tell me about this place.}
+{887}{}{Conte-me sobre este lugar.}
 {890}{slk66}{What be the fighting strategy?}
 {891}{}{I want you to change your distance.}
 {892}{}{I want you to use your best weapon.}

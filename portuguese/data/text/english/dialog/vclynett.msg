@@ -824,7 +824,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {816}{}{T-Ray thinks a little too highly of himself.}
 {817}{}{This is good news.}
 {818}{}{Muito bem.}
-{819}{}{Good day.}
+{819}{}{Bom dia.}
 {820}{}{Good day, Citizen.}
 {821}{}{I'll take that.}
 {822}{}{Give me that.}

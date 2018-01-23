@@ -11,7 +11,7 @@
 {109}{}{I'm sorry! I don't speak your language! Have a nice day!}
 {110}{}{Rrr?}
 {111}{}{Ahh, a weapon, eh? Well, this is what I have.}
-{112}{}{-more-}
+{112}{}{-mais-}
 {113}{}{Great, great. Thank you for your business. Come back soon!}
 {114}{}{More questions!}
 {115}{}{Adeus!}
@@ -50,5 +50,5 @@
 {147}{}{Eu vejo. Eu tenho mais perguntas.}
 {148}{}{Obrigado. Tchau.}
 {149}{}{That is all I can think of at the moment. Good day.}
-{150}{}{Good day.}
+{150}{}{Bom dia.}
 {151}{}{You are a thief, a murderer, and a villain. I'm afraid I must kill you.}

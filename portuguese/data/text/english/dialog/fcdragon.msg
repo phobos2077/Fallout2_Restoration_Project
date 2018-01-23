@@ -93,41 +93,44 @@
 {189}{}{Seu kung fu não é bom aqui.}
 {190}{}{Eu vou te vencer um dia, Dragão.}
 {191}{}{I will be waiting for you, Lo Pan.}
-{200}{}{The Dragon detects your advance and you slip by him.}
-{201}{}{A thief has no honor among the Shi. Leave now.}
-{202}{}{I warned you to leave. Now you shall pay.}
-{203}{}{It appears that you need no more training from me.}
-{204}{}{Lessons are more than just physical, grasshopper. Ponder this and return tomorrow.}
-{205}{}{I am Master Ziggy, your final test.}
-{206}{}{I am Zurak. Be ready.}
-{207}{}{I am Jimmy. Prepare yourself.}
-{208}{}{I am Herb. You will get no further.}
-{209}{}{I am Jobe. It is your time to be beaten.}
-{210}{}{I am Master Rube. You are finished.}
-{211}{}{FIGHT!}
-{212}{}{Training is still in your future.}
-{213}{}{And away we go!}
-{214}{}{You have beaten the Dragon in mortal combat. Although a fair fight, his loss will be felt by many.}
-{215}{}{You have already defeated my men, and you have passed my test. You are ready fight Lo Pan.}
-{216}{}{Your skills will only be advanced though their use. I can no longer help you in your study.}
-{217}{}{Let us begin. Follow my lead.}
-{218}{}{Training is done for the day.}
-{219}{}{The Dragon is very good, but you have learned.}
-{220}{}{You have already defeated my men. No others wish to challenge you.}
-{221}{}{Even though you did not know, you have helped our cause by removing Lo Pan. You have our thanks.}
-{222}{}{It was my pleasure. Bye.}
-{223}{}{You Welcome. Bye bye.}
-{224}{}{Your welcome. Can I ask a question?}
-{225}{}{Welcome. Me ask?}
-{226}{}{You WIN!}
-{227}{}{You LOSE!}
-{228}{}{Next Opponent!}
-{230}{}{First, you will need to prove you can do it. I will have you go up against five of my fighters - one at a time. If you beat them then you will receive your final test.}
-{231}{}{What is that?}
-{232}{}{Sounds like too much trouble. Bye.}
-{233}{}{You will be tested against my chosen apprentice. However, none of these battles will be to the death.}
-{234}{}{Ok, let's do this.}
-{235}{}{You can take care of Lo Pan yourself.}
-{236}{}{[The Dragon studies you] I regretfully cannot let one of your skill level hurt himself.}
-{237}{}{Ok, but can I ask something else?}
+{200}{}{O Dragão detecta seu avanço e você desliza por ele.}
+{201}{}{Um ladrão não tem honra entre os Shi. Saia agora.}
+{202}{}{Eu avisei a você para sair. Agora você deve pagar.}
+{203}{}{Parece que você não precisa de mais treinamento de mim.}
+{204}{}{As lições são mais do que apenas físicas, gafanhotos. Reflita sobre isso e volte aqui amanhã.}
+{205}{}{Eu sou Mestre Ziggy, o seu teste final.}
+{206}{}{Eu sou Zurak. Esteja pronto.}
+{207}{}{Eu sou o Jimmy. Prepare-se.}
+{208}{}{Eu sou Herb. Você não conseguirá mais nada.}
+{209}{}{Eu sou Jobe. É sua hora de ser batido.}
+{210}{}{Eu sou Mestre Rube. Você está acabado.}
+{211}{}{LUTA!}
+{212}{}{O treinamento ainda está em seu futuro.}
+{213}{}{E fora, vamos!}
+{214}{}{Você bateu o Dragão em combate mortal. Embora seja uma luta justa, sua perda será sentida por muitos.}
+{215}{}{Você já derrotou meus homens, e você passou meu teste. Você está pronto, enfrente Lo Pan.}
+{216}{}{Suas habilidades só serão avançadas por sua utilização. Não posso mais ajudá-lo no seu estudo.}
+{217}{}{Vamos começar. Siga minha liderança.}
+{218}{}{O treinamento é feito durante o dia.}
+{219}{}{O Dragão é muito bom, mas você aprendeu.}
+{220}{}{Você já derrotou a meus homens. Outros não desejam desafiar você.}
+{221}{}{Mesmo que você não soubesse, você ajudou nossa causa removendo Lo Pan. Você tem os nossos agradecimentos.}
+{222}{}{Foi um prazer. Tchau.
+}
+{223}{}{Bem vindo. Tchau tchau.
+}
+{224}{}{Não há de quê. Posso fazer uma pergunta?
+}
+{225}{}{Bem vinda. Eu pergunto?}
+{226}{}{Você GANHA!}
+{227}{}{Você PERDE!}
+{228}{}{Próximo Adversário!}
+{230}{}{Primeiro, você precisará provar que você pode fazê-lo. Eu vou ter que enviar cinco dos meus lutadores - um de cada vez. Se você os vencer, você receberá seu teste final.}
+{231}{}{O que é isso?}
+{232}{}{Parece problemas demais. Tchau.}
+{233}{}{Você vai ser testado contra o meu escolhido aprendiz. No entanto, nenhuma dessas batalhas vai ser para a morte.}
+{234}{}{Ok, vamos fazer isso.}
+{235}{}{Você pode cuidar de Lo Pan você mesmo.}
+{236}{}{[O Dragão o estuda] Eu, com pesar, não posso deixar que um de seu nível de habilidade se machuque.}
+{237}{}{Ok, mas posso pedir outra coisa?}
 {238}{}{Bem. Tchau.}

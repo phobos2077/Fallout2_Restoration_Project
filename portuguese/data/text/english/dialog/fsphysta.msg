@@ -27,7 +27,7 @@
 {126}{}{Activate station.}
 {127}{}{-leave-}
 {128}{}{Somehow, you randomly type in a sequence of letters and wind up gaining access! How lucky can you get?}
-{129}{}{-more-}
+{129}{}{-mais-}
 {130}{}{The computer does not respond to any input.}
 {131}{}{You can't seem to find anywhere to put that.}
 {132}{}{Copying plans..... Copy complete... Returning to... I/O error... GPF... Terminal Deactivating.}

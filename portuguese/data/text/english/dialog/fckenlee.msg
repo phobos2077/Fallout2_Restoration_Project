@@ -13,7 +13,7 @@
 {112}{}{The Hubologists have assigned me to kill the Emperor.}
 {113}{}{Nothing. Thanks. Bye.}
 {114}{}{I am Ken Lee, advisor to the Emperor. And you, my friend, appear to be simpleminded, so remember this: if you seek the Enclave, then you must take the Poseidon tanker to it. You'll need fuel for the tanker. You have my blessing.}
-{115}{}{Tanks!}
+{115}{}{Obrigado!}
 {116}{}{I am Ken Lee. I am the advisor to the Emperor. The Emperor advises me not to talk to you, and so I will not. Good day, fool.}
 {117}{}{Grrr!}
 {118}{}{Ahh, traveler, I cannot help you. Perhaps you can find the answer to your quest in another way. Good day.}
@@ -51,7 +51,7 @@
 {148}{}{Eu vou. Tchau.}
 {149}{}{We were the survivors from the wreck of a submarine. When we ran aground, we stripped the metal from the submarine to create the Palace. Some do not believe this.}
 {150}{}{Hm. It sounds almost as if you're berating someone.}
-{151}{}{I see. Thanks. Bye.}
+{151}{}{Eu vejo. Obrigado. Tchau.}
 {152}{}{Ah, yes! I have seen some of your movies. Yet surely this is not your real name?}
 {153}{}{Sure it is.}
 {154}{}{No. My real name is}
@@ -78,7 +78,7 @@
 {174}{}{Sure do. I have more questions.}
 {175}{}{Yep. Bye.}
 {176}{}{I am anxious to see the result of your attempt. Good day.}
-{177}{}{Good day.}
+{177}{}{Bom dia.}
 {178}{}{Berating someone? Any fool who had done their research can see that the very basis of Shi-town is the wreckage of this submarine. It seems fruitless to argue with those who would say otherwise.}
 {179}{}{That's very even-tempered of you.}
 {180}{}{It certainly is. And I deal with these people on a daily basis. Alas!}
@@ -94,7 +94,7 @@
 {190}{}{You will. I have more questions.}
 {191}{}{You will. Bye.}
 {192}{}{Then in that case, you can only be an enemy. Good day.}
-{193}{}{Good day.}
+{193}{}{Bom dia.}
 {194}{}{With the death of AHS-9, the Great and Terrible, the Hubologists pose no real threat to us and our researches. Well done. You have our gratitude. Would you like to speak to the Emperor?}
 {195}{}{Sim.}
 {196}{}{Not right now. I have other questions, though.}

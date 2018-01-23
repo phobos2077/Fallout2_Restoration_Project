@@ -94,7 +94,7 @@
 {193}{}{Ainda não.}
 {194}{}{Yes. He's gone.}
 {195}{}{His people shall embrace the Hub! All will be well! You have performed a great service!}
-{196}{}{Thanks! I have more questions.}
+{196}{}{Obrigado! Eu tenho mais perguntas.}
 {197}{}{I do it all for the Wheel. Farewell.}
 {198}{}{Actually, now I'm going to kill you too.}
 {199}{}{Now that the ship is filled with fuel, we await only the word of AHS-9 the Great and Terrible to achieve liftoff.}

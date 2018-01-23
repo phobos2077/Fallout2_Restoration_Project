@@ -57,7 +57,7 @@
 {155}{}{You're damn right you'll honor my Citizenship!}
 {156}{}{Yeah, right. I'm outta here.}
 {157}{}{Don't ever speak to me again. If you do, I will have your Citizenship revoked. Good day.}
-{158}{}{Good day.}
+{158}{}{Bom dia.}
 {159}{}{You try and revoke my Citizenship, you'll regret it.}
 {160}{}{Your powers are weak, old man. You are no match for me.}
 {161}{}{That's it! Citizen or not, you're out of here. Guards, show this degenerate to the gates!}

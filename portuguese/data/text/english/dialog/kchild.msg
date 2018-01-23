@@ -54,7 +54,7 @@
 {202}{}{How old are you?}
 {203}{}{Qual é o seu nome?}
 {204}{}{Do you like kids?}
-{205}{}{What is that?}
+{205}{}{O que é isso?}
 {206}{}{Do you wanna play a game?}
 {207}{}{Whatcha doing?}
 {208}{}{Have you seen any bugs?}

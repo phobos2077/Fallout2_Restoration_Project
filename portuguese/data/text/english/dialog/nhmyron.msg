@@ -560,7 +560,7 @@
 {1687}{}{I didn't learn at Vault City. I just pick this stuff up. It's pretty easy, really.}
 {1689}{}{I had some other questions…}
 {1695}{myn244}{What didja wanna know?}
-{1696}{}{Tell me about this place.}
+{1696}{}{Conte-me sobre este lugar.}
 {1697}{}{Tell me about the Mordino Family.}
 {1699}{}{I'm going to go now.}
 {1705}{myn245a}{The Stables? We test new kinds o' Jet here. What about it?}

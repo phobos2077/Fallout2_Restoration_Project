@@ -45,6 +45,6 @@
 {141}{}{Activate station.}
 {142}{}{-leave-}
 {143}{}{[Your ham-fisted approach across the keys triggers the correct password... your luck is incredible!]}
-{144}{}{-more-}
+{144}{}{-mais-}
 {145}{}{The computer does not respond to any input.}
 {146}{}{You can't seem to find anywhere to put that.}
