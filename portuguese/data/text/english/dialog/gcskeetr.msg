@@ -194,7 +194,7 @@
 {650}{}{[As you wait you can see Skeeter's back as he works on your weapon. You
  dont't know exactly what he's doing but that weird chuckle and all the pounding are
  making you nervous.]}
-{651}{}{Wait...}
+{651}{}{Aguarde...}
 {660}{}{[More pounding and cackling as you wait some more....]}
 {661}{}{[You whistle tunelessly and make shadow-puppets against the back wall of
  Skeeter's workshop....]}

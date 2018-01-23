@@ -1,14 +1,14 @@
-{100}{}{You see a dockworker. He looks up at you as you approach.}
-{101}{}{You see a melancholy dockworker. His sorrow-filled eyes glance up at you as you approach.}
-{200}{}{[Mumbles to himself.] Oh, what atrocities did poor Meng do in a past life to deserve such
- misfortune? Now the lao wai comes to me, and what good could possibly come of it? None, of course. None at all...}
-{201}{}{Why do you not leave poor Meng in peace? [Mumbles to himself.] Not that I've ever known peace. Or, if I did,
- then it's long forgotten, like a distant dream...}
-{202}{}{Uh, I seem to have caught you at a bad time. Bye.}
-{203}{}{What's your problem, Mumbles?}
-{204}{}{I noticed you seem to be upset about something. I was just wondering if I could help.}
-{210}{}{My problem? [He laughs bitterly.] Loa wai, you do not wish to know my problem. To hear of sorrows such as mine
- is to forget the sound of a child's laughter, and the warm embrace of a lover. No, trust me, you do not wish to glimpse my personal Hell.}
+{100}{}{Você vê um trabalhador portuário. Ele olha para você enquanto você se aproxima.}
+{101}{}{Você vê um trabalhador portuário melancólico. Seus olhos cheios de tristeza olham para você enquanto você se aproxima.}
+{200}{}{[Murmura para si mesmo.] Oh, que atrocidades o pobre Meng fez em uma vida passada para merecer tal
+  infortúnio? Agora, o lao wai vem para mim, e que de bom poderia acontecer? Nenhum, é claro. Nenhum mesmo...}
+{201}{}{Por que você não deixa o pobre Meng em paz? [Murmura para si mesmo.] Não que eu já conheci a paz. Ou, se eu fizesse,
+  então é esquecido, como um sonho distante ...}
+{202}{}{Uh, eu pareço ter pego você em um momento ruim. Tchau.}
+{203}{}{Qual é o seu problema, Murmurio?}
+{204}{}{Eu notei que você parece estar chateado com alguma coisa. Eu só estava me perguntando se eu poderia ajudar.}
+{210}{}{Meu problema? [Ele ri amargamente.] Loa wai, você não deseja saber o meu problema. Para ouvir sobre dores como as minhas
+  é esquecer o som do riso de uma criança e o caloroso abraço de um amante. Não, confie em mim, você não deseja vislumbrar o meu inferno pessoal.}
 {211}{}{I've witnessed a lot of terrible things in my time. I'm sure that whatever your problem is, I can handle it.}
 {212}{}{You think *your* problems are bad? I bet they don't *compare* to things I've been through.}
 {213}{}{I'm sorry things have been rough for you, but it might help to talk about it. If you're willing to talk, then I'm willing to listen.}

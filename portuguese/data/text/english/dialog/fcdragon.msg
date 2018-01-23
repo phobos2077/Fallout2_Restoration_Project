@@ -30,7 +30,7 @@
 {128}{}{That I must. Yet we are still evenly matched, I fear. Even in our followers, we are matched. It will take one person to throw the balance.}
 {129}{}{I am that person.}
 {130}{}{Eu vejo. Bem, eu tenho mais perguntas.}
-{131}{}{I see. Well, so long.}
+{131}{}{Entendo. Bem, até mais.}
 {132}{}{Are you? Perhaps we should test you. I will only have him bested in honest combat.}
 {133}{}{Hey, he's going to die one way or the other. What difference does it make?}
 {134}{}{Sounds fair to me. How does this test work?}

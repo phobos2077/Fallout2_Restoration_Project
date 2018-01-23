@@ -155,7 +155,7 @@
 {252}{}{All right, all right. You sound just like my cheapskate Dad. Give me about an hour, and it'll be good to go...}
 {253}{}{All right, give me about an hour, and it'll be good to go...}
 {254}{}{Tudo certo.}
-{255}{}{There you go. Anything else?}
+{255}{}{Não que você vá. Mais alguma coisa?}
 {256}{}{I had some other questions...}
 {257}{}{Can you upgrade anything else I have?}
 {258}{}{Nothing more, today. Thanks.}

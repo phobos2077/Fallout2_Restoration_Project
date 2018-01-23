@@ -34,7 +34,7 @@
  are out to kill us! At least, that's what Franc says.}
 {127}{}{You really like Franc, huh?}
 {128}{}{That's gotta be the dumbest thing I ever heard.}
-{129}{}{All right. Bye.}
+{129}{}{Tudo bem. Tchau.}
 {130}{}{That's right! We gotta… umm… think for ourselves! That's what Franc and Jacob always say!}
 {131}{}{Wow, you really suck up to those two. Why not try thinking for yourself instead of parroting
  what other people tell you?}

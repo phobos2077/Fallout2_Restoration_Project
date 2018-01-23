@@ -132,7 +132,7 @@
 {199}{}{I'm not sure what you mean, but I don't have time to find out right now. Goodbye.}
 {200}{}{Yeah, I mean the Excavator Chip that you sold to Marge LeBarge over at the Kokoweef Mine. That
  was a real mistake...not just for me, but for Redding.}
-{201}{}{What do you mean by that?}
+{201}{}{O que você quer dizer com isso?}
 {202}{}{Those are the breaks, pal. Let me ask you about something else going on in town.}
 {203}{}{Shit happens. See you around, maybe.}
 {204}{}{I can't believe that you let that bastard Hakeswill go free. My miners seem happy about it, but

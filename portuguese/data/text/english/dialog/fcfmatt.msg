@@ -1,7 +1,7 @@
-{100}{}{You see a man in metal armor.}
+{100}{}{Você vê um homem em armadura de metal.}
 {101}{}{You see Matthew.}
-{102}{}{You see a man wearing metal armor with a lightning bolt insignia on it.}
-{103}{}{Hello,}
+{102}{}{Você vê um homem vestindo uma armadura de metal com uma insígnia de raio.}
+{103}{}{Olá,}
 {104}{}{. O que eu posso fazer por você?}
 {105}{}{You answer questions?}
 {106}{}{Nothing. Me come back later.}
@@ -106,9 +106,9 @@
 {204}{}{Me be careful, thanks.}
 {205}{}{I'll be careful. Thanks.}
 {206}{}{Thanks again for all your help. You have full access to our facilities now.}
-{207}{}{That is a private office.}
-{208}{}{There is nothing for you in there.}
-{209}{}{This is private property, so move along.}
+{207}{}{Isso é um escritório privado.}
+{208}{}{Não há nada para você lá.}
+{209}{}{Esta é uma propriedade privada, então, avance.}
 {210}{}{How do you know who I am?}
 {211}{}{How know me?}
 {212}{}{We know many things.}

@@ -30,7 +30,7 @@
 {128}{}{Yes, I should. And I do. Unfortunately, the Dragon stands in the way. We're too evenly balanced in our fight against each other. I need just one trained person to help me.}
 {129}{}{I am that person.}
 {130}{}{Eu vejo. Bem, eu tenho mais perguntas.}
-{131}{}{I see. Well, so long.}
+{131}{}{Entendo. Bem, até mais.}
 {132}{}{Are you? Can you fight a man hand to hand, foot to face, without relying on armor and weapons?}
 {133}{}{I can, but why should I?}
 {134}{}{Sounds fair to me. How does this test work?}

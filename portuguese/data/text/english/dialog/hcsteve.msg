@@ -113,7 +113,7 @@
 {190}{}{Time to die, jerk.}
 {191}{}{We have a mine, a refinery, a tavern, a hotel -– which, by the way, has lost its owner, so we
  just let people stay there free -– a hospital, a general store, and a chemist. We grow our own food.}
-{192}{}{All right. I have more questions.}
+{192}{}{Tudo bem. Eu tenho mais perguntas.}
 {193}{}{Adeus.}
 {194}{}{Well, many of them have. Since mutants are sterile… or so I'm led to believe … they're dying
  out. The ones who are left seem to be getting senile, too. Not Marcus, though. He's still as sharp as

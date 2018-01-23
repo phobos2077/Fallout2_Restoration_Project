@@ -94,7 +94,7 @@
  (He disappears into the back.)}
 {396}{}{Tudo bem.}
 {400}{}{(You wait...)}
-{401}{}{Wait...}
+{401}{}{Aguarde...}
 {405}{}{(And wait some more...)}
 {406}{}{Dum de dum de dum...}
 {410}{}{(You are about to nod off, when suddenly Eldridge returns.) Sorry about the wait...here ya go. This might give you

@@ -80,7 +80,7 @@
 {176}{}{Nuh-uh!}
 {177}{}{Here go! [Give Blow-Up Doll to Typhon.]}
 {178}{}{All right. I had more questions.}
-{179}{}{All right. Bye.}
+{179}{}{Tudo bem. Tchau.}
 {180}{}{Esqueça.
 }
 {181}{}{Got it right here. [Give Blow-Up Doll to Typhon.]}
@@ -94,7 +94,7 @@
 {189}{}{Take! [give Rotgut to Typhon]}
 {190}{}{Got it. Here you go. [Give Rotgut to Typhon.]}
 {191}{}{Is that going to be it?}
-{192}{}{All right. Bye.}
+{192}{}{Tudo bem. Tchau.}
 {193}{}{Esqueça.
 }
 {194}{}{I'll probably want... oh, one more thing. I'll tell you what it is when you get me my damn rotgut, all right?}

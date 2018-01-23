@@ -23,7 +23,7 @@
  holds out his hand.]}
 {170}{}{Here. Here's $100.}
 {173}{}{Sorry, I don't have anything for you. Bye.}
-{174}{}{Do you know where I can find a GECK?}
+{174}{}{Você sabe onde eu posso encontrar um GECK?}
 {175}{}{You mentioned something about a garden earlier. Tell me more.}
 {178}{}{Eu vou.}
 {179}{}{Hey cheapskate! (hic) Come on, I know you gots money… (hic) Just some spare change then… (hic)

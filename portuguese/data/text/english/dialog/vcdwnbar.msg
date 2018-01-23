@@ -59,7 +59,7 @@
 {158}{}{I think I'll try something else then.}
 {159}{}{Never mind then. Say, I was looking for some information...}
 {160}{}{Forget it. I'll come back some other time.}
-{161}{}{There you go. Anything else?}
+{161}{}{Não que você vá. Mais alguma coisa?}
 {162}{}{Uh, do you have any real alcohol?}
 {163}{}{I could go for some synthetic beer.}
 {164}{}{Some synthetic vodka would really hit the spot.}

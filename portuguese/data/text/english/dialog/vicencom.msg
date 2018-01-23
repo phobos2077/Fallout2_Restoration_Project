@@ -108,11 +108,11 @@
 {199}{}{Take your Pip Boy and leave.}
 {200}{}{A small window opens on the terminal screen with a smiling Pip Boy next to it. As you watch, the
  Pip Boy starts whistling silently and tapping his feet. A red light is flashing beside the computer slot.}
-{201}{}{Wait...}
+{201}{}{Aguarde...}
 {202}{}{Cancel the procedure and log off terminal.}
 {203}{}{An unhealthy grinding noise comes from the Pip Boy slot. The Pip Boy continues to whistle
  silently and tap his feet.}
-{204}{}{Wait...}
+{204}{}{Aguarde...}
 {205}{}{Cancel the procedure and log off terminal.}
 {206}{}{The Pip Boy suddenly stops and frowns. An exclamation mark appears above his head, and he
  starts wagging his finger at you. }
@@ -126,7 +126,7 @@
 {213}{}{Cancel the procedure and log off terminal.}
 {214}{}{Initialization procedure beginning... Reformatting Pip Boy...}
 {215}{}{}
-{216}{}{Wait...}
+{216}{}{Aguarde...}
 {217}{}{Cancel the procedure and log off terminal.}
 {218}{}{Initialization procedure beginning...}
 {219}{}{                             Reformatting Pip Boy...}

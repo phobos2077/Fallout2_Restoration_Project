@@ -70,7 +70,7 @@
 {168}{}{I'd rather have cash, if you have it.}
 {169}{}{I don't want a reward.}
 {170}{}{These pills are called buffouts. They'll increase your strength, but your mind will suffer for a little bit. Don't take too many or you might get hooked. Good luck with the fist!}
-{171}{}{Thanks! So long!}
+{171}{}{Obrigado! Até mais!}
 {172}{}{Do you think you can help me with my fly problem? I'd be very grateful.}
 {173}{}{How grateful?}
 {174}{}{Sure thing.}

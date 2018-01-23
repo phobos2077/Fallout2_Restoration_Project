@@ -35,7 +35,7 @@
 {133}{}{Hello, again. Did you need help finding anything?}
 {134}{}{Certainly. What questions did you have?}
 {135}{}{O que é este lugar?}
-{136}{}{Do you know where I can find a GECK?}
+{136}{}{Você sabe onde eu posso encontrar um GECK?}
 {137}{}{Do you know where I could find the Vault?}
 {138}{}{Nothing today, thanks.}
 {139}{}{A GECK? That name sounds familiar. What does it do?}

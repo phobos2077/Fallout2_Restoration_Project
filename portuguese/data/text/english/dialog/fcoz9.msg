@@ -94,7 +94,7 @@
 {193}{}{Too late, meat. You have shown you cannot be trusted. Die!}
 {194}{}{[FEITO]}
 {195}{}{Child, there are some things you are not meant to know for now. [He smiles benignly.]}
-{196}{}{All right. I have more questions.}
+{196}{}{Tudo bem. Eu tenho mais perguntas.}
 {197}{}{Hm. Bye.}
 {198}{}{The ESS Quetzel will launch when the stars are right. }
 {199}{}{Right-o. I have more questions.}
