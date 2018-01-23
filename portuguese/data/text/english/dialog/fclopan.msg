@@ -13,8 +13,8 @@
 {111}{}{Get out of here, idiot. I don't have anything to say to you.}
 {112}{}{GRR!}
 {113}{}{I'm Lo Pan. I'm the best fighter in town, except for the Dragon. And one day, he's a dead man. When that happens, I'll teach others my style.}
-{114}{}{Teach me!}
-{115}{}{Tank yu.}
+{114}{}{Ensina-me!}
+{115}{}{Obrigado.}
 {116}{}{You want to learn? Do you have what it takes? Let's see.}
 {117}{}{[FEITO]}
 {118}{}{Teach you? I don't think so. You look far too self-righteous. Get out of here.}
@@ -22,61 +22,62 @@
 {120}{}{Oh, look, the idiot. I don't want to talk to you. Go away.}
 {121}{}{Duhhh...}
 {122}{}{Him? The Dragon. He's a weakling who fosters weakness.}
-{123}{}{The people are sheep. You should serve yourself.}
+{123}{}{As pessoas são ovelhas. Você deve servir a si mesmo.}
 {124}{}{What, you're evil?}
-{125}{}{I see. I have more questions.}
+{125}{}{Eu vejo. Eu tenho mais perguntas.}
 {126}{}{Evil? Hardly. Just smart. Maybe if you're so concerned about doing the right thing by people, you should see the Dragon. He likes simpering weaklings like you.}
 {127}{}{[FEITO]}
 {128}{}{Yes, I should. And I do. Unfortunately, the Dragon stands in the way. We're too evenly balanced in our fight against each other. I need just one trained person to help me.}
-{129}{}{I am that person.}
+{129}{}{Eu sou essa pessoa.}
 {130}{}{Eu vejo. Bem, eu tenho mais perguntas.}
 {131}{}{Entendo. Bem, até mais.}
 {132}{}{Are you? Can you fight a man hand to hand, foot to face, without relying on armor and weapons?}
 {133}{}{I can, but why should I?}
-{134}{}{Sounds fair to me. How does this test work?}
-{135}{}{Oh. Well, in that case, I gotta go.}
+{134}{}{Parece justo para mim. Como este teste funciona?}
+{135}{}{Oh. Bem, nesse caso, eu tenho que ir.}
 {136}{}{Because otherwise the peasants will curse me and it'll make it that much harder to cow them when I've beaten the Dragon.}
 {137}{}{Got it. Let's start the test.}
-{138}{}{Got it. I have more questions.}
-{139}{}{Riiight. See ya.}
+{138}{}{Tenho-o. Eu tenho mais perguntas.}
+{139}{}{Certo. Até mais.
+}
 {140}{}{You want to fight me to the death, or do you just want to see who's better?}
-{141}{}{To the finish. I can take you.}
-{142}{}{A test of skills. I don't want to kill you.}
-{143}{}{Neither. Forget it.}
+{141}{}{Até o final. Eu posso te vencer.}
+{142}{}{Um teste de habilidades. Eu não quero matar você.}
+{143}{}{Nenhuma. Esquecê-lo.}
 {144}{}{Great. I hope you have a grave ready. Did the Dragon send you?}
 {145}{}{Yes. I'm doing this for the Shi.}
 {146}{}{No. I'm doing this because I think you're scum.}
 {147}{}{A tough one, eh? You'll fight my men first, and then we'll see if you're worthy of fighting me.}
-{148}{}{[BEGIN]}
+{148}{}{[INICIAR]}
 {149}{}{I'm Lo Pan. I'm also the "sworn enemy" of the Dragon. Why he insists on having a sworn enemy is beyond me. I just fight as well as him, and I think he's weak-hearted and allows others to live under his shadow. We're enemies because we have the same fighting style, and whoever wins will be the one who carries the tradition.}
-{150}{}{I'm not too bad at hand-to-hand combat myself. Wanna give me a try?}
-{151}{}{That's interesting. Must be rewarding. I have more questions.}
+{150}{}{Eu não estou tão mal em combate corpo-a-corpo. Quer me tentar?}
+{151}{}{Isso é interessante. Deve ser gratificante. Eu tenho mais perguntas.}
 {152}{}{Obrigado. Tchau.}
 {153}{}{I may be a scumbag, but never will it be said I don't stand up for my people. I'm going to hurt you before you die.}
 {154}{}{[FEITO]}
 {155}{}{Then you're a fool and a dog doing the bidding of others. I will laugh when you die.}
-{156}{}{[Attack now, with armor and weapons.]}
-{157}{}{[Enter the ring, remove armor and weapons, and fight hand to hand.]}
+{156}{}{[Ataque agora, com armaduras e armas.]}
+{157}{}{[Entre no ring, remova armaduras e armas, e lute mão a mão.]}
 {158}{}{Good. At least you're your own master. Are you tough enough to fight without weapons or armor?}
-{159}{}{[Attack now, with armor and weapons.]}
-{160}{}{[Enter the ring, remove armor and weapons, and fight hand to hand.]}
+{159}{}{[Ataque agora, com armaduras e armas.]}
+{160}{}{[Entre no ring, remova armaduras e armas, e lute mão a mão.]}
 {161}{}{Baaa, sheep, baaa! Go back to your robed masters. I don't have anything to say to you.}
 {162}{}{[FEITO]}
 {163}{}{Didn't I tell you to talk to the Dragon about your moral qualms? He'll hold your hand. I won't. Now leave.}
 {164}{}{[FEITO]}
 {165}{}{You are, I must admit, even a better fighter than I am. You wanna try for the Dragon?}
-{166}{}{Yes. I'll do it right now.}
-{167}{}{It's not really my fight.}
+{166}{}{Sim. Eu vou fazê-lo agora.}
+{167}{}{Realmente não é a minha luta.}
 {168}{}{Sure, but I have some questions.}
 {169}{}{No, it's not. But the Dragon still beats me. If you have any backbone, you'll take him out. But then, I never expected pride from a lao wai.}
-{170}{}{Right. I have questions.}
+{170}{}{Direito. Eu tenho perguntas.}
 {171}{}{Yeah, whatever. Bye.}
 {172}{}{I just got back from killing a lao wai who tried to steal our secrets. The Dragon and I took him out. We worked well together, I must admit.}
-{173}{}{Great. I have questions.}
-{174}{}{Great. Bye.}
+{173}{}{Grande. Eu tenho perguntas.}
+{174}{}{Grande. Tchau.}
 {175}{}{The Dragon is dead. I don't believe it. At least now we won't have those pesky traditions dogging our every step. Thanks.}
-{176}{}{Great. I have questions.}
-{177}{}{Great. Bye.}
+{176}{}{Grande. Eu tenho perguntas.}
+{177}{}{Grande. Tchau.}
 {178}{}{Fine. I'll do it right now.}
 {200}{}{Lo Pan detects your advance and you slip by him.}
 {201}{}{Look, I don't appreciate anyone taking my things, so go steal someone else's. Leave now.}

@@ -1100,7 +1100,7 @@
 {32149}{}{A kick in the eye!}
 {32160}{}{Only a coward uses weapons.}
 {32161}{}{Are you afraid to face a real fighter?}
-{32162}{}{Your kung fu is no good here.}
+{32162}{}{Seu kung fu não é bom aqui.}
 {32163}{}{Render!}
 {32164}{}{You call that fighting?}
 {32165}{}{You move like a pregnant yak.}

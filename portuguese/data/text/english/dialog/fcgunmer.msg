@@ -35,19 +35,19 @@
 {132}{}{Obrigado. Tchau.}
 {133}{}{I do not know. They keep their secrets to themselves.}
 {134}{}{I see. What else is happening in town?}
-{135}{}{I see. I have more questions.}
+{135}{}{Eu vejo. Eu tenho mais perguntas.}
 {136}{}{Obrigado. Tchau.}
 {137}{}{We have two rivals of martial arts in town. They are Lo Pan, a lover of self, and the Dragon, who loves others. It is said that whoever wins will determine the future of martial arts.}
 {138}{}{I see. Anything else in town?}
-{139}{}{I see. I have more questions.}
+{139}{}{Eu vejo. Eu tenho mais perguntas.}
 {140}{}{Obrigado.}
 {141}{}{There is a gang of vagrants who have moved onto the Poseidon Oil tanker on the wharf. There were monsters living inside it, but the vagrants have sealed them into the lower hull. Though they are outsiders, we are grateful to the drifters for this task.}
 {142}{}{Any other news?}
-{143}{}{I see. I have more questions.}
+{143}{}{Eu vejo. Eu tenho mais perguntas.}
 {144}{}{Obrigado. Tchau.}
 {145}{}{The scientists report that someone has broken through their computer security and stolen our secrets.}
 {146}{}{Any other news?}
-{147}{}{I see. I have more questions.}
+{147}{}{Eu vejo. Eu tenho mais perguntas.}
 {148}{}{Obrigado. Tchau.}
 {149}{}{That is all I can think of at the moment. Good day.}
 {150}{}{Good day.}

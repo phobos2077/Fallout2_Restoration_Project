@@ -32,7 +32,7 @@
 {130}{}{You don't have enough money. Come on back when you do.}
 {131}{}{[FEITO]}
 {132}{}{All right. Give us a day and we'll have it ready for you.}
-{133}{}{Great. Bye.}
+{133}{}{Grande. Tchau.}
 {134}{}{Good luck getting it refined any place else. The process is dangerous – only a professional should do it. You want it or not?}
 {135}{}{Sim.}
 {136}{}{Não.}

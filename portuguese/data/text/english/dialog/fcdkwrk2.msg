@@ -9,7 +9,7 @@
 {204}{}{Eu notei que você parece estar chateado com alguma coisa. Eu só estava me perguntando se eu poderia ajudar.}
 {210}{}{Meu problema? [Ele ri amargamente.] Loa wai, você não deseja saber o meu problema. Para ouvir sobre dores como as minhas
   é esquecer o som do riso de uma criança e o caloroso abraço de um amante. Não, confie em mim, você não deseja vislumbrar o meu inferno pessoal.}
-{211}{}{I've witnessed a lot of terrible things in my time. I'm sure that whatever your problem is, I can handle it.}
+{211}{}{Eu testemunhei um monte de coisas terríveis no meu tempo. Tenho certeza de que qualquer que seja o seu problema, eu posso lidar com isso.}
 {212}{}{Você pensa que * seus * problemas são ruins? Eu aposto que eles não * comparam-se * com as coisas que passei.}
 {213}{}{Lamento que as coisas tenham sido difíceis para você, mas isso pode ajudar a falar sobre isso. Se você está disposto a falar, então estou disposto a ouvir.}
 {214}{}{Tudo bem, Sr. Melodrama, vou partir agora antes de me deixar deprimida. Tchau.}

@@ -81,7 +81,7 @@
 {188}{}{At last, we drifted ashore. We found ourselves near the ruins of San Francisco. Most of the city was devastated in the war. We had to recreate society based on the few survivors who had crept back to the city.}
 {189}{}{-more-}
 {190}{}{We rebuilt with what we could find, and we have scientists and technology the world must envy. We are rebuilding civilization, but not as that horrid Master creature did.}
-{191}{}{I see. I have more questions.}
+{191}{}{Eu vejo. Eu tenho mais perguntas.}
 {192}{}{Obrigado. Tchau.}
 {193}{}{Of course I can. And since you are aware of Doc Holliday... I will do it for no more than the sake of friendship. Tell your spleenless friend to come here and I will replace it for him.}
 {194}{}{Thanks! I have more questions.}

@@ -73,7 +73,7 @@
 {172}{}{Seja o que for.}
 {173}{}{Ahh, a letter from my field agent. Pity she calls herself "The Enlightened One" - it shows that she truly is not enlightened. You have my gratitude.}
 {174}{}{No problem. I have a question or two, though.}
-{175}{}{Great. Bye.}
+{175}{}{Grande. Tchau.}
 {176}{}{Yes, my child?}
 {177}{}{When does the spaceship take off?}
 {178}{}{Do you have any tasks for me?}

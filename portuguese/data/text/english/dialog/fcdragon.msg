@@ -13,84 +13,85 @@
 {111}{}{Tenho medo de não entender o seu idioma. :: ele se inclina :: Bom dia.}
 {112}{}{Tchau!
 }
-{113}{}{I am the Dragon, friend. I fight oppression and my enemy, Lo Pan, who desires to control this town. I fight, and I teach others to fight.}
-{114}{}{Teach me!}
-{115}{}{Tank yu.}
-{116}{}{Then we will begin.}
+{113}{}{Eu sou o Dragão, amigo. Eu luto contra a opressão e meu inimigo, Lo Pan, que deseja controlar esta cidade. Eu luto, e ensino outros a lutar.}
+{114}{}{Ensina-me!}
+{115}{}{Obrigado.}
+{116}{}{Então, vamos começar.}
 {117}{}{[FEITO]}
-{118}{}{::he looks at you closely:: I do not believe you would use the knowledge for good. Good day.}
+{118}{}{::ele olha para você de perto: eu não acredito que você gostaria de usar o conhecimento para o bem. Bom dia.}
 {119}{}{Grrr!}
-{120}{}{Please excuse my rudeness. I cannot speak with you right now.}
-{121}{}{Duhhh... okay!}
-{122}{}{That was Lo Pan. He is my sworn enemy and my rival. If he triumphs over me, then I fear for the good of the people.}
-{123}{}{The people are sheep. You should serve yourself.}
-{124}{}{Then you must triumph.}
-{125}{}{I see. I have more questions.}
-{126}{}{You truly believe this? Then perhaps you should deal with Lo Pan. Good day.}
+{120}{}{Por favor, desculpe a minha grosseria. Eu não posso falar com você agora.}
+{121}{}{Duhhh... tudo bem!}
+{122}{}{Isso foi Lo Pan. Ele é meu inimigo jurado e meu rival. Se ele triunfa sobre mim, então receio pelo bem das pessoas.}
+{123}{}{As pessoas são ovelhas. Você deve servir a si mesmo.}
+{124}{}{Então você deve triunfar.}
+{125}{}{Eu vejo. Eu tenho mais perguntas.}
+{126}{}{Você realmente acredita nisso? Então talvez você deva lidar com Lo Pan. Dia bom.}
 {127}{}{[FEITO]}
-{128}{}{That I must. Yet we are still evenly matched, I fear. Even in our followers, we are matched. It will take one person to throw the balance.}
-{129}{}{I am that person.}
+{128}{}{Que eu devo. No entanto, ainda estamos igualados, receio. Mesmo em nossos seguidores, somos correspondentes. Levará uma pessoa a jogar o saldo.}
+{129}{}{Eu sou essa pessoa.}
 {130}{}{Eu vejo. Bem, eu tenho mais perguntas.}
 {131}{}{Entendo. Bem, até mais.}
-{132}{}{Are you? Perhaps we should test you. I will only have him bested in honest combat.}
-{133}{}{Hey, he's going to die one way or the other. What difference does it make?}
-{134}{}{Sounds fair to me. How does this test work?}
-{135}{}{Oh. Well, in that case, I gotta go.}
-{136}{}{Those who fight without honor are no better than animals!}
-{137}{}{Okay, Pollyanna. Relax.}
-{138}{}{I call it smart fighting. "Honor" is a word invented to glorify killers.}
-{139}{}{Got it. I have more questions.}
-{140}{}{Riiight. See ya.}
-{141}{}{First we determine if you wish this to be a fight to the finish, or a test of your skills against mine.}
-{142}{}{To the finish. I can take you.}
-{143}{}{A test of skills. I don't want to kill you.}
-{144}{}{Neither. Forget it.}
-{145}{}{You are not the right one for this duty. Good day.}
+{132}{}{Você é? Talvez devêssemos testá-lo. Só o farei superar no combate honesto.}
+{133}{}{Ei, ele vai morrer de um jeito ou de outro. Que diferença faz?}
+{134}{}{Parece justo para mim. Como este teste funciona?}
+{135}{}{Oh. Bem, nesse caso, eu tenho que ir.}
+{136}{}{Aqueles que lutam sem honra não são melhores do que os animais!}
+{137}{}{Ok, Pollyanna. Relaxa.}
+{138}{}{Eu chamo isso de luta inteligente. "Honra" é uma palavra inventada para glorificar assassinos.}
+{139}{}{Tenho-o. Eu tenho mais perguntas.}
+{140}{}{Certo. Até mais.
+}
+{141}{}{Primeiro, determinamos se você deseja que esta seja uma luta até o final, ou um teste de suas habilidades contra as minhas.}
+{142}{}{Até o final. Eu posso te vencer.}
+{143}{}{Um teste de habilidades. Eu não quero matar você.}
+{144}{}{Nenhuma. Esquecê-lo.}
+{145}{}{Você não é o certo para esse dever. Bom dia.}
 {146}{}{[FEITO]}
-{147}{}{You think so? War and fighting seem unavoidable. Better we should fight with rules and codes than giving in to sheer destruction. }
-{148}{}{I win any way I can.}
-{149}{}{If we have to fight, then we should fight to survive. If someone is trying to kill me, I will defend myself by whatever means possible.}
-{150}{}{Hm. You have a point. Well, I have more questions.}
-{151}{}{Yeah, okay. Bye.}
-{152}{}{Very well. Let us enter the ring and fight until one of us can no longer move.}
-{153}{}{[Attack now, with armor and weapons.]}
-{154}{}{[Enter the ring, remove armor and weapons, and fight hand to hand.]}
-{155}{}{Ah, a warrior. I shall pit you against my men to see how well you fare. Let us begin.}
-{156}{}{[BEGIN]}
-{157}{}{Yet, in a formalized fighting environment, you cannot dispute that you have entered this arena of your own choosing. Once you have so entered, should you not abide by its rules?}
-{158}{}{Yes, probably. But in a live or die situation, you must do anything to survive.}
+{147}{}{Você acha? Guerra e luta parecem inevitáveis. Melhor devemos lutar com regras e códigos do que ceder a pura destruição.}
+{148}{}{Eu ganho de qualquer maneira que eu puder.}
+{149}{}{Se temos de lutar, devemos lutar para sobreviver. Se alguém está tentando me matar, vou me defender por todos os meios possíveis.}
+{150}{}{Hm. Você tem um ponto. Bem, eu tenho mais perguntas.}
+{151}{}{Sim, ok. Tchau.}
+{152}{}{Muito bem. Deixe-nos entrar no ringue e lutar até que um de nós não possa mais se mover.}
+{153}{}{[Ataque agora, com armaduras e armas.]}
+{154}{}{[Entre no ring, remova armaduras e armas, e lute mão a mão.]}
+{155}{}{Ah, um guerreiro. Vou jogar você contra os meus homens para ver o quão bem você paga. Comecemos.}
+{156}{}{[INICIAR]}
+{157}{}{No entanto, em um ambiente de luta formalizado, você não pode contestar que você entrou nesta arena de sua própria escolha. Uma vez que você tenha entrado, você não deve cumprir suas regras?}
+{158}{}{Sim provavelmente. Mas em uma situação viva ou morta, você deve fazer qualquer coisa para sobreviver.}
 {159}{}{Não, eu não penso assim.}
-{160}{}{You have a point. Well then. If you wish to fight Lo Pan, will you do it unarmed and unarmored? If we are to ask for your aid in this, we request that you abide by our rules.}
-{161}{}{Yeah, I'll do it your way.}
-{162}{}{Nope. Forget it.}
-{163}{}{Excellent. Then let us see if your skills are strong enough to fight Lo Pan.}
+{160}{}{Você tem um ponto. Bem então. Se você deseja lutar com Lo Pan, você o fará desarmado e não armado? Se quisermos pedir seu auxílio nisso, pedimos que você respeite nossas regras.}
+{161}{}{Sim, eu vou fazer do seu jeito.}
+{162}{}{Não. Esqueça.}
+{163}{}{Excelente. Então, deixe-nos ver se suas habilidades são fortes o suficiente para lutar contra Lo Pan.}
 {164}{}{Vamos lá.}
-{165}{}{Not right now. I'll come back for it later.}
-{166}{}{I am the Dragon, protector of the people and sworn enemy of Lo Pan. He and I are the last masters of our fighting style.}
-{167}{}{I'm not too bad at hand-to-hand combat myself. Wanna give me a try?}
-{168}{}{That's interesting. Must be rewarding. I have more questions.}
+{165}{}{Não agora. Eu vou voltar para ele mais tarde.}
+{166}{}{Eu sou o Dragão e protetor do povo e inimigo jurado de Lo Pan. Ele e eu somos os últimos mestres de nosso estilo de luta.}
+{167}{}{Eu não estou tão mal em combate corpo-a-corpo. Quer me tentar?}
+{168}{}{Isso é interessante. Deve ser gratificante. Eu tenho mais perguntas.}
 {169}{}{Obrigado. Tchau.}
-{170}{}{You have attempted to dishonor my people, so now I must kill you. I apologize if I hurt you as you die.}
+{170}{}{Você tentou desonrar meu povo, então agora devo matá-lo. Peço desculpas se eu machucar você quando você morre.}
 {171}{}{[FEITO]}
-{172}{}{Do not speak to me, sheep of the Hub. I have no use for your kind.}
+{172}{}{Não me fale, ovelhas do Hub. Eu não tenho nenhum uso para o seu tipo.}
 {173}{}{[FEITO]}
-{174}{}{You have the honor of a pig and the morals of a lungfish. I do not wish to associate with you.}
+{174}{}{Você tem a honra de um porco e a moral de um peixe pulmonar. Eu não quero me associar com você.}
 {175}{}{[FEITO]}
-{176}{}{You are truly amazing in your fighting skills. Will you fight Lo Pan?}
-{177}{}{Yes. I'll do it right now.}
-{178}{}{It's not really my fight.}
-{179}{}{Sure. But I have some questions.}
-{180}{}{I understand. Should you change your mind, you know where to find him. Simply tell him you come in the name of the Dragon.}
-{181}{}{Right. I have questions.}
-{182}{}{Err... okay. Bye.}
-{183}{}{I have recently returned from a mission of honor. We were strong that night.}
-{184}{}{Great. I have questions.}
-{185}{}{Great. Bye.}
-{186}{}{Lo Pan is dead! I have you to thank, I am sure. Now I am confident that my school will lead our fighting style into the future.}
-{187}{}{Great. I have questions.}
-{188}{}{Great. Bye.}
-{189}{}{Your kung fu is no good here.}
-{190}{}{I'll beat you someday, Dragon.}
+{176}{}{Você é realmente incrível em suas habilidades de luta. Você vai lutar contra Lo Pan?}
+{177}{}{Sim. Eu vou fazê-lo agora.}
+{178}{}{Realmente não é a minha luta.}
+{179}{}{Com certeza. Mas eu tenho algumas perguntas.}
+{180}{}{Compreendo. Se você mudar de ideia, você sabe onde encontrá-lo. Basta dizer-lhe que você vem em nome do Dragão.}
+{181}{}{Direito. Eu tenho perguntas.}
+{182}{}{Err... ok. Tchau.}
+{183}{}{Voltei recentemente de uma missão de honra. Nós fomos fortes naquela noite.}
+{184}{}{Grande. Eu tenho perguntas.}
+{185}{}{Grande. Tchau.}
+{186}{}{Lo Pan está morto! Eu tenho que agradecer, tenho certeza. Agora estou confiante de que minha escola liderará nosso estilo de luta no futuro.}
+{187}{}{Grande. Eu tenho perguntas.}
+{188}{}{Grande. Tchau.}
+{189}{}{Seu kung fu não é bom aqui.}
+{190}{}{Eu vou te vencer um dia, Dragão.}
 {191}{}{I will be waiting for you, Lo Pan.}
 {200}{}{The Dragon detects your advance and you slip by him.}
 {201}{}{A thief has no honor among the Shi. Leave now.}

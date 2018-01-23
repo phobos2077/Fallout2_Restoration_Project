@@ -40,7 +40,7 @@
  sheriff, uranium mine, hospital, store… you can get just about anything here. You want anything else?}
 {160}{}{Sim.}
 {161}{}{Não.}
-{162}{}{Great. Bye.}
+{162}{}{Grande. Tchau.}
 {163}{}{Adeus.}
 {164}{}{He's been ruling here ever since the Master was destroyed. He puts down anyone who disagrees
  with him… or they just "disappear." The place looks civilized on the top of things, but the truth is
@@ -72,11 +72,11 @@
 {184}{}{I have a little job for you. Our friends, Manson and Franc, are being held in jail. I want you
  to get them out. Do it quietly, if possible. Don't want the whole town on your head.}
 {185}{}{What if I kill someone?}
-{186}{}{Got it. I have more questions.}
+{186}{}{Tenho-o. Eu tenho mais perguntas.}
 {187}{}{Forget it. I'm out.}
 {188}{}{Got it. See ya.}
 {189}{}{No problem. They're all mutants anyway. But do it quietly, for god's sake.}
-{190}{}{Got it. I have more questions.}
+{190}{}{Tenho-o. Eu tenho mais perguntas.}
 {191}{}{Got it. See ya.}
 {192}{}{More questions? }
 {193}{}{I have some ore I want refined, and I don't want to pay the refinery's prices.}
