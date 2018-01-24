@@ -5,7 +5,7 @@
 {104}{}{Você não deveria estar aqui, está?}
 {105}{}{Veja! Carne macia!}
 {106}{}{Ei! Quem deixou a carne dentro?}
-{107}{}{You shouldn't be wandering without an escort.}
+{107}{}{Você não deveria estar vagando sem escolta.}
 {108}{}{Ahh! You're messing with my neurodynes!}
 {109}{}{Vá embora, infiél!}
 {110}{}{Não fale comigo - Sou uma pessoa ocupada.}
