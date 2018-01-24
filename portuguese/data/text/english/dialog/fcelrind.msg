@@ -6,7 +6,7 @@
 {105}{}{Veja! Carne macia!}
 {106}{}{Ei! Quem deixou a carne dentro?}
 {107}{}{Você não deveria estar vagando sem escolta.}
-{108}{}{Ahh! You're messing with my neurodynes!}
+{108}{}{Ahh! Você está mexendo com minhas neurodynes!}
 {109}{}{Vá embora, infiél!}
 {110}{}{Não fale comigo - Sou uma pessoa ocupada.}
 {111}{}{Hey! You're pot-holing my neurodynes!}
