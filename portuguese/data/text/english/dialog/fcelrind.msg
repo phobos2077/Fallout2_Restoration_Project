@@ -4,11 +4,11 @@
 {103}{}{Quem é você? O que você está fazendo aqui?}
 {104}{}{Você não deveria estar aqui, está?}
 {105}{}{Veja! Carne macia!}
-{106}{}{Hey! Who let the rim meat in?}
+{106}{}{Ei! Quem deixou a carne dentro?}
 {107}{}{You shouldn't be wandering without an escort.}
 {108}{}{Ahh! You're messing with my neurodynes!}
-{109}{}{Go away, infidel!}
-{110}{}{Don't talk to me - I'm a busy person.}
+{109}{}{Vá embora, infiél!}
+{110}{}{Não fale comigo - Sou uma pessoa ocupada.}
 {111}{}{Hey! You're pot-holing my neurodynes!}
 {112}{}{Maybe I'd like you better if you got aligned.}
 {113}{}{The Star Father will love you if you let him.}
