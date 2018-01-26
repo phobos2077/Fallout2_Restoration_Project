@@ -1,0 +1,1 @@
+{100}{}{You successfully entered Liz's hidden weapons cache.}

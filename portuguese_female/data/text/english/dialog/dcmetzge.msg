@@ -1,0 +1,310 @@
+{100}{}{Você vê um homem de aparência médiana.}
+{101}{}{Você vê Metzger, o mestre escravista.}
+{150}{}{Metzger é o chefe da Slaver's Guild.}
+{200}{}{Você vai pagar por isso.}
+{210}{}{Que merda você quer? Esta é a Guilda dos Escravistas, não é casa 
+segura para você, idiota cabeça de jato.}
+{211}{}{Que diabos você quer, sua cadela feia? Esta é a Slaver's
+  Guild, não é uma merda de puteiro.}
+{212}{}{Que diabos você quer, puta? Esta é a Guilda dos Escravistas, não alguma
+  porra de bordel.}
+{213}{}{Você está começando a me irritar. Que diabos você quer agora?}
+{214}{}{Agora, o que, porra?}
+{215}{}{O que?}
+{216}{}{Oh, é melhor fazer isso rápido.}
+{217}{}{Você está aqui para trabalhar por uma maldita mudança?}
+{218}{}{Estou começando a me acostumar com sua cara feia. Então ... você está aqui por uma razão ou o quê?}
+{219}{}{Eu pareço seu maldito pai ou algo assim? Com certeza, espero que não. Agora cuspa
+  para fora, o que você quer?}
+{220}{}{Olhem quem está aqui. Você acha que é especial ou algo assim? Fale ou trate 
+de cair fora.}
+{221}{}{O que você quer agora, escravista?}
+{222}{}{Você só vai ficar aí parado ou vai dizer algo?}
+{223}{}{Fala. Eu não tenho o dia todo para essa porcaria.}
+{230}{}{Ah, e 'quem' seria esse? Espero que você não planeje ver essa pessoa novamente ...}
+{231}{}{Você não tem ninguém em quem estou interessado. Só estou interessado em pessoas -
+  normais, isso é.}
+{232}{}{Você está louco, o que você acha que sou, uma loja ou algo assim? Se você pegar
+  um escravo que você gostaria de vender, avise-me. Se você deseja vender outra coisa, vá até uma merda de loja.}
+{233}{}{Miria}
+{234}{}{Davin}
+{235}{}{Vic}
+{236}{}{Myron}
+{237}{}{Cassidy}
+{238}{}{Sulik}
+{239}{}{Posso fazer outra pergunta?}
+{240}{}{Eu mudei de ideia. Tchau.
+}
+{241}{}{Dex}
+{242}{}{Gato Jules}
+{243}{}{Kitsune}
+{245}{}{Vá em frente.}
+{246}{}{Sim?}
+{247}{}{Eu não sou seu maldito servo, então apresse-se.}
+{248}{}{O que é? Eu não tenho o dia todo.}
+{249}{}{Atirar.}
+{250}{}{Talvez.}
+{255}{}{Eu tenho alguém que eu gostaria de vender.}
+{256}{}{Sobre Vic...}
+{257}{}{Procuro um comerciante.}
+{258}{}{Lara queria que eu pedisse permissão para lutar contra Tyler.}
+{259}{}{Posso me juntar à guild?}
+{260}{}{O que você pode me dizer sobre sua guilda?}
+{261}{}{Eu gostaria de seguir uma corrida de escravos.}
+{262}{}{Deixa pra lá. Tchau.
+}
+{263}{}{ quer mal.}
+{264}{}{Nd.}
+{265}{}{Eu estava olhando os escravos que você tem lá, mas você vê, eu tenho muito, uh ... *gosto seletivo* e nenhum 
+  deles é bem o que eu estou procurando. Esses são todos os escravos que você tem para oferecer?}
+{270}{}{Você acha que pode cortá-lo? Eu não aceito ninguém ... Que diabos. E se
+  você foda-se, eu vou te vender. Você terá que se tatuar na testa
+  identificando você como um escravista para todos. É permanente, então não há segundas intenções.}
+{271}{}{Então, a nossa pequena e delicada flor de menina retorna... Você mudou de ideia então?
+  Indo começar essa tatuagem depois de tudo?}
+{272}{}{Sim, você pode fazer ... Você não precisa muito no caminho dos cérebros para correr.
+  Se você foder, eu só vou te vender. Se você acha que pode cortá-los, você terá
+  que se tatuar em sua testa identificando você a todos como escravista.}
+{273}{}{Vamos fazer isso.}
+{274}{}{Eu tenho que pensar sobre isso. Eu vou voltar para você.}
+{275}{}{Talvez não. Tchau.}
+{276}{}{Uya! [nod]}
+{277}{}{Não não não não não!}
+{285}{}{O que você pensava? Esta é uma aliança de escravistas. Eu compro e vendo escravos.}
+{286}{}{De onde você tira os escravos?}
+{287}{}{Eu gostaria de participar.}
+{288}{}{Outra pergunta, por favor.}
+{289}{}{Ah, tudo bem. Tchau.}
+{300}{}{Oh, aqui e ali. Principalmente, nós coletamos primitivos e nômades, quando corremos por entre eles.}
+{301}{}{Parece divertido. Como posso entrar nisso?}
+{302}{}{Eu tenho outra pergunta.}
+{303}{}{Ah, tudo bem. Tchau.}
+{310}{}{O que você sabe, você nem sequer chorou. Estou tão orgulhoso de você ... na verdade, essa tatuagem
+  parece muito boa em você. Apenas dê um grito quando estiver pronto para o sua primeira corrida de escravos.}
+{311}{}{Obrigado. Tchau.}
+{312}{}{Eu estou pronto agora.}
+{313}{}{Eu matar AGORA!}
+{314}{}{Okey-Dokey.}
+{320}{}{Dois dos meus homens vão te aproximar dos seus objetivos. Seu salário será baseado
+  no número dos escravos que você retorna, mas observe as costas do outro. Se alguém
+  é morto, seu salário será severamente cortado.}
+{321}{}{Droga, estão todos cultivados. Tenho que esperar que alguns primitivos voltem para a
+  área. Talvez devêssemos começar a criá-los.}
+{322}{}{Desculpe, você não está trabalhando. Muitas perdas e isso é um negócio. Eu preciso
+  para ganhar dinheiro, não perder.}
+{323}{}{Tudo bem. Eles estão prontos.}
+{324}{}{Bom, você pode sair agora.}
+{325}{}{Mexam-se.}
+{326}{}{Boa. Veja-me quando estiver pronto.}
+{327}{}{Tudo bem.}
+{328}{}{Uh.}
+{340}{}{Basta matar todos os hostis. Se eles atacarem, mata-os. Eu não
+  quero lidar com eles mais, muito grande de um maldito problema. Depois de terminar,
+  Os outros escravistas irão cercar e marcar o resto.}
+{341}{}{Tudo bem.}
+{342}{}{Oh.}
+{350}{}{Uma vez que eles começam a marcar os escravos, você pode voltar se quiser. Leva
+  treinamento especial, então não tente subjugar os outros você mesmo. Você pode fazer o que for
+  apenas contanto que você não danifique a mercadoria.}
+{351}{}{Tudo certo.}
+{352}{}{Uh huh.}
+{360}{}{Ah, sim. Ela é muito agradável. Eu vou dar-lhe $}
+{361}{}{Ele está bem. Eu provavelmente poderia tirá-lo de suas mãos, oh, digamos $}
+{362}{}{Você é idiota. O que diabos faz você pensar que eu quero aquele idiota de volta? Levou
+  Ele para sempre para consertar um maldito rádio! Um rádio! Você está preso com ele. Eu não quero ele
+  quebrando qualquer coisa por aqui.}
+{363}{}{Eu não sei, este é muito magro ... mas inteligente? Isso pode valer alguma coisa. Vou dar-lhe $}
+{364}{}{Este parece ser realmente capaz de lutar. Hmm ... $}
+{365}{}{Outro primitivo. Este é um show assustador. Ainda assim, ele parece forte e esse olhar pode extrair algo extra. $}
+{366}{}{Que tal outra pessoa?}
+{367}{}{Bem, deixe-me fazer outra pergunta em seguida.}
+{368}{}{Tudo bem.}
+{369}{}{Bem.
+}
+{370}{}{Tudo bem.}
+{371}{}{Não vale a pena.}
+{372}{}{Não.}
+{380}{}{Tudo bem, rapazes, ponham-no as canetas.}
+{381}{}{Tudo bem, rapazes, ponham-na as canetas.}
+{382}{}{Certo, chefe.}
+{390}{}{Bem, não desperdice meu tempo. Se você conseguir alguém que você está
+  Olhando para se livrar, venha me ver.}
+{391}{}{Eu tenho outra pergunta para você.}
+{392}{}{Tudo bem. Tchau.}
+{400}{}{O que diabos mordeu seu traseiro de repente? Eu dei a essa cadela uma chance
+  um tempo atrás. Não achava que ela tinha as bolas para tentar isso.}
+{401}{}{Do que você está falando?}
+{402}{}{Então, está tudo bem?}
+{410}{}{Oh, não brinque comigo. Eu sei exatamente o que ela planeja fazer. Eu
+  dei-lhe uma chance por um tempo atrás e ela não conseguiu cortá-lo, mas se ela
+  Acha que está a favor disso ...}
+{411}{}{Então, está tudo bem?}
+{420}{}{Bem, eu disse que a oferta permaneceria aberta. Se ela finalmente pensa que pode chutar sua bunda e
+  é melhor capaz de proteger minhas merdas ...}
+{421}{}{Bem?}
+{422}{}{Então, isso é um sim?}
+{430}{}{Olha, eu não dou a minima quem deles a protege. Apenas enquanto nenhum dos meus bens for
+  danificado, eu não ligo.}
+{431}{}{Outra pergunta, por favor.}
+{432}{}{Ok, obrigado.}
+{440}{}{Por que você está me pedindo? Parece um tipo de merda ... oh,
+  esperar. Você provavelmente está procurando Vic?}
+{441}{}{Ele é o único que "se especializa" na tecnologia do vault, ou então ele diz. Ele é minha
+  propriedade agora. Ele não vai a lugar nenhum.}
+{442}{}{O que tem ele?}
+{443}{}{Sim, é ele.}
+{444}{}{Posso vê-lo?}
+{445}{}{Por que você está mantendo ele aqui?}
+{446}{}{Ok, obrigado. Tchau.}
+{455}{}{Que merda - ele me vendeu um rádio que ele disse que seria capaz de pegar
+  algumas transmissões. Não foi. Eu peguei sua bunda tentando fugir da cidade antes
+  Eu descobri. Grande erro. Ninguém fode comigo. Ele tem sorte de estar vivo.}
+{456}{}{Como eu disse. Ele precisa corrigir algo primeiro. Depois disso, veremos.}
+{457}{}{Bem, ele finalmente conseguiu esse maldito rádio para trabalhar, mas isso não significa que eu vou deixar
+  Ele ir tão fácil.}
+{458}{}{Ele ainda tentou fugir de mim.}
+{459}{}{Posso vê-lo?}
+{460}{}{De que tipo de transmissões você está falando?}
+{461}{}{Ok, obrigado.}
+{462}{}{Talvez algum dinheiro possa ajudar a esclarecer as coisas?}
+{463}{}{De que tipo de transmissões você estava falando antes?}
+{475}{}{Pelo que? Ah, merda, não importa. Apenas não o impeça de corrigir essa droga de
+  rádio - e ele conserte-o em breve. Estou cansado de alimentar seu traseiro preguiçoso.}
+{476}{}{Por que você está mantendo ele aqui?}
+{477}{}{Obrigado.}
+{485}{}{O Enclave e o Novo ... Ei, por que diabos você se importa? É um negócio. Preciso ter certeza de que ninguém está tentando me foder. Isso é tudo o que você precisa saber.}
+{486}{}{Não é da tua conta.
+}
+{487}{}{Tudo bem.}
+{495}{}{Com certeza, mas vai custar-lhe $}
+{496}{}{$}
+{497}{}{Não podemos trabalhar em algo?}
+{498}{}{Tudo bem. Aqui.}
+{499}{}{Posso pedir-lhe mais algumas perguntas primeiro.}
+{500}{}{Desculpe, não posso pagar isso ainda.}
+{510}{}{Ok, ele é seu, mas tire o traseiro daqui antes de mudar de ideia
+  e colocar uma bala naquela cabeça fodida.}
+{511}{}{Posso pedir-lhe mais algumas perguntas primeiro?}
+{512}{}{Obrigado.}
+{520}{}{Oh, sim. Podemos trabalhar fora tudo agradável e suave... eu vou te dar
+metade se vale a pena o meu tempo...}
+{521}{}{Você deveria parar de me provocar, menininha. Não tenho muita paciência.}
+{522}{}{Só se for bom para mim.}
+{523}{}{Claro, porque não.}
+{524}{}{Talvez mais tarde.}
+{530}{}{Oh, é melhor você acreditar.}
+{531}{}{Boa.}
+{540}{}{Eis $}
+{541}{}{qui está o seu $}
+{542}{}{Bom trabalho lá fora. Eis $}
+{543}{}{Aqui está o seu dinheiro, }
+{544}{}{$}
+{545}{}{Bem, é $}
+{546}{}{Não foi tão difícil, agora foi? Na próxima vez, sem erros. Aqui está $}
+{547}{}{$}
+{548}{}{Venha! $}
+{549}{}{Lembre-se, vigie as costas do outro e apenas mate os escravos hostis. Aqui está $}
+{550}{}{Apenas $}
+{551}{}{Você quer ganhar dinheiro ou não? Você está me irritando. Como fodido
+  difícil pode ser? Agora pegue seu $}
+{552}{}{Qual foi o seu problema? Você não ganha merda desta vez. Estamos
+  Nisso, para ganhar dinheiro, não foder tudo.}
+{553}{}{Eu vou fazer melhor da próxima vez.}
+{554}{}{Obrigado por nada.}
+{555}{}{Obrigado.}
+{556}{}{Ug.}
+{570}{}{Porra cadela, foi a sua primeira vez? Não havia como não ser a sua primeira vez.}
+{571}{}{Caramba menina, foi que sua primeira vez?}
+{572}{}{Muito bom, eu acho.}
+{573}{}{Muito bom, talvez possamos fazê-lo de novo em algum momento.}
+{574}{}{Droga! Isso foi ... dinheiro muito bem gasto.}
+{575}{}{Porra! Você foi o melhor pedaço de bunda que eu já tive, e eu tinha um monte.}
+{600}{}{SEU ESTÚPIDO FODIDO! Como você se atreve a abandonar seus companheiros escravistas lá fora? [Cospe em seu rosto] MATEM-NO!}
+{601}{}{Mas Eu...}
+{602}{}{Tudo bem, vamos fazer isso.}
+{620}{}{Bem, é bom ver que você poderia recuperar.}
+{621}{}{Sim, foi uma corrida difícil.}
+{622}{}{Obrigado. As coisas ficaram um pouco difíceis lá fora.}
+{623}{}{Agra Moo ne!}
+{630}{}{Ah, você quer dinheiro? Você quer ser pago?}
+{631}{}{Yah.}
+{632}{}{Ugh.}
+{640}{}{É claro que eu adoraria ajudá-lo, mas... há esse pequeno problema que eu tenho... algo sobre o ataque a um dos meus homens.}
+{641}{}{Desculpe! Eu não o quero - quero dizer... Ug?}
+{642}{}{Uh, oh.}
+{650}{}{Oh, não se preocupe. Tenho certeza de que posso encontrá-lo no meu coração para pagar - quero dizer, pagar você. Homens, é dia de pagamento.}
+{651}{}{Oh, não se preocupe. Tenho certeza de que posso encontrá-lo no meu coração para pagar - quero dizer, pagar você. Homens,
+  ponham esta cadela para baixo.}
+{652}{}{Oops.}
+{653}{}{Garaka!}
+{654}{}{Uh... Brigado?}
+{670}{}{Tenho certeza. Esta linha de trabalho não deve ser tomada de forma leve. É preciso confiança e lealdade. Nós observamos as costas uns dos outros. Boa política, não acha?}
+{671}{}{Eu acho.}
+{672}{}{Uh, o que está acontecendo?}
+{673}{}{Definitivamente.}
+{680}{}{Você acha? Eu não pensei que você era tão inteligente. Você realmente é uma merda estúpida.
+  [Metzger olha para você, então olha para seus guardas e movimentos em sua direção.]}
+{681}{}{Ações?}
+{682}{}{O que?}
+{690}{}{Ah, então você não é tão burro quanto você parece. Bem, isso é uma vergonha. Você vê, estou tendo um pouco de dilema. Alguém teve a coragem de atacar meus homens.}
+{691}{}{Realmente?}
+{692}{}{Foi um acidente!}
+{700}{}{Mesmo? Estou tão feliz que você concorda. Agora, o que você faria se alguém traísse essa confiança?}
+{701}{}{Uh, dar-lhes um aviso?}
+{702}{}{Aqui. Deixe-me mostrar a você. [ataque]}
+{703}{}{Fazê-los pagar.}
+{710}{}{Você acha? Honestamente? Eu não sei. Eu estava pensando em algo um pouco mais ... permanente. [Com um sorriso malvado, Metzger olha para seus guardas e acena com a cabeça.]}
+{711}{}{O que?}
+{712}{}{Oh rapaz...}
+{720}{}{Eu estou contente que nós estamos de acordo. [Metzger olha para seus guardas.] Homens, é dia de pagamento.}
+{721}{}{Uh...}
+{730}{}{Sim. É uma vergonha realmente. Essa pessoa simplesmente não parece conseguir, mas
+  Eu acho que ele esta prestes a. [Você vê Metzger fazendo um pequeno gesto de mão para sua os homens.]
+ Tempo de jogo.}
+{731}{}{Ah, sério?}
+{732}{}{Uh oh.}
+{740}{}{Sim, tenho medo que os acidentes ocorram por aqui com bastante frequência. Na verdade, eu tenho medo de termos outro. [Metzger sorri agradavelmente e depois acena para os homens.]}
+{741}{}{Pode vir!
+}
+{742}{}{Eu não estou saindo disso sou eu?}
+{750}{}{Ah, mas isso vai ser divertido. Confie em mim.}
+{751}{}{Foda-se você.}
+{752}{}{Uh, tudo bem.}
+{800}{}{Você matou o líder do Slave Guild.}
+{900}{}{O que você vê é o que você obtém. Se você não gosta da minha mercadoria, então tire a foda do meu rosto e pare de desperdiçar meu tempo.}
+{901}{}{Uh, desculpe. Deixe-me perguntar-lhe algo mais.}
+{902}{}{Certo. Eu acho que irei então.}
+{903}{}{Na verdade, acho que vou desperdiçar * você * e toda a sua maldita operação fodida.}
+{910}{}{Isto é tudo que eu tenho em estoque aqui, você é uma vadia exigente, mas sempre recebi mercadorias novas do meu outro campo de escravos.
+  Talvez se você voltar depois, eu terei algo que faça cócegas à sua fantasia - mas eles são na sua maioria tribais ignorantes que todos parecem
+  fodidos mesmo, então, se não é o seu caso, você pode estar com muita sorte.}
+{911}{}{Olha, isso pode ser um pedido incomum, mas eu realmente gostaria de obter os primeiros ganhos sobre qualquer mercadoria nova que você obteve. Existe algum
+  modo de eu poder verificar o estoque no seu outro campo? Claro, eu estaria disposto a pagar um preço grande.}
+{912}{}{Tudo bem, eu vou verificar e voltar em seguida.}
+{913}{}{Bom, mas da próxima vez me faça um favor e não perca meu tempo, a menos que você tenha negócios reais para discutir.}
+{914}{}{Preço grande, hein? Agora você está falando meu tipo de linguagem. Costumamos lidar com vendas aqui, mas eu suponho que uma exceção poderia ser feita,
+  desde que você esteja falando sério. Eu vou te dizer como chegar lá, mas é melhor que fique com você. Eu juro, se você vir a ser um
+  espião para eles, Rangers, vou caçar você e te enterrar vivo. [Você escuta as instruções dele e anota a localização do Slaver Camp's no seu Pipboy.]}
+{915}{}{Tenho-o. Deixe-me perguntar-lhe algo mais.}
+{916}{}{Obrigado. Eu vou estar no meu caminho agora. Tchau.}
+{1360}{}{  por ela. Que tal?}
+{1361}{}{?}
+{1363}{}{.}
+{1364}{}{.}
+{1365}{}{?}
+{1496}{}{.}
+{1540}{}{. Muito foda bom trabalho.}
+{1541}{}{. Você chutou um traseiro sério. Mantem.}
+{1542}{}{.}
+{1543}{}{. $}
+{1544}{}{ não é algo para rir, mas você não pode fazer muito mais do que isso.}
+{1545}{}{desta vez. Bom trabalho.}
+{1546}{}{.}
+{1547}{}{? Não é mau.}
+{1548}{}{? Você pode fazer melhor do que isso.}
+{1549}{}{.}
+{1550}{}{! Isso é uma merda lamentável! Melhore ou eu vou chutar o seu traseiro.}
+{1551}{}{  e saia.}
+{2540}{}{.}
+{2543}{}{.}
+{15401}{}{. Muito foda bom trabalho, }
