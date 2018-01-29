@@ -1,7 +1,7 @@
 {100}{}{Você vê um membro do Slaver's Guild.}
 {150}{}{Você vê Metzger, chefe da Slaver's Guild.}
 {151}{}{[FALAR]}
-{152}{}{Guardas! Ataque!}
+{152}{}{Guardas! Ataquem!}
 {153}{}{[feito]}
 {154}{}{Voltar na manhã caramba! Eu faço o meu negócio durante o dia.}
 {155}{}{[feito]}

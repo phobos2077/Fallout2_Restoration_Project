@@ -13,7 +13,7 @@ segura para você, idiota cabeça de jato.}
 {215}{}{O que?}
 {216}{}{Oh, é melhor fazer isso rápido.}
 {217}{}{Você está aqui para trabalhar por uma maldita mudança?}
-{218}{}{Estou começando a me acostumar com sua cara feia. Então ... você está aqui por uma razão ou o quê?}
+{218}{}{Tô começando a me acostumar com essa sua cara feia. Então... O que você veio fazer aqui?}
 {219}{}{Eu pareço seu maldito pai ou algo assim? Com certeza, espero que não. Agora cuspa
   para fora, o que você quer?}
 {220}{}{Olhem quem está aqui. Você acha que é especial ou algo assim? Fale ou trate 
