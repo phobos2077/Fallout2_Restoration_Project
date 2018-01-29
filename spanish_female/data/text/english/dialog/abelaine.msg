@@ -5,7 +5,8 @@
 {201}{}{Hola, ¿cuál es tu nombre?}
 {202}{}{¿Qué puedes contarme acerca de la Abadía?}
 {203}{}{Adiós.}
-{300}{}{If you want to know more about our order, talk to the Abbot. You can find him in his quarters on the third floor.}
+{300}{}{Si quiere saber más sobre nuestra orden, hable con Abbot. Puedes encontrarlo en su cuarto en el tercer piso.
+}
 {301}{}{Ya veo. Unas pocas preguntas más...}
 {400}{}{Por supuesto. ¿Qué te gustaría saber?}
 {401}{}{¿Como os llamáis?}
