@@ -10,11 +10,11 @@
 {109}{}{Vá embora, infiél!}
 {110}{}{Não fale comigo - Sou uma pessoa ocupada.}
 {111}{}{Hey! You're pot-holing my neurodynes!}
-{112}{}{Maybe I'd like you better if you got aligned.}
-{113}{}{The Star Father will love you if you let him.}
-{114}{}{Don't you want to see Quetzel? Come join us!}
-{115}{}{Go talk to AHS-7 and join up!}
-{116}{}{We have celebrities who are Hubologists, you know.}
+{112}{}{Talvez eu goste mais de você se você for alinhado.}
+{113}{}{O Pai das Estrelas te amará se você deixa-lo.}
+{114}{}{Você não quer ver Quetzel? Junte-se a nós!}
+{115}{}{Vá falar com AHS-7 e junte-se a nos!}
+{116}{}{Temos celebridades que são Hubologists, você sabia.}
 {117}{}{Juan Cruz and Vikki Goldman are famous! That's why I joined.}
 {118}{}{I'll bet the celebrities will talk to you if you're nice and cool.}
 {119}{}{I love the Hub.}
