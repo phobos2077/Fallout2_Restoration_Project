@@ -82,8 +82,7 @@
 {228}{}{Adeus.}
 {232}{}{Por quê? Por que você destruir o meu alambique? Sua puta!}
 {233}{}{Onde está você, baby?}
-{234}{}{Você está vindo?
-}
+{234}{}{Você está vindo?}
 {235}{}{Eu estou esperando.}
 {236}{}{Eu estou aqui, amante.}
 {237}{}{Eu tenho um bar para executar.}

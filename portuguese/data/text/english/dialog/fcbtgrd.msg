@@ -19,8 +19,7 @@
 {234}{}{Eu espero que você saiba como usar essa coisa, porque estou pensando em tomar a porra do barco, de um jeito ou de outro.}
 {240}{}{[Ele olha para você como se você fosse a criatura mais estúpida que ele pudesse imaginar. Lentamente, ele balança a cabeça.] Não. Agora vá embora. Pergunte-me outra pergunta, e eu vou te machucar.}
 {241}{}{Tudo bem, eu vou. Tchau.}
-{242}{}{Isto é fato?
-}
+{242}{}{Isto é fato?}
 {250}{}{Afaste-se daí!}
 {251}{}{Toque novamente e eu vou matar você.}
 {252}{}{Eu avisei a você!}

@@ -75,8 +75,7 @@ pelo fato, agora que eu sei o que ele está fazendo.}
 {157}{}{Apenas vá embora. Eu não tenho nada a dizer para você.}
 {158}{}{Aguarde, antes de você ir... eu achei este cartão-chave há algum tempo, e eu não tenho nenhuma idéia do que é. Rebecca diz que você encontrou uma espécie de entrada onde eles estavam segurando Chrissy. Talvez esta placa abra-o. Aqui, pegue-a.}
 {159}{}{Obrigado.}
-{160}{}{Com o que posso ajudar?
-}
+{160}{}{Com o que posso ajudar?}
 {161}{}{Apenas a problemas com a NCR, mas eu acho que o negócio que você ofereceu vai resolver isso.}
 {162}{}{Você fez isso, amigo! Não estamos mais sob o jugo de Darion. Obrigado!}
 {163}{}{Agora que Darion se foi, não temos como obter comida. Nós certamente morreremos! Muito obrigado.}

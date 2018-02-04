@@ -217,8 +217,7 @@ com você mais.}
 {3400}{}{Eu tive-o até aqui!
 }
 {3401}{}{Eu vou rasgar sua cabeça maldita fora! Ninguém machuca minha família!}
-{4000}{}{Por aqui?
-}
+{4000}{}{Por aqui?}
 {4001}{}{Este Chefe melhor?}
 {4002}{}{Que tal aqui?}
 {4003}{}{Sim, Chefe.}

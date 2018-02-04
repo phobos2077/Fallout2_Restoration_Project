@@ -128,8 +128,7 @@ GECK ou o nosso povo vai morrer!}
 {232}{eeld12}{Escute esta vez! Vá para os níveis abaixo de nós. Encontre a máquina que faz energia. Pare e podemos escapar. Os homens aqui não são leais ao sonho do Vault. Eles são maus. Além disso, se ainda não encontrou o GECK, procure-o aqui. Nossa liberdade não é nada se a nossa aldeia não puder ser salva. Agora vá!}
 {233}{}{Tenho-o.}
 {234}{eeld13}{É isso que eles chamam de. Eles colocam agulhas na nossa pele, como as bolsas de estímulo, mas as coisas terríveis acontecem. Então ... (engasga)}
-{235}{}{Então o que?
-}
+{235}{}{Então o que ?}
 {236}{}{Isso vai me deixar doente, não é?}
 {237}{eeld13a}{Então, a pele borbulha como vermes abaixo dela. Bolhas crescem e explodem. O sangue corre de seus ouvidos e sua língua aumenta. Aqueles que têm a sorte sufocam até a morte. Aqueles que não são …}
 {238}{}{Eles vão pagar.}

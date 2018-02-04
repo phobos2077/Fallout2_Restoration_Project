@@ -7,8 +7,7 @@
 {106}{}{Como você sabe o meu nome?}
 {107}{}{Joshua mentioned that you stopped by our Den office. He said you were a small fish making big waves.}
 {108}{}{Word gets around. You're a small fish making big waves.}
-{109}{}{O que isso significa?
-}
+{109}{}{O que isso significa?}
 {110}{}{O que você quer dizer com isso?}
 {111}{}{You're attracting the attention of a lot of people. You need to be careful.}
 {112}{}{Continue.

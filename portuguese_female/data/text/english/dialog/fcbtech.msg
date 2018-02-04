@@ -5,4 +5,4 @@
 {202}{}{Eu posso sentir o espírito de meus ancestrais entre nós.}
 {203}{}{Vá fazer a sua tec coisa, então pode voltar para o continente.}
 {204}{}{Você ouviu? Eu juro que eu ouvi algo.}
-{205}{}{Por que sempre me atribuem isso?}
+{205}{}{Por que sempre me atribuem isso? }

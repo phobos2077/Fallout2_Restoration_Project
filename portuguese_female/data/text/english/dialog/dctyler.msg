@@ -73,9 +73,7 @@
 }
 {370}{}{Agora, o que diabos o patrão quer? Outra estúpida do caralho inspeção?}
 {371}{}{Sim?}
-{372}{}{O que agora?
-
-}
+{372}{}{O que agora?}
 {373}{}{Como vai?}
 {374}{}{Desculpe, tenho que ir.}
 {375}{}{Uk.}

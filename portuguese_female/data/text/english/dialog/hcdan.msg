@@ -15,8 +15,7 @@
 {114}{}{Não.}
 {115}{}{What business is it of yours?}
 {116}{}{The reason I ask, you see, is because my wife is missing. I don't know where she is. She's been gone for days. I've asked around town, and no one has seen her. Can you find her for me?}
-{117}{}{O quê tem pra mim?
-}
+{117}{}{O quê tem pra mim?}
 {118}{}{I'll look around. What's she look like?}
 {119}{}{Nope. I'm busy.}
 {120}{}{I can give you $500. That's my life savings.}

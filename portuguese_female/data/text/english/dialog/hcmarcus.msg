@@ -37,8 +37,7 @@
 {136}{mcs10}{Right...After the Master and the vats were destroyed, I wandered a bit. No place to go. One day got attacked by this fool wearin' power armor.}
 {137}{}{Realmente?}
 {138}{mcs11}{That was Jacob, from the Brotherhood of Steel. He'd sworn some oath to destroy muties. We tussled for a while – probably a day or two. After a while, we just started laughing. What was the point?}
-{139}{}{Então o que?
-}
+{139}{}{Então o que ?}
 {140}{mcs12}{We became friends. Headed off together. Then other people started following us. Guess they figured if they weren't safe with a mutie and a Steel Knight, safe just wasn't going to happen. }
 {141}{}{So you set up here. Why?}
 {142}{mcs13}{Uranium mine. I knew there was one around from old maps. Now anybody's welcome here – ‘long as they act right. Others might not think much of us, but nobody's more free than we are. There ya go.}
@@ -51,8 +50,7 @@
 {149}{}{Oh. My mistake. Well, thanks. Bye.}
 {150}{mcs15a}{What's news… what's news…}
 {151}{mcs15b}{Well, gettin' kind of worried about one of our caravan guys. Chad. He might be skimming. You up to checking him out for me?}
-{152}{}{O quê tem pra mim?
-}
+{152}{}{O quê tem pra mim?}
 {153}{}{Sure. I'll do it.}
 {154}{}{I'm a little busy.}
 {155}{}{You have anything else?}

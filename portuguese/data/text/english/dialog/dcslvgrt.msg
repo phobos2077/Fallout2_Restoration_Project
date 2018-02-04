@@ -110,6 +110,5 @@
 {435}{}{Ele está esperando por você.}
 {436}{}{E agora?}
 {437}{}{Eu conheço esse rosto feio.}
-{438}{}{Como vai'?
-}
+{438}{}{Como vai'?}
 {439}{}{Yer para trás. Ya vamos participar?}

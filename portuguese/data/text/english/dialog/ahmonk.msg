@@ -5,7 +5,7 @@
 {202}{}{Nós somos os guardiões do conhecimento.}
 {203}{}{Me desculpe, mas o conhecimento de nossos livros não é útil para você.}
 {300}{}{Bem-vindo ao mosteiro, viajante. Como posso ajudá-lo?}
-{301}{}{O que você pode me dizer sobre sua ordem? }
+{301}{}{O que você pode me dizer sobre sua ordem?}
 {302}{}{Você já ouviu falar de um dispositivo chamado GECK?}
 {303}{}{Você sabe onde eu poderia encontrar o Vault 13?}
 {304}{}{Adeus.}

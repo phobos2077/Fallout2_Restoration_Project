@@ -85,12 +85,10 @@
 {158}{}{Eu estou aqui para salvá-lo, não lutar.}
 {159}{}{Não. Eu vou sair agora.}
 {160}{}{Tudo bem, vamos acabar com isso.}
-{161}{}{Olá de novo. Você mudou de ideia? Você vai me ajudar?
-}
+{161}{}{Olá de novo. Você mudou de ideia? Você vai me ajudar?}
 {162}{}{Sim.}
 {163}{}{Não.}
-{164}{}{Olá de novo. Você mudou de ideia? Você vai me ajudar?
-}
+{164}{}{Olá de novo. Você mudou de ideia? Você vai me ajudar?}
 {165}{}{Sim.}
 {166}{}{Não. Me ainda pensar sobre isso.}
 {167}{}{Eu não quero ajudar.}

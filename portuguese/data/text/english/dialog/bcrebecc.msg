@@ -112,8 +112,7 @@ cofres ultimamente.}
 {190}{}{Não, ainda pensa.}
 {191}{}{Não, eu ainda estou considerando tudo.}
 {192}{}{Quero fazer-lhe algumas perguntas.}
-{193}{}{Você mudou de ideia? Você vai me ajudar?
-}
+{193}{}{Você mudou de ideia? Você vai me ajudar?}
 {194}{}{Desculpe, não.}
 {195}{}{Eu ajuda.}
 {196}{}{Sim, eu vou ajudar você.}

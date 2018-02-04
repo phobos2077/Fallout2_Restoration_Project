@@ -56,7 +56,7 @@
 {261}{}{Você não acha isso um pouco imoral? Como você pode considerar uma coisa tão hedionda?}
 {262}{}{Apenas ficando ao redor dos humanos? Em que mais você trabalhou?}
 {263}{}{Bem, boa sorte com isso. Devo ir agora.}
-{270}{}{Sim, suponho que você pode. Você me diverte muito. O que mais posso responder pra você?}
+{270}{}{Sim, suponho que você pode. Você me diverte muito. O que mais posso responder pra você? }
 {271}{}{Diga-me novamente sobre essas pessoas.}
 {272}{}{O que é o engraçado líquido colorido em torno do EPA?}
 {273}{}{De onde você tira todos os equipamentos e suprimentos para suas experiências?}

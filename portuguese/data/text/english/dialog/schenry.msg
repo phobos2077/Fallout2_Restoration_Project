@@ -32,11 +32,9 @@
 {130}{}{That's it, I'm out of here.}
 {131}{}{You? Oh, no - the serum's not refined enough to handle such a low mutagenic quotient. It must be used on a super-mutant. Inject the serum into a super-mutant and then come back and report the results. I understand Broken Hills is full of them.}
 {132}{}{What's it do?}
-{133}{}{O quê tem pra mim?
-}
+{133}{}{O quê tem pra mim?}
 {134}{}{Well, it should cause a regression in the genetic matrix that results in the destabilization and assimilation of aberrant DNA, leaving the host free of mutagenic potential. If I knew for sure, I wouldn't need you to test it.}
-{135}{}{O quê tem pra mim?
-}
+{135}{}{O quê tem pra mim?}
 {136}{}{You'll be participating in an important experiment, in fact, the most important, scientific-oh, you mean money. Well, I do have a Cyber-Hound Mk. II, Personal Security Model that I brought with me. I suppose I could have it activated and on-line by the time you got back. Would that do?}
 {137}{}{Cyber-hound? Sure, why not.}
 {138}{}{You are out of your mind. Just completely loony.}

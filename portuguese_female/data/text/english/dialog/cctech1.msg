@@ -7,8 +7,7 @@
 {106}{}{Eu sou novo aqui. Eu preciso fazer algumas perguntas para me familiarizar com a base.}
 {107}{}{Desculpe incomodá-lo. Eu só estou dizendo oi.}
 {108}{}{Sou um novo recruta, senhor. Não sei se posso responder todas as suas perguntas, mas vou tentar.}
-{109}{}{Com o que posso ajudar?
-}
+{109}{}{Com o que posso ajudar?}
 {110}{}{O que este lugar?}
 {111}{}{O que você trabalho?}
 {112}{}{Onde é a base principal Enclave.}
@@ -25,7 +24,7 @@
 {129}{}{Eu sou um técnico de centro de comunicação, de segunda classe. Eu lido com todas as comunicações com a base principal e mantenho o status do equipamento.}
 {130}{}{Uh... sim.}
 {131}{}{Boa. Mantenha o bom trabalho.}
-{132}{}{Você deve estar brincando, certo?}
+{132}{}{Você deve estar brincando, certo? }
 {133}{}{Nenhum garoto. Onde a base?}
 {134}{}{Parece que estou brincando?}
 {135}{}{A base principal está localizado na costa do Pacífico, perto da cidade de San Francisco. Posso perguntar por que você está perguntando?}
@@ -40,7 +39,7 @@
 {143}{}{Tenho-o.}
 {153}{}{Você está louco, andando aqui sem uniforme? Seja adequado!}
 {154}{}{Se o sargento o pega fora do do uniforme, ele vai lhe entregar seu traseiro.}
-{155}{}{Por que você está sem uniforme?}
+{155}{}{Por que você está sem uniforme? }
 {156}{}{Puta merda! Estamos sendo invadidos! Alerta!}
 {157}{}{Intrusos! Chamar a guarda!!}
 {158}{}{Guarda! Intrusos no centro de comunicação!}

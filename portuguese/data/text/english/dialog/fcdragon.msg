@@ -119,8 +119,7 @@
 }
 {223}{}{Bem vindo. Tchau tchau.
 }
-{224}{}{Não há de quê. Posso fazer uma pergunta?
-}
+{224}{}{Não há de quê. Posso fazer uma pergunta?}
 {225}{}{Bem vinda. Eu pergunto?}
 {226}{}{Você GANHA!}
 {227}{}{Você PERDE!}

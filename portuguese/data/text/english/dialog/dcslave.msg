@@ -57,8 +57,7 @@
 {392}{}{Grande barulho?}
 {393}{}{Que luta?}
 {394}{}{O que aconteceu?}
-{395}{}{Algo aconteceu?
-}
+{395}{}{Algo aconteceu?}
 {396}{}{Alguém nos ajude!}
 {397}{}{Ei! Ninguém pode me ouvir?}
 {398}{}{Isso é errado!}

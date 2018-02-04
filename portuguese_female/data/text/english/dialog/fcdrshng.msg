@@ -125,13 +125,11 @@
 {570}{}{Eu preciso deles derrubados, e você parece mais do que capaz da tarefa.}
 {571}{}{Por que você não envia estes, uh, mais bem sucedidos lá para cuidar deles?}
 {572}{}{Parece divertido. Eu vou fazer isso.}
-{573}{}{O quê tem pra mim?
-}
+{573}{}{O quê tem pra mim?}
 {574}{}{Eu não estou interessado em limpar a sua bagunça.}
 {580}{}{Eles não atacarão os seus. Eles entendem por que agora tenho que descartar os seus irmãos menos afortunados, mas eles não realizarão a tarefa sozinhos. Isso me deixou em uma situação bastante delicada. É por isso que fiquei tão satisfeito por aprender sobre sua abordagem. Então, você vai me ajudar?}
 {581}{}{Tudo bem. Eu vou fazer isso.}
-{582}{}{O quê tem pra mim?
-}
+{582}{}{O quê tem pra mim?}
 {583}{}{Eu não estou interessado em limpar a sua bagunça.}
 {590}{}{O laboratório está bem lá para o norte. A sentinela irá deixar você passar. Seja cuidadoso. Essas criaturas são incrivelmente fortes, então tente não deixá-las chegar muito perto. Ah, e cuidado com a esponja venenosa que eles disparam. Mas não se preocupe. Eu tenho um antídoto, se você for envenenado.}
 {591}{}{OK. Eu voltarei.

@@ -54,8 +54,7 @@
 {161}{}{Foi um prazer fazer negócios com você.}
 {162}{}{Obrigado.}
 {163}{}{Sua oferta, infelizmente, não é aceitável.}
-{164}{}{Que tal agora?
-}
+{164}{}{Que tal agora?}
 {165}{}{É tudo o que quero oferecer. Até mais.}
 {166}{}{Você está machucado? Tsk, tsk. Um remédio antigo irá curar isso.}
 {167}{}{O-kay!}

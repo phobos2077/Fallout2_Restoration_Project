@@ -12,8 +12,7 @@
 {211}{}{Eu acho que não há mal nenhum-}
 {212}{}{Bem, Eu-}
 {220}{}{Claro que não se importa. Valeu cara. [Ele passa além de você e abre um armário próximo. Ele casualmente se veste
-  em um terno finamente adaptado, em seguida, enfia o conteúdo do armário. Utilizando um pente de bolso, ele começa a esculpir o estilo do
-  seus cabelos escuros com a precisão de um experiente profissional.] Então, onde está o doc?}
+em um terno finamente adaptado, em seguida, enfia o conteúdo do armário. Utilizando um pente de bolso, ele começa a esculpir o estilo do seus cabelos escuros com a precisão de um experiente profissional.] Então, onde está o doc?}
 {221}{}{O doc? Ah, ele provavelmente está por aí em algum lugar. Na verdade, eu acho que ele está a caminho agora, então vou apenas sair daqui e deixar vocês dois apanharem. Tchau!}
 {222}{}{Isso pode ser um choque para você, mas você ficou congelado há muito tempo. Quem fosse "o doc", ele está
   Certamente há muito tempo morto até agora. Se ele fosse seu amigo, então desculpe.}
@@ -207,8 +206,7 @@
 {611}{}{Eu acho que não há mal nenhum-}
 {612}{}{Bem, Eu-}
 {620}{}{Claro que não se importa. Valeu cara. [Ele passa além de você e abre um armário próximo. Ele casualmente se veste
-  em um terno finamente adaptado, em seguida, enfia o conteúdo do armário. Utilizando um pente de bolso, ele começa a esculpir e modelar o seu
-  cabelos escuros escorregadios com a precisão rápida de um experiente profissional.] Então, onde está o doc?}
+  em um terno finamente adaptado, em seguida, enfia o conteúdo do armário. Utilizando um pente de bolso, ele começa a esculpir e modelar o seu cabelos escuros escorregadios com a precisão rápida de um experiente profissional.] Então, onde está o doc?}
 {621}{}{Sei lá. Onde quer que ele esteja, ele já está morto há muito tempo. Você vê, você está fazendo essa marca de picolé por um tempo muito longo.}
 {622}{}{Escute, garoto bonito. Eu não desprezei seu entalhe psicótico para que eu pudesse responder suas perguntas e assistir você se preparar.
   Só estou deixando você viver o suficiente para me contar qualquer informação útil que você possa ter. Então comece a falar. O mais
@@ -419,7 +417,7 @@ que não podem ser todas verdadeiras.}
   fantoche para o tio Sam, mas eu, eu ... Digamos que desci um caminho diferente.}
 {1703}{}{Isso soa bem. Mais alguma coisa?}
 {1704}{}{Fui conhecido por vencer um pouco com bons "ol fisticuffs". Quando eu era adolescente, tentei minha mão no Karate por
-  algum tempo, mas eles continuaram me alimentando toda essa merda por ser mais disciplinado, então eu disse a eles para que fossem fodidos. Algo mais que você precisa saber?
+algum tempo, mas eles continuaram me alimentando toda essa merda por ser mais disciplinado, então eu disse a eles para que fossem fodidos. Algo mais que você precisa saber?
 }
 {1705}{}{Isso deveria cobri-lo. Obrigado.}
 {1800}{}{Eu estou bem para ir.}
@@ -498,8 +496,7 @@ que não podem ser todas verdadeiras.}
   Dar-lhes um show real.}
 {3035}{}{O que você fez?}
 {3036}{}{Bem, naquela época, eu fazia muitos fãs, mas havia esse em particular, uma boneca real chamada Alice. Ela disse
-  ela me amava e faria qualquer coisa por mim. Então, durante minha trilha, ela me ajudou a fazer uma pausa para isso. Foi um tiro longo,
-  Mas tivemos a sorte de retirar isso. Então as coisas ficaram loucas ... Você tem certeza de que nunca ouviu falar sobre isso?
+ela me amava e faria qualquer coisa por mim. Então, durante minha trilha, ela me ajudou a fazer uma pausa para isso. Foi um tiro longo, mas tivemos a sorte de retirar isso. Então as coisas ficaram loucas ... Você tem certeza de que nunca ouviu falar sobre isso?
 }
 {3037}{}{Tenho certeza, mas continue.}
 {3038}{}{Nunca ouvi falar dele, e agora eu nunca mais quero. Apenas esqueça, eu estou entediado.}
@@ -507,8 +504,7 @@ que não podem ser todas verdadeiras.}
   Eles estão abertos. Em vez disso, acabamos de começar a emoção de matar qualquer um que fosse conveniente. Não importava quão jovem ou velho, nós
   eramos assassinos de igualdade de oportunidades. Mas matando imprudentemente assim, fomos fáceis de rastrear. Em três semanas eles nos tiveram
   encurralados. Eles me derrubaram e Alice soltou seus próprios cérebros.}
-{3040}{}{Entendo. Então o que?
-}
+{3040}{}{Entendo. Então o que?}
 {3041}{}{Então, estava lá, certo de que ia morrer, mas esses G-Men entraram e me levaram. Eles me deram de volta
   para cem por cento, então comecei a fazer esses testes em mim, tentando descobrir o que me faz do jeito que eu sou ... De qualquer forma,
   Você pode imaginar o resto e minhas gargantas secas de falar. Porra, eu estava esperando para evitar isso.}

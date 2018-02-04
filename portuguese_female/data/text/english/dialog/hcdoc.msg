@@ -84,8 +84,7 @@ because this is going to cost ::cough:: $200.}
 {162}{}{It's been a pleasure.}
 {163}{}{Obrigado.}
 {164}{}{That's not acceptable.}
-{165}{}{Que tal agora?
-}
+{165}{}{Que tal agora?}
 {166}{}{É tudo o que quero oferecer. Até mais.}
 {167}{}{::wheeze:: Are you hurt? Let me take a look at that. Do you have money?}
 {168}{}{Mo-ney?}

@@ -168,8 +168,7 @@
 {264}{}{Tchau tchau.
 }
 {265}{hak109}{Almas das trevas chegaram. Eles levaram todos.}
-{266}{}{Almas escuras? O que você quer dizer?
-}
+{266}{}{Almas escuras? O que você quer dizer?}
 {267}{hak110}{Chegou uma onda de vento. Sobre grandes libélulas que cuspiram chamas. Os homens doentios se arrastaram das barrigas dos animais e trouxeram a morte aos nossos guerreiros.}
 {268}{}{Nossos guerreiros não podiam detê-los?}
 {269}{hak112}{O espírito estava disposto, mas as pontas de lança eram fracas. Os malvados queimaram nossos guerreiros com as luzes do inferno.}

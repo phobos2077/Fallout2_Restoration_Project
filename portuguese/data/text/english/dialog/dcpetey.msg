@@ -25,8 +25,7 @@
 {173}{}{Eu faço questão de não dar dinheiro para mendigos.}
 {174}{}{Não.}
 {175}{}{Desculpe, eu não tenho nenhum dinheiro comigo.}
-{200}{}{E aí cara; me dê algum dinheiro?
-}
+{200}{}{E aí cara; me dê algum dinheiro?}
 {201}{}{Poupe alguma mudança, senhor amável?}
 {202}{}{Ei, você pode me ajudar com alguns dólares?}
 {203}{}{Você acha que pode me ajudar com os dólares de esmola?}

@@ -36,8 +36,7 @@
 {180}{}{H-Hey! Você não tem dinheiro! Saia já daqui!}
 {181}{}{Oops. Eu vou voltar.}
 {182}{}{Então eu acho que eu tenho que matar você.}
-{183}{}{Ei. Como isso vai?
-}
+{183}{}{Ei. Como isso vai?}
 {184}{}{OK, e você?}
 {185}{}{Não é tão bom.}
 {186}{}{Você pegou um medalhão daquela casa assombrada?}
@@ -116,8 +115,7 @@
 {253}{}{OK, vou baixar o preço para $ 350, mas não menos! Essa é a minha oferta final. Você tem que pagar
   valor superior pela boa merda. Não compre contra Tubby ou nenhum desses perdedores. Eles cortaram a
   merda. Eu sou o único por milhas que pode conseguir as melhores coisas.}
-{254}{}{Esqueça. Posso te perguntar uma coisa?
-}
+{254}{}{Esqueça. Posso te perguntar uma coisa?}
 {255}{}{OK, eu vou comprá-lo.}
 {256}{}{Deixa pra lá. Tchau.
 }

@@ -61,7 +61,7 @@
 {333}{}{Hmph.}
 {340}{}{Eu estava chegando lá! Não vai mesmo me deixar gozar em minha glória? Eu trabalhei duro para isso você sabe.}
 {341}{}{Eu sei, me desculpe.}
-{342}{}{Dane-se isso. Onde está o dinheiro pelo qual te cobri? }
+{342}{}{Dane-se isso. Onde está o dinheiro pelo qual te cobri?}
 {343}{}{Eu não dou uma porcaria. Onde esta meu dinheiro?}
 {350}{}{Bem. Aqui. [Fred te dá $ 500] Há um pouco de mais por me confiar. Bem, vejo você mais tarde. Obrigado novamente.}
 {351}{}{Obrigado!}

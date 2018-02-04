@@ -32,7 +32,7 @@
 {128}{}{Para procurar uma maneira de salvar a minha aldeia.}
 {129}{}{Para encontrar minha tribo sequestrada.}
 {130}{}{Para consertar um petroleiro quebrado.}
-{131}{}{Uh...missão? }
+{131}{}{Uh...missão?}
 {132}{}{Talvez eu apenas volte quando você está se sentindo um pouco melhor.}
 {133}{}{O personagem não-jogador de Fallout 1 sobreviveu para aparecer na sequela, embora referido
   a pessoa pode ser agora muito antiga?}
@@ -76,8 +76,7 @@
 {169}{}{Jogador é desintegrado.}
 {170}{}{Heh-heh.}
 {171}{}{Por alguma razão, eu acho que eu deveria guardar o meu jogo em um novo slot.}
-{172}{}{Qual é o seu nome?
-}
+{172}{}{Qual é o seu nome?}
 {173}{}{Eu nunca consigo fazer as boas perguntas.}
 {174}{}{Eu vou falar com o meu agente sobre tudo isso.}
 {175}{}{Eu continuo dizendo a ele que eu tenho que parar de fazer esses shows de queijo.}

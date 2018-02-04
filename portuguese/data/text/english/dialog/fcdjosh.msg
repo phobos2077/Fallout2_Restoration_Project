@@ -7,8 +7,7 @@
 {106}{}{Como você sabe o meu nome?}
 {107}{}{Suas atividades recentes chamaram a atenção para você. As pessoas conversam e as pessoas ouvem, e a palavra passa. Você precisa lembrar que você é apenas um peixe pequeno em um oceano de tubarões,}
 {108}{}{.}
-{109}{}{O que isso significa?
-}
+{109}{}{O que isso significa?}
 {110}{}{O que você quer dizer com isso?}
 {111}{}{Digamos que você é o novo garoto no bloco e você não sabe o que está acontecendo no bairro. Há muito mais do que sua simples missão ...}
 {112}{}{Continue.

@@ -68,8 +68,7 @@
 {411}{}{Bem, fui treinado para usar as coisas militares habituais. Rifles, pistolas, SMGs e similares. Eu prefiro as armas laser
   e o gosto melhor. Esses têm estilo! Mas se você me der um punho de bronze ou um desses punhos de poder,
   Eu irei atacar qualquer bixo de patas planas antes que eles saibam o que os atingiu!}
-{421}{}{O que há de errado com isso?
-}
+{421}{}{O que há de errado com isso?}
 {422}{}{Bem. Eu tenho suas costas.}
 {423}{}{Bem por mim.}
 {424}{}{Eu trabalho melhor solo de qualquer maneira.}

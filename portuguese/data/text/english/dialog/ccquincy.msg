@@ -42,8 +42,7 @@ ele é mais mecânico do que um soldado.}
 {136}{}{Ei, você entendeu.}
 {137}{}{Não, acho que vou atirar em você e olhar em volta para os planos enquanto
   você sangra.}
-{138}{}{Uma tecnico disse ... Você quer dizer Raul? Ele enviou você?
-}
+{138}{}{Uma tecnica disse ... Você quer dizer Raul? Ele enviou você?}
 {139}{}{Uh... sim.}
 {140}{}{Uh, não.}
 {141}{}{Sim, esse é o cara.}

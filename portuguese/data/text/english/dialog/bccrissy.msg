@@ -10,8 +10,8 @@
 {108}{}{}
 {109}{}{Gostaria de saber quem você é e o que está acontecendo aqui.}
 {110}{}{Sim. Um pano extravagante usado em volta do pescoço para decoração. É como um cachecol, mas para
-  homens. Agora, imagine-me chutando-te com tanta vontade que acabas vestindo o seu saco sobre o pescoço. Pegou
- isso? }
+homens. Agora, imagine-me chutando-te com tanta vontade que acabas vestindo o seu saco sobre o pescoço. Pegou
+isso?}
 {111}{}{Eu compreendo. Você não me machucou.}
 {112}{}{Eu tenho a imagem; por favor, não me machucar.}
 {113}{}{Ok, então por que você está aqui?}

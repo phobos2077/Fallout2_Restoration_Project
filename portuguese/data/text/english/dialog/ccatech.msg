@@ -8,8 +8,7 @@
 {107}{}{Só dizendo Oi. Até mais.
 }
 {108}{}{Com certeza. Eu tenho alguns minutos.}
-{109}{}{Com o que posso ajudar?
-}
+{109}{}{Com o que posso ajudar?}
 {110}{}{O que este lugar?}
 {111}{}{O que você trabalho?}
 {112}{}{Onde Enclave base principal?}
@@ -40,7 +39,7 @@
 {143}{}{Tenho-o.}
 {153}{}{Você está louco, andando aqui sem uniforme? Seja adequado!}
 {154}{}{Se o sargento o pegar fora do uniforme, ele vai entregar seu traseiro.}
-{155}{}{Por que você está sem uniforme?}
+{155}{}{Por que você está sem uniforme? }
 {156}{}{Puta merda! Estamos sendo invadidos! Alerta!}
 {157}{}{Intrusos! Chamar a guarda!!}
 {158}{}{Guarda! Intrusos no centro de comunicação!}

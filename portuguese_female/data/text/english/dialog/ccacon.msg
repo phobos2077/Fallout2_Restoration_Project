@@ -7,7 +7,7 @@
 {106}{}{Sinta-se livre para olhar, mas não tocar.}
 {107}{}{Você é louco por andar aqui sem uniforme? Seja adequado!}
 {108}{}{Se o sargento o pegar fora do uniforme, ele vai entregar seu traseiro.}
-{109}{}{Por que você está sem uniforme?}
+{109}{}{Por que você está sem uniforme? }
 {110}{}{Puta merda! Estamos sendo invadidos! Alerta!}
 {111}{}{Intrusos! Chamar a guarda!!}
 {112}{}{Guarda! Intrusos em controle de tráfego aéreo!}

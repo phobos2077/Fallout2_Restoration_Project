@@ -3,7 +3,7 @@
 {151}{}{Você vê um sujeito impuro com uma contração facial desagradável.}
 {200}{}{Saia do heeya, você burro.}
 {201}{}{Ei almôndega! Sim, você. Fuja heeya.}
-{202}{}{Você é idiota ou estupido? }
+{202}{}{Você é idiota ou estupido?}
 {203}{}{Whatchur problema, hein?}
 {204}{}{Ao inferno fora de heeya.}
 {220}{}{Hey der, eu sou o Flick. Que merda você quer, hein?}

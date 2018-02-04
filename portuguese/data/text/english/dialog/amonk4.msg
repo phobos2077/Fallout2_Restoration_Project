@@ -5,7 +5,7 @@
 {202}{}{Bom tempo.}
 {203}{}{Vá jogar em outro lugar.}
 {300}{}{Oi, como posso ajudá-lo?}
-{301}{}{O que você pode me dizer sobre sua ordem? }
+{301}{}{O que você pode me dizer sobre sua ordem?}
 {302}{}{Vamos trocar.}
 {303}{}{Adeus.}
 {400}{}{A nossa santa missão é coletar e preservar as relíquias sagradas do passado esquecido. Qualquer pessoa é bem-vinda aqui, contanto que eles não danifiquem nada.}

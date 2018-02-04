@@ -10,8 +10,7 @@
 {221}{}{Talvez eu pudesse ajudar de alguma forma?}
 {222}{}{Isso é realmente uma vergonha. Eu tenho que ir agora. Adeus.}
 {230}{}{Ei, se você está realmente disposto a ajudar, seria ótimo. Eu vou garantir que você tenha algo para seus problemas.}
-{231}{}{Considere isso feito. Com o que posso ajudar?
-}
+{231}{}{Considere isso feito. Com o que posso ajudar?}
 {232}{}{Não, eu não tenho tempo agora.}
 {240}{}{Essas plantas de esporos mutantes se espalharam além dos limites da casa verde e se enraizaram por todo o território da EPA. Se você pudesse se livrar de todos esses bastardos para mim, seria um grande passo na direção certa.}
 {241}{}{Claro, eu poderia matar todas as plantas de esporos para você. Eu voltarei uma vez que esteja pronto.}

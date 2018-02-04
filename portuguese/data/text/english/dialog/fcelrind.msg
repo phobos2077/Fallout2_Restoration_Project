@@ -14,11 +14,11 @@
 {113}{}{O Pai das Estrelas te amará se você deixa-lo.}
 {114}{}{Você não quer ver Quetzel? Junte-se a nós!}
 {115}{}{Vá falar com AHS-7 e junte-se a nos!}
-{116}{}{Temos celebridades que são Hubologists, você sabia.}
-{117}{}{Juan Cruz and Vikki Goldman are famous! That's why I joined.}
-{118}{}{I'll bet the celebrities will talk to you if you're nice and cool.}
-{119}{}{I love the Hub.}
-{120}{}{I like being a Hubologist.}
+{116}{}{Temos celebridades que são Hubologists, você sabe.}
+{117}{}{Juan Cruz e Vikki Goldman são famosos! É por isso que me juntei.}
+{118}{}{Aposto que as celebridades vão falar com você se você for bom e legal.}
+{119}{}{Eu amo the Hub.}
+{120}{}{Eu gosto de ser um Hubologist.}
 {121}{}{I want to actuate my potentiality.}
 {122}{}{I'm still learning the lingo, to tell the truth.}
 {123}{}{Praise the Hub!}
@@ -39,8 +39,8 @@
 {147}{}{The dark times are upon us again!}
 {148}{}{Star Father! Save me from the heathen!}
 {149}{}{Someone will smite you for your perfidy!}
-{150}{}{I love the Hub.}
-{151}{}{I like being a Hubologist.}
+{150}{}{Eu amo the Hub.}
+{151}{}{Eu gosto de ser um Hubologist.}
 {152}{}{I want to actuate my potentiality.}
 {153}{}{I'm still learning the lingo, to tell the truth.}
 {154}{}{Praise the hub!}

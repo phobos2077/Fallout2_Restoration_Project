@@ -12,7 +12,7 @@
 {203}{}{Não de tudo, parece.}
 {204}{}{[Você dá um pouco de tempo para que seus dentes parem de tagarelar. Ela se recupera muito mais rápido do que você espera 
   e olha para você com súbita gravidade.] Está ... acabou?}
-{205}{}{Acabou?}
+{205}{}{Acabou? }
 {206}{}{Você quer dizer a Guerra?}
 {207}{}{A Guerra. Todas aquelas armas nucleares.}
 {208}{}{A Guerra, sim.}
@@ -143,8 +143,7 @@ Você está desperdiçando-a aqui. Venha comigo e talvez possamos fazer algo.}
   para este planeta do que qualquer coisa viva ou morta.}
 {356}{}{Mas podemos expiar. Essa é a coisa especial sobre nós.}
 {357}{}{Você tem uma maneira maravilhosa de colocá-lo. Obrigado por me ouvir. Eu quase sinto que posso seguir em frente.}
-{360}{}{Digamos que, como você era um espião, tenho certeza de que você é bastante habilidosa com cautela e tudo isso. Qualquer coisa que você possa me ensinar?
-}
+{360}{}{Digamos que, como você era um espião, tenho certeza de que você é bastante habilidosa com cautela e tudo isso. Qualquer coisa que você possa me ensinar?}
 {361}{}{Sim, tive um pouco de prática com furtos, trancas e roubos. Aqui, deixe-me mostrar algumas coisas
   Eles não te ensinam nos livros.}
 {362}{}{Você conseguiu agora. Lembre-se, a prática torna perfeita.}
@@ -162,8 +161,7 @@ Você está desperdiçando-a aqui. Venha comigo e talvez possamos fazer algo.}
 {410}{}{O que você precisa saber?}
 {411}{}{Tenho uma faixa preta em sanshou. Posso esfaquear um homem até a morte se a situação o exigir. Pistolas, rifles e coisas semelhantes, eu sou decente.}
 {420}{}{Precisamos falar a distância entre nós.}
-{421}{}{O que há de errado com isso?
-}
+{421}{}{O que há de errado com isso?}
 {422}{}{Ficar perto de mim.}
 {423}{}{Bem. Eu tenho suas costas.}
 {424}{}{Não fique muito longe.}
@@ -175,7 +173,7 @@ Você está desperdiçando-a aqui. Venha comigo e talvez possamos fazer algo.}
 {432}{}{Eu tenho certeza que vou encontrar algo para fazer enquanto você está ausente.}
 {440}{}{Sempre que você precisar de mim.}
 {441}{}{Feliz, você está de volta. Eu realizava audições, mas não consegui encontrar um bom substituto para você.}
-{442}{}{Saudades da minha companhia? }
+{442}{}{Saudades da minha companhia?}
 {443}{}{Sentindo-se culpado de sair sem mim?}
 {444}{}{Eu estava começando a pensar que você não estava planejando voltar.}
 {445}{}{Estava na hora. Na China antiga, o atraso o levaria enforcado, esticado e esquartejado.}
@@ -218,7 +216,7 @@ Você está desperdiçando-a aqui. Venha comigo e talvez possamos fazer algo.}
 {1160}{}{Eles não podem manter apenas o gado aqui...}
 {1170}{}{Morte por toda parte ...}
 {1171}{}{Eu não quero ser enterrada aqui.}
-{1180}{}{Nós apenas avançamos para a natureza e continuamos evoluindo, não?}
+{1180}{}{Nós apenas avançamos para a natureza e continuamos evoluindo, não? }
 {1190}{}{Eu não vi os edifícios tão altos desde que os 101 começaram.}
 {1200}{}{Eles certamente bloquearam esse lugar com força.}
 {1210}{}{Eu ouvi sobre esses lugares...}

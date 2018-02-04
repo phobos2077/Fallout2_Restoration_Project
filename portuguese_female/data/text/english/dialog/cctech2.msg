@@ -8,8 +8,7 @@
 {107}{}{Só dizendo Oi. Até mais.
 }
 {108}{}{Certamente, soldado.}
-{109}{}{Com o que posso ajudar?
-}
+{109}{}{Com o que posso ajudar?}
 {110}{}{O que este lugar?}
 {111}{}{O que você trabalho?}
 {112}{}{Onde Enclave base principal?}
