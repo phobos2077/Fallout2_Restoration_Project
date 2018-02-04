@@ -8,8 +8,7 @@
 {107}{}{Let's take that freak down!}
 {108}{}{Slag 'im.}
 {109}{}{Eu estou bem para ir.}
-{110}{}{Vamos arrasar!
-}
+{110}{}{Vamos arrasar!}
 {111}{}{I'm gonna light that freak up!}
 {112}{}{I don't take to killing idjits.}
 {113}{}{You can go.}
@@ -23,8 +22,7 @@
 {121}{}{Good luck, mutant. You're gonna need it.}
 {122}{}{Halt! What are you doing here?}
 {123}{}{I'm trying to get back to my people.}
-{124}{}{Não é da sua conta.
-}
+{124}{}{Não é da sua conta.}
 {125}{}{I don't have time for your questions.}
 {126}{}{Just who are you?}
 {127}{}{Well, you know that freak, Agent Horrigan, just stormed past here. He's waiting for someone to try and make a break for it.}

@@ -54,8 +54,7 @@
 {293}{}{What do I WANT? I don't really know. Most of the time I ignore my quest and walk into the homes of others,
  riffling through people's shelves...oooh, like those over there!}
 {294}{}{You have an interesting vocabulary…Renesco. Are you from around here?}
-{295}{}{Estou fora daqui.
-}
+{295}{}{Estou fora daqui.}
 {305}{}{I sell recreational drugs mostly. That's why they gave me that idiotic appellation, 'the Rocketman.' Hmmmph. I
  also sell some caravan supplies. You NEED anything or can I get back to something important?}
 {306}{}{Rocketman, huh? Know the line in that Elton John song, "Rocketman, burning off the mmmncfnfm there at home?' What's
@@ -108,8 +107,7 @@
 {414}{}{I see…I must be going now.}
 {420}{}{Well, tribal, I doubt you have the sense to notice this yet, but New Reno doesn't produce anything useful.
  It's like a big, brightly-lit prairie tick sitting out in the desert. Now, Redding, on the other hand…}
-{421}{}{Continue.
-}
+{421}{}{Continue.}
 {422}{}{…DOES produce something useful.}
 {423}{}{Eu já ouvi o suficiente.}
 {430}{}{First and last time I'm gonna warn you, tribal: Don't finish my goddamn sentences. I don't like smartass primates

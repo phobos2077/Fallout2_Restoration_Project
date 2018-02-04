@@ -46,8 +46,7 @@
  with him… or they just "disappear." The place looks civilized on the top of things, but the truth is
  that it's a killing ground for bloodthirsty mutants. There's a friend of a friend who had friends who
  disappeared after speaking up.}
-{165}{}{Continue.
-}
+{165}{}{Continue.}
 {166}{}{That's enough. You're crazy. Goodbye.}
 {167}{}{We all pretend that this is a civilized town, that we're all on the up and up… but we all live
  in fear of the mutant rage. Each day, there are fewer and fewer humans.}
@@ -157,8 +156,7 @@
 {309}{}{Yeah, well... their day is comin'.}
 {310}{}{I already told you everything you need to know about this place. So, what do you want?}
 {311}{}{Eu tenho algumas outras perguntas.}
-{312}{}{Nada. Esqueça.
-}
+{312}{}{Nada. Esqueça.}
 {313}{}{Obrigado.}
 {314}{}{[CONTINUAR]}
 {315}{}{Hey, friend. I appreciate your help gettin' our friends out of their spot of trouble. You're all right in my book.}

@@ -8,8 +8,7 @@
 {106}{}{Quem é você?}
 {107}{}{Why are you in jail?}
 {108}{}{Tell me about Broken Hills.}
-{109}{}{Nada. Esqueça.
-}
+{109}{}{Nada. Esqueça.}
 {110}{}{Don't understand that freaky stupid-person talk. You just get on outta here 'fore ya make me
  stupid too.}
 {111}{}{Oh!}
@@ -62,8 +61,7 @@
 {150}{}{You like Franc?}
 {151}{}{Why are you called Manson?}
 {152}{}{Why are you so stupid?}
-{153}{}{Nada. Esqueça.
-}
+{153}{}{Nada. Esqueça.}
 {154}{}{You're with us? Then get us out of here!}
 {155}{}{I'm working on it. See ya.}
 {156}{}{Thanks for the help. Knew we could count on a fellow human to see the light!}

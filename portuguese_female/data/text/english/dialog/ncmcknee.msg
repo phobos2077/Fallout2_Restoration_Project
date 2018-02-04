@@ -8,8 +8,7 @@
 {201}{}{*Hnrggg*}
 {202}{}{::Flexes::}
 {203}{}{Estou cansado.}
-{204}{}{Estou cansado.
-}
+{204}{}{Estou cansado.}
 {205}{}{*Phewwww* Rough day.}
 {206}{}{Working out always makes me tired.}
 {207}{}{Fighting exhausts me.}

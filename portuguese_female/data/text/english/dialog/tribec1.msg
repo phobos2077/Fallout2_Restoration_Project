@@ -113,8 +113,7 @@
 {370}{}{[He chuckles.] I offer the hospitality of our tribe and the opportunity to impress me. I promise no more than that.}
 {371}{}{Alright. Let's do this.}
 {372}{}{Alright, but give me a moment to get ready.}
-{373}{}{Não interessado. Tchau.
-}
+{373}{}{Não interessado. Tchau.}
 {375}{}{Are you ready to go?}
 {376}{}{Ainda não.}
 {377}{}{Alright. Let's do this.}
@@ -247,8 +246,7 @@
 {863}{}{No, I was just leaving.}
 {870}{}{Ah, it seems I'm in a forgiving mood today, friend. Now what can I do for you?}
 {871}{}{I don't like being toyed with girl, but by the gods, how could I stay mad at a goddess like you? Now, what can I do for you?}
-{872}{}{Deixa pra lá. Tchau.
-}
+{872}{}{Deixa pra lá. Tchau.}
 {1000}{}{[The giant warrior nods respectfully to you.] Well, if it isn't the great hero of the wastes. That was a pretty
  impressive feat, sending them Enclave dogs to hell like that. In fact, hearing tales of your exploits has inspired me to
  head back out into the wastes myself.}

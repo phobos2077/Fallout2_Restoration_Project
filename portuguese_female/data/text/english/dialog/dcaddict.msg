@@ -40,8 +40,7 @@
 {220}{}{Shhh, eles estão atrás de você…}
 {221}{}{Mina!}
 {222}{}{Poxa, a minha cabeça.}
-{223}{}{Eu adoro tudo.
-}
+{223}{}{Eu adoro tudo.}
 {224}{}{Estou começando a pegar o balanço.}
 {225}{}{Oh, eu preciso de um pouco mais.}
 {226}{}{Eu preciso de uma correção.}
@@ -86,10 +85,8 @@
 {367}{}{Não fazer isso!}
 {368}{}{Eu não posso ver... outra vez.}
 {369}{}{Precisa...}
-{370}{}{Pegue mais...
-}
-{371}{}{Lá? Não.
-}
+{370}{}{Pegue mais...}
+{371}{}{Lá? Não.}
 {372}{}{Não. Não é possível encontrá-lo.}
 {373}{}{Faça parar!}
 {374}{}{Ug.}
@@ -104,7 +101,6 @@
 {404}{}{Ah! Pargasraka!}
 {405}{}{Pés de rato indo! Ahhh!}
 {406}{}{Você não tira isso de mim!}
-{407}{}{Devolva!
-}
+{407}{}{Devolva!}
 {408}{}{Não!!!}
 {409}{}{Minha família!}

@@ -24,16 +24,14 @@
 {122}{}{Okey!}
 {123}{}{Nuh uh!}
 {124}{}{O que é?}
-{125}{}{Esqueça.
-}
+{125}{}{Esqueça.}
 {126}{}{I'm an old guy, an' I don't get out too much. Ain't got much chance for action, y'know what I mean? So what I want is a Cat's Paw magazine. Find me one.}
 {127}{}{'Ere! [Give Cat's Paw to Typhon.]}
 {128}{}{Okey!}
 {129}{}{Nuh!}
 {130}{}{Here you go. [Give Cat's Paw to Typhon.]}
 {131}{}{All right. I'll be back.}
-{132}{}{Esqueça.
-}
+{132}{}{Esqueça.}
 {133}{}{Thanks for the mag, kid. Let me get back to you in an hour or so.}
 {134}{}{Okay!}
 {135}{}{I ain't done yet, kid! Sheesh! Can't an old ghoul have his privacy?}
@@ -81,8 +79,7 @@
 {177}{}{Here go! [Give Blow-Up Doll to Typhon.]}
 {178}{}{All right. I had more questions.}
 {179}{}{Tudo bem. Tchau.}
-{180}{}{Esqueça.
-}
+{180}{}{Esqueça.}
 {181}{}{Got it right here. [Give Blow-Up Doll to Typhon.]}
 {182}{}{This, kid, will hit the spot. Gimme a few hours and we'll talk more. Go on. [He eyes the doll lustfully.]}
 {183}{}{[FEITO]}
@@ -95,12 +92,10 @@
 {190}{}{Got it. Here you go. [Give Rotgut to Typhon.]}
 {191}{}{Is that going to be it?}
 {192}{}{Tudo bem. Tchau.}
-{193}{}{Esqueça.
-}
+{193}{}{Esqueça.}
 {194}{}{I'll probably want... oh, one more thing. I'll tell you what it is when you get me my damn rotgut, all right?}
 {195}{}{Fine. I'll do it.}
-{196}{}{Esqueça.
-}
+{196}{}{Esqueça.}
 {197}{}{That really hit the spot, kid. I was gonna ask you for a plant, but hey, I'll give you a break.}
 {198}{}{'Ank you!}
 {199}{}{Thanks. I had other questions.}
@@ -117,8 +112,7 @@
 {210}{}{Bad! Caps!}
 {211}{}{It was all bottle caps! It's worthless!}
 {212}{}{Ha ha. Funny. I had some questions.}
-{213}{}{Esqueça.
-}
+{213}{}{Esqueça.}
 {214}{}{Poo! Bye.}
 {215}{}{What, they don't use caps as money anymore? You mean all that collectin' and hidin' and worryin' someone's gonna steal my
  stash was for nothing? God DAMMIT! Sorry to make you run around like that, kid. If I'd'a known...}

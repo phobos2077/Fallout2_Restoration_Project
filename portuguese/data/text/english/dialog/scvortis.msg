@@ -80,8 +80,7 @@
  pay you for the job - say $1000.}
 {201}{}{Good work. One more thing though. You look like a mean sonuvabith. How 'bout you wipe out those safe houses for me. There's a reward for it - say $1000.}
 {202}{}{Com certeza.}
-{203}{}{Não interessado.
-}
+{203}{}{Não interessado.}
 {204}{}{Excellent. Here, let me mark these coordinates on your map thingy. Report back when you're done.}
 {205}{}{Your loss. Now you best make yourself scarce, in case those Rangers ever wise up.}
 {206}{}{Tudo bem. Tchau.}
@@ -116,8 +115,7 @@
 {270}{}{What, do you think you can get whatever the fuck you want for free? $1000. Take it or leave it.}
 {271}{}{What, do you think you can get whatever the fuck you want for free? Plus, you ooze virtuousness. I don't like that. $2000. Take it or leave it.}
 {272}{}{Alright, here.}
-{273}{}{Deixa pra lá.
-}
+{273}{}{Deixa pra lá.}
 {274}{}{I'll do whatever I want. And I think I'll kill you now.}
 {275}{}{Eu vou voltar quando eu tiver mais dinheiro.}
 {280}{}{[He points on your map the location of the slaver camp.] It's around there. Now what else are you going to waste my time with?}

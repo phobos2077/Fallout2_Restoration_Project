@@ -5,8 +5,7 @@
 {104}{}{Wha?}
 {105}{}{Quem é VOCÊ?}
 {106}{}{Eu sou}
-{107}{}{Não é da sua conta.
-}
+{107}{}{Não é da sua conta.}
 {108}{}{Nada. Agora, eu vou embora.}
 {109}{}{Você não pertence aqui se você for imbecil. Corra agora, antes de chamar os guardas.}
 {110}{}{Você realmente não me entendem, não é? Talvez você vai entender os guardas. Guardas! Intruso!}

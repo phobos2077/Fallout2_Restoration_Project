@@ -65,8 +65,7 @@
 {343}{}{Eu não dou uma porcaria. Onde esta meu dinheiro?}
 {350}{}{Bem. Aqui. [Fred te dá $ 500] Há um pouco de mais por me confiar. Bem, vejo você mais tarde. Obrigado novamente.}
 {351}{}{Obrigado!}
-{352}{}{Tanto faz.
-}
+{352}{}{Tanto faz.}
 {360}{}{Muito obrigado por me cobrir. Realmente significava muito para mim, para ser confiado por um completo estranho. Deixe-me dar-lhe isso.}
 {361}{}{Tudo bem.}
 {362}{}{Você não deveria ter.}
@@ -114,8 +113,7 @@
 {480}{}{Porra. Você vai arruinar-me! Bem, ok, aqui. Agora eu estou completamente falido.}
 {481}{}{Oh, tudo bem. Eu vou cobrir você.}
 {482}{}{Obrigado. Gerir o seu dinheiro melhor da próxima vez.}
-{483}{}{Agradeço pelos seus serviços.
-}
+{483}{}{Agradeço pelos seus serviços.}
 {490}{}{Eu disse a você! Eu não posso! Eu vou morrer de fome se eu fazer. Oh, venha, você não pode me ajudar?}
 {491}{}{Tudo bem. Eu vou cobrir a metade.}
 {492}{}{Não desculpe. Eu também não tenho dinheiro.}

@@ -27,8 +27,7 @@
 {304}{}{Houve uma mudança de planos. Eu estou tomando esta aeronave.}
 {310}{}{O que? Oh, eu vejo. Olhe, mas não toque. Tudo bem? Toque novamente e você morre.}
 {311}{}{(Sorriso, em seguida, atacar.)}
-{312}{}{(Ir embora.)
-}
+{312}{}{(Ir embora.)}
 {315}{}{Oh merda, parece que nos conseguimos um intruso. Código vermelho! Eu repito, código vermelho!}
 {316}{}{Isso soa como uma boa ideia. Toque a aeronave novamente e eu vou colocar uma bala em sua cabeça.}
 {320}{}{Certo. E, portanto, você é ...}
@@ -69,7 +68,7 @@
 {425}{}{Não, qual é * seu * nome, soldado? Eu estava aqui para testá-lo e eu tenho que dizer que você falhou. Se eu fosse um vagante 
 do deserto assassino você e toda a sua equipe estariam mortos agora! Isso é inaceitável! Em forma, soldado!}
 {426}{}{Uh . . . meu nome }
-{427}{}{. Eu tomo passeio divertido em pássaro de metal! Vá novamente! Quero ir de novo! }
+{427}{}{. Eu tomo passeio divertido em pássaro de metal! Vá novamente! Quero ir de novo!}
 {428}{}{Você não precisa saber meu nome. Eu não gosto de você. Eu mato. [Saltar para fora e começar a lutar.]}
 {430}{}{Você está bêbado? Você está no Navarro, é claro. Se você está tendo problemas de memória, soldado, você pode querer se verificar. Talvez alguma dessas radiações lá fora tenha chegado a você.}
 {440}{}{Não me diga essa besteira. Você é um dos novos recrutas, não é? Heh. Essa boca esperta vai te enterrar em todos os tipos de problemas - e não posso esperar para ver isso acontecer. Agora volte para seu posto, soldado.}

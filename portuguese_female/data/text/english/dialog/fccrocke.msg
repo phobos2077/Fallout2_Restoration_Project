@@ -14,8 +14,7 @@
 {113}{}{Dr. Jing provavelmente vai estar dispostos a vender combustível para a nave.}
 {114}{}{Eu posso pagar por isso.}
 {115}{}{Eu vou deixar você viver.}
-{116}{}{Nada. Esqueça.
-}
+{116}{}{Nada. Esqueça.}
 {117}{}{Eu sou Crocket. Eu sou cientista e reparo. Posso voltar para isto?}
 {118}{}{Não. Eu tenho mais perguntas.}
 {119}{}{Sim, com certeza.}
@@ -24,15 +23,13 @@
 {122}{}{Entendi. Eu tenho mais perguntas.}
 {123}{}{Não. O que você quer dizer?}
 {124}{}{Que nova tecnologia tem desenvolvido?}
-{125}{}{Alto e claro. Até mais.
-}
+{125}{}{Alto e claro. Até mais.}
 {126}{}{Bem ... eu *adivinho* que terá que fazer. É um acordo. Você tem a armadura a ser endurecida com você?}
 {127}{}{Sim.}
 {128}{}{Não.}
 {129}{}{Ótimo. Isso custará $ 10.000, direto, sem troca. Eu preciso de algum equipamento novo.}
 {130}{}{$10.000? Isso é ultrajante! Eu não tenho esse dinheiro!}
-{131}{}{Tudo bem. Aqui está.
-}
+{131}{}{Tudo bem. Aqui está.}
 {132}{}{Eu vou voltar para você.}
 {133}{}{::ele parece divertido::
 Você realmente me ameaça para isso?}
@@ -85,8 +82,7 @@ Experimente, bucko. Você terá protetores na sua bunda e você nunca aprenderá a e
 {178}{}{Sim, bem, eu te ferrei.}
 {179}{}{E pela última vez, também. GUARDAS!}
 {180}{}{Morrer, idiota.}
-{181}{}{Merda. Estou fora daqui.
-}
+{181}{}{Merda. Estou fora daqui.}
 {182}{}{Ok, agora, o que você quer?}
 {183}{}{Você está pronto para pagar os $10k, neste momento?}
 {184}{}{Deixe-o aqui por um dia e eu vou fazer isso. Lembre-se, porém, este é o último conjunto que posso fazer.}

@@ -28,8 +28,7 @@
 {173}{}{Por que todos estão vendendo drogas?}
 {174}{}{Você sabe onde o Vault está localizado?}
 {175}{}{Eu gostaria de poder trocar depois de tudo.}
-{176}{}{Deixa pra lá. Tchau.
-}
+{176}{}{Deixa pra lá. Tchau.}
 {177}{}{Oh meu. Posso dizer que teremos um problema de comunicação. Acorde com a cabeça
   se você gostaria de trocar mercadorias.}
 {178}{}{[aceno]}
@@ -53,8 +52,7 @@
 {188}{}{Que tal eu lhe dou $ 50 e você me conta.}
 {189}{}{O que você diz que me fornece informações, ou eu lhe dou um novo buraco
   na cabeça.}
-{190}{}{Deixa pra lá.
-}
+{190}{}{Deixa pra lá.}
 {191}{}{Bem, posso pedir-lhe algo mais, então?}
 {192}{}{Claro, esse tipo de dinheiro PODE me ajudar a mudar de ideia. Mas você não tem
   isto!}

@@ -53,8 +53,7 @@
 {277}{}{De jeito nenhum. Isso foi real.}
 {278}{}{Seja o que for.}
 {279}{}{Ohhhh está chutando novamente. Ahh.}
-{290}{}{Luzes bonitas.
-}
+{290}{}{Luzes bonitas.}
 {291}{}{Muitas luzes.}
 {292}{}{Eles são tão quentes.}
 {293}{}{E as árvores.}

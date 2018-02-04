@@ -15,8 +15,7 @@
 {254}{}{Falar para Metzger, a mim, não, senhora.}
 {255}{}{Metzger não vai contratar uma cadela pra fazer isso.}
 {256}{}{Vencê-lo.}
-{257}{}{E ai, cara.
-}
+{257}{}{E ai, cara.}
 {258}{}{Você tem sorte, você só tem que seguir as corridas.}
 {259}{}{Ser um guarda de porta é uma vida chata.}
 {260}{}{Como vai?}

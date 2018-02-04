@@ -5,8 +5,7 @@
 {104}{}{O que este lugar?}
 {105}{}{Eu apenas disse oi. Eu vou agora.}
 {106}{}{O que é este lugar?}
-{107}{}{Só dizendo Oi. Até mais.
-}
+{107}{}{Só dizendo Oi. Até mais.}
 {108}{}{Esta é a sala de computadores. Esse é o mainframe por aí, o terminal da interface está ao lado dele e esses dispositivos são as unidades de armazenamento de dados holotape. Este é o mais recente e o melhor.}
 {109}{}{Oh. Uh, o Que você faz?}
 {110}{}{Então, o que você faz aqui?}

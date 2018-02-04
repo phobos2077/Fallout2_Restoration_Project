@@ -30,8 +30,7 @@
 {129}{}{I don't think so.}
 {130}{}{Deee-lightful! I'm very, very pleased. Just find yourself a shovel and come on back. When you're done, maybe I can tell you a secret. My friend, I do hope you continue to flower.}
 {131}{}{Um, right. So long.}
-{132}{}{Eu mudei de ideia.
-}
+{132}{}{Eu mudei de ideia.}
 {133}{}{Oh, yes, the Professor. He grew me from a tiny spore and nurtured me... but I realized from an early age that if I were to act as smart as I truly
  am, he'd cut me into pieces to examine me. So, I played dumb and got planted out here. It's nice... but I'd like to branch out a little.
  Y'know, maybe get planted someplace else...}

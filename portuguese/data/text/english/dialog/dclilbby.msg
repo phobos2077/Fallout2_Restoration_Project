@@ -44,8 +44,7 @@
   ele diz que ele está voando no jato, que é uma mentira porque eu nunca o vejo voar em qualquer lugar. Às vezes, ele traz uma
   namorada em casa - ele tem muitas namoradas - e ele me faz sair por algum tempo, mesmo que seja o meio da noite
   e está frio ou está a chover.}
-{221}{}{Isso é-
-}
+{221}{}{Isso é-}
 {230}{}{Ah! E às vezes ele me diz para tirar as coisas das pessoas em segredo. Ele diz que é um jogo e que ele o devolve mais tarde,
   mas eu não acredito nele. Mas se eu não fizer isso, ele fica realmente louco e seus olhos ficam assustadores, e ele me machuca.
   Veja? [Ele ergue a manga da camisa, revelando uma ferida desagradavel no braço.]}

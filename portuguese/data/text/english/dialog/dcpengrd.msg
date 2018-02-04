@@ -1,8 +1,7 @@
 {100}{}{Você vê um escravista.}
 {150}{}{Ele parece estar muito alerta.}
 {200}{}{Toque novamente, e você vai perder um membro.}
-{201}{}{É isso aí!
-}
+{201}{}{É isso aí!}
 {210}{}{Nada, mas os escravos estão de volta lá.}
 {211}{}{Os escravos não recebem visitantes.}
 {212}{}{Somente membros da aliança através desta porta.}
@@ -18,7 +17,5 @@
 {235}{}{Olá.}
 {236}{}{Você é o meu tipo de mulher.}
 {237}{}{Uma fêmea escravista - tenho de respeitar.}
-{238}{}{Olá.
-}
-{239}{}{Parece bom.
-}
+{238}{}{Olá.}
+{239}{}{Parece bom.}

@@ -46,8 +46,7 @@
 {151}{}{Realmente grandes mutantes com armas tão altas como você e eu vieram do sul. Mamãe disse que parecia uma grande migração de algum tipo.}
 {152}{}{Quantas?}
 {153}{}{Não sei, mas havia vários grupos deles. Alguns continuariam para o norte, outros se dirigiam para o leste. Ninguém sabia para onde eles estavam indo.}
-{154}{}{Continue.
-}
+{154}{}{Continue.}
 {155}{}{Eles estavam bastante chateados e pareciam estar fugindo de alguma coisa.}
 {156}{}{Realmente?}
 {157}{}{Sim, também havia outros com vestes sujas e esfarrapadas ... continuavam tagarelando sobre como o Mestre estava morto ...}
@@ -57,9 +56,7 @@
 {161}{}{Bem, você não vê. Eles estavam falando sobre o Mestre, aquele que seu antepassado matou.}
 {162}{}{Obrigado pela história.}
 {163}{}{Bem, está ficando tarde. Tchau.}
-{164}{}{O prazer é meu. Tchau.
-}
+{164}{}{O prazer é meu. Tchau.}
 {165}{}{Adeus.}
-{166}{}{Deixa pra lá.
-}
+{166}{}{Deixa pra lá.}
 {167}{}{Leanne contou sua história sobre o Mestre.}

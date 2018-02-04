@@ -1,5 +1,4 @@
-{100}{}{Um soldado em uniforme de serviço.
-}
+{100}{}{Um soldado em uniforme de serviço.}
 {101}{}{Alguns Pfc-Tech, classe X.}
 {102}{}{Ele está vestindo um uniforme militar, mas é claro que esse cara é mais um técnico do que um soldado.}
 {103}{}{Olha, quantas vezes eu tenho que te dizer tontos? Não fique no caminho!}

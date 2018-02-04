@@ -1,11 +1,9 @@
 {100}{}{Você vê uma guarda bem armada.}
 {101}{}{Você vê uma guarda Hubologista.}
-{102}{}{Você vê uma pessoa bem armada com um olhar cruel para os olhos.
-}
+{102}{}{Você vê uma pessoa bem armada com um olhar cruel para os olhos.}
 {103}{}{Intruso!}
 {104}{}{Pegue o intruso!}
-{105}{}{Por aqui! Por aqui!
-}
+{105}{}{Por aqui! Por aqui!}
 {106}{}{Hora de morrer, infiel! A Grande Roda rola sobre você!}
 {107}{}{Nós somos os Guardiões. Você está para morrer agora.}
 {108}{}{Estrela Pai, guia o meu objetivo.}
@@ -23,8 +21,7 @@
 {120}{}{Eu vou "alinhar" você se você se comportar mal.}
 {121}{}{Tenho a sanção da Grande Roda.}
 {122}{}{Saudações, colega de trabalho.}
-{123}{}{Saudações,
-}
+{123}{}{Saudações,}
 {124}{}{Fico feliz por tê-lo conosco.}
 {125}{}{Continue com seu negócio.}
 {126}{}{Não incomode aqueles que tentam se concentrar.}
@@ -32,8 +29,7 @@
 {128}{}{O Hub nos colocou para vigiar o seu rebanho.}
 {129}{}{O Pai das Estrelas cuida de você. É por isso que ele te deu.}
 {130}{}{Somos leais ao AHS-9.}
-{131}{}{Obedecer.
-}
+{131}{}{Obedecer.}
 {132}{}{Dormir.}
 {133}{}{Consumir.}
 {134}{}{Nós temos seus melhores interesses no coração.}

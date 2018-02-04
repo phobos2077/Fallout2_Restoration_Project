@@ -1,8 +1,7 @@
 {100}{}{Você vê Cameron, um companheiro de tribo.}
 {101}{}{Você vê Cameron.}
 {102}{}{Você vê um homem jovem, com músculos salientes e de ar muito confiante sobre ele.}
-{103}{}{Saudações,
-}
+{103}{}{Saudações,}
 {104}{}{. Eu tenho a honra de ser seu desafio final. Para continuar em sua busca, você deve derrotar
 me em combate desarmado. Vamos começar?}
 {105}{}{Eu tenho perguntas.}
@@ -30,8 +29,7 @@ me em combate desarmado. Vamos começar?}
 {124}{}{Tudo bem.}
 {125}{}{Eu vejo.}
 {126}{}{Não, meu amigo, você precisa apenas derrotar-me. Quando chega a hora, vamos terminar a batalha.}
-{127}{}{Eu compreendo.
-}
+{127}{}{Eu compreendo.}
 {128}{}{Tudo certo.}
 {129}{}{Sim. As armas tendem a distanciar-nos da batalha e dessensibilizar os efeitos de nossas ações
   contra outros. Quando você atinge outro ser humano com seu punho nu, você vê e sente o

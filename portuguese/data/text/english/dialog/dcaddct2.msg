@@ -24,8 +24,7 @@
 {113}{}{Foda-se isso, eu mudei de ideia. Nós não estamos saindo. Nós estamos ficando aqui e lutando.}
 {114}{}{[Ele troca um olhar com os outros invasores e pondera suas palavras.] Você sabe o que? Isso não parece muito ruim. Na verdade, isso poderia funcionar bem,
   Se você realmente acha que mamãe vai por isso. Enquanto você vai falar com ela, vamos começar a limpar este lugar. Ah, e obrigado por ser tão legal sobre as coisas.}
-{115}{}{Deixa pra lá.
-}
+{115}{}{Deixa pra lá.}
 {116}{}{Ela não vai pagar você. Mas estou aqui para lhe oferecer um novo negócio: você e seus amigos se afastam daqui agora, e vocês conseguem manter suas vidas.}
 {117}{}{Tudo bem, eu dei uma chance. Tchau.}
 {120}{}{Esta é uma ótima idéia. Vamos preparar as coisas.}

@@ -5,8 +5,7 @@
 {104}{}{Não é daqui, é?}
 {105}{}{Mãe é uma grande dama, ela não é?}
 {106}{}{Fico feliz que os órfãos do Den tenham um lugar para viver agora.}
-{200}{}{Oi senhor!
-}
+{200}{}{Oi senhor!}
 {201}{}{Estou feliz que as outras crianças não estão roubando mais.}
 {300}{}{Oi moça!}
 {301}{}{Estou feliz que as outras crianças não estão roubando mais.}

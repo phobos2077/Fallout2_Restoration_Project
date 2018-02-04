@@ -61,8 +61,7 @@ canto nordeste da base.}
 {150}{}{Eu vou esperar aqui para o seu retorno, mestre.}
 {151}{}{Tudo bem.}
 {152}{}{Então, por favor instalar a parte, mestre! Por favor, mestre!}
-{153}{}{OK. Acalme-se.
-}
+{153}{}{OK. Acalme-se.}
 {154}{}{Eu parecem ser totalmente funcional agora, mestre. Devo juntar a você?}
 {155}{}{Não é aí que isso encaixa, mestre. Tem certeza de que sabe o que você
   estão fazendo?}

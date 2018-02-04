@@ -12,8 +12,7 @@
 {303}{}{Obrigado pela ajuda.}
 {304}{}{Muito obrigado!}
 {305}{}{Você é um santo.}
-{306}{}{O que você está fazendo? Nós devemos ir.
-}
+{306}{}{O que você está fazendo? Nós devemos ir.}
 {307}{}{Por favor, ajude-nos a escapar.}
 {320}{}{Você é mau!}
 {321}{}{Nós não conversamos com você.}
@@ -39,8 +38,7 @@
 {357}{}{Nós não somos primitivos!}
 {358}{}{Quem essas pessoas pensam que são?}
 {359}{}{Por favor, ajude-nos!}
-{360}{}{Tire-me daqui.
-}
+{360}{}{Tire-me daqui.}
 {380}{}{Você não nos manterá aqui!}
 {381}{}{Não há direito!}
 {382}{}{Não somos ruins!}
@@ -51,8 +49,7 @@
 {387}{}{Por que pessoas más fazem isso?}
 {388}{}{Nós não escravos!}
 {389}{}{Nós não fizemos nada de errado.}
-{390}{}{Solte!
-}
+{390}{}{Solte!}
 {391}{}{O que aconteceu?}
 {392}{}{Grande barulho?}
 {393}{}{Que luta?}
@@ -74,8 +71,7 @@
 {409}{}{Nós não somos primitivos! Vamos sair daqui!}
 {410}{}{O que está acontecendo?}
 {411}{}{É alguém aqui para nos salvar?}
-{412}{}{Por aqui!
-}
+{412}{}{Por aqui!}
 {413}{}{Ajuda! Não nos deixe!}
 {414}{}{O que foi esse tiroteio?}
 {415}{}{O que está acontecendo?}
@@ -84,8 +80,7 @@
 {422}{}{Não pare!}
 {423}{}{Sim!}
 {424}{}{Eu estou indo tão longe quanto possível deste lugar.}
-{425}{}{Continue andando!
-}
+{425}{}{Continue andando!}
 {426}{}{Liberdade! Liberdade finalmente!}
 {440}{}{Qual ruído alto da arma? O que você quer?}
 {441}{}{Ei! O que foi todo esse tiroteio? Os escravistas estão mortos?}
@@ -93,10 +88,9 @@
 {443}{}{Essa foi a touca de Metzger.}
 {444}{}{Oh, nada. Apenas de olho em você. Tchau.}
 {445}{}{Você está livre para ir. Metzger está morto.}
-{446}{}{Você livre.
-}
-{447}{}{amigos. Ele mata Mezgur. Você vai agora.}
-{448}{}{amigo. Ela mata Mezgur. Você vai agora.}
+{446}{}{Você livre.}
+{447}{}{ amigos. Ele mata Mezgur. Você vai agora.}
+{448}{}{ amigo. Ela mata Mezgur. Você vai agora.}
 {460}{}{Ele morto? Eu, obrigado! Nós deixamos rápido. Tchau. Seu amigo.}
 {461}{}{O que? Metzger está morto? Oh, muito obrigado! É melhor deixar antes que outros apareçam. Obrigado novamente.}
 {462}{}{Você é bem-vindo. Agora saia daqui.}
@@ -116,8 +110,7 @@
 {501}{}{Deixa pra lá. Você está livre para ir. Metzger está morto.}
 {510}{}{Wha? Livre? Homens maus foram? Nós vamos agora! Obrigado. Seu amigo! Tchau!}
 {511}{}{Livre? O que? Você matou todos eles? Muito obrigado! É melhor sair enquanto ainda podemos. Obrigado novamente, você é um santo!}
-{520}{}{Maldito!
-}
+{520}{}{Maldito!}
 {521}{}{Apodrecer no inferno!}
 {522}{}{Você vai pagar por isso.}
 {523}{}{Por que você está falando comigo mesmo?}

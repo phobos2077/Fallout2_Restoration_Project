@@ -19,8 +19,7 @@
 {259}{}{I'm looking for a job. Chris sent me by. Is Family Wright hiring?}
 {262}{}{Hey, Keith. I ran into your Mom.}
 {263}{}{Can you tell me about your brother Richard?}
-{264}{}{Deixa pra lá. Desculpe incomodá-lo.
-}
+{264}{}{Deixa pra lá. Desculpe incomodá-lo.}
 {280}{}{Get outta here, dimbulb. Next time you talk to me, I'll plug you fulla holes.}
 {281}{}{Holes holes holes in my soles}
 {282}{}{Shamma Lamma DING DONG}

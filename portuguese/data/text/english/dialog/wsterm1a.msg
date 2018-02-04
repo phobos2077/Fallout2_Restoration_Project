@@ -50,4 +50,4 @@
 {300}{}{The computer seems to have some sort of defense mechanism.}
 {301}{}{You are shocked for }
 {302}{}{ is shocked for }
-{303}{}{pontos de dano.}
+{303}{}{ pontos de dano.}

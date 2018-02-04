@@ -40,8 +40,7 @@ depois de sua viagem através dos resíduos.}
 {248}{}{Qualquer coisa. Agora, o que era?}
 {249}{}{Eu vou fazer o meu melhor para ajudá-lo. O que você precisa saber?}
 {250}{}{Pergunte a distância.}
-{251}{}{Se você insiste.
-}
+{251}{}{Se você insiste.}
 {252}{}{- Acho que sim.}
 {253}{}{Vamos ser curtos. Eu tenho um negócio para correr.}
 {254}{}{Bem, bem. O que é?}
@@ -140,8 +139,7 @@ depois de sua viagem através dos resíduos.}
 {432}{}{Obrigado.}
 {440}{}{Assassino!}
 {441}{}{Infanticida!}
-{442}{}{Por favor saia.
-}
+{442}{}{Por favor saia.}
 {443}{}{Eu não sei lidar com gente como você.}
 {444}{}{Eu não vou descer sem uma briga!}
 {450}{}{Buffy! É você! Como você está? Faz muito tempo!}
@@ -179,10 +177,8 @@ dinheiro. [Becky dá 1000 dólares]}
   mundo um ótimo serviço.}
 {541}{}{Você é mulher maravilhosa. Apesar de eu não toleram as suas ações. Você fez ao mundo um grande serviço.}
 {542}{}{Obrigado.}
-{550}{}{Você não é bem vindo aqui. Por favor saia.
-}
-{551}{}{Por favor saia.
-}
+{550}{}{Você não é bem vindo aqui. Por favor saia.}
+{551}{}{Por favor saia.}
 {560}{}{Por que você destruiu meu alambique? O que eu fiz para você?}
 {561}{}{Fui pago para fazer isso.}
 {562}{}{Eu não tenho que responder a ninguém.}

@@ -13,8 +13,7 @@
 {404}{}{[DEIXAR]}
 {405}{}{PARE COM ISSO! PARE COM ISSO! PARE COM ISSO!}
 {406}{}{[CONTINUAR]}
-{407}{}{[PARE]
-}
+{407}{}{[PARE]}
 {408}{}{(De repente, Jack começa a derreter.) EU ESTOU DERRETENDO, EU ESTOU DERRETENDO, OH QUE MUNDO...}
 {409}{}{O que o fu...}
 {500}{}{Ei, não roube meu suprimentos médicos!}

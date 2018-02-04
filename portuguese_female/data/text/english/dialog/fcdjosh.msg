@@ -10,8 +10,7 @@
 {109}{}{O que isso significa?}
 {110}{}{O que você quer dizer com isso?}
 {111}{}{Digamos que você é o novo garoto no bloco e você não sabe o que está acontecendo no bairro. Há muito mais do que sua simples missão ...}
-{112}{}{Continue.
-}
+{112}{}{Continue.}
 {113}{}{Vá em frente, eu estou ouvindo.}
 {114}{}{Eu já disse o suficiente por enquanto. Eu acho que você deveria se preocupar com seus negócios.}
 {115}{}{Espere, eu preciso fazer a pergunta.}

@@ -47,8 +47,7 @@
  our crises. In truth, though, everyone in the city has a voice.}
 {136}{}{That seems unworkable.}
 {137}{}{That sounds like a good way to run things.}
-{138}{}{Continue.
-}
+{138}{}{Continue.}
 {139}{}{The guy who helped create the city's still in charge? That would make him very, very old.}
 {140}{}{Obrigado. Tchau.}
 {141}{}{Aside from the mutants all being DEAD and this town being DOOMED…}

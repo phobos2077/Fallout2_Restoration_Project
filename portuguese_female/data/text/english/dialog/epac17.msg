@@ -43,8 +43,7 @@
 {221}{}{Que tipos de resultados? Quer dizer que você criou essas criaturas?}
 {222}{}{Então, onde você obter todos os seus equipamentos?}
 {230}{}{Aqui principalmente. A EPA foi originalmente projetada e decorada com todos os tipos de máquinas e, como todos os outros cientistas deixaram, nenhum foi usado. Estou acabando com algumas coisas agora depois de tantos anos ...}
-{231}{}{Deixa pra lá. Eu devo ir agora.
-}
+{231}{}{Deixa pra lá. Eu devo ir agora.}
 {240}{}{Drogas? Dezenas! Ao longo dos anos eu criei mentats, buffouts, stimpaks, kits médicos de diferentes pontos fortes, psicos e muitos outros que você não entenderia. Mas não faço mais isso. Eu criei o Sr. Chemmie! robô para fazer isso por mim. Está no complexo principal. Se você tem a inteligência e habilidades científicas que você diz, então, sinta-se livre para usá-lo para fazer qualquer droga que você deseja.}
 {241}{}{Que medicamentos você criou?}
 {242}{}{Onde posso encontrar o Chemmie!?}
@@ -184,13 +183,11 @@
 {801}{}{Com certeza. O que você precisa?}
 {802}{}{Não, obrigado. Tchau.}
 {803}{}{Bem, eu estava coletando amostras em um dos meus sítios de trabalho e pareço ter deixado uma das minhas ferramentas lá. Normalmente
-  Eu simplesmente iria buscá-lo, mas estou extremamente ocupado no momento e por minha vida não consigo lembrar o exato
-  local em que eu deixei. Em qualquer caso, siga a noroeste deste edifício e você encontrará a área onde deixei minha ferramenta. Deve
-  ser um bolo de peças.
-}
+Eu simplesmente iria buscá-lo, mas estou extremamente ocupado no momento e por minha vida não consigo lembrar o exato
+local em que eu deixei. Em qualquer caso, siga a noroeste deste edifício e você encontrará a área onde deixei minha ferramenta. Deve
+ser um bolo de peças.}
 {804}{}{Eu irei direto para isso.}
-{805}{}{Não interessado. Tchau.
-}
+{805}{}{Não interessado. Tchau.}
 {806}{}{Bem, espere. Tem certeza que você não vai me ajudar com uma coisinha?}
 {810}{}{Excelente! Agora, preciso voltar ao trabalho. [Para si mesmo.] Tudo vai de acordo com o plano.}
 {811}{}{[FEITO]}

@@ -45,8 +45,7 @@
   [O gato mostra seu sorriso dentado.] Eles queriam um voluntário para um de seus projetos. Era para escoteiros e coisas do gênero, supostamente
   torná-lo mais ágil e flexível. Eu gostei do som desse * leers *. De qualquer forma, eles me deram esse tiro, me colocaram abaixo e
   A próxima coisa que eu sabia, eu tinha esses dentes, e eu sentia ... mais nítida? Tipo de predatório.}
-{302}{}{Continue.
-}
+{302}{}{Continue.}
 {303}{}{Bem, aparentemente, o experimento não estava indo como planejado e tudo o que eles colocaram dentro de mim não estava sentado
   bem com o meu sistema. Eu não sei o que eles queriam dizer com isso, já que eu me senti melhor do que nunca. Eles decidiram me jogar
   no congelador de cryo até descobrir o que fazer comigo.}

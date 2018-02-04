@@ -16,8 +16,7 @@
 {165}{}{Hum, eu preciso ir. Tchau.}
 {166}{}{Whee!}
 {167}{}{Eu gosto deles grandes e idiotas.}
-{168}{}{Este sou eu!
-}
+{168}{}{Este sou eu!}
 {169}{}{Yay!}
 {170}{}{Oh. Não. Tchau.}
 {171}{}{Que grande menino você é!}
@@ -47,10 +46,8 @@
 {196}{}{OK, está feito. Tchau.}
 {197}{}{Que é isso?}
 {198}{}{OK. Tchau.}
-{199}{}{Foi bom.
-}
-{200}{}{Tchau tchau.
-}
+{199}{}{Foi bom.}
+{200}{}{Tchau tchau.}
 {201}{}{Não recebi o suficiente para isso.}
 {202}{}{Não é como se você valesse o dinheiro de qualquer forma.}
 {203}{}{Você vai sentir a minha falta.}
@@ -60,11 +57,9 @@
 {207}{}{OK. Tchau.}
 {208}{}{Sim, certo.}
 {209}{}{Whoo!}
-{210}{}{Até mais.
-}
+{210}{}{Até mais.}
 {211}{}{Adeus.}
-{212}{}{Tchau tchau.
-}
+{212}{}{Tchau tchau.}
 {213}{}{Ele vai custar us $}
 {214}{}{ para uma sessão. Pagar primeiro.}
 {215}{}{Siga-me.}

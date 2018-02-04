@@ -32,8 +32,7 @@
 {131}{}{Oh. Right. I'm}
 {132}{}{Sure. My name is}
 {133}{}{Sim.}
-{134}{}{Esqueça.
-}
+{134}{}{Esqueça.}
 {135}{}{Not everyone is granted a chance to see the Emperor. You must first prove your worth. Are you willing to prove yours?}
 {136}{}{Sim.}
 {137}{}{No. I've had enough tests in the last several months to last me a lifetime.}
@@ -41,8 +40,7 @@
 {139}{}{[FEITO]}
 {140}{}{Insults will get you nowhere, traveler, except removed from the Steel Palace. Kindly control your tongue.}
 {141}{}{Make me.}
-{142}{}{Bem.
-}
+{142}{}{Bem.}
 {143}{}{The Emperor remains hidden from prying eyes. As my job is to act as the Emperor's screen, I cannot and will not tell you where he is.}
 {144}{}{Eu tenho mais perguntas.}
 {145}{}{Adeus.}
@@ -63,8 +61,7 @@
 {160}{}{That's my real name! Now let me talk to the Emperor!}
 {161}{}{Excellent. This is what I require of you: there is a small military base north of here, called Navarro. There are numerous vertibirds there. We need plans and blueprints to manufacture some of our own. Fetch those and you will be on your way to seeing the Emperor.}
 {162}{}{Você tem isso.}
-{163}{}{Esqueça.
-}
+{163}{}{Esqueça.}
 {164}{}{Will you reconsider taking our test?}
 {165}{}{Não.}
 {166}{}{Oh, all right. I'll do it.}

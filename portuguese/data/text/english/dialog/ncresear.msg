@@ -48,8 +48,7 @@
 {278}{}{I'm one of the new personnel assigned here.}
 {279}{}{I'm looking for Myron. Is he around?}
 {280}{}{Are those test results you have on that clipboard? Can I see them?}
-{282}{}{Deixa pra lá. Desculpe incomodá-lo.
-}
+{282}{}{Deixa pra lá. Desculpe incomodá-lo.}
 {295}{}{This area is not open for…visitors. Leave or I will call the guards.}
 {296}{}{But hey, I had some questions for you…}
 {298}{}{Are those test results you have on that clipboard? Can I see them? I'm something of a researcher myself.}

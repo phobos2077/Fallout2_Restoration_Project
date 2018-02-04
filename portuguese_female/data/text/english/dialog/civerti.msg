@@ -30,7 +30,7 @@
   doe, e não lembro da última vez que comi uma refeição decente. Estes são os momentos em que vivemos. Não há volta atrás.
   É hora de mostrar ao mundo do que}
 {242}{}{ é feito. Pode vir, Enclave!}
-{243}{}{Hehe...Voa passarinho, voa!}
+{243}{}{Hehe...Voa passarinho, voa!  }
 {244}{}{ salve o dia agora.}
 {300}{}{[Você subiu na aeronave e acessa o terminal piloto.] Bem-vindo ao PoseidoNet. Este terminal é limitado à transmissão entre o Enclave Vertibird e a plataforma de ancoragem. Comando?}
 {301}{}{Status.}

@@ -5,8 +5,7 @@
  we appreciate all you've done. It's hard to believe that we can finally live in peace without fear of Vault City's goons
  coming to take us from our homes.}
 {201}{}{Glad to be of assistance. You seem to be quite busy here. Need some help with anything?}
-{202}{}{Sem problemas. Até a próxima.
-}
+{202}{}{Sem problemas. Até a próxima.}
 {300}{}{Actually, I *could* use some help. Now that we're becoming more organized, we're starting to see our numbers
  grow. The problem is, I'm not sure we'll have enough food to go around. My husband has attempted to get the caravans
  to stop here, but they don't' think we're worth their time. I don't suppose you could get them to reconsider?}
@@ -43,8 +42,7 @@
 {406}{}{Thanks for everything! Be sure to stop by again once we expand the place. I'll finally have a working kitchen to cook in.}
 {410}{}{Olá novamente.}
 {411}{}{You seem to be quite busy here. Need some help with anything?}
-{412}{}{Deixa pra lá. Tchau.
-}
+{412}{}{Deixa pra lá. Tchau.}
 {420}{}{How did it go?}
 {421}{}{How did what go? Oh, the merchant. Actually, I lost interest with him and wandered off.}
 {430}{}{What!? You realize this was our last chance to make arragements with him. We look like fools now standing him up.

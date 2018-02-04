@@ -9,8 +9,7 @@
   Batalha para lembrar!}
 {108}{}{Tudo bem.}
 {109}{}{Esperar. - Me mudar de idéia. Por que você está aqui?}
-{110}{}{Estou pronto. Vamos festejar.
-}
+{110}{}{Estou pronto. Vamos festejar.}
 {111}{}{Espere um minuto. Por que você está aqui?}
 {112}{}{Eu acho difícil acreditar que um soldado Enclave esteja aqui para me salvar.
   Mais provável, você está aqui para criar minhas esperanças para que você possa derrubá-las.}

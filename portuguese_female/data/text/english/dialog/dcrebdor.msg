@@ -10,8 +10,7 @@
 {215}{}{Becky tem as bebidas mais baratas da cidade.}
 {230}{}{Afaste-se disso agora mesmo.}
 {231}{}{Não toque nisso novamente.}
-{232}{}{Recuar!
-}
+{232}{}{Recuar!}
 {233}{}{Deixe isso sozinho.}
 {234}{}{O que você pensa que está fazendo?}
 {240}{}{Ladrão!}

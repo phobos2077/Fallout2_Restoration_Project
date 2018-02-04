@@ -92,8 +92,7 @@
 {191}{}{A scientist from NCR wants to try an experimental drug that'll wipe out mutants. Be careful of what you eat and drink.}
 {192}{}{It looks like you were right about Chad skimming money. He lied to the Gecko rep about a miners' strike to justify a price hike. I'm guessing he's pocketing the profit.}
 {193}{}{Chad kept about $1000 from the last uranium shipment for himself. He's planning on bailing outta town. I got a briefcase of documents to prove it.}
-{194}{}{Nada. Esqueça.
-}
+{194}{}{Nada. Esqueça.}
 {195}{mcs24}{Tunnels under the city? Guess it's not that surprising with the mines around. You'll keep looking around for those folks, right? }
 {196}{}{Certo.}
 {197}{mcs25a}{They're dead? Damn… I'll tell the families myself. }
@@ -103,8 +102,7 @@
 {201}{mcs26}{Right. Me and my deputies will take it from here...And, thanks. I don't forget things like this.}
 {202}{}{No prob. Bye.}
 {203}{mcs27}{What is it people got against mutants? We'll be on the lookout. Thanks. The town owes you. And I never forget things like this.}
-{204}{}{O prazer é meu. Tchau.
-}
+{204}{}{O prazer é meu. Tchau.}
 {205}{mcs28}{Keep your eye on him, will you? I want to catch him red-handed.}
 {206}{}{Não há problema.}
 {207}{mcs29}{Well, in that case, we'd better be sure to stop him. Want to come along?}
@@ -256,8 +254,7 @@
 {352}{}{Não importa.}
 {353}{mcs114}{What? Where the hell did you hear that?}
 {354}{}{So... you AREN'T sterile?}
-{355}{}{Deixa pra lá.
-}
+{355}{}{Deixa pra lá.}
 {356}{mcs116}{Nope. Well, not now. It takes a few years after bein' dipped to get the juices flowing again. Why?}
 {357}{}{Oh. Uh. Never mind.}
 {360}{}{You have exposed the conspiracy against the mutants of Broken Hills.}
@@ -269,8 +266,7 @@
 {440}{}{About a scientist from NCR...}
 {500}{}{You've got a lot of nerve showing your face here again.}
 {501}{}{Never mind. Could I ask you something?}
-{502}{}{Deixa pra lá. Tchau.
-}
+{502}{}{Deixa pra lá. Tchau.}
 {600}{}{I don't feel so good, boss.}
 {601}{}{Não faça isso.}
 {602}{}{Don't you think this place is a little creepy?}

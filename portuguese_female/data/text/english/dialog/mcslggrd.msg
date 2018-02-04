@@ -7,8 +7,7 @@
 {211}{}{Bwahahahaha!}
 {212}{}{I'm not going to say a word.}
 {213}{}{Oh god! You're killing me! Do it again!}
-{214}{}{Que idiota!
-}
+{214}{}{Que idiota!}
 {215}{}{Hahahaha!}
 {220}{}{We have been instructed to take all surfacers to Vegeir. You will not be harmed. Please
  come with us.}

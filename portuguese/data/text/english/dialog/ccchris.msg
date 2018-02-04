@@ -77,8 +77,7 @@ destes vertibirds, a quem eu deveria dizer?}
 {160}{}{Diga Hubologistas.}
 {161}{}{Pegue a escolha. Você diz a Shi ou à Irmandade do Aço ou Hubologistas.
   Todos estão interessados.}
-{162}{}{Diga a mim. Estarei por perto.
-}
+{162}{}{Diga a mim. Estarei por perto.}
 {163}{}{Você pode dizer aos Shi.}
 {164}{}{Você pode dizer que a Irmandade do Aço.}
 {165}{}{Você pode dizer aos Hubologistas.}

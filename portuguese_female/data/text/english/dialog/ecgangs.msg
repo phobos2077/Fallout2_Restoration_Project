@@ -5,6 +5,5 @@
 {104}{}{Você já teve um sanduíche de juncos?}
 {105}{}{Scram!}
 {106}{}{Você vai se arrepender!}
-{107}{}{Biscoito Duro!
-}
+{107}{}{Biscoito Duro!}
 {108}{}{A próxima vez.}

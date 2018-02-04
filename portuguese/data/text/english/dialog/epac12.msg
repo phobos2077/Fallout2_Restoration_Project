@@ -109,15 +109,13 @@ Você está desperdiçando-a aqui. Venha comigo e talvez possamos fazer algo.}
 {323}{}{Uau, a maior parte daquilo passou pela cabeça. Mas se eu entendo corretamente, você está dizendo que você e seus pais enganaram os chineses para pensar que você era leal.}
 {324}{}{Seus pais se esforçaram para garantir que as verdadeiras lealdades de sua família ficassem seguras.}
 {325}{}{Toda a guerra é baseada em decepções. Meus pais adoraram seu país. Eles apenas odiavam as pessoas que a dirigiam e achavam que seria melhor como democracia. Do jeito que eles viram, eles não estavam traindo a China - eles estavam trabalhando contra um governo que eles não acreditavam que era bom para isso.}
-{326}{}{Continue.
-}
+{326}{}{Continue.}
 {327}{}{Eu me casei com um funcionário que trabalhou para o Ministério da Defesa Nacional da China. Eu o escolhi porque ele estava mais disposto a falar sobre seu trabalho quando estávamos juntos. Então eu desempenhava o papel de esposa obediente, enquanto secretamente relatava informações relevantes de volta aos meus superiores americanos. Mas então, as coisas ficaram complicadas.}
 {328}{}{Como assim?}
 {329}{}{Meu pai foi contactado pelo Dr. Raynard Muldrake, um colega antigo com quem ele trabalhou durante um tempo nos Estados Unidos. O Dr. Muldrake solicitou urgentemente uma reunião privada, mas meu pai estava com pouca saúde na época e não estava em condições de viajar para a América. O Dr. Muldrake concordou em me encontrar em seu lugar.}
 {330}{}{Então, o que aconteceu?}
 {331}{}{Descobriu-se que Muldrake fazia parte de um projeto de alto nível secreto em uma instalação de pesquisa West Tek no sul da Califórnia. O projeto começou de forma inocente, como uma tentativa de encontrar uma maneira de tornar as pessoas imunes à Nova Peste, mas rapidamente evoluiu para algo mais sinistro. Algo chamado Vírus Evolutivo Forçado, ou VEF.}
-{332}{}{Continue.
-}
+{332}{}{Continue.}
 {333}{}{Tinha o potencial de melhorar a força e o intelecto de uma pessoa, mas o VEF era perigosamente instável. Apesar disso, os militares esperavam usá-lo para criar um exército de super-soldados que poderia esmagar os chineses.}
 {334}{}{O Dr. Muldrake estava contra a mudança na direção do projeto, mas manteve sua boca fechada com medo por sua vida. Mas quando soube que os militares estavam testando o vírus em cidades americanas pouco inocentes, ele sabia que tinha que agir. O mundo precisava saber a verdade.}
 {335}{}{Foi então que ele entrou em contato com o seu pai...}
@@ -277,8 +275,7 @@ Você está desperdiçando-a aqui. Venha comigo e talvez possamos fazer algo.}
 {2130}{}{Eu mal posso ver, porra.}
 {2131}{}{Eu odeio ser cega.}
 {2330}{}{Que tal você me dizer o seu nome? Eu sou }
-{3000}{}{Melhor.
-}
+{3000}{}{Melhor.}
 {3001}{}{Apreciá-lo. Essas são uma dádiva de Deus.}
 {3002}{}{Eu me sinto melhor já. Obrigado.}
 {3003}{}{Obrigado. Eu precisava disso.}

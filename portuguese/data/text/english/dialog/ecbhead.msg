@@ -26,14 +26,13 @@
 {122}{}{Zzzzzzz ... Eu não quero me levantar ainda ... Zzz Sss}
 {123}{}{Zzsssccs...hein?}
 {124}{}{Wha--?}
-{125}{}{MANTENHA SUAS MÃOS DANADAS LONGE DE MIM! }
+{125}{}{MANTENHA SUAS MÃOS DANADAS LONGE DE MIM!}
 {126}{}{O jogador deve se virar, dar alguns passos para trás, depois voltar e enfrentar o monumento.}
 {127}{}{*Ahem*}
 {128}{}{QUEM SE ATREVE A APROXIMAR-SE DA CABEÇA SAGRADA DO MORADOR DO VAULT?!}
 {129}{}{Sou Eu, o Escolhido.}
 {130}{}{HA HA HA HA HA HA!}
-{131}{}{*VOCÊ*?! O ESCOLHIDO?!
-}
+{131}{}{*VOCÊ*?! O ESCOLHIDO?!}
 {132}{}{VOCÊ NÃO É MAIS GRANDE DO QUE MEU DEDO!}
 {133}{}{VOCÊ *NÃO* É O ESCOLHIDO.}
 {134}{}{Sim, eu sou.}
@@ -62,8 +61,7 @@
 {200}{}{(12 Horas Depois)}
 {1129}{}{Eu Escolhido.}
 {1134}{}{Eu também sou.}
-{1136}{}{Sou também!
-}
+{1136}{}{Sou também!}
 {1138}{}{Uh-huh.}
 {1140}{}{Uh-huh.}
 {1142}{}{Hum...hum...}

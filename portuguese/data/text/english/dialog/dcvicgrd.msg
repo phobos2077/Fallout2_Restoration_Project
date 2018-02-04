@@ -1,8 +1,7 @@
 {100}{}{Você vê um escravista.}
 {150}{}{Ele parece estar prestando muita atenção à porta ao lado dele.}
 {200}{}{Hey! Mãos fora.}
-{201}{}{É isso aí!
-}
+{201}{}{É isso aí!}
 {210}{}{Problemas?}
 {211}{}{Praticando?}
 {212}{}{Hmmm.}
@@ -78,8 +77,7 @@
 {395}{}{Sim. Aqui.}
 {396}{}{Não. Eu vou voltar.}
 {397}{}{Quem é o seu chefe?}
-{398}{}{Deixa pra lá. Tchau.
-}
+{398}{}{Deixa pra lá. Tchau.}
 {410}{}{Pare de me incomodar. Vá falar com Metzger. Ele é o patrão.}
 {411}{}{Deixe-me em paz! Qual é o seu problema?}
 {412}{}{Eu disse conversar com Metzger!}
@@ -105,8 +103,7 @@
 {474}{}{Desculpe, não posso pagar isso.}
 {480}{}{Tudo bem, veja se eu me importo.}
 {481}{}{Tudo bem.}
-{482}{}{Bem.
-}
+{482}{}{Bem.}
 {490}{}{Não, desculpe.}
 {491}{}{Eu disse não. Agora saia. Você deve conversar com Metzger}
 {492}{}{Tudo bem.}

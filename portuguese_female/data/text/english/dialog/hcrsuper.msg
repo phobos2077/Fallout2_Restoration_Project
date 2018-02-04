@@ -10,8 +10,7 @@
 {109}{}{O que é este lugar?}
 {110}{}{I want some uranium.}
 {111}{}{Nada.}
-{112}{}{Esqueça. Tchau.
-}
+{112}{}{Esqueça. Tchau.}
 {113}{}{Look son, I'm sorry that you've got no mind. But you can't be here. Run along now.}
 {114}{}{[FEITO]}
 {115}{}{You can't be here. It's dangerous. Run along now.}

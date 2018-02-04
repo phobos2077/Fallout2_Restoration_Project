@@ -14,8 +14,7 @@
 {160}{}{Nada. Só de passagem.}
 {161}{}{O que diabos você está falando?}
 {162}{}{Você roubou um medalhão daquela casa assombrada?}
-{163}{}{Nada, esquece.
-}
+{163}{}{Nada, esquece.}
 {164}{}{Esqueça. Vou matá-lo agora e resolver as peças mais tarde.}
 {165}{}{Eu-eu não sei do que você está falando.}
 {166}{}{Oh, eu acho que você sabe! Você roubou o medalhão de uma garota morta, e agora seu espírito não pode descansar.}
@@ -117,8 +116,7 @@
   merda. Eu sou o único por milhas que pode conseguir as melhores coisas.}
 {254}{}{Esqueça. Posso te perguntar uma coisa?}
 {255}{}{OK, eu vou comprá-lo.}
-{256}{}{Deixa pra lá. Tchau.
-}
+{256}{}{Deixa pra lá. Tchau.}
 {257}{}{Vault ... Vault ... Vault 13? Não, nunca ouvi falar disso. Não me diga que eles apareceram
   com outro novo químico! Nada pode vencer o jet!}
 {258}{}{Não, seu idiota.}

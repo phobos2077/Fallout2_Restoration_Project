@@ -69,5 +69,4 @@
 {156}{}{You were an entertaining little monkey, but now I'm tired of you. Get out of here, you dumb-ass.}
 {157}{}{Numb-ass? Bye bye.}
 {158}{}{Grrr! Me kill!}
-{200}{}{Pode vir!
-}
+{200}{}{Pode vir!}

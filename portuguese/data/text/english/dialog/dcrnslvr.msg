@@ -54,8 +54,7 @@
 {328}{}{Bom lance.}
 {329}{}{Vamos lá. Eu quero o meu dinheiro.}
 {335}{}{Tempo de bônus!}
-{336}{}{Arrebentar.
-}
+{336}{}{Arrebentar.}
 {337}{}{Em volta deles e vamos começar.}
 {338}{}{Pare de foder por aí. Vamos.}
 {339}{}{Porra, essa corrida parece doce.}

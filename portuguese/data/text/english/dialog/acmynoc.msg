@@ -15,8 +15,7 @@ segurando uma lança.}
 {159}{}{O que você pode me dizer de homens que têm relações comerciais com a nossa aldeia?}
 {160}{}{O que você pode me dizer sobre esse objeto que eu tenho de
 um cofre?}
-{161}{}{Nada, esquece.
-}
+{161}{}{Nada, esquece.}
 {162}{}{Muito bem, mas não perca muito tempo. Sem o GECK,
 estamos lascados.}
 {163}{}{Eu sei, não se preocupe-eu tenho tudo sob controle.}
@@ -159,17 +158,13 @@ o Ancião fala de um racionamento de energia que nós temos. Temo pelo futuro de A
 {610}{}{Oh, é isso que eu pensei que você quisesse dizer. Mas, uh, por que você não continua e me conta qual é o negócio dele novamente. Eu realmente adoro essa história.}
 {611}{}{[Mynoc murmura algo em voz baixa e sacode a cabeça antes de começar seu conto.] Como você deveria saber, ele já foi o maior guerreiro da nossa tribo. Ele levou muitas expedições para o mundo exterior, e foi lá onde a corrupção começou a envenenar sua mente.}
 {612}{}{Ele ficou apaixonado pelos caminhos dos Estranhos, onde o poder poderia trazer respeito e luxo a todos. Ele começou a se ver como superior a seus companheiros de tribo que se contentavam em viver uma vida mais simples.}
-{613}{}{Que idiota.
-}
-{614}{}{Continue.
-}
+{613}{}{Que idiota.}
+{614}{}{Continue.}
 {615}{}{Quando nossa tribo caiu nesses tempos difíceis, ele se considerou o salvador de nosso povo e entrou no Templo do Julgamento para provar a si mesmo como o Escolhido.}
-{616}{}{Continue.
-}
+{616}{}{Continue.}
 {617}{}{Nunca mais eu quero ouvir essa história. Tchau.}
 {618}{}{Ele atravessou o Templo, alcançando rapidamente o teste final: uma batalha manual com um colega guerreiro.}
-{619}{}{Continue.
-}
+{619}{}{Continue.}
 {620}{}{Aguarde, ele explodiu a porta e tudo? Nós o reconstruímos toda vez que alguém atravessa o templo? Falando nisso, quem construiu o templo em primeiro lugar?}
 {621}{}{Eu não tenho tempo para responder a todas as suas perguntas tolas. Você quer que eu terminar o conto, ou não?}
 {622}{}{Desculpe. Por favor, continue.}

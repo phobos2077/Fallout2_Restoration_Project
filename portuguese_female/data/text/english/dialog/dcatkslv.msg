@@ -23,8 +23,7 @@
 {302}{}{Você não magoar a família!}
 {303}{}{Você não levar a família!}
 {304}{}{Eu proteger!}
-{305}{}{Eu feri você!
-}
+{305}{}{Eu feri você!}
 {306}{}{Você paga!}
 {307}{}{Morra!}
 {308}{}{Eu vou machucar você.}

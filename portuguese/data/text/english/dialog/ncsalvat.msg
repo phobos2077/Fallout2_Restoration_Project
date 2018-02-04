@@ -170,8 +170,7 @@
 {621}{}{How about…}
 {630}{}{(Nods) That is a…good name. Now go speak to Mason. He will have…
 something for you.}
-{640}{}{Saudações,
-}
+{640}{}{Saudações,}
 {645}{}{I have no further need of your services, }
 {650}{}{...}
 {651}{}{...hurkkk...}

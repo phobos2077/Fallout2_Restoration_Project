@@ -97,8 +97,7 @@
 {196}{}{Adeus.}
 {197}{}{Ainda está misturando as ervas, hein? Até logo.}
 {198}{hak021}{Todos temos jardins. Que suas jornadas atuem como tendências. Fique bem. Devo procurar audiência com os deuses agora.}
-{199}{}{Até mais.
-}
+{199}{}{Até mais.}
 {200}{}{Estou a apostar que você carrega seu público com você onde quer que você vá. Fique bem.}
 {201}{hak022}{Olhar para o norte, Escolhido, e o caminho estará aberto.}
 {202}{}{Tudo bem. Obrigado.}
@@ -115,8 +114,7 @@
 {213}{hak027}{Bem-vindo, escolhido. Abençoe-nos com palavras que o GECK será encontrado em breve. Nossa aldeia está aflita, nossa necessidade é grande, nosso tempo, curto.}
 {214}{}{Nuh.}
 {215}{}{E a sua capacidade de falar normalmente, inexistente. Eu ainda estou tentando.}
-{216}{}{Eu estou trabalhando nisso.
-}
+{216}{}{Eu estou trabalhando nisso.}
 {217}{}{Saia das minhas costas, velho. Estou fazendo o melhor que posso.}
 {218}{}{Eu ainda estou procurando, santo. Espero ter o GECK em breve.}
 {219}{hak028a}{Possa a Terra amortecer os passos que você deve tomar.}
@@ -150,8 +148,7 @@
 {247}{hak101}{Escolhido - a sombra da escuridão chegou antes de você.}
 {248}{}{Owwww!}
 {249}{}{O que aconteceu?}
-{250}{}{Você parece mal. Deixa-me ajudar.
-}
+{250}{}{Você parece mal. Deixa-me ajudar.}
 {251}{hak102}{Filho da Natureza, como podemos colocar uma carga tão pesada sobre seus ombros? (Suspiro) Seu povo foi levado.}
 {252}{}{Uhh?}
 {253}{hak103}{Sim. Foi. Muitas almas escuras chegaram, montando as aves de metal como um bando de bichos de carniça com fome, escondendo seu mal em peles brilhantes.}
@@ -165,8 +162,7 @@
 {261}{hak107}{Agradeço aos antepassados. Agora, minha alma pode se juntar à canção eterna. Viaje em segurança, escolhido.}
 {262}{}{Ir?}
 {263}{hak108}{Vai!...}
-{264}{}{Tchau tchau.
-}
+{264}{}{Tchau tchau.}
 {265}{hak109}{Almas das trevas chegaram. Eles levaram todos.}
 {266}{}{Almas escuras? O que você quer dizer?}
 {267}{hak110}{Chegou uma onda de vento. Sobre grandes libélulas que cuspiram chamas. Os homens doentios se arrastaram das barrigas dos animais e trouxeram a morte aos nossos guerreiros.}

@@ -12,12 +12,10 @@
 {111}{}{Adeus.}
 {112}{}{Deixe-me dar uma olhada nisso. Hmm. Sim. Eu vou ter que cobrar de você, é claro.}
 {113}{}{Quanto?}
-{114}{}{Esqueça.
-}
+{114}{}{Esqueça.}
 {115}{}{Eu posso curar ... mas por um preço, você entende.}
 {116}{}{Quanto?}
-{117}{}{Esqueça.
-}
+{117}{}{Esqueça.}
 {118}{}{Quem sou eu? Eu sou o Dr. Fung. Eu ensino e eu curo.}
 {119}{}{Dr. Fung? Você conhece Doc Holliday?}
 {120}{}{Prazer em conhecê-lo. Eu preciso de cura.}
@@ -30,24 +28,19 @@
 {127}{}{Provavelmente. Eu tenho que ir. Tchau.}
 {128}{}{Isso custará $100.}
 {129}{}{Eu vou pagar.}
-{130}{}{Esqueça.
-}
+{130}{}{Esqueça.}
 {131}{}{Isso parece ser grave. Isso custará $200.}
 {132}{}{Eu vou pagar.}
-{133}{}{Esqueça.
-}
+{133}{}{Esqueça.}
 {134}{}{São feridas impressionantes. $300 é todo o necessário para obter meus serviços.}
 {135}{}{Eu vou pagar.}
-{136}{}{Esqueça.
-}
+{136}{}{Esqueça.}
 {137}{}{Por tanto dano, tenho medo de ter que pedir $400.}
 {138}{}{Eu vou pagar.}
-{139}{}{Esqueça.
-}
+{139}{}{Esqueça.}
 {140}{}{Sentar-se. Você precisará quando você ouvir minha conta. Os membros incapacitados custam $600.}
 {141}{}{Eu vou pagar.}
-{142}{}{Esqueça.
-}
+{142}{}{Esqueça.}
 {158}{}{O que? Você não tem o dinheiro? Como você espera que eu sobreviva se você me pedir cura gratuita?}
 {159}{}{Você tem stimpacks?}
 {160}{}{Não, obrigado.}
@@ -115,8 +108,7 @@
 {222}{}{Nenhum, na verdade. Tchau.}
 {223}{}{Excelente. Eu vou precisar de um conjunto de armadura de combate e, oh, $5500. Você vai precisar de dois dias e a capacidade de não pegar no crostas.}
 {224}{}{Vamos fazer isso.}
-{225}{}{Esqueça. Até mais.
-}
+{225}{}{Esqueça. Até mais.}
 {226}{}{A atualização dérmica, hein? Isso vai custar-lhe vários dias de sua vida, $ 33000, armadura de combate e um novo conjunto de cicatrizes que você nunca perderá enquanto viver.}
 {227}{}{Então? Posso pagar TUDO isso.}
 {228}{}{Hmm. Eu não acho que eu quero pagar tanto. Até mais.}

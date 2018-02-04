@@ -60,8 +60,7 @@
 {340}{}{Acho que não. Agora cai fora.}
 {341}{}{Tudo bem.}
 {342}{}{Mas!}
-{343}{}{Bem.
-}
+{343}{}{Bem.}
 {350}{}{Sim, eu aposto que você está. Quem o enviou?}
 {351}{}{Sim, você já disse isso, fodido. Quem te enviou?}
 {352}{}{Quem você acha, idiota? Agora, pare de rodeios e me deixar entrar.}
@@ -69,8 +68,7 @@
 {354}{}{Ok, você não vai se arrepender.}
 {360}{}{O que? Sair daqui!}
 {361}{}{Mas...}
-{362}{}{Bem.
-}
+{362}{}{Bem.}
 {370}{}{Agora, o que diabos o patrão quer? Outra estúpida do caralho inspeção?}
 {371}{}{Sim?}
 {372}{}{O que agora?}
@@ -86,20 +84,17 @@
 {391}{}{Sim, ele está dando uma festa esta noite em seu lugar. Deve ser uma explosão. Eu convido você, querida, mas é só para seus amigos mais próximos.}
 {392}{}{Dece algumas cervejas para mim.}
 {393}{}{Eu entendo, obrigado. Divertir-se.}
-{394}{}{Até mais.
-}
+{394}{}{Até mais.}
 {400}{}{É melhor você acreditar! Nós vamos beber até cair!}
 {401}{}{Adeus.}
 {410}{}{Que merda você se importa. Cai fora.}
 {411}{}{Sim, assim-sim.}
 {412}{}{Você está tentando me irritar?}
 {413}{}{Não é mau.}
-{414}{}{Cansado.
-}
+{414}{}{Cansado.}
 {415}{}{Tudo bem.}
 {416}{}{Vencê-lo.}
-{417}{}{Estive melhor.
-}
+{417}{}{Estive melhor.}
 {418}{}{Oh.}
 {430}{}{Não posso esperar por essa festa. Espero que ele tenha algumas putas lá novamente.}
 {431}{}{Meu amigo realmente sabe como dar uma festa.}

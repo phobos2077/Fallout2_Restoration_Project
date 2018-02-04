@@ -8,8 +8,7 @@
 {107}{}{Quem é você?}
 {108}{}{I want to learn to fight like you. Teach me.}
 {109}{}{Eu gostaria de desafiá-lo.}
-{110}{}{Esqueça.
-}
+{110}{}{Esqueça.}
 {111}{}{Get out of here, idiot. I don't have anything to say to you.}
 {112}{}{GRR!}
 {113}{}{I'm Lo Pan. I'm the best fighter in town, except for the Dragon. And one day, he's a dead man. When that happens, I'll teach others my style.}
@@ -38,8 +37,7 @@
 {136}{}{Because otherwise the peasants will curse me and it'll make it that much harder to cow them when I've beaten the Dragon.}
 {137}{}{Got it. Let's start the test.}
 {138}{}{Tenho-o. Eu tenho mais perguntas.}
-{139}{}{Certo. Até mais.
-}
+{139}{}{Certo. Até mais.}
 {140}{}{You want to fight me to the death, or do you just want to see who's better?}
 {141}{}{Até o final. Eu posso te vencer.}
 {142}{}{Um teste de habilidades. Eu não quero matar você.}
@@ -101,8 +99,7 @@
 {219}{}{You have learned well.}
 {220}{}{Você já derrotou a meus homens. Outros não desejam desafiar você.}
 {221}{}{You have helped me and did not even know it. With the Dragon dead I no longer have to follow those outdated moral traditions.}
-{222}{}{Foi um prazer. Tchau.
-}
+{222}{}{Foi um prazer. Tchau.}
 {223}{}{You're welcome. Bye bye.}
 {224}{}{You're welcome. Can I ask a question?}
 {225}{}{Bem vinda. Eu pergunto?}

@@ -29,8 +29,7 @@
 {602}{}{[John senta-se em sua cadeira e derrama um tiro de uísque.] Tudo começou há alguns dias. Minha esposa e
   Eu estavamos nos preparando para a cama quando ouvimos alguns ruidos no campo. Agarrei minha lanterna e corri para fora para ver se
   Eu poderia encontrar a fonte do barulho. Assim que cheguei aos campos, os ruídos pararam.}
-{603}{}{Continue.
-}
+{603}{}{Continue.}
 {604}{}{Olha, eu realmente preciso ir.}
 {605}{}{Bem, na noite seguinte, não ouvimos nada. Mas a noite depois disso, ouvimos que o ruído surgiu do campo
   novamente. Desta vez, eu me arrastei para a janela e olhei para fora. Olhando para a escuridão, vi uma

@@ -40,8 +40,7 @@
 {187}{}{Um tiro de whisky é $5. Pague primeiro.}
 {188}{}{Hein?}
 {189}{}{Aqui está o dinheiro.}
-{190}{}{Mudei de ideia.
-}
+{190}{}{Mudei de ideia.}
 {191}{}{Estou com pouco dinheiro. Posso ter uma guia?}
 {192}{}{Posso fazer uma pergunta?}
 {193}{}{Tenho que ir.}

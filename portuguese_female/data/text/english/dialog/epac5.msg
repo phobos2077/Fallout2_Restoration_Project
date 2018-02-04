@@ -10,8 +10,7 @@
 {230}{}{Garanto-vos que estamos trabalhando diligentemente para resolver todos os problemas. Tivemos um pouco de downsizing, mas as coisas estão olhando para cima. Sinto-me confiante de que todas as quotas serão alcançadas no devido tempo.}
 {231}{}{Quais as cotas? Você não faz nenhum sentido. Você realmente faz alguma coisa aqui? Você pode me ajudar, ou não?}
 {240}{}{Tudo depende da sua perspectiva. Minhas mãos estão ligadas a este assunto, mas ficaria encantado de ajudá-lo se pudesse.}
-{241}{}{Esqueça. Tchau.
-}
+{241}{}{Esqueça. Tchau.}
 {242}{}{Me desculpe, eu não poderia ser de mais ajuda.}
 {243}{}{Obrigado pelo seu tempo.}
 {244}{}{Eu não quero comentar.}

@@ -91,8 +91,7 @@ cofres ultimamente.}
 {172}{}{Tudo bem.}
 {173}{}{Boa gente acaba por último. Eu me pergunto o que ele está fazendo?}
 {174}{}{Eu vejo.}
-{175}{}{Tudo bem. Você foi muito útil.
-}
+{175}{}{Tudo bem. Você foi muito útil.}
 {176}{}{Não tenho nada para te dar além da minha eterna gratidão.}
 {177}{}{Isso é mais do que suficiente. Eu vou ajudar você.}
 {178}{}{Vai custar mais do que isso para comprar minha ajuda.}

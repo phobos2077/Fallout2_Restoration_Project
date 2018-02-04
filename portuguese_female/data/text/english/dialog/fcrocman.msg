@@ -6,8 +6,7 @@
 {108}{}{Duh?}
 {109}{}{I have a letter for AHS-9. Where do I take it?}
 {110}{}{Eu sou}
-{111}{}{Não é da sua conta.
-}
+{111}{}{Não é da sua conta.}
 {112}{}{I want to join the Hubologists.}
 {113}{}{Who are YOU? And what are YOU doing here?}
 {114}{}{Nada. Tchau.}
@@ -19,15 +18,13 @@
 {120}{}{Fine, fine. No need to get testy.}
 {121}{}{Actually, it is my business. This is my ship and these are my guards - now, who are you and what are you doing here?}
 {122}{}{Eu sou}
-{123}{}{Não é da sua conta.
-}
+{123}{}{Não é da sua conta.}
 {124}{}{I want to join the Hubologists.}
 {125}{}{Who are YOU? And what are YOU doing here?}
 {126}{}{Nada. Tchau.}
 {127}{}{I am Harry. I am the chief rocket technician.}
 {128}{}{Eu sou}
-{129}{}{Não é da sua conta.
-}
+{129}{}{Não é da sua conta.}
 {130}{}{I want to join the Hubologists.}
 {131}{}{Nada. Tchau.}
 {132}{}{Not willing to cooperate, eh? Guards! Kill this intruder!}
@@ -45,8 +42,7 @@
 {175}{}{I have the plans for the vertibird.}
 {176}{}{The Shi have the plans for the vertibird}
 {177}{}{What can I do for you?}
-{178}{}{Esqueça. Tchau.
-}
+{178}{}{Esqueça. Tchau.}
 {179}{}{I am Harry, AHS-5. I am the starbrother in charge of the rocket ship. We are going to use it to travel to Quetzel.}
 {180}{}{Can I ask something else?}
 {181}{}{Tenho-o. Tchau.}
@@ -65,8 +61,7 @@
 {194}{}{No one has been able to get plans for the vertibirds from the Shi, or from that old base in Navarro. Have you reconsidered helping us?}
 {195}{}{Remember, recruit! The hated Shi have the plans.}
 {196}{}{I have the plans for the vertibird.}
-{197}{}{Esqueça.
-}
+{197}{}{Esqueça.}
 {198}{}{Ok, I'll do it.}
 {199}{}{Now you know what we need? Gas. A lot of it. The Shi have some. See if you can get it.}
 {200}{}{Remember, you were getting us gas for our great spaceship.}

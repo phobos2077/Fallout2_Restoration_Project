@@ -6,10 +6,8 @@
 {104}{}{Fim de sessão.}
 {105}{}{Após 30 minutos de peneirar todos os arquivos, você encontrará quatro dos quais parecem úteis. Faça uma escolha abaixo.}
 {106}{}{Acesse o registro do histórico FEV.}
-{107}{}{Acesse o arquivo sobre cura de Epilepsia.
-}
-{108}{}{Continue procurando.
-}
+{107}{}{Acesse o arquivo sobre cura de Epilepsia.}
+{108}{}{Continue procurando.}
 {109}{}{Faça uma escolha abaixo.}
 {110}{}{À medida que as tensões continuavam a aumentar entre os EUA e a China, um medo na vanguarda das mentes dos nossos oficiais militares
   era que os chineses iriam implantar armas biológicas contra tropas americanas. Como resultado, a West Tek, uma das principais empreiteiras tecnologicas 

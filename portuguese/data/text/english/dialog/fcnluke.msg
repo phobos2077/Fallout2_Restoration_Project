@@ -10,8 +10,7 @@
 {109}{}{O que isso significa?}
 {110}{}{O que você quer dizer com isso?}
 {111}{}{You're attracting the attention of a lot of people. You need to be careful.}
-{112}{}{Continue.
-}
+{112}{}{Continue.}
 {113}{}{Vá em frente, eu estou ouvindo.}
 {114}{}{Eu já disse o suficiente por enquanto. Eu acho que você deveria se preocupar com seus negócios.}
 {115}{}{This same blow off me get from Joshua. Me need ask question.}

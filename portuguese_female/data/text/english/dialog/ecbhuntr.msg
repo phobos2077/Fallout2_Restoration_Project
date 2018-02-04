@@ -5,6 +5,5 @@
 {104}{}{Eu vou trazer você de volta em um saco de corpo.}
 {105}{}{Morra, escória!}
 {106}{}{Dane-se isso - eles podem manter a recompensa.}
-{107}{}{Estou fora daqui.
-}
+{107}{}{Estou fora daqui.}
 {108}{}{O trabalho não vale a pena isso.}

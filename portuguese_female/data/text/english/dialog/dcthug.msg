@@ -3,8 +3,7 @@
 {151}{}{Sair do meu rosto.}
 {152}{}{Você está procurando por problemas?}
 {153}{}{Mantenha-se à direita na caminhada.}
-{154}{}{Não interessado.
-}
+{154}{}{Não interessado.}
 {155}{}{Vá embora.}
 {200}{}{Hey punk.}
 {201}{}{Você deseja algum problema?}

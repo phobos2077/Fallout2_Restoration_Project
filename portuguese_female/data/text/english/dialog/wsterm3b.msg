@@ -62,8 +62,7 @@
 {149}{}{Sair.}
 {150}{}{[The door to the room slams shut and at the same time the wall to the east disappears, revealing a line of heavily-armed robots.]}
 {151}{}{Um...I've reconsidered your offer. What can I do for you?}
-{152}{}{Pode vir!
-}
+{152}{}{Pode vir!}
 {153}{}{Proceed to Bio Storage - Level 4
                              Retrieve Cybernetic Brain
                                           Return for further instructions

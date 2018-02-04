@@ -13,7 +13,7 @@
 {112}{}{Eu vou.}
 {113}{sgnt5}{O que foi isso? Você se esqueceu de algo, verme?}
 {114}{}{Meu nome é }
-{115}{sgnt6}{Eu não sou um senhor. Eu trabalho para ganhar a vida, você é mongol. Você vai me chamar de sargento ou sargento Dornan. Você me entende!}
+{115}{sgnt6}{Eu não sou um senhor. Eu trabalho para ganhar a vida, você é mongol. Você vai me chamar de sargento ou sargento Dornan. Você me entende!  }
 {116}{}{Sim, Sargento!}
 {117}{}{Claro, Sargento. Tanto faz.}
 {118}{sgnt7}{Excepcional. Prossiga no dobro para o hangar, onde você ficará de guarda. Você fará um bom trabalho. Voce entende?}
@@ -50,7 +50,7 @@
 {149}{sgnt15c}{Você é um perigo para todos nós. Que vai acabar agora.}
 {150}{sgnt16}{Esta base está em alerta e não reconheço você. Mostre-me seus papéis, soldado.}
 {151}{}{Não Me têm papéis em mim.}
-{152}{}{Não Me precisa papeis! }
+{152}{}{Não Me precisa papeis!}
 {153}{}{não tenho meus papéis comigo. Eles estão na minha maleta.}
 {154}{}{Papéis? Eu tenho os papéis aqui!}
 {155}{sgnt17}{Resposta errada, verme. Você deve levar seus papéis com você em todos os momentos e você deve saber disso!}

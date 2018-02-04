@@ -24,8 +24,7 @@
 {357}{}{Nós não somos primitivos!}
 {358}{}{Quem essas pessoas pensam que são?}
 {359}{}{Por favor, ajude-nos!}
-{360}{}{Tire-me daqui.
-}
+{360}{}{Tire-me daqui.}
 {400}{}{Oh, why me!}
 {401}{}{*cough*}
 {402}{}{*scratches self*}

@@ -60,18 +60,14 @@
 {159}{}{Acho que gosto de você o suficiente para que eu possa fazer isso por você agora. Quem você quer que eu visite?}
 {160}{}{Os Hubologistas.}
 {161}{}{Os Shi.}
-{162}{}{Nenhum. Apenas checando. 
-}
+{162}{}{Nenhum. Apenas checando.}
 {163}{}{Suponho que eu posso fazer isso de graça, já que você encontrou minha namorada. Vai demorar um pouco, no entanto. Quem você quer que eu atinja?}
 {164}{}{Os Hubologistas.}
 {165}{}{Os Shi.}
-{166}{}{Nenhum. Apenas checando. 
-}
+{166}{}{Nenhum. Apenas checando.}
 {167}{}{Você deve me fazer um favor, primeiro. Minha namorada se perdeu no petroleiro. Encontre-a para mim e eu vou fazer isso.}
-{168}{}{Você entendeu. Até mais.
-}
-{169}{}{Esqueça. Até mais.
-}
+{168}{}{Você entendeu. Até mais.}
+{169}{}{Esqueça. Até mais.}
 {170}{}{Como roubar doce de uma criança. Eles nunca vão me encontrar. O que você quer?}
 {171}{}{Grande. Eu tenho mais perguntas.}
 {172}{}{Grande. Eu vou estar de volta.}
@@ -125,5 +121,4 @@
 {220}{}{Sim, eu tenho o combustível.}
 {221}{}{Sim, eu tenho os planos verti.}
 {222}{}{Sim, eu tenho o combustível e os planos.}
-{223}{}{Muito obrigado. Até mais.
-}
+{223}{}{Muito obrigado. Até mais.}

@@ -22,7 +22,7 @@
 {122}{}{Você vê Alexand the Killer Bee, uma variedade gentil e inteligente de abelhas assassinas - Head Scribe Of The Unwashed Villagers.}
 {123}{}{Você vê Hatchetman, Gunsmith of the Unwashed - Starter of fires - Keeper of the Shadowrun lore.}
 {124}{}{Você vê BlueCross, Low Priest of the Unwashed - Director de fabricação.}
-{200}{}{Aldeões não Lavados salvam o dia, mais uma vez! }
+{200}{}{Aldeões não Lavados salvam o dia, mais uma vez!}
 {201}{}{A morte é boa demais para ele.}
 {202}{}{E ficar morto!}
 {203}{}{A aldeia está segura, mais uma vez!}

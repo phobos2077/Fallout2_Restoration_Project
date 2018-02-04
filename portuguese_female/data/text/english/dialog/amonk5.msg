@@ -46,8 +46,7 @@
   Ter aproveitando o tempo para encontrar isso para mim. Obrigado por colecionar isso para mim.}
 {433}{}{Bem, você vê ... Compreender a destruição do habitat e a extinção das espécies depende de um catálogo preciso e completo de planos sistemáticos e taxonomia. E então isso significa que ...}
 {434}{}{Qualquer momento. Eu tenho algumas outras perguntas embora.}
-{435}{}{Sem problemas. Até a próxima.
-}
+{435}{}{Sem problemas. Até a próxima.}
 {436}{}{Fascinante! Eu aprecio que você tome o tempo para encontrar isso para mim. Por favor, vá e faça o upload dessas informações para nossos computadores.}
 {437}{}{Não tem problema, eu vou fazer isso agora. Até a proxima.}
 {500}{}{Pare com isso, imbecil!}

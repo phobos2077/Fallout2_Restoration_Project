@@ -81,8 +81,7 @@
 {179}{}{Não fique muito longe.}
 {180}{}{Devemos espalhar um pouco.}
 {181}{}{C'mon, Cassidy. Time to head out.}
-{182}{}{Nada, esquece.
-}
+{182}{}{Nada, esquece.}
 {261}{Cas0261}{You want me to put a bullet in Myron's head, is that it? It'd be no trouble. Just give the word.}
 {262}{Cas0262}{What's on your mind?}
 {263}{}{Why do you want to cap Myron?}

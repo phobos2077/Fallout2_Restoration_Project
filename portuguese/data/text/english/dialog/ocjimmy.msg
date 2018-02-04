@@ -5,8 +5,7 @@
 {104}{}{Me look around.}
 {105}{}{Eu}
 {106}{}{Uh... Me wander about. Me go now.}
-{107}{}{Apenas olhando por aí.
-}
+{107}{}{Apenas olhando por aí.}
 {108}{}{Hi, Jim. I'm}
 {109}{}{None of your business, four eyes. Back off.}
 {110}{}{I'm just wandering about. I'll be leaving now.}

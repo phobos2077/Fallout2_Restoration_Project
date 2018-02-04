@@ -80,8 +80,7 @@
 {169}{}{You are always welcome here! Goodbye.}
 {170}{}{Yes, but I don't think you're gonna need them. At least not against Vault City. You see, I've convinced the Vault City council not to touch your village.}
 {171}{}{I'll do it. I have some questions before I go though.}
-{172}{}{Deixa pra lá. Tchau.
-}
+{172}{}{Deixa pra lá. Tchau.}
 {173}{}{Not yet. I'll return when I have them.}
 {174}{}{Thanks! See you around.}
 {200}{}{It just so happens that I've already got what you need right here.}

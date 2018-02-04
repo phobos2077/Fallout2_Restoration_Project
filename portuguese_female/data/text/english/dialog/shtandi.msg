@@ -66,8 +66,7 @@
 {165}{}{That's all for now. I'll be going.}
 {166}{tand8}{It's just east of here, an underground shelter from the war. Most families in NCR came from it, so it's rightfully ours.}
 {167}{}{Tell more.}
-{168}{}{Continue.
-}
+{168}{}{Continue.}
 {169}{tand9}{A couple of years ago some squatters moved in and built a shantytown on the surface. They call it 'The Squat.' They're nothing but dogs in the manger. They can't get into the vault but they keep us out.}
 {170}{}{Me got more questions.}
 {171}{}{I see. I need to ask you about a few other things.}
@@ -172,8 +171,7 @@
 {270}{}{Me take but me need ask questions}
 {271}{}{Me not interested.}
 {272}{}{I'll take it but I need some information.}
-{273}{}{Não interessado.
-}
+{273}{}{Não interessado.}
 {274}{tand37a}{I'm Tandi, president of the NCR. So you whupped my boy, Hoss, over at Dusty's? Maybe you're the right man at the right time. Interested in some work?}
 {275}{tand37b}{I'm Tandi, president of the NCR. So you're the girl who whupped my boy Hoss? I should've had such a daughter! I've got a job you might want. Interested?}
 {276}{}{Maybe. What job?}

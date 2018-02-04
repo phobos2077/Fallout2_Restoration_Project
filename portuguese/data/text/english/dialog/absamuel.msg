@@ -14,8 +14,7 @@
   Vê-lo novamente, diga a ele que Ol 'Sammy ainda está vivo e "chutando".}
 {207}{}{Eu vou fazer isso. Eu tenho algumas outras perguntas embora.}
 {208}{}{Eu farei isso. Tenha cuidado Sam.}
-{209}{}{Deixa pra lá. Desculpe incomodá-lo.
-}
+{209}{}{Deixa pra lá. Desculpe incomodá-lo.}
 {210}{}{Na verdade eu só ia dizer que ele envia suas saudações. Eu vou ter a certeza de lhe dizer que dice olá. Eu tenho algumas outras perguntas embora.}
 {211}{}{Na verdade, eu só ia dizer que ele enviava saudações. Eu vou ter certeza de dizer a ele que você também diz olá. Tenha cuidado Sam.}
 {300}{}{O que você *soluço* quer saber?}
@@ -34,7 +33,7 @@
   ou dois, ele sorri para você.]}
 {411}{}{Oh, de * certo * é o que você quis dizer. [Suspiro de alívio.] Deixe-me perguntar-lhe outra coisa, no entanto.}
 {420}{}{[Seus olhos se arregalam de choque e parece estar sóbrio.] Não é isso que quis dizer, você ... seu MONSTRO! DEMÔNIO!
-  Saia de perto de mim!}
+  Saia de perto de mim!  }
 {421}{}{Seja o que for, você é um velho bêbado foda-se. Você não sabe o que está perdendo.}
 {430}{}{Demônio ruim! Sai!}
 {500}{}{A Abadia, bem, este lugar * soluço * passei a maior parte da minha vida. todomundo é * soluço * é legal, e

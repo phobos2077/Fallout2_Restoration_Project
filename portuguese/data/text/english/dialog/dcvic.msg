@@ -125,8 +125,7 @@ escravista. O que você está fazendo aqui?}
 {1500}{}{Tudo o que você disser, Chefe.}
 {1501}{}{Aqui? Bem aqui? Ok, você é o Chefe.}
 {1502}{}{Certo. Eu vou ficar aqui até você voltar, chefe. Você vai voltar, certo?}
-{1503}{}{Contanto que você queira. Eu não estou indo a lugar nenhum.
-}
+{1503}{}{Contanto que você queira. Eu não estou indo a lugar nenhum.}
 {1504}{}{Claro, Chefe.}
 {1600}{}{Se você disser que sim.}
 {1601}{}{É bom chamar Chefe.}
@@ -214,8 +213,7 @@ com você mais.}
 {3201}{}{Como eu disse, chefe, eu prefiro armas pequenas. Eu posso lidar com quase qualquer rifle, espingarda e a maioria dessas pistolas de pequeno e médio porte. Se estamos realmente em uma pitada eu posso tentar usar uma faca ou mesmo armas jogadas.}
 {3300}{}{Eu posso usar facas e tenho um bom braço jogando, mas ... meu objetivo não é o melhor do mundo. Na verdade, é muito horrível. Desculpe chefe. Estou realmente tentando melhorar.}
 {3301}{}{Como eu disse, chefe. Facas e eu tenho muito bom braço jogando ... Eu só sinto falta de muita coisa.}
-{3400}{}{Eu tive-o até aqui!
-}
+{3400}{}{Eu tive-o até aqui!}
 {3401}{}{Eu vou rasgar sua cabeça maldita fora! Ninguém machuca minha família!}
 {4000}{}{Por aqui?}
 {4001}{}{Este Chefe melhor?}

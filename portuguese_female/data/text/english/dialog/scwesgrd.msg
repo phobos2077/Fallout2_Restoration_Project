@@ -20,8 +20,7 @@
 {119}{}{Me need job.}
 {120}{}{Just want chat.}
 {121}{}{Uh...}
-{122}{}{Deixa pra lá.
-}
+{122}{}{Deixa pra lá.}
 {123}{}{I'm looking for work and I hear that he's hiring.}
 {124}{}{I would like to chat with Mr. Westin.}
 {125}{}{Never mind, I'll come back later.}

@@ -14,12 +14,10 @@
 {112}{}{Forget it. Sorry.}
 {113}{}{Let me take a look at that. I can heal you, but it'll cost.}
 {114}{}{Quanto?}
-{115}{}{Esqueça.
-}
+{115}{}{Esqueça.}
 {116}{}{Yes, I can heal this… ::wheeze:: for a price.}
 {117}{}{Quanto?}
-{118}{}{Esqueça.
-}
+{118}{}{Esqueça.}
 {119}{}{What do I do here? You're in a hospital. I'm wearing a doctor's coat. I'm covered with blood.
  There are sharp, pointy things lying all around. Either I'm a successful killer or a fair doctor. Take your pick.}
 {120}{}{I guess I can call you a doctor.}
@@ -35,48 +33,38 @@
 {128}{}{I changed my mind. I'd rather ask other questions.}
 {129}{}{That'll cost you $50.}
 {130}{}{Eu vou pagar.}
-{131}{}{Esqueça.
-}
+{131}{}{Esqueça.}
 {132}{}{For wounds like that, you'll be losing $100.}
 {133}{}{Eu vou pagar.}
-{134}{}{Esqueça.
-}
+{134}{}{Esqueça.}
 {135}{}{That looks like it must have hurt. Going to hurt your wallet, too... $150.}
 {136}{}{Eu vou pagar.}
-{137}{}{Esqueça.
-}
+{137}{}{Esqueça.}
 {138}{}{Ouch! You're going to need some serious patching. $200.}
 {139}{}{Eu vou pagar.}
-{140}{}{Esqueça.
-}
+{140}{}{Esqueça.}
 {141}{}{Whew… friend, this is going to hurt you a lot. $300 and you're good as new.}
 {142}{}{Eu vou pagar.}
-{143}{}{Esqueça.
-}
+{143}{}{Esqueça.}
 {144}{}{He should be okay after a little help from me… ::wheeze:: to the tune of $50.}
 {145}{}{Eu vou pagar.}
-{146}{}{Esqueça.
-}
+{146}{}{Esqueça.}
 {147}{}{You been seeing some action? I remember back when I was a little spitfire. Got plenty of holes
  in me, too. This misadventure will cost you $100.}
 {148}{}{Eu vou pagar.}
-{149}{}{Esqueça.
-}
+{149}{}{Esqueça.}
 {150}{}{Kid, do you take care of your friends? ::cough:: If you're going to take care of this friend,
  you'll need to pay $150.}
 {151}{}{Eu vou pagar.}
-{152}{}{Esqueça.
-}
+{152}{}{Esqueça.}
 {153}{}{You must be pretty good to inspire loyalty like this from your friends. I hope you're good...
 because this is going to cost ::cough:: $200.}
 {154}{}{Eu vou pagar.}
-{155}{}{Esqueça.
-}
+{155}{}{Esqueça.}
 {156}{}{Ouch! I'll need to put a cast on that or something. For my extensive medical knowledge, you'll
  be parting with $300.}
 {157}{}{Eu vou pagar.}
-{158}{}{Esqueça.
-}
+{158}{}{Esqueça.}
 {159}{}{Friend, you don't have that kind of money. I can sell you some stimpacks if you like, but with
  the healing you're looking for, you can't afford what I can afford to give you.}
 {160}{}{Give me the stimpacks.}
@@ -166,8 +154,7 @@ because this is going to cost ::cough:: $200.}
 {310}{}{Davin.}
 {311}{}{Miria.}
 {312}{}{Robobrain.}
-{313}{}{Deixa pra lá.
-}
+{313}{}{Deixa pra lá.}
 {314}{}{You're hurt? Let me fix that. I'll take care of your companions too.}
 {315}{}{There ya' go. All better.}
 {316}{}{[continue]}

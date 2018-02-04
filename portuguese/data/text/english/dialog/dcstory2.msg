@@ -47,8 +47,7 @@
 {152}{}{Estranho.}
 {153}{}{Cuddles costumava me ajudar a dormir à noite. Penso nela todas as noites quando tento dormir.}
 {154}{}{Parece bom.}
-{155}{}{Continue.
-}
+{155}{}{Continue.}
 {156}{}{Eu a tinha quando eu era criança, mas ela desapareceu. Eu não sabia o que aconteceu com ela, eu era muito jovem.}
 {157}{}{Por quê?}
 {158}{}{Bem, a comida era muito escassa naquela época e as pessoas tinham que comer. É realmente muito triste ...}
@@ -57,8 +56,7 @@
 {161}{}{Doente!}
 {162}{}{Eu posso entender isso.}
 {163}{}{Esses eram os selvagens, mas tenho certeza de que é o que aconteceu com o meu. Agora eu sei por que mamãe sempre olhou atentamente sobre ele.}
-{164}{}{Que triste.
-}
+{164}{}{Que triste.}
 {165}{}{Sinto muito.}
 {166}{}{Oh...}
 {167}{}{Isso me deixa triste em pensar ...}

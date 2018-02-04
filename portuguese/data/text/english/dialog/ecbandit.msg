@@ -16,9 +16,7 @@
 {210}{}{Não faça isso duro consigo mesmo.}
 {211}{}{Entregue o saque. }
 {212}{}{Pegue-os, meninos.}
-{213}{}{Matem todos.
-}
+{213}{}{Matem todos.}
 {214}{}{Eu prometo tornar sua morte rápida.}
-{215}{}{Alcançar os céus.
-}
+{215}{}{Alcançar os céus.}
 {216}{}{Não se mova.}

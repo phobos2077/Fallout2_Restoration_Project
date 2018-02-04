@@ -18,8 +18,7 @@
 {116}{}{Bem, não vejo por que não, considerando que você nos ajudou em uma pitada e tudo. Claro, por que não.
   Aqui é o que eu tenho.}
 {117}{}{[Troca]}
-{118}{}{Eu mudei de ideia.
-}
+{118}{}{Eu mudei de ideia.}
 {119}{}{Eu sei que já vi você em algum lugar. Merda! Você é o único em todos aqueles cartazes queridos! Olha nós
   não queremos nenhum problema. Você segue seu caminho e iremos pelo meu caminho. Não vou nem contar a ninguém que vimos você.
   Agora vá!}
@@ -27,8 +26,8 @@
   Sou eu mesmo em alguns lugares. Agora, você queria negociar …}
 {121}{}{[Troca]}
 {122}{}{Bom o suficiente, então. Temos que começar. Não se preocupe, não vou dizer a lei que eu vi.}
-{123}{}{Espere um minuto! Já ouvi falar de você. Você é o melhor que está correndo em torno de salvar e ajudar
-  pessoas. Nós não gostamos do seu tipo, então, vaza! }
+{123}{}{Espere um minuto! Já ouvi falar de você. Você é o melhor que está correndo em torno de salvar e
+  ajudar pessoas. Nós não gostamos do seu tipo, então, vaza!}
 {124}{}{Eu ouvi coisas boas sobre uma pessoa que atende sua descrição. Eu acho que tudo bem
   para trocar algumas das nossas cargas para você. Aqui é o que eu tenho.}
 {125}{}{[Troca]}
@@ -52,8 +51,7 @@
 {139}{}{Isso é...bom. Que você tenha um bom dia hoje. }
 {150}{}{medicamentos.}
 {151}{}{minério de ouro.}
-{152}{}{minério de urânio.
-}
+{152}{}{minério de urânio.}
 {153}{}{produtos agrícolas.}
 {154}{}{drogas.}
 {155}{}{escravos.}

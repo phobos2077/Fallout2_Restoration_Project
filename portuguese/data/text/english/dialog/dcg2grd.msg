@@ -1,7 +1,6 @@
 {100}{}{Você vê um gangster.}
 {150}{}{Parece ser um membro da gangue de Lara.}
-{151}{}{Ela parece ser uma membro da gangue de Lara.
-}
+{151}{}{Ela parece ser uma membro da gangue de Lara.}
 {200}{}{Sábio cara.}
 {201}{}{Aí está você.}
 {202}{}{Pagar de volta.}

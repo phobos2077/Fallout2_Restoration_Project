@@ -36,8 +36,7 @@
 {115}{}{Você vê um recipiente resistente com um bloqueio, o que você pode ser
   capaz de abrir.}
 {116}{}{Você vê um recipiente resistente sem dispositivo de bloqueio aparente,
-  que você poderá abrir.
-}
+que você poderá abrir.}
 {117}{}{Você vê um recipiente resistente com uma trava velha e enferrujada, que
   você pode abrir.}
 {118}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
@@ -128,31 +127,31 @@
 {164}{}{Você vê um antigo recipiente, sem aparente dispositivo de bloqueio.}
 {165}{}{Você vê um recipiente antigo com um bloqueio antigo e enferrujado.}
 {166}{}{Você desencadeou a armadilha e foi atingido por}
-{167}{}{pontos de dano.}
-{168}{}{desencadeia a armadilha e foi atingido por}
-{169}{}{pontos de dano.}
+{167}{}{ pontos de dano.}
+{168}{}{ desencadeia a armadilha e foi atingido por  }
+{169}{}{ pontos de dano.}
 {170}{}{Você colhe habilmente o bloqueio no recipiente.}
 {171}{}{Sua falta de habilidade bloqueou o bloqueio neste recipiente.}
 {172}{}{Você não consegue colher o bloqueio neste recipiente.}
 {173}{}{ Colhe habilmente o bloqueio no recipiente.}
 {174}{}{A falta de habilidade bloqueou o bloqueio neste recipiente.}
-{175}{}{não conseguiu colher o bloqueio neste recipiente.}
+{175}{}{ não conseguiu colher o bloqueio neste recipiente.}
 {176}{}{Você emperra o bloqueio do recipiente.}
 {177}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e
   toma um ponto de dano.}
 {178}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e toma }
-{179}{}{pontos de dano.}
+{179}{}{ pontos de dano.}
 {180}{}{Você é muito fraco para ultrapassar o bloqueio.}
 {181}{}{ emperra o bloqueio do recipiente.}
-{182}{}{estica as costas enquanto tenta abater a fechadura e leva
-  pontos de dano.}
-{183}{}{pressiona suas costas enquanto tenta abrir o bloqueio e toma}
-{184}{}{pontos de dano.}
+{182}{}{  Estica as costas enquanto tenta abater a fechadura e leva
+  pontos de dano.}
+{183}{}{  pressiona suas costas enquanto tenta abrir o bloqueio e toma  }
+{184}{}{ pontos de dano.}
 {185}{}{ é muito fraco para ultrapassar o bloqueio.}
-{186}{}{estica as costas enquanto tenta abater a fechadura e leva
-pontos de dano.}
-{187}{}{pressiona suas costas enquanto tenta abrir o bloqueio e toma }
-{188}{}{pontos de dano.}
+{186}{}{  estica as costas enquanto tenta abater a fechadura e leva
+  pontos de dano.}
+{187}{}{ pressiona suas costas enquanto tenta abrir o bloqueio e toma}
+{188}{}{ pontos de dano.}
 {189}{}{Você bloqueia habilmente o recipiente.}
 {190}{}{Você não bloqueia o recipiente.}
 {191}{}{ bloqueia habilmente o recipiente.}
@@ -168,13 +167,12 @@ pontos de dano.}
 {202}{}{ falha para desarmar a armadilha.}
 {203}{}{O recipiente parece estar bloqueado.}
 {204}{}{Você percebe uma armadilha no recipiente.}
-{205}{}{percebe uma armadilha no batente do recipiente.}
+{205}{}{ percebe uma armadilha no batente do recipiente.}
 {206}{}{Não é possível colocar uma armadilha neste recipiente, porque
   O recipiente está aberto.}
-{207}{}{é incapaz de colocar uma armadilha neste recipiente, porque 
-  O recipiente está aberto.}
-{208}{}{Você habilmente configurou uma armadilha no recipiente.
-}
+{207}{}{ é incapaz de colocar uma armadilha neste recipiente, porque
+ O recipiente está aberto.}
+{208}{}{Você habilmente configurou uma armadilha no recipiente.}
 {209}{}{Você não configura adequadamente a armadilha no recipiente.}
 {210}{}{ habilmente define uma armadilha no recipiente.}
 {211}{}{ falha ao definir adequadamente a armadilha no recipiente.}

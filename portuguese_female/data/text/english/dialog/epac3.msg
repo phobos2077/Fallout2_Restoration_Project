@@ -39,8 +39,7 @@
 {303}{}{Não. Devo estar indo.}
 {310}{}{Claro, o que você gostaria de saber? Espero que seja sobre torradas.}
 {311}{}{O que é este lugar?}
-{312}{}{Deixa pra lá. Tchau.
-}
+{312}{}{Deixa pra lá. Tchau.}
 {350}{}{Ei, você me corrigiu! Eu sabia que o Sr. Handy deixou o trabalho inacabado. Agora me sinto melhor do que nunca! Obrigado.}
 {351}{}{Com certeza, é o que eu faço. Vejo você mais tarde.}
 {352}{}{Agora aguarde. Se você não me deixa recompensá-lo com brinde, então, pelo menos, permita-me dar uma pequena dica. Você

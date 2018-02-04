@@ -4,8 +4,7 @@
 {201}{}{Bem-vindo de volta. Precisa de mais alguma coisa?}
 {202}{}{Vamos trocar.}
 {203}{}{Eu ouvi que você é o homem para conversar sobre caravanas.}
-{204}{}{Deixa pra lá. Tchau.
-}
+{204}{}{Deixa pra lá. Tchau.}
 {210}{}{Diga, notei que muitos equipamentos e itens já foram coletados aqui na Abadia.
   Suponho que não encontrou nada ... especial, durante o seu tempo aqui?}
 {211}{}{Heh, então você percebeu isso, hein? Sim, as pessoas da Abadia têm um pouco de fascínio por qualquer coisa antes da guerra,
@@ -53,5 +52,4 @@ outra coisa.}
 {308}{}{Bem, obrigado pela informação. Até a próxima.}
 {400}{}{Encontrou tudo o que você precisa?}
 {401}{}{Na verdade, eu gostaria de dar uma olhada em seus produtos.}
-{402}{}{Sim eu fiz. Até a próxima.
-}
+{402}{}{Sim eu fiz. Até a próxima.}

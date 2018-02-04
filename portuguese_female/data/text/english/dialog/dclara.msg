@@ -4,8 +4,7 @@
   Você está em um mundo de dor.}
 {201}{}{Oi novamente. Precisa de algo?}
 {202}{}{Tem algum trabalho?}
-{203}{}{Apenas olhando por aí.
-}
+{203}{}{Apenas olhando por aí.}
 {204}{}{Estou à procura de um comerciante chamado Vic.}
 {205}{}{Aruh.}
 {206}{}{Rara.}
@@ -18,8 +17,7 @@
 {240}{}{Se você não veio ao Den por uma razão específica, você provavelmente deveria sair. Não é muito seguro por aqui.}
 {241}{}{Ah, tudo bem.}
 {242}{}{Tem algum trabalho?}
-{243}{}{Eu me viro sozinho.
-}
+{243}{}{Eu me viro sozinho.}
 {244}{}{Ok, obrigado.}
 {250}{}{Sem dúvida. Caso contrário, você provavelmente não teria chegado aqui vivo.}
 {251}{}{Uh, sim, então eu ouvi. Você já disse isso.}
@@ -91,8 +89,7 @@
 {452}{}{Tudo bem.}
 {460}{}{Eu não sei. É por isso que eu estou pedindo que você ajude.}
 {461}{}{Eu vou tentar.}
-{462}{}{Isso não tem sentido.
-}
+{462}{}{Isso não tem sentido.}
 {470}{}{Você achou alguma coisa?}
 {471}{}{Sim. Eles estão tendo uma festa esta noite.}
 {472}{}{Ainda não. Eu aviso você.}
@@ -114,7 +111,7 @@
 {512}{}{Vamos lá. Eu estou pronto.}
 {513}{}{Tudo bem, eu vou estar de volta.}
 {514}{}{Não.}
-{515}{}{Uk!}
+{515}{}{Uk}
 {520}{}{Por causa de você perdemos a nossa chance.}
 {521}{}{Covarde!}
 {522}{}{Você não ganha nada.}
@@ -150,8 +147,7 @@
 {595}{}{Isso é uma vergonha.}
 {596}{}{Você é o próximo, cadela.}
 {597}{}{Hmph!}
-{598}{}{Você o próximo.
-}
+{598}{}{Você o próximo.}
 {610}{}{Você realmente sabe como estragar as coisas, não é?}
 {611}{}{Não precisamos mais de sua ajuda.}
 {612}{}{Vá incomodar outra pessoa.}

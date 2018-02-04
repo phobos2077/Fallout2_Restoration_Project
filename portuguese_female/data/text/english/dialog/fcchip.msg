@@ -9,8 +9,7 @@
 {108}{}{Quem é você?}
 {109}{}{Você tem alguma informação para mim sobre o meu povo?}
 {110}{}{Oooh, minhas tripas. Estou com dor. Por favor, deixe-me só.}
-{111}{}{Entendido.
-}
+{111}{}{Entendido.}
 {112}{}{O que se passa comigo? Eu vou te dizer: é que fiquei bêbado na semana passada, comecei a jogar com Lao Chou e perdi. Estava tão cego embebido que apostei meu baço. Agora ele tem, e eu preciso de volta.}
 {113}{}{Você VENDEU o seu baço?}
 {114}{}{Isso é muito ruim.}
@@ -31,13 +30,11 @@
 {129}{}{Eu sou Chip. E estou com muita dor.}
 {130}{}{Qual é o problema com você?}
 {131}{}{Você está com dor? Ha Ha Ha.}
-{132}{}{Isso é ruim. Tanto tempo.
-}
+{132}{}{Isso é ruim. Tanto tempo.}
 {133}{}{Informações? Estou com dor e você deseja informações?}
 {134}{}{Qual é o problema com você?}
 {135}{}{Você está com dor? Ha Ha Ha.}
-{136}{}{Esqueça.
-}
+{136}{}{Esqueça.}
 {137}{}{Você já encontrou meu baço?}
 {138}{}{Sim. Dr. Wong Yi Tze tem ele, e ele vai lhe dar de volta para você. Vá falar com ele sobre isso.}
 {139}{}{Sim. Vá ver o cadáver do Dr. Wong.}
@@ -91,8 +88,7 @@
 {187}{}{Merda. Falar para os Hubologistas ou a Shi. Com Texugo morto, eu não tenho nenhuma ideia.}
 {188}{}{Obrigado. Mais perguntas...}
 {189}{}{Obrigado. Tchau.}
-{190}{}{Desprezível.
-}
+{190}{}{Desprezível.}
 {191}{}{Você vai precisar de alguns analgésicos.}
 {192}{}{Bola de sujeira. Eu vou te ajudar.}
 {193}{}{Você vê um punk calvo.}

@@ -42,8 +42,7 @@ a mim.}
 {135}{}{Aperte esse gatilho.}
 {136}{}{}
 {137}{}{}
-{138}{}{Isso parece um desafio. Eu vou aceitar.
-}
+{138}{}{Isso parece um desafio. Eu vou aceitar.}
 {139}{}{}
 {140}{}{}
 {141}{}{Hmm ... Eu ... Sim, ok. Aqui está a chave para sua cela; Ela está na sala dos fundos da barraca. Leve ela

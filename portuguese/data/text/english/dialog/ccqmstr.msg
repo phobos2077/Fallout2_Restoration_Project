@@ -36,7 +36,7 @@
 {127}{}{Esta base está em alerta e não reconheço você. Me mostre seu
   papéis, soldado.}
 {128}{}{Não Me têm papéis em mim.}
-{129}{}{Não Me precisa papeis! }
+{129}{}{Não Me precisa papeis!}
 {130}{}{não tenho meus papéis comigo. Eles estão na minha maleta.}
 {131}{}{Papéis? Eu tenho os papéis aqui!}
 {132}{}{Resposta errada. Você deve levar seus papéis com você em todos os momentos

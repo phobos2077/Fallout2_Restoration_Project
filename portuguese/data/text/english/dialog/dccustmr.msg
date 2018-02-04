@@ -31,7 +31,7 @@
 {315}{}{Não há como isso ser diluído.}
 {316}{}{Esse Dyer certamente conhece suas coisas.}
 {317}{}{Nada como bons drinks e boa companhia.}
-{318}{}{O problema com as bebidas de Becky é que você costuma beber demais! }
+{318}{}{O problema com as bebidas de Becky é que você costuma beber demais!}
 {319}{}{Becky ... quero dizer, Rebecca tem um bom coração.}
 {320}{}{Se alguém coloca um dedo nela, eles se arrependerão.}
 {321}{}{Esta é uma coisa boa.}
@@ -44,8 +44,7 @@
 {360}{}{Frankie é realmente um buraco ... na parede, isso é.}
 {361}{}{Eu gosto do Buraco melhor do que Becky.}
 {362}{}{Nós chamamos este lugar o Buraco.}
-{363}{}{Sente-se. Oh espere. Talvez não.
-}
+{363}{}{Sente-se. Oh espere. Talvez não.}
 {364}{}{Frankie tem ação. Becky's é apenas um poço de dinheiro.}
 {365}{}{Frankie certamente não gosta de Becky.}
 {366}{}{Frankie diz que as bebidas de Becky são diluídas.}

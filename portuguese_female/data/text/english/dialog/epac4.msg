@@ -27,8 +27,7 @@
 {280}{}{Obrigado. Se você pode reparar o computador de controle do robô, conceder-lhe-ei acesso completo à ala de segurança no nível vermelho. Você pode aproveitar o que você gosta das lojas. Tenho medo de não termos nenhum uso para eles agora mesmo.}
 {281}{}{Obrigado. Eu vou voltar para você quando eu tiver feito}
 {290}{}{Lech mich! Eu não tenho nada mais a dizer para você.}
-{291}{}{Bem.
-}
+{291}{}{Bem.}
 {300}{}{Você conseguiu completar a tarefa ainda? * Olhos brilham com expectativa *}
 {301}{}{Não, ainda não. Eu vou continuar trabalhando.}
 {310}{}{Os computadores estão de volta online ainda?}

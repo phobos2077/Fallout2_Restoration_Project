@@ -45,9 +45,8 @@
   para esta cidade e estabeleceu o que se tornaria a sociedade Shi.}
 {291}{}{Você se referiu a isso como um "guardião adormecido". O que você quer dizer com isso?}
 {300}{}{Como um dragão hibernante, cujos roncos ainda podem produzir fogo mortal - o submarino é imobilizado, mas não impotente.
-  O Shi tem trabalhado nele em segredo, fazendo viagens clandestinas ao submarino sob a cobertura da noite. Suas armas 
-  foram reativadas e destruirá os navios que não são chineses que se atrevem a navegar por esta baía.
-}
+O Shi tem trabalhado nele em segredo, fazendo viagens clandestinas ao submarino sob a cobertura da noite. Suas armas 
+foram reativadas e destruirá os navios que não são chineses que se atrevem a navegar por esta baía.}
 {301}{}{Então, digamos, * hipoteticamente *, se aquele grande petroleiro que está ancorado aqui tentar navegar ...}
 {310}{}{Então... BOOM!}
 {311}{}{Peguei vocês. Eu não suponho que você sabe como eu poderia desarmá-lo?}

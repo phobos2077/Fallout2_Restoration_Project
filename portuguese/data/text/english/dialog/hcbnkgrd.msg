@@ -4,8 +4,7 @@
 {103}{}{Can I help you?}
 {104}{}{Agga agga!}
 {105}{}{Me in building! Oooh!}
-{106}{}{Apenas olhando por aí.
-}
+{106}{}{Apenas olhando por aí.}
 {107}{}{Err… no, not really.}
 {108}{}{Yeah. I'm here to talk to your prisoners.}
 {109}{}{Have you considered that you may be holding your prisoners illegally?}
@@ -39,8 +38,7 @@
 {137}{}{You! What the hell are you doing? Get the hell out of here!}
 {138}{}{You'll be putting your weapons away now, pal.}
 {139}{}{You again? Do you need something?}
-{140}{}{Apenas olhando por aí.
-}
+{140}{}{Apenas olhando por aí.}
 {141}{}{Err… no, not really.}
 {142}{}{Yeah. I'm here to talk to your prisoners.}
 {143}{}{Have you considered that you may be holding your prisoners illegally?}

@@ -5,8 +5,7 @@
 {104}{}{Que tipo de ajuda você precisa?}
 {105}{}{Então eu irei para fora na minha missão!}
 {106}{}{Espere aí... em que você precisa de ajuda?}
-{107}{}{Você faz isso.
-}
+{107}{}{Você faz isso.}
 {108}{}{Fumaça fugiu para o campo de caça e não voltou e agora Morlis não deixe-me ir encontrar ele. Ela diz que é muito perigoso e ele é apenas um cão, mas eu estava indo de qualquer maneira. Mas agora você está aqui e você pode fazê-lo e eu não iria me meter em apuros.}
 {109}{}{Com certeza. Mas onde estão os terrenos de caça?}
 {110}{}{Com certeza. Eu vou encontrá-lo agora.}
@@ -23,8 +22,7 @@
   Morlis diz, eu vou encontrá-lo.}
 {121}{}{Nagor, e se algo acontecer com você? Morlis ficaria sozinha e isso faria
  com que ela ficase triste. Você não quer deixá-la triste, não é?}
-{122}{}{Você faz isso.
-}
+{122}{}{Você faz isso.}
 {123}{}{Bem... não, eu não quero fazer isso. Ok, eu não quero ir, mas não é justo!}
 {124}{}{Fumaça ficará bem. Adeus.}
 {125}{}{Você encontrou o Fumaça! Obrigado! Fumaça, você é um cão mau!}
@@ -51,9 +49,8 @@
 {212}{}{Você não soa auto como de costume.}
 {213}{}{Você não soa como seu eu habitual.}
 {214}{}{Me desculpe, primo. As coisas estão piorando desde a última vez que você deixou. As pessoas estão
-  doentes, os brahmins estão morrendo e ... eu ... meu cachorro, Fumaça morreu - Morlis o cozinhou. Sinto muita falta dele. Desculpe, mas não posso
-  realmente falar mais ...
-}
+doentes, os brahmins estão morrendo e ... eu ... meu cachorro, Fumaça morreu - Morlis o cozinhou. Sinto muita falta dele. Desculpe, mas não posso
+realmente falar mais ...}
 {215}{}{Me desculpe, primo. As coisas estão piorando desde a última vez que você deixou. As pessoas estão doentes,
   Os brahmins estão morrendo e ... eu ... meu cachorro Fumaça morreu. Sinto muita falta dele. Desculpe, mas não posso realmente
   falar mais ...}

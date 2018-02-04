@@ -100,8 +100,7 @@
 {525}{}{Ay-me-go?}
 {526}{}{Cheee-ka Cheeek-aaaah}
 {529}{}{I had some questions…}
-{530}{}{Deixa pra lá. Desculpe incomodá-lo.
-}
+{530}{}{Deixa pra lá. Desculpe incomodá-lo.}
 {540}{}{}
 {541}{}{}
 {542}{}{Hey, hey, hey! You're }

@@ -60,8 +60,7 @@
 {292}{}{Você não magoar a família!}
 {293}{}{Você não levar a família!}
 {294}{}{Eu proteger!}
-{295}{}{Eu feri você!
-}
+{295}{}{Eu feri você!}
 {296}{}{Você paga!}
 {300}{}{Você não vai levar a minha família, escravista!}
 {301}{}{Morra, escravo escória!}

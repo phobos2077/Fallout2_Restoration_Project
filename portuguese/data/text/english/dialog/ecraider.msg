@@ -1,5 +1,4 @@
-{100}{}{Você vê uma pessoa áspera.
-}
+{100}{}{Você vê uma pessoa áspera.}
 {101}{}{Você vê um raider.}
 {200}{}{Você invadiu nossas terras. Agora você morre!}
 {201}{}{Como você se atreve a vir aqui sem ser convidado!}

@@ -111,14 +111,12 @@
 {1022}{}{Molho? Que tipo de molho? Você está dizendo que cozinhar é a chave para controlar o universo? O que quer que você diga, chef.}
 {1023}{}{Yeah Yeah. Jeeze, o que você diz. Eu acho que eu vou sair agora.}
 {1024}{}{Uh, ok. isso é ótimo. Bem, eu preciso ir..erm ...regar minhas plantas...}
-{1030}{}{Ignorante e tolo. Seu excesso de confiança é sua fraqueza, e minha fé em seus amigos é ... er ... o meu. * parece confuso * Sai da minha vista!
-}
+{1030}{}{Ignorante e tolo. Seu excesso de confiança é sua fraqueza, e minha fé em seus amigos é ... er ... o meu. * parece confuso * Sai da minha vista!}
 {1040}{}{Esperar! Você deixará SE e QUANDO eu decidir. No caso de você não ter notado, você foi extremamente mau em sua busca.
   Seu ódio o fez poderoso e seu personagem se desenvolveu de acordo com meus desejos. Raiva, medo, ódio ... do lado escuro são eles.
   Agora você se tornará meu aprendiz e realizará seu lugar AO MEU LADO!}
 {1041}{}{Como quiser, meu senhor. Estou às suas ordens.}
-{1042}{}{Não interessado. Tchau.
-}
+{1042}{}{Não interessado. Tchau.}
 {1045}{}{Vá em frente e cause estragos meu filho.}
 {1046}{}{Vá-se embora!}
 {1050}{}{Eeeexcellente. Em seguida, pegue essa arma Java. Use-o. Mate indiscriminadamente. USE SEUS SENTIMENTOS AGRESSIVOS, CRIANÇA! (Ele lhe dá um sabre de luz vermelho.)}
@@ -166,7 +164,7 @@
 {1501}{}{Ele acena com a cabeça em sua direção.}
 {1510}{}{Eu sou o Sr. Wolna. Encabecei a tradução da versão alemã.}
 {1511}{}{[plz cadela me dar um tapa!!]}
-{1512}{}{Bom trabalho, rapazes! Mantenham-no! }
+{1512}{}{Bom trabalho, rapazes! Mantenham-no!}
 {1513}{}{Olha! Uma Águia dourada!}
 {1514}{}{Ich komme aus Deutschland!}
 {1600}{}{Você vê o Sr. Wolna.}
@@ -251,8 +249,7 @@
 {2132}{}{Direito. Adeus.}
 {2140}{}{Mais excelente. Bem, se cuida.}
 {2141}{}{Adeus.}
-{2142}{}{Até a próxima.
-}
+{2142}{}{Até a próxima.}
 {2150}{}{A Fonte é complicada, mas eu posso lidar com isso.}
 {2151}{}{Aproveite a visibilidade expandida deste mundo!}
 {2152}{}{Aproveite o novo você!}

@@ -15,13 +15,12 @@
   sua merda, você sabe?}
 {111}{}{Tudo bem.}
 {112}{}{Quincy dizer que você imbecil. Você não tem bolas para vê-lo.}
-{113}{}{Bem.
-}
+{113}{}{Bem.}
 {114}{}{Quincy disse que você era um idiota e que você não teria
 as bolas para o relatório para ele.}
-{115}{}{Ei cara, Raul não tira nada de ninguém. Você vê Quincy trabalhando nesses
-  pássaros? De jeito nenhum, cara. Somente Raul trabalha com esses bebês. Você sabe porque? Porque
-  Quincy não conhece DICK, cara, é por isso!}
+{115}{}{ Ei cara, Raul não tira nada de ninguém. Você vê Quincy trabalhando nesses
+ pássaros? De jeito nenhum, cara. Somente Raul trabalha com esses bebês. Você sabe porque? Porque
+ Quincy não conhece DICK, cara, é por isso!}
 {116}{}{Uh...}
 {117}{}{Bem...}
 {118}{}{Ei, desculpa, cara. Raul não deveria estar gritando com você, você sabe? Esta

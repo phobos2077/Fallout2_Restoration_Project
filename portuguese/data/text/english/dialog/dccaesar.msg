@@ -111,15 +111,13 @@
 {255}{}{O que você quer com Vic? Ele é minha propriedade agora. Ele não deveria ter fodido comigo.}
 {256}{}{Eu gostaria de comprar-lhe.}
 {257}{}{Por que você está mantendo ele aqui?}
-{258}{}{Nada, esquece.
-}
+{258}{}{Nada, esquece.}
 {259}{}{Ele não está à venda, ainda.}
 {260}{}{Por que não?}
 {261}{}{Ah, tudo bem.}
 {262}{}{Ele terá um custo de $2000.}
 {263}{}{Aqui está o seu dinheiro.}
-{264}{}{Isso é muito. Talvez mais tarde.
-}
+{264}{}{Isso é muito. Talvez mais tarde.}
 {265}{}{O custo é de $1000.}
 {266}{}{Aqui está o seu dinheiro.}
 {267}{}{Ainda não tenho muito. Tchau.}

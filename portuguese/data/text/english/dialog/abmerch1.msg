@@ -51,8 +51,7 @@ seu trabalho, é razoável. Aqui estão 600.}
 {702}{}{Na verdade, acho que fiz o suficiente sobre este trabalho. Vá em frente e instalá-lo.}
 {800}{}{Tudo bem, entregue-o.}
 {801}{}{Aqui está.}
-{900}{}{Isso deve resolver.
-}
+{900}{}{Isso deve resolver.}
 {901}{}{A bomba de água foi reparada.}
 {910}{}{(Enxuga o suor da sua testa.) Sim, precisa de algo?}
 {911}{}{O Abade disse que você pode precisar de alguma ajuda. O que parece ser o problema?}

@@ -58,8 +58,7 @@
 {391}{}{Definitivamente. Deixe-me perguntar-lhe algo mais.}
 {400}{}{Olá de novo. Algo mais com o qual posso ajudá-lo?}
 {401}{}{Eu tenho algumas perguntas.}
-{402}{}{Deixa pra lá. Tchau.
-}
+{402}{}{Deixa pra lá. Tchau.}
 {500}{}{Você abre o painel lateral para o emissor de holograma e olha para dentro. Você vê uma bagunça de cabos e placas de circuito.}
 {501}{}{Bem, vamos começar.}
 {502}{}{Depois de algum tempo você isolar o problema e corrige-o. Você fecha o painel e limpa o suor de sua testa.}

@@ -8,11 +8,9 @@
 {107}{}{Quem é você?}
 {108}{}{Ensina-me a lutar.}
 {109}{}{Eu gostaria de desafiá-lo.}
-{110}{}{Esqueça.
-}
+{110}{}{Esqueça.}
 {111}{}{Tenho medo de não entender o seu idioma. :: ele se inclina :: Bom dia.}
-{112}{}{Tchau!
-}
+{112}{}{Tchau!}
 {113}{}{Eu sou o Dragão, amigo. Eu luto contra a opressão e meu inimigo, Lo Pan, que deseja controlar esta cidade. Eu luto, e ensino outros a lutar.}
 {114}{}{Ensina-me!}
 {115}{}{Obrigado.}
@@ -40,8 +38,7 @@
 {137}{}{Ok, Pollyanna. Relaxa.}
 {138}{}{Eu chamo isso de luta inteligente. "Honra" é uma palavra inventada para glorificar assassinos.}
 {139}{}{Tenho-o. Eu tenho mais perguntas.}
-{140}{}{Certo. Até mais.
-}
+{140}{}{Certo. Até mais.}
 {141}{}{Primeiro, determinamos se você deseja que esta seja uma luta até o final, ou um teste de suas habilidades contra as minhas.}
 {142}{}{Até o final. Eu posso te vencer.}
 {143}{}{Um teste de habilidades. Eu não quero matar você.}
@@ -115,10 +112,8 @@
 {219}{}{O Dragão é muito bom, mas você aprendeu.}
 {220}{}{Você já derrotou a meus homens. Outros não desejam desafiar você.}
 {221}{}{Mesmo que você não soubesse, você ajudou nossa causa removendo Lo Pan. Você tem os nossos agradecimentos.}
-{222}{}{Foi um prazer. Tchau.
-}
-{223}{}{Bem vindo. Tchau tchau.
-}
+{222}{}{Foi um prazer. Tchau.}
+{223}{}{Bem vindo. Tchau tchau.}
 {224}{}{Não há de quê. Posso fazer uma pergunta?}
 {225}{}{Bem vinda. Eu pergunto?}
 {226}{}{Você GANHA!}

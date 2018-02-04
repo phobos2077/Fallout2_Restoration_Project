@@ -15,8 +15,7 @@
 {113}{}{Uh.}
 {114}{aeld3}{Escolhido, você nos deseja todos mortos? Você deve encontrar o Vault!}
 {115}{}{Desculpe, Ancião. Eu não vou falhar.}
-{116}{}{Sim Sim. Pare de gritar.
-}
+{116}{}{Sim Sim. Pare de gritar.}
 {117}{aeld4}{Escolhido, por que você está aqui?}
 {118}{}{Eu sei onde o Vault 13 está!}
 {119}{}{Estou pronto para a santa missão.}
@@ -87,8 +86,7 @@ GECK ou o nosso povo vai morrer!}
 {179}{aeld20}{Criança, nossa necessidade é maior do que nunca. Nosso povo adoece, os brahmin
   estão morrendo, e nossa comida está quase desaparecida. A praga da terra só pode ser curada com
   o GECK. Vá, encontre o GECK e sauve nosso povo.}
-{180}{}{Eu compreendo.
-}
+{180}{}{Eu compreendo.}
 {181}{}{Eu estou no meu caminho.}
 {182}{}{Perdoe-me Ancião. Vou encontrar o GECK sem demora.}
 {183}{}{Sim, sim. Você está começando a soar como um disco quebrado...}

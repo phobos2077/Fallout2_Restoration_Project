@@ -36,8 +36,7 @@
 {135}{}{Eu entendi.}
 {136}{}{Sim, tem isso.}
 {137}{}{Procurando ... Acessando arquivos arquitetônicos base ... Dados adquiridos. O escritório do comandante da base está localizado abaixo do solo no quadrante nordeste da base.}
-{138}{}{Bem.
-}
+{138}{}{Bem.}
 {139}{}{Parece bom.}
 {140}{}{Obrigado por acessar EnclaveNet. O log off... }
 {141}{}{Feito.}

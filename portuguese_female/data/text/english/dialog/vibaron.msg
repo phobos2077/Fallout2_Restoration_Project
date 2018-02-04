@@ -51,8 +51,7 @@
 {331}{}{Prazer fazer negócios com você. Tchau.}
 {332}{}{Adeus.}
 {340}{}{Are you threatening me? No one threatens me and lives! (to his caravan guards) Kill this stupid fuck!}
-{341}{}{Pode vir!
-}
+{341}{}{Pode vir!}
 {350}{}{Look, I don't want any trouble. If you want me to swing by and trade with that village, fine, no big deal. Hell, it's hardly even out of my way. No problem.}
 {351}{}{I'm glad we have an understanding. I'll be watching you. Bye.}
 {352}{}{You better hope there's not a problem. Cause if there is, I'll solve it. Bye.}

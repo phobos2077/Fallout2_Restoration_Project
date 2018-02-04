@@ -112,32 +112,32 @@ no alizar de porta.}
 {164}{}{Você verá uma porta danificada, sem aparente dispositivo de bloqueio.}
 {165}{}{Você vê uma porta velha com um bloqueio velho e enferrujado.}
 {166}{}{Você desencadeou a armadilha e foi atingido por}
-{167}{}{pontos de dano.}
-{168}{}{desencadeia a armadilha e foi atingido por}
-{169}{}{pontos de dano.}
+{167}{}{ pontos de dano.}
+{168}{}{ desencadeia a armadilha e foi atingido por  }
+{169}{}{ pontos de dano.}
 {170}{}{Você abre habilmente o bloqueio na porta.}
 {171}{}{A sua falta de habilidade encravou a trava na porta.}
 {172}{}{Você não consegue abrir o bloqueio nesta porta.}
 {173}{}{ habilmente pega a trava na porta.}
 {174}{}{A sua falta de habilidade encravou a trava na porta.}
-{175}{}{Você não consegue abrir o bloqueio nesta porta.}
+{175}{}{  Você não consegue abrir o bloqueio nesta porta.}
 {176}{}{Você arrombou a fechadura da porta.}
 {177}{}{Ao tentar cortar o bloqueio, você pressiona suas costas e
   tomar um ponto de dano.}
 {178}{}{Ao tentar cortar o bloqueio, você pressiona suas costas e
   leva}
-{179}{}{pontos de dano.}
+{179}{}{ pontos de dano.}
 {180}{}{Você é muito fraco para ultrapassar o bloqueio.}
-{181}{}{arrombou a fechadura da porta.}
-{182}{}{estica as costas enquanto tenta abater a fechadura e leva
-  pontos de dano.}
-{183}{}{pressiona suas costas enquanto tenta abrir o bloqueio e toma}
-{184}{}{pontos de dano.}
+{181}{}{ arrombou a fechadura da porta.}
+{182}{}{  Estica as costas enquanto tenta abater a fechadura e leva
+  pontos de dano.}
+{183}{}{  pressiona suas costas enquanto tenta abrir o bloqueio e toma  }
+{184}{}{ pontos de dano.}
 {185}{}{ é muito fraco para ultrapassar o bloqueio.}
-{186}{}{estica as costas enquanto tenta abater a fechadura e leva
-pontos de dano.}
-{187}{}{pressiona suas costas enquanto tenta abrir o bloqueio e toma }
-{188}{}{pontos de dano.}
+{186}{}{  estica as costas enquanto tenta abater a fechadura e leva
+  pontos de dano.}
+{187}{}{ pressiona suas costas enquanto tenta abrir o bloqueio e toma}
+{188}{}{ pontos de dano.}
 {189}{}{Você seguramente bloqueia a porta.}
 {190}{}{Você não bloqueia a porta.}
 {191}{}{ habilmente tranca a porta.}
@@ -153,9 +153,9 @@ pontos de dano.}
 {202}{}{ falha para desarmar a armadilha.}
 {203}{}{A porta parece estar bloqueada. Parece que é preciso algum tipo de cartão fino como uma chave.}
 {204}{}{Você ouve o crepitar da eletricidade correndo pela porta.}
-{205}{}{percebe o crepitar de eletricidade atravessando a porta.}
+{205}{}{ percebe o crepitar de eletricidade atravessando a porta.}
 {206}{}{Você não consegue colocar uma armadilha na porta porque a porta está aberta.}
-{207}{}{é incapaz de colocar uma armadilha nesta porta porque a
+{207}{}{  é incapaz de colocar uma armadilha nesta porta porque
   A porta está aberta.}
 {208}{}{Você habilmente configurou uma armadilha na moldura da porta.}
 {209}{}{Você não conseguiu ajustar a armadilha corretamente no quadro da porta.}

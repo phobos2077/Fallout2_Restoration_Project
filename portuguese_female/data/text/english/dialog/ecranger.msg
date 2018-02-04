@@ -22,11 +22,9 @@
 {121}{}{Muito ruim para você. Nós somos NCR Rangers. Já ouviu falar de nós? Nós matamos escravistas.}
 {122}{}{Você é um saco de merda mentiroso. Pegue-o!}
 {123}{}{Saudações, estranho. Nós somos NCR Rangers. Quem é você?}
-{124}{}{Não é da sua conta.
-}
+{124}{}{Não é da sua conta.}
 {125}{}{Diga, eu ouvi esse nome. Você é um Ranger, não é?}
 {126}{}{Sim.}
-{127}{}{Não é da sua conta.
-}
+{127}{}{Não é da sua conta.}
 {128}{}{Tudo bem, seja anti-social. Pelo menos você não é um escravista. Adeus.}
 {129}{}{Prazer em conhecê-lo, amigo Ranger. Mantenha seus olhos claros para problemas. Até a próxima.}

@@ -33,8 +33,7 @@ de cair fora.}
 {237}{}{Cassidy}
 {238}{}{Sulik}
 {239}{}{Posso fazer outra pergunta?}
-{240}{}{Eu mudei de ideia. Tchau.
-}
+{240}{}{Eu mudei de ideia. Tchau.}
 {241}{}{Dex}
 {242}{}{Gato Jules}
 {243}{}{Kitsune}
@@ -51,8 +50,7 @@ de cair fora.}
 {259}{}{Posso me juntar à guild?}
 {260}{}{O que você pode me dizer sobre sua guilda?}
 {261}{}{Eu gostaria de seguir uma corrida de escravos.}
-{262}{}{Deixa pra lá. Tchau.
-}
+{262}{}{Deixa pra lá. Tchau.}
 {263}{}{ quer mal.}
 {264}{}{Nd.}
 {265}{}{Eu estava olhando os escravos que você tem lá, mas você vê, eu tenho muito, uh ... *gosto seletivo* e nenhum 
@@ -119,8 +117,7 @@ de cair fora.}
 {366}{}{Que tal outra pessoa?}
 {367}{}{Bem, deixe-me fazer outra pergunta em seguida.}
 {368}{}{Tudo bem.}
-{369}{}{Bem.
-}
+{369}{}{Bem.}
 {370}{}{Tudo bem.}
 {371}{}{Não vale a pena.}
 {372}{}{Não.}
@@ -173,8 +170,7 @@ de cair fora.}
 {476}{}{Por que você está mantendo ele aqui?}
 {477}{}{Obrigado.}
 {485}{}{O Enclave e o Novo ... Ei, por que diabos você se importa? É um negócio. Preciso ter certeza de que ninguém está tentando me foder. Isso é tudo o que você precisa saber.}
-{486}{}{Não é da tua conta.
-}
+{486}{}{Não é da tua conta.}
 {487}{}{Tudo bem.}
 {495}{}{Com certeza, mas vai custar-lhe $}
 {496}{}{$}
@@ -264,8 +260,7 @@ metade se vale a pena o meu tempo...}
 {731}{}{Ah, sério?}
 {732}{}{Uh oh.}
 {740}{}{Sim, tenho medo que os acidentes ocorram por aqui com bastante frequência. Na verdade, eu tenho medo de termos outro. [Metzger sorri agradavelmente e depois acena para os homens.]}
-{741}{}{Pode vir!
-}
+{741}{}{Pode vir!}
 {742}{}{Eu não estou saindo disso sou eu?}
 {750}{}{Ah, mas isso vai ser divertido. Confie em mim.}
 {751}{}{Foda-se você.}
@@ -287,7 +282,7 @@ metade se vale a pena o meu tempo...}
   espião para eles, Rangers, vou caçar você e te enterrar vivo. [Você escuta as instruções dele e anota a localização do Slaver Camp's no seu Pipboy.]}
 {915}{}{Tenho-o. Deixe-me perguntar-lhe algo mais.}
 {916}{}{Obrigado. Eu vou estar no meu caminho agora. Tchau.}
-{1360}{}{  por ela. Que tal?}
+{1360}{}{ por ela. Que tal?}
 {1361}{}{?}
 {1363}{}{.}
 {1364}{}{.}
@@ -298,13 +293,13 @@ metade se vale a pena o meu tempo...}
 {1542}{}{.}
 {1543}{}{. $}
 {1544}{}{ não é algo para rir, mas você não pode fazer muito mais do que isso.}
-{1545}{}{desta vez. Bom trabalho.}
+{1545}{}{ desta vez. Bom trabalho.}
 {1546}{}{.}
 {1547}{}{? Não é mau.}
 {1548}{}{? Você pode fazer melhor do que isso.}
 {1549}{}{.}
 {1550}{}{! Isso é uma merda lamentável! Melhore ou eu vou chutar o seu traseiro.}
-{1551}{}{  e saia.}
+{1551}{}{ e saia.}
 {2540}{}{.}
 {2543}{}{.}
 {15401}{}{. Muito foda bom trabalho, }

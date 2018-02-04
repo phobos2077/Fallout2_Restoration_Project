@@ -24,7 +24,8 @@
 {123}{}{Foda-se você.}
 {124}{}{Deixe o meu armário sozinho ou vou causar uma dor séria.}
 {125}{}{Tempo para morrer.}
-{200}{}{Tudo bem, vamos acabar com isso - eu não gosto de muties fedendo em meu escritório, e eu tenho merdas para fazer. Você trabalha para os Salvatores?}
+{200}{}{Tudo bem, vamos acabar com isso - eu não gosto de muties fedendo em meu escritório, e eu tenho merdas para fazer. Você 
+ trabalha para os Salvatores? }
 {201}{}{Nada de sua conta, idiota.}
 {202}{}{Não trabalho para ninguém.}
 {203}{}{Então, e se eu fizer?}

@@ -1,8 +1,7 @@
 {100}{}{Você vê um menino pequeno.}
 {101}{}{Você vê uma menina.}
 {200}{}{Estamos lá ainda?}
-{201}{}{Estou cansado.
-}
+{201}{}{Estou cansado.}
 {202}{}{Você vai me levar?}
 {203}{}{Eu não devia falar com estranhos.}
 {204}{}{A mamãe e o Papai saiu aqui.}

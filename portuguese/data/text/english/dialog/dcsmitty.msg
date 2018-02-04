@@ -4,7 +4,7 @@
 {200}{}{Você Varmint! Saia daqui antes que eu prenda você!}
 {201}{}{Saia do meu lugar!}
 {202}{}{Saia da minha terra!}
-{203}{}{Dang varmint, saia daqui!}
+{203}{}{Dang varmint, saia daqui.}
 {204}{}{Vá para o inferno fora de mim.}
 {220}{}{Ei, fora de minha terra.}
 {221}{}{Você lá, idiota, saia daqui.}

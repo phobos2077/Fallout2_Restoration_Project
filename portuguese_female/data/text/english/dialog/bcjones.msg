@@ -89,8 +89,7 @@
 {204}{}{O que você fazer?}
 {205}{}{Bem, não vejo motivo para voltar à minha vida antiga. A cidade acima de nós não tem assistência médica, então eu acho
   Subirei e ajudarei-os. Obrigado novamente por me libertar.}
-{206}{}{Claro. Até logo.
-}
+{206}{}{Claro. Até logo.}
 {207}{}{Adeus!}
 {210}{}{Eu ainda preciso arrumar algumas coisas. Eu vejo você lá fora.}
 {220}{}{Ei, bom te ver de novo! Todos aqui realmente apreciam o que você fez. Pessoalmente, estou feliz

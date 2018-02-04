@@ -60,8 +60,7 @@
 {372}{}{É isso aí? Eu fui e consegui essas malditas sementes para você e isso é o que eu recebo por meu problema? Mais uma semente? Foda-se você e seus zombis de planta assustadores. Eu acho que vou fazer um favor ao mundo e acabar com essa operação mórbida.}
 {380}{}{O Shi tem tentado criar vida vegetal resistente à radiação. Eu fui o chefe desse projeto, mas durante minha pesquisa fiz uma descoberta que me levou por um caminho diferente. Eu criei um soro de planta senciente, mas depois de alguns ... incidentes infelizes, o Shi queria fechar o projeto. Então eu deixei continuar meu trabalho sem obstáculos.}
 {381}{}{OK. Então, como essa amostra de planta se enquadra nisso?}
-{382}{}{Continue...
-}
+{382}{}{Continue...}
 {390}{}{Ironicamente, assim como meu foco estava mudando para minhas novas criações de plantas sensíveis, eu fiz um grande avanço na pesquisa de plantas resistentes à radiação. Mantive esse segredo, como não quis tirar atenção da minha descoberta mais significativa. Quando os outros não conseguiram ver a importância das minhas plantas sensíveis, eu decidi manter meu segredo fora de despeito. Ou seja, até agora. Com a amostra da planta que lhe dei, mesmo um idiota de mentalidade estreita, como o Dr. Wong, poderia alcançar o objetivo da vida vegetal resistente à radiação.}
 {391}{}{Então, por que a mudança de coração?}
 {392}{}{Tudo bem. Eu vou entregá-lo ao Dr. Wong.}
@@ -96,8 +95,7 @@
 {461}{}{Ajudá-lo com o que?}
 {462}{}{Não! Eu não vou ajudar você, idiota! Seymour foi real! SEYMOUR FOI REAL!}
 {470}{}{[Ele sorri, obviamente ansioso para mostrar o seu gênio.] Eu sempre fui fascinado pelas plantas. Eles são tão notavelmente diferentes dos animais, e ainda surpreendentemente semelhantes. Quando você olha para um animal, você sabe que pode pensar, que está ciente de seus arredores, experimenta dor e medo. Que tem razão. Obviamente, a extensão dessa habilidade varia, mas o ponto é que um animal possui isso.}
-{471}{}{Continue.
-}
+{471}{}{Continue.}
 {480}{}{Quando você olha para uma planta, você também pensa isso? Se você chutar uma planta, ele luta de volta? Responde-lhe de qualquer maneira? Falar com uma planta afeta seu crescimento? Algumas culturas antes da Grande Guerra testaram tais teorias. Um povo conhecido como alemães conduziu experimentos que os levaram a acreditar que as plantas são capazes de emoções e que poderia promover um crescimento saudável com conversa, atenção e carinho.}
 {481}{}{Mas as plantas não têm um sistema nervoso, e sem o que você está sugerindo simplesmente não é possível.}
 {482}{}{Penso que todas as formas de vida percebem de alguma forma.}
@@ -132,8 +130,7 @@
 {582}{}{O quê tem pra mim?}
 {583}{}{Eu não estou interessado em limpar a sua bagunça.}
 {590}{}{O laboratório está bem lá para o norte. A sentinela irá deixar você passar. Seja cuidadoso. Essas criaturas são incrivelmente fortes, então tente não deixá-las chegar muito perto. Ah, e cuidado com a esponja venenosa que eles disparam. Mas não se preocupe. Eu tenho um antídoto, se você for envenenado.}
-{591}{}{OK. Eu voltarei.
-}
+{591}{}{OK. Eu voltarei.}
 {592}{}{Então eles são incrivelmente fortes e possuem projéteis venenosos? Pensando bem, eu vou ter que passar.}
 {600}{}{Devo dar-lhe dinheiro, é claro. Além disso, eu tenho informações que eu acredito que seria de grande interesse para você. Então, você vai me ajudar?}
 {601}{}{Tudo bem. Eu vou fazer isso.}

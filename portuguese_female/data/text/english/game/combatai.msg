@@ -855,8 +855,7 @@
 {2209}{}{You won this time.}
 {2210}{}{Next time the luck's going to be on my side.}
 {2211}{}{Better to live again to fight another day.}
-{2212}{}{Estou fora daqui.
-}
+{2212}{}{Estou fora daqui.}
 {2213}{}{You're not worth the trouble.}
 {2214}{}{Shit, I didn't think you'd be so much work.}
 {2215}{}{Crap, time to scram.}

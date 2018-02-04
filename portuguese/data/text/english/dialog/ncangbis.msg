@@ -143,8 +143,7 @@
 {531}{}{Yeah, I understand you need someone to put in your place, PRINCESS, and I'm just the one to do it.}
 {532}{}{Understood, Miss Bishop.}
 {534}{}{I better be going.}
-{535}{}{Estou fora daqui.
-}
+{535}{}{Estou fora daqui.}
 {540}{}{I CALLED you a whore, didn't I? Not much difference between being 'made' and getting laid, right?}
 {541}{}{Enforcer, whore… what's the difference?}
 {542}{}{There's a big difference. Do you want me to teach it to you, you little pampered bitch?}

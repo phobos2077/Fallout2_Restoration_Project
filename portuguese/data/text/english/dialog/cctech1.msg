@@ -30,8 +30,7 @@
 {135}{}{A base principal está localizado na costa do Pacífico, perto da cidade de San Francisco. Posso perguntar por que você está perguntando?}
 {136}{}{Não. Razão militar. Quantas maneiras de chegar à base?}
 {137}{}{Não. Este é um assunto militar. Agora, quantas maneiras você conhece para alcançar a base?}
-{138}{}{Bem ... há os vertibirds, mas isso é bem óbvio. Depois, há o petroleiro em San Fran. Além disso, acho que você teria que nadar.
-}
+{138}{}{Bem ... há os vertibirds, mas isso é bem óbvio. Depois, há o petroleiro em San Fran. Além disso, acho que você teria que nadar.}
 {139}{}{Obrigado.}
 {140}{}{Obrigado.}
 {141}{}{Eles devem estar localizados na área de manutenção, ao lado de controlo de tráfego aéreo. }

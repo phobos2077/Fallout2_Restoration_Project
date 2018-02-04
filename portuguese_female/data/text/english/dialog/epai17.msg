@@ -6,7 +6,6 @@
 {105}{}{Você vê um computador}
 {106}{}{Você vê o computador de armazenamento de dados da EPA.}
 {107}{}{Você vê um computador que garante que os dados estão corretamente armazenados de forma segura na EPA.}
-{108}{}{Consegui!
-}
+{108}{}{Consegui!}
 {109}{}{O problema da bobina magnética foi corrigido.}
 {1030}{}{Checando verificação ... Iniciando ... Compilando ... Obrigado por ser paciente durante este procedimento ... Completo. Armazenamento de dados com 100% de eficiência. Obrigado e tenha um bom dia. Verificação final.}

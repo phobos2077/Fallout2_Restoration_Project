@@ -12,8 +12,7 @@
 {111}{}{Não importa.}
 {112}{}{Este é o escritório do comandante da base. Esta área está fora de limites para todo o pessoal. Vou pedir-lhe que vá embora, senhor.}
 {113}{}{Me ter negócios com o comandante.}
-{114}{}{Bem.
-}
+{114}{}{Bem.}
 {115}{}{Eu tenho negócios com o comandante.}
 {116}{}{Tudo certo.}
 {117}{}{Qual é a natureza do seu negócio, senhor?}

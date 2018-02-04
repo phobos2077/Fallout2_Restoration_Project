@@ -28,8 +28,7 @@
   conhecido por estar na posse do irmão Thomas, e é muito importante para nós, como foi transmitida por nossos fundadores.
   Se você pudesse recuperar esse livro, eu ficaria muito agradecido. Na verdade, eu lhe concederia acesso total aos nossos computadores, então você
   pode procurar o que quiser.}
-{412}{}{É um acordo. Volto em breve.
-}
+{412}{}{É um acordo. Volto em breve.}
 {413}{}{Talvez, deixe-me pensar sobre isso mais algumas...}
 {414}{}{Obrigado. Por favor, deixe-me saber se você encontrar o livro.}
 {415}{}{Ok, tchau.}

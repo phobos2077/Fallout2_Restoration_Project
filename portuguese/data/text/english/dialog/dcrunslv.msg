@@ -31,8 +31,7 @@
 {350}{}{Correr para sua vida!}
 {351}{}{Não deixe que eles o peguem!}
 {352}{}{Escravistas! Corra disso!}
-{353}{}{Ajude alguém! Por favor!
-}
+{353}{}{Ajude alguém! Por favor!}
 {354}{}{Corra disso, Marty!}
 {355}{}{Ahhh!}
 {356}{}{Pare a insanidade!}

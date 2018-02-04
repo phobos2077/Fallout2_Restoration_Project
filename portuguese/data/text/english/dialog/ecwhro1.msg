@@ -6,8 +6,7 @@
 {104}{}{Então...o meu jogador foi TÃO estúpido, que...}
 {105}{}{Obtenha isso, obtenha isso - ele acha que a munição de espingarda é o chip de água, e ele leva de volta para
   O Supervisor ...}
-{106}{}{Que idiota!
-}
+{106}{}{Que idiota!}
 {107}{}{Eu tive um daqueles jogadores "violentos, idiotas como uma pedra" que me corroam. E deixe-me dizer-lhe ...}
 {108}{}{Foi divertido por um tempo, mas fica velho rápido. Há apenas tanta coisa para fazer antes de você
   ficar cansado.}

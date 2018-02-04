@@ -6,8 +6,7 @@
 {105}{}{O que você está fazendo em torno de Vault City?}
 {106}{}{Qual é o seu negócio perto de Vault City?}
 {107}{}{Isso faz parte do território da Cidade do Vault.}
-{108}{}{Tenha cuidado.
-}
+{108}{}{Tenha cuidado.}
 {109}{}{Vault City não é um santuário para * todos. * Então, siga em frente.}
 {110}{}{Seu tipo pertence ao Den.}
 {111}{}{Eu sugiro que você vá lá agora.}

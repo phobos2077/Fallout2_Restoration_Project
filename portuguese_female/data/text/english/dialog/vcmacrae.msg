@@ -66,12 +66,10 @@
 {154}{}{That pretty much did it, but I could use a couple more stims.}
 {155}{}{I used what I could, but I'm still pretty messed up. Got any stims on you?}
 {156}{}{Use First Aid on yourself.}
-{157}{}{Deixa pra lá.
-}
+{157}{}{Deixa pra lá.}
 {158}{}{OK.}
 {159}{}{OK, I'll wait here.}
-{160}{}{Deixa pra lá.
-}
+{160}{}{Deixa pra lá.}
 {161}{}{OK.}
 {162}{}{Let's get going.}
 {163}{}{OK.}

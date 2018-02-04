@@ -53,8 +53,7 @@
 {501}{}{Manter em movimento.}
 {502}{}{VENHA 7!}
 {503}{}{Sim!}
-{504}{}{Deixe vir!
-}
+{504}{}{Deixe vir!}
 {505}{}{Becky! Eu vou tomar todo o seu dinheiro de hoje!}
 {506}{}{Woohoo! O vencedor!}
 {507}{}{Dê-me outro bom salto!}

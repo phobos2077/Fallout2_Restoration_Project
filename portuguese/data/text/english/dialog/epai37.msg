@@ -28,22 +28,19 @@
 {502}{}{Sim. Finalmente, eu posso ser a pessoa que eu sempre estive por dentro.}
 {503}{}{Eh, talvez mais tarde. Tchau.}
 {504}{}{Deixe-me escolher outro procedimento.}
-{505}{}{De jeito nenhum! Estou fora daqui!
-}
+{505}{}{De jeito nenhum! Estou fora daqui!}
 {510}{}{Excelente escolha. Este procedimento vai levar duas semanas para se recuperar e tem 25% de chance de morte. Quer começar agora?}
 {511}{}{Vamos fazer isso.}
 {512}{}{Sim. Finalmente, eu posso ser a pessoa que eu sempre estive por dentro.}
 {513}{}{Eh, talvez mais tarde. Tchau.}
 {514}{}{Deixe-me escolher outro procedimento.}
-{515}{}{De jeito nenhum! Estou fora daqui!
-}
+{515}{}{De jeito nenhum! Estou fora daqui!}
 {520}{}{Excelente escolha. Este procedimento irá demorar um dia para você se recuperar e tem 1% de chance de morte. Quer começar agora?}
 {521}{}{Vamos fazer isso.}
 {522}{}{Sim. Finalmente, eu posso ser a pessoa que eu sempre estive por dentro.}
 {523}{}{Eh, talvez mais tarde. Tchau.}
 {524}{}{Deixe-me escolher outro procedimento.}
-{525}{}{De jeito nenhum! Estou fora daqui!
-}
+{525}{}{De jeito nenhum! Estou fora daqui!}
 {600}{}{Parabéns! O experimento foi um sucesso. Obrigado e desfrute o novo você.}
 {601}{}{[Sair.]}
 {650}{}{Desculpe, este procedimento não está actualmente disponível para o sexo feminino.}

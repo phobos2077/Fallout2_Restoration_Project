@@ -111,8 +111,7 @@
 {257}{}{Venha, baby.}
 {258}{}{Siga-me.}
 {259}{}{Nenhuma mulher me levanta. Dar o fora!}
-{260}{}{Bem.
-}
+{260}{}{Bem.}
 {261}{}{Eu esqueci; Eu tinha outra coisa que eu tinha que atender imediatamente. Por favor, perdoe-me, baby.}
 {262}{}{Eu decidi que não queria dormir com seu feio culo depois de tudo.}
 {263}{}{Sorte sua, sou um cara legal. Apenas não puxe essa porcaria comigo novamente.}

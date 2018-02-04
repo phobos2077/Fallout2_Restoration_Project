@@ -6,8 +6,7 @@
 {105}{}{I'm gonna do you until you bleed. Sorry, was that out loud?}
 {106}{}{Ay carumba! Nalgas con queso!}
 {107}{}{Woo hoo hoo hoo hoo!}
-{108}{}{Estou fora daqui.
-}
+{108}{}{Estou fora daqui.}
 {109}{}{I knew Big Jesus Mordino when he was Baby Jesus.}
 {110}{}{Jesus Mary Mother of God!}
 {111}{}{I am a producer. I make games. Games are fun. Play my games.}

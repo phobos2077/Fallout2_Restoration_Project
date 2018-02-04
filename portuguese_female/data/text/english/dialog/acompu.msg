@@ -54,8 +54,7 @@ O anúncio retrata um cara de desenhos animados sorridente em um terno de Vault s
 Por favor stand by...}
 {145}{}{Esperar.}
 {146}{}{... Erro do sistema: a operação foi concluída com sucesso ... (Um som gritante começa a emanar do interior do computador e de outros próximos.}
-{147}{}{[Ir embora.]
-}
+{147}{}{[Ir embora.]}
 {148}{}{Erro: Teclado Não encontrado. Por favor, pressione qualquer tecla para reinicializar.}
 {150}{}{Carregando Agência de Proteção Ambiental Botânica informações do disco...Upload completo. Tenha um bom dia.}
 {200}{}{Pedra, Papel, Tesoura V. 0.3. Selecione uma opção.}

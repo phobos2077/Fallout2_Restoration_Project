@@ -2,8 +2,7 @@
 {150}{}{Você vê uma pequena criança órfã.}
 {200}{}{Mudança de reposição?}
 {201}{}{O que?}
-{202}{}{Eu não estou fazendo nada'!
-}
+{202}{}{Eu não estou fazendo nada'!}
 {210}{}{Este é o lugar de Tubby.}
 {211}{}{Tubby vende coisas ruins.}
 {212}{}{Tubby não é muito agradável.}
@@ -48,8 +47,7 @@
 {312}{}{Agora vemos a violência inerente ao sistema.}
 {313}{}{Eu não fiz nada}
 {314}{}{Ahhhh!}
-{315}{}{Sentiu minha falta.
-}
+{315}{}{Sentiu minha falta.}
 {316}{}{Você é isso.}
 {317}{}{Não!}
 {318}{}{Pare com isso.}

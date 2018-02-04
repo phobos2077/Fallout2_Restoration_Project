@@ -5,6 +5,5 @@
 {202}{}{*rosnado*}
 {203}{}{Grrr!}
 {204}{}{Quero comer!}
-{205}{}{Matar! Alimentooo!
-}
+{205}{}{Matar! Alimentooo!}
 {206}{}{*baba*}

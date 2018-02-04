@@ -31,8 +31,7 @@
 {179}{}{Eu não tenho dinheiro suficiente.}
 {180}{}{Ok, $50 então.}
 {181}{}{Muito ruim para você.}
-{182}{}{Até a próxima.
-}
+{182}{}{Até a próxima.}
 {183}{}{Não me incomode. Estou procurando por pintinhos bonitos.}
 {184}{}{Boa sorte. Você vai precisar dela.}
 {185}{}{O que sou eu, fígado picado?}

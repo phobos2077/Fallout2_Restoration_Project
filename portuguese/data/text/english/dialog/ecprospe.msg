@@ -17,5 +17,5 @@
 {114}{}{Por que você me atacou?}
 {115}{}{Agora eu tenho que matar você.}
 {116}{}{Eu só queria um pouco de suprimentos.}
-{117}{}{Você pode ter minha reivindicação! }
+{117}{}{Você pode ter minha reivindicação!}
 {118}{}{Misericórdia!}

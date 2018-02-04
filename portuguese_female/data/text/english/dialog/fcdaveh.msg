@@ -12,8 +12,7 @@
 {111}{}{Falei com Vikki. Ela e Juan se burlaram de você e disseram que você não é um homem de verdade.}
 {112}{}{Falei com Vikki. Ela disse que você é gostoso e ela quer você em algum momento.}
 {113}{}{Você quer que eu fale com Vikki para você?}
-{114}{}{Deixa pra lá. Tchau.
-}
+{114}{}{Deixa pra lá. Tchau.}
 {115}{}{Ummm ... oookay. Tanto faz. Diga, o que está por ai?
 [à medida que você se virou para olhar, ele voltou para o que estava fazendo e ignora você]}
 {116}{}{[FEITO]}
@@ -35,8 +34,7 @@
 {132}{}{Você percebe que ela apenas irá interessar-se em você para garantir que você permaneça um bom Hubologista, certo?}
 {133}{}{Bem, sim... mas vale a pena no caso de algo acontecer!}
 {134}{}{Se você diz que sim ... se você diz isso. Eu tenho mais perguntas.}
-{135}{}{Tanto faz. Até logo.
-}
+{135}{}{Tanto faz. Até logo.}
 {136}{}{:: ele senta em silêncio atordoado por um momento ::
 :: a dor cruza o rosto ::
 Ah bem.
@@ -55,15 +53,13 @@ Ah bem.
 {148}{}{Eu quero que você invada as bases de dados Shi e obtenha algum combustível canalizado para o petroleiro Poseidon.}
 {149}{}{Eu quero que você reencaminhe o combustível da nave espacial para o petroleiro Poseidon.}
 {150}{}{Bem, eu estava apenas brincando. Ela não chegou a dizer isso.}
-{151}{}{Boa sorte. Até mais!
-}
+{151}{}{Boa sorte. Até mais!}
 {152}{}{Lá. Ensine esses bastardos a usar e rejeitar-me. Adeus.}
 {153}{}{Bem, eu estava apenas brincando. Ela não chegou a dizer isso.}
 {154}{}{Adeus.}
 {155}{}{Ela não disse isso. Ah, bom.}
 {156}{}{Então, eu fiz todo esse mal para nada. Eu vou matar você agora.}
-{157}{}{Tente.
-}
+{157}{}{Tente.}
 {158}{}{Ela fez? Mesmo? Uau. :: um sorriso beatifico atravessa lentamente o rosto :: Obrigado! O que posso fazer para você?}
 {159}{}{Eu preciso dos planos de vertibird do seu computador.}
 {160}{}{Preciso que você forme o disco rígido Hubologista.}

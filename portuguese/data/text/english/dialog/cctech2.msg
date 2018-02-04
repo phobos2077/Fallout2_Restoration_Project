@@ -5,8 +5,7 @@
 {104}{}{Eu novo aqui. Precisa perguntar.}
 {105}{}{Eu apenas disse oi. Eu vou agora.}
 {106}{}{Eu sou novo aqui e estou tentando familiarizar-me com a base. Posso fazer-lhe algumas perguntas?}
-{107}{}{Só dizendo Oi. Até mais.
-}
+{107}{}{Só dizendo Oi. Até mais.}
 {108}{}{Certamente, soldado.}
 {109}{}{Com o que posso ajudar?}
 {110}{}{O que este lugar?}

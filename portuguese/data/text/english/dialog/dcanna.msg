@@ -22,8 +22,7 @@
 {169}{}{Tchau. Eu vou tentar ajudar.}
 {170}{}{Meu medalhão! Dê isso para mim!!! Oh!!!!!!}
 {171}{}{De jeito nenhum! Vá para o inferno. Eu encontrei esta justa.}
-{172}{}{ESTÁ BEM. Aqui está.
-}
+{172}{}{ESTÁ BEM. Aqui está.}
 {173}{}{Aqui. Você pode descansar em paz.}
 {174}{}{OK.}
 {175}{}{Não.}

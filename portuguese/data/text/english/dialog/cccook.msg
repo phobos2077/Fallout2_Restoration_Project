@@ -81,8 +81,7 @@
 {174}{}{Onde isso?}
 {175}{}{Tudo bem.}
 {176}{}{Onde é isso?}
-{177}{}{Eu cuidarei disso.
-}
+{177}{}{Eu cuidarei disso.}
 {178}{}{Pegue o elevador no quarto seguinte para baixo, siga o corredor até a junção principal, vire à esquerda e é a primeira porta à sua esquerda. Você vai chegar.}
 {179}{}{Obrigado.}
 {180}{}{Puta merda! Eu sou apenas um cozinheiro... e um cego. Eu não vejo qualquer intruso que vem por aqui.}

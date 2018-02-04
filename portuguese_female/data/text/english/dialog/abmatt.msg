@@ -30,13 +30,11 @@
 {500}{}{Eu estou ao seu serviço. O que você gostaria de saber?}
 {501}{}{O que você pode me dizer sobre este lugar?}
 {502}{}{Você parece ser muito poético em sua pregação. Alguma razão para isso?}
-{503}{}{Deixa pra lá. Cuide-se.
-}
+{503}{}{Deixa pra lá. Cuide-se.}
 {600}{}{A Abadia é o lar de qualquer pessoa, desde que não causem problemas. Somos uma comunidade independente e raramente recebemos
   visitantes, como você. A maioria daqueles que você vê aqui são descendentes dos fundadores originais que se estabeleceram
   neste antigo mosteiro não muito tempo depois do grande dilúvio da Chama.}
-{601}{}{Continue.
-}
+{601}{}{Continue.}
 {602}{}{A qualidade tranquila e pacífica deste lugar tornou-a uma casa atraente para outros viajantes que vagaram
   aqui ao longo dos anos, procurando escapar do caos sombrio dos resíduos. Claro, o verdadeiro valor desse lugar reside
   em sua vasta biblioteca. Está cheio de tomos velhos, contendo a estranha sabedoria da idade perdida. Com o tempo, chegamos a

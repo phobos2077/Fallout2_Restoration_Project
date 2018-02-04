@@ -9,8 +9,7 @@
 {203}{}{Não quando ele está passando como um ladrão e carregando uma pá.}
 {204}{}{Tudo bem, mas por que você está carregando uma pá?}
 {205}{}{Seja como for, estou saindo daqui.}
-{206}{}{Deixa pra lá. Desculpe incomodá-lo.
-}
+{206}{}{Deixa pra lá. Desculpe incomodá-lo.}
 {207}{}{Você quer dizer esta coisa? [Ele olha para a pá enferrujada em suas mãos.] Bem, uh, você nunca sabe quando você
   pode encontrar algo que precisa desenterrar. Sempre esteja preparado, eu digo.}
 {208}{}{Encontrar alguma coisa, hein? Você quer dizer como algo em uma sepultura?}

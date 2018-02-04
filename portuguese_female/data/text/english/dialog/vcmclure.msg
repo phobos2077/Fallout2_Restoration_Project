@@ -38,8 +38,7 @@
 {137}{}{Here's the Gecko reactor disk. Can you optimize it?}
 {138}{}{Nothing today, thanks.}
 {139}{}{I am Senior Councilor McClure. And you are...?}
-{140}{}{Não é da sua conta.
-}
+{140}{}{Não é da sua conta.}
 {141}{}{. Pleased to meet you.}
 {142}{}{I really have to run. Maybe we can do introductions some other time.}
 {143}{}{I expect that kind of rudeness from an Outworlder, not a Citizen. I am a member of the Vault City Council, and you will show me the proper respect, or I will have your Citizenship revoked. Do you understand me?}

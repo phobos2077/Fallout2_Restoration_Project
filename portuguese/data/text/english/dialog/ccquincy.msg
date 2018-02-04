@@ -73,9 +73,9 @@ ele é mais mecânico do que um soldado.}
 {162}{}{Por isso o alerta? O que está acontecendo?}
 {163}{}{O que diabos está acontecendo?}
 {164}{}{Hey! Não se atreva a vasculhar as gavetas.}
-{165}{}{Eu lhe disse para não mexer com as minhas coisas! Guardas! }
+{165}{}{Eu lhe disse para não mexer com as minhas coisas! Guardas!}
 {200}{}{Sim. Bem, não acredite em tudo que você ouve.}
 {201}{}{Quem te disse isso? Porque ele é o próximo depois que eu toque um pouco de senso em você.}
 {300}{}{Você não vê que estou ocupado?}
 {301}{}{Hey! Não se atreva a vasculhar as gavetas!}
-{302}{}{Eu lhe disse para não mexer com as minhas coisas! Guardas! }
+{302}{}{Eu lhe disse para não mexer com as minhas coisas! Guardas!}

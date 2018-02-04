@@ -12,7 +12,8 @@
 {211}{}{Eu acho que não há mal nenhum-}
 {212}{}{Bem, Eu-}
 {220}{}{Claro que não se importa. Valeu cara. [Ele passa além de você e abre um armário próximo. Ele casualmente se veste
-em um terno finamente adaptado, em seguida, enfia o conteúdo do armário. Utilizando um pente de bolso, ele começa a esculpir o estilo do seus cabelos escuros com a precisão de um experiente profissional.] Então, onde está o doc?}
+ em um terno finamente adaptado, em seguida, enfia o conteúdo do armário. Utilizando um pente de bolso, ele começa a 
+ esculpir o estilo do seus cabelos escuros com a precisão de um experiente profissional.] Então, onde está o doc? }
 {221}{}{O doc? Ah, ele provavelmente está por aí em algum lugar. Na verdade, eu acho que ele está a caminho agora, então vou apenas sair daqui e deixar vocês dois apanharem. Tchau!}
 {222}{}{Isso pode ser um choque para você, mas você ficou congelado há muito tempo. Quem fosse "o doc", ele está
   Certamente há muito tempo morto até agora. Se ele fosse seu amigo, então desculpe.}
@@ -88,7 +89,7 @@ em um terno finamente adaptado, em seguida, enfia o conteúdo do armário. Utiliza
 {360}{}{[Dex dá outro olhar ao redor da sala e associa.] Não é brincadeira. Este lugar realmente foi para merda. Quanto tempo você disse que tem sido?}
 {370}{}{Tudo bem, você realmente precisa saber? Bem. Basicamente, esses malditos médicos fodidos estavam fazendo algum tipo de testes sobre a "natureza do mal humano" ou alguma porcaria.
   Eles me injetaram as memórias de um maníaco para ver como isso afetaria a personalidade de um cara digno e respeitador da lei como eu. Pelo menos, é o melhor que eu poderia imaginar.}
-{371}{}{Entendo. Então, *como* afetou você?}
+{371}{}{Entendo. Então, *como* afetou você? }
 {372}{}{Eu não sei, isso me deu alguns pesadelos, está bem? Olha, fiquei congelado por quem sabe por quanto tempo, e não estou com vontade de um maldito interrogatório.
   Você é quase tão ruim quanto o Doc ... Você disse que ele está morto? Quanto tempo eu estava fora? Este lugar parece uma merda.}
 {400}{}{[À medida que você se aproxima da câmara criogênica, você vê um homem nu atraente esparramado no chão. Ele desenha o seu
@@ -206,7 +207,8 @@ em um terno finamente adaptado, em seguida, enfia o conteúdo do armário. Utiliza
 {611}{}{Eu acho que não há mal nenhum-}
 {612}{}{Bem, Eu-}
 {620}{}{Claro que não se importa. Valeu cara. [Ele passa além de você e abre um armário próximo. Ele casualmente se veste
-  em um terno finamente adaptado, em seguida, enfia o conteúdo do armário. Utilizando um pente de bolso, ele começa a esculpir e modelar o seu cabelos escuros escorregadios com a precisão rápida de um experiente profissional.] Então, onde está o doc?}
+  em um terno finamente adaptado, em seguida, enfia o conteúdo do armário. Utilizando um pente de bolso, ele começa a 
+  esculpir e modelar o seu cabelos escuros escorregadios com a precisão rápida de um experiente profissional.] Então, onde está o doc?  }
 {621}{}{Sei lá. Onde quer que ele esteja, ele já está morto há muito tempo. Você vê, você está fazendo essa marca de picolé por um tempo muito longo.}
 {622}{}{Escute, garoto bonito. Eu não desprezei seu entalhe psicótico para que eu pudesse responder suas perguntas e assistir você se preparar.
   Só estou deixando você viver o suficiente para me contar qualquer informação útil que você possa ter. Então comece a falar. O mais
@@ -245,9 +247,7 @@ em um terno finamente adaptado, em seguida, enfia o conteúdo do armário. Utiliza
 {691}{}{Inferno, não há necessidade de tentar me convencer. Eu ficaria feliz por ter você só para ver seu trabalho de primeira mão.}
 {692}{}{Eu não sei, Dex. Digamos que eu deixei você vir junto comigo, e nós voltamos para a segurança remota de um
   assentamento. Uma vez lá, como eu sei que você não vai tentar cortar minha garganta a primeira chance que você tem?}
-{700}{}{Eu posso dizer que você não é santo, então eu poderia te pedir o mesmo. Mas para responder a sua pergunta, eu não o mataria
-  porque isso iria me foder mais. Eu serei honesto,
-}
+{700}{}{Eu posso dizer que você não é santo, então eu poderia te pedir o mesmo. Mas para responder a sua pergunta, eu não o mataria porque isso iria me foder mais. Eu serei honesto,}
 {701}{}{, Eu não me importo com ninguém, ou qualquer coisa, exceto para mim. Se o mundo estiver tão fodido quanto você diz,
   então ficar com você é o melhor tiro que eu tenho. É simples assim.}
 {702}{}{Justo o suficiente. Vamos lá.}
@@ -325,8 +325,7 @@ e cinquenta anos.}
   Quero dizer, este lugar foi para merda, e parece que você saiu de algum tipo de relato de aventura de ficção científica.}
 {1000}{}{Qual é a palavra?}
 {1001}{}{[Dex bate uma sobrancelha para você.] Alguma coisa?}
-{1002}{}{Fale pra mim.
-}
+{1002}{}{Fale pra mim.}
 {1003}{}{[Dex sorri.] O que se passa, amigo?}
 {1004}{}{Você precisa de algo?}
 {1005}{}{O que pode Dex fazer por você?}
@@ -417,8 +416,7 @@ que não podem ser todas verdadeiras.}
   fantoche para o tio Sam, mas eu, eu ... Digamos que desci um caminho diferente.}
 {1703}{}{Isso soa bem. Mais alguma coisa?}
 {1704}{}{Fui conhecido por vencer um pouco com bons "ol fisticuffs". Quando eu era adolescente, tentei minha mão no Karate por
-algum tempo, mas eles continuaram me alimentando toda essa merda por ser mais disciplinado, então eu disse a eles para que fossem fodidos. Algo mais que você precisa saber?
-}
+algum tempo, mas eles continuaram me alimentando toda essa merda por ser mais disciplinado, então eu disse a eles para que fossem fodidos. Algo mais que você precisa saber?}
 {1705}{}{Isso deveria cobri-lo. Obrigado.}
 {1800}{}{Eu estou bem para ir.}
 {1801}{}{Eu estive melhor, mas posso lidar com isso.}
@@ -460,9 +458,8 @@ algum tempo, mas eles continuaram me alimentando toda essa merda por ser mais di
   depois cortando-as. Então eles finalmente me pegaram, e minha trilha me transformou em uma celebridade.}
 {3013}{}{Então, o que?}
 {3014}{}{Então, um dos meus novos fãs, Alice, me ajuda a escapar. Nós dois fomos em uma fuga de assalto de três semanas por país
-  antes de finalmente cair em um tiroteio. Então, por algum motivo, O Homem decide me juntar e correr tudo
-  Esses testes em mim. E foi assim que acabei na EPA, onde você me encontrou.
-}
+antes de finalmente cair em um tiroteio. Então, por algum motivo, O Homem decide me juntar e correr tudo
+Esses testes em mim. E foi assim que acabei na EPA, onde você me encontrou.}
 {3015}{}{Obrigado pela história.}
 {3020}{}{Vamos ver ... Minha mãe era uma droga e uma prostituta, e meu pai era um bastardo bêbado. Felizmente, meu
   Vovó estava certo para um velho. Introduziu-me na música do rei. Infelizmente, ele foi reivindicado pela Nova Praga
@@ -487,17 +484,15 @@ algum tempo, mas eles continuaram me alimentando toda essa merda por ser mais di
   pequeno lugar em comum, e tudo era um aces. Mas aquela cadela tinha que ir e arruinar tudo se esgueirando atrás de minhas costas.}
 {3031}{}{Como ela ousa.}
 {3032}{}{Eu a peguei no ato, e eu perdi. As coisas ficaram muito brutais. Era desleixado e não havia como eu estava indo
-  ser capaz de encobri-lo. Então coloquei o lugar em chamas e acertei na estrada. Viajei muito, coloquei muitas garotas e
-  deixei a maioria delas morta. Não foi uma vida ruim, você sabe? Demorou dez anos, mas a lei finalmente me alcançou.
-}
+ser capaz de encobri-lo. Então coloquei o lugar em chamas e acertei na estrada. Viajei muito, coloquei muitas garotas e
+deixei a maioria delas morta. Não foi uma vida ruim, você sabe? Demorou dez anos, mas a lei finalmente me alcançou.}
 {3033}{}{Uh-oh. Então, o que?}
 {3034}{}{Então eles me levaram a julgamento e tornou-se um pouco de circo de mídia. As meninas adoraram porque sou um dreamboat,
   e todos os outros amaram porque era uma distração das notícias sobre a nova praga e a política. Então eu pensei que eu iria
   Dar-lhes um show real.}
 {3035}{}{O que você fez?}
 {3036}{}{Bem, naquela época, eu fazia muitos fãs, mas havia esse em particular, uma boneca real chamada Alice. Ela disse
-ela me amava e faria qualquer coisa por mim. Então, durante minha trilha, ela me ajudou a fazer uma pausa para isso. Foi um tiro longo, mas tivemos a sorte de retirar isso. Então as coisas ficaram loucas ... Você tem certeza de que nunca ouviu falar sobre isso?
-}
+ela me amava e faria qualquer coisa por mim. Então, durante minha trilha, ela me ajudou a fazer uma pausa para isso. Foi um tiro longo, mas tivemos a sorte de retirar isso. Então as coisas ficaram loucas ... Você tem certeza de que nunca ouviu falar sobre isso?}
 {3037}{}{Tenho certeza, mas continue.}
 {3038}{}{Nunca ouvi falar dele, e agora eu nunca mais quero. Apenas esqueça, eu estou entediado.}
 {3039}{}{Bem, agora que eu estava com Alice, era meio difícil reverter minhas velhas maneiras de seduzir mulheres e cortar

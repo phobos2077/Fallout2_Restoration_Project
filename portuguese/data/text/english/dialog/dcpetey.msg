@@ -18,8 +18,7 @@
 {167}{}{Senhor, [tosse] você pode ajudar um pobre homem baixo em sua sorte?}
 {168}{}{Aqui está $5.}
 {169}{}{Hoje não.}
-{170}{}{Arrume um emprego.
-}
+{170}{}{Arrume um emprego.}
 {171}{}{Gentil senhora, por favor, ajude [tosse], pobre, faminto que é [tosse] demasiado doentes para trabalhar.}
 {172}{}{Coitadinho de você, aqui tem $5.}
 {173}{}{Eu faço questão de não dar dinheiro para mendigos.}
