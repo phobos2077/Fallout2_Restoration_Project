@@ -13,7 +13,7 @@
 {181}{}{ arrombou a fechadura da porta.}
 {182}{}{  Estica as costas enquanto tenta abater a fechadura e leva
   pontos de dano.}
-{183}{}{  pressiona suas costas enquanto tenta abrir o bloqueio e toma  }
+{183}{}{  pressiona suas costas enquanto tenta abrir o bloqueio e toma dano.}
 {184}{}{ pontos de dano.}
 {185}{}{ é muito fraco para ultrapassar o bloqueio.}
 {186}{}{  Estica as costas enquanto tenta abater a fechadura e leva
