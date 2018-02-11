@@ -19,11 +19,11 @@
 {118}{}{Aposto que as celebridades vão falar com você se você for bom e legal.}
 {119}{}{Eu amo the Hub.}
 {120}{}{Eu gosto de ser um Hubologist.}
-{121}{}{I want to actuate my potentiality.}
-{122}{}{I'm still learning the lingo, to tell the truth.}
+{121}{}{Eu quero atualizar a minha potencialidade}
+{122}{}{Eu ainda vou continuar aprendendo a linguagem, para dizer a verdade.}
 {123}{}{Praise the Hub!}
 {124}{}{Praise the Great Wheel!}
-{125}{}{We're going to Quetzel!}
+{125}{}{Nós estamos indo para o Quetzel!}
 {126}{}{I'm looking forward to going home to the stars.}
 {127}{}{Please don't bother me; I'm concentrating my neurodynes.}
 {128}{}{Please don't de-align my neurodynes.}
@@ -41,11 +41,11 @@
 {149}{}{Someone will smite you for your perfidy!}
 {150}{}{Eu amo the Hub.}
 {151}{}{Eu gosto de ser um Hubologist.}
-{152}{}{I want to actuate my potentiality.}
-{153}{}{I'm still learning the lingo, to tell the truth.}
+{152}{}{Eu quero atualizar a minha potencialidade}
+{153}{}{Eu ainda vou continuar aprendendo a linguagem, para dizer a verdade.}
 {154}{}{Praise the hub!}
 {155}{}{Praise the Great Wheel!}
-{156}{}{We're going to Quetzel!}
+{156}{}{Nós estamos indo para o Quetzel!}
 {157}{}{I'm looking forward to going home to the stars.}
 {158}{}{I'm about due for an alignment.}
 {159}{}{I'm waiting to hear AHS-9 speak again!}
