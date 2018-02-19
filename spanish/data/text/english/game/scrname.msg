@@ -219,7 +219,7 @@
 {319}{}{Map Script}
 {320}{}{Doofus}
 {321}{}{Nagor}
-{322}{}{Humo}
+{322}{}{Smoke}
 {323}{}{Área 1 de RNC}
 {324}{}{Área 3 de RNC}
 {325}{}{Área 4 de RNC}
@@ -737,7 +737,7 @@
 {837}{}{Caja}
 {838}{}{Miembro de la patrulla}
 {839}{}{Viajero}
-{840}{}{Humo}
+{840}{}{Smoke}
 {841}{}{Comerciante}
 {842}{}{Carroñero}
 {843}{}{Mercader}
