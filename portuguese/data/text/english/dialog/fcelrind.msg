@@ -21,7 +21,7 @@
 {120}{}{Eu gosto de ser um Hubologist.}
 {121}{}{Eu quero atualizar a minha potencialidade}
 {122}{}{Eu ainda vou continuar aprendendo a linguagem, para dizer a verdade.}
-{123}{}{Louve o Hub!}
+{123}{}{Glorificado seja o Hub!}
 {124}{}{Glorificada seja a Grande Roda!}
 {125}{}{Nós estamos indo para o Quetzel!}
 {126}{}{I'm looking forward to going home to the stars.}
