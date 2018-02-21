@@ -21,8 +21,8 @@
 {120}{}{Eu gosto de ser um Hubologist.}
 {121}{}{Eu quero atualizar a minha potencialidade}
 {122}{}{Eu ainda vou continuar aprendendo a linguagem, para dizer a verdade.}
-{123}{}{Praise the Hub!}
-{124}{}{Praise the Great Wheel!}
+{123}{}{Louve o Hub!}
+{124}{}{Glorificada seja a Grande Roda!}
 {125}{}{Nós estamos indo para o Quetzel!}
 {126}{}{I'm looking forward to going home to the stars.}
 {127}{}{Please don't bother me; I'm concentrating my neurodynes.}
@@ -44,7 +44,7 @@
 {152}{}{Eu quero atualizar a minha potencialidade}
 {153}{}{Eu ainda vou continuar aprendendo a linguagem, para dizer a verdade.}
 {154}{}{Praise the hub!}
-{155}{}{Praise the Great Wheel!}
+{155}{}{Glorificada seja a Grande Roda!}
 {156}{}{Nós estamos indo para o Quetzel!}
 {157}{}{I'm looking forward to going home to the stars.}
 {158}{}{I'm about due for an alignment.}
