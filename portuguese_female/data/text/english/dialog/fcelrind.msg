@@ -29,7 +29,7 @@
 {128}{}{Por favor não desalinhe meus neurodynes.}
 {138}{}{Oh no! The persecutor!}
 {139}{}{The unenlightened one!}
-{140}{}{Keep away from me, evil meat!}
+{140}{}{Saia de perto de mim, carne maligna!}
 {141}{}{You obviously have some bad neurodynes!}
 {142}{}{No! Do not pollute me with your hatred!}
 {143}{}{Guards! Guards! The barbarian is here!}
