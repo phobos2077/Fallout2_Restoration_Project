@@ -24,9 +24,9 @@
 {123}{}{Glorificado seja o Hub!}
 {124}{}{Glorificada seja a Grande Roda!}
 {125}{}{Nós estamos indo para o Quetzel!}
-{126}{}{I'm looking forward to going home to the stars.}
-{127}{}{Please don't bother me; I'm concentrating my neurodynes.}
-{128}{}{Please don't de-align my neurodynes.}
+{126}{}{Estou ansioso pra voltar pra nossa casa nas estrelas.}
+{127}{}{Por favor, não me atrapalhe; Estou concentrando meus neurodynes.}
+{128}{}{Por favor não desalinhe meus neurodynes.}
 {138}{}{Oh no! The persecutor!}
 {139}{}{The unenlightened one!}
 {140}{}{Keep away from me, evil meat!}
@@ -46,7 +46,7 @@
 {154}{}{Praise the hub!}
 {155}{}{Glorificada seja a Grande Roda!}
 {156}{}{Nós estamos indo para o Quetzel!}
-{157}{}{I'm looking forward to going home to the stars.}
+{157}{}{Estou ansioso pra voltar pra nossa casa nas estrelas.}
 {158}{}{I'm about due for an alignment.}
 {159}{}{I'm waiting to hear AHS-9 speak again!}
 {160}{}{I hope my neurodynes are all right.}
