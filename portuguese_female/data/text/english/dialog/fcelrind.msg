@@ -43,12 +43,12 @@
 {151}{}{Eu gosto de ser um Hubologist.}
 {152}{}{Eu quero atualizar a minha potencialidade}
 {153}{}{Eu ainda vou continuar aprendendo a linguagem, para dizer a verdade.}
-{154}{}{Praise the hub!}
+{154}{}{Glorificado seja o Hub!}
 {155}{}{Glorificada seja a Grande Roda!}
 {156}{}{Nós estamos indo para o Quetzel!}
 {157}{}{Estou ansioso pra voltar pra nossa casa nas estrelas.}
 {158}{}{I'm about due for an alignment.}
-{159}{}{I'm waiting to hear AHS-9 speak again!}
+{159}{}{Estou esperando para ouvir AHS-9 falar novamente!}
 {160}{}{I hope my neurodynes are all right.}
 {161}{}{I want to be a higher Aligned Hub Seeker!}
 {162}{}{Time for me to focus on my self-growth.}
