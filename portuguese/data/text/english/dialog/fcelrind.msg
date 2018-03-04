@@ -28,7 +28,7 @@
 {127}{}{Por favor, não me atrapalhe; Estou concentrando meus neurodynes.}
 {128}{}{Por favor não desalinhe meus neurodynes.}
 {138}{}{Ah não! O perseguidor!}
-{139}{}{The unenlightened one!}
+{139}{}{O não-iluminado!}
 {140}{}{Saia de perto de mim, carne maligna!}
 {141}{}{Você obviamente tem alguns neurodynes ruins!}
 {142}{}{Não! Não me contamine com seu ódio!}

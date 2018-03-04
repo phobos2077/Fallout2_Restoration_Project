@@ -37,21 +37,21 @@
 {136}{}{I think Chip's the best!}
 {137}{}{Even if he has no spleen, I'd do Chip in a second!}
 {138}{}{Thank you for trying to get Chip's spleen back.}
-{139}{}{You did your best for Chip.}
+{139}{}{Você fez o seu melhor pelo Chip.}
 {140}{}{Here's another platitude about Chip.}
 {141}{}{I wonder if the spleen tasted good?}
 {142}{}{Yay! Now I can have Chip AND his spleen!}
 {143}{}{I'm going to go see Chip right now!}
 {144}{}{Chip's the best!}
-{145}{}{I like you. You're a good one.}
-{146}{}{I'm so happy for Chip.}
+{145}{}{Eu gosto de você. Você é um dos bons.}
+{146}{}{Estou tão feliz pelo Chip}
 {147}{}{Chip's a whole man now.}
 {148}{}{You want to have a good time with Chip and me?}
 {149}{}{You did good with Chip's spleen.}
 {150}{}{How very selfless of you!}
-{151}{}{Suze is back! Good!}
-{152}{}{Suze is back...Damn!}
-{153}{}{Suze was always really cool to me.}
+{151}{}{A Suze voltou! Ótimo!}
+{152}{}{A Suze voltou...Merda!}
+{153}{}{A Suze sempre foi muito legal pra mim.}
 {154}{}{I like Suze.}
 {155}{}{Thanks for saving her.}
 {156}{}{Some people need to learn not to wander.}
