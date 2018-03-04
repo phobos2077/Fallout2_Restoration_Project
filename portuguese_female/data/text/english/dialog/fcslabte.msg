@@ -30,6 +30,6 @@
 {144}{}{We're doing good work here! Don't ruin it!}
 {145}{}{We're trying to save the wasteland, you idiot!}
 {146}{}{No! Not our scientists!}
-{147}{}{Help! Guards!}
+{147}{}{Socorro! Guardas!}
 {148}{}{Please! You don't understand!}
 {149}{}{No! Our experiments!}

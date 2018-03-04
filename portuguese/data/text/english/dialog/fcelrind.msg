@@ -27,18 +27,18 @@
 {126}{}{Estou ansioso pra voltar pra nossa casa nas estrelas.}
 {127}{}{Por favor, não me atrapalhe; Estou concentrando meus neurodynes.}
 {128}{}{Por favor não desalinhe meus neurodynes.}
-{138}{}{Oh no! The persecutor!}
+{138}{}{Ah não! O perseguidor!}
 {139}{}{The unenlightened one!}
 {140}{}{Saia de perto de mim, carne maligna!}
-{141}{}{You obviously have some bad neurodynes!}
-{142}{}{No! Do not pollute me with your hatred!}
-{143}{}{Guards! Guards! The barbarian is here!}
+{141}{}{Você obviamente tem alguns neurodynes ruins!}
+{142}{}{Não! Não me contamine com seu ódio!}
+{143}{}{Guardas! Guardas! O bárbaro está aqui!}
 {144}{}{Não me toque!}
-{145}{}{Help! Guards!}
-{146}{}{The enemy of our people!}
-{147}{}{The dark times are upon us again!}
-{148}{}{Star Father! Save me from the heathen!}
-{149}{}{Someone will smite you for your perfidy!}
+{145}{}{Socorro! Guardas!}
+{146}{}{O inimigo de nosso povo!}
+{147}{}{Tempos sombrios estão sobre nós novamente!}
+{148}{}{Pai-estrela! Salve-me do pagão!}
+{149}{}{Alguém vai puni-lo por sua deslealdade!}
 {150}{}{Eu amo the Hub.}
 {151}{}{Eu gosto de ser um Hubologist.}
 {152}{}{Eu quero atualizar a minha potencialidade}
