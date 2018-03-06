@@ -60,7 +60,7 @@
 {159}{}{Sin novedad. Ya veo. Permanece en tu puesto.}
 {160}{}{Como te pille durmiendo, ¡te aseguro que será un sueño eterno!}
 {161}{}{¡Bien! ¡Has encontrado tu puesto de guardia!}
-{162}{}{¡Permanece en tu puesto hasta que seas relevado, soldado!}
+{162}{}{¡Permanece en tu puesto hasta que seas relevada, soldado!}
 {163}{}{En tu puesto y despierto. ¡Excelente!}
 {164}{}{Sigue despierto, sigue alerta, ¡sigue vivo!}
 {165}{}{¡Alerta! ¡Intrusos en la base!}
