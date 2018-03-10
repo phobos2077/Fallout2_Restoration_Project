@@ -5,17 +5,17 @@
 {150}{}{La tumba ha sido cubierta.}
 {151}{}{La tumba ha sido abierta.}
 {200}{}{Ves una lápida.}
-{201}{}{Ves una cruz.}
+{201}{}{Ves una lápida.}
 {250}{}{No hay ninguna inscripción en esta lápida.}
 {251}{}{El nombre en esta lápida ha sido tachado.}
 {252}{}{El nombre en la lápida es John Doe.}
 {253}{}{El nombre y fecha de esta cruz han sido borrados por el tiempo.}
-{260}{}{No hay inscripciones en esta cruz.}
+{260}{}{No hay inscripciones en esta lápida.}
 {261}{}{El nombre en la cruz ha sido tachado.}
-{262}{}{El nombre en la cruz es John Doe.}
+{262}{}{El nombre en esta lápida es John Doe.}
 {263}{}{El nombre y fecha de esta cruz han sido borrados por el tiempo.}
 {275}{}{En la lápida pone: }
-{276}{}{En la cruz pone: }
+{276}{}{En la lápida pone: }
 {300}{}{"Aquí yace Chris Avellone, Rey de la pista de baile".}
 {301}{}{"Chris Jones. Ala Nocturna".}
 {302}{}{"Christopher Michael Holland, o 'Chris Holland', o 'Chris': Hay dos razones y media para leer esta lápida... uno normalmente esperaría que hubiera una lista con esas razones".}

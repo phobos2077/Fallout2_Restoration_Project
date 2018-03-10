@@ -8,7 +8,7 @@
 {107}{}{Muy bien.}
 {108}{}{Haced las preguntas, guardián. No tengo miedo.}
 {109}{}{Quizá vuelva más tarde.}
-{110}{}{¿Como os llamáis?}
+{110}{}{¿Como te llamas?}
 {111}{}{Hhhh...Iii...Jota...Ka...Ele...}
 {112}{}{?}
 {113}{}{Yo }

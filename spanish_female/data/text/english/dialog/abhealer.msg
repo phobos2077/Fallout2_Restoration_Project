@@ -15,11 +15,11 @@
 }
 {406}{}{[SEGUIR]}
 {407}{}{[DETENER]}
-{408}{}{(De repente, Jack comienza a derretirse.) ME GOLPEO, ME DERRAME, OH QUE ES UN MUNDO ...}
+{408}{}{(De repente, Jack comienza a derretirse.) ME DERRITO, ME DERRITO, OH EL MUNDO...}
 {409}{}{¿Pero qué...}
 {500}{}{¡Oye, no robes mis suministros médicos!}
-{501}{}{Obtienes 200 puntos de experiencia por hacer que Jack se derrita. ¿Estás contento ahora, estás enfermo?}
-{600}{}{Soy doctor. He estado atendiendo a la gente de esta Abadía durante unos, oh, quince años, creo.}
+{501}{}{Obtienes 200 puntos de experiencia por hacer que Jack se derrita. ¿Estás contento ahora, jodido enfermo?}
+{600}{}{Soy un doctor. He estado atendiendo a la gente de esta Abadía durante unos, oh, quince años, creo.}
 {601}{}{Ya veo. Son muchos años para estudiar todos los libros de medicina de antes de la guerra en la biblioteca de la Abadía. Debes ser todo el doctor.}
 {602}{}{¿De dónde conseguiste todo tu equipo médico?}
 {603}{}{Interesante. Creo que debo irme ahora.}
