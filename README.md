@@ -13,5 +13,5 @@ This is a localization effort for Fallout 2 [Killap's Restoration Project](http:
 Help translating at [BGforge](https://tra.bgforge.net/projects/fallout/rp/). Discuss on [forums](https://forum.bgforge.net/viewtopic.php?f=5&t=22).
 
 Current languages:
-* [Spanish](https://tra.bgforge.net/projects/fallout/rp/es/) <a href="https://tra.bgforge.net/projects/fallout/rp/es/"> <img style="vertical-align:middle" src="https://tra.bgforge.net/widgets/fallout/es/rp/svg-badge.svg" alt="Spanish translation status" /></a> (based on [translation v1.0 by ClanDLAN](http://academia.clandlan.net/?page=academia/view&id=371&title=Traduccion_Fallout_2) for Fallout 1.02d)
-* [Portuguese](https://tra.bgforge.net/projects/fallout/rp/pt/) ![Portuguese translation status](https://tra.bgforge.net/widgets/fallout/pt/rp/svg-badge.svg "Portuguese translation status")(https://tra.bgforge.net/projects/fallout/rp/pt/)
+* [Spanish](https://tra.bgforge.net/projects/fallout/rp/es/) <a href="https://tra.bgforge.net/projects/fallout/rp/es/"> <img src="https://tra.bgforge.net/widgets/fallout/es/rp/svg-badge.svg" alt="Spanish translation status" /></a> (based on [translation v1.0 by ClanDLAN](http://academia.clandlan.net/?page=academia/view&id=371&title=Traduccion_Fallout_2) for Fallout 1.02d)
+* [Portuguese](https://tra.bgforge.net/projects/fallout/rp/pt/) <a href="https://tra.bgforge.net/projects/fallout/rp/es/"> <img src="https://tra.bgforge.net/widgets/fallout/pt/rp/svg-badge.svg" alt="Portuguese translation status" /></a>
