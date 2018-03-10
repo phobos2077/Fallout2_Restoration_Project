@@ -1,4 +1,4 @@
-# Fallout 2: RP - translation
+# Fallout 2 Restoration Project - translation
 <a href="https://tra.bgforge.net/projects/fallout/rp/">
 <img src="https://tra.bgforge.net/widgets/fallout/-/rp/svg-badge.svg" alt="Translation status" />
 </a>
