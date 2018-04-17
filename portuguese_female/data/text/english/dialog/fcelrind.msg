@@ -50,7 +50,7 @@ Ei! Você está torcendo meus neurônios!}
 {156}{}{Nós estamos indo para Quetzel!}
 {157}{}{Estou ansioso pra voltar pra nossa casa nas estrelas.}
 {158}{}{Estou prestes a ter um alinhamento.}
-{159}{}{Estou esperando para ouvir AHS-9 falar novamente!}
+{159}{}{Estou esperando ouvir AHS-9 falar de novo!}
 {160}{}{I hope my neurodynes are all right.}
 {161}{}{I want to be a higher Aligned Hub Seeker!}
 {162}{}{Time for me to focus on my self-growth.}
