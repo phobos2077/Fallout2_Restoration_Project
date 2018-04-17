@@ -14,7 +14,7 @@
 {113}{}{::shake head::}
 {114}{}{This is what we have, then.}
 {115}{}{[FEITO]}
-{116}{}{Well, I'm afraid that's all I can do for you. Good day.}
+{116}{}{Bem, temo que é tudo que posso fazer por você. Tenha um bom dia. }
 {117}{}{[FEITO]}
 {118}{}{I'm Lao Chou. I run this establishment, Flying Dragon 8, a general store. I have been known to trade in... information.}
 {119}{}{What sort of information?}
