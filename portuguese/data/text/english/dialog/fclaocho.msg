@@ -16,8 +16,8 @@
 {115}{}{[FEITO]}
 {116}{}{Bem, temo que é tudo que posso fazer por você. Tenha um bom dia. }
 {117}{}{[FEITO]}
-{118}{}{I'm Lao Chou. I run this establishment, Flying Dragon 8, a general store. I have been known to trade in... information.}
-{119}{}{What sort of information?}
+{118}{}{Eu sou Lao Chou. Eu dirijo este estabelecimento, Dragão Voador 8, uma loja geral. Eu sou conhecido por comerciar in... informação.}
+{119}{}{Que tipo de informação?}
 {120}{}{I see. I'd like some equipment.}
 {121}{}{Little happens in this town that I do not know about. Of course, you must know the right question to ask, yes? What do you need to know?}
 {122}{}{I'm looking for some upgrades to my equipment.}

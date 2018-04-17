@@ -29,7 +29,7 @@
 {274}{}{Level 4}
 {280}{}{Entrance}
 {281}{}{Stronghold Level 1}
-{282}{}{Stronghold Level 2}
+{282}{}{Fortaleza Nível 2}
 {283}{}{Vats Level 1}
 {284}{}{Vats Level 2}
 {290}{}{Cratera}
