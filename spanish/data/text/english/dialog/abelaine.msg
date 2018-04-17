@@ -14,7 +14,7 @@
 {403}{}{¿Qué puedes contarme acerca de la Abadía?}
 {500}{}{Me llamo Elaine.}
 {501}{}{Ya veo. Unas pocas preguntas más...}
-{600}{}{Hey! Antes que te vayas, tal vez podrías hacerme un favor. Tengo que llevar esta parte de maquinaria a Max en la sala de copias en el sótano. Pero como ves, mi rodilla izquierda ha estado activa últimamente, y es muy doloroso para mi subir y bajar todas esas escaleras. Sería un problema llevarle esta parte a él por mi? }
+{600}{}{Hey! Antes de que te vayas, tal vez podrías hacerme un favor. Tengo que llevar está parte de máquina a Max en la sala de copias en el sótano. Pero como ves mi rodilla izquierda ha estado activa últimamente, y es muy doloroso para mi subir y bajar todas esas escaleras. No sería un problema que llevarás está parte a él por mi? }
 {601}{}{Claro.}
 {602}{}{Lo siento, no tengo tiempo para esto. Adiós.}
 {603}{}{Me veo como tu servicio de mensajería personal? Hazlo tú mismo, gorda y perezosa perra. Adiós.}
