@@ -13,7 +13,7 @@
 {232}{}{[Você bate na cabeça com frustração.] Eu tenho que ir. Eu ... eu só tenho que estar em algum lugar. Em qualquer outro lugar que não seja aqui.}
 {240}{}{Não, espere. Eu sinto Muito. Não sou apenas um aparelho obsessivo de brinde unidimensional. O que posso fazer para você?}
 {241}{}{Eu só preciso de algumas informações sobre este lugar. O que você pode me dizer sobre isso?}
-{250}{}{Posso dizer-lhe uma coisa: este é um lugar terrível para alguém da minha torrada fazer experiência. Você sabia que já
+{250}{}{Posso dizer-lhe uma coisa: este é um lugar terrível para alguém fazer experiência. Você sabia que já
   Foi bem mais de um século desde que eu tive o prazer de fazer brinde por alguém? Você é o primeiro consumidor de torradas a vir
   por aqui desde a guerra, e, aqui é o verdadeiro kicker: se você realmente pedisse torrada, nem tenho certeza de que eu estaria
   para a tarefa. Você vê, estou me sentindo um pouco abaixo do tempo dentro. É realmente embaraçoso.}

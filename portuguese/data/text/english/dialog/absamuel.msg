@@ -60,7 +60,7 @@
   [Ele aponta para a construção ao sul do cemitério.]}
 {608}{}{Eu vou ver o que posso fazer.}
 {609}{}{Eu acho que eu vou passar. Devo estar indo.}
-{700}{}{Eu resolvi a situação do ladrão de túmulos. Você não deve ter mais problemas com isso.}
+{700}{}{Eu cuidei da situação da escavação de túmulos. Você não deveria ter mais problemas aqui.}
 {701}{}{Bem, isso são * soluço * boas notícias. Fico feliz por não cair mais em túmulos abertos * soluço *. Obrigado pela ajuda.}
 {702}{}{Prazer em ajudar. Eu tenho algumas perguntas embora.}
 {703}{}{Bem, tome cuidado.}

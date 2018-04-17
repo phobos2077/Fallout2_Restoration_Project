@@ -9,7 +9,8 @@
 {108}{}{Ahh! Você está mexendo com minhas neurodynes!}
 {109}{}{Vá embora, infiél!}
 {110}{}{Não fale comigo - Sou uma pessoa ocupada.}
-{111}{}{Ei! Você está torcendo meus neurônios!}
+{111}{}{
+Ei! Você está torcendo meus neurônios!}
 {112}{}{Talvez eu goste mais de você se você for alinhado.}
 {113}{}{O Pai das Estrelas te amará se você deixa-lo.}
 {114}{}{Você não quer ver Quetzel? Junte-se a nós!}
@@ -19,35 +20,36 @@
 {118}{}{Aposto que as celebridades vão falar com você se você for bom e legal.}
 {119}{}{Eu amo the Hub.}
 {120}{}{Eu gosto de ser um Hubologist.}
-{121}{}{Eu quero atualizar a minha potencialidade}
-{122}{}{Eu ainda vou continuar aprendendo a linguagem, para dizer a verdade.}
+{121}{}{Eu quero utilizar toda a minha potencialidade.}
+{122}{}{Pra falar a verdade, eu ainda estou aprendendo as gírias.}
 {123}{}{Glorificado seja o Hub!}
 {124}{}{Glorificada seja a Grande Roda!}
-{125}{}{Nós estamos indo para o Quetzel!}
+{125}{}{Nós estamos indo para Quetzel!}
 {126}{}{Estou ansioso pra voltar pra nossa casa nas estrelas.}
 {127}{}{Por favor, não me atrapalhe; Estou concentrando meus neurodynes.}
 {128}{}{Por favor não desalinhe meus neurodynes.}
 {138}{}{Ah não! O perseguidor!}
-{139}{}{O não-iluminado!}
+{139}{}{O desiluminado!}
 {140}{}{Saia de perto de mim, carne maligna!}
-{141}{}{Você obviamente tem alguns neurodynes ruins!}
-{142}{}{Não! Não me contamine com seu ódio!}
-{143}{}{Guardas! Guardas! O bárbaro está aqui!}
+{141}{}{Você claramente está com seus neurodynes ruins!}
+{142}{}{Não! Não me polua com seu ódio!}
+{143}{}{Guardas! Guardas! O selvagem está aqui!
+}
 {144}{}{Não me toque!}
-{145}{}{Socorro! Guardas!}
-{146}{}{O inimigo de nosso povo!}
-{147}{}{Tempos sombrios estão sobre nós novamente!}
-{148}{}{Pai-estrela! Salve-me do pagão!}
-{149}{}{Alguém vai puni-lo por sua deslealdade!}
+{145}{}{Ajuda!! Guardas!}
+{146}{}{O inimigo do nosso povo!}
+{147}{}{A era da escuridão chegou novamente!}
+{148}{}{Pai Estrela! Salve-me do infiél!}
+{149}{}{Alguém irá te destruir pela sua traição!}
 {150}{}{Eu amo the Hub.}
 {151}{}{Eu gosto de ser um Hubologist.}
-{152}{}{Eu quero atualizar a minha potencialidade}
-{153}{}{Eu ainda vou continuar aprendendo a linguagem, para dizer a verdade.}
+{152}{}{Eu quero utilizar toda a minha potencialidade.}
+{153}{}{Pra falar a verdade, eu ainda estou aprendendo as gírias.}
 {154}{}{Glorificado seja o Hub!}
 {155}{}{Glorificada seja a Grande Roda!}
-{156}{}{Nós estamos indo para o Quetzel!}
+{156}{}{Nós estamos indo para Quetzel!}
 {157}{}{Estou ansioso pra voltar pra nossa casa nas estrelas.}
-{158}{}{I'm about due for an alignment.}
+{158}{}{Estou prestes a ter um alinhamento.}
 {159}{}{Estou esperando para ouvir AHS-9 falar novamente!}
 {160}{}{I hope my neurodynes are all right.}
 {161}{}{I want to be a higher Aligned Hub Seeker!}

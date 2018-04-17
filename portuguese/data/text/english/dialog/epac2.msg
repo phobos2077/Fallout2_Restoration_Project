@@ -69,7 +69,7 @@
 {371}{}{Vá para fora e mata algo, entendi. Então, onde está este Solar Scorcher?}
 {380}{}{Ah, sim, está naquele armário na parede lá, ao lado do meu projetor. A senha é 03141879.}
 {381}{}{Tudo bem, eu vou testá-lo e deixá-lo saber como ele vai.}
-{390}{}{Ah, bem-vindo de volta. Tivemos a oportunidade de testar o Solar Scorcher?}
+{390}{}{Ah, bem-vindo de volta. Teve a oportunidade de testar o Solar Scorcher?}
 {391}{}{Claro que sim. Ele arrasou as coisas.}
 {392}{}{Claro, mas o pedaço de merda falhou em mim. Eu tinha que arruiná-lo.}
 {393}{}{Não, ainda não.}

@@ -51,7 +51,7 @@
 {196}{}{OK, eu vou descobrir.}
 {197}{}{Não, não interessado.}
 {198}{}{Então, como Becky faz isso? Como ela vende sua bebida tão barata?}
-{199}{}{Ela tem um alambique. }
+{199}{}{Ela ainda tem.}
 {200}{}{Eu não sei ainda. Eu vou voltar.}
 {201}{}{O que? Um alambique! Droga. Ei, aqui estão os $100, e pagarei $500 para destruí-lo. Você pode usar meu pé de palma, na sala de trás por aí. Isso vai fazer um dano em seu estúpido alambique!}
 {202}{}{Eu já fiz.}

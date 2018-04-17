@@ -2,7 +2,7 @@
 {101}{}{Você vê um garoto das docas.}
 {102}{}{Você vê uma criança.}
 {103}{}{Eu não gosto deste lugar.}
-{104}{}{Há uma grande cheiro a peixes mortos na praia.}
+{104}{}{Há um cheiro forte de peixes mortos na praia.}
 {105}{}{Uuuu! O que é isso?}
 {106}{}{O ar cheira engraçado aqui.}
 {107}{}{Quer nadar?}

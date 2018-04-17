@@ -10,7 +10,7 @@ depois de sua viagem através dos resíduos.}
 {205}{}{Olá!}
 {206}{}{Sempre bom ver você novamente.}
 {207}{}{Oi! Você se gostaria de uma bebida? O uísque mais fino da terra!}
-{208}{}{ Olá!}
+{208}{}{Meu bom!}
 {209}{}{É você! Eu pensei assim. Que tal uma bebida, meu querido?}
 {210}{}{Você volta para o grande entretenimento da Rebecca ou o whisky mundialmente famoso?}
 {211}{}{Bem-vindo de volta para Rebecca Bar e Cassino. Como posso ajudá-lo?}
