@@ -38,10 +38,10 @@
 {224}{}{Bien entonces. Esto nos va a llevar a dos de nosotros para mover esto, así que déjame ayudarte a que se adapte a tu amigo aquí.}
 {225}{}{[HECHO]}
 {226}{}{Oye, esto encaja muy bien!}
-{300}{}{Podría saber una cosa o dos. ¿Qué te gustaría saber?}
+{300}{}{Podría saber una cosa o dos. ¿Qué querías saber?}
 {301}{}{¿Con qué frecuencia se reabastece?}
 {302}{}{¿Las caravanas están contratando?}
-{303}{}{Pensándolo bien, countY tiene que irse. Adiós.}
+{303}{}{Pensándolo mejor, tengo que ir.}
 {304}{}{Recibo un nuevo envío de suministros dos veces al mes. Francamente, me gustaría que vinieran con más frecuencia, pero solo estamos en una
   ruta comercial menor, así que supongo que es lo mejor que podemos obtener.}
 {305}{}{No estoy muy seguro. Por lo general, los que pasan por aquí están bastante bien equipados y no están realmente interesados en
