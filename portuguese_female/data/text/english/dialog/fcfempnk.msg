@@ -16,35 +16,35 @@
 {115}{}{Esses Shi tem um cara engraçada.}
 {116}{}{Eu sou mente aberta, hm?}
 {117}{}{Olha pra esses novos punks. Bando de posers.}
-{118}{}{AHS-9 cheated us and he'll cheat you too if you let him.}
-{119}{}{Next bozo who calls me "bitch" is getting flash-fried.}
-{120}{}{So how was it, taking it from a mutant?}
-{121}{}{Did that big strong mutie Francis hurt you?}
-{122}{}{I'm surprised you can walk after what Francis did.}
-{123}{}{I'd guess you'd still be bleeding after Francis.}
-{124}{}{I can't believe you wouldn't help Chip.}
-{125}{}{Selfish bastard. I'll bet Chip would've helped you.}
-{126}{}{Everyone liked Chip. Now no one likes you.}
-{127}{}{You're quite the jerk, aren't you?}
-{128}{}{Ever think about anyone but yourself?}
-{129}{}{Oh, look, it's the "hero".}
-{130}{}{Hey, everyone! It's the selfish asshole!}
-{131}{}{Oh, you again? Like anyone wants to talk to you now.}
-{132}{}{Chip-hater!}
-{133}{}{Too bad about the spleen.}
-{134}{}{I'll bet someone ate Chip's liver.}
-{135}{}{I wonder if Chip will ever be okay again.}
-{136}{}{I think Chip's the best!}
-{137}{}{Even if he has no spleen, I'd do Chip in a second!}
-{138}{}{Thank you for trying to get Chip's spleen back.}
-{139}{}{Você fez o seu melhor pelo Chip.}
+{118}{}{O AHS-9 nos enganou, e vai te enganar também se você der mole.}
+{119}{}{O próximo palhaço que me chamar de "puta" tá fodido.}
+{120}{}{Então, como foi levar de um mutante?}
+{121}{}{Aquele mutante forte e grande, Francis, te machucou?}
+{122}{}{Eu tô surpresa que você consegue andar depois do que o Francis fez.}
+{123}{}{Eu chutaria que você ainda está sangrando depois do Francis.}
+{124}{}{Eu não acredito que você não vai ajudar o Chip.}
+{125}{}{Egoísta! Eu aposto que o Chip teria te ajudado.}
+{126}{}{Todo mundo gostava do Chip. Agora ninguém gosta de você.}
+{127}{}{Você é bem babaca, né?}
+{128}{}{Você pensa em mais alguém além de você?}
+{129}{}{Ah, olha, é o "herói".}
+{130}{}{Ei, todo mundo! É o cuzão egoísta!}
+{131}{}{Ah, você de novo? Como se alguém quisesse falar com você agora.}
+{132}{}{Você odeia o Chip!}
+{133}{}{Uma pena esse negócio do baço.}
+{134}{}{Eu aposto que alguém comeu o fígado do Chip.}
+{135}{}{Eu me pergunto se o Chip vai ficar bem de novo.}
+{136}{}{Eu acho o Chip o máximo!}
+{137}{}{Mesmo se ele ficar sem o baço, eu ainda faria com o Chip em um segundo!}
+{138}{}{Obrigado por tentar devolver o baço do Chip.}
+{139}{}{Você deu seu melhor pelo Chip.}
 {140}{}{Here's another platitude about Chip.}
 {141}{}{I wonder if the spleen tasted good?}
 {142}{}{Yay! Now I can have Chip AND his spleen!}
 {143}{}{I'm going to go see Chip right now!}
 {144}{}{Chip's the best!}
-{145}{}{Eu gosto de você. Você é um dos bons.}
-{146}{}{Estou tão feliz pelo Chip}
+{145}{}{Eu gosto de você. Você é dos bons.}
+{146}{}{Estou tão feliz pelo Chip.}
 {147}{}{Chip's a whole man now.}
 {148}{}{You want to have a good time with Chip and me?}
 {149}{}{You did good with Chip's spleen.}

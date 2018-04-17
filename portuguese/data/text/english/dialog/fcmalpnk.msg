@@ -17,7 +17,7 @@
 {116}{}{Eu sou mente aberta, hm?}
 {117}{}{I'll share my girlfriend if you'll share yours.}
 {118}{}{Olha pra esses novos punks. Bando de posers.}
-{119}{}{AHS-9 cheated us and he'll cheat you too if you let him.}
+{119}{}{O AHS-9 nos enganou, e vai te enganar também se você der mole.}
 {120}{}{Sheep. You're nothing but a killing sheep.}
 {121}{}{Tell those bastard Hubologists we'll never come over.}
 {122}{}{Ain't never going over to the Hub.}
@@ -25,8 +25,8 @@
 {124}{}{Won't they ever realize killing our "leader" won't make us follow theirs?}
 {125}{}{You're an asshole.}
 {126}{}{Baah! Baah!}
-{127}{}{So how was it, taking it from a mutant?}
-{128}{}{Did that big strong mutie Francis hurt you?}
+{127}{}{Então, como foi levar de um mutante?}
+{128}{}{Aquele mutante forte e grande, Francis, te machucou?}
 {129}{}{Francis play with you?}
 {130}{}{Francis is a pretty big guy.}
 {131}{}{Big ol' Francis, huh?}
@@ -37,10 +37,10 @@
 {136}{}{You pull anything being such a jerk?}
 {137}{}{Sacrifice our li'l Chippie, will you?}
 {138}{}{Poor Chip.}
-{139}{}{Oh, look, it's the "hero".}
-{140}{}{Hey, everyone! It's the selfish asshole!}
+{139}{}{Ah, olha, é o "herói".}
+{140}{}{Ei, todo mundo! É o cuzão egoísta!}
 {141}{}{Like anyone wants to talk to you now.}
-{142}{}{Chip-hater!}
+{142}{}{Você odeia o Chip!}
 {143}{}{Can I do anything for you? Too bad!}
 {144}{}{Don't talk to me.}
 {145}{}{Nice of you to try for Chip's spleen.}
