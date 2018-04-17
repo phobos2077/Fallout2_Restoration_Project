@@ -20,7 +20,7 @@ Ei! Você está torcendo meus neurônios!}
 {118}{}{Aposto que as celebridades vão falar com você se você for bom e legal.}
 {119}{}{Eu amo the Hub.}
 {120}{}{Eu gosto de ser um Hubologist.}
-{121}{}{Eu quero utilizar toda a minha potencialidade.}
+{121}{}{Eu quero utilizar todo a minha potencialidade.}
 {122}{}{Pra falar a verdade, eu ainda estou aprendendo as gírias.}
 {123}{}{Glorificado seja o Hub!}
 {124}{}{Glorificada seja a Grande Roda!}
@@ -33,38 +33,37 @@ Ei! Você está torcendo meus neurônios!}
 {140}{}{Saia de perto de mim, carne maligna!}
 {141}{}{Você claramente está com seus neurodynes ruins!}
 {142}{}{Não! Não me polua com seu ódio!}
-{143}{}{Guardas! Guardas! O selvagem está aqui!
-}
+{143}{}{Guardas! Guardas! O selvagem está aqui!}
 {144}{}{Não me toque!}
 {145}{}{Ajuda!! Guardas!}
 {146}{}{O inimigo do nosso povo!}
 {147}{}{A era da escuridão chegou novamente!}
-{148}{}{Pai Estrela! Salve-me do infiél!}
+{148}{}{Pai das Estrelas! Salve-me do infiél!}
 {149}{}{Alguém irá te destruir pela sua traição!}
 {150}{}{Eu amo the Hub.}
 {151}{}{Eu gosto de ser um Hubologist.}
-{152}{}{Eu quero utilizar toda a minha potencialidade.}
+{152}{}{Eu quero utilizar todo a minha potencialidade.}
 {153}{}{Pra falar a verdade, eu ainda estou aprendendo as gírias.}
 {154}{}{Glorificado seja o Hub!}
 {155}{}{Glorificada seja a Grande Roda!}
 {156}{}{Nós estamos indo para Quetzel!}
 {157}{}{Estou ansioso pra voltar pra nossa casa nas estrelas.}
-{158}{}{Estou prestes a ter um alinhamento.}
+{158}{}{Já está quase na hora do meu alinhamento.}
 {159}{}{Estou esperando ouvir AHS-9 falar de novo!}
-{160}{}{I hope my neurodynes are all right.}
-{161}{}{I want to be a higher Aligned Hub Seeker!}
-{162}{}{Time for me to focus on my self-growth.}
-{163}{}{"Real" science is all a pack of lies.}
-{164}{}{Don't listen to what "scientists" tell you.}
-{165}{}{Only the Hub and AHS-9 have the answer.}
-{178}{}{Praise the Star Father! We're going to the stars at last!}
-{179}{}{Planet Quetzel, here we come!}
-{180}{}{All that hard work has finally paid off!}
-{181}{}{My neurodynes are entirely relaxed now!}
-{182}{}{I'd better get aligned before we take off.}
-{183}{}{Ooh! The Star Father! The Star Father!}
-{184}{}{I'm all aflutter for the take-off!}
-{185}{}{How soon do we leave?}
-{186}{}{I'll bet the high AHS's aren't this jittery.}
-{187}{}{Wow... the stars. At last.}
-{188}{}{I won't have to wear a tinfoil hat anymore!}
+{160}{}{Eu espero que meus neurodynes estejam bem.}
+{161}{}{Quero ser um alto Aligned Hub Seeker!}
+{162}{}{Hora de focar no meu crescimento pessoal.}
+{163}{}{A ciência de "verdade" é um compilado de mentiras.}
+{164}{}{Não dê ouvidos a o que "cientistas" te dizem.}
+{165}{}{Somente o Hub e AHS-9 tem a resposta.}
+{178}{}{Saúdem o Pai-Estrela! Nós vamos para as estrelas!}
+{179}{}{Planeta Quetzel, aqui vamos nós!}
+{180}{}{Finalmente um pagamento por todo aquele trabalho duro!}
+{181}{}{Meus neurodynes estão totalmente relaxados agora!}
+{182}{}{É melhor eu ficar alinhado antes de partirmos.}
+{183}{}{Ooh! O Pai-Estrela! O Pai Estrela!}
+{184}{}{Estou muito animado pela decolagem!}
+{185}{}{Quando vamos partir?}
+{186}{}{Eu aposto que os AHS's não são essa agitação.}
+{187}{}{Uau... Enfim. As estrelas.}
+{188}{}{Eu não terei mais de usar um chapéu de papel metálico!}

@@ -8,15 +8,15 @@
 {107}{}{In fact, I'd rather die than give you control.}
 {108}{}{No one runs my life! I'm the king of me!}
 {109}{}{I'm my own boss.}
-{110}{}{I'm unique! Just like everyone else!}
-{111}{}{Sometimes world-weary cynicism bores me.}
-{112}{}{Next time, I want to find a tribe of goths.}
+{110}{}{Eu sou único! Assim como todo mundo!}
+{111}{}{Às vezes esse mundo de cinismo me chateia.}
+{112}{}{Da próxima vez, quero encontrar uma tribo de góticos.}
 {113}{}{I saw Selmy and Barro torn apart downstairs.}
-{114}{}{I hear the Shi Emperor is inhumanly smart.}
-{115}{}{These Shi sure look funny.}
-{116}{}{I'm open-minded, huh?}
+{114}{}{Eu ouvi falar que o Imperador Shi é absurdamente inteligente.}
+{115}{}{Esses Shi tem um cara engraçada.}
+{116}{}{Eu sou mente aberta, hm?}
 {117}{}{I'll share my girlfriend if you'll share yours.}
-{118}{}{Look at all these new punks. Posers.}
+{118}{}{Olha pra esses novos punks. Bando de posers.}
 {119}{}{AHS-9 cheated us and he'll cheat you too if you let him.}
 {120}{}{Sheep. You're nothing but a killing sheep.}
 {121}{}{Tell those bastard Hubologists we'll never come over.}

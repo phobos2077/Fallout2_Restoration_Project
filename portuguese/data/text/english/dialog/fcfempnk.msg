@@ -1,21 +1,21 @@
-{100}{}{You see a female punk.}
-{101}{}{You see a female punk.}
-{102}{}{You see a fairly pretty, cynical young woman.}
-{103}{}{I'll bet my boyfriend offered to share me.}
-{104}{}{Sometimes I get sick of traveling.}
-{105}{}{It sure would be nice to live here.}
-{106}{}{I'll bet we could make a hell of a scene.}
-{107}{}{Have you been west across the water?}
-{108}{}{I'd flirt with you, but I'm just not interested.}
-{109}{}{::sarcasm:: Sure are a lot of strong women around here, huh?}
-{110}{}{You expect me to roll over for you? Get real.}
-{111}{}{I'm unique! Just like everyone else!}
-{112}{}{Sometimes world-weary cynicism bores me.}
-{113}{}{Next time, I want to find a tribe of goths.}
-{114}{}{I hear the Shi Emperor is inhumanly smart.}
-{115}{}{These Shi sure look funny.}
-{116}{}{I'm open-minded, huh?}
-{117}{}{Look at all these new punks. Posers.}
+{100}{}{Você visualiza uma punk feminina.}
+{101}{}{Você visualiza uma punk feminina.}
+{102}{}{Você visualiza uma mulher bastante bonita e cínica.}
+{103}{}{Eu aposto que meu namorado se ofereceu para me compartilhar.}
+{104}{}{Às vezes eu fico de saco cheio de viajar.}
+{105}{}{Com certeza seria legal morar aqui.}
+{106}{}{Eu aposto que poderíamos fazer uma cena e tanto.}
+{107}{}{Você já esteve ao oeste cruzando a água?}
+{108}{}{Eu flertaria com você, mas eu apenas não estou interessado.}
+{109}{}{::Sarcasno:: Com certeza há muitas mulheres fortes pelas redondezas, não é?}
+{110}{}{Você espera que eu vá até você? Cai na real.}
+{111}{}{Eu sou único! Assim como todo mundo!}
+{112}{}{Às vezes esse mundo de cinismo me chateia.}
+{113}{}{Da próxima vez, quero encontrar uma tribo de góticos.}
+{114}{}{Eu ouvi falar que o Imperador Shi é absurdamente inteligente.}
+{115}{}{Esses Shi tem um cara engraçada.}
+{116}{}{Eu sou mente aberta, hm?}
+{117}{}{Olha pra esses novos punks. Bando de posers.}
 {118}{}{AHS-9 cheated us and he'll cheat you too if you let him.}
 {119}{}{Next bozo who calls me "bitch" is getting flash-fried.}
 {120}{}{So how was it, taking it from a mutant?}
