@@ -106,7 +106,7 @@
 {233}{}{Oh boy! No wonder you weren't scared away by our little tricks. You're too stupid to be scared.
  I hate to depend on such an intellectually challenged individual, but we have need of your services.
  Take this message to Modoc. Give to leader of Modoc and try not to get lost.}
-{300}{}{I'll just be going now.}
+{300}{}{Eu vou embora agora.}
 {301}{}{What do you want with me?}
 {302}{}{Adeus.}
 {303}{}{Ghosts?}

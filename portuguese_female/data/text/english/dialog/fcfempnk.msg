@@ -55,40 +55,40 @@
 {154}{}{Eu gosto da Suze.}
 {155}{}{Obrigador por salvá-la.}
 {156}{}{Algumas pessoas precisam aprender a não ficar vagando por aí.}
-{157}{}{Who knows?}
-{158}{}{Poor Badger. Maybe he needs someone to comfort him.}
-{159}{}{I'd better make sure Badger's okay.}
-{160}{}{Badger's cute, but he's no dreamboat.}
-{161}{}{I wonder why Badger farts and belches so much.}
-{162}{}{Badger probably farts because he's sad.}
-{163}{}{Poor Badger.}
-{164}{}{It's a tough old world we live in.}
-{165}{}{Suze should've known better.}
-{166}{}{If you're taking the boat, we ought to be leaving it.}
-{167}{}{Sorry about the state the boat's in.}
-{168}{}{So you'll be taking the ship, eh?}
-{169}{}{The PMV Valdez is a good vessel - it was a good home.}
-{170}{}{Time to pack my stuff, I guess.}
-{171}{}{Enjoy the boat.}
-{172}{}{Good luck finding your people.}
-{173}{}{I'll just be going now.}
-{174}{}{I hope we can find another place to live.}
-{175}{}{Poor Badger. He was a real cutie.}
-{176}{}{Who'd want to kill Badger?}
-{177}{}{Badger smelled funny but I liked him.}
-{178}{}{I heard Badger was gay, but then he got a girlfriend.}
-{179}{}{I always thought Badger was abusive, but in a cute way.}
-{180}{}{I'll bet Badger is showing this off to his friends.}
-{181}{}{Badger... ::sniff::}
-{182}{}{Badger was a real fairy-tale princess.}
-{183}{}{You asshole. Why'd you kill him?}
+{157}{}{Quem sabe?}
+{158}{}{Pobre Badger. Talvez ele precise de alguém para confortá-lo.}
+{159}{}{É melhor eu ter certeza que está tudo bem com Badger.}
+{160}{}{Bedger é fofo, mas não chega a ser um pedaço de mal caminho.}
+{161}{}{Me pergunto por que Badger peida e arrota tanto.}
+{162}{}{Badger provavelmente peida porque está triste.}
+{163}{}{Pobre Badger.}
+{164}{}{Esse mundo em que vivemos é velho e cheio de dificuldades.}
+{165}{}{Suze deveria ter sido mais esperta.}
+{166}{}{Se você está tomando o barco, nós deveríamos estar saindo.}
+{167}{}{Sinto muito pelo estado em que o barco está.}
+{168}{}{Então você vai pegar o navio?}
+{169}{}{O PMV Valdez é um bom navio - foi um bom lar.}
+{170}{}{Hora de empacotar minhas coisas, eu acho.}
+{171}{}{Aproveite o barco.}
+{172}{}{Boa sorte encontrando seu povo.}
+{173}{}{Eu vou embora agora.}
+{174}{}{Espero que possamos encontrar outro lugar para viver.}
+{175}{}{Pobre Badger. Ele era uma gracinha.}
+{176}{}{Quem vai querer matar Badger?}
+{177}{}{Badger tinha um cheiro engraçado, mas eu gostava dele.}
+{178}{}{Ouvi dizer que Badger era gay, mas daí ele arrumou uma namorada.}
+{179}{}{Sempre achei que Badger era abusivo, mas de um jeito fofo.}
+{180}{}{Aposto que Badger está se mostrando para seus amigos.}
+{181}{}{Badger... ::suspiro::}
+{182}{}{Badger era uma princesa de um conto de fadas.}
+{183}{}{Seu imbecil. Porquê você matou ele?}
 {184}{}{You think we're going to join the Hubologists now?}
-{185}{}{You stupid, stupid pawn.}
+{185}{}{Seu idiota, peão estúpido.}
 {186}{}{The Hubologists are going to cheat you, too.}
-{187}{}{You go to hell! You go to hell and you die!}
-{188}{}{I hate you.}
-{189}{}{You suck.}
+{187}{}{Vá pro inferno!! Vá pro inferno e morra!}
+{188}{}{Eu te odeio.}
+{189}{}{Você é um merda.}
 {190}{}{Sheepie sheepie sheep!}
-{191}{}{Crazy cultist!}
-{192}{}{Some people are just naturally stupid, I guess.}
-{193}{}{Hey! It's the idiot who can't think for itself!}
+{191}{}{Cultista maluco!}
+{192}{}{Algumas pessoas são naturalmente estúpidas,  eu acho.}
+{193}{}{Ei! É o idiota que não pensa por si próprio!}
