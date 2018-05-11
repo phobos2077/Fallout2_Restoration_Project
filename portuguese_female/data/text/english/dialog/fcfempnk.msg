@@ -41,20 +41,20 @@
 {140}{}{Here's another platitude about Chip.}
 {141}{}{I wonder if the spleen tasted good?}
 {142}{}{Yay! Now I can have Chip AND his spleen!}
-{143}{}{I'm going to go see Chip right now!}
-{144}{}{Chip's the best!}
+{143}{}{Eu vou ir ver Chip agora mesmo!}
+{144}{}{Chip é o melhor!}
 {145}{}{Eu gosto de você. Você é dos bons.}
 {146}{}{Estou tão feliz pelo Chip.}
-{147}{}{Chip's a whole man now.}
-{148}{}{You want to have a good time with Chip and me?}
+{147}{}{Chip já é um homem crescido agora}
+{148}{}{Você quer curtir com Chip e eu?}
 {149}{}{You did good with Chip's spleen.}
-{150}{}{How very selfless of you!}
+{150}{}{Quão altruísta vindo de você!}
 {151}{}{A Suze voltou! Ótimo!}
 {152}{}{A Suze voltou...Merda!}
 {153}{}{A Suze sempre foi muito legal pra mim.}
-{154}{}{I like Suze.}
-{155}{}{Thanks for saving her.}
-{156}{}{Some people need to learn not to wander.}
+{154}{}{Eu gosto da Suze.}
+{155}{}{Obrigador por salvá-la.}
+{156}{}{Algumas pessoas precisam aprender a não ficar vagando por aí.}
 {157}{}{Who knows?}
 {158}{}{Poor Badger. Maybe he needs someone to comfort him.}
 {159}{}{I'd better make sure Badger's okay.}
