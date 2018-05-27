@@ -58,7 +58,7 @@
 {157}{}{Arroyo.}
 {158}{}{De la 42.}
 {159}{}{¡Ya basta! Preséntate a tu sargento. Te voy a meter un buen paquete. Retírate.}
-{160}{}{¿La 42, eh? Una de las buenas. De acuerdo. Aquí está tu equipo. Retírate, soldado.}
+{160}{}{¿La 42, eh? Una buena unidad. De acuerdo. Aquí está tu equipo. Retírate, soldado.}
 {161}{}{¿Qué eres, sordo? ¿Eres él o no?}
 {162}{}{Sí.}
 {163}{}{Como pez en el agua.}

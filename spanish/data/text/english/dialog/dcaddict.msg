@@ -66,16 +66,16 @@
 {307}{}{Ahora sí que necesito una dosis.}
 {308}{}{Déjame morir.}
 {350}{}{Ahhhh...}
-{351}{}{Estoy flotando...}
+{351}{}{Estoy flotando…}
 {352}{}{¡Tengo el poder!}
 {353}{}{Hola, señora Flor.}
-{354}{}{Cuántos colores...}
+{354}{}{Cuántos colores…}
 {355}{}{Amigo, ¿ves ese cielo?}
-{356}{}{Están escuchándonos...}
+{356}{}{Ellos están escuchándonos…}
 {357}{}{¿Dónde estoy?}
 {358}{}{¡Allí está!}
 {359}{}{¡Caray, no! ¡Para! ¡Espera! Vale, adelante.}
-{360}{}{Ahí, ahí... ahh...}
+{360}{}{Ahí, ahí… ahh…}
 {361}{}{Sí, ¡nena!}
 {362}{}{¿Qué fue eso?}
 {363}{}{¿Sasha? ¿Eres Sasha?}
@@ -83,9 +83,9 @@
 {365}{}{¿Mamá?}
 {366}{}{¡Oye! ¡Aléjate de mí! Oh…}
 {367}{}{¡No hagas eso!}
-{368}{}{No puedo ver... otra vez.}
+{368}{}{No puedo ver… otra vez.}
 {369}{}{Necesito...}
-{370}{}{Dame más...}
+{370}{}{Dame más…}
 {371}{}{¿Allí? No.}
 {372}{}{No. No puedo encontrarlo.}
 {373}{}{¡Haz que pare!}
