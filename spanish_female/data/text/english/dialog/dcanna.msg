@@ -14,7 +14,7 @@
 {161}{}{¿Qué estás buscando? Quizás pueda ayudarte.}
 {162}{}{Deberías dejar de quejarte y de gemir y decir algo que tenga sentido.}
 {163}{}{¡Mi medallón! Ya no está. ¡Ladrón! ¡Ladrón!}
-{164}{}{Caray, que acabo de llegar. Yo no lo hice.}
+{164}{}{Whoa, acabo de llegar. Yo no lo hice.}
 {165}{}{¿Puedo ayudarte a encontrarlo?}
 {166}{}{Oh, destino cruel.}
 {167}{}{¿No puedes oírme, verdad?}
@@ -26,7 +26,7 @@
 {173}{}{Toma. Que descanses en paz.}
 {174}{}{Vale.}
 {175}{}{No.}
-{176}{}{¡Mi medallón, mi medallón! ¡Ya voy, papá! ¡Ya voy!}
+{176}{}{¡Mi relicario, mi relicario! ¡Ya voy, papá! ¡Ya voy!}
 {177}{}{Adiós.}
 {178}{}{¡Espera! ¡No vayas!}
 {179}{}{Ve hacia la luz.}

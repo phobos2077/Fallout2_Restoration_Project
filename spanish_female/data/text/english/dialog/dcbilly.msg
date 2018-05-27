@@ -10,7 +10,7 @@
 {158}{}{Me encantaría montármelo con ella.}
 {159}{}{Entonces adelante.}
 {160}{}{Bien. Serán $50.}
-{161}{}{Claro, pero te costará $200.}
+{161}{}{Seguro, pero te costará $200.}
 {162}{}{¡Ni de broma! ¡Aléjate de nosotros!}
 {163}{}{Vale.}
 {164}{}{No.}
@@ -28,7 +28,7 @@
 {176}{}{Te costará $200 si quieres pasar un rato conmigo.}
 {177}{}{Te costará $50, amigo.}
 {178}{}{Je, je. Gracias.}
-{179}{}{No tengo bastante dinero.}
+{179}{}{No tengo suficiente dinero.}
 {180}{}{Vale, que sean 50 dólares.}
 {181}{}{Peor para ti.}
 {182}{}{Nos vemos.}
