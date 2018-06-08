@@ -54,7 +54,7 @@
 {201}{}{¿Qué? ¡Una destilería! Maldición. Eh, aquí están los 100 dólares, y te pagaré 500 si la destruyes. Puedes usar mi palanca, en el cuarto de ahí atrás. ¡Eso dará cuenta de su estúpida destilería!}
 {202}{}{Ya lo he hecho.}
 {203}{}{Bien, la destruiré.}
-{204}{}{Ni de broma. Eso es demasiado. Yo tengo la información. Tú úsala como quieras.}
+{204}{}{Ni de broma. Eso es demasiado. Te traje la información. Tú úsala como quieras.}
 {205}{}{No, tengo una idea mejor.}
 {206}{}{Así que, ¿ya has destruido la destilería? Como te dije, hazlo con mi palanca. Eso la hará pedazos enseguida.}
 {207}{}{Sí, lo he hecho.}
@@ -62,7 +62,7 @@
 {209}{}{No. Te lo haré saber cuando este hecho.}
 {210}{}{Entonces aquí están los 500 dólares. Gracias.}
 {211}{}{Me alegra hacer negocios contigo.}
-{212}{}{Ya te imaginarás, Frankie, que ella construirá otra.}
+{212}{}{Ya te imaginarás, Frankie, ella construirá otra.}
 {213}{}{Gracias, adiós.}
 {214}{}{¡Maldición! Bueno, pero mientras tanto no tendrá alcohol.}
 {215}{}{¿Por qué luchar, Frankie? Únete a ella.}

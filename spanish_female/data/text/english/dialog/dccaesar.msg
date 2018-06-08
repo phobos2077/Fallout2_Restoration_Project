@@ -35,7 +35,7 @@
 {183}{}{Sobre Vic el Mercader...}
 {184}{}{¿Puedo unirme al Gremio de Esclavistas?}
 {185}{}{Me gustaría vender a mi marido.}
-{186}{}{Me gustaría vender a mi esposa. ¿Cuánto?}
+{186}{}{Me gustaría vender a mi esposa. ¿Cuánto me darán?}
 {187}{}{Me gustaría vender a uno de mis amigos.}
 {188}{}{Háblame del gremio.}
 {189}{}{¿Qué ciudades te compran esclavos?}
