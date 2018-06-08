@@ -1,7 +1,7 @@
 {100}{}{Ves a un monje de mediana edad.}
 {101}{}{Ves al Hermano Matthew.}
 {102}{}{Él está de pie en un podio predicando a los ciudadanos de Abbey.}
-{200}{}{Good people of the Abbey. Take a moment to listen, for I have much to say.}
+{200}{}{Buena gente de la Abbey. Tomaos un momento para escuchar, porque tengo mucho que decir.}
 {201}{}{Here we collect, the holy relics of an age long past.}
 {202}{}{Scorched by the Flame Deluge, into the dark, we were cast.}
 {203}{}{A Memorabilia we shall make, to preserve the wisdom of old.}

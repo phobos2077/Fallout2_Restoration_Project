@@ -88,7 +88,7 @@
 {360}{}{Ah, sí. Es bastante guapa. Te daré}
 {361}{}{Está bien. Podría quitártelo de encima por, oh, digamos... ¿}
 {362}{}{Puto idiota. ¿Qué te hace pensar que quiero a ese imbécil de vuelta? ¡Le costó una eternidad arreglar una maldita radio! ¡Una radio! Es todo tuyo. No le quiero por aquí rompiendo más cosas.}
-{363}{}{No lo sé, está bastante delgaducho... ¿pero es listo? Eso podría valer algo. Te doy}
+{363}{}{No lo sé, está bastante delgaducho... ¿pero es listo? Eso podría valer algo. Te daré el dinero}
 {364}{}{Este parece que pudiera defenderse bastante bien en una pelea. Hmm... }
 {365}{}{Otro primitivo. Esto parece un espectáculo de monstruitos. Aunque parece fuerte y ese aspecto podría darme más dinero. ¿}
 {366}{}{¿Qué tal otro?}
@@ -155,13 +155,13 @@
 {531}{}{Bien.}
 {540}{}{Aquí tienes }
 {541}{}{Aquí tienes tus }
-{542}{}{Buen trabajo ahí fuera. Ten }
+{542}{}{Bien hecho ahí fuera. Ten }
 {543}{}{Aquí está tu dinero, }
 {544}{}{¿}
 {545}{}{Bien, son }
 {546}{}{No era tan difícil, ¿no? La próxima vez no quiero fallos. Aquí tienes}
 {547}{}{¿}
-{548}{}{¡Vamos! ¿ }
+{548}{}{¡Vamos! }
 {549}{}{Recuerda, vigila la espalda de tus compañeros y mata sólo a los esclavos hostiles. Aquí tienes }
 {550}{}{¡Sólo }
 {551}{}{¿Quieres ganar algo o no? Me estás cabreando. ¿Cómo puede ser de difícil? Ahora toma tus }

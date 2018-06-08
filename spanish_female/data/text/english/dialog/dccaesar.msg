@@ -80,7 +80,7 @@
 {229}{}{Ciudad Refugio está al este de aquí, y un poco al sur. Vic es de allí.}
 {230}{}{Tengo más preguntas.}
 {231}{}{Gracias, debo irme.}
-{232}{}{Hmm, parece un esclavo saludable. Te daré }
+{232}{}{Hmm, parece un esclavo saludable. Te pagaré}
 {233}{}{ dólares.}
 {234}{}{¡Vale! Trato hecho.}
 {235}{}{Uh, no importa.}
@@ -98,7 +98,7 @@
 {247}{}{¡Vendido!}
 {248}{}{No, gracias.}
 {249}{}{¡Quiero más dinero!}
-{250}{}{De acuerdo, te daré }
+{250}{}{De acuerdo, te lo daré}
 {251}{}{, ¡pero no más!}
 {252}{}{¡Vendido!}
 {253}{}{No es suficiente.}

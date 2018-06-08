@@ -7,7 +7,7 @@
 {203}{}{Mmmm. ¿Vale? Adiós, Mami.}
 {220}{}{Ya casi te has comido todo lo que tengo. ¿Por qué no te vas un rato a otro sitio? Por hoy ya has comido suficiente.}
 {221}{}{Bueno }
-{222}{}{, parece que estás un poco confuso. Odio ver sufrir a una criaturita como tú. ¿Quieres comer algo?}
+{222}{}{ parece que estás un poco confuso. Odio ver sufrir a una criaturita como tú. ¿Quieres comer algo?}
 {223}{}{Yo lleno. Comida de Mamá bueeena. Adiós Mamá.}
 {224}{}{¿Yo paga?}
 {225}{}{Yo marcho. Adiós, Mamá.}
