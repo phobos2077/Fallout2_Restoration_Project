@@ -25,12 +25,12 @@
 {124}{}{Você disse 'houve um tempo.' Mas e agora?}
 {125}{}{Alguns meses atrás nós nos deparamos com um grupo conhecido como o Enclave. Para nossa surpresa, seu nível de tecnologia superou até o nosso. Achamos isso bastante perturbador e consideramos contatá-los. No entanto, decidimos por um curso de ação mais cauteloso até que pudéssemos determinar exatamente quem era o Enclave, e qual o objetivo oculto de sua organização.}
 {126}{}{Para isso, nós reativamos pequenos postos avançados próximos a áreas de atividade do Enclave, dos quais podemos observá-los com segurança. Atualmente, ativamos esses postos avançados no Den, na NCR e aqui em São Francisco.}
-{127}{}{What you learn?}
-{128}{}{Sounds interesting. What have you learned?}
-{129}{}{We have found that the Enclave deals heavily in drugs, weapons, and slaves. However, these are simply trivial pursuits leading up to some higher purpose, which we have failed to uncover. We are still watching them.}
-{130}{}{Why you tell all this now?}
-{131}{}{Before we go any further, why tell me all this now?}
-{132}{}{(sigh) The Enclave has developed vertibird technology, flying machines that allow them to move deeply into surrounding territories. Without similar technology to counter this threat, the Brotherhood would be unable to stop an invasion launched by the Enclave. We need to have vertibird technology, or a viable counter to it, for ourselves.}
+{127}{}{O que você aprender?}
+{128}{}{Parece interessante. O que vocês descobriram?}
+{129}{}{Descobrimos que o Enclave está envolvido fortemente com drogas, armas e escravos. No entanto, essas são apenas atividades insignificantes que fazem parte de algum objetivo maior, o qual nós falhamos em descobrir. Nós continuamos a observá-los.}
+{130}{}{Por que você dizer tudo isso agora?}
+{131}{}{Antes de prosseguirmos, por que me diz tudo isso agora?}
+{132}{}{(suspiro) O Enclave desenvolveu tecnologia vertibird, máquinas voadoras que lhes permitem avançar profundamente em territórios próximos. Sem uma tecnologia similar para combater essa ameaça, a Irmandade seria incapaz de impedir uma invasão iniciada pelo Enclave. Precisamos obter a tecnologia vertibird, ou algo para usarmos contra ela.}
 {133}{}{Now, recently the Enclave established a base north of here called Navarro. It's used as a stopover point for the maintenance and refueling of vertibirds. It's my belief that such a base may have complete technical plans of the vertibirds. All I need is for someone to infiltrate the base, steal the plans, and bring them here to me.}
 {134}{}{Uh... me do?}
 {135}{}{Let me guess. You want me to infiltrate this base for you.}
