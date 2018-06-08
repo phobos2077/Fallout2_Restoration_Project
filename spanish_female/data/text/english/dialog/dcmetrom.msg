@@ -1,7 +1,7 @@
 {100}{}{Ves a un duro esclavista de mediana edad.}
 {101}{}{Ves a un esclavista bastante grande.}
 {150}{}{Este es un esclavista que parece disfrutar con su trabajo.}
-{151}{}{Este negrero parece ser muy fuerte pero no muy avispado.}
+{151}{}{Este esclavista parece ser muy fuerte pero no muy avispado.}
 {200}{}{Aléjate de esa puerta.}
 {201}{}{¿Qué cojones crees que estás haciendo?}
 {202}{}{Si entras ahí, Metzger se quedará con tu cabeza. Atrás, amigo.}

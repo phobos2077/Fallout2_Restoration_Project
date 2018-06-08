@@ -115,13 +115,13 @@ Trágico cubiertas de tarjeta. Estás a punto de salir cuando el Hermano Jason tir
   Yo, "tomé prestado" esto de la Obra Memorable de la Abadía, sorprendentemente es una de las pocas reliquias tecnológicas que aún funciona.
   [Él te da un Stealth Boy.] Nos vemos.}
 {373}{}{Gracias. Adiós.}
-{374}{}{Yo sólo soy feliz no tengo que escuchar que puta más. Bye.}
+{374}{}{Estoy feliz de no tener que oírte más perra. Bye.}
 {380}{}{Santa mierda, Wooz *no* tienen un Negro Dahlia! Que solo ha hecho que este viaje valga la pena. Seguro, los ghouls son feos
 como el infierno, pero me pareció que si me quito mis gafas, es algo tolerable. De todos modos, muchas gracias por traerme aquí.
 Aquí, [Él busca en su bolsillo, luego frunce el ceño.] ¿qué es el infierno? Podría jurar que lo tenía. Uh, lo siento, pero me parece fuera de lugar
 su recompensa, por lo que tendrá que hacer con un simple gracias. Ya nos veremos.}
 {381}{}{Oh, eh, no te preocupes. Sólo me alegro de podría ayudar. Adiós.}
-{382}{}{Yo sólo soy feliz no tengo que escuchar que puta más. Bye.}
+{382}{}{Estoy feliz de no tener que oírte más perra. Bye.}
 {400}{}{No puede hablar... debe construir más potente de la cubierta...}
 {500}{}{Déjame tranquilo.}
 {501}{}{Vete.}

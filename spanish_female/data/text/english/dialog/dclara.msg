@@ -23,7 +23,7 @@
 {252}{}{¿Tienes trabajo?}
 {253}{}{Vale, gracias.}
 {260}{}{Bueno, depende de si eres bueno en algo. Hay un tema sobre el que tengo curiosidad. Si puedes averiguarlo, te pagaré.}
-{261}{}{Como he dicho, busco información sobre alguien... o algo. Te pagaré, por supuesto.}
+{261}{}{Como he dicho, busco información sobre cierto objeto... o lugar. Te pagaré, por supuesto.}
 {262}{}{Claro, ¿sobre qué?}
 {263}{}{Quizá más tarde.}
 {270}{}{Si cambias de idea házmelo saber.}
@@ -32,7 +32,7 @@
 {281}{}{Eso es fácil. Ya sé qué es.}
 {282}{}{Claro.}
 {283}{}{Veré lo que puedo hacer.}
-{290}{}{Gracias. No te metas en jaleos... todavía. Tengo un plan.}
+{290}{}{Gracias. No te metas en peleas... todavía. Tengo un plan.}
 {291}{}{No hay problema.}
 {292}{}{Volveré.}
 {300}{}{¿Qué tienes para hacer?}
@@ -76,7 +76,7 @@
 {422}{}{¿Qué es eso?}
 {430}{}{Estoy segura de que podrás averiguar algo.}
 {431}{}{Vale, ¿de qué se trata?}
-{440}{}{No podemos hacerles frente en nuestro estado actual. Tienen fondos extra y nos superan en número ligeramente. Si pudieras encontrar algún punto flaco que pudiéramos usar para mejorar nuestras posibilidades, o quizás alguna ventaja que pudiéramos explotar...}
+{440}{}{No podemos hacerles frente en nuestro estado actual. Tienen fondos extra y nos superan en número ligeramente. Si pudieras encontrar algún punto débil que pudiéramos usar para mejorar nuestras posibilidades, o quizás alguna ventaja que pudiéramos explotar...}
 {441}{}{¿Eh? ¿Encontrar un punto flaco? ¿Cómo se supone que voy a hacer eso?}
 {442}{}{¿Cuánto?}
 {443}{}{Considéralo hecho.}

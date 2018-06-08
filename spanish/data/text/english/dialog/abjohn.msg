@@ -1,11 +1,11 @@
 {100}{}{Ves al Hermano John.}
 {101}{}{Ves a uno de los monjes antiguos de la Abadía.}
-{102}{}{Usted ve a un viejo monje. Él parece estar en su principios de los años setenta.}
+{102}{}{Usted ve a un viejo monje. Él parece estar en los principios de los años setenta.}
 {300}{}{Hola, joven.}
 {301}{}{¿Quién eres?}
 {302}{}{¿Habéis oído algo sobre el GECK o el Refugio 13?}
 {303}{}{Adiós.}
-{400}{}{Mi nombre es Juan, soy uno de los más antiguos de los monjes.}
+{400}{}{Mi nombre es John, soy uno de los más antiguos monjes.}
 {401}{}{Así que, ¿cuál es tu trabajo?}
 {402}{}{Ya veo, adiós.}
 {403}{}{Bueno, yo solía trabajar en una granja, pero era malo para mi corazón.}
@@ -31,4 +31,4 @@ para encontrar la medicina para ese problema en el mundo de hoy, usted sabe.}
 {423}{}{Bien, iré.}
 {500}{}{Gracias de nuevo por esas pastillas para el corazón, mi amigo. Buena suerte en tus viajes.}
 {600}{}{Tan solo vete, por favor.}
-{700}{}{Le mostró a Juan justo lo cruel que es el mundo.}
+{700}{}{Le mostraste a John lo cruel que es el mundo.}

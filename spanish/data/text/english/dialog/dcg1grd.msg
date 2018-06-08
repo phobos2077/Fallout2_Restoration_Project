@@ -1,6 +1,6 @@
 {100}{}{Ves a un guardia.}
 {150}{}{Es uno de los guaridas de Tyler.}
-{151}{}{Es uno de los guaridas de Tyler.}
+{151}{}{Es una de los guardias de Tyler.}
 {200}{}{¿Aún respiras?}
 {210}{}{Les hemos dado una lección, ¿no?}
 {211}{}{Nadie se mete con nosotros.}
