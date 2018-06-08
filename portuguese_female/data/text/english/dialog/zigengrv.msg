@@ -109,7 +109,7 @@
 {516}{}{You do not find any traps on the grave.}
 {520}{}{ finds a trap on the grave.}
 {521}{}{ does not find any traps on the grave.}
-{525}{}{Você habilmente desarmar a armadilha.}
+{525}{}{Você habilmente desarma a armadilha.}
 {526}{}{Você não consegue desarmar a armadilha.}
 {530}{}{ habilmente desarma a armadilha.}
 {531}{}{ fail to disarm the trap.}

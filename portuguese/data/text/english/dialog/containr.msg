@@ -157,7 +157,7 @@ que você poderá abrir.}
 {193}{}{Os explosivos nem sequer colocam um arranhão no recipiente.}
 {194}{}{Você encontra uma armadilha no recipiente.}
 {195}{}{Você não consegue encontrar nenhuma armadilha no recipiente.}
-{196}{}{Você habilmente desarmar a armadilha.}
+{196}{}{Você habilmente desarma a armadilha.}
 {198}{}{Você não consegue desarmar a armadilha.}
 {199}{}{ encontra uma armadilha no recipiente.}
 {200}{}{ não consegue encontrar qualquer armadilhas no recipiente.}

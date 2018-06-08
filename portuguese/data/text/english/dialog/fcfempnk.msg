@@ -38,16 +38,16 @@
 {137}{}{Mesmo se ele ficar sem o baço, eu ainda faria com o Chip em um segundo!}
 {138}{}{Obrigado por tentar devolver o baço do Chip.}
 {139}{}{Você deu seu melhor pelo Chip.}
-{140}{}{Here's another platitude about Chip.}
-{141}{}{I wonder if the spleen tasted good?}
-{142}{}{Yay! Now I can have Chip AND his spleen!}
+{140}{}{Aqui está mais uma curiosidade sobre Chip.}
+{141}{}{Será que o baço estava saboroso?}
+{142}{}{Eba! Agora eu posso ter Chip e o seu Baço!}
 {143}{}{Eu vou ir ver Chip agora mesmo!}
 {144}{}{Chip é o melhor!}
 {145}{}{Eu gosto de você. Você é dos bons.}
 {146}{}{Estou tão feliz pelo Chip.}
 {147}{}{Chip já é um homem crescido agora}
 {148}{}{Você quer curtir com Chip e eu?}
-{149}{}{You did good with Chip's spleen.}
+{149}{}{Você fez bem com o baço de Chip.}
 {150}{}{Quão altruísta vindo de você!}
 {151}{}{A Suze voltou! Ótimo!}
 {152}{}{A Suze voltou...Merda!}
@@ -82,9 +82,9 @@
 {181}{}{Badger... ::suspiro::}
 {182}{}{Badger era uma princesa de um conto de fadas.}
 {183}{}{Seu imbecil. Porquê você matou ele?}
-{184}{}{You think we're going to join the Hubologists now?}
+{184}{}{Você acha que vamos nos juntar aos Hubologistas agora?}
 {185}{}{Seu idiota, peão estúpido.}
-{186}{}{The Hubologists are going to cheat you, too.}
+{186}{}{Os hubologistas irão te enganar também.}
 {187}{}{Vá pro inferno!! Vá pro inferno e morra!}
 {188}{}{Eu te odeio.}
 {189}{}{Você é um merda.}

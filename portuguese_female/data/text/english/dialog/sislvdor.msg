@@ -131,7 +131,7 @@ no alizar de porta.}
 {172}{}{Você não consegue abrir o bloqueio nesta porta.}
 {173}{}{ habilmente pega a trava na porta.}
 {174}{}{A sua falta de habilidade encravou a trava na porta.}
-{175}{}{Você não consegue abrir esta porta trancada.}
+{175}{}{...falhou em destrancar essa porta.}
 {176}{}{Você arrombou a fechadura da porta.}
 {177}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e
   toma um ponto de dano.}
@@ -153,7 +153,7 @@ no alizar de porta.}
 {193}{}{Os explosivos nem sequer colocam um risco na porta.}
 {194}{}{Você encontra uma armadilha na porta.}
 {195}{}{Você não consegue encontrar armadilhas na porta.}
-{196}{}{Você habilmente desarmar a armadilha.}
+{196}{}{Você habilmente desarma a armadilha.}
 {198}{}{Você não consegue desarmar a armadilha.}
 {199}{}{ encontra uma armadilha na porta.}
 {200}{}{ não consegue encontrar qualquer armadilhas na porta.}

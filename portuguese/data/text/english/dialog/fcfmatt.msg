@@ -1,15 +1,15 @@
 {100}{}{Você vê um homem em armadura de metal.}
-{101}{}{You see Matthew.}
+{101}{}{Você vê Matthew.}
 {102}{}{Você vê um homem vestindo uma armadura de metal com uma insígnia de raio.}
 {103}{}{Olá,}
 {104}{}{. O que eu posso fazer por você?}
-{105}{}{You answer questions?}
-{106}{}{Nothing. Me come back later.}
-{107}{}{You can start by answering some questions.}
-{108}{}{Nothing for now. I'll come back later.}
-{109}{}{I think you deserve to have answers to your questions.}
+{105}{}{Você responder perguntas?}
+{106}{}{Nada. Mim volta mais tarde.}
+{107}{}{Você pode começar respondendo algumas perguntas.}
+{108}{}{Nada por enquanto. Eu volto mais tarde.}
+{109}{}{Eu acho que você merece ter suas perguntas respondidas.}
 {110}{}{Com o que posso ajudar?}
-{111}{}{Who you guys?}
+{111}{}{Quem é vocês?}
 {112}{}{Why nobody mention you?}
 {113}{}{Why only one person here?}
 {114}{}{Eu vou agora.}
@@ -17,14 +17,14 @@
 {116}{}{Why is it that nobody around here mentions you?}
 {117}{}{Why do you have only one person here?}
 {118}{}{Tenho que ir.}
-{119}{}{We are a paramilitary organization known as the Brotherhood of Steel.}
-{120}{}{What Brotherhood do?}
-{121}{}{Okay - and what is it that you do?}
-{122}{}{At one time we were the sole bastions of technology left on the planet. We set ourselves up as what could best be called 'technology police.' We hoarded the old knowledge and only doled it out in small parcels. Of course, it was only to those who we felt deserved it and had the wisdom to properly use it.}
-{123}{}{And now?}
-{124}{}{You said 'at one time.' What about now?}
-{125}{}{Several months ago we came across a group known as the Enclave. Much to our surprise their level of technology surpassed even our own. We found this quite disturbing and considered contacting them. However, we decided on a more cautious course of action until we could determine exactly who the Enclave was, and the underlying purpose of their organization.}
-{126}{}{To this end, we have reactivated small outposts near areas of Enclave activity from which we can safely observe them. Currently, we have activated such outposts in the Den, the NCR, and here in San Francisco.}
+{119}{}{Nós somos uma organização paramilitar conhecida como Irmandade do Aço.}
+{120}{}{O que irmandade faz?}
+{121}{}{Ok - e o que é que vocês fazem?}
+{122}{}{Houve um tempo em que eramos os únicos defensores da tecnologia deixados no planeta. Nós nos estabelecemos como o que poderia ser chamado de "Polícia da Tecnologia". Nós acumulamos o conhecimento antigo e distribuímos apenas em pequenas parcelas. Naturalmente, foi apenas para aqueles que sentimos que mereciam e que possuíam a sabedoria para utilizar tal conhecimento devidamente.}
+{123}{}{E agora?}
+{124}{}{Você disse 'houve um tempo.' Mas e agora?}
+{125}{}{Alguns meses atrás nós nos deparamos com um grupo conhecido como o Enclave. Para nossa surpresa, seu nível de tecnologia superou até o nosso. Achamos isso bastante perturbador e consideramos contatá-los. No entanto, decidimos por um curso de ação mais cauteloso até que pudéssemos determinar exatamente quem era o Enclave, e qual o objetivo oculto de sua organização.}
+{126}{}{Para isso, nós reativamos pequenos postos avançados próximos a áreas de atividade do Enclave, dos quais podemos observá-los com segurança. Atualmente, ativamos esses postos avançados no Den, na NCR e aqui em São Francisco.}
 {127}{}{What you learn?}
 {128}{}{Sounds interesting. What have you learned?}
 {129}{}{We have found that the Enclave deals heavily in drugs, weapons, and slaves. However, these are simply trivial pursuits leading up to some higher purpose, which we have failed to uncover. We are still watching them.}
