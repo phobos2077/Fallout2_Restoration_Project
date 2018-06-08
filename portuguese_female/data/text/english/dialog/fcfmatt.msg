@@ -31,28 +31,28 @@
 {130}{}{Por que você dizer tudo isso agora?}
 {131}{}{Antes de prosseguirmos, por que me diz tudo isso agora?}
 {132}{}{(suspiro) O Enclave desenvolveu tecnologia vertibird, máquinas voadoras que lhes permitem avançar profundamente em territórios próximos. Sem uma tecnologia similar para combater essa ameaça, a Irmandade seria incapaz de impedir uma invasão iniciada pelo Enclave. Precisamos obter a tecnologia vertibird, ou algo para usarmos contra ela.}
-{133}{}{Now, recently the Enclave established a base north of here called Navarro. It's used as a stopover point for the maintenance and refueling of vertibirds. It's my belief that such a base may have complete technical plans of the vertibirds. All I need is for someone to infiltrate the base, steal the plans, and bring them here to me.}
-{134}{}{Uh... me do?}
-{135}{}{Let me guess. You want me to infiltrate this base for you.}
-{136}{}{Let me be frank with you,}
-{137}{}{. The Brotherhood of Steel is not the power that we once were. We believed ourselves to be the sole source of technology left to mankind. Secure in this belief we have let our order decline over the years. Now we don't have the resources at our disposal to deal with the Enclave. We need your help.}
-{138}{}{I am prepared to make you this offer. Perform this mission for me and I will grant you access to our facility here. The best of the Brotherhood technology will be made available to you, exclusively. What do you say?}
-{139}{}{Me think about.}
-{140}{}{No way. Me be going.}
-{141}{}{What the hell. Me do.}
+{133}{}{Recentemente, o Enclave estabeleceu uma base ao norte daqui chamada Navarro. Essa base é usada como ponto de parada para a manutenção e reabastecimento dos vertibirds. Acredito que nessa base podem haver manuais de construção dos vertibirds. Tudo que preciso é que alguém se infiltre na base, roube os manuais e os traga para mim.}
+{134}{}{Hum... mim fazer?}
+{135}{}{Deixe-me adivinhar. Você quer que eu me infiltre nessa base por você.}
+{136}{}{Deixe-me ser sincero com você,}
+{137}{}{. A Irmandade do Aço não é mais tão poderosa quanto já foi. Nós acreditávamos ser a única fonte de tecnologia restante para a humanidade. Seguros destas crenças nós permitimos que nossa ordem se enfraquecesse ao longo dos anos. Agora nós não temos recursos à nossa disposição para lidar com o Enclave. Nós precisamos de sua ajuda.}
+{138}{}{Eu estou preparado para fazer essa oferta. Cumpra essa missão para mim e eu irei lhe conceder acesso ao nosso entreposto aqui. O melhor da tecnologia da Irmandade estará exclusivamente disponível para você. E aí, o que me diz?}
+{139}{}{Mim pensar sobre isso.}
+{140}{}{Nunca. Mim ir em bora.}
+{141}{}{Que diabos. Mim aceita.}
 {142}{}{Eu vou pensar sobre isso.}
-{143}{}{No way. Find yourself a new chump.}
-{144}{}{What the hell. I must be crazy, but I'll do it.}
-{145}{}{Fair enough. Come back to me when you reach a decision.}
+{143}{}{De jeito nenhum. Vá arranjar outro otário.}
+{144}{}{Que diabos. Eu devo estar doida, mas eu aceito.}
+{145}{}{É justo. Volte aqui quando tiver tomado uma decisão.}
 {146}{}{Tudo bem. Tchau.}
-{147}{}{Okay, but me ask more.}
-{148}{}{All right. I'll see ya.}
-{149}{}{All right, but I'd like to ask you a few more things.}
-{150}{}{I understand your hesitation in accepting such a mission. If you change your mind please let me know.}
+{147}{}{Ok, mas eu quer saber mais.}
+{148}{}{Tudo bem. Te vejo por aí.}
+{149}{}{Tudo bem, mas eu gostaria de saber mais alguns detalhes.}
+{150}{}{Eu entendo a sua hesitação em aceitar uma missão como essa. Se você mudar de ideia por favor me avise.}
 {151}{}{Tudo bem. Tchau.}
-{152}{}{Okay, but me ask more.}
-{153}{}{All right. I'll see ya.}
-{154}{}{All right, but I'd like to ask you a few more things.}
+{152}{}{Ok, mas eu quer saber mais.}
+{153}{}{Tudo bem. Te vejo por aí.}
+{154}{}{Tudo bem, mas eu gostaria de saber mais alguns detalhes.}
 {155}{}{Excellent. Here is what I need you to do. Go to Navarro, infiltrate the base, and recover the technical plans for the vertibirds. Return the plans to me.}
 {156}{}{Okay. Uh... How you think me can do this? It military base.}
 {157}{}{Okay. Me go now.}
@@ -117,7 +117,7 @@
 {216}{}{You we'come!}
 {217}{}{Just head on in through the door there, if you like, or go on up to the tanker. It's ready to go. Good luck!}
 {218}{}{So I am prepared to make you this offer. Perform this mission for me and I will prepare the tanker for you on your journey to the Enclave. What do you say?}
-{219}{}{Me think about.}
-{220}{}{No way. Me be going.}
-{221}{}{What the hell. Me do.}
+{219}{}{Mim pensar sobre isso.}
+{220}{}{Nunca. Mim ir em bora.}
+{221}{}{Que diabos. Mim aceita.}
 {222}{}{Okay. Go now.}
