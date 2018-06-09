@@ -102,16 +102,16 @@
 {201}{}{Você mencionou suas 'fontes.' Quem seriam eles?}
 {202}{}{Eu enviei uma agente para observar a base. Recentemente os relatórios dela pararam de chegar. Eu só posso presumir o pior. Por favor seja cautelosa.}
 {203}{}{. Eu não aprecio enviar pessoas para a morte.}
-{204}{}{Me be careful, thanks.}
-{205}{}{I'll be careful. Thanks.}
-{206}{}{Thanks again for all your help. You have full access to our facilities now.}
+{204}{}{Eu ser cuidadosa, obrigada.}
+{205}{}{Serei cuidadosa, obrigada.}
+{206}{}{Obrigado novamente pela ajuda. Você tem acesso total à nossas instalações agora.}
 {207}{}{Isso é um escritório privado.}
 {208}{}{Não há nada para você lá.}
 {209}{}{Esta é uma propriedade privada, então, avance.}
-{210}{}{How do you know who I am?}
-{211}{}{How know me?}
-{212}{}{We know many things.}
-{213}{}{Upon successful completion of your mission I'll get the tanker ready for you, and grant you access to our facility here. In the meantime it would be best if you got started immediately. Thank you,}
+{210}{}{Como você sabe quem eu sou?}
+{211}{}{Como conhece eu?}
+{212}{}{Nós sabemos de muitas coisas.}
+{213}{}{Após concluir a missão com sucesso eu irei preparar o petroleiro para você partir, e lhe darei acesso a nossas instalações por aqui. Enquanto isso, seria melhor se você começasse imediatamente. Obrigado,}
 {214}{}{We'come.}
 {215}{}{Excellent work! Let me have the plans, and I'll make a copy of them. As promised, I'll ensure that the tanker is ready for you to take out to the oil rig - just go to the computer on the upper level and hit the Go switch. I'll also give you full access to our facilities. Thank you.}
 {216}{}{You we'come!}
