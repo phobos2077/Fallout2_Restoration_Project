@@ -56,14 +56,14 @@
 {155}{}{Ótimo. Eis o que você precisa fazer. Vá até Navarro, infiltre-se na base e adquira os manuais de construção de vertibirds. Entregue os manuais para mim.}
 {156}{}{Ok. Hã... Como acha que eu pode fazer isso? É base militar.}
 {157}{}{Ok. Eu ir agora.}
-{158}{}{All right, but... Just how do think I should go about this? This is a military base after all.}
-{159}{}{Fine. I'll get on it.}
-{160}{}{Upon successful completion of your mission I will grant you access to our facility here. In the meantime it would be best if you got started immediately. Thank you,}
+{158}{}{Tá certo, mas... De que maneira você acha que eu devo me aproximar? Afinal de contas é uma base militar.}
+{159}{}{Certo. Vou dar um jeito nisso.}
+{160}{}{Após a concluir sua missão, te concederei acesso às nossas instalações aqui. Enquanto isso, seria melhor se você começasse imediatamente. Obrigado,}
 {161}{}{.}
 {162}{}{Tudo bem. Tchau.}
-{163}{}{Sure, but me ask more.}
-{164}{}{Yeah, I'll see ya.}
-{165}{}{Sure thing, but I'd like to ask you a few more things.}
+{163}{}{Certo, mas quer saber mais.}
+{164}{}{Certo, a gente se fala.}
+{165}{}{Com certeza, mas eu gostaria de tirar mais algumas dúvidas.}
 {166}{}{We've had this base for years. By maintaining it at a low level with minimal staffing, never drawing attention to ourselves, we've achieved anonymity. We leave the Shi alone, and they leave us alone.}
 {167}{}{Me guess...}
 {168}{}{Yeah, I guess I see what you mean.}

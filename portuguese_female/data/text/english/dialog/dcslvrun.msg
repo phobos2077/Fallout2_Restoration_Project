@@ -1,23 +1,23 @@
-{100}{}{Você vê um homem grande e de aparência primitiva.}
+{100}{}{Você vê um homem grande e de aparência rudimentar.}
 {101}{}{Este homem parece bastante forte e alerta.}
 {110}{}{Você vê uma mulher primitiva delgada.}
 {111}{}{Ela parece forte, apesar de seu tamanho.}
-{120}{}{Você vê um homem estranho.}
-{121}{}{Ele parece ser extremamente magro.}
+{120}{}{Você vê um homem esquisito.}
+{121}{}{Ele aparenta ser bem magro.}
 {130}{}{Você vê um homem de aparência esfarrapada.}
 {131}{}{Este parece bastante forte.}
 {140}{}{Você vê um homem em roupas esfarrapadas.}
 {141}{}{Os movimentos sugerem velocidade.}
 {150}{}{Você vê uma mulher muito suja.}
 {151}{}{Ela não parece ter se banhado.}
-{160}{}{Você vê uma mulher bastante grande.}
+{160}{}{Você vê uma mulher bem grande.}
 {161}{}{Ela parece forte lutadora.}
 {170}{}{Você vê uma mulher de aparência magra.}
 {171}{}{Este não parece ser muito problema.}
 {200}{}{Morra!}
 {201}{}{Onde você está?}
 {202}{}{Eu vou te machucar.}
-{210}{}{Eu vou pegar o seu por isso!}
+{210}{}{Você vai me pagar por isso!}
 {211}{}{Malditos escravistas!}
 {212}{}{Você vai pagar por isso!}
 {220}{}{Deixe sozinho!}
@@ -37,7 +37,7 @@
 {249}{}{Não devem encontrar-nos.}
 {250}{}{Eles pessoas más.}
 {260}{}{Escravistas estão chegando. Todos quietos.}
-{261}{}{Prepare-se; eu acho que eles estão perto agora.}
+{261}{}{Prepare-se; eu acho que eles já estão próximos.}
 {262}{}{Eu não vou cair sem uma luta.}
 {263}{}{Eles nunca vão nos escravizar.}
 {264}{}{Aqueles escravistas pagarão por isso.}

@@ -111,4 +111,4 @@
 {436}{}{E agora?}
 {437}{}{Eu conheço essa cara feia.}
 {438}{}{Como vai?}
-{439}{}{Yer para trás. Ya vamos participar?}
+{439}{}{Cê voltou. Cê vai se juntar a nós?}
