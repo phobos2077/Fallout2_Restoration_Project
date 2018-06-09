@@ -69,46 +69,46 @@
 {332}{}{Diga-me antes de eu abrir um buraco através de sua cabeça.}
 {333}{}{Eu entendo. Outra pergunta?}
 {334}{}{Tudo bem, tchau.}
-{340}{}{Ouça aqui, você é uma merda, não se atreva a me ameaçar ou a ninguém em nossa aliança, ou você está morto. Pegou isso? Morto.}
-{341}{}{Ouça aqui, você está lendo. Não se atreva a me ameaçar ou a ninguém em nossa aliança, ou será sua morte. Pegou isso? Morto.}
-{342}{}{Agora, jovem jato, você vai morrer.}
+{340}{}{Escuta aqui, seu merdinha, não se atreva a ameaçar a mim ou a qualquer outro membro da nossa guilda, ou você está morto. Entendeu? Morto.}
+{341}{}{Escuta aqui, sua vagabunda. Não se atreva a ameaçar a mim ou a qualquer outro membro da nossa guilda, ou você está morta. Entendeu? Morta.}
+{342}{}{Agora seu drogadinho, você vai morrer.}
 {343}{}{Que se dane.}
-{344}{}{Desculpe, por favor, não me faça mal.}
-{345}{}{Sim, que seja. Eu vou deixar você viver este tempo.}
-{350}{}{Sério? Talvez eu devesse explodir um buraco na cabeça aqui mesmo agora. O que você acha, tiro quente?}
-{351}{}{Dê o seu melhor tiro.}
+{344}{}{Perdão, por favor não me machuque.}
+{345}{}{Tá, que se dane. Eu vou deixar você viver dessa vez.}
+{350}{}{Sério? Talvez eu devesse abrir um buraco nessa sua cabeça agora mesmo. O que você acha, seu exibido?}
+{351}{}{Manda ver.}
 {352}{}{Não me faça rir.}
 {353}{}{Eu estava apenas brincando, cara.}
-{354}{}{Sinto muito. Eu só estava tentando impressioná-lo.}
-{360}{}{Corra junto, antes de eu mudar de ideia.}
+{354}{}{Foi mal. Eu só estava tentando te impressionar.}
+{360}{}{Caia fora, antes que eu mude de ideia.}
 {361}{}{Tudo bem.}
-{370}{}{O que? Ah, você deve procurar a mãe. Você vai num edifício fora. Ela está no prédio diretamente ao sul. Sul. Dessa maneira. [Aidan aponta a porta.]}
-{371}{}{Hein? Uh... Oh.}
-{380}{}{Parece que você poderia entrar, mas a Metzger nunca contratou uma mulher. Não tenho certeza por que, mas duvido que ele comece agora.}
-{381}{}{Você não parece o tipo. Inferno, Metzger nunca contratou uma mulher antes. Não tenho certeza por que, mas duvido que ele esteja começando agora.}
-{382}{}{Eu disse ta falar com Metzger.}
+{370}{}{Que? Ah, você deve estar procurando a Mamãe. Você errou o endereço. Ela está no prédio ao sul daqui. S-u-l. Naquela direção. [Aidan aponta para a porta.]}
+{371}{}{Hã? Hum... Ah.}
+{380}{}{Pelo jeito você até poderia ser útil, mas o Metzger nunca contratou uma mulher. Não sei por quê, mas duvido que ele esteja começando agora.}
+{381}{}{Você não faz o nosso tipo. Diabos, Metzger nunca contratou uma mulher antes. Não tenho certeza por quê, mas duvido que ele esteja começando agora.}
+{382}{}{Eu disse pra falar com Metzger.}
 {383}{}{Quem é o Metzger?}
 {384}{}{Outra pergunta.}
 {385}{}{Obrigado, eu vou.}
 {386}{}{Medger}
 {387}{}{Uh... kay.}
-{400}{}{Não, mas eu verificaria com o chefe. Ele provavelmente esteve por toda parte.}
+{400}{}{Não, mas eu falaria com o chefe. Ele provavelmente já esteve em tudo quanto é canto.}
 {401}{}{Outra pergunta.}
 {402}{}{Ok, obrigado. Tchau.}
-{410}{}{Comerciante? Oh, você deve falar do Vic, aquele cara que vende coisas do Vault. Ele está fodido. Metzger estava muito enojado com eles.}
-{411}{}{Sim, Vic ... esse Comerciante, certo? Aquele que vende o antigo material do Vault. Ele está fodido. Metzger estava muito enojada com eles.}
-{412}{}{Quantas vezes você vai me perguntar isso? Metzger pegou.}
+{410}{}{Comerciante? Ah, você deve estar falando do Vic, aquele cara que vende tranqueiras do Vault. Ele tá fodido. O Metzger tá muito puto com ele.}
+{411}{}{Sim, Vic... o tal do Comerciante, né? Aquele que vende tranqueiras do Vault. Ele está fodido. O Metzger tá muito puto com ele.}
+{412}{}{Quantas vezes você vai me perguntar isso? Metzger prendeu ele.}
 {413}{}{Quem é o Metzger?}
 {414}{}{Posso fazer outra pergunta?}
 {415}{}{Ele está à venda?}
 {416}{}{Ok, obrigado.}
-{430}{}{Ei, meninos, olha quem está de volta.}
-{431}{}{Corra, é um escravista! Ah, eu me separo.}
-{432}{}{De volta para um pouco de ação?}
+{430}{}{Ei, rapazes, olha quem voltou.}
+{431}{}{Corra, é um escravista! Ah, eu me cago de tanto rir.}
+{432}{}{De volta a ativa?}
 {433}{}{Você conhece o caminho.}
 {434}{}{Vá em frente.}
-{435}{}{Ele está esperando por você.}
+{435}{}{Ele tá esperando você.}
 {436}{}{E agora?}
-{437}{}{Eu conheço esse rosto feio.}
-{438}{}{Como vai'?}
+{437}{}{Eu conheço essa cara feia.}
+{438}{}{Como vai?}
 {439}{}{Yer para trás. Ya vamos participar?}
