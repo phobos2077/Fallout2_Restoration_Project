@@ -69,7 +69,7 @@
 {168}{}{I'm interested in joining.}
 {169}{}{Entendo. Bem, até mais.}
 {170}{}{Him: Well, it's very simple. We just give you this informational holodisc. Her: ... you sit through a short movie... Him:... and then you go talk to AHS-7! Her: Easy, isn't it?}
-{171}{}{Vamos fazer isso.}
+{171}{}{Vamos lá.}
 {172}{}{I don't think I'm ready for this.}
 {173}{}{Her: That's your prerogative. Him: And I hope you'll understand that you can't be allowed to wander our base. Her: So you had better leave - the guards will probably shoot at you if you stick around.}
 {174}{}{Gee, thanks. Invite me in to recruit me and shoot me if I don't sign up? Nice gig.}

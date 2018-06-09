@@ -40,7 +40,7 @@
 {139}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. Restructuring of impaired limbs requires 24 hours.}
 {140}{}{Ok.}
 {141}{}{Não.}
-{142}{}{Vamos fazer isso.}
+{142}{}{Vamos lá.}
 {143}{}{Talvez mais tarde.}
 {144}{}{This function is not available at this time. My library is incomplete. I require a memory module detailing the appropriate medical procedures. Do you have such a module?}
 {145}{}{Me have module. You take.}

@@ -107,7 +107,7 @@
 {221}{}{Umm... esqueça. Tenho outras perguntas.}
 {222}{}{Nenhum, na verdade. Tchau.}
 {223}{}{Excelente. Eu vou precisar de um conjunto de armadura de combate e, oh, $5500. Você vai precisar de dois dias e a capacidade de não pegar no crostas.}
-{224}{}{Vamos fazer isso.}
+{224}{}{Vamos lá.}
 {225}{}{Esqueça. Até mais.}
 {226}{}{A atualização dérmica, hein? Isso vai custar-lhe vários dias de sua vida, $ 33000, armadura de combate e um novo conjunto de cicatrizes que você nunca perderá enquanto viver.}
 {227}{}{Então? Posso pagar TUDO isso.}

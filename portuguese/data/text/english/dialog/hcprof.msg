@@ -26,7 +26,7 @@
 {125}{}{Hmm. None of them. Forget it.}
 {126}{}{Very well. I'll be matching you against the scorpion. You will both attempt to unlock those boxes. Good luck.}
 {127}{}{Vai!}
-{128}{}{Vamos fazer isso.}
+{128}{}{Vamos lá.}
 {129}{}{Right. You'll stand behind this rail, and you and the scorpion will tell me the letters you read, from top to bottom, left to right.}
 {130}{}{Vai!}
 {131}{}{Got it. Let's go.}

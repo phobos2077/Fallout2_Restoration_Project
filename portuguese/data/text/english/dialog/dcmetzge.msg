@@ -24,8 +24,8 @@
 {230}{}{Ah, e 'quem' seria essa pessoa? Espero que você não esteja planejando vê-la novamente...}
 {231}{}{Você não tem ninguém em quem estou interessado. Só estou interessado 
 em pessoas - quero dizer, as que são normais.}
-{232}{}{Você está louco, o que você acha que sou, uma loja ou algo assim? Se você pegar
-  um escravo que você gostaria de vender, avise-me. Se você deseja vender outra coisa, vá até uma merda de loja.}
+{232}{}{Seu retardado, o que você acha que sou, a porra de uma loja ou algo assim? Se você
+ obtiver um escravo que você gostaria de vender, me avise. Se você quer vender outra coisa, vá até a porra de uma loja.}
 {233}{}{Miria}
 {234}{}{Davin}
 {235}{}{Vic}
@@ -39,53 +39,53 @@ em pessoas - quero dizer, as que são normais.}
 {243}{}{Kitsune}
 {245}{}{Vá em frente.}
 {246}{}{Sim?}
-{247}{}{Eu não sou seu maldito servo, então apresse-se.}
+{247}{}{Eu não sou seu maldito servo, então anda logo.}
 {248}{}{O que é? Eu não tenho o dia todo.}
-{249}{}{Atirar.}
+{249}{}{Manda.}
 {250}{}{Talvez.}
 {255}{}{Eu tenho alguém que eu gostaria de vender.}
 {256}{}{Sobre Vic...}
 {257}{}{Procuro um comerciante.}
-{258}{}{Lara queria que eu pedisse permissão para lutar contra Tyler.}
-{259}{}{Posso me juntar à guild?}
+{258}{}{Lara queria que eu pedisse sua permissão para lutar contra Tyler.}
+{259}{}{Posso me juntar à guilda?}
 {260}{}{O que você pode me dizer sobre sua guilda?}
 {261}{}{Eu gostaria de seguir uma corrida de escravos.}
 {262}{}{Deixa pra lá. Tchau.}
 {263}{}{ quer mal.}
 {264}{}{Nd.}
-{265}{}{Eu estava olhando os escravos que você tem lá, mas você vê, eu tenho muito, uh ... *gosto seletivo* e nenhum 
-  deles é bem o que eu estou procurando. Esses são todos os escravos que você tem para oferecer?}
-{270}{}{Você acha que pode cortá-lo? Eu não aceito ninguém ... Que diabos. E se
-  você foda-se, eu vou te vender. Você terá que se tatuar na testa
-  identificando você como um escravista para todos. É permanente, então não há segundas intenções.}
-{271}{}{Então, a nossa pequena e delicada flor de menina retorna... Você mudou de ideia então?
-  Indo começar essa tatuagem depois de tudo?}
-{272}{}{Sim, você pode fazer ... Você não precisa muito no caminho dos cérebros para correr.
-  Se você foder, eu só vou te vender. Se você acha que pode cortá-los, você terá
-  que se tatuar em sua testa identificando você a todos como escravista.}
-{273}{}{Vamos fazer isso.}
-{274}{}{Eu tenho que pensar sobre isso. Eu vou voltar para você.}
+{265}{}{Eu estava dando uma olhada nos escravos que você tem lá atrás, mas sabe, eu tenho meio que um, hã... gosto *seletivo*, e nenhum 
+  deles é bem o que eu estou procurando. Esses são todos os escravos que você tem para vender?}
+{270}{}{Você acha que da conta? Eu não aceito qualquer um... Que diabos. Se
+  você fizer merda, eu te vendo. Você terá que se tatuar na testa
+  identificando-se como um escravista para todos. É permanente, então pense bem.}
+{271}{}{Então, a nossa pequena e delicada florzinha retornou... E então, mudou de ideia?
+  Vai fazer essa tatoo afinal de contas?}
+{272}{}{É, você vai ser útil... Você não precisa ser nenhum intelectual para ir em uma caçada.
+  Se você fizer merda, eu vou te vender. Se você acha que pode dar conta, você terá
+  que se tatuar na testa, identificando-se para todos como escravista.}
+{273}{}{Vamos lá.}
+{274}{}{Eu tenho que pensar sobre isso. Eu volto depois.}
 {275}{}{Talvez não. Tchau.}
-{276}{}{Uya! [nod]}
+{276}{}{Uya! [acena com a cabeça]}
 {277}{}{Não não não não não!}
-{285}{}{O que você pensava? Esta é uma aliança de escravistas. Eu compro e vendo escravos.}
-{286}{}{De onde você tira os escravos?}
+{285}{}{O que caralhos você acha? Esta é uma guilda de escravistas. Eu compro e vendo escravos.}
+{286}{}{Aonde você consegue os escravos?}
 {287}{}{Eu gostaria de participar.}
 {288}{}{Outra pergunta, por favor.}
 {289}{}{Ah, tudo bem. Tchau.}
-{300}{}{Oh, aqui e ali. Principalmente, nós coletamos primitivos e nômades, quando corremos por entre eles.}
-{301}{}{Parece divertido. Como posso entrar nisso?}
+{300}{}{Ah, aqui e ali. Nós coletamos principalmente primitivos e nômades quando nós nos deparamos com eles. }
+{301}{}{Parece divertido. Como eu posso participar disso?}
 {302}{}{Eu tenho outra pergunta.}
 {303}{}{Ah, tudo bem. Tchau.}
-{310}{}{O que você sabe, você nem sequer chorou. Estou tão orgulhoso de você ... na verdade, essa tatuagem
-  parece muito boa em você. Apenas dê um grito quando estiver pronto para o sua primeira corrida de escravos.}
+{310}{}{Quem diria, você nem sequer chorou. Estou tão orgulhoso de você ... na verdade, essa tatoo
+ ficou bem maneira em você. É só me avisar quando estiver pronto para o sua primeira caçada de escravos.}
 {311}{}{Obrigado. Tchau.}
-{312}{}{Eu estou pronto agora.}
+{312}{}{Eu estou preparado agora mesmo.}
 {313}{}{Eu matar AGORA!}
-{314}{}{Okey-Dokey.}
-{320}{}{Dois dos meus homens vão te aproximar dos seus objetivos. Seu salário será baseado
-  no número dos escravos que você retorna, mas observe as costas do outro. Se alguém
-  é morto, seu salário será severamente cortado.}
+{314}{}{Falou.}
+{320}{}{Dois dos meus caras vão te levar até os seus alvos. Seu pagamento será baseado
+  no número dos escravos que vocês trazerem, porém cuidem uns dos outros. Se alguém
+  for morto, seu pagamento será rigorosamente reduzido.}
 {321}{}{Droga, estão todos cultivados. Tenho que esperar que alguns primitivos voltem para a
   área. Talvez devêssemos começar a criá-los.}
 {322}{}{Desculpe, você não está trabalhando. Muitas perdas e isso é um negócio. Eu preciso

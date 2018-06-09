@@ -171,7 +171,7 @@
 {504}{}{(The midget smirks.) Eye of the Tiger, huh? "Aaaydrian," "Aaaaydrian…" Heh-heh. I like it…lot of weight associated with it.
  Shall we head to the ring?}
 {505}{}{(The midget nods.) }
-{506}{}{Vamos fazer isso.}
+{506}{}{Vamos lá.}
 {510}{}{No dice. Fifty-fifty or NOTHING. If you don't like that, walk.}
 {511}{}{Fine. Though I wasn't aware vampires came in your size.}
 {512}{}{Okay. 50/50. What's next?}
