@@ -86,43 +86,43 @@ em pessoas - quero dizer, as que são normais.}
 {320}{}{Dois dos meus caras vão te levar até os seus alvos. Seu pagamento será baseado
   no número dos escravos que vocês trazerem, porém cuidem uns dos outros. Se alguém
   for morto, seu pagamento será rigorosamente reduzido.}
-{321}{}{Droga, estão todos cultivados. Tenho que esperar que alguns primitivos voltem para a
-  área. Talvez devêssemos começar a criá-los.}
-{322}{}{Desculpe, você não está trabalhando. Muitas perdas e isso é um negócio. Eu preciso
-  para ganhar dinheiro, não perder.}
-{323}{}{Tudo bem. Eles estão prontos.}
-{324}{}{Bom, você pode sair agora.}
+{321}{}{Droga, já capturamos todos. Temos que esperar que alguns primitivos se mudem para a
+ região. Talvez devêssemos começar a procriá-los.}
+{322}{}{Foi mal, você não está dando conta. Tivemos muitas perdas e isso é um negócio. Eu preciso
+  ganhar dinheiro, e não perder.}
+{323}{}{Tudo certo. Eles estão prontos.}
+{324}{}{Ótimo, você pode se retirar agora.}
 {325}{}{Mexam-se.}
-{326}{}{Boa. Veja-me quando estiver pronto.}
+{326}{}{Ótimo. Volte quando tiver terminado.}
 {327}{}{Tudo bem.}
 {328}{}{Uh.}
-{340}{}{Basta matar todos os hostis. Se eles atacarem, mata-os. Eu não
-  quero lidar com eles mais, muito grande de um maldito problema. Depois de terminar,
-  Os outros escravistas irão cercar e marcar o resto.}
+{340}{}{Basta matar todos os hostis. Se eles te atacarem, mate-os. Eu não
+  quero mais ter que lidar com eles, muita dor de cabeça. Logo que você terminar,
+  Os outros escravistas irão cercar e marcar o resto deles.}
 {341}{}{Tudo bem.}
 {342}{}{Oh.}
-{350}{}{Uma vez que eles começam a marcar os escravos, você pode voltar se quiser. Leva
-  treinamento especial, então não tente subjugar os outros você mesmo. Você pode fazer o que for
-  apenas contanto que você não danifique a mercadoria.}
+{350}{}{Uma vez que eles começarem a marcar os escravos, você pode voltar se quiser. É preciso
+ um treinamento especial, então não tente subjugar os outros você mesma. Você pode fazer o que
+ quiser, contanto que você não danifique a mercadoria.}
 {351}{}{Tudo certo.}
 {352}{}{Uh huh.}
-{360}{}{Ah, sim. Ela é muito agradável. Eu vou dar-lhe $}
-{361}{}{Ele está bem. Eu provavelmente poderia tirá-lo de suas mãos, oh, digamos $}
-{362}{}{Você é idiota. O que diabos faz você pensar que eu quero aquele idiota de volta? Levou
-  Ele para sempre para consertar um maldito rádio! Um rádio! Você está preso com ele. Eu não quero ele
-  quebrando qualquer coisa por aqui.}
-{363}{}{Eu não sei, este é muito magro ... mas inteligente? Isso pode valer alguma coisa. Vou dar-lhe $}
-{364}{}{Este parece ser realmente capaz de lutar. Hmm ... $}
-{365}{}{Outro primitivo. Este é um show assustador. Ainda assim, ele parece forte e esse olhar pode extrair algo extra. $}
+{360}{}{Ah, sim. Ela é muito legal. Eu vou dar-lhe $}
+{361}{}{Ele é ok. Eu provavelmente poderia tirá-lo de suas mãos, oh, digamos $}
+{362}{}{Sua idiota de merda. O que diabos faz você pensar que eu quero aquele retardado de volta? Levou
+  uma eternidade para ele consertar a porra de um rádio! Um rádio! Você está presa com ele. Eu não quero ele
+  quebrando mais nada por aqui.}
+{363}{}{Sei não, este é bem raquítico... mas é inteligente? Isso deve valer de alguma coisa. Vou dar-lhe $}
+{364}{}{Este parece ser realmente capaz de lutar. Hmm... $}
+{365}{}{Outro primitivo. Este é um show de bizarrices. Ainda assim, ele parece ser forte e isso pode render algo extra. $}
 {366}{}{Que tal outra pessoa?}
-{367}{}{Bem, deixe-me fazer outra pergunta em seguida.}
+{367}{}{Bem, deixe-me fazer outra pergunta então.}
 {368}{}{Tudo bem.}
 {369}{}{Bem.}
 {370}{}{Tudo bem.}
 {371}{}{Não vale a pena.}
 {372}{}{Não.}
-{380}{}{Tudo bem, rapazes, ponham-no as canetas.}
-{381}{}{Tudo bem, rapazes, ponham-na as canetas.}
+{380}{}{Certo rapazes, podem prender esse aí.}
+{381}{}{Certo rapazes, podem levar.}
 {382}{}{Certo, chefe.}
 {390}{}{Bem, não desperdice meu tempo. Se você conseguir alguém que você está
   Olhando para se livrar, venha me ver.}

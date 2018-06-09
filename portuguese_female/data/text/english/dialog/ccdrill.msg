@@ -32,13 +32,13 @@
 {131}{sgnt11}{Esses bichos de troca de papel! Como diabos eles esperam que eu execute esta unidade se eles continuarem me falando em suprimentos! Vá rápido até o arsenal e resolva o seu problema, então informe-me. Dispensado!}
 {132}{}{Tudo bem.}
 {133}{}{Sim, Sargento!}
-{134}{sgnt12}{Se eu gostar de você, você pode me chamar de Sarge. Mas adivinhe o quê? Eu não gosto de você! Você entende?}
+{134}{sgnt12}{Se eu gosto de você, você pode me chamar de Sarg. Mas adivinhe? Eu não gosto de você! Você entendeu?}
 {135}{}{Sim, Sargento!}
-{136}{sgnt13}{Excelente! Você está em uniforme agora, então vou lhe dar uma oportunidade rara. Vamos começar de novo como se nunca conhecesse o seu rabo. Gostaria disso, soldado?}
-{137}{}{Sim, uh ... Sargento!}
-{138}{}{Não! Eu não me importo mais. Eu chutar sua bunda.}
+{136}{sgnt13}{Excelente! Você está de uniforme agora, então vou lhe dar uma oportunidade rara. Vamos começar de novo como se eu nunca tivesse conhecido o seu rabo imprestável. Você gostaria disso, soldado?}
+{137}{}{Sim, hã... Sargento!}
+{138}{}{Não! Eu não se importa mais. Eu chutar sua bunda.}
 {139}{}{Sim, Sargento!}
-{140}{}{Eu não me importo muito agora que eu estou vestindo essa armadura agradável. Eu vou chutar sua bunda.}
+{140}{}{Eu não dou a mínima agora que estou vestindo essa armadura maneira. Eu vou chutar essa sua bunda.}
 {141}{sgnt14a}{Soldado, você ainda está fora de uniforme. Eu dei uma ordem direta para informar sobre suprimentos e resolver seu problema. Agora, saia da minha vista e não volte até você se parecer com um soldado!}
 {142}{sgnt14b}{Esta é a segunda vez que você veio a mim fora do uniforme, soldado. Não haverá uma terceira!}
 {143}{}{Tudo bem! Tudo bem! - Me ir.}
