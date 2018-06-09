@@ -7,37 +7,37 @@
 {106}{}{Ha ha! Olhe os divertidos olhos redondos!}
 {107}{}{Você parece um Hubologista.}
 {108}{}{Nos deixe em paz.}
-{109}{}{Long live the Dragon!}
-{110}{}{Down with Lo Pan!}
-{111}{}{The Dragon is a hero.}
-{112}{}{Look out for Lo Pan. He's trouble.}
+{109}{}{Vida longa ao Dragão!}
+{110}{}{Abaixo Lo Pan!}
+{111}{}{O Dragão é um herói.}
+{112}{}{Tome cuidado com Lo Pan. Ele é encrenca.}
 {113}{}{Esses punks são sempre tão altos.}
 {114}{}{Trabalho, trabalho, trabalho. Arroz, arroz, arroz. ::suspiro::}
 {115}{}{Não existe mais na vida do que isso?}
 {116}{}{Nós somos mais espertos do que você pensa.}
 {117}{}{Olha! Um lao wai!}
-{118}{}{I don't think I like you.}
-{119}{}{You scare me.}
-{120}{}{Don't hurt me, please.}
-{121}{}{I'll bet Lo Pan would like you.}
-{122}{}{Please don't cause trouble.}
-{123}{}{I like life. I won't do anything to lose it.}
-{124}{}{The wastes are getting scarier.}
-{125}{}{Sir... yes, sir... goodbye, sir.}
-{126}{}{Ha ha! That bastard Lo Pan is dead!}
-{127}{}{You've helped us!}
-{128}{}{Lo Pan is dead!}
-{129}{}{Now for the Hubologists!}
-{130}{}{Look at the funny round-eyes!}
+{118}{}{Eu não acho que gosto de você.}
+{119}{}{Você me da medo.}
+{120}{}{Não me machuque, por favor.}
+{121}{}{Eu aposto que Lo Pan iria gostar de você.}
+{122}{}{Por favor não cause problemas.}
+{123}{}{Eu aprecio a vida. Eu é que não vou me arriscaria em perdê-la atoa.}
+{124}{}{Essas terras de ninguém estão ficando cada vez mais assustadoras.}
+{125}{}{Senhor... sim, senhor... tchau, senhor.}
+{126}{}{Ha ha! Aquele bastardo do Lo Pan está morto!}
+{127}{}{Você nos salvou!}
+{128}{}{Lo Pan está morto!}
+{129}{}{Agora para os Hubologistas!}
+{130}{}{Olhe para esse olhos-redondos engraçado!}
 {131}{}{Você parece um Hubologista.}
 {132}{}{Nos deixe em paz.}
-{133}{}{Long live the Dragon!}
-{134}{}{Long live the Emperor!}
+{133}{}{Vida longa ao Dragão!}
+{134}{}{Vida longa ao Imperador!}
 {135}{}{Trabalho, trabalho, trabalho. Arroz, arroz, arroz. ::suspiro::}
 {136}{}{Não existe mais na vida do que isso?}
-{137}{}{The Dragon... is dead...}
-{138}{}{Oh no! The Dragon is dead!}
-{139}{}{Life has no meaning.}
+{137}{}{O Dragão... está morto...}
+{138}{}{Oh não! O Dragão está morto!}
+{139}{}{A vida não tem significado.}
 {140}{}{We shall survive... barely.}
 {141}{}{Who will be our hero now?}
 {142}{}{And with the Dragon go our dreams.}

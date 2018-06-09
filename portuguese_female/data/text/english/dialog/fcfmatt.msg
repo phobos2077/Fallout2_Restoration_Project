@@ -113,10 +113,10 @@
 {212}{}{Nós sabemos de muitas coisas.}
 {213}{}{Após concluir a missão com sucesso eu irei preparar o petroleiro para você partir, e lhe darei acesso a nossas instalações por aqui. Enquanto isso, seria melhor se você começasse imediatamente. Obrigado,}
 {214}{}{We'come.}
-{215}{}{Excellent work! Let me have the plans, and I'll make a copy of them. As promised, I'll ensure that the tanker is ready for you to take out to the oil rig - just go to the computer on the upper level and hit the Go switch. I'll also give you full access to our facilities. Thank you.}
+{215}{}{Excelente trabalho! Me empreste os manuais para que eu faça uma cópia deles. E como prometido, eu assegurarei que o petroleiro esteja preparado para navegar até a plataforma de petróleo - é só ir até o computador no nível superior e apertar o botão de ligar. Também lhe permito acesso total às nossas instalações. Obrigado.}
 {216}{}{You we'come!}
-{217}{}{Just head on in through the door there, if you like, or go on up to the tanker. It's ready to go. Good luck!}
-{218}{}{So I am prepared to make you this offer. Perform this mission for me and I will prepare the tanker for you on your journey to the Enclave. What do you say?}
+{217}{}{Apenas passe por aquela porta ali, se quiser, ou suba até o petroleiro. Ele está pronto para zarpar. Boa sorte!}
+{218}{}{Então, estou disposto a te fazer essa oferta. Execute esta missão para mim e eu irei preparar o petroleiro para você em sua jornada para o Enclave. O que me diz?}
 {219}{}{Eu pensar sobre isso.}
 {220}{}{Nunca. Eu ir em bora.}
 {221}{}{Que diabos. Eu aceitar.}

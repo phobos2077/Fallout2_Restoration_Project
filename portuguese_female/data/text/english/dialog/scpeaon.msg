@@ -12,7 +12,7 @@
 {111}{}{You're some kind of sick criminal. I hope the guards get you.}
 {112}{}{Just go away, okay?}
 {113}{}{Hey, you shouldn't kill anyone - especially kids.}
-{114}{}{I don't think I like you.}
+{114}{}{Eu não acho que gosto de você.}
 {115}{}{Hey, just let me know when you are going to go postal.}
 {116}{}{Eu tenho que ir.}
 {117}{}{Who the hell do you think you are - coming into this town?}
