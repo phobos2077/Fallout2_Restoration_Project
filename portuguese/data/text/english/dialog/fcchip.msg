@@ -61,7 +61,7 @@
 {160}{}{Sim, e ele diz que vai colocá-lo em você de graça.}
 {161}{}{Sim, e ele está me cobrando $ 1.000.}
 {162}{}{}
-{163}{}{Uau. Você tem algumas conexões sérias. Volte em um dia e vou ver que ajuda eu posso lhe dar.}
+{163}{}{Uau. Você tem alguns contatos sérios. Volte em um dia e vou ver como vou poder te ajudar.}
 {164}{}{Você tem isso.}
 {165}{}{Você pode me cobrir?}
 {166}{}{Sim, eu suponho.}

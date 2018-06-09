@@ -1,29 +1,29 @@
-{100}{}{Você vê um homem de aparência médiana.}
+{100}{}{Você vê um homem com jeito de malvado.}
 {101}{}{Você vê Metzger, o mestre escravista.}
-{150}{}{Metzger é o chefe da Slaver's Guild.}
+{150}{}{Metzger é o chefe da Guilda dos Escravistas.}
 {200}{}{Você vai pagar por isso.}
-{210}{}{Que merda você quer? Esta é a Guilda dos Escravistas, não é casa 
-segura para você, idiota cabeça de jato.}
-{211}{}{Que diabos você quer, sua cadela feia? Esta é a Slaver's
-  Guild, não é uma merda de puteiro.}
-{212}{}{Que diabos você quer, puta? Esta é a Guilda dos Escravistas, não alguma
-  porra de bordel.}
+{210}{}{Que porra você quer? Esta é a Guilda dos Escravistas, não algum
+ esconderijo pra merda de drogados.}
+{211}{}{Que diabos você quer, sua vadia feia? Esta é a Guilda
+  dos Escravistas, e não a porra de um puteiro.}
+{212}{}{Que diabos você quer, vadia? Esta é a Guilda dos Escravistas, não a
+  porra de um puteiro.}
 {213}{}{Você está começando a me irritar. Que diabos você quer agora?}
-{214}{}{Agora, o que, porra?}
+{214}{}{O que é agora, porra?}
 {215}{}{O que?}
-{216}{}{Oh, é melhor fazer isso rápido.}
-{217}{}{Você está aqui para trabalhar por uma maldita mudança?}
-{218}{}{Tô começando a me acostumar com essa sua cara feia. Então... O que você veio fazer aqui?}
-{219}{}{Eu pareço seu maldito pai ou algo assim? Com certeza, espero que não. Agora cuspa
-  para fora, o que você quer?}
-{220}{}{Olhem quem está aqui. Você acha que é especial ou algo assim? Fale ou trate 
-de cair fora.}
+{216}{}{Oh, é melhor se apressar.}
+{217}{}{Você tá aqui para trabalhar pra variar, porra?}
+{218}{}{Tô começando a me acostumar com essa sua cara feia. Então... Tá fazendo o que aqui?}
+{219}{}{Eu pareço com o merda do seu pai ou algo assim? Eu com certeza espero que não.
+  Agora desembucha, o que você quer?}
+{220}{}{Olhem só quem está aqui. Você acha que é especial ou algo assim? Fale logo ou
+ dê o fora daqui.}
 {221}{}{O que você quer agora, escravista?}
 {222}{}{Você só vai ficar aí parado ou vai dizer algo?}
-{223}{}{Fala. Eu não tenho o dia todo para essa porcaria.}
-{230}{}{Ah, e 'quem' seria esse? Espero que você não planeje ver essa pessoa novamente ...}
-{231}{}{Você não tem ninguém em quem estou interessado. Só estou interessado em pessoas -
-  normais, isso é.}
+{223}{}{Desembucha. Eu não tenho o dia todo para essa merda.}
+{230}{}{Ah, e 'quem' seria essa pessoa? Espero que você não esteja planejando vê-la novamente...}
+{231}{}{Você não tem ninguém em quem estou interessado. Só estou interessado 
+em pessoas - quero dizer, as que são normais.}
 {232}{}{Você está louco, o que você acha que sou, uma loja ou algo assim? Se você pegar
   um escravo que você gostaria de vender, avise-me. Se você deseja vender outra coisa, vá até uma merda de loja.}
 {233}{}{Miria}

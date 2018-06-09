@@ -1,6 +1,6 @@
 {100}{}{Você vê um jovem monge com óculos.}
 {101}{}{Você vê o Irmão Jason.}
-{102}{}{Este monge parece ser da ninhada.}
+{102}{}{Este monge parece estar meditando.}
 {200}{}{[O jovem monge rapidamente coloca um baralho de cartas "Trágicas" à medida que você se aproxima.] O que você quer?}
 {201}{}{Nada de você. Tchau.}
 {202}{}{Eu quero saber por que você apenas escondeu um baralho de cartas de mim.}

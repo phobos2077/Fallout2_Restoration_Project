@@ -20,7 +20,7 @@
 {116}{}{Nada por agora, obrigado.}
 {117}{}{O que você quer saber?}
 {118}{}{Você trabalha para Darion?}
-{119}{}{O que você faz sobre incursores?}
+{119}{}{O que você faz sobre assaltantes?}
 {120}{}{Onde é a pota do vault?}
 {121}{}{Qualquer outra coisa que vá aqui?}
 {122}{}{Me deixe agora.}

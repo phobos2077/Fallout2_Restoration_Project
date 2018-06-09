@@ -158,8 +158,8 @@ depois de sua viagem através dos resíduos.}
 {491}{}{Obrigado!}
 {500}{}{Não há problema. Eu estava apenas mantendo-los para você. Bem, é melhor eu voltar ao trabalho.}
 {501}{}{Obrigado, tchau.}
-{510}{}{Você não ouviu! Ele está morto! Oh, eu sei que não deveria estar feliz, mas ele era um
-  homem maligno.}
+{510}{}{Você não ouviu falar! Ele está morto! Ah, eu sei que não deveria estar feliz, mas ele era um
+ homem muito mau.}
 {511}{}{Ele certamente fez uma boa luta.}
 {512}{}{Eu tenho uma pergunta.}
 {513}{}{Sim, ele foi. Adeus.}

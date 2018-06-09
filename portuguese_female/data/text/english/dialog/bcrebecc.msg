@@ -56,7 +56,7 @@
 {147}{}{Quem está no comando aqui?}
 {148}{}{Estou procurando o Vault 13. Você sabe alguma coisa sobre isso?}
 {149}{}{Conte-me sobre o cofre.}
-{150}{}{Então me diga sobre Darion.}
+{150}{}{Então, conte-me sobre Darion.}
 {151}{}{Obrigado Rebecca. Vamos falar sobre o seu problema agora.}
 {152}{}{Nós chamamos esse lugar do "Squat" porque foi formado pelos sem-teto de muitas cidades. Não é
   Muito, mas é tudo o que temos. Para o oeste é uma cidade chamada NCR. Eles sabem sobre nós faz algun

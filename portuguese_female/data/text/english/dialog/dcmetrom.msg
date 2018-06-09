@@ -5,7 +5,7 @@
 {200}{}{Retire-se da porta.}
 {201}{}{Que porra você acha que está fazendo?}
 {202}{}{Metzger terá sua cabeça. Devolva o homem. }
-{203}{}{Ei, cadela, ficar longe da porta.}
+{203}{}{Ei, vadia, sai de perto dessa porta.}
 {204}{}{Nenhuma cadela vai no quarto de Metzger. Recuar.}
 {205}{}{Volte, puta. escravista ou não, o quarto de Metzger está fora dos limites.}
 {250}{}{Fale com Metzger, não comigo, amigo.}
@@ -22,4 +22,4 @@
 {261}{}{Você é a primeira mulher que Metzger já contratou.}
 {262}{}{Metzger deve ter um ponto fraco para você.}
 {263}{}{Você está sozinha mocinha.}
-{264}{}{Uma mulher escravista ... Nunca pensei em ver isso.}
+{264}{}{Uma mulher escravista ... Nunca pensei que veria isso.}

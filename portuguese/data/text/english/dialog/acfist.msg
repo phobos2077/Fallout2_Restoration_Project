@@ -4,7 +4,7 @@
 {103}{}{Muito bem.}
 {104}{}{Não é tão bom.}
 {105}{}{Ugh?!}
-{106}{}{Devo voltar a ela.}
+{106}{}{Eu devo voltar à ela.}
 {107}{}{Talvez você precisa de um guerreiro.}
 {108}{}{Com certeza. O que você pode me ajudar?}
 {109}{}{Não. Eu estou fazendo muito bem.}

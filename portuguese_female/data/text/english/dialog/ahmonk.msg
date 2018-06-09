@@ -1,5 +1,5 @@
 {100}{}{Você vê o Abade, o líder espiritual da Abadia.}
-{101}{}{Há algo sobre este monge, que o leva a acreditar que ele é bastante importante.}
+{101}{}{Há algo sobre este monge que te leva a acreditar que ele é bem importante.}
 {200}{}{Bem-vindo viajante.}
 {201}{}{Paz para você.}
 {202}{}{Nós somos os guardiões do conhecimento.}

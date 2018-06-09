@@ -47,7 +47,7 @@
 {155}{}{Glorificada seja a Grande Roda!}
 {156}{}{Nós estamos indo para Quetzel!}
 {157}{}{Estou ansioso pra voltar pra nossa casa nas estrelas.}
-{158}{}{Já está quase na hora do meu alinhamento.}
+{158}{}{Estou prestes a ter um alinhamento.}
 {159}{}{Estou esperando ouvir AHS-9 falar de novo!}
 {160}{}{Eu espero que meus neurodynes estejam bem.}
 {161}{}{Quero ser um alto Aligned Hub Seeker!}

@@ -4,7 +4,7 @@
 {103}{}{Olá,}
 {104}{}{. O que eu posso fazer por você?}
 {105}{}{Você responder perguntas?}
-{106}{}{Nada. Mim volta mais tarde.}
+{106}{}{Nada. Eu voltar mais tarde.}
 {107}{}{Você pode começar respondendo algumas perguntas.}
 {108}{}{Nada por enquanto. Eu volto mais tarde.}
 {109}{}{Eu acho que você merece ter suas perguntas respondidas.}

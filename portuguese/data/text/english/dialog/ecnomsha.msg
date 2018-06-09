@@ -32,7 +32,7 @@
 {130}{}{[Você vê como ele esmaga cuidadosamente e combina as duas plantas e, em seguida, entrega você precisamente
   doses medidas do pó.]}
 {131}{}{Adeus.}
-{132}{}{Você parece ser curto em dinheiro. Retorne mais tarde quando sua bolsa estiver mais gorda.}
+{132}{}{Você parece estar sem grana. Retorne mais tarde quando sua carteira estiver mais gorda.}
 {133}{}{[FIM]}
 {134}{}{Não tenho tempo para tantas bobagens. Sair!}
 {135}{}{[FIM]}
