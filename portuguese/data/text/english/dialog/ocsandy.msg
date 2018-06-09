@@ -46,5 +46,5 @@
 {136}{}{Yeah. Mommy takes care of me and Valdis wouldn't let anyone hurt me. I'm safe here.}
 {137}{}{Ok. Me go now.}
 {138}{}{Good; I'll be leaving then.}
-{139}{}{Olá.}
+{139}{}{Oi.}
 {140}{}{Go away! I don't like you!}

@@ -89,7 +89,7 @@ Você pode obtê-lo após a luta. Deixe que a luta comece! Boa sorte para você }
 {300}{}{E para você também, Escolhido. Que os espíritos o guiem na sua missão.}
 {301}{}{Obrigado, Cameron.}
 {302}{}{Escolhido, não pude deixar de notar que você não possui habilidades de combate fortes. Por minha experiência você nem sempre pode confiar em sua inteligência ou palavras para proteção. Com sua permissão, eu vou ensinar-lhe algumas coisas que eu acho que você vai achar mais útil.}
-{303}{}{Sim, você ensina.}
+{303}{}{Sim, você ensinar.}
 {304}{}{Não, eu não preciso.}
 {305}{}{Sim, por favor me ensine tudo o que você pode.}
 {306}{}{Obrigado, mas acho que posso lidar comigo mesmo.}

@@ -96,7 +96,7 @@
 {520}{}{Eu sinto que estou derretendo aqui. Deve ser envenenamento por radiação.}
 {530}{}{Como você espera que eu realize o meu melhor com esse membro quebrado?}
 {540}{}{Quem viu as luzes? Eu acho que tem algo errado com os meus olhos.}
-{600}{}{Alguns podem dizer que eu sou um cara muito raso, mas um cara superficial com um grande bumbum.}
+{600}{}{Alguns dizem que eu sou um cara bem superficial, mas um cara superficial com um belo traseiro.}
 {601}{}{No exército, sempre foi: "Gato faz isso. Gato faz aquilo". O que eu sou um cachorro?}
 {602}{}{[cantando] Porque você me faz amarrar a língua, língua amarrada ... [cantando]}
 {700}{}{SENHORAS! Senhoras, uma de cada VEZ, por favor!}

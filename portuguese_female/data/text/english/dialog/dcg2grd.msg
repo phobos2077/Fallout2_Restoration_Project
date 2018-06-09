@@ -36,9 +36,9 @@
 {271}{}{Você deve estar aqui para ver Lara.}
 {272}{}{Como vai?}
 {273}{}{Lara é a pessoa que você deve estar falando.}
-{274}{}{Olá.}
+{274}{}{Oi.}
 {275}{}{Você está aqui para ver Lara?}
-{300}{}{Olá.}
+{300}{}{Oi.}
 {301}{}{Como vai?}
 {302}{}{Espero que as coisas estejam indo bem.}
 {303}{}{Então você pode ser capaz de nos ajudar?}

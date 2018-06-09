@@ -11,11 +11,13 @@
 {179}{}{ pontos de dano.}
 {180}{}{Você é muito fraco para ultrapassar o bloqueio.}
 {181}{}{ arrombou a fechadura da porta.}
-{182}{}{Estica as costas enquanto tenta abater a fechadura e leva pontos de dano.}
-{183}{}{Pressiona suas costas enquanto tenta abrir o bloqueio e toma dano.}
+{182}{}{ massageia as costas enquanto tenta arrombar a fechadura e leva
+ um ponto de dano.}
+{183}{}{ massageia suas costas enquanto tenta abrir o bloqueio e toma }
 {184}{}{ pontos de dano.}
 {185}{}{ é muito fraco para ultrapassar o bloqueio.}
-{186}{}{Estica as costas enquanto tenta abater a fechadura e leva pontos de dano.}
+{186}{}{ massageia as costas enquanto tenta arrombar a fechadura e leva
+ um ponto de dano.}
 {187}{}{ pressiona suas costas enquanto tenta abrir o bloqueio e toma}
 {188}{}{ pontos de dano.}
 {189}{}{Você bloqueia habilmente o armário.}

@@ -24,21 +24,21 @@
 {250}{}{Ei, senhora, tem alguma mudança de reposição?}
 {251}{}{Hey, mister, tem alguma mudança de reposição?}
 {270}{}{Você vai ficar ai ou entrar?}
-{271}{}{Olá.}
+{271}{}{Oi.}
 {272}{}{Eu estou com fome.}
 {273}{}{Ei você! Tubby's está sempre aberto. Venha conferir.}
 {280}{}{Você está entrando ou o que?}
 {281}{}{Venha conferir o lugar de Flick.}
-{282}{}{Olá.}
+{282}{}{Oi.}
 {283}{}{Ei, você aí! Confira a loja do Flick.}
 {290}{}{Bem, você entra?}
-{291}{}{Olá.}
+{291}{}{Oi.}
 {292}{}{Não faça isso.}
 {293}{}{Hey! Frankie tem grandes coisas.}
 {300}{}{Você deveria entrar, Beck é muito legal.}
 {301}{}{Estou observando.}
 {302}{}{Wow, você está bonita.}
-{303}{}{Olá.}
+{303}{}{Oi.}
 {304}{}{Qual é o seu nome?}
 {305}{}{Becky gostaria de você.}
 {306}{}{Ei! Venha ver a Becky's.}

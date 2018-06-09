@@ -9,4 +9,4 @@
 {200}{}{Você vê uma criança.}
 {201}{}{É um menino.}
 {202}{}{É uma menina.}
-{210}{}{Olá.}
+{210}{}{Oi.}

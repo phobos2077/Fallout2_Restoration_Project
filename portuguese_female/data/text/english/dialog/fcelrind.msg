@@ -9,8 +9,7 @@
 {108}{}{Ahh! Você está mexendo com minhas neurodynes!}
 {109}{}{Vá embora, infiél!}
 {110}{}{Não fale comigo - Sou uma pessoa ocupada.}
-{111}{}{
-Ei! Você está torcendo meus neurônios!}
+{111}{}{Ei! Você está ferrando minhas neurodynes!}
 {112}{}{Talvez eu goste mais de você se você for alinhado.}
 {113}{}{O Pai das Estrelas te amará se você deixa-lo.}
 {114}{}{Você não quer ver Quetzel? Junte-se a nós!}
@@ -28,7 +27,7 @@ Ei! Você está torcendo meus neurônios!}
 {126}{}{Estou ansioso pra voltar pra nossa casa nas estrelas.}
 {127}{}{Por favor, não me atrapalhe; Estou concentrando meus neurodynes.}
 {128}{}{Por favor não desalinhe meus neurodynes.}
-{138}{}{Ah não! O perseguidor!}
+{138}{}{Ah não! A perseguidora!}
 {139}{}{O desiluminado!}
 {140}{}{Saia de perto de mim, carne maligna!}
 {141}{}{Você claramente está com seus neurodynes ruins!}

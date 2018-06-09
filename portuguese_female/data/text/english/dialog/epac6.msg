@@ -17,7 +17,7 @@
 {242}{}{Isso é bastante fácil. Já matei todos eles.}
 {250}{}{Olá novamente. O que eu posso fazer por você? *Suspiro*}
 {251}{}{Você está olhando bastante ruim. O que está errado?}
-{260}{}{Olá de novo. Você reconsiderou ajudando-me? Como mencionei anteriormente, vou fazer valer a pena pra você.}
+{260}{}{Olá de novo. Você reconsiderou se vai me ajudar? Como eu disse antes, farei valer apena.}
 {261}{}{Sim, porque não. Eu não tenho nada melhor para fazer.}
 {262}{}{Não, eu ainda estou muito ocupado no momento. Eu vou voltar outra hora.}
 {270}{}{Você completou a tarefa para mim?}

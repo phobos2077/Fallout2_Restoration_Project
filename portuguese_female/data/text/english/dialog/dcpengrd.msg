@@ -14,7 +14,7 @@
 {232}{}{Espero que você esteja gostando da guilda.}
 {233}{}{Sua tatuagem saiu bem.}
 {234}{}{Você passou na última corrida?}
-{235}{}{Olá.}
+{235}{}{Oi.}
 {236}{}{Você é o meu tipo de mulher.}
 {237}{}{Uma fêmea escravista - tenho de respeitar.}
 {238}{}{Olá.}

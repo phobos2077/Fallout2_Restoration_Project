@@ -8,7 +8,7 @@
 {107}{}{Eu tenho algumas perguntas para você.}
 {108}{}{Tudo bem, eu estou fora para fazer o teste.}
 {109}{}{(suspiro) }
-{110}{}{ Você vai ao templo. Você faz teste. Você não volta aqui até fazer teste. Obedece O Ancião. Vá!}
+{110}{}{Você vai ao templo. Você faz teste. Você não volta aqui até fazer teste. Obedece O Ancião. Vá!}
 {111}{}{Eu vou.}
 {112}{}{Perdoe-me, }
 {113}{}{, mas não posso permitir que você passe. Se você deseja retornar à aldeia, você pode fazê-lo apenas passando o caminho do julgamentos a sua frente.}

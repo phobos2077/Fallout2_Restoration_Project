@@ -192,7 +192,7 @@
 {1710}{}{*Olha para os membros de seu grupo* Procurando boa Kitsune.}
 {1711}{}{Você observe Kitsune, você ouve. Eu não quero que ela esteja com problemas. Ela é minha criação, você sabe.}
 {1712}{}{Me ajudou com o sub, você sabe.}
-{1713}{}{ Ei, onde está a Kitsune? Eu escrevi o seu diálogo, você sabe.}
+{1713}{}{Ei, onde está a Kitsune? Eu escrevi o seu diálogo, sabe.}
 {1714}{}{Me ajudou com o sub, você sabe.}
 {1800}{}{Você vê Minigun Jim.}
 {1801}{}{Ele está usando uma camiseta Anã Vermelha sob sua armadura.}

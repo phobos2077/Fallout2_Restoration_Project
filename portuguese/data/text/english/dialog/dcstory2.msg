@@ -13,7 +13,7 @@
 {112}{}{Desculpe, não consigo pensar em nada mais interessante.}
 {113}{}{Meus cérebros estavam secos.}
 {114}{}{É isso.}
-{115}{}{Olá.}
+{115}{}{Oi.}
 {116}{}{Você já disse olá para a mãe ainda?}
 {117}{}{Ah, oi.}
 {118}{}{Ah, você de novo.}

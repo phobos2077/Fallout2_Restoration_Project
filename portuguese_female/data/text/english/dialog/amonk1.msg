@@ -5,7 +5,7 @@
 {200}{}{Bem-vindo viajante.}
 {201}{}{Paz para você.}
 {202}{}{Nós somos os guardiões do conhecimento.}
-{203}{}{Olá.}
+{203}{}{Oi.}
 {204}{}{Bom tempo.}
 {205}{}{Eu espero que você aproveite a sua estadia aqui.}
 {500}{}{Pare com isso!}

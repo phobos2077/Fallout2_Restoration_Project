@@ -52,7 +52,7 @@
 {157}{}{Sim, também havia outros com vestes sujas e esfarrapadas ... continuavam tagarelando sobre como o Mestre estava morto ...}
 {158}{}{Interessante.}
 {159}{}{Alguns até cometeram suicídio aqui na cidade!}
-{160}{}{Assim?}
+{160}{}{Então?}
 {161}{}{Bem, você não vê. Eles estavam falando sobre o Mestre, aquele que seu antepassado matou.}
 {162}{}{Obrigado pela história.}
 {163}{}{Bem, está ficando tarde. Tchau.}

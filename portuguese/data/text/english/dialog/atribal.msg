@@ -2,7 +2,7 @@
 {101}{}{Você vê um homem forte.}
 {200}{}{Cumprimentos.}
 {201}{}{Bem-vindo à Abadia.}
-{202}{}{Olá.}
+{202}{}{Oi.}
 {203}{}{Olá.}
 {204}{}{Você é da tribo Arroyo?}
 {205}{}{Cumprimentos.}

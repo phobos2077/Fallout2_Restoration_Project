@@ -17,7 +17,7 @@
 {301}{}{Onde eu estava indo novamente?}
 {302}{}{Olá.}
 {303}{}{Desculpa-me.}
-{304}{}{Olá.}
+{304}{}{Oi.}
 {305}{}{Becky é o melhor lugar, e não apenas por causa dos preços.}
 {306}{}{Você está aqui para as bebidas ou as mesas?}
 {307}{}{Tudo o que precisamos agora são alguns trovadores.}

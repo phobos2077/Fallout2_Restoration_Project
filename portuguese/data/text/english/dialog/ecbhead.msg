@@ -55,7 +55,7 @@
 {151}{}{EU JÁ DEI UM PRESENTE A VOCÊ.}
 {152}{}{VÁ EMBORA!}
 {153}{}{Idiota.}
-{154}{}{ QUE?! ROUBOU DE MIM, VOCÊ VAI?!}
+{154}{}{O QUE?! VOCÊ VAI ROUBAR DE MIM?!}
 {155}{}{MORRER!}
 {156}{}{Desintegre o jogador com a animação da morte por plasma.}
 {200}{}{(12 Horas Depois)}

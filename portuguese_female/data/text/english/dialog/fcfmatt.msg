@@ -10,12 +10,12 @@
 {109}{}{Eu acho que você merece ter suas perguntas respondidas.}
 {110}{}{Com o que posso ajudar?}
 {111}{}{Quem é vocês?}
-{112}{}{Why nobody mention you?}
-{113}{}{Why only one person here?}
+{112}{}{Por que ninguém fala de vocês?}
+{113}{}{Por que só uma pessoa aqui?}
 {114}{}{Eu vou agora.}
-{115}{}{Who are you guys?}
-{116}{}{Why is it that nobody around here mentions you?}
-{117}{}{Why do you have only one person here?}
+{115}{}{Quem são vocês?}
+{116}{}{Por que ninguém por aí menciona vocês?}
+{117}{}{Por que vocês só tem uma pessoa aqui?}
 {118}{}{Tenho que ir.}
 {119}{}{Nós somos uma organização paramilitar conhecida como Irmandade do Aço.}
 {120}{}{O que irmandade faz?}
@@ -32,14 +32,14 @@
 {131}{}{Antes de prosseguirmos, por que me diz tudo isso agora?}
 {132}{}{(suspiro) O Enclave desenvolveu tecnologia vertibird, máquinas voadoras que lhes permitem avançar profundamente em territórios próximos. Sem uma tecnologia similar para combater essa ameaça, a Irmandade seria incapaz de impedir uma invasão iniciada pelo Enclave. Precisamos obter a tecnologia vertibird, ou algo para usarmos contra ela.}
 {133}{}{Recentemente, o Enclave estabeleceu uma base ao norte daqui chamada Navarro. Essa base é usada como ponto de parada para a manutenção e reabastecimento dos vertibirds. Acredito que nessa base podem haver manuais de construção dos vertibirds. Tudo que preciso é que alguém se infiltre na base, roube os manuais e os traga para mim.}
-{134}{}{Hum... mim fazer?}
+{134}{}{Hum... eu fazer?}
 {135}{}{Deixe-me adivinhar. Você quer que eu me infiltre nessa base por você.}
 {136}{}{Deixe-me ser sincero com você,}
 {137}{}{. A Irmandade do Aço não é mais tão poderosa quanto já foi. Nós acreditávamos ser a única fonte de tecnologia restante para a humanidade. Seguros destas crenças nós permitimos que nossa ordem se enfraquecesse ao longo dos anos. Agora nós não temos recursos à nossa disposição para lidar com o Enclave. Nós precisamos de sua ajuda.}
 {138}{}{Eu estou preparado para fazer essa oferta. Cumpra essa missão para mim e eu irei lhe conceder acesso ao nosso entreposto aqui. O melhor da tecnologia da Irmandade estará exclusivamente disponível para você. E aí, o que me diz?}
-{139}{}{Mim pensar sobre isso.}
-{140}{}{Nunca. Mim ir em bora.}
-{141}{}{Que diabos. Mim aceita.}
+{139}{}{Eu pensar sobre isso.}
+{140}{}{Nunca. Eu ir em bora.}
+{141}{}{Que diabos. Eu aceitar.}
 {142}{}{Eu vou pensar sobre isso.}
 {143}{}{De jeito nenhum. Vá arranjar outro otário.}
 {144}{}{Que diabos. Eu devo estar doida, mas eu aceito.}
@@ -53,9 +53,9 @@
 {152}{}{Ok, mas eu quer saber mais.}
 {153}{}{Tudo bem. Te vejo por aí.}
 {154}{}{Tudo bem, mas eu gostaria de saber mais alguns detalhes.}
-{155}{}{Excellent. Here is what I need you to do. Go to Navarro, infiltrate the base, and recover the technical plans for the vertibirds. Return the plans to me.}
-{156}{}{Okay. Uh... How you think me can do this? It military base.}
-{157}{}{Okay. Me go now.}
+{155}{}{Ótimo. Eis o que você precisa fazer. Vá até Navarro, infiltre-se na base e adquira os manuais de construção de vertibirds. Entregue os manuais para mim.}
+{156}{}{Ok. Hã... Como acha que eu pode fazer isso? É base militar.}
+{157}{}{Ok. Eu ir agora.}
 {158}{}{All right, but... Just how do think I should go about this? This is a military base after all.}
 {159}{}{Fine. I'll get on it.}
 {160}{}{Upon successful completion of your mission I will grant you access to our facility here. In the meantime it would be best if you got started immediately. Thank you,}
@@ -117,7 +117,7 @@
 {216}{}{You we'come!}
 {217}{}{Just head on in through the door there, if you like, or go on up to the tanker. It's ready to go. Good luck!}
 {218}{}{So I am prepared to make you this offer. Perform this mission for me and I will prepare the tanker for you on your journey to the Enclave. What do you say?}
-{219}{}{Mim pensar sobre isso.}
-{220}{}{Nunca. Mim ir em bora.}
-{221}{}{Que diabos. Mim aceita.}
+{219}{}{Eu pensar sobre isso.}
+{220}{}{Nunca. Eu ir em bora.}
+{221}{}{Que diabos. Eu aceitar.}
 {222}{}{Okay. Go now.}
