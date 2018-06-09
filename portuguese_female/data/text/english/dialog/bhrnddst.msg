@@ -53,7 +53,7 @@
 {354}{}{Você encontra uma caravana combatendo vadios.}
 {355}{}{Você encontra uma caravana em luta com ladrões.}
 {356}{}{Você encontra uma caravana em luta com vadios.}
-{357}{}{Você encontra uma caravana saqueada por ladrões.}
+{357}{}{Você encontra uma caravana sendo atacada por ladrões.}
 {358}{}{Você encontra uma caravana de escravos lutando contra uma caravana.}
 {359}{}{Você encontra vadios em luta com ladrões.}
 {360}{}{Você encontra uma caravana.}
