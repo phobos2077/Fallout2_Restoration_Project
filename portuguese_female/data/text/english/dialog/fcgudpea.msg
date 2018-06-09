@@ -38,31 +38,31 @@
 {137}{}{O Dragão... está morto...}
 {138}{}{Oh não! O Dragão está morto!}
 {139}{}{A vida não tem significado.}
-{140}{}{We shall survive... barely.}
-{141}{}{Who will be our hero now?}
-{142}{}{And with the Dragon go our dreams.}
-{143}{}{There's no point.}
-{144}{}{Let us teach our children to be like the Dragon.}
-{145}{}{We must make new dreams now.}
-{146}{}{The Emperor's mouthpiece! Dead!}
+{140}{}{Nós sobreviveremos... por pouco.}
+{141}{}{Oh, agora quem poderá nos defender?}
+{142}{}{Os nossos sonhos morreram com o Dragão.}
+{143}{}{Não faz sentido.}
+{144}{}{Ensinaremos nossas crianças a ser como o Dragão.}
+{145}{}{Nós devemos criar novos sonhos agora.}
+{146}{}{O arauto do Emperador! Morto!}
 {147}{}{O que acontece agora?}
-{148}{}{I hope the savages don't overrun us now!}
+{148}{}{Só espero que os selvagens não nos invadam agora!}
 {149}{}{Os bons sempre morrem jovens.}
-{150}{}{I hope we can survive the winter without Ken Lee.}
+{150}{}{Espero que possamos sobreviver ao inverno sem Ken Lee.}
 {151}{}{Ouvi dizer que Ken Lee foi o único que manteve o Imperador em linha.}
 {152}{}{Ouvi dizer que o Imperador era apenas uma fachada para Ken Lee. }
 {153}{}{Trabalho, trabalho, trabalho. Arroz, arroz, arroz. ::suspiro::}
 {154}{}{Não existe mais na vida do que isso?}
 {155}{}{Nós somos mais espertos do que você pensa.}
-{156}{}{Look! An outsider!}
-{164}{}{You killed AHS-9? Good job!}
+{156}{}{Vejam! Um forasteiro!}
+{164}{}{Você matou AHS-9? Bom trabalho!}
 {165}{}{Aqueles Hubologistas me dão arrepios.}
-{166}{}{Honored visitor, you have done us a great service.}
+{166}{}{Honorável visitante, você nos prestou um grande serviço.}
 {167}{}{Morte aos Hubologistas!}
-{168}{}{Maybe this will hurry those Hubologists out of here.}
+{168}{}{Talvez isso faça com que esses Hubologistas saiam logo fora daqui.}
 {169}{}{Estúpidos Hubologistas, nem podem proteger seu próprio líder.}
-{170}{}{I just hope the Hubologists don't come after us in revenge.}
-{171}{}{I guess you're not a spy after all.}
+{170}{}{Só espero que os Hubologistas não venham atrás de vingança.}
+{171}{}{Parece que você não é um espião afinal de contas.}
 {172}{}{Filho de um porco! Morra!}
 {173}{}{Você tem desonrado a sua família!}
 {174}{}{Deixe-nos em paz, lao wai!}

@@ -214,7 +214,7 @@
 {313}{}{East.}
 {314}{}{Northeast.}
 {315}{}{Don't ask me. I don't know. }
-{316}{}{Yep.}
+{316}{}{É.}
 {317}{}{Certo.}
 {318}{}{Não.}
 {319}{}{Why're you talking to me like this?}

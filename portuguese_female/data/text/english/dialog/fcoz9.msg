@@ -57,7 +57,7 @@
 {156}{}{How do you know all this?}
 {157}{}{Seja o que for. Tchau.}
 {158}{}{Child, I am AHS-9. I see many things that transpire in the fleshy world. Do you have more questions, or may I return to my meditations?}
-{159}{}{More questions.}
+{159}{}{Mais perguntas.}
 {160}{}{Return to your meditations. I'm done.}
 {161}{}{You have killed the Emperor and destroyed his minions?}
 {162}{}{Yes, I have.}

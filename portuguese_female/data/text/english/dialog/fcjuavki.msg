@@ -1,6 +1,6 @@
-{100}{}{You see an eerily wholesome couple.}
-{101}{}{You see Juan Cruz and Vikki Goldman, two of New Reno's more notorious film stars.}
-{102}{}{You see a dark-haired man and a blonde woman, both of whom are extremely attractive. They exude a slutty "come-hither" vibe.}
+{100}{}{Você vê um casal estranhamente saudável.}
+{101}{}{Você vê Juan Cruz e Vikki Goldman, dois dos mais conhecidos astros de filmes de New Reno.}
+{102}{}{Você vê um homem de cabeço escuro e uma mulher loira, ambos extremamente cativantes.  Eles passam uma sensação vulgar de "venha cá".}
 {103}{}{Him: Hi! I'm Juan Cruz! Her: And I'm Vikki Goldman! Both: We're celebrities! And we endorse Hubology! Both: Please note that any similarities between us and people or institutions, living or dead, is entirely coincidental.}
 {104}{}{Ah? Cluz? Doldnin?}
 {105}{}{Celebrities? What makes you celebrities?}

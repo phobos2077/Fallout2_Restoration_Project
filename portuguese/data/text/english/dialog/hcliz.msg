@@ -55,7 +55,7 @@
 {151}{}{It's a pretty fluid definition.}
 {152}{}{Oh, well, if you got it from a reliable source, then yeah. Are you going to put an end to the
  mutants' domination?}
-{153}{}{Yep.}
+{153}{}{É.}
 {154}{}{Não.}
 {155}{}{Then I guess I'd better start cleaning up the loose ends.}
 {156}{}{[FEITO]}

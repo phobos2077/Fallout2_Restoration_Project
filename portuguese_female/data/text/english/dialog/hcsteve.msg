@@ -6,7 +6,7 @@
  town. Can I direct you someplace, or give you any help today?}
 {104}{}{Duh…}
 {105}{}{Noken Heel?}
-{106}{}{Tell me about the place.}
+{106}{}{Me conte sobre esse lugar.}
 {107}{}{Who lives here?}
 {108}{}{Who's in charge?}
 {109}{}{What's new here?}
@@ -64,7 +64,7 @@
 {152}{}{You want to know more?}
 {153}{}{What's new here?}
 {154}{}{Who's in charge?}
-{155}{}{Tell me about the place.}
+{155}{}{Me conte sobre esse lugar.}
 {156}{}{Who lives here?}
 {157}{}{What services do you have here?}
 {158}{}{Não, obrigado.}

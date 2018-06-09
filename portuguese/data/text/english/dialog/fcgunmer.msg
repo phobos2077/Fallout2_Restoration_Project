@@ -1,52 +1,52 @@
-{100}{}{You see an enthusiastic Shi.}
-{101}{}{You see Mai Da Chiang, the owner of Red 888 Guns.}
+{100}{}{Você vê um entusiasta do Shi.}
+{101}{}{Você vê Mai da Chiang, o proprietário da loja: Armas Vermelhas 888.}
 {102}{}{This is a rotund Shi who looks like he's running on permanent overdrive.}
-{103}{}{Hi! Welcome to Red 888 Guns! I'm Mai Da Chiang, the owner. How can I help you?}
+{103}{}{Bem vindo ao Armas Vermelhas 888! Eu sou Mai Da Chiang, o proprietário. Como posso ajudar?}
 {104}{}{Grokken di ma!}
-{105}{}{Me buy!}
-{106}{}{I was looking for some weaponry.}
-{107}{}{Tell me about the place.}
+{105}{}{Eu compra!}
+{106}{}{Estava procurando por algum armamento.}
+{107}{}{Me conte sobre esse lugar.}
 {108}{}{Esqueça.}
-{109}{}{I'm sorry! I don't speak your language! Have a nice day!}
+{109}{}{Me desculpe! Eu não falo o seu idioma! Tenha um bom dia!}
 {110}{}{Rrr?}
-{111}{}{Ahh, a weapon, eh? Well, this is what I have.}
+{111}{}{Ahh, uma arma, né? Bom, essas são as que eu tenho.}
 {112}{}{-mais-}
-{113}{}{Great, great. Thank you for your business. Come back soon!}
-{114}{}{More questions!}
+{113}{}{Ótimo, ótimo. Obrigado por comprar na minha loja. Volte sempre!}
+{114}{}{Mais perguntas!}
 {115}{}{Adeus!}
-{116}{}{No. Is not good enough. So sorry. Something else perhaps?}
-{117}{}{More questions.}
-{118}{}{No. Bye}
-{119}{}{You need something else?}
-{120}{}{Me buy!}
+{116}{}{Não. Não é bom o suficiente. Sinto muito. Talvez alguma outra coisa?}
+{117}{}{Mais perguntas.}
+{118}{}{Não. Tchau}
+{119}{}{Procurando alguma coisa?}
+{120}{}{Eu compra!}
 {121}{}{Não. Tchau.}
-{122}{}{I was looking for some weaponry.}
-{123}{}{Tell me about the place.}
+{122}{}{Estava procurando por algum armamento.}
+{123}{}{Me conte sobre esse lugar.}
 {124}{}{Esqueça.}
-{125}{}{We have lived here for years, but we did not always live here. Dr. Fung knows the complete history. I'll bet what you're looking for is what we do now.}
-{126}{}{Yep.}
-{127}{}{No, actually, I wanted to know the history. I'll go find Fung. See you.}
-{128}{}{Now, we are mainly fishermen and scientists. Our fishermen catch fish. Our scientists are working on a project that they say will change the world.}
-{129}{}{Change the world how?}
-{130}{}{What else is happening in town?}
-{131}{}{Hmm. Interesting. I have more questions.}
+{125}{}{Nós moramos aqui há anos, porém nem sempre nós moramos aqui. Dr. Fung sabe a história completa. Aposto que o que você quer saber é o que fazemos agora.}
+{126}{}{É.}
+{127}{}{Não, na verdade eu quero saber a história. Eu vou procurar o Fung. Até mais.}
+{128}{}{Agora, nós somos principalmente pescadores e cientistas. Nossos pescadores pescam peixes. Nossos cientistas estão trabalhando em um projeto que segundo eles irá mudar o mundo.}
+{129}{}{Mudar o mundo de que forma?}
+{130}{}{O que mais está acontecendo na cidade?}
+{131}{}{Hum. Interessante. Tenho mais perguntas.}
 {132}{}{Obrigado. Tchau.}
-{133}{}{I do not know. They keep their secrets to themselves.}
-{134}{}{I see. What else is happening in town?}
+{133}{}{Eu não sei. Eles guardam seus segredos para si mesmos.}
+{134}{}{Entendo. O que mais está acontecendo na cidade?}
 {135}{}{Eu vejo. Eu tenho mais perguntas.}
 {136}{}{Obrigado. Tchau.}
-{137}{}{We have two rivals of martial arts in town. They are Lo Pan, a lover of self, and the Dragon, who loves others. It is said that whoever wins will determine the future of martial arts.}
-{138}{}{I see. Anything else in town?}
+{137}{}{Nós temos dois rivais de artes marciais na cidade. Eles são Lo Pan, que só ama a si mesmo, e o Dragão, que ama aos outros. Dizem que quem ganhar vai determinar o futuro das artes marciais.}
+{138}{}{Entendo. Algo mais na cidade?}
 {139}{}{Eu vejo. Eu tenho mais perguntas.}
 {140}{}{Obrigado.}
-{141}{}{There is a gang of vagrants who have moved onto the Poseidon Oil tanker on the wharf. There were monsters living inside it, but the vagrants have sealed them into the lower hull. Though they are outsiders, we are grateful to the drifters for this task.}
-{142}{}{Any other news?}
+{141}{}{Tem um bando de vagabundos que se mudaram para o petroleiro no cais. Havia monstros vivendo dentro dele, mas os vagabundos os selaram no casco inferior. Embora eles sejam forasteiros, somos gratos a eles por isso.}
+{142}{}{Mais alguma novidade?}
 {143}{}{Eu vejo. Eu tenho mais perguntas.}
 {144}{}{Obrigado. Tchau.}
-{145}{}{The scientists report that someone has broken through their computer security and stolen our secrets.}
-{146}{}{Any other news?}
+{145}{}{Os cientistas relataram que alguém passou pelo sistema de segurança dos computadores e roubou nossos segredos.}
+{146}{}{Mais alguma novidade?}
 {147}{}{Eu vejo. Eu tenho mais perguntas.}
 {148}{}{Obrigado. Tchau.}
-{149}{}{That is all I can think of at the moment. Good day.}
+{149}{}{Isso é tudo que consigo lembrar no momento. Passar bem.}
 {150}{}{Bom dia.}
-{151}{}{You are a thief, a murderer, and a villain. I'm afraid I must kill you.}
+{151}{}{Você é um ladrão, um assassino, e um canalha. Acho que eu tenho que te matar.}
