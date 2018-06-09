@@ -1,11 +1,11 @@
 {100}{}{Você vê um casal estranhamente saudável.}
 {101}{}{Você vê Juan Cruz e Vikki Goldman, dois dos mais conhecidos astros de filmes de New Reno.}
 {102}{}{Você vê um homem de cabeço escuro e uma mulher loira, ambos extremamente cativantes.  Eles passam uma sensação vulgar de "venha cá".}
-{103}{}{Him: Hi! I'm Juan Cruz! Her: And I'm Vikki Goldman! Both: We're celebrities! And we endorse Hubology! Both: Please note that any similarities between us and people or institutions, living or dead, is entirely coincidental.}
-{104}{}{Ah? Cluz? Doldnin?}
-{105}{}{Celebrities? What makes you celebrities?}
-{106}{}{Similarities? What do you mean?}
-{107}{}{I want to be a Hubologist. How do I join?}
+{103}{}{Ele: Oi! Eu sou Juan Cruz! Ela: E eu sou Vikki Goldman! Ambos: Nós somos celebridades! E nós apoiamos a Hubologia! Ambos: Por favor, note que quaisquer semelhanças entre nós e pessoas ou instituições, vivas ou mortas, é mera coincidência.}
+{104}{}{Hã? Cuz? Doldnan?}
+{105}{}{Celebridades? O que os torna celebridades?}
+{106}{}{Semelhanças? Como assim?}
+{107}{}{Eu quero me tornar um Hubologista. Como eu entro?}
 {108}{}{Hey, Vikki, Dave H. is in love with you.}
 {109}{}{Great. Gotta go.}
 {110}{}{Him: A poor child of the waste. Her: Perhaps an alignment would help? Him: Yes. You. Would you like an alignment?}
