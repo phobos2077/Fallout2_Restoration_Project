@@ -39,35 +39,35 @@
 {138}{}{Não! Eu não se importa mais. Eu chutar sua bunda.}
 {139}{}{Sim, Sargento!}
 {140}{}{Eu não dou a mínima agora que estou vestindo essa armadura maneira. Eu vou chutar essa sua bunda.}
-{141}{sgnt14a}{Soldado, você ainda está fora de uniforme. Eu dei uma ordem direta para informar sobre suprimentos e resolver seu problema. Agora, saia da minha vista e não volte até você se parecer com um soldado!}
-{142}{sgnt14b}{Esta é a segunda vez que você veio a mim fora do uniforme, soldado. Não haverá uma terceira!}
-{143}{}{Tudo bem! Tudo bem! - Me ir.}
-{144}{}{Dane-se isso. Me cansado de porcaria.}
-{145}{}{Sim, Sargento! Eu estou no meu caminho.}
-{146}{}{Que se foda. Eu não sou talhado para isso.}
-{147}{sgnt15a}{Soldado, o que você está fazendo aqui? Voltar para o seu posto de guarda!}
-{148}{sgnt15b}{Idiota. Se eu te vejo longe do seu posto novamente, será o dia mais engraçado da sua vida curta!}
-{149}{sgnt15c}{Você é um perigo para todos nós. Que vai acabar agora.}
-{150}{sgnt16}{Esta base está em alerta e não reconheço você. Mostre-me seus papéis, soldado.}
-{151}{}{Não Me têm papéis em mim.}
-{152}{}{Não Me precisa papeis!}
-{153}{}{não tenho meus papéis comigo. Eles estão na minha maleta.}
-{154}{}{Papéis? Eu tenho os papéis aqui!}
-{155}{sgnt17}{Resposta errada, verme. Você deve levar seus papéis com você em todos os momentos e você deve saber disso!}
+{141}{sgnt14a}{Soldado, você ainda está sem uniforme. Eu te dei uma ordem direta para se apresentar ao oficial de suprimentos para receber seu equipamento. Agora, saia da minha vista e não volte até você se parecer com um soldado!}
+{142}{sgnt14b}{Esta é a segunda vez que você veio até mim sem uniforme, soldado. Não haverá uma terceira!}
+{143}{}{Certo! Certo! Eu indo.}
+{144}{}{Dane-se. Eu cansado de porcaria.}
+{145}{}{Sim, Sargento! Estou a caminho.}
+{146}{}{Que se foda. Eu não fui feita pra isso.}
+{147}{sgnt15a}{Soldado, o que você está fazendo aqui? Volte já para o seu posto!}
+{148}{sgnt15b}{Imbecíl. Se eu te ver fora do seu posto novamente, será o pior dia da sua vida curta!}
+{149}{sgnt15c}{Você é um perigo para todos nós. Isso acaba agora.}
+{150}{sgnt16}{Esta base está em alerta e não reconheço você. Mostre-me seus documentos, soldado.}
+{151}{}{Mim não ter documentos com eu.}
+{152}{}{Eu não precisa documentos!}
+{153}{}{Eu não estou com meus documentos comigo. Eles estão no meu armário.}
+{154}{}{Documentos? Eu tenho seus documentos bem aqui!}
+{155}{sgnt17}{Resposta errada, verme. Você deve levar seus documentos com você o tempo todo e você deveria saber disso!}
 {156}{}{Oops.}
 {157}{}{Fique alerta, soldado!}
-{158}{}{Boa. Você está na bola. Fique assim!}
-{159}{}{Nada a relatar, eu vejo. Permanecer em seu posto.}
-{160}{}{Se eu pegar qualquer um de vocês dormindo, eu vou ter certeza de que você dorme para sempre!}
-{161}{}{Boa! Você encontrou o seu local de trabalho!}
-{162}{}{Fique em seu posto até você ser aliviado, soldado!}
-{163}{}{No seu posto de guarda e acordado. Excelente!}
+{158}{}{Ótimo. Você está indo. Continue assim!}
+{159}{}{Nada a relatar, entendo. Permaneça em seu posto.}
+{160}{}{Se eu pegar qualquer um de vocês dormindo, eu vou fazer com que você durma para sempre!}
+{161}{}{Ótimo! Você encontrou o seu posto de serviço!}
+{162}{}{Fique em seu posto até você ser dispensado, soldado!}
+{163}{}{No seu posto e acordado. Excelente!}
 {164}{}{Ficar acordado, fique alerta, fique vivo!}
 {165}{}{Alerta! Intrusos na base!}
 {166}{}{Guardas! Intrusos!}
-{167}{}{Quem diabos deixou esses bastardos? Guardas!}
+{167}{}{Quem diabos deixou esses bastardos entrar? Guardas!}
 {168}{}{Alerta! Espiões no complexo!}
-{169}{}{Onde diabos é esse parafuso-privado?!}
+{169}{}{Onde diabos está aquele soldado de merda?!}
 {200}{}{.}
 {201}{}{, Senhor!}
 {300}{}{Eu disse a você para não voltar aqui sem uniforme!}

@@ -19,7 +19,7 @@
 {118}{}{Que documentos?}
 {119}{}{Você me estoura!}
 {120}{}{Acho que não tenho eles comigo...}
-{121}{}{Papéis? Eu tenho os papéis aqui!}
+{121}{}{Documentos? Eu tenho seus documentos bem aqui!}
 {122}{}{Resposta errada, verme. Você deve transportar os seus documentos com você em todos os momentos. Você deve saber disso!}
 {123}{}{Foda-se você.}
 {124}{}{Deixe o meu armário sozinho ou vou causar uma dor séria.}

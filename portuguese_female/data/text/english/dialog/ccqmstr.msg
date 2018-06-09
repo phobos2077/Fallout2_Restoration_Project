@@ -35,10 +35,10 @@
 {126}{}{Sim.}
 {127}{}{Esta base está em alerta e não reconheço você. Me mostre seu
   papéis, soldado.}
-{128}{}{Não Me têm papéis em mim.}
-{129}{}{Não Me precisa papeis!}
-{130}{}{não tenho meus papéis comigo. Eles estão na minha maleta.}
-{131}{}{Papéis? Eu tenho os papéis aqui!}
+{128}{}{Mim não ter documentos com eu.}
+{129}{}{Eu não precisa documentos!}
+{130}{}{Eu não estou com meus documentos comigo. Eles estão no meu armário.}
+{131}{}{Documentos? Eu tenho seus documentos bem aqui!}
 {132}{}{Resposta errada. Você deve levar seus papéis com você em todos os momentos
   e você deve saber disso!}
 {133}{}{Oops.}
