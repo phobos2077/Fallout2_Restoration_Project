@@ -64,44 +64,44 @@
 {163}{}{Certo, mas quer saber mais.}
 {164}{}{Certo, a gente se fala.}
 {165}{}{Com certeza, mas eu gostaria de tirar mais algumas dúvidas.}
-{166}{}{We've had this base for years. By maintaining it at a low level with minimal staffing, never drawing attention to ourselves, we've achieved anonymity. We leave the Shi alone, and they leave us alone.}
-{167}{}{Me guess...}
-{168}{}{Yeah, I guess I see what you mean.}
-{169}{}{Too many people in any one place can attract attention. One man in a city of many men is less noticeable.}
+{166}{}{Nós temos essa base há anos. Ao preservá-la em um baixo nível e com o mínimo possível de funcionários para não chamar atenção, nós alcançamos o anonimato. Nós deixamos o Shi em paz, e eles nos deixam em paz.}
+{167}{}{Eu achar...}
+{168}{}{Sim, eu acho que eu entendo o que você quer dizer.}
+{169}{}{Muitas pessoas em um lugar só atraem muita atenção. Uma pessoa em uma cidade cheia de pessoas é mais discreto.}
 {170}{}{Tudo bem.}
-{171}{}{Hello again. Is there something I can help you with?}
-{172}{}{No, just say hi.}
-{173}{}{Yes. You answer question?}
-{174}{}{No, just dropping by.}
-{175}{}{Yeah, answer some questions for me.}
-{176}{}{Hello. Have you thought about my offer?}
-{177}{}{No. Me not think yet.}
-{178}{}{Yes. Me take job.}
+{171}{}{Olá novamente. Existe algo em que eu possa te ajudar?}
+{172}{}{Não, só disse oi.}
+{173}{}{Sim. Você responder pergunta?}
+{174}{}{Não, só estou de passagem.}
+{175}{}{Sim, me tire algumas dúvidas.}
+{176}{}{Olá. Você considerou a minha oferta?}
+{177}{}{Não. Eu não pensou ainda.}
+{178}{}{Sim. Eu aceitar serviço.}
 {179}{}{Não, ainda não.}
-{180}{}{Yeah, I think I'll take the job.}
-{181}{}{Hello. Have you changed your mind about my offer?}
+{180}{}{Sim, eu acho que vou aceitar o serviço.}
+{181}{}{Olá. Você mudou de ideia sobre minha oferta?}
 {182}{}{Não.}
-{183}{}{Yes. Me take.}
-{184}{}{No, I haven't.}
-{185}{}{Yes, I'll take the job.}
-{186}{}{Have you completed your mission?}
-{187}{}{No, me still work on it.}
-{188}{}{Me get plans.}
+{183}{}{Sim. Eu aceita.}
+{184}{}{Não, não mudei.}
+{185}{}{Sim, eu aceito o serviço.}
+{186}{}{Você terminou sua missão?}
+{187}{}{Não, eu ainda fazendo isso.}
+{188}{}{Eu conseguiu manuais.}
 {189}{}{Não, eu ainda estou trabalhando nisso.}
-{190}{}{I got the vertibird plans for you.}
-{191}{}{Well, keep working on it. I know it's a difficult mission, but I think you can pull it off.}
+{190}{}{Eu consegui os manuais dos vertibirds para você.}
+{191}{}{Bem, continue tentando. Eu sei que é uma missão difícil, mas eu acho que você pode dar um jeito nisso.}
 {192}{}{Tudo bem.}
-{193}{}{Excellent work! Let me have the plans, and I'll make a copy of them. As promised, I'll give you full access to our facilities. Thank you.}
+{193}{}{Ótimo trabalho! Me empreste os manuais para que eu possa tirar uma cópia. E como prometido, eu te concederei acesso às nossas instalações. Muito obrigado.}
 {194}{}{Você é bem-vindo.}
 {195}{}{Você é bem-vindo.}
-{196}{}{Navarro is relatively new and not fully staffed as yet. My sources tell me that they receive new recruits from time to time. Perhaps you could pose as a new arrival. I would suggest that.}
-{197}{}{Navarro is relatively new and not fully staffed as yet. My sources tell me that they receive new recruits from time to time. Perhaps, if you went in alone, you could pose as a new arrival. I would suggest that. You could have your friends wait here.}
+{196}{}{Navarro é relativamente nova e ainda não está completamente guarnecida. Minhas fontes me dizem que eles recebem novos recrutas de tempos em tempos. Talvez você possa se passar por um recruta recém chegado. Eu recomendaria isso.}
+{197}{}{Navarro é relativamente nova e ainda não está completamente guarnecida. Minhas fontes me dizem que eles recebem novos recrutas de tempos em tempos. Talvez, se você for lá sozinho, você possa se passar por um recruta recém chegado. Seus amigos podem esperar aqui.}
 {198}{}{Tudo bem.}
-{199}{}{You say you 'sources.' What they be?}
+{199}{}{Você dizer 'fontes'. Quem ser elas?}
 {200}{}{Tudo certo.}
-{201}{}{You mentioned your 'sources.' Who would they be?}
-{202}{}{I had an operative go and scout the base. Her reports recently stopped; I can only assume the worst. Please be careful}
-{203}{}{. I don't enjoy sending people to their deaths.}
+{201}{}{Você mencionou suas 'fontes.' Quem seriam eles?}
+{202}{}{Eu enviei uma agente para observar a base. Recentemente os relatórios dela pararam de chegar. Eu só posso presumir o pior. Por favor seja cauteloso.}
+{203}{}{. Eu não aprecio enviar pessoas para a morte.}
 {204}{}{Me be careful, thanks.}
 {205}{}{I'll be careful. Thanks.}
 {206}{}{Thanks again for all your help. You have full access to our facilities now.}

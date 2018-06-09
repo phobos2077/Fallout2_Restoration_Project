@@ -344,7 +344,7 @@
  hands together and rubs them eagerly.) So, mebbe you pick up summa the Abbey's famous hooch while yer there?}
 {2024}{}{Yeah, I got some right here.}
 {2025}{}{I did, but I drank it. Wow is it powerful stuff.}
-{2026}{}{No, I haven't.}
+{2026}{}{Não, não mudei.}
 {2027}{}{No need ta rub it in my face. Itz been so long since I've had some...I could really go for a bottle or two. Any chance you'll stop by the Abbey again?}
 {2028}{}{Thatz too bad. Itz been so long since I've had some. I could really go for a bottle or two. Any chance you
  will be stopping by the Abbey again?}
