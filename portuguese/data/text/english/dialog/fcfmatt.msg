@@ -112,9 +112,9 @@
 {211}{}{Como conhece eu?}
 {212}{}{Nós sabemos de muitas coisas.}
 {213}{}{Após concluir a missão com sucesso eu irei preparar o petroleiro para você partir, e lhe darei acesso a nossas instalações por aqui. Enquanto isso, seria melhor se você começasse imediatamente. Obrigado,}
-{214}{}{We'come.}
+{214}{}{Dnada.}
 {215}{}{Excelente trabalho! Me empreste os manuais para que eu faça uma cópia deles. E como prometido, eu assegurarei que o petroleiro esteja preparado para navegar até a plataforma de petróleo - é só ir até o computador no nível superior e apertar o botão de ligar. Também lhe permito acesso total às nossas instalações. Obrigado.}
-{216}{}{You we'come!}
+{216}{}{Pur nada!}
 {217}{}{Apenas passe por aquela porta ali, se quiser, ou suba até o petroleiro. Ele está pronto para zarpar. Boa sorte!}
 {218}{}{Então, estou disposto a te fazer essa oferta. Execute esta missão para mim e eu irei preparar o petroleiro para você em sua jornada para o Enclave. O que me diz?}
 {219}{}{Eu pensar sobre isso.}
