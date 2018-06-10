@@ -22,26 +22,26 @@
 {121}{}{Her: Why, we were in the movie business in New Reno. We made hundreds of films, many of them classics, like "Top Bun," "Frisky Bizness," and "Days of Rubber". That's what makes us celebrities.}
 {122}{}{Ele: Mas, como um membro da industria dos filmes, você já sabia disso.}
 {123}{}{É legal finalmente poder dar rostos aos nomes.}
-{124}{}{Who cares if YOU endorse it? Shouldn't I make my own choices?}
+{124}{}{Quem se importa com o que VOCÊ recomenda? Não sou eu que deveria tomar minhas próprias decisões?}
 {125}{}{Entendo. Bom, eu tenho mais algumas perguntas para você.}
 {126}{}{Obrigado, tchau.}
-{127}{}{Her: Oh, yes, you should definitely make your own choices. Him: And with the Hub's latest book, you can learn how to make the RIGHT choice!}
-{128}{}{His latest book? Isn't he dead?}
-{129}{}{The "right" choice. Sure. What about free will?}
-{130}{}{Sounds great. How do I join?}
-{131}{}{Sure. I have more questions.}
+{127}{}{Ela: Ah, sim, você definitivamente deveria tomar suas próprias decisões. Ele: E com as dicas do mais recente livro do Hub, você pode aprender como tomar a decisão CERTA!}
+{128}{}{O livro mais recente dele? Ele não está morto?}
+{129}{}{A decisão "certa". Claro. Mas e quanto ao livre arbítrio?}
+{130}{}{Parece ótimo. Como eu participo?}
+{131}{}{Certo. Eu tenho mais perguntas.}
 {132}{}{Direito. Tchau.}
 {133}{}{Him: More questions? Then we have the answers! Provided by the Great Wheel's graces, of course.}
-{134}{}{How do I join?}
-{135}{}{What makes you celebrities?}
-{136}{}{Shouldn't I make my own choices, rather than let celebrities guide me?}
-{137}{}{How do I join?}
+{134}{}{Como eu participo?}
+{135}{}{O que os torna celebridades?}
+{136}{}{Eu não deveria tomar minhas próprias decisões ao invés de seguir celebridades?}
+{137}{}{Como eu participo?}
 {138}{}{Ei Vikki, o Dave H. está apaixonado por você.}
-{139}{}{No, no more questions.}
-{140}{}{Her: [blank icy look] Him: Thank you.}
-{141}{}{Err... I have some questions.}
-{142}{}{That's all for me! So long!}
-{143}{}{Him: Dead? Ha ha! Perhaps. We like to think that he aligned all his neurodynes and went to join the Star Father. Her: We have extensive use of his jotted notes and barely-begun manuscripts to spread the word of the Hub. Him: For example, we found a scrap that said: "2 doz. eggs/Milk/TP". Obviously this is significant. It needs to be heard.}
+{139}{}{Não, sem mais perguntas.}
+{140}{}{Ela: [olhar vazio] Ele: Obrigado.}
+{141}{}{Err... Eu tenho algumas perguntas.}
+{142}{}{Isso é tudo! Até logo!}
+{143}{}{Ele: Morto? Ha ha! Talvez. Nós acreditamos que ele teve seus neurodynos alinhados e foi se juntar ao Pai Estrela. Ela: Nós temos uma vasta quantidade de anotações e manuscritos escritos por Hub, com isso espalharemos suas palavras. Ele: Por exemplo, nós encontramos esse trecho que diz "2 duz. ovos/Leite/TP. Obviamente isso é importante e precisa ser ouvido.}
 {144}{}{Err... right. I have more questions.}
 {145}{}{What, because some crackpot wrote something down you feel the need to publish EVERYTHING?}
 {146}{}{Yes! Praise the Hub! I see the light! How do I join?}
