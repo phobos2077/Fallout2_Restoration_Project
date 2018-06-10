@@ -23,7 +23,7 @@
 {122}{}{Ele: Mas, como um membro da industria dos filmes, você já sabia disso.}
 {123}{}{É legal finalmente poder dar rostos aos nomes.}
 {124}{}{Who cares if YOU endorse it? Shouldn't I make my own choices?}
-{125}{}{I see. Well, I have more questions for you.}
+{125}{}{Entendo. Bom, eu tenho mais algumas perguntas para você.}
 {126}{}{Obrigado, tchau.}
 {127}{}{Her: Oh, yes, you should definitely make your own choices. Him: And with the Hub's latest book, you can learn how to make the RIGHT choice!}
 {128}{}{His latest book? Isn't he dead?}
