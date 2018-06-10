@@ -19,7 +19,7 @@
 {118}{}{Ele: Ta vendo? Os as coisas que aprendi no Hub mostraram seu valor novamente!}
 {119}{}{Eu tenho algumas perguntas.}
 {120}{}{Valeu! Tchau!}
-{121}{}{Her: Why, we were in the movie business in New Reno. We made hundreds of films, many of them classics, like "Top Bun," "Frisky Bizness," and "Days of Rubber". That's what makes us celebrities.}
+{121}{}{Ela: Nós estávamos no ramo dos filmes em New Reno. Nós fizemos centenas de filmes, alguns deles considerados clássicos, como "Top Bam - Nádegas Indomáveis", "Negócio Excitado" e "Dias de Submissão". Por isso nós somos celebridades.}
 {122}{}{Ele: Mas, como um membro da industria dos filmes, você já sabia disso.}
 {123}{}{É legal finalmente poder dar rostos aos nomes.}
 {124}{}{Quem se importa com o que VOCÊ recomenda? Não sou eu que deveria tomar minhas próprias decisões?}
@@ -31,7 +31,7 @@
 {130}{}{Parece ótimo. Como eu participo?}
 {131}{}{Certo. Eu tenho mais perguntas.}
 {132}{}{Direito. Tchau.}
-{133}{}{Him: More questions? Then we have the answers! Provided by the Great Wheel's graces, of course.}
+{133}{}{Ele: Mais perguntas? Nós temos todas as respostas! Providas pelas graças da Grande Roda, é claro.}
 {134}{}{Como eu participo?}
 {135}{}{O que os torna celebridades?}
 {136}{}{Eu não deveria tomar minhas próprias decisões ao invés de seguir celebridades?}
@@ -42,18 +42,18 @@
 {141}{}{Err... Eu tenho algumas perguntas.}
 {142}{}{Isso é tudo! Até logo!}
 {143}{}{Ele: Morto? Ha ha! Talvez. Nós acreditamos que ele teve seus neurodynos alinhados e foi se juntar ao Pai Estrela. Ela: Nós temos uma vasta quantidade de anotações e manuscritos escritos por Hub, com isso espalharemos suas palavras. Ele: Por exemplo, nós encontramos esse trecho que diz "2 duz. ovos/Leite/TP. Obviamente isso é importante e precisa ser ouvido.}
-{144}{}{Err... right. I have more questions.}
-{145}{}{What, because some crackpot wrote something down you feel the need to publish EVERYTHING?}
-{146}{}{Yes! Praise the Hub! I see the light! How do I join?}
+{144}{}{Err... ok. Eu tenho mais perguntas.}
+{145}{}{Como é, só porque algum maluco escreveu qualquer porcaria vocês sentem a necessidade de publicar TUDO que ele escreveu?}
+{146}{}{Sim! Louvado seja o Hub! Eu vejo a luz! Como eu participo?}
 {147}{}{Direito. Tchau.}
-{148}{}{Him: Yes. Some might think we resemble certain people. Her: But the truth is, it's entirely coincidental.}
-{149}{}{Whew. Well, that's a load off. Say, I have more questions.}
-{150}{}{Got it. So long.}
-{151}{}{Her: Of course you have your free will. You have the choice to allow your neurodynes to be filled with the filth of the world. Him: You have the choice to live a joyless, meaningless existence in the rat race. Both: Or you can come to a greater understanding of life through the Great Wheel.}
-{152}{}{Neurodynes? What are they?}
-{153}{}{Sounds great. How can I join?}
-{154}{}{Hmm. I think I'll stick with the rat race.}
-{155}{}{Right-o. Well, I have to run.}
+{148}{}{Ele: Sim. Alguns podem até pensar que nós nos assemelhamos com certas pessoas. Ela: Mas a verdade é que é mera coincidência.}
+{149}{}{Ufa. Bem, isso tirou um peso das minhas costas. Eu tenho mais perguntas.}
+{150}{}{Entendi. Até logo.}
+{151}{}{Ela: É claro que você possui livre arbítrio. Você tem a escolha de permitir que seus neurodynos sejam preenchidos com a imundície desse mundo. Ele: Você tem a opção de viver uma vida sem felicidade, uma vida sem sentido nessa corrida sem fim. Ambos: Ou você pode alcançar uma maior compreensão da vida através da Grande Roda.}
+{152}{}{Neurodynos? O que é isso?}
+{153}{}{Parece ótimo. Como eu participo?}
+{154}{}{Hum. Acho que eu prefiro a corrida sem fim.}
+{155}{}{Tá certo. Bem, tenho que ir.}
 {156}{}{Her: You dare call the Hub (praise his vision) a crackpot? Here? In a stronghold devoted to his study? Him: Get out of here. If you talk to anyone on the way out, you will be attacked. Infidel. Both: Good riddance.}
 {157}{}{Maybe I'd better jump on them. I always hated your movies anyway. Let's see you do a death scene.}
 {158}{}{Your movies suck. Bye.}
