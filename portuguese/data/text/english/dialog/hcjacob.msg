@@ -16,7 +16,7 @@
 {115}{}{[FEITO]}
 {116}{}{Drugstore. It's a drugstore. Look, do you want anything?}
 {117}{}{You again? Do you want something?}
-{118}{}{'Es!}
+{118}{}{Simmm!}
 {119}{}{Unh uh.}
 {120}{}{Fine. Let's see what you want.}
 {121}{}{[MAIS]}

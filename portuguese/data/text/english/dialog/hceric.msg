@@ -78,7 +78,7 @@
 {177}{}{Here's all the money I have... $150. Thank you.}
 {178}{}{No, thank you. So long.}
 {179}{}{Then I'm doubly grateful. Oh... I hear you're looking for a GECK. Try asking around in NCR. It's to the south.}
-{180}{}{Thanks! Bye!}
+{180}{}{Valeu! Tchau!}
 {181}{}{Oh yes. The flies have lessened, the air is cool, and I'm less sweaty. Better deal for everyone all around!}
 {182}{}{I'll say. Well, that's all. So long!}
 {183}{}{You see a greasy, sweating man. He looks quite comfortable.}

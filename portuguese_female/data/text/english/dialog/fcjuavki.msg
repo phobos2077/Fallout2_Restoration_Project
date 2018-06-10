@@ -1,26 +1,26 @@
 {100}{}{Você vê um casal estranhamente saudável.}
 {101}{}{Você vê Juan Cruz e Vikki Goldman, dois dos mais conhecidos astros de filmes de New Reno.}
-{102}{}{Você vê um homem de cabeço escuro e uma mulher loira, ambos extremamente cativantes.  Eles passam uma sensação vulgar de "venha cá".}
+{102}{}{Você vê um homem de cabelo escuro e uma mulher loira, ambos extremamente cativantes.  Eles passam uma sensação vulgar de "venha cá".}
 {103}{}{Ele: Oi! Eu sou Juan Cruz! Ela: E eu sou Vikki Goldman! Ambos: Nós somos celebridades! E nós apoiamos a Hubologia! Ambos: Por favor, note que quaisquer semelhanças entre nós e pessoas ou instituições, vivas ou mortas, é mera coincidência.}
 {104}{}{Hã? Cuz? Doldnan?}
 {105}{}{Celebridades? O que os torna celebridades?}
 {106}{}{Semelhanças? Como assim?}
 {107}{}{Eu quero me tornar um Hubologista. Como eu entro?}
-{108}{}{Hey, Vikki, Dave H. is in love with you.}
-{109}{}{Great. Gotta go.}
-{110}{}{Him: A poor child of the waste. Her: Perhaps an alignment would help? Him: Yes. You. Would you like an alignment?}
-{111}{}{'Es!}
-{112}{}{No!}
-{113}{}{Her: I do hope that has helped. Good luck in your travels!}
-{114}{}{Goo-bye!}
-{115}{}{It certainly has!}
-{116}{}{Him: If you won't accept our help... Her: ... then we can't help you. Goodbye.}
+{108}{}{Ei Vikki, o Dave H. está apaixonado por você.}
+{109}{}{Beleza. Tenho que ir.}
+{110}{}{Ele: Uma pobre criança das terras de ninguém. Ela: Talvez um alinhamento ajudaria? Ele: Sim. Ei, você. Você gostaria de fazer um alinhamento?}
+{111}{}{Simmm!}
+{112}{}{Não!}
+{113}{}{Ela: Eu espero que tenha te ajudado. Boa sorte em suas viagens!}
+{114}{}{Xau!}
+{115}{}{Com certeza ajudou!}
+{116}{}{Ele: Se você não quer nossa ajuda... Ela: ... então nós não podemos te ajudar. Tchau tchau.}
 {117}{}{Adeus!}
-{118}{}{Him: Ah, you see? The teachings of the Hub have demonstrated their worth again!}
+{118}{}{Ele: Ta vendo? Os as coisas que aprendi no Hub mostraram seu valor novamente!}
 {119}{}{Eu tenho algumas perguntas.}
-{120}{}{Thanks! Bye!}
+{120}{}{Valeu! Tchau!}
 {121}{}{Her: Why, we were in the movie business in New Reno. We made hundreds of films, many of them classics, like "Top Bun," "Frisky Bizness," and "Days of Rubber". That's what makes us celebrities.}
-{122}{}{Him: But then, as a member of the industry, you already knew that.}
+{122}{}{Ele: Mas, como um membro da industria dos filmes, você já sabia disso.}
 {123}{}{It's nice to finally put faces to the names.}
 {124}{}{Who cares if YOU endorse it? Shouldn't I make my own choices?}
 {125}{}{I see. Well, I have more questions for you.}
@@ -36,7 +36,7 @@
 {135}{}{What makes you celebrities?}
 {136}{}{Shouldn't I make my own choices, rather than let celebrities guide me?}
 {137}{}{How do I join?}
-{138}{}{Hey, Vikki, Dave H. is in love with you.}
+{138}{}{Ei Vikki, o Dave H. está apaixonado por você.}
 {139}{}{No, no more questions.}
 {140}{}{Her: [blank icy look] Him: Thank you.}
 {141}{}{Err... I have some questions.}

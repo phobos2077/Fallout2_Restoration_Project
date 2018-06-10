@@ -11,8 +11,8 @@
 {110}{}{Quem é você?}
 {111}{}{I've come to kill you all.}
 {112}{}{Ah, poor child. Would you like to be aligned?}
-{113}{}{'Es!}
-{114}{}{No!}
+{113}{}{Simmm!}
+{114}{}{Não!}
 {115}{}{Poor child. Already aligned, yet unable to articulate. Go on in.}
 {116}{}{'Ank yu!}
 {117}{}{Go in and find Juan and Vikki. They can help you. Good luck, child.}

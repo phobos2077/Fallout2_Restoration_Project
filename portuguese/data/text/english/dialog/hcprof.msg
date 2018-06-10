@@ -10,7 +10,7 @@
 {109}{}{Nada. Tchau.}
 {110}{}{Ah, a test subject! Would you like to take a test, my friend?}
 {111}{}{Sim!}
-{112}{}{No!}
+{112}{}{Não!}
 {113}{}{You wish to take a test, eh? Do you want to test your hands, your eyes, or your brains?}
 {114}{}{'Ands!}
 {115}{}{Yeyes!}
@@ -31,7 +31,7 @@
 {130}{}{Vai!}
 {131}{}{Got it. Let's go.}
 {132}{}{You and the scorpion will be playing a game of my own devising. I call it "chess". Are you ready?}
-{133}{}{'Es!}
+{133}{}{Simmm!}
 {134}{}{Yep. I'm ready.}
 {135}{}{I am the Professor. What I do is applied intelligence testing. I create chemical compounds to increase intelligence. I'm trying some out on this radscorpion here, after my failure with the plant.}
 {136}{}{You tried it out on a plant?}

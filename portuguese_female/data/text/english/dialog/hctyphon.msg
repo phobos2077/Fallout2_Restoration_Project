@@ -40,7 +40,7 @@
 {138}{}{Qual é o truque?}
 {139}{}{I don't need money.}
 {140}{}{You're back, eh? You want to know about that treasure, kid?}
-{141}{}{'Es!}
+{141}{}{Simmm!}
 {142}{}{Nuh-uh.}
 {143}{}{What kind of treasure is it?}
 {144}{}{Yeah, tell me.}
@@ -87,7 +87,7 @@
 {185}{}{[FEITO]}
 {186}{}{I'm all tuckered out now. Go get me some rotgut and we'll talk about the treasure. Phil the bartender should be able to take care o' that for you.}
 {187}{}{Rite! Bye!}
-{188}{}{No!}
+{188}{}{Não!}
 {189}{}{Take! [give Rotgut to Typhon]}
 {190}{}{Got it. Here you go. [Give Rotgut to Typhon.]}
 {191}{}{Is that going to be it?}

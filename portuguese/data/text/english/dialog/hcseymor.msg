@@ -11,7 +11,7 @@
 {110}{}{'Es.}
 {111}{}{Nuh.}
 {112}{}{I'm looking for a better place to be. Right here is nice and all, but frankly, these plants aren't much for conversation. I was thinking over there, by the building with all the ghouls in it... Would you replant me?}
-{113}{}{'Es!}
+{113}{}{Simmm!}
 {114}{}{Nuh!}
 {115}{}{Com certeza.}
 {116}{}{I think not.}
@@ -53,7 +53,7 @@
 {148}{}{'Anks! Bye!}
 {149}{}{I appreciate the information! Bye!}
 {150}{}{My friend! Has the sun been shining upon you? How does your day flower? Are you ready for the move? I certainly am!}
-{151}{}{'Es!}
+{151}{}{Simmm!}
 {152}{}{Nuh uh! No move!}
 {153}{}{Vamos lá.}
 {154}{}{I've changed my mind. I don't want to help you.}
@@ -72,7 +72,7 @@
  of a treasure trove. Perhaps that might be useful to you someday.}
 {164}{}{'Anks! Byee!}
 {165}{}{Have you had time to reconsider? Would you like to help me?}
-{166}{}{'Es!}
+{166}{}{Simmm!}
 {167}{}{Nuh!}
 {168}{}{Com certeza.}
 {169}{}{I think not.}

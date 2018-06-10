@@ -76,7 +76,7 @@ because this is going to cost ::cough:: $200.}
 {166}{}{É tudo o que quero oferecer. Até mais.}
 {167}{}{::wheeze:: Are you hurt? Let me take a look at that. Do you have money?}
 {168}{}{Mo-ney?}
-{169}{}{'Es!}
+{169}{}{Simmm!}
 {170}{}{Let me take a look at your bag. (he looks through your bag and takes something) Okay. Now, this
  may hurt a little bit.}
 {171}{}{Hurt?}
@@ -115,7 +115,7 @@ because this is going to cost ::cough:: $200.}
 {200}{}{Thanks. See ya!}
 {201}{}{Who's hurt? Oh, just line up and I'll take care of the lot of ya.}
 {202}{}{One more thing…}
-{203}{}{Thanks! Bye!}
+{203}{}{Valeu! Tchau!}
 {204}{}{Surprisingly little. Sorry, but when I'm concentrating on healing someone, I don't usually pay
  attention to their innermost secrets.}
 {205}{}{Oh. Will you answer more questions?}
