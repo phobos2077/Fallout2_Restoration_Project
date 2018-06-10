@@ -21,7 +21,7 @@
 {120}{}{Valeu! Tchau!}
 {121}{}{Her: Why, we were in the movie business in New Reno. We made hundreds of films, many of them classics, like "Top Bun," "Frisky Bizness," and "Days of Rubber". That's what makes us celebrities.}
 {122}{}{Ele: Mas, como um membro da industria dos filmes, você já sabia disso.}
-{123}{}{It's nice to finally put faces to the names.}
+{123}{}{É legal finalmente poder dar rostos aos nomes.}
 {124}{}{Who cares if YOU endorse it? Shouldn't I make my own choices?}
 {125}{}{I see. Well, I have more questions for you.}
 {126}{}{Obrigado, tchau.}
