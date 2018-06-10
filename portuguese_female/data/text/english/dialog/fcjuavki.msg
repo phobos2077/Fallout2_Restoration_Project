@@ -54,16 +54,16 @@
 {153}{}{Parece ótimo. Como eu participo?}
 {154}{}{Hum. Acho que eu prefiro a corrida sem fim.}
 {155}{}{Tá certo. Bem, tenho que ir.}
-{156}{}{Her: You dare call the Hub (praise his vision) a crackpot? Here? In a stronghold devoted to his study? Him: Get out of here. If you talk to anyone on the way out, you will be attacked. Infidel. Both: Good riddance.}
-{157}{}{Maybe I'd better jump on them. I always hated your movies anyway. Let's see you do a death scene.}
-{158}{}{Your movies suck. Bye.}
+{156}{}{Ela: Como ousa chamar o Hub (louvado seja seu nome) de maluco? Aqui dentro? Na fortaleza dos devotados aos seus ensinamentos? Ele: Caia fora daqui. Se você falar com alguém no seu caminho para fora, você será castigado. Infiel. Ambos: Vai tarde.}
+{157}{}{Talvez seja melhor eu pular neles. Eu sempre odiei seus filmes mesmo. Vamos ver vocês atuarem em uma cena de morte.}
+{158}{}{Seus filmes são uma bosta. Tchau.}
 {159}{}{Adeus.}
-{160}{}{Her: Neurodynes are the essence of souls destroyed in the Great War, polluting your spiritual essence and guiding you astray. Him: If you want to know more about our teachings, you'll have to join our church.}
-{161}{}{Yes, this sounds fascinating.}
-{162}{}{I'd heard this was science fiction, but I didn't know how much. The Hub must have been quite a crackpot.}
-{163}{}{Well, I'm definitely curious about what you've got. Count me in.}
-{164}{}{Hmm. Nah, not right now. I do have more questions, though.}
-{165}{}{Umm... gotta go. Bye.}
+{160}{}{Ela: Neurodynos são a essência das almas destruídas na Grande Guerra, poluindo sua essência espiritual e te guiando para o mau caminho. Ele: Se você quiser saber mais sobre os nossos ensinamentos, você terá que se juntar à nossa igreja.}
+{161}{}{Sim, isso parece fascinante.}
+{162}{}{Eu ouvi dizer que isso era ficção científica, mas eu não sabia o quanto. Esse Hub deve ter sido um grande maluco.}
+{163}{}{Bem, eu certamente estou curioso sobre o que você tem para me mostrar. Conte comigo.}
+{164}{}{Hum. Nem, agora não. Entretanto, eu tenho mais perguntas.}
+{165}{}{Hum... tenho que ir. Tchau.}
 {166}{}{Him: That's very forward-thinking of you. Her: Very enlightened. Him: We offer our opinions to people - and if our celebrity can attract more believers, we're anxious to use it.}
 {167}{}{Tenho outras perguntas.}
 {168}{}{I'm interested in joining.}
