@@ -31,7 +31,7 @@
 {130}{}{Por que você dizer tudo isso agora?}
 {131}{}{Antes de prosseguirmos, por que me diz tudo isso agora?}
 {132}{}{(suspiro) O Enclave desenvolveu tecnologia vertibird, máquinas voadoras que lhes permitem avançar profundamente em territórios próximos. Sem uma tecnologia similar para combater essa ameaça, a Irmandade seria incapaz de impedir uma invasão iniciada pelo Enclave. Precisamos obter a tecnologia vertibird, ou algo para usarmos contra ela.}
-{133}{}{Recentemente, o Enclave estabeleceu uma base ao norte daqui chamada Navarro. Essa base é usada como ponto de parada para a manutenção e reabastecimento dos vertibirds. Acredito que nessa base podem haver manuais de construção dos vertibirds. Tudo que preciso é que alguém se infiltre na base, roube os manuais e os traga para mim.}
+{133}{}{Recentemente, o Enclave estabeleceu uma base ao norte daqui chamada Navarro. Essa base é usada como ponto de parada para a manutenção e reabastecimento dos vertibirds. Acredito que nessa base podem haver diagramas dos vertibirds. Tudo que preciso é que alguém se infiltre na base, roube os diagramas e os traga para mim.}
 {134}{}{Hum... eu fazer?}
 {135}{}{Deixe-me adivinhar. Você quer que eu me infiltre nessa base por você.}
 {136}{}{Deixe-me ser sincero com você,}
@@ -53,7 +53,7 @@
 {152}{}{Ok, mas eu quer saber mais.}
 {153}{}{Tudo bem. Te vejo por aí.}
 {154}{}{Tudo bem, mas eu gostaria de saber mais alguns detalhes.}
-{155}{}{Ótimo. Eis o que você precisa fazer. Vá até Navarro, infiltre-se na base e adquira os manuais de construção de vertibirds. Entregue os manuais para mim.}
+{155}{}{Ótimo. Eis o que você precisa fazer. Vá até Navarro, infiltre-se na base e adquira os diagramas de vertibirds. Entregue os diagramas para mim.}
 {156}{}{Ok. Hã... Como acha que eu pode fazer isso? É base militar.}
 {157}{}{Ok. Eu ir agora.}
 {158}{}{Tá certo, mas... De que maneira você acha que eu devo me aproximar? Afinal de contas é uma base militar.}
@@ -86,12 +86,12 @@
 {185}{}{Sim, eu aceito o serviço.}
 {186}{}{Você terminou sua missão?}
 {187}{}{Não, eu ainda fazendo isso.}
-{188}{}{Eu conseguiu manuais.}
+{188}{}{Eu conseguiu diagramas.}
 {189}{}{Não, eu ainda estou trabalhando nisso.}
-{190}{}{Eu consegui os manuais dos vertibirds para você.}
+{190}{}{Eu trouxe os diagramas dos vertibirds para você.}
 {191}{}{Bem, continue tentando. Eu sei que é uma missão difícil, mas eu acho que você pode dar um jeito nisso.}
 {192}{}{Tudo bem.}
-{193}{}{Ótimo trabalho! Me empreste os manuais para que eu possa tirar uma cópia. E como prometido, eu te concederei acesso às nossas instalações. Muito obrigado.}
+{193}{}{Ótimo trabalho! Me empreste os diagramas para que eu possa tirar uma cópia. E como prometido, eu lhe concederei acesso às nossas instalações. Muito obrigado.}
 {194}{}{Você é bem-vindo.}
 {195}{}{Você é bem-vindo.}
 {196}{}{Navarro é relativamente nova e ainda não está completamente guarnecida. Minhas fontes me dizem que eles recebem novos recrutas de tempos em tempos. Talvez você possa se passar por uma recruta recém chegada. Eu recomendaria isso.}
@@ -113,7 +113,7 @@
 {212}{}{Nós sabemos de muitas coisas.}
 {213}{}{Após concluir a missão com sucesso eu irei preparar o petroleiro para você partir, e lhe darei acesso a nossas instalações por aqui. Enquanto isso, seria melhor se você começasse imediatamente. Obrigado,}
 {214}{}{Dnada.}
-{215}{}{Excelente trabalho! Me empreste os manuais para que eu faça uma cópia deles. E como prometido, eu assegurarei que o petroleiro esteja preparado para navegar até a plataforma de petróleo - é só ir até o computador no nível superior e apertar o botão de ligar. Também lhe permito acesso total às nossas instalações. Obrigado.}
+{215}{}{Excelente trabalho! Me empreste os diagramas para que eu faça uma cópia deles. E como prometido, eu vou garantir que o petroleiro esteja pronto para navegar até a plataforma de petróleo - é só ir até o computador no nível superior e apertar o botão de ligar. Também permito que você tenha acesso total às nossas instalações. Obrigado.}
 {216}{}{Pur nada!}
 {217}{}{Apenas passe por aquela porta ali, se quiser, ou suba até o petroleiro. Ele está pronto para zarpar. Boa sorte!}
 {218}{}{Então, estou disposto a te fazer essa oferta. Execute esta missão para mim e eu irei preparar o petroleiro para você em sua jornada para o Enclave. O que me diz?}

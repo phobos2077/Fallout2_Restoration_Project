@@ -64,13 +64,13 @@
 {163}{}{Bem, eu certamente estou curioso sobre o que você tem para me mostrar. Conte comigo.}
 {164}{}{Hum. Nem, agora não. Entretanto, eu tenho mais perguntas.}
 {165}{}{Hum... tenho que ir. Tchau.}
-{166}{}{Him: That's very forward-thinking of you. Her: Very enlightened. Him: We offer our opinions to people - and if our celebrity can attract more believers, we're anxious to use it.}
+{166}{}{Ele: Isso é muito idealista de sua parte. Ela: Muito culto. Ele: Nós oferecemos nossas opiniões para as pessoas - e se as nossas celebridades podem atrair mais fiéis, estamos ansiosos para usá-las.}
 {167}{}{Tenho outras perguntas.}
-{168}{}{I'm interested in joining.}
+{168}{}{Estou interessado em participar.}
 {169}{}{Entendo. Bem, até mais.}
-{170}{}{Him: Well, it's very simple. We just give you this informational holodisc. Her: ... you sit through a short movie... Him:... and then you go talk to AHS-7! Her: Easy, isn't it?}
+{170}{}{Ele: Bem, é muito simples. Nós apenas lhe damos este holodisco informativo. Ela: ... você assiste um filmezinho... Ele: ... aí então você fala com o AHS-7! Ela: Fácil, não é?}
 {171}{}{Vamos lá.}
-{172}{}{I don't think I'm ready for this.}
+{172}{}{Acho que não estou pronto para isso.}
 {173}{}{Her: That's your prerogative. Him: And I hope you'll understand that you can't be allowed to wander our base. Her: So you had better leave - the guards will probably shoot at you if you stick around.}
 {174}{}{Gee, thanks. Invite me in to recruit me and shoot me if I don't sign up? Nice gig.}
 {175}{}{Maybe I'd better shoot you first.}

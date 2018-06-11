@@ -1,6 +1,6 @@
 {100}{}{Você vê um entusiasta do Shi.}
 {101}{}{Você vê Mai da Chiang, o proprietário da loja: Armas Vermelhas 888.}
-{102}{}{This is a rotund Shi who looks like he's running on permanent overdrive.}
+{102}{}{Esse é um Shi gorducho que parece estar sempre hiperativo.}
 {103}{}{Bem vindo ao Armas Vermelhas 888! Eu sou Mai Da Chiang, o proprietário. Como posso ajudar?}
 {104}{}{Grokken di ma!}
 {105}{}{Eu compra!}
