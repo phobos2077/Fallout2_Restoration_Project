@@ -22,7 +22,7 @@
 {121}{}{Uh, não.}
 {122}{}{Hah! Another crackpot. You ought to go talk to Saltbeef. You and he'd get along fine.}
 {123}{}{Quem?}
-{124}{}{I'm out of here.}
+{124}{}{To caindo fora daqui.}
 {125}{}{Saltbeef Bob - over in the stables. Mr. Westin lets him stay there. Now stop wasting my time.}
 {126}{}{Oh, thanks.}
 {127}{}{Then I guess we got to kill you.}

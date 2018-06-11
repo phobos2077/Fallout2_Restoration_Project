@@ -79,7 +79,7 @@
 {178}{}{Berating someone? Any fool who had done their research can see that the very basis of Shi-town is the wreckage of this submarine. It seems fruitless to argue with those who would say otherwise.}
 {179}{}{That's very even-tempered of you.}
 {180}{}{It certainly is. And I deal with these people on a daily basis. Alas!}
-{181}{}{Well, I have more questions.}
+{181}{}{Bem, eu tenho mais perguntas.}
 {182}{}{Yeah, poor you. Bye.}
 {183}{}{You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find the force field to the large computer has been turned off.  Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer.  The Emperor will be able to direct our fuel to where you need it.}
 {184}{}{Obrigado.}

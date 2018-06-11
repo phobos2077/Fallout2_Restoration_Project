@@ -71,62 +71,62 @@
 {170}{}{Ele: Bem, é muito simples. Nós apenas lhe damos este holodisco informativo. Ela: ... você assiste um filmezinho... Ele: ... aí então você fala com o AHS-7! Ela: Fácil, não é?}
 {171}{}{Vamos lá.}
 {172}{}{Acho que não estou pronto para isso.}
-{173}{}{Her: That's your prerogative. Him: And I hope you'll understand that you can't be allowed to wander our base. Her: So you had better leave - the guards will probably shoot at you if you stick around.}
-{174}{}{Gee, thanks. Invite me in to recruit me and shoot me if I don't sign up? Nice gig.}
-{175}{}{Maybe I'd better shoot you first.}
-{176}{}{I'm out of here.}
-{177}{}{Him: This is your last chance to change your mind. Her: We'd hate to see anything bad happen to you.}
+{173}{}{Ela: Esse é um direito seu. Ele: E eu espero que você entenda que você não está autorizado a vagar pela nossa base. Ela: Então é melhor você sair - os guardas provavelmente vão atirar em você caso fique por aqui.}
+{174}{}{Caramba, valeu. Me convidam para participar e atiram em mim caso eu não aceite? Que belo gesto.}
+{175}{}{Então acho que é melhor eu atirar em vocês primeiro.}
+{176}{}{To caindo fora daqui.}
+{177}{}{Ele: Essa é sua última chance de mudar de ideia. Ela: Nós odiaríamos que algo de ruim te acontecesse.}
 {178}{}{Que se dane.}
-{179}{}{Fine. How do I join?}
-{180}{}{Something bad is about to happen to YOU.}
-{181}{}{Nope. I'll take my chances. So long.}
-{182}{}{Him: We've done everything we can for you. Her: Good luck in your travels.}
+{179}{}{Certo. Como eu participo?}
+{180}{}{Algo de ruim está prestes a acontecer com VOCÊ.}
+{181}{}{Nem. Eu prefiro correr esse risco. Té mais.}
+{182}{}{Ele: Nós fizemos tudo o que podemos por você. Ela: Boa sorte em suas viagens.}
 {183}{}{Adeus!}
-{184}{}{Her: Dave? The computer guy? Him: Ha ha! What a loser! Vikki is mine, all mine - no way he'll... excuse me, this is negative energy I'm channeling. I must have fouled my neurodynes. Her: [whispers to you] I think Dave's a cutie, but nothing can happen while Juan is around. Him: Whew. Neurodyne is all clear again.}
-{185}{}{Well, I have more questions.}
-{186}{}{That's all. Bye.}
-{187}{}{Her: That wasn't so bad, was it? Him: Now just go talk to AHS-7 and we'll be comrades in Hubology! Her: I'm so excited! Him: Getting new recruits makes me horny. Her: Oh, honey... Him: Oh, baby...}
-{188}{}{I'll just come back later.}
-{189}{}{Him: Too bad. Her: You're committed now.}
-{190}{}{-DONE-}
-{191}{}{Him: You made a life-altering decision. Her: And sadly, it was the wrong one. Both: Guards! Guards!}
+{184}{}{Ela: Dave? O cara da informática? Ele: Ha ha! Que perdedor! Vikki é minha, toda minha - de jeito nenhum ele vai... me perdoe, isso é energia negativa que estou canalizando. Eu devo ter sujado meus neurodynos. Ela: [sussurra para você] Eu acho que Dave é um fofo, mas nada pode acontecer enquanto Juan estiver por perto. Ele: Ufa. Meus neurodynos estão limpos novamente.}
+{185}{}{Bem, eu tenho mais perguntas.}
+{186}{}{Isso é tudo. Tchau.}
+{187}{}{Ela: Isso não foi tão ruim, foi? Ele: Agora vá falar com o AHS-7 e nós seremos companheiros na Hubologia! Ela: Estou tão animada! Ele: Conseguir novos recrutas me deixa com tesão. Ela: Oh, doçura... Ele: Oh, querida...}
+{188}{}{Eu volto mais tarde.}
+{189}{}{Ele: Que pena. Ela: Você está comprometido agora.}
+{190}{}{-FEITO-}
+{191}{}{Ele: Você fez uma escolha que vai mudar a sua vida. Ela: Infelizmente, foi a escolha errada. Ambos: Guardas! Guardas!}
 {192}{}{Porra.}
-{193}{}{Him: Greetings,}
-{194}{}{So what do I do now that I'm an Hubologist?}
-{195}{}{How can I hook up with you guys?}
-{196}{}{That's pretty much all I wanted. So long!}
+{193}{}{Ele: Saudações,}
+{194}{}{Então o que eu faço agora que sou um Hubologista?}
+{195}{}{Como faço para me juntar a vocês?}
+{196}{}{Isso era tudo que eu queria. Até logo!}
 {197}{}{}
 {198}{}{}
-{199}{}{Him: You could talk to Harry Rocket on the surface. Maybe he needs some help. Her: Or you could talk to AHS-7 or AHS-9. They usually have ideas. Him: Or you could watch the PrayScreen. Her: Or you could cause mischief among the enemies of the Wheel.}
-{200}{}{Thanks. How do I hook up with you guys?}
-{201}{}{Thanks. That's all I wanted to know.}
-{202}{}{Her: As sad as it is - because the Star Father knows you're a cutie - we probably shouldn't. Him: But we're both flattered! Her: Maybe sometime we can all go to New Reno and make a film together.}
-{203}{}{Oh, all right. What else is there to do as a Hubologist?}
-{204}{}{Oh, all right. So long.}
-{205}{}{Her: Lying is bad for your neurodynes. Him: That's right. Her: That's why I have to be honest and say I don't find you attractive. Him: But we still love you as a fellow follower of the Hub!}
-{206}{}{Gee, thanks. So what else is there to do as a Hubologist?}
-{207}{}{Whatever. [mutter] jerks.}
-{208}{}{Greetings, new recruits!}
-{209}{}{I'm Vikki Goldman!}
-{210}{}{And I'm Juan Cruz!}
-{211}{}{We're celebrities, as you already know.}
-{212}{}{We think Hubology is the way to go.}
-{213}{}{We KNOW Hubology is the way to go.}
-{214}{}{I can fry bugs with my brain power!}
-{215}{}{I look good in tinfoil hats!}
-{216}{}{Maybe if you work hard at optimizing yourself, you can associate with us.}
-{217}{}{We'd certainly like that.}
-{218}{}{Yes. We're always looking for friends...}
-{219}{}{... as long as they are willing to optimize themselves.}
-{220}{}{And are as high ranking as we are.}
-{221}{}{We're AHS-5.}
-{222}{}{You can be AHS-5 someday.}
-{223}{}{If you donate lots of money, you can be AHS-5 even faster.}
-{224}{}{But don't think we only want you for the money.}
-{225}{}{No, we want to HELP you.}
-{226}{}{And that's what Hubology is all about.}
-{227}{}{[applause]}
-{228}{}{. I hope your enlightenment is going well. Her: We do have such... large... hopes for you.}
-{229}{}{Lesson 1: Here we have eternity, the Great Wheel. [points at something] And here is where we are. [points at something] Now all we have to do is walk really far and meet our starry brethren there.}
-{230}{}{Man, we're going to need a lot of shoes.}
+{199}{}{Ele: Você poderia falar com Harry Foguete na superfície. Talvez ele precise de ajuda. Ela: Ou você poderia falar com o AHS-7 ou o AHS-9. Eles geralmente têm idéias. Ele: Ou você pode assistir ao Cine-Oração. Ela: Ou você poderia causar discórdia entre os inimigos da Grande Roda.}
+{200}{}{Agradeço. Como eu faço para me unir a vocês?}
+{201}{}{Obrigado. Isso é tudo que eu queria saber.}
+{202}{}{Ela: Por mais triste que seja - porque o Pai Estrela sabe que você é uma gracinha - nós provavelmente não deveríamos. Ele: Mas estamos ambos lisonjeados. Ela: Talvez outra hora nós poderíamos ir todos até New Reno e filmar um filme juntos.}
+{203}{}{Ah, tudo certo. O que mais tem para fazer como um Hubologista?}
+{204}{}{Ah, tudo certo. Até logo.}
+{205}{}{Ela: Mentir faz mal para seus neurodynos. Ele: É verdade. Ela: É por isso que eu devo ser honesta e dizer que eu não te acho atraente. Ele: Porém mesmo assim nós te amamos como um colega seguidor do Hub!}
+{206}{}{Nossa, obrigado. Então o que mais tem para fazer como um Hubologista?}
+{207}{}{Que seja. [murmurando] babacas.}
+{208}{}{Saudações, novatos!}
+{209}{}{Eu sou Vikki Goldman!}
+{210}{}{E eu sou Juan Cruz!}
+{211}{}{Nós somos celebridades, como vocês sabem.}
+{212}{}{Nós achamos que a Hubologia é o caminho certo.}
+{213}{}{Nós SABEMOS que a Hubologia é o caminho certo.}
+{214}{}{Eu posso fritar insetos com minhas habilidades mentais!}
+{215}{}{Eu fico bem de chapéu de papel alumínio!}
+{216}{}{Talvez se você se esforçar em melhorar a si mesmo, você possa se associar à nós.}
+{217}{}{Com certeza nós gostaríamos disso.}
+{218}{}{Sim. Nós estamos sempre a procura de novos amigos...}
+{219}{}{... contanto que eles estejam dispostos a melhorar a si mesmos.}
+{220}{}{E tenham a classificação tão boa quanto a nossa.}
+{221}{}{Nós somos AHS-5.}
+{222}{}{Um dia você poderá tornar-se AHS-5 também.}
+{223}{}{Se você nos doar muito dinheiro, você poderá se tornar AHS-5 ainda mais rápido.}
+{224}{}{Mas não fique achando que só queremos você pelo seu dinheiro.}
+{225}{}{Não, nós queremos te AJUDAR.}
+{226}{}{E é disso que se trata a Hubologia.}
+{227}{}{[aplausos]}
+{228}{}{. Eu espero que vocês estejam aprendendo bem. Ela: Nós temos tantas... muitas... esperanças em vocês.}
+{229}{}{Lição 1: Aqui é onde está a eternidade, a Grande Roda. [aponta para algo] E aqui é onde nós estamos. [aponta para algo] Agora tudo que temos que fazer é uma longa jornada e nos unirmos aos nossos irmãos estrelados ao fim do caminho.}
+{230}{}{Cara, nós vamos precisar de muitos sapatos.}
 {231}{}{Him: Now just go talk to AHS-7 and we'll be comrades in Hubology! Her: I'm so excited! Him: Getting new recruits makes me horny. Her: Oh, honey... Him: Oh, baby...}

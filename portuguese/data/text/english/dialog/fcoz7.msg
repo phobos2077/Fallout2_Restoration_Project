@@ -125,7 +125,7 @@
 {224}{}{Oh yes.}
 {225}{}{Nope. Don't want to right now.}
 {226}{}{Lesson 1: Here we have eternity. Over here is where Quetzel is. [points at something] And here is where we are. [points at something] Now all we have to do is walk really far to get there.}
-{227}{}{Man, we're going to need a lot of shoes.}
+{227}{}{Cara, nós vamos precisar de muitos sapatos.}
 {228}{}{Can I still think about it?}
 {229}{}{You again? What?}
 {230}{}{Is there anything else you need me to do?}
