@@ -78,7 +78,7 @@
 {225}{}{Eh, ¿para qué están los amigos?}
 {226}{}{Adiós.}
 {227}{}{Información no tengo.}
-{228}{}{¿De verdad? ¿Ni siquiera de por qué el alcohol de Becky es mucho más barato que el tuyo?}
+{228}{}{¿De verdad? ¿Ni siquiera por qué el alcohol de Becky es mucho más barato que el tuyo?}
 {229}{}{Pensaba que los camareros lo sabían todo.}
 {230}{}{Entonces estoy en el lugar equivocado. Adiós.}
 {231}{}{Ve a hablar con Sheila. Eh, Sheila, ¡tienes un cliente!}
