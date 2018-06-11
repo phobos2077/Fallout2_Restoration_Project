@@ -163,8 +163,8 @@
 {547}{}{¿}
 {548}{}{¡Vamos! }
 {549}{}{Recuerda, vigila la espalda de tus compañeros y mata sólo a los esclavos hostiles. Aquí tienes }
-{550}{}{¡Sólo }
-{551}{}{¿Quieres ganar algo o no? Me estás cabreando. ¿Cómo puede ser de difícil? Ahora toma tus }
+{550}{}{¡Sólo $}
+{551}{}{¿Quieres ganar algo o no? Me estás cabreando. ¿Cómo puede ser de difícil? Ahora toma tus $}
 {552}{}{¿Qué cojones de problema has tenido? No has ganado una mierda esta vez. Estamos en esto para hacer dinero, no para ir haciendo el idiota.}
 {553}{}{Lo haré mejor la próxima vez.}
 {554}{}{Gracias por nada.}
@@ -245,7 +245,7 @@
 {1364}{}{.}
 {1365}{}{?}
 {1496}{}{.}
-{1540}{}{ dólares. Un gran trabajo, joder.}
+{1540}{}{. Un gran trabajo, joder.}
 {1541}{}{ dólares. Has estado genial. Sigue así.}
 {1542}{}{.}
 {1543}{}{. }
@@ -259,4 +259,4 @@
 {1551}{}{ dólares y fuera de aquí.}
 {2540}{}{.}
 {2543}{}{.}
-{15401}{}{ dólares. Un gran trabajo, }
+{15401}{}{. Un gran trabajo, }
