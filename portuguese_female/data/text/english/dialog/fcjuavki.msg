@@ -129,4 +129,4 @@
 {228}{}{. Eu espero que vocês estejam aprendendo bem. Ela: Nós temos tantas... muitas... esperanças em vocês.}
 {229}{}{Lição 1: Aqui é onde está a eternidade, a Grande Roda. [aponta para algo] E aqui é onde nós estamos. [aponta para algo] Agora tudo que temos que fazer é uma longa jornada e nos unirmos aos nossos irmãos estrelados ao fim do caminho.}
 {230}{}{Cara, nós vamos precisar de muitos sapatos.}
-{231}{}{Him: Now just go talk to AHS-7 and we'll be comrades in Hubology! Her: I'm so excited! Him: Getting new recruits makes me horny. Her: Oh, honey... Him: Oh, baby...}
+{231}{}{Ele: Agora vá falar com AHS-7 e nós seremos companheiros de Hubologia! Ela: Estou tão empolgada! Ele: Conseguir novos recrutas me deixa com tesão. Ela: Oh, docinho. Ele: Oh, querida...}
