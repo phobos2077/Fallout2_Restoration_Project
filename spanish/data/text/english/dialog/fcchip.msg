@@ -42,7 +42,7 @@
 {141}{}{Me enteré de dónde está, pero creo que el doctor Wong se lo ha comido.}
 {142}{}{No, aún no. Pero lo haré.}
 {143}{}{No. En realidad no lo estoy buscando.}
-{144}{}{Está bien. ::jadea:: Antes de nada, quizá deberíamos buscar una forma de reponérmelo. Habla sobre ello con el doctor Fung, ¿de acuerdo? Gracias.}
+{144}{}{Está bien. ::jadea:: Antes de nada, quizá deberíamos buscar una forma de reponérmelo. Habla sobre ello con el Doctor Fung, ¿de acuerdo? Gracias.}
 {145}{}{De acuerdo.}
 {146}{}{No.}
 {147}{}{Agradezco de veras lo que estás haciendo por mí. No lo olvidaré.}

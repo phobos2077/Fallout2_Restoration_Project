@@ -57,7 +57,7 @@
 {156}{}{Sí, lo habrías hecho. De todos modos, tengo que volver a esto.}
 {157}{}{Espera. Tengo más preguntas.}
 {158}{}{Gracias. Nos vemos.}
-{159}{}{Creo que ahora me gustas lo suficiente como para que pueda hacerlo para ti. ¿A quién quieres que visite?}
+{159}{}{Creo que ahora me gustas lo suficiente como para que pueda hacerlo por ti. ¿A quién quieres que visite?}
 {160}{}{A los Hubologistas.}
 {161}{}{A los Shi.}
 {162}{}{A ninguno. Sólo quería asegurarme.}

@@ -2,5 +2,5 @@
 {101}{}{Ves a un forastero misterioso.}
 {102}{}{Os ayudaré.}
 {103}{}{No hablo mucho.}
-{104}{}{Parece que necesitáis algo de ayuda.}
+{104}{}{Parece que podrías usar algo de asistencia.}
 {105}{}{¡A bailar!}

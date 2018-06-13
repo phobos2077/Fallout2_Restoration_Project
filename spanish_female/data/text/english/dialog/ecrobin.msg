@@ -1,5 +1,5 @@
 {100}{}{Ves a un hombre con servoarmadura.}
-{101}{}{Es Sir Robin.}
+{101}{}{Este es el Sr Robin.}
 {102}{}{Parece que está listo para huir.}
 {103}{}{Sir Robin, a vuestro servicio.}
 {104}{}{No vais a tratar de herirme, ¿verdad?}
