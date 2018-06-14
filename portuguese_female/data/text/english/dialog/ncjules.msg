@@ -441,7 +441,7 @@
 {1470}{}{He's this dumb sonuvabitch up on 2nd Street, north of here. You can't miss him...his face is all scarred up. The
  fool was flying on Jet one night and tried to shave with a combat knife. Sad part is, it didn't KILL 'im.}
 {1471}{}{And Renesco? Where can I find him?}
-{1473}{}{Got it. Thanks.}
+{1473}{}{Entendi. Obrigado.}
 {1485}{}{He's this old cracker who runs a pharmacy on Commercial Row...go up a few streets north, make a left where Salvatore's
  and the Bishop casino meet, then keep heading down that street. It's on the right.}
 {1486}{}{And "Jagged Jimmy J?" Where can I find him?}

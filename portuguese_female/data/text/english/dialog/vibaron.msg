@@ -33,7 +33,7 @@
 {282}{}{Is there *any* way I could get you to change your mind?}
 {290}{}{You're not kidding, are you? Hmm, I suppose it couldn't hurt to take a little detour over there now and then. Hell, it's hardly even out of my way. Thanks for the tip, friend.}
 {291}{}{No problem. See ya.}
-{292}{}{Yep. Bye.}
+{292}{}{É. Tchau.}
 {300}{}{[He seems to consider your question.] Perhaps . . . exactly what are we talking here?}
 {301}{}{You make that village a regular stop on your route, and in return, I'll pay you $500.}
 {302}{}{You make that village a regular stop on your route, and in return, I'll do my part to ensure nothing "unfortunate" happens to your caravan.}

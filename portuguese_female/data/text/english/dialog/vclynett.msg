@@ -794,7 +794,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
  this, Citizen. THAT problem I can take care of immediately.}
 {788}{}{About the NCR problem... is there anything I could do to help?}
 {789}{}{That's good to hear. Anyway, for finding out all that stuff about Reno and NCR, I was wondering if there was a rew -- }
-{790}{}{Guards!}
+{790}{}{Guardas!}
 {791}{}{Please go see the Proconsul. He will have what you need.}
 {792}{}{Please go see Senior Councilman McClure. He will have what you need.}
 {793}{}{Please go see my assistant. He will have what you need.}
@@ -817,7 +817,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {810}{}{I don't want that.}
 {811}{}{Obrigado.}
 {812}{}{Thanks for your time.}
-{813}{}{Guards!}
+{813}{}{Guardas!}
 {814}{}{I love Scott Rodenhiser.}
 {815}{}{My little dreadlocks are cute.}
 {816}{}{T-Ray thinks a little too highly of himself.}
@@ -900,6 +900,6 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {882}{}{Thank you, First Citizen.}
 {883}{}{Uh, it was my mistake... I didn't mean to say --}
 {884}{}{My apologizes, First Citizen. I --}
-{885}{}{Guards!}
+{885}{}{Guardas!}
 {1663}{}{They were holed up in a series of caves in the foothills to the South. I convinced their guide to not help them anymore. Without him, they will be unable to find their way through the mountains.}
 {1708}{}{They were holed up in a series of caves in the foothills to the South. I convinced their guide to not help them anymore. Without him, they will be unable to find their way through the mountains.}

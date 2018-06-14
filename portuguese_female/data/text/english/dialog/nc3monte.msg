@@ -220,7 +220,7 @@
 {513}{}{Nevermind then, Monte. I'm outta here.}
 {515}{}{Thaaaat's about right. (Grins evilly.) Look, you ain't heard it from me, but if I was you, I'd check out the basement of the Desperado on Virgin Street. There's a lot of "rats" there, if you catch my drift.}
 {516}{}{I had some other questions…}
-{517}{}{Got it. Thanks.}
+{517}{}{Entendi. Obrigado.}
 {520}{}{(Shrugs) Maybe I know something about that, maybe I don't. Tell me a price and I might have something to say.}
 {521}{}{All right…talk a price.}
 {522}{}{How about a thousand chips? I got it with me.}

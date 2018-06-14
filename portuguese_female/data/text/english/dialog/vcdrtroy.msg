@@ -355,6 +355,6 @@
 {394}{}{Do you know anything about dermal implants?}
 {395}{}{Much better. I had some questions for you...}
 {396}{}{Great. Thanks, Doctor.}
-{397}{}{Guards!}
+{397}{}{Guardas!}
 {398}{}{Zzzzzzz.}
 {399}{}{You explain to Dr. Troy about the manufacturing process of Jet.}

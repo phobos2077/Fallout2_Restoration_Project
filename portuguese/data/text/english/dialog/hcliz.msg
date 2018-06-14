@@ -17,7 +17,7 @@
 {115}{}{Speak slowly and clearly and I'll see if I can help you.}
 {116}{}{Nn! Stuff! Me!}
 {117}{}{Dood bye!}
-{118}{}{You want to buy something?}
+{118}{}{Você quer comprar algo?}
 {119}{}{Sim!}
 {120}{}{No no no.}
 {121}{}{All right. What do you want?}

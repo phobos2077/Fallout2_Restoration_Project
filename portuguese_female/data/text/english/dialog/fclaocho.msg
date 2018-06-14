@@ -1,28 +1,28 @@
-{100}{}{You see a man who looks much like a shopkeeper.}
-{101}{}{You see Lao Chou, the shopkeeper.}
-{102}{}{You see a man in functional, comfortable clothing.}
-{103}{}{Greetings! Welcome to my shop, Flying Dragon 8.}
+{100}{}{Você vê um homem que se parece muito com um lojista.}
+{101}{}{Você vê Lao Chou, o lojista.}
+{102}{}{Você vê um homem em roupas funcionais e confortáveis.}
+{103}{}{Saudações! Bem vindo à minha loja, Flying Dragon 8.}
 {104}{}{O que posso fazer por você?}
 {105}{}{Da aggle oo!}
-{106}{}{Stuff!}
+{106}{}{Coisas!}
 {107}{}{Quem é você?}
-{108}{}{I'm looking for some equipment.}
-{109}{}{I'm looking for some information.}
+{108}{}{Estou procurando por algum equipamento.}
+{109}{}{Estou procurando por alguma informação.}
 {110}{}{Adeus.}
-{111}{}{You want to buy something?}
-{112}{}{::nod head::}
-{113}{}{::shake head::}
-{114}{}{This is what we have, then.}
+{111}{}{Você quer comprar algo?}
+{112}{}{:: acene com a cabeça ::}
+{113}{}{::balançar a cabeça::}
+{114}{}{Isso é o que temos, então.}
 {115}{}{[FEITO]}
 {116}{}{Bem, temo que é tudo que posso fazer por você. Tenha um bom dia. }
 {117}{}{[FEITO]}
-{118}{}{Eu sou Lao Chou. Eu dirijo este estabelecimento, Dragão Voador 8, uma loja geral. Eu sou conhecido por comerciar in... informação.}
+{118}{}{Eu sou Lao Chou. Eu dirijo este estabelecimento, Flying Dragon 8, uma loja geral. Eu sou conhecido por trocar ... informação.}
 {119}{}{Que tipo de informação?}
-{120}{}{I see. I'd like some equipment.}
-{121}{}{Little happens in this town that I do not know about. Of course, you must know the right question to ask, yes? What do you need to know?}
-{122}{}{I'm looking for some upgrades to my equipment.}
-{123}{}{Where can I find vertibird plans?}
-{124}{}{I need to find fuel for the PMV Valdez.}
+{120}{}{Entendo. Eu gostaria de algum equipamento.}
+{121}{}{Pouco acontece nesta cidade que eu não conheço. Claro, você deve saber a pergunta certa a se fazer, sim? O que você precisa saber?}
+{122}{}{Estou procurando algumas atualizações no meu equipamento.}
+{123}{}{Onde posso encontrar planos de vertibird?}
+{124}{}{Eu preciso encontrar combustível para o PMV Valdez.}
 {125}{}{I understand I need a FOB to access the Valdez' computer.}
 {126}{}{I need some computer parts for the PMV Valdez.}
 {127}{}{I'm looking for a spleen.}
@@ -73,8 +73,8 @@
 {172}{}{You are an enemy of my people. Die!}
 {173}{}{You have performed well for my people in slaying AHS-9. I hope that I can be of assistance to you in some way.}
 {174}{}{Quem é você?}
-{175}{}{I'm looking for some equipment.}
-{176}{}{I'm looking for some information.}
+{175}{}{Estou procurando por algum equipamento.}
+{176}{}{Estou procurando por alguma informação.}
 {177}{}{Adeus.}
 {178}{}{You have already given them to the Hubologists. No?}
 {179}{}{Oh yeah...ah...Can I ask something else?}

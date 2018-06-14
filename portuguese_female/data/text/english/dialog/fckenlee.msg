@@ -59,73 +59,74 @@
 {158}{}{Certamente você deve me dar mais crédito do que isso. Eu sei como funciona o "biz". Eu já viajei para New Reno antes.}
 {159}{}{Certo, meu nome é }
 {160}{}{Esse é o meu nome verdadeiro! Agora deixe-me falar com o Imperador!}
-{161}{}{Excellent. This is what I require of you: there is a small military base north of here, called Navarro. There are numerous vertibirds there. We need plans and blueprints to manufacture some of our own. Fetch those and you will be on your way to seeing the Emperor.}
+{161}{}{Excelente. Isto é o que eu preciso de você: há uma pequena base militar ao norte daqui, chamada Navarro. Existem muitos vertibirds lá. Precisamos de planos e projetos para fabricar alguns para nós. Busque alguns projetos e você estará no seu caminho para ver o Imperador.}
 {162}{}{Você tem isso.}
 {163}{}{Esqueça.}
-{164}{}{Will you reconsider taking our test?}
+{164}{}{Você vai reconsiderar fazer o nosso teste?}
 {165}{}{Não.}
-{166}{}{Oh, all right. I'll do it.}
-{167}{}{Lost villagers? I have heard nothing of this. Perhaps the Emperor would know of them.}
+{166}{}{Ah, tudo bem. Eu faço isso.}
+{167}{}{Aldeões perdidos? Eu não ouvi nada disso. Talvez o Imperador soubesse deles.}
 {168}{}{Eu tenho mais perguntas.}
 {169}{}{Obrigado. Tchau.}
-{170}{}{You must complete a second test: the Hubologists are our enemies. Their leader, AHS-9, has been abducting and brainwashing our children. Kill him for the good of the Shi and I shall tell you how to speak to the Emperor.}
-{171}{}{He's as good as dead.}
+{170}{}{Você deve completar um segundo teste: os Hubologistas são nossos inimigos. O líder deles, o AHS-9, está sequestrando e fazendo lavagem cerebral em nossos filhos. Mate-o pelo bem do Shi e eu lhe direi como falar com o Imperador.}
+{171}{}{Ele é tão bom quanto morto.}
 {172}{}{Não, eu não penso assim.}
-{173}{}{No? It saddens me, but I understand. Best of luck in your quest. If you change your mind, you know where to reach me.}
-{174}{}{Sure do. I have more questions.}
-{175}{}{Yep. Bye.}
-{176}{}{I am anxious to see the result of your attempt. Good day.}
+{173}{}{Não? Isso me entristece, mas eu entendo. Boa sorte em sua missão. Se você mudar de ideia, sabe onde me encontrar.}
+{174}{}{Claro que sim. Eu tenho mais perguntas.}
+{175}{}{É. Tchau.}
+{176}{}{Estou ansioso para ver o resultado da sua tentativa. Tenha um bom dia.}
 {177}{}{Bom dia.}
-{178}{}{Berating someone? Any fool who had done their research can see that the very basis of Shi-town is the wreckage of this submarine. It seems fruitless to argue with those who would say otherwise.}
+{178}{}{Repreendendo alguém? Qualquer tolo que tenha feito sua pesquisa pode ver que a base da cidade de Shi é o destroço desse submarino. Parece infrutífero argumentar com aqueles que diriam o contrário.}
 {179}{}{That's very even-tempered of you.}
-{180}{}{It certainly is. And I deal with these people on a daily basis. Alas!}
+{180}{}{Certamente é. E eu lido com essas pessoas diariamente. Ai de mim!
+}
 {181}{}{Bem, eu tenho mais perguntas.}
-{182}{}{Yeah, poor you. Bye.}
-{183}{}{You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find the force field to the large computer has been turned off.  Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer.  The Emperor will be able to direct our fuel to where you need it.}
+{182}{}{É, coitado de você. Tchau.}
+{183}{}{Você é certamente um destinatário digno do nosso combustível. Eu acredito que posso confiar em você com nossos segredos. Na sala de trás, você descobrirá que o campo de força para o grande computador foi desligado. Digite a senha "CSPDMSHR-Shih-huang-ti-X9372" e você estará conectado ao Computador do Imperador. O Imperador será capaz de direcionar nosso combustível para onde você precisar.}
 {184}{}{Obrigado.}
-{185}{}{Guards! The enemy is among us! Guards!}
-{186}{}{Have they really? Perhaps you would like to turn the tables on them? I can promise you our aid if you will agree to kill AHS-9. }
-{187}{}{He's as good as dead.}
+{185}{}{Guardas! O inimigo está entre nós! Guardas!}
+{186}{}{Sério? Talvez você gostaria de virar a mesa sobre eles? Eu posso te prometer nossa ajuda se você concordar em matar o AHS-9.}
+{187}{}{Ele é tão bom quanto morto.}
 {188}{}{Não.}
-{189}{}{Excellent. I hope to hear of your success soon.}
-{190}{}{You will. I have more questions.}
-{191}{}{You will. Bye.}
-{192}{}{Then in that case, you can only be an enemy. Good day.}
+{189}{}{Excelente. Espero ouvir o seu sucesso em breve.}
+{190}{}{Você irá. Eu tenho mais perguntas.}
+{191}{}{Você irá. Até mais.}
+{192}{}{Então, nesse caso, você só pode ser um inimigo. Tenha um bom dia.}
 {193}{}{Bom dia.}
-{194}{}{With the death of AHS-9, the Great and Terrible, the Hubologists pose no real threat to us and our researches. Well done. You have our gratitude. Would you like to speak to the Emperor?}
+{194}{}{Com a morte de AHS-9, o Grande e Terrível, os Hubologistas não representam uma ameaça real para nós e nossas pesquisas. Bom trabalho. Você tem a nossa gratidão. Você gostaria de falar com o imperador?}
 {195}{}{Sim.}
-{196}{}{Not right now. I have other questions, though.}
-{197}{}{You have proven yourself to be a friend to the Shi. I believe I can trust you with our secrets. In the back room, you will find the forcefield to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. I hope this will prove useful to you.}
-{198}{}{The Emperor is a COMPUTER?}
-{199}{}{Got it. Thanks.}
-{200}{}{Yes. It stores our history, our research, and projects possibilities for the future. It is far better than any fallible human- yet we temper its suggestions with our own knowledge of human nature.}
-{201}{}{I ... see. Well, thanks for your time.}
-{202}{}{Our spies report that you have given the vertibird plans to the Hubologists. Steal them for us and you shall be rewarded.}
-{203}{}{You got it. I have some questions.}
+{196}{}{Agora não. Aliás, eu tenho outras perguntas.}
+{197}{}{Você provou ser um amigo do Shi. Eu acredito que posso confiar nossos segredos em você. Na sala dos fundos, você descobrirá que o campo de força do grande computador foi desligado. Digite a senha "CSPDMSHR-Shih-huang-ti-X9372" e você estará conectado ao Computador do Imperador. Espero que isso seja útil para você.}
+{198}{}{O Imperador é um COMPUTADOR?}
+{199}{}{Entendi. Obrigado.}
+{200}{}{Sim. Ele armazena nossa história, nossa pesquisa e projeta possibilidades para o futuro. É muito melhor do que qualquer humano falível - ainda assim temperamos suas sugestões com nosso próprio conhecimento da natureza humana.}
+{201}{}{Eu... entendo. Bem, obrigado pelo seu tempo.}
+{202}{}{Nossos espiões relatam que você deu os planos dos vertibird aos Hubologistas. Roube-os para nós e você será recompensado.}
+{203}{}{Você entendeu. Eu tenho algumas questões.}
 {204}{}{De maneira nenhuma.}
-{205}{}{Thank you for the vertibird plans, traveler. What can I do for you?}
-{206}{}{I have questions.}
-{207}{}{Um... Nothing.}
-{208}{}{Once you have obtained the vertibird plans, give them to Dr. Wong Yi Tze. He will put them to good use.}
-{209}{}{Okay. I have other questions.}
+{205}{}{Obrigado pelos planos dos vertibird, viajante. O que posso fazer por você?}
+{206}{}{Eu tenho perguntas.}
+{207}{}{Ahn... Nada.}
+{208}{}{Depois de obter os planos do vertibird, entregue-os ao Dr. Wong Yi Tze. Ele os colocará em bom uso.}
+{209}{}{Certo. Eu tenho outras perguntas.}
 {210}{}{Tudo bem. Tchau.}
-{211}{}{. I'd like to see the Emperor.}
+{211}{}{. Eu gostaria de ver o imperador.}
 {212}{}{.}
-{213}{}{Remember, you must take the plans to Dr. Wong Yi Tze.}
-{214}{}{You are back to insult me again.  I think not.}
-{215}{}{As I have explained, I will need to know your name.}
-{216}{}{All right, it's}
-{217}{}{Forget it, you idiot!}
-{218}{}{Remember, the Emperor awaits the death of AHS-9.}
-{219}{}{I am sorry. But I cannot offer what fuel we have to you. Perhaps if you were to speak to the Emperor?}
-{220}{}{How do I do that?}
-{221}{}{Can I just ask another question?}
-{222}{}{I wish I were able to offer you our fuel, but unfortunately our stores are empty. They have been diverted by some means to the Hubologists. It is possible that you would be able to find someone to divert it back.}
-{223}{}{Can I see the Emperor now?}
-{224}{}{I respectfully remind you that unless you have given the vertibird plans to Dr. Wong Yi Tze, I cannot grant you access to the Emperor. I hope you understand.}
-{500}{}{Leave immediately, or I will call the guards.}
-{501}{}{Leave now. This is your second warning.}
-{502}{}{This is your last warning.}
-{503}{}{Guards!}
+{213}{}{Lembre-se, você deve levar os planos ao Dr. Wong Yi Tze.}
+{214}{}{Você retorna a me insultar. Eu acho que não.}
+{215}{}{Como expliquei, precisarei saber seu nome.}
+{216}{}{Está bem, é }
+{217}{}{Esqueça, seu idiota!}
+{218}{}{Lembre-se, o imperador aguarda a morte de AHS-9.}
+{219}{}{Sinto muito. Mas não posso oferecer o combustível que temos para você. Talvez se você fosse falar com o imperador?}
+{220}{}{Como eu faço isso?}
+{221}{}{Posso apenas fazer outra pergunta?}
+{222}{}{Eu gostaria de poder oferecer nosso combustível, mas infelizmente nossas lojas estão vazias. Eles foram desviados por alguns meios para os hubologistas. É possível que você seja capaz de encontrar alguém para desviá-lo de volta.}
+{223}{}{Posso ver o Imperador agora?}
+{224}{}{Eu respeitosamente lembro a você que, a menos que você tenha dado os planos vertibirdes para o Dr. Wong Yi Tze, eu não posso lhe conceder acesso ao Imperador. Espero que entenda.}
+{500}{}{Saia imediatamente ou chamarei os guardas.}
+{501}{}{Saia agora. Este é o seu segundo aviso.}
+{502}{}{Este é seu último aviso.}
+{503}{}{Guardas!}
 {1430}{}{O Imperador permanece escondido dos olhos curiosos. É meu trabalho agir como a tela do Imperador. No entanto, você provou ser um amigo do Shi. Creio que posso confiar nossos segredos em você. Na sala dos fundos, você descobrirá que o campo de força do grande computador foi desligado. Digite a senha "CSPDMSHR-Shih-huang-ti-X9372" e você estará conectado ao Computador do Imperador. Espero que isso seja útil para você.}
-{2001}{}{I ... see. Well, thanks for your time. I have a village to rescue.}
+{2001}{}{Eu... entendo. Bem, obrigado pelo seu tempo. Eu tenho um vilarejo para salvar.}

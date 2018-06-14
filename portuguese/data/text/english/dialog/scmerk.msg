@@ -30,7 +30,7 @@
 {129}{}{I'm looking for work.}
 {130}{}{Informed sources say you're the man to see about doing business, if you know what I mean.}
 {131}{}{They say you're the man who ripped off my car.}
-{132}{}{I'm looking for some information.}
+{132}{}{Estou procurando por alguma informação.}
 {133}{}{Some say you might know a thing or two about, oh say, stuff missing from cars.}
 {134}{}{You again? So's the job done?}
 {135}{}{Glub.}

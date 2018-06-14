@@ -87,7 +87,7 @@
 {186}{}{I'd rather not.}
 {187}{}{I was not aware I had made it a request, child. Kill him!}
 {188}{}{Não.}
-{189}{}{Oh, all right. I'll do it.}
+{189}{}{Ah, tudo bem. Eu faço isso.}
 {190}{}{You disobey the commands of AHS-9, the Great and Terrible? Then you shall die.}
 {191}{}{Bring it on.}
 {192}{}{Wait, I changed my mind.}
