@@ -23,8 +23,8 @@
 {122}{}{Estou procurando algumas atualizações no meu equipamento.}
 {123}{}{Onde posso encontrar planos de vertibird?}
 {124}{}{Eu preciso encontrar combustível para o PMV Valdez.}
-{125}{}{I understand I need a FOB to access the Valdez' computer.}
-{126}{}{I need some computer parts for the PMV Valdez.}
+{125}{}{Eu entendo que preciso de um FOB para acessar o computador do Valdez.}
+{126}{}{Eu preciso de algumas peças de computador para o PMV Valdez.}
 {127}{}{I'm looking for a spleen.}
 {128}{}{I hear some flying machines brought a load of villagers down this way.}
 {129}{}{Nada. Tchau.}
