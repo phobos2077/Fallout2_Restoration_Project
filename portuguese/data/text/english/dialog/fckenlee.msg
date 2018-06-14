@@ -41,7 +41,7 @@
 {140}{}{Insultos não o levarão a parte alguma, viajante, a não ser para fora do Palácio de Aço. Por favor, controle sua língua.}
 {141}{}{Me obrigue.}
 {142}{}{Bem.}
-{143}{}{The Emperor remains hidden from prying eyes. As my job is to act as the Emperor's screen, I cannot and will not tell you where he is.}
+{143}{}{O imperador permanece escondido dos olhos intrometidos. Como meu trabalho é agir como o escudo do Imperador, não posso e não vou lhe dizer onde ele está.}
 {144}{}{Eu tenho mais perguntas.}
 {145}{}{Adeus.}
 {146}{}{We do research that will change the world. For more answers to your questions, you should seek out Dr. Wong Yi Tze. }
