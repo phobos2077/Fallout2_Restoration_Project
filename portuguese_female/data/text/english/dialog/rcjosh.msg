@@ -7,7 +7,7 @@
 {106}{}{Go on now. Git, ya dang idjit!}
 {107}{}{Get out before you mess up the floor.}
 {108}{}{Hello there, friend. Name's Josh Laurance. I own this place.}
-{109}{}{What can I do for you?}
+{109}{}{O que posso fazer por você?}
 {110}{}{What is this place, exactly?}
 {111}{}{I'd like to buy a drink.}
 {112}{}{I'd like to buy a round for everyone here.}

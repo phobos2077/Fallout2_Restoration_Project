@@ -1,45 +1,45 @@
-{100}{}{You see a stocky Shi man who looks like he's full of knowledge.}
-{101}{}{You see Ken Lee, advisor to the Emperor.}
-{102}{}{You see a stocky Shi man wearing glasses and a half-smile.}
-{103}{}{What would you like, friend?}
+{100}{}{Você vê um homem atarracado dos Shi que aparentemente possui muito conhecimento.}
+{101}{}{Você vê Ken Lee, conselheiro do Imperador.}
+{102}{}{Você vê um homem atarracado dos Shi usando óculos e com um meio sorriso no rosto.}
+{103}{}{O que você gostaria, amigo?}
 {104}{}{O que você quer?}
-{105}{}{What can I do for you?}
-{106}{}{You?}
+{105}{}{O que posso fazer por você?}
+{106}{}{Você?}
 {107}{}{Quem é você?}
 {108}{}{O que é este lugar?}
-{109}{}{I'm looking for some lost villagers.}
-{110}{}{I am in need of fuel.}
-{111}{}{I would like to speak to the Emperor.}
-{112}{}{The Hubologists have assigned me to kill the Emperor.}
-{113}{}{Nothing. Thanks. Bye.}
-{114}{}{I am Ken Lee, advisor to the Emperor. And you, my friend, appear to be simpleminded, so remember this: if you seek the Enclave, then you must take the Poseidon tanker to it. You'll need fuel for the tanker. You have my blessing.}
+{109}{}{Eu estou procurando por alguns aldeões desaparecidos.}
+{110}{}{Eu preciso de combustível.}
+{111}{}{Eu gostaria de falar com o Imperador.}
+{112}{}{Os Hubologistas me enviaram para matar o Imperador.}
+{113}{}{Nada. Obrigado. Tchau.}
+{114}{}{Eu sou Ken Lee, conselheiro do Imperador. E você, meu amigo, parece ser simplório, então lembre-se disso: se você procura pelo Enclave, então você deve navegar com o petroleiro até eles. Você precisará de combustível para o petroleiro. Você tem minha bênção.}
 {115}{}{Obrigado!}
-{116}{}{I am Ken Lee. I am the advisor to the Emperor. The Emperor advises me not to talk to you, and so I will not. Good day, fool.}
+{116}{}{Eu sou Ken Lee. Eu sou o conselheiro do Imperador. O Imperador me aconselhou a não falar com você, sendo assim eu não o farei. Tenha um bom dia, seu tolo.}
 {117}{}{Grrr!}
-{118}{}{Ahh, traveler, I cannot help you. Perhaps you can find the answer to your quest in another way. Good day.}
-{119}{}{Dood day!}
-{120}{}{I am Ken Lee. I am the advisor to the Emperor of the Shi. I bring forth the wisdom of the Emperor. And who are you?}
-{121}{}{I'd like to see the Emperor.}
-{122}{}{I am}
+{118}{}{Ahh, viajante, eu não posso te ajudar. Talvez você encontre as respostas para a sua jornada de outra maneira. Tenha um bom dia.}
+{119}{}{Mom dia!}
+{120}{}{Eu sou Ken Lee. Eu sou o conselheiro do Imperador dos Shi. Eu trago adiante a sabedoria do Imperador. E quem é você?}
+{121}{}{Eu gostaria de ver o Imperador.}
+{122}{}{Eu sou}
 {123}{}{You sound like an overgrown flunky to me.}
-{124}{}{No one important. Goodbye.}
-{125}{}{This is the Steel Palace of the Emperor. This is the heart of Shi-town.}
-{126}{}{And where is the Emperor?}
-{127}{}{What sort of research do you do here?}
-{128}{}{What's the history of the place?}
-{129}{}{I see. So long.}
-{130}{}{If you wish to see the Emperor then you must give me your own name.}
-{131}{}{Oh. Right. I'm}
-{132}{}{Sure. My name is}
+{124}{}{Ninguém importante. Tchau.}
+{125}{}{Esse é o Palácio de Aço do Imperador. Esse é o coração da cidade dos Shi.}
+{126}{}{E onde está o Imperador?}
+{127}{}{Que tipo de pesquisa vocês fazem aqui?}
+{128}{}{Qual a história daqui?}
+{129}{}{Entendo. Até mais.}
+{130}{}{Se você deseja ver o Imperador, então você deve me dizer o seu nome.}
+{131}{}{Ah. Tá certo. Eu sou}
+{132}{}{Certo. Meu nome é}
 {133}{}{Sim.}
 {134}{}{Esqueça.}
-{135}{}{Not everyone is granted a chance to see the Emperor. You must first prove your worth. Are you willing to prove yours?}
+{135}{}{Nem todo mundo tem a chance de se encontrar com o Imperador. Você deve primeiro provar o seu valor . Você está disposto para provar o seu?}
 {136}{}{Sim.}
-{137}{}{No. I've had enough tests in the last several months to last me a lifetime.}
-{138}{}{I do not believe the Emperor would like to see you. I have been told to forbid entrance to those who offend me or who reek of evil. You do both, traveler. Good day.}
+{137}{}{Não. Nos últimos meses eu tive testes o suficiente para durar uma vida inteira.}
+{138}{}{Eu não acho que o Imperador gostaria de te ver. Disseram-me para proibir a entrada daqueles que me ofendem ou que cheiram mal. Você faz as duas coisas, viajante. Passar bem.}
 {139}{}{[FEITO]}
-{140}{}{Insults will get you nowhere, traveler, except removed from the Steel Palace. Kindly control your tongue.}
-{141}{}{Make me.}
+{140}{}{Insultos não o levarão a parte alguma, viajante, a não ser para fora do Palácio de Aço. Por favor, controle sua língua.}
+{141}{}{Me obrigue.}
 {142}{}{Bem.}
 {143}{}{The Emperor remains hidden from prying eyes. As my job is to act as the Emperor's screen, I cannot and will not tell you where he is.}
 {144}{}{Eu tenho mais perguntas.}

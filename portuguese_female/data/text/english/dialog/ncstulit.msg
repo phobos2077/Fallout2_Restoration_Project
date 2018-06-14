@@ -119,7 +119,7 @@
 {420}{}{(Stuart nods.) }
 {421}{}{Awright, }
 {422}{}{… }
-{423}{}{What can I do for you?}
+{423}{}{O que posso fazer por você?}
 {424}{}{I'm looking to box. Can you help me out?}
 {430}{}{(Stuart nods and smiles as you approach.) Hey, hero! Heard about what you did. Congratulations. What's up?}
 {431}{}{(Stuart nods as you approach.) Heeeey, }

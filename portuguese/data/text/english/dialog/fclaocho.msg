@@ -2,7 +2,7 @@
 {101}{}{You see Lao Chou, the shopkeeper.}
 {102}{}{You see a man in functional, comfortable clothing.}
 {103}{}{Greetings! Welcome to my shop, Flying Dragon 8.}
-{104}{}{What can I do for you?}
+{104}{}{O que posso fazer por você?}
 {105}{}{Da aggle oo!}
 {106}{}{Stuff!}
 {107}{}{Quem é você?}
