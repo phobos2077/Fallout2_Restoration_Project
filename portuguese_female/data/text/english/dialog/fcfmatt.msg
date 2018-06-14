@@ -120,4 +120,4 @@
 {219}{}{Eu pensar sobre isso.}
 {220}{}{Nunca. Eu ir em bora.}
 {221}{}{Que diabos. Eu aceitar.}
-{222}{}{Okay. Go now.}
+{222}{}{Está bem. Agora vá.}

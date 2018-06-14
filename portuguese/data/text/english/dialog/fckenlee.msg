@@ -21,7 +21,7 @@
 {120}{}{Eu sou Ken Lee. Eu sou o conselheiro do Imperador dos Shi. Eu trago adiante a sabedoria do Imperador. E quem é você?}
 {121}{}{Eu gostaria de ver o Imperador.}
 {122}{}{Eu sou}
-{123}{}{You sound like an overgrown flunky to me.}
+{123}{}{Você soa como um grande parasita para mim.}
 {124}{}{Ninguém importante. Tchau.}
 {125}{}{Esse é o Palácio de Aço do Imperador. Esse é o coração da cidade dos Shi.}
 {126}{}{E onde está o Imperador?}
@@ -44,21 +44,21 @@
 {143}{}{O imperador permanece escondido dos olhos intrometidos. Como meu trabalho é agir como o escudo do Imperador, não posso e não vou lhe dizer onde ele está.}
 {144}{}{Eu tenho mais perguntas.}
 {145}{}{Adeus.}
-{146}{}{We do research that will change the world. For more answers to your questions, you should seek out Dr. Wong Yi Tze. }
-{147}{}{I will. And I have more questions.}
+{146}{}{Nós fazemos pesquisas que mudarão o mundo. Para mais respostas às suas perguntas, você deve procurar o Dr. Wong Yi Tze.}
+{147}{}{Eu vou. E eu tenho mais perguntas.}
 {148}{}{Eu vou. Tchau.}
-{149}{}{We were the survivors from the wreck of a submarine. When we ran aground, we stripped the metal from the submarine to create the Palace. Some do not believe this.}
-{150}{}{Hm. It sounds almost as if you're berating someone.}
+{149}{}{Nós éramos os sobreviventes do naufrágio de um submarino. Quando encalhamos, tiramos o metal do submarino para criar o palácio. Alguns não acreditam nisso.}
+{150}{}{Hm. Soa quase como se você estivesse repreendendo alguém.}
 {151}{}{Eu vejo. Obrigado. Tchau.}
-{152}{}{Ah, yes! I have seen some of your movies. Yet surely this is not your real name?}
-{153}{}{Sure it is.}
-{154}{}{No. My real name is}
-{155}{}{It's all the name you need, old man.}
-{156}{}{That will be quite impossible. Good day.}
+{152}{}{Ah sim! Eu vi alguns dos seus filmes. No entanto, certamente este não é seu nome verdadeiro?}
+{153}{}{Claro que é.}
+{154}{}{Não. Meu verdadeiro nome é }
+{155}{}{É todo o nome que você precisa, velho.}
+{156}{}{Isso será completamente impossível. Tenha um bom dia.}
 {157}{}{[FEITO]}
-{158}{}{Surely you must give me more credit than that. I know how the "biz" works. I have traveled to New Reno before.}
-{159}{}{Okay, my name is}
-{160}{}{That's my real name! Now let me talk to the Emperor!}
+{158}{}{Certamente você deve me dar mais crédito do que isso. Eu sei como funciona o "biz". Eu já viajei para New Reno antes.}
+{159}{}{Certo, meu nome é }
+{160}{}{Esse é o meu nome verdadeiro! Agora deixe-me falar com o Imperador!}
 {161}{}{Excellent. This is what I require of you: there is a small military base north of here, called Navarro. There are numerous vertibirds there. We need plans and blueprints to manufacture some of our own. Fetch those and you will be on your way to seeing the Emperor.}
 {162}{}{Você tem isso.}
 {163}{}{Esqueça.}
@@ -127,5 +127,5 @@
 {501}{}{Leave now. This is your second warning.}
 {502}{}{This is your last warning.}
 {503}{}{Guards!}
-{1430}{}{The Emperor remains hidden from prying eyes. It is my job to act as the Emperor's screen. However, you have proven yourself to be a friend to the Shi. I believe I can trust you with our secrets. In the back room, you will find the forcefield to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. I hope this will prove useful to you.}
+{1430}{}{O Imperador permanece escondido dos olhos curiosos. É meu trabalho agir como a tela do Imperador. No entanto, você provou ser um amigo do Shi. Creio que posso confiar nossos segredos em você. Na sala dos fundos, você descobrirá que o campo de força do grande computador foi desligado. Digite a senha "CSPDMSHR-Shih-huang-ti-X9372" e você estará conectado ao Computador do Imperador. Espero que isso seja útil para você.}
 {2001}{}{I ... see. Well, thanks for your time. I have a village to rescue.}
