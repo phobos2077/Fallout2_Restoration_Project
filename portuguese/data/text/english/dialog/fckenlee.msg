@@ -50,7 +50,7 @@
 {149}{}{Nós éramos os sobreviventes do naufrágio de um submarino. Quando encalhamos, tiramos o metal do submarino para criar o palácio. Alguns não acreditam nisso.}
 {150}{}{Hm. Soa quase como se você estivesse repreendendo alguém.}
 {151}{}{Eu vejo. Obrigado. Tchau.}
-{152}{}{Ah sim! Eu vi alguns dos seus filmes. No entanto, certamente este não é seu nome verdadeiro?}
+{152}{}{Ah sim! Eu vi alguns dos seus filmes. No entanto, com certeza esse não é seu nome verdadeiro, é?}
 {153}{}{Claro que é.}
 {154}{}{Não. Meu verdadeiro nome é }
 {155}{}{É todo o nome que você precisa, velho.}
@@ -69,7 +69,7 @@
 {168}{}{Eu tenho mais perguntas.}
 {169}{}{Obrigado. Tchau.}
 {170}{}{Você deve completar um segundo teste: os Hubologistas são nossos inimigos. O líder deles, o AHS-9, está sequestrando e fazendo lavagem cerebral em nossos filhos. Mate-o pelo bem do Shi e eu lhe direi como falar com o Imperador.}
-{171}{}{Ele é tão bom quanto morto.}
+{171}{}{Ele está praticamente morto.}
 {172}{}{Não, eu não penso assim.}
 {173}{}{Não? Isso me entristece, mas eu entendo. Boa sorte em sua missão. Se você mudar de ideia, sabe onde me encontrar.}
 {174}{}{Claro que sim. Eu tenho mais perguntas.}
@@ -77,16 +77,15 @@
 {176}{}{Estou ansioso para ver o resultado da sua tentativa. Tenha um bom dia.}
 {177}{}{Bom dia.}
 {178}{}{Repreendendo alguém? Qualquer tolo que tenha feito sua pesquisa pode ver que a base da cidade de Shi é o destroço desse submarino. Parece infrutífero argumentar com aqueles que diriam o contrário.}
-{179}{}{That's very even-tempered of you.}
-{180}{}{Certamente é. E eu lido com essas pessoas diariamente. Ai de mim!
-}
+{179}{}{Você é muito bem humorado.}
+{180}{}{Certamente é. E eu lido com essas pessoas diariamente. Ai de mim!}
 {181}{}{Bem, eu tenho mais perguntas.}
 {182}{}{É, coitado de você. Tchau.}
 {183}{}{Você é certamente um destinatário digno do nosso combustível. Eu acredito que posso confiar em você com nossos segredos. Na sala de trás, você descobrirá que o campo de força para o grande computador foi desligado. Digite a senha "CSPDMSHR-Shih-huang-ti-X9372" e você estará conectado ao Computador do Imperador. O Imperador será capaz de direcionar nosso combustível para onde você precisar.}
 {184}{}{Obrigado.}
 {185}{}{Guardas! O inimigo está entre nós! Guardas!}
 {186}{}{Sério? Talvez você gostaria de virar a mesa sobre eles? Eu posso te prometer nossa ajuda se você concordar em matar o AHS-9.}
-{187}{}{Ele é tão bom quanto morto.}
+{187}{}{Ele está praticamente morto.}
 {188}{}{Não.}
 {189}{}{Excelente. Espero ouvir o seu sucesso em breve.}
 {190}{}{Você irá. Eu tenho mais perguntas.}
