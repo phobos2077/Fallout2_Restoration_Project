@@ -25,59 +25,59 @@
 {124}{}{Eu preciso encontrar combustível para o PMV Valdez.}
 {125}{}{Eu entendo que preciso de um FOB para acessar o computador do Valdez.}
 {126}{}{Eu preciso de algumas peças de computador para o PMV Valdez.}
-{127}{}{I'm looking for a spleen.}
-{128}{}{I hear some flying machines brought a load of villagers down this way.}
+{127}{}{Estou procurando por um baço.}
+{128}{}{Eu ouvi que algumas máquinas voadoras trouxeram uma carga de aldeões por este caminho.}
 {129}{}{Nada. Tchau.}
-{130}{}{Talk to Crocket, over in the Hubologist camp. He is their head scientist.}
-{131}{}{Thanks. I want more information.}
+{130}{}{Fale com Crochet, no acampamento Hubologista. Ele é o cientista chefe deles.}
+{131}{}{Obrigado. Eu preciso de mais informação.}
 {132}{}{Obrigado. Tchau.}
-{133}{}{Look to the north, in Navarro. There is a hidden base near the gas station.}
-{134}{}{Thanks. I want more information.}
+{133}{}{Olhe para o norte, em Navarro. Há uma base escondida perto do posto de gasolina.}
+{134}{}{Obrigado. Eu preciso de mais informação.}
 {135}{}{Obrigado. Tchau.}
-{136}{}{Have you tried looking in the old Vaults? I hear that they are a wealth of information and technology of the ancients.}
-{137}{}{Thanks. I want more information.}
+{136}{}{Você já tentou procurar nos antigos Refúgios? Eu ouvi dizer que eles são uma riqueza de informações e tecnologia dos antigos.}
+{137}{}{Obrigado. Eu preciso de mais informação.}
 {138}{}{Obrigado. Tchau.}
-{139}{}{A spleen? Ha ha! Yes, Chip from the Valdez lost his spleen in a card game the other day. I sold it to Dr. Wong. He was fascinated by it.}
-{140}{}{Dr. Wong? Where can I find him?}
-{141}{}{How do you lose a spleen?}
+{139}{}{Um baço? Ha ha! Sim, Chip do Valdez perdeu o baço em um jogo de cartas no outro dia. Eu vendi para o Dr. Wong. Ele ficou fascinado por isso.}
+{140}{}{Dr. Wong? Onde posso encontrá-lo?}
+{141}{}{Como você perde um baço?}
 {142}{}{Obrigado. Eu tenho mais perguntas.}
-{143}{}{Ah, so. Bye.}
-{144}{}{Dr. Wong is the head scientist in the Steel Palace. Seek him there.}
-{145}{}{How do you lose a spleen, incidentally?}
-{146}{}{Thanks. I want more information.}
+{143}{}{Ah, então Tchau.}
+{144}{}{O Dr. Wong é o cientista chefe do Palácio de Aço. Procure-o lá.}
+{145}{}{Como você perde um baço, aliás?}
+{146}{}{Obrigado. Eu preciso de mais informação.}
 {147}{}{Obrigado. Tchau.}
-{148}{}{He was drunk. Very, very drunk. He was obsessed with his spleen all night long. And then he bet it.}
-{149}{}{So you took his SPLEEN?}
+{148}{}{Ele estava bêbado. Muito, muito bêbado. Ele estava obcecado com o baço a noite toda. E então ele o aposta.}
+{149}{}{Então você pegou o BAÇO dele?}
 {150}{}{Eu vejo. Bem, eu tenho mais perguntas.}
-{151}{}{Yes. It was a debt. He is an honorable man.}
-{152}{}{I see. I need more information.}
-{153}{}{You're a sick, rude bastard, aren't you?}
+{151}{}{Sim. Foi uma dívida. Ele é um homem honrado.}
+{152}{}{Entendo. Eu preciso de mais informações.}
+{153}{}{Você é um bastardo rude e doente, não é?}
 {154}{}{Direito. Tchau.}
-{155}{}{You are a dishonorable person. I will not have you in my shop. Come back some other time.}
+{155}{}{Você é uma pessoa desonrosa. Eu não quero você na minha loja. Volte outra hora.}
 {156}{}{Seja o que for.}
-{157}{}{They did not. They came from the north and flew over us, heading out over the sea.}
-{158}{}{Over the horizon? How the hell do I get there?}
-{159}{}{Yeah, right they did. Tell me where they are before I open you like a can of sardines.}
-{160}{}{Well... none of our boats are capable of that kind of distance. Unless...}
-{161}{}{Unless...?}
-{162}{}{Thanks for your "help". I'm going to get me some real advice.}
-{163}{}{... unless you can get the old tanker on the docks working. It's an old ship, but probably still functional, if some work is put into it. Ask the punks for more information.}
-{164}{}{Thanks. I want more information.}
+{157}{}{Não. Eles vieram do norte e voaram sobre nós, indo para o mar.}
+{158}{}{Além do horizonte? Como diabos eu chego lá?}
+{159}{}{Sim, eles fizeram. Diga-me onde eles estão antes de eu abrir você como uma lata de sardinha.}
+{160}{}{Bem... nenhum dos nossos barcos é capaz de percorrer essa distância. A menos que...}
+{161}{}{A menos que...?}
+{162}{}{Obrigado pela "ajuda". Eu vou procurar um conselho de verdade.}
+{163}{}{... a menos que você consiga colocar o velho petroleiro nas docas funcionando. É um navio antigo, mas provavelmente ainda funciona com um pouquinho de trabalho em cima dele. Pergunte aos punks para mais informações.}
+{164}{}{Obrigado. Eu preciso de mais informação.}
 {165}{}{Obrigado. Tchau.}
-{166}{}{Word has it that the Hubologists have come into a large quantity of fuel recently. Bargain with them.}
-{167}{}{Thanks. I want more information.}
+{166}{}{Dizem que os Hubologistas conseguiram uma grande quantidade de combustível recentemente. Negocie com eles.}
+{167}{}{Obrigado. Eu preciso de mais informação.}
 {168}{}{Obrigado. Tchau.}
-{169}{}{You might try some of the Shi scientists in the Steel Palace. Perhaps they can help you with your fuel needs.}
-{170}{}{Thanks. I want more information.}
+{169}{}{Você pode tentar alguns dos cientistas Shi no Palácio de Aço. Talvez eles possam ajudá-lo com suas necessidades de combustível.}
+{170}{}{Obrigado. Eu preciso de mais informação.}
 {171}{}{Obrigado. Tchau.}
-{172}{}{You are an enemy of my people. Die!}
-{173}{}{You have performed well for my people in slaying AHS-9. I hope that I can be of assistance to you in some way.}
+{172}{}{Você é um inimigo do meu povo. Morra!}
+{173}{}{Você fez bem para o meu pessoal ao matar o AHS-9. Espero poder ajudá-lo de alguma forma.}
 {174}{}{Quem é você?}
 {175}{}{Estou procurando por algum equipamento.}
 {176}{}{Estou procurando por alguma informação.}
 {177}{}{Adeus.}
-{178}{}{You have already given them to the Hubologists. No?}
-{179}{}{Oh yeah...ah...Can I ask something else?}
+{178}{}{Você já entregou aos Hubologistas. Não?}
+{179}{}{Ah sim ... ah ... Posso perguntar outra coisa?}
 {180}{}{Oh yeah...Bye.}
 {200}{}{What else can you tell me about the tanker?}
 {210}{}{Even if you could get the NavCom working and the tanker fueled up, you'll still need considerable good fortune

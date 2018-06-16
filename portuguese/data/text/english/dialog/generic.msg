@@ -1,7 +1,7 @@
 {100}{}{You gain }
 {101}{}{ experience points.}
 {102}{}{You successfully disarm the trap.}
-{103}{}{Você não consegue desarmar a armadilha.}
+{103}{}{Você falhou em desarmar a armadilha.}
 {104}{}{You accidentally set off the trap.}
 {105}{}{ successfully disarms the trap.}
 {106}{}{ fail to disarms the trap.}

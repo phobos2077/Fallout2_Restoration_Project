@@ -109,15 +109,15 @@ no alizar de porta.}
 {163}{}{Você verá uma porta velha com um cadeado.}
 {164}{}{Você verá uma porta danificada, sem aparente dispositivo de bloqueio.}
 {165}{}{Você vê uma porta velha com um bloqueio velho e enferrujado.}
-{166}{}{Você desencadeou a armadilha e foi atingido por}
+{166}{}{Você ativou a armadilha e foi atingido por }
 {167}{}{ pontos de dano.}
 {168}{}{ desencadeia a armadilha e foi atingido por  }
 {169}{}{ pontos de dano.}
 {170}{}{Você abre habilmente o bloqueio na porta.}
 {171}{}{A sua falta de habilidade encravou a trava na porta.}
 {172}{}{Você não consegue abrir o bloqueio nesta porta.}
-{173}{}{ habilmente pega a trava na porta.}
-{174}{}{A sua falta de habilidade encravou a trava na porta.}
+{173}{}{ habilmente destranca a fechadura na porta.}
+{174}{}{ emperrou a trava na porta devido a sua falta de habilidade .}
 {175}{}{ falhou em destrancar essa porta.}
 {176}{}{Você arrombou a fechadura da porta.}
 {177}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e
@@ -126,8 +126,8 @@ no alizar de porta.}
 {179}{}{ pontos de dano.}
 {180}{}{Você é muito fraco para ultrapassar o bloqueio.}
 {181}{}{ arrombou a fechadura da porta.}
-{182}{}{ massageia as costas enquanto tenta arrombar a fechadura e leva
- um ponto de dano.}
+{182}{}{ estica as costas enquanto tenta violar a fechadura e recebe 
+ pontos de dano.}
 {183}{}{ massageia suas costas enquanto tenta abrir o bloqueio e toma }
 {184}{}{ pontos de dano.}
 {185}{}{ é muito fraco para ultrapassar o bloqueio.}
@@ -143,7 +143,7 @@ no alizar de porta.}
 {194}{}{Você encontra uma armadilha na porta.}
 {195}{}{Você não consegue encontrar armadilhas na porta.}
 {196}{}{Você habilmente desarma a armadilha.}
-{198}{}{Você não consegue desarmar a armadilha.}
+{198}{}{Você falhou em desarmar a armadilha.}
 {199}{}{ encontra uma armadilha na porta.}
 {200}{}{ não consegue encontrar qualquer armadilhas na porta.}
 {201}{}{ habilmente desarma a armadilha.}
