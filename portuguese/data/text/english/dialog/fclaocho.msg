@@ -79,13 +79,13 @@
 {178}{}{Você já entregou aos Hubologistas. Não?}
 {179}{}{Ah sim ... ah ... Posso perguntar outra coisa?}
 {180}{}{Oh yeah...Bye.}
-{200}{}{What else can you tell me about the tanker?}
-{210}{}{Even if you could get the NavCom working and the tanker fueled up, you'll still need considerable good fortune
- if you really want the ship to sail again.}
-{211}{}{What do you mean by 'considerable good fortune?'}
-{220}{}{I mean, the hunk of junk is older than most ghouls. It would be a miracle if it didn't sink on you. That is all
- I meant.}
-{221}{}{I have a feeling that there's something you're not telling me about the tanker.}
+{200}{}{O que mais você pode me dizer sobre o petroleiro?}
+{210}{}{Mesmo que você consiga trabalhar com o NavCom e abastecer o tanque, você ainda precisará de boa sorte
+  se você realmente quer que o navio navegue novamente.}
+{211}{}{O que você quer dizer com "boa sorte considerável"?}
+{220}{}{Quero dizer, o pedaço de lixo é mais velho que a maioria dos ghouls. Seria um milagre se não afundasse em você. Isso é tudo
+  Eu quis dizer.}
+{221}{}{Tenho a sensação de que há algo que você não está me contando sobre o petroleiro.}
 {230}{}{Perhaps there is. (smiles) Perhaps the wasteland has made you paranoid.}
 {231}{}{Listen, I need to find my tribe. Those bastards who took them are dangerous and need to be stopped.}
 {232}{}{Come on. What's so special about the tanker? We're just two people talking.}
