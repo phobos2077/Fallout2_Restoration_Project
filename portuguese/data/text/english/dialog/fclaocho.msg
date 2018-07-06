@@ -78,7 +78,7 @@
 {177}{}{Adeus.}
 {178}{}{Você já entregou aos Hubologistas. Não?}
 {179}{}{Ah sim ... ah ... Posso perguntar outra coisa?}
-{180}{}{Oh yeah...Bye.}
+{180}{}{Ah sim...Tchau}
 {200}{}{O que mais você pode me dizer sobre o petroleiro?}
 {210}{}{Mesmo que você consiga trabalhar com o NavCom e abastecer o tanque, você ainda precisará de boa sorte
   se você realmente quer que o navio navegue novamente.}
