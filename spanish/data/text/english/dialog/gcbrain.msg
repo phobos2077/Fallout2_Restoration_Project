@@ -6,11 +6,10 @@
 {121}{}{No tengo tiempo para ti. Estoy planeando una forma de dominar el mundo. Lárgate.}
 {122}{}{No me molestes. No te lo advertiré de nuevo.}
 {123}{}{Suficiente. ¡Zomak! ¡Mátalo por mí!}
-{130}{}{La Renovación está por llegar. Pero no se acercará más a menos que te muevas y
- repares nuestro Reactor Atómico. (para sí mismo) Humanos... son tan decepcionantes.}
+{130}{}{La Renovación está por llegar. Pero no se acercará más a menos que te muevas y repares nuestro Reactor Atómico. (para sí mismo) Humanos... son tan decepcionantes.}
 {131}{}{¿Reparar el reactor atómico?}
 {132}{}{Oh, sí. Bien, me marcho entonces. Adiós.}
-{140}{}{Huelo uno de mis talismanes en ti, pero no recuerdo haberte dado uno.}
+{140}{}{Huelo uno de mis Talismanes en ti, pero no recuerdo haberte dado uno.}
 {141}{}{Lo encontré.}
 {142}{}{Eh, debes haberlo olvidado.}
 {143}{}{Sólo es mi loción para después del afeitado. Old Mice: ¿te gusta?}
@@ -67,9 +66,7 @@
 {280}{}{Bien, te dejarán si les puedes mostrar lo mucho que les beneficiaría. Tenemos un informe económico que demuestra que optimizar la central nuclear de Gecko beneficiará directamente a Ciudad Refugio. Haré saber a nuestros camaradas aquí en Gecko de tu misión.}
 {281}{}{Te darán el regulador hidroeléctrico magnetosférico si puedes demostrar que hacerlo les beneficiará. He preparado un informe económico que detalla lo mucho que ayudaría a Ciudad Refugio el reparar nuestra central. Haré saber a nuestros camaradas aquí en Gecko de tu misión.}
 {282}{}{Eso es fantástico pero, ¿quién en Ciudad Refugio pensaría siquiera en leer tal cosa?}
-{283}{}{¿Por qué no hablas con esa vieja cotorra del apestoso Festus en la central y
- compruebas si puede extraerse alguna información útil de su podrida cabeza? Podría conocer algún medio de optimizar la central.
- Haré saber a nuestros camaradas aquí en Gecko de tu misión.}
+{283}{}{¿Por qué no hablas con esa vieja cotorra del apestoso Festus en la central y compruebas si puede extraerse alguna información útil de su podrida cabeza? Podría conocer algún medio de optimizar la central. Haré saber a nuestros camaradas aquí en Gecko de tu misión.}
 {284}{}{Eso parece una buena idea. Adiós.}
 {290}{}{Creo que McClure es el único miembro del consejo de Ciudad Refugio con suficiente cerebro como para ver más allá de sus prejuicios. Él se asegurará de que consigas lo que necesitas.}
 {291}{}{De ninguna manera voy a ser tu chico de los recados.}
@@ -85,35 +82,27 @@
 {322}{}{Supongo que puedo permitirme gastar unas cuantas bolitas de queso.}
 {330}{}{Ahora eres uno de nosotros. Muy pronto dominaré el mundo y todos seréis Renovados.}
 {331}{}{Eh, sí, lo que digas.}
-{332}{}{Muy bien, ya basta. Esto acaba aquí. Alguien tiene que borrarte de la existencia...
- y ese alguien voy a ser yo.}
-{340}{}{Bien, entonces supongo que no nos queda nada más que decirnos. Pero sabes que no puedo
- permitirte salir de aquí con vida, a menos que seas uno de nosotros.}
+{332}{}{Muy bien, ya basta. Esto acaba aquí. Alguien tiene que borrarte de la existencia... y ese alguien voy a ser yo.}
+{340}{}{Bien, entonces supongo que no nos queda nada más que decirnos. Pero sabes que no puedo permitirte salir de aquí con vida, a menos que seas uno de nosotros.}
 {341}{}{Preferiría morir que unirme a vosotros.}
 {342}{}{Hmm, quizá me haya precipitado en mi juicio.}
 {343}{}{Veámoslo, Willard.}
 {350}{}{Idiota. ¡Zomak! Mata a este intruso por mí.}
-{360}{}{Los humanos tenéis un aguante limitado. Yo habría seguido siendo una rata normal si los humanos
- no hubierais dado lo mejor de vosotros para destruir el mundo. Si no fuera por la radiación, no sería
- lo que soy hoy.}
+{360}{}{Los humanos tenéis un aguante limitado. Yo habría seguido siendo una rata normal si los humanos no hubierais dado lo mejor de vosotros para destruir el mundo. Si no fuera por la radiación, no sería lo que soy hoy.}
 {361}{}{¿Y qué eres, exactamente?}
 {370}{}{Ahora que todo te ha sido explicado, ¿estás listo para unirte a nosotros?}
 {371}{}{Bueno, supongo que sí.}
 {372}{}{Estoy convencido, sí. Convencido de que debo salir de este manicomio.}
-{380}{}{Sólo era una de las muchas ratas normales de un laboratorio de investigación avanzada. Entonces, un día, hubo
- explosiones. Nuestras jaulas se rompieron y fuimos rociados por algún tipo de fluido de una enorme cuba.}
+{380}{}{Sólo era una de las muchas ratas normales de un laboratorio de investigación avanzada. Entonces, un día, hubo explosiones. Nuestras jaulas se rompieron y fuimos rociados por algún tipo de fluido de una enorme cuba.}
 {381}{}{¿Y entonces qué?}
-{390}{}{Trepé hacia el exterior. Cuando comencé a curarme, noté que había cambiado. Intenté comunicarme con la
- gente, pero todos intentaron matarme. Los humanos son demasiado violentos como para sobrevivir bajo su propio
- liderazgo... pero esa es otra historia. El primer paso es reparar el reactor.}
+{390}{}{Trepé hacia el exterior. Cuando comencé a curarme, noté que había cambiado. Intenté comunicarme con la gente, pero todos intentaron matarme. Los humanos son demasiado violentos como para sobrevivir bajo su propio liderazgo... pero esa es otra historia. El primer paso es reparar el reactor.}
 {391}{}{¿Reparar el reactor?}
 {400}{}{Sí. Debes conseguir un regulador hidroeléctrico magnetosférico de Ciudad Refugio para reparar el reactor de Gecko. Si no lo haces,
  Ciudad Refugio no dudará en atacar Gecko. Por supuesto, destruyendo el reactor, se condenarán
  a sí mismos a la larga, igualmente.}
 {401}{}{¿Se condenarán a sí mismos? ¿Qué quieres decir?}
 {402}{}{¿Por qué Ciudad Refugio me daría una pieza para la central nuclear de Gecko?}
-{410}{}{Tienes que demostrarles que hacerlo redundará en su mejor interés. La gente es fácilmente
- manipulable a través de sus propios intereses.}
+{410}{}{Tienes que demostrarles que hacerlo redundará en su mejor interés. La gente es fácilmente manipulable a través de sus propios intereses.}
 {411}{}{No creo que la gente de Ciudad Refugio me de una pieza para tu central nuclear.}
 {420}{}{Pero ahora mismo, ¿tienes algo mejor que hacer?}
 {421}{}{Eh, supongo que será mejor que me ponga en marcha por lo de la central. Adiós.}
@@ -121,10 +110,8 @@
 {430}{}{Mi olfato es muy fino. Estoy seguro de que tienes bolitas de queso. Dame algunas ahora mismo. Por favor.}
 {431}{}{La única forma en que conseguirás mis bolitas de queso es arrancándolas de mis fríos y cadavéricos dedos.}
 {432}{}{Oh, vaya. ¿Qué tengo en el bolsillo? Supongo que después de todo tengo algunas bolitas de queso. ¿Las quieres?}
-{440}{}{(crunch, munch, crunch) Mmmm, me encantan las bolitas de queso, saben tanto a, bueno, eh, queso. Por esto, te
- conviertes en miembro de mi culto especial, y podrás ayudarme a dominar el mundo.}
-{441}{}{(crunch, munch, crunch) Mmmm, me encantan las bolitas de queso, saben tanto a, bueno, eh, queso. Fue sabio
- permitirte unirte a mi culto. ¿No hay algo que deberías estar haciendo en este momento?}
+{440}{}{(crunch, munch, crunch) Mmmm, me encantan las bolitas de queso, saben tanto a, bueno, eh, queso. Por esto, te conviertes en miembro de mi culto especial, y podrás ayudarme a dominar el mundo.}
+{441}{}{(crunch, munch, crunch) Mmmm, me encantan las bolitas de queso, saben tanto a, bueno, eh, queso. Fue sabio permitirte unirte a mi culto. ¿No hay algo que deberías estar haciendo en este momento?}
 {442}{}{(crunch, munch, crunch) Mmmm, me encantan las bolitas de queso, saben tanto a, bueno, eh, queso.}
 {443}{}{(crunch, munch, crunch) Mmmm, me encantan las bolitas de queso, saben tanto a, bueno, eh, queso.}
 {444}{}{Uh…}
@@ -141,9 +128,7 @@
  alguien lo haga, todo irá bien.}
 {465}{}{¿Cómo puedo conseguir la pieza de Ciudad Refugio?}
 {466}{}{Oh, ya veo. Bien, gracias por la información. Adiós.}
-{467}{}{Festus es el tipejo que gestiona la central nuclear. Es viejo, piojoso, y pendenciero, pero
- realmente sabe algo de cómo hacer funcionar la central. Sus oficinas están al fondo de la parte sudeste
- de la central. Llévale el disco de datos y él sabrá cómo usarlo.}
+{467}{}{Festus es el tipejo que gestiona la central nuclear. Es viejo, piojoso, y pendenciero, pero realmente sabe algo de cómo hacer funcionar la central. Sus oficinas están al fondo de la parte sudeste de la central. Llévale el disco de datos y él sabrá cómo usarlo.}
 {468}{}{Oh, entiendo. De acuerdo. Gracias. Adiós.}
 {500}{}{(murmurando para sí mismo) Tantas cosas que se van. Estos tiempos no son lo que eran. (suspira) Siento que mi
  familia restante ha muerto. Mas me hubiera gustado que no fuera así. Tenía la esperanza de

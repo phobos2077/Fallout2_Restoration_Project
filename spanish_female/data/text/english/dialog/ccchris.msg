@@ -55,7 +55,7 @@
 {154}{}{Hakunin es chamán grande. Si él dice eso es que él los ve.}
 {155}{}{Hakunin era un gran chamán. Si él afirmó haber visto vertibird, ¡entonces los vio!}
 {156}{}{Bueno, eso no me dice nada, pero en caso de que viera uno de esos vertibird, ¿a quién debería contárselo?}
-{157}{}{A yo. Yo aquí cerca.}
+{157}{}{Tú dímelo. Yo aquí cerca.}
 {158}{}{A Shi.}
 {159}{}{A Hermandad Acero.}
 {160}{}{A Hubolo-logistas.}

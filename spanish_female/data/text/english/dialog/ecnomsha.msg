@@ -4,7 +4,7 @@
 {103}{}{Hola, forastero. Soy el cháman de la tribu. Estoy versado en el arte de la curación.}
 {104}{}{Hola de nuevo.}
 {105}{}{Necesito que me cures.}
-{106}{}{¿Puedes combinar la raíz de xandria con la flor de broquia?}
+{106}{}{¿Puedes combinar la raíz de Xandria con la flor de Broquia?}
 {107}{}{Adiós.}
 {108}{}{Ooga.}
 {109}{}{Quédate quieto y te examinaré.}
