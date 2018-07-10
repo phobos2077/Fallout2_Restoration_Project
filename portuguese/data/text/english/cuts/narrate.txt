@@ -1,8 +1,8 @@
 1:Guerra.
 2:A guerra nunca muda.
 3:O fim do mundo ocorreu praticamente como tínhamos previsto.
-4:Muitos humanos, espaço insuficiente ou recursos para dar uma volta.
-5:Os detalhes são triviais e inúteis, os motivos, como sempre, puramente humanos.
+4:Muitos humanos, mas sem espaço e recursos suficientes para todos.
+5:Os detalhes são triviais e inúteis; os motivos, como sempre, puramente humanos.
 6:Em 2077, a terra estava quase limpa da vida humana.
 7:Uma grande limpeza, uma centelha atômica acesa por mãos humanas, rapidamente ficou fora de controle.
 8:Lanças de fogo nuclear choviam dos céus.
