@@ -73,75 +73,50 @@ apestosos zombis.}
 {220}{}{Mmm, perdón. Es lo único que sé. Ya que estamos, ¿Has visto una manzana últimamente?}
 {221}{}{¿Una manzana?}
 {222}{}{Estoy demasiado decepcionado para hablar ahora. Adiós.}
-{230}{}{Me encantan las manzanas, pero casi no hay por ningún lado. No he visto 
-casi ninguna.}
+{230}{}{Me encantan las manzanas, pero casi no hay por ningún lado. No he visto casi ninguna.}
 {231}{}{No sabía que eras un fetichista de las frutas. Cuéntame algo más.}
-{232}{}{He oído que se puede saborear una manzana porque tienes que comértelas 
-despacio.}
-{240}{}{¿¡¿Despacio?!? Tú eres idiota. ¡Anda ya! Las manzanas se pueden 
-comer tan rápido como cualquier otra fruta. Las manzanas
-molan. Si no fuera por una conspiración por parte de los fabricantes de 
-frutas, todos tendríamos manzanas.}
-{241}{}{Estás sonado, ¿no? Creo que has estado catando demasiado tu propia 
-fermentación de cerveza. Háblame
-de otra cosa.}
-{242}{}{Oh, sí... las manzanas son maravillosas (retrocedes lentamente). Sí, eso 
-es. Bien Wooz, muy
-bien. Hasta luego.}
+{232}{}{He oído que se puede saborear una manzana porque tienes que comértelas despacio.}
+{240}{}{¿¡¿Despacio?!? Tú eres idiota. ¡Anda ya! Las manzanas se pueden comer tan rápido como cualquier otra fruta. Las manzanas molan. Si no fuera por una conspiración por parte de los fabricantes de frutas, todos tendríamos manzanas.}
+{241}{}{Estás sonado, ¿no? Creo que has estado catando demasiado tu propia fermentación de cerveza. Háblamede otra cosa.}
+{242}{}{Oh, sí... las manzanas son maravillosas (retrocedes lentamente). Sí, eso es. Bien Wooz, muy bien. Hasta luego.}
 {250}{}{Creo que podríamos llegar a un acuerdo. ¿Necesitas algo más?}
 {251}{}{De hecho, creo que hay algo más que me pueda servir. }
 {252}{}{Estos son todos los negocios que quiero hacer por ahora. Pero tengo algunas preguntas que hacerte.}
 {253}{}{No me hace falta nada más. Adiós.}
-{260}{}{Oh, el Elegido. Vaya, no me había dado cuenta. Entonces dejaré de hacer lo que 
-estaba haciendo para
-contarte algo (Wooz sonríe). Acércate, que te lo voy a decir al oído.}
+{260}{}{Oh, el Elegido. Vaya, no me había dado cuenta. Entonces dejaré de hacer lo que estaba haciendo para contarte algo (Wooz sonríe). Acércate, que te lo voy a decir al oído.}
 {261}{}{De acuerdo, eso me gusta más. Me merezco un poco más de respeto.}
 {262}{}{No me voy a acercar más a ti, bicho raro. Aléjate. Adiós.}
-{270}{}{¿El Refugio más cercano? Cristo, no lo sé. Quizá deberías 
-preguntar a la gente de Ciudad Refugio dónde podría
- haber uno. Ciudad Refugio está justo al sur de aquí. Eres tonto, ¿verdad?}
-{271}{}{Lo sabía. Te estaba poniendo a prueba. Wooz, qué listo eres. Cuéntame 
-algo más.}
+{270}{}{¿El Refugio más cercano? Cristo, no lo sé. Quizá deberías preguntar a la gente de Ciudad Refugio dónde podría haber uno. Ciudad Refugio está justo al sur de aquí. Eres tonto, ¿verdad?}
+{271}{}{Lo sabía. Te estaba poniendo a prueba. Wooz, qué listo eres. Cuéntame algo más.}
 {272}{}{¡No lo soy! Tú sí que eres tonto. Me largo. Adiós.}
 {280}{}{(Wooz se te acerca) Déjame susurrártelo…}
 {281}{}{De acuerdo.}
 {282}{}{Ni hablar; tú lo que estás intentando es comerme los sesos, ¿no? Me voy. Hasta la próxima.}
 {290}{}{¡¡¡QUE TE DEN!!! Sal de mi bar ahora mismo. Elegido. Por Cristo, menudo perdedor.}
-{291}{}{De todas formas no me quiero quedar en tu estúpido bar. No hace falta que 
-grites. Adiós.}
+{291}{}{De todas formas no me quiero quedar en tu estúpido bar. No hace falta que grites. Adiós.}
 {292}{}{Eso es, jodido leproso. Es hora de tu medicina de plomo.}
 {300}{}{¡Vete a la mierda! Eres imbécil. ¿Qué demonios quieres hacer aquí?}
-{301}{}{Eh, siento haberle hablado de ese modo, señor Wooz. Sólo quería 
-preguntarle algo.}
+{301}{}{Eh, siento haberle hablado de ese modo, señor Wooz. Sólo quería preguntarle algo.}
 {302}{}{¿Que me den? ¡Que te den a ti! Tu bar apesta. Me largo de esta mierda de sitio.}
 {303}{}{Eh, nada. Perdón, Wooz.}
 {304}{}{Eh, ¿te he contado lo que me gustan las manzanas?}
 {310}{}{¿De verdad? No lo sabía. Bueno, si te gustan las manzanas, creo que no puedes ser tan malo. Ahora, ¿qué demonios quieres?}
 {311}{}{Tenía unas cuantas preguntas para ti, Wooz.}
-{320}{}{¿Zombis? ¡Vete a la mierda! Somos necrófagos. Los zombis son unos putos 
-seres sin voluntad propia. Aunque nosotros
-compartimos algunas características físicas -las más notables, carne podrida 
-y una morbidez característica-
-somos criaturas con voluntad propia. Déjame demostrártelo.}
+{320}{}{¿Zombis? ¡Vete a la mierda! Somos necrófagos. Los zombis son unos putos seres sin voluntad propia. Aunque nosotros compartimos algunas características físicas -las más notables, carne podrida y una morbidez característica - somos criaturas con voluntad propia. Déjame demostrártelo.}
 {321}{}{¿Eh?}
 {330}{}{Te estoy demostrando mi voluntad propia: ¡FUERA! Maldito piel suave intolerante. Vuelve a
  Ciudad Refugio, donde perteneces.}
 {331}{}{Necrófagos, zombis, ¿a quién le importa? Sois todos unos monstruos.}
-{340}{}{Vale, Tragic el Catering no es sólo un juego: es una 'obsesión'. No 
-como la famosa colonia. Algunos 
-creen que la forma en la que cambia la vida de una persona es trágica, pero sólo es que no lo entienden.}
+{340}{}{Vale, Tragic el Catering no es sólo un juego: es una 'obsesión'. No como la famosa colonia. Algunos creen que la forma en la que cambia la vida de una persona es trágica, pero sólo es que no lo entienden.}
 {341}{}{Oh oh.}
 {350}{}{El Jet es una droga que viene de Nuevo Reno. ¿Naciste ayer, o eres idiota?}
 {351}{}{Ah, ese Jet. Vale, eso ya lo sabía. Cuéntame más sobre Tragic el Catering.}
-{360}{}{No, en serio. Es maravilloso. Deberías jugar. Aunque sea sólo una vez. 
-La primera baraja es gratis. Un regalito para ti de mi parte.}
+{360}{}{No, en serio. Es maravilloso. Deberías jugar. Aunque sea sólo una vez. La primera baraja es gratis. Un regalito para ti de mi parte.}
 {361}{}{Gracias. Oye, son geniales. (Rasgas el envoltorio) Mmm, me encanta 
 cómo huelen.}
 {362}{}{Simplemente digo "no" al Tragic. Adiós.}
-{370}{}{Hola. Parece que eres otro jugador de Tragic. ¿Tienes tiempo para 
-jugar un poco? ¿O eres un gallina? Te lo estoy diciendo a ti.}
-{371}{}{No tengo tiempo para una... bueno, de todos modos una partida no 
-va a durar tanto…}
+{370}{}{Hola. Parece que eres otro jugador de Tragic. ¿Tienes tiempo para jugar un poco? ¿O eres un gallina? Te lo estoy diciendo a ti.}
+{371}{}{No tengo tiempo para una... bueno, de todos modos una partida no va a durar tanto…}
 {372}{}{Claro, déjame... ¡No! Debo parar. (Tu mano se dirige sola hacia la baraja, 
 como si tuviera voluntad propia) ¡Noooooo!}
 {375}{}{Jugaría al Tragic contigo, pero parece que no me queda ninguna carta.}
@@ -150,15 +125,11 @@ como si tuviera voluntad propia) ¡Noooooo!}
 {380}{}{Esto es sólo el principio. Ahora que eres uno de nosotros, ¿quieres echar una partida?}
 {381}{}{Claro, pero vas a tener que enseñarme cómo.}
 {382}{}{No creo que tenga tiempo ahora mismo. Pero déjame preguntarte algo.}
-{383}{}{Me encantaría quedarme e intercambiar unas cartas de Tragic contigo, pero tengo 
-cosas que hacer, ¿sabes? En la vida real. Adiós}
-{390}{}{Vale, es sencillo, en realidad. Hasta un tonto lo puede entender. Primero, te 
-construyes un mazo de cartas de la baraja que tengas, y luego…}
-{391}{}{Ya. ¿Dices que no vas a negociar con el tercer jugador hasta el jueves? 
-De acuerdo, entiendo. Vamos a jugar.}
+{383}{}{Me encantaría quedarme e intercambiar unas cartas de Tragic contigo, pero tengo cosas que hacer, ¿sabes? En la vida real. Adiós}
+{390}{}{Vale, es sencillo, en realidad. Hasta un tonto lo puede entender. Primero, te construyes un mazo de cartas de la baraja que tengas, y luego…}
+{391}{}{Ya. ¿Dices que no vas a negociar con el tercer jugador hasta el jueves? De acuerdo, entiendo. Vamos a jugar.}
 {392}{}{A lo mejor juego más tarde. Pero gracias por enseñarme cómo. Adiós.}
-{400}{}{¿Has ganado? ¡Que te jodan! Necesito el reglamento de esto. Sólo has tenido 
-suerte esta vez. Mi mazo de cartas no funcionó. Tengo que hacer uno mejor.}
+{400}{}{¿Has ganado? ¡Que te jodan! Necesito el reglamento de esto. Sólo has tenido suerte esta vez. Mi mazo de cartas no funcionó. Tengo que hacer uno mejor.}
 {401}{}{Gracias por las cartas, Wooz. Y yo que pensaba que sabías jugar a esto... supongo que eres imbécil.}
 {402}{}{Bueno, se merecen un descanso, Wooz. Adiós.}
 {410}{}{¡Gané! ¡Que te den! Eres imbécil. Te he aplastado. Ahora puedo construir un mazo mejor con tus 
