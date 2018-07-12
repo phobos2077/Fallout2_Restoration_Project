@@ -3,7 +3,7 @@
 {102}{}{Ves a un necrófago bajo y viejo. Parece estar preocupado.}
 {110}{}{Hola, mi nombre es Lenny. ¿C-Como puedo a-ayudarte?}
 {111}{}{Hola d-de nuevo. ¿Cómo p-puedo ayudarte?}
-{112}{}{He oído que eres el descendiente del Morador del Refugio. ¿Sabes? Yo me encontré una vez con él.}
+{112}{}{He oído que eres la descendiente del Morador del Refugio. ¿Sabes? Yo me encontré una vez con él.}
 {113}{}{Hola. Me sigue s-sorprendiendo lo m-mucho que te pareces al Morador del Refugio. ¿Qué puedo hacer por ti?}
 {114}{}{¿Grenny? Hoowa.}
 {115}{}{¿Qué haces aquí?}

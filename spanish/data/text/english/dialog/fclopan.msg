@@ -63,7 +63,7 @@
 {162}{}{[HECHO]}
 {163}{}{¿No te dije que hablaras con el Dragón sobre tus escrúpulos morales? Él te acogerá. Yo no. Ahora, vete.}
 {164}{}{[HECHO]}
-{165}{}{Eres, debo admitirlo, incluso mejor luchador que yo. ¿Quieres probar con el Dragón?}
+{165}{}{Eres, debo admitirlo, incluso mejora luchadora que yo. ¿Quieres probar con el Dragón?}
 {166}{}{Sí. Iré ahora mismo.}
 {167}{}{En realidad no es mi lucha.}
 {168}{}{Desde luego, pero tengo unas preguntas.}
