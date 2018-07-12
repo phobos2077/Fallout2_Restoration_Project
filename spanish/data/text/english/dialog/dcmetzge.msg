@@ -101,7 +101,7 @@
 {380}{}{De acuerdo, chicos, metedle en las jaulas.}
 {381}{}{De acuerdo, chicos, metedla en las jaulas.}
 {382}{}{De acuerdo, jefe.}
-{390}{}{Bien, entonces no me hagas perder el puto tiempo. Si alguna vez das con alguien de quien quieras desembarazarte, ven a verme.}
+{390}{}{Bien, entonces no me hagas perder el puto tiempo. Si alguna vez das con alguien de quien quieras separarte, ven a verme.}
 {391}{}{Tengo otra pregunta que hacerte.}
 {392}{}{Vale. Adiós.}
 {400}{}{¿Qué pulga le ha picado de repente? Le dí a esa puta una oportunidad hace tiempo. No pensé que tuviera suficientes pelotas para intentar esto.}

@@ -1,7 +1,7 @@
 {100}{}{¿Querer oír nueva receta?}
 {101}{}{¿Qué clase?}
 {102}{}{Sorpresa de Rata.}
-{103}{}{Suena bien. ¿Cómo la hacemos?}
+{103}{}{Suena bien. ¿Cómo lo hago?}
 {104}{}{Tomar rata. Cuidado de no espachurrarlas demasiado.}
 {105}{}{¿Cómo no espachurrarlas? Cada vez que les doy un garrotazo, explotan. Muy asqueroso.}
 {106}{}{¿Quieres oír receta o no? Tomar rata tu problema.}

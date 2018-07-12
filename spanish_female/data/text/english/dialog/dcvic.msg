@@ -240,7 +240,7 @@
 {4503}{}{Estoy esperando al Jefe.}
 {4504}{}{Esperando.}
 {4505}{}{Estoy seguro de que el Jefe no me dejaría tirado aquí…}
-{4506}{}{Knock Knock… quién es... espera. ¿Cómo seguía...?}
+{4506}{}{Knock Knock… quién es... espera. ¿Cómo seguía?...}
 {4507}{}{Sigo esperando.}
 {4508}{}{¿Qué es ese olor?}
 {4509}{}{¿Alguien quiere que le repare algo?}

@@ -121,7 +121,7 @@
 {218}{}{Bueno... tal vez. Veamos qué tienes.}
 {219}{}{Le enseñas tus pistolas.}
 {220}{}{Le enseñas tus rifles.}
-{221}{}{Le enseñas tu inventario en general.}
+{221}{}{Le enseñas tu inventario general.}
 {222}{}{No importa. Quería saber algo más...}
 {223}{}{Quizá en algún otro momento.}
 {224}{}{Podría instalar un cargador rápido en esa mágnum tuya por 800 dólares.}

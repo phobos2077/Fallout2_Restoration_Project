@@ -301,7 +301,7 @@
 {985}{}{Olvida que te he preguntado nada, Myron.}
 {990}{myn139}{E-e-es-tás hablando en serio, joder? Oye, oye, oye... si me mantienes a tu lado, te haré un favor. ¿Eh? ¿Q-qué me dices?}
 {991}{}{¿Como qué clase de favor?}
-{992}{}{Olvida los favores. Ahora lárgate, maldito pesado.}
+{992}{}{Olvida los favores. Ahora lárgate, peste molesta.}
 {993}{}{Olvida los favores. Ahora espera aquí, bicho molesto.}
 {994}{}{Olvida lo que he dicho. Puedes quedarte.}
 {1005}{myn140}{¡Vaya! ¿Qué ha sido eso, humor tribal? Sí, maravilloso. Jodidamente gracioso.}
