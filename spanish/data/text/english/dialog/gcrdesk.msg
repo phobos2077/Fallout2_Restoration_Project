@@ -3,8 +3,7 @@
 {102}{}{Ves a alguien cuya piel parece haberse quemado a causa de la radiación. Aunque tanta radiación debiera
  haberlo matado, parece estar bastante bien. Por lo visto está
  de guardia aquí.}
-{110}{}{Bienvenido a la central nuclear. Una advertencia: si algo va mal mientras estás
- dentro, te culparemos a ti, piel suave.}
+{110}{}{Bienvenido a la central nuclear. Una advertencia: si algo va mal mientras estás dentro, te culparemos a ti, piel suave.}
 {111}{}{Hola, amigo. Tengo que hacerte saber que si algo va mal, cualquier no-necrófago -como tú-
  será considerado el culpable.}
 {112}{}{¿Blook?}
@@ -26,8 +25,7 @@
  que viven aquí, en el reactor.}
 {141}{}{Interesante. Déjame preguntarte algo más.}
 {142}{}{Gracias. Eso es todo lo que necesitaba saber. Adiós.}
-{150}{}{El pozo del reactor está después de la sala de control, pasada la habitación de Festus. Pero necesitarás
- un pase rojo para llegar allí.}
+{150}{}{El pozo del reactor está después de la sala de control, pasada la habitación de Festus. Pero necesitarás un pase rojo para llegar allí.}
 {151}{}{¿Dónde está la sala de control del reactor?}
 {152}{}{Interesante. Déjame preguntarte algo más.}
 {153}{}{¿Necesito un pase? ¿Cómo consigo uno?}
@@ -41,21 +39,16 @@
 {171}{}{Interesante. Déjame preguntarte algo más.}
 {172}{}{¡¿¡¿Fugas de radiación de fondo?!?!}
 {173}{}{Oh, de acuerdo. Bien, eso es todo lo que necesitaba saber. Adiós.}
-{180}{}{La sala de control del reactor está tras la puerta de la derecha a la que entraste
- aquí. Después, cruza la puerta del fondo. Pasa la puerta con seguridad amarilla. Finalmente, a la derecha.
- Pero necesitarás un pase para la puerta de seguridad.}
+{180}{}{La sala de control del reactor está tras la puerta de la derecha a la que entraste aquí. Después, cruza la puerta del fondo. Pasa la puerta con seguridad amarilla. Finalmente, a la derecha. Pero necesitarás un pase para la puerta de seguridad.}
 {181}{}{Interesante. Déjame preguntarte algo más.}
 {182}{}{¿Necesito un pase? ¿Cómo consigo uno?}
 {183}{}{Gracias. Eso es todo lo que necesitaba saber. Adiós.}
-{190}{}{No sé por qué querrías ir allí. El maldito robot de mantenimiento no funciona bien desde hace años.
- Pero está justo pasada la sala de control del reactor.}
+{190}{}{No sé por qué querrías ir allí. El maldito robot de mantenimiento no funciona bien desde hace años. Pero está justo pasada la sala de control del reactor.}
 {191}{}{¿Dónde está la sala de control del reactor?}
 {192}{}{Interesante. Déjame preguntarte algo más.}
 {193}{}{¿Necesito un pase? ¿Cómo consigo uno?}
 {194}{}{Gracias. Eso es todo lo que necesitaba saber. Adiós.}
-{200}{}{Bueno, yo no me preocuparía, a menos que planees quedarte aquí más de un par de semanas. La mayoría de
- la radiación que se fuga del reactor va a parar al agua del sistema de refrigeración, que se bombea de nuevo hacia el subsuelo.
- De algún modo, lo poco que se filtra hacia arriba parece sentarnos bien.}
+{200}{}{Bueno, yo no me preocuparía, a menos que planees quedarte aquí más de un par de semanas. La mayoría de la radiación que se fuga del reactor va a parar al agua del sistema de refrigeración, que se bombea de nuevo hacia el subsuelo. De algún modo, lo poco que se filtra hacia arriba parece sentarnos bien.}
 {201}{}{Oh, bueno, no parece tan malo. Respecto al reactor...}
 {202}{}{Hmm, creo que será mejor que siga mi camino. Adiós.}
 {300}{}{Desde luego. ¿Qué más quieres saber?}

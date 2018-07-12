@@ -19,7 +19,7 @@ en un Refugio. }
 incluido en cada Refugio que supuestamente 
 es lo que usarían cuando la gente saliera de ellos para restablecer la 
 civilización?}
-{131}{}{¡Sí! ¡Eso es! ¿Dónde puedo encontrar uno??}
+{131}{}{¡Sí! ¡Eso es! ¿Dónde puedo encontrar uno?}
 {132}{}{Eh, no, me refería a otro Kit de Creación del Jardín del Edén.}
 {140}{}{Yo llevo este sitio. ¿Eres imbécil o qué? Vendo bebidas, hago negocios, 
 cuento historias, y juego al Tragic.}
@@ -29,12 +29,10 @@ cuento historias, y juego al Tragic.}
 {144}{}{¿Te cuentas unas historias?}
 {145}{}{¿Echamos una partidilla de Tragic?}
 {146}{}{Supongo que ahora mismo no necesito nada más. Adiós.}
-{150}{}{¿Negocios? Siempre estoy dispuesto a cambiar unas cuantas cartas de 
-Tragic. Tengo repetidas un par de viejas Coro de Gallos, una Dahlia Negra, y algunas Tierras Extrañas.}
+{150}{}{¿Negocios? Siempre estoy dispuesto a cambiar unas cuantas cartas de Tragic. Tengo repetidas un par de viejas Coro de Gallos, una Dahlia Negra, y algunas Tierras Extrañas.}
 {151}{}{Supongo que sólo quieres negociar con objetos, ¿eh?}
 {152}{}{¿De qué demonios estás hablando?}
-{153}{}{Eh, no sé lo que tienes, pero espero que tengas algo en el inventario 
-para negociar.}
+{153}{}{Eh, no sé lo que tienes, pero espero que tengas algo en el inventario para negociar.}
 {154}{}{Sí, quiero negociar contigo.}
 {155}{}{Mmm... primero déjame preguntarte algo más.}
 {156}{}{No necesito negociar contigo ahora. Adiós.}
@@ -42,13 +40,11 @@ para negociar.}
 tenazmente en el culo del mundo.}
 {161}{}{No, me refiero a que me cuentes algo de este bar.}
 {162}{}{Vale, eso se refiere a mucha gente. Nada nuevo.}
-{170}{}{¿Quieres una bebida, eh? Vale, tenemos la cerveza Trago-Gamma de la casa 
-a 5 dólares la botella y, para ocasiones especiales, nuestro Ron Roentgen a 12 dólares la botella.}
+{170}{}{¿Quieres una bebida, eh? Vale, tenemos la cerveza Trago-Gamma de la casa a 5 dólares la botella y, para ocasiones especiales, nuestro Ron Roentgen a 12 dólares la botella.}
 {171}{}{¿Qué va a ser?}
 {172}{}{¿Trago?}
 {173}{}{Quiero una cerveza Trago-Gamma. ¿Se supone que me hará brillar así?}
-{174}{}{Esta es una ocasión especial, en cierto modo. Quisiera una botella de tu 
-Ron Roentgen.}
+{174}{}{Esta es una ocasión especial, en cierto modo. Quisiera una botella de tu Ron Roentgen.}
 {175}{}{Invito a una ronda de tu fabulosa cerveza Trago-Gamma a todo el mundo.}
 {176}{}{Oh oh, adiós.}
 {180}{}{No tienes bastante dinero. ¿Eres imbécil?}
@@ -58,30 +54,23 @@ Ron Roentgen.}
 {184}{}{Supongo que soy imbécil. Déjame preguntar otra cosa..}
 {185}{}{¿Imbécil? Hablarme así es una idiotez bien grande, colega. Así sólo puedes hacerte daño. Adiós.}
 {186}{}{Perdón. Adiós.}
-{190}{}{¿Quieres invitar a una ronda a todos? Debes de ser muy amigo de tus 
-amigos. 
-Te va a costar 35 dólares.}
-{191}{}{El dinero no importa, mi buen amigo. Quiero una ronda para todos los aquí presentes, 
-Wooz.}
+{190}{}{¿Quieres invitar a una ronda a todos? Debes de ser muy amigo de tus amigos. Te va a costar 35 dólares.}
+{191}{}{El dinero no importa, mi buen amigo. Quiero una ronda para todos los aquí presentes, Wooz.}
 {192}{}{Wooz, viejo colega, quiero invitar a todos mis amigos de aquí. Estos tipos son los mejores.}
-{193}{}{Wooz, ven acá... estos t-tipos son los mejodes ami-amigos que una pedsona puede tened. Pon otda donda
- pada todos ellos.}
-{194}{}{¡Wooz! Otda donda pada todos mis c-colegas. Son los me-mejodes. ¡OS QUIEDO, AMIGOS! ¡Un abdazo
-de gdrupo!}
+{193}{}{Wooz, ven acá... estos t-tipos son los mejodes ami-amigos que una pedsona puede tened. Pon otda donda pada todos ellos.}
+{194}{}{¡Wooz! Otda donda pada todos mis c-colegas. Son los me-mejodes. ¡OS QUIEDO, AMIGOS! ¡Un abdazode gdrupo!}
 {195}{}{Déjame que lo piense, debo tener un agujero en la cabeza para querer invitar a bebida a esta banda de
 apestosos zombis.}
 {196}{}{Mejor una para mí solito.}
 {200}{}{Conozco una historia genial. Es muy divertida. Ves que aquí hay una cabeza, ¿no?}
 {201}{}{¿Cabeza?}
-{202}{}{Eh, creo que ya he oído esa historia. No tengo tiempo para 
-escucharla otra vez. Hasta luego.}
+{202}{}{Eh, creo que ya he oído esa historia. No tengo tiempo para escucharla otra vez. Hasta luego.}
 {210}{}{¿Estás tonto? Tragic el Catering es lo más adictivo que hay después del Jet.}
 {211}{}{Lo que te estaba contando, Tragic el Catering es a lo que hay que jugar.}
 {212}{}{Háblame un poco más del Tragic el Catering.}
 {213}{}{¿Qué es el Jet?}
 {214}{}{Lo he pillado. Nos vemos.}
-{220}{}{Mmm, perdón. Es lo único que sé. Ya que estamos, ¿Has visto una manzana 
-últimamente?}
+{220}{}{Mmm, perdón. Es lo único que sé. Ya que estamos, ¿Has visto una manzana últimamente?}
 {221}{}{¿Una manzana?}
 {222}{}{Estoy demasiado decepcionado para hablar ahora. Adiós.}
 {230}{}{Me encantan las manzanas, pero casi no hay por ningún lado. No he visto 

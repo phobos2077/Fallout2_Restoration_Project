@@ -93,7 +93,7 @@
 {192}{}{Soy Willie, el Grande y Terrible. Arrodíllate ante mí y suplica mi perdón y puede que te perdone la vida.}
 {193}{}{Nadie importante. ¿Dónde has dicho que está Navarro?}
 {194}{}{Sí, bueno, conquistamos Navarro y me topé con estas fotografías de tu madre desnuda. ¿O era tu padre, de nuevo travestido? En cualquier caso eres feo de cojones. Adiós, gilipollas.}
-{195}{powr20}{Sí, ya puedes decirlo. Además que estamos bastante apretados aquí fuera, en el Enclave, y el jodido presidente nos vigila como un halcón.}
+{195}{powr20}{Sí, ya puedes decirlo. Además que estamos bastante apretados aquí fuera, en el ENCLAVE, y el jodido presidente nos vigila como un halcón.}
 {196}{}{¿El Presidente?}
 {197}{}{¿Aquí fuera? ¿Dónde estáis exactamente?}
 {198}{}{En fin, así es como son las cosas. Bueno, será mejor que vuelva al trabajo. Adiós.}
