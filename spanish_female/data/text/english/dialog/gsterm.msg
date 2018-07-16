@@ -105,14 +105,14 @@
 {341}{}{Hmm, supongo que no está aquí.}
 {342}{}{Lista de estaciones.}
 {343}{}{Desconexión.}
-{350}{}{Buscando enlaces de comunicación... buscando... Iron Mountain... desconectado, NORAD... desconectado, SAC... desconectado. Buscando en PoseidoNet... --¿Más?--}
+{350}{}{Buscando enlaces de comunicación... buscando... Montaña de Hierro... desconectado, NORAD... desconectado, SAC... desconectado. Buscando en PoseidoNet... --¿Más?--}
 {351}{}{Descargar rutinas de robot de mantenimiento.}
 {352}{}{Más.}
 {353}{}{Desconexión.}
 {360}{}{Estaciones PoseidoNet activas: Central nuclear #5, Refinería Navarro, Estación de control ENCLAVE, Control ENCLAVE de investigación de Refugios… acceso denegado.}
-{361}{}{Las luces están encendidas pero no hay nadie en casa. }
+{361}{}{Las luces están encendidas pero no hay nadie en casa.}
 {362}{}{Todo está apagado excepto el control ENCLAVE de investigación de Refugios. Me pregunto qué es.}
-{363}{}{Hmm, parece que todo está desactivado o cerrado. Oh, en fin. }
+{363}{}{Hmm, parece que todo está desactivado o cerrado. Oh, en fin.}
 {370}{}{Accediendo… Acceso a estación Enclave denegado.}
 {371}{}{Accediendo… de nuevo… Acceso a estación Enclave denegado.}
 {372}{}{Accediendo... otra vez... eres un cabrón persistente, ¿eh? ... Acceso a estación Enclave denegado.}
@@ -126,7 +126,7 @@
 {380}{}{Regulador hidroeléctrico magnetosférico requerido antes de poder comenzar secuencia de reparación.}
 {381}{}{Iniciar mantenimiento de refrigerante.}
 {382}{}{Desconexión.}
-{390}{}{Regulador hidroeléctrico magnetosférico aceptado. Escaneando… pieza dentro de las limitaciones nominales de CC… Transferencia a la unidad de reparación completada… ¿Continuar?}
+{390}{}{Regulador hidroeléctrico magnetosférico aceptado. Escaneando… pieza dentro de las limitaciones nominales de CC... Transferencia a la unidad de reparación completada… ¿Continuar?}
 {391}{}{Sí.}
 {392}{}{Desconexión.}
 {400}{}{Circuitos lógicos dañados. En una emergencia, la unidad RR&MR puede dirigirse manualmente.}

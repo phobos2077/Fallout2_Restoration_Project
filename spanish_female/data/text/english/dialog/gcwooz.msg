@@ -142,36 +142,25 @@ cartas.}
 {430}{}{Sé a lo que te refieres. Puedo dejarlo cuando quiera. Pero no hoy.}
 {431}{}{No bromeo. Ahora, quiero preguntarte otra cosa.}
 {432}{}{¡Aggg! Debo dejarlo cuando pueda. Adiós.}
-{440}{}{Bueno, lo llamé El Arpa después de dejar las que usaba antes de la guerra. 
-Creo que es un recuerdo de los viejos tiempos. También es una especie de broma para negociar mejor.}
+{440}{}{Bueno, lo llamé El Arpa después de dejar las que usaba antes de la guerra. Creo que es un recuerdo de los viejos tiempos. También es una especie de broma para negociar mejor.}
 {441}{}{¿Antes de la guerra? Pero eso fue hace un montón de tiempo.}
 {442}{}{¿Negociar mejor? ¿A qué te refieres?}
 {450}{}{Debería servir para eso, pero no todo el mundo tiene una ciudad llena de lunáticos 
 clamando por su sangre.}
 {451}{}{¿Qué quieres decir?}
-{460}{}{Claro que fue hace mucho tiempo. ¿Cuál crees que es el origen de los 
-necrófagos? A ver si te crees que nos levantamos un bonito día diciendo: "Joder, ¿que habrá 
-pasado para tener todo mi jodido cuerpo agrietado?"}
+{460}{}{Claro que fue hace mucho tiempo. ¿Cuál crees que es el origen de los necrófagos? A ver si te crees que nos levantamos un bonito día diciendo: "Joder, ¿que habrá pasado para tener todo mi jodido cuerpo agrietado?"}
 {461}{}{Ya, no, no sé. Dime, ¿cómo te conviertes en necrófago?}
 {462}{}{Ya te imaginarás que me importa una mierda lo que te hizo tan feo. Adiós.}
-{470}{}{Esos cabrones de Ciudad Refugio. Si alguien nos va a joder, serán ellos. 
-Están locos.
-Nadie ha estado jodido hasta que intentaron matarnos. Tendría cuidado con 
-ellos si fuera tú.}
-{471}{}{Parece un buen consejo. Tendré cuidado. Déjame preguntarte una cosa, 
-entonces.}
-{472}{}{Creo que tienen unos buenos ideales. Sólo un poco de limpieza 
-genética. Espero que empiecen contigo. Adiós.}
+{470}{}{Esos cabrones de Ciudad Refugio. Si alguien nos va a joder, serán ellos. Están locos. Nadie ha estado jodido hasta que intentaron matarnos. Tendría cuidado con ellos si fuera tú.}
+{471}{}{Parece un buen consejo. Tendré cuidado. Déjame preguntarte una cosa, entonces.}
+{472}{}{Creo que tienen unos buenos ideales. Sólo un poco de limpieza genética. Espero que empiecen contigo. Adiós.}
 {473}{}{Investigo incursiones en los ranchos de brahmines locales. ¿Sabes algo de esto?}
 {480}{}{La única forma de que los necrófagos sean libres será cuando puedan tocar su propia arpa.}
 {481}{}{No sabía que los necrófagos fueran especialmente musicales.}
 {482}{}{Oh, ya veo. Je, je. Déjame preguntarte algo.}
-{490}{}{Pues con misiles y torpedos... muchacho, eres imbécil, ¿verdad? Con altas cantidades de radiación, así es cómo.
- ¿Cómo crees que fue si no? Cayeron muchas bombas, ¿sabes?, surgían rayos de luz y calor, la carne se nos 
-quemó. Pero si a pesar de ello no mueres... te conviertes en esto, ¿no?}
+{490}{}{Pues con misiles y torpedos... muchacho, eres imbécil, ¿verdad? Con altas cantidades de radiación, así es cómo. ¿Cómo crees que fue si no? Cayeron muchas bombas, ¿sabes?, surgían rayos de luz y calor, la carne se nos quemó. Pero si a pesar de ello no mueres... te conviertes en esto, ¿no?}
 {491}{}{Ah, bueno, entiendo…}
-{500}{}{Bueno, apenas lo recordaba. Que te den mucho por recordarme esos intensamente dolorosos 
-recuerdos, cabrón. Somos una ciudad de dejados de la mano de Dios ... de piel chamuscada.}
+{500}{}{Bueno, apenas lo recordaba. Que te den mucho por recordarme esos intensamente dolorosos recuerdos, cabrón. Somos una ciudad de dejados de la mano de Dios ... de piel chamuscada.}
 {501}{}{Prefiero quedarme "poco hecho". Oye, déjame preguntarte algo más.}
 {502}{}{Vale, yo ah, mm. Perdón. Entonces te dejaré revolcándote en tu autocompasión. Adiós.}
 {510}{}{Bueno, normalmente sólo caliento las cabezas huecas de mis clientes... son una especie de bongos. ¿Cómo demonios te dejaron salir de tu pueblo? Eres un peligro para ti y los que te rodean.}
@@ -184,12 +173,10 @@ recuerdos, cabrón. Somos una ciudad de dejados de la mano de Dios ... de piel ch
 {541}{}{Espera, una cabeza cortada está en el infierno, y da vueltas... ¿haciendo qué?}
 {550}{}{Bueno, hace cosas. (ji ji) Ya sabes. Hace lo que quiere, o quizás hace cosas que está obligada a hacer. La cosa es que está haciendo cosas, ya sabes, en el infierno. Oh Dios, (ja ja ja) ¡Es buenísimo!}
 {551}{}{Pareces un tanto obsesionado con esto, ¿no? Mmm. ¿Tu madre fumó durante el embarazo? ¿Has tenido alguna vez problemas mojando tu cama?}
-{560}{}{No, no te enteras. Trata sobre una cabeza cortada. ¿Lo pillas? Jejeje, ¡es divertido! 
-¿Cómo puedes pensar en una cabeza cortada, por todos los puñeteros demonios, sin reírte?}
+{560}{}{No, no te enteras. Trata sobre una cabeza cortada. ¿Lo pillas? Jejeje, ¡es divertido! ¿Cómo puedes pensar en una cabeza cortada, por todos los puñeteros demonios, sin reírte?}
 {561}{}{Wooz, no te conozco muy bien, y estoy bastante seguro de que no quiero. De todos modos, creo que puedo decir, sin pecar de exagerado, que necesitas ayuda. Inmediata y competente. }
 {562}{}{Oh. Ya veo. Porque, sí. Por supuesto; es muy divertido. Jeje. No puedo contener mi alegría...  que es bastante... oh, me parto de la risa...  Necesito preguntarte algo.}
-{570}{}{¡Vete a la mierda! Eres como todos los demás. Te digo que es hilarantemente divertido. No es culpa mía 
-que no tengas sentido del humor.}
+{570}{}{¡Vete a la mierda! Eres como todos los demás. Te digo que es hilarantemente divertido. No es culpa mía que no tengas sentido del humor.}
 {571}{}{Tienes razón, Wooz. Creo que no soy tan listo como tú. Eres una perla en un océano de vulgaridad. Ahora cuéntame algo más.}
 {572}{}{Tengo el suficiente sentido del humor para reconocer la ausencia de él en los demás. Adiós.}
 {600}{}{¿Eres imbécil? Ya te lo conté todo sobre el Tragic. Debes tener muy mala memoria.}
@@ -216,7 +203,7 @@ que no tengas sentido del humor.}
 {719}{}{¡¡NOO!! ¡¿CÓMO PODÍA HABER PERDIDO?! Ahhhgghhhgh.}
 {720}{}{Sí... parece que no puedo parar. Sólo un juego más...}
 {721}{}{Sí, Cerveza Tragos Gamma. ¿Sordo o algo?}
-{722}{}{Si lo es. Un Gamma Gulp viene a la derecha.}
+{722}{}{Si lo es. Un Trago-Gamma  viene a la derecha.}
 {723}{}{De acuerdo, disfrúta. ¿Algo más?}
 {724}{}{Ocasión especial, ¿eh? Bien lah-de-dah, estamos muy especiales hoy. Un Roentgen viniendo ahora mismo entonces.}
 {725}{}{No, gracias.}
