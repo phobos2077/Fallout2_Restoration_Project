@@ -62,12 +62,10 @@
 {160}{}{Esto amarillo parece orina y huele peor. ¿Que vas a hacer?}
 {161}{}{Beberla.}
 {162}{}{Guardarlo. Podría ser útil.}
-{163}{}{Ahh, dulce éxito. Has fabricado Jet. Podrías ser muy popular en Nuevo Reno con esto.
- ¿Que vas a hacer con él?}
+{163}{}{Ahh, dulce éxito. Has fabricado Jet. Podrías ser muy popular en Nuevo Reno con esto. ¿Que vas a hacer con él?}
 {164}{}{Beberla.}
 {165}{}{Guardarlo para usarlo en algún bobo confiado.}
-{166}{}{¡Oh, oh! ¡Has creado unos extraños gases tóxicos! Apenas lo hueles y caes al suelo. Te
- sientes hecho una mierda.}
+{166}{}{¡Oh, oh! ¡Has creado unos extraños gases tóxicos! Apenas lo hueles y caes al suelo. Te sientes hecho una mierda.}
 {167}{}{[HECHO]}
 {168}{}{Esta cosa parece potente. ¿Que vas a hacer con esto?}
 {169}{}{Beberla.}
@@ -78,11 +76,8 @@
 {174}{}{Ponerla en mi inventario.}
 {175}{}{Un meneo por aquí, un meneo por allá, y… uh-oh… ¡BOOM!}
 {176}{}{¡Oh no! ¡Idiota! ¡Acabas de tragarte una fórmula explosiva!}
-{177}{}{Te sientes un poco raro. No, te sientes muy raro. De hecho, sientes cómo tu corazón está
- acelerándose y el mundo se ralentiza y no sabes lo que está pasando y nadie puede ayudarte
- porque no sabes lo que es esto, ¡oh no, ten cuidado! ¡AAAAAAH! ¡¡¡ESTÁS ALUCINANDO!!!}
-{178}{}{Haces muecas por el sabor y entonces te das cuenta de que te está quemando por dentro. Ouch. OUCH.
- ¡¡OUCH!! ¡Te está destrozando las entrañas! }
+{177}{}{Te sientes un poco raro. No, te sientes muy raro. De hecho, sientes cómo tu corazón está acelerándose y el mundo se ralentiza y no sabes lo que está pasando y nadie puede ayudarte porque no sabes lo que es esto, ¡oh no, ten cuidado! ¡AAAAAAH! ¡¡¡ESTÁS ALUCINANDO!!!}
+{178}{}{Haces muecas por el sabor y entonces te das cuenta de que te está quemando por dentro. Ouch. OUCH. ¡¡OUCH!! ¡Te está destrozando las entrañas! }
 {179}{}{Es un poco terroso, pero te las arreglas para tragártelo. Extrañamente, te sientes un poco mejor ahora.}
 {180}{}{Ahh, qué demonios. A pesar de su apariencia, te bebes el desagradable brebaje. Inmediatamente empiezas
  a escupir y a tener arcadas. ¡Has sido irradiado!}

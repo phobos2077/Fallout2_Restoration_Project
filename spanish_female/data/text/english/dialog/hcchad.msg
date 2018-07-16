@@ -22,7 +22,7 @@
 {138}{}{Suena aburrido.}
 {139}{}{Tengo más preguntas.}
 {140}{}{Gracias. Adiós.}
-{141}{}{¿Que te hable acerca de Broken Hills? Bueno... me trasladé aquí hace unos años. Conseguí trabajo con Bill -es el Proveedor- y fui ascendiendo hasta donde estoy ahora. Informo a Marcus y a Bill, pero soy el responsable del sustento de la ciudad.}
+{141}{}{¿Que te hable acerca de Colinas Quebradas? Bueno... me trasladé aquí hace unos años. Conseguí trabajo con Bill -es el Proveedor- y fui ascendiendo hasta donde estoy ahora. Informo a Marcus y a Bill, pero soy el responsable del sustento de la ciudad.}
 {142}{}{Tengo más preguntas.}
 {143}{}{Adiós.}
 {144}{}{¿Como qué?}
