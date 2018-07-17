@@ -82,15 +82,10 @@
 {180}{}{Ahh, qué demonios. A pesar de su apariencia, te bebes el desagradable brebaje. Inmediatamente empiezas
  a escupir y a tener arcadas. ¡Has sido irradiado!}
 {181}{}{[HECHO]}
-{182}{}{Bien… de acuerdo. Recordando las cosas que bebiste cuando eras pequeño, inclinas el
- frasco hacia atrás y dejas que fluya. Tu estómago se hace un nudo cuando el fluido entra en él. Sientes
- como si acabaras de sufrir la picadura de un escorpión rad.}
-{183}{}{Caramba, parece agua, por lo que tiene que ser igual de bueno, ¿no? Tan pronto como la cosa entra en tu garganta,
- te das cuenta de que has cometido un error. Esta cosa QUEMA. Sientes dolor durante mucho, mucho tiempo.}
+{182}{}{Bien… de acuerdo. Recordando las cosas que bebiste cuando eras pequeño, inclinas el frasco hacia atrás y dejas que fluya. Tu estómago se hace un nudo cuando el fluido entra en él. Sientes como si acabaras de sufrir la picadura de un escorpión rad.}
+{183}{}{Caramba, parece agua, por lo que tiene que ser igual de bueno, ¿no? Tan pronto como la cosa entra en tu garganta, te das cuenta de que has cometido un error. Esta cosa QUEMA. Sientes dolor durante mucho, mucho tiempo.}
 {184}{}{Un poco de esto, un poco de aquello… espera un segundo… ¿por qué el frasco echa humo?… ¿qué ocurre? ¡OH NO! ¡El frasco revienta en tu cara!}
-{185}{}{Mezclas los componentes con júbilo, esperando crear la mezcla correcta de sustancias químicas. Luego
- te sientas y esperas los resultados. Y esperas. Y esperas. El líquido se convierte en un algo apagado y cenagoso
- marrón. Es inútil.}
+{185}{}{Mezclas los componentes con júbilo, esperando crear la mezcla correcta de sustancias químicas. Luego te sientas y esperas los resultados. Y esperas. Y esperas. El líquido se convierte en un algo apagado y cenagoso marrón. Es inútil.}
 {186}{}{Te las has arreglado para crear una potente vitamina. ¿Que quieres hacer con ella?}
 {187}{}{Beberla.}
 {188}{}{Guardarla para más tarde.}

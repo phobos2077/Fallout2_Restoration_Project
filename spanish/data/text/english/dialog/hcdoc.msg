@@ -1,7 +1,6 @@
 {100}{}{Ves a un viejo arrugado que lleva una bata de doctor.}
 {101}{}{Ves al doctor Holliday.}
-{102}{}{Ves a un viejo arrugado con una bata de doctor ligeramente manchada de sangre. El hombre irradia un aire
- de sabiduría. También parece estar ligeramente enfermo.}
+{102}{}{Ves a un viejo arrugado con una bata de doctor ligeramente manchada de sangre. El hombre irradia un aire de sabiduría. También parece estar ligeramente enfermo.}
 {103}{}{::resuella:: Hola. Soy el doctor Holliday. ¿En qué puedo ayudarte?}
 {104}{}{¿Qué quieres ahora?}
 {105}{}{¡Ay!}
@@ -18,14 +17,11 @@
 {116}{}{Sí, puedo curar esto… ::resuello:: por un precio.}
 {117}{}{¿Cuánto?}
 {118}{}{Olvídalo.}
-{119}{}{¿Que qué hago aquí? Estás en un hospital. Llevo puesta una bata de doctor. Estoy cubierto de sangre.
- Hay bisturís, cosas punzantes tiradas por el suelo. O soy un asesino exitoso o un aceptable doctor. Tú eliges.}
+{119}{}{¿Que qué hago aquí? Estás en un hospital. Llevo puesta una bata de doctor. Estoy cubierto de sangre. Hay bisturís, cosas punzantes tiradas por el suelo. O soy un asesino exitoso o un aceptable doctor. Tú eliges.}
 {120}{}{Creo que puedo llamarte doctor.}
 {121}{}{No te hagas el listillo conmigo, viejo.}
 {122}{}{Un buen doctor no se llenaría por completo de sangre.}
-{123}{}{Vamos a ver. Nací aquí hace años. El lugar aún se estaba formando. Me instalé cuando era un
- adolescente y estuve labrando la zona durante un tiempo. Conocí a una mujer. Nos enamoramos. Murió por una 
-enfermedad. Entonces decidí que sería doctor.}
+{123}{}{Vamos a ver. Nací aquí hace años. El lugar aún se estaba formando. Me instalé cuando era un adolescente y estuve labrando la zona durante un tiempo. Conocí a una mujer. Nos enamoramos. Murió por una enfermedad. Entonces decidí que sería doctor.}
 {124}{}{¿Sí? Sigue.}
 {125}{}{Estábamos hablando sobre Broken Hills, no sobre tu vida.}
 {126}{}{Te sorprendería lo que dice la gente cuando está sufriendo dolor.}
@@ -53,20 +49,16 @@ enfermedad. Entonces decidí que sería doctor.}
  lleno de agujeros. Esta desventura te costará 100 dólares.}
 {148}{}{Pagaré.}
 {149}{}{Olvídalo.}
-{150}{}{Chaval, ¿cuidas de tus amigos? ::tose:: Si te quieres hacer cargo de este amigo tuyo,
- necesitarás pagar 150 dólares.}
+{150}{}{Chaval, ¿cuidas de tus amigos? ::tose:: Si te quieres hacer cargo de este amigo tuyo, necesitarás pagar 150 dólares.}
 {151}{}{Pagaré.}
 {152}{}{Olvídalo.}
-{153}{}{Debes ser muy bueno para inspirar una lealtad como ésta en tus amigos. Espero que seas bueno...
-porque esto te va a costar ::tose:: 200 dólares.}
+{153}{}{Debes ser muy bueno para inspirar una lealtad como ésta en tus amigos. Espero que seas bueno... porque esto te va a costar ::tose:: 200 dólares.}
 {154}{}{Pagaré.}
 {155}{}{Olvídalo.}
-{156}{}{¡Ouch! Necesitaré ponerte una escayola en eso o algo así. Gracias a mis amplios conocimientos médicos,
- estarás corriendo de nuevo por 300 dólares.}
+{156}{}{¡Ouch! Necesitaré ponerte una escayola en eso o algo así. Gracias a mis amplios conocimientos médicos, estarás corriendo de nuevo por 300 dólares.}
 {157}{}{Pagaré.}
 {158}{}{Olvídalo.}
-{159}{}{Amigo, no tienes esa cantidad de dinero. Puedo venderte algunas medicinas si quieres, pero
- la curación que estás buscando no la puedes conseguir del modo en que yo puedo proporcionártela.}
+{159}{}{Amigo, no tienes esa cantidad de dinero. Puedo venderte algunas medicinas si quieres, pero la curación que estás buscando no la puedes conseguir del modo en que yo puedo proporcionártela.}
 {160}{}{Dame las medicinas.}
 {161}{}{No, gracias.}
 {162}{}{Ha sido un placer.}
@@ -82,8 +74,7 @@ porque esto te va a costar ::tose:: 200 dólares.}
 {171}{}{¿Duele?}
 {172}{}{Sí. Y así… ¡Ya está! Hemos terminado. Buena suerte, ¿vale? ¡No te hagas daño!}
 {173}{}{¡G-gracias!}
-{174}{}{Exacto. Soy doctor. Me alegra ver que la inteligencia sigue viva y en forma en el mundo
- post-nuclear.}
+{174}{}{Exacto. Soy doctor. Me alegra ver que la inteligencia sigue viva y en forma en el mundo post-nuclear.}
 {175}{}{¡Ja! ¡Y está dando vueltas dentro del cuerpo de un viejo de 70 años!}
 {176}{}{No quiero seguir aguantando tus mierdas, viejo.}
 {177}{}{Mmmm.. Sí. Tengo más preguntas.}
@@ -105,8 +96,7 @@ porque esto te va a costar ::tose:: 200 dólares.}
 {192}{}{Sí, sí, sí… Tengo que irme.}
 {193}{}{Relájate, chaval. Solo estaba bromeando contigo.}
 {194}{}{Sí, lo sé. Entonces… mmmm… }
-{195}{}{… ¡y lo que rechazamos deciros, pequeño bastardo! (se echa a reír).
- Chaval, la próxima vez que necesites verme por ayuda médica, invita la casa.}
+{195}{}{… ¡y lo que rechazamos deciros, pequeño bastardo! (se echa a reír). Chaval, la próxima vez que necesites verme por ayuda médica, invita la casa.}
 {196}{}{Tengo otras preguntas.}
 {197}{}{Gracias. Hasta otra.}
 {198}{}{¿Estás herido? Déjame apañarte eso.}
