@@ -105,8 +105,7 @@
 {201}{}{¿Hay alguien herido? Oh, poneos en fila y me haré cargo de todos vosotros.}
 {202}{}{Una cosa más…}
 {203}{}{¡Gracias! ¡Adiós!}
-{204}{}{Sorprendentemente poco. Lo siento, pero cuando estoy concentrado en curar a alguien,
- no suelo prestar atención a sus mas íntimos secretos.}
+{204}{}{Sorprendentemente poco. Lo siento, pero cuando estoy concentrado en curar a alguien, no suelo prestar atención a sus mas íntimos secretos.}
 {205}{}{Oh. ¿Me responderás a más preguntas?}
 {206}{}{Entonces viajé a San Francisco y estudié allí con los chinos… un viejo caballero que
  se llamaba señor Fung me enseñó todo lo que sé sobre medicina. También me enseñó ciertos conocimientos.}
@@ -119,12 +118,10 @@
  juventud en la "creciente metrópoli" que ves ante ti. He visto a gente atraída por promesas de
  riqueza. He visto a personas crecer y morir. He visto el curso de la historia.}
 {213}{}{Entonces eso significa…}
-{214}{}{Eso significa que no conozco a la mayoría de la gente nueva de hoy en día. La mayoría de mis recuerdos son sólo
- eso: recuerdos.}
+{214}{}{Eso significa que no conozco a la mayoría de la gente nueva de hoy en día. La mayoría de mis recuerdos son sólo eso: recuerdos.}
 {215}{}{Oh. Bueno, gracias por la historia.}
 {216}{}{¡Capullo! ¿Me has hecho esperar tanto tiempo para nada?}
-{217}{}{No, gracias por escucharme. La próxima vez que estés aquí y necesites curarte, invita la
- casa.}
+{217}{}{No, gracias por escucharme. La próxima vez que estés aquí y necesites curarte, invita la casa.}
 {218}{}{¡Gracias! Así que de todas formas…}
 {219}{}{Gracias. ¡Hasta luego!}
 {220}{}{Sí. ¡Espero que lo mereciera! (ríe entre dientes)}
