@@ -9,17 +9,13 @@
 {107}{}{¿Qué se puede hacer en este lugar?}
 {108}{}{¿Estás listo para un pulso, señor Pectorales Férreos?}
 {109}{}{Amigo, no tengo ni idea de lo que estás intentando decir. Lo siento.}
-{110}{}{Soy Francis. Soy el campeón de pulso de esta ciudad. Mantengo la apuesta de que nadie
- puede vencerme.}
-{111}{}{Soy Francis, ¿recuerdas? ¿El campeón de pulso de la ciudad? Tengo una apuesta en marcha de que nadie puede
- vencerme.}
+{110}{}{Soy Francis. Soy el campeón de pulso de esta ciudad. Mantengo la apuesta de que nadie puede vencerme.}
+{111}{}{Soy Francis, ¿recuerdas? ¿El campeón de pulso de la ciudad? Tengo una apuesta en marcha de que nadie puede vencerme.}
 {112}{}{¡Yo te gano! ¡Yo! ¡Yo!}
 {113}{}{Apuesto a que no has tenido muchos aspirantes.}
 {114}{}{Apuesto a que yo podría.}
 {115}{}{Qué bien, ¿eh?}
-{116}{}{¿Qué se puede hacer en la ciudad? A ver, veamos… está el salón, las minas, la refinería, y la
- caravana. Por aquí no tenemos mucho tiempo para la diversión, y por eso lo que hacemos por lo general es dedicarnos a la bebida.
- También trabajamos en las relaciones humano/mutante.}
+{116}{}{¿Qué se puede hacer en la ciudad? A ver, veamos… está el salón, las minas, la refinería, y la caravana. Por aquí no tenemos mucho tiempo para la diversión, y por eso lo que hacemos por lo general es dedicarnos a la bebida. También trabajamos en las relaciones humano/mutante.}
 {117}{}{Qué… excitante.}
 {118}{}{De acuerdo, gracias.}
 {119}{}{Relaciones humano/mutantes? ¿Qué quieres decir?}
@@ -28,8 +24,7 @@
 {122}{}{Umm, no.}
 {123}{}{Por supuesto que puedo.}
 {124}{}{[contempla tu tamaño y calibra tu musculatura] Creo que no, amigo. No sería más que una pérdida de tiempo. Vete a la mierda.}
-{125}{}{¿Crees que podrías, ¿eh? Muy bien. Si ganas, consigues este puño de combate. Si yo gano, serás
- mi esclavo por una noche. ¿Quieres hacerlo ahora, o te gustaría tomarte tu tiempo para descansar?}
+{125}{}{¿Crees que podrías, ¿eh? Muy bien. Si ganas, consigues este puño de combate. Si yo gano, serás mi esclavo por una noche. ¿Quieres hacerlo ahora, o te gustaría tomarte tu tiempo para descansar?}
 {126}{}{¡Descanso! ¡Descanso!}
 {127}{}{Ahora. ¡Hacemos ahora!}
 {128}{}{Primero me gustaría tomar un descanso.}
