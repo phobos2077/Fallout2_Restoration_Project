@@ -30,14 +30,12 @@
 {128}{}{Primero me gustaría tomar un descanso.}
 {129}{}{Me la voy a jugar ahora.}
 {130}{}{He cambiado de opinión. No quiero competir contigo.}
-{131}{}{Eso es verdad. Parece que tampoco hay nadie en esta tierra dejada de la mano de Dios que se atreva
- con ello.}
+{131}{}{Eso es verdad. Parece que tampoco hay nadie en esta tierra dejada de la mano de Dios que se atreva con ello.}
 {132}{}{Qué pena. Si encuentro a alguien, le hablaré de ti. Adiós.}
 {133}{}{Sólo porque eres fuerte no significa que seas inteligente, amigo. Recuérdalo.}
 {134}{}{Colega, si no te gusta estar aquí, hay todo un mundo ahí fuera.}
 {135}{}{No hay problema. Cualquier otra cosa que necesites, no dudes en preguntarle al camarero Phil o a algún otro.}
-{136}{}{Colega, ¿quieres echar un pulso o no? No tengo tiempo que perder en comentarios arrogantes
- y cobardes.}
+{136}{}{Colega, ¿quieres echar un pulso o no? No tengo tiempo que perder en comentarios arrogantes y cobardes.}
 {137}{}{Sí, desde luego. Hagámoslo.}
 {138}{}{No, creo que no.}
 {139}{}{Entonces vuelve cuando estés listo y aquí me encontrarás. Debería estar por aquí.}
@@ -45,11 +43,9 @@
 {141}{}{Echándote atrás, ¿eh? Cobarde. Ya me lo imaginaba.}
 {142}{}{Está bien, está bien, lo haré.}
 {143}{}{Sí, lo que sea. Nos vemos.}
-{144}{}{En fin, amigo, es la primera vez que alguien me ha vencido en un combate justo. Tú ganas. Toma esto.
- Bien hecho.}
+{144}{}{En fin, amigo, es la primera vez que alguien me ha vencido en un combate justo. Tú ganas. Toma esto. Bien hecho.}
 {145}{}{Has perdido. No ha sido una gran sorpresa. Es hora de que me acompañes a mi casa.}
-{146}{}{Te diré algo, colega, no he visto un brazo así en la vida. Úsalo correctamente, y llegarás
- lejos. ¡Disfruta el guante!}
+{146}{}{Te diré algo, colega, no he visto un brazo así en la vida. Úsalo correctamente, y llegarás lejos. ¡Disfruta el guante!}
 {147}{}{¿No tuviste bastante de mí antes? ¿Quieres volver a intentarlo? ¿El mismo trato?}
 {148}{}{Sí, hagámoslo.}
 {149}{}{No, lo siento.}
@@ -57,9 +53,7 @@
 {151}{}{Colega, gracias por intervenir para salvar nuestra ciudad. Déjame invitarte a un trago.}
 {152}{}{¡Qué tal, héroe!}
 {153}{}{¡Escoria! ¡Muere!}
-{154}{}{Habrás notado que tenemos tanto a mutantes como a humanos en la ciudad. Estamos intentando trabajar para
- que todos vivamos en paz. Por desgracia, hay quienes quieren destruir eso. Nuestro líder, Marcus,
- ayudó a fundar la ciudad. ¿Quieres saber más?}
+{154}{}{Habrás notado que tenemos tanto a mutantes como a humanos en la ciudad. Estamos intentando trabajar para que todos vivamos en paz. Por desgracia, hay quienes quieren destruir eso. Nuestro líder, Marcus, ayudó a fundar la ciudad. ¿Quieres saber más?}
 {155}{}{Sí, cuéntame más.}
 {156}{}{No, en realidad no.}
 {157}{}{Francamente, creo que los mutantes sois escoria y que esos humanos son traidores al trabajar contigo.}
@@ -68,8 +62,7 @@
 {159}{}{Gracias. Adiós.}
 {160}{}{De acuerdo. Bueno, si necesitas más información, ya sabes dónde encontrarme.}
 {161}{}{Desde luego. Gracias. Adiós.}
-{162}{}{¿En serio? Esa es una actitud fascinante. Lástima que no aplastásemos tu villorrio cuando controlamos
- el Yermo. Sal de mi vista, gusano.}
+{162}{}{¿En serio? Esa es una actitud fascinante. Lástima que no aplastásemos tu villorrio cuando controlamos el Yermo. Sal de mi vista, gusano.}
 {200}{}{[HECHO]}
 {201}{}{Adiós.}
 {202}{}{Gracias. Adiós.}
@@ -129,5 +122,4 @@
 {608}{}{No, no lo hará. Voy a matarte yo mismo.}
 {700}{}{Has vencido a Francis en una competición de pulso.}
 {701}{}{Has hecho frente a Francis por la nota a Zaius.}
-{800}{}{(Mirando al enorme mutante, comprendes que no habrías tenido una
- sola oportunidad. Es hora de irse mientras aún mantienes tu dignidad.)}
+{800}{}{(Mirando al enorme mutante, comprendes que no habrías tenido una sola oportunidad. Es hora de irse mientras aún mantienes tu dignidad.)}
