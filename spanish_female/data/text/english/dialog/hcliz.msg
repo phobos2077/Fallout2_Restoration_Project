@@ -27,8 +27,7 @@
 {125}{}{¿Quieres comprar algo? Bien. Esto es lo que tengo.}
 {126}{}{Otra cosa...}
 {127}{}{Gracias. Nos vemos.}
-{128}{}{Es una pequeña ciudad minera con toda clase de indeseables. Si quieres una visita guiada,
- habla con Steve o algún otro.}
+{128}{}{Es una pequeña ciudad minera con toda clase de indeseables. Si quieres una visita guiada, habla con Steve o algún otro.}
 {129}{}{Vaya, una de las malhumoradas. Tengo más preguntas.}
 {130}{}{Vale. Adiós.}
 {131}{}{¿Qué estás pensando en matar?}
