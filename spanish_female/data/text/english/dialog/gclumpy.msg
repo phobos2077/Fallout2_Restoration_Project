@@ -46,7 +46,7 @@
 {201}{}{¿De verdad?}
 {210}{}{Un día simplemente no pude seguir soportándolo. Imaginé que morir en el Yermo sería mejor que vivir con esos gilipollas de Ciudad Refugio.}
 {211}{}{¿Y entonces cómo terminaste aquí?}
-{220}{}{Bueno, una caravana de Colinas Quebradas  me encontró y me trajo a Gecko, he estado viviendo aquí desde entonces. Una cosa curiosa acerca de los necrófagos de este lugar es que se preocupan más acerca del tipo de persona que eres por dentro. Son como una gran familia.}
+{220}{}{Bueno, una caravana de Broken Hills me encontró y me trajo a Gecko, he estado viviendo aquí desde entonces. Una cosa curiosa acerca de los necrófagos de este lugar es que se preocupan más acerca del tipo de persona que eres por dentro. Son como una gran familia.}
 {221}{}{¿Broken Hills? ¿Dónde queda eso?}
 {222}{}{Interesante. Déjame hacerte otra pregunta.}
 {223}{}{Me alegra que seas feliz aquí. Adiós.}
@@ -60,7 +60,7 @@
 {244}{}{¿Qué haces aquí?}
 {245}{}{¿Quién es Skeeter?}
 {246}{}{¿Ha ocurrido algo inusual por aquí?}
-{250}{}{Es porque también comercian con uranio con Ciudad Refugio, y ahí tratan a todos los que no son humanos de pura cepa como leprosos. Así que Colinas Quebradas emplea comerciantes humanos. Uno de ellos es un sujeto llamado Chad, creo.}
+{250}{}{Es porque también comercian con uranio con Ciudad Refugio, y ahí tratan a todos los que no son humanos de pura cepa como leprosos. Así que Broken Hills emplea comerciantes humanos. Uno de ellos es un sujeto llamado Chad, creo.}
 {251}{}{Chad, ¿eh? Lo tendré en mente. Déjame preguntarte algo más.}
 {252}{}{Supongo que eso es todo lo que necesito saber por ahora. Adiós.}
 {260}{}{Parte de esa chatarra son restos de cuando estaban construyendo el reactor, antes de la guerra. ¿El resto? Ni idea, Skeeter colecciona todo tipo de cosas.}

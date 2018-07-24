@@ -40,7 +40,7 @@
 {200}{}{Sabes que lo soy. Creo que tú entiendes realmente este tipo de cuestiones. Si no estuviera tan ocupado por aquí dirigiría todo Gecko. Y déjame decirte que lo haría muy bien.}
 {201}{}{¿También dirigirías la ciudad?}
 {202}{}{¡Arrrrrgh! Me marcho. Eso hago. No intentes detenerme. ¡Adiós!}
-{210}{}{Bueno, no habría que comerciar con el uranio de Colinas Quebradas . Lo intercambiaríamos por energía, en vez de ello. Ellos podrían dirigir su ciudad usando el poder del átomo.}
+{210}{}{Bueno, no habría que comerciar con el uranio de Broken Hills. Lo intercambiaríamos por energía, en vez de ello. Ellos podrían dirigir su ciudad usando el poder del átomo.}
 {211}{}{¿No tendrías que supervisar líneas de alimentación a través de millas y millas de peligroso desierto?}
 {212}{}{¿Hueles eso? ¿Eso que apesta? Será mejor que me vaya. Adiós.}
 {220}{}{Bueno, supongo que sí. Entonces les haríamos comprarnos baterías gigantes. Sí, eso es lo bonito de todo esto. Entonces ellos también tendrían que comprarnos las baterías. Y eso sólo sería el comienzo: tengo otros grandes planes, como...}

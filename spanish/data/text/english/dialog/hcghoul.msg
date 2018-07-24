@@ -49,8 +49,7 @@
 {148}{}{Franc y Manson… alguien desea la muerte de los mutantes.}
 {149}{}{¿Cómo pudiste sacar a esos dos de la cárcel?}
 {150}{}{Deberías avergonzarte de ti mismo.}
-{151}{}{Espero que estés en lo cierto y Franc y Manson no supongan una amenaza… los mutantes te culparán a ti de
- ello.}
+{151}{}{Espero que estés en lo cierto y Franc y Manson no supongan una amenaza… los mutantes te culparán a ti de ello.}
 {152}{}{Franc y Manson... de vuelta en casa... uf, chico. Quizá me vaya de la ciudad.}
 {153}{}{Se está tramando algo sangriento en la ciudad.}
 {154}{}{¿Has notado que últimamente en la ciudad huele a problemas?}
@@ -64,8 +63,7 @@
 {162}{}{No creo que Broken Hills llegue a recuperarse de la pérdida de la mina…}
 {163}{}{Todos los mutantes... muertos…}
 {164}{}{…ahora nunca sabremos si habríamos podido tener paz entre mutantes y humanos…}
-{165}{}{Es hora de marcharse y ver lo que el resto del mundo puede ofrecer… no merece la pena desenterrar
- la mina.}
+{165}{}{Es hora de marcharse y ver lo que el resto del mundo puede ofrecer… no merece la pena desenterrar la mina.}
 {166}{}{Me pregunto si en algún otro lugar de California necesitan refinadores de uranio.}
 {167}{}{Supongo que tendré que volver a Gecko ahora…}
 {168}{}{Jodido bastardo.}

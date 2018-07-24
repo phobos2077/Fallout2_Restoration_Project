@@ -97,10 +97,10 @@
 {196}{hld29}{Nada, ¿eh? Y yo que me lo creo. Acabas de ponernos en un aprieto. ¿Por qué no desapareces mientras pienso qué hacer?}
 {197}{}{Eh, lo siento.}
 {198}{}{Sí, claro. Ponte a hacerlo. Cristo, uno intenta ayudar a la gente....}
-{199}{hld30}{¡¿Que por qué?! Ahora Ciudad Refugio sabe lo mucho que necesitamos el uranio de  Colinas Quebradas. Podrían cortar los envíos y estaríamos acabados.}
+{199}{hld30}{¡¿Que por qué?! Ahora Ciudad Refugio sabe lo mucho que necesitamos el uranio de Broken Hills. Podrían cortar los envíos y estaríamos acabados.}
 {200}{}{Oh, pero no puede ser tan malo. A mí me parecieron gente razonable.}
 {201}{}{No sabía para qué usarían la información. Lo siento. Adiós.}
-{202}{hld31}{Bueno, desde luego que espero que no. Esos imbéciles de Ciudad Refugio odian a los necrófagos. Cortarían nuestros envíos de uranio de Colinas Quebradas en apenas un minuto. Después establecerían las condiciones. No pasaría mucho tiempo para que Gecko pasara a ser un campo de esclavos.}
+{202}{hld31}{Bueno, desde luego que espero que no. Esos imbéciles de Ciudad Refugio odian a los necrófagos. Cortarían nuestros envíos de uranio de Broken Hills en apenas un minuto. Después establecerían las condiciones. No pasaría mucho tiempo para que Gecko pasara a ser un campo de esclavos.}
 {203}{}{Oh, estoy seguro de que no sucedería así. Parecen bastante razonables.}
 {204}{}{Vaya, menos mal que no les dije nada de eso. Je, je. Oye, deja que te pregunte algo más.}
 {205}{}{Bueno, a veces las cosas se tuercen. A veces te tuerces tú. Adiós.}
@@ -164,7 +164,7 @@
 {263}{}{Parece que tienes un montón de preocupaciones. Adiós.}
 {264}{hld50}{Si no la conseguimos, puedes apostar a que esos memos de Ciudad Refugio cerrarán nuestra central de forma permanente.}
 {265}{}{¿Qué haréis entonces?}
-{266}{hld51}{Conseguimos nuestro combustible de Colinas Quebradas. Es una comunidad minera que está hacia el sur.}
+{266}{hld51}{Conseguimos nuestro combustible de Broken Hills. Es una comunidad minera que está hacia el sur.}
 {267}{}{Interesante. ¿Dónde podría encontrar un regulador hidroele-lo que sea?}
 {268}{}{¿Qué sucede si no conseguís la hidro-pieza esa?}
 {269}{}{Hmm, creo que debería dejar que esto lo resolvais vosotros mismos. Adiós.}
