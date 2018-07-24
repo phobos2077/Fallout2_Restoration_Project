@@ -1,7 +1,6 @@
 {100}{}{Ves una rara cosa mutante con la piel manchada y una sonrisa espantosa.}
 {101}{}{Ves al supervisor de la refinería.}
-{102}{}{Ves a un necrófago. Su piel parece a punto de desprenderse del cuerpo de la criatura. También parece
- ser bien aceptado por los demás habitantes.}
+{102}{}{Ves a un necrófago. Su piel parece a punto de desprenderse del cuerpo de la criatura. También parece ser bien aceptado por los demás habitantes.}
 {103}{}{¡Se supone que no puedes estar aquí!}
 {104}{}{¿Qué quieres?}
 {105}{}{¡Da yagga! ¡Eep oop op!}

@@ -1,7 +1,6 @@
 {100}{}{Ves a un extraño mutante, con la piel moteada y una espantosa sonrisa.}
 {101}{}{Ves a un necrófago de la ciudad.}
-{102}{}{Ves a un necrófago. Su piel parece a punto de desprenderse del cuerpo de la criatura. También parece
- ser bien aceptado por los demás habitantes.}
+{102}{}{Ves a un necrófago. Su piel parece a punto de desprenderse del cuerpo de la criatura. También parece ser bien aceptado por los demás habitantes.}
 {103}{}{El trabajo en la refinería es duro.}
 {104}{}{Los mutantes y los humanos parecen estar al límite últimamente.}
 {105}{}{No me gusta trabajar cerca del ácido.}
