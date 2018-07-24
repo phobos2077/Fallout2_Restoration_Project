@@ -1,7 +1,6 @@
 {100}{}{Ves a un necrófago que lleva un delantal.}
 {101}{}{Ves a Phil, el camarero. Está limpiando un vaso.}
-{102}{}{Ves a un necrófago que lleva un delantal limpiando un vaso. Al verlo que está justo detrás de la barra, asumes
- que es el camarero de este salón.}
+{102}{}{Ves a un necrófago que lleva un delantal limpiando un vaso. Al verlo que está justo detrás de la barra, asumes que es el camarero de este salón.}
 {103}{}{Buenas, forastero. Bienvenido a la ciudad. ¿Cuál es tu nombre?}
 {104}{}{¿Doi?}
 {105}{}{!}
@@ -26,8 +25,7 @@
 {133}{}{¡Cereza!}
 {134}{}{¡Agua de f-fuego!}
 {135}{}{¡Gola!}
-{136}{}{Bien, simplemente avísame cuando quieras algo y te surtiré, amigo. Intenta no
- molestar a los demás clientes, ¿de acuerdo?}
+{136}{}{Bien, simplemente avísame cuando quieras algo y te surtiré, amigo. Intenta no molestar a los demás clientes, ¿de acuerdo?}
 {137}{}{¡Va-le!}
 {138}{}{Una cerveza, aquí está. Serán 3 dólares, más 1 de propina para mí. Eso hacen 4 dólares, chavalito.}
 {139}{}{¡Pago!}

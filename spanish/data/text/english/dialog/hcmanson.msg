@@ -9,8 +9,7 @@
 {107}{}{¿Por qué estás en la cárcel?}
 {108}{}{Háblame de Broken Hills.}
 {109}{}{Nada. Olvídalo.}
-{110}{}{No entiendo una palabra de ese estúpido idioma de bichos raros tuyo. Será mejor que te largues de aquí antes de que yo también me
- vuelva estúpido.}
+{110}{}{No entiendo una palabra de ese estúpido idioma de bichos raros tuyo. Será mejor que te largues de aquí antes de que yo también me vuelva estúpido.}
 {111}{}{¡Oh!}
 {112}{}{Manson. Rebelde sin causa.}
 {113}{}{¿Contra qué te rebelas?}
@@ -21,16 +20,13 @@
 {118}{}{Estoy aquí porque Franc y yo estábamos trabajando en contra de lo que la sociedad quiere que creamos.}
 {119}{}{Que es…}
 {120}{}{¡Sí! ¡Abajo el poder!}
-{121}{}{¿Broken Hills? He vivido aquí toda mi vida. Por eso conozco todo lo malo que se cuece aquí.
- Por eso sé lo malvados que son todos los mutantes. Es algo bueno que haya alguien de nosotros que vea
- la verdad.}
+{121}{}{¿Broken Hills? He vivido aquí toda mi vida. Por eso conozco todo lo malo que se cuece aquí. Por eso sé lo malvados que son todos los mutantes. Es algo bueno que haya alguien de nosotros que vea la verdad.}
 {122}{}{Ya, lo pillo. Abajo el poder, ¿eh?}
 {123}{}{Lo que ves es odio, y esa no es la verdad.}
 {124}{}{Quizá deberías darte cuenta de que lo único que ves es aquello que le permites a otros
  que te muestren, y que los sermones sobre política racista sólo te hacen parecer más estúpido.}
 {125}{}{Sí. Adiós.}
-{126}{}{La sociedad quiere hacernos creer que los humanos y los mutantes están hechos para vivir juntos. ¡Pero los mutantes
- están ahí fuera para matarnos! Al menos, eso es lo que dice Franc.}
+{126}{}{La sociedad quiere hacernos creer que los humanos y los mutantes están hechos para vivir juntos. ¡Pero los mutantes están ahí fuera para matarnos! Al menos, eso es lo que dice Franc.}
 {127}{}{Realmente te gusta Franc, ¿eh?}
 {128}{}{Eso puede que sea la tontería más grande que haya oído nunca.}
 {129}{}{De acuerdo. Adiós.}
@@ -48,8 +44,7 @@
 {138}{}{Claro. Adiós.}
 {139}{}{¿Qué?}
 {140}{}{Nada.}
-{141}{}{Sí, creo que es una de las personas más sabias que haya conocido. Jacob es inteligente, pero no tan
- honesto como Franc.}
+{141}{}{Sí, creo que es una de las personas más sabias que haya conocido. Jacob es inteligente, pero no tan honesto como Franc.}
 {142}{}{Franc no es más que un virulento hijo de puta. No te llevará a ninguna parte.}
 {143}{}{Sí, lo he conocido. Un buen tipo.}
 {144}{}{No lo he conocido. No tengo una opinión sobre él.}
@@ -74,8 +69,7 @@
 {163}{}{Quiero entrar.}
 {164}{}{No cuentes conmigo.}
 {165}{}{Genial. Buena suerte.}
-{166}{}{Bueno, la gente cree que era un pandillero o algo así. Pero el Manson por el que llevo el nombre creó una
- religión y lo mataron por su causa. Fue un mártir. Quizá yo también seré uno.}
+{166}{}{Bueno, la gente cree que era un pandillero o algo así. Pero el Manson por el que llevo el nombre creó una religión y lo mataron por su causa. Fue un mártir. Quizá yo también seré uno.}
 {167}{}{Parece… fascinante. De todas formas…}
 {168}{}{Tendrías que hablar con Jacob sobre eso. Estoy seguro que con lo de la fuga, contará contigo.}
 {169}{}{Genial. Nos vemos.}

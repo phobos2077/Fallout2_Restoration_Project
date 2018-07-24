@@ -52,16 +52,14 @@
 {149}{}{Cualquiera que no me guste. Humanoides, sobre todo.}
 {150}{}{Cualquiera que se interponga en mi camino.}
 {151}{}{Una definición bastante expansiva.}
-{152}{}{Oh, bien, si te enteraste por una fuente de confianza, entonces vale. ¿Vas a poner punto y final a la
- dominación mutante?}
+{152}{}{Oh, bien, si te enteraste por una fuente de confianza, entonces vale. ¿Vas a poner punto y final a la dominación mutante?}
 {153}{}{Sí.}
 {154}{}{No.}
 {155}{}{Entonces supongo que será mejor empezar por atar los cabos sueltos.}
 {156}{}{[HECHO]}
 {157}{}{En este establecimiento no se apoya el asesinato. Desaparece.}
 {158}{}{Sí, lo que sea. Zorra.}
-{159}{}{Los necrófagos son esclavos útiles. No tienen sesos suficientes para considerarlos personas, pero tampoco merece
- la pena matarlos. No apoyo el asesinato de necrófagos.}
+{159}{}{Los necrófagos son esclavos útiles. No tienen sesos suficientes para considerarlos personas, pero tampoco merece la pena matarlos. No apoyo el asesinato de necrófagos.}
 {160}{}{Bien. Quiero algo más.}
 {161}{}{Lo que sea. Adiós.}
 {162}{}{Si realmente estás interesado en matar mutantes, tal vez deberías ir a hablar con Jacob el farmacéutico.}
@@ -71,8 +69,7 @@
 {166}{}{En ese caso, toma el pasadizo oculto en el suelo de mi habitación hasta el baluarte. Tengo un
  pequeño arsenal ahí abajo. Largo de aquí.}
 {167}{}{Gracias.}
-{168}{}{Da la casualidad de que me deshice de todas las armas que tenía excepto lo que ves aquí. ¿Te puedo ayudar en
- algo más?}
+{168}{}{Da la casualidad de que me deshice de todas las armas que tenía excepto lo que ves aquí. ¿Te puedo ayudar en algo más?}
 {169}{}{Sí.}
 {170}{}{No.}
 {171}{}{A ti no te vendo nada. Lárgate de mi almacén.}
