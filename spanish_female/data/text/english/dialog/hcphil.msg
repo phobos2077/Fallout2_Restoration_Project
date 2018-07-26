@@ -32,8 +32,7 @@
 {140}{}{No teno.}
 {141}{}{¡Bebida potente, chaval! Son 5 dólares, más 1 de propina para mí, lo que suman 6.}
 {142}{}{¡Bebida potente, nena! Son 5 dólares, más 1 de propina para mí, lo que suman 6.}
-{145}{}{Bueno para ti y bueno para todos. Serán 2 dólares. Incluso te libraré de mi propina. Que sean
- 2 dólares, y solucionado.}
+{145}{}{Bueno para ti y bueno para todos. Serán 2 dólares. Incluso te libraré de mi propina. Que sean 2 dólares, y solucionado.}
 {148}{}{. Si necesitas algo más para beber, vuelve a verme.}
 {149}{}{¡Va-le!}
 {150}{}{! ¿Quieres algo de beber?}
@@ -48,8 +47,7 @@
 {159}{}{[Le das a Phil una propina de 1 dólar] Aquí tienes, Phil.}
 {160}{}{[Le das a Phil una propina de 2 dólares] Gracias, Phil.}
 {161}{}{Vaya, estoy sin blanca. }
-{162}{}{¿Nada? Ja. Ja. Uno no aparca aquí sin beber algo, amigo. Yo también tengo que
- pagar las facturas. Vamos a probar otra vez. ¡Y bien! ¿Qué va a ser?}
+{162}{}{¿Nada? Ja. Ja. Uno no aparca aquí sin beber algo, amigo. Yo también tengo que pagar las facturas. Vamos a probar otra vez. ¡Y bien! ¿Qué va a ser?}
 {167}{}{Olvídalo. Me voy de aquí.}
 {168}{}{Hasta que no vea tu dinero, no abro la boca. ¿Qué prefieres?}
 {173}{}{¡Olvida esto, y olvida tus putas bebidas!}
@@ -61,8 +59,7 @@
 {179}{}{¿Qué se puede hacer por aquí?}
 {180}{}{¿Alguna novedad?}
 {181}{}{Nada. Olvídalo.}
-{182}{}{Sin blanca, ¿eh? Qué pena. Puedes quedarte por aquí, pero no molestes a los clientes. Tengo trabajo que hacer.
- Nos vemos.}
+{182}{}{Sin blanca, ¿eh? Qué pena. Puedes quedarte por aquí, pero no molestes a los clientes. Tengo trabajo que hacer. Nos vemos.}
 {183}{}{¡Adiós!}
 {184}{}{¡Vaya! Bienvenido de nuevo. ¿Qué va a ser?}
 {185}{}{Bienvenido, coleguilla. ¿Qué va a ser?}
@@ -85,12 +82,10 @@
 {209}{}{Pareces un tipo bastante fornido. Apuesto que podrías echar un pulso con Francis. Es el mutante que está sentado allí. Al parecer, ofrece algún tipo de premio. ¿Te interesa? Habla con el tal Francis.}
 {210}{}{Gracias. ¿Hay alguna cosa más?}
 {211}{}{Gracias. Nos vemos.}
-{212}{}{Hay algunas personas desaparecidas. No estamos seguros de dónde están. Si pudieras encontrarlas, estoy seguro
- de que ganarías algo por ello. ¿Quieres empezar con eso? Ve a hablar con Marcus.}
+{212}{}{Hay algunas personas desaparecidas. No estamos seguros de dónde están. Si pudieras encontrarlas, estoy seguro de que ganarías algo por ello. ¿Quieres empezar con eso? Ve a hablar con Marcus.}
 {213}{}{Gracias. ¿Algo más?}
 {214}{}{¡Gracias! Hablaré contigo más tarde.}
-{215}{}{Hmm. Los purificadores de aire de la mina están averiados. Quizá quieras hablar sobre ello con Zaius,
- el capataz.}
+{215}{}{Hmm. Los purificadores de aire de la mina están averiados. Quizá quieras hablar sobre ello con Zaius, el capataz.}
 {216}{}{De acuerdo. ¿Algo más?}
 {217}{}{Gracias. Nos vemos.}
 {218}{}{Tengo entendido que ahora puedes echar un vistazo a la mina. Diablos, si encuentras algo, incluso puedes
@@ -100,8 +95,7 @@
 {221}{}{¡Joder, sí! ¡Entérate de a dónde fueron ese par de lunáticos de Franc y Manson!}
 {222}{}{Estoy en ello.}
 {223}{}{Lo tengo. Nos vemos.}
-{224}{}{Siempre hay una caravana que se dirige a algún lado. Si quieres formar parte de alguna, puedes
- hablar con Bill, el Proveedor. Aparte de eso, no hay mucho más que hacer en este lugar. Lo siento.}
+{224}{}{Siempre hay una caravana que se dirige a algún lado. Si quieres formar parte de alguna, puedes hablar con Bill, el Proveedor. Aparte de eso, no hay mucho más que hacer en este lugar. Lo siento.}
 {225}{}{¡Gracias! Tengo unas pocas preguntas más.}
 {226}{}{De acuerdo. Bueno, me voy de aquí. Nos vemos.}
 {227}{}{¿Sí? ¿Como qué?}
@@ -110,15 +104,13 @@
 {230}{}{¿Qué se puede hacer por aquí?}
 {231}{}{¿Alguna novedad?}
 {232}{}{Nada. Olvídalo.}
-{233}{}{Espero que no te importe que te diga que los tipos de por aquí están ligeramente cabreados porque
- te quedaste ese uranio para ti. Considérate avisado. De todos modos… ¿listo para una copa?}
+{233}{}{Espero que no te importe que te diga que los tipos de por aquí están ligeramente cabreados porque te quedaste ese uranio para ti. Considérate avisado. De todos modos… ¿listo para una copa?}
 {234}{}{Sí.}
 {235}{}{No. Pero tengo preguntas.}
 {236}{}{Algunas personas pueden estar un poco cabreadas por lo de Chad. Date por advertido. ¿Listo para una copa?}
 {237}{}{Sí.}
 {238}{}{No. Pero tengo preguntas.}
-{239}{}{Todos los mutantes están muertos. Alguien voló por los aires la maldita mina mientras estaban en ella. Algún bastardo debe de haber
- dado una falsa alarma y todos llegaron corriendo para ayudar. Sencillamente no entiendo a algunas personas. Condenación... ¿puedo ofrecerte un trago?}
+{239}{}{Todos los mutantes están muertos. Alguien voló por los aires la maldita mina mientras estaban en ella. Algún bastardo debe de haber dado una falsa alarma y todos llegaron corriendo para ayudar. Sencillamente no entiendo a algunas personas. Condenación... ¿puedo ofrecerte un trago?}
 {240}{}{Sí.}
 {241}{}{No. Pero tengo preguntas.}
 {242}{}{Lárgate de mi bar. Ahora. Montón de mierda.}
