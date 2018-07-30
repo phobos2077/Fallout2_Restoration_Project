@@ -15,8 +15,7 @@
 {114}{}{[HECHO]}
 {115}{}{No puedes estar aquí. Es peligroso. Vete ya.}
 {116}{}{[HECHO]}
-{117}{}{Genial. Serán 1.000 dólares, y sin regatear. Te puede parecer caro, pero es una ganga
- considerando lo que obtendrás por el producto final de cualquier comprador interesado.}
+{117}{}{Genial. Serán 1.000 dólares, y sin regatear. Te puede parecer caro, pero es una ganga considerando lo que obtendrás por el producto final de cualquier comprador interesado.}
 {118}{}{Es un trato.}
 {119}{}{1.000 dólares? Eso es ridículo. Olvídalo.}
 {120}{}{Soy el supervisor de esta refinería. ¿Qué quieres?}
@@ -48,9 +47,7 @@
 {144}{}{Seguimos trabajando para refinar tu mineral. Danos tiempo. Esto no es algo instantáneo.}
 {145}{}{Quiero preguntarte algo.}
 {146}{}{Bien. Adiós.}
-{147}{}{Tu mineral está listo. Antes de que te lo lleves, escucha: nuestra ciudad realmente necesita este mineral. Si se lo donas a la
- ciudad, te devolveré tu dinero. Diablos, si quieres más dinero por él, incluso te puedo dar 500 dólares extra para que te haya merecido la pena.
- Por favor. Con el fiasco de la mina, Broken Hills lo necesita para mantenerse a flote. ¿Qué me dices?}
+{147}{}{Tu mineral está listo. Antes de que te lo lleves, escucha: nuestra ciudad realmente necesita este mineral. Si se lo donas a la ciudad, te devolveré tu dinero. Diablos, si quieres más dinero por él, incluso te puedo dar 500 dólares extra para que te haya merecido la pena. Por favor. Con el fiasco de la mina, Broken Hills lo necesita para mantenerse a flote. ¿Qué me dices?}
 {148}{}{Ni hablar.}
 {149}{}{Por supuesto. No te preocupes por los 500 dólares extra. Seguramente los necesitarás más que yo.}
 {150}{}{Bien. Que así sea. Aquí está tu mineral. Ahora, sal de mi refinería.}

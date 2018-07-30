@@ -15,7 +15,7 @@
 {114}{}{[HECHO]}
 {115}{}{No puedes estar aquí. Es peligroso. Vete ya.}
 {116}{}{[HECHO]}
-{117}{}{Grandioso. Serán 1.000 dólares, sin regateos. Puedes pensar que es costoso, pero es una ganga considerando lo que obtendrás por el producto terminado de un comprador interesado.}
+{117}{}{Grandioso. Serán 1.000 dólares, sin regateos. Puedes pensar que es costoso, pero es una ganga considerando lo que obtendrás por el producto terminado.}
 {118}{}{Es un trato.}
 {119}{}{1.000 dólares? Eso es ridículo. Olvídalo.}
 {120}{}{Soy el supervisor de esta refinería. ¿Qué quieres?}

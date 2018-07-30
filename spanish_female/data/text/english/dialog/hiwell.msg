@@ -1,8 +1,6 @@
 {100}{}{Ves el pozo de Broken Hills.}
 {101}{}{El pozo está construido con ladrillos sueltos y resquebrajados. Un hedor a humedad y moho emana de su interior.}
-{102}{}{Recordando lo que dijo Typhon acerca de ocultar el tesoro en algún lugar "indispensable" y "que
- no fuera probable que fuera derribado o enterrado", revisas minuciosamente el viejo pozo. En el interior,
- a pocos metros de profundidad, reparas en un ladrillo que sobresale sustancialmente del resto de la pared.}
+{102}{}{Recordando lo que dijo Typhon acerca de ocultar el tesoro en algún lugar "indispensable" y "que no fuera probable que fuera derribado o enterrado", revisas minuciosamente el viejo pozo. En el interior, a pocos metros de profundidad, reparas en un ladrillo que sobresale sustancialmente del resto de la pared.}
 {103}{}{¡Bieeeeen! ¡Tesoro mí!}
 {104}{}{¡Ta-ta-chaan! ¡Voy a ser apestosamente rico!}
 {105}{}{Sacas cuidadosamente el ladrillo suelto de la pared, y clavas la mirada en la oscuridad buscando tu bien ganada recompensa.}

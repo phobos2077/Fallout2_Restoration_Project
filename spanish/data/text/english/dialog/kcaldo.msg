@@ -11,7 +11,7 @@
 {301}{}{, debes ser muy importante y poderoso entre los tuyos. Seguro que alguien de tan alta (hic) posición estaría encantado de mantener la costumbre de dar propina al guía del pueblo (urp).}
 {302}{}{En vez de eso te daré un consejo... mantente alejado del licor.}
 {303}{}{Propina, ¿eh? Supongo que 5 dólares bastarán para que desaparezcas de mi vista.}
-{304}{}{Oh, no quisiera ir en contra de la costumbre local. ¿Serán suficientes 5 dólares? }
+{304}{}{Oh, no quisiera ir en contra de la costumbre local. ¿Serán suficientes 5 dólares?}
 {305}{}{Deberías ser tú quien me diera una propina a mí, para que no me tome la molestia de librar a Klamath de un despojo como tú.}
 {306}{}{Lo siento, pero el Elegido no necesita dinero. No tengo nada que darte.}
 {350}{}{Bien, mi buen }

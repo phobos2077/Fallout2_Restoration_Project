@@ -123,9 +123,7 @@
 {220}{}{Supongo que fue un error no intencionado. Adiós.}
 {221}{}{V-ale. ¿Dónde din-nero?}
 {222}{}{Caray, Typhon. Qué atento eres. Así que, ¿dónde está el dinero?}
-{223}{}{Está bien. Recuerdo haber escondido el dinero en algún lugar del centro de la ciudad. Pero fue hace muchos años, y los edificios se han
- construido y reconstruido una y otra vez, así que no sé exactamente dónde está. Si te ayuda de algo, recuerdo haber pensado en que debería ponerlo
- en algún lugar que no fuera probable que fuera derribado o enterrado. Un lugar indispensable, ¿entiendes? Buena suerte.}
+{223}{}{Está bien. Recuerdo haber escondido el dinero en algún lugar del centro de la ciudad. Pero fue hace muchos años, y los edificios se han construido y reconstruido una y otra vez, así que no sé exactamente dónde está. Si te ayuda de algo, recuerdo haber pensado en que debería ponerlo en algún lugar que no fuera probable que fuera derribado o enterrado. Un lugar indispensable, ¿entiendes? Buena suerte.}
 {224}{}{Finalmente has conseguido que Typhon suelte prenda sobre la localización del botín escondido.}
 {300}{}{Pero la dialéctica de Hegel no cuenta para...}
 {301}{}{¡Hegel, Hegel, Hegel! ¡Siempre estás con lo de Hegel!}
