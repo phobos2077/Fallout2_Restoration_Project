@@ -45,10 +45,10 @@
 {144}{}{Aún estamos trabajando en refinar tu mineral. Danos tiempo. Esto no es instantáneo.}
 {145}{}{Quiero preguntarte algo.}
 {146}{}{Bien. Adiós.}
-{147}{}{Tu mineral está listo. Antes de tomarlo, escucha: nuestro pueblo realmente necesita este mineral. Si lo donas, te reembolsaré tu dinero. Diablos, si quieres más dinero por eso, hasta podría darte 500 dólares extra para hacer valer tu tiempo. Por favor. Con el fiasco de la mina, Broken Hills necesita esto para mantenerse a flote. ¿Qué dices?}
+{147}{}{Está hecho. Antes de tomarlo, escucha: nuestro pueblo realmente necesita este mineral. Si lo donas, te reembolsaré tu dinero. ¿Qué dices?}
 {148}{}{Ni hablar.}
 {149}{}{Claro.}
 {150}{}{Bien. Que así sea. Aquí está tu mineral. Ahora, sal de mi refinería.}
 {151}{}{Adiós.}
-{152}{}{¡Gracias! Aquí está tu dinero. Broken Hills no olvidará esto.}
+{152}{}{¡Gracias! Aquí está tu dinero.}
 {153}{}{No hay problema.}
