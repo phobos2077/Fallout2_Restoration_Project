@@ -87,37 +87,36 @@
 {221}{}{Tenho a sensação de que você não está me contando algo sobre o petroleiro.}
 {230}{}{Talvez tenha. (sorrindo) Ou talvez a Wasteland tenha feito você paranóico.}
 {231}{}{Escute, eu preciso encontrar minha tribo. Esses bastardos que os pegaram são perigosos e precisam ser parados.}
-{232}{}{Come on. What's so special about the tanker? We're just two people talking.}
-{233}{}{You sure? I'll make it worth your while.}
-{234}{}{I don't have time for these mind games. Goodbye.}
-{240}{}{Bah. They are nothing. However, it's not the tanker that's special. It's just a big rusty tanker like you said.
- Our submarine, on the other hand...}
-{241}{}{Submarine?}
-{250}{}{Let's talk, then. But there's nothing special about the tanker. I give you my word.}
-{251}{}{What if I paid you to tell me?}
-{260}{}{Hmm... Business has been slow lately. I could use more customers. Or a donation from a very generous one. Say, $2000?}
-{261}{}{Here you go. But your information better be worth it.}
-{262}{}{$1500 and that's my final offer.}
-{263}{}{I don't think so. That's too much.}
-{270}{}{(Lao Chou pockets the $2000.) It's not the tanker that's special. It's just a big rusty tanker like you said.
- Our submarine, on the other hand...}
-{271}{}{Submarine?}
-{280}{}{We have nothing further to discuss, then.}
-{281}{}{You sure? My lovely wife Miria will certainly make it worth your while.}
+{232}{}{Qual é? O que há de tão especial sobre o petroleiro? Somos só duas pessoas conversando.}
+{233}{}{Tem certeza? Eu vou fazer valer a pena para você.}
+{234}{}{Eu não tenho tempo para esses joguinhos mentais. Adeus.}
+{240}{}{Bah. Eles não são nada. No entanto, não é o petroleiro que é especial. É apenas um grande petroleiro enferrujado como você disse.
+ Nosso submarino, por outro lado ...}
+{241}{}{Submarino?}
+{250}{}{Vamos conversar então. Mas não há nada especial sobre o petroleiro. Eu te dou minha palavra.}
+{251}{}{E se eu te pagasse para me dizer?}
+{260}{}{Hmm ... Os negócios estão lentos ultimamente. Eu poderia usar mais clientes. Ou uma doação de um muito generoso. Talvez, $ 2000?}
+{261}{}{Aqui está. Mas é melhor que sua informação seja útil.}
+{262}{}{$ 1.500 e essa é a minha oferta final.}
+{263}{}{Acho que não. Isso é demais.}
+{270}{}{(Lao Chou embolsa US $ 2000). Não é o navio-tanque que é especial. É apenas um grande petroleiro enferrujado como você disse.
+  Nosso submarino, por outro lado ...}
+{271}{}{Submarino?}
+{280}{}{Não temos mais nada a discutir, então.}
+{281}{}{Tem certeza? Minha querida esposa Miria certamente fará valer a pena.}
 {282}{}{Adeus.}
-{285}{}{You drive a hard bargain. Fine, $1500.}
-{286}{}{Here you go. But your information better be worth it.}
-{287}{}{(Lao Chou pockets the $1500.) It's not the tanker that's special. It's just a big rusty tanker like you said.
- Our submarine, on the other hand...}
-{288}{}{Submarine?}
-{290}{}{Well if you put it that way, I have been cooped up in this dusty shop for a long time. It has been a quite a while since
- I enjoyed the company of a charming woman like yourself.}
+{285}{}{Você barganha muito bem. Tudo bem, $1500.}
+{286}{}{Aqui está. Mas é melhor que sua informação seja útil.}
+{287}{}{(Lao Chou embolsa os $ 1500). Não é o navio-tanque que é especial. É apenas um grande petroleiro enferrujado como você disse.
+  Nosso submarino, por outro lado ...}
+{288}{}{Submarino?}
+{290}{}{Bem, se você coloca dessa maneira, eu tenho ficado confinado nesta loja empoeirada por um muito tempo. Já faz um bom tempo desde que eu tenha estado na companhia de uma mulher encantadora como você.}
 {291}{}{[CONTINUAR]}
-{300}{}{[Hours past with no end in sight. You begin to suspect that Lao Chou may not be completely human. You black out, eventually.]}
-{301}{}{hhh... What happened?}
-{310}{}{You fainted as I moved us into the triple-lotus position, and I had to finish pleasuring myself with the grinning-panda kata.
- But a deal's a deal. It's not the tanker that's special -- it's just a big rusty tanker like you said. Our submarine, on the other hand...}
-{311}{}{Submarine?}
+{300}{}{[As horas passam como em uma infinidade. Você começa a suspeitar que Lao Chou pode não ser completamente humano. Você desmaia, eventualmente.]}
+{301}{}{uhhh... O que aconteceu?}
+{310}{}{Você desmaiou enquanto eu nos movia para a posição do lótus triplo, e eu tive que terminar me dando prazer com o kata rindo-panda.
+  Mas um acordo é um acordo. Não é o tanque que é especial - é apenas um grande tanque enferrujado como você disse. Nosso submarino, por outro lado ...}
+{311}{}{Submarino?}
 {330}{}{I... don't think so.}
 {331}{}{Don't try and fight it now. You want me and you know it.}
 {340}{}{No, actually. You are not my type.}
@@ -134,7 +133,7 @@
 {380}{}{A smiling Lao Chou emerges from his bedroom, still pulling on his pants. A few moments later Miria stumbles out behind him, looking dazed and confused but deeply satisfied] Your wife is a great deal more experienced than she looks.}
 {381}{}{I, erm, know. Now pull your damn pants up and tell me what's so special about the tanker.}
 {390}{}{There's nothing special about the tanker. It's just a big rusty tanker like you said. Our submarine, on the other hand...}
-{391}{}{Submarine?}
+{391}{}{Submarino?}
 {400}{}{The Shi-Huang-Ti. My great grandfather, Ye Li, was its captain. He unleashed her nuclear fires like a horrible dragon upon California's coast.}
 {401}{}{No shit.}
 {410}{}{Ironically, a malfunctioning missile from our own ancestral nation went off course and exploded over the ocean near the submarine's location. The blast knocked out the Shi-Huang-Ti's systems, leaving Captain Ye Li and his crew stranded at sea.}
