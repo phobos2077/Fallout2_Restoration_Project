@@ -86,7 +86,7 @@
 {220}{}{Quero dizer que o pedaço de lixo é mais velho que a maioria dos ghouls. Seria um milagre se não afundasse com você. Isso é tudo o que eu quis dizer.}
 {221}{}{Tenho a sensação de que você não está me contando algo sobre o petroleiro.}
 {230}{}{Talvez tenha. (sorrindo) Ou talvez a Wasteland tenha feito você paranóico.}
-{231}{}{Listen, I need to find my tribe. Those bastards who took them are dangerous and need to be stopped.}
+{231}{}{Escute, eu preciso encontrar minha tribo. Esses bastardos que os pegaram são perigosos e precisam ser parados.}
 {232}{}{Come on. What's so special about the tanker? We're just two people talking.}
 {233}{}{You sure? I'll make it worth your while.}
 {234}{}{I don't have time for these mind games. Goodbye.}
