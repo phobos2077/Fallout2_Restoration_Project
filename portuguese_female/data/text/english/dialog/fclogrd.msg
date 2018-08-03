@@ -8,11 +8,11 @@
 {107}{}{Tratar o nosso povo com respeito.}
 {108}{}{Não toque nisso e esse é o seu último aviso.}
 {109}{}{Fique longe daí.}
-{110}{}{Step back, lao wai, or I'll fill you with so much metal you'll clank when you walk.}
-{111}{}{Step slowly away from that. Make a move for your weapons and you're dead.}
-{112}{}{Don't even think about that.}
-{113}{}{Stop that. NOW.}
-{114}{}{Die, enemy of the people!}
-{115}{}{I'm sending you to the hell of burning metal!}
-{116}{}{May the Buddha have mercy on your spirit!}
-{117}{}{Suffer, foe!}
+{110}{}{Se afaste, lao wai, ou vou encher com tanto aço que você vai parecer um gizo quando andar.}
+{111}{}{Afaste-se daí lentamente. Mecha um músculo em direção às suas armas e você está morto.}
+{112}{}{Nem pense nisso.}
+{113}{}{Pare com isso. AGORA.}
+{114}{}{Morra, inimigo do povo!}
+{115}{}{Estou te mandando para o inferno do metal quente!}
+{116}{}{Que o Buda tenha piedade do seu espírito!}
+{117}{}{Sofra, inimigo!}

@@ -10,9 +10,9 @@
 {109}{}{Fique longe daí.}
 {110}{}{Step back, outsider.}
 {111}{}{Step slowly away from that.}
-{112}{}{Don't even think about that.}
+{112}{}{Nem pense nisso.}
 {113}{}{Stop that. Now.}
-{114}{}{Die, enemy of the people!}
-{115}{}{I'm sending you to the hell of burning metal!}
-{116}{}{May the Buddha have mercy on your spirit!}
-{117}{}{Suffer, foe!}
+{114}{}{Morra, inimigo do povo!}
+{115}{}{Estou te mandando para o inferno do metal quente!}
+{116}{}{Que o Buda tenha piedade do seu espírito!}
+{117}{}{Sofra, inimigo!}

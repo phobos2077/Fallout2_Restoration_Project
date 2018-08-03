@@ -1,37 +1,37 @@
-{100}{}{You see an arrogant Shi gangster.}
-{101}{}{You see Lo Pan, a domineering, ruthless man.}
-{102}{}{You see a Shi gangster, dressed in silken clothing. His hands are calloused and hard. He seems dangerous and poisonous.}
+{100}{}{Você vê um gangster Shi arrogante.}
+{101}{}{Você vê Lo Pan, um homem dominador e implacável.}
+{102}{}{Você vê um gangster Shi, vestido com roupas de seda. Suas mãos são calejadas e duras. Ele parece perigoso e venenoso.}
 {103}{}{O que você quer?}
 {104}{}{Daggle aggle aggle!}
 {105}{}{Quem é você?}
 {106}{}{Quem foi que você estava lutando?}
 {107}{}{Quem é você?}
-{108}{}{I want to learn to fight like you. Teach me.}
+{108}{}{Eu quero aprender a lutar como você. Me ensine.}
 {109}{}{Eu gostaria de desafiá-lo.}
 {110}{}{Esqueça.}
-{111}{}{Get out of here, idiot. I don't have anything to say to you.}
+{111}{}{Saia daqui, idiota. Eu não tenho nada a dizer para você.}
 {112}{}{GRR!}
-{113}{}{I'm Lo Pan. I'm the best fighter in town, except for the Dragon. And one day, he's a dead man. When that happens, I'll teach others my style.}
+{113}{}{Eu sou Lo Pan. Sou o melhor lutador da cidade, exceto pelo Dragon. E um dia ele será um homem morto. Quando isso acontecer, vou ensinar aos outros o meu estilo.}
 {114}{}{Ensina-me!}
 {115}{}{Obrigado.}
-{116}{}{You want to learn? Do you have what it takes? Let's see.}
+{116}{}{Você quer aprender? Você tem o que é preciso? Vamos ver.}
 {117}{}{[FEITO]}
-{118}{}{Teach you? I don't think so. You look far too self-righteous. Get out of here.}
-{119}{}{What the... ?}
-{120}{}{Oh, look, the idiot. I don't want to talk to you. Go away.}
+{118}{}{Te ensinar? Acho que não. Você parece muito hipócrita. Saia daqui.}
+{119}{}{Mas o que...?}
+{120}{}{Oh, olhe, o idiota. Eu não quero falar com você. Vá embora.}
 {121}{}{Duhhh...}
-{122}{}{Him? The Dragon. He's a weakling who fosters weakness.}
+{122}{}{Ele? O Dragon. Ele é um fraco que promove fraqueza.}
 {123}{}{As pessoas são ovelhas. Você deve servir a si mesmo.}
-{124}{}{What, you're evil?}
+{124}{}{O que? Você é mal?}
 {125}{}{Eu vejo. Eu tenho mais perguntas.}
-{126}{}{Evil? Hardly. Just smart. Maybe if you're so concerned about doing the right thing by people, you should see the Dragon. He likes simpering weaklings like you.}
+{126}{}{Mal? Dificilmente. Apenas inteligente. Se você está tão preocupado em fazer a coisa certa com as pessoas, talvez devesse ver o Dragon. Ele gosta de fracassados bobos como você.}
 {127}{}{[FEITO]}
-{128}{}{Yes, I should. And I do. Unfortunately, the Dragon stands in the way. We're too evenly balanced in our fight against each other. I need just one trained person to help me.}
+{128}{}{Sim eu deveria. E eu vou. Infelizmente, o Dragon está no caminho. Estamos equilibrados demais em nossa luta uns contra os outros. Eu preciso de apenas uma pessoa treinada para me ajudar.}
 {129}{}{Eu sou essa pessoa.}
 {130}{}{Eu vejo. Bem, eu tenho mais perguntas.}
 {131}{}{Entendo. Bem, até mais.}
-{132}{}{Are you? Can you fight a man hand to hand, foot to face, without relying on armor and weapons?}
-{133}{}{I can, but why should I?}
+{132}{}{Você é? Pode lutar contra um homem, mano-a-mano, cara-a-cara, sem depender de armaduras e armas?}
+{133}{}{Eu posso, mas por que eu deveria?}
 {134}{}{Parece justo para mim. Como este teste funciona?}
 {135}{}{Oh. Bem, nesse caso, eu tenho que ir.}
 {136}{}{Because otherwise the peasants will curse me and it'll make it that much harder to cow them when I've beaten the Dragon.}
