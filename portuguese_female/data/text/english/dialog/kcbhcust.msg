@@ -32,7 +32,7 @@
 {141}{}{There's a spirit in a canyon East of town.}
 {142}{}{Don't let the Walking Spirit getcha!}
 {143}{}{You better not steal our brahmin.}
-{144}{}{We're keeping an eye on you.}
+{144}{}{Estamos de olho em você.}
 {150}{}{Nice to see someone new in town.}
 {151}{}{I guess tribals ain't so bad after all.}
 {152}{}{Buy us a round of drinks!}

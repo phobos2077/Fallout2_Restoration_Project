@@ -27,7 +27,7 @@
 {171}{}{There's a spirit in a canyon east of town.}
 {172}{}{Don't let the walking spirit getcha!}
 {173}{}{You better not steal our brahmin.}
-{174}{}{We're keeping an eye on you.}
+{174}{}{Estamos de olho em você.}
 {201}{}{Nice to see someone new in town.}
 {202}{}{I guess tribals ain't so bad after all.}
 {203}{}{Buy us a round of drinks!}

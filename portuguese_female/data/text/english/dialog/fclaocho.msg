@@ -117,47 +117,47 @@
 {310}{}{Você desmaiou enquanto eu nos movia para a posição do lótus triplo, e eu tive que terminar me dando prazer com o kata rindo-panda.
   Mas um acordo é um acordo. Não é o tanque que é especial - é apenas um grande tanque enferrujado como você disse. Nosso submarino, por outro lado ...}
 {311}{}{Submarino?}
-{330}{}{I... don't think so.}
-{331}{}{Don't try and fight it now. You want me and you know it.}
-{340}{}{No, actually. You are not my type.}
-{341}{}{Oh, I see. You're not into women.}
-{350}{}{I am. I just do not find you very attractive. Perhaps if I were drunk.}
-{351}{}{You're obviously blind. Whatever. It's your loss.}
-{360}{}{What are you proposing? Ahh... well, I have been cooped up in this shop for a long time. I will reveal all I know
- in exchange for a sample of your lady friend's charms.}
-{361}{}{Miria, honey... I guess you'll have to, erm, pump this guy for information.}
-{362}{}{I was joking, old man. Like I'd let you make time with my wife... I'm leaving.}
-{370}{}{[You wait outside and hear faint moans from inside the Flying Dragon 8. An hour passes, and then another. You
- bang on the door, shouting, "Hurry up in there!" Finally, the moans become a primal scream.]}
-{371}{}{[Bang on the door] Hey, what are you two doing in there!?}
-{380}{}{A smiling Lao Chou emerges from his bedroom, still pulling on his pants. A few moments later Miria stumbles out behind him, looking dazed and confused but deeply satisfied] Your wife is a great deal more experienced than she looks.}
-{381}{}{I, erm, know. Now pull your damn pants up and tell me what's so special about the tanker.}
-{390}{}{There's nothing special about the tanker. It's just a big rusty tanker like you said. Our submarine, on the other hand...}
+{330}{}{Eu... acho que não}
+{331}{}{Não tente e lute agora. Você me quer e você sabe disso.}
+{340}{}{Na verdade não. Você não faz o meu tipo.}
+{341}{}{Ah, eu intendi. Você não gosta de mulheres.}
+{350}{}{Eu gosto. Eu só não te acho muito atraente. Talvez se eu estivesse bêbado.}
+{351}{}{Você é obviamente cego. Tanto faz. É você quem está perdendo.}
+{360}{}{O que você está propondo? Ahh ... bem, eu tenho estado confinado nesta loja há muito tempo. Eu revelarei tudo o que sei
+  em troca de uma amostra dos encantos de sua amiga.}
+{361}{}{Miria, querida... Eu acho que você terá que, bem... dar para esse cara em troca de informações.}
+{362}{}{Eu estava brincando, velho. Como se eu fosse deixar você comer a minha esposa... Eu estou saindo.}
+{370}{}{[Você espera do lado de fora e ouve gemidos de dentro do Flying Dragon 8. Passa uma hora e depois outra. Você
+  bate na porta, gritando: "Apressem-se aí!". Finalmente, os gemidos se tornam um grito primitivo.]}
+{371}{}{[Arrombar a porta] Ei, o que vocês dois estão fazendo aí?}
+{380}{}{Um sorridente Lao Chou sai do quarto, ainda puxando as calças. Alguns momentos depois Miria tropeça atrás dele, parecendo atordoada e confusa, mas profundamente satisfeita. Sua esposa é muito mais experiente do que parece.}
+{381}{}{Eu sei. Agora puxe sua maldita calça e me diga o que há de tão especial no navio.}
+{390}{}{Não há nada de especial no navio-tanque. É apenas um grande petroleiro enferrujado como você disse. Nosso submarino, por outro lado ...}
 {391}{}{Submarino?}
-{400}{}{The Shi-Huang-Ti. My great grandfather, Ye Li, was its captain. He unleashed her nuclear fires like a horrible dragon upon California's coast.}
-{401}{}{No shit.}
-{410}{}{Ironically, a malfunctioning missile from our own ancestral nation went off course and exploded over the ocean near the submarine's location. The blast knocked out the Shi-Huang-Ti's systems, leaving Captain Ye Li and his crew stranded at sea.}
-{411}{}{That's karma for you.}
-{420}{}{But there was salvation. After weeks of drifting, the sub finally came to rest out in the shallow waters of the
- San Francisco bay. This city became our new home. We eventually restored the Shi-Huang-Ti; its targeting systems, its
- weapons. It has enough firepower to blow any potential invaders out of the water. So even if you got that old tanker
- running, it wouldn't get far, as the submarine will destroy any non-Chinese vessel that sails through the bay.}
-{421}{}{That sounds like a problem alright. So how would I get to the submarine?}
-{430}{}{You swim. Or take the motorboat at the docks. It is guarded, though, by one of our best soldiers, and he will
- not let an outsider like you past him.}
-{431}{}{You have any idea how I can get past him then, without shooting him in the face?}
-{440}{}{He's under strict orders to guard it 24/7. He will not let anyone without the right password through.}
-{441}{}{I don't suppose you know it?}
-{450}{}{That depends. I don't suppose you have $10000 to ensure the continued prosperity of my shop?}
-{451}{}{Here's your $10000.}
-{452}{}{That's outrageous for a simple password. I'll only go as high as $5000.}
+{400}{}{O Shi-Huang-Ti. Meu bisavô, Ye Li, era seu capitão. Ele desencadeou seus fogos nucleares como um dragão terrível na costa da Califórnia.}
+{401}{}{Não brinca.}
+{410}{}{Ironicamente, um míssil defeituoso de nossa própria nação ancestral saiu do curso e explodiu sobre o oceano perto da localização do submarino. A explosão derrubou os sistemas da Shi-Huang-Ti, deixando o capitão Ye Li e sua tripulação presos no mar.}
+{411}{}{Isso é karma para você.}
+{420}{}{Mas houve salvação. Depois de semanas á deriva, o submarino acabou por descansar nas águas rasas da
+  Baía de São Francisco. Esta cidade se tornou nossa nova casa. Nós finalmente restauramos o Shi-Huang-Ti; seus sistemas de segmentação,
+  armas. Tem poder de fogo suficiente para explodir quaisquer potenciais invasores fora da água. Então, mesmo se você tenha aquele velho petroleiro
+  funcionando, não iria longe, pois o submarino destruiria qualquer embarcação não chinesa que navegasse pela baía.}
+{421}{}{Isso soa como um problema. Então, como eu chegaria ao submarino?}
+{430}{}{Você nada. Ou pega a lancha nas docas. Porém, ela é protegida por um dos nossos melhores soldados, e ele não vai
+  deixar um estranho como você passar por ele.}
+{431}{}{Você tem alguma ideia de como eu posso passar por ele então, sem atirar na cara dele?}
+{440}{}{Ele está sob ordens estritas para protege-lo 24h. Ele não deixará ninguém passar sem a senha correta.}
+{441}{}{Eu suponho que você não saiba isso?}
+{450}{}{Depende. Eu suponho que você não tenha $ 10.000 para garantir a continuidade da prosperidade da minha loja?}
+{451}{}{Aqui está seus $10.000.}
+{452}{}{Isso é demais para uma simples senha. Minha oferta é $5.000 e não passo disso.}
 {453}{}{Nenhum acordo.}
-{460}{}{Ah, much appreciated. The password is XY8QIV2SHI. Others may be watching me after this, so don't forget the password. If ever we discuss it again, I'll need even more money for bribes.}
+{460}{}{Ah, muito obrigado. A senha é XY8QIV2SHI. Outros podem começar a me vijiar depois disso, então não esqueça a senha. Se alguma vez conversarmos novamente, precisarei de mais dinheiro para subornos.}
 {461}{}{Obrigado. Adeus.}
-{470}{}{You are a crafty one, I'll give you that. Fine. I accept your offer. The password is XY8QIV2SHI. Don't forget it, or you'll have buy it from me again.}
+{470}{}{Você é astuto, eu vou te dar isso. Certo. Eu aceito sua oferta. A senha é XY8QIV2SHI. Não esqueça, ou você terá que comprar de mim novamente.}
 {471}{}{Obrigado. Adeus.}
-{480}{}{Don't insult me with your meager offers. $10000. Take it or leave it.}
-{481}{}{Fine. Here's your $10000.}
+{480}{}{Não me insulte com suas ofertas escassas. $10.000. É pegar ou largar.}
+{481}{}{Bem. Aqui está o seus $10.000.}
 {482}{}{Nenhum acordo.}
-{490}{}{Your loss then. I don't believe we have anything else to discuss. Goodbye.}
+{490}{}{Azar o seu então. Não acredito que tenhamos mais algo para discutir. Adeus.}
 {491}{}{Adeus.}

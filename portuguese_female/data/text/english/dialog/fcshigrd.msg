@@ -1,13 +1,13 @@
 {100}{}{Você vê um guarda com roupas soltas, usando um olhar de tédio cauteloso.}
 {101}{}{You see a palace guard.}
 {102}{}{You see a palace guard carrying a dangerous-looking weapon.}
-{103}{}{Just keep moving along and there'll be no problem.}
-{104}{}{You have business here?}
-{105}{}{We're keeping an eye on you.}
-{106}{}{Don't try anything funny.}
+{103}{}{Apenas continue andando e não haverá problema.}
+{104}{}{Você tem negócios aqui?}
+{105}{}{Estamos de olho em você.}
+{106}{}{Não tente nada engraçado.}
 {107}{}{Tratar o nosso povo com respeito.}
 {108}{}{Don't touch that. That's your last warning.}
-{109}{}{Keep away from there.}
+{109}{}{Fique longe daí.}
 {110}{}{Step back, outsider.}
 {111}{}{Step slowly away from that.}
 {112}{}{Don't even think about that.}
