@@ -80,13 +80,12 @@
 {179}{}{Ah sim ... ah ... Posso perguntar outra coisa?}
 {180}{}{Ah sim...Tchau}
 {200}{}{O que mais você pode me dizer sobre o petroleiro?}
-{210}{}{Mesmo que você consiga trabalhar com o NavCom e abastecer o tanque, você ainda precisará de boa sorte
-  se você realmente quer que o navio navegue novamente.}
-{211}{}{O que você quer dizer com "boa sorte considerável"?}
-{220}{}{Quero dizer, o pedaço de lixo é mais velho que a maioria dos ghouls. Seria um milagre se não afundasse em você. Isso é tudo
-  Eu quis dizer.}
-{221}{}{Tenho a sensação de que há algo que você não está me contando sobre o petroleiro.}
-{230}{}{Perhaps there is. (smiles) Perhaps the wasteland has made you paranoid.}
+{210}{}{Mesmo que você consiga ter o NavCom funcionando e o tanque cheio, você ainda precisará de muita sorte
+  se realmente quer que o navio navegue novamente.}
+{211}{}{O que você quer dizer com "muita sorte"?}
+{220}{}{Quero dizer que o pedaço de lixo é mais velho que a maioria dos ghouls. Seria um milagre se não afundasse com você. Isso é tudo o que eu quis dizer.}
+{221}{}{Tenho a sensação de que você não está me contando algo sobre o petroleiro.}
+{230}{}{Talvez tenha. (sorrindo) Ou talvez a Wasteland tenha feito você paranóico.}
 {231}{}{Listen, I need to find my tribe. Those bastards who took them are dangerous and need to be stopped.}
 {232}{}{Come on. What's so special about the tanker? We're just two people talking.}
 {233}{}{You sure? I'll make it worth your while.}
