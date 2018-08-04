@@ -31,7 +31,7 @@
 {128}{}{Madre dice que habla contigo. Entras pero vas solo; amigos se quedan aquí. No hagas
  problemas. No quiero hacerte daño, pero te hago daño si tú eres malo y haces problemas.}
 {129}{}{De acuerdo.}
-{130}{}{¿Crees eso? No lo mirado así. Es hace sentir bien. Gusta. Gracias.}
+{130}{}{¿Crees eso? No lo veo así. Eso me hace sentirme bien. Me gusta. Gracias.}
 {131}{}{Vale. Marcho ahora.}
 {132}{}{Quiero hablar a madre.}
 {133}{}{No hay de qué. Tengo que irme ahora.}

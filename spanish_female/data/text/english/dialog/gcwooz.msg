@@ -70,7 +70,7 @@ apestosos zombis.}
 {212}{}{Háblame un poco más del Tragic el Catering.}
 {213}{}{¿Qué es el Jet?}
 {214}{}{Lo he pillado. Nos vemos.}
-{220}{}{Mmm, perdón. Es lo único que sé. Ya que estamos, ¿Has visto una manzana últimamente?}
+{220}{}{Mmm, perdón. Es lo único que sé. Por cierto, ¿Has visto una manzana últimamente?}
 {221}{}{¿Una manzana?}
 {222}{}{Estoy demasiado decepcionado para hablar ahora. Adiós.}
 {230}{}{Me encantan las manzanas, pero casi no hay por ningún lado. No he visto casi ninguna.}

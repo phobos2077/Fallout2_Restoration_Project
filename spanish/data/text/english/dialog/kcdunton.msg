@@ -64,8 +64,8 @@
 {209}{}{Soy Buck Dunton. ¿Qué eres? ¿Idiota?}
 {210}{}{¿Tan feo te parezco? Soy Chuck Dunton.}
 {211}{}{¿Tan feo te parezco? Soy Buck Dunton.}
-{212}{}{¿Eres un poquito corto, no? Soy Chuck Dunton.}
-{213}{}{¿Eres un poquito corto, no? Soy Buck Dunton.}
+{212}{}{¿Eres un poco retrasado, no? Soy Chuck Dunton.}
+{213}{}{¿Eres un poquito retrasado, no? Soy Buck Dunton.}
 {214}{}{Eres incapaz de entenderlo, ¿eh? Malditos tribales simplones. Soy Chuck, imbécil.}
 {215}{}{Eres incapaz de entenderlo, ¿eh? Malditos tribales simplones. Soy Buck, imbécil.}
 {216}{}{Soy Sally 'Narizotas' Dunton. ¿Te gusta mi vestido? Soy Chuck Dunton, estúpido tribal.}

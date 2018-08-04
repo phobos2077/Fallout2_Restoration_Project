@@ -14,7 +14,7 @@
 {220}{}{Escuchas un KER-KLANK. Ahora la caja está abierta.}
 {221}{}{La caja está abierta.}
 {222}{}{¡La nariz gira en tu mano! Parece que pudieras tirar de ella para abrir la cara.}
-{223}{}{La cosa grande de metal cuadrada parece que se puede abrir.}
+{223}{}{La gran cosa cuadrada de metal parece que se puede abrir.}
 {224}{}{Abres la cara.}
 {225}{}{Te alejas}
 {226}{}{Saqueas la caja.}

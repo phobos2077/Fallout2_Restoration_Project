@@ -37,7 +37,7 @@
 {136}{}{¿Te gustaría abandonar el Refugio?}
 {137}{}{Entonces dime, Ariel: ¿Por qué estás tan triste?}
 {138}{}{¿Cómo llegaste a este Refugio?}
-{139}{}{Ahora he de irme.}
+{139}{}{Debo irme ahora.}
 {140}{}{No, puedo irme cuando quiera. Las Garras mortales me lo han dejado muy claro. No retienen
  a nadie contra su voluntad, al menos que yo sepa.}
 {141}{}{Eh, está bien.}
