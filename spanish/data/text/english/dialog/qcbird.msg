@@ -72,7 +72,7 @@
 {171}{}{Para la NASA, el espacio sigue siendo prioridad absoluta.}
 {172}{}{Ya veo, ¿y a dónde iríamos entonces?}
 {173}{}{Eso no es cierto, los republicanos entendemos la importancia de la dependencia entre madre e hijo. Esa es la clave para la solución de todos nuestros problemas: necesitamos volver a los valores familiares.}
-{174}{}{En lo que tú y el Enclave estáis metidos no tiene nada que ver con los valores familiares.}
+{174}{}{Lo que tú y el enclave están haciendo no tiene nada que ver con los valores familiares.}
 {175}{}{Mantengo todas las declaraciones erróneas que he llevado a cabo.}
 {176}{}{No lo entiendes, crearéis otro holocausto si continuáis.}
 {177}{}{Estás completamente loco. Te das cuenta, ¿verdad?}

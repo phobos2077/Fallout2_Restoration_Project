@@ -1,5 +1,5 @@
 {100}{}{Ves a una mujer joven, un marimacho, vestida con un mono de trabajo.}
-{101}{}{Es Dorothy, la ingeniero de la ciudad.}
+{101}{}{Es Dorothy, la ingeniera de la ciudad.}
 {102}{}{Por toda la grasa y suciedad que lleva encima, puede decirse que es una manitas, especialmente porque ese robot de mantenimiento la sigue a todas partes.}
 {103}{}{¡Oh, Dios mío, alguien tiene que hacer algo! ¿Qué debo hacer? Necesito ayuda rápidamente.}
 {104}{}{¿Uh? ¿Dos?}

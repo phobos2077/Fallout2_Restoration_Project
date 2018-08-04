@@ -2574,7 +2574,7 @@
 {166400}{}{Cartel de Aduana}
 {166500}{}{Cartel de la oficina de Bienvenida}
 {166600}{}{Cartel de Feliz Harry}
-{166700}{}{Cartel de El Agujero}
+{166700}{}{El signo de agujero}
 {166800}{}{Cartel del Centro de Información}
 {166900}{}{Cartel del Centro de Información}
 {167000}{}{Logotipo de Ciudad Refugio}
