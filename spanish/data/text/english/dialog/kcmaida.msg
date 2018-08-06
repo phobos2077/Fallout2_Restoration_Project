@@ -50,7 +50,7 @@
 {284}{}{Eres una mercader dura, pero justa. Hablemos de otra cosa.}
 {285}{}{Es todo lo que necesito por ahora. Adiós.}
 {290}{}{Sólo hay un par de pueblos cercanos. Lejos hacia el sureste se encuentra Redding, y luego está La Guarida a unos pocos días hacia el sur. Pero yo no iría a La Guarida.}
-{291}{}{¿Por qué no irías?}
+{291}{}{¿Por qué no irías a La Guarida?}
 {292}{}{¿Y qué tribus hay por la zona?}
 {293}{}{Gracias por el consejo. Hablemos de otra cosa.}
 {294}{}{Es todo lo que necesito saber por ahora. Adiós.}
