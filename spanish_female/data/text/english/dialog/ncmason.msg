@@ -21,8 +21,7 @@
 {250}{}{La vida es un cúmulo de decepciones. Ahora LÁRGATE, capiche?}
 {251}{}{(Sarcástico) ¿Tras esa puerta? ¿Esa de ahí? Pues esa es la estancia del señor SALVATORE. Y ahora PIÉRDETE.}
 {252}{}{Deseo ver al señor Salvatore. Quiero un trabajo.}
-{253}{}{Mira, imbécil… ¿quieres seguir teniendo tu trabajo mañana? Tengo información sobre una de las otras Familias de Reno
- que al señor Salvatore le gustará escuchar. Así que déjame hablar con él AHORA.}
+{253}{}{Mira, imbécil… ¿quieres seguir teniendo tu trabajo mañana? Tengo información sobre una de las otras Familias de Reno que al señor Salvatore le gustará escuchar. Así que déjame hablar con él AHORA.}
 {254}{}{¿Dónde has conseguido esas pistolas láser?}
 {265}{}{}
 {266}{}{Chico, debes ser más tonto de lo que PARECES para hablarme así a mí. Una palabra más, una SOLA palabra más, y
@@ -38,8 +37,7 @@
 {279}{}{(Atacas a Mason antes de que pueda continuar).}
 {285}{}{Mira, a lo mejor no lo has ESCUCHADO, tribal, pero esta es la casa de los Salvatore. MI trabajo es asegurarme de que el jefe
  no sea molestado por perritos falderos como tú. Y ahora vuelve con tu tribu y cocina a uno de los tuyos para cenar.}
-{295}{}{¿Estas pistolas? Eh, verás, no sabría decirlo.  Lo he olvidado por completo. (Frunce el ceño). Mira, tribal. Si no
- mueves tu culo ahora mismo, te quemo vivo. Y ahora lárgate.}
+{295}{}{¿Estas pistolas? Eh, verás, no sabría decirlo.  Lo he olvidado por completo. (Frunce el ceño). Mira, tribal. Si no mueves tu culo ahora mismo, te quemo vivo. Y ahora lárgate.}
 {298}{}{¡Está bien! Me voy, me voy.}
 {299}{}{Te vas en silencio.}
 {305}{}{Te he AVISADO, capullo, ahora vas a... (Mason se detiene de repente, escucha algo que tú no puedes oír. Tras un momento, aprieta los dientes). El señor Salvatore dice que puedes entrar... }
@@ -82,8 +80,7 @@
 {391}{}{Se ha estado escondiendo, así que buscarlo va a ser TU trabajo, chica. }
 {392}{}{¿Lo más probable? Mira en alguno de los bares de la calle Virgin. Lloyd podría estar haciendo otra de las suyas por allí.}
 {393}{}{Tenía algunas preguntas más...}
-{400}{}{¿Lloyd? A ver… estatura media, blanco, pelo castaño. La última vez que lo vi, llevaba una camiseta color bronce, y una bufanda
- marrón oscuro. Seguramente no se habrá cambiado de ropa desde la última vez que lo vi.}
+{400}{}{¿Lloyd? A ver… estatura media, blanco, pelo castaño. La última vez que lo vi, llevaba una camiseta color bronce, y una bufanda marrón oscuro. Seguramente no se habrá cambiado de ropa desde la última vez que lo vi.}
 {401}{}{Pues, curiosamente, eso describe a MUCHAS de las personas con las que me he topado desde que salí de Arroyo.}
 {410}{}{¡Ja! A mí me lo vas a contar. Los nombres son casi la única forma de distinguir a las personas hoy en día. Uno diría que sólo hay diez
  tipos de personas en el mundo. (Se inclina). Para mí que en el pasado hubo algún accidente gordo relacionado con la clonación.}
@@ -107,8 +104,7 @@
  que hayas encontrado a Lloyd. O me harás enfadar de verdad. Ahora, haz tu TRABAJO.}
 {481}{}{Vale, vale...}
 {482}{}{Que te den, Mason.}
-{490}{}{Te dije que no volvieras hasta que hubieses encontrado a Lloyd… te lo DIJE. (Se golpea la cabeza) ¡¿Eres idiota?! Debes serlo,
- porque vuelves aquí a hablar conmigo. Idiota… y MUERTO.}
+{490}{}{Te dije que no volvieras hasta que hubieses encontrado a Lloyd… te lo DIJE. (Se golpea la cabeza) ¡¿Eres idiota?! Debes serlo, porque vuelves aquí a hablar conmigo. Idiota… y MUERTO.}
 {491}{}{Vamos a bailar, gilipollas.}
 {492}{}{¡Vamos!}
 {493}{}{No, TÚ eres el IDIOTA Y MUERTO! ¡¿Me OYES, MASON?! ¡TÚ eres el ID --}
@@ -140,8 +136,7 @@
 {556}{}{Eso es todo lo que necesitaba saber. Ahora aparta para que pueda hacer mi trabajo, Mason.}
 {565}{}{No tengas tanta prisa, amigo. Te lo voy a dejar MUY claro para que no te equivoques: No vengas a hablar conmigo
  hasta que hayas conseguido ese dinero de Renesco. O me voy a enfadar de verdad. Y ahora, a TRABAJAR.}
-{575}{}{Dije que no volvieras hasta conseguir el dinero… lo DIJE. (se golpea la frente) ¡¿Eres idiota?!
- Seguro que sí, cuando vuelves por aquí. Idiota… y MUERTO.}
+{575}{}{Dije que no volvieras hasta conseguir el dinero… lo DIJE. (se golpea la frente) ¡¿Eres idiota?! Seguro que sí, cuando vuelves por aquí. Idiota… y MUERTO.}
 {585}{}{(Mason entrecierra los ojos) ¿Y entonces qué? ¿Le dijiste para quién trabajabas?}
 {586}{}{Sí.}
 {587}{}{Bueno, no.}
@@ -155,21 +150,17 @@
 {617}{}{No puedes cobrarle tributo a los muertos. (Saca sus armas). La has jodido pero BIEN.}
 {618}{}{Sí, bueno, de todas formas ya estaba harto de ti...}
 {619}{}{¡No, TÚ eres quien LA HA JODIDO PERO BIEN! ¡¿Me OYES, MASON?! TÚ ERES QUIEN LA HA JOD --}
-{625}{}{(Mason asiente con la cabeza, parece decepcionado). Je. Pensé que habíamos desplumado al bastardo de Renesco la última vez. De acuerdo entonces,
- bien… llévaselo al jefe. (Frunce el ceño). Ve ahora.}
+{625}{}{(Mason asiente con la cabeza, parece decepcionado). Je. Pensé que habíamos desplumado al bastardo de Renesco la última vez. De acuerdo entonces, bien… llévaselo al jefe. (Frunce el ceño). Ve ahora.}
 {635}{}{Lárgate de aquí. El señor Salvatore no quiere volver a tener tratos contigo.}
-{640}{}{Vale, el jefe dice que nos vas a acompañar para cierta TRANSACCIÓN. Asegúrate de venir
- armado… y no te traigas un tirachinas… Luego vuelves y hablas conmigo.}
+{640}{}{Vale, el jefe dice que nos vas a acompañar para cierta TRANSACCIÓN. Asegúrate de venir armado… y no te traigas un tirachinas… Luego vuelves y hablas conmigo.}
 {642}{}{El señor Salvatore dijo que me darías una pistola láser.}
 {643}{}{¿De qué va esa transacción que vamos a hacer?}
 {644}{}{Ya estoy listo para acompañaros. Vamos.}
 {645}{}{Dame algo de tiempo para prepararme, y enseguida vuelvo.}
-{655}{}{Sí, ese es el trato. Aquí tienes… pero no juegues con ella. Si le haces daño a QUIEN SEA con esa cosa,
- te meto una bala en la cabeza.}
+{655}{}{Sí, ese es el trato. Aquí tienes… pero no juegues con ella. Si le haces daño a QUIEN SEA con esa cosa, te meto una bala en la cabeza.}
 {656}{}{¿Me puedes enseñar a usarla?}
 {658}{}{Muy bien, pues estoy listo. Vamos allá.}
-{665}{}{(Resopla). Si el jefe no te lo ha dicho, no hay necesidad de que lo sepas. Así que cierra el pico… y tampoco le
- digas a nadie lo que nos traemos entre manos, o me aseguraré de no vuelves a abrir la boca nunca más. Literalmente.}
+{665}{}{(Resopla). Si el jefe no te lo ha dicho, no hay necesidad de que lo sepas. Así que cierra el pico… y tampoco le digas a nadie lo que nos traemos entre manos, o me aseguraré de no vuelves a abrir la boca nunca más. Literalmente.}
 {675}{}{Vamos allá.}
 {676}{}{(Le sigues a él y al resto de los Salvatore hacia el desierto)...}
 {685}{}{Procura darte prisa. Sólo tenemos un margen de 24 horas hasta que el trato se cierre. Si llegas tarde, me aseguraré
@@ -185,15 +176,13 @@
 {707}{}{¡No, TÚ ERES al que YO ADVERTÍ! ¡¿Me oyes, MASON?! TÚ ERES AL QUE YO ADVER --}
 {715}{}{¡¿Por qué cojones tienes que cuestionar todo lo que digo?! Mira: la OTRA parte de esta transacción no se va a inmutar
  con esas iluminadoras, ¿vale? Así que asegúrate de llevar encima ALGUNA otra cosa.}
-{725}{}{(Gruñe). Maldita sea… mira, primero, sujétala ASÍ. (Ajusta tu empuñadura). Ahora, la recámara de la munición
- está aquí… (Después de una hora, y algo de práctica, Mason ha mejorado tu habilidad con armas de energía).}
+{725}{}{(Gruñe). Maldita sea… mira, primero, sujétala ASÍ. (Ajusta tu empuñadura). Ahora, la recámara de la munición está aquí… (Después de una hora, y algo de práctica, Mason ha mejorado tu habilidad con armas de energía).}
 {726}{}{Pero, ¿por qué necesito algo más aparte de esto? Estas pistolas parecen bastante potentes.}
 {728}{}{Muy bien, pues estoy listo. Vamos allá.}
 {729}{}{De acuerdo entonces. Dame un poco más de tiempo para prepararme, y volveré.}
 {735}{}{(Gruñe). Oye, cómo va…}
 {736}{}{[Guardas las cosas].}
-{745}{}{Además, los Salvatore… tenemos un ACUERDO Especial con Miss Kitty en la Garra de la Gata. Y con Eldridge
- en la tienda de armas… y con Renesco. (Guiño). Diviértete.}
+{745}{}{Además, los Salvatore… tenemos un ACUERDO Especial con Miss Kitty en la Garra de la Gata. Y con Eldridge en la tienda de armas… y con Renesco. (Guiño). Diviértete.}
 {746}{}{Gracias, Mason.}
 {747}{}{Vaya, Mason, gracias… aunque la próxima vez, ¿por qué no me llamas "señor?" Eso me gustaría. JA JA JA JA JA JA...}
 {748}{}{Vaya, Mason, gracias… aunque la próxima vez, ¿por qué no me llamas "señora?" Eso me gustaría. JA JA JA JA JA JA...}
@@ -207,8 +196,7 @@
 {776}{}{No insinúo que no estés haciendo bien tu trabajo, soplapollas. Te lo DIGO.}
 {777}{}{Cálmate. Sólo tenía curiosidad.}
 {778}{}{Esta conversación empieza a aburrirme. Me largo.}
-{785}{}{No dejes que se ande con tonterías… si lo hace, dile que trabajas para el señor Salvatore. Eso debería
- solucionar cualquier malentendido. ¿Lo captas?}
+{785}{}{No dejes que se ande con tonterías… si lo hace, dile que trabajas para el señor Salvatore. Eso debería solucionar cualquier malentendido. ¿Lo captas?}
 {786}{}{Lo capto. Ahora aparta y deja que vaya a hacer lo mío.}
 {795}{}{Deja de tocarte las pelotas, muchacho, y *encárgate de ello*.}
 {796}{}{Tendría que haberme imaginado esto cuando enviamos a una mujer a hacer el trabajo de un hombre. Deja de *joder* y  *encárgate de ello*.}
@@ -228,6 +216,5 @@
 {900}{}{Her name's Nikki. She's downstairs in the backroom. (Mason stares off into the distance.) Man does she have a perfect ass.}
 {901}{}{Tenía algunas preguntas más...}
 {1305}{}{.}
-{5735}{}{. El señor Salvatore avisó de tu ascenso. Felicidades. Tengo algo de material para ti… veamos… (Te pasa un
- puñado de objetos). Cuidado con todo eso…}
+{5735}{}{. El señor Salvatore avisó de tu ascenso. Felicidades. Tengo algo de material para ti… veamos… (Te pasa un puñado de objetos). Cuidado con todo eso…}
 {5765}{}{.}

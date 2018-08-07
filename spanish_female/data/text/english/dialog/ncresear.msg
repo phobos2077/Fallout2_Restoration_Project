@@ -76,16 +76,14 @@
 {356}{}{¿Por qué? El Jet ya parece lo bastante adictivo.}
 {357}{}{¿Por qué el calendario apretado?}
 {358}{}{Parece un trabajo duro. Verás, tengo que ocuparme de algo con urgencia: volveré.}
-{365}{}{Nadie lo ha explicado, pero es probable que se deba a la distribución del Jet en Redding. El Jet es *lo bastante* potente, pero
- hay mucho espacio para mejorar, y el 'jefazo' quiere incrementar la adicción al Jet en Redding.}
+{365}{}{Nadie lo ha explicado, pero es probable que se deba a la distribución del Jet en Redding. El Jet es *lo bastante* potente, pero hay mucho espacio para mejorar, y el 'jefazo' quiere incrementar la adicción al Jet en Redding.}
 {366}{}{¿Cuál es el trato con Redding?}
 {367}{}{Bien, buena suerte con el calendario.}
 {375}{}{Es *lo bastante* potente, pero hay espacio para mejorar. El 'jefazo' quiere incrementar la distribución del Jet en Redding, y quiere que el ratio de adicción sea lo más cercano al 100% que podamos conseguir. Va a suponernos el trabajar un montón de horas.}
 {377}{}{Gracias por la información. Volveré más tarde.}
 {385}{}{Se hace adictos al Jet a los mineros de Redding, y quien controla el Jet, controla Redding. El típico juego de poder.}
 {386}{}{Así que… ¿quién controla las drogas?}
-{395}{}{¿Quién controla las drogas? Los Mordino. Por supuesto, Myron estableció toda la base para la composición del Jet.
- Nosotros hacemos todo el resto del trabajo.}
+{395}{}{¿Quién controla las drogas? Los Mordino. Por supuesto, Myron estableció toda la base para la composición del Jet. Nosotros hacemos todo el resto del trabajo.}
 {396}{}{¿Myron es vuestro jefe?}
 {405}{}{PODRÍAS llamarlo así. Es inteligente, eso lo admito, pero no le importa demasiado lo que pasa
  por aquí. Está casi siempre en la bóveda del sótano… no recibe visitas, excepto el tren de prostitutas. El típico jefe de proyecto.}
@@ -105,8 +103,7 @@
 {436}{}{Bien, ¿te importa entonces si vengo a recogerte después del trabajo? Sin presiones… sólo cenar, un poco
  de conversación. Pareces alguien que necesite tomarse un pequeño respiro de su trabajo. Las cosas por aquí deben mantenerte muy ocupada.}
 {437}{}{Bueno, tenía que preguntarlo. Gracias de todas formas.}
-{445}{}{Oh, no TAN ocupada… je… bien, no, bastante ocupada. Quiero decir, en su mayor parte son pruebas rutinarias de la droga, y ocasionalmente tenemos
- a un esclavo llevado al extremo…}
+{445}{}{Oh, no TAN ocupada… je… bien, no, bastante ocupada. Quiero decir, en su mayor parte son pruebas rutinarias de la droga, y ocasionalmente tenemos a un esclavo llevado al extremo…}
 {446}{}{¿Inyectar a propósito metanfetaminas experimentales en esclavos humanos no te hace cuestionar tu humanidad básica?}
 {447}{}{Vaya. Eso suena peligroso. ¿Alguna ves te has hecho daño? ¿Hay muchas muertes de pacientes?}
 {448}{}{¿Pruebas de drogas? ¿En serio? ¿Cómo van las cosas?}
@@ -122,6 +119,5 @@
  Algunos ingieren demasiado Jet, y entonces vuelan de VERDAD.}
 {476}{}{Aparte de eso, ¿cómo van las pruebas de drogas?}
 {477}{}{Apuesto a que sí. Bien, gracias por la información. Has sido de mucha ayuda.}
-{485}{}{Inténtalo escaleras abajo, en el laboratorio. La puerta protegida. Si lo ves, dile que suba aquí cuando tenga la
- oportunidad. SI no está demasiado ocupado.}
+{485}{}{Inténtalo escaleras abajo, en el laboratorio. La puerta protegida. Si lo ves, dile que suba aquí cuando tenga la oportunidad. SI no está demasiado ocupado.}
 {1000}{}{Has conseguido un pase temporal de Marjorie.}

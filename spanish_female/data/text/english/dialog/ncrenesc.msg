@@ -55,8 +55,7 @@
  ojeando en sus estanterías... ¡oooh, como esas de allí!}
 {294}{}{Tienes un vocabulario interesante… Renesco. ¿Eres de por aquí?}
 {295}{}{Me largo de aquí.}
-{305}{}{En su mayor parte vendo drogas recreativas. Por eso me pusieron ese apodo idiota, 'el Astronauta'. Hmmmph.
- También vendo suministros de caravana. ¿NECESITAS algo o puedo volver a dedicarme a cosas importantes?}
+{305}{}{En su mayor parte vendo drogas recreativas. Por eso me pusieron ese apodo idiota, 'el Astronauta'. Hmmmph. También vendo suministros de caravana. ¿NECESITAS algo o puedo volver a dedicarme a cosas importantes?}
 {306}{}{Astronauta, ¿eh? ¿Te suena el verso de la canción de Elton John, "Astronauta, quemando los mmmncfnfm yendo a casa'? ¿A qué
  se refiere realmente?}
 {307}{}{¿Puedo ver lo que tienes a la venta?}
@@ -66,8 +65,7 @@
 {320}{}{(Renesco te mira fijamente. Parece como si te desnudara mentalmente, y te arrancase los miembros uno a uno).}
 {321}{}{Entonces no importa. Tenía algunas otras preguntas…}
 {322}{}{No importa, entonces.}
-{330}{}{(Renesco te mira disgustado). Sí. En la TIENDA. Esto no es el siglo XX, en el que las drogas las vendían
- cucarachas de esquina que vivían con un temor constante a las autoridades.}
+{330}{}{(Renesco te mira disgustado). Sí. En la TIENDA. Esto no es el siglo XX, en el que las drogas las vendían cucarachas de esquina que vivían con un temor constante a las autoridades.}
 {331}{}{Bien, entonces -}
 {332}{}{Pero -}
 {333}{}{Eh, creo que será mejor que -}
@@ -105,8 +103,7 @@
 {412}{}{¿Quién se asegura de que Redding esté bien abastecido? ¿Y por qué?}
 {413}{}{Ya me he dado cuenta. Oye, tenía algunas preguntas más...}
 {414}{}{Ya veo… ahora debo irme.}
-{420}{}{Bien, tribal, dudo que seas tan espabilado como para notar esto, pero Nuevo Reno no produce nada útil.
- Es como una gran y brillante garrapata agarrada al desierto.  Ahora bien, Redding, por el contrario…}
+{420}{}{Bien, tribal, dudo que seas tan espabilado como para notar esto, pero Nuevo Reno no produce nada útil. Es como una gran y brillante garrapata agarrada al desierto.  Ahora bien, Redding, por el contrario…}
 {421}{}{Sigue.}
 {422}{}{… PRODUCE algo útil.}
 {423}{}{Ya he oído bastante.}
@@ -115,8 +112,7 @@
 {431}{}{No todos. Por ejemplo, yo utilizo una variedad de armas para matar gente... déjame que te las enseñe.}
 {432}{}{Perdóname. Por favor, continúa.}
 {433}{}{Que te jodan. Me largo de aquí. }
-{440}{}{Redding tiene una fuerza de trabajo estable que se dedica a minar materias primas, oro en su mayor parte. A Nuevo Reno le vendría muy bien ese oro. Alguien
- se imagina que todo lo que tenemos que hacer es conseguir que esos mineros se vuelvan adictos, y los tendremos atrapados de por vida. ¿Lo entiendes ahora?}
+{440}{}{Redding tiene una fuerza de trabajo estable que se dedica a minar materias primas, oro en su mayor parte. A Nuevo Reno le vendría muy bien ese oro. Alguien se imagina que todo lo que tenemos que hacer es conseguir que esos mineros se vuelvan adictos, y los tendremos atrapados de por vida. ¿Lo entiendes ahora?}
 {441}{}{Sí… excepto por una cosa: ¿de dónde vino el Jet?}
 {442}{}{¿Quién está intentando que todos los mineros se vuelvan adictos?}
 {443}{}{Sí, lo entiendo. Verás, tenía algunas otras preguntas...}
@@ -132,14 +128,12 @@
  mineros están perdidos.}
 {461}{}{¿De dónde procede el Jet?}
 {463}{}{Ya veo. Oye, tenía algunas preguntas más...}
-{470}{}{Cachondo como un sapo y con sus mismas costumbres. Pero es un chico inteligente. Tiene un alto cociente intelectual. Desperdicia su cabeza fabricando drogas, eso es
- cierto, joder.}
+{470}{}{Cachondo como un sapo y con sus mismas costumbres. Pero es un chico inteligente. Tiene un alto cociente intelectual. Desperdicia su cabeza fabricando drogas, eso es cierto, joder.}
 {471}{}{¿Dónde puedo encontrarlo?}
 {472}{}{Ya veo. Tenía algunas preguntas más…}
 {480}{}{Los Mordino lo tienen encerrado en alguna parte. Probablemente bien protegido. No sé exactamente dónde.}
 {481}{}{Gracias por la información. ¿Puedo ver lo que tienes a la venta?}
-{490}{}{¡¿Una CURA para la adicción a la metanfetamina?! ¡Ja! Sólo conozco dos: una es la muerte. La otra es encerrarse
- en una jaula un año sin Jet y echarla de tu cuerpo sudándola. Hmmmph. ¡"Cura", mis cojones! ¡Qué tontería!}
+{490}{}{¡¿Una CURA para la adicción a la metanfetamina?! ¡Ja! Sólo conozco dos: una es la muerte. La otra es encerrarse en una jaula un año sin Jet y echarla de tu cuerpo sudándola. Hmmmph. ¡"Cura", mis cojones! ¡Qué tontería!}
 {492}{}{Debe haber una cura. ¿Cuál es la composición química del Jet?}
 {505}{}{¿Por qué no le preguntas a tu amigo? Él diseñó la droga.}
 {506}{}{Yo solo vendo el material. Yo de ti le preguntaría a un científico. O a Myron. Él diseñó la droga.}
@@ -333,8 +327,7 @@
 {940}{}{Yo... bueno, verás, yo... hmmmm... está bien. Tienes un… "descuento".}
 {941}{}{Veamos tu mercancía. Haré mis 'compras' ahora.}
 {943}{}{Ahora no quiero nada, pero no te preocupes, que volveré. }
-{950}{}{(Cruza los brazos). Adecuados. Si estás esperando un folleto por ser un buen samaritano, estás MUY
- equivocado. Y ahora… ¿qué es lo que quieres?}
+{950}{}{(Cruza los brazos). Adecuados. Si estás esperando un folleto por ser un buen samaritano, estás MUY equivocado. Y ahora… ¿qué es lo que quieres?}
 {951}{}{¡La madre que parió a la Garra mortal o al director de marketing que te hizo! ¡¿QUIERES algo?! ¡Aquí! ¡AQUÍ! ¡Toma ESTO!
  Toma todo lo que tengo! Lo que sea con tal de que me DEJES EN PAZ!}
 {952}{}{Déjame ver tu mercancía.}

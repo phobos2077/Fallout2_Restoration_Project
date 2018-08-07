@@ -139,8 +139,7 @@
 {646}{}{¿Sabes algo acerca de la sobredosis de Jet de Richard Wright?}
 {647}{}{¿Puedes enseñarme a pelear a cuchillo?}
 {648}{}{No importa. Te veo más tarde.}
-{660}{}{¿Yo? Pues si tienes que preguntarlo… je. Me llamo Jesús. Jesús Mordino. Igual que mi padre, que es GRAN Jesús, líder de TODA la Familia Mordino
- aquí, en Reno. Así que la mayoría me llaman Pequeño Jesús. Evita confusiones, ¿sabes?}
+{660}{}{¿Yo? Pues si tienes que preguntarlo… je. Me llamo Jesús. Jesús Mordino. Igual que mi padre, que es GRAN Jesús, líder de TODA la Familia Mordino aquí, en Reno. Así que la mayoría me llaman Pequeño Jesús. Evita confusiones, ¿sabes?}
 {661}{}{¿Familia Mordino? ¿Quienes son?}
 {662}{}{He oído hablar de tu Familia. He oído que sois una fuerza a tener en cuenta.}
 {663}{}{Estoy buscando un trabajo. ¿La Familia Mordino contrata a alguien?}
@@ -170,14 +169,11 @@
 {762}{}{Te oigo. Verás, tenía algunas otras preguntas…}
 {780}{}{¿El Jet? Procede de AQUÍ. Verás, nosotros no cavamos en busca de oro, lo FABRICAMOS: oro líquido. Jet. Vale una fortuna para los mineros, y cuesta
  prácticamente nada el fabricarlo. Lo enviamos a Redding, ellos se lo meten, se colocan y vuelan, y nos envían oro. Así de simple.}
-{781}{}{¿Cuánto tiempo ha estado sucediendo eso? Parece como si pudiérais controlar todo el norte de California ahora mismo, si el Jet es tan
- adictivo.}
-{800}{}{En eso tienes razón… verás, no siempre TUVIMOS Jet. Pero nos topamos con ese chico, le echó un vistazo a la porquería de
- drogas que estábamos vendiendo, y dijo que podía hacerlo 'mejor'. Y lo hizo. Ahora trabaja para nosotros. Así de simple.}
+{781}{}{¿Cuánto tiempo ha estado sucediendo eso? Parece como si pudiérais controlar todo el norte de California ahora mismo, si el Jet es tan adictivo.}
+{800}{}{En eso tienes razón… verás, no siempre TUVIMOS Jet. Pero nos topamos con ese chico, le echó un vistazo a la porquería de drogas que estábamos vendiendo, y dijo que podía hacerlo 'mejor'. Y lo hizo. Ahora trabaja para nosotros. Así de simple.}
 {801}{}{¿Quién es ese chico y dónde está?}
 {820}{}{El nombre del chico es Myron. Y en cuanto a dónde ESTÁ, eso es algo que no necesitas saber.}
-{821}{}{El nombre del chico es Myron. Lo tenemos alojado en el establo, al norte de la ciudad, probando nuevas drogas. Podrías pasarte por allí a verlo si
- quieres, pero está ocupado la mayor parte del tiempo… o con las drogas o con las mujeres.}
+{821}{}{El nombre del chico es Myron. Lo tenemos alojado en el establo, al norte de la ciudad, probando nuevas drogas. Podrías pasarte por allí a verlo si quieres, pero está ocupado la mayor parte del tiempo… o con las drogas o con las mujeres.}
 {822}{}{¿Por qué no eres un poco listo y me respondes de todos modos?}
 {823}{}{Entiendo. Tenía algunas otras preguntas…}
 {824}{}{Myron, ¿eh? De acuerdo entonces, Jesús. Gracias por la conversación.}
@@ -255,8 +251,7 @@
 {969}{}{¿Sabes quién le vendió a Richard el Jet que lo mató?}
 {970}{}{Bueno, desde luego eso me despeja todas las dudas. Tengo algunas preguntas más…}
 {971}{}{Gracias por la información, Jesús. Has resultado muy útil.}
-{980}{}{Sí, Renesco… el "Astronauta". Vende tanto Jet, que podría ponerte en órbita lunar. Está por la parte oeste, en territorio
- Salvatore. No le gustan nada los Wright, y sus drogas no son PURAS, ¿sabes por dónde voy?}
+{980}{}{Sí, Renesco… el "Astronauta". Vende tanto Jet, que podría ponerte en órbita lunar. Está por la parte oeste, en territorio Salvatore. No le gustan nada los Wright, y sus drogas no son PURAS, ¿sabes por dónde voy?}
 {981}{}{No puede ser el único traficante en una ciudad de este tamaño.}
 {982}{}{En la parte oeste, ¿eh? Me pasaré por allí. Pero tengo algunas otras preguntas…}
 {983}{}{De acuerdo. Lo comprobaré. Gracias, Jesús.}
@@ -278,8 +273,7 @@
 {1014}{}{Renesco, Jules y Jeta Jimmy J. Lo tengo. Gracias por la información.}
 {1020}{}{PORQUE, hijo puta, yo NO soy un traficante. }
 {1021}{}{PORQUE YO NO soy un traficante, ZORRA. }
-{1022}{}{Puede que venda Jet en ocasiones, pero yo soy Pequeño Jesús MORDINO, no un descerebrado camello de Jet que provoca adicción a diez
- clientes por día sólo para ganar lo suficiente como para comer. Así que QUE TE JODAN.}
+{1022}{}{Puede que venda Jet en ocasiones, pero yo soy Pequeño Jesús MORDINO, no un descerebrado camello de Jet que provoca adicción a diez clientes por día sólo para ganar lo suficiente como para comer. Así que QUE TE JODAN.}
 {1023}{}{Será mejor que vigiles tu boca conmigo, Jesús.}
 {1024}{}{Tranquilo, que sólo era curiosidad… oye, tengo algunas otras preguntas…}
 {1025}{}{Está bien. Gracias por la información.}

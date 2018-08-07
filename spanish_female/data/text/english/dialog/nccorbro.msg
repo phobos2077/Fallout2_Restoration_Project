@@ -70,8 +70,7 @@
 {330}{}{20 minutos, guapa.}
 {331}{}{Veamos: (comprueba el guión). Entra Randy, él y Sylvia se lo montan… Christy va al aseo, Peter se une a ella, se lo montan. Entra Ron…}
 {345}{}{Los Hermanos Corsican a tu servicio… (te mira irritado y entonces hace un gesto de sorpresa). Oye... tú eres el de antes: quieres entonar, ¿verdad?}
-{346}{}{Los Hermanos Corsican a tu servicio… (te mira, irritado). Otra vez tú. Oye, ¿te interesa el empleo de
- entonador o no?}
+{346}{}{Los Hermanos Corsican a tu servicio… (te mira, irritado). Otra vez tú. Oye, ¿te interesa el empleo de entonador o no?}
 {347}{}{Los Hermanos Corsican a tu servicio… (te mira irritado y entonces hace un gesto de sorpresa). ¿ERES el nuevo entonador?}
 {348}{}{Los Hermanos Corsican a tu servicio… (te mira, irritado). ¿Eres el nuevo entonador?}
 {349}{}{Yo entono.}
@@ -143,8 +142,7 @@
 {501}{}{Me interesa. Pero antes de nada, algunas condiciones. Lo primero, sólo trabajo con actores LIMPIOS, espero al menos 500 fichas por
  cada rodaje, un 20% de regalías, y nada de GILIPOLLECES. Soy una estrella, y lo sabes.}
 {503}{}{Ni hablar. Necesito una ducha. Una larga ducha.}
-{515}{}{(Se saca bruscamente un trozo de papel de su chaqueta, y tú garabateas una "X" en él). ¡Hecho! ¡A filmar! Lo primero, necesitarás
- un nombre artístico, algo que grite a los cuatro vientos ESTRELLA. ¿Alguna idea?}
+{515}{}{(Se saca bruscamente un trozo de papel de su chaqueta, y tú garabateas una "X" en él). ¡Hecho! ¡A filmar! Lo primero, necesitarás un nombre artístico, algo que grite a los cuatro vientos ESTRELLA. ¿Alguna idea?}
 {516}{}{(Se saca bruscamente un trozo de papel de su chaqueta, y tú garabateas tu firma en él). ¡Hecho! ¡A filmar!
  Lo primero, necesitarás un nombre artístico, algo que grite a los cuatro vientos ESTRELLA. ¿Alguna idea?}
 {517}{}{Está bien - ¿y qué tal otro nombre?}
@@ -155,8 +153,7 @@
 {535}{}{¡Muy bien! "}
 {536}{}{¡Achtung! ¡Achtung!}
 {537}{}{[Vamos al grano]}
-{545}{}{Eh… no ESE nombre, ¿vale? Mala asociación. Quiero decir que nadie quiere ver al alguien que se llame así en cualquier obra porno decente.
- Elije otro nombre, ¿vale?}
+{545}{}{Eh… no ESE nombre, ¿vale? Mala asociación. Quiero decir que nadie quiere ver al alguien que se llame así en cualquier obra porno decente. Elije otro nombre, ¿vale?}
 {546}{}{De acuerdo...}
 {547}{}{Pero yo GUSTA de verdad el nombre}
 {548}{}{Pero realmente me gusta ese nombre.}
@@ -205,22 +202,18 @@
  erguido y en pie, ¿vale? Y ahora, vas a seguir hablando por los codos, o quieres trabajar?}
 {653}{}{¿Este viejo lugar? Esto es el Golden Globes, un estudio de CINE, probablemente el ÚNICO que sigue erguido y en pie en
  el mundo. Pero basta de hablar de este lugar… ¿buscas trabajo, amigo? NECESITAMOS talentos como tú.}
-{654}{}{¿Este viejo lugar? Esto es el Golden Globes, un estudio de CINE, probablemente el ÚNICO que sigue erguido y en pie en
- el mundo. Pero basta de hablar de este lugar… ¿buscas trabajo, tetazas?}
+{654}{}{¿Este viejo lugar? Esto es el Golden Globes, un estudio de CINE, probablemente el ÚNICO que sigue erguido y en pie en el mundo. Pero basta de hablar de este lugar… ¿buscas trabajo, tetazas?}
 {655}{}{¿Cómo filmáis? Quiero decir, venga… necesitaríais cámaras, película, proyectores… ¿dónde conseguiríais todo ese material?}
 {657}{}{No, gracias. He de irme.}
 {658}{}{Sólo echaba un vistazo. Últimamente me he sentido un poco agotado.}
-{670}{}{Tuvimos suerte… NO necesitamos nada de esa porquería de la Edad de Piedra. Nos encontramos con un por… er, proyector holo…gráfico FUNCIONAL.
- Nada de equipamiento voluminoso, nada de complicaciones… y sin líos raros.}
+{670}{}{Tuvimos suerte… NO necesitamos nada de esa porquería de la Edad de Piedra. Nos encontramos con un por… er, proyector holo…gráfico FUNCIONAL. Nada de equipamiento voluminoso, nada de complicaciones… y sin líos raros.}
 {671}{}{Quién lo diría… ¿qué especificaciones tiene el proyector?}
 {672}{}{Ya veo… bien, oye: estoy interesado en un trabajo, si aún lo seguís ofreciendo.}
 {673}{}{Me ha encantado hablar contigo, pero tengo que irme.}
-{680}{}{Bueno… aún no hemos afectado a la capacidad del disco QEWB: hasta donde yo sé, es un cubo de memoria de alta densidad de 300 GB.
- Incluso aunque el sistema operativo Winblows 57 se coma el 70-75% de él, podríamos filmar un centenar de años con ese cubo.}
+{680}{}{Bueno… aún no hemos afectado a la capacidad del disco QEWB: hasta donde yo sé, es un cubo de memoria de alta densidad de 300 GB. Incluso aunque el sistema operativo Winblows 57 se coma el 70-75% de él, podríamos filmar un centenar de años con ese cubo.}
 {681}{}{¿Dónde está ese cubo ahora? ¿Puedo verlo?}
 {683}{}{Caray. Eso es MUCHO porno. Creo que voy a reflexionar sobre eso un rato.}
-{690}{}{No, intentamos mantener a todo el mundo fuera de la sala de rodaje… todo el mundo quiere poner su granito de arena en lo que respecta a
- edición y almacenamiento. Además, el cubo es oro para nosotros: no querríamos que le sucediera nada.}
+{690}{}{No, intentamos mantener a todo el mundo fuera de la sala de rodaje… todo el mundo quiere poner su granito de arena en lo que respecta a edición y almacenamiento. Además, el cubo es oro para nosotros: no querríamos que le sucediera nada.}
 {692}{}{Tiene sentido. Dios sabe el uso que podría darle cualquier ladrón a ese cubo si llegase a ponerle las manos encima. Oh, bueno. ¡Adiós!}
 {700}{}{¡Excelente! Por supuesto, necesitaré ver cómo te comportas, una pequeña prueba para ver cómo superas un 'polvo'. ¿Juegas, amigo?}
 {701}{}{Excelente! Por supuesto, necesitaré ver cómo te comportas, una pequeña prueba para ver cómo superas un 'polvo'. ¿Juegas, tetazas?}
@@ -274,26 +267,21 @@
 {825}{}{El estudio Golden Globes, es EL estudio para todo el talento que queda en el mundo. Y entonces... eh, ¿qué puedo hacer por ti hoy?}
 {827}{}{¿Tienes tiempo para hacerme una audición? Creo que podría ser una estrella, ¿sabes a qué me refiero?}
 {829}{}{Hoy nada. Perdón por molestarte.}
-{835}{}{Um, claro. Desde luego. Te haremos una, eh, prueba. Veamos si tienes lo que se necesita. Quiero decir, esto no es para todos, pero
- podemos hacer una prueba, ¿vale? Eh… unos extras por aquí, por favor! ¡Aprisa!}
+{835}{}{Um, claro. Desde luego. Te haremos una, eh, prueba. Veamos si tienes lo que se necesita. Quiero decir, esto no es para todos, pero podemos hacer una prueba, ¿vale? Eh… unos extras por aquí, por favor! ¡Aprisa!}
 {836}{}{[Haces lo que el hombre indica.]}
 {845}{}{¡Um, claro, claro! Desde luego... aquí tienes. 250 fichas. Y, eh, saluda a Gran Jesús de mi parte, ¿vale?}
 {846}{}{¡Um, claro, claro! Desde luego... lamento el malentendido. Aquí tienes. 250 fichas. Y, eh, saluda a Gran Jesús de mi parte, ¿vale?}
 {847}{}{Antes de que todos os apresuréis a sacarme de aquí, ¿por qué no me hablas de tu pequeña operación, liante?}
 {848}{}{Sí, bueno. Quizá. Me marcho, amigo.}
-{855}{}{Los Hermanos Corsican a tu servicio… (Te mira). Otra vez tú. ¿Buscas más trabajo, señor
- Entono-muchísimo?}
-{856}{}{Los Hermanos Corsican a tu servicio… (Te mira). Otra vez tú. ¿Buscas más trabajo, señorita
- Entono-muchísimo?}
-{857}{}{Los Hermanos Corsican a tu servicio… (Te mira). ¡Tú! ¿Qué te pasó? Quiero decir, es bueno,
- es bueno… debo haberme perdido
+{855}{}{Los Hermanos Corsican a tu servicio… (Te mira). Otra vez tú. ¿Buscas más trabajo, señor Entono-muchísimo?}
+{856}{}{Los Hermanos Corsican a tu servicio… (Te mira). Otra vez tú. ¿Buscas más trabajo, señorita Entono-muchísimo?}
+{857}{}{Los Hermanos Corsican a tu servicio… (Te mira). ¡Tú! ¿Qué te pasó? Quiero decir, es bueno, es bueno… debo haberme perdido
  algo antes. Te interesa hacer de entonador, ¿es eso?}
 {861}{}{Uh, ¿qué es un entonador?}
 {862}{}{Sí. ¿Hay algún trabajo más para mí?}
 {875}{}{Los Hermanos Corsican a tu servicio… (Te mira). ¡Hey! ¿Has pensando en mi oferta? ¿Eh?}
 {876}{}{Los Hermanos Corsican a tu servicio… (Te mira). ¡Hey! ¿Quieres otro intento? ¿Es eso?}
-{877}{}{Los Hermanos Corsican a tu servicio… (Te mira). ¡Hey! ¿Has pensado en mi oferta? Quieres volver, comprobar si aún
- tienes la magia? ¿Eh?}
+{877}{}{Los Hermanos Corsican a tu servicio… (Te mira). ¡Hey! ¿Has pensado en mi oferta? Quieres volver, comprobar si aún tienes la magia? ¿Eh?}
 {879}{}{Va-le}
 {881}{}{Sí. He cambiado de opinión. ¿Debería desenfundar de repente, o…?}
 {882}{}{Sí. He cambiado de opinión. ¿Debería bajarme los pantalones, o…?}

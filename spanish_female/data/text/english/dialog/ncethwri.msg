@@ -141,8 +141,7 @@
 {398}{}{Olvídelo. Mejor me voy.}
 {400}{}{(Aprieta los dientes). ¡Ese veneno inmundo! Creí que podría mantenerlo LEJOS de esa basura, y entonces…}
 {401}{}{¿Puedes decirme dónde podría haber conseguido el Jet?}
-{405}{}{¡No lo sé! (Aprieta los puños). Venden ese veneno en cada esquina de Nuevo Reno! A CUALQUIER PARTE que vayas, lo estarán
- vendiendo…}
+{405}{}{¡No lo sé! (Aprieta los puños). Venden ese veneno en cada esquina de Nuevo Reno! A CUALQUIER PARTE que vayas, lo estarán vendiendo…}
 {406}{}{¿Sabes de algún traficante en especial?}
 {407}{}{Mira, olvida lo que he dicho. Tenía algunas otras preguntas…}
 {410}{}{No por su nombre. Me conocen lo suficiente como para correr en cuanto me ven… pero se agrupan como moscas a lo largo de la calle Virgin, en la
@@ -223,8 +222,7 @@
 {541}{}{Mira, todo lo que digo es…}
 {542}{}{La verdad duele. Y ya veo que vas a sufrir mucho dolor. Adiós.}
 {543}{}{Bien. Adiós.}
-{545}{}{Por otra parte, ha decidido ayudarme para que cualquier otro desafortunado adicto al alcohol rompa el hábito. ¡Es vergonzoso!
- La simple SUGERENCIA de que mi marido estuviera vendiendo alcohol a otros es…}
+{545}{}{Por otra parte, ha decidido ayudarme para que cualquier otro desafortunado adicto al alcohol rompa el hábito. ¡Es vergonzoso! La simple SUGERENCIA de que mi marido estuviera vendiendo alcohol a otros es…}
 {546}{}{Completamente cierto. señora Wright, su marido está vendiendo alcohol aquí en Nuevo Reno y promoviendo la bebida. Está haciendo
  la ciudad un peor lugar para vivir. Ayúdeme, y pondremos fin a todo ese sucio negocio.}
 {547}{}{Si no me cree, compruébelo en la estación de tren. Verá a qué me refiero.}

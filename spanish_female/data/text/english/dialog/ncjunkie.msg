@@ -183,8 +183,7 @@
 {450}{}{¡La madre que me...! ¿Qué eres tú? ¿Alguna clase de robot?}
 {451}{}{¿En dónde demonios te metiste para terminar cubierto de metal?}
 {452}{}{Vaya. Metal humano. Y me habla.}
-{453}{}{Si eres de otro planeta, deberías dar la vuelta… aquí no hay nada para
- conquistar.}
+{453}{}{Si eres de otro planeta, deberías dar la vuelta… aquí no hay nada para conquistar.}
 {454}{}{Oooooh. Puedo ver las luces de Nuevo Reno en tu visor.}
 {455}{}{Estoy taaan colocado que… eh, ¿qué estaba diciendo?}
 {456}{}{Amigo, se debe pasar CALOR en esa cosa.}
@@ -239,8 +238,7 @@
 {531}{}{Vaaaya. Debo haber tomado una mierda muuuy mala… estoy viendo cerebros robot andando por ahí.}
 {532}{}{Si vuelvo a ver por aquí a ese cerebro robot zumbando por aquí, dejaré el Jet
  para siempre.}
-{533}{}{Ya me he sentido como tu amigo robot antes… dile que estará bien una vez baje de
- donde está.}
+{533}{}{Ya me he sentido como tu amigo robot antes… dile que estará bien una vez baje de donde está.}
 {534}{}{¿Qué demonios le ocurrió a tu amigo el del cerebro? ¿Perdió su cuerpo?}
 {535}{}{DIME que ese cerebro robot no es real. Por favor.}
 {536}{}{Hey. Mira a ese cerebro robot. Que me aspen si eso no es un cerebro drogadicto.}
@@ -270,8 +268,7 @@
 {560}{}{Amigo, no mires ahora, pero un tribal te está siguiendo.}
 {561}{}{Vaya. Mira a ese tribal. Un hueso grande.}
 {562}{}{Eh, eh. ¿Tu amigo sabe que le está creciendo un hueso en la nariz?}
-{563}{}{Vaaaya. Debo haber tomado una mierda muuuy mala… acabo de ver que a ese tipo le crece un hueso
- en la nariz.}
+{563}{}{Vaaaya. Debo haber tomado una mierda muuuy mala… acabo de ver que a ese tipo le crece un hueso en la nariz.}
 {564}{}{¿Estoy colocado, o tu amigo tiene un hueso creciéndole en la nariz?}
 {565}{}{Mejor que le digas a tu amigo que alguien le afeite un hueso de su nariz.}
 {566}{}{Apenas te puedo ver, estoy demasiado colocado.}

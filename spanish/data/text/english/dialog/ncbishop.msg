@@ -117,12 +117,10 @@
  de uno. Encargarse de ellos es TU problema, tribal.}
 {446}{}{Genial, eso resulta de mucha ayuda. Oye, tenía algunas otras preguntas acerca de Westin…}
 {447}{}{Bien, suficiente para empezar. Westin es hombre muerto.}
-{455}{}{Bueno… corre el rumor de que no sale mucho. Me pareció oír algo acerca de un problema de corazón, así que no se deja
- ver demasiado. (Suelta una risotada). O eso, o no le gusta el sol.}
+{455}{}{Bueno… corre el rumor de que no sale mucho. Me pareció oír algo acerca de un problema de corazón, así que no se deja ver demasiado. (Suelta una risotada). O eso, o no le gusta el sol.}
 {456}{}{Hmmmm. Tenía algunas otras preguntas acerca de Westin…}
 {457}{}{Problemas de corazón, ¿eh? ¿Tiene un doctor? ¿Toma alguna medicación para ello?}
-{465}{}{(Sonríe). Me gusta cómo piensas, tribal… bien, no sé si toma alguna medicina para su corazón, pero sé que
- debería ser cuidadoso con lo que DEBERÍA tomarse, joder.}
+{465}{}{(Sonríe). Me gusta cómo piensas, tribal… bien, no sé si toma alguna medicina para su corazón, pero sé que debería ser cuidadoso con lo que DEBERÍA tomarse, joder.}
 {475}{}{(Frunce el ceño). Es un ganadero de brahmines. Un pastor de animales. ¿Y?}
 {476}{}{De acuerdo entonces. Tenía algunas otras preguntas acerca de Westin…}
 {477}{}{No, es algo MÁS. O de lo contrario no estaríamos teniendo esta conversación.}
@@ -152,7 +150,7 @@
 {547}{}{No, gracias. No me interesa.}
 {550}{}{(Te observa durante un momento, y luego asiente). }
 {551}{}{Sí… tengo un trabajo para ti. }
-{552}{}{Tengo otro… "problema" en RNC. Te rascas uno y aparece otro. El nombre del muerto es Carlson, porque aún no sabe que lo está. }
+{552}{}{Tengo otro… "problema" en RNC. Te rascas uno y aparece otro. El nombre del muerto es Carlson, porque aún no sabe que lo está.}
 {553}{}{Tengo un… "problema" al sur, en RNC. El nombre del muerto es Carlson, porque aún no sabe que lo está. }
 {554}{}{Haz que ocurra, y supondrá 500 para ti.}
 {555}{}{No hay problema. Ese tal Carlson está efectivamente muerto aunque no lo sepa.}
@@ -176,8 +174,7 @@
 {592}{}{1.000 fichas. Esto es todo lo que va a costar la jubilación anticipada de Carlson.}
 {593}{}{500 fichas entonces. Carlson es hombre muerto.}
 {594}{}{Entonces olvídalo. Encuentra a algún otro.}
-{600}{}{De acuerdo… mil fichas. Y eso es todo. No quiero escuchar ninguna gilipollez más. Será mejor que las próximas palabras que salgan de
- tus labios sean 'sí, señor Bishop. Lo haré'.}
+{600}{}{De acuerdo… mil fichas. Y eso es todo. No quiero escuchar ninguna gilipollez más. Será mejor que las próximas palabras que salgan de tus labios sean 'sí, señor Bishop. Lo haré'.}
 {601}{}{Sí, señor Bishop. Lo haré.}
 {602}{}{Me CONFORMO con 1.000 fichas. Esta vez.}
 {603}{}{¿1.000 fichas? ¿Estás de broma? Que sean 1.500 y cerramos el trato.}
@@ -196,10 +193,8 @@
  TU problema, tribal.}
 {651}{}{Genial, eso ha sido de mucha ayuda. Oye, tenía algunas preguntas más acerca de Carlson…}
 {652}{}{Está bien, eso basta para empezar. Carlson es hombre muerto.}
-{660}{}{No, nada de eso… que yo SEPA. Es un bastardo paranoico, eso desde luego, pero no creo que esté enfermo ni nada. (Frunce el ceño). Desde
- luego, es un tipo bastante VIEJO, así que su salud no puede ser tan buena.}
-{670}{}{(Te mira fijamente). Es el vicepresidente de la RNC. No dejes que te preocupe… pégale un buen tiro, y no tardarán en
- encajonarlo en un ataúd. Solo asegúrate de CONSEGUIR al menos un buen tiro.}
+{660}{}{No, nada de eso… que yo SEPA. Es un bastardo paranoico, eso desde luego, pero no creo que esté enfermo ni nada. (Frunce el ceño). Desde luego, es un tipo bastante VIEJO, así que su salud no puede ser tan buena.}
+{670}{}{(Te mira fijamente). Es el vicepresidente de la RNC. No dejes que te preocupe… pégale un buen tiro, y no tardarán en encajonarlo en un ataúd. Solo asegúrate de CONSEGUIR al menos un buen tiro.}
 {671}{}{De acuerdo entonces. Tenía algunas preguntas más acerca de Carlson…}
 {673}{}{¿El "vicepresidente de la RNC"? Que te jodan. Encuentra a algún otro… alguien a quien no le importe morir.}
 {680}{}{¿Ya has hecho lo de Carlson?}
@@ -211,10 +206,8 @@
  necesitarte: tienes recursos, eres duro, y consigues que las cosas se HAGAN. Esa es la clase de soldado que necesito.}
 {706}{}{Me interesa. ¿Qué habría para mí?}
 {707}{}{Gracias, pero no puedo aceptar... mi aldea y mi gente cuentan conmigo.}
-{715}{}{Aguarda… no creerás que te permitiré simplemente IRTE con todo lo que sabes, ¿verdad? Je. Venga, hombre… hay esqueletos que deben
- enterrarse antes de cerrar este asunto. Dejarte ir por ahí… eso es una mala política.}
-{716}{}{Espera… no creerías que las cosas estaban resueltas entre nosotros, ¿verdad? Je. Venga, hombre… según mis cuentas, todavía tienes MUCHAS
- cosas por las que pagar. Además, no puedo dejarte marchar con todo lo que sabes… eso es una mala política.}
+{715}{}{Aguarda… no creerás que te permitiré simplemente IRTE con todo lo que sabes, ¿verdad? Je. Venga, hombre… hay esqueletos que deben enterrarse antes de cerrar este asunto. Dejarte ir por ahí… eso es una mala política.}
+{716}{}{Espera… no creerías que las cosas estaban resueltas entre nosotros, ¿verdad? Je. Venga, hombre… según mis cuentas, todavía tienes MUCHAS cosas por las que pagar. Además, no puedo dejarte marchar con todo lo que sabes… eso es una mala política.}
 {717}{}{No digas estupideces, Bishop. Déjame ir, o convertiré tu tranquilo casino en un infierno. "¿Capiche?"}
 {718}{}{Tienes sentido. Déjame presentarte mi política de 9mm.}
 {719}{}{"¿Mala política?" TE MOSTRARÉ UNA MALA POLÍTICA, HIJO DE P--}
@@ -224,13 +217,11 @@
 {727}{}{¿Hay algún joven semental que te interese? Te procuraré todos los chicos guapos que quieras. O quizá seas de la otra acera,
  ¿eh? Me aseguraré de que tengas una compañera para cada día de la semana.}
 {728}{}{Sigue hablando.}
-{735}{}{¿Te gusta volar, colocarte, engancharte? Puedo conseguirte todo eso. ¿Quieres armas, nuevos accesorios, una mejor pieza de hierro
- con la que cargarte a diversos gilipollas? Toda es mierda… es tuya. SI… (levanta un dedo) SI te unes a la Familia.}
+{735}{}{¿Te gusta volar, colocarte, engancharte? Puedo conseguirte todo eso. ¿Quieres armas, nuevos accesorios, una mejor pieza de hierro con la que cargarte a diversos gilipollas? Toda es mierda… es tuya. SI… (levanta un dedo) SI te unes a la Familia.}
 {736}{}{Suena bien. Lo firmo... jefe.}
 {740}{}{¡Entonces de acuerdo…! ¿Tienes un nombre por el que quieres que te conozcan?}
 {741}{}{...}
-{745}{}{… me gusta, me gusta. Ahora, si quieres aprovechar tu reputación, baja hasta el bar, o dirígete a la calle
- Virgin, a La Garra de la Gata. Si quieres conseguir armas, vete a Armas Nuevo Reno.}
+{745}{}{… me gusta, me gusta. Ahora, si quieres aprovechar tu reputación, baja hasta el bar, o dirígete a la calle Virgin, a La Garra de la Gata. Si quieres conseguir armas, vete a Armas Nuevo Reno.}
 {746}{}{Se hará… jefe.}
 {750}{}{Eh...}
 {751}{}{. ¿Todo el mundo te trata bien?}
@@ -262,8 +253,7 @@
 {789}{}{De acuerdo entonces. Lo haré...}
 {790}{}{Tu mujer no VALE tanto.}
 {791}{}{Tu hija no VALE tanto.}
-{800}{}{Oye, antes de que te vayas… me gusta el aspecto de tus armas, tribal… me recuerdan cierto rumor que oí no hace
- mucho.}
+{800}{}{Oye, antes de que te vayas… me gusta el aspecto de tus armas, tribal… me recuerdan cierto rumor que oí no hace mucho.}
 {801}{}{¿Rumor?}
 {805}{}{Sí… se rumorea en el Yermo que alguien que encaja con tu descripción aniquiló a los saqueadores del sur de Ciudad Refugio. }
 {806}{}{Llevaba con él a un mutante grande de cojones, con un torno enganchado a su hombro. }

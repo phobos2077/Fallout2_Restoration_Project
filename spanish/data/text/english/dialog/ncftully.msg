@@ -165,8 +165,7 @@
 {602}{}{Sí.}
 {603}{}{Padre, baje la voz. Decir esas cosas podría hacer que lo matasen en esta ciudad…}
 {604}{}{Oiga, tal vez vuelva cuando esté sobrio.}
-{610}{}{(Te ignora). Vedás, hace unos meses, el viejo Bishop envío una cadavana a Ciudad Defugio, SUGIDIENDO un matdimonio de conveniencia entde
- Ciudad Defugio y Nuevo Deno.}
+{610}{}{(Te ignora). Vedás, hace unos meses, el viejo Bishop envío una cadavana a Ciudad Defugio, SUGIDIENDO un matdimonio de conveniencia entde Ciudad Defugio y Nuevo Deno.}
 {611}{}{¿Llegaron a un acuerdo?}
 {612}{}{Supongo que no llegarían a un acuerdo.}
 {620}{}{Más o menos lo que espedadías de una esposa descuidada con unas cudvas que cudadían la cegueda. Adultedio, sobde todo.
@@ -277,8 +276,7 @@
  con ellos. Es una especie de p-paz… que vale mientdas aguante, su-supongo.}
 {831}{}{¿Quién está al mando de los Salvatore, Padre?}
 {833}{}{Me lo supongo. Bien, gracias por hablar conmigo, Padre.}
-{840}{}{Louie… LOUIS… Salvatore didige el show. (Termina la botella y tose ligeramente). Lisiado. Necesita un t-tanque de oxígeno pada despidad... tiene
- los pulmones hechos polvo. Siempde está en el piso supediod de su local, nunca sale.}
+{840}{}{Louie… LOUIS… Salvatore didige el show. (Termina la botella y tose ligeramente). Lisiado. Necesita un t-tanque de oxígeno pada despidad... tiene los pulmones hechos polvo. Siempde está en el piso supediod de su local, nunca sale.}
 {841}{}{Interesante. ¿Puedo hacerlo algunas otras preguntas, Padre?}
 {842}{}{Hmmmm. Un tanque de oxígeno, ¿eh? Interesante. Bien, gracias por charlar conmigo, Padre.}
 {850}{}{Ese pobde chico… el Jet lo sepadó de su familia, eso hizo. ¡Esa maldita podquedía! El peod veneno pada la mente que se haya inventado…}
