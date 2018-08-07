@@ -96,8 +96,7 @@
 {375}{}{No. 500 fichas.}
 {377}{}{Señor Mordino, por favor... prácticamente me está insultando. Eso es material de primera, vale mucho más que eso.}
 {390}{}{(Mordino camina alrededor de Miria, la examina cuidadosamente, y luego le da una palmada en el trasero) Hmmmm. 500 fichas por ella, entonces.}
-{391}{}{(Mordino camina alrededor de Davin, sube las mangas de la ropa del chico y examina sus músculos, y luego comprueba en sus ojos signos de consumo de droga)
- Hmmmm. Parece bastante fuerte. 400 fichas por él, entonces.}
+{391}{}{(Mordino camina alrededor de Davin, sube las mangas de la ropa del chico y examina sus músculos, y luego comprueba en sus ojos signos de consumo de droga) Hmmmm. Parece bastante fuerte. 400 fichas por él, entonces.}
 {392}{}{(Mordino camina alrededor de Sulik, frunciendo el ceño) Hmmmm. Parece fuerte... y tolerante al dolor, para pinchar así un
  hueso a la nariz. 200 fichas por él.}
 {393}{}{(Mordino camina alrededor de Vic, frunciendo el ceño) Hmmmmm. Te daré 200 fichas por él. Ni una más.}
@@ -133,8 +132,7 @@
 {470}{}{¿Has… hecho lo que te pedí?}
 {471}{}{No, aún no he entregado el paquete.}
 {472}{}{Sí, le entregué a Ramirez lo que usted pidió.}
-{473}{}{Sí, he estado en el Establo y he tirado su paquete… ¿sabe lo que están HACIENDO allí? Están torturando
- a esclavos con drogas.}
+{473}{}{Sí, he estado en el Establo y he tirado su paquete… ¿sabe lo que están HACIENDO allí? Están torturando a esclavos con drogas.}
 {474}{}{Sí, le entregué su paquete a ese guardia, Ramirez… ¿sabe que ese tipo está colgado por el Jet? APESTABA a vapor de Jet.}
 {480}{}{Entonces... ¿por qué estás aquí? (Gran Jesús se seca la frente, y luego respira profundamente) ¿POR QUÉ no entregaste el paquete?}
 {481}{}{Bueno, primero tenía ciertas preguntas...}

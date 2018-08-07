@@ -192,8 +192,7 @@
 {802}{}{¡Violador! ¡Violador!}
 {810}{}{(Angela te conduce a su dormitorio del tercer piso. Allí, abre una pequeña puerta en la pared, saca una extraña
  botellita de plástico, y te la ofrece) ¿Quieres un poco, cariño? Hay más que suficiente para ponernos a los dos a volar.}
-{811}{}{(Angela te conduce a su dormitorio del tercer piso. Al llegar, abre una caja fuerte de la pared, saca algo de
- Jet, y te lo ofrece) ¿Quieres un poco, cariño? Hay más que suficiente para ponernos a los dos a volar.}
+{811}{}{(Angela te conduce a su dormitorio del tercer piso. Al llegar, abre una caja fuerte de la pared, saca algo de Jet, y te lo ofrece) ¿Quieres un poco, cariño? Hay más que suficiente para ponernos a los dos a volar.}
 {812}{}{Oh, oh.}
 {813}{}{Oh, no.}
 {820}{}{Mmmmmmmm... (Angela inhala profundamente de la botellita) Mmmmmmm... ¿por qué no vienes aquí

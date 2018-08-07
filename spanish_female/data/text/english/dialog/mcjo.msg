@@ -166,7 +166,7 @@
 {607}{}{Entonces por la ley de la frontera, yo os declaro marido y mujer. Puedes besar a la novia.}
 {608}{}{Entonces por la ley de la frontera, yo os declaro mujer y mujer. Puedes besar a la novia.}
 {609}{}{Entonces por la ley de la frontera, yo os declaro marido y marido. Puedes besar al otro.}
-{612}{}{[Jo pasa algunas páginas de su libro]}
+{612}{}{[Bo pasa algunas páginas de su libro]}
 {625}{}{esposo?}
 {626}{}{esposa?}
 {627}{}{uhhh... compañero? Sí, ¿legítimo compañero?}

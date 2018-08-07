@@ -30,47 +30,39 @@
 {243}{}{En realidad, me gustaría quedármelo. Te lo traeré más tarde.}
 {250}{}{(Abre el maletín, comprueba su contenido, y lo cierra con un golpe). Es de Moore, todo está bien. Excepto por esta nota que dice
  que no se puede confiar en ti más que en ver a una serpiente bailando. Has entrado en la habitación EQUIVOCADA, tribal.}
-{251}{}{(Abre el maletín, comprueba su contenido, y lo cierra con un golpe). Es de Moore, todo está bien. Dice que se te investigó, tribal. Por suerte
- para ti…(sonríe)… si entrases aquí con una mala reputación, ya estarías solicitando un viaje rápido al cielo.}
+{251}{}{(Abre el maletín, comprueba su contenido, y lo cierra con un golpe). Es de Moore, todo está bien. Dice que se te investigó, tribal. Por suerte para ti…(sonríe)… si entrases aquí con una mala reputación, ya estarías solicitando un viaje rápido al cielo.}
 {252}{}{Quizá sea así, pero voy a ser el único en salir.}
 {253}{}{Bien, he entregado el maletín, como pidió Moore… ahora, acerca de mi pago…}
 {254}{}{Tengo curiosidad. ¿Qué hay en el maletín?}
 {255}{}{Me alegra que todo esté en orden… oye, tengo que marcharme.}
 {265}{}{Despacito y buena letra, tribal… aún no hemos discutido el pago. }
-{266}{}{Despacito y buena letra, tribal… primero tengo unas preguntas que hacerte. }
-{267}{}{(Te estudia) Entonces… ¿de dónde CONOCES a Moore? ¿Ahora juega a la política entre los tribales? ¡Ja! Ese muchacho confundió
- su vocación.}
+{266}{}{Despacito y buena letra, tribal… primero tengo unas preguntas que hacerte.}
+{267}{}{(Te estudia) Entonces… ¿de dónde CONOCES a Moore? ¿Ahora juega a la política entre los tribales? ¡Ja! Ese muchacho confundió su vocación.}
 {268}{}{Le conocí en Ciudad Refugio, extendiendo la palabra. Me ofrecí a ayudarlo entregándote este maletín.}
 {269}{}{Simplemente me lo encontré durante mi viaje. Me ofrecí a ayudarlo entregándote este maletín.}
 {275}{}{Je… qué puñetero… a pesar de toda su prédica, el viejo Tomcat Moore no parece que pueda bajarse de la tribuna el tiempo suficiente como para hacer
  un trabajo de campo. Je… aún así, eso no supone ninguna diferencia con cualquier otro muchacho de la RNC.}
 {276}{}{Predica mucho. De hecho, parece tener mucho sentido.}
 {277}{}{Tiene cierto… talento con las palabras.}
-{278}{}{Sí, bueno, en algún momento ha de hacerse el trabajo, y me llaman para asegurarme de que las cosas se entregan… como
- ese maletín.}
-{285}{}{(Para sí mismo). Por supuesto, ser capaz de azotar a una multitud hasta el frenesí no está del todo mal si uno va a entrar en política…
- (Te estudia con sospecha). No eres de la RNC también, ¿no? Tomcat es casi el único de ellos al que soporto por ahora.}
+{278}{}{Sí, bueno, en algún momento ha de hacerse el trabajo, y me llaman para asegurarme de que las cosas se entregan… como ese maletín.}
+{285}{}{(Para sí mismo). Por supuesto, ser capaz de azotar a una multitud hasta el frenesí no está del todo mal si uno va a entrar en política… (Te estudia con sospecha). No eres de la RNC también, ¿no? Tomcat es casi el único de ellos al que soporto por ahora.}
 {286}{}{Sí, también pertenezco a la RNC. No es lo mejor, pero puede pasar. Soy algo así como un agente libre.}
 {287}{}{No, sólo soy un viajero. Estuve de acuerdo en ayudar a Moore porque necesitaba trabajo.}
-{295}{}{(Señala con la cabeza el maletín). Bien, este maletín lo merecía. Un pequeño trozo del interior de Ciudad Refugio, un poco de esa preciosa
- tecnología de la que la zorra frígida de Lynette no quiere separarse… pero oye, tribal, aún no te he pagado. Aquí está lo tuyo.}
+{295}{}{(Señala con la cabeza el maletín). Bien, este maletín lo merecía. Un pequeño trozo del interior de Ciudad Refugio, un poco de esa preciosa tecnología de la que la zorra frígida de Lynette no quiere separarse… pero oye, tribal, aún no te he pagado. Aquí está lo tuyo.}
 {296}{}{Verás… no tengo ningún otro trabajo pendiente en este momento. ¿Tienes alguno para mí?}
 {297}{}{Sí… gracias. Oye, tengo que irme.}
 {305}{}{No… no tengo más trabajo para ti… pero oye, gracias por lo que has hecho. }
-{306}{}{No… no tengo nada para ti. Un montón de recientes muertes en RNC han hecho mi vida más fácil… pero oye, gracias
- por la entrega. }
+{306}{}{No… no tengo nada para ti. Un montón de recientes muertes en RNC han hecho mi vida más fácil… pero oye, gracias por la entrega. }
 {307}{}{(Señala la salida con un gesto). Y ahora lárgate de aquí. Tengo otros asuntos que atender.}
 {308}{}{¿Te he entregado ese estúpido maletín haciendo todo el camino desde Ciudad Refugio, y me rechazas? Creo
  que simplemente voy a tomar el RESTO de mi paga de tu caja fuerte.}
 {309}{}{No, creo que no me voy a largar todavía. Aún tienes ASUNTOS conmigo... cadáver.}
 {310}{}{De acuerdo entonces. Me marcho.}
-{315}{}{Espera ahí un momento, tribal… (sonríe mientras cierra el maletín). El viejo Tomcat dice que eres un jugador de equipo. Necesito gente así.
- Tengo un trabajo para ti, si estás interesado.}
+{315}{}{Espera ahí un momento, tribal… (sonríe mientras cierra el maletín). El viejo Tomcat dice que eres un jugador de equipo. Necesito gente así. Tengo un trabajo para ti, si estás interesado.}
 {316}{}{Estoy escuchando.}
 {317}{}{No, en realidad tengo que irme.}
 {325}{}{(Te estudia durante un momento, luego asiente). Sí… tengo un trabajo para ti. }
-{326}{}{Tengo cierto… "problema" bajando al sur, en RNC. Cierto tipo, Westin, tiene una bocaza que debe ser cerrada… permanentemente.
- Dinero fácil.}
+{326}{}{Tengo cierto… "problema" bajando al sur, en RNC. Cierto tipo, Westin, tiene una bocaza que debe ser cerrada permanentemente. Dinero fácil.}
 {327}{}{No hay problema. Ese tal Westin ya se puede dar por muerto.}
 {328}{}{No me interesa. Encuentra a algún otro.}
 {335}{}{Espera. Aún no he TERMINADO de contártelo todo. Quiero a ese tipo muerto, pero no puede PARECER que se lo han cargado. No le metas una bala en la cabeza, no le golpees hasta matarlo, no hagas NADA que parezca un rasguño.}
@@ -83,8 +75,7 @@
 {347}{}{Olvídalo… no es mi estilo. Encuentra a algún otro. Me largo de aquí.}
 {355}{}{Ese es TU problema, tribal, no el mío. Haz un poco de vudú, mezcla alguna planta venenosa y deslízala en su bebida,
  ahógalo cuando duerma, empújalo desde un edificio, no me importa. Pero que no parezca un asesinato.}
-{356}{}{De acuerdo… una vez más en caso de que no me haya expresado con claridad CRISTALINA: tiene que parecer un accidente, o
- no servirá.}
+{356}{}{De acuerdo… una vez más en caso de que no me haya expresado con claridad CRISTALINA: tiene que parecer un accidente, o no servirá.}
 {357}{}{Hecho. Volveré después de que Westin haya sufrido su… "accidente".}
 {358}{}{Te OÍ la primera vez. Volveré cuando Westin haya sufrido su… "accidente".}
 {359}{}{Si no me quieres para que le meta una bala en la cabeza, entonces el precio va a subir un poco.}

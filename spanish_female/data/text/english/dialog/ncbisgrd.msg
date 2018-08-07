@@ -119,8 +119,7 @@
 {478}{}{Dejadme verlo. Ahora.}
 {479}{}{Dile que tengo un maletín para él... del señor Moore.}
 {480}{}{Olvídalo entonces.}
-{490}{}{(El guardia retrocede, abre un panel de una de las paredes y susurra algo.
- Espera un minuto, escucha, luego regresa a tu lado y se encoge de hombros) Dice que puedes subir.}
+{490}{}{(El guardia retrocede, abre un panel de una de las paredes y susurra algo. Espera un minuto, escucha, luego regresa a tu lado y se encoge de hombros) Dice que puedes subir.}
 {491}{}{De acuerdo.}
 {495}{}{Tú, }
 {496}{}{! }
