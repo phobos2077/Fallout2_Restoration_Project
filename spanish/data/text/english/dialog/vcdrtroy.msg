@@ -76,8 +76,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {164}{}{¿Qué es eso?}
 {165}{}{No me interesa, gracias.}
 {166}{}{¡Excelente! Me alegra que lo hayas reconsiderado.}
-{167}{}{Ha llegado a mis oídos que hay una nueva droga en el Yermo. Se llama "Jet",
- creo. No me importaría pagar mil dólares por una muestra de esta droga.}
+{167}{}{Ha llegado a mis oídos que hay una nueva droga en el Yermo. Se llama "Jet", creo. No me importaría pagar mil dólares por una muestra de esta droga.}
 {168}{}{¿Jet? Tengo una muestra justo aquí.}
 {169}{}{Casualmente tengo algo de Jet encima. Es tuyo por mil doscientos.}
 {170}{}{Tengo algo de Jet aquí... me desprendería de él a cambio de mil quinientos.}
@@ -105,13 +104,11 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {188}{}{Olvídalo. Había algo más que te quería preguntar...}
 {189}{}{Bueno, sacan esa cosa de la mierda de brahmin.}
 {190}{}{Lo que hay en ese frasco de Jet son gases de excrementos de brahmin. Asqueroso, ¿no?}
-{191}{}{Lo que hay en ese frasco de Jet son gases de excrementos de brahmin. Asqueroso, ¿no? Ah, por cierto... estoy
- buscando bloqueadores de endorfinas. ¿Tienes alguno?}
+{191}{}{Lo que hay en ese frasco de Jet son gases de excrementos de brahmin. Asqueroso, ¿no? Ah, por cierto... estoy buscando bloqueadores de endorfinas. ¿Tienes alguno?}
 {192}{}{Bien, según aquí el chico listo, preparan ese material a partir de mierda de brahmin.}
 {193}{}{Bien, según aquí el chico listo, lo que hay en ese frasco de Jet son gases de excrementos de brahmin.
  Asqueroso, ¿no?}
-{194}{}{Bien, según aquí el chico listo, lo que hay en ese frasco de Jet son gases de excrementos de brahmin.
- Asqueroso, ¿no? Ah, por cierto... estoy buscando bloqueadores de endorfinas. ¿Tienes alguno?}
+{194}{}{Bien, según aquí el chico listo, lo que hay en ese frasco de Jet son gases de excrementos de brahmin. Asqueroso, ¿no? Ah, por cierto... estoy buscando bloqueadores de endorfinas. ¿Tienes alguno?}
 {195}{}{Eh... da igual. Quizá es mejor que no lo sepas.}
 {196}{}{Creo que debes estar... equivocado.}
 {197}{}{Bueno, es muy difícil de creer. Tenía otras preguntas...}
@@ -131,21 +128,16 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {206}{}{No hay problema. Cuidado con ese material, ¿de acuerdo?}
 {207}{}{Oye, ¿no lo somos todos? Ya nos veremos, doctor.}
 {208}{}{¿Bloqueadores de endorfinas? ¿Para qué?}
-{209}{}{Creo que los bloqueadores de endorfina podrían usarse para neutralizar los efectos del Jet. Pero
- no puedo probarlo sin algunos de esos bloqueadores.}
+{209}{}{Creo que los bloqueadores de endorfina podrían usarse para neutralizar los efectos del Jet. Pero no puedo probarlo sin algunos de esos bloqueadores.}
 {210}{}{No importa. Hay algo más que quería preguntarte...}
 {211}{}{Nada. Tengo que irme.}
-{212}{}{Aquí no tenemos bloqueadores de endorfinas, pero podría programar el Autodoctor para hacer alguno.
- ¿Te importaría explicarme tu teoría?}
-{213}{}{Bueno, sabes que la adicción al Jet es probablemente la más difícil de eliminar, así que he pensado
- que si introdujésemos en el cuerpo bloqueadores de endorfinas, podríamos...}
-{215}{}{Estoy... estupefacto. Esa es, sencillamente, la solución más brillante que haya escuchado. He estado
- experimentando con métodos para curar la adicción al Jet durante meses, y no he conseguido nada.}
+{212}{}{Aquí no tenemos bloqueadores de endorfinas, pero podría programar el Autodoctor para hacer alguno. ¿Te importaría explicarme tu teoría?}
+{213}{}{Bueno, sabes que la adicción al Jet es probablemente la más difícil de eliminar, así que he pensado que si introdujésemos en el cuerpo bloqueadores de endorfinas, podríamos...}
+{215}{}{Estoy... estupefacto. Esa es, sencillamente, la solución más brillante que haya escuchado. He estado experimentando con métodos para curar la adicción al Jet durante meses, y no he conseguido nada.}
 {216}{}{¿También has estado trabajando en un antídoto?}
 {217}{}{Sí, solo que necesito una muestra de Jet.}
 {218}{}{Sí... y sin ningún éxito.}
-{219}{}{Es necesario detener el yugo que supone esta droga antes de que pueda propagarse. Porque... con la información
- que nos has proporcionado, ¡podríamos fabricar el antídoto hoy mismo! No nos rindamos.}
+{219}{}{Es necesario detener el yugo que supone esta droga antes de que pueda propagarse. Porque... con la información que nos has proporcionado, ¡podríamos fabricar el antídoto hoy mismo! No nos rindamos.}
 {220}{}{¡Genial! Gracias, doctor.}
 {221}{}{¿Este hombre joven? ¿El creó el Jet?}
 {222}{}{Yo no le llamaría "hombre", pero sí, él diseñó el Jet. O eso es lo que afirma.}
@@ -159,20 +151,16 @@ No suelo tener la oportunidad de hablar con otro médico.}
  muestras de sangre de brahmin en el patio, entonces... gracias, amigo mío.}
 {230}{}{No hay problema.}
 {231}{}{Claro.}
-{232}{}{También podrías decirle a ese vándalo amigo tuyo que está desperdiciando su considerable intelecto
- fabricando drogas. Además, sus modales y lenguaje dejan MUCHO que desear.}
+{232}{}{También podrías decirle a ese vándalo amigo tuyo que está desperdiciando su considerable intelecto fabricando drogas. Además, sus modales y lenguaje dejan MUCHO que desear.}
 {233}{}{Háblame sobre ello.}
-{234}{}{Quizá deberías aflojar un poco, Doc. Un poco de droga nunca ha hecho mal a nadie. Bueno, excepto
- esos super estimulantes... y esteroides... y psico. Bueno, no he dicho nada. He de irme.}
+{234}{}{Quizá deberías aflojar un poco, Doc. Un poco de droga nunca ha hecho mal a nadie. Bueno, excepto esos super estimulantes... y esteroides... y psico. Bueno, no he dicho nada. He de irme.}
 {235}{}{Lo difundiré.}
 {236}{}{Sí, estoy dispuesto a pagarte cien dólares por la muestra... y por tu silencio.}
 {237}{}{Tengo una muestra de Jet justo aquí.}
 {238}{}{¿Para qué quieres el Jet?}
 {239}{}{Suena bien. Estoy dentro.}
 {240}{}{No me interesa.}
-{241}{}{Resultaría... útil para mí y mi trabajo que pudieras traerme una muestra de esta droga. Te pagaré
- cien dólares a la entrega. Pero es de la mayor importancia que mantengas esta transacción de forma
- confidencial.}
+{241}{}{Resultaría... útil para mí y mi trabajo que pudieras traerme una muestra de esta droga. Te pagaré cien dólares a la entrega. Pero es de la mayor importancia que mantengas esta transacción de forma confidencial.}
 {242}{}{Eh... ¿confidencial?}
 {243}{}{Oh, ¿de veras? ¿Cuánto vas a pagarme por mantenerme callado? Podría entregarte en este momento.}
 {244}{}{Tengo una muestra de Jet justo aquí.}
@@ -196,8 +184,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {261}{}{Podría, y lo haré. ¿Cuánto vale tu Ciudadanía para ti? La vida en el Yermo puede ser
  bastante dura para cualquiera...}
 {262}{}{¡He sido un tonto por confiar en ti! Muy bien... ¿qué es lo que quieres?}
-{263}{}{Quinientos el primero de cada mes, y mantendré tu contrabando de drogas entre tú
- y yo.}
+{263}{}{Quinientos el primero de cada mes, y mantendré tu contrabando de drogas entre tú y yo.}
 {264}{}{Cien el primero de cada mes, y podrás mantener tu Ciudadanía.}
 {265}{}{Doscientos el primero de cada mes, y me mantendré callado.}
 {266}{}{¡¿Estás loco?! ¡No hay forma de que pueda permitirme eso!}
@@ -259,8 +246,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {317}{}{Eso es todo lo que quiero de aquí. Nos vemos, Doc.}
 {318}{}{Ya veo. Lo primero, necesitaré comprobar tus signos vitales... recuéstate y te sujetaré al
  Autodoc...}
-{320}{}{Hmmmm. Parece que durante el procedimiento de puesta en marcha, una anulación prioritaria provocó que el
- Autodoc te inyectase por accidente trietileno sódico.}
+{320}{}{Hmmmm. Parece que durante el procedimiento de puesta en marcha, una anulación prioritaria provocó que el Autodoc te inyectase por accidente trietileno sódico.}
 {321}{}{¿Qué? ¿Eso qué significa?}
 {322}{}{Significa que te quedan menos de diez segundos de vida. Tu estupidez resulta realmente asombrosa.
  ¿Chantajeas a alguien, y a continuación pones tu vida en sus manos? Sencillamente increíble. Adiós... y hasta nunca.}
@@ -273,8 +259,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {328}{}{(Te quedas de pie uno momento)}
 {329}{}{Tengo buenas noticias. Conseguí crear un antídoto para esa muestra de Jet que me diste.}
 {330}{}{Buenas noticias... conseguí usar la información que me diste para crear un antídoto.}
-{331}{}{Al tomarlo, anula el síndrome de abstinencia del Jet, y también... elimina la euforia asociada
- con la droga.}
+{331}{}{Al tomarlo, anula el síndrome de abstinencia del Jet, y también... elimina la euforia asociada con la droga.}
 {332}{}{Genial. ¿Puedo quedarme un poco?}
 {333}{}{¿Puedo quedarme con una muestra? Creo que podría ayudar a los habitantes de Redding.}
 {334}{}{Por supuesto. Aquí tienes. Llévaselo a uno de mis colegas, el doctor Johnson, en Redding. Debería poder
@@ -288,9 +273,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
  pago.}
 {339}{}{Tenemos un trato. Tenía otras preguntas...}
 {340}{}{Volveré con el Jet.}
-{341}{}{Sí, estoy familiarizado con ellos. Es un procedimiento invasivo, en el que las placas de impacto y las membranas
- disipadoras de calor se injertan en el esqueleto para ayudar a protegerlo contra traumas físicos y calor. ¿Por
- qué lo preguntas?}
+{341}{}{Sí, estoy familiarizado con ellos. Es un procedimiento invasivo, en el que las placas de impacto y las membranas disipadoras de calor se injertan en el esqueleto para ayudar a protegerlo contra traumas físicos y calor. ¿Por qué lo preguntas?}
 {342}{}{Sí, ya mencionaste antes los implantes. No voy a llevar a cabo la operación, lo siento. El
  procedimiento es irreversible, y los implantes harán más mal que bien.}
 {343}{}{Me encontré con ellos en la base de datos médica de Ciudad Refugio. ¿Podrías llevar a cabo la operación conmigo?}

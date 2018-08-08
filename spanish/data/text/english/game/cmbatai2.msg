@@ -82,10 +82,10 @@
 {1237}{}{¡Oh, creo que me has roto una costilla!}
 {1238}{}{¡Ay! ¡Mi bazo!}
 {1239}{}{¡Oof!}
-{1260}{}{¡Ay, la pierna de Kaga!.}
+{1260}{}{Ay, mi pierna.}
 {1261}{}{¡No necesito estar de pie para matarte!}
 {1262}{}{¡Mi rodilla!}
-{1270}{}{¡Ay, la pierna de Kaga!.}
+{1270}{}{Ay, mi pierna.}
 {1271}{}{¡No necesito estar de pie para matarte!}
 {1272}{}{¡Mi rodilla!}
 {1280}{}{¡No veo!}
@@ -558,7 +558,7 @@
 {2449}{}{¡Voy a acabar contigo!}
 {2460}{}{¿Tú mamá no te enseñó a hacer eso?}
 {2461}{}{¡Das pena!}
-{2462}{}{No eres muy bueno.}
+{2462}{}{No eres bastante bueno.}
 {2463}{}{Ese fue tu último error.}
 {2464}{}{Novato.}
 {2465}{}{¿Aprendiste a pelear en un bar?}
@@ -592,7 +592,7 @@
 {2562}{}{Esto es demasiado fácil.}
 {2563}{}{Es patético...}
 {2564}{}{¡Muy lento!}
-{2565}{}{¡Perdedora!}
+{2565}{}{¡Perdedor!}
 {2600}{}{¡Huid de El Maligno!}
 {2601}{}{¡Los Espíritus me aconsejan que me salve yo mismo!}
 {2602}{}{Nuestro enemigo ha usado poderosa magia... ¡Huid! ¡Qué alguien busque al chamán!}
@@ -1462,7 +1462,7 @@
 {36220}{}{¡Después de matarte, Kaga quemará todo Arroyo!}
 {36221}{}{¡Debo ser temido por todos!}
 {36222}{}{¡Kaga tendrá tu cabeza como trofeo!}
-{36223}{}{Ríndete y Kaga hará que tu muerte sea rápida.}
+{36223}{}{Ríndete y haré que tu muerte sea rápida.}
 {36240}{}{¡Siente la ira de Kaga!}
 {36241}{}{No te molestes en pedir piedad...}
 {36242}{}{¡Voy a disfrutar esto!}
@@ -1472,7 +1472,7 @@
 {36246}{}{¡Espero que no mueras tan pronto como los otros!}
 {36247}{}{¡Otro Elegido para matar!}
 {36248}{}{¡Muere!}
-{36249}{}{Grita para Kaga.}
+{36249}{}{Grita para mí.}
 {36260}{}{¡No puedes herir a Kaga!}
 {36261}{}{Los Espíritus protegen a Kaga.}
 {36262}{}{Espero que ese no sea tu mejor disparo.}
@@ -1544,7 +1544,7 @@
 {36541}{}{¡Kaga será famoso por matarte!}
 {36542}{}{¡Voy a disfrutar esto!}
 {36543}{}{Oooo, Kaga sintió eso desde aquí.}
-{36544}{}{Kaga llevará tu cabeza a la Anciana.}
+{36544}{}{Llevaré tu cabeza a la Anciana.}
 {36545}{}{¡El Elegido morirá aquí!}
 {36546}{}{Kaga tiene que matarte ahora.}
 {36547}{}{¡Muere!}

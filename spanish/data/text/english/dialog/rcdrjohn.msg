@@ -52,8 +52,7 @@
 {142}{}{Ay, venga, Doc. Necesitamos tu ayuda de verdad.}
 {143}{}{Volveré cuando tenga más dinero. Adiós. }
 {144}{}{Bueno, está bien. Lo haré por esta vez: pero será mejor que tengas dinero para la próxima.}
-{145}{}{Eso te sirvió… una vez. Que es precisamente lo que te dije. Esta vez necesito el dinero. No vas a conseguir
- nada gratis en este mundo... incluidos mis servicios.}
+{145}{}{Eso te sirvió… una vez. Que es precisamente lo que te dije. Esta vez necesito el dinero. No vas a conseguir nada gratis en este mundo... incluidos mis servicios.}
 {146}{}{Gracias, Doc. Vaya si lo agradezco. La próxima vez tendré dinero. Lo prometo.}
 {147}{}{Me siento un poco culpable por presionarte así. Será mejor que vuelva cuando tenga dinero para
  pagarte.}
@@ -146,8 +145,7 @@
  he sido el doctor de aquí desde hace mucho tiempo.}
 {219}{}{Me alegra que no tengas problemas. Deja que te pregunte algo más, Doc.}
 {220}{}{Bien. Apuesto a que las cosas se habrían puesto feas si hubieran sospechado. En fin, adiós, Doc.}
-{221}{}{Bueno, todo el mundo quiere una parte del oro de Redding, así que tarde o temprano seremos
- controlados por alguien. Yo sólo quiero que tengamos al mando a quien haga lo mejor para Redding.}
+{221}{}{Bueno, todo el mundo quiere una parte del oro de Redding, así que tarde o temprano seremos controlados por alguien. Yo sólo quiero que tengamos al mando a quien haga lo mejor para Redding.}
 {222}{}{¿Y quién crees que es?}
 {223}{}{Tal y como yo lo veo, la mejor oportunidad de Redding es con Ciudad Refugio controlando las cosas por aquí. Es de donde
  yo soy -así que quizá sea parcial- pero realmente creo que Ciudad Refugio puede hacer un mejor trabajo ayudando a
@@ -190,8 +188,7 @@
 {248}{}{No tan rápido, Doc. ¿Cuánto vale para ti?}
 {249}{}{Creo que no estoy listo para deshacerme de él aún. Ya nos veremos, Doc. Adiós.}
 {250}{}{¿Que cuánto vale para mí? ¡Tú, pequeña comadreja! Debería…}
-{251}{}{Tranquilito, Doc; esa clase de comentarios me hacen sentir tan mal que me pongo a temblar. Se me podrían caer
- las cosas… como esta botella de antídoto.}
+{251}{}{Tranquilito, Doc; esa clase de comentarios me hacen sentir tan mal que me pongo a temblar. Se me podrían caer las cosas… como esta botella de antídoto.}
 {252}{}{Vale, vale. Oye, sólo bromeaba. Aquí está.}
 {253}{}{Gracias. Me aseguraré de que los mineros obtengan un pequeño *extra* con el próximo lote de
  Jet que prueben.}
@@ -249,10 +246,7 @@
 {294}{}{La mejora de asalto para la armadura de implantes Phoenix.}
 {295}{}{Doc, creo que preferiría preguntarte sobre algo menos… eh, invasivo.}
 {296}{}{La verdad es que no quiero oír nada más sobre una operación ahora mismo. Adiós.}
-{297}{}{Por lo que he leído, la armadura dérmica de impacto te otorga un 5% de resistencia al daño normal
-  y explosivo, añadido a cualquier otra armadura que lleves. La operación necesita unos dos días, una
- armadura de combate (para las piezas), y te costará 5.000 dólares. El procedimiento debería ser bastante simple… creo.
- Hmm, puede que incluso las cicatrices no sean tan malas.}
+{297}{}{Por lo que he leído, la armadura dérmica de impacto te otorga un 5% de resistencia al daño normal  y explosivo, añadido a cualquier otra armadura que lleves. La operación necesita unos dos días, una armadura de combate (para las piezas), y te costará 5.000 dólares. El procedimiento debería ser bastante simple… creo. Hmm, puede que incluso las cicatrices no sean tan malas.}
 {298}{}{Eso suena genial, Doc. Hagámoslo. Estoy harto de que me disparen, me apuñalen y me revienten todo el
  puñetero día.}
 {299}{}{Déjame preguntarte sobre una de las otras operaciones, Doc.}
@@ -266,12 +260,7 @@
  carismático después de que termine. Acumular todas esas placas de impacto bajo tu piel va a darte un aspecto
  anguloso de cojones, pero de forma muy aerodinámica. Pero a quién no le gusta el aspecto de un coche nuevo: intentaré
  no dejarte aletas.}
-{304}{}{La mejora de asalto de la armadura dérmica de impacto debería proporcionarte un total de un 10% de resistencia al
- daño normal y explosivo, añadido a cualquier otra armadura que lleves. La operación necesita unos cuantos
- días y te costará 30.000 dólares. Además, no vas a ser demasiado carismático después de que termine.
- Acumular todas esas placas de impacto bajo tu piel va a darte un aspecto anguloso de cojones, pero de
- forma muy aerodinámica. Pero a quién no le gusta el aspecto de un coche nuevo: intentaré no dejarte aletas.
- ¿Listo para empezar?}
+{304}{}{La mejora de asalto de la armadura dérmica de impacto debería proporcionarte un total de un 10% de resistencia al daño normal y explosivo, añadido a cualquier otra armadura que lleves. La operación necesita unos cuantos días y te costará 30.000 dólares. Además, no vas a ser demasiado carismático después de que termine. Acumular todas esas placas de impacto bajo tu piel va a darte un aspecto anguloso de cojones, pero de forma muy aerodinámica. Pero a quién no le gusta el aspecto de un coche nuevo: intentaré no dejarte aletas. ¿Listo para empezar?}
 {305}{}{Eso suena genial, Doc. Hagámoslo. Estoy todo el tiempo en modo asalto, y no me importa el
  aspecto.}
 {306}{}{Déjame preguntarte sobre una de las otras operaciones, Doc.}
@@ -311,9 +300,7 @@
 {325}{}{Ha resultado bastante bien, creo. La armadura Phoenix se implantó bastante más pulcramente de lo que
  había pensado que lo haría. Esa sensación de ardor y picazón probablemente desaparecerá en pocas semanas... en cuanto tus
  entrañas se hayan acostumbrado a las fibras.}
-{326}{}{Hemos recobrado la consciencia, ¿eh? Ya estás simplemente repleto de disipadores termales y membranas disipadoras.
- No parecerás tan hinchado en unas semanas, pero tampoco vas a ganar ningún concurso de
- belleza. Intenta no rascarte las costras purulentas de las incisiones de drenaje hasta que dejen de supurar.}
+{326}{}{Hemos recobrado la consciencia, ¿eh? Ya estás simplemente repleto de disipadores termales y membranas disipadoras. No parecerás tan hinchado en unas semanas, pero tampoco vas a ganar ningún concurso de belleza. Intenta no rascarte las costras purulentas de las incisiones de drenaje hasta que dejen de supurar.}
 {327}{}{Gracias por el consejo, Doc. Esto es genial. Oye, déjame preguntarte algo más.}
 {328}{}{Gracias por el trabajito, Doc. Será mejor que me ponga en marcha. Adiós.}
 {329}{}{Le he entregado el antídoto de Jet a doctor John.}

@@ -73,8 +73,7 @@
 {361}{}{Se aleja llorando.}
 {370}{}{Eres el más tonto. ¡El más tonto!}
 {395}{}{¡No, no, TONTO! (sale corriendo, Con sus carcajadas martirizando tus oídos).}
-{396}{}{No quiero hablar con tú MÁS... *snfff*... yo... *snfff*... hago una FIESTA...
- con *snfff* PASTEL y HELADO... y tú NO puedes ir [Te marchas].}
+{396}{}{No quiero hablar con tú MÁS... *snfff*... yo... *snfff*... hago una FIESTA... con *snfff* PASTEL y HELADO... y tú NO puedes ir [Te marchas].}
 {405}{}{(El niño parpadea, abre la boca y luego la cierra. Aparece una lágrima y empieza a sollozar).}
 {406}{}{Jee jee YO gana}
 {410}{}{Oh (se queda pensando un momento, y luego te mira con los ojos entrecerrados). ¿Por qué tú NO eres un robot?}

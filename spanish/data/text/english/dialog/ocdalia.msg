@@ -63,9 +63,5 @@
 {151}{}{Hola otra vez. ¿Cómo va todo?}
 {152}{}{No tengo ningún problema contigo. }
 {153}{}{? Espero que todo te fuera bien en Ocupación.}
-{154}{}{Así pues, me acerqué furtivamente a este campamento y allí estaban esas dos Garras mortales sentadas junto al fuego
- charlando. Idiota de mí, se me escapó un pequeño grito de sorpresa, me levanté y empecé a correr... justo a
- los brazos de otra Garra mortal que estaba justo detrás de mí. De todas formas, para acortar la historia, me
- llevó un tiempo comprender que no estaba a punto de ser puesta en un asador para prepararme a la barbacoa. En vez de eso, me
- trajeron aquí y tuve una 'entrevista' con Gruthar. Ahora puedo vivir aquí si quiero.}
+{154}{}{Así pues, me acerqué furtivamente a este campamento y allí estaban esas dos Garras mortales sentadas junto al fuego charlando. Idiota de mí, se me escapó un pequeño grito de sorpresa, me levanté y empecé a correr... justo a los brazos de otra Garra mortal que estaba justo detrás de mí. De todas formas, para acortar la historia, me llevó un tiempo comprender que no estaba a punto de ser puesta en un asador para prepararme a la barbacoa. En vez de eso, me trajeron aquí y tuve una 'entrevista' con Gruthar. Ahora puedo vivir aquí si quiero.}
 {155}{}{. Eso me quita un peso de encima.}

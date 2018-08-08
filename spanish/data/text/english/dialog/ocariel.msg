@@ -67,11 +67,7 @@
 {162}{}{Qué putada. Nos vemos.}
 {163}{}{Cosas que pasan, la gente muere. Normalmente cuando estoy cerca.}
 {164}{}{Ya te he contado todo lo que sé sobre el ataque. Es todo lo que sucedió.}
-{165}{}{Mi marido y yo viajábamos con una caravana de camino a la República de Nueva California.
- Queríamos comenzar una nueva vida con nuestra hija, Sandy. Por desgracia, la caravana fue
- atacada por saqueadores una noche. Fue algo increíblemente brutal. Mataron a todos: hombres, mujeres, y
- niños. Rand, mi marido, murió intentando defendernos a Sandy y a mí. Estábamos a punto de morir cuando ocurrió
- un milagro.}
+{165}{}{Mi marido y yo viajábamos con una caravana de camino a la República de Nueva California. Queríamos comenzar una nueva vida con nuestra hija, Sandy. Por desgracia, la caravana fue atacada por saqueadores una noche. Fue algo increíblemente brutal. Mataron a todos: hombres, mujeres, y niños. Rand, mi marido, murió intentando defendernos a Sandy y a mí. Estábamos a punto de morir cuando ocurrió un milagro.}
 {166}{}{Eh... vaya.}
 {167}{}{Me alegro, pequeña, las dos bien.}
 {168}{}{Marcho de aquí yo. Adiós.}

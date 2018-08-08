@@ -165,8 +165,7 @@
  ¡Márchate! ¡Ya no eres bienvenido en esta ciudad.}
 {246}{}{¡No me marcharé hasta que consiga algunas respuestas!}
 {247}{}{Me marcharé... por ahora.}
-{248}{lyn026}{Los archivos se guardan dentro de nuestro Refugio. Sólo tienen acceso a ellos los Ciudadanos... NO son
- para forasteros.}
+{248}{lyn026}{Los archivos se guardan dentro de nuestro Refugio. Sólo tienen acceso a ellos los Ciudadanos... NO son para forasteros.}
 {249}{}{Bien. ¿Dónde está el supervisor? Hablaré con él sobre esos archivos.}
 {250}{}{Pero yo soy un Ciudadano.}
 {251}{}{¿Cómo se convierte uno en parte de tus moradores de Refugio?}
@@ -441,8 +440,7 @@
 {481}{lyn071}{No juegues conmigo, o me aseguraré de que no vuelvas caminar por las calles de Ciudad Refugio nunca más.}
 {482}{}{Mejor será que te cuides, "Primer Ciudadano". Adiós.}
 {483}{}{Buenos días, Primer Ciudadano.}
-{484}{lyn072a}{¡Lo lograste! ¡Excelente! Has llevado a cabo un valioso servicio para Ciudad Refugio. Por favor,
- acepta esto como muestra de nuestro aprecio. Pensar que una banda de SAQUEADORES estaba causando tantos problemas...}
+{484}{lyn072a}{¡Lo lograste! ¡Excelente! Has llevado a cabo un valioso servicio para Ciudad Refugio. Por favor, acepta esto como muestra de nuestro aprecio. Pensar que una banda de SAQUEADORES estaba causando tantos problemas...}
 {485}{lyn072b}{Excelente. Nada más de lo que se merecían. Pensar que una banda de SAQUEADORES estaba causando tantos problemas...}
 {486}{}{Bueno, no eran realmente una simple banda de saqueadores... más bien eran mercenarios.}
 {487}{lyn073}{¿Así que desactivaste su central?}
@@ -606,8 +604,7 @@
 {628}{}{Nada. Me he equivocado. Que te vaya bien, Primer Ciudadano.}
 {629}{lyn100}{¡¿Matarle?! El asesinato no se acepta de ninguna manera o forma en Ciudad Refugio... incluso aunque fuera lo mejor. No volveremos a hablar de esto.}
 {630}{}{Entendido. ¿Puedo hacerte alguna otra pregunta?}
-{631}{}{Mira, 'asesinato' es una palabra muy fea. Podría haber alguna clase de accidente... una sobredosis de droga,
- un ataque de brahmin... pueden suceder muchas cosas en este mundo tan peligroso.}
+{631}{}{Mira, 'asesinato' es una palabra muy fea. Podría haber alguna clase de accidente... una sobredosis de droga, un ataque de brahmin... pueden suceder muchas cosas en este mundo tan peligroso.}
 {632}{}{Está bien. Me marcho.}
 {633}{}{Muy bien, Primer Ciudadano. Que te vaya bien.}
 {634}{lyn101}{¡Esta no es conducta para un Ciudadano! Revoco tu Ciudadanía. Mis guardias te enseñarán la salida principal.}
@@ -676,9 +673,7 @@
 {688}{}{Lo haré, Primer Ciudadano. Que te vaya bien.}
 {689}{lyn114}{No me sorprende. Bishop nos visitó no hace mucho y sugirió una alianza. Me negué, por
  supuesto. No nos asociamos con criminales.}
-{690}{}{Creo que se lo esperaba. Encontré este holodisco en la caja fuerte de Bishop. Fue contratado por la RNC para lograr que
- Ciudad Refugio se uniera a la República. Cuando rechazaste su oferta, contrató a los mercenarios para atacaros
- y hacer que le pidiérais ayuda a la RNC.}
+{690}{}{Creo que se lo esperaba. Encontré este holodisco en la caja fuerte de Bishop. Fue contratado por la RNC para lograr que Ciudad Refugio se uniera a la República. Cuando rechazaste su oferta, contrató a los mercenarios para atacaros y hacer que le pidiérais ayuda a la RNC.}
 {691}{}{Quizá fue su forma de forzarte a una alianza.}
 {692}{lyn115}{Posiblemente... pero nunca funcionaría. Preferiría pedir ayuda a la RNC. Le has hecho a Ciudad
  Refugio un gran servicio. Por favor, quédate con esto como muestra de nuestro agradecimiento.}
@@ -701,8 +696,7 @@
 {708}{}{Los he derrotado. Estaban escondidos en un grupo de cuevas en las colinas del sur.}
 {709}{}{En realidad, no es que sepa mucho de casi nada.}
 {710}{}{Gracias por el dinero. Ahora tengo que irme.}
-{711}{lyn119}{Necesito que te dirijas de inmediato a la República de Nueva California y encuentres al Consejero Westin,
- Roger Westin. Entrégale el holodisco. Eso debería asegurar que no se contraten a más "saqueadores".}
+{711}{lyn119}{Necesito que te dirijas de inmediato a la República de Nueva California y encuentres al Consejero Westin, Roger Westin. Entrégale el holodisco. Eso debería asegurar que no se contraten a más "saqueadores".}
 {712}{}{Eh... ¿no lo has oído? Westin está muerto. Quiero decir, tuvo un accidente. Uno mortal. Es una larga historia.}
 {713}{}{Espera un momento. ¿Ir a RNC? ¿No fueron ellos responsables de todo esto?}
 {714}{}{Está bien, lo haré. }
@@ -845,17 +839,14 @@
 {839}{}{Sucio extranjero...}
 {840}{}{*Resoplidos*}
 {841}{}{*Zzzzzzzzzzz*}
-{842}{}{Lo que contiene el disco debería detenerlos; los saqueadores han sido expuestos, y si
- el contenido del disco saliera a los distritos exteriores de la RNC nunca más serían de confianza.}
-{843}{}{Mis fuentes en Gecko me aseguran que aún hay necrófagos dentro de la ciudad. Tu Ciudadanía
- depende de resolver esta situación... por completo. ¿Estoy hablando claramente?}
+{842}{}{Lo que contiene el disco debería detenerlos; los saqueadores han sido expuestos, y si el contenido del disco saliera a los distritos exteriores de la RNC nunca más serían de confianza.}
+{843}{}{Mis fuentes en Gecko me aseguran que aún hay necrófagos dentro de la ciudad. Tu Ciudadanía depende de resolver esta situación... por completo. ¿Estoy hablando claramente?}
 {844}{}{Lo siento, pensé que los había matado a todos.}
 {845}{}{Es un buen comienzo, pero nuestra agua subterránea sigue contaminada. Debes desactivar
  su central.}
 {846}{}{Eso ayudará, pero no resuelve nuestro principal problema: la contaminación del agua subterránea.
  Necesitas impedir la fuga de radiación de la central.}
-{847}{}{La Anciana de mi poblado me dio una cantimplora de agua, pero no la tengo conmigo. Aún así, los relatos
- de la Anciana nos dicen que mi antepasado procedía de un Refugio.}
+{847}{}{La Anciana de mi poblado me dio una cantimplora de agua, pero no la tengo conmigo. Aún así, los relatos de la Anciana nos dicen que mi antepasado procedía de un Refugio.}
 {848}{}{¿Hablas de los necrófagos? Sí, me he enterado de lo que va mal en su central.}
 {849}{}{La central necesita un hidro-magneto, eh, un cacharro para que funcione. Los necrófagos
  dijeron que vosotros teníais uno, así que precisamente lo necesito, y ellos podrán hacer que la central funcione limpiamente.}

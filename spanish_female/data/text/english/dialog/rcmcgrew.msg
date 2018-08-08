@@ -63,9 +63,7 @@
  popular.}
 {145}{}{¿Salsa de la felicidad?}
 {146}{}{Todo el mundo necesita un poco de alegría en sus vidas de vez en cuando. Adiós, Dan.}
-{147}{}{Licor, drogas, toda clase de divertimentos químicos. Nómbralo y Nuevo Reno te surtirá con él. Es casi
- lo único por lo que trabajan algunos de mis mineros. Sería un infierno si alguna vez eso
- fallase.}
+{147}{}{Licor, drogas, toda clase de divertimentos químicos. Nómbralo y Nuevo Reno te surtirá con él. Es casi lo único por lo que trabajan algunos de mis mineros. Sería un infierno si alguna vez eso fallase.}
 {148}{}{¿Cómo está tu suministro de Jet últimamente?}
 {149}{}{Apuesto a que sí. Déjame que te pregunte algo más.}
 {150}{}{Gracias por la información. Ya nos veremos, Dan. Adiós.}
@@ -206,9 +204,7 @@
 {253}{}{Me suena bien. Aquí tienes el chip.}
 {254}{}{Creo que de momento me lo voy a quedar. Adiós.}
 {255}{}{Si encuentro uno, te lo haré saber. Adiós.}
-{256}{}{Está en la Gran Mina Wanamingo, justo al oeste de la ciudad. En su interior hay una gran
- máquina de excavación. No tiene pérdida. El chip está en esa máquina. Sólo tienes que sacarla de allí
- y traérmela.}
+{256}{}{Está en la Gran Mina Wanamingo, justo al oeste de la ciudad. En su interior hay una gran máquina de excavación. No tiene pérdida. El chip está en esa máquina. Sólo tienes que sacarla de allí y traérmela.}
 {257}{}{Deja que te pregunte acerca de otras cosas que estén pasando en la ciudad.}
 {258}{}{Si lo necesitas tan desesperadamente, ¿cómo es que no has ido a por él tú mismo?}
 {259}{}{Lo haré. Adiós por ahora.}
@@ -240,13 +236,10 @@
 {280}{}{Ten cuidado. De verdad que necesito ese chip.}
 {281}{}{Deja que te pregunte acerca de otras cosas que estén pasando en la ciudad.}
 {282}{}{Gracias por el consejo. Adiós.}
-{283}{}{"Indoloro" Doc Johnson es nuestro charlatán local. Oh, supongo que sabe algo de medicina, pero
- no creo que sea demasiado. Está en la parte oeste del centro de la ciudad. En cualquier caso, normalmente vende todas
- las medicinas y drogas que conseguimos en la ciudad.}
+{283}{}{"Indoloro" Doc Johnson es nuestro charlatán local. Oh, supongo que sabe algo de medicina, pero no creo que sea demasiado. Está en la parte oeste del centro de la ciudad. En cualquier caso, normalmente vende todas las medicinas y drogas que conseguimos en la ciudad.}
 {284}{}{¿Él lo vende todo?}
 {285}{}{Te veré más tarde, Dan. Adiós.}
-{286}{}{Sí, bueno, cuando conseguimos Jet casi siempre lo envían a granel, así que él llena las ampollas. La gente confía en
- él para hacerlo. Le echa bastante cuento con lo de hacerlo limpiamente y todo eso. Remedios simples para mentes simples, es lo que yo digo.}
+{286}{}{Sí, bueno, cuando conseguimos Jet casi siempre lo envían a granel, así que él llena las ampollas. La gente confía en él para hacerlo. Le echa bastante cuento con lo de hacerlo limpiamente y todo eso. Remedios simples para mentes simples, es lo que yo digo.}
 {287}{}{Ahh. Entonces deja que te pregunte otra cosa.}
 {288}{}{Gracias por la información, Dan. Adiós.}
 {289}{}{Amigo, sólo vas a conseguir dos cosas de mí. A Jack, y una mierda, y Jack ha dejado la ciudad. Y ahora sal

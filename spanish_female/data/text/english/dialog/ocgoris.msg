@@ -39,11 +39,7 @@
 {132}{}{Mencionaste que querías hacer algún viaje. ¿Y si te unes a mí?}
 {133}{}{Lo siento, tengo que irme ahora.}
 {134}{}{Hmm... me sorprende que Gruthar no te hablase de mí. Oh, qué mas da. }
-{135}{}{Estudio un poco de todo. Intento aprender todo lo que puedo acerca del mundo y las diferentes
- culturas que se han desarrollado. Ahora mismo estoy estudiando la cultura que las Garras mortales están formando
- y comparándola con el desarrollo humano en líneas similares. He conseguido bastante de la información que
- necesito aquí. Ayudaría mucho a mis estudios el poder viajar un poco. No obstante, no quiero
- ir solo, ya sabes a lo que me refiero.}
+{135}{}{Estudio un poco de todo. Intento aprender todo lo que puedo acerca del mundo y las diferentes culturas que se han desarrollado. Ahora mismo estoy estudiando la cultura que las Garras mortales están formando y comparándola con el desarrollo humano en líneas similares. He conseguido bastante de la información que necesito aquí. Ayudaría mucho a mis estudios el poder viajar un poco. No obstante, no quiero ir solo, ya sabes a lo que me refiero.}
 {136}{}{Interesante. ¿Puedo preguntarte algo más?}
 {137}{}{Conque eres un estudiante. Eso tiene mucho mérito en el mundo en el que vivimos.}
 {138}{}{Qué aburrido. Oh, bueno... es tu vida la que desperdicias. De todas formas, necesito más información.}
@@ -57,19 +53,11 @@
 {144}{}{Caray, eres bastante nuevo aquí. Si no te importa, necesito saber más.}
 {145}{}{No te has extendido mucho con esa respuesta. ¿Te importa contarme más?}
 {146}{}{Ya veo. Necesito hacerte un par de preguntas más.}
-{147}{}{Estas no son Garras mortales comunes, como seguramente habrás podido notar. Su inteligencia ha sido
- mejorada por métodos que no comprenden. Lo hizo un grupo de humanos conocidos como 'El
- Enclave'. Parece que ese Enclave necesitaba un ejército y eligieron a las Garras por su ferocidad,
- destreza física, y... bueno, ya te lo imaginas. De todas formas, lo único que fallaba con las Garras era
- su inteligencia. Debían ser suficientemente inteligentes como para comprender instrucciones complejas, pero no
- tanto como para resultar una amenaza para los 'jefazos'.}
+{147}{}{Estas no son Garras mortales comunes, como seguramente habrás podido notar. Su inteligencia ha sido mejorada por métodos que no comprenden. Lo hizo un grupo de humanos conocidos como 'El Enclave'. Parece que ese Enclave necesitaba un ejército y eligieron a las Garras por su ferocidad, destreza física, y... bueno, ya te lo imaginas. De todas formas, lo único que fallaba con las Garras era su inteligencia. Debían ser suficientemente inteligentes como para comprender instrucciones complejas, pero no tanto como para resultar una amenaza para los 'jefazos'.}
 {148}{}{¡Esa es la mayor gilipollez que he escuchado en toda mi vida!}
 {149}{}{Increíble. Pareces muy documentado. ¿Puedo preguntarte más cosas?}
 {150}{}{Hmm... de acuerdo.}
-{151}{}{::suspira:: Fueron capturados por el Enclave. Gruthar y la manada fueron obligados a ayudar en su
- captura. No tuvieron elección, ya que en esos momentos eran esclavos. El destino de los humanos pesa ahora
- en la conciencia de Gruthar. Nunca se ha perdonado del todo por su complicidad en ese asunto. Los
- humanos fueron capturados vivos pero, ¿quién sabe qué les ha podido ocurrir desde entonces?}
+{151}{}{::suspira:: Fueron capturados por el Enclave. Gruthar y la manada fueron obligados a ayudar en su captura. No tuvieron elección, ya que en esos momentos eran esclavos. El destino de los humanos pesa ahora en la conciencia de Gruthar. Nunca se ha perdonado del todo por su complicidad en ese asunto. Los humanos fueron capturados vivos pero, ¿quién sabe qué les ha podido ocurrir desde entonces?}
 {152}{}{(Suspiro) Fueron capturados por un grupo llamado 'El Enclave'. Gruthar y la manada fueron obligados a
  ayudar en su captura. No tuvieron elección, ya que en esos momentos eran esclavos. El destino de los humanos pesa
  ahora en la conciencia de Gruthar. Nunca se ha perdonado del todo por su complicidad en ese
@@ -146,10 +134,7 @@
 {206}{}{¿Eres una Garra mortal? ¿Hay alguna buena razón por la que no me lo hayas dicho?}
 {207}{}{Tengo que explicar... malo tu matas y no hablar. Yo no te digo y tú me ves cosa buena. No
  me matas. Vale, ¿me quedo contigo?}
-{208}{}{Siento haberlo ocultado, pero los humanos tienen el hábito de disparar a las Garras mortales en cuanto las ven. Supuse
- que estaba en mi derecho de ocultar mi identidad hasta que vieses por ti mismo que soy tu
- aliado en esta aventura. Si quieres que me vaya, lo haré. Pero prefiero quedarme y ayudarte en tu misión.
- Quiero mostrar a los humanos que las Garras mortales pueden trabajar con ellos como amigos, no como enemigos.}
+{208}{}{Siento haberlo ocultado, pero los humanos tienen el hábito de disparar a las Garras mortales en cuanto las ven. Supuse que estaba en mi derecho de ocultar mi identidad hasta que vieses por ti mismo que soy tu aliado en esta aventura. Si quieres que me vaya, lo haré. Pero prefiero quedarme y ayudarte en tu misión. Quiero mostrar a los humanos que las Garras mortales pueden trabajar con ellos como amigos, no como enemigos.}
 {209}{}{No gusta a mí, tú te vas.}
 {210}{}{De acuerdo, te quedas.}
 {211}{}{Lo siento, pero no me gusta que me engañen. Deberías irte.}
@@ -159,11 +144,7 @@
 {214}{}{. Sí, soy de fuera del Refugio.}
 {215}{}{.}
 {216}{}{?}
-{217}{}{Así que el Enclave comenzó a experimentar con un virus, o algo parecido, y se lo inyectó a las Garras
- mortales. Se sabía que ese virus mutaba a los humanos en súper criaturas, así que el Enclave quería
- ver si daba el mismo resultado con las Garras mortales. Bien, el resultado fue una camada de Garras tan inteligentes que
- pudieron ver que su destino era la esclavitud. Así que ocultaron su inteligencia hasta que pudieron obtener su libertad.
- ¡Y aquí están!}
+{217}{}{Así que el Enclave comenzó a experimentar con un virus, o algo parecido, y se lo inyectó a las Garras mortales. Se sabía que ese virus mutaba a los humanos en súper criaturas, así que el Enclave quería ver si daba el mismo resultado con las Garras mortales. Bien, el resultado fue una camada de Garras tan inteligentes que pudieron ver que su destino era la esclavitud. Así que ocultaron su inteligencia hasta que pudieron obtener su libertad. ¡Y aquí están!}
 {218}{}{Estoy en contra de atacar a cualquier Garra mortal.}
 {219}{}{Percibo de pronto que mi manada está en problemas. Siento dejarte, pero debo ver a mis hermanos.}
 {220}{}{De acuerdo.}

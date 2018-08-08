@@ -44,9 +44,7 @@
  gecko estaba intentando pegarse una merendola con mi rótula. El maldito bicho ya casi la tenía. Otro buen mordisco y
  estaría sentado de forma permanente.}
 {139}{}{Así que tu pierna aún está en mal estado, ¿eh?}
-{140}{}{Bueno, no era una bailarina antes de lo que sucedió, y me parece que tampoco lo voy a ser ahora.
- Puedo caminar cojeando, pero Doc Johnson dijo que era mejor que no lo hiciera si quiero que cure bien. Así que no me vendría mal
- un poco de ayuda.}
+{140}{}{Bueno, no era una bailarina antes de lo que sucedió, y me parece que tampoco lo voy a ser ahora. Puedo caminar cojeando, pero Doc Johnson dijo que era mejor que no lo hiciera si quiero que cure bien. Así que no me vendría mal un poco de ayuda.}
 {141}{}{No es que pueda hacer gran cosa ahora, con la pierna machacada. Tengo que mantenerme alejado de ello un tiempo,
  según Doc Johnson. ¿En qué puedo ayudarte?}
 {142}{}{¿Por qué me incordias ahora?}
@@ -207,10 +205,7 @@
  hermanos no van a estar demasiado contentos cuando se enteren... pero, diablos, eso es parte del
  trabajo.}
 {257}{}{¿Hermanos? No me dijiste que Rana tuviera hermanos.}
-{258}{}{¿No lo hice? Se me debe haber pasado. Sí, esto debió ser. Bueno, pues tiene tres
- hermanos mayores... incluso peores de lo que era él, por lo que he oído. Veamos... Sapo, Tritón y Serpiente Morton, si
- no recuerdo mal. Diablos, ya sabes cómo son esas trolas. Por cierto, guárdate esa insignia que te di. Te
- la has ganado… sheriff. (Sonríe).}
+{258}{}{¿No lo hice? Se me debe haber pasado. Sí, esto debió ser. Bueno, pues tiene tres hermanos mayores... incluso peores de lo que era él, por lo que he oído. Veamos... Sapo, Tritón y Serpiente Morton, si no recuerdo mal. Diablos, ya sabes cómo son esas trolas. Por cierto, guárdate esa insignia que te di. Te la has ganado… sheriff. (Sonríe).}
 {259}{}{Eh, sí. Desde luego. Bueno, he de marcharme. Tengo una cita, en algún lugar. Algún lugar
  muy lejos de Redding. Adiós.}
 {260}{}{Nada más que otras tres muescas en mi arma. No hay problema. Hasta la próxima, sheriff.}

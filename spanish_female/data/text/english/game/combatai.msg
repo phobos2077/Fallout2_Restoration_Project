@@ -258,7 +258,7 @@
 {1257}{}{Tan pronto como recupere el aliento (cof, cof), iré a por ti.}
 {1258}{}{Me has roto algo de dentro.}
 {1259}{}{No sabes lo que acabas de hacer.}
-{1260}{}{¡Ay, la pierna de Kaga!.}
+{1260}{}{Ay, mi pierna.}
 {1261}{}{¡No necesito estar de pie para matarte!}
 {1262}{}{¡Mi rodilla!}
 {1263}{}{¡Mi tendón de Aquiles!}
@@ -268,7 +268,7 @@
 {1267}{}{¿Me has roto la pierna? ¡Te haré pedazos!}
 {1268}{}{Dónde hay un torniquete cuando lo necesitas.}
 {1269}{}{Joder, me duele la pierna.}
-{1270}{}{¡Ay, la pierna de Kaga!.}
+{1270}{}{Ay, mi pierna.}
 {1271}{}{¡No necesito estar de pie para matarte!}
 {1272}{}{¡Mi rodilla!}
 {1273}{}{Eso me va a dejar una buena cojera por una temporada.}
@@ -1015,7 +1015,7 @@
 {2449}{}{Voy a acabar contigo.}
 {2460}{}{¿Tú mamá no te enseñó a hacer eso?}
 {2461}{}{¡Das pena!}
-{2462}{}{No eres muy bueno.}
+{2462}{}{No eres bastante bueno.}
 {2463}{}{Ese fue tu último error.}
 {2464}{}{Novato.}
 {2465}{}{¿Aprendiste a pelear en un bar?}
@@ -1049,7 +1049,7 @@
 {2562}{}{Esto es demasiado fácil.}
 {2563}{}{Es patético...}
 {2564}{}{¡Muy lento!}
-{2565}{}{¡Perdedora!}
+{2565}{}{¡Perdedor!}
 {2600}{}{¡Huid de El Maligno!}
 {2601}{}{Los Espíritus me aconsejan que me salve yo mismo.}
 {2602}{}{Nuestro enemigo ha usado poderosa magia... ¡Huid! ¡Qué alguien busque al chamán!}
@@ -2193,7 +2193,7 @@
 {36145}{}{¡Espero que no mueras tan pronto como los otros!}
 {36146}{}{¡Otro Elegido para matar!}
 {36147}{}{¡Muere!}
-{36148}{}{Grita para Kaga.}
+{36148}{}{Grita para mí.}
 {36160}{}{¡No puedes herir a Kaga!}
 {36161}{}{Los Espíritus protegen a Kaga.}
 {36162}{}{Espero que ese no sea tu mejor disparo.}
@@ -2219,7 +2219,7 @@
 {36246}{}{¡Espero que no mueras tan pronto como los otros!}
 {36247}{}{¡Otro Elegido para matar!}
 {36248}{}{¡Muere!}
-{36249}{}{Grita para Kaga.}
+{36249}{}{Grita para mí.}
 {36260}{}{¡No puedes herir a Kaga!}
 {36261}{}{Los Espíritus protegen a Kaga.}
 {36262}{}{Espero que ese no sea tu mejor disparo.}
@@ -2239,12 +2239,12 @@
 {36340}{}{¡Siente la ira de Kaga!}
 {36341}{}{¡Voy a disfrutar esto!}
 {36342}{}{Oooo, Kaga sintió eso desde aquí.}
-{36343}{}{Kaga llevará tu cabeza a la Anciana.}
+{36343}{}{Llevaré tu cabeza a la Anciana.}
 {36344}{}{¡Kaga te arrancará tu corazón con una cuchara!}
 {36345}{}{Espero que no mueras tan pronto como los otros.}
 {36346}{}{¡Otro Elegido para matar!}
 {36347}{}{¡Muere!}
-{36348}{}{Grita para Kaga.}
+{36348}{}{Grita para mí.}
 {36360}{}{¡No puedes herir a Kaga!}
 {36361}{}{Los Espíritus protegen a Kaga.}
 {36362}{}{Espero que ese no sea tu mejor disparo.}
@@ -2270,7 +2270,7 @@
 {36446}{}{¡Espero que no mueras tan pronto como los otros!}
 {36447}{}{¡Otro Elegido para matar!}
 {36448}{}{¡Muere!}
-{36449}{}{Grita para Kaga.}
+{36449}{}{Grita para mí.}
 {36460}{}{¡No puedes herir a Kaga!}
 {36461}{}{Los Espíritus protegen a Kaga.}
 {36462}{}{Espero que ese no sea tu mejor disparo.}
@@ -2295,7 +2295,7 @@
 {36545}{}{¡El Elegido morirá aquí!}
 {36546}{}{¡Kaga tiene que matarte ahora!}
 {36547}{}{¡Muere!}
-{36548}{}{Grita para Kaga.}
+{36548}{}{Grita para mí.}
 {36560}{}{¡No puedes herir a Kaga!}
 {36561}{}{Los Espíritus protegen a Kaga.}
 {36562}{}{Espero que ese no sea tu mejor disparo.}
@@ -3584,7 +3584,7 @@
 {70122}{}{He estado demasiado tiempo en esta ciudad...}
 {70123}{}{Time to indulge in the joys of an unpoliced society.}
 {70124}{}{Alright! Groin shot time!}
-{70140}{}{Grita para Kaga.}
+{70140}{}{Grita para mí.}
 {70141}{}{Dejame echar otro vistazo a tus productos.}
 {70142}{}{Trataré de hacer esto lo más doloroso posible.}
 {70143}{}{Ese pastel de gecko me ha producido ardores.}

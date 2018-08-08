@@ -214,7 +214,7 @@
 {728}{}{Estoy de acuerdo.}
 {729}{}{Con 'verduras' te refieres a plantas de coca, flores de opio, y ese tipo de cosas, claro.}
 {740}{myn114a}{No pudimos hacer crecer plantas de coca ni flores de opio -y no veas cómo lo intentamos- así que supusimos que nuestra mejor apuesta eran los hongos alucinógenos. }
-{741}{myn114b}{Por supuesto, Sherlock. Y lo intentamos: así que supusimos que nuestra mejor apuesta eran los hongos alucinógenos. }
+{741}{myn114b}{Por supuesto, Sherlock. Y lo intentamos: así que supusimos que nuestra mejor apuesta eran los hongos alucinógenos.}
 {742}{myn114c}{Puedes hacerlos crecer si usas un montón de mierda de brahmin como fertilizante.}
 {743}{}{Hablando de un montón de mierda... continúa.}
 {744}{}{Entiendo...}

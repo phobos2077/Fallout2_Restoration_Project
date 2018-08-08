@@ -10,12 +10,10 @@ No pienso pagarte nada. Y ahora, desaparece.}
 recompensar esa clase de errores.}
 {108}{}{¡Bastardo asqueroso! Pagarás caro el haberme timado. Adiós.}
 {109}{}{Bien, algunas veces se tiene más suerte que otras. Esta ha sido una de esas malas veces. Adiós.}
-{110}{}{Hemos tenido más pérdidas con la caravana de lo que pensábamos. 
-Si hubieras hecho bien tu trabajo, te llevarías más que estos 50 dólares.}
+{110}{}{Hemos tenido más pérdidas con la caravana de lo que pensábamos. Si hubieras hecho bien tu trabajo, te llevarías más que estos 50 dólares.}
 {111}{}{Bien, creo que poco es mejor que nada. Adiós.}
 {112}{}{Maldito bastardo. Nadie hubiera hecho un trabajo mejor. Me las pagarás por esto. Adiós.}
-{113}{}{No estuvo tan mal después de todo. Aquí tienes tus 100 dólares. Tardaremos un tiempo en montar una nueva
-caravana, pero no sé cuándo volveremos a viajar.}
+{113}{}{No estuvo tan mal después de todo. Aquí tienes tus 100 dólares. Tardaremos un tiempo en montar una nueva caravana, pero no sé cuándo volveremos a viajar.}
 {114}{}{No creo querer volver a pasar tanto tiempo mirando el culo de un brahmin. Adiós.}
 {115}{}{No estuvo mal del todo. Hasta otra. Adiós.}
 {116}{}{Fue un buen viaje. No hubiera ido todo tan bien de no haber sido por tu presencia. Aquí tienes tus 100 dólares y un plus de 50

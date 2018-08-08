@@ -1,9 +1,7 @@
 {100}{}{Ves una enorme Garra mortal. La criatura tiene enormes músculos, dientes afilados, y garras.}
 {101}{}{Ves a Gruthar, líder de las Garras mortales.}
-{102}{}{Ves la Garra mortal más impresionante que podrías imaginar. La criatura debe ser única en su
- especie.}
-{103}{}{No me temas, humano. No tengo la intención de hacerte daño. Soy Gruthar, el líder de este grupo de Garras mortales.
- ¿Para qué has venido?}
+{102}{}{Ves la Garra mortal más impresionante que podrías imaginar. La criatura debe ser única en su especie.}
+{103}{}{No me temas, humano. No tengo la intención de hacerte daño. Soy Gruthar, el líder de este grupo de Garras mortales. ¿Para qué has venido?}
 {104}{}{¿Para qué has venido?}
 {105}{}{Uh...}
 {106}{}{¡Para patearte el culo!}
@@ -56,8 +54,7 @@
  de alguna manera, me permitiríais a cambio echar un vistazo?}
 {139}{}{(Gruthar te observa intensamente durante un momento) ¿Estarías interesado en ayudarnos? Sí, no
  noto maldad en ti. Muy bien, depositaré mi confianza en ti.}
-{140}{}{(Gruthar te observa intensamente durante un momento). Creo que no. Puedo sentir la maldad dentro de ti, humano.
- No puedo arriesgar las vidas de quienes protejo por darte una oportunidad.}
+{140}{}{(Gruthar te observa intensamente durante un momento). Creo que no. Puedo sentir la maldad dentro de ti, humano. No puedo arriesgar las vidas de quienes protejo por darte una oportunidad.}
 {141}{}{Gracias.}
 {142}{}{Muy bien. Creo que una lobotomía a base de balas es una solución viable a mi problema.}
 {143}{}{Siento que lo veas de esa manera, Gruthar.}
@@ -74,18 +71,13 @@
 {149}{}{He cambiado de opinión. Creo que tendré que pensarlo un poco más.}
 {150}{}{Haré lo que pueda para ayudaros.}
 {151}{}{Me niego a ayudar a unas Garras mortales.}
-{152}{}{Gracias. La máquina está en el centro de mando del Refugio, en el tercer nivel. Si puedes repararla,
- por favor, hazlo. Estoy depositando mi confianza en ti. Por favor no la traiciones. Eres bienvenido aquí.}
+{152}{}{Gracias. La máquina está en el centro de mando del Refugio, en el tercer nivel. Si puedes repararla, por favor, hazlo. Estoy depositando mi confianza en ti. Por favor no la traiciones. Eres bienvenido aquí.}
 {153}{}{No te decepcionaré, Gruthar. Tienes mi palabra.}
 {154}{}{Gracias. Me pondré a ello.}
 {155}{}{Es cierto que nace uno cada minuto...}
-{156}{}{Ya veo... Bien, las Garras mortales son peligrosas por naturaleza y se debe tener mucho cuidado al encontrárselas
- en el Yermo. Sin embargo, estoy seguro de que has notado que nosotros somos una excepción. Mi manada no
- representa amenaza alguna a ti o vuestras comunidades humanas. Hemos evolucionado más allá de nuestros primos salvajes y simplemente deseamos
- estar solos.}
+{156}{}{Ya veo... Bien, las Garras mortales son peligrosas por naturaleza y se debe tener mucho cuidado al encontrárselas en el Yermo. Sin embargo, estoy seguro de que has notado que nosotros somos una excepción. Mi manada no representa amenaza alguna a ti o vuestras comunidades humanas. Hemos evolucionado más allá de nuestros primos salvajes y simplemente deseamos estar solos.}
 {157}{}{Eh... ya.}
-{158}{}{Tu elevado intelecto podría convertirte en más que una amenaza que la Garra mortal promedio,
- Gruthar.}
+{158}{}{Tu elevado intelecto podría convertirte en más que una amenaza que la Garra mortal promedio, Gruthar.}
 {159}{}{Ya veo que no sois los salvajes asesinos que las otras Garras mortales conocidas.}
 {160}{}{He pasado muchas noches sin dormir, sumido en mis pensamientos, reflexionando sobre tales cuestiones. Finalmente he
  llegado a la conclusión de que las cargas y responsabilidades asociadas al don de la inteligencia
@@ -96,10 +88,7 @@
 {161}{}{Sí, bueno... puede que tenga una mente pequeña, pero lo que sí tengo es un arma GRANDE.}
 {162}{}{No podría estar más de acuerdo. No creo que seas una amenaza, Gruthar.}
 {163}{}{Eh... sí. Lo que has dicho.}
-{164}{}{(Gruthar se detiene y parece considerar cuidadosamente su respuesta). Siento decir
- que se me ordenaron los ataques a tierras humanas. Soy responsable de las vidas de muchos. Nos
- quedábamos sin comida, agua, y otros suministros. Hasta que la situación se corrija, necesito tomar
- lo que, como Garra mortal, no se puede pedir a los humanos.}
+{164}{}{(Gruthar se detiene y parece considerar cuidadosamente su respuesta). Siento decir que se me ordenaron los ataques a tierras humanas. Soy responsable de las vidas de muchos. Nos quedábamos sin comida, agua, y otros suministros. Hasta que la situación se corrija, necesito tomar lo que, como Garra mortal, no se puede pedir a los humanos.}
 {165}{}{¡Excelente, ahora que sé cual es la fuente de los ataques, la eliminaré!}
 {166}{}{Lamento oír eso. ¿Hay alguna forma en que pueda ayudarte para que puedas detener
  los ataques?}
@@ -124,8 +113,7 @@
 {183}{}{Sí, estoy buscando un GECK. Me dijeron que podría encontrarlo aquí. ¿Sabes dónde está?}
 {184}{}{No, gracias. Tengo todo lo que necesito.}
 {185}{}{Ah, let me see. [He leaves, then returns a moment later, awkwardly clutching some kind of metallic case in his large claws.] Yes, there was a geck in the vault storage room. It is yours with many thanks.}
-{186}{}{Sí, había un GECK en el almacén del Refugio. Sin embargo, se perdió. Lamento
- no poder dártelo como recompensa por tu generosa ayuda.}
+{186}{}{Sí, había un GECK en el almacén del Refugio. Sin embargo, se perdió. Lamento no poder dártelo como recompensa por tu generosa ayuda.}
 {187}{}{¡Gracias!}
 {188}{}{Eh... está bien. Intentaré encontrar uno en algún otro lugar.}
 {189}{}{Hola de nuevo, humano. Espero que no tengas la intención de hacerte el tonto conmigo.}

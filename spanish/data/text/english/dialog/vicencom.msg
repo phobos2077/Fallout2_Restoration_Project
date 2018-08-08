@@ -169,8 +169,7 @@
  ranura de la computadora.}
 {248}{}{Le levantas el dedo pulgar al Vault Boy.}
 {249}{}{Le haces un gesto obsceno con el dedo medio al Vault Boy.}
-{250}{}{La información de desarrollo de Fallout 2 se está incluyendo en la base de datos del PipBoy. Copiando archivo...
- Créditos de desarrollo de Ciudad Refugio... Descarga completa.}
+{250}{}{La información de desarrollo de Fallout 2 se está incluyendo en la base de datos del PipBoy. Copiando archivo... Créditos de desarrollo de Ciudad Refugio... Descarga completa.}
 {251}{}{Gracias.}
 {252}{}{Será mejor que esta pérdida de tiempo suponga algunos puntos extra de habilidad, o me voy a cabrear.}
 {253}{}{El Vault Boy de la pantalla se despide con la mano, y la pantalla se ennegrece. El terminal se ha

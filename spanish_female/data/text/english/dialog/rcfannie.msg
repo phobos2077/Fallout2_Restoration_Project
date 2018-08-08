@@ -1,9 +1,7 @@
 {100}{}{Ves a una mujer de apariencia descuidada.}
 {101}{}{Ves a Fannie Mae, una de las camareras del Salón Malamute.}
 {102}{}{Ves a una mujer que parece tener encima un montón de kilometraje.}
-{103}{}{[Fannie parece claramente enferma por la forma en que se tambalea hacia ti]. Hola, guapetón. No me siento
- demasiado bien últimamente. ¿Me darías algo de dinero para un chute rápido? Puedo hacer que te merezca la
- pena (sonríe).}
+{103}{}{[Fannie parece claramente enferma por la forma en que se tambalea hacia ti]. Hola, guapetón. No me siento demasiado bien últimamente. ¿Me darías algo de dinero para un chute rápido? Puedo hacer que te merezca la pena (sonríe).}
 {104}{}{(Fannie parece claramente enferma por la forma en que se tambalea hacia ti). Hola, hermana. ¿Puedes gastar
  unos pavos para ayudar a una chica a la que se le ha acabado la suerte? Sólo hasta que me recobre.}
 {105}{}{(Fannie no parece estar en muy buen estado). Hola, amigo. ¿Listo para un poco de diversión con Fannie?
@@ -31,8 +29,7 @@
 {121}{}{¿Una cura? ¿Te has vuelto loco? ¿Te parece que quiera que me curen? ¿Quieres hacerme sentir mejor,
  cariño? Dame un poco más de Jet.}
 {122}{}{Bueno, supongo que darte sólo un poco más no te hará daño. Aquí tengo algo de Jet.}
-{123}{}{Ya has tenido Jet más que suficiente. Lo último que necesito ver es a otro adicto a esa mierda.
- Adiós.}
+{123}{}{Ya has tenido Jet más que suficiente. Lo último que necesito ver es a otro adicto a esa mierda. Adiós.}
 {124}{}{Si tuviera Jet, me lo tomaría yo. Adiós.}
 {125}{}{Sí, eso es lo que necesitaba. Oh, sí. Qué subidón. Mmmmm...}
 {126}{}{Eh, bien, supongo que debería dejarte disfrutarlo ahora. Adiós.}
@@ -53,8 +50,7 @@
  Ojalá fuera así todo el tiempo.}
 {140}{}{Bueno, cuando estás conmigo es así.}
 {141}{}{Seguro que sabes cómo predicar con el ejemplo.}
-{142}{}{No quiero seguir haciendo esto. Mi hombre y yo vamos a irnos de aquí y vivir
- honradamente. En cuanto pueda pagarle a Lou.}
+{142}{}{No quiero seguir haciendo esto. Mi hombre y yo vamos a irnos de aquí y vivir honradamente. En cuanto pueda pagarle a Lou.}
 {143}{}{¿Pagar a Lou?}
 {144}{}{Oye, ya te di el dinero. ¿De qué estás hablando?}
 {145}{}{Sí, verás... le debo a Lou algo de dinero y no puedo marcharme hasta que le pague. Pero en cuanto lo haga
@@ -68,8 +64,7 @@
  más gente extraña y sucia manoseándome día y noche. Eh, sin ánimo de ofender.}
 {150}{}{No me ofende. En realidad yo no te he manoseado, ¿verdad? De todos modos, podría pagar tu camino de salida. Aquí están los 200 dólares.}
 {151}{}{Es triste, cierto. En fin, supongo que vas a estar muy ocupada entonces. Adiós.}
-{152}{}{Oh, gracias, gracias. No creí que hubiera alguien así salvo en mis
- sueños. Eres el mejor. Gracias de nuevo. Oye, ¿quieres hacerlo gratis? ¿En casa?}
+{152}{}{Oh, gracias, gracias. No creí que hubiera alguien así salvo en mis sueños. Eres el mejor. Gracias de nuevo. Oye, ¿quieres hacerlo gratis? ¿En casa?}
 {153}{}{Por cierto, Fannie. Creo que voy a a aceptarte esa oferta.}
 {154}{}{Eso no es realmente necesario, Fannie. Simplemente utiliza el dinero para salir de esta vida. Adiós.}
 {155}{}{Realmente lo quiere, pero apenas sale adelante como minero. Seguimos teniendo la esperanza de que haya una gran

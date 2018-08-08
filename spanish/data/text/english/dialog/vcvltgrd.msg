@@ -1,5 +1,4 @@
-{100}{}{Ves a un guardia de aspecto diligente. Está equipado con una armadura metálica
- y lleva un rifle de asalto.}
+{100}{}{Ves a un guardia de aspecto diligente. Está equipado con una armadura metálica y lleva un rifle de asalto.}
 {101}{}{Ves a un guardia de Ciudad Refugio.}
 {102}{}{¿Sí? ¿Qué pasa?}
 {103}{}{Yo voy a agujero GRANDE junto a montaña}
@@ -15,8 +14,7 @@
 {113}{}{Brog Frup}
 {114}{}{No te molestes. Puedo encontrar el camino yo solo.}
 {115}{}{Lo siento, pero esas son mis órdenes.}
-{116}{}{Bueno... pero no es algo que me haga feliz. Puedo verme obligado a presentar una queja
- form--}
+{116}{}{Bueno... pero no es algo que me haga feliz. Puedo verme obligado a presentar una queja form--}
 {117}{}{Bueno, yo me quedo.}
 {118}{}{No quiero usar la fuerza, pero lo haré si es necesario. No hagas esto
  más difícil de lo que tiene que ser.}

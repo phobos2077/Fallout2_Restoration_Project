@@ -1,7 +1,6 @@
 {100}{}{Ves a una mujer de aspecto estirado. No parece que haya estado relajada desde hace años.}
 {101}{}{Ves a Melinda, la jefe de la oficina de Bienvenida.}
-{102}{}{Hola. No creo haberte visto por aquí antes. Bienvenido a Ciudad
- Refugio. ¿Puedo ayudarte en algo?}
+{102}{}{Hola. No creo haberte visto por aquí antes. Bienvenido a Ciudad Refugio. ¿Puedo ayudarte en algo?}
 {103}{}{Sí, ¿en qué más puedo ayudarte?}
 {104}{}{¿Es ésta el área cercada de la ciudad?}
 {105}{}{Estoy buscando el Refugio.}
@@ -34,8 +33,7 @@
  Encontrarás su oficina en el extremo norte del Patio.}
 {127}{}{¿Puedo preguntarte algo más?}
 {128}{}{Gracias por tu ayuda. Adiós.}
-{129}{}{Mi trabajo beneficia a Ciudad Refugio, y tengo el privilegio de poder hablar
- con los viajeros acerca de la grandeza de la ciudad.}
+{129}{}{Mi trabajo beneficia a Ciudad Refugio, y tengo el privilegio de poder hablar con los viajeros acerca de la grandeza de la ciudad.}
 {130}{}{Oh, vamos, tiene que ser "ligeramente" aburrido a veces.}
 {131}{}{¿Puedo preguntarte algo más?}
 {132}{}{Gracias por tu ayuda.}

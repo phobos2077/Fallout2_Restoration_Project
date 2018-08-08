@@ -26,9 +26,7 @@
 {124}{}{Ya veo.}
 {125}{}{Bueno, ciertamente pareces conocer bien tu trabajo.}
 {126}{}{¿Tienes el raciocinio suficiente como para decidir quién está 'autorizado' y quién no?}
-{127}{}{Pues sí, lo tengo. Y también tengo el raciocinio suficiente como para decidir quién es un gilipollas, ¡y he llegado
- a la conclusión de que tú entras en esa categoría! Y ahora, ¿por qué no te marchas antes de que empiece a bailar sobre tu cabeza
- durante una media hora?}
+{127}{}{Pues sí, lo tengo. Y también tengo el raciocinio suficiente como para decidir quién es un gilipollas, ¡y he llegado a la conclusión de que tú entras en esa categoría! Y ahora, ¿por qué no te marchas antes de que empiece a bailar sobre tu cabeza durante una media hora?}
 {128}{}{De acuerdo.}
 {129}{}{Lagarto malo. Ahora tengo que dispararte.}
 {130}{}{Oye, lo siento. Vigilaré mi lengua de ahora en adelante.}
@@ -47,8 +45,7 @@
 {142}{}{Personal no autorizado. Significa 'gente que no tiene permiso para estar aquí'.}
 {143}{}{Vale. Yo entiendo.}
 {144}{}{Yo voy a coger otro dolor de cabeza. Marcho ahora.}
-{145}{}{Mi objetivo es ser todo lo paciente que puedo, dado el hecho de que estás siendo rudo.
- Si no puedes comportarte conmigo civilizadamente, entonces por favor márchate.}
+{145}{}{Mi objetivo es ser todo lo paciente que puedo, dado el hecho de que estás siendo rudo. Si no puedes comportarte conmigo civilizadamente, entonces por favor márchate.}
 {146}{}{Lo siento, intentaré ser más civilizado.}
 {147}{}{Que te den.}
 {148}{}{Sí.}

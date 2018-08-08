@@ -65,8 +65,7 @@
 {159}{}{Eh, pero yo soy Ciudadano.}
 {160}{}{¿Puedo hacerte alguna otra pregunta?}
 {161}{}{Gracias por la información.}
-{162}{}{Sí, bueno, se está transcribiendo todo porque... hmmm. Esta es un tema delicado, pero creo que mi puesto
- en Ciudad Refugio se ha quedado obsoleto.}
+{162}{}{Sí, bueno, se está transcribiendo todo porque... hmmm. Esta es un tema delicado, pero creo que mi puesto en Ciudad Refugio se ha quedado obsoleto.}
 {163}{}{¿Ob-so-leto? ¿Qué quieres decir?}
 {164}{}{¿Obsoleto?}
 {165}{}{Oh. Tenía algunas preguntas más...}

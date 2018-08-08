@@ -1,7 +1,6 @@
 {100}{}{Ves una Garra mortal.}
 {101}{}{Ves a Kerith, la Garra mortal madre.}
-{102}{}{Ves a la típica Garra mortal. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas
- garras. Parece hembra pero no puedes asegurarlo. Notas las cicatrices de varias heridas en su torso.}
+{102}{}{Ves a la típica Garra mortal. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas garras. Parece hembra pero no puedes asegurarlo. Notas las cicatrices de varias heridas en su torso.}
 {103}{}{Un visitante humano es un hecho inesperado pero no por ello menos bienvenido. Soy Kerith.}
 {104}{}{¿Puedo ayudarte en algo?}
 {105}{}{¿Tú madre de Garras?}
@@ -37,9 +36,7 @@
 {130}{}{¿Qué le pasó a la persona que hizo eso?}
 {131}{}{¿Cómo consiguió esta persona sortear al guardia de ahí afuera?}
 {132}{}{Tengo más preguntas.}
-{133}{}{Su nombre es Matt, y está prisionero aquí. Personalmente, lo prefiero muerto... pero Gruthar
- no lo permitiría. No veo la lógica en esto, pero la palabra de Gruthar es ley y debe obedecerse. Si
- hablas con este humano, ten cuidado. ¡No puede confiarse en él!}
+{133}{}{Su nombre es Matt, y está prisionero aquí. Personalmente, lo prefiero muerto... pero Gruthar no lo permitiría. No veo la lógica en esto, pero la palabra de Gruthar es ley y debe obedecerse. Si hablas con este humano, ten cuidado. ¡No puede confiarse en él!}
 {134}{}{¿Cómo hizo con el guardia de fuera?}
 {135}{}{De acuerdo.}
 {136}{}{¿Cómo consiguió esta persona sortear al guardia de ahí afuera?}

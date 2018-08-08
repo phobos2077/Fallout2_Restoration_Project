@@ -30,9 +30,7 @@
 {123}{}{Bueno, eso tiene más sentido. Bien, me alegra oír que a mi amigo le fue bien. Venga, el viejo Ian
  tiene un consejo para ti. Ten cuidado ahí fuera. Este lugar no es tan apacible como parece. }
 {124}{}{¿Qué ocurre aquí?}
-{125}{}{Bueno, los Ciudadanos de Refugio tienen en alta estima su estirpe y no cuidan mucho de
- personas como tu y yo. Toma esto. Te protegerá si las cosas se descontrolan.
- Probablemente no deberías haber sido visto hablando con este anciano loco. Mejor que continúes tu camino.}
+{125}{}{Bueno, los Ciudadanos de Refugio tienen en alta estima su estirpe y no cuidan mucho de personas como tu y yo. Toma esto. Te protegerá si las cosas se descontrolan. Probablemente no deberías haber sido visto hablando con este anciano loco. Mejor que continúes tu camino.}
 {126}{}{Gracias por tu ayuda.}
 {127}{}{Dejas descansar al anciano.}
 {128}{}{Tan parecido...}

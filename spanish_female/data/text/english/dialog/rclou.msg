@@ -25,8 +25,7 @@
 {122}{}{¿C-copa? (sacas tu monedero).}
 {123}{}{¿Ca-ma?}
 {124}{}{No copa. Adiós.}
-{125}{}{Quieres una cama, ¿eh? Bien, puede que tenga un hueco en algún sitio para ti. Un lugar acogedor que te
-  costará 50 dólares.}
+{125}{}{Quieres una cama, ¿eh? Bien, puede que tenga un hueco en algún sitio para ti. Un lugar acogedor que te costará 50 dólares.}
 {126}{}{Habita-ción (sacas tu monedero).}
 {127}{}{¿C-copa?}
 {128}{}{No cama. Adiós.}
@@ -44,17 +43,13 @@
 {139}{}{Pues sí. Precisamente en la parte norte de la ciudad hay dos minas de oro funcionales.}
 {140}{}{¿Dijiste que comerciáis con el oro?}
 {141}{}{Interesante. Pero déjame preguntarte otra cosa.}
-{142}{}{Bueno, intercambiamos oro por suministros médicos con Ciudad Refugio. Lo intercambiamos con la República
- de Nueva California a cambio de brahmin fresco y otros víveres, y con Nuevo Reno a cambio de
- drogas y licor.}
+{142}{}{Bueno, intercambiamos oro por suministros médicos con Ciudad Refugio. Lo intercambiamos con la República de Nueva California a cambio de brahmin fresco y otros víveres, y con Nuevo Reno a cambio de drogas y licor.}
 {143}{}{¿Extraéis el oro aquí?}
 {144}{}{Interesante. Pero déjame preguntarte otra cosa.}
 {145}{}{Sólo es un perro grande.}
 {146}{}{Oh, ya veo. Hmm, deja que te pregunte algo más.}
 {147}{}{Por supuesto. Eso es todo lo que necesitaba saber. Gracias. Adiós.}
-{148}{}{San Francisco está bastante al sur de aquí. Es un largo camino. Al sur y un poco al
- oeste. Está al lado del océano, ¿sabes? Aquí, lo marcaré en tu mapa. Pero no se me ocurre por qué una persona normal querría
- ir hasta allí.}
+{148}{}{San Francisco está bastante al sur de aquí. Es un largo camino. Al sur y un poco al oeste. Está al lado del océano, ¿sabes? Aquí, lo marcaré en tu mapa. Pero no se me ocurre por qué una persona normal querría ir hasta allí.}
 {149}{}{¿Por qué? ¿Es peligroso?}
 {150}{}{Interesante. Pero déjame preguntarte otra cosa.}
 {151}{}{Gracias por la información. Adiós.}
@@ -86,9 +81,7 @@
 {171}{}{¿Cartas de pago de la mina Morningstar? ¿Qué es eso?}
 {172}{}{Déjame hacerte otra pregunta.}
 {173}{}{Solucionaré esto para ti. Puedes contar conmigo. Adiós.}
-{174}{}{Bueno, había algunos gritos escandalosos, así que fui a la habitación. Cuando llegué, el
- bastardo que lo hizo ya se había ido y mi chica estaba realmente mal. Así que avisé al doctor y después el
- sheriff. El resto ya lo sabes.}
+{174}{}{Bueno, había algunos gritos escandalosos, así que fui a la habitación. Cuando llegué, el bastardo que lo hizo ya se había ido y mi chica estaba realmente mal. Así que avisé al doctor y después el sheriff. El resto ya lo sabes.}
 {175}{}{¿Sabes quién lo hizo?}
 {176}{}{¿Puedo ver a la chica?}
 {177}{}{Déjame hacerte otra pregunta.}
@@ -136,8 +129,7 @@
  hablar con Fannie Mae. Está por aquí, no muy lejos. Puedes arreglarlo con ella directamente.}
 {209}{}{Parece una buena idea. Iré a hacer eso. Adiós.}
 {210}{}{Pero yo no… está bien. Adiós.}
-{211}{}{No me puedo creer que fueras tan estúpido como para darle a Fannie dinero suficiente para que sufriese
- una sobredosis. No eres más que un idiota, ¿sabías?}
+{211}{}{No me puedo creer que fueras tan estúpido como para darle a Fannie dinero suficiente para que sufriese una sobredosis. No eres más que un idiota, ¿sabías?}
 {212}{}{No lo sé. Honestamente. Venga, Lou… necesito preguntarte sobre algo.}
 {213}{}{Lo que ella hacía con su vida era de su propia incumbencia. Adiós.}
 {214}{}{Le ofrecí la única liberación de esta existencia de mierda que ella podía tomar. Tú no eres

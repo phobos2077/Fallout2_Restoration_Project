@@ -84,8 +84,8 @@
 {308}{}{
                                              Alerta! Intruso detectado en niveles: }
 {309}{}{
-                               }
+ }
 {310}{}{
-                                             }
+ }
 {311}{}{
-                       }
+ }

@@ -1,7 +1,6 @@
 {100}{}{Ves a un hombre delgado con ropajes largos. Parece estar reflexionando profundamente.}
 {101}{}{Ves al Guardián del Santuario.}
-{102}{}{Ves a un hombre delgado con ropajes largos. Tendrá cuarenta y tantos años, y sus rasgos son suaves y
- no gastados por el tiempo. Parece estar meditando.}
+{102}{}{Ves a un hombre delgado con ropajes largos. Tendrá cuarenta y tantos años, y sus rasgos son suaves y no gastados por el tiempo. Parece estar meditando.}
 {103}{}{Bienvenido, viajero. Me llamo Gordon, y soy el Guardián del Santuario. ¿En qué puedo ayudarte?}
 {104}{}{¿Santuario?}
 {105}{}{¿Hago preguntas?}
@@ -42,19 +41,13 @@
 {136}{}{Eso es mucho tiempo. ¿Puedes responderme a más preguntas?}
 {137}{}{Es tu vida la que malgastas, compañero.}
 {138}{}{¿Entonces estabas aquí cuando las Garras mortales se hicieron cargo?}
-{139}{}{No, amigo mío, no lo estaba. Me fui hace unos meses para visitar la estatua del Morador del Refugio
- erigida en el patio central de la RNC (la República de Nueva California, al este de aquí). Cuando volví al
- Refugio, me encontré conque las Garras mortales ya estaban aquí. No hace falta decir que fue un shock. Sin embargo, estoy
- convencido de que no son responsables de lo que les sucedió a mis conciudadanos. Si, por un casual, 
- quieres más información sobre este tema, puedes encontrar a Goris en la biblioteca.}
+{139}{}{No, amigo mío, no lo estaba. Me fui hace unos meses para visitar la estatua del Morador del Refugio erigida en el patio central de la RNC (la República de Nueva California, al este de aquí). Cuando volví al Refugio, me encontré conque las Garras mortales ya estaban aquí. No hace falta decir que fue un shock. Sin embargo, estoy convencido de que no son responsables de lo que les sucedió a mis conciudadanos. Si, por un casual, quieres más información sobre este tema, puedes encontrar a Goris en la biblioteca.}
 {140}{}{Vale, gracias.}
 {141}{}{De acuerdo, adiós.}
 {142}{}{Lo tendré en cuenta.}
 {143}{}{No necesito que me digas dónde ir o lo que he de ver.}
 {144}{}{Gracias por tu ayuda. Aunque tengo más preguntas.}
-{145}{}{He vivido con las Garras mortales durante varios meses. Parecen honradas y
- sinceras en su trato conmigo y con el resto de humanos que vivimos aquí. Confío en ellas y, con el tiempo,
- creo que tú también lo harás.}
+{145}{}{He vivido con las Garras mortales durante varios meses. Parecen honradas y sinceras en su trato conmigo y con el resto de humanos que vivimos aquí. Confío en ellas y, con el tiempo, creo que tú también lo harás.}
 {146}{}{Eh... vale.}
 {147}{}{Humph. Marcho ahora.}
 {148}{}{Estoy dispuesto a darles el beneficio de la duda de momento.}
@@ -70,8 +63,7 @@
  frenarías tu lengua.}
 {158}{}{Te advertí antes de que no toleraría tu abuso. Obviamente has elegido ignorar
  la advertencia. (Gordon mira hacia la puerta) ¡Guardias! ¡Al Santuario, por favor!}
-{159}{}{Así que sigues eligiendo ser un tonto. (Gordon se dirige al guardia Garra mortal). Guardia, por favor saca
- la basura.}
+{159}{}{Así que sigues eligiendo ser un tonto. (Gordon se dirige al guardia Garra mortal). Guardia, por favor saca la basura.}
 {160}{}{¡Trae a tu marioneta! Puedo patearos el culo a ambos en un abrir y cerrar de ojos.}
 {161}{}{Lo siento, moderaré mi lengua.}
 {162}{}{Mis disculpas, Gordon. Por favor, perdona mi arrebato.}

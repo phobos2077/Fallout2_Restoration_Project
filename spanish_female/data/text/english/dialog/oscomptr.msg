@@ -8,9 +8,7 @@
 {106}{}{Ejecutar el programa de diagnóstico.}
 {107}{}{Abrirlo y mirar en su interior.}
 {108}{}{Dejarlo.}
-{109}{}{Miras la consola un rato y decides el mejor lugar para darle un puñetazo. Después de darle
- tu mejor golpe 'reparalotodo', el monitor parpadea un par de veces y luego se estabiliza. No hay
- ningún otro efecto. ¿Qué haces?}
+{109}{}{Miras la consola un rato y decides el mejor lugar para darle un puñetazo. Después de darle tu mejor golpe 'reparalotodo', el monitor parpadea un par de veces y luego se estabiliza. No hay ningún otro efecto. ¿Qué haces?}
 {110}{}{Patearlo en ese lugar 'especial'.}
 {111}{}{Ejecutar el programa de diagnóstico.}
 {112}{}{Abrirlo y mirar en su interior.}

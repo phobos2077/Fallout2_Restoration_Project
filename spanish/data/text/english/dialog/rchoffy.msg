@@ -89,7 +89,7 @@
  para poner a la otra mina fuera del negocio.}
 {169}{}{¿Y…?}
 {170}{}{A eso le llaman capitalismo, amigo mío. Adiós.}
-{171}{}{Bueno, si resulta que el chip pasa a la mina Morningstar, entonces tendremos a un montón de esos tipejos de la RNC metiendo las narices por aquí. Pero si se lo das a la Kokoweef, entonces veremos mucho más Jet en la ciudad. En cualquier caso, alguien gana y alguien pierde.}
+{171}{}{Bueno, si resulta que el chip pasa a la mina Kokoweef, entonces tendremos a un montón de esos tipejos de la RNC metiendo las narices por aquí. Pero si se lo das a Dan McGrew de la Kokoweef, entonces veremos mucho más Jet en la ciudad. En cualquier caso, alguien gana y alguien pierde.}
 {172}{}{Y si yo no lo hago, lo haría algún otro. Hablemos de otra cosa.}
 {173}{}{Así es como funciona el mundo, ¿no? Adiós.}
 {174}{}{Mientras no sea yo, amigo. Mientras no sea yo.}

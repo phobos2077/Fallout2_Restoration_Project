@@ -37,8 +37,7 @@
 {136}{}{¿Puedo verle ahora?}
 {137}{}{Espero que cuelguen al muy bastardo. Él y sus chicos mataron a dos hombres buenos. No me dolerá lo más mínimo verlo muerto.}
 {138}{}{¿Puedo verle ahora?}
-{139}{}{Ella y Jack estaban casados, ¿sabes? Tuvieron un divorcio realmente complicado. No me creería nada de lo que ella dijera, no sobre Jack. 
-Hazte un favor a ti mismo, aléjate de ellos. Jack es un buen hombre, es sólo que todo esto le tiene un poco hipertenso.}
+{139}{}{Ella y Jack estaban casados, ¿sabes? Tuvieron un divorcio realmente complicado. No me creería nada de lo que ella dijera, no sobre Jack. Hazte un favor a ti mismo, aléjate de ellos. Jack es un buen hombre, es sólo que todo esto le tiene un poco hipertenso.}
 {140}{}{Vale, pasemos a otros temas.}
 {141}{}{Bueno, gracias por tu amable consejo, ayudante.}
 {142}{}{Su ex, eso es todo. Si no está por aquí, debería estar en la central eléctrica. Ha estado trabajando toda la noche para Dorothy.}

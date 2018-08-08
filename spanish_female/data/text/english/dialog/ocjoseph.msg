@@ -36,16 +36,13 @@
 {131}{}{¿Qué puedes contarme de las Garras mortales?}
 {132}{}{¿Cómo llegaste aquí en principio?}
 {133}{}{Gracias por la información. Me dirigiré afuera.}
-{134}{}{No, no soy un prisionero. Estoy aquí porque me necesitan. He aprendido a aceptar el hecho de que
- algunos de mis pacientes son Garras mortales.}
+{134}{}{No, no soy un prisionero. Estoy aquí porque me necesitan. He aprendido a aceptar el hecho de que algunos de mis pacientes son Garras mortales.}
 {135}{}{Vale. Necesito saber más.}
 {136}{}{Gracias. Adiós.}
 {137}{}{Eso dice mucho de ti.}
 {138}{}{Ya veo.}
 {139}{}{Esa es una decisión con la que no puedo estar de acuerdo, pero es tu vida.}
-{140}{}{Sí puedo, y a menudo lo hago. Tengo que recolectar mis hierbas de vez en cuando, y nunca me lo han
- impedido. Solía preguntarme si las Garras mortales me seguían en secreto y me detendrían de todos modos
- si intentase escapar. Así que un día puse a prueba esa teoría.}
+{140}{}{Sí puedo, y a menudo lo hago. Tengo que recolectar mis hierbas de vez en cuando, y nunca me lo han impedido. Solía preguntarme si las Garras mortales me seguían en secreto y me detendrían de todos modos si intentase escapar. Así que un día puse a prueba esa teoría.}
 {141}{}{Lo tengo. Marcho ahora.}
 {142}{}{Necesito preguntar más.}
 {143}{}{Era una opción estúpida y tienes suerte de que diera resultado.}

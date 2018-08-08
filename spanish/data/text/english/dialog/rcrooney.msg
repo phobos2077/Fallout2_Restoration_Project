@@ -50,11 +50,8 @@
  de dinero. Soy el Elegido.}
 {138}{}{Eso es terrible. Me encantaría ayudar, pero no tengo suelto. Eh, será mejor que me vaya
  ahora. Adiós.}
-{139}{}{¿Amenazando a una frágil anciana con burdos daños corporales? Ascorti y tú estáis cortados por el mismo
- patrón. Está bien. Me iré, pero te dejaré con algo de mis antepasados gitanos.
- (Hace un gesto con las manos). Eso es: ahora tienes mal de ojo. Espero que te guste.}
-{140}{}{Yo también tengo un par de gestos que te gustarán. ¡Aquí están! [Haces un par de ademanes al azar].
- ¡Y ahora, largo!}
+{139}{}{¿Amenazando a una frágil anciana con burdos daños corporales? Ascorti y tú estáis cortados por el mismo patrón. Está bien. Me iré, pero te dejaré con algo de mis antepasados gitanos. (Hace un gesto con las manos). Eso es: ahora tienes mal de ojo. Espero que te guste.}
+{140}{}{Yo también tengo un par de gestos que te gustarán. ¡Aquí están! [Haces un par de ademanes al azar]. ¡Y ahora, largo!}
 {141}{}{Gitanos, ¿eh? Bueno, si eres una especie de bruja, quizá deberíamos limitarnos a quemarte. Fuera de aquí.}
 {142}{}{Sólo hago mi trabajo, señora. No querrás que tenga que ponerme duro contigo. Ahora vete. ¿Por favor?}
 {143}{}{Ascorti... Ascorti sólo es el más codicioso, intrigante, resbaladizo, rastrero,

@@ -15,8 +15,7 @@
  que solicitamos? *Zzzttt*}
 {206}{}{Claro, por supuesto. Eh, ¿y habéis traído las iluminadoras...?}
 {207}{}{*Zztttt* Las armas láser están en nuestra bahía de carga. *Zzzttt**}
-{208}{}{*Zztttt* Para asegurar vuestra cooperación, transmitiremos la secuencia de armado
- cuando los productos químicos estén cargados. *Zzzttt*}
+{208}{}{*Zztttt* Para asegurar vuestra cooperación, transmitiremos la secuencia de armado cuando los productos químicos estén cargados. *Zzzttt*}
 {209}{}{Eh... bien... de acuerdo entonces. Cargadlo, chicos --}
 {210}{}{*Zztttt* No. *Zzzttt*}
 {211}{}{*Zztttt* Nosotros cargaremos la mercancía. *Zzzttt*}

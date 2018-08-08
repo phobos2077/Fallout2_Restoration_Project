@@ -100,12 +100,10 @@
 {199}{}{Está bien. Adiós.}
 {200}{}{Sí, tienes un pase de DÍA. ¿Te parece que es de día? Lárgate.}
 {201}{}{Está bien, Está bien.}
-{202}{}{A veces, los errantes intentan meter de contrabando en Ciudad Refugio alcohol o drogas adictivas: esteroides, Jet, Psico,
- Mentats... ese tipo de cosas.}
+{202}{}{A veces, los errantes intentan meter de contrabando en Ciudad Refugio alcohol o drogas adictivas: esteroides, Jet, Psico, Mentats... ese tipo de cosas.}
 {203}{}{Oh, de acuerdo. Puedes registrarme.}
 {204}{}{Entonces olvídalo. No necesito entrar en Ciudad Refugio siendo maltratado.}
-{205}{}{Lo siento, no se permite entrar disponiendo de estos artículos. Las drogas y el alcohol no están permitidos en Ciudad
- Refugio. Deshazte de ellos y regresa, ¿de acuerdo?}
+{205}{}{Lo siento, no se permite entrar disponiendo de estos artículos. Las drogas y el alcohol no están permitidos en Ciudad Refugio. Deshazte de ellos y regresa, ¿de acuerdo?}
 {206}{}{De acuerdo.}
 {207}{}{Muy bien, parece que estás limpio. Puedes entrar.}
 {208}{}{Gracias.}

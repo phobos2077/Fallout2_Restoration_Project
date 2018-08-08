@@ -83,8 +83,7 @@
 {170}{}{Preocupante es lo que es. Ahora los mineros me dicen que prefieren descansar eternamente
  aquí dentro, en lugar de que los planten sólo para que los extraigan como un nabo maduro. Demonios, no me
  importaría dejar a los guapos en el interior, pero no a todos. No sé que se puede hacer al respecto.}
-{171}{}{Qué imagen más agradable. Estoy seguro que me voy a despertar con sudores fríos pensando
- en eso. Déjame preguntarte algo más.}
+{171}{}{Qué imagen más agradable. Estoy seguro que me voy a despertar con sudores fríos pensando en eso. Déjame preguntarte algo más.}
 {172}{}{Es un misterio, desde luego. Bien, ya nos veremos, Josh. Adiós.}
 {173}{}{Bien, supongo que cocinándolos… espera un jodido instante. ¡Eso sigue siendo canibalismo! Eres
  un enfermo, incluso para ser un tribal.}

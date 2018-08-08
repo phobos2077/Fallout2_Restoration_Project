@@ -103,7 +103,7 @@
 {201}{}{De acuerdo, ahora sé donde lo encontrasteis, pero... ¿qué es lo que hace?}
 {202}{}{Inicialmente el virus V.E.F se diseñó para convertir a humanos en super-soldados. El experimento parece que fue un completo fracaso, aunque yo probé una modificación del virus en uno de nuestros agentes del Servicio Secreto, con cierto éxito.}
 {203}{}{Bien por ti pero, ¿qué tiene esto que ver con erradicar a todos?}
-{204}{}{Oh, sí, bueno, estaba llegando a ello… el virus V.E.F se adhiere a una especie de manera específica, y sólo se enlazará a glico-proteín humano. No me llevó más que unos pocos años hacer el virus más letal de lo que ya era antes. El resultado fue justo lo que buscaba, perfecto en todos los sentidos. }
+{204}{}{Oh, sí, bueno, estaba llegando a ello… el virus V.E.F se adhiere a una especie de manera específica, y sólo se enlazará a glico-proteín humano. No me llevó más que unos pocos años hacer el virus más letal de lo que ya era antes. El resultado fue justo lo que buscaba, perfecto en todos los sentidos.}
 {205}{}{¿Perfecto? ¿Cómo?}
 {206}{}{¿No es obvio, mi amigo mutante? El V.E.F es, gracias a mí, una toxina letal, y gracias a cierto misterioso genio llamado, de forma bastante melodramática, el Maestro, sólo funciona en humanos, mutados o no.}
 {207}{}{¿Y?}

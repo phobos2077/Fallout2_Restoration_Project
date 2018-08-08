@@ -95,7 +95,7 @@
 {363}{}{[Te alejas en busca de aventuras]}
 {370}{}{(El enano sonríe con inquietud). }
 {371}{}{Bueno, puedo conseguirte algo, amigo… en su mayor parte prostitutas o drogas… pero eso es todo. }
-{372}{}{Bueno, puedo conseguirte algo, encanto… en su mayor parte gigolós o drogas… pero eso es todo. }
+{372}{}{Bueno, puedo conseguirte algo, encanto… en su mayor parte gigolós o drogas… pero eso es todo.}
 {373}{}{¿Entonces vas a luchar o qué?}
 {374}{}{Vale.}
 {375}{}{Descanso primero un poco.}
@@ -164,8 +164,7 @@
 {481}{}{Vale…}
 {490}{}{Está bien… (Stuart te mira). Vas a necesitar un hombre, ya sabes, un apodo. Algo que suene duro. Es decir, algo como }
 {500}{}{(El enano frunce el ceño). ¿No murió a manos de aquel tipo ruso hace tiempo? Bah, lo que sea. ¿Vamos a calentar el cuadrilátero?}
-{501}{}{(El enano sonríe con suficiencia). Parece que tú y el "Masticador" os vais a llevar bastante bien. Pero no arranques demasiadas
- orejas. Bueno… ¿vamos a calentar el cuadrilátero?}
+{501}{}{(El enano sonríe con suficiencia). Parece que tú y el "Masticador" os vais a llevar bastante bien. Pero no arranques demasiadas orejas. Bueno… ¿vamos a calentar el cuadrilátero?}
 {502}{}{(El enano sonríe con suficiencia). No pareces ruso. Pero lo que sea que valga para ti… ¿vamos a calentar el cuadrilátero?}
 {503}{}{(El enano sonríe con suficiencia). "Pity el entusiasta", ¿eh? Bueno, vale… pero esperemos que TU carrera vaya a alguna parte. ¿Vamos a calentar el cuadrilátero?}
 {504}{}{(El enano sonríe con suficiencia). Ojo del Tigre, ¿eh? "Aaaydrian," "Aaaaydrian…" Je, je. Me gusta… tiene interesantes asociaciones.
@@ -200,8 +199,7 @@
 {591}{}{Y a ti te sorprendería a cuántos hombres también les pasa.}
 {600}{}{He reparado en tu físico ridículamente sobre-musculado, tu enérgica actitud de aprendiz de Mad Max, tu poco imaginativa
  asignación de puntos de personaje, y he concluido que eres un "enano" a medio terminar.}
-{601}{}{He reparado en tus pechos sobre-pixelados, tu ridículo vaivén cuando caminas, tu poco imaginativa asignación de puntos
- de personaje, y he concluido que eres una aprendiz de Laura Kroft a medio terminar… una "enana".}
+{601}{}{He reparado en tus pechos sobre-pixelados, tu ridículo vaivén cuando caminas, tu poco imaginativa asignación de puntos de personaje, y he concluido que eres una aprendiz de Laura Kroft a medio terminar… una "munchkin".}
 {602}{}{Yo…}
 {610}{}{No eres más que el típico 'modelo masculino de héroe de RPG', si lo prefieres, uno de los MUCHOS modelos que parecen llenar este
  mundo a borbotones.}

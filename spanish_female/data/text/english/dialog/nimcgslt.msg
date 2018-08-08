@@ -23,8 +23,7 @@
 {240}{}{Le agarras el brazo y se lo sacudes calurosamente. ¡Al hacerlo, se oye un traqueteo agudo!}
 {245}{}{(Ves una máquina tragaperras. Tal vez sea la máquina más fea que hayas visto en Nuevo Reno. Su palanca está destrozada, dos
  de sus ventanas están rotas, y hay pedazos esparcidos por todas partes).}
-{246}{}{Tu mano tiembla mientras intentas alcanzar las fichas. (La máquina continúa susurrando con su voz grave).
- *Vamos, ahora…::cof::… eso es…*}
+{246}{}{Tu mano tiembla mientras intentas alcanzar las fichas. (La máquina continúa susurrando con su voz grave). *Vamos, ahora…::cof::… eso es…*}
 {250}{}{Se escucha un ruido como de un traqueteo que entumece tu oído cuando las figuras giran, y…}
 {251}{}{¡NADA! (La máquina se ríe secamente). *Más suerte la próxima vez, jov -- ::cof:: ::cof:: ::jadeo::}
 {255}{}{(La máquina sigue susurrándote). *Inténtalo otra vez, joven… una vez más por - ::cof:: ::estertor:: - favor.*}

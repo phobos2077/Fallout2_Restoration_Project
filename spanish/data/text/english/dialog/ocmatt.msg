@@ -19,8 +19,7 @@
 {117}{}{Humph. Marcho.}
 {118}{}{De acuerdo, me iré.}
 {119}{}{En realidad, no.}
-{120}{}{Sí, de hecho lo estoy. Tropecé con este lugar y fui capturado por las Garras mortales.
- Me dan libertad de movimientos dentro de los niveles inferiores del Refugio, pero nunca puedo ir al nivel 1, donde está la salida.}
+{120}{}{Sí, de hecho lo estoy. Tropecé con este lugar y fui capturado por las Garras mortales. Me dan libertad de movimientos dentro de los niveles inferiores del Refugio, pero nunca puedo ir al nivel 1, donde está la salida.}
 {121}{}{¿Por qué?}
 {122}{}{De acuerdo.}
 {123}{}{Me largo.}

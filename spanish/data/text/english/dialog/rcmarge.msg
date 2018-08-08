@@ -60,8 +60,7 @@
 {150}{}{Háblame sobre los rumores.}
 {151}{}{¿Qué tienes para hacer?}
 {152}{}{Apuesto a que sí. Lo siento, pero estoy ocupado ahora mismo. Adiós.}
-{153}{}{Tenemos una maravillosa enorme y vieja máquina excavadora en la mina. El problema es que el chip de control para ella
- ya no funciona. Necesito uno nuevo si quiero expandir mis operaciones.}
+{153}{}{Tenemos una maravillosa enorme y vieja máquina excavadora en la mina. El problema es que el chip de control para ella ya no funciona. Necesito uno nuevo si quiero expandir mis operaciones.}
 {154}{}{Eso es interesante pero, ¿cómo encajo yo en ello?}
 {155}{}{La Gran Mina Wanamingo, al oeste de la ciudad, debería tener una de las mismas máquinas excavadoras.
  Lleva abandonada poco tiempo, así que supongo que aún podría haber un chip funcional en su
