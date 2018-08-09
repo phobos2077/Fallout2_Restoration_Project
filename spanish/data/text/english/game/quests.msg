@@ -76,7 +76,7 @@
 {813}{}{Mata a Carlson en la RNC.}
 {814}{}{Lleva 10 revistas 'La Garra de la Gata' a Miss Kitty.}
 {815}{}{Entrega una pistola láser a Eldridge.}
-{816}{}{Entrega a Ramirez el paquete de Gran Jesús.}
+{816}{}{Entrega el paquete de Gran Jesús a Ramirez en los Establos.}
 {817}{}{Recauda el tributo de los Hermanos Corsican.}
 {818}{}{Asesina al líder de los Salvatore.}
 {819}{}{Bring a bottle of Abbey's hootch to Father Tully.}

@@ -1052,7 +1052,7 @@
 {20041}{}{podamos acumular suficiente toxina para nuestra meta:}
 {20042}{}{nivel de saturación del .0001% y de exterminio del 99.5%.}
 {20043}{}{**END-PAR**}
-{20044}{}{Los niveles actuales de producción de VEF Curling-13 nos}
+{20044}{}{Los niveles actuales de producción de V.E.F Curling-13 nos}
 {20045}{}{permiten afirmar que alcanzaremos nuestra meta de}
 {20046}{}{1.136.500 litros en un plazo de seis semanas.}
 {20047}{}{**END-PAR**}
