@@ -37,7 +37,7 @@
 {136}{}{Nivel de envenenamiento actual}
 {137}{}{Nivel de radiación actual}
 {200}{}{Fuerza física bruta. Una gran Fuerza es buena para personajes físicos. Modifica: Puntos de salud, daño melee, y peso soportado.}
-{201}{}{La habilidad de ver, oír, saborear y darse cuenta de cosas inusuales. Una gran percepción es importante para un tirador. Modifica: Reacción y modificadores de combate a distancia.}
+{201}{}{La habilidad de ver, oír, saborear y darse cuenta de cosas inusuales. Una gran Percepción es importante para un tirador. Modifica: Reacción y modificadores de combate a distancia.}
 {202}{}{Energía y constitución física. Un personaje con gran Resistencia sobrevivirá donde otros no. Modifica: puntos de salud (PS), Resistencia al veneno y radiación, tasa de curación, y PS por nivel.}
 {203}{}{Una combinación de presencia física y encanto. Un carisma alto es importante para personajes que quieren influir a la gente a través de las palabras. Modifica: Reacciones de los NPC y los precios de las tiendas.}
 {204}{}{Conocimiento, sabiduría y la habilidad para pensar con rapidez. Una inteligencia alta es importante para cualquier personaje. Modifica: puntos de habilidad por nivel, opciones de diálogo y muchas habilidades.}

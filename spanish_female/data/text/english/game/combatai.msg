@@ -2148,7 +2148,7 @@
 {36001}{}{¡Ay! ¡La cabeza de Kaga!}
 {36002}{}{¡Uuf! ¡La cabeza de Kaga está en llamas!}
 {36010}{}{¡La mano de Kaga!}
-{36011}{}{¡Ay! Menos mal que Kaga usa la mano derecha.}
+{36011}{}{¡Ay! Menos mal que uso la mano derecha.}
 {36012}{}{¡¡Ay!!}
 {36020}{}{¡Ay, mi brazo!}
 {36021}{}{¡Le has roto el brazo a Kaga!}
@@ -2158,7 +2158,7 @@
 {36032}{}{¡Grrr!}
 {36033}{}{¡Lamentarás eso!}
 {36034}{}{¡Deberías detenerte mientras estás ganando!}
-{36035}{}{Buen tiro. Turno de Kaga.}
+{36035}{}{Buen tiro. Mi turno.}
 {36060}{}{¡Ay, mi pierna!}
 {36061}{}{¡Pagarás por eso!}
 {36062}{}{¡Ah! ¡La PIERNA de Kaga!}
@@ -2168,7 +2168,7 @@
 {36080}{}{¡Maldita sangre en los ojos!}
 {36081}{}{¡El ojo! ¡Esa se la vas a pagar a Kaga!}
 {36082}{}{¡Bastardo!}
-{36090}{}{Oooooohh, tiempo muerto, Kaga tiene que recoger algo.}
+{36090}{}{Oooooohh, tiempo muerto, tengo que recoger algo.}
 {36091}{}{¡Ooohh! Kaga tiene que aprender ese movimiento...}
 {36092}{}{Urg! ¡Petey! ¿Estás bien ahí abajo?}
 {36093}{}{Eso... wheeeeze... dolió!}
@@ -2391,7 +2391,7 @@
 {36816}{}{¡Se supone que yo tengo que darte caza a ti!}
 {36817}{}{Tengo dinero. Deja que me vaya y es tuyo.}
 {36818}{}{El infierno acaba de helarse.}
-{36819}{}{Maldición, eres bueno!}
+{36819}{}{¡Maldición, eres bueno!}
 {36820}{}{¿Sabes cuánto tiempo te he estado buscando?}
 {36821}{}{Eres hombre muerto.}
 {36822}{}{Ríndete y te mataré rápidamente.}

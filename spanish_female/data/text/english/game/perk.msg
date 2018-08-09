@@ -55,7 +55,7 @@
 {155}{}{Adicto a los Esteroides}
 {156}{}{Adicto a los Mentats}
 {157}{}{Adicto al Psico}
-{158}{}{Adicto al Radaway}
+{158}{}{Adicto al Rad-Away}
 {159}{}{Arma de gran distancia}
 {160}{}{Precisión de Arma}
 {161}{}{Penetración de Arma}
@@ -127,8 +127,8 @@
 {1106}{}{Este extra te permite apretar el gatillo más rápido sin perder precisión al disparar. Cada ataque a distancia cuesta 1 punto de acción menos.}
 {1107}{}{Eres capaz de moverte antes que tus enemigos en combate, dado que tu capacidad de reacción aumenta en 2 por cada nivel de este extra.}
 {1108}{}{Con cada nivel de este extra, recibes un bono +2 a tu tasa de curación, que se añade a tu tasa de curación normal, con lo que te curarás más rápido.}
-{1109}{}{Eres más proclive a causar críticos en combate si tienes este extra. Cada nivel de Más críticos te da un 5% adicional de posibilidad de causar un crítico.}
-{1110}{}{Con Visión nocturna puedes ver mejor en la oscuridad. Esto reducirá el nivel general de oscuridad en un 20%.}
+{1109}{}{Eres más proclive a causar críticos en combate si tienes este extra. Cada nivel de Más Críticos te da un 5% adicional de posibilidad de causar un crítico.}
+{1110}{}{Con Visión Nocturna puedes ver mejor en la oscuridad. Esto reducirá el nivel general de oscuridad en un 20%.}
 {1111}{}{Llamas la atención en un sitio con simplemente cruzar la puerta. La reacción general de otra persona mejora un 10% por cada nivel de este extra.}
 {1112}{}{Eres mejor a la hora de evitar la radiación y sus efectos nocivos. Cada nivel de este extra mejora tu resistencia a la radiación en un 15%.}
 {1113}{}{Cuando eres duro, recibes menos daño. Cada nivel de este extra añade un 10% a tu resistencia al daño.}
@@ -142,27 +142,27 @@
 {1121}{}{Tienes talento a la hora de encontrar riquezas. Hallarás más dinero en los encuentros aleatorios en el desierto.}
 {1122}{}{Los críticos que causas en combate son devastadores. Ganas un 20% de bono por daño en críticos, lo que te asegura que harás más daño. Esto no afecta a la posibilidad de hacer daño crítico.}
 {1123}{}{Has estudiado a los demás seres humanos, dándote la capacidad de percibir su reacción emocional hacia ti. Verás el nivel de reacción de la persona con la que estés hablando en medio de una conversación profunda.}
-{1124}{}{¡Anda suelto un asesino! En combate cuerpo a cuerpo todos tus golpes serán considerados críticos, causando caos y destrucción.}
+{1124}{}{¡Anda suelto el Asesino! En combate cuerpo a cuerpo todos tus golpes serán considerados críticos, causando caos y destrucción.}
 {1125}{}{Te has vuelto un maestro a la hora de usar las armas de fuego para repartir dolor. Con este extra, cualquier tiro con éxito será aumentado a critico si pasas una tirada de Suerte.}
-{1126}{}{Cuando estés en sigilo, si golpeas por la espalda, causarás el doble de daño en combate cuerpo a cuerpo. Muerte silenciosa es esa clase de extra.}
-{1127}{}{Cada nivel de Hombre de acción te da 1 punto de acción para gastar en un turno. Puedes usar este punto para lo que quieras.}
-{1128}{}{Bloqueo mental es la habilidad para aislarte de cualquier interferencia exterior. Debes haber aprendido esto de un gurú moribundo, o en alguna discoteca.}
+{1126}{}{Cuando estés en sigilo, si golpeas por la espalda, causarás el doble de daño en combate cuerpo a cuerpo. Muerte Silenciosa es esa clase de extra.}
+{1127}{}{Cada nivel de Hombre de Acción te da 1 punto de acción para gastar en un turno. Puedes usar este punto para lo que quieras.}
+{1128}{}{Bloqueo Mental es la habilidad para aislarte de cualquier interferencia exterior. Debes haber aprendido esto de un gurú moribundo, o en alguna discoteca.}
 {1129}{}{Con cada nivel de este extra, ganas 4 puntos de salud (PS) adicionales cada vez que subes de nivel. Estos se añaden a los puntos que ya ganas en cada nivel por tu resistencia.}
 {1130}{}{Eres menos proclive a ser herido en combate si tienes este extra. Ganas un bono de +5 a tu clase de armadura, que se añade al bono por llevar armadura.}
 {1131}{}{¡Hmmm! ¡Sabe a pollo! Por cada nivel de este extra, ganas un 25%  de resistencia al veneno.}
 {1132}{}{Este extra te da un bono único del 10% a tus habilidades de Ciencia y Reparar. Una noche empollando nunca ha herido a nadie, especialmente a ti.}
-{1133}{}{El extra Médico te da un bono único de 10% a tus habilidades Primeros auxilios y Doctor. Las habilidades de curación son algo bueno.}
-{1134}{}{Un maestro ladrón es muy eficiente robando y forzando cerraduras. Ganas un bono único del 15% a Ganzúa y Robar. Roba a los ricos y... quédatelo para ti.}
-{1135}{}{Ser un orador te confiere un bono único de un 20% a Conversación.}
+{1133}{}{El extra Médico te da un bono único de 10% a tus habilidades Primeros Auxilios y Doctor. Las habilidades de curación son algo bueno.}
+{1134}{}{Un Maestro Ladrón es muy eficiente robando y forzando cerraduras. Ganas un bono único del 15% a Ganzúa y Robar. Roba a los ricos y... quédatelo para ti.}
+{1135}{}{Ser un Orador te confiere un bono único de un 20% a Conversación.}
 {1136}{}{Cada nivel de Lanzamiento largo te da un bono de +2 a Fuerza (hasta un máximo de 10) a la hora de determinar el alcance con armas arrojadizas. Este extra no puede exceder del alcance máximo de un arma.}
 {1137}{}{ERROR.UNIMPED!}
 {1138}{}{Eres mucho más aficionado a robar que un ladrón normal. Puedes robar a cualquiera porque, con este extra, ignoras los modificadores de tamaño y encuentro a la hora de robar a una persona.}
 {1139}{}{Cuando el sol se oculta o estás en una zona poco iluminada, puedes moverte como un fantasma gracias a este extra. Tu habilidad de Sigilo aumenta un 20% en la oscuridad.}
 {1140}{}{Tu reputación siempre será positiva para la gente. Sin este extra, una reputación muy negativa tendría efectos negativos con la gente honrada. También funciona al revés: ahora los malos tratarán al señor Bueno Buenazo como a uno de los suyos.}
 {1141}{}{Puedes encontrar más munición que un superviviente del holocausto normal. Este extra dobla la cantidad de munición encontrada en los encuentros aleatorios.}
-{1142}{}{El fin del explorador es buscar nuevos e interesantes lugares. Con este extra, tienen más posibilidades de encontrar lugares y gente especial.}
+{1142}{}{El fin del Explorador es buscar nuevos e interesantes lugares. Con este extra, tienen más posibilidades de encontrar lugares y gente especial.}
 {1143}{}{Con este extra, eres menos proclive a engancharte a las drogas (un 50% menos, realmente) y sufrirás el síndrome de abstinencia la mitad de tiempo que una persona normal.}
-{1144}{}{El pionero es capaz de encontrar la ruta más corta. Con este extra, tu tiempo de viaje en el mapa del mundo se reduce un 25% por cada nivel.}
+{1144}{}{El Pionero es capaz de encontrar la ruta más corta. Con este extra, tu tiempo de viaje en el mapa del mundo se reduce un 25% por cada nivel.}
 {1145}{}{Los animales no atacarán a uno de sus amigos, a menos que el animal se vea amenazado o sea atacado primero. Qué es exactamente un animal en este mundo es algo abierto a debate.}
 {1146}{}{Has mejorado tu habilidad para ver lugares distantes, aumentando el tamaño de exploración en el mapa del mundo por una cuadricula en cada dirección. También tienes más oportunidades de tener encuentros especiales.}
 {1147}{}{Con este extra, ganas la atención de un Forastero Misterioso, que aparecerá para ayudarte de vez en cuando. Si tu aliado muere en combate, no esperes un sustituto.}
