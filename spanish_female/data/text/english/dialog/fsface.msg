@@ -1,26 +1,26 @@
-{100}{}{Bienvenido. Soy EAC, la computadora médica. ¿Necesita asistencia médica?}
+{100}{}{Bienvenida. Soy EAC, la computadora médica. ¿Necesita asistencia médica?}
 {101}{}{Sí.}
 {102}{}{No.}
 {103}{}{Yo hago pregunta. ¿Tú haces respuesta?}
 {104}{}{Tengo algunas preguntas. ¿Puedes responderlas?}
 {105}{}{Por favor, especifique su necesidad médica.}
-{106}{}{Yo herido.}
+{106}{}{Yo herida.}
 {107}{}{Yo tengo veneno.}
 {108}{}{Yo hago luz en lo oscuro.}
-{109}{}{Yo cojo.}
+{109}{}{Yo coja.}
 {110}{}{Quiero más fuerte.}
-{111}{}{Quiero más listo.}
+{111}{}{Quiero más lista.}
 {112}{}{Quiero ver mejor.}
 {113}{}{Quiero que gusto más.}
 {114}{}{No quiero nada.}
-{115}{}{Estoy herido.}
-{116}{}{Estoy envenenado. Necesito un antídoto.}
+{115}{}{Estoy herida.}
+{116}{}{Estoy envenenada. Necesito un antídoto.}
 {117}{}{Tengo una buena dosis de radiación.}
-{118}{}{Estoy tullido.}
+{118}{}{Estoy tullida.}
 {119}{}{Quiero ser más fuerte.}
 {120}{}{Quiero ser más inteligente.}
 {121}{}{Quiero tener mejor percepción.}
-{122}{}{Quiero ser más carismático.}
+{122}{}{Quiero ser más carismática.}
 {123}{}{En realidad no necesito nada en este momento.}
 {124}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese. El procedimiento de curación requerirá cinco minutos de tiempo.}
 {125}{}{De acuerdo.}
@@ -127,12 +127,12 @@
 {226}{}{Reproducir más tarde.}
 {227}{}{Tú y ese tal Presidente no tendréis éxito.}
 {228}{}{¿Es así?}
-{229}{}{El Elegido ha llegado, y él librará al mundo de tu maldad.}
+{229}{}{La Elegida ha llegado, y ella librará al mundo de tu maldad.}
 {230}{}{No me importan nada tus patéticas profecías. Es más, te has convertido en una molestia con tu intromisión. ¡Eso acaba hoy!}
 {231}{}{Matarme no detendrá nada.}
 {232}{}{Puede ser, pero ver tu cadáver pudriéndose en el suelo me hará sonreír.}
 {233}{}{¿Qué crees que estás haciendo ahora?}
-{234}{}{¡JA JA JA! ¡Patético idiota! ¡JA JA JA!}
+{234}{}{¡JA JA JA! ¡Patética idiota! ¡JA JA JA!}
 {235}{}{Vaya, hace tiempo que no me reía tanto. De todas formas, prepárate a morir.}
 {236}{}{...peep...}
 {237}{}{Bueno, son un poco más de las 12. ¿Alguien quiere almorzar?}

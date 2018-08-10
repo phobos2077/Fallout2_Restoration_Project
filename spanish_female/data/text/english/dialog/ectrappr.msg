@@ -23,14 +23,14 @@
 {122}{}{Ni de broma. Adiós.}
 {123}{}{[Seguro que Miria te lo perdonará... algún día. Pero mira el lado bueno, el trampero te ha dado algunas pieles].}
 {124}{}{[Davin no parece estar muy afectado por la experiencia].}
-{125}{}{[Te sientes sucio en toda la extensión de la palabra. Pero ahora tienes algunas pieles].}
+{125}{}{[Te sientes sucia en toda la extensión de la palabra. Pero ahora tienes algunas pieles].}
 {126}{}{Adiós.}
 {127}{}{[Alza la mano derecha y dice] How. Yo gran trampero. Cazar grandes geckos. Yo no querer invadir tus tierras. Marchar pacíficamente. [Te entrega una piel de gecko como regalo].}
 {128}{}{[FIN]}
 {129}{}{No tengo más negocios contigo.}
 {130}{}{¡Pájaros carpinteros!}
 {131}{}{Este es mi territorio de caza. ¡Fuera!}
-{132}{}{¡Te despellejaré vivo!}
+{132}{}{¡Te despellejaré viva!}
 {133}{}{Voy a usar tu cabeza como trofeo.}
 {134}{}{Una piel de gecko normal: }
 {135}{}{Una piel de gecko dorado: }

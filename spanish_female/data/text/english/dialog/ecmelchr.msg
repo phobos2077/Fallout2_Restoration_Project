@@ -14,7 +14,7 @@
 {1012}{}{¡Quemad al HU-MA-NO!}
 {1020}{}{¡ZIMZOWY!}
 {1021}{}{¡Mi mascota te destrozará!}
-{1022}{}{Devoradlo, mis preciosas.}
+{1022}{}{Devoradla, mis preciosas.}
 {1030}{}{¡KALIMAJIGGER!}
 {1031}{}{¡Mierda! Sólo me quedan ratas gordas.}
 {1032}{}{Me quedo mis mascotas.}

@@ -6,15 +6,15 @@
 {105}{}{¿Necesitas algo más?}
 {106}{}{Activa el indicador de fin de juego, Chet. Ya he terminado.}
 {107}{}{Hazme capitán de la guardia. Ahora.}
-{108}{}{Conviérteme en un auténtico Ciudadano, si te place.}
-{109}{}{Hazme falso Ciudadano y entrégame los documentos.}
+{108}{}{Conviérteme en una auténtica Ciudadana, si te place.}
+{109}{}{Hazme falsa Ciudadana y entrégame los documentos.}
 {110}{}{Haz que me retiren la Ciudadanía.}
 {111}{}{Cambia mi reputación.}
 {112}{}{(No funciona) Necesito un personaje en mi grupo.}
 {113}{}{No, nada.}
 {114}{}{¿A qué?}
 {115}{}{Hazme esclavista.}
-{116}{}{Hazme asesino de niños.}
+{116}{}{Hazme asesina de niños.}
 {117}{}{Nada... sólo baja mi karma a 100.}
 {118}{}{No importa. Quería algo más...}
 {119}{}{No, nada.}

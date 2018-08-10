@@ -2,31 +2,31 @@
 {101}{}{Ves a Tandi, presidente de la RNC.}
 {102}{}{Ves a una mujer dura y segura de sí misma. Es evidente que usa esas características para obtener el respeto de los demás.}
 {103}{tand1}{Soy Tandi, presidente de la RNC. Mis chicos me dicen que estás buscando trabajo. ¿En qué eres hábil?}
-{104}{}{Bueno con armas yo. El mejor.}
+{104}{}{Bueno con armas yo. La mejor.}
 {105}{}{Bueno para hablar con gente.}
 {106}{}{Bueno peleando. Patadas en el culo.}
-{107}{}{Sigiloso. Entro donde quiero yo. No me ven no me oyen.}
+{107}{}{Sigilosa. Entro donde quiero yo. No me ven no me oyen.}
 {108}{}{Yo tengo muchos t-talentos.}
 {109}{}{Eh, cosas sin importancia.}
-{110}{}{Soy bueno con un arma. Uno de los mejores.}
+{110}{}{Soy buena con un arma. Una de los mejores.}
 {111}{}{Me han dicho, señora presidente, que tengo facilidad de palabra.}
-{112}{}{Soy bueno en el combate sin armas, en el cuerpo a cuerpo.}
-{113}{}{Soy bueno colándome donde necesito ir sin ser visto ni oído.}
+{112}{}{Soy buena en el combate sin armas, en el cuerpo a cuerpo.}
+{113}{}{Soy buena colándome donde necesito ir sin ser visto ni oído.}
 {114}{}{Tengo muchos talentos, y todos están a tu disposición.}
 {115}{}{Tan solo cosas sin importancia, supongo.}
-{116}{tand2}{Hmmm. No eres realmente lo que estoy buscando. ¿Seguro que puedes valerte por ti mismo?}
+{116}{tand2}{Hmmm. No eres realmente lo que estoy buscando. ¿Seguro que puedes valerte por ti misma?}
 {117}{}{Yo no sé. ¿Qué trabajo?}
-{118}{}{Creo en yo mismo. ¡Puedo hacer!}
+{118}{}{Creo en yo misma. ¡Puedo hacer!}
 {119}{}{Eso depende del trabajo que ofrezcas.}
-{120}{}{Sí, confío en mis habilidades y en mí mismo.}
+{120}{}{Sí, confío en mis habilidades y en mí misma.}
 {121}{tand3}{Parece que eres justo lo que necesitamos.}
 {122}{}{Bueno. ¿Ayudar yo?}
 {123}{}{Excelente, ¿cómo puedo ayudarte?}
 {124}{tand4}{Necesitamos ciertas piezas de computadora de nuestra antigua base: el Refugio 15. El problema es que hay ocupantes ilegales que no permitirán entrar a nadie. Alguien tiene que convencerles de que le permitan entrar... o simplemente volver con las piezas. ¿Aceptas el trabajo?}
 {125}{}{No gusta. No hago.}
 {126}{}{Hago por ti esto.}
-{127}{}{Yo estado allí. Ok-kupas quieren trato. Tú enseñas, ayudas, ellos te dan Refugio.}
-{128}{}{Yo estado allí. Tengo piezas.}
+{127}{}{Estado allí. Ok-kupas quieren trato. Tú enseñas, tú ayudas, ellos te entregan Refugio.}
+{128}{}{Estado allí. Tengo piezas.}
 {129}{}{Yo estado allí. Ok-kupas quieren trato. Tú enseñas, ayudas, ellos te dan Refugio. Y aquí piezas.}
 {130}{}{Lo lamento, pero eso no se parece a mi estilo de trabajo.}
 {131}{}{Me encantaría ayudarte con ello.}
@@ -86,15 +86,15 @@
 {185}{}{Lo tendré en cuenta. ¿Puedo preguntarte algo más?}
 {186}{tand15}{¿Refugio 13? ¿Por qué lo preguntas?}
 {187}{}{Yo curioso.}
-{188}{}{Yo Elegido. Vengo de Morador de Refugio.}
+{188}{}{Yo Elegida. Vengo de Morador de Refugio.}
 {189}{}{Da igual. Hago preguntas.}
 {190}{}{He oído historias y tengo curiosidad.}
-{191}{}{Soy el Elegido de mi poblado. Soy un descendiente del Morador del Refugio.}
+{191}{}{Soy la Elegida de mi poblado. Soy una descendiente del Morador del Refugio.}
 {192}{}{No importa. Sólo era curiosidad.}
 {193}{tand16}{No es más que un maldito mito, como las minas perdidas de uranio. Conocí a un extraño una vez, que decía proceder de allí. Mucha gente murió intentando encontrar ese Refugio, más tarde.}
 {194}{}{Morador de Refugio es de verdad. Yo d-descendiente.}
 {195}{}{Quiero saber más.}
-{196}{}{El Morador del Refugio fue real. Yo soy uno de sus descendientes.}
+{196}{}{El Morador del Refugio fue real. Yo soy una de sus descendientes.}
 {197}{}{Ya veo. Déjame que te pregunte otra cosa.}
 {198}{tand17}{¿Un geck? ¿Como los lagartos? Están por todas partes.}
 {199}{}{No lagarto... da igual. Hago pregunta.}
@@ -182,10 +182,10 @@
 {281}{tand39}{Has vuelto. Entonces, ¿estás interesado en un trabajo o no?}
 {282}{}{No.}
 {283}{}{Vale.}
-{284}{tand40}{¿De vuelta, forastero? ¿El trabajo está hecho? ¿Tenemos el acceso al Refugio?}
+{284}{tand40}{¿De vuelta, forastera? ¿El trabajo está hecho? ¿Tenemos el acceso al Refugio?}
 {285}{}{Trabajo con ello yo. Adiós.}
-{286}{}{Yo estado allí. Ok-kupas quieren trato. Tú enseñas, ayudas, ellos te dan Refugio.}
-{287}{}{Yo estado allí. Tengo piezas.}
+{286}{}{Estado allí. Ok-kupas quieren trato. Tú enseñas, tú ayudas, ellos te entregan Refugio.}
+{287}{}{Estado allí. Tengo piezas.}
 {288}{}{Yo estado allí. Ok-kupas quieren trato. Tú enseñas, ayudas, ellos te dan Refugio. Y aquí piezas.}
 {289}{}{Sigo trabajando en ello. Nos vemos.}
 {290}{}{Ya me he encargado de casi todo. Los okupas quieren un trato. Les ayudáis a ser autosuficientes y ellos os darán acceso al Refugio.}
@@ -202,16 +202,16 @@
 {301}{tand43}{¿Qué?}
 {302}{}{Lleno de Garras mortales. Listos. Hablan.}
 {303}{}{Está lleno de Garras mortales inteligentes. Incluso pueden hablar.}
-{304}{tand44a}{Ya, claro (mueve la cabeza). Dios, eres más tonto incluso de lo que dijo Hoss! (suspira) Ahí está la puerta.}
+{304}{tand44a}{Ya, claro (mueve la cabeza). Dios, eres más tonta incluso de lo que dijo Hoss! (suspira) Ahí está la puerta.}
 {305}{tand44b}{Vale (mueve la cabeza). Está bien, dejemos de perder el tiempo. (suspira) Ahí está la puerta.}
 {306}{}{Marcho ahora.}
 {307}{}{De acuerdo. Me iré.}
 {308}{tand45}{Te has ganado una bonificación. Mi ayudante lo arreglará.}
 {309}{}{}
 {310}{}{Gracias.}
-{311}{tand46}{Eres un verdadero regateador. De acuerdo, habla con Gunther. Él hará los arreglos.}
+{311}{tand46}{Eres una verdadera regateadora. De acuerdo, habla con Gunther. Él hará los arreglos.}
 {312}{}{Gracias.}
-{313}{tand47}{¡Chicos, sacad a este montón de mierda de brahmin de mi oficina! Llegó tu hora de marcharte, forastero.}
+{313}{tand47}{¡Chicos, sacad a este montón de mierda de brahmin de mi oficina! Llegó tu hora de marcharte, forastera.}
 {314}{}{Hecho}
 {315}{tand14b}{Mi padre y Seth buscaron durante años el Refugio 13. Murieron buscando, y siempre decían que estaba al oeste de aquí. Si alguien encontrase el Refugio 13, eso nos vendría mejor que el 15.}
 {316}{}{Tendrás que hablar con mi ayudante, Gunther, sobre eso.}

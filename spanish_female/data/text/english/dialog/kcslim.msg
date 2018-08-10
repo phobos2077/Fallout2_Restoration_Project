@@ -8,11 +8,11 @@
 {120}{}{No quiero tener nada que ver con esos bichos. Les dejo tranquilos y espero que ellos hagan lo mismo conmigo. Ten cuidado.}
 {130}{}{Ten cuidado. Parece que cuando más te adentras, más grandes se vuelven.}
 {140}{}{Hola, tribal. Me llamo Picket 'el flaco' y puedo hablarte sobre el barrio de los tramperos. No queremos problemas.}
-{141}{}{Saludos, amigo. Un buen detalle por tu parte el venir a visitarnos. Me llamo Picket 'el flaco'. Hablo en nombre del barrio de los tramperos.}
+{141}{}{Saludos, amiga. Un buen detalle por tu parte el venir a visitarnos. Me llamo Picket 'el flaco'. Hablo en nombre del barrio de los tramperos.}
 {142}{}{Saludos, Flaco. Me llamo }
 {143}{}{. ¿Por qué le llamáis a este sitio barrio de los tramperos?}
 {144}{}{¿Sabes dónde podría encontrar algo llamado Kit de Creación del Jardín del Edén?}
-{145}{}{Encantado de conocerle, señor Picket. Tan sólo echaba un vistazo por aquí. Adiós.}
+{145}{}{Encantada de conocerle, señor Picket. Tan sólo echaba un vistazo por aquí. Adiós.}
 {150}{}{Hola, me llamo Picket 'el flaco'. Hablo en nombre de esta parte del pueblo.}
 {151}{}{Uuu.}
 {152}{}{Ahh, pueblo.}
@@ -40,7 +40,7 @@
 {192}{}{Oh, vale; eso es todo lo que quiera saber. Gracias.}
 {200}{}{¿Quieres la llave a la parte norte del barrio de los tramperos? ¿Y para qué la quieres?}
 {201}{}{¿Aún quieres la llave? ¿Y para qué?}
-{202}{}{Soy un explorador; quiero explorar todos los sitios que pueda. Además, quizás haya un GECK abandonado en alguna estantería.}
+{202}{}{Soy una exploradora; quiero explorar todos los sitios que pueda. Además, quizás haya un GECK abandonado en alguna estantería.}
 {203}{}{Voy a ayudarte con tu problema con las ratas.}
 {204}{}{Tan sólo quiero llegar a ese coche al otro lado de la valla.}
 {205}{}{Estaría dispuesto a darte cualquier cosa por esa llave. De verdad que quiero cruzar al otro lado del barrio de los tramperos.}
@@ -56,7 +56,7 @@
 {224}{}{No quiero la llave. Adiós.}
 {230}{}{Ya has conseguido lo que querías. Ahora ten cuidado.}
 {231}{}{Gracias.}
-{232}{}{Eres duro en los negocios. Espero que valiera la pena.}
+{232}{}{Eres dura en los negocios. Espero que valiera la pena.}
 {240}{}{Bien, supongo que no necesito esta llave tanto como tú, ¿no? ¿Estás seguro de que tienes todo lo que quieres?}
 {241}{}{Ups; sabía que necesitaba algo más.}
 {242}{}{Eh, Flaco, hay un par de cosas que quiero preguntarte.}
@@ -107,7 +107,7 @@
 {363}{}{Eso es un montón de dinero. Mejor hablemos de otras cosas.}
 {364}{}{No creo que necesite aprender nada nuevo. Adiós.}
 {370}{}{Tu tribu son principalmente granjeros, ¿no? No creo que pueda enseñarte una maldita cosa. }
-{371}{}{Ya soy tan bueno, ¿eh? Bien, entonces hablemos de otra cosa.}
+{371}{}{Ya soy tan buena, ¿eh? Bien, entonces hablemos de otra cosa.}
 {372}{}{Entonces creo que me iré. Adiós.}
 {380}{}{Sí, deberías haber aprendido tres o cuatro cosas sobre la vida en el Yermo. Espero que puedas darles buen uso. Recuerda lo de la mierda...}
 {381}{}{Es cierto. La mierda vieja no sabe de la misma forma que la fresca. Gracias, Flaco. Ahora háblame más de esos geckos.}

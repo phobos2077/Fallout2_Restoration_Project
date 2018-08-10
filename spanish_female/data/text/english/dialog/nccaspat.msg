@@ -20,7 +20,7 @@
 {206}{}{Oh-oh. Salid de su camino.}
 {207}{}{Sólo lo miraba… la miraba… *lo que quiera* que sea me da escalofríos.}
 {208}{}{¿Crees que esa cosa quiere cargarse a alguien?}
-{209}{}{Eso es la furia del infierno encarnada. Eh, bajo la armadura, me refiero.}
+{209}{}{Es la furia del infierno encarnada. Eh, bajo la armadura, claro está.}
 {210}{}{Alejaos del camino de esa cosa.}
 {211}{}{Hablando de apariencias peligrosas…}
 {212}{}{*Gulp*}
@@ -29,7 +29,7 @@
 {215}{}{He oído que esa cosa fulminó a tres sicarios ayer mismo.}
 {216}{}{Sólo el cómo me mira me produce escalofríos.}
 {217}{}{¿Crees que está pensando en cargarse a alguien?}
-{218}{}{Alejaos del camino de ese hombre.}
+{218}{}{No te interpongas en el camino de esa mujer.}
 {219}{}{Creo que me miraba a mí.}
 {220}{}{Creo que me acaba de lanzar una mirada mortal. Me largo de aquí.}
 {221}{}{He oído que disparó a tres sicarios ayer mismo.}
@@ -44,9 +44,9 @@
 {230}{}{Creo que me acaba de lanzar una mirada mortal. Me largo de aquí.}
 {231}{}{He oído que disparó a tres sicarios ayer mismo.}
 {232}{}{¡Qué duro! Eh, me refiero a ti, claro.}
-{233}{}{No pareces tan duro, señor Campeón.}
+{233}{}{No pareces tan dura, señora Campeona.}
 {234}{}{Gané 20 fichas apostando por ti!}
-{235}{}{¡Oye, campeón! ¡Esa última pelea fue genial!}
+{235}{}{¡Hey, campeona! ¡Tu última pelea fue fantástica!}
 {236}{}{Vi tu pelea en el ring. Lanzaste un gancho de derecha bueno de cojones.}
 {237}{}{¿Lo vas a dejar? Conseguí 30 fichas apostando por ti.}
 {238}{}{¿Cuántas flexiones haces?}
@@ -70,7 +70,7 @@
 {256}{}{::Silbidos::}
 {257}{}{¿Esas piernas son así hasta arriba?}
 {258}{}{Jooooooder.}
-{259}{}{¿Regalan las patatas fritas contigo, preciosa?}
+{259}{}{¿No te calientas con ese meneo, preciosa?}
 {260}{}{Quizá baile esta noche.}
 {261}{}{¿Has visto su última película? Al rojo vivo, amigo, al rojo VIVO.}
 {262}{}{Perdóname. Tengo que ir al baño y, er, peinarme un poco.}
@@ -176,7 +176,7 @@
 {361}{}{SABÍA que debería haberme afeitado hoy.}
 {362}{}{Ven a charlar conmigo un momento, preciosidad.}
 {363}{}{Vamos, ricura… ven conmigo.}
-{364}{}{Eres una hábil picaruela, ¿verdad?}
+{364}{}{Eres una niña traviesa y ágil, ¿verdad?}
 {365}{}{Me bañaría por ti.}
 {366}{}{Tengo tu veta madre justo aquí.}
 {367}{}{¿Esas piernas son así hasta arriba?}
@@ -187,7 +187,7 @@
 {372}{}{Eres una auténtica zorra.}
 {373}{}{Corrígeme si me equivoco, cariño pero, ¿no quieres besarme?}
 {374}{}{Maldición. Todas esas curvas y yo sin frenos.}
-{375}{}{¿Sabes qué es lo que te sentaría bien? Yo.}
+{375}{}{¿Sabes lo que te haría más llamativo? Yo.}
 {376}{}{Tus braguitas puede que no sean lo mejor que hay en la tierra, pero vaya si están cerca de ello, joder.}
 {503}{}{!}
 {504}{}{! ¡Pateas culos! ¡Pateas CULOS!}

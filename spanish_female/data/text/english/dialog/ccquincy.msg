@@ -53,7 +53,7 @@
 {152}{}{Yo sólo digo hola.}
 {153}{}{Necesito preguntarte algo.}
 {154}{}{Nada, sólo pasaba a saludar.}
-{155}{}{¿Estás loco? ¿Andando por aquí sin el uniforme? ¡Ve a vestirte ahora mismo!}
+{155}{}{¿Estás loca? ¿Andando por aquí sin el uniforme? ¡Ve a vestirte ahora mismo!}
 {156}{}{Si el sargento te pilla sin el uniforme, te va a partir el culo.}
 {157}{}{¿Por qué no llevas puesto el uniforme?}
 {158}{}{¡Ay, carajo! ¡Nos invaden! ¡Alerta!}

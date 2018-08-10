@@ -25,7 +25,7 @@
 {124}{}{Quien tiene el poder, hace la ley. Yo tengo el poder. Justo aquí.}
 {125}{}{No, no lo haría, pero son claramente peligrosos.}
 {126}{}{Hasta que no cometan un crimen, no son culpables de nada. Mientras no logren sus planes ni lleven a cabo la ejecución del crimen, no son culpables. ¿Correcto?}
-{127}{}{¿Peligrosos? Yo soy peligroso. Tú eres peligroso. Y no estamos encerrados.}
+{127}{}{¿Peligrosos? Yo soy peligrosa. Tú eres peligroso. Y no estamos encerrados.}
 {128}{}{¿Y qué?}
 {129}{}{Pero... pero... de acuerdo. Serán liberados. Pero tú tienes la responsabilidad. Tengo la esperanza de que estés en lo cierto. Aquí está la llave.}
 {130}{}{Eso es todo lo que quería. Genial. Gracias. Adiós.}
@@ -36,7 +36,7 @@
 {135}{}{No.}
 {136}{}{De acuerdo.}
 {137}{}{!Tú! ¿Qué demonios estás haciendo? !Largo de aquí!}
-{138}{}{Ya estás guardando tus armas ahora mismo, amigo.}
+{138}{}{Ya estás guardando tus armas ahora mismo, amiga.}
 {139}{}{¿Otra vez tú? ¿Quieres algo?}
 {140}{}{Sólo estaba mirando.}
 {141}{}{Err... no, realmente no.}

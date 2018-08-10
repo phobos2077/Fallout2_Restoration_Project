@@ -11,7 +11,7 @@
 {110}{}{Nada como una satisfactoria experiencia urinaria.}
 {111}{}{No me distraig... ¡maldición! ¡La pernera de mi pantalón!}
 {112}{}{No hables. Eso lo convierte en gatear hacia arriba.}
-{113}{}{Oye, "Elegido", que estoy intentando concentrarme, ¿vale?}
+{113}{}{Oye, "Elegida", que estoy intentando concentrarme, ¿vale?}
 {114}{}{Ojalá este lugar tuviera un aseo privado.}
 {115}{}{La gente que habla en el aseo tiene mucho que aprender sobre etiqueta relacionada con la evacuación.}
 {116}{}{Creo que me has confundido con alguien ¡que NO ESTÁ MEANDO!}
@@ -20,8 +20,8 @@
 {119}{}{Ya sabía yo que los aseos comunitarios no eran buena idea.}
 {120}{}{Ahora no, cariño. En caso de que no lo hayas notado, estoy orinando.}
 {121}{}{Lo siento, cariño. Los aseos no lo hacen por mí.}
-{122}{}{Esta no es un área de descanso, amigo. Muévete, ¿vale?}
-{123}{}{Creo que me has confundido con alguien que quiere conocer hombres como tú en los aseos.}
+{122}{}{Esta no es un área de descanso, amiga. Muévete, ¿vale?}
+{123}{}{Creo que me has confundido con alguien que quiere conocer mujeres como tú en los aseos.}
 {124}{}{No, no voy a darte instrucciones acerca de cómo usar el retrete.}
 {125}{}{¡Un mutante! ¡Guardias! ¡Guardias!}
 {126}{}{¡Un necrófago! ¡Guardias! ¡Guardias!}

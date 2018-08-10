@@ -50,14 +50,14 @@
 {149}{}{Bien, puede que me sea posible. Sin embargo, primero necesito que me hagas un favor. Algo o alguien ha estado atacando a mis brahmines por la noche. Necesito saber qué sucede. ¿Y si vas por allí e investigas para mí? Te pagaré por ello y te contaré lo que sé.}
 {150}{}{Parece una buena idea. Lo haré.}
 {151}{}{No, gracias. Sentado en el campo, esperando a que aparezca algún mantoide suena aburrido.}
-{152}{}{Bien, entonces aquí está. Encantado de conocerte, forastero.}
+{152}{}{Bien, entonces aquí está. Encantado de conocerte, forastera.}
 {153}{}{No estoy seguro de creerte, pero aquí está tu dinero. Demonios, si me estás mintiendo, mis muchachos te encontrarán. Te dije también que te daría cierta información, así que aquí está. He oído muchas historias sobre Tandi y el Morador del Refugio. Parece que le salvó la vida años antes de que se fundase la RNC. De todos modos, la leyenda cuenta que paso un montón de tiempo explorando un Refugio al este de aquí. Si no es el Refugio 13, quizá encuentres una pista allí que te conduzca hasta él.}
 {154}{}{¡Agradezco yo!}
 {155}{}{Gracias.}
-{156}{}{¿La Primer Ciudadano? Excelente, esto es lo que estaba esperando. ¿Eres un Ciudadano?}
+{156}{}{¿La Primer Ciudadano? Excelente, esto es lo que estaba esperando. ¿Eres una Ciudadana?}
 {157}{}{Sí.}
 {158}{}{No.}
-{159}{}{Y eres un buen Ciudadano, estoy seguro. Quiero que lleves de vuelta este holodisco a la Primer Ciudadano. Es importante. Tiene la información que necesita para exponer el plan RNC-Nuevo Reno.}
+{159}{}{Y eres una buena Ciudadana, estoy seguro. Quiero que lleves de vuelta este holodisco a la Primer Ciudadano. Es importante. Tiene la información que necesita para exponer el plan RNC-Nuevo Reno.}
 {160}{}{Tengo algunas otras preguntas.}
 {161}{}{Sí, señor.}
 {162}{}{De acuerdo entonces, eso es todo.}

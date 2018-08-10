@@ -2,7 +2,7 @@
 {101}{}{Ves a Valdis, la Garra mortal.}
 {102}{}{Ves a la típica Garra mortal. La criatura es enorme, con cuerpo poderoso, dientes afilados, y largas
  garras.}
-{103}{}{Saludos, humano.}
+{103}{}{Saludos, humana.}
 {104}{}{¿Cómo puedo ayudarte?}
 {105}{}{¿Quién ser tú?}
 {106}{}{¿Qué haces?}
@@ -12,7 +12,7 @@
 {110}{}{No quiero ofender a tus compañeros, pero tú pareces más... ¿educado, podríamos decir?}
 {111}{}{Bueno, tan sólo pasando el tiempo.}
 {112}{}{Me llaman Valdis. ¿Y tú eres...?}
-{113}{}{Yo humano.}
+{113}{}{Yo humana.}
 {114}{}{¡Ooooh! Algo brillante. Marcho.}
 {115}{}{Oye, yo soy el que hace las preguntas aquí.}
 {116}{}{Me tengo que ir.}
@@ -35,8 +35,8 @@
 {132}{}{Una iguana con un objetivo. Qué adorable.}
 {133}{}{Lo estás haciendo bien.}
 {134}{}{Ese es un excelente objetivo. Sigue así.}
-{135}{}{Eh? Soy consciente de que eres humano. Te estaba preguntando tu nombre.}
-{136}{}{No pregunto nombre, pregunto qué 'eres'. Yo humano.}
+{135}{}{Eh? Soy consciente de que eres humana. Te estaba preguntando tu nombre.}
+{136}{}{No pregunto nombre, pregunto qué 'eres'. Yo humana.}
 {137}{}{Yo sé. Yo hacía prueba a ti. eh... tú haces bien.}
 {138}{}{Oigo que alguien llama a mí. Marcho.}
 {139}{}{Ya veo. Intentémoslo otra vez. Hola. Soy Valdis. ¿Cuál es tu nombre?}
@@ -46,7 +46,7 @@
 {143}{}{Vale. Yo entiendo.}
 {144}{}{Yo voy a coger otro dolor de cabeza. Marcho ahora.}
 {145}{}{Mi objetivo es ser todo lo paciente que puedo, dado el hecho de que estás siendo rudo. Si no puedes comportarte conmigo civilizadamente, entonces por favor márchate.}
-{146}{}{Lo siento, intentaré ser más civilizado.}
+{146}{}{Lo siento, intentaré ser más civilizada.}
 {147}{}{Que te den.}
 {148}{}{Sí.}
 {149}{}{Buenos días a ti.}

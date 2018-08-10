@@ -1,7 +1,7 @@
 {100}{}{Ves a Eldridge.}
 {150}{}{Ves a un hombre fuertemente armado lleno de grasa. Está mirando fijamente a su colección de armas en la pared y sonriendo embobado.}
 {151}{}{Ves a Eldridge. Está mirando fijamente a su colección de armas en la pared y sonriendo embobado.}
-{200}{}{¡Felicidades, héroe! ¡Lo has hecho bien!}
+{200}{}{¡Felicidades, heroína! ¡Lo has hecho bien!}
 {201}{}{::Dispara su arma al aire, y comienza a menearse y a gritar:: ¡El Enclave está MUERTO! ¡MUERTO! ¡MUERTO! Yeeee-haw!}
 {202}{}{::Ding-dong, el Enclave está muerto, el Enclave está muerto... ::}
 {203}{}{El Enclave es una buena razón para que todo ciudadano tenga el derecho a portar armas.}
@@ -28,11 +28,11 @@
 {233}{}{No puedo esperar a ir a la caza de bandidos la próxima semana...}
 {234}{}{Tengo fusiles ametralladores, pistolas, dinamita, granadas... y aún así la gente viene buscando espadas y ballestas.}
 {240}{}{¡Bienvenido, héroe! Hiciste un maldito buen trabajo con el Enclave... salvaste nuestros pellejos, eso hiciste, y te lo agradezco. Eldridge es mi nombre. ¿Estás en el mercado en busca de algo de hierro con el que llenar tu cartuchera?}
-{241}{}{Bienvenido, caballero... Eldridge es mi nombre. ¿Estás en el mercado en busca de algo de hierro con el que llenar tu cartuchera?}
-{242}{}{Bienvenido, viajero... Eldridge es mi nombre. ¿Estás en el mercado en busca de algo de hierro con el que llenar tu cartuchera?}
+{241}{}{Bienvenida, señorita... Eldridge es mi nombre. ¿Estás en el mercado en busca de algo de hierro con el que llenar tu cartuchera?}
+{242}{}{Bienvenido, viajera... Eldridge es mi nombre. ¿Estás en el mercado en busca de algo de hierro con el que llenar tu cartuchera?}
 {243}{}{Ernnnnh? ¿Cartu-c-chera?}
 {244}{}{Depende de lo que vendas.}
-{250}{}{¡Bienvenido, héroe! Hiciste un maldito buen trabajo con el Enclave... salvaste nuestros pellejos, eso hiciste, y te lo agradezco. }
+{250}{}{¡Bienvenida, heroína! Hiciste un maldito buen trabajo con el Enclave... salvaste nuestros pellejos, eso hiciste, y te lo agradezco. }
 {251}{}{Si ves algo que te gusta, házmelo saber, y se te hará un descuento *especial*, ¿vale?}
 {252}{}{Vaaale.}
 {253}{}{Te alejas.}
@@ -46,13 +46,13 @@
 {261}{}{Volveré a echar un vistazo entonces.}
 {262}{}{Excelente... ¿puedo ver tu mercancía especial?}
 {270}{}{Aquí, en Armas Nuevo Reno, tenemos los últimos dispositivos de protección personal necesarios para detener a cualquier gallina hijoputa que se interponga en tu camino. (Esboza una sonrisa maliciosa).}
-{272}{}{Hola otra vez, amigo. ¿Qué puedo hacer por ti?}
+{272}{}{Hola otra vez, amiga. ¿Qué puedo hacer por ti?}
 {273}{}{¿Como cuales?}
 {274}{}{Cosas yo gusta cosas tú gustas cosas tambieeen?}
 {276}{}{Entonces eres justo el hombre que estaba buscando. ¿Puedo ver lo que tienes a la venta?}
 {277}{}{¿Puedo ver lo que tienes a la venta?}
 {283}{}{¿Puedes modificar o mejorar armas?}
-{284}{}{Ahora mismo no estoy interesado, gracias.}
+{284}{}{Ahora mismo no estoy interesada, gracias.}
 {285}{}{Hoy nada, gracias.}
 {286}{}{¿Puedo ver tu mercancía especial?}
 {300}{}{¿Ves algo brillante que te guste? Vamos, tiene que haber algo aquí que te interese.}
@@ -103,7 +103,7 @@
 {420}{}{Oh... tenemos un cliente exigente, ¿eh? Bueno, a veces, llega hasta aquí algún premio gordo... mira
  esto, por ejemplo. (Toma algo... extraño). Genuina tecnología de antes de la guerra. ¿Te parece algo especial?}
 {423}{}{Eh... es "algo", cierto. ¿Puedo echarle un vistazo?}
-{424}{}{Seguro que lo es. Pero estaba interesado en alguna otra cosa...}
+{424}{}{Seguro que lo es. Pero estaba interesada en alguna otra cosa...}
 {425}{}{No me interesa. Gracias de todos modos.}
 {430}{}{((Es un bonito cuadrado de plástico con agujeros y líneas metálicas dibujadas en él. Divertidas letras-símbolo están escritas en él. Te recuerda a una tarta pero mecánica, y se te hace la boca agua).}
 {431}{}{(Es lo que parece una placa de circuitos. Está un poco polvorienta, pero parece estar en buenas condiciones. Parece parte de... algo. Impreso en la placa pone: 'Módulo de reconocimiento de voz Vault-Tec').}
@@ -132,7 +132,7 @@
 {481}{}{(Piensa en ello un momento, te estudia, y luego asiente). De acuerdo entonces... voy a dejar que lo consigas casi regalado, pero
  aquí lo tienes. (Te entrega el módulo y se guarda tu dinero). }
 {482}{}{¿Algo más?}
-{485}{}{Sí, estaba interesado en algo más...}
+{485}{}{Sí, estaba interesada en algo más...}
 {486}{}{Nada más hoy, gracias.}
 {495}{}{(Parpadea sorprendido, luego se ríe). ¡Ja! No, no... esas armas son otra cosa, ¿no es así? Desde luego, me ENCANTARÍA
  poner las manos sobre una... piensa en el alcance, la potencia, la cadencia de fuego...(mira fijamente al infinito y suspira).}
@@ -153,7 +153,7 @@
 {524}{}{Un placer hacer negocios contigo, Eldridge. Disfrútala.}
 {530}{}{(Eldridge te mira de arriba abajo, y su tono se vuelve más respetuoso). Claro, desde luego. Déjame que te muestre nuestra
  mercancía especial... con un descuento, por supuesto.}
-{532}{}{En realidad, estaba interesado en otra cosa...}
+{532}{}{En realidad, estaba interesada en otra cosa...}
 {533}{}{No importa. Volveré.}
 {545}{}{Cerrad el pico de una puta vez, ¿me oís?}
 {546}{}{¡Cerrad el pico, chuchos callejeros!}

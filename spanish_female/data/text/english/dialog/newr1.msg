@@ -148,7 +148,7 @@
 {435}{}{Scrapiron}
 {436}{}{Tigresa}
 {437}{}{Tyson}
-{438}{}{Lady J}
+{438}{}{Dama J}
 {439}{}{Drago}
 {440}{}{Clubber Lang}
 {441}{}{Duquesa}
@@ -258,7 +258,7 @@
 {564}{}{Jill Jacks}
 {565}{}{Courtney Coxis}
 {566}{}{Maria Swallo}
-{567}{}{Lady J}
+{567}{}{Dama J}
 {568}{}{Glenda Glenn}
 {569}{}{Reina Elizabeth}
 {570}{}{Jenna Jammison}
@@ -330,4 +330,4 @@
 {1500}{}{Has convencido a la señora Wright para que destruya los alambiques.}
 {1550}{}{Has sido testigo de la transacción secreta.}
 {1600}{}{En el fragor de la lucha, el Masticador te arrancó la oreja.}
-{1700}{}{Enfurecido, le arrancas la oreja al Masticador.}
+{1700}{}{Enfurecida, le arrancas la oreja al Masticador.}

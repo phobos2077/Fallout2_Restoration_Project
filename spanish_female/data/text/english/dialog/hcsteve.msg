@@ -10,9 +10,9 @@
 {109}{}{¿Qué hay de nuevo?}
 {110}{}{¿Qué servicios se ofrecen por aquí?}
 {111}{}{No. Lo siento.}
-{112}{}{Oh, pequeño. Otro pobre niño del Yermo. Bien, pasa. Verás que somos tan hospitalarios como cualquiera de las otras ciudades del Yermo.}
+{112}{}{Oh, pequeño. Otra pobre niña del Yermo. Bien, pasa. Verás que somos tan hospitalarios como cualquiera de las otras ciudades del Yermo.}
 {113}{}{¡Tíooooooooooooo!}
-{114}{}{Exacto. Buena suerte, viajero. Y adiós.}
+{114}{}{Exacto. Buena suerte, viajera. Y adiós.}
 {115}{}{¡Dos!}
 {116}{}{Broken Hills. Somos un pueblo minero. Cavamos para obtener cosas. Luego las vendemos.}
 {117}{}{¿Cavar?}
@@ -22,10 +22,10 @@
 {121}{}{¿Vender cosas?}
 {122}{}{Vendemos lo que extraemos a otras ciudades de por aquí. Ellos lo encuentran útil. Si quieres vender algo, puedes hablar con la mayoría de los mercaderes de por aquí. De cualquier forma, debo volver al trabajo. Sé bueno y cuídate, ¿vale?}
 {123}{}{¡Va-le! ¡Adiooooos!}
-{124}{}{Debo volver al trabajo. Sé bueno y cuídate, ¿vale?}
+{124}{}{Debo volver al trabajo. Sé buena y cuídate, ¿vale?}
 {125}{}{¿Tú otra vez? Bien, sabes lo que debes hacer: ser bueno y cuidarte. ¡Cuídate!}
 {126}{}{¡Va-le! ¡Adiooooos!}
-{127}{}{Guarda tus armas, compañero. No obtendrás respuestas de mí mientras las muestres de esa forma.}
+{127}{}{Guarda tus armas, compañera. No obtendrás respuestas de mí mientras las muestres de esa forma.}
 {128}{}{Somos una pequeña comunidad minera. Fundada hace varias décadas por nuestro sheriff, Marcus, y un hombre llamado Jacob. Eligieron este sitio porque estaba cerca de algunos depósitos de uranio. ¿Quieres que te cuente más?}
 {129}{}{Sí.}
 {130}{}{No.}
@@ -49,7 +49,7 @@
 {148}{}{Adiós.}
 {149}{}{Oh. Otra vez tú.}
 {150}{}{Hola de nuevo.}
-{151}{}{Bienvenido de nuevo.}
+{151}{}{Bienvenida de nuevo.}
 {152}{}{¿Quieres saber más?}
 {153}{}{¿Qué hay de nuevo?}
 {154}{}{¿Quién está al mando?}
@@ -86,7 +86,7 @@
 {185}{}{Es un buen argumento.}
 {186}{}{Siguen siendo malvados.}
 {187}{}{Adiós.}
-{188}{}{Amigo, cuanto más hablo contigo, más tonto me siento. Con esa actitud, no serás bienvenido en Broken Hills. Discúlpame. Tengo trabajo que hacer.}
+{188}{}{Amiga, cuanto más hablo contigo, más tonto me siento. Con esa actitud, no serás bienvenida en Broken Hills. Discúlpame. Tengo trabajo que hacer.}
 {189}{}{Capullo.}
 {190}{}{Hora de morir, cabrón.}
 {191}{}{Tenemos una mina, una refinería, una taberna, un hotel -el cual, por cierto, ha sido perdido por su dueño, así que dejamos a la gente quedarse en él gratis– un hospital, un almacén y a un químico. Producimos nuestro propio alimento.}
@@ -99,10 +99,10 @@
 {198}{}{Marcus, ¿estás seguro de que no quieres quedarte y liderarnos un tiempo más?}
 {199}{}{Marcus: Eso no tiene futuro. Lo haréis bien sin mí.}
 {200}{}{[MÁS]}
-{201}{}{Amigo, no te queremos aquí. Ya has hecho suficiente daño.}
+{201}{}{Amiga, no te queremos aquí. Ya has hecho suficiente daño.}
 {202}{}{[HECHO]}
 {300}{}{Normalmente, puedes encontrar a Marcus cerca del banco –que también sirve como una buena prisión– o en la misma prisión. A veces está en la taberna o en casa, pero normalmente está trabajando.}
-{301}{}{¡Alborotador!}
+{301}{}{¡Alborotadora!}
 {302}{}{¡Maldición!}
 {303}{}{¡Hurra!}
 {304}{}{¡Canallas!}

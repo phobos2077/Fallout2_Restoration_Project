@@ -91,13 +91,13 @@
 {321}{}{Oye, los ghouls son realmente muy amigables. Además, conozco a uno en particular que ama un buen juego de Tragic.}
 {322}{}{Hey, los demonios no son realmente muy amable.}
 {323}{}{Hey, yo escucho a los ghouls en realidad, hay muy amable.}
-{324}{}{Bien. Traje de sí mismo. Bye.}
+{324}{}{Bien. Como quieras. Adios.}
 {330}{}{No mierda, otro Trágico jugador? Hmm, ese tipo de cambios, las cosas... me pregunto si él tendría un Black Dahlia
 el comercio. Bien. Yo voy a ir, si usted me acompañara.}
 {331}{}{Vamos.}
 {332}{}{Muy bien, pero tengo que tener cuidado de algunas cosas primero. Voy a dejar que usted sabe que cuando yo estoy listo para ir.}
 {340}{}{Ah, sí? Eso no cambia el hecho de que se parecen a los brahmanes mierda. No, gracias.}
-{341}{}{Bien. Traje de sí mismo. Bye.}
+{341}{}{Bien. Como quieras. Adios.}
 {350}{}{¿Qué quieres?}
 {351}{}{Solo quería decir hola. Nos vemos.}
 {352}{}{He cambiado de opinión. Formataré la computadora por ti.}

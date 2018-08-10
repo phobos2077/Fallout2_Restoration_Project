@@ -15,10 +15,10 @@
  enviemos a alguna parte?}
 {114}{}{Llévaselo a los Smith.}
 {115}{}{Lo siento, amigo. Te va a costar ochocientos.}
-{119}{}{Necesitas el dinero para pagarme, amigo.}
+{119}{}{Necesitas el dinero para pagarme, amiga.}
 {120}{}{Volveré con el dinero.}
 {121}{}{Es igual. Tengo que entregarlo ahora mismo.}
-{122}{}{Pensabas en servirte tú mismo, ¿eh? Maldito ladrón... ¡guardias! ¡Guardias!}
+{122}{}{Pensabas en servirte tú mismo, ¿eh? Maldita ladrona... ¡guardias! ¡Guardias!}
 {123}{}{Dave sent me. We're trying to fix a broken water pump, and he said you'd have a replacement motor.}
 {124}{}{Working with Dave, eh? Yeah, I know the fella. I see he's still got a knack for getting others to do his leg work--lazy bastard.
  [He chuckles.] Anyway, I think I got what you're lookin for, but lemme just go back an' check. [Harry goes into his back room where you

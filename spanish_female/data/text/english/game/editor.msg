@@ -82,8 +82,8 @@
 {309}{editor}{Rm. de curación}
 {310}{editor}{Pb. de críticos}
 {311}{editor}{Peso máximo}
-{312}{}{Envenenado}
-{313}{}{Irradiado}
+{312}{}{Envenenada}
+{313}{}{Irradiada}
 {314}{}{Ojo dañado}
 {315}{}{Brazo dcho. roto}
 {316}{}{Brazo izdo. roto}
@@ -192,7 +192,7 @@
 {1024}{}{Iniciado: Wright}
 {1025}{}{Divorciado}
 {1026}{}{Fumador}
-{1100}{}{Esta estadística representa tu reputación general. Cuanto más alto sea el número, más conocido y respetado serás. Si es negativa, serás odiado por algunos debido a tus malvadas acciones.}
+{1100}{}{Esta estadística representa tu reputación general. Cuanto más alto sea el número, más conocida y respetada serás. Si es negativa, serás odiada por algunos debido a tus malvadas acciones.}
 {1101}{}{Has matado a un gran número de gente. Esto generalmente no es algo bueno por lo que ser conocido. Sin embargo, gustarás más a los malos.}
 {1102}{}{Tus acciones te han revelado como el campeón de la gente. Tu guerra contra el mal y la villanía es largamente conocida. La gente honorable te respetará más.}
 {1103}{}{Has matado a niños, el futuro del Yermo. Esto es considerado como algo realmente malo. Mala, mala persona.}
@@ -209,36 +209,36 @@
 {1114}{}{Eres el campeón de los pesos pesados del norte de California. Te has ganado fama, respeto, el amor de miles... y un bonus a tu resistencia y habilidad sin armas.}
 {1115}{}{Seamos honestos: Te tirarías a cualquier cosa que andara sobre dos piernas. Y a veces, ni eso te echaría atrás.}
 {1116}{}{"Están muertos, no les importará" se ha convertido en tu lema. Excavar los restos de los demás es algo más que un hobby para ti.}
-{1117}{}{Eres un mafioso de la familia Salvatore. Eres conocido, respetado, y te sientan genial los sombreros.}
+{1117}{}{Eres una mafiosa de la familia Salvatore. Eres conocida, respetada, y te sientan genial los sombreros.}
 {1118}{}{Te han cazado. Oye, es tu problema, no el nuestro.}
 {1119}{}{Eres una gran, brillante y resplandeciente estrella. Tus hazañas sexuales son bien conocidas a lo largo de todo Nuevo Reno.}
-{1120}{}{Has sido marcado como un miembro del gremio de esclavistas. El tatuaje en tu frente hace tu profesión evidente a cualquiera que lo ve.}
+{1120}{}{Has sido marcada como un miembro del gremio de esclavistas. El tatuaje en tu frente hace tu profesión evidente a cualquiera que lo ve.}
 {1121}{}{Tienes que salir más por ahí. Tus experiencias sexuales han sido... demasiado bidimensionales.}
-{1122}{}{Eres un mafioso de la Familia Bishop. Eres conocido, respetado, y te sientan genial los sombreros.}
-{1123}{}{Eres un mafioso de la Familia Mordino. Eres conocido, respetado, y te sientan genial los sombreros.}
-{1124}{}{Eres un mafioso de la Familia Wright. Eres conocido, respetado, y te sientan genial los sombreros.}
+{1122}{}{Eres una mafiosa de la Familia Bishop. Eres conocida, respetada, y te sientan genial los sombreros.}
+{1123}{}{Eres una mafiosa de la Familia Mordino. Eres conocida, respetada, y te sientan genial los sombreros.}
+{1124}{}{Eres una mafiosa de la Familia Wright. Eres conocida, respetada, y te sientan genial los sombreros.}
 {1125}{}{Tu esposa ya no está contigo. Espero que estés contento.}
 {1126}{}{You are a smoker. They say it'll kill ya, but you're not dead yet. And anyway, it's a good way to look damn cool in a post-apocalyptic world.}
-{2000}{}{Idolatrado}
-{2001}{}{Querido}
-{2002}{}{Aceptado}
+{2000}{}{Idolatrada}
+{2001}{}{Querida}
+{2002}{}{Aceptada}
 {2003}{}{Neutral}
-{2004}{}{Antipático}
-{2005}{}{Odiado}
-{2006}{}{Vilipendiado}
-{2100}{}{Todo el mundo aquí querría ser como tú. Eres el hijo predilecto y tomado como un ejemplo brillante de lo que una persona debería ser.}
+{2004}{}{Antipática}
+{2005}{}{Odiada}
+{2006}{}{Vilipendiada}
+{2100}{}{Todo el mundo aquí querría ser como tú. Eres la hija predilecta y tomada como un ejemplo brillante de lo que una persona debería ser.}
 {2101}{}{En esta zona, la gente te señala y te saluda donde quiera que vas. Todo el mundo ha oído hablar de ti, y les ha gustado lo que han oído.}
 {2102}{}{Aunque no te reciban con los brazos abiertos, la mayoría de la gente al menos te guiñará el ojo en muestra de reconocimiento. Te has hecho un sitio aquí.}
 {2103}{}{Aunque normalmente son suspicaces hacia los extranjeros, la gente de esta zona todavía no se ha hecho una idea clara acerca de ti.}
 {2104}{}{Tan solo eres otro extranjero. Probablemente nada bueno.}
 {2105}{}{Has dado prueba a la gente de esta zona de que su desconfianza inicial hacia ti estaba bien fundada. La gente te mira y se susurran los unos a los otros cuando te ven llegar. Saben que eres mala gente.}
 {2106}{}{Mirando y murmurando, algunos cruzan la calle para evitar cruzarse contigo, mientras otros escupen y vuelven la cara cuando te ven acercarte. Eres lo peor que se ha arrastrado en esta zona.}
-{3000}{}{Salvador de los Condenados}
-{3001}{}{Guardián del Yermo}
+{3000}{}{Salvadora de los Condenados}
+{3001}{}{Guardiana del Yermo}
 {3002}{}{Escudo de Esperanza}
-{3003}{}{Defensor}
-{3004}{}{Vagabundo}
-{3005}{}{Traidor}
+{3003}{}{Defensora}
+{3004}{}{Vagabunda}
+{3005}{}{Traidora}
 {3006}{}{Espada de Desesperación}
 {3007}{}{Azote del Yermo}
 {3008}{}{Semilla del Diablo}

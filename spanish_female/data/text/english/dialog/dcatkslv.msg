@@ -27,9 +27,9 @@
 {306}{}{¡Tu pagar!}
 {307}{}{¡Muere!}
 {308}{}{Voy a hacerte daño.}
-{350}{}{¡No vas a llevarte a mi familia, esclavista!}
-{351}{}{¡Muere, chusma esclavista!}
-{352}{}{¡Me las pagarás, bastardo!}
+{350}{}{No vas a arrebatarme a mi familia, ¡negrera!}
+{351}{}{¡Muere, escoria esclavista!}
+{352}{}{¡Me las pagarás, zorra!}
 {353}{}{¡Lucharé a muerte por mi familia!}
 {354}{}{¡No te vas a salir con la tuya!}
 {355}{}{¡No te vas a ir de aquí con mis amigos!}

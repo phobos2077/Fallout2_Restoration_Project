@@ -7,7 +7,7 @@
 {113}{}{Hola. Me sigue s-sorprendiendo lo m-mucho que te pareces al Morador del Refugio. ¿Qué puedo hacer por ti?}
 {114}{}{¿Grenny? Hoowa.}
 {115}{}{¿Qué haces aquí?}
-{116}{}{Estoy herido. ¿Puedes ayudarme?}
+{116}{}{Estoy herida. ¿Puedes ayudarme?}
 {117}{}{Uno de mis amigos está herido. ¿Puedes ayudarle?}
 {118}{}{Mis amigos están heridos. ¿Puedes ayudarles?}
 {119}{}{Lenny, ¿alguna vez oíste hablar de algo llamado Kit de Creación del Jardín del Edén?}
@@ -22,7 +22,7 @@
 {141}{}{N-no puedo desperdiciar tiempo contigo.}
 {142}{}{Sh-shoo. ¡Aléjate!}
 {150}{}{¿U-Un Kit de Creación del J-Jardín del Edén? Escuché que Ciudad Refugio tenía uno de ellos. Pero sólo he oído hablar de ese.}
-{151}{}{Estoy herido. ¿Puedes ayudarme?}
+{151}{}{Estoy herida. ¿Puedes ayudarme?}
 {152}{}{Uno de mis amigos está herido. ¿Puedes ayudarle?}
 {153}{}{Pues mi antepasado, el Morador del Refugio, dijo que el Refugio 13 nos debe uno. Necesito encontrarlo.}
 {154}{}{Supongo que eso es todo lo que quería saber. Adiós.}
@@ -30,7 +30,7 @@
 {161}{}{¿En qué ayudas a Harold?}
 {162}{}{Déjame hacerte otra pregunta.}
 {163}{}{¿Puedes curar a la gente?}
-{164}{}{Estoy herido. ¿Puedes ayudarme?}
+{164}{}{Estoy herida. ¿Puedes ayudarme?}
 {165}{}{Uno de mis amigos está herido. ¿Puedes ayudarle?}
 {166}{}{Tendré eso en cuenta si llego a herirme. Gracias. Adiós.}
 {170}{}{D-Déjame echar u-un vistazo. Creo que p-puedo ayudarte.}
@@ -82,10 +82,10 @@
 {292}{}{Bueno, así son las cosas. Adiós.}
 {300}{}{P-poco después, e-escuché que el Morador del Refugio había reparado nuestro suministro de agua. E-el Morador del Refugio nos salvó a todos. ¿Lo entiendes? No importó que fuesemos necrófagos. Por una vez no importó. E-eramos personas de nuevo. Valía la pena a-ayudarnos.}
 {301}{}{Mi antepasado fue el fundador de nuestra tribu. Ese recuerdo es reverenciado por mi gente.}
-{302}{}{Pues yo sólo estoy interesado en salvar a mi tribu. El resto del mundo puede cuidarse por sí mismo. Adiós.}
+{302}{}{Pues yo sólo estoy interesada en salvar a mi tribu. El resto del mundo puede cuidarse por sí mismo. Adiós.}
 {310}{}{Más tarde, supe que el Morador del Refugio destruyó la base d-del ejército mutante. El Morador del Refugio nos s-salvó a todos. Humanos y necrófagos por igual... Podría haber sido parte de eso, pero no t-tuve el coraje suficiente. Sigo sin poder perdonarme por ello.}
 {311}{}{Estoy siguiendo los pasos de mi antepasado. ¿Te gustaría tener otra oportunidad? ¿Te unirás a mí?}
-{312}{}{Estoy seguro de que el trabajo que haces aquí para los necrófagos tiene valor y significado. Ha estado bien oír hablar de mi antepasado; déjame preguntarte algo.}
+{312}{}{Estoy segura de que el trabajo que haces aquí para los necrófagos tiene valor y significado. Ha estado bien oír hablar de mi antepasado; déjame preguntarte algo.}
 {313}{}{Muchos son cobardes en el fondo. No es algo de lo que haya que avergonzarse. Simplemente eres débil.}
 {314}{}{A veces el camino correcto no es el más obvio. Todos tenemos nuestro propósito especial en este mundo.}
 {320}{}{¡E-estoy más c-contento que un toro b-brahmin en un p-pastizal lleno d-de vacas! Puede q-que sea viejo y n-no pueda moverme m-muy rápido, pero s-sí que puedo curarte c-cuando lo necesites.}
@@ -204,10 +204,10 @@
 {2306}{}{No es mi intención ser un obstáculo.}
 {2307}{}{Oh, lo siento.}
 {3000}{}{Pasan demasiadas cosas malas alrededor tuyo. Me voy antes de que algo me pase a mí.}
-{3001}{}{No voy a ayudar a un asesino de niños. Adiós.}
+{3001}{}{No voy a ayudar a una asesina de niños. Adiós.}
 {3002}{}{Me aterras con tu sed de sangre. No voy a seguir siguiéndote.}
-{3003}{}{No quiero tener nada que ver con un esclavista. Adiós.}
-{3004}{}{¡Eres un traidor! Destruiste nuestro reactor. N-no te ayudaré.}
+{3003}{}{No quiero tener nada que ver con una esclavista. Adiós.}
+{3004}{}{¡Eres una traidora! Destruiste nuestro reactor. N-no te ayudaré.}
 {3005}{}{N-no quiero t-tener nada que ver c-contigo.}
 {4000}{}{Vale, pero no me gusta mucho la idea de quedarme solo aquí.}
 {4001}{}{Está bien, si realmente crees que es una buena idea.}

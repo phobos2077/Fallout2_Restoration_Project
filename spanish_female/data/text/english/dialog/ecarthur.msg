@@ -29,7 +29,7 @@
 {128}{}{¡Espera! Yo también estoy en una misión. Busco el sagrado GECK. ¿Lo has visto?}
 {129}{}{Bien, entonces no tiene sentido continuar esta conversación. Nos marchamos.}
 {130}{}{[FIN]}
-{131}{}{¡Maldito plebeyo!}
+{131}{}{¡Maldita plebeya!}
 {132}{}{[FIN]}
 {133}{}{¿GECK habéis dicho? Porque si, tenemos un par de ellos. No necesitamos otro. Gracias de todos modos.}
 {134}{}{Dado que tenéis un par, podríais darme uno.}

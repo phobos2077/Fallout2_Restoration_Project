@@ -1,7 +1,7 @@
 {100}{}{Ves a un joven de aspecto corriente vestido con ropa respetable.}
 {101}{}{Es el recepcionista del edificio.}
 {102}{}{No hay nada en particular en el tipo. Parece el epítome del burócrata en ciernes.}
-{103}{}{Bienvenido al Congreso. ¿Cómo puedo ayudarte?}
+{103}{}{Bienvenida al Congreso. ¿Cómo puedo ayudarte?}
 {104}{}{Has vuelto, por lo que que veo. ¿Cómo puedo ayudarte esta vez?}
 {105}{}{¿Cómo puedo ayudarte?}
 {106}{}{Uhhh...}
@@ -38,7 +38,7 @@
 {137}{}{(Continuar)}
 {138}{}{Oh, eso. Habla con el señor Gunther, ahí atrás.}
 {139}{}{¿El Refugio 15? ¿Quieren hacer un trato? Interesante. Habla con Gunther, ahí atrás.}
-{140}{}{Puedes decírselo tú mismo. Sólo tienes que ir a hablar con Gunther.}
+{140}{}{Puedes decírselo tú misma. Sólo tienes que ir a hablar con Gunther.}
 {141}{}{Eso no suena bien. Ahora, si me perdonas, tengo trabajo que hacer.}
 {142}{}{Tengo que contarle algo.}
 {143}{}{Bien. Dile que hay un espía en su oficina.}
@@ -57,4 +57,4 @@
 {500}{}{Perdóname, pero no puedes entrar aquí sin permiso.}
 {501}{}{Tengo que pedirte que dejes de manipular eso.}
 {502}{}{Este es el último aviso: vete o afronta las consecuencias.}
-{503}{}{Seguridad: por favor, ocupaos de nuestro "invitado".}
+{503}{}{Seguridad: por favor, ocupaos de nuestra "invitada".}

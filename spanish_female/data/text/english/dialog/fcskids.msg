@@ -1,10 +1,10 @@
 {100}{}{Ves a un chico.}
 {101}{}{Ves a un niño.}
 {102}{}{Este chico se parece mucho a los otros chicos.}
-{103}{}{Pareces malo.}
+{103}{}{Pareces mala.}
 {104}{}{No me hagas daño, ¿vale?}
 {105}{}{¿Qué te pasa en los ojos?}
-{106}{}{¿Eso es un lao wai?}
+{106}{}{¿Eso es una lao wai?}
 {107}{}{¿Qué eres?}
 {108}{}{¿Te gusta alguien?}
 {109}{}{¿No le vas a hacer daño a mi mamá y mi papá, verdad?}

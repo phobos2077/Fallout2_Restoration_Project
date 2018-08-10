@@ -9,10 +9,10 @@
 {152}{}{Gracias por salvar a la gente de Modoc.}
 {153}{}{¿Qué estás haciendo?}
 {154}{}{¡Eh! ¡Deja eso tranquilo!}
-{155}{}{¡Ladrón!}
+{155}{}{¡Ladrona!}
 {156}{}{Lo siento, este puesto comercial está cerrado indefinidamente debido a la sequía.}
 {157}{}{¿Quién dice que he venido aquí para comerciar?}
-{158}{}{Soy nuevo aquí. ¿Qué puedes contarme sobre este pueblo?}
+{158}{}{Soy nueva aquí. ¿Qué puedes contarme sobre este pueblo?}
 {159}{}{¿No tendrás un reloj de oro a la venta?}
 {160}{}{¡GECK!}
 {161}{}{¿Qué puedo hacer por ti?}
@@ -33,7 +33,7 @@
 {179}{}{Hay un borracho en La Guarida que coincide con la descripción de Karl. También dice que solía ser granjero.}
 {180}{}{Esos cadáveres eran falsos. Tan sólo eran muñecos cubiertos con tripas de brahmin. Se suponía que debían asustaros para manteneros lejos de las cosechas.}
 {181}{}{Otra vez, ¿qué se supone que debo hacer?}
-{182}{}{¿Qué? Oh, debes ser nuevo por aquí. Bienvenido a Modoc. Mi nombre es Jo, y llevo el puesto comercial de Modoc.}
+{182}{}{¿Qué? Oh, debes ser nueva por aquí. Bienvenido a Modoc. Mi nombre es Jo, y llevo el puesto comercial de Modoc.}
 {183}{}{Estoy en una misión. Busco el sagrado GECK. ¿Sabes dónde podría encontrarlo?}
 {186}{}{Vaya, estás de suerte. Resulta que sé donde está. Supongo que tenemos negocios entre manos, después de todo.}
 {187}{}{¿Negocios? Tan sólo dime donde puedo encontrar el sagrado GECK y seguiré mi camino.}
@@ -62,7 +62,7 @@
 {210}{}{[Le detienes a tiempo]. ¡Espera! Ahora veo que estás diciendo la verdad y realmente necesitáis ayuda. Os ayudaré.}
 {211}{}{Ahora, coge tu dedo y fríelo en una salsa ligera de ajo. ¡Un plato muy delicioso!}
 {212}{}{La granja está a un día de viaje del pueblo, al nordeste de aquí. [Saca un mapa y señala a un punto al nordeste de Modoc]. Vuelve cuando sepas algo.}
-{213}{}{[Jo se envuelve tranquilamente la mano en una venda y entonces saca ¡una escopeta!] ¡Veamos si te ríes de esto, listillo!}
+{213}{}{[Jo se envuelve tranquilamente la mano en una venda y entonces saca ¡una escopeta!] ¡Veamos si te ríes de esto, listilla!}
 {214}{}{[¡BOOM!]}
 {215}{}{¡Tienes que estar bromeando! No voy a cortarme un dedo. ¡Estoy desesperado, pero no soy estúpido! Ahora, ¿quieres el trabajo o no?}
 {216}{}{Vale, lo haré de todos modos. ¿Dónde se encuentra esa granja?}
@@ -102,7 +102,7 @@
 {271}{}{Gracias por la información, me marcho ya.}
 {272}{}{Nah… Tan sólo es que me tocó el palo más corto. Resulta que estaba fuera buscando suministros cuando volví y la gente del pueblo me eligió. No parece que nadie más quisiera el trabajo. Excepto por alguna ocasión excepcional, en realidad no tengo nada que hacer... lo que me parece bien.}
 {273}{}{¿Puedo hacerte más preguntas?}
-{274}{}{¡Cómo! ¿Estás intentando hacerte el listo? Todo el mundo sabe que el viejo Corny perdió su reloj de oro. Hasta me tuvo buscándolo en casa de su mejor amigo. Si sabes lo que te conviene, mejor que no metas las narices en ese asunto. ¡Buenos días!}
+{274}{}{¡Cómo! ¿Estás intentando hacerte la lista? Todo el mundo sabe que el viejo Corny perdió su reloj de oro. Hasta me tuvo buscándolo en casa de su mejor amigo. Si sabes lo que te conviene, mejor que no metas las narices en ese asunto. ¡Buenos días!}
 {275}{}{[Toma el mensaje de los Escorias]. ¿Qué es esto? Es de la gente que vive en la Granja Fantasma. Es increíble, has leído... ups, por supuesto que no lo has leído. Todavía hay muchas cosas que necesitan ser acordadas entre los Escorias y Modoc, pero es todo demasiado complejo para que tu pequeño cerebro lo entienda, así que no tienes que preocuparte por ello.}
 {276}{}{¡GECK ahora!}
 {277}{}{Vaya, eso podría ser un poco difícil. Mira, realmente no sé qué es un GECK. Pero sé de un lugar llamado Gecko. Nunca he estado allí pero he oído que está al este de aquí. Me siento muy mal por haberte engañado. Ojala pudiera darte algo más que esto en compensación, pero lo más que puedo ofrecerte es un descuento en mis productos. Ahora mismo no tengo mucho stock, pero estoy seguro de que iremos recolectando cosas por aquí y pronto estaré encantado de ayudarte a suministrarte.}

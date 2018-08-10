@@ -3,13 +3,13 @@
 {151}{}{Ves a un capitán mercenario. Está examinando la zona y portando su pistola.}
 {200}{}{Vaya, que cojonazos los de este hijo de puta...}
 {201}{}{¡Contacto!}
-{202}{}{¡Tenemos intrusos, muchachos!}
-{203}{}{¡A divertirse, muchachos, tenemos un intruso!}
+{202}{}{¡Tenemos una intrusa, chicos!}
+{203}{}{¡Dispersaos, chicos, tenemos una intrusa!}
 {204}{}{Vaya, mira quién ha venido aquí a morir…}
 {205}{}{¡Maldición! ¡Alguien nos ha encontrado!}
 {206}{}{Tienes huevos viniendo aquí…}
 {207}{}{Has venido al lugar equivocado, puta.}
-{208}{}{Vaya, mira cómo se pavonea esta golfa...}
+{208}{}{Vaya, mira la soberbia de esta puta...}
 {215}{}{Mejor será llamar a esos equipos pronto...}
 {216}{}{Creo que el equipo Bravo se encuentra a unos pocos clicks al sur de Ciudad Refugio... aún estarán siguiendo el rastro de la caravana.}
 {217}{}{Será mejor que esa rata del desierto aparezca pronto... esa clase de mierda no cuela por aquí.}

@@ -5,7 +5,7 @@
 {104}{}{"Recibido, te tengo en la mira": lo siento, pero me pillas liado con algo ahora mismo.}
 {105}{}{No puedo hablar ahora.}
 {106}{}{Eres libre de echar un vistazo, pero no toques nada.}
-{107}{}{¿Estás tonto, andando por aquí sin uniforme? ¡Ve a vestirte!}
+{107}{}{¿Estás tonta, andando por aquí sin uniforme? ¡Ve a vestirte!}
 {108}{}{Si el sargento te pilla sin el uniforme, te va a partir el culo.}
 {109}{}{¿Por qué no llevas puesto el uniforme?}
 {110}{}{¡Ay, carajo! ¡Nos invaden! ¡Alerta!}

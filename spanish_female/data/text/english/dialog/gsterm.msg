@@ -115,7 +115,7 @@
 {363}{}{Hmm, parece que todo está desactivado o cerrado. Oh, en fin.}
 {370}{}{Accediendo… Acceso a estación Enclave denegado.}
 {371}{}{Accediendo… de nuevo… Acceso a estación Enclave denegado.}
-{372}{}{Accediendo... otra vez... eres un cabrón persistente, ¿eh? ... Acceso a estación Enclave denegado.}
+{372}{}{Accediendo... otra vez... eres una cabróna persistente, ¿eh? ... Acceso a estación Enclave denegado.}
 {373}{}{Accediendo... otra vez... ¿aún no te has cansado de esto?... Acceso a estación Enclave denegado.}
 {374}{}{Accediendo... otra vez... ¿no tienes nada mejor que hacer con tu tiempo?... Acceso a estación Enclave denegado.}
 {375}{}{Se acabó. Ya he tenido bastante de esta constante insistencia. Si lo intentas sólo una vez más, vas a lamentarlo.}
@@ -137,13 +137,13 @@
 {412}{}{Parece que hay más cosas funcionando que no. A ver qué conseguimos aquí.}
 {420}{}{Reconocimiento de localización de tareas no operativo. Unidad incapaz de movimiento a localizaciones reconocidas en distancias extensas. Recomendación: Mover unidad a localizaciones intermedias como puntos de control hasta la localización de tarea definitiva.}
 {421}{}{Me pregunto qué ocurrirá si no indico las tareas en el orden correcto.}
-{422}{}{Creo que ya he leído suficientes avisos. Estoy listo para usar esta cosa ahora.}
+{422}{}{Creo que ya he leído suficientes avisos. Estoy lista para usar esta cosa ahora.}
 {430}{}{Unidad regresa a su bahía si el programa de mando contiene erores de terminal.}
 {431}{}{Oh, bueno; eso lo explica. Me pregunto qué pasa con el fallo del circuito lógico.}
-{432}{}{Estoy listo para usar esta cosa ahora.}
+{432}{}{Estoy lista para usar esta cosa ahora.}
 {440}{}{Dirección manual: La unidad RR&MR debe dirigirse manualmente a su destino objetivo. La unidad seguirá las órdenes de mando dadas, pero si su camino está bloqueado o la unidad recibe excesivos daños volverá automáticamente a su bahía.}
 {441}{}{¿Dónde tengo que mover el robot? Déjame mirar los procedimientos.}
-{442}{}{Supongo que estoy listo para empezar.}
+{442}{}{Supongo que estoy lista para empezar.}
 {443}{}{Desconexión.}
 {450}{}{Solicitud de información sobre el procedimiento:}
 {451}{}{Quiero saber dónde necesito ir para reemplazar el regulador hidroeléctrico magnetosférico.}
@@ -151,11 +151,11 @@
 {453}{}{Desconexión.}
 {460}{}{El regulador hidroeléctrico magnetosférico se localiza en la pared este del núcleo del reactor. Se encuentra justo a la derecha de la válvula principal de cierre del refrigerante.}
 {461}{}{¿Dónde está la válvula principal de cierre del refrigerante?}
-{462}{}{Supongo que estoy listo para empezar.}
+{462}{}{Supongo que estoy lista para empezar.}
 {463}{}{Desconexión.}
 {470}{}{La válvula principal de cierre del refrigerante se localiza cerca de la pared este del núcleo del reactor. La válvula está controlada por una gran rueda roja.}
 {471}{}{No debería ser demasiado difícil de encontrar... siempre y cuando la pintura roja no se haya caído.}
-{472}{}{Supongo que estoy listo para empezar.}
+{472}{}{Supongo que estoy lista para empezar.}
 {473}{}{Desconexión.}
 {480}{}{Control manual de emergencia de la unidad RR&MR: Para mover la unidad se deben dar órdenes de Giro a la izquierda, Giro a la derecha, Avance, Retroceso, y la última orden de cualquier secuencia debe ser Realizar procedimiento.}
 {482}{}{Si esto se ha intentado antes, mostrar aquí la serie de órdenes anterior. ¿Órdenes?: MoveVar1}

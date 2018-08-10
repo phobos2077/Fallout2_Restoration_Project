@@ -26,12 +26,12 @@
 {125}{}{*Snfff*}
 {126}{}{¡¿Qu-?! ¡Aighhh!}
 {127}{}{¡Aieeeee!}
-{128}{}{¡Eh, eh, tranquilo!}
+{128}{}{¡Eh, eh, tranquila!}
 {129}{}{¡¿Cuál es tu puñetero problema?! ¡Calma!}
 {130}{}{C-ca-casi me m-matas de un s-su-susto.}
 {131}{}{¡Aieeeeee! ¡Aieeeeee!}
 {132}{}{Lo siento, no pretendía asustarte.}
-{133}{}{Q-QUI-QUIZÁ si prestaras atención a lo que sucede a tu alrededor, entonces no nos provocarías a AMBOS ataques al corazón, amigo.}
+{133}{}{Q-QUI-QUIZÁ si prestaras atención a lo que sucede a tu alrededor, entonces no nos provocarías a AMBOS ataques al corazón, amiga.}
 {134}{}{E-eso está bien.}
 {135}{}{Lo s-so-siento.}
 {136}{}{No s-son mu-muchas las p-personas que en-entran en el Refu-fugio.}
@@ -63,12 +63,12 @@
 {162}{}{Oh. Gracias por la información.}
 {163}{}{Nh-n-no lo sé. M-McClure está realmente p-pre-preocupado por eso.}
 {164}{}{ }
-{165}{}{¿Puedes decirme dónde está la computadora central del Refugio?}
+{165}{}{¿Puedes decirme dónde está la computadora central?}
 {166}{}{Entonces iré a hablar con él. Gracias.}
 {167}{}{H-ho-hola de nuevo. ¿N-ne-ne ne-nece-necesitas algo?}
 {168}{}{ }
 {169}{}{Geeechk}
-{170}{}{¡¿Podrías dejar de cantar esa maldita canción?! Me está volviendo loco.}
+{170}{}{¡¿Podrías dejar de cantar esa maldita canción?! Me está volviendo loca.}
 {171}{}{Tienes una gran voz para el canto. Deberías seguir practicando.}
 {172}{}{¿Puedes repetirme que estás haciendo aquí?}
 {173}{}{No importa. Lamento molestarte.}

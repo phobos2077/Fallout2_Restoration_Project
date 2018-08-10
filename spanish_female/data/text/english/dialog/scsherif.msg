@@ -1,8 +1,8 @@
 {100}{}{Ves a un hombre de pelo gris con el uniforme policial de la RNC.}
 {101}{}{Es el sheriff de RNC.}
 {102}{}{Este tipo lleva el reglamento a rajatabla: corte de pelo al cero y mandíbula cuadrada; la clase de tipo que no admite estupideces.}
-{103}{}{Bienvenido a RNC, forastero. Me llamo Dumont, sheriff Dumont. Espero que disfrutes de tranquilidad mientras estés por aquí.}
-{104}{}{Un consejo del sheriff Dumont, forastero: a esta ciudad no le importa los de tu clase. Cualquier problema, y te pondrá las cosas difíciles. Y ahora, ¿hay algo que pueda hacer por ti?}
+{103}{}{Bienvenida a RNC, forastera. Me llamo Dumont, sheriff Dumont. Espero que disfrutes de tranquilidad mientras estés por aquí.}
+{104}{}{Un consejo del sheriff Dumont, forastera: a esta ciudad no le importa los de tu clase. Cualquier problema, y te pondrá las cosas difíciles. Y ahora, ¿hay algo que pueda hacer por ti?}
 {105}{}{Hola de nuevo. ¿Puedo hacer algo por ti?}
 {106}{}{Bien, escúpelo.}
 {107}{}{Urrrgh.}
@@ -10,7 +10,7 @@
 {109}{}{¿Tienes un GECK?}
 {110}{}{Estoy buscando algo de trabajo legal. ¿Puedes ayudarme?}
 {111}{}{Oh, genial. Era todo de color de rosa.}
-{112}{}{Primitivo, ¿eh? Tú. ¿Preguntas? Pregúntame. ¿Vale?}
+{112}{}{Primitiva, ¿eh? Tú. ¿Preguntas? Pregúntame. ¿Vale?}
 {113}{}{¿Refugio 13?}
 {114}{}{GECK?}
 {115}{}{De acuerdo.}
@@ -39,7 +39,7 @@
 {138}{}{Tandi es gran jefe. Tandi quiere ayuda. Habla con Tandi. Ve a casa de Con-gre-so. ¿Vale?}
 {139}{}{GECK?}
 {140}{}{De acuerdo.}
-{141}{}{No GECK. Yo sano. No enfermo.}
+{141}{}{No GECK. Yo sana. No enferma.}
 {142}{}{¿Refugio 13?}
 {143}{}{De acuerdo.}
 {144}{}{Mira a tu alrededor. RNC es un lugar en crecimiento. Necesitamos piezas, computadoras, un poco de todo. Ha sido un problema desde que los okupas se trasladaron al Refugio 15.}
@@ -52,7 +52,7 @@
 {151}{}{¿Tú? Hmmm... no podría. Ni siquiera te conozco. Pero está buscando contratar a alguien, así que puedes hablar con ella por ti mismo. Su oficina está en el Salón del Congreso.}
 {152}{}{Gracias. Lo haré.}
 {153}{}{¿Sabes algo de un GECK?}
-{154}{}{¡Vaya, eso es muy audaz por tu parte, forastero... y también jodidamente presuntuoso. ¡Ni te conozco lo más mínimo ni me gusta la pinta que tienes! No te recomendaría a nadie. Ahora, tengo trabajo que hacer.}
+{154}{}{¡Vaya, eso es muy audaz por tu parte, forastera... y también jodidamente presuntuoso. ¡Ni te conozco lo más mínimo ni me gusta la pinta que tienes! No te recomendaría a nadie. Ahora, tengo trabajo que hacer.}
 {155}{}{Bueno, está Duppo, de los Comerciantes. Se encarga de los contratos para las caravanas de brahmines. También está el señor Westin. Si hablas con él, dile que yo te he enviado. Incluso la presidente Tandi ha estado buscando algo de ayuda.}
 {156}{}{Duppo, de la Asociación de Comerciantes, contrata mano de obra para las caravanas de brahmines. Inténtalo con él.}
 {157}{}{¿Westin?}
@@ -63,7 +63,7 @@
 {162}{}{¿Hay algún trabajo que hacer en esta ciudad?}
 {163}{}{No importa. Me marcho.}
 {164}{}{Tan solo asegúrate de que las cosas sigan así. Adiós.}
-{165}{}{Hiciste un maldito buen trabajo con el viejo Jack, forastero. Como sheriff, seguiré con el tema desde ahora.}
+{165}{}{Hiciste un maldito buen trabajo con el viejo Jack, forastera. Como sheriff, seguiré con el tema desde ahora.}
 {166}{}{Es todo tuyo.}
 {167}{}{¿Qué hay de la recompensa?}
 {168}{}{Bueno, no puedo decir que tenga ninguna recompensa en metálico que entregar. Lo mejor que puedo hacer es darte mi agradecimiento.}

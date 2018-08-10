@@ -9,13 +9,13 @@
 {108}{}{Ves a una mujer que posiblemente trabaje en las minas.}
 {109}{}{Ves a una granjera.}
 {110}{}{¿Qué estás mirando?}
-{111}{}{Bienvenido a la gran ciudad.}
+{111}{}{Bienvenida a la gran ciudad.}
 {112}{}{Hola.}
 {113}{}{¿Estarás mucho en Redding?}
 {114}{}{Tu primera vez en Redding, ¿no?}
 {115}{}{No queremos problemas aquí.}
 {116}{}{Yo también te estoy observando.}
-{117}{}{Hola, extranjero.}
+{117}{}{Saludos, forastera.}
 {118}{}{¿Cómo te va?}
 {119}{}{¿Qué estás haciendo?}
 {120}{}{Buenos días a ti.}
@@ -31,24 +31,24 @@
 {130}{}{A esta mujer todavía le queda mucho por beber.}
 {131}{}{Ves a un borracho.}
 {132}{}{Esta mujer parece tener un buena borrachera.}
-{133}{}{Hola, forastero.}
+{133}{}{Hola, forastera.}
 {134}{}{Hola a todos.}
 {135}{}{Hmmm.}
 {136}{}{Urp.}
 {137}{}{Glug-glug-glug.}
-{138}{}{Gracias, forastero.}
-{139}{}{No está mal para un tribal.}
+{138}{}{Gracias, forastera.}
+{139}{}{No está mal para una tribal.}
 {140}{}{Necesitaba eso.}
 {141}{}{Mmm-hmmm.}
 {142}{}{Gracias.}
-{143}{}{Eres mi mejor amigo.}
+{143}{}{Eres mi mejor amiga.}
 {144}{}{Vaya colega.}
-{145}{}{Eres el mejor.}
+{145}{}{Eres la mejor.}
 {146}{}{Los tribales también son personas.}
 {147}{}{Nada como tener buenos amigos ¿no?}
 {148}{}{Creo que voy a cantar…}
 {149}{}{Devolveré más de lo que te dije antes.}
-{150}{}{Vaya amigo.}
+{150}{}{Vaya amiga.}
 {151}{}{Los tribales sois nuestra clase de gente.}
 {152}{}{Hip, hip, hurra por el tribal.}
 {153}{}{[Canta] Seco como un hueso estoy…}
@@ -87,12 +87,12 @@
 {186}{}{Esta persona parece entusiasmada.}
 {187}{}{Ves a una persona que parece depender del dinero.}
 {188}{}{Esta persona está entusiasmada.}
-{189}{}{¡Atrapadle!}
+{189}{}{¡Atrapadla!}
 {190}{}{Ahí va el sueldo de una semana... otra vez.}
 {191}{}{¡Siiii!}
 {192}{}{¡Muerte, muerte, muerte!}
 {193}{}{¡Mordedle la yugular!}
-{194}{}{¡Lisiad al bastardo!}
+{194}{}{¡Lisiad a la zorra!}
 {195}{}{¡A por él!}
 {196}{}{¡Da la vuelta! ¡No, por el otro lado!}
 {197}{}{¡Atentos!}
@@ -113,9 +113,9 @@
 {212}{}{Ves a un pequeñajo.}
 {213}{}{Ves a una niña.}
 {214}{}{Ves a una niña muy guapa.}
-{215}{}{Hola, señor.}
-{216}{}{¿Qué está haciendo, señor?}
-{217}{}{¿Es usted un caníbal?}
+{215}{}{Hola, señora.}
+{216}{}{¿Qué está haciendo, señora?}
+{217}{}{¿Es usted una caníbal?}
 {218}{}{¡Corred, corred!!}
 {219}{}{Una vez toqué un gecko muerto.}
 {220}{}{¿Se come a la gente?}
@@ -124,7 +124,7 @@
 {223}{}{¿Eres de muy lejos?}
 {224}{}{¡A que no me pillas!}
 {225}{}{¡ña ña ñaña!}
-{226}{}{Eres muy raro.}
+{226}{}{Eres muy rara.}
 {227}{}{Hueles mal.}
 {228}{}{Hola, señora.}
 {229}{}{¿Qué está haciendo, señora?}

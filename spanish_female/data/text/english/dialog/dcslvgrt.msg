@@ -7,7 +7,7 @@
 {204}{}{¿Aruk kun sung?}
 {215}{}{[Aidan te mira de arriba a abajo.] Bueno, ties pinta de que encajarías bien aquí, colega, pero tendrás que hablar con Metzger, por supuesto. Sigue por la puerta del fondo.}
 {216}{}{[Aidan te mira de arriba a abajo.] No ties pinta de poder con ello, amigo, ¿pero quién soy yo pa juzgar? Tendrás que hablar con Metzger. Está tras la puerta del fondo.}
-{217}{}{He dicho que hables con Metzger. ¿Tas sordo e idiota o sólo idiota?}
+{217}{}{He dicho que hables con Metzger. ¿Tas sorda e idiota o sólo idiota?}
 {218}{}{¿Quién es Metzger?}
 {219}{}{Otra pregunta.}
 {220}{}{Gracias, lo haré.}
@@ -32,7 +32,7 @@
 {255}{}{Comida.}
 {256}{}{Matar.}
 {257}{}{Uhg.}
-{270}{}{Ah, uno sediento de sangre. Bien... habla con el jefe. Puede que tengamos sitio para ti. Cruza la puerta del fondo.}
+{270}{}{Ah, una sedienta de sangre. Bien... habla con el jefe. Puede que tengamos sitio para ti. Cruza la puerta del fondo.}
 {271}{}{Metzger nunca ha tenido a una puta esclavista, pero si de verdad tienes tanta sed de sangre, ve a verle. Está justo tras la puerta del fondo.}
 {272}{}{Bieeeen.}
 {273}{}{Uh.}
@@ -98,7 +98,7 @@
 {415}{}{¿Está en venta?}
 {416}{}{Vale, gracias.}
 {430}{}{Eh, chicos, mirad quien ha vuelto.}
-{431}{}{¡Corred, es un esclavista! Ah, me parto.}
+{431}{}{¡Corred, es una esclavista! Ah, me parto.}
 {432}{}{¿Vuelves a por más acción?}
 {433}{}{Ya sabes el camino.}
 {434}{}{Vamos, entra.}

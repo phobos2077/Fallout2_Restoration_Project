@@ -1,7 +1,7 @@
 {100}{}{Ves a un vagabundo de apariencia amistosa.}
 {101}{}{Ves a Marc.}
 {102}{}{Ves a un vagabundo de apariencia amistosa.}
-{103}{}{Oye, hijo de puta, ¿cómo pudiste hacernos esto?}
+{103}{}{Oye, hija de puta, ¿cómo pudiste hacernos esto?}
 {104}{}{¿Qué puedo hacer por ti?}
 {105}{}{¿Qué puedo hacer por ti?}
 {106}{}{¡Ooh! ¡Ooh! ¡Aah!}

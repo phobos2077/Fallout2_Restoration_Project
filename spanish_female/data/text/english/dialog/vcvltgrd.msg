@@ -20,7 +20,7 @@
  más difícil de lo que tiene que ser.}
 {119}{}{De acuerdo, vale, vale... me iré.}
 {120}{}{Como me toques, vas a usar tu culo como sombrero.}
-{121}{}{Hola, Ciudadano. ¿En qué puedo ayudarte?}
+{121}{}{Hola, Ciudadana. ¿En qué puedo ayudarte?}
 {122}{}{Me gustaría entrar en el Refugio.}
 {123}{}{Yo entro en agujero GRANDE junto a montaña}
 {124}{}{Ahora mismo en nada.}
@@ -36,7 +36,7 @@
 {133}{}{Me gustaría entrar en el Refugio.}
 {134}{}{Nada, lamento molestarte.}
 {135}{}{Lo lamento, pero sólo los Ciudadanos pueden entrar en el Refugio.}
-{136}{}{Yo *soy* un Ciudadano.}
+{136}{}{Yo *soy* una Ciudadana.}
 {137}{}{Lo siento... no te conozco. Tengo órdenes de dejar pasar al Refugio sólo a Ciudadanos que conozca.
  Tal vez la Primer Ciudadano Lynette pueda ayudarte. Buenos días.}
 {138}{}{Hola, capitán. ¿Puedo ayudarte?}
@@ -64,18 +64,18 @@
 {160}{}{¡Guardias! ¡Intrusos en la ciudad!}
 {161}{}{Hrnghhhhhhhh!}
 {162}{}{Estarás muerto antes de que aparezcan esos amigos tuyos.}
-{163}{}{¡Oye! ¡Eres el que derrotó al Enclave!}
-{164}{}{Mira, es el que derrotó al Enclave!}
-{165}{}{Bienvenido a Ciudad Refugio.}
+{163}{}{¡Oye! ¡Eres la que derrotó al Enclave!}
+{164}{}{Mira, es la que derrotó al Enclave!}
+{165}{}{Bienvenida a Ciudad Refugio.}
 {166}{}{Tu lucha contra el Enclave impresionó incluso a la Primer Ciudadano.}
 {167}{}{He oído que has viajado hacia el sur incluso hasta San Francisco. ¿Es cierto?}
 {168}{}{¿Es cierto que los Estados Unidos aún luchan en la guerra?}
 {169}{}{Deberías catalogar tus viajes en la computadora de Ciudad Refugio.}
 {170}{}{Estás invitado a quedarte en Ciudad Refugio tanto tiempo como quieras.}
-{171}{}{Deberías catalogar tus hazañas contra el Enclave y añadirlas en el Servidor de Listas.}
+{171}{}{Deberías catalogar tus hazañas contra el Enclave y añadirlas al Servidor de Listas.}
 {172}{}{Capitán.}
 {173}{}{Ciudad Refugio prevalece, capitán.}
 {174}{}{Hola, capitán.}
-{175}{}{Ciudad Refugio prevalece, Ciudadano.}
-{176}{}{Ciudadano.}
-{177}{}{Hola, Ciudadano.}
+{175}{}{Ciudad Refugio prevalece, Ciudadana.}
+{176}{}{Ciudadana.}
+{177}{}{Hola, Ciudadana.}

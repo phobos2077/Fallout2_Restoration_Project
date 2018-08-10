@@ -1,18 +1,18 @@
 {100}{}{Ves a un hombre viejo con una barba rala y una gran nariz roja.}
 {101}{}{Ves a Whisky Bob.}
-{110}{}{Hola, ¿qué tal? Mi nombre es Whisky Bob. ¿Cuál es el tuyo, amigo?}
+{110}{}{Hola, ¿qué tal? Mi nombre es Whisky Bob. ¿Cuál es el tuyo, amiga?}
 {111}{}{Mira que preciosidad. Mi nombre es Bob, Whisky Bob: ¿cuál es el tuyo?}
 {112}{}{¿Whicky Gob? ¿Zug, zug?}
 {113}{}{Nariz roja (je, je).}
 {114}{}{Yo }
 {115}{}{. Marcho.}
-{120}{}{No eres muy listo, ¿verdad? Bueno, de todas formas gracias por la charla. Hasta luego.}
+{120}{}{No eres muy lista, ¿verdad? Bueno, de todas formas gracias por la charla. Hasta luego.}
 {121}{}{Cariño, me rompes el corazón cada vez que abres la boca. Quizás en otro momento pueda llevarte al barrio de los tramperos y enseñarte mis 'grabados' (je, je). Adiós, preciosa.}
 {130}{}{Bien, señor, quizás nos veamos de nuevo más tarde. Adiós.}
 {131}{}{Bien, espero verte de nuevo por aquí, preciosa. Adiós.}
 {140}{}{Humph, no quiero que seas mi compañero de borracheras. Vete.}
 {141}{}{Humph, creo que sería mejor que fuera a la Casa de Baños de Sally que perder el tiempo contigo. Vete.}
-{150}{}{Saludos, forastero. Mi nombre es Whisky Bob. ¿Cuál es el tuyo?}
+{150}{}{Saludos, forastera. Mi nombre es Whisky Bob. ¿Cuál es el tuyo?}
 {151}{}{Mi nombre es }
 {152}{}{. Encantado de conocerte, Whisky Bob.}
 {153}{}{Soy }
@@ -23,8 +23,8 @@
 {162}{}{Ahora mismo no puedo permitírmelo.}
 {163}{}{No, no voy a invitarte, Whisky Bob.}
 {164}{}{Con un apodo como el tuyo, quizás deberías ser tú quien pidiera la bebida.}
-{170}{}{Gracias, compañero. Ahora que me he tomado la copa, siento que puedo compartir contigo un pequeño problemilla que tengo. Oye... ¿quizá tú pudieras ayudarme?}
-{171}{}{Bueno, ahora mismo estoy bastante ocupado. No creo que pueda serte de ayuda.}
+{170}{}{Gracias, compañera. Ahora que me he tomado la copa, siento que puedo compartir contigo un pequeño problemilla que tengo. Oye... ¿quizá tú pudieras ayudarme?}
+{171}{}{Bueno, ahora mismo estoy bastante ocupada. No creo que pueda serte de ayuda.}
 {172}{}{¿Cómo puedo ayudarte?}
 {173}{}{Si no me lleva mucho tiempo, supongo que podría ayudarte. Por algo a cambio, por supuesto.}
 {174}{}{Quizás pueda ayudarte, siempre que no sea demasiado peligroso.}
@@ -37,7 +37,7 @@
 {200}{}{No, no va a llevarte mucho tiempo y no es nada peligroso. Probablemente. ¿Quieres que te lo cuente o no?}
 {201}{}{Vale, adelante, cuéntamelo.}
 {202}{}{Me parece que ya he oído bastante. Adiós.}
-{210}{}{Es justo. Eres bastante listo, no voy a negarlo. Aquí hay algo de licor. Ahora a cambio, vas a escuchar mi pequeño problema.}
+{210}{}{Es justo. Eres bastante lista, no voy a negarlo. Aquí hay algo de licor. Ahora a cambio, vas a escuchar mi pequeño problema.}
 {220}{}{Todo lo que tienes que hacer es encontrar una pequeña choza justo al sur del pueblo. Ve adentro y echa algo de leña en el alambique. Vuelve aquí y te daré tu dinero. Pero tienes que hacerlo antes de terminar el día de mañana, o mi lote de whisky se echará a perder.}
 {221}{}{Parece bastante sencillo. De acuerdo, lo haré.}
 {222}{}{No voy a ayudarte a hacer esto. Lo siento, Bob.}
@@ -45,7 +45,7 @@
 {230}{}{¿Lo harás? Genial. Recuerda, tienes que hacerlo pronto o mi whisky se echará a perder. Muchas gracias. Espero verte pronto.}
 {231}{}{Sin problemas, Bob. Te veo en un día.}
 {232}{}{Me alegra ser de ayuda. Pero antes, vas a contarme que está pasando últimamente en el pueblo.}
-{240}{}{Bien, eres un negociante muy listo, no voy a negarlo. Vale, que sean 65 dólares. ¿Lo harás?}
+{240}{}{Bien, eres un negociante muy lista, no voy a negarlo. Vale, que sean 65 dólares. ¿Lo harás?}
 {241}{}{Buen intento, pero 50 dólares es lo más que estoy dispuesto a pagar. No puedo permitirme pagarte más.}
 {242}{}{Muy bien, lo haré.}
 {243}{}{No voy a hacerlo por ese dinero. Mi tiempo vale mucho más que eso.}
@@ -54,7 +54,7 @@
 {252}{}{Claro, Bob... hablemos de bebidas y negocios.}
 {253}{}{Creo que ya tuve suficiente la última vez.}
 {260}{}{¿Has acabado de reabastecer mi alambique? Nah, me parece que aún no lo has hecho. Asegúrate de hacerlo y vuelve cuando hayas acabado.}
-{270}{}{¡Alguien me ha destrozado el alambique! Y eres la única persona a la que se lo había contado. Si fuera más joven, y tuviera la energía de antes, te enseñaría una buena lección. ¡Sal de mi vista, traidor!}
+{270}{}{¡Alguien me ha destrozado el alambique! Y eres la única persona a la que se lo había contado. Si fuera más joven, y tuviera la energía de antes, te enseñaría una buena lección. ¡Sal de mi vista, traidora!}
 {280}{}{Bien, gracias por reabastecer mi alambique. Aquí están tus 50 dólares. ¿Tienes alguna pregunta que pueda responder?}
 {281}{}{Gracias. Ahora no tendré que ir cojeando hasta allí... incluso aún que me haya costado 65 dólares. Aquí está tu dinero. ¿Alguna pregunta que pueda responder?}
 {282}{}{Sí. Cuéntame que está pasando en el pueblo últimamente.}

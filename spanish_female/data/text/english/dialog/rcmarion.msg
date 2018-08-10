@@ -4,7 +4,7 @@
 {103}{}{No eres más que un taco no muy grande en un plato combinado.}
 {104}{}{Aquí no se reparten folletos. ¡Y ahora piérdete!}
 {105}{}{No eras más que un par de patatas fritas de un Happy Meal, ¿verdad?}
-{106}{}{Sigue caminando, perrito.}
+{106}{}{Sigue caminando, cachorrita.}
 {107}{}{Sigue avanzando.}
 {108}{}{Muy buenas. Mi nombre es Earl Marion. Soy el sheriff por estos pagos. Suena francamente
  pintoresco, ¿verdad? Bueno, pues ese es mi trabajo.}
@@ -15,7 +15,7 @@
 {113}{}{Hola, Ranger. Mi nombre es Earl Marion y soy el sheriff de Redding. Me alegra verte en
  la ciudad, Ranger.}
 {114}{}{Hola, Ranger. ¿Qué puede hacer el sheriff Marion por ti?}
-{115}{}{¿Cómo sabías que soy un Ranger?}
+{115}{}{¿Cómo sabías que soy una Ranger?}
 {116}{}{Siendo el sheriff, ¿qué haces en la ciudad?}
 {117}{}{Un placer estar aquí. Sólo pasaba a ver qué tal, sheriff. Ya nos veremos. Adiós.}
 {118}{}{Simple. Lo tienes tatuado en la nuca.}
@@ -229,7 +229,7 @@
 {271}{}{¿Por qué lo llaman Rana Morton?}
 {272}{}{Por supuesto, sheriff.}
 {273}{}{Pues lo lamento, pero esa no es mi tipo favorito de velada, mon frere. Adiós.}
-{274}{}{Se llama Morton, y le llaman Rana porque es un bicho rastrero. ¿Listo para ir a por él?}
+{274}{}{Se llama Morton, y le llaman Rana porque es un bicho rastrero. ¿Lista para ir a por él?}
 {275}{}{Ohhhh. Ouch. Eso es terrible. El dolor, el dolor…}
 {276}{}{Lo haré.}
 {277}{}{No creo que quiera arriesgarme a tratar con ese bicho precisamente, sheriff. Adiós.}

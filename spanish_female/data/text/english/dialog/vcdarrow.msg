@@ -4,12 +4,12 @@
 {102}{}{Ves a un Ciudadano con un uniforme azul brillante. Es como el uniforme del Morador del Refugio, pero sin
  un número a la espalda.}
 {103}{}{::aplausos::}
-{104}{}{¡Es el héroe! ¡Mirad!}
-{105}{}{¡Dios mío! ¡Es el héroe, aquí, en Ciudad Refugio!}
+{104}{}{¡Es la heroína! ¡Mirad!}
+{105}{}{¡Dios mío! ¡Es la heroína, aquí, en Ciudad Refugio!}
 {106}{}{Que le vaya bien, capitán.}
 {107}{}{Ciudad Refugio prevalece, capitán.}
-{108}{}{Que te vaya bien, Ciudadano.}
-{109}{}{Ciudad Refugio prevalece, Ciudadano.}
+{108}{}{Que te vaya bien, Ciudadana.}
+{109}{}{Ciudad Refugio prevalece, Ciudadana.}
 {110}{}{¡Un mutante! ¡Guardias! ¡Guardias!}
 {111}{}{¡Un necrófago! ¡Guardias! ¡Guardias!}
 {112}{}{He de ver cómo solicitar más herramientas de Redding.}
@@ -23,7 +23,7 @@
 {120}{}{Ahora mismo estoy haciendo inventario. Regresa cuando abramos por la mañana.}
 {121}{}{Hemos cerrado. Podrías probar en la tienda general del exterior si realmente necesitas algo.}
 {122}{}{¿Puedo ayudarle en algo, capitán?}
-{123}{}{¿Puedo ayudarte en algo, Ciudadano?}
+{123}{}{¿Puedo ayudarte en algo, Ciudadana?}
 {124}{}{Perdona, ¿te puedo ayudar en algo?}
 {125}{}{¿Algo? Go go goooo}
 {126}{}{Dejas de balbucear}
@@ -37,10 +37,10 @@
  comprar allí... he oído que su selección es casi tan buena como la nuestra.}
 {134}{}{Eh, gracias.}
 {135}{}{Compraré donde me apetezca, ¿lo entiendes?}
-{136}{}{Gracias por pasarte por aquí. Ciudad Refugio prevalece, Ciudadano.}
+{136}{}{Gracias por pasarte por aquí. Ciudad Refugio prevalece, Ciudadana.}
 {137}{}{Gracias por pasarse por aquí. Ciudad Refugio prevalece, capitán.}
-{138}{}{Ciudad Refugio prevalece, Ciudadano.}
-{139}{}{Que te vaya bien, Ciudadano.}
+{138}{}{Ciudad Refugio prevalece, Ciudadana.}
+{139}{}{Que te vaya bien, Ciudadana.}
 {140}{}{Oficina de Sub-servicios A. Estoy al cargo de las necesidades de suministro genéricas, como herramientas y equipos de reparación.
  Me llamo Darrow... Oficial de Sub-servicios Darrow. ¿Ves algo que necesites? }
 {141}{}{Esta es la oficina de Sub-servicios A... nos ocupamos de las herramientas y equipos de reparación para la ciudad. ¿Seguro

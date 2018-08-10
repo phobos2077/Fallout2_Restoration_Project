@@ -31,13 +31,13 @@
 {129}{}{¿Quién es el que espera tener suerte ahora?}
 {130}{}{Ya está, voy a ocuparme de ti por esto.}
 {131}{}{¿Quién coño es ese que nos está mirando?}
-{132}{}{Alguien nuevo. ¡Eh, ésta es una cuestión privada! ¡Vamos a por él!}
+{132}{}{Alguien nuevo. ¡Eh, ésta es una cuestión privada! ¡Vamos a por ella!}
 {133}{}{Por una vez estoy de acuerdo. ¡Vamos!}
 {134}{}{Hiciste un buen trabajo allí. Pon a cada maldito minero de Redding entre rejas.}
 {135}{}{Tuviste sangre fría encerrándonos.}
 {136}{}{Sólo nos divertíamos un poco. Déjanos salir.}
 {137}{}{Lo que estuviésemos haciendo allí no era asunto tuyo.}
-{138}{}{Lárgate de aquí.}
+{138}{}{Sácame de aquí de una puta vez.}
 {139}{}{Sácame de aquí.}
 {140}{}{Eh, déjame salir.}
 {141}{}{Soy inocente.}
@@ -61,10 +61,10 @@
  palabra.}
 {157}{}{Bien, vale... por respeto al sheriff supongo que podemos aguantarnos un poco.}
 {158}{}{Gracias. Esperaba que vieras así las cosas. Adiós.}
-{159}{}{Bueno, desde luego no eres un santo. Creo que no me gusta tu tono, amigo.}
+{159}{}{Bueno, desde luego no eres una santa. Creo que no me gusta tu tono, amiga.}
 {160}{}{No te tiene que gustar. Vas a venir conmigo a la cárcel o voy a arrastrar tu
  cadáver hasta allí. Tú eliges.}
-{161}{}{Oh, lo siento. No quise ser grosero. Ya me voy. Adiós.}
+{161}{}{Oh, lo siento. No quise ser grosera. Ya me voy. Adiós.}
 {162}{}{De acuerdo, de acuerdo. Iré si también encarcelas a Bette. Eso parece un trato justo.}
 {163}{}{No estás en posición de hacer tratos.}
 {164}{}{No es mala idea. Poniendo algunos barrotes entre vosotros puede que las cosas se enfríen un poco.
@@ -83,7 +83,7 @@
 {173}{}{Entonces tendré que mataros a los dos.}
 {174}{}{Hmm, creo que me necesitan en otro sitio, y rápido. Adiós.}
 {175}{}{Apuesto que no podría. ¿Por qué no vuelves y le dices que no había nada que pudieras hacer?}
-{176}{}{Ya está. Ya has dicho bastante. Última oportunidad: Vete sin hacer ruido o te haré trizas.}
+{176}{}{Ya está. Ya has dicho bastante. Última oportunidad: vete sin hacer ruido o te haré trizas.}
 {177}{}{Quizá lo haga. No quiero hacerle daño a nadie. Adiós.}
 {178}{}{De acuerdo, creo que ya lo hemos visto claro, ¿verdad, Bette? (ella asiente) Nos tienes.
  Enciérranos, Sheriff.}

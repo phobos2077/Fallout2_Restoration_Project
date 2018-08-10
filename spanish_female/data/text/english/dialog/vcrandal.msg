@@ -5,20 +5,20 @@
 {104}{}{Enhorabuena, }
 {105}{}{¡Qué manera de poner a esos gilipo-... er, tontos del Enclave en su lugar!}
 {106}{}{He oído que pateaste algunos traseros por el sur. Esa es la forma.}
-{107}{}{¡Un intruso! ¡Guardias! ¡Guardias!}
+{107}{}{¡Una intrusa! ¡Guardias! ¡Guardias!}
 {108}{}{Pero q-?! ¡Un mutante! ¡Guardias!}
 {109}{}{Pero q-? ¡Un necrófago! ¡Guardias!}
 {110}{}{Que le vaya bien, capitán.}
 {111}{}{Ciudad Refugio prevalece, capitán.}
-{112}{}{Que te vaya bien, Ciudadano.}
-{113}{}{Ciudad Refugio prevalece, Ciudadano.}
+{112}{}{Que te vaya bien, Ciudadana.}
+{113}{}{Ciudad Refugio prevalece, Ciudadana.}
 {114}{}{Hay que enviar cartas de distribución a las oficinas de Sub-servicios A y B...}
 {115}{}{Hay que compilar los inventarios de existencias más recientes y ponerlos en el servidor de listas...}
 {116}{}{Hecho de menos el DOS. Este nuevo sistema operativo dificulta el introducir listas.}
 {117}{}{La Primer Ciudadano sigue necesitando esas listas de inventario...}
 {118}{}{Lo siento, cerramos por la tarde. Vuelve por la mañana.}
 {119}{}{Hemos cerrado. Sólo estoy compilando estas listas antes de irme a casa.}
-{120}{}{Hola, extranjero. Siempre es un placer ver una nueva cara. Mi nombre es Randal... soy el Oficial Jefe de Servicios. ¿Necesitas algo?}
+{120}{}{Hola, extranjera. Siempre es un placer ver una nueva cara. Mi nombre es Randal... soy el Oficial Jefe de Servicios. ¿Necesitas algo?}
 {121}{}{Gechkk}
 {122}{}{Nooooooooo}
 {123}{}{Dejas de balbucear}
@@ -30,7 +30,7 @@
 {129}{}{¿Tienes uno?}
 {130}{}{¿Te importa si te pregunto otra cosa?}
 {131}{}{Bien, no importa entonces.}
-{132}{}{Odio tener que decírtelo, amigo, pero ya no tenemos el nuestro. Se usó para levantar Ciudad Refugio y... *puf*. Y se acabó.}
+{132}{}{Odio tener que decírtelo, amiga, pero ya no tenemos el nuestro. Se usó para levantar Ciudad Refugio y... *puf*. Y se acabó.}
 {133}{}{NECESITO Gechkkk.}
 {134}{}{Dejas de balbucear}
 {135}{}{Oh... bueno, ¿sabes de algún lugar en el que pudiera haber uno?}
@@ -47,7 +47,7 @@
 {146}{}{Tanques}
 {147}{}{¿Te importa si te pregunto otra cosa?}
 {148}{}{Gracias por la información.}
-{149}{}{Hola, bienvenido de nuevo. ¿Hay algo que pueda hacer por ti?}
+{149}{}{Hola, bienvenida de nuevo. ¿Hay algo que pueda hacer por ti?}
 {150}{}{Claro. ¿En qué estás pensando?}
 {151}{}{¿Gechkk?}
 {152}{}{Dejas de balbucear}
@@ -69,8 +69,8 @@
 {168}{}{Puede que vuelva en algún otro momento.}
 {169}{}{Bueno, lamento decírtelo, pero sólo estoy autorizado a hacer transacciones con Ciudadanos. Sin ánimo de ofender, pero son las reglas, ¿sabes? Puedes intentarlo con Feliz Harry, en el Patio.}
 {170}{}{Bueno, lamento decírtelo, pero sólo estoy autorizado a hacer transacciones con Ciudadanos. Sin ánimo de ofender, pero son las reglas, ¿sabes? Puedes intentarlo con Feliz Harry, en el Patio.}
-{171}{}{¿Cómo me puedo convertir en Ciudadano?}
-{172}{}{Pero... eh, soy un Ciudadano. ¿No te acuerdas de mí?}
+{171}{}{¿Cómo puedo convertirme en Ciudadana?}
+{172}{}{Pero... eh, soy una Ciudadana. ¿No te acuerdas de mí?}
 {173}{}{Mira, mi dinero es igual de bueno que el de cualquier Ciudadano.}
 {174}{}{El consejero McClure dijo que tenías almacenado un regulador hidroeléctrico magnetosférico que me podría llevar.}
 {175}{}{La Primer Ciudadano me envió aquí para solicitar mi recompensa.}
@@ -98,7 +98,7 @@
 {197}{}{Déjame ver lo que tienes a la venta.}
 {198}{}{En realidad, ¿te importa si lo que te hago son algunas preguntas?}
 {199}{}{Hoy nada, en realidad.}
-{200}{}{Así que... eres el Ciudadano }
+{200}{}{Así que... eres la Ciudadana }
 {201}{}{Sí, dijo que te pasarías por aquí... }
 {202}{}{De acuerdo.}
 {203}{}{En realidad, no importa, Volveré más tarde.}
@@ -108,7 +108,7 @@
 {207}{}{Gracias. Podría mirarlo fijamente durante horas antes de llevarlo a la central de Gecko.}
 {208}{}{Comprendo. Gracias por la pieza.}
 {209}{}{Sí, la Primer Ciudadano dijo que se pasaría por aquí... capitán. (Guiño). Déjeme decirle, capitán, que tiene a una BELLEZA esperándole.}
-{210}{}{Sí, la Primer Ciudadano dijo que te pasarías por aquí. Bien, déjame decirte, amigo, que tienes a una BELLEZA esperándote.}
+{210}{}{Sí, la Primer Ciudadano dijo que te pasarías por aquí. Bien, déjame decirte, amiga, que tienes a una BELLEZA esperándote.}
 {211}{}{¿Qué es eso?}
 {212}{}{En realidad, guárdala para mí. La recogeré más tarde.}
 {213}{}{Nada menos que una Heckler and Koch G11, una de las mejores armas de asalto jamás construidas...(sopesa el arma, y te la pasa)... dispara cartuchos de 4.7 mm sin carcasa, en cargadores de 50 balas. Cuando esto habla, la gente escucha.}

@@ -1,18 +1,18 @@
 {100}{}{Ves a un guardia.}
 {101}{}{Ves al guardia de la puerta.}
-{102}{}{Ves a un guardia que porta una servoarmadura de un diseño inusual. Lleva una insignia en el peto con la que no estás familiarizado.}
+{102}{}{Ves a un hombre que lleva puesta una servoarmadura de un diseño inusual. Lleva una insignia en el peto con la que no estás familiarizada.}
 {103}{gate1}{¡Alto! Esto es propiedad federal. No se admite el acceso sin la debida autorización.}
 {104}{}{Eh... ¿fe-de-ral?}
 {105}{}{Tengo pase... ¿Dónde pongo yo?}
-{106}{}{Yo nuevo. Digo que que vosotros esperáis a yo.}
+{106}{}{Yo nueva. Digo que que vosotros esperáis a yo.}
 {107}{}{Oh. Perdón, marcho yo.}
 {108}{}{Tengo mi pase... estaba justo aquí.}
-{109}{}{Soy un nuevo recluta. Me dijeron que me estarían esperando.}
+{109}{}{Soy una nueva recluta. Me dijeron que me estarían esperando.}
 {110}{}{Oh, lo siento. Entonces me marcharé.}
-{111}{gate2}{Eres un poco corto, ¿no? Bien, sigue moviéndote. No vuelvas por ahí y todo irá bien. ¿Entiendes?}
+{111}{gate2}{Eres un poco corta, ¿no? Bien, sigue moviéndote. No vuelvas por ahí y todo irá bien. ¿Entiendes?}
 {112}{}{Quiero entrar yo.}
 {113}{}{Vale. Yo voy.}
-{114}{gate3}{Nadie entra... Maldición. (lentamente) Necesitas pase para entrar. Tú no pase. Tú te marchas. Tú no te marchas, y tú eres herido. ¿Entiendes?}
+{114}{gate3}{Nadie entra... Maldición. (lentamente) Necesitas pase para entrar. Tú no pase. Tú te marchas. Tú no te marchas, y tú eres herida. ¿Entiendes?}
 {115}{}{¿Y si yo hago daño a tú?}
 {116}{}{Vale. Yo voy.}
 {117}{gate14}{(poniendo la mano en el arma) ¡No quiero excusas! ¡Enséñeme el pase o diga la contraseña!}

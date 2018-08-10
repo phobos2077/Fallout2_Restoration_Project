@@ -18,7 +18,7 @@
 {117}{}{¿No?}
 {118}{}{Oh. De acuerdo.}
 {119}{}{Vale. No estoy seguro de que sea eso lo que está buscando. En fin, dijo que los enviase a todos. Puedes ir. Habla con Tandi ahora.}
-{120}{}{¡NO! Tú eres tonto. ¡El presidente debe ser listo, hablar con palabras de dos sílabas! Tú no eres presidente.}
+{120}{}{¡NO! Tú eres tonta. ¡El presidente debe ser listo, hablar con palabras de dos sílabas! Tú no eres presidente.}
 {121}{}{Oh. ¿Que yo hago?}
 {122}{}{Yo no como tú. Tú gritas. Hombre malo.}
 {123}{}{Mi nombre es Gunther, soy el asistente personal de la presidente Tandi. Y ahora, ¿qué puedo hacer por ti?}
@@ -45,7 +45,7 @@
 {144}{}{Bien, lo siento, pero la Señora Presidente está muy ocupada. ¿Por qué no vuelves cuando el trabajo esté hecho?}
 {145}{}{De acuerdo.}
 {146}{}{¡Excelente! Avisaré de que vas.}
-{147}{}{¡Bastardo! ¡Guardias! ¡Asesino! ¡Asesino!}
+{147}{}{¡Zorra! ¡Guardias! ¡Asesina! ¡Asesina!}
 {148}{}{¡Ya de vuelta! ¿Y ahora qué?}
 {149}{}{Rec-compensa.}
 {150}{}{La presidente dijo que te preguntara por una recompensa.}
@@ -68,7 +68,7 @@
 {167}{}{Te voy a hablar claro. La presidente no va a verte... ni ahora ni nunca. Se te ha pagado. Ahora simplemente vete.}
 {171}{}{Me voy, yo.}
 {172}{}{Absolutamente nada.}
-{173}{}{¡Zorra! ¡Guardias! ¡Asesino! ¡Asesino!}
+{173}{}{¡Zorra! ¡Guardias! ¡Asesina! ¡Asesina!}
 {174}{}{He estado en el Refugio 15 y necesito hablarle a tu jefa sobre ello.}
 {175}{}{Tengo que hablar del Refugio 15.}
 {176}{}{Deberías saber que hay un espía en vuestra casa: alguien cuyo nombre empieza por F.}

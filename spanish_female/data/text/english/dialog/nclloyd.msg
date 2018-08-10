@@ -24,7 +24,7 @@
  podría resultar muy caro.}
 {236}{}{De acuerdo entonces… lamento haberte molestado.}
 {245}{}{¿Problema? El problema lo tengo justo delante. }
-{246}{}{Voy a repetírtelo, amigo: márchate.}
+{246}{}{Voy a repetírtelo, amiga: márchate.}
 {247}{}{Voy a repetírtelo, corazón: márchate.}
 {248}{}{¿Me estás *amenazando*? Piénsalo con MUCHO cuidado antes de responder.}
 {255}{}{¿Problema? Ningún problema, amigo, ningún problema en absoluto. Sólo buscaba un poco de privacidad, eso es todo.}
@@ -32,7 +32,7 @@
 {257}{}{¿Problema? En absoluto. Sólo buscaba un poco de privacidad, eso es todo. Aunque… ha sido grosero por mi parte dar la espalda a tan encantadora dama.}
 {258}{}{Creo que TIENES un problema. Verás, toda esta privacidad hace difícil a cualquiera el escuchar
  lo que suceda aquí abajo. Quizá me limite a matarte, ¿eh?}
-{260}{}{Para alguien tan hablador como yo, la privacidad puede resultar muy cara.}
+{260}{}{Para alguien tan habladora como yo, la privacidad puede resultar muy cara.}
 {261}{}{De acuerdo entonces. Lamento molestarte.}
 {262}{}{Tienes razón. FUE grosero. Me iré ahora.}
 {270}{}{(Entorna los ojos). }
@@ -100,7 +100,7 @@
  el Guapo, pero eso son ellos, no yo.}
 {387}{}{Hmmmmm. No soy tan tonto como para rehusar la ayuda de una mujer hermosa. Me llamo Lloyd. Algunos me llaman Lloyd
  el Guapo, pero eso son ellos, no yo.}
-{388}{}{Encantado de conocerte. Y... ¿sobre mi oferta...?}
+{388}{}{Encantada de conocerte. Y... ¿sobre mi oferta...?}
 {395}{}{La Familia Salvatore y yo hemos tenido un… desacuerdo respecto a mi éxito en una de sus mesas de juego.
  Creo que el asunto sólo se resolvería largándome lo más lejos posible de Nuevo Reno.}
 {396}{}{Éxito en sus mesas de juego, ¿eh? ¿Cuánto ganaste, Lloyd?}

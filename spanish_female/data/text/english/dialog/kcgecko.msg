@@ -16,8 +16,8 @@
 {212}{}{La caza no va bien últimamente; tiene que haber una forma más fácil de ganar dinero.}
 {213}{}{No edtoy tan boooorrrracho como creees.}
 {214}{}{Eh, colega, ¿te parece que estos dados están trucados? (clac, clac)}
-{215}{}{Habla con los Dunton o con el camarero si buscas trabajo, amigo.}
-{216}{}{Has escogido el sitio perfecto para venir a beber, amigo.}
+{215}{}{Habla con los Dunton o con el camarero si buscas trabajo, amiga.}
+{216}{}{Has escogido el sitio perfecto para venir a beber, amiga.}
 {217}{}{No, Bishop, ¡lo del cuchillo otra vez no!}
 {218}{}{¿Alguien quiere jugar a los dados?}
 {219}{}{Me alegro de que Aldo no esté apestando el sitio.}
@@ -27,7 +27,7 @@
 {223}{}{La caza es peligrosa; perdimos a un buen trampero hace unas pocas semanas.}
 {224}{}{Me encanta meterme con ese Torr.}
 {300}{}{Mira quién ha venido.}
-{301}{}{(Murmurando) ...un buenazo por aquí...}
+{301}{}{(Murmurando) ...una buenaza por aquí...}
 {302}{}{¿No te has equivocado de barrio?}
 {303}{}{No queremos a los tuyos por aquí, tribal.}
 {304}{}{Quizá si nos invitas a una ronda te dejemos quedarte.}

@@ -2,7 +2,7 @@
 {101}{}{Ves a Matt.}
 {102}{}{Ves a un hombre alto y delgado de pelo corto y mirada salvaje. Puede sentir su mirada
  fija en ti.}
-{103}{}{¿Puedo ayudarte en algo, extranjero?}
+{103}{}{¿Puedo ayudarte en algo, extranjera?}
 {104}{}{¿Hago preguntas?}
 {105}{}{No, marcho.}
 {106}{}{Sí, me gustaría hacerte algunas preguntas.}

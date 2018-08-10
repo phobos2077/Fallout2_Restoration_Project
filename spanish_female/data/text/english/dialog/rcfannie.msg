@@ -25,7 +25,7 @@
 {117}{}{Fannie no lo hace con retrasados.}
 {118}{}{Vuelve con algo de dinero y quizá Fannie te pueda enseñar algo.}
 {119}{}{No eres la herramienta más afilada del cobertizo, ¿sabes?}
-{120}{}{Eres igual de listo que un cebo de pesca, ¿verdad?}
+{120}{}{Eres igual de lista que un cebo de pesca, ¿verdad?}
 {121}{}{¿Una cura? ¿Te has vuelto loco? ¿Te parece que quiera que me curen? ¿Quieres hacerme sentir mejor,
  cariño? Dame un poco más de Jet.}
 {122}{}{Bueno, supongo que darte sólo un poco más no te hará daño. Aquí tengo algo de Jet.}

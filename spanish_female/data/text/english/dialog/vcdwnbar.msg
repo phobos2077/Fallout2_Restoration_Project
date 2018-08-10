@@ -2,20 +2,20 @@
 {101}{}{Ves a una mujer de pelo castaño vestida con uniforme marrón y una armadura metálica. Parece la camarera.}
 {102}{}{Ves a Lydia.}
 {103}{}{Ves a una mujer de pelo castaño vestida con uniforme marrón y una armadura metálica. Parece la camarera.}
-{104}{}{¡Bienvenido! ¿Te apetece una bebida, Elegido?}
-{105}{}{¡Bienvenido, Elegido! Por favor, siéntate en el bar.}
+{104}{}{¡Bienvenida! ¿Te apetece una bebida, Elegida?}
+{105}{}{¡Bienvenida, Elegida! Por favor, siéntate en el bar.}
 {106}{}{¡Por favor! ¡Siéntate, descansa un poco!}
-{107}{}{¡Es el Elegido! ¡Que todo el mundo atienda al HÉROE de Fallout 2!}
+{107}{}{¡Es la Elegida! ¡Que todo el mundo atienda a la HEROÍNA de Fallout 2!}
 {108}{}{Que le vaya bien, capitán.}
 {109}{}{Ciudad Refugio prevalece, capitán.}
-{110}{}{Que te vaya bien, Ciudadano.}
-{111}{}{Ciudad Refugio prevalece, Ciudadano.}
+{110}{}{Que te vaya bien, Ciudadana.}
+{111}{}{Ciudad Refugio prevalece, Ciudadana.}
 {112}{}{¡Un mutante! ¡Guardias! ¡Guardias!}
 {113}{}{¡Un necrófago! ¡Guardias! ¡Guardias!}
 {114}{}{Hemos cerrado. Vuelve por la mañana.}
 {115}{}{Lo siento, pero la última ronda fue hace un rato. Vuelve por la mañana.}
 {116}{}{Hemos cerrado. En cuanto termine esta lista de nuestras existencias, echaré el cierre.}
-{117}{}{¡Hola, Elegido! Precisamente estábamos hablando de tus aventuras... ¿puedo traerte algo de beber?}
+{117}{}{¡Hola, Elegida! Precisamente estábamos hablando de tus aventuras... ¿puedo traerte algo de beber?}
 {118}{}{Estrella-estrellita dame botellita}
 {119}{}{Dejas de balbucear}
 {120}{}{¿Qué hay para tomar?}
@@ -32,7 +32,7 @@
 {131}{}{Gracita estrellita mi botellita}
 {132}{}{Dejas de balbucear}
 {133}{}{Eh... ¿qué puedo hacer por usted, capitán?}
-{134}{}{¿Qué puedo hacer por ti, Ciudadano?}
+{134}{}{¿Qué puedo hacer por ti, Ciudadana?}
 {135}{}{¿Sí? ¿Puedo ayudarte?}
 {136}{}{¿Tu? ¿Too? ¿Joo? Jooos. O-jooos es que todos miran a mí}
 {137}{}{Dejas de balbucear}
@@ -77,17 +77,17 @@
 {176}{}{¿Qué tienes para tomar?}
 {177}{}{Tengo el cargamento de alcohol que querías.}
 {178}{}{De acuerdo entonces. Buenos días.}
-{179}{}{Eh, la Primer Ciudadano Lynette... tú eres Ciudadano, ¿verdad?}
+{179}{}{Eh, la Primer Ciudadano Lynette... tú eres Ciudadana, ¿verdad?}
 {180}{}{La Primer Ciudadano Lynette. Está en el edificio del Consejo, al norte, por si necesitas hablar con ella.}
 {181}{}{Quería saber otra cosa...}
 {182}{}{De acuerdo. Iré a hablar con ella, entonces.}
-{183}{}{Eh, es el gran agujero en la falda de la montaña al este de aquí... dime, tú eres un Ciudadano, ¿verdad?}
+{183}{}{Eh, es el gran agujero en la falda de la montaña al este de aquí... dime, tú eres una Ciudadana, ¿verdad?}
 {184}{}{Es ese gran agujero de la montaña que hay al este de aquí. No tiene pérdida. Aunque no podrás entrar a menos que seas un Ciudadano.}
 {185}{}{Quería saber otra cosa...}
-{186}{}{Pero yo soy un Ciudadano.}
+{186}{}{Pero yo soy una Ciudadana.}
 {187}{}{Sí, sólo siguiendo las orientaciones, gracias. Iré a echar un vistazo.}
 {188}{}{Hmmm. Gracias por la información.}
-{189}{}{Claro que lo eres. Yo tendría cuidado de a quién le dices eso, "Ciudadano". Alguien podría reconocer esos documentos robados que has conseguido de ese chupasangres de Skeev. Así que mantén la cabeza baja, ¿de acuerdo?}
+{189}{}{Claro que lo eres. Yo tendría cuidado de a quién le dices eso, "Ciudadana". Alguien podría reconocer esos documentos robados que has conseguido de ese chupasangres de Skeev. Así que mantén la cabeza baja, ¿de acuerdo?}
 {190}{}{Eh, de acuerdo. Verás, quería saber algo más...}
 {191}{}{Oh. Bien, olvídalo.}
 {192}{}{Mira, lo primero que debo decirte es que mejor que no uses la palabra "esclavitud" por aquí, o te meterás en un auténtico montón de problemas. Se les llama "siervos", no esclavos. Es sólo un consejo.}

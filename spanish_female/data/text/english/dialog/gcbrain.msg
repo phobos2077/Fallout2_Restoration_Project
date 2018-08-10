@@ -1,11 +1,11 @@
 {100}{}{Ves a una rata topo excepcionalmente grande.}
 {101}{}{Ves a El Cerebro.}
 {102}{}{Ves a una enorme rata topo albina. Parece tener el cráneo hinchado y ser particularmente inteligente.}
-{110}{}{Debes ser aún más estúpido que la mayoría de los de tu clase por contradecirme. Ahora debes morir.}
+{110}{}{Debes ser aún más estúpida que la mayoría de los de tu clase por contradecirme. Ahora debes morir.}
 {120}{}{No sé cómo llegaste aquí, pero deberías ser capaz de salir por el mismo camino por el que entraste.}
 {121}{}{No tengo tiempo para ti. Estoy planeando una forma de dominar el mundo. Lárgate.}
 {122}{}{No me molestes. No te lo advertiré de nuevo.}
-{123}{}{Suficiente. ¡Zomak! ¡Mátalo por mí!}
+{123}{}{Suficiente. ¡Zomak! ¡Mátala por mí!}
 {130}{}{La Renovación está por llegar. Pero no se acercará más a menos que te muevas y repares nuestro Reactor Atómico. (para sí mismo) Humanos... son tan decepcionantes.}
 {131}{}{¿Reparar el reactor atómico?}
 {132}{}{Oh, sí. Bien, me marcho entonces. Adiós.}
@@ -15,8 +15,8 @@
 {143}{}{Sólo es mi loción para después del afeitado. Old Mice: ¿te gusta?}
 {144}{}{Maté a uno de tus sirvientes y se lo arrebaté a su cadáver aún caliente.}
 {145}{}{I got it from a village near Vault City. The people there said your followers left these with them.}
-{150}{}{¿Estás preparado para convertirte en uno de nosotros?}
-{151}{}{Nací preparado. ¿Dónde firmo?}
+{150}{}{¿Estás preparada para convertirte en uno de nosotros?}
+{151}{}{Nací preparada. ¿Dónde firmo?}
 {152}{}{¿Te refieres a convertirme en una rata gigante?}
 {153}{}{No quiero formar parte de lo que eres.}
 {154}{}{¿Pero quiénes son nosotros, eh, quiero decir, tú?}
@@ -40,13 +40,13 @@
 {200}{}{Cuando una a Gecko y Ciudad Refugio bajo mi liderazgo, dedicaré los laboratorios médicos de Ciudad Refugio a encontrar una manera de revertir los efectos de la radiación que convirtió a las personas en necrófagos. Serán renovados, renacidos como humanos una vez más.}
 {201}{}{Eso no suena tan mal.}
 {210}{}{El Ankh es un símbolo de vida. Una vez te haya dado este talismán serás uno de nosotros. Y será más probable que tus camaradas te ayuden en el camino hacia la Renovación. Pero cuidado con a quién se lo muestras.}
-{211}{}{¿Estás listo para aceptar la Renovación y llevar mi talismán Ankh?}
+{211}{}{¿Estás lista para aceptar la Renovación y llevar mi talismán Ankh?}
 {212}{}{Está bien, me quedaré tu talismán Ankh.}
 {213}{}{No quiero Renovarme. Me gusto tal y como soy. No quiero tu talismán.}
 {214}{}{¿Renovación? ¿Qué quieres decir?}
 {220}{}{Esos idiotas de Ciudad Refugio sólo han logrado firmar su sentencia de muerte al destruir nuestro reactor.}
 {221}{}{Ahora tengo que pensar en otra manera de dominar el mundo. Sal de aquí.}
-{222}{}{Ya he tenido suficiente de tus torpes intromisiones. ¡Zomak! Mata a este idiota por mí.}
+{222}{}{Ya he tenido suficiente de tus torpes intromisiones. ¡Zomak! Mata a esta idiota por mí.}
 {230}{}{Reparar el reactor ha sido un excelente primer paso. Se necesita uno más para asegurar la supervivencia tanto de Gecko como de Ciudad Refugio.}
 {231}{}{¿Un paso más?}
 {232}{}{Vaya, de repente eres todo un buen samaritano.}
@@ -69,7 +69,7 @@
 {283}{}{¿Por qué no hablas con esa vieja cotorra del apestoso Festus en la central y compruebas si puede extraerse alguna información útil de su podrida cabeza? Podría conocer algún medio de optimizar la central. Haré saber a nuestros camaradas aquí en Gecko de tu misión.}
 {284}{}{Eso parece una buena idea. Adiós.}
 {290}{}{Creo que McClure es el único miembro del consejo de Ciudad Refugio con suficiente cerebro como para ver más allá de sus prejuicios. Él se asegurará de que consigas lo que necesitas.}
-{291}{}{De ninguna manera voy a ser tu chico de los recados.}
+{291}{}{De ninguna manera voy a ser tu chica de los recados.}
 {292}{}{Supongo que valdrá la pena intentarlo. ¿Dónde consigo el disco?}
 {300}{}{Necesitas subir al vertedero. Busca a un necrófago llamado Gordon. Él tiene el disco
  con los datos económicos que necesitas. Quédate mi talismán, para que él sepa que tiene que entregarte el disco.}
@@ -80,19 +80,19 @@
 {320}{}{(Sniff, sniff) Hmmm, huelo el distintivo aroma de bolitas de queso en ti, ¿por casualidad no tendrás algunas de sobra? Adoro las bolitas de queso.}
 {321}{}{Hmm, no. Nada de bolitas de queso por aquí.}
 {322}{}{Supongo que puedo permitirme gastar unas cuantas bolitas de queso.}
-{330}{}{Ahora eres uno de nosotros. Muy pronto dominaré el mundo y todos seréis Renovados.}
+{330}{}{Ahora eres una de nosotros. Muy pronto dominaré el mundo y todos seréis Renovados.}
 {331}{}{Eh, sí, lo que digas.}
 {332}{}{Muy bien, ya basta. Esto acaba aquí. Alguien tiene que borrarte de la existencia... y ese alguien voy a ser yo.}
-{340}{}{Bien, entonces supongo que no nos queda nada más que decirnos. Pero sabes que no puedo permitirte salir de aquí con vida, a menos que seas uno de nosotros.}
+{340}{}{Bien, entonces supongo que no nos queda nada más que decirnos. Pero sabes que no puedo permitirte salir de aquí con vida, a menos que seas una de nosotros.}
 {341}{}{Preferiría morir que unirme a vosotros.}
-{342}{}{Hmm, quizá me haya precipitado en mi juicio.}
+{342}{}{Hmm, quizá me haya precipitada en mi juicio.}
 {343}{}{Veámoslo, Willard.}
-{350}{}{Idiota. ¡Zomak! Mata a este intruso por mí.}
+{350}{}{Idiota. ¡Zomak! Mata a esta intrusa por mí.}
 {360}{}{Los humanos tenéis un aguante limitado. Yo habría seguido siendo una rata normal si los humanos no hubierais dado lo mejor de vosotros para destruir el mundo. Si no fuera por la radiación, no sería lo que soy hoy.}
 {361}{}{¿Y qué eres, exactamente?}
-{370}{}{Ahora que todo te ha sido explicado, ¿estás listo para unirte a nosotros?}
+{370}{}{Ahora que todo te ha sido explicado, ¿estás lista para unirte a nosotros?}
 {371}{}{Bueno, supongo que sí.}
-{372}{}{Estoy convencido, sí. Convencido de que debo salir de este manicomio.}
+{372}{}{Estoy convencida, sí. Convencida de que debo salir de este manicomio.}
 {380}{}{Sólo era una de las muchas ratas normales de un laboratorio de investigación avanzada. Entonces, un día, hubo explosiones. Nuestras jaulas se rompieron y fuimos rociados por algún tipo de fluido de una enorme cuba.}
 {381}{}{¿Y entonces qué?}
 {390}{}{Trepé hacia el exterior. Cuando comencé a curarme, noté que había cambiado. Intenté comunicarme con la gente, pero todos intentaron matarme. Los humanos son demasiado violentos como para sobrevivir bajo su propio liderazgo... pero esa es otra historia. El primer paso es reparar el reactor.}
@@ -115,7 +115,7 @@
 {442}{}{(crunch, munch, crunch) Mmmm, me encantan las bolitas de queso, saben tanto a, bueno, eh, queso.}
 {443}{}{(crunch, munch, crunch) Mmmm, me encantan las bolitas de queso, saben tanto a, bueno, eh, queso.}
 {444}{}{Uh…}
-{450}{}{Que así sea. ¡Zomak! ¡Mata a este idiota por mí! ¡Pero ten cuidado con las bolitas de queso!}
+{450}{}{Que así sea. ¡Zomak! ¡Mata a esta idiota por mí! ¡Pero ten cuidado con las bolitas de queso!}
 {460}{}{Tienes que usar el disco de datos del reactor en la computadora central de Ciudad Refugio. Puedes colarte
  en ella y usarlo, o, si tienes el disco de datos económicos, dirigirte a McClure.}
 {461}{}{¿Disco de datos económicos?}

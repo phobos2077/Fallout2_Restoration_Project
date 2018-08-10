@@ -8,7 +8,7 @@
 {107}{}{Creo que hay algo mal en tu traje.}
 {108}{}{Claro, lo haré.}
 {109}{}{De ninguna manera. Olvídalo.}
-{110}{}{¿Tu eres el tipo sobre el que Arch me ha hablado por radio?}
+{110}{}{¿Tu eres la persona sobre la que Arch me ha hablado por radio?}
 {111}{}{¿Estás seguro de que no eres tú?}
 {112}{}{¿Eh?}
 {113}{}{Sí.}
@@ -26,8 +26,8 @@
 {125}{}{Mi altavoz está roto.}
 {126}{}{Seguro, lo que sea.}
 {127}{}{¡Al infierno con esto!}
-{128}{}{(¿Qué, estás sordo? Te he dicho que tengo un traje; tan sólo firma aquí).}
-{129}{}{¿Eres un payaso? Bueno, no es mi problema. ¡Explícale al sargento por qué no tienes uniforme!}
+{128}{}{(¿Qué, estás sorda? Te he dicho que tengo un traje; tan sólo firma aquí).}
+{129}{}{¿Eres una payaso? Bueno, no es mi problema. ¡Explícale al sargento por qué no tienes uniforme!}
 {130}{}{¿Eh?}
 {131}{}{De acuerdo, vale, lo haré.}
 {132}{}{Olvídalo, ¿de acuerdo?}
@@ -43,7 +43,7 @@
 {142}{}{De acuerdo. ¿Tú unidad?}
 {143}{}{Arroyo.}
 {144}{}{No.}
-{145}{}{Eh... sí, estoy unido.}
+{145}{}{Eh... sí, estoy unida}
 {146}{}{De la 42.}
 {147}{}{¿Eso se escribe con S o con C?}
 {148}{}{Sí.}
@@ -59,7 +59,7 @@
 {158}{}{De la 42.}
 {159}{}{¡Ya basta! Preséntate a tu sargento. Te voy a meter un buen paquete. Retírate.}
 {160}{}{¿La 42, eh? Una buena unidad. De acuerdo. Aquí está tu equipo. Retírate, soldado.}
-{161}{}{¿Qué eres, sordo? ¿Eres él o no?}
+{161}{}{¿Qué eres, sorda? ¿Eres ella o no?}
 {162}{}{Sí.}
 {163}{}{Como pez en el agua.}
 {164}{}{No.}
@@ -81,12 +81,12 @@
 {180}{}{De acuerdo, J. ¿Unidad?}
 {181}{}{Arroyo.}
 {182}{}{No.}
-{183}{}{Eh... sí, estoy unido.}
+{183}{}{Eh... sí, estoy unida}
 {184}{}{De la 42.}
-{185}{}{¿Estás sordo? ¿Quién eres?}
-{186}{}{¿Soy el novato?}
+{185}{}{¿Estás sorda? ¿Quién eres?}
+{186}{}{¿Soy la novata?}
 {187}{}{No, nunca he oído hablar de ellos.}
-{188}{}{¿Novato, eh? Supongo que querrás tus cosas. ¿Por qué nadie me cuenta estas cosas? ¿Cómo te llamas?}
+{188}{}{¿Novata, eh? Supongo que querrás tus cosas. ¿Por qué nadie me cuenta estas cosas? ¿Cómo te llamas?}
 {189}{}{¿Eh? No oigo nada salvo estática.}
 {190}{}{[Player name]}
 {191}{}{¡No si disparo primero!}

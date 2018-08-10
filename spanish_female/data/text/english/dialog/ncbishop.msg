@@ -3,9 +3,9 @@
 {151}{}{Ves al señor Bishop. Parece severo.}
 {200}{}{Demuestras tener pelotas viniendo aquí. }
 {201}{}{Tienes pelotas, desde luego. }
-{202}{}{¿Por qué simplemente no te grabas una señal en el pecho que diga 'tonto hijoputa?' }
+{202}{}{¿Por qué simplemente no te grabas una señal en el pecho que diga 'tonta hijoputa?' }
 {203}{}{Traga plomo, }
-{204}{}{ bastardo.}
+{204}{}{ zorra.}
 {205}{}{Traga plomo, estúpido hijo de puta.}
 {206}{}{Traga plomo, zorra.}
 {207}{}{Yo no GUSTA sabor malo de plomo}
@@ -18,12 +18,12 @@
 {222}{}{.}
 {223}{}{¿Yo quieén?}
 {224}{}{Te alejas}
-{225}{}{Soy un guerrero con la sagrada misión de recuperar el Kit de Creación del Jardín del Edén. ¿Sabes dónde puedo encontrarlo?}
+{225}{}{Soy una guerrera con la sagrada misión de recuperar el Kit de Creación del Jardín del Edén. ¿Sabes dónde puedo encontrarlo?}
 {226}{}{Estoy buscando un Kit de Creación del Jardín del Edén. ¿Puedes ayudarme?}
 {227}{}{Estoy buscando un lugar llamado Refugio 13. ¿Has oído hablar de él?}
 {228}{}{Pensé que podrías tener algo de trabajo para mí.}
 {229}{}{Lo siento: habitación equivocada.}
-{240}{}{(Te estudia) Si miro bajo tu ropa, sigo viendo a uno de esos tribales… (resopla). Los muchachos dijeron que tenías un
+{240}{}{(Te estudia) Si miro bajo tu ropa, sigo viendo a una de esos tribales… (resopla). Los muchachos dijeron que tenías un
  maletín para mí. De un mutuo "conocido". Veámoslo.}
 {241}{}{Aquí están.}
 {242}{}{Eh… pues es curioso… parece que en algún lugar desde la puerta hasta aquí, lo he perdido.}
@@ -31,7 +31,7 @@
 {250}{}{(Abre el maletín, comprueba su contenido, y lo cierra con un golpe). Es de Moore, todo está bien. Excepto por esta nota que dice
  que no se puede confiar en ti más que en ver a una serpiente bailando. Has entrado en la habitación EQUIVOCADA, tribal.}
 {251}{}{(Abre el maletín, comprueba su contenido, y lo cierra con un golpe). Es de Moore, todo está bien. Dice que se te investigó, tribal. Por suerte para ti…(sonríe)… si entrases aquí con una mala reputación, ya estarías solicitando un viaje rápido al cielo.}
-{252}{}{Quizá sea así, pero voy a ser el único en salir.}
+{252}{}{Quizá sea así, pero voy a ser la única en salir.}
 {253}{}{Bien, he entregado el maletín, como pidió Moore… ahora, acerca de mi pago…}
 {254}{}{Tengo curiosidad. ¿Qué hay en el maletín?}
 {255}{}{Me alegra que todo esté en orden… oye, tengo que marcharme.}
@@ -46,8 +46,8 @@
 {277}{}{Tiene cierto… talento con las palabras.}
 {278}{}{Sí, bueno, en algún momento ha de hacerse el trabajo, y me llaman para asegurarme de que las cosas se entregan… como ese maletín.}
 {285}{}{(Para sí mismo). Por supuesto, ser capaz de azotar a una multitud hasta el frenesí no está del todo mal si uno va a entrar en política… (Te estudia con sospecha). No eres de la RNC también, ¿no? Tomcat es casi el único de ellos al que soporto por ahora.}
-{286}{}{Sí, también pertenezco a la RNC. No es lo mejor, pero puede pasar. Soy algo así como un agente libre.}
-{287}{}{No, sólo soy un viajero. Estuve de acuerdo en ayudar a Moore porque necesitaba trabajo.}
+{286}{}{Sí, también pertenezco a la RNC. No es lo mejor, pero puede pasar. Soy algo así como una agente libre.}
+{287}{}{No, sólo soy una viajera. Estuve de acuerdo en ayudar a Moore porque necesitaba trabajo.}
 {295}{}{(Señala con la cabeza el maletín). Bien, este maletín lo merecía. Un pequeño trozo del interior de Ciudad Refugio, un poco de esa preciosa tecnología de la que la zorra frígida de Lynette no quiere separarse… pero oye, tribal, aún no te he pagado. Aquí está lo tuyo.}
 {296}{}{Verás… no tengo ningún otro trabajo pendiente en este momento. ¿Tienes alguno para mí?}
 {297}{}{Sí… gracias. Oye, tengo que irme.}
@@ -58,7 +58,7 @@
  que simplemente voy a tomar el RESTO de mi paga de tu caja fuerte.}
 {309}{}{No, creo que no me voy a largar todavía. Aún tienes ASUNTOS conmigo... cadáver.}
 {310}{}{De acuerdo entonces. Me marcho.}
-{315}{}{Espera ahí un momento, tribal… (sonríe mientras cierra el maletín). El viejo Tomcat dice que eres un jugador de equipo. Necesito gente así. Tengo un trabajo para ti, si estás interesado.}
+{315}{}{Espera ahí un momento, tribal… (sonríe mientras cierra el maletín). El viejo Tomcat dice que eres una jugadora de equipo. Necesito gente así. Tengo un trabajo para ti, si estás interesada.}
 {316}{}{Estoy escuchando.}
 {317}{}{No, en realidad tengo que irme.}
 {325}{}{(Te estudia durante un momento, luego asiente). Sí… tengo un trabajo para ti. }
@@ -89,7 +89,7 @@
 {381}{}{Un millar, o nada. Este es un trabajo especial, y tendré gastos. He de entrar en RNC, preparar el 'accidente',
  y lo más probable es que tenga que pagar aún MÁS dinero en algún objeto especial 'propenso a los accidentes'. Así que
  no me presiones a MÍ, ¿de acuerdo?}
-{382}{}{Que sean mil, y tienes a tu asesino.}
+{382}{}{Que sean mil, y tienes a tu asesina.}
 {383}{}{750 fichas deberían bastar.}
 {384}{}{500 fichas entonces. Westin es hombre muerto.}
 {385}{}{Entonces olvídalo. Consigue a algún otro. Me largo de aquí.}
@@ -146,7 +146,7 @@
 {537}{}{¿Tienes más trabajo para mí?}
 {538}{}{¿Esto arregla las cosas entre tú y yo? Si es así, me marcharé.}
 {539}{}{De acuerdo entonces. Es un placer hacer negocios contigo.}
-{545}{}{Espera aquí un minuto, tribal… lo hiciste bien. Tengo otro trabajo para ti, si estás INTERESADO.}
+{545}{}{Espera aquí un minuto, tribal… lo hiciste bien. Tengo otro trabajo para ti, si estás INTERESADA.}
 {547}{}{No, gracias. No me interesa.}
 {550}{}{(Te observa durante un momento, y luego asiente). }
 {551}{}{Sí… tengo un trabajo para ti. }
@@ -280,7 +280,7 @@
 {900}{}{Has entregado el maletín de Thomas Moore.}
 {925}{}{Has asesinado a Westin.}
 {950}{}{Te has cargado a Carlson.}
-{975}{}{Te has convertido en Iniciado de la Familia Bishop.}
+{975}{}{Te has convertido en Iniciada de la Familia Bishop.}
 {1805}{}{Sí… se rumorea en el Yermo que alguien que encaja con tu descripción aniquiló a los saqueadores del sur de Ciudad Refugio. }
 {1820}{}{Well, you must be one sly motherfucker to convince their guide to stop leading them through the mountains.
  And it could be I don't LIKE what you did down there.}

@@ -24,14 +24,14 @@
 {201}{}{Hnrggg}
 {202}{}{::Muestra los músculos::}
 {203}{}{::El boxeador te mira con ojos aterrados::}
-{204}{}{¿S-si, señor?}
+{204}{}{¿S-si, señora?}
 {205}{}{¿P-puedo ayu-yudarte?}
 {206}{}{¿Tú necesitas ayudante?}
 {207}{}{Uh-huh.}
 {208}{}{::Asiente estúpidamente a todo lo que dices::}
 {209}{}{Tú persona grande. Yo pequeño.}
 {210}{}{Tú duro. Yo débil.}
-{211}{}{Tengo hambre.}
+{211}{}{Yo hambrienta.}
 {212}{}{No gusto hablar.}
 {213}{}{Hueles bieeen.}
 {214}{}{Hueles como mi mamá.}
@@ -54,7 +54,7 @@
 {303}{}{Nfff}
 {304}{}{Hrggg}
 {305}{}{Ooof}
-{310}{}{¡Muy lento!}
+{310}{}{¡Demasiado lenta!}
 {311}{}{¡En la cara no!}
 {312}{}{¡Golpeas como mi abuela!}
 {313}{}{¡No por debajo de la cintura!}
@@ -64,7 +64,7 @@
 {321}{}{¡Estás noqueado, joder!}
 {322}{}{¿Quién manda aquí?}
 {323}{}{Si se muere, pues se muere.}
-{330}{}{¡Podría haber sido un contendiente!}
+{330}{}{¡Podría haber sido una contrincante de verdad!}
 {331}{}{¿Cómo es posible que tal... geggghhh...}
 {332}{}{*Huuuuurrrrllllll*}
 {333}{}{Ooh, osos amorosos...}
@@ -72,15 +72,15 @@
 {335}{}{No hay dolor, no hay dolor, no hay dolor...}
 {340}{}{¡Cómete esto!}
 {341}{}{¡¿Quieres un poco de esto?!}
-{342}{}{¡Cabrón!}
-{343}{}{Ahora eres mío.}
+{342}{}{¡Puta!}
+{343}{}{Ahora eres mía.}
 {344}{}{Yo desayuno boinas verdes.}
 {345}{}{Haadookin.}
 {346}{}{Ahora MORIRÁS.}
 {347}{}{SUPER... PUÑETAZO... TORNADO... NUCLEAR...}
 {350}{}{¡Adrian! ¡Adrian!}
 {351}{}{¡Vas a besar la lona!}
-{352}{}{Te voy a dar lo tuyo...}
+{352}{}{Te voy a hacer mi zorra...}
 {353}{}{Te voy a romper.}
 {354}{}{¡Luchas como un vagabundo!}
 {355}{}{¡No tienes agallas!}

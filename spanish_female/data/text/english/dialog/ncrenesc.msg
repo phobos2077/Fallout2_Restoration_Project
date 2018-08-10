@@ -34,14 +34,14 @@
 {259}{}{No gritas a }
 {260}{}{ te odia! }
 {261}{}{Me voy, me voy. Por ahora.}
-{270}{}{¿Yo? Oh, sólo soy el alegre Santa Claus, maldito imbécil a tiempo completo.}
+{270}{}{¿Yo? Oh, sólo soy el alegre Santa Claus, maldita imbécil a tiempo completo.}
 {271}{}{¿Yo? Sólo soy el alegre Santa Claus. Y TÚ debes de ser ese estúpido matón a sueldo que ha estado rondando por la ciudad como un
  perro famélico, hambriento de sus propios excrementos.}
 {272}{}{¿Yo? Sólo soy el alegre viejo Santa Claus. Y TÚ debes de ser el estúpido montón de basura del porno que calza como
  un caballo y es igual de estúpido.}
 {273}{}{Yo? Sólo soy el alegre viejo Santa Claus. Y TÚ debes de ser la estúpida basura del porno cuya trinchera usan los viejos
  verdes para satisfacer sus fantasías masturbatorias.}
-{274}{}{Bien, me alegra no tener que presentarme a mí mismo. ¿Qué estás haciendo aquí, "Santa"?}
+{274}{}{Bien, me alegra no tener que presentarme a mí misma. ¿Qué estás haciendo aquí, "Santa"?}
 {275}{}{¿Santa Claus? ¿Quién diablos es ese?}
 {276}{}{Oye, abuelete, otro comentario más como ese, y llevaré tus dientes de collar.}
 {277}{}{Oye, voy a dejar pasar tu comentario… por esta vez. Y ahora, ¿quién eres?}
@@ -301,20 +301,20 @@
 {865}{}{Entonces has hecho un viaje en balde. PAGUÉ al señor Salvatore su 'tributo' *hace dos semanas*, según su agenda. No sé
  quién eres, o qué crees que estás haciendo, pero no vas a obtener de mí una mísera ficha. Largo.}
 {866}{}{Oye, abuelete. Deja de tocarme las pelotas. Suelta las fichas, o vas a toser sangre.}
-{867}{}{Soy el representante del señor Salvatore. Me entregarás el tributo que he pedido, y lo harás ahora.}
+{867}{}{Soy la representante del señor Salvatore. Me entregarás el tributo que he pedido, y lo harás ahora.}
 {868}{}{Lo comprobaré en la agenda del señor Salvatore, y volveré. }
 {875}{}{¿Te has quedado sordo, muchacho? }
 {876}{}{¿Te has quedado sorda, muchacha? }
 {877}{}{HE DICHO. QUE. YA. PAGUÉ. EL. TRIBUTO. *Hace dos semanas*. Si de verdad estuvieras con Salvatore, sabrías eso. ¡Ahora piérdete!}
 {878}{}{Oye. Por última vez: Entrega las fichas.}
-{879}{}{Tú eres el que se ha quedado sordo. Soy el representante del señor Salvatore, y tú vas a pagar el tributo.}
+{879}{}{Tú eres el que se ha quedado sordo. Soy la representante del señor Salvatore, y tú vas a pagar el tributo.}
 {880}{}{Te he avisado, abuelete. Parece que tendremos que hacerlo por las malas. Hora de morir.}
 {881}{}{Comprobaré en la agenda del señor Salvatore lo del tributo, y volveré. }
 {890}{}{Demuestra que estás con Salvatore, y CONSIDERARÉ entregarte las fichas. De lo contrario, no vas a conseguir una mierda.}
 {891}{}{No necesito demostrar nada. Soy su representante, y eso es todo lo que necesitas saber.}
 {892}{}{¿Qué te crees, que esta pistola láser sólo es para ir enseñándola?}
 {893}{}{Si no me entregas el tributo en cinco segundos, TE MATARÉ.}
-{900}{}{¡Lárgate de una puta vez, matón del tres al cuarto! ¡Vuelve a mostrar tu cara por aquí, y te pegaré un tiro!}
+{900}{}{¡Lárgate de una puta vez, matona del tres al cuarto! ¡Vuelve a mostrar tu cara por aquí, y te pegaré un tiro!}
 {901}{}{Te lo advertí. Hora de morir.}
 {910}{}{Hmmmph. No importa, no puedo pagar. el último cobro casi me liquidó.}
 {911}{}{Eso no me concierne. Me entregarás el dinero ahora. El señor Salvatore no quiere oír tus excusas.}

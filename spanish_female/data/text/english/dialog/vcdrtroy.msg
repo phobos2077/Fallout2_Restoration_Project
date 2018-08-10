@@ -19,7 +19,7 @@
 {118}{}{Me duele, aquí duele}
 {119}{}{¿Asis-te-tencia?}
 {120}{}{(Arrástrate)}
-{121}{}{Busco la computadora principal. ¿Sabes dónde está?}
+{121}{}{Busco la computadora principal. ¿Puedes decirme donde está?}
 {122}{}{¿Qué es lo que haces aquí?}
 {123}{}{Sólo pasaba por aquí, gracias.}
 {124}{}{¿En serio? Es un placer conocerte. Si tienes tiempo, quizá podríamos comparar notas. 
@@ -40,12 +40,12 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {135}{}{Gracias.}
 {136}{}{Soy el médico principal de Ciudad Refugio. Cuido de todos los Ciudadanos de Ciudad Refugio y hago lo que puedo
  para mantenerlos saludables a todos.}
-{137}{}{Busco la computadora principal. ¿Sabes dónde está?}
+{137}{}{Busco la computadora principal. ¿Puedes decirme donde está?}
 {138}{}{Ya veo. Quizá hablemos mas tarde.}
-{139}{}{Espera un momento... no recuerdo haberte visto antes por aquí. ¿Eres un Ciudadano?}
+{139}{}{Espera un momento... no recuerdo haberte visto antes por aquí. ¿Eres una Ciudadana?}
 {140}{}{Sí. Acabo de conseguir mis documentos de Ciudadanía.}
 {141}{}{En realidad, Soy }
-{142}{}{. Soy el capitán de la guardia.}
+{142}{}{. Soy la capitán de la guardia.}
 {143}{}{Eh... claro. Claro que lo soy.}
 {144}{}{No, no lo soy.}
 {145}{}{Ha sido un placer conocerte, }
@@ -53,7 +53,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {147}{}{Gracias. Adiós.}
 {148}{}{No eres nativo de Ciudad Refugio, ¿verdad? Estoy seguro de que me acordaría de alguien
  como tú. ¿De dónde eres?}
-{149}{}{Espera un momento... eres un forastero, ¿verdad? ¿De dónde vienes?}
+{149}{}{Espera un momento... eres una forastera, ¿verdad? ¿De dónde vienes?}
 {150}{}{De un pequeño poblado hacia el oeste, Arroyo.}
 {151}{}{¿Por qué lo quieres saber?}
 {152}{}{Eso no te incumbe, "doctor". ¿Me puedo ir ya, no tienes más preguntas que hacerme?}
@@ -207,14 +207,14 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {280}{}{¿Sabes?, no creo que realmente quieras inhalar esa... porquería. Confía en mí.}
 {281}{}{Sin problemas. Gracias, Doc.}
 {282}{}{Hola, capitán. ¿Cómo puedo serle de ayuda?}
-{283}{}{Hola, Ciudadano. ¿Cómo puedo ayudarte?}
+{283}{}{Hola, Ciudadana. ¿Cómo puedo ayudarte?}
 {284}{}{¿Cómo puedo ayudarte?}
 {285}{}{¿Sí?}
 {286}{}{Me duele, aquí duele}
 {287}{}{¿Asis-te-tencia?}
 {288}{}{(Arrástrate)}
 {289}{}{Voy a necesitar tu pericia médica.}
-{290}{}{Mencionaste antes que eras un doctor... Yo soy algo así como un doctor.}
+{290}{}{Mencionaste antes que eras un doctor... Yo soy algo así como una doctora.}
 {291}{}{¿Tienes bloqueadores de endorfinas?}
 {292}{}{Tengo el Jet que querías.}
 {293}{}{Estoy interesado en ese trabajo, si aún está disponible.}
@@ -230,7 +230,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {301}{}{Oh, eres tú. ¿Qué quieres?}
 {302}{}{Necesito que me curen.}
 {303}{}{He sido envenenado.}
-{304}{}{Estoy irradiado.}
+{304}{}{He sido irradiada.}
 {305}{}{He venido a por mi dinero. ¿Lo tienes?}
 {306}{}{Estoy aquí para recordarte que estamos a día uno, y que será mejor que tengas mi dinero.}
 {307}{}{Nada... hoy.}
@@ -304,8 +304,8 @@ No suelo tener la oportunidad de hablar con otro médico.}
  milagro que no esté envenenado por el plomo. Al final logré sacarlo todo. Aquí está todo.}
 {362}{}{Eso debería encargarse del problema. Hazme saber si necesitas más asistencia médica.}
 {363}{}{También necesito que me curen.}
-{364}{}{Necesitaría ayuda... estoy irradiado.}
-{365}{}{He sido envenenado. ¿Puedes ayudarme?}
+{364}{}{Necesitaría ayuda... estoy irradiada.}
+{365}{}{He sido envenenada. ¿Puedes ayudarme?}
 {366}{}{Gracias, doctor. Dime, ¿sabes algo sobre implantes dérmicos?}
 {367}{}{Muy agradecido, doctor. Verás, tengo otras preguntas que quisiera hacerte...}
 {368}{}{Seguramente volveré. Gracias, doctor.}
@@ -313,7 +313,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {370}{}{Por supuesto, capitán. ¿Cuál es el problema?}
 {371}{}{Por supuesto. ¿Cuál es el problema?}
 {372}{}{Necesito que me curen.}
-{373}{}{Estoy irradiado.}
+{373}{}{He sido irradiada.}
 {374}{}{He sido envenenado.}
 {375}{}{¿Puedes ayudar a mi amigo?}
 {376}{}{¿Puedes ayudar a mis amigos?}

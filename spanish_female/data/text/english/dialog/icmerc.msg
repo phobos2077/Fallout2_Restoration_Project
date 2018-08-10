@@ -4,13 +4,13 @@
 {200}{}{Vaya, que cojonazos los de este hijo de puta...}
 {201}{}{¡Contacto!}
 {202}{}{¡Perímetro roto!}
-{203}{}{¡Tenemos intrusos, muchachos!}
-{204}{}{¡A divertirse, muchachos, tenemos un intruso!}
+{203}{}{¡Tenemos una intrusa, chicos!}
+{204}{}{¡Dispersaos, chicos, tenemos una intrusa!}
 {205}{}{Vaya, mira quién ha venido aquí a morir…}
 {206}{}{¡Maldición! ¡Alguien nos ha encontrado!}
 {207}{}{Tienes huevos viniendo aquí…}
 {208}{}{Has venido al lugar equivocado, puta.}
-{209}{}{Vaya, mira cómo se pavonea esta golfa...}
+{209}{}{Vaya, mira la soberbia de esta puta...}
 {250}{}{Salimos a beber, y él lo llamó 'hora de ajuste de actitud', así que le dimos una patada en el culo.}
 {251}{}{Tenemos que comprobar esas agrupaciones en la cueva...}
 {252}{}{Hora de volver a revisar el perímetro…}

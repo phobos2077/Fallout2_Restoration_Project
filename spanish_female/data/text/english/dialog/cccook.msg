@@ -9,7 +9,7 @@
 {108}{}{Bien, vamos allá. Tengo algo de la clásica bazofia, 'mierda sobre tablilla'. La nieve y la mierda de mosca se han acabado. ¿Algo más?}
 {109}{}{¿Qué quieres que como?}
 {110}{}{¿Mierda de mosca? ¿Qué coño de comida es esta?}
-{111}{}{Lo siento, debes ser nuevo en el ejército. No te ofendas, sólo es la forma en la que lo llamamos aquí. La 'mierda sobre tablilla' es ternera ahumada con pan tostado. La nieve y la mierda de mosca son sal y pimienta.}
+{111}{}{Lo siento, debes ser nueva en el ejército. No te ofendas, sólo es la forma en la que lo llamamos aquí. La 'mierda sobre tablilla' es ternera ahumada con pan tostado. La nieve y la mierda de mosca son sal y pimienta.}
 {112}{}{Oh... eso sabe más mejor que mierda. Hablamos mientras comer.}
 {113}{}{Ah, vale, lo siento. Charlemos un poco mientras como.}
 {114}{}{¿De qué quieres hablar?}
@@ -39,7 +39,7 @@
 {140}{}{El laboratorio médico ha sido ocupado por un cerebrín del Enclave llamado Schreber. Maldito hijo de puta; no le importa nada ni nadie. Ha estado haciendo alguna clase de experimentos con Garras mortales ahí abajo, pero no sé exactamente el qué. Eso sí, estaba haciendo toda clase de ruidos hasta que el comandante ordenó que insonorizaran la habitación.}
 {141}{}{Entiendo.}
 {142}{}{Interesante.}
-{143}{}{¡Ja! Hablamos de amor, amigo. Parece que uno de los frikis de los ordenadores está coladito por una de las reclutas, la guardia del laboratorio médico. Incluso tiene uno de esos nombres cursis para ella. La llama su "Caramelito".}
+{143}{}{¡Ja! Hablamos de amor, amiga. Parece que uno de los frikis de los ordenadores está coladito por una de las reclutas, la guardia del laboratorio médico. Incluso tiene uno de esos nombres cursis para ella. La llama su "Caramelito".}
 {144}{}{Qué cursi.}
 {145}{}{No, eso es todo. Si oigo algo ya te lo contaré. ¡Me gusta tanto hablar de ello como que me lo cuenten!}
 {146}{}{Gracias.}
@@ -48,9 +48,9 @@
 {149}{}{¿Dónde?}
 {150}{}{Ya veo.}
 {151}{}{¿Dónde?}
-{152}{}{En la esquina nordeste de la base, amigo. No tiene pérdida.}
+{152}{}{En la esquina nordeste de la base, amiga. No tiene pérdida.}
 {153}{}{De acuerdo. Gracias.}
-{156}{}{Me sorprende que no lo sepas, debes de ser un local, supongo. De todas formas, la base principal está en mitad del maldito océano. Bueno, no justo en el medio, pero podría estarlo. La única manera de llegar allí es con barco o un vertibird, y el maldito barco está a medio arreglar. Y necesitas un FOB para operar ese maldito cacharro.}
+{156}{}{Me sorprende que no lo sepas, debes de ser una local, supongo. De todas formas, la base principal está en mitad del maldito océano. Bueno, no justo en el medio, pero podría estarlo. La única manera de llegar allí es con barco o un vertibird, y el maldito barco está a medio arreglar. Y necesitas un FOB para operar ese maldito cacharro.}
 {157}{}{¿FOB?}
 {158}{}{Sí, es una tarjeta de acceso. El comandante la guarda en su oficina. Sin ella no se puede acceder a algunas zonas del barco e impide que los locales de San Fran nos hagan alguna visita inesperada.}
 {159}{}{Buena idea.}
@@ -66,7 +66,7 @@
 {169}{}{Ninguna, sólo venía a saludar.}
 {170}{}{Aquí está. Está muerto, está cocido, está irreconocible. Disfruta.}
 {171}{}{Eh... Gracias.}
-{172}{}{Hijo, puedo decirte por el olor que no estás llevando una de esas servoarmaduras. Como el Sargento te pille estás jodido. Y no hablo de la jodienda que da gustito. Ve cagando leches a intendencia y vístete.}
+{172}{}{Hija, puedo decirte por el olor que no estás llevando una de esas servoarmaduras. Como el Sargento te pille estás jodido. Y no hablo de la jodienda que da gustito. Ve cagando leches a intendencia y vístete.}
 {173}{}{Señorita, puedo decirte por el olor que no llevas una de esas servoarmaduras. Si el Sargento te pilla estás jodida. Y no hablo de ese tipo de jodienda. Ve cagando leches a intendencia y vístete.}
 {174}{}{¿Dónde?}
 {175}{}{De acuerdo.}

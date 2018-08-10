@@ -11,7 +11,7 @@
 {110}{}{Quiero algo de uranio.}
 {111}{}{Nada.}
 {112}{}{Olvídalo. Adiós.}
-{113}{}{Verás, hijo, siento que no tengas cerebro. Pero no puedes estar aquí. Vete ya.}
+{113}{}{Verás, hija, siento que no tengas cerebro. Pero no puedes estar aquí. Vete ya.}
 {114}{}{[HECHO]}
 {115}{}{No puedes estar aquí. Es peligroso. Vete ya.}
 {116}{}{[HECHO]}

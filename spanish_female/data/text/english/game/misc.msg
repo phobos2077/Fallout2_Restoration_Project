@@ -22,12 +22,12 @@
 {50}{}{Fallout 2 necesita el CD!}
 {100}{}{¡Error guardando archivo configuración!}
 {101}{}{Preferencias no guardadas.}
-{1000}{}{Te sientes mareado.}
-{1001}{}{Te sientes muy mareado, y tras vomitar levemente, ligeramente fatigado.}
-{1002}{}{Estás muy fatigado, no paras de vomitar, y tu tiempo de recuperación está afectado.}
-{1003}{}{Sufres una violenta hemorragia. Estás muy enfermo, y tu pelo se está cayendo.}
+{1000}{}{Te sientes mareada.}
+{1001}{}{Te sientes muy mareada, y tras vomitar levemente, ligeramente fatigada.}
+{1002}{}{Estás muy fatigada, no paras de vomitar, y tu tiempo de recuperación está afectado.}
+{1003}{}{Sufres una violenta hemorragia. Estás muy enferma, y tu pelo se está cayendo.}
 {1004}{}{Sufres una hemorragia violenta y continuada. Tus vómitos son de color rojo debido a la sangre. Se te cae la piel.}
-{1005}{}{Te sangran los intestinos y tienes una severa diarrea. Te sientes hinchado y notas una intensa agonía.}
+{1005}{}{Te sangran los intestinos y tienes una severa diarrea. Te sientes hinchada y notas una intensa agonía.}
 {1006}{}{Has muerto por envenenamiento por radiación.}
 {1007}{}{Has recibido una gran cantidad de radiación.}
 {1008}{}{El contador Geiger está sonando.}
@@ -81,7 +81,7 @@
 {9082}{}{Parece que estoy madurando muy bien.}
 {9083}{}{Estoy superando incluso a Gruthar en conocimiento.}
 {9084}{}{Soy de las más fuertes de mi manada.}
-{9085}{}{Soy el más fuerte de mi manada.}
+{9085}{}{Soy la más fuerte de mi manada.}
 {9090}{}{¡He aprendido cosas nuevas!}
 {9091}{}{¡He aprendido cosas nuevas!}
 {9100}{}{¡He aprendido cosas nuevas!}
@@ -93,12 +93,12 @@
 {9122}{}{ADAPTACION DE SISTEMA COMPLETADA.}
 {9123}{}{SISTEMAS DE APUNTADO RECALIBRADOS. 20% DE AUMENTO EN PRECISION.}
 {9124}{}{FUNCIONAMIENTO OPTIMO ALCANZADO.}
-{9130}{}{¡Jefe! Creo que por fin le he cogido el tranquillo a esto.}
-{9131}{}{¡Estoy mejorando! Te dije que no te decepcionaría, Jefe.}
+{9130}{}{¡Jefa! Creo que por fin le he cogido el tranquillo a esto.}
+{9131}{}{¡Estoy mejorando! Te dije que no te decepcionaría, Jefa.}
 {9132}{}{Oye... espera... ya lo pillo. No creo que esté apuntando con la suficiente precisión.}
-{9133}{}{¡Mira, Jefe! ¡Se le puede enseñar a un perro viejo nuevos trucos!}
-{9134}{}{¿Sabes qué, Jefe? Creo que realmente estoy aprendiendo un par de cosas.}
-{9135}{}{Me estoy volviendo bastante bueno en esto, Jefe. Todas las cosas buenas mejoran con el tiempo.}
+{9133}{}{¡Mira, Jefa! ¡Se le puede enseñar a un perro viejo nuevos trucos!}
+{9134}{}{¿Sabes qué, Jefa? Creo que realmente estoy aprendiendo un par de cosas.}
+{9135}{}{Me estoy volviendo bastante bueno en esto, Jefa. Todas las cosas buenas mejoran con el tiempo.}
 {9140}{}{¡He aprendido cosas nuevas!}
 {9141}{}{¡He aprendido cosas nuevas!}
 {9150}{}{¡He aprendido cosas nuevas!}

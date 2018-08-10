@@ -28,7 +28,7 @@
 {254}{}{Oye, me encontré con tu madre.}
 {255}{}{¿Qué puedes contarme sobre Richard?}
 {256}{}{Nada, gracias. Perdón por molestarte.}
-{265}{}{Vete a hacer puñetas, retrasado. No tengo tiempo de hablar con signos contigo.}
+{265}{}{Vete a hacer puñetas, retrasada. No tengo tiempo de hablar con signos contigo.}
 {266}{}{Te alejas}
 {275}{}{Soy Chris. Chris Wright. De la Familia Wright. ¿Lo preguntas por algo?}
 {276}{}{En realidad, sí. Estoy buscando trabajo. ¿La Familia Wright contrata a alguien?}

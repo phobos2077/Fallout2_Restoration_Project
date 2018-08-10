@@ -7,8 +7,8 @@
 {201}{}{Oye, }
 {202}{}{Ahí va todo un tío… y Jimmy J distingue a todo un tío en cuanto ve uno.}
 {203}{}{No todos los días alguien pisotea al Presidente en su propio patio trasero.}
-{204}{}{¿Quieres relajarte y celebrar tu victoria con un poco de Jet de Jeta Jimmy, héroe?}
-{205}{}{Salvas al mundo, y el Jeta Jimmy te ENTREGARÁ el mundo, héroe. Todo el Jet que quieras.}
+{204}{}{¿Quieres relajarte y celebrar tu victoria con un poco de Jet de Jeta Jimmy, heroína?}
+{205}{}{Salvas al mundo, y el Jeta Jimmy te ENTREGARÁ el mundo, heroína. Todo el Jet que quieras.}
 {206}{}{He oído que los hermanos Corsican te estaban buscando, héroe…}
 {220}{}{Jeta Jimmy es mi nombre, y tengo todo el Jet que NECESITAS.}
 {221}{}{¿Quieres colocarte de verdad? Jeta Jimmy es tu hombre.}
@@ -17,7 +17,7 @@
 {224}{}{¿Quieres despegar? Jeta Jimmy tiene el Jet que NECESITAS.}
 {225}{}{Tengo algo especial esta semana. Venga, hagamos un trato.}
 {226}{}{Puedes comprar la mierda que mata a la gente, o puedes comprar la limpia y potente mierda de Jeta Jimmy.}
-{227}{}{Jimmy J SIEMPRE tiene el negocio abierto, amigo.}
+{227}{}{Jimmy J SIEMPRE tiene el negocio abierto, amiga.}
 {228}{}{Si quieres alcanzar el cielo y dejar una estela mientras vuelas, habla con Jimmy, él es tu hombre.}
 {240}{}{(Este tipo tiene un ligero tic facial y una cicatriz que le baja por una de sus mejillas. La cicatriz parece una herida de cuchillo.) }
 {241}{}{Hermano, te puse los ojos encima en cuanto entraste en la calle. ¿Sabes lo que veo?}
@@ -61,10 +61,10 @@
 {314}{}{¡Yo olvido! ¡Yo tenía al fin una idea y yo olvido! }
 {330}{}{Oye… le resultas FAMILIAR a Jimmy. ¿Te conozco, mi amigo piloto?}
 {331}{}{JURARÍA que sé quién eres, mi amigo piloto. Me resultas jodidamente familiar…}
-{332}{}{YO GRAN HÉROE, RESUELVO JUEGO Y PATEO CULOS Y VUELO POR LOS AIRES PLATAFORMA DE PETRÓLEO Y SALVO A MUNDO.}
+{332}{}{YO GRAN HEROÍNA, RESUELVO JUEGO Y PATEO CULOS Y VUELO POR LOS AIRES PLATAFORMA DE PETRÓLEO Y SALVO A MUNDO.}
 {333}{}{Yo lucho en cuadrado delante de mucha gente que grita y grita mata mata al joputa y entonces yo pego hasta que cae.}
 {334}{}{Yo desagradable con extraños que hablan a Dios un montón.}
-{335}{}{Yo INICIADO. Yo GRAN hombre en RENO.}
+{335}{}{Yo INICIADA. Yo GRAN mujer en RENO.}
 {336}{}{¿Cómo puede uno conocer a otro DE VERDAD, Jimmy? ¿Es incluso posible mientras nos encontramos en este cuerpo mortal? ¿O sólo es posible cuando
  nos liberamos de nuestros cuerpos físicos?}
 {337}{}{Yo QUIERO hablar pero tú no DEJAS a mí adiós.}
@@ -85,7 +85,7 @@
 {375}{}{(Jimmy cae en un profundo silencio. Crees que le has paralizado el cerebro).}
 {376}{}{(Robas todo lo que tiene).}
 {377}{}{ ha terminado su trabajo aquí.}
-{385}{}{Jeta Jimmy J reparte un montón de amor, mi amigo piloto, pero el mundo no siempre le devuelve amor a Jeta Jimmy J, ¿comprendes?}
+{385}{}{Jeta Jimmy J reparte un montón de amor, mi amiga piloto, pero el mundo no siempre le devuelve amor a Jeta Jimmy J, ¿comprendes?}
 {386}{}{Te entiendo. Vaya que sí.}
 {387}{}{Ya lo sé. A veces el mundo es un lugar cruel.}
 {388}{}{Esa es una historia GENIAL. Oye, Jimmy, tenía algunas otras preguntas…}
@@ -120,7 +120,7 @@
 {465}{}{Me GUSTA la gente, y NO me gusta cuando alguien se mete con otra persona sólo porque puede. Esa mierda simplemente está MAL.}
 {466}{}{Eres un tipo valiente, Jimmy, un tipo valiente. Lleva tu cicatriz con orgullo. Oye, ¿puedo ver lo que tienes a la venta?}
 {467}{}{Tienes razón sobre eso. Oye, tenía algunas preguntas más…}
-{475}{}{Demonios, mi amigo piloto, me gustas, así que no actives esa pantalla de comercio con sus fusibles y cables y todo eso.}
+{475}{}{Demonios, mi amiga piloto, me gustas, así que no actives esa pantalla de comercio con sus fusibles y cables y todo eso.}
 {476}{}{Eh… vale… ¿entonces cómo hacemos un trato…?}
 {480}{}{Mira, esto es un mal negocio y todo eso, o sea que no se lo cuentes a nadie, pero déjame que te dé un poco de Jet
  así entre amigos. La próxima vez, claro, lo pagarás, pero ésta corre a cuenta de Jeta Jimmy J, ¿vale?}

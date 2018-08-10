@@ -30,7 +30,7 @@
 {129}{}{¡Espera! ¿Dónde busco gremio?}
 {130}{}{Espera, ¿puedes decirme dónde está el gremio de esclavistas?}
 {131}{}{Hola otra vez. No tengo nada más que decirte.}
-{132}{}{. Bueno... ciertamente has recorrido un largo camino para un simple tribal. Deberías visitar alguna vez nuestra oficina en la República de Nueva California. Podría resultarte gratificante. Ahora, si me perdonas...}
+{132}{}{. Bueno... ciertamente has recorrido un largo camino para una simple tribal. Deberías visitar alguna vez nuestra oficina en la República de Nueva California. Podría resultarte gratificante. Ahora, si me perdonas...}
 {133}{}{Hola otra vez. No tengo nada más que decirte.}
 {134}{}{Esperas...}
 {135}{}{Esa es una oficina privada.}

@@ -10,7 +10,7 @@
 {112}{}{Quiero unirme a los Hubologistas.}
 {113}{}{¿Quién eres TÚ? ¿Y qué estás haciendo TÚ aquí?}
 {114}{}{Nada. Adiós.}
-{115}{}{Genial, un idiota. Mira, amigo, sólo baja esas escaleras y quizá te puedan ajustar tus neurodinas y hacer algo útil de ti. Pero hasta entonces estoy ocupado. Y ahora vete.}
+{115}{}{Genial, una idiota. Mira, amiga, sólo baja esas escaleras y quizá te puedan ajustar tus neurodinas y hacer algo útil de ti. Pero hasta entonces estoy ocupado. Y ahora vete.}
 {116}{}{¡Va-vale!}
 {117}{}{Déjala abajo. Muéstrasela a AHS-7, que tiene turno de guardia de puertas, y él la recogerá o te enviará a AHS-9. Y ahora, ¿puedo volver a trabajar, trozo de carne?}
 {118}{}{Claro.}
@@ -27,15 +27,15 @@
 {129}{}{Nadie que te importe.}
 {130}{}{Quiero unirme a los Hubologistas.}
 {131}{}{Nada. Adiós.}
-{132}{}{No estás dispuesto a cooperar, ¿eh? ¡Guardias! ¡Matad al intruso!}
+{132}{}{No estás dispuesto a cooperar, ¿eh? ¡Guardias! ¡Matad a la intrusa!}
 {133}{}{Tus guardias son hombres muertos.}
 {134}{}{Baja por ese ascensor y habla con AHS-7 en el puesto de guardia. Él te dirigirá adecuadamente.}
 {135}{}{Gracias. Adiós.}
 {161}{}{. Sólo estoy echando un vistazo.}
 {162}{}{. Sólo estoy echando un vistazo.}
 {163}{}{. Sólo estoy echando un vistazo.}
-{170}{}{Necesito ayuda, chico. ¿Puedes ayudarme?}
-{171}{}{Sigo necesitando ayuda, chico. ¿Puedes ayudarme?}
+{170}{}{Necesito ayuda, chica. ¿Puedes ayudarme?}
+{171}{}{Sigo necesitando ayuda, chica. ¿Puedes ayudarme?}
 {172}{}{¿Quién eres?}
 {173}{}{¿Qué estás haciendo aquí?}
 {174}{}{Tengo una copia de los planos de los Shi.}

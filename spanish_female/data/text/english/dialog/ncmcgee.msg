@@ -61,9 +61,9 @@
 {296}{}{¿Chupapollas? ¡¿CHUPAPOLLAS?! Abuelo, vas necesitar cirugía para extraer mi bota de tu culo.}
 {297}{}{¿Zorra? ¿ZORRA? Abuelo, vas necesitar cirugía para extraer mi bota de tu culo.}
 {298}{}{Lo que sea. Me marcho.}
-{305}{}{¡¿Hablar?! ¡¿HABLA?! ¡¿De qué COJONES tenemos que hablar, jodido ladrón?!}
+{305}{}{¡¿Hablar?! ¡¿HABLA?! ¡¿De qué COJONES tenemos que hablar, jodida ladrona?!}
 {307}{}{Oye, he ganado el dinero de forma justa, abuelo. ¿No te gusta? Ese es TU problema.}
-{309}{}{¿Ladrón? Abuelo, será mejor que vigiles tu lengua antes de que te le baje por la garganta.}
+{309}{}{¿Ladrona? Abuelo, será mejor que vigiles tu lengua antes de que te le baje por la garganta.}
 {310}{}{Entonces olvídalo. Me marcho.}
 {315}{}{Muchacho, no me vengas con GILIPOLLECES. Lo único que vas a hacer es comer balas.}
 {316}{}{Muchacha, no me vengas con GILIPOLLECES. Lo único que vas a hacer es comer balas.}
@@ -124,7 +124,7 @@
 {426}{}{}
 {427}{}{(Resopla) ¿Dejarte tocar mi máquina? ¡¿Y robarme la suerte?! ¡Diablos, no! ¡Largo de aquí!}
 {428}{}{De acuerdo entonces...}
-{435}{}{¡Maldito retrasado balbuceante! ¡Voy a recuperar ese dinero ahora mismo!}
+{435}{}{¡Maldita retrasada balbuceante! ¡Voy a recuperar ese dinero ahora mismo!}
 {445}{}{Entonces parece que recuperaré mi dinero de tu cadáver, muchacho! ¡Prepárate para tragar plomo!}
 {446}{}{Entonces parece que recuperaré mi dinero de tu cadáver, muchacha! ¡Prepárate para tragar plomo!}
 {455}{}{He metido los ahorros de toda mi vida en esa pequeña puta manca y ni siquiera me ha dado

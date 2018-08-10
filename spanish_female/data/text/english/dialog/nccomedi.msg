@@ -85,9 +85,9 @@
 {10001}{}{*Aplausos*}
 {10002}{}{::Silbidos::}
 {10003}{}{¡Increíble!}
-{11000}{}{Je je. ¿Habéis oído lo de ese tribal que acabó con el Enclave?}
+{11000}{}{Je je. ¿Habéis oído lo de esa tribal que acabó con el Enclave?}
 {11001}{}{El tribal era taaan estúpido que, eh, el tribal, bueno… eh, voló su plataforma.}
 {11002}{}{¡BOOM!}
-{11003}{}{¿He mencionado que el tribal era estúpido?}
+{11003}{}{¿He mencionado que la tribal era estúpida?}
 {11004}{}{¡Tú eres el estúpido!}
 {11005}{}{}

@@ -10,20 +10,20 @@
 {215}{}{Eh, oye… Bishop te espera, ¿no, }
 {216}{}{? Adelante. Y deja de andar a hurtadillas.}
 {221}{}{? Adelante.}
-{225}{}{Estás entrando en el lugar EQUIVOCADO, tarado.}
-{226}{}{Vaya, mira las pelotas de acero de este hijo de puta... lárgate, chico, antes de que te peguemos un tiro.}
+{225}{}{Estás entrando en el lugar EQUIVOCADO, tarada.}
+{226}{}{Vaya, mira las pelotas de acero de esta hija de puta... lárgate, chica, antes de que te metamos una bala en el entrecejo.}
 {227}{}{Este tipo busca problemas…}
 {228}{}{Mejor será que te vayas, }
 {229}{}{Vaya, pero si es }
 {230}{}{Oigo a }
 {231}{}{No creía que fueras miembros de la Familia }
 {232}{}{Estás entrando en el lugar EQUIVOCADO, zorra.}
-{233}{}{Vaya, mira cómo se pavonea esta golfa...}
+{233}{}{Vaya, mira la soberbia de esta puta...}
 {234}{}{Lárgate, muchacha. Antes de que te pequemos un tiro.}
 {235}{}{Esta zorra busca problemas…}
 {236}{}{Oigo a }
-{245}{}{Eh, campeón. Nada de armas aquí, ¿vale?}
-{246}{}{¡Eh, campeón! Guarda el arma.}
+{245}{}{Eh, campeona. Nada de armas aquí, ¿vale?}
+{246}{}{¡Eh, campeona! Guarda el arma.}
 {247}{}{Oye, }
 {255}{}{¿Por qué estás andando a hurtadillas?}
 {256}{}{¿Estás intentando evitar a tus fans?}
@@ -101,7 +101,7 @@
  PUT --}
 {435}{}{Si no lo sabes, es que no NECESITAS saberlo. Desaparece.}
 {445}{}{Pues mala cosa, porque Bishop tomó la autopista hacia el cielo no hace mucho. Y ahora lárgate.}
-{446}{}{¿Estás sordo? El puñetero John Bishop está jodidamente MUERTO, ¿vale? Ahora sal de aquí antes de que te unas a él.}
+{446}{}{¿Estás sorda? El puñetero John Bishop está jodidamente MUERTO, ¿vale? Ahora sal de aquí antes de que te unas a él.}
 {447}{}{Mira, necesito subir, sólo un segundo.}
 {448}{}{Está bien, me marcho.}
 {455}{}{No, conozco la agenda del señor Bishop, y tú no estás en ella.}

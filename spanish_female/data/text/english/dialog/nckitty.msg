@@ -10,7 +10,7 @@
 {215}{}{(La mujer que tienes en frente es extremadamente bella. Conforme te diriges a ella, deja lo que estaba haciendo, y
  sonríe) ¡Ah, una cara nueva! Soy Miss Kitty… encantada de recibirte en la Garra de la Gata.}
 {216}{}{¡Hola otra vez!}
-{217}{}{¡Vaya, pero si es el más famoso luchador de Reno!}
+{217}{}{¡Vaya, pero si es la más famosa luchadora de Reno!}
 {218}{}{Me preguntaba cuándo el señor }
 {219}{}{Vaya, vaya, pero si es la estrella del celuloide.}
 {220}{}{ ¿Qué te apetece hoy, señor?}
@@ -85,7 +85,7 @@
 {375}{}{Seguro que podremos complacerte. ¿Y tu petición sería…?}
 {376}{}{Me gustaría que mi pareja se vistiera con un uniforme de Refugio, me llamase "Morador del Refugio", y yo tendría que encontrar
  su "Refugio".}
-{377}{}{Me gustaría ser "capturado" por una deslumbrante mutante, y forzado a sumergirme profundamente en su "depósito" mutante.}
+{377}{}{Me gustaría ser "capturada" por una deslumbrante mutante, y forzada a sumergirme profundamente en su "depósito" mutante.}
 {378}{}{Me gustaría adoptar el papel de "Herk", un joven e inocente esclavo raptado de su poblado por una banda de lujuriosas
  esclavistas. Y aquí viene lo bueno… él sólo puede comunicarse usando su CUERPO.}
 {379}{}{Me gustaría adoptar el papel de "Zena", una joven e inocente esclava raptada de su poblado por una banda de
@@ -169,7 +169,7 @@ el mismo mensaje continuamente. Aunque seguro que TODAVÍA seguirá saliendo, aunq
 {529}{}{Patear culos y quedarme con las chicas, ese es mi trabajo.}
 {545}{}{Eres tan humilde. }
 {546}{}{Eres tan fuerte. Tienes tanta… confianza. }
-{547}{}{TODO tú me encanta. (Hace un ademán hacia La Garra de la Gata). Siempre serás bienvenido aquí, y sin coste alguno.}
+{547}{}{TODA tú me encanta. (Hace un ademán hacia La Garra de la Gata). Siempre serás bienvenida aquí, y sin coste alguno.}
 {548}{}{Y… ¿qué hay de aquella cita de la que hablamos hace algún tiempo?}
 {549}{}{Y… ¿qué tal… ya sabes, tú y yo… si entonces… ya sabes.}
 {550}{}{Muñeca, empiezo a sentirme como una máquina, y eso no es plan. Ven aquí.}

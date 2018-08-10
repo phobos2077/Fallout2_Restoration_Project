@@ -13,16 +13,16 @@
 {112}{}{Oh, AHS-9, vengo con una carta de tu agente en RNC. Me inclino ante tu gloria.}
 {113}{}{Tu muerte. Adiós, anciano.}
 {114}{}{Nada, lo siento.}
-{115}{}{¿Sí, hijo mío?}
+{115}{}{¿Sí, hija mía?}
 {116}{}{¿Hinchoaf? [¿Puedes entenderme?]}
 {117}{}{Aagga diggle doodle doo! [Oh, gracias a Dios. Estoy buscando a mi pueblo. Necesito cruzar el agua grande].}
 {118}{}{Poopy pants! [Bien, gracias por tu tiempo. Tengo que marcharme ahora. Un placer hablar contigo].}
 {119}{}{No entiendo una sola palabra de lo que dices. Quizás deberías hablar con Juan o a Vikki para un alineamiento.}
 {120}{}{¡G-gracias!}
-{121}{}{Por supuesto, hijo. El alineamiento ha limpiado tus neurodinas básicas y las alineado con las mías y con los radios de la Gran Rueda. ¿Qué necesitas?}
+{121}{}{Por supuesto, hija. El alineamiento ha limpiado tus neurodinas básicas y las alineado con las mías y con los radios de la Gran Rueda. ¿Qué necesitas?}
 {122}{}{Aagga diggle doodle doo! [Oh, gracias a Dios. Estoy buscando a mi pueblo. Necesito cruzar el agua grande].}
 {123}{}{B-b-b-enny [Nada, gracias. Sólo es agradable hablar contigo. ¡Adiós!]}
-{124}{}{Si aceptas hacerme un favor, puedo ayudarte, hijo.}
+{124}{}{Si aceptas hacerme un favor, puedo ayudarte, hija.}
 {125}{}{¿Oik? [¿Qué es? Me alegraría ser de ayuda].}
 {126}{}{¡No!}
 {127}{}{Mi homólogo, el Emperador de Ciudad-Shi, me ha estado haciendo la vida imposible. Querría que pusieras fin a eso. A cambio, me aseguraré de que puedas llegar a donde deseas estar.}
@@ -31,7 +31,7 @@
 {130}{}{Si cambias de opinión, házmelo saber. Recuerda, puede que yo sea la única forma que tengas de llegar hasta tu familia.}
 {131}{}{Vale. [¿Qué favor?]}
 {132}{}{Didgeroo! [Gracias, prefiero no deberle nada a nadie. ¡Hasta la vista!]}
-{133}{}{Bien. Avísame cuando lo hayas hecho, y mientras tanto comenzaré a investigar formas con las que podamos lograr tu objetivo. Adiós, hijo.}
+{133}{}{Bien. Avísame cuando lo hayas hecho, y mientras tanto comenzaré a investigar formas con las que podamos lograr tu objetivo. Adiós, hija.}
 {134}{}{D'bye! [Hasta la vista, AHS-9. Eres un gran hombre].}
 {135}{}{¿Has completado tu tarea? Tu futuro y el de la Rueda en este planeta dependen de ello.}
 {136}{}{Unh-uh [Aún no. Sólo quería decir hola].}
@@ -47,12 +47,12 @@
 {146}{}{¿Naves voladoras? Debes referirte al Enclave y sus vertibirds.}
 {147}{}{Sí, supongo que sí.}
 {148}{}{¿Enclave? ¿Enclave quién?}
-{149}{}{Confía en mí, hijo, te estás refiriendo al Enclave.}
+{149}{}{Confía en mí, hija, te estás refiriendo al Enclave.}
 {150}{}{Sí, está bien. ¿Cómo los encuentro?}
 {151}{}{El Enclave es un remanente del pasado, una neurodina que todavía tiene que alinearse. Tienen bases ocultas por todos los fragmentos de la vieja California, y su fortaleza más poderosa está hacia el oeste, sobre las aguas.}
 {152}{}{¿Cómo llego allí?}
 {153}{}{¿Cómo sabes todo esto?}
-{154}{}{Eso, hijo mío, tendrás que descubrirlo tú mismo. Pregunta y encontrarás la verdad.}
+{154}{}{Eso, hija mía, tendrás que descubrirlo tú misma. Pregunta y encontrarás la verdad.}
 {155}{}{Muy útil. Tengo más preguntas.}
 {156}{}{¿Cómo sabes todo esto?}
 {157}{}{Lo que sea. Adiós.}
@@ -74,7 +74,7 @@
 {173}{}{Ahh, una carta de mi agente de campo. Lástima que se llame a sí misma "La Primera Iluminada": eso demuestra sin duda que no está iluminada. Tienes mi gratitud.}
 {174}{}{No hay problema. Aunque tengo una o dos preguntas.}
 {175}{}{Genial. Adiós.}
-{176}{}{¿Sí, hijo mío?}
+{176}{}{¿Sí, hija mía?}
 {177}{}{¿Cuando partirá la nave espacial?}
 {178}{}{¿Tienes alguna misión para mí?}
 {179}{}{¿A dónde va todo el dinero que entregamos?}
@@ -85,7 +85,7 @@
 {184}{}{Busca a Badger, cuya cáustica presencia mantiene juntos a esos patéticos vagabundos del petrolero. Libra a nuestra bella ciudad de ellos. Cuando lo hayas hecho, visita a AHS-7.}
 {185}{}{Dalo por hecho, jefe. Nos vemos.}
 {186}{}{Preferiría no hacerlo.}
-{187}{}{No era consciente de que hubiera hecho una petición, hijo. ¡Matadlo!}
+{187}{}{No era consciente de que hubiera hecho una petición, hija. ¡Matadlo!}
 {188}{}{No.}
 {189}{}{Oh, está bien. Lo haré.}
 {190}{}{¿Desobedeces las órdenes de AHS-9, el Grande y Terrible? Entonces debes morir.}
@@ -93,13 +93,13 @@
 {192}{}{Espera, he cambiado de opinión.}
 {193}{}{Demasiado tarde, trozo de carne. Has demostrado que no eres de confianza. ¡Muere!}
 {194}{}{[HECHO]}
-{195}{}{Hijo, hay algunas cosas que no estás destinado a conocer por ahora [sonríe beatíficamente].}
+{195}{}{Hija, hay algunas cosas que no estás destinado a conocer por ahora [sonríe beatíficamente].}
 {196}{}{Bien. Tengo más preguntas.}
 {197}{}{Hm. Adiós.}
 {198}{}{El ESS Quetzel se lanzará cuando las estrellas sean propicias. }
 {199}{}{Pues vale. Tengo más preguntas.}
 {200}{}{Gracias. Adiós.}
-{201}{}{Tu aura ladina me dice que no has venido aquí con buenas intenciones. Dime, hijo: ¿deseas beneficiarte de tu cometido?}
+{201}{}{Tu aura ladina me dice que no has venido aquí con buenas intenciones. Dime, hija: ¿deseas beneficiarte de tu cometido?}
 {202}{}{Sí.}
 {203}{}{No.}
 {204}{}{No, sólo te quiero muerto.}
@@ -109,7 +109,7 @@
 {208}{}{Entonces ve a herir a esas almas molestas. Espero saber de tu éxito [sonríe beatíficamente].}
 {209}{}{Hasta la vista.}
 {210}{}{No, espera, he cambiado de opinión. Te quiero muerto.}
-{211}{}{Ah, hijo, ¿cómo has podido desviarte del camino de la verdad de esta manera? Veo en tu aura que planeas matarme. Estoy amargamente decepcionado. Muy amargamente. Ah, en fin. Hagámoslo.}
+{211}{}{Ah, hija, ¿cómo has podido desviarte del camino de la verdad de esta manera? Veo en tu aura que planeas matarme. Estoy amargamente decepcionado. Muy amargamente. Ah, en fin. Hagámoslo.}
 {212}{}{Sí, hagámoslo. Muere.}
 {213}{}{Recuerda, tendrás que visitar a AHS-7 cuando hayas completado tu tarea.}
 {214}{}{Todas nuestras necesidades han sido cubiertas. Ahora es tiempo de que medite.}

@@ -16,15 +16,15 @@
 {115}{}{G-gracias.}
 {116}{}{¿Quieres aprender? ¿Tienes lo que hay que tener? Veamos.}
 {117}{}{[HECHO]}
-{118}{}{¿Enseñarte? No lo creo. Pareces demasiado mojigato. Lárgate de aquí.}
+{118}{}{¿Enseñarte? No lo creo. Pareces demasiado mojigata. Lárgate de aquí.}
 {119}{}{¿Pero qu... ?}
-{120}{}{Oh, mira, el idiota. No quiero hablar contigo. Vete.}
+{120}{}{Oh, mira, la idiota. No quiero hablar contigo. Vete.}
 {121}{}{Duhhh...}
 {122}{}{¿Él? El Dragón. Es un hombre débil que fomenta la debilidad.}
 {123}{}{Las personas son ovejas. Deberías servirte a ti mismo.}
 {124}{}{¿Qué, eres malvado?}
 {125}{}{Ya veo. Tengo más preguntas.}
-{126}{}{¿Malvado? No lo creo. Sólo inteligente. Quizá si estás tan preocupado por hacer lo correcto para la gente, deberías ver al Dragón. Le gustan los simplones débiles como tú.}
+{126}{}{¿Malvado? No lo creo. Sólo inteligente. Quizá si estás tan preocupada por hacer lo correcto para la gente, deberías ver al Dragón. Le gustan los simplones débiles como tú.}
 {127}{}{[HECHO]}
 {128}{}{Sí, debería. Y lo hago. Desafortunadamente, el Dragón se interpone en mi camino. Estamos demasiado igualados en nuestra lucha uno contra otro. Necesito a una persona entrenada que me ayude.}
 {129}{}{Yo soy esa persona.}
@@ -45,7 +45,7 @@
 {144}{}{Genial. Espero que tengas preparada una tumba. ¿Te ha enviado el Dragón?}
 {145}{}{Sí. Hago esto por los Shi.}
 {146}{}{No. Hago esto porque creo que eres escoria.}
-{147}{}{Un tipo duro, ¿eh? Primero lucharás con mis hombres, y entonces veremos si mereces pelear conmigo.}
+{147}{}{Una tipa dura, ¿eh? Primero lucharás con mis hombres, y entonces veremos si mereces pelear conmigo.}
 {148}{}{[COMENZAR]}
 {149}{}{Soy Lo Pan. También soy el enemigo acérrimo del Dragón. El por qué insiste en tener un enemigo acérrimo se me escapa. Lucho tan bien como él, y creo que es débil de corazón y permite a otros vivir bajo su sombra. Somos enemigos porque tenemos el mismo estilo de lucha, y aquel que venza será quien prosiga la tradición.}
 {150}{}{A mí no se me da mal el combate mano a mano. ¿Quieres darme una oportunidad?}
@@ -53,10 +53,10 @@
 {152}{}{Gracias. Adiós.}
 {153}{}{Puede que sea un cabrón, pero nunca se podrá decir que no defiendo a mi gente. Voy a hacerte daño antes de matarte.}
 {154}{}{[HECHO]}
-{155}{}{Entonces eres un tonto y un perro que recibe órdenes de otros. Reiré cuando mueras.}
+{155}{}{Entonces eres una tonta y un perra que recibe órdenes de otros. Reiré cuando mueras.}
 {156}{}{[Atacas ya, con armadura y armas]}
 {157}{}{[Entras en el cuadrilátero, dejas a un lado armadura y armas, y luchas mano a mano]}
-{158}{}{Bien. Al menos eres tu propio dueño. ¿Eres lo bastante fuerte como para luchar sin armadura ni armas?}
+{158}{}{Bien. Al menos eres tu propia dueña. ¿Eres lo bastante fuerte como para luchar sin armadura ni armas?}
 {159}{}{[Atacas ya, con armadura y armas]}
 {160}{}{[Entras en el cuadrilátero, dejas a un lado armadura y armas, y luchas mano a mano]}
 {161}{}{¡Beee, oveja, beee! Vuelve con tus amos. No tengo nada que decirte.}
@@ -86,14 +86,14 @@
 {206}{}{Soy Imbot. Prepárate.}
 {207}{}{Soy Wejungh. Prepárate.}
 {208}{}{Soy Loopal. No llegarás más lejos.}
-{209}{}{Soy Smitty. Es hora de que seas vencido.}
-{210}{}{Soy el maestro Krall. Estás acabado.}
+{209}{}{Soy Smitty. Es hora de que seas vencida.}
+{210}{}{Soy el maestro Krall. Estás acabada.}
 {211}{}{¡LUCHA!}
 {212}{}{Necesitas entrenar más.}
 {213}{}{¡Prepárate!}
 {214}{}{Has vencido a Lo Pan en combate mortal. Por alguna razón el sol parece un poco más brillante hoy.}
 {215}{}{Ya has derrotado a mis hombres. Has pasado mi prueba. Estás listo para luchar con el Dragón.}
-{216}{}{Ya eres lo bastante bueno. Ve a aprender a disparar o algo así.}
+{216}{}{Ya eres lo bastante buena. Ve a aprender a disparar o algo así.}
 {217}{}{Empecemos. Sigue mis indicaciones.}
 {218}{}{El entrenamiento se realiza durante el día.}
 {219}{}{Has aprendido bien.}

@@ -25,8 +25,8 @@
 {309}{}{¿Vienes a jugar?}
 {310}{}{¿Cómo es el mundo exterior?}
 {311}{}{Frankie es un canalla. Se porta mal con Becky sin razón alguna.}
-{312}{}{¿Eres amigo de Becky?}
-{313}{}{¡Tomate una copa, amigo!}
+{312}{}{¿Eres amiga de Becky?}
+{313}{}{¡Tomate una copa, amiga!}
 {314}{}{¡Bebamos! ¡Las bebidas son baratas!}
 {315}{}{Estas no están aguadas de ninguna manera.}
 {316}{}{Esa chica sabe lo que se hace.}

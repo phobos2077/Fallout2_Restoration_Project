@@ -17,7 +17,7 @@
 {142}{}{A mí me pareces otro chiflado más. Me largo de aquí.}
 {150}{}{{Bueno, está justo… ¡Oye!, De todos modos, ¿quién eres tú?}
 {151}{}{Sólo soy un trotamundos.}
-{152}{}{Soy el Elegido.}
+{152}{}{Soy la Elegida.}
 {153}{}{Estoy aquí para mi Renovación anual.}
 {154}{}{Estará bien. Sólo tengo que hacerle un par de preguntas.}
 {160}{}{Bien, pues trota fuera de aquí.}
@@ -29,14 +29,14 @@
 {181}{}{Vale.}
 {200}{}{Sí, puedes Renovarte por completo ahí dentro.}
 {201}{}{Vale.}
-{210}{}{¿Ook? ¿Qué quieres decir con eso? ¿Es que eres tonto?}
+{210}{}{¿Ook? ¿Qué quieres decir con eso? ¿Es que eres tonta?}
 {211}{}{¿Goop?}
 {220}{}{Lárgate de aquí. El Cerebro no tiene tiempo para los de tu clase.}
 {221}{}{Vale. Ya me marcho.}
 {230}{}{Aquí abajo no hay nada excepto la guarida del Cerebro. Muchacho, eres tonto.}
 {231}{}{¿El Cerebro?}
 {232}{}{Sólo te estaba probando. Y lo has hecho bien. Ahora, déjame entrar.}
-{233}{}{Supongo que estoy confuso. Debe de ser toda esta radiación. Adiós.}
+{233}{}{Supongo que estoy confusa. Debe de ser toda esta radiación. Adiós.}
 {240}{}{Ups. Eh, aquí no hay nada. Nada de nada. Límitate a marcharte ahora.}
 {241}{}{¿Estás seguro de que aquí no hay nada?}
 {242}{}{De acuerdo. Adiós.}

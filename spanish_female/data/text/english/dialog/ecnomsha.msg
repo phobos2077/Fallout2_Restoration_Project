@@ -1,7 +1,7 @@
 {100}{}{Ves a un cháman nómada.}
 {101}{}{Parece ser un cháman nómada.}
 {102}{}{Sus ropas estás impregnadas del fuerte olor de las hierbas.}
-{103}{}{Hola, forastero. Soy el cháman de la tribu. Estoy versado en el arte de la curación.}
+{103}{}{Hola, forastera. Soy el cháman de la tribu. Estoy versado en el arte de la curación.}
 {104}{}{Hola de nuevo.}
 {105}{}{Necesito que me cures.}
 {106}{}{¿Puedes combinar la raíz de Xandria con la flor de Broquia?}
@@ -34,9 +34,9 @@
 {133}{}{[FIN]}
 {134}{}{No tengo tiempo para tonterías. ¡Vete!}
 {135}{}{[FIN]}
-{136}{}{[Envenenado]}
-{137}{}{[Herido]}
-{138}{}{[Irradiado]}
+{136}{}{[Envenenada]}
+{137}{}{[Herida]}
+{138}{}{[Irradiada]}
 {139}{}{[Tienes un miembro roto]}
 {140}{}{Curar el envenenamiento,}
 {141}{}{Arreglar un miembro roto,}

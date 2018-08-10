@@ -6,9 +6,9 @@
 {105}{}{Al infierno con la espera. Yo digo que aplastemos a estos salvajes y acabemos de una vez.}
 {106}{}{¿Tienes una linterna? Oh, espera, olvídalo. Tengo una.}
 {107}{}{Habrá timba de dados tras el hangar esta noche. Que no se entere el comandante.}
-{108}{}{¿Pero quién--? <zzzt> ¡Tenemos un intruso aquí!}
+{108}{}{¿Pero quién--? <zzzt> ¡Tenemos una intrusa aquí!}
 {109}{}{¡Oye tú! ¡Alto!}
-{110}{}{¡Intruso en la base!}
+{110}{}{¡Intrusa en la base!}
 {111}{}{Espera, tú... oh, no importa. }
 {112}{}{Mira, mejor será que consigas tu identificación. Estas falsas alarmas ponen de los nervios a todo el mundo.}
 {113}{}{No deberías estar aquí, ¿no? Maldición, ¡esas falsas alarmas me ponen de los nervios!}

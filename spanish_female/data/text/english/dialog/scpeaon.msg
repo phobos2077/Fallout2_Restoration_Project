@@ -7,7 +7,7 @@
 {106}{}{¡Guardias, ha vuelto!}
 {107}{}{Por favor, déjame solo.}
 {108}{}{Mira, yo tampoco quiero estar cerca de ti.}
-{109}{}{Eres malvado. Por favor, no me hables.}
+{109}{}{Eres malvada. Por favor, no me hables.}
 {110}{}{Deja tranquilos a nuestros hijos.}
 {111}{}{Eres algún tipo de criminal enfermo. Espero que los guardias te atrapen.}
 {112}{}{Tan solo vete, ¿de acuerdo?}
@@ -23,7 +23,7 @@
 {122}{}{¿No podemos simplemente llevarnos bien?}
 {123}{}{No me hables.}
 {124}{}{Lo que sea se lo cuentas a algún otro.}
-{125}{}{No creo que seas tan duro.}
+{125}{}{No creo que seas tan dura.}
 {126}{}{¿Por qué simplemente no te marchas?}
 {127}{}{Bueno, tengo que conseguir algunos huevos.}
 {128}{}{¿Sabes cómo colocar revestimiento de estaño?}
@@ -33,13 +33,13 @@
 {132}{}{A veces me pregunto a dónde me dirijo.}
 {133}{}{Umm, gracias, realmente me tengo que ir.}
 {134}{}{Quizá más tarde podamos comer.}
-{135}{}{Ohh, claro, eres el tipo nuevo en la ciudad.}
+{135}{}{Ohh, claro, eres la chica nueva en la ciudad.}
 {136}{}{Deberías hablar con el sheriff.}
 {137}{}{He oído que van a construir algunas nuevas casas pronto.}
 {138}{}{La ciudad está bastante tranquila desde que Dumont fue elegido.}
-{139}{}{Buenos días, forastero.}
+{139}{}{Buenos días, forastera.}
 {140}{}{Aquí tenemos un lugar bastante tranquilo. Bien, ¿eh?}
-{141}{}{¿Nuevo en la ciudad? Pásate por el local de mi primo Duppo.}
+{141}{}{¿Nueva en la ciudad? Pásate por el local de mi primo Duppo.}
 {142}{}{He oído que las cosas están difíciles por el sur. ¿Cuándo va a hacer algo el gobierno?}
 {143}{}{¿Eres del norte? No hay muchos norteños por aquí.}
 {144}{}{¡He oído que todos los del Yermo son mutantes o salvajes!}

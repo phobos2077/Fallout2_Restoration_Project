@@ -33,7 +33,7 @@
 {132}{}{Los hijos de Ciudad-Shi están en peligro. 50% de probabilidades de que un asesino ande entre ellos.}
 {133}{}{El peligro ha llegado a Ciudad-Shi. 75% de probabilidades de daño hacia los residentes.}
 {134}{}{El lanzamiento espacial Hubologista tiene un 95% de probabilidades de fallo. Factores: Sin combustible, sellado inadecuado, escaso liderazgo, falta de iniciativa.}
-{135}{}{15% de probabilidad de que el designado como "Elegido" tenga éxito en su tarea.}
+{135}{}{15% de probabilidad de que la designada como "Elegida" tenga éxito en su tarea.}
 {136}{}{Los datos indican que el "Enclave" es más poderoso de lo que se pensaba con anterioridad; no acercarse.}
 {137}{}{Probabilidades de reaparición de un submarino en este juego: 0%}
 {138}{}{0% de posibilidad de eliminar infestación de criaturas en petrolero sin ayuda externa. Procesando conveniencia de aportar asistencia.}

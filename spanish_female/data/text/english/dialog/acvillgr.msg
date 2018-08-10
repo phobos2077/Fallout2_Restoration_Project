@@ -2,7 +2,7 @@
 {101}{}{Ves a una mujer de tu poblado.}
 {150}{}{Un gentil miembro de tu poblado.}
 {151}{}{[HABLAR]}
-{152}{}{¡Hola! He oído que eres el Elegido. Quizás puedas salvar al poblado.}
+{152}{}{¡Hola! He oído que eres la Elegida. Quizás puedas salvar al poblado.}
 {153}{}{¿Podrías decirme dónde puedo encontrar más polvos curativos?}
 {154}{}{¿Qué puedes contarme de los mercaderes que comercian con nosotros?}
 {155}{}{Me alegra verte, pero debo marcharme.}
@@ -15,7 +15,7 @@
 {162}{}{Gracias. Adiós.}
 {163}{}{¿Puedes decirme dónde está el Gran Puente?}
 {164}{}{Una pregunta más, si no te importa.}
-{165}{}{¡Qué chiste más bueno, Elegido! Ya sabes donde está. Por allí... hacia el sur.}
+{165}{}{¡Qué chiste más bueno, Elegida! Ya sabes donde está. Por allí... hacia el sur.}
 {166}{}{Gracias. Adiós.}
 {167}{}{Una pregunta más, si no te importa.}
 {168}{}{Por supuesto, ¿qué quieres saber?}
@@ -28,16 +28,16 @@
 {175}{}{¿¿¿???}
 {176}{}{¡Estamos condenados! Has fracasado en tu búsqueda.}
 {177}{}{No podemos seguir así.}
-{180}{}{Eres un traidor a su propia gente.}
+{180}{}{Eres una traidora a tu propio pueblo.}
 {181}{}{¿Por qué haces esto?}
-{182}{}{Eres malvado. ¡El Elegido es malvado!}
+{182}{}{Eres malvada. ¡La Elegida es malvada!}
 {183}{}{Vienen a nuestro poblado desde el este, aunque suelen traer pocas cosas.}
 {184}{}{¿Podrías decirme dónde puedo encontrar más hierbas curativas?}
 {185}{}{Gracias. Adiós.}
 {186}{}{Una pregunta más, si no te importa.}
-{300}{}{Hola, Elegido. Me alegro de verte de nuevo. Rezo para que tu sagrada búsqueda marche bien. ¿Hay algo con lo que pueda ayudarte?}
-{301}{}{Elegido, la gente está muriendo. Debes darte prisa en buscar el sagrado GECK. ¿En que puedo servirte de ayuda en la más sagrada de las búsquedas?}
-{302}{}{Se nos acaba el tiempo, Elegido. Por favor, termina tu sagrada misión pronto. No podemos permitirnos esperar mucho más. Si hay algo que pueda hacer para ayudarte a salvarnos, dímelo.}
+{300}{}{Hola, Elegida. Me alegro de verte de nuevo. Rezo para que tu sagrada búsqueda marche bien. ¿Hay algo con lo que pueda ayudarte?}
+{301}{}{Elegida, la gente está muriendo. Debes darte prisa en buscar el sagrado GECK. ¿En que puedo servirte de ayuda en la más sagrada de las búsquedas?}
+{302}{}{Se nos acaba el tiempo, Elegida. Por favor, termina tu sagrada misión pronto. No podemos permitirnos esperar mucho más. Si hay algo que pueda hacer para ayudarte a salvarnos, dímelo.}
 {303}{}{Elegido, el poblado está casi muerto... eres nuestra única esperanza. ¿Hay algo que pueda decirte que te ayude a salvarnos?}
 {400}{}{¿Puedo hacer algo para ayudar?}
 {401}{}{[The villager stares at you, wide-eyed, then slowly steps away from you while glancing around nervously.]}
@@ -60,7 +60,7 @@
 {1103}{}{Nuestro hermoso poblado.}
 {1104}{}{Es un puesto comercial a pocos días al este de aquí.}
 {1105}{}{El Refugio es el paraíso.}
-{1106}{}{Eres el Elegido.}
+{1106}{}{Tú eres la Elegida.}
 {1107}{}{Él nos cura con sus hierbas y su magia. Está en la parte norte de nuestro poblado.}
 {1108}{}{Él nos cura con sus hierbas y su magia. Está en la parte norte de nuestro poblado.}
 {1109}{}{Es un polvo mágico que te curará, pero también te dejará soñoliento.}

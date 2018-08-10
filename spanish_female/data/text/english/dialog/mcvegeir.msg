@@ -6,7 +6,7 @@
 {152}{}{Modoc está al sur de aquí.}
 {153}{}{Sur.}
 {154}{}{No, el otro sur.}
-{155}{}{Un visitante... qué conveniente. He estado pensando en una forma de contactar con la gente de la superficie, pero ahora ya no tengo que preocuparme por ello... gracias a tu oportuna llegada. Bienvenido al hogar de los Escorias.}
+{155}{}{Un visitante... qué conveniente. He estado pensando en una forma de contactar con la gente de la superficie, pero ahora ya no tengo que preocuparme por ello... gracias a tu oportuna llegada. Bienvenida al hogar de los Escorias.}
 {156}{}{Me alegra que hayas regresado. Veo que has entregado el mensaje en Modoc. ¿Cómo lo han recibido?}
 {157}{}{Necesitan tiempo para pensárselo.}
 {158}{}{Tienen algunas reservas.}
@@ -15,8 +15,8 @@
 {161}{}{Necesito hacerte unas preguntas antes.}
 {162}{}{La respuesta sigue siendo no.}
 {163}{}{He decidido ayudaros.}
-{165}{}{Gracias por ayudarnos. Siempre serás bienvenido aquí. Por tus servicios, te ofrezco esto como recompensa. [Vegeir te da un rifle de asalto].}
-{166}{}{Gracias por ayudarnos. Siempre serás bienvenido aquí.}
+{165}{}{Gracias por ayudarnos. Siempre serás bienvenida aquí. Por tus servicios, te ofrezco esto como recompensa. [Vegeir te da un rifle de asalto].}
+{166}{}{Gracias por ayudarnos. Siempre serás bienvenida aquí.}
 {167}{}{¿Podría llevar a Jonny a casa con sus padres?}
 {168}{}{Por favor, permíteme que me disculpe por las desgraciadas circunstancias por las que nos hemos conocido. Normalmente, los Protectores hubieran intentado asustarte. Lo normal es que el ruido de las cadenas y algunos aullidos graves sean suficientes para asustar a cualquiera. Pero recientemente, se les ha ordenado que traigan a cualquiera persona de la superficie a mi presencia.}
 {169}{}{Está bien. Me marcharé ya.}

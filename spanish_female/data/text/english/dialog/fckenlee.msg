@@ -1,7 +1,7 @@
 {100}{}{Ves a un fornido Shi que parece lleno de conocimiento.}
 {101}{}{Ves a Ken Lee, consejero del Emperador.}
 {102}{}{Ves a un fornido Shi con gafas y una media sonrisa.}
-{103}{}{¿Qué se te ofrece, amigo?}
+{103}{}{¿Qué se te ofrece, amiga?}
 {104}{}{¿Qué quieres?}
 {105}{}{¿Qué puedo hacer por ti?}
 {106}{}{¿Tú?}
@@ -12,11 +12,11 @@
 {111}{}{Me gustaría hablar con el Emperador.}
 {112}{}{Los Hubologistas me han asignado para matar al Emperador.}
 {113}{}{Nada. Gracias. Adiós.}
-{114}{}{Soy Ken Lee, consejero del Emperador. Y tú, amigo mío, parecer ser un ingenuo, así que recuerda esto: si buscas al Enclave, entonces debes usar el petrolero Poseidon para ello. Necesitarás combustible para él. Tienes mi bendición.}
+{114}{}{Soy Ken Lee, consejero del Emperador. Y tú, amiga mía, parecer ser una ingenua, así que recuerda esto: si buscas al Enclave, entonces debes usar el petrolero Poseidon para ello. Necesitarás combustible para él. Tienes mi bendición.}
 {115}{}{¡G-gracias!}
-{116}{}{Soy Ken Lee. Soy el consejero del Emperador. El Emperador me aconseja no hablar contigo, así que no lo haré. Buenos días, bobo.}
+{116}{}{Soy Ken Lee. Soy el consejero del Emperador. El Emperador me aconseja no hablar contigo, así que no lo haré. Buenos días, boba.}
 {117}{}{¡Grrr!}
-{118}{}{Ahh, viajero, no puedo ayudarte. Tal vez puedes encontrar la respuesta a tu búsqueda de otra forma. Buenos días.}
+{118}{}{Ahh, viajera, no puedo ayudarte. Tal vez puedes encontrar la respuesta a tu búsqueda de otra forma. Buenos días.}
 {119}{}{¡Nuevos días!}
 {120}{}{Soy Ken Lee. Consejero del Emperador de los Shi. Doy luz a la sabiduría del Emperador. ¿Y quién eres tú?}
 {121}{}{Me gustaría ver al Emperador.}
@@ -36,7 +36,7 @@
 {135}{}{No a todo el mundo se le concede la oportunidad de ver al Emperador. Primero hay que demostrar valía. ¿Estás dispuesto a probar la tuya?}
 {136}{}{Sí.}
 {137}{}{No. Ya he hecho suficientes pruebas en los últimos meses como para el resto de mi vida.}
-{138}{}{No creo que el Emperador quiera verte. Se me ha dicho que prohiba la entrada a todos aquellos que me ofenden o apestan a maldad. Para ti son ambas cosas, viajero. Buenos días.}
+{138}{}{No creo que el Emperador quiera verte. Se me ha dicho que prohiba la entrada a todos aquellos que me ofenden o apestan a maldad. Para ti son ambas cosas, viajera. Buenos días.}
 {139}{}{[HECHO]}
 {140}{}{Los insultos no te llevarán a ningún lado, salvo al exterior del Palacio de Acero. Controla tu lengua.}
 {141}{}{Hazlo tú.}
@@ -81,7 +81,7 @@
 {180}{}{Ciertamente lo es. Y trato con esa gente a diario. ¡Ay!}
 {181}{}{En fin, tengo más preguntas.}
 {182}{}{Sí, pobre de ti. Adiós.}
-{183}{}{Ciertamente eres digno merecedor de nuestro combustible. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña "CSPDMSHR-Shih-huang-ti-X9372" y estarás conectado a la Computadora Emperador. El Emperador podrá dirigir nuestro combustible a donde lo necesites.}
+{183}{}{Ciertamente eres digna merecedora de nuestro combustible. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña "CSPDMSHR-Shih-huang-ti-X9372" y estarás conectada a la Computadora Emperador. El Emperador podrá dirigir nuestro combustible a donde lo necesites.}
 {184}{}{Gracias.}
 {185}{}{¡Guardias! ¡El enemigo está entre nosotros! ¡Guardias!}
 {186}{}{¿Realmente lo tienen? Quizá te gustaría cambiar las tornas con ellos? Puedo prometerte nuestra ayuda si aceptas matar a AHS-9. }
@@ -95,7 +95,7 @@
 {194}{}{Con la muerte de AHS-9, el Grande y Terrible, los Hubologistas no suponen una amenaza para nosotros y nuestras investigaciones. Bien hecho. Tienes nuestra gratitud. ¿Te gustaría hablar con el Emperador?}
 {195}{}{Sí.}
 {196}{}{Ahora mismo no. Aunque tengo otras preguntas para ti.}
-{197}{}{Has demostrado ser un amigo de los Shi. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña "CSPDMSHR-Shih-huang-ti-X9372" y estarás conectado a la Computadora Emperador. Espero que te resulte útil.}
+{197}{}{Has demostrado ser una amiga de los Shi. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña "CSPDMSHR-Shih-huang-ti-X9372" y estarás conectada a la Computadora Emperador. Espero que te resulte útil.}
 {198}{}{¿El Emperador es una COMPUTADORA?}
 {199}{}{Lo tengo. Gracias.}
 {200}{}{Sí. Almacena nuestra historia, nuestras investigaciones, y las posibilidades de proyectos futuros. Es mucho mejor que cualquier humano falible... aunque moderamos sus sugerencias con nuestro conocimiento de la naturaleza humana.}
@@ -103,7 +103,7 @@
 {202}{}{Nuestros espías informan que le has entregado los planos del vertibird a los Hubologistas. Róbaselos para nosotros y serás recompensado.}
 {203}{}{Como quieras. Tengo algunas preguntas.}
 {204}{}{Ni hablar.}
-{205}{}{Gracias por los planos del vertibird, viajero. ¿Qué puedo hacer por ti?}
+{205}{}{Gracias por los planos del vertibird, viajera. ¿Qué puedo hacer por ti?}
 {206}{}{Tengo preguntas.}
 {207}{}{Um... nada.}
 {208}{}{Una vez hayas conseguido los planos del vertibird, entrégaselos al doctor Wong Yi Tze. Él les dará buen uso.}
@@ -127,5 +127,5 @@
 {501}{}{Vete ahora. Este es tu segundo aviso.}
 {502}{}{Este es tu último aviso.}
 {503}{}{¡Guardias!}
-{1430}{}{El Emperador permanece oculto a los ojos indiscretos. Es mi trabajo actuar como la pantalla del Emperador. Sin embargo, has demostrado ser un amigo de los Shi. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña "CSPDMSHR-Shih-huang-ti-X9372" y estarás conectado a la Computadora Emperador. Espero que te resulte útil.}
+{1430}{}{El Emperador permanece oculto a los ojos indiscretos. Es mi trabajo actuar como la pantalla del Emperador. Sin embargo, has demostrado ser una amiga de los Shi. Creo que te puedo confiar nuestros secretos. En la estancia de atrás comprobarás que el campo de fuerza que bloquea el acceso a la computadora principal está desconectado. Introduce la contraseña "CSPDMSHR-Shih-huang-ti-X9372" y estarás conectado a la Computadora Emperador. Espero que te resulte útil.}
 {2001}{}{Ya... veo. Bien, gracias por tu tiempo. Tengo un poblado que rescatar.}

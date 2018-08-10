@@ -23,7 +23,7 @@
 {302}{}{Melee antes que a distancia.}
 {303}{}{A distancia antes que melee.}
 {304}{}{A distancia.}
-{305}{}{Desarmado}
+{305}{}{Desarmada}
 {400}{}{Quédate cerca de mí.}
 {401}{}{¡Carga!}
 {402}{}{Dispara al enemigo desde lejos.}

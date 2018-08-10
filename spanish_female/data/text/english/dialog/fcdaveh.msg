@@ -30,7 +30,7 @@
 {128}{}{No, olvídalo.}
 {129}{}{La reclutadora, Vikki Goldman. Vi una de sus películas en Canadá, y supe que ella se enamoraría de mí. Aún no ha sucedido, pero estoy trabajando en ello.}
 {130}{}{Me lo apunto. Tengo algunas preguntas más.}
-{131}{}{¡Ja, ja! ¡Eres un arrastrado! Ella es una estrella porno, colega. No quiere nada de ti.}
+{131}{}{¡Ja, ja! ¡Eres una arrastrada! Ella es una estrella porno, colega. No quiere nada de ti.}
 {132}{}{Entiendes que ella sólo finge interés en ti para asegurarse de que sigas siendo un buen Hubologista, ¿verdad?}
 {133}{}{Bueno, sí... ¡pero merecerá la pena en el caso de que suceda algo entre ambos!}
 {134}{}{Si tú lo dices... si tú lo dices. Tengo más preguntas.}

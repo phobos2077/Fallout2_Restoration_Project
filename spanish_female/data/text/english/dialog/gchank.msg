@@ -31,7 +31,7 @@
 {181}{}{Gracias. Adiós.}
 {190}{}{Bueno, si pudieses manejar el robot de mantenimiento, tal vez podrías usarlo para instalarla. O simplemente podrías meterte ahí dentro e instalarla tú mismo.}
 {191}{}{¿Robot de mantenimiento?}
-{192}{}{¿Instalarla yo mismo?}
+{192}{}{¿Instalarla yo misma?}
 {200}{}{Pues no ha funcionado demasiado bien últimamente. Se sobrecalienta muy a menudo. De todas maneras no es como si necesitáramos usarlo, así que no nos hemos molestado en arreglar su protección contra el calor. Si puedes averiguar los códigos de control y no lo usas por mucho tiempo, puede que te sirva para instalar la pieza.}
 {201}{}{Gracias. Adiós.}
 {210}{}{Gracias por arreglar el reactor.}

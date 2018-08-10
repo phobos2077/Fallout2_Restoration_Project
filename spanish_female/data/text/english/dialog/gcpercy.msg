@@ -5,7 +5,7 @@
 {104}{}{Me alegra haberte ayudado.}
 {105}{}{¿Qué me voy a llevar?}
 {106}{}{Bien, pues será mejor que merezca la pena. Ciertamente ha supuesto un montón de trabajo, y unos cuantos viajes. Peligroso, es lo que ha sido. Me podrían haber herido.}
-{107}{}{¿Segurísimo que no quieres ayudar al viejo Percy con su problema? Porque vaya que si me vendría bien.}
+{107}{}{¿Segurísima que no quieres ayudar al viejo Percy con su problema? Porque vaya que si me vendría bien.}
 {108}{}{Eh, deja que me lo piense un poco más. Mientras tanto, ¿tienes algo para comerciar?}
 {109}{}{Bueno, ¿y si me lo vuelves a contar?}
 {110}{}{No sabía que me ibas a estar molestando con eso cada vez que entrase aquí. Carajo. Adiós.}

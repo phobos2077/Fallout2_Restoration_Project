@@ -5,8 +5,8 @@
 {201}{}{¡Eres incluso más irritante que Sulik! No quiero hablar contigo. Vete.}
 {202}{}{No quiero tener nada que ver contigo. Adiós.}
 {203}{}{Siento mucho haberte molestado. Soy un completo ignorante de vuestras costumbres. Tan sólo trataba de mostrarte respeto en la forma en la que lo hacemos en mi tribu.}
-{204}{}{Dios, lo siento muchísimo. Después de todo, tan sólo soy un tribal ignorante. ¿Podrías perdonarme?}
-{205}{}{Tan sólo es que no sabía qué decirle a una persona tan atractiva como tú. Siempre me pongo nervioso cuando estoy cerca de una mujer hermosa. Por favor, acepta mis disculpas.}
+{204}{}{Dios, lo siento muchísimo. Después de todo, tan sólo soy una tribal ignorante. ¿Podrías perdonarme?}
+{205}{}{Tan sólo es que no sabía qué decirle a una persona tan atractiva como tú. Siempre me pongo nerviosa cuando estoy cerca de una mujer hermosa. Por favor, acepta mis disculpas.}
 {206}{}{Es tan sólo que pareces tan civilizada y tan hermosa. Estaba celosa de ti. Por favor, perdóname. Tengo mucho que aprender de mujeres como tú.}
 {210}{}{Hola, mi nombre es Maida Buckner. Ayudo a mi madre a llevar Casa Buckner. ¿Cómo puedo ayudarte?}
 {211}{}{¿Ungh?}
@@ -14,8 +14,8 @@
 {213}{}{¿Asa Bunker?}
 {220}{}{Hmm - parece que no te llegue la sangre al cerebro. ¿Por qué no vas a hablar con mi hermano Torr? Seguro que te entiendes mejor con él. Adiós.}
 {230}{}{Mi nombre es Maida Buckner, me ocupo del comercio y de servir bebidas. No toleraré que ningún tribal monte un jaleo en el hogar de mi familia. Así que mejor será que vigiles tus pasos, o acabarás como Sulik. ¿Qué quieres?}
-{231}{}{Mi nombre es Maida Buckner, me ocupo del comercio y de servir bebidas. ¿Qué va a ser, amigo?}
-{232}{}{Hola, mi buen amigo.}
+{231}{}{Mi nombre es Maida Buckner, me ocupo del comercio y de servir bebidas. ¿Qué va a ser, amiga?}
+{232}{}{Hola, mi buena amiga.}
 {233}{}{¿Con qué puedo ayudarte?}
 {234}{}{Bueno, será mejor que seas más civilizado a partir de ahora. ¿Qué es lo que quieres? ¿Puedo ayudarte?}
 {235}{}{Tengo algunas preguntas para ti.}
@@ -36,11 +36,11 @@
 {260}{}{¿Quieres hacer negocios? Siempre busco pieles de gecko de buena calidad, y pago un precio justo por ellas.}
 {261}{}{¿Quieres comprar algo? Espero que tengas algo que ofrecer que no sean pieles de gecko; ahora mismo estamos saturados de ellas.}
 {262}{}{Sí, me gustaría hacer negocios contigo.}
-{263}{}{Estoy más interesado en otros asuntos.}
+{263}{}{Estoy más interesada en otros asuntos.}
 {264}{}{Ahora mismo no necesito comerciar. Adiós.}
 {270}{}{La única manera de crear un jardín del Edén es a través del simple y duro trabajo de toda la vida. Eso es algo que vosotros, los tribales, no parecéis ser capaces de entender. Pero supongo que es la diferencia entre nosotros, la gente civilizada, y los vuestros.}
 {271}{}{Uh, bien. Hablemos de otra cosa.}
-{272}{}{Ah, supongo que tengo mucho que aprender de vosotros. Me gustaría ser civilizado, algún día.}
+{272}{}{Ah, supongo que tengo mucho que aprender de vosotros. Me gustaría ser civilizada, algún día.}
 {273}{}{¿Civilizada? ¿Te crees que eres civilizada porque vivas en las ruinas humeantes de un pueblo de antes de la guerra? Mejor cambiemos de tema.}
 {274}{}{Creo que ya he oído suficiente. Adiós.}
 {280}{}{Bien, ¿hay algo más que pueda hacer por ti?}
@@ -78,19 +78,19 @@
 {363}{}{Es todo lo que necesito por ahora. Adiós.}
 {370}{}{No sé porque nadie querría pagar su deuda, pero podrías. El total asciende a 350 dólares. Pero no creo que quisieras hacer eso... lo único que conseguiría es volverse a meter en líos.}
 {371}{}{No quiero que siga estando aquí con una intolerante como tú. Quiero saldar su deuda.}
-{372}{}{Bueno, estoy seguro de que está feliz trabajando aquí con vosotros, pero aún así quisiera saldar su deuda. No creo que nadie deba estar atrapado de la forma en la que él lo está.}
+{372}{}{Bueno, estoy segura de que está feliz trabajando aquí con vosotros, pero aún así quisiera saldar su deuda. No creo que nadie deba estar atrapado de la forma en la que él lo está.}
 {373}{}{Supongo que tienes razón. Tampoco es que tenga tanto dinero para gastar. Adiós.}
 {380}{}{Bien, de acuerdo. Si realmente quieres pagar los destrozos que causó... supongo que es normal que los tribales os ayudéis los unos a los otros.}
 {381}{}{Sí, quiero. Tengo suficiente dinero para saldar su deuda.}
 {382}{}{Quizás sea demasiado dinero. Después de todo, no creo que deba pagar sus destrozos. Adiós.}
-{390}{}{Debes estar loco. Me alegro mucho de que ese maldito (sollozo) tribal (sollozo) se marche (sollozo) de aquí (sollozo).}
+{390}{}{Debes estar loca. Me alegro mucho de que ese maldito (sollozo) tribal (sollozo) se marche (sollozo) de aquí (sollozo).}
 {391}{}{(sollozo) Supongo que es un trato justo, un hermano idiota por un salvaje (sollozo) idiota. No le echaré de menos.}
 {392}{}{Oh, de alguna manera, creo que Sulik echará de menos el estar aquí. Pero volveremos a visitarte algún día, seguro. Sin embargo, ahora necesito una cosa.}
 {393}{}{Creo que Sulik estará mucho mejor sin ti.}
 {394}{}{Gracias, creo que será mejor que nos marchemos ahora.}
 {400}{}{¿Has vuelto, eh? Espero que estés cuidando de Sulik. Estoy segura de que está perdido sin que yo le diga lo que tiene que hacer.}
 {401}{}{He vuelto porque necesito algo.}
-{402}{}{Bueno, estoy seguro de que no puedo hacer un trabajo tan bueno como el tuyo cuidando de él, pero lo intento.}
+{402}{}{Bueno, estoy segura de que no puedo hacer un trabajo tan bueno como el tuyo cuidando de él, pero lo intento.}
 {420}{}{A trapper named Smiley has gone missing. Momma sure is upset about that. I'm sure she would be grateful if
  someone found him.}
 {421}{}{Bueno, ¿has visto a Torr por alguna parte? Parece que se ha escapado, y estamos preocupadas.}
@@ -124,7 +124,7 @@
 {482}{}{Lo siento, pero no creo que tenga tiempo para eso. Adiós.}
 {500}{}{Muchas gracias. Retiro todo lo que dije sobre los tribales. Por favor, encuentra a mi hermano.}
 {501}{}{Lo encontraré; cuenta conmigo.}
-{510}{}{¿Aún no has encontrado a mi hermano? Espero que este bien.}
+{510}{}{¿Aún no has encontrada a mi hermano? Espero que este bien.}
 {511}{}{No, aún no. Aunque tengo algunas preguntas más.}
 {512}{}{Aún no, sigo buscando.}
 {520}{}{¿Quieres una bebida? Serán 5 dólares por una jarra de cerveza Buckner’s Best.}
@@ -132,7 +132,7 @@
 {522}{}{Me gustaría invitar a una ronda a todos los presentes para darme a conocer. Soy }
 {523}{}{, de Arroyo.}
 {524}{}{No quiero una cerveza. Tan sólo algo de información.}
-{530}{}{Una ronda para todos. Vaya, vaya... eres generoso, ¿eh? Serán 30 dólares.}
+{530}{}{Una ronda para todos. Vaya, vaya... eres generosa, ¿eh? Serán 30 dólares.}
 {531}{}{Una de mi cuenta, compañeros. Ahora, ¿qué tal un poco de información?}
 {532}{}{Supongo que después de todo prefiero pedir una copa para mí solo.}
 {533}{}{Creo que me conformaré con algo de información.}

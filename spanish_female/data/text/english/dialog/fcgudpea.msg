@@ -1,11 +1,11 @@
 {100}{}{Ves a una persona con un gracioso pijama.}
 {101}{}{Ves a un Shi.}
 {102}{}{Esta persona parece diferente a cualquiera que hayas visto antes. No parecen preocuparse demasiado por ti.}
-{103}{}{No eres un espía, ¿verdad?}
+{103}{}{No eres una espía, ¿verdad?}
 {104}{}{¿Quién eres?}
 {105}{}{Pescado y algas. Esto es todo lo que obtenemos.}
 {106}{}{¡Ja ja! ¡Mirad esos graciosos ojos redondos!}
-{107}{}{Pareces un Hubologista.}
+{107}{}{Pareces una Hubologista.}
 {108}{}{Déjanos en paz.}
 {109}{}{Larga vida al Dragón!}
 {110}{}{¡Abajo con Lo Pan!}
@@ -15,7 +15,7 @@
 {114}{}{Trabajo, trabajo, trabajo. Arroz, arroz, arroz. ::suspira::}
 {115}{}{¿No hay nada más en la vida que esto?}
 {116}{}{Somos más listos de lo que crees.}
-{117}{}{¡Mirad! ¡Un lao wai!}
+{117}{}{¡Mirad! ¡Una lao wai!}
 {118}{}{Creo que no me gustas.}
 {119}{}{Me das miedo.}
 {120}{}{Por favor, no me hagas daño.}
@@ -23,13 +23,13 @@
 {122}{}{Por favor, no causes problemas.}
 {123}{}{Me gusta la vida. No haré nada para perderla.}
 {124}{}{El Yermo es cada vez más aterrador.}
-{125}{}{Señor... sí, señor... adiós, señor.}
+{125}{}{Señora... sí, señora... adiós, señora.}
 {126}{}{¡Ja ja! ¡Ese bastardo de Lo Pan está muerto!}
 {127}{}{¡Nos has ayudado!}
 {128}{}{Lo Pan está muerto!}
 {129}{}{¡Ahora a por los Hubologistas!}
 {130}{}{¡Mirad esos graciosos ojos redondos!}
-{131}{}{Pareces un Hubologista.}
+{131}{}{Pareces una Hubologista.}
 {132}{}{Déjanos en paz.}
 {133}{}{Larga vida al Dragón!}
 {134}{}{Larga vida al Emperador!}
@@ -54,7 +54,7 @@
 {153}{}{Trabajo, trabajo, trabajo. Arroz, arroz, arroz. ::suspira::}
 {154}{}{¿No hay nada más en la vida que esto?}
 {155}{}{Somos más listos de lo que crees.}
-{156}{}{¡Mirad! ¡Un intruso!}
+{156}{}{¡Mirad! ¡Una intrusa!}
 {164}{}{¿Has matado a AHS-9? ¡Buen trabajo!}
 {165}{}{Esos Hubologistas me dan escalofríos.}
 {166}{}{Honorable visitante, nos has hecho un gran servicio.}
@@ -63,7 +63,7 @@
 {169}{}{Estúpidos Hubologistas, que ni siquiera pueden proteger a su propio líder.}
 {170}{}{Tan solo espero que los Hubologistas no vengan a por nosotros para vengarse.}
 {171}{}{Supongo que no eres un espía después de todo.}
-{172}{}{¡Hijo de una cerda! ¡Muere!}
+{172}{}{¡Hija de una cerda! ¡Muere!}
 {173}{}{¡Has deshonrado a tu familia!}
 {174}{}{¡Déjanos, lao wai!}
 {175}{}{¿No has hecho ya suficiente daño?}

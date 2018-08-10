@@ -81,7 +81,7 @@
 {179}{}{De acuerdo. Adiós.}
 {180}{}{Olvídalo.}
 {181}{}{La tengo justo aquí. [Le das la muñeca hinchable a Typhon]}
-{182}{}{Esto, chico, es dar justo en el clavo. Dame unas horas, y volveremos a hablar. A ello, pues. [Mira la muñeca lujuriosamente]}
+{182}{}{Esto, chica, es dar justo en el clavo. Dame unas horas, y volveremos a hablar. A ello, pues. [Mira la muñeca lujuriosamente]}
 {183}{}{[HECHO]}
 {184}{}{¿No puede tener uno un poco de intimidad! ¡Fuera! Largo! ¡Desaparece!}
 {185}{}{[HECHO]}

@@ -4,7 +4,7 @@
 {103}{}{::resuella:: Hola. Soy el doctor Holliday. ¿En qué puedo ayudarte?}
 {104}{}{¿Qué quieres ahora?}
 {105}{}{¡Ay!}
-{106}{}{Estoy herido y necesito curación.}
+{106}{}{Estoy herida y necesito curación.}
 {107}{}{Uno de mis amigos está herido y necesita curación.}
 {108}{}{¿Qué haces aquí?}
 {109}{}{Háblame de la ciudad.}
@@ -49,16 +49,16 @@
  lleno de agujeros. Esta desventura te costará 100 dólares.}
 {148}{}{Pagaré.}
 {149}{}{Olvídalo.}
-{150}{}{Chaval, ¿cuidas de tus amigos? ::tose:: Si te quieres hacer cargo de este amigo tuyo, necesitarás pagar 150 dólares.}
+{150}{}{Muchacha, ¿cuidas de tus amigos? ::tose:: Si te quieres hacer cargo de este amigo tuyo, necesitarás pagar 150 dólares.}
 {151}{}{Pagaré.}
 {152}{}{Olvídalo.}
-{153}{}{Debes ser muy bueno para inspirar una lealtad como ésta en tus amigos. Espero que seas bueno... porque esto te va a costar ::tose:: 200 dólares.}
+{153}{}{Debes ser muy buena para inspirar una lealtad como ésta en tus amigos. Espero que seas buena... porque esto te va a costar ::tose:: 200 dólares.}
 {154}{}{Pagaré.}
 {155}{}{Olvídalo.}
 {156}{}{¡Ouch! Necesitaré ponerte una escayola en eso o algo así. Gracias a mis amplios conocimientos médicos, estarás corriendo de nuevo por 300 dólares.}
 {157}{}{Pagaré.}
 {158}{}{Olvídalo.}
-{159}{}{Amigo, no tienes esa cantidad de dinero. Puedo venderte algunas medicinas si quieres, pero la curación que estás buscando no la puedes conseguir del modo en que yo puedo proporcionártela.}
+{159}{}{Amiga, no tienes esa cantidad de dinero. Puedo venderte algunas medicinas si quieres, pero la curación que estás buscando no la puedes conseguir del modo en que yo puedo proporcionártela.}
 {160}{}{Dame las medicinas.}
 {161}{}{No, gracias.}
 {162}{}{Ha sido un placer.}
@@ -85,7 +85,7 @@
 {181}{}{Sí. Vale.}
 {182}{}{Lo siento. Un mal día.}
 {183}{}{Sólo estaba bromeando.}
-{184}{}{Jovencito, tienes mucho que aprender sobre el respeto.}
+{184}{}{Jovencita, tienes mucho que aprender sobre el respeto.}
 {185}{}{Muchacho, tienes mucho que aprender sobre el humor.}
 {186}{}{Sí, vale.}
 {187}{}{Vale, me has cabreado. Ahora vas a tener que curarte tú solito.}
@@ -99,7 +99,7 @@
 {195}{}{… ¡y lo que rechazamos deciros, pequeño bastardo! (se echa a reír). Chaval, la próxima vez que necesites verme por ayuda médica, invita la casa.}
 {196}{}{Tengo otras preguntas.}
 {197}{}{Gracias. Hasta otra.}
-{198}{}{¿Estás herido? Déjame apañarte eso.}
+{198}{}{¿Estás herida? Déjame apañarte eso.}
 {199}{}{Umm…}
 {200}{}{Gracias. ¡Hasta luego!}
 {201}{}{¿Hay alguien herido? Oh, poneos en fila y me haré cargo de todos vosotros.}
@@ -141,7 +141,7 @@
 {311}{}{Ves a Miria.}
 {312}{}{Al robocerebro.}
 {313}{}{No importa.}
-{314}{}{¿Estás herido? Déjame echar un vistazo. Me encargaré de tus compañeros también.}
+{314}{}{¿Estás herida? Déjame echar un vistazo. Me encargaré de tus compañeros también.}
 {315}{}{Listo. Ya estáis todos mejor.}
 {316}{}{[continuar]}
 {400}{}{Albóndiga.}

@@ -4,12 +4,12 @@
 {150}{}{Ves a un hombre harapiento. Está acurrucado cerca de un bidón con fuego, cantando. Tiene una voz muy bonita.}
 {151}{}{Ves a un cantante. Está acurrucado cerca de un bidón con fuego, cantando.}
 {200}{}{Hey… }
-{203}{}{¿Te ayudamos en algo, hijo?}
+{203}{}{¿Te ayudamos en algo, hija?}
 {204}{}{::Se toca un sombrero imaginario.:: ¿Te ayudamos en algo, señora?}
 {205}{}{¿Conocéis 'Rema rema bote por la corriente'?}
 {206}{}{¿Podríais… podríais cantar 'Noventa y nueve botellas de cerveza en la pared'?}
 {207}{}{Nooo marcho ahora}
-{208}{}{Estaría honrado si lo hicierais. Gracias, muchachos.}
+{208}{}{Estaría honrada si lo hicierais. Gracias, muchachos.}
 {209}{}{Ahí van un par de pavos. ¿Puedes cantar otra cosa?}
 {210}{}{No, sólo escuchar, gracias.}
 {300}{}{De acuerdo entonces… ya habéis oído al caballero, muchachos. Probemos otra cosa.}
@@ -65,6 +65,6 @@
 {935}{}{Labios un sólo momento}
 {937}{}{Harán vivir ese momento}
 {941}{}{}
-{1200}{}{!El gran héroe! ¿Cómo podemos ayudarte? Quizá cantándote algo especial, ¿eh?}
+{1200}{}{!La gran heroína! ¿Cómo podemos ayudarte? Quizá cantándote algo especial, ¿eh?}
 {1201}{}{. ¿Podemos ayudarte?}
-{1202}{}{. ¿Te ayudamos en algo, campeón?}
+{1202}{}{. ¿Te ayudamos en algo, campeona?}

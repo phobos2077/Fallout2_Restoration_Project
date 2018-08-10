@@ -1,7 +1,7 @@
 {100}{}{Ves a un Shi entusiasta.}
 {101}{}{Ves a Mai Da Chiang, el propietario de Armas 888 Rojo.}
 {102}{}{Es un rechoncho Shi que parece estar siempre acelerado.}
-{103}{}{¡Hola! ¡Bienvenido a Armas 888 Rojo! Soy Mai Da Chiang, el propietario. ¿Cómo puedo ayudarte?}
+{103}{}{¡Hola! ¡Bienvenida a Armas 888 Rojo! Soy Mai Da Chiang, el propietario. ¿Cómo puedo ayudarte?}
 {104}{}{¡Grokken di ma!}
 {105}{}{¡Yo compro!}
 {106}{}{Estaba buscando algo de armamento.}
@@ -49,4 +49,4 @@
 {148}{}{Gracias. Adiós.}
 {149}{}{Eso es todo lo que se me ocurre en este momento. Buenos días.}
 {150}{}{Buenos días.}
-{151}{}{Eres un ladrón, un asesino, y un villano. Me temo que debo matarte.}
+{151}{}{Eres una ladrona, una asesina, y una villana. Me temo que debo matarte.}

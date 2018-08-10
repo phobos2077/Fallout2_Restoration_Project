@@ -62,9 +62,9 @@
 {294}{}{¡Yo proteger!}
 {295}{}{¡Yo hacer daño tu!}
 {296}{}{¡Tu pagar!}
-{300}{}{¡No vas a llevarte a mi familia, esclavista!}
-{301}{}{¡Muere, chusma esclavista!}
-{302}{}{¡Me las pagarás, bastardo!}
+{300}{}{No vas a arrebatarme a mi familia, ¡negrera!}
+{301}{}{¡Muere, escoria esclavista!}
+{302}{}{¡Me las pagarás, zorra!}
 {303}{}{¡Lucharé a muerte por mi familia!}
 {304}{}{¡No te vas a salir con la tuya!}
 {305}{}{¡No te vas a ir de aquí con mis amigos!}

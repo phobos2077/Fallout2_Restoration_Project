@@ -12,18 +12,18 @@
 {217}{}{No te metas en problemas, Myron, ¿vale?}
 {218}{}{No te vayas muy lejos, Myron.}
 {225}{}{Oye, }
-{230}{}{¡Es de la Familia }
+{230}{}{¡Es una de los hombres de }
 {235}{}{Demuestras tener cojones viniendo por aquí. Pero te sugiero que te marches.}
 {236}{}{Pareces una }
 {240}{}{¿Por qué no vuelvas a tu }
 {241}{}{Pareces una }
 {245}{}{Guarda ese arma… a menos que QUIERAS problemas.}
-{250}{}{¡Un intruso!}
+{250}{}{¡Intrusa!}
 {260}{}{Saca esa basura rodante de aquí.}
 {261}{}{Aquí no se permiten robots. Que se largue.}
 {262}{}{Ese robot se va a convertir en chatarra si se queda.}
 {270}{}{Me *pareció* oler a mutante. Sácalo de aquí antes de que nos cabreemos.}
-{271}{}{¿Eres un amante de los mutantes? Su lugar está FUERA. O más lejos.}
+{271}{}{¿Eres un amante de los mutantes? Su lugar es FUERA. O más lejos aún.}
 {272}{}{¿Ese mutante busca convertirse en diana? Que se quede y obtendrá lo que desea.}
 {280}{}{Me *pareció* oler a algo podrido. Saca a ese necrófago tuyo de aquí.}
 {281}{}{Saca de aquí a ese apestoso necrófago hijo de puta. Ahora.}
@@ -106,7 +106,7 @@
 {495}{}{(Se encoge de hombros). No me importa. Si quieres esperar por él, adelante. No sé cuando volverá… o si
  lo hará.}
 {5225}{}{! ¿Cómo estás?}
-{5230}{}{! ¡Acabad con él!}
+{5230}{}{! ¡Acabad con ella!}
 {5236}{}{ hombre que no sabe cuando está a punto de morir.}
 {5240}{}{ perrera, basura?}
 {5241}{}{ zorra que ni siquiera sabe cuando va a morir.}

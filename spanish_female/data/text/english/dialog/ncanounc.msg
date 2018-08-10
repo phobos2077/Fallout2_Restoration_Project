@@ -4,7 +4,7 @@
 {103}{}{...ROTGUT!}
 {104}{}{Cuando TIENES que beber algo y no te importa lo que sea...}
 {105}{}{¡Elije aguardiente Rotgut!}
-{106}{}{En este rincón, el aspirante, con un peso de }
+{106}{}{En este rincón, la aspirante, con un peso de }
 {107}{}{Y en este otro rincón... con un peso de }
 {108}{}{Así que, sin más rodeos...}
 {109}{}{Liiiiiiiiistos para LA SANGRE!}
@@ -25,7 +25,7 @@
 {205}{}{ sobre }
 {206}{}{...}
 {210}{}{!!!}
-{1106}{}{ libras, llegado desde el Yermo a Nuevo Reno, }
+{1106}{}{ libras, llegada desde el Yermo a Nuevo Reno, }
 {1107}{}{ libras, lo CONOCÉIS, lo AMÁIS... }
 {2106}{}{!}
 {2107}{}{!}

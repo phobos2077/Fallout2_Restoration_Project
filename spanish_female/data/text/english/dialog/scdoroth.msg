@@ -14,7 +14,7 @@
 {113}{}{¿Como se supone que voy a hacerlo?}
 {114}{}{No te preocupes, estoy en ello.}
 {115}{}{¡No lo sé! Solo soy la ingeniero de la ciudad. ¡Averígualo tú!}
-{116}{}{¡Mierda! Ha dañado la unidad núcleo. Tiene que arreglarse antes de que todo se vaya al infierno. ¿Eres bueno arreglando cosas?}
+{116}{}{¡Mierda! Ha dañado la unidad núcleo. Tiene que arreglarse antes de que todo se vaya al infierno. ¿Eres buena arreglando cosas?}
 {117}{}{Urrgh. }
 {118}{}{Sí.}
 {119}{}{No.}
@@ -23,10 +23,10 @@
 {122}{}{¡Maldita sea! Entonces aparta. A no ser que tenga mucha suerte, todo va a volar por los aires. Vamos, Toto.}
 {123}{}{¿Lo arreglaste? ¿Sin ninguna pieza? ¡Eso es asombroso! ¿Dónde aprendiste a hacer eso?}
 {124}{}{¡Uh-uh!}
-{125}{}{Sólo soy un manitas, eso es todo.}
+{125}{}{Sólo soy una manitas, eso es todo.}
 {126}{}{Ya lo tengo. Tú eres uno de esos imbéciles... ¿cómo los llaman? Sabios idiotas. Bueno, mira, idiota o no, te has ganado una recompensa. TE RECOMPENSO. Te daré unos libros bonitos. Ve. Consigue dinero. Bien... como no sabes leer, de todos modos.}
 {127}{}{Mira, esto no es mucho, pero tengo algunos libros. Viejos manuales técnicos. Son tuyos. Tómalos.}
-{128}{}{¡Oye! Mira, Toto. Es el forastero que nos ayudó. Gracias de nuevo, señor.}
+{128}{}{¡Oye! Mira, Toto. Es la forastera que nos ayudó. Gracias de nuevo, señora.}
 {129}{}{¡Mierda! Toda la red ha caído. Arreglar esto nos va a llevar una eternidad. No tengo tiempo para hablar. Vamos, Toto.}
 {130}{}{Mira, no te culpo por lo sucedido, pero ahora no estoy de humor para hablar.}
 {131}{}{¡Tú le mataste! Quiero decir, ¿de verdad era necesario matarle? ¿No había otro modo? }
@@ -34,10 +34,10 @@
 {133}{}{No.}
 {134}{}{Debiste haberlo intentando entonces, en lugar de matarlo. Lárgate de aquí, ¡monstruo!}
 {135}{}{Es terrible. Me pregunto por qué lo hizo. La ciudad debe darte las gracias. Mira no es mucho, pero aquí tienes algunos manuales que he ido acumulando. Quizá puedas venderlos o algo así.}
-{136}{}{No me hables, cerdo asesino.}
-{137}{}{No puedo hablar, forastero. Me llamo Dorothy, ingeniero de la ciudad, y este es Toto. Tengo que darme prisa.}
+{136}{}{No me hables, cerda asesina.}
+{137}{}{No puedo hablar, forastera. Me llamo Dorothy, ingeniero de la ciudad, y este es Toto. Tengo que darme prisa.}
 {138}{}{¿Tú no tienes un modulador espacial Illudium Q-38, verdad? No lo creo.}
-{139}{}{¿Tú le disuadiste de ello? ¡Eso es asombroso! La ciudad tiene una gran deuda contigo, señor. Mira, esto no es mucho, pero aquí tienes algunos manuales que he ido acumulando. Quizá puedas venderlos o algo así.}
+{139}{}{¿Tú le disuadiste de ello? ¡Eso es asombroso! La ciudad tiene una gran deuda contigo, señorita. Mira, esto no es mucho, pero aquí tienes algunos manuales que he ido acumulando. Quizá puedas venderlos o algo así.}
 {140}{}{Quiero que sepas que todavía estoy impresionada por lo que hiciste con Jack. Toto y yo tenemos que irnos corriendo ahora. ¡Adiós!}
 {141}{}{¡Mierda! Una sugerencia: ¡CORRE!}
 {142}{}{¡Oye! Mira, Toto. Es la forastera que nos ayudó. Gracias de nuevo, señorita.}

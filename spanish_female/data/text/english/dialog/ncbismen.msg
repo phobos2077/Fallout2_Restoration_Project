@@ -14,19 +14,19 @@
 {221}{}{Oye, }
 {222}{}{Oye, }
 {225}{}{Acabas de entrar en el lugar equivocado, tarado.}
-{226}{}{Vaya, mira las pelotas de acero de este hijo de puta... lárgate, chico, antes de que te peguemos un tiro.}
+{226}{}{Vaya, mira las pelotas de acero de esta hija de puta... lárgate, chica, antes de que te metamos una bala en el entrecejo.}
 {227}{}{Este tipo busca problemas…}
 {228}{}{Oigo a }
 {229}{}{Mejor será que te vayas, }
 {230}{}{Vaya, pero si es }
 {231}{}{No creía que fueras miembros de la Familia }
 {232}{}{Acabas de entrar en el lugar equivocado, zorra.}
-{233}{}{Vaya, mira cómo se pavonea esta golfa...}
+{233}{}{Vaya, mira la soberbia de esta puta...}
 {234}{}{Lárgate, muchacha. Antes de que te pequemos un tiro.}
 {235}{}{Esta zorra busca problemas…}
 {236}{}{Oigo a }
-{250}{}{Eh, campeón. Nada de armas aquí, ¿vale?}
-{251}{}{¡Eh, campeón! Guarda el arma.}
+{250}{}{Eh, campeona. Nada de armas aquí, ¿vale?}
+{251}{}{¡Eh, campeona! Guarda el arma.}
 {252}{}{Oye, }
 {255}{}{¿Por qué estás andando a hurtadillas?}
 {256}{}{¿Estás intentando evitar a tus fans?}
@@ -71,7 +71,7 @@
 {331}{}{Parece como si hubieras hecho un viaje de ida y vuelta al infierno. Relájate un poco. Lo mereces.}
 {332}{}{¿Iban a esparcir algún nuevo virus en el aire? Bastardos. Espero que le pegaras un tiro a unos cuantos por mí.}
 {333}{}{Podrías volver a jugar usando un personaje diferente.}
-{334}{}{Tienes que ser la hostia de duro para haber reventado al Enclave como lo hiciste.}
+{334}{}{Debes de ser una tía realmente dura para machacar al Enclave como lo hiciste.}
 {335}{}{Así que dando una vuelta después de terminar el trabajo, consiguiendo algo de experiencia, ¿eh? Bueno, por favor NO
  me mates, ¿vale?}
 {336}{}{Nuevo Reno fue diseñado por Chris Avellone y programado por Tom French. Se rumorea que se
@@ -94,8 +94,8 @@
 {361}{}{Se avecina tormenta.}
 {362}{}{La peste procedente de Gólgota fue horrible anoche.}
 {363}{}{¿Cuándo vamos a cargarnos a las demás Familias?}
-{364}{}{Contigo de nuestro lado, las demás Familias no tienen ninguna oportunidad, jefe.}
-{365}{}{¿Necesitas algo, jefe?}
+{364}{}{Contigo de nuestro lado, las demás Familias no tienen ninguna oportunidad, jefa.}
+{365}{}{¿Necesitas algo, jefa?}
 {366}{}{¿Alguna noticia de las demás Familias?}
 {367}{}{Err, ¿tienes algo de Jet?}
 {368}{}{Me encantaría un trago…}
@@ -106,14 +106,14 @@
 {372}{}{Esa chica Bishop es problemática.}
 {373}{}{He oído que uno de los muchachos emborrachó a la hija de Bishop, y el señor Bishop le despellejó.}
 {374}{}{Si hablas con Bishop, aléjate de su mujer y de su hija… sólo causan problemas.}
-{380}{}{He oído que la señora Bishop te estaba buscando. Ten cuidado, compañero.}
+{380}{}{He oído que la señora. Bishop te estaba buscando. Ten cuidado, compañera.}
 {381}{}{He oído que la hija de Bishop estaba buscándote. Ella es problemática.}
-{382}{}{No pareces tan duro, señor Campeón.}
-{383}{}{Ya sabes, a la Familia Bishop podría venirle muy bien alguien como tú. Duro. Inflexible.}
+{382}{}{No pareces tan dura, señora Campeona.}
+{383}{}{Ya sabes, a la Familia Bishop podría venirle muy bien alguien como tú. Dura. Inflexible.}
 {384}{}{Deberías hablar con Bishop acerca de algún trabajo.}
 {385}{}{Deberías considerar el unirte a nosotros. Gobernaremos Nuevo Reno.}
 {386}{}{¡Conseguí 20 dólares apostando por ti!}
-{387}{}{¡Oye, campeón! ¡Esa última pelea fue genial!}
+{387}{}{¡Hey, campeona! ¡Tu última pelea fue fantástica!}
 {388}{}{Vi tu pelea en el ring. Lanzaste un gancho de derecha bueno de cojones.}
 {389}{}{¿Vas a retirarte? Conseguí 30 dólares apostando por ti.}
 {390}{}{¿Cuántas flexiones haces?}
@@ -123,8 +123,8 @@
 {394}{}{¿Quieres pelear?}
 {395}{}{No pareces tan dura, señorita Gancho Izquierdo.}
 {396}{}{¿Puedo ver cómo flexionas tus abdominales?}
-{400}{}{He oído que la señora Bishop te estaba buscando. Ten cuidado, compañero.}
-{401}{}{Me consigues un trabajo, compadre? Venga. Soy el rey entre los sementales.}
+{400}{}{He oído que la señora. Bishop te estaba buscando. Ten cuidado, compañera.}
+{401}{}{Me consigues un trabajo, compañera? Venga. Soy el rey entre los sementales.}
 {402}{}{Me encantan las películas, }
 {403}{}{Me encantaste en Grandes Pelotas de Fuego.}
 {404}{}{Me encantaste en El Indomable Will Follador.}
@@ -138,7 +138,7 @@
 {412}{}{Consígueme un trabajo, y te mostraré algunos de mis movimientos.}
 {413}{}{¿Cuándo vas a pasar por aquí a verme?}
 {414}{}{Hey, ¿bailarás esta noche?}
-{415}{}{Eres espectacular, preciosa.}
+{415}{}{Eres mortal, dulzura.}
 {416}{}{La Dama fortuna va a tener celos si sigues viniendo por aquí.}
 {420}{}{¿Cómo están las cosas en La Guarida?}
 {421}{}{¿Esa marca esclavista dolió cuando te la hicieron?}
@@ -161,7 +161,7 @@
 {451}{}{¿Quieres cabrearme? No te gustaría verme cabreado.}
 {452}{}{Desaparece antes de que te use como diana para practicar.}
 {453}{}{¿Buscas problemas? Sigue hablando conmigo y los encontrarás.}
-{460}{}{No tengo tiempo para un apestoso tribal ahora mismo. Vuelve más tarde.}
+{460}{}{No tengo tiempo para una apestosa tribal ahora mismo. Vuelve más tarde.}
 {461}{}{No tengo tiempo para atenderte ahora mismo, tribal. ¿Por qué no vuelves más tarde?}
 {462}{}{¡No, no sé dónde está, y ahora desaparece! ::Estúpidos tribales.::}
 {463}{}{Desaparece, tribal.}
@@ -176,7 +176,7 @@
 {472}{}{¿Buscas problemas? Sigue hablando conmigo y los encontrarás.}
 {473}{}{No estoy tan borracho como para pensar en darte un meneo. Piérdete.}
 {474}{}{Debes ser ser la tribal más fea que jamás haya visto.}
-{475}{}{Lárgate de aquí antes de que te haga algo más feo de lo que eres.}
+{475}{}{Lárgate de aquí antes de que te haga algo más fea de lo que eres.}
 {476}{}{Vete a ladrarle a algo que esté más bebido que yo, perra.}
 {490}{}{Me *pareció* oler a algo podrido. Saca a ese necrófago tuyo de aquí.}
 {491}{}{Saca de aquí a ese apestoso necrófago. Ahora.}

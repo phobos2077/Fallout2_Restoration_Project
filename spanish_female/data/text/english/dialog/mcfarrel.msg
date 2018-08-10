@@ -3,7 +3,7 @@
 {102}{}{Escuchas el sonido de ramitas secas rompiéndose cada vez que se mueve.}
 {150}{}{¡Oye, aléjate de ahí!}
 {151}{}{¡Deja de hacer eso!}
-{152}{}{¡Ladrón!}
+{152}{}{¡Ladrona!}
 {153}{}{No he robado el reloj, así que deja de venir aquí a acosar al pobre Farrel!}
 {154}{}{Cornelius dice que tú le robaste su reloj de oro.}
 {155}{}{¿Dónde has conseguido el dinero para esas herramientas nuevas?}
@@ -30,7 +30,7 @@
 {180}{}{¿Esperas que me crea eso?}
 {181}{}{No, pero dado que sé que yo no lo hice, es la única teoría que tengo.}
 {182}{}{¿Puedo hacerte más preguntas?}
-{183}{}{¡JA! Si tanto crees que soy culpable, por qué no me disparas y acabamos con esto. Maldito bastardo, ¡ven a por mí!}
+{183}{}{¡JA! Si tanto crees que soy culpable, por qué no me disparas y acabamos con esto. Maldita bastarda, ¡ven a por mí!}
 {184}{}{¿Cómo lo has encontrado? Escondí esa caja para que nadie fuera capaz de hallarla. Debes ser un ladrón profesional. Hmm… ¿dónde estabas cuando el reloj de oro desapareció? Será mejor que te vayas y no digas nada de la caja fuerte o mandaré al Sheriff Jo para que te arreste. ¡Ahora, largo!}
 {185}{}{Modoc es una pequeña comunidad de granjeros y rancheros. Suministramos la mayoría de comida a los pueblos y ciudades cercanas intercambiando nuestras cosechas por artículos de primera necesidad. La verdad, es un buen acuerdo. Sin embargo, todo esto podría cambiar con la sequía. Apenas podemos alimentarnos a nosotros mismos, mucho menos producir excedentes que vender.}
 {187}{}{Bueno, principalmente trabajo en el jardín, intentando que esas malditas plantas crezcan sin agua. No puedo hacerlo porque algo grande se ha instalado allí y no puedo librarme de él. Y para rematar la faena, nadie quiere ayudarme porque creen que robé el reloj de oro de Cornelius.}
@@ -55,7 +55,7 @@
 {208}{}{Sí. Hacer.}
 {209}{}{¡Adioooos!}
 {210}{}{¡Entonces lárgate, cavernícola imbécil!}
-{211}{}{Bien por ti, querido amigo. [Te toma de la mano y te lleva hasta el jardín]. No quisiera que te perdieras. Vuelve a verme cuando hayas acabado con la plaga.}
+{211}{}{Bien por ti, querida amiga. [Te toma de la mano y te lleva hasta el jardín]. No quisiera que te perdieras. Vuelve a verme cuando hayas acabado con la plaga.}
 {212}{}{Querida, hermosa, mujercita. Eres tan buena con este pobre viejo. [Te toma de la mano y te lleva hasta el jardín]. No quisiera que te perdieras. Vuelve a verme cuando hayas acabado con la plaga.}
 {213}{}{¡Fantástico! Y aquí está tu premio. [Busca en el bolsillo de su pantalón y te da una galleta mordisqueada]. Ahora sé un buen cavernícola y vete a jugar afuera con tu galletita.}
 {300}{}{Voy a matar a ese bastardo.}

@@ -12,7 +12,7 @@
 {222}{}{Flick vende un montón de cosas diferentes.}
 {223}{}{No te olvides de decirle hola a Flick.}
 {230}{}{Este es el local de Frankie.}
-{231}{}{¿Eres amigo de Frankie?}
+{231}{}{¿Eres amiga de Frankie?}
 {232}{}{Este sitio huele a algo asqueroso.}
 {233}{}{Las bebidas de Frankie son muy caras... por lo que he oído.}
 {240}{}{El local de Becky es muy chulo.}

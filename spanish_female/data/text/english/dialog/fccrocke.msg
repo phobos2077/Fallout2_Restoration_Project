@@ -10,7 +10,7 @@
 {109}{}{Nada, gracias.}
 {110}{}{Hay que joderse, cada día hay más sub-humanos rondando por ahí. ¡Aléjate! ¡Fuera!}
 {111}{}{Awww.}
-{112}{}{Sí, puedo hacerlo. Pero, ¿qué estás dispuesto a intercambiar por ello?}
+{112}{}{Sí, puedo hacerlo. Pero, ¿qué estás dispuesta a intercambiar por ello?}
 {113}{}{El doctor Jing probablemente esté dispuesto a venderos combustible para la nave espacial.}
 {114}{}{Puedo pagarte.}
 {115}{}{Te dejaré seguir viviendo.}
@@ -53,8 +53,8 @@
 {149}{}{::te mira a los ojos y decide que vas de farol::
 Inténtalo, amiguete. Vas a tener a unos guardias encargándose de tu culo y nunca aprenderás a mejorar tu armadura.}
 {150}{}{Muy bien. Muere, cerebrito.}
-{151}{}{Mierda. Me has llamado faroleador.}
-{152}{}{Faroleador. Creo que vamos a ver qué opinan los guardias sobre eso.}
+{151}{}{Mierda. Me has llamado faroleadora.}
+{152}{}{Faroleadora. Creo que vamos a ver qué opinan los guardias sobre eso.}
 {153}{}{¡Maldición!}
 {154}{}{Estos tipos no saben nada de ciencia de verdad: les ayudo a justificar sus extravagancias a cambio de algo de tiempo libre con las señoritas y de un salario considerable.}
 {155}{}{Hmm. Tengo más preguntas que te quería hacer.}

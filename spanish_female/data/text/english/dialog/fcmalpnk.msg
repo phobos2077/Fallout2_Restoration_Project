@@ -8,7 +8,7 @@
 {107}{}{De hecho, preferiría morir antes que darte el control.}
 {108}{}{¡Nadie dirige mi vida! ¡Soy mi propio rey!}
 {109}{}{Soy mi propio jefe.}
-{110}{}{¡Soy único! ¡Igual que los demás!}
+{110}{}{¡Soy única! ¡Al igual que todos los demás!}
 {111}{}{A veces el hastiado cinismo del mundo me aburre.}
 {112}{}{La próxima vez, quiero encontrarme con una tribu de góticos.}
 {113}{}{Vi a Selmy y a Barro despedazados escaleras abajo.}
@@ -21,7 +21,7 @@
 {120}{}{Oveja. No eres más que una oveja muerta.}
 {121}{}{Dile a esos bastardos Hubologistas que nunca estaremos con ellos.}
 {122}{}{No pienso volver con los Hubologistas.}
-{123}{}{Espero que estés orgulloso de ti mismo.}
+{123}{}{Espero que estés orgullosa de ti misma.}
 {124}{}{¿No entienden que matar a nuestro "líder" no hará que les sigamos?}
 {125}{}{Eres un gilipollas.}
 {126}{}{¡Baah! ¡Baah!}
@@ -31,14 +31,14 @@
 {130}{}{Francis es un tipo bastante grande.}
 {131}{}{El viejo Francis el grandullón, ¿eh?}
 {132}{}{}
-{133}{}{¡Hey! ¡Es el cojo!}
+{133}{}{¡Hey! ¡Es la coja!}
 {134}{}{Oye, si necesitas alguna ayuda de nosotros, no te molestes en preguntar.}
-{135}{}{¡Anda, mira! ¡Un gilipollas andante!}
+{135}{}{¡Anda, mira! ¡Una gilipollas andante!}
 {136}{}{¿Ganas algo siendo tan capullo?}
 {137}{}{Sacrifica a nuestro pequeño Chippie. ¿Lo harás?}
 {138}{}{Pobre Chip.}
-{139}{}{Oh, mira, es el "héroe".}
-{140}{}{¡Oíd todos! ¡Es el cabrón egoísta!}
+{139}{}{Oh, mira, es la "heroína".}
+{140}{}{¡Oid todos! ¡Es la zorra egoísta!}
 {141}{}{Parece que ahora nadie quiere hablar contigo.}
 {142}{}{¡Odias a Chip!}
 {143}{}{¿Puedo hacer algo por ti? ¡Pues jódete!}
@@ -49,7 +49,7 @@
 {148}{}{Mala suerte para el viejo Chippie.}
 {149}{}{Chip está cada vez más débil. Es una pena.}
 {150}{}{¡Bien hecho con lo del bazo!}
-{151}{}{Vaya, vaya... un héroe y un buscador de bazos.}
+{151}{}{Vaya, vaya... una heroína y una buscadora de bazos.}
 {152}{}{No sabía que hacían bazos.}
 {153}{}{Gracias por salvar a Chip.}
 {154}{}{¡Hola, fan de Chip!}

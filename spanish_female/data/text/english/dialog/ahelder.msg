@@ -8,10 +8,10 @@
 {107}{aeld2a}{Estoy orgullosa de ti, Elegido. Has superado muchos obstáculos. Ahora. Debes encontrar el Refugio 13. Refugio 13. Trae el GECK. GECK. Aquí hay una botella brillante. Vic nos la dio. Vic. Es un mercader en Klamath. Klamath. Busca a Vic. Encuentra el Refugio 13. Encuentra el GECK. Vuelve a casa. Haz lo que puedas, pequeño.}
 {112}{aeld2b}{No has encontrado el refugio. ¡Busca Refugio! Refugio 13.}
 {113}{}{Uh.}
-{114}{aeld3}{Elegido, ¿quieres que muramos todos? ¡Debes encontrar el Refugio!}
+{114}{aeld3}{Elegida, ¿quieres que muramos todos? ¡Debes encontrar el Refugio!}
 {115}{}{Lo siento, Anciana. No te fallaré.}
 {116}{}{Sí, sí. Deja de gritar.}
-{117}{aeld4}{Elegido, ¿qué haces aquí?}
+{117}{aeld4}{Elegida, ¿qué haces aquí?}
 {118}{}{¡Sé donde está el Refugio 13!}
 {119}{}{Estoy listo para la sagrada búsqueda.}
 {120}{}{Necesito algo más de información.}
@@ -62,7 +62,7 @@
 {166}{}{Está bien, ya me marcho.}
 {167}{}{No te fallaré, Anciana.}
 {168}{}{Estoy trabajando en ello, ¿vale?}
-{169}{aeld18}{Una vez más vuelves sin el GECK. Nuestras cosechas se están echando a perder, Elegido. Nuestra necesidad se vuelve mayor con el paso del tiempo. ¡Ve a buscar el sagrado Trece!}
+{169}{aeld18}{Una vez más vuelves sin el GECK. Nuestras cosechas se están echando a perder, Elegida. Nuestra necesidad se vuelve mayor con el paso del tiempo. ¡Ve a buscar el sagrado Trece!}
 {170}{}{Vale, marcho ahora.}
 {171}{}{Sí, Anciana.}
 {172}{}{No te fallaré ni a ti ni a nuestra gente, Anciana.}
@@ -77,14 +77,14 @@
 {181}{}{Voy de camino.}
 {182}{}{Perdóname, Anciana. Encontraré el GECK sin demora.}
 {183}{}{Sí, sí. Estás empezando a sonar como un disco rayado...}
-{200}{eeld1}{¡Elegido! ¿Cómo has llegado hasta aquí?}
+{200}{eeld1}{¡Elegida! ¿Cómo has llegado hasta aquí?}
 {201}{}{Uhh… ¿duh?}
 {202}{}{He venido a rescatarte.}
 {203}{}{¿Qué demonios está pasando aquí?}
 {204}{eeld2}{¡Tú, monstruo! Has venido a matarme, ¿verdad?}
 {205}{}{¿Ehhh?}
-{206}{}{No, soy yo, ¡el Elegido!}
-{207}{}{Oh, cállate, ¡vieja zorra! Soy yo, el Elegido.}
+{206}{}{No, soy yo, ¡la Elegida!}
+{207}{}{Oh, cállate, ¡vieja zorra! Soy yo, la Elegida.}
 {208}{eeld3}{Oh, Dioses... Escucha: ve abajo. Busca máquina que da luz. Mata máquina. Mata hombres malos. ¡Mata a todos! Tú los matas, nosotros volvemos a casa. Si no tienes el GECK, busca GECK aquí. ¡Debemos tener GECK para salvar el poblado! La libertad no es nada si no tenemos un hogar al que volver. ¿Entiendes? Oh, dioses.}
 {209}{}{¡Uh -huh!}
 {210}{eeld4}{Cuidado, no toques el muro brillante. Creo que la máquina que lo alimenta está detrás nuestro. Destrúyela para que podamos escapar. ¿Cómo has llegado aquí?}
@@ -98,12 +98,12 @@
 {218}{eeld6}{Si destruyes la máquina, encontraremos el barco. Date prisa, no quedamos muchos con vida.}
 {219}{}{¿Qué pasó?}
 {220}{}{Entendido.}
-{221}{eeld7}{Debes destruir la máquina y matar a los demonios de este lugar. ¡Nos encontraremos afuera! Y Elegido, si no has encontrado el GECK, búscalo aquí. Nuestra libertad no servirá de nada si no podemos salvar al poblado. ¡Ahora vete!}
+{221}{eeld7}{Debes destruir la máquina y matar a los demonios de este lugar. ¡Nos encontraremos afuera! Y Elegida, si no has encontrado el GECK, búscalo aquí. Nuestra libertad no servirá de nada si no podemos salvar al poblado. ¡Ahora vete!}
 {222}{}{Adiós.}
 {223}{eeld8}{Todavía sigo siendo la Anciana. ¡Recuerda tu posición! Discúlpate o no te ayudaré más.}
 {224}{}{Perdón, no eres una vieja zorra. Y ahora ¿qué está pasando aquí?}
 {225}{}{Como si pudieras ayudarme desde ahí. Que te jodan, muérete.}
-{226}{eeld9}{Vete. No eres mejor que estos demonios. Me arrepiento del día en que fuiste nombrado Elegido.}
+{226}{eeld9}{Vete. No eres mejor que estos demonios. Me arrepiento del día en que fuiste nombrada Elegida.}
 {227}{eeld10}{¿Por qué estás aún aquí? Por cada minuto que pierdes uno de los nuestros puede morir. Y no te olvides del GECK. ¡Debemos conseguirlo!}
 {228}{}{¿¿Nuh??}
 {229}{}{¿A dónde se supone que debía ir?}

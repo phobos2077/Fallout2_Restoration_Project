@@ -29,14 +29,14 @@
 {171}{}{Necesito algo del almacén.}
 {172}{}{Eh, nada. Sólo estaba echando un vistazo. Adiós.}
 {180}{}{No puedo creer que te hayan dejado entrar aquí.}
-{181}{}{Eres un auténtico idiota, ¿eh?}
+{181}{}{Eres una auténtica idiota, ¿eh?}
 {182}{}{No te tires al foso del reactor.}
 {183}{}{Eh, ahora mismo estoy demasiado ocupado como para leerte un cuento.}
 {184}{}{Sigue caminando... adelante. Eso es, buen piel suave.}
 {190}{}{¿Necesitas una qué? Bueno, hay una lista de espera para eso. ¿Necesitas algo más?}
 {191}{}{Eh, pues supongo que me conformaré con un transformador trifásico de plasma.}
 {192}{}{Maldición. No, ninguna otra cosa me servirá. Tendré que volver luego. Adiós.}
-{200}{}{Hmm, ¿no serás un amigo de Skeeter? Siempre está intentando que le dé cosas valiosas, empieza a trastear con ellas y las rompe. No confiaría en él ni para reparar una tostadora.}
+{200}{}{Hmm, ¿no serás una amiga de Skeeter? Siempre está intentando que le dé cosas valiosas, empieza a trastear con ellas y las rompe. No confiaría en él ni para reparar una tostadora.}
 {201}{}{Eh... de hecho sí.}
 {202}{}{¿Skeeter? Tengo que llevar esta pieza al cuarto de controles del reactor para reparar el... ¡oye, mira! ¡Una rata!}
 {203}{}{No sé qué van a hacer con esta cosa. Yo sólo la estoy recogiendo.}

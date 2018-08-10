@@ -3,7 +3,7 @@
 {102}{}{Ves al bibliotecario jefe Kohl.}
 {103}{}{Ves a un hombre de aspecto diplomático con un uniforme de Ciudad Refugio.}
 {104}{}{He de asegurarme de que tus actos heroicos se registran en los archivos de Ciudad Refugio, }
-{105}{}{¡Dios mío! ¡Un intruso! ¡Ayuda! ¡Guardias!}
+{105}{}{¡Dios mío! ¡Una intrusa! ¡Ayuda! ¡Guardias!}
 {106}{}{¡Dios mío! ¡Un mutante en Ciudad Refugio! ¡Guardias! ¡Guardias!}
 {107}{}{¡Dios mío! ¡Un necrófago en Ciudad Refugio! ¡Guardias! ¡Guardias!}
 {108}{}{La Oficina de Información está cerrada durante la tarde. Vuelve por la mañana.}
@@ -20,7 +20,7 @@
 {119}{}{Eh... ¿perdóname?}
 {120}{}{Cripple-cripple creep}
 {121}{}{Dejas de balbucear}
-{122}{}{Oh, Dios, debes ser uno de los siervos. ¡Realmente DEBERÍAS volver con el amo Barkus de inmediato, o se pondrá furioso!}
+{122}{}{Oh, Dios, debes ser una de los siervos. ¡Realmente DEBERÍAS volver con el amo Barkus de inmediato, o se pondrá furioso!}
 {123}{}{¡Vaaale!}
 {124}{}{Este es el Centro de Información de Ciudad Refugio. ¿Es el lugar que estabas buscando?}
 {125}{}{En realidad, sí. Tengo algunas preguntas que tal vez puedas contestarme.}
@@ -58,11 +58,11 @@
 {153}{}{¿Cómo puedo hacer para bajar el Refugio?}
 {154}{}{¿Puedo hacerte alguna otra pregunta?}
 {155}{}{Gracias por la información.}
-{156}{}{Bien, eres un Ciudadano de la comunidad, ¿cierto? Tienes permiso para bajar allí.}
+{156}{}{Bien, eres una Ciudadana de la comunidad, ¿cierto? Tienes permiso para bajar allí.}
 {157}{}{Oh, ¿lo eres? Perdón, perdón... bueno, entonces, se te permite entrar sin problemas y usar la computadora.}
 {158}{}{Bien, lo primero que necesitarías es ser un Ciudadano de Ciudad Refugio. Si quieres, podrías hacer el test de Ciudadanía... o aún mejor,
  hablar con la Primer Ciudadano Lynette. Estoy seguro de que hará una excepción en tu caso.}
-{159}{}{Eh, pero yo soy Ciudadano.}
+{159}{}{Eh, pero yo soy Ciudadana.}
 {160}{}{¿Puedo hacerte alguna otra pregunta?}
 {161}{}{Gracias por la información.}
 {162}{}{Sí, bueno, se está transcribiendo todo porque... hmmm. Esta es un tema delicado, pero creo que mi puesto en Ciudad Refugio se ha quedado obsoleto.}

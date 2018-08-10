@@ -51,7 +51,7 @@
 {274}{}{Lo que realmente quiero hacer es dirigir.}
 {275}{}{Gracias al cielo finalmente instalaron la cabecera acolchada.}
 {280}{}{¿Qué es ese olor?}
-{281}{}{Genial. Otro tribal comemierda.}
+{281}{}{Genial. Otra tribal comemierda.}
 {282}{}{No me hables.}
 {283}{}{Veamos… "Oh, dios"… "Dámelo…" ¡Maldición! ¡¿Cuál es la siguiente línea?}
 {284}{}{Sí pero, ¿cuál es mi MOTIVACIÓN para esta escena?}
@@ -60,7 +60,7 @@
 {287}{}{Gracias al cielo finalmente instalaron la cabecera acolchada.}
 {288}{}{Preferiría que no me hablaras directamente. Piensa para ti mismo, y después imagina que te respondo.}
 {289}{}{¿Quién eres?}
-{290}{}{¿Eres uno de los empleados de la limpieza?}
+{290}{}{¿Eres una de las empleadas de la limpieza?}
 {295}{}{¿No eres demasiado bajo para ser un soldado de asalto?}
 {296}{}{¡Aighhhhhh! ¿Qué intentas hacer? ¿Provocarme un ataque al corazón?! ¡Sal de aquí!}
 {297}{}{¿De qué película has salido? ¿Ultimátum a la Tierra? ¡Sal de aquí!}
@@ -105,8 +105,8 @@
 {346}{}{¿No te diste un baño antes de venir?}
 {350}{}{¿Cómo lo llevas, }
 {351}{}{¿Dejas el boxeo para entrar en el porno? Es lo mismo, en distinto escenario.}
-{352}{}{¿Quieres saltar en el cuadrilátero conmigo, campeón?}
-{353}{}{¿Quieres boxear, campeón?}
+{352}{}{¿Quieres saltar al cuadrilátero conmigo, campeona?}
+{353}{}{¿Quieres boxear, campeona?}
 {354}{}{Cuidado con el Masticador. Es un auténtico capullo. Una vez intentó morderme la oreja.}
 {355}{}{¿Me ayudas a repasar mis frases?}
 {356}{}{¿Me puedes pasar un poco de Jet?}
@@ -115,8 +115,8 @@
 {359}{}{Llevas un buen trasto.}
 {360}{}{Mis novios no saben que trabajo aquí. No es que me importe lo que puedan pensar.}
 {361}{}{Después no hago nada. Lo digo por si buscas compañía.}
-{362}{}{¿Te vas a meter en el negocio? Bienvenido a bordo.}
-{363}{}{Menudo equipamiento llevas.}
+{362}{}{¿Te vas a meter en el negocio? Bienvenida a bordo.}
+{363}{}{Tienes una buena unidad ahí.}
 {364}{}{Deberías probar con el porno. Tienes cuerpo para ello.}
 {365}{}{Llevas un buen trasto.}
 {366}{}{Después no hago nada. Lo digo por si buscas compañía.}
@@ -152,7 +152,7 @@
 {419}{}{Estoy buscando al tipo adecuada. Gracias por hacerme compañía hasta que aparezca.}
 {420}{}{No vas a conseguir meterte en mis bragas. Sólo hay lugar para un cabroncete ahí dentro.}
 {421}{}{Lo siento, pensaba que eras atractivo, pero me equivoqué.}
-{422}{}{¿Contigo? Lo siento, NUNCA estaré tan desesperada.}
+{422}{}{¿Tú? Lo siento, NUNCA estaré tan desesperada.}
 {423}{}{No he visto a los Hermanos por aquí… ahora no me molestes. Soy actriz.}
 {424}{}{Por favor… nada de autógrafos.}
 {425}{}{Tengo muchas ganas de dirigir.}
@@ -161,12 +161,12 @@
 {428}{}{Mis novios no saben que trabajo aquí. No es que me importe lo que puedan pensar.}
 {429}{}{POR FAVOR, deja de molestarme. Estoy intentando memorizar estas frases.}
 {430}{}{Si estás buscando trabajo, habla con los Hermanos.}
-{431}{}{¿Eres la nueva entonadora?}
-{432}{}{¿Eres el nuevo empleado de la limpieza? No se me ocurre qué otra cosa podría ser.}
-{433}{}{Si eres el nuevo empleado de la limpieza, podrías empezar por sacarle brillo a mi culo.}
+{431}{}{¿Eres la nueva estimuladora?}
+{432}{}{¿Eres la nueva empleada de la limpieza? No se me ocurre qué otra cosa podría ser.}
+{433}{}{Si eres la nueva empleada de la limpieza, podrías empezar por sacarle brillo a mi culo.}
 {434}{}{No he visto a los Hermanos por aquí, niña… ahora no me molestes. Soy actriz.}
 {435}{}{Por favor, niña… nada de autógrafos.}
-{436}{}{QUIZÁ si te adecentases un poco más, podrías ser un estimulador.}
+{436}{}{QUIZÁ si te adecentases un poco más, podrías ser una estimuladora.}
 {437}{}{No, lo siento, no puedo ser lesbiana por menos de 200 fichas. Para ti, 300.}
 {438}{}{Bailo en los casinos los jueves. No te pierdas mi actuación y trae unas fichas.}
 {439}{}{Chica, ni te imaginas lo estresada que resulta mi vida.}

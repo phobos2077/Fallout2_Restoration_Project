@@ -17,9 +17,9 @@
 {116}{}{Podría darte una paliza y salir de aquí.}
 {117}{}{Perdóname, pero no voy a responder a tus preguntas. Haz la prueba de la Anciana y demuestra que eres capaz de liderar a nuestro pueblo.}
 {118}{}{Muy bien.}
-{119}{}{Dos personas trabajando juntas pueden mover el obelisco que bloquea el camino. Solo, no serías capaz. No tengo intención de ayudarte a menos que pases la prueba de la Anciana.}
+{119}{}{Dos personas trabajando juntas pueden mover el obelisco que bloquea el camino. Sola, no serías capaz. No tengo intención de ayudarte a menos que pases la prueba de la Anciana.}
 {120}{}{Oh, vale, lo pillo.}
-{121}{}{¡Saludos, Elegido! Me alegro de verte. ¿Qué puedo hacer por ti?}
+{121}{}{¡Saludos, Elegida! Me alegro de verte. ¿Qué puedo hacer por ti?}
 {122}{}{Digo hola yo. Eso todo.}
 {123}{}{Tan sólo venía a decirte hola. Pronto me marcharé a mi misión.}
-{124}{}{Que los espíritus de nuestros ancestros te protejan, Elegido. Te deseo lo mejor en tu viaje.}
+{124}{}{Que los espíritus de nuestros ancestros te protejan, Elegida. Te deseo lo mejor en tu viaje.}

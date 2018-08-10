@@ -1,7 +1,7 @@
 {100}{}{Ves a un hombre que se parece mucho a un tendero.}
 {101}{}{Ves a Lao Chou, un tendero.}
 {102}{}{Ves a un hombre con ropa cómoda y funcional.}
-{103}{}{¡Saludos! Bienvenido a mi tienda, El Dragón Volador Ocho.}
+{103}{}{¡Saludos! Bienvenida a mi tienda, El Dragón Volador Ocho.}
 {104}{}{¿Qué puedo hacer por ti?}
 {105}{}{¡Da aggle oo!}
 {106}{}{¡Cosas!}
@@ -70,7 +70,7 @@
 {169}{}{Puedes intentarlo con alguno de los científicos Shi del Palacio de Acero. Tal vez puedan ayudarte con tu necesidad de combustible.}
 {170}{}{Gracias. Quería más información.}
 {171}{}{Gracias. Adiós.}
-{172}{}{Eres un enemigo de mi pueblo. ¡Muere!}
+{172}{}{Eres una enemiga de mi pueblo. ¡Muere!}
 {173}{}{Has actuado bien con mi pueblo al asesinar a AHS-9. Espero que pueda serte de ayuda de algún modo.}
 {174}{}{¿Quién eres?}
 {175}{}{Estoy buscando algo de equipamiento.}

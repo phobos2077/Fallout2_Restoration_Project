@@ -7,7 +7,7 @@
 {105}{}{¡Tra-bajo aquí!}
 {106}{}{¿Quién eres?}
 {107}{}{¿Qué puedes contarme sobre Chad?}
-{108}{}{No tengo paciencia para los idiotas. Lo siento, amigo, pero tendrás que buscar a algún otro con quien jugar.}
+{108}{}{No tengo paciencia para los idiotas. Lo siento, amiga, pero tendrás que buscar a algún otro con quien jugar.}
 {109}{}{::sniff::}
 {110}{}{Soy Max. Uno de los guardias de las caravanas.}
 {111}{}{¿Qué puedes contarme sobre Chad?}
@@ -19,7 +19,7 @@
 {115}{}{Gracias. Adiós.}
 {116}{}{Gracias. Estoy muy contento de que se acabó. Pero será mejor de que vigila tu espalda.}
 {117}{}{Adiós.}
-{118}{}{¡Es el enemigo! ¡Muere!}
+{118}{}{¡Es la enemiga! ¡Muere!}
 {119}{}{Ups.}
 {120}{}{[Lowers his voice and looks around.] That's gotta be it. In fact, I was a guard on the latest uranium run to
  Gecko, and I overheard Chad arguing with their ghoul rep. Apparently, Broken Hills had recently been jacking up the

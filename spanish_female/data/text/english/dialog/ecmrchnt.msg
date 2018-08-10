@@ -6,7 +6,7 @@
 {105}{}{Este debe ser mi día de suerte. Ven, mira lo que tengo en venta.}
 {200}{}{¡Saludos, viajero! Raramente veo mucha gente por esta ruta, pero siempre me alegra tener nuevos clientes. ¿Quieres comerciar?}
 {201}{}{¡Eh, tú! Es genial que te hayas detenido. Mucha gente en esta ruta sigue directamente. Eh, ¿querrías comerciar con algunas cosas?}
-{202}{}{¿Estarías interesado en un poco de comercio?}
+{202}{}{¿Estarías interesada en un poco de comercio?}
 {250}{}{Eso estará bien.}
 {251}{}{Lo siento, pero tengo que marcharme.}
 {252}{}{Ya. ¡Yo tengo cosas!}

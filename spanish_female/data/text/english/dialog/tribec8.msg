@@ -7,7 +7,7 @@
 {201}{}{No me gustas.}
 {202}{}{Buenos días, soldado.}
 {203}{}{¿Por qué nos haces daño?}
-{204}{}{Bienvenido, amigo.}
+{204}{}{Bienvenida, amiga.}
 {205}{}{Siempre serás bienvenido en Modoc.}
 {206}{}{Que los espíritus del cielo se te meen encima.}
 {207}{}{Gracias por ayudarnos.}

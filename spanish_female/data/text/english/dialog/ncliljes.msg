@@ -19,7 +19,7 @@
 {257}{}{¿Haremos algo esta noche, }
 {258}{}{Mi cuchillo necesita más sangre de los Bishop…}
 {259}{}{Me he cepillado a tantos Salvatore que me llaman "carnicero"…}
-{270}{}{¡Tú! ¡Cabrón! ¿Buscas al ángel de la muerte? ¡Lárgate!}
+{270}{}{¡Tú! ¡Puta! ¿Buscas al ángel de la muerte? ¡Desaparece!}
 {271}{}{Demuestras tener cojones al venir aquí, }
 {272}{}{Hijo de puta…}
 {273}{}{Tú }
@@ -27,16 +27,16 @@
 {275}{}{::Empieza a jugar con su cuchillo amenazadoramente.::}
 {276}{}{¿Buscas a tu hermana, }
 {277}{}{¿Pero que coj… ¡tú! Tú, ¿qué estás haciendo aquí?}
-{278}{}{¡Tú! ¡Puta! ¿Buscas al ángel de la muerte? ¡Lárgate!}
+{278}{}{Tú! ¡Puta! ¿Buscas al ángel de la muerte? ¡Desaparece!}
 {279}{}{Parece que te han soltado de la perrera, puta.}
 {280}{}{Como no estés aquí para besarme el culo, }
 {281}{}{Hija de puta…}
 {300}{}{¡Tú! Hombre, no puedes llevar eso aquí.}
-{301}{}{¡Tú! Hombre, guarda esa cosa antes que empieces a poner nerviosa a la gente.}
-{310}{}{¡Tú! Chica, no puedes llevar eso por aquí.}
-{311}{}{¡Tú! Chica, guarda esa cosa antes que empieces a poner nerviosa a la gente.}
+{301}{}{¡Tú! Hombre, guarda esa cosa antes de que la gente se empiece a poner nerviosa.}
+{310}{}{¡Tú! Chica, no puedes llevar eso aquí.}
+{311}{}{¡Tú! Chica, guarda esa cosa antes de que la gente se empiece a poner nerviosa.}
 {320}{}{¿Por qué demonios estás andando a hurtadillas, }
-{330}{}{¿Por qué andas a hurtadillas, chica? Con ese gancho de derecha que tienes, deberías caminar erguida.}
+{330}{}{¿Por qué andas a hurtadillas, chica? Con el gancho de derecha que tienes, deberías caminar erguida.}
 {340}{}{¿Dónde aprendiste a pelear, }
 {341}{}{Tienes los cojones de un Mordino.}
 {342}{}{Esa última pelea fue algo más que épico, hombre.}
@@ -48,11 +48,11 @@
 {348}{}{¿Dónde entrenas, eh?}
 {349}{}{Cuidado con el Masticador. Le gustan las orejas.}
 {350}{}{Te invitaría a una copa si no hubiera perdido todo mi dinero apostando a tu oponente.}
-{351}{}{¿De dónde vienes, luchando así? Eres bueno. Y quiero decir BUENO.}
-{352}{}{¿Dónde aprendiste a pelear, chica? Eres despiadada. Vaya si sabes MOVERTE.}
+{351}{}{¿De dónde eres, peleando así? Eres buena. Y quiero decir BUENA.}
+{352}{}{¿Dónde aprendiste a pelear, chica? Eres implacable. Sabes MOVERTE.}
 {353}{}{Esa última pelea fue algo épico de cojones, chica.}
 {354}{}{¿Dónde entrenas, eh? ¿Necesitas un ayudante?}
-{370}{}{Hey, hey, hey! Chica, ¿necesitas que yo te quite ese arma?}
+{370}{}{¡Hey, hey, hey! Chica, ¿necesitas que yo te quite ese arma?}
 {371}{}{¿Qué, quieres que desnude para registrarte? Venga, guarda eso antes de que me tenga que poner duro.}
 {390}{}{No hay forma de que le pases desapercibida a Pequeño Jesús con un cuerpazo como ese, chica.}
 {400}{}{Tu película no estuvo mal, pero obviamente necesitas algunas indicaciones mías. ::Risas::}
@@ -63,23 +63,23 @@
 {405}{}{Háblale bien a los Hermanos de mí, ¿de acuerdo?}
 {406}{}{Estás haciendo lo correcto al tratar con los Mordino. Vamos a llegar lejos.}
 {407}{}{¿Necesitas drogas? ¿Licor? ¿Algunas fichas? Puedo surtirte. Tengo contactos, ¿sabes?}
-{408}{}{¿Y si tú y yo hacemos una película? Te trataré bien, chica. Te mostraré lo que puede hacer un latin lover.}
+{408}{}{Entonces, ¿cuándo vamos a hacer tú y yo una película? Te trataré bien, chica. Te demostraré lo que puede hacer un latin lover.}
 {409}{}{¿Por qué no te pasas por aquí después del trabajo?}
 {410}{}{¿Tienes amigos?}
 {411}{}{¿Necesitas algo de Jet? Puedo surtirte, chica.}
 {412}{}{Chica, no hay nada que no haría por ti… venga, vamos. Dame un besito.}
-{425}{}{No vayas mostrando las armas aquí, amigo. Guárdala.}
-{435}{}{No andes a hurtadillas, esclavista, ¿vale? Estás entre amigos.}
-{445}{}{¡Tú! ¿Eres tonto o algo así? Guarda ese arma antes que te haga daño.}
+{425}{}{No vayas mostrando las armas aquí, amiga. Guárdala.}
+{435}{}{No andes a hurtadillas por aquí, esclavista, ¿de acuerdo? Estás entre amigos.}
+{445}{}{¡Tú! ¿Eres tonta o algo parecido? Guarda eso antes de que te haga daño.}
 {446}{}{¿Estás buscando una lobotomía frontal? Guarda ese arma.}
-{447}{}{¡Tú, chica! ¿Eres tonta o algo así? Guarda ese arma antes que te haga daño.}
+{447}{}{¡Tú, chica! ¿Eres tonta o algo parecido? Guarda eso antes de que te haga daño.}
 {455}{}{¿Por qué demonios estás andando a hurtadillas? ¿Buscas que te peguen un tiro?}
-{460}{}{¿Por qué estás andando a hurtadillas, chica? ¿Buscas que te peguen un tiro?}
+{460}{}{¿Por qué demonios andas a hurtadillas, chica? ¿Quieres que te disparen?}
 {465}{}{Saca esa basura rodante de aquí.}
 {466}{}{Aquí no se permiten robots. Que se largue.}
 {467}{}{Ese robot se va a convertir en chatarra si se queda.}
 {475}{}{Me PARECIÓ oler a mutante. Sácalo de aquí antes que me cabree.}
-{476}{}{¿Eres un amante de los mutantes? Su lugar está FUERA. O más lejos.}
+{476}{}{¿Eres un amante de los mutantes? Su lugar es FUERA. O más lejos aún.}
 {477}{}{Como ese mutante siga por aquí, se va a convertir en diana para prácticas de tiro.}
 {485}{}{Me PARECIÓ oler algo podrido. Saca de aquí a ese necrófago tuyo.}
 {486}{}{Saca de aquí a ese apestoso necrófago. Ahora.}
@@ -95,9 +95,9 @@
 {512}{}{¿Quién eres?}
 {513}{}{Lo siento. Creí que eras otra persona.}
 {522}{}{¿Eh...? ¿Otra vez tú? ¿Qué quieres ahora?}
-{523}{}{Heeeey... ¿cómo lo llevas, amigo? ¿Tienes algo en mente?}
+{523}{}{Heeeey... ¿cómo lo llevas, amiga? ¿Tienes algo en mente?}
 {524}{}{Yo de bajo dónde}
-{525}{}{¿A-migo?}
+{525}{}{¿A-miga?}
 {526}{}{Chiii-ka Chiiik-aaaah}
 {529}{}{Tengo algunas preguntas…}
 {530}{}{No importa. Lamento molestarte.}
@@ -109,8 +109,8 @@
 {548}{}{Gracias por el cumplido. Sólo pasaba por aquí; tengo que irme.}
 {549}{}{Sí, no necesito que me digas eso. Tan sólo cuídate.}
 {560}{}{¡Heeeey! ¿Cómo estas, }
-{562}{}{¿Estás satisfecho, o tengo que llamar a una de las putas para que te relajes? ¡Ja!}
-{563}{}{¿Estás satisfecho, o tengo que llamar a una de las camareras para que te relajes? ¡Ja!}
+{562}{}{¿Estás satisfecha, o tengo que llamar a una de las putas para que te relajes? ¡Ja!}
+{563}{}{¿Estás satisfecha, o tengo que llamar a una de las camareras para que te relajes? ¡Ja!}
 {567}{}{No, estoy muy bien. Oye, tenía unas preguntas para ti, Jesús…}
 {568}{}{No, estoy bien, gracias. Te veo más tarde.}
 {582}{}{¿Eh? ¿Quieres negociar, esclavista? ¿Tienes algo de material que quieras descargar?}
@@ -333,7 +333,7 @@
 {5276}{}{? acaba de besarme el culo. Y ahora es mejor que tú también desaparezcas.}
 {5280}{}{, será mejor que te vayas.}
 {5320}{}{? Con ese gancho de derecha que tienes, deberías andar erguido.}
-{5340}{}{? Eres despiadado. Sabes MOVERTE, hombre.}
+{5340}{}{? Eres despiadada. Sabes MOVERTE, muchacha.}
 {5343}{}{.}
 {5344}{}{. Las demás Familias te ven llegar y se meten bajo tierra en cuestión de segundos.}
 {5346}{}{. Te estabas *cargando* a ese tipo.}

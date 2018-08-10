@@ -10,11 +10,11 @@
 {109}{}{Tengo tanta hambre.}
 {110}{}{¿Ahora cómo alimentaré a mi familia?}
 {111}{}{Naciste con un corazón doce tallas más pequeño de lo normal.}
-{112}{}{No, amigo, ¡una momia! Directamente venida de las arenas del antiguo Egipto a las arenas del Yermo. ¡Exclusivamente para que la contempléis!}
+{112}{}{No, amiga, ¡una momia! Directamente venida de las arenas del antiguo Egipto a las arenas del Yermo. ¡Exclusivamente para que la contempléis!}
 {113}{}{Vale, te seguiré el juego. ¿Cuánto por ver al cadáver arrugado?}
 {114}{}{(para ti mismo) Hmm, la palabra momia describiría bastante bien el aspecto de un necrófago. De acuerdo, me gustaría echarle un vistazo: ¿cuánto?}
 {115}{}{Ya he visto suficientes cadáveres. Adiós.}
-{116}{}{¡Hola, bienvenido, saludos! Soy el Gran Ananías (con un movimiento, te realiza una ligera reverencia). Traigo conmigo los misterios cercanos y de tierras lejanas. Misterios de un mundo más allá del nuestro... los del Inframundo.}
+{116}{}{¡Hola, bienvenida, saludos! Soy el Gran Ananías (con un movimiento, te realiza una ligera reverencia). Traigo conmigo los misterios cercanos y de tierras lejanas. Misterios de un mundo más allá del nuestro... los del Inframundo.}
 {117}{}{Vuelves con el Gran Ananías para aprender sobre los misterios del Inframundo, ¿no es así?}
 {118}{}{¿Qué clase de misterios?}
 {119}{}{Eh, encantado de conocerte, Señor Gran Ano... algo.}

@@ -7,7 +7,7 @@
 {210}{}{Perdón, Becky no quiere que molestemos a los clientes.}
 {211}{}{Espero que lo esté pasando bien.}
 {212}{}{Respire tranquilo, tenemos una política de tolerancia cero con los ladrones.}
-{213}{}{No se preocupe, aquí está usted seguro.}
+{213}{}{No se preocupe, aquí está usted segura.}
 {214}{}{Rebecca tiene las mejores bebidas.}
 {215}{}{Rebecca es la mejor jefa que he tenido jamás.}
 {216}{}{¿Se siente con suerte? El Blackjack es mi juego favorito.}

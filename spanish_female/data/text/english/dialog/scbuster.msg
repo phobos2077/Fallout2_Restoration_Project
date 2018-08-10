@@ -10,15 +10,15 @@
 {109}{}{Tengo algunas preguntas.}
 {110}{}{Adiós.}
 {111}{}{¡Buena elección!}
-{112}{}{Bien, has conseguido una auténtica ganga, amigo.}
-{113}{}{No quiero a meterte prisa, forastero, pero tengo trabajo que hacer.}
-{114}{}{Desde luego, forastero, ¿qué quieres saber?}
+{112}{}{Bien, has conseguido una auténtica ganga, amiga.}
+{113}{}{No quiero a meterte prisa, forastera, pero tengo trabajo que hacer.}
+{114}{}{Desde luego, forastera, ¿qué quieres saber?}
 {115}{}{Háblame de la RNC.}
 {116}{}{¿Qué tratos tienes con Merk?}
 {117}{}{¿Qué puedes decirme de Roger Westin?}
 {118}{}{Estoy intentando reunirme con el viejo Carlson. ¿Sabes de alguien que pueda ayudarme?}
 {119}{}{¿Tienes un GECK?}
-{120}{}{Esto está bien, forastero, pero no me dedico a la caridad.}
+{120}{}{Esto está bien, forastera, pero no me dedico a la caridad.}
 {121}{}{Tal vez. Podría ser una mira telescópica Triveld x10... que encajaría bastante bien en un rifle de caza, si alguien quisiera hacerlo. Dejémoslo barato: 500 dólares.}
 {122}{}{Oye, ya me has limpiado.}
 {123}{}{Claro, trato hecho.}
@@ -46,5 +46,5 @@
 {145}{}{Vuelve cuando esté abierto: y cierra la puerta tras de ti.}
 {146}{}{Está cerrado.}
 {147}{}{¡Mira, tan solo lárgate o Mr. 45 se va a poner nervioso!}
-{148}{}{Movimiento equivocado, forastero.}
+{148}{}{Movimiento equivocado, forastera.}
 {149}{}{Esto es lo que tengo en esta estantería. Si necesitas algo más asegúrate de mirar también las otras.}

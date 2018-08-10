@@ -9,22 +9,22 @@
 {108}{powr2}{¿Qué ha pasado?}
 {109}{}{Todos bien. Todos muy bien aquí ahora, gracias. ¿Vosotros bien?}
 {110}{}{Aquí uni-, sss, pu-, -charme. Corto.}
-{111}{}{Soy el Elegido, así que vigila tu lengua.}
+{111}{}{Soy la Elegida, así que vigila tu lengua.}
 {112}{}{Aquí la unidad tres informando.}
 {113}{powr3_c}{Bueno, tu unidad no parece estar operativa, colega. ¿Quién eres?}
 {114}{powr3a}{Me importa una mierda. Sigo sin entender nada. ¿Quién eres tú?}
 {115}{}{Repita por favor. Corto.}
 {116}{}{Podría decírtelo pero después tendría que matarte.}
-{117}{}{Soy el Elegido.}
+{117}{}{Soy la Elegida.}
 {118}{}{Bueno, eso no es raro, ¿verdad? Ya nada funciona como es debido.}
 {119}{}{Eso es lo que yo sé y tú debes averiguar. Adiós.}
 {120}{powr3b_b}{¿De qué estás hablando? ¿Q-quién eres?}
 {121}{}{Podría decírtelo pero después tendría que matarte.}
-{122}{}{Soy el Elegido.}
+{122}{}{Soy la Elegida.}
 {123}{}{Bueno, eso no es raro, ¿verdad? Ya nada funciona como es debido.}
 {124}{}{Eso es lo que yo sé y tú debes averiguar. Adiós.}
 {125}{powr4a_a}{¡El Presidente! Yo, eh...}
-{126}{powr4b_b}{¿Sí? Un listillo, ¿eh? Ahora mismo te estamos localizando, colega. Veremos si te haces el listillo cuando los de Seguridad te estén friendo el culo. ¡Capullo!}
+{126}{powr4b_b}{¿Sí? Una listilla, ¿eh? Ahora mismo te estamos localizando, colega. Veremos si te haces la listilla cuando los de Seguridad te estén friendo el culo. ¡Capullo!}
 {127}{powr4c_a}{Basta de gilipolleces. ¿Te apetece jugar a esquiva-rayos-de-plasma con la brigada de asalto? ¿Eh?}
 {128}{}{Oye, lo siento, no pretendía molestar.}
 {129}{}{Te puedo decir con exactitud anatómica dónde te puedes meter tu localización.}
@@ -35,10 +35,10 @@
 {134}{}{Veamos… eso debería valer. ¿Mejor ahora?}
 {135}{}{¿Ganancia? ¿Qué ganancia se supone que voy a obtener? Ya estoy bastante ocupado, no creo que pueda ganar nada.}
 {136}{}{Será mejor que lo intente más tarde. Adiós.}
-{137}{powr6_a}{Elegido, ¿eh? Bien, disculpa si no me desmayo por la impresión, pero estoy demasiado ocupado para esto, su Alteza.}
+{137}{powr6_a}{Elegida, ¿eh? Bien, disculpa si no me desmayo por la impresión, pero estoy demasiado ocupado para esto, su Alteza.}
 {138}{}{Arrodíllate ante mí y puede que te perdone la vida. Caramba, me gusta cómo suena eso.}
 {139}{}{Ya no insisto más en una genuflexión. Una ligera reverencia para besar mi anillo debería ser suficiente.}
-{140}{}{Eh, me refiero a que me han "elegido" para reparar el comunicador. Parece que ya nada funciona como es debido.}
+{140}{}{Eh, me refiero a que he sido "elegida" para reparar el comunicador. Parece que ya nada funciona como es debido.}
 {141}{}{Bueno, creo que ya he tenido bastante de tu insolencia. Adiós, campesino.}
 {142}{powr7_a}{¿Unidad tres? ¿No estábais en la base Navarro?}
 {143}{}{¿Base Navarro? Oh, sí, la base Navarro. Ahí es donde estamos. Claro. Esa me la sabía.}
@@ -59,14 +59,14 @@
 {158}{}{¿Así que no estás en Nuevo Reno?}
 {159}{}{Bien, será mejor que vuelva al trabajo. Hay que arreglar este enlace. Adiós.}
 {160}{powr12}{El presidente de los Jodidos Estados Unidos de América. ¿De quién creías que estaba hablando? Quién coj... quién er... qué... voy a patearte tu puñetero culo, ¿quién eres?}
-{161}{}{Soy el Elegido. Bésame los pies.}
-{162}{}{Soy el Elegido.}
+{161}{}{Soy la Elegida. Bésame los pies.}
+{162}{}{Soy la Elegida.}
 {163}{}{Soy el Presidente. Y tú estás metido en un buen lío.}
 {164}{}{No eres lo bastante importante como para recibir esa información.}
 {165}{}{Eh, será mejor que me vaya. Aquí hay montones de trabajo. Adiós.}
 {166}{powr13}{Centro de comunicación principal del Enclave... pero eso es algo que ya deberías saber. ¿Quién eres tú?}
 {167}{}{Oh, sólo soy… oye, ¿alguna vez has notado que el gecko cocinado sabe igual que el culo de un brahmin?}
-{168}{}{Soy el Elegido y aprenderás a recordarlo.}
+{168}{}{Soy la Elegida y aprenderás a recordarlo.}
 {169}{}{Nadie importante. Adiós.}
 {170}{powr14}{Ah, en un momento tendrás tu lastimoso trasero en un cabestrillo. Oye, espera un momento. Esto no puede estar bien... te detecto en algún lugar de tierra firme.}
 {171}{}{Correcto, soplapollas. Justo donde no puedes pillarme.}
@@ -74,7 +74,7 @@
 {173}{}{Sí, estoy en la central nuclear número 12 de Poseidon. Ven a por mí.}
 {174}{powr15}{Te tengo, en el reactor número 5 de Poseidon. Ah, bien, ¿por qué no esperas sentado mientras hago unos preparativos para ti? Incluyendo fuegos artificiales.}
 {175}{}{Oh, maravilloso. Me encaaaantan los fuegos artificiales. Que sean unos cuantos.}
-{176}{}{Soy el Elegido. Es mejor que lo digas con una sonrisa.}
+{176}{}{Soy la Elegida. Es mejor que lo digas con una sonrisa.}
 {177}{}{No soy nadie importante. Ahora tengo que irme. Adiós.}
 {178}{powr16_a}{Sí, bueno, quienquiera que seas, acabo de enviar un equipo de asalto vertical a tu posición. Que tengas un buen día.}
 {179}{}{Caray, si la señal de vídeo funcionase podrías ver cómo tiemblo.}

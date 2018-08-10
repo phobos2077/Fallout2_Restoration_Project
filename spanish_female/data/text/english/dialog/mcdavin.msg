@@ -34,7 +34,7 @@
 {194}{}{[Risilla] ¡Me pido furgón de cola! La próxima vez puedes serlo tú.}
 {195}{}{[Dos horas después: La tierra ha temblado y esta cama nunca volverá a ser la misma].}
 {196}{}{[Una hora después, y tras el mejor orgasmo que hayas tenido nunca...]}
-{197}{}{[Media hora después, yaces exhausto...]}
+{197}{}{[Media hora después, yaces exhausta...]}
 {198}{}{[Quince minutos después, tras un par de jadeos...]}
 {199}{}{[Has conseguido llegar a quitarte la camiseta antes de que desaparecieran las ganas].}
 {200}{}{Tengo que irme. Adiós.}
@@ -47,7 +47,7 @@
 {412}{}{Yo... eh... yo…}
 {413}{}{Um… Sí quiero.}
 {450}{}{Uhhh, no es conmigo con quien deberías hablar.}
-{500}{}{Oh chico, voy a ser el jefe de todo esto.}
+{500}{}{Oh chica, voy a ser el jefe de todo esto.}
 {1000}{}{Sí, cariñito.}
 {1001}{}{¿Qué puedo hacer por ti, amorcito?}
 {1005}{}{No lo entiendes. No quiero tenerte pegado a mí cuando estamos andando por ahí.}

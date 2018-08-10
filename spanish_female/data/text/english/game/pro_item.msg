@@ -60,7 +60,7 @@
 {3001}{}{Munición calibre: 10mm, perforante.}
 {3100}{}{.44 mágnum BHC}
 {3101}{}{Munición calibre .44 mágnum, de punta hueca.}
-{3200}{}{Comb. Lanzallamas}
+{3200}{}{Combustible de lanzallamas}
 {3201}{}{Un cilindro que contiene un líquido combustible extremadamente inflamable para lanzallamas.}
 {3300}{}{14mm PB}
 {3301}{}{Munición de gran calibre. 14mm perforante.}
@@ -433,7 +433,7 @@
 {22200}{}{Interruptor}
 {22201}{}{Un dispositivo electrónico de transmisión, con un simple y gran interruptor. Parece que se creó recientemente y se diseñó para manos muy grandes.}
 {22300}{}{Pase amarillo}
-{22301}{}{Una tarjeta electrónica de seguridad, codificada en color amarillo.}
+{22301}{}{Una tarjeta electrónica de seguridad, de color amarillo.}
 {22400}{}{Figurilla}
 {22401}{}{Crees que pueda ser una escultura de "Pip Boy", pero no puedes asegurarlo.}
 {22500}{}{Revista 'La Garra de la Gata'}
@@ -441,7 +441,7 @@
 {22600}{}{Caja de fideos}
 {22601}{}{No tienes ni idea de lo que significa "Espaguettis instantáneos".}
 {22700}{}{Pequeña caja polvorienta de algo}
-{22701}{}{No estás seguro, pero seguramente no es comestible. No estás totalmente seguro de si alguna vez lo fue.}
+{22701}{}{No estás segura, pero seguramente no es comestible. No estás totalmente segura de si alguna vez lo fue.}
 {22800}{}{Manual técnico}
 {22801}{}{Un manual de reparaciones técnicas de la servoarmadura T-51b.}
 {22900}{}{Pequeña pieza de maquinaria}
@@ -593,11 +593,11 @@
 {30200}{}{Holodisco de Gecko}
 {30201}{}{En la etiqueta de este holodisco pone: "Datos económicos de Gecko". Es difícil interpretar la mayoría de las gráficas técnicas, las tablas, y las fórmulas que contiene, pero la mayor parte de la información parece destacar las ventajas de una alianza Ciudad Refugio-Gecko.}
 {30300}{}{Holodisco del reactor}
-{30301}{}{En la etiqueta de este holodisco pone: "Datos de rendimiento del reactor de Gecko". Este disco contiene una serie de números que no significan nada para ti. De todas formas, estás seguro de que mucha de la información que contiene es importante para alguien.}
+{30301}{}{En la etiqueta de este holodisco pone: "Datos de rendimiento del reactor de Gecko". Este disco contiene una serie de números que no significan nada para ti. De todas formas, estás segura de que mucha de la información que contiene es importante para alguien.}
 {30400}{}{Baraja de cartas "Tragic"}
 {30401}{}{Una baraja de un juego de cartas coleccionables. Parece que podría ser un pasatiempo caro si te enganchases a él.}
 {30500}{}{Pase amarillo del reactor}
-{30501}{}{Una tarjeta electrónica de seguridad, codificada en color amarillo.}
+{30501}{}{Una tarjeta electrónica de seguridad, de color amarillo.}
 {30600}{}{Pase rojo del reactor}
 {30601}{}{Una tarjeta de seguridad, codificada en color rojo.}
 {30700}{}{Transformador de plasma}

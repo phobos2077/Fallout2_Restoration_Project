@@ -63,7 +63,7 @@
 {151}{}{Me quedaré el dinero.}
 {152}{}{No te preocupes por el dinero. Te ayudaré de todos modos.}
 {153}{}{No importa... no puedo ayudarte. Adiós.}
-{154}{}{Bien, te lo agradecemos mucho, forastero.}
+{154}{}{Bien, te lo agradecemos mucho, forastera.}
 {155}{}{¿Sabes dónde puedo encontrar un arado?}
 {156}{}{Hay uno junto a la tienda de armas y municiones. Harry quizá te lo vendería.}
 {157}{}{Está bien, iré a echar un vistazo.}
@@ -76,5 +76,5 @@
  abandonar este mundo. Con la protección de los guardias, no lo necesitamos... pero tú podrías
  llegar a darle uso.}
 {164}{}{Muchísimas gracias. Estoy seguro de que esto será muy útil. Ten cuidado.}
-{165}{}{Gracias por la ayuda, forastero. Te lo agradezco mucho.}
+{165}{}{Gracias por la ayuda, forastera. Te lo agradezco mucho.}
 {166}{}{Has encontrado un arado para el señor Smith y su familia.}

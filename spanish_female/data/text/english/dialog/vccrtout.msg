@@ -12,7 +12,7 @@
 {111}{}{El dinero se está acabando…}
 {112}{}{Intenta salir de aquí, ¿me oyes?}
 {113}{}{Sal de mi vista.}
-{114}{}{Eres tan malo como ellos.}
+{114}{}{Eres tan mala como ellos.}
 {115}{}{Da media vuelta.}
 {116}{}{Muévete.}
 {117}{}{Apártate.}

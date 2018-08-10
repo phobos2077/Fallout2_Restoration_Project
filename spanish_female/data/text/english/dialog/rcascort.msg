@@ -1,8 +1,8 @@
 {100}{}{Ves a un hombre bajito de pelo azabache y una bonita sonrisa.}
 {101}{}{Ves a Ascorti, el alcalde de Redding.}
 {102}{}{Ves a un hombre bien vestido con una mirada aduladora.}
-{103}{}{No te pares, amigo.}
-{104}{}{Si estás aquí para probar tu suerte, sé bienvenido.}
+{103}{}{No te pares, amiga.}
+{104}{}{Si estás aquí para probar tu suerte, sé bienvenida.}
 {105}{}{Juega o lárgate.}
 {106}{}{Mejor que no montes follón en mi local.}
 {107}{}{Deberías probar las mesas, tribal.}
@@ -112,7 +112,7 @@
 {189}{}{Creo que deberías regresar a la Mina Wanamingo y matar a Rana y su banda. Cuando lo hagas,
  puedes volver y estaré encantado de comprarte la mina.}
 {190}{}{Nada en la vida es fácil, ¿eh? De acuerdo, alcalde. Te veré después. Tengo negocios que atender.}
-{191}{}{¿Ya estás preparado para volver a venderme la escritura de la Mina Wanamingo?}
+{191}{}{¿Ya estás preparada para volver a venderme la escritura de la Mina Wanamingo?}
 {192}{}{Desde luego, alcalde. ¿En cuánto quedamos?}
 {193}{}{Todavía no, alcalde. Adiós.}
 {194}{}{He oído que has decidido ayudar a la sheriff. Bien. No puedo permitirme el lujo de dejar que esa indigente de
@@ -134,7 +134,7 @@
 {208}{}{Supongo que algunas personas simplemente son más generosas que otras. Adiós, alcalde.}
 {209}{}{Gracias por vaciar mi propiedad, sheriff. Ahora podré alquilarla a alguien que realmente pueda pagar
  por ella.}
-{210}{}{No me siento orgulloso de lo que he hecho.}
+{210}{}{No me siento orgullosa de lo que he hecho.}
 {211}{}{Eso tiene sentido. }
 {212}{}{¿Por qué no? Deberías. Echando a la viuda Rooney, me has permitido que siga pagando a todos
  mis empleados. Si no les pagara, entonces sus familias pasarían hambre. Eso no estaría bien, ¿verdad?}
@@ -171,7 +171,7 @@ en un hábito. No es bueno para el negocio.}
  de una puta vez.}
 {237}{}{Estás hablando *conmigo*?}
 {238}{}{De acuerdo, de acuerdo, ya me voy.}
-{239}{}{¿Qué? ¿Eres sordo o simplemente tonto? *Estoy* hablando *contigo*. Bien, ahora ¡largo!}
+{239}{}{¿Qué? ¿Eres sorda o simplemente tonta? *Estoy* hablando *contigo*. Bien, ahora ¡largo!}
 {240}{}{Bien, debes de estar hablándome a mí porque no veo a nadie más por aquí.}
 {241}{}{Bueno. Ya me voy. Que no te vaya a dar un síncope. Adiós.}
 {242}{}{¿Es que todos en tu tribu son tan tontos como tú? Ya está. ¿Quieres bailar? Pues bailemos. ¡Guardias!}

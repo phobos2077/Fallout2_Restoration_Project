@@ -26,7 +26,7 @@
 {181}{}{¿Eh? Mira, no suelo hablar de mis asuntos personales con extraños. ¿Has venido a hacer negocios conmigo o no?}
 {182}{}{Perdóname, me llamo }
 {183}{}{. Ahora que nos hemos presentado apropiadamente, parece que tienes problemas.}
-{184}{}{Sí, estoy interesado en comprar algunos artículos de cuero.}
+{184}{}{Sí, estoy interesada en comprar algunos artículos de cuero.}
 {186}{}{Supongo que no.}
 {187}{}{¿Has dicho }
 {188}{}{? Sí, creo que he oído hablar de ti. Uno de los guardias de una caravana que pasaba mencionó algunas buenas cosas sobre una persona que respondía a tu nombre. Sé que acabamos de conocernos, pero me vendría muy bien tu ayuda.}
@@ -38,8 +38,8 @@
 {194}{}{¡Es horrible! Pero tan sólo he parado para buscar algunos artículos de cuero. ¿Podría echarle un vistazo a tu mercancía?}
 {195}{}{¡Oooh! Mira qué tarde es. Tengo que irme.}
 {196}{}{¿Eso quiere decir que me ayudarás? ¡Gracias! Vieron a Jonny por última vez jugando a indios y vaqueros con su perro Laddie. Los dos son inseparables. De hecho, es así como supimos que algo malo ocurría. Un día, Laddie volvió sin Jonny. Le hemos estado buscando desde entonces. Llévate a Laddie contigo; quizá los dos seáis capaces de encontrarle.}
-{197}{}{Bueno, tienes el aspecto de un viajero experimentado. Con tu habilidad, quizás seas capaz de hallar la pista de mi hijo.}
-{198}{}{¡Oh, sí! Soy un rastreador bastante habilidoso, a mi modesto entender. De acuerdo, te ayudaré.}
+{197}{}{Bueno, tienes el aspecto de una viajera experimentada. Con tu habilidad, quizás seas capaz de hallar la pista de mi hijo.}
+{198}{}{¡Oh, sí! Soy una rastreadora bastante habilidosa, a mi modesto entender. De acuerdo, te ayudaré.}
 {199}{}{Los halagos no te llevarán a ninguna parte. Mira, necesito hacerte algunas preguntas.}
 {200}{}{¡Mis oraciones han sido escuchadas! Llévate a Laddie contigo; quizás pueda serte de ayuda. ¡Por favor, apresúrate!}
 {201}{}{Vaya, quizá tengas razón. Gracias por escucharme.}
@@ -53,7 +53,7 @@
 {211}{}{Lo siento, nunca lo he oído.}
 {214}{}{Je, je, je. El viejo Cornelius te ha pedido que busques su reloj de bolsillo, ¿eh? No, no lo encontrarás aquí. Ese viejo chocho probablemente se lo dejó en algún lado y se le olvidó.}
 {215}{}{Gracias de todos modos. Seguiré buscando. Adiós.}
-{216}{}{[Te mira detenidamente y entonces sonríe]. ¿Por qué no eres un buen chico y sales a jugar afuera?}
+{216}{}{[Te mira detenidamente y entonces sonríe]. ¿Por qué no eres una buena chica y sales a jugar afuera?}
 {217}{}{[Te mira detenidamente y entonces sonríe]. ¿Por qué no eres una buena chica y sales a jugar afuera?}
 {218}{}{Por favor, sigue buscando. Sé que está vivo. ¡Puedo sentirlo!}
 {219}{}{Ese es el rifle de aire comprimido de Jonny. ¡Noooooooooooooooooooo! [Balthas se derrumba y comienza a llorar desconsoladamente].}

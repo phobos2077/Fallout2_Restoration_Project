@@ -30,7 +30,7 @@
 {129}{}{Mi suerte está a punto de cambiar; puedo sentirlo.}
 {130}{}{¿Donde está mi patita de gecko de la suerte cuando la necesito?}
 {131}{}{¿Qué quieres?}
-{132}{}{Déjame en paz, capullo.}
+{132}{}{Déjame en paz, zorra.}
 {133}{}{Oye, no me gafes.}
 {134}{}{¿Me has echado un mal de ojo?}
 {135}{}{Oye, das buena suerte.}

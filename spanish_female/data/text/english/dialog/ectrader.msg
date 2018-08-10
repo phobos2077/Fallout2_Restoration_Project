@@ -4,7 +4,7 @@
 {103}{}{Saludos amigo, mi nombre es Willy y tengo un trato para ti. [Parece estar leyendo una carta, y después de un rato te quedas traspuesto].}
 {104}{}{Zzzzzzz...}
 {105}{}{[Abres los ojos lentamente cuando por fin te das cuenta de que alguien te está dando patadas]. Bien, ¿estás interesado o no?}
-{106}{}{¿Interesado en qué?}
+{106}{}{¿Interesada en qué?}
 {107}{}{¿Erg?}
 {108}{}{Porque mira, corta, trocea y también es útil contra bichos fastidiosos. Una ganga a cualquier precio, pero por ser tú te haré una oferta especial y te lo dejo por sólo }
 {109}{}{Porque está hecho de la mejor madera. Úsalo para pinchar a los bichos y mantenerlos alejados o, si tienes la suficiente puntería, para lanzarlo. Es muy aerodinámico y no se romperá al impactar. ¿Qué dices? Es casi un robo al precio de }

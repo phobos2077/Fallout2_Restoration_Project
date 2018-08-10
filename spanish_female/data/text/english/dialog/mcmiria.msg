@@ -1,11 +1,11 @@
 {100}{}{¡Oh, Dios! Una maciza muy atractiva.}
 {101}{}{Ves a Miria.}
-{102}{}{No estas seguro del porqué, pero las medidas 90-60-90 te vienen a la mente.}
-{150}{}{¡Cabrón!}
+{102}{}{No estas segura del porqué, pero las medidas 90-60-90 te vienen a la mente.}
+{150}{}{¡Puta!}
 {151}{}{¡Cómo te atreves a volver por aquí!}
 {152}{}{¡Que asco!}
 {153}{}{Espero que los dos seáis felices juntos.}
-{154}{}{Hola, forastero. Soy Miria.}
+{154}{}{Hola, forastera. Soy Miria.}
 {155}{}{Me alegra que hayas vuelto. ¿Qué puedo HACER por ti?}
 {156}{}{¿Qué estás haciendo por aquí?}
 {157}{}{¿Qué puedes contarme sobre el matadero?}
@@ -44,7 +44,7 @@
 {204}{}{Olvídalo, lo siento. No quería insinuar nada.}
 {205}{}{¡Como te atreves a llamarme zorra! ¡Déjame decirte que soy muy quisquillosa con la gente con la que me voy a la cama! ¡Y este mes sólo han sido 10 ó 20! ¡Esta conversación ha terminado!}
 {206}{}{Qué decepción. Eres igual que todos los demás, ¿no?}
-{208}{}{No. No lo creo. Estoy cansado de esta conversación. Adiós.}
+{208}{}{No. No lo creo. Estoy cansada de esta conversación. Adiós.}
 {209}{}{[Se sonroja] Para, vas a hacer que me ponga colorada. Eres una ricura. ¿Por qué no te acercas y te sientas aquí conmigo?}
 {210}{}{Creo que esto ha ido demasiado lejos. ¿No podemos simplemente hablar?}
 {211}{}{Pensé que nunca lo ibas a decir. ¿Por qué no nos ponemos un poco más cómodos?}
@@ -55,7 +55,7 @@
 {216}{}{Mejor que eso no signifique lo que estoy pensando.}
 {217}{}{¡Aoooga!}
 {218}{}{¿Urg?}
-{219}{}{¡Ajá! Lo que pensaba. Es gracioso como los neanderthales y la gente civilizada pueden llegar a coincidir en este tema. [Ni siquiera lo ves venir, pero estás seguro de que la marca del bofetón en tu cara desaparecerá algún día].}
+{219}{}{¡Ajá! Lo que pensaba. Es gracioso como los neanderthales y la gente civilizada pueden llegar a coincidir en este tema. [Ni siquiera lo ves venir, pero estás segura de que la marca del bofetón en tu cara desaparecerá algún día].}
 {250}{}{¡Socorro, papá! ¡Apártalo de mí!}
 {251}{}{¡Vete!}
 {260}{}{¡Socorro, papá! ¡Apártala de mí!}
@@ -72,7 +72,7 @@
 {450}{}{Uhhh, es con papi con quien deberías hablar.}
 {470}{}{Uhhh, es con tío Biff con quien deberías hablar.}
 {500}{}{Genial, creo que ahora tendré que ser yo la que lleve este basurero.}
-{1000}{}{¿Qué hacemos ahora, querido?}
+{1000}{}{¿Qué hacemos ahora, querida?}
 {1001}{}{¿Qué hacemos ahora, cariño?}
 {1002}{}{¿Qué hacemos ahora, tesoro?}
 {1003}{}{¿Qué hacemos ahora, amorcito?}

@@ -10,13 +10,13 @@
 {109}{}{¡Aléjate, infiel!}
 {110}{}{No me hables: soy una persona ocupada.}
 {111}{}{¡Oye! ¡Estás socavando mis neurodinas!}
-{112}{}{Quizá me gustarías más si estuvieras alineado.}
+{112}{}{Quizá me gustarías más si estuvieras alineada.}
 {113}{}{El Padre Estelar te amará si se lo permites.}
 {114}{}{¿No quieres ver Quetzel? ¡Únete a nosotros!}
 {115}{}{¡Ve a hablar con AHS-7 y únete!}
 {116}{}{Tenemos celebridades que son Hubologistas, ¿sabes?}
 {117}{}{¡Juan Cruz y Vikki Goldman son famosos! Por eso me uní.}
-{118}{}{Apuesto a que las celebridades hablarán contigo si eres agradable y buen tipo.}
+{118}{}{Apuesto a que las celebridades hablarán contigo si eres agradable y buena chica.}
 {119}{}{Amo a Hub.}
 {120}{}{Me gusta ser un Hubologista.}
 {121}{}{Quiero accionar mi potencialidad.}
@@ -27,17 +27,17 @@
 {126}{}{Estoy deseando ir al hogar de las estrellas.}
 {127}{}{Por favor, no me molestes; estoy concentrando mis neurodinas.}
 {128}{}{Por favor, no desalinees mis neurodinas.}
-{138}{}{¡Oh, no! ¡El perseguidor!}
-{139}{}{¡El primer no-iluminado!}
+{138}{}{¡Oh, no! ¡La perseguidora!}
+{139}{}{¡La primera no-iluminada!}
 {140}{}{¡Aléjate de mí, malvado trozo de carne!}
 {141}{}{¡Obviamente tienes algunas malas neurodinas!}
 {142}{}{¡No! ¡No me contamines con tu odio!}
-{143}{}{¡Guardias! ¡Guardias! ¡El bárbaro está aquí!}
+{143}{}{¡Guardias! ¡Guardias! ¡La bárbara está aquí!}
 {144}{}{¡No me toques!}
 {145}{}{¡Ayuda! ¡Guardias!}
 {146}{}{¡El enemigo de nuestra gente!}
 {147}{}{¡La oscuridad vuelve a cernirse sobre nosotros!}
-{148}{}{¡Padre Estelar! ¡Líbrame del pagano!}
+{148}{}{¡Padre Estelar! ¡Líbrame de la pagana!}
 {149}{}{¡Alguien te castigará por tu perfidia!}
 {150}{}{Amo a Hub.}
 {151}{}{Me gusta ser un Hubologista.}

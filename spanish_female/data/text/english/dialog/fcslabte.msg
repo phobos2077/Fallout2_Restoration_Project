@@ -1,7 +1,7 @@
 {100}{}{Ves a un Shi con ropa blanca.}
 {101}{}{Ves a un técnico de laboratorio Shi.}
 {102}{}{Ves a un Shi con ropa blanca en un laboratorio científico.}
-{103}{}{Amigo... Wong es un negrero, vaya que sí.}
+{103}{}{Amiga... Wong es un negrero, vaya que sí.}
 {104}{}{Trabajo, trabajo, trabajo. Eso es para lo único que valemos.}
 {105}{}{¡Cambiaremos el Yermo con este experimento!}
 {106}{}{¡Cuidado, Yermo! ¡Tenemos algo para ti!}

@@ -3,7 +3,7 @@
 {102}{}{Ves a la ATS Phyllis.}
 {103}{}{Ves a una joven delgada. Huele débilmente a antiséptico.}
 {104}{}{Arriesgaste tu propia vida para salvarnos a TODOS. Eres la persona más valiente que he conocido jamás.}
-{105}{}{¡Un intruso! ¡Aaaaah! ¡Guardias!}
+{105}{}{¡Una intrusa! ¡Aaaaah! ¡Guardias!}
 {106}{}{¡Un mutante! ¡Aaaaah! ¡Guardias!}
 {107}{}{¡Un necrófago! ¡Aaaaah! ¡Guardias!}
 {108}{}{Necesito imprimir los mapas de Gregory...}
@@ -21,20 +21,20 @@
 {120}{}{¿Por qué exiliaron al doctor Troy?}
 {121}{}{Espero que el doctor Troy esté bien en el mundo exterior...}
 {122}{}{Hmmph. Estoy demasiado ocupada para hablar contigo ahora mismo. Si necesitas algo, habla con el doctor Troy.}
-{123}{}{¡Oh! Hola. No te he visto nunca por aquí... ¿eres un nuevo Ciudadano?}
+{123}{}{¡Oh! Hola. No te he visto nunca por aquí... ¿eres una nueva Ciudadana?}
 {124}{}{¡Oh! Hola de nuevo.}
-{125}{}{¿Ci-Ciu-dano?}
-{126}{}{¿N-nuevo?}
+{125}{}{¿Ci-Ciu-dana?}
+{126}{}{¿N-nueva?}
 {127}{}{Tengo pupita... *llorando*... pupita DUELE}
-{128}{}{En realidad, soy el nuevo capitán de la Guardia.}
+{128}{}{En realidad, soy la nueva capitán de la Guardia.}
 {129}{}{Sí, he conseguido recientemente mi Ciudadanía.}
 {130}{}{Eh, sí, he conseguido recientemente mi Ciudadanía.}
 {131}{}{Perdona, pensaba que eras otra persona. Buenos días.}
-{132}{}{Dios, estás herido, ¿verdad? Lo siento, debería haber prestado más atención. Ve a ver al doctor Troy. Él se ocupará de ti.}
+{132}{}{Dios, estás herida, ¿verdad? Lo siento, debería haber prestado más atención. Ve a ver al doctor Troy. Él se ocupará de ti.}
 {133}{}{¿De... cuerdo? Sí, sí sí.}
 {134}{}{¿Podría hacerte algunas preguntas antes?}
 {135}{}{Gracias. Iré a verlo ahora.}
-{136}{}{¡Oh! Debes ser uno de los siervos asignados aquí hoy. Deberías... uh, hmmm. TÚ - VE CON - MARTIN.}
+{136}{}{¡Oh! Debes ser una de los siervos asignados aquí hoy. Deberías... uh, hmmm. TÚ - VE CON - MARTIN.}
 {137}{}{Uh... hmmm. Escúchame otra vez, atentamente ahora: VE CON - MARTIN.}
 {138}{}{BECON MARTIN.}
 {139}{}{Tengo pupita... *llorando*... pupita DUELE}
@@ -48,8 +48,8 @@
 {147}{}{Tengo pupita... *llorando*... pupita DUELE}
 {148}{}{Dejas de balbucear}
 {149}{}{Quizá nuestros siervos tienen alguna clase de síndrome de déficit de inteligencia...}
-{150}{}{¡Oh! De acuerdo, bienvenido a Ciudad Refugio, capitán.}
-{151}{}{Vale, bienvenido a Ciudad Refugio, apreciado Ciudadano.}
+{150}{}{¡Oh! De acuerdo, bienvenida a Ciudad Refugio, capitán.}
+{151}{}{Vale, bienvenida a Ciudad Refugio, apreciada Ciudadana.}
 {152}{}{No vemos muchas caras nuevas por aquí. Soy Phyllis. ¿Cual es tu nombre?}
 {153}{}{Mi nombre es }
 {154}{}{Soy }
@@ -65,10 +65,10 @@
 {164}{}{¿Puedo hacerte unas preguntas?}
 {165}{}{Fantástico. Podría necesitar atención médica.}
 {166}{}{Lo siento, no tengo tiempo para hablar contigo ahora mismo.}
-{167}{}{Bienvenido de nuevo. ¿Hay algo en lo que pueda ayudarte?}
+{167}{}{Bienvenida de nuevo. ¿Hay algo en lo que pueda ayudarte?}
 {168}{}{Por supuesto. ¿Qué te gustaría saber?}
 {169}{}{¿Qué opinas del doctor Troy?}
-{170}{}{¿Puedes decirme dónde está la computadora central del Refugio?}
+{170}{}{¿Puedes decirme dónde está la computadora central?}
 {171}{}{Necesito que me curen.}
 {172}{}{¿Qué haces aquí?}
 {173}{}{¿Puedes hablarme de Ciudad Refugio?}
@@ -79,7 +79,7 @@
 {178}{}{Gracias por tu tiempo. Adiós.}
 {179}{}{}
 {180}{}{}
-{181}{}{¿Estás seguro? Eso no parece propio del doctor Troy. Aunque... ha estado trabajando duro últimamente... no, no, es imposible. Debes estar equivocado.}
+{181}{}{¿Estás segura? Eso no parece propio del doctor Troy. Aunque... ha estado trabajando duro últimamente... no, no, es imposible. Debes estar equivocada.}
 {182}{}{No lo creo. Fue muy claro con lo que pedía.}
 {183}{}{Hmmmm. ¿Puedo hacerte otra pregunta?}
 {184}{}{No importa, entonces.}
@@ -102,7 +102,7 @@
 {201}{}{¿Nada en absoluto? Anda ya.}
 {202}{}{¿Puedo hacerte otra pregunta...}
 {203}{}{Oh, bueno. Sólo quería preguntar.}
-{204}{}{Mira, sé que eres un nuevo Ciudadano y todo eso, y no quiero amargarte tu Ciudadanía, pero esta ciudad puede ser MUY aburrida a veces.}
+{204}{}{Mira, sé que eres una nueva Ciudadana y todo eso, y no quiero amargarte tu Ciudadanía, pero esta ciudad puede ser MUY aburrida a veces.}
 {205}{}{¿Aburrida? ¿Cómo es eso?}
 {206}{}{Qué pena. Tenía más preguntas...}
 {207}{}{Oh, bueno. Lamento oír eso.}

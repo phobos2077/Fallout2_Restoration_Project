@@ -1,23 +1,23 @@
 {100}{}{Ves a un Hubologista encapuchado. De alguna forma, éste parece diferente.}
 {101}{}{Ves a AHS-7, el segundo al mando.}
 {102}{}{Ves a un Hubologista encapuchado.}
-{103}{}{¡Guardias! ¡Un opresor! ¡Derribadlo!}
+{103}{}{¡Guardias! ¡Una opresora! ¡Derribadla!}
 {104}{}{Tú. Di lo que buscas.}
 {105}{}{¡Aaagh! ¡Nu! ¡Nee!}
 {106}{}{Tengo una carta para AHS-9 de la Primera Iluminada de RNC.}
 {107}{}{Estoy aquí para hablar con Crocket sobre una armadura.}
 {108}{}{Me gustaría echar un vistazo.}
-{109}{}{Estoy interesado en unirme, quizá, a vuestro grupo.}
+{109}{}{Estoy interesada en unirme, quizá, a vuestro grupo.}
 {110}{}{¿Quién eres?}
 {111}{}{He venido a mataros a todos.}
-{112}{}{Ah, pobre muchacho. ¿Te gustaría ser alineado?}
+{112}{}{Ah, pobre muchacha. ¿Te gustaría ser alineada?}
 {113}{}{¡S-sí!}
 {114}{}{¡No!}
-{115}{}{Pobre muchacho. Ya alineado, pero aún incapaz de articular palabra. Entra.}
+{115}{}{Pobre muchacha. Ya alineada, pero aún incapaz de articular palabra. Entra.}
 {116}{}{¡G-gracias!}
-{117}{}{Entra y encuentra a Juan y a Vikki. Ellos pueden ayudarte. Buena suerte, hijo.}
+{117}{}{Entra y encuentra a Juan y a Vikki. Ellos pueden ayudarte. Buena suerte, hija.}
 {118}{}{¡G-gracias!}
-{119}{}{::su voz se endurece:: Entonces no veo razón por la que deberías ser admitido aquí. Buenos días.}
+{119}{}{::su voz se endurece:: Entonces no veo razón por la que deberías ser admitida aquí. Buenos días.}
 {120}{}{¡Eh!}
 {121}{}{Muy bien. Pero date prisa: es un hombre muy ocupado.}
 {122}{}{De acuerdo.}
@@ -30,7 +30,7 @@
 {129}{}{Tengo una carta para AHS-9 de la Primera Iluminada de RNC.}
 {130}{}{Estoy aquí para hablar con Crocket sobre una armadura.}
 {131}{}{Me gustaría echar un vistazo.}
-{132}{}{Estoy interesado en unirme, quizá, a vuestro grupo.}
+{132}{}{Estoy interesada en unirme, quizá, a vuestro grupo.}
 {133}{}{He venido a mataros a todos.}
 {134}{}{Son estrellas de Nuevo Reno. Comprendieron la verdad de nuestro evangelio y vinieron a limpiar sus neurodinas.}
 {135}{}{¿Dónde puedo encontrarlos?}
@@ -51,10 +51,10 @@
 {150}{}{No esperes demasiado antes de volver con una respuesta. Tus neurodinas se llenarán de contaminación cada vez más, hasta que podamos iniciar el proceso de limpieza.}
 {151}{}{He cambiado de opinión. Me uniré.}
 {152}{}{Está bien. Hablaré contigo más tarde.}
-{153}{}{Puedes dejar este complejo a salvo, viajero, pero te recomendaría que no volvieras. Si no viajas a nuestro lado, entonces trabajas en nuestra contra: y odiaría ver cómo te hieren.}
+{153}{}{Puedes dejar este complejo a salvo, viajera, pero te recomendaría que no volvieras. Si no viajas a nuestro lado, entonces trabajas en nuestra contra: y odiaría ver cómo te hieren.}
 {154}{}{Gracias por preocuparte. Nos vemos.}
 {155}{}{No creo que quisiera que me hirieran. Hasta luego.}
-{156}{}{¿Quemado? ¿QUEMARNOS? ¡GUARDIAS! ¡MATAD AL DESCREÍDO!}
+{156}{}{¿Quemado? ¿QUEMARNOS? ¡GUARDIAS! ¡MATAD A LA DESCREÍDA!}
 {157}{}{[HECHO]}
 {158}{}{Bien. Ya has tenido tiempo de reconsiderar tu decisión. ¿Te unirás a nosotros?}
 {159}{}{Sí.}
@@ -115,13 +115,13 @@
 {214}{}{Normalmente está en este laboratorio, trabajando en formas de perfeccionar nuestros cuerpos y espíritus.}
 {215}{}{Gracias. Quería preguntar algo más.}
 {216}{}{Gracias.}
-{217}{}{Antes de que seas realmente uno de nosotros, debemos llevar a cabo un escaneo zeta inicial: un alineamiento. ¿Estás preparado para el escaneo?}
+{217}{}{Antes de que seas realmente una de nosotros, debemos llevar a cabo un escaneo zeta inicial: un alineamiento. ¿Estás preparada para el escaneo?}
 {218}{}{¡No! ¡Nada de escaneo!}
 {219}{}{Desde luego. Hagámoslo.}
-{220}{}{Sin un escaneo, no puedes unirte a nosotros. ¿Estás seguro de que deseas rehusar?}
-{221}{}{Absolutamente seguro. No quiero que me toqueteéis con vuestras máquinas.}
+{220}{}{Sin un escaneo, no puedes unirte a nosotros. ¿Estás segura de que deseas rehusar?}
+{221}{}{Absolutamente segura. No quiero que me toqueteéis con vuestras máquinas.}
 {222}{}{Oh, está bien. Escanéame.}
-{223}{}{Hemos eliminado algunas de tus neurodinas más sucias. Ahora se te considera un AHS-1. ¿Estás listo para unirte a nuestra noble causa?}
+{223}{}{Hemos eliminado algunas de tus neurodinas más sucias. Ahora se te considera un AHS-1. ¿Estás lista para unirte a nuestra noble causa?}
 {224}{}{Oh, sí.}
 {225}{}{No. Ahora no quiero.}
 {226}{}{Lección 1: Aquí está la eternidad. Aquí es donde está Quetzel. [señala algo] Y aquí es donde estamos. [señala algo] Ahora, todo lo que tenemos que hacer es caminar muy lejos para llegar allí.}
@@ -129,4 +129,4 @@
 {228}{}{¿Aún me lo puedo seguir pensando?}
 {229}{}{¿Otra vez tú? ¿Qué?}
 {230}{}{¿Hay algo más que necesites de mí?}
-{231}{}{No eres bienvenido aquí. Por favor, márchate ahora.}
+{231}{}{No eres bienvenida aquí. Por favor, márchate ahora.}

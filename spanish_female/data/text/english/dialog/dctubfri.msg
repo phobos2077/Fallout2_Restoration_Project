@@ -4,14 +4,14 @@
 {150}{}{Parece ser un amigo de Tubby.}
 {160}{}{Parece estar extremadamente colocada.}
 {161}{}{Parece estar sufriendo del síndrome de abstinencia.}
-{200}{}{Oh, amigo. ¿Ahora dónde vamos a conseguir nuestra mierda?}
+{200}{}{Oh, amiga. ¿Ahora dónde vamos a conseguir nuestra mierda?}
 {201}{}{¿Por qué has tenido que matar a Tubby?}
-{202}{}{Oh, amigo, que mierda.}
+{202}{}{Oh, amiga, que mierda.}
 {203}{}{¿Ahora que se supone que vamos a hacer?}
 {204}{}{Oh, amigo…}
 {205}{}{Eh, esto no es justo.}
 {206}{}{No nos hagas daño, no lo contaremos.}
-{220}{}{Caray, tienes pinta de ser bastante malvado.}
+{220}{}{Caray, tienes pinta de ser bastante malvada.}
 {221}{}{Eh, eres una buena persona. ¿Alguna vez te lo habían dicho?}
 {222}{}{Eh, eres muy buena persona. ¿Alguna vez te lo habían dicho?}
 {223}{}{Somos los guardias de Tubby.}
@@ -19,7 +19,7 @@
 {225}{}{Hostia, me siento bien.}
 {226}{}{¿Te puedes creer que somos guardias? Guay, ¿verdad?}
 {227}{}{Esta mierda es genial.}
-{228}{}{Oh, amigo, no siento las piernas.}
+{228}{}{Oh, amiga, no siento las piernas.}
 {229}{}{Tubby es nuestro colega.}
 {230}{}{Tubby nos hace felices.}
 {231}{}{Oh, amigo, oh, amigo, oh, amigo… mierda, mis ojos.}
@@ -31,12 +31,12 @@
 {237}{}{¿Eh, has oído? Metzger está muerto o algo así.}
 {238}{}{Caray, alguien ha cortado en cachitos a Metzger el Carnicero.}
 {239}{}{Espero que Tubby pueda seguir con el negocio ahora que Metz ya no está.}
-{250}{}{Caray, amigo. Han matado a Tubby.}
+{250}{}{Caray, amiga. Han matado a Tubby.}
 {251}{}{Creo que mi droga estaba estropeada.}
 {252}{}{Joder, ¿qué está pasando?}
 {253}{}{¿Qué ha sido todo ese ruido?}
 {254}{}{Maldición, eso ha sido algo horrible.}
-{255}{}{Caray, amigo. Han matado a Tubby.}
+{255}{}{Caray, amiga. Han matado a Tubby.}
 {260}{}{Ooooohh, siii… Buena mierda.}
 {261}{}{¿Qué tienes para hacer?}
 {262}{}{Oh, sí. Estoy volando.}
@@ -76,7 +76,7 @@
 {310}{}{Las patatas no son verdes.}
 {311}{}{Ohhh, qué bonitas luces.}
 {312}{}{Oh, me duele la cabeza…}
-{320}{}{No me hables, amigo. Me duele la cabeza.}
+{320}{}{No me hables, amiga. Me duele la cabeza.}
 {321}{}{No se lo contaré a nadie.}
 {322}{}{No me hagas daño.}
 {323}{}{No hice nada.}
@@ -84,9 +84,9 @@
 {325}{}{No he oído nada.}
 {326}{}{Por favor, vete.}
 {327}{}{Señora, no me apetece mucho hablar. La puta cabeza me está matando.}
-{340}{}{Oh amigo, das asco.}
+{340}{}{Oh amiga, das asco.}
 {341}{}{¿Por qué has tenido que venir y arruinarme la fiesta?}
-{342}{}{¡Amigo, eso duele!}
+{342}{}{¡Amiga, eso duele!}
 {343}{}{¿Pero qué demonios?}
 {344}{}{¿Cómo va a ocurrir eso?}
 {400}{}{Tubby es tan maravilloso.}

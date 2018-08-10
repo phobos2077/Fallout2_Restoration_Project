@@ -13,7 +13,7 @@
 {160}{}{Supongo que ahora eres parte de la familia.}
 {161}{}{Cuida bien de mi hijo.}
 {162}{}{Mi nombre es Grisham. Bienvenido a mi matadero. ¿Vienes a dejar mercancía o a recoger?}
-{163}{}{¿A recoger? Estoy interesado en comprar algunas provisiones para el viaje.}
+{163}{}{¿A recoger? Estoy interesada en comprar algunas provisiones para el viaje.}
 {164}{}{¿No habrás visto un reloj de oro tirado por alguna parte?}
 {165}{}{¿Qué puedo hacer por ti?}
 {166}{}{Me gustaría comprar algo de tu famosa cecina.}
@@ -33,12 +33,12 @@
 {181}{}{Suena bien; dame un paquete.}
 {182}{}{Gracias, pero no, quizá más tarde. Aunque me gustaría hacerte unas preguntas.}
 {183}{}{Un placer hacer negocios contigo. ¿Hay algo más que pueda hacer por ti?}
-{185}{}{¡Espera! Pareces ser un viajero bastante capaz. ¿Te interesaría ganar algo de dinero?}
-{186}{}{¿Estás seguro de que no quieres ganar algo de dinero? Estoy seguro de que podrías solucionar mi problemilla con bastante facilidad.}
+{185}{}{¡Espera! Pareces ser una viajera bastante capaz. ¿Te interesaría ganar algo de dinero?}
+{186}{}{¿Estás segura de que no quieres ganar algo de dinero? Estoy seguro de que podrías solucionar mi problemilla con bastante facilidad.}
 {187}{}{Eso depende. ¿Cuanto y qué tengo que hacer? Y lo más importante, ¿CUÁNTO me vas a pagar?}
-{188}{}{¡Muy listo! Me recuerdas a mí cuando era joven. Es simple... últimamente, algunos perros salvajes han estado bajando de las colinas buscando comida. Creo que han descubierto que los brahmines son presa fácil y han estado atacando al ganado por la noche. Deshazte de su manada, y te daré 1.000 dólares.}
+{188}{}{¡Muy lista! Me recuerdas a mí cuando era joven. Es simple... últimamente, algunos perros salvajes han estado bajando de las colinas buscando comida. Creo que han descubierto que los brahmines son presa fácil y han estado atacando al ganado por la noche. Deshazte de su manada, y te daré 1.000 dólares.}
 {189}{}{Me estás ocultando algo, vejestorio. ¿Dónde está el truco?}
-{190}{}{Tan listo como perspicaz. Sabía que no podría ocultártelo. El truco es que por cada brahmin que muera, te voy a descontar 100 dólares. Te pagaré bien si tienes éxito, pero sino serás tú quien me pague a mí. Ese es el riesgo por trabajar para mí.}
+{190}{}{Tan lista como perspicaz. Sabía que no podría ocultártelo. El truco es que por cada brahmin que muera, te voy a descontar 100 dólares. Te pagaré bien si tienes éxito, pero sino serás tú quien me pague a mí. Ese es el riesgo por trabajar para mí.}
 {191}{}{¡Genial! Dirígete a los pastizales por la noche y mata a la manada de perros salvajes que están atacando a mis brahmines. Vuelve una vez que hayas completado el trabajo.}
 {192}{}{¡Santa Madre de Dios! ¿Cornelius aún está buscando su reloj perdido? ¿Por qué no puede aceptar que lo perdió? De todas formas, ese condenado reloj nunca funcionó, y que me aspen si realmente estaba hecho de oro. Ríndete; nunca lo encontrarás.}
 {193}{}{La verdad es que es Farrel quien me ha pedido que lo busque.}
@@ -67,9 +67,9 @@
 {219}{}{Pareces andar un poco corto de dinero. No voy a fiarte y no tengo intención de darte algo a cambio de nada.}
 {221}{}{Eso es lo que obtengo por enviar un Neanderthal. ¡Vamos!}
 {222}{}{Uh... unga bunga unga bunga. Ahora toma tu dinero, sé un buen neanderthal y lárgate.}
-{223}{}{Eres un poco tacaño, ¿no? Bueno, si es lo que quieres, puedes hacerte con los restos que quieras. Balthas suele comprar las pieles, y Rose te comprará cualquier resto que no quieras. Los suele usar para hacer sopa y alimentar a sus perros.}
+{223}{}{Eres un poco tacaña, ¿no? Bueno, si es lo que quieres, puedes hacerte con los restos que quieras. Balthas suele comprar las pieles, y Rose te comprará cualquier resto que no quieras. Los suele usar para hacer sopa y alimentar a sus perros.}
 {225}{}{Debes estar bromeando. Todo el mundo sabe que es Farrel quien robó el reloj. ¿Por qué te pediría que lo buscaras? A no ser que... ¡no fuera él quien lo hubiera robado! O quizás sea un truco para convencer a todo el mundo de que él no lo robó. Tengo que reflexionar.}
-{228}{}{Chico, no intentes explicar esto. No quiero oírlo. Voy a llamar al predicador, vamos a hacer todo esto legalmente, y te llevarás a mi sobrino contigo cuando te vayas de aquí.}
+{228}{}{Chica, no intentes explicar esto. No quiero oírlo. Voy a llamar al predicador, vamos a hacer todo esto legalmente, y te llevarás a mi sobrino contigo cuando te vayas de aquí.}
 {229}{}{No puedo decir que no este un poco consternado por esto, pero ella no puede quedarse viviendo en esta casa después de lo que he visto. Vosotros dos vais a casaros ahora mismo y a marcharos de aquí.}
 {230}{}{¿Te importaría explicar qué estabas haciendo con mi hija?}
 {231}{}{¿Te importaría explicar qué estabas haciendo con mi hijo?}
@@ -107,7 +107,7 @@
 {413}{}{Davin}
 {414}{}{Eh, Bo, ¿podemos pasar a la parte de los votos matrimoniales?}
 {420}{}{¡No vas a ir a ninguna parte, chico!}
-{421}{}{Esto me pasa por mandar a un neanderthal. ¡Ve!}
+{421}{}{Esto me pasa por mandar a una neanderthal. ¡Ve!}
 {452}{}{ era algo rarito, pero esto... ¡Sólo hay una forma de arreglarlo!}
 {453}{}{. ¡Sólo hay una forma de arreglar esto!}
 {460}{}{ se quede viuda, ¿no?.}

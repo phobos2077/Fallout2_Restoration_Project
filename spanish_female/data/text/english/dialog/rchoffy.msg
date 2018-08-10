@@ -5,7 +5,7 @@
 {104}{}{Esto no es un pabellón de caridad. Ahora vete.}
 {105}{}{¿Quién te dejó salir de casa, de todas formas?}
 {106}{}{¿Hay alguien en casa?}
-{107}{}{No eres lo bastante listo como para gruñir, ¿verdad?}
+{107}{}{No eres lo bastante lista como para gruñir, ¿verdad?}
 {108}{}{Venga, ya está bien. Simplemente sal de aquí.}
 {109}{}{No tengo tiempo para estúpidos.}
 {110}{}{He oído que tuviste ciertos problemas con algunas de tus caravanas. todo el mundo tiene problemas a veces:
@@ -78,7 +78,7 @@
  pieza.}
 {159}{}{He oído que el sheriff tiene a alguien para que le haga parte de su trabajo sucio.}
 {160}{}{Supongo que últimamente no está sucediendo gran cosa. Sólo lo habitual sobre excavaciones, caravanas, y esas cosas.}
-{161}{}{Sí, bueno, ese novato soy yo. ¿Tienes algún problema con eso?}
+{161}{}{Sí, bueno, esa novata soy yo. ¿Tienes algún problema con eso?}
 {162}{}{Alguien tiene que mantener el orden en esta piojosa ciudad.}
 {163}{}{Deja que te pregunte algo.}
 {164}{}{Sólo pensaba en comprobarlo. Gracias, y adiós por ahora.}

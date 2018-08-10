@@ -4,9 +4,9 @@
 {201}{}{¿Ally Unto? ¿Gurk?}
 {202}{}{Tengo que mee-arrrrrrr.}
 {203}{}{¿Oog? (negando con la cabeza)}
-{204}{}{Buen intento para un tonto. Pero no queremos a los tuyos por aquí. Ahora, largo. Desaparece.}
-{205}{}{Sé que eres un tribal y todo eso, pero esto es una casa de baños, no un retrete. ¡Vete de aquí antes de que te eche a patadas!}
-{206}{}{Sé que mis chicos no suelen mezclarse con buena gente, pero tú eres lo peor que he visto. No puedo creerme que les hayas fallado así. No entrarás aquí. Ahora, largo.}
+{204}{}{Buen intento para una tonta. Pero no queremos a los tuyos por aquí. Ahora, largo. Desaparece.}
+{205}{}{Sé que eres una tribal y todo eso, pero esto es una casa de baños, no un retrete. ¡Vete de aquí antes de que te eche a patadas!}
+{206}{}{Sé que mis chicos no suelen mezclarse con buena gente, pero tú eres la peor que he visto. No puedo creerme que les hayas fallado así. No entrarás aquí. Ahora, largo.}
 {210}{}{Mi nombre es Sally Dunton, pero la mayoría me llaman Sally la Narizotas. Soy la propietaria de esta casa de baños. Tenemos una selección completa de servicios de baño acompañado entre los que puedes escoger.}
 {211}{}{¿Qué clase de servicios tenéis aquí?}
 {212}{}{Cielos, señorita Sally, tan sólo quiero un baño normal. No tendrá un baño con burbujas, ¿verdad?}
@@ -22,24 +22,24 @@
 {232}{}{Tan sólo bromeaba, quiero un baño especial.}
 {240}{}{Los baños especiales que tenemos disponibles varían de precio dependiendo del tiempo que nuestras chicas pasen contigo, y de los servicios especiales de los que disfrutes.}
 {241}{}{¿Quieres decir que voy a estar con una chica de carne y hueso? ¡Me apunto!}
-{242}{}{No creo que esté preparado para esto, mejor me voy.}
+{242}{}{No creo que esté preparada para esto, mejor me voy.}
 {243}{}{Espero que la chica esté incluida en el precio.}
 {250}{}{Los baños que tenemos disponibles son: un lavado a mano con toallas húmedas, un breve lavado de cuerpo entero, y, finalmente, el servicio completo de súper limpieza mundial, ofrecido por la hermosa y talentosa Jenny, recientemente reclutada de la más refinada casa de La Guarida.}
 {251}{}{Creo que me basta con el lavado a mano, ¿cuánto cuesta?}
 {252}{}{Me gusta como suena el lavado de cuerpo entero. Pero, ¿cuánto me va a costar?}
 {253}{}{¿Hermosa y talentosa? Cuéntame más del servicio completo de súper limpieza mundial.}
-{254}{}{No creo que esté listo para darme un baño mientras alguien me mira; será mejor que me vaya.}
+{254}{}{No creo que esté lista para darme un baño mientras alguien me mira; será mejor que me vaya.}
 {255}{}{¿Puedo mezclar varios tipos de baño a la vez?}
 {256}{}{¿Qué tal si me haces un descuento?}
 {260}{}{No, sólo puedes escoger uno cada vez, pero siempre puedes volver por más... tras un pequeño reposo.}
 {261}{}{Dime otra vez qué tipos de baños tienes.}
 {262}{}{Si no puedo hacer lo que quiera, no quiero darme un baño; me largo de aquí.}
-{270}{}{Bien, por un individuo tan atractivo como tú tan sólo serán 25 dólares.}
+{270}{}{Bien, por una individua tan atractiva como tú tan sólo serán 25 dólares.}
 {271}{}{¿25 dólares? Eso es una ganga, me daré el baño.}
 {272}{}{Hmm, dime otra vez qué tipos de baños tienes.}
 {273}{}{Quizás no necesite esto ahora mismo. Me marcho.}
 {280}{}{Hmm, tienes pinta de necesitar darte un baño de verdad antes; serán 35 dólares.}
-{281}{}{¿35 dólares? Eso parece un poco excesivo... pero supongo que estoy bastante desaliñado, así que acepto.}
+{281}{}{¿35 dólares? Eso parece un poco excesivo... pero supongo que estoy bastante desaliñada, así que acepto.}
 {282}{}{Otra vez, ¿qué otras opciones tengo?}
 {283}{}{Gracias, pero iré a mirar en otro lado.}
 {284}{}{35 dólares parece bastante caro; tengo algunos brahmines, ¿hace?}

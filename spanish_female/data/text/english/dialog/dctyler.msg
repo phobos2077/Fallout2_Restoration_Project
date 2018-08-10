@@ -9,7 +9,7 @@
 {222}{}{¡Esa maldita puta por fin está muerta!}
 {223}{}{Gracias por la propina, estuvo bien.}
 {230}{}{¿Dónde demonios estabas?}
-{231}{}{Trampa... ¡y una mierda! Puto mentiroso.}
+{231}{}{Trampa... ¡y una mierda! Puta mentirosa.}
 {232}{}{Debería destriparte ahora mismo.}
 {233}{}{Vaya mierda de plan, gilipollas.}
 {234}{}{Será mejor que no te hayas estado riendo de mí.}
@@ -29,7 +29,7 @@
 {256}{}{¿Aruwa?}
 {260}{}{¿Para qué demonios te envía? Sus cosas no van a ir a ninguna parte.}
 {261}{}{Su basura no se ha movido ni una pulgada.}
-{262}{}{Oh, sí. Ahora eres un esclavista, ¿eh? Así que, ¿qué quería? Esto no va a ir a ninguna parte... aunque pudiese.}
+{262}{}{Oh, sí. Ahora eres una esclavista, ¿eh? Así que, ¿qué quería? Esto no va a ir a ninguna parte... aunque pudiese.}
 {263}{}{Quería que pasara a comprobar como está todo.}
 {264}{}{Bueno, quiere asegurarse de eso.}
 {265}{}{No importa.}
@@ -44,7 +44,7 @@
 {291}{}{Grrrr.}
 {292}{}{Gracias.}
 {300}{}{Lárgate, tipo duro, antes de que yo te rompa la cara.}
-{301}{}{Lárgate, puta. Metzger no hubiera mandado a una mujer de ninguna manera, así que vete a paseo.}
+{301}{}{Lárgate, puta. Metzger de ninguna manera hubiera mandado a una mujer, así que vete a paseo.}
 {302}{}{¿Puta? Te voy a enseñar lo que esta puta puede hacer.}
 {303}{}{Vete a la mierda.}
 {304}{}{[Te vas]}
@@ -136,7 +136,7 @@
 {700}{}{Ahora no estoy de humor.}
 {701}{}{Ahora no.}
 {702}{}{Estoy ocupado.}
-{710}{}{¡El listillo ha vuelto! ¿Así que de verdad quieres entrar en esta iglesia? ¿Por qué? Aquí dentro no hay nada que te interese.}
+{710}{}{¡La listilla ha vuelto! ¿Así que de verdad quieres entrar en esta iglesia? ¿Por qué? Aquí dentro no hay nada que te interese.}
 {711}{}{¿Y ahora qué cojones quieres?}
 {712}{}{¿Ves está marca en mi frente? Déjame entrar. ¡Ahora!}
 {713}{}{Soy su nueva puta, ¡por eso! Si no me dejas entrar ahora, me aseguraré de que estés al principio de su lista negra.}

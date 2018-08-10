@@ -91,7 +91,7 @@
 {190}{}{Conseguí lo de los Hubologistas. Sin problemas. ¿Necesitas algo más?}
 {191}{}{Sí.}
 {192}{}{No. Nos vemos.}
-{193}{}{Acabas de cometer un gran error, amigo. Acabo de poner en tu contra a los Shi a través de sus computadoras. Estás acabado en San Francisco. }
+{193}{}{Acabas de cometer un gran error, amiga. Acabo de poner en tu contra a los Shi a través de sus computadoras. Estás acabada en San Francisco. }
 {194}{}{Entonces supongo que lo mejor será que te mate.}
 {195}{}{Dame un par de horas para reponerme.}
 {196}{}{¿Quieres que piratee una computadora formateada? La información está perdida. No hay nada que hacer.}

@@ -33,7 +33,7 @@
 {132}{}{Sí. Con esta gente, sabes exactamente cuál es tu posición. Ellos no juegan. El Enclave era una manada de hienas: podrían volverse contra ti en un segundo.}
 {133}{}{¿Qué es exactamente el Enclave?}
 {134}{}{¿Cómo te uniste a ellos?}
-{135}{}{El Enclave es un remanente de los viejos tiempos. Si te diriges con esta cosa hasta la plataforma, te enterarás por ti mismo.}
+{135}{}{El Enclave es un remanente de los viejos tiempos. Si te diriges con esta cosa hasta la plataforma, te enterarás por ti misma.}
 {136}{}{¿Cómo lo piloto?}
 {137}{}{¿Qué plataforma?}
 {138}{}{Es bastante simple. Un día simplemente abandoné la base Navarro y me dirigí aquí. Supuse que sería el último lugar en el que nadie miraría. Además, no soy lo bastante importante para el Enclave como para que me busquen: sólo soy un cabo suelto.}

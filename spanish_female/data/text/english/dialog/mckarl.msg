@@ -60,7 +60,7 @@
 {222}{}{Estáaaa bien… (hic) Supongo que no tendrás nada de beber (hic). Aquí hace bastante (hic) frío por la noche.}
 {224}{}{De verdad que (hic) eres mi mejor amigo en el maldito (hic) mundo entero. [Karl empieza a beber el líquido de la botella, hasta que cae inconsciente].}
 {225}{}{Oh bueno, quizás pueda hablar con Karl más tarde.}
-{226}{}{De verdad que (hic) eres mi mejor amigo en el maldito (hic) mundo entero. [Karl abre la botella y empieza a beber... y entonces comienza a vomitarte encima]. ¡Puaj! ¿Pero qué...?! Estás intentando envenenarme o qué?! ¡Lárgate de aquí!}
+{226}{}{De verdad que (hic) eres mi mejor amiga en el maldito (hic) mundo entero. [Karl abre la botella y empieza a beber... y entonces comienza a vomitarte encima]. ¡Puaj! ¿Pero qué...?! Estás intentando envenenarme o qué?! ¡Lárgate de aquí!}
 {227}{}{Vaya, gracias (hic); eres muy (hic) amable. ¿Por qué no me dejas que te ayude con esa cartera tan pesada? [Karl coge tu cartera y se lleva la mitad de tu dinero]. Muy amable de tu parte. (hic) Si necesitas algo, no tengas miedo en preguntarme.}
 {228}{}{GECK?}
 {229}{}{Yo marcho.}

@@ -1,15 +1,15 @@
 {100}{}{Ves a un hombre viejo y sucio con el pelo canoso.}
 {101}{}{Es el tipo al que llaman Cecina Bob.}
 {102}{}{Sólo tiene 3 dientes y una cara por la que cruzan las pequeñas venas de un borracho. También huele mal.}
-{103}{}{¡Hola, extranjero!}
+{103}{}{¡Hola, extranjera!}
 {104}{}{¿Gruh?}
 {105}{}{¿Quién eres?}
 {106}{}{Mi nombre es Bob. Cecina Bob, sí. ¿Y el tuyo?}
-{107}{}{¿Cómo dijiste que era tu nombre, extranjero? Yo soy cecina Bob.}
+{107}{}{¿Cómo dijiste que era tu nombre, extranjera? Yo soy cecina Bob.}
 {108}{}{[Player name]}
 {109}{}{¿Cecina? ¿Qué clase de nombre es ese?}
 {110}{}{¿Qué estás haciendo aquí?}
-{111}{}{Ese es un nombre muy bueno, sí. Esto, ¿no tendrás una bebida encima, compadre?}
+{111}{}{Ese es un nombre muy bueno, sí. Esto, ¿no tendrás una bebida encima, colega?}
 {112}{}{Sí.}
 {113}{}{No.}
 {114}{}{¡Aléjate de mi, borracho apestoso!}
@@ -17,8 +17,8 @@
 {116}{}{¡Vaya, vaya, vaya! ¡Pero si tienes ahí un licor maravilloso! Oye, ¿por qué no compartes un poco? Sólo un traguito.}
 {117}{}{¡Bebida! ¡Bien!}
 {118}{}{¡Grrrg!}
-{119}{}{¡Calma, compadre! No puedes culpar a un hombre sólo por preguntar, ¿verdad? Te dejaré tranquilo entonces.}
-{120}{}{(Gulp, gulp, gulp) ¡Aaaahhhh! ¡Eso está muy bien por tu parte, forastero! Buena persona, sí señor. El tipo de hombre al que tener por compadre. (Gulp) ¿Te he hablado alguna vez de cuando di mi gran golpe?}
+{119}{}{¡Calma, colega! No puedes culpar a un hombre sólo por preguntar, ¿verdad? Te dejaré tranquila entonces.}
+{120}{}{(Gulp, gulp, gulp) ¡Aaaahhhh! ¡Eso está muy bien por tu parte, forastera! Buena persona, sí señor. El tipo de mujer al que tener por compadre. (Gulp) ¿Te he hablado alguna vez de cuando di mi gran golpe?}
 {121}{}{¿No?}
 {122}{}{¡Oye, deja de beberte toda mi cerveza!}
 {123}{}{¡Rahhhg!}
@@ -29,7 +29,7 @@
 {128}{}{Sabía que lo había encontrado, la veta madre, el Refugio 13. Me senté allí mismo y preparé un mapa. Casi la palmo cuando salí de allí, enfrentado a las Garras mortales y después al sol del desierto sin agua.}
 {129}{}{Con el tiempo llegué a Arenas Sombrías tambaleándome, casi muerto. Me llevaron al doctor y me parchearon, pero ese doctor me robó el mapa. Estoy seguro y eso es todo lo que tengo que decir.}
 {130}{}{(Continuar)}
-{131}{}{¡Maldita sea, es un hombre bueno y honesto, eso es lo que es! Los chicos me dejan cocinar aquí y si no fueras un cabeza de chorlito lo sabrías y sabrías respetar a tus mayores.}
+{131}{}{¡Maldita sea, es un hombre bueno y honesto, eso es lo que es! Los chicos me dejan cocinar aquí y si no fueras una cabeza de chorlito lo sabrías y sabrías respetar a tus mayores.}
 {132}{}{Lo siento, viejo, no pretendía sacarte de quicio.}
 {133}{}{¡Que te den, viejo!}
 {134}{}{¿Enfadarme? ¡Enfadarme! ¡Todavía no me has visto enfadado! ¡Ahora sal de mi vista antes de que me cabree de verdad! ¡Largo! ¡Fuera!}
@@ -37,7 +37,7 @@
 {136}{}{Sí.}
 {137}{}{No.}
 {138}{}{¡Aléjate de mí, borracho apestoso!}
-{139}{}{¡Je, je, je! Es mía ahora, compadre. Te vas a tener que buscar otra!}
+{139}{}{¡Je, je, je! Es mía ahora, colega. Te vas a tener que buscar otra!}
 {140}{}{El jefe me deja estar aquí. ¡Yo dirijo este establo! Limpio un poco, mantengo el lugar.}
 {141}{}{¿Cecina? ¿Qué clase de nombre es ese?}
 {142}{}{Encantado de conocerte. Soy}

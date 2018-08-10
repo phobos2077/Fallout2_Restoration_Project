@@ -66,12 +66,12 @@
  de ello y querría ponerle fin. Si reparas esta máquina, podré alimentar a mi manada de
  nuevo. Con gusto detendré las incursiones. ¿Aceptarías este trato?}
 {146}{}{Lo siento, no tengo ni idea de cómo arreglar tal cosa.}
-{147}{}{No soy un técnico, pero puedo intentarlo.}
+{147}{}{No soy una técnico, pero puedo intentarlo.}
 {148}{}{Hmm... parece que el módulo de reconocimiento de voz ha fallado. Vamos a echarle un vistazo.}
 {149}{}{He cambiado de opinión. Creo que tendré que pensarlo un poco más.}
 {150}{}{Haré lo que pueda para ayudaros.}
 {151}{}{Me niego a ayudar a unas Garras mortales.}
-{152}{}{Gracias. La máquina está en el centro de mando del Refugio, en el tercer nivel. Si puedes repararla, por favor, hazlo. Estoy depositando mi confianza en ti. Por favor no la traiciones. Eres bienvenido aquí.}
+{152}{}{Gracias. La máquina está en el centro de mando del Refugio, en el tercer nivel. Si puedes repararla, por favor, hazlo. Estoy depositando mi confianza en ti. Por favor no la traiciones. Eres bienvenida aquí.}
 {153}{}{No te decepcionaré, Gruthar. Tienes mi palabra.}
 {154}{}{Gracias. Me pondré a ello.}
 {155}{}{Es cierto que nace uno cada minuto...}
@@ -116,20 +116,20 @@
 {186}{}{Sí, había un GECK en el almacén del Refugio. Sin embargo, se perdió. Lamento no poder dártelo como recompensa por tu generosa ayuda.}
 {187}{}{¡Gracias!}
 {188}{}{Eh... está bien. Intentaré encontrar uno en algún otro lugar.}
-{189}{}{Hola de nuevo, humano. Espero que no tengas la intención de hacerte el tonto conmigo.}
+{189}{}{Hola de nuevo, humana. Espero que no tengas la intención de hacerte la tonta conmigo.}
 {190}{}{Quiero disculparme y volver a empezar, Gruthar.}
 {191}{}{Lo siento, tengo que irme.}
 {192}{}{Uh, yo siento.}
-{193}{}{Saludos, humano. ¿Lo has reconsiderado? ¿Me ayudarás?}
+{193}{}{Saludos, humana. ¿Lo has reconsiderado? ¿Me ayudarás?}
 {194}{}{Demonios, no. Sólo quería escuchar un poco más cómo maltratas el lenguaje.}
 {195}{}{No, creo que no.}
 {196}{}{Sí, Gruthar. Te ayudaré.}
-{197}{}{Saludos, amigo. ¿Ya has examinado la máquina?}
+{197}{}{Saludos, amiga. ¿Ya has examinado la máquina?}
 {198}{}{Aún no, pero me pondré a ello.}
-{199}{}{Hola, amigo mío. Has salvado a la manada y te damos las gracias.}
+{199}{}{Hola, amiga mía. Has salvado a la manada y te damos las gracias.}
 {200}{}{}
 {201}{}{}
-{202}{}{¡Muere, humano traicionero!}
+{202}{}{¡Muere, humana traicionera!}
 {203}{}{}
 {204}{}{}
 {205}{}{No tengo nada contra ti, humano, y nada quiero tener. Estoy intentando comportarme contigo civilizadamente.
@@ -156,11 +156,11 @@
 {222}{}{Gracias. Por favor, ve a la sala de control y reemplaza el módulo.}
 {223}{}{¡Considéralo hecho!}
 {224}{}{}
-{225}{}{No eres bienvenido aquí en este momento. Puedes irte.}
+{225}{}{No eres bienvenida aquí en este momento. Puedes irte.}
 {226}{}{Adiós.}
 {227}{}{Adiós.}
 {228}{}{Hecho.}
-{229}{}{Disculpas aceptadas, humano. ¡Que tengas un buen día!}
+{229}{}{Disculpas aceptadas, humana. ¡Que tengas un buen día!}
 {230}{}{Hecho.}
 {231}{}{. ¿Has examinado la máquina?}
 {232}{}{. Esperaré tu regreso.}

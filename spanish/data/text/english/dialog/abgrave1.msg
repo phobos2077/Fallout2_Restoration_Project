@@ -2,7 +2,7 @@
 {101}{}{En la lápida pone: }
 {102}{}{"Aquí yace el hermano Gregory. Un hombre que no conocía límites".}
 {103}{}{"Tía Patty. Muy bien, de veras".}
-{104}{}{"Aquí yace Per Joner. Murió una roca demasiado corta".}
+{104}{}{"Aquí yace Per Joner. Murió por una roca muy pequeña".}
 {105}{}{"Aquí yace el padre Michael. Fundador, padre, luchador".}
 {106}{}{"Un ateo. Bien vestido y sin un lugar al que ir".}
 {107}{}{"Aquí yace Johnny Yeast. Disculpa que no me levante".}

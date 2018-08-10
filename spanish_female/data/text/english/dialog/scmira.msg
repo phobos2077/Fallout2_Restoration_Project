@@ -1,7 +1,7 @@
 {100}{}{Supones que incluso con el pelo verde y el ceño fruncido, es la camarera de este antro.}
 {101}{}{Esa es Mira. Está mezclando un Radesperdicio.}
 {102}{}{Bien, es joven y atractiva, pero hay algo en su mirada que dice que no aguanta mierdas de nadie. La mirada, y las nudilleras de pinchos que lleva en una cadena alrededor de su cuello.}
-{103}{}{Me llamo Mira. ¿Qué va a a ser, forastero?}
+{103}{}{Me llamo Mira. ¿Qué va a a ser, forastera?}
 {104}{}{Hola otra vez. ¿Qué va a ser?}
 {105}{}{Bebida.}
 {106}{}{¿Refugio 13?}
@@ -10,12 +10,12 @@
 {109}{}{Dame una cerveza.}
 {110}{}{Información.}
 {111}{}{Estoy buscando trabajo.}
-{112}{}{¡Bien, no eres el único! Es sólo la forma en que me gustan.}
+{112}{}{¡Bien, no eres la única! Es sólo la forma en que me gustan.}
 {113}{}{¿Has vuelto?}
 {114}{}{Yubba.}
 {115}{}{Vaya... te has encargado de Lenny. ¡Impresionante! Toma una copa a cuenta de la casa.}
 {116}{}{Lo que hiciste con Lenny... ¡era malvado!}
-{117}{}{Oh, un conversador impresionante. ¿Qué vas a tomar? ¿Un Radesperdicio? Sólo diez pavos.}
+{117}{}{Oh, una conversadora impresionante. ¿Qué vas a tomar? ¿Un Radesperdicio? Sólo diez pavos.}
 {118}{}{Sí.}
 {119}{}{No.}
 {120}{}{¿Quieres comprar una bebida? 10 dólares.}
@@ -28,15 +28,15 @@
 {127}{}{De acuerdo.}
 {128}{}{Demasiado dinero para mí.}
 {129}{}{Puedes probar con Merk, en la sala de ahí atrás.}
-{130}{}{Aquí no hay nada para ti, forastero.}
+{130}{}{Aquí no hay nada para ti, forastera.}
 {131}{}{Gracias, supongo.}
-{132}{}{¿Y entonces qué, forastero?}
+{132}{}{¿Y entonces qué, forastera?}
 {133}{}{¿Refugio 13?}
 {134}{}{GECK?}
 {135}{}{¿Tienes algo de tiempo para unas preguntas?}
 {136}{}{Marcho, adiooos.}
 {137}{}{Eso es todo.}
-{138}{}{¡Largo de aquí, gorrón!}
+{138}{}{¡Largo de aquí, gorrona!}
 {139}{}{Claro, tengo algo de tiempo. Eso es lo que se supone que hacen los camareros. Pero no te hagas ilusiones.}
 {140}{}{Para ti, siempre tengo tiempo, corazón. ¿Qué quieres?}
 {141}{}{Claro.}

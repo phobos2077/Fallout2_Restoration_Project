@@ -14,7 +14,7 @@
 {113}{}{Oye, muñeca, lo tienes todo en su sitio. El gusto de Carlson está mejorando.}
 {114}{}{No hago negocios aquí.}
 {115}{}{No te conozco. Soy un hombre de negocios respetable.}
-{116}{}{Vaya, que me aspen si no es el cobardica. Lárgate y déjame en paz.}
+{116}{}{Vaya, que me aspen si no es la cobardica. Lárgate y déjame en paz.}
 {117}{}{Así que has decidido venir a verme después de todo, ¿eh, muñeca?}
 {118}{}{No sé nada acerca de nada, comprendo.}
 {119}{}{Al vice no le va a gustar que molestes a sus invitados.}
@@ -25,7 +25,7 @@
 {124}{}{¿Qué es esto? ¿La hora de la sociabilidad?}
 {125}{}{Soy Merk. ¿Qué puñetas quieres?}
 {126}{}{¿Otra vez tú?}
-{127}{}{Eh, un poquito de amabilidad, gamberro, o esto podría ponerse feo.}
+{127}{}{Eh, un poquito de amabilidad, gamberra, o esto podría ponerse feo.}
 {128}{}{Oort.}
 {129}{}{Estoy buscando trabajo.}
 {130}{}{Fuentes informadas dicen que eres el hombre al que ver para hacer negocios, si sabes a lo que me refiero.}
@@ -38,7 +38,7 @@
 {137}{}{Tengo algunas preguntas.}
 {138}{}{Hmm... Fuerte. Idiota... Si quieres un trabajo, habla con Mira. ¿Entendido? Mi-ra. Por ahí.}
 {139}{}{¿Igual que hacer ruidos? ¿Puede alguien sacar a este mojón de brahmin de aquí?}
-{140}{}{¿Eres así de estúpido? ¿Crees que simplemente voy a contratar a cualquiera? Para trabajar para mí, tienes que demostrar que eres bueno para algo.}
+{140}{}{¿Eres así de estúpida? ¿Crees que simplemente voy a contratar a cualquiera? Para trabajar para mí, tienes que demostrar que eres buena para algo.}
 {141}{}{¿Y qué tal si simplemente le disparo a Lenny? Se lo merece.}
 {142}{}{¿Probarlo cómo?}
 {143}{}{¿Quizá conoces a alguien que querría algo de jet?}
@@ -47,7 +47,7 @@
 {146}{}{Fue el maldito Doofus, ¿verdad? Ese drogadicto habla demasiado para su propio bien. Te diré algo: lo silencias por mí (considéralo un favor) y entonces hablaremos.}
 {147}{}{Es un trato.}
 {148}{}{¡Eh, eh! ¡Yo no tengo tanta sangre fría!}
-{149}{}{Y van a decir que eras un tonto del culo. Muchachos...}
+{149}{}{Y van a decir que eras una tonta del culo. Muchachos...}
 {150}{}{Interesante. ¿Y quién diría algo así?}
 {151}{}{Déjate de gilipolleces, gordinflón. Si no recupero lo que es mío, alguien va tener que ir a comprarse un traje para su entierro.}
 {152}{}{Precioso. ¿Vas a contestar a mi pregunta o no?}
@@ -56,7 +56,7 @@
 {155}{}{Ahora bien, si una persona tenía algunas cosas que ahora le faltan, ¿supones que tendría que comprar dichas cosas de nuevo?}
 {156}{}{¡Quiero mi mierda de vuelta, gordinflón!}
 {157}{}{¿Qué te parece si hablo con la ley?}
-{158}{}{Me he hartado de esto. Muchachos, encargaos de nuestro invitado.}
+{158}{}{Me he hartado de esto. Muchachos, encargaos de nuestra invitada.}
 {159}{}{Creo que a Lenny no le gustaría eso.}
 {160}{}{Probablemente, pero no lo estaba pidiendo.}
 {161}{}{Hazlo a tu manera.}
@@ -69,7 +69,7 @@
 {168}{}{Intrigante. Te daré 1.000 dólares por sus servicios.}
 {169}{}{Es un trato.}
 {170}{}{No, no puedo hacerle eso a un amigo.}
-{171}{}{Parece que podemos hacer negocios, amigo. Este es el trato: hay un científico chiflado en la ciudad, el doctor Henry. Tiene ciertos papeles que quiero. Pagaré 1.000 dólares por ellos. Oh, y no quiero que se haga daño al doctor Henry. Vivo resulta útil. ¿Te interesa?}
+{171}{}{Parece que podemos hacer negocios, amigao. Este es el trato: hay un científico chiflado en la ciudad, el doctor Henry. Tiene ciertos papeles que quiero. Pagaré 1.000 dólares por ellos. Oh, y no quiero que se haga daño al doctor Henry. Vivo resulta útil. ¿Te interesa?}
 {172}{}{Estoy en ello.}
 {173}{}{Paso, no es mi estilo.}
 {174}{}{Saber cuesta dinero. ¿Hablo claro?}
@@ -79,7 +79,7 @@
 {178}{}{Oh, tú eres esa persona.}
 {179}{}{Continúa}
 {180}{}{Bueno, por lo que a mí respecta, aquí no eres más que un montón de estiércol.}
-{181}{}{Ya te había supuesto un cobarde.}
+{181}{}{Ya te había supuesto una cobarde.}
 {182}{}{Vale. No pasa nada. No quiero problemas. Te diré una cosa, incluso haré que mis muchachos pongan el material justo donde lo encontraron.}
 {183}{}{Mejor que sea así, o volveré.}
 {184}{}{¡No me vengas con historias!}
@@ -139,7 +139,7 @@
 {238}{}{¿Qué demonios estás haciendo aquí?}
 {239}{}{Antes me pasé de la raya. No lo volveré a hacer. Sólo necesito un poco de tu tiempo.}
 {240}{}{Haré lo que quiera, comadreja.}
-{241}{}{¡Sal de aquí, borrico!}
+{241}{}{¡Sal de aquí, borrica!}
 {242}{}{¿Entonces que estás haciendo aquí, pedazo de imbécil? ¡Si quieres impresionarme, entonces haz lo que debes!}
 {243}{}{¡No voy a hablar contigo hasta que el trabajo esté hecho!}
 {244}{}{Eso me decepciona. Normalmente elimino las cosas que me decepcionan. Sin embargo, en tu caso puedo ser generoso. Simplemente vete y no vuelvas, y lo olvidaré todo.}
@@ -156,14 +156,14 @@
 {255}{}{Creo que te voy a matar, recuperaré mi dinero, y obtendré una recompensa. Después de todo, eso es todo lo que se espera de un buen ciudadano.}
 {256}{}{¡Otra vez tú! ¡MUERE!}
 {257}{}{Pensé que te había dicho que no me molestases más.}
-{258}{}{ y soy un hijoputa peligroso. Ve a preguntarle a otro.}
+{258}{}{ y soy una hijoputa peligrosa. Ve a preguntarle a otro.}
 {259}{}{ tipo.}
 {260}{}{ chica.}
 {261}{}{Un Hubologista es un fanático religioso chiflado. Se los puede encontrar en la iglesia de la ciudad.}
 {262}{}{Voy de camino.}
 {263}{}{¡No hablaré contigo hasta que el trabajo esté hecho! Necesito esos papeles del local del doctor Henry, pronto.}
 {264}{}{No, pero necesito algo de información.}
-{265}{}{Sé que la muerte de Lenny no fue ningún accidente, bastardo.}
+{265}{}{Sé que la muerte de Lenny no fue ningún accidente, zorra.}
 {266}{}{Eh, ese mapa era una falsificación.}
 {267}{}{Bien, ¿y qué hay sobre el dinero que te dí?}
 {268}{}{Como ya he dicho, no tuvo éxito.}

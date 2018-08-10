@@ -42,7 +42,7 @@
 {141}{}{Diablos. Hago yo.}
 {142}{}{Pensaré en ello.}
 {143}{}{Ni hablar. Encuentra a otro tonto.}
-{144}{}{Qué diablos. Debo estar loco, pero lo haré.}
+{144}{}{Qué diablos. Debo estar loca, pero lo haré.}
 {145}{}{Me parece justo. Vuelve cuando hayas tomado una decisión.}
 {146}{}{Vale. Adiós.}
 {147}{}{Vale, pero pregunto más.}
@@ -94,8 +94,8 @@
 {193}{}{¡Excelente trabajo! Déjame los planos, y les haré una copia. Como te prometí, te daré acceso total a nuestras instalaciones. Gracias.}
 {194}{}{De nada.}
 {195}{}{No hay de qué.}
-{196}{}{Navarro es relativamente nueva y aún no dispone de todo su personal. Mis fuentes señalan que reciben nuevos reclutas de vez en cuando. Tal vez podrías presentarte solo y como un recién llegado. Es lo que te sugeriría.}
-{197}{}{Navarro es relativamente nueva y aún no dispone de todo su personal. Mis fuentes señalan que reciben nuevos reclutas de vez en cuando. Tal vez podrías presentarte solo y como un recién llegado. Es lo que te sugeriría. Podrías dejar aquí a tus amigos esperando.}
+{196}{}{Navarro es relativamente nueva y aún no dispone de todo su personal. Mis fuentes señalan que reciben nuevos reclutas de vez en cuando. Tal vez podrías presentarte sola y como una recién llegada. Es lo que te sugeriría.}
+{197}{}{Navarro es relativamente nueva y aún no dispone de todo su personal. Mis fuentes señalan que reciben nuevos reclutas de vez en cuando. Tal vez podrías presentarte sola y como una recién llegada. Es lo que te sugeriría. Podrías dejar aquí a tus amigos esperando.}
 {198}{}{De acuerdo.}
 {199}{}{¿Fuentes? ¿Dicen fuentes?}
 {200}{}{De acuerdo.}
@@ -103,7 +103,7 @@
 {202}{}{Tenía una operativo que vigilaba la base. Sus informes dejaron de llegar hace poco; sólo puedo suponer lo peor. Por favor, ten cuidado, }
 {203}{}{. No disfruto enviando gente a la muerte.}
 {204}{}{Yo cuidado, gracias.}
-{205}{}{Seré cuidadoso. Gracias.}
+{205}{}{Seré cuidadosa. Gracias.}
 {206}{}{Gracias otra vez por toda tu ayuda. Ahora tienes acceso total a nuestras instalaciones.}
 {207}{}{Esa es una oficina privada.}
 {208}{}{Ahí dentro no hay nada para ti.}

@@ -192,7 +192,7 @@
 {3300}{}{}
 {3325}{}{¿Por qué no dejas todo esto justo donde lo encontraste?}
 {3326}{}{Ya sabes que no está bien quedarte con lo que no es tuyo.}
-{3327}{}{¡Aléjate de ahí, gamberro!}
+{3327}{}{¡Aléjate de ahí, gamberra!}
 {3328}{}{Ahora no me vengas con que sólo estás "buscando las llaves". ¡Lárgate de aquí!}
 {3329}{}{Lo que quiera que estés buscando, no está ahí. ¿Comprendido?}
 {3350}{}{}
@@ -210,7 +210,7 @@
 {3925}{}{¡Oye, tú! ¿Qué estás haciendo ahí?}
 {3926}{}{¡Se supone que no puedes estar aquí!}
 {3927}{}{¡Si crees que simplemente vas a pasar a mi lado, puedes olvidarlo!}
-{3928}{}{Será mejor que no estés planeando lo que creo que estás planeando, forastero.}
+{3928}{}{Será mejor que no estés planeando lo que creo que estás planeando, forastera.}
 {3929}{}{¿Qué? ¿Crees que no había reparado en ti? ¡Fuera de aquí!}
 {3950}{}{}
 {3975}{}{}

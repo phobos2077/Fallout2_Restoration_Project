@@ -1,10 +1,10 @@
 {100}{}{Ves a un viajero.}
-{101}{}{¡Saludos, compañero viajero!}
+{101}{}{¡Saludos, compañera viajera!}
 {102}{}{Necesito que me indiquen unas direcciones. ¿Puedes ayudarme?}
 {103}{}{¿A dónde te diriges?}
 {104}{}{¿Qué haces?}
 {105}{}{Uhg.}
-{106}{}{Bueno... no lo sé. Soy nuevo por aquí y sólo he ido a las siguientes zonas.}
+{106}{}{Bueno... no lo sé. Soy nueva por aquí y sólo he ido a las siguientes zonas.}
 {107}{}{Nuevo Reno.}
 {108}{}{Ciudad Refugio.}
 {109}{}{Redding.}

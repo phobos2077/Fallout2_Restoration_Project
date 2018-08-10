@@ -17,19 +17,19 @@
 {130}{}{Gracias por tu ayuda.}
 {131}{}{Eres el mejor. Gracias.}
 {132}{}{Nada mal, para un piel suave.}
-{140}{}{Hola, mi amigo piel suave.}
-{141}{}{Bienvenido a Gecko.}
-{142}{}{Hola, amigo.}
+{140}{}{Hola, mi amiga piel suave.}
+{141}{}{Bienvenida a Gecko.}
+{142}{}{Hola, amiga.}
 {143}{}{No eres como los otros pieles suaves.}
 {144}{}{¿Has visto algo interesante por el Yermo?}
 {145}{}{Hola.}
-{146}{}{¡Hola, amigo!}
+{146}{}{¡Hola, amiga!}
 {147}{}{Nuestro reactor nuclear me hace resplandecer con orgullo.}
 {148}{}{Aquí hemos dominado el poder del átomo.}
 {149}{}{Algún día, otros serán capaces de utilizar nuestra energía.}
 {150}{}{Me alegro de que no todos los pieles suaves sean como los de Ciudad Refugio.}
 {151}{}{Si los de Ciudad Refugio fuesen como tú, no tendríamos problemas con ellos.}
-{160}{}{Hmmph, otro piel suave traicionero.}
+{160}{}{Hmmph, otra piel suave traicionero.}
 {161}{}{¿Que tal, piel suave?}
 {162}{}{Hola a todos.}
 {163}{}{¿Cómo te va?}
@@ -61,8 +61,8 @@
 {209}{}{Hmm, me pregunto por qué nadie los monta.}
 {220}{}{Hola, piel suave.}
 {221}{}{Cómpranos una bebida, piel suave.}
-{222}{}{Oh, chico, estoy sediento.}
-{223}{}{¿Te crees demasiado bueno como para beber con nosotros?}
+{222}{}{Oh, chica, estoy sediento.}
+{223}{}{¿Te crees demasiado buena como para beber con nosotros?}
 {224}{}{¿Dónde están mis amigos Johnny Stroller y Jim Bean?}
 {225}{}{El mío lo quiero mezclado, no agitado.}
 {226}{}{Pídele a Wooz que te cuente una historia.}
@@ -89,8 +89,8 @@
 {267}{}{He oído que ese Chester es un espía de Ciudad Refugio.}
 {268}{}{Me gustaría Renovarme y ser un piel suave.}
 {269}{}{Te juro que he visto cosas volando sobre nosotros por la noche.}
-{280}{}{Te quiero, amigo.}
-{281}{}{Eres el mejor.}
+{280}{}{Te quiero, amiga.}
+{281}{}{Eres la mejor.}
 {282}{}{¡A bombardear Ciudad Refugio hasta que resplandezca!}
 {283}{}{[Canta] 99 jeringuillas de Rad-away en el muro, 99 jeringuillas…}
 {284}{}{[Canta] He estado trabajando en el re-ac-tor, todo el santo día...}
@@ -107,12 +107,12 @@
 {303}{}{No falta mucho para que podamos comerciar nuestra energía con Ciudad Refugio.}
 {304}{}{Cielos, ahora vamos a necesitar mucho cobre de Redding.}
 {305}{}{Ahora el reactor funciona realmente bien. Gracias.}
-{306}{}{Eres el mejor.}
+{306}{}{Eres la mejor.}
 {307}{}{Gracias por reparar nuestro reactor nuclear.}
 {308}{}{El reactor está ronroneando como nunca. Gracias.}
 {309}{}{Eres el mejor piel suave que he conocido.}
 {320}{}{Renovación, camarada. ¡Renovación!}
-{321}{}{Eres uno de nosotros.}
+{321}{}{Eres una de nosotros.}
 {322}{}{Hola, camarada. La Renovación está al llegar.}
 {323}{}{Pronto todos seremos uno.}
 {324}{}{Él lo sabe todo. Adoremos su brillante pelo.}
@@ -122,7 +122,7 @@
 {328}{}{Estos días ya no puedes darte la vuelta sin toparte con otro maldito cultista.}
 {329}{}{Nunca me encontrarás adorando a una maldita rata sobredimensionada.}
 {340}{}{Deberías ir a ver a Lenny por esas heridas.}
-{341}{}{Pareces demasiado magullado. Ve a ver a Lenny.}
+{341}{}{Pareces demasiado magullada. Ve a ver a Lenny.}
 {342}{}{No deberías boxear con una Garra mortal. Ve a ver a Lenny.}
 {343}{}{Lenny está en la oficina de Harold. Deberías pedirle que eche un vistazo a esas heridas.}
 {344}{}{¿Cómo te has hecho tanto daño?}

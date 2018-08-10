@@ -3,13 +3,13 @@
 {102}{}{Ves a un necrófago bien vestido y con el cabello peinado hacia atrás.}
 {110}{}{No tengo tiempo que perder con estúpidos.}
 {111}{}{Tengo trabajo importante que hacer. Sal de aquí.}
-{112}{}{Eres tan estúpido como todos los demás.}
+{112}{}{Eres tan estúpida como todos los demás.}
 {113}{}{Esta no es el aula para las lecciones de refuerzo.}
 {114}{}{Demasiada endogamia entre los pieles suaves, supongo.}
 {120}{}{Hola. Mi nombre es Gordon. Gordon, de Gecko.}
 {121}{}{Hola de nuevo, }
 {122}{}{Hola, Gordon. Soy }
-{123}{}{Encantado de conocerte. Soy }
+{123}{}{Encantada de conocerte. Soy }
 {124}{}{Gordon, ¿qué habías dicho que hacías por aquí?}
 {125}{}{Solo ando saludando a todos mis amigos. Me alegra verte de nuevo. Adiós.}
 {130}{}{Busco oportunidades.}
@@ -41,7 +41,7 @@
 {224}{}{Una historia genial, Gordon. Eres el mejor. (te carcajeas) La recordaré. Adiós.}
 {230}{}{Recolecto los datos económicos de Gecko y se los muestro a Harold, pero casi nunca me escucha.}
 {231}{}{Lamento escuchar eso. ¿Información económica sobre qué?}
-{232}{}{Bueno, estoy seguro de que Harold está bastante ocupado. Nos vemos luego.}
+{232}{}{Bueno, estoy segura de que Harold está bastante ocupado. Nos vemos luego.}
 {240}{}{Una noche, escuché una voz llamándome desde el pozo del reactor, una voz que provenía de las sombras. No supe qué pensar al principio, pero tenía sentido. No sé quién o qué era, pero los hechos prueban que lo que dijo es verdad.}
 {241}{}{¿Qué dijo la voz?}
 {250}{}{Más que nada habló de formas de maximizar el valor potencial. Mi valor potencial. }
@@ -53,8 +53,8 @@
 {272}{}{Porque te olvidaste de la parte más importante de tu plan. Un socio... en otras palabras, yo.}
 {280}{}{Bien, tengo todos los datos económicos relevantes en un disco. Puedo dártelo, si prometes mostrárselo a alguien en Ciudad Refugio que pueda entender y hacer uso de la información que contiene. Pero sé discreto... no todos por allí van a alegrarse de que trates con necrófagos.}
 {281}{}{No creo que quiera quedarme con tu disco. Gracias de todas maneras. Adiós.}
-{282}{}{Está bien, tomaré el disco, estoy seguro de que puedo ponerlo en manos adecuadas. Adiós.}
-{290}{}{Hmph, no necesito tu ayuda. Solo eres un tribal.}
+{282}{}{Está bien, tomaré el disco, estoy segura de que puedo ponerlo en manos adecuadas. Adiós.}
+{290}{}{Hmph, no necesito tu ayuda. Solo eres una tribal.}
 {291}{}{Supongo que no todos los intolerantes viven en Ciudad Refugio, ¿eh, viejo Gordon? Adiós.}
 {300}{}{Nuestra central nuclear sigue siendo apenas operativa. Me imagino que aún no has llevado la información a Ciudad Refugio.}
 {301}{}{No creo que en Ciudad Refugio sean muy receptivos ante datos de los necrófagos.}
@@ -62,7 +62,7 @@
 {303}{}{Entregar esos datos a Cuidad Refugio es sólo uno de los muchos pasos que necesitas realizar. Nuestra planta de energía atómica esta apenas operativa y necesita ser arreglada.}
 {304}{}{Me pondré a ello ahora mismo. Adiós.}
 {305}{}{Sí, quizá en algún otro momento.}
-{310}{}{Gracias por reparar nuestra central nuclear. El plan del viejo Gordon de Gecko está yendo de maravilla. La codicia es una cosa maravillosa. Deberías estar orgulloso de formar parte de esto.}
+{310}{}{Gracias por reparar nuestra central nuclear. El plan del viejo Gordon de Gecko está yendo de maravilla. La codicia es una cosa maravillosa. Deberías estar orgullosa de formar parte de esto.}
 {311}{}{La codicia es buena, ¿cierto, Gordon? Bueno, tengo mis propios planes en los que trabajar. Adiós.}
 {320}{}{Estamos condenados, todos estamos condenados. Nada puede salvarnos ahora. Vete de aquí.}
 {321}{}{Limítate a alejarte de mí.}
@@ -75,8 +75,8 @@
 {342}{}{¿La información?}
 {343}{}{Por supuesto. Llevo el símbolo con orgullo. Necesito la información ahora mismo.}
 {344}{}{Shhh, no ahora, hermano. Nos vigilan. Adiós.}
-{350}{}{Llevas el símbolo de la Renovación. Eres uno de nosotros. ¡Renovación, camarada! ¡Renovación!}
-{351}{}{Sí, soy uno de nosotros. Reno, eh, ¡Renovación!}
+{350}{}{Llevas el símbolo de la Renovación. Eres una de nosotros. ¡Renovación, camarada! ¡Renovación!}
+{351}{}{Sí, soy una de nosotros. Reno, eh, ¡Renovación!}
 {352}{}{Acabo de encontrar esta cosa, ¿qué es?}
 {353}{}{Recogí esto de un cuerpo, ¿qué diablos es?}
 {360}{}{¿Acaso él no te envió a buscar el disco de datos?}

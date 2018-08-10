@@ -14,11 +14,11 @@
 {113}{}{Va-le: ¡no eres tan especial! Tal vez debería comprar en otro lugar.}
 {114}{}{Déjame echar un vistazo a tus existencias.}
 {115}{}{Creo que Edna y yo nos iremos ahora.}
-{116}{}{Bien, gracias a Dios que ese forastero no te llevó, hija... Mis cosas son mis hijas.}
+{116}{}{Bien, gracias a Dios que esa forastera no te llevó, hija... Mis cosas son mis hijas.}
 {117}{}{Uhh... por supuesto.}
 {118}{}{Bien, creo que iré ahora.}
 {119}{}{Puedo reparar todo tipo de cosas. Con un compresor -lo llamo Claudia-, que se adapta a la mayoría de coches, y se consigue bastante más potencia. Por sólo 1.000 dólares. ¿Te interesa?}
-{120}{}{Tonto, ya hemos hablado de eso.}
+{120}{}{Tonta, ya hemos hablado de eso.}
 {121}{}{Puedes apostar, Claudia es mi clase de... lo que sea.}
 {122}{}{Quizá algo más.}
 {123}{}{He oído decir que hay un doctor en la ciudad, que dice que tiene una cura milagrosa. Aunque yo no la tomaría...}

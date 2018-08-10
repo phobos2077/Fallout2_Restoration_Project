@@ -1,13 +1,13 @@
 {100}{}{Ves a un viajero.}
 {101}{}{Parece estar buscando algo.}
-{200}{}{¡Es un esclavista! ¡Matadle!}
-{201}{}{¡Matad al opresor!}
-{202}{}{¡Matad al malvado esclavista!}
+{200}{}{¡Es una esclavista! ¡Matadla!}
+{201}{}{¡Matad a la opresora!}
+{202}{}{¡Matad a la malvada esclavista!}
 {203}{}{¡Abajo la esclavitud! ¡Matad a los esclavistas!}
-{204}{}{¡Muere, chusma esclavista!}
+{204}{}{¡Muere, escoria esclavista!}
 {250}{}{¡Hola!}
-{251}{}{¡Eh, forastero!}
-{300}{}{Eh, forastero, ¿qué estás haciendo por aquí?}
+{251}{}{¡Eh, forastera!}
+{300}{}{Eh, forastera, ¿qué estás haciendo por aquí?}
 {301}{}{Me he perdido.}
 {302}{}{Sólo pasaba por aquí.}
 {303}{}{No mucho. ¿Qué haces tú por aquí?}

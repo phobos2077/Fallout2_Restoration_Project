@@ -4,7 +4,7 @@
 {150}{}{¡Buaaaaa!}
 {151}{}{¡Quiero mi perro!}
 {152}{}{Suspiro… }
-{153}{}{¡Extraño!}
+{153}{}{¡Una extraña!}
 {154}{}{¡Laddie! Te he echado de menos, chico. Gracias por traerme de vuelta a mi perro.}
 {155}{}{Hola, no te he visto por aquí antes.}
 {156}{}{¿Te llamas Jonny?}
@@ -24,7 +24,7 @@
 {176}{}{.}
 {177}{}{Mi nombre no es lo importante.}
 {178}{}{Me llamo Jonny, y no me gustas.}
-{179}{}{[Te señala y comienza a gritar]. ¡Extraño! ¡Extraño! ¡Extraño!}
+{179}{}{[Te señala y comienza a gritar]. ¡Extraña! ¡Extraña! ¡Extraña!}
 {180}{}{Encantado de conocerte, }
 {181}{}{.}
 {182}{}{Ya nos veremos, chico.}
@@ -49,7 +49,7 @@
 {202}{}{¡No! ¡No te creo! ¡Devuélveme a mi perro! [¡Buaaaaaa!]}
 {203}{}{¡Oh no! ¿No sabes que Rose usa perro en sus platos? Ahora Laddie se habrá convertido en una hamburguesa.}
 {300}{}{¡¡¡Laddie!!!}
-{400}{}{Gracias por salvarme, señor.}
+{400}{}{Gracias por salvarme, señora.}
 {401}{}{¡Que bueno estar en casa!}
 {402}{}{Wahoo...}
 {403}{}{Sabes, ¡ya no tengo miedo de la oscuridad!}

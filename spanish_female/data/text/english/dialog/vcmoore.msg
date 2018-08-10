@@ -3,7 +3,7 @@
 {101}{}{Ves a Thomas Moore.}
 {102}{}{Ves a Thomas Moore. A pesar de su cabello despeinado y su rostro sin afeitar, sus ropas parece limpias y
  bien cuidadas.}
-{103}{}{¡Hola y bienvenido, viajero! ¿Has escuchado la palabra hoy?}
+{103}{}{¡Hola y bienvenida, viajera! ¿Has escuchado la palabra hoy?}
 {104}{}{Uurmph}
 {105}{}{Ecch}
 {106}{}{Portzebie}
@@ -57,7 +57,7 @@
 {143}{}{Incluso aquellos que parecen los más inocentes pueden engañar a un mensajero de la palabra...
  ¿cómo sé que eres un VERDADERO creyente?}
 {144}{}{¡Serás un verdadero creyente cuando mi pie se ponga en contacto con tu culo!}
-{145}{}{SOY un verdadero creyente, hermano. ¿Cómo puedo demostrarte mi devoción?}
+{145}{}{SOY una verdadera creyente, hermano. ¿Cómo puedo demostrarte mi devoción?}
 {146}{}{¡Sé que esta ciudad se construyó sobre cimientos de pecado y esclavitud, y que sólo los justos
  pueden solucionarlo!}
 {147}{}{Bueno, quizá hablemos más tarde.}
@@ -77,7 +77,7 @@
 {157}{}{Vamos a hablar del pago, ¿no?}
 {158}{}{Porque... ¿qué mejor lugar para predicar que aquel que más lo necesita?}
 {159}{}{Supongo que tienes razón. ¿Quién eres?}
-{160}{}{¡Testifica, hermano! ¡Difunde la palabra!}
+{160}{}{¡Testifica, hermana! ¡Difunde la palabra!}
 {161}{}{¡Exacto! Esta ciudad está construida sobre el pecado y la esclavitud y necesita la fortaleza de los justos para
  solucionarlo!}
 {162}{}{Eh... cierto. Bueno, ha estado bien hablar contigo. Adiós.}
@@ -91,7 +91,7 @@
 {168}{}{Eh... no es eso. Camina con cuidado por el Yermo, mi sencillo
  amigo.}
 {169}{}{Urf}
-{170}{}{Así que, amigo, ¿lo has reconsiderado?}
+{170}{}{Así que, amiga, ¿lo has reconsiderado?}
 {171}{}{He reconsiderado que quizá valga un montón de dinero el que yo guarde tu secreto. ¿Lo pillas?}
 {172}{}{He visto la luz, hermano... ¿qué he de hacer?}
 {173}{}{No, lo siento. Buenos días.}
@@ -99,8 +99,8 @@
 {175}{}{... el maletín a Bishop? Bueno, LO INTENTÉ, pero leyó esta pequeña nota que dejaste en el maletín
  e intentó MATARME. Muy gracioso, ¿no? Espero que estés preparado para morir, Moore.}
 {176}{}{Lo hice, pero he vuelto para llenarte de agujeros y cubrir después tu cuerpo bajo una fina capa de tierra.}
-{177}{}{Sigue atento. Adiós.}
-{178}{}{¡Ah! ¡Bienvenido de nuevo, compañero buscador de la verdad! ¿Cómo puedo ayudarte en este día?}
+{177}{}{Sigue atenta. Adiós.}
+{178}{}{¡Ah! ¡Bienvenida de nuevo, compañera buscadora de la verdad! ¿Cómo puedo ayudarte en este día?}
 {179}{}{¿Qué sabes de la RNC?}
 {180}{}{Tenía una pregunta: ¿Por qué Ciudad Refugio tiene esclavos? Había oído que era una ciudad libre.}
 {181}{}{¡Quiero escuchar la palabra, hermano!}
@@ -146,7 +146,7 @@
 {215}{}{¡Mi corazón estaba roto por pensar en la inhumanidad del hombre hacia el hombre!}
 {216}{}{De acuerdo entonces. }
 {217}{}{¡Hola de nuevo, compañero peregrino! ¡Entregaste la información que te pedí?}
-{218}{}{¡Hola de nuevo, compañero peregrino! ¿Cómo puedo ayudarte hoy?}
+{218}{}{¡Hola de nuevo, compañera peregrina! ¿Cómo puedo ayudarte hoy?}
 {219}{}{Corta el rollo, "machote". Lo sé todo sobre ti y tus "amigos" de la RNC.}
 {220}{}{¿Por qué trabajarías para la RNC? Pensaba que eras un hombre de honor.}
 {221}{}{Sí... mira, Bishop dijo que trabajaste para la RNC. ¿Eso es verdad?}

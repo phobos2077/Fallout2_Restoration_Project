@@ -18,7 +18,7 @@
 {159}{}{¡Ya me duele bastante la cabeza!}
 {160}{}{Déjame tranquilo.}
 {200}{}{Guau, tienes un extraño resplandor oscuro.}
-{201}{}{Oh, eres un grandullón.}
+{201}{}{Oh, eres una grandullona.}
 {202}{}{No les digas que lo que tú y yo sabemos no está aquí.}
 {203}{}{Ahhh…}
 {204}{}{¿Puedes verme?}
@@ -31,7 +31,7 @@
 {211}{}{Justo ahí, cariño.}
 {212}{}{Oooohhh, ¿puedes sentir el poder?}
 {213}{}{Guau, estás brillando…}
-{214}{}{¡Te quiero, tío!}
+{214}{}{¡Te quiero, tía!}
 {215}{}{La vida se ha portado bien conmigo. ¿Y contigo?}
 {216}{}{Las pequeñas vuelan por la noche.}
 {217}{}{Dile hola a mi amiguito.}
@@ -47,7 +47,7 @@
 {227}{}{No puedo esperar, lo necesito ahora.}
 {228}{}{¿Has cogido tú mi mierda?}
 {229}{}{Ah, déjame en paz.}
-{230}{}{Tengo tembleques gordos, tío.}
+{230}{}{Tengo tembleques gordos, tía.}
 {231}{}{Odio esta parte.}
 {232}{}{Me quiero morir.}
 {233}{}{Necesito más.}
@@ -70,7 +70,7 @@
 {352}{}{¡Tengo el poder!}
 {353}{}{Hola, señora Flor.}
 {354}{}{Cuántos colores…}
-{355}{}{Amigo, ¿ves ese cielo?}
+{355}{}{Amiga, ¿ves ese cielo?}
 {356}{}{Ellos están escuchándonos…}
 {357}{}{¿Dónde estoy?}
 {358}{}{¡Allí está!}

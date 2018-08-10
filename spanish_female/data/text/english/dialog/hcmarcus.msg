@@ -52,7 +52,7 @@
 {151}{mcs15b}{Bueno, estoy un poco preocupado por uno de los tipos de las caravanas. Chad. Puede que esté sisando. ¿Podrías comprobarlo por mí?}
 {152}{}{¿Qué hay para mí?}
 {153}{}{Desde luego. Lo haré.}
-{154}{}{Estoy un poco ocupado.}
+{154}{}{Estoy un poco ocupada.}
 {155}{}{¿No tienes alguna otra cosa?}
 {156}{mcs16}{Mi más profunda gratitud. ¿De acuerdo?}
 {157}{}{Suficiente para mí.}
@@ -154,7 +154,7 @@
 {253}{mcs43}{No hay problema. Como he dicho, eso sucedió hace mucho tiempo.}
 {254}{}{No te tengo miedo.}
 {255}{}{¿Por qué odiabas a lo humanos en aquel entonces?}
-{256}{mcs44}{No hay razón para ello, a menos que te pases conmigo o con alguien de mi ciudad. Sé civilizado, eso es todo lo que pido.}
+{256}{mcs44}{No hay razón para ello, a menos que te pases conmigo o con alguien de mi ciudad. Sé civilizada, eso es todo lo que pido.}
 {257}{}{Lo tendré en cuenta. Tengo más preguntas.}
 {258}{}{Lo tendré en cuenta. Adiós.}
 {259}{mcs45}{Déjame dejarte algo muy claro: no va a suceder nada a menos que tú lo empieces. Simplemente compórtate de forma civilizada mientras estás en mi ciudad.}
@@ -175,7 +175,7 @@
 {274}{}{Oye, he encontrado algo.}
 {275}{}{No aprendí nada.}
 {276}{mcs103a}{Demasiada gente. Ya estuve viajando con una horda.}
-{277}{mcs103b}{Pensé que eras uno de los buenos. No te acompaño.}
+{277}{mcs103b}{Pensé que eras una de las buenas. No te acompaño.}
 {278}{mcs103c}{Ahora mismo no te acompaño. Lo siento [te mira de arriba abajo con desagrado].}
 {279}{}{Está bien. }
 {280}{}{Eso me asusta de cojones.}

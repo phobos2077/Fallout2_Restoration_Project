@@ -9,9 +9,9 @@
 {161}{}{*Hola, guapo*.}
 {162}{}{*Pon una ficha, tira del brazo. Será bueno para ti.*}
 {163}{}{*Tick…Tick…Tiiiiick…*}
-{164}{}{*Hola, hermosura. Ven a jugar un rato conmigo*.}
-{165}{}{*Hola, hermosura*.}
-{166}{}{*Mira qué cosita tan guapa. ¿Por qué no vienes a jugar conmigo?*}
+{164}{}{*Hola, preciosa. Ven un segundo a jugar conmigo.*}
+{165}{}{*Hola, preciosa.*}
+{166}{}{*Qué cosita más preciosa. ¿Por qué no vienes a jugar conmigo?*}
 {175}{}{*Ding*}
 {176}{}{*Bing*}
 {177}{}{*Kaaa-ching*}
@@ -22,14 +22,14 @@
 {186}{}{Yo }
 {187}{}{ quién tú}
 {188}{}{Quiero a MAMÁ. }
-{189}{}{ extraño ARR-YO. Quiero ir a casa.}
+{189}{}{ extraña ARRO-YO. Quiero irme a mi casita.}
 {190}{}{Le estrechas la mano.}
 {191}{}{eres mutante raro.}
 {192}{}{¡Alabemos el Refugio! ¡Alabemos el Refugio!}
 {193}{}{¿Eres un chip de agua?}
 {194}{}{Te alejas, buscando otras cosas brillantes.}
 {195}{}{Te marchas.}
-{205}{}{La rara caja de metal dorado con tres ojos y un brazo no contesta.}
+{205}{}{La extraña caja de metal dorado con tres ojos y un brazo no contesta.}
 {206}{}{YO }
 {207}{}{ CONTESTA A MI.}
 {208}{}{Le estrechas la mano.}
@@ -91,8 +91,8 @@
 {296}{}{ fichas. ¿Sigues jugando?}
 {297}{}{Lo dejas para otra noche.}
 {298}{}{Lo dejas para otro día.}
-{305}{}{(Ves una máquina tragaperras. Su estructura brillante y su palanca dorada resplandecen seductoramente bajo las luces de Nuevo Reno. Su ranura para las monedas te atrae, y sientes cómo te ruborizas por la expectación. Mientras la miras, te guiña uno de sus tres ojos. Escuchas una voz grave susurrando desde la ranura para monedas). *¡Vaya, vaya! Hoooola, cielo. ¿Le harás pasar a esta nena un buen rato?*}
-{306}{}{(Ves una máquina tragaperras. Su fuerte y tosca estructura y su palanca dorada brillan como el sol bajo las luces de Nuevo Reno. Su ranura para las monedas te atrae seductoramente, y sientes que los muslos te arden por la excitación. Mientras la miras, de repente una fuerte voz masculina susurra desde la ranura para monedas). *Jamás he visto a una mujer tan hermosa como tú antes, señorita. ¿Quieres una oportunidad conmigo?*}
+{305}{}{(Ves una máquina tragaperras. Su brillante carcasa y dorada palanca resplandecen seductoramente bajo las luces de Nuevo Reno. Su ranura para monedas te atrae, y sientes que tu cara se ruboriza por las expectativas. Mientras te acercas, una de sus tres ventanitas te guiña un ojo. De la ranura para monedas escuchas una voz gutural). *¡Vaya, vaya! Hooooola, dulzura. ¿Le ofrecerás a una chica pasar un buen rato?*}
+{306}{}{(Ves una máquina tragaperras. Su fuerte y dura carcasa y su dorada palanca resplandecen seductoramente bajo las luces de Nuevo Reno. Su ranura para monedas te atrae, y sientes que tus muslos arden por las expectativas. Al acercarte, surge de repente el susurro de una fuerte voz masculina desde la ranura para las monedas). *No había visto antes por aquí a una mujer tan hermosa como tú. ¿Quieres una oportunidad?*}
 {307}{}{::Te pellizcas::}
 {308}{}{Uh… ¿hola?}
 {309}{}{::Respiras profundamente, y te vas.::}
@@ -108,8 +108,8 @@
 {328}{}{Cl-laro que har-ré una apuesssta}
 {329}{}{Creo que será mejor que me marche antes de que te meta algo que lamentaré más tarde.}
 {330}{}{::Respiras profundamente, y te vas.::}
-{335}{}{*Por supuesto que puedo, cielo, por supuesto que puedo*. (La máquina parece comprensiva). *¿Que le preocupa a tu cabecita?*}
-{336}{}{*Por supuesto que puedo, cielo, por supuesto que puedo*. (La máquina parece comprensiva). *¿Qué te preocupa, guapetón?*}
+{335}{}{*Claro que podemos, cariño, claro que podemos*. (La máquina tragaperras parece comprensiva). *¿Qué problema ronda tu preciosa cabecita?*}
+{336}{}{*Claro que podemos, dulzura, claro que podemos*. (La máquina tragaperras parece comprensiva). *¿Qué problema tienes, guapo?*}
 {337}{}{Hecho de menos a MAMÁ y a ARROYO y… no puedo encontrar el GECK y… *sniff*}
 {338}{}{Hecho de menos a MAMÁ y Arroyo fue ATACADO y… no sé dónde están… y… *sniff*}
 {339}{}{Tengo que arreglar el gran barco… y no sé CÓMO… y m-m-mi MAMÁ se ha IDO y… *sniff*}
@@ -125,7 +125,7 @@
 {354}{}{::Respiras profundamente, y te vas.::}
 {360}{}{(Reposas tu cansada cabeza sobre la máquina).}
 {361}{}{*¿Seguro que estarás bien, cariño? No me siento cómoda dejando que te vayas solo cuando estás así*.}
-{362}{}{*¿Estarás bien, cielo? No me siento cómoda dejando que te vayas solo cuando estás así*.}
+{362}{}{*¿Estarás bien, dulzura? No me siento cómoda dejándote ir sólo cuando estás así.*}
 {363}{}{Esssstaré bdien… grac-cias por hablar con-nmigo, m-m-máquina te quieeeeeero}
 {370}{}{(Una lágrima parece formarse en una de las ventanitas).}
 {371}{}{*Eres la única heroína que tenemos en este mundo binario de bastardos y ladrones, }

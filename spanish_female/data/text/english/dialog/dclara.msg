@@ -16,13 +16,13 @@
 {240}{}{Si no has venido a La Guarida por ninguna razón en particular deberías irte. Este no es un lugar muy seguro.}
 {241}{}{Oh, vale.}
 {242}{}{¿Tienes trabajo?}
-{243}{}{Puedo arreglármelas solo.}
+{243}{}{Puedo arreglármelas sola.}
 {244}{}{Vale, gracias.}
-{250}{}{No lo dudo. De otro modo, seguramente no hubieras llegado vivo aquí.}
+{250}{}{No lo dudo. De otro modo, seguramente no hubieras llegado viva aquí.}
 {251}{}{Uh, sí, eso he oído. Lo que tú digas.}
 {252}{}{¿Tienes trabajo?}
 {253}{}{Vale, gracias.}
-{260}{}{Bueno, depende de si eres bueno en algo. Hay un tema sobre el que tengo curiosidad. Si puedes averiguarlo, te pagaré.}
+{260}{}{Bueno, depende de si eres buena en algo. Hay un tema sobre el que tengo curiosidad. Si puedes averiguar algo, te pagaré.}
 {261}{}{Como he dicho, busco información sobre cierto objeto... o lugar. Te pagaré, por supuesto.}
 {262}{}{Claro, ¿sobre qué?}
 {263}{}{Quizá más tarde.}
@@ -94,7 +94,7 @@
 {480}{}{¡Excelente! Dejarán a muy poca gente. Debería ser una buena ocasión. Nos ocuparemos de la gente de la fiesta después de atacar la iglesia.}
 {481}{}{¿Y mi dinero?}
 {490}{}{Todavía no, Tendrás que venir con nosotros si quieres tu dinero. No tendrás que luchar, pero es para estar seguros de que no es una trampa. Te daremos 300 dólares en total.}
-{491}{}{¿Tas lista?}
+{491}{}{¿Estás lista?}
 {492}{}{Vale, hagámoslo.}
 {493}{}{Dame un momento para prepararme.}
 {494}{}{De ninguna manera. ¡Guárdate tu dinero!}
@@ -102,7 +102,7 @@
 {501}{}{De acuerdo.}
 {510}{}{No tienes que luchar. Es dinero fácil.}
 {511}{}{Bien, ¿has cambiado de idea?}
-{512}{}{Vamos. Estoy listo.}
+{512}{}{Vamos. Estoy lista.}
 {513}{}{Vale, volveré.}
 {514}{}{No.}
 {515}{}{B-bueno.}
@@ -123,7 +123,7 @@
 {543}{}{¿Qué será ahora de La Guarida? Quizás vayamos a mejor.}
 {544}{}{Esto podría ser lo mejor para todos.}
 {550}{}{¡Bastardo!}
-{551}{}{¡Cabrón!}
+{551}{}{¡Puta!}
 {560}{}{Gracias. Aquí está tu dinero y 100 dólares extra.}
 {570}{}{¿Has matado a Tyler y sus guardias? ¿Y ahora cómo vamos a mostrarle nuestra valía a Metzger? Ahora nunca nos contratará. Era nuestra única oportunidad.}
 {571}{}{No tenemos trabajo. Alguien mató a los guardias de Metzger y ahora no quiere hablarnos. Piensa que fuimos nosotros. Oh, vaya.}

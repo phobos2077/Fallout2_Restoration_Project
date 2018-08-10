@@ -102,7 +102,7 @@
 {174}{}{Esas son palabras ofensivas por aquí. ¿Estás listo para respaldarlas?}
 {175}{}{Sí, lo estoy. Has abierto la bocaza demasiadas veces ya. Desenfunda… peregrino.}
 {176}{}{Podría, si pensase que el matarte me daría satisfacción suficiente para pagar la munición que gastaría.}
-{177}{}{Podría, si quisiera hacerlo. Pero estoy demasiado ocupado como para encargarme de ti ahora mismo.}
+{177}{}{Podría, si quisiera hacerlo. Pero estoy demasiado ocupada como para encargarme de ti ahora mismo.}
 {178}{}{Sí, eso es lo que pensé (pausa). Eres un gallina.}
 {179}{}{Yo te enseñaré quién es un gallina... cuando te deshueve. Sal afuera.}
 {180}{}{Eso lo veremos, algún día. Adiós por ahora.}
@@ -127,7 +127,7 @@
 {196}{}{¿Te refieres a todo ese tema sobre la puta a la que rajaron?}
 {197}{}{¿Te refieres a la pelea de bar que solucioné?}
 {198}{}{Soy de naturaleza activa, supongo. Deja que te pregunte algo más.}
-{199}{}{No estoy seguro de lo que quieres decir, pero no tengo tiempo para averiguarlo ahora mismo. Adiós.}
+{199}{}{No estoy segura de lo que quieres decir, pero no tengo tiempo para averiguarlo ahora mismo. Adiós.}
 {200}{}{Sí, me refiero al chip de excavación que le vendiste a Marge LeBarge en la mina Kokoweef. Ese
  fue todo un error... no sólo para mí, sino para Redding.}
 {201}{}{¿Qué quieres decir con eso?}

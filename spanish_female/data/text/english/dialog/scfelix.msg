@@ -1,7 +1,7 @@
 {100}{}{Ves a un hombre vestido con ropa de cuero y un arma oculta.}
 {101}{}{Es Felix, el capataz del rancho.}
 {102}{}{Parece un tipo más frío y duro que el resto del lote que ronda por aquí.}
-{103}{}{¿Qué puedo hacer por ti, extranjero?}
+{103}{}{¿Qué puedo hacer por ti, forastera?}
 {104}{}{¿Otra vez tú?}
 {105}{}{Nyeh.}
 {106}{}{El sheriff me dijo que me pasara por aquí: dijo que el señor Westin podría tener un trabajo para mí.}
@@ -9,7 +9,7 @@
 {108}{}{Estoy buscando trabajo.}
 {109}{}{Estoy buscando el Refugio 13.}
 {110}{}{Sólo estaba mirando.}
-{111}{}{Genial, otro idiota. ¿Supongo que quieres ver al jefe?}
+{111}{}{Genial, otra idiota. ¿Supongo que quieres ver al jefe?}
 {112}{}{Uh-huh.}
 {113}{}{Nooo.}
 {114}{}{Bien. Pasa dentro.}
@@ -20,7 +20,7 @@
 {119}{}{Estoy buscando el Refugio 13.}
 {120}{}{¿Qué pasa si digo que Bishop en Nuevo Reno me envió para matarlo?}
 {121}{}{Uh, no.}
-{122}{}{¡Ja! Otro pirado. Debes ir a hablar con Trampero. Él y tú os llevaríais bien.}
+{122}{}{¡Ja! Otra pirada. Debes ir a hablar con Trampero. Él y tú os llevaríais bien.}
 {123}{}{¿Quién?}
 {124}{}{Me voy de aquí.}
 {125}{}{Bob el Trampero: en los establos. El señor Westin le deja estar ahí. Y ahora deja de hacerme perder el tiempo.}
@@ -46,4 +46,4 @@
 {145}{}{El señor Westin te está esperando.}
 {146}{}{Bueno, estábamos teniendo un problema con unas alimañas, pero dejaron de fastidiarnos. Puedes ver a Westin si quieres.}
 {147}{}{Estoy aquí por negocios de Ciudad Refugio.}
-{500}{}{Toca esa puerta otra vez y lo pagarás. ¿Lo captas, amigo?}
+{500}{}{Toca esa puerta otra vez y lo pagarás. ¿Lo captas, amiga?}

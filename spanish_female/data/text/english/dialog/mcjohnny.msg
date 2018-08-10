@@ -4,7 +4,7 @@
 {150}{}{¡Buaaaaa!}
 {151}{}{¡Quiero mi perro!}
 {152}{}{Suspiro… }
-{153}{}{¡Extraño!}
+{153}{}{¡Una extraña!}
 {154}{}{¡Laddie! Te he echado de menos, chico. Gracias por traerme de vuelta a mi perro.}
 {155}{}{Hola, no te he visto por aquí antes.}
 {156}{}{¿Te llamas Jonny?}
@@ -30,7 +30,7 @@
 {176}{}{.}
 {177}{}{Mi nombre no es lo importante.}
 {178}{}{Me llamo Jonny, y no me gustas.}
-{179}{}{[Te señala y comienza a gritar]. ¡Extraño! ¡Extraño! ¡Extraño!}
+{179}{}{[Te señala y comienza a gritar]. ¡Extraña! ¡Extraña! ¡Extraña!}
 {180}{}{Encantado de conocerte, }
 {181}{}{Tu madre y tu padre me han enviado a buscarte.}
 {182}{}{Ya nos veremos, chico.}

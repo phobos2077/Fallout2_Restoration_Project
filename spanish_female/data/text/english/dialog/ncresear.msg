@@ -18,7 +18,7 @@
 {224}{}{Es la quinta vez que el número 12 ha tenido convulsiones… aumentad la dosis, a ver qué pasa…}
 {225}{}{Bien, ¿qué TIPO de alucinaciones estaba teniendo?}
 {226}{}{Comprueba el pulso de aquel. Si aún está dentro de los límites tolerables, aumenta la dosis.}
-{227}{}{¿Por qué se suicidó la esclava del grupo de control? ¡Ni siquiera estábamos haciendo pruebas con ella!}
+{227}{}{¿Por qué la esclava del grupo de control se suicidó? ¡Ni siquiera hacíamos pruebas con ella!}
 {228}{}{Los malditos guardias se tendrían que preocupar de sus propios traseros…}
 {235}{}{Hola, Myron, señor. Las pruebas continúan según lo programado.}
 {236}{}{Myron, señor, esta nueva cepa de Jet es extremadamente adictiva. Los esclavos casi están dispuestos a matarse por ella.}
@@ -40,27 +40,27 @@
 {255}{}{Te alejas}
 {256}{}{¿Quién eres?}
 {257}{}{Lo siento, pensé que eras otra mujer calva con un portapapeles. Tengo que irme.}
-{265}{}{(La mujer levanta la vista y te mira). ¿Eres uno de los sujetos de control? Bueno, como si importase... ¡Guardias! ¡Detened a este esclavo!}
-{266}{}{¿Dónde esclavo? No veo uno yo.}
+{265}{}{(La mujer levanta la vista y te mira). ¿Eres una de los sujetos de control? Bueno, como si importase... ¡Guardias! ¡Detened a esta esclava!}
+{266}{}{¿Dónde esclava? No veo una yo.}
 {275}{}{Oye, estoy MUY ocupada, así que si no te importa… [Levanta la vista de su portapapeles, y frunce el ceño]. ¿Quién ERES? ¿Cómo has entrado aquí?}
 {276}{}{Oye, estoy MUY ocupada, así que si no te importa… [Levanta la vista de su portapapeles, y frunce el ceño]. ¿Otra vez tú? ¿Qué quieres ahora?}
 {277}{}{La puerta de tu establo está abierta. Je je… ¿lo pillas? Desternillante.}
-{278}{}{Soy nuevo y me han asignado aquí.}
+{278}{}{Soy nueva y me han asignado aquí.}
 {279}{}{Estoy buscando a Myron. ¿Está por aquí?}
 {280}{}{¿Son resultados de pruebas lo que tienes en ese portapapeles? ¿Puedo verlos?}
 {282}{}{No importa. Lamento molestarte.}
 {295}{}{Esta zona no está abierta a … visitantes. Márchate o llamaré a los guardias.}
 {296}{}{Pero oye, tenía unas preguntas que hacerte…}
-{298}{}{¿Son resultados de pruebas lo que tienes en ese portapapeles? ¿Puedo verlos? Yo soy una especie de investigador.}
+{298}{}{¿Son resultados de pruebas lo que tienes en ese portapapeles? ¿Puedo verlos? Yo soy una especie de investigadora.}
 {300}{}{Muy bien. Lamento haberte molestado.}
 {310}{}{¡Guardias! ¡Guardias, detened a esta persona!}
 {315}{}{MÁS guardias. ¡Ja! Como si sirvieran para algo… verás, DEBERÍAS haber recibido instrucciones de quienquiera que te haya enviado aquí. Habla
  con los demás guardias para que te otorguen un puesto. Ahora vete.}
-{316}{}{No soy un guardia; soy uno de los nuevos investigadores. ¿Tienes una tarea para mí?}
+{316}{}{No soy un guardia; soy una de los nuevos investigadores. ¿Tienes una tarea para mí?}
 {317}{}{Perdona, pero esperaba que TÚ me enseñases la zona. Te he visto aquí de pie y me he sentido
  OBLIGADO a hablar contigo. ¿Quizá después del paseo podamos cenar…?}
 {318}{}{Gracias. Has sido de mucha ayuda.}
-{325}{}{¿Eres un INVESTIGADOR...? Hmmmm. No te había visto antes. ¿Qué sabes acerca de la investigación farmacológica?}
+{325}{}{¿Eres una INVESTIGADORA...? Hmmmm. No te había visto antes. ¿Qué sabes acerca de la investigación farmacológica?}
 {326}{}{Eh, lo suficiente. Tú sólo siéntate y mira cómo me voy.}
 {327}{}{Sé bastante sobre la composición y manufactura de compuestos con base neuroquímica, y creo que
  podría ser de ayuda en tus investigaciones.}

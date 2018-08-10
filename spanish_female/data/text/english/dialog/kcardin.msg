@@ -19,7 +19,7 @@
 {161}{}{Oh, bien, lo haré. Ahora, si no le importa, me gustaría información sobre otro asunto.}
 {162}{}{Bien, hablaré con ella. Adiós.}
 {170}{}{Será mejor que no intentes hacer ninguna jugarreta. ¿Qué es lo que quieres?}
-{171}{}{Como puedo ayudarte, ¿amigo?}
+{171}{}{Como puedo ayudarte, ¿amiga?}
 {172}{}{Hábleme de Smiley, el trampero.}
 {173}{}{Me preguntaba si es usted con quien debería hablar para ponerme al día de los asuntos locales.}
 {174}{}{Necesito una habitación, por favor.}
@@ -37,7 +37,7 @@
 {203}{}{Ahora mismo no la quiero. Déjeme preguntarle otra cosa.}
 {204}{}{Después de todo, no creo que necesite la habitación. Adiós.}
 {210}{}{Me temo que ahora mismo no tienes suficiente dinero.}
-{211}{}{Oh. Supongo que estoy un poco corto de dinero ahora mismo. Déjeme preguntarle otra cosa.}
+{211}{}{Oh. Supongo que estoy un poco corta de dinero ahora mismo. Déjeme preguntarle otra cosa.}
 {212}{}{Lo siento. Será mejor que vaya a buscar más dinero. Adiós.}
 {220}{}{Gracias. Soy tan feliz de que hayas encontrado a mi chico. Creía que nunca volveríamos a verle.}
 {221}{}{Torr amigo.}
@@ -52,7 +52,7 @@
 {236}{}{. ¿Sulik amigo?}
 {240}{}{Le diré a Maida que se ocupe del asunto de Sulik. Aunque quizás quieras hablar con ella.}
 {241}{}{Maida libera Sulik. Maida amiga de }
-{242}{}{Gracias. Estoy seguro de que Sulik le agradecerá que cancele su deuda. Hablaré con Maida sobre ello. Adiós.}
+{242}{}{Gracias. Estoy segura de que Sulik le agradecerá que cancele su deuda. Hablaré con Maida sobre ello. Adiós.}
 {243}{}{Me alegro de que no necesite más a Sulik. Hay algo que quiero preguntarle.}
 {244}{}{ mucho.}
 {250}{}{No tengo mucho, pero aquí hay 100 dólares. Ojala pudiera darte más, pero con todos los brahmines que hemos perdido es lo más que puedo permitirme. Lo siento.}
@@ -82,7 +82,7 @@
 {321}{}{Torr en cañón. }
 {322}{}{No busco Torr.}
 {323}{}{Parece que ese cañón puede ser un buen sitio para empezar a buscar. Encontraré a su hijo, señora Buckner.}
-{324}{}{Me encantaría ayudar... si no estuviera tan ocupado. Seguro que Torr estará bien. Adiós.}
+{324}{}{Me encantaría ayudar... si no estuviera tan ocupada. Seguro que Torr estará bien. Adiós.}
 {325}{}{ busca a Torr.}
 {330}{}{Bueno, él la llamó así. Me dijo que creía saber de donde venían los geckos dorados, y quería asegurarse. Dijo que podría ser alguna clase de pozo, o quizás una cueva o un refugio.}
 {331}{}{Hmmm.}
@@ -139,7 +139,7 @@
 {520}{}{Ha sido de mucha ayuda. Gracias.}
 {530}{}{Tan sólo me preguntaba que está ocurriendo aquí.}
 {540}{}{I found more proof in the Dunton case.}
-{600}{}{Eres maravilloso.}
+{600}{}{Eres maravillosa.}
 {610}{}{Eres increíble. Me has devuelto a mi hijo Torr y a mi Smiley. Nunca podré agradecértelo lo suficiente.}
 {620}{}{Has encontrado a mi hijo Torr. Muchas gracias.}
 {630}{}{Tú eres el que ha encontrado a mi Smiley. Gracias, muchísimas gracias.}

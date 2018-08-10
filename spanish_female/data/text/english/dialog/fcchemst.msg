@@ -7,7 +7,7 @@
 {106}{}{Soy }
 {107}{}{Nadie que te importe.}
 {108}{}{Nada. Ya me voy.}
-{109}{}{No puedes estar aquí si eres un imbécil. Márchate corriendo, antes de que llame a los guardias.}
+{109}{}{No puedes estar aquí si eres una imbécil. Márchate corriendo, antes de que llame a los guardias.}
 {110}{}{Realmente no me entiendes, ¿verdad? Tal vez entenderás a la guardia. ¡Guardias! ¡Un intruso!}
 {111}{}{[HECHO]}
 {112}{}{Soy Jing Tie Gahng. Estoy a cargo del laboratorio químico del Palacio de Acero... y tú estás interrumpiendo un trabajo importante. Por favor, márchate. AHORA... antes de que llame a los guardias.}
@@ -55,7 +55,7 @@
 {154}{}{¿Te la quieres quedar? Muy bien. Si cambias de opinión, házmelo saber.}
 {155}{}{Lo haré. Adiós.}
 {156}{}{Es poco probable. Adiós.}
-{157}{}{¡Guardias! ¡Guardias! ¡El forastero ha vuelto! ¡Matadlo! }
+{157}{}{¡Guardias! ¡Guardias! ¡La forastera ha vuelto! ¡Matadla! }
 {158}{}{¿Has hablado con ese Hubologista que se llama a sí mismo Crocket, y conseguido la armadura?}
 {159}{}{No, aún no.}
 {160}{}{¿Entonces por qué vuelves aquí a molestarme?}

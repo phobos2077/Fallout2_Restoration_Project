@@ -9,7 +9,7 @@
 {108}{}{Flirtearía contigo, pero es que no estoy interesada.}
 {109}{}{::con sarcasmo:: Seguro que hay un montón de mujeres fuertes por aquí, ¿eh?}
 {110}{}{¿Esperas que caiga rendida a tus pies? Despierta.}
-{111}{}{¡Soy único! ¡Igual que los demás!}
+{111}{}{¡Soy única! ¡Al igual que todos los demás!}
 {112}{}{A veces el hastiado cinismo del mundo me aburre.}
 {113}{}{La próxima vez, quiero encontrarme con una tribu de góticos.}
 {114}{}{He oído que el Emperador Shi es inhumanamente inteligente.}
@@ -23,12 +23,12 @@
 {122}{}{Me sorprende que puedas caminar después de lo que hizo Francis.}
 {123}{}{Imagino que aún seguirás sangrando después de lo de Francis.}
 {124}{}{No puedo creer que fueras incapaz de ayudar a Chip.}
-{125}{}{Bastardo egoísta. Apostaría a que Chip tu hubiera ayudado.}
+{125}{}{Zorra egoísta. Apostaría a que Chip tu hubiera ayudado.}
 {126}{}{A todo el mundo le gustaba Chip. Tú no le gustas a nadie.}
-{127}{}{Eres un pedazo de gilipollas, ¿verdad?}
-{128}{}{¿Alguna vez piensas en alguien que no seas tú mismo?}
-{129}{}{Oh, mira, es el "héroe".}
-{130}{}{¡Oíd todos! ¡Es el cabrón egoísta!}
+{127}{}{Eres una pedazo de gilipollas, ¿verdad?}
+{128}{}{¿Alguna vez piensas en alguien que no seas tú misma?}
+{129}{}{Oh, mira, es la "heroína".}
+{130}{}{¡Oid todos! ¡Es la zorra egoísta!}
 {131}{}{Oh, ¿otra vez tú? Como si todo el mundo quisiera hablar contigo.}
 {132}{}{¡Odias a Chip!}
 {133}{}{Mala suerte con lo del bazo.}
@@ -43,7 +43,7 @@
 {142}{}{¡Yay! ¡Ahora puedo tener a Chip y a su bazo!}
 {143}{}{¡Voy a ver a Chip ahora mismo!}
 {144}{}{¡Chip es el mejor!}
-{145}{}{Me gustas. Eres bueno.}
+{145}{}{Me gustas. Eres buena.}
 {146}{}{Estoy contenta por Chip.}
 {147}{}{Chip está completo ahora.}
 {148}{}{¿Quieres pasar un buen rato con Chip y conmigo?}
@@ -83,12 +83,12 @@
 {182}{}{Badger parecía salido de un cuento de hadas.}
 {183}{}{Gilipollas. ¿Por qué le mataste?}
 {184}{}{¿Crees que vamos a unirnos a los Hubologistas ahora?}
-{185}{}{Estúpido, estúpido títere.}
+{185}{}{Estúpida, estúpida títere.}
 {186}{}{Los Hubologistas también te van a engañar a ti.}
 {187}{}{¡Vete al infierno! ¡Vete al infierno y púdrete!}
 {188}{}{Te odio.}
 {189}{}{Apestas.}
 {190}{}{¡Oveja ovejita ovejita!}
-{191}{}{¡Cultista loco!}
+{191}{}{¡Cultista loca!}
 {192}{}{Supongo que algunas personas son estúpidas desde que nacen.}
-{193}{}{¡Vaya! ¡Es el idiota que no puede hablar consigo mismo!}
+{193}{}{¡Vaya! ¡Es la idiota que no puede hablar consigo misma!}

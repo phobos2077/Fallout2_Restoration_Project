@@ -873,7 +873,7 @@
 {973}{}{Zona del Ayuntamiento de Ciudad Refugio}
 {974}{}{Purificador de aire}
 {975}{}{Rocas}
-{976}{}{Jugador}
+{976}{}{Jugadora}
 {977}{}{Spatial Script}
 {978}{}{SCCheat}
 {979}{}{Prisionero}
@@ -903,7 +903,7 @@
 {1003}{}{Caja}
 {1004}{}{Derek}
 {1005}{}{Amigo de Tubby}
-{1006}{}{Jugador}
+{1006}{}{Jugadora}
 {1007}{}{Esclavo}
 {1008}{}{Guardia}
 {1009}{}{Esclavista}

@@ -18,7 +18,7 @@
 {117}{}{¡Tu dinero no es bueno aquí! ¡Vete ahora!}
 {118}{}{¡Vete ahora!}
 {119}{}{¿No te gusta luchar? Mai Da Chiang tiene armas para ti!}
-{120}{}{Eres un amante y no un luchador, ¿eh?}
+{120}{}{Eres una amante y no una luchadora, ¿eh?}
 {121}{}{¡Hey, saltamontes!}
 {122}{}{¡Ven a comprar pulpo! ¡Muy sabroso!}
 {123}{}{¿Te gusta el pescado? ¡Tenemos pescado!}
@@ -32,7 +32,7 @@
 {131}{}{Tenemos pescado, tenemos algas, tenemos arroz, tenemos... umm...}
 {132}{}{¡Por aquí no crece gran cosa, pero lo que lo hace, lo tenemos a la venta!}
 {133}{}{¡Tenemos rebajas por consejero muerto!}
-{134}{}{Amigo... ¿el nuevo líder traerá nuevos impuestos?}
+{134}{}{Amiga... ¿el nuevo líder traerá nuevos impuestos?}
 {135}{}{Pobre Ken Lee.}
 {136}{}{Ciudad-Shi no volverá a ser la misma sin el viejo Ken Lee.}
 {137}{}{¿Te gusta el pescado? ¡Tenemos pescado!}

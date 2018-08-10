@@ -8,7 +8,7 @@
 {106}{}{Hola, colega. ¿Quién eres tú?}
 {107}{}{¿Qué se puede hacer en este lugar?}
 {108}{}{¿Estás listo para un pulso, señor Pectorales Férreos?}
-{109}{}{Amigo, no tengo ni idea de lo que estás intentando decir. Lo siento.}
+{109}{}{Amiga, no tengo ni idea de lo que estás intentando decir. Lo siento.}
 {110}{}{Soy Francis. Soy el campeón de pulso de esta ciudad. Mantengo la apuesta de que nadie puede vencerme.}
 {111}{}{Soy Francis, ¿recuerdas? ¿El campeón de pulso de la ciudad? Tengo una apuesta en marcha de que nadie puede vencerme.}
 {112}{}{¡Yo te gano! ¡Yo! ¡Yo!}
@@ -23,7 +23,7 @@
 {121}{}{No, me limito a pensar en mi salud.}
 {122}{}{Umm, no.}
 {123}{}{Por supuesto que puedo.}
-{124}{}{[contempla tu tamaño y calibra tu musculatura] Creo que no, amigo. No sería más que una pérdida de tiempo. Vete a la mierda.}
+{124}{}{[contempla tu tamaño y calibra tu musculatura] Creo que no, amiga. No sería más que una pérdida de tiempo. Vete a la mierda.}
 {125}{}{¿Crees que podrías, ¿eh? Muy bien. Si ganas, consigues este puño de combate. Si yo gano, serás mi esclavo por una noche. ¿Quieres hacerlo ahora, o te gustaría tomarte tu tiempo para descansar?}
 {126}{}{¡Descanso! ¡Descanso!}
 {127}{}{Ahora. ¡Hacemos ahora!}
@@ -43,7 +43,7 @@
 {141}{}{Echándote atrás, ¿eh? Cobarde. Ya me lo imaginaba.}
 {142}{}{Está bien, está bien, lo haré.}
 {143}{}{Sí, lo que sea. Nos vemos.}
-{144}{}{En fin, amigo, es la primera vez que alguien me ha vencido en un combate justo. Tú ganas. Toma esto. Bien hecho.}
+{144}{}{En fin, amiga, es la primera vez que alguien me ha vencido en un combate justo. Tú ganas. Toma esto. Bien hecho.}
 {145}{}{Has perdido. No ha sido una gran sorpresa. Es hora de que me acompañes a mi casa.}
 {146}{}{Te diré algo, colega, no he visto un brazo así en la vida. Úsalo correctamente, y llegarás lejos. ¡Disfruta el guante!}
 {147}{}{¿No tuviste bastante de mí antes? ¿Quieres volver a intentarlo? ¿El mismo trato?}

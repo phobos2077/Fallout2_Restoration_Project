@@ -2,10 +2,10 @@
 {101}{}{Es Vortis, el propietario de este centro de esclavos.}
 {102}{}{Tiene como unos tres dientes. Sus dedos y su camisa están manchados de tinta azul. Tiene un tatuaje de esclavista realmente desteñido en la frente.}
 {103}{}{Y.. ¿qué es lo que quiere?}
-{104}{}{Amigo, bienvenido a El Portal de Vortis. ¿En qué puedo ayudarte?}
+{104}{}{Amiga, bienvenida a El Portal de Vortis. ¿En qué puedo ayudarte?}
 {105}{}{Estás empezando a cansarme.}
 {106}{}{Este lugar es MI lugar y yo, Vortis, dirijo un negocio honesto y legítimo y no importa lo que nadie de la RNC te diga. Ya que la RNC no permite esclavos entre sus muros, yo cuido de ellos para los tipos que tienen negocios en el interior.}
-{107}{}{¿Qué pasa contigo, eres tonto? Este es un centro de esclavos. Tengo licencia para ello.}
+{107}{}{¿Qué pasa contigo, eres tonta? Este es un centro de esclavos. Tengo licencia para ello.}
 {108}{}{}
 {109}{}{Sólo necesito hacer unas preguntas.}
 {110}{}{Estoy buscando trabajo.}
@@ -13,7 +13,7 @@
 {112}{}{¿No es letrina? Marcho ya.}
 {113}{}{¿Qué se hace en este lugar?}
 {114}{}{Nada. Lugar equivocado.}
-{115}{}{Oh, mira: un buenazo que ayuda a cruzar la calle a las ancianitas. ¡Muchachos, escoltad a este hipócrita modelo de virtud santificada fuera de mi vista!}
+{115}{}{Oh, mira: una buenaza que ayuda a cruzar la calle a las ancianitas. ¡Muchachos, escoltad a este hipócrita modelo de virtud santificada fuera de mi vista!}
 {116}{}{Hay que joderse.}
 {117}{}{¿Bien?}
 {118}{}{Estoy buscando el Refugio 13.}
@@ -73,7 +73,7 @@
 {172}{}{Un placer hacer negocios contigo.}
 {173}{}{¡Pero no andes por aquí, imbécil! Alguien podría sospechar.}
 {174}{}{Vale, ya lo pillo.}
-{175}{}{¡Qué cojones? ¡Guardias! ¡Tenemos un intruso!}
+{175}{}{¡Qué cojones? ¡Guardias! ¡Tenemos una intrusa!}
 {176}{}{Entra ahí y te vuelo la puta cabeza. ¿Lo pillas?}
 {177}{}{Es tarde y hemos cerrado. Vuelve por la mañana.}
 {200}{}{Good work. One more thing though. You're a slaver, right? How 'bout you lend a hand and wipe out those safe houses for me. I could

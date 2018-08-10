@@ -24,4 +24,4 @@
 {123}{}{¡A mala leeeeeche!}
 {124}{}{No me hagas poner cara de enfado.}
 {125}{}{Sí, ¿verdad?}
-{126}{}{Exacto, señor. Je je je.}
+{126}{}{Exacto, señora. Je je je.}

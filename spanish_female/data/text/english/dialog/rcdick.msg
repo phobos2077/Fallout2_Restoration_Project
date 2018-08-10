@@ -2,7 +2,7 @@
 {101}{}{Ves a Athabaska Dick.}
 {102}{}{Este hombre tiene aspecto de ser un minero que conozca su camino hacia el agujero.}
 {103}{}{Eres demasiado bobo para trabajar en una mina.}
-{104}{}{Bienvenido a la gran ciudad.}
+{104}{}{Bienvenida a la gran ciudad.}
 {105}{}{Tu tragaluz gotea un poco, ¿no?}
 {106}{}{Eres tan inteligente como un cebo.}
 {107}{}{He usado palas con más cerebro que tú.}
@@ -117,7 +117,7 @@
 (pasa el tiempo)… rastros de algo, como un cruce entre un escorpión rad y un gecko… (pasa más tiempo)… Mira, te dije
  que te quedarías dormido.}
 {195}{}{¿Eh, qué? (tu cabeza está agotada; deberías echarte una siesta).}
-{196}{}{Mejor que encuentre algo que me ayude a estar despierto. Adiós.}
+{196}{}{Mejor que encuentre algo que me ayude a estar despierta. Adiós.}
 {197}{}{…Así que, ahora lo sabes. Los esclavos que solían trabajar en la mina hicieron explotar todas las existencias de dinamita y
  escaparon, en lugar de dar la cara contra esos wanamingos. La mina se cerró inmediatamente después y nadie volvió.}
 {198}{}{¿Dónde dices que está la Gran Mina Wanamingo?}

@@ -2,7 +2,7 @@
 {101}{}{Ves a un guerrero de la tribu.}
 {150}{}{Ante ti, se encuentra un gran guerrero de la tribu que viste pantalones hechos de pieles de animales.}
 {151}{}{[HABLAR]}
-{152}{}{Hola, Elegido, ¿puedo ayudarte con tu misión?}
+{152}{}{Hola, Elegida, ¿puedo ayudarte con tu misión?}
 {153}{}{Tan solo estaba echando un último vistazo al poblado antes de partir.}
 {154}{}{¿Qué puedes contarme de los mercaderes que comercian con nosotros?}
 {155}{}{¿Podrías decirme dónde puedo encontrar más polvos curativos?}
@@ -15,7 +15,7 @@
 {162}{}{Gracias. Adiós.}
 {163}{}{¿Puedes decirme donde está el Gran Puente?}
 {164}{}{Una pregunta más, si no te importa.}
-{165}{}{Eh... ¿Elegido? El Gran Puente está en el extremo sur de nuestro poblado. Ya sabes... has estado allí miles de veces.}
+{165}{}{Eh... ¿Elegida? El Gran Puente está en el extremo sur de nuestro poblado. Ya sabes... has estado allí miles de veces.}
 {166}{}{Gracias. Adiós.}
 {167}{}{Una pregunta más, si no te importa.}
 {168}{}{Por supuesto, ¿qué quieres saber?}
@@ -27,17 +27,17 @@
 {174}{}{ Que tengas un buen viaje, imbécil... por nuestro bien.}
 {175}{}{¿¿¿???}
 {176}{}{Nos has traicionado. Debes morir.}
-{177}{}{¡Un traidor a su propio pueblo!}
+{177}{}{¡Una traidora a su propio pueblo!}
 {178}{}{¿Por qué haces esto?}
-{179}{}{¡Muerte al malvado!}
+{179}{}{¡Muerte a la malvada!}
 {180}{}{¡Son basura! Se dedican a rebuscar entre los cadáveres para poder sobrevivir.}
 {181}{}{¿Podrías decirme dónde puedo encontrar más hierbas curativas?}
 {182}{}{Gracias. Adiós.}
 {183}{}{Una pregunta más, si no te importa.}
-{300}{}{Hola de nuevo, Elegido. Que los espíritus de los guerreros te protejan y te guíen.}
-{301}{}{¿Tienes dificultades, Elegido? No nos falles... por favor, apresúrate.}
-{302}{}{¿A qué estás esperando? Debemos conseguir el GECK cuanto antes. Elegido, nuestro poblado se muere.}
-{303}{}{Elegido, nuestro poblado está casi muerto. ¿Por qué no nos has traído aún el sagrado GECK?}
+{300}{}{Hola de nuevo, Elegida. Que los espíritus de los guerreros te protejan y te guíen.}
+{301}{}{¿Tienes dificultades, Elegida? No nos falles... por favor, apresúrate.}
+{302}{}{¿A qué estás esperando? Debemos conseguir el GECK cuanto antes. Elegida, nuestro poblado se muere.}
+{303}{}{Elegida, nuestro poblado está casi muerto. ¿Por qué no nos has traído aún el sagrado GECK?}
 {970}{}{Ese es mi nombre.}
 {971}{}{Estás hablando conmigo.}
 {972}{}{Vaya pregunta estúpida. Soy yo.}
@@ -62,7 +62,7 @@
 {1103}{}{Nuestro hermoso poblado.}
 {1104}{}{Es un puesto comercial a pocos días al este de aquí.}
 {1105}{}{El Refugio es el paraíso.}
-{1106}{}{Eres el Elegido.}
+{1106}{}{Tú eres la Elegida.}
 {1107}{}{Él nos cura con sus hierbas y su magia. Está en la parte norte del poblado.}
 {1108}{}{Él nos cura con sus hierbas y su magia. Está en la parte norte del poblado.}
 {1109}{}{Es un polvo mágico que te curará, pero también te dejará soñoliento.}

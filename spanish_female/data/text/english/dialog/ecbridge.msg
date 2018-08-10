@@ -19,7 +19,7 @@
 {118}{}{Testículos}
 {119}{}{Richard Grey}
 {120}{}{Seymour Heine}
-{121}{}{¡El Elegido!}
+{121}{}{¡La Elegida!}
 {122}{}{Quizá vuelva más tarde.}
 {123}{}{¿Qué buscáis?}
 {124}{}{Mmmm....nnnn....ooo...peee}

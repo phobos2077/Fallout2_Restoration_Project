@@ -6,7 +6,7 @@
 {152}{}{Estoy buscando un reloj de oro.}
 {153}{}{¿Qué haces aquí?}
 {154}{}{¿Quién es Rose?}
-{155}{}{Estoy interesado en conseguir una habitación.}
+{155}{}{Estoy interesada en conseguir una habitación.}
 {156}{}{¿Preguntas? ¿Te estaba preguntando algo? Hola, mi nombre es Cornelius.}
 {162}{}{Necesitas ayuda de verdad, anciano.}
 {163}{}{Farrel tiene tu reloj en una caja fuerte. Vamos a colgarle.}
@@ -42,7 +42,7 @@
 {202}{}{No tengo intención de ayudar a un viejo loco como tú. Me largo de aquí.}
 {203}{}{¡Sabía que no podía confiar en él! Voy a colgarle por las orejas hasta que me devuelva mi reloj.}
 {204}{}{Ahí no hay nada. El Sheriff Jo y yo mismo ya buscamos allí.}
-{206}{}{¿Lo hizo? ¡Lo sabía! Le voy a enseñar una lección que no olvidará. Mejor que te quedes aquí o podrías resultar herido.}
+{206}{}{¿Lo hizo? ¡Lo sabía! Le voy a enseñar una lección que no olvidará. Mejor que te quedes aquí o podrías resultar herida.}
 {207}{}{¡Ese es mi reloj! ¿Qué estás haciendo con él? ¡Devuélvelo! [Te arranca el reloj de las manos]. Creo que será mejor que te vayas; aquí no solemos ser corteses con los ladrones.}
 {208}{}{Qué gratitud la tuya.}
 {209}{}{¿Has probado las tortillas de Rose? Son deliciosas.}
@@ -63,7 +63,7 @@
 {225}{}{Yo mato a Farrel.}
 {300}{}{[Hmmm... Ciertas palabras parecen hacerle reaccionar]. Rose... Habitación... Correr...}
 {301}{}{Ooga.}
-{501}{}{¡Siempre supe que eras un ladrón!}
+{501}{}{¡Siempre supe que eras una ladrona!}
 {502}{}{¡Cómo pudiste hacerle eso a mi mejor amigo!}
 {503}{}{¡Te voy a matar!}
 {504}{}{¡Voy a arrancarte la cabeza y a exponerla como trofeo!}

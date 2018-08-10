@@ -6,7 +6,7 @@
 {105}{}{Si lo que quieres es pelear...}
 {106}{}{El Centro de Asignación de Siervos está cerrado. Por favor, vuelve por la mañana.}
 {107}{}{¿Sí, capitán?}
-{108}{}{¿Sí, Ciudadano?}
+{108}{}{¿Sí, Ciudadana?}
 {109}{}{Sí, ¿Qué pasa? Estoy atrasado con mis tareas.}
 {110}{}{Umm... ¡Yo busco Refugio!}
 {111}{}{Dejas de balbucear}
@@ -27,10 +27,10 @@
 {126}{}{¿Alguien puede entrar allí?}
 {127}{}{Tenía otra pregunta que hacerte.}
 {128}{}{Gracias por las indicaciones. Adiós.}
-{129}{}{¿Pero qu-? ¿Eres uno de los nuevos siervos?}
+{129}{}{¿Pero qu-? ¿Eres una de los nuevos siervos?}
 {130}{}{Sí}
 {131}{}{Uh-uh voy ahora yo}
-{132}{}{Debes ser nuevo por aquí. Te lo explicaré... lentamente.}
+{132}{}{Debes ser nueva por aquí. Te lo explicaré... lentamente.}
 {133}{}{Los Ciudadanos que necesitan ayuda con tareas menores vienen aquí para que se les asigne un siervo para ellos durante todo el día.}
 {134}{}{Eso suena bastante a esclavitud.}
 {135}{}{Oh, ¿así que es aquí donde almacenan a los esclavos? ¿Por qué no lo dijiste antes?}
@@ -127,7 +127,7 @@
 {223}{}{Sí... he observado esos síntomas en los siervos últimamente. Contagioso, ¿no? Hmmm. Bueno, si este Joshua es un portador de enfermedades, lo liberaré de inmediato. Dame un momento para realizar las gestiones oportunas...}
 {224}{}{Sin problema. Joshua estaría mejor con los Errantes, de todos modos.}
 {225}{}{Por supuesto, Capitán. Me encargaré de él ahora mismo.}
-{226}{}{Excelente. Gracias, Ciudadano.}
+{226}{}{Excelente. Gracias, Ciudadana.}
 {227}{}{Tal vez. ¿Tienes algo que quieras vender?}
 {228}{}{Sí, tengo algo aquí mismo conmigo. Echa un vistazo y hazme una oferta.}
 {229}{}{Sí, tengo algo aquí mismo conmigo. Echa un vistazo y haz una oferta.}

@@ -2,8 +2,8 @@
 {101}{}{Es un supervisor de esclavos.}
 {102}{}{Bien, por su tatuaje sabes que es un esclavista. Parece que está a cargo de los guardias de por aquí.}
 {103}{}{¿Qué diablos eres tú? Algún tipo de ladrón?}
-{104}{}{¡Entrometido santurrón de la RNC! Tengo la cura para ti.}
-{105}{}{¡Vortis, tenemos un intruso!}
+{104}{}{¡Entrometida santurrona de la RNC! Tengo la cura para ti.}
+{105}{}{¡Vortis, tenemos una intrusa!}
 {106}{}{¡Guardias! ¡Alerta!}
 {107}{}{¿Qué quieres?}
 {108}{}{¿Kurg?}
@@ -13,13 +13,13 @@
 {112}{}{Hermano esclavista, tengo algunas preguntas.}
 {113}{}{Perdón, tipo equivocado.}
 {114}{}{Vamos, Fuera de aquí. ¡Ya tengo demasiados guardias idiotas!}
-{115}{}{¿Qué te pasa imbécil, estás ciego? Es un centro de esclavos. Si quieres saber más, habla con Vortis.}
+{115}{}{¿Qué te pasa imbécil, estás ciega? Es un centro de esclavos. Si quieres saber más, habla con Vortis.}
 {116}{}{¿Y eso qué? Vale, te voy a enviar de vuelta en una bolsa para cadáveres.}
 {117}{}{Ese sería Vortis, el viejo.}
 {118}{}{Gracias. Verás, pareces un chico listo. Apuesto a que puedes ayudarme con algunas preguntas.}
 {119}{}{El viejo, ¿eh? Está bien.}
 {120}{}{Ahora bien, si pones las cosas de esa manera, no podría decir que no. ¿Qué tienes en mente?}
-{121}{}{Gracias, forastero.}
+{121}{}{Gracias, forastera.}
 {122}{}{Sé más que lo que el crédito del viejo Vortis me otorga, ya sabes.}
 {123}{}{Pues bien, he hecho bastante más de lo que la mayoría de la gente sospecha. Aunque no como este trabajo. Es agradable y cómodo.}
 {124}{}{Lo que sea.}

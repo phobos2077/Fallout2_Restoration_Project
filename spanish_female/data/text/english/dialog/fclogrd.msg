@@ -9,10 +9,10 @@
 {108}{}{No toques eso, y es tu último aviso.}
 {109}{}{Aléjate de ahí.}
 {110}{}{Un paso atrás, lao wai, o te llenaremos con tanto plomo que chirriarás al caminar.}
-{111}{}{Aléjate de eso muy despacio. Amaga con alcanzar tus armas y estás muerto.}
+{111}{}{Aléjate de eso muy despacio. Amaga con alcanzar tus armas y estás muerta.}
 {112}{}{Ni se te ocurra pensarlo.}
 {113}{}{Deja eso. AHORA.}
-{114}{}{¡Muere, enemigo del pueblo!}
+{114}{}{¡Muere, enemiga del pueblo!}
 {115}{}{¡Te enviaré al infierno de metal ardiente!}
 {116}{}{¡Que Buda tenga piedad de tu espíritu!}
-{117}{}{¡Sufre, enemigo!}
+{117}{}{¡Sufre, enemiga!}

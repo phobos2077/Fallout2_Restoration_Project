@@ -27,7 +27,7 @@
 {154}{}{Tengo algunas preguntas para ti.}
 {155}{}{Oh, está bien, iré a hablar con Skeeter entonces. Gracias.}
 {160}{}{Hola. Puesto que ya has entrado sin avisar, ¿qué puedo hacer por ti?}
-{161}{}{Tengo hambre.}
+{161}{}{Yo hambrienta.}
 {162}{}{Eh, me preguntaba dónde podría estar Skeeter.}
 {163}{}{Tengo algunas preguntas para ti.}
 {164}{}{Oh, lo siento, no era mi intención irrumpir así. Hasta luego.}
@@ -87,7 +87,7 @@
 {320}{}{Es bueno saberlo, ya empezaba a preocuparme por ti.}
 {321}{}{Bueno, gracias por preocuparte, déjame hacerte algunas preguntas.}
 {322}{}{Ehm, ajá, bueno, creo que será mejor que siga en lo mío. Adiós.}
-{330}{}{Tuve la sensación de que eras uno de esos desde la primera vez que te ví, pero no estaba seguro. ¡Sal de aquí, maldito lunático!}
+{330}{}{Tuve la sensación de que eras una de esos desde la primera vez que te ví, pero no estaba seguro. ¡Sal de aquí, maldito lunático!}
 {331}{}{Eh, sí. Lo que sea. Adiós.}
 {332}{}{Bueno, uno de nosotros es un lunático, pero me parece que te has confundido de persona.}
 {340}{}{No sé si eran personas o si se trataba de algo más, pero suele ocurrir cada par de noches. Ruidos van y vienen del foso. No tengo idea de lo que está pasando ahí, y tampoco quiero saber de qué se trata.}

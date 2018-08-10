@@ -17,9 +17,9 @@
 {116}{}{Uh...}
 {117}{}{Bueno...}
 {118}{}{Eh, perdona, amigo. Raúl no debería haberte gritado, ¿sabes? No es culpa tuya; sólo eres el mensajero. Eh, amigo, ¿estás ocupado?}
-{119}{}{No, no ocupado. ¿Por qué?}
+{119}{}{No, no ocupada. ¿Por qué?}
 {120}{}{La verdad es que no, ¿por qué?}
-{121}{}{Eh... mira, amigo. Raúl va a hacerle una visita a Quincy, ¿sabes? Raúl va a decirle cuatro cosas. Tú quédate aquí y vigila los pájaros de Raúl, ¿vale?}
+{121}{}{Eh... mira, amiga. Raúl va a hacerle una visita a Quincy, ¿sabes? Raúl va a decirle cuatro cosas. Tú quédate aquí y vigila los pájaros de Raúl, ¿vale?}
 {122}{}{Yo vigilo.}
 {123}{}{Claro, Raúl. Por cualquier otro no lo haría, pero por ti si.}
 {124}{}{Eh, gracias, amigo. ¡Raúl te debe una! No te alejes y, amigo, si alguien intenta joderla con los pájaros de Raúl, les pateas el culo, ¿vale?}
@@ -30,24 +30,24 @@
 {129}{}{Te jodan, Raúl. ¡Yo patearte el culo!}
 {130}{}{No, gracias; eres demasiado duro para mí, amigo.}
 {131}{}{¿Por qué voy a usar los puños cuando tengo una bonita arma?}
-{132}{}{¡Entonces no toques los pájaros de Raúl, amigo! ¡Fuera de aquí!}
+{132}{}{¡Entonces no toques los pájaros de Raúl, amiga! ¡Fuera de aquí!}
 {133}{}{De acuerdo.}
-{134}{}{Raúl cree que estás loco yendo por aquí sin uniforme.}
+{134}{}{Raúl cree que estás loca yendo por aquí sin uniforme.}
 {135}{}{Eh, amigo, si el sargento te pilla sin uniforme te va a romper el culo.}
-{136}{}{¿Por qué no llevas el uniforme, amigo?}
+{136}{}{¿Por qué no llevas el uniforme, amiga?}
 {137}{}{¡Ay, carajo! ¡Nos invaden! ¡Alerta!}
 {138}{}{¡Intrusos! ¡Avisad a los guardias!}
 {139}{}{¡Guardias! ¡Intrusos en el hangar!}
-{140}{}{Eh, amigo, ¿qué pasa? ¿Nos atacan?}
-{141}{}{¿A qué viene la alerta, amigo? ¿Qué está ocurriendo?}
+{140}{}{Eh, amiga, ¿qué pasa? ¿Nos atacan?}
+{141}{}{¿A qué viene la alerta, amiga? ¿Qué está ocurriendo?}
 {142}{}{¿Qué carajo está pasando?}
-{143}{}{Raúl te va a mandar a la enfermería, amigo.}
-{144}{}{Eh, amigo, ¡reza lo que sepas!}
+{143}{}{Raúl te va a mandar a la enfermería, amiga.}
+{144}{}{Eh, amiga, ¡reza lo que sepas!}
 {145}{}{¡Raúl te va a patear el culo!}
 {146}{}{Eh, amigo, está en la taquilla de allí. Tómalas y dile a Doc que Raúl le saluda.}
 {147}{}{Gracias.}
-{150}{}{¡Eh, amigo! A Raúl no le gusta que la gente meta las narices en sus cosas. Lárgate, amigo.}
+{150}{}{¡Eh, amiga! A Raúl no le gusta que la gente meta las narices en sus cosas. Lárgate, amiga.}
 {151}{}{¡Raúl te dijo que no tocaras sus cosas! ¡Guardias!}
 {200}{}{Raúl ha oído que de nuevo estabas hablando mal de él.}
-{201}{}{Esto ya es suficiente, pendejo. Raúl te va a hacer pupa esta vez.}
+{201}{}{Esto ya es suficiente, pendeja. Raúl te va a hacer pupa esta vez.}
 {300}{}{¿No ves que Raúl está ocupado?}

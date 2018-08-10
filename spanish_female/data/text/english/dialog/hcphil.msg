@@ -1,7 +1,7 @@
 {100}{}{Ves a un necrófago que lleva un delantal.}
 {101}{}{Ves a Phil, el camarero. Está limpiando un vaso.}
 {102}{}{Ves a un necrófago que lleva un delantal limpiando un vaso. Al verlo que está justo detrás de la barra, asumes que es el camarero de este salón.}
-{103}{}{Buenas, forastero. Bienvenido a la ciudad. ¿Cuál es tu nombre?}
+{103}{}{Buenas, forastera. Bienvenido a la ciudad. ¿Cuál es tu nombre?}
 {104}{}{¿Doi?}
 {105}{}{!}
 {106}{}{.}
@@ -25,12 +25,12 @@
 {133}{}{¡Cereza!}
 {134}{}{¡Agua de f-fuego!}
 {135}{}{¡Gola!}
-{136}{}{Bien, simplemente avísame cuando quieras algo y te surtiré, amigo. Intenta no molestar a los demás clientes, ¿de acuerdo?}
+{136}{}{Bien, simplemente avísame cuando quieras algo y te surtiré, amiga. Intenta no molestar a los demás clientes, ¿de acuerdo?}
 {137}{}{¡Va-le!}
-{138}{}{Una cerveza, aquí está. Serán 3 dólares, más 1 de propina para mí. Eso hacen 4 dólares, chavalito.}
+{138}{}{Una cerveza, aquí está. Serán 3 dólares, más 1 de propina para mí. Eso hacen 4 dólares, chavalita.}
 {139}{}{¡Pago!}
 {140}{}{No teno.}
-{141}{}{¡Bebida potente, chaval! Son 5 dólares, más 1 de propina para mí, lo que suman 6.}
+{141}{}{¡Bebida potente, chavala! Son 5 dólares, más 1 de propina para mí, lo que suman 6.}
 {142}{}{¡Bebida potente, nena! Son 5 dólares, más 1 de propina para mí, lo que suman 6.}
 {145}{}{Bueno para ti y bueno para todos. Serán 2 dólares. Incluso te libraré de mi propina. Que sean 2 dólares, y solucionado.}
 {148}{}{. Si necesitas algo más para beber, vuelve a verme.}
@@ -47,7 +47,7 @@
 {159}{}{[Le das a Phil una propina de 1 dólar] Aquí tienes, Phil.}
 {160}{}{[Le das a Phil una propina de 2 dólares] Gracias, Phil.}
 {161}{}{Vaya, estoy sin blanca. }
-{162}{}{¿Nada? Ja. Ja. Uno no aparca aquí sin beber algo, amigo. Yo también tengo que pagar las facturas. Vamos a probar otra vez. ¡Y bien! ¿Qué va a ser?}
+{162}{}{¿Nada? Ja. Ja. Uno no aparca aquí sin beber algo, amiga. Yo también tengo que pagar las facturas. Vamos a probar otra vez. ¡Y bien! ¿Qué va a ser?}
 {167}{}{Olvídalo. Me voy de aquí.}
 {168}{}{Hasta que no vea tu dinero, no abro la boca. ¿Qué prefieres?}
 {173}{}{¡Olvida esto, y olvida tus putas bebidas!}
@@ -79,7 +79,7 @@
 {206}{}{No mucho.}
 {207}{}{Tengo más preguntas.}
 {208}{}{Gracias. Nos vemos.}
-{209}{}{Pareces un tipo bastante fornido. Apuesto que podrías echar un pulso con Francis. Es el mutante que está sentado allí. Al parecer, ofrece algún tipo de premio. ¿Te interesa? Habla con el tal Francis.}
+{209}{}{Pareces una tipa bastante fornida. Apuesto que podrías echar un pulso con Francis. Es el mutante que está sentado allí. Al parecer, ofrece algún tipo de premio. ¿Te interesa? Habla con el tal Francis.}
 {210}{}{Gracias. ¿Hay alguna cosa más?}
 {211}{}{Gracias. Nos vemos.}
 {212}{}{Hay algunas personas desaparecidas. No estamos seguros de dónde están. Si pudieras encontrarlas, estoy seguro de que ganarías algo por ello. ¿Quieres empezar con eso? Ve a hablar con Marcus.}

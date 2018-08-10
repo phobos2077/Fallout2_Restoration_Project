@@ -2,7 +2,7 @@
 {101}{}{Ves a Savinelli, el chico a cargo de la ruta de caravanas Nuevo Reno - Redding.}
 {102}{}{Ves a un chico pequeño y de aspecto nervioso con el pelo alisado.}
 {103}{}{Si vuelves por aquí otra vez, es posible que tengas un accidente.}
-{104}{}{Has sido advertido. Ahora largo de aquí.}
+{104}{}{Has sido advertida. Ahora largo de aquí.}
 {105}{}{¡Poned a esos perritos en movimiento!}
 {106}{}{¿Eh, perritos? Vale, lo que tu digas. Vámonos.}
 {107}{}{Hola. Soy Enrico Savinelli. Yo controlo la caravana entre Nuevo Reno y Redding. Nos vendría bien un
@@ -22,15 +22,15 @@
 {118}{}{Bueno, ahora mismo están durmiendo con los peces. Vámonos.}
 {119}{}{Más de esos mocosos, como siempre.}
 {120}{}{¿Abandonaste mi caravana, y vuelves a suplicarme que te dé trabajo? Fuera de aquí.}
-{121}{}{Te he dicho que te largues. ¿Estás igual de sordo que de moreno?}
+{121}{}{Te he dicho que te largues. ¿Estás igual de sorda que de morena?}
 {122}{}{Respeto a los ladrones... pero solo a los buenos. Y tú no eres nada más que un matón. Largo de aquí antes de que
  tenga que hacerte daño.}
-{123}{}{¿Un ladrón? ¿Eso te parezco? Maldito ingrato. Me voy. Adiós.}
+{123}{}{¿Una matona? ¿Eso te parezco? Maldito ingrato. Me voy. Adiós.}
 {124}{}{Te arrepentirás de haberte cruzado conmigo. Adiós.}
 {125}{}{Ese ha sido uno de los peores viajes que he tenido en años. No he ganado ningún dinero en él, ¿así que sabes
  qué? Tú tampoco. Fuera de mi vista.}
 {126}{}{¿Sí? Me gustaría verte intentar eso, bastardo asqueroso. Adiós.}
-{127}{}{Bien, algunas veces se tiene más suerte que otras. Esta ha sido una de esas malas veces. Adiós.}
+{127}{}{Bueno, unas veces tienes más suerte que otras. Esta ha sido una de las desafortunadas. Adiós.}
 {128}{}{Joder. Mi culo peligra aquí. Perdimos demasiadas cosas en este viaje. Sabía que debía haber 
 contratado profesionales. Aquí tienes 500 dólares por tu tiempo, montón de mierda.}
 {129}{}{Bien, creo que poco es mejor que nada. Adiós.}
@@ -63,10 +63,10 @@ Debería estar listo el 21. Vuelve entonces si todavía quieres el trabajo.}
 {151}{}{Oh, vale. Adiós.}
 {152}{}{Vienes en un buen momento. Estamos listos para irnos ahora mismo. La paga son 1.500 dólares, pero sólo te pago
  este trabajo porque necesito un guardia más. ¿Listo para venir?}
-{153}{}{Vienes en un buen momento. Estamos listos para irnos ahora mismo. La paga son 1.500 dólares. ¿Preparado para unirte a nosotros?}
+{153}{}{Vienes en un buen momento. Estamos listos para irnos ahora mismo. La paga son 1.500 dólares. ¿Preparada para unirte a nosotros?}
 {154}{}{Suena fantástico. Estoy listo. Vámonos.}
 {155}{}{No creo que quiera ser un guardián de caravanas. Nos veremos por ahí. Adiós.}
-{156}{}{Has sido una distracción muy buena, pero ya estoy harto de ti. Largo de aquí, tontolculo.}
+{156}{}{Has sido una distracción muy buena, pero ya estoy harto de ti. Largo de aquí, tontalculo.}
 {157}{}{¿Tentáculo? Adiós.}
 {158}{}{¡Grrr! ¡Yo mato!}
 {200}{}{¡Que vengan!}

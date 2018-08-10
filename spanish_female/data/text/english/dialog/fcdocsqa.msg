@@ -17,6 +17,6 @@
 {116}{}{¡Para! ¡No nos hagas daño!}
 {117}{}{¡No haré nada!}
 {118}{}{¡Ayuda!}
-{119}{}{¡Oh, no! ¡Un opresor!}
+{119}{}{¡Oh, no! ¡Una opresora!}
 {120}{}{¡Oh, si tan sólo tuviéramos guardias!}
 {121}{}{Ahora me arrepiento de renunciar a la protección de la sociedad...}

@@ -6,7 +6,7 @@
 {111}{}{Creía que los tribales eran algo manazas.}
 {112}{}{Puedes mirar. Podrías aprender algo, pero lo dudo.}
 {113}{}{Bueno, no eres gran cosa.}
-{114}{}{¿Pretendes hacerte el idiota, o es que realmente eres estúpido?}
+{114}{}{¿Pretendes hacerte el idiota, o es que realmente eres estúpida?}
 {120}{}{Me hace gracia que me preguntes eso. Verás, los coches usan células reemplazables de combustible, o baterías, como combustible. Lo que normalmente se estropea es el inyector de las células de combustible. La mayoría de los mecánicos novatos simplemente asumen que es la batería. Pero tú también lo estás asumiendo, ¿no?}
 {121}{}{No, más bien no. ¿Qué quieres decir?}
 {122}{}{Entonces, ¿eso significa que tienes un inyector de células de combustible?}

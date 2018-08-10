@@ -9,7 +9,7 @@
 {108}{}{Informaré sobre tu conducta.}
 {109}{}{Regresa al trabajo.}
 {110}{}{¿Tienes permiso para esta sección?}
-{111}{}{No puedes pararte ahí, amigo.}
+{111}{}{No puedes pararte ahí, amiga.}
 {112}{}{Continúa vigilando.}
 {113}{}{Cierra la bocaza.}
 {114}{}{Esto no es un taladro, repito, no es un taladro.}

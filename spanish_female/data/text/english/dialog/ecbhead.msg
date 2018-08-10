@@ -3,8 +3,8 @@
 {102}{}{Ves un gran monumento de piedra.}
 {103}{}{Ves un monumento de piedra de la cabeza del Morador del Refugio. Tiene un parecido bastante favorecedor, a pesar de que dudas que la cabeza del Morador del Refugio fuera realmente de ese tamaño.}
 {104}{}{Malditos turistas...}
-{105}{}{"Yo soy el Elegido". Y una mierda.}
-{106}{}{Si yo fuera tú, "Elegido", me largaría de aquí.}
+{105}{}{"Yo soy la Elegida". Y una mierda.}
+{106}{}{Si yo fuera tú, "Elegida", me largaría de aquí.}
 {107}{}{Zzzzzz Snzzzzz Zzzzzzzzzz}
 {108}{}{ZZZZZZZzzzzzzzz}
 {109}{}{Zsnzzz...*ronquido*...zzzzsZZZZZ}
@@ -27,11 +27,11 @@
 {126}{}{El jugador debería volverse, echarse unos pasos atrás, y después darse la vuelta y encarar el monumento.}
 {127}{}{*Ejem*}
 {128}{}{¡¿QUIÉN SE ATREVE A ACERCARSE A LA SAGRADA CABEZA DEL MORADOR DEL REFUGIO?!}
-{129}{}{Soy yo, el Elegido.}
+{129}{}{Soy yo, la Elegida.}
 {130}{}{¡HA HA HA HA HA HA!}
-{131}{}{¡¿*TÚ*?! ¡¿EL ELEGIDO?!}
+{131}{}{¡¿*TÚ*?! ¿LA ELEGIDA?}
 {132}{}{¡NO ERES MÁS GRANDE QUE MI DEDO!}
-{133}{}{TÚ NO *ERES* EL ELEGIDO.}
+{133}{}{TÚ NO *ERES* LA ELEGIDA.}
 {134}{}{Sí, lo soy.}
 {135}{}{NO, NO LO ERES.}
 {136}{}{Sí, lo soy.}
@@ -42,8 +42,8 @@
 {141}{}{UH...UH...}
 {142}{}{Uh...huh...}
 {143}{}{UH...¡BASTA YA!}
-{144}{}{¡MUY BIEN! ¡TE HAS MOSTRADO DIGNO!}
-{145}{}{¡*ERES* EL ELEGIDO!}
+{144}{}{¡MUY BIEN! ¡TE HAS MOSTRADO DIGNA!}
+{145}{}{¡*ERES* LA ELEGIDA!}
 {146}{}{¡Toma ESTO!}
 {147}{}{¡AHORA DÉJAME!}
 {148}{}{Eh, ¡gracias!}

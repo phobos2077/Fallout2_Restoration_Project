@@ -26,12 +26,12 @@
 {121}{}{Largo de aquí. Ya deberías de saberlo.}
 {122}{}{¿Crees que recompensaría a un ladrón? Tienes suerte de que no te linchara durante el viaje.
  Por supuesto no voy a pagarte nada. Ahora fuera de aquí.}
-{123}{}{¿Un ladrón? ¿Eso te parezco? Maldito ingrato. Me voy. Adiós.}
+{123}{}{¿Una matona? ¿Eso te parezco? Maldito ingrato. Me voy. Adiós.}
 {124}{}{Un día de estos te arrepentirás de haberte cruzado conmigo. Adiós.}
 {125}{}{Nos han dejado tan hechos polvo ahí afuera que no tengo suficiente dinero para pagarte. Por supuesto, si tú hubieses hecho
  tu trabajo mejor, las cosas serían diferentes.}
 {126}{}{¡Bastardo asqueroso! Pagarás caro el haberme timado. Adiós.}
-{127}{}{Bien, algunas veces se tiene más suerte que otras. Esta ha sido una de esas malas veces. Adiós.}
+{127}{}{Bueno, unas veces tienes más suerte que otras. Esta ha sido una de las desafortunadas. Adiós.}
 {128}{}{Por poco no perdimos todo lo que llevabamos...pero perdimos más de lo que puedo permitirme. Si hubieses hecho tu
  trabajo bien, te llevarías más que estos 500 dólares.}
 {129}{}{Bien, creo que poco es mejor que nada. Adiós.}
@@ -42,7 +42,7 @@
 {134}{}{Ese fue un buen viaje. Podría no haber sido de ese modo si tú no hubieses estado allí. Aquí están tus 2.000 dólares,
  más 500 extra por ese gran trabajo. Gracias de nuevo. }
 {135}{}{Es agradable encontrar a alguien que aprecia la calidad cuando la ve. Nos veremos en otra ocasión, quizás. Adiós.}
-{136}{}{Siempre contento de ganar un dinerillo extra. Gracias, y adiós.}
+{136}{}{Siempre alegra conseguir algo de dinero extra. Gracias, y adiós.}
 {137}{}{No puedo marcharme hasta que tengamos un cargamento entero de oro. Todo estará listo para irnos el 11. Por la mañana
  es mejor. Acércate entonces si quieres el trabajo.}
 {138}{}{Necesitamos conseguir los brahmines de los asentamientos de los alrededores antes de poder irnos. Estaremos listos
@@ -55,7 +55,7 @@
 {143}{}{¿El día 11?}
 {144}{}{¿Qué transporta esta caravana?}
 {145}{}{Bien, gracias. Adiós.}
-{146}{}{Lo siento, amigo, ya hemos tenido suficientes malas experiencias trabajando en esta caravana.}
+{146}{}{Lo siento, amiga, ya hemos tenido suficientes malas experiencias trabajando en esta caravana.}
 {147}{}{Oh, vale.}
 {148}{}{Intercambiamos los mejores brahmines de la RNC por oro en Redding. Directo y simple: justo como
  a mi me gustan las cosas. }
@@ -64,7 +64,7 @@
 {151}{}{Oh, vale. Adiós.}
 {152}{}{Vienes en un buen momento. Estamos listos para irnos ahora mismo. La paga son 2.000 dólares, pero sólo
  te pago por el trabajo porque necesitamos un guardia más. ¿Listo para unirte a nosotros?}
-{153}{}{Vienes en un buen momento. Estamos listos para irnos ahora mismo. La paga son 2.000 dólares. ¿Listo para unirte a nosotros?}
+{153}{}{Vienes en un buen momento. Estamos listos para irnos ahora mismo. La paga son 2.000 dólares. ¿Lista para unirte a nosotros?}
 {154}{}{Suena fantástico. Estoy listo. Vámonos.}
 {155}{}{Puedo encontrar mejores formas de entretenerme que comer polvo de brahmin durante todo el día. Adiós.}
 {156}{}{Bien, aquí tienes comidas gratis y un viaje seguro. Ahora, fuera de aquí imbécil.}

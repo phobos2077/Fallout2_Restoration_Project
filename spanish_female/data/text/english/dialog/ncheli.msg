@@ -7,7 +7,7 @@
 {200}{}{(Esos tipos me dan escalofríos...)}
 {250}{}{¡Mira! ¡Alguien nos está vigilando!}
 {300}{}{No te acerques a esos tipos blindados. Te harán pedazos.}
-{350}{}{¡Maldición! ¡¿Qué estás haciendo, tonto del culo?!}
+{350}{}{¡Maldición! ¡¿Qué estás haciendo, tonta del culo?!}
 {400}{}{[Parece que hay una puerta. ¿La abres y subes?]}
 {450}{}{[¡La puerta se cierra tras de ti, y el vertibird despega! ¡No puedes abrir la puerta!]}
 {500}{}{Estas cajas están llenas de latas de un metal fuerte. A juzgar por el cuidadoso empaquetado,

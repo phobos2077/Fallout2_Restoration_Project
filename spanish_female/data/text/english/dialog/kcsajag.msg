@@ -1,14 +1,14 @@
 {100}{}{Ves a un hombre pequeño y moreno que te sonríe.}
 {101}{}{Ves a Sajag, el dueño y barman de El Gecko Dorado.}
-{110}{}{Hola, forastero. Bienvenido a la taberna, hotel y puesto de comercio 'El Gecko Dorado'. Soy Sajag; yo llevo el negocio. ¿Qué puedo hacer por ti?}
+{110}{}{Hola, forastera. Bienvenido a la taberna, hotel y puesto de comercio 'El Gecko Dorado'. Soy Sajag; yo llevo el negocio. ¿Qué puedo hacer por ti?}
 {111}{}{¿Oh eh oh?}
 {112}{}{¡Hihiii! (señalas un vaso)}
 {113}{}{Tomaré un trago.}
 {114}{}{Me gustaría invitar a una ronda a todo el bar, para presentarme.}
 {115}{}{Me gustaría comerciar.}
 {116}{}{Quisiera una habitación para esta noche.}
-{120}{}{Vaya, pues no es otro maldito idiota. Igual que Torr. Lárgate de mi bar.}
-{130}{}{Eres uno de los nuestros. Has venido al lugar indicado para gastar tu dinero. ¿Qué puedo hacer por ti, amigo?}
+{120}{}{Vaya, pues no es otra maldita idiota. Igual que Torr. Lárgate de mi bar.}
+{130}{}{Eres una de los nuestros. Has venido al lugar indicado para gastar tu dinero. ¿Qué puedo hacer por ti, amiga?}
 {131}{}{No pareces ser muy popular en esta parte del pueblo. Bueno, quizás la gente no se ha hecho una idea clara sobre ti. ¿Cómo puedo ayudarte?}
 {132}{}{Quiero una cerveza.}
 {133}{}{Me gustaría invitar a una ronda a toda la gente del bar.}
@@ -24,10 +24,10 @@
 {151}{}{¡¿Todos beben meados de lagarto?!}
 {152}{}{Espero que todos disfrutéis de la cerveza. Sajag, necesito información.}
 {153}{}{Disfrutad el meado, todos. Adiós.}
-{160}{}{Parece que no tienes suficiente dinero. Lo siento, amigo. Aquí no fiamos (sonríe).}
+{160}{}{Parece que no tienes suficiente dinero. Lo siento, amiga. Aquí no fiamos (sonríe).}
 {161}{}{Otro de los tuyos que intenta conseguir algo a cambio de nada. No hay dinero, no hay servicio; ahora lárgate.}
-{170}{}{Relájate, amigo; es que aquí a la cerveza la llamamos así (se ríe). Esto es el Gecko Dorado, ¿recuerdas?}
-{171}{}{Es sólo cerveza. Gecko Dorado. ¿Meado de Gecko? ¿Eres corto o qué? (sacude la cabeza) Estos tribales, Dios.}
+{170}{}{Relájate, amiga; es que aquí a la cerveza la llamamos así (se ríe). Esto es el Gecko Dorado, ¿recuerdas?}
+{171}{}{Es sólo cerveza. Gecko Dorado. ¿Meado de Gecko? ¿Eres corta o qué? (sacude la cabeza) Estos tribales, Dios.}
 {172}{}{Oh. Je, je; vale, es que en Arroyo la llamamos... oh, no importa.}
 {173}{}{Oh, lo pillo. Muy gracioso.}
 {174}{}{¡Yo no bebo orina! ¡Me da igual cómo lo sirvas o cómo lo llames!}
@@ -37,7 +37,7 @@
 {183}{}{Me gustaría invitar a una ronda a todos mis nuevos amigos.}
 {184}{}{Tengo algunas preguntas para ti.}
 {185}{}{Creo que eso era todo lo que quería saber, gracias.}
-{190}{}{La información lo es todo, amigo. ¿Qué es lo que quieres saber?}
+{190}{}{La información lo es todo, amiga. ¿Qué es lo que quieres saber?}
 {191}{}{¿Sí? ¿Qué coño quieres saber?}
 {192}{}{¿Hay otros asentamientos cercanos?}
 {193}{}{¿Hay algún comerciante aquí en Klamath?}
@@ -60,7 +60,7 @@
 {233}{}{No creo que deba contarte donde está el alambique.}
 {234}{}{No creo que el whisky de Bob haga que la gente enferme.}
 {235}{}{Te lo diré por los 50 dólares. Pero, quiero saber más de tus compañeros de negocio (le indicas el camino al alambique).}
-{240}{}{Gracias por la información, amigo. Me aseguraré de que se use bien (sonríe). Aquí están los 50 dólares y una copa a cuenta de la casa. ¿Hay algo más con lo que pueda ayudarte?}
+{240}{}{Gracias por la información, amiga. Me aseguraré de que se use bien (sonríe). Aquí están los 50 dólares y una copa a cuenta de la casa. ¿Hay algo más con lo que pueda ayudarte?}
 {241}{}{Creo que me tomaré una jarra de buen meado para celebrarlo.}
 {242}{}{¿Qué tal una cerveza para todos mis amigos?}
 {243}{}{Tengo algunas preguntas que me gustaría que contestaras.}
@@ -72,13 +72,13 @@
 {262}{}{Ahora mismo no necesito nada. Pero si me gustaría hacerte una pregunta.}
 {263}{}{¿Una fuente especial? Entonces podrías hacerme un buen precio.}
 {270}{}{Siempre tenemos habitaciones libres para nuestros amigos. Tan sólo te costará 20 dólares por ocho horas de confortable y seguro sueño. Una habitación entera para ti. Disfrútala.}
-{271}{}{No nos quedan habitaciones, amigo. Lo siento, todo ocupado.}
+{271}{}{No nos quedan habitaciones, amiga. Lo siento, todo ocupado.}
 {272}{}{20 dólares parece un precio justo. Me la quedo.}
 {273}{}{No creo que ahora mismo necesite una habitación, Sajag. ¿Qué tal otra cosa?}
-{280}{}{Eh, amigo. Gracias por la información. Mis amigos de La Guarida ya no están preocupados por la competencia. (sonríe con malicia).}
-{281}{}{Gracias por la información, amigo. El ayuntamiento, um.... votó cerrar el alambique de Whisky Bob. No podrá envenenar a nadie más en una buena temporada. (sonríe con aparente sinceridad).}
+{280}{}{Eh, amiga. Gracias por la información. Mis amigos de La Guarida ya no están preocupados por la competencia. (sonríe con malicia).}
+{281}{}{Gracias por la información, amiga. El ayuntamiento, um.... votó cerrar el alambique de Whisky Bob. No podrá envenenar a nadie más en una buena temporada. (sonríe con aparente sinceridad).}
 {282}{}{Me alegro de haber podido ayudar; por supuesto, los 50 dólares no me vendrían mal.}
-{283}{}{Sí, estoy seguro de que dormiré más tranquilo sabiendo que Klamath está a salvo del alcohol de Bob.}
+{283}{}{Sí, estoy segura de que dormiré más tranquilo sabiendo que Klamath está a salvo del alcohol de Bob.}
 {284}{}{No me interesa, amigo.}
 {290}{}{Well, let's see. All sorts of things going on in town lately. (counts on his fingers) There's }
 {291}{}{Háblame de los hombres bicho, por favor.}
@@ -95,7 +95,7 @@
 {320}{}{No hay muchos comerciantes en la ciudad. Sólo Vic, que recuerde ahora. Tiene una casa en la parte este del pueblo. Solía vender objetos de antes de la guerra en La Guarida y a los tribales. Hace tiempo que no le veo.}
 {330}{}{Bueno, no tengo precios como esos para todo el mundo. No es fácil conseguir esta mercancía de La Guarida.}
 {331}{}{Me gustaría que fueras una de mis amiguitas especiales, querida (sonríe). No es fácil conseguir esta mercancía de La Guarida. Pero te diré qué: te haré un precio especial en todo lo que tengo.}
-{340}{}{No sé de qué estás hablando, amigo. ¿Quieres comerciar o no?}
+{340}{}{No sé de qué estás hablando, amiga. ¿Quieres comerciar o no?}
 {341}{}{Sí, claro que quiero. Siento la pregunta.}
 {342}{}{No, después de todo no quiero comerciar contigo.}
 {343}{}{Tienes conexiones con La Guarida. Venga, sé que puedes conseguirme un mejor precio.}

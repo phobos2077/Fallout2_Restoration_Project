@@ -7,6 +7,6 @@
 {113}{}{arrr arrr ffff}
 {114}{}{HHHoooowowowowww}
 {115}{}{ehhhh hufff}
-{200}{}{Te sientes un poco más seguro ahora que el perro está muerto.}
+{200}{}{Te sientes un poco más segura ahora que el perro está muerto.}
 {201}{}{No parece que puedas hacer mucho por este animal. La bala que lo mate probablemente valga más que él.}
 {202}{}{Pues sí, está realmente mal. Además, no tienes muchas ganas de tocarlo.}

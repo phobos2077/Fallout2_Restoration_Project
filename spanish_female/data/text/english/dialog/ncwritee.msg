@@ -15,7 +15,7 @@
 {203}{}{(Canta) "We don't need another hero, we don't need to know the way home…"}
 {204}{}{¡Oye! }
 {205}{}{Qué manera de aplastar al Enclave, }
-{206}{}{Tienes que ser más duro que Tommy Pelotas para haberte cargado el Enclave como hiciste.}
+{206}{}{Tienes que ser más dura que Tommy Pelotas para haberte cargado el Enclave como hiciste.}
 {207}{}{Esos tipos del Enclave parecían ser unos auténticos bastardos.}
 {208}{}{¿Iban a soltar algún nuevo VIRUS en el aire? Bastardos. Espero que le pegases un tiro de mi parte a alguno.}
 {209}{}{Pensé que el Presidente era un mito, un hombre del saco que se usaba para asustar a los niños.}
@@ -34,9 +34,9 @@
 {240}{}{Saludos, }
 {241}{}{Maldito calor, ¿verdad,}
 {242}{}{Saludos, }
-{245}{}{¡Es de la Familia }
-{250}{}{¡Es de la Familia }
-{255}{}{¡Es de la Familia }
+{245}{}{¡Es una de los hombres de }
+{250}{}{¡Es una de los hombres de }
+{255}{}{¡Es una de los hombres de }
 {260}{}{¡Lárgate, antes de que te llenemos de agujeros!}
 {261}{}{¡Lárgate! Tú y tu Familia no sois bien recibidos aquí!}
 {265}{}{¡Guarda el arma, esclavista, o dispararemos!}
@@ -54,7 +54,7 @@
 {295}{}{Dime que eso no es un mutante.}
 {296}{}{Eso es un mutante?}
 {297}{}{La madre que me... Mutantes en Nuevo Reno. Eso va a suponer problemas…}
-{298}{}{Ese mutante es un cabronazo.}
+{298}{}{Ese mutante es un hijoputa de los grandes.}
 {299}{}{Ese mutante tuyo, que tenga cuidado por aquí, ¿me oyes?}
 {305}{}{¿Qué quieres?}
 {306}{}{¿Necesitas ayuda?}
@@ -62,7 +62,7 @@
 {308}{}{Nuevo Reno se vuelve más fea a cada día que pasa…}
 {309}{}{¿Qué estás haciendo por aquí?}
 {310}{}{Si buscas alcohol, ve a la estación de tren en la zona norte de la ciudad… aquí no vendemos.}
-{311}{}{Cuida tus pasos por aquí, amigo. Este es territorio de la Familia Wright.}
+{311}{}{Vigila tus pasos por aquí, amiga. Este es territorio de la Familia Wright.}
 {320}{}{Deberías jugar con los chicos con esta armadura puesta. Les encantaría.}
 {321}{}{No pises a ninguno de los pequeños con esa armadura puesta, ¿me oyes?}
 {322}{}{¿No tienes calor ahí dentro?}
@@ -86,12 +86,12 @@
 {347}{}{Si buscas alcohol, ve a la estación de tren en la zona norte de la ciudad… aquí no vendemos.}
 {348}{}{Cuidado con los chicos por aquí, siempre están bajo los pies de uno.}
 {349}{}{¿Y me puedes enseñar a luchar?}
-{350}{}{Tú eres ese luchador, }
+{350}{}{Tú eres esa luchadora, }
 {351}{}{Luchas bien. Deberías hablar con pap… er, con el jefe, acerca de algún trabajo.}
-{352}{}{Podríamos necesitar un brazo fuerte en la ciudad, si estás interesado.}
+{352}{}{Podríamos necesitar un brazo fuerte en la ciudad, si estás interesada.}
 {353}{}{¿Cuándo vas a volver a pelear?}
 {354}{}{Apostaría por ti, pero mamá se sube por las paredes cuando apostamos.}
-{355}{}{Te hicieron duro, desde luego.}
+{355}{}{Te hicieron dura, desde luego.}
 {356}{}{Cuidado con el Masticador, ¿me oyes? Es mezquino. Antes de mirarte ya te habrá mordido la oreja.}
 {360}{}{Mamá dice que eres un instrumento del demonio. O que tienes un instrumento del demonio. Algo así.}
 {361}{}{Mejor será que no te quedes por aquí… mamá podría verte y empezaría a sermonear.}
@@ -112,7 +112,7 @@
 {376}{}{Mamá dice que eres una ramera. Un putón desvergonzado. No tengo ni idea de lo que quiere decir.}
 {385}{}{¿Estás aquí para ver a papá por negocios? Buena suerte, no creo que contrate a nadie ahora.}
 {386}{}{Si buscas alcohol, ve a la estación de tren en la zona norte de la ciudad… aquí no vendemos.}
-{387}{}{Cuida tus pasos por aquí, amigo. Este es territorio de la Familia Wright.}
+{387}{}{Vigila tus pasos por aquí, amiga. Este es territorio de la Familia Wright.}
 {390}{}{Mejor será que te vayas… no somos amables con los esclavistas.}
 {391}{}{No CREAS que vas a raptar a nadie por aquí. Si causas un solo problema te destriparemos.}
 {392}{}{Mantén las distancias, esclavista. Si tienes negocios con papá, hazlos.}
@@ -144,4 +144,4 @@
 {1250}{}{ ! ¡Y está armada! ¡Avisad a los demás!}
 {1255}{}{ , intentando ser sigiloso! ¡Avisad a los demás!}
 {1335}{}{¿Has tenido algún problema con alguien de la ciudad?}
-{1350}{}{, ¿verdad? Eres bueno sobre el ring, el mejor que he visto por aquí.}
+{1350}{}{, ¿verdad? Eres buena sobre el ring, la mejor que he visto por aquí.}

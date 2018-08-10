@@ -1,17 +1,17 @@
 {100}{}{Ves al sargento de instrucción.}
 {101}{}{Ves al sargento Dornan.}
-{102}{}{Ves a un hombre que porta una servoarmadura de un diseño inusual. Lleva una insignia en el peto con la que no estás familiarizado.}
-{103}{sgnt1a}{Bienvenido a la Base Navarro... ¡un civil! ¿Cómo coño un civil ha entrado en la base? ¡Le voy a romper el culo a alguien! Echad a este civil fuera de propiedad gubernamental.}
+{102}{}{Ves a un hombre que porta una servoarmadura de un diseño inusual. Lleva una insignia en el peto con la que no estás familiarizada.}
+{103}{sgnt1a}{Bienvenido a la Base Navarro... ¡una civil! ¿Cómo coño un civil ha entrado en la base? ¡Le voy a romper el culo a alguien! Echad a este civil fuera de propiedad gubernamental.}
 {104}{sgnt1b}{Bienvenidos a la Base Navarro... ¡civiles! ¿Cómo coño unos civiles han entrado en la base? ¡Le voy a romper el culo a alguien! Echadlos fuera de una propiedad gubernamental.}
 {105}{}{Espera. Yo...}
-{106}{sgnt2a}{Que me aspen. Te escolté fuera de la base y aquí estás de nuevo. Después de todo, no creo que seas un civil. ¡Es más fácil que seas un espía! ¡Dad la alarma y ejecutad a este gusano!}
+{106}{sgnt2a}{Que me aspen. Te escolté fuera de la base y aquí estás de nuevo. Después de todo, no creo que seas una civil. ¡Es más fácil que seas un espía! ¡Dad la alarma y ejecutad a este gusano!}
 {107}{sgnt2b}{Que me aspen. Os escolté fuera de la base y aquí estáis de nuevo. Después de todo, no creo que seáis civiles. ¡Es más fácil que seáis espías! ¡Dad la alarma y ejecutad a estos gusanos!}
 {108}{sgnt3}{Bienvenido a la Base Navarro. Así que tú eres el reemplazo. ¿Cuál es tu nombre, soldado?}
 {109}{}{Uh... yo }
 {110}{}{Soy }
-{111}{sgnt4}{Oh, enternecedor. Me han mandado a un retrasado. Escucha atentamente. Montarás guardia en el hangar. Ese será tu puesto de servicio. Ahora ve allí y quédate haciendo guardia hasta que se te diga otra cosa. ¡Muévete, soldado!}
+{111}{sgnt4}{Oh, enternecedor. Me han mandado a una retrasada. Escucha atentamente. Montarás guardia en el hangar. Ese será tu puesto de servicio. Ahora ve allí y quédate haciendo guardia hasta que se te diga otra cosa. ¡Muévete, soldado!}
 {112}{}{Me voy, yo.}
-{113}{sgnt5}{¿Qué ha sido eso? No te has olvidado de algo, ¿gusano?}
+{113}{sgnt5}{¿Qué ha sido eso? No te has olvidado de algo, ¿gusanaza?}
 {114}{}{Me llamo }
 {115}{sgnt6}{No soy un señor. Trabajo para vivir, IM-BÉ-CIL. Me llamarás Sargento o sargento Dornan. ¿Te enteras?}
 {116}{}{¡Sí, Sargento!}
@@ -26,7 +26,7 @@
 {125}{}{La base no me proporcionó ninguna. Me dijeron que me la darían aquí.}
 {126}{}{Eh... No me dieron ninguna.}
 {127}{}{Bueno, ya que llevas una... ¡Simplemente la cogeré de tu cadáver!}
-{128}{sgnt10}{¿Qué no tienes? Y esperas que me crea eso, ¿gusano? Lo cierto es que has perdido una costosa pieza de equipo militar. Te será descontada de tu paga, y te quedarás en este ejército hasta que tengas quinientos diez años, ¡que es el tiempo que te costará devolver lo que cuesta la servoarmadura de combate Mark II que has perdido! ¡Preséntate en la armería para que te proporcionen un nuevo uniforme y vuelve aquí, soldado! ¡Retírate!}
+{128}{sgnt10}{¿Qué no tienes? Y esperas que me crea eso, ¿gusana? Lo cierto es que has perdido una costosa pieza de equipo militar. Te será descontada de tu paga, y te quedarás en este ejército hasta que tengas quinientos diez años, ¡que es el tiempo que te costará devolver lo que cuesta la servoarmadura de combate Mark II que has perdido! ¡Preséntate en la armería para que te proporcionen un nuevo uniforme y vuelve aquí, soldado! ¡Retírate!}
 {129}{}{Vale. Voy por uniforme.}
 {130}{}{¡Sí, Sargento!}
 {131}{sgnt11}{¡Esos estúpidos burócratas!¿Cómo demonios esperan que dirija esta unidad si continúan estafándome con los suministros? Paso ligero a la armería, consigue tu equipo y preséntate ante mí. ¡Retírate!}
@@ -53,7 +53,7 @@
 {152}{}{¡No necesito papeles!}
 {153}{}{No llevo los papeles encima. Están en mi taquilla.}
 {154}{}{¿Papeles? ¡Tengo tus papeles aquí mismo!}
-{155}{sgnt17}{Respuesta equivocada, gusano. ¡Debes llevar tus papeles contigo en todo momento y deberías saberlo!}
+{155}{sgnt17}{Respuesta equivocada, gusanaza. ¡Debes llevar tus papeles contigo en todo momento y deberías saberlo!}
 {156}{}{Ups.}
 {157}{}{¡Permanece alerta, soldado!}
 {158}{}{Bien. Estás atento. ¡Sigue así!}
@@ -67,7 +67,7 @@
 {166}{}{¡Guardias! ¡Intrusos!}
 {167}{}{¿Quién demonios ha dejado que estos bastardos entren? ¡Guardias!}
 {168}{}{¡Alerta! ¡Espías en el complejo!}
-{169}{}{¡¿Dónde está ese soldado patoso?!}
+{169}{}{¿Dónde está esa soldado patosa?}
 {200}{}{.}
 {201}{}{, Señor!}
 {300}{}{¡Te dije que no volvieras aquí sin tu uniforme!}

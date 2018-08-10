@@ -57,8 +57,8 @@
 {311}{}{¡El poder de la basura!}
 {312}{}{¡Podemos ser Sucios pero estamos aquí para dejar todo limpio!}
 {313}{}{¡No podrás escaparte de nosotros!}
-{314}{}{¡Proteged al Elegido de las idioteces del Spammer!}
-{315}{}{¡Elegido! ¡Únete a nosotros!}
+{314}{}{¡Proteged a la Elegida de las idioteces del Spammer!}
+{315}{}{¡Elegida! ¡Únete a nosotros!}
 {316}{}{¡VENGANZA DE LOS SUCIOS!}
 {317}{}{Nunca serás un Sucio, ¡crío estúpido!}
 {318}{}{¡No tienes una sola oportunidad!}

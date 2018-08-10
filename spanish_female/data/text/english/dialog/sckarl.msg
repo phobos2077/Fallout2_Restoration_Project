@@ -1,10 +1,10 @@
 {100}{}{Ves a un joven que lleva la insignia de la policía de la RNC.}
 {101}{}{Es Karl, el ayudante del sheriff de la ciudad.}
 {102}{}{Ves a un joven que apenas acaba de dejar atrás la adolescencia. Parece ansioso por agradar.}
-{103}{}{Bienvenido, forastero. Soy el ayudante Karl. ¿Qué puedo hacer por ti?}
+{103}{}{Bienvenida, forastera. Soy el ayudante Karl. ¿Qué puedo hacer por ti?}
 {104}{}{¿Como cuales?}
 {105}{}{Uh...nugh..}
-{106}{}{Soy nuevo en RNC. ¿Qué puedes contarme sobre vuestra ciudad?}
+{106}{}{Soy nueva en RNC. ¿Qué puedes contarme sobre vuestra ciudad?}
 {107}{}{Bueno, estoy buscando el Refugio 13.}
 {108}{}{La presidente Tandi me envió a hablar con cierto preso que tienes.}
 {109}{}{Mi nombre es }
@@ -25,7 +25,7 @@
 {124}{}{¿Trabajo? La Asociación de Ganaderos está buscando guardias. Los saqueadores están dándole fuerte a las caravanas de nuevo. Todo lo que he oído es que la presidente Tandi está buscando a alguien con "recursos", como ella dice. ¿Eso te ayuda?}
 {125}{}{Bueno, tengo algunas otras preguntas.}
 {126}{}{Algo. Gracias.}
-{127}{}{Ese es el Oficial Jack, forastero. Uno de nuestros hombres. No has estado hablando con Mira, ¿verdad?}
+{127}{}{Ese es el Oficial Jack, forastera. Uno de nuestros hombres. No has estado hablando con Mira, ¿verdad?}
 {128}{}{Sí.}
 {129}{}{¿Qué Mira?}
 {130}{}{¿Ese hijoputa? Tiene un terreno justo a las afueras de la ciudad. Tan solo coge el camino pasada la Asociación.}

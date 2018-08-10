@@ -6,7 +6,7 @@
 {110}{}{Hola, forastero. La gente me llama Smiley. Me alegro mucho de verte. ¡Estaba seguro de que moriría aquí! Estoy demasiado herido como para escapar de esos malditos lagartos por mí mismo.}
 {111}{}{Smiley, je, je, je. Siii.}
 {112}{}{¿Qué estás haciendo aquí?}
-{113}{}{Encantado de conocerte, Smiley. Creo que me marcho.}
+{113}{}{Encantada de conocerte, Smiley. Creo que me marcho.}
 {120}{}{Genial. Otro Torr. Yo (se señala a sí mismo) necesito que tú (te señala a ti) me ayudes a salir de aquí (hace un gesto de andar con los dedos de la mano).}
 {121}{}{¿Ir? ¿Ahora? ¡Sii! }
 {122}{}{ ir. ¡Lagartos malos! ¡Malos!}
@@ -37,9 +37,9 @@
 {211}{}{Gracias, Smiley. Me alegro de haberlo hecho. Adiós.}
 {212}{}{Vale, da igual. Adiós.}
 {213}{}{Antes mencionaste una recompensa. Espero que sea buena. Adiós.}
-{220}{}{Vaya, pero si es mi amigo idiota. Muchas gracias. Adiós.}
+{220}{}{Vaya, pero si es mi amiga idiota. Muchas gracias. Adiós.}
 {221}{}{Hola, amigo. Gracias de nuevo por sacarme de ese atolladero. ¿Puedo serte de ayuda con algo?}
-{222}{}{¿Algo más, amigo?}
+{222}{}{¿Algo más, amiga?}
 {223}{}{Mira, tengo varias preguntas sobre la caza de geckos.}
 {224}{}{Tengo montones de preguntas sobre esta zona.}
 {225}{}{¿Se ha alegrado la señora Buckner de volver a verte?}
@@ -68,7 +68,7 @@
 {281}{}{Entonces deja que te pregunte otra cosa.}
 {282}{}{Oh, ya veo. Gracias. Adiós.}
 {290}{}{La viuda Buckner está tan condenadamente feliz de tenerme de vuelta que pronto será la señora Smiley. Incluso ha hablado de darte algo por haber encontrado mi culo peludo y habérselo devuelto.}
-{291}{}{Me alegro por ambos. Déjame hacerte otra pregunta.}
+{291}{}{Me alegra por ambos. Déjame hacerte otra pregunta.}
 {292}{}{Eso es genial. Tendré que hablar con ella. Adiós.}
 {300}{}{Eh, gracias por salvarme el culo. Será mejor que vuelva. Nos vemos allí.}
 {310}{}{No te preocupes por mí. Puedo hacer el camino de vuelta solo.}

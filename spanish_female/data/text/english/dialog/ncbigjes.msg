@@ -39,7 +39,7 @@
 {276}{}{Has... vuelto. (Un chorro de sudor gotea por su frente). ¿Qué… tienes que tratar conmigo?}
 {277}{}{Estoy buscando trabajo.}
 {278}{}{He hablado con su hijo, señor Mordino. Estoy buscando trabajo.}
-{279}{}{He hablado con su hijo, señor Mordino. Soy un esclavista, y busco vender esclavos.}
+{279}{}{He hablado con su hijo, señor Mordino. Soy una esclavista, y busco vender esclavos.}
 {280}{}{¿Sabe algo acerca de la muerte del hijo del señor Wright?}
 {281}{}{¿Le está molestando el calor? Parece… incómodo.}
 {282}{}{Nada que tratar hoy. He de irme ahora.}
@@ -197,7 +197,7 @@
 {630}{}{(Mordino se inclina, estudiando tu expresión) ¿Eso te... preocupa? Si es así, vete. (Señala la puerta) La Familia 
  Mordino no quiere... cobardes.}
 {631}{}{No, no lo haré.}
-{633}{}{Llámeme cobarde, pero me gusta seguir vivo. Rechazaré ese trabajo.}
+{633}{}{Llámeme cobarde, pero me gusta seguir viva. Rechazaré ese trabajo.}
 {640}{}{(Asiente) Eso está bien. El hombre es viejo... un lisiado... se oculta en su bar, "Salvatore's", cerca del Casino Bishop.
  Es un... cobarde y nunca abandona su habitación en la planta superior. Cuando esté... muerto, regresa.}
 {641}{}{¿Lisiado?}
@@ -264,9 +264,9 @@
 {792}{}{¿Me utilizó para MATAR a ese tipo? Se acabó, Jesús, me largo de aquí.}
 {850}{}{Has recaudado el tributo de Gran Jesús.}
 {875}{}{Has asesinado a Gran Jesús.}
-{900}{}{Te has convertido en Iniciado de la Familia Mordino.}
+{900}{}{Te has convertido en Iniciada de la Familia Mordino.}
 {925}{}{Has completado el contrato de asesinato para Gran Jesús.}
-{1278}{}{He hablado con su hijo, señor Mordino. Soy un esclavista, y estoy buscando trabajo.}
+{1278}{}{He hablado con su hijo, señor Mordino. Soy una esclavista, y estoy buscando trabajo.}
 {1291}{}{Muy bien. ¿Está interesado en comprar algún esclavo?}
 {1621}{}{Bien... de acuerdo entonces. Lo haré.}
 {5268}{}{?!! Entonces VEN A POR MÁS, GORDO HIJO DE P--}

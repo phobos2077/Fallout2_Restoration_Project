@@ -10,7 +10,7 @@
 {109}{}{Aagggh.}
 {110}{}{¿Qué estabas haciendo ahí abajo?}
 {111}{}{Sí. Sígueme.}
-{112}{}{Oh, pobrecito. La radiación y el Yermo no son una maravilla, ¿eh? Espero que alguien pueda ayudarte.}
+{112}{}{Oh, pobrecita. La radiación y el Yermo no son una maravilla, ¿eh? Espero que alguien pueda ayudarte.}
 {113}{}{Fue una estupidez, en realidad. Sólo estaba explorando porque Badger fue donde la computadora y yo fui escaleras abajo y me perdí y entonces lo siguiente que pasó ya lo sabes, rodeada de monstruos. Menos mal que llegaste.}
 {114}{}{Tengo más preguntas.}
 {115}{}{Sí, eso es. ¿Encontraste algo interesante?}

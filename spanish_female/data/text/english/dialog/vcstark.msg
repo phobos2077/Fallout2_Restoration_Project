@@ -3,10 +3,10 @@
 {102}{}{Ves al Ciudadano sargento Stark.}
 {103}{}{Ves a un enorme hombre negro con armadura pesada. Te está observando detenidamente.}
 {104}{}{Buen trabajo por el sur. Por aquí vimos los fuegos artificiales hasta el final.}
-{105}{}{Que le vaya bien... señor.}
-{106}{}{Ciudad Refugio prevalece... señor.}
-{107}{}{Que te vaya bien, Ciudadano.}
-{108}{}{Ciudad Refugio prevalece, Ciudadano.}
+{105}{}{Que le vaya bien... señora.}
+{106}{}{Ciudad Refugio prevalece... señora.}
+{107}{}{Que te vaya bien, Ciudadana.}
+{108}{}{Ciudad Refugio prevalece, Ciudadana.}
 {109}{}{Desearás haberte quedado fuera de la ciudad... ¡Guardias!}
 {110}{}{¡Un mutante! ¡Guardias!}
 {111}{}{¡Un necrófago! ¡Guardias!}
@@ -14,22 +14,22 @@
 {113}{}{Hace falta revisar las taquillas de armas en el Refugio, mañana...}
 {114}{}{Quizá el estar en esta celda te enseñe a comportarte.}
 {115}{}{Y te QUEDARÁS en esta celda hasta que la Primer Ciudadano te perdone.}
-{116}{}{Lo siento, Ciudadano, pero no se permite la entrada en el Centro Correccional por la noche. Vuelve por la mañana.}
+{116}{}{Lo siento, Ciudadana, pero no se permite la entrada en el Centro Correccional por la noche. Vuelve por la mañana.}
 {117}{}{Se ha dado el toque de queda. ¿Qué estás haciendo todavía en la ciudad?}
 {118}{}{¡Yah!}
-{119}{}{Eh, como Ciudadano, te permito permanecer en la ciudad por la noche.}
+{119}{}{Eh, como Ciudadana, te permito permanecer en la ciudad por la noche.}
 {120}{}{Acabo de concluir cierto negocio que debía atender antes de irme.}
 {121}{}{Me voy ahora mismo.}
 {122}{}{¿Es así? Bien, conozco a CADA Ciudadano de Ciudad Refugio, y a ti no te reconozco. ¿Dónde están tus documentos?}
 {123}{}{¿Los quieres? Ven a por ellos.}
 {124}{}{No los llevo encima.}
 {125}{}{Aquí están.}
-{126}{}{Entonces deja de malgastar mi tiempo, "Ciudadano". Venga, muévete.}
+{126}{}{Entonces deja de malgastar mi tiempo, "Ciudadana". Venga, muévete.}
 {127}{}{Tu negocio se ha de hacer durante el día. Venga, muévete.}
 {128}{}{No me voy a ninguna parte. Intenta moverme, y lo lamentarás.}
 {129}{}{Está bien, ya me marcho.}
-{130}{}{Capitán. ¿Puedo ayudarle... señor?}
-{131}{}{¿Puedo ayudarte, Ciudadano?}
+{130}{}{Capitán. ¿Puedo ayudarle... señora?}
+{131}{}{¿Puedo ayudarte, Ciudadana?}
 {132}{}{¿Qué quieres?}
 {133}{}{¡Yah!}
 {134}{}{Dejas de balbucear}
@@ -41,14 +41,14 @@
 {140}{}{NO VOY YO. AHORA.}
 {141}{}{Desearás haberte ido.}
 {142}{}{NO VOY YO IDO.}
-{143}{}{Sargento Stark... señor. ¿Necesitaba algo?}
-{144}{}{Soy el Ciudadano SARGENTO Stark, Ciudadano. ¿Hay algo en lo que pueda ayudarte?}
-{145}{}{Soy el Ciudadano SARGENTO Stark, forastero. ¿Qué es lo que quieres?}
+{143}{}{Sargento Stark... señora. ¿Necesitaba algo?}
+{144}{}{Soy el Ciudadano SARGENTO Stark, Ciudadana. ¿Hay algo en lo que pueda ayudarte?}
+{145}{}{Soy el Ciudadano SARGENTO Stark, forastera. ¿Qué es lo que quieres?}
 {146}{}{¿Qué haces aquí?}
 {147}{}{¿Puedes decirme dónde está el Refugio?}
 {148}{}{Nada, lamento molestarte.}
 {149}{}{Hago TU trabajo, señor.}
-{150}{}{Dirijo el Centro Correccional. Y obedezco sus órdenes, señor.}
+{150}{}{Dirijo el Centro Correccional. Y obedezco sus órdenes, señora.}
 {151}{}{Dirijo el Centro Correccional. Mantengo a los errantes a raya. Me aseguro de que los siervos se comportan. Organizo patrullas. Trato de proteger a la ciudad de saqueadores.}
 {152}{}{¿Tienes algún problema, sargento?}
 {153}{}{¿Eres quien puso fin al bar de Cassidy?}
@@ -58,57 +58,57 @@
 {157}{}{Acerca de esos saqueadores...}
 {158}{}{¿Puedo hacerte unas preguntas?}
 {159}{}{Gracias. Adiós.}
-{160}{}{Permiso para hablar libremente, señor.}
+{160}{}{Permiso para hablar libremente, señora.}
 {161}{}{Concedido.}
 {162}{}{No. Primero tenía otras preguntas que hacerte.}
 {163}{}{Hoy no, sargento.}
-{164}{}{No MERECE su puesto. Yo he vivido en Ciudad Refugio toda mi vida. Los hombres y mujeres bajo MI mando confían en mí y me respetan, no a usted... señor.}
+{164}{}{No MERECE su puesto. Yo he vivido en Ciudad Refugio toda mi vida. Los hombres y mujeres bajo MI mando confían en mí y me respetan, no a usted... señora.}
 {165}{}{Es por eso que te necesito en tu puesto, sargento. No hay duda de que eres capaz y conoces Ciudad Refugio mejor que yo. Sin embargo, yo he obtenido RESULTADOS que tú NO. Nunca lo olvides.}
 {166}{}{Anotado, sargento. Ahora, tengo algunas preguntas que hacerte.}
 {167}{}{Anotado, sargento. Te sugiero que moderes tu actitud y te dediques a tu trabajo. Que te vaya bien.}
-{168}{}{Comprendido, señor.}
+{168}{}{Comprendido, señora.}
 {169}{}{Ahora, tengo algunas preguntas que hacerte.}
 {170}{}{Hazlo entonces, sargento.}
-{171}{}{Sí, señor. Yo autoricé y llevé a cabo una redada en el establecimiento del señor Cassidy.}
+{171}{}{Sí, señora. Yo autoricé y llevé a cabo una redada en el establecimiento del señor Cassidy.}
 {172}{}{Tal vez tu amigo Cassidy no te contó que tenía sustancias ilegales en las instalaciones, y que su licencia para la distribución de alcohol había caducado. ¿Olvidaste contarle eso a tu amigo, Cassidy?}
 {173}{}{Cassidy dice que pagó todo y que tú allanaste su local de todos modos.}
 {174}{}{Olvídalo. Tenía algunas preguntas más...}
 {175}{}{Entonces no importa. Adiós.}
-{176}{}{No, señor. El señor Cassidy no había pagado su cuota mensual de la licencia de alcohol, y sin embargo seguía vendiéndolo en su local. Su lista de pagos está registrada en la computadora.}
+{176}{}{No, señora. El señor Cassidy no había pagado su cuota mensual de la licencia de alcohol, y sin embargo seguía vendiéndolo en su local. Su lista de pagos está registrada en la computadora.}
 {177}{}{Cassidy era culpable de posesión sin licencia. Si no le gusta, puede abandonar Ciudad Refugio. Así de simple.}
 {178}{}{Te creo, sargento. Bien hecho. Ahora, escúchame: quiero que perdones al señor Cassidy, limpies su historial, y le compenses por los daños que causaste a su establecimiento.}
 {179}{}{¿Sabes? Creo que mi puño y tu cara están a punto de tener una conversación.}
 {180}{}{Olvídalo. Tenía algunas preguntas más...}
 {181}{}{No importa entonces. Adiós.}
-{182}{}{Gracias por cuidar de mí, amigo. Stark es un obstinado hijoputa.}
+{182}{}{Gracias por cuidar de mí, amiga. Stark es un obstinado hijoputa.}
 {183}{}{Tan solo inténtalo. Espero poner a basura como tú y Cassidy en su lugar.}
 {184}{}{Muy bien. De todas formas, tenía muchas ganas de patearte el culo.}
 {185}{}{Olvídalo. Tenía algunas preguntas más...}
 {186}{}{No importa entonces. Adiós.}
-{187}{}{Sí... SEÑOR.}
+{187}{}{Sí... SEÑORA.}
 {188}{}{AHORA, sargento.}
 {189}{}{Vamos, sargento. Espabila.}
-{190}{}{Aquí estás, SEÑOR.}
+{190}{}{Aquí estás, SEÑORA.}
 {191}{}{Ahora tengo algunas preguntas que hacerte, sargento.}
 {192}{}{Muy bien, sargento. Hazlo.}
 {193}{}{Sí, fue ese errante borracho que golpeó a uno de mis guardias en una reyerta en La Escupidera. Está en el Centro de Asignación de Siervos esperando... acostumbrarse. Está calle abajo.}
 {194}{}{Tenía otra pregunta...}
 {195}{}{Hmmm. Iré allí ahora.}
-{196}{}{El Refugio está justo al otro lado de la puerta... señor.}
-{197}{}{El Refugio está justo al otro lado de la puerta. Simplemente di a los guardias que eres Ciudadano, y te permitirán entrar.}
+{196}{}{El Refugio está justo al otro lado de la puerta... señora.}
+{197}{}{El Refugio está justo al otro lado de la puerta. Simplemente di a los guardias que eres Ciudadana, y te permitirán entrar.}
 {198}{}{El Refugio está justo al otro lado de la puerta. Sólo se permite el acceso a Ciudadanos, así que no quiero pillarte molestando a los guardias.}
 {199}{}{¿Puedo preguntarte algo más?}
-{200}{}{Pero yo soy un Ciudadano.}
+{200}{}{Pero yo soy una Ciudadana.}
 {201}{}{¿Cómo te convertiste en Ciudadano?}
 {202}{}{Gracias. Adiós.}
 {203}{}{¿Es así? No te reconozco, y conozco a cada Ciudadano de Ciudad Refugio.}
 {204}{}{Aquí están mis documentos. Creo que lo encontrarás todo en orden.}
 {205}{}{Uh, no importa. Tenía algunas preguntas más...}
 {206}{}{Mejor será que me vaya.}
-{207}{}{Vaya, vaya, aquí están los documentos que fueron robados el mes pasado. Parece que finalmente he encontrado al culpable. Ven conmigo, forastero.}
+{207}{}{Vaya, vaya, aquí están los documentos que fueron robados el mes pasado. Parece que finalmente he encontrado al culpable. Ven conmigo, forastera.}
 {208}{}{Tócame, y lo lamentarás.}
 {209}{}{Me voy, me voy. Deja de empujarme.}
-{210}{}{Yo NACÍ Ciudadano. ¿Interesado en convertirte en Ciudadano? Encuentra a un miembro del Consejo.}
+{210}{}{Yo NACÍ Ciudadano. ¿Interesado en convertirte en Ciudadana? Encuentra a un miembro del Consejo.}
 {211}{}{¿Puedo preguntarte algo más?}
 {212}{}{Lo haré, gracias. Adiós.}
 {213}{}{Sí, ¿qué pasa con ellos?}
@@ -255,10 +255,10 @@
 {353}{}{Gracias, podría resultar útil. ¿Puedo hacerte algunas preguntas más?}
 {354}{}{Te lo agradezco mucho. Iré a probarlo.}
 {355}{}{Hola... capitán. ¿Deseaba algo?}
-{356}{}{Hola de nuevo, Ciudadano. ¿Puedo ayudarte con algo?}
+{356}{}{Hola de nuevo, Ciudadana. ¿Puedo ayudarte con algo?}
 {357}{}{¿Has vuelto de nuevo? ¿Te has perdido, o necesitas algo?}
-{358}{}{¿Como qué... señor?}
-{359}{}{Sí, Ciudadano. ¿Qué querías saber?}
+{358}{}{¿Como qué... señora?}
+{359}{}{Sí, Ciudadana. ¿Qué querías saber?}
 {360}{}{¿Como qué?}
 {361}{}{Llevo difícil}
 {362}{}{Dejas de balbucear}

@@ -20,7 +20,7 @@
 {215}{}{Oh-oh. Salid de su camino.}
 {216}{}{Sólo el mirarlo… mirarla…… LO QUE SEA que es, me provoca escalofríos.}
 {217}{}{¿Crees que esa cosa quiere cargarse a alguien?}
-{218}{}{Eso es la furia del infierno encarnada. Eh, bajo la armadura, me refiero.}
+{218}{}{Es la furia del infierno encarnada. Eh, bajo la armadura, claro está.}
 {219}{}{Alejaos del camino de esa cosa.}
 {220}{}{Hablando de apariencias peligrosas…}
 {221}{}{*Gulp*}
@@ -52,7 +52,7 @@
 {267}{}{::Silbidos::}
 {268}{}{¿Esas piernas son así hasta arriba?}
 {269}{}{Oye, preciosa, ¿quieres una lengua a juego con ese trasero?}
-{270}{}{¿Regalan las patatas fritas contigo, preciosa?}
+{270}{}{¿No te calientas con ese meneo, preciosa?}
 {271}{}{Quizá baile esta noche.}
 {272}{}{¿Has visto su última película? Al rojo vivo, amigo, al rojo VIVO.}
 {273}{}{Perdóname. Tengo que ir al baño y, er, peinarme un poco.}
@@ -67,9 +67,9 @@
 {282}{}{Jooooder.}
 {283}{}{Fíjate en sus parachoques.}
 {284}{}{Apuesto a que ella traerá problemas.}
-{285}{}{No pareces tan duro, señor Campeón.}
+{285}{}{No pareces tan dura, señora Campeona.}
 {286}{}{¡Gané 20 fichas apostando por ti!}
-{287}{}{¡Oye, campeón! ¡Esa última pelea fue genial!}
+{287}{}{¡Hey, campeona! ¡Tu última pelea fue fantástica!}
 {288}{}{Vi tu pelea en el ring. Lanzaste un gancho de derecha bueno de cojones.}
 {289}{}{¿Lo vas a dejar? Conseguí 30 fichas apostando por ti.}
 {290}{}{¿Cuántas flexiones haces?}
@@ -78,7 +78,7 @@
 {293}{}{Te invitaría a una copa si no hubiera perdido todo mi dinero apostando a tu oponente.}
 {294}{}{No pareces tan dura, señorita Gancho Izquierdo.}
 {295}{}{¿Puedo ver cómo flexionas tus abdominales?}
-{300}{}{Alejaos del camino de ese hombre.}
+{300}{}{No te interpongas en el camino de esa mujer.}
 {301}{}{Creo que me miraba a mí.}
 {302}{}{Creo que me acaba de lanzar una mirada mortal. Me largo de aquí.}
 {303}{}{He oído que disparó a tres sicarios ayer mismo.}
@@ -95,7 +95,7 @@
 {314}{}{Creo que me acaba de lanzar una mirada mortal. Me largo de aquí.}
 {315}{}{He oído que disparó a tres sicarios ayer mismo.}
 {316}{}{¡Qué duro! Eh, me refiero a ti, claro.}
-{320}{}{¿Por qué hay tantos esclavistas rondando por aquí últimamente?}
+{320}{}{¿Qué pasa con todos esos esclavistas rondando por aquí últimamente?}
 {321}{}{No había visto antes por aquí a ese esclavista…}
 {322}{}{Me pregunto si el esclavista se dirige al Establo…}
 {323}{}{Mi pregunto si ese esclavista tendrá algo a la venta…}
@@ -128,7 +128,7 @@
 {350}{}{Vi a otro drogadicto con sobredosis esta mañana. Tenía moscas por toda la boca. Y estaba SONRIENDO.}
 {351}{}{He INTENTADO dejarlo, pero…}
 {352}{}{Esclavista, mejor será que tengas cuidado en esta ciudad…}
-{353}{}{Odio esta maldita ciudad.}
+{353}{}{Odio esta puta ciudad.}
 {354}{}{He estado en esa ciudad demasiado tiempo.}
 {355}{}{Esta ciudad es genial… excepto por los turistas.}
 {356}{}{Esta ciudad es genial… excepto por los esclavistas.}
@@ -139,7 +139,7 @@
 {375}{}{Dime que eso no es un mutante.}
 {376}{}{Eso es un mutante?}
 {377}{}{Hostia puta. Mutantes en Nuevo Reno. Se avecinan problemas.}
-{378}{}{Ese mutante es un cabronazo.}
+{378}{}{Ese mutante es un hijoputa de los grandes.}
 {379}{}{Asqueroso amante de mutantes...}
 {385}{}{Tu amigo tiene un hueso atravesándole la nariz.}
 {386}{}{¿Todo el mundo en tu pequeña banda se atraviesa la nariz con un hueso para probarse a sí mismos?}
@@ -176,14 +176,14 @@
 {417}{}{Vi a otro drogadicto con sobredosis esta mañana. Tenía moscas por toda la boca. Y estaba SONRIENDO.}
 {418}{}{He INTENTADO dejarlo, pero…}
 {419}{}{¿Por qué arriesgarse con una incautación minera como esa?}
-{420}{}{Odio esta maldita ciudad.}
+{420}{}{Odio esta puta ciudad.}
 {421}{}{He estado en esa ciudad demasiado tiempo.}
 {422}{}{Esta ciudad es genial… excepto por los turistas.}
 {423}{}{Esta ciudad es genial… excepto por los esclavistas.}
 {424}{}{Esta ciudad es genial… excepto por los chulos y las putas.}
 {425}{}{¿Vendes a esa mujer?}
 {426}{}{¿Cuánto por esa mujer que te acompaña?}
-{427}{}{Esa mujer que está a tu lado es bonita.}
+{427}{}{Esa mujer que tienes al lado es bonita.}
 {428}{}{¿Esa mujer tuya sabe cocinar? Si es así, me la quedo.}
 {429}{}{¿Cuánto por esa falda que llevas puesta?}
 {430}{}{Fíjate en el nuevo amo de la calle.}
@@ -220,7 +220,7 @@
 {478}{}{Vi a otro drogadicto con sobredosis esta mañana. Tenía moscas por toda la boca. Y estaba SONRIENDO.}
 {479}{}{He INTENTADO dejarlo, pero…}
 {480}{}{¿Por qué arriesgarse con una incautación minera como esa?}
-{481}{}{Odio esta maldita ciudad.}
+{481}{}{Odio esta puta ciudad.}
 {482}{}{He estado en esa ciudad demasiado tiempo.}
 {483}{}{Esta ciudad es genial… excepto por los turistas.}
 {484}{}{Esta ciudad es genial… excepto por los esclavistas.}
@@ -262,7 +262,7 @@
 {542}{}{SABÍA que debería haberme afeitado hoy.}
 {543}{}{Ven a charlar un momento conmigo, cariño.}
 {544}{}{Vamos, ricura… ven conmigo.}
-{545}{}{Eres una hábil picaruela, ¿verdad?}
+{545}{}{Eres una niña traviesa y ágil, ¿verdad?}
 {546}{}{Me bañaría por ti.}
 {547}{}{Tengo tu veta madre justo aquí.}
 {548}{}{¿Esas piernas son así hasta arriba?}
@@ -273,27 +273,27 @@
 {553}{}{Como una zorra... de astuta.}
 {554}{}{Corrígeme si me equivoco, cariño pero, ¿no quieres besarme?}
 {555}{}{Maldición. Todas esas curvas y yo sin frenos.}
-{556}{}{¿Sabes qué es lo que te sentaría bien? Yo.}
+{556}{}{¿Sabes lo que te haría más llamativo? Yo.}
 {557}{}{Tus braguitas puede que no sean lo mejor que hay en la tierra, pero vaya si están cerca de ello, joder.}
 {558}{}{¡Buenos melones!}
 {559}{}{¡Menuda estantería!}
 {560}{}{Esos faros que tienes me van a cegar.}
 {561}{}{¿Tienes problemas de espalda?}
-{580}{}{Hola, señor. ¿Cómo está?}
-{581}{}{¿Algo va mal, señor?}
+{580}{}{Hola, señora. ¿Cómo está?}
+{581}{}{¿Algo va mal, señora?}
 {582}{}{Lo siento, ¿estaba en su camino? Abandonaré la ciudad.}
 {583}{}{Perdón, ¿estaba respirando su mismo aire? Me detendré.}
 {584}{}{Déle saludos de mi parte a su jefe.}
 {585}{}{Oiga, por favor… no quiero problemas.}
 {586}{}{Hola, señora. ¿Cómo está?}
 {587}{}{¿Algo va mal, señora?}
-{600}{}{¿Por qué hay tantos esclavistas rondando por aquí últimamente?}
+{600}{}{¿Qué pasa con todos esos esclavistas rondando por aquí últimamente?}
 {601}{}{No te he visto antes por aquí…}
 {602}{}{Su buscas vender esclavos, inténtalo con los Mordino.}
 {603}{}{¿Has ido al Establo? Allí tienen a la mayoría de esclavos.}
 {604}{}{Muéstrame lo que tienes a la venta.}
 {605}{}{Si estás buscando vender esclavos, prueba con los Mordino.}
-{606}{}{Odio esta maldita ciudad.}
+{606}{}{Odio esta puta ciudad.}
 {607}{}{He estado en esa ciudad demasiado tiempo.}
 {608}{}{Esta ciudad es genial… excepto por los turistas.}
 {609}{}{Esta ciudad es genial… excepto por los esclavistas.}
@@ -333,7 +333,7 @@
 {654}{}{¿Ese tipo tiene un hueso en la nariz?}
 {655}{}{Ese tipo tiene un hueso en la nariz del tamaño de mi brazo. Cristo bendito.}
 {656}{}{Ni siquiera quiero saber cómo hizo ese amigo tuyo para tener ese hueso en la nariz.}
-{657}{}{Odio esta maldita ciudad.}
+{657}{}{Odio esta puta ciudad.}
 {658}{}{He estado en esa ciudad demasiado tiempo.}
 {659}{}{Esta ciudad es genial… excepto por los turistas.}
 {660}{}{Esta ciudad es genial… excepto por los esclavistas.}
@@ -370,7 +370,7 @@
 {691}{}{¿Nos intercambiamos las esposas un tiempo?}
 {692}{}{¿Vendes a esa mujer?}
 {693}{}{¿Cuánto por esa mujer que te acompaña?}
-{694}{}{Esa mujer que está a tu lado es bonita.}
+{694}{}{Esa mujer que tienes al lado es bonita.}
 {695}{}{¿Esa mujer tuya sabe cocinar? Si es así, me la quedo.}
 {696}{}{¿Cuánto por esa falda que llevas puesta?}
 {697}{}{La señora Bishop tiene un culito que es un bombón.}

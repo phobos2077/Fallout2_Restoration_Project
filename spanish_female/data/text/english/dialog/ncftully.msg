@@ -19,14 +19,14 @@
 {225}{}{¿Quién edes tú? ¿Te conozco? }
 {226}{}{Saludos… qué puede haced el Padde Tully pod ti... }
 {227}{}{¿Tú edes quien pateó al Enclave c-como un camión… eh, quiedo decid, un campeón? Edes un hédoe.}
-{228}{}{Yo hérooe}
-{229}{}{Héroe marcha.}
+{228}{}{¿Yo heroína?}
+{229}{}{Heroína marcha.}
 {230}{}{Me enfrenté al Enclave, sí. Ellos empezaron, y yo lo terminé. Pero no se equivoque, Padre. Sólo soy un hombre,
  intentando abrirme camino en este mundo que no perdona... no soy un héroe.}
 {231}{}{Me enfrenté al Enclave, sí. Ellos empezaron, y yo lo terminé. Pero no se equivoque, Padre. Sólo soy una mujer,
  intentando abrirme camino en este mundo que no perdona... no soy una heroína.}
 {232}{}{Será mejor que me vaya, Padre. Me ha alegrado olerle… eh, verle.}
-{235}{}{Edes un HEDOE. Tengo al-go pada ti. Al pdincipio no sabía pada qué podía sedvid, aunque igual a ti te hace f-falta.}
+{235}{}{Edes una HEDOÍNA. Tengo al-go pada ti. Al pdincipio no sabía pada qué podía sedvid, aunque igual a ti te hace f-falta.}
 {236}{}{Lo quedo yo.}
 {237}{}{No necesito… quiero salir fuera.}
 {238}{}{Desde luego. Me quedaré con lo que quiera que me dé, Padre. Eh, bueno, dentro de los límites de la decencia.}
@@ -39,8 +39,8 @@
  Todo NUEVO DENO está odgulloso de ti.}
 {246}{}{G-gracias, Padre. Adióoos.}
 {247}{}{Gracias, Padre. Cuídese, ¿de acuerdo?}
-{250}{}{Saludos, hijo m-mío. ¿Qué puede haced el Padde Tully por ti en esta pdeciosa, pdeciosa noche?}
-{251}{}{Saludos, hijo m-mío. ¿Qué puede haced el Padde Tully por ti en este pdecioso, pdecioso día?}
+{250}{}{Saludos, hija m-mía. ¿Qué puede haced el Padde Tully por ti en esta pdeciosa, pdeciosa noche?}
+{251}{}{Saludos, hija m-mía. ¿Qué puede haced el Padde Tully por ti en este pdecioso, pdecioso día?}
 {252}{}{Je-Je. Hueles a d-destilería. Hueles a pis.}
 {253}{}{Yo gusta sol del día.}
 {254}{}{Noche es noche.}
@@ -164,7 +164,7 @@
 {601}{}{No.}
 {602}{}{Sí.}
 {603}{}{Padre, baje la voz. Decir esas cosas podría hacer que lo matasen en esta ciudad…}
-{604}{}{Oiga, tal vez vuelva cuando esté sobrio.}
+{604}{}{Oiga, quizá vuelva cuando estés sobrio.}
 {610}{}{(Te ignora). Vedás, hace unos meses, el viejo Bishop envío una cadavana a Ciudad Defugio, SUGIDIENDO un matdimonio de conveniencia entde Ciudad Defugio y Nuevo Deno.}
 {611}{}{¿Llegaron a un acuerdo?}
 {612}{}{Supongo que no llegarían a un acuerdo.}
@@ -262,7 +262,7 @@
 {800}{}{¿Estaba ha-hablando de los Salvatode? (Parpadea, se encoge de hombros, y luego bebe). No tengo ni i-idea de lo que estaba diciendo. La familia es re-resedvada
  como la muedte. Y tú no te quiedes cduzad con ellos… ¿sabes pod qué?}
 {803}{}{Realmente no necesito saber porqué ahora mismo, Padre. ¿Puedo hacerle algunas otras preguntas?}
-{804}{}{Oiga, tal vez vuelva cuando esté sobrio.}
+{804}{}{Oiga, quizá vuelva cuando estés sobrio.}
 {810}{}{(Se tambalea). Podque tienen admas que dispadan fuego del cielo, admas que nadie ha VISTO antes en Nuevo Deno o
  cualquied otdo sitio. Dispadan dayos de luz, codtan a un hom-hombre en dos, y le dejan endte espasmos en el suelo.}
 {811}{}{¿Disparan rayos de luz?}

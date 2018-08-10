@@ -15,8 +15,8 @@
 {121}{}{Si vas a andar sigilosamente, vas a tener que ser bastante más silencioso que eso.}
 {122}{}{Oh, así que tú eres el tipo sigiloso.}
 {123}{}{Eres bueno haciendo tu trabajo. Pero mucho, ¿eh?}
-{124}{}{Atontado, limítate a caminar de forma normal.}
-{125}{}{Otro fugado del Ministerio de los Andares Tontos.}
+{124}{}{Atontada, limítate a caminar de forma normal.}
+{125}{}{Otra fugada del Ministerio de los Andares Tontos.}
 {126}{}{Puedo verte. De hecho, voy a machacarte la cabeza.}
 {127}{}{¿Esto significa que tú tampoco me puedes ver a mí?}
 {128}{}{¿Qué fue eso? Esto no es una charada. Requiere una concentración total.}
@@ -41,7 +41,7 @@
 {162}{}{No toques nada de por aquí.}
 {163}{}{Si algo va mal por aquí, iremos a por ti.}
 {164}{}{Te culparemos a ti ante cualquier problema.}
-{170}{}{Me sorprende bastante ver a un piel suave como tú por aquí.}
+{170}{}{Me sorprende bastante ver a una piel suave como tú por aquí.}
 {171}{}{Parece que te estás empezando a broncear un poco.}
 {172}{}{Mmm, me encanta esta radiación de fondo... ¿a ti no?}
 {173}{}{No toques nada de por aquí.}

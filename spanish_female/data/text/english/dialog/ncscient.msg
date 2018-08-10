@@ -21,7 +21,7 @@
 {168}{}{Es la quinta vez que el Sujeto 12 ha tenido ataques… aumenta la dosis, a ver qué pasa…}
 {169}{}{Bien, ¿qué TIPO de alucinaciones estaba teniendo?}
 {170}{}{Comprueba el pulso de aquel. Si aún está dentro de los límites tolerables, aumenta la dosis.}
-{171}{}{¿Por qué se suicidó la esclava del grupo de control? ¡Ni siquiera estábamos haciendo pruebas con ella!}
+{171}{}{¿Por qué la esclava del grupo de control se suicidó? ¡Ni siquiera hacíamos pruebas con ella!}
 {200}{}{Las pruebas se están desarrollando según lo planeado, Myron.}
 {201}{}{Esta nueva variedad de Jet es extremadamente adictiva, señor. Los esclavos casi están
  dispuestos a matarse entre ellos por ella.}
@@ -48,7 +48,7 @@
 {218}{}{Si tienes preguntas, habla con los guardias, no conmigo.}
 {219}{}{Sí, tengo la seguridad de que lo que quiera que necesites tiene una *enorme* importancia, pero tengo mis propias
  tareas.}
-{220}{}{¿Estás autorizado para estar aquí?}
+{220}{}{¿Estás autorizada para estar aquí?}
 {221}{}{¿Quién te permitió entrar aquí?}
 {222}{}{Cuando Myron se entere de que en el laboratorio han entrado extraños…}
 {223}{}{¿Tienes esos resultados de las pruebas que te pedí… oh, lo siento. Creí que eras un técnico de laboratorio.}

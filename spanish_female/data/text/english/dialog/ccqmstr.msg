@@ -16,9 +16,9 @@
 {115}{}{Falta uniforme a yo.}
 {116}{}{Todavía no tengo uniforme.}
 {117}{}{Eres un poco lento, ¿no? (suspiro) Bueno, eso no es culpa tuya. Tengo un hermano igual que tú. De todas maneras, ¿eres nuevo aquí? No recuerdo haberte visto antes.}
-{118}{}{¿Eres nuevo aquí? No recuerdo haberte visto antes.}
-{119}{}{¡Sí! ¡Yo nuevo aquí!}
-{120}{}{Sí, soy nuevo aquí.}
+{118}{}{¿Eres nueva aquí? No recuerdo haberte visto antes.}
+{119}{}{¡Sí! ¡Yo nueva aquí!}
+{120}{}{Sí, soy nueva aquí.}
 {121}{}{Bien, entonces necesitarás el equipo estándar. Entra en la armería, vístete, y toma tu arma. Después deberás ir a informar a tu sargento de instrucción.}
 {122}{}{¡Gracias!}
 {123}{}{De nada. Ahora sal de aquí. Tengo trabajo que hacer y no quiero que me molesten.}

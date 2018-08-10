@@ -13,7 +13,7 @@
 ¿Eres imbécil? ¿Porqué buscas un GECK aquí? Prueba 
 en un Refugio. }
 {121}{}{¿Dónde está el Refugio más cercano?}
-{122}{}{Yo te enseñaré quién es aquí el imbécil. Tu sí que hablas como uno, gilipollas. Soy el Elegido, ¿sabes?}
+{122}{}{Yo te enseñaré quién es aquí el imbécil. Tu sí que hablas como uno, gilipollas. Soy la Elegida, ¿sabes?}
 {123}{}{Ah, vale, iba a... y pensaba que serías... oh, da igual. Adiós.}
 {130}{}{¿Un Kit de Creación del Jardín del Edén? ¿Te refieres al dispositivo 
 incluido en cada Refugio que supuestamente 
@@ -72,7 +72,7 @@ apestosos zombis.}
 {214}{}{Lo he pillado. Nos vemos.}
 {220}{}{Mmm, perdón. Es lo único que sé. Por cierto, ¿Has visto una manzana últimamente?}
 {221}{}{¿Una manzana?}
-{222}{}{Estoy demasiado decepcionado para hablar ahora. Adiós.}
+{222}{}{Estoy demasiado decepcionada para hablar ahora. Adiós.}
 {230}{}{Me encantan las manzanas, pero casi no hay por ningún lado. No he visto casi ninguna.}
 {231}{}{No sabía que eras un fetichista de las frutas. Cuéntame algo más.}
 {232}{}{He oído que se puede saborear una manzana porque tienes que comértelas despacio.}
@@ -83,16 +83,16 @@ apestosos zombis.}
 {251}{}{De hecho, creo que hay algo más que me pueda servir. }
 {252}{}{Estos son todos los negocios que quiero hacer por ahora. Pero tengo algunas preguntas que hacerte.}
 {253}{}{No me hace falta nada más. Adiós.}
-{260}{}{Oh, el Elegido. Vaya, no me había dado cuenta. Entonces dejaré de hacer lo que estaba haciendo para contarte algo (Wooz sonríe). Acércate, que te lo voy a decir al oído.}
+{260}{}{Oh, la Elegida. Vaya, no me había dado cuenta. Entonces dejaré de hacer lo que estaba haciendo para contarte algo (Wooz sonríe). Acércate, que te lo voy a decir al oído.}
 {261}{}{De acuerdo, eso me gusta más. Me merezco un poco más de respeto.}
 {262}{}{No me voy a acercar más a ti, bicho raro. Aléjate. Adiós.}
-{270}{}{¿El Refugio más cercano? Cristo, no lo sé. Quizá deberías preguntar a la gente de Ciudad Refugio dónde podría haber uno. Ciudad Refugio está justo al sur de aquí. Eres tonto, ¿verdad?}
+{270}{}{¿El Refugio más cercano? Cristo, no lo sé. Quizá deberías preguntar a la gente de Ciudad Refugio dónde podría haber uno. Ciudad Refugio está justo al sur de aquí. Eres tonta, ¿verdad?}
 {271}{}{Lo sabía. Te estaba poniendo a prueba. Wooz, qué listo eres. Cuéntame algo más.}
 {272}{}{¡No lo soy! Tú sí que eres tonto. Me largo. Adiós.}
 {280}{}{(Wooz se te acerca) Déjame susurrártelo…}
 {281}{}{De acuerdo.}
 {282}{}{Ni hablar; tú lo que estás intentando es comerme los sesos, ¿no? Me voy. Hasta la próxima.}
-{290}{}{¡¡¡QUE TE DEN!!! Sal de mi bar ahora mismo. Elegido. Por Cristo, menudo perdedor.}
+{290}{}{¡¡¡QUE TE DEN!!! Sal de mi bar ahora mismo. Elegida. Por Cristo, menuda perdedora.}
 {291}{}{De todas formas no me quiero quedar en tu estúpido bar. No hace falta que grites. Adiós.}
 {292}{}{Eso es, jodido leproso. Es hora de tu medicina de plomo.}
 {300}{}{¡Vete a la mierda! Eres imbécil. ¿Qué demonios quieres hacer aquí?}
@@ -115,14 +115,14 @@ apestosos zombis.}
 {361}{}{Gracias. Oye, son geniales. (Rasgas el envoltorio) Mmm, me encanta 
 cómo huelen.}
 {362}{}{Simplemente digo "no" al Tragic. Adiós.}
-{370}{}{Hola. Parece que eres otro jugador de Tragic. ¿Tienes tiempo para jugar un poco? ¿O eres un gallina? Te lo estoy diciendo a ti.}
+{370}{}{Hola. Parece que eres otra jugadora de Tragic. ¿Tienes tiempo para jugar un poco? ¿O eres un gallina? Te lo estoy diciendo a ti.}
 {371}{}{No tengo tiempo para una... bueno, de todos modos una partida no va a durar tanto…}
 {372}{}{Claro, déjame... ¡No! Debo parar. (Tu mano se dirige sola hacia la baraja, 
 como si tuviera voluntad propia) ¡Noooooo!}
 {375}{}{Jugaría al Tragic contigo, pero parece que no me queda ninguna carta.}
 {376}{}{Espera a la semana que viene y reuniré una baraja que nunca podrá perder.}
 {377}{}{Te has quedado con algunas de mis mejores cartas. ¡Odio este juego!}
-{380}{}{Esto es sólo el principio. Ahora que eres uno de nosotros, ¿quieres echar una partida?}
+{380}{}{Esto es sólo el principio. Ahora que eres una de nosotros, ¿quieres echar una partida?}
 {381}{}{Claro, pero vas a tener que enseñarme cómo.}
 {382}{}{No creo que tenga tiempo ahora mismo. Pero déjame preguntarte algo.}
 {383}{}{Me encantaría quedarme e intercambiar unas cartas de Tragic contigo, pero tengo cosas que hacer, ¿sabes? En la vida real. Adiós}
@@ -174,10 +174,10 @@ clamando por su sangre.}
 {550}{}{Bueno, hace cosas. (ji ji) Ya sabes. Hace lo que quiere, o quizás hace cosas que está obligada a hacer. La cosa es que está haciendo cosas, ya sabes, en el infierno. Oh Dios, (ja ja ja) ¡Es buenísimo!}
 {551}{}{Pareces un tanto obsesionado con esto, ¿no? Mmm. ¿Tu madre fumó durante el embarazo? ¿Has tenido alguna vez problemas mojando tu cama?}
 {560}{}{No, no te enteras. Trata sobre una cabeza cortada. ¿Lo pillas? Jejeje, ¡es divertido! ¿Cómo puedes pensar en una cabeza cortada, por todos los puñeteros demonios, sin reírte?}
-{561}{}{Wooz, no te conozco muy bien, y estoy bastante seguro de que no quiero. De todos modos, creo que puedo decir, sin pecar de exagerado, que necesitas ayuda. Inmediata y competente. }
+{561}{}{Wooz, no te conozco muy bien, y estoy bastante segura de que no quiero. De todos modos, creo que puedo decir, sin pecar de exagerado, que necesitas ayuda. Inmediata y competente. }
 {562}{}{Oh. Ya veo. Porque, sí. Por supuesto; es muy divertido. Jeje. No puedo contener mi alegría...  que es bastante... oh, me parto de la risa...  Necesito preguntarte algo.}
 {570}{}{¡Vete a la mierda! Eres como todos los demás. Te digo que es hilarantemente divertido. No es culpa mía que no tengas sentido del humor.}
-{571}{}{Tienes razón, Wooz. Creo que no soy tan listo como tú. Eres una perla en un océano de vulgaridad. Ahora cuéntame algo más.}
+{571}{}{Tienes razón, Wooz. Creo que no soy tan lista como tú. Eres una perla en un océano de vulgaridad. Ahora cuéntame algo más.}
 {572}{}{Tengo el suficiente sentido del humor para reconocer la ausencia de él en los demás. Adiós.}
 {600}{}{¿Eres imbécil? Ya te lo conté todo sobre el Tragic. Debes tener muy mala memoria.}
 {601}{}{¿Ves? Te dije que era divertido. ¿Hay algo más que necesites?}

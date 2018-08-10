@@ -1,23 +1,23 @@
 {100}{}{Metabolismo rápido}
 {101}{}{Grandullón}
-{102}{}{Canijo}
+{102}{}{Canija}
 {103}{}{Mano dominante}
-{104}{}{Refinado}
+{104}{}{Refinada}
 {105}{}{Kamikaze}
 {106}{}{Bestia}
-{107}{}{Tirador rápido}
+{107}{}{Tiradora rápida}
 {108}{}{Masacre}
 {109}{}{Gafe}
-{110}{}{Bonachón}
-{111}{}{Adicto a drogas}
+{110}{}{Bonachona}
+{111}{}{Adicta a drogas}
 {112}{}{Inmune a drogas}
 {113}{}{Sex appeal}
-{114}{}{Habilidoso}
-{115}{}{Capacitado}
+{114}{}{Habilidosa}
+{115}{}{Capacitada}
 {200}{}{Tu tasa metabólica es el doble de rápida de lo normal. Esto significa que eres mucho menos resistente a la radiación y al envenenamiento, pero tu cuerpo se cura más rápido.}
-{201}{}{Más lento, pero más grandote. No acertarás a menudo, pero cuando lo hagas les dolerá. Tus puntos de acción totales disminuyen, pero aumenta tu Fuerza.}
+{201}{}{Más lenta, pero más grandullona. No acertarás a menudo, pero cuando lo hagas les dolerá. Tus puntos de acción totales disminuyen, pero aumenta tu Fuerza.}
 {202}{}{Puede que no seas tan grande como los demás aldeanos, pero eso nunca te ha ralentizado. No puedes llevar mucho peso, pero eres mucho más ágil.}
-{203}{}{Una de tus manos es muy dominante. Eres un maestro con armas de una sola mano, pero las armas de dos manos te suponen un problema.}
+{203}{}{Una de tus manos es muy dominante. Eres una maestra con armas de una sola mano, pero las armas de dos manos te suponen un problema.}
 {204}{}{Tus ataques demuestran un gran refinamiento. No haces tanto daño, pero causas más críticos.}
 {205}{}{Como no prestas atención a ningún peligro, puedes actuar mucho más rápido en un turno. Esto reduce tu clase de armadura a la que estés portando, pero reaccionas mucho más rápido en combate.}
 {206}{}{Golpeas más duro, no mejor. Tus ataques son brutales, pero carecen de destreza. Raramente causas un crítico, pero siempre haces más daño en el cuerpo a cuerpo.}

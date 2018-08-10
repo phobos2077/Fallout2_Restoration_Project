@@ -1,7 +1,7 @@
 {100}{}{Ves a un okupa.}
 {101}{}{Ves a Bill, el okupa.}
 {102}{}{Ves a un hombre de mediana edad que lleva ropa usada.}
-{103}{}{Lo siento, forastero. No tengo tiempo de charlar contigo.}
+{103}{}{Lo siento, forastera. No tengo tiempo de charlar contigo.}
 {104}{}{¿Por qué tú no hablas con yo?}
 {105}{}{Vale, colgado.}
 {106}{}{Está bien, nos vemos.}

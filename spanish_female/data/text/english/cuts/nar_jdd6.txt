@@ -1,2 +1,2 @@
-1:Chico, estás tonto.
-2:Y muerto.
+1:Chica, estás tonta.
+2:Y muerta.

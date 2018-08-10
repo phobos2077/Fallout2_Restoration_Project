@@ -2,27 +2,27 @@
 {101}{}{Ves a un anciano oficial de Ciudad Refugio. Su pelo está encaneciendo en las sienes.}
 {102}{}{Ves al Alto miembro del Consejo McClure.}
 {103}{}{Ves a un anciano oficial de Ciudad Refugio. Su pelo está encaneciendo en las sienes.}
-{104}{}{He oído hablar de tu heroico acto. Estamos en deuda contigo... Elegido.}
+{104}{}{He oído hablar de tu heroico acto. Estamos en deuda contigo... Elegida.}
 {105}{}{Debo clasificar estas listas antes de irme. Vuelve por la mañana, y hablaré contigo.}
 {106}{}{¡¿Un necrófago?! ¡Guardias! ¡Guardias!}
 {107}{}{¡¿Un mutante?! ¡Guardias! ¡Guardias!}
 {108}{}{No tengo nada que decirte. Vete, o avisaré a los guardias.}
 {109}{}{Hola... capitán, ¿verdad? He escuchado grandes cosas sobre ti. ¿Hay algo en lo que pueda ayudarte?}
-{110}{}{Hola... Ciudadano, ¿verdad? Tengo entendido que hemos incorporado a un nuevo miembro a la comunidad. ¿Hay algo en lo que pueda ayudarte?}
+{110}{}{Hola... Ciudadana, ¿verdad? Tengo entendido que hemos incorporado a un nuevo miembro a la comunidad. ¿Hay algo en lo que pueda ayudarte?}
 {111}{}{Hola... ¿puedo ayudarte?}
 {112}{}{Hola, capitán. ¿Va todo bien?}
-{113}{}{Hola, Ciudadano. ¿Puedo ayudarte?}
+{113}{}{Hola, Ciudadana. ¿Puedo ayudarte?}
 {114}{}{¿Sí? ¿Querías algo más?}
 {115}{}{¿Sant-ta Cla-us?}
 {116}{}{Dejas de balbucear}
 {117}{}{¿Puedo hacerte unas preguntas?}
 {118}{}{¿Quién eres?}
 {119}{}{Solo estaba mirando, gracias. Que te vaya bien.}
-{120}{}{¿Cómo has entrado en nuestra ciudad? ¡Guardias! ¡Tenemos a un errante que necesita ser escoltado hasta la salida!}
+{120}{}{¿Cómo has entrado en nuestra ciudad? ¡Guardias! ¡Tenemos a una errante que necesita ser escoltada hasta la salida!}
 {121}{}{No VOY yo NO VOY}
 {122}{}{Ahhh... Por favor ¿no voy yo? Soy bueno}
 {123}{}{Por supuesto, capitán.}
-{124}{}{Por supuesto, Ciudadano.}
+{124}{}{Por supuesto, Ciudadana.}
 {125}{}{¿Qué es lo que te gustaría saber?}
 {126}{}{¿Cual es tu trabajo aquí?}
 {127}{}{Estoy buscando un Kit de Creación del Jardín del Edén.}
@@ -39,15 +39,15 @@
 {138}{}{Hoy nada, gracias.}
 {139}{}{Soy el Alto Concejal McClure. ¿Y tú eres...?}
 {140}{}{Nadie que te importe.}
-{141}{}{. Encantado de conocerte.}
+{141}{}{. Encantada de conocerte.}
 {142}{}{Realmente debo irme. Tal vez podamos hacer las presentaciones en algún otro momento.}
-{143}{}{Presupongo ese tipo de rudeza en un errante, no en un Ciudadano. Soy miembro del Consejo de Ciudad Refugio, y me mostrarás el debido respeto, o haré anular tu Ciudadanía. ¿Me has entendido?}
+{143}{}{Presupongo ese tipo de rudeza en una errante, no en una Ciudadana. Soy miembro del Consejo de Ciudad Refugio, y me mostrarás el debido respeto, o haré anular tu Ciudadanía. ¿Me has entendido?}
 {144}{}{Que te jodan, anciano.}
 {145}{}{Como sea. De todas formas ya he terminado de hablar contigo.}
 {146}{}{Lo siento. No pretendía ofenderte.}
 {147}{}{¡Bien, esta es la rudeza que podía esperar de los errantes! Dame tu pase de día y dirígete hacia los guardias. En nuestra ciudad no hay sitio para los de tu calaña.}
 {148}{}{No voy a darte nada. ¿Lo quieres? Ven a buscarlo.}
-{149}{}{NO soy un errante. Soy un Ciudadano.}
+{149}{}{NO soy una errante. Soy una Ciudadana.}
 {150}{}{Vale, vale, me marcho.}
 {151}{}{Lo encuentro difícil de creer. Déjame ver tus documentos.}
 {152}{}{¡Aquí están, tómalos!}
@@ -59,7 +59,7 @@
 {158}{}{Buenos días.}
 {159}{}{Intenta anular mi Ciudadanía, y te arrepentirás.}
 {160}{}{Eres débil, anciano. No eres rival para mí.}
-{161}{}{¡Se acabó! Ciudadano o no, te irás de aquí. ¡Guardias, mostradle la salida a este degenerado!}
+{161}{}{¡Se acabó! Ciudadana o no, te irás de aquí. ¡Guardias, mostradle la salida a esta degenerada!}
 {162}{}{Me largo. De todas maneras, este lugar apesta.}
 {163}{}{No me voy a ningún lado.}
 {164}{}{¿Qué puedo hacer por ti?}
@@ -103,11 +103,11 @@
 {202}{}{¿Puedo preguntarte otra cosa?}
 {203}{}{Gracias por tu tiempo. Adiós.}
 {204}{}{Bueno, entenderás que la Ciudadanía no es para todos. A mí me pareces del tipo aventurero... realmente, no creo que la Ciudadanía sea para ti.}
-{205}{}{Oh, vamos... tan sólo dime lo que tengo que hacer para convertirme en Ciudadano.}
-{206}{}{De todos modos, me gustaría convertirme en Ciudadano.}
+{205}{}{Oh, vamos... tan sólo dime lo que tengo que hacer para convertirme en Ciudadana.}
+{206}{}{De todos modos, me gustaría convertirme en Ciudadana.}
 {207}{}{¿Puedo preguntarte otra cosa?}
 {208}{}{No importa entonces.}
-{209}{}{¿Deseas convertirte en Ciudadano? Bueno, nos alegraría tenerte. Todo lo que tienes que hacer es hablar con el procónsul Gregory y él te hará la prueba de Ciudadanía.}
+{209}{}{¿Deseas convertirte en Ciudadana? Bueno, nos alegraría tenerte. Todo lo que tienes que hacer es hablar con el procónsul Gregory y él te hará la prueba de Ciudadanía.}
 {210}{}{¿Dónde puedo encontrar al procónsul Gregory?}
 {211}{}{¿Puedo preguntarte otra cosa?}
 {212}{}{Gracias. Iré a buscarle ahora. Adiós.}
@@ -179,15 +179,15 @@
 {278}{}{Ve a ver a Randal, el Oficial Jefe de Servicios. Podría tener la pieza almacenada.}
 {279}{}{Gracias. Iré a verlo ahora mismo.}
 {280}{}{Una cosa más. Quizá encuentres interesante este disco de datos económicos.}
-{281}{}{¡Excelente! Me preocupaba que la acumulación de radiación nos forzase a realojarnos. Serás premiado por un trabajo bien hecho.}
-{282}{}{Ciudad Refugio prevalece, Ciudadano.}
+{281}{}{¡Excelente! Me preocupaba que la acumulación de radiación nos forzase a realojarnos. Serás premiada por un trabajo bien hecho.}
+{282}{}{Ciudad Refugio prevalece, Ciudadana.}
 {283}{}{Ciudad Refugio prevalece, capitán.}
 {284}{}{Aquí están tus documentos de Ciudadanía. Si alguna vez necesitas algo, ven a verme.}
 {285}{}{Ciudad Refugio prevalece, Consejero.}
 {286}{}{Gracias.}
 {287}{}{Sí, mencionaste eso.}
 {288}{}{Bien hecho, capitán.}
-{289}{}{Bien hecho, Ciudadano.}
+{289}{}{Bien hecho, Ciudadana.}
 {290}{}{Bien hecho.}
 {291}{}{Tenía algunas preguntas más...}
 {292}{}{Gracias.}
@@ -217,7 +217,7 @@
 {316}{}{No tengo objeciones a tu propuesta. Si puedes encontrar alguna forma de optimizar la central, házmelo saber.}
 {317}{}{De acuerdo. Conseguiré esa pieza de Randal e intentaré reparar el reactor, en primer lugar.}
 {318}{}{Muy bien, capitán.}
-{319}{}{Muy bien, Ciudadano.}
+{319}{}{Muy bien, Ciudadana.}
 {320}{}{Tienes mi permiso para usar la computadora del Refugio y optimizar el disco del reactor. Puedes encontrarla en el tercer nivel del Refugio, cerca de la sala de Operaciones.}
 {321}{}{Excelente. Gracias, concejal. Iré a hacerlo.}
 {322}{}{Está hecho. Aquí tienes.}

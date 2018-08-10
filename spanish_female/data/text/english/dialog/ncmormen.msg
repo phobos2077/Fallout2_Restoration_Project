@@ -18,15 +18,15 @@
 {222}{}{Vaya que me bebería algo. Maldición…}
 {223}{}{Joooder, que calor.}
 {224}{}{¿Alguna noticia de los de arriba, eh, }
-{230}{}{¡Tú! ¡Cabrón! ¿Buscas al ángel de la muerte? ¡Lárgate!}
+{230}{}{¡Tú! ¡Puta! ¿Buscas al ángel de la muerte? ¡Desaparece!}
 {231}{}{¿Pero que coj… ¡tú! Tú, ¿qué estás haciendo aquí?}
-{232}{}{¡Tú! ¡Puta! ¿Buscas al ángel de la muerte? ¡Lárgate!}
+{232}{}{Tú! ¡Puta! ¿Buscas al ángel de la muerte? ¡Desaparece!}
 {235}{}{¡Tú! Lo siento, hombre, no puedes llevar eso por aquí.}
-{236}{}{¡Tú! Hombre, guarda esa cosa antes que empieces a poner nerviosa a la gente.}
-{240}{}{¡Tú! Chica, no puedes llevar eso por aquí.}
-{241}{}{¡Tú! Chica, guarda esa cosa antes que empieces a poner nerviosa a la gente.}
+{236}{}{¡Tú! Hombre, guarda esa cosa antes de que la gente se empiece a poner nerviosa.}
+{240}{}{¡Tú! Chica, no puedes llevar eso aquí.}
+{241}{}{¡Tú! Chica, guarda esa cosa antes de que la gente se empiece a poner nerviosa.}
 {245}{}{¿Por qué demonios estás andando a hurtadillas, }
-{250}{}{¿Por qué andas a hurtadillas, chica? Con ese gancho de derecha que tienes, deberías caminar erguida.}
+{250}{}{¿Por qué andas a hurtadillas, chica? Con el gancho de derecha que tienes, deberías caminar erguida.}
 {255}{}{¿Dónde aprendiste a pelear, }
 {256}{}{Tienes los cojones de un Mordino.}
 {257}{}{Esa última pelea fue algo más que épico, hombre.}
@@ -34,19 +34,19 @@
 {259}{}{Vuela como una mariposa, pica como una abeja. Eso eras tú, allí mismo, }
 {260}{}{Yo solía luchar en el ring, pero me herí el brazo, así que ya no sigo haciéndolo, ¿sabes?}
 {261}{}{Los Mordino podrían hacer uso de alguien tan duro como tú, }
-{262}{}{¿De dónde vienes, luchando así? Eres bueno. Y quiero decir BUENO.}
+{262}{}{¿De dónde eres, peleando así? Eres buena. Y quiero decir BUENA.}
 {263}{}{Deberías preguntarle a Pequeño Jesús por un trabajo, }
 {264}{}{Aposté por ti, y es el dinero más fácil que haya ganado nunca. Machacaste a tu contrario como nadie.}
 {265}{}{Vi tu pelea en el ring, }
 {266}{}{¿Cuantas flexiones haces, }
 {267}{}{¿Dónde entrenas, eh?}
 {268}{}{Te invitaría a una copa si no hubiera perdido todo mi dinero apostando a tu oponente.}
-{269}{}{¿Dónde aprendiste a pelear, chica? Eres despiadada. Vaya si sabes MOVERTE.}
+{269}{}{¿Dónde aprendiste a pelear, chica? Eres implacable. Sabes MOVERTE.}
 {270}{}{Tienes el espíritu de un Mordino.}
 {271}{}{La última pelea fue algo más que épica, chica.}
 {272}{}{¿Dónde entrenas, eh? ¿Necesitas un ayudante?}
 {273}{}{Cuidado con el Masticador. Le gustan las orejas… es un tipo enfermo.}
-{280}{}{Hey, hey, hey! Chica, ¿necesitas que yo te quite ese arma?}
+{280}{}{¡Hey, hey, hey! Chica, ¿necesitas que yo te quite ese arma?}
 {281}{}{¿Qué, quieres que desnude para registrarte? Venga, guarda eso antes de que me tenga que poner duro.}
 {285}{}{¿Por qué demonios estás andando a hurtadillas, }
 {290}{}{No hay forma de que te escondas de un Mordino con un cuerpo así, chica.}
@@ -57,37 +57,37 @@
 {299}{}{Soy el latin lover definitivo. No hay un latin lover como yo.}
 {300}{}{Háblale a los Hermanos de mí, }
 {301}{}{He oído que Tommy Pelotas quiere ofrecerte una proyección privada.}
-{302}{}{¿Y si tú y yo hacemos una película? Te trataré bien, chica. Te mostraré lo que puede hacer un latin lover.}
+{302}{}{Entonces, ¿cuándo vamos a hacer tú y yo una película? Te trataré bien, chica. Te demostraré lo que puede hacer un latin lover.}
 {303}{}{¿Por qué no te pasas por aquí después del trabajo?}
 {304}{}{¿Tienes amigos?}
 {305}{}{Estás haciendo lo correcto al tratar con los Mordino. Vamos a llegar lejos.}
 {306}{}{¿Necesitas algo de Jet? Puedo surtirte, chica.}
 {307}{}{Chica, no hay nada que no haría por ti… venga, vamos. Dame un besito.}
 {308}{}{¿Necesitas drogas? ¿Licor? ¿Algunas fichas? Puedo surtirte. Tengo contactos, ¿sabes?}
-{315}{}{No vayas mostrando las armas aquí, amigo. Guárdala.}
-{320}{}{No andes a hurtadillas, esclavista, ¿vale? Estás entre amigos.}
-{325}{}{¡Tú! ¿Eres tonto o algo así? Guarda ese arma antes que te haga daño.}
+{315}{}{No vayas mostrando las armas aquí, amiga. Guárdala.}
+{320}{}{No andes a hurtadillas por aquí, esclavista, ¿de acuerdo? Estás entre amigos.}
+{325}{}{¡Tú! ¿Eres tonta o algo parecido? Guarda eso antes de que te haga daño.}
 {326}{}{¿Estás buscando una lobotomía frontal? Guarda ese arma.}
-{327}{}{¡Tú, chica! ¿Eres tonta o algo así? Guarda ese arma antes que te haga daño.}
+{327}{}{¡Tú, chica! ¿Eres tonta o algo parecido? Guarda eso antes de que te haga daño.}
 {330}{}{¿Por qué demonios estás andando a hurtadillas? ¿Buscas que te peguen un tiro?}
-{335}{}{¿Por qué estás andando a hurtadillas, chica? ¿Buscas que te peguen un tiro?}
+{335}{}{¿Por qué demonios andas a hurtadillas, chica? ¿Quieres que te disparen?}
 {340}{}{Saca esa basura rodante de aquí.}
 {341}{}{Aquí no se permiten robots. Que se largue.}
 {342}{}{Ese robot se va a convertir en chatarra si se queda.}
 {345}{}{Me PARECIÓ oler a mutante. Sácalo de aquí antes que me cabree.}
-{346}{}{¿Eres un amante de los mutantes? Su lugar está FUERA. O más lejos.}
+{346}{}{¿Eres un amante de los mutantes? Su lugar es FUERA. O más lejos aún.}
 {347}{}{¿Ese mutante busca convertirse en diana? Que se quede y obtendrá lo que desea.}
 {350}{}{Me PARECIÓ oler algo podrido. Saca de aquí a ese necrófago tuyo.}
 {351}{}{Saca de aquí a ese apestoso necrófago. Ahora.}
 {352}{}{Si ese necrófago no sale de aquí en un minuto, va a estar más muerto aún.}
 {355}{}{Hice la audición para uno de los NPCs principales, pero sólo conseguí esto. Espero que no me encasillen.}
-{356}{}{Nuevo Reno fue diseñada por Chris Avellone y programada Tom French. Par de enfermos...}
+{356}{}{Nuevo Reno fue diseñada por Chris Avellone y programada por Tom French. Par de enfermos...}
 {357}{}{¡Tú! }
 {358}{}{Jodidamente sobresaliente, }
 {359}{}{He oído que los hermanos Corsican te están buscando.}
 {360}{}{Creía que el Presidente no era más que una leyenda.}
 {361}{}{Parece como si hubieras hecho un viaje de ida y vuelta al infierno. Relájate un poco. Lo mereces.}
-{362}{}{Amigo, esos bastardos del Enclave tiene suerte de no haberse metido con los Mordino.}
+{362}{}{Amiga, esos bastardos del Enclave tiene suerte de no haberse metido con los Mordino.}
 {370}{}{¿Tienes algo de Jet, compadre?}
 {371}{}{¿Que cómo va todo? Pues va como el culo, así va.}
 {372}{}{¿Eh? ::Escupe:: ¿Qué pasa, }
@@ -105,7 +105,7 @@
 {384}{}{¿Tienes algo de Jet, chica? Me muero por tomar un poco.}
 {400}{}{Demuestras tener cojones viniendo por aquí. Pero te sugiero que te marches.}
 {401}{}{Tu madre debió salir de una perrera, a juzgar por tu aspecto.}
-{402}{}{Pareces un hombre que no sabe cuándo va a morir.}
+{402}{}{Pareces una mujer que no sabe cuándo va a morir.}
 {403}{}{Hijo de puta…}
 {404}{}{¿Me estás hablando a mí? ¿Me estás hablando a mí?}
 {405}{}{Vuelve a dirigirme la palabra, y te llenaré tanto de plomo que ni siquiera Superman podrá ver a través de ti.}
@@ -161,7 +161,7 @@
 {490}{}{(Parpadea y sonríe confuso). ¿Eh? Sí, sí. Yo soy, eh... perspect... soy un GUARDIA, ¿vale?}
 {491}{}{Sí, ya lo has mencionado. Si yo fuera tú, Ramirez, le haría un favor a la humanidad y me tomaría toda la caja
  de Jet de un tirón. Nos vemos.}
-{492}{}{Amigo, me alegro que alguien tuviera la sabiduría de daros a todos vosotros armas automáticas. Me hace sentir seguro. Hasta luego, Ramirez.}
+{492}{}{Amigo, me alegro que alguien tuviera la sabiduría de daros a todos vosotros armas automáticas. Me hace sentir segura. Hasta luego, Ramirez.}
 {493}{}{(Parpadea). ¿Eh...? ¿Qué has dicho?}
 {494}{}{Olvídalo. Siéntate sobre un arma y usa el gatillo, ¿de acuerdo?}
 {495}{}{Nada. Si yo fuera tú, Ramirez, le haría un favor a la humanidad y me tomaría toda la caja de Jet de un tirón. Nos vemos.}
@@ -180,7 +180,7 @@
 {1221}{}{! ¿Que pasa?}
 {1224}{}{?}
 {1245}{}{? Con ese gancho de derecha que tienes, deberías andar erguido.}
-{1255}{}{? Eres despiadado. Vaya si sabes cómo MOVERTE, compadre.}
+{1255}{}{? Eres despiadada. Vaya si sabes cómo MOVERTE, compañera.}
 {1259}{}{.}
 {1261}{}{. Las demás Familias te ven llegar y se meten bajo tierra en cuestión de segundos.}
 {1263}{}{.}

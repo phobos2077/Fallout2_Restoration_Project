@@ -2,7 +2,7 @@
 {101}{}{Ves a Mynoc, el guardián del puente.}
 {150}{}{Ante ti se encuentra un gran guerrero de tu poblado, sosteniendo una lanza.}
 {151}{}{[HABLAR]}
-{152}{}{Hola, Elegido. ¿Te marchas a buscar el GECK?}
+{152}{}{Hola, Elegida. ¿Te marchas a buscar el GECK?}
 {153}{}{Sí.}
 {154}{}{Sí. Pero antes de irme, me gustaría hacerte algunas preguntas.}
 {155}{}{Todavía no. Voy a estar dando una vuelta por aquí un rato más.}
@@ -48,10 +48,10 @@
 {195}{}{Bien, ¿por qué estás hablando conmigo? Habla con ellos y consigue el GECK.}
 {196}{}{Lo haré... todo a su tiempo, amigo mío.}
 {197}{}{Me estoy hartando de tus constantes regañinas.}
-{198}{}{¿Qué nuevas hay del GECK, Elegido?}
+{198}{}{¿Qué nuevas hay del GECK, Elegida?}
 {199}{}{¡He encontrado el Refugio!}
 {200}{}{No he podido encontrar el Refugio 13.}
-{201}{}{Anda, mira, si es el Elegido.}
+{201}{}{Anda, mira, si es la Elegida.}
 {202}{}{Hola.}
 {203}{}{Cierra el pico.}
 {204}{}{¿Puedo hacerte una pregunta?}
@@ -61,11 +61,11 @@
 {208}{}{Muérete.}
 {209}{}{¡Saludos, idiota! ¿Ves puente? Tú cruzas, tú tener cuidado. Puente peligroooso. Tú no quieres caer. ¿Vale?}
 {210}{}{Umm... ¿Hunh?}
-{211}{}{¡Desgraciado! ¡Le has fallado al poblado!}
+{211}{}{¡Desgraciada! ¡Le has fallado al poblado!}
 {212}{}{Nos has traicionado. ¡Morirás por ello!}
-{213}{}{Eres un traidor a su propia gente.}
+{213}{}{Eres una traidora a tu propio pueblo.}
 {214}{}{¿Por qué haces esto?}
-{215}{}{La Anciana se equivocó. Eres malvado.}
+{215}{}{La Anciana se equivocó. Eres malvada.}
 {300}{}{Mi padre me enseñó cómo hacer hojas más afiladas. Consígueme un pedazo de pedernal y también afilaré tu lanza. La necesitarás en el Yermo.}
 {301}{}{¿Dónde podría conseguir algún pedernal?}
 {302}{}{Dicen que tu tía Morlis ha estado guardando uno. Tiene tan mal genio que no creo que nadie se lo haya pedido. Por supuesto, esa bruja querrá algo a cambio.}
@@ -81,7 +81,7 @@
 {312}{}{Aquí está tu nueva lanza.}
 {313}{}{Gracias, amigo... me será de gran ayuda.}
 {314}{}{Si, pero estaba mirando tu lanza. Parece algo diferente.}
-{400}{}{¡Bienvenido a casa, Elegido! ¿Has encontrado el Refugio? ¿Has traído el GECK?}
+{400}{}{¡Bienvenido a casa, Elegida! ¿Has encontrado el Refugio? ¿Has traído el GECK?}
 {401}{}{No encuentro yo todavía.}
 {402}{}{No, todavía no lo he encontrado.}
 {403}{}{No estoy de humor para preguntas. Adiós.}
@@ -93,8 +93,8 @@
 {409}{}{Somos gente sencilla y tenemos poco que ofrecer a cambio. Los pocos pueblos con los que hemos hablado no tienen interés en ayudarnos.}
 {410}{}{Veo.}
 {411}{}{Ya veo.}
-{412}{}{Eres nuestra sola esperanza, Elegido. Por favor, ¡no nos falles!}
-{413}{}{Qué bueno verte, Elegido. ¿Cómo marcha tu búsqueda?}
+{412}{}{Eres nuestra sola esperanza, Elegida. Por favor, ¡no nos falles!}
+{413}{}{Qué bueno verte, Elegida. ¿Cómo marcha tu búsqueda?}
 {414}{}{Todavía busco.}
 {415}{}{La estoy buscando.}
 {416}{}{No quiero hablar de ello.}
@@ -107,7 +107,7 @@
 {423}{}{Nuestras cosechas se pierden, los brahmines mueren, todo el mundo está hambriento. Los llantos de los niños no dejan dormir a nadie por la noche. Nos hemos vuelto un pueblo sin esperanza.}
 {424}{}{Aún busco y sigo.}
 {425}{}{Haré lo que pueda.}
-{426}{}{Vuelves otra vez con nosotros, Elegido. Espero que sin las manos vacías.}
+{426}{}{Vuelves otra vez con nosotros, Elegida. Espero que sin las manos vacías.}
 {427}{}{Yo siento, no encuentro GECK aún.}
 {428}{}{Lo siento, todavía no he encontrado el GECK.}
 {429}{}{Ya he tenido suficiente.}
@@ -176,7 +176,7 @@
 {1103}{}{Nuestro hermoso poblado.}
 {1104}{}{Es un puesto comercial a pocos días al este de aquí.}
 {1105}{}{El Refugio es el paraíso.}
-{1106}{}{Eres el Elegido.}
+{1106}{}{Tú eres la Elegida.}
 {1107}{}{Él nos cura con sus hierbas y su magia. Está en la parte norte del poblado.}
 {1108}{}{Él nos cura con sus hierbas y su magia. Está en la parte norte del poblado.}
 {1109}{}{Es un polvo mágico que te curará, pero también te dejará soñoliento.}

@@ -55,7 +55,7 @@
 {317}{}{¿Cuando es su próximo combate, señora?}
 {320}{}{¿Cuándo vas a pasar por aquí a verme?}
 {321}{}{¡Hey, bienvenida al casino! ¿Bailarás esta noche?}
-{322}{}{Eres espectacular, preciosa.}
+{322}{}{Eres mortal, dulzura.}
 {323}{}{La Dama fortuna va a tener celos si sigues viniendo por aquí.}
 {324}{}{He oído que Tommy Pelotas quiere ofrecerte una proyección privada.}
 {330}{}{El casino es en el interior. No hables conmigo.}

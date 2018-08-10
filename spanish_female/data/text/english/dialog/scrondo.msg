@@ -7,5 +7,5 @@
 {106}{}{Lo siento, ya no nos dedicamos a ello.}
 {107}{}{Esta es una propiedad privada. ¿Lo pillas?}
 {108}{}{No tengo más trabajo ahora mismo, ¿vale?}
-{109}{}{Oye, bastardo, no deberías meterte con los Rangers.}
+{109}{}{Oye, zorra, no deberías meterte con los Rangers.}
 {110}{}{Vuelve a tocar alguna de mis cosas y tendré que abrirte un agujero nuevo.}

@@ -3,16 +3,16 @@
 {150}{}{Ves a un enano con ropas de niño. Está masticando un palillo de dientes y estudiándote.}
 {151}{}{Ves a Pequeño Stuart, el agente de boxeo enano. Está masticando un palillo de dientes y estudiándote.}
 {152}{}{Ves a Pequeño Stuart, el agente de boxeo enano. Es una ricura. Como un pequeño osito de peluche de pelo rojo.}
-{200}{}{Muchacho, sabía que lo harías bien, pero no imaginaba que también salvarías al mundo. Buen trabajo.}
-{201}{}{Me has hecho sentir orgulloso, muchacho.}
-{202}{}{Guardaste la distancia, muchacho. Stuart está orgulloso de ti.}
+{200}{}{Muchacha, sabía que lo harías bien, pero no imaginaba que también salvarías al mundo. Buen trabajo.}
+{201}{}{Me has hecho sentir orgulloso, muchacha.}
+{202}{}{Guardaste la distancia, muchacha. Stuart está orgulloso de ti.}
 {210}{}{Ojalá te hubiera visto poner tu puño sobre el Enclave.}
 {211}{}{Esta batalla contra el Enclave debe haber sido para verla. Maldición.}
 {212}{}{¡Ja! ¿Alguna vez pensaste en usar esa energía tuya en el CUADRILÁTERO, en lugar de en salvar al mundo?}
-{220}{}{¿Cómo lo llevas, campeón?}
-{221}{}{Se te ve bien, amigo.}
+{220}{}{¿Cómo lo llevas, campeona?}
+{221}{}{Se te ve bien, amiga.}
 {222}{}{Lo que tú tienes son puños de oro puro.}
-{223}{}{Comes rayos y cagas truenos, muchacho.}
+{223}{}{Comes rayos y cagas truenos, muchacha.}
 {224}{}{Te has librado de ese hijoputa como de un mal hábito. Buen trabajo.}
 {225}{}{Me alegra de haberte dado la oportunidad, amorcito.}
 {226}{}{Se te ve bien, cariño.}
@@ -21,9 +21,9 @@
 {232}{}{Si tan solo fuera un poco más alto…}
 {233}{}{Todos esos tipos luchan como vagabundos…}
 {240}{}{(El enano te estudia mientras se acerca y se saca el palillo de dientes de la boca). }
-{241}{}{¿Sí? ¿Qué quieres, grandullón?}
+{241}{}{¿Sí? ¿Qué quieres, grandullona?}
 {242}{}{¿Qué puedo hacer por ti, cariño?}
-{243}{}{Hola, héroe. ¿Qué puedo hacer por ti?}
+{243}{}{Hola, heroína. ¿Qué puedo hacer por ti?}
 {244}{}{¿Hunh?}
 {245}{}{¿Por qué tú eres taaan pequeñito?}
 {246}{}{[Te alejas]}
@@ -78,16 +78,16 @@
 {340}{}{Una oportunidad más. Me quedo el 75%, sin discusiones. }
 {341}{}{Una oportunidad más. Me sigo quedando el 75%, sin discusiones. }
 {342}{}{Hecho. Estoy listo para pelear de nuevo ahora mismo. Adelante, Stuart.}
-{343}{}{Hecho. Dame un poco de tiempo para descansar, y volveré a estar listo para pelear de nuevo.}
+{343}{}{Hecho. Dame un poco de tiempo para descansar, y volveré a estar lista para pelear de nuevo.}
 {344}{}{Nada merece tanto dolor.}
 {345}{}{(Stuart enrojece, como si estuviera a punto de comenzar a gritar, pero luego se calma). De acuerdo. }
 {346}{}{Vuelve a joderla y sales de aquí.}
 {350}{}{(Stuart está sonriendo como un chacal). Una actuación jodidamente buena ahí arriba, }
-{351}{}{Yo listo ahora LISTO Y HAGO MUCHO DAÑO AHORA AHORA}
-{352}{}{Hago siesta pequeña y listo luego para pelear otra vez}
+{351}{}{Yo lista ahora LISTA Y HAGO MUCHO DAÑO AHORA AHORA}
+{352}{}{Hago siesta pequeña y lista luego para pelear otra vez}
 {353}{}{Quiero un poco de helado}
-{355}{}{Estoy listo. Pongámonos manos a la obra.}
-{356}{}{Déjame descansar un poco, y después estaré listo.}
+{355}{}{Estoy lista. Pongámonos manos a la obra.}
+{356}{}{Déjame descansar un poco, y después estaré lista.}
 {357}{}{Creo que he acabado con esto, Stuart… vi mi muerte de cerca en ese cuadrilátero, y me he asustado. Voy a colgar los guantes.}
 {360}{}{(El enano parpadea, y luego frunce el ceño). ¿He… helado?}
 {361}{}{Yo de lado, tú de lado, todos quieren helado.}
@@ -121,12 +121,12 @@
 {422}{}{… }
 {423}{}{¿Qué puedo hacer por ti?}
 {424}{}{Quiero boxear. ¿Puedes ayudarme?}
-{430}{}{(Stuart asiente con la cabeza y sonríe cuando te aproximas). ¡Oye, héroe! He oído lo que hiciste. Felicidades. ¿Qué tal?}
+{430}{}{(Stuart asiente con la cabeza y sonríe cuando te aproximas). ¡Oye, heroína! He oído lo que hiciste. Felicidades. ¿Qué tal?}
 {431}{}{(Stuart asiente cuando te acercas). ¡Heeeey, }
 {432}{}{(Stuart se burla cuando te acercas). Vaya, si es "}
 {433}{}{Quiero pelear más.}
 {434}{}{El cielo. Adiooos.}
-{435}{}{Liiiiisto para pelear.}
+{435}{}{Liiiiista para pelear.}
 {436}{}{Dame otra oportunidad, Stuart. ¡Puedo MARCAR la diferencia! Vamos…}
 {437}{}{Nada. Sólo pasaba por aquí.}
 {440}{}{¿Quieres BOXEAR? Eh… está bien, déjame evaluarte, muchacho. No pareces tener
@@ -148,7 +148,7 @@
 {454}{}{Oh, esto es una mierda. Me largo de aquí.}
 {460}{}{No, lo siento, cariño, demasiado riesgo… ni siquiera tendrías la oportunidad de que te dejaran pelear. Ahora vete
  a casa, ¿vale?}
-{461}{}{No, lo siento, amigo, incluso aunque sería una masacre entretenida. Ahora vete a casa, ¿vale?}
+{461}{}{No, lo siento, amiga, incluso aunque sería una masacre entretenida. Ahora vete a casa, ¿vale?}
 {462}{}{Es un riesgo, cierto… pero ya sabes, Stuart, podría *desnudarme* un poco en el cuadrilátero. Eso podría atraer a una multitud mayor de lo que estáis
  acostumbrados…}
 {463}{}{Oh, esto es una mierda. Me largo de aquí.}
@@ -213,9 +213,9 @@
 {1406}{}{, quiero boxear. ¿Puedes ayudarme?}
 {1421}{}{. Encantado de conocerte. }
 {1422}{}{… Me gusta eso. Un buen nombre. Bien, es un placer conocerte, }
-{1431}{}{! ¿Qué tal? ¿Listo para volver al cuadrilátero?}
+{1431}{}{! ¿Qué tal? ¿Lista para volver al cuadrilátero?}
 {1432}{}{". ¿Qué te trae de vuelta?}
 {1490}{}{ Huracán, }
-{2490}{}{ el Camorrista, ya sabes.}
+{2490}{}{ la Camorrista, ya sabes.}
 {2505}{}{… no está mal, no está mal. Se ajusta. (Señala el cuadrilátero con la cabeza). ¿Vamos a ello, entonces? ¿Estás listo?}
 {3422}{}{. }

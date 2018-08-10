@@ -1,15 +1,15 @@
 {100}{}{Ves a un viajero polvoriento.}
 {101}{}{Ves a un cliente del bar.}
 {102}{}{Ves a un viajero polvoriento.}
-{103}{}{¡Oíd! ¡Atención todos! ¡Es el que le pateó el culo al Enclave!}
-{104}{}{¡Enhorabuena, héroe!}
-{105}{}{¡Oye, héroe! Deja que te invite a una copa, ¿de acuerdo?}
+{103}{}{¡Oíd! ¡Atención todos! ¡Es la que le pateó el culo al Enclave!}
+{104}{}{¡Enhorabuena, heroína!}
+{105}{}{¡Oye, heroína! Deja que te invite a una copa, ¿de acuerdo?}
 {106}{}{Parece que el capitán está visitando los barrios bajos...}
-{107}{}{Vaya, pero si es el esbirro favorito de la Primer Ciudadano...}
-{108}{}{Vaya, pero si es el "capitán"...}
+{107}{}{Vaya, pero si es la esbirro favorita de la Primer Ciudadano...}
+{108}{}{Vaya, pero si es la "capitán"...}
 {109}{}{Atentos todos. La ley acaba de entrar.}
-{110}{}{¿Visitando los barrios bajos, Ciudadano?}
-{111}{}{No perteneces al interior de la ciudad, "Ciudadano"?}
+{110}{}{¿Visitando los barrios bajos, Ciudadana?}
+{111}{}{No perteneces al interior de la ciudad, "Ciudadana"?}
 {112}{}{Los malditos Ciudadanos simplemente se pasean por ahí cada vez que les da la gana...}
 {113}{}{Eh, eh... ¡¿eso es un mutante?!}
 {114}{}{Despejad, chicos. Tenemos a un mutante en casa.}
@@ -30,10 +30,10 @@
 {129}{}{Váyase a tomar viento, "capitán".}
 {130}{}{Parece que Lynette hace Ciudadano a cualquiera hoy en día.}
 {131}{}{Ya he pagado a los guardias el dinero de la protección. Ahora, déjame solo.}
-{132}{}{¿Visitando los barrios bajos, Ciudadano?}
-{133}{}{Tal vez será mejor que te quedes dentro de la ciudad, Ciudadano.}
-{134}{}{Lárgate, Ciudadano.}
-{135}{}{Vete a tomar viento, Ciudadano.}
+{132}{}{¿Visitando los barrios bajos, Ciudadana?}
+{133}{}{Tal vez será mejor que te quedes dentro de la ciudad, Ciudadana.}
+{134}{}{Lárgate, Ciudadana.}
+{135}{}{Vete a tomar viento, Ciudadana.}
 {136}{}{Parece que Lynette hace Ciudadano a cualquiera hoy en día.}
 {137}{}{Ese Smith es un buen tipo.}
 {138}{}{No creo que llegue a conseguir jamás un pase de día.}

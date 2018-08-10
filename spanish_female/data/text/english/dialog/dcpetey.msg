@@ -15,7 +15,7 @@
 {164}{}{Muchas gracias. [cof] Mu-mu-muchas gracias.}
 {165}{}{No hay de qué.}
 {166}{}{Ya, ya.}
-{167}{}{Señor, [cof] ¿puede ayudar a un pobre hombre con mala suerte?}
+{167}{}{Señora, [cof] ¿puede ayudar a un pobre hombre con mala suerte?}
 {168}{}{Aquí tienes 5 dólares.}
 {169}{}{Hoy no.}
 {170}{}{Búscate un trabajo.}
@@ -31,7 +31,7 @@
 {204}{}{¿Crees que podrías prestarme unos pocos dólares?}
 {205}{}{¿Lleva algo suelto, amable señora?}
 {206}{}{Eh, señora; ¿lleva algo suelto?}
-{220}{}{Por favor, ayúdeme, señor.}
+{220}{}{Por favor, ayúdeme, señora.}
 {221}{}{Ahhh, qué mal.}
 {222}{}{Necesito ayuda. Me encuentro mal.}
 {223}{}{Señora, ¿podría ayudarme?}

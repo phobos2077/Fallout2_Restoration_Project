@@ -4,7 +4,7 @@
 {103}{}{Ves a un campesino.}
 {104}{}{Ves a un trampero.}
 {105}{}{Ves a un trampero.}
-{110}{}{Je, je: ¿reconoces ahora que eres uno de los nuestros?}
+{110}{}{Je, je: ¿reconoces ahora que eres una de los nuestros?}
 {111}{}{No tenemos nada que puedas robarnos.}
 {112}{}{El barrio de los tramperos cada día tiene ratas más grandes. Algunas hasta caminan erguidas.}
 {113}{}{Aquí no hay sitio para ti.}
@@ -38,7 +38,7 @@
 {144}{}{Unas pocas pieles más y podré pagarme un buen baño.}
 {145}{}{Mmm, me encanta la cecina de estos Dunton.}
 {146}{}{Si los hombres bicho aparecen alguna vez por aquí, las ratas se los comerán. Je, je.}
-{147}{}{Si señor, hay viejos túneles debajo de Klamath. Créetelo.}
+{147}{}{Si señora, hay viejos túneles debajo de Klamath. Créetelo.}
 {148}{}{Hay un montón de cosas reptando por esos edificios.}
 {150}{}{Tienes pinta de saber arreglártelas por el bosque.}
 {151}{}{Cazar geckos es peligroso... pero se paga bien.}

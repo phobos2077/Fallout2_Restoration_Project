@@ -16,7 +16,7 @@
 {125}{}{Otro de la banda de los Dunton.}
 {126}{}{¿Qué estás mirando?}
 {127}{}{Muévete.}
-{128}{}{Invítanos a una ronda, recién llegado.}
+{128}{}{Invítanos a una ronda, recién llegada.}
 {129}{}{Espero que puedas aguantar el licor.}
 {130}{}{No tienes pinta de caníbal.}
 {131}{}{No hay habitaciones para los tuyos.}
@@ -37,15 +37,15 @@
 {151}{}{Parece que los tribales no son tan malos después de todo.}
 {152}{}{¡Invítanos a una ronda!}
 {153}{}{Hola a todos.}
-{154}{}{Podrías ser el hermano gemelo de Sulik.}
+{154}{}{Podrías ser la hermana gemela de Sulik.}
 {155}{}{¿Has saludado a Sulik?}
 {156}{}{Últimamente el negocio del trampeo marcha bien.}
 {157}{}{Tiene pinta de que el tiempo va a cambiar, eso parece.}
 {158}{}{Tengo un buen sitio de caza al sur de aquí.}
-{159}{}{Si eres listo te alejarás de los Dunton.}
-{160}{}{Si estás ansioso, ve a la Casa de Baños.}
+{159}{}{Si eres lista te alejarás de los Dunton.}
+{160}{}{Si estás ansiosa, ve a la Casa de Baños.}
 {161}{}{Al oeste está el barrio de los tramperos, si buscas un lugar donde dormir.}
-{162}{}{Bienvenido, amigo.}
+{162}{}{Bienvenida, amiga.}
 {163}{}{Espero que te guste nuestra ciudad.}
 {164}{}{Klamath es el mejor lugar del mundo.}
 {165}{}{Me alegro de verte.}
@@ -62,15 +62,15 @@
 {206}{}{¡Hurra!}
 {207}{}{Los tribales saben qué es lo mejor de la vida.}
 {208}{}{Gracias.}
-{209}{}{Gracias, amigo.}
+{209}{}{Gracias, amiga.}
 {210}{}{Me hacia falta una. Gracias.}
 {211}{}{¡Un millón de gracias!}
 {212}{}{Prefiero tener una botella delante mío...}
-{213}{}{Te lo agradezco, amigo.}
+{213}{}{Te lo agradezco, amiga.}
 {214}{}{¡Bien!}
 {215}{}{¡Sí! Lo estaba esperando.}
 {216}{}{Pensaba que nunca la pedirías.}
-{217}{}{Gracias, amigo.}
+{217}{}{Gracias, amiga.}
 {218}{}{Igual que Sulik.}
 {219}{}{Gracias.}
 {220}{}{¡Siiii!}

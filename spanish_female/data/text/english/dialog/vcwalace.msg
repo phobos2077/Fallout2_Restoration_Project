@@ -8,8 +8,8 @@
 {107}{}{No tengo nada que decirle a alguien que viaja con... necrófagos. Los de su clase encajan en el Patio.}
 {108}{}{No tengo nada que decirle a alguien que viaja con... mutantes. Los de su clase encajan en el Patio.}
 {109}{}{Hola, capitán. ¿Hay algo en lo que pueda ayudarle?}
-{110}{}{Hola, Ciudadano. ¿Hay algo en lo que pueda ayudarte?}
-{111}{}{Hola, viajero. Bienvenido a Ciudad Refugio. ¿Hay algo en lo que pueda ayudarte?}
+{110}{}{Hola, Ciudadana. ¿Hay algo en lo que pueda ayudarte?}
+{111}{}{Hola, viajera. Bienvenida a Ciudad Refugio. ¿Hay algo en lo que pueda ayudarte?}
 {112}{}{¡Frazz-urb-luuw!}
 {113}{}{Dejas de balbucear}
 {114}{}{¿Quién eres?}
@@ -39,8 +39,8 @@
 {138}{}{Me gustaría volver a entrar en la ciudad.}
 {139}{}{Quería hacerte algunas preguntas...}
 {140}{}{No importa.}
-{141}{}{Deja de molestarme, tonto.}
-{142}{}{Tonto yo NO. TONTO TU.}
+{141}{}{Deja de molestarme, tonta.}
+{142}{}{Tonta yo NO. TONTO TU.}
 {143}{}{Dejas de balbucear}
 {144}{}{Mira, ¿quizá podemos solucionarlo de alguna forma...?}
 {145}{}{Eh, entonces adiós.}
@@ -67,13 +67,13 @@
 {166}{}{Si quieres entrar en Ciudad Refugio, entonces necesitarás una buena razón. Sólo un Ciudadano tiene el derecho a entrar y salir cuando así lo desee. Los demás deben obtener un pase de día.}
 {167}{}{¿Qué es un pase de día?}
 {168}{}{Es muy importante que me permitas hablar con tu líder.}
-{169}{}{Eh, pero soy Ciudadano. Aquí, mira esto.}
+{169}{}{Eh, pero soy Ciudadana. Aquí, mira esto.}
 {170}{}{Ya veo. Gracias por la información.}
 {171}{}{Esta es la Oficina de aduanas de Ciudad Refugio. Somos responsables de mantener un registro de todas las mercancías que llegan a nosotros a través de las caravanas, y de supervisar todas las transacciones. Todos los comerciantes deben pasar por la aduana antes de entrar en la ciudad.}
 {172}{}{Me gustaría entrar en la ciudad.}
 {173}{}{¿Qué mercancías recibís de las caravanas?}
 {174}{}{Ya veo. Gracias por la información.}
-{175}{}{Eh... ¿estás seguro?}
+{175}{}{Eh... ¿estás segura?}
 {176}{}{Qu-? ¿Quién eres TÚ para acusar de nada a un Ciudadano?}
 {177}{}{Bueno, me vendió estos documentos falsos de Ciudadanía. Mira, aquí están.}
 {178}{}{No importa. Debo haberme equivocado.}
@@ -103,7 +103,7 @@
 {202}{}{Bien... ciertamente parece un asunto para la Primer Ciudadano. Aquí está tu pase de día. Sólo sirve durante el día: por la noche se te pedirá que abandones la ciudad. Los Ciudadanos también se reservan el derecho a cancelar los privilegios del pase de día en cualquier momento, así que portate bien.}
 {203}{}{Entendido. ¿Puedo hacerte alguna otra pregunta?}
 {204}{}{Gracias.}
-{205}{}{No malgastes más mi tiempo, extranjero. Márchate.}
+{205}{}{No malgastes más mi tiempo, extranjera. Márchate.}
 {206}{}{Te sugiero que te marches ahora, o avisaré a los guardias.}
 {207}{}{NO tuuu te VAS o yo te PEGO}
 {208}{}{Dejas de balbucear}
@@ -112,11 +112,11 @@
 {211}{}{¿Y de dónde, si se puede saber, ha salido esa documentación de Ciudadanía fraudulenta? Ese número de serie es el mismo que el de los documentos robados el mes pasado.}
 {212}{}{Si te lo digo, ¿me darás un pase de día?}
 {213}{}{Fue tu ayudante, Skeev. Él me los vendió.}
-{214}{}{No sé de lo que estás hablando. Soy un Ciudadano.}
+{214}{}{No sé de lo que estás hablando. Soy una Ciudadana.}
 {215}{}{Hmmmm... muy bien. Si me lo dices, te daré un pase de día. Ahora, ¿de dónde conseguiste esos documentos?}
 {216}{}{Fue tu ayudante, Skeev. Él me los vendió.}
 {217}{}{He cambiado de opinión. No te diré nada.}
-{218}{}{Extranjero degenerado. ¡Conmigo no se juega! ¡Nunca volverás a poner un pie en nuestra ciudad! ¡Vete antes de que avise a los guardias!}
+{218}{}{Extranjera degenerada. ¡Conmigo no se juega! ¡Nunca volverás a poner un pie en nuestra ciudad! ¡Vete antes de que avise a los guardias!}
 {219}{}{Adelante, avísalos. Me encargaré de ellos después de masacrarte a ti.}
 {220}{}{Me marcho. Por ahora.}
 {221}{}{¿Skeev? ¡Así es como me paga por haberle tratado como a un hijo! Lo lamentará, te lo aseguro.}
@@ -125,7 +125,7 @@
 {224}{}{No hay problema. Adiós.}
 {225}{}{Skeev? ¡Ese miserable desagradecido! ¡Resolveré esto de inmediato!}
 {226}{}{No hay problema. ¿Puedo hacerte algunas preguntas más?}
-{227}{}{Ooooooh, estoy asustado. Gracias por el pase de día, amigo.}
+{227}{}{Ooooooh, estoy asustada. Gracias por el pase de día, amigo.}
 {228}{}{Entendido. Gracias.}
 {229}{}{Muy bien, te lo has ganado. Aquí lo tienes. El pase sólo sirve durante el día; por la noche, se te pedirá que abandones la ciudad. Los Ciudadanos también se reservan el derecho a cancelar los privilegios del pase de día en cualquier momento, así que portate bien.}
 {230}{}{Lo tengo. Dime, ¿puedo hacerte alguna pregunta más?}
@@ -133,17 +133,17 @@
 {232}{}{Lo siento. A menos que tengas una razón urgente, no puedo ayudarte.}
 {233}{}{Uh... pero tengo una razón urgente. De verdad.}
 {234}{}{Está bien, tenía algunas preguntas más...}
-{235}{}{¡Pero soy el descendiente del Morador del Refugio original!}
+{235}{}{¡Pero soy la descendiente del Morador del Refugio original!}
 {236}{}{No importa entonces. Adiós.}
-{237}{}{TONTO de mí. Debería haber sabido que alguien de TU superior cultura vendría de la reserva del Morador del Refugio. ¡Bah! No malgastes más de mi tiempo, forastero.}
+{237}{}{TONTO de mí. Debería haber sabido que alguien de TU superior cultura vendría de la reserva del Morador del Refugio. ¡Bah! No malgastes más de mi tiempo, forastera.}
 {238}{}{Me dejarás entrar, y lo harás ahora, o lo próximo que se desparramará aquí serás tú.}
 {239}{}{De acuerdo, me marcho.}
 {240}{}{Muy bien. ¿Qué querías saber?}
 {241}{}{Hola, capitán. ¿Hay algo en lo que pueda ayudarle?}
-{242}{}{Hola, Ciudadano. ¿Hay algo en lo que pueda ayudarte?}
+{242}{}{Hola, Ciudadana. ¿Hay algo en lo que pueda ayudarte?}
 {243}{}{Tú de nuevo. ¿Querías algo más, o...?}
 {244}{}{Por supuesto, capitán. ¿Qué más quería saber?}
-{245}{}{Por supuesto, Ciudadano. ¿Qué más querías saber?}
+{245}{}{Por supuesto, Ciudadana. ¿Qué más querías saber?}
 {246}{}{¿Qué más querías saber?}
 {247}{}{¡Frazz-urb-luuw!}
 {248}{}{Dejas de balbucear}
@@ -164,7 +164,7 @@
 {263}{}{¿Puedo preguntarte otra cosa?}
 {264}{}{Ya veo. Gracias por la información.}
 {265}{}{Es una... comunidad al oeste de aquí. Adquirimos con frecuencia siervos a sus comerciantes. Es un lugar muy duro, por lo que he oído.}
-{266}{}{Estoy seguro de que un... expoliador de siervos... como tú tiene un conocimiento mucho más amplio que yo sobre ese lugar.}
+{266}{}{Estoy seguro de que una... expoliadora de siervos... como tú tiene un conocimiento mucho más amplio que yo sobre ese lugar.}
 {267}{}{Un lugar encantador, en verdad. Asesinos, ladrones... la habitual escoria de los forasteros. Un lugar en el que alguien como tú se sentiría como en su propio hogar.}
 {268}{}{¿Qué puedes contarme acerca de Broken Hills?}
 {269}{}{¿Qué puedes contarme acerca de Redding?}
@@ -249,7 +249,7 @@
 {338}{}{Estoy buscando un GECK para salvar mi poblado.}
 {339}{}{Mira, déjame entrar ahora, y te permitiré seguir respirando. }
 {340}{}{No importa. Quizá hablemos más tarde.}
-{341}{}{Gracias por tu ayuda, forastero.}
+{341}{}{Gracias por tu ayuda, forastera.}
 {342}{}{Bien, como te prometí, aquí está tu pase de día... pero si te pasas de la raya, lo revocaré. ¿Me has entendido?}
 {343}{}{Oh, uh… bien, soy mercader. Tenía planeado comerciar con los demás comerciantes de la ciudad. ¿Puedes darme un pase de día?}
 {344}{}{¿Eres comerciante? ¿En serio? ¿Y qué se supone que vendes? ¿Mineral? ¿Algunas de esas inmundas pieles de lagarto del Yermo? }

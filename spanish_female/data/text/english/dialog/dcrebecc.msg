@@ -5,14 +5,14 @@
 {201}{}{¡Oye! ¿Quieres una copa o sólo has vuelto a saludar?}
 {202}{}{¡Hola! Me alegra que hayas vuelto. ¿Alguna pregunta o estás aquí para tomar algo de buen whisky?}
 {203}{}{Estoy encantada de volver a verte. ¿Necesitas algo?}
-{204}{}{¡Espero que todo le vaya bien a mi cliente favorito! ¿Qué podemos hacer por ti?}
+{204}{}{¡Espero que todo le vaya bien a mi cliente favorita! ¿Qué podemos hacer por ti?}
 {205}{}{¡Hola!}
 {206}{}{Siempre me alegra volver a verte.}
 {207}{}{¡Hola! ¿Quieres una copa? ¡El mejor whisky de la zona!}
 {208}{}{¡Hola!}
 {209}{}{¡Eres tú! Eso me había parecido. ¿Qué tal una copa, cariño mío?}
 {210}{}{¿Vuelves a por más del mundialmente famoso whisky de Rebecca?}
-{211}{}{Bienvenido de nuevo al Bar y Casino de Rebecca. ¿En qué puedo servirte?}
+{211}{}{Bienvenida de nuevo al Bar y Casino de Rebecca. ¿En qué puedo servirte?}
 {212}{}{Hola. ¿En qué puedo ayudarte?}
 {213}{}{¿Qué deseas? ¿Quizás una copa?}
 {214}{}{¿Querrás una copa, o quizás otra cosa?}
@@ -28,14 +28,14 @@
 {224}{}{¿Has venido a por una copa? Las mesas están allí.}
 {225}{}{No estoy de buen humor. ¿Qué quieres?}
 {226}{}{¿Ya has vuelto? Supongo que querrás una copa.}
-{240}{}{Claro, guapo.}
+{240}{}{Claro, guapa.}
 {241}{}{¿Qué querías saber?}
 {242}{}{Me encantaría.}
 {243}{}{Por supuesto.}
 {244}{}{Claro.}
 {245}{}{No importa.}
 {246}{}{Te ayudaré si puedo.}
-{247}{}{Por supuesto, no seas tonto.}
+{247}{}{Por supuesto, no seas tonta.}
 {248}{}{Lo que sea. ¿Qué querías?}
 {249}{}{Haré lo que pueda para ayudarte. ¿Qué querías saber?}
 {250}{}{Pregunta lo que quieras.}
@@ -122,7 +122,7 @@
 {430}{}{¿Has venido a La Guarida y no sabes quién es Metzger? Es el maestro esclavista. Está en la parte este del pueblo. Es difícil de no ver.}
 {431}{}{Tengo otra pregunta.}
 {432}{}{Gracias.}
-{440}{}{¡Asesino!}
+{440}{}{¡Asesina!}
 {441}{}{¡Infanticida!}
 {442}{}{Por favor, vete.}
 {443}{}{No hago tratos con los de tu calaña.}
@@ -156,7 +156,7 @@
 {540}{}{Eres un hombre maravilloso. Incluso aunque no apruebe tus acciones. Le has hecho un gran servicio al mundo.}
 {541}{}{Eres una mujer maravillosa. Incluso aunque no apruebe tus acciones. Le has hecho un gran servicio al mundo.}
 {542}{}{Gracias.}
-{550}{}{Aquí no eres bienvenido. Por favor, vete.}
+{550}{}{Aquí no eres bienvenida. Por favor, vete.}
 {551}{}{Por favor, vete.}
 {560}{}{¿Por qué destruiste mi destilería? ¿Qué te había hecho yo a ti?}
 {561}{}{Me pagaron para hacerlo.}
@@ -168,5 +168,5 @@
 {571}{}{No me importa. Yo ya he cobrado.}
 {572}{}{Ya.}
 {573}{}{No me sorprendería.}
-{580}{}{Así que, ¿tú también eres un cobarde? Ya me lo figuraba.}
+{580}{}{Así que, ¿tú también eres una cobarde? Ya me lo figuraba.}
 {581}{}{...}

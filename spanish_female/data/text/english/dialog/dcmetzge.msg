@@ -14,7 +14,7 @@
 {219}{}{¿Te parezco tu puto papaíto o qué? Joder, espero que no. Ahora suéltalo, ¿qué quieres?}
 {220}{}{Oh, mira quién ha venido. ¿Te crees especial o algo? Habla o vete a tomar por culo.}
 {221}{}{¿Qué quieres ahora, esclavista?}
-{222}{}{¿Te vas a quedar ahí parado o vas a decir algo?}
+{222}{}{¿Te vas a quedar ahí parada o vas a decir algo?}
 {223}{}{Habla. No tengo todo el día para esta mierda.}
 {230}{}{Oh, ¿y quién sería? Espero que no pienses en volver a ver a esa persona...}
 {231}{}{No tienes a nadie en quién este interesado. Sólo me interesa la gente... los normales, quiero decir.}
@@ -218,7 +218,7 @@
 {732}{}{Oh, oh.}
 {740}{}{Si, me temo que los accidentes suelen ocurrir por aquí con bastante frecuencia. De hecho, presiento que estamos a punto de tener otro. [Metzger sonríe agradablemente y entonces le guiña el ojo a sus hombres.]}
 {741}{}{¡Que vengan!}
-{742}{}{¿No voy a salir vivo de esto, no?}
+{742}{}{¿No voy a salir viva de esto, no?}
 {750}{}{Oh, pero va a ser divertido. Confía en mí.}
 {751}{}{Vete a la mierda.}
 {752}{}{Eh, está bien.}

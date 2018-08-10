@@ -19,16 +19,16 @@
 {230}{}{Estoy ABURRIDA.}
 {231}{}{Parece una de las nuevas putas de papá…}
 {232}{}{Una de las putas baratas de papá…}
-{240}{}{No te había visto antes por aquí. Como te llamas forastero? (sonríe) Vale, no importa, no quiero saberlo. ¿Estás tan aburrido como yo?}
-{241}{}{Tú otra vez. ¿Sigues aburrido?}
+{240}{}{No te había visto antes por aquí. Como te llamas forastera? (sonríe) Vale, no importa, no quiero saberlo. ¿Estás tan aburrida como yo?}
+{241}{}{Tú otra vez. ¿Sigues aburrida?}
 {242}{}{An-tes tes me gustan tes}
 {243}{}{Solía viajar con alguien llamado Ian que no dejaba de dispararme por la espalda con fuego amigo.}
-{244}{}{Burrido también}
+{244}{}{Burrida también}
 {245}{}{Noooo marcho ahora}
 {246}{}{No.}
 {247}{}{Sí.}
 {248}{}{Eh... ¿por qué me estás mirando así?}
-{249}{}{Puede que esté aburrido. ¿Por qué? ¿Estás buscando algo de juerga, princesa?}
+{249}{}{Puede que esté aburrida. ¿Por qué? ¿Estás buscando algo de juerga, princesa?}
 {250}{}{En realidad, no. Tengo un sitio en el que debería estar.}
 {260}{}{Oh, esto VA a ser interesante. Ven conmigo, quiero enseñarte mi dormitorio.}
 {261}{}{Vale, chica bonita.}
@@ -43,8 +43,8 @@
 {291}{}{¡No ir! ¡No voy yo! ¡No haces voy yo! ¡No lleves a sitio malo! ¡No!}
 {292}{}{Vaaale. No quiero que pones triste. Voy}
 {293}{}{MARCHO DEJA DE HABLAR A MÍ}
-{300}{}{¡Ya es suficiente, estúpido retrasado! ¡Entonces sal de aquí! ::Idiota.::}
-{310}{}{¿Eres NUEVO, o algo así? Soy Angela BISHOP. Mi papá es el LÍDER de la Familia Bishop. }
+{300}{}{¡Ya es suficiente, estúpida retrasada! ¡Entonces sal de aquí! ::Idiota.::}
+{310}{}{¿Eres NUEVA, o algo así? Soy Angela BISHOP. Mi papá es el LÍDER de la Familia Bishop. }
 {311}{}{Trabajas para él, lo que significa que trabajas para MÍ. }
 {312}{}{Mejor será que hagas lo que digo, y lo que digo es que vengas conmigo. Ahora.}
 {313}{}{Tienes razón: Tu padre ES el líder de la Familia Bishop. Por eso no vamos a ninguna parte.}
@@ -75,14 +75,14 @@
 {366}{}{Paso, sólo quería comprobar si eras una golfa tan grande como pensaba. Más tarde, princesa.}
 {370}{}{Vigila tu boca cuando me hables. Soy Angela BISHOP. Mi papá es el LÍDER de la Familia Bishop. Me mostrarás el mismo
  respeto que a él, o tendrán que raspar tus restos de la pared. ¿ENTENDIDO?}
-{371}{}{Sí, entiendo que necesitas que alguien te ponga en tu lugar, PRINCESA, y yo soy justo el hombre que va a hacerlo.}
+{371}{}{Sí, entiendo que necesitas que alguien te ponga en tu lugar, PRINCESA, y yo soy justo la mujer que va a hacerlo.}
 {372}{}{Entendido. Me alegro de tener clara esa asociación familiar.}
 {373}{}{Cálmate. Sólo me burlaba de ti.}
 {374}{}{Olvida esto.}
 {375}{}{Olvida esta mierda. Me largo de aquí.}
-{380}{}{Arrogante hijo de... creo que debo ir a contarle a papá lo que me has dicho ahora mismo.}
+{380}{}{Arrogante hija de... creo que debo ir a contarle a papá lo que me has dicho ahora mismo.}
 {381}{}{¿Por qué no lo haces, entonces? No voy a detenerte, princesa.}
-{382}{}{No creo que lo hagas. Creo que quieres ver qué clase de hombre soy.}
+{382}{}{No creo que lo hagas. Creo que quieres ver qué clase de mujer soy.}
 {383}{}{Paremos esto antes de que alguien salga herido.}
 {384}{}{Sí, ¿por qué no vas a hacer eso? Tengo mejores cosas que hacer.}
 {385}{}{Olvida este remolino de mierda. Me largo.}

@@ -20,7 +20,7 @@
 {227}{}{Van a matarte si te quedas. Desaparece.}
 {228}{}{Se nos ha acabado todo. Ahora lárgate, imbécil.}
 {236}{}{! ¿Cuál es tu veneno?}
-{237}{}{¡Heeeey, campeón! ¿Cuál es tu veneno?}
+{237}{}{¡Heeeey, campeona! ¿Cuál es tu veneno?}
 {238}{}{¿Cuál es tu veneno, colega?}
 {239}{}{¿Cuál es tu veneno, cariño?}
 {240}{}{V-eneno suena bien}
@@ -30,6 +30,6 @@
 {244}{}{¿Quién es el viejo con esa tragaperras hecha polvo?}
 {245}{}{¿Quién es el tipo de la barra con el cuchillo?}
 {246}{}{Hoy nada, gracias.}
-{250}{}{Oh, ¿te refieres al viejo McGee? Es prácticamente inofensivo. Gastó una pequeña fortuna en esa vieja máquina tragaperras y no la ha visto soltar nada desde hace años. Creo está rota. Cambiando de tema... ¿puedo ponerte algo, amigo?}
+{250}{}{Oh, ¿te refieres al viejo McGee? Es prácticamente inofensivo. Gastó una pequeña fortuna en esa vieja máquina tragaperras y no la ha visto soltar nada desde hace años. Creo está rota. Cambiando de tema... ¿puedo ponerte algo, amiga?}
 {260}{}{Ese es el chico menor de Jesús, Pequeño Jesús. Él y ese cuchillo son casi amigos íntimos… le he visto hacer algunas cosas malas con él. Cambiando de tema... ¿puedo ponerte algo, amigo?}
 {270}{}{Gracias. Es un placer hacer negocios contigo.}

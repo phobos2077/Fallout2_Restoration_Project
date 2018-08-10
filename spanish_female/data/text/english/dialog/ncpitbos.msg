@@ -35,7 +35,7 @@
 {283}{}{¿Quién eres?}
 {284}{}{¿Qué casino es éste?}
 {285}{}{¿Puedes contarme algo acerca del casino?}
-{286}{}{¿Quién eres?}
+{286}{}{¿Conoces a alguien llamado Lloyd el Guapo?}
 {287}{}{¿Quién es ese tipo viejo en la máquina tragaperras?}
 {288}{}{Ese cómico que tenéis en el escenario apesta. ¿Te importa si lo intento yo?}
 {289}{}{Gracias. ¿Necesitas a alguien que baile durante la noche? No me importaría una participación limitada.}
@@ -47,7 +47,7 @@
 {297}{}{Nada de droides. Que espere fuera.}
 {300}{}{Eh, será mejor que se vaya ahora mismo, señor.}
 {301}{}{Eh, será mejor que se vaya ahora mismo, señora.}
-{302}{}{Largo de aquí, retrasado.}
+{302}{}{Largo de aquí, retrasada.}
 {303}{}{Mamá dice que yo soy especial.}
 {304}{}{Te alejas}
 {305}{}{Se supone que no puedo charlar estando de servicio, pero me alegra que le patearas el culo al Enclave.}
@@ -76,7 +76,7 @@
 {344}{}{¿Quién eres?}
 {345}{}{¿Qué casino es éste?}
 {346}{}{¿Puedes contarme algo acerca del casino?}
-{347}{}{¿Quién eres?}
+{347}{}{¿Conoces a alguien llamado Lloyd el Guapo?}
 {348}{}{¿Quién es ese tipo viejo en la máquina tragaperras?}
 {349}{}{Ese cómico que tenéis en el escenario apesta. ¿Te importa si lo intento yo?}
 {350}{}{Gracias. ¿Necesitas a alguien que baile durante la noche? No me importaría una participación limitada.}
@@ -95,7 +95,7 @@
 {364}{}{¿Quién eres?}
 {365}{}{¿Qué casino es éste?}
 {366}{}{¿Puedes contarme algo acerca del casino?}
-{367}{}{¿Quién eres?}
+{367}{}{¿Conoces a alguien llamado Lloyd el Guapo?}
 {368}{}{¿Quién es ese tipo viejo en la máquina tragaperras?}
 {369}{}{Gracias. ¿Necesitas a alguien que baile durante la noche? No me importaría una participación limitada.}
 {370}{}{Gracias, me halaga. Sólo me he detenido a saludar.}

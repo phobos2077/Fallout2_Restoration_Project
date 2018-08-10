@@ -17,12 +17,12 @@
 {113}{}{¿Tiene alguna tarea para mí, capitán?}
 {114}{}{Lo siento, capitán. Intentaré trabajar más duro.}
 {115}{}{Lo siento, capitán. Intentaré prestar más atención.}
-{116}{}{¿Sí, Ciudadano?}
-{117}{}{¿Ciudadano?}
-{118}{}{¿Hay algo que quiere que haga, Ciudadano?}
-{119}{}{¿Tiene alguna tarea para mí, Ciudadano?}
-{120}{}{Lo siento, Ciudadano. Intentaré trabajar más duro.}
-{121}{}{Lo siento, Ciudadano. Intentaré prestar más atención.}
+{116}{}{¿Sí, Ciudadana?}
+{117}{}{¿Ciudadana?}
+{118}{}{¿Hay algo que quiere que haga, Ciudadana?}
+{119}{}{¿Tiene alguna tarea para mí, Ciudadana?}
+{120}{}{Lo siento, Ciudadana. Intentaré trabajar más duro.}
+{121}{}{Lo siento, Ciudadana. Intentaré prestar más atención.}
 {122}{}{¡Los mutantes no están permitidos dentro de la ciudad!}
 {123}{}{Si los guardias ven a tu mutante, te obligarán a marcharte.}
 {124}{}{¡Los mutantes no están permitidos dentro de la ciudad! ¡Debes irte!}
@@ -34,7 +34,7 @@
 {130}{}{Te lo ruego: ¿has visto a dos niños de pelo oscuro…? Se los llevaron otros esclavistas hace dos
  años y los vendieron en el norte.}
 {131}{}{Por favor… no se me permite hablar con nadie.}
-{132}{}{Si un Ciudadano me pilla hablando con un esclavista, seré castigado.}
+{132}{}{Si un Ciudadano me pilla hablando con una esclavista, seré castigado.}
 {133}{}{Los guardias darán parte de mí si sigues hablando conmigo.}
 {134}{}{No puedo hablar contigo. Tengo tareas que hacer.}
 {135}{}{Vete, por favor, esclavista. No quiero problemas.}

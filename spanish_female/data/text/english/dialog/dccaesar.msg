@@ -66,7 +66,7 @@
 {215}{}{¡Suena genial! ¡Hazlo!}
 {216}{}{He cambiado de idea. ¿Puedo hacerte otra pregunta?}
 {217}{}{Ahora no tengo tiempo. Debo irme.}
-{218}{}{¡Bienvenido al gremio!}
+{218}{}{¡Bienvenida al gremio!}
 {219}{}{¡Genial, tengo preguntas!}
 {220}{}{Vale, gracias. Volveré.}
 {221}{}{¿Refugio 13? No. Espera... Creo que Vic es de Ciudad Refugio. Quizás sea eso.}
@@ -85,7 +85,7 @@
 {234}{}{¡Vale! Trato hecho.}
 {235}{}{Uh, no importa.}
 {236}{}{¡De ninguna manera! ¡Quiero el doble!}
-{237}{}{Eres duro a la hora de negociar. ¡Aquí está tu dinero!}
+{237}{}{Eres dura a la hora de negociar. ¡Aquí está tu dinero!}
 {238}{}{Gracias. Tengo más preguntas.}
 {239}{}{Gracias. Adiós.}
 {240}{}{¿Algo más?}
@@ -123,7 +123,7 @@
 {272}{}{Lo siento, volveré.}
 {307}{}{¡Cómo te atreves a volver después de abandonar a tus camaradas durante una cacería! ¡Guardias! ¡Atacad!}
 {308}{}{[hecho]}
-{309}{}{¡Excelente! El viaje y la vuelta podrían llevarte unos pocos días. ¿Estás listo para partir?}
+{309}{}{¡Excelente! El viaje y la vuelta podrían llevarte unos pocos días. ¿Estás lista para partir?}
 {310}{}{No. Volveré.}
 {311}{}{Si, estoy listo. Vamos.}
 {312}{}{Ah, has vuelto de la cacería de esclavos. A ver que tal lo has hecho...}

@@ -3,7 +3,7 @@
 {102}{}{Ves a un hombre con una bata de laboratorio manchada de productos químicos.}
 {103}{}{Qué estás haciendo fuera?}
 {104}{}{Creo que será mejor meterte otra vez en tu celda.}
-{105}{}{¡Guardias! Tenemos a otro suelto.}
+{105}{}{¡Guardias! Tenemos a otra suelta.}
 {106}{}{Espera aquí, llamaré a alguien para que se encargue de ti.}
 {107}{}{Interesante. No me imaginé que la toxina los volvería estúpidos.}
 {108}{}{¿Hola? Hola. ¿Hay alguien ahí?}
@@ -32,7 +32,7 @@
 {130}{}{Tienes razón. Estoy aquí sólo para matarte.}
 {131}{}{Quizá tengas razón. Adiós.}
 {132}{}{Soy el teniente coronel doctor Charles Curling, de la Unidad de Guerra Química de los Estados Unidos. ¿Y quién demonios eres tú?}
-{133}{}{Soy tu peor pesadilla: un mutante con un arma al que todo se la trae al fresco.}
+{133}{}{Soy tu peor pesadilla: una mutante con un arma a la que todo se la trae al fresco.}
 {134}{}{Soy }
 {135}{}{ de Arroyo, y tenemos algo de que hablar.}
 {136}{}{Soy alguien que necesita hablarte.}
@@ -45,8 +45,8 @@
 {143}{}{El último recurso de todos los primitivos de mente pequeña. Es tan fácil ver lo que os separa de los verdaderos humanos normales como nosotros...}
 {144}{}{Joder, estás seguro de ti mismo, ¿verdad?}
 {145}{}{Maldito fanático. Necesitas que te eliminen, de inmediato.}
-{146}{}{No veo por qué tengo que hablar con un mutante. Pronto, cuando los auténticos humanos tomemos el planeta para nosotros, tú sólo serás un desafortunado recuerdo de la guerra. }
-{147}{}{¿Auténticos humanos? ¿De qué demonios estás hablando? Yo soy tan humano como tú.}
+{146}{}{No veo por qué tengo que hablar con una mutante. Pronto, cuando los auténticos humanos tomemos el planeta para nosotros, tú sólo serás un desafortunado recuerdo de la guerra. }
+{147}{}{¿Auténticos humanos? ¿De qué demonios estás hablando? Yo soy tan humana como tú.}
 {148}{}{Aquí tengo un desafortunado recuerdo para ti, justo en mi pistolera.}
 {149}{}{¡Guardias! ¡Auxilio! ¡Guardias!}
 {150}{}{¡Guardias! ¡Auxiiiiiiliooooo!}
@@ -89,7 +89,7 @@
 {187}{}{Eso es ridículo. Eres más una vaca mutada de dos cabezas que un humano normal como yo.}
 {188}{}{Si alguna vez hubo vacas de una sola cabeza, llevan muertas mucho tiempo. Pero la vaca, como especie, ha evolucionado y crecido más fuerte. El cambio es una parte integral en el orden natural.}
 {189}{}{Matar a todos en tierra firme simplemente es una locura.}
-{190}{}{Estoy cansado de toda esta mierda. Es hora de conocer a tu hacedor, doctor Muerte.}
+{190}{}{Estoy cansada de toda esta mierda. Es hora de conocer a tu hacedor, doctor Muerte.}
 {191}{}{Es obvio que no eres capaz de entender lo que estoy tratando de decir. Es inútil. Deberías irte ahora.}
 {192}{}{Bueno, lo intenté. Hora de morir, fanático.}
 {193}{}{De acuerdo, me voy. Uno de los dos no tiene remedio, y creo que no soy yo. Adiós.}
@@ -105,7 +105,7 @@
 {203}{}{Bien por ti pero, ¿qué tiene esto que ver con erradicar a todos?}
 {204}{}{Oh, sí, bueno, estaba llegando a ello… el virus V.E.F se adhiere a una especie de manera específica, y sólo se enlazará a glico-proteín humano. No me llevó más que unos pocos años hacer el virus más letal de lo que ya era antes. El resultado fue justo lo que buscaba, perfecto en todos los sentidos.}
 {205}{}{¿Perfecto? ¿Cómo?}
-{206}{}{¿No es obvio, mi amigo mutante? El V.E.F es, gracias a mí, una toxina letal, y gracias a cierto misterioso genio llamado, de forma bastante melodramática, el Maestro, sólo funciona en humanos, mutados o no.}
+{206}{}{¿No es obvio, mi amiga mutante? El V.E.F es, gracias a mí, una toxina letal, y gracias a cierto misterioso genio llamado, de forma bastante melodramática, el Maestro, sólo funciona en humanos, mutados o no.}
 {207}{}{¿Y?}
 {208}{}{Eso significa que tenemos el dispositivo perfecto para la eliminación de los cuasi-humanos que infectan el globo. }
 {209}{}{Sigo sin entender cómo eso puede ser "perfecto".}
@@ -161,5 +161,5 @@
 {259}{}{¿Qué es lo que no entiendes? Sin la vacuna estarás muerto en cuestión de horas.}
 {260}{}{Oh, si es así, de acuerdo. Pínchame, doctor. ¿Qué es lo que ocurrirá cuando la toxina V.E.F se libere?}
 {261}{}{Sin agujas no hay forma, cómo no. Me arriesgaré.}
-{262}{}{Nunca lograrás salvar a tu pueblo a menos que estés vacunado. ¿Cuál es el problema? ¿Le temes a un pequeño pinchazo?}
+{262}{}{Nunca lograrás salvar a tu pueblo a menos que estés vacunada. ¿Cuál es el problema? ¿Le temes a un pequeño pinchazo?}
 {263}{}{No, supongo que no. Mientras no te vea hacerlo. ¡Caramba! Entonces, ¿qué ocurrirá cuando la toxina V.E.F se libere?}

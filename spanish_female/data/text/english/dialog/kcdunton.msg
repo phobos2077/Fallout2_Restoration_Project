@@ -1,5 +1,5 @@
 {100}{}{Ves a dos hombres muy parecidos... podrían ser gemelos. Ambos son cejijuntos y bastante musculosos.}
-{101}{}{Ves a Chuck o a Buck Dunton. Ambos se parecen tanto que no estás seguro de a cuál de los dos estás mirando.}
+{101}{}{Ves a Chuck o a Buck Dunton. Ambos se parecen tanto que no estás segura de a cuál de los dos estás mirando.}
 {102}{}{Ves a un hombre alto y musculoso cuyo rostro, debajo de su única ceja, mantiene la típica mueca de suficiencia de matón. Es idéntico a su hermano.}
 {110}{}{Quítate de en medio, o mi hermano y yo vamos a convertir tu pequeña cabecita en pulpa.}
 {111}{}{Eh, tranquilos. Tan sólo daba una vuelta por aquí. Lo siento mucho. No me peguéis, por favor. Además, me gustaría haceros una pregunta.}
@@ -7,7 +7,7 @@
 {113}{}{Necesito información, y será mejor que me digáis lo que quiero saber.}
 {114}{}{¿Tú y tu hermano? ¿Tienes miedo de hacerme frente tu sólo? (Co, co, co, co)}
 {120}{}{Sal de aquí antes de que aplastemos y te convirtamos en cecina.}
-{121}{}{Eh, lo siento mucho. No quería hacerte enfadar. Sólo soy un estúpido. Volveré más tarde cuando mi presencia no te ponga tan enfermo.}
+{121}{}{Eh, lo siento mucho. No quería hacerte enfadar. Sólo soy una estúpida. Volveré más tarde cuando mi presencia no te ponga tan enfermo.}
 {122}{}{Oh, vale, lo siento. No me peguéis, por favor.}
 {123}{}{Al menos así no tendré que ver vuestras caras de culo nunca más.}
 {130}{}{¿Qué es lo que quieres de nosotros?}
@@ -27,7 +27,7 @@
 {151}{}{Uh, eso sería genial.}
 {152}{}{¿Cecina? No creo que quiera de eso. Hablemos de otra cosa.}
 {153}{}{No quiero comerciar. Adiós.}
-{160}{}{Has tenido tu oportunidad, amigo.}
+{160}{}{Has tenido tu oportunidad, amiga.}
 {161}{}{Aquí no hay trabajo para ti.}
 {162}{}{Bueno, hay algo con lo que nos vendría bien un poco de ayuda (je, je, je).}
 {163}{}{¿Con qué, Chuck?}
@@ -38,16 +38,16 @@
 {168}{}{Vaya, supongo que perdí la oportunidad. Entonces me marcharé. Adiós.}
 {169}{}{Vale. Adiós.}
 {170}{}{¡Maldito saco de mierda de gecko! ¿Qué estas haciendo aquí otra vez?}
-{171}{}{Tan sólo quería disculparme, no quería cabrearos. Sólo es que no soy tan bueno como vosotros robando ganado. Además, necesito algo.}
-{172}{}{Sí, tienes razón. Podría haberlo hecho mejor. Supongo que no soy un cuatrero como vosotros dos. Sin embargo, necesito ayuda.}
+{171}{}{Tan sólo quería disculparme, no quería cabrearos. Sólo es que no soy tan buena como vosotros robando ganado. Además, necesito algo.}
+{172}{}{Sí, tienes razón. Podría haberlo hecho mejor. Supongo que no soy una cuatrera como vosotros dos. Sin embargo, necesito ayuda.}
 {173}{}{¿Mierda de gecko? ¿Estás hablando de lo que comes, o de lo que tienes en la sesera?}
-{180}{}{Otra vez aquí, ¿eh? Bien, ¿Cómo podemos ayudarte, socio?}
+{180}{}{Otra vez aquí, ¿eh? Bien, ¿Cómo podemos ayudarte, socia?}
 {181}{}{Hola, colega. Hicimos un buen trabajo con ese idiota de Torr, ¿eh? Arreglemos lo tuyo.}
 {182}{}{Este fue un buen negocio. Hacedme saber cuando tengáis otro parecido. Ahora necesito otra cosa.}
 {183}{}{Estoy aquí por mi parte, socios.}
 {184}{}{Lo que hicimos ha hecho que me avergüence de mí mismo. ¿Engañar a un idiota? ¿Por qué no os metéis con alguien que pueda defenderse, cobardes? Adiós.}
 {185}{}{Ahora mismo no necesito nada. Adiós.}
-{190}{}{Bien... aquí están los 50 dólares y un pequeño extra para ti. Un poco de cecina Dunton. Gracias de nuevo, socio.}
+{190}{}{Bien... aquí están los 50 dólares y un pequeño extra para ti. Un poco de cecina Dunton. Gracias de nuevo, socia.}
 {191}{}{Gracias. Eh, hay algo que querría preguntaros.}
 {192}{}{Me vendrá bien este dinero. Mmm… (masticas). Sabrosa cecina. Gracias. Adiós.}
 {198}{}{Vale, este es el asunto. Necesitamos ayuda para, eh, arrebatarle algunos brahmines a ese idiota de Torr. No deberías tener problemas en hacerlo. Tan sólo se trata de apartarle de ellos. ¿Qué dices?}
@@ -64,12 +64,12 @@
 {209}{}{Soy Buck Dunton. ¿Qué eres? ¿Idiota?}
 {210}{}{¿Tan feo te parezco? Soy Chuck Dunton.}
 {211}{}{¿Tan feo te parezco? Soy Buck Dunton.}
-{212}{}{¿Eres un poco retrasado, no? Soy Chuck Dunton.}
-{213}{}{¿Eres un poquito retrasado, no? Soy Buck Dunton.}
+{212}{}{¿Eres un poco retrasada, no? Soy Chuck Dunton.}
+{213}{}{¿Eres un poquito retrasada, no? Soy Buck Dunton.}
 {214}{}{Eres incapaz de entenderlo, ¿eh? Malditos tribales simplones. Soy Chuck, imbécil.}
 {215}{}{Eres incapaz de entenderlo, ¿eh? Malditos tribales simplones. Soy Buck, imbécil.}
-{216}{}{Soy Sally 'Narizotas' Dunton. ¿Te gusta mi vestido? Soy Chuck Dunton, estúpido tribal.}
-{217}{}{Soy Sally 'Narizotas' Dunton. ¿Te gusta mi vestido? Soy Buck Dunton, estúpido tribal.}
+{216}{}{Soy Sally 'Narizotas' Dunton. ¿Te gusta mi vestido? Soy Chuck Dunton, estúpida tribal.}
+{217}{}{Soy Sally 'Narizotas' Dunton. ¿Te gusta mi vestido? Soy Buck Dunton, estúpida tribal.}
 {218}{}{Eh, vale. Sí, eso pensaba. Lo siento.}
 {219}{}{No te preocupes, ya lo he captado. Necesito algo, eh, señor Dunton.}
 {220}{}{Ya, como sea. Mira, tan sólo dime lo que quiero saber.}
@@ -84,17 +84,17 @@
 {242}{}{Sí, la conozco.}
 {243}{}{No, eso es todo, Chuck.}
 {244}{}{No, eso es todo, Buck.}
-{250}{}{Saludos, socio. Contamos contigo esta noche. ¿Qué puedo hacer por ti?}
+{250}{}{Saludos, socia. Contamos contigo esta noche. ¿Qué puedo hacer por ti?}
 {251}{}{Eh, lo he reconsiderado. No creo que quiera ayudaros con lo de esta noche.}
 {252}{}{Sí, ahí estaré. ¿Puedo hacerte una pregunta?}
 {253}{}{Claro, ahí estaré. Adiós.}
-{259}{}{Vaya, pero si es nuestro amigo de fuerte brazo.}
+{259}{}{Vaya, pero si es nuestra amiga de fuerte brazo.}
 {260}{}{Hola. ¿Qué tal está tu brazo? ¿Preparado para otra?}
-{261}{}{Oye, mequetrefe. ¿Qué estás haciendo en nuestro bar? Debes mostrarte digno de estar aquí echándonos un pulso a nosotros, los Dunton (ja, ja, ja).}
-{262}{}{No pareces tan condenadamente duro. ¿Por qué no echas un pulso conmigo, Chuck Dunton, para ganarte el derecho a beber en nuestro bar?}
-{263}{}{No pareces tan condenadamente duro. ¿Por qué no echas un pulso conmigo, Buck Dunton, para ganarte el derecho a beber en nuestro bar?}
-{264}{}{Hola, buenazo. Tendrás que ganarte el derecho de admisión a nuestro bar. Tienes que echar un pulso conmigo, Chuck Dunton.}
-{265}{}{Hola, buenazo. Tendrás que ganarte el derecho de admisión a nuestro bar. Tienes que echar un pulso conmigo, Buck Dunton.}
+{261}{}{Oye, mequetrefe. ¿Qué estás haciendo en nuestro bar? Debes mostrarte digna de estar aquí echándonos un pulso a nosotros, los Dunton (ja, ja, ja).}
+{262}{}{No pareces tan condenadamente dura. ¿Por qué no echas un pulso conmigo, Chuck Dunton, para ganarte el derecho a beber en nuestro bar?}
+{263}{}{No pareces tan condenadamente dura. ¿Por qué no echas un pulso conmigo, Buck Dunton, para ganarte el derecho a beber en nuestro bar?}
+{264}{}{Hola, buenaza. Tendrás que ganarte el derecho de admisión a nuestro bar. Tienes que echar un pulso conmigo, Chuck Dunton.}
+{265}{}{Hola, buenaza. Tendrás que ganarte el derecho de admisión a nuestro bar. Tienes que echar un pulso conmigo, Buck Dunton.}
 {266}{}{Vaya, parece que tenemos un contendiente. Tendrás que echar un pulso conmigo, Chuck Dunton, si quieres beber aquí.}
 {267}{}{Vaya, parece que tenemos un contendiente. Tendrás que echar un pulso conmigo, Buck Dunton, si quieres beber aquí.}
 {268}{}{Echemos un pulso. Supongo que es la única forma de que las cosas se calmen.}
@@ -111,11 +111,11 @@
 {292}{}{Quiero la revancha. Esta vez te vas a enterar.}
 {293}{}{Ouch. vale, vale. Me rindo. Oye, una pregunta.}
 {294}{}{Ya he tenido suficiente. Adiós.}
-{300}{}{¿No quieres echar un pulso con nosotros? ¿Qué, te crees demasiado bueno para echar un pulso contra uno de los hermanos Dunton?}
+{300}{}{¿No quieres echar un pulso con nosotros? ¿Qué, te crees demasiado buena para echar un pulso contra uno de los hermanos Dunton?}
 {301}{}{Creo que me haríais daño si echo un pulso con vosotros.}
 {302}{}{Quizás más tarde. Ahora, necesito información.}
 {303}{}{No hubiera tenido ninguna emoción. Hubiera ganado. Adiós.}
-{304}{}{Tienes pinta de ser demasiado flojo. Sólo echo pulsos con hombres de verdad. Lárgate, perdedor.}
+{304}{}{Tienes pinta de ser demasiado floja. Sólo echo pulsos con quien lo merece. Lárgate, perdedora.}
 {310}{}{¿Qué estás buscando qué? Lo más cerca que he estado del jardín del Edén ha sido en los brazos de la encantadora Jenny en la Casa de Baños de Mamá (je, je, je).}
 {311}{}{Eh, gracias. Déjame hacerte otra pregunta.}
 {312}{}{Supongo que eso es todo lo que necesito saber por ahora. Adiós.}
@@ -152,7 +152,7 @@
 {374}{}{He encontrado un montón de partes de insecto en esa pequeña casucha de ahí. ¿Sabéis qué pueden ser?}
 {380}{}{¿Qué demonios quieres? ¿Has olvidado lo que se supone que tenías que hacer?}
 {381}{}{No. Me acuerdo. Me ocuparé del plan ahora.}
-{382}{}{¿Estás loco? Lo saben todo. Estoy aquí para avisaros de que no sigáis con el plan. Apuesto a que nos están vigilando.}
+{382}{}{¿Estás loca? Lo saben todo. Estoy aquí para avisaros de que no sigáis con el plan. Apuesto a que nos están vigilando.}
 {383}{}{Lo olvidé; ¿querrías volver a contarme el plan? Por favor.}
 {384}{}{He encontrado un montón de partes de insecto en esa pequeña casucha de ahí. ¿Sabéis qué pueden ser?}
 {390}{}{¿Partes de bicho? Umm, err, ah, no sabemos nada de esos trozos de bicho. ¿De qué estás hablando?}
@@ -161,17 +161,17 @@
 {400}{}{Esto es lo que ocurre. Tienes que llevarte a Torr de aquí.}
 {401}{}{Suena bien, lo haré.}
 {402}{}{Ni de broma; me largo, Dunton. Adiós.}
-{403}{}{¿Estás loco? Lo saben todo. Estoy aquí para avisaros de que no sigáis con el plan. Apuesto a que nos están vigilando.}
+{403}{}{¿Estás loca? Lo saben todo. Estoy aquí para avisaros de que no sigáis con el plan. Apuesto a que nos están vigilando.}
 {404}{}{Cuando Torr aparezca, tienes que alejarle }
 {405}{}{ de aquí durante un rato. Puedes hablar con él o dejarle inconsciente. Pero no le mates o harás que todo el pueblo entre en cólera. Mientras lo haces, nosotros nos llevamos a los brahmines. Reúnete con nosotros en nuestra tienda mañana por la mañana y te daremos tu recompensa.}
 {410}{}{Quizás tengas razón (mirando nerviosamente alrededor). No me gusta la idea de que nos estén vigilando.}
 {411}{}{Deberías ser más amable con los de tu clase. Ahora vete a casa.}
-{420}{}{Nadie nos está vigilando. Somos muy cuidadosos con eso. Tan solo estás acojonado, ¿no es eso? Maldito cobarde.}
+{420}{}{Nadie nos está vigilando. Somos muy cuidadosos con eso. Tan solo estás acojonado, ¿no es eso? Maldita cobarde.}
 {421}{}{Lo siento, supongo que me he puesto nervioso. No suelo estar tan sereno bajo la presión como vosotros dos.}
 {422}{}{Lo siento, me ha entrado el pánico. Volveré al trabajo.}
 {423}{}{Ni de casualidad. Me largo. Adiós.}
 {424}{}{¡Ahora vuelve al trabajo y deshazte de ese idiota de Torr!}
-{430}{}{Estás loco. Esos sólo son los restos de los escorpiones rad que matamos. Sí, eso es. Ese es el secreto. Nosotros, eh, ummm, usamos su veneno como uno de los ingredientes secretos de nuestra receta de cecina.}
+{430}{}{Estás loca. Esos sólo son los restos de los escorpiones rad que matamos. Sí, eso es. Ese es el secreto. Nosotros, eh, ummm, usamos su veneno como uno de los ingredientes secretos de nuestra receta de cecina.}
 {431}{}{Sí, claro. Me lo creeré cuando el sol salga por el oeste.}
 {432}{}{Claro, si tú lo dices. Ya he tenido suficiente. Adiós.}
 {440}{}{Sera mejor que mantengas la boca cerrada, si sabes lo que te conviene.}
@@ -183,15 +183,15 @@
 {450}{}{Soy Chuck Dunton.}
 {451}{}{Soy Buck Dunton.}
 {452}{}{Túuu feeeo.}
-{453}{}{ ¡Elegido!}
-{460}{}{¿Túuu feooo? ¿Qué? Eres tan tonto como el idiota de Torr. Eso es bueno, necesitamos un nuevo tonto en el pueblo. Ya estábamos aburridos de Torr.}
+{453}{}{ ¡Elegida!}
+{460}{}{¿Túuu feooo? ¿Qué? Eres tan tonta como el idiota de Torr. Eso es bueno, necesitamos un nuevo tonto en el pueblo. Ya estábamos aburridos de Torr.}
 {461}{}{¿Torr aburrido?}
 {470}{}{Elegido, ¿eh? Elegido va a ser zurrado en el morro. ¿Tú madre te dejó caer de cabeza, o saliste así de idiota y feo? Aléjate de mí.}
 {471}{}{¡Ook! }
-{472}{}{ ¡Elegido!}
-{480}{}{¿Estás listo? Bien, entonces vamos. No tenemos toda la maldita noche. Tenemos trabajo que hacer.}
-{481}{}{Oh, sí; Estoy listo. Vamos.}
-{482}{}{Estoy listo para enseñarle una lección a ese estúpido.}
+{472}{}{ ¡Elegida!}
+{480}{}{¿Estás lista? Bien, entonces vamos. No tenemos toda la maldita noche. Tenemos trabajo que hacer.}
+{481}{}{Oh, sí; Estoy lista. Vamos.}
+{482}{}{Estoy lista para enseñarle una lección a ese estúpido.}
 {483}{}{No quiero hacer esto. Ya nos veremos.}
 {490}{}{Eh, tan sólo espera a que nos metamos dentro; luego hablamos.}
 {500}{}{Luchas, pero al final el hermano Dunton gana.}
@@ -201,7 +201,7 @@
 {531}{}{Oh, vale. Entonces me marcharé. Dios, alguna gente es tan susceptible. Adiós.}
 {532}{}{Torr está haciendo pastar a sus brahmines justo al norte del centro del pueblo.}
 {533}{}{Cuando el idiota de Torr llegue aquí, será mejor que te libres de él.}
-{600}{}{Incluso el idiota de Torr tiene más cerebro que tú, ¡ladrón!}
+{600}{}{Incluso el idiota de Torr tiene más cerebro que tú, ¡ladrona!}
 {601}{}{¿Listo para ir?}
 {700}{}{Has robado el ganado de Torr.}
 {702}{}{No, I'll tell you what you have these for. You dress up as "Bug Men" and scare poor old Torr out of his Brahmin, don't you -- don't you?! It all makes sense now. You're just a couple of no good ruffians.}

@@ -1,9 +1,9 @@
 {100}{}{Ves a un tipo desaliñado con una sucia camisa marrón. Sus brazos están cubiertos por una erupción de un rojo brillante, que se rasca con frecuencia.}
 {101}{}{Ves al "doctor" Andrew.}
 {102}{}{Ves a un tipo desaliñado con una sucia camisa marrón. Sus brazos están cubiertos por una erupción de un rojo brillante, que se rasca con frecuencia.}
-{103}{}{Parece que has estado en alguna pelea, amigo.}
-{104}{}{Vaya... parece que has tenido acción de verdad, amigo.}
-{105}{}{Vaya... parece que has tenido una dura pelea, amigo.}
+{103}{}{Parece que has estado en alguna pelea, chica.}
+{104}{}{Vaya... parece que has tenido acción de verdad, chica.}
+{105}{}{Vaya... parece que has tenido una dura pelea, chica.}
 {106}{}{¡Dios...! ¡Estás salpicando de sangre todo el suelo!}
 {107}{}{¿Estás aquí para que te remienden?}
 {108}{}{Arregla.}
@@ -43,7 +43,7 @@
 {142}{}{¿Qué es este lugar?}
 {143}{}{Encontré ciertos planos de un implante de combate en la base de datos médica de Ciudad Refugio. ¿Puedes llevar a cabo la operación?}
 {144}{}{Me siento mucho mejor, gracias.}
-{145}{}{Eh, bueno, podría no ser lo más seguro para ti, amigo. Parece que ya te has pegado un par de viajes en el viejo Doctor, por cómo hablas. Pero si así lo quieres...}
+{145}{}{Eh, bueno, podría no ser lo más seguro para ti, chica. Parece que ya te has pegado un par de viajes en el viejo Doctor, por cómo hablas. Pero si así lo quieres...}
 {146}{}{Desvanecimiento durante 3 segundos}
 {147}{}{Uh...¿Cómo te sientes? ¿Algo mejor? ¿Algo peor?}
 {148}{}{¡Repetir! ¡Repetir! ¡Repetir!}
@@ -52,7 +52,7 @@
 {151}{}{Desvanecimiento durante 3 segundos}
 {152}{}{Oh, oh. Parece que el viejo Doctor se ha llevado un montón de carne esta vez.}
 {153}{}{Urrrhkkk... duele... dentro... no vuelvo a montar en esa cosa mala no más...}
-{154}{}{Bueno, no soy mecánico, así que no puedo ayudar con ese cerebro que tienes. Lo siento, amigo.}
+{154}{}{Bueno, no soy mecánico, así que no puedo ayudar con ese cerebro que tienes. Lo siento, chica.}
 {155}{}{¿Puedes curarme entonces?}
 {156}{}{Ya veo. Oye, tenía algunas preguntas que quisiera hacerte...}
 {157}{}{Oh, bueno. Gracias de todas formas.}
@@ -78,7 +78,7 @@
 {177}{}{No tengo suficiente. Volveré cuando tenga más dinero.}
 {178}{}{He cambiado de opinión. Tal vez en otro momento.}
 {179}{}{Bien... de acuerdo. Eso parece justo.}
-{180}{}{Hagámoslo entonces. Simplemente te conectaré al viejo Doctor... recuéstate, y apretaré los tirantes y aseguraré las abrazaderas...}
+{180}{}{Hagámoslo, entonces. Tan solo te voy a conectar al viejo Doctor... pon tus brazos en esas ranuras de ahí, y apretaré los tirantes y aseguraré las abrazaderas...}
 {181}{}{Desvanecimiento durante 3 segundos}
 {182}{}{¡Ahí está, todo bien cosido! Sabía que el viejo Doctor no me defraudaría.}
 {183}{}{Gracias. Verás, hay otra cosa que necesitaba...}
@@ -235,7 +235,7 @@
 {334}{}{Olvídalo entonces. Quizá vuelva.}
 {335}{}{Olvídalo. No tengo esa cantidad de dinero ahora. Volveré.}
 {336}{}{Bien... de acuerdo. Eso parece justo.}
-{337}{}{Hagámoslo entonces. Simplemente te conectaré al viejo Doctor... recuéstate, y apretaré los tirantes y aseguraré las abrazaderas...}
+{337}{}{Hagámoslo, entonces. Tan solo te voy a conectar al viejo Doctor... pon tus brazos en esas ranuras de ahí, y apretaré los tirantes y aseguraré las abrazaderas...}
 {338}{}{Desvanecimiento durante 3 segundos}
 {339}{}{Ese amiguito tuyo debería haber desaparecido. Eso espero. Ha sido difícil exprimir todo ese pus mutado de la médula ósea. De todos modos, ya está.}
 {340}{}{Me alegra que se haya solucionado. Verás, hay otra cosa que necesitaba...}

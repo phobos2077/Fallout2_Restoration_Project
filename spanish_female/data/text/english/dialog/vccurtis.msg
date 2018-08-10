@@ -35,6 +35,6 @@
 {134}{}{Ups. Parece que Nixon era un poco más frágil de lo que pensaba. Mala suerte, chico.}
 {135}{}{El señor Nixon volverá de la tumba y te MATARÁ.}
 {136}{}{El señor Nixon te perseguirá durante el resto de tus días. Lo digo en serio.}
-{137}{}{Cuando yo crezca, tú serás viejo, y te haré lo mismo que le has hecho al señor Nixon.}
+{137}{}{Cuando yo crezca, tú serás vieja, y te haré lo mismo que le has hecho al señor Nixon.}
 {138}{}{Le has devuelto el señor Nixon a Curtis.}
 {139}{}{Le has enseñado a Curtis que la vida es cruel e injusta.}

@@ -62,14 +62,14 @@
 {5100}{}{Huérfana}
 {5200}{}{Niño}
 {5300}{}{Niña}
-{5400}{}{Perdedora}
-{5500}{}{Perdedora}
+{5400}{}{Perdedora.}
+{5500}{}{Perdedora.}
 {5600}{}{Mala mercader}
 {5700}{}{Mala mercader}
 {5800}{}{Mercader}
 {5900}{}{Mercader}
-{6000}{}{Gran mercader}
-{6100}{}{Gran mercader}
+{6000}{}{Maestra del trueque}
+{6100}{}{Maestra del trueque}
 {6200}{}{Vic}
 {6300}{}{Campesina débil}
 {6400}{}{Campesina débil}

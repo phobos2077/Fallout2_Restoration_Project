@@ -4,9 +4,9 @@
 {103}{}{Desaparece de aquí.}
 {104}{}{¿Qué diablos estás haciendo aquí, idiota?}
 {105}{}{Este lugar no es para ti.}
-{106}{}{Lárgate de aquí. ¡Venga, jodido idiota!}
+{106}{}{Lárgate de aquí. ¡Venga, jodida idiota!}
 {107}{}{Sal de aquí antes de que estropees el suelo.}
-{108}{}{Hola, amigo. Me llamo Josh Laurance. Soy el dueño de este lugar.}
+{108}{}{Hola, amiga. Me llamo Josh Laurance. Soy el dueño de este lugar.}
 {109}{}{¿Qué puedo hacer por ti?}
 {110}{}{¿Qué es este lugar, en concreto?}
 {111}{}{Me gustaría tomar una copa.}

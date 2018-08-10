@@ -5,7 +5,7 @@
 {104}{}{He oído que se puede hacer un gran postre con el líquido de los globos oculares.}
 {105}{}{Voy a echar un pitillo.}
 {120}{}{Esa es una buena Bessy.}
-{200}{}{Muévase, señor; tengo brahmines que matar.}
+{200}{}{Muévase, señora; tengo brahmines que matar.}
 {201}{}{Apártate.}
 {202}{}{¿Puedes moverte? Tengo trabajo que hacer.}
 {203}{}{Eh, señora, ¿le importaría moverse? Tengo brahmines que matar.}

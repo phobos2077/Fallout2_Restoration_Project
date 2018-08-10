@@ -2,7 +2,7 @@
 {101}{}{Es el prisionero okupa que capturaron.}
 {102}{}{En su rostro y brazos hay una trama de viejas cicatrices de cuchillo, y su mirada enloquecida dice que es un camorrista y un proscrito.}
 {103}{}{Malgastas tu tiempo. No tengo una palabra más que decirte a ti o a quien sea.}
-{104}{}{Lárgate y déjame solo, cerdo.}
+{104}{}{Lárgate y déjame solo, cerda.}
 {105}{}{¿Empieza a oler mal por aquí?}
 {106}{}{¿Qué pretendes? ¿Asustarme con palabras?}
 {107}{}{No me asustas.}

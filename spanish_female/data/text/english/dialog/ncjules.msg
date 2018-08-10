@@ -3,32 +3,32 @@
 {151}{}{Ves a Jules.}
 {200}{}{Deja que Jules te enseñe la zona, esclavista.}
 {201}{}{Ve a ver a los Mordino, esclavista. Controlan la mayor parte del mercado de esclavos que viene a Nuevo Reno.}
-{202}{}{¿Nuevo en Reno, esclavista? Merecerá tu tiempo que hables conmigo.}
+{202}{}{¿Nueva en Reno, esclavista? Merecerá tu tiempo que hables conmigo.}
 {203}{}{Oye, esclavista. Ven a hablar conmigo un segundo.}
 {204}{}{Esclavista, si no has hablado con Jules, no sabes ni la MITAD de lo que Nuevo Reno puede ofrecerte.}
 {205}{}{¡Tú, esclavista! ¿Tienes un minuto?}
 {206}{}{¿Buscas algo, esclavista? Deja que Jules te ayude a encontrarlo.}
-{220}{}{¿Nuevo en la ciudad? Merecerá tu tiempo que hables conmigo.}
+{220}{}{¿Nueva en la ciudad? Merecerá tu tiempo que hables conmigo.}
 {221}{}{Eh, tú. Ven a hablar conmigo un segundo.}
-{222}{}{Amigo, si no has hablado con Jules, no sabes ni la MITAD de lo que Nuevo Reno puede ofrecerte.}
-{223}{}{Nuevo Reno es un lugar peligroso, amigo. Déjame que te describa lo que es saludable y lo que no.}
-{224}{}{¡Tú! ¿Tienes un minuto, amigo?}
-{225}{}{Amigo, tú y yo vamos a tener una pequeña charla. Deja que Jules te describa la zona.}
-{226}{}{¿Buscas algo, amigo? Deja que Jules te ayude a encontrarlo.}
-{240}{}{¡Aleluya! Siempre SUPE que tú serías el héroe! ¡Lo SABÍA!}
-{241}{}{¡Entra un héroe! ¡Abrid paso, abrid paso!}
+{222}{}{Amiga, si no has hablado con Jules, no sabes ni la MITAD de lo que Nuevo Reno puede ofrecerte.}
+{223}{}{Nuevo Reno es un lugar peligroso, amiga. Déjame que te describa lo que es saludable y lo que no.}
+{224}{}{¡Tú! ¿Tienes un minuto, amiga?}
+{225}{}{Amiga, tú y yo vamos a tener una pequeña charla. Deja que Jules te describa la zona.}
+{226}{}{¿Buscas algo, amiga? Deja que Jules te ayude a encontrarlo.}
+{240}{}{¡Aleluya! Siempre SUPE que tú serías la heroína! ¡Lo SABÍA!}
+{241}{}{¡Entra una heroína! ¡Abrid paso, abrid paso!}
 {242}{}{Ven a saludar a tu viejo amigo Jules.}
-{243}{}{¿Vas a compartir conmigo algo de tu fama, mi amigo y héroe?}
-{244}{}{¿Vas a compartir algo de tu nueva fortuna conmigo, mi amigo y héroe?}
+{243}{}{¿Vas a compartir conmigo algo de tu fama, mi amiga y heroína?}
+{244}{}{¿Vas a compartir algo de tu nueva fortuna conmigo, mi amiga y heroína?}
 {245}{}{Jules siempre te ha tratado bien… le dirás a todo el mundo que me conoces, ¿de acuerdo, héroe?}
 {246}{}{He oído que los hermanos Corsican te estaban buscando, héroe…}
 {260}{}{Maldita sea. Creo que tú y yo deberíamos ser amigos.}
 {261}{}{¿Cómo diablos vas al retrete con esa cosa puesta?}
 {262}{}{¿Qué demonios es ESO? ¿Un coche andante?}
 {263}{}{Los chatarreros van a flipar cuando te vean con eso puesto.}
-{280}{}{¿Le hablarás bien al jefe de mí, hermano?}
-{281}{}{Oye, hermano, no has olvidado a tu amigo Jules en tu ascenso a la cima, ¿verdad?}
-{282}{}{¡Tú, oscuro y mortal! ¡Me parece que Nuevo Reno te ha sentado BIEN!}
+{280}{}{¿Le hablarás bien al jefe de mí, hermana?}
+{281}{}{Oye, hermana, no has olvidado a tu amigo Jules en tu ascenso a la cima, ¿verdad?}
+{282}{}{¡Tú, oscura y mortal! ¡Me parece que Nuevo Reno te ha sentado BIEN!}
 {283}{}{Si tu jefe necesita a alguien para que pase Jet para él, aquí estoy…}
 {284}{}{¿Le hablarás bien al jefe de mí, hermana?}
 {285}{}{Oye, hermana, no has olvidado a tu amigo Jules en tu ascenso a la cima, ¿verdad?}
@@ -83,8 +83,8 @@
 {416}{}{Jet, fichas, Jet, fichas… ¿qué más necesitas?}
 {417}{}{Viene uno, vienen todos.}
 {418}{}{Jules es tus OJOS y tus OÍDOS en Nuevo Reno.}
-{419}{}{La mayor pequeña ciudad del Yermo, amigo.}
-{420}{}{¿Eres nuevo en la ciudad? Te merecerá tu tiempo hablar conmigo, amigo.}
+{419}{}{La mayor pequeña ciudad del Yermo, amiga.}
+{420}{}{¿Eres nueva en la ciudad? Te merecerá tu tiempo hablar conmigo, amiga.}
 {421}{}{Jules es el tipo que NECESITAS.}
 {422}{}{Tú tienes la lujuria y yo tengo la cura.}
 {423}{}{Reno se mantiene viva TODA la noche, así que prepárate.}
@@ -103,7 +103,7 @@
  cosa que busques.}
 {461}{}{Mi nombre es Jules, y he de decir que NUNCA había visto a una mujer más bella bajando por esta calle hasta hoy. Sería
  un PLACER enseñarte Reno y ayudarte con CUALQUIER cosa que busques.}
-{462}{}{¡Hey, hey, hey, bienvenido de nuevo! ¿Qué necesitas de Jules, amigo mío?}
+{462}{}{¡Hey, hey, hey, bienvenida de nuevo! ¿Qué necesitas de Jules, amiga mía?}
 {463}{}{Busco yo el… em. Olvidé otra vez.}
 {464}{}{Te alejas}
 {465}{}{De acuerdo. ¿Cómo puedes ayudarme?}
@@ -384,7 +384,7 @@
 {1307}{}{Jules, si no me dices lo que le sucedió a mi coche, le diré a la familia Wright que TÚ le vendiste a su hijo el Jet que lo
  mató. Estarías muerto en una hora. Habla.}
 {1308}{}{¿SEGURO que no lo has visto, Jules?}
-{1309}{}{Sí, estoy SEGURO de que lo aparqué aquí. ¿Alguna idea de dónde podría estar?}
+{1309}{}{Sí, estoy SEGURA de que lo aparqué aquí. ¿Alguna idea de dónde podría estar?}
 {1310}{}{De acuerdo entonces. Tenía algunas otras preguntas…}
 {1311}{}{Mejor que vaya a buscarlo.}
 {1320}{}{Que no, hermano, no lo he visto. }
@@ -393,15 +393,15 @@
 {1323}{}{Jules, tengo la LOCA corazonada de que sabes a dónde fue mi coche. Si no me dices dónde está, te usaré para
  prácticas de tiro. Y ahora empieza a hablar.}
 {1324}{}{Gracias de todos modos. Tenía algunas preguntas más…}
-{1340}{}{Hermano, no sé NADA sobre tu coche. }
-{1341}{}{Hermano, no sé NADA sobre tu coche. }
+{1340}{}{Hermana, no sé NADA sobre tu coche. }
+{1341}{}{Hermana, no sé NADA sobre tu coche. }
 {1342}{}{NO vi lo que sucedió, y NO sé dónde está. }
 {1343}{}{(Le lanza una mirada llena de odio a Cody a través de la calle).}
 {1344}{}{¿En serio? A mí eso me parece un montón de MIERDA.}
 {1345}{}{¿En serio? SÉ que hiciste algo, así que será mejor que me lo digas antes de que yo te haga algo a TI.}
 {1346}{}{No importa, entonces. Seguiré buscándolo.}
-{1360}{}{¡Está bien, hermano, está bien! }
-{1361}{}{¡Está bien, hermano, está bien! }
+{1360}{}{¡Está bien, hermana, está bien! }
+{1361}{}{¡Está bien, hermana, está bien! }
 {1362}{}{…vi a unos tipos llevarse el coche hace poco. Pero eran demasiados para que pudiera detenerlos, ya sabes, y...}
 {1363}{}{Cierra el pico y llévame a donde estaban. Ahora.}
 {1364}{}{No importa. Los buscaré sin tu ayuda.}

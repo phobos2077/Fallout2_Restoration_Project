@@ -62,7 +62,7 @@
 {159}{}{Los necrófagos son esclavos útiles. No tienen sesos suficientes para considerarlos personas, pero tampoco merece la pena matarlos. No apoyo el asesinato de necrófagos.}
 {160}{}{Bien. Quiero algo más.}
 {161}{}{Lo que sea. Adiós.}
-{162}{}{Si realmente estás interesado en matar mutantes, tal vez deberías ir a hablar con Jacob el farmacéutico.}
+{162}{}{Si realmente estás interesada en matar mutantes, tal vez deberías ir a hablar con Jacob el farmacéutico.}
 {163}{}{Jacob, ¿eh? Lo haré.}
 {164}{}{Pensé que podrías estarlo. Ahora, muévete.}
 {165}{}{Claro.}

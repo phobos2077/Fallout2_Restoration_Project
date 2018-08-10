@@ -29,7 +29,7 @@
 {256}{}{explosión}
 {300}{}{Nada}
 {301}{}{Cohete}
-{302}{}{Comb. Lanzallamas}
+{302}{}{Combustible de lanzallamas}
 {303}{}{Cel. energía C}
 {304}{}{Cel. energía D}
 {305}{}{.223}

@@ -43,7 +43,7 @@
 {142}{}{Hasta el final. Puedo contigo.}
 {143}{}{Una prueba de habilidad. No quiero matarte.}
 {144}{}{Ni una cosa ni la otra. Olvídalo.}
-{145}{}{No eres el adecuado para esta tarea. Adiós.}
+{145}{}{No eres la adecuada para esta tarea. Adiós.}
 {146}{}{[HECHO]}
 {147}{}{¿Eso crees? La guerra y la lucha parecen inevitables. Quizá sería mejor que luchásemos con reglas y códigos que ceder a la destrucción misma. }
 {148}{}{Yo venzo de cualquier forma que pueda.}
@@ -53,7 +53,7 @@
 {152}{}{Muy bien. Entremos en el cuadrilátero y luchemos hasta que uno de los dos no pueda seguir moviéndose.}
 {153}{}{[Atacas ya, con armadura y armas]}
 {154}{}{[Entras en el cuadrilátero, dejas a un lado armadura y armas, y luchas mano a mano]}
-{155}{}{Ah, un guerrero. Te enfrentaré a mis hombres para ver cómo te portas. Empecemos.}
+{155}{}{Ah, una guerrera. Te enfrentaré a mis hombres para ver cómo te portas. Empecemos.}
 {156}{}{[COMENZAR]}
 {157}{}{Sin embargo, en un entorno de combate formalizado, no puedes negar que has entrado en esta arena por tu propia elección. Una vez has entrado así, ¿no deberías acatar sus reglas?}
 {158}{}{Sí, probablemente. Pero en una situación de vida o muerte, debes hacer cualquier cosa por sobrevivir.}
@@ -99,13 +99,13 @@
 {206}{}{Soy Zurak. Prepárate.}
 {207}{}{Soy Jimmy. Prepárate.}
 {208}{}{Soy Herb. No llegarás más lejos.}
-{209}{}{Soy Jobe. Es hora de que seas vencido.}
-{210}{}{Soy el maestro Rube. Estás acabado.}
+{209}{}{Soy Jobe. Es hora de que seas vencida.}
+{210}{}{Soy el maestro Rube. Estás acabada.}
 {211}{}{¡LUCHA!}
 {212}{}{El entrenamiento sigue en tu futuro.}
 {213}{}{¡Y allá vamos!}
 {214}{}{Has vencido al Dragón en combate mortal. A pesar de ser una lucha justa, su pérdida será sentida por muchos.}
-{215}{}{Ya ha derrotado a mis hombres, y pasado mi prueba. Estás listo para luchar contra Lo Pan.}
+{215}{}{Ya has derrotado a mis hombres, y pasado mi prueba. Estás lista para luchar contra Lo Pan.}
 {216}{}{Tus habilidades sólo avanzarán con su uso. Ya no puedo ayudarte en tu aprendizaje.}
 {217}{}{Empecemos. Sigue mis indicaciones.}
 {218}{}{El entrenamiento se realiza durante el día.}

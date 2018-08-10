@@ -7,7 +7,7 @@
 {201}{}{Just keep walking…Monte's not in business today.}
 {202}{}{Did I palm the wrong card?}
 {203}{}{How did that stupid tribal keep picking the right card?}
-{205}{}{¡Heeeey! ¡Héroe! Lo hiciste bien, muy bien.}
+{205}{}{¡Heeeey! ¡Heroína! Lo hiciste bien, muy bien.}
 {206}{}{::Te hace una seña con el pulgar hacia arriba::}
 {207}{}{::Sonríe con su boca desdentada::}
 {208}{}{¡Tu dinero no es bueno aquí! ¡Vete ahora!}
@@ -176,7 +176,7 @@
 {445}{}{250 chips sound about right?}
 {446}{}{Oh. Tengo más preguntas…}
 {447}{}{Entonces no importa. Me voy.}
-{450}{}{¿Estás sordo? Ni siquiera esa cantidad me interesa.}
+{450}{}{¿Estás sorda? Ni siquiera esa cantidad me interesa.}
 {451}{}{¿Qué te parece si hablo con la ley?}
 {452}{}{Tenía algunas preguntas más…}
 {453}{}{Entonces no importa. Me voy.}
@@ -242,7 +242,7 @@
 {543}{}{Gracias por nada.}
 {544}{}{Tenía algunas preguntas más…}
 {545}{}{Entonces no importa. Me voy.}
-{550}{}{¿Estás sordo? HE DICHO 200 fichas, y lo decía en serio.}
+{550}{}{¿Estás sorda? HE DICHO 200 fichas, y lo decía en serio.}
 {551}{}{Está bien. Aquí están las 500 fichas.}
 {552}{}{Tenía algunas preguntas más…}
 {553}{}{Entonces no importa. Me voy.}

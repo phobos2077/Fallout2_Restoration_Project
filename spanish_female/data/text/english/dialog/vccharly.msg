@@ -27,7 +27,7 @@
 {126}{}{La última vez que bebo la maldita agua de esta ciudad, eso seguro.}
 {127}{}{Me sorprende que todavía no esté brillando...}
 {128}{}{El maldito Rad-Away me produce diarrea...}
-{129}{}{Gracias, forastero. Agradezco tu ayuda... no podía permitirme el Autodoc.}
+{129}{}{Gracias, forastera. Agradezco tu ayuda... no podía permitirme el Autodoc.}
 {130}{}{Me gustaría poder recompensarte, pero no tengo donde caerme muerto.}
 {131}{}{La última vez que bebo la maldita agua de esta ciudad, eso seguro.}
 {132}{}{Me sorprende que todavía no esté brillando...}

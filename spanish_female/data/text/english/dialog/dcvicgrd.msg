@@ -38,7 +38,7 @@
 {288}{}{¿Puedo verle?}
 {289}{}{¿Puedo verle?}
 {290}{}{Vale, gracias.}
-{295}{}{Oh, claro. No quise decir que pudieras verle, ahora que eres un esclavista.}
+{295}{}{Oh, claro. No quise decir que pudieras verle, ahora que eres una esclavista.}
 {296}{}{Oh, claro. Supongo. No está ocupado y no va a ir a ningún lugar, así que supongo que no hay peligro.}
 {297}{}{Bien, ¿entonces podrías abrir la puerta?}
 {298}{}{Vale, gracias.}

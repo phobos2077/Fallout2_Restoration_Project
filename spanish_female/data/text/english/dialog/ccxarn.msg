@@ -1,4 +1,4 @@
-{100}{}{Saludos, humano. Soy el guerrero Xarn. ¿Vas a ser tú mi verdugo?}
+{100}{}{Saludos, humana. Soy el guerrero Xarn. ¿Vas a ser tú mi verdugo?}
 {101}{}{Sí.}
 {102}{}{No, aquí yo para tu rescate.}
 {103}{}{No sé. ¿Por qué tú estás aquí?}
@@ -54,7 +54,7 @@
 {153}{}{No lucha, quiero oír tu historia.}
 {154}{}{No quiero luchar, quiero rescatar a tú.}
 {155}{}{No. Marcho.}
-{156}{}{Sí. Yo listo.}
+{156}{}{Sí. Yo preparada.}
 {157}{}{No quiero luchar contra ti. En vez de eso, ¿podrías contarme tu historia?}
 {158}{}{He venido para rescatarte, no para luchar.}
 {159}{}{No. Me marcho.}
@@ -76,8 +76,8 @@
 {175}{}{Gracias. No olvidaré esto.}
 {176}{}{De nada.}
 {177}{}{De nada.}
-{178}{}{Gracias, amigo. Tengo una deuda contigo que nunca podré compensarte.}
-{179}{}{Saludos, humano. La base está en alerta. ¿No serás por casualidad la causa de ello?}
+{178}{}{Gracias, amiga. Tengo una deuda contigo que nunca podré compensarte.}
+{179}{}{Saludos, humana. La base está en alerta. ¿No serás por casualidad la causa de ello?}
 {180}{}{Hola de nuevo. La base está en alerta. ¿Eres la causa?}
 {181}{}{Sí, yo causa. ¿Quien tú y por qué preguntas?}
 {182}{}{Sí, yo soy la causa. ¿Por qué?}
@@ -93,7 +93,7 @@
 {192}{}{Tú vas por camino de tú. Yo marcho.}
 {193}{}{Bien. Estamos juntos en esto. ¡Saca tus garras y que comience la fiesta!}
 {194}{}{Ve por tu cuenta, amigo. Yo me largo de aquí.}
-{195}{}{Te lo agradezco, humano. ¡Vamos a patear algunos culos del Enclave! ¡Manada de Gruthar! ¡Grrrrrrrhh!}
+{195}{}{Te lo agradezco, humana. ¡Vamos a patear algunos culos del Enclave! ¡Manada de Gruthar! ¡Grrrrrrrhh!}
 {196}{}{De acuerdo.}
 {200}{}{[MÁS]}
 {201}{}{Sí. ¿Quién eres?}
@@ -103,7 +103,7 @@
 {302}{}{No aceptando la decisión del Enclave, eligió exiliarse a esta base, me capturó, y ha estado realizando experimentos para determinar mi verdadera naturaleza. Ha tenido éxito. Cuando informe de sus hallazgos al Enclave los míos serán cazados y exterminados. Debo escapar y alertar a mi gente.}
 {500}{}{Eres un verdadero hermano de la Manada. Ojala nos encontremos de nuevo en tiempos más pacíficos. Debo irme y preparar a los míos para la guerra.}
 {501}{}{Voy a arrancarte los miembros y a golpearte con ellos.}
-{502}{}{¡Muere, humano traicionero!}
+{502}{}{¡Muere, humana traicionera!}
 {503}{}{Esto te dolerá mucho más a ti que a mí.}
 {600}{}{Juntos destruiremos a nuestros enemigos.}
 {601}{}{Tú me los alineas y yo los derribaré.}

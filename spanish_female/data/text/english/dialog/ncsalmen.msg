@@ -7,8 +7,8 @@
 {154}{}{Ves a uno de los hombres de Salvatore. Parece silencioso, mortal, y posiblemente dormido.}
 {155}{}{Ves a uno de los hombres de Salvatore. Parece silencioso, mortal, y potencialmente muy aburrido.}
 {160}{}{::Asiente respetuosamente::}
-{161}{}{Tienes que ser la hostia de duro para haber reventado al Enclave como lo hiciste.}
-{162}{}{Eres casi tan duro como Tommy Pelotas.}
+{161}{}{Debes de ser una tía realmente dura para machacar al Enclave como lo hiciste.}
+{162}{}{Eres casi tan dura como Tommy Pelotas.}
 {163}{}{He oído lo que hiciste con el Enclave. Las noticias viajan rápido.}
 {164}{}{¿Has pensado en jugar de nuevo con un personaje distinto?}
 {170}{}{¿Por qué andas a hurtadillas?}
@@ -24,7 +24,7 @@
 {186}{}{¿Te has PERDIDO, muchacha? Mejor que te largues de aquí.}
 {187}{}{Esta chica busca problemas…}
 {195}{}{Aquí no están permitidas las armas.}
-{196}{}{Aparta ese arma.}
+{196}{}{Guarda ese arma.}
 {200}{}{Señorita, me temo que tengo que pedirle que guarde ese arma.}
 {201}{}{Señorita, lo siento, pero aquí no se permiten armas.}
 {205}{}{¡Tú! ¡Esclavista! Guarda ese arma AHORA.}
@@ -42,11 +42,11 @@
 {230}{}{Los mutantes no están permitidos aquí. Sácalo fuera. Ahora.}
 {231}{}{Mutantes no permitidos. Saca a ese fuera. Ahora.}
 {235}{}{¿Cómo haces para usar la letrina con eso puesto?}
-{240}{}{Señor.}
-{241}{}{Hola, señor.}
-{242}{}{Nada que informar, señor.}
-{243}{}{¿Necesita algo, señor?}
-{244}{}{Si alguien le molesta, señor, háganoslo saber.}
+{240}{}{Señora.}
+{241}{}{Hola, señora.}
+{242}{}{Nada que informar, señora.}
+{243}{}{¿Necesita algo, señora?}
+{244}{}{Si alguien le molesta, señora, háganoslo saber.}
 {245}{}{Cuidado con Tommy Pelotas. Tiene una polla larga y un sentido del humor escaso.}
 {246}{}{El señor Salvatore ha tenido mala salud durante todo el tiempo desde que le conozco. Es muy anciano.}
 {247}{}{Estas nuevas pistolas realmente nos han permitido ganar terreno en Nuevo Reno.}
@@ -69,17 +69,17 @@
 {262}{}{¿Necesita algo, señora?}
 {263}{}{Si alguien le molesta, señora, háganoslo saber.}
 {275}{}{Mejor que te vayas antes de que haya problemas.}
-{276}{}{Sé listo y vete antes que te pongamos las cosas difíciles.}
+{276}{}{Sé lista y vete antes que te pongamos las cosas difíciles.}
 {277}{}{Va a haber problemas si rondas por aquí.}
 {278}{}{No sé lo que quieres, }
 {279}{}{No sé lo que estás intentando demostrar, }
 {280}{}{Te sugiero que te vayas ahora mismo.}
-{285}{}{¿Dónde aprendiste a pelear? Eres sanguinario.}
+{285}{}{¿Dónde aprendiste a pelear? Eres sanguinaria.}
 {286}{}{¿Sabes? La Familia Salvatore realmente podría contar con alguien como tú.}
 {287}{}{Deberías preguntar por un trabajo a Mason.}
 {288}{}{Si el boxeo pierde su encanto, deberías considerar el unirte a nosotros.}
 {289}{}{¡Conseguí 20 dólares apostando por ti!}
-{290}{}{¡Oye, campeón! ¡Esa última pelea fue genial!}
+{290}{}{¡Hey, campeona! ¡Tu última pelea fue fantástica!}
 {291}{}{Vi tu pelea en el ring. Lanzaste un gancho de derecha bueno de cojones.}
 {292}{}{¿Cuántas flexiones haces?}
 {293}{}{¿Dónde entrenas?}

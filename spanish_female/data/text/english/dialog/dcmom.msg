@@ -56,7 +56,7 @@
 {358}{}{Es una sorpresa.}
 {359}{}{¡No puedo darte mis recetas secretas!}
 {360}{}{¿De verdad?}
-{375}{}{Aquí tienes. Parece estar medio muerto de hambre. (Mamá te entrega una gran fuente humeante con comida que huele deliciosamente).}
+{375}{}{Aquí tienes. Parece estar medio muerta de hambre. (Mamá te entrega una gran fuente humeante con comida que huele deliciosamente).}
 {376}{}{Gra-cias, Mamá.}
 {385}{}{Ah, ya te vas. Sabía que te gustaría.}
 {386}{}{Mmm, ñam ñam. Adiós, Mamá.}

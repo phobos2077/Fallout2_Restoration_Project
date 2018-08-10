@@ -4,7 +4,7 @@
 {152}{}{Ves a un refunfuñante Orville Wright. Parece alterado y suspira sin parar.}
 {200}{}{¡Lárgate de aquí!}
 {210}{}{¡Chicos, salid de aquí! ¡Es un matón!}
-{211}{}{Vas a morir, hijoputa.}
+{211}{}{Vas a morir, hijaputa.}
 {212}{}{Entra en mi casa, vas a…}
 {213}{}{Así que te han enviado a hacer su trabajo sucio…}
 {214}{}{Matón de medio pelo, este va a ser tu último trabajo…}
@@ -115,14 +115,14 @@
 {436}{}{Ahora bien, antes de entrar en detalles, saldemos cuentas primero… }
 {437}{}{Aquí tienes algo de dinero por las molestias, además de un poco de munición, licor de mi reserva privada… y otro
  trabajo para ti, si estás interesado.}
-{438}{}{Estoy interesado.}
+{438}{}{Estoy interesada.}
 {439}{}{No, gracias. Ya te veré por ahí.}
 {445}{}{Si vuelves aquí y no has hecho lo que te he pedido, te colgaré en el Gólgota, tribal. NADIE
  me hace perder el tiempo. ¿Me has comprendido?}
 {446}{}{Si crees que puedes tocarme las pelotas con esto, tribal, estás equivocado de cojones. YA he tenido bastante de tus gilipolleces. (Empieza a gritar)
  ¡Muchachos! ¡Venid aquí!}
 {447}{}{Entendido.}
-{448}{}{No soy el único para este trabajo, señor Wright. Encuentra a algún otro.}
+{448}{}{No soy la única para este trabajo, señor Wright. Encuentra a algún otro.}
 {449}{}{Que le jodan a este trabajo, que le jodan a tu hijo drogadicto, y que te jodan a ti. Me largo.}
 {451}{}{¡Ya BASTA! Estoy cansado de tus gilipolleces. Te vas a unir a tu hijo drogadicto en el infierno.}
 {453}{}{Vete de aquí.}
@@ -245,7 +245,7 @@
 {750}{}{Has resuelto el asesinato.}
 {775}{}{Has acusado a un sospechoso de la muerte de Richard Wright.}
 {800}{}{Has identificado correctamente quién mató a Richard Wright y el motivo.}
-{825}{}{Te has convertido en un Iniciado de la familia Wright.}
+{825}{}{Te has convertido en una Iniciada de la familia Wright.}
 {5243}{}{!}
 {5249}{}{. Me interesa el trabajo.}
 {5261}{}{!}

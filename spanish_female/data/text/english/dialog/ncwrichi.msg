@@ -9,9 +9,9 @@
 {175}{}{Fallout 2, ofrecido en respuesta a la gran demanda de nadie.}
 {176}{}{¡Oye! }
 {177}{}{}
-{178}{}{¡Gracias por salvarnos, }
-{179}{}{Quiero salvar al mundo igual que tú cuando sea mayor.}
-{180}{}{¿Puedo ser un héroe como tú cuando sea mayor?}
+{178}{}{Gracias por salvarnos, }
+{179}{}{Quiero salvar al mundo igual que tú cuando me haga mayor.}
+{180}{}{¿Puedo ser un héroe como tú cuando me haga mayor?}
 {181}{}{Quiero ser }
 {190}{}{¿Eres un ROBOT?}
 {191}{}{¿Cómo haces pis dentro de esa cosa?}
@@ -36,10 +36,10 @@
 {233}{}{¡Mirad al perrito metálico!}
 {234}{}{¡Perrito! ¡Aquí, perrito!}
 {235}{}{¡Yo también quiero un perrito!}
-{290}{}{Quiero salvar al mundo igual que tú cuando sea mayor.}
-{291}{}{¿Puedo ser un héroe como tú cuando sea mayor?}
+{290}{}{Quiero salvar al mundo igual que tú cuando me haga mayor.}
+{291}{}{¿Puedo ser un héroe como tú cuando me haga mayor?}
 {292}{}{Quiero ser como tú cuando sea mayor.}
-{293}{}{¿Por qué tú quieres ser yo? Yo TONTO}
+{293}{}{¿Por qué tú quieres ser yo? Yo TONTA}
 {294}{}{Una vez llevé un sombrero de cabeza de niña.}
 {295}{}{[Te alejas]}
 {296}{}{Je je. Gracias, pequeño. Pero acepta un consejo de }
@@ -48,7 +48,7 @@
 {299}{}{Una vez conduje a través de tres estados llevando la cabeza de esta niña como sombrero.}
 {300}{}{[Le dejas que siga jugando].}
 {301}{}{[La dejas seguir jugando].}
-{310}{}{Oh, no! ¡Tú eres LISTO! Tú eres un HÉROE y eres VALIENTE y quiero ser como TÚ cuando sea mayor. Gracias por salvarnos, }
+{310}{}{Oh, no! ¡Tú eres LISTA! Tú eres una HÉROE y eres VALIENTE y quiero ser como TÚ cuando sea mayor. Gracias por salvarnos, }
 {311}{}{Graaaacias, persona p-pequeña. Haces }
 {315}{}{Está bien, }
 {316}{}{Ahora cuídate, ¿me oyes, pequeña? Tengo más cosas de héroe que hacer.}
@@ -64,15 +64,15 @@
 {344}{}{Je, je. Qué mono. No, no soy un robot, pequeño.}
 {345}{}{No, no, soy una persona normal debajo de esta armadura. Por cierto, siento lo que oí acerca de tu hermano, Richie.
  ¿Sabes lo que le sucedió?}
-{355}{}{Eres TONTO.}
+{355}{}{Eres TONTA.}
 {356}{}{TÚ TAMBIÉN.}
 {357}{}{Lo mismo para ti, pero más.}
-{358}{}{Eres más que tontoooo.}
+{358}{}{Eres más que tontaaaa.}
 {359}{}{El que lo huele debajo lo tiene.}
 {360}{}{¡Rebota y en tu culo explota!}
 {361}{}{Se aleja llorando.}
-{370}{}{Eres el más tonto. ¡El más tonto!}
-{395}{}{¡No, no, TONTO! (sale corriendo, Con sus carcajadas martirizando tus oídos).}
+{370}{}{Eres la más tonta. ¡La más tonta!}
+{395}{}{¡No, no, TONTA! (sale corriendo, Con sus carcajadas martirizando tus oídos).}
 {396}{}{No quiero hablar con tú MÁS... *snfff*... yo... *snfff*... hago una FIESTA... con *snfff* PASTEL y HELADO... y tú NO puedes ir [Te marchas].}
 {405}{}{(El niño parpadea, abre la boca y luego la cierra. Aparece una lágrima y empieza a sollozar).}
 {406}{}{Jee jee YO gana}
@@ -93,7 +93,7 @@
  ¿Sabes lo que le pasó?}
 {475}{}{Eso es ASQUEROSO.}
 {476}{}{¡Sí! ¡Reciclar significa que bebes pis!}
-{477}{}{TÚ eres asqueroso, cara de PIS}
+{477}{}{TÚ eres asquerosa, cara de PIS}
 {479}{}{Uh, je… je. En realidad no, significa…}
 {485}{}{¡Bebes pis! ¡Bebes pis!}
 {486}{}{Eh, je… je… baja la voz, pequeño… reciclar no significa que beba p… bien, no EXACTAMENTE… verás…}
@@ -116,10 +116,10 @@
 {544}{}{Hola, hombrecillo.}
 {545}{}{Hola, mujercita.}
 {546}{}{Siento lo que he oído acerca de de tu hermano, Richie. ¿Sabes lo que le pasó?}
-{555}{}{¿Estás enfermo?}
+{555}{}{¿Estás enferma?}
 {556}{}{¿Por qué lo preguntas?}
-{560}{}{PARECES enfermo.}
-{561}{}{Estoy enfermo.}
+{560}{}{PARECES enferma.}
+{561}{}{Estoy enferma.}
 {565}{}{¿Has tomado una medicina?}
 {566}{}{No hay medicina para lo que yo tengo.}
 {570}{}{¿Quieres cantar?}
@@ -161,7 +161,7 @@
 {801}{}{Tengo que dormir un poco. Mañana voy a jugar mucho al juego del guerrero del insecto de metal.}
 {802}{}{Si papá se entera de que no estoy durmiendo, se enfadará mucho, mucho.}
 {900}{}{My ding-a-ling, my ding-a-ling.}
-{901}{}{::Levanta un arma de juguete:: ¡Arriba las manos, bribón!}
+{901}{}{::Levanta un arma de juguete:: ¡Arriba las manos, bribona!}
 {902}{}{Una buena acción merece otra, entre tus piernas tu madre se encuentra.}
 {903}{}{Quiero ser un chulo cuando sea mayor.}
 {904}{}{Gobernaré Nuevo Reno cuando sea mayor, igual que mi papá.}
@@ -208,10 +208,10 @@
 {945}{}{Voy a preguntarle a papá si puedo ser eso que llaman puta cuando sea mayor. Dice que realmente necesita una de eso.}
 {946}{}{Quiero ser algo que llaman puta cuando sea mayor. Papá dice que necesitamos más de eso.}
 {947}{}{Tengo vagina.}
-{1176}{}{! ¡Cuéntanos la historia del Enclave! Porfaaaa.}
+{1176}{}{! ¡Cuéntanos la historia del Enclave! Porfaaaaaa}
 {1177}{}{! Yaaaaay!}
 {1178}{}{!}
-{1181}{}{ cuando sea mayor.}
+{1181}{}{ cuando crezca.}
 {1296}{}{: puedes ser TODO lo que quieras cuando seas mayor.}
 {1310}{}{. NUNCA te olvidaré.}
 {1311}{}{ siente mejor. Gusto el salvarte}

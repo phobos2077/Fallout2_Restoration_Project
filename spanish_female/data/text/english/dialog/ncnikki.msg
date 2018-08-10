@@ -41,7 +41,7 @@
 {224}{}{Parece que ésta ya está apostando con su vida.}
 {225}{}{Eh, creo que acaba de entrar en el casino equivocado…}
 {226}{}{Si no sale antes de que los muchachos la vean…}
-{230}{}{Oye, musculitos. ¿Quieres gastar algunas de tus fichas?}
+{230}{}{Oye, fortachona. ¿Quieres gastar algunas fichas?}
 {231}{}{Oye, campeón… [guiño]… ¿te gustaría jugar?}
 {232}{}{Oye, campeón… [sonríe]… ¿te apetece probar?}
 {233}{}{Si estás buscando un poco de compañía para más tarde…}
@@ -56,7 +56,7 @@
 {242}{}{Hola, }
 {243}{}{Seguro que quieres jugar, }
 {244}{}{Bienvenido al casino, }
-{250}{}{Oye, estrella. ¿Quieres gastar algunas de tus fichas?}
+{250}{}{Hola, estrella. ¿Quieres gastar algunas fichas?}
 {251}{}{Oye, }
 {252}{}{Oye, }
 {253}{}{Si buscas ganar algo de pasta, }
@@ -140,9 +140,9 @@
 {374}{}{Ves a Lloyd el Guapo.}
 {375}{}{Yeah, I'm betting you and Pretty Boy Lloyd were both stealing money from Mr. Salvatore. Hard to believe you
  didn't notice him cheating all those times.}
-{376}{}{¿Quién eres?}
+{376}{}{¿Conoces a alguien llamado Lloyd el Guapo?}
 {377}{}{Hablaremos más tarde, Val.}
-{380}{}{Sí, he oído que está MUERTO. ¡¿Eso es lo que querías oír, asesino?! ¡¿Eh?! Y ahora, ¿vas a apostar o vas a seguir con tus chorradas?}
+{380}{}{Sí, he oído que está MUERTO. ¡¿Eso es lo que querías oír, asesina?! ¡¿Eh?! Y ahora, ¿vas a apostar o vas a seguir con tus chorradas?}
 {381}{}{¿Quieres jugar?}
 {382}{}{Situar apuestas...}
 {383}{}{Ves a Lloyd el Guapo.}
@@ -196,7 +196,7 @@
 {460}{}{Lárgate de aquí de una puñetera vez. No tengo nada que decirte.}
 {461}{}{No tengo nada que decirte. No vuelvas a molestarme.}
 {462}{}{Not now, maybe. We'll talk later though, Nikki. Count on it.}
-{470}{}{Eres sinuoso... como las serpientes. QUIZÁ sepa dónde está Lloyd, o QUIZÁ no. ¿Tienes 500 fichas?}
+{470}{}{Eres sinuosa... como las serpientes. QUIZÁ sepa dónde está Lloyd, o QUIZÁ no. ¿Tienes 500 fichas?}
 {471}{}{Depende de lo que vendas.}
 {480}{}{PUDIERA ser que Lloyd aún tenga mi parte, y que no estuviera segura de que me la fuera a dar. Así que QUIZÁS -a cambio de 500 fichas-
  podría contarte dónde PUEDE que esté su mentiroso trasero.}

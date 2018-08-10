@@ -68,8 +68,8 @@
 {500}{}{Oh, sí. Lo recuerdo. Se la compré a Ed. Es un tratante de ganado de Ciudad Refugio.}
 {501}{}{¿Cantimplora de agua? Oh, espera. Sí, tenía una docena de ellas. Se vendieron bastante bien. Se las compre a Ed, un tratante de brahmines de Ciudad Refugio.}
 {502}{}{¿Ciudad Refugio?}
-{550}{}{¿Podrías dejar de llamarme Jefe?}
-{600}{}{¡Claro, Jefe!}
+{550}{}{¿Podrías dejar de llamarme Jefa?}
+{600}{}{¡Claro, Jefa!}
 {601}{}{¡Lo digo en serio! ¡PARA!}
 {602}{}{Supongo que tendré que conformarme con eso.}
 {650}{}{¡Lo has pillado!}
@@ -96,119 +96,119 @@
 {832}{}{Lo haría, honestamente, haría casi cualquier cosa por ti. Es tan sólo que ahora mismo no pareces ser capaz de liderar a nadie. Yo tan sólo sería una carga. Me quedaré con Mamá, un tiempo... hasta que puedas arreglar las cosas. No he probado su comida desde hace mucho tiempo.}
 {833}{}{Lo siento, Jefe. Parece que ya tienes bastante gente contigo. Ahora que Mamá se ha ido, creo que me marcharé. No se a dónde... quizás nos volvamos a ver. Gracias por todo lo que has hecho por mí.}
 {834}{}{Ya llevas demasiada gente contigo, Jefe. Esperaré aquí hasta que hasta que puedas arreglar las cosas. La comida de Mamá me recuerda a la de mi ex-mujer... aunque no sé si eso es algo bueno o malo...}
-{835}{}{Me encantaría, Jefe. Pero parece que no tienes espacio para nadie más en el grupo. Me quedaré en el local de Mamá. No he estado allí desde hace un tiempo. Ven a verme si encuentras sitio para mí.}
+{835}{}{Me encantaría, Jefa. Pero parece que no tienes espacio para nadie más en el grupo. Me quedaré en el local de Mamá. No he estado allí desde hace un tiempo. Ven a verme si encuentras sitio para mí.}
 {840}{}{Ed se encuentra en Ciudad Refugio. Es un tratante de brahmines. Él tan sólo era uno de mis muchos proveedores. Ciudad Refugio está al este, no muy lejos de aquí.}
 {845}{}{Ya te lo he dicho, está por aquí. [Vic señala el lugar en tu PipBoy 2000].}
 {900}{}{Vic te ha hablado de su vida como mercader.}
 {1000}{}{Necesito preguntarte algo.}
-{1100}{}{Curado del todo, Jefe. ¿Algo más?}
-{1200}{}{Estoy casi en perfectas condiciones, Jefe.}
+{1100}{}{Curado del todo, Jefa. ¿Algo más?}
+{1200}{}{Estoy casi en perfectas condiciones, Jefa.}
 {1300}{}{Estoy casi curado, Jefe, pero he estado mejor otras veces.}
-{1400}{}{Lo intenté, Jefe, pero no me encuentro muy bien. Aunque haré lo que pueda.}
+{1400}{}{Lo intenté, Jefa, pero no me encuentro muy bien. Aunque haré lo que pueda.}
 {1500}{}{Lo qué tú digas, Jefe.}
 {1501}{}{¿Aquí? ¿Justo aquí? Vale, tú eres el Jefe.}
-{1502}{}{De acuerdo. Me quedaré aquí hasta que vuelvas, Jefe. Porque vas a volver, ¿verdad?}
+{1502}{}{De acuerdo. Me quedaré aquí hasta que vuelvas, Jefa. Porque vas a volver, ¿verdad?}
 {1503}{}{Todo el tiempo que quieras. No me iré a ninguna parte.}
-{1504}{}{Por supuesto, Jefe.}
+{1504}{}{Por supuesto, Jefa.}
 {1600}{}{Si tú lo dices...}
-{1601}{}{Buena idea, Jefe.}
-{1602}{}{Bien pensado, Jefe.}
-{1603}{}{Claro, Jefe. ¿Algo más?}
-{1604}{}{Bajada está, Jefe.}
-{1605}{}{Sin problemas, Jefe.}
-{1606}{}{Hecho, Jefe.}
-{1700}{}{Claro, Jefe.}
-{1701}{}{Lo más cerca que pueda, Jefe.}
-{1702}{}{Tú sabes lo que es mejor, Jefe.}
-{1703}{}{Justo tras de ti, Jefe.}
-{1704}{}{Como el pegamento, Jefe.}
-{1705}{}{Si tú lo dices, Jefe.}
-{1706}{}{Oh. Vale, Jefe.}
+{1601}{}{Buena idea, Jefa.}
+{1602}{}{Bien pensado, Jefa.}
+{1603}{}{Claro, Jefa. ¿Algo más?}
+{1604}{}{Bajada está, Jefa.}
+{1605}{}{Sin problemas, Jefa.}
+{1606}{}{Hecho, Jefa.}
+{1700}{}{Claro, Jefa.}
+{1701}{}{Lo más cerca que pueda, Jefa.}
+{1702}{}{Tú sabes lo que es mejor, Jefa.}
+{1703}{}{Justo tras de ti, Jefa.}
+{1704}{}{Como el pegamento, Jefa.}
+{1705}{}{Si tú lo dices, Jefa.}
+{1706}{}{Oh. Vale, Jefa.}
 {1800}{}{Vale, mantendré la distancia, pero no tan lejos, Jefe.}
-{1801}{}{Vale, No lo haré, Jefe.}
-{1802}{}{Entonces me quedaré sólo un poco por detrás tuyo, Jefe.}
-{1803}{}{Claro, Jefe.}
-{1900}{}{Cierto Jefe. Me retrasaré un poco.}
-{1901}{}{Lo qué tú digas, Jefe.}
-{1902}{}{Allá voy, Jefe.}
-{1903}{}{Me quedo atrás, Jefe.}
-{1904}{}{Detrás tuyo, Jefe.}
-{1905}{}{Distanciándonos, Jefe.}
-{1906}{}{Vale, Jefe.}
-{2000}{}{¿Eh, Jefe? Pareces que llevas a mucha gente. Me quedaré aquí esperándote.}
+{1801}{}{Vale, No lo haré, Jefa.}
+{1802}{}{Entonces me quedaré sólo un poco por detrás tuyo, Jefa.}
+{1803}{}{Claro, Jefa.}
+{1900}{}{Cierto Jefa. Me retrasaré un poco.}
+{1901}{}{Cómo tú digas, Jefa.}
+{1902}{}{Allá voy, Jefa.}
+{1903}{}{Me quedo atrás, Jefa.}
+{1904}{}{Detrás tuyo, Jefa.}
+{1905}{}{Distanciándonos, Jefa.}
+{1906}{}{Vale, Jefa.}
+{2000}{}{¿Eh, Jefa? Pareces que llevas a mucha gente. Me quedaré aquí esperándote.}
 {2100}{}{Me estás asustando, Jefe. ¿Qué te ha pasado? Das... bueno, miedo. Creo que me quedaré aquí un rato...}
-{2200}{}{¡Apuesta a que sí, Jefe!}
-{2201}{}{Claro que sí, Jefe.}
-{2202}{}{Claro que sí, Jefe.}
-{2203}{}{Listo cuanto tu lo estés, Jefe.}
+{2200}{}{¡Apuesta a que sí, Jefa!}
+{2201}{}{Claro que sí, Jefa.}
+{2202}{}{Claro que sí, Jefa.}
+{2203}{}{Listo cuanto tu lo estés, Jefa.}
 {2204}{}{¡Genial! Vamos.}
 {2205}{}{¡Genial!}
-{2206}{}{¡Eres el mejor, Jefe!}
+{2206}{}{¡Eres la mejor, Jefa!}
 {2207}{}{No te arrepentirás. ¡No más errores!}
 {2208}{}{Tendré cuidado esta vez, ¡no te preocupes!}
 {2209}{}{Sabía que me perdonarías por eso... Así que, eh, Jefe. ¿Cuál es el plan?}
-{2210}{}{¡No te decepcionaré, Jefe!}
-{2211}{}{¡Eres súper, Jefe!}
-{2212}{}{Sabía que no era demasiado viejo para esto. ¡Sólo fue algo de mala suerte! ¿Verdad, Jefe?}
+{2210}{}{¡No te decepcionaré, Jefa!}
+{2211}{}{¡Eres súper, Jefa!}
+{2212}{}{Sabía que no era demasiado viejo para esto. ¡Sólo fue algo de mala suerte! ¿Verdad, Jefa?}
 {2300}{}{De Ed. Es un tratante de brahmines de Ciudad Refugio. ¿Has estado allí? Déjame señalártela en ese mapa tuyo.}
 {2305}{}{En Ciudad Refugio. Aquí. Déjame señalártela en ese mapa chulo que tienes.}
 {2310}{}{Debería estar por aquí, en alguna parte.}
 {2311}{}{Ciudad Refugio. Mira ese mapa chulo que tienes.}
 {2403}{}{¿Dónde conseguiste la cantimplora de agua del Refugio 13?}
 {2404}{}{No importa.}
-{2500}{}{Claro, Jefe.}
-{2501}{}{Pregunta lo que quieras, Jefe.}
-{2502}{}{Te ayudaré si está en mi mano, Jefe.}
-{2503}{}{No me he metido en problemas, ¿verdad, Jefe?}
-{2504}{}{¿Hice algo mal, Jefe?}
+{2500}{}{Claro, Jefa.}
+{2501}{}{Pregunta lo que quieras, Jefa.}
+{2502}{}{Te ayudaré si está en mi mano, Jefa.}
+{2503}{}{No me he metido en problemas, ¿verdad, Jefa?}
+{2504}{}{¿Hice algo mal, Jefa?}
 {2505}{}{Por supuesto.}
-{2600}{}{¿Qué hacemos ahora, Jefe?}
-{2601}{}{¿Cuál es el plan, Jefe?}
-{2602}{}{Lo hago lo mejor que puedo, Jefe.}
-{2603}{}{¿Qué puedo hacer por ti, Jefe?}
-{2604}{}{¿Cambio de planes, Jefe?}
-{2605}{}{¿Otra estrategia, Jefe?}
+{2600}{}{¿Qué hacemos ahora, Jefa?}
+{2601}{}{¿Cuál es el plan, Jefa?}
+{2602}{}{Lo hago lo mejor que puedo, Jefa.}
+{2603}{}{¿Qué puedo hacer por ti, Jefa?}
+{2604}{}{¿Cambio de planes, Jefa?}
+{2605}{}{¿Otra estrategia, Jefa?}
 {2700}{}{Jefe, me han dado bien. Tienes que llevarme a un doctor. No sé si podré volver a seguirte.}
 {2701}{}{Necesito un médico, Jefe. Estoy realmente jodido. No sé si podré volver a luchar contigo.}
-{2702}{}{Jefe, estoy realmente jodido. Tienes que hacer que Lenny me eche un vistazo.}
+{2702}{}{Jefa, estoy realmente jodido. Tienes que hacer que Lenny me eche un vistazo.}
 {2800}{}{Eh, Jefe. ¿Quieres que me una a ti?}
-{2801}{}{Eh, Jefe. No me importa esperarte. Soy un hombre muy paciente.}
-{2802}{}{Nos juntamos otra vez, ¿Jefe? Intentaré hacerlo mejor.}
-{2803}{}{Tenía miedo de que no fueras a volver. Me alegro de volver a verte, Jefe.}
+{2801}{}{Eh, Jefa. No me importa esperarte. Soy un hombre muy paciente.}
+{2802}{}{Nos juntamos otra vez, ¿Jefa? Intentaré hacerlo mejor.}
+{2803}{}{Tenía miedo de que no fueras a volver. Me alegro de volver a verte, Jefa.}
 {2804}{}{¿Buscas compañía de nuevo?}
-{2805}{}{Listo para irnos, Jefe.}
+{2805}{}{Listo para irnos, Jefa.}
 {2806}{}{Sabía que no me abandonarías.}
 {2807}{}{¿Necesitas ayuda?}
-{2808}{}{Necesitas que repare algo, ¿no? ¡Soy tu hombre, Jefe!}
+{2808}{}{Necesitas que repare algo, ¿no? ¡Soy tu hombre, Jefa!}
 {2809}{}{No te preocupes, Jefe. Sulik y nos llevamos bien, honestamente.}
 {2810}{}{Vamos.}
 {2811}{}{Quédate aquí. Volveré.}
 {2812}{}{Me voy, yo.}
 {3100}{}{¿Qué? Oh… vale, Jefe. Si tú lo dices.}
-{3101}{}{¿Puedo ponerme otra cosa, Jefe? Estoy un poco preocupado.}
+{3101}{}{¿Puedo ponerme otra cosa, Jefa? Estoy un poco preocupado.}
 {3102}{}{Bien… pero no vas a dejarme aquí... ¿Verdad, Jefe?}
 {3103}{}{Pero… es decir... por supuesto, Jefe. Ya me la quito.}
 {3200}{}{Bueno, Jefe… Soy bastante bueno con las armas pequeñas. Puedo manejar casi cualquier rifle, escopetas y la mayoría de pistolas pequeñas y medianas. También 'puedo' usar cuchillos y se me da bien lanzar cosas, pero... mi puntería no es la mejor del mundo. De hecho, es bastante horrible. Lo siento, Jefe. Intentaré mejorar.}
-{3201}{}{Lo que ya te dije, Jefe. Prefiero las armas pequeñas. Puedo manejar casi cualquier rifle, escopetas y la mayoría de pistolas pequeñas y medianas. Si no nos queda otro remedio puedo intentar usar un cuchillo o incluso armas para lanzar.}
+{3201}{}{Lo que ya te dije, Jefa. Prefiero las armas pequeñas. Puedo manejar casi cualquier rifle, escopetas y la mayoría de pistolas pequeñas y medianas. Si no nos queda otro remedio puedo intentar usar un cuchillo o incluso armas para lanzar.}
 {3300}{}{'Puedo' usar cuchillos y se me da bien lanzar cosas, pero... mi puntería no es la mejor del mundo. De hecho, es bastante horrible. Lo siento, Jefe. Intentaré mejorar.}
 {3301}{}{Lo que ya te dije, Jefe. Cuchillos y se me da bien lanzar cosas... pero suelo fallar un montón.}
 {3400}{}{¡Hasta aquí hemos llegado!}
 {3401}{}{¡Te voy a arrancar la maldita cabeza! ¡Nadie le hace daño a mi familia!}
 {4000}{}{¿Por aquí?}
-{4001}{}{¿Así mejor, Jefe?}
+{4001}{}{¿Así mejor, Jefa?}
 {4002}{}{¿Qué tal así?}
-{4003}{}{Sí, Jefe.}
+{4003}{}{Sí, Jefa.}
 {4004}{}{¿Qué?}
 {4005}{}{¿A dónde vamos?}
-{4006}{}{¿Nos vamos, Jefe?}
+{4006}{}{¿Nos vamos, Jefa?}
 {4007}{}{Ya me muevo.}
-{4008}{}{Lo siento, Jefe.}
+{4008}{}{Lo siento, Jefa.}
 {4009}{}{¿Mejor así?}
 {4010}{}{Uf.}
-{4011}{}{¿Así, Jefe?}
+{4011}{}{¿Así, Jefa?}
 {4012}{}{Me pondré allí.}
 {4013}{}{Me moveré allí.}
-{4100}{}{¡Jefe! No me encuentro bien.}
+{4100}{}{¡Jefa! No me encuentro bien.}
 {4101}{}{Necesito un doctor.}
 {4102}{}{Oh, chico. Esto si que duele.}
 {4103}{}{¡Ay!}
@@ -219,25 +219,25 @@
 {4200}{}{Nunca me gustó este sitio.}
 {4201}{}{¿Por qué está este sitio tan limpio?}
 {4202}{}{¿Hueles algo, Jefe?}
-{4203}{}{Sabes, Jefe. No creo que vuelva aquí cuando hayamos acabado. Ya no puedo llamarlo hogar.}
+{4203}{}{Sabes, Jefa. No creo que vuelva aquí cuando hayamos acabado. Ya no puedo llamarlo hogar.}
 {4204}{}{Esto está bastante más sucio de lo que recordaba.}
-{4205}{}{No nos quedaremos mucho por aquí, ¿verdad, Jefe?}
+{4205}{}{No nos quedaremos mucho por aquí, ¿verdad, Jefa?}
 {4206}{}{Este sitio nunca cambiará.}
-{4207}{}{Jefe, no voy a echar de menos este sitio.}
-{4208}{}{Gracias de nuevo por sacarme de este lugar, Jefe.}
-{4209}{}{De verdad que te debo una, Jefe.}
+{4207}{}{Jefa, no voy a echar de menos este sitio.}
+{4208}{}{Gracias de nuevo por sacarme de este lugar, Jefa.}
+{4209}{}{De verdad que te debo una, Jefa.}
 {4210}{}{Vaya, este sitio si que ha cambiado.}
 {4211}{}{No he estado aquí desde hace años.}
 {4212}{}{No me retiraré a vivir aquí.}
 {4213}{}{Podría abrir un taller de reparaciones por aquí.}
 {4300}{}{Ah, da gusto verlo. Este era... mi hogar, pero supongo que ya lo sabías. ¿Verdad, Jefe?}
 {4400}{}{Sulik, no me mires así.}
-{4401}{}{Jefe, Sulik está volviendo a mirarme.}
+{4401}{}{Jefa, Sulik está volviendo a mirarme.}
 {4402}{}{Perrito bueno.}
 {4500}{}{La de da…}
 {4501}{}{Ho hum.}
 {4502}{}{Esperando al Jefe…}
-{4503}{}{Estoy esperando al Jefe.}
+{4503}{}{Estoy esperando a la Jefa.}
 {4504}{}{Esperando.}
 {4505}{}{Estoy seguro de que el Jefe no me dejaría tirado aquí…}
 {4506}{}{Knock Knock… quién es... espera. ¿Cómo seguía?...}
@@ -249,20 +249,20 @@
 {4512}{}{Ojala tuviera algo de chicle... han pasado décadas.}
 {4513}{}{Necesito salir del negocio de las reliquias... no trae más que problemas.}
 {4514}{}{Por qué esperar cansa tanto…}
-{4600}{}{Oh, gracias, Jefe.}
+{4600}{}{Oh, gracias, Jefa.}
 {4601}{}{Gracias.}
 {4602}{}{¿Estás seguro de que sabes lo que haces?}
 {4603}{}{¿Y no podríamos descansar en vez de eso?}
 {4604}{}{¿Deberíamos acampar?}
 {4605}{}{¿Tan mal estoy?}
 {4700}{}{No muchas, Jefe.}
-{4701}{}{Si insistes, Jefe.}
-{4702}{}{Jefe, no me va a explotar la cabeza, ¿verdad?}
-{4703}{}{Jefe, creo que empieza a gustarme esto.}
-{4704}{}{Me siento un poco raro, Jefe.}
+{4701}{}{Si insistes, Jefa.}
+{4702}{}{Jefa, no me va a explotar la cabeza, ¿verdad?}
+{4703}{}{Jefa, creo que empieza a gustarme esto.}
+{4704}{}{Me siento un poco raro, Jefa.}
 {4705}{}{Seguro que tienes bastantes de estas para darme.}
-{4706}{}{Claro, Jefe. Me tomaré algunas.}
-{4707}{}{Gracias, Jefe.}
+{4706}{}{Claro, Jefa. Me tomaré algunas.}
+{4707}{}{Gracias, Jefa.}
 {4708}{}{No está mal.}
 {5000}{}{Ahora mismo estoy un poco hambriento. Volveremos a hablar en el local de Mamá.}
 {5500}{}{Siento que me rompí una extremidad, Jefe. Será mejor que eche un vistazo.}

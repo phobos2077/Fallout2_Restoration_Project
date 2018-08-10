@@ -14,7 +14,7 @@
 {113}{}{¡Vete!}
 {114}{}{¡Fuera! ¡Fuera! ¡Fuera!}
 {115}{}{Admiro tu persistencia. Me gustaría admirarla desde la distancia.}
-{116}{}{¿Esto es alguna clase de intento torpe para hacerme saber que te sientes atraído por mí?}
+{116}{}{¿Esto es alguna clase de intento torpe para hacerme saber que te sientes atraída por mí?}
 {117}{}{¿Te gustan mis rizos? Creo que Scott Rodenhizer tiene un extraño sentido del humor.}
 {118}{lyn002}{Las noticias de tus hazañas han viajado con rapidez. ¿Son ciertas? ¿Ha seguido el gobierno haciendo la guerra?}
 {119}{}{¿Uh? ¿Guer--rra?}
@@ -64,7 +64,7 @@
  de que no deambules por aquí de nuevo... ¡guardias! ¡Escoltad a este imbécil fuera de los muros!}
 {153}{}{¡NO!}
 {154}{}{ va con la gente de metal}
-{155}{lyn011}{Hola, extranjero. Soy la Primer Ciudadano Lynette. ¿Puedo preguntarte qué negocios te traen aquí?}
+{155}{lyn011}{Hola, extranjera. Soy la Primer Ciudadano Lynette. ¿Puedo preguntarte qué negocios te traen aquí?}
 {156}{}{¿N-negoc-ccios? ¿Negooo-cios?}
 {157}{}{¡Eer!}
 {158}{}{Adiós.}
@@ -79,9 +79,9 @@
 {167}{lyn012b}{Esa clase de tecnología no es para forasteros.}
 {168}{}{¿Tienes algún PROBLEMA con los forasteros, mujer?}
 {169}{}{¿Tienes algún PROBLEMA con los forasteros?}
-{170}{}{Disculpa... ¿hay algún problema con ser un forastero, Primer Ciudadano?}
-{171}{}{Soy el descendiente del Morador del Refugio. Necesito el GECK para ayudar a mi poblado.}
-{172}{}{Soy el descendiente del Morador del Refugio, Primer Ciudadano. Necesito el GECK para ayudar a mi poblado.}
+{170}{}{Disculpa... ¿hay algún problema con ser una forastera, Primer Ciudadano?}
+{171}{}{Soy la descendiente del Morador del Refugio. Necesito el GECK para ayudar a mi poblado.}
+{172}{}{Soy la descendiente del Morador del Refugio, Primer Ciudadano. Necesito el GECK para ayudar a mi poblado.}
 {173}{}{Mujer, dame el GECK ahora, o lo tomaré por la fuerza.}
 {174}{}{Dame el GECK ahora, o lo tomaré por la fuerza.}
 {175}{}{Entonces no tenemos más que discutir. Adiós.}
@@ -107,13 +107,13 @@
 {192}{}{OBVIAMENTE no eres con quien necesito hablar. Tráeme al supervisor de inmediato.}
 {193}{}{No importa. Debo irme. Adiós.}
 {194}{lyn016}{"¿Descendiente del Morador del Refugio?" ¿Qué quieres decir?}
-{195}{}{Soy el bisnieto del primer Morador del Refugio.}
+{195}{}{Soy la bisnieta del primer Morador del Refugio.}
 {196}{}{Mujer, estoy desperdiciando un tiempo precioso hablando contigo. Tráeme al supervisor de inmediato.}
 {197}{}{Estoy desperdiciando un tiempo precioso hablando contigo. Tráeme al supervisor de inmediato.}
 {198}{}{Nada, no importa. Continuaremos con esta conversación más tarde.}
 {199}{lyn017a}{¡¿Irrumpes en mis habitaciones y luego tienes la audacia de insultarme, a Lynette, Primer Ciudadano de Ciudad Refugio?!}
 {200}{lyn017b}{¡¿Irrumpes en mis habitaciones y luego tienes la audacia de venirme con exigencias, a mí, Lynette, Primer Ciudadano de Ciudad Refugio?!}
-{201}{lyn017c}{Vete. Ya no eres bienvenido en esta ciudad.}
+{201}{lyn017c}{Vete. Ya no eres bienvenida en esta ciudad.}
 {202}{}{NO me iré hasta que consiga algunas preguntas.}
 {203}{}{Me iré... por ahora.}
 {204}{lyn018}{No, no, no vivimos en el Refugio. Fue una medida temporal para proteger de la guerra a unos
@@ -142,7 +142,7 @@
 {225}{}{Así que... ¿la orden de abandonar el Refugio provino del supervisor?}
 {226}{}{Hablando del supervisor, ¿dónde está? Me gustaría hablar con él.}
 {227}{}{¡Mientes! ¡¡Esa señal nunca llegó!}
-{228}{}{No estoy seguro... todavía. Que te vaya bien.}
+{228}{}{No estoy segura... todavía. Que te vaya bien.}
 {229}{lyn022}{Es muy probable que se desmontaran para usarse en mejoras de otros sistemas.}
 {230}{}{Hmmm. ¿Pero el supervisor fue quien dio la orden de abandonar el Refugio?}
 {231}{}{¿Dónde está el supervisor? Debo hablar con él sobre esto.}
@@ -167,14 +167,14 @@
 {247}{}{Me marcharé... por ahora.}
 {248}{lyn026}{Los archivos se guardan dentro de nuestro Refugio. Sólo tienen acceso a ellos los Ciudadanos... NO son para forasteros.}
 {249}{}{Bien. ¿Dónde está el supervisor? Hablaré con él sobre esos archivos.}
-{250}{}{Pero yo soy un Ciudadano.}
+{250}{}{Pero yo soy una Ciudadana.}
 {251}{}{¿Cómo se convierte uno en parte de tus moradores de Refugio?}
-{252}{}{¿Cómo me puedo convertir en Ciudadano?}
+{252}{}{¿Cómo puedo convertirme en Ciudadana?}
 {253}{}{Ya he oído bastante. Adiós.}
 {254}{lyn027}{Ya no nos seguimos considerando "moradores de Refugio"... nos referimos a nosotros mismos como
  "Ciudadanos". Si deseas formar parte de nuestra comunidad, primero debes demostrar tu valía.}
 {255}{}{¿Demostrar mi valía? ¿Cómo?}
-{256}{}{Soy el descendiente del primer Morador del Refugio: eso debería bastar.}
+{256}{}{Soy la descendiente del primer Morador del Refugio: eso debería bastar.}
 {257}{}{Pensaré en ello. Que te vaya bien.}
 {258}{lyn028}{No lo comprendes... no nos oponemos al mundo, sino a la gente que lo puebla. Mira
  a tu alrededor: dentro de estos muros está todo lo que queda de la civilización de antes de la guerra.}
@@ -262,7 +262,7 @@
  tiempo para desperdiciarlo contigo y tus alocadas reclamaciones.}
 {324}{lyn041b}{¿Tienes idea de lo ocupada que estoy? Dirijo esta ciudad, y tengo muy poco
  tiempo para desperdiciarlo contigo.}
-{325}{lyn041c}{Ahora déjame ya, o tendré que llamar a los guardias.}
+{325}{lyn041c}{Ahora, vete de una vez, o llamaré a los guardias.}
 {326}{}{Adelante, llámalos. No llegarán a tiempo para salvar tu vida.}
 {327}{}{Bien. Me marcho.}
 {328}{}{Muy bien, Primer Ciudadano. Que te vaya bien.}
@@ -275,15 +275,15 @@
 {334}{}{Muy bien, entonces no tenemos nada más que discutir. Adiós, Primer Ciudadano.}
 {335}{lyn043}{Podríamos comprobarlo en las computadoras del Refugio. Probablemente tendrían la información que buscas.
  Pero sólo se permite a los Ciudadanos acceder a los archivos.}
-{336}{}{Pero yo soy un Ciudadano.}
-{337}{}{¿Hay alguna forma en que me pueda convertir en Ciudadano?}
+{336}{}{Pero yo soy una Ciudadana.}
+{337}{}{¿Hay alguna forma en que me pueda convertir en Ciudadana?}
 {338}{}{Supongo que estoy de suerte, entonces. Que te vaya bien.}
 {339}{lyn044}{En lugar de hacer el test, podrías demostrar tu compromiso de una forma más...
  sustancial. Como forastero, estás en una posición única para resolver una situación... difícil para nosotros.}
 {340}{}{¿Qué clase de situación?}
 {341}{}{Por supuesto. Lo que sea que necesite el Refugio, es mi deber procurarlo.}
 {342}{}{No sé... ¿no es el test de Ciudadanía un procedimiento estándar?}
-{343}{}{No creo que sea el indicado para el trabajo... adiós.}
+{343}{}{No creo que sea la indicada para el trabajo... adiós.}
 {344}{}{No, gracias, realmente debo irme. Que te vaya bien, Primer Ciudadano.}
 {345}{lyn045}{Asesinos, ambos. Boyarsky fue exiliado hace diez años, y Richard Moreau fue exiliado
  poco después de abandonar el Refugio. La Ciudadanía es un responsabilidad sagrada: el crimen no se tolera tras nuestros muros.}
@@ -314,13 +314,13 @@
  superviviente de otro Refugio! Bienvenido a nuestra Ciudad... debes haber sufrido mucho en el mundo exterior.}
 {367}{}{Necesito encontrar el Refugio del que provino mi gente.}
 {368}{}{Necesito un Kit del Jardín del Edén. ¿Tenéis uno?}
-{369}{}{Oh, ¿así que ahora soy bienvenido en tu ciudad? Olvídalo... me largo de aquí.}
+{369}{}{Oh, ¿así que ahora soy bienvenida en tu ciudad? Olvídalo... me largo de aquí.}
 {370}{}{No tienes ni idea... pero te hablaré sobre el templo de las pruebas en algún otro momento. Adiós.}
 {371}{lyn051}{Te estoy dando una oportunidad que pocos forasteros han recibido alguna vez. Puedes hacer el test, si
  lo deseas. Pero resolver esta situación para nosotros supondrá una mayor recompensa. ¿Me comprendes?}
 {372}{}{De acuerdo entonces. ¿Qué clase de situación?}
 {373}{}{Comprendo. Lo que quiera que necesite el Refugio, es mi deber obtenerlo.}
-{374}{}{No creo que sea el indicado para el trabajo... adiós.}
+{374}{}{No creo que sea la indicada para el trabajo... adiós.}
 {375}{}{Creo que realmente debería irme. Que te vaya bien, Primer Ciudadano.}
 {376}{lyn052}{Oh... es correcto. El procónsul mencionó que habíamos ganado un nuevo Ciudadano. Bienvenido,
  pues. En cuanto a los archivos, sí... se encuentran en el interior de nuestro Refugio. Examínalos a tu discreción.}
@@ -336,7 +336,7 @@
 {386}{}{Adio-os}
 {387}{}{Tengo algunas preguntas que quería hacerte.}
 {388}{}{Tengo algunas preguntas que quería hacerte.}
-{389}{}{¿Cómo se convierte uno en Ciudadano de Ciudad Refugio?}
+{389}{}{¿Cómo se convierte una en Ciudadana de Ciudad Refugio?}
 {390}{}{He reconsiderado tu oferta para la Ciudadanía.}
 {391}{}{Acerca de la central nuclear de Gecko...}
 {392}{}{Tengo cierta información sobre esos saqueadores que han estado atacando la ciudad.}
@@ -346,7 +346,7 @@
 {396}{}{Debo hablar contigo sobre la entrega de ese holodisco.}
 {397}{}{He cambiado de opinión. Entregaré el holodisco al Consejero de la RNC.}
 {398}{}{Nada. Perdón por molestarte.}
-{399}{lyn054a}{Por supuesto. ¿En qué puedo ayudarte, Ciudadano?}
+{399}{lyn054a}{Por supuesto. ¿En qué puedo ayudarte, Ciudadana?}
 {400}{lyn054b}{Por supuesto. ¿En qué puedo ayudarte, capitán?}
 {401}{}{¿Qué puedes contarme sobre esos ataques de saqueadores a nuestra ciudad?}
 {402}{}{Me topé con cierto Ciudadano en el centro de la ciudad, Thomas Moore. ¿Quién es?}
@@ -355,11 +355,11 @@
 {405}{}{¿Es esto Ciudad Refugio? ¿Por qué no vivís en un Refugio?}
 {406}{}{¿Por qué justificáis la esclavitud?}
 {407}{}{Hoy nada, gracias.}
-{408}{lyn055}{Para un no-Ciudadano, ciertamente exiges mucho de mi tiempo.}
-{409}{}{Pero yo SOY un Ciudadano.}
+{408}{lyn055}{Para una no-Ciudadana, ciertamente exiges mucho de mi tiempo.}
+{409}{}{Pero yo SOY una Ciudadana.}
 {410}{}{¿Tienes un GECK?}
 {411}{}{Estoy buscando el Refugio 13.}
-{412}{}{¿Qué necesito hacer para convertirme en Ciudadano?}
+{412}{}{¿Qué necesito hacer para convertirme en Ciudadana?}
 {413}{}{¿Es esto Ciudad Refugio? ¿Por qué no vivís en un Refugio?}
 {414}{}{¿Por qué justificáis la esclavitud?}
 {415}{}{No importa, entonces. Adiós.}
@@ -379,7 +379,7 @@
 {427}{}{Umm... no llevo los documentos conmigo.}
 {428}{}{¿Mis documentos? Aún no han sido tramitados. Deberían llegar a tu despacho en algún momento.}
 {429}{}{¿Mis documentos? Aún no han sido tramitados. Deberían llegar a tu despacho en algún momento.}
-{430}{lyn059}{No juegues conmigo, "Ciudadano", o me aseguraré de que nunca vuelvas a caminar por las calles de Ciudad Refugio. Ahora vete.}
+{430}{lyn059}{No juegues conmigo, "Ciudadana", o me aseguraré de que nunca vuelvas a caminar por las calles de Ciudad Refugio. Ahora vete.}
 {431}{}{No hay problema... precisamente ya me iba. Adiós.}
 {432}{}{Buenos días, Primer Ciudadano.}
 {433}{lyn060}{¿Me tomas por TONTA? ¡Si alguien sabe que eso es falso, soy yo! ¡¿Quién
@@ -452,20 +452,20 @@
 {492}{}{Mira, el agua subterránea no volverá a contaminarse, y nadie será perjudicado. El problema está resuelto.}
 {493}{}{Volveré más tarde, cuando te hayas calmado.}
 {494}{}{Tengo que marcharme, Primer Ciudadano. Que te vaya bien.}
-{495}{lyn075}{Mejor que cuides tus pasos en esta ciudad, "Ciudadano". Te estaré vigilando. Un paso en falso y serás exiliado.}
+{495}{lyn075}{Mejor que cuides tus pasos en esta ciudad, "Ciudadana". Te estaré vigilando. Un paso en falso y serás exiliada.}
 {496}{}{Se acabó. Nadie me amenaza, especialmente una zorra bigotuda con un palo metido en el culo. Es hora de morir.}
 {497}{}{Métete conmigo, Lynette, y Ciudad Refugio necesitará un nuevo Primer Ciudadano. ¿Entendido?}
 {498}{}{¿Y? Simplemente volveré con McClure para obtener mi Ciudadanía. Como si procediera de la propia Primer Ciudadano.}
 {499}{}{Volveré más tarde, cuando te hayas calmado.}
 {500}{}{Buenos días, Primer Ciudadano.}
-{501}{lyn076a}{Excelente. Te has conducido como un auténtico Ciudadano de Refugio.}
+{501}{lyn076a}{Excelente. Te has conducido como una auténtica Ciudadana de Refugio.}
 {502}{lyn076b}{Es un placer para mí concederte la Ciudadanía, que supone privilegios y el acceso a nuestras instalaciones.}
 {503}{}{Oye, esperaba obtener alguna compensación monetaria.}
 {504}{}{No hay problema. Sólo hacía mi trabajo. Adiós.}
 {505}{}{Fue un placer, Primer Ciudadano. Que te vaya bien.}
 {506}{}{Genial, gracias. Iré a comprobarlo ahora.}
 {507}{}{Aprecio todo lo que has hecho por mí, Primer Ciudadano. Que te vaya bien.}
-{508}{lyn077ab}{Ya has recibido mucho, extranjero. La Ciudadanía es una recompensa en sí misma.}
+{508}{lyn077ab}{Ya has recibido mucho, extranjera. La Ciudadanía es una recompensa en sí misma.}
 {509}{lyn077b}{La Ciudadanía es una recompensa en sí misma.}
 {510}{}{¡Al diablo! Ya puede pasar algo de dinero de manos ahora mismo, o Ciudad Refugio va a necesitar un nuevo Primer Ciudadano.}
 {511}{}{No hay problema... sólo era curiosidad. Adiós.}
@@ -477,7 +477,7 @@
 {517}{}{Me preguntó si quería meter de contrabando algunas drogas ilegales en la ciudad.}
 {518}{}{Tan solo se ocupa de sanar a los Ciudadanos.}
 {519}{}{Nada... me he equivocado. Adiós.}
-{520}{lyn079}{¿Quién eres tú para acusar a un Ciudadano de tales crímenes? ¡Guardias! ¡Escoltad a este extranjero a la salida!}
+{520}{lyn079}{¿Quién eres tú para acusar a un Ciudadano de tales crímenes? ¡Guardias! ¡Escoltad a esta extranjera a la salida!}
 {521}{}{Tus guardias no estarán aquí a tiempo de salvar tu vida... "Primer Ciudadano".}
 {522}{}{No hace falta llamar a los guardias: me iré pacíficamente.}
 {523}{}{¡Pero es la verdad! ¡Tienes que creerme! ¡Tengo pr--!}
@@ -493,7 +493,7 @@
 {531}{}{Genial. Toda la situación me había preocupado. Adiós.}
 {532}{}{Gracias, Primer Ciudadano. Sólo quiero ver actuar a la justicia.}
 {533}{lyn082a}{Infórmame de inmediato si descubres algo más.}
-{534}{lyn082b}{Ciudad Refugio prevalece, Ciudadano.}
+{534}{lyn082b}{Ciudad Refugio prevalece, Ciudadana.}
 {535}{}{Tenía algunas preguntas más...}
 {536}{}{Por supuesto. Adiós.}
 {537}{}{Lo haré. Adiós, Primer Ciudadano.}
@@ -504,7 +504,7 @@
 {541}{}{Oh. Eh... me he equivocado. Quise decir que el doctor Troy está involucrado en actividades ALEGALES, no ilegales.}
 {542}{}{Hmmmm. Iré a ver si puedo encontrar cualquier otra cosa.}
 {543}{lyn084a}{Mejor que vigiles lo que dices.}
-{544}{lyn084b}{Mejor que vigiles lo que dices, extranjero.}
+{544}{lyn084b}{Mejor que vigiles lo que dices, extranjera.}
 {545}{lyn084c}{Si me entero de que le estás creando problemas al doctor Troy, o a cualquier otro Ciudadano, nunca volverás a caminar
  por las calles de Ciudad Refugio. ¿Está claro?}
 {546}{}{Eh... desde luego. Lo siento. Tenía algunas otras preguntas...}
@@ -594,11 +594,11 @@
 {618}{}{Hmmmm. No lo había considerado de esa forma antes. Tengo que pensar sobre ello.}
 {619}{lyn098}{Tu hipocresía es bastante evidente. Tienes la marca del Gremio de Esclavistas, y aún así discrepas con la esclavitud.}
 {620}{}{No discrepo con la esclavitud, sólo digo que ellos hacen aquí todo el trabajo duro de verdad.}
-{621}{}{Verás, conseguí la marca sólo para obtener cierta información... no soy un esclavista.}
+{621}{}{Verás, conseguí la marca sólo para obtener cierta información... no soy una esclavista.}
 {622}{}{Era joven... necesitaba el dinero...}
 {623}{}{No voy seguir discutiendo contigo. Adiós.}
 {624}{lyn099}{¿Qué quieres decir?}
-{625}{}{Moore está, en realidad, trabajando para la República de Nueva California.}
+{625}{}{Moore está trabajando, en realidad, para la República de Nueva California.}
 {626}{}{No importa. Tenía algunas preguntas más...}
 {627}{}{Nada.  Tengo que irme. Adiós.}
 {628}{}{Nada. Me he equivocado. Que te vaya bien, Primer Ciudadano.}
@@ -728,7 +728,7 @@
 {737}{}{Gracias, Primer Ciudadano.}
 {738}{lyn125}{¿Lo has entregado?}
 {739}{}{No. Me estaba preguntando, ¿y esa recompensa que mencionaste?}
-{740}{}{No, estoy demasiado ocupado como para entregar el disco.}
+{740}{}{No, estoy demasiado ocupada como para entregar el disco.}
 {741}{}{No, aún no. Pero tenía algunas preguntas...}
 {742}{}{Le entregado el disco al Consejero Westin.}
 {743}{}{Aún no. Volveré cuando lo haya hecho.}
@@ -782,7 +782,7 @@
  República. Cuando rechazaste la oferta inicial, contrató a los mercenarios para que os atacaran y que tuvierais que
  pedir ayuda a la RNC.}
 {785}{lyn099}{¿Qué quieres decir?}
-{786}{}{Moore está, en realidad, trabajando para la República de Nueva California.}
+{786}{}{Moore está trabajando, en realidad, para la República de Nueva California.}
 {787}{lyn138}{¿Un espía de la RNC? Eso... eso... explicaría muchas cosas. Gracias por descubrir
  esto, Ciudadano. Me ocuparé de ESE problema de inmediato.}
 {788}{}{Sobre el problema con la RNC... ¿hay algo que yo pudiera hacer para ayudar?}
@@ -817,7 +817,7 @@
 {817}{}{Estas son buenas noticias.}
 {818}{}{Muy bien.}
 {819}{}{Buenos días.}
-{820}{}{Que te vaya bien, Ciudadano.}
+{820}{}{Que te vaya bien, Ciudadana.}
 {821}{}{Lo cogeré.}
 {822}{}{Dámelo.}
 {823}{}{No sé nada de eso.}
@@ -832,7 +832,7 @@
 {832}{}{Hmpphhh.}
 {833}{}{¿Quieres explicarme de nuevo por qué Fallout 2 no tiene ningún modelo de héroe que sea negro?}
 {834}{}{Ciudad Refugio prevalece. }
-{835}{}{Ciudad Refugio prevalece, Ciudadano.}
+{835}{}{Ciudad Refugio prevalece, Ciudadana.}
 {836}{}{¡Oh, muchacho! ¡A dormir! ¡Ahí es donde soy un vikingo!}
 {837}{}{¡Degenerado!}
 {838}{}{Extranjero}
@@ -870,7 +870,7 @@
 {862}{}{No importa. Quizá pueda encontrar a alguien que pueda ayudarme.}
 {863}{}{Muy bien. Lamento molestarte, Primer Ciudadano.}
 {864}{lyn017b}{¡¿Te cuelas en mis aposentos y después tienes la audacia de venirme con exigencias a MÍ, Lynette, Primer Ciudadano de Ciudad Refugio?!}
-{865}{lyn041c}{Ahora déjame ya, o tendré que llamar a los guardias.}
+{865}{lyn041c}{Ahora, vete de una vez, o llamaré a los guardias.}
 {866}{}{Precisamente. Necesitas una dolorosa lección.}
 {867}{}{No importa. Quizá pueda encontrar a alguien que pueda ayudarme.}
 {868}{}{Lamento molestarte, Primer Ciudadano.}

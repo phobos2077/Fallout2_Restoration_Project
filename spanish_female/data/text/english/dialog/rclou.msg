@@ -111,9 +111,9 @@
 {197}{}{Quieres dormir un poco, ¿eh? Bien, eso te costará 40 dólares. Incluye sábanas recién cambiadas y en su mayor
  parte limpias. ¿Te sigue interesando?}
 {198}{}{Me la quedaré, Lou.}
-{199}{}{Hmm, supongo que no estoy tan cansado. Deja que te pregunte por otro tema. }
+{199}{}{Hmm, supongo que no estoy tan cansada. Deja que te pregunte por otro tema. }
 {200}{}{Ahora mismo no tengo bastante dinero. Pero deja que te pregunte otra cosa.}
-{201}{}{Eres uno de los habituales de Fannie, ¿verdad? ¿Por qué no hablas con ella? Está por alguna parte.}
+{201}{}{Eres una de los habituales de Fannie, ¿verdad? ¿Por qué no hablas con ella? Está por alguna parte.}
 {202}{}{Oyeme. Aquí se te considera un gafe. Después de lo que le sucedió a Fannie Mae, ninguna de mis otras chicas tiene mucho
  interés en estar contigo... y no puedo culparlas por ello.}
 {203}{}{Buscando a alguien para que te ayude a calentar esa cama tan grande y solitaria, ¿eh? Veamos lo que tengo
@@ -129,7 +129,7 @@
  hablar con Fannie Mae. Está por aquí, no muy lejos. Puedes arreglarlo con ella directamente.}
 {209}{}{Parece una buena idea. Iré a hacer eso. Adiós.}
 {210}{}{Pero yo no… está bien. Adiós.}
-{211}{}{No me puedo creer que fueras tan estúpido como para darle a Fannie dinero suficiente para que sufriese una sobredosis. No eres más que un idiota, ¿sabías?}
+{211}{}{No me puedo creer que fueras tan estúpida como para darle a Fannie dinero suficiente para que sufriese una sobredosis. No eres más que una idiota, ¿sabías?}
 {212}{}{No lo sé. Honestamente. Venga, Lou… necesito preguntarte sobre algo.}
 {213}{}{Lo que ella hacía con su vida era de su propia incumbencia. Adiós.}
 {214}{}{Le ofrecí la única liberación de esta existencia de mierda que ella podía tomar. Tú no eres

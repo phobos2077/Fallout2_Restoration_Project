@@ -13,7 +13,7 @@
 {232}{}{¡Atrás!}
 {233}{}{Deja la puerta tranquila.}
 {234}{}{¿Qué crees que estás haciendo?}
-{240}{}{¡Ladrón!}
+{240}{}{¡Ladrona!}
 {250}{}{Aquí no toleramos eso.}
 {300}{}{Nena, ¿tienes algo que hacer después del trabajo?}
 {301}{}{Estás preciosa, como siempre.}

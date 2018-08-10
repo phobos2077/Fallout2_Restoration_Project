@@ -7,21 +7,21 @@
 {106}{}{Muestra respeto por tus superiores.}
 {107}{}{¿Quieres a tu madre?}
 {108}{}{Lárgate.}
-{109}{}{No hay habitaciones aquí para los tipos como tú.}
+{109}{}{No hay habitaciones aquí para la gentuza como tú.}
 {110}{}{Sabemos cómo sois los de tu clase.}
-{111}{}{¿Qué haces ahí parado?}
+{111}{}{¿Qué haces ahí parada?}
 {112}{}{Muévete, antes de que pierda la paciencia.}
 {113}{}{Algún día, te atraparé cuando menos te lo esperes.}
 {114}{}{No puedes matarme. Ya lo han intentado.}
 {115}{}{Me largaré. Ya verás.}
 {116}{}{Esta puta tenía que volver en sí.}
 {117}{}{Lo de esa furcia no es nada comparado con lo que te voy a hacer a ti.}
-{118}{}{Tengo reservado un clavo de ataúd para ti, chaval.}
+{118}{}{Tengo reservado un clavo de ataúd para ti, chavalita.}
 {119}{}{Soy sangriento, jodidamente invencible, eso soy. Este lugar ya no me retiene.}
 {120}{}{Hiciste lo más oportuno.}
 {121}{}{La madre de Obidiah le ama.}
 {122}{}{Me encargaré de Lou después.}
-{123}{}{Eres más astuto de lo que pareces.}
+{123}{}{Eres más astuta de lo que pareces.}
 {124}{}{Malditas zorras; son todas iguales. ¿Dónde está mi navaja de afeitar?}
 {125}{}{He oído que alguien podría querer hablar con el viejo Hakeswill. Algún voluntario para llevar
  a Obidiah a la justicia. ¿Eres tú?}
@@ -35,7 +35,7 @@
 {133}{}{Cometiste un error, jodido loco. Te encarcelaré hasta que seas juzgado y colgado.}
 {134}{}{¿Encarcelarme? Me iré pacíficamente. No tiene sentido tener más problemas. La puta tuvo
  lo que se merecía. No puedes matarme. Soy invencible, pero seguro que puedes cabrear a los otros mineros. ¿Acaso tienes ojos en la nuca?}
-{135}{}{Puedo cuidar de mí mismo. Ahora mismo soy el sheriff de este lugar, y te voy a llevar conmigo.}
+{135}{}{Puedo cuidar de mí misma. Ahora mismo soy la sheriff de este lugar, y te voy a llevar conmigo.}
 {136}{}{Pensándolo bien, tengo una idea mejor. ¿Por qué no ahorro a las buenas personas de Redding algo de tiempo
  y algunos problemas simplemente matándote aquí y ahora?}
 {137}{}{No estoy seguro de querer molestar a todos los mineros de la Morningstar. Por ahora te permitiré irte

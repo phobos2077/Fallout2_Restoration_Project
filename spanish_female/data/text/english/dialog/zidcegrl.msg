@@ -45,7 +45,7 @@
 {239}{}{Parece que ésta ya está apostando con su vida.}
 {240}{}{Eh, creo que acaba de entrar en el casino equivocado…}
 {241}{}{Si no sale antes de que los muchachos la vean…}
-{250}{}{Oye, musculitos. ¿Quieres gastar algunas de tus fichas?}
+{250}{}{Oye, fortachona. ¿Quieres gastar algunas fichas?}
 {251}{}{Oye, campeón… [guiño]… ¿te gustaría jugar?}
 {252}{}{Oye, campeón… [sonríe]… ¿te apetece probar?}
 {253}{}{Si estás buscando un poco de compañía para más tarde…}
@@ -59,7 +59,7 @@
 {261}{}{Hola, }
 {262}{}{Seguro que quieres jugar, }
 {263}{}{Bienvenido al casino, }
-{270}{}{Oye, estrella. ¿Quieres gastar algunas de tus fichas?}
+{270}{}{Hola, estrella. ¿Quieres gastar algunas fichas?}
 {271}{}{Oye, }
 {272}{}{Oye, }
 {273}{}{Si buscas ganar algo de pasta, }

@@ -7,7 +7,7 @@
 {106}{}{Sol, aire fresco, y marisco. ¿Qué más puede uno querer además de un baño?}
 {107}{}{Estoy harto de pescado.}
 {108}{}{Me duele la espalda.}
-{109}{}{Oh, mira... otro turista.}
+{109}{}{Oh, mira... otra turista.}
 {112}{}{Cuidado con los monstruos del petrolero. Oh, espera... supongo que ya los has visto.}
 {113}{}{Entonces, ¿todo va bien con el petrolero?}
 {114}{}{Ese petrolero es un lugar peligroso. Eso es lo que dicen los vagabundos.}
@@ -18,12 +18,12 @@
 {119}{}{Sol, aire fresco, y marisco. ¿Qué más puede uno querer además de un baño?}
 {120}{}{Estoy harto de pescado.}
 {121}{}{Me duele la espalda.}
-{122}{}{Oh, mira... otro turista.}
+{122}{}{Oh, mira... otra turista.}
 {125}{}{}
 {126}{}{}
 {127}{}{}
 {128}{}{}
 {150}{}{Hora de morir, turista.}
 {151}{}{¿Crees que puedes manejarte en una pelea portuaria?}
-{152}{}{No creo que vayas a ser demasiado duro.}
+{152}{}{No creo que vayas a ser demasiado dura.}
 {153}{}{¡Veamos a ver si te gusta la violencia de un estibador Shi!}

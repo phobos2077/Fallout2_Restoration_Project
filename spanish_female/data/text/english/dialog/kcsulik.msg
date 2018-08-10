@@ -2,7 +2,7 @@
 {101}{}{Ves a Sulik.}
 {102}{}{Ves a un tribal alto y musculoso. Lleva un hueso en la nariz, tatuajes en la cara, y tiene un porte confiado y sereno.}
 {103}{}{.}
-{104}{slk1}{Eh, migo. Nuestro nombre es Sulik. ¿Qué es lo que quieres?}
+{104}{slk1}{Eh, miga. Nuestro nombre es Sulik. ¿Qué es lo que quieres?}
 {105}{}{¿Eh?}
 {107}{slk2a}{Oh, no. Tú no hablar con nosotros. Uno de los tuyos raptó nuestra hermana. Mal karma... para ti.}
 {108}{slk2b}{Oh, no. Nosotros y yo no hablamos a esclavista.}
@@ -27,7 +27,7 @@
 {127}{}{Quizás, Sulik. Déjame hacerte una pregunta.}
 {128}{}{350 dólares es un montón de dinero. Vas a tener que quedarte aquí una temporada. Adiós.}
 {129}{}{Un maestro probablemente te impediría meterte en problemas. No creo que vayas a ir al sur por ahora. Adiós.}
-{140}{slk6a}{Los espíritus están conmigo, ¡migo! Ellos rodearme. A veces hablar.}
+{140}{slk6a}{Los espíritus están conmigo, ¡miga! Ellos rodearme. A veces hablar.}
 {141}{}{Como los murciélagos en el campanario, ¿eh?}
 {142}{}{¿Qué espíritus?}
 {143}{}{Vale... ¿Puedo hacerte otra pregunta?}
@@ -61,18 +61,18 @@
 {236}{}{Es sólo que no quería verte atrapado aquí más tiempo. Adiós.}
 {237}{}{Háblame de ti.}
 {240}{slk9a}{Nosotros y yo así lo haremos.}
-{241}{slk9b}{Nosotros y yo somos el espíritu de la ira, migo.}
-{243}{slk10a}{Acertaste, migo.}
+{241}{slk9b}{Nosotros y yo somos el espíritu de la ira, miga.}
+{243}{slk10a}{Acertaste, miga.}
 {244}{slk10b}{Nosotros y yo listos para luchar.}
-{246}{slk11a}{Nosotros somos como una tortuga, migo.}
+{246}{slk11a}{Nosotros somos como una tortuga, miga.}
 {247}{slk11b}{Nosotros y yo podemos.}
-{250}{slk12a}{Este es un mal viaje, migo.}
+{250}{slk12a}{Este es un mal viaje, miga.}
 {251}{slk12b}{Nosotros nos hemos sentido mejor.}
 {253}{slk13a}{Estamos tan mal, que todos sentimos dolor.}
 {254}{slk13b}{Espíritus piensan que nosotros y yo unirse a ellos muy pronto.}
 {257}{slk14a}{Los espíritus del veneno entrar en mí.}
 {258}{slk14b}{Los espíritus del veneno se mueven en mí, echando a los buenos espíritus.}
-{260}{slk15a}{Malvado espíritu nos posee, migo. ¡Mechones de pelo caerse!}
+{260}{slk15a}{Malvado espíritu nos posee, miga. ¡Mechones de pelo caerse!}
 {261}{slk15b}{¡Nosotros y yo resplandecemos! Muy mal espíritu este.}
 {263}{slk16a}{Este buen sitio. Por una vez, nadie intenta matarnos.}
 {264}{slk16b}{Abuelo Hueso dice que este ser buen sitio.}
@@ -178,12 +178,12 @@
 {717}{slk32c}{Nosotros y mi nariz te lo agradecemos.}
 {718}{slk33a}{Hora de un poco de hierba superior. Más para nosotros.}
 {719}{slk33b}{Parece un buen plan. Las cosas malas que te ocurren no son asunto de nadie.}
-{720}{slk33c}{Buena suerte, migo. Nosotros pensamos que la necesitarás.}
+{720}{slk33c}{Buena suerte, miga. Nosotros pensamos que la necesitarás.}
 {721}{slk34a}{Estaremos aquí.}
 {722}{slk34b}{Vamos a echar pequeña siesta, hablar con Abuelo Hueso. No iremos a ninguna parte.}
 {723}{slk34c}{Este parece ser un buen sitio para sentarnos un rato.}
-{724}{slk35a}{Eh, migo, tan sólo dinos que nos apartemos de tu camino.}
-{725}{slk35b}{Lo siento, migo.}
+{724}{slk35a}{Eh, miga, tan sólo dinos que nos apartemos de tu camino.}
+{725}{slk35b}{Lo siento, miga.}
 {726}{slk35c}{Nos movemos por ti, sin problemas.}
 {727}{slk36a}{Lo haremos.}
 {728}{slk36b}{Abuelo Hueso nos dice lo mismo.}
@@ -191,21 +191,21 @@
 {730}{slk37a}{Los espíritus ayudan, también. Eso y la armadura es casi suficiente a tu lado.}
 {731}{slk37b}{Buena idea. Tú atraes a la gente furiosa como a moscas el estiércol.}
 {732}{slk37c}{A tu lado, vamos a necesitar todas las que podamos conseguir.}
-{733}{slk37d}{Pesa demasiado, migo. Nos gusta poder bailar lejos de las cosas malas.}
+{733}{slk37d}{Pesa demasiado, miga. Nos gusta poder bailar lejos de las cosas malas.}
 {734}{slk38a}{Si lo quieres, es tuyo.}
 {735}{slk38b}{Hagámoslo.}
-{736}{slk38c}{Comerciar no es problema, migo. Pero sólo tenemos un Abuelo Hueso. Lo sentimos.}
-{737}{slk39a}{Eso ser una buena cosa, migo.}
+{736}{slk38c}{Comerciar no es problema, miga. Pero sólo tenemos un Abuelo Hueso. Lo sentimos.}
+{737}{slk39a}{Eso ser una buena cosa, miga.}
 {738}{slk39b}{Lo haremos.}
 {739}{slk39c}{No queremos quejarnos como una niña por esto, pero...}
-{740}{slk39d}{Sin problemas, migo. Somos fuertes.}
+{740}{slk39d}{Sin problemas, miga. Somos fuertes.}
 {741}{slk39e}{Espíritus nos protegen. Estamos bien.}
 {742}{slk40a}{Nosotros y yo echar un vistazo.}
 {743}{slk40b}{Abuelo Hueso dice que debemos tener cuidado.}
 {744}{slk40c}{Sin problemas. Nos aseguramos de que es seguro para nuestros migos.}
 {745}{slk41a}{De ahora en adelante tu dar dos por uno en tratos... Sólo bromeamos. Abuelo Hueso dice que tienes un aspecto cómico... como ese.}
 {746}{slk41b}{Suena bien.}
-{747}{slk41c}{Lo nuestro es tuyo, migo.}
+{747}{slk41c}{Lo nuestro es tuyo, miga.}
 {750}{slk42}{Nosotros y yo te lo agradecemos. Intentas hacer un buen acto, pero es sólo que no tienes el dinero. ¿Quizás puedas conseguir más?}
 {751}{}{Uh.}
 {752}{}{Lo siento, debo haberlo contado mal. Adiós.}
@@ -226,7 +226,7 @@
 {768}{}{Me interesa algo de información local.}
 {769}{}{¿Querrías venir conmigo? Podríamos encontrar a tu hermana en el curso de mis viajes.}
 {770}{}{No creo que ahora mismo necesite saber nada más.}
-{771}{slk45}{El hogar de la tribu está junto al Gran Mar Salado. A dos lunas de aquí, migo.}
+{771}{slk45}{El hogar de la tribu está junto al Gran Mar Salado. A dos lunas de aquí, miga.}
 {772}{}{Déjame hacerte otra pregunta.}
 {773}{}{¿Dos lunas? Eso es un viaje muy largo. ¿Cómo has viajado tan tranquilo desde tan lejos?}
 {774}{}{Es todo lo que necesito por ahora. Adiós.}
@@ -242,7 +242,7 @@
 {784}{}{¡Uh! ¡Uh, uh!}
 {785}{}{Me dirigiré hacia el sur. Eres bienvenido si quieres viajar conmigo.}
 {786}{}{¿Estás buscando a tu hermana?}
-{787}{slk50}{Migo, con todos los espíritus andando conmigo, no tenemos miedo de viajar a ningún lado.}
+{787}{slk50}{Miga, con todos los espíritus andando conmigo, no tenemos miedo de viajar a ningún lado.}
 {790}{slk52a}{Traes malas nuevas contigo. Abuelo Hueso dice que acumularíamos mal karma por estar a tu lado.}
 {791}{slk52b}{Aquí estamos. Abuelo Hueso dice que podremos encontrar a hermana contigo.}
 {792}{}{Uh.}
@@ -286,7 +286,7 @@
 {834}{slk62e}{Las aguas quietas no corren.}
 {835}{slk62f}{Una flor abre sus pétalos al sol. Busca el que es como la flor.}
 {836}{slk62g}{Una puerta no tiene porque llevar siempre a algún sitio. Lo que no es una puerta lo hace.}
-{837}{slk62h}{Busca un reflejo de ti mismo. La senda se abrirá ante ti.}
+{837}{slk62h}{Busca un reflejo de ti misma. La senda se abrirá ante ti.}
 {838}{slk62i}{La hierba es más verde a través de la valla, pero primero tienes que encontrar esa valla.}
 {839}{slk62j}{Levantar rocas hará hallar más que gusanos.}
 {840}{slk63a}{Una puerta es sólo un camino al otro lado.}
@@ -380,7 +380,7 @@
 {951}{}{Iré a buscarle ahora mismo.}
 {952}{}{Por supuesto, le ayudaré. Pero primero necesito algo de información.}
 {953}{}{Deberíamos darle algo más de tiempo. No puede convertirse en un héroe si nos entrometemos. Me vendría bien algo de información local.}
-{954}{}{Uh, interesante historia pero no creo que pueda ayudar a Torr. Estoy bastante ocupado. Adiós.}
+{954}{}{Uh, interesante historia pero no creo que pueda ayudar a Torr. Estoy bastante ocupada. Adiós.}
 {955}{slk81a}{Encontrar a hermana. Nosotros mandarla a casa. Ella es fuerte, puede lograrlo. Nosotros querer ir contigo. Abuelo Hueso dice que tú tienes un gran camino por andar.}
 {956}{slk81b}{¿Tú dejar nosotros ir contigo ahora?}
 {957}{}{Nuh-uh.}
@@ -388,7 +388,7 @@
 {959}{}{Deberías volver a tu aldea para asegurarte de que está a salvo. Te echaré de menos, Sulik.}
 {960}{}{Vamos, Sulik.}
 {961}{slk82a}{Cuando terminar con esto, no quedará una persona mala en el mundo.}
-{962}{slk82b}{Migo, ¿alguna vez te has preguntado si hay más gente mala que balas?}
+{962}{slk82b}{Miga, ¿alguna vez te has preguntado si hay más gente mala que balas?}
 {963}{slk83a}{Te gusta ver el interior de los cuerpos, ¿no?}
 {964}{slk83b}{Abuelo Hueso dice que yo debo preocuparme si no haber nadie cerca que tú poder matar.}
 {965}{slk84a}{Nosotros y yo pensar que tu pequeña cabeza de abajo estar pensando por ti.}
@@ -405,7 +405,7 @@
 {2301}{}{Nosotros y yo movernos.}
 {2302}{}{Vale, calmarte.}
 {2303}{}{No preocuparte, nosotros y yo movernos.}
-{2304}{}{Nosotros pensar que tu necesitas tiempo para oler las flores. Abuelo Hueso dice que tú ser demasiado agresivo. Tú deber tomarte la vida con más calma.}
+{2304}{}{Nosotros pensar que tu necesitas tiempo para oler las flores. Abuelo Hueso dice que tú ser demasiado agresiva. Tú deber tomarte la vida con más calma.}
 {2305}{}{Nosotros movernos al ritmo.}
 {2306}{}{Nosotros movernos allí ahora.}
 {2307}{}{Relájate, sé feliz, nosotros movernos ya.}
@@ -459,7 +459,7 @@
 {3057}{slk89}{Bueno ver hogar, pero no mientras hermana no está. Queremos seguir en tu equipo, ¿vale?}
 {3058}{}{Sí.}
 {3059}{}{No, creo que ya va siendo hora de que la busques tú solo.}
-{3060}{slk90}{Quizás. Nosotros y yo echamos de menos a ti. Buenos espíritus contigo, migo.}
+{3060}{slk90}{Quizás. Nosotros y yo echamos de menos a ti. Buenos espíritus contigo, miga.}
 {3061}{}{Gracias, Sulik. Adiós. [Sulik te da su equipo].}
 {3062}{}{Bueno, quizás deberías seguir conmigo. Supongo que podríamos seguir buscando a tu hermana.}
 {3063}{slk91a}{¿Quieres buena compañía de nuevo?}
@@ -471,7 +471,7 @@
 {3069}{}{No, no lo tengo.}
 {3070}{}{Sulik, ¿puedes consultar a los espíritus acerca de mí?}
 {3071}{}{Sulik, por favor, guarda tu arma.}
-{3080}{}{Tu no migo de mí. Abuelo Hueso dice yo no hablo contigo.}
+{3080}{}{Tu no miga de mí. Abuelo Hueso dice yo no hablo contigo.}
 {3081}{}{No, I think it is time we part our ways. Stay here with you sister, she needs you.}
 {3082}{}{Es bueno volver a casa de nuevo.}
 {3083}{}{Cuantas jóvenes doncellas para contar nuestros viajes... y qué poco tiempo.}

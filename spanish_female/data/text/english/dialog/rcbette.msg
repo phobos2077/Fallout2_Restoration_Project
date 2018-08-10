@@ -31,7 +31,7 @@
 {129}{}{¿Quién es el que espera tener suerte ahora?}
 {130}{}{Ya está, voy a ocuparme de ti por esto.}
 {131}{}{¿Quién coño es ese que nos está mirando?}
-{132}{}{Alguien nuevo. ¡Eh, ésta es una cuestión privada! ¡Vamos a por él!}
+{132}{}{Alguien nuevo. ¡Eh, ésta es una cuestión privada! ¡Vamos a por ella!}
 {133}{}{Por una vez estoy de acuerdo. ¡Vamos!}
 {134}{}{Quién va a sacar el oro ahora, ¿eh, capullo?}
 {135}{}{Me vendrían bien unas jodidas vacaciones.}
@@ -53,7 +53,7 @@
 {150}{}{Mira a esos penosos pichaflojas. ¿Quién no querría machacarlos?}
 {151}{}{Eso no basta. No puedo permitiros pelear.}
 {152}{}{Bueno, parece un problema, de acuerdo. No te culpo. Buena suerte.}
-{153}{}{¿Y qué coño piensas hacer, maldito imbécil?}
+{153}{}{¿Y qué coño piensas hacer, maldita imbécil?}
 {154}{}{Mataré al primero que levante un puño.}
 {155}{}{Os lo voy a pedir muy amablemente. Después, cargaré mis armas y esperaré una oportunidad
  de practicar puntería.}
@@ -66,7 +66,7 @@
  actitud.}
 {160}{}{No te tiene que gustar. Vas a venir conmigo a la cárcel o voy a arrastrar tu
  cadáver hasta allí. Tú eliges.}
-{161}{}{Oh, lo siento. No quise ser grosero. Ya me voy. Adiós.}
+{161}{}{Oh, lo siento. No quise ser grosera. Ya me voy. Adiós.}
 {162}{}{¿Sí? Bien, te diré algo. Iré si encarcelas a ese comemierda de Caminetto también.}
 {163}{}{No estás en posición de hacer tratos.}
 {164}{}{No es mala idea. Poniendo algunos barrotes entre vosotros puede que las cosas se enfríen un poco.
@@ -86,7 +86,7 @@
 {174}{}{Hmm, creo que me necesitan en otro sitio, y rápido. Adiós.}
 {175}{}{Creo que eres más inteligente de lo que pareces. Debes serlo; estás de pie. Corre a
  casa de mamaíta y dile que no había nada que tuvieras las pelotas de hacer.}
-{176}{}{Ya está. Ya has dicho bastante. Última oportunidad: Vete sin hacer ruido o te haré trizas.}
+{176}{}{Ya está. Ya has dicho bastante. Última oportunidad: vete sin hacer ruido o te haré trizas.}
 {177}{}{Quizá lo haga. No quiero hacerle daño a nadie. Adiós.}
 {178}{}{Ya veo cómo va esto, mierdecilla. Está bien, puedes encerrarme, y a Caminetto también.
  (a Caminetto) ¿Vale, pequeño engendro?}

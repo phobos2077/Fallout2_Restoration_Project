@@ -1,7 +1,7 @@
 {100}{}{Ves a un ciberperro.}
 {101}{}{Ves a K-9.}
 {102}{}{Ves a K-9, el ciberperro. Es parte máquina, parte perro.}
-{103}{}{Las funciones vitales de mi amo han terminado. ¿Eres tú mi nuevo amo?}
+{103}{}{Las funciones vitales de mi amo han terminado. ¿Eres tú mi nueva ama?}
 {104}{}{Uh... ¿perrito habla?}
 {105}{}{Sí. Me gustaaa perrito.}
 {106}{}{No. No quiero perrito.}
@@ -11,12 +11,12 @@
 {110}{}{Siento, yo olvido pregunta.}
 {111}{}{Sí.}
 {112}{}{No.}
-{113}{}{(suspira) Presta atención. Concéntrate. Mírame a los ojos. Ahora, ¿estás preparado?}
-{114}{}{¿Preparado qué?}
-{115}{}{Sí. Yo listo.}
+{113}{}{(suspira) Presta atención. Concéntrate. Mírame a los ojos. Ahora, ¿estás preparada?}
+{114}{}{¿Preparada qué?}
+{115}{}{Sí. Yo preparada.}
 {116}{}{Yo... Si no fuera por el hecho de que tu CI es menor que mi altura medida en pies pensaría que estás tratando de irritarme. Ahora, cállate. Presta atención. Concéntrate. Mírame a los ojos. Voy a hacerte una pregunta.}
 {117}{}{Adelante. ¿Qué te lo impide?}
-{118}{}{Las funciones vitales de mi amo han terminado. ¿Eres tú mi nuevo amo?}
+{118}{}{Las funciones vitales de mi amo han terminado. ¿Eres tú mi nueva ama?}
 {119}{}{Uh... ¿perrito habla?}
 {120}{}{Sí. Yo quiero perrito.}
 {121}{}{No, gracias.}
@@ -24,7 +24,7 @@
 {123}{}{No, gracias.}
 {124}{}{Yo... ¡Yo me niego a pasar por esto una segunda vez! Si tuviera una unidad motriz completa te mordería en la parte carnosa de tu región posterior comúnmente conocida como...}
 {125}{}{Culo. Yo sepo qué es culo. Yo no tonto. Sólo bromeo.}
-{126}{}{Oh, una broma. Ja Ja Ja. Ahora, ¿eres mi nuevo amo o no?}
+{126}{}{Oh, una broma. Ja Ja Ja. Ahora, ¿eres mi nueva ama o no?}
 {127}{}{Sí. Me gustaaa perrito.}
 {128}{}{No. No quiero perrito.}
 {129}{}{Excelente. Tengo necesidad de que me reparen. Mi unidad motriz ha sido eliminada. Encuéntrala, reemplázala y me uniré a ti.}
@@ -43,14 +43,14 @@
 {142}{}{No, gracias.}
 {143}{}{No eres mi amo. No puedo hablar contigo. Adiós.}
 {144}{}{De acuerdo.}
-{145}{}{Hola amo. ¿Has encontrado mi unidad motriz?}
+{145}{}{Hola ama. ¿Has encontrado mi unidad motriz?}
 {146}{}{No, busco más.}
 {147}{}{Sí. Encontré.}
 {148}{}{No, aún la estoy buscando.}
 {149}{}{La tengo aquí mismo.}
-{150}{}{Esperaré a tu regreso, amo.}
+{150}{}{Esperaré a tu regreso, ama.}
 {151}{}{De acuerdo.}
-{152}{}{Entonces, ¡por favor instala la pieza, amo! ¡Por favor, amo!}
+{152}{}{Entonces, ¡por favor instala la pieza, ama! ¡Por favor, ama!}
 {153}{}{Vale. Cálmate.}
 {154}{}{Parece que ahora soy completamente funcional. ¿Debo unirme a ti?}
 {155}{}{Ahí no va, amo. ¿Estás seguro de que sabes lo que estás haciendo?}
@@ -58,13 +58,13 @@
 {157}{}{¡Yo sé qué hace! Intento otra vez.}
 {158}{}{Si, vámonos.}
 {159}{}{Eh, que he arreglado cosas más complejas que tú, chucho sarnoso. Cállate y déjame intentarlo de nuevo.}
-{160}{}{Vete. No quiero un amo como tú.}
+{160}{}{Vete. No quiero una ama como tú.}
 {161}{}{Déjame en paz.}
 {162}{}{No me gustas. Vete.}
 {163}{}{Acabaré contigo.}
 {164}{}{Apuntando armas sobre objetivo. Preparado para disparar.}
 {165}{}{Serás destruido.}
-{166}{}{¿Sí, amo?}
+{166}{}{¿Sí, ama?}
 {167}{}{Cúrate tú mismo.}
 {168}{}{Espera aquí. Regreso.}
 {169}{}{Eh... bajas armas. ¿Vale?}
@@ -81,8 +81,8 @@
 {180}{}{Deberíamos separarnos un poco.}
 {181}{}{Vamos.}
 {182}{}{Esto es todo por ahora.}
-{183}{}{Todos los sistemas funcionando a capacidad total, amo.}
-{184}{}{Mis sistemas funcionan a capacidad casi total, amo.}
+{183}{}{Todos los sistemas funcionando a capacidad total, ama.}
+{184}{}{Mis sistemas funcionan a capacidad casi total, ama.}
 {185}{}{He realizado las reparaciones que he podido, amo, pero requeriré asistencia a fondo.}
 {186}{}{He realizado las reparaciones que he podido, amo, pero un fallo de sistemas es inminente sin asistencia.}
 {187}{}{Espera aquí. Regreso.}
@@ -99,7 +99,7 @@
 {198}{}{Deberíamos separarnos un poco.}
 {199}{}{Vamos.}
 {200}{}{Esto es todo por ahora.}
-{201}{}{Esperaré a tu regreso, amo.}
+{201}{}{Esperaré a tu regreso, ama.}
 {202}{}{Cúrate tú mismo.}
 {203}{}{Eh... bajas armas. ¿Vale?}
 {204}{}{Quédate cerca.}
@@ -114,7 +114,7 @@
 {213}{}{Deberíamos separarnos un poco.}
 {214}{}{Vamos.}
 {215}{}{Esto es todo por ahora.}
-{216}{}{Retirando armas, amo.}
+{216}{}{Retirando armas, ama.}
 {217}{}{Cúrate tú mismo.}
 {218}{}{Espera aquí. Regreso.}
 {219}{}{Quédate cerca.}
@@ -129,7 +129,7 @@
 {228}{}{Deberíamos separarnos un poco.}
 {229}{}{Vamos.}
 {230}{}{Esto es todo por ahora.}
-{231}{}{Disminuyendo distancia entre nosotros, amo.}
+{231}{}{Disminuyendo distancia entre nosotros, ama.}
 {232}{}{Cúrate tú mismo.}
 {233}{}{Espera aquí. Regreso.}
 {234}{}{Eh... bajas armas. ¿Vale?}
@@ -144,7 +144,7 @@
 {243}{}{Deberíamos separarnos un poco.}
 {244}{}{Vamos.}
 {245}{}{Esto es todo por ahora.}
-{246}{}{Incrementando distancia entre nosotros, amo.}
+{246}{}{Incrementando distancia entre nosotros, ama.}
 {247}{}{Cúrate tú mismo.}
 {248}{}{Espera aquí. Regreso.}
 {249}{}{Eh... bajas armas. ¿Vale?}
@@ -159,7 +159,7 @@
 {258}{}{Deberíamos separarnos un poco.}
 {259}{}{Vamos.}
 {260}{}{Esto es todo por ahora.}
-{261}{}{Incrementando distancia al máximo, amo.}
+{261}{}{Incrementando distancia al máximo, ama.}
 {262}{}{Cúrate tú mismo.}
 {263}{}{Espera aquí. Regreso.}
 {264}{}{Eh... bajas armas. ¿Vale?}
@@ -175,7 +175,7 @@
 {274}{}{Vamos.}
 {275}{}{Esto es todo por ahora.}
 {276}{}{Lo siento, amo, pero no parece haber espacio para mí en tu equipo. Esperaré aquí hasta que haya un puesto libre.}
-{277}{}{Como quieras, amo.}
+{277}{}{Como quieras, ama.}
 {278}{}{Cúrate tú mismo.}
 {279}{}{Espera aquí. Regreso.}
 {280}{}{Eh... bajas armas. ¿Vale?}
@@ -198,9 +198,9 @@
 {410}{}{Eso no hizo nada.}
 {420}{}{Eso no encaja.}
 {800}{}{Has arreglado a K-9.}
-{1000}{}{¿Sí, amo?}
-{1100}{}{Todos los sistemas funcionando a capacidad total, amo.}
-{1200}{}{Mis sistemas funcionan a capacidad casi total, amo.}
+{1000}{}{¿Sí, ama?}
+{1100}{}{Todos los sistemas funcionando a capacidad total, ama.}
+{1200}{}{Mis sistemas funcionan a capacidad casi total, ama.}
 {1300}{}{He realizado las reparaciones que he podido, amo, pero requeriré asistencia a fondo.}
 {1400}{}{He realizado las reparaciones que he podido, amo, pero un fallo de sistemas es inminente sin asistencia.}
 {1500}{}{Esperaré a tu regreso, amo.}
@@ -209,10 +209,10 @@
 {1800}{}{Me moveré a una distancia media, amo.}
 {1900}{}{Me moveré a distancia máxima, amo.}
 {2000}{}{Lo siento, amo, pero no parece haber espacio para mí en tu equipo. Esperaré aquí hasta que haya un puesto libre.}
-{2200}{}{Como quieras, amo.}
+{2200}{}{Como quieras, ama.}
 {2300}{}{Tengo pelo, amo. No puedo llevar otra armadura.}
-{2400}{}{No deseo retirar mi pelo, amo.}
-{2500}{}{Dientes, amo. Los brillantes y blancos dientes instalados en mi boca.}
+{2400}{}{No deseo retirar mi pelo, ama.}
+{2500}{}{Dientes, ama. Los brillantes y blancos dientes instalados en mi boca.}
 {2700}{}{Eres más gilipollas que Schreber. No me uniré a ti.}
 {2800}{}{Muy bien, amo. A tus órdenes.}
-{2900}{}{Eres un cretino. No iré a ninguna parte contigo. Vete.}
+{2900}{}{Eres una cretina. No iré a ninguna parte contigo. Vete.}

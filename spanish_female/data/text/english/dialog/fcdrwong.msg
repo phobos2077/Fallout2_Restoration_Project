@@ -30,7 +30,7 @@
 {129}{}{Entonces tendría que considerarlo como una amenaza y avisarte de que ese curso de acción podría resultar perjudicial para tu salud.}
 {130}{}{Hagamos la prueba.}
 {131}{}{Sólo estaba bromeando. Tengo otras preguntas.}
-{132}{}{[Sonríe] Debemos proteger nuestro honor, forastero.}
+{132}{}{[Sonríe] Debemos proteger nuestro honor, forastera.}
 {133}{}{Err, bien. ¿Así que no tendrías ninguna auténtica objeción a que entrase en la computadora?}
 {134}{}{Vaaaale. Tengo otras preguntas.}
 {135}{}{Apuesto a que sí. Adiós.}
@@ -57,7 +57,7 @@
 {156}{}{Sí, es un bazo humano.}
 {157}{}{En realidad, me opondría a eso. No has demostrado tener buen carácter. De hecho, no sé por qué estoy hablando contigo. Buenos días.}
 {158}{}{[HECHO]}
-{159}{}{¡Aaah! ¡Guardias! ¡El lao wai intruso está aquí!}
+{159}{}{¡Aaah! ¡Guardias! ¡La lao wai intrusa está aquí!}
 {160}{}{¿Tienes ciertos esquemas que darme?}
 {161}{}{Ken Lee me dijo que te entregase esto.}
 {162}{}{Sí. Ahora, ¿qué hay para mí?}

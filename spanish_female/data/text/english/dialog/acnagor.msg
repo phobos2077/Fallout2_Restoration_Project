@@ -26,7 +26,7 @@
 {125}{}{¡Has encontrado a Smoke! ¡Gracias! Smoke, ¡perro malo!}
 {126}{}{De nada. Gracias.}
 {127}{}{Gracias de nuevo. ¡Espero que tu viaje sea verdaderamente divertido!}
-{128}{}{Hecho de menos a Smoke. ¿Por qué no pudiste salvarle? Eres el Elegido.}
+{128}{}{Hecho de menos a Smoke. ¿Por qué no pudiste salvarle? Eres la Elegida.}
 {129}{}{Estoy ocupado, idiota. Ve a jugar a otro lado.}
 {130}{}{Yo marcho.}
 {131}{}{Voy a ir a por Smoke.}
@@ -42,8 +42,8 @@
 {209}{}{Hola de nuevo, prima. Seguro que te habrás dado cuenta de que aquí todo se está viniendo abajo. Por favor, encuentra el GECK. ¡Estamos desesperados!}
 {210}{}{Hola, prima.}
 {211}{}{Hola, prima.}
-{212}{}{No pareces tú mismo.}
-{213}{}{No pareces el mismo de siempre.}
+{212}{}{No pareces tú misma.}
+{213}{}{No pareces la misma de siempre.}
 {214}{}{Lo siento, primo. Las cosas han ido poniéndose cada vez peor desde que te fuiste. La gente está enferma, los brahmines están muriendo y... yo... mi perro Smoke murió. Morlis lo mató para comérnoslo. Lo siento, pero no quiero seguir hablando...}
 {215}{}{Lo siento, prima. Las cosas han ido poniéndose cada vez peor desde que te fuiste. La gente está enferma, los brahmines están muriendo y... yo... mi perro Smoke murió. Morlis lo mató para comérnoslo. Lo siento, pero no quiero seguir hablando...}
 {300}{}{Ves a Nagor.}

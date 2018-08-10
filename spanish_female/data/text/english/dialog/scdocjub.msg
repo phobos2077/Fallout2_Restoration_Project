@@ -1,16 +1,16 @@
 {100}{}{Ves a un tipo viejo y agradable.}
 {101}{}{Es el doctor Jubilee.}
 {102}{}{Es un anciano de barba blanca como la nieve y mirada ligeramente ausente.}
-{103}{}{Soy el doctor Jubilee. ¿Qué ocurre, jovencito?}
-{104}{}{¿Qué ocurre, jovencito?}
-{105}{}{Yo herido.}
+{103}{}{Soy el doctor Jubilee. ¿Qué ocurre, jovencita?}
+{104}{}{¿Qué ocurre, jovencita?}
+{105}{}{Yo herida.}
 {106}{}{Necesito un doctor.}
 {107}{}{¿Por qué no coges unas pastillas o algo y dejas de aburrirme con esa cháchara?}
 {108}{}{Demonios, tienes una gran hemorragia.}
 {109}{}{No sé. No creo que pueda salvarla. Quizás debamos amputar esa pierna.}
 {110}{}{Estás bromeando.}
 {111}{}{Ja ja.}
-{112}{}{Ahí tienes, hijo.}
+{112}{}{Ahí tienes, hija.}
 {113}{}{Otra vez.}
 {114}{}{Gracias, doctor. Quizás puedas ayudarme con algunas respuestas.}
 {115}{}{Adiós.}
@@ -32,7 +32,7 @@
 {131}{}{Ese tipo, Cecina Bob, dice que tú le robaste un mapa. ¿Cual es el problema?}
 {132}{}{Estoy buscando trabajo. ¿Sabes de alguno?}
 {133}{}{Doctor, no sabrás nada sobre un grupo que lucha contra esos malvados esclavistas, ¿verdad?}
-{134}{}{Pues no deberías preocuparte, hijo. En tanto no ponga a prueba su sistema, probablemente nos sobreviva a todos. Claro está, si alguna vez decide entre mis cuidados médicos o sus medicamentos.}
+{134}{}{Pues no deberías preocuparte, hija. En tanto no ponga a prueba su sistema, probablemente nos sobreviva a todos. Claro está, si alguna vez decide entre mis cuidados médicos o sus medicamentos.}
 {135}{}{Bien, es bueno saberlo. Hay algo más que me estaba preguntando.}
 {136}{}{Gracias, Doctor.}
 {137}{}{¡Ese viejo borracho! Lo único que conseguí de él fue mi cuadro "Elvis de Terciopelo": como fianza de pago.}
@@ -62,7 +62,7 @@
 {161}{}{Podría... Hay un grupo enfrentado al esclavismo, así como a la mayoría de los otros vicios. A veces los puedes encontrar en la tienda grande, trabajando en algún automóvil.}
 {162}{}{Otra pregunta...}
 {163}{}{Gracias.}
-{164}{}{¡Eh, quítale a eso las manos de encima, gamberro!}
+{164}{}{¡Eh, quítale a eso las manos de encima, gamberra!}
 {165}{}{¡Cuidado con eso! Solo hace falta una pequeña cantidad para exponerse.}
 {166}{}{¡Atrás! Te puedes herir gravemente con ese material.}
 {167}{}{Esas medicinas son para el señor Westin, no para ti. Devuélvelas.}

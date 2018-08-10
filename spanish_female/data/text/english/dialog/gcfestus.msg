@@ -2,9 +2,9 @@
 {101}{}{Ves a Festus, el supervisor de la central nuclear.}
 {102}{}{Ves a un necrófago que parece abatido, con aspecto particularmente rancio. Huele como una
  herida infectada.}
-{110}{}{¿Eres lo más estúpido que pudieron conseguir? Ja, ja, ja.}
-{111}{}{¿Eres tonto o qué? Ja, ja, ja. Te pareces a uno de esos de Ciudad Refugio.}
-{112}{}{Bien, eres bastante estúpido, ¿no? Deberías dirigirte a Ciudad Refugio.}
+{110}{}{¿Eres la más estúpida que pudieron conseguir? Ja, ja, ja.}
+{111}{}{¿Eres tonta o qué? Ja, ja, ja. Te pareces a uno de esos de Ciudad Refugio.}
+{112}{}{Bien, eres bastante estúpida, ¿no? Deberías dirigirte a Ciudad Refugio.}
 {113}{}{Tengo muchas cosas importantes que hacer. ¿Por qué no vuelves a Ciudad Refugio, que es a donde perteneces?}
 {114}{}{Ja, ja, ja. Menuda mirada de estúpido la tuya.}
 {120}{}{Muy buenas. Soy Festus. Dirijo todo el reactor. Sin mí, la ciudad al completo estaría perdida. Soy un tipo muy ocupado. Me hacen trabajar demasiado por aquí.}
@@ -30,9 +30,9 @@
 {162}{}{Ah, sí. Bueno, será mejor que me vaya. Adiós.}
 {170}{}{Verás, desde luego yo dirijo todo este lugar. Es bastante difícil. Pero tengo muchos años de experiencia. Soy todo un profesional cuando se trata de dirigir centrales nucleares.}
 {171}{}{Debes de ser muy bueno en tu trabajo.}
-{172}{}{Estoy seguro de que lo eres. Eh, será mejor que me marche ya. Adiós.}
+{172}{}{Estoy segura de que lo eres. Eh, será mejor que me marche ya. Adiós.}
 {180}{}{Casi todo el mundo cree que es sencillo. Se piensan que cualquiera puede manejar un reactor atómico. Pero no es algo para gente inexperta o débiles de corazón. ¡Yo controlo el poder el átomo aquí!}
-{181}{}{Estoy impresionado.}
+{181}{}{Estoy impresionada.}
 {182}{}{Vale, dejémoslo aquí. Adiós.}
 {190}{}{Estaría bien tener algo de ayuda. Pero, verás, nadie más está cualificado para hacer lo que yo. Ni siquiera entienden los conceptos básicos de lo que hago.}
 {191}{}{¿Cómo podría nadie pretender seguirte el ritmo? Estás por encima de todo el mundo.}
@@ -53,7 +53,7 @@
 {241}{}{Bien, tengo una pieza que puedes usar para reparar el reactor.}
 {242}{}{Eh, sólo estaba mirando. Adiós.}
 {250}{}{Verás, en realidad no estoy seguro de que esa sea la pieza correcta. Quizá deberías llevarla de vuelta a Ciudad Refugio para comprobarlo. No creo que pueda ayudarte con esto, después de todo.}
-{251}{}{Estoy seguro de que es la pieza adecuada. Tengo mucha confianza en tu capacidad.}
+{251}{}{Estoy segura de que es la pieza adecuada. Tengo mucha confianza en tu capacidad.}
 {252}{}{Supongo que tienes razón. Será mejor que encuentre otra forma de instalar la pieza.}
 {260}{}{No creo que a esa gente de Ciudad Refugio les gustemos demasiado. No instalaría esto pensando que pudiera ser una trampa. ¡Quizás parece la pieza adecuada, y realmente es una bomba! No puedes engañarme tan fácilmente. No voy a instalar esa cosa.}
 {261}{}{Con tu pericia técnica, si fuera una bomba, ya lo habrías notado. Por favor, limítate
@@ -72,7 +72,7 @@
 {321}{}{Pareces estar seguro. Pero ellos también lo estaban.}
 {330}{}{Bueno, son un montón de novatos cuando hablamos de energía nuclear. Aquí el verdadero experto soy yo. Puedo asegurarte que lo que yo digo va a misa. Aunque ya no haya misas.}
 {331}{}{En fin, supongo que sabes de lo que estás hablando. Adiós.}
-{332}{}{No estoy tan seguro como tú. Adiós.}
+{332}{}{No estoy tan segura como tú. Adiós.}
 {340}{}{¿Te sobra un regulador hidroeléctrico magnetosférico?}
 {341}{}{¿Y ya sabes lo que es?}
 {342}{}{Desde luego. ¿Listo para instalarlo?}
@@ -171,7 +171,7 @@
 {816}{}{Bueno, será mejor marcharse. Adiós, Festus. Volveré con los datos que necesitas lo
  antes posible.}
 {817}{}{No haraganees por aquí. Consigue esos datos.}
-{818}{}{No te quedes ahí parado. El reactor no va a funcionar para siempre.}
+{818}{}{No te quedes ahí parada. El reactor no va a funcionar para siempre.}
 {819}{}{Muévete y consigue esos datos de optimización, como dijiste que harías.}
 {820}{}{Tendremos tiempo de sobra para charlar *después* de optimizar el reactor.}
 {821}{}{Ve a Ciudad Refugio y negocia con McClure lo del disco para los datos del reactor que necesitamos.

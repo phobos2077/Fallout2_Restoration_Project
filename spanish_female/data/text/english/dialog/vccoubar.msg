@@ -2,13 +2,13 @@
 {101}{}{Ves a un hombre alto con un elegante traje. Tiene la mirada perdida y no le presta atención a los clientes cercanos a él.}
 {102}{}{Ves a un camarero.}
 {103}{}{El rostro de este hombre carece de emociones. Si ha reparado en ti, no lo demuestra.}
-{104}{}{¿Te apetece una copa, héroe?}
-{105}{}{Bienvenido, héroe. Por favor, toma asiento en el bar.}
+{104}{}{¿Te apetece una copa, heroína?}
+{105}{}{Bienvenido, heroína. Por favor, toma asiento en el bar.}
 {106}{}{¡Por favor! ¡Siéntate, descansa un poco!}
 {107}{}{Que le vaya bien, capitán.}
 {108}{}{Ciudad Refugio prevalece, capitán.}
-{109}{}{Que te vaya bien, Ciudadano.}
-{110}{}{Ciudad Refugio prevalece, Ciudadano.}
+{109}{}{Que te vaya bien, Ciudadana.}
+{110}{}{Ciudad Refugio prevalece, Ciudadana.}
 {111}{}{¡Un mutante! ¡Guardias! ¡Guardias!}
 {112}{}{¡Un necrófago! ¡Guardias! ¡Guardias!}
 {113}{}{Lo siento, pero el bar cierra por la noche.}
@@ -24,7 +24,7 @@
 {123}{}{Oonnt-oooont!}
 {124}{}{Dejas de balbucear}
 {125}{}{¿Qué puedo hacer por usted, capitán?}
-{126}{}{¿Qué puedo hacer por ti, Ciudadano?}
+{126}{}{¿Qué puedo hacer por ti, Ciudadana?}
 {127}{}{¿Sí? ¿Puedo ayudarte?}
 {128}{}{Awnt-awnt}
 {129}{}{Dejas de balbucear}
@@ -64,8 +64,8 @@
 {163}{}{¿Qué tipos de alcohol sintetizado tienes?}
 {164}{}{No importa. Buscaba algo de información.}
 {165}{}{Hoy nada, gracias.}
-{166}{}{¿Está bien, caballero? Beber todo ese "alcohol-Z" parece que le ha producido algún tipo de efecto. ¿Está seguro de que quiere más?}
-{167}{}{¿Está bien, caballero? Beber todo ese "alcohol-Z" parece que le ha producido algún tipo de efecto. ¿Está seguro de que quiere más?}
+{166}{}{¿Está bien, señorita? Beber todo ese "alcohol-Z" parece que le ha producido algún tipo de efecto. ¿Está seguro de que quiere más?}
+{167}{}{¿Está bien, señorita? Beber todo ese "alcohol-Z" parece que le ha producido algún tipo de efecto. ¿Está seguro de que quiere más?}
 {168}{}{¿Te apetece algo más?}
 {169}{}{No me siento muy bien... voy a salir del diálogo un segundo para comprobar mis puntos de salud máximos.}
 {170}{}{¡No, no, me siento genial! voy a salir del diálogo un segundo para comprobar mis puntos de salud máximos.}
@@ -111,7 +111,7 @@
 {210}{}{Por supuesto. ¿Qué necesitaba saber, caballero?}
 {211}{}{Por supuesto. ¿Qué necesitaba saber, señora?}
 {212}{}{Por supuesto. ¿Qué necesitaba saber, capitán?}
-{213}{}{Por supuesto. ¿Qué necesitaba saber, Ciudadano?}
+{213}{}{Por supuesto. ¿Qué necesitaba saber, Ciudadana?}
 {214}{}{¿Puedes decirme quién es el líder de Ciudad Refugio?}
 {215}{}{¿Puedes contarme algo acerca de la esclavitud aquí, en Ciudad Refugio?}
 {216}{}{No importa. Quería una copa. ¿Qué tienes para trasegar?}

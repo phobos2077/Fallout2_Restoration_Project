@@ -29,7 +29,7 @@
 {300}{}{No te acerques a esos tipos blindados. Te harán pedazos.}
 {301}{}{Vuelve a la posición.}
 {302}{}{Deja de moverte nerviosamente... a esos tipos blindados no les va a gustar.}
-{350}{}{¡Maldición! ¡¿Qué estás haciendo, tonto del culo?!}
+{350}{}{¡Maldición! ¡¿Qué estás haciendo, tonta del culo?!}
 {351}{}{¡Regresa a tu posición! ¿Qué demonios estás hac--?!}
 {352}{}{*Zztttt* Misión abortada. Secuencia de carga comprometida. *Zzzttt*}
 {353}{}{*Zztttt* Acabad con los enemigos, y después regresad a la base. *Zzzttt*}

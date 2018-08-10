@@ -6,12 +6,12 @@
 {105}{}{Piérdete.}
 {106}{}{Lárgate. No tengo nada que decirte.}
 {107}{}{Oh, uh, hey, capitán. Que le vaya bien, ¿eh?}
-{108}{}{Vaya, ¿pues no es el nuevo Ciudadano?}
-{109}{}{Hola, "Ciudadano".}
+{108}{}{Vaya, ¿pues no es la nueva Ciudadana?}
+{109}{}{Hola, "Ciudadana".}
 {110}{}{No puedes meter aquí a ese mutante.}
 {111}{}{No puedes meter aquí a ese necrófago.}
 {112}{}{Cerramos durante la noche. Vuelve por la mañana.}
-{113}{}{Mira, forastero, si tienes negocios comerciales, Wallace está al fondo, ¿vale? Él te entregará todos los formularios que necesitas.}
+{113}{}{Mira, forastera, si tienes negocios comerciales, Wallace está al fondo, ¿vale? Él te entregará todos los formularios que necesitas.}
 {114}{}{¿Necesito formas?}
 {115}{}{Dejas de balbucear}
 {116}{}{Eh... ¿qué es este lugar?}
@@ -27,7 +27,7 @@
 {126}{}{Bueno, podrías ir a ver a mi jefe, Wallace, e INTENTAR conseguir un permiso para entrar, pero perderías el tiempo. Nunca permite la entrada a nadie. Por supuesto, hay otras formas...}
 {127}{}{¿Qué otras formas?}
 {128}{}{Gracias. Entonces iré a ver a Wallace.}
-{129}{}{¿Un consejo? Bien, los consejos son caros, forastero. ¿Tienes dinero?}
+{129}{}{¿Un consejo? Bien, los consejos son caros, forastera. ¿Tienes dinero?}
 {130}{}{Le das 50 dólares.}
 {131}{}{Le das 75 dólares.}
 {132}{}{Le das 100 dólares.}
@@ -44,16 +44,16 @@
 {143}{}{Gregory, el procónsul, le entrega una "prueba" a cualquier forastero que quiere convertirse en Ciudadano. Mide su inteligencia y
  percepción, y tienes que ser afortunado de cojones para pasarla. La mayoría de Ciudadanos tiene problemas con ella.}
 {144}{}{¿Qué la hace tan difícil?}
-{145}{}{¿Qué otra cosa podría hacer para saltarme la aduana además de convertirme en Ciudadano?}
+{145}{}{¿Qué otra cosa podría hacer para saltarme la aduana además de convertirme en Ciudadana?}
 {146}{}{No importa. Quizá hablemos en algún otro momento.}
 {147}{}{La mayoría de forasteros no saben leer, hacer cálculos trigonométricos, o deletrear "Australopithecus", como te imaginarás. No es más que una excusa para evitar que los forasteros se conviertan en Ciudadanos.}
-{148}{}{¿Qué otra cosa podría hacer para saltarme la aduana además de convertirme en Ciudadano?}
+{148}{}{¿Qué otra cosa podría hacer para saltarme la aduana además de convertirme en Ciudadana?}
 {149}{}{No importa. Quizá hablemos en algún otro momento.}
 {150}{}{Oculta tus cosas en tus esclavos... tus "siervos". Verás, la mentalidad de Ciudad Refugio es esta:
 No parecen concebir que alguien deje que los siervos lleven encima nada importante... o cuestionable. Vete tú a saber por qué.}
 {151}{}{¿Alguna otra opción?}
 {152}{}{De acuerdo, entonces. Gracias.}
-{153}{}{Bien, PUEDES convertirte en Ciudadano... extraoficialmente.}
+{153}{}{Bien, PUEDES convertirte en Ciudadana... extraoficialmente.}
 {154}{}{¿De qué estás hablando?}
 {155}{}{No importa. Quizá hablemos en algún otro momento.}
 {156}{}{Si tienes el dinero, entraré en detalles. De lo contrario...}
@@ -68,7 +68,7 @@ No parecen concebir que alguien deje que los siervos lleven encima nada importan
 {163}{}{Bueno, doscientos es más de lo que pensaba. Sólo llevo encima 150 dólares.}
 {164}{}{No tengo esa cantidad de dinero. Tal vez en algún otro momento.}
 {165}{}{No, gracias. Tal vez en algún otro momento.}
-{166}{}{Sencillo. No te CREERÍAN. Eres un forastero, yo soy Ciudadano. ¿A quién crees que iban a creer?}
+{166}{}{Sencillo. No te CREERÍAN. Eres una forastera, yo soy Ciudadano. ¿A quién crees que iban a creer?}
 {167}{}{Me quedaré con los documentos de Ciudadanía, entonces.}
 {168}{}{Me quedaré con los documentos de Ciudadanía... pero por 150 dólares, no 200.}
 {169}{}{Bueno, 200 dólares es demasiado para mí. Puede que vuelva si consigo más dinero.}
@@ -82,18 +82,18 @@ No parecen concebir que alguien deje que los siervos lleven encima nada importan
 {175}{}{No hay problema. Nunca se me ocurriría hacerle tal cosa a un honrado Ciudadano como
  tú, especialmente cuanto tengo pruebas de tus actividades ilegales justo en mi bolsillo.}
 {176}{}{Lo tengo. No hay problema.}
-{177}{}{Pero qu-?! ¡Nadie va a creerte, forastero! ¡Será tu palabra contra la mía!}
+{177}{}{Pero qu-?! ¡Nadie va a creerte, forastera! ¡Será tu palabra contra la mía!}
 {178}{}{Normalmente, sería así. Pero estos documentos falsos hablan por sí mismos. Cosa que harán,
  a menos que pagues por su silencio.}
 {179}{}{Por supuesto que sí. Nos vemos.}
-{180}{}{Yo... pero... maldito...}
+{180}{}{Yo... pero... maldita...}
 {181}{}{Cuidado... si fuera tú vigilaría mi lengua.}
 {182}{}{Hablar no va a ayudarte, Skeev.}
 {183}{}{De acuerdo, tengo ALGO de dinero guardado. Aquí. Tómalo... trescientos pavos.
  Y ahora, ¿guardarás silencio?}
 {184}{}{Por lo que tú sabes. Nos vemos.}
 {185}{}{No hay problema. Tienes mi silencio.}
-{186}{}{Doscientos o nada, forastero. Es la única forma en que conseguirás cruzar la puerta.}
+{186}{}{Doscientos o nada, forastera. Es la única forma en que conseguirás cruzar la puerta.}
 {187}{}{Creo que lo intentaré por los canales oficiales.}
 {188}{}{No, gracias.}
 {189}{}{¡Ja! Buena suerte, forastero. La única forma en la que conseguirás sacarle al viejo Wallace un pase de día es arrancándoselo de sus fríos y cadavéricos dedos.}
@@ -109,19 +109,19 @@ No parecen concebir que alguien deje que los siervos lleven encima nada importan
 {199}{}{He decidido entregarte por vender documentos de Ciudadanía falsos.}
 {200}{}{Puesto que eres parte del sistema de aduanas, me preguntaba si tendrías algún 'consejo' sobre cómo introducir determinados artículos en la ciudad.}
 {201}{}{No importa.}
-{202}{}{Mira, tarado, sal de aquí o llamaré a los guardias.}
-{203}{}{Mira, tarado, sal de aqu-- Mmmm. Espera un momento. Quizá...}
+{202}{}{Mira, tarada, sal de aquí o llamaré a los guardias.}
+{203}{}{Mira, tarada, sal de aqu-- Mmmm. Espera un momento. Quizá...}
 {204}{}{Hurnh?}
 {205}{}{Dejas de balbucear}
-{206}{}{Ven conmigo un segundo, tarado. Hay alguien con quien tienes que reunirte.}
+{206}{}{Ven conmigo un segundo, tarada. Hay alguien con quien tienes que reunirte.}
 {207}{}{Bueeeeeno.}
 {208}{}{No-no QUEDO AQUÍ}
-{209}{}{He encontrado a este forastero vagabundeando por el Yermo, Barkus. Parece buen material para ser siervo.}
-{210}{}{He encontrado a este grupo vagabundeando por el Yermo, Barkus. Este forastero parece buen material para ser siervo.}
+{209}{}{He encontrado a esta forastera vagabundeando por el Yermo, Barkus. Parece buen material para ser siervo.}
+{210}{}{He encontrado a este grupo vagabundeando por el Yermo, Barkus. Esta forastera parece buen material para ser siervo.}
 {211}{}{2 segundos}
-{212}{}{DEBES estar de broma. Obviamente es retrasado.}
+{212}{}{DEBES estar de broma. Obviamente es retrasada.}
 {213}{}{1 second, don't remove Barkus' float yet.}
-{214}{}{Retra-dado! ¡Dooooo!}
+{214}{}{Retra-dada! ¡Daaaaa!}
 {215}{}{2 segundos}
 {216}{}{Venga. Necesitas a alguien para trabajar en el Refugio, ¿no?}
 {217}{}{1 second, don't remove Barkus' float yet.}

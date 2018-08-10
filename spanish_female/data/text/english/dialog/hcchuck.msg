@@ -11,7 +11,7 @@
 {110}{}{Eso suena sospechosamente similar a la premisa de una historieta.}
 {111}{}{¿Nueva QUÉ? CALIFORNIA? ¿EL MUNDO HA CAMBIADO TANTO? ¡AIEEEEEEEEEEEEEEEEE! ::huye, asustado::}
 {112}{}{Oye, ahora, espera un segundo...}
-{113}{}{Sí, así es, ¿no es así? Debo ir a ver qué le ha pasado al mundo. ¡Buena suerte, amigo!}
+{113}{}{Sí, así es, ¿no es así? Debo ir a ver qué le ha pasado al mundo. ¡Buena suerte, amiga!}
 {114}{}{¡Para ti también, señor Stodgers!}
 {115}{}{Has descubierto otra oscura referencia a la cultura popular.}
 {116}{}{Zzzzzzzzzzz.}

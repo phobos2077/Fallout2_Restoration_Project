@@ -36,7 +36,7 @@
 {323}{}{Oh, ¿de verdad? ¿Y qué dice ese mensaje?}
 {324}{}{Es súper secreto. No puedo decírtelo.}
 {325}{}{Te lo diré, pero es absolutamente esencial que no reveles esta información a nadie más, por miedo a un pánico masivo. Verá, se me ha llamado la atención que uno de los envíos de esclavos recientes está infectado con una cepa de virus desconocida y altamente mortal. *Debo* llegar a la base inmediatamente, o todos nuestras vidas podrían pederse. Ahora deja de perder mi tiempo, no hay un momento de sobra.}
-{326}{}{Siiiiiiiiiiii, te creooooooooooo. Parece que tenemos un intruso...}
+{326}{}{Siiiiiiiiiiii, te creooooooooooo. Parece que tenemos una intrusa...}
 {327}{}{¡Maldición! Ah, lo que sea. Nunca me dicen cosas por aquí. Bueno. Este en tu camino.}
 {328}{}{Guau, eso suena mal. Será mejor que te muevas, no quiero esa mierda en mis manos. Eh, y no te preocupes, no se lo diré a nadie.}
 {329}{}{[HECHO]}

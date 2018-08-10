@@ -1,5 +1,5 @@
 {100}{}{Ves a un nómada.}
-{101}{}{Hola, debes ser nuevo por aquí.}
+{101}{}{Hola, debes ser nueva por aquí.}
 {102}{}{Deberías hablar con el jefe.}
 {103}{}{Hoy no creo que haga tanto calor como ayer.}
 {104}{}{¿Qué tal es la vida en la ciudad?}

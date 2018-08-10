@@ -1,6 +1,6 @@
 {100}{}{Ves a Lucas.}
 {101}{}{Lucas es el jefe de los guerreros de tu tribu.}
-{102}{}{Así que estás aquí, Elegido. ¡Hmmmph! ¿Cómo va la búsqueda?}
+{102}{}{Así que estás aquí, Elegida. ¡Hmmmph! ¿Cómo va la búsqueda?}
 {103}{}{Bastante bien.}
 {104}{}{No muy bien.}
 {105}{}{¡¿Ugh?!}
@@ -12,23 +12,23 @@
 {111}{}{Va-le.}
 {112}{}{Sé cómo luchar sin usar armas. ¿Crees que podrías aprender a hacerlo?}
 {113}{}{¿Qué puedes enseñarme?}
-{114}{}{Que los vientos te sean favorables, Elegido.}
+{114}{}{Que los vientos te sean favorables, Elegida.}
 {115}{}{Adiós.}
 {116}{}{Hmmm... pasemos un día practicando juntos y te enseñaré cómo pegar más fuerte.}
 {117}{}{De acuerdo, vamos a hacerlo.}
 {118}{}{Lo siento, ahora mismo no tengo tiempo.}
-{119}{}{Te he enseñado todo lo que sé, Elegido. Buena suerte en tu búsqueda.}
+{119}{}{Te he enseñado todo lo que sé, Elegida. Buena suerte en tu búsqueda.}
 {120}{}{Oh, vale.}
-{121}{}{¡Ja! Elegido, no eres lo suficientemente hábil como para que pueda enseñarte nada.}
+{121}{}{¡Ja! Elegida, no eres lo suficientemente hábil como para que pueda enseñarte nada.}
 {122}{}{Oh, vale.}
-{123}{}{No eres lo suficientemente ágil en combate como para que mi entrenamiento te sirva de algo, Elegido.}
+{123}{}{No eres lo suficientemente ágil en combate como para que mi entrenamiento te sirva de algo, Elegida.}
 {124}{}{Oh, vale.}
-{125}{}{Necesitas aprender más cosas sobre combatir antes de que pueda ayudarte, hermanito.}
+{125}{}{Necesitas aprender más cosas sobre combatir antes de que pueda ayudarte, hermanita.}
 {126}{}{Oh, vale.}
 {127}{}{Puedo enseñarte cómo dar patadas más fuertes, pero nos llevará todo un día.}
 {128}{}{De acuerdo.}
 {129}{}{Puedo enseñarte a pelear mejor, pero nos llevará todo un día.}
 {130}{}{De acuerdo.}
-{131}{}{Has aprendido bien, Elegido. Que los vientos te sean favorables.}
+{131}{}{Has aprendido bien, Elegida. Que los vientos te sean favorables.}
 {132}{}{Gracias por tu ayuda.}
-{133}{}{Te he enseñado todo lo que sé, Elegido. Buena suerte en tu búsqueda.}
+{133}{}{Te he enseñado todo lo que sé, Elegida. Buena suerte en tu búsqueda.}

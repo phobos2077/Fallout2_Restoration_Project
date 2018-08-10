@@ -56,7 +56,7 @@
 {176}{}{Eh, ¿tienes un cigarrillo?}
 {177}{}{Eh, no te pegues encariñes demasiado... Me gusta ser libre.}
 {178}{}{Eres tan elegante como una pantera y te quiero.}
-{179}{}{¿Tas lista?}
+{179}{}{¿Estás lista?}
 {180}{}{Ahora no; tenemos que disparar.}
 {181}{}{Cerrad las escotillas. Vamos a dentro.}
 {200}{}{¡No seas gilipollas!}

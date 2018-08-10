@@ -5,12 +5,12 @@
 {104}{}{¿Qué pasa, no tienes nada a lo que disparar?}
 {105}{}{Saludos, soldado.}
 {106}{}{¿Quién eres tú? ¡¡Guardias!}
-{107}{}{¿Qué demonios pasa aquí? ¡Intruso en la base!}
+{107}{}{¿Qué demonios pasa aquí? ¡Intrusa en la base!}
 {108}{}{¡Mierda! ¿Dónde está mi arma?}
 {109}{}{Mira, ya buscaron aquí y no encontraron nada.}
 {110}{}{Joder, estas falsas alarmas me dan unos sustos de muerte.}
 {111}{}{Genial, otra falsa alarma. Ahora tendremos que arrancar todo el sistema y volverlo a restablecer.}
-{112}{}{¡Maldita sea! ¡Aquí, aquí! ¡Atrapad al espía!}
+{112}{}{¡Maldita sea! ¡Aquí, aquí! ¡Atrapad a la espía!}
 {113}{}{¡Mierda! ¡Nos atacan! ¿Dónde está mi parte?}
 {114}{}{¿Tiroteo? ¡Nadie dijo que habría ningún tiroteo!}
 {115}{}{¿Quién coño eres tú? ¡Guardias!}

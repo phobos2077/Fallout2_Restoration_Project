@@ -33,7 +33,7 @@
 {301}{}{¿Eh?}
 {310}{}{Hmm, eso parece un regulador de combustible. Si tuviera un coche que funcionara, seguro que reducía el consumo.}
 {311}{}{¿Eh?}
-{320}{}{Eso ha sido muy amable de tu parte. Muchas gracias, compadre. Aquí tienes algo por las molestias. Te vendrá bien para hacerte un arreglo. (Te da un estimulante).}
+{320}{}{Eso ha sido muy amable de tu parte. Muchas gracias, señorita. Aquí tienes algo por las molestias. Te vendrá bien para hacerte un arreglo. (Te da un estimulante).}
 {321}{}{Gracias, Smitty. Sin problema. Nos vemos.}
 {322}{}{Bien, ehhh... gracias, pero ya he ido a ver a Mamá y me he pillado algo de comer, así que no me hará falta.}
 {323}{}{Oh, no soy el repartidor habitual. Se puso enfermo hoy. De todos modos, ¿puedo conseguir mis puntos de experiencia?}

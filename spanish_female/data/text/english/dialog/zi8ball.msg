@@ -1,5 +1,5 @@
 {151}{}{}
-{199}{}{¿Qué clase de puta pregunta es esa?}
+{199}{}{¿Qué clase de pregunta idiota es esa?}
 {200}{}{Buenas perspectivas.}
 {201}{}{Perspectivas no muy buenas.}
 {202}{}{Mi respuesta es no.}

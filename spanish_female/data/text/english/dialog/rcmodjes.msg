@@ -85,7 +85,7 @@
 {171}{}{Aquí en Redding extraemos oro. Después lo enviamos a Nuevo Reno, la RNC, y Ciudad Refugio a cambio de
  bienes. Cada uno de esos lugares querría tener todo el oro -y el comercio- para ellos sólos.}
 {172}{}{¿Entonces por qué simplemente no atacan y se lo quedan?}
-{173}{}{¿Quién no lo haría? Creo que voy a intentar encontrar yo mismo algo de ese oro. Gracias, y adiós.}
+{173}{}{¿Quién no lo haría? Creo que voy a intentar encontrar yo misma algo de ese oro. Gracias, y adiós.}
 {174}{}{Somos demasiado grandes y estamos lo bastante lejos como para que una conquista sea costosa y peligrosa. Es mucho
  más eficaz que nos unamos de buena gana.}
 {175}{}{¿Qué quieres decir?}

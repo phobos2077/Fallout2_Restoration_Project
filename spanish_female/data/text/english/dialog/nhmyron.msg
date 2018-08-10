@@ -6,7 +6,7 @@
 {202}{}{Ves a Myron. Se suena con frecuencia, como si tuviera un resfriado.}
 {203}{}{Ves a Myron. Parece aburrido.}
 {204}{}{Ves a Myron. Mientras lo miras, bosteza muy fuerte, y luego se frota los ojos.}
-{210}{}{¡Moved los culos y venid aquí, chicos! ¡Tenemos un intruso!}
+{210}{}{¡Moved los culos y venid aquí, chicos! ¡Tenemos una intrusa!}
 {215}{}{¿Qué coño quieres?}
 {216}{}{Si estás aquí por el Jet, no me hagas perder el tiempo y simplemente lárgate.}
 {217}{}{Me pareció haber olido algo…}
@@ -149,7 +149,7 @@
 {597}{}{Miria es realmente guapa. ¿Puedo?... bien, ya sabes… ¿qué opinas?}
 {598}{}{Seguuuuuuro que tu mujer es muy guapa.}
 {599}{}{Entonces... lo de Miria y tú. ¿Vais en serio, o...?}
-{600}{}{¿Listo para continuar?}
+{600}{}{¿Lista para continuar?}
 {605}{}{¿Por qué demonios estamos AQUÍ?}
 {606}{}{Todo el mundo en esta ciudad necesita un enema.}
 {607}{}{Estar en Ciudad Refugio me hace sentir… descontento.}
@@ -399,7 +399,7 @@
 {1275}{myn211}{Ahora, tan solo relájate, bombón…}
 {1276}{}{Valeeezzzzzzz Zznnzznn Zzznnnzzzz}
 {1285}{myn212}{Hmmmm. Debes tener la constitución de un brahmin. Largo de aquí, preciosa.}
-{1295}{myn213}{Los guardias no merecen las fichas que se pagaron por ellos... bien, mi retrasado amigo, ya nos hemos presentado, así que por que no ¡TE LARGAS DE AQUÍ DE UNA PUTA VEZ!}
+{1295}{myn213}{Los guardias no merecen las fichas que se pagaron por ellos... bien, mi retrasada amiga, ya nos hemos presentado, así que por que no ¡TE LARGAS DE AQUÍ DE UNA PUTA VEZ!}
 {1296}{}{DUELEN OÍDOS. MATO.}
 {1297}{}{¿No amigo?}
 {1305}{myn214a}{Sí, apuesta por ello, compadre. }
@@ -430,7 +430,7 @@
 {1377}{myn218c}{¿Quién demonios eres tú?}
 {1378}{myn218d}{Soy alguien que estaba buscando a otro alguien como tú, preciosa. ¿Y eres...?}
 {1379}{}{.}
-{1380}{}{Sólo soy un viajero que está de paso.}
+{1380}{}{Sólo soy una viajera que está de paso.}
 {1381}{}{Soy alguien que está en la habitación equivocada. Me voy.}
 {1395}{myn219a}{¿Sólo eso? ¿Por qué estás aquí? ¿Eh? ¿Pensaste en que podrías darle a Myron un sablazo de drogas gratis?}
 {1396}{myn219b}{Lo que sea, preciosa. ¿Quieres algunas drogas para romper el hielo, o deberíamos pasar directamente a hacer bailar el colchón?}
@@ -553,7 +553,7 @@
 {1678}{}{No. Verás, tenía algunas otras preguntas…}
 {1679}{}{Ciudad Refugio. ¿Dónde está eso?}
 {1680}{}{Dejaré que te lo preguntes. Ya me has contado todo lo que necesito saber.}
-{1685}{myn241a}{Sí, sigue fanfarroneando, listillo. Yo podría oxidizar círculos a tu alrededor. Soy natural. Autodidacta. Nada de esa actitud gilipollesca de 'más puro-que-tú' de Ciudad Refugio, ¿vale?}
+{1685}{myn241a}{Sí, sigue fanfarroneando, listilla. Yo podría oxidizar círculos a tu alrededor. Soy natural. Autodidacta. Nada de esa actitud gilipollesca de 'más puro-que-tú' de Ciudad Refugio, ¿vale?}
 {1686}{myn241b}{'Je, eh, ja! Eres cortante, preciosa... cabello azabache, dientes y garras… mmm-mmm. ¿Entonces has aprendido todas esas chorradas en Ciudad Refugio, o qué?}
 {1687}{}{No aprendí en Ciudad Refugio. Sólo mejoré la base. En realidad es bastante simple.}
 {1689}{}{Tenía algunas preguntas más…}

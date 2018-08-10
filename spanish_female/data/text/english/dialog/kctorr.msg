@@ -1,8 +1,8 @@
 {100}{}{Ves a un hombre muy grande, cubierto de polvo, con la mirada perdida y una sonrisilla.}
 {101}{}{Ves a Torr Buckner, el tonto del pueblo.}
 {102}{}{Ves a un hombre grande y musculoso vestido con ropa sucia, cubierta de polvo y barro, y que tiene una sonrisa beatifica en su rostro.}
-{110}{}{Malo. Hace pupa Torr. ¡Vete!}
-{111}{}{¡Eres malo! No pupa Torr.}
+{110}{}{Mala. Hace pupa Torr. ¡Vete!}
+{111}{}{¡Eres mala! No pupa Torr.}
 {112}{}{¡Owwww! ¡Vete!}
 {113}{}{No más pupa Torr.}
 {114}{}{Torr bueno. Torr no daño.}
@@ -18,7 +18,7 @@
 {140}{}{Yo Torr. (Soy Torr. ¿Puedo ayudarte?)}
 {141}{}{Yo Torr.}
 {142}{}{Tú Torr. (Hola, Torr. Tengo un par de preguntas que hacerte.)}
-{143}{}{Encantado de conocerte, Torr. ¿Últimamente ha ocurrido algo interesante por aquí?}
+{143}{}{Encantada de conocerte, Torr. ¿Últimamente ha ocurrido algo interesante por aquí?}
 {144}{}{Estoy aquí por los brah... err, los mu-mus.}
 {150}{}{Yo protejo mu-mus de hombres bicho. (Protejo a los brahmines de nuestra familia de los feroces ataques nocturnos de criaturas bípedas con caparazón a las que yo llamo hombres bicho.)}
 {151}{}{Yo protejo mu-mus de hombres bicho.}
@@ -59,16 +59,16 @@
 {229}{}{Torr gusta }
 {230}{}{. Torr gracias. Hombre bicho malo, ¡no dejar hombre bicho come mu-mus! (Muchas gracias por ayudarme. Esos hombres bicho me ponen los pelos de punta. Espero que podamos evitar perder más brahmines.)}
 {231}{}{. Torr gracias. Hombre bicho malo, ¡no dejar hombre bicho come mu-mus!}
-{232}{}{Torr. (Estoy seguro de que no se llevarán a tus brahmines si los dos estamos juntos.)}
+{232}{}{Torr. (Estoy segura de que no se llevarán a tus brahmines si los dos estamos juntos.)}
 {233}{}{Espero que podamos parar esos ataques a tus mu-mus. Uh, brahmines. No creo que nada se atreva a atacarlos si estamos los dos juntos.}
-{234}{}{He venido a avisarte. He visto algunos hombres bicho al otro lado de esas rocas. Como amigo, me quedaré aquí vigilando tus mu-mus mientras tú vas a buscar ayuda.}
+{234}{}{He venido a avisarte. He visto algunos hombres bicho al otro lado de esas rocas. Como amiga, me quedaré aquí vigilando tus mu-mus mientras tú vas a buscar ayuda.}
 {240}{}{¿Si? ¿Ayuda mu-mus ayuda Torr? ¡No hombre bicho! ¡Hombre bicho malo! (¿Estás aquí para ayudarme a vigilar a los brahmines del ataque de los hombres bicho?)}
 {241}{}{¿Si? ¿Ayuda mu-mus ayuda Torr? ¡No hombre bicho! ¡Hombre bicho malo!}
 {242}{}{ ayuda mu-mus ayuda Torr (Si, he venido para ayudarte a proteger a los brahmines de los hombres bicho. Estoy seguro de que no se llevarán a tus brahmines si los dos estamos juntos.)}
 {243}{}{No ayuda. (Lo siento, sólo pasaba por aquí. No he venido a ayudarte. Adiós.)}
 {244}{}{Uh, si; he venido para ayudarte a proteger a los brahmines -es decir, los mu-mus- de los hombres bicho.}
-{245}{}{Pues he venido para avisarte. He visto algunos hombres bicho al otro lado de esas rocas. Como amigo, me quedaré aquí vigilando tus mu-mus mientras tú vas a buscar ayuda.}
-{246}{}{Lo siento, Torr. Estoy muy ocupado para quedarme aquí con un montón de brahmines, tengan dos o cuatro patas.}
+{245}{}{Pues he venido para avisarte. He visto algunos hombres bicho al otro lado de esas rocas. Como amiga, me quedaré aquí vigilando tus mu-mus mientras tú vas a buscar ayuda.}
+{246}{}{Lo siento, Torr. Estoy muy ocupada para quedarme aquí con un montón de brahmines, tengan dos o cuatro patas.}
 {249}{}{Torr quiere }
 {250}{}{. Torr quiere mamá. Torr quiere papá. (Me alegro tanto de que me hayas encontrado. Pensaba que esta vez no lo contaba.)}
 {251}{}{. Torr quiere mamá. Torr quiere papá.}

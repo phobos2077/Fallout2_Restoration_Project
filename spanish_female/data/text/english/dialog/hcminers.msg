@@ -8,7 +8,7 @@
 {107}{}{¡Dallo!}
 {108}{}{¿Qué se puede hacer por aquí?}
 {109}{}{¿Quién eres?}
-{110}{}{Oh, bien. Un idiota. Afectado por la radiación, ¿eh, amigo? No puedo entenderte. No puedo ayudarte.}
+{110}{}{Oh, bien. Una idiota. Afectado por la radiación, ¿eh, amiga? No puedo entenderte. No puedo ayudarte.}
 {111}{}{¡Dije que no puedo ayudarte! ¡Vete y molesta a algún otro!}
 {112}{}{¿Que qué hay para hacer? Bueno, la mina está cerrada porque no tenemos un purificador de aire funcional. Hay una taberna. Están los caravaneros, y está el almacén. Eso es todo. Espera… ¿de qué estábamos hablando?}
 {113}{}{¿A quién debo hablarle sobre la mina?}

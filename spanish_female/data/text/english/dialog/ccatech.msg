@@ -2,7 +2,7 @@
 {101}{}{Ves a un técnico del Enclave.}
 {102}{}{Ves a alguien que lleva una bata de laboratorio. Parece confiado y seguro de sí mismo.}
 {103}{}{¿Sí, soldado?}
-{104}{}{Yo nuevo aquí. Necesito respuesta.}
+{104}{}{Yo nueva aquí. Necesito respuesta.}
 {105}{}{Sólo digo hola. Marcho.}
 {106}{}{Soy nuevo aquí y estoy intentado familiarizarme con la base. ¿Puedo hacerte algunas preguntas?}
 {107}{}{Sólo pasaba a saludar. Nos vemos.}
@@ -36,7 +36,7 @@
 {141}{}{Planos de vertibird... no veo para qué los necesitarías. Te sugiero que hables con alguien de mantenimiento en la puerta de enfrente.}
 {142}{}{De acuerdo.}
 {143}{}{Entiendo.}
-{153}{}{¿Estás loco? ¿Cómo se te ocurre estar por aquí sin uniforme? ¡Rápido, vístete!}
+{153}{}{¿Estás tonta, andando por aquí sin uniforme? ¡Vístete!}
 {154}{}{Si el sargento te pilla sin el uniforme, te va a partir el culo.}
 {155}{}{¿Por qué no llevas puesto el uniforme?}
 {156}{}{¡Ay, carajo! ¡Nos invaden! ¡Alerta!}

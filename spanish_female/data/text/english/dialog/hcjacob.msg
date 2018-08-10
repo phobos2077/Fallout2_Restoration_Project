@@ -48,7 +48,7 @@
 {167}{}{Todo lo que pretendemos es que ésta sea una ciudad civilizada, que todos vayamos a mejor… pero vivimos con el miedo a la furia mutante. Cada día, hay menos y menos humanos.}
 {168}{}{Todos los mutantes que he visto parecen viejos y decrépitos.}
 {169}{}{¿Por qué no luchar?}
-{170}{}{Eso es debido a que intentan engañarte, amigo. Están intentando engañarte.}
+{170}{}{Eso es debido a que intentan engañarte, amiga. Están intentando engañarte.}
 {171}{}{¿Por qué no luchar contra ellos, entonces?}
 {172}{}{¿Engañarme? Ya veo. Bien, tengo que irme. Un placer charlar contigo.}
 {173}{}{En realidad, lo hacemos. Algunos amigos míos y yo estamos planeando un golpe que borrará de mutantes
@@ -60,9 +60,9 @@
  despiadados.}
 {178}{}{Sigo diciendo que no.}
 {179}{}{Oh, está bien. Me has convencido. }
-{180}{}{Entonces eso es lo que eliges. Te dejaré seguir con tu vida. Pero es una pena. Pareces duro.}
+{180}{}{Entonces eso es lo que eliges. Te dejaré seguir con tu vida. Pero es una pena. Pareces dura.}
 {181}{}{Sí. Adiós.}
-{182}{}{Eres tú, ¿eh? Creo que no, traidor.}
+{182}{}{Eres tú, ¿eh? Creo que no, traidora.}
 {183}{}{¿Qué?}
 {184}{}{Tengo un trabajito para ti. Nuestros amigos, Manson y Franc, están encerrados en la cárcel. Quiero que los liberes. Hazlo sin armar ruido, si es posible. No querrás a toda la ciudad reclamando tu cabeza.}
 {185}{}{¿Qué pasa si mato a alguien?}
@@ -83,7 +83,7 @@
 {225}{}{Gracias.}
 {226}{}{¿Realmente tienes que matar a todo el mundo? Ahora se van a empezar a preocupar. En fin, no importa.}
 {227}{}{Lo siento.}
-{228}{}{Los liberaste. Supongo que eso es la parte importante. Por supuesto, ahora todo el mundo en la ciudad sabe que estás relacionado con Manson y Franc de alguna manera. Oh, en fin.}
+{228}{}{Los liberaste. Supongo que eso es la parte importante. Por supuesto, ahora todo el mundo en la ciudad sabe que estás relacionada con Manson y Franc de alguna manera. Oh, en fin.}
 {229}{}{Lo siento.}
 {230}{}{Creo que puedo confiar en ti para algo importante. ¿Te gustaría algo más de trabajo?}
 {231}{}{¿Qué más puedo hacer por ti, amigo?}
@@ -94,14 +94,14 @@
 {258}{}{Esto va así. Odiamos a los mutantes. Queremos matarlos. La mejor forma de deshacerse de ellos es volar por los aires la mina mientras están dentro. Queremos que plantes la carga.}
 {259}{}{¡Lo haré!}
 {260}{}{No puedo hacer eso.}
-{261}{}{¡Excelente, amigo mío! Toma este detonador. Sitúalo en el purificador de aire y sal pitando de allí. Hemos arreglado que los mutantes de la ciudad estén en la mina.}
-{262}{}{Avísame cuando estés listo para irte.}
+{261}{}{¡Excelente, amiga mía! Toma este detonador. Sitúalo en el purificador de aire y sal pitando de allí. Hemos arreglado que los mutantes de la ciudad estén en la mina.}
+{262}{}{Avísame cuando estés lista para irte.}
 {263}{}{Lo haré.}
 {264}{}{No puedo hacer esto.}
-{265}{}{¿Por qué no? ¿Tienes miedo, o algo así? ¿Estás seguro de que no lo vas a hacer?}
+{265}{}{¿Por qué no? ¿Tienes miedo, o algo así? ¿Estás segura de que no lo vas a hacer?}
 {266}{}{Sí.}
 {267}{}{No, supongo que lo haré.}
-{268}{}{Supongo que lo puedo entender. Espero que tú tendrás la misma comprensión cuando te diga que salgas de mi vista cagando leches. Traidor.}
+{268}{}{Supongo que lo puedo entender. Espero que tú tendrás la misma comprensión cuando te diga que salgas de mi vista cagando leches. Traidora.}
 {269}{}{[HECHO]}
 {270}{}{¿Estás listo para continuar con el plan?}
 {272}{}{Sí. Hagámoslo.}

@@ -60,26 +60,26 @@
 {2007}{}{*Zzzzzzz*}
 {2008}{}{*Ring-a-ling*}
 {2009}{}{*Dingity-ding*}
-{2010}{}{*Hola, hermosura. Ven a jugar un rato conmigo*.}
-{2011}{}{*Hola, hermosura*.}
-{2012}{}{*Mira qué cosita tan guapa. ¿Por qué no vienes a jugar conmigo?*}
+{2010}{}{*Hola, preciosa. Ven un segundo a jugar conmigo.*}
+{2011}{}{*Hola, preciosa.*}
+{2012}{}{*Qué cosita más preciosa. ¿Por qué no vienes a jugar conmigo?*}
 {2100}{}{Ves una caja rara de metal dorado con tres ojos y un brazo. Es una de las
  cosas más bonitas que has visto.}
 {2101}{}{Yo }
 {2102}{}{ ¿Quién tú?}
 {2103}{}{Quiero a MAMÁ. }
-{2104}{}{ extraño ARR-YO. Quiero ir a casa.}
+{2104}{}{ extraña ARRO-YO. Quiero irme a mi casita.}
 {2105}{}{(Le das la mano)}
 {2106}{}{eres mutante raro.}
 {2107}{}{¡Alabemos el Refugio! ¡Alabemos el Refugio!}
 {2108}{}{¿Eres un chip de agua?}
 {2109}{}{Te alejas, buscando otras cosas brillantes.}
 {2110}{}{Te marchas.}
-{2130}{}{La rara caja de metal dorado con tres ojos y un brazo no contesta.}
+{2130}{}{La extraña caja de metal dorado con tres ojos y un brazo no contesta.}
 {2131}{}{YO }
 {2132}{}{¡TU ME CONTESTAS!}
 {2133}{}{(Le das la mano)}
-{2134}{}{Yo soy hijo de Morador de Refugio. Tú me hablas AHORA.}
+{2134}{}{Yo soy hija de Morador de Refugio. Tú me hablas AHORA.}
 {2135}{}{eres mutante raro.}
 {2136}{}{¿Eres un chip de agua?}
 {2137}{}{Te alejas, buscando otras cosas brillantes.}
@@ -98,7 +98,7 @@
 {2203}{}{(Una débil risa maníaca sale de la máquina).}
 {2204}{}{(Escuchas a la máquina reírse de ti).}
 {2205}{}{(La máquina se mofa de ti).}
-{2206}{}{*Venga, perdedor, no me dejes ahora*.}
+{2206}{}{*Venga, perdedora, no me dejes ahora*.}
 {2207}{}{*Tengo lo que quería de ti, querida. ¿Por qué no lo dejas?*}
 {2208}{}{*¡Escoria!*}
 {2209}{}{*Ten cuidado de que la puerta del casino no te golpee en el culo cuando salgas*.}
@@ -109,8 +109,8 @@
 {2251}{}{*Vamos, cariñito… inténtalo otra vez… agarra la palanca… agárrala con fuerza… hazlo ahora…*}
 {2252}{}{*Eso es, cariño… sigue meneando la palanca… más rápido, más fuerte, más rápido… hazlo ahora…*}
 {2253}{}{*Ennnnghhhh! ¡Eso es, cariño! ¡¿Quién es tu macho?! ¡¿Quién es tu macho?!! Hazlo de nuevo! ¡Menéala más fuerte esta vez! ¡Más fuerte!*}
-{2280}{}{(Ves una máquina tragaperras. Su estructura brillante y su palanca dorada resplandecen seductoramente bajo las luces de Nuevo Reno. Su ranura para las monedas te atrae, y sientes cómo te ruborizas por la expectación. Mientras la miras, te guiña uno de sus tres ojos. Escuchas una voz grave susurrando desde la ranura para monedas). *¡Vaya, vaya! Hoooola, cielo. ¿Le harás pasar a esta nena un buen rato?*}
-{2281}{}{(Ves una máquina tragaperras. Su fuerte y tosca estructura y su palanca dorada brillan como el sol bajo las luces de Nuevo Reno. Su ranura para las monedas te atrae seductoramente, y sientes que los muslos te arden por la excitación. Mientras la miras, de repente una fuerte voz masculina susurra desde la ranura para monedas). *Jamás he visto a una mujer tan hermosa como tú antes, señorita. ¿Quieres una oportunidad conmigo?*}
+{2280}{}{(Ves una máquina tragaperras. Su brillante carcasa y dorada palanca resplandecen seductoramente bajo las luces de Nuevo Reno. Su ranura para monedas te atrae, y sientes que tu cara se ruboriza por las expectativas. Mientras te acercas, una de sus tres ventanitas te guiña un ojo. De la ranura para monedas escuchas una voz gutural). *¡Vaya, vaya! Hooooola, dulzura. ¿Le ofrecerás a una chica pasar un buen rato?*}
+{2281}{}{(Ves una máquina tragaperras. Su fuerte y dura carcasa y su dorada palanca resplandecen seductoramente bajo las luces de Nuevo Reno. Su ranura para monedas te atrae, y sientes que tus muslos arden por las expectativas. Al acercarte, surge de repente el susurro de una fuerte voz masculina desde la ranura para las monedas). *No había visto antes por aquí a una mujer tan hermosa como tú. ¿Quieres una oportunidad?*}
 {2282}{}{::Te pellizcas::}
 {2283}{}{Uh… ¿hola?}
 {2284}{}{::Respiras profundamente, y te vas.::}
@@ -123,8 +123,8 @@
 {2320}{}{*Soy tu hombre ideal*. (La máquina te guiña un ojo). *Dame algunas monedas, y te daré placer de formas en que ningún hombre te ha dado placer NUNCA*.}
 {2321}{}{*Soy tu hombre ideal, preciosa. Todo lo que quiero es un poco de atención. ¿Puedes prestarme un poco de atención? Venga, ¿sólo una o dos monedas?*}
 {2322}{}{¿No podemos s-solo hablar?}
-{2340}{}{*Por supuesto que puedo, cielo, por supuesto que puedo*. (La máquina parece comprensiva). *¿Que le preocupa a tu cabecita?*}
-{2341}{}{*Por supuesto que puedo, cielo, por supuesto que puedo*. (La máquina parece comprensiva). *¿Qué te preocupa, guapetón?*}
+{2340}{}{*Claro que podemos, cariño, claro que podemos*. (La máquina tragaperras parece comprensiva). *¿Qué problema ronda tu preciosa cabecita?*}
+{2341}{}{*Claro que podemos, dulzura, claro que podemos*. (La máquina tragaperras parece comprensiva). *¿Qué problema tienes, guapo?*}
 {2342}{}{Hecho de menos a MAMÁ y a ARROYO y… no puedo encontrar el GECK y… *sniff*}
 {2343}{}{Hecho de menos a MAMÁ y Arroyo fue ATACADO y… no sé dónde están… y… *sniff*}
 {2344}{}{Tengo que arreglar el gran barco… y no sé CÓMO… y m-m-mi MAMÁ se ha IDO y… *sniff*}
@@ -138,7 +138,7 @@
 {2373}{}{T-tú eres la *única* persona b-buena que he encontrado y todo el m-mundo hasta ahora ha intentado hacerme *daño* y quitar-me el dinero y… *sniff*}
 {2380}{}{*¿Seguro que estarás bien, cariño? No me siento cómoda dejando que te vayas solo cuando estás así*.}
 {2381}{}{(Reposas tu cansada cabeza sobre la máquina).}
-{2382}{}{*¿Estarás bien, cielo? No me siento cómoda dejando que te vayas solo cuando estás así*.}
+{2382}{}{*¿Estarás bien, dulzura? No me siento cómoda dejándote ir sólo cuando estás así.*}
 {2383}{}{Esssstaré bdien… grac-cias por hablar con-nmigo, m-m-máquina te quieeeeeero}
 {2400}{}{*¡Eres la única heroína que tenemos en este mundo binario de bastardos y ladrones! Cuídate mucho, ¿de acuerdo, cariño?* (Te das la vuelta). *Vete antes de que me ponga demasiado tierna*.}
 {2401}{}{(Una lágrima parece formarse en una de las ventanas). }

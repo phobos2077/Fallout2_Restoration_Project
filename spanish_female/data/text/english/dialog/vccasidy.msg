@@ -1,8 +1,8 @@
 {100}{}{Ves a un anciano con profundas arrugas en su rostro. Si se ha dado cuenta de que le miras, no da señales de ello.}
 {101}{}{Ves a Cassidy.}
 {102}{}{Ves a un anciano con profundas arrugas en su rostro. Te saluda con un movimiento de cabeza.}
-{103}{Cas0103}{Bueno. No te había visto antes, forastero. Me llamo Cassidy. Dirijo este lugar. ¿Qué puedo hacer por ti?}
-{104}{Cas0104}{Vaya, si es el forastero misterioso. ¿Qué puedo hacer hoy por ti?}
+{103}{Cas0103}{Bueno. No te había visto antes, forastera. Me llamo Cassidy. Dirijo este lugar. ¿Qué puedo hacer por ti?}
+{104}{Cas0104}{Vaya, si es la forastera misteriosa. ¿Qué puedo hacer hoy por ti?}
 {105}{}{¿Hacer yo?}
 {106}{}{Dejas de balbucear}
 {107}{}{Estoy buscando el Refugio.}
@@ -56,14 +56,14 @@
 {155}{}{Yo me dirijo de nuevo a ese camino. ¿Por qué no me acompañas?}
 {156}{}{Bien, buena suerte entonces.}
 {157}{Cas0157}{No te ofendas, pero no pareces capaz de liderar nada. Parece que vayas a servirle de cena al Yermo.}
-{158}{Cas0158}{Ni hablar, no viajo con esclavistas. Tienen el repugnante hábito de venderte cuando les hace falta dinero. Sin ofender.}
-{159}{Cas0159}{De eso nada, tienes el aspecto de alguien con un pie en la tumba y el otro en el infierno. No creo que necesite manchar mi reputación más de lo que ya está.}
+{158}{Cas0158}{Paso, no viajo con esclavistas. Tienen el asqueroso hábito de venderte cuando necesitan dinero. Sin ofender.}
+{159}{Cas0159}{Paso, parece que tienes un pie en la tumba y el otro en el infierno. No creo que deba manchar mi reputación más de lo que ya lo está.}
 {160}{Cas0160}{Paso... parece que ya llevas a un montón de gente contigo.}
 {161}{}{De acuerdo. Bien, buena suerte.}
 {162}{}{Entonces olvida lo que te he preguntado, capullo. Sigue atendiendo tu bar en esta apestosa ciudad.}
 {163}{}{No importa. Tú te lo pierdes.}
 {164}{Cas0164}{Je. ¿Hablas en serio?}
-{165}{}{Claro. ¿Por qué no? Tienes pinta de saber cuidar de ti mismo en una pelea.}
+{165}{}{Claro. ¿Por qué no? Tienes pinta de saber cuidar de ti misma en una pelea.}
 {166}{}{Pensándolo mejor, ahí fuera hay bastante peligro, en especial para alguien con problemas de corazón. Mejor que te quedes aquí.}
 {167}{Cas0167}{Vale, cuenta conmigo.}
 {168}{}{Vamos allá.}
@@ -118,7 +118,7 @@
 {295}{}{Buscamos un GECK: un Kit de Creación del Jardín del Edén. Mi pueblo necesita recuperar sus cultivos.}
 {296}{}{Vamos al Refugio, para después devolver el GECK a mi aldea.}
 {297}{}{Mi tribu ha sido secuestrada. Estoy intentando descubrir qué les pasó.}
-{298}{Cas0298}{Así que las cosas vienen todas juntas ahora, ¿eh? Amigo, el buen libro no menciona eso ¿verdad? Bien, de acuerdo entonces. Vamos de caza.}
+{298}{Cas0298}{Así que las cosas vienen todas juntas ahora, ¿eh? Amiga, el buen libro no menciona eso ¿verdad? Bien, de acuerdo entonces. Vamos de caza.}
 {299}{Cas0299}{Ah. De acuerdo entonces, sólo lo comprobaba.}
 {300}{Cas0300}{No me importaría abrir unos cuantos agujeros en unos secuestradores. Un poco de justicia fronteriza no le hace daño a nadie... bueno, al menos no a mí.}
 {301}{}{De acuerdo. Vamos.}
@@ -161,18 +161,18 @@
 {338}{}{Me pregunto lo que come ese ciberperro. Humanos, seguro.}
 {339}{}{Si ese ciberperro empieza a tirar de mi pierna, me lo cargo.}
 {340}{}{Ahhhh. Amigo, menos mal que hicieron millones de estas cosas antes de lanzar las bombas.}
-{341}{}{Gracias, amigo.}
+{341}{}{Gracias, amiga.}
 {342}{}{Espero que tomar estos estimulantes no me dañe el corazón...}
 {343}{}{Pero qu--?! ¡No, mi corazón! Yo... *hrrrkkk*}
 {344}{}{Perdón, sólo admiraba la vista.}
 {345}{}{Maldición, entonces estaré por aquí.}
-{346}{}{Perdona, amigo. No quería bloquear tu camino.}
+{346}{}{Perdona, amiga. No quería bloquear tu camino.}
 {347}{}{Ahhhhh. Eso ha dado en la diana. Muchas gracias.}
 {348}{}{*Hic* je je. Nada como la vieja agua de fuego para mantener la sangre corriendo por mis venas.}
 {349}{}{Gracias. Demonios, tú también deberías tomar un trago.}
 {350}{}{Ese es el Refugio. Menudo pedazo de sitio, ¿a que sí?}
 {351}{}{¿Quieres que me una a ti otra vez?}
-{352}{}{Estoy listo cuando tú estés listo.}
+{352}{}{Estoy listo cuando tú estés lista.}
 {353}{}{¿Seguro que no necesitas mi ayuda?}
 {354}{}{Tengo ganas de ponerme en marcha.}
 {355}{}{Claro que podría ir a fumar.}
@@ -185,7 +185,7 @@
 {362}{}{Si tuviera veinte años menos, me gustaría ir al este y explorar el Medio Oeste. Ahora es demasiado tarde, supongo.}
 {363}{}{He oído que tienen tornados con kilómetros de anchura en el Medio Oeste. Ahora es un gran desierto radiactivo.}
 {364}{}{Me pregunto si Texas sobrevivió a la guerra...}
-{365}{}{Gracias, amigo. Yo... hey. Empiezo a ver borroso.}
+{365}{}{Gracias, amiga. Yo... hey. Empiezo a ver borroso.}
 {366}{}{He oído que este material te hace alucinar...¡Ey! ¡¿De dónde demonios salieron estas serpientes?!}
 {367}{}{Cada vez que tomo esta cosas, me vienen a la cabeza viejos recuerdos.}
 {368}{}{Nada como un poco de curativo tribal de mala muerte...}
@@ -199,8 +199,8 @@
 {1300}{Cas1300}{De acuerdo, me mantendré a distancia. Tendré un mejor punto de observación de esa forma.}
 {1400}{Cas1400}{De acuerdo, vigilaré tu espalda. Si me necesitas grita y vendré corriendo.}
 {2000}{Cas2000}{No te ofendas, pero no pareces capaz de liderar nada. Parece que vayas a servirle de cena al Yermo.}
-{2100}{Cas2100}{Ni hablar, no viajo con esclavistas. Tienen el repugnante hábito de venderte cuando les hace falta dinero. Sin ofender.}
-{2200}{Cas2200}{De eso nada, tienes el aspecto de alguien con un pie en la tumba y el otro en el infierno. No creo que necesite manchar mi reputación más de lo que ya está.}
+{2100}{Cas2100}{Paso, no viajo con esclavistas. Tienen el asqueroso hábito de venderte cuando necesitan dinero. Sin ofender.}
+{2200}{Cas2200}{Paso, parece que tienes un pie en la tumba y el otro en el infierno. No creo que deba manchar mi reputación más de lo que ya lo está.}
 {2300}{Cas2300}{Ni hablar... parece que ya tienes a un montón de gente a tu alrededor.}
 {2400}{Cas2400}{De acuerdo entonces.}
 {2999}{}{De acuerdo. Ten cuidado, entonces.}

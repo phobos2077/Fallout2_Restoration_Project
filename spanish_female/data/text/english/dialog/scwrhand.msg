@@ -2,7 +2,7 @@
 {101}{}{Ves a uno de los peones de Westin.}
 {102}{}{Podría no ser más que un peón, pero también un asesino a sueldo. Desde luego, parece estar preparado por si hay problemas.}
 {103}{}{¿Qué se supone que haces vagando por aquí?}
-{104}{}{Habla con Felix si estás buscando trabajo, extranjero.}
+{104}{}{Habla con Felix si estás buscando trabajo, extranjera.}
 {105}{}{Estoy harto de brahmines.}
 {106}{}{He oído que los Bishop entraron por nuestro jefe.}
 {107}{}{Si quieres hablar con alguien, habla con el capataz, Felix.}

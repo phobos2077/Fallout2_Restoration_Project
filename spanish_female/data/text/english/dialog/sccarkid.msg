@@ -3,7 +3,7 @@
 {102}{}{Parece un pequeñajo consentido. Y gordo, además.}
 {103}{}{¡Mi papá es el vicepresidente Carlson, así que mejor que me trates bien! ¿Quién eres?}
 {104}{}{[Player name]}
-{105}{}{Soy uno de los guardias de tu papá.}
+{105}{}{Soy una de los guardias de tu papá.}
 {106}{}{¿Dónde está tu papá?}
 {107}{}{¿Ves este cuchillo? He destripado a niños más pequeños que tú.}
 {108}{}{Soy tu peor pesadilla, asqueroso.}
@@ -18,7 +18,7 @@
 {117}{}{Por el tanque de agua. A veces juego por allí. Me asomo a él mientras está funcionando.}
 {118}{}{Eres un mocoso molesto, ¿verdad?}
 {119}{}{Gracias, muchacho, me has ayudado mucho.}
-{120}{}{¡No eres bueno, eres un hombre malo! ¡Se lo voy a decir a mi papá!}
+{120}{}{¡No eres buena, eres una mujer mala! ¡Se lo voy a decir a mi papá!}
 {121}{}{Vaya, eres tú otra vez. ¿Qué estás haciendo?}
 {122}{}{Pregúntale a tu padre si puedo verle.}
 {123}{}{Dile a tu padre que tengo noticias sobre el señor Bishop. ¿Te acordarás?}
@@ -30,7 +30,7 @@
 {129}{}{Papá dice que no puede verte.}
 {130}{}{Le dije eso a papá. Creo que no le gustas.}
 {131}{}{Papá dice que puedes entrar en la casa.}
-{132}{}{Le dije a papá que eres un hombre malo.}
+{132}{}{Le dije a papá que eres una mujer mala.}
 {133}{}{Efectivamente, ¡soy el hombre del saco! Y voy a devorarte.}
 {134}{}{Me entendiste mal, niño.}
 {135}{}{Se supone que no debo hablar más contigo.}

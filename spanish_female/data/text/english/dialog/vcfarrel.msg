@@ -4,12 +4,12 @@
 {102}{}{Ves a un Ciudadano con un uniforme azul brillante. Es como el uniforme del Morador del Refugio, pero sin
  un número a la espalda.}
 {103}{}{::aplausos::}
-{104}{}{¡Es el héroe! ¡Mirad!}
-{105}{}{¡Dios mío! ¡Es el héroe, aquí, en Ciudad Refugio!}
+{104}{}{¡Es la heroína! ¡Mirad!}
+{105}{}{¡Dios mío! ¡Es la heroína, aquí, en Ciudad Refugio!}
 {106}{}{Que le vaya bien, capitán.}
 {107}{}{Ciudad Refugio prevalece, capitán.}
-{108}{}{Que te vaya bien, Ciudadano.}
-{109}{}{Ciudad Refugio prevalece, Ciudadano.}
+{108}{}{Que te vaya bien, Ciudadana.}
+{109}{}{Ciudad Refugio prevalece, Ciudadana.}
 {110}{}{¡Un mutante! ¡Guardias! ¡Guardias!}
 {111}{}{¡Un necrófago! ¡Guardias! ¡Guardias!}
 {112}{}{Veamos... tres estimulantes, una caja de Rad-X...}
@@ -21,7 +21,7 @@
 {120}{}{Por favor, vuelve por la mañana. Gracias.}
 {121}{}{Ahora mismo estoy haciendo inventario. Abriremos por la mañana.}
 {122}{}{¿Puedo ayudarle, capitán?}
-{123}{}{¿Puedo ayudarte, Ciudadano?}
+{123}{}{¿Puedo ayudarte, Ciudadana?}
 {124}{}{¿Sí, qué pasa?}
 {125}{}{¿yo ayudo tuuuuu?}
 {126}{}{Dejas de balbucear}
@@ -36,10 +36,10 @@
  todo lo que los... forasteros necesitáis.}
 {134}{}{Eh, gracias.}
 {135}{}{Compraré donde me apetezca, ¿lo entiendes?}
-{136}{}{Gracias. Ciudad Refugio prevalece, Ciudadano.}
+{136}{}{Gracias. Ciudad Refugio prevalece, Ciudadana.}
 {137}{}{Gracias. Ciudad Refugio prevalece, capitán.}
-{138}{}{Ciudad Refugio prevalece, Ciudadano.}
-{139}{}{Que te vaya bien, Ciudadano.}
+{138}{}{Ciudad Refugio prevalece, Ciudadana.}
+{139}{}{Que te vaya bien, Ciudadana.}
 {140}{}{¿Esto? Pues esto es la Oficina de Sub-servicios B, a cargo del almacenamiento farmacéutico y distribución
  en Ciudad Refugio. Soy el oficial de Sub-servicios Holden. ¿Cómo puedo ayudarte hoy, Ciudadano?}
 {141}{}{Esto es la Oficina de Sub-servicios B... nos encargamos de la distribución de suministros farmacéuticos en

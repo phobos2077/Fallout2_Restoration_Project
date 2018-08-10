@@ -13,7 +13,7 @@
 {216}{}{Intentas matar a todo el mundo con un virus, ¿eh? ¡Cómase esto, señor Presidente!}
 {217}{}{¡Cómase esto, señor Presidente!}
 {218}{}{¡Quiero ser el Morador del Refugio en el próximo juego!}
-{219}{}{¡Nuh-uh! ¡Me fallar, simpatizante del Presidente!}
+{219}{}{Nuh-uh! ¿Me echabas de menos, simpatizante del Presidente?}
 {220}{}{Uh-uh! ¡Te tengo! ¡Te tengo!}
 {221}{}{¡Acabo de volar por los aires el Enclave! ¡Boooooom!}
 {222}{}{¡Rápido! ¡Todo el mundo al petrolero!}
@@ -26,7 +26,7 @@
 {240}{}{¡Mírame, soy el insecto de metal! Bzzzzzz}
 {241}{}{Blam blam!}
 {242}{}{¡Cuidado, aquí llega el insecto de metal!}
-{243}{}{¡Toma esto!}
+{243}{}{¡Toma eso!}
 {244}{}{¡Siempre has sido el insecto de metal!}
 {245}{}{Bang bang!}
 {246}{}{¡Quiero ser el insecto de metal en el próximo juego!}
@@ -48,9 +48,9 @@
 {276}{}{Ojalá pudiera haberte ayudado a destruir el Enclave. Yo… no me habría asustado. Oh, oh.}
 {277}{}{¡Oye! }
 {278}{}{}
-{279}{}{¡Gracias por salvarnos, }
+{279}{}{Gracias por salvarnos, }
 {280}{}{Quiero salvar el mundo como tú cuando sea mayor.}
-{281}{}{¿Puedo ser un héroe como tú cuando sea mayor?}
+{281}{}{¿Puedo ser un héroe como tú cuando me haga mayor?}
 {282}{}{Quiero ser }
 {300}{}{¡Aighhhh! ¡Es uno de los de la gente metálica! ¡Corred!}
 {301}{}{¡Es uno de los de la gente metálica! ¡Nos han encontrado! ¡Corred!}
@@ -89,27 +89,27 @@
 {364}{}{Te alejas y haces "uhhh" como si fueras otro.}
 {370}{}{Uh-huh! ¡Te lo demostraré! Varios de nosotros vamos a ir allí cuando oscurezca MUCHO. }
 {371}{}{Uh-huh! ¡Te lo demostraré! Varios de nosotros vamos a ir allí esta noche. }
-{372}{}{¿Quieres venir? (La persona pequeña te mira de reojo). Pero tienes que ser muuuy silencioso. Muuuuuuy silencioso.}
+{372}{}{¿Quieres venir? (La persona pequeña te mira de reojo). Pero tienes que ser muuuy silenciosa. Muuuuuuy silenciosa.}
 {373}{}{Vaaaale [Le sigues].}
 {374}{}{Vaaaale, voy con… oooooh, ¿y esa arena de ahí?}
-{380}{}{No me gustas. ¡Eres un gran estúpido! (te saca la lengua). ¡Vete de aquí, estúpido!}
-{381}{}{¡NO LLAMAS A YO ESTUPIDIDO! ¡TU ESTUPIDIDO! ¡TU ESTUPIDIDO!}
+{380}{}{No me gustas. ¡Eres una gran estúpida! (te saca la lengua). ¡Vete de aquí, estúpida!}
+{381}{}{¡NO LLAMAS A YO ESTUPIDIDA! ¡TU ESTUPIDIDO! ¡TU ESTUPIDIDO!}
 {382}{}{¡No dispares! ¡No dispares a }
 {383}{}{Te enjugas las lágrimas y te vas}
 {384}{}{De acuerdo… esta vez. Tómalo con calma con el Jet, muchacho.}
 {390}{}{(Tuerce la vista). Suenas como mi mamá y mi papá cuando van a la cama.}
 {391}{}{¿Dónde ves tu incesto? Quiero ver también}
-{400}{}{¡No miento, estúpido! Varios de nosotros vamos a ir allí cuando oscurezca MUCHO. }
-{401}{}{¡No miento, estúpido! Varios de nosotros vamos a ir allí esta noche. }
-{403}{}{NO me llames estupidido, ESTUPIDIDO.}
+{400}{}{¡No miento, estúpida! Varios de nosotros vamos a ir allí cuando oscurezca MUCHO. }
+{401}{}{¡No miento, estúpida! Varios de nosotros vamos a ir allí esta noche. }
+{403}{}{NO me llames estupidida, ESTUPIDIDO.}
 {404}{}{Uh-huh [Le sigues].}
 {405}{}{Vaaaale, voy con… oooooh, ¿y esa arena de ahí?}
 {410}{}{Varios de nosotros vamos a ir allí cuando oscurezca MUCHO. }
 {411}{}{Varios de nosotros vamos a ir allí esta noche. }
-{412}{}{¿Quieres venir? (Te mira de reojo). Pero tienes que ser muuuy silencioso. Muuuuuuy silencioso.}
-{420}{}{¡No es una olla, ESTÚPIDO! ¡Es mi casco!}
+{412}{}{¿Quieres venir? (Te mira de reojo). Pero tienes que ser muuuy silenciosa. Muuuuuuy silenciosa.}
+{420}{}{¡No es una olla, ESTÚPIDA! ¡Es mi casco!}
 {421}{}{Vaya, perdona, temible guerrero con casco.}
-{422}{}{VUELVE a llamarme estúpido, mierdecilla, y veremos qué tal te protege ese 'casco' de los golpes en la cabeza.}
+{422}{}{VUELVE a llamarme estúpida, mierdecilla, y veremos qué tal te protege ese 'casco' de los golpes en la cabeza.}
 {423}{}{[Dejas que juegue con su "casco"].}
 {430}{}{(Te mira con sospecha). ¿Qué quieres?}
 {432}{}{Sólo quería saber a qué clase de juego estás jugando. ¡Parece divertido!}
@@ -141,7 +141,7 @@
 {487}{}{¡Mientes!}
 {488}{}{No te creo. Estás mintiendo.}
 {489}{}{Será mejor que te lo tomes con calma con el Jet, muchacho. Esa porquería te matará. Nos vemos.}
-{490}{}{¿En serio? Eso es asombroso. Puede que tenga que ir por allí en algún momento y verlo por mí mismo. Adiós.}
+{490}{}{¿En serio? Eso es asombroso. Puede que tenga que ir por allí en algún momento y verlo por mí misma. Adiós.}
 {500}{}{En el desierto. (Te mira de reojo con sospecha). Pero probablemente ya no vuelva por allí.}
 {501}{}{¿Estás seguro de que no querrías enseñármelo de todos modos?}
 {502}{}{De todos modos, ¿me puedes enseñar dónde lo viste?}
@@ -149,7 +149,7 @@
 {510}{}{En el desierto (mira a su alrededor y comienza a susurrar). Varios de nosotros vamos a ir allí cuando oscurezca MUCHO. }
 {511}{}{En el desierto (mira a su alrededor y comienza a susurrar). Varios de nosotros vamos a ir allí esta noche. }
 {513}{}{Nunca me quedo quieto cuando voy a por algo. Pero por esta vez…}
-{514}{}{Estaré tranquilo. Vamos, MacDuff.}
+{514}{}{Estaré tranquila. Vamos, MacDuff.}
 {515}{}{Eh, no creo que vieras a ningún 'insecto de metal'. Lo que era realmente es un helicóptero.}
 {516}{}{Esta noche no, gracias. Mañana por la mañana temprano.}
 {530}{}{¿Eh? (Frunce el ceño y se ajusta la olla en la cabeza). ¿Qué es un hielo-cóptero?}
@@ -164,7 +164,7 @@
 {543}{}{Vale, vale. No importa. Vuelve a jugar a tu juego.}
 {550}{}{NO miento! ¡Lo VIMOS en el desierto! ¡Puedo DEMOSTRARLO! (Te mira fijamente). Varios de nosotros vamos a ir allí cuando oscurezca un poco. }
 {551}{}{NO miento! ¡Lo VIMOS en el desierto! ¡Puedo DEMOSTRARLO! (Te mira fijamente). Varios de nosotros vamos a ir allí esta noche. }
-{552}{}{Ven conmigo, y te lo enseñaré. (Se burla). Si no estás ASUSTADO.}
+{552}{}{Ven conmigo, y te lo enseñaré. (Se burla). Si no estás ASUSTADA.}
 {556}{}{No, gracias. Vuelve a jugar a tu juego.}
 {560}{}{(Tomas el arma más hecha polvo de tu inventario y se la das al niño. Sonríe y la mantiene en alto, admirándola). ¡MI pistola! ¡Genial! }
 {561}{}{¡Y sé dónde conseguir munición para ella!}
@@ -204,10 +204,10 @@
 {721}{}{¿A dónde ha ido mi arma?}
 {722}{}{Sé que me diste un arma, ¿qué haría con ella?}
 {723}{}{¿Alguno de vosotros, capullos, se ha hecho con mi arma, la que me dio esta señora?}
-{5277}{}{! ¡Cuéntanos la historia del Enclave! Porfaaaa.}
+{5277}{}{! ¡Cuéntanos la historia del Enclave! Porfaaaaaa}
 {5278}{}{! Yaaaaay!}
 {5279}{}{!}
-{5282}{}{ cuando sea mayor.}
+{5282}{}{ cuando crezca.}
 {5321}{}{ jugar tambieeen?}
 {5334}{}{ quiere ser incesto!}
 {5353}{}{ no quiere disparar.}

@@ -15,4 +15,4 @@
 {351}{}{*BOSTEZO* Tengo que levantarme temprano.}
 {352}{}{Eh, todavía estoy creciendo. Necesito descansar.}
 {353}{}{Por qué no te vas a hablar a otro lado.}
-{354}{}{Chico, de verdad que tengo sueño. Si tan sólo dejaras de hablar...}
+{354}{}{Chica, de verdad que tengo sueño. Si tan sólo dejaras de hablar...}

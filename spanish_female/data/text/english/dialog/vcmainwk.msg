@@ -21,9 +21,9 @@
 {120}{}{La tienda está cerrada. Después de terminar esta lista para la Primer Ciudadano, me voy a casa.}
 {121}{}{Estoy ocupada. Vuelve en uno o dos días, y ya debería terminarlo.}
 {122}{}{Tengo todo un montón de material atrasado que hay que arreglar. Vuelve en uno o dos días.}
-{123}{}{Vaya, si es el "jefe" de mi papá.}
+{123}{}{Vaya, si es la "jefa" de mi papá.}
 {124}{}{¡¿Sí?!}
-{125}{}{¿QUIERES algo, o tan solo te vas a quedar ahí embobado como un imbécil?}
+{125}{}{¿QUIERES algo, o tan solo te vas a quedar ahí embobada como una imbécil?}
 {126}{}{Be-cil}
 {127}{}{Dejas de balbucear}
 {128}{}{Eh, tranquilidad. Sólo me había parado para ver qué es este lugar.}
@@ -168,7 +168,7 @@
 {265}{}{2 segundos}
 {266}{}{¡¿Dónde demonios has estado?! ¿Todavía correteando por el Yermo, vendiendo chatarra brillante a los tribales?}
 {267}{}{4 segundos}
-{268}{}{Eh, je je... ignórala, jefe, no sabe lo que dice... Val, cariño... verás, había esclavistas y...}
+{268}{}{Eh, je je... ignórala, jefa, no sabe lo que dice... Val, cariño... verás, había esclavistas y...}
 {269}{}{4 segundos}
 {270}{}{Corta el rollo, papá. ¿TODAVÍA sigues llamando a todo con el que te te encuentras "jefe"? Siempre he odiado eso de ti.}
 {271}{}{4 segundos}
@@ -216,7 +216,7 @@
 {313}{}{3 segundos}
 {314}{}{¡¿Qu-?! ¡Venga ya!}
 {315}{}{2 segundos}
-{316}{}{Preguntemos a tu "jefe".}
+{316}{}{Preguntemos a tu "jefa".}
 {317}{}{2 segundos}
 {318}{}{Bueno... puede reparar radios. Y cosas.}
 {319}{}{Ub nuwb ub}
@@ -228,7 +228,7 @@
 {325}{}{¿Ub nuwm ub?}
 {326}{}{2 segundos}
 {327}{}{¡Ja! Lo sabía. Descuidado, descuidado.}
-{328}{}{Tu "jefe" probablemente es mejor reparando cosas que tú.}
+{328}{}{Tu "jefa" probablemente es mejor reparando cosas que tú.}
 {329}{}{2 segundos}
 {330}{}{Bueno, Val, la última vez que te vi, apenas podías distinguir una tuerca de una llave.}
 {331}{}{2 segundos}
@@ -247,7 +247,7 @@
 {344}{}{¡Vaya! Me alegra tenerte de vuelta. Lo último que supe es que viajabas por el sur, usando viejos petroleros y haciendo volar plataformas petrolíferas.}
 {345}{}{¿Vuelves aquí en busca de un poco de paz y tranquilidad, señor Gran Héroe?}
 {346}{}{¿Vuelves aquí en busca de un poco de paz y tranquilidad, señora Gran Heroína?}
-{347}{}{¿He-roe? ¡Hey-hey! ¡Yup!}
+{347}{}{¿He-roína? ¡Hey-hey! ¡Yup!}
 {348}{}{Dejas de balbucear}
 {349}{}{Pensé en volver y establecerme en Ciudad Refugio un tiempo. La paz y la tranquilidad tampoco hacen daño, claro. Pero primero necesitaba algo...}
 {350}{}{Hoy nada, gracias. Cuídate.}

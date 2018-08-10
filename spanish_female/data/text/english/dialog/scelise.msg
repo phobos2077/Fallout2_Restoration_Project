@@ -46,11 +46,11 @@
 {145}{}{Bien, es tu día de suerte.}
 {146}{}{Esa es la clase de actitud que permite existir la esclavitud. Lo siento, pero no hay sitio para ti en nuestra organización.}
 {147}{}{Vale.}
-{148}{}{¿Así que has cambiado de opinión? ¿Listo para demostrar tu valía?}
+{148}{}{¿Así que has cambiado de opinión? ¿Lista para demostrar tu valía?}
 {149}{}{Claro.}
 {150}{}{¿Qué era lo que querías hacer?}
 {151}{}{¿No deberías estar haciendo algo? No vuelvas por aquí hasta que el trabajo esté terminado.}
-{152}{}{Ya he escuchado las noticias. Liberaste a los esclavos. ¡Buen trabajo! Así que, ¿listo para convertirte en Ranger?}
+{152}{}{Ya he escuchado las noticias. Liberaste a los esclavos. ¡Buen trabajo! Así que, ¿lista para convertirte en Ranger?}
 {153}{}{Sí.}
 {154}{}{No.}
 {155}{}{He oído que eres quien liberó a todos los esclavos de fuera de la ciudad. Eso que hiciste fue algo bueno, y sólo quería estrecharte la mano.}
@@ -61,11 +61,11 @@
 {160}{}{¿Prometes luchar contra la esclavitud allá donde surja la oportunidad y ayudar a tus compañeros Rangers siempre que lo necesiten?}
 {161}{}{Sí.}
 {162}{}{No.}
-{163}{}{Enhorabuena, ahora eres un Ranger.}
-{164}{}{Bien hallado, compañero Ranger. Temo que no haya mucho que puedas hacer aquí en este momento. La mayoría de nuestros efectivos ya está de patrulla. Correré la voz de que ahora eres uno de nosotros. No me gustaría que recibieras un disparo de uno de los nuestros.}
-{165}{}{Bien, siempre estamos buscando buena gente que fomente nuestra causa. Si cambias de opinión, búscame. ¿Estás seguro de no aceptar la oportunidad de unirte ahora?}
-{166}{}{Estoy seguro.}
-{167}{}{Bueno, ahora que lo mencionas, creo que me gustaría ser un Ranger.}
+{163}{}{Enhorabuena, ahora eres una Ranger.}
+{164}{}{Bien hallada, compañera Ranger. Temo que no haya mucho que puedas hacer aquí en este momento. La mayoría de nuestros efectivos ya está de patrulla. Correré la voz de que ahora eres una de nosotros. No me gustaría que recibieras un disparo de uno de los nuestros.}
+{165}{}{Bien, siempre estamos buscando buena gente que fomente nuestra causa. Si cambias de opinión, búscame. ¿Estás segura de no aceptar la oportunidad de unirte ahora?}
+{166}{}{Estoy segura.}
+{167}{}{Bueno, ahora que lo mencionas, creo que me gustaría ser una Ranger.}
 {168}{}{Ya veo. Bueno, represento a un grupo llamado Rangers de Nueva California. Alguien con un punto de vista como el tuyo podría estar cualificado para ser miembro. ¿Te interesa?}
 {169}{}{¡Genial! Apúntame.}
 {170}{}{Parece interesante. ¿Qué puedes contarme sobre los Rangers?}
@@ -73,7 +73,7 @@
 {172}{}{Vale.}
 {173}{}{Siendo así, tengo que pedirte que te apartes de mi vista. ¡Ahora!}
 {174}{}{Vale.}
-{175}{}{¡Un esclavista! Sal de aquí antes de que te borre ese tatuaje con una bala!}
+{175}{}{¡Una esclavista! Sal de aquí antes de que te borre ese tatuaje con una bala!}
 {176}{}{Claro.}
 {177}{}{¡Inténtalo!}
 {178}{}{Tenemos agentes y simpatizantes en algunas ciudades del norte. Estamos corriendo la voz y golpeando a los esclavistas siempre que podemos.}

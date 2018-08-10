@@ -48,7 +48,7 @@
 {147}{}{Creo que ahora hay una irreversible tendencia hacia la libertad y la democracia... pero eso podría cambiar.}
 {148}{}{Al entorno polucionado del Yermo no le vendría mal una cierta libertad para cambiar.}
 {149}{}{Ya no lo soporto más. Me voy a limitar a matarte.}
-{150}{}{No seas tonto. No es la polución lo que está dañando el medio ambiente. Son las impurezas de nuestro aire y nuestra agua las que lo están haciendo.}
+{150}{}{No seas tonta. No es la polución lo que está dañando el medio ambiente. Son las impurezas de nuestro aire y nuestra agua las que lo están haciendo.}
 {151}{}{Realmente tengo que irme.}
 {152}{}{No serías tan frívolo al respecto si estuvieras en tierra firme.}
 {153}{}{Bien, esa es precisamente la cuestión. El Enclave es una isla artificial rodeada de agua.}

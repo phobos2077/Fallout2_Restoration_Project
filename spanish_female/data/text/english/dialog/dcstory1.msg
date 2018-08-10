@@ -5,7 +5,7 @@
 {104}{}{¿Por qué estás haciendo esto?}
 {105}{}{¡Déjame!}
 {106}{}{¡Por favor, para!}
-{107}{}{¡Asesino!}
+{107}{}{¡Asesina!}
 {108}{}{¡Cómo has sido capaz de hacerle eso a Becky!}
 {109}{}{¿Qué te había hecho ella?}
 {110}{}{Así te pudras en el infierno.}
@@ -28,7 +28,7 @@
 {133}{}{Fegi.}
 {134}{}{Oh, muy bien. Gracias por preguntar. Becky tiene una historia familiar muy interesante. ¿La tuya también lo es?}
 {135}{}{Todo va bien, gracias. ¿Dónde estábamos? Creo que me estabas hablando de la historia de tu familia.}
-{136}{}{Sí. Yo soy el Elegido. Mi antepasado salvó al mundo de alguien llamado 'El Maestro'.}
+{136}{}{Sí. Yo soy la Elegida. Mi antepasado salvó al mundo de alguien llamado 'El Maestro'.}
 {137}{}{Sí. Se supone que uno de mis antepasados salvó al mundo de alguien llamado 'El Maestro'.}
 {138}{}{Me tengo que ir.}
 {139}{}{Eh, vale. Encantado de conocerte, Elegido... La verdad, sí que había oído hablar de un 'Maestro'...}

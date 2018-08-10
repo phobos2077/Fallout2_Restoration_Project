@@ -1,10 +1,10 @@
 {100}{}{Ves a una mujer de aspecto hosco pero con una gran sonrisa.}
 {101}{}{Ves a Jackpot Jane, la gerente de las peleas de bichos.}
 {102}{}{Ves a una mujer de apariencia competente con ojos inquisidores para los detalles. }
-{103}{}{Hola, amigo. ¿Vienes a ver los concursos de criaturas?}
+{103}{}{Hola, amiga. ¿Vienes a ver los concursos de criaturas?}
 {104}{}{Oooh. Peluche.}
 {105}{}{Peluche bonito.}
-{106}{}{Ah, ya veo. Debes de ser nuevo en la ciudad. Vale, te diré qué haremos. Te haré una apuesta especial durante los combates de mañana. ¿Quieres que lo haga por ti?}
+{106}{}{Ah, ya veo. Debes de ser nueva en la ciudad. Vale, te diré qué haremos. Te haré una apuesta especial durante los combates de mañana. ¿Quieres que lo haga por ti?}
 {107}{}{(Asientes) Ook, ook (y echas mano a tu cartera).}
 {108}{}{Mook? Gaga. Adiós peludo.}
 {109}{}{Buena idea. Vuelve por aquí mañana y si tu bicho ganó la pelea, te daremos tu dinero. ¿De acuerdo?}
@@ -44,7 +44,7 @@
 {143}{}{Hola. Soy Jackpot Jane y dirijo las luchas de bestias en la ciudad. ¿Estás aquí para apostar por el resultado de una de nuestras luchas primitivas? ¿Bestia contra bestia en su forma más cruda?}
 {144}{}{Pasen y vean, hagan sus apuestas. ¿Qué va a ser?}
 {145}{}{Eh, ¿qué pasa aquí?}
-{146}{}{Estoy listo para hacer mi apuesta.}
+{146}{}{Estoy lista para hacer mi apuesta.}
 {147}{}{Creo que estas peleas están manipuladas.}
 {148}{}{Sólo pasaba por aquí. Adiós.}
 {149}{}{Es bastante simple, en realidad: dos de las más temibles bestias a las que puedes echar un vistazo, aquí no hay trampa, te lo aseguro, serán conducidas al cuadrilátero. Unos segundos después tendrás el placer de ver el crudo poder de la Madre Naturaleza.}
@@ -60,7 +60,7 @@
 {159}{}{¡Ven a contemplar el duelo del día!}
 {160}{}{¡Criaturas salvajes peleando mientras tú ganas dinero! ¡TE ENCANTARÁ!}
 {161}{}{¡Consigue unos bolsillos llenos y expectativas plenas! ¡AQUÍ MISMO!}
-{162}{}{Lárgate de aquí.}
+{162}{}{Sácame de aquí de una puta vez.}
 {163}{}{No necesito tu tipo de negocio.}
 {164}{}{Tendrá que ser algún otro.}
 {165}{}{Limítate a alejarte de mi corral.}
@@ -97,7 +97,7 @@
 {196}{}{.}
 {197}{}{Hmm, creo que de ésta voy a pasar. }
 {198}{}{Creo que ya te tenido suficiente de esto por hoy. Te veré en otro momento. Adiós.}
-{199}{}{Aquí tienes, campeón. Toma tus ganancias. Esa era la última pelea por hoy. Vuelve mañana si buscas más acción.}
+{199}{}{Aquí tienes, campeona. Toma tus ganancias. Esa era la última pelea por hoy. Vuelve mañana si buscas más acción.}
 {200}{}{Aún hay más. ¿Quieres apostar en la siguiente pelea?}
 {201}{}{Claro que sí.}
 {202}{}{Creo que de la próxima voy a pasar.}

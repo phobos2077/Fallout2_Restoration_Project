@@ -5,7 +5,7 @@
 {104}{}{¿Ah? ¿Cluz? ¿Doldnin?}
 {105}{}{¿Famosos? ¿Qué os hace famosos?}
 {106}{}{¿Similitudes? ¿Qué queréis decir?}
-{107}{}{Quiero ser un un Hubologista. ¿Cómo me puedo unir?}
+{107}{}{Quiero ser un una Hubologista. ¿Cómo me puedo unir?}
 {108}{}{Oye, Vikki, Dave H. está enamorado de ti.}
 {109}{}{Genial. He de irme.}
 {110}{}{Él: Un pobre chico del Yermo. Ella: ¿Quizá un alineamiento ayudaría? Él: Sí. Oye, tú, ¿te gustaría un alineamiento?}
@@ -54,7 +54,7 @@
 {153}{}{Suena genial. ¿Cómo me uno?}
 {154}{}{Hmm. Creo que me quedaré con la vida de ahí fuera.}
 {155}{}{Pues muy bien. Esto, tengo que irme ya.}
-{156}{}{Ella: ¿Te atreves a llamar a Hub (alabada sea Su visión) un chiflado? ¿Aquí? ¿En una fortaleza dedicada a su estudio? Él: Sal de aquí. Si hablas con alguien mientras te vas, serás atacado. Infiel. Ambos: Adiós y hasta nunca.}
+{156}{}{Ella: ¿Te atreves a llamar a Hub (alabada sea Su visión) un chiflado? ¿Aquí? ¿En una fortaleza dedicada a su estudio? Él: Sal de aquí. Si hablas con alguien mientras te vas, serás atacada. Infiel. Ambos: Adiós y hasta nunca.}
 {157}{}{Quizá debería acabar con vosotros. De todas formas siempre he odiado vuestras películas. Veamos cómo hacéis una escena de muerte.}
 {158}{}{Vuestras películas apestan. Adiós.}
 {159}{}{Adiós.}
@@ -87,12 +87,12 @@
 {186}{}{Eso es todo. Adiós.}
 {187}{}{Ella: No ha sido tan malo, ¿verdad? Él: ¡Ahora sólo tienes que ir a hablar con AHS-7 y seremos compañeros en la Hubología! Ella: ¡Estoy tan excitada! Él: Conseguir nuevos reclutas me pone cachondo. Ella: Oh, cariño... Él: Oh, muñeca...}
 {188}{}{Creo que volveré más tarde.}
-{189}{}{Él: Qué pena. Ella: Ahora estás comprometido.}
+{189}{}{Él: Qué pena. Ella: Ahora estás comprometida.}
 {190}{}{-HECHO-}
 {191}{}{Él: Has tomado una decisión de las que cambian toda una vida. Ella: Y por desgracia, ha sido una equivocada. Ambos: ¡Guardias! ¡Guardias!}
 {192}{}{Maldición.}
 {193}{}{Él: Saludos, }
-{194}{}{Entonces, ¿qué voy a hacer ahora que soy un Hubologista?}
+{194}{}{Entonces, ¿qué voy a hacer ahora que soy una Hubologista?}
 {195}{}{¿Cómo puedo acostarme con vosotros?}
 {196}{}{Eso es todo lo que quería. Hasta luego!}
 {197}{}{}
@@ -103,7 +103,7 @@
 {202}{}{Ella: Es triste, porque el Padre Estelar sabe que tienes mucho atractivo, pero probablemente no deberíamos. Él: ¡Pero ambos estamos halagados! Ella: Quizá en algún momento podamos ir todos a Nuevo Reno y hacer una película juntos.}
 {203}{}{Oh, está bien. ¿Qué más hay que hacer como Hubologista?}
 {204}{}{Oh, está bien. Hasta luego.}
-{205}{}{Ella: Mentir es malo para tus neurodinas. Él: Esto es cierto. Ella: Es por eso que tengo que ser honesta y decirte que no te encuentro ningún atractivo. Él: ¡Pero aún así te amo como compañero seguidor de Hub!}
+{205}{}{Ella: Mentir es malo para tus neurodinas. Él: Esto es cierto. Ella: Es por eso que tengo que ser honesta y decirte que no te encuentro ningún atractivo. Él: ¡Pero aún así te amo como compañera seguidora de Hub!}
 {206}{}{Que sí, gracias. ¿Qué más hay que hacer como Hubologista?}
 {207}{}{Lo que sea. [murmurando] Idiotas.}
 {208}{}{¡Saludos, nuevos reclutas!}

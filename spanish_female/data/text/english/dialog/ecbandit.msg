@@ -10,7 +10,7 @@
 {204}{}{¡No te muevas! Esto es un atraco.}
 {205}{}{Arriba las manos.}
 {206}{}{Manos arriba.}
-{207}{}{No te pongas nervioso; esto habrá acabado en un minuto.}
+{207}{}{No te pongas nerviosa; esto habrá acabado en un minuto.}
 {208}{}{Déjame ver esas manos.}
 {209}{}{Cubridme, colegas.}
 {210}{}{No hagas esto aún más difícil.}

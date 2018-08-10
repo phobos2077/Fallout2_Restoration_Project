@@ -26,7 +26,7 @@
 {120}{}{Sólo quería comprar algunos suministros.}
 {121}{}{Ahora mismo no necesito que me curen tanto como algunas respuestas a unas preguntas.}
 {122}{}{Mucho gusto, pero ahora mismo no necesito ninguna cura. Gracias de todas formas, Doc. Adiós.}
-{123}{}{Te va a costar 50 dólares parchearte y dejarte como nuevo.}
+{123}{}{Te va a costar 50 dólares parchearte y dejarte como nueva.}
 {124}{}{Te costará 50 dólares remendar a tu amigo. Y dejarlo como nuevo, te lo garantizo.}
 {125}{}{Aquí está tu dinero, Doc.}
 {126}{}{Supongo que ahora mismo no me lo puedo permitir. Lo siento, Doc; tal vez en otro momento.}

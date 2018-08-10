@@ -42,7 +42,7 @@
 {141}{}{¿Vale que yo miro?}
 {142}{}{¿Te importa si le echo un vistazo?}
 {143}{}{Sí, Gruthar me lo mencionó y me pidió que echara un vistazo. ¿Te importa?}
-{144}{}{Bien... no te ofendas, pero ¿estás seguro de estar cualificado? Oh, no importa. Seguro que no puedes hacer que las cosas empeoren más de lo que ya lo están. Adelante.}
+{144}{}{Bien... no te ofendas, pero ¿estás segura de estar cualificada? Oh, no importa. Seguro que no puedes hacer que las cosas empeoren más de lo que ya lo están. Adelante.}
 {145}{}{No puedes hacer que las cosas empeoren más de lo que ya lo están. Adelante.}
 {146}{}{Vale, pero primero tú respondes preguntas mías.}
 {147}{}{De acuerdo, pero primero quiero preguntarte un par de cosas.}

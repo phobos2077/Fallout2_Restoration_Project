@@ -3,7 +3,7 @@
 {102}{}{Ves a un anciano enjuto que lleva una bata blanca.}
 {103}{}{¿Te puedo ayudar en algo?}
 {104}{}{¡Duele! ¡Ouch! ¡Owwwwwww!}
-{105}{}{Sí: estoy herido y parece que tú eres un doctor.}
+{105}{}{Sí: estoy herida y parece que tú eres un doctor.}
 {106}{}{Sí. Necesito un doctor para mi amigo.}
 {107}{}{¿Tienes algún estimulante? Me gustaría comprar alguno.}
 {108}{}{¿Quién eres?}
@@ -49,7 +49,7 @@
 {163}{}{Lo que ofreces, tristemente, no es aceptable.}
 {164}{}{¿Qué tal esto?}
 {165}{}{Es todo lo que quiero ofrecer. Hasta luego.}
-{166}{}{¿Estás herido? Tsk, tsk. Un remedio antiguo te curará. }
+{166}{}{¿Estás herida? Tsk, tsk. Un remedio antiguo te curará. }
 {167}{}{¡Va-le!}
 {168}{}{}
 {169}{}{Hemos acabado. ¡Ahora, vete y ten cuidado!}
@@ -88,7 +88,7 @@
 {202}{}{No puedo hacer nada por él, hasta que tengas los 1.000 dólares. Buenos días.}
 {203}{}{Buenos días.}
 {204}{}{No trato con los enemigos de mi pueblo. Mis humildes disculpas.}
-{205}{}{Honorable señor, le recomiendo que busque a los médicos de su culto.}
+{205}{}{Honorable señora, le recomiendo que busque a los médicos de su culto.}
 {206}{}{¿Qué puedes contarme sobre los implantes?}
 {207}{}{He ayudado a escribir el artículo sobre los implantes. Todo lo que se requiere es mi experiencia y a ti. ¿Qué tipos de implantes deseas?}
 {208}{}{¿Qué tipos hay?}

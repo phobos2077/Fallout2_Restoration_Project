@@ -20,7 +20,7 @@
 {119}{}{Más tarde, entonces.}
 {120}{}{}
 {121}{}{Vale.}
-{122}{}{Bienvenido de nuevo. ¿Quieres más licor?}
+{122}{}{Bienvenida de nuevo. ¿Quieres más licor?}
 {123}{}{Sí.}
 {124}{}{No.}
 {125}{}{Hemos cerrado. Piérdete.}

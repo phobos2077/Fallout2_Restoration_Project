@@ -51,7 +51,7 @@
 {144}{}{¡Saludos! El pueblo se ha expandido de nuevo tal y como esperábamos. Como siempre, eres bienvenido.}
 {145}{}{Ya no tenemos nada que temer de Ciudad Refugio, y podremos vivir aquí en paz.
  Gracias de nuevo, errante.}
-{146}{}{Sencillamente no vayas matando a cualquier cosa por ahí, simplón.}
+{146}{}{Sencillamente no vayas matando a cualquier cosa por ahí, simplona.}
 {147}{}{¿Qué demonios estás haciendo con esa puerta?}
 {148}{}{Ups...}
 {149}{}{Sácame de aquí.}

@@ -6,7 +6,7 @@
 {105}{}{¡Aléjate de mi!}
 {106}{}{¿Por qué?}
 {107}{}{¡Por favor, para!}
-{108}{}{¡Asesino!}
+{108}{}{¡Asesina!}
 {109}{}{¡Pobre Mamá! ¡Pagarás por ello!}
 {110}{}{Mamá...}
 {111}{}{Ella era tan buena con todos...}
@@ -35,7 +35,7 @@
 {140}{}{Claro.}
 {141}{}{Lo siento, ahora mismo no tengo 10 dólares.}
 {142}{}{Obviamente.}
-{143}{}{¿Crees que eres gracioso o algo? Busca un chiste mejor.}
+{143}{}{¿Crees que eres graciosa o algo? Busca un chiste mejor.}
 {144}{}{¿A qué viene esa cara tan larga?}
 {145}{}{Da igual, adiós.}
 {146}{}{He oído que había algunos gatos que eran tan grandes como tú y yo. Solían comer animales tan grandes como un brahmin. Eso da miedo.}

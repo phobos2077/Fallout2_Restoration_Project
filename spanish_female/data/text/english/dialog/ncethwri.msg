@@ -28,8 +28,8 @@
 {231}{}{¡Oh, pobre!… ¿no tienes un hogar? }
 {232}{}{(Busca en su ropa un momento). Ojalá tuviera algo de comida o agua para ti…}
 {240}{}{Pues, sí, es así (sonríe). Soy Missus Ethyl Wright, líder de la Unión por la Templanza aquí, en Nuevo Reno. ¿Y quién eres tú?}
-{241}{}{Soy un viajero que busca un Kit de Creación del Jardín del Edén. ¿Sabes de alguno?}
-{242}{}{Soy un viajero que busca un lugar llamado Refugio 13. ¿Lo conoces?}
+{241}{}{Soy una viajera que busca un Kit de Creación del Jardín del Edén. ¿Sabes de alguno?}
+{242}{}{Soy una viajera que busca un lugar llamado Refugio 13. ¿Lo conoces?}
 {243}{}{¿Unión por la Templanza?}
 {244}{}{¿La señora Wright? ¿Su marido es el líder de la Familia Wright?}
 {245}{}{Usted es la madre de Richard, ¿verdad? He oído que falleció recientemente.}
@@ -41,7 +41,7 @@
 {260}{}{¡Oh, Dios! Eres un TRIBAL, ¿verdad? ¡Tu acento te delata! (Levanta la voz y comienza a hablar lentamente).
  BIEN: ¡SOY LA PRIMERA EN DARTE LA BIENVENIDA A NUESTRA CIUDAD!}
 {261}{}{¿Qué dice? Yo simple tribal. No entiendo a ti.}
-{262}{}{Mujer, ni soy sordo ni un estúpido. Puedo comprenderte BASTANTE bien sin que levantes la voz.}
+{262}{}{Mujer, ni soy sorda ni un estúpida. Puedo comprenderte BASTANTE bien sin que levantes la voz.}
 {263}{}{Eh, gracias. Tenía unas preguntas acerca de Nuevo Reno…}
 {264}{}{TENGO QUE IRME AHORA.}
 {270}{}{¡HE DICHO QUE *ME* DEJES… (se señala) …DARTE LA BIENVENIDA A TI… (te señala) ...A LA... (señala a su alrededor) …CIUDAD DE LAS LUCES!}
@@ -77,7 +77,7 @@
 {321}{}{Nada como un poco de amor comunal, algo de juego, y pasarse el día al lado de licores destilados de leche de yegua. ¡Eso es lo que hace tan fantástico ser un TRIBAL!}
 {322}{}{Nada como un poco de amor comunal, algo de juego, y pasarse el día al lado de licores destilados de leche de yegua. ¡Eso es lo que hace tan fantástico ser una TRIBAL!}
 {323}{}{Dejaré que te lo imagines. De acuerdo con la respuesta anterior, creo que sería mejor así.}
-{324}{}{¡Por las pelotas de los espíritus del cielo, sí! A mí mismo me encanta disfrutar de ESOS TRES pecados. }
+{324}{}{¡Por las pelotas de los espíritus del cielo, sí! A mí misma me encanta disfrutar de ESOS TRES pecados. }
 {325}{}{¡Por Richard Milhous Nixon y su santa madre! ¡No sé qué prácticas seguís los tribales en vuestros antros de iniquidad,
  pero en Nuevo Reno las cosas están cambiando! ¡Somos gente CIVILIZADA!}
 {326}{}{No tenemos ninguno de los males que mencionas, en mi poblado. Quizá podríamos enseñaros a la gente "civilizada" algunas cosas.}
@@ -204,7 +204,7 @@
 {515}{}{(Los ojos se le llenan de lágrimas). Gracias, forastero. Le has dado un golpe al mal en Nuevo Reno. No sé cómo
  agradecértelo…}
 {516}{}{Los agradecimientos sobran. Cuídese, señora Wright.}
-{517}{}{Ando un poco corto de efectivo...}
+{517}{}{Ando un poco corta de efectivo...}
 {520}{}{Entonces remediemos eso. Sígueme.}
 {521}{}{(La sigues).}
 {522}{}{En realidad, no hace falta que me dé las gracias. Cuídese, señora Wright.}
@@ -226,7 +226,7 @@
 {546}{}{Completamente cierto. señora Wright, su marido está vendiendo alcohol aquí en Nuevo Reno y promoviendo la bebida. Está haciendo
  la ciudad un peor lugar para vivir. Ayúdeme, y pondremos fin a todo ese sucio negocio.}
 {547}{}{Si no me cree, compruébelo en la estación de tren. Verá a qué me refiero.}
-{548}{}{Ya veo que no podemos decirnos nada más el uno al otro, a menos que te lo pueda demostrar.}
+{548}{}{Ya veo que no podemos decirnos nada más la una a la otra, a menos que te lo pueda demostrar.}
 {550}{}{Pero ahora no quiero que dañes a ninguno de mis hijos, ¡nada de armas! No son malos chicos, sólo han sido... engañados.
  Tendré que ver lo que puedo hacer para cambiar eso...}
 {551}{}{Vale, no se preocupe... no habrá bajas.}

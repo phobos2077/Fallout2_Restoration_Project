@@ -2,7 +2,7 @@
 {101}{}{Ves a Goris, el estudiante.}
 {102}{}{Ves una figura humanoide que viste una túnica con capucha y mangas largas. Hay algo antinatural
  en su apariencia, pero no sabes exactamente qué es.}
-{103}{}{Hola, soy Goris. No te reconozco, ¿eres nuevo aquí?}
+{103}{}{Hola, soy Goris. No te reconozco, ¿eres nueva aquí?}
 {104}{}{Yo }
 {105}{}{Me voy, yo.}
 {106}{}{Sí, ¿y qué?}
@@ -17,7 +17,7 @@
 {113}{}{¡Así que eres un extranjero! He visto otros como tú; algunos siguen aquí en el Refugio, pero tú
  pareces distinto. Pareces más 'experimentado', si entiendes a que me refiero. Seguro que has estado por ahí
  haciendo un poco de todo. ¿Estoy en lo cierto?}
-{114}{}{Eh... '¿experimentado?'}
+{114}{}{Eh... '¿experimentada?'}
 {115}{}{Me voy, yo.}
 {116}{}{Lo siento, creo que debo irme.}
 {117}{}{Sí, he vivido algunas aventuras. Bueno, si no te importa responder unas preguntas, te
@@ -48,7 +48,7 @@
  algo ocurriese.}
 {140}{}{Ya veo.}
 {141}{}{Ah, demasiado cobarde para hacerlo por su cuenta. Ya lo pillo.}
-{142}{}{A mí tampoco me gusta viajar solo, no te culpo.}
+{142}{}{A mí tampoco me gusta viajar sola, no te culpo.}
 {143}{}{Eh... hace unos meses, de hecho. Llegué aquí desde la costa, hace algún tiempo.}
 {144}{}{Caray, eres bastante nuevo aquí. Si no te importa, necesito saber más.}
 {145}{}{No te has extendido mucho con esa respuesta. ¿Te importa contarme más?}
@@ -99,7 +99,7 @@
  creo que tú y yo no compartimos los mismos ideales. Una aventura conjunta no resultaría bien.}
 {178}{}{Vale, tú te lo pierdes.}
 {179}{}{Entiendo. Quizá lo reconsideres más tarde.}
-{180}{}{¿Qué? ¿No soy suficientemente bueno para acompañarte? !Que te jodan!}
+{180}{}{¿Qué? ¿No soy suficientemente buena para acompañarte? !Que te jodan!}
 {181}{}{Vale, lo entiendo.}
 {182}{}{No tengo nada que decirte. No vuelvas a molestarme.}
 {183}{}{Te dije que me dejaras en paz. Quizá la violencia es el único lenguaje que entiendes.}
@@ -119,7 +119,7 @@
 {192}{}{Lo siento, no pretendía entrometerme en tus asuntos privados.}
 {193}{}{Ya, bueno, ¡no lo hagas de nuevo!}
 {194}{}{Lo que sea. Pero necesito algo de información.}
-{195}{}{Lo siento, Goris. Estoy un poco nervioso hoy. Quería hacerte algunas preguntas, si no te importa.}
+{195}{}{Lo siento, Goris. Estoy un poco nerviosa hoy. Quería hacerte algunas preguntas, si no te importa.}
 {196}{}{Has tenido experiencias interesantes. Estás hecho de la pasta de los héroes, y
  te envidio. Gracias por contármelo todo.}
 {197}{}{Bueno... eres un carnicero, y creo que tengo que irme. ¡Gracias, y adiós!}
@@ -140,7 +140,7 @@
 {211}{}{Lo siento, pero no me gusta que me engañen. Deberías irte.}
 {212}{}{Entiendo que creyeras necesario ocultar tu identidad. Creo que podemos trabajar juntos, así
  que, por favor, quédate... pero no vuelvas a engañarme, Goris.}
-{213}{}{. Aquí soy nuevo.}
+{213}{}{. Aquí soy nueva.}
 {214}{}{. Sí, soy de fuera del Refugio.}
 {215}{}{.}
 {216}{}{?}

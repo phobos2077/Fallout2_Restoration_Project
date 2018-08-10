@@ -11,7 +11,7 @@
 {302}{}{Ahora no hablar. Correr.}
 {303}{}{Gracias por tu ayuda.}
 {304}{}{¡Muchísimas gracias!}
-{305}{}{Eres un santo.}
+{305}{}{Eres una santa.}
 {306}{}{¿Qué haces? Debemos irnos.}
 {307}{}{Por favor, ayúdanos a escapar.}
 {320}{}{¡Malo!}
@@ -91,7 +91,7 @@
 {446}{}{Tu libre.}
 {447}{}{ amigo. Él mata a Mezgur. Tú marchas. }
 {448}{}{ amiga. Ella mata a Mezgur. Tú marchas.}
-{460}{}{¿Muerto? ¡Yo gracias tú! Nosotros marchar pronto. Adiós. Tú, amigo.}
+{460}{}{¿Muerto? ¡Yo gracias tú! Nosotros marchar pronto. Adiós. Tú, amiga.}
 {461}{}{¿Qué? ¿Metzger está muerto? Oh, ¡muchísimas gracias! Será mejor que nos vayamos antes de que aparezcan más. Gracias de nuevo.}
 {462}{}{De nada. Ahora lárgate de aquí.}
 {463}{}{Cuídate.}
@@ -108,8 +108,8 @@
 {482}{}{Oh, nada.}
 {500}{}{¿Eh?}
 {501}{}{Da igual. Eres libre de irte. Metzger está muerto.}
-{510}{}{¿Qué? ¿Libre? ¿Hombre malo irse? ¡Nosotros marchar ahora! Gracias. ¡Tú amigo! ¡Adiós!}
-{511}{}{¿Libre? ¿Qué? ¿Los has matado a todos? ¡Muchas gracias! Será mejor que nos vayamos mientras podamos. Gracias de nuevo, ¡eres un santo!}
+{510}{}{¿Qué? ¿Libre? ¿Hombre malo irse? ¡Nosotros marchar ahora! Gracias. ¡Tú amiga! ¡Adiós!}
+{511}{}{¿Libre? ¿Qué? ¿Los has matado a todos? ¡Muchas gracias! Será mejor que nos vayamos mientras podamos. Gracias de nuevo, ¡eres una santa!}
 {520}{}{¡Yo te maldigo!}
 {521}{}{¡Púdrete en el infierno!}
 {522}{}{Pagarás por esto.}

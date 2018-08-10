@@ -130,8 +130,8 @@
 {398}{}{¿Me puedes dar tu autógrafo?}
 {399}{}{Um, ¿te gustaría que fuéramos a tomar unas copas? Si te van las mujeres, quiero decir.}
 {400}{}{::Te ignora::}
-{420}{}{¿Quieres saltar en el cuadrilátero conmigo, campeón?}
-{421}{}{Menudo equipamiento llevas.}
+{420}{}{¿Quieres saltar al cuadrilátero conmigo, campeona?}
+{421}{}{Tienes una buena unidad ahí.}
 {422}{}{¿Necesitas a alguien que se encargue de eso que tienes, campeón?}
 {423}{}{¿Dejas el boxeo para entrar en el porno? Es lo mismo, en distinto escenario.}
 {424}{}{¿También vas a entrar en el negocio? Bienvenido a bordo, campeón.}
@@ -158,7 +158,7 @@
 {459}{}{Um, si quiere un poco de compañía más tarde, señora…}
 {460}{}{¿Quiere lo de siempre, señora?}
 {465}{}{No, gracias, lo siento. Tendría mejor sexo con mi lápiz de labios.}
-{466}{}{¿Contigo? Lo siento, NUNCA estaré tan desesperada.}
+{466}{}{¿Tú? Lo siento, NUNCA estaré tan desesperada.}
 {467}{}{Eh, ¿tu amigo con el hueso en la nariz está sobrecompensando alguna cosa?}
 {468}{}{¿Tu amigo con el hueso en la nariz está saliendo con alguien?}
 {469}{}{El tipo con el hueso en la nariz es guapo a su manera. Viéndolo desde un punto de vista sadomasoquista.}
@@ -178,14 +178,14 @@
 {483}{}{Necesito acostarme.}
 {484}{}{¿Trabajos de mierda? Ya te contaré algo sobre ellos en otro momento.}
 {485}{}{No tienes ningún problema con el porno, ¿verdad?}
-{486}{}{¿Eres la nueva entonadora?}
+{486}{}{¿Eres la nueva estimuladora?}
 {487}{}{¿Tienes una toalla? Uno de los actores tuvo un… accidente.}
 {488}{}{Simplemente no muerdas a los actores, y todo irá bien.}
 {489}{}{Ojalá algunos de los actores se tomaran una ducha. Y me refiero a una ducha normal.}
 {490}{}{Um, ¿eres nuevo aquí?}
 {491}{}{¿Lubricadores? Al final te acostumbras.}
 {500}{}{No, gracias, lo siento. Tendría mejor sexo con mi lápiz de labios.}
-{501}{}{¿Contigo? Lo siento, NUNCA estaré tan desesperada.}
+{501}{}{¿Tú? Lo siento, NUNCA estaré tan desesperada.}
 {502}{}{No he visto a los Hermanos por aquí… mira a ver en la oficina.}
 {503}{}{Las entonadoras tienen el importante trabajo de mantener duros a los actores.}
 {504}{}{De verdad que quiero actuar.}
@@ -199,7 +199,7 @@
 {512}{}{Necesito acostarme.}
 {513}{}{¿Trabajos de mierda? Ya te contaré algo sobre ellos en otro momento.}
 {514}{}{No tienes ningún problema con el porno, ¿verdad?}
-{515}{}{¿Eres la nueva entonadora?}
+{515}{}{¿Eres la nueva estimuladora?}
 {516}{}{¿Tienes una toalla? Uno de los actores tuvo un… accidente.}
 {517}{}{Simplemente no muerdas a los actores, y todo irá bien.}
 {518}{}{Ojalá algunos de los actores se tomaran una ducha. Y me refiero a una ducha normal.}

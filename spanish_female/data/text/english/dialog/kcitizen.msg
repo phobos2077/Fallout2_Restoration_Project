@@ -2,17 +2,17 @@
 {101}{}{Ves a una de las habitantes de Klamath.}
 {150}{}{¿Por qué no te vuelves a tu tribu?}
 {151}{}{Te daré unos bonitos collares si me dejas tranquilo.}
-{152}{}{Tribal bonito, tribal bueno, no me hagas daño.}
+{152}{}{Tribal bonita, tribal buena, no me hagas daño.}
 {153}{}{Ojala tuviéramos una muralla en el pueblo.}
 {154}{}{No tengo nada que puedas robarme, vete.}
 {155}{}{¿Por qué me miras así?}
-{156}{}{Genial, otro salvaje.}
+{156}{}{Genial, otra salvaje.}
 {157}{}{¿Por qué no te vas al Gecko Dorado?}
 {158}{}{Aléjate de mi.}
 {159}{}{No queremos que causes problemas.}
 {160}{}{Debes haber venido del norte de La Guarida.}
 {161}{}{Lo último que necesitamos son más de los tuyos.}
-{170}{}{Hola, forastero.}
+{170}{}{Hola, forastera.}
 {171}{}{Espero que la caza sea buena esta temporada.}
 {172}{}{Últimamente han desaparecido un montón de brahmines.}
 {173}{}{(Crunch, crunch) La cecina de los Dunton está muy rica.}
@@ -35,15 +35,15 @@
 {191}{}{¿Hay más gente como tú en tu tribu?}
 {192}{}{Espero que te guste Klamath.}
 {193}{}{Ojala tuviéramos más gente como tú por aquí.}
-{194}{}{¿Qué pasa, amigo?}
+{194}{}{¿Qué pasa, amiga?}
 {195}{}{Que te vaya bien.}
 {196}{}{Si necesitas comprar cualquier cosa, ve a Casa Buckner.}
 {197}{}{No te pareces en nada a Sulik.}
-{198}{}{Eres el tribal más civilizado que he conocido nunca.}
+{198}{}{Eres la tribal más civilizada que he conocido nunca.}
 {199}{}{Ten cuidado con los geckos que han cambiado de color.}
-{200}{}{Hola, viajero.}
+{200}{}{Hola, viajera.}
 {201}{}{Me alegro de tenerte en Klamath.}
-{202}{}{Hola, extranjero.}
+{202}{}{Saludos, forastera.}
 {203}{}{Ten cuidado con los Dunton; son peligrosos.}
 {204}{}{El barrio de los tramperos está plagado de ratas.}
 {1000}{}{Anciana}
@@ -64,7 +64,7 @@
 {1103}{}{Nuestro hermoso poblado.}
 {1104}{}{Es un puesto comercial a pocos días al este de aquí.}
 {1105}{}{El Refugio es el paraíso.}
-{1106}{}{Eres el Elegido.}
+{1106}{}{Tú eres la Elegida.}
 {1107}{}{Él nos cura con sus hierbas y su magia. Está en la parte norte de nuestro poblado.}
 {1108}{}{Él nos cura con sus hierbas y su magia. Está en la parte norte de nuestro poblado.}
 {1109}{}{Es un polvo mágico que te curará, pero también te dejará soñoliento.}

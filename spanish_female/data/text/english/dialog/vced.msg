@@ -4,9 +4,9 @@
 {103}{}{Juraría que he oído hablar a uno de esos brahmines. "Yo muu", o algo así.}
 {104}{}{Ha sido una temporada floja para la venta de brahmin.}
 {105}{}{No tengo ni idea de dónde sigue viniendo toda esa mierda de brahmin. Simplemente aparece.}
-{106}{}{Bien, hola, forastero. Soy Ed, el tratante de brahmines local. ¿Puedo ayudarte en algo?}
+{106}{}{Bien, hola, forastera. Soy Ed, el tratante de brahmines local. ¿Puedo ayudarte en algo?}
 {107}{}{Me alegra verte de nuevo. ¿Qué puedo hacer por ti?}
-{108}{}{¿Conoces a un comerciante llamado Vic? Dijo que te compró esta cantimplora de Refugio.}
+{108}{}{¿Conoces a un comerciante llamado Vic? He oído que él te compró esta cantimplora de Refugio.}
 {109}{}{¿Conoces a un comerciante llamado Vic?}
 {110}{}{Mi amigo Vic aquí presente dice que te compró esta cantimplora de Refugio.}
 {111}{}{¿Ha habido suerte recordando dónde conseguiste esta cantimplora?}
@@ -45,7 +45,7 @@
 {143}{}{Tenía algunas preguntas más...}
 {144}{}{Gracias por la información.}
 {145}{}{Dispara. ¿Qué quieres saber?}
-{146}{}{¿Conoces a un comerciante llamado Vic? Dijo que te compró esta cantimplora de Refugio.}
+{146}{}{¿Conoces a un comerciante llamado Vic? He oído que él te compró esta cantimplora de Refugio.}
 {147}{}{¿Conoces a un comerciante llamado Vic?}
 {148}{}{Mi amigo Vic aquí presente dice que te compró esta cantimplora de Refugio.}
 {149}{}{¿Ha habido suerte recordando dónde conseguiste esta cantimplora?}

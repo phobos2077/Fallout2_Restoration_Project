@@ -4,13 +4,13 @@
 {102}{}{Ves a un Ciudadano con un uniforme azul brillante. Es como el uniforme del Morador del Refugio, pero sin
  un número a la espalda.}
 {103}{}{::aplausos::}
-{104}{}{¡Es el héroe! ¡Mirad!}
-{105}{}{¡Dios mío! ¡Es el héroe, aquí, en Ciudad Refugio!}
+{104}{}{¡Es la heroína! ¡Mirad!}
+{105}{}{¡Dios mío! ¡Es la heroína, aquí, en Ciudad Refugio!}
 {106}{}{Que le vaya bien, capitán.}
 {107}{}{Ciudad Refugio prevalece, capitán.}
 {108}{}{¿Se quedará a cenar, capitán?}
-{109}{}{Que te vaya bien, Ciudadano.}
-{110}{}{Ciudad Refugio prevalece, Ciudadano.}
+{109}{}{Que te vaya bien, Ciudadana.}
+{110}{}{Ciudad Refugio prevalece, Ciudadana.}
 {111}{}{¿Te quedarás a cenar?}
 {112}{}{¡Un mutante! ¡Guardias! ¡Guardias!}
 {113}{}{¡Un necrófago! ¡Guardias! ¡Guardias!}
@@ -24,9 +24,9 @@
 {121}{}{He oído que viajaste hacia el sur hasta San... Fran... Cisco. ¿Es cierto?}
 {122}{}{Quizá Ciudad Refugio *debería* da la bienvenida a los forasteros.}
 {123}{}{¿Era cierto? ¿El gobierno del viejo mundo seguía librando la guerra?}
-{124}{}{Deberías registrar tus viajes en la computadora de Ciudad Refugio para que otros puedan leer sobre ellos.}
-{125}{}{Puedes estar aquí todo el tiempo que quieras, héroe.}
-{126}{}{Deberías registrar tus heroicas hazañas contra el Enclave en una bonita y ordenada lista.}
+{124}{}{Deberías catalogar tus viajes en la computadora de Ciudad Refugio para que otros puedan leer sobre ellos.}
+{125}{}{Te invitamos a quedarte aquí todo el tiempo que desees, heroína.}
+{126}{}{Deberías catalogar tus heroicas hazañas contra el Enclave en una bonita y ordenada lista.}
 {127}{}{*Bosteza*... ¿hrmnnn? ¿Sí? ¿Qué pasa?}
 {128}{}{Es un poco tarde para las visitas.}
 {129}{}{La MAYORÍA de Ciudadanos debería estar durmiendo a esta hora.}
@@ -39,17 +39,16 @@
 {136}{}{¿Algo va mal, capitán?}
 {137}{}{Espero que ninguno de esos apestosos forasteros estén dando problemas, capitán.}
 {138}{}{¿Quiere un poco de comida para llevársela a sus guardias, capitán?}
-{139}{}{Que te vaya bien, Ciudadano.}
-{140}{}{Ciudad Refugio prevalece, Ciudadano.}
-{141}{}{Como Ciudadano, una parte de tu deber cívico es confeccionar y mantener listas.}
-{142}{}{Por favor, quédate a cenar, Ciudadano. Nuestro siervo está haciendo un delicioso gulash.}
+{139}{}{Que te vaya bien, Ciudadana.}
+{140}{}{Ciudad Refugio prevalece, Ciudadana.}
+{141}{}{Como Ciudadana, una parte de tu deber cívico es confeccionar y mantener listas.}
+{142}{}{Por favor, quédate a cenar, Ciudadana. Nuestro siervo está haciendo un delicioso gulash.}
 {143}{}{He pasado la mayor parte del día haciendo una lista para el procónsul, y luego revisándola. Me encanta hacer
  listas.}
-{144}{}{Trabajo en la oficina de Listas. La mayoría de nosotros lo hace. Aquí en Ciudad Refugio *adoramos* hacer listas.}
-{145}{}{He pasado la mayor parte del día actualizando una lista para la Oficina de Listas. Honestamente, ha sido un buen
- y productivo trabajo.}
+{144}{}{Trabajo en la Oficina de Listas. La mayoría de nosotros lo hace. Aquí en Ciudad Refugio *adoramos* hacer listas.}
+{145}{}{He pasado la mayor parte del día actualizando una lista para la Oficina de Listas. Honestamente, ha sido un buen y productivo trabajo.}
 {146}{}{He oído que realmente has viajado al mundo exterior. ¿Cómo sobreviviste entre esos sucios forasteros?}
-{147}{}{¡Oh! Eres el nuevo Ciudadano. Bienvenido a Ciudad Refugio.}
+{147}{}{¡Oh! Eres la nueva Ciudadana. Bienvenida a Ciudad Refugio.}
 {148}{}{¿Necesitas un lugar en el que quedarte mientras estás en la ciudad?}
 {149}{}{El Consejo toma las mejores decisiones para nosotros.}
 {150}{}{Debemos cuidarnos de mantener nuestra bella ciudad limpia.}
@@ -70,5 +69,5 @@
 {165}{}{¿Los siervos? Oh, los usamos en tareas de baja categoría.}
 {166}{}{Hmmmm. Necesito conseguir un siervo para limpiar el almacén...}
 {167}{}{Un siervo debería venir por aquí a encargarse de las malas hierbas del jardín...}
-{168}{}{Sí, ya huelo... er, veo, que eres un forastero.}
-{169}{}{¿Eres un forastero? Qué pintoresco.}
+{168}{}{Sí, ya huelo... er, veo, que eres una forastera.}
+{169}{}{Eres una forastera? Qué pintoresca.}

@@ -1,8 +1,8 @@
 {100}{}{Ves a un técnico.}
 {101}{}{Ves a un técnico del Enclave.}
 {102}{}{Ves a un tipo embutido en una bata de laboratorio con un protector de bolsillo lleno de bolígrafos. Tiene esa mirada un tanto confusa de quien es nuevo en su trabajo.}
-{103}{}{¿Sí, señor?}
-{104}{}{Yo nuevo aquí. Necesito respuesta.}
+{103}{}{¿Sí, señora?}
+{104}{}{Yo nueva aquí. Necesito respuesta.}
 {105}{}{Sólo digo hola. Marcho.}
 {106}{}{Soy nuevo aquí. Necesitaría preguntarte algo para familiarizarme un poco más con la base.}
 {107}{}{Perdona por molestarte. Sólo quería saludar.}
@@ -36,7 +36,7 @@
 {141}{}{Pues deberían estar en Mantenimiento, justo al lado de la torre de control aéreo.}
 {142}{}{De acuerdo.}
 {143}{}{Entiendo.}
-{153}{}{¿Estás loco? ¿Cómo se te ocurre estar por aquí sin uniforme? ¡Rápido, vístete!}
+{153}{}{¿Estás tonta, andando por aquí sin uniforme? ¡Vístete!}
 {154}{}{Como te pille el sargento sin uniforme, te va a caer un buen paquete.}
 {155}{}{¿Por qué no llevas puesto el uniforme?}
 {156}{}{¡Mierda! ¡Nos invaden! ¡Alerta!}

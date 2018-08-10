@@ -36,6 +36,6 @@
 {306}{}{Apuesto a que las cosas volverán a la normalidad por aquí, ahora que ya no hay fantasmas.}
 {320}{}{Vamos a intercambiar nuestros productos con los Escorias.}
 {321}{}{Los Escorias se han ofrecido a suministrar agua a Modoc durante la sequía.}
-{322}{}{Tú eres el que nos ha ayudado, ¿no? ¡Eres un héroe!}
+{322}{}{Tú eres la que nos ha ayudado, ¿no? ¡Eres una heroína!}
 {323}{}{Has salvado al pueblo de Modoc.}
 {324}{}{Siempre serás bienvenido en Modoc.}

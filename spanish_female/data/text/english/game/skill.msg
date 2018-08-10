@@ -1,7 +1,7 @@
 {100}{}{Armas pequeñas}
 {101}{}{Armas grandes}
 {102}{}{Armas de energía}
-{103}{}{Desarmado}
+{103}{}{Desarmada}
 {104}{}{Armas melee}
 {105}{}{Armas arrojadizas}
 {106}{}{Primeros auxilios}
@@ -53,7 +53,7 @@
 {316}{}{+ (5 x SU)}
 {317}{}{+ (2 x (RE + IN))}
 {500}{}{Curas %d puntos de salud.}
-{501}{}{Ya estás bastante sano.}
+{501}{}{Ya estás bastante sana.}
 {502}{}{%s parece bastante sano.}
 {503}{}{No consigues curar nada.}
 {505}{}{Ganas %d de experiencia por usar tus habilidades.}

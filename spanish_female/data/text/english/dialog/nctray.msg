@@ -9,13 +9,13 @@
 {210}{}{Le he ido contando a todo el mundo que tú y yo somos ÍNTIMOS. Que cuando yo digo una cosa, es como si tú hubieras dado las órdenes.}
 {211}{}{Tuviste suerte de que yo estaba aquí para salvarte el culo, o el Enclave se te habría DESAYUNADO.}
 {212}{}{Tú, heroína. Asegúrate de decirle a todo el mundo que T-Ray es tu hombre, ¿vale?}
-{220}{}{Vaya, estamos en presencia de la realeza. Gran héroe entrando...}
+{220}{}{Vaya, estamos en presencia de la realeza. Gran heroína entrando...}
 {221}{}{Ya sabes, podrías haberte pasado por aquí antes de marcharte para hacer toda esa mierda, y entonces yo podría haberte ayudado a zurrar al Presidente.}
 {222}{}{Yo también habría ido a por el Enclave, pero estaba ocupado usando un comunicador para arreglar unos asuntos.}
 {230}{}{¿Cuántos caballos de vapor tiene esa cosa que llevas?}
 {231}{}{¿Cómo haces para usar la letrina con eso puesto?}
 {232}{}{¿Hay alguna posibilidad de que me prestes un momento la armadura? No te lo voy a quitar, sólo la quiero prestada.}
-{250}{}{Pero si es el tipo que está aquí para volver a oprimirme.}
+{250}{}{Pero si es la tipeja que está aquí para volver a oprimirme.}
 {251}{}{Sí, el Impala es un buen coche, pero nada como un Omni.}
 {252}{}{Cada vez que hago el amor contigo, es como lava ardiente…}
 {253}{}{Maldición, este coche necesita una cuerda metálica alrededor de la placa de matrícula.}
@@ -45,8 +45,8 @@
 {283}{}{¿Dónde conseguiste ese Highwayman? Me gusta la pinta que tiene.}
 {284}{}{Ese coche que tienes en el garaje me pertenece.}
 {285}{}{¿Tú eres quien robó mi coche, capullo?}
-{286}{}{Soy el lugarteniente de Bishop, }
-{287}{}{Soy uno de los lugartenientes de Bishop. Estoy aquí por el coche.}
+{286}{}{Soy la lugarteniente de Bishop, }
+{287}{}{Soy una de los lugartenientes de Bishop. Estoy aquí por el coche.}
 {288}{}{Estoy aquí para recoger las baterías del señor Bishop.}
 {289}{}{¿Puedes actualizar el Highwayman?}
 {290}{}{¿Puedo comprarte algunas baterías?}
@@ -69,13 +69,13 @@
 {341}{}{¿"Ajustes?" ¿Qué tipo de ajustes?}
 {342}{}{¿Vendérselo a BISHOP? Oye, idiota...Bishop está mu... er, quiero decir, puedo igualar la oferta de Bishop.}
 {343}{}{¿Vendérselo a Bishop? Diablos, puedo igualar la oferta de Bishop e incluso superarla un poco.}
-{344}{}{Qué coincidencia. Soy el lugarteniente de Bishop, }
+{344}{}{Qué coincidencia. Soy la lugarteniente de Bishop, }
 {346}{}{En realidad, no le vas a vender ese coche a nadie. Es mío.}
 {347}{}{Parece un buen trato. Nos vemos más tarde.}
 {360}{}{Darle vidilla al motor, limpiar el interior, poner una cuerda metálica alrededor de la placa de matrícula... y mandar a hacer puñetas algo de porquería
  del maletero, para hacer espacio. Al acabar, será digno de un buen montón de fichas del señor Bishop.}
 {361}{}{¿Vendérselo a Bishop? Diablos, puedo igualar la oferta de Bishop e incluso superarla un poco.}
-{362}{}{Qué coincidencia. Soy uno de los lugartenientes de Bishop. }
+{362}{}{Qué coincidencia. Soy una de las lugartenientes de Bishop. }
 {365}{}{Suena bien. Entonces nos vemos más tarde.}
 {375}{}{¿Vas a igualar la oferta de BISHOP? Eso es un montón de pasta, amigo. Un MONTÓN de fichas. Además, él es uno de los hombres más importantes de
  Reno, ¿sabes? Le entregaré esta máquina, y habrá… beneficios ALTERNATIVOS.}
@@ -125,13 +125,13 @@
 {491}{}{No, está bien. Puedes quedarte el maldito Highwayman. De todas formas es un montón de mierda. Usa demasiada electricidad, dentro huele como un gecko,
  el maletero es demasiado pequeño… pero es perfecto para ti. Nos vemos.}
 {492}{}{No, no tengo un problema con eso... aún. Nos vemos.}
-{500}{}{¡Eh, espera un momento! *¿Montón de mierda? ¿Huele como un gecko*? }
+{500}{}{¡Eh, espera un momento! "¿Montón de mierda? ¿Huele como un gecko?" }
 {501}{}{Amigo, ¿qué clase de Jet te has tomado? }
 {502}{}{Mujer, ¿qué clase de Jet te has tomado? }
 {503}{}{Esto es un HIGHWAYMAN. No sólo corre, sino que cuando acabe de arreglarlo, va a ronronear como una mujer debajo de mí.}
 {504}{}{Estoy harto de escucharte. Traga plomo, chatarrero...}
 {505}{}{¿Qué le estás arreglando al coche?}
-{506}{}{Da igual. Me largo de aquí.}
+{506}{}{Lo que sea. Me largo de aquí.}
 {520}{}{Sí, eso es lo que PENSABA. Será mejor que te largues antes de que tu mamá se preocupe por ti.}
 {521}{}{No, en realidad es TU mamá la que se preocupa si no estoy yo para satisfacerla.}
 {522}{}{Lo dejas correr y te vas en silencio.}
@@ -176,7 +176,7 @@
 {650}{}{No, ya tengo un perro al que darle un hueso, y no quiero tener una perrera. A juzgar por tu pinta, no tienes
  nada que merezca mi tiempo. 500 fichas es lo que te va a costar poner a punto el Highwayman.}
 {651}{}{Está bien. Aquí están las 500 fichas.}
-{653}{}{¿Sabes qué? Estoy HARTO de escuchar tus gilipolleces. Te voy a sacrificar.}
+{653}{}{¿Sabes qué? Estoy HARTA de escuchar tus gilipolleces. Te voy a sacrificar.}
 {660}{}{(Te detiene antes de que te alejes). Espera un momento, mujer. No he dicho que no TENGA un poco de dulce amor para ti.
  Pongamos manos a la obra.}
 {661}{}{(Te mira de arriba abajo). Un hombre hace lo que tiene que hacer. Pongamos manos a la obra.}
@@ -193,7 +193,7 @@
 {693}{}{Venga, necesito una reparación, y sólo TU dulce amor me la va a proporcionar.}
 {710}{}{(Te estudia con el ceño fruncido). Ya, claro que sí. Conozco a TODOS los lugartenientes de Bishop, y tú no eres uno de ellos.
  (Señala la puerta). Lárgate de aquí antes de que me cabree.}
-{711}{}{SOY uno de los lugartenientes de Bishop. ¿Hacemos un trato o qué?}
+{711}{}{SOY una de los lugartenientes de Bishop. ¿Hacemos un trato o qué?}
 {712}{}{Ya me voy, ya me voy...}
 {720}{}{(Se burla). Sí, vamos a negociar pero bien. Espero que no tengas una familia que te vaya a echar de menos…}
 {721}{}{Espero por tu bien que tengas una familia que pueda juntar todos tus restos.}
@@ -243,13 +243,13 @@
 {814}{}{El señor Bishop ha hecho una GENEROSA oferta de 900 fichas. La siguiente oferta no te va a gustar.}
 {816}{}{¿Así que estás tratando con las demás Familias? El señor Bishop estará interesado en oír eso.}
 {817}{}{¿Perdona? ¿Cómo acabas de llamar al señor Bishop?}
-{818}{}{Estoy cansado de esto. Volveremos a hablar más tarde.}
+{818}{}{Estoy cansada de esto. Volveremos a hablar más tarde.}
 {830}{}{(T-Ray se queda helado. Por un segundo te parece que va a atacarte, pero luego se relaja). Amigo, ese es un trato injusto. }
 {831}{}{(T-Ray se queda helado. Por un segundo te parece que va a atacarte, pero luego se relaja). Chica, ese es un trato injusto. }
 {832}{}{¿Qué le he hecho a Bishop para merecer esto? ¿Eh?}
 {834}{}{Se lo llevaré al señor Bishop. Oh… él tiene una última petición: querría baterías gratuitas de tu tienda.
  Yo seré el mensajero de esos pedidos.}
-{835}{}{Estoy seguro de que algo has hecho. A él no le gustas mucho. Un placer hacer negocios contigo.}
+{835}{}{Estoy segura de que algo has hecho. A él no le gustas mucho. Un placer hacer negocios contigo.}
 {845}{}{¡No, no, nada de eso…! El señor Bishop y yo tenemos el mismo punto de vista sobre esto, no hay problema. Él me ha tratado bien, y tú
  le dirás eso, ¿verdad? Pero… eh… ¿qué pasa con esos beneficios colaterales que he mencionado…?}
 {846}{}{Tendrás que discutirlo con el señor Bishop. Quien tiene una última petición: baterías gratis de tu
@@ -280,7 +280,7 @@
 {922}{}{No, no en este momento. Quizá más tarde. Nos vemos.}
 {930}{}{(T-Ray pasa un par de horas en la tienda. Cuando sale, las placas gravitatorias están instaladas).}
 {931}{}{Gracias, T-Ray. Te lo agradezco. Iré a probarlas.}
-{940}{}{Sírvete tú mismo, héroe.}
+{940}{}{Sírvete tú mismo, heroína.}
 {941}{}{Lo que es mío es tuyo. Dile a todo el mundo que también dije eso.}
 {942}{}{Maldición. Has salvado el mundo, y TODAVÍA tienes que meterte en los trapicheos de todos.}
 {950}{}{Aléjate de mi material.}

@@ -39,7 +39,7 @@
 {138}{}{La has cagado, amigo.}
 {139}{}{¿Qué crees que estás haciendo?}
 {140}{}{Eh, me largo de aquí.}
-{141}{}{(hablando por la radio) ¡Alerta! ¡Tenemos a un intruso en la estación! ¡Alerta!}
+{141}{}{(hablando por la radio) ¡Alerta! ¡Tenemos a una intrusa en la estación! ¡Alerta!}
 {142}{}{[HECHO]}
 {143}{}{Bien, me alegro de haber hablado contigo. Un par de consejos: no hay nada por aquí excepto el Yermo y la radiación. La civilización está al sur. Yo marcharía hacia allí si fuera tú.}
 {144}{}{Gracias.}
@@ -97,7 +97,7 @@
 {196}{}{Yo serio. Yo uno a Enclave.}
 {197}{}{Hablo en serio. Quiero alistarme en el Enclave.}
 {198}{}{Hablo en serio. Quiero alistarme en el Enclave.}
-{199}{}{Espera un momento, tontito. ¿Estás intentando decirme que eres uno de los reemplazos del Enclave?}
+{199}{}{Espera un momento, tontita. ¿Estás intentando decirme que eres uno de los reemplazos del Enclave?}
 {200}{}{Espera un momento. ¿Estás intentando decirme que eres uno de los reemplazos del Enclave?}
 {201}{}{Eh... ya.}
 {202}{}{Así es.}
@@ -113,12 +113,12 @@
 {212}{}{Tú dices que Navarro al sur. ¡Mentira! Ahora dices verdad a yo.}
 {213}{}{Me dijiste que Navarro estaba al sur, viejo. ¡Mentiste! Ahora quiero saber la verdad.}
 {214}{}{Me suena tu cara. El viejo Chris cree haberte visto antes... No, no puede ser.}
-{215}{}{¡Intruso en la estación! ¡Ayuda!}
+{215}{}{¡Intrusa en la estación! ¡Ayuda!}
 {216}{}{¡Dad la alarma!}
 {217}{}{¡Alerta, intruso! ¡Alerta, intruso!}
 {218}{}{¡Muere, basura!}
 {219}{}{¡El Enclave me ascenderá por matarte!}
-{220}{}{Muere, ¡forastero!}
+{220}{}{Muere, ¡forastera!}
 {221}{}{¿Pero qué...?!}
 {222}{}{¡Usa radio y tú arrepientes!}
 {223}{}{¡Usa esa radio y te arrepentirás!}
