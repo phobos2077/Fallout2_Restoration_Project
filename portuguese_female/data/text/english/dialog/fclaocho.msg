@@ -114,8 +114,8 @@
 {291}{}{[CONTINUAR]}
 {300}{}{[As horas passam como em uma infinidade. Você começa a suspeitar que Lao Chou pode não ser completamente humano. Você desmaia, eventualmente.]}
 {301}{}{uhhh... O que aconteceu?}
-{310}{}{Você desmaiou enquanto eu nos movia para a posição do lótus triplo, e eu tive que terminar me dando prazer com o kata rindo-panda.
-  Mas um acordo é um acordo. Não é o tanque que é especial - é apenas um grande tanque enferrujado como você disse. Nosso submarino, por outro lado ...}
+{310}{}{Você desmaiou enquanto eu nos movia para a posição do lótus triplo, e eu tive que terminar me dando prazer com o estilo panda-sorridente.
+  Mas um acordo é um acordo. Não é o tanque que é especial - é apenas um grande tanque enferrujado como você disse. Nosso submarino, por outro lado...}
 {311}{}{Submarino?}
 {330}{}{Eu... acho que não}
 {331}{}{Não tente e lute agora. Você me quer e você sabe disso.}

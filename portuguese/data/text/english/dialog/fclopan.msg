@@ -2,7 +2,7 @@
 {101}{}{Você vê Lo Pan, um homem dominador e implacável.}
 {102}{}{Você vê um gangster Shi, vestido com roupas de seda. Suas mãos são calejadas e duras. Ele parece perigoso e venenoso.}
 {103}{}{O que você quer?}
-{104}{}{Daggle aggle aggle!}
+{104}{}{Ching Ling!}
 {105}{}{Quem é você?}
 {106}{}{Quem foi que você estava lutando?}
 {107}{}{Quem é você?}
