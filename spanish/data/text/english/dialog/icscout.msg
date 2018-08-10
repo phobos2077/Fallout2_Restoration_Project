@@ -23,7 +23,7 @@
 {422}{}{Rangers? These aren't Rangers. Just look at their clothing. You're a pawn in their game. They are just using you.}
 {423}{}{Look, I was sent by Vault City to find some Raiders. These men fit the description.}
 {424}{}{Supongo que me iré ahora.}
-{425}{}{No me puedo creer que me hayas hecho prostituirme.}
+{425}{}{No te creo. ¡Muere, hombre malvado!}
 {430}{}{¿A quién te gustaría que curara?}
 {431}{}{Would you have helped them if they had told you that they were raiders, attacking innocent people, and that they didn't care one bit about helping anyone in Vault City?}
 {432}{}{I don't know. It's a tough world out there. People prey on others all the time.}

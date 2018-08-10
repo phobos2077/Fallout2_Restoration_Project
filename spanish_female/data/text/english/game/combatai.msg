@@ -3570,7 +3570,7 @@
 {70073}{}{That's top of the line pre-war tech you're fucking with.}
 {70074}{}{Jealous?}
 {70075}{}{Whoa! Whoa! Whoa! That was uncalled for!}
-{70100}{}{Verás, todo fue un malentendido.}
+{70100}{}{Verás, todo esto fue un gran malentendido.}
 {70101}{}{No me alisté para luchar, así que déjame tranquilo.}
 {70102}{}{Olvida todo esto. Me largo de aquí.}
 {70103}{}{Volveré más tarde, cuando te hayas calmado.}
