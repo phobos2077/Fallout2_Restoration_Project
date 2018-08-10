@@ -7,7 +7,7 @@
 {300}{}{Shhh... Estoy cazando conejos.}
 {400}{}{[He looks upon you with untrusting eyes.] Who goes there?}
 {401}{}{Me llamo }
-{402}{}{No. ¿Quién eres?}
+{402}{}{. ¿Quién eres?}
 {403}{}{No eres de Ciudad Refugio, ¿verdad?}
 {404}{}{My name is not important. I have come to warn you. You are in great danger!}
 {405}{}{I am your nemesis. Prepare to join your ancestors!}
@@ -71,7 +71,7 @@
 {701}{}{Sigue hablando.}
 {702}{}{¡Atacad!}
 {703}{}{Me llamo }
-{704}{}{No. ¿Quién eres?}
+{704}{}{. ¿Quién eres?}
 {705}{}{No eres de Ciudad Refugio, ¿verdad?}
 {706}{}{My name is not important. I have come to warn you. You are in great danger!}
 {707}{}{Olvídalo. Me voy.}
@@ -80,7 +80,7 @@
 {711}{}{Sigue hablando.}
 {712}{}{¡Atacad!}
 {713}{}{Me llamo }
-{714}{}{No. ¿Quién eres?}
+{714}{}{. ¿Quién eres?}
 {715}{}{No eres de Ciudad Refugio, ¿verdad?}
 {716}{}{My name is not important. I have come to warn you. You are in great danger!}
 {717}{}{Olvídalo. Me voy.}
@@ -89,7 +89,7 @@
 {721}{}{Sigue hablando.}
 {722}{}{¡Atacad!}
 {723}{}{Me llamo }
-{724}{}{No. ¿Quién eres?}
+{724}{}{. ¿Quién eres?}
 {725}{}{No eres de Ciudad Refugio, ¿verdad?}
 {726}{}{My name is not important. I have come to warn you. You are in great danger!}
 {727}{}{Olvídalo. Me voy.}

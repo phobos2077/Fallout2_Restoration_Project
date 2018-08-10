@@ -38,7 +38,7 @@
 {500}{}{If you be choosin' me for a lay, you best expect a fight -- wait, you don't be having the demon mark on your head. Who you be?}
 {501}{}{"Yo soy el Elegido". Y una mierda.}
 {502}{}{Me llamo }
-{503}{}{No. ¿Quién eres?}
+{503}{}{. ¿Quién eres?}
 {510}{}{My name be Kurisu. I come from tribe to south west, sits next to the Great Salt Water. Slavers got me. Got others too, but they been sent on. They say they ain't done with me. Be keeping me around for their wicked pleasure. Please, you needin' to get us out of cage and away from de evil men.}
 {511}{}{Don't worry I'm here to get you out. I got a key and permission to take you out of here.}
 {512}{}{De acuerdo, venid a por mí.}

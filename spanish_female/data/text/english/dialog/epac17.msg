@@ -9,14 +9,14 @@
 {108}{}{The leading - and only - Doctor left in the EPA.}
 {109}{}{Seguro que sería agradable vivir aquí.}
 {120}{}{¿Sí?}
-{121}{}{Está bien, mi nombre es }
-{122}{}{No. ¿Quién eres?}
-{123}{}{Perdona que te haya molestado, entonces. Adiós.}
+{121}{}{Hola, mi nombre es }
+{122}{}{. ¿Quién eres?}
+{123}{}{Perdona que te haya molestado. Adiós.}
 {130}{}{Ahora no estoy de humor.}
 {131}{}{Oh, right. So what do you do? Why are you here all on your own? The rest of the place looks deserted.}
 {132}{}{De acuerdo, gracias.}
 {140}{}{I see you are adequately skilled in the ways of science. Maybe you could understand what I do here after all. What do you wish to know?}
-{141}{}{¿Por qué aquí?}
+{141}{}{¿Por qué estás aquí?}
 {142}{}{¿Qué haces aquí?}
 {150}{}{I'm sorry, but I don't believe you have the skills required to understand what I'm doing here. Come back when you're mentally tougher.}
 {151}{}{Whoa, just a minute. I'll have a go at anything you give me!}
@@ -29,7 +29,7 @@
 {180}{}{No, you cannot. You just aren't skilled enough in the ways of science and biological enhancements. Now, if you'll excuse me, you're wasting my time.}
 {181}{}{I most certainly am not. Try me.}
 {190}{}{<smiles> Well, maybe so. OK, if you wish, I'll give you a chance. What would you like to know then?}
-{191}{}{¿Por qué aquí?}
+{191}{}{¿Por qué estás aquí?}
 {192}{}{¿Qué haces aquí?}
 {200}{}{Why of course! Nobody to watch over me. No rules whatsoever. I do whatever I want, whenever I want. Also, with only me being left here, I have access to all the equipment I would ever need. Anything else?}
 {201}{}{¿Quién se cree esta gente que somos?}
@@ -37,7 +37,7 @@
 {203}{}{¿De dónde sacas a todos estos siervos?}
 {210}{}{Those in the first cells over by that wall are some villagers that wandered in here by mistake and I captured them for use later on. The other stronger-looking ones are my own warriors for...emergencies.}
 {211}{}{¿Tu castillo? ¿A qué te refieres?}
-{212}{}{¿Puedo preguntarte otra cosa?}
+{212}{}{Gracias. ¿Puedo preguntarte otra cosa?}
 {213}{}{¡Genial! Gracias... mejor que me vaya ahora.}
 {220}{}{Chemicals and tanks of FEV mostly. It was all contained in great barrels for safe storage here at the EPA. Unfortunately, there was a minor accident and a huge chemical leak forced everyone except those daft holograms to leave. Some of the chemicals have leaked into the lower levels. I'm now using it as experimentation material. So far, it's provided some promising results!}
 {221}{}{What types of results? Do you mean you've created these creatures?}
