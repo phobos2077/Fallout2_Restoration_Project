@@ -2,7 +2,7 @@
 {101}{}{Ves al Hermano Matthew.}
 {102}{}{Él está de pie en un podio predicando a los ciudadanos de Abbey.}
 {200}{}{Buena gente de la Abbey. Tomaos un momento para escuchar, porque tengo mucho que decir.}
-{201}{}{Here we collect, the holy relics of an age long past.}
+{201}{}{Aquí recogemos, las sagradas reliquias de un era pasada.}
 {202}{}{Scorched by the Flame Deluge, into the dark, we were cast.}
 {203}{}{A Memorabilia we shall make, to preserve the wisdom of old.}
 {204}{}{We must guard and care for it, though the flame has gone cold;}
