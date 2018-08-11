@@ -4,27 +4,27 @@
 {200}{}{Buena gente de la Abbey. Tomaos un momento para escuchar, porque tengo mucho que decir.}
 {201}{}{Aquí recogemos, las sagradas reliquias de un era pasada.}
 {202}{}{Arrasada por el Diluvio de Llamas, en la oscuridad, fueron arrojados.}
-{203}{}{A Memorabilia we shall make, to preserve the wisdom of old.}
-{204}{}{We must guard and care for it, though the flame has gone cold;}
-{205}{}{It could ignite once again, should the wisdom be misused.}
-{206}{}{Thus, no one shall learn, for fear of another, Flame Deluge.}
-{207}{}{But one day, men shall rise above their desire for destruction.}
-{208}{}{And the Memorabilia will be there, awaiting re-introduction.}
-{209}{}{So we tend to our holy task, lest all that wisdom, we lose.}
-{210}{}{We must preserve and protect it, but never shall we use.}
-{211}{}{So go now my friends, and let your spirits be lifted;}
-{212}{}{For the guardians of knowledge, we have each, been gifted.}
-{213}{}{Now, please take a moment and reflect on what I have said.}
-{224}{}{Now, please take a moment and reflect on what I have said.}
-{300}{}{Greetings, friend. I don't think I have seen you around here before. My name is Brother Matthew and I help
- spread the word about the importance of preserving the knowledge of the old ones.}
+{203}{}{Un Memorial que debemos hacer, para preservar la sabiduría de los antiguos.}
+{204}{}{Debemos resguardar y cuidar de ello, aunque la llama se haya extinguido;}
+{205}{}{Podría encenderse una vez más, debido al mal uso de su sabiduría.}
+{206}{}{Por lo tanto, nadie debe aprender, por temor a otro, Diluvio de Llamas.}
+{207}{}{Pero un día, el hombres se elevara por encima de su deseo de destrucción.}
+{208}{}{Y los Memorial estarán allí, esperando re-introducirse.}
+{209}{}{Así servimos nuestra santa tarea, no sea que toda esa sabiduría, la perdamos.}
+{210}{}{Debemos preservarla y protegerla, pero nunca debe ser usada.}
+{211}{}{Así ahora mis amigos, y dejen que sus espíritus se eleven;}
+{212}{}{Por los guardianes del conocimiento, cada uno de nosotros, ha sido dotado.}
+{213}{}{Ahora, por favor tomen un momento y reflexionen en lo que e dicho.}
+{224}{}{Ahora, por favor tomen un momento y reflexionen en lo que e dicho.}
+{300}{}{Saludos, amigo. No creo que te haya visto por aquí antes. Mi nombre es el Hermano Matthew y yo ayudo
+ a difundir la palabra sobre la importancia de preservar el conocimiento de los antiguos.}
 {301}{}{Es bueno conocerte Matt. Mi nombre es }
 {302}{}{ y estoy en una misión para el sagrado GECK.}
 {303}{}{Lo siento, he de irme.}
-{400}{}{A GECK, huh? I seem to remember reading something about that during one of my transcribing sessions. So it must
- be in our database, but I'm afraid access to our computers is restricted. However, if you talk to the Abbot, it's
- possible he'll grant you access. It couldn't hurt to try, anyway. Oh, and feel free to browse through our collection
- of holy pre-war relics. I'd ask you not to damage anything, but I'm afraid everything's already broken beyond repair.}
+{400}{}{Un GECK, ¿eh? Me parece recordar haber leído algo sobre eso durante una de mis sesiones de transcripción. Entonces debe
+ estar en nuestra base de datos, pero me temo que el acceso a nuestras computadoras está restringido. Sin embargo, si hablas con el Abad, es
+ posible que te otorgue acceso. No podría doler intentarlo, de todos modos. Ah, y siéntase libre de navegar a través de nuestra colección
+ de sagradas reliquias de la pre-guerra. Te pediría que no dañes nada, pero me temo que todo está roto más allá de toda reparación.}
 {401}{}{Ahora mismo no. Aunque tengo otras preguntas para ti.}
 {402}{}{Gracias. Creo que voy a lo haré ahora.}
 {500}{}{Estoy a tu servicio. ¿Qué quieres saber?}
