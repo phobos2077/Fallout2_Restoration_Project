@@ -81,7 +81,7 @@
 {310}{}{[Several hours pass by in a haze of sweaty, brutal passion. Finally, you lay on the floor of Krom's hut, exhausted.
  Krom lies at your side, his eyes devouring the contours of your body.] By the Gods, girl, you're incredible!}
 {311}{}{Toma algún estimulante más y cúrate.}
-{312}{}{ de Arroyo. Soy el Elegido.}
+{312}{}{Por supuesto que soy. Después de todo, soy El Elegido.}
 {320}{}{[Krom gives you a strange grin.] The God's know you've done wonders for me, girl, but perhaps you'd be interested
  in assisting the rest of the tribe?}
 {321}{}{Sure, I suppose I could help out a bit. What would you like me to do?}

@@ -12,5 +12,5 @@
 {111}{}{HECHO}
 {112}{}{BEEP!}
 {113}{}{BOOP!}
-{114}{}{¡Bzzzt!}
+{114}{}{Bzzzt..}
 {115}{}{Eres hombre muerto...}
