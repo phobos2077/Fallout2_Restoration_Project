@@ -113,49 +113,49 @@
 {429}{}{Ya he tenido suficiente.}
 {430}{}{La gente está muriendo mientras tú te dedicas a pasear por ahí. Quizás deberías seguir buscando en vez de volver aquí.}
 {500}{}{¿Has hablado ya con la Anciana?}
-{600}{}{Any final advice for me before I head out into the unknown?}
-{601}{}{Certainly. Beware the weapons of the Outsiders. The gecko's bite is nothing compared to the destructive power of their boom-sticks.}
+{600}{}{¿Algún consejo final para mí antes de dirigirme a lo desconocido?}
+{601}{}{Ciertamente. Cuidado con las armas de los forasteros. La mordedura del gecko no es nada en comparación con el poder destructivo de sus palos explosivos.}
 {602}{}{Entiendo. ¿Algo más?}
-{603}{}{Do not give your trust freely. Honor means very little out in the wastes. Stay alert and always question the motives of others.}
+{603}{}{No des tu confianza libremente. El honor significa muy poco en el Yermo. Manténgase alerta y siempre pregunte los motivos de los demás.}
 {604}{}{Desde luego. ¿Nada más?}
-{605}{}{Never forget your roots. The world outside our village is full of shiny toys and luxuries that might make our life here in Arroyo appear simple and plain.
- But remember that the lifestyle of the Outsiders produces wicked men ruled by greed and corruption. Be wary not to become like He-Who-Must-Not-Be-Named.}
+{605}{}{Nunca olvides tus raíces. El mundo fuera de nuestra aldea está lleno de juguetes brillantes y lujos que pueden hacer que nuestra vida aquí en Arroyo parezca simple y plena.
+ Pero recuerde que el estilo de vida de los forasteros produce hombres malvados gobernados por la avaricia y la corrupción. Tenga cuidado de no convertirse en El-que-no-debe-ser-nombrado.}
 {606}{}{Nunca me voy a olvidar mis raíces. Gracias por el consejo, Mynoc.}
-{607}{}{He-Who-Must-Not-Be-Named? Uh... who?}
-{608}{}{Are you so drunk with the glory of being the Chosen One that you've forgotten about... [Mynoc quickly glances around to be sure no one is listening in, then leans forward and lowers his voice to a whisper.] ... Kaga?}
-{609}{}{Oh! Yeah, that guy. I'll make sure I don't end up like him. Thanks.}
-{610}{}{Oh, that's who I thought you meant. But, uh, why don't you go ahead and tell me what his deal is again. I really love that story.}
-{611}{}{[Mynoc mumbles something under his breath and shakes his head before beginning his tale.] As you should know, he was once the greatest warrior of our tribe. He led many expeditions into the outside world, and it was there where corruption began to poison his mind.}
-{612}{}{He became infatuated with the ways of the Outsiders, where power could bring anyone great respect and luxury. He began to view himself as superior to his fellow tribesmen who were content to live a more simple life.}
+{607}{}{¿El-que-no-debe-ser-nombrado? Uh ... ¿quién?}
+{608}{}{¿Estás tan borracho de la gloria de ser la Elegida que te olvidaste de [Mynoc mira rápidamente a su alrededor para asegurarse de que nadie esté escuchando, luego se inclina hacia adelante y baja la voz en un susurro.] ... Kaga?}
+{609}{}{Oh! Sí, ese tipo. Me aseguraré de que no termine como él. Gracias.}
+{610}{}{Oh, eso es lo que pensé que querías decir. Pero, uh, ¿por qué no sigues adelante y me dices cuál es su trato otra vez? Realmente amo esa historia.}
+{611}{}{[Mynoc murmura algo por lo bajo y sacude la cabeza antes de comenzar su historia.] Como deberías saber, él fue una vez el guerrero más grande de nuestra tribu. Dirigió muchas expediciones al mundo exterior, y fue allí donde la corrupción comenzó a envenenar su mente.}
+{612}{}{Se enamoró de los caminos de los forasteros, donde el poder podía brindarle gran respeto y lujo a cualquiera. Comenzó a verse a sí mismo como superior a sus compañeros de tribus que estaban contentos de vivir una vida más simple.}
 {613}{}{Como quieras.}
 {614}{}{Sigue.}
-{615}{}{When our tribe fell into these hard times, he deemed himself our people's savior and entered the Temple of Trials to prove himself to be the Chosen One.}
+{615}{}{Cuando nuestra tribu cayó en estos tiempos difíciles, se consideró el salvador de nuestro pueblo y entró al Templo de las Pruebas para demostrar que era el Elegido.}
 {616}{}{Sigue.}
 {617}{}{No importa. No tengo tiempo para discutir eso. Adiós.}
-{618}{}{He made his way through the Temple, quickly reaching the final test: a hand-to-hand battle with a fellow warrior.}
+{618}{}{Atravesó el Templo, llegando rápidamente a la prueba final: una batalla cuerpo a cuerpo con un compañero guerrero.}
 {619}{}{Sigue.}
-{620}{}{Wait, he blew up that door and everything? Do we have it rebuilt every time someone goes through the temple? Speaking of that, who built the temple in the first place?}
-{621}{}{I don't have time to answer all your silly questions. Do you want me to finish the tale, or not?}
+{620}{}{Espera, ¿arruinó esa puerta y todo? ¿Lo reconstruimos cada vez que alguien pasa por el templo? Hablando de eso, ¿quién construyó el templo en primer lugar?}
+{621}{}{No tengo tiempo para responder a todas tus tontas preguntas. ¿Quieres que termine la historia, o no?}
 {622}{}{Lo siento. Por favor, continua.}
 {623}{}{En realidad, creo que estoy listo para ir. Nos vemos.}
-{624}{}{During the final trial, He-Who-Must-Not-Be-Named unsheathed a hidden blade and used it to kill his opponent. When the Elder confronted him about his dishonorable use of a hidden weapon, he argued that it was not cheating, but rather proved him to be a cunning warrior.}
-{625}{}{The Elder did not agree. He-Who-Must-Not-Be-Named was forcibly exiled from our tribe and his name was never to be spoken amongst us again. As he was cast away into the wastes, he swore an oath of vengeance. Vengeance against our tribe, and especially against you.}
+{624}{}{Durante la prueba final, Quien-no-debe-ser-nombrado desenvainó una espada oculta y la usó para matar a su oponente. Cuando la Anciana lo confrontó por su uso deshonroso de un arma oculta, argumentó que no era una trampa, sino que demostró que era un guerrero astuto.}
+{625}{}{La Anciana no estuvo de acuerdo. Él-que-no-debe-ser-nombrado fue exiliado a la fuerza de nuestra tribu y su nombre nunca se volvió a hablar entre nosotros. Mientras era arrojado al Yermo, juró vengarse. Venganza contra nuestra tribu, y especialmente contra ti.}
 {626}{}{¿Qué es lo que he de hacer?}
 {627}{}{Gracias por el consejo, Jimmy. Sería mejor que me fuese ahora.}
-{628}{}{You are the Chosen One, a title he feels is rightfully his. His pride will not allow you to live.}
-{629}{}{I'm not going to worry about it. He's probably dead out in the wastes by now, anyway.}
-{630}{}{I'll be on my guard. Hopefully he's dead out in the wastes by now.}
-{631}{}{Listen, and understand. He-Who-Must-Not-Be-Named is out there. He can't be bargained with. He can't be reasoned with. He won't feel pity, or remorse, or fear. And he absolutely will not stop, ever, until you are dead.}
-{632}{}{You know, I think you might be overdoing it with the melodrama, just a tad. Anyway, thanks for the advice. I'll see you around, Mynoc.}
+{628}{}{Usted es la Elegida, un título que siente que es suyo legítimamente. Su orgullo no te permitirá vivir.}
+{629}{}{No voy a preocuparme por eso. Probablemente ya esté muerto en el Yermo ahora, de todos modos.}
+{630}{}{Estaré en guardia. Esperemos que ya esté muerto en el Yermo.}
+{631}{}{Escucha, y entiende. Quie-no-debe-ser-nombrado está por ahí. No se puede negociar con él. No se puede razonar con el. No sentirá lástima, remordimiento o miedo. Y definitivamente no se detendrá, hasta que estés muerta.}
+{632}{}{Sabes, creo que podrías estar exagerando con el melodrama, solo un poco. De todos modos, gracias por el consejo. Nos vemos, Mynoc.}
 {633}{}{Lo tendré en mente. Cuídate, Mynoc.}
 {640}{}{¿Puedes contarme algo sobre esta Hermandad?}
-{641}{}{[His eyes go wide and he looks around nervously as if expecting to suddenly be struck by lightning.] Have you lost your senses out in the wastes?! You should know better than to speak the name of the outcast! He is to be referred to only as He-Who-Must-Not-Be-Named.
- Our village suffers enough without inviting the wrath of the Gods upon us. [He raises his eyes nervously to the sky.]}
-{642}{}{Sorry about that, Mynoc. But would you mind telling me what Ka... I mean, "He-Who's" deal is again? I really love that story.}
-{643}{}{You know, I'd forgotten how stupidly superstitious you people could be. I'll see you around.}
-{650}{}{I've faced him before, so I'm sure I can handle him if our paths cross again.}
-{651}{}{Actually, he's already dead. I left his corpse out there to rot in the wastes.}
-{660}{}{[Mynoc nods grimly.] He may have strayed from the path, but he was once a great and respected warrior. I hope his troubled soul has found peace in the next world.}
+{641}{}{[Sus ojos se abren de par en par y mira alrededor nerviosamente como si esperara ser golpeado por un rayo.] ¿Has perdido los sentidos en el Yermo?! ¡Deberías saber que no debes decir el nombre del paria! Él debe ser referido solo como Él-que-no-debe-ser-nombrado.
+ Nuestro pueblo sufre lo suficiente sin invitar a la ira de los Dioses sobre nosotros. [Él levanta sus ojos nerviosamente hacia el cielo.]}
+{642}{}{Lo siento, Mynoc. Pero ¿te importaría decirme qué es Ka ... quiero decir, "El-quien" otra vez? Realmente amo esa historia.}
+{643}{}{Sabes, había olvidado lo estúpidamente supersticioso que podrías ser. Nos vemos.}
+{650}{}{Lo he enfrentado antes, así que estoy seguro de poder manejarlo si nuestros caminos se cruzan de nuevo.}
+{651}{}{En realidad, ya está muerto. Dejé su cadáver por ahí para pudrirse en el Yermo.}
+{660}{}{[Mynoc asiente sombríamente.] Es posible que se haya desviado del camino, pero una vez fue un gran guerrero respetado. Espero que su alma problematica haya encontrado la paz en el otro mundo.}
 {661}{}{De verdad. Hasta otra, Mynoc.}
 {662}{}{Deja que me lo piense. Ya nos veremos, Smitty.}
 {1000}{}{Anciana}

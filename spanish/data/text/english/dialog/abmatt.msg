@@ -29,20 +29,20 @@
 {402}{}{Gracias. Creo que voy a lo haré ahora.}
 {500}{}{Estoy a tu servicio. ¿Qué quieres saber?}
 {501}{}{¿Qué puedes contarme sobre este lugar?}
-{502}{}{You seem to be very poetic in your preaching. Any reason for this?}
+{502}{}{Pareces ser muy poético en tu predicación. ¿Alguna razón para eso?}
 {503}{}{Olvídalo. Cuídate.}
-{600}{}{The Abbey is home to anyone, so long as they don't cause trouble. We are an independent community and rarely get
- visitors, such as yourself. The majority of those you see here are descended from the original founders that settled in
- this old monastery not long after the great Flame Deluge.}
+{600}{}{La Abadía es el hogar de cualquiera, siempre y cuando no causen problemas. Somos una comunidad independiente y rara vez recibimos
+ visitantes, como usted. La mayoría de los que ves aquí descienden de los fundadores originales que se establecieron en
+ este antiguo monasterio no mucho después del gran Diluvio de Llamas.}
 {601}{}{Sigue.}
-{602}{}{The quiet, peaceful quality of this place has made it an appealing home to other travelers that have wandered
- here over the years, seeking to escape from the dark chaos of the wastes. Of course, the true value of this place lies
- in its vast library. It's filled with old tomes, containing the strange wisdom of a lost age. Over time, we've come to
- fancy ourselves the keepers and guardians of that wisdom.}
+{602}{}{La tranquilidad, la calidad pacífica de este lugar lo ha convertido en un hogar atractivo para otros viajeros que han vagado
+ aquí a lo largo de los años, buscando escapar del oscuro caos del yermo. Por supuesto, el verdadero valor de este lugar yace
+ en su vasta biblioteca. Está llena de tomos viejos, que contienen la extraña sabiduría de una edad perdida. Con el tiempo, hemos llegado a
+ imaginarnos los cuidadores y guardianes de esa sabiduría.}
 {603}{}{Muy interesante. ¿Otra pregunta?}
 {604}{}{Interesante. Bien, he de irme. }
-{700}{}{[The man chuckles at your question] No, no particular reason. I have just read much poetry throughout my life
- and I enjoy applying it to my teachings. It helps leave a greater impact on those listening.}
+{700}{}{[El hombre se ríe de tu pregunta] No, no hay una razón en particular. He leído mucho sobre poesía a lo largo de mi vida
+ y me gusta aplicarla a mis enseñanzas. Ayuda a dejar un mayor impacto en los que escuchan.}
 {701}{}{Me parece justo. ¿Otra pregunta?}
 {800}{}{Qué bueno verte de nuevo.}
 {801}{}{. ¿Qué puedo hacer por ti?}

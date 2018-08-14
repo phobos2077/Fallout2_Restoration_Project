@@ -2,62 +2,62 @@
 {101}{}{Ves el terminal de computadora de la Abadía.}
 {102}{}{Ves un pequeño terminal de computadora. Parece estar operativo.}
 {103}{}{Accedes a la computadora y rápidamente escaneas todos los archivos disponibles. Encuentras algunos archivos que contienen las palabras clave "GECK" y "Refugio".}
-{104}{}{Read GECK info.}
+{104}{}{Leer información del GECK}
 {105}{}{El Refugio es el paraíso.}
-{106}{}{ERROR! access card not found. Please, insert access card into encryption slot.}
-{107}{}{(You insert the access card into the slot) BEEP!, access card accepted. LOADING Winblows 2075......DONE.}
+{106}{}{¡ERROR! tarjeta de acceso no encontrada. Por favor, inserte la tarjeta de acceso en la ranura de encriptación.}
+{107}{}{(Insertas la tarjeta de acceso en la ranura) ¡BEEP !, se acepta la tarjeta de acceso. CARGANDO Winblows 2075 ...... HECHO.}
 {108}{}{Ingresar una orden.}
-{109}{}{Scan files for any information about GECK or VAULT 13.}
+{109}{}{Escaneas los archivos para obtener información sobre el GECK o el Refugio 13.}
 {110}{}{Acceder a otros archivos.}
-{111}{}{Play Rock Paper Scissors.}
+{111}{}{Jugar Piedra Piedra Tijeras}
 {112}{}{Atrás.}
 {113}{}{Desconexión.}
 {114}{}{[CONTINUAR]}
-{115}{}{You find some files containing the keywords "GECK" and "Vault".}
-{116}{}{Browse files pertaining to "GECK".}
-{117}{}{Browse files pertaining to "Vault".}
-{118}{}{The search program seems to be a little too difficult for you.}
-{119}{}{Your eyes widen and your heart quickens as you discover what appears to be an old advertisement for a Garden of Eden
- Creation Kit. The ad depicts a grinning cartoon guy in a vault suit holding up a large case that says, "Survival Kit". It's
- almost as if the smiling bastard is taunting you.}
-{120}{}{You browse over the files, which contain mostly government propaganda for how amazing life in the Vaults would be.
- You learn that in the mid-21st century, the US government commissioned Vault-Tec to construct 122 Vaults across the United States.
- These Vaults were meant to serve as shelters for up to 1,000 US citizens in the event of a nuclear holocaust. Within the safe confines
- of the underground Vaults, the Vault Dwellers could live out a luxurious existence as they await the signal informing them that the
- surface world is once again inhabitable.}
-{121}{}{As you search through the system you find hundreds of digitized books and magazines categorized on the hard drive. You
- wouldn't even know where to begin searching for something of use.}
-{122}{}{As you search through the system you find hundreds of digitized books and magazines categorized on the hard drive. Since
- you are skilled in how information is usually stored, perhaps searching by topic would yield something of use.}
+{115}{}{Encuentras algunos archivos que contienen las palabras clave "GECK" y "Refugio".}
+{116}{}{Buscar archivos pertenecientes a "GECK".}
+{117}{}{Buscar archivos pertenecientes a "Refugio".}
+{118}{}{El programa de búsqueda parece ser un poco demasiado difícil para ti.}
+{119}{}{Tus ojos se ensanchan y tu corazón se acelera a medida que descubres lo que parece ser un viejo anuncio de un Kit de Creación
+ del Jardín del Edén. El anuncio muestra a un tipo de dibujos animados sonriente en un traje de bóveda que sostiene una caja grande que dice "Kit de supervivencia". Es
+ casi como si el bastardo sonriente se estuviera burlando.}
+{120}{}{Examinas los archivos, que contienen principalmente propaganda gubernamental sobre lo increíble que sería la vida en los Refugios.
+ Aprendes que a mediados del siglo XXI, el gobierno de EEUU encargó a Vault-Tec que construyera 122 Refugios acorazadas en todo Estados Unidos.
+ Estos refugios estaban destinadas a servir como albergues para hasta 1,000 ciudadanos estadounidenses en caso de un holocausto nuclear. Dentro de los confines seguros
+ de las Refugios subterráneas, los Habitantes de los Refugios podrían vivir una existencia lujosa mientras esperan la señal que les informa que
+ el mundo de la superficie es una vez más habitable.}
+{121}{}{A medida que buscas en el sistema, encuentras digitalizados cientos de libros y revistas categorizados en el disco duro. Tú
+ ni siquiera sabrías dónde comenzar a buscar algo de uso.}
+{122}{}{A medida que buscas en el sistema, encuentras digitalizados cientos de libros y revistas categorizados en el disco duro. Ya que
+ usted es hábil en la forma en que la información se almacena normalmente, tal vez buscar por tema daría algo de uso.}
 {123}{}{[MÁS]}
-{124}{}{According to the ad, the kit includes a "Base Replicator Unit", which "replicates food and basic items needed for building
- your new world", a "Holodisc Reader with Library", which "includes selections from the Library of Congress, complete set of encyclopedias,
- and other life saving information, all contained on four-hundred and sixty handy holodiscs!" and it even contains a "Miniature Pen Flashlight!"
- Surely, this miracle device is exactly what you need to save your dying village.}
+{124}{}{De acuerdo con el anuncio, el kit incluye una "Unidad Replicadora Base", que "reproduce comida y artículos básicos necesarios para la construcción
+ de su nuevo mundo ", un "Lector de Holodisc con biblioteca", que "incluye selecciones de la Biblioteca del Congreso, un juego completo de enciclopedias,
+ y otra información para salvar vidas, ¡todo contenido en cuatrocientos sesenta holodiscos prácticos!" e incluso contiene una "Linterna de lapicero en miniatura ".
+ Sin duda, este dispositivo milagroso es exactamente lo que necesitas para salvar a tu aldea moribunda.}
 {125}{}{Leer más.}
-{126}{}{You continue browsing the files, but the only mention you find of Vault 13, simply states that it's located in California,
- which doesn't help you much.}
+{126}{}{Continúas explorando los archivos, pero la única mención que encuentra del Refugio 13, simplemente indica que se encuentra en California,
+ lo que no te ayuda mucho.}
 {130}{}{Añadir información.}
 {131}{}{No tienes nada a lo que adosar eso.}
 {132}{}{Necesito cierta información.}
 {133}{}{Necesito cierta información.}
-{140}{}{Read Help/About file.}
-{141}{}{Congratulations on successfully installing Winblows 2075! This version is the most advanced Winblows version to date.
- With the probability of only one crash per million function calls confirmed, our technicians are confident that Winblows is perfect
- for any corporate environment. The newest addition to Winblows 2075 is an improved and tweaked code base which now only wastes 15%
- of your CPU cycles on background administration as opposed to previous versions which would waste up to 25% of your CPU cycles.
- Of course, much user consideration has been put into this latest release. As with previous versions of Winblows, the common
- commands of Search, Add, Move, Delete, and Format are available to the user.}
-{142}{}{Format file system, including all backup databases on host and networked machines.}
+{140}{}{Leer Ayuda/Acerca del archivo.}
+{141}{}{¡Felicitaciones por la exitosa instalación de Winblows 2075! Esta versión es la versión más avanzada de Winblows hasta la fecha.
+ Con la probabilidad de que solo se confirme una falla por cada millón de llamadas de función, nuestros técnicos confían en que Winblows es perfecto
+ para cualquier entorno corporativo. La última incorporación a Winblows 2075 es una base de código mejorada y ajustada que ahora solo gasta un 15%
+ de los ciclos de tu CPU en la administración en segundo plano a diferencia de las versiones anteriores que perderían hasta el 25% de los ciclos de tu CPU.
+ Por supuesto, mucha consideración del usuario se ha puesto en esta última versión. Al igual que con las versiones anteriores de Winblows, los comandos
+ comunes de Buscar, Agregar, Mover, Eliminar y Formatear están disponibles para el usuario.}
+{142}{}{Formateo del sistema de archivos, incluidas todas las bases de datos de respaldo en el host y las máquinas en red.}
 {143}{}{Atrás.}
-{144}{}{Formatting backup database...SUCCESS...Formatting current file system...WAITING...Warning: There has been a catastrophic error.
- Please stand by...}
+{144}{}{Formateo de la base de datos de respaldo ... ÉXITO ... Formateo del sistema de archivos actual ... ESPERANDO ... Advertencia: Ha habido un error catastrófico.
+ Por favor espere...}
 {145}{}{Espera.}
-{146}{}{...System Error: The operation completed successfully...(A screeching sound begins to emanate from inside the computer and others nearby.}
+{146}{}{... Error del sistema: la operación se completó con éxito ... (Un sonido chirriante comienza a emanar desde el interior de la computadora y otros cerca).}
 {147}{}{[Te vas]}
-{148}{}{Error: No keyboard found. Please press any key to reboot.}
-{150}{}{Uploading Environmental Protection Agency Botany information disk...Upload complete. Have a nice day.}
-{200}{}{Rock, Paper, Scissors V.0.3. Select an option.}
+{148}{}{Error: no se encontró el teclado. Presione cualquier tecla para reiniciar.}
+{150}{}{Cargando el disco de información Botánica de la Agencia de Protección Ambiental ... Carga completa. Que tengas un buen día.}
+{200}{}{Piedra, Papel, Tijeras V.0.3. Seleccione una opción.}
 {201}{}{Seleccionar ROCA.}
 {202}{}{Seleccionar PAPEL.}
 {203}{}{Select SCISSORS.}

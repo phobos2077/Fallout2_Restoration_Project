@@ -169,6 +169,7 @@
 "Are you sick?","¿Estás enferma?"
 "Are you slow in the head? I'm Buck Dunton.","¿Eres un poquito retrasada, no? Soy Buck Dunton."
 "Are you slow in the head? I'm Chuck Dunton.","¿Eres un poco retrasada, no? Soy Chuck Dunton."
+"Are you so drunk with the glory of being the Chosen One that you've forgotten about... [Mynoc quickly glances around to be sure no one is listening in, then leans forward and lowers his voice to a whisper.] ... Kaga?","¿Estás tan borracho de la gloria de ser la Elegida que te olvidaste de [Mynoc mira rápidamente a su alrededor para asegurarse de que nadie esté escuchando, luego se inclina hacia adelante y baja la voz en un susurro.] ... Kaga?"
 "Are you sure you're not interested in making some money? I'm quite sure you'd be able to solve
  my problem quite easily.","¿Estás segura de que no quieres ganar algo de dinero? Estoy seguro de que podrías solucionar mi problemilla con bastante facilidad."
 "Are you that stupid? You think I'm just gonna hire anybody? You work for me, you got to prove you're good for something.","¿Eres así de estúpida? ¿Crees que simplemente voy a contratar a cualquiera? Para trabajar para mí, tienes que demostrar que eres buena para algo."
@@ -1051,6 +1052,7 @@
 "Like glue, Boss.","Como el pegamento, Jefa."
 "Like what... sir?","¿Como qué... señora?"
 "Liked","Querida"
+"Listen, and understand. He-Who-Must-Not-Be-Named is out there. He can't be bargained with. He can't be reasoned with. He won't feel pity, or remorse, or fear. And he absolutely will not stop, ever, until you are dead.","Escucha, y entiende. Quie-no-debe-ser-nombrado está por ahí. No se puede negociar con él. No se puede razonar con el. No sentirá lástima, remordimiento o miedo. Y definitivamente no se detendrá, hasta que estés muerta."
 "Look son, I'm sorry that you've got no mind. But you can't be here. Run along now.","Mira, hija, lamento que no tengas cerebro. Pero no puedes estar aquí. Ahora, vete."
 "Look to the north, Chosen, and the way will be open.","Mira al norte, Elegida, y el camino se abrirá."
 "Look! A lao wai!","¡Mirad! ¡Una lao wai!"
@@ -1440,6 +1442,11 @@
 "Son, I can tell from the smell that you're not wearin' one of them powered armor suits.
  If the Sarge sees you out of uniform you're screwed. And I ain't talking the type of screwing that feels good. Now get your ass down to supply and suit up.","Hija, puedo decirte por el olor que no estás llevando una de esas servoarmaduras. Como el Sargento te pille estás jodido. Y no hablo de la jodienda que da gustito. Ve cagando leches a intendencia y vístete."
 "Sorry Boss.","Lo siento, Jefa."
+"Sorry pal, I've never heard of it. But if it has to do with pre-war times, then I bet there's something about it
+ in the monastery's computers. Unfortunately for you, those monks are real protective of their information—afraid that it'll
+ lead to another war or something if people learn too much. Still, it might be worth asking around there.","Lo siento amiga, nunca he oído hablar de eso. Pero si tiene que ver con los tiempos de la pre-guerra, entonces apuesto a que hay algo al respecto
+ en las computadoras del monasterio. Desafortunadamente para ti, esos monjes son realmente protectores de su información, temerosos de que
+ conduzca a otra guerra o algo así si las personas aprenden demasiado. Aún así, podría valer la pena preguntar por allí."
 "Sorry stranger. I don't have time to chat with you.","Lo siento, forastera. No tengo tiempo de charlar contigo."
 "Sorry, I'll try to be more civil.","Lo siento, intentaré ser más civilizada."
 "Sorry, Torr. I'm too busy to stand around with a bunch of brahmin, whether they've got two legs
@@ -2005,6 +2012,7 @@
 "You are somethin'. Just like the original. What can old Harold do for ya, Vault Dweller? ","Tienes algo... como el original. ¿Qué puede hacer el viejo Harold por ti, Moradora del Refugio? "
 "You are stupid, human!","¡Eres estúpida, humana!"
 "You are such a lying sack of shit. Take 'em!","Eres una mentirosa de mierda. ¡A por ella!"
+"You are the Chosen One, a title he feels is rightfully his. His pride will not allow you to live.","Usted es la Elegida, un título que siente que es suyo legítimamente. Su orgullo no te permitirá vivir."
 "You are the Chosen One.","Tú eres la Elegida."
 "You are the Chosen. You must do.","Eres la Elegida. Debes hacerlo."
 "You are the one who has lost your hearing. I am Mr. Salvatore's representative, and you will pay the tribute.","Tú eres el que se ha quedado sordo. Soy la representante del señor Salvatore, y tú vas a pagar el tributo."
@@ -2254,6 +2262,9 @@ because this is going to cost ::cough:: $200.","Debes ser muy buena para inspira
 "[He looks sullenly down at his dials and says in a small voice] You're mean.","[De repente parece contrariado, y con la mirada fija en los controles dice con un hilo de voz] Eres mezquina."
 "[He points to you and starts screaming.] Stranger! Stranger! Stranger!","[Te señala y comienza a gritar]. ¡Extraña! ¡Extraña! ¡Extraña!"
 "[He smiles] We must protect our honor, stranger.","[Sonríe] Debemos proteger nuestro honor, forastera."
+"[He squints at you for a moment, then slowly lets out his breath in a sigh.] Sorry friend, this thing's being a
+ real bitch, and it's gotten me all worked up. I didn't mean to snap at ya. ","[Él te mira con los ojos entrecerrados por un momento, luego deja escapar su aliento en un suspiro.] Lo siento amiga, esta cosa es una
+ verdadera perra, y me ha tenido trabajando demasiado. No quise criticarte."
 "[Injured]","[Herida]"
 "[Jo calmly wraps his hand in a bandage and then proceeds to pull out a shotgun!] Let's see if
  you can laugh this off, smart ass!","[Jo se envuelve tranquilamente la mano en una venda y entonces saca ¡una escopeta!] ¡Veamos si te ríes de esto, listilla!"
