@@ -3,11 +3,11 @@
 {103}{}{¡Simplemente no puedo conseguir que esta cosa funcione!}
 {104}{}{Esto parece ser muy difícil de arreglar.}
 {105}{}{¡Qué mierda es esto!}
-{106}{}{Stubborn little sonnuva bitch are we?}
+{106}{}{¿Eres una astuta pequeña hita de perra?}
 {107}{}{¿Puedes ayudar?}
 {108}{}{Quizás tengas más suerte con esto.}
 {109}{}{¡Oye, gracias por arreglar la bomba de agua!}
-{110}{}{You should notify the headmonk that the waterpump is now fixed.}
+{110}{}{Debes notificar al monje principal que la bomba de agua ahora está arreglada.}
 {200}{}{Gracias por ayudarnos con esta cosa.}
 {300}{}{Ah, what a piece of shi- umm, I'm a little busy right now. Do you need something or are
  you just wasting my time?}
@@ -26,8 +26,8 @@
 {311}{}{Entonces veré lo que puedo hacer.}
 {312}{}{I thought I might be able to help, but if you want to be an asshole about it, then you're welcome to figure it out on your own.}
 {313}{}{I told the Abbot I'd be willing to help, but if you want to be an asshole about it, then you're welcome to figure it out on your own.}
-{320}{}{[He squints at you for a moment, then slowly lets out his breath in a sigh.] Sorry friend, this thing's being a
- real bitch, and it's gotten me all worked up. I didn't mean to snap at ya. }
+{320}{}{[Él te mira con los ojos entrecerrados por un momento, luego deja escapar su aliento en un suspiro.] Lo siento amiga, esta cosa es una
+ verdadera perra, y me ha tenido trabajando demasiado. No quise criticarte.}
 {321}{}{Bien, ¿cuál es el problema entonces?}
 {322}{}{Da igual, adiós.}
 {330}{}{Vuelve y habla conmigo por la mañana.}

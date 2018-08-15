@@ -3,11 +3,11 @@
 {103}{}{¡Simplemente no puedo conseguir que esta cosa funcione!}
 {104}{}{Esto parece ser muy difícil de arreglar.}
 {105}{}{¡Qué mierda es esto!}
-{106}{}{Stubborn little sonnuva bitch are we?}
+{106}{}{¿Eres un astuto pequeño hito de perra?}
 {107}{}{¿Puedes ayudar?}
 {108}{}{Quizás tengas más suerte con esto.}
 {109}{}{¡Oye, gracias por arreglar la bomba de agua!}
-{110}{}{You should notify the headmonk that the waterpump is now fixed.}
+{110}{}{Debes notificar al monje principal que la bomba de agua ahora está arreglada.}
 {200}{}{Gracias por ayudarnos con esta cosa.}
 {300}{}{Ah, what a piece of shi- umm, I'm a little busy right now. Do you need something or are
  you just wasting my time?}

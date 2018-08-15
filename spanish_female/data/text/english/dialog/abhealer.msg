@@ -11,7 +11,7 @@
 {402}{}{¡Deja de hacer eso!}
 {403}{}{[SEGUIR]}
 {404}{}{[SALIR]}
-{405}{}{PARA! PARA! PARA!
+{405}{}{¡PARA! ¡PARA! ¡PARA!
 }
 {406}{}{[SEGUIR]}
 {407}{}{[DETENER]}

@@ -122,7 +122,7 @@
  But remember that the lifestyle of the Outsiders produces wicked men ruled by greed and corruption. Be wary not to become like He-Who-Must-Not-Be-Named.}
 {606}{}{Nunca me voy a olvidar mis raíces. Gracias por el consejo, Mynoc.}
 {607}{}{He-Who-Must-Not-Be-Named? Uh... who?}
-{608}{}{Are you so drunk with the glory of being the Chosen One that you've forgotten about... [Mynoc quickly glances around to be sure no one is listening in, then leans forward and lowers his voice to a whisper.] ... Kaga?}
+{608}{}{¿Estás tan borracho de la gloria de ser la Elegida que te olvidaste de [Mynoc mira rápidamente a su alrededor para asegurarse de que nadie esté escuchando, luego se inclina hacia adelante y baja la voz en un susurro.] ... Kaga?}
 {609}{}{Oh! Yeah, that guy. I'll make sure I don't end up like him. Thanks.}
 {610}{}{Oh, that's who I thought you meant. But, uh, why don't you go ahead and tell me what his deal is again. I really love that story.}
 {611}{}{[Mynoc mumbles something under his breath and shakes his head before beginning his tale.] As you should know, he was once the greatest warrior of our tribe. He led many expeditions into the outside world, and it was there where corruption began to poison his mind.}
@@ -142,10 +142,10 @@
 {625}{}{The Elder did not agree. He-Who-Must-Not-Be-Named was forcibly exiled from our tribe and his name was never to be spoken amongst us again. As he was cast away into the wastes, he swore an oath of vengeance. Vengeance against our tribe, and especially against you.}
 {626}{}{¿Qué es lo que he de hacer?}
 {627}{}{Gracias por el consejo, Jimmy. Sería mejor que me fuese ahora.}
-{628}{}{You are the Chosen One, a title he feels is rightfully his. His pride will not allow you to live.}
+{628}{}{Usted es la Elegida, un título que siente que es suyo legítimamente. Su orgullo no te permitirá vivir.}
 {629}{}{I'm not going to worry about it. He's probably dead out in the wastes by now, anyway.}
 {630}{}{I'll be on my guard. Hopefully he's dead out in the wastes by now.}
-{631}{}{Listen, and understand. He-Who-Must-Not-Be-Named is out there. He can't be bargained with. He can't be reasoned with. He won't feel pity, or remorse, or fear. And he absolutely will not stop, ever, until you are dead.}
+{631}{}{Escucha, y entiende. Quie-no-debe-ser-nombrado está por ahí. No se puede negociar con él. No se puede razonar con el. No sentirá lástima, remordimiento o miedo. Y definitivamente no se detendrá, hasta que estés muerta.}
 {632}{}{You know, I think you might be overdoing it with the melodrama, just a tad. Anyway, thanks for the advice. I'll see you around, Mynoc.}
 {633}{}{Lo tendré en mente. Cuídate, Mynoc.}
 {640}{}{¿Puedes contarme algo sobre esta Hermandad?}

@@ -1255,7 +1255,7 @@
 {5276}{}{El Hombre de Hojalata.}
 {5277}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {5278}{}{El Café de los Sueños Rotos.}
-{5279}{}{A gathering of important looking individuals.}
+{5279}{}{Una reunión de individuos de aspecto importante.}
 {5300}{}{Algunos alienígenas y Garras mortales.}
 {5301}{}{Restos del ejército del Maestro compuesto por nómadas y centauros.}
 {5302}{}{Algunos geckos de fuego.}
@@ -1276,7 +1276,7 @@
 {5317}{}{Un enjambre de nómadas.}
 {5318}{}{Un hombre guardando un puente.}
 {5319}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{5320}{}{A gathering of important looking individuals.}
+{5320}{}{Una reunión de individuos de aspecto importante.}
 {5350}{}{Algunos alienígenas y Garras mortales.}
 {5351}{}{Restos del ejército del Maestro compuesto por nómadas y centauros.}
 {5352}{}{Algunos geckos de fuego.}
@@ -1295,7 +1295,7 @@
 {5365}{}{Algunos alienígenas.}
 {5366}{}{Un grupo de centauros.}
 {5367}{}{Un enjambre de nómadas.}
-{5368}{}{A gathering of important looking individuals.}
+{5368}{}{Una reunión de individuos de aspecto importante.}
 {5400}{}{Montón de basura tóxica.}
 {5401}{}{Un solitario perro superviviente.}
 {5402}{}{Un rebaño de brahmines.}
@@ -1319,7 +1319,7 @@
 {5420}{}{El Hombre de Hojalata.}
 {5421}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {5422}{}{El Café de los Sueños Rotos.}
-{5423}{}{A gathering of important looking individuals.}
+{5423}{}{Una reunión de individuos de aspecto importante.}
 {5450}{}{Una manada de geckos de fuego.}
 {5451}{}{Una manada de geckos de fuego.}
 {5452}{}{Un gran grupo de geckos dorados.}
@@ -1334,7 +1334,7 @@
 {5461}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {5462}{}{Un hombre guardando un puente.}
 {5463}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{5464}{}{A gathering of important looking individuals.}
+{5464}{}{Una reunión de individuos de aspecto importante.}
 {5500}{}{Una manada de geckos de fuego.}
 {5501}{}{Una manada de geckos de fuego.}
 {5502}{}{Un gran grupo de geckos dorados.}
@@ -1347,7 +1347,7 @@
 {5509}{}{Algunos cazarrecompensas.}
 {5510}{}{Algunos cazarrecompensas.}
 {5511}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{5512}{}{A gathering of important looking individuals.}
+{5512}{}{Una reunión de individuos de aspecto importante.}
 {5550}{}{Montón de basura tóxica.}
 {5551}{}{Un solitario perro superviviente.}
 {5552}{}{Un rebaño de brahmines.}
@@ -1523,7 +1523,7 @@
 {5915}{}{Hubologistas defendiéndose de una banda de asaltantes.}
 {5916}{}{Hubologistas.}
 {5917}{}{Una banda de mercenarios.}
-{5918}{}{A gathering of important looking individuals.}
+{5918}{}{Una reunión de individuos de aspecto importante.}
 {5950}{}{Una banda de mercenarios.}
 {5951}{}{Una banda de asaltantes.}
 {5952}{}{Un rebano de Garras mortales.}
@@ -1544,7 +1544,7 @@
 {5967}{}{Un hombre guardando un puente.}
 {5968}{}{Caballeros del Rey Arturo luchando contra una rata.}
 {5969}{}{Una banda de mercenarios.}
-{5970}{}{A gathering of important looking individuals.}
+{5970}{}{Una reunión de individuos de aspecto importante.}
 {6000}{}{Una banda de mercenarios.}
 {6001}{}{Una banda de asaltantes.}
 {6002}{}{Un rebano de Garras mortales.}
@@ -1563,7 +1563,7 @@
 {6015}{}{Hubologistas defendiéndose de una banda de asaltantes.}
 {6016}{}{Hubologistas.}
 {6017}{}{Una banda de mercenarios.}
-{6018}{}{A gathering of important looking individuals.}
+{6018}{}{Una reunión de individuos de aspecto importante.}
 {6050}{}{Montón de basura tóxica.}
 {6051}{}{Un solitario perro superviviente.}
 {6052}{}{Un rebaño de brahmines.}
@@ -1593,7 +1593,7 @@
 {6076}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {6077}{}{El Café de los Sueños Rotos.}
 {6078}{}{Una banda de mercenarios.}
-{6079}{}{A gathering of important looking individuals.}
+{6079}{}{Una reunión de individuos de aspecto importante.}
 {6100}{}{Montón de basura tóxica.}
 {6101}{}{Un solitario perro superviviente.}
 {6102}{}{Un rebaño de brahmines.}
