@@ -1,17 +1,17 @@
 {100}{}{Ves a un viejo.}
-{101}{}{The decrepit old man reeks of sweat and possibly urine. He's garbed in tattered, muddy rags, and is carrying a shovel.}
+{101}{}{El decrépito anciano apesta a sudor y posiblemente a orina. Está vestido con harapos, trapos andrajosos, y lleva una pala.}
 {102}{}{Ves a Tom.}
-{200}{}{[The old man jolts with surprise when he sees you approach.] Uh, look, I really must be going...}
-{201}{}{Now you hold on a minute. [You grab the man by the arm as he begins to walk away.] Who are you, and what are you
- doing here at this hour?}
-{202}{}{What? Why, uh...the name's Tom and can't an old man enjoy a nightly stroll anymore without getting asked a bunch of
- questions?}
-{203}{}{Not when he's slinking around like a thief and carrying a shovel.}
-{204}{}{Alright fine, but why are you carrying a shovel?}
+{200}{}{[El anciano se sobresalta de sorpresa cuando te ve acercarse.] Uh, mira, realmente debo ir ...}
+{201}{}{Ahora espera un minuto. [Agarras al hombre del brazo cuando comienza a alejarse.] ¿Quién eres? ¿Qué estas
+ haciendo aquí a esta hora?}
+{202}{}{¿Qué? ¿Por qué, uh... el nombre es Tom y un anciano no puede disfrutar de un paseo nocturno sin que le hagan un montón de
+ preguntas?}
+{203}{}{No cuando se desliza como un ladrón y lleva una pala.}
+{204}{}{Muy bien, pero ¿por qué llevas una pala?}
 {205}{}{Lo que sea, me largo de aquí.}
 {206}{}{No importa. Lamento molestarte.}
-{207}{}{You mean this ol' thing? [He glances down at the rusty shovel in his hands.] Well, uh, you never know when you
- might find something that needs digging up. Always be prepared I say.}
+{207}{}{¿Te refieres a esto viejo? [Él mira hacia abajo a la pala oxidada en sus manos.] Bueno, nunca se sabe cuándo
+ podría encontrar algo que necesite desenterrar. Siempre esté preparado, digo.}
 {208}{}{Encontrar algo, eh? Que decir, como algo en una tumba?}
 {209}{}{Eso es un buen lema, de verdad. Bien, ten cuidado.}
 {210}{}{(Los ojos de Tom se ensanchan) No estoy muy seguro de lo que quieres decir.}
@@ -36,24 +36,24 @@
 {221}{}{(Los ojos del anciano se iluminan.) Eso no suena como una mala idea. Hey gracias. Quizás este mundo no sea como
   cruel como pensé que era.}
 {222}{}{Cuídate entonces, Tom. Lo consultaré más tarde y veré cómo van las cosas.}
-{223}{}{I sure hope that Peterson fella is as friendly as you say he is.}
-{300}{}{You see Tom. He's wearing new worker's clothing and whistling cheerfully.}
-{301}{}{Hey there! Wow, you were right. That Mr. Peterson is one kindly fella. He forgave me for what I did and even
- offered me a job helping out in the field. He says once I pay off the food I've taken, then I'll start making a
- weekly salary. Thanks again for your trouble.}
+{223}{}{Espero que Peterson sea tan amable como dices que es.}
+{300}{}{Ves a Tom. Lleva ropa nueva de trabajador y silba alegremente.}
+{301}{}{¡Oye aqui! Wow, tenías razón. Que el Sr. Peterson es un tipo amable. Me perdonó por lo que hice e incluso
+ me ofreció un trabajo de ayudante en el campo. Él dice que una vez que pague la comida que he tomado, entonces comenzaré a tener un
+ salario semanal Gracias de nuevo por la molestia.}
 {302}{}{De nada, Tom. Cuídate.}
-{303}{}{Alright I wi- Oh, wait a second. I want to give you something for helping an old fella like me out. I found this
- lighter on some lad I dug up a couple weeks ago. I have no use for it and hopefully you might.}
+{303}{}{Bien, yo ... Oh, espera un segundo. Quiero darte algo por ayudar a un viejo como yo. Encontré este
+ encendedor en un chico que desenterré hace un par de semanas. No tengo uso para eso y espero que tu si puedas.}
 {304}{}{Gracias, Tom. Estoy seguro de que esto será muy útil. Nos vemos.}
 {305}{}{(El viejo asiente y vuelve a lo que estoy haciendo).}
 {306}{}{[FIN]}
 {307}{}{Hola de nuevo. ¡Gracias por todo!}
 {308}{}{*Silbas*}
-{400}{}{You youngins never learn. You aint the boss of me. I think I'll just kill you instead.}
-{450}{}{Listen, I've dug up my share of graves too. I'm a bit of a kleptomaniac. What's your reason?}
-{451}{}{I'm not unfamiliar to grave digging, Tom. Every man has his own enjoyment. Now you be on your way.}
-{1000}{}{You figure out who is digging up the graves and set Tom towards a new life.}
+{400}{}{Ustedes jóvenes nunca aprenden. Tú no eres el jefe para mi. Creo que te mataré en su lugar.}
+{450}{}{Escucha, también he desenterrado algunas tumbas. Soy un poco cleptómano. ¿Cuál es tu razón?}
+{451}{}{No estoy familiarizado con la excavación de tumbas, Tom. Cada hombre tiene su propio placer. Ahora estás en camino.}
+{1000}{}{Descubre quién está desenterrando las tumbas y dirige a Tom hacia una nueva vida.}
 {1001}{}{Encuentras una trampa en la tumba.}
 {1002}{}{Me voy. No nay una necesidad de apresurar un viejo.}
 {1003}{}{Ves a un hombre de mediana edad que lleva ropa usada.}
-{1004}{}{He seems to be in much better condition and he smiles when you approach.}
+{1004}{}{Él parece estar en mucho mejor condición y él sonríe cuando te acercas.}
