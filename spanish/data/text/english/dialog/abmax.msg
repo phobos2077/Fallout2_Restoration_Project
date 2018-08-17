@@ -5,10 +5,10 @@
 {201}{}{Tengo algo de Elaine...}
 {202}{}{¿Qué es este lugar?}
 {203}{}{Adiós.}
-{300}{}{Déjame adivinar. Es esa parte del servicio que solicité, ¿verdad?}
+{300}{}{Déjame adivinar. Es esa pieza del servicio que solicité, ¿verdad?}
 {301}{}{Sí, aquí está.}
 {302}{}{No, sólo te estaba probando.}
-{303}{}{(Él toma la parte de tus manos) ¡Finalmente! Ahora podemos arreglar esta máquina de impresión. Gracias, toma este manual de supervivencia por la molestia.}
+{303}{}{(Él toma la pieza de tus manos) ¡Finalmente! Ahora podemos arreglar esta máquina de impresión. Gracias, toma este manual de supervivencia por las molestias.}
 {304}{}{Gracias.}
 {305}{}{Mira, no tengo tiempo para esto. ¿Tienes la parte o no?}
 {306}{}{Sí, lo tengo.}
@@ -16,7 +16,7 @@
 {400}{}{Este es nuestro trabajo de impresión. Copiamos nuestros libros aquí.}
 {401}{}{Bueno, gracias por la información.}
 {500}{}{Ganas 100 puntos de experiencia para entregar la pieza.}
-{600}{}{Seré GRAN ayudante hoy. Tengo una parte de la máquina de la mujer bonita.}
-{610}{}{Esa debe ser la parte del servicio que solicité a Elaine. Gracias por traerme esto. Aquí, ten este
- manual de supervivencia por la molestia ... uh si puede leerlo, claro esta.}
-{611}{}{Leí diez palabras. Me gustan más los libros de pitcher. Ellos se ven divertidos. ¡Yanqui!}
+{600}{}{Seré GRANDE ayudante hoy. Tengo pieza de macuina de la mujer bonita.}
+{610}{}{Esa debe ser la pieza del servicio que solicité a Elaine. Gracias por traerme esto. Aquí, toma este
+ manual de supervivencia por las molestias ... uh si puede leerlo, eso es.}
+{611}{}{Leí diez palabras. Me gutan lanzar libros más. Ellos se divierten mirar. ¡Gratias!}

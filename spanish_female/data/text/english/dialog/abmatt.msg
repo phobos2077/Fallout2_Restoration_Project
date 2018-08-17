@@ -5,7 +5,7 @@
 {201}{}{Aquí recogemos, las sagradas reliquias de un era pasada.}
 {202}{}{Arrasada por el Diluvio de Llamas, en la oscuridad, fueron arrojados.}
 {203}{}{Un Memorial que debemos hacer, para preservar la sabiduría de los antiguos.}
-{204}{}{Debemos resguardar y cuidar de ello, aunque la llama se haya extinguido;}
+{204}{}{Debemos guardarlo y cuidarlo, aunque la llama se haya enfriado}
 {205}{}{Podría encenderse una vez más, debido al mal uso de su sabiduría.}
 {206}{}{Por lo tanto, nadie debe aprender, por temor a otro, Diluvio de Llamas.}
 {207}{}{Pero un día, el hombres se elevara por encima de su deseo de destrucción.}
@@ -35,13 +35,13 @@
  visitantes, como usted. La mayoría de los que ves aquí descienden de los fundadores originales que se establecieron en
  este antiguo monasterio no mucho después del gran Diluvio de Llamas.}
 {601}{}{Sigue.}
-{602}{}{La tranquilidad, la calidad pacífica de este lugar lo ha convertido en un hogar atractivo para otros viajeros que han vagado
- aquí a lo largo de los años, buscando escapar del oscuro caos del yermo. Por supuesto, el verdadero valor de este lugar yace
- en su vasta biblioteca. Está llena de tomos viejos, que contienen la extraña sabiduría de una edad perdida. Con el tiempo, hemos llegado a
+{602}{}{La tranquilad, cualidad pacífica de este lugar que lo ha convertido en un hogar atractivo para otros viajeros que han vagado
+ aquí a lo largo de los años, buscando escapar del oscuro caos del Yermo. Por supuesto, el verdadero valor de este lugar yace
+ en su vasta biblioteca. Está lleno de tomos viejos, que contienen la extraña sabiduría de una edad perdida. Con el tiempo, hemos llegado a
  imaginarnos los cuidadores y guardianes de esa sabiduría.}
 {603}{}{Muy interesante. ¿Otra pregunta?}
 {604}{}{Interesante. Bien, he de irme. }
-{700}{}{[El hombre se ríe de tu pregunta] No, no hay una razón en particular. He leído mucho sobre poesía a lo largo de mi vida
+{700}{}{[El hombre se ríe de tu pregunta] No, no hay una razón en particular. He leido mucha poesía a lo largo de mi vida
  y me gusta aplicarla a mis enseñanzas. Ayuda a dejar un mayor impacto en los que escuchan.}
 {701}{}{Me parece justo. ¿Otra pregunta?}
 {800}{}{Qué bueno verte de nuevo.}

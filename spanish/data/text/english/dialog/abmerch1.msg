@@ -3,11 +3,11 @@
 {103}{}{¡Simplemente no puedo conseguir que esta cosa funcione!}
 {104}{}{Esto parece ser muy difícil de arreglar.}
 {105}{}{¡Qué mierda es esto!}
-{106}{}{Eres un pequeño tenaz hijo de perra?}
+{106}{}{¿Eres un astuto pequeño hito de perra?}
 {107}{}{¿Puedes ayudar?}
 {108}{}{Quizás tengas más suerte con esto.}
 {109}{}{¡Oye, gracias por arreglar la bomba de agua!}
-{110}{}{Debes notificar al monje principal que la bomba de agua está ahora reparada.}
+{110}{}{Debes notificar al monje principal que la bomba de agua ahora está arreglada.}
 {200}{}{Gracias por ayudarnos con esta cosa.}
 {300}{}{Ah, qué pedazo de mier- umm, estoy un poco ocupado ahora mismo. ¿Necesitas algo o solo me
  estás haciendo perder mi tiempo?}
