@@ -7,5 +7,5 @@
 {202}{}{Deberías hablar con Harold si quieres un pase amarillo.}
 {203}{}{Que le vaya bien... señor.}
 {204}{}{No hay más trabajo, que yo sepa.}
-{205}{}{Life here at the Abbey is a peaceful one. Something rare in these wretched wastes.}
+{205}{}{La vida aquí en la Abadía es pacífica. Algo raro en este miserable Yermo.}
 {500}{}{¡Deja de hacer eso!}

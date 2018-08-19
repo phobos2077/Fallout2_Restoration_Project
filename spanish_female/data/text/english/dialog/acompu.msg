@@ -60,46 +60,46 @@
 {200}{}{Piedra, Papel, Tijeras V.0.3. Seleccione una opción.}
 {201}{}{Seleccionar ROCA.}
 {202}{}{Seleccionar PAPEL.}
-{203}{}{Select SCISSORS.}
+{203}{}{Seleccionar TIJERAS.}
 {204}{}{Vuelves al menú principal.}
-{205}{}{Terminal makes selection.....Calculating.....Terminal wins!}
-{206}{}{Terminal makes selection.....Calculating.....User wins!}
-{207}{}{Terminal makes selection.....Calculating.....Draw!}
-{300}{}{(The computer screen shows various color patterns.)}
+{205}{}{Terminal seleccionando ..... Calculando ..... Terminal gana!}
+{206}{}{Terminal seleccionando ..... Calculando ..... ¡El usuario gana!}
+{207}{}{Terminal seleccionando ..... Calculando ..... ¡Empate!}
+{300}{}{(La pantalla de la computadora muestra varios patrones de color).}
 {301}{}{¡Ohhh! Qué bonitas colores.}
 {302}{}{Arrástrate.}
 {400}{}{Leer más.}
 {401}{}{Volver al menú.}
-{402}{}{Search by topic.}
+{402}{}{Búsqueda por tema}
 {403}{}{Por favor, introduzca un tema para buscar.}
 {404}{}{Ciencia.}
 {405}{}{Reparación.}
 {406}{}{Medicina.}
 {407}{}{Manejo de armas.}
-{408}{}{Persuasive Arguments.}
-{410}{}{After a few hours of reading you learn more about the art of science.}
-{411}{}{After a few hours of reading you learn more about the art of repairing machines.}
-{412}{}{After a few hours of reading you learn more about the art of medicine.}
-{413}{}{After a few hours of reading you learn more about the art of defending oneself with a weapon.}
-{414}{}{After a few hours of reading you learn more about the art of persuasion.}
-{420}{}{After a few hours of reading you learn nothing new about the art of science.}
-{421}{}{After a few hours of reading you learn nothing new about the art of repairing machines.}
-{422}{}{After a few hours of reading you learn nothing new about the art of medicine.}
-{423}{}{After a few hours of reading you learn nothing new about the art of firing a gun.}
-{424}{}{After a few hours of reading you learn nothing new about the art of persuasion.}
+{408}{}{Argumentos persuasivos.}
+{410}{}{Después de unas horas de lectura, aprendes más sobre el arte de la ciencia.}
+{411}{}{Después de unas horas de lectura, aprendes más sobre el arte de reparar máquinas.}
+{412}{}{Después de unas horas de lectura, aprendes más sobre el arte de la medicina.}
+{413}{}{Después de unas horas de lectura, aprendes más sobre el arte de defenderte con un arma.}
+{414}{}{Después de unas horas de lectura, aprendes más sobre el arte de la persuasión.}
+{420}{}{Después de unas horas de lectura, no aprendes nada nuevo sobre el arte de la ciencia.}
+{421}{}{Después de unas horas de lectura, no aprendes nada nuevo sobre el arte de reparar máquinas.}
+{422}{}{Después de unas horas de lectura, no aprendes nada nuevo sobre el arte de la medicina.}
+{423}{}{Después de unas horas de lectura, no aprendes nada nuevo sobre el arte de disparar un arma.}
+{424}{}{Después de unas horas de lectura, no aprendes nada nuevo sobre el arte de la persuasión.}
 {430}{}{Atrás.}
-{500}{}{As you read over more articles, you learn the GECK was developed by Future-Tec, a division of Vault-Tec, and that
- it was standard issue in all Vault-Tec vaults. It was meant to be used upon exiting a Vault, to help re-establish life in
- the harsh environments of a world devastated by nuclear war.}
-{501}{}{Upon further reading, you discover the GECK isn't quite the miracle device the ad made it out to be. The "Base Replicator"
- is actually nothing more than a fertilizer system containing food seeds, soil supplements, and chemicals specifically engineered to
- turn arid wasteland into fertile soil. Its claim that it can "build basic items" actually alludes to new codes it provides for the
- Vault's machines, allowing them to create new items from the dispensers. The GECK also contains schematics for basic force fields
- and the construction of "sand-crete" walls and buildings.}
+{500}{}{A medida que lees más artículos, descubres que el GECK fue desarrollado por Future-Tec, una división de Vault-Tec, y que
+ era un asunto estándar en todos los Refugios de Vault-Tec. Estaba destinado a ser utilizado al salir de un Refugio, para ayudar a restablecer la vida en
+ los duros entornos de un mundo devastado por la guerra nuclear.}
+{501}{}{Tras leerlo más a fondo, descubres que el GECK no es exactamente el dispositivo milagroso que creó el anuncio. El "Replicador base"
+no es más que un sistema de fertilizantes que contiene semillas de alimentos, suplementos para el suelo y productos químicos diseñados específicamente
+ para convertir El Yermo en tierras fértiles. Su afirmación de que puede "construir elementos básicos" en realidad alude a los nuevos códigos que proporciona para las
+ máquinas del Refugio, lo que les permite crear nuevos artículos de los dispensadores. El GECK también contiene esquemas para campos de fuerza básicos
+ y la construcción de muros y edificios de "arena y creta".}
 {502}{}{[MÁS]}
-{503}{}{It seems the GECK itself is meant to be disassembled over the course of its use. You read an example of how its cold fusion
- power source is intended be used for main city power production. The GECK even contains instructions on disassembling sections of the
- Vault to create homes and defensive structures for the new community. As you finish reading over the files, you decide that even though
- it's not the magical device the Elder seems to think it is, finding a GECK is still your best option if you hope to save your tribe.}
-{1000}{}{You upload the EPA Botany Holodisk.}
-{2000}{}{You format the Abbey's book databases.}
+{503}{}{Parece que el GECK se debe desmontar en el transcurso de su uso. Lees un ejemplo de cómo se pretende que su fuente de energía de fusión fría
+ se utilice para la producción de energía de la ciudad principal. El GECK incluso contiene instrucciones sobre el desmontaje de secciones del
+ Refugio para crear hogares y estructuras defensivas para la nueva comunidad. Cuando terminas de leer los archivos, decides que aunque
+ no es el dispositivo mágico que La Anciana parece pensar que es, encontrar un GECK sigue siendo tu mejor opción si deseas salvar a tu tribu.}
+{1000}{}{Cargas el Holodisco Botanico de la APA.}
+{2000}{}{Formateas las bases de datos de libros de la Abadía.}

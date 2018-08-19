@@ -40,7 +40,7 @@
 {302}{}{Se nos acaba el tiempo, Elegido. Por favor, termina tu sagrada misión pronto. No podemos permitirnos esperar mucho más. Si hay algo que pueda hacer para ayudarte a salvarnos, dímelo.}
 {303}{}{Elegido, el poblado está casi muerto... eres nuestra única esperanza. ¿Hay algo que pueda decirte que te ayude a salvarnos?}
 {400}{}{¿Puedo hacer algo para ayudar?}
-{401}{}{[The villager stares at you, wide-eyed, then slowly steps away from you while glancing around nervously.]}
+{401}{}{[El aldeano te mira, con los ojos muy abiertos, luego se aleja lentamente de ti mientras mira nerviosamente a su alrededor.]}
 {402}{}{Bueno, supongo que no.}
 {1000}{}{Anciana}
 {1001}{}{Fundador}

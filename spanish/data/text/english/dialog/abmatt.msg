@@ -5,7 +5,7 @@
 {201}{}{Aquí recogemos, las sagradas reliquias de un era pasada.}
 {202}{}{Arrasada por el Diluvio de Llamas, en la oscuridad, fueron arrojados.}
 {203}{}{Un Memorial que debemos hacer, para preservar la sabiduría de los antiguos.}
-{204}{}{Debemos guardarlo y cuidarlo, aunque la llama se haya enfriado}
+{204}{}{Debemos guardarlo y cuidarlo, aunque la llama se haya enfriado;}
 {205}{}{Podría encenderse una vez más, debido al mal uso de su sabiduría.}
 {206}{}{Por lo tanto, nadie debe aprender, por temor a otro, Diluvio de Llamas.}
 {207}{}{Pero un día, el hombres se elevara por encima de su deseo de destrucción.}

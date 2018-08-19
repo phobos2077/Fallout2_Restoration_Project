@@ -8,11 +8,11 @@
 {301}{}{¿Qué puedes contarme sobre vuestro orden?}
 {302}{}{Vamos a comerciar.}
 {303}{}{Adiós.}
-{400}{}{Our holy mission is to collect and preserve the sacred relics of the forgotten past. Anyone is welcome here, as long as they don't damage anything.}
+{400}{}{Nuestra santa misión es recoger y preservar las reliquias sagradas del pasado olvidado. Cualquiera es bienvenido aquí, siempre y cuando no dañen nada.}
 {401}{}{¿Como os llamáis?}
 {402}{}{¿Qué clase de virus?}
-{403}{}{He can be found on the third floor. If you wish to learn more about our order, he is the one to talk to.}
-{404}{}{All sorts, but most of our Memorabilia consist of ancient tomes. So much information can be obtained from those texts. It is our mission to preserve this knowledge so that a future generation may use it to build a new world of peace and joy.}
+{403}{}{Él puede ser encontrado en el tercer piso. Si desea obtener más información sobre nuestra orden, es él con quien debe hablar.}
+{404}{}{De todo tipo, pero la mayoría de nuestros Memoriales consisten en tomos antiguos. Se puede obtener mucha información de esos textos. Es nuestra misión preservar este conocimiento para que una generación futura pueda usarlo para construir un nuevo mundo de paz y alegría.}
 {405}{}{De acuerdo.}
 {406}{}{Vale.}
 {500}{}{¡Deja de hacer eso!}

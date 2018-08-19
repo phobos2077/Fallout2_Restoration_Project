@@ -1,9 +1,9 @@
 {100}{}{Ves al Abad, el líder espiritual de la Abadía.}
-{101}{}{There's something about this monk that leads you to believe he's rather important.}
+{101}{}{Hay algo acerca de este monje que te hace creer que es bastante importante.}
 {200}{}{Bienvenido, viajero.}
 {201}{}{Me alegro de verte.}
 {202}{}{Somos los guardianes del conocimiento.}
-{203}{}{I'm sorry, but knowledge of our books is of no use to you.}
+{203}{}{Lo siento, pero el conocimiento de nuestros libros no te sirve.}
 {300}{}{Bienvenido a la Abadía, viajero. ¿Cómo puedo ayudarte?}
 {301}{}{¿Qué puedes contarme sobre vuestro orden?}
 {302}{}{¿Alguna vez ha oído hablar de un dispositivo llamado GECK?}
@@ -11,23 +11,23 @@
 {304}{}{Adiós.}
 {400}{}{¿Qué quieres saber?}
 {401}{}{Vale. Me gustaría hacerte otra pregunta.}
-{402}{}{Hmm….that *does* sound familiar. Why, yes, I recall Brother Thomas mentioning something about that recently. I'm sorry, but I don't recall exactly what he said.}
-{403}{}{That's fine. Just point me to Brother Thomas and I'll go ask him.}
+{402}{}{Hmm ... eso *me* suena familiar. Sí, recuerdo que el Hermano Thomas mencionó algo sobre eso recientemente. Lo siento, pero no recuerdo exactamente lo que dijo.}
+{403}{}{Esta bien. Solo señalame al Hermano Thomas y le preguntaré.}
 {404}{}{No sé nada de eso.}
 {405}{}{Bien, gracias de todos modos.}
-{406}{}{I'm afraid I won't be able to do that. You see, I am under the impression that Brother Thomas is no longer among
- the living. But, fortunately for you, he was one of our most reliable transcribers. I'm sure whatever articles he came
- across concerning the information you seek has been transcribed into our computers.}
-{407}{}{Wait a second, you're "under the impression" that Brother Thomas is dead? Where I come from, death is a pretty clear cut thing. So, is he dead, or isn't he?}
-{408}{}{Brother Thomas has been missing for several days, ever since he went down to the caverns below the Abbey. [He sighs wearily.]
- You see, some of the Abbey's residents claimed to have seen a huge beast lurking down there, and Brother Thomas was quite skeptical.
- He took it upon himself to go dispel these rumors, yet, as it turns out, his disappearance has only further validated them.}
-{409}{}{Hmmm. Maybe I should take a look what's down there. *I AM* the chosen one after all...}
+{406}{}{Me temo que no podré hacer eso. Verá, tengo la impresión de que el hermano Thomas ya no está entre
+ los vivos. Pero, afortunadamente para ti, fue uno de nuestros transcriptores más confiables. Estoy seguro de que cualquier artículo que encontró
+ sobre la información que busca ha sido transcrito en nuestras computadoras.}
+{407}{}{Espera un segundo, ¿estás "bajo la impresión" de que el hermano Thomas está muerto? De donde vengo, la muerte es algo bastante claro. Entonces, ¿está muerto, o no?}
+{408}{}{El Hermano Thomas ha estado desaparecido durante varios días, desde que bajó a las cavernas debajo de la Abadía. [Suspira con cansancio.]
+ Verá, algunos de los residentes de la Abadía afirmaron haber visto una enorme bestia merodeando por allí, y el Hermano Thomas era bastante escéptico.
+ Él se encargó de disipar estos rumores, sin embargo, como resultado, su desaparición solo los ha validado más.}
+{409}{}{Hmmm. Tal vez debería echar un vistazo a lo que hay allí abajo. * YO SOY * la elegida después de todo ...}
 {410}{}{Soy aventurero. Pudeo echar un vistazo.}
-{411}{}{You'd really do that? Perhaps while you're down there, you could look for a certain book. You see, it was last
- known to be in Brother Thomas's possession, and it's very important to us, as it was passed down by our founders.
- If you could retrieve that book, I would be most grateful. In fact, I'd grant you full access to our computers, so you
- can look for whatever you desire.}
+{411}{}{¿Realmente harías eso? Quizás mientras estés abajo, podrías buscar cierto libro. Verás, se sabía
+ que estaba en posesión del hermano Thomas, y es muy importante para nosotros, ya que fue transmitido por nuestros fundadores.
+ Si pudieras recuperar ese libro, estaría muy agradecido. De hecho, le otorgaría acceso completo a nuestras computadoras, para que
+ pueda buscar lo que desee.}
 {412}{}{Trato hecho. Volveré pronto.}
 {413}{}{Quizás, déjame pensármelo un poco más...}
 {414}{}{Oh, mi dolorido corazón. Por favor, cuando la encuentres házmelo saber.}
@@ -37,122 +37,106 @@
 {418}{}{Excelente. Déjame que lo escanee.}
 {419}{}{Aquí están.}
 {420}{}{No tan rápido. ¿Cuánto vale para ti?}
-{421}{}{[He takes the book from you and caresses its cover as if to sooth it.] You have done us a great service. You now
- have full access to our computers in the library. Tell Brother Paul I grant you permission to access our files.}
+{421}{}{[Él toma el libro de ti y acaricia su cubierta como para calmarlo.] Nos has hecho un gran servicio. Tú ahora
+ tienes acceso completo a nuestras computadoras en la biblioteca. Dile al Hermano Paul que te otorgamos permiso para acceder a nuestros archivos.}
 {422}{}{Gracias.}
-{423}{}{You want money for it? Fine, here's $250. Go see Brother Paul for access to the computers.}
+{423}{}{¿Quieres dinero por eso? Bien, aquí hay $ 250. Ve a ver al Hermano Paul para acceder a las computadoras.}
 {424}{}{Gracias por el dinero, adiós.}
-{425}{}{You should look on a second floor computer, now that you have full access there.}
+{425}{}{Deberías mirar en una computadora del segundo piso, ahora que tienes acceso completo allí.}
 {426}{}{De acuerdo, adiós.}
 {430}{}{¿Cuál es el propósito de tu orden?}
 {431}{}{¿Cuál es la historia de la Abadía?}
 {432}{}{Hmm, en este momento no tengo preguntas.}
-{433}{}{Our holy mission is to read, copy and take care of our sacred books of knowledge and other relics of the lost age.
- It is our hope that with this knowledge we are able to create a Memorabilia that might one day help humanity emerge from
- its self-imposed Dark Age. Any information that we come across is recorded, lest it be lost like so much was in the
- great Flame Deluge.}
-{434}{}{After the Great War, the guiding hands of fate directed our ancestors to this old Abbey in the mountains. Due to
- its remote location, the monastery survived the Flame Deluge mostly unscathed. As our ancestors explored the building,
- they discovered an extensive library of books. And not just religious texts, oh no, this library contained the gamut of
- written works, from literary classics, to scientific encyclopedias.}
+{433}{}{
+Nuestra misión sagrada es leer, copiar y cuidar nuestros libros sagrados de conocimiento y otras reliquias de la era perdida.
+ Es nuestra esperanza que con este conocimiento podamos crear una Memorial que algún día podría ayudar a la humanidad a salir de
+ su Oscuridad autoimpuesta. Cualquier información que encontremos queda grabada, para que no se pierda tanto como en el
+ gran Diluvio de Llamas.}
+{434}{}{Después de la Gran Guerra, las manos guía del destino dirigieron a nuestros antepasados a esta antigua Abadía en las montañas. Debido a
+ su ubicación remota, el monasterio sobrevivió al Diluvio de Llamas en su mayor parte ileso. Como nuestros antepasados exploraron el edificio,
+ descubrieron una extensa biblioteca de libros. Y no solo textos religiosos, oh no, esta biblioteca contenía toda la gama de
+ obras escritas, desde clásicos literarios hasta enciclopedias científicas.}
 {435}{}{¿Entonces qué pasó?}
 {436}{}{Ya he oído bastante.}
-{437}{}{They soon realized the true treasure trove of wisdom stored within those books—especially the scientific tomes.
- Here were the chronicles of a fallen civilization. A lost age. There were a few who thought it might be best to
- destroy this knowledge, for fear that it would once again guide humanity towards apocalypse. But it was eventually
- decided that they would instead dedicate themselves to ensuring the preservation of the books, to be released when,
- and if, the world was ready for it.}
+{437}{}{Pronto se dieron cuenta del verdadero tesoro oculto de sabiduría almacenado en esos libros, especialmente los tomos científicos.
+ Aquí estaban las crónicas de una civilización caída. Una edad perdida. Hubo algunos que pensaron que sería mejor
+ destruir este conocimiento, por temor a que una vez más guiara a la humanidad hacia el apocalipsis. Pero finalmente
+ se decidió que se dedicarían a garantizar la preservación de los libros, que se publicarían cuando,
+ y si, el mundo estuviera listo para ello.}
 {438}{}{(Más)}
-{439}{}{And so, utilizing a small printing press, they began making copies of the books, and also transcribing them
- into the Abbey's computers to preserve them digitally, should the physical books ever be destroyed. Over the long years,
- others have come across the Abbey, and some have elected to stay and live out their lives in the tranquil quiet of our mountain home.}
+{439}{}{Y así, utilizando una pequeña imprenta, comenzaron a hacer copias de los libros, y también a transcribirlos en las
+ computadoras de la Abadía para preservarlos digitalmente, si los libros físicos alguna vez fueran destruidos. Durante los largos años,
+ otros se han topado con la Abadía, y algunos han elegido quedarse y vivir sus vidas en la sencilla tranquilidad de nuestro hogar en la montaña.}
 {440}{}{Gracias por la historia.}
 {441}{}{¿De dónde procede el Jet?}
-{442}{}{They never told where they originally came from. We suspect that they came here originally from the east.}
+{442}{}{Nunca dijeron de dónde venían originalmente. Sospechamos que vinieron aquí originalmente del este.}
 {443}{}{Bueno, gracias por la historia.}
 {444}{}{¿Necesitas escolta hasta Ciudad Refugio?}
 {445}{}{Me he enterado de lo que va mal en su bomba de agua.}
 {446}{}{¿Sabes algo de los fundadores originales?}
-{447}{}{I do not know all the names of our founders, but the most important one I am aware of is Miller.
- Before the Great War he was an electrical engineer working for the United States government. Shortly thereafter,
- he converted to Catholicism and made an oath with himself that we would spend the rest of his life preserving the
- knowledge of the past. His greatest fear was that this knowledge would be lost forever and thus needed to be preserved
- so that future generations may benefit.}
-{448}{}{You must be quite knowledgeable having read so much.}
-{449}{}{I have indeed read much in my life. Yet you might be disappointed at the limitations of my knowledge. You see,
- we record and preserve. We are forbidden to act upon the wisdom of these books, therefore our understanding of the text is quite limited.}
-{450}{}{Wait, you're telling me that you just blindly transcribe these books without even trying to comprehend them?}
-{451}{}{As I've said, it is our job to preserve this knowledge, not to understand it. Before this knowledge can be
- returned to mankind, he must first prove to have risen above his tendency of mass genocide. That's the only way to
- ensure that history does not repeat itself.}
-{452}{}{Well, I've got news for you: that day's never going to come. And while you're hoarding all this knowledge in your
- little mountain paradise here, people out in the wasteland are struggling every day to survive. In fact, my entire tribe
- is on the brink of destruction. The knowledge contained in these books could help cure diseases, improve crops, and greatly
- increase the chance of humanity's survival.}
-{453}{}{Ah, well I suppose you make a good point. But it just seems like the information stored here could help out a lot
- of people. Even if you don't think the world's ready for this knowledge, I don't see why *you* can't at least try to learn from it.
- Otherwise, what's the point of keeping it?}
-{454}{}{I understand your frustration with our ways, but you must understand that this is the way things have always been
- for us. To alter things now, after so many years...that would be blasphemous against our faith. No, I feel we must continue
- to live by the rules set by our ancestors.}
-{455}{}{I understand your frustration with our ways, but you must understand that this is the way things have always been
- for us. To alter things now, after so many years...that would be blasphemous against our faith. Still, I shall consider
- your words. I sense great wisdom in you, wanderer. It is a pity I have met very few like you.}
+{447}{}{No conozco todos los nombres de nuestros fundadores, pero el más importante que conozco es Miller.
+ Antes de la Gran Guerra era un ingeniero eléctrico que trabajaba para el gobierno de los Estados Unidos. Poco después,
+ se convirtió al catolicismo e hizo un juramento consigo mismo de que pasaría el resto de su vida preservando el
+ conocimiento del pasado. Su mayor temor era que este conocimiento se perdería para siempre y, por lo tanto, era necesario preservarlo
+ para que las generaciones futuras pudieran beneficiarse.}
+{448}{}{Debes estar bien informado al haber leído tanto.}
+{449}{}{De hecho, he leído mucho en mi vida. Sin embargo, puede que te decepcionen las limitaciones de mi conocimiento. Usted ve,
+ registramos y preservamos. Tenemos prohibido actuar según la sabiduría de estos libros, por lo tanto, nuestra comprensión del texto es bastante limitada.}
+{450}{}{Espera, ¿me estás diciendo que transcribes ciegamente estos libros sin siquiera tratar de comprenderlos?}
+{451}{}{Como ya he dicho, nuestro trabajo es preservar este conocimiento, no comprenderlo. Antes de que este conocimiento pueda ser
+ devuelto a la humanidad, primero debe demostrar que ha superado su tendencia al genocidio en masa. Esa es la única forma de
+ garantizar que la historia no se repita.}
+{452}{}{Bueno, tengo noticias para ti: ese día nunca llegará. Y mientras acumulas todo este conocimiento en tu pequeño paraíso de montaña aquí, la gente en el Yermo está luchando todos los días para sobrevivir. De hecho, toda mi tribu está al borde de la destrucción. El conocimiento contenido en estos libros podría ayudar a curar enfermedades, mejorar los cultivos y aumentar en gran medida las posibilidades de supervivencia de la humanidad.}
+{453}{}{Ah, bueno, supongo que harías un buen punto. Pero parece que la información almacenada aquí podría ayudar a muchas personas. Incluso si no crees que el mundo está listo para este conocimiento, no veo por qué * tú * no puedes, al menos, tratar de aprender de ello. De lo contrario, ¿cuál es el sentido de mantenerlo?}
+{454}{}{Entiendo tu frustración con nuestros métodos, pero debes entender que así es como siempre han sido las cosas para nosotros. Para alterar las cosas ahora, después de tantos años ... eso sería una blasfemia contra nuestra fe. No, siento que debemos seguir viviendo según las reglas establecidas por nuestros antepasados.}
+{455}{}{
+Entiendo tu frustración con nuestros métodos, pero debes entender que así es como siempre han sido las cosas para nosotros. Para alterar las cosas ahora, después de tantos años ... eso sería una blasfemia contra nuestra fe. Aún así, consideraré tus palabras. Siento una gran sabiduría en ti, forastera. Es una pena que haya conocido a muy pocos como usted.}
 {456}{}{Gracias. Aunque me gustaría saber algo más.}
 {457}{}{Muy bien. Aunque me gustaría saber algo más.}
 {500}{}{¡Deja de hacer eso!}
 {501}{}{Ganas 200 puntos de experiencia para traer de vuelto el libro.}
 {600}{}{He reparado su bomba de agua.}
-{601}{}{That is great news, indeed. That waterpump had been acting up for quite some time. Those merchants said they
- could take care of it, but they didn't seem to be making much progress. It's a good thing you came along. Thank you again.}
-{602}{}{I expect some money for this you know. Now cough it up!}
+{601}{}{Esa es una gran noticia, de hecho. Esa bomba de agua había estado actuando durante bastante tiempo. Esos comerciantes dijeron que podían encargarse de eso, pero no parecían estar progresando mucho. Es algo bueno que hayas venido. Gracias de nuevo.}
+{602}{}{Espero algo de dinero por esto, ya sabes. Ahora tíralo!}
 {603}{}{No hay problema. Aunque tengo algunas preguntas más.}
 {604}{}{Será bueno para ti. Ten cuidado.}
-{605}{}{[Frowns.] I see. Fine, here, take these coins. Now go, and stop bothering me.}
+{605}{}{[Frunce el ceño.] Ya veo. Bien, aquí, toma estas monedas. Ahora ve y deja de molestarme.}
 {606}{}{Gracias, señor Tramposo.}
 {700}{}{Hmmm... parece que has encontrado una pista.}
-{701}{}{What!? [He sighs deeply.] It is most unfortunate that you were unable to recover that book. But you say you've
- killed the beast? Hm, then it should be safe to send our own people down to continue searching for it. Anyway, for your
- service, I shall grant you access to our computers. Go see Brother Paul for the access key.}
+{701}{}{¿¡Qué!? [Suspira profundamente.] Es muy desafortunado que no hayas podido recuperar ese libro. ¿Pero dices que mataste a la bestia? Hm, entonces debería ser seguro enviar a nuestra propia gente para continuar buscándola. De todos modos, por sus servicios, le otorgaré acceso a nuestras computadoras. Ve a ver al Hermano Paul por la clave de acceso.}
 {702}{}{Gracias.}
-{800}{}{Actually, yes. Our main water pump has been acting up for some time, and now it finally seems to have broken down
- completely. If you know anything about machinery, do you think you could take a look and see if something could be done?
- There are a few merchants already working on it. I fear that little progress has been made though.}
+{800}{}{Actualmente, si. Nuestra bomba de agua principal ha estado funcionando durante algún tiempo, y ahora finalmente parece haberse descompuesto por completo. Si sabes algo sobre maquinaria, ¿crees que podrías echar un vistazo y ver si se puede hacer algo? Hay algunos comerciantes que ya están trabajando en eso. Sin embargo, me temo que se han logrado pocos progresos.}
 {801}{}{Haré el trabajo. Informaré cuando esté hecho.}
-{802}{}{Sure, I'll be glad to help...for a price of course.}
+{802}{}{Claro, estaré encantada de ayudar ... por un precio, por supuesto.}
 {803}{}{Pensándolo mejor, déjame hacerte otra pregunta.}
-{804}{}{What!? Oh, fine. If that's the kind of person you are, then you shall receive payment for your service. Here's
- 25 coins to begin with.  Please let me know if something can be done. [The man sighs as he hands you the coins]}
-{805}{}{Hey, no need for the sighing. You think everything in life comes for free? Now, let me get to work.}
+{804}{}{¿¡Qué!? Ah bien. Si ese es el tipo de persona que eres, entonces recibirás el pago por tu servicio. Aquí están 25 monedas para comenzar. Por favor, avíseme si se puede hacer algo. [El hombre suspira mientras te entrega las monedas]}
+{805}{}{Oye, no hay necesidad de suspirar. ¿Crees que todo en la vida es gratis? Ahora, déjame ir a trabajar.}
 {806}{}{Por favor, vete, no lo contaré a nadie.}
-{807}{}{The motor gave out and fried all the connectors. I'm going to Vault City to get a new part.}
-{808}{}{Oh thank you. You are indeed a great help. Please report back once you install the new part.}
+{807}{}{El motor cedió y frió todos los conectores. Voy a Ciudad Refugio para obtener una nueva pieza.}
+{808}{}{Oh gracias. De hecho, eres una gran ayuda. Informe una vez que instale la pieza nueva.}
 {809}{}{¡Volveré!}
-{900}{}{You explain to the Abbot that while the information they hold could lead to mankind's annihilation, it could also lead to mankind's salvation.}
-{901}{}{You learn about the original founder of the Abbey.}
-{1000}{}{I killie scary monster down in cave.}
-{1010}{}{Really? That's great. That is very brave of you. You're a big boy.}
-{1011}{}{Really? That's great. That is very brave of you. You're a big girl.}
+{900}{}{Usted le explica al Abad que, si bien la información que contienen podría conducir a la aniquilación de la humanidad, también podría conducir a la salvación de la humanidad.}
+{901}{}{Aprendes sobre el fundador original de la Abadía.}
+{1000}{}{Yo maté a un monstruo aterrador en la cueva.}
+{1010}{}{De Verdad? Eso es genial. Eso es muy valiente de tu parte. Eres un niño grande.}
+{1011}{}{De Verdad? Eso es genial. Eso es muy valiente de tu parte. Eres una niña grande.}
 {1012}{}{Lo sé.}
-{1020}{}{Did you happen to find a book lying there? A friend of mine had it, and he went missing.}
-{1021}{}{I find book. Here, it heavy and no pitchers inside.}
-{1022}{}{I no find book. Sorree. I go look now.}
+{1020}{}{¿Encontraste un libro ahí? Un amigo mío lo tenía, y desapareció.}
+{1021}{}{Encuentro el libro. Aquí, pesado y sin jarras dentro.}
+{1022}{}{No encuentro el libro. Lo sento. Voy a buscar ahora.}
 {1030}{}{Yo podría descubrir como lo hace.}
 {1031}{}{Eso es genial. Gracias. Será mejor que me vaya.}
 {1032}{}{Eso es genial. Gracias. Será mejor que me vaya.}
-{1033}{}{YAY.}
-{1100}{}{I was down there earlier. I saw a few dead bodies, so I'm guessing one of them belonged to your missing monk. If
- it makes you feel any better, I killed the thing responsible for his death.}
-{1110}{}{Ah...so it's as I feared. Brother Thomas shall be dearly missed. You have my thanks for ridding us of whatever
- wasteland beasts lurked down there. However, I... I don't suppose you found a book while you were down there. It's a very
- important book that was last known to be in Brother Thomas's possession.}
-{1111}{}{No, but I suppose I could go back and check.}
+{1033}{}{HURRA.}
+{1100}{}{Estuve allí antes. Vi algunos cadáveres, así que supongo que uno de ellos pertenecía a tu monje desaparecido. Si te hace sentir mejor, maté al responsable de su muerte.}
+{1110}{}{Ah ... así que es como temía. El Hermano Thomas será profundamente extrañado. Tienes mi agradecimiento por librarnos de las bestias del Yermo que acechaban allí abajo. Sin embargo, yo ... supongo que no encontraste un libro mientras estabas allí. Es un libro muy importante que se supo que estaba en posesión del Hermano Thomas.}
+{1111}{}{No, pero supongo que podría regresar y comprobar.}
 {1112}{}{¿Quieres decir esta radio?}
 {1113}{}{Antes de irme, deja que te pregunte algo.}
 {1411}{}{Muy interesante. Tengo que irme.}
 {3000}{}{¿Cómo puedo ayudarte?}
-{4091}{}{So no one else has even bothered to go down there and check on him? What if he's simply trapped down there somehow, and he's slowly starving to death?}
-{4092}{}{I suppose that's possible, but you must understand. We are a peaceful people. The thought of going up against one of those wasteland monsters is terrifying to us. We're simply not equipped for such confrontations. }
+{4091}{}{Entonces, ¿nadie más se ha molestado en ir allí y averiguarlo? ¿Qué pasa si él simplemente está atrapado allí de alguna manera, y se está muriendo de hambre lentamente?}
+{4092}{}{Supongo que es posible, pero debes entender. Somos personas pacíficas La idea de enfrentarse a uno de esos monstruos del Yermo es aterradora para nosotros. Simplemente no estamos equipados para tales confrontaciones.}
 {4177}{}{He matado a la bestia.}
-{4188}{}{Excellent! And how about the book; were you able to recover it?}
-{6020}{}{If you truly want to show your gratitude, how about some money for my trouble?}
+{4188}{}{¡Excelente! Y qué tal el libro; ¿Pudiste recuperarlo?}
+{6020}{}{Si realmente quieres mostrar tu gratitud, ¿qué tal algo de dinero por la molestia?}

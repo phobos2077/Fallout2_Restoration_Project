@@ -84,7 +84,7 @@
 {380}{}{Bosque}
 {381}{}{Tribe}
 {390}{}{Entrada}
-{391}{}{Ducts}
+{391}{}{Conductos}
 {392}{}{Grúa}
 {393}{}{Nivel Uno}
 {394}{}{Nivel Dos}

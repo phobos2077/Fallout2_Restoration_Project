@@ -54,18 +54,14 @@
 {402}{}{Gracias, ¿y qué sabes de Mamá?}
 {403}{}{Gracias. Deja que te pregunte algo más.}
 {404}{}{Gracias, era todo lo que quería saber. Adiós.}
-{410}{}{Well fuck me sideways, look who came by. The good samaritan who "saved the children" decided to grace me with his presence.
- You know, I'm a good Samurai-itan guy myself -- providin' fer them little paisanos and all. That is, until you came along and made that
- fuckin' orphanage idea a reality.}
-{411}{}{Well fuck me sideways, look who came by. The good samaritan who "saved the children" decided to grace me with her presence.
- You know, I'm a good Samurai-itan guy myself -- providin' fer them little paisanos and all. That is, until you came along and made that
- fuckin' orphanage idea a reality.}
+{410}{}{Bueno, cógeme de costado, mira quién vino. El buen samaritano que "salvó a los niños" decidió agraciarme con su presencia. Ya sabes, soy un buen chico Samurai-itan, que les proporciona pequeños paisanos y todo. Hasta que llegaste e hiciste realidad esa jodida idea del orfanato.}
+{411}{}{Bueno, cógeme de costado, mira quién vino. La buena samaritana que "salvó a los niños" decidió agraciarme con su presencia. Ya sabes, soy un buen chico Samurai-itan, que les proporciona pequeños paisanos y todo. Hasta que llegaste e hiciste realidad esa jodida idea del orfanato.}
 {412}{}{¿Qué les provees pianos?}
-{413}{}{You sound like you don't like the fact that the children are no longer roaming the streets.}
-{420}{}{Hey, don't get me wrong. Life on the street is tough fer them kids, but it's the end of our little arrangement that gets me down.}
+{413}{}{Parece que no te gusta el hecho de que los niños ya no vagan por las calles.}
+{420}{}{Oye, no me malinterpretes. La vida en la calle es difícil para los niños, pero es el final de nuestro pequeño arreglo lo que me deprime.}
 {421}{}{¿Qué arreglo?}
-{422}{}{You mean them pickpocketing from people and bringing the items to you to sell.}
-{430}{}{Don't you get smart with me asshole. The kids bring me items they *find.* I don't know where they get them and frankly, I don't give a fuck.}
+{422}{}{Te refieres a ellos robando las carteras de las personas y trayéndote los artículos para que los vendas.}
+{430}{}{No te hagas el listo conmigo gilipollas. Los niños me traen cosas que * encuentran *. No sé dónde los consiguen y, francamente, no me importa una mierda.}
 {431}{}{Eso es.}
 {432}{}{You're full of it. I'm sick of skum like you who use people for their own benefit. Time to die!}
 {440}{}{Pai-sa-nos, sabes, los chicos. Mis chicos.}

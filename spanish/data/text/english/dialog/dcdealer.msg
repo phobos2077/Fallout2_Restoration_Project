@@ -7,4 +7,4 @@
 {106}{}{Gracias. Adiós.}
 {200}{}{Ves a un matón.}
 {201}{}{Ves a un matón.}
-{202}{}{I'm here for protection. Talk to the dealer if you wanna buy.}
+{202}{}{Estoy aquí por protección. Habla con el distribuidor si quieres comprar.}

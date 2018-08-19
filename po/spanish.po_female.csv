@@ -2,6 +2,7 @@
 " and I'm a badass mofo. Just ask anybody."," y soy una hijoputa peligrosa. Ve a preguntarle a otro."
 " bastard."," zorra."
 " is caring and nurturing. That's what he told me last night."," está cuidada y nutrida. Eso es lo que me dijo ayer por la noche."
+" is made of. Bring it on, Enclave!","de que estas hecha. ¡Vamos, Enclave!"
 " is sooooo handsome."," es taaaan guapa."
 " is the BEST. The BEST."," es la MEJOR. La MEJOR."
 " is the best boxing champion I've ever seen."," es la mejor campeona de boxeo que haya visto."
@@ -143,6 +144,7 @@
 "Anything wrong, sir?","¿Algo va mal, señora?"
 "Anything you need, sir?","¿Necesita algo, señora?"
 "Apology accepted, human. Have a nice day!","Disculpas aceptadas, humana. ¡Que tengas un buen día!"
+"Are they even going to have other people attempt the Temple? Hasn't it already been determined that I'm the Chosen One?","¿Van a hacer que otras personas intenten el Templo? ¿No se ha determinado ya que soy La Elegida?"
 "Are those test results you have on that clipboard? Can I see them? I'm something of a researcher myself.","¿Son resultados de pruebas lo que tienes en ese portapapeles? ¿Puedo verlos? Yo soy una especie de investigadora."
 "Are you a Ranger, too?","¿También eres una Ranger?"
 "Are you a cannibal?","¿Es usted una caníbal?"
@@ -344,6 +346,7 @@
  Dunton brothers?","¿No quieres echar un pulso con nosotros? ¿Qué, te crees demasiado buena para echar un pulso contra uno de los hermanos Dunton?"
 "Don't waste any more of my time, Outsider. Leave.","No malgastes más mi tiempo, extranjera. Márchate."
 "Don't you belong inside the city, ""Citizen?""","No perteneces al interior de la ciudad, ""Ciudadana""?"
+"Don't you get smart with me asshole. The kids bring me items they *find.* I don't know where they get them and frankly, I don't give a fuck.",""
 "Done, Boss.","Hecho, Jefa."
 "Done. Give me a little time to rest up, and I'll be ready to fight again.","Hecho. Dame un poco de tiempo para descansar, y volveré a estar lista para pelear de nuevo."
 "Doofus will perform, man. Not even a fly is gonna land his shit on your au-to-mo-bile!","Doofus lo hará, amiga. ¡Ni una mosca dejará caer su mierda en tu au-to-mó-vil!"
@@ -443,6 +446,9 @@
 "Good joke, Chosen One! You know where it is. That way -- to the south.","¡Qué chiste más bueno, Elegida! Ya sabes donde está. Por allí... hacia el sur."
 "Good luck to you, fren. We be thinking you be needing it.","Buena suerte, miga. Nosotros pensamos que la necesitarás."
 "Good to see you, Citizen.","Me alegra verle, Ciudadana."
+"Good, 'cause I'm damn tired of wasting my breath on a mutant. In fact, this whole things a waste of my time,
+ because I don't give a flying fuck what you've got to say to me. Guards! Kill this mutie!","Bien, porque estoy muy cansado de perder el aliento con una mutante. De hecho, todo esto es una pérdida de tiempo, porque no me importa una mierda lo que tienes que decirme. ¡Guardias! Maten a esta muti!"
+"Good, if you're acting alone, then I don't have to waste another second of my time with you. Guards! Kill this mutie!","Bien, si estás actuando sola, entonces no tengo que perder otro segundo de mi tiempo contigo. ¡Guardias! Maten a esta muti!"
 "Good. At least you're your own master. Are you tough enough to fight without weapons or armor?","Bien. Al menos eres tu propia dueña. ¿Eres lo bastante fuerte como para luchar sin armadura ni armas?"
 "Good. Let me know when you're done, and I'll begin making inquiries into ways we can achieve your goal at the same time. Farewell, child.","Bien. Avísame cuando lo hayas hecho, y mientras tanto comenzaré a investigar formas con las que podamos lograr tu objetivo. Adiós, hija."
 "Gosh, I'm really, really sorry. I'm just an ignorant tribal, after all. Can you possibly forgive
@@ -459,6 +465,7 @@
 "Great. So I'm a Citizen?","Genial. ¿Así que soy Ciudadana?"
 "Greetings fellow Ranger.","Saludos, compañera Ranger."
 "Greetings stranger. Sure hope you're not a slaver - for your own sake.","Saludos, forastera. Espero que no seas una esclavista... por tu propio bien."
+"Greetings traveler! I am Brother Paul and I am in charge of the collection of information for the Abbey. What can I do for you?","¡Saludos, viajera! Soy el Hermano Paul y estoy a cargo de la recopilación de información para la Abadía. ¿Qué puedo hacer por ti?"
 "Greetings! Welcome to my shop, Flying Dragon 8.","¡Saludos! Bienvenida a mi tienda, El Dragón Volador Ocho."
 "Greetings, Chosen One! It is good to see you. How may I serve you?","¡Saludos, Elegida! Me alegro de verte. ¿Qué puedo hacer por ti?"
 "Greetings, Chosen. Why does the earth before me warm to the touch of your passing?","Saludos, Elegida. ¿Por qué la tierra ante mí se calienta con el roce de tu paso?"
@@ -641,6 +648,7 @@
 "Hmm, you're not a friend of Skeeter's, are you? He's always trying to get me to give him
  valuable supplies. Then he just pulls the stuff apart and breaks it. I wouldn't trust him to fix a
  toaster.","Hmm, ¿no serás una amiga de Skeeter? Siempre está intentando que le dé cosas valiosas, empieza a trastear con ellas y las rompe. No confiaría en él ni para reparar una tostadora."
+"Hmmm. Maybe I should take a look what's down there. *I AM* the chosen one after all...","Hmmm. Tal vez debería echar un vistazo a lo que hay allí abajo. * YO SOY * la elegida después de todo ..."
 "Hmmm. You're not quite what I'm looking for. Sure you can handle yourself?","Hmmm. No eres realmente lo que estoy buscando. ¿Seguro que puedes valerte por ti misma?"
 "Hmmmm. All right, everything seems to be in order. Sorry to disturb you, Citizen. Vault City prevails.","Hmmmm. Está bien, todo parece estar en orden. Lamento la molestia, Ciudadana. Ciudad Refugio prevalece."
 "Hmmph, another cheating smoothskin.","Hmmph, otra piel suave traicionero."
@@ -808,6 +816,10 @@
 "I told you not to come back until you got that money...I TOLD you. (Taps his head.) Are you stupid?!
  Must be, cause here you are talking to me again. Stupid...and DEAD.","Dije que no volvieras hasta conseguir el dinero… lo DIJE. (se golpea la frente) ¡¿Eres idiota?! Seguro que sí, cuando vuelves por aquí. Idiota… y MUERTA."
 "I tried, Boss, but I'm not doing so hot. I'll do what I can though.","Lo intenté, Jefa, pero no me encuentro muy bien. Aunque haré lo que pueda."
+"I understand your frustration with our ways, but you must understand that this is the way things have always been
+ for us. To alter things now, after so many years...that would be blasphemous against our faith. Still, I shall consider
+ your words. I sense great wisdom in you, wanderer. It is a pity I have met very few like you.","
+Entiendo tu frustración con nuestros métodos, pero debes entender que así es como siempre han sido las cosas para nosotros. Para alterar las cosas ahora, después de tantos años ... eso sería una blasfemia contra nuestra fe. Aún así, consideraré tus palabras. Siento una gran sabiduría en ti, forastera. Es una pena que haya conocido a muy pocos como usted."
 "I wanna save th'world just like you when I grow up.","Quiero salvar al mundo igual que tú cuando me haga mayor."
 "I want to be a Hubologist. How do I join?","Quiero ser un una Hubologista. ¿Cómo me puedo unir?"
 "I was BORN a Citizen. Interested in becoming a Citizen? Find a council member.","Yo NACÍ Ciudadano. ¿Interesado en convertirte en Ciudadana? Encuentra a un miembro del Consejo."
@@ -1047,6 +1059,7 @@
 "Let's go. I'm ready.","Vamos. Estoy lista."
 "Let's see how tough you are...","Vamos a ver lo dura que eres..."
 "Let's see what you're really made of.","Veamos de qué pasta estás hecha."
+"Life is a constant series of risks, Chosen One. With each new dawn, every one of us takes a risk simply by stepping from our homes to greet the unknown day. Why do you ask?","La vida es una serie constante de riesgos, Elegida. Con cada nuevo amanecer, cada uno de nosotros se arriesga simplemente saliendo de nuestros hogares para saludar el día desconocido. ¿Por qué preguntas?"
 "Lightning! Thunder! Kill them for me!","¡Rayos y truenos! ¡Matadla por mí!"
 "Like I said, Boss, I prefer small arms. I can handle almost any rifle, shotgun, and most of those small-medium pistols. If we're really in a pinch I can try using a knife or even thrown weapons.","Lo que ya te dije, Jefa. Prefiero las armas pequeñas. Puedo manejar casi cualquier rifle, escopetas y la mayoría de pistolas pequeñas y medianas. Si no nos queda otro remedio puedo intentar usar un cuchillo o incluso armas para lanzar."
 "Like glue, Boss.","Como el pegamento, Jefa."
@@ -1481,6 +1494,7 @@
 "Sure, Boss.","Claro, Jefa."
 "Sure, Boss. Anything else?","Claro, Jefa. ¿Algo más?"
 "Sure, Boss. I'll take some.","Claro, Jefa. Me tomaré algunas."
+"Sure, I'll be glad to help...for a price of course.","Claro, estaré encantada de ayudar ... por un precio, por supuesto."
 "Sure, dude, take it all.","Claro, amiga, quédatelo todo."
 "Sure, handsome.","Claro, guapa."
 "Sure, stranger, what do you want to know?","Desde luego, forastera, ¿qué quieres saber?"
@@ -1537,6 +1551,8 @@
 "Thanks, stranger. I appreciate your help... I couldn't afford the Autodoc.","Gracias, forastera. Agradezco tu ayuda... no podía permitirme el Autodoc."
 "That be a good thing, fren.","Eso ser una buena cosa, miga."
 "That mutant is one big mutha.","Ese mutante es un hijoputa de los grandes."
+"That supposed to be funny, mutant? I think you'll be a lot funnier to me when you're a bleeding corpse. Guards!
+ Kill this mutie!","¿Se supone que es gracioso, mutante? Creo que serás mucho más divertida para mí cuando seas un sangriento cadáver. ¡Guardias! Maten a esta muti!"
 "That was Hoss, President's Tandi's son. Boy, you sure whooped his ass good!","Era Hoss, el hijo de la presidente Tandi. ¡Muchacha, seguro que te encandila su trasero!"
 "That was mighty darn kind of you. Thanks mucho, compadre. Here's a little something for your trouble. It'll come in handy 'round these parts. (He hands you a Stimpack.)","Eso ha sido muy amable de tu parte. Muchas gracias, señorita. Aquí tienes algo por las molestias. Te vendrá bien para hacerte un arreglo. (Te da un estimulante)."
 "That was nice. You seem like you know your way around a woman better than most men your age.","Ha estado bien. Parece que te manejas mejor con las mujeres que la mayoría de mujeres de tu edad."
@@ -1607,6 +1623,7 @@
 "This will be your quest if you prove yourself worthy.","Esta será tu misión si te muestras digna de ella."
 "This your first time kid?","¿Es tu primera vez, chica?"
 "This, kid, will hit the spot. Gimme a few hours and we'll talk more. Go on. [He eyes the doll lustfully.]","Esto, chica, es dar justo en el clavo. Dame unas horas, y volveremos a hablar. A ello, pues. [Mira la muñeca lujuriosamente]"
+"Those who steal carry a great burden. Remember this, Chosen One.","Los que roban llevan una gran carga. Recuerda eso, Elegida."
 "Thought you'd just help yourself, huh? Damn thief... guards! Guards!","Pensabas en servirte tú mismo, ¿eh? Maldita ladrona... ¡guardias! ¡Guardias!"
 "Time to dust this mother fucker...","Hora de joder a esta hija puta..."
 "To be a friend of the Brain is a wondrous thing.","Ser amiga del Cerebro es una cosa maravillosa."
@@ -2218,6 +2235,8 @@ because this is going to cost ::cough:: $200.","Debes ser muy buena para inspira
 "You're not as good as you think.","No eres tan buena como crees."
 "You're not going anywhere, missy!","Esto me pasa por mandar a una neanderthal. ¡Ve!"
 "You're not going to take my family, slaver!","No vas a arrebatarme a mi familia, ¡negrera!"
+"You're not leaving here alive, mutant. I couldn't risk you blabbing the location of this base to all your
+ wasteland friends, now could I? Guards! Kill this mutie!","No te vas a ir de aquí viva, mutante. No podría arriesgarme a que cuentes la ubicación de esta base a todos tus amigos del Yermo, ¿no? ¡Guardias! Maten a esta muti!"
 "You're not one of my men. Guards!","Tú no eres una de mis hombres. ¡Guardias!"
 "You're not quite smart enough to grunt, are you?","No eres lo bastante lista como para gruñir, ¿verdad?"
 "You're not so tough.","No eres tan dura."

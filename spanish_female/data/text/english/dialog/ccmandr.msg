@@ -24,45 +24,34 @@
 {123}{}{Vete a la mierda.}
 {124}{}{Deja mi casillero tranquilo o te daré una buena paliza.}
 {125}{}{Hora de morir.}
-{200}{}{Alright, let's get this over with--I don't like muties stinking up my office, and I got shit to do. Do you work
- for the Salvatores? }
+{200}{}{De acuerdo, acabemos con esto - No me gustan las mutis que apestan mi oficina, y tengo una mierda que hacer. ¿Trabajas para Los Salvatores?}
 {201}{}{Ninguno que te incumba, colega.}
 {202}{}{ ha terminado su trabajo aquí.}
 {203}{}{Entonces, ¿que puedo hacer por ti?}
 {204}{}{Trabajo 'qui para Doctor.}
 {205}{}{Si no vas a responder a mis preguntas, lo harás a mis armas.}
 {210}{}{No tengo tiempo para esta mierda.}
-{220}{}{So you're saying you're nothing more than a stray wasteland rat that happened to wander into one of our vertibirds?}
-{221}{}{Uh, yeah, pretty much . . . except for that part about me being a rat.}
+{220}{}{Entonces, ¿estás diciendo que no eres más que una rata vagabunda que pasó por uno de nuestros vertibird?}
+{221}{}{Uh, sí, más o menos. . . a excepción de esa parte sobre mí siendo una rata.}
 {222}{}{Así es.}
-{223}{}{No, I'm saying that this is all just a big misunderstanding. I don't know who you guys are, and I don't care.
- So if you don't mind, I'll be moving along now.}
-{230}{}{Good, if you're acting alone, then I don't have to waste another second of my time with you. Guards! Kill this mutie!}
-{240}{}{You're not leaving here alive, mutant. I couldn't risk you blabbing the location of this base to all your
- wasteland friends, now could I? Guards! Kill this mutie!}
-{250}{}{Tell me what I want to know, and I'll make sure your death is quick and . . . relatively painless.
- Did Salvatore put you up to this?}
-{251}{}{Uhh . . . no? Wait, yeah. Maybe.}
-{252}{}{Nope. Playing hide-and-seek in your flying machine was all my own idea. Genius, I know.}
-{253}{}{Yeah, he thought he'd sweeten the trade by sending me along. What a deal, huh?}
+{223}{}{No, estoy diciendo que todo esto es solo un gran malentendido. No sé quienes son ustedes, y no me importa. Entonces, si no te importa, me ire ahora.}
+{230}{}{Bien, si estás actuando sola, entonces no tengo que perder otro segundo de mi tiempo contigo. ¡Guardias! Maten a esta muti!}
+{240}{}{No te vas a ir de aquí viva, mutante. No podría arriesgarme a que cuentes la ubicación de esta base a todos tus amigos del Yermo, ¿no? ¡Guardias! Maten a esta muti!}
+{250}{}{Dime lo que quiero saber, y me aseguraré de que tu muerte sea rápida y ... . . relativamente indoloro ¿Salvatore te metió en esto?}
+{251}{}{Uhh. . . ¿no? Espera, si. Tal vez.}
+{252}{}{Nop. Jugar al escondite en tu máquina voladora fue idea mía. Genio, lo sé.}
+{253}{}{Sí, pensó que endulzaría el negocio enviándome. Qué trato, ¿eh?}
 {254}{}{Si no vas a responder a mis preguntas, lo harás a mis armas.}
 {260}{}{No tengo tiempo para esta mierda.}
-{270}{}{That supposed to be funny, mutant? I think you'll be a lot funnier to me when you're a bleeding corpse. Guards!
- Kill this mutie!}
-{280}{}{Oh, you do? [He chuckles.] Well hell, why not? You're dying anyway. What do you want to know, mutant?}
+{270}{}{¿Se supone que es gracioso, mutante? Creo que serás mucho más divertida para mí cuando seas un sangriento cadáver. ¡Guardias! Maten a esta muti!}
+{280}{}{Oh, ¿tú? [Él se ríe.] Bien, ¿por qué no? Te estás muriendo de todos modos. ¿Qué quieres saber, mutante?}
 {281}{}{¿Por qué sigues llamándome mutante?}
 {282}{}{¿Quién diablos sois vosotros?}
 {283}{}{¿Dónde estoy?}
 {284}{}{¿Cómo puedo hacer para bajar el Refugio?}
 {285}{}{Ya he oído bastante.}
-{290}{}{Because you ARE. Sure, you might look kinda human, but don't let that fool you. You're still a mutant. You and
- everyone else on the mainland. All tainted. Next question?}
-{300}{}{We're the Enclave--the last bastion of true humanity on this damn planet. We're the only ones still upholding
- the honor of the ol' red, white, and blue. That's right, we're true patriots. We eat bald eagles and shit stars and
- stripes. We're all that's left of the great United States of America. But we're enough. Oh, yeah, we're enough to set
- things right. You can count on that, mutie. Next question?}
-{310}{}{This here's Navarro, our secret mainland base. We're sitting right on the coast of California and the pacific
- ocean. Next question?}
-{320}{}{By prying it off my dead body. Good luck with that, mutie. Next question?}
-{330}{}{Good, 'cause I'm damn tired of wasting my breath on a mutant. In fact, this whole things a waste of my time,
- because I don't give a flying fuck what you've got to say to me. Guards! Kill this mutie!}
+{290}{}{Porque lo eres. Claro, puede que te veas un poco humano, pero no dejes que eso te engañe. Aún eres un mutante. Usted y todos los demás en el continente. Todos contaminado. ¿Próxima pregunta?}
+{300}{}{Somos el Enclave, el último bastión de la verdadera humanidad en este maldito planeta. Somos los únicos que seguimos manteniendo el honor de los viejos rojos, blancos y azules. Así es, somos verdaderos patriotas. Comemos águilas calvas y defecamos estrellas y rayas. Somos todo lo que queda de los grandes Estados Unidos de América. Pero somos suficientes. Oh, sí, somos los suficientes para arreglar las cosas. Puedes contar con eso, muti. ¿Próxima pregunta?}
+{310}{}{Aquí está Navarro, nuestra base secreta en tierra firme. Estamos sentados en la costa de California y el océano Pacífico. ¿Próxima pregunta?}
+{320}{}{Tomándolo de mi cadáver. Buena suerte con eso, muti. ¿Próxima pregunta?}
+{330}{}{Bien, porque estoy muy cansado de perder el aliento con una mutante. De hecho, todo esto es una pérdida de tiempo, porque no me importa una mierda lo que tienes que decirme. ¡Guardias! Maten a esta muti!}
