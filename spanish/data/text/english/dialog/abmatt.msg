@@ -21,10 +21,7 @@
 {301}{}{Es bueno conocerte Matt. Mi nombre es }
 {302}{}{ y estoy en una misión para el sagrado GECK.}
 {303}{}{Lo siento, he de irme.}
-{400}{}{Un GECK, ¿eh? Me parece recordar haber leído algo sobre eso durante una de mis sesiones de transcripción. Entonces debe
- estar en nuestra base de datos, pero me temo que el acceso a nuestras computadoras está restringido. Sin embargo, si hablas con el Abad, es
- posible que te otorgue acceso. No podría doler intentarlo, de todos modos. Ah, y siéntase libre de navegar a través de nuestra colección
- de sagradas reliquias de la pre-guerra. Te pediría que no dañes nada, pero me temo que todo está roto más allá de toda reparación.}
+{400}{}{Un GECK, ¿eh? Me parece recordar haber leído algo sobre eso durante una de mis sesiones de transcripción. Entonces debe estar en nuestra base de datos, pero me temo que el acceso a nuestras computadoras está restringido. Sin embargo, si hablas con el Abad, es posible que te otorgue acceso. No podría doler intentarlo, de todos modos. Ah, y siéntase libre de navegar a través de nuestra colección de sagradas reliquias de la pre-guerra. Te pediría que no dañes nada, pero me temo que todo está roto más allá de toda reparación.}
 {401}{}{Ahora mismo no. Aunque tengo otras preguntas para ti.}
 {402}{}{Gracias. Creo que voy a lo haré ahora.}
 {500}{}{Estoy a tu servicio. ¿Qué quieres saber?}
