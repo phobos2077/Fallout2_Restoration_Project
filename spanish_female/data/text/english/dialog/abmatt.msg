@@ -16,8 +16,7 @@
 {212}{}{Por los guardianes del conocimiento, cada uno de nosotros, ha sido dotado.}
 {213}{}{Ahora, por favor tomen un momento y reflexionen en lo que e dicho.}
 {224}{}{Ahora, por favor tomen un momento y reflexionen en lo que e dicho.}
-{300}{}{Saludos, amiga. No creo que te haya visto por aquí antes. Mi nombre es el Hermano Matthew y yo ayudo
- a difundir la palabra sobre la importancia de preservar el conocimiento de los antiguos.}
+{300}{}{Saludos, amiga. No creo que te haya visto por aquí antes. Mi nombre es el Hermano Matthew y yo ayudo a difundir la palabra sobre la importancia de preservar el conocimiento de los antiguos.}
 {301}{}{Es bueno conocerte Matt. Mi nombre es }
 {302}{}{ y estoy en una misión para el sagrado GECK.}
 {303}{}{Lo siento, he de irme.}
@@ -28,14 +27,9 @@
 {501}{}{¿Qué puedes contarme sobre este lugar?}
 {502}{}{Pareces ser muy poético en tu predicación. ¿Alguna razón para eso?}
 {503}{}{Olvídalo. Cuídate.}
-{600}{}{La Abadía es el hogar de cualquiera, siempre y cuando no causen problemas. Somos una comunidad independiente y rara vez recibimos
- visitantes, como usted. La mayoría de los que ves aquí descienden de los fundadores originales que se establecieron en
- este antiguo monasterio no mucho después del gran Diluvio de Llamas.}
+{600}{}{La Abadía es el hogar de cualquiera, siempre y cuando no causen problemas. Somos una comunidad independiente y rara vez recibimos visitantes, como usted. La mayoría de los que ves aquí descienden de los fundadores originales que se establecieron en este antiguo monasterio no mucho después del gran Diluvio de Llamas.}
 {601}{}{Sigue.}
-{602}{}{La tranquilad, cualidad pacífica de este lugar que lo ha convertido en un hogar atractivo para otros viajeros que han vagado
- aquí a lo largo de los años, buscando escapar del oscuro caos del Yermo. Por supuesto, el verdadero valor de este lugar yace
- en su vasta biblioteca. Está lleno de tomos viejos, que contienen la extraña sabiduría de una edad perdida. Con el tiempo, hemos llegado a
- imaginarnos los cuidadores y guardianes de esa sabiduría.}
+{602}{}{La tranquilad, cualidad pacífica de este lugar que lo ha convertido en un hogar atractivo para otros viajeros que han vagado aquí a lo largo de los años, buscando escapar del oscuro caos del Yermo. Por supuesto, el verdadero valor de este lugar yace en su vasta biblioteca. Está lleno de tomos viejos, que contienen la extraña sabiduría de una edad perdida. Con el tiempo, hemos llegado a imaginarnos los cuidadores y guardianes de esa sabiduría.}
 {603}{}{Muy interesante. ¿Otra pregunta?}
 {604}{}{Interesante. Bien, he de irme. }
 {700}{}{[El hombre se ríe de tu pregunta] No, no hay una razón en particular. He leido mucha poesía a lo largo de mi vida

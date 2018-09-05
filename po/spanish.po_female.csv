@@ -475,8 +475,7 @@
 "Greetings, fellow traveler.","Saludos, amiga viajera."
 "Greetings, friend. Have you examined the machine yet?","Saludos, amiga. ¿Ya has examinado la máquina?"
 "Greetings, friend. I don't think I have seen you around here before. My name is Brother Matthew and I help
- spread the word about the importance of preserving the knowledge of the old ones.","Saludos, amiga. No creo que te haya visto por aquí antes. Mi nombre es el Hermano Matthew y yo ayudo
- a difundir la palabra sobre la importancia de preservar el conocimiento de los antiguos."
+ spread the word about the importance of preserving the knowledge of the old ones.","Saludos, amiga. No creo que te haya visto por aquí antes. Mi nombre es el Hermano Matthew y yo ayudo a difundir la palabra sobre la importancia de preservar el conocimiento de los antiguos."
 "Greetings, human.","Saludos, humana."
 "Greetings, human. Have you reconsidered? Will you help me?","Saludos, humana. ¿Lo has reconsiderado? ¿Me ayudarás?"
 "Greetings, human. I am the warrior Xarn. Are you to be my executioner?","Saludos, humana. Soy el guerrero Xarn. ¿Vas a ser tú mi verdugo?"
@@ -851,6 +850,7 @@ Entiendo tu frustración con nuestros métodos, pero debes entender que así es 
 "I'm Bishop's lieutenant, ","Soy la lugarteniente de Bishop, "
 "I'm Doc Jubilee. What's wrong, young man?","Soy el doctor Jubilee. ¿Qué ocurre, jovencita?"
 "I'm NOT an Outworlder. I'm a Citizen.","NO soy una errante. Soy una Ciudadana."
+"I'm a bit of a techie, mind if I take a look?","Soy un poco aficionada la tecnología, ¿te importa si echo un vistazo?"
 "I'm a little busy.","Estoy un poco ocupada."
 "I'm a little light on cash...","Ando un poco corta de efectivo..."
 "I'm a new recruit. I was told you'd be expecting me.","Soy una nueva recluta. Me dijeron que me estarían esperando."
@@ -1251,6 +1251,9 @@ Entiendo tu frustración con nuestros métodos, pero debes entender que así es 
 "Nuka-Cola Reliance","Adicta a la Nuka-Cola"
 "OK - here's the $50 and a little something extra for you, as well. A few sticks of Dunton's
  Drymeat. Thanks again, partner.","Bien... aquí están los 50 dólares y un pequeño extra para ti. Un poco de cecina Dunton. Gracias de nuevo, socia."
+"OK tough guy, now this ""wandering tribal"" is going to kill you in front of your wife. Then maybe I'll kill her too.
+ Hell, maybe I'll kill everyone in this pathetic fucking place. You thought you could all hide from the horror of the wasteland?
+ Well guess what, my naive friend? Horror has found you, and its name is ","OK tipo duro, ahora esta ""tribal errante"" te va a matar frente a tu esposa. Entonces tal vez la mate también. Demonios, tal vez mate a todos en este patético maldito lugar. ¿Pensabas que podías esconderte del horror del Yermo? Bueno, ¿sabes qué, mi ingenuo amigo? Horror te ha encontrado, y su nombre es "
 "Of course I am. After all, I'm the Chosen One.","Por supuesto que soy. Después de todo, soy La Elegida."
 "Of course, Boss.","Por supuesto, Jefa."
 "Of course, Citizen.","Por supuesto, Ciudadana."
@@ -1457,9 +1460,7 @@ Entiendo tu frustración con nuestros métodos, pero debes entender que así es 
 "Sorry Boss.","Lo siento, Jefa."
 "Sorry pal, I've never heard of it. But if it has to do with pre-war times, then I bet there's something about it
  in the monastery's computers. Unfortunately for you, those monks are real protective of their information—afraid that it'll
- lead to another war or something if people learn too much. Still, it might be worth asking around there.","Lo siento amiga, nunca he oído hablar de eso. Pero si tiene que ver con los tiempos de la pre-guerra, entonces apuesto a que hay algo al respecto
- en las computadoras del monasterio. Desafortunadamente para ti, esos monjes son realmente protectores de su información, temerosos de que
- conduzca a otra guerra o algo así si las personas aprenden demasiado. Aún así, podría valer la pena preguntar por allí."
+ lead to another war or something if people learn too much. Still, it might be worth asking around there.","Lo siento amiga, nunca he oído hablar de eso. Pero si tiene que ver con los tiempos de la pre-guerra, entonces apuesto a que hay algo al respecto en las computadoras del monasterio. Desafortunadamente para ti, esos monjes son realmente protectores de su información, temerosos de que conduzca a otra guerra o algo así si las personas aprenden demasiado. Aún así, podría valer la pena preguntar por allí."
 "Sorry stranger. I don't have time to chat with you.","Lo siento, forastera. No tengo tiempo de charlar contigo."
 "Sorry, I'll try to be more civil.","Lo siento, intentaré ser más civilizada."
 "Sorry, Torr. I'm too busy to stand around with a bunch of brahmin, whether they've got two legs
@@ -1764,6 +1765,7 @@ Entiendo tu frustración con nuestros métodos, pero debes entender que así es 
 "Well, I would be willing to pay a little for some information.","Bueno, estaría dispuesta a pagar una cantidad por algo de información."
 "Well, I'm glad I don't have to introduce myself then. What do you do here, ""Nick?""","Bien, me alegra no tener que presentarme a mí misma. ¿Qué estás haciendo aquí, ""Santa""?"
 "Well, I'm good to go. Let's do it.","Muy bien, pues estoy lista. Vamos allá."
+"Well, I'm not that great with machines, but perhaps I can see if something can be done.","Bueno, no soy tan buena con las máquinas, pero quizás puedo ver si se puede hacer algo."
 "Well, I'm only interested in saving my tribe. The rest of the world can fend for itself. Goodbye.","Pues yo sólo estoy interesada en salvar a mi tribu. El resto del mundo puede cuidarse por sí mismo. Adiós."
 "Well, I'm pretty busy right now. I don't think I can help you out.","Bueno, ahora mismo estoy bastante ocupada. No creo que pueda serte de ayuda."
 "Well, I'm sure Harold's pretty busy. See you later.","Bueno, estoy segura de que Harold está bastante ocupado. Nos vemos luego."
@@ -2281,11 +2283,13 @@ because this is going to cost ::cough:: $200.","Debes ser muy buena para inspira
 "[He looks at you closely and then smiles.] Why don't you be a good little boy and run outside
  and play?","[Te mira detenidamente y entonces sonríe]. ¿Por qué no eres una buena chica y sales a jugar afuera?"
 "[He looks sullenly down at his dials and says in a small voice] You're mean.","[De repente parece contrariado, y con la mirada fija en los controles dice con un hilo de voz] Eres mezquina."
+"[He narrows his eyes, but manages to hold his composure.] That's how we do things here at the Abbey. If kindness
+ is so offensive to you, then I suggest you get the hell outta my house. I'm not gonna sit here and let some wandering
+ tribal insult me in front of my wife.","[Él entorna los ojos, pero se las arregla para mantener la compostura.] Así es como hacemos las cosas aquí en la Abadía. Si amabilidad es tan ofensivo para ti, entonces te sugiero que te vayas de mi casa. No voy a sentarme aquí y dejar a una tribal errante me insulte frente a mi esposa."
 "[He points to you and starts screaming.] Stranger! Stranger! Stranger!","[Te señala y comienza a gritar]. ¡Extraña! ¡Extraña! ¡Extraña!"
 "[He smiles] We must protect our honor, stranger.","[Sonríe] Debemos proteger nuestro honor, forastera."
 "[He squints at you for a moment, then slowly lets out his breath in a sigh.] Sorry friend, this thing's being a
- real bitch, and it's gotten me all worked up. I didn't mean to snap at ya. ","[Él te mira con los ojos entrecerrados por un momento, luego deja escapar su aliento en un suspiro.] Lo siento amiga, esta cosa es una
- verdadera perra, y me ha tenido trabajando demasiado. No quise criticarte."
+ real bitch, and it's gotten me all worked up. I didn't mean to snap at ya. ","[Él te mira con los ojos entrecerrados por un momento, luego deja escapar su aliento en un suspiro.] Lo siento amiga, esta cosa es una verdadera perra, y me ha tenido trabajando demasiado. No quise criticarte."
 "[Injured]","[Herida]"
 "[Jo calmly wraps his hand in a bandage and then proceeds to pull out a shotgun!] Let's see if
  you can laugh this off, smart ass!","[Jo se envuelve tranquilamente la mano en una venda y entonces saca ¡una escopeta!] ¡Veamos si te ríes de esto, listilla!"

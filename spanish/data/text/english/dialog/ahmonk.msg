@@ -1,7 +1,7 @@
 {100}{}{Ves al Abad, el líder espiritual de la Abadía.}
 {101}{}{Hay algo acerca de este monje que te hace creer que es bastante importante.}
 {200}{}{Bienvenido, viajero.}
-{201}{}{Me alegro de verte.}
+{201}{}{Paz a ti.}
 {202}{}{Somos los guardianes del conocimiento.}
 {203}{}{Lo siento, pero el conocimiento de nuestros libros no te sirve.}
 {300}{}{Bienvenido a la Abadía, viajero. ¿Cómo puedo ayudarte?}

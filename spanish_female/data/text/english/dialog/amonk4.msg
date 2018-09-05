@@ -1,7 +1,7 @@
 {100}{}{Ves a un hombre.}
 {101}{}{Esta parece ser la dueña.}
 {200}{}{Bienvenido, viajero.}
-{201}{}{Me alegro de verte.}
+{201}{}{Paz a ti.}
 {202}{}{Buen tiempo.}
 {203}{}{Vamos a echar un polvete... a algún lugar.}
 {300}{}{¿Cómo puedo ayudarte?}
