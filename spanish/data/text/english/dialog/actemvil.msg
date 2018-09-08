@@ -83,10 +83,10 @@
 {310}{}{Muy bien. Vuelve si cambias de idea.}
 {311}{}{Te lo agradezco, Cameron.}
 {312}{}{Gracias, Cameron. Recordaré tu oferta.}
-{400}{}{¿Alguna vez pensaste en renunciar a tu puesto como la prueba final del templo? Quiero decir, puede ser bastante arriesgado.}
+{400}{}{¿Alguna vez pensaste en renunciar a tu puesto como la prueba final del Templo? Quiero decir, puede ser bastante arriesgado.}
 {401}{}{La vida es una serie constante de riesgos, Elegido. Con cada nuevo amanecer, cada uno de nosotros se arriesga simplemente saliendo de nuestros hogares para saludar el día desconocido. ¿Por qué preguntas?}
 {402}{}{Ninguna razón. Hablaré contigo más tarde, Cameron.}
-{403}{}{Bueno, solo estaba pensando en lo que le sucedió a tu predecesor, ya sabes, durante su batalla con ... uh, "Quien-No-Debe-Ser-Nombrado".}
+{403}{}{Bueno, solo estaba pensando en lo que le sucedió a tu predecesor, ya sabes, durante su batalla con ... uh, "Él-Que-No-Debe-Ser-Nombrado".}
 {410}{}{Ah, ese fue un día oscuro, de hecho, porque nuestra tribu perdió dos buenos hombres: uno en cuerpo y el otro en espíritu. Pero el acto sucio de ese día no es asunto mío. Mi tiempo llegará cuando los dioses lo consideren así.}
 {411}{}{Y puede que ese día sea un largo tiempo por venir. Buen día, Cameron.}
 {412}{}{¿Van a hacer que otras personas intenten el Templo? ¿No se ha determinado ya que soy El Elegido?}

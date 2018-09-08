@@ -2,7 +2,7 @@
 {101}{}{Ves a un pescador.}
 {102}{}{He is carrying a sharpened pole used for fishing.}
 {103}{}{Parece estar ocupada charlando.}
-{104}{}{Saludos, }
+{104}{}{Saludos.}
 {200}{}{No eres bienvenido aquí.}
 {201}{}{No me gustas.}
 {202}{}{Buenos días, soldado.}

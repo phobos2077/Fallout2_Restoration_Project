@@ -118,9 +118,9 @@
 {602}{}{Entiendo. ¿Algo más?}
 {603}{}{No des tu confianza libremente. El honor significa muy poco en el Yermo. Manténgase alerta y siempre pregunte los motivos de los demás.}
 {604}{}{Desde luego. ¿Nada más?}
-{605}{}{Nunca olvides tus raíces. El mundo fuera de nuestra aldea está lleno de juguetes brillantes y lujos que pueden hacer que nuestra vida aquí en Arroyo parezca simple y plena. Pero recuerde que el estilo de vida de los forasteros produce hombres malvados gobernados por la avaricia y la corrupción. Tenga cuidado de no convertirse en El-que-no-debe-ser-nombrado.}
+{605}{}{Nunca olvides tus raíces. El mundo fuera de nuestra aldea está lleno de juguetes brillantes y lujos que pueden hacer que nuestra vida aquí en Arroyo parezca simple y plena. Pero recuerde que el estilo de vida de los forasteros produce hombres malvados gobernados por la avaricia y la corrupción. Tenga cuidado de no convertirse en Él-Que-No-Debe-Ser-Nombrado.}
 {606}{}{Nunca me voy a olvidar mis raíces. Gracias por el consejo, Mynoc.}
-{607}{}{¿El-que-no-debe-ser-nombrado? Uh ... ¿quién?}
+{607}{}{¿Él-Que-No-Debe-Ser-Nombrado? Uh ... ¿quién?}
 {608}{}{¿Estás tan borracho de la gloria de ser El Elegido que te olvidaste de [Mynoc mira rápidamente a su alrededor para asegurarse de que nadie esté escuchando, luego se inclina hacia adelante y baja la voz en un susurro.] ... Kaga?}
 {609}{}{Oh! Sí, ese tipo. Me aseguraré de que no termine como él. Gracias.}
 {610}{}{Oh, eso es lo que pensé que querías decir. Pero, uh, ¿por qué no sigues adelante y me dices cuál es su trato otra vez? Realmente amo esa historia.}
@@ -137,18 +137,18 @@
 {621}{}{No tengo tiempo para responder a todas tus tontas preguntas. ¿Quieres que termine la historia, o no?}
 {622}{}{Lo siento. Por favor, continua.}
 {623}{}{En realidad, creo que estoy listo para ir. Nos vemos.}
-{624}{}{Durante la prueba final, Quien-no-debe-ser-nombrado desenvainó una espada oculta y la usó para matar a su oponente. Cuando la Anciana lo confrontó por su uso deshonroso de un arma oculta, argumentó que no era una trampa, sino que demostró que era un guerrero astuto.}
-{625}{}{La Anciana no estuvo de acuerdo. Él-que-no-debe-ser-nombrado fue exiliado a la fuerza de nuestra tribu y su nombre nunca se volvió a hablar entre nosotros. Mientras era arrojado al Yermo, juró vengarse. Venganza contra nuestra tribu, y especialmente contra ti.}
+{624}{}{Durante la prueba final, Él-Que-No-Debe-Ser-Nombrado desenvainó una espada oculta y la usó para matar a su oponente. Cuando la Anciana lo confrontó por su uso deshonroso de un arma oculta, argumentó que no era una trampa, sino que demostró que era un guerrero astuto.}
+{625}{}{La Anciana no estuvo de acuerdo. Él-Que-No-Debe-Ser-Nombrado fue exiliado a la fuerza de nuestra tribu y su nombre nunca se volvió a hablar entre nosotros. Mientras era arrojado al Yermo, juró vengarse. Venganza contra nuestra tribu, y especialmente contra ti.}
 {626}{}{Yo? ¿Qué hice?}
 {627}{}{Gracias por la historia, pero será mejor que vaya ahora.}
 {628}{}{Usted es El Elegido, un título que siente que es suyo legítimamente. Su orgullo no te permitirá vivir.}
 {629}{}{No voy a preocuparme por eso. Probablemente ya esté muerto en el Yermo ahora, de todos modos.}
 {630}{}{Estaré en guardia. Esperemos que ya esté muerto en el Yermo.}
-{631}{}{Escucha, y entiende. Quie-no-debe-ser-nombrado está por ahí. No se puede negociar con él. No se puede razonar con él. No sentirá lástima, remordimiento o miedo. Y definitivamente no se detendrá, hasta que estés muerto.}
+{631}{}{Escucha, y entiende. Él-Que-No-Debe-Ser-Nombrado está por ahí. No se puede negociar con él. No se puede razonar con él. No sentirá lástima, remordimiento o miedo. Y definitivamente no se detendrá, hasta que estés muerto.}
 {632}{}{Sabes, creo que podrías estar exagerando con el melodrama, solo un poco. De todos modos, gracias por el consejo. Nos vemos, Mynoc.}
 {633}{}{Lo tendré en mente. Cuídate, Mynoc.}
 {640}{}{¿Puedes contarme algo sobre este tipo Kaga?}
-{641}{}{[Sus ojos se abren de par en par y mira alrededor nerviosamente como si esperara ser golpeado por un rayo.] ¿Has perdido los sentidos en el Yermo?! ¡Deberías saber que no debes decir el nombre del paria! Él debe ser referido solo como Él-que-no-debe-ser-nombrado. Nuestro pueblo sufre lo suficiente sin invitar a la ira de los Dioses sobre nosotros. [Él levanta sus ojos nerviosamente hacia el cielo.]}
+{641}{}{[Sus ojos se abren de par en par y mira alrededor nerviosamente como si esperara ser golpeado por un rayo.] ¿Has perdido los sentidos en el Yermo?! ¡Deberías saber que no debes decir el nombre del paria! Él debe ser referido solo como Él-Que-No-Debe-Ser-Nombrado. Nuestro pueblo sufre lo suficiente sin invitar a la ira de los Dioses sobre nosotros. [Él levanta sus ojos nerviosamente hacia el cielo.]}
 {642}{}{Lo siento, Mynoc. Pero ¿te importaría decirme qué es Ka ... quiero decir, "El-quien" otra vez? Realmente amo esa historia.}
 {643}{}{Sabes, había olvidado lo estúpidamente supersticioso que podrías ser. Nos vemos.}
 {650}{}{Lo he enfrentado antes, así que estoy seguro de poder manejarlo si nuestros caminos se cruzan de nuevo.}

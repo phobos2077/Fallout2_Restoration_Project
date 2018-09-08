@@ -8,4 +8,4 @@
 {203}{}{Hola.}
 {204}{}{Buen tiempo.}
 {205}{}{Ten cuidado en el Yermo.}
-{500}{}{TAFFER!}
+{500}{}{¡TAFFER!}

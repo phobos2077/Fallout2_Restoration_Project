@@ -1,4 +1,4 @@
-{100}{}{Ves a un hombre.}
+{100}{}{Ves a un monje.}
 {101}{}{Esta parece ser la dueña.}
 {200}{}{Bienvenido, viajero.}
 {201}{}{Paz a ti.}
