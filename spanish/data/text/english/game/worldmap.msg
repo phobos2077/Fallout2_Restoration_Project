@@ -1522,7 +1522,7 @@
 {5914}{}{Hubologistas luchando contra mercenarios.}
 {5915}{}{Hubologistas defendiéndose de una banda de asaltantes.}
 {5916}{}{Hubologistas.}
-{5917}{}{Una banda de mercenarios.}
+{5917}{}{Una banda de mercenarios furiosos.}
 {5918}{}{Una reunión de individuos de aspecto importante.}
 {5950}{}{Una banda de mercenarios.}
 {5951}{}{Una banda de asaltantes.}
@@ -1543,7 +1543,7 @@
 {5966}{}{Hubologistas.}
 {5967}{}{Un hombre guardando un puente.}
 {5968}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{5969}{}{Una banda de mercenarios.}
+{5969}{}{Una banda de mercenarios furiosos.}
 {5970}{}{Una reunión de individuos de aspecto importante.}
 {6000}{}{Una banda de mercenarios.}
 {6001}{}{Una banda de asaltantes.}
@@ -1562,7 +1562,7 @@
 {6014}{}{Hubologistas luchando contra mercenarios.}
 {6015}{}{Hubologistas defendiéndose de una banda de asaltantes.}
 {6016}{}{Hubologistas.}
-{6017}{}{Una banda de mercenarios.}
+{6017}{}{Una banda de mercenarios furiosos.}
 {6018}{}{Una reunión de individuos de aspecto importante.}
 {6050}{}{Montón de basura tóxica.}
 {6051}{}{Un solitario perro superviviente.}
@@ -1592,7 +1592,7 @@
 {6075}{}{El Hombre de Hojalata.}
 {6076}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {6077}{}{El Café de los Sueños Rotos.}
-{6078}{}{Una banda de mercenarios.}
+{6078}{}{Una banda de mercenarios furiosos.}
 {6079}{}{Una reunión de individuos de aspecto importante.}
 {6100}{}{Montón de basura tóxica.}
 {6101}{}{Un solitario perro superviviente.}
@@ -1624,7 +1624,7 @@
 {6127}{}{El Hombre de Hojalata.}
 {6128}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {6129}{}{El Café de los Sueños Rotos.}
-{6130}{}{Una banda de mercenarios.}
+{6130}{}{Una banda de mercenarios furiosos.}
 {6150}{}{Una banda de mercenarios.}
 {6151}{}{Una manada de Garras mortales.}
 {6152}{}{Una manada de geckos de fuego.}
@@ -1644,7 +1644,7 @@
 {6166}{}{Una caravana defendiéndose de alienígenas.}
 {6167}{}{Una caravana.}
 {6168}{}{Una caravana.}
-{6169}{}{Una banda de mercenarios.}
+{6169}{}{Una banda de mercenarios furiosos.}
 {6200}{}{Montón de basura tóxica.}
 {6201}{}{Un solitario perro superviviente.}
 {6202}{}{Un rebaño de brahmines.}
