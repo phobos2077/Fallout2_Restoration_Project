@@ -1,12 +1,12 @@
-{100}{}{Ves un monitor de computadora.}
-{101}{}{Ves al Padre Tully.}
-{102}{}{Este chico se parece mucho a los otros chicos.}
+{100}{}{Ves a un monje informático.}
+{101}{}{Ves al Hermano Paul.}
+{102}{}{Este monje parece un friki de las computadoras.}
 {200}{}{¡Hola!}
 {201}{}{Hola.}
 {202}{}{Ahora, hice una copia de seguridad de esos archivos de computadora hoy ...}
-{203}{}{Lo siento, pero no tengo tiempo para hablar.}
+{203}{}{Lo siento, pero no tengo tiempo para alguien de tu inteligencia.}
 {300}{}{¿Sí?}
-{301}{}{Tenéis un montón de coches por aquí.}
+{301}{}{Ustedes tienen un montón de computadoras aquí.}
 {302}{}{¿Qué puedes contarme acerca de la Abadía?}
 {303}{}{Háblame de tu líder.}
 {304}{}{¿Tienes alguna información de un GECK?}
@@ -20,7 +20,7 @@
 {403}{}{Vale.}
 {404}{}{El Abad es un buen líder espiritual, pero ha estado un poco irritable desde que perdimos al Hermano Thomas por la bestia.}
 {405}{}{¿Qué tipo de bestia?}
-{406}{}{No lo he visto, personalmente, no hay nada en el mundo que pueda hacer que vaya allí y explore esas cavernas, pero si tuviera que adivinar, diría que probablemente sea solo un escopion rad demasiado grande.}
+{406}{}{No lo he visto, personalmente, no hay nada en el mundo que pueda hacer que vaya allí y explore esas cavernas, pero si tuviera que adivinar, diría que probablemente sea solo un escorpión rad demasiado grande.}
 {407}{}{Si tú no lo has visto, ¿por que crees que es un escorpione rad?}
 {408}{}{Porque he escuchado sonidos que resuenan desde las cuevas: los sonidos de las garras y las patas que se deslizan.}
 {409}{}{Eso es.}
@@ -32,9 +32,9 @@
 {415}{}{De acuerdo, gracias.}
 {420}{}{Supongo que has leído muchos libros en tu tiempo. Entonces, tengo curiosidad, ¿qué es lo más fascinante que podrías decirme?}
 {421}{}{Hmm, veamos. ¿Sabía que una muesca en un árbol permanecerá a la misma distancia del suelo mientras el árbol crece?}
-{422}{}{Claro. Si encuentro tantas, seguro que me pasaré por aquí.}
+{422}{}{Claro. Si me encuentro con algo así, te lo haré saber.}
 {423}{}{Vale... Bueno, tengo algunas otras preguntas.}
-{424}{}{Si pudieras, te lo agradecería.}
+{424}{}{¿Lo harías? Te lo agradecería.}
 {425}{}{No hay problema. Tengo algunas otras preguntas.}
 {426}{}{Cualquier momento. Bueno, ya nos veremos.}
 {430}{}{Ha encontrado información sobra botánica que puede interesarte.}
@@ -57,6 +57,6 @@
 {4211}{}{¿Y sabías que un pepino tiene 96% de agua?}
 {4212}{}{Wow, 96%, ¿eh? Fascinante. Pero, um, ¿qué es un pepino?}
 {4213}{}{Nunca he visto uno, pero he leído sobre ellos. [Mira a su alrededor con nerviosismo y baja la voz.] Sé que se supone que no debemos estudiar estos libros, pero cuando estaba transcribiendo un libro sobre botánica, no pude evitar ser absorbido por ello. El mundo de las plantas es simplemente cautivador. Quizás, si, durante sus viajes, se encuentra con alguna información botánica, ¿podría traermela? Estaría muy agradecido. Por supuesto, tendría que ser nuestro secreto.}
-{4220}{}{No creo que quiera saber qué es lo que se cuece por aquí.}
+{4220}{}{No creo que quiero contribuir a tu obsesión de las plantas. Lo siento.}
 {4221}{}{Oh, bueno, entonces. Bien, olvídalo.}
 {4222}{}{Déjame hacerte otra pregunta.}

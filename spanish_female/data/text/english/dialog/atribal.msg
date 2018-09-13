@@ -8,4 +8,4 @@
 {205}{}{Saludos.}
 {206}{}{¡Bonita ropa!}
 {207}{}{¡Hola, compañero tribal!}
-{500}{}{¡No te muevas así!}
+{500}{}{¡No te metas con mis cosas!}

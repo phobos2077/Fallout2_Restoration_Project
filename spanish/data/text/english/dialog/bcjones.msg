@@ -69,7 +69,7 @@
 {168}{}{Ahora está paranoico. Cree que Tandi va tras él. Está obsesionado con la venganza, y quiere a Tandi muerta. Está lleno de remordimientos porque huyó y vivió, en vez de morir con su banda... y la lista sigue y sigue.}
 {200}{}{Darion está muerto.}
 {201}{}{Dar-e-on muerto.}
-{202}{}{¿¡Es el!? Oh, esta es una noticia maravillosa.}
+{202}{}{¿¡Es él!? Oh, esta es una noticia maravillosa.}
 {203}{}{¿Y ahora qué vas a hacer?}
 {204}{}{¿Qué hac-ces?}
 {205}{}{Bueno, no veo ninguna razón para volver a mi vida anterior. La ciudad que está sobre nosotros no tiene asistencia médica, así que creo que iré a ayudarlos. Gracias de nuevo por liberarme.}
@@ -77,11 +77,11 @@
 {207}{}{¡Adiós!}
 {210}{}{Todavía necesito empacar algunas cosas. Te veré afuera.}
 {220}{}{Hola, ¡me alegro de verte de nuevo! Todos aquí realmente aprecian lo que has hecho. Personalmente, me alegro de estar fuera de allí. Trabajar para Darion fue una pesadilla.}
-{221}{}{¿Puedes contarme algo más sobre Richard?}
+{221}{}{Me alegra haber podido ayudar. Así que, contarme más sobre ti.}
 {222}{}{Está bien, nos vemos.}
-{230}{}{Bueno, ya ves, soy originario de la República de Nueva California, pero me di cuenta de que tenía un don para las prácticas médicas. Así que entrené tanto como pude bajo el personal médico de RNC, y una vez que aprendí todo lo que pude, decidí intentar y aprender más yendo a Ciudad Refugio. Tuve la suerte de conocer al Dr. Troy mientras atendía a un ciudadano herido fuera del refugio, y para resumir, aceptó finalizar mi entrenamiento en Ciudad Refugio. Acababa de terminar mi entrenamiento y me dirigía hacia afuera cuando Darion me capturó.}
-{231}{}{? Espero que todo te fuera bien en Ocupación.}
+{230}{}{Bueno, ya ves, soy originario de la República de Nueva California, pero me di cuenta de que tenía un don para las prácticas médicas. Así que entrené tanto como pude bajo el personal médico de RNC, y una vez que aprendí todo lo que pude, decidí intentar y aprender más yendo a Ciudad Refugio. Tuve la suerte de conocer al Doctor Troy mientras atendía a un ciudadano herido fuera del refugio, y para resumir, aceptó finalizar mi entrenamiento en Ciudad Refugio. Acababa de terminar mi entrenamiento y me dirigía hacia afuera cuando Darion me capturó.}
+{231}{}{Eso es terrible. Bien, espero que todo juega en vuestro favor ahora.}
 {240}{}{Yo tambien lo espero. Creo que puedo usar mis habilidades médicas aquí.}
 {241}{}{Adiós.}
 {250}{}{Gracias de nuevo por todo.}
-{251}{}{Es bueno volver a casa de nuevo.}
+{251}{}{Se siente bien ayudar a la gente civilizada de nuevo.}
