@@ -14,8 +14,8 @@
 {405}{}{¡PARA! ¡PARA! ¡PARA!}
 {406}{}{[SEGUIR]}
 {407}{}{[DETENER]}
-{408}{}{(De repente, Jack comienza a derretirse.) ME DERRITO, ME DERRITO, OH EL MUNDO...}
-{409}{}{¿Pero qué...}
+{408}{}{(De repente, Jack comienza a derretirse.) ME DERRITO, ME DERRITO, OH MUNDO CRUEL...}
+{409}{}{¿Pero qué mierd...}
 {500}{}{¡Oye, no robes mis suministros médicos!}
 {501}{}{Obtienes 200 puntos de experiencia por hacer que Jack se derrita. ¿Estás contento ahora, jodido enfermo?}
 {600}{}{Soy un doctor. He estado atendiendo a la gente de esta Abadía durante unos, oh, quince años, creo.}

@@ -21,12 +21,12 @@
   fuera de aquí y olvidaremos que esta conversación alguna vez sucedió. Aunque no quiero volver a verte nunca más, ¿de acuerdo?}
 {214}{}{[El anciano parece que está a punto de protestar, luego se detiene.] De acuerdo, tú ganas. Has visto lo último del pobre Tom.
   [Levanta la pala y se aleja arrastrando los pies.]}
-{215}{}{Pensándolo bien, tal vez sería mejor para el mundo si te mato.}
+{215}{}{Pensándolo bien, quizás sería mejor para el mundo si te mato.}
 {216}{}{Adiós, Tom.}
 {217}{}{Escuché que también has estado robando cosechas del granjero aquí.}
 {218}{}{[El viejo se inquieta incómodo.] ¡No pude evitarlo! Estaba tan hambriento y la comida se veía tan bien. Por favor,
   No me refiero a ningún problema. Mira, me iré y no me verás aquí de nuevo. ¡Lo prometo!}
-{219}{}{Bien, vete entonces. Antes de cambiar de opinión}
+{219}{}{Bien, vete entonces. Antes de cambiar de opinión.}
 {220}{}{Espera, no hay necesidad de nada de eso. Los Peterson son dueños de la granja aquí y son personas muy agradables. Sr. Peterson
   incluso se ofreció a hablar con quienquiera que estuviera tomando sus cultivos y llegar a un acuerdo razonable. Ve a hablar con él.
   Estoy seguro de que puede ayudarte de alguna manera.}

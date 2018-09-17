@@ -49,7 +49,7 @@
 {412}{}{Aw, no parece que los mutis vayan a pelear. Tal vez deberíamos llevarlos al Comandante - ver qué quiere hacer al respecto}
 {420}{}{[Después de una media hora de estar sentado en la oscura bodega de carga, sientes que la nave aterriza de nuevo en la tierra. Un momento después, la puerta de carga se abre y ves a un escuadrón de soldados de Enclave. Uno de ellos te hace una doble impresión.] ¿Qué diablos estás haciendo aquí? No estabas autorizado para estar en esa misión. ¿Cuál es tu nombre, soldado?}
 {421}{}{No importa cuál sea mi nombre, porque no estoy aquí para hablar. [Saltas y comienzas a luchar.]}
-{422}{}{¿Yo? Oh, estoy, eh, * tos * murmurar * tos *. No me importa, sin embargo. De hecho, probablemente debería irme ahora. [Sales e intentas alejarte con indiferencia.]}
+{422}{}{¿Yo? Oh, estoy, eh, * tos * murmurar * tos *. Aun así, no importa. De hecho, probablemente debería irme ahora. [Sales e intentas alejarte con indiferencia.]}
 {423}{}{Mi nombre es }
 {424}{}{¿Dónde estoy?}
 {425}{}{No, ¿cuál es * tu * nombre, soldado? Me pusieron aquí para ponerte a prueba y debo decir que FALLASTE. ¡Si fuera un asesino suicida del Yermo, tú y toda tu compañia estarían muertos ahora mismo! Eso es inaceptable! ¡En formacion, soldado!}

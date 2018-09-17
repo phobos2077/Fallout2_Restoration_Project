@@ -1,7 +1,7 @@
 {100}{}{Ves a un monje de mediana edad.}
 {101}{}{Ves al Hermano Matthew.}
-{102}{}{Él está de pie en un podio predicando a los ciudadanos de Abbey.}
-{200}{}{Buena gente de la Abbey. Tomaos un momento para escuchar, porque tengo mucho que decir.}
+{102}{}{Él esta en el podio predicando a los ciudadanos de Abbey.}
+{200}{}{Las buenas personas de Abbey. Tomate un momento para escucharme, tengo mucho que decir.}
 {201}{}{Aquí recogemos, las sagradas reliquias de un era pasada.}
 {202}{}{Arrasada por el Diluvio de Llamas, en la oscuridad, fueron arrojados.}
 {203}{}{Un Memorial que debemos hacer, para preservar la sabiduría de los antiguos.}

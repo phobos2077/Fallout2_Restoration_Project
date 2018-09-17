@@ -1,5 +1,5 @@
 {100}{}{Ves una bomba de agua.}
-{101}{}{Ves una bomba de agua muy vieja que parece estar rota.}
+{101}{}{Ves una bomba de agua muy vieja que parece estar roto.}
 {102}{}{Ahora la bomba de agua funciona correctamente.}
 {103}{}{Necesitará algo más que tus manos para arreglar esta máquina. Tal vez algunas herramientas ayudarían con la instalación de esta pieza.}
 {104}{}{Has reparado la bomba de agua.}

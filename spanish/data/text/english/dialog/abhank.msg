@@ -24,7 +24,7 @@
 {220}{}{¿Alguna suerte encontrando un encendedor?}
 {250}{}{Me gustaría comprar algo del alcohol que haces aquí.}
 {251}{}{Sólo estaba mirando. Cuídate.}
-{252}{}{Por supuesto. Yo $ 20 un bottll tengo uno.}
+{252}{}{Claro. 20 dólares por una botella.}
 {253}{}{[Aferrarse a ello.]}
 {300}{}{¿Dónde he puesto mi encendedor?}
 {301}{}{Necesito un encendedor.}
@@ -33,9 +33,9 @@
 {304}{}{Lo siento, no puedo charlar contigo ahora.}
 {400}{}{Oh, ¡mira todos esos bonitas estrellas!}
 {500}{}{Hola. ¿Necesitas algo?}
-{501}{}{Oye, gracias de nuevo por el encendedor. Es mejor que mi anterior.}
+{501}{}{Oye, gracias por el encendedor. Es mejor que la anterior.}
 {600}{}{Elaboramos nuestro propio alcohol aquí en el monasterio. Algunas de las cosas más poderosas que probarás en los Desiertos.}
-{601}{}{¿Te importa si te hago algunas preguntas?}
+{601}{}{¿Te importa si lo intento?}
 {602}{}{Suena interesante. Debo irme.}
 {700}{}{Eso es muy malo. Perdí la mía recientemente y parece que no puedo encontrarla en ningún lado. Si alguna vez logras una,
   Estaría encantado de quitártelo de las manos.}

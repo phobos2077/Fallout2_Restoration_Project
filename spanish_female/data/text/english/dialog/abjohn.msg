@@ -1,11 +1,11 @@
 {100}{}{Ves al Hermano John.}
 {101}{}{Ves a uno de los monjes antiguos de la Abadía.}
-{102}{}{Usted ve a un viejo monje. Él parece estar en los principios de los años setenta.}
+{102}{}{Ves a un viejo monje. Él parece estar en los principios de los años setenta.}
 {300}{}{Hola, joven.}
 {301}{}{¿Quién eres?}
 {302}{}{¿Habéis oído algo sobre el GECK o el Refugio 13?}
 {303}{}{Adiós.}
-{400}{}{Mi nombre es John, soy uno de los más antiguos monjes.}
+{400}{}{Mi nombre es John, soy uno de los más antiguos monjes aquí.}
 {401}{}{Así que, ¿cuál es tu trabajo?}
 {402}{}{Ya veo, adiós.}
 {403}{}{Bueno, yo solía trabajar en una granja, pero era malo para mi corazón.}
@@ -17,7 +17,7 @@ para encontrar la medicina para ese problema en el mundo de hoy, usted sabe.}
 {408}{}{Siento oír eso, adiós.}
 {410}{}{Adiós.}
 {411}{}{¿Tú lo haces? ¿Estás diciendo que en realidad TENES pastillas para el corazón?}
-{412}{}{Sí, lo sé. Sería un placer para darles a ustedes.}
+{412}{}{Sí, lo sé. Sería un placer para darles a usted.}
 {413}{}{Sí, tengo las píldoras para el corazón. Puedes tenerlas por 400 dólares.}
 {414}{}{Sólo estaba bromeando. No tengo pastillas para el corazón.}
 {415}{}{[Él toma las pastillas de usted.] Gracias, mi amiga! Aquí, por favor tome este elemento como un gesto de gratitud.}

@@ -1,6 +1,6 @@
 {100}{}{Ves a un okupa.}
-{101}{}{Ves a alguien cubierto de suciedad.}
-{102}{}{Ves a alguien cubierto de suciedad.}
+{101}{}{Ves a un hombre cubierto de suciedad y mugre.}
+{102}{}{Ves a una mujer cubierta de suciedad y mugre.}
 {103}{}{¿Qué quieres?}
 {104}{}{Te quiero a ti y a tus amigos fuera de este edificio. Me viene a la mente que Mamá tiene la intención de convertir este lugar en un orfanato para sacar de la calle a todos esos niños sin hogar. Y no puede hacer eso contigo sentada en cuclillas aquí.}
 {105}{}{[Se ríe inquieto y mira a sus compañeros ocupantes ilegales por apoyo.] Mamá sabe el trato. No nos vamos a ir a ningún lado hasta que ella suelte el dinero. Así que a menos que nos traigas un millón de monedas, vete a la mierda.}
@@ -16,7 +16,7 @@
 {114}{}{[Él intercambia una mirada con los otros ocupantes ilegales y reflexiona sobre tus palabras.] ¿Sabes qué? Eso no suena tan mal. De hecho, eso podría funcionar muy bien, si realmente crees que Mamá lo hará. Mientras vas a hablar con ella, empezaremos a limpiar este lugar. Ah, y gracias por ser tan genial sobre las cosas.}
 {115}{}{No importa.}
 {116}{}{Ella no te va a pagar. Pero estoy aquí para ofrecerte un nuevo trato: tú y tus amigos se van de aquí ahora, y pueden mantener sus vidas.}
-{117}{}{(Oh, en fin, valía la pena intentarlo). Atrás.}
+{117}{}{De acuerdo, bien, lo intenté. Adiós.}
 {120}{}{Esa es una gran idea. Nosotros prepararemos las cosas.}
 {200}{}{¿Eh?}
 {201}{}{Este es nuestro territorio.}

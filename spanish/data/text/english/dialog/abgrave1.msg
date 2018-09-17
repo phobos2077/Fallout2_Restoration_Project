@@ -12,6 +12,6 @@
 {111}{}{"Las lágrimas no pueden restaurarla, por lo tanto, lloro".}
 {112}{}{"Todos los días, en todos los sentidos, cada vez soy mejor y mejor."}
 {250}{}{No hay inscripciones en esta lápida.}
-{251}{}{La lápida está demasiado agrietada y rota para ser leída.}
+{251}{}{El marcador tumular está demasiado agrietado y roto para ser léido.}
 {252}{}{El nombre en esta lápida es John Doe.}
 {253}{}{El nombre y fecha de esta cruz han sido borrados por el tiempo.}

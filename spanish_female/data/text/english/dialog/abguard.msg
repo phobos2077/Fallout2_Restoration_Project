@@ -6,7 +6,7 @@
 {202}{}{¿Quién eres?}
 {203}{}{¿Dónde puedo negociar por algunos suministros?}
 {204}{}{Alguien está cavando tumbas, ¿por qué no haces nada al respecto?}
-{205}{}{He oído hablar sobre unos animales en el sótano. ¿Sabes algo de eso?}
+{205}{}{He oído algo de animales en el sótano. ¿Sabes algo de eso?}
 {206}{}{Creo que es hora de que te envíe a una tumba. Bailemos, viejo.}
 {207}{}{No importa. Adiós.}
 {300}{}{Nadie... Solo un viejo guardia de caravana retirado. Mucha gente me confunde con algún tipo de sheriff porque soy
@@ -21,7 +21,7 @@
 {305}{}{¿Crees que puedes mantenerme en línea? Vamos a ver si lo intentas, viejo. Esto debería ser divertido.}
 {400}{}{Puede encontrar a Bill, nuestro comerciante local, en el edificio frente a aquí. Aparte de eso, deberías ir
   al Casillero de Equipo se Supervivencia de Percy en el Depósito de Chatarra en Gecko o Harry el Feliz en el Patio en Ciudad Refugio.}
-{401}{}{Bueno saber. Tengo otra pregunta.}
+{401}{}{Es bueno saberlo. Tengo otra pregunta.}
 {402}{}{Gracias, adiós.}
 {500}{}{Si alguien es pobre o codicioso para tratar y desenterrar tumbas, ese es asunto de ellos. No es como si los muertos pudieran
   usar lo que estáenterrados con ellos de todos modos. No es mi problema ... No estoy perdiendo el sueño por eso.}
