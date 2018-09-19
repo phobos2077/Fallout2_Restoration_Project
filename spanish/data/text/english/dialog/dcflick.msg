@@ -63,20 +63,16 @@
 {422}{}{Te refieres a ellos robando las carteras de las personas y trayéndote los artículos para que los vendas.}
 {430}{}{No te hagas el listo conmigo gilipollas. Los niños me traen cosas que * encuentran *. No sé dónde los consiguen y, francamente, no me importa una mierda.}
 {431}{}{Eso es.}
-{432}{}{You're full of it. I'm sick of skum like you who use people for their own benefit. Time to die!}
+{432}{}{Estás lleno de eso. Estoy harto de escoria como tú que usa a personas para su propio beneficio. ¡Hora de morir!}
 {440}{}{Pai-sa-nos, sabes, los chicos. Mis chicos.}
-{441}{}{And you have an arrangement with them?}
+{441}{}{¿Y tienes un acuerdo con ellos?}
 {450}{}{Me traen lo que encuentran. Piccoli, pequeñas cosas. Cosas que nadie quiere ya. A cambio, cuido de ellos.}
 {451}{}{Parece un buen acuerdo.}
-{460}{}{Yeah...business was good 'til you came along. See, yer little stunt's gonna cost me. My business is gonna suffer thanks to you.
- Because of this, I don't really like you too much. In fact, I fuckin' hate you. But, I'm a business man, so if you need to barter,
- get to it. If not, fuck off.}
+{460}{}{Sí ... el negocio estuvo bien hasta que llegaste. Mira, tu pequeño truco me va a costar. Mi negocio va a sufrir gracias a ti. Debido a esto, realmente no me gustas demasiado. De hecho, te odio. Pero, soy un hombre de negocios, así que si necesitas hacer trueques, hazlo. Si no, vete a la mierda.}
 {461}{}{De acuerdo, déjame ver lo que tienes a la venta entonces.}
 {462}{}{Creo que tengo todo lo que necesito. Adiós.}
 {463}{}{Creo que me quedaré... y patearte el culo.}
-{470}{}{You again? You better be here to make some good trades, 'cause I'm getting real fuckin' sick of looking at you.
- In fact, I vomit in my mouth a little every time I see yer face. That's how much you disgust me. And if yer not here to
- trade, then I suggest you turn around and walk the fuck outta here.}
+{470}{}{¿Tu otra vez? Será mejor que estés aquí para hacer algunos buenos intercambios, porque estoy realmente harto de verte. De hecho, vomito en mi boca un poco cada vez que veo tu rostro. Eso es lo mucho que me disgustas. Y si no estás aquí para comerciar, entonces te sugiero que te des la vuelta y salgas de aquí.}
 {471}{}{Vamos a hacer negocios.}
 {472}{}{Sólo quería asegurarme. Bien, adiós Flick.}
 {480}{}{¿Has terminado de perder mi tiempo?}
