@@ -7,9 +7,8 @@
 {106}{}{Mira, Mamá no tiene esa cantidad de dinero, y aunque lo tuviera, nunca te pagaría, así que olvídalo. ¿Por qué no muestras algo de decencia e ir en cuclillas a otro lugar? Esos niños sin hogar necesitan este lugar muchísimo más que tú.}
 {107}{}{¿Quién eres tú para decir quién merece qué? * Nos gusta * aquí. No puedes hacer que nos vayamos.}
 {108}{}{Escucha, tienes dos opciones: puedes salir de aquí con tus propios pies, o * yo * puedo quitarte, arrastrándote, un cadáver a la vez.}
-{109}{}{([Él intercambia una mirada con sus compañeros ocupantes ilegales, luego te mira y niega con la cabeza.] No puedes intimidarnos.
- Nadie nos está echando de aquí. Lucharemos por nuestro territorio.}
-{110}{}{[Él intercambia una mirada con sus compañeros ocupantes ilegales, luego te mira hacia atrás y asiente.] Bien, tú hiciste tu punto. No es que odiemos a los niños ni nada, diablos, la mayoría de nosotros somos niños sin hogar. Solo estábamos tratando de ganar algo de dinero, ¿sabes? Los únicos trabajos por aquí implican vender drogas o dolor, y no nos gusta eso. [Suspira.] Nos iremos, pero ¿dónde sugieres que vayamos? Este lugar es nuestro hogar}
+{109}{}{([Él intercambia una mirada con sus compañeros ocupantes ilegales, luego te mira y niega con la cabeza.] No puedes intimidarnos. Nadie nos está echando de aquí. Lucharemos por nuestro territorio.}
+{110}{}{[Él intercambia una mirada con sus compañeros ocupantes ilegales, luego te mira hacia atrás y asiente.] Bien, tú hiciste tu punto. No es que odiemos a los niños ni nada, diablos, la mayoría de nosotros somos niños sin hogar. Solo estábamos tratando de ganar algo de dinero, ¿sabes? Los únicos trabajos por aquí implican vender drogas o dolor, y no nos gusta eso. [Suspira.] Nos iremos, pero ¿dónde sugieres que vayamos? Este lugar es nuestro hogar.}
 {111}{}{No sé. Ese no es mi problema.}
 {112}{}{Puede que me arrepienta de haber dicho esto, pero si realmente quieres un trabajo, estoy segura de que Mamá podría ayudar a arreglar este lugar. Ella es una mujer muy agradable, así que tal vez si te disculpas, ella te daría una buena oportunidad de demostrar que eres más que un grupo de oportunistas perezosos. Hablaré con ella sobre eso. Pero si tratas de joderla, te perseguiré y te obligaré a pagar.}
 {113}{}{Al diablo con esto, cambié de opinión. No nos vamos. Nos quedamos aquí y pelearemos.}
@@ -20,23 +19,24 @@
 {120}{}{Esa es una gran idea. Nosotros prepararemos las cosas.}
 {200}{}{¿Eh?}
 {201}{}{Este es nuestro territorio.}
-{202}{}{¿Estás segura aquí?}
+{202}{}{¿Eres un okupa también?
+}
 {203}{}{¿Tienes algo para comer?}
-{300}{}{Ves a un hombre con las ropas roídas.}
-{301}{}{Ves a una persona con polvorientas ropas de trabajo.}
-{310}{}{Oye, gracias por ayudarnos a arreglar esto. Trabajaremos duro}
-{311}{}{Mejor que te vayas antes de que haya problemas.}
-{312}{}{Bien hecho.}
+{300}{}{Ves a un hombre en ropa de trabajo.}
+{301}{}{Ves a una mujer en ropa de trabajo.}
+{310}{}{Oye, gracias por ayudarnos a arreglar esto. Trabajaremos duro.}
+{311}{}{Será mejor. Asegúrese de que los niños se mantengan fuera de problemas también.}
+{312}{}{Haremos lo mejor que podamos.}
 {313}{}{Adiós.}
-{350}{}{Cualquier lugar excepto aqui. La guarida es un lugar grande, estoy seguro de que puedes encontrar otro lugar para dormir. Vamos, ¿de verdad quieres que los niños vivan en las calles?}
+{350}{}{Cualquier lugar excepto aqui. La Guarida es un lugar grande, estoy seguro de que puedes encontrar otro lugar para dormir. Vamos, ¿de verdad quieres que los niños vivan en las calles?}
 {351}{}{Nah, tienes razón, eso no es genial para los niños. Bien, empacaremos nuestras cosas y nos mudaremos. Este lugar tenía un techo con goteras de todos modos.}
-{352}{}{Muchísimas gracias. Estoy seguro de que esto será muy útil. Ten cuidado.}
+{352}{}{Gracias. Esto significará mucho para ellos. Ten cuidado.}
 {353}{}{Nah, ese no es nuestro problema. Si Mamá piensa que es tan importante sacar a esos niños de las calles, entonces debería dejar de ser mezquina con su dinero y compartir la riqueza. Sí, he cambiado de opinión, nos quedaremos hasta que pague. Ahora que esta conversación ha terminado, será mejor que te vayas si sabes lo que es bueno para ti.}
 {360}{}{Bien. No es necesario que esto se salga de control. Te dejare solo.}
 {361}{}{Es hora de limpiar este lugar en esta momento. (Ataque)}
 {400}{}{¡Gracias de nuevo!}
 {401}{}{Vamos a trabajar duro.}
-{402}{}{Gracias por ayudarnos.}
+{402}{}{Gracias por ser tan genial sobre las cosas.}
 {403}{}{No te decepcionaremos.}
-{500}{}{Vaya vaya, mira qué pandilla de gilipollas.}
+{500}{}{Recogeremos nuestras cosas y nos iremos pronto.}
 {600}{}{Has eliminado a todos los okupas.}

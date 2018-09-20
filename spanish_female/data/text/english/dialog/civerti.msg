@@ -3,12 +3,10 @@
 {200}{}{[Te metes en el avión y accedes el terminal del piloto.] Bienvenido a PoseidoNet. Este terminal está limitado a la transmisión entre el Vertibird del Enclave y el muelle. ¿Orden?}
 {201}{}{Estado.}
 {202}{}{Salir.}
-{203}{}{Esta aeronave solo tiene suficiente combustible para un vuelo completo de ida y vuelta desde el puesto fronterizo de Navarro hasta la plataforma de atraque y viceversa.
- Todos los procedimientos están completamente automatizados y, por lo tanto, no se necesita la intervención de los miembros de la tripulación. El estado actual del combustible es: Lleno.}
+{203}{}{Esta aeronave solo tiene suficiente combustible para un vuelo completo de ida y vuelta desde el puesto fronterizo de Navarro hasta la plataforma de atraque y viceversa. Todos los procedimientos están completamente automatizados y, por lo tanto, no se necesita la intervención de los miembros de la tripulación. El estado actual del combustible es: Lleno.}
 {204}{}{Vuela a la plataforma petrolera.}
 {205}{}{Salir.}
-{206}{}{Error. Pase amarillo del reactor no insertado. Todos los pilotos reciben esta tarjeta una vez que despejen.
- El vuelo automatizado no puede ocurrir sin la presencia de esta tarjeta de autorizacion.}
+{206}{}{Error. Pase amarillo del reactor no insertado. Todos los pilotos reciben esta tarjeta una vez que despejen. El vuelo automatizado no puede ocurrir sin la presencia de esta tarjeta de autorizacion.}
 {207}{}{Introducir tarjeta.}
 {208}{}{Mierda. Parece que voy a tener que encontrar esta tarjeta.}
 {209}{}{Pase aceptado. La aeronave ahora está activada.}
@@ -22,17 +20,16 @@
 {220}{}{Aeronave actualmente activada. ¿Comando?}
 {221}{}{Ejecutar diagnósticos previos al vuelo.}
 {222}{}{Salir.}
-{230}{}{Señal de prueba recibida Recuperando coordenadas de atraque ... completo. Aeronave lista para despegar.}
+{230}{}{Señal de prueba recibida. Recuperando coordenadas de atraque ... completo. Aeronave lista para despegar.}
 {231}{}{Adelante.}
 {232}{}{Salir.}
 {240}{}{La aeronave está fijada en el objetivo. El tiempo de vuelo es de aproximadamente 6 horas. Disfrute su vuelo.}
-{241}{}{Esto es, el momento de la verdad. La tribu está en problemas y depende de mí. Me duelen los pies, me duele todo el cuerpo y no recuerdo la última vez que comí una comida decente. Estos son los momentos por los que vivimos. No hay marcha atrás. Es hora de mostrarle al mundo qué}
-{242}{}{de que estas hecha. ¡Vamos, Enclave!}
+{241}{}{Esto es, el momento de la verdad. La tribu está en problemas y depende de mí. Me duelen los pies, me duele todo el cuerpo y no recuerdo la última vez que comí una comida decente. Estos son los momentos por los que vivimos. No hay marcha atrás. Es hora de mostrarle al mundo qué }
+{242}{}{ de que estas hecha. ¡Vamos, Enclave!}
 {243}{}{Jeje ... ¡Volar pajarito, volar!}
 {244}{}{ salvar el día ahora.}
 {300}{}{[Te metes en el avión y accedes el terminal del piloto.] Bienvenido a PoseidoNet. Este terminal está limitado a la transmisión entre el Vertibird del Enclave y el muelle. ¿Orden?}
 {301}{}{Estado.}
 {302}{}{Salir.}
-{303}{}{Esta aeronave solo tiene suficiente combustible para un vuelo completo de ida y vuelta desde el puesto fronterizo de Navarro hasta la plataforma de atraque y viceversa.
- Todos los procedimientos están completamente automatizados y, por lo tanto, no se necesita la intervención de los miembros de la tripulación. El estado actual del combustible es: Vacío.}
+{303}{}{Esta aeronave solo tiene suficiente combustible para un vuelo completo de ida y vuelta desde el puesto fronterizo de Navarro hasta la plataforma de atraque y viceversa. Todos los procedimientos están completamente automatizados y, por lo tanto, no se necesita la intervención de los miembros de la tripulación. El estado actual del combustible es: Vacío.}
 {304}{}{Salir.}

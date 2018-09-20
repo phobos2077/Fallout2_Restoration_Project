@@ -26,31 +26,31 @@
 {125}{}{Hora de morir.}
 {200}{}{De acuerdo, acabemos con esto - No me gustan las mutis que apestan mi oficina, y tengo mierda que hacer. ¿Trabajas para Los Salvatores?}
 {201}{}{Nada que te incumba, Imbécil.}
-{202}{}{ ha terminado su trabajo aquí.}
-{203}{}{Entonces, ¿que puedo hacer por ti?}
-{204}{}{Trabajo 'qui para Doctor.}
-{205}{}{Si no vas a responder a mis preguntas, lo harás a mis armas.}
-{210}{}{No tengo tiempo para esta mierda.}
+{202}{}{No trabajo para nadie.}
+{203}{}{¿Y qué si es así?}
+{204}{}{Sí, trabajo para los Salvatores.}
+{205}{}{Antes de responder a cualquier pregunta, tengo algunas de las mías.}
+{210}{}{No tengo tiempo para esta mierda. ¡Guardias! ¡Maten a este muti!}
 {220}{}{Entonces, ¿estás diciendo que no eres más que una rata vagabunda que pasó por uno de nuestros vertibird?}
 {221}{}{Uh, sí, más o menos. . . a excepción de esa parte sobre mí siendo una rata.}
 {222}{}{Así es.}
 {223}{}{No, estoy diciendo que todo esto es solo un gran malentendido. No sé quienes son ustedes, y no me importa. Entonces, si no te importa, me ire ahora.}
 {230}{}{Bien, si estás actuando solo, entonces no tengo que perder otro segundo de mi tiempo contigo. ¡Guardias! Maten a este muti!}
 {240}{}{No te vas a ir de aquí vivo, mutante. No podría arriesgarme a que cuentes la ubicación de esta base a todos tus amigos del Yermo, ¿no? ¡Guardias! Maten a este muti!}
-{250}{}{Dime lo que quiero saber, y me aseguraré de que tu muerte sea rápida y ... . . relativamente indoloro ¿Salvatore te metió en esto?}
+{250}{}{Dime lo que quiero saber, y me aseguraré de que tu muerte sea rápida y ... relativamente indoloro. ¿Salvatore te metió en esto?}
 {251}{}{Uhh. . . ¿no? Espera, si. Tal vez.}
 {252}{}{Nop. Jugar al escondite en tu máquina voladora fue idea mía. Genio, lo sé.}
 {253}{}{Sí, pensó que endulzaría el negocio enviándome. Qué trato, ¿eh?}
-{254}{}{Si no vas a responder a mis preguntas, lo harás a mis armas.}
-{260}{}{No tengo tiempo para esta mierda.}
+{254}{}{Antes de responder a cualquier pregunta, tengo algunas de las mías.}
+{260}{}{No tengo tiempo para esta mierda. ¡Guardias! ¡Maten a este muti!}
 {270}{}{¿Se supone que es gracioso, mutante? Creo que serás mucho más divertido para mí cuando seas un sangriento cadáver. ¡Guardias! Maten a este muti!}
 {280}{}{Oh, ¿tú? [Él se ríe.] Bien, ¿por qué no? Te estás muriendo de todos modos. ¿Qué quieres saber, mutante?}
 {281}{}{¿Por qué sigues llamándome mutante?}
 {282}{}{¿Quién diablos sois vosotros?}
 {283}{}{¿Dónde estoy?}
-{284}{}{¿Cómo puedo hacer para bajar el Refugio?}
+{284}{}{¿Cómo puedo conseguir esa preciosa armadura?}
 {285}{}{Ya he oído bastante.}
-{290}{}{Porque lo eres. Claro, puede que te veas un poco humano, pero no dejes que eso te engañe. Aún eres un mutante. Usted y todos los demás en el continente. Todos contaminado. ¿Próxima pregunta?}
+{290}{}{Porque lo ERES. Claro, puede que te veas un poco humano, pero no dejes que eso te engañe. Aún eres un mutante. Usted y todos los demás en el continente. Todos contaminado. ¿Próxima pregunta?}
 {300}{}{Somos el Enclave, el último bastión de la verdadera humanidad en este maldito planeta. Somos los únicos que seguimos manteniendo el honor de los viejos rojos, blancos y azules. Así es, somos verdaderos patriotas. Comemos águilas calvas y defecamos estrellas y rayas. Somos todo lo que queda de los grandes Estados Unidos de América. Pero somos suficientes. Oh, sí, somos los suficientes para arreglar las cosas. Puedes contar con eso, muti. ¿Próxima pregunta?}
 {310}{}{Aquí está Navarro, nuestra base secreta en tierra firme. Estamos sentados en la costa de California y el océano Pacífico. ¿Próxima pregunta?}
 {320}{}{Tomándolo de mi cadáver. Buena suerte con eso, muti. ¿Próxima pregunta?}

@@ -3,5 +3,5 @@
 {110}{}{¿Estás aquí para ver a Lara?}
 {111}{}{*hickup* Brews on me!}
 {112}{}{No me mientas. Volveré si lo haces.}
-{120}{}{Nobody fucks up a party when I am around.}
-{130}{}{We showed those fuckers...Ruining *hickup* a good party and all.}
+{120}{}{Nadie arruina una fiesta cuando estoy cerca.}
+{130}{}{Mostramos a esos cabrones ... A arruinar *hickup* una buena fiesta y todo.}
