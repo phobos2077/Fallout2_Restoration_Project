@@ -71,16 +71,16 @@
 {423}{}{Por mí está bien.}
 {424}{}{I work better solo anyway.}
 {430}{}{No tengo mucha paciencia, así que date prisa.}
-{431}{}{Bien; no pienso esperar más.}
+{431}{}{No me gusta esperar. No tardes mucho.}
 {440}{}{¿Nos vamos?}
-{441}{}{Es hora de que se lo hagamos pagar.}
+{441}{}{Ya era hora de que volvieras.}
 {450}{}{It's good to be on the move again. My legs need to keep moving.}
 {451}{}{Ya es hora de que hagamos algo juntos de nuevo.}
 {460}{}{Sure, it looks like crap anyway. Got anything in blue?}
 {470}{}{Ok, but this is *my* shiny thing. And if you try and take it off me, I may have to shoot you.}
 {480}{}{Me siento de primera clase.}
 {481}{}{Solo algunos rasguños, nada de que preocuparse.}
-{482}{}{Los he recibido peores practicando.}
+{482}{}{He visto los peores en el ejército.}
 {483}{}{Call a medic. I'm going down fast.}
 {484}{}{Estoy sangrando en todas partes ahora...}
 {490}{}{Jesus, your ugly. You ought to get yourself checked out. I'm outta here.}

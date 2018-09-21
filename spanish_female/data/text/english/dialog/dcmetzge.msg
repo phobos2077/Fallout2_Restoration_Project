@@ -238,7 +238,7 @@
  as long as you're serious. I'll tell you how to get there, but you better keep it to your fucking self. I swear, if you turn out to be a
  spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pipboy.]}
 {915}{}{Entiendo. Déjame hacerte otra pregunta.}
-{916}{}{Gracias. Iré a buscarle ahora. Adiós.}
+{916}{}{Gracias. Estaré en camino ahora. Adiós.}
 {1360}{}{ dólares por ella. ¿Qué te parece?}
 {1361}{}{?}
 {1363}{}{.}

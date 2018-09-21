@@ -10,7 +10,7 @@
 {109}{}{Esto se está convirtiendo en una mala costumbre.}
 {110}{}{Kaga necesita entrenar un poco más.}
 {111}{}{Kaga volverá.}
-{120}{}{Quizás nos volvamos a ver.}
+{120}{}{Así que nos encontramos de nuevo, Kaga.}
 {150}{}{[A tall and powerfully built warrior stands before you, his eyes blaze with hatred as he looks you over.] So, they cast out Kaga, then deem YOU the Chosen One? Ha! You think being the grandchild of the Vault Dweller makes you special?! You think you are better than I, Kaga the Great?!}
 {151}{}{Bueno, yo SOY el Elegido, ¿no?}
 {152}{}{Hey now, hold on a second. I never said I was better than you.}

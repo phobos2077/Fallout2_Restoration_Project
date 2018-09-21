@@ -155,9 +155,9 @@
 {650}{}{¡De acuerdo! ¡Vamos! ¡Seguidme todos!}
 {700}{}{Alright, we took care of the skeleton crew here at the church, but there still is Tyler and his cronies over in the Residential area.
  They should be pretty drunk by now and we can easily catch them off guard. You ready to finish this?}
-{701}{}{No del todo. Te avisaré cuando esté listo. Gracias.}
+{701}{}{Déjame sanar primero. Te avisaré cuando estoy listo.}
 {702}{}{Vamos.}
-{710}{}{¿Estás listo para pagar los 10.000 dólares esta vez?}
+{710}{}{¿Estás listo para atacar a Tyler y su equipo?}
 {720}{}{Well, don't stray too far. We need to finish this tonight or we'll do it without you.}
 {721}{}{Volveré pronto.}
 {722}{}{Vamos.}

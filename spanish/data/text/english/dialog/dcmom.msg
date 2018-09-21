@@ -123,7 +123,7 @@
  decent folk that we so desperately need in this world. I've tried establishing an orphanage for them, but sadly, that
  didn't pan out.}
 {804}{}{Maybe it's time to give it another try. I'm not going to be in town for too much longer, but I'll do what I can to help while I'm here.}
-{805}{}{Eh... cierto. Bueno, ha estado bien hablar contigo. Adiós.}
+{805}{}{Eso es muy malo. Bueno, ha estado bien hablar contigo. Adiós.}
 {806}{}{Yes, perhaps you *could* help. You see, I procured a large building over on the south-west side that, with a little work, would make an excellent
  orphanage. But a bunch of lowlifes are squatting there and refuse to leave unless I pay an absurd fee. Even if I *had* the money, I wouldn't give
  it to them bullies -- they'd just use it to further poison themselves. I'd go to the authorities, but unfortunately, there's no such thing in the Den.

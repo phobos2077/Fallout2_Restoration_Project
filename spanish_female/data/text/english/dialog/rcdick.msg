@@ -36,7 +36,7 @@
  También hay alguno que me llama Athabaska, por supuesto. Aunque la mayoría me llama Dick.}
 {130}{}{Hola. ¿Qué puede hacer el viejo Athabaska Dick por ti?}
 {131}{}{Vamos. ¡Deprisa! ¡Deprisa! ¿Y bien? ¿A qué estas esperando? Si quieres hablar con Athabaska Dick necesitas hablar más rápido.}
-{132}{}{Qué? ¿Qué quieres? ¿No ves que estoy ocupado? (murmulla para sí mismo) Debo estar ocupado todo el rato… ocupado… ocupado…}
+{132}{}{Qué? ¿Qué quieres? ¿No ves que estoy ocupado? (murmulla para sí mismo) Debo estar ocupado todo el rato... ocupado... ocupado...}
 {133}{}{(gruñendo) ¿Qué quieres del viejo Athabaska Dick? (a sí mismo) Me siento como si hubiera sido pateado en la cabeza por una mula.}
 {134}{}{Me siento tremendamente mal. ¿Con qué vas a molestar al viejo Dick? ¿Eh?}
 {135}{}{Hola, mi nombre es Athabaska Dick. Solía pasar todo mi tiempo tomando Jet. Pero ya no tomo más de esa mierda.}

@@ -1,5 +1,5 @@
 {100}{}{Ves a un hombre de mediana edad.}
-{101}{}{Eh, ¿no tienes nada de alcohol de verdad?}
+{101}{}{Él no está afeitado y apesta al alcohol.}
 {102}{}{*hipo* ¿Te conozco?}
 {103}{}{Son las 11 de la mañana. ¿Sabes dónde están tus hijos?}
 {104}{}{(Looks at you sleepily) What? *hickup* It's 11 already?}

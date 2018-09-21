@@ -51,7 +51,7 @@
 {150}{}{[Canta] Brilla el nombre, brilla el nombre, brilla el nombre de Rodger Young.}
 {151}{}{Muy bien, ¿quién está masticando chicle delante del micrófono?}
 {152}{}{Deja de pisar uvas.}
-{153}{}{[Canta] Jody está en casa ahora, fumando hierba / Jody se está tirando a tu esposa…}
+{153}{}{[Canta] Jody está en casa ahora, fumando hierba / Jody se está tirando a tu esposa...}
 {154}{}{[Canta] Fuera sonido, 1-2-3-4, bájalo.}
 {155}{}{Nivel 2, todo despejado.}
 {156}{}{Sector 7, despejado.}

@@ -30,7 +30,7 @@
  friends! I'm so excited! Thanks again miss, you're the best!}
 {119}{}{De nada, chico. Nos vemos.}
 {120}{}{¡Hola de nuevo! ¿Has hablado ya con señora Mamá?}
-{121}{}{No te preocupes, estoy en ello.}
+{121}{}{No te preocupes, Bobby, estoy trabajando en ello.}
 {122}{}{You help Bobby find a better life.}
 {123}{}{Hi again! Thanks for everything. I love this new place. Mom is such a great lady!}
 {124}{}{I love this new place. Mom is such a great lady!}

@@ -51,7 +51,7 @@
 {150}{}{A menos que me ayudes a superar a Horrigan para llegar hasta mi barco.}
 {151}{}{No importa. No tengo tiempo para discutir eso. Adiós.}
 {152}{}{Oh, sí. Ahora cuéntame una que me crea. Si el reactor está jodido, ¿por qué siguen las luces encendidas? ¿Eh, tío listo? Je, je, cuéntame otra.}
-{153}{}{Eso sólo son luces de *emergencia*. Oye, que vi dónde *estaba* la computadora. No está averiada, está *jodida*. Te lo estoy diciendo, todos estáis perdidos a menos…}
+{153}{}{Eso sólo son luces de *emergencia*. Oye, que vi dónde *estaba* la computadora. No está averiada, está *jodida*. Te lo estoy diciendo, todos estáis perdidos a menos...}
 {154}{}{No tengo tiempo para seguir discutiendo esto. Espero que seáis todos unos excelentes nadadores. Adiós.}
 {155}{}{No me cuentes una bonita historia. Me haces reír. ¿Sabes? Creo que incluso podrías aguantar más de un minuto contra Horrigan. Eso sería un nuevo record. Buena suerte, muti.}
 {156}{}{Por Cristo, no eres generoso. Será mejor que caliente primero. Contigo y con tu equipo.}
