@@ -88,7 +88,7 @@
 {300}{}{¿Sí?}
 {301}{}{Estoy escuchando.}
 {302}{}{¿Querías algo?}
-{303}{}{¿Qué pasa? ¡Sabes que tengo mucho que hacer!}
+{303}{}{¿Qué pasa? Parece que tienes algo que decir.}
 {304}{}{¿Qué te ocurre?}
 {305}{}{¿Hay algo que necesites de mí?}
 {310}{}{Kitsune, I'm pretty sure you wouldn't have been frozen in a cryo tank for no good reason.
@@ -155,7 +155,7 @@
 {375}{}{¿Qué quieres decir?}
 {376}{}{Ever since the transplant I always felt like I was seeing the past in one eye and the present in the other.
  More so than ever now. And that helps me carry on.}
-{377}{}{Realmente tengo que irme.}
+{377}{}{Todos tenemos nuestras maneras de sobrellevarlo.}
 {410}{}{¿Qué quieres saber?}
 {411}{}{I have a black belt in sanshou. I can stab a man to death if the situation calls for it. Pistols, rifles and the like I'm decent with.}
 {420}{}{Tenemos que hablar sobre la distancia entre nosotros.}
@@ -164,7 +164,7 @@
 {423}{}{De acuerdo. Volveré.}
 {424}{}{No te alejes demasiado.}
 {425}{}{Necesitas algo espacio, entiendo.}
-{426}{}{Salgamos.}
+{426}{}{Separémonos.}
 {427}{}{Okay. We're harder targets apart.}
 {430}{}{No tome demasiado tempo o me voy sin ti.}
 {431}{}{Voy a jugar al solitario o algo hasta que vuelvas.}
@@ -180,7 +180,7 @@
 {451}{}{Es bueno estar en el camino de nuevo.}
 {452}{}{¿Por qué?}
 {453}{}{¿Hacia dónde nos dirigimos entonces?}
-{454}{}{Como la seda, señor.}
+{454}{}{Adelante, capitán.}
 {460}{}{You've got enough people already. You don't need an entourage.}
 {461}{}{Maybe when you've freed up some space. I don't run well with crowds.}
 {462}{}{¿Estás listo para llevarme contigo?}
@@ -358,7 +358,7 @@
 {3116}{}{Bring a club into a tiger's lair.}
 {3117}{}{A swine casts a necklace of pearls.}
 {3118}{}{Caviar Emperor.}
-{3130}{}{Genial. Ahora dejan entrar a necrófagos aquí.}
+{3130}{}{De acuerdo. Ahora estamos llegando a algo.}
 {3210}{}{Alright, now that I know your dad's life story, would you mind getting to the part about you?}
 {3260}{}{So they were traitors to their people, but for their people's own good. Got it.}
 {3261}{}{Look, I'm sick of hearing about your parents. How 'bout you get to the part about you being a spy?}

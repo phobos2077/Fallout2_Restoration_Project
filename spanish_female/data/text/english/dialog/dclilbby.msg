@@ -1,18 +1,16 @@
 {100}{}{Ves a un niño pequeño.}
 {101}{}{Ves a Pequeño Bobby.}
-{102}{}{He is wearing dirty clothing and has bruises on his neck and face.}
+{102}{}{Él está usando ropa sucia y tiene hematomas en el cuello y en la cara.}
 {103}{}{Él está usando ropa nueva y tiene una sonrisa en su rostro.}
-{104}{}{Hi mister! My name's Bobby and I live here with my Dad.}
-{105}{}{Hi miss! My name's Bobby and I live here with my Dad.}
+{104}{}{¡Hola señor! Me llamo Bobby y vivo aquí con mi papá.}
+{105}{}{Hola, señorita! Me llamo bobby y vivo aquí con mi papá.}
 {106}{}{Ya veo. Bueno, e-}
-{107}{}{Are you here 'cause my dad owes you money? I don't know if he's here or not. But if I knew where he was,
- I'd tell you, 'cause maybe you'd beat him up so bad he wouldn't ever come home again.}
-{108}{}{This sounds horrible, Bobby. Your father has no right to treat you that way -- no parent does.}
-{109}{}{Hah! I'd beat my son too if he didn't listen to me. Your father sounds like a good man.}
-{110}{}{[His eyes light up.] You aren't like the others that come through here. I like you. [He sighs heavily.]
- I wish my dad was more like you. Sometimes I think about running away. Some of my friends don't have homes, and they say
- it's not so bad. As long as they bring Mr. Flick enough things, they get to eat once a day. But Mr. Flick doesn't sound very
- nice either -- actually, he sounds a lot like my dad.}
+{107}{}{¿Estás aquí porque mi padre te debe dinero? No sé si él está aquí o no. Pero si supiera dónde está, te lo diría, porque tal vez lo golpearías tanto que nunca podría volver a casa.}
+{108}{}{Esto suena horrible, Bobby. Tu padre no tiene derecho a tratarte de esa manera -- ningún padre lo tiene.}
+{109}{}{Hah! También le pegaría a mi hijo si no me escucha. Tu padre suena como un buen hombre.}
+{110}{}{[Sus ojos se iluminan.] No eres como los demás que vienen aquí. Me gustas. [Suspira pesadamente]
+Ojalá mi papá se pareciera más a ti. A veces pienso en huir. Algunos de mis amigos no tienen hogar y dicen que no es tan malo. Siempre y cuando el Sr. Flick consiga suficientes cosas, pueden comer una vez al día. Pero el Sr. Flick no suena muy
+bien, en realidad, se parece mucho a mi padre.}
 {111}{}{¡Eres malo! Lárgate. No me gustas.}
 {112}{}{There's gotta be something that can be done about this. Can you think of any adults in this town that'd be willing to
  look after you -- or any of these homeless kids?}
