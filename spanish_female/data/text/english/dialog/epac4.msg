@@ -47,7 +47,7 @@
 {337}{}{¡Eso es absurdo!}
 {338}{}{¡Nunca!}
 {339}{}{La destrucción de los mutantes asegura la muerte de la ciudad.}
-{340}{}{¿Qué clase de favor?}
+{340}{}{¿Todos a favor?}
 {341}{}{Este bot parece desactivado.}
 {342}{}{Warmduschers! All of you!}
 {343}{}{Our weapon defenses are in dire need of ammunition!}

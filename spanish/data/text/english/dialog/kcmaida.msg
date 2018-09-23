@@ -100,7 +100,7 @@
  but someone or something has been rustling cattle here in town.}
 {425}{}{I'll admit I haven't been paying too much attention to all the gossip around town. Head over to the Golden Gecko,
  I'm sure someone there might know a thing or two.}
-{426}{}{Bueno, haré lo que pueda. Pero déjame preguntarte otra cosa.}
+{426}{}{Robando de ganado, ¿eh? Voy a mirar en esto. Pero déjame preguntarte otra cosa.}
 {427}{}{Interesante. ¿Algo más que deba saber?}
 {428}{}{Gracias por el consejo. Pero permíteme preguntarte otra cosa.}
 {430}{}{Gracias por encontrar a mi hermano Torr. Mamá y yo estábamos tan preocupadas. ¿Qué puedo hacer por ti?}

@@ -110,7 +110,7 @@
 {472}{}{Sí, supongo. Necesito hacerte unas preguntas.}
 {480}{}{What do you want? I have experiments to watch over, you know!}
 {481}{}{Háblame de los hombres bicho.}
-{482}{}{Háblame de tu gente.}
+{482}{}{Háblame de esa gente de nuevo.}
 {483}{}{Estoy buscando trabajo. ¿Tienes alguno?}
 {484}{}{¿Dónde consigues tu mierda, Jimmy?}
 {490}{}{¿Has hecho lo que te pedí?}
@@ -135,7 +135,7 @@
 {550}{}{More than you'd ever believe if it goes wrong... Now hold still and let's get down to it!}
 {551}{}{¡Eh, eh! Espere un minuto...}
 {560}{}{Ahh, there you are! Back in the land of the living, I see! How do you feel?}
-{561}{}{Uh, ¿quién tú?}
+{561}{}{Uh, ¿bien por qué?}
 {570}{}{You just blacked out for a couple of hours, but you should be fine now. Indications show you are much more alert and responsive.}
 {571}{}{¡Caray! Gracias, doctor.}
 {580}{}{Aquí están tus documentos de Ciudadanía. Si alguna vez necesitas algo, ven a verme.}
@@ -144,7 +144,7 @@
 {591}{}{Yes, I will help you. I'll return when the power is restored.}
 {592}{}{No, lo siento.}
 {600}{}{I'm sorry, but there's nothing more I can do for you now. I have no more jobs left to be done. Thanks for your help.}
-{601}{}{De acuerdo entonces.}
+{601}{}{Entonces adiós.}
 {602}{}{Yes, there were some loose wires and I had to find some junk to-}
 {603}{}{¡NO! ¿Qué estás haciendo?}
 {700}{}{Wait a second! You were part of the *original* team?! But, that's got to make you almost 200 years old!}
@@ -156,7 +156,7 @@
 {706}{}{[MÁS]}
 {707}{}{I couldn't believe their scientific short-sightedness...their utter lack of imagination! We had an incredible opportunity to do some amazing things. We had the chance to remake things how we saw fit. Sadly, my comrades paid for their lack of vision...}
 {708}{}{¿Los borraste del mapa?}
-{709}{}{Entendido.}
+{709}{}{Comprensible.}
 {710}{}{Por favor, continúa.}
 {711}{}{No, I didn't kill them. But I couldn't have them stay here interfering with my plans. I merely manipulated events here so that they chose to leave.}
 {712}{}{Okay, that answers part of the story. But there is still something missing...}
@@ -168,7 +168,7 @@
 {718}{}{Nonsense! If anything I am getting better. I can see things so clearly, now, thanks to my periods of lucid hibernation.}
 {719}{}{Eso explica muchas cosas. Adiós.}
 {720}{}{That's actually a great idea. Genius! Hey, do you think that I could see this cryogenic chamber?}
-{721}{}{Hablemos de otra cosa.}
+{721}{}{Lo que veo. Hablemos de otra cosa.}
 {722}{}{Well of course. It's right over there. I had it moved up here some time ago. Keeping the chamber in the sublevels of this facility was just not a wise idea.}
 {723}{}{Una idea interesante, pero no funcionó.}
 {724}{}{Well, of course the scientific principles of cryogenics is quite advanced. However, the functions are governed by the computer here, has a fairly easy interface. [He takes a few minutes showing you how the system works.]}

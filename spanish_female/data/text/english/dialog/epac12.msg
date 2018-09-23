@@ -187,7 +187,7 @@
 {463}{}{Vamos.}
 {464}{}{No, aún no.}
 {470}{}{Jesus, you look like the Grim Reaper. You ought to get yourself checked out.}
-{480}{}{No hay problema. Aunque tengo una o dos preguntas.}
+{480}{}{No hay problema. Estoy más ligero en mis pies sin eso.}
 {490}{}{Nunca ha sido mejor. Vamos.}
 {491}{}{Los he recibido peores practicando.}
 {492}{}{I'm not that bad off. Just some flesh wounds.}
@@ -271,7 +271,7 @@
 {2113}{}{I'm a fox, not a snake... Why's my skin peeling?}
 {2114}{}{This burning inside... What's happening to me?}
 {2120}{}{Got a fracture, I think. Need to get it looked at.}
-{2121}{}{Me gustaría comprar algo.}
+{2121}{}{Siento que rompí algo...}
 {2130}{}{Apenas puedo ver, maldita sea.}
 {2131}{}{Odio ser ciego.}
 {2330}{}{¿Cómo sabes mi nombre?}

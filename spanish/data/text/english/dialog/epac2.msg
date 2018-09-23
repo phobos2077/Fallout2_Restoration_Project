@@ -42,10 +42,10 @@
  regulate chemicals and ensure the protection of the environment, but it's become oh so much more than that! Why, you're
  standing in one of the nation's top experimental research facilities. We have so many exciting things in development. Of
  course, progress has been a bit slow lately, what with the fall of civilization and all...}
-{301}{}{Es una locura.}
+{301}{}{Eso es comprensible.}
 {302}{}{The apocalypse is no excuse for slacking off.}
 {310}{}{Yes, if only I had an able bodied assistant, I could finally make some more progress on my research...}
-{311}{}{¿Qué clase de drogas tienes?}
+{311}{}{¿Qué clase de ayuda necesitas?}
 {320}{}{Well, that depends. I don't suppose you'd feel comfortable wielding a large experimental gun, would you?}
 {321}{}{Apuesto a que yo podría.}
 {322}{}{Claro.}

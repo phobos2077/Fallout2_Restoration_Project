@@ -1,5 +1,5 @@
-{100}{}{Ves una puerta.}
-{101}{}{Ves una puerta.}
+{100}{}{Ves un holograma.}
+{101}{}{Ves un holograma.}
 {200}{}{Zzzzzt...Hello... zzZzzt..Are..zzzZzzZtt...stand...me?}
 {201}{}{¿Perdona?}
 {202}{}{Cierto. Adiós.}
@@ -26,7 +26,7 @@
 {323}{}{Gracias. Deja que te pregunte algo más.}
 {324}{}{Oh, I'm sorry but the Blue Level contains top secret research. Access to that level is restricted to... oh, to hell with it. You were kind enough to repair me, so I suppose I could give you the password. It's "FLOWERPOT".}
 {330}{}{Desde luego. ¿Qué más quieres saber?}
-{331}{}{¿Cuál es el propósito de tu mensaje?}
+{331}{}{¿Cuál es el propósito de esta comida de perro?}
 {332}{}{I found this syringe full of an unknown substance. Could you tell me what it does?}
 {333}{}{I found this rack of test tubes. Anything specific I can do with it?}
 {334}{}{¿Cuáles son los beneficios de ser Ciudadano?}
