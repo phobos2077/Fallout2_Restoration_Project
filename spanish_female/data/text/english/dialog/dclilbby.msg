@@ -13,9 +13,9 @@
 {112}{}{Tiene que haber algo que se pueda hacer al respecto. ¿Puedes pensar en cualquier adulto en esta ciudad que estaría dispuesto a cuidar de ti -- o cualquiera de estos niños sin hogar?}
 {113}{}{[Bobby se encoge de hombros.] ¿Tal vez mamá? No me refiero a *mi* madre, mi madre está muerta, pero hay una dama a la que la gente llama mamá. No sé porque.
 ¿Tal vez porque ella es realmente agradable? Ella tiene un restaurante en el otro lado de la ciudad.}
-{114}{}{Hmm, *estoy* sintiéndome un poco hambriento. Tal vez iré a visitar a mamá. Cuídate, Bobb}
+{114}{}{Hmm, *estoy* sintiéndome un poco hambriento. Tal vez iré a visitar a mamá. Cuídate, Bobby.}
 {115}{}{Eres tan mamerto. Será mejor que me vaya ahora antes de que te saque la mierda a patadas. Adiós.}
-{116}{}{¿Adivina qué, Bobby? Hablé con mamá, y ella va a abrir un gran nuevo hogar en el que tú y todos tus amigos sin hogar son bienvenidos a vivir juntos. Va a estar en el gran edificio que está cruzando la calle de aquí. Ella dijo que lo tendrá todo listo en un par de días.}
+{116}{}{¿Adivina qué, Bobby? Hablé con Mamá, y ella va a abrir un gran nuevo hogar en el que tú y todos tus amigos sin hogar son bienvenidos a vivir juntos. Va a estar en el gran edificio que está cruzando la calle de aquí. Ella dijo que lo tendrá todo listo en un par de días.}
 {117}{}{[Una gran sonrisa ilumina la cara del niño.] ¿En serio? ¡Eso es genial! [Él te abraza.] ¡No puedo esperar a vivir allí con todos mis amigos! ¡Estoy muy emocionado! Gracias de nuevo señor, eres el mejor!}
 {118}{}{[Una gran sonrisa ilumina la cara del niño.] ¿En serio? ¡Eso es genial! [Él te abraza.] ¡No puedo esperar a vivir allí con todos mis amigos! ¡Estoy muy emocionado! Gracias otra vez señorita, eres la mejor!}
 {119}{}{De nada, chico. Nos vemos.}
