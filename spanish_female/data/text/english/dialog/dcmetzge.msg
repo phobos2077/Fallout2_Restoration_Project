@@ -46,8 +46,8 @@
 {262}{}{No importa. Adiós.}
 {263}{}{ quiere unir gremio.}
 {264}{}{Na.}
-{265}{}{I was looking over the slaves you got back there, but you see, I have very, uh...*selective* tastes, and none of
- them are quite what I'm looking for. Are these all the slaves you have to offer?}
+{265}{}{Estuve mirando a los esclavos que tienes allí, pero ya ves, tengo muy, eh ... * gustos selectivos, y ninguno de
+  ellos son bastante como lo que estoy buscando. ¿Son estos todos los esclavos que tienes para ofrecer?}
 {270}{}{¿Crees que podrás soportarlo? No suelo aceptar a cualquiera... qué demonios. Si la jodes, te vendo como esclavo. Tendremos que hacerte un tatuaje en la frente que te identifique ante todo el mundo como esclavista. Es permanente, así que piénsatelo bien.}
 {271}{}{Así que nuestra delicada florecilla ha vuelto... Entonces, ¿has cambiado de idea? ¿Te harás el tatuaje después de todo?}
 {272}{}{Sí, quizás puedas hacerlo... No hace falta mucho cerebro para ir de cacería. Si la jodes, te venderé como esclavo. Si crees que puedes hacerlo tendremos que hacerte un tatuaje en la frente que te identifique como esclavista ante todo el mundo.}
@@ -223,20 +223,16 @@
 {751}{}{Vete a la mierda.}
 {752}{}{Eh, está bien.}
 {800}{}{Has matado al líder del Gremio de Esclavistas.}
-{900}{}{What you see is what you get. If you don't like my merchandise, then get the fuck out of my face and stop wasting my time.}
+{900}{}{Lo que ves, es lo que hay. Si no te gusta mi mercancía, entonces vete a la mierda y deja de hacerme perder mi tiempo.}
 {901}{}{Eh, lo siento. Entonces déjame preguntarte otra cosa.}
 {902}{}{Bien. Creo que iré entonces.}
-{903}{}{Actually, I think I'm going to waste *you* and your whole sick fucking operation.}
-{910}{}{This is all I've got in stock here, you picky fuck, but I've always got new merchandise coming in from my other slave camp.
- Maybe if you check back later, I'll have something that tickles your fancy -- but they're mostly ignorant tribals that all look the
- fucking same, so if that's not your thing, you might be shit outta luck.}
-{911}{}{Look, this might be an unusual request, but I'd really like to get first dibs on any new merchandise you got. Is there some
- way I could go check out the stock at your other camp? Of course, I'd be willing to pay a premium price.}
+{903}{}{En realidad, creo que voy a malgastar-*te* y toda tu maldita operación enferma.}
+{910}{}{Esto es todo lo que tengo, selectivo de mierda, pero siempre recibo nuevos productos de mi otro campamento de esclavos.
+Tal vez si vuelves más tarde, tendré algo que te haga gracia, pero en su mayoría son tribus ignorantes que se ven jodidamente igual, entonces si eso no es lo tuyo, tal vez no seas afortunado.}
+{911}{}{Mira, esta podría ser una solicitud inusual, pero realmente me gustaría obtener las primeras impresiones sobre cualquier mercancía nueva que hayas obtenido. Hay posibilidad de ir a ver la mercancía en tu otro campamento? Por supuesto, estaría dispuesto a pagar un precio superior.}
 {912}{}{Está bien. Volveré más tarde entonces.}
-{913}{}{Good, but next time do me a favor and don't waste my time unless you've got actual business to discuss.}
-{914}{}{Premium price, huh? Now you're talking my kinda language. We usually handle sales here, but I suppose an exception could be made,
- as long as you're serious. I'll tell you how to get there, but you better keep it to your fucking self. I swear, if you turn out to be a
- spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pipboy.]}
+{913}{}{Bien, pero la próxima vez hazme un favor y no pierdas mi tiempo a menos que tengas asuntos reales para discutir.}
+{914}{}{Precio premium, ¿eh? Ahora estás hablando mi lenguaje. Generalmente manejamos las ventas aquí, pero supongo que se puede hacer una excepción, mientras seas serio. Te diré cómo llegar allí, pero será mejor que te lo guardes. Lo juro, si resultas ser un espía para ellos, jodidos Rangers, te perseguiré y te sacaré la piel. [Escuchas sus instrucciones y notas la ubicación del campamento de esclavos en tu Pipboy.]}
 {915}{}{Entiendo. Déjame hacerte otra pregunta.}
 {916}{}{Gracias. Estaré en camino ahora. Adiós.}
 {1360}{}{ dólares por ella. ¿Qué te parece?}

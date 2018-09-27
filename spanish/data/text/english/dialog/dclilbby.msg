@@ -32,6 +32,6 @@
 {211}{}{Pequeño mocoso, que te da el derecho de hablar así de tu padre?}
 {220}{}{Porque mi papá no es muy amable. Él me deja solo en casa todo el tiempo, y cuando él * está * en casa, siempre está borracho o él dice que está volando en avión, lo cual es una mentira porque nunca lo veo volar a ninguna parte. A veces, él trae una novia a la casa - él tiene muchas novias - y me hace salir un rato, incluso si es en la mitad de la noche y hace frío o llueve.}
 {221}{}{Eso es-}
-{230}{}{Oh! And sometimes he tells me to take things from people in secret. He says it's a game and that he gives it back later,
- but I don't' believe him. But if I don't do it, then he gets real mad and his eyes get all scary looking, and he hurts me.
- See? [He lifts up his shirt sleeve, revealing a nasty bruise on his arm.]}
+{230}{}{Oh! Y a veces me dice que tome cosas de la gente en secreto. Él dice que es un juego y que él lo devuelve más tarde,
+pero no le creo. Pero si no lo hago, entonces se enoja mucho y sus ojos se vuelven atemorizantes, y él me lastima.
+¿Ves? [Levanta la manga de su camisa, revelando un moretón desagradable en su brazo.]}
