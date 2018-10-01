@@ -161,7 +161,7 @@
 {1412}{}{I like to eat .... little fishies so sweeeet!}
 {1413}{}{No hay nadie aquí, salvo nosotros las gallinas.}
 {1500}{}{Ves a Adam Dravean.}
-{1501}{}{Gracias por las indicaciones.}
+{1501}{}{Él asiente en tu dirección.}
 {1510}{}{I'm Mr. Wolna. I headed the translation of the German version.}
 {1511}{}{[plz bitch-slap me!!]}
 {1512}{}{Good work, guys! Keep it up!}
