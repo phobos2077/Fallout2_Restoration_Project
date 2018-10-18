@@ -28,6 +28,6 @@
 {241}{}{Me pregunto por qué se han rajado.}
 {242}{}{Toda esta espera para nada.}
 {243}{}{¿Qué ha pasado con esa trampa que nos ibas a ayudar a preparar?}
-{244}{}{¿Qué pasó la pasada noche?}
-{245}{}{Que mala suerte que esos cobardes se hayan acojonado. Hubiera estado bien habérnoslos cargado.}
+{244}{}{¿Qué pasó en la otra noche?}
+{245}{}{Que mala suerte que esos cobardes se hayan espantado. Hubiera estado bien acabar con todos.}
 {246}{}{No me puedo creer que esos bastardos intentaran tendernos una emboscada.}
