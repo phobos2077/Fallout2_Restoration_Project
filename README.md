@@ -5,7 +5,8 @@
 
 [__Help translating__](https://tra.bgforge.net/projects/fallout/rp/)
 | [__Download__](https://github.com/BGforgeNet/fallout2-rp-translation/releases)
-| [__Discussion__](https://forum.bgforge.net/viewtopic.php?f=5&t=22)
+| [__Forum__](https://forum.bgforge.net/viewtopic.php?f=5&t=22)
+| [__Discord__](https://discord.gg/4Yqfggm)
 | [__Report issues__](https://github.com/BGforgeNet/fallout2-rp-translation/issues)
 
 This is a localization effort for Fallout 2 [Killap's Restoration Project](http://killap.net/fallout2/web/Downloads.html) (v. 2.3.3).
