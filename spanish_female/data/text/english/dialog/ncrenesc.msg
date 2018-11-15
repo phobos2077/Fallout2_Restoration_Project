@@ -210,7 +210,7 @@
 {673}{}{Algún día… y puede que ese día nunca llegue, tendrás que hacerme un servicio. Pero hasta entonces
  acepta estos anteojos como un regalo en el día de la boda de mi hija. }
 {680}{}{Ehhh…}
-{681}{}{Errr…}
+{681}{}{Errr...}
 {682}{}{Bueno…}
 {683}{}{¡Está bien! ¡Está bien! ¡Te haré un descuento! Hmphhh.}
 {684}{}{Venga. Sólo un pequeño descuento. Venga…}

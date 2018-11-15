@@ -44,17 +44,17 @@
 {401}{}{[Después de una media hora de estar sentado en la oscura bodega de carga, sientes que la nave aterriza de nuevo en la tierra. Un momento después, la puerta de carga se abre y ves un escuadrón de soldados con servoarmadura. Uno de ellos tarda en reaccionar y luego se vuelve hacia los demás.] ¡Mierda! ¡Algunos de esos mutis del Yermo se metieron en el 'pájaro! ¡ALERTA! ¡Tenemos intrusos!}
 {402}{}{[Saltas y miras cuántos puedes derribar antes de que te derriben.]}
 {403}{}{[Levantas las manos en señal de rendición y esperas lo mejor.]}
-{410}{}{Aw, no parece que el muti vaya a pelear. Tal vez deberíamos llevarlo al Comandante - ver qué quiere hacer al respecto}
-{411}{}{Aw, no parece que la muti vaya a pelear. Tal vez deberíamos llevarla al Comandante - ver qué quiere hacer al respecto}
-{412}{}{Aw, no parece que los mutis vayan a pelear. Tal vez deberíamos llevarlos al Comandante - ver qué quiere hacer al respecto}
+{410}{}{Aw, no parece que el muti vaya a pelear. Tal vez deberíamos llevarlo al Comandante - ver qué quiere hacer al respecto.}
+{411}{}{Aw, no parece que la muti vaya a pelear. Tal vez deberíamos llevarla al Comandante - ver qué quiere hacer al respecto.}
+{412}{}{Aw, no parece que los mutis vayan a pelear. Tal vez deberíamos llevarlos al Comandante - ver qué quiere hacer al respecto.}
 {420}{}{[Después de una media hora de estar sentado en la oscura bodega de carga, sientes que la nave aterriza de nuevo en la tierra. Un momento después, la puerta de carga se abre y ves a un escuadrón de soldados de Enclave. Uno de ellos te hace una doble impresión.] ¿Qué diablos estás haciendo aquí? No estabas autorizado para estar en esa misión. ¿Cuál es tu nombre, soldado?}
 {421}{}{No importa cuál sea mi nombre, porque no estoy aquí para hablar. [Saltas y comienzas a luchar.]}
 {422}{}{¿Yo? Oh, estoy, eh, * tos * murmurar * tos *. Aun así, no importa. De hecho, probablemente debería irme ahora. [Sales e intentas alejarte con indiferencia.]}
 {423}{}{Mi nombre es }
-{424}{}{¿Dónde estoy?}
+{424}{}{. ¿Dónde estoy?}
 {425}{}{No, ¿cuál es * tu * nombre, soldado? Me pusieron aquí para ponerte a prueba y debo decir que FALLASTE. ¡Si fuera un asesino suicida del Yermo, tú y toda tu compañia estarían muertos ahora mismo! Eso es inaceptable! ¡En formacion, soldado!}
 {426}{}{Eh... mi nombre }
-{427}{}{¡Me divierto en el pajaro de metal! ¡Vamos otra vez! ¿Quieres ir otra vez?}
+{427}{}{. ¡Me divierto en el pajaro de metal! ¡Vamos otra vez! ¡Quiero ir otra vez!}
 {428}{}{No necesitas saber mi nombre. No me gustas. Yo mato. [Saltas y comienzas a luchar.]}
 {430}{}{¿Qué estás, borracho? Estás en Navarro, por supuesto. Si tienes problemas de memoria, soldado, es posible que quieras que te revisen. Tal vez parte de esa radiación te lleguo.}
 {440}{}{No me des esa mierda. Eres uno de los nuevos reclutas, ¿verdad? Je. Esa boca inteligente tuya te causará todo tipo de problemas, y no puedo esperar para ver que suceda. Ahora vuelve a tu puesto, soldado.}

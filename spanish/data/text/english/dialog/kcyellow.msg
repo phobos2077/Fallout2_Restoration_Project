@@ -1,6 +1,6 @@
 {100}{}{Ves a un perro sarnoso de color beige y aspecto salvaje.}
 {101}{}{Ves a un perro de color beige.}
-{110}{}{Grrrrrr. ¡Guau! ¡Guau! Grrrrrr…}
+{110}{}{Grrrrrr. ¡Guau! ¡Guau! Grrrrrr...}
 {111}{}{¿Guau, Arf, Arf?}
 {112}{}{(Mirando fijamente a los ojos del perro) ¡Grrrr! ¡Arrrrrgh! ¡Grrrrrrrr!}
 {113}{}{Hmm, parece que estás enfadado porque quieres algo.}

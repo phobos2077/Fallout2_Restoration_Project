@@ -60,7 +60,7 @@
 {310}{}{Hey, I know it doesn't seem to make a lot of sense, but have you looked around this place? There's not much
  sense to be made around here. Who knows what goes on in the fucked up minds of these scientists. }
 {311}{}{Hmm... you've got a point, there. I'm not saying I believe you... but I guess I can at least hear you out.}
-{312}{}{Sí, dame más.}
+{312}{}{Sí, no es broma. Continuar...}
 {320}{}{Alright, you see, it's all part of their "experiments". These crazy fucking doctors were doing some kind of tests on
  the "nature of human evil" or some crap. They were injecting me with the memories of a maniac in order to see how it
  would affect the personality of a normal person. At least, that's the best I could figure it.}
@@ -71,7 +71,7 @@
  bucks for healthy test subjects. I needed the money, and, well, it turned out to be the worst mistake of my life.
  I can't even begin to tell you the horrors they subjected me to. [His eyes shimmer with tears as he reflects. He sighs
  deeply and wipes the tears away.] Anyway, thanks to you, bud, I'm finally free of that nightmare.}
-{331}{}{Bien, supongo que me vendría bien algo de ayuda.}
+{331}{}{Eh. Bien, me alegra poder ayudar... Yo creo.}
 {332}{}{Actually, asshole, your nightmare's just begun, because I'm not buying a word of this.}
 {340}{}{So how 'bout it, pal? Can we partner up? Not only will you get to feel cooler by hanging out me, but I can handle
  myself in a fight. Hell, I'd be alright with going solo, but I've got no clue what kind of crazy shit is lurking out
@@ -159,7 +159,7 @@
 {515}{}{The only bullshit around here is what's spewing out of your mouth and I think it's time I shut you up for good.}
 {520}{}{Hey, I know it doesn't seem to make a lot of sense, but have you looked around this place? There's not much sense to be made around here. Who knows what goes on in the fucked up minds of these scientists.}
 {521}{}{Hmm... you've got a point there. I'm not saying I believe you... but I suppose I can at least hear you out.}
-{522}{}{Sí, dame más.}
+{522}{}{Sí, no es broma. Continuar...}
 {530}{}{Alright, you see, it's all part of their "experiments". These crazy fucking doctors were doing some kind of tests
  on the "nature of human evil" or some crap. They were injecting me with the memories of a maniac, in order to see how
  it would effect the personality of a normal person. At least, that's the best I could figure it.}
@@ -171,7 +171,7 @@
  I can't even begin to tell you the horrors they subjected me to. [His eyes shimmer with tears as he reflects. He sighs
  deeply and wipes the tears away.] Anyway, thanks to you, }
 {541}{}{, finalmente estoy libre de esa pesadilla.}
-{542}{}{Bien, supongo que me vendría bien algo de ayuda.}
+{542}{}{Eh. Bien, me alegra poder ayudar... Yo creo.}
 {543}{}{Actually, asshole, your nightmare's just begun, because I'm not buying a word of this.}
 {550}{}{So how 'bout it, babe? Can we partner up? Not only do I bring my striking good looks to the table, but I can
  handle myself in a fight. Hell, I'd be alright with going solo, but I've got no clue what kind of crazy shit is
@@ -340,7 +340,7 @@ and fifty years.}
 {1101}{}{¿Vas a ir, o qué?}
 {1102}{}{You ready yet? I'm itchin' to move.}
 {1103}{}{So, you realized you're better off with me, huh?}
-{1104}{}{Me estoy cansando de esperar por ti.}
+{1104}{}{¿Vamos ahora? No tengo un hábito de esperar a los demás.}
 {1105}{}{Come on. I was frozen for over a hundred and fifty years. I'm eager to move.}
 {1106}{}{Me estoy impacientando aquí.}
 {1110}{}{¿Estás listo para llevarme contigo?}
@@ -357,7 +357,7 @@ and fifty years.}
 {1231}{}{Hmm. De acuerdo.}
 {1240}{}{Well, I used to live by the Chicago Vault. Does that help?}
 {1241}{}{¿Sabes si tenía un GECK?}
-{1242}{}{Estoy realmente contento de no estar en el continente.}
+{1242}{}{Estoy seguro de que tenía. Estoy bastante seguro de que todos lo tuvieron.}
 {1243}{}{Bien, ahora tenemos algo. ¿Puedes decirme dónde es este Refugio?}
 {1244}{}{No problem. It's about 2,000 miles in that direction. [Dex points eastward.]}
 {1245}{}{Oh. Bueno, entonces. No importa.}
@@ -400,7 +400,7 @@ and fifty years.}
 {1303}{}{Huh. That's too bad, because they've been so helpful so far.}
 {1400}{}{Simplemente dime dónde me quieres.}
 {1401}{}{Simplemente dime dónde me quieres, bebé.}
-{1402}{}{Ni hablar. No quiero tener ningún problema por aquí.}
+{1402}{}{No hay problema. No quiero hacer que se sientas nervioso. [Dex sonríe.]}
 {1403}{}{Sure. If you think you need to keep an eye on me, I'm fine with that.}
 {1404}{}{Sure. I understand it's hard to concentrate when I'm too close. [Dex grins.]}
 {1405}{}{[Dex cocks his eyebrow at you and winks.]}
@@ -418,42 +418,42 @@ and fifty years.}
 {1703}{}{Eso suena bien. ¿Algo más?}
 {1704}{}{I've been known to beat some ass with good 'ol fisticuffs. When I was a teen, I tried my hand at Karate for
  awhile, but they kept feeding me all this shit about being more disciplined, so I told 'em to fuck off. Anything else you need to know?}
-{1705}{}{Me parece muy bien. Gracias.}
+{1705}{}{Eso debería cubrirlo. Gracias.}
 {1800}{}{Estoy listo para empezar.}
-{1801}{}{Las he visto mejores, pero el dinero es el dinero.}
-{1802}{}{Ahora no estoy de humor.}
-{1803}{}{Creo que ya he leído suficientes avisos. Estoy listo para usar esta cosa ahora.}
+{1801}{}{He estado mejor, pero puedo manejarlo.}
+{1802}{}{No me siento muy bien.}
+{1803}{}{Creo que oígo la llamada del Rey. Puedo ver la luz...}
 {1900}{}{No problem. But you're going to feel a lot less cool without me around. Just saying...}
-{1901}{}{Claro. Me lo llevo.}
+{1901}{}{Claro. Nos vemos más tarde.}
 {1902}{}{Sure, I'll wait. But if you don't come back, then I'm going to start looking for you, and it won't be pleasant
  when I find you.}
 {1903}{}{Alright, as long as you aren't just ditching me to make room for some other jerk. Because I promise you I'm
  better than them in every conceivable way.}
 {1904}{}{No hay problema.}
-{1905}{}{No hay problema. Adiós.}
+{1905}{}{No hay problema, cariño.}
 {1906}{}{Alright, as long as you aren't just ditching me to make room for some other jerk. Because I promise you I'm
  better than them in every conceivable way.}
 {1907}{}{Getting you too hot and bothered am I? I understand.}
-{2000}{}{Ya, ¿y qué?}
+{2000}{}{De acuerdo, ¿qué pasa con eso?}
 {2001}{}{Look, I know I was on ice for a long time, but trust me, everything is in PERFECT working order. If you want,
  I'll prove it to you right here, right now. [Dex stops when he sees you glaring] Oh, I see, my *other* gear. What about it?}
 {2010}{}{It's a bit crowded. Let me know if things open up.}
 {2020}{}{No way in hell I'm traveling with you. You're ugly as fuck.}
 {2030}{}{Vamos.}
 {2031}{}{Más vale que no vuelvas a ganar.}
-{3000}{}{¿Cuál es tu historia?}
+{3000}{}{Así que, ¿cuál es tu historia?}
 {3001}{}{What, like my life story? Look, I know I'm pretty fascinating, but I don't want to stand around talking forever.
  My mouth will get all dry and there's not a whole lot of water to go around-it's just not a good situation to be in.
  But I suppose I could sum it up for you if you really want to know... Actually, I DO like to talk about myself so I'll
  leave up to you. You want the quick summary or the version with more detail?}
-{3002}{}{Dame ya el dinero.}
-{3003}{}{Me quedo con el resumen.}
-{3004}{}{No importa, lo haré de otra forma.}
+{3002}{}{Solo dame el resumen rápido.}
+{3003}{}{Vamos a escuchar la versión detallada.}
+{3004}{}{No importa, perdí el interés.}
 {3010}{}{Alright, basically, ever since I was a kid, I liked to kill things. I could talk about my childhood and my
  shitty parents and try to analyze why I like to do it, but I don't need an excuse. I do it simply because I can, and
  it's fun. By the time I was sixteen I spent my days as a popular high school heartthrob, and my nights as a ripper of
  Chicago's young working girls.}
-{3011}{}{Vale. Continúa.}
+{3011}{}{Vaaale. Continúa.}
 {3012}{}{Then one day I caught my girlfriend making the beast with two backs with another guy. I butchered them, set
  the place on fire, then high tailed it out of Chicago. Spent the next ten years traveling the nation, seducing girls,
  then cutting 'em up. Then they finally caught me, and my trail turned me into a celebrity.}
@@ -471,7 +471,7 @@ and fifty years.}
 {3023}{}{So they put my Dad away and shipped me off to live with my Aunt and Uncle. You see, I was a little hell-raiser,
  even then, and my Uncle, being a military sort, thought he'd be able to straighten me out-turn me into a Red slaying
  soldier boy, just like the son he'd lost. He gave it his best shot, but I was a stubborn son-of-a-bitch.}
-{3024}{}{Vale. Continúa.}
+{3024}{}{Vaaale. Continúa.}
 {3025}{}{So anyway, we did a lot of moving around and it wasn't until I was in high school that we finally settled down
  in Chicago. That's when I took to sneaking out at night and knifing hookers. I'd been killing things for as long as I
  could remember, but gutting neighborhood critters didn't compare to the real deal, you know?}
@@ -506,9 +506,9 @@ and fifty years.}
  to a hundred percent, then started doing these tests on me, trying to figure out what makes me the way I am... Anyway,
  you can figure the rest, and my throats dry from talking. Damn, I was hoping to avoid that.}
 {3042}{}{Gracias por la historia.}
-{3100}{}{¿Así que tu vas a ayudarnos?}
-{3101}{}{¿Ruidos? ¿Qué clase de ruidos?}
-{3102}{}{Bueno, tengo que conseguir algunos huevos.}
+{3100}{}{¿Algunos consejos qué puedas darme?}
+{3101}{}{¿Consejos? ¿Qué clase de consejos?}
+{3102}{}{Bueno, seguro que tienes alguna habilidad.}
 {3103}{}{Oh, I've got all *kinds* of skills. But if you're looking for advice... [He looks you over, then nods.] Alright,
  what the hell. I'll give you some pointers that'll have the ladies crawling at your feet. Now, the first thing you gotta do is...}
 {3104}{}{You wanna see my skills? I'll show you my skills anytime, sweetheart. But if you're looking for advice...
@@ -516,12 +516,12 @@ and fifty years.}
  your hands. Now, the first thing you gotta do is...}
 {3105}{}{There you go. Now don't be telling other people these trade secrets.}
 {3106}{}{Gracias.}
-{4000}{}{Tengo un desagradable ardor de estómago.}
-{4001}{}{¡No tengo más dinero! déjame en paz.}
+{4000}{}{Me encanta el futuro post-nuclear.}
+{4001}{}{Vamos a tener alguna violencia.}
 {4002}{}{Let's find some more young ladies to, uh, admire.}
 {4003}{}{Let us seek more carnal knowledge.}
 {4004}{}{You ever just sprawl a girl out on a bed and cut her open? I tell ya, absolute beauty.}
-{4005}{}{Necesito comprar cosas.}
+{4005}{}{De verdad necesito cortar algo pronto...}
 {4006}{}{You'd think a corpse would be terrible in bed, but you'd be surprised.}
 {4007}{}{[singing] I put an ax in my baby's head, I'm gonna end up doing time... she looked so good in red...[singing]}
 {4008}{}{[singing] 'caus I'm eviiillllll, my middle name is, miseerryyy...[singing]}
@@ -529,9 +529,9 @@ and fifty years.}
 {4010}{}{So... where about the wasteland do you think they keep the hair gel?}
 {4011}{}{I know it sounds a bit gross, but don't knock deep fried ovaries 'til you've tried 'em.}
 {4012}{}{[Removes pocket comb and fixes hair.]}
-{4020}{}{¡Me he quedado ciego, joder!}
-{4021}{}{Oh, amigo, voy a enfermar.}
-{4022}{}{¡Sácame de este jodido infierno!}
+{4020}{}{¡Oye! Jodido sangrando por aquí.}
+{4021}{}{Oh, amigo, no me siento muy bien.}
+{4022}{}{Llévame a un jodido doctor.}
 {4023}{}{¿Te vas a quedar ahí parado o vas a decir algo?}
 {4030}{}{Estoy un poco cansada… ¿tienes algo de Jet?}
 {4031}{}{Hey, I'm feeling a bit radiated. If this isn't the kind that grants super powers, then I'm going to be pissed.}
@@ -542,13 +542,13 @@ and fifty years.}
 {4045}{}{Me siento mucho mejor ahora.}
 {4046}{}{Mucho mejor.}
 {4050}{}{¡Oye! Vigila el pelo.}
-{4051}{}{Eh, no toques la puta puerta.}
+{4051}{}{Oye, no apresures la perfección.}
 {4060}{}{It just isn't the same when their blood's still warm, ya know?}
-{4061}{}{Espero que así sea.}
+{4061}{}{Espero que has tomado notas.}
 {4062}{}{Girls have gotten pretty freaky since the end of the world... I dig that.}
 {4063}{}{...and thats why the babes used to call me "Dex, the Duke of Sex".}
 {4070}{}{Siento náuseas. Creo que estoy envenenado.}
-{4071}{}{Creo que voy a vomitar.}
+{4071}{}{Siento como voy a vomitar mis tripas.}
 {4080}{}{No puedo mover esta extremidad. Necesito atención médica.}
 {4081}{}{Creo que no siento esta extremidad. ¿Es eso malo?}
 {4090}{}{It just got really blurry. Where'd everyone go?}
@@ -574,7 +574,7 @@ and fifty years.}
 {4151}{}{Alright, this whole joke about bringing Lenny along has gone on a little long now, don't you think?}
 {4152}{}{¿Cómo demonios se supone que voy a cargarme a alguien y que NO parezca un asesinato?}
 {4160}{}{So, uh, Marcus, when do you revert back to the mild mannered physicist?}
-{4161}{}{¿Qué demonios quieres? ¿Has olvidado lo que se supone que tenías que hacer?}
+{4161}{}{Oye Marcus, ¿no tienes algún tipo de ciudad que se supone que estás dirigindo?}
 {4170}{}{Hang in there Myron, I'm sure someday your balls will drop.}
 {4171}{}{The Dork-boy's kinda cramping my style.}
 {4172}{}{Myron's like one giant pimple, just waiting to be popped.}
@@ -582,9 +582,9 @@ and fifty years.}
 {4181}{}{Good job blending in, Goris. You look just like a typical hunchbacked freak.}
 {4200}{}{Tengo curiosidad por ver cómo son estas mujeres tribales.}
 {4210}{}{Whores... whores everywhere. I love this fucking place.}
-{4220}{}{Parece estar buscando algo.}
+{4220}{}{Este lugar está pidiendo por algo de caos.}
 {4230}{}{Hay muchos policías aquí. Yo digo que salimos.}
-{4240}{}{Muchas gracias por tu ayuda. No seguiré aquí por más tiempo.}
+{4240}{}{Genial, más bichos raros. Es mejor que no nos quedemos aquí más tiempto del necesario.}
 {4250}{}{We're wasting our time here. Zombie chicks aren't my thing. I generally don't like gals to look dead until AFTER I'm through with 'em.}
 {4260}{}{¿Por qué demonios estamos perdiendo el tiempo aquí? ¿En serio?}
 {4270}{}{No creo que quiero pasar más tiempo en este facilidad.}

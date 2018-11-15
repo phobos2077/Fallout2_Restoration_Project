@@ -55,10 +55,9 @@
 {350}{}{¡Tú lo has dicho!}
 {351}{}{¡Eres un fiambre!}
 {352}{}{¡Vamos a partirles el culo!}
-{400}{}{Hemos estado fantásticos. Será mejor que Metzger nos dé una buena prima.}
-{500}{}{Shit, I can't believe we lost Lara. We took care of the skeleton crew here, but Tyler and his crew are still alive.
- If we attack them now during their party over in the Residential area, we're sure to catch them off guard. Let's finish this job. You still in?}
-{501}{}{No del todo. Te avisaré cuando esté listo. Gracias.}
+{400}{}{¡Hemos estado fantásticos! Estaremos en la iglesia si nos necesitas.}
+{500}{}{Mierda, no puedo creer que perdimos a Lara. Nos ocupamos de la pandilla skeleton, pero Tyler y sus cuates todavía siguen vivos. Si los atacamos ahora durante su fiesta en el área residencial, seguramente los tomaremos por sorpresa. Vamos a terminar este trabajo. Suigues dentro del plan?}
+{501}{}{Déjame sanar primero. Te avisaré cuando estoy listo.}
 {502}{}{Vamos.}
-{510}{}{¿Estás listo para pagar los 10.000 dólares esta vez?}
-{520}{}{Hey, don't stray too far. We need to finish this tonight.}
+{510}{}{¿Estás listo para atacar a Tyler y su equipo?}
+{520}{}{Hey, no te alejes demasiado. Necesitamos terminar esto esta noche.}

@@ -61,9 +61,9 @@
 {420}{}{Oye, no me malinterpretes. La vida en la calle es difícil para los niños, pero es el final de nuestro pequeño arreglo lo que me deprime.}
 {421}{}{¿Qué arreglo?}
 {422}{}{Te refieres a ellos robando las carteras de las personas y trayéndote los artículos para que los vendas.}
-{430}{}{}
+{430}{}{No te hagas la lista conmigo gilipollas. Los niños me traen cosas que * encuentran *. No sé dónde los consiguen y, francamente, no me importa una mierda.}
 {431}{}{Eso es.}
-{432}{}{Estás lleno de eso. Estoy harta de escoria como tú que usa a personas para su propio beneficio. ¡Hora de morir!}
+{432}{}{Eres un mentiroso. Estoy harta de escoria como tú que usa a la gente para su propio beneficio. ¡Hora de morir!}
 {440}{}{Pai-sa-nos, sabes, los chicos. Mis chicos.}
 {441}{}{¿Y tienes un acuerdo con ellos?}
 {450}{}{Me traen lo que encuentran. Piccoli, pequeñas cosas. Cosas que nadie quiere ya. A cambio, cuido de ellos.}

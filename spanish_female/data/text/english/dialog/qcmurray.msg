@@ -5,7 +5,7 @@
 {104}{}{Estamos condenados.}
 {105}{}{¡Sin la computadora conectada el reactor entrará en fusión!}
 {106}{}{Ni siquiera puedo nadar.}
-{107}{}{Quizá pueda repararlo…}
+{107}{}{Quizá pueda repararlo...}
 {108}{}{¿Por qué está sonando la alarma?}
 {109}{}{¿Qué ocurre aquí?}
 {110}{}{Calma todo el mundo. ¡¡¡¡¡CALMA!!!!!}

@@ -61,13 +61,13 @@
 {160}{}{Juega limpio.}
 {161}{}{Que tengas un buen día.}
 {162}{}{Todo el mundo es un as, en el local de Ascorti.}
-{163}{}{Entonces les dije, apartad vuestras manos de mi…}
+{163}{}{Entonces les dije, apartad vuestras manos de mi...}
 {164}{}{No puedo creer que alguien sea lo bastante imbécil como para troncharse con eso.}
 {165}{}{Pues sí, si alguna vez he visto una mala apuesta, es esta.}
 {166}{}{Amiga, no me encuentro muy bien.}
 {167}{}{Es uno de los mejores clientes de Ascorti.}
 {168}{}{Psst, ponte derecha, el jefe está mirando.}
-{169}{}{Mira, si era como esto, debería ser por lo menos veinte…}
+{169}{}{Mira, si era como esto, debería ser por lo menos veinte...}
 {170}{}{Ese pastel de gecko me ha producido ardores.}
 {171}{}{¿Te acostaste tarde anoche?}
 {172}{}{Tendrías que tener resaca después de aquello.}

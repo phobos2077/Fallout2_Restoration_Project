@@ -153,12 +153,11 @@
 {618}{}{Será mejor que nos vayamos pronto por si acaso Metzger piensa que fuimos nosotros los que matamos a sus guardias.}
 {619}{}{¿Has estado en Nuevo Reno? Quizás nos dirijamos allí... o al norte.}
 {650}{}{¡De acuerdo! ¡Vamos! ¡Seguidme todos!}
-{700}{}{Alright, we took care of the skeleton crew here at the church, but there still is Tyler and his cronies over in the Residential area.
- They should be pretty drunk by now and we can easily catch them off guard. You ready to finish this?}
-{701}{}{No del todo. Te avisaré cuando esté listo. Gracias.}
+{700}{}{Muy bien, nos ocupamos de la pandilla esqueleto aquí en la iglesia, pero todavía Tyler y sus compinches están en el área residencial.  Deberían estar bastante borrachos por ahora y podemos atraparlos desprevenidos fácilmente. ¿Estás lista para terminar esto?}
+{701}{}{Déjame sanar primero. Te avisaré cuando estoy listo.}
 {702}{}{Vamos.}
-{710}{}{¿Estás listo para pagar los 10.000 dólares esta vez?}
-{720}{}{Well, don't stray too far. We need to finish this tonight or we'll do it without you.}
+{710}{}{¿Estás lista para atacar a Tyler y su equipo?}
+{720}{}{Bueno, no te alejes demasiado. Necesitamos terminar esto esta noche o lo haremos sin ti.}
 {721}{}{Volveré pronto.}
 {722}{}{Vamos.}
-{730}{}{We did it. I can't believe it! We're heading back to the church to take charge. Meet us back there for your reward.}
+{730}{}{Lo hicimos. ¡No puedo creerlo! Regresamos a la iglesia para tomar el mando. Encuéntranos allí por tu recompensa.}

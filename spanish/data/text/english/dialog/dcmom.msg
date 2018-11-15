@@ -112,18 +112,15 @@
 {581}{}{Gracias. Tengo otra pregunta.}
 {582}{}{Gracias, adiós.}
 {600}{}{¿Qué sabes sobre esa casa encantada?}
-{800}{}{I noticed there seems to be a lot of orphans around town.}
-{801}{}{It's a shame, isn't it? Those poor children living on the streets like that… A lot of them steal to get by -- from
- outsiders mostly -- so if you catch one trying to relieve you of something, please take pity on 'em. I'm not saying it's
- right, but it's a harsh world we live in, and we all do what we have to in order to make it through the day.}
-{802}{}{There's gotta be something we can do about this. From what I hear, you seem to be the only person around that
- actually gives a damn about those kids.}
+{800}{}{Noto que al parecer hay muchos huérfanos por la ciudad.}
+{801}{}{Es una pena, ¿no? Esos niños pobres que viven en las calles de esa manera ... Muchos roban para salir adelante, desde extraños en su mayoría, así que si encuentras uno tratando de liberarte de algo, por favor, ten piedad de ellos. No digo que sea correcto, pero es un mundo duro en el que vivimos, y todos hacemos lo que tenemos que hacer para sobrevivir a lo largo del día.}
+{802}{}{Tiene que haber algo que podamos hacer al respecto. Por lo que escuché, pareces ser la única persona alrededor de eso que en realidad le importa esos niños.}
 {803}{}{Why of course I do. Children are our future. They don't *have* to grow up to be jet heads, thugs, and whores like
  most of their deadbeat parents. Why, with an education and some love and care, these kids could grow into the kind of
  decent folk that we so desperately need in this world. I've tried establishing an orphanage for them, but sadly, that
  didn't pan out.}
 {804}{}{Maybe it's time to give it another try. I'm not going to be in town for too much longer, but I'll do what I can to help while I'm here.}
-{805}{}{Eh... cierto. Bueno, ha estado bien hablar contigo. Adiós.}
+{805}{}{Eso es muy malo. Bueno, ha estado bien hablar contigo. Adiós.}
 {806}{}{Yes, perhaps you *could* help. You see, I procured a large building over on the south-west side that, with a little work, would make an excellent
  orphanage. But a bunch of lowlifes are squatting there and refuse to leave unless I pay an absurd fee. Even if I *had* the money, I wouldn't give
  it to them bullies -- they'd just use it to further poison themselves. I'd go to the authorities, but unfortunately, there's no such thing in the Den.

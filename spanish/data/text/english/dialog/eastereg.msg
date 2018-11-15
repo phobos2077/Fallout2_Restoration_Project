@@ -80,9 +80,9 @@
  I just click through it to get to the fun bit.}
 {932}{}{Great work, Mr. Killap. I really appreciate all your time and hard work spent cleaning up the wasteland. If what you say is true, then you should know that I, too, am a hero. In fact, I've squashed quite a few bugs myself.}
 {935}{}{And we are grateful that you have destroyed the Enclave. You are the true hero here.}
-{936}{}{Lo que tu digas.}
-{937}{}{¿Y ahora qué es lo que quieres?}
-{938}{}{¿Quién es esa gente?}
+{936}{}{Lo que te ayude a pasar el día.}
+{937}{}{¿Y como exactamente limpiaste este mundo?}
+{938}{}{¿Quién, dígame por favor, es otra gente?}
 {940}{}{These are my companions. They helped me improve this world: MIBoba Fe88, Hivan Zolo, Contie-bacca, Darek Vader, Jotisz the Hutt,
  R2Qwerty, Chris3ParksO, Yosan12, Empress Timeslip, Luke Skynet, Mon-Morticia, Kanhef, HawkEyE, Adam Dravean, Mr. Wolna, encinodude,
  Minigun Jim, Bofast, Pixote, Mash, Mikael Grizzly, x'il, Per, and the Masses. They all helped in the great project to restore
@@ -136,12 +136,12 @@
 {1123}{}{I remember that place. No qualified shaman though, and no herb-superb. I don't know who's idea of a spiritual center that is, but it's not mine.}
 {1124}{}{¿Oh? ¿Y dónde está este lugar que puede rescatarme?}
 {1125}{}{Cuck-oo! Bye bye now!}
-{1130}{}{Deberías volver a jugar al juego con otro tipo de personaje.}
-{1131}{}{Lamento escuchar eso. Gracias por tu tiempo. Adiós.}
+{1130}{}{Deberías volver allí de nuevo. Es un lugar seguro en este Yermo severo.}
+{1131}{}{Estoy en mi camino, señor Skynet. Gracias por todo. Adiós.}
 {1132}{}{Well, I think YOU should go there Skybrain, and stay there. I'm outta here. Freak.}
 {1135}{}{Here. (He shows you on your PipBoy). You should go there now.}
 {1138}{}{La Abadía es un lugar de soledad.}
-{1139}{}{Ten mucho cuidado de no darme.}
+{1139}{}{Ten cuidado ahí fuera.}
 {1200}{}{Ves a Mon-Morticia.}
 {1201}{}{Una señora parece muy diplomática.}
 {1210}{}{I helped with writing a walkthrough to aid all the noobs on their new adventures in this improved world.}
@@ -149,7 +149,7 @@
 {1212}{}{Does my bum look big in this?}
 {1213}{}{Empress Timeslip has made a critical error and the time for our attack has come. *wink*}
 {1300}{}{Ves a Kanhef.}
-{1301}{}{Ahora me parezco a Van Gogh.}
+{1301}{}{Ahora ÉL parece un gran tipo.}
 {1310}{}{I'm basically the NMA helpdesk.}
 {1311}{}{No estoy con estos raros.}
 {1312}{}{Damn. Why is the no. 23 always late?}
@@ -159,9 +159,9 @@
 {1410}{}{Bonjour. Je suis Hawk-Eye. J'ai translate le version Francais. }
 {1411}{}{I'm Hawk-EyE. I headed the translation of the French version. Vive la France!!}
 {1412}{}{I like to eat .... little fishies so sweeeet!}
-{1413}{}{No le importamos a nadie.}
+{1413}{}{No hay nadie aquí, salvo nosotros las gallinas.}
 {1500}{}{Ves a Adam Dravean.}
-{1501}{}{Gracias por las indicaciones.}
+{1501}{}{Él asiente en tu dirección.}
 {1510}{}{I'm Mr. Wolna. I headed the translation of the German version.}
 {1511}{}{[plz bitch-slap me!!]}
 {1512}{}{Good work, guys! Keep it up!}
@@ -195,7 +195,7 @@
 {1713}{}{Hey, where's Kitsune? I wrote her dialogue you know.}
 {1714}{}{Me ayudó con el submarino, ya sabes.}
 {1800}{}{Ves a Minigun Jim.}
-{1801}{}{La vida es justa y segura al amparo de su ley.}
+{1801}{}{Lleva una Red Dwarf camiseta bajo su armadura.}
 {1810}{}{*Looks over at your party members* Lookin' good Cat.}
 {1811}{}{You keep an eye on Cat, you hear. I don't want him getting into trouble. He's my creation, you know.}
 {1812}{}{Hey, where's Cat? I wrote his dialogue you know.}

@@ -213,7 +213,7 @@ el mismo mensaje continuamente. Aunque seguro que TODAVÍA seguirá saliendo, aunq
 {704}{}{*Buf*}
 {705}{}{Jeje... Espero no haberla dejado embarazada.}
 {706}{}{It just isn't the same when their blood's still warm, ya know?}
-{707}{}{Espero que así sea.}
+{707}{}{Espero que has tomado notas.}
 {708}{}{Girls have gotten pretty freaky since the end of the world... I dig that.}
 {709}{}{...and thats why the babes used to call me "Dex, the Duke of Sex".}
 {710}{}{(Hablas durante horas. Las chicas de la Garra de la Gata tienen un asombroso conocimiento de la naturaleza humana).}

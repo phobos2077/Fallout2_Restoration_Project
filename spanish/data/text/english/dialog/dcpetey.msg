@@ -45,7 +45,7 @@
 {235}{}{Oh, sí...}
 {300}{}{No puedo creer que alguien ha matado al puto Tubby...}
 {301}{}{¿Qué coño le ha pasado a Tubby?}
-{302}{}{Por Dios, ¿por qué tuviste que hacer eso?}
+{302}{}{Ah, por qué Tubby tuve que morir.}
 {303}{}{Ahhh...}
 {304}{}{De todas formas ese gilipollas no me caía bien.}
 {305}{}{Flick está muerto... Mierda.}

@@ -3652,7 +3652,7 @@
 {70451}{}{¡Ay! Justo en la espinilla.}
 {70452}{}{That hurt, but at least I can still walk.}
 {70460}{}{¡Cào! ¡Mis ojos!}
-{70461}{}{¡Menudo golpe! }
+{70461}{}{¡Golpe bajo!}
 {70462}{}{Hey! I can't afford another eye surgery!}
 {70470}{}{No te creo. Muéstrame el proceso.}
 {70471}{}{¡No soy ese tipo de chica!}

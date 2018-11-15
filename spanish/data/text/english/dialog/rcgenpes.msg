@@ -51,8 +51,8 @@
 {150}{}{Vaya amigo.}
 {151}{}{Los tribales sois nuestra clase de gente.}
 {152}{}{Hip, hip, hurra por el tribal.}
-{153}{}{[Canta] Seco como un hueso estoy…}
-{154}{}{[Canta] 99 botellas de cerveza en la pared, 99 botellas de cerveza…}
+{153}{}{[Canta] Seco como un hueso estoy...}
+{154}{}{[Canta] 99 botellas de cerveza en la pared, 99 botellas de cerveza...}
 {155}{}{Este hombre parece estar en su hogar.}
 {156}{}{Ves a un hombre comiendo algo.}
 {157}{}{Ves a un hombre remendando una pieza de ropa.}

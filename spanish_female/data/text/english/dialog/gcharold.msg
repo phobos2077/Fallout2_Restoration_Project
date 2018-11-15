@@ -173,7 +173,7 @@
 {272}{}{Parece que necesitáis esa hidrocosa urgentemente. Pero déjame preguntarte algo más ahora.}
 {273}{}{Eso parece un problema. Tengo que marcharme para ver si puedo hacer algo. Adiós.}
 {274}{hld53}{Bueno, sólo nos ayudarían si pensasen que el hacerlo supondría su propio beneficio. Huh. No parece que eso vaya a suceder.}
-{275}{}{Hmm, puede que tengas razón. Aún así, si alguien les convenciera eso os ayudaría…}
+{275}{}{Hmm, puede que tengas razón. Aún así, si alguien les convenciera eso os ayudaría...}
 {276}{hld54}{Le disparan a los necrófagos en cuanto los ven. Eso dificulta un poco la conversación.}
 {277}{}{Me pregunto si alguien más podría contárselo.}
 {278}{}{Sí, alguien podría. Ahora mismo tengo otra pregunta.}
