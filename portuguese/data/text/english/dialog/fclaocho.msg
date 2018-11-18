@@ -82,7 +82,7 @@
 {200}{}{O que mais você pode me dizer sobre o petroleiro?}
 {210}{}{Mesmo que você consiga ter o NavCom funcionando e o tanque cheio, você ainda precisará de muita sorte
   se realmente quer que o navio navegue novamente.}
-{211}{}{O que você quer dizer com "muita sorte"?}
+{211}{}{O que você quer dizer com "muita sorte"?'}
 {220}{}{Quero dizer que o pedaço de lixo é mais velho que a maioria dos ghouls. Seria um milagre se não afundasse com você. Isso é tudo o que eu quis dizer.}
 {221}{}{Tenho a sensação de que você não está me contando algo sobre o petroleiro.}
 {230}{}{Talvez tenha. (sorrindo) Ou talvez a Wasteland tenha feito você paranóico.}
