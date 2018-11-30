@@ -3,8 +3,8 @@
 {102}{}{Hola.}
 {103}{}{Me alegro de verte.}
 {104}{}{Eres no de aquí, ¿verdad?}
-{105}{}{Mom is a great lady, isn't she?}
-{106}{}{I'm glad the orphans of The Den have a place to live now.}
+{105}{}{Mamá es una gran señora, ¿verdad?}
+{106}{}{Me alegra que los huérfanos de La Guarida tengan un lugar donde vivir ahora.}
 {200}{}{¡Hola, señor!}
 {201}{}{Me alegro de que los otros niños no están robando más.}
 {300}{}{¡Hola, señorita!}

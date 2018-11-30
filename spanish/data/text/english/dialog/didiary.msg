@@ -1,5 +1,5 @@
 {100}{}{Ves un viejo diario.}
-{101}{}{It appears to be a diary which belonged to a young girl. The writing on the inside cover says: "Property of Anna"
- Most of the pages are either torn or faded, but one is still readable. "Day 271: Today my mother gave me a gold locket.
- It is the most beautiful thing I have ever owned. I will never part with it."}
+{101}{}{Parece ser un diario que pertenecía a una joven. La escritura en la portada interna dice: "Propiedad de Anna"
+La mayoría de las paginas fueron arrancadas o están muy descoloridas, pero una es aun legible. "Día 271: Hoy mi madre me dio un medallón de oro.
+Es la cosa más hermosa que he tenido. Nunca me separare de el"}
 {102}{}{El viejo diario es demasiado frágil para continuar manipulándolo.}

@@ -1,11 +1,11 @@
 {100}{}{Ves a un habitante de La Guarida.}
 {101}{}{Ves a un habitante de La Guarida.}
-{200}{}{Hello and welcome to- Hey! You're the one who helped make this place possible. The people of the Den really appreciate
- what you have done.}
+{200}{}{Hola y bienvenido a- Hey! Tu eres el que ayudó a hacer posible este lugar. La gente de La Guarida realmente aprecia
+lo qué has hecho.}
 {201}{}{Fue un placer. ¿Cómo están los niños?}
-{202}{}{They're doing fine. Thanks to you, they're off the streets and now have a place to live. The squatters you negotiated
- with are also a big help around here. Thanks again for everything!}
-{203}{}{They're doing fine. Thanks to you, they're off the streets and now have a place to live. Thanks again for everything!}
+{202}{}{Ellos están bien. Gracias a ti, están fuera de las calles y ahora tienen un lugar para vivir. Los okupas con los que negociaste
+también son de gran ayuda por aquí. Gracias de nuevo por todo!}
+{203}{}{Ellos están bien. Gracias a ti, están fuera de las calles y ahora tienen un lugar para vivir. Gracias de nuevo por todo!}
 {204}{}{Me alegro oírlo. Cuídate.}
 {205}{}{¡Hola de nuevo! ¿Te puedo ayudar en algo?}
 {206}{}{No, tan sólo estoy echando un vistazo.}

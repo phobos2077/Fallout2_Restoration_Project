@@ -114,34 +114,35 @@
 {600}{}{¿Qué sabes sobre esa casa encantada?}
 {800}{}{Noto que al parecer hay muchos huérfanos por la ciudad.}
 {801}{}{Es una pena, ¿no? Esos niños pobres que viven en las calles de esa manera ... Muchos roban para salir adelante, desde extraños en su mayoría, así que si encuentras uno tratando de liberarte de algo, por favor, ten piedad de ellos. No digo que sea correcto, pero es un mundo duro en el que vivimos, y todos hacemos lo que tenemos que hacer para sobrevivir a lo largo del día.}
-{802}{}{Tiene que haber algo que podamos hacer al respecto. Por lo que escuché, pareces ser la única persona alrededor de eso que en realidad le importa esos niños.}
-{803}{}{Why of course I do. Children are our future. They don't *have* to grow up to be jet heads, thugs, and whores like
- most of their deadbeat parents. Why, with an education and some love and care, these kids could grow into the kind of
- decent folk that we so desperately need in this world. I've tried establishing an orphanage for them, but sadly, that
- didn't pan out.}
-{804}{}{Maybe it's time to give it another try. I'm not going to be in town for too much longer, but I'll do what I can to help while I'm here.}
+{802}{}{Tiene que haber algo que podamos hacer al respecto. Por lo que escuché, pareces ser la única persona por aquí a la
+ que realmente le importa esos niños.}
+{803}{}{Por supuesto que lo hago. Los niños son nuestro futuro. Ellos no *tienen* que crecer siendo drogadictos, matones y prostitutas como
+la mayoría de sus negligentes padres. Porque, con una educación y algo de amor y cuidado, estos niños pueden convertirse en el tipo de
+persona decente que tan desesperadamente necesitamos en este mundo. Intente establecer un orfanato para ellos, pero lamentablemente, eso no dio resultado.}
+{804}{}{Tal vez es hora de intentarlo nuevamente. No voy a estar en el pueblo mucho mas tiempo, pero haré lo que pueda para ayudar mientras este aquí.}
 {805}{}{Eso es muy malo. Bueno, ha estado bien hablar contigo. Adiós.}
-{806}{}{Yes, perhaps you *could* help. You see, I procured a large building over on the south-west side that, with a little work, would make an excellent
- orphanage. But a bunch of lowlifes are squatting there and refuse to leave unless I pay an absurd fee. Even if I *had* the money, I wouldn't give
- it to them bullies -- they'd just use it to further poison themselves. I'd go to the authorities, but unfortunately, there's no such thing in the Den.
- Perhaps you'd have better luck at convincing them to leave?}
-{807}{}{I'm sure I could get them out of there. One way, or another. I'll let you know once they're gone.}
-{808}{}{Never was a fan of evicting people. Perhaps someone else is better suited for this.}
-{809}{}{Oh... I see. That's really too bad. Thanks for trying though. Would you like anything before you go?}
+{806}{}{Si, quizá tu *podrías* ayudar. Veras, he adquirido un gran edificio en el lado sudoeste que, con un poco de trabajo, seria un excelente
+orfanato. Pero un grupo de malvivientes ocupan el lugar y se rehúsan a irse a menos que pague una tarifa absurda. Incluso si *tuviera* el dinero, no se los daría
+a esos matones -- solo lo usarían para seguir envenenándose. Iría con las autoridades, pero desafortunadamente, no hay tal cosa en La Guarida.
+¿Tal vez tendrías mejor suerte para convencerlos de que se fueran?}
+{807}{}{Estoy segura de que podría sacarlos de allí. De una manera u otra. Te lo haré saber una vez que se hayan ido.}
+{808}{}{Nunca fui fan de desalojar personas. Quizá haya alguien mejor preparado para esto.}
+{809}{}{Oh... ya veo. Eso es realmente malo. Gracias por intentarlo sin embargo. ¿Quieres algo antes de irte?}
 {810}{}{Pues no. Adiós, Mamá.}
-{811}{}{If I catch one of them little bastards stealing from me, it'll be the last thing they ever do. I don't care what
- their excuse is, a thief is a thief. Bye.}
-{820}{}{Good news, Mom. The building's all yours. I ran into a little snag, but those squatters won't be bothering you again.}
-{821}{}{The squatters said they'd leave and that they're sorry for causing trouble. They're currently cleaning the place up to try and make it up to you. I was thinking maybe, if they do well enough, you could offer some of them jobs.}
-{822}{}{Oh, that's great news! Thank you so much! I just hope no one was hurt in the process. I'll get in touch with some friends and we'll get
- started right away. If you're still in town a few days from now, you should stop by. Hopefully, we'll have things up and running by then. Oh,
- I'm so excited! Thanks again. Here, this meal's on me.}
-{823}{}{Hmm... I suppose everyone deserves a second chance. I'll stop over there with some friends and we'll talk things over with 'em. Thank you so much
- for helping me with this. If you're still in town a few days from now, you should stop by. Hopefully, we'll have things up and running by then. Oh, I'm so
- excited! Thanks again. Here, this meal's on me.}
+{811}{}{Si atrapo a uno de esos pequeños bastardos robándome, sera la ultima cosa que harán. No me importa cual
+sea su excusa, un ladrón es un ladrón. Adiós}
+{820}{}{Buenas noticias Mamá. El edificio es todo tuyo. Me topé con un pequeño obstáculo, pero esos okupas ya no te molestaran.}
+{821}{}{Los okupas dijeron que se irán y que lamentan haber causado problemas. Están actualmente limpiando el lugar para intentar compensartelo. Pensé que tal vez, si lo hacen lo suficientemente bien, podrías ofrecerles algunos trabajos.}
+{822}{}{Oh, esas son geniales noticias! Muchas gracias! Espero que nadie haya resultado herido en el proceso. Me pondré en contacto con algunos amigos y
+comenzaremos ya mismo. Si aun estas en el pueblo en unos días, deberías pasarte. Con suerte tendremos las cosas listas para entonces. Oh,
+Estoy tan emocionada! Gracias de nuevo. Ten, esta comida va por mi cuenta.}
+{823}{}{Hmm ... Supongo que todos merecen una segunda oportunidad. Pasare por allí con algunos amigos y hablaremos con ellos. Muchas gracias
+  por ayudarme con esto. Si aun estás en el pueblo en unos días, deberías pasarte. Con suerte, tendremos las cosas listas para entonces. Oh, estoy tan
+  emocionada! Gracias de nuevo. Ten, esta comida para por mi cuenta.}
 {824}{}{Gracias, Mamá. Hasta otra.}
-{850}{}{You help establish an orphanage for the children of The Den.}
-{1821}{}{Good news, Mom. The building's all yours. It took a little convincing, but I got the squatters to agree to pack up and move on.
- I don't think they'll be bothering you again.}
-{1822}{}{Oh, that's great news! Thank you so much! I'll get in touch with some friends and we'll get started right away. If you're still in town
- a few days from now, you should stop by. Hopefully, we'll have things up and running by then. Oh, I'm so excited! Thanks again. Here, this meal's on me.}
+{850}{}{Ayudaste a establecer un orfanato para los niños de La Guarida.}
+{1821}{}{Buenas noticias Mamá. El edificio es todo tuyo. Tomo algo de convencimiento, pero logre que los okupas estén de acuerdo en empacar y mudarse.
+No creo que te molesten nuevamente.}
+{1822}{}{Oh, esas son geniales noticias! Muchas gracias! Me pondré en contacto con algunos amigos y
+comenzaremos ya mismo. Si aun estas en el pueblo en unos días, deberías pasarte. Con suerte tendremos las cosas listas para entonces. Oh,
+estoy tan emocionada! Gracias de nuevo. Ten, esta comida va por mi cuenta.}

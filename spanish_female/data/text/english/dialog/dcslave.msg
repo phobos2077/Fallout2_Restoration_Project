@@ -96,9 +96,9 @@
 {462}{}{De nada. Ahora lárgate de aquí.}
 {463}{}{Cuídate.}
 {464}{}{No hay de qué.}
-{470}{}{Wait, one more thing. I'm looking for someone specific and I don't see her here. Do you know where other slaves might be held?}
-{471}{}{Big camp near here. (The tribal points south west) Two moons from here.}
-{472}{}{There's a camp about two days travel south west from here. That's where I was first at.}
+{470}{}{Espera, una cosa más. Estoy buscando a alguien especifico y no la veo aquí. ¿Sabes dónde podrían estar los otros esclavos?}
+{471}{}{Gran campamento cerca de aquí. (Los puntos tribales al sur oeste) Dos lunas desde aquí.}
+{472}{}{Hay un campamento a unos 2 días de viaje al sudeste de aquí. Ahí es donde estuve primero.}
 {473}{}{Gracias. Ahora fuera de aquí.}
 {474}{}{Gracias. Ten cuidado, entonces.}
 {475}{}{Espero. Busco a alguien. ¿Donde están más esclavos?}

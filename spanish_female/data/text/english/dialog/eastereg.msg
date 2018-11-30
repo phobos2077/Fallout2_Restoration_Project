@@ -2,7 +2,7 @@
 {101}{}{Ves a un cazarrecompensas duro y despiadado.}
 {110}{}{You see a tough, ruthless bounty hunter. He doesn't look like he talks much. He helped with the new scripts and ideas. And with killing people.}
 {200}{}{Ves a Hivan Zolo.}
-{201}{}{A scruffy lookin', but handsome rogue.}
+{201}{}{Un pícaro de aspecto desaliñado pero apuesto.}
 {210}{}{Kid, I've flown from one side of this galaxy to the other, and I've seen a lot of strange stuff, but I've never seen *anything* to make me believe that there's one all-powerful Force controlling everything.
  'Cause no mystical energy field controls *my* destiny. It's all a lot of simple tricks and nonsense. Hokey religions and ancient weapons are no match for a good blaster at your side. I can tell when a guy is handy
  with a gun, so take this. Trust me: it'll come in handy when you've got a price on your head. (He hands you a blaster.)}
@@ -24,14 +24,14 @@
 {318}{}{He says it's not a crossbow, it's a blaster. And no you can't have it.}
 {319}{}{Dice que deberías darle las gracias por traer el submarino al juego nuevamente.}
 {400}{}{Ves a Darek Vader.}
-{401}{}{This guy looks hard as hell and appears to be more machine than man.}
+{401}{}{Este tipo se ve duro como el infierno y parece ser más maquina que hombre.}
 {410}{}{I'm Darek. I helped answer a million noob questions for Obi-Wan-Killap.}
 {411}{}{Join me! Together we can rule the galaxy!}
 {412}{}{Did you know that the great Obi-Wan-Killap asked ME for help?}
 {413}{}{Don't tell Obi-Wan-Killap, but I think he might be losing his mind.}
 {414}{}{I helped squash several nasty bugs. You can thank me later.}
 {500}{}{Ves a Jotisz el Hutt.}
-{501}{}{This guy is big, fat and green.}
+{501}{}{Este tipo es grande, gordo y verde.}
 {510}{}{I'm Jotisz the Hutt. I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy Sulik is wearing.
  Those were created by Yosan12 and me. I know! And with these stubby hands!}
 {511}{}{I'm Jotisz the Hutt. I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy...hey where
@@ -40,18 +40,18 @@
 {513}{}{En caso de que no lo hayas notado, estoy sospechosamente fácil de estrangular.}
 {514}{}{¿Ahora, dónde habré puesto Leia...?}
 {600}{}{Ves a R2Qwerty.}
-{601}{}{A feisty little robot. He flashes and beeps.}
+{601}{}{Un pequeño robot luchador. Él parpadea y suena.}
 {610}{}{¡Bip bip!}
 {611}{}{Rrrrrr beep Rrrrwow!}
 {612}{}{*flashes and jiggles excitedly*}
 {613}{}{Crossbows! Tactics! Crossbows!}
 {700}{}{Ves a Chris3ParksO.}
-{701}{}{A shiny gold humanoid robot. He looks surprised.}
+{701}{}{Un robot humanoide de oro brillante. Se ve sorprendido.}
 {710}{}{Hi, I'm Chris3ParksO, human-cyborg relations. I am well versed in over 3 million programming languages.}
 {711}{}{I helped lay the groundwork for the Umbra Tribe and the EPA.}
 {712}{}{This is R2QWERTY: my faithful sidekick. He created new critters and graphics.}
 {800}{}{Ves a Yosan12.}
-{801}{}{A little green guy. He looks OLD.}
+{801}{}{Un pequeño tipo verde. Se ve VIEJO.}
 {810}{}{Yosan12 am I. Created the NPC armor mod I did. Lift Xwing from swamp did I too. Talk in strange very also way do I.
  Difficult to understand, hmmm? Hagh Hah ha! Also, created the new Sniper, Wakizashi and lightsaber animations I did. }
 {811}{}{Remember: anger, fear, hatred: of the dark side are they.}
@@ -59,7 +59,7 @@
 {813}{}{Once, a puppet with wisdom and character was I. Now, a hollow, CGI character for the kids I have become.}
 {814}{}{Stupid JarJar Binks is.}
 {900}{}{Ves a Obi-Wan-Killap.}
-{901}{}{He seems like a kindly old man with something slightly bear-like about him.}
+{901}{}{Parece ser un anciano amable con un ligero parecido a un oso.}
 {910}{}{Saludos, }
 {911}{}{. I see you've been doing quite well for yourself. I'm Obi-Wan-Killap: I make Fallout work like it should have from the very beginning.}
 {912}{}{Wow. Well, thank you for that, Mr. Killap. How did you do it?}
@@ -125,7 +125,7 @@
 {1053}{}{¿Has matado a todos? Quieres decir que... ¿incluso a los niños?}
 {1060}{}{ESPECIALLY the children.}
 {1100}{}{Ves a Luke Skynet.}
-{1101}{}{A hooded figure who looks quietly confident.}
+{1101}{}{Una figura encapuchada que se ve silenciosamente confiada.}
 {1110}{}{Soy Luke Skynet. Estoy aquí para rescatarte.}
 {1111}{}{¿Rescatarme?}
 {1112}{}{¿Parezco una princesa? ¿Qué quieres decir con "rescatarte"?}
@@ -155,7 +155,7 @@
 {1312}{}{Damn. Why is the no. 23 always late?}
 {1313}{}{In case you didn't know, I'm just an all-round useful guy.}
 {1400}{}{Ves a HawkEyE.}
-{1401}{}{A glittering gem of hatred.}
+{1401}{}{Una brillante gema de odio.}
 {1410}{}{Bonjour. Je suis Hawk-Eye. J'ai translate le version Francais. }
 {1411}{}{I'm Hawk-EyE. I headed the translation of the French version. Vive la France!!}
 {1412}{}{I like to eat .... little fishies so sweeeet!}
@@ -168,7 +168,7 @@
 {1513}{}{¡Mira! ¡Un águila de oro!}
 {1514}{}{Ich komme aus Deutschland!}
 {1600}{}{Ves al señor Wolna.}
-{1601}{}{This guy is seriously enthusiastic...}
+{1601}{}{Este tipo es seriamente entusiasta...}
 {1610}{}{[He removes his helmet and casts aside his crimson cloak, revealing a ruggedly handsome man with a shaved head and a leather jacket. He seems to exude charisma and awesomeness.] Hey stranger, the name's Adam. How's it going?}
 {1611}{}{Pretty good. It's been a rocky road, but I've finally come to the end.}
 {1612}{}{No tengo tiempo para esto. Adiós.}
