@@ -1,16 +1,16 @@
 {100}{}{Ves MIBoba Fe88.}
 {101}{}{Ves a un cazarrecompensas duro y despiadado.}
-{110}{}{You see a tough, ruthless bounty hunter. He doesn't look like he talks much. He helped with the new scripts and ideas. And with killing people.}
+{110}{}{Ves a un cazarrecompensas duro y despiadado. No parece que hable mucho. Ayudó con los nuevos guiones e ideas. Y con matar gente.}
 {200}{}{Ves a Hivan Zolo.}
 {201}{}{Un pícaro de aspecto desaliñado pero apuesto.}
-{210}{}{Kid, I've flown from one side of this galaxy to the other, and I've seen a lot of strange stuff, but I've never seen *anything* to make me believe that there's one all-powerful Force controlling everything.
- 'Cause no mystical energy field controls *my* destiny. It's all a lot of simple tricks and nonsense. Hokey religions and ancient weapons are no match for a good blaster at your side. I can tell when a guy is handy
- with a gun, so take this. Trust me: it'll come in handy when you've got a price on your head. (He hands you a blaster.)}
+{210}{}{Muchacho, he volado de un lado de la galaxia al otro. He visto un montón de cosas raras, pero nunca he visto nada que me haga creer que hay una Fuerza todo poderosa controlando todo.
+No existe un místico campo de energía que controle mi destino. De igual forma, todo es un montón de trucos simples y sinsentido. Las malas religiones y las armas antiguas, no pueden competir contra una blaster. Puedo decir cuando un hombre es hábil
+ con un arma, así que toma esto. Confía en mí: será útil cuando tengas un precio en tu cabeza. (Él te da un blaster.)}
 {211}{}{Mi verdadero nombre es Ivan Zaharath.}
-{212}{}{I translated the RP into Polski for the benefit of the great and powerful Republic of Poland ... I mean Rebel Alliance.}
-{213}{}{Laugh it up, fuzzball.}
-{214}{}{Hokey religions and ancient weapons are no match for a good blaster at your side, kid.}
-{215}{}{Who're you callin' 'scruffy lookin'!?}
+{212}{}{Traduje el RP a Polaco en beneficio de la gran y poderosa República de Polonia ... me refiero a la Alianza Rebelde.}
+{213}{}{Ríete, pelusa.}
+{214}{}{Las malas religiones y las armas antiguas, no pueden competir contra una blaster muchacho.}
+{215}{}{¿¡A quién llamas 'aspecto desaliñado'!?}
 {300}{}{Ves a Contie-bacca.}
 {301}{}{Parece como una alfombra.}
 {310}{}{Roow rooo arrrrr rooow.}
@@ -18,25 +18,25 @@
 {312}{}{Nowrrrrragh.}
 {313}{}{Yawrrrk!}
 {314}{}{Roow rooo Nowrrrrragh!}
-{315}{}{He says he's Continuum, and he made new & unique graphics.}
-{316}{}{He says he made them using 3D modeling. He's quite clever you know. For a human.}
-{317}{}{He says he's not speaking Czech-speak, though it does sound a bit like baby-talk.}
-{318}{}{He says it's not a crossbow, it's a blaster. And no you can't have it.}
+{315}{}{Dice que es Continuum, e hizo gráficos nuevos y únicos.}
+{316}{}{Dice que los hizo usando modelado 3D. Es bastante listo, ¿sabes?. Para un humano.}
+{317}{}{Dice que no está hablando checo, aunque suena un poco como charla de bebes.}
+{318}{}{Dice que no es una ballesta, es un blaster. Y no, no puedes tenerlo.}
 {319}{}{Dice que deberías darle las gracias por traer el submarino al juego nuevamente.}
 {400}{}{Ves a Darek Vader.}
 {401}{}{Este tipo se ve duro como el infierno y parece ser más maquina que hombre.}
-{410}{}{I'm Darek. I helped answer a million noob questions for Obi-Wan-Killap.}
-{411}{}{Join me! Together we can rule the galaxy!}
-{412}{}{Did you know that the great Obi-Wan-Killap asked ME for help?}
-{413}{}{Don't tell Obi-Wan-Killap, but I think he might be losing his mind.}
-{414}{}{I helped squash several nasty bugs. You can thank me later.}
+{410}{}{Soy Darek. Ayudé a responder un millón de preguntas noob para Obi-Wan-Killap.}
+{411}{}{¡Únete a mi! ¡Juntos podemos gobernar la galaxia!}
+{412}{}{¿Sabías que el gran Obi-Wan-Killap me pidió ayuda a MI?}
+{413}{}{No se lo digas a Obi-Wan-Killap, pero creo que podría estar perdiendo la razón.}
+{414}{}{Ayudé a aplastar a varios insectos desagradables. Me lo puedes agradecer después.}
 {500}{}{Ves a Jotisz el Hutt.}
 {501}{}{Este tipo es grande, gordo y verde.}
 {510}{}{I'm Jotisz the Hutt. I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy Sulik is wearing.
  Those were created by Yosan12 and me. I know! And with these stubby hands!}
 {511}{}{I'm Jotisz the Hutt. I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy...hey where
  is Sulik? You should go get him and see how he looks. His threads were created by Yosan12 and me. I know! And with these stubby hands!}
-{512}{}{*whistles* I'm a big fat green slug...}
+{512}{}{*silva* Soy una gran babosa verde y gorda...}
 {513}{}{En caso de que no lo hayas notado, estoy sospechosamente fácil de estrangular.}
 {514}{}{¿Ahora, dónde habré puesto Leia...?}
 {600}{}{Ves a R2Qwerty.}
@@ -266,8 +266,8 @@
 {2401}{}{Hay una placa en las rocas.}
 {2410}{}{There is a plaque on the pile of rocks. It reads: "Dedicated to Per Jorner. Master of the walkthroughs,
  King of the lizards, and Accumulator of all rocks.}
-{2500}{}{Ves una gran masa de goo.}
-{2501}{}{This mass of goo seems to spell out something: "Dedicated to all those whose names have been forgotten, but
- yet helped make everything possible."}
+{2500}{}{Ves una gran masa pegajosa.}
+{2501}{}{Esta masa pegajosa parece deletrear algo: "Dedicado a todos aquellos cuyos nombres han sido olvidados, pero
+sin embargo ayudaron a hacer todo posible."}
 {2510}{}{}
 {5000}{}{Aquí no se permiten el combate.}
