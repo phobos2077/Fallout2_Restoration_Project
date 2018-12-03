@@ -67,6 +67,11 @@
 ". Me new here.",". Aquí soy nueva."
 ". Pleased to meet you.",". Encantada de conocerte."
 ". Well... You've certainly come a long way from the simple tribesman. You should visit our New California Republic office some time. You might find it rewarding. Now, if you'll excuse me...",". Bueno... ciertamente has recorrido un largo camino para una simple tribal. Deberías visitar alguna vez nuestra oficina en la República de Nueva California. Podría resultarte gratificante. Ahora, si me perdonas..."
+". Your actions on your quest have proved you good, kind and honest. Take this to aid you in your struggle against the Dark Side: it is your ancestor's light saber. This is the weapon of a Java Knight.
+ Not as clumsy or random as a blaster; an elegant weapon for a more civilized age. And though you may be tempted to use it to arbitrarily cut people in half for entertainment, you should use it only in service of good.
+ Good luck, and may The Source be with you, my friend.",". Tus acciones en tu misión han demostrado ser buenas, amables y honestas. Toma esto para ayudarte en tu lucha contra el Lado Oscuro: Es el sable de luz de tu antepasado. Esta es el arma de un caballero de Java.
+  No tan torpe o aleatorio como un blaster; un arma elegante para una época más civilizada. Y aunque puedas estar tentada a usarlo para arbitrariamente cortar gente por la mitad para entretenimiento, debes usarlo solo en servicio del bien.
+  Buena suerte, y que La Fuente esté contigo, amiga mía."
 "15% chance of designated ""Chosen One"" succeeding in task.","15% de probabilidad de que la designada como ""Elegida"" tenga éxito en su tarea."
 "::Holds up fake gun:: Reach for the skies, varmit!","::Levanta un arma de juguete:: ¡Arriba las manos, bribona!"
 "::his voice hardens:: Then I see no reason you should be admitted here. Good day.","::su voz se endurece:: Entonces no veo razón por la que deberías ser admitida aquí. Buenos días."
@@ -459,6 +464,7 @@
 "Grab a drink, friend!","¡Tomate una copa, amiga!"
 "Grampy-bone wonder why de bad-ones so stupid.","Abuelo Hueso pregunta porqué tú tan estúpida."
 "Great thinking, Boss.","Bien pensado, Jefa."
+"Great work, Mr. Killap. I really appreciate all your time and hard work spent cleaning up the wasteland. If what you say is true, then you should know that I, too, am a hero. In fact, I've squashed quite a few bugs myself.","Gran trabajo, Sr. Killap. Realmente aprecio todo su tiempo y el arduo trabajo dedicado a limpiar el yermo. Si lo que dice es verdad, entonces debe saber que yo también soy una heroína. De hecho, he aplastado algunos bichos yo misma."
 "Great, an idiot. Look, pal, just go down those stairs there and maybe they can adjust your neurodynes and make something useful of you. Until then, though, I'm busy. Now go.","Genial, una idiota. Mira, amiga, sólo baja esas escaleras y quizá te puedan ajustar tus neurodinas y hacer algo útil de ti. Pero hasta entonces estoy ocupado. Y ahora vete."
 "Great, another idiot. I suppose you want to see the boss?","Genial, otra idiota. ¿Supongo que quieres ver al jefe?"
 "Great, another tribal.","Genial, otra salvaje."
@@ -800,6 +806,9 @@
 "I said get out. Are you deaf as well as yellow?","Te he dicho que te largues. ¿Estás igual de sorda que de morena?"
 "I said ta talk ta Metzger. You fucking deaf and dumb or just dumb?","He dicho que hables con Metzger. ¿Tas sorda e idiota o sólo idiota?"
 "I see we have nothing more to say to each other unless I can prove it to you.","Ya veo que no podemos decirnos nada más la una a la otra, a menos que te lo pueda demostrar."
+"I see. Well, actually, I was under the impression I was the hero of this story. I run around looting shit and killing people - you know - heroically. Oh, and I talk to them sometimes, but that part can get tiresome.
+ I just click through it to get to the fun bit.","Ya veo. Bueno, de hecho, tenia la impresión de que yo era la heroína de esta historia. Corro por ahí saqueando mierda y matando gente, tu sabes, heroicamente. Oh, y hablo con ellos algunas veces, pero esa parte puede ser algo cansadora.
+Tan solo clickeo hasta llegar a la parte divertida."
 "I see...well, look: I'm interested in a job, if you're still offering.","Ya veo… bien, oye: estoy interesada en un trabajo, si aún lo seguís ofreciendo."
 "I spent most of the day today updating that list for the List Office. It was good, honest, productive work.","He pasado la mayor parte del día actualizando una lista para la Oficina de Listas. Honestamente, ha sido un buen y productivo trabajo."
 "I spoke to your son, Senor Mordino. I'm a slaver, and I'm looking for work.","He hablado con su hijo, señor Mordino. Soy una esclavista, y estoy buscando trabajo."
@@ -809,6 +818,7 @@
 "I sure didn't feel good about what I did.","No me siento orgullosa de lo que he hecho."
 "I tell you, spreading the word of Hubology out here is harder than you can imagine! AHS-9 just doesn't understand the difficulty. In fact, I've written it all down. Say, would you be willing to deliver it to AHS-9 in San Francisco? I can't promise any reward, but I know AHS-9 will appreciate it.","¡Te aseguro que difundir la palabra de la Hubología ahí fuera es más difícil de lo que puedas imaginar! AHS-9 simplemente no entiende las dificultades. De hecho, lo tengo todo por escrito. Oye, ¿estarías dispuesta a entregárselo a AHS-9 en San Francisco? No puedo prometerte una recompensa, pero sé que AHS-9 lo agradecerá."
 "I thank you, human. Let us kick some Enclave ass! Pack Gruthar! Grrrrrrrhh!","Te lo agradezco, humana. ¡Vamos a patear algunos culos del Enclave! ¡Manada de Gruthar! ¡Grrrrrrrhh!"
+"I think I've heard enough religious mumbo-jumbo to keep me stocked for another nuclear winter. Frankly, I prefer a plasma pistol at my side.","Creo que he escuchado suficientes tonterías religiosas para mantenerme abastecida otro invierno nuclear. Francamente, prefiero una pistola de plasma a mi lado."
 "I think I've read enough warnings. I'm ready to use the thing now.","Creo que ya he leído suficientes avisos. Estoy lista para usar esta cosa ahora."
 "I think you've mistaken me for someone who wants to meet men like you in the bathrooms.","Creo que me has confundido con alguien que quiere conocer mujeres como tú en los aseos."
 "I thought you were one of the good ones. I ain't coming with you.","Pensé que eras una de las buenas. No te acompaño."
@@ -980,6 +990,7 @@
 "In what way may I touch the chosen soul, Seed of the Dweller?","¿De qué forma puedo tocar el alma de la Elegida, Semilla del Morador?"
 "Increasing distance between us, master.","Incrementando distancia entre nosotros, ama."
 "Increasing distance to maximum, master.","Incrementando distancia al máximo, ama."
+"Indeed, my master. Tell me about yourself oh great one.","Ciertamente ama. Háblame de ti oh grandiosa."
 "Indeed. Good luck, wanderer. And good bye.","Exacto. Buena suerte, viajera. Y adiós."
 "Install it myself?","¿Instalarla yo misma?"
 "Interested in what?","¿Interesada en qué?"

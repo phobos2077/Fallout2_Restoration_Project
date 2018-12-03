@@ -37,71 +37,71 @@ No existe un místico campo de energía que controle mi destino. De igual forma, t
 {511}{}{I'm Jotisz the Hutt. I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy...hey where
  is Sulik? You should go get him and see how he looks. His threads were created by Yosan12 and me. I know! And with these stubby hands!}
 {512}{}{*silva* Soy una gran babosa verde y gorda...}
-{513}{}{En caso de que no lo hayas notado, estoy sospechosamente fácil de estrangular.}
+{513}{}{En caso de que no lo hayas notado, soy sospechosamente fácil de estrangular.}
 {514}{}{¿Ahora, dónde habré puesto Leia...?}
 {600}{}{Ves a R2Qwerty.}
 {601}{}{Un pequeño robot luchador. Él parpadea y suena.}
 {610}{}{¡Bip bip!}
-{611}{}{Rrrrrr beep Rrrrwow!}
-{612}{}{*flashes and jiggles excitedly*}
-{613}{}{Crossbows! Tactics! Crossbows!}
+{611}{}{Rrrrrr bip Rrrrwow!}
+{612}{}{*destella y se sacude con entusiasmo*}
+{613}{}{Ballestas! Tácticas! Ballestas!}
 {700}{}{Ves a Chris3ParksO.}
 {701}{}{Un robot humanoide de oro brillante. Se ve sorprendido.}
-{710}{}{Hi, I'm Chris3ParksO, human-cyborg relations. I am well versed in over 3 million programming languages.}
-{711}{}{I helped lay the groundwork for the Umbra Tribe and the EPA.}
-{712}{}{This is R2QWERTY: my faithful sidekick. He created new critters and graphics.}
+{710}{}{Hola, soy Chris3ParksO, relaciones humano-cyborg. Estoy bien preparado en más de 3 millones de lenguajes de programación.}
+{711}{}{Ayudé a sentar las bases de la Tribu Umbra y la APA.}
+{712}{}{Este es R2QWERTY: mi fiel compañero. Creó nuevas criaturas y gráficos.}
 {800}{}{Ves a Yosan12.}
 {801}{}{Un pequeño tipo verde. Se ve VIEJO.}
-{810}{}{Yosan12 am I. Created the NPC armor mod I did. Lift Xwing from swamp did I too. Talk in strange very also way do I.
- Difficult to understand, hmmm? Hagh Hah ha! Also, created the new Sniper, Wakizashi and lightsaber animations I did. }
-{811}{}{Remember: anger, fear, hatred: of the dark side are they.}
-{812}{}{When gone am I, a little fuzzy glowing ghost will I become.}
-{813}{}{Once, a puppet with wisdom and character was I. Now, a hollow, CGI character for the kids I have become.}
-{814}{}{Stupid JarJar Binks is.}
+{810}{}{Yosan12 yo soy. Creación del mod de armadura NPC yo hice. Levantar el Xwing del pantano yo también hice. Hablar de extraña muy también forma yo hago.
+Difícil de entender, eh? Gah ja ja ja! También, crear las nuevas animaciones de francotirador, Wakizashi y sable de luz yo hice.}
+{811}{}{Recuerda: Ira, miedo, odio: Del lado oscuro son ellos.}
+{812}{}{Cuando haya me ido, un pequeño fantasma borroso y resplandeciente me convertiré.}
+{813}{}{Una vez, una marioneta con sabiduría y carácter yo era. Ahora un vació personaje CGI para los niños me he vuelto.}
+{814}{}{Estúpido JarJar Binks es.}
 {900}{}{Ves a Obi-Wan-Killap.}
 {901}{}{Parece ser un anciano amable con un ligero parecido a un oso.}
-{910}{}{Saludos, }
-{911}{}{. I see you've been doing quite well for yourself. I'm Obi-Wan-Killap: I make Fallout work like it should have from the very beginning.}
-{912}{}{Wow. Well, thank you for that, Mr. Killap. How did you do it?}
+{910}{}{Saludos }
+{911}{}{. Veo que lo has estado haciendo bastante bien por ti mismo. Soy Obi-Wan-Killap: Hago que Fallout funcione como debería haberlo hecho desde el principio.}
+{912}{}{Vaya. Bueno, gracias por eso, Sr. Killap. ¿Cómo lo hiciste?}
 {913}{}{¿Qué demonios es Fallout?}
-{914}{}{Ok. And who, pray tell, are these other people?}
-{920}{}{I am a Programming Master, skilled in the way of The Source. It is an energy field created by all digital things. It surrounds us and penetrates us.
- It binds the galaxy together. You, me - the tree - the rock. Pixilated beings are we....not this crude matter *pokes you*.
- I have learned to use this power through years of staring at a computer screen.}
-{921}{}{Wow. Our shaman always said there was more to this world than what I can see, hear, touch, taste and feel. Can you teach me to use the power of The Source?}
-{922}{}{I think I've heard enough religious mumbo-jumbo to keep me stocked for another nuclear winter. Frankly, I prefer a plasma pistol at my side.}
+{914}{}{Ok, y ¿Quienes, si podrías decirme, son estas otras personas?}
+{920}{}{Soy un maestro en programación, experto en el camino de La Fuente. Es un campo de energía creado por todas las cosas digitales. Nos rodea y nos penetra.
+Une toda la galaxia. Tú, yo, el árbol, la roca. Somos seres pixelados....no esta materia cruda *te empuja levemente*.
+He aprendido a usar este poder a través de años de mirar la pantalla de una computadora.}
+{921}{}{Vaya. Nuestro shaman siempre dijo que había más en este mundo de lo que puedo ver, oír, tocar, saborear y sentir. ¿Puedes enseñarme a usar el poder de La Fuente?}
+{922}{}{Creo que he escuchado suficientes tonterías religiosas para mantenerme abastecido otro invierno nuclear. Francamente, prefiero una pistola de plasma a mi lado.}
 {923}{}{Oh, genial, otro fanático religioso. Me largo de aquí.}
-{930}{}{Fallout is the world you are in. I created it, or at least, made it work like it was supposed to. You see, not
- long ago, this world was in chaos. Travelers that came here were often killed by the huge number of bugs that roamed
- the wasteland corrupting saved games indiscriminately. The gods of this world had been careless. But then I came, and,
- using the power of The Source, my friends and I cleaned up the wasteland. You could say I am the savior. I am seen by
- many as a hero: The Bear Dude.}
-{931}{}{I see. Well, actually, I was under the impression I was the hero of this story. I run around looting shit and killing people - you know - heroically. Oh, and I talk to them sometimes, but that part can get tiresome.
- I just click through it to get to the fun bit.}
-{932}{}{Great work, Mr. Killap. I really appreciate all your time and hard work spent cleaning up the wasteland. If what you say is true, then you should know that I, too, am a hero. In fact, I've squashed quite a few bugs myself.}
-{935}{}{And we are grateful that you have destroyed the Enclave. You are the true hero here.}
-{936}{}{Lo que te ayude a pasar el día.}
-{937}{}{¿Y como exactamente limpiaste este mundo?}
-{938}{}{¿Quién, dígame por favor, es otra gente?}
-{940}{}{These are my companions. They helped me improve this world: MIBoba Fe88, Hivan Zolo, Contie-bacca, Darek Vader, Jotisz the Hutt,
- R2Qwerty, Chris3ParksO, Yosan12, Empress Timeslip, Luke Skynet, Mon-Morticia, Kanhef, HawkEyE, Adam Dravean, Mr. Wolna, encinodude,
- Minigun Jim, Bofast, Pixote, Mash, Mikael Grizzly, x'il, Per, and the Masses. They all helped in the great project to restore
- this world from the bug infestation. The only good bug is a dead bug.}
-{941}{}{Hmm. those names somehow sound familiar... Well, I think I'll go talk to them.}
-{950}{}{Indeed I can. You must learn to use your feelings: let go of your conscious mind. Turn off the monitor. Close your eyes, and FEEL The Source flowing through the mouse ... (Follow his instructions.)}
-{951}{}{You lack the experience to start training. Return to me when you've at least learned some basic Programming, young padawan.}
+{930}{}{Fallout es el mundo en el que estás. Yo lo creé, o al menos, lo hice funcionar como se suponía. Veras, no
+hace mucho, este mundo estaba en caos. Los viajeros que venían eran a menudo asesinados por la gran cantidad de errores que vagaban
+el yermo corrompiendo juegos guardados indiscriminadamente. Los dioses de este mundo habían sido descuidados. Pero entonces vine, y,
+usando el poder de La Fuente, mis amigos y yo limpiamos el yermo. Podrías decir que soy el salvador. Soy visto por
+muchos como un héroe: El hombre oso.}
+{931}{}{Ya veo. Bueno, de hecho, tenia la impresión de que yo era el héroe de esta historia. Corro por ahí saqueando mierda y matando gente, tu sabes, heroicamente. Oh, y hablo con ellos algunas veces, pero esa parte puede ser algo cansadora.
+Tan solo clickeo hasta llegar a la parte divertida.}
+{932}{}{Gran trabajo, Sr. Killap. Realmente aprecio todo su tiempo y el arduo trabajo dedicado a limpiar el yermo. Si lo que dice es verdad, entonces debe saber que yo también soy un héroe. De hecho, he aplastado algunos bichos yo mismo.}
+{935}{}{Y estamos agradecidos de que hayas destruido el Enclave. Tú eres el verdadero héroe aquí.}
+{936}{}{Lo que sea que te ayude a pasar el día.}
+{937}{}{Entonces, ¿Como exactamente limpió este mundo?}
+{938}{}{¿Quienes, si podrías decirme, son estas otras personas?}
+{940}{}{Estos son mis compañeros. Me ayudaron a mejorar este mundo: MIBoba Fe88, Hivan Zolo, Contie-bacca, Darek Vader, Jotisz el Hutt,
+R2Qwerty, Chris3ParksO, Yosan12, Empress Timeslip, Luke Skynet, Mon-Morticia, Kanhef, HawkEyE, Adam Dravean, Mr. Wolna, encinodude,
+Minigun Jim, Bofast, Pixote, Mash, Mikael Grizzly, x'il, Per, y las Masas. Ellos ayudaron en el gran proyecto de restaurar
+este mundo de la infección de bichos. El único bicho bueno es un bicho muerto.}
+{941}{}{mmm. Esos nombres de alguna manera suenan familiares ... Bueno, creo que iré a hablar con ellos.}
+{950}{}{De hecho puedo. Debes aprender a usar tus sentimientos: abandona tu mente consciente. Apaga el monitor. Cierra los ojos y SIENTE La Fuente fluyendo a través del ratón ... (Sigue sus instrucciones).}
+{951}{}{Te falta experiencia para empezar a entrenar. Vuelve a mí cuando al menos hayas aprendido algo de programación básica, joven padawan.}
 {960}{}{Como quieras, joven }
-{961}{}{. But before you go on your way, remember this: Many of the truths we cling to depend greatly on our own point of view. Now go, and may The Source be with you.}
-{962}{}{. Your actions on your quest have proved you good, kind and honest. Take this to aid you in your struggle against the Dark Side: it is your ancestor's light saber. This is the weapon of a Java Knight.
- Not as clumsy or random as a blaster; an elegant weapon for a more civilized age. And though you may be tempted to use it to arbitrarily cut people in half for entertainment, you should use it only in service of good.
- Good luck, and may The Source be with you, my friend.}
-{963}{}{What?! My ancestor, The Vault Dweller, had one of these?! I don't remember finding this in Fallout 1! *run off to check*}
-{964}{}{Thank you, Mr. Bear Dude. For everything. May The Source be with you too.}
+{961}{}{. Pero antes de seguir tu camino, recuerda esto: Muchas de las verdades a las que nos aferramos dependen en gran medida de nuestro propio punto de vista. Ahora vete, y que La Fuente esté contigo.}
+{962}{}{. Tus acciones en tu misión han demostrado ser buenas, amables y honestas. Toma esto para ayudarte en tu lucha contra el Lado Oscuro: Es el sable de luz de tu antepasado. Esta es el arma de un caballero de Java.
+  No tan torpe o aleatorio como un blaster; un arma elegante para una época más civilizada. Y aunque puedas estar tentado a usarlo para arbitrariamente cortar gente por la mitad para entretenimiento, debes usarlo solo en servicio del bien.
+  Buena suerte, y que La Fuente esté contigo, amigo mio.}
+{963}{}{¡¿Qué?! Mi antepasado, el Morador del Refugio, ¡¿Tenia uno de estos?! No recuerdo haber encontrado esto en Fallout 1! *sale corriendo a comprobarlo*}
+{964}{}{Gracias, Sr. Hombre Oso. Por Todo. Que La Fuente este con contigo también.}
 {1000}{}{Ves a Emperatriz Timeslip.}
 {1001}{}{Ves a una figura envuelta de aspecto cruel con un enconvarse.}
-{1010}{}{I'm Empress Timeslip. I'm a Programming Master, skilled in the way of The Source. It was I who allowed Obi-Wan-Killap's spies to steal my
- engine fixes to greatly improve the stability of this world, and correct FOOLISH AND STUPID MISTAKES left by the original ones.}
-{1011}{}{Indeed, my master. Tell me about yourself oh great one.}
+{1010}{}{Soy la emperatriz Timeslip. Soy una maestra de programación, experta en el camino de La Fuente. Fui yo quien permitió que los espías de Obi-Wan-Killap robaran mis
+correcciones del motor para mejorar en gran medida la estabilidad de este mundo y corregir los TONTOS Y ESTÚPIDOS ERRORES dejados por los originales.}
+{1011}{}{Ciertamente amo. Háblame de ti oh grandioso.}
 {1012}{}{Wow. You're creepy. And your face looks awful.}
 {1013}{}{Eso está bien. Tengo que ir.}
 {1020}{}{I can change that which is hardcoded into The Source with the merest thought, and determine the fate of entire universes!
