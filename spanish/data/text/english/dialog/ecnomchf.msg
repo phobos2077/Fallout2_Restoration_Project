@@ -21,7 +21,7 @@
 {120}{}{¡Márchate!}
 {121}{}{Déjanos.}
 {122}{}{Somos una tribu pacífica.}
-{200}{}{Ah, un viajero. Sé bienvenido a mi humilde tienda. Ven a la sombra y cobíjate del interminable calor de la tierra.}
+{200}{}{Ah, un viajero. Lamento que no tengamos una tienda en la que puedan protegerse del interminable calor de la tierra. Descansa un momento, para que podamos hablar.}
 {201}{}{Gracias; acepto con gentileza tu oferta.}
 {202}{}{Qué desgraciado. Descansa y sé bienvenido entre nosotros.}
 {203}{}{Espero que hayas encontrado lo que necesitaba. ¿Algo más?}

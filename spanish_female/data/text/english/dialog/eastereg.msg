@@ -14,7 +14,7 @@ No existe un místico campo de energía que controle mi destino. De igual forma, t
 {300}{}{Ves a Contie-bacca.}
 {301}{}{Parece como una alfombra.}
 {310}{}{Roow rooo arrrrr rooow.}
-{311}{}{Rrrrrrrrrrrrr .... squeak!}
+{311}{}{Rrrrrrrrrrrrr .... chirrido!}
 {312}{}{Nowrrrrragh.}
 {313}{}{Yawrrrk!}
 {314}{}{Roow rooo Nowrrrrragh!}
@@ -102,50 +102,50 @@ este mundo de la infección de bichos. El único bicho bueno es un bicho muerto.}
 {1010}{}{Soy la emperatriz Timeslip. Soy una maestra de programación, experta en el camino de La Fuente. Fui yo quien permitió que los espías de Obi-Wan-Killap robaran mis
 correcciones del motor para mejorar en gran medida la estabilidad de este mundo y corregir los TONTOS Y ESTÚPIDOS ERRORES dejados por los originales.}
 {1011}{}{Ciertamente ama. Háblame de ti oh grandiosa.}
-{1012}{}{Wow. You're creepy. And your face looks awful.}
+{1012}{}{Vaya. Eres horripilante. Y tu cara se ve horrible.}
 {1013}{}{Eso está bien. Tengo que ir.}
-{1020}{}{I can change that which is hardcoded into The Source with the merest thought, and determine the fate of entire universes!
- An entire legion of my best bug fixes await you in the rest of your adventure. I'm master of the Dark side of The Source.}
-{1021}{}{Silence! Years of working in the dark may have distorted my looks, but in this mind are the powers of a God! Using The Source I create weather, mastered entire worlds and tweak that which cannot be tweaked!
- It was I who allowed the Evil Beth to rule the RPG world with my mods. Everything that has transpired has done so according to MY desires.}
-{1022}{}{Sauce? What kind of sauce? Are you saying cooking is the key to controlling the universe?. Whatever you say, chef.}
-{1023}{}{Yeah yeah. Jeeze, whatever you say. I think I will leave now.}
-{1024}{}{Uh, ok. that's great. Well, I need to go..erm ...water my plants...}
-{1030}{}{Ignorant fool. Your overconfidence is your weakness, and my faith in your friends is ... er ... mine. *looks confused* Be gone from my sight!}
-{1040}{}{Wait! You will leave IF and WHEN I decide. In case you haven't noticed, you have been exceedingly evil in your quest.
- Your hate has made you powerful and your character has developed according to my desires. Anger, fear, hatred ... of the dark side are they.
- Now you will become my apprentice and fulfill your place AT MY SIDE!}
+{1020}{}{¡Puedo cambiar lo que está codificado en La Fuente con un simple pensamiento, y determinar el destino de universos enteros!
+Una legión entera de mis mejores correcciones de errores te esperan en el resto de tu aventura. Soy el maestro del lado oscuro de la Fuente.}
+{1021}{}{¡Silencio! Años de trabajo en la oscuridad pueden haber distorsionado mi aspecto. ¡Pero en esta mente están los poderes de un Dios! ¡Usando La Fuente creo el clima, dominé mundos enteros y modifico lo que no se puede modificar!.
+Fui yo quien permitió que la Malvada Beth gobernara el mundo de los juegos de rol con mis mods. Todo lo que ha transpirado lo ha hecho de acuerdo con MIS deseos.}
+{1022}{}{¿Salsa? ¿Qué tipo de salsa? ¿Estás diciendo que cocinar es la clave para controlar el universo? Lo que digas, chef.}
+{1023}{}{Sí, sí. Por dios... como digas... Creo que me iré ahora.}
+{1024}{}{eh, Ok, eso es genial. Bueno, necesito ir a.. mmm... regar mis plantas...}
+{1030}{}{Tonto ignorante. Tu exceso de confianza es tu debilidad, y mi fe en tus amigos es ... eh ... mía. *Se ve confundido* Sal de mi vista!}
+{1040}{}{¡Espera! El que puedas irte y cuando lo hagas lo decido yo. Por si no lo notaste, has sido extremadamente malvada en tu misión.
+Tu odio te ha hecho poderosa y tu personaje se ha desarrollado de acuerdo con mis deseos. Ira, miedo, odio ... del lado oscuro son ellos.
+¡Ahora te convertirás en mi aprendiz y cumplirás tu lugar A MI LADO!}
 {1041}{}{Como te deseo, mi amo. A tus órdenes.}
 {1042}{}{No estoy interesado. Adiós.}
-{1045}{}{Go forth and wreak havoc my child.}
+{1045}{}{Ve y causa estragos, hija mio.}
 {1046}{}{¡Vete!}
-{1050}{}{Eeeeeeexcellent. Then take this Java weapon. Use it. Kill indiscriminately. USE YOUR AGRRESSIVE FEELINGS, CHILD! (He hands you a red lightsaber.)}
-{1051}{}{So.... basically carry on as I've been doing. No problem. Bye!}
+{1050}{}{Eeeeeexcelente. Entonces toma esta arma de Java. Úsala. Mata indiscriminadamente. USA TUS SENTIMIENTOS AGRESIVOS, HIJA MIA! (Te da un sable de luz rojo.)}
+{1051}{}{Así que ... básicamente sigo como lo he estado haciendo. No hay problema. ¡Adiós!}
 {1052}{}{No te fallaré, mi amo.}
-{1053}{}{¿Has matado a todos? Quieres decir que... ¿incluso a los niños?}
-{1060}{}{ESPECIALLY the children.}
+{1053}{}{¿Matar a todos? Quieres decir... ¿incluso a los niños?}
+{1060}{}{ESPECIALMENTE a los niños.}
 {1100}{}{Ves a Luke Skynet.}
 {1101}{}{Una figura encapuchada que se ve silenciosamente confiada.}
 {1110}{}{Soy Luke Skynet. Estoy aquí para rescatarte.}
 {1111}{}{¿Rescatarme?}
 {1112}{}{¿Parezco una princesa? ¿Qué quieres decir con "rescatarte"?}
-{1113}{}{Right. I think you're the one that needs rescuing, pal...from your own movie career. Bye.}
-{1120}{}{Yes, I'm here to rescue you. I created the basis to what you see at the Abbey, and there you will find salvation. There you will find the light!}
-{1121}{}{I've actually already been there. I 'rescued' a lot stuff from getting lost in all those drawers and containers.}
-{1122}{}{Amen brother. Thank you for aiding in the creation of that place of peace and solace. And just when I needed to rest my radiated feet and seek spiritual rejuvenation.}
-{1123}{}{I remember that place. No qualified shaman though, and no herb-superb. I don't know who's idea of a spiritual center that is, but it's not mine.}
+{1113}{}{Seguro. Creo que eres tu el que necesita ser rescatado, amigo ... de tu propia carrera cinematográfica. Adiós.}
+{1120}{}{Sí, estoy aquí para rescatarte. Creé la base de lo que ves en la Abadía, y allí encontrarás la salvación. ¡Allí encontrarás la luz!}
+{1121}{}{De hecho, ya he estado allí. 'Rescaté' un montón de cosas de perderse en todos esos cajones y contenedores.}
+{1122}{}{Amén hermano. Gracias por ayudar en la creación de ese lugar de paz y consuelo. Y justo cuando necesitaba descansar mis pies radiados y buscar el rejuvenecimiento espiritual.}
+{1123}{}{Recuerdo ese lugar. Sin embargo, no había ningún chamán calificado y ninguna super hierba. No sé de quién es esa idea de un centro espiritual, pero no es la mía.}
 {1124}{}{¿Oh? ¿Y dónde está este lugar que puede rescatarme?}
-{1125}{}{Cuck-oo! Bye bye now!}
+{1125}{}{¡Cucú! ¡Hasta pronto!}
 {1130}{}{Deberías volver allí de nuevo. Es un lugar seguro en este Yermo severo.}
 {1131}{}{Estoy en mi camino, señor Skynet. Gracias por todo. Adiós.}
-{1132}{}{Well, I think YOU should go there Skybrain, and stay there. I'm outta here. Freak.}
-{1135}{}{Here. (He shows you on your PipBoy). You should go there now.}
+{1132}{}{Bueno, creo que TÚ deberías ir allí Skygenio, y quedarte allí. Me voy de aquí. Bicho raro.}
+{1135}{}{Aquí. (Te lo muestra en tu PipBoy). Deberías ir allí ahora.}
 {1138}{}{La Abadía es un lugar de soledad.}
 {1139}{}{Ten cuidado ahí fuera.}
 {1200}{}{Ves a Mon-Morticia.}
 {1201}{}{Una señora parece muy diplomática.}
-{1210}{}{I helped with writing a walkthrough to aid all the noobs on their new adventures in this improved world.}
-{1211}{}{Shit! I'm on the wrong side! I never was quite sure who's side I was supposed to be on.}
+{1210}{}{Ayudé escribiendo un tutorial para ayudar a todos los noobs en sus nuevas aventuras en este mundo mejorado.}
+{1211}{}{¡Mierda! Estoy en el lado equivocado! Nunca estuve muy segura de qué lado se suponía que debía estar.}
 {1212}{}{Does my bum look big in this?}
 {1213}{}{Empress Timeslip has made a critical error and the time for our attack has come. *wink*}
 {1300}{}{Ves a Kanhef.}
