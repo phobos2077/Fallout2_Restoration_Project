@@ -32,10 +32,9 @@ No existe un místico campo de energía que controle mi destino. De igual forma, t
 {414}{}{Ayudé a aplastar a varios insectos desagradables. Me lo puedes agradecer después.}
 {500}{}{Ves a Jotisz el Hutt.}
 {501}{}{Este tipo es grande, gordo y verde.}
-{510}{}{I'm Jotisz the Hutt. I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy Sulik is wearing.
- Those were created by Yosan12 and me. I know! And with these stubby hands!}
-{511}{}{I'm Jotisz the Hutt. I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy...hey where
- is Sulik? You should go get him and see how he looks. His threads were created by Yosan12 and me. I know! And with these stubby hands!}
+{510}{}{Soy Jotisz el Hutt. Puede que parezca una gran babosa verde y gorda, pero de hecho ayudé a crear esos nuevos y bonitos hilos blindados que tu amigo Sulik tiene puestos.
+Esos fueron creados por Yosan12 y por mi. ¡Lo sé! ¡Y con estas manos rechonchas!}
+{511}{}{Soy Jotisz el Hutt. Puede que parezca una gran babosa verde y gorda, pero de hecho ayudé a crear esos nuevos y bonitos hilos blindados que tu amigo... Hey, donde esta Sulik? Deberias ir a verlo y ver como luce. Sus hilos fueron creados por Yosan12 y por mi. ¡Lo sé! ¡Y con estas manos rechonchas!}
 {512}{}{*silva* Soy una gran babosa verde y gorda...}
 {513}{}{En caso de que no lo hayas notado, soy sospechosamente fácil de estrangular.}
 {514}{}{¿Ahora, dónde habré puesto Leia...?}
@@ -146,39 +145,39 @@ Tu odio te ha hecho poderosa y tu personaje se ha desarrollado de acuerdo con mi
 {1201}{}{Una señora parece muy diplomática.}
 {1210}{}{Ayudé escribiendo un tutorial para ayudar a todos los noobs en sus nuevas aventuras en este mundo mejorado.}
 {1211}{}{¡Mierda! Estoy en el lado equivocado! Nunca estuve muy segura de qué lado se suponía que debía estar.}
-{1212}{}{Does my bum look big in this?}
-{1213}{}{Empress Timeslip has made a critical error and the time for our attack has come. *wink*}
+{1212}{}{Mi trasero se ve grande en esto?}
+{1213}{}{La emperatriz Timeslip ha cometido un error crítico y ha llegado el momento de nuestro ataque. *guiño*}
 {1300}{}{Ves a Kanhef.}
 {1301}{}{Ahora ÉL parece un gran tipo.}
-{1310}{}{I'm basically the NMA helpdesk.}
+{1310}{}{Soy básicamente la mesa de ayuda de NMA.}
 {1311}{}{No estoy con estos raros.}
-{1312}{}{Damn. Why is the no. 23 always late?}
-{1313}{}{In case you didn't know, I'm just an all-round useful guy.}
+{1312}{}{Maldición. Por que el Nr. 23 siempre llega tarde?}
+{1313}{}{En caso de que no lo supieras, solo soy un tipo útil en muchos aspectos.}
 {1400}{}{Ves a HawkEyE.}
 {1401}{}{Una brillante gema de odio.}
-{1410}{}{Bonjour. Je suis Hawk-Eye. J'ai translate le version Francais. }
-{1411}{}{I'm Hawk-EyE. I headed the translation of the French version. Vive la France!!}
-{1412}{}{I like to eat .... little fishies so sweeeet!}
+{1410}{}{Bonjour. Je suis Hawk-Eye. J'ai traducción le versión Francesa.}
+{1411}{}{Soy Hawk-EyE. Dirigí la traducción de la versión francesa. ¡¡Viva Francia!!}
+{1412}{}{Me gusta comer .... pequeños peces tan duuuulces!}
 {1413}{}{No hay nadie aquí, salvo nosotros las gallinas.}
 {1500}{}{Ves a Adam Dravean.}
 {1501}{}{Él asiente en tu dirección.}
-{1510}{}{I'm Mr. Wolna. I headed the translation of the German version.}
-{1511}{}{[plz bitch-slap me!!]}
-{1512}{}{Good work, guys! Keep it up!}
+{1510}{}{Soy el señor Wolna. Dirigí la traducción de la versión alemana.}
+{1511}{}{[Por favor abofetéame!!]}
+{1512}{}{Buen trabajo chicos! Sigan así!}
 {1513}{}{¡Mira! ¡Un águila de oro!}
 {1514}{}{Ich komme aus Deutschland!}
 {1600}{}{Ves al señor Wolna.}
 {1601}{}{Este tipo es seriamente entusiasta...}
-{1610}{}{[He removes his helmet and casts aside his crimson cloak, revealing a ruggedly handsome man with a shaved head and a leather jacket. He seems to exude charisma and awesomeness.] Hey stranger, the name's Adam. How's it going?}
-{1611}{}{Pretty good. It's been a rocky road, but I've finally come to the end.}
+{1610}{}{[Se quita el casco y deja a un lado su capa carmesí, revelando a un hombre robusto y guapo con una cabeza afeitada y una chaqueta de cuero. Parece exudar carisma y genialidad.] Oye forastera, mi nombre es Adam. Como estas?}
+{1611}{}{Bastante bien. Ha sido un camino complicado, pero finalmente he llegado al final.}
 {1612}{}{No tengo tiempo para esto. Adiós.}
-{1620}{}{That's good to hear. [He looks around, then furrows his brow.] Where's Dex? I spent a lot of time writing that dude's dialogue, and you're not even using him? [He sighs heavily and shakes his head.]}
-{1621}{}{¿Dex? ¿Escribió su diálogo? ¿De qué habla?}
-{1630}{}{That's good to hear. Excuse me a moment. [He walks over to Dex, gives him a high five, then returns to you.] I'm glad to see you and my man Dex have stuck together. You know I spent a lot of time writing that dude's dialogue.}
-{1631}{}{¿Como saber Dex? ¿Y tú "escribiste su diálogo"? ¿De qué estás hablando?}
-{1640}{}{Look, don't worry about it. But if you ever decide to embark on another epic quest, make sure to stop by the EPA. There's a shitload of things to do there and if you play your cards right, you might find yourself a new companion. [He looks you over and grins.] Yeah, you're just Dex's type, so you'll be friends for sure.}
+{1620}{}{Es bueno escuchar eso. [Mira a su alrededor, luego frunce el ceño.] ¿Dónde está Dex? Me tomo mucho tiempo escribir el dialogo de ese tipo, y ¿Ni siquiera lo estás usando? [Suspira pesadamente y sacude la cabeza.]}
+{1621}{}{¿Dex? ¿Escribir su diálogo? ¿De qué hablas?}
+{1630}{}{Es bueno escuchar eso. Discúlpame un momento. [Él camina hacia Dex, le choca los cinco y regresa contigo.] Me alegra ver que tu y mi amigo Dex están juntos. Sabes, me tomó mucho tiempo escribir el dialogo de ese tipo.}
+{1631}{}{¿Como conoces a Dex? ¿Y tú "escribiste su diálogo"? ¿De qué estás hablando?}
+{1640}{}{Mira, no te preocupes por eso. Pero si alguna vez decides embarcarte en otra misión épica, asegúrate de pasar por la APA. Hay un montón de cosas que hacer allí y si juegas bien tus cartas, podrías encontrarte un nuevo compañero. [Te mira y sonríe.] Sí, eres del tipo de Dex, así que seguro que serán amigos.}
 {1641}{}{Gracias. Lo tendré presente.}
-{1650}{}{Look, don't worry about it. But if you ever decide to embark on another epic quest, make sure to stop by the EPA. There's a shitload of things to do there and if you play your cards right, you might find yourself a new companion. [He looks you over.] You'll probably have to change your attitude if you want to make friends with Dex. He likes his companions to be a bit more ... morally impaired.}
+{1650}{}{Mira, no te preocupes por eso. Pero si alguna vez decides embarcarte en otra misión épica, asegúrate de pasar por la EPA. Hay un montón de cosas que hacer allí y si juegas bien tus cartas, podrías encontrarte un nuevo compañero. [Te mira.] Probablemente tendrás que cambiar tu actitud si quieres que sean amigos. Le gusta que sus compañeros sean un poco más ... discapacitados morales.}
 {1651}{}{Gracias. Lo tendré presente.}
 {1660}{}{[He nods and looks off into the distance.] You know, Dex wasn't my only contribution. I also helped the Bear Dude in sprucing this world up by serving as adviser, tester, and guardian of canon and original intent. But mostly, I was tasked with bringing all the new wasteland speech up to par. It's been a hell of a long road, but if you ask me, this thing turned out pretty fuckin' sweet. [He looks back at you and grins.]}
 {1661}{}{Como sea. Estoy cansado de escuchar esto. Adiós.}
