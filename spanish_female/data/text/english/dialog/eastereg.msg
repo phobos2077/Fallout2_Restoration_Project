@@ -177,22 +177,22 @@ Tu odio te ha hecho poderosa y tu personaje se ha desarrollado de acuerdo con mi
 {1631}{}{¿Como conoces a Dex? ¿Y tú "escribiste su diálogo"? ¿De qué estás hablando?}
 {1640}{}{Mira, no te preocupes por eso. Pero si alguna vez decides embarcarte en otra misión épica, asegúrate de pasar por la APA. Hay un montón de cosas que hacer allí y si juegas bien tus cartas, podrías encontrarte un nuevo compañero. [Te mira y sonríe.] Sí, eres del tipo de Dex, así que seguro que serán amigos.}
 {1641}{}{Gracias. Lo tendré presente.}
-{1650}{}{Mira, no te preocupes por eso. Pero si alguna vez decides embarcarte en otra misión épica, asegúrate de pasar por la EPA. Hay un montón de cosas que hacer allí y si juegas bien tus cartas, podrías encontrarte un nuevo compañero. [Te mira.] Probablemente tendrás que cambiar tu actitud si quieres que sean amigos. Le gusta que sus compañeros sean un poco más ... discapacitados morales.}
+{1650}{}{Mira, no te preocupes por eso. Pero si alguna vez decides embarcarte en otra misión épica, asegúrate de pasar por la APA. Hay un montón de cosas que hacer allí y si juegas bien tus cartas, podrías encontrarte un nuevo compañero. [Te mira.] Probablemente tendrás que cambiar tu actitud si quieres que sean amigos. Le gusta que sus compañeros sean un poco más ... discapacitados morales.}
 {1651}{}{Gracias. Lo tendré presente.}
-{1660}{}{[He nods and looks off into the distance.] You know, Dex wasn't my only contribution. I also helped the Bear Dude in sprucing this world up by serving as adviser, tester, and guardian of canon and original intent. But mostly, I was tasked with bringing all the new wasteland speech up to par. It's been a hell of a long road, but if you ask me, this thing turned out pretty fuckin' sweet. [He looks back at you and grins.]}
+{1660}{}{[Él asiente y mira hacia la distancia.] Sabes, Dex no fue mi única contribución. También ayudé al Hombre Oso a arreglar este mundo sirviendo como asesor, evaluador y guardián del canon y la intención original. Pero sobre todo, se me encomendó la tarea de llevar todo el discurso del nuevo yermo a la par. Ha sido un camino muy largo, pero si me preguntas, esta cosa resultó jodidamente bien. [Él te mira y sonríe]}
 {1661}{}{Como sea. Estoy cansado de escuchar esto. Adiós.}
-{1662}{}{That's quite noble of you. You've done a remarkable job. Take care of yourself. Bye.}
-{1670}{}{*Looks over at your party members* Lookin' good, Dex.}
-{1671}{}{Keep your eye on Dex, alright? I don't want him getting into trouble. After all, he's my creation.}
+{1662}{}{Eso es muy noble de tu parte. Has hecho un trabajo notable. Cuídate. Adiós.}
+{1670}{}{*Mira a los miembros de tu grupo* Te ves bien, Dex.}
+{1671}{}{Mantén tus ojos sobre Dex, ¿de acuerdo? No quiero que se meta en problemas. Después de todo, él es mi creación.}
 {1672}{}{Eres bienvenido para limpiar el diálogo del Yermo.}
-{1673}{}{Hey, where's Dex? Did I mention I'm his creator?}
+{1673}{}{Oye, ¿dónde está Dex? ¿Mencioné que soy su creador?}
 {1700}{}{Ves a encinodude.}
 {1701}{}{Parece como un buen tipo.}
-{1710}{}{*Looks over at your party members* Lookin' good Kitsune.}
-{1711}{}{You keep an eye on Kitsune, you hear. I don't want her getting into trouble. She's my creation, you know.}
-{1712}{}{Me ayudó con el submarino, ya sabes.}
+{1710}{}{*Mira a los miembros de tu grupo* Te ves bien Kitsune.}
+{1711}{}{Vigila a Kitsune, oye. No quiero que ella se meta en problemas. Ella es mi creación, ya sabes.}
+{1712}{}{Ayude con los subs, ya sabes.}
 {1713}{}{Hey, where's Kitsune? I wrote her dialogue you know.}
-{1714}{}{Me ayudó con el submarino, ya sabes.}
+{1714}{}{Ayude con los subs, ya sabes.}
 {1800}{}{Ves a Minigun Jim.}
 {1801}{}{Lleva una Red Dwarf camiseta bajo su armadura.}
 {1810}{}{*Looks over at your party members* Lookin' good Cat.}
