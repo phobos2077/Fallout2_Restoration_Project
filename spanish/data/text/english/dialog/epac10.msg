@@ -440,7 +440,7 @@ and fifty years.}
 {2010}{}{It's a bit crowded. Let me know if things open up.}
 {2020}{}{No way in hell I'm traveling with you. You're ugly as fuck.}
 {2030}{}{Vamos.}
-{2031}{}{Más vale que no vuelvas a ganar.}
+{2031}{}{Era hora de que nos volviéramos a ir.}
 {3000}{}{Así que, ¿cuál es tu historia?}
 {3001}{}{What, like my life story? Look, I know I'm pretty fascinating, but I don't want to stand around talking forever.
  My mouth will get all dry and there's not a whole lot of water to go around-it's just not a good situation to be in.
@@ -532,8 +532,8 @@ and fifty years.}
 {4020}{}{¡Oye! Jodido sangrando por aquí.}
 {4021}{}{Oh, amigo, no me siento muy bien.}
 {4022}{}{Llévame a un jodido doctor.}
-{4023}{}{¿Te vas a quedar ahí parado o vas a decir algo?}
-{4030}{}{Estoy un poco cansada… ¿tienes algo de Jet?}
+{4023}{}{¿Solo te quedarás allí parado y me verás desangrarme hasta morir o vas a hacer algo al respecto?}
+{4030}{}{Me siento un poco raro por aquí ...}
 {4031}{}{Hey, I'm feeling a bit radiated. If this isn't the kind that grants super powers, then I'm going to be pissed.}
 {4040}{}{¿Sabes? Te pareces mucho al Morador del Refugio.}
 {4041}{}{I try to stay away from this stuff. But if you insist...}

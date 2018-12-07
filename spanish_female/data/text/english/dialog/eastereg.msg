@@ -191,42 +191,42 @@ Tu odio te ha hecho poderosa y tu personaje se ha desarrollado de acuerdo con mi
 {1710}{}{*Mira a los miembros de tu grupo* Te ves bien Kitsune.}
 {1711}{}{Vigila a Kitsune, oye. No quiero que ella se meta en problemas. Ella es mi creación, ya sabes.}
 {1712}{}{Ayude con los subs, ya sabes.}
-{1713}{}{Hey, where's Kitsune? I wrote her dialogue you know.}
+{1713}{}{Oye, ¿dónde está Kitsune? Yo escribí su diálogo ya sabes}
 {1714}{}{Ayude con los subs, ya sabes.}
 {1800}{}{Ves a Minigun Jim.}
 {1801}{}{Lleva una Red Dwarf camiseta bajo su armadura.}
-{1810}{}{*Looks over at your party members* Lookin' good Cat.}
-{1811}{}{You keep an eye on Cat, you hear. I don't want him getting into trouble. He's my creation, you know.}
-{1812}{}{Hey, where's Cat? I wrote his dialogue you know.}
+{1810}{}{*Mira a los miembros de tu grupo* Te ves bien Cat.}
+{1811}{}{Vigila a Cat, oye. No quiero que el se meta en problemas. El es mi creación, ya sabes.}
+{1812}{}{Oye, ¿dónde está Cat? Yo escribí su diálogo ya sabes}
 {1900}{}{Ves a Bofast.}
 {1901}{}{Se levanta cuando ve que lo está mirando.}
-{1910}{}{Good going bringing a peaceful end to the Raiders attacking Vault City. I helped make that possible.}
-{1911}{}{You didn't have to kill all those Raiders attacking Vault City. There is a peaceful solution now, thanks to me.}
+{1910}{}{Bien hecho, dando un final pacífico a los saqueadores que atacan Ciudad Refugio. Yo ayudé a hacer eso posible.}
+{1911}{}{No tenías que matar a todos los saqueadores que atacaban Ciudad Refugio. Hay una solución pacífica ahora, gracias a mí.}
 {2000}{}{Ves a Pixote.}
 {2001}{}{Ves a un bot noble de reparación.}
-{2010}{}{[The robot nods as you approach.] Hello there. Are you enjoying your time in this world?}
+{2010}{}{[El robot asiente mientras te acercas.] Hola. ¿Estás disfrutando tu tiempo en este mundo?}
 {2011}{}{Sí. Gracias por preguntar.}
 {2012}{}{Realmente no. Las cosas podrían ser mejores.}
 {2013}{}{Ahora no estoy de humor para charlar. Adiós.}
-{2020}{}{That's great to hear! I hope all the hard work I have done to make each location appear as unique and detailed as possible is in some way responsible for your happiness. It took a lot of work to tidy things up, but the overall atmosphere and appearance is top notch now. Don't you agree?}
-{2021}{}{Oh, definitely. Everything looks amazing. You're quite talented!}
+{2020}{}{¡Es bueno oír eso! Espero que todo el trabajo duro que he hecho para hacer que cada ubicación se vea tan única y detallada como sea posible sea de alguna manera responsable de tu felicidad. Se requirió mucho trabajo para ordenar las cosas, pero el ambiente y la apariencia general ahora son de primera clase. ¿No estás de acuerdo?}
+{2021}{}{Oh, definitivamente. Todo se ve increíble. Eres bastante talentoso!}
 {2022}{}{Eh, está bien.}
 {2023}{}{Eso está bien. Adiós.}
-{2030}{}{I'm sorry to hear that. Perhaps you haven't taken a good look at the world around you. I have done much
- to make each location appear as unique and detailed as possible. Maybe if you look at the details, this will lift your
- spirits. It took a lot of work to tidy things up, but the overall atmosphere and appearance is top notch now.
- Don't you agree?}
+{2030}{}{Siento escuchar eso. Quizás no hayas visto bien el mundo que te rodea. He hecho mucho
+  para que cada ubicación parezca lo más única y detallada posible. Tal vez si miras los detalles, esto levantará tu
+  espíritu. Se requirió mucho trabajo para ordenar las cosas, pero el ambiente y la apariencia general ahora son de primera clase.
+  ¿No estás de acuerdo?}
 {2031}{}{Ahora que lo mencionas, me di cuenta de que las cosas se ven mucho más agradables ahora.}
 {2032}{}{En realidad no me di cuenta.}
 {2033}{}{Eso está bien. Adiós.}
-{2040}{}{[The robot rocks back and forth with glee.] I'm glad you like it. Well, I must be going now. I've got more goodies
- to unleash upon this world.}
+{2040}{}{[El robot se balancea hacia adelante y hacia atrás con alegría.] Me alegra que te guste. Bueno, debo irme ahora. Tengo mas cosillas
+  para desatar sobre este mundo.}
 {2041}{}{De acuerdo. Ten cuidado.}
-{2050}{}{[The robot's head lowers in sadness.] Well, my work isn't for everyone I suppose. Now, if you'll excuse me,
- I must be going. I've got more goodies to unleash upon this world.}
+{2050}{}{[La cabeza del robot baja de tristeza.] Bueno, mi trabajo no es para todos supongo. Ahora, si me disculpas,
+  Tengo que irme. Tengo más cosillas que desatar en este mundo.}
 {2051}{}{Lo que sea. Adiós.}
-{2060}{}{I so enjoy creating new things.}
-{2061}{}{So many new details now. So beautiful.}
+{2060}{}{Disfruto mucho creando cosas nuevas.}
+{2061}{}{Hay tantos detalles nuevos ahora. Es tan hermoso.}
 {2100}{}{Ves a Mash.}
 {2101}{}{Él asiente con la cabeza.}
 {2110}{}{Greetings! Glad you've made it this far. I hope you are enjoying the expanded visible size of this world. Not enough
