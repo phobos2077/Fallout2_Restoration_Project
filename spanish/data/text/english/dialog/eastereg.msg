@@ -229,9 +229,7 @@ Tu odio te ha hecho poderoso y tu personaje se ha desarrollado de acuerdo con mi
 {2061}{}{Hay tantos detalles nuevos ahora. Es tan hermoso.}
 {2100}{}{Ves a Mash.}
 {2101}{}{Él asiente con la cabeza.}
-{2110}{}{Greetings! Glad you've made it this far. I hope you are enjoying the expanded visible size of this world. Not enough
- of this world could be shown at any one time. I changed all this though. Empress Timeslip and I are masters of the
- Source. He and I have brought this old world into a new era.}
+{2110}{}{¡Saludos! Me alegra que hayas llegado tan lejos. Espero que estés disfrutando de la expansión del tamaño visible de este mundo. No es suficiente de este mundo se podría mostrar en cualquier momento. Aunque he cambiado todo esto. La emperatriz Timeslip y yo somos maestros de la Fuente. Él y yo hemos traído este viejo mundo a una nueva era.}
 {2111}{}{Wow, thanks for that. Everything is a lot better. Sometimes a bit too small, but I can easily adjust that.}
 {2112}{}{No tengo tiempo para esto. Adiós.}
 {2120}{}{I'm glad you are enjoying my hard work. I also made it possible to change appearances. No longer are you stuck
