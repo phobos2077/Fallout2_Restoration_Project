@@ -230,12 +230,9 @@ Tu odio te ha hecho poderosa y tu personaje se ha desarrollado de acuerdo con mi
 {2100}{}{Ves a Mash.}
 {2101}{}{Él asiente con la cabeza.}
 {2110}{}{¡Saludos! Me alegra que hayas llegado tan lejos. Espero que estés disfrutando de la expansión del tamaño visible de este mundo. No es suficiente de este mundo se podría mostrar en cualquier momento. Aunque he cambiado todo esto. La emperatriz Timeslip y yo somos maestros de la Fuente. Él y yo hemos traído este viejo mundo a una nueva era.}
-{2111}{}{Wow, thanks for that. Everything is a lot better. Sometimes a bit too small, but I can easily adjust that.}
+{2111}{}{Vaya, gracias por esto. Todo esta mucho mejor. A veces es un poco pequeño, pero puedo ajustarlo fácilmente.}
 {2112}{}{No tengo tiempo para esto. Adiós.}
-{2120}{}{I'm glad you are enjoying my hard work. I also made it possible to change appearances. No longer are you stuck
- with a specific race or hair type. Yosan12, x'il, and others made the physical appearances themselves, but I, with the
- help of Empress Timeslip, dug deep into the Source to make it all possible. I see that you have taken advantage of this
- new ability. Outstanding!}
+{2120}{}{Me alegra que estés disfrutando de mi duro trabajo. También hice posible cambiar las apariencias. Ya no estas atascado con una raza especifica o un tipo de cabello. Yosan12, x'ill, y otros hicieron ellos mismos sus apariencias físicas, pero yo, con la ayuda de Empress Timeslip, profundice en el Origen para que todo sea posible. Veo que te has aprovechado de esa nueva habilidad. ¡Extraordinario!}
 {2121}{}{Oh, I love my new looks. Thanks for that!}
 {2122}{}{De acuerdo. Adiós.}
 {2130}{}{I'm glad you are enjoying my hard work. I also made it possible to change appearances. No longer are you stuck
