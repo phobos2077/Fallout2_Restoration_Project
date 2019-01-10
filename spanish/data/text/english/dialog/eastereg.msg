@@ -233,18 +233,15 @@ Tu odio te ha hecho poderoso y tu personaje se ha desarrollado de acuerdo con mi
 {2111}{}{Vaya, gracias por esto. Todo esta mucho mejor. A veces es un poco pequeño, pero puedo ajustarlo fácilmente.}
 {2112}{}{No tengo tiempo para esto. Adiós.}
 {2120}{}{Me alegra que estés disfrutando de mi duro trabajo. También hice posible cambiar las apariencias. Ya no estas atascado con una raza especifica o un tipo de cabello. Yosan12, x'ill, y otros hicieron ellos mismos sus apariencias físicas, pero yo, con la ayuda de Empress Timeslip, profundice en el Origen para que todo sea posible. Veo que te has aprovechado de esa nueva habilidad. ¡Extraordinario!}
-{2121}{}{Oh, I love my new looks. Thanks for that!}
+{2121}{}{Oh, amo mi nueva apariencia. ¡Gracias por eso!}
 {2122}{}{De acuerdo. Adiós.}
-{2130}{}{I'm glad you are enjoying my hard work. I also made it possible to change appearances. No longer are you stuck
- with a specific race or hair type. Yosan12, x'il, and others made the physical appearances themselves, but I, with the
- help of Empress Timeslip, dug deep into the Source to make it all possible. I see that you have not taken advantage of
- this feature. Just know that it is there and available. A great place to test it out is at the EPA. Oh, what fun!}
+{2130}{}{Me alegra que estés disfrutando de mi duro trabajo. También hice posible cambiar las apariencias. Ya no estas atascado con una raza específica o tipo de cabello. Yosan12, x'il y otros hicieron las apariencias físicas, pero yo, con el ayuda de Empress Timeslip, profundizando en la Fuente para que todo sea posible. Veo que no te has aprovechado de esta característica. Solo sepan que está ahí y disponible. Un gran lugar para probarlo es en la EPA. ¡Oh, qué divertido!}
 {2131}{}{Lo tendré en mente. Gracias.}
 {2132}{}{De acuerdo. Adiós.}
 {2140}{}{Excelente. Bien, ten cuidado.}
 {2141}{}{Adiós.}
 {2142}{}{Nos vemos.}
-{2150}{}{The Source is tricky, but I can handle it.}
+{2150}{}{La Fuente es complicada, pero puedo manejarlo.}
 {2151}{}{Enjoy the expanded visibility of this world!}
 {2152}{}{¡Disfruta el nuevo tú!}
 {2200}{}{Ves a Mikael Grizzly.}
