@@ -104,7 +104,7 @@
 {224}{}{Perdón, no eres una vieja zorra. Y ahora ¿qué está pasando aquí?}
 {225}{}{Como si pudieras ayudarme desde ahí. Que te jodan, muérete.}
 {226}{eeld9}{Vete. No eres mejor que estos demonios. Me arrepiento del día en que fuiste nombrada Elegida.}
-{227}{eeld10}{¿Por qué estás aún aquí? Por cada minuto que pierdes uno de los nuestros puede morir. Y no te olvides del GECK. ¡Debemos conseguirlo!}
+{227}{eeld10}{¿Por qué estás aquí? Cada minuto que gastas otro de nuestra gente puede ser aniquilado. Y no te olvides del GECK. ¡Debemos tenerlo!}
 {228}{}{¿¿Nuh??}
 {229}{}{¿A dónde se supone que debía ir?}
 {230}{}{Sólo quería cabrearte. Estoy en ello, no te preocupes.}
