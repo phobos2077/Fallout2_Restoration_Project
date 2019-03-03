@@ -242,7 +242,7 @@ Tu odio te ha hecho poderoso y tu personaje se ha desarrollado de acuerdo con mi
 {2141}{}{Adiós.}
 {2142}{}{Nos vemos.}
 {2150}{}{La Fuente es complicada, pero puedo manejarlo.}
-{2151}{}{Enjoy the expanded visibility of this world!}
+{2151}{}{Disfruta la extensa visión de este mundo!}
 {2152}{}{¡Disfruta el nuevo tú!}
 {2200}{}{Ves a Mikael Grizzly.}
 {2201}{}{Este animal es muy peludo.}

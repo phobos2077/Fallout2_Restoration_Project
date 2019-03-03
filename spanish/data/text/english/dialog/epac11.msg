@@ -8,7 +8,7 @@
 {211}{}{[Standing up and shaking himself dry like a wet animal, the man looks at you grinning widely, revealing some oddly sharp front teeth.]
  Who am *I*. Why, I'm only Sgt. Jules, the best-looking soldier on this base, gorgeous!}
 {212}{}{Soy }
-{213}{}{De acuerdo, ¿cuál es tu nombre?}
+{213}{}{. Pero, ¿cuál es tu nombre?}
 {214}{}{Don't you get cocky with me. What's with this place anyway?}
 {215}{}{ aquí! (Dime qué está pasando aquí.)}
 {216}{}{How come you're alive? The Doctor said he was the only survivor.}
