@@ -11,12 +11,12 @@
 {110}{}{Kaga está deseando llegar a Arroyo... para quemarlo.}
 {111}{}{Kaga se hará famoso por matarte.}
 {120}{}{¡Kagaaaaaaaa!}
-{150}{}{[A tall and powerfully built warrior stands before you, his eyes blaze with hatred as he looks you over.] So, they cast out Kaga, then deem YOU the Chosen One? Ha! You think being the grandchild of the Vault Dweller makes you special?! You think you are better than I, Kaga the Great?!}
+{150}{}{[Un guerrero alto y poderosamente construido está frente a ti, sus ojos brillan con odio mientras te mira.] Entonces, ellos arrojaron a Kaga, ¿entonces te consideraron el Elegido? ¡JA! ¿Crees que ser el nieto de Vault Dweller te hace especial? ¿Crees que eres mejor que yo, Kaga la Grande?}
 {151}{}{Bueno, yo SOY el Elegido, ¿no?}
-{152}{}{Hey now, hold on a second. I never said I was better than you.}
-{160}{}{That title will mean nothing when Kaga rips the head from your shoulders!}
-{161}{}{No words can save your hide. With your death, Kaga's honor shall be restored. Kaga will now take his vengeance!}
+{152}{}{Hey ahora, espera un segundo. Nunca dije que era mejor que tú.}
+{160}{}{¡Ese título no significará nada cuando Kaga te arranque la cabeza de tus hombros!}
+{161}{}{No hay palabras que puedan salvar tu piel. Con tu muerte, el honor de Kaga será restaurado. ¡Kaga ahora tomará su venganza!}
 {200}{}{¿Ooglie?}
-{201}{}{What!? They picked *you* to be the Chosen One? Oh my, they've become desperate.}
+{201}{}{¿¡Qué!? ¿Te eligieron a *ti* para ser el Elegido? Oh mi, se han vuelto desesperados.}
 {202}{}{No gusta. Parece mal.}
-{203}{}{Kaga won't even bother speaking with you further. Prepare to die at the hands of Kaga!}
+{203}{}{Kaga ni siquiera se molestará en hablar contigo más. ¡Prepárate para morir a manos de Kaga!}

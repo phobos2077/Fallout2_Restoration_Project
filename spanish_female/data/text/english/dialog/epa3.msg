@@ -1,2 +1,2 @@
-{100}{}{As the elevator screeches to a halt, you hear clicking and clawing around you. Up ahead a force field crackles,
- blocking your path.}
+{100}{}{Cuando el ascensor se detiene, se oye un chasquido y arañazos a tu alrededor. Por delante cruje un campo de fuerza,
+ bloqueando tu camino}

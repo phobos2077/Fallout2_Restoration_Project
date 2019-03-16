@@ -246,17 +246,17 @@ Tu odio te ha hecho poderosa y tu personaje se ha desarrollado de acuerdo con mi
 {2152}{}{¡Disfruta el nuevo tú!}
 {2200}{}{Ves a Mikael Grizzly.}
 {2201}{}{Este animal es muy peludo.}
-{2210}{}{Hello there. I helped bring the submarine back into this world.}
-{2211}{}{You like how furry I am? I know I do.}
+{2210}{}{Hola. Ayudé a traer el submarino de vuelta a este mundo.}
+{2211}{}{¿Te gusta lo peludo que soy? Sé lo que hago.}
 {2212}{}{Espero que te guste el submarino.}
 {2300}{}{Ves a x'il.}
 {2301}{}{Te mira con admiración.}
-{2310}{}{I helped a lot with critter appearances. Hope you have enjoyed it!}
-{2311}{}{Nice hair, man. I helped make that possible.}
+{2310}{}{Ayudé mucho con las apariencias critter. Espero que lo hayas disfrutado!}
+{2311}{}{Bonito cabello, hombre. Ayudé a hacer eso posible.}
 {2400}{}{Ves un montón de rocas.}
 {2401}{}{Hay una placa en las rocas.}
-{2410}{}{There is a plaque on the pile of rocks. It reads: "Dedicated to Per Jorner. Master of the walkthroughs,
- King of the lizards, and Accumulator of all rocks.}
+{2410}{}{Hay una placa en la pila de rocas. Lo lees y dice: "Dedicado a Per Jorner. Maestro de los recorridos,
+ Rey de los lagartos, y Acumulador de todas las rocas".}
 {2500}{}{Ves una gran masa pegajosa.}
 {2501}{}{Esta masa pegajosa parece deletrear algo: "Dedicado a todos aquellos cuyos nombres han sido olvidados, pero
 sin embargo ayudaron a hacer todo posible."}

@@ -37,7 +37,7 @@
 {136}{}{Vale, guarda. Tú ganas.}
 {137}{}{Tienes suerte de que tenga que ir a revisar mis trampas.}
 {138}{}{Creo que he oído a Mamá llamarme.}
-{140}{}{Looks like I don't have any regular gecko pelts, but I do have }
-{141}{}{Looks like I don't have any golden gecko pelts, but I do have }
+{140}{}{Parece que no tengo pieles de gecko normal, pero sí tengo}
+{141}{}{Parece que no tengo pieles de gecko dorado, pero sí tengo}
 {142}{}{Lo siento, parece que no tengo nada.}
 {200}{}{Ves a una mujer demacrada y sucia.}

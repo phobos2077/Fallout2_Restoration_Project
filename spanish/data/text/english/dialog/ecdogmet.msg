@@ -39,8 +39,8 @@
 {138}{}{Grrrrr....}
 {139}{}{(Me pregunto si puedo hacer que Albóndiga me siga de forma diferente).}
 {150}{}{¡Guau Guau!}
-{200}{}{Here boy, I got something for you! Let's see somebody mess with you now! (You place the K-9 Kevlar on Dogmeat.)}
-{201}{}{Is the armor weighting you down, boy? Here, let's take that thing off. (You remove the K-9 Kevlar from Dogmeat.) }
+{200}{}{Aquí chico, tengo algo para ti! ¡Vamos a ver a alguien meterse contigo ahora! (Colocas el Kevlar K-9 en Albondiga.)}
+{201}{}{¿Te está pesando la armadura, muchacho? Aquí, quitemos esa cosa. (Quitas el Kevlar K-9 de Albondiga.)}
 {300}{}{*Sollozo*}
 {301}{}{¡Auuuuuuuuu! *Sollozo*}
 {1110}{}{El perro devora con gula el contenido de la lata de comida para perros y te mira con expectación.}

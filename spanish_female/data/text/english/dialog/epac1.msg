@@ -1,16 +1,16 @@
 {100}{}{Ves a un Sr. Mañoso robot.}
 {101}{}{Ves a un Sr. Mañoso robot muy deprimibido.}
-{102}{}{This Mr. Handy Robot seems to be very depressed for some reason.}
+{102}{}{Este Sr. Handy Robot parece estar muy deprimido por alguna razón.}
 {200}{}{Oh, ¡estoy muy triste!}
-{201}{}{Fed up...}
+{201}{}{Harto...}
 {202}{}{Quiero morir ahora...}
 {203}{}{Alguien mátame por favor...}
 {204}{}{Todo el mundo ha ido...}
 {205}{}{¿Por qué debería hacerlo?}
 {206}{}{Aburrido...}
-{207}{}{...SOB...}
+{207}{}{...SOLLOZO...}
 {208}{}{Vida. No me hable de la vida.}
-{209}{}{I think you ought to know I'm feeling very depressed.}
-{210}{}{Pardon me for breathing, which I never do anyway so I don't know why I bother to say it, oh God, I'm so depressed.}
-{500}{}{Yeah, just push me over a cliff}
-{501}{}{***bzzt Stop that! *** bzzt}
+{209}{}{Creo que deberías saber que me siento muy deprimido.}
+{210}{}{Perdóneme por respirar, lo que nunca hago de todos modos, así que no sé por qué me molesto en decirlo, oh Dios, estoy tan deprimido.}
+{500}{}{Sí, solo empújame sobre un acantilado}
+{501}{}{*** bzzt ¡Para eso! *** bzzt}

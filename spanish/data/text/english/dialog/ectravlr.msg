@@ -28,10 +28,10 @@
 {127}{}{Gracias. Adiós.}
 {128}{}{Sí, no hace mucho llegué a un campamento minero abandonado. Pensé que podría descansar allí un día o dos, pero entonces los lobos empezaron a aparecer y pensé que sería mejor si me fuera. Una pena; parece que los mineros también se fueron a toda prisa. Se dejaron un montón de cosas. Había pensado volver, pero supongo que no pasa nada malo si te enseño dónde está.}
 {129}{}{Gracias. Adiós.}
-{130}{}{Yeah, a while back I came across an old facility that looked like it'd been abandoned since the Great War.
- Looked pretty important too, so I bet it's chock full of pre-war goods. I would've scavenged the place myself,
- but it's grounds were covered with some real pissed off man-eating plants. I'm not planning on going back, so I guess
- it's all right if I show you where it is.}
+{130}{}{Sí, hace un tiempo me encontré con una antigua instalación que parecía abandonada desde la Gran Guerra.
+Parecía bastante importante también, así que apuesto a que está repleto de objetos de antes de la guerra. Yo mismo habría limpiado el lugar,
+ pero sus terrenos estaban cubiertos con algunas verdaderas plantas que se alimentaban de hombres. No estoy pensando en volver, así que supongo
+ Está bien si te muestro dónde está.}
 {131}{}{Gracias. Adiós.}
 {132}{}{Oh... realmente no importa. Sólo decidí viajar un buen día y bueno, aquí estoy.}
 {133}{}{Quizá puedas ayudarme. Necesito algunas indicaciones.}

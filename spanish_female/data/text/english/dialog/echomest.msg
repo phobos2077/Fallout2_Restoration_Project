@@ -36,4 +36,4 @@
 {135}{}{Volveré.}
 {136}{}{Llévate a mi mujer... por favor...}
 {200}{}{Gracias por tu ayuda.}
-{201}{}{Bout time some order was brought to these here lands.}
+{201}{}{A la hora se trajo algún orden a estas tierras.}

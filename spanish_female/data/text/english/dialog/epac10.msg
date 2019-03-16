@@ -1,14 +1,14 @@
 {100}{}{Ves a Dex.}
-{101}{}{You see a handsome, impeccably groomed man. Beneath an impressive shock of grease-slicked hair, his eyes
- sparkle with intensity... or perhaps insanity.}
-{200}{}{[As you approach the cryogenic chamber, you see an attractive naked man sprawled on the floor. He draws
- his knees up and hugs them against his chest. He sits there for several moments, staring blankly ahead as his body
- quakes and his teeth chatter. Gradually, he seems to calm down.]}
+{101}{}{Ves a un hombre guapo, impecablemente preparado. Debajo de un impresionante golpe de pelo engrasado, sus ojos
+ brillar con intensidad ... o tal vez la locura.}
+{200}{}{[Cuando te acercas a la cámara criogénica, ves a un atractivo hombre desnudo tendido en el suelo. El dibuja
+ Levanta las rodillas y las abraza contra su pecho. Se sienta allí por varios momentos, mirando fijamente hacia adelante mientras su cuerpo
+ Los temblores y sus dientes chirrían. Poco a poco, parece calmarse.]}
 {201}{}{Eh, ¿hola?}
-{210}{}{[He snaps his head towards you and leaps to his feet. He watches you intently, then glances around like a
- cornered animal. When his eyes return to you, they soften, and he relaxes as his memories come flooding back to him.
- He quickly alters his composure, projecting cool confidence, despite his nakedness.] I don't recognize you, bud.
- You don't mind if I get dressed do you?}
+{210}{}{[Él asoma la cabeza hacia ti y se pone de pie. Te observa atentamente, luego mira alrededor como un
+ animal acorralado Cuando sus ojos vuelven a ti, se ablandan, y él se relaja cuando sus recuerdos vuelven a inundarlo.
+ Él cambia rápidamente su compostura, proyectando una confianza fría, a pesar de su desnudez.] No te reconozco, amigo.
+ No te importa si me visto, ¿verdad?}
 {211}{}{Supongo que no hay daño-}
 {212}{}{Bueno, yo-}
 {220}{}{Of course you don't mind. Thanks, pal. [He steps past you and opens a nearby locker. He casually dresses himself

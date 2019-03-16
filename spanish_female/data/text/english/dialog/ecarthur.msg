@@ -43,5 +43,5 @@
 {205}{}{Vamos. No me ignoréis.}
 {206}{}{¡Por favoooor! Necesito preguntaros algo importante.}
 {207}{}{Bien, debemos continuar nuestra búsqueda de la Santa Granada de Antioquía. Vamos, Patsy.}
-{300}{}{Our quest has been fulfilled!}
+{300}{}{Nuestra búsqueda se ha cumplido!}
 {301}{}{Arthur, a vuestro servicio.}
