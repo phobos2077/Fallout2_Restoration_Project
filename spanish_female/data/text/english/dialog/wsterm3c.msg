@@ -44,7 +44,7 @@
 {163}{}{}
 {164}{}{Iniciar secuencia de arranque}
 {165}{}{                                   Nivel de energía - nominal}
-{166}{}{                                      Índice de sincronización - 75%}
+{166}{}{                                                Synch Ratio - 75%}
 {167}{}{                                               Unidad operativa}
 {170}{}{                                      Índice de sincronización - 50%}
 {174}{}{                                      Índice de sincronización - 10%}
