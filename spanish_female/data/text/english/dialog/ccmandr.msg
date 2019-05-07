@@ -24,7 +24,7 @@
 {123}{}{Vete a la mierda.}
 {124}{}{Deja mi casillero tranquilo o te daré una buena paliza.}
 {125}{}{Hora de morir.}
-{200}{}{De acuerdo, acabemos con esto - No me gustan las mutis que apestan mi oficina, y tengo mierda que hacer. ¿Trabajas para Los Salvatores?}
+{200}{}{De acuerdo, acabemos con esto - No me gustan los mutantes apestosos en mi oficina, y tengo mierda que hacer. ¿Trabajas para Los Salvatores?}
 {201}{}{Nada que te incumba, Imbécil.}
 {202}{}{No trabajo para nadie.}
 {203}{}{¿Y qué si es así?}

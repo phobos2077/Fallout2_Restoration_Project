@@ -71,7 +71,7 @@
 {170}{}{Necesito saber más cosas.}
 {171}{}{No hay mucho que contar, la verdad. Darion es muy reservado y nunca abandona el Refugio. Si tiene algo que decir, lo dice a través de Zeke. Sólo lo he visto una vez, y me pareció un buen tipo.}
 {172}{}{De acuerdo.}
-{173}{}{Los chicos buenos terminan los últimos. Me pregunto en que estará metido.}
+{173}{}{Los chicos buenos terminan último. ¿Me pregunto qué estará haciendo?}
 {174}{}{Ya veo.}
 {175}{}{Eso está bien. Eres de mucha ayuda.}
 {176}{}{No puedo darte otra cosa que mi eterna gratitud.}

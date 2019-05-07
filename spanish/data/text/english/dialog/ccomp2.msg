@@ -12,7 +12,7 @@
 {111}{}{Soy el jefe de análisis informático. Desde aquí me encargo de mantener todo el equipo.}
 {112}{}{Oh. ¿Puedo usar computadora?}
 {113}{}{No entiendo. Me voy.}
-{114}{}{Dime, ¿puedo usar el sistema un momento? Ya sabes, verlo y eso.}
+{114}{}{Dime, ¿puedo usar el sistema por un minuto? Ya sabes, para revisarlo.}
 {115}{}{Eh, encantado de hablar contigo. Te veré mas tarde.}
 {116}{}{Bueno... se supone que no se permite a personal no cualificado usar el equipo. Es todo muy complejo y delicado, ya me entiendes.}
 {117}{}{¿Por favor? No rompo yo.}
