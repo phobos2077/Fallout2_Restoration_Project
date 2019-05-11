@@ -1,7 +1,7 @@
 {100}{}{Saludos, humano. Soy el guerrero Xarn. ¿Vas a ser tú mi verdugo?}
 {101}{}{Sí.}
 {102}{}{No, aquí yo para tu rescate.}
-{103}{}{No sé. ¿Por qué tú estás aquí?}
+{103}{}{No sé. ¿Por qué estás aquí?}
 {104}{}{Sí, lo soy.}
 {105}{}{No, estoy aquí para rescatarte.}
 {106}{}{No lo sé. Me gustaría saber por qué estás aquí.}
