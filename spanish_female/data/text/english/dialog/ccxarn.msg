@@ -86,7 +86,7 @@
 {185}{}{Antes de decido tú me cuentas. ¿Por qué tú aquí?}
 {186}{}{Uh... vale. Tú vienes. Nosotros luchamos juntos.}
 {187}{}{Tú vas por camino de tú. Yo marcho.}
-{188}{}{Antes de tomar ninguna decisión me gustaría saber por qué estás aquí.}
+{188}{}{Antes de que llegue a una decisión, me gustaría saber ¿por qué estás aquí?}
 {189}{}{Bien. Estamos juntos en esto. ¡Saca tus garras y que comience la fiesta!}
 {190}{}{Ve por tu cuenta, amigo. Yo me largo de aquí.}
 {191}{}{Uh... vale. Tú vienes. Nosotros luchamos juntos.}
