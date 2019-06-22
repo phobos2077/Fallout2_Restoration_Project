@@ -225,9 +225,9 @@
 {534}{}{Ug! Perdy lady.}
 
 # 25. Metzger's Dead No reward, Gain Karma (From 24)
-{540}{}{You are wonderful man. Even though I don't condone your actions. You did the
+{540}{}{You are a wonderful man. Even though I don't condone your actions. You did the
  world a great service.}
-{541}{}{You are wonderful woman. Even though I don't condone your actions. You did the
+{541}{}{You are a wonderful woman. Even though I don't condone your actions. You did the
  world a great service.}
 {542}{}{Thanks.}
 
