@@ -4,7 +4,8 @@
 {152}{}{¡Cómo te atreves a aparecer otra vez por aquí!}
 {153}{}{[HECHO]}
 {154}{}{¡Eh! Nadie entra por la noche en el almacén de la familia Wright!}
-{155}{}{Pero... el mismo señor Wright me mandó venir para un encargo. ¿No lo sabes?}
+{155}{}{Pero... el mismo señor Wright me mandó por un encargo. ¿No lo sabes? es una lástima.
+}
 {156}{}{Volveré mañana.}
 {157}{}{Necesito entrar ahí.}
 {158}{}{[Mirándote con nerviosismo] Lo siento... no te conozco. ¿Tienes autorización?}

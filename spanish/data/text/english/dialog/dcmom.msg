@@ -117,20 +117,19 @@
 {802}{}{Tiene que haber algo que podamos hacer al respecto. Por lo que escuché, pareces ser la única persona por aquí a la
  que realmente le importa esos niños.}
 {803}{}{Por supuesto que lo hago. Los niños son nuestro futuro. Ellos no *tienen* que crecer siendo drogadictos, matones y prostitutas como la mayoría de sus negligentes padres. Porque, con una educación y algo de amor y cuidado, estos niños pueden convertirse en el tipo de persona decente que tan desesperadamente necesitamos en este mundo. Intente establecer un orfanato para ellos, pero lamentablemente, eso no dio resultado.}
-{804}{}{Tal vez es hora de intentarlo nuevamente. No voy a estar en el pueblo mucho mas tiempo, pero haré lo que pueda para ayudar mientras este aquí.}
+{804}{}{Quiza sea hora de probar nuevamente. No voy a estar en el pueblo mucho más tiempo, pero hare lo que pueda para ayudar mientras estoy aqui.}
 {805}{}{Eso es muy malo. Bueno, ha estado bien hablar contigo. Adiós.}
-{806}{}{Si, quizá tu *podrías* ayudar. Veras, he adquirido un gran edificio en el lado sudoeste que, con un poco de trabajo, seria un excelente
-orfanato. Pero un grupo de malvivientes ocupan el lugar y se rehúsan a irse a menos que pague una tarifa absurda. Incluso si *tuviera* el dinero, no se los daría
-a esos matones -- solo lo usarían para seguir envenenándose. Iría con las autoridades, pero desafortunadamente, no hay tal cosa en La Guarida.
-¿Tal vez tendrías mejor suerte para convencerlos de que se fueran?}
-{807}{}{Estoy seguro de que podría sacarlos de allí. De una manera u otra. Te lo haré saber una vez que se hayan ido.}
-{808}{}{Nunca fui fan de desalojar personas. Quizá haya alguien mejor preparado para esto.}
-{809}{}{Oh... ya veo. Eso es realmente malo. Gracias por intentarlo sin embargo. ¿Quieres algo antes de irte?}
+{806}{}{Si, quiza tu *puedas* ayudar. Mira, he adquirido un gran edificio sobre el lado sudoeste que, con un poco de trabajo, podria ser un excelente
+orfanato. Pero un grupo de malvivientes ocupan el lugar y se rehusan a irse a menos que pague una tarifa absurda. Incluso si *tuviera* el dinero, no se los daria
+a esos matones -- solo lo usarian para seguir envenenandose a si mismos. Iria con las autoridades, pero desafortunadamente, no hay algo asi en La Guarida.
+Quiza tu tengas más suerte convenciendolos que se fueran?}
+{807}{}{Estoy seguro que puedo sacarlos de allí. De una forma u otra. Te hare saber una vez que se hayan ido.}
+{808}{}{Nunca fui un fan de desalojar gente. Quiza haya alguien mejor preparado para esto.}
+{809}{}{Oh... ya veo. Eso es realmente malo. Gracias por intentarlo igualmente. Quieres algo antes de irte?}
 {810}{}{Pues no. Adiós, Mamá.}
-{811}{}{Si atrapo a uno de esos pequeños bastardos robándome, sera la ultima cosa que harán. No me importa cual
-sea su excusa, un ladrón es un ladrón. Adiós}
+{811}{}{Si atrapo a uno de esos pequeños bastardos robandome, sera la ultima cosa que ellos hagan. No me importa cual es su excusa, un ladron es un ladron. Adios.}
 {820}{}{Buenas noticias Mamá. El edificio es todo tuyo. Me topé con un pequeño obstáculo, pero esos okupas ya no te molestaran.}
-{821}{}{Los okupas dijeron que se irán y que lamentan haber causado problemas. Están actualmente limpiando el lugar para intentar compensartelo. Pensé que tal vez, si lo hacen lo suficientemente bien, podrías ofrecerles algunos trabajos.}
+{821}{}{Los okupas dijeron que se iran y que lamentan haber causado problemas. Estan actualmente limpiando el lugar para intentar conmpensartelo. Estaba pensando que quiza, si ellos lo hacen lo suficientemente bien, podrias ofrecerles algunos trabajos.}
 {822}{}{Oh, esas son geniales noticias! Muchas gracias! Espero que nadie haya resultado herido en el proceso. Me pondré en contacto con algunos amigos y
 comenzaremos ya mismo. Si aun estas en el pueblo en unos días, deberías pasarte. Con suerte tendremos las cosas listas para entonces. Oh,
 Estoy tan emocionada! Gracias de nuevo. Ten, esta comida va por mi cuenta.}
@@ -139,8 +138,7 @@ Estoy tan emocionada! Gracias de nuevo. Ten, esta comida va por mi cuenta.}
   emocionada! Gracias de nuevo. Ten, esta comida para por mi cuenta.}
 {824}{}{Gracias, Mamá. Hasta otra.}
 {850}{}{Ayudaste a establecer un orfanato para los niños de La Guarida.}
-{1821}{}{Buenas noticias Mamá. El edificio es todo tuyo. Tomo algo de convencimiento, pero logre que los okupas estén de acuerdo en empacar y mudarse.
-No creo que te molesten nuevamente.}
+{1821}{}{Buenas noticias Mamá. El edificio es todo tuyo. Tomo algo de tiempo convencerlos, pero los okupas estan de acuerdo en empacar y mudarse. No creo que te molesten nuevamente.}
 {1822}{}{Oh, esas son geniales noticias! Muchas gracias! Me pondré en contacto con algunos amigos y
 comenzaremos ya mismo. Si aun estas en el pueblo en unos días, deberías pasarte. Con suerte tendremos las cosas listas para entonces. Oh,
 estoy tan emocionada! Gracias de nuevo. Ten, esta comida va por mi cuenta.}
