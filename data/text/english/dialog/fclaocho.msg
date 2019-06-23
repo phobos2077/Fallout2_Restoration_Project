@@ -28,7 +28,7 @@
 {127}{}{I'm looking for a spleen.}
 {128}{}{I hear some flying machines brought a load of villagers down this way.}
 {129}{}{Nothing. Bye.}
-{130}{}{Talk to Crocket, over in the Hubologist camp. He is their head scientist.}
+{130}{}{Talk to Crockett, over in the Hubologist camp. He is their head scientist.}
 {131}{}{Thanks. I want more information.}
 {132}{}{Thanks. Bye.}
 {133}{}{Look to the north, in Navarro. There is a hidden base near the gas station.}

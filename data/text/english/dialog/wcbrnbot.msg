@@ -84,7 +84,7 @@
 {183}{}{More commands}
 {184}{}{Bye.}
 {185}{}{Skynet's primary purpose is research. Skynet would do well with any problem requiring a scientific approach.}
-{186}{}{More commands.}
+{186}{}{More commands}
 {187}{}{Bye.}
 {188}{}{Input commands for new formation.}
 {189}{}{Follow at a long distance.}

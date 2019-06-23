@@ -13,13 +13,13 @@
 {158}{}{You see a prostitute. Her tattered clothes are draped seductively around her body.}
 
 # 1. [MALE, ENCLAVE DESTROYED]
-{175}{}{Oh my...it's him. .}
+{175}{}{Oh my...it's him.}
 {176}{}{You are the biggest stud in the world.}
 {177}{}{::Swoons::}
 {178}{}{Yeah, }
 {179}{}{::Claps::}
 {180}{}{::Cheers::}
-{181}{}{Oh my...it's her. }
+{181}{}{Oh my...it's her.}
 {182}{}{You go, girl!}
 {183}{}{::Gives you the thumbs up sign::}
 
@@ -304,7 +304,7 @@
 {459}{}{That slaver-girl makes my Geiger counter tick.}
 
 # 9. (ANY) TO [COMPANION: ROBOBRAIN AND/OR MARCUS]
-{460}{}{I guarantee I'm better in the sack that that robot following you around.}
+{460}{}{I guarantee I'm better in the sack than that robot following you around.}
 {461}{}{Is that robot FULLY functional?}
 {462}{}{Is that some kind of slot machine that's following you around?}
 {463}{}{Is that a robo-slot machine?}

@@ -43,7 +43,7 @@
 # 7. ( ) General Floats
 {250}{}{I'm sorry; you can't leave this way.}
 {251}{}{This entrance is for the workers.}
-{252}{}{It takes too much effort set up the ramps for just one person.}
+{252}{}{It takes too much effort to set up the ramps for just one person.}
 {253}{}{If you want to leave, ask Vegeir.}
 
 # goes in node 3

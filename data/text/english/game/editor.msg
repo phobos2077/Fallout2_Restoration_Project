@@ -280,7 +280,7 @@
 {1105}{}{You are addicted to the chem Buffout. You must take this chem on an ongoing basis or suffer the effects of withdrawal.}
 {1106}{}{You are suffering from Mentat addiction. You must take this particular chem or suffer withdrawal.}
 {1107}{}{You have a chem addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become addicted to Radaway. While not life threatening, you must take it regularly.}
+{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{You have a problem with alcohol. Actually, you have many problems with your drinking habits.}
 {1110}{}{You have a chem addiction. You must take Jet on a regular basis.}
 {1111}{}{Tragically, you are addicted to the Garnering. You are constantly in search of new expansions.}

@@ -121,7 +121,7 @@
 {230}{}{First, you will need to prove you can do it. I will have you go up against five of my fighters - one at a time. If you beat them then you will receive your final test.}
 {231}{}{What is that?}
 {232}{}{Sounds like too much trouble. Bye.}
-{233}{}{You will need to defeat my chosen apprentice. However, none of these battles will to be to the death - to protect my men, of course. [he sneers]}
+{233}{}{You will need to defeat my chosen apprentice. However, none of these battles will be to the death - to protect my men, of course. [he sneers]}
 {234}{}{Let's get it on!}
 {235}{}{You can take care of the Dragon yourself.}
 {236}{}{[Lo Pan studies you and then throws a quick punch which smacks you in the nose before you can even react.] You are not good enough.}

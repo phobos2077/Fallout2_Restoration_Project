@@ -137,7 +137,7 @@
 #RP 1.3
 {700}{}{Oh, right. Here you go. [Hand him $5,000.]}
 {701}{}{Sorry, I had to spend it as part of the deal.}
-{702}{}{Shit, I don't have enough to pay you back. I must've spent some without thinking about it. I'll get I get it back to you as soon as I can.}
+{702}{}{Shit, I don't have enough to pay you back. I must've spent some without thinking about it. I'll get it back to you as soon as I can.}
 
 {710}{}{Thanks. Here. [He hands you back $2,500.] Keep it. It's the least we could do to repay you.}
 

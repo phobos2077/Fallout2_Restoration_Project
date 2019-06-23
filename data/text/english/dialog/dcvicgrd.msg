@@ -157,11 +157,11 @@
 
 # 25. No. (From 23)
 {490}{}{No, sorry.}
-{491}{}{I said no. Now beat it. You've got to talk to Metzger}
+{491}{}{I said no. Now beat it. You've got to talk to Metzger.}
 {492}{}{Okay.}
 
 # 26. Vic Free (From Where to go)
-{500}{}{To bad you didn't join us.}
+{500}{}{Too bad you didn't join us.}
 {501}{}{You should join the guild.}
 {502}{}{Just doing that guard thing.}
 {503}{}{Hope Vic works out for you.}

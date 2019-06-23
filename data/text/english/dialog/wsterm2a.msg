@@ -16,7 +16,7 @@
 {107}{}{[You notice a button on the keyboard labeled help.] Push key.}
 {108}{}{Hack into security systems}
 {109}{}{Attempt to turn off alarm.}
-{110}{}{Exit.}
+{110}{}{Exit}
 {111}{}{Arg! [You slam you fist into the keyboard in frustration.]}
 {113}{}{Skynet Security Systems}
 {114}{}{Retina Scanner Activated
@@ -49,7 +49,7 @@
 {118}{}{Arg! [You slam you fist into the keyboard in frustration.]}
 {120}{}{Skynet Security Systems
                                       Access to This Terminal is Denied}
-{122}{}{Exit.}
+{122}{}{Exit}
 {124}{}{Error!
                                                                  No program files present
                                             Please reboot}

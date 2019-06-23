@@ -23,7 +23,7 @@
 {240}{}{That 'bout do it for ya, pal?}
 {241}{}{Actually I'd like to take another look at your goods if I may.}
 {242}{}{Actually, I'd like to ask you a question.}
-{243}{}{That did it. See you around Flick.}
+{243}{}{That did it. See you around, Flick.}
 
 # 4. What do you do here (2)
 {260}{}{I'm a fuckin' provider, waddya think? I'm like a good Samurai-itan guy.}

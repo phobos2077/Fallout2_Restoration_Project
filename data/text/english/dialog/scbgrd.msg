@@ -6,8 +6,9 @@
 {105}{}{I'm here to kick ass and chew bubble gum. Good thing for you I have one stick left.}
 
 {106}{}{What the hell you looking at? Blow.}
-{107}{}{Hey, I am not in to that. Just make sure you keep a good distance from me.}
+{107}{}{Hey, I am not into that. Just make sure you keep a good distance from me.}
 {108}{}{Yeah, that's right come over to papa. Why don't we meet later for a drink?}
 {109}{}{Honey, I'd sleep with a brahmin before I looked at you twice.}
 
 {110}{}{Just buy something and get the hell out of here.}
+

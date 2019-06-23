@@ -23,7 +23,7 @@
 {122}{}{I would like to know what you do here.}
 {123}{}{I'm here to obtain fuel for the Hubologists.}
 {124}{}{No. I'm just leaving now.}
-{125}{}{You want fuel for the tanker? I want hardened power armor. I understand a Hubologist, one called Crocket, has a process whereby a regular suit of power armor can be upgraded. Get me such a suit and I will divert the fuel for you.}
+{125}{}{You want fuel for the tanker? I want hardened power armor. I understand a Hubologist, one called Crockett, has a process whereby a regular suit of power armor can be upgraded. Get me such a suit and I will divert the fuel for you.}
 {126}{}{I'll do that.}
 {127}{}{I can't make any promises.}
 {128}{}{I have one right here.}
@@ -31,7 +31,7 @@
 {130}{}{Actually, it is of interest. I'd like fuel for the Poseidon Oil Tanker.}
 {131}{}{I'll bet it would be of interest to the Hubologists. They want fuel.}
 {132}{}{Not yet, it's not. But I'll be back.}
-{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship. It is the one called Crocket that you will wish to speak with.}
+{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship. It is the one called Crockett that you will wish to speak with.}
 {134}{}{I'll do that.}
 {135}{}{I can't make any promises.}
 {136}{}{I have one right here.}
@@ -56,7 +56,7 @@
 {155}{}{I will. Bye.}
 {156}{}{Fat chance. Bye.}
 {157}{}{Guards! Guards! The outsider is back! Kill him! }
-{158}{}{Have you spoken to this Hubologist who calls himself Crocket, and gotten the armor?}
+{158}{}{Have you spoken to this Hubologist who calls himself Crockett, and gotten the armor?}
 {159}{}{No, not yet.}
 {160}{}{Then why do you keep coming back here to bother me?}
 {161}{}{Because I have some questions.}

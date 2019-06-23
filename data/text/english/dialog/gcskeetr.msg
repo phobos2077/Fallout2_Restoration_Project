@@ -140,7 +140,7 @@
 
 {370}{}{I see that you've got a mighty fine tool kit there. Snap-off, ain't it? I'll trade you this Fuel
  Cell Controller for it.}
-{371}{}{Hey there! yur back with my repair kit. Mmm, Snap-off -— they're the best. Ready to trade?}
+{371}{}{Hey there! Yur back with my repair kit. Mmm, Snap-off -— they're the best. Ready to trade?}
 {372}{}{It's a deal.}
 {373}{}{Not right now. I'm holding on to this for a while. Goodbye.}
 
@@ -229,13 +229,13 @@
 {631}{}{Sure.}
 
 {640}{}{[Skeeter takes the item and looks it over with a weird gleam in his
- eye] Well, this is a mite challengin', but I think I can fix this up real nice
+ eye.] Well, this is a mite challengin', but I think I can fix this up real nice
  for ya. Just sit tight for a while. [Skeeter takes the weapon over to his
  workbench and locks it in a really big vise.]}
 {641}{}{Okay.}
 
 {650}{}{[As you wait you can see Skeeter's back as he works on your weapon. You
- dont't know exactly what he's doing but that weird chuckle and all the pounding are
+ don't know exactly what he's doing but that weird chuckle and all the pounding are
  making you nervous.]}
 {651}{}{Wait...}
 

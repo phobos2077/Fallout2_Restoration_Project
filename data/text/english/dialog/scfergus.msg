@@ -52,7 +52,7 @@
 {150}{}{Tell her I solved her squatter problem.}
 {151}{}{Darion's dead? Oh, excuse me. Go right on in.}
 {152}{}{You did? Well...I'm sure that's wonderful news. Did you learn anything else?}
-{153}{}{No}
+{153}{}{No.}
 {154}{}{Yeah, there's something else -- something about a spy.}
 {155}{}{What a rel-I mean, I'm glad it's all over. Go right on in.}
 

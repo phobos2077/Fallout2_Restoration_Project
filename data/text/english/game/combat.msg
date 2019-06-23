@@ -669,7 +669,7 @@
 # 5000 series - men (including generics)
 #
 {5000}{}{. That really hurts}
-{5001}{}{. A serious wound is inflicted}
+{5001}{}{. That inflicted some serious pain}
 {5002}{}{ with no armor defenses}
 {5003}{}{. The damaging attack knocks him unconscious}
 {5004}{}{. The blow knocks him to the ground}

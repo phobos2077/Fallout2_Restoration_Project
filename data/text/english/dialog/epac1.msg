@@ -13,5 +13,5 @@
 {209}{}{I think you ought to know I'm feeling very depressed.}
 {210}{}{Pardon me for breathing, which I never do anyway so I don't know why I bother to say it, oh God, I'm so depressed.}
 
-{500}{}{Yeah, just push me over a cliff}
+{500}{}{Yeah, just push me over a cliff.}
 {501}{}{***bzzt Stop that! *** bzzt}

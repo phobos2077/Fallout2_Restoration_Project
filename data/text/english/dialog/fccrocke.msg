@@ -1,5 +1,5 @@
 {100}{}{You see a fairly young, balding scientist. He looks intent on his job.}
-{101}{}{You see Crocket, the Hubologist scientist.}
+{101}{}{You see Crockett, the Hubologist scientist.}
 {102}{}{You see a relatively young, balding scientist. He seems like a slovenly geek.}
 {103}{}{Yeah? Whaddya want?}
 {104}{}{Agh. Um. Duur.}
@@ -15,7 +15,7 @@
 {114}{}{I can pay for it.}
 {115}{}{I'll let you live.}
 {116}{}{Nothing. Forget it.}
-{117}{}{I'm Crocket. I'm a scientist and fix-it guy. Can I get back to it?}
+{117}{}{I'm Crockett. I'm a scientist and fix-it guy. Can I get back to it?}
 {118}{}{No. I have more questions.}
 {119}{}{Yeah, sure.}
 {120}{}{I develop new technology and I get my share of cultist tail, if you catch my meaning.}

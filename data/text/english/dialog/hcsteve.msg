@@ -152,7 +152,7 @@
 {201}{}{Pal, you're not wanted here. You've done enough damage.}
 {202}{}{[DONE]}
 
-{300}{}{You can usually find Marcus near the Bank – that also serves as a tougher jail – or at the
+{300}{}{You can usually find Marcus near the bank – that also serves as a tougher jail – or at the
  Jail. Sometimes he's in the tavern or at home, but he's usually working.}
 
 {301}{}{Bummer!}

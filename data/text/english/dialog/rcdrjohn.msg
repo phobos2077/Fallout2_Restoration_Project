@@ -35,7 +35,7 @@
  the lot of you.}
 {129}{}{Here's your money, Doc. Fix us up.}
 {130}{}{I guess we can't afford that right now. Sorry, Doc; maybe another time.}
-{131}{}{$100, huh? Maybe we'll have that done later. Goodbye Doc.}
+{131}{}{$100, huh? Maybe we'll have that done later. Goodbye, Doc.}
 {132}{}{Looks like you're not doing too well there. I can cure what ails you for $100. You want me to
  try?}
 {133}{}{Your pal's not doing too well. I think I can cure what ails 'em for $100. You want me to try?}

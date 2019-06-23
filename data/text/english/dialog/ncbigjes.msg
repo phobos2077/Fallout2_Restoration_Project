@@ -26,14 +26,14 @@
 {233}{}{hurrkkkk}
 
 # 5.  NORMAL INTRO (WTG)
-{240}{}{(The man turns to face you. He looks sick with fever: Sweat trickles down his face and stains his clothes. }
-{241}{}{He's ignoring you and staring at Myron; it looks like he's waiting for Myron to speak.)}
-{242}{}{He's staring at you; it looks like he's waiting for you to speak.)}
-{243}{}{Stare back at him with your meanest stare.}
-{244}{}{Stare back at him with mild disinterest.}
-{245}{}{Stare back at him with a sneering gaze}
-{246}{}{Stare back at him with affected disinterest}
-{247}{}{Wander off}
+{240}{}{(The man turns to face you. He looks sick with fever: Sweat trickles down his face and stains his clothes.}
+{241}{}{(He's ignoring you and staring at Myron; it looks like he's waiting for Myron to speak.)}
+{242}{}{(He's staring at you; it looks like he's waiting for you to speak.)}
+{243}{}{[Stare back at him with your meanest stare.]}
+{244}{}{[Stare back at him with mild disinterest.]}
+{245}{}{[Stare back at him with a sneering gaze.]}
+{246}{}{[Stare back at him with affected disinterest.]}
+{247}{}{[Wander off.]}
 {248}{}{Who are you?}
 {249}{}{Are you Jesus Mordino?}
 {250}{}{Sorry. I've entered the wrong room.}
@@ -358,7 +358,7 @@
 # 49. I HAVE A HEART CONDITION . . . (7, 11)
 {760}{}{The temperature does not… agree with me. My breathing is… sometimes difficult. In times of stress or other physical
  activity, I tire quickly. Sometimes, I have chest pains.}
-{761}{}{Really. Well, it's good you don't take any methamphetamines or stimulants, then. I had some other questions...}
+{761}{}{Really? Well, it's good you don't take any methamphetamines or stimulants, then. I had some other questions...}
 {762}{}{I see. I better be going now.}
 
 # 50. I HAVE A HEART CONDITION . . . (7)

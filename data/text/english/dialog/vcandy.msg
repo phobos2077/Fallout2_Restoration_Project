@@ -58,7 +58,7 @@
 {157}{}{Oh, well. Thanks anyway.}
 {158}{}{All right...from the looks of it, it's gonna cost }
 {159}{}{ bucks. You got the cash, then you're good to go.}
-{160}{}{No guarantees with the ol' Doctor in the back room, of course . . .}
+{160}{}{No guarantees with the ol' Doctor in the back room, of course...}
 {161}{}{All right.}
 {162}{}{That's pretty steep. How about }
 {163}{}{?}

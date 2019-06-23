@@ -82,7 +82,7 @@
 {401}{}{WHAT? You cheated!}
 {402}{}{Ecmat?}
 {403}{}{Don't be a sore loser.}
-{404}{}{and...checkmate!}
+{404}{}{And...checkmate!}
 {405}{}{Chekmaaate!}
 {406}{}{::chitter:: Kill plant! ::click-clack-click::}
 {407}{}{You have proven that you can subvert a radscorpion that is more intelligent than you.}

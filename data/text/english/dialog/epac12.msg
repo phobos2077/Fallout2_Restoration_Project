@@ -31,7 +31,7 @@
 {218}{}{My God. I don't believe it. I was in that thing for over a century?!}
 {219}{}{Seems like it. Hey, listen, don't look at me like that. I had nothing to do with putting you in there. Hell,
  my grandpa wasn't even alive back then. I just stumbled upon the location of this place and decided to check it out.}
-{220}{}{Well, will you help me up, or would like it better if I continued sitting naked at your feet?}
+{220}{}{Well, will you help me up, or would you like it better if I continued sitting naked at your feet?}
 {221}{}{I was just about to. [You help her to her feet.]}
 {222}{}{Why did you wake me?}
 {223}{}{No particular reason.}
@@ -512,6 +512,6 @@
 {3118}{}{Caviar Emperor.}
 
 #Don't apply ERSI to specimen == horrible flaming death for specimen
-{5000}{}{[As the woman looks up at your face, her eyes suddenly grow wide and she starts gasping for air.}
+{5000}{}{[As the woman looks up at your face, her eyes suddenly grow wide and she starts gasping for air.]}
 {5001}{}{[END]}
 {5002}{}{Holy shit!}

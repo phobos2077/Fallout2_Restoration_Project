@@ -21,7 +21,7 @@
 {222}{}{Crop rotation is also used to control pests and diseases that can become established in the soil over time.
  Plants within the same family tend to have similar pests and pathogens. By regularly changing the planting location,
  the pest cycles can be broken or limited.}
-{223}{}{Back}
+{223}{}{Back.}
 
 {230}{}{Botany is the scientific study of plant life. As with other life forms in biology, plant life can be studied
  from different perspectives, from the molecular all the way up to individual plants themselves. A good understanding of
@@ -35,7 +35,7 @@
   The rest of the information appears to be various charts, graphs, and pictures of cross sections of plants.}
   
 {231}{}{Download information to a holodisk.}
-{232}{}{Back}
+{232}{}{Back.}
 
 {240}{}{This facility has been the site of various experiments on various animal and plant life forms. Extensive testing has been
  done on the a plant-like life form known as a spore plant and some animal-like creatures known as Centaurs, Floaters, and Radscorpions.}
@@ -58,7 +58,7 @@
 {255}{}{Radscorpions are an extremely large version of the North American Emperor scorpion, mutated by radiation.
  Contrary to initial expectations, their poison grew more potent, not diluted. They are nocturnal and sensitive to light.
  Further testing has shown that samples of poison from their tails can be used to make antidotes.}
-{256}{}{Back}
+{256}{}{Back.}
 {257}{}{Various experiments have been conducted to grow new plant life. Several of these attempts have been successful
  and can now be seen growing in a healthy state in the arboretum. Storage tanks currently indicate there are no more seed samples available for further testing.}
 
@@ -69,7 +69,7 @@
 {263}{}{Current EPA storage containers report there are no more seeds remaining in any of the Storage Tanks.}
 {264}{}{Access Storage Tank One.}
 {265}{}{Access Storage Tank Two.}
-{266}{}{Back}
+{266}{}{Back.}
 
 {270}{}{Storage Tank One reports 5 remaining packets from the U.S. Food Enhancement Program. Seeds from corn plants were genetically modified
  to be immune to disease and insect infestation.}
@@ -82,4 +82,4 @@
  Closing storage container...Success.}
 
 {290}{}{Downloading Botany database to a holodisk...75% complete...Finished. Please remove the disk and return to the menu.}
-{291}{}{Back}
+{291}{}{Back.}

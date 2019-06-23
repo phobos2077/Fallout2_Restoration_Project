@@ -5,7 +5,7 @@
 {104}{}{You. State your business.}
 {105}{}{Aaagh! Nu! Nee!}
 {106}{}{I have a letter for AHS-9 from the Enlightened One in NCR.}
-{107}{}{I'm here to speak to Crocket about some armor.}
+{107}{}{I'm here to speak to Crockett about some armor.}
 {108}{}{I'd like to look around.}
 {109}{}{I'm interested in potentially joining your group.}
 {110}{}{Who are you?}
@@ -28,7 +28,7 @@
 {127}{}{Ooh! Celebrities!}
 {128}{}{I am AHS-7, the second in command of this facility. Before you ask: AHS stands for Aligned Hub Seeker, which means that I have cleared seven levels of neurodynes from my spirit. This means that I am more enlightened and closer to the hub of the Great Wheel than you. And this means that you will tell me what you want here. Now.}
 {129}{}{I have a letter for AHS-9 from the Enlightened One in NCR.}
-{130}{}{I'm here to speak to Crocket about some armor.}
+{130}{}{I'm here to speak to Crockett about some armor.}
 {131}{}{I'd like to look around.}
 {132}{}{I'm interested in potentially joining your group.}
 {133}{}{I've come to kill you all.}
@@ -76,7 +76,7 @@
 {175}{}{Where can I get fuel for the Poseidon tanker?}
 {176}{}{Where can I find the meaning of all the terms you use?}
 {177}{}{When does the ship take off?}
-{178}{}{Where is Crocket?}
+{178}{}{Where is Crockett?}
 {179}{}{Nothing, thanks. Bye.}
 {180}{}{Let us know when you have completed your task.}
 {181}{}{Will do. I have more questions.}

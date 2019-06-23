@@ -5,7 +5,7 @@
 {104}{}{I'll be damned. I guess evolution can go in reverse.}
 {105}{}{You ain't got all your dogs on one leash, do you?}
 {106}{}{I don't have time for you. I reckon you're just a few peas short of a casserole.}
-{107}{}{Just a couple of clowns short of a circus aren't you?}
+{107}{}{Just a couple of clowns short of a circus, aren't you?}
 {108}{}{Hello there. My name's Dangerous Dan McGrew. I run the Morningstar Mine here. What can I do
  for you?}
 {109}{}{What do you need from me?}

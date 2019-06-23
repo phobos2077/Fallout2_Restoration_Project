@@ -318,7 +318,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {367}{}{I need to find the Vault my people came from.}
 {368}{}{I need a Garden of Eden Kit. Do you have one?}
 {369}{}{Oh, so now I'm welcome in your city? Forget this... I'm outta here.}
-{370}{}{You have no idea... but I'll tell you about the temple of trials some other time. Goodbye.}
+{370}{}{You have no idea... but I'll tell you about the Temple of Trials some other time. Goodbye.}
 {371}{lyn051}{I'm giving you an opportunity few Outsiders ever receive. You may take the test, if you
  wish. But resolving this situation for us may prove more rewarding. Do you understand me?}
 {372}{}{All right then. What kind of situation?}

@@ -68,7 +68,7 @@
 {271}{}{Yeah, you know what it was?}
 {272}{}{I think it was a bird.}
 {273}{}{No, a dog.}
-{274}{}{But it was flying man.}
+{274}{}{But it was flying, man.}
 {275}{}{No way - it zoomed across the ground.}
 {276}{}{Yeah, you seeing things, man.}
 {277}{}{No way. That was real.}
@@ -129,7 +129,7 @@
 {407}{}{Tubby has the best supply in town.}
 {408}{}{I feel so alive!}
 
-{420}{}{Did you hear a load bang?}
+{420}{}{Did you hear a loud bang?}
 {421}{}{Haven't seen Tubby in a while.}
 {422}{}{Where's Tubby?}
 {423}{}{You seen Tubby?}

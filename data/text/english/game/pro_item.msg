@@ -159,7 +159,7 @@
 {8000}{}{First Aid Book}
 {8001}{}{A study book on the concepts and practical use of first aid skills.}
 {8100}{}{Iguana-on-a-stick}
-{8101}{}{A cooked iguana, roasted in it's own skin.}
+{8101}{}{A cooked iguana, roasted in its own skin.}
 {8200}{}{Key}
 {8201}{}{A key. A key will open a particular lock.}
 {8300}{}{Key Ring}
@@ -934,7 +934,7 @@
 {47800}{}{Sierra Mission Holodisk}
 {47801}{}{The label reads: "Mission Statement."}
 {47900}{}{NavCom Parts}
-{47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigational Computer" on them lead you to believe they fit into a Poseidon Oil Navigational Computer.}
+{47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigation Computer" on them lead you to believe they fit into a Poseidon Oil Navigation Computer.}
 {48000}{}{Bonus +1 Agility}
 {48100}{}{Bonus +1 Intelligence}
 {48200}{}{Bonus +1 Strength}

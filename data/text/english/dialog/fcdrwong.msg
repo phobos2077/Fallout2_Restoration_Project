@@ -156,14 +156,14 @@
 {442}{}{Alright, I'll take him out for you.}
 {443}{}{I'll do it, but for a price. You were talking about compensation before?}
 
-{450}{}{Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind… Anyway, you may claim your reward. Are you interested in weapons, supplies, or cash?}
-{451}{}{Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind… Anyway, we never asked you to get so involved, but we are grateful. For your troubles, you may claim a reward. Are you interested in weapons, supplies, or cash?}
+{450}{}{Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind... Anyway, you may claim your reward. Are you interested in weapons, supplies, or cash?}
+{451}{}{Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind... Anyway, we never asked you to get so involved, but we are grateful. For your troubles, you may claim a reward. Are you interested in weapons, supplies, or cash?}
 {452}{}{I'll take weapons.}
 {453}{}{I could always use more supplies.}
 {454}{}{Just give me money.}
 {455}{}{Keep your reward. I only did it because it was the right thing to do.}
 
-{460}{}{Here you go. [He hands various high powered weapons]}
+{460}{}{Here you go. [He hands you various high powered weapons]}
 {461}{}{[DONE]}
 
 {470}{}{Here you go. [He hands you various supplies]}

@@ -27,7 +27,7 @@
 {126}{}{No, I'm looking for a GECK.}
 {127}{}{Help? How?}
 {128}{}{A rocket launcher gives me all the spiritual peace I need, lady.}
-{129}{}{"True understand" this! (rude hand gesture with the middle finger)}
+{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
 {130}{}{Merk? What's he want?}
 {131}{}{Simple. He wants you dead. Say bye-bye.}
 {132}{}{I don't know what you did, but he's put a contract out on you.}

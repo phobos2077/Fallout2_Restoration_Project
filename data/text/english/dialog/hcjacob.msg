@@ -37,7 +37,7 @@
 {151}{}{I like them!}
 
 {152}{}{In that case, I'll give you the real history.}
-{153}{}{A human named Jacob – I was named after him – founded this place. The mutant Marcus came along
+{153}{}{A human named Jacob – I was named after him – founded this place. Then mutant Marcus came along
  and forced everyone under his rule. }
 
 {154}{}{That's enough. You're crazy. Goodbye.}
@@ -99,7 +99,7 @@
 {190}{}{Got it. I have more questions.}
 {191}{}{Got it. See ya.}
 
-{192}{}{More questions? }
+{192}{}{More questions?}
 {193}{}{I have some ore I want refined, and I don't want to pay the refinery's prices.}
 {194}{}{What can you tell me about Broken Hills?}
 {195}{}{I want some chemicals mixed.}

@@ -1001,7 +1001,7 @@
 {16051}{}{unreformed mutants, known raiders, and other          }
 {16052}{}{undesirables need not apply!                          }
 {16053}{}{**END-PAR**}
-{16054}{}{BUT I WHAT IF MY ENTIRE TOWN WANTS TO JOIN?}
+{16054}{}{BUT WHAT IF MY ENTIRE TOWN WANTS TO JOIN?}
 {16055}{}{Depending on where your town is located, NCR does     }
 {16056}{}{accept petitions by villages, towns, bases,           }
 {16057}{}{city-states, even minor kingdoms for annexation by    }

@@ -14,7 +14,7 @@
 {113}{}{O-kay - aren't you just special! Maybe I should shop someplace else.}
 {114}{}{Let me look at your stock again.}
 {115}{}{I think me and Edna will be going now.}
-{116}{}{Well, thank god that stranger didn't take you child...My stuff is like my children, see.}
+{116}{}{Well, thank god that stranger didn't take you, child... My stuff is like my children, see.}
 {117}{}{Uhh - of course.}
 {118}{}{Well, I think I'll be going now.}
 {119}{}{I can fix up all sorts of stuff. Got me blower, named it Claudia, fit most any car - give it a lot more power. Only $1000. You interested?}

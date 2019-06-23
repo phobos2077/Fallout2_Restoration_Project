@@ -546,12 +546,12 @@
 #killap -expansion
 {1026}{}{You be causing trouble in my home village. We're gone.}
 
-{2300}{}{De spirits be movin' us}
-{2301}{}{We and I be movin'}
+{2300}{}{De spirits be movin' us.}
+{2301}{}{We and I be movin'.}
 {2302}{}{OK, take it easy.}
-{2303}{}{Don' worry, We an' I be movin'}
+{2303}{}{Don' worry, We an' I be movin'.}
 {2304}{}{We thinkin' you need time to smell de flowers. Grampy-Bone say you're too pushy all de time. You got to be takin' life slower.}
-{2305}{}{We be movin' an' groovin'}
+{2305}{}{We be movin' an' groovin'.}
 {2306}{}{We and I go over here now.}
 {2307}{}{Relax, be happy, we move now.}
 
@@ -637,9 +637,9 @@
 {3083}{}{So many young maidens to tell our travels to - and so little time.}
 {3084}{}{We be needing to have a talk with the herb-superb. Let the world float by-and-by.}
 
-{3086}{}{Take care fren.}
+{3086}{}{Take care, fren.}
 {3087}{}{We and I wish you the best of luck.}
-{3088}{}{Thanks again for everything fren.}
+{3088}{}{Thanks again for everything, fren.}
 
 {3090}{}{This here be our village. We and I go speak with our friends.}
 {3091}{}{We and I go speak with our friends again before headin out.}

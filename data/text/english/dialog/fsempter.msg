@@ -70,7 +70,7 @@
 {166}{}{No.}
 {167}{}{Formatting... formatting... formatting complete. Reboot requires full install. Shutting down. Shutting... down... complete...}
 {168}{}{[DONE]}
-{169}{}{Data to find: - Botany program - Genetic program - Xeno program}
+{169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
 {170}{}{Botany program.}
 {171}{}{Genetic program.}
 {172}{}{Xeno program.}
@@ -83,15 +83,15 @@
 {179}{}{Botany program.}
 {180}{}{Xeno program.}
 {181}{}{Back.}
-{182}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative." - Dr. Sheng}
+{182}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative." - Dr. Sheng.}
 {183}{}{Botany program.}
 {184}{}{Genetic program.}
 {185}{}{Back.}
 {186}{}{Chemistry Database: Fuel and derivatives - Polymers}
 {187}{}{Fuel and derivatives.}
-{188}{}{Polymers}
+{188}{}{Polymers.}
 {189}{}{Back.}
-{190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations)}
+{190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
 {191}{}{(You come across a vast array of complex chemical formulae and lab notes. You're not quite sure what all of this means.)}
 {192}{}{Direct fuel to Poseidon tanker.}
 {193}{}{Direct fuel to Hubologists.}
@@ -103,9 +103,9 @@
 {199}{}{Fuel directed accordingly. Storage tanks = Empty. Closing program.}
 {200}{}{[DONE]}
 {201}{}{Physics database: Exploration - Theory}
-{202}{}{Exploration}
-{203}{}{Theory}
-{204}{}{Back}
+{202}{}{Exploration.}
+{203}{}{Theory.}
+{204}{}{Back.}
 {205}{}{"With recent acquisition of vertibird plans, the possibility of creating a practical flying machine has taken a quantum leap forward. We expect to have a working prototype by the end of the year, and the ability to mass-produce such vehicles within two years." -Dr. Wong}
 {206}{}{::copy plans:: Back.}
 {207}{}{Back.}

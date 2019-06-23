@@ -1024,13 +1024,13 @@
 #
 #  running away
 #
-{2600}{}{ Run from the Evil One!}
+{2600}{}{Run from the Evil One!}
 {2601}{}{The spirits bid me to save myself!}
 {2602}{}{Our foe has used powerful magic--Run! Someone get the Shaman!}
 {2603}{}{The dark-spirit runs strong in this one. Death walks the earth!}
 {2604}{}{The dark one is here!}
 {2605}{}{The dark one seeks to punish us. Run! My soul flees and I must follow!}
-{2606}{}{ Aiiieeeee!!}
+{2606}{}{Aiiieeeee!!}
 #
 # moving in to attack
 #

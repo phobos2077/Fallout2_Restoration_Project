@@ -133,7 +133,7 @@
 {215}{}{Mr. Smith}                      # VCMSmith.int    ; Mr. Smith from Vault City (Farmer)
 {216}{}{Skeeve}                         # VCSkeeve.int    ; Skeeve, sells fake passes to Vault City
 {217}{}{Proconsul Gregory}              # VCGreg.int      ; Proconsul Gregory of Vault City
-{218}{}{Nurse Nancy}                    # VCNancy.int     ; Nurse Nancy in Vault City
+{218}{}{Nurse Phyllis}                  # VCNancy.int     ; Nurse Phyllis in Vault City
 {219}{}{Randal}                         # VCRandal.int    ; Chief Admenities Officer of Vault City
 {220}{}{Goo}                            # KTGoo.int       ; Toxic Goo in the rat caves (Klamath)
 {221}{}{Barkus}                         # VCBarkus.int    ; Barkus, Vault City Service Coordinator

@@ -75,7 +75,7 @@
 {514}{}{Not bad.}
 {515}{}{How did that happen?}
 {516}{}{Oops.}
-{517}{}{No wammies, no wammies. Stop!}
+{517}{}{No whammies, no whammies. Stop!}
 {518}{}{Well, the game lives up to its name.}
 {519}{}{I just need one big win.}
 {520}{}{Figures!}
@@ -97,4 +97,4 @@
 {601}{}{Why did you do that?}
 {602}{}{Get away!}
 {603}{}{Stop it, I'm fragile.}
-{604}{}{I wouldn't do that do you.}
+{604}{}{I wouldn't do that to you.}

@@ -44,7 +44,7 @@
 {201}{}{Hello cousin... uh, I mean Chosen One. I hope you've found the GECK. I've heard a lot of
  talk about hard times to come.}
 {202}{}{Me still look, Nagor.}
-{203}{}{I'm still looking, nephew.}
+{203}{}{I'm still looking, cousin.}
 {204}{}{Welcome home, cousin. Things are getting a little tight around here. Have you found the holy
  Thirteen and the GECK?}
 {205}{}{Welcome home, cousin. Things are getting a little tight around here. Have you found the holy

@@ -236,7 +236,7 @@
 # 37. BAD INTRO (WTG)
 {1430}{}{(Jumps.) Oh, my! }
 {430}{}{(Squints at you, then her gaze travels to your slaver brand. Her tone becomes glacial.) }
-{1431}{}{(Jumps.) Oh, my! (Squints at you, then her gaze becomes glacial.) }
+{1431}{}{(Squints at you, then her gaze becomes glacial.) }
 {431}{}{Yes?}
 {432}{}{You again. We have NOTHING to talk about.}
 {433}{}{Me…uh…me…me wanted to…uh…me looking for…uh…dam! Me hate bein stoopid! Me hate!}

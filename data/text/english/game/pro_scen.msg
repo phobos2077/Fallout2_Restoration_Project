@@ -398,9 +398,9 @@
 {20700}{}{Old Mattress}
 {20701}{}{Even if you were to sleep by yourself on this thing, you would not be sleeping alone.}
 {20800}{}{Bed}
-{20801}{}{A make-shift bed. The material was scavenged from some other source.}
+{20801}{}{A makeshift bed. The material was scavenged from some other source.}
 {20900}{}{Bed}
-{20901}{}{A make-shift bed. The material was scavenged from some other source.}
+{20901}{}{A makeshift bed. The material was scavenged from some other source.}
 {21000}{}{Bed}
 {21001}{}{This bed has seen better days (and probably nights, too.)}
 {21100}{}{Bed}
@@ -2944,7 +2944,7 @@
 {194700}{}{Monitor}
 {194701}{}{A large monitor, black and white only. This one has a dignified, but simple looking man rambling on.}
 {194800}{}{Monitor}
-{194801}{}{A large monitor, black and white only. The picture is of a rotating cross and circle .}
+{194801}{}{A large monitor, black and white only. The picture is of a rotating cross and circle.}
 {194900}{}{spare}
 {195000}{}{spare}
 {195100}{}{Shadow}

@@ -14,9 +14,9 @@
 {113}{}{Sorry, wrong guy.}
 {114}{}{Go on, get out of here. I've already got enough idiot guards!}
 {115}{}{What are you chump, blind? This is a slave pen. You want to know more, talk to Vortis.}
-{116}{}{It that so? Well, I'm sending you back in a body bag.}
+{116}{}{Is that so? Well, I'm sending you back in a body bag.}
 {117}{}{That'd be Vortis, the old guy.}
-{118}{}{Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions}
+{118}{}{Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions.}
 {119}{}{The old guy, eh? Okay.}
 {120}{}{Well now, you put it that way, I can't really say no. What's on your mind?}
 {121}{}{Thanks, stranger.}

@@ -5,7 +5,7 @@
 {104}{}{Oooh. Furry.}
 {105}{}{Pretty fur.}
 {106}{}{Ah, I see. You must be new in town. Well, I tell you what. I'll make a special bet for you during tomorrow's fights. Would you like me to do that for you?}
-{107}{}{(You nod) Ook, ook. (and hold out your purse).}
+{107}{}{(You nod) Ook, ook. (and hold out your purse)}
 {108}{}{Mook? Gaga. Bye furry.}
 {109}{}{Good idea. You come back here tomorrow and if your critter won in the fights, I'll give you your money. Okay?}
 {110}{}{OK, good move. I'll make sure you get a real special bet with that. See you later.}

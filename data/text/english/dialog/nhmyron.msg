@@ -74,13 +74,13 @@
 {403}{}{Could someone please suck this poison out?}
 
 # 11. I'M IRRADIATED (WTG)
-{410}{}{Is that me glowing? Give me some RadX next time we dick around in radiation zones, okay?}
-{411}{}{I need some Rad-away before the radiation eats my Gnads-away.}
+{410}{}{Is that me glowing? Give me some Rad-X next time we dick around in radiation zones, okay?}
+{411}{}{I need some RadAway before the radiation eats my Gnads-away.}
 {412}{}{Why don't we just drink the radioactive goo next time? At least we'll die faster!}
 {413}{}{I could power New Reno with all the radiation in my body.}
-{414}{}{I'm glowing brighter than New Reno at midnight. Anybody got some Rad-away?}
+{414}{}{I'm glowing brighter than New Reno at midnight. Anybody got some RadAway?}
 {415}{}{Great. A little radiation, and I'm a human flashlight.}
-{416}{}{Somebody let me hold the Rad-Away. I won't use all of it. I promise.}
+{416}{}{Somebody let me hold the RadAway. I won't use all of it. I promise.}
 
 # 12. I DON'T LIKE THIS PLACE (WTG)
 {425}{}{Why don't we go back to the first level of the dungeon where all the kobolds are?}

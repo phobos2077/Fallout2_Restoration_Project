@@ -30,7 +30,7 @@
 {131}{}{Nothing. Bye.}
 {132}{}{Not willing to cooperate, eh? Guards! Kill this intruder!}
 {133}{}{Your guards are dead men.}
-{134}{}{Go down that elevator and talk to AHS-7 at the guard post. He'll direct you accordingly.}
+{134}{}{Go down these stairs and talk to AHS-7 at the guard post. He'll direct you accordingly.}
 {135}{}{Thanks. Bye.}
 
 {170}{}{I am in need of help, child. Can you help me?}
@@ -39,7 +39,7 @@
 {173}{}{What are you doing here?}
 {174}{}{I got a copy of the plans from the Shi.}
 {175}{}{I have the plans for the vertibird.}
-{176}{}{The Shi have the plans for the vertibird}
+{176}{}{The Shi have the plans for the vertibird.}
 {177}{}{What can I do for you?}
 {178}{}{Forget it. Bye.}
 {179}{}{I am Harry, AHS-5. I am the starbrother in charge of the rocket ship. We are going to use it to travel to Quetzel.}

@@ -46,7 +46,7 @@
 {193}{}{Nothing. I have to go.}
 {195}{}{It's from an old language, prewar or something.}
 {196}{}{Metzger means butcher. Fitting, don't you think?}
-{197}{}{That was my great grandfather's name. He can from somewhere far to
+{197}{}{That was my great grandfather's name. He came from somewhere far to
  the east. Across a large body of water.}
 {198}{}{I read some book about a Metzger. He was a president, or something.}
 {199}{}{Look who's talking tribal.}
@@ -56,7 +56,7 @@
 {202}{}{I see. I still have a question, though.}
 {203}{}{That is the dumbest thing I have ever heard.}
 {204}{}{Fascinating. Gotta go.}
-{205}{}{Our mission is provide a steady and high-quality labor force to
+{205}{}{Our mission is to provide a steady and high-quality labor force to
  handle the ever-growing demands of the larger cities. Would you like to join?}
 {206}{}{Sure. Sounds great.}
 {207}{}{No way.}

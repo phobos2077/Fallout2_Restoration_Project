@@ -3,4 +3,5 @@
 {201}{}{Hey. I found an empty jet canister beneath the dresser.}
 {202}{}{Nothing else here.}
 
-{250}{}{You found a... clue. Behind the dresser. In the Wright mansion.}
+{250}{}{You found a... clue. Beneath the dresser. In the Wright mansion.}
+

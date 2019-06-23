@@ -115,7 +115,7 @@
 {323}{}{Place your bets, minimum bet $}
 {324}{}{Me bet-ter than you}
 {325}{}{Me play craps in pants}
-{326}{}{What this game? Can you bet gecko skin?  Me got geck…ooooh…pretty lights! [Wander off.]}
+{326}{}{What this game? Can you bet gecko skin? Me got geck…ooooh…pretty lights! [Wander off.]}
 {327}{}{[You have $}
 {328}{}{Bet $}
 {329}{}{Whoa, too rich for my blood.}

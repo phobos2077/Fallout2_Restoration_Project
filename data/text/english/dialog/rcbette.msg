@@ -88,7 +88,7 @@
  home to mommy and say there wasn't anything you had enough guts to do.}
 {176}{}{That's it. I've had enough of your mouth. One last chance: Go quietly or I'll tear you apart.}
 {177}{}{Maybe I'll do that. I sure don't want to hurt anyone. Goodbye.}
-{178}{}{I see how this is going, you little piece of shit. OK, You can take me in, and Caminetto too.
+{178}{}{I see how this is going, you little piece of shit. OK, you can take me in, and Caminetto too.
  (to Caminetto) Right, my little fuckface?}
 {179}{}{That's more like it.}
 {180}{}{Nope. Too late now. I'm gonna have to open up a can of whoop-ass on you two. }

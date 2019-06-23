@@ -14,7 +14,7 @@
 {113}{}{You want me to talk Vikki up for you?}
 {114}{}{Nevermind. Bye.}
 {115}{}{Ummm... oookay. Whatever. Say, what's that over there?
-[as you turn to look, he whips back to what he was doing and ignores you]}
+[As you turn to look, he whips back to what he was doing and ignores you.]}
 {116}{}{[DONE]}
 {117}{}{I'm Dave Handy. I'm down from Canada.}
 {118}{}{So, what do you do here?}

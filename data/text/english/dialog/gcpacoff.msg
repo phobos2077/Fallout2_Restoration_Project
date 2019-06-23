@@ -43,7 +43,7 @@
 {135}{}{Gain? What am I'm supposed to gain? I keep pretty active; I don't think I can gain anything.}
 {136}{}{I'll just try back later. Goodbye.}
 
-{137}{powr6_a}{Chosen One, huh? Well, uh, pardon me for not blowing sunshine up your ass, but I'm a little too busy for this your highness.}
+{137}{powr6_a}{Chosen One, huh? Well, uh, pardon me for not blowing sunshine up your ass, but I'm a little too busy for this, your highness.}
 {138}{}{Kneel before me and I may spare your life. Gee, I like the sound of that.}
 {139}{}{I no longer insist upon genuflecting. A slight bow to kiss my ring should be sufficient.}
 {140}{}{Uh, I meant I was the one *chosen* to fix the comm-unit. Seems like nothing works anymore.}

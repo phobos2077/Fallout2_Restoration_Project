@@ -8,8 +8,8 @@
 {107}{}{You're going to pay for what you've done.}
 
 # Node 2
-{108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough,…) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii……..}
-{109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh, cough, cough,…) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii……..}
+{108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough,…) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
+{109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough,…) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
 {110}{}{Uh-oh. Bad happen here. Me run ship now.}
 {111}{}{I better get to the ship and get the hell out of here.}
 

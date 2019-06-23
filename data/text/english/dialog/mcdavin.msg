@@ -37,8 +37,8 @@
 {190}{}{Stop talking; you're gonna ruin it for the both of us. Just sit back and enjoy.}
 {191}{}{There must be some mistake; I just wanted to ask you some questions.}
 {192}{}{Thanks for the offer, but no. Uhhh... I'll be leaving now.}
-{193}{}{Oh god! Take me! Take me now! [He rips off his clothes, then your clothes… then… Use your
- imagination]}
+{193}{}{Oh god! Take me! Take me now! [He rips off his clothes, then your clothes... then... Use your
+ imagination.]}
 {194}{}{[Giggles] I'm "caboose"! You can be it the next time.}
 {195}{}{[Two hours later: The earth moved, and this bed will never be the same.]}
 {196}{}{[One hour later, and the best orgasm you've ever had.]}

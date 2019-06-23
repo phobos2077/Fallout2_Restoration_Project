@@ -9,12 +9,12 @@
 {153}{}{[This dog seems highly agitated.]}
 {154}{}{Nice doggie.}
 {155}{}{Do you know where Jonny is, boy?}
-{156}{}{Stay here, Laddie}
+{156}{}{Stay here, Laddie.}
 {157}{}{Let's go find Jonny.}
 {158}{}{Did Jonny fall down the well, Laddie?}
 {159}{}{What's the matter boy, are you trying to tell me something?}
 {160}{}{Grrrr! [Laddie takes a vicious bite at you.]}
-{161}{}{[Hmm… For some reason he doesn't like you.]}
+{161}{}{[Hmm... For some reason he doesn't like you.]}
 {162}{}{Woof! Woof! Woof! [Laddie jumps on you and starts to lick your face.]}
 {163}{}{[What a nice doggy.]}
 {164}{}{Woof? [You can almost hear the dog laughing at you.]}

@@ -158,7 +158,7 @@
 {446}{}{Doesn't purposely injecting experimental metamphetamines into enslaved humans make you question your basic humanity?}
 {447}{}{Wow. That sounds dangerous. You ever get hurt? Do you have many patient fatalities?}
 {448}{}{Drug testing? Really? How are things going?}
-{449}{}{Sounds interesting, but I have to go….uh, I'll be back, though.}
+{449}{}{Sounds interesting, but I have to go... uh, I'll be back, though.}
 
 # 23. DON'T YOU EVER QUESTION YOUR HUMANITY? (22)
 {455}{}{Was that some poor attempt at a joke?}

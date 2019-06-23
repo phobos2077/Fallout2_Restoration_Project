@@ -26,7 +26,8 @@
 {414}{}{Alter Hairstyle (Long Hair).}
 {415}{}{Alter Hairstyle (Bald).}
 {416}{}{Alter Hairstyle (Blond Hair).}
-{417}{}{On second thought, I don't really have time for this right now. Bye.}
+{417}{}{Alter Hairstyle (Red Hair).}
+{418}{}{On second thought, I don't really have time for this right now. Bye.}
 
 #gender
 {500}{}{This procedure will take four weeks for you to recover and has a 50% chance of death. Do you wish to begin now?}

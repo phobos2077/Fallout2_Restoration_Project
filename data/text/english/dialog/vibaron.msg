@@ -56,7 +56,7 @@
 {311}{}{Pleasure doing business with you. Bye.}
 {312}{}{Bye.}
 
-{320}{}{$500? Not worth it. Make it $1,000 and you've got a deal}
+{320}{}{$500? Not worth it. Make it $1,000 and you've got a deal.}
 {321}{}{I don't have that much. Bye.}
 {322}{}{Alright, fine. $1,000 it is.}
 {323}{}{No deal. Goodbye.}

@@ -90,7 +90,7 @@
 {170}{}{I have more questions.}
 {171}{}{Bye.}
 
-{172}{mcs20}{Somebody busted two lunatics out of the jail in the Bank. Find ‘em. Tell me and I'll stuff ‘em back in.}
+{172}{mcs20}{Somebody busted two lunatics out of the jail in the bank. Find ‘em. Tell me and I'll stuff ‘em back in.}
 {173}{}{Got anything else?}
 {174}{}{I have more questions.}
 {175}{}{Bye.}

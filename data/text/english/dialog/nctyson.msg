@@ -10,23 +10,23 @@
 {154}{}{His face looks like a raw slab of meat.}
 
 # FLOAT DIALOGUE
-{158}{}{Hurgghhh.}
+{158}{}{Hurgghhh}
 {159}{}{Gunhrrhh}
-{160}{}{Mike smash}
-{161}{}{I really like vanilla ice cream}
+{160}{}{Mike smash.}
+{161}{}{I really like vanilla ice cream.}
 {162}{}{Gnarrrr}
 {163}{}{Nrrrurhhh}
-{164}{}{Mike like ears}
-{165}{}{Ears mmmmmmm}
+{164}{}{Mike like ears.}
+{165}{}{Ears mmmmmmm.}
 {166}{}{Grrrrrr}
 {167}{}{Gr. Gr? Grrrrrrr.}
 {168}{}{Gr?}
 {169}{}{Rrrgggg}
-{170}{}{Me eat ears}
-{171}{}{Ears yum}
+{170}{}{Me eat ears.}
+{171}{}{Ears yum.}
 {172}{}{Gr…grrrgr?}
 {173}{}{Snrggg}
-{174}{}{Me hate Robbin' Givens}
+{174}{}{Me hate Robbin' Givens.}
 {175}{}{Grrrrrgrrrrgrrr…grrr…grrr…grr! Grr! Grrr?}
 {176}{}{What does 'percentage' mean?}
 
@@ -36,7 +36,7 @@
 {201}{}{::Mike whines as you approach::}
 {202}{}{::Mike holds up his hands in surrender as you approach::}
 # (FEMALE, ANY BUT PRIZEFIGHTER)
-{203}{}{You cute}
-{204}{}{me like your ears}
-{205}{}{Enough talk. time for bed}
+{203}{}{You cute.}
+{204}{}{Me like your ears.}
+{205}{}{Enough talk. Time for bed.}
 {206}{}{Robin? That you?}

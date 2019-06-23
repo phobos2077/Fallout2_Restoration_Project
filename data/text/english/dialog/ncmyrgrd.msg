@@ -168,7 +168,7 @@
 {477}{}{Yes. Can I head on in? We have business to discuss.}
 {478}{}{No, not right now. Take care, you guys.}
 
-{479}{}{Yes. Can I head on in? We have "business" to discuss. If you know what I mean. (You wink at the guard)}
+{479}{}{Yes. Can I head on in? We have "business" to discuss. If you know what I mean. (You wink at the guard.)}
 {480}{}{Heh, I sure do. Try not to make too much of a ruckus while you're here. (To himself) Damn, Myron's such a lucky
  man.)}
 

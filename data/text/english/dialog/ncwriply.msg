@@ -186,7 +186,7 @@
 
 # 21. NO, TOO DANGEROUS. NO GUN FOR YOU (20, 21)
 {470}{}{(Glares at you.) C'mon, I know how to use guns like that! I'm in Family Wright! Let me see it! Pleeease?}
-{471}{}{Look: In the wrong hands, a gun is a deadly weapon. Well, I mean, it's ALWAYS a deadly weapon, but in the wrong hands…it's, uh…deadly…hold on, let me start over.}
+{471}{}{Look: In the wrong hands, a gun is a deadly weapon. Well, I mean, it's ALWAYS a deadly weapon, but in the wrong hands... it's, uh... deadly... hold on, let me start over.}
 {472}{}{Look, if your family trusted you with a gun they would have given you one. Forget it.}
 {473}{}{I don't care if you're in Family Badass, you ain't getting this gun.}
 {474}{}{Well, all right. [Give him an unloaded pistol.]}

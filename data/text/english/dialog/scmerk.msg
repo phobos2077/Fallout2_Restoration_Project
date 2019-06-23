@@ -25,7 +25,7 @@
 {124}{}{What is this - social hour?}
 {125}{}{I'm Merk. Whattya want?}
 {126}{}{You again?}
-{127}{}{Well keep it polite, punk, or this could get ugly.}
+{127}{}{Well, keep it polite, punk, or this could get ugly.}
 {128}{}{Oort.}
 {129}{}{I'm looking for work.}
 {130}{}{Informed sources say you're the man to see about doing business, if you know what I mean.}
@@ -35,8 +35,8 @@
 {134}{}{You again? So's the job done?}
 {135}{}{Glub.}
 {136}{}{No.}
-{137}{}{I got some questions}
-{138}{}{Hmm... Strong. Dumb...If you want a job, talk to Mira. Understand? Mi-ra. Over there.}
+{137}{}{I got some questions.}
+{138}{}{Hmm... Strong. Dumb... If you want a job, talk to Mira. Understand? Mi-ra. Over there.}
 {139}{}{Like making noises? Will somebody get this brahmin turd out of here?}
 {140}{}{Are you that stupid? You think I'm just gonna hire anybody? You work for me, you got to prove you're good for something.}
 {141}{}{How about I just shoot Lenny, there? He deserves it.}
@@ -95,7 +95,7 @@
 {194}{}{Well, I am a learned man. What's your question?}
 {195}{}{Ask away.}
 {196}{}{I'm looking for Vault 13.}
-{197}{}{Ever hear of a GECK?}
+{197}{}{Ever heard of a GECK?}
 {198}{}{What do you know about some outfit called the Rangers?}
 {199}{}{What can you tell me about some guy named Westin?}
 {200}{}{I'm looking for info on Vice-President Carlson.}
@@ -120,7 +120,7 @@
 {219}{}{Oh, well, I guess I'll never get to meet the man. I've heard a lot about him, too.}
 {220}{}{That's all I needed to know.}
 {221}{}{That all?}
-{222}{}{No, I've got some more questions}
+{222}{}{No, I've got some more questions.}
 {223}{}{Yeah, that's it for now.}
 {224}{}{Hey, a man's got to try. Vault 13's practically a religion around here. They've even built a statue to some chump who supposedly came from there. That's all I know.}
 {225}{}{I sold you a map for it. Try using it.}

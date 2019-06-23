@@ -55,7 +55,7 @@
  can even find him working at the blacksmith. Anything else? And where am I, anyway? Oh yeah… so… anything
  else?}
 
-{135}{}{Marcus is our leader. He helped found Broken Hills. You can usually find him at the Bank or
+{135}{}{Marcus is our leader. He helped found Broken Hills. You can usually find him at the bank or
  the jail. Anything else?}
 
 {136}{}{Greedy bastard. Do you know how hard we work? I hope you rot.}

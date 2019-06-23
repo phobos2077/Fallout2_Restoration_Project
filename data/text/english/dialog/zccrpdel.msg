@@ -111,9 +111,9 @@
 {613}{}{Three, craps pay the don't lines.}
 {614}{}{Twelve, craps push the don't lines.}
 
-#proposition begs
+#proposition bets
 {620}{}{Prop bet 7}
-{621}{}{Prop beg double 3s}
+{621}{}{Prop bet double 3s}
 {622}{}{Prop bet double 4s}
 {623}{}{Prop bet double 5s}
 {624}{}{Prop bet double 2s}

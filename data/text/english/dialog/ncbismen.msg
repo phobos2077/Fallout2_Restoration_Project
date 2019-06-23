@@ -70,7 +70,7 @@
 {281}{}{Loved you in Great Balls for Hire.}
 {282}{}{Loved you in Good Will Humping.}
 {283}{}{I'm a big fan of your work in Pokeahotass.}
-{284}{}{Loved "Vault Sex-Teen." It was inspired. A cinematic tour-de-force.}
+{284}{}{Loved "Vault Sex-Teen." It was inspiring. A cinematic tour-de-force.}
 {285}{}{::Whistles::}
 
 # 16. FLOAT DIALOGUE: SLAVER [ARMED]
@@ -167,7 +167,7 @@
 {391}{}{Where do you work out?}
 {392}{}{Watch out for the Masticator. He has a taste for ears.}
 {393}{}{I'd get you a drink if I hadn't blown all my money betting on your opponent.}
-{394}{}{Wanna wrastle?}
+{394}{}{Wanna wrestle?}
 {395}{}{You don't look so tough, Ms. Left Hook.}
 {396}{}{Can I see your abdominal muscles flex?}
 

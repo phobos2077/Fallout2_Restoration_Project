@@ -173,7 +173,7 @@
 {830}{}{Least I didn't end up like YOU, Marcus!}
 
 #Don't apply ERSI to specimen == horrible flaming death for specimen
-{5000}{}{[The man stands up and shakes himself dry like a wet animal. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.}
+{5000}{}{[The man stands up and shakes himself dry like a wet animal. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
 {5001}{}{[END]}
 {5002}{}{Holy shit!}
 

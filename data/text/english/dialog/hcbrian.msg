@@ -26,7 +26,7 @@
 {125}{}{If this machine is run on uranium slugs, you have more than enough power to fill this place AND New Reno and not even notice the drain. Now cough it up.}
 {126}{}{But... but... he's suffering.}
 {127}{}{So there's no way you can make a couple of small adjustments?}
-{128}{}{[He looks sullenly down at his dials and says in a small voice] You're mean.}
+{128}{}{[He looks sullenly down at his dials and says in a small voice.] You're mean.}
 {129}{}{Yup. Bye!}
 {130}{}{Hey! Don't touch anything! This is delicate equipment! Out! Outside! Go on! Go home!}
 {131}{}{Ooooh! Butunz!}

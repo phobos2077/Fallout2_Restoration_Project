@@ -98,7 +98,7 @@
 {290}{}{Humph, I don't need your help. You're just a tribal.}
 {291}{}{Well, I guess not all the bigots live in Vault City, do they, Gordie old boy? Goodbye.}
 
-{300}{}{Our atomic power plant is still barely operational. You must not have taken the information to
+{300}{}{Our atomic power plant is still barely operational. You must not take the information to
  Vault City yet.}
 {301}{}{I don't think they'd be very receptive to ghoul data in Vault City.}
 {302}{}{No, I haven't yet... but I will. Goodbye.}

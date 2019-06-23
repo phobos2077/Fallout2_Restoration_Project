@@ -182,7 +182,7 @@
  It was I who allowed the Evil Beth to rule the RPG world with my mods. Everything that has transpired has done so according to MY desires.}
 
 #Response to 1020/1030
-{1022}{}{Sauce? What kind of sauce? Are you saying cooking is the key to controlling the universe?. Whatever you say, chef.}
+{1022}{}{Sauce? What kind of sauce? Are you saying cooking is the key to controlling the universe? Whatever you say, chef.}
 {1023}{}{Yeah yeah. Jeeze, whatever you say. I think I will leave now.}
 {1024}{}{Uh, ok. that's great. Well, I need to go..erm ...water my plants...}
 

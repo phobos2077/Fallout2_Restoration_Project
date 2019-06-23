@@ -11,7 +11,7 @@
 {125}{}{Choose Gamma Gulp Beer!}
 
 {143}{}{...the Cat's Paw!}
-{144}{}{When you got that itch that you NEED to scratch..}
+{144}{}{When you got that itch that you NEED to scratch...}
 {145}{}{Head to the Cat's Paw!}
 
 {163}{}{...New Reno Arms!}

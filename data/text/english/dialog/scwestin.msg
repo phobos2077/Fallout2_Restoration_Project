@@ -5,7 +5,7 @@
 {104}{}{You again? What do you want?}
 {105}{}{What do you want?}
 {106}{}{Duh...}
-{107}{}{Me look Vault 13? You help?}
+{107}{}{Me look Vault 13. You help?}
 {108}{}{I'm looking for Vault 13. Can you help me?}
 {109}{}{I finished your dirty work.}
 {110}{}{Bad things come. Me scare off. Moo-moos safe.}
@@ -54,7 +54,7 @@
 {153}{}{I'm not sure I believe you, but here's your pay. Hell, if you been lying, my boys will find you. I also said I'd give you some information, so here it is. I've heard a lot of stories about Tandi and the Vault Dweller. Seems he saved her life years ago before NCR was even founded. Anyway, legend has it that he spent a lot of time exploring a vault east of here. If that isn't Vault 13 then maybe you'll find a clue there that will lead you to it.}
 {154}{}{Me tank you!}
 {155}{}{Thanks.}
-{156}{}{The 1st Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
+{156}{}{The First Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
 {157}{}{Yes.}
 {158}{}{No.}
 {159}{}{And you're a good Citizen, I'm sure. I want you to take this holodisk back to the 1st Citizen. It's important. It has the information she needs to expose this NCR-New Reno plan.}
