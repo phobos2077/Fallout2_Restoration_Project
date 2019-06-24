@@ -1,17 +1,16 @@
 {100}{}{Ves un Holograma.}
-{101}{}{Ves al dueño de 'El Agujero'.}
-{102}{}{Hologram 00000. He looks after the scientific aspects of the EPA.}
+{101}{}{Ves al Director de Ciencias.}
+{102}{}{Holograma 00000. El se ocupa de los aspectos científicos de la APA.}
 {200}{}{01001000 01100101 01101100 01110000 00100000 01101101 01100101 00100001}
 {201}{}{Eh, ¿qué?}
 {210}{}{01000101 01101100 01100101 01100011 01110100 01110010 01101001 01100011 01100001 01101100 00100000 01110011
  01101000 01101111 01110010 01110100 00101110}
 {211}{}{Lo siento, no te entiendo. Adiós.}
-{212}{}{Interesting. It seems you're only able to communicate using binary numbers. Hold on, if I write down what
- you're saying, I just might be able to figure this out.}
-{220}{}{[After a couple hours, you finally believe you've correctly translated the binary numbers. It appears he's
- saying "Help me! Electrical short."}
-{221}{}{Bueno, he malgastado la saliva. }
-{222}{}{An electrical short in the tape reel, huh? Alright, let's see if we can get you fixed.}
+{212}{}{Interesante. Parece que solamente puedes comunicarte usando numeros binarios. Espera,
+si escribo lo que dices, tal vez pueda encontrarle la vuelta a esto.}
+{220}{}{[Después de un par de horas, tu finalmente crees que tradujiste correctamente los números binarios. Aparentemente dice "Ayúdame! Corte eléctrico."}
+{221}{}{Bueno, eso fue divertido de decodificar. Nos vemos.}
+{222}{}{Un corte eléctrico en el rollo de cinta, eh? De acuerdo,veamos si podemos arreglarte.}
 {230}{}{01001000 01100101 01101100 01110000 00100000 01101101 01100101 00100001}
 {231}{}{Sólo pasaba a saludar. Nos vemos.}
 {232}{}{No te preocupes, nadie va a hacerte daño.}
