@@ -14,7 +14,7 @@
 {131}{}{This one looks fairly strong.}
 
 {140}{}{You see a man in tattered clothing.}
-{141}{}{He movements suggest on with speed.}
+{141}{}{He moves with suggesting speed.}
 
 # 3. Female Look - Nomad
 {150}{}{You see a very grimy woman.}
