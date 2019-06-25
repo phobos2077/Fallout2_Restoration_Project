@@ -56,7 +56,7 @@
 {150}{}{Typhon should have known that caps were useless these days. Shouldn't he?}
 {151}{}{Oh my GOD! It's crawling on me! HELP!}
 {152}{}{Y'know, it's really kind of sweet when you think about it. He really thought he was helping me out. Maybe I
- shouldn't be so hard on the old guy. ::sigh:: So much for the treasure. I've guess I've got places to go.}
+ shouldn't be so hard on the old guy. ::sigh:: So much for the treasure. I guess I've got places to go.}
 {153}{}{::Whimper...::}
 {154}{}{No care bout well no more.}
 {155}{}{Hmmmm... I keep having this feeling that I've forgotten something about the well. Oh well, no time to waste.}
