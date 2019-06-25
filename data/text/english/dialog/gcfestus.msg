@@ -98,7 +98,7 @@
 {270}{}{Okay, I'm here. But I'm still not sure that this isn't the right part, or that it's not a trap
  somehow. You know, I'm much too valuable to waste. Maybe I should just let someone else do this...
  later... much later.}
-{271}{}{It needs to be done now. And you're the only person that can do it right. Come on, all Gecko
+{271}{}{It needs to be done now. And you're the only person that can do it right. Come on, all of Gecko
  depends on you!}
 {272}{}{I guess you're right. I better find another way to install the part.}
 
