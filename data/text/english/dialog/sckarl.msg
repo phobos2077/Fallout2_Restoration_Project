@@ -22,13 +22,13 @@
 {121}{}{Tough guy, huh?}
 {122}{}{What're you going to do to him?}
 {123}{}{Say, I've heard of you haven't I? Yeah - some pretty good stuff. Look, there's some folks I know, they could use a fellow like you. Just go to the auto shop and ask for Elise. Tell her Karl sends his regards.}
-{124}{}{Work? The Stockmen's Association is looking for guards. Raiders been hitting the cattle drives hard again. And I heard that President Tandi's been looking for somebody "resourceful," as she puts it. That help?}
+{124}{}{Work? The Stockman's Association is looking for guards. Raiders been hitting the cattle drives hard again. And I heard that President Tandi's been looking for somebody "resourceful," as she puts it. That help?}
 {125}{}{Well, I've got some other questions.}
 {126}{}{Some. Thanks.}
 {127}{}{That's Officer Jack, stranger. One of our men. You haven't been talking to Mira, have you?}
 {128}{}{Yes.}
 {129}{}{Mira who?}
-{130}{}{That SOB? He's got a spread just outside town. Just take the road past Stockmen's.}
+{130}{}{That SOB? He's got a spread just outside town. Just take the road past Stockman's.}
 {131}{}{You don't like him much.}
 {132}{}{Well, I've got some other questions.}
 {133}{}{Thanks.}
