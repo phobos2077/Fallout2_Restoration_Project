@@ -104,8 +104,8 @@
 {280}{}{I love you, man.}
 {281}{}{You're the best.}
 {282}{}{Nuke Vault City 'til it glows!}
-{283}{}{./~99 syringes of RadAway on the wall, 99 syringes…. ./~}
-{284}{}{./~ I've been working on the re-act-or, all the live-long day…. ./~}
+{283}{}{./~99 syringes of RadAway on the wall, 99 syringes... ./~}
+{284}{}{./~ I've been working on the re-act-or, all the live-long day... ./~}
 {285}{}{Before you, I wouldn't trust a smoothskin at all.}
 {286}{}{I guess some of you smoothies are okay after all.}
 {287}{}{We ought to go get Chester to drink with us.}
