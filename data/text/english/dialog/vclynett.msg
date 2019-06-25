@@ -728,7 +728,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {727}{lyn122}{Roger Westin is probably the only honest man in the New Republic and sympathetic to our cause. }
 {728}{}{All right, I'll deliver the disk to him.}
 {729}{}{No thanks. I'm too busy right now.}
-{730}{lyn123}{Your patriotism will not go unrewarded. Now go. Time is of the essence.}
+{730}{lyn123}{Your patriotism will not go unrewarded. Go now. Time is of the essence.}
 {731}{}{Before I go, I had some other questions...}
 {732}{}{I'm on it.}
 {733}{}{You can count on me, First Citizen. I'll return after I have delivered the disk to Westin.}
