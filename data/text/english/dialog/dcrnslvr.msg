@@ -4,7 +4,7 @@
 {102}{}{You see a rather large slaver.}
 
 {150}{}{There's a slaver who seems to enjoy his work.}
-{151}{}{This slaver seems to be very strong but not to bright.}
+{151}{}{This slaver seems to be very strong but not too bright.}
 {152}{}{This slaver seems to be well-armed, like the others.}
 
 # 1. CF: Hostile Not Done - no kills
