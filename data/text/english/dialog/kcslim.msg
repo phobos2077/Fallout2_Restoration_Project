@@ -125,7 +125,7 @@
 {301}{}{What do you think happened to him?}
 
 {310}{}{Maybe he found where they come from and got all ate up. (heh, hee, hee) But I tell you one
- thing; Mrs. Buckner's heart just about broke when he didn't come back. You see, he was her beau. Mrs.
+ thing: Mrs. Buckner's heart just about broke when he didn't come back. You see, he was her beau. Mrs.
  Buckner runs Buckner house, y'know.}
 {311}{}{Interesting. Tell me something else.}
 {312}{}{That's all I need to know for now. Goodbye.}
