@@ -26,7 +26,7 @@
 {230}{}{[His eye goes wide and he lets out a low whistle.] The Chosen One, huh? Well color me impressed. Now let's say
  we get down to business. Tell me, friend, have you ever heard of a little item called... a stimpak? [As he dramatically
  speaks the last word, he produces a stimpak from his coat pocket and holds it up like a wondrous artifact.]}
-{240}{}{Whatever you say, friend. Now let's get down to business, shall we? Have you ever heard of little item called...
+{240}{}{Whatever you say, friend. Now let's get down to business, shall we? Have you ever heard of a little item called...
  a stimpak? [As he dramatically speaks the last word, he produces a stimpak from his coat pocket and holds it up like a
  wondrous artifact.]}
  
