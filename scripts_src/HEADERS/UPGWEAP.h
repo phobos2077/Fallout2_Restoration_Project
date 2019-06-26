@@ -29,10 +29,13 @@ procedure upgrade_weapon(variable oldPid, variable newPid) begin
       destroy_object(restock_obj);
    end
    restock_amt := 0;
+
    restock_obj := create_object(newPid, 0, 0);
-   if (ammoPid > 0) then set_weapon_ammo_pid(restock_obj, ammoPid);
-   set_weapon_ammo_count(restock_obj, ammoCnt);
-   add_mult_objs_to_inven(dude_obj, restock_obj, 1);
+   if (restock_obj) then begin
+      if (ammoPid > 0) then set_weapon_ammo_pid(restock_obj, ammoPid);
+      set_weapon_ammo_count(restock_obj, ammoCnt);
+      add_mult_objs_to_inven(dude_obj, restock_obj, 1);
+   end
 end
 
 #endif
