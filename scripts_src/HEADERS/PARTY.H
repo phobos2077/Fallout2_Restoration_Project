@@ -101,7 +101,7 @@ variable How_Many_Party_Members_Armed;
 #define Is_Armed(Who)                       (((obj_item_subtype(critter_inven_obj(Who,INVEN_TYPE_RIGHT_HAND))) == item_type_weapon))
 
 
-#define If_Party_Has_Injured                How_Many_Party_Members_Are_Injured := 0;			\
+#define If_Party_Has_Injured                How_Many_Party_Members_Are_Injured := 0;            \
                                             if (Vic_In_Party) then                              \
                                                 if (Is_Injured(Vic_Ptr)) then                   \
                                                     How_Many_Party_Members_Are_Injured+=1;      \

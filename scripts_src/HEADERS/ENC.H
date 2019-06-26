@@ -15,11 +15,11 @@ variable Enclave_Second;
 
 #define Show_Time(x,y)          if (x == 1) then                                                                                \
                                     if (y == 1) then                                                                            \
-                                        display_msg(x+message_str(SCRIPT_DEPOLV1,114)+y+message_str(SCRIPT_DEPOLV1,115));     \
+                                        display_msg(x+message_str(SCRIPT_DEPOLV1,114)+y+message_str(SCRIPT_DEPOLV1,115));       \
                                     else                                                                                        \
-                                        display_msg(x+message_str(SCRIPT_DEPOLV1,114)+y+message_str(SCRIPT_DEPOLV1,113));     \
+                                        display_msg(x+message_str(SCRIPT_DEPOLV1,114)+y+message_str(SCRIPT_DEPOLV1,113));       \
                                 else if (y == 1) then                                                                           \
-                                    display_msg(x+message_str(SCRIPT_DEPOLV1,112)+y+message_str(SCRIPT_DEPOLV1,115));         \
+                                    display_msg(x+message_str(SCRIPT_DEPOLV1,112)+y+message_str(SCRIPT_DEPOLV1,115));           \
                                 else                                                                                            \
                                     display_msg(x+message_str(SCRIPT_DEPOLV1,112)+y+message_str(SCRIPT_DEPOLV1,113))
 
@@ -27,7 +27,7 @@ variable Enclave_Second;
                                     Enclave_Countdown_Variable:=game_time - global_var(GVAR_ENCLAVE_COUNTDOWN);                 \
                                     if (Enclave_Countdown_Variable >= ENCLAVE_DESTRUCTION_TIME) then begin                      \
                                         play_gmovie(DERRICK_MOVIE);                                                             \
-                                        signal_end_game;                                                                         \
+                                        signal_end_game;                                                                        \
                                     end                                                                                         \
                                     else begin                                                                                  \
                                         Enclave_Minute:=(ENCLAVE_DESTRUCTION_TIME - Enclave_Countdown_Variable)/ONE_GAME_MINUTE;\

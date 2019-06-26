@@ -155,7 +155,7 @@
 #define TEAM_RND_GECKO                          (147)
 #define TEAM_NEW_RENO_RENESCO                   (148)
 #define TEAM_NEW_RENO_LLOYD                     (149)
-#define TEAM_RACIST                             (150) //citizens of Broken Hills that are racist towards mutants
+#define TEAM_RACIST                             (150) // citizens of Broken Hills that are racist towards mutants
 #define TEAM_RND_KNIGHTS                        (151)
 #define TEAM_REDDING                            (152)
 #define TEAM_NAVARRO                            (153)
@@ -216,14 +216,14 @@
 #define TEAM_RND_UVILLAGER                      (208)
 #define TEAM_RND_SPAMMER                        (209)
 #define TEAM_MUMMY_LOVERS                       (210) // Mummy Carnys in the Den
-#define TEAM_ABBEY			        	  		(211)
-#define TEAM_DEN_RES_ADDICTS					(212)
-#define TEAM_DEN_RES_DEALER						(213)
-#define TEAM_PRIMITIVE_TRIBE 					(214)
-#define TEAM_SLAVER_CAMP_SLAVERS 				(215)
-#define TEAM_SLAVER_CAMP_SLAVES 				(216)
-#define TEAM_HUBOLOGIST_STASH   	        	(217)
-#define TEAM_EPA_FLIES   	                	(218)
-#define TEAM_EPA_ROBOTS      	                (219)
+#define TEAM_ABBEY                              (211)
+#define TEAM_DEN_RES_ADDICTS                    (212)
+#define TEAM_DEN_RES_DEALER                     (213)
+#define TEAM_PRIMITIVE_TRIBE                    (214)
+#define TEAM_SLAVER_CAMP_SLAVERS                (215)
+#define TEAM_SLAVER_CAMP_SLAVES                 (216)
+#define TEAM_HUBOLOGIST_STASH                   (217)
+#define TEAM_EPA_FLIES                          (218)
+#define TEAM_EPA_ROBOTS                         (219)
 
 #endif // TEAMS_H

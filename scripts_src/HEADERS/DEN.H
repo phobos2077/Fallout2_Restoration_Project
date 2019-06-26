@@ -1,5 +1,5 @@
 /*
-	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+  Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
 #ifndef DEN_H
@@ -642,7 +642,7 @@ variable caught_thief;
 #define gangwar(x)                                 (global_var(GVAR_DEN_GANGWAR) == x)
 #define set_gangwar(x)                             if (x == state_gangwar_permission) then begin                              \
                                                       if (gangwar(state_gangwar_ask)) then begin                              \
-                                                         den_display_mstr(1400);                                                  \
+                                                         den_display_mstr(1400);                                              \
                                                          give_xp(EXP_PERMISSION_FROM_METZGER);                                \
                                                       end                                                                     \
                                                       set_metzger_permission;                                                 \
@@ -651,7 +651,7 @@ variable caught_thief;
                                                    end else if (x == state_gangwar_weakness) then begin                       \
                                                       start_gang_d_day_timer;                                                 \
                                                       if (gangwar(state_gangwar_find)) then begin                             \
-                                                         den_display_mstr(1300);                                                  \
+                                                         den_display_mstr(1300);                                              \
                                                          give_xp(EXP_FIND_GANG_WEAKNESS);                                     \
                                                       end                                                                     \
                                                    end else if (x == state_gangwar_2won) then begin /* Seraph: Changed state_gangwar_1won to state_gangwar_2won. Part of Haenlomal's gangwar fix. */ \
@@ -665,7 +665,7 @@ variable caught_thief;
                                                             inc_general_rep(REP_BONUS_BETRAY_LARA);                           \
                                                             den_display_mstr(300);                                            \
                                                             give_xp(EXP_GANG_BATTLE_BETRAY_LARA);                             \
-                                                         /* end */ /* Seraph: Part of Haenlomal's gangwar fix. */           \
+                                                         /* end */ /* Seraph: Part of Haenlomal's gangwar fix. */             \
                                                       end                                                                     \
                                                    end                                                                        \
                                                    if (x > global_var(GVAR_DEN_GANGWAR)) then                                 \
@@ -699,8 +699,8 @@ variable caught_thief;
 #define gang_2                                     (GVAR_DEN_GANG_2_COUNT)
 
 #define inc_gang_counter(the_gang)                 if (the_gang == gang_1) then begin                             \
-                                                      if (cur_map_index != MAP_DEN_RESIDENTIAL) then						\
-                                                         inc_global_var(gang_1);                                     \
+                                                      if (cur_map_index != MAP_DEN_RESIDENTIAL) then              \
+                                                         inc_global_var(gang_1);                                  \
                                                    end else if (cur_map_index == MAP_DEN_ENTRANCE) then begin     \
                                                       inc_global_var(gang_2);                                     \
                                                    end                                                            \
@@ -744,7 +744,7 @@ variable caught_thief;
                                                    dec_gang_counter(gang)
 */
 #define kill_gang_member(obj,gang)                 dest_gang_member;                                                           \
-                                                   destroy_object(self_obj);                                                                           \
+                                                   destroy_object(self_obj);                                                   \
 
 #define unlock_church_door                         if (church_door_obj != 0) then begin               \
                                                       if (obj_is_locked(church_door_obj)) then begin  \
@@ -772,9 +772,9 @@ variable caught_thief;
 
 #define dest_gang_member                           if (self_gang == gang_1) then begin                                     \
                                                       inc_evil_critter                                                     \
-                                                      /*if (NAME == SCRIPT_DCTYLER) then begin                               \
+                                                      /*if (NAME == SCRIPT_DCTYLER) then begin                             \
                                                          set_tyler_dead;                                                   \
-                                                      end*/                                                                  \
+                                                      end*/                                                                \
                                                       if (gang_1_member_1 == self_obj) then gang_1_member_1 := 0;          \
                                                       else if (gang_1_member_2 == self_obj) then gang_1_member_2 := 0;     \
                                                       else if (gang_1_member_3 == self_obj) then gang_1_member_3 := 0;     \
@@ -783,15 +783,15 @@ variable caught_thief;
                                                    end else if (self_gang == gang_2) then begin                            \
                                                       inc_good_critter                                                     \
                                                       if (gang_2_member_1 == self_obj) then begin gang_2_member_1 := 0;    \
-                                                      end else if (obj_pid(self_obj) == PID_GUN_GUARD_MALE)  then begin	   \
-                                                      	gang_2_member_2 := 0;     										   \
-                                                        set_gang_2_member_2_killed;										   \
+                                                      end else if (obj_pid(self_obj) == PID_GUN_GUARD_MALE)  then begin    \
+                                                        gang_2_member_2 := 0;                                              \
+                                                        set_gang_2_member_2_killed;                                        \
                                                       end else if (obj_pid(self_obj) == PID_MELEE_GUARD_MALE) then begin   \
-                                                      	gang_2_member_3 := 0;     										   \
-                                                        set_gang_2_member_3_killed;										   \
+                                                        gang_2_member_3 := 0;                                              \
+                                                        set_gang_2_member_3_killed;                                        \
                                                       end else if (obj_pid(self_obj) == PID_AGILE_GUARD_FEMALE) then begin \
-                                                      	gang_2_member_4 := 0;     										   \
-                                                        set_gang_2_member_4_killed;	                                       \
+                                                        gang_2_member_4 := 0;                                              \
+                                                        set_gang_2_member_4_killed;                                        \
                                                       end else if (gang_2_member_5 == self_obj) then gang_2_member_5 := 0; \
                                                    end                                                                     \
                                                    dec_gang_counter(self_gang)
@@ -843,16 +843,16 @@ variable the_follow_obj;
                                                       else if (gang_1_member_5 == 0) then gang_1_member_5 := self_obj;                  \
                                                    end else if (self_gang == gang_2) then begin                                         \
                                                       if (NAME == SCRIPT_DCLARA) then gang_2_member_1 := self_obj;                      \
-                                                      else if (obj_pid(self_obj) == PID_GUN_GUARD_MALE) then gang_2_member_2 := self_obj;                  \
-                                                      else if (obj_pid(self_obj) == PID_MELEE_GUARD_MALE) then gang_2_member_3 := self_obj;                  \
-                                                      else if (obj_pid(self_obj) == PID_AGILE_GUARD_FEMALE) then gang_2_member_4 := self_obj;                  \
-                                                      else if (gang_2_member_5 == 0) then gang_2_member_5 := self_obj;                  \
-                                                   end                                                                                  \
-												   check_set_obj_visiblility(self_obj, false);                                          \
+                                                      else if (obj_pid(self_obj) == PID_GUN_GUARD_MALE) then gang_2_member_2 := self_obj;        \
+                                                      else if (obj_pid(self_obj) == PID_MELEE_GUARD_MALE) then gang_2_member_3 := self_obj;      \
+                                                      else if (obj_pid(self_obj) == PID_AGILE_GUARD_FEMALE) then gang_2_member_4 := self_obj;    \
+                                                      else if (gang_2_member_5 == 0) then gang_2_member_5 := self_obj;                           \
+                                                   end                                                                                           \
+                                                      check_set_obj_visiblility(self_obj, false);                                       \
                                                    if (is_loading_game == false) then begin                                             \
                                                       if (cur_map_index == MAP_DEN_ENTRANCE) then begin                                 \
                                                          if ((gangwar(state_gangwar_1won)) or (gangwar(state_gangwar_2won))) then begin \
-                                                            /*dest_gang_member;                                                           */\
+                                                            /*dest_gang_member;  */                                                     \
                                                             destroy_object(self_obj);                                                   \
                                                          end                                                                            \
                                                       end else if (self_gang == gang_1) then begin                                      \
@@ -866,9 +866,9 @@ variable the_follow_obj;
                                                       end                                                                               \
                                                       if (map_first_run) then begin                                                     \
                                                          debug_msg("map__first_run"); \
-                                                         if ( (cur_map_index == MAP_DEN_BUSINESS) or (cur_map_index == MAP_DEN_ENTRANCE) ) then								    \
-                                                            debug_msg("inc gang counter"); \
-                                                            inc_gang_counter(self_gang);                                                   \
+                                                         if ( (cur_map_index == MAP_DEN_BUSINESS) or (cur_map_index == MAP_DEN_ENTRANCE) ) then   \
+                                                            debug_msg("inc gang counter");                                              \
+                                                            inc_gang_counter(self_gang);                                                \
                                                          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);      \
                                                          if (self_gang == gang_1) then begin                                            \
                                                             critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_GANG_1);   \
@@ -881,16 +881,16 @@ variable the_follow_obj;
                                                             set_local_var(LVAR_Home_Tile, self_tile);                                   \
                                                             set_local_var(LVAR_Home_Rotation, self_cur_rot);                            \
                                                          end                                                                            \
-                                                      end if ((gangwar(state_gangwar_in_fight))) then begin                               \
+                                                      end if ((gangwar(state_gangwar_in_fight))) then begin                             \
                                                          check_set_obj_visiblility(self_obj, false);                                    \
                                                          if (self_gang == gang_1) then begin                                            \
                                                             if (gang_trap(state_gang_trap_set)) then begin                              \
                                                                critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);    \
                                                             end else if ((global_var(self_gang) > (7 + (tyler_dead == false))) or ((NAME == SCRIPT_DCTYLER) and (cur_map_index == MAP_DEN_BUSINESS))) then begin   \
                                                                if (self_gang == gang_1) then begin                                      \
-                                                                  dest_gang_member;														\
-                                                                  check_set_obj_visiblility(self_obj, true);                                              \
-                                                               end																		\
+                                                                  dest_gang_member;                                                     \
+                                                                  check_set_obj_visiblility(self_obj, true);                            \
+                                                               end                                                                      \
                                                             end                                                                         \
                                                          end else if (self_gang == gang_2) then begin                                   \
                                                             if (gang_trap(state_gang_trap_no)) then begin                               \

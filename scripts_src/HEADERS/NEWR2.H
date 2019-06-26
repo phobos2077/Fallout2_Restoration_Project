@@ -15,6 +15,6 @@
 
 // All Map Vars need to start w/ MVAR_
 #define MVAR_STAIR_GUARD                         (0)
-#define MVAR_BISH_WOMEN			             (1)
+#define MVAR_BISH_WOMEN                          (1)
 
 #endif // NEWR2_H

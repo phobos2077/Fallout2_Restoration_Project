@@ -1,5 +1,5 @@
 /*
-	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+    Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
 #ifndef UPDATMAP_H
@@ -17,13 +17,13 @@
 */
 
 //new lighting values for RP - suggested by Josan12
-#define BRIGHT_LIGHT 					(90)
-#define CAVERN_LIGHT 					(40)
-#define DUSK_LIGHT 						(45)
-#define ENCLAVE_LIGHT 					(60)
-#define INDOOR_LIGHT 					(60)
-#define BASEMENT_LIGHT 					(40)
-#define MILITARY_BASE_LIGHTING 			(50)
+#define BRIGHT_LIGHT                    (90)
+#define CAVERN_LIGHT                    (40)
+#define DUSK_LIGHT                      (45)
+#define ENCLAVE_LIGHT                   (60)
+#define INDOOR_LIGHT                    (60)
+#define BASEMENT_LIGHT                  (40)
+#define MILITARY_BASE_LIGHTING          (50)
 
 #define WINTER_MORNING                  (700)
 #define SPRING_MORNING                  (600)
@@ -105,11 +105,11 @@
 #define CAR_ARROYO_HEX                      (27312)
 #define CAR_DENBUS1_HEX                     (11687)
 #define CAR_DENBUS2_HEX                     (29103)
-#define CAR_UNCLAIMED_HEX                   (24548)         // When you don't have the car
+#define CAR_UNCLAIMED_HEX                   (24548)  // When you don't have the car
 #define CAR_KLAMATH_HEX                     (25669)
 #define CAR_MODOC_HEX                       (24531)
 #define CAR_VAULT_CITY_HEX                  (28899)
-#define CAR_GECKO_HEX                       (25516)	   //edit by killap - was 25709
+#define CAR_GECKO_HEX                       (25516)  // edit by killap - was 25709
 #define CAR_BROKEN_HILLS_HEX                (17752)
 #define CAR_NEW_RENO1_HEX                   (25321)
 #define CAR_NEW_RENO2_HEX                   (9509)
@@ -133,10 +133,10 @@
 
 #define CAR_GHOST_TOWN_HEX                  (23951)
 #define CAR_ARROYO_DESTROYED_HEX            (27312)
-#define CAR_KLAMATH_TOXIC_CAVES_HEX         (18340)			//edit by killap - was 18341
+#define CAR_KLAMATH_TOXIC_CAVES_HEX         (18340)  // edit by killap - was 18341
 #define CAR_DEN_SLAVE_RUN_HEX               (26514)
 #define CAR_RAIDERS_CAMP_HEX_NORMAL         (25304)
-#define CAR_RAIDERS_CAMP_HEX_SECRET         (24089)			//edit by killap - was 21298
+#define CAR_RAIDERS_CAMP_HEX_SECRET         (24089)  // edit by killap - was 21298
 #define CAR_GOLGATHA_HEX                    (22500)
 #define CAR_CARAVAN_HEX                     (21307)
 #define CAR_CAR_OUTTA_GAS_HEX               (19100)
@@ -161,11 +161,11 @@
 #define CAR_RND_DESERT13_HEX                (17261)
 //#define CAR_RND_DESERT13_HEX                (17896)
 
-#define CAR_RND_MOUNTAIN1_HEX               (18881)			//edit by killap - was 17875
-#define CAR_RND_MOUNTAIN2_HEX               (18276)			//edit by killap - was 17876
+#define CAR_RND_MOUNTAIN1_HEX               (18881)  // edit by killap - was 17875
+#define CAR_RND_MOUNTAIN2_HEX               (18276)  // edit by killap - was 17876
 #define CAR_RND_MOUNTAIN3_HEX               (19478)
 #define CAR_RND_MOUNTAIN4_HEX               (19099)
-#define CAR_RND_MOUNTAIN5_HEX               (20877)			//edit by killap - was 20678
+#define CAR_RND_MOUNTAIN5_HEX               (20877)	 // edit by killap - was 20678
 #define CAR_RND_MOUNTAIN6_HEX               (20073)
 
 #define CAR_RND_CAVE1_HEX                   (26508)
@@ -221,21 +221,21 @@
 #define CAR_SLAVER_CAMP_HEX                 (22480)
 
 //Hubologist Stash
-#define HUBOLOGIST_STASH_HEX		    (27732)
+#define HUBOLOGIST_STASH_HEX                (27732)
 
 //Gecko Enclave Encounter
-#define GECKO_ENCLAVE_HEX		    (25326)
+#define GECKO_ENCLAVE_HEX                   (25326)
 
 //Vault Village
-#define CAR_VAULT_VILLAGE_HEX		    (27525)
+#define CAR_VAULT_VILLAGE_HEX               (27525)
 
 //Kaga Encounters
 
 //Ranger Safe houses
-#define CAR_RNGR_SAFE_HOUSE2		    (21894)
+#define CAR_RNGR_SAFE_HOUSE2                (21894)
 
 //RP Easter Egg Map
-#define CAR_RP_EASTER_EGG_HEX		    (23311)
+#define CAR_RP_EASTER_EGG_HEX               (23311)
 
 
 //Dr. Sheng Hideout

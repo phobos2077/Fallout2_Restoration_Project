@@ -116,7 +116,7 @@ variable global_temp;
                                                end                                                                                                                 \
                                             end
 
-#define next_and_face_obj(the_obj, the_type, the_rate)                                                                                                                       \
+#define next_and_face_obj(the_obj, the_type, the_rate)                                                                                                             \
                                              if (tile_distance_objs(self_obj, the_obj) > 1) then begin                                                             \
                                                 the_type(tile_num_in_direction(tile_num(the_obj), rotation_to_tile(tile_num(the_obj),tile_num(self_obj)), 1)); /* Seraph's Fix: 'the_type' only takes one argument. Thanks Rob! */\
                                              end else if (rotation_to_tile(tile_num(self_obj),tile_num(the_obj)) != self_cur_rot) then begin                       \
@@ -125,7 +125,7 @@ variable global_temp;
                                                 end                                                                                                                \
                                              end
 
-#define point_next_and_face_obj(the_obj, the_type, the_rate)                                                                                                                 \
+#define point_next_and_face_obj(the_obj, the_type, the_rate)                                                                                                       \
                                              if (tile_distance_objs(self_obj, the_obj) > 1) then begin                                                             \
                                                 the_type(tile_num_in_direction(tile_num(the_obj), rotation_to_tile(tile_num(the_obj),tile_num(self_obj)), 1)) /* Seraph's Fix: 'the_type' only takes one argument. Thanks Rob! */\
                                              end else if (rotation_to_tile(tile_num(self_obj),tile_num(the_obj)) != self_cur_rot) then begin                       \
@@ -156,22 +156,22 @@ variable global_temp;
 variable dest_tile;
 variable step_tile;
 #define FAIL_STEP_ACTION                           if (tile_get_next_critter(tile_num_in_direction(self_tile, self_cur_rot, 1), self_elevation, 0) != 0) then begin \
-                                                      simulate_push(tile_num_in_direction(self_tile, self_cur_rot, 1))                                                                                                 \
+                                                      simulate_push(tile_num_in_direction(self_tile, self_cur_rot, 1))                                              \
                                                    end else step_tile := -10;
 //#define FAIL_STEP_ACTION                           step_tile := -5;
-#define move_to_point(the_tile, move_type, x)                                                                                                                                    \
+#define move_to_point(the_tile, move_type, x)                                                                                                                                                   \
                                                    if ((self_tile != the_tile) and (the_tile != 0)) then begin                                                                                  \
                                                       if ((dest_tile == the_tile) and (step_tile < 0)) then begin                                                                               \
                                                          step_tile += 1;                                                                                                                        \
-						        						 debug_msg("step_tile: " + step_tile); \
+                                                         debug_msg("step_tile: " + step_tile);                                                                                                  \
                                                       end else if (anim_busy(self_obj) == false) then begin                                                                                     \
                                                          dest_tile := the_tile;                                                                                                                 \
                                                          step_tile := the_tile;                                                                                                                 \
                                                          animate_##move_type##_to_tile(step_tile);                                                                                              \
                                                          while ((anim_busy(self_obj) == false) and (((tile_distance(self_tile, the_tile)) >= (tile_distance(step_tile, the_tile))))) do begin   \
-							    							debug_msg("rot: " + rotation_to_tile(step_tile, self_tile)); \
+                                                            debug_msg("rot: " + rotation_to_tile(step_tile, self_tile));                                                                        \
                                                             step_tile := tile_num_in_direction(step_tile, rotation_to_tile(step_tile, self_tile), (x % tile_distance(step_tile, self_tile)));   \
-							    							debug_msg("step_var: " + step_tile); \
+                                                            debug_msg("step_var: " + step_tile);                                                                                                \
                                                             animate_##move_type##_to_tile(step_tile);                                                                                           \
                                                          end                                                                                                                                    \
                                                          if (anim_busy(self_obj) == false) then begin                                                                                           \
@@ -976,9 +976,9 @@ variable removed_qty;
                                  if (dude_sex_rating >= sex_rating_great) then begin               \
                                     set_global_var(GVAR_SEXPERT, 1);                               \
                                  end                                                               \
-                                 if (global_var(GVAR_DUDE_VIRGIN) == 1) then			   \
-				    set_global_var(GVAR_DUDE_VIRGIN,0);				   \
-				 inc_global_var_amt(GVAR_SEX_COUNTER, x)
+                                 if (global_var(GVAR_DUDE_VIRGIN) == 1) then                       \
+                                    set_global_var(GVAR_DUDE_VIRGIN,0);                            \
+                                    inc_global_var_amt(GVAR_SEX_COUNTER, x)
 #define up_sex_status            up_sex_status_amt(1)
 #define do_default_sex           advance_sex_time;    \
                                  up_sex_status
@@ -1112,9 +1112,9 @@ variable removed_qty;
 #define set_is_click                                  set_lvar_bit_off(LVAR_Flags, is_float_bit)
 #define create_out_of_business(tile, elev, pid)                                                                                                                       \
          if ((tile_contains_pid_obj(tile, elev, PID_OUT_OF_BUSINESS_NORTH) == 0) and (tile_contains_pid_obj(tile, elev, PID_OUT_OF_BUSINESS_EAST) == 0)) then begin   \
-            global_temp := create_object_sid(pid, 0, 0, SCRIPT_ZICLOSED);                                                                                                \
-            set_obj_visibility(global_temp,true);                                                                                                                        \
-            move_to(global_temp, tile, elev);                                                                                                                            \
+            global_temp := create_object_sid(pid, 0, 0, SCRIPT_ZICLOSED);                                                                                             \
+            set_obj_visibility(global_temp,true);                                                                                                                     \
+            move_to(global_temp, tile, elev);                                                                                                                         \
          end                                                                                                                                                          \
          debug_msg("created out of business @ tile == " + tile + " / elevation == " + elev)
 #define create_north_out_of_business(x, e)            create_out_of_business(x, e, PID_OUT_OF_BUSINESS_NORTH)

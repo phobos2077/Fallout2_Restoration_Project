@@ -401,7 +401,7 @@ variable reaction_bonus_karma:=0;
 /*
 #define GetReaction                     if (local_var(LVAR_got_reaction) == 0) then begin                                       \
                                             set_local_var(LVAR_got_reaction,1);                                                 \
-                                            set_local_var(LVAR_base_reaction,REACTION_NEUTRAL);                                      \
+                                            set_local_var(LVAR_base_reaction,REACTION_NEUTRAL);                                 \
                                         end                                                                                     \
                                         set_local_var(LVAR_reaction,(local_var(LVAR_reaction) + 5*(dude_charisma) - 25));       \
                                         set_local_var(LVAR_reaction,(local_var(LVAR_reaction) + 10*(dude_presence)));           \
@@ -422,7 +422,7 @@ variable reaction_bonus_karma:=0;
                                                 set_local_var(LVAR_reaction,(local_var(LVAR_reaction) - check_general_rep));    \
                                             end                                                                                 \
                                         end                                                                                     \
-                                        else if (Evil_Critter == 1) then begin                                  \
+                                        else if (Evil_Critter == 1) then begin                                                  \
                                             set_local_var(LVAR_reaction,(local_var(LVAR_reaction) - check_general_rep));        \
                                         end                                                                                     \
                                         else begin                                                                              \

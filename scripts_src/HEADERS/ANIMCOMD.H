@@ -109,7 +109,7 @@
 //#define ANIM_fire_dance_sf           (61)// doesn't exist, but keeps the enums ordered
 #define ANIM_fall_back_blood_sf      (62)
 #define ANIM_fall_front_blood_sf     (63)
-// called shot interface picture	 64
+// called shot interface picture     64
 #define ANIM_called_shot_pic         (64)
 #define ANIM_max_anim                (65)   // 65
 

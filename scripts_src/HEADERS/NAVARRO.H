@@ -43,17 +43,17 @@
 #define MVAR_Verti_Satellite_Alignment         (25)
 #define MVAR_Verti_Status                      (26)
 
-#define looking_for_navarro           ( f2_flag_any == f2_state_tribe_kidnapped ) or					\
-                                      ( shi_whirly( SH_WH_ACCEPTED ) ) or		\
-                                      ( elron_whirly( EL_WH_ACCEPTED ) ) or	\
+#define looking_for_navarro           ( f2_flag_any == f2_state_tribe_kidnapped ) or \
+                                      ( shi_whirly( SH_WH_ACCEPTED ) ) or            \
+                                      ( elron_whirly( EL_WH_ACCEPTED ) ) or          \
                                       ( san_fran_flag(SF_BROTHER_PLANS) )
 
 #define brotherhood_wants_plans       san_fran_flag(SF_BROTHER_PLANS)
 
 #define been_to_base                  (town_known(AREA_MILITARY_BASE) == MARK_STATE_VISITED)
 
-#define took_plans_quest              ( shi_whirly( SH_WH_ACCEPTED ) ) or		\
-                                      ( elron_whirly( EL_WH_ACCEPTED ) ) or	\
+#define took_plans_quest              ( shi_whirly( SH_WH_ACCEPTED ) ) or   \
+                                      ( elron_whirly( EL_WH_ACCEPTED ) ) or \
                                       ( san_fran_flag(SF_BROTHER_PLANS) )
 
 #define took_shi_quest                shi_whirly( SH_WH_ACCEPTED )
@@ -66,9 +66,9 @@
    #define not_alone                      ( ( true_party_size - K9_In_Party ) >= 1 )
 #endif
 
-#define not_wearing_power_armor       ( (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_POWERED_ARMOR) and			\
-                                        (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_HARDENED_POWER_ARMOR) and	\
-								            (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_ADVANCED_POWER_ARMOR) and   \
-		                                 (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_ADVANCED_POWER_ARMOR_MK2) )
+#define not_wearing_power_armor       ( (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_POWERED_ARMOR) and          \
+                                        (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_HARDENED_POWER_ARMOR) and   \
+                                        (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_ADVANCED_POWER_ARMOR) and   \
+                                        (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_ADVANCED_POWER_ARMOR_MK2) )
 
 #endif // NAVARRO_H

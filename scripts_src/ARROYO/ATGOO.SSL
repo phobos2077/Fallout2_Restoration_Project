@@ -67,7 +67,7 @@ begin
           else
              call pain;
      end
- end
+end
 
 procedure meltem begin
    //debug_msg("My Boots Protect Me!");

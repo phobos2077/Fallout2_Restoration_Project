@@ -35,7 +35,7 @@
                                        if (map_var(MVAR_Fannie_Mae) != FANNIE_CURED_DOC) then begin  \
                                           give_xp(EXP_CURED_FANNIE);                                 \
                                           inc_general_rep(REP_BONUS_CURED_FANNIE);                   \
-										  inc_global_var_amt(GVAR_TOWN_REP_REDDING, 5);              \
+                                          inc_global_var_amt(GVAR_TOWN_REP_REDDING, 5);              \
                                        end                                                           \
                                     end
 #define rehab_time                  map_var(MVAR_Rehab_Time)
@@ -48,48 +48,48 @@
 // End Seraph's Code
 
 //added by killap - moved out of rcgenpes.int
-#define assign_personality																			\
-   if (local_var(LVAR_Look_At) == 0) then begin														\
-       if ((Is_Child) and (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE)) then begin		\
-           set_local_var(LVAR_Look_At,random(205,212));												\
-           set_local_var(LVAR_Personality,Personality_Child);										\
-       end 																							\
-       else if (Is_Child) then begin																\
-           set_local_var(LVAR_Personality,Personality_Child);										\
-           set_local_var(LVAR_Look_At,random(207,214));												\
-       end																							\
-       else if ((In_Bar) and (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE)) then begin	\
-           set_local_var(LVAR_Look_At,random(123,127));												\
-           set_local_var(LVAR_Personality,Personality_Bar);											\
-       end																							\
-       else if (In_Bar) then begin																	\
-          set_local_var(LVAR_Look_At,random(128,132));												\
-           set_local_var(LVAR_Personality,Personality_Bar);											\
-       end																							\
-       else if ((In_Home) and (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE)) then begin	\
-           set_local_var(LVAR_Look_At,random(155,159));												\
-           set_local_var(LVAR_Personality,Personality_Home);										\
-       end																							\
-       else if (In_Home) then begin																	\
-           set_local_var(LVAR_Personality,Personality_Home);										\
-           set_local_var(LVAR_Look_At,random(160,164));												\
-       end																							\
-       else if (In_Mines) then begin																\
-           set_local_var(LVAR_Look_At,random(171,176));												\
-           set_local_var(LVAR_Personality,Personality_Mine);										\
-       end																							\
-       else if (In_Fights) then begin																\
-           set_local_var(LVAR_Look_At,random(183,188));												\
-           set_local_var(LVAR_Personality,Personality_Fights);										\
-       end																							\
-       else if (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE) then begin					\
-           set_local_var(LVAR_Look_At,random(100,104));												\
-           set_local_var(LVAR_Personality,Personality_Town);										\
-       end																							\
-       else begin																					\
-           set_local_var(LVAR_Look_At,random(105,109));												\
-           set_local_var(LVAR_Personality,Personality_Town);										\
-       end																							\
+#define assign_personality                                                                          \
+   if (local_var(LVAR_Look_At) == 0) then begin                                                     \
+      if ((Is_Child) and (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE)) then begin        \
+         set_local_var(LVAR_Look_At,random(205,212));                                               \
+         set_local_var(LVAR_Personality,Personality_Child);                                         \
+      end                                                                                           \
+      else if (Is_Child) then begin                                                                 \
+         set_local_var(LVAR_Personality,Personality_Child);                                         \
+         set_local_var(LVAR_Look_At,random(207,214));                                               \
+      end                                                                                           \
+      else if ((In_Bar) and (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE)) then begin     \
+         set_local_var(LVAR_Look_At,random(123,127));                                               \
+         set_local_var(LVAR_Personality,Personality_Bar);                                           \
+      end                                                                                           \
+      else if (In_Bar) then begin                                                                   \
+         set_local_var(LVAR_Look_At,random(128,132));                                               \
+         set_local_var(LVAR_Personality,Personality_Bar);                                           \
+      end                                                                                           \
+      else if ((In_Home) and (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE)) then begin    \
+         set_local_var(LVAR_Look_At,random(155,159));                                               \
+         set_local_var(LVAR_Personality,Personality_Home);                                          \
+      end                                                                                           \
+      else if (In_Home) then begin                                                                  \
+         set_local_var(LVAR_Personality,Personality_Home);                                          \
+         set_local_var(LVAR_Look_At,random(160,164));                                               \
+      end                                                                                           \
+      else if (In_Mines) then begin                                                                 \
+         set_local_var(LVAR_Look_At,random(171,176));                                               \
+         set_local_var(LVAR_Personality,Personality_Mine);                                          \
+      end                                                                                           \
+      else if (In_Fights) then begin                                                                \
+         set_local_var(LVAR_Look_At,random(183,188));                                               \
+         set_local_var(LVAR_Personality,Personality_Fights);                                        \
+      end                                                                                           \
+      else if (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE) then begin                    \
+         set_local_var(LVAR_Look_At,random(100,104));                                               \
+         set_local_var(LVAR_Personality,Personality_Town);                                          \
+      end                                                                                           \
+      else begin                                                                                    \
+         set_local_var(LVAR_Look_At,random(105,109));                                               \
+         set_local_var(LVAR_Personality,Personality_Town);                                          \
+      end                                                                                           \
    end
 //end added by killap
 

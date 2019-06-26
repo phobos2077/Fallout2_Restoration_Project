@@ -11,7 +11,7 @@
                                                             if (raiders_dead == false) then begin                 \
                                                                set_raiders_dead;                                  \
                                                                dec_family_counter_amt(family_bishop, 20);         \
-																		set_global_var( GVAR_RAIDERS_DEAD, 1 );            \
+                                                               set_global_var( GVAR_RAIDERS_DEAD, 1 );            \
                                                             end                                                   \
                                                          end else                                                 \
                                                             dec_global_var(GVAR_RAIDERS_COUNT)

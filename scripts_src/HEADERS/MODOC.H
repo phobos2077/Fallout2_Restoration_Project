@@ -10,7 +10,7 @@
 #define state_ghost_pip_message                       (2)
 #define state_ghost_pip_delivered_message             (3)
 #define state_ghost_pip_find_karl                     (4)
-#define state_ghost_pip_send_karl_home		      (5)
+#define state_ghost_pip_send_karl_home                (5)
 #define state_ghost_pip_complete                      (6)
 #define ghost_pip(x)                                  (global_var(GVAR_MODOC_GHOST_SEED_PIP) == x)
 #define set_ghost_pip(x)                              if (global_var(GVAR_MODOC_GHOST_SEED_PIP) < x) then set_global_var(GVAR_MODOC_GHOST_SEED_PIP, x); \

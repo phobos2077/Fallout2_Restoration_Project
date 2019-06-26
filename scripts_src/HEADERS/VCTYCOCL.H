@@ -18,10 +18,10 @@
 #define MVAR_Bribe                      (0)
 
 #define set_watcher(the_var)                 if (obj_is_visible_flag(self_obj)) then begin                                                              \
-	                                             if (the_var == 0) then begin                                                                            \
-	                                                the_var := self_obj;                                                                                 \
-                                                 end else if ((obj_can_see_obj(the_var, dude_obj) == false) or (is_critter_dead(the_var))) then begin    \
-                                                    the_var := self_obj;                                                                                 \
-                                                 end                                                                                                     \
+                                                if (the_var == 0) then begin                                                                            \
+                                                   the_var := self_obj;                                                                                 \
+                                                 end else if ((obj_can_see_obj(the_var, dude_obj) == false) or (is_critter_dead(the_var))) then begin   \
+                                                   the_var := self_obj;                                                                                 \
+                                                end                                                                                                     \
                                              end
 #endif // VCTYCOCL_H

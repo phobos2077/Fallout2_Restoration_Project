@@ -120,24 +120,24 @@ variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon 
                                 set_global_var(GVAR_KARMA_DEMON_SPAWN,0)
 
 #define CheckKarma              ClearReps;                                                                      \
-								tmp_gen_rep := check_general_rep;												\
-								if (has_trait(TRAIT_PERK,dude_obj,PERK_karma_beacon_perk)) then					\
-									tmp_gen_rep := check_general_rep * 2;										\
-                                if (tmp_gen_rep >= KARMA_HOLY_WARRIOR) then                               		\
+                                tmp_gen_rep := check_general_rep;                                               \
+                                if (has_trait(TRAIT_PERK,dude_obj,PERK_karma_beacon_perk)) then                 \
+                                  tmp_gen_rep := check_general_rep * 2;                                         \
+                                if (tmp_gen_rep >= KARMA_HOLY_WARRIOR) then                                     \
                                     set_global_var(GVAR_KARMA_HOLY_WARRIOR,1);                                  \
-                                else if (tmp_gen_rep >= KARMA_GUARDIAN_OF_THE_WASTES) then                		\
+                                else if (tmp_gen_rep >= KARMA_GUARDIAN_OF_THE_WASTES) then                      \
                                     set_global_var(GVAR_KARMA_GUARDIAN_OF_THE_WASTES,1);                        \
-                                else if (tmp_gen_rep >= KARMA_SHIELD_OF_HOPE) then                        		\
+                                else if (tmp_gen_rep >= KARMA_SHIELD_OF_HOPE) then                              \
                                     set_global_var(GVAR_KARMA_SHIELD_OF_HOPE,1);                                \
-                                else if (tmp_gen_rep >= KARMA_DEFENDER) then                              		\
+                                else if (tmp_gen_rep >= KARMA_DEFENDER) then                                    \
                                     set_global_var(GVAR_KARMA_DEFENDER,1);                                      \
-                                else if (tmp_gen_rep > KARMA_BETRAYER) then                               		\
+                                else if (tmp_gen_rep > KARMA_BETRAYER) then                                     \
                                     set_global_var(GVAR_KARMA_WANDERER,1);                                      \
-                                else if (tmp_gen_rep > KARMA_SWORD_OF_DESPAIR) then                       		\
+                                else if (tmp_gen_rep > KARMA_SWORD_OF_DESPAIR) then                             \
                                     set_global_var(GVAR_KARMA_BETRAYER,1);                                      \
-                                else if (tmp_gen_rep > KARMA_SCOURGE_OF_THE_WASTES) then                  		\
+                                else if (tmp_gen_rep > KARMA_SCOURGE_OF_THE_WASTES) then                        \
                                     set_global_var(GVAR_KARMA_SWORD_OF_DESPAIR,1);                              \
-                                else if (tmp_gen_rep > KARMA_DEMON_SPAWN) then                            		\
+                                else if (tmp_gen_rep > KARMA_DEMON_SPAWN) then                                  \
                                     set_global_var(GVAR_KARMA_SCOURGE_OF_THE_WASTES,1);                         \
                                 else                                                                            \
                                     set_global_var(GVAR_KARMA_DEMON_SPAWN,1)
@@ -607,8 +607,8 @@ variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon 
 #define REP_BONUS_VAULT_CONSIDERED_COMPANION_SALE (-3)
 #define REP_BONUS_VAULT_SOLD_COMPANION          (-10)
 #define REP_BONUS_VAULT_WANTED_BETTER_OFFER     (-3)
-#define REP_BONUS_MARTIN_STOP_SINGING		(-1)
-#define REP_BONUS_MARTIN_KEEP_SINGING		(1)
+#define REP_BONUS_MARTIN_STOP_SINGING           (-1)
+#define REP_BONUS_MARTIN_KEEP_SINGING           (1)
 #define REP_BONUS_VAULT_KILL_MONSTERS           (-15)
 #define REP_BONUS_VAULT_RM_VILLAGERS            (-20)
 #define REP_BONUS_SCREW_VILLAGE                 (-20)
@@ -616,7 +616,7 @@ variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon 
 #define REP_BONUS_REDDING_CURED_JET_NICE        (25)
 #define REP_BONUS_REDDING_CURED_JET_GREED       (15)
 #define REP_BONUS_BUST_MOORE                    (2)
-#define REP_BONUS_THREATENED_SKEEV					(-3)
+#define REP_BONUS_THREATENED_SKEEV              (-3)
 #define REP_BONUS_GAVE_TROY_FORMULA             (10)
 #define REP_BONUS_RECONCILED_VIC_AND_VAL        (3)
 #define REP_BONUS_BLACKMAIL_MOORE               (-3)
@@ -626,23 +626,23 @@ variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon 
 #define REP_BONUS_PHYLLIS_OUTSIDE               (3)
 
 // Broken Hills Rep bonuses
-#define REP_BONUS_CONSPIRACY_EXPOSED		(20)
-#define REP_BONUS_JAILBREAK_SUCCEEDS		      (-10)
-#define REP_BONUS_PURIFIER_DESTROYED		      (-50)
-#define REP_BONUS_PURIFIER_FIXED		         (20)
+#define REP_BONUS_CONSPIRACY_EXPOSED            (20)
+#define REP_BONUS_JAILBREAK_SUCCEEDS            (-10)
+#define REP_BONUS_PURIFIER_DESTROYED            (-50)
+#define REP_BONUS_PURIFIER_FIXED                (20)
 #define REP_BONUS_GAVE_BROKEN_HILLS_ORE         (15)
-#define REP_BONUS_MOCKED_DAN						(-5)
-#define REP_BONUS_CONSOLED_DAN						(5)
-#define REP_BONUS_REJECTED_DAN						(-10)
-#define REP_BONUS_GOT_ERIC_AC						(3)
-#define REP_BONUS_OPTIMIZED_POWER_GRID				(10)
-#define REP_BONUS_OFFERED_SULLIVAN_MONEY         (10)
-#define REP_BONUS_TYPHON_TOLD_TREASURE           (2)
-#define REP_BONUS_DIDNT_KILL_TYPHON              (2)
-#define REP_BONUS_REPLANTED_SEYMOUR              (2)
+#define REP_BONUS_MOCKED_DAN                    (-5)
+#define REP_BONUS_CONSOLED_DAN                  (5)
+#define REP_BONUS_REJECTED_DAN                  (-10)
+#define REP_BONUS_GOT_ERIC_AC                   (3)
+#define REP_BONUS_OPTIMIZED_POWER_GRID          (10)
+#define REP_BONUS_OFFERED_SULLIVAN_MONEY        (10)
+#define REP_BONUS_TYPHON_TOLD_TREASURE          (2)
+#define REP_BONUS_DIDNT_KILL_TYPHON             (2)
+#define REP_BONUS_REPLANTED_SEYMOUR             (2)
 
 // Raiders Rep Bonuses
-#define REP_BONUS_RAIDERS_DESTROYED              (10)
+#define REP_BONUS_RAIDERS_DESTROYED             (10)
 
 // Gecko related karma awards
 #define REP_BONUS_GC_PLANT_DESTROYED            (-30)

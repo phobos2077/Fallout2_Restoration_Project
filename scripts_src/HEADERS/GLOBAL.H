@@ -274,14 +274,14 @@
 #define GVAR_VAULT_PIP                       (401)
 #define GVAR_DR_TROY_STATUS                  (428)
 #define GVAR_VAULT_LYNETTE_STATUS            (436)
-#define GVAR_VC_MET_ED					     (463)
+#define GVAR_VC_MET_ED                       (463)
 #define GVAR_VAULT_USED_TEACHING_SYSTEM      (466)
-#define GVAR_VAULT_VAL_TOOLS				 (493)
-#define GVAR_VAULT_BOOZE_SMUGGLING		     (497)
+#define GVAR_VAULT_VAL_TOOLS                 (493)
+#define GVAR_VAULT_BOOZE_SMUGGLING           (497)
 #define GVAR_VAULT_STARK_RECON               (529)
-#define GVAR_FINISHED_STARK_RECON				(540)
-#define GVAR_VAULT_CITY_DESIGNER_NOTES			(541)
-#define GVAR_DROP_PLAYER_BY_VAULT_8		    (584)
+#define GVAR_FINISHED_STARK_RECON            (540)
+#define GVAR_VAULT_CITY_DESIGNER_NOTES       (541)
+#define GVAR_DROP_PLAYER_BY_VAULT_8          (584)
 
 #define GVAR_PIPBOY_TOUR_GUIDE               (404)
 #define GVAR_PIPBOY_CREDITS                  (405)
@@ -297,7 +297,7 @@
 #define GVAR_QUEST_FIND_THOMAS               (98)
 #define GVAR_QUEST_VAULT_SERVANT             (142)
 #define GVAR_QUEST_VAULT_VILLAGE             (143)
-#define GVAR_QUEST_JOSHUA					 (459)
+#define GVAR_QUEST_JOSHUA                    (459)
 
 // Broken Hills Information
 #define GVAR_BROKEN_HILLS_FRAUD              (147)
@@ -325,7 +325,7 @@
 #define GVAR_MARCUS_DEAD                     (526)
 #define GVAR_BH_POWER                        (542)
 #define GVAR_BROKEN_HILLS_CARAVAN_POOCH_SCREW (562)
-#define GVAR_CHAD_DEAD						   (563)
+#define GVAR_CHAD_DEAD                       (563)
 #define GVAR_ENEMY_BANK_GUARDS               (567)
 #define GVAR_TYPHON_QUEST_STATUS             (598)
 
@@ -675,7 +675,7 @@
 #define GVAR_ENEMY_VAULT_CITY               (137)
 #define GVAR_ENEMY_GECKO                    (238)
 #define GVAR_ENEMY_BROKEN_HILLS             (309)
-#define GVAR_ENEMY_VAULT_COURTYARD				(505)
+#define GVAR_ENEMY_VAULT_COURTYARD          (505)
 
 // Karma Titles
 #define GVAR_KARMA_HOLY_WARRIOR             (37)
@@ -693,7 +693,7 @@
 #define GVAR_RUNNING_BURNING_GUY            (28)
 #define GVAR_MAP_EXIT_TILE                  (46)
 #define GVAR_MAP_NEXT_TILE                  (67)
-#define GVAR_DUDE_STOMACH                  (104)
+#define GVAR_DUDE_STOMACH                   (104)
 #define GVAR_MUTATE                         (132)
 #define GVAR_MUTATE_WHEN                    (133)
 #define GVAR_HAVE_MUTATED                   (192)
@@ -981,7 +981,7 @@
 #define QUEST_DEFAULT_SOLVE                 (8)
 
 #define PERSON_KNOWN                        bit_1
-#define PERSN_ATTACKED                     bit_2
+#define PERSN_ATTACKED                      bit_2
 #define PERSON_KILLED                       bit_3
 #define PERSON_ASSASSINATED                 bit_4
 #define PERSON_IN_PARTY                     bit_5
@@ -1050,11 +1050,11 @@
 #define SUPER_REPAIR_KIT_SUCCESS            (2)
 
 //GVAR_GECKO_FIND_WOODY (GECKO)
-#define WOODY_UNKNOWN						  (0)
-#define WOODY_ACCEPTED						  (1)
-#define WOODY_REFUSED						  (2)
-#define WOODY_FOUND  						  (3)
-#define WOODY_REWARDED  						  (4)
+#define WOODY_UNKNOWN                       (0)
+#define WOODY_ACCEPTED                      (1)
+#define WOODY_REFUSED                       (2)
+#define WOODY_FOUND                         (3)
+#define WOODY_REWARDED                      (4)
 
 //GVAR_QUEST_RESCUE_TORR (KLAMATH)
 #define TORR_RESCUE_ACCEPT                  (1)
@@ -1075,8 +1075,8 @@
 #define TORR_GUARD_FAIL                     (3)
 
 //GVAR_KLAMATH_FIND_RUSTLERS -added by killap
-#define FIND_RUSTLERS_ACCEPT		     (1)
-#define FIND_RUSTLERS_SUCCESS		     (2)
+#define FIND_RUSTLERS_ACCEPT                (1)
+#define FIND_RUSTLERS_SUCCESS               (2)
 
 //GVAR_SMILEY_STATUS (KLAMATH)
 #define SMILEY_QUEST_ACCEPTED               (1)
@@ -1149,18 +1149,18 @@
 #define VENT_KNOWN                          (1)
 #define VENT_REPAIRED                       (2)
 
-#define ED_UNKNOWN							(0)
-#define ED_KNOWN							(1)
+#define ED_UNKNOWN                          (0)
+#define ED_KNOWN                            (1)
 
-#define BOOTLEG_UNKNOWN						(0)
-#define BOOTLEG_ASSIGNED					(1)
-#define BOOTLEG_DELIVERED					(2)
+#define BOOTLEG_UNKNOWN                     (0)
+#define BOOTLEG_ASSIGNED                    (1)
+#define BOOTLEG_DELIVERED                   (2)
 
-#define RECON_UNKNOWN			(0)
-#define RECON_GECKO_ASSIGNED	(1)
-#define RECON_GECKO_DONE			(2)
-#define RECON_NCR_ASSIGNED		(3)
-#define RECON_NCR_DONE			(4)
+#define RECON_UNKNOWN                       (0)
+#define RECON_GECKO_ASSIGNED                (1)
+#define RECON_GECKO_DONE                    (2)
+#define RECON_NCR_ASSIGNED                  (3)
+#define RECON_NCR_DONE                      (4)
 
 // GVAR_VAULT_PIP
 #define PIP_FOUND                           (1)
@@ -1231,7 +1231,7 @@
 #define HOLODISK_ACCEPTED                   (1)
 #define HOLODISK_DECLINED                   (2)
 #define HOLODISK_DELIVERED                  (3)
-#define HOLODISK_DONE			    (4)
+#define HOLODISK_DONE                       (4)
 
 // GVAR_DR_TROY_STATUS
 #define TROY_EXILED                         (1)
@@ -1249,14 +1249,14 @@
 #define JET_SOURCE_CURE_KNOWN               (3)
 #define JET_SOURCE_CURE_MADE                (4)
 
-#define JOSHUA_UNKNOWN						(0)
-#define JOSHUA_ASSIGNED						(1)
-#define	JOSHUA_FREED						(2)
-#define	JOSHUA_REWARDED						(3)
+#define JOSHUA_UNKNOWN                      (0)
+#define JOSHUA_ASSIGNED                     (1)
+#define JOSHUA_FREED                        (2)
+#define JOSHUA_REWARDED                     (3)
 
-#define VAL_TOOLS_UNKNOWN					(0)
-#define VAL_TOOLS_ASSIGNED					(1)
-#define VAL_TOOLS_DONE						(2)
+#define VAL_TOOLS_UNKNOWN                   (0)
+#define VAL_TOOLS_ASSIGNED                  (1)
+#define VAL_TOOLS_DONE                      (2)
 
 #define RAIDERS_PROBLEM_KNOWN               (1)
 #define RAIDERS_ACCEPTED_QUEST              (2)
@@ -1279,7 +1279,7 @@
 #define SIERRA_ALERT_OFF                    (0)
 #define SIERRA_ALERT_ON                     (1)
 
-#define SIERRA_PASSOWRD_UNKNOWN            (0)
+#define SIERRA_PASSOWRD_UNKNOWN             (0)
 #define SIERRA_PASSWORD_KNOWN               (1)
 
 #define SIERRA_SECURITY_OFF                 (0)
@@ -1302,7 +1302,7 @@
 #define REQ_FORM_GIVEN                      (2)
 #define REQ_FORM_JEREMY                     (3)
 
-#define SKEETER_ASKED                      (1)
+#define SKEETER_ASKED                       (1)
 #define SKEETER_RECEIVED                    (2)
 
 #define FESTUS_CHICKEN                      (1)
@@ -1316,8 +1316,8 @@
 
 #define MCCLURE_UNKNOWN                     (0)
 #define MCCLURE_KNOWN                       (1)
-#define MCCLURE_CONVINCED					(2)
-#define MCCLURE_APPROVAL					(3)
+#define MCCLURE_CONVINCED                   (2)
+#define MCCLURE_APPROVAL                    (3)
 
 #define DOWNLOAD_HOLODISK                   (1)
 
@@ -1366,24 +1366,24 @@
 #define JAIL_STEALTH                        (4)
 #define JAIL_FORCE                          (5)
 #define JAIL_CHARISMA                       (6)
-#define JAIL_DOUBLECROSS					     (7)
-#define JAIL_COINCIDENTAL    			     (8)
+#define JAIL_DOUBLECROSS                    (7)
+#define JAIL_COINCIDENTAL                   (8)
 
 #define CONSPIRACY_BEGUN                    (1)
 #define CONSPIRACY_QUESTIONED               (2)
 #define CONSPIRACY_REJECTED                 (3)
 #define CONSPIRACY_ACCEPTED                 (4)
 #define CONSPIRACY_SUCCESSFUL               (5)
-#define CONSPIRACY_FAILED					(6)
+#define CONSPIRACY_FAILED                   (6)
 #define CONSPIRACY_BROKEN_DOUBLECROSS       (7)
-#define CONSPIRACY_BROKEN_HERO		        (8)
+#define CONSPIRACY_BROKEN_HERO              (8)
 
 #define MISSING_BEGUN                       (1)
 #define MISSING_ACCEPT_CASH                 (2)
 #define MISSING_ACCEPT_FREE                 (3)
 #define MISSING_REJECT                      (4)
-#define MISSING_TUNNELS_CASH				(5)
-#define MISSING_TUNNELS_FREE				(6)
+#define MISSING_TUNNELS_CASH                (5)
+#define MISSING_TUNNELS_FREE                (6)
 #define MISSING_DISCOVERED_CASH             (7)
 #define MISSING_DISCOVERED_FREE             (8)
 #define MISSING_FINISHED_CASH               (9)
@@ -1401,13 +1401,13 @@
 #define MINING_SOLD                         (2)
 #define MINING_RETURNED                     (3)
 
-#define POWER_UNKNOWN						  (0)
-#define POWER_KNOWN							  (1)
-#define POWER_REJECTED						  (2)
-#define POWER_ACCEPTED						  (3)
-#define POWER_TALKED_WITH_BRIAN				  (4)
-#define POWER_TALKED_WITH_ERIC				  (5)
-#define POWER_DONE							  (6)
+#define POWER_UNKNOWN                       (0)
+#define POWER_KNOWN                         (1)
+#define POWER_REJECTED                      (2)
+#define POWER_ACCEPTED                      (3)
+#define POWER_TALKED_WITH_BRIAN             (4)
+#define POWER_TALKED_WITH_ERIC              (5)
+#define POWER_DONE                          (6)
 
 #define TYPHON_UNKNOWN                      (0)
 #define TYPHON_GET_MAGAZINE                 (1)
@@ -1484,11 +1484,11 @@
 #define WANAMINGO_CLEARED_OUT               (2)
 
 //CLEAR OUT MINE
-#define DEED_ACCEPTED                       (1)	//killap's code
-#define CLEARED_MINE                        (2)	//killap's code
+#define DEED_ACCEPTED                       (1) //killap's code
+#define CLEARED_MINE                        (2) //killap's code
 
 //WIDOW ROONEY
-#define WIDOW_JOB_ACCEPTED                  (1)	//killap's code
+#define WIDOW_JOB_ACCEPTED                  (1) //killap's code
 
 // GVAR_BAR_BRAWL
 #define BRAWL_JOB_ACCEPTED                  (1)
@@ -1509,7 +1509,7 @@
 // Morton brothers
 #define MORTON_TOAD_HUNTING                 (1)
 #define MORTON_TOAD_DEAD                    (2)
-#define MORTON_NEWT_HUNTING                (3)
+#define MORTON_NEWT_HUNTING                 (3)
 #define MORTON_NEWT_DEAD                    (4)
 #define MORTON_SNAKE_HUNTING                (5)
 #define MORTON_SNAKE_DEAD                   (6)

@@ -15,10 +15,10 @@
 
 // All Map Vars need to start w/ MVAR_
 
-#define MVAR_Said_4							(0)
-#define MVAR_Said_8							(1)
-#define MVAR_Gave_XP       					(2)
-#define MVAR_Martin_Sees_Lockpick			(3)
-#define MVAR_Martin_In_Area					(4)
+#define MVAR_Said_4                         (0)
+#define MVAR_Said_8                         (1)
+#define MVAR_Gave_XP                        (2)
+#define MVAR_Martin_Sees_Lockpick           (3)
+#define MVAR_Martin_In_Area                 (4)
 
 #endif // VCTYVLT_H
