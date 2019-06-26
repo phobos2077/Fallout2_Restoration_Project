@@ -286,6 +286,8 @@ procedure timed_event_p_proc begin
          Cut_Scene_State := 0;
          Allow_Floats := 1;
          set_global_var( GVAR_DROP_PLAYER_BY_VAULT_8, 1 );
+         move_to(self_obj, 29704, 0);
+         anim(self_obj, 1000, 2);
          load_map( MAP_VAULT_CITY_VAULT, 0 );
       end
    end
