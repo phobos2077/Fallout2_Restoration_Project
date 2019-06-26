@@ -9,7 +9,7 @@ import variable becky_door_obj;
 variable check_guard;
 variable user_of_door;
 
-#define LOCKED_STATUS                   (((becky_dead == false) * STATE_ACTIVE) + (becky_dead * STATE_INACTIVE))
+#define LOCKED_STATUS                   ((STATE_ACTIVE * (becky_dead == false)) + (STATE_INACTIVE * becky_dead))
 
 #define send_tamper_to_guard_who_sees                                                                    \
          check_guard := 0;                                                                               \

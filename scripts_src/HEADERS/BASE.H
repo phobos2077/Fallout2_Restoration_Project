@@ -51,10 +51,10 @@
                                      (tile_contains_pid_obj((x), self_elevation, PET_3_PID) != 0) or     \
                                      (tile_contains_pid_obj((x), self_elevation, PET_4_PID) != 0) or     \
                                      (tile_contains_pid_obj((x), self_elevation, PID_MELCHOIR) != 0))
-#define pid_to_mvar_num(x)          ((((x) == PET_1_PID) * MVAR_MELCHIOR_PET_NUM_1) +     \
-                                     (((x) == PET_2_PID) * MVAR_MELCHIOR_PET_NUM_2) +     \
-                                     (((x) == PET_3_PID) * MVAR_MELCHIOR_PET_NUM_3) +     \
-                                     (((x) == PET_4_PID) * MVAR_MELCHIOR_PET_NUM_4))
+#define pid_to_mvar_num(x)          ((MVAR_MELCHIOR_PET_NUM_1 * ((x) == PET_1_PID)) +     \
+                                     (MVAR_MELCHIOR_PET_NUM_2 * ((x) == PET_2_PID)) +     \
+                                     (MVAR_MELCHIOR_PET_NUM_3 * ((x) == PET_3_PID)) +     \
+                                     (MVAR_MELCHIOR_PET_NUM_4 * ((x) == PET_4_PID)))
 #define pid_to_ai(x)                ((((x) == PET_1_PID) * PET_1_AI) +       \
                                      (((x) == PET_2_PID) * PET_2_AI) +       \
                                      (((x) == PET_3_PID) * PET_3_AI) +       \

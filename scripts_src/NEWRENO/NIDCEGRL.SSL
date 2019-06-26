@@ -82,12 +82,12 @@ procedure Node017;
 // settings end
 
 // macros
-#define get_dice_penalty(x)               (((bet_amt == level_1_bet)*level_1_penalty) +   \
-                                           ((bet_amt == level_2_bet)*level_2_penalty) +   \
-                                           ((bet_amt == level_3_bet)*level_3_penalty) +   \
-                                           ((bet_amt == level_4_bet)*level_4_penalty) +   \
-                                           ((bet_amt == level_5_bet)*level_5_penalty) +   \
-                                           (x*-20))
+#define get_dice_penalty(x)               ((level_1_penalty * (bet_amt == level_1_bet)) +   \
+                                           (level_2_penalty * (bet_amt == level_2_bet)) +   \
+                                           (level_3_penalty * (bet_amt == level_3_bet)) +   \
+                                           (level_4_penalty * (bet_amt == level_4_bet)) +   \
+                                           (level_5_penalty * (bet_amt == level_5_bet)) +   \
+                                           (x *- 20))
 #define dice_roll(x)                      (roll_vs_skill(dude_obj, SKILL_GAMBLING, get_dice_penalty(x)))
 #define dice_mstr(x)                      message_str(SCRIPT_ZIDCEGRL, x)
 #define dice_floater(x)                   float_msg(self_obj, dice_mstr(x), FLOAT_COLOR_NORMAL)

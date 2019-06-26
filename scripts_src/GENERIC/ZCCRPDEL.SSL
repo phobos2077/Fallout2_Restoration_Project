@@ -1608,8 +1608,8 @@ end
 
 #define NODEODDSTAKE(x, name, odds)                               \
 procedure NOdds##name##x  begin                                   \
-   set_local_var(getOddsVar(x), local_var(getNumVar(x)) * odds);  \
-   call Node001;                                                   \
+   set_local_var(getOddsVar(x), odds * local_var(getNumVar(x)));  \
+   call Node001;                                                  \
 end
 
 NODEODDSTAKE(4, 0, ODDS0)
