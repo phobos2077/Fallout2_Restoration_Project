@@ -1464,7 +1464,7 @@ variable check_still_kill;
                                                             global_temp := get_pc_extra_stat(STAT_dmg_resist) + 5;               \
                                                             set_pc_extra_stat(STAT_dmg_resist, global_temp);                     \
                                                             set_global_var(GVAR_NEW_RENO_HAS_REP_PRIZEFIGHTER, 1);               \
-                                                             display_msg(nr_mstr(1404));                                         \
+                                                            display_msg(nr_mstr(1404));                                          \
                                                          end                                                                     \
                                                       end                                                                        \
                                                       debug_msg("inc_fight_level == " + fight_level)

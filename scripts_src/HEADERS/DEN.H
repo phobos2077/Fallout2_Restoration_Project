@@ -461,7 +461,7 @@
 // den_flags_3 start
 #define know_church_bit                            bit_1
 #define anna_spoken_bit                            bit_2
-//#define joey_dead_bit                            bit_3
+//#define joey_dead_bit                              bit_3
 #define gave_fred_winnings_bit                     bit_4
 #define cleared_unclaimed_car_bit                  bit_5
 #define gang_1_hostile_bit                         bit_6
