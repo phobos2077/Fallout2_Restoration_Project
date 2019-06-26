@@ -493,6 +493,8 @@ procedure Node013 begin
    Reply(149);
    NOption(150, Node008, 4);
    NOption(151, Node999, 4);
+   NLowOption(147, Node008); //added by NovaRain
+   NLowOption(120, Node999); //added by NovaRain
 end
 
 procedure NodeSell begin
