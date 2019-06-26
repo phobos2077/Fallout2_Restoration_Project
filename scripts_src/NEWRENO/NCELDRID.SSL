@@ -39,6 +39,7 @@
 #include "..\headers\command.h"
 #include "..\headers\ModReact.h"
 #include "..\headers\NewReno.h"
+#include "..\headers\UpgWeap.h"
 
 /* Standard Script Procedures */
 procedure start;
@@ -406,8 +407,7 @@ procedure Node987 begin
 //final weapon/money check added by killap
    if ((obj_is_carrying_obj_pid(dude_obj, PID_44_MAGNUM_REVOLVER)) and (dude_caps >= MCOST)) then begin
       give_eldridge_money(MCOST);
-      remove_pid_qty(dude_obj, PID_44_MAGNUM_REVOLVER, 1)
-      give_pid_qty(dude_obj, PID_44_MAGNUM_SPEEDLOADER, 1)
+      call upgrade_weapon(PID_44_MAGNUM_REVOLVER, PID_44_MAGNUM_SPEEDLOADER);
       call Node014;
    end
    else if ((dude_caps < MCOST)) then begin
@@ -424,8 +424,7 @@ procedure Node986 begin
 //final weapon/money check added by killap
    if ((obj_is_carrying_obj_pid(dude_obj, PID_DESERT_EAGLE)) and (dude_caps >= DECOST)) then begin
       give_eldridge_money(DECOST);
-      remove_pid_qty(dude_obj, PID_DESERT_EAGLE, 1)
-      give_pid_qty(dude_obj, PID_DESERT_EAGLE_EXT_MAG, 1)
+      call upgrade_weapon(PID_DESERT_EAGLE, PID_DESERT_EAGLE_EXT_MAG);
       call Node014;
    end
    else if ((dude_caps < DECOST)) then begin
@@ -442,8 +441,7 @@ procedure Node985 begin
 //final weapon/money check added by killap
    if ((obj_is_carrying_obj_pid(dude_obj, PID_HUNTING_RIFLE)) and (dude_caps >= HRCOST)) then begin
       give_eldridge_money(HRCOST);
-      remove_pid_qty(dude_obj, PID_HUNTING_RIFLE, 1)
-      give_pid_qty(dude_obj, PID_SCOPED_HUNTING_RIFLE, 1)
+      call upgrade_weapon(PID_HUNTING_RIFLE, PID_SCOPED_HUNTING_RIFLE);
       call Node014;
    end
    else if ((dude_caps < HRCOST)) then begin
@@ -460,8 +458,7 @@ procedure Node984 begin
 //final weapon/money check added by killap
    if ((obj_is_carrying_obj_pid(dude_obj, PID_ASSAULT_RIFLE)) and (dude_caps >= ARCOST)) then begin
       give_eldridge_money(ARCOST);
-      remove_pid_qty(dude_obj, PID_ASSAULT_RIFLE, 1)
-      give_pid_qty(dude_obj, PID_ASSAULT_RIFLE_EXT_MAG, 1)
+      call upgrade_weapon(PID_ASSAULT_RIFLE, PID_ASSAULT_RIFLE_EXT_MAG);
       call Node014;
    end
    else if ((dude_caps < ARCOST)) then begin
@@ -478,8 +475,7 @@ procedure Node983 begin
 //final weapon/money check added by killap
    if ((obj_is_carrying_obj_pid(dude_obj, PID_FN_FAL)) and (dude_caps >= FNCOST)) then begin
       give_eldridge_money(FNCOST);
-      remove_pid_qty(dude_obj, PID_FN_FAL, 1)
-      give_pid_qty(dude_obj, PID_FN_FAL_NIGHT_SCOPE, 1)
+      call upgrade_weapon(PID_FN_FAL, PID_FN_FAL_NIGHT_SCOPE);
       call Node014;
    end
    else if ((dude_caps < FNCOST)) then begin
@@ -496,8 +492,7 @@ procedure Node982 begin
 //final weapon/money check added by killap
    if ((obj_is_carrying_obj_pid(dude_obj, PID_CATTLE_PROD)) and (dude_caps >= CPCOST)) then begin
       give_eldridge_money(CPCOST);
-      remove_pid_qty(dude_obj, PID_CATTLE_PROD, 1)
-      give_pid_qty(dude_obj, PID_SUPER_CATTLE_PROD, 1)
+      call upgrade_weapon(PID_CATTLE_PROD, PID_SUPER_CATTLE_PROD);
       call Node014;
    end
    else if ((dude_caps < CPCOST)) then begin

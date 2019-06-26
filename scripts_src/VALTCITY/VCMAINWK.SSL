@@ -33,6 +33,7 @@
 
 #include "..\headers\command.h"
 #include "..\headers\ModReact.h"
+#include "..\headers\UpgWeap.h"
 
 
 /* Standard Script Procedures */
@@ -755,11 +756,7 @@ procedure Node034a begin
    item_caps_adjust( dude_obj, -800 );
 
    // Remove old weapon, add new.
-   weapon := obj_carrying_pid_obj( dude_obj, PID_44_MAGNUM_REVOLVER );
-   rm_obj_from_inven( dude_obj, weapon );
-   destroy_object( weapon );
-   weapon := create_object( PID_44_MAGNUM_SPEEDLOADER, 0, 0 );
-   add_obj_to_inven( dude_obj, weapon );
+   call upgrade_weapon(PID_44_MAGNUM_REVOLVER, PID_44_MAGNUM_SPEEDLOADER);
 
    call Node037;
 end
@@ -771,11 +768,7 @@ procedure Node034b begin
    item_caps_adjust( dude_obj, -650 );
 
    // Remove old weapon, add new.
-   weapon := obj_carrying_pid_obj( dude_obj, PID_44_MAGNUM_REVOLVER );
-   rm_obj_from_inven( dude_obj, weapon );
-   destroy_object( weapon );
-   weapon := create_object( PID_44_MAGNUM_SPEEDLOADER, 0, 0 );
-   add_obj_to_inven( dude_obj, weapon );
+   call upgrade_weapon(PID_44_MAGNUM_REVOLVER, PID_44_MAGNUM_SPEEDLOADER);
 
    call Node037;
 end
@@ -786,11 +779,7 @@ procedure Node034c begin
    item_caps_adjust( dude_obj, -1000 );
 
    // Remove old weapon, add new.
-   weapon := obj_carrying_pid_obj( dude_obj, PID_DESERT_EAGLE );
-   rm_obj_from_inven( dude_obj, weapon );
-   destroy_object( weapon );
-   weapon := create_object( PID_DESERT_EAGLE_EXT_MAG, 0, 0 );
-   add_obj_to_inven( dude_obj, weapon );
+   call upgrade_weapon(PID_DESERT_EAGLE, PID_DESERT_EAGLE_EXT_MAG);
 
    call Node037;
 end
@@ -802,11 +791,7 @@ procedure Node034d begin
    item_caps_adjust( dude_obj, -850 );
 
    // Remove old weapon, add new.
-   weapon := obj_carrying_pid_obj( dude_obj, PID_DESERT_EAGLE );
-   rm_obj_from_inven( dude_obj, weapon );
-   destroy_object( weapon );
-   weapon := create_object( PID_DESERT_EAGLE_EXT_MAG, 0, 0 );
-   add_obj_to_inven( dude_obj, weapon );
+   call upgrade_weapon(PID_DESERT_EAGLE, PID_DESERT_EAGLE_EXT_MAG);
 
    call Node037;
 end
@@ -841,11 +826,7 @@ procedure Node035a begin
    item_caps_adjust( dude_obj, -1500 );
 
    // Remove old weapon, add new.
-   weapon := obj_carrying_pid_obj( dude_obj, PID_ASSAULT_RIFLE );
-   rm_obj_from_inven( dude_obj, weapon );
-   destroy_object( weapon );
-   weapon := create_object( PID_ASSAULT_RIFLE_EXT_MAG, 0, 0 );
-   add_obj_to_inven( dude_obj, weapon );
+   call upgrade_weapon(PID_ASSAULT_RIFLE, PID_ASSAULT_RIFLE_EXT_MAG);
 
    call Node037;
 end
@@ -857,11 +838,7 @@ procedure Node035b begin
    item_caps_adjust( dude_obj, -1350 );
 
    // Remove old weapon, add new.
-   weapon := obj_carrying_pid_obj( dude_obj, PID_ASSAULT_RIFLE );
-   rm_obj_from_inven( dude_obj, weapon );
-   destroy_object( weapon );
-   weapon := create_object( PID_ASSAULT_RIFLE_EXT_MAG, 0, 0 );
-   add_obj_to_inven( dude_obj, weapon );
+   call upgrade_weapon(PID_ASSAULT_RIFLE, PID_ASSAULT_RIFLE_EXT_MAG);
 
    call Node037;
 end
@@ -872,11 +849,7 @@ procedure Node035c begin
    item_caps_adjust( dude_obj, -3500 );
 
    // Remove old weapon, add new.
-   weapon := obj_carrying_pid_obj( dude_obj, PID_FN_FAL );
-   rm_obj_from_inven( dude_obj, weapon );
-   destroy_object( weapon );
-   weapon := create_object( PID_FN_FAL_NIGHT_SCOPE, 0, 0 );
-   add_obj_to_inven( dude_obj, weapon );
+   call upgrade_weapon(PID_FN_FAL, PID_FN_FAL_NIGHT_SCOPE);
 
    call Node037;
 end
@@ -888,11 +861,7 @@ procedure Node035d begin
    item_caps_adjust( dude_obj, -3100 );
 
    // Remove old weapon, add new.
-   weapon := obj_carrying_pid_obj( dude_obj, PID_FN_FAL );
-   rm_obj_from_inven( dude_obj, weapon );
-   destroy_object( weapon );
-   weapon := create_object( PID_FN_FAL_NIGHT_SCOPE, 0, 0 );
-   add_obj_to_inven( dude_obj, weapon );
+   call upgrade_weapon(PID_FN_FAL, PID_FN_FAL_NIGHT_SCOPE);
 
    call Node037;
 end
@@ -916,11 +885,7 @@ procedure Node036a begin
    item_caps_adjust( dude_obj, -750 );
 
    // Remove old weapon, add new.
-   weapon := obj_carrying_pid_obj( dude_obj, PID_CATTLE_PROD );
-   rm_obj_from_inven( dude_obj, weapon );
-   destroy_object( weapon );
-   weapon := create_object( PID_SUPER_CATTLE_PROD, 0, 0 );
-   add_obj_to_inven( dude_obj, weapon );
+   call upgrade_weapon(PID_CATTLE_PROD, PID_SUPER_CATTLE_PROD);
 
    call Node037;
 end
@@ -932,12 +897,7 @@ procedure Node036b begin
    item_caps_adjust( dude_obj, -650 );
 
    // Remove old weapon, add new.
-   weapon := obj_carrying_pid_obj( dude_obj, PID_CATTLE_PROD );
-   rm_obj_from_inven( dude_obj, weapon );
-   destroy_object( weapon );
-//   weapon := create_object( PID_CATTLE_PROD, 0, 0 );
-   weapon := create_object( PID_SUPER_CATTLE_PROD, 0, 0 );  //added by killap
-   add_obj_to_inven( dude_obj, weapon );
+   call upgrade_weapon(PID_CATTLE_PROD, PID_SUPER_CATTLE_PROD);
 
    call Node037;
 end

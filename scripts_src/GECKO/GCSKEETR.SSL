@@ -24,7 +24,7 @@
 #define NAME                    SCRIPT_GCSKEETR
 //#define TOWN_REP_VAR            50
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO) //--was commented out for some reason and set to VC - killap
-#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
+#define floater(x)              float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
 
 #define KNOWN                   1
 #define GIVEN                   2
@@ -34,6 +34,7 @@
 
 #include "..\headers\command.h"
 #include "..\headers\ModReact.h"
+#include "..\headers\UpgWeap.h"
 
 #define Vault_Known             (1)     // Temp Until get command from Jesse
 #define Visited_City            (1)     // Temp Until get command from Jesse
@@ -718,9 +719,7 @@ procedure Node987 begin
    else begin
       give_skeeter_money(MCOST);
    end
-   inven_unwield(dude_obj);
-   remove_pid_qty(dude_obj, PID_44_MAGNUM_REVOLVER, 1)
-   give_pid_qty(dude_obj, PID_44_MAGNUM_SPEEDLOADER, 1)
+   call upgrade_weapon(PID_44_MAGNUM_REVOLVER, PID_44_MAGNUM_SPEEDLOADER);
    call Node137;
 end
 procedure Node986 begin
@@ -730,9 +729,7 @@ procedure Node986 begin
    else begin
       give_skeeter_money(DECOST);
    end
-   inven_unwield(dude_obj);
-   remove_pid_qty(dude_obj, PID_DESERT_EAGLE, 1)
-   give_pid_qty(dude_obj, PID_DESERT_EAGLE_EXT_MAG, 1)
+   call upgrade_weapon(PID_DESERT_EAGLE, PID_DESERT_EAGLE_EXT_MAG);
    call Node137;
 end
 procedure Node985 begin
@@ -742,9 +739,7 @@ procedure Node985 begin
    else begin
       give_skeeter_money(HRCOST);
    end
-   inven_unwield(dude_obj);
-   remove_pid_qty(dude_obj, PID_HUNTING_RIFLE, 1)
-   give_pid_qty(dude_obj, PID_SCOPED_HUNTING_RIFLE, 1)
+   call upgrade_weapon(PID_HUNTING_RIFLE, PID_SCOPED_HUNTING_RIFLE);
    call Node137;
 end
 procedure Node984 begin
@@ -754,9 +749,7 @@ procedure Node984 begin
    else begin
       give_skeeter_money(ARCOST);
    end
-   inven_unwield(dude_obj);
-   remove_pid_qty(dude_obj, PID_ASSAULT_RIFLE, 1)
-   give_pid_qty(dude_obj, PID_ASSAULT_RIFLE_EXT_MAG, 1)
+   call upgrade_weapon(PID_ASSAULT_RIFLE, PID_ASSAULT_RIFLE_EXT_MAG);
    call Node137;
 end
 procedure Node983 begin
@@ -766,9 +759,7 @@ procedure Node983 begin
    else begin
       give_skeeter_money(FNCOST);
    end
-   inven_unwield(dude_obj);
-   remove_pid_qty(dude_obj, PID_FN_FAL, 1)
-   give_pid_qty(dude_obj, PID_FN_FAL_NIGHT_SCOPE, 1)
+   call upgrade_weapon(PID_FN_FAL, PID_FN_FAL_NIGHT_SCOPE);
    call Node137;
 end
 procedure Node982 begin
@@ -778,9 +769,7 @@ procedure Node982 begin
    else begin
       give_skeeter_money(CPCOST);
    end
-   inven_unwield(dude_obj);
-   remove_pid_qty(dude_obj, PID_CATTLE_PROD, 1)
-   give_pid_qty(dude_obj, PID_SUPER_CATTLE_PROD, 1)
+   call upgrade_weapon(PID_CATTLE_PROD, PID_SUPER_CATTLE_PROD);
    call Node137;
 end
 
