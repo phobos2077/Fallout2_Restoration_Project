@@ -36,7 +36,8 @@ procedure timed_event_p_proc;
 procedure push_p_proc;
 
 /* Script Specific Procedure Calls */
-procedure Node998;                                      // This Node is Always Combatprocedure Node999;                                      // This Node is Always Ending
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
 
 procedure Node001;
 procedure Node002;
