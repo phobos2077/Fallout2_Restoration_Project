@@ -44,4 +44,4 @@
                                              end
 
 #include "..\headers\ModMain.h"
-#include "D:\BlackIsle\Fallout 2 Mapper\scripts\GENERIC\ziLocker.ssl"
+#include "..\GENERIC\ziLocker.ssl"

@@ -23,4 +23,4 @@
                                              if (not(combat_is_initialized)) then                                             \
                                              attack_setup(WATCHER_OBJ, user_obj);                                             \
 
-#include "D:\BlackIsle\Fallout 2 Mapper\scripts\GENERIC\ziLocker.ssl"
+#include "..\GENERIC\ziLocker.ssl"

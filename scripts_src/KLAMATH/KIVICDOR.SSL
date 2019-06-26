@@ -56,4 +56,4 @@ end
 #define start                             def_start
 #define map_enter_p_proc                  det_map_enter_p_proc
 
-#include "D:\BlackIsle\Fallout 2 Mapper\scripts\GENERIC\ziwoddor.ssl"
+#include "..\GENERIC\ziwoddor.ssl"

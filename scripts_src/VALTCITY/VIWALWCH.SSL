@@ -9,4 +9,4 @@
 #define LOCKPICK_SKILL_PENALTY      MEDIUM_LOCK_PENALTY
 #define DO_CHECK_TAMPER_CONDITION   ( global_var( GVAR_VAULT_CITIZEN ) != CITIZEN_CAPTAIN_GUARD )
 
-#include "D:\BlackIsle\Fallout 2 Mapper\scripts\GENERIC\ziLocker.ssl"
+#include "..\GENERIC\ziLocker.ssl"

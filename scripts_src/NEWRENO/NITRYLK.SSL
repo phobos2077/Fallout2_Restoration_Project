@@ -18,4 +18,4 @@
                                               end                                                                       \
                                            end
 
-#include "D:\BlackIsle\Fallout 2 Mapper\scripts\generic\ziLocker.ssl"
+#include "..\generic\ziLocker.ssl"
