@@ -3,7 +3,7 @@
 */
 
 #include "..\headers\define.h"
-//#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\<TownMapName.h>"
+//#include "..\HEADERS\<TownMapName.h>"
 
 #define NAME                    SCRIPT_EPAS8          //Script name from scripts.h
 #define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town

@@ -7,7 +7,7 @@
 #include "..\headers\define.h"
 
 #define NAME                    SCRIPT_EPAS2A
-#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\EPAMAIN.h"
+#include "..\HEADERS\EPAMAIN.h"
 
 #include "..\headers\command.h"
 

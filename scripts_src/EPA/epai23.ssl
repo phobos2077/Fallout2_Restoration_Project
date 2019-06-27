@@ -2,15 +2,15 @@
   ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
 */
 
-#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\define.h"
-//#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\<TownMapName.h>"
+#include "..\HEADERS\define.h"
+//#include "..\HEADERS\<TownMapName.h>"
 
 #define NAME                    SCRIPT_EPAI23          //Script name from scripts.h
 #define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
 
-#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\command.h"
-#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\ModReact.h"
-#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\partybkg.h"
+#include "..\HEADERS\command.h"
+#include "..\HEADERS\ModReact.h"
+#include "..\HEADERS\partybkg.h"
 
 #define LVAR_Herebefore                 (4)
 #define LVAR_Hostile                    (5)

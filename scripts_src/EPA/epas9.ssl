@@ -5,7 +5,7 @@
 
 /* Include Files */
 #include "..\headers\define.h"
-#include "D:\BlackIsle\Fallout 2 Mapper\scripts\HEADERS\EPAMAIN.h"
+#include "..\HEADERS\EPAMAIN.h"
 
 #define NAME                    SCRIPT_EPAS9
 
