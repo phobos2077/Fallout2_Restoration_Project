@@ -289,7 +289,7 @@ procedure timed_event_p_proc begin
       if (self_tile != 20687) then begin
           animate_move_to_tile(20687);
       end else begin
-      
+
          reg_anim_clear( self_obj );
          reg_anim_begin();
            reg_anim_animate(self_obj, ANIM_stand, -1);
@@ -298,9 +298,9 @@ procedure timed_event_p_proc begin
       end
       rm_fixed_timer_event(self_obj, fixed_param);
       add_timer_event(self_obj,game_ticks(1),25);
-   end 
+   end
 end
-    
+
 
 procedure critter_p_proc begin
    if ( ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or (hostile) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
@@ -433,7 +433,7 @@ procedure Node001 begin
       Reply(201);
       NOption(301,Node004,4);
       NOption(302,Node006,4);
-      if ( (global_var(GVAR_ABBEY_GRAVES) > 1) and (local_var(LVAR_Finished_Graves) == 0) ) then 
+      if ( (global_var(GVAR_ABBEY_GRAVES) > 1) and (local_var(LVAR_Finished_Graves) == 0) ) then
          NOption(700,Node012,4);
       if ( (global_var(GVAR_ABBEY_GRAVES) < 1) ) then
          NOption(303,Node008,4);
@@ -465,7 +465,7 @@ procedure Node003 begin
       NOption(210,Node005,4);
       NOption(211,Node999,4);
    end
-   
+
    set_global_var(GVAR_ABBEY_TULLY,3);
    set_local_var(LVAR_Tully_Friend,1);
 end

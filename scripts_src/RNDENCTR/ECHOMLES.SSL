@@ -169,21 +169,21 @@ procedure destroy_p_proc begin
 
 /* Increment the aligned critter counter*/
    //inc_good_critter  did this because the rep hit isn't supposed to be that bad
-   
-   if (source_obj == dude_obj) then begin                                          
-      set_global_var(GVAR_GOOD_MONSTER, (global_var(GVAR_GOOD_MONSTER) + 1));     
-      if (critter_kill_type(self_obj) == KILL_TYPE_children_kills) then           
-         inc_childkiller                                                         
-      CHECK_REP_CHAMPION                                                          
-      CHECK_REP_BERSERKER                                                         
-      inc_general_rep(-1);                             
+
+   if (source_obj == dude_obj) then begin
+      set_global_var(GVAR_GOOD_MONSTER, (global_var(GVAR_GOOD_MONSTER) + 1));
+      if (critter_kill_type(self_obj) == KILL_TYPE_children_kills) then
+         inc_childkiller
+      CHECK_REP_CHAMPION
+      CHECK_REP_BERSERKER
+      inc_general_rep(-1);
    end
-   
+
    /*set_global_var(GVAR_GOOD_MONSTER, (global_var(GVAR_GOOD_MONSTER) + 1));
    CHECK_REP_CHAMPION
    CHECK_REP_BERSERKER
    inc_general_rep(-1);*/
-   
+
 /* Set global_variable for Enemy status*/
 end
 

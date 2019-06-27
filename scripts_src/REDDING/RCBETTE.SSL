@@ -425,19 +425,19 @@ procedure Node009 begin
 // Begin Seraph's Code
    if (global_var(GVAR_BAR_BRAWL) == BRAWL_TALKED_CAMINT) then begin
       gfade_out(600);
-   
+
       set_global_var(GVAR_BAR_BRAWL,BRAWL_TALKED_BOTH);
       display_msg(g_mstr(1020)); //added by killap
       give_xp(EXP_STOP_BAR_BRAWL);
       inc_global_var_amt(GVAR_TOWN_REP_REDDING, 10); //added by killap
-      
+
       move_to(self_obj,5000,0);
       move_to(Caminetto_Ptr,5000,0);
       set_obj_visibility(Caminetto_Ptr,1);
       set_obj_visibility(self_obj,1);
-      
+
       gfade_in(600);
-      
+
    end
    else if (global_var(GVAR_BAR_BRAWL) != BRAWL_TALKED_BOTH) then
       set_global_var(GVAR_BAR_BRAWL,BRAWL_TALKED_BETTE);
@@ -475,10 +475,10 @@ procedure Node011a begin
    move_to(Bette_Ptr,Tile1,0);
    move_to(Caminetto_Ptr,Tile2,0);
    move_to(dude_obj,Tile3,0);
-   
+
    display_msg(g_mstr(1020)); //added by killap
    give_xp(EXP_STOP_BAR_BRAWL);
-   
+
    set_global_var(GVAR_BAR_BRAWL,BRAWL_BOTH_JAILED);
 end
 
@@ -504,10 +504,10 @@ procedure Node013a begin
    move_to(Caminetto_Ptr,5000,0);
    set_obj_visibility(Caminetto_Ptr,1);
    move_to(dude_obj,Tile3,0);
-   
+
    display_msg(g_mstr(1020)); //added by killap
    give_xp(EXP_STOP_BAR_BRAWL);
-   
+
    inc_global_var_amt(GVAR_TOWN_REP_REDDING, 2); //added by killap
    set_global_var(GVAR_BAR_BRAWL,BRAWL_MORNINGSTAR_JAILED);
 end

@@ -98,7 +98,7 @@ end
 /* This procedure will get called each time that the map is first entered. It will
    set up the Team number and AI packet for this critter. This will override the
    default from the prototype, and needs to be set in scripts. */
-procedure map_enter_p_proc begin 
+procedure map_enter_p_proc begin
    Only_Once:=0;
    //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
    //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
@@ -111,7 +111,7 @@ end
 
 //added by killap
 procedure map_exit_p_proc begin
-   
+
    if ( map_var( MVAR_Chuck_Awoke ) == 3 ) then
       destroy_object( self_obj );
 
@@ -136,14 +136,14 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-      
+
    //added by killap
    if( ( map_var( MVAR_Chuck_Awoke ) == 3 ) and ( tile_num( self_obj ) != 30758 ) and ( anim_busy( self_obj ) == false ) )then begin
       add_timer_event( self_obj, 1, 1 );
       debug_msg("Chuck should be moving again");
    end
    //added by killap
-   
+
    if( map_var( MVAR_Chuck_Awoke ) == 1 ) then begin
       set_map_var( MVAR_Chuck_Awoke, 2 );
       game_ui_disable;

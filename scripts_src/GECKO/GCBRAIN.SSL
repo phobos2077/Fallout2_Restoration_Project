@@ -219,7 +219,7 @@ procedure talk_p_proc begin
        debug_msg("GCBRAIN: case 1");
        call Node998;
    end
-   
+
 
    else if ( (global_var(GVAR_QUEST_RAT_GOD) == RAT_GOD_SUCCESS) and (local_var(LVAR_Muse) == 0) ) then begin
        debug_msg("GCBRAIN: case 2");
@@ -235,7 +235,7 @@ procedure talk_p_proc begin
       debug_msg("GCBRAIN: case 3");
       call Node012;
    end
-   
+
    else if ((get_critter_stat(dude_obj,STAT_iq) <= 3)) then begin
       debug_msg("GCBRAIN: case 4");
       call Node002;
@@ -244,7 +244,7 @@ procedure talk_p_proc begin
    //else if (Brain Friend = Enemy) then begin
    //call Node001;
    //end
-   
+
    else if ((global_var(GVAR_GECKO_ANKH) != ANKH_GIVEN) and (obj_is_carrying_obj_pid(dude_obj, PID_TALISMAN))) then begin
    //else if (global_var(GVAR_GECKO_ANKH) == ANKH_TAKEN) then begin //killap comment - nothing is ever set anywhere for this to be called
        debug_msg("GCBRAIN: case 5");
@@ -316,7 +316,7 @@ procedure talk_p_proc begin
        gSay_End;
        end_dialogue;
    end
-   else if (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_NEED_PART) then begin 
+   else if (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_NEED_PART) then begin
        debug_msg("GCBRAIN: case 11");
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
@@ -478,19 +478,19 @@ procedure Node002 begin
    end
    else if (local_var(LVAR_times_here_002) == 3) then begin
       floater(122);
-   end 
+   end
    else if (local_var(LVAR_times_here_002) > 3) then begin
       floater(123);
       call Node998;
    end
    //end added
-   
+
    /*k := random(1,4);
    if (k == 1) then floater(120);
    else if (k == 2) then floater(121);
    else if (k == 3) then floater(122);
    else if (k == 4) then floater(123);*/
-   
+
 end
 
 procedure Node003 begin
@@ -514,7 +514,7 @@ procedure Node003 begin
    else if (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_NEED_PART) then begin
       if(random(1,2) == 2) then
          Reply(603);
-      else 
+      else
          Reply(600);
       //NOption(607,Node041,004);
    end
@@ -565,7 +565,7 @@ procedure Node008 begin
    Reply(180);
    //added by killap - expansion pack
     //if ((global_var(GVAR_VAULT_SERVANT) == 6) and (global_var(GVAR_QUEST_VAULT_SERVANT) == 1)) then
-   
+
    //NOTE - GO HERE - killap
    if ( (town_known(AREA_VAULT_VILLAGE) == MARK_STATE_VISITED) and ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_GET_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) )) or ( ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_SPEAK_WITH_COUNCIL) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_FINISHED_DIPLOMATIC) ))) ) then
       NOption(183,Node044,004);
@@ -593,7 +593,7 @@ procedure Node011 begin
    else begin
       Reply(211);
    end
-   
+
    //added by killap - expansion pack
    if ( (town_known(AREA_VAULT_VILLAGE) == MARK_STATE_VISITED) and ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_GET_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) )) or ( ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_SPEAK_WITH_COUNCIL) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_FINISHED_DIPLOMATIC) ))) ) then
       NOption(706,Node044,004);
@@ -622,7 +622,7 @@ procedure Node013 begin
    if (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_REACTOR_DATA_ANALYZED) then begin
       Reply(632); //You've had the Reactor Data disk analyzed...
       NOption(637,Node037,004);
-      
+
       //added by killap - expansion pack
       //if ((global_var(GVAR_VAULT_SERVANT) == 6) and (global_var(GVAR_QUEST_VAULT_SERVANT) == 1)) then
       if ( (town_known(AREA_VAULT_VILLAGE) == MARK_STATE_VISITED) and ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_GET_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) )) or ( ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_SPEAK_WITH_COUNCIL) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_FINISHED_DIPLOMATIC) ))) ) then
@@ -633,12 +633,12 @@ procedure Node013 begin
             NOption(706,Node044,004);
       end
       //end
-       
+
    end
    else if (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_REACTOR_DATA_RECEIVED) then begin
       Reply(631); // You've received the Reactor Data disk, now...
       NOption(636,Node036,004);
-      
+
       //added by killap - expansion pack
       //if ((global_var(GVAR_VAULT_SERVANT) == 6) and (global_var(GVAR_QUEST_VAULT_SERVANT) == 1)) then
       if ( (town_known(AREA_VAULT_VILLAGE) == MARK_STATE_VISITED) and ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_GET_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) )) or ( ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_SPEAK_WITH_COUNCIL) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_FINISHED_DIPLOMATIC) ))) ) then
@@ -649,13 +649,13 @@ procedure Node013 begin
             NOption(706,Node044,004);
       end
       //end
-          
+
    end
    else if (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_REPAIRED) then begin
       Reply(230);
       NOption(639,Node015,004);
       NOption(641,Node015,004);
-      
+
       //added by killap - expansion pack
       //if ((global_var(GVAR_VAULT_SERVANT) == 6) and (global_var(GVAR_QUEST_VAULT_SERVANT) == 1)) then
       if ( (town_known(AREA_VAULT_VILLAGE) == MARK_STATE_VISITED) and ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_GET_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) )) or ( ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_SPEAK_WITH_COUNCIL) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_FINISHED_DIPLOMATIC) ))) ) then
@@ -666,7 +666,7 @@ procedure Node013 begin
             NOption(706,Node044,004);
       end
       //end
-      
+
    end
    //moved up by killap
    //else if (global_var(GVAR_VAULT_GECKO_PLANT) == 0) then begin
@@ -682,7 +682,7 @@ procedure Node013 begin
       NOption(638,Node041,004);
    end
 
-   
+
    //COMMENT OUT BY KILLAP -- lets see what this does
    /*else if (global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_REPAIRED) then begin
       Reply(611);
@@ -692,7 +692,7 @@ procedure Node013 begin
    if (global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_NEED_PART) then//RECENT CHANGE TO FIX BRAIN
       NOption(234,Node026,004);
    NOption(233,Node999,004);*/
-   
+
    giq_option(4, SCRIPT_GCBRAIN, 232, Node016, 50);
    giq_option(4, SCRIPT_GCBRAIN, 233, Node999, 50);
    if (global_var(GVAR_VAULT_GECKO_PLANT) < 5) then
@@ -726,7 +726,7 @@ end
 
 procedure Node017 begin
    set_local_var(LVAR_Brain_Plan,1); //added by killap
-   if (rat_ruling) then begin 
+   if (rat_ruling) then begin
       rat_ruling:=0;
       Reply(270);
       //added by killap
@@ -799,7 +799,7 @@ procedure Node020 begin
       end else begin
          NMessage(300);
       end
-   end 
+   end
    else begin
          Reply(716); //edit by killap - was 701
          NOption(717,Node999,004); //edit by killap - was 702
@@ -822,7 +822,7 @@ end
 
 procedure Node023 begin
    Reply(330);
-   
+
    //added by killap
    if (local_var(LVAR_Brain_Plan) == 0) then
       if ( (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_OPTIMIZED) or (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_OPTIMIZED) ) then
@@ -865,14 +865,14 @@ end
 
 procedure Node029 begin
    Reply(390);
-   
+
    //edit by killap
    if (global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_REPAIRED) then
       NOption(391,Node030,004);
    else
       NOption(444,Node013,004);
    //end edit
-   
+
    //NOption(391,Node030,004);
 end
 
@@ -898,14 +898,14 @@ procedure Node032 begin
 //killap
 //   if (global_var(GVAR_GECKO_ECON_DISK) < ECON_DISK_RECEIVED) then
 //      set_global_var(GVAR_GECKO_ECON_DISK, ECON_DISK_GET_DISK);
-//killap  
+//killap
    Reply(420);
    if (global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_REPAIRED) then
       NOption(421,Node999,004);
    else if ((global_var(GVAR_GECKO_ECON_DISK) == ECON_DISK_GET_DISK)) then
       NOption(4211,Node999,004);
    NOption(422,Node999,004);
-   
+
 end
 
 procedure Node033 begin
@@ -918,9 +918,9 @@ procedure Node034 begin
   item:=obj_carrying_pid_obj(dude_obj, PID_CHEEZY_POOFS);
   rm_obj_from_inven(dude_obj,item);
   destroy_object(item);
-  
+
   //wip - killap
-  
+
    if (global_var(GVAR_GECKO_ANKH) == ANKH_GIVEN) then begin
       Reply(441);
       if (global_var(GVAR_VAULT_GECKO_PLANT) >= PLANT_OPTIMIZED) then begin
@@ -932,9 +932,9 @@ procedure Node034 begin
       Reply(440);
       NOption(444,Node005,004);
    end
-   
-   
-  
+
+
+
   /*if (global_var(GVAR_VAULT_GECKO_PLANT) >= PLANT_OPTIMIZED) then begin
      Reply(443);
      NOption(444,Node014,004);
@@ -953,7 +953,7 @@ procedure Node034 begin
      Reply(440);
      NOption(444,Node011,004);
   end*/
-  
+
 end
 
 procedure Node035 begin
@@ -1041,12 +1041,12 @@ procedure Node046
 begin
   if (global_var(GVAR_GECKO_ANKH) != ANKH_GIVEN) then
       set_global_var(GVAR_GECKO_ANKH, ANKH_GIVEN);
-      
-      
-      
+
+
+
   //if ( (global_var(GVAR_VAULT_PLANT_STATUS) < PLANT_REPAIRED) or (global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_REPAIRED) )
-  
-  
+
+
   if ((local_var(LVAR_Node_045) == 1) and ( (global_var(GVAR_VAULT_PLANT_STATUS) < PLANT_OPTIMIZED) or (global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_OPTIMIZED) ) ) then
   begin
     set_local_var(LVAR_Node_045,2);
@@ -1065,7 +1065,7 @@ end
 
 procedure Node047
 begin
-   
+
   if (is_success(roll_vs_skill(dude_obj, SKILL_CONVERSANT, 5))) then
   begin
     set_global_var(GVAR_VAULT_SERVANT, SERVANT_BRAIN_AGREEMENT);

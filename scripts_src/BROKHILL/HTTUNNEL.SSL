@@ -79,11 +79,11 @@ procedure spatial_p_proc begin
         (source_obj == dude_obj) and
         (local_var(LVAR_herebefore) == 0) ) then begin
       inc_local_var(LVAR_herebefore);
-      
+
       if ( global_var(GVAR_BH_MISSING) == MISSING_ACCEPT_FREE ) then
          set_global_var(GVAR_BH_MISSING, MISSING_TUNNELS_FREE );
       else
          set_global_var(GVAR_BH_MISSING, MISSING_TUNNELS_CASH );
    end
-         
+
 end

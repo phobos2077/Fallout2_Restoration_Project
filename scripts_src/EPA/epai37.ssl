@@ -109,14 +109,14 @@ begin
                call Node008;
          gsay_end;
          end_dialogue;
-      
+
          if (death) then
             critter_dmg(dude_obj,10000,DMG_plasma);
       end
    end
 end
 
-procedure Node900 begin 
+procedure Node900 begin
    //gender alterations
    gfade_out(ONE_GAME_SECOND);
    //game_time_advance(4*ONE_GAME_WEEK);
@@ -136,12 +136,12 @@ procedure Node900 begin
 
 end
 
-procedure Node901 begin 
+procedure Node901 begin
    //race alterations
    gfade_out(ONE_GAME_SECOND);
    //game_time_advance(2*ONE_GAME_WEEK);
    remove_armor(dude_obj)
-   
+
    if ((get_sfall_global_int("HAp_Race")) == WHITE_RACE) then
       set_hero_race(1); //black
    else
@@ -153,12 +153,12 @@ procedure Node901 begin
    call Node007;
 end
 
-procedure Node902 begin 
+procedure Node902 begin
    //hair alterations
    gfade_out(ONE_GAME_SECOND);
    //game_time_advance(ONE_GAME_DAY);
    remove_armor(dude_obj)
-  
+
    if (dude_is_male and hair_choice == MALE_REG_HAIR) then begin
       set_hero_style(0);
    end else if (dude_is_male and  hair_choice == MALE_LONG_HAIR) then begin
@@ -172,7 +172,7 @@ procedure Node902 begin
    end else if (dude_is_female and  hair_choice == FEMALE_RED_HAIR) then begin
       set_hero_style(2);
    end
-   
+
    set_global_var(GVAR_CHAR_MOD,HAIR);
    refresh_pc_art;
    gfade_in(ONE_GAME_SECOND);
@@ -213,12 +213,12 @@ procedure Node003 begin
    if (dude_is_male and (get_sfall_global_int("HApStyle") != MALE_BALD_HAIR)) then
       NOption(415, Node006c, 004);
    if (dude_is_female and (get_sfall_global_int("HApStyle") != FEMALE_REG_HAIR)) then
-      NOption(413, Node006d, 004);   
+      NOption(413, Node006d, 004);
    if (dude_is_female and (get_sfall_global_int("HApStyle") != FEMALE_BLOND_HAIR)) then
-      NOption(416, Node006e, 004);      
+      NOption(416, Node006e, 004);
    if (dude_is_female and (get_sfall_global_int("HApStyle") != FEMALE_RED_HAIR)) then
-      NOption(417, Node006f, 004);    
-      
+      NOption(417, Node006f, 004);
+
    NOption(418, Node999, 004);
 end
 

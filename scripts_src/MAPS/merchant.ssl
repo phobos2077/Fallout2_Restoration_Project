@@ -5,7 +5,7 @@
         Description: Opis
 
         Log:
-           
+
 
            Created:
 
@@ -45,14 +45,14 @@ begin
    //add_mult_objs_to_inven(Critter,item,25);
 
    move_to(dude_obj, 20110, 0);
-   
+
    Lighting;
 end
 
 procedure map_update_p_proc begin
    Lighting;
 end
- 
+
 procedure map_exit_p_proc begin
    if (global_var(GVAR_MERCHANT_MEETING) == MERCHANT_START) or (map_var(MVAR_Roy_Killed) == 1) then begin
       load_map(MAP_PRIMITIVE_TRIBE1,901);

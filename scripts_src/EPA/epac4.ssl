@@ -90,7 +90,7 @@ procedure damage_p_proc begin
          critter_damage(self_obj, 99999);
       end
    end*/
-   
+
    if (weapon_dmg_type(target_obj) == DMG_emp) then begin
       script_overrides;
       critter_damage(self_obj, 99999);
@@ -376,10 +376,10 @@ begin
   giq_option(4, NAME, 321, Node999, 50);
   if (has_skill(dude_obj, SKILL_CONVERSANT) > 70) then
     giq_option(4, NAME, 322, Node999, 50);
-         
+
   item:=create_object(PID_SECURITY_ROOMS_KEY_CARD,0,0);
   add_obj_to_inven(dude_obj,item);
-  
+
 end
 
 procedure Node014 begin

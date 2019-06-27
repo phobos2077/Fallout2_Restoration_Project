@@ -18,7 +18,7 @@ begin
             set_car_current_town(22);
          end
          if (metarule3(110, 0, 0, 0)) then begin
-            if (global_var(780) == 0) then begin            
+            if (global_var(780) == 0) then begin
                if ((metarule(44, 0) > 162) and (metarule(44, 0) <= 184) and (metarule(45, 0) > 111) and (metarule(45, 0) <= 133)) then begin
                   set_car_current_town(00);   // Arroyo
                end
@@ -61,7 +61,7 @@ begin
                                           else begin
                                              if ((metarule(44, 0) > 1100) and (metarule(44, 0) <= 1150) and (metarule(45, 0) > 1400) and (metarule(45, 0) <= 1450)) then begin
                                                 set_car_current_town(10);   // New California Republic
-                                             end   
+                                             end
                                              else begin
                                                 if ((metarule(44, 0) > 962) and (metarule(44, 0) <= 984) and (metarule(45, 0) > 1411) and (metarule(45, 0) <= 1433)) then begin
                                                    set_car_current_town(11);   // Vault 13

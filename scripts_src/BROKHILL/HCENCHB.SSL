@@ -114,7 +114,7 @@ procedure map_enter_p_proc begin
    //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
-   
+
    if map_first_run then begin
       weapon := create_object(PID_COMBAT_SHOTGUN,0,0);
       add_obj_to_inven(self_obj, weapon);
@@ -336,7 +336,7 @@ end
 procedure Node007 begin
    set_local_var(LVAR_Told_About_Chad,1);
    set_global_var( GVAR_BH_CHAD, CHAD_CONFIRMED_GECKO );
-   
+
    Reply(120);
    NOption(121,Node008,004);
 end

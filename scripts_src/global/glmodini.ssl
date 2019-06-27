@@ -1,7 +1,7 @@
 procedure start;
 
-#include "..\headers\sfall.h" 
-#include "..\headers\define.h" 
+#include "..\headers\sfall.h"
+#include "..\headers\define.h"
 
 procedure start begin
    if (is_loading_game) then return;

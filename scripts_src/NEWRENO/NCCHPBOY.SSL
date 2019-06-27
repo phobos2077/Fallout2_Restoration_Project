@@ -99,7 +99,7 @@ end
 procedure critter_p_proc begin
    if (self_can_see_dude) then begin
       if (hostile or chop_shop_hostile) then begin
-         set_stolen_car(stolen_car_drive_away); 
+         set_stolen_car(stolen_car_drive_away);
          self_attack_dude;
       end else set_new_reno_watcher(chop_shop_boy_obj)
    end

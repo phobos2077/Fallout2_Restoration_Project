@@ -47,7 +47,7 @@ procedure drop_p_proc
 begin
 
 end
- 
+
 procedure use_p_proc
 begin
    variable fan;
@@ -55,7 +55,7 @@ begin
    if (local_var(LVAR_Cleaned_Fan) == 0) then begin
       set_local_var(LVAR_Cleaned_Fan,1);
       gfade_out(ONE_GAME_SECOND);
-      
+
       //remove gunk from the fans
       destroy_object(tile_contains_pid_obj(17059,dude_elevation,33555153));
       destroy_object(tile_contains_pid_obj(16858,dude_elevation,33555150));
@@ -63,16 +63,16 @@ begin
       destroy_object(tile_contains_pid_obj(16858,dude_elevation,33555152));
       destroy_object(tile_contains_pid_obj(16858,dude_elevation,33555155));
       destroy_object(tile_contains_pid_obj(16858,dude_elevation,33555154));
-      
+
       destroy_object(tile_contains_pid_obj(17260,dude_elevation,33555153));
       destroy_object(tile_contains_pid_obj(17259,dude_elevation,33555153));
       destroy_object(tile_contains_pid_obj(17058,dude_elevation,33555150));
-    
+
       //remove fumes in the room
       destroy_object(tile_contains_pid_obj(16699,dude_elevation,33556283));
       destroy_object(tile_contains_pid_obj(17083,dude_elevation,33556283));
-    
-    
+
+
       game_time_advance(ONE_GAME_MINUTE * 10);
       gfade_in(ONE_GAME_SECOND);
 
@@ -83,17 +83,17 @@ begin
          display_msg(message_str(SCRIPT_EPAI30, 101));
       end
       give_xp(50);
-      
+
 
    end
- 
+
 end
 
 procedure map_enter_p_proc begin
    reg_anim_begin();
    reg_anim_animate_forever(self_obj, ANIM_stand);
    reg_anim_end();
-   
+
    add_timer_event(self_obj, 1, 1);
 end
 
@@ -116,5 +116,5 @@ begin
       end
       add_timer_event(self_obj, 1, 1);
   end
-  
+
 end

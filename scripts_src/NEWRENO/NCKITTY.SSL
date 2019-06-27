@@ -671,13 +671,13 @@ end
 procedure Node013 begin
    sex_partner_obj := dude_obj;
    Reply(375);
-   
+
    //edit by killap - added check
    if (dude_is_male) then
       NOption(random(376, 378), Node031, 004);
    else
       NOption(random(379, 380), Node031, 004);
-      
+
    //NOption(random(376, 380), Node031, 004);
    if (angela_known) then begin
       NOption(381, Node031, 004);
@@ -723,20 +723,20 @@ procedure Node014 begin
    //added Robobrain_Human_In_Party - killap (expansion)
    if (Robobrain_Human_In_Party) then begin
       NOption(402, Node994, 004);
-   end    
+   end
    if (Dex_In_Party) then begin
       NOption(407, Node991, 004);
    end
-   
+
    if (Cat_Jules_In_Party) then begin
       NOption(408, Node992, 004);
    end
-   
+
    if (Kitsune_In_Party) then begin
       NOption(409, Node993, 004);
    end
-   
-   
+
+
    NOption(406, Node999, 004);
 end
 procedure Node015 begin

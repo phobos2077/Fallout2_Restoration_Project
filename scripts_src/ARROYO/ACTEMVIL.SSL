@@ -161,13 +161,13 @@ procedure critter_p_proc begin
        call Node013;
        attack(dude_obj);
    end
-   
+
    //added by killap
    if ( (REP_ENEMY_ARROYO) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
        attack(dude_obj);
    end
    //end added by killap
-   
+
    if ((local_var(LVAR_Talked_Before) == 0) and (tile_distance_objs(dude_obj,self_obj) < 6) and (cur_map_index == MAP_ARROYO_CAVES)) then begin
        set_local_var(LVAR_Talked_Before,1);
        dialogue_system_enter;

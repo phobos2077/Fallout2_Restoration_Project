@@ -105,13 +105,13 @@ procedure map_enter_p_proc begin
       guard3_obj := self_obj;
    end
    //end added
-   
+
    if (global_var(GVAR_CAME_ON_VERTIBIRD) == 1) then begin
       move_to(guard1_obj,18714,2);
       move_to(guard2_obj,19920,2);
       move_to(guard3_obj,19715,2);
    end
-   
+
    Only_Once:=0;
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NAVARRO);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_NAV_GUARD);
@@ -165,7 +165,7 @@ procedure critter_p_proc begin
             add_timer_event(guard1_obj,3,3);
          end
       end
-   
+
       else if (local_var(LVAR_Hostile) == 2) then begin
          set_local_var(LVAR_Hostile,1);
          attack(dude_obj);
@@ -220,7 +220,7 @@ procedure talk_p_proc begin
    else begin
       call Node001;
    end
-   
+
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like
@@ -308,7 +308,7 @@ end
 
 procedure Node007 begin
    Reply(310);
-   BOption(311,Node998,001); 
+   BOption(311,Node998,001);
    NOption(312,Node991,001);
 end
 

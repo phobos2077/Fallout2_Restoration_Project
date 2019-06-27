@@ -55,7 +55,7 @@ procedure destroy_p_proc begin
       tail := create_object(PID_SCORPION_TAIL,0,0);
 
    add_obj_to_inven(self_obj,tail);
-   
+
    if (cur_map_index == MAP_BH_RND_DESERT) then begin
       dec_map_var(MVAR_Hostile_Total);
    end

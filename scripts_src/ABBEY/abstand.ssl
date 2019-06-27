@@ -3,7 +3,7 @@
 */
 
 #include "..\HEADERS\define.h"
-#include "..\headers\ABBEY.H" 
+#include "..\headers\ABBEY.H"
 //#include "..\HEADERS\<TownMapName.h>"
 
 #define NAME                    SCRIPT_ABSTAND          //Script name from scripts.h

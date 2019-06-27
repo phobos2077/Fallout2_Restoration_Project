@@ -526,7 +526,7 @@ begin
     giq_option(4, NAME, 380, Node012, 50);
   if (has_skill(dude_obj, SKILL_SCIENCE) > 90) then
     giq_option(4, NAME, 381, Node013, 50);
-  if ((has_skill(dude_obj, SKILL_SCIENCE) > 100) or 
+  if ((has_skill(dude_obj, SKILL_SCIENCE) > 100) or
      ( (global_var(GVAR_NEED_ERSI) == 1) and (local_var(LVAR_Created_ERSI) == 0) )) then
     giq_option(4, NAME, 382, Node015, 50);
   giq_option(4, NAME, 383, Node999, 50);
@@ -621,7 +621,7 @@ begin
       // do nothing since this is already set above
     end else begin
       LVar1 := obj_carrying_pid_obj(dude_obj, PID_SMALL_SCORPION_TAIL);
-    end  
+    end
     rm_obj_from_inven(dude_obj, LVar1);
     destroy_object(LVar1);
     rm_obj_from_inven(dude_obj, LVar2);
@@ -710,7 +710,7 @@ begin
       LVar1 := obj_carrying_pid_obj(dude_obj, PID_SMALL_SCORPION_TAIL);
     end
     rm_obj_from_inven(dude_obj, LVar1);
-    destroy_object(LVar1);    
+    destroy_object(LVar1);
     rm_obj_from_inven(dude_obj, LVar2);
     destroy_object(LVar2);
     create_object_sid(PID_ANTIDOTE, PICKUP_HEX, 1, -1);
@@ -747,7 +747,7 @@ procedure Node019a
 begin
 
   inc_global_var(GVAR_MADE_DRUGS);
-  
+
   if (global_var(GVAR_MADE_DRUGS) <= 4) then
     create_object_sid(PID_RANDOM_CHEMICALS, PICKUP_HEX, 1, -1);
   call Node018;

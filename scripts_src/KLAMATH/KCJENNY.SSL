@@ -391,7 +391,7 @@ procedure Node014 begin
    Reply(330);
    //added by killap
    if (from_node13) then begin
-     NOption(321,Node015,004); 
+     NOption(321,Node015,004);
      NOption(323,Node020,007);
    end
    NOption(331,Node010,004);

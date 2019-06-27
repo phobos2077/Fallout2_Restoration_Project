@@ -1,7 +1,7 @@
 procedure start;
 
-#include "..\headers\sfall.h" 
-#include "..\headers\MAPS.H" 
+#include "..\headers\sfall.h"
+#include "..\headers\MAPS.H"
 
 #define PID_SOLAR_SCORCHER 390
 #define GVAR_TEST_SOLAR_SCORCHER 775
@@ -16,7 +16,7 @@ procedure start begin
    variable weapon:=0;
    variable body_part:=0;
    variable num_hits:=0;
-      
+
    if (game_loaded) then begin
       register_hook(HOOK_COMBATDAMAGE);
       //display_msg("hooking");
@@ -31,7 +31,7 @@ procedure start begin
       body_part:=get_sfall_arg;
       //display_msg("weapon_pid: " + obj_pid(weapon));
       num_hits += 1;
-      if (((cur_map_index != MAP_EPA_SUBLEVELS_1) and (cur_map_index != MAP_EPA_SUBLEVELS_2) and (cur_map_index != MAP_EPA_SECRET)) or ((cur_map_index == MAP_EPA) and ((elevation(dude_obj) != 1) or (elevation(dude_obj) != 2)))) then begin 
+      if (((cur_map_index != MAP_EPA_SUBLEVELS_1) and (cur_map_index != MAP_EPA_SUBLEVELS_2) and (cur_map_index != MAP_EPA_SECRET)) or ((cur_map_index == MAP_EPA) and ((elevation(dude_obj) != 1) or (elevation(dude_obj) != 2)))) then begin
          if ( (global_var(GVAR_TEST_SOLAR_SCORCHER) == 1) and (obj_pid(weapon) == PID_SOLAR_SCORCHER) and (num_hits >= 1) ) then begin
                set_global_var(GVAR_TEST_SOLAR_SCORCHER,2);
                //display_msg("GVAR_TEST_SOLAR_SCORCHER: " + (global_var(GVAR_TEST_SOLAR_SCORCHER)));

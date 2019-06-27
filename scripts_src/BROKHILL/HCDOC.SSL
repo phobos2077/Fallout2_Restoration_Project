@@ -195,16 +195,16 @@ import variable broken_hills_temp_box;
                                                          unhealthy_members+=1;      \
                                                    if (K9_In_Party) then                        \
                                                       if ((Is_Injured(K9_Ptr)) or (get_poison(K9_Ptr) > 0) or (get_critter_stat(K9_Ptr, STAT_current_rad)) or (Is_Crippled(K9_Ptr)) ) then                   \
-                                                         unhealthy_members+=1;      \     
+                                                         unhealthy_members+=1;      \
                                                    if (Kitsune_In_Party) then                        \
                                                       if ((Is_Injured(Kitsune_Ptr)) or (get_poison(Kitsune_Ptr) > 0) or (get_critter_stat(Kitsune_Ptr, STAT_current_rad)) or (Is_Crippled(Kitsune_Ptr)) ) then                   \
-                                                         unhealthy_members+=1;      \    
+                                                         unhealthy_members+=1;      \
                                                    if (Dex_In_Party) then                        \
                                                       if ((Is_Injured(Dex_Ptr)) or (get_poison(Dex_Ptr) > 0) or (get_critter_stat(Dex_Ptr, STAT_current_rad)) or (Is_Crippled(Dex_Ptr)) ) then                   \
-                                                         unhealthy_members+=1;      \    
+                                                         unhealthy_members+=1;      \
                                                     if (Cat_Jules_In_Party) then                        \
                                                       if ((Is_Injured(Cat_Jules_Ptr)) or (get_poison(Cat_Jules_Ptr) > 0) or (get_critter_stat(Cat_Jules_Ptr, STAT_current_rad)) or (Is_Crippled(Cat_Jules_Ptr)) ) then                   \
-                                                         unhealthy_members+=1;      \                                                                                                                                                                                                                                                                                                                                                                                                             
+                                                         unhealthy_members+=1;      \
                                                    if (unhealthy_members > 0)
 
 /* Local variables which do not need to be saved between map changes. */
@@ -458,7 +458,7 @@ procedure Node001b begin
          NOption(404,Node117,004);
    end
    //end added by killap
-   
+
    NOption(313,Node999,004); //end dialogue
 end
 
@@ -1049,7 +1049,7 @@ procedure PartyFree begin
          critter_heal(Cat_Jules_Ptr,Injured_How_Much(Cat_Jules_Ptr));
          critter_uninjure(Cat_Jules_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
       end
-   end   
+   end
    //end added
 end
 

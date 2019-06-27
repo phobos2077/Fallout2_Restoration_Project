@@ -113,7 +113,7 @@ end
 
 /*procedure spatial_p_proc begin
    if (obj_no_goo_effect(source_obj) == false) then begin
-      
+
       if (tile_has_rad_goo(tile_num(source_obj), self_elevation)) then begin
          //added by killap - expansion
          if (critter_inven_obj(source_obj,INVEN_TYPE_WORN) != 0) then
@@ -128,7 +128,7 @@ end
             end
             critter_dmg(source_obj, random(MIN_DMG_SPATIAL,MAX_DMG_SPATIAL), DAMAGE_TYPE);
          end
-         
+
       end
    end
 end*/

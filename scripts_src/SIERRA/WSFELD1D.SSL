@@ -77,7 +77,7 @@ procedure map_enter_p_proc begin
            set_obj_visibility(self_obj,0);                  // vis
        end
    end
-end 
+end
 //end added
 
 procedure map_update_p_proc begin

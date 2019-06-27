@@ -219,7 +219,7 @@ end
 procedure use_obj_on_p_proc begin
    variable Tool;
    variable modifier := 0;
-   
+
    Tool:=obj_pid(obj_being_used_with);
 
    if (MAP_NOTIFY != -1) then begin
@@ -231,10 +231,10 @@ procedure use_obj_on_p_proc begin
 
    if ( ((Tool == PID_MULTI_TOOL) or (Tool == PID_SUPER_TOOL_KIT)) and (not FIELD_DESTROYED) ) then begin //added super_tool_kit - killap
       script_overrides;
-      
+
       if (Tool == PID_SUPER_TOOL_KIT) then
          modifier := 20;
-         
+
       if (skill_success(source_obj,SKILL_REPAIR,(TOOL_BONUS + modifier))) then begin //edit by killap: was SKILL_SCIENCE
          if (FIELD_ON) then begin
             SET_FIELD_DELAY;

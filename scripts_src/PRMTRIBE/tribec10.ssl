@@ -26,7 +26,7 @@
         -rwh2   11/13/97
 */
 #include "..\headers\define.h"
-#include "..\headers\tribe02.H" 
+#include "..\headers\tribe02.H"
 //#include "..\headers\<TownName.h>"
 
 #define NAME                    SCRIPT_TRIBEC10
@@ -163,7 +163,7 @@ end
    in here. */
 procedure destroy_p_proc begin
    variable tail:=0;
-   
+
    if ( (WARRIOR_obj == -1) and (local_var(LVAR_Do_Once) == 0) ) then begin
       set_local_var(LVAR_Do_Once,1);
       display_msg(mstr(200));
@@ -188,7 +188,7 @@ procedure destroy_p_proc begin
 
       add_obj_to_inven(self_obj,tail);
    end
-   
+
    GECKO_obj := -1;
 end
 

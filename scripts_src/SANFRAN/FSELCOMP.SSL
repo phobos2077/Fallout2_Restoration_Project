@@ -130,7 +130,7 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
-   
+
    if (skill_success(dude_obj, SKILL_SCIENCE, -80)) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
@@ -214,7 +214,7 @@ procedure Node004 begin
    if (has_skill(dude_obj, SKILL_SCIENCE) >= 100) then
       NOption(114, Node007a, 1);
    else
-      NOption(114, Node007, 1);  
+      NOption(114, Node007, 1);
    NOption(115, Node003, 1);
 end
 
@@ -243,7 +243,7 @@ procedure Node007a begin
       Reply(200);
       set_local_var(LVAR_Stash_Coordinates,1);
       mark_on_map(AREA_HUBOLOGIST_STASH)
-   end else 
+   end else
       Reply(201);
    NOption(123, Node004, 1);
    NOption(124, Node999, 1);

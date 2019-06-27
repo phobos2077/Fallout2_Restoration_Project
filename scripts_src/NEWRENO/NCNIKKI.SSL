@@ -120,14 +120,14 @@ procedure play;
 
 #define self_family                       family_salvatore
 
-                              
+
 #define dude_has_important_rep            ((enclave_destroyed) or (dude_has_porn_star_rep) or (dude_is_prizefighter) or (dude_is_made_man))
- 
+
 #define dude_family_conflict              ((dude_family != self_family) and (self_family != family_none))
-#define dude_family_same                  ((dude_family == self_family) and (self_family != family_none)) 
+#define dude_family_same                  ((dude_family == self_family) and (self_family != family_none))
 
 //#define self_family                       self_family_var // added by killap - expansion pack
-                         
+
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -172,10 +172,10 @@ procedure map_enter_p_proc begin
 
    /*// added by killap - expansion
    self_family_var := family_salvatore;
-   
+
    if (self_family == family_salvatore and salvatore_dead and warned_attack) then begin
       destroy_object(self_obj);
-      return;   
+      return;
    end
    // end added*/
 
@@ -262,8 +262,8 @@ end
 #define is_insert_message(x)  ((x == 203) or (x == 210) or (x == 214) or (x == 235) or      \
                                (x == 239) or (x == 241) or (x == 242) or (x == 243) or      \
                                (x == 244) or (x == 251) or (x == 252) or (x == 253) or      \
-                               (x == 266) or (x == 268)) 
-                           
+                               (x == 266) or (x == 268))
+
 procedure floater_rand_with_check_cust(variable x, variable y,  variable the_patch) begin
 variable the_msg;
    the_msg := random(x, y);
@@ -272,7 +272,7 @@ variable the_msg;
          the_msg := "" + dude_name + mstr(the_msg);
       end else
          the_msg := "" + mstr(the_msg) + the_patch + mstr(the_msg+1000);
-         
+
       float_msg(self_obj, the_msg, FLOAT_COLOR_NORMAL);
    end else
       floater(the_msg);
@@ -299,7 +299,7 @@ end
 procedure Node004 begin //prize fighter
    variable tmp;
    tmp := random(1,2);
-   
+
    if (dude_is_male) then begin
       if (tmp == 1) then
          call floater_rand_with_check_cust(230, 237, prizefighter_name);
@@ -337,11 +337,11 @@ procedure Node007 begin
    end else begin
       Reply(291);
    end
-   
+
    NOption(295,Node008,-003);
    NOption(296,Node008,-003);
    NOption(297,Node999,-003);
-   
+
    if (dude_caps >= 5) then begin
       NOption(298,Node991,004);
       if (dude_caps >= 15) then begin
@@ -355,7 +355,7 @@ procedure Node007 begin
       end
    end else
       NOption(304,Node009,004);
-   
+
    if ( (nikki_lloyd) ) then begin
       if (herebefore) then begin
          if (local_var(LVAR_Nikki_Pissed) == 1) then
@@ -369,7 +369,7 @@ procedure Node007 begin
      NOption(305,Node999,004);
 
    NOption(334 + night,Node999,001);
-   
+
 end
 
 procedure Node008 begin //retard
@@ -379,7 +379,7 @@ procedure Node008 begin //retard
       Reply(311 - (dude_is_male));
    else
       Reply(312);
-   
+
    NOption(313,Node999,-003);
    if (tmp == 2) then begin
       NOption(""+ mstr(314) + dude_name + mstr(1314),Node999,-003);
@@ -390,14 +390,14 @@ end
 procedure Node009 begin //poor
    variable tmp;
    tmp := random(1,2);
-   
+
    if (tmp == 1) then
       Reply(324 - (dude_is_male));
    else
       Reply(321 - (dude_is_male));
 
    NOption(326,Node999,004);
-   NOption(327,Node999,004);  
+   NOption(327,Node999,004);
 end
 
 procedure Node010 begin //you nikky
@@ -416,7 +416,7 @@ procedure Node010 begin //you nikky
       NOption(376,Node012,004);
       NOption(377,Node999,004);
    end
-    
+
    set_herebefore;
 end
 
@@ -425,7 +425,7 @@ procedure Node011 begin //thats a bet you would lose...
       Reply(390);
    else
       Reply(391 + dude_is_female);
-      
+
    BOption(393,Node995,004); //first check
    if (local_var(LVAR_Node_18) == 0) then
       NOption(394,Node018,004); //pretty suspicous
@@ -435,21 +435,21 @@ end
 procedure Node012 begin
    if (lloyd_dead) then begin
       Reply(380);
-      
+
    end else begin
       Reply(381);
-      
+
       NOption(383,Node011,004);
       NOption(384,Node011,004);
    end
-   
+
    NOption(382,Node007,004);
    NOption(385,Node999,004);
 end
 
 procedure Node013 begin
    Reply(400 + dude_is_female);
-   
+
    BOption(402,Node014,004); //player is getting rough
    NOption(403,Node015,004);
    NOption(404,Node999,004);
@@ -460,15 +460,15 @@ end
 
 procedure Node014 begin //player getting rough
    Reply(410);
-   
+
    NOption(411,Node995,004); //check for intimidation
    if (salvatore_dead) then
       NOption(412,Node995,004); //check for intimidation
    NOption(413,Node995,004); //check for intimidation
    if (local_var(LVAR_Node_18) == 0) then
       NOption(414,Node018,004);
-   NOption(415,Node999,004);  
-   
+   NOption(415,Node999,004);
+
 end
 
 procedure Node015 begin
@@ -515,7 +515,7 @@ procedure Node020 begin //nikki bribed
    NOption(g_mstr(352),Node021,004);
 end
 
-procedure Node021 begin //go on 
+procedure Node021 begin //go on
    Reply(480);
    if (dude_caps > 499) then
       NOption(481,Node022,004);
@@ -528,7 +528,7 @@ procedure Node022 begin //player set up
    item_caps_adjust(dude_obj, -500);
    set_nikki_bribed;
    display_msg(mstr(600));
-   give_xp(EXP_NIKKI_BRIBED_SOLVE); 
+   give_xp(EXP_NIKKI_BRIBED_SOLVE);
    Reply(490);
    NOption(491,Node999,004);
 end
@@ -541,7 +541,7 @@ end
 procedure Node024 begin //nikki pissed 2x
    Reply(510);
    NOption(511,Node999,004);
-   
+
    set_local_var(LVAR_Nikki_Pissed,1);
 end
 
@@ -565,7 +565,7 @@ procedure Node996 begin
 
    if ( (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-40))) or (dude_smooth_talker) ) then
       call Node020;
-   else 
+   else
       call Node019;
 
 end
@@ -612,12 +612,12 @@ variable the_result := 0;
       end
    end else
       NOption(304,Node009,004);
-   
+
    if (bet_amt == 0) then
      NOption(305, Node999, 004);
 
-   NOption(334 + night,Node999,001);  
-   
+   NOption(334 + night,Node999,001);
+
    if ( (nikki_lloyd) and not(herebefore) ) then
       NOption(302,Node010,004);
 end

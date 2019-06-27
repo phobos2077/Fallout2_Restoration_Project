@@ -40,25 +40,25 @@ procedure Node001;
 /*#define max_stat(x)                    while (get_critter_stat(dude_obj,x) < 10) do begin \
                                            set_critter_stat(dude_obj, x, 1);   \
                                          end   \*/
-                                       
+
 #define max_stat(x)                    counter := 0; \
                                        current_stat := get_critter_stat(dude_obj,x); \
-                                       while (counter < (10 - (current_stat - (get_pc_extra_stat(x))))) do begin \                            
+                                       while (counter < (10 - (current_stat - (get_pc_extra_stat(x))))) do begin \
                                           set_critter_stat(dude_obj, x, 1); \
                                           counter := (counter + 1); \
                                        end; \
-                                       
-                                          
-                                          
+
+
+
 #define read_book                      lvar_bit(LVAR_Flags, read_book_bit )
 
 /*#define set_read_book                  if (read_book == false) then begin                          \
                                        end                                                          \
-                                       set_lvar_bit_on(LVAR_Flags, read_book_bit);        comment out by killap*/                                                               
+                                       set_lvar_bit_on(LVAR_Flags, read_book_bit);        comment out by killap*/
 
 variable counter := 0;
 variable current_stat := 0;
-                                
+
 procedure start begin
 end
 
@@ -68,7 +68,7 @@ end
 
 procedure Node001 begin
 script_overrides;
-   //if (read_book == false) then begin 
+   //if (read_book == false) then begin
       gfade_out(ONE_GAME_SECOND);
          game_time_advance((11 - dude_iq) * ONE_GAME_HOUR);
          //set_critter_stat(dude_obj, STAT_max_hp, (999 - (get_critter_stat(dude_obj,STAT_max_hp))));
@@ -78,10 +78,10 @@ script_overrides;
          max_stat(STAT_pe);
          max_stat(STAT_en);
          max_stat(STAT_ch);
-         //When PC obtains any of the enhanced combat implants, internally the game assigns a permanent 
-         //-1 to the bonus charisma stat. The script for the Hintbook only tries to increase the base 
+         //When PC obtains any of the enhanced combat implants, internally the game assigns a permanent
+         //-1 to the bonus charisma stat. The script for the Hintbook only tries to increase the base
          //charisma stat. Since base charisma stat remains unchanged (i.e. at 10), ultimately nothing happens.
-         //Use sfall's set_pc_extra_stat() function to manually set Charisma to the proper level. 
+         //Use sfall's set_pc_extra_stat() function to manually set Charisma to the proper level.
          if (has_trait(TRAIT_PERK, dude_obj, PERK_dermal_enhancement_perk)) then
             set_pc_extra_stat(STAT_ch, get_pc_extra_stat(STAT_ch) + 1);
          if (has_trait(TRAIT_PERK, dude_obj, PERK_phoenix_enhancement_perk)) then

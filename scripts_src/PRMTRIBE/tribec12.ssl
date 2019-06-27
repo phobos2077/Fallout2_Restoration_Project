@@ -187,7 +187,7 @@ end
 procedure talk_p_proc begin
       More_Questions := 0;
       kill_leader := 0;
-      
+
       if (Fallout2_enclave_destroyed) then begin
          start_gdialog(NAME,self_obj,4,-1,-1);
          gSay_Start;
@@ -203,33 +203,33 @@ procedure talk_p_proc begin
       end
       set_local_var(LVAR_Herebefore,1);
       if (kill_leader) then
-         critter_dmg(self_obj,10000,DMG_fire);  
+         critter_dmg(self_obj,10000,DMG_fire);
 end
 
 procedure Node001 begin
    if (More_Questions == 1) then
       Reply(105);
    else if (local_var(LVAR_Herebefore) == 1) then
-      Reply(104);   
-   else if (global_var(GVAR_SULIK_SISTER) >= 4) then 
+      Reply(104);
+   else if (global_var(GVAR_SULIK_SISTER) >= 4) then
       Reply(102);
    else
       Reply(103);
-      
+
    if( not( dude_found_geck ) ) then
       NOption(106,Node002,004);
-   
+
    if ( (global_var(GVAR_SULIK_SISTER) == 1) and (local_var(LVAR_Sulik_Sis) == 0) ) then
       NOption(107,Node003,004);
    NOption(108,Node006,004);
    NOption(109,Node999,004);
-   
+
    if ( (global_var(GVAR_SULIK_SISTER) == 1) and (local_var(LVAR_Sulik_Sis) == 0) ) then
       NLowOption(141,Node003);
-      
+
    if( not( dude_found_geck ) ) then
       NLowOption(140,Node002);
-      
+
    NLowOption(142,Node999);
    More_Questions := 0;
 end
@@ -237,10 +237,10 @@ end
 procedure Node002 begin
    Reply(110);
    NOption(111,Node090,004);
-   
+
    NLowOption(150,Node090);
    NLowOption(142,Node999);
-   
+
    NOption(112,Node999,004);
 end
 
@@ -265,7 +265,7 @@ procedure Node004 begin
       Reply(126);
    else
       Reply(125);
-      
+
    NOption(127,Node005,004);
    NLowOption(170,Node005);
 end
@@ -274,30 +274,30 @@ procedure Node005 begin
    Reply(128);
    NOption(129,Node090,004);
    NOption(112,Node999,004);
-   
+
    NLowOption(150,Node090);
    NLowOption(142,Node999);
-   
+
    set_local_var(LVAR_Sulik_Sis,1);
 end
 
 procedure Node006 begin
    Reply(130);
    NOption(129,Node090,004);
-   NOption(112,Node999,004);  
+   NOption(112,Node999,004);
 end
 
 procedure Node007 begin
    Reply(300);
    NOption(301,Node008,004);
-   NOption(302,Node999,004);  
+   NOption(302,Node999,004);
 end
 
 procedure Node008 begin
    Reply(310);
    NOption(311,Node009,004);
    if (global_var(GVAR_EASTER_EGG_ENCOUNTER) == 1) then
-      NOption(312,Node009,004);  
+      NOption(312,Node009,004);
 end
 
 procedure Node009 begin

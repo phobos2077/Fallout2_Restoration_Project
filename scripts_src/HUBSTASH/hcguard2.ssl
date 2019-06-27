@@ -97,14 +97,14 @@ procedure critter_p_proc begin
    if ( ((san_fran_flag(SF_ELRON_ENEMY)) or (map_var(MVAR_Attack_Player) == 1)) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
        attack(dude_obj);
    end
-   
+
    if (map_var(MVAR_Attack_Player) != 1) then begin
-      
-   
+
+
       if ( (local_var(LVAR_Force_Talk) == 1) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
          force_dialog_start("Node008");
       end
-   
+
       else if (local_var(LVAR_Guard_Leave) == 1) then begin
          if ( (game_time - (map_var(MVAR_Guard_Time)))  >= ONE_GAME_MINUTE * 10) then begin
             set_local_var(LVAR_Guard_Leave,0);
@@ -151,7 +151,7 @@ procedure timed_event_p_proc begin
          end else begin
             object_tamper := 0;
             force_dialog_start("Node011");
-         end     
+         end
       end else begin
          object_tamper := 0;
       end
@@ -292,7 +292,7 @@ end
 
 procedure Node990 begin
    From_Node := 990;
-   
+
    if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -30 ) ) ) then
       call Node005;
    else
@@ -301,7 +301,7 @@ end
 
 procedure Node991 begin
    From_Node := 991;
-   
+
    if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -30 ) ) ) then
       call Node003;
    else

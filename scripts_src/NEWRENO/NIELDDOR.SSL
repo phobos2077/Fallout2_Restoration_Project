@@ -34,7 +34,7 @@ end
 procedure map_enter_p_proc begin
   // eldridge_open time
   if not((game_time_hour >= 600) and (game_time_hour <= 2100)) then
-    obj_close(self_obj); 
+    obj_close(self_obj);
   call def_map_enter_p_proc;
 end
 // end added

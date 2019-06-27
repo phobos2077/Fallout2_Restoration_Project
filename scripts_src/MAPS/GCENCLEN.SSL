@@ -5,7 +5,7 @@
         Description: Opis
 
         Log:
-           
+
 
            Created:
 
@@ -78,14 +78,14 @@ begin
    override_map_start(20123 % 200, 20123 / 200, 0, 0);
    call make_warriors_p_proc;
    Lighting;
-   
+
    Check_Create_Car(GECKO_ENCLAVE_HEX, 0)
 end
 
 procedure map_update_p_proc begin
    Lighting;
 end
- 
+
 procedure map_exit_p_proc
 begin
    set_global_var(GVAR_CAR_PLACED_TILE, 0);

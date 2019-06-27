@@ -251,13 +251,13 @@ end
 
 procedure critter_p_proc begin
 
-   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_DEX)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_DEX))) then begin 
+   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_DEX)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_DEX))) then begin
       set_map_var(MVAR_Kitty_Drug, 0);
       waiting := 1;
       if (get_critter_stat(self_obj, STAT_st) < 10) then begin
          use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
       end
-   end 
+   end
 
    if( Perform_Critter_Float == 1 ) then begin
       Perform_Critter_Float := 0;
@@ -291,7 +291,7 @@ procedure critter_p_proc begin
                party_member_follow_dude
             end
          end
-      end 
+      end
    end
 end
 
@@ -350,7 +350,7 @@ procedure map_enter_p_proc begin
       Perform_Critter_Float := 1;
    else
       Perform_Critter_Float := 0;
-   
+
    flush_add_timer_event_sec(self_obj, random(25, 40), 1);
 end
 
@@ -429,16 +429,16 @@ procedure talk_p_proc begin
       gSay_End;
       end_dialogue;
   end
-  
+
   if (local_var(LVAR_Kill_NPC) == 1) then begin
       set_obj_visibility(self_obj,0); //visi
       call kill_p_proc;
   end
-  
+
   if (local_var(LVAR_Kill_Player) == 1) then begin
       critter_dmg(dude_obj,10000, DMG_normal_dam);
   end
-  
+
 end
 
 procedure Node999 begin
@@ -447,22 +447,22 @@ end
 
 procedure Node900 begin
    variable locker := 0;
-   
+
    locker:=tile_contains_pid_obj(DEX_LOCKER_HEX,dude_elevation,PID_LOCKER_CLEAN_LEFT);
    move_obj_inven_to_obj(locker, self_obj);
    obj_open( locker );
-   
+
    set_obj_visibility(self_obj,0); //visi
    destroy_object(tile_contains_pid_obj(DEX_HIB_HEX,dude_elevation,33556340));
    chamber:=create_object_sid(33556343,DEX_HIB_HEX,dude_elevation,-1);
-   
+
    set_local_var(LVAR_Hostile,1);
 
 end
 
 procedure Node901 begin
    variable locker := 0;
-   
+
    if (dude_charisma <= 1) then begin
       Reply(2020);
       set_local_var(LVAR_Wait,1);
@@ -476,11 +476,11 @@ procedure Node901 begin
       set_local_var(LVAR_Joined,1);
       //floater(262);
    end
-   
+
    locker:=tile_contains_pid_obj(DEX_LOCKER_HEX,dude_elevation,PID_LOCKER_CLEAN_LEFT);
    move_obj_inven_to_obj(locker, self_obj);
    obj_open( locker );
-   
+
    set_obj_visibility(self_obj,0); //visi
    destroy_object(tile_contains_pid_obj(DEX_HIB_HEX,dude_elevation,33556340));
    chamber:=create_object_sid(33556343,DEX_HIB_HEX,dude_elevation,-1);
@@ -520,20 +520,20 @@ procedure timed_event_p_proc begin
          end else if ( (MacRae_In_Party) and (random(1,2) == 2) ) then begin
             call Node2104;
          end else if ( (Lenny_In_Party) and (random(1,2) == 2) ) then begin
-            call Node2105;      
+            call Node2105;
          end else if ( (Marcus_In_Party) and (random(1,2) == 2) ) then begin
             call Node2106;
          end else if ( (Myron_In_Party) and (random(1,2) == 2) ) then begin
-            call Node2107;  
+            call Node2107;
          end else if ( (Goris_In_Party) and (random(1,2) == 2) ) then begin
-            call Node2108;  
+            call Node2108;
          end else begin
             call Node2000;
          end
       end
    end
  end
- 
+
  flush_add_timer_event_sec(self_obj, random(90, 120), 1);
 end
 
@@ -575,14 +575,14 @@ end
 
 procedure Node005 begin
    Reply(240);
-   
+
    if (map_var(MVAR_Read_Dex_Bio) == 1) then begin
       BOption(242,Node900,004);
       BOption(243,Node007,004);
    end else begin
       NOption(241,Node006,004);
    end
-   
+
 end
 
 procedure Node006 begin
@@ -710,7 +710,7 @@ end
 
 procedure Node021 begin
    Reply(450);
-   
+
    if (map_var(MVAR_Read_Dex_Bio) == 1) then begin
       NOption(451,Node022,004);
       NOption(452,Node022,004);
@@ -919,7 +919,7 @@ end
 
 procedure Node045 begin
    Reply(820);
-   
+
    if (map_var(MVAR_Read_Dex_Bio) == 1) then begin
       NOption(mstr(821) + dude_name + mstr(822),Node049,004);
       BOption(825,Node900,004);
@@ -1135,7 +1135,7 @@ procedure Node1100 begin
    end
 end
 
-//floats 
+//floats
 
 //general
 procedure Node2000 begin
@@ -1362,7 +1362,7 @@ procedure Node202 begin
    critter_mod_skill(dude_obj, SKILL_CONVERSANT, 15);
    critter_mod_skill(dude_obj, SKILL_BARTER, 15);
    game_time_advance(2*ONE_GAME_HOUR);
-   
+
    Reply(3105);
    NOption(3106,Node1000,004);
 end
@@ -1374,7 +1374,7 @@ procedure Node300 begin
       Reply(1220);
    else if (local_var(LVAR_Vault_Times_Asked) == 2) then
       Reply(1230);
-      
+
    NOption(1211,Node1000,004);
    set_local_var(LVAR_Vault_Times_Asked,local_var(LVAR_Vault_Times_Asked) + 1);
 end
@@ -1399,7 +1399,7 @@ procedure Node304 begin
    variable tmp;
 
    //tmp := random(1,6);
-   
+
    if (local_var(LVAR_Story_Count) == 0) then
       call Node305;
    else if (local_var(LVAR_Story_Count) == 1) then
@@ -1412,10 +1412,10 @@ procedure Node304 begin
       call Node313;
    else if (local_var(LVAR_Story_Count) == 5) then
       call Node315;
-      
+
    set_local_var(LVAR_Story_Count,(local_var(LVAR_Story_Count) + 1));
    //count += 1;
-   
+
 end
 
 procedure Node305 begin

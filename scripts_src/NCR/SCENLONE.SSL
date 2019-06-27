@@ -248,10 +248,10 @@ procedure destroy_p_proc begin
    //display_msg(mstr(218) + EXP_MERK_HUB_DEAD + mstr(219));
 
    //set_merk_status(MERK_STATUS_PLEASED);
-   
+
    if (merk_seed_status(MSS_KILL_ELRON)) then begin //edit by killap
       set_merk_status(MERK_STATUS_PLEASED);
-   end 
+   end
 end
 
 /* Look_at_p_proc gets called any time that the player passes the cursor over any object.

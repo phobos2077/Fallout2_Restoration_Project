@@ -302,7 +302,7 @@ procedure Node006 begin
 
    num_iquana := obj_is_carrying_obj_pid(self_obj, PID_IGUANA_ON_A_STICK);
    num_meat := obj_is_carrying_obj_pid(self_obj, PID_MEAT_ON_A_STICK);
-   
+
    if ((number == num_iquana) and (number1 == num_meat)) then
       call Node003;
    else

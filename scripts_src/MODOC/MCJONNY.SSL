@@ -379,7 +379,7 @@ procedure Node020 begin
    set_jonny_known;
    set_jonny_name_known;
    //end added by killap
-   
+
    Reply(197);
    if (jonny_seed_active) then begin
       NOption(166,Node014,004);

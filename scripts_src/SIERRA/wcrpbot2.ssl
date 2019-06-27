@@ -143,9 +143,9 @@ procedure critter_p_proc begin
    variable cur_hp;
    variable door_tile;
 
-   /*if (((self_elevation == 0 or self_elevation == 1) and (self_tile == 20119 or self_tile == 20319 or self_tile == 20519 or self_tile == 20317 or self_tile == 20117 or self_tile == 19917)) or 
+   /*if (((self_elevation == 0 or self_elevation == 1) and (self_tile == 20119 or self_tile == 20319 or self_tile == 20519 or self_tile == 20317 or self_tile == 20117 or self_tile == 19917)) or
         (self_elevation == 2 and (self_tile == 21137 or self_tile == 20937 or self_tile == 20737 or self_tile == 21135 or self_tile == 20935 or self_tile == 20735))) then begin
-       
+
        if (self_elevation == 0) then
          door_tile := DOOR_LVL1;
        else if (self_elevation == 1) then
@@ -154,7 +154,7 @@ procedure critter_p_proc begin
          door_tile := DOOR_LVL3
 
        if (tile_contains_pid_obj(door_tile,self_elevation,DOOR_PID)) then begin
-       
+
        end
    end*/
 
@@ -306,11 +306,11 @@ procedure map_exit_p_proc begin
    variable Bot4;
    variable Bot5;
    variable Bot6;
-   variable Bot7;   
-   variable Bot8;   
+   variable Bot7;
+   variable Bot8;
    variable Bot9;
-   variable Bot10;   
-   variable Bot11;   
+   variable Bot10;
+   variable Bot11;
    variable Bot12;
 
    if (map_var(MVAR_Repair_Request1) != -1) then begin
@@ -328,9 +328,9 @@ procedure map_exit_p_proc begin
       Bot5:=tile_contains_pid_obj(map_var(MVAR_Tile_Request5),map_var(MVAR_Elevation_Request5),map_var(MVAR_Pid_Request5));
       Bot6:=tile_contains_pid_obj(map_var(MVAR_Tile_Request6),map_var(MVAR_Elevation_Request6),map_var(MVAR_Pid_Request6));
       Bot7:=tile_contains_pid_obj(map_var(MVAR_Tile_Request7),map_var(MVAR_Elevation_Request7),map_var(MVAR_Pid_Request7));
-      Bot8:=tile_contains_pid_obj(map_var(MVAR_Tile_Request8),map_var(MVAR_Elevation_Request8),map_var(MVAR_Pid_Request8));       
-      Bot9:=tile_contains_pid_obj(map_var(MVAR_Tile_Request9),map_var(MVAR_Elevation_Request9),map_var(MVAR_Pid_Request9)); 
-      Bot10:=tile_contains_pid_obj(map_var(MVAR_Tile_Request10),map_var(MVAR_Elevation_Request10),map_var(MVAR_Pid_Request10));      
+      Bot8:=tile_contains_pid_obj(map_var(MVAR_Tile_Request8),map_var(MVAR_Elevation_Request8),map_var(MVAR_Pid_Request8));
+      Bot9:=tile_contains_pid_obj(map_var(MVAR_Tile_Request9),map_var(MVAR_Elevation_Request9),map_var(MVAR_Pid_Request9));
+      Bot10:=tile_contains_pid_obj(map_var(MVAR_Tile_Request10),map_var(MVAR_Elevation_Request10),map_var(MVAR_Pid_Request10));
       Bot11:=tile_contains_pid_obj(map_var(MVAR_Tile_Request11),map_var(MVAR_Elevation_Request11),map_var(MVAR_Pid_Request11));
       Bot12:=tile_contains_pid_obj(map_var(MVAR_Tile_Request12),map_var(MVAR_Elevation_Request12),map_var(MVAR_Pid_Request12));
 
@@ -375,7 +375,7 @@ procedure map_exit_p_proc begin
          set_map_var(MVAR_Repair_Request7,REPAIR_COMPLETE);
          set_map_var(MVAR_Tile_Request7,0);
          Inc_Bot(map_var(MVAR_Pid_Request7),map_var(MVAR_Elevation_Request7));
-      end      
+      end
       if (Bot8) then begin
          destroy_object(Bot8);
          set_map_var(MVAR_Repair_Request8,REPAIR_COMPLETE);
@@ -399,14 +399,14 @@ procedure map_exit_p_proc begin
          set_map_var(MVAR_Repair_Request11,REPAIR_COMPLETE);
          set_map_var(MVAR_Tile_Request11,0);
          Inc_Bot(map_var(MVAR_Pid_Request11),map_var(MVAR_Elevation_Request11));
-      end      
+      end
       if (Bot12) then begin
          destroy_object(Bot12);
          set_map_var(MVAR_Repair_Request12,REPAIR_COMPLETE);
          set_map_var(MVAR_Tile_Request12,0);
          Inc_Bot(map_var(MVAR_Pid_Request12),map_var(MVAR_Elevation_Request12));
       end
-      
+
       if (map_var(MVAR_Repair_Request1) != 0) then begin
          set_map_var(MVAR_Repair_Request1,REPAIR_COMPLETE);
          set_map_var(MVAR_Tile_Request1,0);
@@ -467,7 +467,7 @@ procedure map_exit_p_proc begin
          set_map_var(MVAR_Tile_Request12,0);
          Inc_Bot(map_var(MVAR_Pid_Request12),map_var(MVAR_Elevation_Request12));
       end
-      
+
    end
 
 end
@@ -479,7 +479,7 @@ end
 procedure use_skill_on_p_proc begin
    //added by killap
    variable Skill;
-   
+
    Skill:=action_being_used;
 
    if ( (Skill == SKILL_REPAIR) or (Skill == SKILL_STEAL) ) then
@@ -520,7 +520,7 @@ procedure destroy_p_proc begin
       set_gvar_bit_on(GVAR_LOAD_MAP_INDEX, REPAIR_BOT2_DEAD);
    end else if (self_obj == repair_bot3) then begin
       repair_bot3 := 0;
-      set_gvar_bit_on(GVAR_LOAD_MAP_INDEX, REPAIR_BOT3_DEAD); 
+      set_gvar_bit_on(GVAR_LOAD_MAP_INDEX, REPAIR_BOT3_DEAD);
    end
    //end
 
@@ -717,20 +717,20 @@ procedure RepairRequest begin
            set_map_var(MVAR_Repair_Request11,REPAIR_ANSWERED);
            set_local_var(LVAR_Have_Request_Num,11);
            debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
-       end       
+       end
        else if (map_var(MVAR_Repair_Request12) == REPAIR_REQUEST) then begin
            set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
            set_map_var(MVAR_Repair_Request12,REPAIR_ANSWERED);
            set_local_var(LVAR_Have_Request_Num,12);
            debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
-       end              
+       end
        else begin
            call PickupRequest;
        end
    end
    if (local_var(LVAR_Have_Request_Num) > 0) then begin
       critter_attempt_placement(self_obj,ELEVATOR_4,HOME_ELEVATION);
-      set_obj_visibility(self_obj, 0); //visible   
+      set_obj_visibility(self_obj, 0); //visible
    end
 end
 
@@ -778,13 +778,13 @@ procedure PickupRequest begin
            set_map_var(MVAR_Repair_Request7,REPAIR_PICKUP_ANSWER);
            set_local_var(LVAR_Have_Request_Num,7);
            debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
-       end       
+       end
         else if (map_var(MVAR_Repair_Request8) == REPAIR_PICKUP) then begin
            set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
            set_map_var(MVAR_Repair_Request8,REPAIR_PICKUP_ANSWER);
            set_local_var(LVAR_Have_Request_Num,8);
            debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
-       end      
+       end
        else if (map_var(MVAR_Repair_Request9) == REPAIR_PICKUP) then begin
            set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
            set_map_var(MVAR_Repair_Request9,REPAIR_PICKUP_ANSWER);
@@ -796,19 +796,19 @@ procedure PickupRequest begin
            set_map_var(MVAR_Repair_Request10,REPAIR_PICKUP_ANSWER);
            set_local_var(LVAR_Have_Request_Num,10);
            debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
-       end       
+       end
        else if (map_var(MVAR_Repair_Request11) == REPAIR_PICKUP) then begin
            set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
            set_map_var(MVAR_Repair_Request11,REPAIR_PICKUP_ANSWER);
            set_local_var(LVAR_Have_Request_Num,11);
            debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
-       end       
+       end
        else if (map_var(MVAR_Repair_Request12) == REPAIR_PICKUP) then begin
            set_map_var(MVAR_Free_Bots, map_var(MVAR_Free_Bots)-1);
            set_map_var(MVAR_Repair_Request12,REPAIR_PICKUP_ANSWER);
            set_local_var(LVAR_Have_Request_Num,12);
            debug_msg("Sending Repair Bot "+local_var(LVAR_Have_Request_Num)+".");
-       end              
+       end
    end
 end
 
@@ -848,7 +848,7 @@ procedure RepairTravel begin
    end
    else if (local_var(LVAR_Have_Request_Num) == 12) then begin
        call Repair12;
-   end     
+   end
 end
 
 procedure Repair1 begin
@@ -2181,7 +2181,7 @@ procedure PrepareBot begin
    //added by killap
    if (map_var(MVAR_Last_Restock) == 0) then
       set_map_var(MVAR_Last_Restock,game_time);
-      
+
    destroy_obj_inven(self_obj);
    //end
 //TODO
@@ -2238,13 +2238,13 @@ procedure PrepareBot begin
        set_local_var(LVAR_Have_Request_Num,0);
        set_local_var(LVAR_Replace_Bot,0);
        Inc_Bot(map_var(MVAR_Pid_Request9),map_var(MVAR_Elevation_Request9));
-   end         
+   end
    else if (local_var(LVAR_Have_Request_Num) == 10) then begin
        set_map_var(MVAR_Repair_Request10,REPAIR_COMPLETE);
        set_local_var(LVAR_Have_Request_Num,0);
        set_local_var(LVAR_Replace_Bot,0);
        Inc_Bot(map_var(MVAR_Pid_Request10),map_var(MVAR_Elevation_Request10));
-   end   
+   end
    else if (local_var(LVAR_Have_Request_Num) == 11) then begin
        set_map_var(MVAR_Repair_Request11,REPAIR_COMPLETE);
        set_local_var(LVAR_Have_Request_Num,0);
@@ -2256,5 +2256,5 @@ procedure PrepareBot begin
        set_local_var(LVAR_Have_Request_Num,0);
        set_local_var(LVAR_Replace_Bot,0);
        Inc_Bot(map_var(MVAR_Pid_Request12),map_var(MVAR_Elevation_Request12));
-   end      
+   end
 end

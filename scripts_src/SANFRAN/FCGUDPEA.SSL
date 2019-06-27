@@ -217,7 +217,7 @@ procedure talk_p_proc begin
    //moved up two by killap
    end else if (san_fran_flag(SF_OZ9_DEAD)) then begin
       call Node007;
-   //end      
+   //end
    end else if (san_fran_flag(SF_DRAGON_DEAD)) then begin
       call Node004;
    end else if (san_fran_flag(SF_LOPAN_DEAD)) then begin

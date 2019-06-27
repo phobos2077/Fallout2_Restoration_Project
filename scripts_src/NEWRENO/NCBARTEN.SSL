@@ -146,14 +146,14 @@ end
 
 procedure talk_p_proc begin
    script_overrides;
-   
+
    //added by killap
-   if ((dude_family==self_family) or (enclave_destroyed)) then    
-      gdialog_set_barter_mod(-75); 
-   else if (dude_is_prizefighter) then              
-      gdialog_set_barter_mod(-25);         
+   if ((dude_family==self_family) or (enclave_destroyed)) then
+      gdialog_set_barter_mod(-75);
+   else if (dude_is_prizefighter) then
+      gdialog_set_barter_mod(-25);
    //end added by killap
-                                       
+
    if ((dude_is_made_man) and (self_family != dude_family)) then begin
       call Node004;
    end else begin

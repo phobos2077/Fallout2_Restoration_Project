@@ -206,7 +206,7 @@ procedure talk_p_proc begin
    //added by killap
    if ( (jjj_slander) or (pissed) ) then
      gdialog_set_barter_mod(20);
-   
+
    if (know_jjj) then begin
       start_dialog_at_node(Node007);
    end else begin
@@ -290,16 +290,16 @@ procedure Node985 begin
    end
 end
 procedure Node984 begin
-   
+
    //added by killap
    if ( (jjj_slander) or (pissed) ) then
       gdialog_mod_barter(20);
    else if (temp_barter_bonus) then
       gdialog_mod_barter(-20);
    else
-   //added by killap 
+   //added by killap
       gdialog_barter;
-  
+
    call return_node;
 end
 procedure Node983 begin

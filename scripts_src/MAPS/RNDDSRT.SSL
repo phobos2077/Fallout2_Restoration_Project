@@ -64,7 +64,7 @@ procedure map_enter_p_proc begin
    debug_msg("RNDDSRT map_enter_p_proc == " + cur_map_index);
    set_map_exit_tiles(0,0);
    Lighting;
-   
+
    /*if (global_var(GVAR_LOAD_MAP_INDEX) == 5) then begin
       if ( (global_var(GVAR_RND_KAGA_STATE) == 0) or (global_var(GVAR_RND_KAGA_STATE) == 1) ) then begin
          Critter:=create_object_sid(PID_KAGA,0,0,SCRIPT_ECKAGA1);

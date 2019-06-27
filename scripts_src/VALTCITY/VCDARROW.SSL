@@ -233,7 +233,7 @@ procedure talk_p_proc begin
 
    if (global_var(GVAR_VAULT_CITIZENSHIP) != CITIZEN_TRUE) then //added by killap
       gdialog_set_barter_mod(50);
-      
+
    if ( not(Fallout2_enclave_destroyed) and ( Marcus_Ptr != 0 ) and ( global_var(GVAR_VAULT_CITIZEN) != CITIZEN_CAPTAIN_GUARD ) ) then begin
        call Node005;
    end

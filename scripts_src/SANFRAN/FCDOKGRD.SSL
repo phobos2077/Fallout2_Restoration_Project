@@ -214,10 +214,10 @@ end
 
 procedure map_enter_p_proc begin
    boatGrd_ptr := self_obj;
-   
+
    if (map_first_run) then
       set_local_var(LVAR_Home_Tile,self_tile);
-   
+
    add_timer_event(self_obj,game_ticks(random(10,15)),2);
 end
 
@@ -287,11 +287,11 @@ procedure Node001 begin
    end else begin
       Reply(201);
    end
-   
+
    NOption(202, Node002, 4);
    NOption(203, Node900, 4);
    NOption(204, Node999, 4);
-   
+
 end
 
 procedure Node900 begin

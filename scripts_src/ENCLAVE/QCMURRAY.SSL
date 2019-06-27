@@ -378,7 +378,7 @@ procedure Node013 begin
    GOption(154,Node013a,004);
    BOption(155,Node998,004);
    NOption(156,Node008b,004);
-end 
+end
 
 procedure Node013a begin
    if (skill_success(dude_obj,SKILL_CONVERSANT,0)) then

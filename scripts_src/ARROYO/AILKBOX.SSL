@@ -443,9 +443,9 @@ procedure map_update_p_proc begin
    variable Have_Knife;
 
    //edit made below by killap
-   
+
    //Have_Pouches:=(obj_is_carrying_obj_pid(self_obj,PID_STIMPAK) >= 2);              // Temp until get Healing Pouches
-   Have_Pouches:=(obj_is_carrying_obj_pid(self_obj,PID_HEALING_POWDER) >= 2); 
+   Have_Pouches:=(obj_is_carrying_obj_pid(self_obj,PID_HEALING_POWDER) >= 2);
    //Have_Knife:=(obj_is_carrying_obj_pid(self_obj,PID_COMBAT_KNIFE) >= 1);
    Have_Knife:=(obj_is_carrying_obj_pid(self_obj,PID_KNIFE) >= 1);
 

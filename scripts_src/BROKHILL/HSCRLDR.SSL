@@ -509,7 +509,7 @@ procedure map_update_p_proc begin
       set_local_var(LVAR_Locked,STATE_ACTIVE);
    end
    //end added
-   
+
    if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
       obj_close(self_obj);
       obj_lock(self_obj);

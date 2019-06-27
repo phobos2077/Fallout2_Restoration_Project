@@ -3,8 +3,8 @@
 */
 
 /*
-        Name: 
-        Location: 
+        Name:
+        Location:
         Description:
 
         Log:
@@ -16,7 +16,7 @@
 
 /* Include Files */
 #include "..\headers\define.h"
-#include "..\headers\tribe02.H" 
+#include "..\headers\tribe02.H"
 #define NAME                    SCRIPT_TRIBESP2
 #include "..\headers\command.h"
 
@@ -56,7 +56,7 @@ end
 
 procedure timed_event_p_proc begin
    variable sound1;
-   
+
    if (fixed_param==1) then begin
       debug_msg("ECKAGA1: tile_set_center(19903): " + tile_set_center(13897)); //screen will recenter on kaga
       add_timer_event(self_obj,(game_ticks(0)),2);
@@ -71,7 +71,7 @@ procedure timed_event_p_proc begin
       add_timer_event(self_obj,(game_ticks(1)),5);
    end else if (fixed_param==5) then begin
       attack_setup(GECKO_obj,WARRIOR_obj);
-      
+
       /*reg_anim_clear(GECKO_obj);
       reg_anim_begin();
         reg_anim_animate(GECKO_obj, ANIM_swing_anim, -1);

@@ -7,7 +7,7 @@
 
 /* Include Files */
 #include "..\headers\define.h"
-#include "..\headers\ABBEY.H" 
+#include "..\headers\ABBEY.H"
 
 #define NAME                    SCRIPT_ABBILL
 #define TOWN_REP_VAR            GVAR_TOWN_REP_ABBEY           //Global variable name for this Town
@@ -171,13 +171,13 @@ procedure talk_p_proc begin
    script_overrides;
 
    move_obj_inven_to_obj(abbey_bill_box_obj,self_obj);
-      
+
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
             call Node001;
       gSay_End;
       end_dialogue;
-      
+
    move_obj_inven_to_obj(self_obj,abbey_bill_box_obj);
 end
 
@@ -194,14 +194,14 @@ procedure Node001 begin
    else
       Reply(201);
    NOption(202, barter, 004);
-   
+
    if (local_var(LVAR_Sold_Marcus_Armor) == 0) then
       NOption(210, Node006, 004);
-   
+
    if (map_var(MVAR_Caravan_Info) > 0 ) then
       NOption(203, Node002, 004);
    NOption(204, Node999, 004);
-   
+
    set_local_var(LVAR_Herebefore,1);
 end
 
@@ -210,8 +210,8 @@ procedure Node002 begin
    NOption(301, Node003, 004);
    NOption(302, Node004, 004);
    NOption(204, Node999, 004);
-   
-   set_map_var(MVAR_Caravan_Info,2); 
+
+   set_map_var(MVAR_Caravan_Info,2);
 end
 
 procedure Node003 begin
@@ -269,19 +269,19 @@ end
 
 procedure Node010 begin
    variable armor;
-   
+
    set_local_var(LVAR_Sold_Marcus_Armor,1);
    item_caps_adjust(dude_obj, -3000);
-   
+
    armor := create_object(PID_MUTANT_ARMOR_WEARABLE,0,0);
    add_obj_to_inven(Marcus_Ptr,armor);
    wield_obj_critter(Marcus_Ptr, armor);
    metarule3(107,Marcus_Ptr,FID_MALIEU,0);
-   
+
    float_msg(Marcus_Ptr, mstr(226), FLOAT_MSG_GREEN);
    add_timer_event(Marcus_Ptr,game_ticks(1),3);
-   
+
    Reply(224);
    NOption(225, Node999, 004);
-   
+
 end

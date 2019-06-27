@@ -238,7 +238,7 @@ procedure look_at_p_proc begin
       display_msg(mstr(2400));
    else if (self_tile == MASSES_1_TILE or self_tile == MASSES_2_TILE or self_tile == MASSES_3_TILE or
    self_tile == MASSES_4_TILE or self_tile == MASSES_5_TILE) then
-      display_msg(mstr(2500)); 
+      display_msg(mstr(2500));
 
 end
 
@@ -295,7 +295,7 @@ procedure description_p_proc begin
       display_msg(mstr(2401));
    else if (self_tile == MASSES_1_TILE or self_tile == MASSES_2_TILE or self_tile == MASSES_3_TILE or
    self_tile == MASSES_4_TILE or self_tile == MASSES_5_TILE) then
-      display_msg(mstr(2501)); 
+      display_msg(mstr(2501));
 end
 
 
@@ -331,7 +331,7 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-   
+
 end
 
 
@@ -370,7 +370,7 @@ procedure talk_p_proc begin
          end
       end
    end else if (self_tile == CONTINUUM_TILE) then begin
-      variable conti; 
+      variable conti;
       conti := random(310,313);
       floater(conti);
       if (conti == 310) then
@@ -545,7 +545,7 @@ procedure talk_p_proc begin
    self_tile == MASSES_4_TILE or self_tile == MASSES_5_TILE) then begin
       display_msg(mstr(2500));
    end
-   
+
 end
 
 //Ivan
@@ -569,7 +569,7 @@ end
 procedure Node003 begin
    if (local_var(LVAR_KILLAP_TALKED_ONCE) == 0) then
       set_local_var(LVAR_KILLAP_TALKED_ONCE,1);
-      
+
    Reply(mstr(910) + dude_name + mstr(911));
    if (local_var(LVAR_KILLAP_TALKED_ONCE) < 2) then
       NOption(912,Node004,004);
@@ -729,7 +729,7 @@ procedure Node021 begin
    end else begin
       NOption(1124,Node023,004);
    end
-   
+
    NOption(1125,Node999,004);
 end
 
@@ -823,7 +823,7 @@ end
 procedure Node034 begin
    Reply(2110);
    NOption(2111,Node034b,004);
-   NOption(2112,Node999,004);   
+   NOption(2112,Node999,004);
 end
 
 procedure Node034b begin
@@ -837,17 +837,17 @@ end
 procedure Node035 begin
    Reply(2120);
    NOption(2121,Node037,004);
-   NOption(2122,Node999,004);   
+   NOption(2122,Node999,004);
 end
 
 procedure Node036 begin
    Reply(2130);
    NOption(2131,Node037,004);
-   NOption(2132,Node999,004);   
+   NOption(2132,Node999,004);
 end
 
 procedure Node037 begin
    Reply(2140);
    NOption(2141,Node999,004);
-   NOption(2142,Node999,004);   
+   NOption(2142,Node999,004);
 end

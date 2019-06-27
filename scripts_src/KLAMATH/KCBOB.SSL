@@ -542,20 +542,20 @@ procedure Node019 begin
    variable msg;
    variable comma_needed := false;
    variable count := 0;
-   
+
    msg := mstr(290);
-   
+
    if ((global_var(GVAR_KLAMATH_FIND_RUSTLERS) < FIND_RUSTLERS_SUCCESS) and (global_var(GVAR_DUNTON_DEAD) == 0) and (global_var(GVAR_SCARE_DUNTONS) == 0)) then begin
       msg += mstr(2901);
       comma_needed := true;
       count += 1;
    end
- 
+
    if not(map_is_known(MAP_KLAMATH_CANYON)) then begin
       if (comma_needed) then
          msg += ", ";
-      else 
-        comma_needed := true;   
+      else
+        comma_needed := true;
       msg += mstr(2902);
       count += 1;
    end
@@ -563,7 +563,7 @@ procedure Node019 begin
    if (global_var(GVAR_QUEST_RAT_GOD) < RAT_GOD_SUCCESS) then begin
       if (comma_needed) then
          msg += ", ";
-      else 
+      else
         comma_needed := true;
       msg += mstr(2903);
       count += 1;
@@ -575,7 +575,7 @@ procedure Node019 begin
       msg += mstr(2904);
       count += 1;
    end
-   
+
    if (count > 0) then
       msg += mstr(2905);
    else if (count == 0) then
@@ -583,7 +583,7 @@ procedure Node019 begin
    //end added
 
    Reply(msg);
-   
+
    if ((global_var(GVAR_KLAMATH_FIND_RUSTLERS) < FIND_RUSTLERS_SUCCESS) and (global_var(GVAR_DUNTON_DEAD) == 0) and (global_var(GVAR_SCARE_DUNTONS) == 0)) then //added by killap
       NOption(291,Node021,004);
    if not(map_is_known(MAP_KLAMATH_CANYON)) then //added by killap
@@ -594,7 +594,7 @@ procedure Node019 begin
       NOption(294,Node025,004);
    if (global_var(GVAR_SMILEY_STATUS) < SMILEY_RETURNED) then // added by check killap
       NOption(295,Node026,004);
-   
+
    NOption(296,Node031,004);
    NOption(297,Node003,004);
    //NOption(298,Node004,006);

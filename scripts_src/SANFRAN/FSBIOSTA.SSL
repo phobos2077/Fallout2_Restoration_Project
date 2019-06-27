@@ -151,14 +151,14 @@ procedure talk_p_proc begin
    end
 
    set_local_var(LVAR_Herebefore, 1);
-   
+
    // added by killap
    if (callGuards) then begin
       callGuards := 0;
       call doCallGuards;
-   end   
-   // end added   
-   
+   end
+   // end added
+
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like

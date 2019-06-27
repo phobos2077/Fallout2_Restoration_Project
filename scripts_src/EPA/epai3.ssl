@@ -63,7 +63,7 @@ end
 
 procedure look_at_p_proc begin
  script_overrides;
- display_msg(mstr(100)); 
+ display_msg(mstr(100));
 end
 
 procedure description_p_proc begin
@@ -76,7 +76,7 @@ begin
    if (combat_is_initialized == 0) then begin
       initial_search := 0;
       times_searched := 0;
-      
+
       start_gdialog(NAME, self_obj, 4, -1, -1);
       gsay_start;
          call Node001;
@@ -152,7 +152,7 @@ procedure Node990 begin
          Reply(130);
       else
          Reply(131);
-         
+
       NOption(108,Node990,004);
    end else begin
       if (times_searched == 0) then begin
@@ -178,12 +178,12 @@ procedure Node990 begin
          end
       end
    end
-      
+
    NOption(139,Node002,004);
    NOption(104,Node999,004);
    game_time_advance(ONE_GAME_MINUTE * 30);
    times_searched += 1;
-   
+
 end
 
 procedure Node999 begin

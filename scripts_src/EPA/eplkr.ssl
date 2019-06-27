@@ -49,9 +49,9 @@ procedure drop_p_proc
 begin
 
 end
- 
+
 procedure use_p_proc begin
-   
+
    if (tile_num(self_obj) == KITSUNE_LOCKER_HEX) then begin
       if (map_var(MVAR_Kitsune_Free) == 0) then begin
          script_overrides;
@@ -65,16 +65,16 @@ procedure use_p_proc begin
          script_overrides;
          display_msg(mstr(100));
       end
-      
+
    end
-   
+
    else if (tile_num(self_obj) == CATJULES_LOCKER_HEX) then begin
 
       if (map_var(MVAR_Cat_Jules_Free) == 0) then begin
          script_overrides;
          display_msg(mstr(100));
       end
-      
+
    end
- 
+
 end

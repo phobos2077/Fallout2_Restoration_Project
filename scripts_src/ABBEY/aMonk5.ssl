@@ -67,7 +67,7 @@ begin
  if (local_var(LVAR_Herebefore) == 0) then
    display_msg(mstr(100));
  else
-   display_msg(mstr(101)); 
+   display_msg(mstr(101));
 end
 
 procedure description_p_proc
@@ -151,7 +151,7 @@ begin
  if (global_var(GVAR_ABBEY_KNOWLEDGE_EPA) == 0) then
    NOption(301,Node002,4);
  NOption(302,Node003,4);
- if (global_var(GVAR_ABBEY_BEAST) < 4) then 
+ if (global_var(GVAR_ABBEY_BEAST) < 4) then
    NOption(303,Node004,4);
  NOption(307,Node013,4);
  NOption(306,Node999,4);
@@ -195,7 +195,7 @@ begin
    Reply(550);
  else
    Reply(414);
-   
+
  NOption(415,Node001,4);
 end
 

@@ -156,7 +156,7 @@ procedure map_enter_p_proc begin
       self_family_var := family_mordino;
    end
 
-   if ( (self_family == family_salvatore and salvatore_dead and warned_attack) or 
+   if ( (self_family == family_salvatore and salvatore_dead and warned_attack) or
        (self_family == family_bishop and bishop_dead and warned_attack) or
        (self_family == family_mordino and big_jesus_dead and lil_jesus_dead and warned_attack) ) then begin
          destroy_object(self_obj);
@@ -202,7 +202,7 @@ end
 procedure talk_p_proc begin
    script_overrides;
    // added by killap - expansion
-   /*if ( (self_family == family_salvatore and salvatore_dead and warned_attack) or 
+   /*if ( (self_family == family_salvatore and salvatore_dead and warned_attack) or
        (self_family == family_bishop and bishop_dead and warned_attack) or
        (self_family == family_mordino and big_jesus_dead and lil_jesus_dead and warned_attack) ) then begin
          float_msg(self_obj, message_str(SCRIPT_DCGAMBLE,200), FLOAT_COLOR_NORMAL);

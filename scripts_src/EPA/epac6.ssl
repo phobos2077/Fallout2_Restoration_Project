@@ -272,7 +272,7 @@ begin
     call Node010;
     gsay_end;
     end_dialogue;
-  end else 
+  end else
     float_msg(self_obj, message_str(NAME, random(330, 331)), FLOAT_MSG_YELLOW);
 end
 
@@ -322,7 +322,7 @@ begin
    giq_option(4, NAME, 242, Node009, 50);
   else
    giq_option(4, NAME, 241, Node005a, 50);
-   
+
 end
 
 procedure Node006
@@ -381,7 +381,7 @@ begin
   variable item;
   gsay_reply(NAME, 310);
   giq_option(4, NAME, 311, Node013, 50);
-  
+
   item:=create_object(PID_EPA_KEYS,0,0);
   add_obj_to_inven(dude_obj,item);
 
@@ -422,10 +422,10 @@ end
 procedure Node011a
 begin
   variable item;
-  
+
   item:=create_object(PID_EPA_KEYS,0,0);
   add_obj_to_inven(dude_obj,item);
-  
+
   display_msg(message_str(NAME, 332));
   give_xp(300);
 end

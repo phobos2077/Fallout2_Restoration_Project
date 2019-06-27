@@ -38,7 +38,7 @@ procedure Node002;
 procedure Node003;
 
 procedure pickup_p_proc begin
-   if (not(combat_is_initialized)) then begin 
+   if (not(combat_is_initialized)) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
          call Node001;
@@ -55,9 +55,9 @@ end
 procedure drop_p_proc begin
 
 end
- 
+
 procedure use_p_proc begin
-   if (not(combat_is_initialized)) then begin 
+   if (not(combat_is_initialized)) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
          call Node001;

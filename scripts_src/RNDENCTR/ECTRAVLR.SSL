@@ -303,7 +303,7 @@ procedure Node002 begin
       two := Random(0, 6);
       if (two >= one) then
          two += 1;
-         
+
       Only_Once := 1;
    end
    // End Rob's Code

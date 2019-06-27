@@ -444,7 +444,7 @@ end
 procedure Node018 begin
    if (local_var(LVAR_Consider_Format) == 1) then
       set_local_var(LVAR_Consider_Format,0);
-      
+
    Reply(330);
    NOption(331,Node902,4);
    NOption(332,Node903,4);
@@ -476,7 +476,7 @@ end
 
 procedure Node022 begin
    Reply(370);
-   
+
    //if (obj_carrying_pid_obj(self_obj, 54)) then //jason has stealth boy
       NOption(371,Node023,4);
    //else

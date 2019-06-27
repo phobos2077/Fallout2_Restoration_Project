@@ -5,7 +5,7 @@
         Description: Opis
 
         Log:
-           
+
 
            Created:
 
@@ -48,7 +48,7 @@ end
 procedure map_update_p_proc begin
    Cavern_Lighting;
 end
- 
+
 procedure map_exit_p_proc begin
- 
+
 end

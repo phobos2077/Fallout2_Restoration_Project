@@ -208,7 +208,7 @@ procedure talk_p_proc begin
    CheckKarma;
 
    GetReaction;
-   
+
    ReactToLevel; //added by killap
 
    if (bad_critter_reaction) then

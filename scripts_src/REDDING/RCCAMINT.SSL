@@ -410,10 +410,10 @@ procedure Node009 begin
       move_to(Bette_Ptr,5000,0);
       set_obj_visibility(Bette_Ptr,1);
       set_obj_visibility(self_obj,1);
-      
+
       gfade_in(600);
-      
-      
+
+
    end
    else if (global_var(GVAR_BAR_BRAWL) != BRAWL_TALKED_BOTH) then
       set_global_var(GVAR_BAR_BRAWL,BRAWL_TALKED_CAMINT);
@@ -455,7 +455,7 @@ procedure Node011a begin
    move_to(dude_obj,Tile3,0);
    display_msg(g_mstr(1020)); //added by killap
    give_xp(EXP_STOP_BAR_BRAWL);
-   
+
    set_global_var(GVAR_BAR_BRAWL,BRAWL_BOTH_JAILED);
 end
 
@@ -484,7 +484,7 @@ procedure Node013a begin
    display_msg(g_mstr(1020)); //added by killap
    give_xp(EXP_STOP_BAR_BRAWL);
    inc_global_var_amt(GVAR_TOWN_REP_REDDING, 2); //added by killap
-   
+
    set_global_var(GVAR_BAR_BRAWL,BRAWL_KOKOWEEF_JAILED); // Seraph's Fix: changed 'BRAWL_MORNINGSTAR_JAILED' to 'BRAWL_KOKOWEEF_JAILED'
 end
 

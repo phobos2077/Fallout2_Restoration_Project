@@ -171,7 +171,7 @@ procedure talk_p_proc begin
    CheckKarma;
 
    GetReaction;
-   
+
    ReactToLevel; //added by killap
 
    if (san_fran_flag(SF_SHI_ENEMY)) then begin
@@ -188,8 +188,8 @@ procedure talk_p_proc begin
          call Node013;
       gSay_End;
       end_dialogue;
-   
-   //addded by killap   
+
+   //addded by killap
    end else if ( (armor_flag(ARMOR_GOTTEN)) or armor_flag(ARMOR_GOTTENPAID)) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
@@ -197,8 +197,8 @@ procedure talk_p_proc begin
       gSay_End;
       end_dialogue;
    //end added
-      
-      
+
+
    end else if (armor_flag(ARMOR_SOLDFUELELRON) or armor_flag(ARMOR_SOLDFUELTANKER)) then begin
       call Node021;
    end else if (armor_flag(ARMOR_SOLDMONEY)) then begin
@@ -217,12 +217,12 @@ procedure talk_p_proc begin
       end_dialogue;
    end
    set_local_var(LVAR_Herebefore, 1);
-   
+
    // added by killap
    if (callGuards) then begin
       callGuards := 0;
       call doCallGuards;
-   end   
+   end
    // end added
 end
 

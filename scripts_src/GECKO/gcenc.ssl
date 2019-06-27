@@ -27,7 +27,7 @@ procedure look_at_p_proc;
 variable Only_Once := 0;
 
 procedure start begin
-  
+
 end
 
 procedure timed_event_p_proc begin
@@ -42,13 +42,13 @@ procedure timed_event_p_proc begin
          end
          add_timer_event(self_obj, 10, 1);
       end
-      
+
       if (fixed_param == 2) then begin
          animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(4,8)));
          add_timer_event(self_obj, game_ticks(random(20,30)), 2);
       end
    end
-   
+
 end
 
 procedure talk_p_proc begin
@@ -96,13 +96,13 @@ procedure map_enter_p_proc begin
     add_obj_to_inven(self_obj, LVar1);
   end
   wield_obj_critter(self_obj, LVar1);
-  
+
   critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_ENCLAVE_PATROL);
   critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_ENCLAVE_PATROL);
   add_timer_event(self_obj, 10, 1);
-  
+
   anim(self_obj, 1000, rotation_to_tile(tile_num(self_obj), tile_num(dude_obj)));
-  
+
 end
 
 procedure description_p_proc begin

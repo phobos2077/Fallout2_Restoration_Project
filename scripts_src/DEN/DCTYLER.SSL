@@ -181,22 +181,22 @@ procedure map_enter_p_proc begin
    CHECK_LEVEL
    debug_msg("count: " + (global_var(GVAR_DEN_GANG_1_COUNT)));
    // end added
-   
+
    gang_member_map_enter
-   
+
    // added by killap
    if (gang_door(state_gang_door_yes)) then
       unlock_church_door
 
-   //added by killap - expansion   
-   if (cur_map_index == MAP_DEN_RESIDENTIAL) then begin 
+   //added by killap - expansion
+   if (cur_map_index == MAP_DEN_RESIDENTIAL) then begin
       if ((gangwar(state_gangwar_in_fight)) and (at_party_fight)) then begin
          set_obj_visibility(self_obj, false);
       end else begin
          set_obj_visibility(self_obj, true);
       end
    end
-   
+
    debug_msg("tyler count" + global_var(GVAR_DEN_GANG_1_COUNT));
    debug_msg("lara count" + global_var(GVAR_DEN_GANG_2_COUNT));
 
@@ -206,7 +206,7 @@ procedure map_enter_p_proc begin
       end
       if (get_critter_stat(self_obj,STAT_pe) > 5) then begin
          set_critter_base_stat(self_obj, STAT_ag, 5);
-      end      
+      end
    end
    //end added
 end
@@ -221,18 +221,18 @@ end
 procedure critter_p_proc begin
 
    //added by killap - expansion
-   if ((self_visible) and (self_can_see_dude)) then begin 
-      
+   if ((self_visible) and (self_can_see_dude)) then begin
+
       if (hostile) then begin
          self_attack_dude;
-      end else if (cur_map_index == MAP_DEN_RESIDENTIAL) then begin 
+      end else if (cur_map_index == MAP_DEN_RESIDENTIAL) then begin
          if not(local_var(LVAR_Said_Drunk_Attack)) then begin
                start_dialog_at_node(Node034);
          end
       end
    end
    //end added
-   
+
    gang_critter_p_proc
 end
 
@@ -254,7 +254,7 @@ procedure talk_p_proc begin
    if ((hostile) or (gang_hostile)) then begin
       call Node002;
    //added by killap - expansion
-   end else if (cur_map_index == MAP_DEN_RESIDENTIAL) then begin    
+   end else if (cur_map_index == MAP_DEN_RESIDENTIAL) then begin
       start_dialog_at_node(Node034);
    //end added
    end else if (gangwar(state_gangwar_1won)) then begin

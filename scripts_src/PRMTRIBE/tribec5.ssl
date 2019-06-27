@@ -201,7 +201,7 @@ end
 procedure Node001
 begin
 	Reply(110);
-	
+
 	NLowOption(300,Node002);
    NOption(111,Node002,004);
 end
@@ -209,7 +209,7 @@ end
 procedure Node002
 begin
 	Reply(120);
-	
+
 	NLowOption(310,Node004);
 	NOption(121,Node003,004);
 	BOption(122,Node991,004);
@@ -226,7 +226,7 @@ end
 procedure Node004
 begin
 	Reply(140);
-	
+
 	NLowOption(330,Node005);
 	NOption(141,Node005,004);
 end
@@ -247,7 +247,7 @@ begin
 
 	NOption(161,Node999,004);
 end
- 
+
 procedure critter_p_proc
 begin
    if (global_var(GVAR_TRIBE_GHOST) == 3) then begin

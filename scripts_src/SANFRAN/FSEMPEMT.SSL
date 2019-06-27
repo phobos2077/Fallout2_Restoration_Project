@@ -179,11 +179,11 @@ procedure use_skill_on_p_proc begin
             set_local_var(LVAR_Gave_Exp, 1);
             give_xp(EXP_DISABLE_FORCE_FIELD);
          end
-         
+
          if (not san_fran_flag(SF_EMPEROR_FIELD_OFF)) then begin
             set_san_fran_flag(SF_SHI_ENEMY);
          end
-         
+
       end else begin
          if (source_obj == dude_obj) then begin
             inc_local_var(LVAR_Fail_Repair);
@@ -239,11 +239,11 @@ procedure use_obj_on_p_proc begin
             set_local_var(LVAR_Gave_Exp, 1);
             give_xp(EXP_DISABLE_FORCE_FIELD);
          end
-         
+
          if (not san_fran_flag(SF_EMPEROR_FIELD_OFF)) then begin
             set_san_fran_flag(SF_SHI_ENEMY);
          end
-         
+
       end else begin
          if (source_obj == dude_obj) then begin
             inc_local_var(LVAR_Fail_Repair);

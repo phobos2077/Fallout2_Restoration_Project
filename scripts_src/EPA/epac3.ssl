@@ -259,7 +259,7 @@ procedure Node011 begin
       Reply(301);
    else
       Reply(300);
-   
+
    if (local_var(LVAR_Toaster_Repaired) < 2) then begin
       if (local_var(LVAR_Herebefore2) == 1) then
          NOption(302,Node012,004);

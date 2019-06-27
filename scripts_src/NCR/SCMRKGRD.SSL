@@ -90,12 +90,12 @@ procedure finishWalk;
                                                end else begin                                                                   \
                                                   animate_move_to_tile(tile_num_in_direction(tile_num(X),random(0,5),Z));       \
                                                end                                                                              \
-                                               set_local_var(LVAR_In_Transit,1);                                                \              
+                                               set_local_var(LVAR_In_Transit,1);                                                \
                                             end                                                                                 \
                                             if ( (anim_busy(self_obj) == 0) and ( (tile_num(merk_obj) == MERK_BAZAAR_POS) or (tile_num(merk_obj) == MERK_CARLSON_POS) or (tile_num(merk_obj) == MERK_HOME_POS) ) ) then begin    \
                                                call finishWalk;                                                                \
                                                set_local_var(LVAR_In_Transit,0);                                               \
-                                            end        
+                                            end
 
 
 /* Imported variables from the Map scripts. These should only be
@@ -152,14 +152,14 @@ procedure map_enter_p_proc begin
          set_obj_visibility(self_obj, OBJ_INVIS);
          //call timerEvent;
       end
-      
+
       set_local_var(LVAR_Self_Guard_Num,merk_guard_count); //edit by killap
-      
+
       //added by killap
       if (merk_visible) then begin
          if (cur_map_index == MAP_NCR_BAZAAR) then begin
             if (checktime == MAP_NCR_BAZAAR) then begin
-               if (local_var(LVAR_Self_Guard_Num) == 1) then begin 
+               if (local_var(LVAR_Self_Guard_Num) == 1) then begin
                   move_to(self_obj, 22352, 0);
                end else begin
                   move_to(self_obj, 22355, 0);
@@ -168,7 +168,7 @@ procedure map_enter_p_proc begin
             end
          end else if (cur_map_index == MAP_NCR_COUNCIL) then begin
             if (checktime == MAP_NCR_DOWNTOWN) then begin
-               if (local_var(LVAR_Self_Guard_Num) == 1) then begin 
+               if (local_var(LVAR_Self_Guard_Num) == 1) then begin
                   move_to(self_obj, 16539, 0);
                end else begin
                   move_to(self_obj, 16336, 0);
@@ -176,7 +176,7 @@ procedure map_enter_p_proc begin
                call finishWalk;
             end
             if (checktime == MAP_NCR_COUNCIL) then begin
-               if (local_var(LVAR_Self_Guard_Num) == 1) then begin 
+               if (local_var(LVAR_Self_Guard_Num) == 1) then begin
                   move_to(self_obj, 18948, 0);
                end else begin
                   move_to(self_obj, 18549, 0);
@@ -186,9 +186,9 @@ procedure map_enter_p_proc begin
          end
       end
       //end added
-      
+
    end
-   
+
 end
 
 //added by killap
@@ -209,11 +209,11 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   
+
    //added by killap
    if (not combat_is_initialized) then
       Follow_Obj(merk_obj,2,1)
- 
+
    if (merk_visible) then
       set_obj_visibility(self_obj, OBJ_VIS);
    else

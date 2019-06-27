@@ -148,7 +148,7 @@ procedure getArmedPartyMember(variable last) begin
       if (Is_Armed(Robobrain_Chimp_Ptr)) then
             return Robobrain_Chimp_Ptr;
    //end added
-     
+
    return 0;
 end
 

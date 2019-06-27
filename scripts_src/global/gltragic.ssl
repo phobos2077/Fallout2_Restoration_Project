@@ -1,6 +1,6 @@
 procedure start;
 
-#include "..\headers\scripts.h" 
+#include "..\headers\scripts.h"
 
 variable do_once;
 variable game_timer;
@@ -34,9 +34,9 @@ procedure start begin
         if (((game_time - game_timer2) >= (7*(24*(60*(60*(10))))))) then begin
             set_global_var(295,0);
             if not(has_trait(2, dude_obj, 11)) then
-               hide_iface_tag(4);            
+               hide_iface_tag(4);
             display_msg(message_str(SCRIPT_OBJ_DUDE,1001));
-        end 
+        end
       end
    end
 end

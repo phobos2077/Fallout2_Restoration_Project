@@ -154,14 +154,14 @@ procedure use_obj_on_p_proc begin
    variable object;
    //variable objectPID;
    object:=obj_pid(obj_being_used_with); //combined into one by killap
-   
+
    if( local_var( LVAR_Door_Open ) == 1 ) then
       call Node008;
    else begin
       script_overrides;
       //object := obj_being_used_with; - comment out by killap
       //objectPID := obj_pid( object ); - comment out by killap
-      
+
       if( object == PID_CROWBAR ) then begin
          //script_overrides; //coment out by killap
          if( dude_strength > 6 ) then

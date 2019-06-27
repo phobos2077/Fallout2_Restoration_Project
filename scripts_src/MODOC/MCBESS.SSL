@@ -151,11 +151,11 @@ procedure critter_p_proc begin
             destroy_object(self_obj);
          end
       end else if (bess_sold_for_jerky) then begin
-      
+
          if (Bess_In_Party) then begin
             party_remove_self;
          end
-         
+
          if (brahmin_1_object == self_obj) then begin
             send_to_slaughter
          end else
@@ -250,7 +250,7 @@ procedure use_obj_on_p_proc begin
       display_msg(g_mstr(20000));
    end
    //end added
-   
+
    // if you give a Brahmin beer or booze, it'll fall down and take damage. This was pulled from the original
    //    fallout script
    if ((obj_pid(obj_being_used_with) == PID_BEER) or (obj_pid(obj_being_used_with) == PID_BOOZE)) then begin
@@ -358,7 +358,7 @@ procedure map_exit_p_proc begin
             //inc_global_var(GVAR_MODOC_BRAHMIN_ESCAPED);
             //debug_msg("GVAR_MODOC_BRAHMIN_ESCAPED == " + global_var(GVAR_MODOC_BRAHMIN_ESCAPED));
             //destroy_object(self_obj);
-            
+
             //added by killap --commented out above code
             inc_general_rep(REP_BONUS_MODOC_FREE_BESS);
             set_global_var(TOWN_REP_VAR, global_var(TOWN_REP_VAR) - 15);

@@ -45,7 +45,7 @@ end
 procedure use_obj_on_p_proc begin
    variable JunkIt;
    variable item;
-   
+
    if(cur_map_index == MAP_EPA_SUBLEVELS_1) then begin
       if ( (obj_pid(obj_being_used_with) == PID_EXPERIMENTAL_SEEDS) ) then begin
          script_overrides;
@@ -101,17 +101,17 @@ begin
    if (map_first_run) then begin
       set_local_var(LVAR_Sprouted,-1);
    end
-   
+
    if ( (game_time - (map_var(MVAR_Grow_Time))  >= (ONE_GAME_DAY * 3)) and (local_var(LVAR_Sprouted) == 0) and (map_var(MVAR_Planted_Seeds) > 0) ) then begin
       set_local_var(LVAR_Sprouted,1);
       set_map_var(MVAR_Sprouted,1);
-      if (cur_map_index == MAP_EPA_SUBLEVELS) then begin 
-         
+      if (cur_map_index == MAP_EPA_SUBLEVELS) then begin
+
          if (is_success(do_check(dude_obj,STAT_lu,-5))) then
             choice := random(1,2);
          else
             choice := random(1,4);
-            
+
          if (choice == 1) then begin
             tmp := random(1,3);
             if (tmp == 1) then
@@ -128,7 +128,7 @@ begin
             choice := random(1,2);
          else
             choice := random(1,4);
-             
+
          if (local_var(LVAR_Planted_Corn) == 1) then begin
             plant:=create_object_sid(33556294,(local_var(LVAR_Grow_Hex)),1,-1);
          end else if (choice == 1) then begin
@@ -152,7 +152,7 @@ procedure map_update_p_proc begin
       set_local_var(LVAR_Sprouted,1);
       set_map_var(MVAR_Sprouted,1);
       gfade_out(600);
-      if (cur_map_index == MAP_EPA_SUBLEVELS) then begin 
+      if (cur_map_index == MAP_EPA_SUBLEVELS) then begin
          if (is_success(do_check(dude_obj,STAT_lu,-5))) then
             choice := random(1,2);
          else
@@ -173,7 +173,7 @@ procedure map_update_p_proc begin
             choice := random(1,2);
          else
             choice := random(1,4);
-            
+
          if (local_var(LVAR_Planted_Corn) == 1) then begin
             plant:=create_object_sid(33556294,(local_var(LVAR_Grow_Hex)),1,-1);
          end else if (choice == 1) then begin

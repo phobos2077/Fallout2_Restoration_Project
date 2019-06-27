@@ -70,7 +70,7 @@ procedure talk_p_proc begin
     end_dialogue;
   end else
     display_msg(message_str(SCRIPT_GCENC, 100));
-    
+
 end
 
 procedure critter_p_proc begin
@@ -98,7 +98,7 @@ end
 procedure map_enter_p_proc begin
   variable LVar1 := 0;
   Only_Once := 0;
-  
+
   LVar1 := create_object_sid(PID_PK12_GAUSS_PISTOL, 0, 0, -1);
   add_obj_to_inven(self_obj, LVar1);
   wield_obj_critter(self_obj, LVar1);
@@ -108,9 +108,9 @@ procedure map_enter_p_proc begin
   critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_ENCLAVE_PATROL);
   critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_ENCLAVE_PATROL);
   add_timer_event(self_obj, 10, 1);
-  
+
   anim(self_obj, 1000, rotation_to_tile(tile_num(self_obj), tile_num(dude_obj)));
-  
+
 end
 
 procedure description_p_proc begin

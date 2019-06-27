@@ -171,8 +171,8 @@ procedure critter_p_proc begin
    end
 
 
-         
-         
+
+
 
    // Move Liz at the appropriate times.
    time := game_time_hour;
@@ -270,7 +270,7 @@ procedure talk_p_proc begin
 
    GetReaction;
    ReactToLevel; //added by killap
-   
+
    //if ( not(bad_critter_reaction) ) then begin -- comment out by killap
       do_replace := 1;
       move_inven_to_temp_box

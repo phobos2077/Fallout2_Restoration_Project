@@ -230,9 +230,9 @@ procedure talk_p_proc begin
    CheckKarma;
 
    GetReaction;
-   
+
    ReactToLevel; //added by killap
-   
+
    If_Party_Is_Armed then begin
    end
 

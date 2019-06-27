@@ -165,7 +165,7 @@ procedure map_enter_p_proc begin
       critter_attempt_placement(self_obj, local_var(LVAR_Home_Tile), self_elevation);
    end
    /*// added by killap - expansion
-   if ( (self_family == family_salvatore and salvatore_dead and warned_attack) or 
+   if ( (self_family == family_salvatore and salvatore_dead and warned_attack) or
        (self_family == family_bishop and bishop_dead and warned_attack) or
        (self_family == family_mordino and big_jesus_dead and lil_jesus_dead and warned_attack) ) then begin
          destroy_object(self_obj);
@@ -188,7 +188,7 @@ procedure critter_p_proc begin
       end
    end
    //end added
-   
+
 end
 
 procedure damage_p_proc begin
@@ -206,7 +206,7 @@ end
 
 procedure talk_p_proc begin
    /*// added by killap - expansion
-   if ( (self_family == family_salvatore and salvatore_dead and warned_attack) or 
+   if ( (self_family == family_salvatore and salvatore_dead and warned_attack) or
        (self_family == family_bishop and bishop_dead and warned_attack) or
        (self_family == family_mordino and big_jesus_dead and lil_jesus_dead and warned_attack) ) then begin
          float_msg(self_obj, message_str(SCRIPT_DCGAMBLE,200), FLOAT_COLOR_NORMAL);

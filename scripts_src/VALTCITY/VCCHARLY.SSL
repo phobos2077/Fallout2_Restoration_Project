@@ -132,7 +132,7 @@ end
 
 procedure use_obj_on_p_proc begin
    variable UsedItem;
-   
+
    if not(Cured_Charlie) then begin
       if( local_var(LVAR_Cured_Charlie) == 0 ) then begin
          UsedItem := obj_being_used_with;

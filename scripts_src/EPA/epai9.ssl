@@ -55,15 +55,15 @@ procedure use_skill_on_p_proc begin
       end else begin
          call Set_Lock;
       end
-   end          
+   end
 end
 
 procedure use_obj_on_p_proc
 begin
    variable Tool := 0;
-   
+
    Tool := obj_pid(obj_being_used_with);
-   
+
    if (Tool == PID_LOCKPICKS) then begin
       script_overrides; //added by killap
       if (local_var(LVAR_Herebefore) == 0) then begin

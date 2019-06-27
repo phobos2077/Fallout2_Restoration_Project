@@ -955,11 +955,11 @@ procedure Node039a begin
    //critter_attempt_placement( Vic_Ptr, 20295, 0 );
    Face_Critter( self_obj, Vic_Ptr );
    Face_Critter( Vic_Ptr, self_obj );
-   
+
    //added by killap
    Face_Critter( dude_obj, self_obj );
    //end added
-   
+
    //set_obj_visibility( Vic_Ptr, false );
    //set_obj_visibility( dude_obj, false );
    add_timer_event( self_obj, game_ticks(1), 3);

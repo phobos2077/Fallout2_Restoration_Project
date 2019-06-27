@@ -20,7 +20,7 @@ procedure map_enter_p_proc begin
    reg_anim_begin();
    reg_anim_animate_forever(self_obj, ANIM_stand);
    reg_anim_end();
-   
+
    add_timer_event(self_obj, 1, 1);
 end
 
@@ -43,5 +43,5 @@ begin
       end
       add_timer_event(self_obj, 1, 1);
   end
-  
+
 end

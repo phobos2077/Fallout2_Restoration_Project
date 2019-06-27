@@ -655,40 +655,40 @@ procedure Node018 begin
    variable msg;
    variable comma_needed := false;
    variable count := 0;
-   
+
    msg := mstr(290);
-   
+
    if ((global_var(GVAR_KLAMATH_FIND_RUSTLERS) < FIND_RUSTLERS_SUCCESS) and (global_var(GVAR_DUNTON_DEAD) == 0) and (global_var(GVAR_SCARE_DUNTONS) == 0)) then begin
       msg += mstr(2901);
       comma_needed := true;
       count += 1;
    end
-   
+
    if (global_var(GVAR_QUEST_RAT_GOD) < RAT_GOD_SUCCESS) then begin
       if (comma_needed) then
          msg += ", ";
-      else 
+      else
         comma_needed := true;
       msg += mstr(2902);
       count += 1;
    end
-   
+
    if not(map_is_known(MAP_KLAMATH_CANYON)) then begin
       if (comma_needed) then
          msg += ", ";
-      else 
-        comma_needed := true;   
+      else
+        comma_needed := true;
       msg += mstr(2903);
       count += 1;
    end
-   
+
    if (global_var(GVAR_SMILEY_STATUS) < SMILEY_RETURNED) then begin
       if (comma_needed) then
          msg += ", ";
       msg += mstr(2904);
       count += 1;
    end
-   
+
    msg += mstr(2905);
 
    if (count == 0) then

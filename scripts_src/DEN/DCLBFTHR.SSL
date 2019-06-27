@@ -147,11 +147,11 @@ end
 
 procedure map_enter_p_proc begin
    variable tmp;
-   
+
    CHECK_LEVEL
-   
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_PEASANT); 
-   
+
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_PEASANT);
+
    if (map_first_run) then begin
       //do nothing
    end else begin

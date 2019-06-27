@@ -116,7 +116,7 @@ if (local_var(LVAR_heart) == 1) then begin
 else if (local_var(LVAR_heart) == 2) then begin
  float_msg(self_obj, mstr(600), FLOAT_MSG_BLACK);
  end
- 
+
 else begin
   start_gdialog(NAME,self_obj,4,-1,-1);
   gSay_start;
@@ -156,7 +156,7 @@ procedure Node005 begin
  NOption(408,Node999,4);
 end
 
- 
+
 procedure Node006 begin
  Reply(411);
  GOption(412,Node007a,4);

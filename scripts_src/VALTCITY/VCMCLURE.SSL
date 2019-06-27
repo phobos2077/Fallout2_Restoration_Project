@@ -434,7 +434,7 @@ procedure Node008 begin
        ( global_var(GVAR_VAULT_GECKO_PLANT) > PLANT_NEED_PART ) and
        ( global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_REACTOR_DATA_ANALYZED ) and
        ( global_var(GVAR_VAULT_GECKO_PLANT) != PLANT_DESTROYED ) and
-       ( global_var(GVAR_MCCLURE_KNOWN) < MCCLURE_CONVINCED ) ) 
+       ( global_var(GVAR_MCCLURE_KNOWN) < MCCLURE_CONVINCED ) )
         or ( ( obj_is_carrying_obj_pid( dude_obj, PID_GECKO_DATA_DISK ) > 0 ) and ( global_var(GVAR_VAULT_GECKO_PLANT) >= PLANT_OPTIMIZED ) ) ) then
       NOption(135, Node048, 004);
    if( ( global_var(GVAR_MCCLURE_KNOWN) == MCCLURE_CONVINCED ) and ( global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_REACTOR_DATA_RECEIVED ) ) then
@@ -920,7 +920,7 @@ end
 
 procedure Node052 begin
    Reply(307);
-   
+
    //killap
    if( global_var(GVAR_VAULT_GECKO_PLANT) >= PLANT_OPTIMIZED ) then begin
       Already_Optimized := 1;
@@ -1000,7 +1000,7 @@ procedure Node057 begin
       item := obj_carrying_pid_obj( dude_obj, PID_GECKO_DATA_DISK );
       dummy := rm_mult_objs_from_inven( dude_obj, item, itemCount );
       destroy_object(item); //added by killap
-      
+
       // Give EXP to player.
       display_msg( mstr(337) );
       give_xp( EXP_ECON_DISK_GIVEN );

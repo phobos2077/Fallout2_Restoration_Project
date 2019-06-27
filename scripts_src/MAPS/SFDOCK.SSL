@@ -48,7 +48,7 @@ procedure map_enter_p_proc begin
    if (map_first_run) then begin
        display_msg(mstr(100));
    end
-   
+
    // added by killap - expansion
    if (global_var(GVAR_LOAD_MAP_INDEX) == 900) then begin
       game_time_advance(15*ONE_GAME_MINUTE);
@@ -59,12 +59,12 @@ procedure map_enter_p_proc begin
       give_xp(1000);
    end
    //end added by killap
-   
+
    if (global_var(GVAR_ENCLAVE_FRANK_DEAD) == 2) then begin
        set_global_var(GVAR_ENCLAVE_FRANK_DEAD,3);
 //       endgame_movie;
    end
-   
+
    set_global_var(GVAR_LOAD_MAP_INDEX,0); //added by killap (expansion)
 end
 

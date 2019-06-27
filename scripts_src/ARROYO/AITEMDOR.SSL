@@ -1314,7 +1314,7 @@ procedure Lockpick_Door begin
            set_local_var(LVAR_Gave_Locks_XP,1);
            give_xp(Lockpick_Exp);
            set_local_var(LVAR_Locked, STATE_INACTIVE);
-           obj_unlock(self_obj); 
+           obj_unlock(self_obj);
        end
    end
 

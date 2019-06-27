@@ -61,7 +61,7 @@ procedure map_enter_p_proc begin
        end
    end
    override_map_start_hex(25075,0,3); //added by killap - expansion
-   
+
    //Make sure duntons are gone if one is dead
    if (global_var(GVAR_DUNTON_DEAD) > 0) then
       kill_critter_type(PID_MASTER_TRADER_MALE,KILL_DONT_LEAVE_BODY);
@@ -72,8 +72,8 @@ procedure map_enter_p_proc begin
       Create_Car(CAR_KLAMATH_HEX,CAR_KLAMATH_ELEV)
       if (tile_contains_pid_obj(CAR_KLAMATH_HEX, CAR_KLAMATH_ELEV, PID_DRIVABLE_CAR) != 0) then begin
          Create_Trunk(CAR_KLAMATH_HEX,CAR_KLAMATH_ELEV)
-      end 
-   end else 
+      end
+   end else
       Check_Create_Car(CAR_KLAMATH_HEX, CAR_KLAMATH_ELEV)
    //end added
 

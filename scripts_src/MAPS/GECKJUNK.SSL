@@ -75,7 +75,7 @@ procedure ghost_town begin
       kill_critter_type(PID_WILD_BRAHMIN,KILL_DONT_LEAVE_BODY);
       kill_critter_type(PID_LUMPY,KILL_DONT_LEAVE_BODY); //added by killap
       kill_critter_type(PID_DOG,KILL_DONT_LEAVE_BODY); //added by killap
-       
+
       if Lenny_In_Party then begin
          //do nothing
       end

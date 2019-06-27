@@ -153,18 +153,18 @@ procedure map_enter_p_proc begin
    /*if (jo_dead) then begin
       destroy_object(self_obj);
    end*/
-   
+
    //added by killap
    if (jo_dead) then begin
       if (cur_map_index == MAP_GHOST_FARM) then begin
          check_set_obj_visiblility(self_obj, true);
          destroy_object(self_obj);
-      end                     
+      end
    end else begin
       check_show_ghost_farm_attackers
    end
    //end added by killap
-   
+
    match_dude_elevation;
    modoc_jo_obj := self_obj;
    if (map_first_run) then begin
@@ -177,7 +177,7 @@ procedure map_enter_p_proc begin
    end else if (cur_map_index != MAP_GHOST_FARM) then begin
       critter_attempt_placement(self_obj, local_var(LVAR_Home_Tile), dude_elevation);
    end
-   
+
 end
 
 procedure map_update_p_proc begin

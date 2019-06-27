@@ -135,7 +135,7 @@ procedure critter_p_proc begin
          self_attack_dude;
       end
    end
-   
+
    // added by killap
    if ((tile_num(self_obj) != local_var(LVAR_Home_Tile)) and not((hostile) or (thugs_hostile)) and not(combat_is_initialized) ) then begin
       animate_move_to_tile(local_var(LVAR_Home_Tile));

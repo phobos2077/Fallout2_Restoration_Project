@@ -80,11 +80,11 @@ begin
       end
       add_timer_event(self_obj, 1, 1);
   end
-  
+
 end
 
 procedure use_p_proc begin
-  if (global_var(GVAR_ABBEY_PUMP) == PUMP_QUEST_GIVEN) then begin 
+  if (global_var(GVAR_ABBEY_PUMP) == PUMP_QUEST_GIVEN) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_start;
             call Node001;
@@ -97,20 +97,20 @@ procedure use_obj_on_p_proc begin
    variable Tool;
    variable Skill := 0;
    variable item;
-   
+
    Tool:=obj_pid(obj_being_used_with);
-   
+
    if ((Tool == PID_MULTI_TOOL) and (obj_is_carrying_obj_pid(dude_obj,PID_MOTOR))) then begin
       script_overrides;
       Skill:=roll_vs_skill(source_obj,SKILL_REPAIR,-20);
    end else if ((Tool == PID_SUPER_TOOL_KIT) and (obj_is_carrying_obj_pid(dude_obj,PID_MOTOR))) then begin
       script_overrides;
-      Skill:=roll_vs_skill(source_obj,SKILL_REPAIR,-10);  
+      Skill:=roll_vs_skill(source_obj,SKILL_REPAIR,-10);
    end else if (Tool == PID_MOTOR) then begin
       script_overrides;
       display_msg(mstr(103));
    end
-   
+
    if ((global_var(GVAR_ABBEY_PUMP) < PUMP_FIXED) and (obj_is_carrying_obj_pid(dude_obj,PID_MOTOR))) then begin
          script_overrides;
          if (is_success(Skill)) then begin
@@ -125,7 +125,7 @@ procedure use_obj_on_p_proc begin
             display_msg(mstr(105));
          end
    end
-   
+
 end
 
 procedure use_skill_on_p_proc begin
@@ -168,6 +168,6 @@ procedure Node002 begin
      set_global_var(GVAR_ABBEY_PUMP,PUMP_FOUND_PROBLEM);
   end
   Reply(203);
-  
+
   NOption(204,Node999,4);
 end

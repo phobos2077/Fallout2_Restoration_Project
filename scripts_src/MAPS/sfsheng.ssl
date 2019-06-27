@@ -5,7 +5,7 @@
         Description: Opis
 
         Log:
-           
+
 
            Created:
 
@@ -44,7 +44,7 @@ end
 procedure map_enter_p_proc
 begin
    override_map_start_hex(16724,0,1);
-   
+
    if (map_first_run) then begin
      display_msg(mstr(100));
    end
@@ -55,8 +55,8 @@ begin
       Create_Car(CAR_SAN_FRANCISCO_DR_SHENG_HEX,CAR_SAN_FRANCISCO_DR_SHENG_ELEV)
       if (tile_contains_pid_obj(CAR_SAN_FRANCISCO_DR_SHENG_HEX, CAR_SAN_FRANCISCO_DR_SHENG_ELEV, PID_DRIVABLE_CAR) != 0) then begin
          Create_Trunk(CAR_SAN_FRANCISCO_DR_SHENG_HEX,CAR_SAN_FRANCISCO_DR_SHENG_ELEV)
-      end 
-   end else 
+      end
+   end else
       Check_Create_Car(CAR_SAN_FRANCISCO_DR_SHENG_HEX, CAR_SAN_FRANCISCO_DR_SHENG_ELEV)
    //end added
 
@@ -74,8 +74,8 @@ procedure map_update_p_proc begin
       Lighting;
    end
 end
- 
+
 procedure map_exit_p_proc
 begin
- 
+
 end

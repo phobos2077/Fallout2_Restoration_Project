@@ -165,7 +165,7 @@ begin
       end
    end
 end
- 
+
 procedure combat_p_proc
 begin
    if (global_var(GVAR_ENEMY_PRIMITIVE_TRIBE) == 1) then begin
@@ -349,7 +349,7 @@ procedure talk_p_proc begin
                call Node034;
             gSay_End;
             end_dialogue;
-         end   
+         end
       end else if ( ((global_var(GVAR_MISSING_WARRIOR) >= 4) and (global_var(GVAR_MISSING_WARRIOR) <= 7)) and (local_var(LVAR_Give_Thanks) == 0) ) then begin
          set_local_var(LVAR_Give_Thanks,1);
          start_gdialog(NAME,self_obj,4,-1,-1);
@@ -372,7 +372,7 @@ procedure talk_p_proc begin
          end_dialogue;
       end
    end
-   
+
    if (from_home) then begin
       from_home := 0;
 
@@ -391,7 +391,7 @@ procedure talk_p_proc begin
       game_time_advance(ONE_GAME_HOUR);
       load_map(MAP_PRIMITIVE_TRIBE1,901);
    end
-   
+
 end
 
 procedure Node998 begin
@@ -409,7 +409,7 @@ procedure Node900 begin
    variable time;
    set_local_var(LVAR_Ready_To_Go,2);
    set_global_var(GVAR_MERCHANT_MEETING,MERCHANT_START);
-   
+
    //advance time to 1 pm
    /*if (game_time_hour != 1100) then begin
       time := game_time_hour - 1100;
@@ -417,9 +417,9 @@ procedure Node900 begin
          time := (time * -1);
       game_time_advance(ONE_GAME_HOUR * time);
    end -- not sure what I was thinking here...*/
-   
+
    from_home := 1;
-   
+
 end
 
 //not ready to go yet for trader meeting
@@ -440,20 +440,20 @@ procedure Node001 begin
       NOption(209,Node999,004);
    end else begin
       Reply(200);
-      if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then 
+      if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then
          NOption(mstr(202)+obj_name(dude_obj)+mstr(203),Node002,004);
       else
          NOption(mstr(204)+obj_name(dude_obj)+mstr(205),Node002,004);
       NOption(206,Node999,004);
    end
-   
+
    NLowOption(800,Node036,4);
 
 end
 
 procedure Node001a begin
    Reply(270);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then 
+   if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then
       NOption(mstr(202)+obj_name(dude_obj)+mstr(203),Node002,004);
    else
       NOption(mstr(204)+obj_name(dude_obj)+mstr(205),Node002,004);
@@ -462,7 +462,7 @@ end
 
 procedure Node001b begin
    Reply(280);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then 
+   if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then
       NOption(mstr(202)+obj_name(dude_obj)+mstr(203),Node002,004);
    else
       NOption(mstr(204)+obj_name(dude_obj)+mstr(205),Node002,004);
@@ -471,7 +471,7 @@ end
 
 procedure Node002 begin
    Reply(210);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then 
+   if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then
       NOption(211,Node003,004);
    else
       NOption(212,Node003,004);
@@ -547,7 +547,7 @@ end
 procedure Node010 begin
    up_sex_status;
    game_time_advance(2*ONE_GAME_HOUR);
-   
+
    Reply(310);
    NOption(311,Node011,004);
    NOption(312,Node011,004);
@@ -609,7 +609,7 @@ procedure Node018 begin
    inc_general_rep(REP_BONUS_TRIBE_MERCHANT_MEETING_NORMAL);
    set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE,global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 5);
    set_global_var(GVAR_MERCHANT_MEETING,MERCHANT_DONE);
-   
+
    Reply(400);
    NOption(g_mstr(350),Node999,004);
 end
@@ -630,7 +630,7 @@ procedure Node020 begin
    display_msg(mstr(2501));
    give_xp(EXP_TRIBE_MERCHANT_MEETING_BAD);
    set_global_var(GVAR_MERCHANT_MEETING,MERCHANT_DONE_BAD);
-   
+
    Reply(420);
    NOption(g_mstr(350),Node999,004);
    to_home := 1;
@@ -644,7 +644,7 @@ procedure Node021 begin
    inc_general_rep(REP_BONUS_TRIBE_MERCHANT_MEETING_NORMAL);
    set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE,global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 5);
    set_global_var(GVAR_MERCHANT_MEETING,MERCHANT_DONE);
-   
+
    if (ATTRACTIVE_FEMALE) then
       Reply(431);
    else
@@ -661,7 +661,7 @@ procedure Node022 begin
    inc_general_rep(REP_BONUS_TRIBE_MERCHANT_MEETING_NORMAL);
    set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE,global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 5);
    set_global_var(GVAR_MERCHANT_MEETING,MERCHANT_DONE);
-   
+
    if (ATTRACTIVE_FEMALE) then
       Reply(441);
    else
@@ -706,7 +706,7 @@ procedure Node025 begin
       NOption(473,Node013,004);
    else if (global_var(GVAR_FIXTRIBE_WELL) < 5) then
       NOption(473,Node030,004);
-      
+
    NOption(474,Node999,004);
 end
 
@@ -778,7 +778,7 @@ procedure Node036 begin
    Reply(580);
    NOption(581,Node999,004);
    NOption(582,Node999,004);
-   
+
    set_global_var(GVAR_MISSING_WARRIOR,8); //failure
 end
 
@@ -789,7 +789,7 @@ procedure Node037 begin
    else
       Reply(590);
    NOption(592,Node999,004);
-   
+
    set_global_var(GVAR_MISSING_WARRIOR,6); //success
 end
 
@@ -808,14 +808,14 @@ end
 
 procedure Node040 begin
    set_local_var(LVAR_Accept_Spear_Quest,1);
-   
+
    sharpenedSpearCount := obj_is_carrying_obj_pid(dude_obj, PID_SHARP_SPEAR);
    regularSpearCount := obj_is_carrying_obj_pid(dude_obj, PID_SPEAR);
-   
+
    set_global_var(GVAR_TRIBE_WEAPONS,1);
-   
+
    Reply(810);
-   
+
    if (((sharpenedSpearCount + regularSpearCount) >= 5) and (obj_is_carrying_obj_pid(dude_obj, PID_KNIFE) >= 10)) then
       NLowOption(812,Node038,4);
    else
@@ -838,9 +838,9 @@ end
 procedure Node043 begin
    sharpenedSpearCount := obj_is_carrying_obj_pid(dude_obj, PID_SHARP_SPEAR);
    regularSpearCount := obj_is_carrying_obj_pid(dude_obj, PID_SPEAR);
-   
+
    Reply(830);
-   
+
    if (((sharpenedSpearCount + regularSpearCount) >= 5) and (obj_is_carrying_obj_pid(dude_obj, PID_KNIFE) >= 10)) then
       NLowOption(831,Node041,4);
    else
@@ -873,7 +873,7 @@ procedure removeWeapons begin
    variable Remove;
    variable count := 0;
    variable count2 := 0;
-   
+
    set_global_var(GVAR_TRIBE_WEAPONS,2);
    display_msg(mstr(2000));
    give_xp(EXP_TRIBE_WEAPONS);
@@ -881,25 +881,25 @@ procedure removeWeapons begin
    set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE,global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 10);
    Obj := obj_carrying_pid_obj(dude_obj,PID_KNIFE);
    Remove := rm_mult_objs_from_inven(dude_obj, Obj, 10 );
-   
+
    Obj2 := obj_carrying_pid_obj(dude_obj,PID_SHARP_SPEAR);
    Obj3 := obj_carrying_pid_obj(dude_obj,PID_SPEAR);
-   
+
    if (sharpenedSpearCount >= 5) then
       count := 5;
    else if (sharpenedSpearCount < 5) then begin
       count2 := 5 - sharpenedSpearCount;
       count := sharpenedSpearCount;
    end
-   
+
    Remove := rm_mult_objs_from_inven(dude_obj, Obj2, count );
    Remove := rm_mult_objs_from_inven(dude_obj, Obj3, count2 );
-   
+
    destroy_object(Obj);
-   
+
    if (count > 0) then
       destroy_object(Obj2);
-   
+
    if (count2 > 0) then
       destroy_object(Obj3);
 end

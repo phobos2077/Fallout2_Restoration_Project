@@ -589,7 +589,7 @@ end
 
 procedure Node028a begin
    set_map_var(MVAR_Widow_Rooney,WIDOW_PAID);
-   
+
    //added by killap
    item_caps_adjust(dude_obj,-120);
    set_global_var(GVAR_WIDOW_ROONEY,WIDOW_PAID);
@@ -598,7 +598,7 @@ procedure Node028a begin
    display_msg(g_mstr(1008));
    give_xp(EXP_HELPED_ROONEY);
    //added by killap
-   
+
    call Node029;
 end
 

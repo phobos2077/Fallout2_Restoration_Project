@@ -5,7 +5,7 @@
         Description: Opis
 
         Log:
-           
+
 
            Created:
 
@@ -39,7 +39,7 @@ procedure map_enter_p_proc begin
       set_exit_grids(dude_elevation,MAP_VAULT_VILLAGE,2,25115,0);
    end else begin
       set_exit_grids(dude_elevation,MAP_VAULT_VILLAGE,0,25115,0);
-   end 
+   end
 
    move_to(dude_obj, 19492, 0);
    Lighting;
@@ -49,7 +49,7 @@ procedure map_update_p_proc
 begin
    Lighting;
 end
- 
+
 procedure map_exit_p_proc begin
    if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 1) then begin
       set_global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE,4); //no complete

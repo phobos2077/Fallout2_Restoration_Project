@@ -131,12 +131,12 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   
+
    //added by killap - expansion
    if (fannie == FANNIE_DEAD) then
       destroy_object(self_obj);
    //end added
-   
+
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MALAMUTE_SALOON);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_REDDING_ADDICT);
 end
@@ -201,7 +201,7 @@ procedure use_obj_on_p_proc begin
       script_overrides;
       set_rehab_time
    end*/
-end 
+end
 // End Seraph's Code
 
 /* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
@@ -367,9 +367,9 @@ procedure Node002 begin
        NOption(113,Node004,004);
    BOption(114,Node999,004);
    BOption(115,Node999,004);
-   
+
    NOption(210,Node990,004); //added by killap - expansion
-   
+
 end
 
 
@@ -506,18 +506,18 @@ end
 procedure Node011a begin
    item_caps_adjust(dude_obj,0-FREE_CASH);
    item_caps_adjust(self_obj,FREE_CASH);
-   
+
    //added by killap - expansion
    inc_local_var(LVAR_Gave_Money);
    set_local_var(LVAR_Just_Gave_Money,1);
-   
+
    if (local_var(LVAR_Gave_Money) == 4) then begin
       set_fannie(FANNIE_SICKER);
    end else if (local_var(LVAR_Gave_Money) == 2) then begin
       set_fannie(FANNIE_SICK);
    end
    //end added
-   
+
    call Node012;
 end
 
@@ -586,24 +586,24 @@ end
 procedure Node018a begin
    item_caps_adjust(dude_obj,0-FINAL_MONEY);
    item_caps_adjust(self_obj,FINAL_MONEY);
-   
+
    //added by killap - expansion
    inc_local_var(LVAR_Gave_Money);
-   
+
    if ( (local_var(LVAR_Just_Gave_Money) == 0) and (local_var(LVAR_Gave_Money) > 1) ) then
       set_local_var(LVAR_Just_Gave_Money,1);
-   
+
    if (local_var(LVAR_Just_Gave_Money) == 1) then begin
       set_local_var(LVAR_Kill_Fannie,1);
    end
-   
+
    if (local_var(LVAR_Gave_Money) == 4) then begin
       set_fannie(FANNIE_SICKER);
    end else if (local_var(LVAR_Gave_Money) == 2) then begin
       set_fannie(FANNIE_SICK);
    end
    //end added
-   
+
    call Node012;
 end
 

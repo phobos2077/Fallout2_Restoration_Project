@@ -85,7 +85,7 @@ end
 procedure use_obj_on_p_proc begin
    variable Tool;
    variable Traps_Roll;
-   
+
    Tool:=obj_pid(obj_being_used_with);
 
    if (map_var(MVAR_Torpedo_Permission) == 0) then begin

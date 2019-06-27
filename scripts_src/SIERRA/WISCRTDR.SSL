@@ -61,8 +61,8 @@ procedure map_update_p_proc begin
            animate_stand;
            if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),WALL_BLOCKING_HEX)) then
                destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),WALL_BLOCKING_HEX));
-       end 
-       //end added by killap 
+       end
+       //end added by killap
    end
    else begin
        animate_stand_reverse;

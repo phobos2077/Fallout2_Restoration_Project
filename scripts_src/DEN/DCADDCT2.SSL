@@ -150,22 +150,22 @@ end
 
 procedure map_enter_p_proc begin
    squatter_object := self_obj;
-     
+
    if (self_elevation == 1) then begin
       if (self_tile == 16124 or self_tile == 14518) then begin
          reg_anim_clear( self_obj );
          animate_rotation(2);
       end
    end
-   
+
    if ( (map_first_run) and (self_elevation == 0) ) then
       set_map_var(MVAR_Squater_Count,((map_var(MVAR_Squater_Count))+1));
-   
+
    if ( (self_tile == 14722) or (self_tile == 14518) ) then begin
        set_local_var(LVAR_Main_Squatter,1);
    end
-   
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_RES_ADDICTS);   
+
+   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_RES_ADDICTS);
 end
 
 
@@ -179,7 +179,7 @@ end
 
 procedure map_exit_p_proc begin
    if (global_var(GVAR_DEN_ORPHANAGE) == 4) then begin
-      destroy_object(self_obj);    
+      destroy_object(self_obj);
    end
 end
 
@@ -235,7 +235,7 @@ end
 
 procedure destroy_p_proc begin
    inc_neutral_critter
-   
+
    set_map_var(MVAR_Squater_Count,((map_var(MVAR_Squater_Count))-1));
    if ( (map_var(MVAR_Squater_Count) == 0) and (global_var(GVAR_DEN_ORPHANAGE) < 6)) then begin
       set_global_var(GVAR_DEN_ORPHANAGE,3);

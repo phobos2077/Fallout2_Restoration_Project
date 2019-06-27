@@ -180,8 +180,8 @@ procedure timed_event_p_proc begin
          animate_rotation(3);
       end
       //end added
-   end 
-   
+   end
+
 end
 
 /* This procedure will get called each time that the map is first entered. It will
@@ -253,7 +253,7 @@ procedure talk_p_proc begin
    CheckKarma;
 
    GetReaction;
-   
+
    ReactToLevel; //added by killap
 
    if (san_fran_flag(SF_PUNKS_ENEMY)) then begin
@@ -682,7 +682,7 @@ procedure CheckLoad begin
          add_timer_event(self_obj, game_ticks(60), TIMER_CHECK_LOAD);
       end
    end
-end 
+end
 //end
 
 procedure GoGetSpleen begin

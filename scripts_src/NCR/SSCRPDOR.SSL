@@ -83,7 +83,7 @@ procedure use_p_proc begin
    if (dude_in_back_room(dude_tile) and (local_var(LVAR_Door_Unlocked) == 0)) then
       set_local_var(LVAR_Door_Unlocked, 1);
    //end added
-   
+
    if ((local_var(LVAR_Door_Unlocked) == 0) and not(dude_in_back_room(dude_tile)))then begin //added dude_in_back_room - killap
       script_overrides;
       if (source_obj == dude_obj) then begin
@@ -196,7 +196,7 @@ procedure map_enter_p_proc begin
    if (local_var(LVAR_Door_Unlocked) == 0) then begin
       obj_close(self_obj);
       obj_lock(self_obj);
-   end 
+   end
    //end added
 end
 
@@ -210,7 +210,7 @@ procedure map_update_p_proc begin
    if (local_var(LVAR_Door_Unlocked) == 0) then begin
       obj_close(self_obj);
       obj_lock(self_obj);
-   end 
+   end
    //end added
 end
 
@@ -231,10 +231,10 @@ end
 
 procedure Node001 begin
    Reply(103);
-   
+
    NLowOption(120,Node003); //added by killap
    NLowOption(121,Node003); //added by killap
-   
+
    NOption(104, Node003, 4); //edit by killap - was , 1
    NOption(105, Node003, 4); //edit by killap - was , 1
    NOption(106, Node003, 4); //edit by killap - was , 1

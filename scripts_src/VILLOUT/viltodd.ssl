@@ -65,13 +65,13 @@ end
 
 procedure timed_event_p_proc begin
   variable the_temp;
-   if ((fixed_param == 1) and (not combat_is_initialized)) then begin 
+   if ((fixed_param == 1) and (not combat_is_initialized)) then begin
       if (anim_busy(self_obj) == 0) then begin
             if (tile_distance(tile_num(self_obj), local_var(7)) >= 8) then
                the_temp := local_var(LVAR_Home_Tile);
             else
                the_temp := tile_num_in_direction(tile_num(self_obj), random(0, 5), random(2, 5));
-            
+
             animate_run_to_tile(the_temp);
       end
       call Node001;
@@ -93,8 +93,8 @@ procedure critter_p_proc begin
        //set_local_var(LVAR_Hostile,1);
        //attack(dude_obj);
    end
-   
-   
+
+
 
 end
 
@@ -170,7 +170,7 @@ procedure map_enter_p_proc begin
             critter_attempt_placement(self_obj, 22516, dude_elevation);
          else if (local_var(LVAR_Home_Tile) == 20909) then
             critter_attempt_placement(self_obj, 22897, dude_elevation);
-         else 
+         else
             critter_attempt_placement(self_obj, self_tile, dude_elevation);
       //end
       end

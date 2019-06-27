@@ -469,13 +469,13 @@ procedure Node008 begin
    // Give the key to the player
    //item2:=create_object(PID_CELL_DOOR_KEY,0,0);
    //add_obj_to_inven(dude_obj,item2);
-   
+
    //changed by killap (expansion) - he no longer always gives you a key even if he is not carrying one
    if ((obj_is_carrying_obj_pid(self_obj,PID_CELL_DOOR_KEY))) then begin
       item:=obj_carrying_pid_obj(self_obj, PID_CELL_DOOR_KEY);
       rm_obj_from_inven(self_obj,item);
       add_obj_to_inven(dude_obj,item);
-      
+
       Reply(129);
       NOption(130,Node999,004);
    end else begin

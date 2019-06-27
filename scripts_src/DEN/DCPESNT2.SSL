@@ -192,7 +192,7 @@ procedure Node002 begin
       Reply(203);
    else
       Reply(202);
-      
+
    NOption(204, Node999, 004);
 end
 

@@ -173,8 +173,8 @@ procedure map_enter_p_proc begin
       set_local_var(LVAR_Restock_Time, game_time - 1);
       set_local_var(LVAR_Restock_Time_Fix, 1);
    end
-   
-   
+
+
    if (local_var(LVAR_Restock_Time) < game_time) then begin
       debug_msg("Should have restocked");
       //check_restock_item(PID_BOOZE, 10, 20, 100)
@@ -390,7 +390,7 @@ procedure Node920 begin
       item:=create_object(PID_GAMMA_GULP_BEER,0,0);
       add_obj_to_inven(dude_obj,item);
       //use_obj_on_obj(create_object(PID_GAMMA_GULP_BEER,0,0), dude_obj);
-      
+
       //killap
       Reply(723);
       NOption(311,Node004,004);
@@ -411,14 +411,14 @@ procedure Node922 begin
       item:=create_object(PID_ROENTGEN_RUM,0,0);
       add_obj_to_inven(dude_obj,item);
       //use_obj_on_obj(create_object(PID_ROENTGEN_RUM,0,0), dude_obj);
-      
+
       //killap
       Reply(723);
       NOption(311,Node004,004);
       NOption(726,Node007,004);
       NOption(725,Node999,004);
       //end killap
-      
+
    end
    else begin
       call Node008;
@@ -451,7 +451,7 @@ procedure Node924 begin
          //drink_round:=4;
       end
       //call Node999;
-      
+
       //killap
       Reply(731);
       NOption(311,Node004,004);
@@ -470,7 +470,7 @@ procedure Node930 begin
    gfade_out(600);
    game_time_advance(game_ticks(k*3600)); //k hours
    gfade_in(600);
-//begin killap code  
+//begin killap code
    if (local_var(LVAR_tragic_addiction_level) <= 5) then begin
       set_local_var(LVAR_tragic_addiction_level,(local_var(LVAR_tragic_addiction_level)+1));
       if (local_var(LVAR_tragic_addiction_level) == 5) then begin
@@ -480,8 +480,8 @@ procedure Node930 begin
          add_timer_event(dude_obj, (ONE_GAME_WEEK - ONE_GAME_SECOND), 5);
          display_msg(mstr(730));
       end
-   end  
-//end killap code    
+   end
+//end killap code
    if (obj_is_carrying_obj_pid(dude_obj, PID_DECK_OF_TRAGIC_CARDS)) then begin
       if (is_success(roll_vs_skill(dude_obj,SKILL_GAMBLING,0))) then
          call Node030;
@@ -619,7 +619,7 @@ procedure Node007 begin
 //need first time
    //Reply(170);
    NOption(172,Node051,004); //was 920 - killap
-   NOption(173,Node052,004); //was 920 - killap 
+   NOption(173,Node052,004); //was 920 - killap
    NOption(174,Node053,004); //was 922 - killap
    NOption(175,Node009,004);
    NOption(176,Node999,004);
@@ -635,13 +635,13 @@ end
 
 procedure Node052 begin
    Reply(722);
-   
+
    NOption(g_mstr(352),Node920,004);
 end
 
 procedure Node053 begin
    Reply(724);
-   
+
    NOption(g_mstr(352),Node922,004);
 
 end
@@ -799,20 +799,20 @@ procedure Node027 begin
 
    if ( (tragic_addiction >= 10) and (global_var(GVAR_ADDICT_TRAGIC) == 1) ) then begin
       Reply(716);
-      
+
       NOption(717,Node930,004);
    end
    else begin
       Reply(370);
-      
+
       if (global_var(GVAR_ADDICT_TRAGIC) == 1) and (tragic_addiction <= 10) then
          NOption(372,Node033,004);
-      else begin   
+      else begin
          GOption(371,Node032,004);
          NOption(715,Node004,004);
-      end 
+      end
    end
-   
+
    tragic_addiction := (tragic_addiction+1);
 end
 //end killap code

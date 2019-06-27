@@ -67,7 +67,7 @@ end
 procedure map_enter_p_proc begin
    variable Critter;
    variable item;
-   
+
    if (map_first_run) then
       display_msg(mstr(100));
 
@@ -75,7 +75,7 @@ procedure map_enter_p_proc begin
    if ( (elevation(dude_obj) == 0) and (map_var(MVAR_Squater_Count) == 0) ) then begin
       set_obj_visibility( squatter_object, true );
    end
-   
+
    if ( (global_var(GVAR_DEN_ORPHANAGE) == 6) and (game_time - (global_var(GVAR_DEN_ORPHANAGE_BUILD_TIME)) >= (ONE_GAME_DAY * 2)) ) then begin
       if (map_var(MVAR_Squater_Count) == 0) then begin
          //do nothing
@@ -86,7 +86,7 @@ procedure map_enter_p_proc begin
          Critter:=create_object_sid(PID_WEAK_PEASANT_FEMALE,15946,1,SCRIPT_DCADDCT2);
          Critter:=create_object_sid(PID_LOSER_MALE,15536,1,SCRIPT_DCADDCT2);
       end
-      
+
       set_global_var(GVAR_DEN_ORPHANAGE,7);
 
    end
@@ -95,7 +95,7 @@ procedure map_enter_p_proc begin
    if (gangwar(state_gangwar_in_fight)) then begin
       if (global_var(GVAR_LOAD_MAP_INDEX) == 555) then begin
          move_to(dude_obj, 19697, (global_var(GVAR_DEN_ORPHANAGE) == 7));
-     
+
          if (lara_dead == false) then begin
             Critter:=create_object_sid(PID_TOUGH_GUARD_FEMALE,19501,dude_elevation,SCRIPT_DCLARA);
               critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
@@ -142,17 +142,17 @@ procedure map_enter_p_proc begin
       end
    end
       //override_map_start_hex(16260, (global_var(GVAR_DEN_ORPHANAGE) == 7), 3);
-      
+
 
    //display_msg("elevation: " + dude_elevation);
   //display_msg("LVar1: " + LVar1);
    //override_map_start_hex(16260,LVar1,3);
    //override_map_start_hex(16260, LVar1, 3);
    //set_map_start(16260, 16260, LVar1, 3);
-   
+
    //Check_Create_Car(9707, dude_elevation)
 
-   
+
    Lighting;
    //if (global_var(GVAR_LOAD_MAP_INDEX) != 555) then
       set_global_var(GVAR_LOAD_MAP_INDEX,0);

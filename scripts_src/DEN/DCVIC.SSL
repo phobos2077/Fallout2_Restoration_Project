@@ -221,7 +221,7 @@ procedure timed_event_p_proc begin
    else if (fixed_param == TIMER_ENSURE_ANIM) then begin
       if not anim_busy(self_obj) then begin
          if ( (local_var(LVAR_Head_To_Mom) == 1) ) then begin //added (local_var(LVAR_Head_To_Mom)) - killap
-            if (self_tile != 22092) then 
+            if (self_tile != 22092) then
                animate_move_to_tile(22092);
             else begin
                animate_move_to_tile(27094);
@@ -232,18 +232,18 @@ procedure timed_event_p_proc begin
                animate_move_to_tile(27094);
             else begin
                animate_move_to_tile(vic_mom_tile);
-               set_local_var(LVAR_Head_To_Mom,3);         
+               set_local_var(LVAR_Head_To_Mom,3);
             end
          end else if ( (local_var(LVAR_Head_To_Mom) == 3) ) then begin
             if (self_tile != vic_mom_tile) then
                animate_move_to_tile(vic_mom_tile);
             else begin
-               set_local_var(LVAR_Home_Tile, vic_mom_tile); 
+               set_local_var(LVAR_Home_Tile, vic_mom_tile);
                set_local_var(LVAR_Head_To_Mom,0);
             end
          end
       end
-         add_timer_event(self_obj, game_ticks(1), TIMER_ENSURE_ANIM); 
+         add_timer_event(self_obj, game_ticks(1), TIMER_ENSURE_ANIM);
    end
 end
 
@@ -300,13 +300,13 @@ procedure map_update_p_proc begin
          end
       end
    end
-   
+
    //added by killap - needed for "hacky fix" for kitty drug... :(
    if (waiting == 1) then begin
       waiting := 0;
    end
-   //end added  
-   
+   //end added
+
 end
 
 procedure push_p_proc begin
@@ -319,13 +319,13 @@ end
 
 procedure critter_p_proc begin
    //added by killap
-   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_VIC)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_VIC))) then begin 
+   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_VIC)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_VIC))) then begin
       set_map_var(MVAR_Kitty_Drug, 0);
       waiting := 1;
       if (get_critter_stat(self_obj, STAT_st) < 10) then begin
          use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
       end
-   end 
+   end
    //end added
 
    //move by killap - would never be run if player was near Vic
@@ -353,7 +353,7 @@ procedure critter_p_proc begin
       if ( local_var(LVAR_Hostile) == 2 ) then begin
          self_attack_dude;
       end
-      
+
    /*end else if (has_joined_party == false) then begin
       if (vic_free) then begin
          if (self_tile != local_var(LVAR_Home_Tile)) then begin
@@ -370,7 +370,7 @@ procedure use_obj_on_p_proc begin
       display_msg(g_mstr(20000));
    end
    //end added
-   
+
    if (obj_item_subtype(obj_being_used_with) == item_type_drug) then begin
       if (has_joined_party) then begin
          if ((obj_pid(obj_being_used_with) == PID_FIRST_AID_KIT) or
@@ -388,7 +388,7 @@ procedure use_obj_on_p_proc begin
       end
       flush_add_timer_event_sec(self_obj, random(15, 30), timed_event_float);
    end
-   
+
 
 end
 
@@ -452,17 +452,17 @@ procedure talk_p_proc begin
       end
       set_herebefore;
    end
-   
-   //begin B-Team mod   
+
+   //begin B-Team mod
    /*loc2 := critter_inven_obj(self_obj, 2);
    if (loc2 == 0) then begin
       loc2 := critter_inven_obj(self_obj, 1);
-   end 
+   end
    if  (critter_inven_obj(self_obj,0)!=loc1) then
     begin
      if (critter_inven_obj(self_obj,0)== 0 ) then
      begin
-     // Ustawianie grafiki dla golej postaci 
+     // Ustawianie grafiki dla golej postaci
      metarule3(107,self_obj,FID_NMFATT,0);
      end
      else
@@ -746,12 +746,12 @@ procedure Node011 begin
       NOption(198,Node999,004);
    end
    NOption(502,Node013,-003);
-   
+
    //moved from above - killap
    set_vic_trader;
    mark_vault_city_on_map
    //end
-   
+
 end
 procedure Node013 begin
    mark_vault_city_on_map
@@ -830,7 +830,7 @@ procedure Node022 begin
       NOption(170,Node014,004);
       NOption(172,Node014,-003); //added by killap
    end
-   
+
    NOption(814, Node999, -003); //added by killap
    NOption(803, Node999, 004);
 end

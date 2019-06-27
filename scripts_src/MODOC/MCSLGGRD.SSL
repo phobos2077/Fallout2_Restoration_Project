@@ -204,7 +204,7 @@ procedure Node002 begin
       floater(212 + local_var(LVAR_Guard_Num));
    end else begin
       floater(214 + local_var(LVAR_Guard_Num));
-      // comment out by killap - 
+      // comment out by killap -
       // broken and would look too strange if it did work.
       /*if (local_var(LVAR_Guard_Num) == 1) then begin
          if (random(0,1) == 1) then begin

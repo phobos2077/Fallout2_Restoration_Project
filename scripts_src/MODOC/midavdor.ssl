@@ -279,7 +279,7 @@ end
 
 procedure description_p_proc begin
    script_overrides;
-   
+
    if (DOOR_STATUS == STATE_WOOD) then begin
        display_msg(mstr(100));
    end else begin
@@ -468,10 +468,10 @@ end
 
 procedure map_enter_p_proc begin
    variable in_door_critter;
-   
+
    obj_close(self_obj);
    match_dude_elevation;
-      
+
    if (cage_door) then begin
       cage_door_obj := self_obj;
    end else if (coup_door) then begin

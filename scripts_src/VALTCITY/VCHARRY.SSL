@@ -127,7 +127,7 @@ procedure map_enter_p_proc begin
    Harry_Ptr := self_obj;
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
-   
+
    //added by killap - expansion pack (Village)
    if (global_var(GVAR_QUEST_VAULT_SERVANT) == SERVANT_TURNED_IN_HARRY) then begin
     critter_attempt_placement(self_obj, 21915, 0);
@@ -502,7 +502,7 @@ end
 
 procedure Node014 begin
    Reply(201);
-   
+
    NOption(202,Node009,004);
    NOption(203,Node999,004);
 

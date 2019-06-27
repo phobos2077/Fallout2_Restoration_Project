@@ -139,7 +139,7 @@ procedure use_obj_on_p_proc begin
          remove_pid_qty(dude_obj, obj_pid(obj_being_used_with), 1)
          float_msg(self_obj, mstr(150), FLOAT_MSG_GREEN);
       // end added
-      end else begin      
+      end else begin
          if (combat_is_initialized == false) then begin
             script_overrides;
             debug_msg("ECDOGMET: using iguana on a stick");
@@ -171,14 +171,14 @@ procedure timed_event_p_proc begin
    if (fixed_param == TIMER_ATTACK) then begin
       self_attack_dude;
    end
-   
+
    //added by killap - expansion
    if (fixed_param == 40893) then begin
       set_party_waiting;
       critter_attempt_placement( self_obj, 15698, 0 );
    end
    //end added
-   
+
 end
 
 /* This procedure will get called each time that the map is first entered. It will
@@ -195,7 +195,7 @@ procedure map_enter_p_proc begin
       //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_BAR);
    end
-   
+
    add_timer_event(self_obj, random(25, 40), 0); //added by killap
    add_timer_event(self_obj,game_ticks(10),3); //added by killap - RP
 end
@@ -240,7 +240,7 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   
+
    if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
        party_remove_self;
        set_local_var(LVAR_Hostile,1);
@@ -257,7 +257,7 @@ procedure critter_p_proc begin
 
          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_BAR);
          critter_add_trait(mel,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_BAR);
-         
+
          //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
          //critter_add_trait(mel,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
 
@@ -368,7 +368,7 @@ procedure destroy_p_proc begin
    variable armor;
 /* Increment the aligned critter counter*/
    inc_good_critter
-   
+
    //added by killap - RP
    if (obj_is_carrying_obj_pid(self_obj, PID_K9_KEVLAR_WEARABLE)) then begin
       rm_obj_from_inven(self_obj, critter_inven_obj(self_obj, INVEN_TYPE_WORN));
@@ -486,7 +486,7 @@ procedure Node002 begin
       Reply(1110);
       set_local_var(LVAR_Used_Dog_Food, 0);
    end
-   
+
    if (not dude_at_max_party_size) then begin
       NLowOption(111, NodeJoin);
       NOption(114, NodeJoin, 4);
@@ -505,7 +505,7 @@ end
 
 procedure Node1000 begin //Main node
    Reply(117);
-   
+
    //added by killap RP
    if ((obj_is_carrying_obj_pid(dude_obj,PID_K9_KEVLAR))) then begin
       NOption(200, Node010, 4);
@@ -513,7 +513,7 @@ procedure Node1000 begin //Main node
       NOption(201, Node011, 4);
    end
    //end added
-   
+
    DOGMEAT_OPTIONS
 end
 
@@ -582,7 +582,7 @@ procedure Node011 begin
    gfade_out(ONE_GAME_SECOND*6);
       rm_obj_from_inven(self_obj, critter_inven_obj(self_obj, INVEN_TYPE_WORN));
       destroy_object(obj_carrying_pid_obj(self_obj, PID_K9_KEVLAR_WEARABLE));
-      metarule3(107, self_obj, FID_MADDOG, 0); 
+      metarule3(107, self_obj, FID_MADDOG, 0);
       armor := create_object(PID_K9_KEVLAR,0,0);
       add_obj_to_inven(dude_obj,armor);
    gfade_in(ONE_GAME_SECOND*6);

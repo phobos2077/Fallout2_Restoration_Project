@@ -114,7 +114,7 @@ procedure damage_p_proc begin
 
    if (source_obj == dude_obj) then begin
        set_local_var(LVAR_Hostile,2);
-       
+
    end
 
 end
@@ -164,8 +164,8 @@ procedure critter_p_proc begin
       set_local_var(LVAR_Said_Once,1);
       call Node003;
    end
-   
-  
+
+
 end
 
 

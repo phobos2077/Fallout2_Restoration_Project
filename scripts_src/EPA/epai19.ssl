@@ -30,7 +30,7 @@ begin
 end
 
 procedure use_obj_on_p_proc begin
-   if ((obj_pid(obj_being_used_with) == PID_WRENCH) or (obj_pid(obj_being_used_with) == PID_MULTI_TOOL) or (obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT) ) then begin 
+   if ((obj_pid(obj_being_used_with) == PID_WRENCH) or (obj_pid(obj_being_used_with) == PID_MULTI_TOOL) or (obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT) ) then begin
       script_overrides;
       if (global_var(GVAR_FIX_HOLOGRAM00000) == 0) then begin
          dude_floater(106);

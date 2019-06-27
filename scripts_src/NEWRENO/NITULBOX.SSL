@@ -58,14 +58,14 @@ procedure map_enter_p_proc begin
    new_reno_poor_box_obj := self_obj;
    if (is_loading_game == false) then begin
       if (tully_dead == false) then begin
-      
+
          //added by killap - fix for game_time going negative after 7 years
          if (((game_time) < 0) and (local_var(LVAR_Restock_Time_Fix) == 0)) then begin
             set_local_var(LVAR_Restock_Time, game_time - 1);
             set_local_var(LVAR_Restock_Time_Fix, 1);
          end
-         //end added      
-      
+         //end added
+
          if (local_var(LVAR_Restock_Time) < game_time) then begin
             item_caps_adjust(self_obj, random(1,50) - self_caps);
             set_local_var(LVAR_Poor_Box_Caps, self_caps);

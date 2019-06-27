@@ -4,7 +4,7 @@
 
 #include "..\headers\define.h"
 #include "..\headers\updatmap.h"
-#include "..\headers\tribe01.H" 
+#include "..\headers\tribe01.H"
 
 #define NAME                    SCRIPT_TRIBEM1          //Script name from scripts.h
 
@@ -49,28 +49,28 @@ begin
          set_map_var(MVAR_Restock_Time_Fix, 1);
       end
       //end added
-   
+
       if (map_var(MVAR_Restock_Time) < game_time) then begin
           set_map_var(MVAR_Restock_Time, (random(6,8) * ONE_GAME_DAY) + game_time);
           call Make_Plants;
       end
    end
-   
+
    if ( (global_var(GVAR_MERCHANT_MEETING) > MERCHANT_START) and ( (global_var(GVAR_MERCHANT_MEETING) < MERCHANT_DONE) or (global_var(GVAR_LOAD_MAP_INDEX) == 901) ) ) then begin
       move_to(dude_obj, 22887, 1);
    end
 
    if (global_var(GVAR_MISSING_WARRIOR) == 4) then begin
-    
+
       Critter:=create_object_sid(PID_MALE_PRIMITIVE_HUNTER,18517,1,SCRIPT_TRIBEC9);
-      
+
       move_to(dude_obj, 20518, 1);
       anim(dude_obj, ANIMATE_ROTATION, 5);
       display_msg(mstr(102));
       give_xp(EXP_FIND_HUNTERS);
       set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE, global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 15);
    end
-   
+
    if (map_first_run) then begin
          display_msg(mstr(100));
    end
@@ -94,7 +94,7 @@ begin
             Create_Car(CAR_PRIMITIVE_TRIBE_HEX,CAR_PRIMITIVE_TRIBE_ELEV)
             if (tile_contains_pid_obj(CAR_PRIMITIVE_TRIBE_HEX, CAR_PRIMITIVE_TRIBE_ELEV, PID_DRIVABLE_CAR) != 0) then begin
                Create_Trunk(CAR_PRIMITIVE_TRIBE_HEX,CAR_PRIMITIVE_TRIBE_ELEV)
-            end 
+            end
          end
       end else begin
          Check_Create_Car(CAR_PRIMITIVE_TRIBE_HEX, CAR_PRIMITIVE_TRIBE_ELEV)
@@ -106,7 +106,7 @@ begin
          Create_Car(CAR_PRIMITIVE_TRIBE_HEX,CAR_PRIMITIVE_TRIBE_ELEV)
          if (tile_contains_pid_obj(CAR_PRIMITIVE_TRIBE_HEX, CAR_PRIMITIVE_TRIBE_ELEV, PID_DRIVABLE_CAR) != 0) then begin
             Create_Trunk(CAR_PRIMITIVE_TRIBE_HEX,CAR_PRIMITIVE_TRIBE_ELEV)
-         end 
+         end
       end
       //sigh...hack hack hack - 2
    end else if ( (map_get_load_area == AREA_PRIMITIVE_TRIBE) and (car_current_town == AREA_NCR) and (global_var(GVAR_CAR_PLACED_TILE) == CAR_PRIMITIVE_TRIBE_HEX) ) then begin
@@ -123,13 +123,13 @@ begin
          Create_Car(CAR_PRIMITIVE_TRIBE_HEX,CAR_PRIMITIVE_TRIBE_ELEV)
          if (tile_contains_pid_obj(CAR_PRIMITIVE_TRIBE_HEX, CAR_PRIMITIVE_TRIBE_ELEV, PID_DRIVABLE_CAR) != 0) then begin
             Create_Trunk(CAR_PRIMITIVE_TRIBE_HEX,CAR_PRIMITIVE_TRIBE_ELEV)
-         end 
+         end
       end else begin
          Check_Create_Car(CAR_PRIMITIVE_TRIBE_HEX, CAR_PRIMITIVE_TRIBE_ELEV)
       end
    end
    //end added
-   
+
    //Check_Create_Car(CAR_PRIMITIVE_TRIBE_HEX, CAR_PRIMITIVE_TRIBE_ELEV)
 
    //display_msg("get_load: " + map_get_load_area);

@@ -272,7 +272,7 @@ procedure use_skill_on_p_proc begin
 end
 
 
-   
+
 /*
 procedure garl18 begin
    tandi_pid_ptr := create_object(212,0,0); //TANDI_ITEM=212

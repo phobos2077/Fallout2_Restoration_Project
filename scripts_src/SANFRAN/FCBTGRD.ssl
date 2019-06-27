@@ -79,7 +79,7 @@ procedure timed_event_p_proc begin
       if (local_var(LVAR_Boat_Touch_Attempt) == 3) then
          call Node998;
    end
-   
+
 end
 
 /********************************************************************

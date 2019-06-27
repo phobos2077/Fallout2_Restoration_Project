@@ -282,7 +282,7 @@ end
 procedure Node987 begin
    inc_becky_friends_dead;
    off_becky_work; //added by killap
-   set_becky_job(state_becky_job_book);   //added by killap 
+   set_becky_job(state_becky_job_book);   //added by killap
 //   call Node989;
    call Node012;
 end

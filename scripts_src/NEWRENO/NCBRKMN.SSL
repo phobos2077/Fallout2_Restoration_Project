@@ -236,7 +236,7 @@ end
 
 procedure Node090 begin
    variable item;
-   
+
    item:=create_object(PID_STIMPAK,0,0);
    add_mult_objs_to_inven(dude_obj,item,3);
    display_msg(mstr(500));

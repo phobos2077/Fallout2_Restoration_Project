@@ -225,7 +225,7 @@ procedure talk_p_proc begin
    ReactToLevel; //added by killap
    //WTG
    set_local_var(LVAR_Talked_Tandi,1);//added by killap
-   
+
    if (NCR_ENEMY) then
       set_local_var(LVAR_Hostile, 2);
 
@@ -247,7 +247,7 @@ procedure talk_p_proc begin
       gSay_Start;
          call Node040a;
       gSay_End;
-      end_dialogue;      
+      end_dialogue;
    // end added
    end else if (global_var(GVAR_NCR_TANDI_JOB_ACCEPT) == TJOB_DONE or local_var(LVAR_Tandi_Done)) then begin
       call Node048;

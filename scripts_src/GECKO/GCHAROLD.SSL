@@ -158,7 +158,7 @@ procedure map_enter_p_proc begin
    Only_Once:=0;
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_GECKO);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
-//begin killap code      
+//begin killap code
    if( map_first_run ) then begin
       if (global_var(GVAR_GECKO_DESCENDANT_KNOWN) != 0) then
          set_global_var(GVAR_GECKO_DESCENDANT_KNOWN,0); //(this should already be 0, but it seems to act like it is not, so we set it here)
@@ -219,13 +219,13 @@ procedure talk_p_proc begin
    GetReaction;
 
    ReactToLevel; //added by killap
-   
+
 // Begin Seraph Code - expansion
    if (global_var(GVAR_ENDGAME_MOVIE_HAROLD) != 1) then
       set_global_var(GVAR_ENDGAME_MOVIE_HAROLD,1);
 // End Seraph Code
 
-   from_2 := 0;   
+   from_2 := 0;
    if (local_var(LVAR_Personal_Enemy) == 1) then begin
        call Node998;
    end
@@ -252,7 +252,7 @@ procedure talk_p_proc begin
        start_gdialog(NAME,self_obj,4,HEAD_HAROLD,BACKGROUND_HUB);
        //start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
-         call Node002; 
+         call Node002;
        gSay_End;
        end_dialogue;
    end
@@ -510,7 +510,7 @@ procedure Node011 begin
    end
    NOption(154,Node002,004); //killap's fix: moved from above
    NOption(155,Node999,004); //killap's fix: changed from 157
-   
+
 end
 
 procedure Node012 begin //not being used
@@ -570,7 +570,7 @@ procedure Node020 begin
    end else begin
       Reply(177);
       NOption(179,Node999,004);
-   end 
+   end
 end
 
 procedure Node021 begin
@@ -808,7 +808,7 @@ procedure Node048 begin
    if ((local_var(LVAR_50_before) != 0) and (local_var(LVAR_49_before) != 0)) then
       NOption(273,Node999,004);
    //end killap code
-   NOption(260,Node999,004);  
+   NOption(260,Node999,004);
 end
 
 procedure Node049 begin

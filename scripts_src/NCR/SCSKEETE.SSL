@@ -122,7 +122,7 @@ procedure timed_event_p_proc begin
    variable Inven_Roll; //added
    variable item; //added
    variable count;   //added
-   
+
 //begin killap's code - expansion
    if (fixed_param == TIMER_STEAL_STUFF) then begin
       if ( (global_var(GVAR_NCR_CAR_JACKED) == 1) and (local_var(LVAR_stole_today) == 0) and (game_time_hour > 100) and (game_time_hour < 700) ) then begin
@@ -144,7 +144,7 @@ procedure timed_event_p_proc begin
             float_msg(self_obj, mstr(176 + which), Random(4, 7));
          end else begin
             if (obj_can_see_obj(self_obj, dude_obj)) then begin
-               float_msg(self_obj, mstr(176), FLOAT_MSG_GREEN);       
+               float_msg(self_obj, mstr(176), FLOAT_MSG_GREEN);
             end
          end
       end
@@ -290,17 +290,17 @@ procedure destroy_p_proc begin
 
    //inc_good_critter
    //inc_evil_critter --comment out
-   
+
    inc_neutral_critter // added by killap
-   
+
    //added by killap
    if (merk_seed_status(MSS_KILL_SKEETER)) then begin
       set_merk_status(MERK_STATUS_PLEASED);
-   end 
+   end
    //end
-   
+
    set_mss(MSS_SKEETER_DEAD); //added by killap
-   
+
 /* Set global_variable for Enemy status*/
 end
 
@@ -445,7 +445,7 @@ end
 procedure Node005 begin
    set_global_var(GVAR_NCR_CAR_JACKED, 0); //killap's fix: changed from -1
    set_local_var(LVAR_paid, 1); //added by killap
-   
+
    Reply(131);
    NOption(132, Node009, 4);
    NOption(133, Node999, 1);
@@ -495,7 +495,7 @@ procedure Node009 begin
       NOption(145, Node001, 4);
       repeatN1 := 2;
    end
-      
+
    NOption(146, Node999, 4);
 end
 

@@ -391,11 +391,11 @@ procedure damage_p_proc begin
        end
    end
  end
- 
+
    else begin
        display_msg(door_mstr(193));
    end
-   
+
   /************ Wood Door ****************/
 
 end

@@ -436,7 +436,7 @@ procedure Node011 begin
    if (k == 1) then floater(210);
    else if (k == 2) then floater(211);
    else if (k == 3) then floater(212);*/
-   
+
    float_msg(self_obj, message_str(NAME,random(210,212)),FLOAT_MSG_NORMAL); //edit by killap
 end
 
@@ -445,15 +445,15 @@ procedure Node012 begin
    if (k == 1) then floater(220);
    else if (k == 2) then floater(221);
    else if (k == 3) then floater(222);*/
-   
+
    float_msg(self_obj, message_str(NAME,random(220,222)),FLOAT_MSG_NORMAL); //edit by killap
-   
+
 end
 
 procedure Node013 begin
    //floater(random(230,232));
-   
+
    float_msg(self_obj, message_str(NAME,random(230,232)),FLOAT_MSG_NORMAL); //edit by killap
-   
+
 end
 //xxxxxxxxxxxxxxxxxxxx

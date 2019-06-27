@@ -428,7 +428,7 @@ procedure Node986 begin
    end else begin
       call Node030;
    end
-end 
+end
 //end edit
 procedure Node985 begin
    set_deal(deal_deal_500);
@@ -440,7 +440,7 @@ procedure Node984 begin
    give_xp(EXP_NEW_RENO_PORN_STAR);
    inc_reno_rep(REP_NEW_RENO_PORN_STAR);
    //end added
-   call Node987; 
+   call Node987;
 end
 procedure Node983 begin
    do_fluf(dude_obj, 5, 1100)

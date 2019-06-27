@@ -264,7 +264,7 @@ procedure talk_p_proc begin
    CheckKarma;
 
    GetReaction;
-   
+
    ReactToLevel; //added by killap
 
    if (cur_map_index == MAP_DESTROYED_ARROYO_BRIDGE) then begin
@@ -574,13 +574,13 @@ end
 
 procedure Node006 begin
    Reply(135);
-   
+
    //added check by killap
    if (From996) then
       NOption(136,Node007,004);
    else
       NOption(118,Node005a,004);
-      
+
    NOption(137,Node006a,004);
    BOption(138,Node008,004);
    BOption(139,Node008,004);
@@ -806,7 +806,7 @@ procedure Node023 begin
        flower:=rm_mult_objs_from_inven(dude_obj,flower_ptr,total_healing);
        destroy_object(root_ptr); //added by killap
        destroy_object(flower_ptr); //added by killap
-       
+
        gfade_out(600);
        gfade_in(600);
 

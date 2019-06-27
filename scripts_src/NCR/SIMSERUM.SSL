@@ -51,10 +51,10 @@ procedure use_obj_on_p_proc begin
       if (global_var(GVAR_NCR_HENRY_HYPO) < HYPO_USED) then begin
          script_overrides;
          set_global_var(GVAR_NCR_HENRY_HYPO, HYPO_USED);
-         
+
          display_msg(mstr(101));
-         give_xp(EXP_DOCHENRY_MUTA_TEST); 
-         
+         give_xp(EXP_DOCHENRY_MUTA_TEST);
+
          //give_exp_points(EXP_DOCHENRY_MUTA_TEST);
          //display_msg(mstr(101) + EXP_DOCHENRY_MUTA_TEST + mstr(102));
       end

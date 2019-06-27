@@ -297,9 +297,9 @@ procedure timed_event_p_proc begin
       end
       rm_fixed_timer_event(self_obj, fixed_param);
       add_timer_event(self_obj,game_ticks(2),25);
-   end 
+   end
 end
-    
+
 
 procedure critter_p_proc begin
    if (self_can_see_dude) then begin
@@ -362,7 +362,7 @@ procedure map_enter_p_proc begin
       move_to(self_obj, 20687, self_elevation);
    else if  (self_tile != 19067) then
       move_to(self_obj, 19067, self_elevation);
-   
+
    grave := random(1,12);
    add_timer_event(self_obj,game_ticks(random(5,10)),grave);
 end

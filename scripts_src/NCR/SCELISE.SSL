@@ -182,7 +182,7 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   
+
    // edit by killap - added (global_var(GVAR_NCR_VORTIS_QUEST_STATE) == VORTIS_QUEST2_DONE)
    if ( ((global_var(GVAR_NCR_VORTIS_QUEST_STATE) == VORTIS_QUEST2_DONE) or (local_var(LVAR_Hostile) != 0)) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
        set_local_var(LVAR_Hostile,1);
@@ -247,7 +247,7 @@ procedure talk_p_proc begin
    CheckKarma;
 
    GetReaction;
-   
+
    ReactToLevel; //added by killap
 
    if (has_rep_slaver) then begin
@@ -287,7 +287,7 @@ procedure talk_p_proc begin
          gSay_Start;
             call Node050;
          gSay_End;
-         end_dialogue;      
+         end_dialogue;
       end else begin
          call Node024;
       end
@@ -567,7 +567,7 @@ procedure Node023 begin
 
    Reply(200); //edit by killap - expansion
    //Reply(163);
-   
+
    //added by killap - expansion
    if ( (town_known(AREA_SLAVER_CAMP) != MARK_STATE_UNKNOWN) and (global_var(GVAR_WIPED_OUT_SLAVER_CAMP) == 0) ) then begin
       NOption(201, Node032, 4);
@@ -665,7 +665,7 @@ end
 
 procedure Node036 begin
    Reply(214);
-   
+
    if (has_skill(dude_obj,SKILL_CONVERSANT) >= 80) then
       NOption(219, Node992, 4);
    //NOption(215, Node033, 4);
@@ -735,7 +735,7 @@ end
 procedure Node992 begin
    if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -10 ) ) ) then
       call Node041;
-   else 
+   else
       call Node042;
 end
 
@@ -747,7 +747,7 @@ procedure Node994 begin
       //if (ncr_global_state(NCR_SLAVES_FREE)) then
    if (global_var(GVAR_NCR_FREE_SLAVES_QST) == 2) then
       call Node999;
-   else 
+   else
       call Node043;
 end
 
@@ -788,7 +788,7 @@ procedure Node048 begin
    item_caps_adjust( dude_obj, 1000 );
    set_global_var(GVAR_NCR_ATTACK_SLAVER_CAMP,2);
    set_global_var(GVAR_WIPED_OUT_SLAVER_CAMP,2);
-   
+
    Reply(280);
    NOption(281, Node999, 4);
    NOption(282, Node049, 4);

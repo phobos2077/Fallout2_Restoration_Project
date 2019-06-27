@@ -159,7 +159,7 @@ end
 **************************************************************************************/
 
 procedure talk_p_proc begin
-   if ( (obj_pid(self_obj) == PID_CHILD_FEMALE) or (obj_pid(self_obj) == PID_CHILD_MALE) ) then begin 
+   if ( (obj_pid(self_obj) == PID_CHILD_FEMALE) or (obj_pid(self_obj) == PID_CHILD_MALE) ) then begin
       if (dude_is_male) then begin
          floater(random(200,(200+(global_var(GVAR_DEN_ORPHANAGE) == 7))));
       end else begin

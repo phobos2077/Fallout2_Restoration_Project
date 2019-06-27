@@ -50,8 +50,8 @@ procedure map_enter_p_proc begin
       Create_Car(CAR_ARROYO_HEX,CAR_ARROYO_ELEV)
       if (tile_contains_pid_obj(CAR_ARROYO_HEX, CAR_ARROYO_ELEV, PID_DRIVABLE_CAR) != 0) then begin
          Create_Trunk(CAR_ARROYO_HEX,CAR_ARROYO_ELEV)
-      end 
-   end else 
+      end
+   end else
       Check_Create_Car(CAR_ARROYO_HEX, CAR_ARROYO_ELEV)
    //end added
 

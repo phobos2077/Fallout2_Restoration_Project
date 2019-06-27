@@ -139,12 +139,12 @@ procedure destroy_p_proc begin
    variable ProtoOfItem;
    inc_evil_critter
    set_map_var(MVAR_Slaver_Count, ((map_var(MVAR_Slaver_Count)) - 1));
-   
+
    if (map_var(MVAR_Take_Slaves) == 0) then begin
-      ProtoOfItem:=create_object(PID_KEYS,0,0);                                 
+      ProtoOfItem:=create_object(PID_KEYS,0,0);
       add_mult_objs_to_inven(self_obj,ProtoOfItem,1);
    end
-   
+
    if (map_var(MVAR_Slaver_Count) == 0) then begin
       set_global_var(GVAR_WIPED_OUT_SLAVER_CAMP,1);
       display_msg(message_str(SCRIPT_SLVCM1, 200));
@@ -246,7 +246,7 @@ procedure Node004 begin
    Reply(202);
    NOption(300,Node005,004);
    NOption(302,Node006,004);
-end   
+end
 
 procedure Node005 begin
    Reply(301);
@@ -335,11 +335,11 @@ end
 procedure Node092 begin
    variable ProtoOfItem;
 
-   ProtoOfItem:=create_object(PID_KEYS,0,0);                                 
+   ProtoOfItem:=create_object(PID_KEYS,0,0);
    add_mult_objs_to_inven(dude_obj,ProtoOfItem,1);
-   
+
    set_map_var(MVAR_Take_Slaves,1);
-                               
+
 end
 
 procedure Node093 begin

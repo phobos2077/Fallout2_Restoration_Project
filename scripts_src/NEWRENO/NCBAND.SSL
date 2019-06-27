@@ -104,10 +104,10 @@ procedure timed_event_p_proc begin
             end
             band_member_float("" + local_var(LVAR_Bottles) + mstr(the_line))
             // Begin Seraph's Code
-            if (local_var(LVAR_Line) != 604) then 
+            if (local_var(LVAR_Line) != 604) then
                inc_local_var(LVAR_Line);
             else
-               set_local_var(LVAR_Line,600);   
+               set_local_var(LVAR_Line,600);
             if (local_var(LVAR_Bottles) == 0) then begin
                req_new_track(track);
             end

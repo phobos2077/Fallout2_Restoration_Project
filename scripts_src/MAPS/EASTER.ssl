@@ -5,7 +5,7 @@
         Description: The map script to the Easter Egg encounter found in the Restoration Project
 
         Log:
-           
+
 
            Created:
 
@@ -46,16 +46,16 @@ procedure map_enter_p_proc begin
       Create_Car(CAR_RP_EASTER_EGG_HEX,CAR_RP_EASTER_EGG_ELEV)
       if (tile_contains_pid_obj(CAR_RP_EASTER_EGG_HEX, CAR_RP_EASTER_EGG_ELEV, PID_DRIVABLE_CAR) != 0) then begin
          Create_Trunk(CAR_RP_EASTER_EGG_HEX,CAR_RP_EASTER_EGG_ELEV)
-      end 
-   end else 
+      end
+   end else
       Check_Create_Car(CAR_RP_EASTER_EGG_HEX, CAR_RP_EASTER_EGG_ELEV)
-   //end added  
+   //end added
 
 end
 
 procedure map_update_p_proc begin
    Lighting;
-   
+
    if (combat_is_initialized) then begin
       terminate_combat;
       display_msg(mstr(5000));
@@ -68,7 +68,7 @@ procedure combat_p_proc begin
       display_msg(mstr(5000));
    end
 end
- 
+
 procedure map_exit_p_proc begin
    set_global_var(GVAR_CAR_PLACED_TILE, 0);
 end

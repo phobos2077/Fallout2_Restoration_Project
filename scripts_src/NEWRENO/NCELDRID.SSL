@@ -328,7 +328,7 @@ procedure talk_p_proc begin
    else if (get_jules_eldridge(jules_eldridge_discount)) then
       gdialog_set_barter_mod(-10);
    //added by killap
-   
+
    if (eldridge_bed_time) then begin
       call Node030;
    end else begin
@@ -413,11 +413,11 @@ procedure Node987 begin
    else if ((dude_caps < MCOST)) then begin
       Reply(802);
       NOption(1346, Node999, 004);
-   end 
+   end
    else if (not(obj_is_carrying_obj_pid(dude_obj, PID_44_MAGNUM_REVOLVER))) then begin
       Reply(801);
       NOption(1346, Node999, 004);
-   end 
+   end
 end
 //end final weapon/money check added by killap
 procedure Node986 begin
@@ -430,11 +430,11 @@ procedure Node986 begin
    else if ((dude_caps < DECOST)) then begin
       Reply(802);
       NOption(1346, Node999, 004);
-   end 
+   end
    else if (not(obj_is_carrying_obj_pid(dude_obj, PID_DESERT_EAGLE))) then begin
       Reply(801);
       NOption(1346, Node999, 004);
-   end 
+   end
 end
 //end final weapon/money check added by killap
 procedure Node985 begin
@@ -447,11 +447,11 @@ procedure Node985 begin
    else if ((dude_caps < HRCOST)) then begin
       Reply(802);
       NOption(1346, Node999, 004);
-   end 
+   end
    else if (not(obj_is_carrying_obj_pid(dude_obj, PID_HUNTING_RIFLE))) then begin
       Reply(801);
       NOption(1346, Node999, 004);
-   end 
+   end
 end
 //end final weapon/money check added by killap
 procedure Node984 begin
@@ -464,11 +464,11 @@ procedure Node984 begin
    else if ((dude_caps < ARCOST)) then begin
       Reply(802);
       NOption(1346, Node999, 004);
-   end 
+   end
    else if (not(obj_is_carrying_obj_pid(dude_obj, PID_ASSAULT_RIFLE))) then begin
       Reply(801);
       NOption(1346, Node999, 004);
-   end 
+   end
 end
 //end final weapon/money check added by killap
 procedure Node983 begin
@@ -481,11 +481,11 @@ procedure Node983 begin
    else if ((dude_caps < FNCOST)) then begin
       Reply(802);
       NOption(1346, Node999, 004);
-   end 
+   end
    else if (not(obj_is_carrying_obj_pid(dude_obj, PID_FN_FAL))) then begin
       Reply(801);
       NOption(1346, Node999, 004);
-   end 
+   end
 end
 //end final weapon/money check added by killap
 procedure Node982 begin
@@ -498,11 +498,11 @@ procedure Node982 begin
    else if ((dude_caps < CPCOST)) then begin
       Reply(802);
       NOption(1346, Node999, 004);
-   end 
+   end
    else if (not(obj_is_carrying_obj_pid(dude_obj, PID_CATTLE_PROD))) then begin
       Reply(801);
       NOption(1346, Node999, 004);
-   end 
+   end
 end
 //end final weapon/money check added by killap
 procedure Node981 begin
@@ -536,7 +536,7 @@ procedure Node977 begin
 end
 procedure Node975 begin
    give_eldridge_box(new_reno_eldridge_box_2)
-   
+
    //added by killap
    if (Fallout2_enclave_destroyed) then
       gdialog_mod_barter(-200);
@@ -547,12 +547,12 @@ procedure Node975 begin
    else
    //end added by killap
       gdialog_barter;
-      
+
    call return_node;
 end
 procedure Node974 begin
    give_eldridge_box(new_reno_eldridge_box)
-   
+
    //added by killap
    if (Fallout2_enclave_destroyed) then
       gdialog_mod_barter(-200);
@@ -563,7 +563,7 @@ procedure Node974 begin
    else
    //end added by killap
       gdialog_barter;
-   
+
    call return_node;
 end
 procedure Node973 begin

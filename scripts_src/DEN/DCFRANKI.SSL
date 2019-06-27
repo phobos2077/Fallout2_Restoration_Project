@@ -234,7 +234,7 @@ procedure Node991 begin
       if (still_quest(state_still_quest_finished) == false) then
          call Node018;
       else
-         call Node018a; //added by killap 
+         call Node018a; //added by killap
    end
 end
 procedure Node990 begin

@@ -146,7 +146,7 @@ end
 procedure Node012 begin
    set_local_var(LVAR_Auto,1);
    call Turn_Off_Robots;
-   
+
    display_msg(message_str(SCRIPT_GENERIC,1021)); //added by killap
    give_xp(EXP_HACK_SIERRA_COMP_2C_REPAIR);
 

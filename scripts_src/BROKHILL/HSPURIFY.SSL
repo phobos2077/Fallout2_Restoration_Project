@@ -101,7 +101,7 @@ procedure timed_event_p_proc begin
          reg_anim_animate_forever(self_obj, ANIM_stand);
          reg_anim_end();
       end
-      add_timer_event(self_obj, 1, 2);   
+      add_timer_event(self_obj, 1, 2);
    end
    //end added
 end

@@ -172,10 +172,10 @@ procedure map_update_p_proc begin
       end
       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
    end
-   
+
    if (waiting == 1) then begin
       waiting := 0;
-   end    
+   end
 end
 
 
@@ -187,17 +187,17 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   
+
    //added by killap
-   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_VIC)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_VIC))) then begin 
+   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_VIC)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_VIC))) then begin
       set_map_var(MVAR_Kitty_Drug, 0);
       waiting := 1;
       if (get_critter_stat(self_obj, STAT_st) < 10) then begin
          use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
       end
-   end 
+   end
    //end added
-   
+
    if ((cur_map_index == MAP_SIERRA_BATTLE) and (global_var(GVAR_SIERRA_BASE_ENEMY) == 1) and (local_var(LVAR_Hostile) == 0)) then begin
        if (local_var(LVAR_Freed) == 0) then begin
            inc_local_var(LVAR_Freed);
@@ -217,11 +217,11 @@ procedure critter_p_proc begin
    /*if ((cur_map_index == MAP_SIERRA_123) and ((local_var(LVAR_Alarm_1) == 0) or (local_var(LVAR_Alarm_2) == 0) or (local_var(LVAR_Alarm_3) == 0))) then begin
        call Node024;
    end*/
-   
+
    //added by killap
    if ( ((cur_map_index == MAP_SIERRA_123) and ((map_var(MVAR_Security_Level_1) == 1) or (map_var(MVAR_Security_Level_2) == 1) or (map_var(MVAR_Security_Level_3) == 1))) or (cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1) ) then begin
        call Node024;
-   end 
+   end
    //end added
 
    if (waiting != 1) then begin //check added by killap - needed for "hacky fix" for kitty drug... :(
@@ -243,7 +243,7 @@ procedure timed_event_p_proc begin
    if (fixed_param == 2) then begin
        call Kill_The_Party;
    end
-   
+
    //added by killap - expansion
    if (fixed_param == 40893) then begin
       set_local_var(LVAR_In_Party,0);
@@ -253,7 +253,7 @@ procedure timed_event_p_proc begin
       critter_attempt_placement( self_obj, 15698, 0 );
    end
    //end added
-   
+
    /*else if (fixed_param == 3) then begin - comment out by killap
        set_local_var(LVAR_Hostile,2);
    end*/
@@ -769,7 +769,7 @@ procedure Node024 begin
           set_map_var(MVAR_Security_Level_4,0);
       end
    end
-end 
+end
 //end edit
 
 procedure Kill_The_Party begin
@@ -856,7 +856,7 @@ procedure Kill_The_Party begin
            add_timer_event(self_obj,game_ticks(3),2);
        end
    end
-   
+
    else if (Kitsune_Ptr != 0) then begin
        if (tile_distance_objs(self_obj,Kitsune_Ptr) < 2) then begin
            critter_dmg(Kitsune_Ptr,1000,DMG_explosion);
@@ -867,7 +867,7 @@ procedure Kill_The_Party begin
            set_local_var(LVAR_Party_Target,7);
            add_timer_event(self_obj,game_ticks(3),2);
        end
-   end   
+   end
 
    else if (Cat_Jules_Ptr != 0) then begin
        if (tile_distance_objs(self_obj,Cat_Jules_Ptr) < 2) then begin
@@ -879,8 +879,8 @@ procedure Kill_The_Party begin
            set_local_var(LVAR_Party_Target,7);
            add_timer_event(self_obj,game_ticks(3),2);
        end
-   end   
-   
+   end
+
    else if (Dex_Ptr != 0) then begin
        if (tile_distance_objs(self_obj,Dex_Ptr) < 2) then begin
            critter_dmg(Dex_Ptr,1000,DMG_explosion);
@@ -891,7 +891,7 @@ procedure Kill_The_Party begin
            set_local_var(LVAR_Party_Target,7);
            add_timer_event(self_obj,game_ticks(3),2);
        end
-   end   
+   end
 
    else if (tile_distance_objs(self_obj,dude_obj) < 2) then begin
        call Node015;

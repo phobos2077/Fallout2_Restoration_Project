@@ -73,13 +73,13 @@ end
 
 procedure pickup_p_proc
 begin
-   call Tamper_Proc; 
+   call Tamper_Proc;
 end
 
 
 procedure use_p_proc
 begin
-   call Tamper_Proc; 
+   call Tamper_Proc;
 end
 
 procedure Tamper_Proc begin
@@ -120,7 +120,7 @@ procedure map_enter_p_proc begin
    else begin
        obj_unlock(self_obj);
    end
-   
+
 end
 
 procedure use_skill_on_p_proc begin
@@ -136,7 +136,7 @@ procedure use_skill_on_p_proc begin
        else begin
            call Set_Lock;
        end
-   end    
+   end
 end
 
 
@@ -145,8 +145,8 @@ procedure use_obj_on_p_proc begin
    variable Tool;
 
    Tool:=obj_pid(obj_being_used_with);
- 
-   
+
+
    if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin
        if (Tool == PID_KEYS) then begin
            script_overrides;
@@ -174,7 +174,7 @@ procedure use_obj_on_p_proc begin
        end
        //end added by killap
    end
-   
+
 end
 
 

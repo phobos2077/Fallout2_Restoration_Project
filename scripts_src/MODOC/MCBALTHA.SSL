@@ -133,7 +133,7 @@ procedure combat_p_proc begin
       add_obj_to_inven(self_obj, item);
    end
    //added by killap
-   
+
    if (dude_enemy_modoc) then begin
       if (self_team == TEAM_PLAYER) then begin
          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
@@ -251,7 +251,7 @@ procedure Node995 begin
    end else begin
       call Node011;
    end*/
-   
+
    //edit by killap
    if ( (global_var(TOWN_REP_VAR) < 0) or (global_var(TOWN_REP_VAR) <= KARMA_SWORD_OF_DESPAIR) ) then begin
       call Node017;
@@ -261,7 +261,7 @@ procedure Node995 begin
       call Node011;
    end
    //end edit by killap
-   
+
 end
 procedure Node994 begin
    if (has_skill(dude_obj,SKILL_OUTDOORSMAN)) then begin

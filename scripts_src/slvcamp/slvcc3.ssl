@@ -127,7 +127,7 @@ procedure critter_p_proc begin
          end
       end
    end
-   
+
    //if (tile_distance_objs(self_obj,GUARD_obj) > 6) then begin
    //   anim_move_to_point_rate(tile_num(GUARD_obj), 2)
    //end

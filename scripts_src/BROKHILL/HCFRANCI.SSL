@@ -274,7 +274,7 @@ procedure talk_p_proc begin
 
    GetReaction;
    ReactToLevel; //added by killap
-   
+
    Francis_Leaves := 0;
 
    if( fight_response == 1 ) then begin
@@ -707,32 +707,32 @@ procedure Node019 begin
       item:=create_object(PID_BEER,0,0);
       add_obj_to_inven(dude_obj,item);
       //NMessage(151); //add beer to inventory, check other flags
-      
+
       //added by killap
       Reply(151);
-      
+
       if ( global_var( GVAR_READ_FRANCIS_NOTE ) == 1 ) then
          NOption(599, Node025, 004 );
       if (global_var(GVAR_BH_MIGHTY_MAN) == MIGHTY_MAN_KNOWN) then
          NOption(108,Node005,004);
       NOption(202,Node999,001);
       //end added
-      
+
    end
    else begin
    //if 2nd or > time
       //NMessage(152);  //check other flags...what does Colin mean by this?
-      
+
       //added by killap
       Reply(152);
-      
+
       if ( global_var( GVAR_READ_FRANCIS_NOTE ) == 1 ) then
          NOption(599, Node025, 004 );
       if (global_var(GVAR_BH_MIGHTY_MAN) == MIGHTY_MAN_KNOWN) then
          NOption(108,Node005,004);
       NOption(201,Node999,001);
       //end added
-      
+
    end
 end
 

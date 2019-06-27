@@ -189,7 +189,7 @@ procedure critter_p_proc begin
            set_obj_visibility(self_obj,0);      // vis
        end
    end*/
-   
+
    //new code - killap
    /*if (cur_map_index == MAP_SIERRA_123) then begin
        if (tile_in_tile_rect(17910,17890,19110,19090,tile_num(self_obj)) or tile_in_tile_rect(20702,20693,22302,22293,tile_num(self_obj))) then begin
@@ -335,7 +335,7 @@ procedure combat_p_proc begin
        debug_msg("I am disabled and won't attack!");
    end
    //end added
-end 
+end
 
 procedure damage_p_proc begin
    if (local_var(LVAR_Active) == 0) then begin //added check - killap
@@ -420,7 +420,7 @@ procedure destroy_p_proc begin
            call Set_Map_Info_12;
            set_map_var(MVAR_Repair_Request12,REPAIR_PICKUP);
            debug_msg("Pickup on Unit 12");
-       end       
+       end
        else if (map_var(MVAR_Repair_Request1) < REPAIR_PICKUP) then begin
            call Set_Map_Info_1;
            set_map_var(MVAR_Repair_Request1,REPAIR_PICKUP);
@@ -470,17 +470,17 @@ procedure destroy_p_proc begin
            call Set_Map_Info_10;
            set_map_var(MVAR_Repair_Request10,REPAIR_PICKUP);
            debug_msg("Pickup on Unit 10");
-       end       
+       end
        else if (map_var(MVAR_Repair_Request11) < REPAIR_PICKUP) then begin
            call Set_Map_Info_11;
            set_map_var(MVAR_Repair_Request11,REPAIR_PICKUP);
            debug_msg("Pickup on Unit 11");
-       end       
+       end
        else if (map_var(MVAR_Repair_Request12) < REPAIR_PICKUP) then begin
            call Set_Map_Info_12;
            set_map_var(MVAR_Repair_Request12,REPAIR_PICKUP);
            debug_msg("Pickup on Unit 12");
-       end                      
+       end
    end
 
 end
@@ -526,7 +526,7 @@ procedure RepairMe begin
            else if (map_var(MVAR_Repair_Request7) == REPAIR_NONE) then begin
                call Set_Map_Info_7;
                set_map_var(MVAR_Repair_Request7,REPAIR_REQUEST);
-           end           
+           end
            else if (map_var(MVAR_Repair_Request8) == REPAIR_NONE) then begin
                call Set_Map_Info_8;
                set_map_var(MVAR_Repair_Request8,REPAIR_REQUEST);
@@ -547,7 +547,7 @@ procedure RepairMe begin
                call Set_Map_Info_12;
                set_map_var(MVAR_Repair_Request12,REPAIR_REQUEST);
            end
-           
+
        end
 
        else if (max_hp == cur_hp) then begin
@@ -739,13 +739,13 @@ procedure Replace_Ammo_Type begin
            set_map_var(MVAR_Repair_Request7,REPAIR_REQUEST);
            set_map_var(MVAR_Ammo_Request_7a,Ammo_Type);
            set_map_var(MVAR_Ammo_Request_7b,Ammo_Difference);
-       end       
+       end
        else if (map_var(MVAR_Repair_Request8) == REPAIR_NONE) then begin
            call Set_Map_Info_8;
            set_map_var(MVAR_Repair_Request8,REPAIR_REQUEST);
            set_map_var(MVAR_Ammo_Request_8a,Ammo_Type);
            set_map_var(MVAR_Ammo_Request_8b,Ammo_Difference);
-       end       
+       end
        else if (map_var(MVAR_Repair_Request9) == REPAIR_NONE) then begin
            call Set_Map_Info_9;
            set_map_var(MVAR_Repair_Request9,REPAIR_REQUEST);
@@ -770,7 +770,7 @@ procedure Replace_Ammo_Type begin
            set_map_var(MVAR_Ammo_Request_12a,Ammo_Type);
            set_map_var(MVAR_Ammo_Request_12b,Ammo_Difference);
        end
-       
+
    end
 end
 

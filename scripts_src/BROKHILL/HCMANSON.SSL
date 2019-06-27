@@ -255,7 +255,7 @@ end
 procedure talk_p_proc begin
    GetReaction;
    ReactToLevel; //added by killap
-   
+
    if (local_var(LVAR_Personal_Enemy) == 1) then begin
        call Node998;
    end

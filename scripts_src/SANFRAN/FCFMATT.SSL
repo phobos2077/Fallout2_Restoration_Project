@@ -327,7 +327,7 @@ procedure Node002 begin
    end else begin
       Reply(110);
    end
-   
+
    if ( global_var(GVAR_SAN_FRAN_BOS_QUEST) < BOS_KNOW ) then //added check by killap
       NLowOption(111, Node003a);
    NLowOption(112, Node013a);

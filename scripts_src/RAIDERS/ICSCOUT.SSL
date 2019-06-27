@@ -95,7 +95,7 @@ procedure Node892;
 
 variable wabbits;
 variable stare; //added by killap - expansion
-   
+
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -115,13 +115,13 @@ end
 procedure map_enter_p_proc begin
    //added by killap - expansion
    variable stare := 0;
-   
+
    if (raiders_dead) then
       destroy_object(self_obj);
-   
+
    if (raiders_scout_left) then
       destroy_object(self_obj);
-   //end added   
+   //end added
    wabbits := random(30, 50);
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
@@ -157,7 +157,7 @@ procedure critter_p_proc begin
    end
    //end added
    check_set_raider_party_flags;
-   
+
    if (self_can_see_dude) then begin
       if (hostile) then begin
          self_attack_dude;
@@ -324,7 +324,7 @@ end
 procedure Node006 begin
    gfade_in(600);
    Reply(450);
-   
+
    if (dude_iq > 5) then
       NOption(452, Node007, 004);
    NOption(451, Node010, 004);
@@ -353,7 +353,7 @@ end
 
 procedure Node010 begin
    Reply(490);
-   NOption(491, Node011, 004); 
+   NOption(491, Node011, 004);
 end
 
 procedure Node011 begin
@@ -423,7 +423,7 @@ end
 
 procedure Node016 begin
    Reply(640);
-   NOption(641, Node997, 004); //go to collect xp (less than before), set variable to remove raiders, and make shadow run towards ladder to disappear 
+   NOption(641, Node997, 004); //go to collect xp (less than before), set variable to remove raiders, and make shadow run towards ladder to disappear
    BOption(642, Node998, 004);
 end
 
@@ -469,7 +469,7 @@ procedure Node995 begin
    end else begin
       call Node998;
    end
-   
+
 end
 
 procedure Node020 begin
@@ -511,7 +511,7 @@ end
 
 procedure Node024 begin
    Reply(910);
-   
+
    NOption(911, Node025, 004);
    NOption(912, Node990, 004);
    NOption(913, Node991, 004);

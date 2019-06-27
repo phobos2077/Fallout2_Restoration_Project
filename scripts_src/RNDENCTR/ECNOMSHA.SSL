@@ -127,8 +127,8 @@ procedure map_enter_p_proc begin
       move_to(self_obj, 17894, 0);
    else if (cur_map_index == MAP_RND_COAST_12) then
       move_to(self_obj, 19088, 0);
-   
-   
+
+
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_NOMAD);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
 

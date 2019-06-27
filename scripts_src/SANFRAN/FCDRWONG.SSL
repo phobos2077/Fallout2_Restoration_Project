@@ -82,7 +82,7 @@ procedure Node017;
 procedure Node018;
 
 //added by killap - expansion pack
-procedure Node019; 
+procedure Node019;
 procedure Node020;
 procedure Node021;
 procedure Node022;
@@ -193,7 +193,7 @@ end
 
 procedure use_obj_on_p_proc begin
    variable Tool;
-   
+
    if (global_var(GVAR_SHI_ELIMINATE_DR_WONG) > 0) then begin
       Tool:=obj_pid(obj_being_used_with);
       if (Tool == PID_JET or Tool == PID_HYPO_POISON) then begin
@@ -260,7 +260,7 @@ procedure talk_p_proc begin
    GetReaction;
 
    ReactToLevel; //added by killap
-   
+
    if (san_fran_flag(SF_SHI_ENEMY)) then begin
       call Node016;
    end else if (dude_item(PID_VERTIBIRD_PLANS) and dude_iq >= 4 and (shi_whirly(SH_WH_ACCEPTED) or shi_whirly(SH_WH_STEALELE))) then begin
@@ -317,7 +317,7 @@ procedure destroy_p_proc begin
 
    if (spleen_flag(SP_LOST) and (game_time < (global_var(GVAR_SAN_FRAN_WONG_EAT_TIME)))) then //killap's fix: changed from local_var(LVAR_My_Eat_Time)
       set_spleen_flag(SP_FOUND);
-   
+
    //added by killap
    if (global_var(GVAR_SHI_FIND_DR_SHENG) > PLANT_QUEST_DRSHENG_KNOW) then
      set_global_var(GVAR_SHI_FIND_DR_SHENG,PLANT_QUEST_DR_WONG_INFORMED);
@@ -562,7 +562,7 @@ procedure Node018 begin
       if (global_var(GVAR_SAN_FRAN_VERTI_SHI_QST) == 1) then begin
          COMPLETE_VERTI_SHI;
       end
-      //end added 
+      //end added
    end else begin
       COMPLETE_VERTI_SHI;
    end
@@ -673,7 +673,7 @@ end
 
 procedure Node033 begin
    set_global_var(GVAR_SHI_ELIMINATE_DR_SHENG,PLANT_QUEST_KIL_DRSHENG);
-   
+
    set_local_var(LVAR_Kill_Sheng,KILL_SHENG_ACCEPT);
    Reply(410);
    if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (obj_is_carrying_obj_pid(dude_obj,PID_DR_SHENG_PLANT_SEED)) ) then begin
@@ -688,7 +688,7 @@ end
 procedure Node034 begin
    Reply(420);
    if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_RETURN_TO_DRWONG and (obj_is_carrying_obj_pid(dude_obj,PID_DR_SHENG_PLANT_SEED))) then
-      NOption(423, Node034b, 4);   
+      NOption(423, Node034b, 4);
    else
       NOption(421, Node034a, 4);
    NOption(422, Node035, 4);
@@ -739,10 +739,10 @@ procedure Node038 begin
 
    item:=create_object(PID_MINIGUN,0,0);
    add_obj_to_inven(dude_obj,item);
-   
+
    item:=create_object(PID_SNIPER_RIFLE,0,0);
    add_obj_to_inven(dude_obj,item);
-   
+
    item:=create_object(PID_HK_CAWS,0,0);
    add_obj_to_inven(dude_obj,item);
 
@@ -751,7 +751,7 @@ procedure Node038 begin
    set_global_var(GVAR_SHI_ELIMINATE_DR_SHENG,PLANT_QUEST_KILLED_DRSHENG);
 
    Reply(460);
-   
+
    if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (obj_is_carrying_obj_pid(dude_obj,PID_DR_SHENG_PLANT_SEED)) ) then begin
       if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_RETURN_TO_DRWONG_KNOW_SEED_TRUTH) then
          NOption(502, Node045, 4);
@@ -766,10 +766,10 @@ procedure Node039 begin
 
    item:=create_object(PID_STIMPAK,0,0);
    add_mult_objs_to_inven(dude_obj,item,5);
-   
+
    item:=create_object(PID_SUPER_STIMPAK,0,0);
    add_mult_objs_to_inven(dude_obj,item,3);
-   
+
    item:=create_object(PID_RADAWAY,0,0);
    add_mult_objs_to_inven(dude_obj,item,2);
 
@@ -784,17 +784,17 @@ procedure Node039 begin
 
    item:=create_object(PID_5MM_JHP,0,0);
    add_mult_objs_to_inven(dude_obj,item,2);
- 
+
    item:=create_object(PID_223_FMJ,0,0);
-   add_mult_objs_to_inven(dude_obj,item,2); 
+   add_mult_objs_to_inven(dude_obj,item,2);
 
    item:=create_object(PID_MICRO_FUSION_CELL,0,0);
-   add_mult_objs_to_inven(dude_obj,item,2); 
-   
+   add_mult_objs_to_inven(dude_obj,item,2);
+
    display_msg(mstr(600));
    give_xp(EXP_KILL_DR_SHENG_REWARD);
    set_global_var(GVAR_SHI_ELIMINATE_DR_SHENG,PLANT_QUEST_KILLED_DRSHENG);
-   
+
    Reply(470);
    if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (obj_is_carrying_obj_pid(dude_obj,PID_DR_SHENG_PLANT_SEED)) ) then begin
       if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_RETURN_TO_DRWONG_KNOW_SEED_TRUTH) then
@@ -807,12 +807,12 @@ end
 
 procedure Node040 begin
    item_caps_adjust(dude_obj, 5000);
-   
+
    display_msg(mstr(600));
    give_xp(EXP_KILL_DR_SHENG_REWARD);
-   
+
    set_global_var(GVAR_SHI_ELIMINATE_DR_SHENG,PLANT_QUEST_KILLED_DRSHENG);
-   
+
    Reply(480);
    if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (obj_is_carrying_obj_pid(dude_obj,PID_DR_SHENG_PLANT_SEED)) ) then begin
       if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_RETURN_TO_DRWONG_KNOW_SEED_TRUTH) then
@@ -828,7 +828,7 @@ procedure Node041 begin
    give_xp(EXP_KILL_DR_SHENG_NO_REWARD);
    inc_general_rep(10);
    set_global_var(TOWN_REP_VAR,(global_var(TOWN_REP_VAR)+5));
-   
+
    set_global_var(GVAR_SHI_ELIMINATE_DR_SHENG,PLANT_QUEST_KILLED_DRSHENG);
 
    Reply(490);
@@ -910,7 +910,7 @@ end
 
 procedure Node990a begin
    variable item;
-   
+
    if not(obj_is_carrying_obj_pid(dude_obj,PID_DECOMPOSING_BODY)) then begin
      call Node992;
    end else begin

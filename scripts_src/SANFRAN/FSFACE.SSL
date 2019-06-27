@@ -330,13 +330,13 @@ procedure NodeChr15 begin
    variable extra_ch := 0; //added by killap
    fadeout(500);
       game_time_advance(ONE_GAME_WEEK * 3);
-      
+
       // added by killap - expansion
       if (has_trait(TRAIT_PERK, dude_obj, PERK_dermal_enhancement_perk) or has_trait(TRAIT_PERK, dude_obj, PERK_phoenix_enhancement_perk)) then
          set_pc_extra_stat(STAT_ch, get_pc_extra_stat(STAT_ch) + 1);
       else
-         set_critter_stat(dude_obj, STAT_ch, 1); 
-         
+         set_critter_stat(dude_obj, STAT_ch, 1);
+
       //edit by killap - requires sfall functions; odd hack for one user. Not sure if others are affected, or why it happened...
       extra_ch := get_pc_extra_stat(STAT_ch);
       if (extra_ch < 0) then

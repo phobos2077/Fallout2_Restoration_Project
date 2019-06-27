@@ -134,7 +134,7 @@ variable Drink_Type := 0;
 variable Drink_Cost := 0;
 variable From_36 := 0;
 variable Tip_Type := 0;
-   
+
 procedure start begin
    Phil_Ptr := self_obj;
 end
@@ -202,7 +202,7 @@ procedure talk_p_proc begin
 
    GetReaction;
    ReactToLevel; //added by killap
-   
+
    Drink_Type := 0;
    Drink_Cost := 0;
    From_36 := 0;
@@ -641,9 +641,9 @@ end
 
 procedure Node022 begin
    Reply(198);
-   
+
    NOption(202,Node022a,004);
-   
+
    //NOption(199,Node031,004);
    //NOption(200,Node999,004);
 end
@@ -700,7 +700,7 @@ end
 procedure Node025 begin
    //added - ( ( global_var( GVAR_BH_CONSPIRACY ) != CONSPIRACY_SUCCESSFUL ) and ( global_var( GVAR_BH_FTM ) != FTM_SUCCESSFUL ) ) - killap
    if ( ( global_var(GVAR_BH_MIGHTY_MAN) < MIGHTY_MAN_WON ) and
-      ( ( global_var( GVAR_BH_CONSPIRACY ) != CONSPIRACY_SUCCESSFUL ) and 
+      ( ( global_var( GVAR_BH_CONSPIRACY ) != CONSPIRACY_SUCCESSFUL ) and
       ( global_var( GVAR_BH_FTM ) != FTM_SUCCESSFUL ) ) ) then begin
       if( global_var(GVAR_BH_MIGHTY_MAN) == 0 ) then
          set_global_var(GVAR_BH_MIGHTY_MAN, MIGHTY_MAN_KNOWN);

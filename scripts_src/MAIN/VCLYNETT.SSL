@@ -409,7 +409,7 @@ procedure talk_p_proc begin
    GetReaction;
 
    ReactToLevel; //added by killap
-      
+
    if (Fallout2_enclave_destroyed) then begin
        start_gdialog(NAME,self_obj,4,HEAD_LYNETTE,BACKGROUND_ADOBE);
        gSay_Start;
@@ -1460,7 +1460,7 @@ procedure Node056 begin
    BLowOption(385,Node053a);
    NLowOption(386,Node999);
    //added by killap
-   
+
    BOption(417,Node056a,004);
    if ((dude_speech >= 75) or (dude_charisma > 7)) then
        NOption(418,Node056b,004);
@@ -2193,7 +2193,7 @@ procedure Node107 begin
        NOption(663,Node072,004);
    else
        NOption(662,Node108,004);
-       
+
    if (local_var(LVAR_Info_Paid) == 0) then
        BOption(664,Node107a,004);
    NOption(665,Node999,004);
@@ -2289,7 +2289,7 @@ procedure Node114 begin
       rm_obj_from_inven(dude_obj, obj);
    end
    //end added
-   
+
    if (obj_is_carrying_obj_pid(dude_obj,PID_BISHOPS_HOLODISK)) then begin
    //killap code
       item_caps_adjust(dude_obj,500);
@@ -2297,7 +2297,7 @@ procedure Node114 begin
       give_xp(EXP_RENO_RAIDER_CONNECTION);
       set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_EXPOSED_BISHOP_RAIDERS ) );
       set_good_critter_reaction;
-      
+
       NOption(690,Node116,004);
    end
    //end killap code
@@ -2397,7 +2397,7 @@ procedure Node118 begin
        NOption(708,Node072,004);
    else
        NOption(707,Node108,004);
-       
+
    BOption(709,Node101,004);
    BOption(710,Node101,004);
 end

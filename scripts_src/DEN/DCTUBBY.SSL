@@ -133,11 +133,11 @@ end
 
 procedure talk_p_proc begin
    script_overrides;
-   
+
    if (local_var(LVAR_Penalty) > 0) then //added by killap
       gdialog_set_barter_mod(30);
-                                 
-                                 
+
+
    move_obj_inven_to_obj(self_obj,generic_temp_box);
    move_obj_inven_to_obj(den_tubby_box_obj,self_obj);
    GetReaction;

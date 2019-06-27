@@ -5,7 +5,7 @@
         Description: Opis
 
         Log:
-           
+
 
            Created:
 
@@ -35,14 +35,14 @@ procedure map_enter_p_proc begin
    if (map_first_run) then begin
       display_msg(mstr(100));
    end
-   
+
    Cavern_Lighting;
 end
 
 procedure map_update_p_proc begin
    Cavern_Lighting;
 end
- 
+
 procedure map_exit_p_proc begin
- 
+
 end

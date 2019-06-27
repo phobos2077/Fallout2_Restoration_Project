@@ -191,11 +191,11 @@ procedure map_enter_p_proc begin
          end
       end
    end
-   
+
    //added by killap - expansion pack
    if (global_var( GVAR_CHAD_DEAD) == 1 ) then
       destroy_object(self_obj);
-   
+
 end
 
 procedure map_update_p_proc begin
@@ -220,7 +220,7 @@ procedure map_exit_p_proc begin
           ( global_var( GVAR_BH_CARAVAN ) == CARAVAN_STATUS_ON_JOB ) ) then
          set_global_var( GVAR_BH_CARAVAN, CARAVAN_STATUS_NONE );
    end
-   
+
    //added by killap - expansion pack
    if (global_var( GVAR_BH_CHAD) == CHAD_FLED ) then
       destroy_object(self_obj);
@@ -251,11 +251,11 @@ procedure timed_event_p_proc begin
       gfade_out(600);
       set_obj_visibility( self_obj, true );
       gfade_in(600);
-      
+
       set_global_var( GVAR_BH_CHAD, CHAD_FLED );
-      
+
    end
-   
+
    else if ( fixed_param == 4) then begin
       call talk_p_proc;
    end
@@ -276,7 +276,7 @@ procedure critter_p_proc begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
-   
+
    //added by killap - expansion pack
    if ( cur_map_index == MAP_BROKEN_HILLS2 ) then begin
       if (map_var(MVAR_House_Encounter) == 1) then begin
@@ -284,7 +284,7 @@ procedure critter_p_proc begin
          add_timer_event( self_obj, game_ticks(0), 4 );
          doTalk := 1;
       end
-   
+
       if (local_var(LVAR_Safe_Attack) == 2) then begin
          max := get_critter_stat(self_obj, STAT_max_hp);
          cur := get_critter_stat(self_obj, STAT_current_hp);
@@ -607,7 +607,7 @@ end
 procedure Node017 begin
    Reply(200);
    NOption(201,Node023,004);
-   NOption(203,Node999,004); 
+   NOption(203,Node999,004);
 end
 
 procedure Node018 begin
@@ -669,7 +669,7 @@ end
 
 procedure Node026 begin
    Reply(208);
-   NOption(209,Node027,004); 
+   NOption(209,Node027,004);
 end
 
 procedure Node027 begin

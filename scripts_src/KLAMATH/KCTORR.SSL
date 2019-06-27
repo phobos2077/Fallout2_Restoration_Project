@@ -713,7 +713,7 @@ procedure Node014 begin
    GLowOption(dude_name + mstr(242), Node915);
    NLowOption(243, Node999);
    GOption(244, Node915, 004);
-   if ((global_var(GVAR_RUSTLE_ACCEPT) == 1) and (global_var(GVAR_RUSTLE_FAIL) != 1)) then   //added by killap   
+   if ((global_var(GVAR_RUSTLE_ACCEPT) == 1) and (global_var(GVAR_RUSTLE_FAIL) != 1)) then   //added by killap
       GOption(245, Node018, 004); //need to have a speech roll here...this is too easy
    NOption(246, Node999, 004); //was GOption - killap
 end
@@ -732,7 +732,7 @@ end
 
 procedure Node016 begin
    floater(random(260,277)); //edit by killap
-   
+
    /*k:=random(1,18);
    if (k == 1) then floater(260);
    else if (k == 2) then floater(261);

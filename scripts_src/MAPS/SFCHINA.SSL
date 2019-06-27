@@ -73,11 +73,11 @@ procedure map_enter_p_proc begin
       Create_Car(CAR_SAN_FRANCISCO_HEX,CAR_SAN_FRANCISCO_ELEV)
       if (tile_contains_pid_obj(CAR_SAN_FRANCISCO_HEX, CAR_SAN_FRANCISCO_ELEV, PID_DRIVABLE_CAR) != 0) then begin
          Create_Trunk(CAR_SAN_FRANCISCO_HEX,CAR_SAN_FRANCISCO_ELEV)
-      end 
-   end else 
+      end
+   end else
       Check_Create_Car(CAR_SAN_FRANCISCO_HEX, CAR_SAN_FRANCISCO_ELEV)
    //end added
-   
+
    //Check_Create_Car(CAR_SAN_FRANCISCO_HEX, CAR_SAN_FRANCISCO_ELEV)
 
    //added by killap
@@ -85,7 +85,7 @@ procedure map_enter_p_proc begin
        display_msg(mstr(100));
    end
    //end added by killap
-   
+
    Lighting;
 end
 

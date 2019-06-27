@@ -94,7 +94,7 @@ procedure critter_p_proc begin
    if ( ((san_fran_flag(SF_ELRON_ENEMY)) or (map_var(MVAR_Attack_Player) == 1)) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
        attack(dude_obj);
    end
-   
+
    else if( not( is_loading_game ) ) then begin
       if ( (map_var(MVAR_Stash_Enter) == 0) and (local_var(LVAR_Warned) == 0) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
          call talk_p_proc;

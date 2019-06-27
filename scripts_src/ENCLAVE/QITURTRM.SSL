@@ -107,7 +107,7 @@ variable current_userid := 0;  //added by killap
 #define SMITH   1
 #define MURRAY  2
 #define CURLING 3
-#define BIRD    4 
+#define BIRD    4
 //end
 
 procedure start begin
@@ -413,7 +413,7 @@ procedure Node014 begin
    if (current_userid >= SMITH) then
        CompOption(222,Node009);
    CompOption(223,Node004);
-end 
+end
 
 procedure Node015 begin
    display_msg(mstr(224));
@@ -472,7 +472,7 @@ procedure Node021a begin
    end
    else
        call Node024;
-end 
+end
 
 procedure Node022 begin
    set_global_var(GVAR_ENCLAVE_TURRET_HELP_PLAYER,1);
@@ -491,7 +491,7 @@ procedure Node022a begin
       CompOption(268,Node020a);
    else
       CompOption(268,Node020);
-end 
+end
 //end added
 
 procedure Node023 begin
@@ -532,7 +532,7 @@ end
 
 procedure Node026 begin
    Reply(251);
-   
+
    if (hacked_system) then //added by killap
       CompOption(252,Node020a);
    else
@@ -628,18 +628,18 @@ procedure Alarm_Reactive begin
        set_global_var(GVAR_ENCLAVE_TURRET_MAIN,TURRET_NORMAL);
 end
 
-//begin killap added code 
+//begin killap added code
 procedure Node030a begin
     if (Science_Skill >= 200) then begin
       call Node020a;
    end else
       call Node030;
-   hacked_system := 1;  
+   hacked_system := 1;
 end
- 
+
 procedure Node020a begin
    Reply(264 + here_before);
-   
+
    CompOption(237,Node033);
    CompOption(248,Node026);
    CompOption(234,Node004);
@@ -655,5 +655,5 @@ procedure Node033 begin
          call Node022a;
    end else
       call Node023;
-end 
+end
 //end killap added code

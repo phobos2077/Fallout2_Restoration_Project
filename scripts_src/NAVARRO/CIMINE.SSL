@@ -137,14 +137,14 @@ procedure spatial_p_proc begin
                debug_msg("Destroyed Visible Trap");
            end
            Trap:=create_object(ART_TRAP_EXPLODED,tile_num(self_obj),elevation(self_obj));
-            
+
            if ((source_obj == dude_obj) and (has_trait(TRAIT_PERK,dude_obj,PERK_light_step_perk)) and (random(0,1) == 1)) then
                debug_msg("Used Light Step.");
            else begin
                explosion( tile_num( self_obj ), elevation( self_obj ), 1 );
                critter_dmg(source_obj,random(MIN_DMG,MAX_DMG),(DMG_normal_dam BWOR DMG_BYPASS_ARMOR BWOR DMG_NOANIMATE));
            end
-           
+
            set_local_var(LVAR_Trap_Exploded,1);
            set_local_var(TRAP_LVAR,1);
 

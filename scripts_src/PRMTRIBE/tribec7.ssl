@@ -30,7 +30,7 @@ procedure Node998;
 
 
 procedure Node001;
-procedure Node002; 
+procedure Node002;
 procedure Node003;
 procedure Node004;
 procedure Node005;
@@ -217,9 +217,9 @@ procedure map_enter_p_proc begin
    SULIK_SIS_obj := self_obj;
    if (global_var(GVAR_SULIK_SISTER) > 2) then
       add_timer_event(self_obj,random(20,30),3);
-      
+
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PRIMITIVE_TRIBE);
-   
+
    if (cur_town == AREA_SLAVER_CAMP) then begin
       if (local_var(LVAR_Freed)) then begin
          destroy_object(self_obj);
@@ -251,8 +251,8 @@ end
 procedure talk_p_proc begin
    if (local_var(LVAR_Herebefore) == 0) then
       set_local_var(LVAR_Herebefore,1);
-    
-    //tmp  
+
+    //tmp
    if (global_var(GVAR_SULIK_SISTER) == 0 ) then
       set_global_var(GVAR_SULIK_SISTER,1);
 
@@ -266,7 +266,7 @@ procedure talk_p_proc begin
       //start_gdialog(NAME,self_obj,4,HEAD_SULIK_SIS,BACKGROUND1);
       //start_gdialog(NAME,self_obj,4,-1,-1);
        //start_gdialog(NAME,self_obj,4,HEAD_SULIK_SIS,BACKGROUND_TENT);
-      //start_gdialog(NAME,self_obj,4,HEAD_SULIK_SIS,BACKGROUND_WASTELAND); 
+      //start_gdialog(NAME,self_obj,4,HEAD_SULIK_SIS,BACKGROUND_WASTELAND);
       gSay_Start;
          if (map_var(MVAR_Slaver_Count) == 0) then begin
             if (Sulik_In_Party) then
@@ -329,7 +329,7 @@ end
 
 procedure critter_p_proc begin
    variable tile;
-   
+
    if (global_var(GVAR_SULIK_SISTER) == 3) then begin
       set_global_var(GVAR_SULIK_SISTER,4);
       add_timer_event(self_obj,5,2);
@@ -374,7 +374,7 @@ procedure Node002 begin
    set_global_var(GVAR_FIND_SULIK,2);
    display_msg(mstr(1000));
    give_xp(500);
-   
+
 end
 
 procedure Node003 begin
@@ -382,7 +382,7 @@ procedure Node003 begin
    if (obj_is_carrying_obj_pid(dude_obj, PID_KEYS) >= 1) then begin
       NOption(206,Node004,004);
       NLowOption(920,Node004);
-   end else begin 
+   end else begin
       NOption(205,Node091,004);
       NLowOption(921,Node091);
    end
@@ -402,7 +402,7 @@ procedure Node006 begin
    Reply(210);
    NOption(211,Node093,004);
    NLowOption(940,Node093);
-   
+
    if ( (Sulik_In_Party) and (map_var(MVAR_Slaver_Count) != 0) ) then begin
       NOption(212,Node094,004);
       NLowOption(941,Node094);
@@ -413,7 +413,7 @@ procedure Node004 begin
    Reply(213);
    NOption(209,Node090,004);
    NLowOption(930,Node090);
-   
+
    if ( (map_var(MVAR_Slaves_Flee) < 1) and (map_var(MVAR_Slaver_Count) > 0)) then
       NOption(410,Node090a,004); //edit
 end
@@ -424,7 +424,7 @@ end
 
 procedure Node090a begin
    add_timer_event(CELLDOOR_obj,1,UNLOCK_DOOR);
-   call Node092a; 
+   call Node092a;
 end
 
 procedure Node092 begin
@@ -436,7 +436,7 @@ procedure Node092 begin
    set_map_var(MVAR_Attack_Slavers,1);
    //set_map_var(MVAR_Guide_Sister,1);
    call Node096;
-   
+
 end
 
 procedure Node092a begin
@@ -474,10 +474,10 @@ end
 
 procedure Node097 begin
    set_local_var(LVAR_Freed,1);
-   
+
    if (obj_is_locked(CELLDOOR_obj)) then
       obj_unlock(CELLDOOR_obj); //door unlocked
-   
+
    if (dude_has_car) then
       game_time_advance(ONE_GAME_DAY);
    else
@@ -511,7 +511,7 @@ procedure Node007 begin
    Reply(500);
    NOption("" + mstr(502) + dude_name + mstr(503),Node008,004);
    NOption(501,Node008,004);
-   
+
    NLowOption("" + mstr(951) + dude_name + mstr(952),Node008);
    NLowOption(950,Node008);
 end
@@ -525,7 +525,7 @@ procedure Node008 begin
       NOption(512,Node091,004);
       NLowOption(921,Node091);
    end
-      
+
 end
 
 procedure Node009 begin
@@ -559,7 +559,7 @@ procedure Node012 begin
    Reply(218);
    NOption("" + mstr(502) + dude_name + mstr(503),Node008,004);
    NOption(501,Node008,004);
-   
+
    NLowOption("" + mstr(951) + dude_name + mstr(952),Node008);
    NLowOption(950,Node008);
 end
@@ -579,12 +579,12 @@ end
 
 procedure Node016 begin
    set_local_var(LVAR_Freed,1);
-   
+
    if (dude_has_car) then
       game_time_advance(ONE_GAME_DAY);
    else
       game_time_advance(ONE_GAME_DAY*3);
-      
+
    load_map( MAP_PRIMITIVE_TRIBE1, 900 );
 end
 
@@ -653,7 +653,7 @@ end
 
 procedure Node026 begin
    Reply(530);
-   
+
    if (map_var(MVAR_Slaver_Count) == 0) then begin
       NOption(531,Node097,004);
       NOption(532,Node999,004);
@@ -671,7 +671,7 @@ end
 
 procedure Node028 begin
    Reply(530);
-   
+
    if (map_var(MVAR_Slaver_Count) == 0) then begin
       NOption(531,Node011,004);
       NOption(532,Node999,004);
@@ -707,12 +707,12 @@ end
 
 procedure Node091 begin
    variable modifier;
-   
+
    if (obj_is_carrying_obj_pid(dude_obj, PID_LOCKPICKS) >= 1) then
       modifier := 20;
    if (obj_is_carrying_obj_pid(dude_obj, PID_EXP_LOCKPICK_SET) >= 1) then
       modifier := 40;
-   
+
    if (is_success(roll_vs_skill(dude_obj, SKILL_LOCKPICK, (-40 + modifier)))) then
       call Node005;
    else

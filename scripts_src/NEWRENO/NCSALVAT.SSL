@@ -233,7 +233,7 @@ procedure talk_p_proc begin
    /* Begin killap comment out
       end else if (salvatore_done) then begin
          call Node041;
-   End killap comment out*/ 
+   End killap comment out*/
       end else if ((salvatore_permission == false) or (get_tribute(tribute_failed)) or (get_guard_assignment(guard_assignment_failed))) then begin //moved by killap
          start_dialog_at_node(Node003); //moved by killap
       end else begin
@@ -465,7 +465,7 @@ procedure Node004 begin
    NOption(231, Node003, -003); //edit by killap - was Node005
    NOption(232, Node003, -003); //edit by killap - was Node005
    NOption(mstr(233) + dude_name + mstr(5233), Node003, -003); //edit by killap - was Node005
-   NOption(234, Node999, -003); 
+   NOption(234, Node999, -003);
    if ((dude_charisma > 5) or (dude_iq > 7)) then begin
       if (local_var(LVAR_Player_Said_Have_Info) == 0) then // added by killap
         GOption(236, Node994, 004);

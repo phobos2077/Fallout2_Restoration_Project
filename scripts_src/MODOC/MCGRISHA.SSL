@@ -169,20 +169,20 @@ procedure map_enter_p_proc begin
    //end added by killap
 
    reg_anim_clear(dude_obj); //added by killap
-   
+
    match_dude_elevation;
-   
+
    //added by killap
    //if (grisham_dead) then begin
    //   if (cur_map_index == MAP_GHOST_FARM) then begin
    //      check_set_obj_visiblility(self_obj, true);
    //      destroy_object(self_obj);
-   //   end                     
+   //   end
    //end else begin
       check_show_ghost_farm_attackers
    //end
    //end added by killap
-   
+
    if (map_first_run) then begin
       set_local_var(LVAR_Home_Tile, self_tile);
       if (cur_map_index != MAP_GHOST_FARM) then begin
@@ -439,7 +439,7 @@ variable temp_dog;
       arm_obj(self_obj, PID_SHOTGUN, 1, 0, 0) //added by killap
       //set_drew_gun; --comment out by killap - did nothing and everytime you enter dialog, you must rearm, so making note of being armed is meaningless
    end
-   //end added  
+   //end added
 end
 
 procedure destroy_p_proc begin
@@ -585,13 +585,13 @@ end
 procedure Node002 begin
    item_caps_adjust(dude_obj, brahmin_seed_reward);
    set_brahmin_seed_inactive;
-   
+
    //moved out of the 'if' statement below to allow both cases (no brahmin killed/some brahmin killed) to get the rewards- killap
    inc_global_var_amt(GVAR_TOWN_REP_MODOC,REP_TOWN_FINISH_BRAHMIN_SEED); // Seraph's Fix: changed 'inc_global_var' to 'inc_global_var_amt'. Thanks Rob!
    display_mstr(800);
    give_xp(EXP_FINISH_BRAHMIN_SEED);
    //end move out of 'if' statement
-   
+
    if (brahmin_killed > 0) then begin
 //      inc_global_var_amt(GVAR_TOWN_REP_MODOC,REP_TOWN_FINISH_BRAHMIN_SEED); // Seraph's Fix: changed 'inc_global_var' to 'inc_global_var_amt'. Thanks Rob!
 //      display_mstr(800);

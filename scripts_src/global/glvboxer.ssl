@@ -1,8 +1,8 @@
 procedure start;
 
-#include "..\headers\scripts.h" 
-#include "..\headers\define.h" 
-#include "..\headers\command.h" 
+#include "..\headers\scripts.h"
+#include "..\headers\define.h"
+#include "..\headers\command.h"
 
 variable appearance_mod_enabled := 1;
 variable armor;
@@ -27,7 +27,7 @@ procedure start begin
                   end else begin
                      armor := obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_LONG_HAIR);
                   end
-                  wield_obj_critter(dude_obj, armor);          
+                  wield_obj_critter(dude_obj, armor);
                end
                vault_boxer_fid := FID_HMBOXL;
             end else if (appearance_style == BALD_HAIR) then begin
@@ -36,9 +36,9 @@ procedure start begin
                      armor := create_object(PID_VAULT_BOXER_MALE_BALD,0,0);
                      add_obj_to_inven(dude_obj,armor);
                   end else begin
-                     armor := obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_BALD);           
+                     armor := obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_BALD);
                   end
-                  wield_obj_critter(dude_obj, armor);          
+                  wield_obj_critter(dude_obj, armor);
                end
                vault_boxer_fid := FID_HMBOXB;
             end else if (appearance_style == REG_HAIR) then begin
@@ -47,9 +47,9 @@ procedure start begin
                      armor := create_object(PID_VAULT_BOXER_MALE_NORMAL,0,0);
                      add_obj_to_inven(dude_obj,armor);
                   end else begin
-                     armor := obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_NORMAL);              
+                     armor := obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_NORMAL);
                   end
-                  wield_obj_critter(dude_obj, armor);    
+                  wield_obj_critter(dude_obj, armor);
                end
                vault_boxer_fid := FID_HMBOXS;
             end

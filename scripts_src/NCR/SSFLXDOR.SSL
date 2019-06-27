@@ -211,14 +211,14 @@ procedure use_p_proc begin
    else if (obj_is_locked(self_obj) or map_var(MVAR_FlxDor_Open) == 0) then begin
        script_overrides;
        display_msg(mstr(203));
-       
+
        //added by killap
        if (i_felix_obj != -1) then begin
           if (obj_can_see_obj(i_felix_obj, dude_obj)) then begin
              POSTGLOBALTIMER(i_felix_obj, NCR_TIMER_PLAYER_WARN);
           end
-       end 
-      //end added 
+       end
+      //end added
    end
 
    if (CLOSE_STATUS == STATE_DOOR_CLOSE) then begin

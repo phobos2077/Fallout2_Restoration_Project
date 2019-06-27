@@ -100,7 +100,7 @@ procedure description_p_proc begin
    display_msg(mstr(101));
 end
 
- 
+
 procedure use_p_proc
 begin
    if ((obj_is_visible_flag(PENGUARD_obj))) then begin
@@ -128,7 +128,7 @@ end
 
 procedure map_enter_p_proc begin
    CELLDOOR2_obj := self_obj;
-   
+
    if (map_first_run) then
       set_local_var(LVAR_Locked,STATE_ACTIVE);
 
@@ -139,7 +139,7 @@ procedure map_enter_p_proc begin
    else begin
        obj_unlock(self_obj);
    end
-   
+
 end
 
 procedure map_update_p_proc begin
@@ -159,7 +159,7 @@ procedure use_skill_on_p_proc begin
        else begin
            call Set_Lock;
        end
-   end    
+   end
 end
 
 
@@ -168,20 +168,20 @@ procedure use_obj_on_p_proc begin
    variable Tool;
 
    Tool:=obj_pid(obj_being_used_with);
- 
-   
+
+
    if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin
        if (Tool == PID_KEYS) then begin
            if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
             script_overrides;
             set_local_var(LVAR_Locked, STATE_INACTIVE);              // Door is unlocked
-            obj_unlock(self_obj);                                      // engine unlock door                              
+            obj_unlock(self_obj);                                      // engine unlock door
             display_msg(mstr(102));
            end else begin
             script_overrides;
             set_local_var(LVAR_Locked, STATE_ACTIVE);
             obj_lock(self_obj);
-            display_msg(mstr(103));    
+            display_msg(mstr(103));
            end
        end
        else if (Tool == PID_LOCKPICKS) then begin
@@ -205,7 +205,7 @@ procedure use_obj_on_p_proc begin
        end
        //end added by killap
    end
-   
+
 end
 
 

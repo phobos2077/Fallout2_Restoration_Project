@@ -294,7 +294,7 @@ procedure Node001 begin
        Reply(109);
 
    set_local_var(LVAR_Said_1,1);
-          
+
    NLowOption(110,Node002);
    NOption(111,Node020,004);
    if (not(dude_found_geck)) then
@@ -304,12 +304,12 @@ procedure Node001 begin
    NOption(115,Node011,006);
    if (global_var(GVAR_REDDING_WHORE_CUT) == WHORE_CUT_CUT) then
        NOption(116,Node014,004);
-   
+
    // Begin Seraph's Code - expansion
    if ( (not(fannie_cured)) and (obj_is_carrying_obj_pid(dude_obj,PID_JET_ANTIDOTE)) and (map_var(MVAR_Fannie_Mae) == FANNIE_MONEY_GIVEN) ) then
       GOption(310,Node030,004);
    // End Seraph's Code
-       
+
    NOption(301,Node999,004); //added by killap
 end
 
@@ -367,7 +367,7 @@ procedure Node004a begin
    gfade_out(600);
    move_to(dude_obj,12901,elevation(self_obj));
    gfade_in(600);
-   //added by killap   
+   //added by killap
 end
 
 procedure Node005 begin
@@ -559,7 +559,7 @@ procedure Node022a begin
    gfade_out(600);
    move_to(dude_obj,12901,elevation(self_obj));
    gfade_in(600);
-   //added by killap   
+   //added by killap
 end
 
 procedure Node023 begin
@@ -644,7 +644,7 @@ end
 
 procedure Node031 begin
    variable item; //added by killap
-   
+
    set_fannie(FANNIE_CURED_LOU);
    item:=obj_carrying_pid_obj(dude_obj, PID_JET_ANTIDOTE); //added by killap
    rm_obj_from_inven(dude_obj,obj_carrying_pid_obj(dude_obj,PID_JET_ANTIDOTE));

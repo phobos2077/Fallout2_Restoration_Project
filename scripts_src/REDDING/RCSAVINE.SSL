@@ -509,7 +509,7 @@ end
 
 procedure Node005 begin
    set_local_var(LVAR_No_More_Caravans,1);   //killap
-   
+
    if (local_var(LVAR_Said_5) == 0) then begin
        inc_local_var(LVAR_Said_5);
        floater(120);

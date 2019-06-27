@@ -146,7 +146,7 @@ procedure talk_p_proc begin
 
    //else if (global_var(GVAR_SIERRA_LOCKOUT) == 1) then begin
    //edit by killap
-   else if ((global_var(GVAR_SIERRA_LOCKOUT) == 2) or (global_var(GVAR_SIERRA_LOCKOUT) == 3)) then begin 
+   else if ((global_var(GVAR_SIERRA_LOCKOUT) == 2) or (global_var(GVAR_SIERRA_LOCKOUT) == 3)) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
            call Node003;
@@ -264,7 +264,7 @@ procedure Node002 begin
    variable more_than_one;
    variable security_breach;
    variable extra_spaces := "";  //added by killap
-   
+
    if (local_var(LVAR_Last_Used) == 0) then begin
        set_local_var(LVAR_Last_Used,GAME_TIME_IN_DAYS);
        date:=305;               // message_str number
@@ -320,7 +320,7 @@ procedure Node002 begin
    else
        Reply(mstr(113)+mstr(who)+mstr(301)+date+mstr(306)+mstr(114));*/
 
-   //edit by killap      
+   //edit by killap
    if (days_ago == 0) then begin
       if (security_breach) then begin
          if (more_than_one) then
@@ -414,7 +414,7 @@ end
 procedure Node015 begin
    //set_global_var(GVAR_SIERRA_LOCKOUT,1);
    set_global_var(GVAR_SIERRA_LOCKOUT,global_var(GVAR_SIERRA_LOCKOUT)+2); //edit by killap
-   
+
    Reply(142);
 
    NOption(143,Node999,004);
@@ -423,7 +423,7 @@ end
 procedure Node016 begin
    //set_global_var(GVAR_SIERRA_LOCKOUT,1);
    set_global_var(GVAR_SIERRA_LOCKOUT,global_var(GVAR_SIERRA_LOCKOUT)+2); //edit by killap
-   
+
    Reply(144);
 
    NOption(145,Node999,004);

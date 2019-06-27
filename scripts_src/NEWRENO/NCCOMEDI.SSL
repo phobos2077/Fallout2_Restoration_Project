@@ -191,13 +191,13 @@ end
 
 procedure map_enter_p_proc begin
    comedian_obj := self_obj; // added by killap - expansion
-   
+
    /*// added by killap - expansion
    self_family_var := family_bishop;
-   
+
    if (self_family == family_bishop and bishop_dead and warned_attack) then begin
       destroy_object(self_obj);
-      return;   
+      return;
    end
    // end added*/
 

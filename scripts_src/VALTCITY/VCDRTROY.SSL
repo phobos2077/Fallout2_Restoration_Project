@@ -820,7 +820,7 @@ procedure Node029 begin
    set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_GAVE_TROY_FORMULA ) );
    inc_general_rep( REP_BONUS_GAVE_TROY_FORMULA );
    //set_jet_source(jet_source_cure_made);   //added by killap
-   
+
    From_29:=1;
 
    if (global_var(GVAR_VAULT_JET_QUEST) > 0) then
@@ -1193,7 +1193,7 @@ procedure Node055 begin
         gfade_out(600);
         gfade_in(600);
     end
-   
+
    set_global_var(GVAR_NEW_RENO_JET_SOURCE,JET_SOURCE_CURE_MADE); //added by killap
    set_global_var(GVAR_VAULT_JET_QUEST,JET_ANTIDOTE_FOUND);
 
@@ -1447,7 +1447,7 @@ procedure Node062 begin
       end
    end
    //end added
-   
+
    if ( (dude_cur_hits < dude_max_hits) or ( dude_is_crippled ) ) then //added ( dude_is_crippled ) - killap
        NOption(363,Node064,004);
    if (dude_is_poisoned) then

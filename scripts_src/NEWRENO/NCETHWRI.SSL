@@ -179,7 +179,7 @@ procedure map_enter_p_proc begin
          end
       end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
          move_to(self_obj,local_var(LVAR_Home_Tile),self_elevation);
-      end      
+      end
       //end added
       if (belongs_here) then begin
          check_set_obj_visiblility(self_obj, false);

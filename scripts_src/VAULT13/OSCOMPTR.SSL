@@ -120,7 +120,7 @@ procedure Node902;
  #define LVAR_Gave_V13_Info_XP          (2)  //added by killap - RP
  #define LVAR_Gave_VExperiments_Info_XP (3)  //added by killap - RP
  #define LVAR_Hack_Attempts             (4)  //added by killap - RP
- 
+
 variable begin
    doSequence := 0;
    sequenceCount := 0;
@@ -135,7 +135,7 @@ variable begin
    g4;
    g5;
    gruth;
-   
+
    came_from :=0; //added by killap - expansion pack
 end
 
@@ -182,11 +182,11 @@ procedure look_at_p_proc begin
       display_msg(mstr(100));
    else
       display_msg(mstr(101));
-      
+
    /*critter_mod_skill(dude_obj, SKILL_SCIENCE, 100);
    item:=create_object(PID_COMPUTER_VOICE_MODULE,0,0);
    add_obj_to_inven(dude_obj, item);*/
-   
+
 end
 
 
@@ -370,9 +370,9 @@ procedure Node009 begin
       NOption(201, Node010, 4);
    NOption(202, Node011, 4);
    NOption(203, Node012, 4);
-   
+
    NLowOption(206,Node009a);
-      
+
    if ( not(local_var(LVAR_Did_Seq)) and (VAULT13_SEQ) )then
       NOption(204, Node008, 1);
    NOption(205, Node999, 1);
@@ -582,7 +582,7 @@ procedure Node037 begin
    Reply(338);
    NOption(339, Node902, 1);
    NOption(340, Node999, 1);
-   
+
    if (local_var(LVAR_Gave_V13_Info_XP) == 0) then begin
       set_local_var(LVAR_Gave_V13_Info_XP,1);
       give_xp(800);
@@ -643,7 +643,7 @@ end
 procedure Node046 begin
    Reply(374);
    NOption(375, Node999, 1);
-   
+
    if (local_var(LVAR_Gave_VExperiments_Info_XP) == 0) then begin
       set_local_var(LVAR_Gave_VExperiments_Info_XP,1);
       set_global_var(GVAR_VAULT_EXPERIMENTS,2);

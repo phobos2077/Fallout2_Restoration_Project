@@ -5,7 +5,7 @@
         Description: Opis
 
         Log:
-           
+
 
            Created:
 
@@ -44,12 +44,12 @@ procedure map_enter_p_proc
 begin
    if (map_first_run) then
       display_msg(mstr(100));
-      
+
    if (dude_elevation == 0) then
       Lighting;
    else
       Basement_Lighting;
-      
+
    Check_Create_Car(HUBOLOGIST_STASH_HEX, 0)
 end
 
@@ -60,8 +60,8 @@ begin
    else
       Basement_Lighting;
 end
- 
+
 procedure map_exit_p_proc
 begin
- 
+
 end

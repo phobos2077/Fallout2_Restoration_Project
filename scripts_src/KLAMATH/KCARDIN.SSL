@@ -119,13 +119,13 @@ procedure Node054;
 procedure Node055;
 //added by killap - expansion pack
 procedure Node032;
-procedure Node033; 
+procedure Node033;
 procedure Node034;
 procedure Node035;
 
 procedure Node033a;
 procedure Node007a;
-procedure Node999a;   
+procedure Node999a;
 
 //end added
 
@@ -262,7 +262,7 @@ procedure talk_p_proc begin
       end else begin
          call Node007;
       end
-      
+
       set_local_var(LVAR_05_before,1); //so Ardin will not introduce herself if you have already spoken to her
       gSay_End;
       end_dialogue;
@@ -468,9 +468,9 @@ procedure Node005 begin
    else begin
       Reply(510);
    end
-   
+
    GLowOption(2000,Node008); //added by killap - RP
-   
+
    GOption(151,Node008,004);
    NOption(152,Node007,004);
    NOption(153,Node999,004);
@@ -642,7 +642,7 @@ end
 procedure Node023 begin
    Reply(330);
    NOption(331,Node024,004); //edit by killap - was 001, which is again more evidence that this was to be open for dumb characters.
-   
+
    GLowOption(2002,Node024); //added by killap - RP
 end
 
@@ -651,7 +651,7 @@ procedure Node024 begin
    GOption(341,Node025,004);
    NOption(342,Node007,004);
    BOption(343,Node999,004);
-   
+
    GLowOption(2003,Node025); //added by killap - RP
    GLowOption(2004,Node999); //added by killap - RP
 end
@@ -664,9 +664,9 @@ mark_area_known(MARK_TYPE_TOWN, AREA_KLAMATH_TOXIC_CAVES, MARK_STATE_KNOWN);
       Reply(2005); //added by killap - RP
    GOption(351,Node960,004);
    GOption(352,Node970,004);
-   
+
    GLowOption(2006,Node970); //added by killap - RP
-   
+
    //BOption(353,Node999,004); - comment out by killap
 end
 
@@ -686,7 +686,7 @@ procedure Node027 begin
    NLowOption(374,Node999);
    NOption(375,Node007,004);
    NOption(376,Node999,004);
-   
+
    //added by killap - 3 == dead
    set_local_var(LVAR_quest_torr,3);
    if (global_var(GVAR_QUEST_RESCUE_TORR) == TORR_RESCUE_ACCEPT) then
@@ -722,16 +722,16 @@ procedure Node031 begin
    KC_REP_ADJUST(4)
    give_xp(50);
    //end added by killap
-   
+
    Reply(420);
       NOption(421,Node007,004);
       NOption(422,Node999,004);
       //NOption(422,Node999,004);*/
-   
+
    set_local_var(LVAR_Discovered_Rustlers,1);
-      
+
    Reply(417);
-   
+
    if (global_var(GVAR_SCARE_DUNTONS) == 1) then
       NOption(418,Node033,004);
    else
@@ -771,22 +771,22 @@ procedure Node035 begin
    display_msg(mstr(1000));
    //give_xp(300);
    set_global_var(GVAR_KLAMATH_FIND_RUSTLERS,FIND_RUSTLERS_SUCCESS);
-   
+
    if (obj_is_carrying_obj_pid(dude_obj, PID_RADSCORPION_PARTS ) > 0) then begin
       item:=obj_carrying_pid_obj(dude_obj, PID_RADSCORPION_PARTS);
       rm_obj_from_inven(dude_obj,item);
       destroy_object(item);
    end
-   
+
    if (global_var(GVAR_DUNTON_DEAD)) then begin
       Reply(425);
-           
+
       NOption(1010,Node033a,004);
       NOption(426,Node007a,004);
       NOption(428,Node999a,004);
    end else begin
       Reply(424);
-      
+
       NOption(1010,Node033a,004);
       NOption(426,Node007a,004);
       NOption(427,Node999a,004);

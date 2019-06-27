@@ -114,7 +114,7 @@ procedure critter_p_proc begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    //added by killap - expansion
-   
+
    if( cur_map_index != MAP_BH_RND_DESERT ) then begin
       end else if ( not(local_var(LVAR_Hostile) == 2) and not(combat_is_initialized) and not(rnd_enc_flag(HOMESTEAD_REWARDED)) ) then begin
          if (not combat_is_initialized) then begin
@@ -155,7 +155,7 @@ end
 procedure talk_p_proc begin
    //call Node001 on some save condition
    //call Node002 after rewarding the save condition
-   
+
    //added by killap - expansion
    if( cur_map_index == MAP_BH_RND_DESERT ) then begin
       call Node009;
@@ -187,7 +187,7 @@ procedure destroy_p_proc begin
 
 /* Increment the aligned critter counter*/
    inc_good_critter
-   
+
    if not(rnd_enc_flag(HOMESTEAD_FAIL)) then
       set_rnd_enc_flag(HOMESTEAD_FAIL);
 

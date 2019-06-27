@@ -197,7 +197,7 @@ end
 procedure talk_p_proc begin
    GetReaction;
    ReactToLevel; //added by killap
-   
+
    From_WTG := 1;
    From_5 := 0;
    Barter_Count := 0;
@@ -522,7 +522,7 @@ procedure Node022 begin
    if( From_WTG == 1 ) then begin
       From_WTG := 0;
       if( ( global_var( GVAR_BH_JAIL ) == JAIL_DOUBLECROSS ) or
-          /*( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_BROKEN_HERO )or*/ 
+          /*( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_BROKEN_HERO )or*/
           ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_BROKEN_DOUBLECROSS ) ) then
          Reply(165);
       else if( good_critter_reaction ) then

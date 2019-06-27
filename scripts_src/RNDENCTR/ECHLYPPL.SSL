@@ -112,7 +112,7 @@ procedure critter_p_proc begin
 
 //   if (local_var(LVAR_Hostile) == 2 and obj_can_see_obj(self_obj,dude_obj)) then begin
 //      set_local_var(LVAR_Hostile, 1);
-      
+
    if ( obj_can_see_obj(self_obj,dude_obj) ) then //added by killap
       attack(dude_obj);
 //   end

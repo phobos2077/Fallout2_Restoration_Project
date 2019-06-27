@@ -109,7 +109,7 @@ begin
   if (global_var(GVAR_EPADOOR_LOCK) == 2) then
     giq_option(4, NAME, 205, Node003a, 50);
   giq_option(4, NAME, 206, Node999, 50);
-  
+
   if (global_var(GVAR_EPADOOR_LOCK) == 0) then
    set_global_var(GVAR_EPADOOR_LOCK, 1);
 end
@@ -118,10 +118,10 @@ procedure Node002
 begin
   gsay_reply(NAME, 300);
   giq_option(4, NAME, 301, Node002a, 50);
-  
+
   if (global_var(GVAR_EPADOOR_LOCK) == 0) then
    set_global_var(GVAR_EPADOOR_LOCK, 1);
-   
+
   debug_msg("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
   if (local_var(LVAR_Herebefore) == 0) then
     set_local_var(LVAR_Herebefore, 2);

@@ -108,12 +108,12 @@ procedure timed_event_p_proc begin
                anim_move_to_point_rate(22847, 3)
             end
             rm_fixed_timer_event(self_obj, fixed_param);
-            add_timer_event(self_obj, game_ticks(1), 1); 
+            add_timer_event(self_obj, game_ticks(1), 1);
       end else if ( (global_var(GVAR_ABBEY_GRAVES) == 3) ) then begin
          if (self_tile != 26271) then begin
             anim_move_to_point_rate(26271, 3)
             rm_fixed_timer_event(self_obj, fixed_param);
-            add_timer_event(self_obj, game_ticks(1), 1); 
+            add_timer_event(self_obj, game_ticks(1), 1);
          end else begin
             rm_fixed_timer_event(self_obj, fixed_param);
             set_local_var(LVAR_Peterson_Talked,1);
@@ -139,7 +139,7 @@ procedure timed_event_p_proc begin
             tile := 24870;
          else if (tmp == 4) then
             tile := 24864;
-         else if (tmp == 5) then 
+         else if (tmp == 5) then
             tile := 22860;
          if (anim_busy(self_obj) == false) then begin
             reg_anim_clear(self_obj);
@@ -149,7 +149,7 @@ procedure timed_event_p_proc begin
          end
          rm_fixed_timer_event(self_obj, fixed_param);
          add_timer_event(self_obj, game_ticks(10), 2);
-      end 
+      end
    end else if (fixed_param == 3) then begin //move to grave yard
       debug_msg("param == 3");
       if (self_tile != 19259) then begin
@@ -202,13 +202,13 @@ procedure critter_p_proc begin
          set_obj_visibility(self_obj, 1); //invisible
       end
    end
-   
+
    if not(self_visible) then begin
       if (self_tile != 22847) then begin
          set_obj_visibility(self_obj, 0); //visible
       end
    end
-         
+
    if (hostile and self_can_see_dude) then begin
       self_attack_dude;
    end else if (local_var(LVAR_Flee) == 1 ) then begin
@@ -277,11 +277,11 @@ procedure map_enter_p_proc begin
      move_to(self_obj, 22847, self_elevation);
      set_obj_visibility(self_obj, 1); //invisible
    end
-   
+
    if ( (global_var(GVAR_ABBEY_GRAVES) == 3) and (local_var(LVAR_Peterson_Talked) == 1) ) then
       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ABBEY);
-      
-   add_timer_event(self_obj, game_ticks(1), 1);  
+
+   add_timer_event(self_obj, game_ticks(1), 1);
 end
 
 procedure map_exit_p_proc begin
@@ -334,7 +334,7 @@ procedure Node002 begin
    BOption(203,Node003,4);
    NOption(204,Node003,4);
    NOption(206,Node999,4);
-   
+
    set_local_var(LVAR_Herebefore,1);
 end
 
@@ -419,7 +419,7 @@ procedure Node991 begin
    reg_anim_clear(self_obj);
    set_global_var(GVAR_ABBEY_GRAVES,3);
    display_msg(mstr(1000));
-   give_xp(1000);   
+   give_xp(1000);
    inc_general_rep(5);
    inc_global_var_amt(GVAR_TOWN_REP_ABBEY,10);
 end

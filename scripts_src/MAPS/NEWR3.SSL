@@ -46,7 +46,7 @@ end
 
 procedure map_enter_p_proc begin
    set_map_exit_tiles(21047, 0);
-   
+
    //added by killap
    override_map_start_hex(29495,0,5);
    //end added

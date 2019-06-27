@@ -73,7 +73,7 @@ end
 procedure map_enter_p_proc begin
    variable Time_Restocked;
    set_sad_done;
-   
+
    bot_rebuild_count :=0;
 
    //added by killap - expansion
@@ -124,7 +124,7 @@ procedure map_update_p_proc begin
       set_map_var(MVAR_Robot_Activation,1);
    end
    //end added
-   
+
    if (global_var(GVAR_SIERRA_BASE_POWER) == 1) then begin              // Power Off
        set_light_level(40);
    end
@@ -177,7 +177,7 @@ procedure CountDown begin
    level_three:=TIMER_LEVEL_2-total_time;
    level_two:=TIMER_LEVEL_3-total_time;
    level_one:=TIMER_LEVEL_4-total_time;*/
-   
+
    //edit by killap
    level_four:=TIMER_LEVEL_1-total_time;
    level_three:=TIMER_LEVEL_1-total_time;
@@ -308,7 +308,7 @@ procedure Rebuild_Robobrains begin
    //variable Critter_Hex:=0;
    variable Bot;
    variable item;
-   
+
    debug_msg("Restock Robobrains: Level 1 == "+map_var(MVAR_Level1_Robobrain)+". Level 2 == "+map_var(MVAR_Level2_Robobrain)+". Level 3 == "+map_var(MVAR_Level3_Robobrain)+".");
 
    while (map_var(MVAR_Level1_Robobrain) > 0) do begin
@@ -347,7 +347,7 @@ procedure Rebuild_Robobrains begin
        critter_attempt_placement(Bot,map_var(MVAR_Last_Spot_1),1);
        bot_rebuild_count+=1;
        item:=create_object(PID_MOTOR,0,0);
-       add_obj_to_inven(Bot,item);       
+       add_obj_to_inven(Bot,item);
    end
 
    if (map_var(MVAR_Level2_Robobrain) > 0) then begin

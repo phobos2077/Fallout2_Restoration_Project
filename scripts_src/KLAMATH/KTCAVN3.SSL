@@ -31,11 +31,11 @@ procedure map_enter_p_proc begin
    if ( (map_var(MVAR_CVN1)) or (map_var(MVAR_CVN2)) or (map_var(MVAR_CVN3)) or (map_var(MVAR_CVN4)) ) then begin
       call force_destroy_support;
    end
-end 
+end
 
 procedure map_update_p_proc begin
    support_beam_3 := self_obj;
-end 
+end
 
 procedure damage_p_proc begin
  if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
@@ -45,7 +45,7 @@ procedure damage_p_proc begin
        rubble:=create_object(33554839,26507,elevation(self_obj));
        rubble:=create_object(33554839,27108,elevation(self_obj));
        rubble:=create_object(33554513,23104,elevation(self_obj));
-       
+
        blocker:=create_object(PID_BLOCKING_HEX,24901,elevation(self_obj));
        blocker:=create_object(PID_BLOCKING_HEX,24902,elevation(self_obj));
        blocker:=create_object(PID_BLOCKING_HEX,25103,elevation(self_obj));
@@ -55,11 +55,11 @@ procedure damage_p_proc begin
        blocker:=create_object(PID_BLOCKING_HEX,27313,elevation(self_obj));
        blocker:=create_object(PID_BLOCKING_HEX,27513,elevation(self_obj));
        blocker:=create_object(PID_BLOCKING_HEX,27713,elevation(self_obj));
-       
+
        set_map_var(MVAR_CVN3,1);
        display_msg(message_str(SCRIPT_KLARATCV, 101));
        float_msg(dude_obj, message_str(SCRIPT_KLARATCV,104), FLOAT_COLOR_NORMAL);
-              
+
        if ( ((map_var(MVAR_CVN1) == 1) and (map_var(MVAR_CVN3) == 1) and (map_var(MVAR_CVN4) == 1)) or ((map_var(MVAR_CVN1) == 1) and (map_var(MVAR_CVN2) == 1) and (map_var(MVAR_CVN3) == 1) and (map_var(MVAR_CVN4) == 1)) ) then begin
          if (global_var(GVAR_QUEST_RAT_GOD) != RAT_GOD_SUCCESS) then begin
             set_global_var(GVAR_QUEST_RAT_GOD, RAT_GOD_SUCCESS);
@@ -69,7 +69,7 @@ procedure damage_p_proc begin
             inc_general_rep(REP_BONUS_KC_KILL_RAT_GOD);
          end
        end
-       
+
        while (count < 18) do begin
 
          if (check == 0) then begin
@@ -127,14 +127,14 @@ procedure damage_p_proc begin
             obj := dude_obj;
             check := check + 1;
          end
-         
+
          if (tile_in_tile_rect(25112, 24900, 27912, 27900, tile_num(obj))) then begin
             critter_dmg(obj, 9999999, DMG_normal_dam);
          end
-         
+
          count := count + 1;
-                    
-       end 
+
+       end
 
        add_timer_event(support_beam_1,game_ticks(3),3);
 
@@ -169,7 +169,7 @@ procedure destroy_support begin
        rubble:=create_object(33554839,26507,elevation(self_obj));
        rubble:=create_object(33554839,27108,elevation(self_obj));
        rubble:=create_object(33554513,23104,elevation(self_obj));
-       
+
        blocker:=create_object(PID_BLOCKING_HEX,24901,elevation(self_obj));
        blocker:=create_object(PID_BLOCKING_HEX,24902,elevation(self_obj));
        blocker:=create_object(PID_BLOCKING_HEX,25103,elevation(self_obj));
@@ -179,9 +179,9 @@ procedure destroy_support begin
        blocker:=create_object(PID_BLOCKING_HEX,27313,elevation(self_obj));
        blocker:=create_object(PID_BLOCKING_HEX,27513,elevation(self_obj));
        blocker:=create_object(PID_BLOCKING_HEX,27713,elevation(self_obj));
-       
+
        set_map_var(MVAR_CVN3,1);
- 
+
        if ( ((map_var(MVAR_CVN1) == 1) and (map_var(MVAR_CVN3) == 1) and (map_var(MVAR_CVN4) == 1)) or ((map_var(MVAR_CVN1) == 1) and (map_var(MVAR_CVN2) == 1) and (map_var(MVAR_CVN3) == 1) and (map_var(MVAR_CVN4) == 1)) ) then begin
          if (global_var(GVAR_QUEST_RAT_GOD) != RAT_GOD_SUCCESS) then begin
             set_global_var(GVAR_QUEST_RAT_GOD, RAT_GOD_SUCCESS);
@@ -191,7 +191,7 @@ procedure destroy_support begin
             inc_general_rep(REP_BONUS_KC_KILL_RAT_GOD);
          end
        end
-       
+
        while (count < 18) do begin
 
          if (check == 0) then begin
@@ -249,14 +249,14 @@ procedure destroy_support begin
             obj := dude_obj;
             check := check + 1;
          end
-         
+
          if (tile_in_tile_rect(25112, 24900, 27912, 27900, tile_num(obj))) then begin
             critter_dmg(obj, 9999999, DMG_normal_dam);
          end
-         
+
          count := count + 1;
-                    
-       end 
+
+       end
 
        if ( (support_beam_2 == 0) and (support_beam_4 == 0) and (support_beam_1 == 0) ) then begin
          support_beam_3 := 0;
@@ -276,7 +276,7 @@ procedure force_destroy_support begin
        rubble:=create_object(33554839,26507,elevation(self_obj));
        rubble:=create_object(33554839,27108,elevation(self_obj));
        rubble:=create_object(33554513,23104,elevation(self_obj));
-       
+
        blocker:=create_object(PID_BLOCKING_HEX,24901,elevation(self_obj));
        blocker:=create_object(PID_BLOCKING_HEX,24902,elevation(self_obj));
        blocker:=create_object(PID_BLOCKING_HEX,25103,elevation(self_obj));
@@ -286,8 +286,8 @@ procedure force_destroy_support begin
        blocker:=create_object(PID_BLOCKING_HEX,27313,elevation(self_obj));
        blocker:=create_object(PID_BLOCKING_HEX,27513,elevation(self_obj));
        blocker:=create_object(PID_BLOCKING_HEX,27713,elevation(self_obj));
-       
+
        set_map_var(MVAR_CVN3,1);
-       
+
        destroy_object(self_obj);
 end

@@ -77,7 +77,7 @@ variable the_rand;
       set_returned_to_church;
    end
    // end added
-   
+
    if (is_loading_game == false) then begin
       set_know_church;
       if (gangwar(state_gangwar_in_fight)) then begin

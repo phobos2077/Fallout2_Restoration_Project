@@ -1463,7 +1463,7 @@ end
 procedure Damage_Critter begin
    variable Trap_Damage;
    script_overrides; //added by killap
-   
+
    Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
 
    if (source_obj == dude_obj) then begin

@@ -260,7 +260,7 @@ procedure Node007 begin
       Reply(125);
 
       NOption(126,Node004,001);
-      
+
       set_local_var( LVAR_Suited_Up, 1 ); //moved here by killap
    end
    else

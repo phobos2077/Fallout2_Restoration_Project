@@ -146,7 +146,7 @@ procedure spatial_p_proc begin
                critter_dmg(source_obj,random(MIN_DMG,MAX_DMG),(DMG_normal_dam BWOR DMG_BYPASS_ARMOR BWOR DMG_NOANIMATE));
            end
            //end added by killap
-           
+
            set_local_var(LVAR_Trap_Exploded,1);
            set_local_var(TRAP_LVAR,1);
 

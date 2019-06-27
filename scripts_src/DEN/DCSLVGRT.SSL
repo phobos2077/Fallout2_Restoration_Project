@@ -358,7 +358,7 @@ procedure Node011 begin
 end
 procedure Node012 begin
    //maybe add ability to get the location of the slave camp... - killap
-   
+
    if (node_12) then begin
       Reply(342);
       BOption(343, Node998, 004);

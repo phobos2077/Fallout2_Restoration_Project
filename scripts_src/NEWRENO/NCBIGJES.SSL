@@ -650,7 +650,7 @@ procedure Node016 begin
    set_sold_slave;
    inc_general_rep(REP_BONUS_SELL_SLAVE);
    item_caps_adjust(dude_obj, slave_price);
-   
+
    if (Miria_In_Party) then begin
 //      remove_party(410, Miria_Ptr);  //killap comment out
 //begin killap code
@@ -658,13 +658,13 @@ procedure Node016 begin
       if (critter_is_armed(Miria_Ptr)) then begin
          inven_unwield(Miria_Ptr);
       end
-      move_obj_inven_to_obj(Miria_Ptr, dude_obj);  
+      move_obj_inven_to_obj(Miria_Ptr, dude_obj);
       move_to(Miria_Ptr, 0, 0);
       critter_heal(Miria_Ptr, -10000);
       party_remove(Miria_Ptr);
       gfade_in(ONE_GAME_SECOND);
       Reply(410);
-//end killap code           
+//end killap code
    end else if (Davin_In_Party) then begin
 //      remove_party(411, Davin_Ptr);  //killap comment out
 //begin killap code
@@ -672,11 +672,11 @@ procedure Node016 begin
       if (critter_is_armed(Davin_Ptr)) then begin
          inven_unwield(Davin_Ptr);
       end
-      move_obj_inven_to_obj(Davin_Ptr, dude_obj);  
+      move_obj_inven_to_obj(Davin_Ptr, dude_obj);
       move_to(Davin_Ptr, 0, 0);
       critter_heal(Davin_Ptr, -10000);
       party_remove(Davin_Ptr);
-      gfade_in(ONE_GAME_SECOND); 
+      gfade_in(ONE_GAME_SECOND);
       Reply(411);
 //end killap code
   end else if (Sulik_In_Party) then begin
@@ -686,7 +686,7 @@ procedure Node016 begin
       if (critter_is_armed(Sulik_Ptr)) then begin
          inven_unwield(Sulik_Ptr);
       end
-      move_obj_inven_to_obj(Sulik_Ptr, dude_obj);  
+      move_obj_inven_to_obj(Sulik_Ptr, dude_obj);
       move_to(Sulik_Ptr, 0, 0);
       critter_heal(Sulik_Ptr, -10000);
       party_remove(Sulik_Ptr);
@@ -700,12 +700,12 @@ procedure Node016 begin
       if (critter_is_armed(Vic_Ptr)) then begin
          inven_unwield(Vic_Ptr);
       end
-      move_obj_inven_to_obj(Vic_Ptr, dude_obj);  
+      move_obj_inven_to_obj(Vic_Ptr, dude_obj);
       move_to(Vic_Ptr, 0, 0);
       critter_heal(Vic_Ptr, -10000);
       party_remove(Vic_Ptr);
       gfade_in(ONE_GAME_SECOND);
-      Reply(413);  
+      Reply(413);
 //end killap code
    end else if (MacRae_In_Party) then begin
  //     remove_party(414, MacRae_Ptr); //killap comment out
@@ -714,13 +714,13 @@ procedure Node016 begin
       if (critter_is_armed(MacRae_Ptr)) then begin
          inven_unwield(MacRae_Ptr);
       end
-      move_obj_inven_to_obj(MacRae_Ptr, dude_obj);  
+      move_obj_inven_to_obj(MacRae_Ptr, dude_obj);
       move_to(MacRae_Ptr, 0, 0);
       critter_heal(MacRae_Ptr, -10000);
       party_remove(MacRae_Ptr);
       gfade_in(ONE_GAME_SECOND);
-      Reply(414);   
-//end killap code  
+      Reply(414);
+//end killap code
    end else if (Robobrain_In_Party) then begin
 //      remove_party(415, Robobrain_Ptr); //killap comment out
 //begin killap code
@@ -728,11 +728,11 @@ procedure Node016 begin
       if (critter_is_armed(Robobrain_Ptr)) then begin
          inven_unwield(Robobrain_Ptr);
       end
-      move_obj_inven_to_obj(Robobrain_Ptr, dude_obj);  
+      move_obj_inven_to_obj(Robobrain_Ptr, dude_obj);
       move_to(Robobrain_Ptr, 0, 0);
       critter_heal(Robobrain_Ptr, -10000);
       party_remove(Robobrain_Ptr);
-      gfade_in(ONE_GAME_SECOND); 
+      gfade_in(ONE_GAME_SECOND);
       Reply(415);
 //end killap code
    end else if (Cyberdog_In_Party) then begin
@@ -742,12 +742,12 @@ procedure Node016 begin
       if (critter_is_armed(Cyberdog_Ptr)) then begin
          inven_unwield(Cyberdog_Ptr);
       end
-      move_obj_inven_to_obj(Cyberdog_Ptr, dude_obj);  
+      move_obj_inven_to_obj(Cyberdog_Ptr, dude_obj);
       move_to(Cyberdog_Ptr, 0, 0);
       critter_heal(Cyberdog_Ptr, -10000);
       party_remove(Cyberdog_Ptr);
       gfade_in(ONE_GAME_SECOND);
-      Reply(416); 
+      Reply(416);
 //end killap code
    end
    if (true_party_size > 0) then begin

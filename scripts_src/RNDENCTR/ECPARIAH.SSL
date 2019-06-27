@@ -179,7 +179,7 @@ procedure critter_p_proc begin
          //Set is really an INC
          //val := (1 - dude_luck);
          //debug_msg("ECPARIA: luck adjust" + val);
-         
+
          if (has_trait(TRAIT_TRAIT, dude_obj, TRAIT_gifted)) then begin//killap's fix: was self_obj
             set_pc_base_stat(STAT_lu, 2);
             set_pc_extra_stat(STAT_lu, 0);
@@ -192,7 +192,7 @@ procedure critter_p_proc begin
             set_pc_extra_stat(STAT_lu, 0);
             debug_msg("base luck: " + get_pc_base_stat(STAT_lu));
             debug_msg("extra luck: " + get_pc_extra_stat(STAT_lu));
-         end  
+         end
          //debug_msg("ECPARIA: luck adjust " + val);
          //set_critter_stat(dude_obj, STAT_lu, val);
          //debug_msg("ECPARIA: dude's luck wasn't 1: true value: " + local_var(LVAR_Dude_True_Luck));
@@ -269,7 +269,7 @@ procedure destroy_p_proc begin
    end
    /*if (local_var(LVAR_Dude_True_Luck)) then begin
       debug_msg("ECPARIAH: setting luck back to : " + local_var(LVAR_Dude_True_Luck));
-      if (local_var(LVAR_Dude_True_Luck) > 10) then 
+      if (local_var(LVAR_Dude_True_Luck) > 10) then
          set_local_var(LVAR_Dude_True_Luck, 10);
       set_critter_stat(dude_obj, STAT_lu, (local_var(LVAR_Dude_True_Luck) - (1 + has_trait(TRAIT_TRAIT, dude_obj, TRAIT_gifted)))); //killap's fix: was self_obj
    end*/

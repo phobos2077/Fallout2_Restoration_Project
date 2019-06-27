@@ -262,7 +262,7 @@ procedure Node008 begin
    /*// Begin Seraph's Code
    if (local_var(LVAR_07_before) == 0) then
       NOption(123,Node007,004);
-   // End Seraph's Code* -COMMENTED OUT BY KILAP*/ 
+   // End Seraph's Code* -COMMENTED OUT BY KILAP*/
    NOption(182,Node004,004);
    NOption(183,Node999,004);
 end

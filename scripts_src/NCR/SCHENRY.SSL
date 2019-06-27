@@ -259,7 +259,7 @@ end
 
 procedure Node001 begin
    Node6Repeat := 0; //added by killap
-   
+
    if (local_var(LVAR_Herebefore) == 0) then
       Reply(103);
    else

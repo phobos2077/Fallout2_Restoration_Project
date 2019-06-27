@@ -239,7 +239,7 @@ begin
    end
    set_local_var(LVAR_Herebefore,1);
 end
- 
+
 procedure destroy_p_proc
 begin
    inc_good_critter
@@ -306,7 +306,7 @@ procedure Node011 begin
    set_local_var(LVAR_Gave_SMG,1);
 
 	Reply(400);
-   
+
 	NOption(401,Node012,004);
 	BOption(402,Node012,004);
 	NOption(403,Node999,004);
@@ -318,7 +318,7 @@ procedure Node012 begin
    give_xp(50);
    remove_pid_qty(dude_obj, PID_10MM_SMG, 1)
    item:=create_object(PID_NUKA_COLA,0,0);
-   add_obj_to_inven(dude_obj,item);   
+   add_obj_to_inven(dude_obj,item);
    set_local_var(LVAR_Gave_SMG,2);
 	Reply(410);
 	NOption(301,Node999,004);
@@ -389,7 +389,7 @@ begin
       destroy_object(tile_contains_pid_obj(22919,elevation(self_obj),PID_BUCKET));
    end
    Reply(300);
-   
+
    NOption(301,Node999,004);
 
 end
@@ -452,7 +452,7 @@ begin
    set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE,global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 5);
    item_caps_adjust(dude_obj, 150);
 end
- 
+
 procedure combat_p_proc
 begin
    if (global_var(GVAR_ENEMY_PRIMITIVE_TRIBE)==1) then begin

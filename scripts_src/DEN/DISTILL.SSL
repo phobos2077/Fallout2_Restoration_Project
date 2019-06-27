@@ -61,7 +61,7 @@ procedure map_enter_p_proc begin
       end
    end
    //end added by killap
-   
+
    if (still_broken) then begin
       animate_set_frame(1);
    end else begin

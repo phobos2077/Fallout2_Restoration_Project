@@ -794,7 +794,7 @@ procedure Node031a begin
 
    set_global_var(GVAR_VAULT_CITIZEN,0); //added by killap
    set_global_var(GVAR_VAULT_CITIZENSHIP,0); //added by killap
-    
+
    if( ( local_var(LVAR_Gave_Day_Pass) == 0 ) and
        ( global_var(GVAR_VAULT_CITIZEN) != CITIZEN_CAPTAIN_GUARD ) and
        ( global_var(GVAR_VAULT_CITIZEN) != CITIZEN_REAL_CITIZEN ) ) then

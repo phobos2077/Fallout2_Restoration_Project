@@ -670,13 +670,13 @@ procedure Node040a begin
    //item:=obj_carrying_pid_obj(dude_obj,PID_EXCAVATOR_CHIP);
    //rm_obj_from_inven(dude_obj,item);
    //add_obj_to_inven(self_obj,item);
-   
+
    //added by killap
    item:=obj_carrying_pid_obj(dude_obj,PID_EXCAVATOR_CHIP);
    rm_obj_from_inven(dude_obj,item);
    destroy_object(item);
    //end added
-   
+
    set_global_var(GVAR_REDDING_EXCAVATOR_CHIP,CHIP_DELIVERED_DAN);
 end
 

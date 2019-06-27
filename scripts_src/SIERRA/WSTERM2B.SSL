@@ -426,7 +426,7 @@ procedure Node019 begin // Shock Plates off (Virus)
    Field2c_Ptr:=0;
    Field2d_Ptr:=0;
    //end add
-   
+
    set_local_var(LVAR_Comp_Off,1);
    set_map_var(MVAR_Electric_Floor_2,1);
 
@@ -569,7 +569,7 @@ procedure Node024 begin // Force Fields on (Fail Guessing)
 
    NOption(163,Node001,004);
    NOption(164,Node999,004);
-end 
+end
 //end added
 
 procedure Node025 begin

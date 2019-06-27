@@ -241,7 +241,7 @@ procedure talk_p_proc begin
    From_19 := 0;
 
    gdialog_set_barter_mod(35); //added by killap
-      
+
    move_inven_to_temp_box
    if( ( local_var( LVAR_Randal_Status ) == RANDAL_CONVINCED ) or
        ( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_CAPTAIN_GUARD ) or
@@ -284,13 +284,13 @@ procedure talk_p_proc begin
    move_inven_from_temp_box
 
    set_local_var( LVAR_Herebefore, 1 );
-   
+
    //added by killap
    if ( local_var( LVAR_Randal_Status ) < RANDAL_KNOWN ) then begin
       set_local_var( LVAR_Randal_Status, RANDAL_KNOWN);
    end
    //end added
-   
+
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like
@@ -417,9 +417,9 @@ procedure Node011 begin
    NOption(135, Node012, 004);
    NOption(136, Node014, 004);
    NOption(137, Node999, 004);
-   
+
    From_WTG := 1;
-   
+
 end
 
 procedure Node012 begin
@@ -451,7 +451,7 @@ procedure Node014 begin
       Reply(149);
    end else
       Reply(150);
-   
+
    NLowOption(151, Node010);
    NLowOption(152, Node999);
    NOption(153, Node015, 004);

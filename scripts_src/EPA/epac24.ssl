@@ -65,7 +65,7 @@ procedure timed_event_p_proc begin
   call Node001;
   add_timer_event(self_obj, random(10,15)*ONE_GAME_SECOND, 1);
  end
- 
+
 end
 
 /********************************************************************

@@ -166,7 +166,7 @@ begin
          terminate_combat;
    end
 end
- 
+
 procedure critter_p_proc
 begin
      if (global_var(GVAR_LOWER_EPAFIELDS)==1) then begin
@@ -370,7 +370,7 @@ end
 procedure Node004
 begin
   gsay_reply(NAME, 150);
-  
+
    if ((has_skill(dude_obj, SKILL_CONVERSANT) > 100) or (has_skill(dude_obj, SKILL_SCIENCE) > 100)) then begin
       giq_option(4, NAME, 151, Node007, 50);
       giq_option(4, NAME, 152, Node004a, 50);
@@ -927,7 +927,7 @@ procedure createExitGrids begin
    grid:=create_object_sid(83886102,5918,0,-1);
    grid:=create_object_sid(83886102,5916,0,-1);
    grid:=create_object_sid(83886102,5915,0,-1);
-   
+
    grid:=create_object_sid(83886097,6918,0,-1);
    grid:=create_object_sid(83886097,6717,0,-1);
    grid:=create_object_sid(83886097,6316,0,-1);
@@ -956,7 +956,7 @@ procedure createExitGrids begin
    grid:=create_object_sid(83886103,7120,0,-1);
    grid:=create_object_sid(83886103,7117,0,-1);
    grid:=create_object_sid(83886099,7317,0,-1);
-   
+
    grid:=create_object_sid(83886103,6123,0,-1);
    grid:=create_object_sid(83886103,6321,0,-1);
    grid:=create_object_sid(83886103,6119,0,-1);

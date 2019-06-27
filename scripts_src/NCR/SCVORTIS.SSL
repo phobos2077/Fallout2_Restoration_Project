@@ -230,10 +230,10 @@ procedure talk_p_proc begin
    CheckKarma;
 
    GetReaction;
-   
+
    ReactToLevel; //added by killap
-   
-// (tile_distance(tile_num(dude_obj), VORTISBEDPLACE) < 6) 
+
+// (tile_distance(tile_num(dude_obj), VORTISBEDPLACE) < 6)
    if (local_var(LVAR_Vortis_Location) == VORTISBEDPLACE) then begin
       if ( (tile_distance(tile_num(dude_obj), VORTISBEDPLACE) < 9) ) then //added by killap
          call Node021;
@@ -304,13 +304,13 @@ procedure destroy_p_proc begin
 /* Increment the aligned critter counter*/
    //inc_good_critter
    inc_evil_critter
-   
+
    //added by killap - expansion
    if (global_var(GVAR_NCR_VORTIS_QUEST_STATE) == VORTIS_QUEST2_ACCEPTED) then begin
       set_global_var(GVAR_NCR_VORTIS_QUEST_STATE, 5); //failure
    end
    //end added
-   
+
 /* Set global_variable for Enemy status*/
    i_vortis_obj := -1;
 end
@@ -420,7 +420,7 @@ procedure Node002 begin
    Reply(115);
    NOption(116, Node999, 4); //edit by killap - was NOption(116, Node999, 1);
    NLowOption(111, Node999); //added by killap
-   
+
    //Note the design had Slavers=leave in it. I am not sure what the hell that means.
    warpPlayerOut := 1;
 end
@@ -572,9 +572,9 @@ end
 procedure Node024 begin
    if (has_rep_slaver) then
       Reply(200);
-   else 
+   else
       Reply(201);
-      
+
    NOption(202, Node025, 4);
    NOption(203, Node026, 4);
 end
@@ -602,18 +602,18 @@ procedure Node028 begin
    item_caps_adjust(dude_obj, 1000);
    display_msg(mstr(240));
    set_global_var(GVAR_NCR_VORTIS_QUEST_STATE, VORTIS_QUEST2_DONE);
-   
+
    Reply(215);
    NOption(216, Node999, 4);
    NOption(217, Node999, 4);
    NOption(218, Node999, 4);
-   
+
 end
 
 procedure Node029 begin
    if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -10 ) ) ) then
       call Node030;
-   else 
+   else
       call Node031;
 end
 

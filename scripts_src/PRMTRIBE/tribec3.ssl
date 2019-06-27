@@ -176,9 +176,9 @@ procedure talk_p_proc begin
 
    if(local_var(LVAR_Herebefore) == 0) then
       set_local_var(LVAR_Herebefore,1);
-      
+
    if (Fallout2_enclave_destroyed) then begin
-	     floater(random(300,301));  
+	     floater(random(300,301));
    end else if ((global_var(GVAR_MERCHANT_MEETING) > 1) or (global_var(GVAR_TRIBE_WEAPONS) == 2) or (global_var(GVAR_TRIBE_GHOST) == 3) or (global_var(GVAR_SULIK_SISTER) >= 3) ) then begin
       //float_msg(self_obj, message_str(1308, random(204, 208)), FLOAT_MSG_WHITE );
       float_msg(self_obj, mstr(random(204, 208)), FLOAT_MSG_WHITE);
@@ -188,14 +188,14 @@ procedure talk_p_proc begin
    	//floater_bad(random(200,203));
    end
 end
- 
+
 procedure critter_p_proc
 begin
 
   if ( (self_can_see_dude) and (has_rep_slaver) ) then begin
       floater(210);
       attack(dude_obj);
-  end 
+  end
   if ((random(0,100) == 1) and (In_Timed_Event == 0) and (not combat_is_initialized) ) then begin
        In_Timed_Event:=1;
        add_timer_event(self_obj,game_ticks(random(5,9)),1);
@@ -207,14 +207,14 @@ begin
       call wield_spear_p_proc;
   end
 end
- 
+
 procedure destroy_p_proc
 begin
    inc_good_critter
    set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE, global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) - 10);
    set_global_var(GVAR_ENEMY_PRIMITIVE_TRIBE,1);
 end
- 
+
 procedure combat_p_proc
 begin
    if (global_var(GVAR_ENEMY_PRIMITIVE_TRIBE) == 1) then begin

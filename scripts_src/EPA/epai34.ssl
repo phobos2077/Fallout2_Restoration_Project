@@ -31,7 +31,7 @@ begin
 end
 
 procedure use_obj_on_p_proc begin
-   if ((obj_pid(obj_being_used_with) == PID_WRENCH) or (obj_pid(obj_being_used_with) == PID_MULTI_TOOL) or (obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT) ) then begin 
+   if ((obj_pid(obj_being_used_with) == PID_WRENCH) or (obj_pid(obj_being_used_with) == PID_MULTI_TOOL) or (obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT) ) then begin
       script_overrides;
       if (global_var(GVAR_FIX_STATICINGHOLOGRAM) >= 1) then begin
          if (has_skill(dude_obj, SKILL_REPAIR) > 20) then begin

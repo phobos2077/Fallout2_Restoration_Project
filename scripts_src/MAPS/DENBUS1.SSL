@@ -88,9 +88,9 @@ procedure map_enter_p_proc begin
       Create_Car(CAR_DENBUS1_HEX,CAR_DEN_ELEV)
       if (tile_contains_pid_obj(CAR_DENBUS1_HEX, CAR_DEN_ELEV, PID_DRIVABLE_CAR) != 0) then begin
          Create_Trunk(CAR_DENBUS1_HEX,CAR_DEN_ELEV)
-      end 
+      end
    //end added
-   end else 
+   end else
    if (took_car_off_den_bus_1) then begin
       Check_Create_Car(CAR_DENBUS1_HEX, CAR_DEN_ELEV)
       Dest_Car(CAR_UNCLAIMED_HEX, CAR_UNCLAIMED_ELEV)
@@ -100,18 +100,18 @@ procedure map_enter_p_proc begin
          Create_Trunk(CAR_UNCLAIMED_HEX, CAR_UNCLAIMED_ELEV)
       end
    end
-   
+
    //edit by killap
    if( elevation( dude_obj ) == 1 ) then
       Basement_Lighting;
    else
       Lighting;
-   
+
 end
 
 procedure map_update_p_proc begin
    check_gang_d_day_timer
-   
+
    //edit by killap
    if( elevation( dude_obj ) == 1 ) then
       Basement_Lighting;

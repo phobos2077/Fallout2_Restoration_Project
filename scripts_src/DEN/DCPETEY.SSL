@@ -78,7 +78,7 @@ procedure start begin
 end
 
 procedure timed_event_p_proc begin
-   if (combat_is_initialized == false) then begin 
+   if (combat_is_initialized == false) then begin
       if (fixed_param == timed_event_float) then begin
          if (stage < 2) then
             floater_rand(202 - (dude_is_male*2), 204 + (dude_is_female*2));
@@ -199,14 +199,14 @@ procedure timed_event_p_proc begin
 end
 
 procedure map_enter_p_proc begin
-   
+
    if (local_var(LVAR_Home_Tile) == 0) then begin
       set_local_var(LVAR_Home_Tile, self_tile);
    end
    set_local_var(LVAR_Should_Animate, 0);
-   
+
    debug_msg("Home_Tile" + local_var(LVAR_Home_Tile));
-   
+
    //destroy_object(self_obj);
    //if (is_loading_game == false) then begin
       if (map_first_run) then begin
@@ -216,9 +216,9 @@ procedure map_enter_p_proc begin
       //flush_add_timer_event_sec(self_obj, random(5,15), timed_event_high);
       //flush_add_timer_event_sec(self_obj, random(5, 10), timed_event_wander);
       //flush_add_timer_event_sec(self_obj, game_ticks(5), timed_event_buy_drugs);
-      
+
    //end
-   
+
    stage := 1;
    add_timer_event(self_obj,random(800,1000),timed_event_buy_drugs);
    add_timer_event(self_obj,random(200,300),timed_event_high);
@@ -235,7 +235,7 @@ procedure critter_p_proc begin
       if (hostile) then begin
          self_attack_dude;
       end
-      
+
       if (not(combat_is_initialized)) then begin
          if ( (tile_distance_objs(self_obj, dude_obj) < 5) and (local_var(LVAR_Asked) != 1) and (stage < 2) ) then begin
             start_dialog_at_node(Node004);
@@ -244,12 +244,12 @@ procedure critter_p_proc begin
          end
       end
    end
-   
+
    if ((not(combat_is_initialized)) and (not(anim_busy(self_obj)))) then begin
       if (local_var(LVAR_Should_Animate) != 0) then begin
-         add_timer_event(self_obj,game_ticks(2),ensure_animation);    
+         add_timer_event(self_obj,game_ticks(2),ensure_animation);
       end
-   end 
+   end
 end
 
 procedure damage_p_proc begin
@@ -309,7 +309,7 @@ end
 procedure Node002 begin
    Reply(164);
    NOption(165, Node999, 004);
-   
+
    if (stage == 0) then
       add_timer_event(self_obj,game_ticks(2),timed_event_buy_drugs); //goes to buy drugs with the money you just gave him.
 end

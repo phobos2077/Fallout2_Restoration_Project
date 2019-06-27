@@ -81,13 +81,13 @@ procedure map_enter_p_proc begin
    //if ((message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") == 0) then begin
    //   destroy_object(self_obj);
    //end else if (is_loading_game == false) then begin
-   
+
       /*// added by killap - expansion
       self_family_var := family_salvatore;
-      
+
       if (self_family == family_salvatore and salvatore_dead and warned_attack) then begin
          destroy_object(self_obj);
-         return;   
+         return;
       end
       // end added*/
 

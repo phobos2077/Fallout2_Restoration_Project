@@ -264,11 +264,11 @@ end
    set up the Team number and AI packet for this critter. This will override the
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
-   
+
     if ( (cur_town == AREA_PRIMITIVE_TRIBE) and not (Sulik_In_Party) and not (party_is_waiting) and (local_var(LVAR_At_Tribe) > 0) ) then begin
          add_timer_event(self_obj,game_ticks(random(15,25)),1);
     end else begin
-   
+
       party_member_map_enter;
       if (Sulik_In_Party) then begin
       //do nothing
@@ -280,7 +280,7 @@ procedure map_enter_p_proc begin
          //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PARTY_SULIK_DEFENSIVE);
       end
     end
-    
+
     //added by killap
     add_timer_event(self_obj, random(25, 40), 900);
 end
@@ -313,13 +313,13 @@ procedure map_update_p_proc begin
          end
       end
    end
-   
+
    //added by killap - needed for "hacky fix" for kitty drug... :(
    if (waiting == 1) then begin
       waiting := 0;
    end
-   //end added  
-   
+   //end added
+
 end
 
 //added by killap - RP
@@ -332,7 +332,7 @@ procedure combat_p_proc begin
    end
 end
 //end added
- 
+
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
    Movement to attacking the player on sight can be placed in here.*/
 procedure critter_p_proc begin
@@ -342,13 +342,13 @@ procedure critter_p_proc begin
    this as well. */
 
    //added by killap
-   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_SULIK)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_SULIK))) then begin 
+   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_SULIK)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_SULIK))) then begin
       set_map_var(MVAR_Kitty_Drug, 0);
       waiting := 1;
       if (get_critter_stat(self_obj, STAT_st) < 10) then begin
          use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
       end
-   end 
+   end
    //end added
 
    if ( ((local_var(LVAR_Hostile) == 2) or
@@ -377,7 +377,7 @@ procedure critter_p_proc begin
       else if ((cur_town == AREA_KLAMATH) and (REP_ENEMY_KLAMATH)) then begin
          call Node072;
          debug_msg("SULIK: Causing trouble in Klamath");
-      end 
+      end
       else if (party_is_waiting == false) then begin
          if (waiting != 1) then begin //check added by killap - needed for "hacky fix" for kitty drug... :(
             party_member_follow_dude
@@ -387,7 +387,7 @@ procedure critter_p_proc begin
    else if ((cur_town == AREA_KLAMATH) and (REP_ENEMY_KLAMATH)) then begin
        call Node998;
    end
-   
+
    //added by killap - RP
    if (cur_town == AREA_PRIMITIVE_TRIBE) then begin
       if ( (local_var(LVAR_Hostile) != 2) and (REP_ENEMY_PRIMITIVE_TRIBE) ) then begin
@@ -403,7 +403,7 @@ procedure critter_p_proc begin
       end
    end
    //end added
-   
+
 end
 
 /* Whenever the critter takes damage of any type, this procedure will be called. Things
@@ -599,12 +599,12 @@ procedure talk_p_proc begin
 /*loc2 := critter_inven_obj(self_obj, 2);
 if (loc2 == 0) then begin
    loc2 := critter_inven_obj(self_obj, 1);
-end 
+end
 if  (critter_inven_obj(self_obj,0)!=loc1) then
  begin
   if (critter_inven_obj(self_obj,0)== 0 ) then
   begin
-  // Ustawianie grafiki dla golej postaci 
+  // Ustawianie grafiki dla golej postaci
   metarule3(107,self_obj,FID_NMWARR,0);
   end
   else
@@ -901,7 +901,7 @@ procedure Node005 begin
    if (global_var(GVAR_SULIK_FREE) == 0) then begin
       Reply(116);
       if (global_var(GVAR_ARDIN_FREEDOM) == 0) then //added check by killap
-         NLowOption(118,Node006);               
+         NLowOption(118,Node006);
       else
          NLowOption(118,Node999);  //added by killap
       NOption(119,Node006,004);
@@ -1185,7 +1185,7 @@ procedure Node027 begin
    //added by killap
    else if ( (cur_town == AREA_PRIMITIVE_TRIBE)  ) then begin
       Reply(random(3064,3066));
-   
+
    end
    //end added
    //PRIMITIVE_TRIBE..goes here
@@ -1270,15 +1270,15 @@ procedure Node027 begin
    //SAN FRANCISCO - restored by killap - RP
    else if ( (cur_map_index == MAP_SAN_FRAN_TANKER)
      or (cur_map_index == MAP_SAN_FRAN_DOCK)
-     or (cur_map_index == MAP_SAN_FRAN_CHINATOWN) 
-     or (cur_map_index == MAP_SHUTTLE_EXTERIOR) 
+     or (cur_map_index == MAP_SAN_FRAN_CHINATOWN)
+     or (cur_map_index == MAP_SHUTTLE_EXTERIOR)
      or (cur_map_index == MAP_ELRONOLOGIST_BASE) ) then begin
       Reply(random(480,483));
    end
    //EPA *deleted from fallout2 - restored by killap - RP*
    else if ( (cur_map_index == MAP_EPA)
      or (cur_map_index == MAP_EPA_SUBLEVELS_1)
-     or (cur_map_index == MAP_EPA_SUBLEVELS_2) 
+     or (cur_map_index == MAP_EPA_SUBLEVELS_2)
      or (cur_map_index == MAP_EPA_SECRET) ) then begin
       Reply(random(490,492));
    end
@@ -1428,7 +1428,7 @@ procedure Node044 begin
    if (local_var(LVAR_whos_we) == 0) then
       NOption(126,Node06a,004);
    NOption(766,Node047,004);
-   
+
    NOption(767,Node048,004);
    NOption(768,Node054,004);
    if ( (dude_has_free_slot_for_sulik) and (global_var(GVAR_SULIK_FREE) == 1) ) then //check if sulik free as well
@@ -1453,7 +1453,7 @@ procedure Node045 begin
    //   mark_area_known(0, AREA_PRIMITIVE_TRIBE, MARK_STATE_KNOWN);
   //end
    //end
-   
+
 end
 
 procedure Node046 begin
@@ -1532,7 +1532,7 @@ procedure Node052 begin
    //if (???) then
    //   Reply(790);
    //else
-   
+
    if (dude_charisma <= 1) then begin
      NMessage(722);
    end
@@ -1571,12 +1571,12 @@ procedure Node054 begin
    if ( (dude_has_free_slot_for_sulik) and (global_var(GVAR_SULIK_FREE) == 1) ) then
       NOption(802,Node052,004);
    NOption(803,Node999,004);
-   
+
    //added by killap
    NLowOption(926,Node003);
    NLowOption(927,Node999);
    //end added
-   
+
 end
 
 procedure Node055 begin
@@ -1919,15 +1919,15 @@ procedure Node086 begin
    GOption(3051,Node092,004);
    NOption(3052,Node999,004);
    NOption(3081,Node088,004);
-   
+
    From_86 := 1;
-   
-      
+
+
    //added by killap
    NLowOption(123,Node999);
    NLowOption(124,Node092);
    //end added
-   
+
 end
 //end
 
@@ -1947,13 +1947,13 @@ procedure Node087 begin
 //FIX NBK
    Reply(3053);
    NOption(3054,Node087b,001); //sulik leaves party and moves around tribe map
-   
+
 //when pc leaves sulik is back in party
 end
 
 procedure Node087b begin
    //party_remove_self;
-   add_timer_event(self_obj,1,1);   
+   add_timer_event(self_obj,1,1);
 end
 
 
@@ -1965,8 +1965,8 @@ procedure Node087c begin
       NOption(3069,Node088,004);
    else
       NOption(3069,Node999,004);
-      
-      
+
+
    //added by killap
    NLowOption(123,Node999);
    NLowOption(124,Node092);
@@ -2004,8 +2004,8 @@ procedure Node089 begin
    Reply(3057);
    GOption(3058,Node092,004);
    NOption(3059,Node090,004);
-   
-      
+
+
    //added by killap
    NLowOption(123,Node999);
    NLowOption(124,Node092);
@@ -2189,7 +2189,7 @@ procedure timed_event_p_proc begin
          if( Sulik_Ptr != 0 ) then begin
             if (Is_Crippled(self_obj)) then
                floater(3500);
-            else if (get_critter_stat(self_obj, STAT_current_rad)) then 
+            else if (get_critter_stat(self_obj, STAT_current_rad)) then
                floater(3501);
             else if (get_poison(self_obj)) then
                floater(3502);

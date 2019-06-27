@@ -124,7 +124,7 @@ procedure combat_p_proc begin
    end else begin
       call NodeFighting;
    end*/
-   
+
    if (self_visible) then begin
       if (Random(1, 100) <= TAUNT_CHANCE) then begin
          if (critter_is_fleeing(self_obj)) then begin
@@ -133,11 +133,11 @@ procedure combat_p_proc begin
             call NodeFighting;
          end
       end
-      
+
       if ((get_critter_stat(self_obj,STAT_current_hp)) <= ((get_critter_stat(self_obj,STAT_max_hit_points)) - 150)) then begin
          critter_set_flee_state(self_obj, 1);
       end
-      
+
       if (((not obj_on_screen(self_obj)) or (tile_distance_objs(dude_obj, self_obj) > 15)) and (critter_is_fleeing(self_obj))) then begin
          float_msg(self_obj, mstr(111), FLOAT_MSG_RED);
          set_kaga_met;
@@ -169,16 +169,16 @@ procedure do_setup begin
       check_restock_item(PID_ASSAULT_RIFLE, 1, 1, 100)
       check_restock_item(PID_5MM_JHP, 2, 2, 100)
       check_restock_item(PID_BOTTLE_CAPS, 500, 500, 100)
-      
+
       //move_to(self_obj, 25894, 0); //need to alter
       //move_to(dude_obj, 25300, 0); //these for variety
       //game_ui_disable;
       wield_obj_critter(self_obj,obj_carrying_pid_obj(self_obj, PID_ASSAULT_RIFLE));
       //display_msg(mstr(200));
-      
+
       //Face_Critter(dude_obj, self_obj);
       //Face_Critter(self_obj, dude_obj);
-    
+
       Critter:=create_object_sid(PID_RAIDER_MALE,0,0,SCRIPT_ECRAIDER);
       add_obj_to_inven(Critter, create_object(PID_ASSAULT_RIFLE,0,0));
       add_mult_objs_to_inven(Critter, create_object(PID_BOTTLE_CAPS,0,0),random(0,30));
@@ -190,7 +190,7 @@ procedure do_setup begin
       Critter_Tile:=tile_num_in_direction(self_tile,Critter_Rotation,random(3,4));
       critter_attempt_placement(Critter,Critter_Tile,0);
       Face_Critter(dude_obj,Critter);
-      
+
       Critter:=create_object_sid(PID_RAIDER_MALE,0,0,SCRIPT_ECRAIDER);
       add_obj_to_inven(Critter, create_object(PID_COMBAT_SHOTGUN,0,0));
       add_mult_objs_to_inven(Critter, create_object(PID_BOTTLE_CAPS,0,0),random(0,30));
@@ -202,7 +202,7 @@ procedure do_setup begin
       Critter_Tile:=tile_num_in_direction(self_tile,Critter_Rotation,random(3,4));
       critter_attempt_placement(Critter,Critter_Tile,0);
       Face_Critter(dude_obj,Critter);
-   
+
       Critter:=create_object_sid(PID_RAIDER_FEMALE,0,0,SCRIPT_ECRAIDER);
       add_obj_to_inven(Critter, create_object(PID_GREASE_GUN,0,0));
       add_mult_objs_to_inven(Critter, create_object(PID_BOTTLE_CAPS,0,0),random(0,30));
@@ -214,7 +214,7 @@ procedure do_setup begin
       Critter_Tile:=tile_num_in_direction(self_tile,Critter_Rotation,random(3,4));
       critter_attempt_placement(Critter,Critter_Tile,0);
       Face_Critter(dude_obj,Critter);
-      
+
       Critter:=create_object_sid(PID_RAIDER_FEMALE,0,0,SCRIPT_ECRAIDER);
       add_obj_to_inven(Critter, create_object(PID_GREASE_GUN,0,0));
       add_mult_objs_to_inven(Critter, create_object(PID_BOTTLE_CAPS,0,0),random(0,30));
@@ -226,7 +226,7 @@ procedure do_setup begin
       Critter_Tile:=tile_num_in_direction(self_tile,Critter_Rotation,random(3,4));
       critter_attempt_placement(Critter,Critter_Tile,0);
       Face_Critter(dude_obj,Critter);
-      
+
       if (kaga_met) then begin
          float_msg(dude_obj, mstr(120), FLOAT_MSG_GREEN);
          set_local_var(LVAR_Herebefore, 1);
@@ -306,7 +306,7 @@ procedure critter_p_proc begin
          end
       end
    end
-   
+
    /*if ((get_critter_stat(self_obj,STAT_current_hp)) <= ((get_critter_stat(self_obj,STAT_max_hit_points)) - 150)) then begin
       if not(local_var(LVAR_Defeated)) then
          set_local_var(LVAR_Defeated,1);
@@ -322,7 +322,7 @@ procedure critter_p_proc begin
        //set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end*/
-   
+
 end
 
 /* Whenever the critter takes damage of any type, this procedure will be called. Things
@@ -420,15 +420,15 @@ procedure NodeFighting begin
    if ((rnd == 103 or rnd == 104 or rnd == 108) and not kaga_met) then rnd := 105;
 
    float_msg(self_obj, mstr(rnd), FLOAT_MSG_RED);
-   
+
 end
 
 procedure doSequence begin
-   
+
    //face each other
    Face_Critter(dude_obj, self_obj);
    Face_Critter(self_obj, dude_obj);
-   
+
    start_gdialog(NAME,self_obj,4,-1,-1);
    gSay_Start;
       call Node001;

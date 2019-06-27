@@ -200,8 +200,8 @@ procedure critter_p_proc begin
       set_local_var(LVAR_Said_Once,1);
       floater(random(150,151));
    end
-   
-  
+
+
 end
 
 

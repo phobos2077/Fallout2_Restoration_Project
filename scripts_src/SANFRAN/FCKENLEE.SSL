@@ -239,7 +239,7 @@ end
    Evil_Critter:=0;
    Slavery_Tolerant:=SLAVE_INTOLERANT;
    Karma_Perception:=KARMA_PERCEPTION4;
-   
+
    //display_msg("blah "+ (local_var(LVAR_reaction_level)));
    //display_msg("blah " + (local_var(LVAR_reaction)));
    CheckKarma;
@@ -251,7 +251,7 @@ end
    ReactToLevel;
    //display_msg("blah " + (local_var(LVAR_reaction_level)));
    //display_msg("blah " + (local_var(LVAR_reaction)));
-      
+
    if (local_var(LVAR_Pissed) == 0) then begin
       if (san_fran_flag(SF_SHI_ENEMY)) then begin
          start_gdialog(NAME,self_obj,4,-1,-1);
@@ -333,7 +333,7 @@ procedure talk_p_proc begin
    CheckKarma;
 
    GetReaction;
-   
+
    ReactToLevel;
 
    if (local_var(LVAR_Pissed) == 0) then begin
@@ -402,7 +402,7 @@ procedure talk_p_proc begin
    end
 
    set_local_var(LVAR_Herebefore, 1);
-end 
+end
 //end
 
 /* This procedure gets called only on the death of this NPC. Special things like
@@ -551,7 +551,7 @@ procedure Node001 begin
    if (struggle_flag(STRUG_ELRECRUIT)) then
       NOption(112, Node027, 4);
    NOption(113, Node999, 4);
-end 
+end
 //end
 
 procedure Node002 begin
@@ -814,7 +814,7 @@ procedure Node030 begin
    Reply(194);
    NOption(195, Node031, 4);
    NOption(196, Node001, 4); // Uncommented this line since Node001 is "fixed"
-end 
+end
 //end
 
 procedure Node031 begin

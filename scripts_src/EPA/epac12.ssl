@@ -206,7 +206,7 @@ variable waiting := 0;
 
 #define KITSUNE_HIB_HEX           (17102)
 #define KITSUNE_LOCKER_HEX        (15705)
-	      
+
 procedure timed_event_p_proc;
 
 procedure start begin
@@ -217,14 +217,14 @@ procedure push_p_proc begin
 end
 
 procedure critter_p_proc begin
-   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_KITSUNE)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_KITSUNE))) then begin 
+   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_KITSUNE)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_KITSUNE))) then begin
       set_map_var(MVAR_Kitty_Drug, 0);
       waiting := 1;
       if (get_critter_stat(self_obj, STAT_st) < 10) then begin
          use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
       end
-   end 
-   
+   end
+
    if( Perform_Critter_Float == 1 ) then begin
       Perform_Critter_Float := 0;
       // Float an appropriate message based on where we are.
@@ -277,24 +277,24 @@ procedure critter_p_proc begin
       else if( cur_map_index == MAP_VAULT_15 ) then
          call Node2023;
       else if( cur_map_index == MAP_ABBEY_OUTSIDE ) then
-         call Node2024;  
+         call Node2024;
       else if (cur_town == AREA_RND_DESERT) then
          call Node2025;
       else if (cur_town == AREA_RND_MOUNTAIN) then
          call Node2026;
       else if (cur_town == AREA_RND_COAST) then
          call Node2027;
-      else if( ( cur_map_index == MAP_RND_CAVERN0 ) or ( cur_map_index == MAP_RND_CAVERN1 ) or 
-      ( cur_map_index == MAP_RND_CAVERN2 ) or ( cur_map_index == MAP_RND_CAVERN3 ) or 
-      ( cur_map_index == MAP_RND_CAVERN4 ) or ( cur_map_index == MAP_RND_CAVERN5 )  or 
-      ( cur_map_index == MAP_RND_CAVERN_6 )  or ( cur_map_index == MAP_RND_CAVERN_7 ) or 
+      else if( ( cur_map_index == MAP_RND_CAVERN0 ) or ( cur_map_index == MAP_RND_CAVERN1 ) or
+      ( cur_map_index == MAP_RND_CAVERN2 ) or ( cur_map_index == MAP_RND_CAVERN3 ) or
+      ( cur_map_index == MAP_RND_CAVERN4 ) or ( cur_map_index == MAP_RND_CAVERN5 )  or
+      ( cur_map_index == MAP_RND_CAVERN_6 )  or ( cur_map_index == MAP_RND_CAVERN_7 ) or
       ( cur_map_index == MAP_ABBEY_CAVE ) ) then
          call Node2028;
       else if (cur_town == AREA_RND_CITY) then
          call Node2029;
    end
-     
-   
+
+
    if (local_var(LVAR_Herebefore) == 0) then begin
       call talk_p_proc;
    end else if (Kitsune_In_Party) then begin
@@ -364,7 +364,7 @@ procedure map_enter_p_proc begin
       Perform_Critter_Float := 1;
    else
       Perform_Critter_Float := 0;
-   
+
    flush_add_timer_event_sec(self_obj, random(25, 40), 1);
 end
 
@@ -396,13 +396,13 @@ procedure map_update_p_proc begin
          end
       end
    end
-   
+
    //added by killap - needed for "hacky fix" for kitty drug... :(
    if (waiting == 1) then begin
       waiting := 0;
    end
    //end added
-   
+
 end
 
 procedure kill_p_proc begin
@@ -439,20 +439,20 @@ procedure talk_p_proc begin
          end_dialogue;
       end
   end
-  
+
   if (Delete_Self == 1) then
    destroy_object(self_obj);
-   
+
   if (local_var(LVAR_Kill_NPC) == 1) then begin
       set_obj_visibility(self_obj,0); //visi
       call kill_p_proc;
   end
-   
+
    //B-team mod code
 /*loc2:= critter_inven_obj(self_obj, 2);
 if (loc2 == 0) then begin
    loc2 := critter_inven_obj(self_obj, 1);
-end 
+end
 if  (critter_inven_obj(self_obj,0)!=loc1) then
  begin
   if (critter_inven_obj(self_obj,0)== 0 ) then
@@ -511,7 +511,7 @@ if  (critter_inven_obj(self_obj,0)!=loc1) then
   end
  end*/
 //end B-team mod code
-   
+
 end
 
 procedure Node001 begin
@@ -722,7 +722,7 @@ end
 
 procedure Node035 begin
    Reply(322);
-   
+
    if (dude_iq > 6) then
       NOption(324,Node036,004);
    else
@@ -870,7 +870,7 @@ end
 
 procedure Node901 begin
    variable locker := 0;
-   
+
    if (dude_charisma <= 1) then begin
       Reply(470);
       NOption((g_mstr(352)), Node025b, 4);
@@ -883,11 +883,11 @@ procedure Node901 begin
       set_local_var(LVAR_Joined,1);
       floater(262);
    end
-   
+
    locker:=tile_contains_pid_obj(KITSUNE_LOCKER_HEX,dude_elevation,PID_LOCKER_CLEAN_LEFT);
    move_obj_inven_to_obj(locker, self_obj);
    obj_open( locker );
-   
+
    set_obj_visibility(self_obj,0); //visi
    destroy_object(tile_contains_pid_obj(KITSUNE_HIB_HEX,dude_elevation,33556339));
    chamber:=create_object_sid(33556343,KITSUNE_HIB_HEX,dude_elevation,-1);
@@ -899,7 +899,7 @@ procedure Node902 begin
    critter_mod_skill(dude_obj, SKILL_STEAL, 10);
    critter_mod_skill(dude_obj, SKILL_LOCKPICK, 10);
    game_time_advance(2*ONE_GAME_HOUR);
-   
+
    call Node053;
 end
 
@@ -1038,7 +1038,7 @@ procedure timed_event_p_proc begin
          end else if (Is_Crippled(self_obj)) then begin
             call Node5003;
          end else if (Is_Blind(self_obj)) then begin
-            call Node5004; 
+            call Node5004;
          end else if ( (Sulik_In_Party) and (random(1,2) == 2) ) then begin
             call Node3001;
          end else if ( (Vic_In_Party) and (random(1,2) == 2) ) then begin

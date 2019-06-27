@@ -271,14 +271,14 @@ procedure Node1100;
 #define add_myron_to_party                set_gave_stuff;   \
                                           party_add_self;  \
                                           inven_unwield(self_obj)
-                                          
+
 #define combined_pid_qty(the_pid)         (obj_is_carrying_obj_pid(dude_obj, the_pid) + obj_is_carrying_obj_pid(self_obj, the_pid))
 
 #define myron_attracted_to_dude           ((dude_is_female) and (dude_charisma > 5))
 
 // making drugs etc...
 #define total_antidote_ingreds            total_ingreds := combined_pid_qty(PID_SCORPION_TAIL);                 \
-                                          total_ingreds := total_ingreds + combined_pid_qty(PID_SMALL_SCORPION_TAIL) 
+                                          total_ingreds := total_ingreds + combined_pid_qty(PID_SMALL_SCORPION_TAIL)
 #define total_stimpak_ingreds             total_ingreds := combined_pid_qty(PID_BROC_FLOWER);                  \
                                           if (total_ingreds > combined_pid_qty(PID_XANDER_ROOT)) then          \
                                              total_ingreds := combined_pid_qty(PID_XANDER_ROOT);               \
@@ -462,7 +462,7 @@ procedure timed_event_p_proc begin
 end
 
 procedure map_update_p_proc begin
-   
+
    //added by killap
    if ( (cur_town == AREA_RENO_STABLES) ) then
       new_reno_myron_obj := self_obj;
@@ -495,13 +495,13 @@ procedure map_update_p_proc begin
          end
       end
    end
-   
+
    //added by killap - needed for "hacky fix" for kitty drug... :(
    if (waiting == 1) then begin
       waiting := 0;
    end
    //end added
-   
+
 end
 
 procedure map_enter_p_proc begin
@@ -514,43 +514,43 @@ procedure map_enter_p_proc begin
       nr_add_timer_event_rand(self_obj, 25, 45, float_param);
    end
    if (cur_town == AREA_RENO_STABLES) then new_reno_myron_obj := self_obj;
-   
+
    //added by killap - expansion
    if (cur_map_index == MAP_EPA) then begin
       if (map_first_run) then
          floater(4000);
    end
    //end added
-   
+
 end
 
 procedure critter_p_proc begin
    variable tmp1;
    variable tmp2;
    variable tmp;
-   
+
    //added by killap
-   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_MYRON)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_MYRON))) then begin 
+   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_MYRON)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_MYRON))) then begin
       set_map_var(MVAR_Kitty_Drug, 0);
       waiting := 1;
       if (get_critter_stat(self_obj, STAT_st) < 10) then begin
          use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
       end
-   end 
+   end
    //end added
-   
+
    //added by killap - not tested, but most likely required when Myron goes up a level
    //and changes protos.
    if (expand_carry_limit) then begin
       tmp1 := get_critter_extra_stat(self_obj, STAT_carry_amt);
       tmp2 := get_critter_base_stat(self_obj, STAT_carry_amt);
       if ( ((tmp1 + tmp2) > 124) and ((tmp1 + tmp2) < 135) ) then begin
-         tmp := get_critter_extra_stat(self_obj, STAT_carry_amt) + 10; 
+         tmp := get_critter_extra_stat(self_obj, STAT_carry_amt) + 10;
          set_critter_extra_stat(self_obj, STAT_carry_amt, tmp);
       end
    end
    //end added
-   
+
    if (Myron_In_Party) then begin
       if (myron_paused == false) then begin
          if (waiting != 1) then begin //check added by killap - needed for "hacky fix" for kitty drug... :(
@@ -652,17 +652,17 @@ procedure talk_p_proc begin
       set_gave_stuff;
    end
    nr_add_timer_event_rand(self_obj, 25, 45, float_param);
-   
+
    //begin B-team mod
    /*loc2:= critter_inven_obj(self_obj, 2);
    if (loc2 == 0) then begin
       loc2 := critter_inven_obj(self_obj, 1);
-   end 
+   end
    if  (critter_inven_obj(self_obj,0)!=loc1) then
     begin
      if (critter_inven_obj(self_obj,0)== 0 ) then
      begin
-     // Ustawianie grafiki dla golej postaci 
+     // Ustawianie grafiki dla golej postaci
      metarule3(107,self_obj,16777304,0);
      end
      //else

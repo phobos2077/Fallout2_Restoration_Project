@@ -106,7 +106,7 @@ procedure Node001
 begin
   gsay_reply(NAME, 100);
   giq_option(4, NAME, 101, Node002, 50);
-  
+
   if ((map_var(MVAR_Cat_Jules_Free) == 0) or (map_var(MVAR_Kitsune_Free) == 0) or (map_var(MVAR_Dex_Free) == 0)) then
     giq_option(4, NAME, 102, Node001a, 50);
   giq_option(4, NAME, 103, Node999, 50);
@@ -114,34 +114,34 @@ end
 
 procedure Node001a begin
   gsay_reply(NAME, 106);
-  
+
   if (global_var(GVAR_NEED_ERSI) == 0) then
     set_global_var(GVAR_NEED_ERSI,1);
-  
+
   if (obj_is_carrying_obj_pid(dude_obj,PID_ERSI) > 0) then begin
     giq_option(4, NAME, 116, Node001b, 50);
   end else begin
     giq_option(4, NAME, 117, Node001b, 50);
     giq_option(4, NAME, 120, Node999, 50);
   end
-    
+
   giq_option(4, NAME, 214, Node001, 50);
 
 end
 
 procedure Node001b
 begin
-  
+
   //variable tmp;
   gsay_reply(NAME, 300);
   if (map_var(MVAR_Cat_Jules_Free) == 0) then
    giq_option(4, NAME, 301, Node004, 50);
-  if (map_var(MVAR_Dex_Free) == 0) then 
+  if (map_var(MVAR_Dex_Free) == 0) then
    giq_option(4, NAME, 302, Node006, 50);
   if (map_var(MVAR_Kitsune_Free) == 0) then
    giq_option(4, NAME, 303, Node005, 50);
   giq_option(4, NAME, 214, Node001, 50);
-  
+
   /*
   if ((has_skill(dude_obj, SKILL_MELEE) > has_skill(dude_obj, SKILL_SNEAK)) and (has_skill(dude_obj, SKILL_MELEE) > has_skill(dude_obj, SKILL_CONVERSANT))) then
     call Node004;
@@ -212,7 +212,7 @@ begin
       end else if (from_node6) then begin
          set_map_var(MVAR_Dex_Free,2);
          from_node6 := false;
-      end   
+      end
       call Node003b;
    end
 end
@@ -244,12 +244,12 @@ begin
   from_node4 := true;
   //LVar1 := create_object_sid(PID_SPECIMEN_FROM_TANK_ONE, 17328, 2, -1);
   //critter_attempt_placement(LVar1, 17328, 2);
-  
+
   set_map_var(MVAR_Cat_Jules_Free,1);
-  
+
   destroy_object(tile_contains_pid_obj(CATJULES_HIB_HEX,dude_elevation,33556342));
   chamber:=create_object_sid(33556341,CATJULES_HIB_HEX,dude_elevation,-1);
-  
+
   gsay_reply(NAME, 110);
   giq_option(4, NAME, (g_mstr(353)), Node003, 50);
 end
@@ -261,10 +261,10 @@ begin
   from_node5 := true;
   //LVar1 := create_object_sid(PID_SPECIMEN_FROM_TANK_THREE, 17520, 2, -1);
   //critter_attempt_placement(LVar1, 17520, 2);
-  
+
   set_map_var(MVAR_Kitsune_Free,1);
 
-  
+
   destroy_object(tile_contains_pid_obj(KITSUNE_HIB_HEX,dude_elevation,33556337));
   chamber:=create_object_sid(33556339,KITSUNE_HIB_HEX,dude_elevation,-1);
   gsay_reply(NAME, 111);
@@ -279,12 +279,12 @@ begin
 //SCRIPT_EPAC11
   //LVar1 := create_object_sid(PID_SPECIMEN_FROM_TANK_TWO, 16729, dude_elevation, -1);
   //critter_attempt_placement(LVar1, 16729, dude_elevation);
-  
+
   set_map_var(MVAR_Dex_Free,1);
-  
+
   destroy_object(tile_contains_pid_obj(DEX_HIB_HEX,dude_elevation,33556338));
   chamber:=create_object_sid(33556340,DEX_HIB_HEX,dude_elevation,-1);
-  
+
   gsay_reply(NAME, 109);
   giq_option(4, NAME, (g_mstr(353)), Node003, 50);
 end

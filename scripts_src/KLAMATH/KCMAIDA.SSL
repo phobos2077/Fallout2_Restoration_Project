@@ -233,7 +233,7 @@ end
 procedure talk_p_proc begin
    script_overrides;
    GetReaction;
-   
+
    if ((REP_ENEMY_KLAMATH) or (local_var(LVAR_Personal_Enemy) == 1)) then begin
        call Node998;
    end
@@ -702,29 +702,29 @@ procedure Node022 begin
    end else begin
       call Node022a;
    end
-   
+
    /*if (local_var(LVAR_Torr_Left) == 1) then
       Reply(421);
    else if ((global_var(GVAR_TORR_GUARD_STATUS) < TORR_GUARD_ACCEPT))
       Reply(424);
    else if ((global_var(GVAR_SMILEY_STATUS) < SMILEY_RETURNED))
       Reply(420);
-   else 
+   else
       Reply(425);
-      
+
    if ((global_var(GVAR_TORR_GUARD_STATUS) < TORR_GUARD_ACCEPT)) then
       NOption(426,Node005,004);
    if ((global_var(GVAR_SMILEY_STATUS) < SMILEY_RETURNED)) then
       NOption(422,Node005,004);
    if (local_var(LVAR_Torr_Left) == 1) then
       NOption(423,Node005,004);
-   
+
    if (local_var(LVAR_Told_Player) < 3) then begin
       NOption(427,Node005,004);
       set_local_var(LVAR_Told_Player,local_var(LVAR_Told_Player) + 1);
    end
    NOption(428,Node005,004);*/
-      
+
 end
 
 procedure Node022a begin
@@ -806,7 +806,7 @@ end
 procedure Node030 begin
    Reply(510);
    //NLowOption(600,Node004);
-   
+
    //added by killap
    NOption(511,Node005,004);
    NOption(512,Node029,004);
@@ -840,7 +840,7 @@ procedure Node034 begin
    set_global_var(GVAR_SULIK_FREE,1);
    KC_REP_ADJUST(10)
    give_xp(EXP_KC_FREE_SULIK); //added aug 06
-   
+
    Reply(550);
    GOption(392,Node980,004);
    BOption(393,Node985,004);

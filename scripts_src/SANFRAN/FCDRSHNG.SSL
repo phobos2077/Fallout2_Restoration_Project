@@ -78,7 +78,7 @@ procedure Node016;
 procedure Node017;
 procedure Node017a;
 procedure Node018;
-procedure Node019; 
+procedure Node019;
 procedure Node020;
 procedure Node021;
 procedure Node022;
@@ -153,7 +153,7 @@ end
 
 procedure use_obj_on_p_proc begin
    variable Tool;
-   
+
    if (global_var(GVAR_SHI_ELIMINATE_DR_WONG) > 0) then begin
       Tool:=obj_pid(obj_being_used_with);
       if (Tool == PID_HYPO_POISON) then begin
@@ -184,9 +184,9 @@ procedure destroy_p_proc begin
 
 /* Increment the aligned critter counter*/
    inc_evil_critter
-   
+
    set_san_fran_flag(SF_SHENG_MING_DEAD);
-   
+
    if (global_var(GVAR_SHI_DELIVER_SEEDS_TO_DR_SHENG) > 0) then
      set_global_var(GVAR_SHI_DELIVER_SEEDS_TO_DR_SHENG,PLANT_QUEST_DELIVERED_SEEDS_TO_DRSHENG);
    if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) < PLANT_QUEST_DELIVERED_SEED_SAMPLE_DESTROYED) )then
@@ -236,25 +236,25 @@ procedure talk_p_proc begin
       gSay_Start;
          call Node042;
       gSay_End;
-      end_dialogue;      
+      end_dialogue;
    end else if (global_var(GVAR_SHI_DELIVER_SEEDS_TO_DR_SHENG) == PLANT_QUEST_GET_SEEDS_FOR_DRSHENG) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
          call Node016;
       gSay_End;
-      end_dialogue;   
+      end_dialogue;
    end else if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) >= PLANT_QUEST_RETURN_TO_DRWONG) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
          call Node025;
       gSay_End;
-      end_dialogue;   
+      end_dialogue;
    end else begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
          call Node001;
       gSay_End;
-      end_dialogue;   
+      end_dialogue;
    end
    set_local_var(LVAR_Herebefore,1);
 end
@@ -265,7 +265,7 @@ procedure Node998 begin
   if (self_elevation == 0) then begin
     critter_attempt_placement(creature_1,19495,0);
     critter_attempt_placement(creature_2,19094,0);
-    critter_attempt_placement(creature_3,19093,0);  
+    critter_attempt_placement(creature_3,19093,0);
   end
 end
 
@@ -402,13 +402,13 @@ procedure Node018 begin
    variable JunkIt;
    item:=obj_carrying_pid_obj(dude_obj,PID_EXPERIMENTAL_SEEDS);
    JunkIt:=rm_mult_objs_from_inven(dude_obj,item,1);
-   destroy_object(item);   
+   destroy_object(item);
    set_global_var(GVAR_SHI_DELIVER_SEEDS_TO_DR_SHENG,PLANT_QUEST_DELIVERED_SEEDS_TO_DRSHENG);
    game_time_advance(ONE_GAME_HOUR);
-   
+
    display_msg(mstr(710));
    give_xp(EXP_DELIVER_SEEDS_TO_DR_SHENG);
-   
+
    Reply(370);
    NOption(371, Node019, 4);
    BOption(372, Node012, 4);
@@ -431,7 +431,7 @@ end
 procedure givePlayerSeed begin
    variable item;
    item := create_object(PID_DR_SHENG_PLANT_SEED,0,0);
-   add_obj_to_inven(dude_obj,item);  
+   add_obj_to_inven(dude_obj,item);
    set_global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG,PLANT_QUEST_RETURN_TO_DRWONG);
 end
 
@@ -480,7 +480,7 @@ procedure Node025 begin
    else if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_DELIVERED_SEED_SAMPLE) then
       NOption(442, Node037, 4);
    else if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_DELIVERED_SEED_SAMPLE_DESTROYED) then
-      BOption(446, Node017a, 4);      
+      BOption(446, Node017a, 4);
    else if (gvar_bit(GVAR_SAN_FRAN_FLAGS, SF_WONG_YI_TZE_DEAD)) then
       NOption(445, Node045, 4);
    else

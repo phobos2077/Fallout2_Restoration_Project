@@ -405,7 +405,7 @@ procedure Node011 begin
       NOption(145, Node015, 4);
    if (global_var(GVAR_NCR_MIRA_STATE) == MJACKTALK) then
       NOption(146, Node016, 4);
-   
+
 
    if (dude_charisma < 8 and local_var(LVAR_Herebefore) == 0) then //added by killap
       NOption(147, Node999, 4);

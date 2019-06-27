@@ -91,7 +91,7 @@ variable step := 0; //added by killap
 variable came_from := 0; //added by killap
 
 #define CHECK_ON_COMMANDER  555 //added by killap
-   
+
 procedure start begin
 end
 
@@ -258,7 +258,7 @@ procedure Node001 begin
    if (local_var(LVAR_Secure_Clean) == 1) then
       NOption(110,Node997,004); //edit by killap - was 010
    NOption(111,Node999,004);
-   
+
    came_from := 1;
 end
 
@@ -281,7 +281,7 @@ procedure Node003 begin
    if ( (global_var(GVAR_NAVARRO_FOB) == NAVARRO_NEED_FOB) and (map_var(MVAR_Secure) != 1) ) then //added (map_var(MVAR_Secure) != 1) - killap
       NOption(122,Node997,004); //edit by killap - was 007
    NOption(123,Node999,004);
-   
+
    came_from := 3;
 end
 
@@ -404,7 +404,7 @@ procedure Node997 begin
    if (commander_ptr == 0) then begin
       NMessage(200);
       add_timer_event(self_obj, game_ticks(1), CHECK_ON_COMMANDER);
-   end 
+   end
    else begin
       if (came_from == 1) then
          call Node010;

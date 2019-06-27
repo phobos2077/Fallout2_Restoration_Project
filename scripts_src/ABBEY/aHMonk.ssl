@@ -93,7 +93,7 @@ end
 procedure look_at_p_proc
 begin
  script_overrides;
- display_msg(mstr(100)); 
+ display_msg(mstr(100));
 end
 
 procedure description_p_proc
@@ -194,7 +194,7 @@ begin
  Reply(300 + (2700*more_info));
 
  if (global_var(GVAR_ABBEY_PUMP) == PUMP_FIXED) then
-   NOption(600,Node016,4);  
+   NOption(600,Node016,4);
  NOption(301,Node002,4);
  NOption(302,Node003a,4);
  NOption(303,Node004,4);
@@ -225,19 +225,19 @@ end
 procedure Node003b
 begin
  Reply(402);
- NOption(403,Node005,4); 
+ NOption(403,Node005,4);
 end
 
 procedure Node004
 begin
  Reply(404);
- NOption(405,Node001,4); 
+ NOption(405,Node001,4);
 end
 
 procedure Node005
 begin
  Reply(406);
- NOption(407,Node006,4); 
+ NOption(407,Node006,4);
 end
 
 procedure Node006
@@ -273,7 +273,7 @@ end
 
 procedure Node009 begin
    Reply(416);
-   
+
    NLowOption(1000,Node026);
 
    if (local_var(LVAR_Find_Book)) then begin
@@ -296,7 +296,7 @@ end
 procedure Node011 begin
    variable item;
    more_info := 1;
-   
+
    item:=obj_carrying_pid_obj(dude_obj, PID_ABBEY_MISSING_BOOK);
    rm_obj_from_inven(dude_obj,item);
    destroy_object(item);
@@ -304,7 +304,7 @@ procedure Node011 begin
    set_global_var(GVAR_ABBEY_BEAST, 4);
    inc_global_var_amt(GVAR_TOWN_REP_ABBEY,10);
    inc_general_rep(5);
-    
+
    Reply(421);
    NOption(422,Node997,4);
    NOption(1113,Node001,4);
@@ -313,7 +313,7 @@ end
 procedure Node012 begin
    variable item;
    more_info := 1;
-   
+
    item:=obj_carrying_pid_obj(dude_obj, PID_ABBEY_MISSING_BOOK);
    rm_obj_from_inven(dude_obj,item);
    give_pid_qty(dude_obj,41,250)
@@ -427,11 +427,11 @@ procedure Node017a begin
    inc_global_var_amt(GVAR_TOWN_REP_ABBEY,5);
    inc_general_rep(3);
    give_xp(50);
-   
+
    Reply(701);
    NOption(702,Node999,4);
    NOption(1113,Node001,4);
-   
+
 end
 
 procedure Node018 begin
@@ -485,7 +485,7 @@ end
 procedure Node024b begin
    Reply(454);
    NOption(457,Node002,4);
-   set_local_var(LVAR_Explained_Knowledge,2);  
+   set_local_var(LVAR_Explained_Knowledge,2);
 end
 
 procedure Node025 begin
@@ -496,12 +496,12 @@ procedure Node025 begin
    set_local_var(LVAR_Learn_Of_Founders,1);
 end
 
-procedure Node026 begin 
+procedure Node026 begin
    Reply(1010 + dude_is_female);
    NOption(1012,Node027,1);
 end
 
-procedure Node027 begin 
+procedure Node027 begin
    Reply(1020);
    if ((obj_is_carrying_obj_pid(dude_obj,PID_ABBEY_MISSING_BOOK))) then begin
       NOption(1021,Node029,1);
@@ -512,26 +512,26 @@ procedure Node027 begin
 end
 
 procedure Node028 begin
-  
+
    Reply(416);
    if ((obj_is_carrying_obj_pid(dude_obj,PID_ABBEY_MISSING_BOOK))) then
       NOption(1030,Node029,1);
-   
+
 end
 
-procedure Node029 begin 
+procedure Node029 begin
 variable item;
    item:=obj_carrying_pid_obj(dude_obj, PID_ABBEY_MISSING_BOOK);
    rm_obj_from_inven(dude_obj,item);
    destroy_object(item);
-      
+
    //give_pid_qty(dude_obj,140,1)
    set_global_var(GVAR_ABBEY_BEAST, 4);
    inc_global_var_amt(GVAR_TOWN_REP_ABBEY,10);
    inc_general_rep(5);
    give_exp_points(200);
    display_msg(mstr(501));
-   
+
    Reply(1031 + dude_is_female);
    NOption(1033,Node999,1);
 end

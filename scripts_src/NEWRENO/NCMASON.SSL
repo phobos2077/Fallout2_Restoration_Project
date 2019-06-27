@@ -805,7 +805,7 @@ procedure Node047 begin
 end
 procedure Node048 begin
    //   set_guard_time; // Commented (c) Avega
-   set_local_var(LVAR_Guard_Counter, game_time_hour + 24); //(c) Avega 
+   set_local_var(LVAR_Guard_Counter, game_time_hour + 24); //(c) Avega
    Reply(685);
    NOption(686, Node999, 004);
    prev_node := 48;

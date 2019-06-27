@@ -299,12 +299,12 @@ end
 procedure Node009 begin
    set_map_var( MVAR_Quincy_Allows_Plans, 1 );
    set_map_var(MVAR_See_Me,1);
-   
+
    //added by killap
    if (map_var(MVAR_Plans) == 1) then
       set_map_var(MVAR_Plans,2);
    //end added
-   
+
    Reply(143);
 
    NOption(144,Node999,001);

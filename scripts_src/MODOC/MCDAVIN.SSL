@@ -123,7 +123,7 @@ procedure timed_event_p_proc begin
          if (Davin_In_Party) then begin
             if (Is_Crippled(self_obj)) then
                floater(2000);
-            else if (get_critter_stat(self_obj, STAT_current_rad)) then 
+            else if (get_critter_stat(self_obj, STAT_current_rad)) then
                floater(2001);
             else if (get_poison(self_obj)) then
                floater(2002);
@@ -162,7 +162,7 @@ procedure map_enter_p_proc begin
          check_show_ghost_farm_attackers
       end
    end
-   
+
    //added by killap
    add_timer_event(self_obj, random(25, 40), 900);
 end
@@ -195,23 +195,23 @@ procedure map_update_p_proc begin
          end
       end
    end
-   
+
    //added by killap - needed for "hacky fix" for kitty drug... :(
    if (waiting == 1) then begin
       waiting := 0;
    end
-   //end added  
+   //end added
 end
 
 procedure critter_p_proc begin
    //added by killap
-   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_DAVIN)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_DAVIN))) then begin 
+   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_DAVIN)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_DAVIN))) then begin
       set_map_var(MVAR_Kitty_Drug, 0);
       waiting := 1;
       if (get_critter_stat(self_obj, STAT_st) < 10) then begin
          use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
       end
-   end 
+   end
    //end added
 
    if (Davin_In_Party) then begin

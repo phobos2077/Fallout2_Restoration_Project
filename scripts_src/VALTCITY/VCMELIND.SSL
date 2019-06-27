@@ -130,12 +130,12 @@ procedure critter_p_proc begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
-   
+
    if( self_can_see_dude ) then begin
       Face_Critter( dude_obj, self_obj );
       set_watcher( Greeting_Watcher )
    end
-   
+
 end
 
 /* Whenever the critter takes damage of any type, this procedure will be called. Things

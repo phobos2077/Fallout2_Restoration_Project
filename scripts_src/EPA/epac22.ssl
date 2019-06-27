@@ -158,7 +158,7 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   
+
    if (global_var(GVAR_KILL_HOLOGRAMS)==1) then begin
        destroy_object(self_obj);
    end
@@ -273,8 +273,8 @@ procedure Node010 begin
    //if (obj_is_carrying_obj_pid(dude_obj,PID_RADIO_DYNAMITE)) then
    //   NOption(336,Node018,004);
 
-   NOption(337,Node006,004);   
-   
+   NOption(337,Node006,004);
+
 end
 
 procedure Node011 begin

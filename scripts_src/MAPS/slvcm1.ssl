@@ -5,7 +5,7 @@
         Description: Opis
 
         Log:
-           
+
 
            Created:
 
@@ -43,7 +43,7 @@ end
 procedure map_enter_p_proc begin
    variable Critter;
    variable item;
-   
+
    //help rangers attack camp
    if (global_var(GVAR_LOAD_MAP_INDEX) == 5) then begin
       set_map_var(MVAR_Came_With_Rangers,1);
@@ -57,7 +57,7 @@ procedure map_enter_p_proc begin
       add_obj_to_inven(Critter,item);
       item:=create_object(PID_STIMPAK,0,0);
       add_obj_to_inven(Critter,item);
-      
+
       Critter := create_object_sid(PID_FEMALE_NCR_RANGER,17087,elevation(dude_obj),SCRIPT_SCATKRNG);
       critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
       item:=create_object(PID_ASSAULT_RIFLE,0,0);
@@ -67,16 +67,16 @@ procedure map_enter_p_proc begin
       add_obj_to_inven(Critter,item);
       item:=create_object(PID_STIMPAK,0,0);
       add_obj_to_inven(Critter,item);
-      
+
       set_map_var(MVAR_Attack_Slavers,1);
 
    end
-   
+
    if (map_first_run) then begin
       display_msg(mstr(100));
       set_map_var(MVAR_Slaver_Count,10);
    end
-   
+
    Check_Create_Car(CAR_SLAVER_CAMP_HEX, CAR_SLAVER_CAMP_ELEV)
 
    Lighting;
@@ -87,7 +87,7 @@ procedure map_update_p_proc
 begin
    Lighting;
 end
- 
+
 procedure map_exit_p_proc
 begin
 end

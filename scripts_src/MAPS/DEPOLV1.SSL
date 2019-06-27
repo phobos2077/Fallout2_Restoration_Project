@@ -59,11 +59,11 @@ procedure map_enter_p_proc begin
       Create_Car(CAR_SIERRA_ARMY_BASE_HEX,CAR_SIERRA_ARMY_BASE_ELEV)
       if (tile_contains_pid_obj(CAR_SIERRA_ARMY_BASE_HEX, CAR_SIERRA_ARMY_BASE_ELEV, PID_DRIVABLE_CAR) != 0) then begin
          Create_Trunk(CAR_SIERRA_ARMY_BASE_HEX,CAR_SIERRA_ARMY_BASE_ELEV)
-      end 
-   end else 
+      end
+   end else
       Check_Create_Car(CAR_SIERRA_ARMY_BASE_HEX, CAR_SIERRA_ARMY_BASE_ELEV)
    //end added
-   
+
    //Check_Create_Car(CAR_SIERRA_ARMY_BASE_HEX, CAR_SIERRA_ARMY_BASE_ELEV)
 
    set_global_var(GVAR_LOAD_MAP_INDEX,0);

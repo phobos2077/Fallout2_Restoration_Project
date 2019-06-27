@@ -179,7 +179,7 @@ procedure critter_p_proc begin
       set_local_var(LVAR_Said_Once,1);
       floater(random(150,151));
    end
-   
+
 end
 
 
@@ -228,7 +228,7 @@ end
 
 procedure Node005 begin
    Reply(350);
-   
+
    if (sub_flag(SHI_SUB_WITH_CREW)) then
       NOption(351, Node993, 4);
    NOption(352, Node999, 4);

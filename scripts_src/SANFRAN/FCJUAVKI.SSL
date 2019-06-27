@@ -188,7 +188,7 @@ procedure map_enter_p_proc begin
 end
 
 
-   
+
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
    Movement to attacking the player on sight can be placed in here.*/
 procedure critter_p_proc begin

@@ -189,18 +189,18 @@ procedure timed_event_p_proc begin
       script_overrides;
       reg_anim_clear(self_obj);
       reg_anim_begin();
-         reg_anim_animate(self_obj, 2, -1); 
+         reg_anim_animate(self_obj, 2, -1);
          reg_anim_play_sfx(self_obj, "zippo", 10);
-      reg_anim_end(); 
+      reg_anim_end();
    end else if (fixed_param == SMOKE_POWER) then begin
       script_overrides;
    	reg_anim_clear(self_obj);
    	reg_anim_begin();
    	reg_anim_animate(self_obj, 5, -1);
-   	reg_anim_play_sfx(self_obj, "powr", 6);   
-   	reg_anim_animate(self_obj, 2, -1); 
-   	reg_anim_play_sfx(self_obj, "zippo", 9); 
-   	reg_anim_animate_reverse(self_obj, 5, -1); 
+   	reg_anim_play_sfx(self_obj, "powr", 6);
+   	reg_anim_animate(self_obj, 2, -1);
+   	reg_anim_play_sfx(self_obj, "zippo", 9);
+   	reg_anim_animate_reverse(self_obj, 5, -1);
    	reg_anim_play_sfx(self_obj, "powrb", 8);
    	reg_anim_end();
    end else if (fixed_param == HIGH_SEQUENCE) then begin
@@ -246,16 +246,16 @@ procedure timed_event_p_proc begin
          game_time_advance((13 - dude_endurance)* ONE_GAME_HOUR);
          gfade_in(600);
       end
-      
+
       count := count + 1;
-            
+
       if (count > 10) then begin
          count := 0;
          game_ui_enable;
       end else begin
          add_timer_event(self_obj, game_ticks(4), HIGH_SEQUENCE);
       end
-      
+
    end
    //end added by killap
 end
@@ -308,7 +308,7 @@ procedure map_update_p_proc begin
          give_exp_points(EXP_GOT_GECK);
       end
    end
-   
+
 end
 
 
@@ -342,7 +342,7 @@ procedure critter_p_proc begin
             end
          end
       end
-   end 
+   end
    //end added
 
    if (global_var(GVAR_DUDE_START_SEQ_1) != 0) then begin
@@ -398,7 +398,7 @@ end
 procedure use_obj_on_p_proc begin
    variable temp;
 
-   //added by killap - expansion 
+   //added by killap - expansion
    //- player has 10% chance of becoming addicted to alcohol
    if ( (obj_pid(obj_being_used_with) == PID_BEER) or (obj_pid(obj_being_used_with) == PID_BOOZE) or
    (obj_pid(obj_being_used_with) == PID_GAMMA_GULP_BEER) or (obj_pid(obj_being_used_with) == PID_ABBEY_BOOZE) or
@@ -416,7 +416,7 @@ procedure use_obj_on_p_proc begin
       end
    end
    //end added
-         
+
    if (source_obj == dude_obj) then begin
       // this is related to filling the player's stomach when they eat
       if (pid_is_drink_pid(obj_being_used_with)) then begin
@@ -432,9 +432,9 @@ procedure use_obj_on_p_proc begin
       end else if (pid_is_huge_meal(obj_being_used_with)) then begin
          dude_eat_food(huge_meal);
       end
-      
-      
-      //added by killap - expansion 
+
+
+      //added by killap - expansion
       //pop rock/soda explosion
       if (obj_pid(obj_being_used_with) == PID_POP_ROCKS) then begin
          script_overrides;
@@ -442,7 +442,7 @@ procedure use_obj_on_p_proc begin
          destroy_object(obj_being_used_with);
          set_global_var(692,1);
       end
-      
+
       if (obj_pid(obj_being_used_with) == PID_NUKA_COLA) then begin
          if (global_var(692) > 0) then begin
             script_overrides;
@@ -451,7 +451,7 @@ procedure use_obj_on_p_proc begin
          end
          set_global_var(692,2);
       end
-      
+
       //smoking animations - regular cigs
       if ((dude_is_male) and (obj_pid(obj_being_used_with) == PID_CIGARETTE)) then begin
          if not (combat_is_initialized) then begin
@@ -461,36 +461,36 @@ procedure use_obj_on_p_proc begin
             	  display_msg(message_str(SCRIPT_ZISMOKE, 100));
             	else
             	  display_msg(message_str(SCRIPT_ZISMOKE, 101));
-            	
-            	add_timer_event(dude_obj, 1, SMOKE_POWER);  
-            	
+
+            	add_timer_event(dude_obj, 1, SMOKE_POWER);
+
             	set_local_var(LVAR_Smoke_Count,local_var(LVAR_Smoke_Count)+1);
-            
+
             	if ((local_var(LVAR_Smoke_Count)%10) == 0) then begin
                   script_overrides;
                   display_msg(message_str(SCRIPT_ZISMOKE, 103));
                   set_global_var(773,1);
                   rm_obj_from_inven(dude_obj,obj_being_used_with);
                end
-                  
+
             end
-               
+
             else if ( (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_ADVANCED_POWER_ARMOR) or (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_ADVANCED_POWER_ARMOR_MK2) ) then begin
             	script_overrides;
                display_msg(message_str(SCRIPT_ZISMOKE, 102));
             end
-            
+
             else if ((source_obj == dude_obj) and (obj_is_carrying_obj_pid(dude_obj, PID_LIGHTER) >= 1)) then begin
             	script_overrides;
             	if (local_var(LVAR_Smoke_Count) == 0) then
             	  display_msg(message_str(SCRIPT_ZISMOKE, 100));
             	else
             	  display_msg(message_str(SCRIPT_ZISMOKE, 101));
-            	  
-            	add_timer_event(dude_obj, 1, SMOKE_NONPOWER);  
+
+            	add_timer_event(dude_obj, 1, SMOKE_NONPOWER);
 
             	set_local_var(LVAR_Smoke_Count,local_var(LVAR_Smoke_Count)+1);
-         
+
                if ((local_var(LVAR_Smoke_Count)%10) == 0) then begin
                   script_overrides;
                   display_msg(message_str(SCRIPT_ZISMOKE, 103));
@@ -498,15 +498,15 @@ procedure use_obj_on_p_proc begin
                   rm_obj_from_inven(dude_obj,obj_being_used_with);
                end
             end
-            
+
             if (obj_is_carrying_obj_pid(dude_obj, PID_LIGHTER) == 0) then begin
                script_overrides;
                display_msg(message_str(SCRIPT_ZISMOKE, 104));
             end
-   
+
          end
       end
-      
+
       //smoking animations - marijuana from EPA
       if ((dude_is_male) and (obj_pid(obj_being_used_with) == PID_DRUGS)) then begin
          if not (combat_is_initialized) then begin
@@ -514,43 +514,43 @@ procedure use_obj_on_p_proc begin
             if ( ((obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_POWERED_ARMOR) or (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_HARDENED_POWER_ARMOR)) and (obj_is_carrying_obj_pid(dude_obj, PID_LIGHTER) >= 1)) then begin
             	script_overrides;
             	display_msg(message_str(SCRIPT_ZISMOKE, 200));
-            	
-            	add_timer_event(dude_obj, 1, SMOKE_POWER);  
+
+            	add_timer_event(dude_obj, 1, SMOKE_POWER);
 
             end
-               
+
             else if ( (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_ADVANCED_POWER_ARMOR) or (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_ADVANCED_POWER_ARMOR_MK2) ) then begin
             	script_overrides;
                display_msg(message_str(SCRIPT_ZISMOKE, 102));
             end
-            
+
             else if ((source_obj == dude_obj) and (obj_is_carrying_obj_pid(dude_obj, PID_LIGHTER) >= 1)) then begin
             	script_overrides;
             	display_msg(message_str(SCRIPT_ZISMOKE, 200));
 
-            	add_timer_event(dude_obj, 1, SMOKE_NONPOWER);  
+            	add_timer_event(dude_obj, 1, SMOKE_NONPOWER);
 
             end
-            
+
             if (obj_is_carrying_obj_pid(dude_obj, PID_LIGHTER) == 0) then begin
                script_overrides;
                display_msg(message_str(SCRIPT_ZISMOKE, 104));
                game_ui_enable;
             end
-            
+
             count := count + 1;
-            
+
             if (count > 10) then begin
                count := 0;
             end else begin
                add_timer_event(self_obj, game_ticks(3), HIGH_SEQUENCE);
             end
-            
+
             rm_obj_from_inven(dude_obj,obj_being_used_with);
          end
       end
       //end added
-      
+
       //fix for items that have scripts attached - believed that this is the cause of the "too many items bug" - killap
       if (not(combat_is_initialized)) then begin
          if (obj_pid(obj_being_used_with) == PID_ANNA_DIARY) then begin //added in RP

@@ -107,14 +107,14 @@ procedure map_enter_p_proc begin
    Only_Once:=0;
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_REDDING);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
-   
+
    //added by killap - expansion
    if (((game_time_hour < 1200) or (game_time_hour > 1700)) and (Watching_Mole_Rats_Fight)) then begin
       set_obj_visibility( self_obj, true ); //invis
    end else begin
       set_obj_visibility( self_obj, false ); //vis
    end
-   
+
    if (map_first_run) then begin
       inc_global_var(GVAR_REDDING_GENPES_COUNT);
    end
@@ -171,7 +171,7 @@ procedure talk_p_proc begin
    //added by killap
    assign_personality
    //end added
-   
+
    if (local_var(LVAR_Personality) == Personality_Child) then begin
        if (dude_is_male) then
            floater(random(215,227));
@@ -211,7 +211,7 @@ procedure destroy_p_proc begin
 /* Increment the aligned critter counter*/
    inc_good_critter
    set_global_var(GVAR_ENEMY_REDDING,1);
-   
+
    //added by killap - expansion
    dec_global_var(GVAR_REDDING_GENPES_COUNT);
    //end added
@@ -237,8 +237,8 @@ procedure description_p_proc begin
    //added by killap
    assign_personality
    //end added
-   display_msg(mstr(local_var(LVAR_Look_At))); 
-   
+   display_msg(mstr(local_var(LVAR_Look_At)));
+
    //script_overrides;
    //display_msg(mstr(local_var(LVAR_Look_At)));
 end

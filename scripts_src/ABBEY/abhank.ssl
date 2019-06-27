@@ -100,7 +100,7 @@ procedure timed_event_p_proc begin
          drinks_this_conversation -= 1;
          use_obj_on_obj(create_object(PID_ABBEY_BOOZE,0,0), dude_obj);
          flush_add_timer_event_sec(self_obj, 1, 999);
-      end 
+      end
    end
 end
 
@@ -184,7 +184,7 @@ procedure critter_p_proc begin
       animate_move_to_tile(local_var(LVAR_Home_Tile));
    end else if (self_cur_rot != local_var(LVAR_Home_Rotation) and drinks_this_conversation == 0) then begin
       animate_rotation(local_var(LVAR_Home_Rotation));
-   end 
+   end
 end
 
 /**************************************************************************************
@@ -216,13 +216,13 @@ procedure Node001 begin
       Reply(200);
    else
       Reply(220);
-      
+
    if (obj_is_carrying_obj_pid(dude_obj, PID_LIGHTER )) then begin
       GOption(201,Node002,004);
       NLowOption(800,Node015);
    end
-      
-   if (global_var(GVAR_ABBEY_LIGHTER) == 0) then 
+
+   if (global_var(GVAR_ABBEY_LIGHTER) == 0) then
       NOption(212,Node010,004);
    else
       NOption(212,Node999,004);
@@ -253,7 +253,7 @@ end
 procedure Node005 begin
    if (global_var(GVAR_ABBEY_BOOZE) == 0) then
       set_global_var(GVAR_ABBEY_BOOZE,1);
-      
+
    inc_local_var( LVAR_Abbey_Alcohol );
    drinks_this_conversation += 1;
 
@@ -342,7 +342,7 @@ procedure Node013 begin
       set_local_var(LVAR_Said_Thanks,1);
    end else
       Reply(501);
-      
+
    NOption(250,Node014,004);
    NOption(251,Node999,004);
 end
@@ -352,7 +352,7 @@ procedure Node014 begin
    if (dude_caps >= 20) then
      NOption(216,Node012,004);
    else
-     NOption(219,Node999,004);   
+     NOption(219,Node999,004);
    NOption(206,Node999,004);
 end
 
@@ -379,7 +379,7 @@ procedure Node005a begin
       set_global_var(GVAR_ABBEY_BOOZE,1);
    item:=create_object(PID_ABBEY_BOOZE,0,0);
    add_obj_to_inven(dude_obj,item);
-   
+
    if (global_var(GVAR_ABBEY_BOOZE) == 2) then
       set_global_var(GVAR_ABBEY_BOOZE,3);
 end

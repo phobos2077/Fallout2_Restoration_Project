@@ -37,8 +37,8 @@ procedure map_enter_p_proc begin
       Create_Car(CAR_VAULT_13_HEX,CAR_VAULT_13_ELEV)
       if (tile_contains_pid_obj(CAR_VAULT_13_HEX, CAR_VAULT_13_ELEV, PID_DRIVABLE_CAR) != 0) then begin
          Create_Trunk(CAR_VAULT_13_HEX,CAR_VAULT_13_ELEV)
-      end 
-   end else 
+      end
+   end else
       Check_Create_Car(CAR_VAULT_13_HEX, CAR_VAULT_13_ELEV)
    //end added
    //Check_Create_Car(CAR_VAULT_13_HEX, CAR_VAULT_13_ELEV)

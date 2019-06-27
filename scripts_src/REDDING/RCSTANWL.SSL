@@ -264,7 +264,7 @@ procedure talk_p_proc begin
    CheckKarma;
 
    GetReaction;
-   
+
    //killap code
    if ((global_var(CURRENT_CARAVAN) != REDDING_CARAVAN_NONE) and (global_var(CURRENT_CARAVAN) != REDDING_CARAVAN_ABANDONED) and (global_var(CURRENT_CARAVAN) != REDDING_CARAVAN_THEFT) and (not(cur_map_index == MAP_BH_RND_DESERT))) then begin
       if ((caravan_guards_left < (caravan_total_guards/4)) or (caravan_brahmin_left < ((caravan_total_brahmin*4)/10))) then
@@ -279,7 +279,7 @@ procedure talk_p_proc begin
          set_global_var(CURRENT_CARAVAN,REDDING_CARAVAN_AVERAGE_SUCCESS);
    end
    //end killap code
-         
+
    if ((global_var(CURRENT_CARAVAN) == REDDING_CARAVAN_ON_CARAVAN) or (cur_map_index == MAP_BH_RND_DESERT)) then begin
        call Node004;
    end
@@ -508,7 +508,7 @@ end
 
 procedure Node005 begin
    set_local_var(LVAR_No_More_Caravans,1);   //killap
-   
+
    if (local_var(LVAR_Said_5) == 0) then begin
        inc_local_var(LVAR_Said_5);
        floater(120);
@@ -520,7 +520,7 @@ end
 procedure Node006 begin
 //   set_global_var(CURRENT_CARAVAN,REDDING_CARAVAN_NONE);  not needed, since when set you can go on another of his caravans - killap
    set_local_var(LVAR_No_More_Caravans,1); //added by killap
-   
+
    Reply(122);
 
    NOption(123,Node999,004);

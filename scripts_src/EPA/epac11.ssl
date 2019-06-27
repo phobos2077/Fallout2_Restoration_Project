@@ -109,10 +109,10 @@ variable Perform_Critter_Float := 0;
 variable Delete_Self := 0;
 variable chamber := 0;
 variable waiting := 0;
-   
+
 #define CATJULES_HIB_HEX         (17096)
 #define CATJULES_LOCKER_HEX      (15700)
-   
+
 procedure timed_event_p_proc;
 
 procedure start begin
@@ -124,13 +124,13 @@ procedure push_p_proc begin
 end
 
 procedure critter_p_proc begin
-   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_CAT_JULES)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_CAT_JULES))) then begin 
+   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_CAT_JULES)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_CAT_JULES))) then begin
       set_map_var(MVAR_Kitty_Drug, 0);
       waiting := 1;
       if (get_critter_stat(self_obj, STAT_st) < 10) then begin
          use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
       end
-   end 
+   end
 
    if( Perform_Critter_Float == 1 ) then begin
       Perform_Critter_Float := 0;
@@ -154,7 +154,7 @@ procedure critter_p_proc begin
          end
       end
    end
-   
+
 end
 
 
@@ -178,7 +178,7 @@ procedure use_obj_on_p_proc begin
       script_overrides;
       display_msg(g_mstr(20000));
    end
-   
+
 end
 
 procedure damage_p_proc
@@ -192,7 +192,7 @@ procedure map_enter_p_proc begin
       Perform_Critter_Float := 1;
    else
       Perform_Critter_Float := 0;
-   
+
    flush_add_timer_event_sec(self_obj, random(25, 40), 1);
 end
 
@@ -224,13 +224,13 @@ procedure map_update_p_proc begin
          end
       end
    end
-   
+
    //added by killap - needed for "hacky fix" for kitty drug... :(
    if (waiting == 1) then begin
       waiting := 0;
    end
    //end added
-   
+
 end
 
 procedure kill_p_proc begin
@@ -267,20 +267,20 @@ procedure talk_p_proc begin
          end_dialogue;
       end
   end
-  
+
   if (Delete_Self == 1) then
    destroy_object(self_obj);
-   
+
   if (local_var(LVAR_Kill_NPC) == 1) then begin
       set_obj_visibility(self_obj,0); //visi
       call kill_p_proc;
   end
-  
+
 //B-team mod code
 /*loc2:= critter_inven_obj(self_obj, 2);
 if (loc2 == 0) then begin
    loc2 := critter_inven_obj(self_obj, 1);
-end 
+end
 if  (critter_inven_obj(self_obj,0)!=loc1) then
  begin
   if (critter_inven_obj(self_obj,0)== 0 ) then
@@ -339,7 +339,7 @@ if  (critter_inven_obj(self_obj,0)!=loc1) then
   end
  end*/
 //end B-team mod code
-  
+
 end
 
 procedure Node001 begin
@@ -363,7 +363,7 @@ procedure Node002 begin
          NOption(214,Node005,004);
          NOption(215,Node005,004);
       end
-   
+
       //if ( (global_var(GVAR_FETCH_GECKOPELTS) >= 1) or (global_var(GVAR_EPALIGHTING_GEN) >= 1) ) then
       //   NOption(216,Node004,004);
    end
@@ -460,7 +460,7 @@ procedure Node018 begin
    critter_mod_skill(dude_obj, SKILL_ENERGY_WEAPONS, 10);
    critter_mod_skill(dude_obj, SKILL_BIG_GUNS, 10);
    game_time_advance(2*ONE_GAME_HOUR);
-   
+
    Reply(313);
    NOption(314,Node1000,004);
 end
@@ -471,7 +471,7 @@ end
 
 procedure Node990 begin
    variable locker := 0;
-   
+
    if (dude_charisma <= 1) then begin
       Reply(490+dude_is_female);
       NOption((g_mstr(352)), Node012, 4);
@@ -485,7 +485,7 @@ procedure Node990 begin
       cat_jules_joins_party;
       set_local_var(LVAR_Joined,1);
    end
-   
+
    locker:=tile_contains_pid_obj(CATJULES_LOCKER_HEX,dude_elevation,PID_LOCKER_CLEAN_LEFT);
    move_obj_inven_to_obj(locker, self_obj);
    obj_open( locker );
@@ -688,7 +688,7 @@ procedure timed_event_p_proc begin
          end else if (Is_Crippled(self_obj)) then begin
             call Node5003;
          end else if (Is_Blind(self_obj)) then begin
-            call Node5004; 
+            call Node5004;
          end else if ( (Myron_In_Party) and (random(1,2) == 2) ) then begin
             call Node3000;
          end else if ( (Sulik_In_Party) and (random(1,2) == 2) ) then begin

@@ -165,7 +165,7 @@ procedure critter_p_proc begin
       end
    end
    //end added
-   
+
 end
 
 /* Whenever the critter takes damage of any type, this procedure will be called. Things

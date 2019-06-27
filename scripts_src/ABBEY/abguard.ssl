@@ -209,7 +209,7 @@ procedure Node002 begin
    if (has_rep_slaver) then begin
       NOption(303, Node001a, 004);
       NOption(304, Node999, 004);
-      BOption(305, Node998, 004);  
+      BOption(305, Node998, 004);
    end else begin
       NOption(g_mstr(352), Node003, 004);
    end
@@ -224,13 +224,13 @@ end
 procedure Node004 begin
    Reply(400);
    NOption(401, Node001a, 004);
-   NOption(402, Node999, 004);   
+   NOption(402, Node999, 004);
 end
 
 procedure Node005 begin
    Reply(500);
    NOption(501, Node001a, 004);
-   NOption(502, Node999, 004);   
+   NOption(502, Node999, 004);
 end
 
 procedure Node006 begin
@@ -238,7 +238,7 @@ procedure Node006 begin
    if (has_rep_slaver) then begin
       NOption(611, Node001a, 004);
       NOption(613, Node998, 004);
-      BOption(612, Node999, 004);  
+      BOption(612, Node999, 004);
    end else begin
       NOption(602, Node007, 004);
       BOption(603, Node007, 004);
@@ -248,7 +248,7 @@ end
 procedure Node007 begin
    Reply(610);
    NOption(611, Node001a, 004);
-   NOption(612, Node999, 004);  
+   NOption(612, Node999, 004);
 end
 
 procedure Node998 begin

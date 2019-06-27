@@ -101,17 +101,17 @@ procedure map_enter_p_proc begin
    Only_Once:=0;
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_PUNKS);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SF_PUNK);
-   
+
    //added by killap
    if (is_loading_game == false) then begin
-   
+
        //added by killap - fix for game_time going negative after 7 years
       if (((game_time) < 0) and (local_var(LVAR_Restock_Time_Fix) == 0)) then begin
          set_local_var(LVAR_Restock_Time, game_time - 1);
          set_local_var(LVAR_Restock_Time_Fix, 1);
       end
-      //end added  
-      
+      //end added
+
       if (local_var(LVAR_Restock_Time) < game_time) then begin
          check_restock_item(PID_MUTATED_FRUIT, 1, 2, 100)
          check_restock_item(PID_BEER, 1, 5, 100)
@@ -249,9 +249,9 @@ end
 
 procedure Node001 begin
    Reply(103);
-   
+
    set_local_var(LVAR_Herebefore, 1);  //killap's fix: moved from talk_p_pro
-   
+
    NLowOption(104, Node002); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
    NLowOption(105, Node003); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
    NLowOption(106, Node999); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!

@@ -198,7 +198,7 @@ procedure Node920 begin
       item:=create_object(PID_PLASMA_TRANSFORMER,0,0); //need to define circuit board
       add_obj_to_inven(dude_obj,item);
       set_local_var(LVAR_Gave_Part,1); //added by killap
-      
+
       //MAY NEED TO SET A GLOBAL HERE -NBK (test it)
       //set_map_var(MVAR_skeeter_part_given, 1); //may need to be global...check this
    end
@@ -285,7 +285,7 @@ procedure Node006 begin
       set_local_var(LVAR_06_before, 1);
       //floater(160);
       float_msg(self_obj, message_str(NAME,160),FLOAT_MSG_NORMAL); //edit by killap
-      
+
    end
    else begin
       /*k := random(1,7);

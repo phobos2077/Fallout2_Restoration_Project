@@ -37,19 +37,19 @@ end
 
 procedure pickup_p_proc
 begin
-   call Tamper_Proc; 
+   call Tamper_Proc;
 end
 
 
 procedure use_p_proc
 begin
-   call Tamper_Proc; 
+   call Tamper_Proc;
 end
 
 procedure Tamper_Proc begin
 
    //if ( (obj_is_visible_flag(guard2_obj)) or (obj_is_visible_flag(guard1a_obj)) or (obj_is_visible_flag(guard1b_obj)) or (obj_is_visible_flag(guard1c_obj)) ) then begin
-      if (dude_elevation == 0) then begin    
+      if (dude_elevation == 0) then begin
          if ( (obj_is_visible_flag(guard1a_obj)) and (tile_distance(tile_num(guard1a_obj), dude_tile) < 8) ) then begin
             script_overrides;
             add_timer_event(guard1a_obj,5,2);

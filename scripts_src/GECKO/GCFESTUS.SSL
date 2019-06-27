@@ -663,9 +663,9 @@ procedure Node001 begin
    else if (k == 3) then floater(112);
    else if (k == 4) then floater(113);
    else if (k == 5) then floater(114);*/
-   
+
    floater(random(110,114)); //edit by killap
-   
+
 end
 
 procedure Node002 begin
@@ -874,10 +874,10 @@ procedure Node027 begin
    else if (k == 3) then floater(392);
    else if (k == 4) then floater(393);
    else if (k == 5) then floater(394);*/
-   
+
    float_msg(self_obj, message_str(NAME,random(390,394)),FLOAT_MSG_NORMAL); //edit by killap
-   
-   
+
+
 //floats
 end
 
@@ -1017,17 +1017,17 @@ end
 procedure Node044 begin
    debug_msg("Node044");
    //floater(random(817,820));
-   
+
    float_msg(self_obj, message_str(NAME,random(817,820)),FLOAT_MSG_NORMAL); //edit by killap
-   
+
 end
 
 procedure Node045 begin
    debug_msg("Node045");
    //floater(random(821,824));
-   
+
    float_msg(self_obj, message_str(NAME,random(821,824)),FLOAT_MSG_NORMAL); //edit by killap
-   
+
 end
 
 procedure Node046 begin

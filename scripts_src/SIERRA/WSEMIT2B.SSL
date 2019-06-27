@@ -71,16 +71,16 @@ procedure timed_event_p_proc begin
       if (repair_bot1 > 0 or repair_bot2 > 0 or repair_bot3 > 0) then begin
          if (not(combat_is_initialized) and map_var(MVAR_Security_Level_2) == 1) then begin
             if ( (map_var(MVAR_Repair_Request1) > REPAIR_NONE) or (map_var(MVAR_Repair_Request2) > REPAIR_NONE) or (map_var(MVAR_Repair_Request3) > REPAIR_NONE) or
-                 (map_var(MVAR_Repair_Request4) > REPAIR_NONE) or (map_var(MVAR_Repair_Request5) > REPAIR_NONE) or (map_var(MVAR_Repair_Request6) > REPAIR_NONE) or 
+                 (map_var(MVAR_Repair_Request4) > REPAIR_NONE) or (map_var(MVAR_Repair_Request5) > REPAIR_NONE) or (map_var(MVAR_Repair_Request6) > REPAIR_NONE) or
                  (map_var(MVAR_Repair_Request7) > REPAIR_NONE) or (map_var(MVAR_Repair_Request8) > REPAIR_NONE) or (map_var(MVAR_Repair_Request9) > REPAIR_NONE) or
                  (map_var(MVAR_Repair_Request10) > REPAIR_NONE) or (map_var(MVAR_Repair_Request11) > REPAIR_NONE) or (map_var(MVAR_Repair_Request12) > REPAIR_NONE) )then begin
                if (((elevation(repair_bot1) == self_elevation and obj_is_visible_flag(repair_bot1)) or (elevation(repair_bot2) == self_elevation and obj_is_visible_flag(repair_bot2)) or (elevation(repair_bot3) == self_elevation and obj_is_visible_flag(repair_bot3))) and
                   (((tile_in_box(map_var(MVAR_Tile_Request1), 19305, 19297, 20497, 20505)) or (tile_in_box(map_var(MVAR_Tile_Request2), 19305, 19297, 20497, 20505)) or (tile_in_box(map_var(MVAR_Tile_Request3), 19305, 19297, 20497, 20505)) or
-                  (tile_in_box(map_var(MVAR_Tile_Request4), 19305, 19297, 20497, 20505)) or (tile_in_box(map_var(MVAR_Tile_Request5), 19305, 19297, 20497, 20505)) or (tile_in_box(map_var(MVAR_Tile_Request6), 19305, 19297, 20497, 20505)) or 
+                  (tile_in_box(map_var(MVAR_Tile_Request4), 19305, 19297, 20497, 20505)) or (tile_in_box(map_var(MVAR_Tile_Request5), 19305, 19297, 20497, 20505)) or (tile_in_box(map_var(MVAR_Tile_Request6), 19305, 19297, 20497, 20505)) or
                   (tile_in_box(map_var(MVAR_Tile_Request7), 19305, 19297, 20497, 20505)) or (tile_in_box(map_var(MVAR_Tile_Request8), 19305, 19297, 20497, 20505)) or (tile_in_box(map_var(MVAR_Tile_Request9), 19305, 19297, 20497, 20505)) or
                   (tile_in_box(map_var(MVAR_Tile_Request10), 19305, 19297, 20497, 20505)) or (tile_in_box(map_var(MVAR_Tile_Request11), 19305, 19297, 20497, 20505)) or (tile_in_box(map_var(MVAR_Tile_Request12), 19305, 19297, 20497, 20505)))) ) then begin
                       //set_map_var(FIELD_STATUS,FIELD_DISABLED);
-                     set_obj_visibility(Field_Ptr,1);         // invis  
+                     set_obj_visibility(Field_Ptr,1);         // invis
                end else begin
                      //set_map_var(FIELD_STATUS,FIELD_ENABLED);
                      if (map_var(FIELD_STATUS) == FIELD_ENABLED) then

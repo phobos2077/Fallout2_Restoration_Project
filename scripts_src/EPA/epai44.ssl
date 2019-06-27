@@ -41,7 +41,7 @@ end
 procedure drop_p_proc begin
 
 end
- 
+
 procedure use_p_proc begin
    if not(combat_is_initialized) then begin
       reg_anim_begin();

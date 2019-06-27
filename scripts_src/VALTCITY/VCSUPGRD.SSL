@@ -524,10 +524,10 @@ procedure Node016a begin
       set_local_var(LVAR_Commented_On_Singing,1);              //added by killap
       inc_general_rep( REP_BONUS_MARTIN_STOP_SINGING );
       set_local_var( LVAR_Sing, SING_NOT_ALLOWED );
-    end  
+    end
 
 	call Node018;
-   
+
 end
 
 procedure Node016b begin

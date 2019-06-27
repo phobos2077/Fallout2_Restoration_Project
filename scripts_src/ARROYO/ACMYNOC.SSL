@@ -179,7 +179,7 @@ end
 procedure talk_p_proc begin
    GetReaction;
    ReactToLevel; //added by killap
-   
+
 //   if ((REP_ENEMY_ARROYO) or (local_var(LVAR_Personal_Enemy) == 1) or (local_var(LVAR_Hostile)>0)) then begin
 //      call Node009;
 //   end else begin
@@ -249,7 +249,7 @@ procedure Node003 begin
    NOption(159,Node005,004);
    //added by killap - expansion
    if (global_var(GVAR_RND_KAGA_STATE) < 1) then
-      NOption(600,Node038,004); 
+      NOption(600,Node038,004);
    if (kaga_met and not(kaga_bg)) then
       NOption(640,Node041b,004);
    //end added by killap - expansion
@@ -450,7 +450,7 @@ procedure Node026 begin
       destroy_object(item1);
       debug_msg("Destroy Flint");
    end
-   
+
    item2:=create_object(PID_SHARP_SPEAR,0,0);
    add_mult_objs_to_inven(dude_obj,item2,1);
    debug_msg("Give Sharp Spear");
@@ -553,7 +553,7 @@ end
 
 procedure Node040 begin
    Reply(605);
-  
+
    NOption(606,Node999,004);
    NOption(607,Node041,004);
 end
@@ -615,7 +615,7 @@ end
 
 procedure Node049 begin
    Reply(628);
-   
+
    if (kaga_met) and not(kaga_dead) then begin
       NOption(650,Node050,004);
    end else if (kaga_dead) then begin
@@ -624,7 +624,7 @@ procedure Node049 begin
       NOption(629,Node050,004);
       NOption(630,Node050,004);
    end
-   
+
 end
 
 procedure Node050 begin

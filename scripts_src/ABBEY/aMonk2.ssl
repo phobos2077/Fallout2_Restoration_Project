@@ -59,7 +59,7 @@ begin
   end
   add_timer_event(self_obj,game_ticks(random(20,40)),2);
  end
- 
+
  if (fixed_param == 1) and
     (not combat_is_initialized) and
     (self_can_see_dude) and

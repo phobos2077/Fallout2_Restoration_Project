@@ -79,7 +79,7 @@ end
 procedure spatial_p_proc
 begin
    variable LVar1 := 0;
-   
+
    if (source_obj == dude_obj) then begin
       if ( (map_var(MVAR_Kitsune_Free) > 0) and (local_var(LVAR_Triggered) == 0) and (self_tile == KITSUNE_SPATIAL_HEX) ) then begin
          set_local_var(LVAR_Triggered,1);

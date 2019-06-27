@@ -110,7 +110,7 @@ procedure combat_p_proc begin
    if ( (self_cur_hits <= (self_max_hits / 3)) and (is_critter_prone(self_obj)) ) then begin
       set_global_var(GVAR_NCR_BEAT_HOSS, 1);
    end
-   
+
 end
 
 procedure timed_event_p_proc begin
@@ -383,12 +383,12 @@ procedure dude_pulls_gun begin
                pid := obj_pid(obj);
          end
       end
-   
+
       if (pid and (pid != -1)) then begin
          if (proto_data(pid, it_weapon_range) > 2) then
             return 1;
       end
-   
+
       return 0;
    end else begin
       return 0;

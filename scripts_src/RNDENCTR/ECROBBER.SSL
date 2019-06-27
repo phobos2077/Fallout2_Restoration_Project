@@ -32,11 +32,11 @@ variable do_once := 0; //added by killap
 
 //added by killap
 procedure combat_p_proc begin
-   if ((dude_elevation == 1) and ((cur_map_index == MAP_RND_CAVERN1) or (cur_map_index == MAP_RND_CAVERN2) or (cur_map_index == MAP_RND_CAVERN3) or (cur_map_index == MAP_RND_CAVERN4) or (cur_map_index == MAP_RND_CAVERN5))) then begin 
+   if ((dude_elevation == 1) and ((cur_map_index == MAP_RND_CAVERN1) or (cur_map_index == MAP_RND_CAVERN2) or (cur_map_index == MAP_RND_CAVERN3) or (cur_map_index == MAP_RND_CAVERN4) or (cur_map_index == MAP_RND_CAVERN5))) then begin
       if (do_once == 0) then begin
          //if (self_item(wep_pid)) then begin
             do_once := 1;
-            if (wep_pid != PID_BRASS_KNUCKLES and 
+            if (wep_pid != PID_BRASS_KNUCKLES and
                 wep_pid != PID_PLATED_BOXING_GLOVES and
                 wep_pid != PID_POWER_FIST and
                 wep_pid != PID_MEGA_POWER_FIST) then begin

@@ -83,7 +83,7 @@ end
 
 procedure critter_p_proc begin
    variable tmp;
-   
+
    if (obj_can_see_obj(self_obj, dude_obj)) then begin
       attack(dude_obj);
    end else begin

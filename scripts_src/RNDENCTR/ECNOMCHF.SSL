@@ -50,7 +50,7 @@ procedure Node999;                                      // This Node is Always E
                                     (cur_map_index == MAP_RND_COAST9) or       \
                                     (cur_map_index == MAP_RND_COAST_10) or     \
                                     (cur_map_index == MAP_RND_COAST_11) or     \
-                                    (cur_map_index == MAP_RND_COAST_12)        
+                                    (cur_map_index == MAP_RND_COAST_12)
 
 
 procedure Node001;

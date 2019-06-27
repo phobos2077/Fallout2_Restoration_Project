@@ -16,7 +16,7 @@ procedure damage_p_proc begin
  variable count := 0;
  variable check := 0;
  variable obj;
- 
+
  if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
    if (local_var(LVAR_Destroyed) == 0) then begin
        set_local_var(LVAR_Destroyed,1);
@@ -26,7 +26,7 @@ procedure damage_p_proc begin
        rubble:=create_object(33554839,13681,elevation(self_obj));
        rubble:=create_object(33554839,13683,elevation(self_obj));
        rubble:=create_object(33554839,14682,elevation(self_obj));
-       
+
        blocker:=create_object(PID_BLOCKING_HEX,14487,elevation(self_obj));
        blocker:=create_object(PID_BLOCKING_HEX,14687,elevation(self_obj));
        blocker:=create_object(PID_BLOCKING_HEX,14887,elevation(self_obj));
@@ -39,7 +39,7 @@ procedure damage_p_proc begin
        blocker:=create_object(PID_BLOCKING_HEX,15077,elevation(self_obj));
 
        display_msg(message_str(SCRIPT_REDWAN1, 101));
-       
+
       while (count < 18) do begin
 
          if (check == 0) then begin
@@ -97,15 +97,15 @@ procedure damage_p_proc begin
             obj := dude_obj;
             check := check + 1;
          end
-         
+
          //ul, ur, ll, lr, x)
          if (tile_in_tile_rect(12887, 12678, 15087, 15078, tile_num(obj))) then begin
             critter_dmg(obj, 9999999, DMG_normal_dam);
          end
-         
+
          count := count + 1;
-       end        
-       
+       end
+
        destroy_object(self_obj);
    end
  end

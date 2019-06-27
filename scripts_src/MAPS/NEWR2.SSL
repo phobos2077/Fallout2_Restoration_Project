@@ -78,7 +78,7 @@ procedure map_enter_p_proc begin
    Check_Create_Car(CAR_NEW_RENO2_HEX, CAR_NEW_RENO_ELEV)
 
    newr2_lighting;
-   
+
 end
 
 procedure map_update_p_proc begin
@@ -90,7 +90,7 @@ procedure map_update_p_proc begin
          attempt_place_party(dude_tile, dude_elevation)
       end
    end
-   
+
    if (dude_has_car) then
     Create_Trunk(CAR_NEW_RENO2_HEX, CAR_NEW_RENO_ELEV) //added by killap - trunk could be lost after sleeping with the bishop woomen
 end

@@ -86,10 +86,10 @@ variable lvar1;
          set_car_part_pip(car_part_pip_done);
          set_took_car_off_den_bus_1;
          if (get_stolen_car(stolen_car_stolen)) then begin  //killap's fix: changed from (get_stolen_car(stolen_car_none)==false)
-            set_stolen_car(stolen_car_drive_away);  
+            set_stolen_car(stolen_car_drive_away);
             display_msg(message_str(SCRIPT_NCTRAY, 1001));
             give_xp(EXP_NEW_RENO_RECOVER_CAR);
-            inc_reno_rep(REP_NEW_RENO_NON_VIOLENT_CAR_RECOVER); 
+            inc_reno_rep(REP_NEW_RENO_NON_VIOLENT_CAR_RECOVER);
          end
          if ((Trunk_Ptr != 0) == false) then begin
             if (tile_contains_pid_obj(tile_num_in_direction(tile_num_in_direction(self_tile, 5, 2), 4, 1), self_elevation, PID_CAR_TRUNK) != 0) then begin

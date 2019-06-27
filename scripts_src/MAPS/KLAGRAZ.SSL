@@ -76,12 +76,12 @@ procedure map_exit_p_proc begin
             //if ( (map_var(MVAR_Scorps_Killed) < MAX_SCORPS ) or (global_var(GVAR_TORR_BRAHMIN_KILLED) > 0)
             //if ( (global_var(GVAR_KLAMATH_SCORPIONS_KILLED) < global_var(GVAR_KLAMATH_SCORPIONS_TOTAL) ) or (global_var(GVAR_TORR_BRAHMIN_KILLED) > 0)
             //   or (global_var(GVAR_TORR_DEAD) == 1) or (global_var(GVAR_ENEMY_TORR) == 1) ) then begin
-            
+
             //added by killap - a hack since this variable sometimes get REALLY large and it shouldn't
             if (global_var(GVAR_TORR_BRAHMIN_KILLED) > 4) then //there is no way to have more than 4, so if it is larger, reset to 0
                set_global_var(GVAR_TORR_BRAHMIN_KILLED,0);
             //end added
-            
+
             if ( ( A_SCORP_SURVIVES ) or (global_var(GVAR_TORR_BRAHMIN_KILLED) > 0)
                or (global_var(GVAR_TORR_DEAD) == 1) or (global_var(GVAR_ENEMY_TORR) == 1) ) then begin
                display_msg(mstr(202));

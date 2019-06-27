@@ -560,8 +560,8 @@ procedure Node016a begin
        else
          move_to(Molerat_Ptr6,FIGHTER1_HEX,0);
    end
-   
-   
+
+
    if (map_var(MVAR_Rat_Fighter2) == 1) then begin
        if ( tile_num( Molerat_Ptr1 ) != CAGE1_HEX ) then begin
          set_local_var(LVAR_Tmp_Rat1,1);
@@ -623,7 +623,7 @@ procedure Node016a begin
        else
          move_to(Molerat_Ptr6,FIGHTER2_HEX,0);
    end
-   
+
 end
 
 procedure Node016b begin
@@ -696,8 +696,8 @@ procedure Node016b begin
        else
          move_to(Molerat_Ptr6,FIGHTER1_HEX,0);
    end
-   
-   
+
+
    if (map_var(MVAR_Rat_Fighter2) == 1) then begin
        if ( tile_num( Molerat_Ptr1 ) != CAGE1_HEX ) then begin
          set_local_var(LVAR_Tmp_Rat1,1);
@@ -829,8 +829,8 @@ procedure Node016c begin
        else
          move_to(Molerat_Ptr6,FIGHTER1_HEX,0);
    end
-   
-   
+
+
    if (map_var(MVAR_Rat_Fighter2) == 1) then begin
        if ( tile_num( Molerat_Ptr1 ) != CAGE1_HEX ) then begin
          set_local_var(LVAR_Tmp_Rat1,1);
@@ -962,8 +962,8 @@ procedure Node016d begin
        else
          move_to(Molerat_Ptr6,FIGHTER1_HEX,0);
    end
-   
-   
+
+
    if (map_var(MVAR_Rat_Fighter2) == 1) then begin
        if ( tile_num( Molerat_Ptr1 ) != CAGE1_HEX ) then begin
          set_local_var(LVAR_Tmp_Rat1,1);
@@ -1054,8 +1054,8 @@ procedure Node019 begin
    Line:=random(1,6);
 
    debug_msg("Player bet on Rat "+local_var(LVAR_Bet_On_Rat));
-   
-//killa  
+
+//killa
 if (local_var(LVAR_Tmp_Rat1) != 1) or (local_var(LVAR_Tmp_Rat2) != 1) or (local_var(LVAR_Tmp_Rat3) != 1) or (local_var(LVAR_Tmp_Rat4) != 1) or (local_var(LVAR_Tmp_Rat5) != 1) or (local_var(LVAR_Tmp_Rat6) != 1) then begin
    if (map_var(MVAR_Rat_Fighter1) != 0) then begin
        Fighter1:=300 + (10 * (map_var(MVAR_Rat_Fighter1)-1)) + local_var((map_var(MVAR_Rat_Fighter1)-1)+LVAR_Rat_Name1);

@@ -840,14 +840,14 @@ procedure Node031 begin
       NOption(215, Node033, 004);
    else if ( raiders_scout_left) then //added by killap -expansion
       NOption(1215, Node033, 004);
-      
+
    /*if( ( global_var( GVAR_VAULT_RAIDERS ) == RAIDERS_ACCEPTED_QUEST ) or
        ( global_var( GVAR_VAULT_RAIDERS ) == RAIDERS_DECLINED_QUEST ) ) then
       NOption(216, Node044, 004); --comment out by killap; was never obtainable anyway*/
-   
+
    if (global_var(GVAR_VAULT_RAIDERS) == RAIDERS_PROBLEM_KNOWN) then //added by killap
       NOption(216, Node044, 004);
-      
+
    BOption(217, Node064, 004);
    BOption(218, Node999, 004);
 end
@@ -900,7 +900,7 @@ end
 
 procedure Node035 begin
    set_local_var( LVAR_Stark_Raiders, 1 );
-   
+
    //added by killap
    if (global_var(GVAR_VAULT_RAIDERS) < RAIDERS_PROBLEM_KNOWN) then
       set_global_var(GVAR_VAULT_RAIDERS,RAIDERS_PROBLEM_KNOWN);
@@ -1315,14 +1315,14 @@ procedure Node064 begin
    if( ( global_var( GVAR_VAULT_STARK_RECON ) == RECON_NCR_ASSIGNED ) and
        ( global_var( GVAR_FINISHED_STARK_RECON ) == 1 ) ) then
       NOption(370, Node060, 004);
-   
+
    //added by killap - expansion pack (Village)
    if ( (global_var(GVAR_QUEST_VAULT_SERVANT) >= SERVANT_QUEST_ACCEPTED) and (global_var(GVAR_QUEST_VAULT_SERVANT) < SERVANT_QUEST_FINISHED) ) then
       giq_option(4, SCRIPT_VCSTARK, 402, Node058_4, 50);
    if ( (global_var(GVAR_VAULT_STARK_RECON) == 4) and (global_var(GVAR_QUEST_VAULT_SERVANT) < SERVANT_QUEST_ACCEPTED) ) then
       giq_option(4, SCRIPT_VCSTARK, 369, Node058_1, 50);
    //end
-   
+
    if( local_var( LVAR_Stark_Raiders ) == 1 ) then
       NOption(371, Node031, 004);
    NOption(372, Node999, 004);
@@ -1364,16 +1364,16 @@ end
 
 procedure Node058_4 begin
    //display_msg("GVAR_VAULT_SERVANT == " + global_var(GVAR_VAULT_SERVANT));
-   
+
    if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_VAULT_VILLAGE) != VILLAGE_SCREWED) ) then begin
          set_global_var(GVAR_QUEST_VAULT_SERVANT, SERVANT_QUEST_FINISHED);
-         
+
          gsay_reply(SCRIPT_VCSTARK, 423);
     //if (global_var(GVAR_ENEMY_VAULT_VILLAGE) == 8) then
          //if (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) then begin
             giq_option(4, SCRIPT_VCSTARK, 175, Node999, 50);
             BOption(426, Node058_13, 004);
-         //end 
+         //end
    end else if (global_var(GVAR_VAULT_SERVANT) == SERVANT_TIME_EXTENDED) then begin
       gsay_reply(SCRIPT_VCSTARK, 428);
       giq_option(4, SCRIPT_VCSTARK, 429, Node999, 50);
@@ -1381,7 +1381,7 @@ procedure Node058_4 begin
       set_global_var(GVAR_VAULT_SERVANT, SERVANT_FINISHED_VIOLENT);
       set_global_var(GVAR_VAULT_VILLAGE, VILLAGE_SCREWED);
       set_global_var(GVAR_QUEST_VAULT_SERVANT, SERVANT_QUEST_FINISHED);
-      
+
       gsay_reply(SCRIPT_VCSTARK, 424);
       giq_option(4, SCRIPT_VCSTARK, 425, Node058_12, 50);
    end else begin

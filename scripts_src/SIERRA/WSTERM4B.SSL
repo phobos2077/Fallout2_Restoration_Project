@@ -73,7 +73,7 @@ procedure Node999;
 //added by killap
 procedure use_skill_on_p_proc;
 procedure Check_And_Kill_Row(variable start_tile, variable pid);
-procedure Check_And_Kill(variable pid); 
+procedure Check_And_Kill(variable pid);
 //end added
 
 #define LVAR_Organ                      (0)
@@ -101,7 +101,7 @@ procedure Check_And_Kill(variable pid);
 #define BRAIN_ABNORMAL    (1)
 #define BRAIN_CHIMP       (2)
 #define BRAIN_CYBERNETIC  (3)
-#define BRAIN_NONE        (4) 
+#define BRAIN_NONE        (4)
 
 variable kill_player := 0;
 //end added
@@ -124,7 +124,7 @@ end
 // terminal -- useful if the player wants to suicide.
 procedure use_skill_on_p_proc begin
    variable skill;
-      
+
    script_overrides;
 
    skill:=action_being_used;
@@ -157,14 +157,14 @@ procedure talk_p_proc begin
        call Node001;
    gSay_End;
    end_dialogue;
-   
+
    //added by killap - expansion
    if (kill_player == 1) then begin
       kill_player := 0;
       critter_damage(dude_obj,10000);
    end
    //end added
-   
+
 end
 
 procedure Node001 begin
@@ -306,7 +306,7 @@ procedure Check_And_Kill_Row(variable start_tile, variable pid) begin
    end
 
    return extracted_count;
-   
+
 end
 
 procedure Check_And_Kill(variable pid) begin
@@ -434,14 +434,14 @@ procedure Node014 begin
           set_critter_stat(dude_obj,STAT_iq,-1);
        end
    end
-   
+
    inc_general_rep(REP_BONUS_EXTRACTING_ORGANS * Room_Capacity);
 
    if ( (local_var(LVAR_Gave_Xp) == 0) and ( (Room_Capacity > 0) or (Security_Bot_Killed == 1) ) ) then begin
        give_xp(EXP_EXTRACT_ORGAN);
        set_local_var(LVAR_Gave_Xp,1);
    end
-   
+
    // Kill ppl in room
    debug_msg("Room_Capacity == "+Room_Capacity);
 
@@ -469,7 +469,7 @@ procedure Node014 begin
    end
 
    NOption(153,Node999,004);
-end 
+end
 
 /*procedure Node014 begin
     variable Room_Capacity:=0;
@@ -583,7 +583,7 @@ end
            brain_type := 2;
        end
    end
-   
+
    if (Robobrain_Chimp_In_Party) then begin
        if (In_Room(Robobrain_Chimp_Ptr)) then begin
            Room_Capacity+=1;
@@ -591,7 +591,7 @@ end
            brain_type := 3;
        end
    end
-   
+
    if (Robobrain_Abnormal_In_Party) then begin
        if (In_Room(Robobrain_Abnormal_Ptr)) then begin
            Room_Capacity+=1;
@@ -600,7 +600,7 @@ end
        end
    end
    //end added by killap
-      
+
    //added by killap - expansion
    if (Dex_In_Party) then begin
        if (In_Room(Dex_Ptr)) then begin
@@ -608,14 +608,14 @@ end
            critter_damage(Dex_Ptr,1000);
        end
     end
-    
+
    if (Cat_Jules_In_Party) then begin
        if (In_Room(Cat_Jules_Ptr)) then begin
            Room_Capacity+=1;
            critter_damage(Cat_Jules_Ptr,1000);
        end
    end
-   
+
    if (Kitsune_In_Party) then begin
        if (In_Room(Kitsune_Ptr)) then begin
            Room_Capacity+=1;
@@ -653,13 +653,13 @@ end
          New_Brain:=create_object(PID_CYBERNETIC_BRAIN,0,0);
       else if (brain_type == 2) then
          New_Brain:=create_object(PID_HUMAN_BRAIN,0,0);
-      else if (brain_type == 3) then  
+      else if (brain_type == 3) then
          New_Brain:=create_object(PID_CHIMP_BRAIN,0,0);
       else if (brain_type == 4) then
          New_Brain:=create_object(PID_ABNORMAL_BRAIN,0,0);
       else
          New_Brain:=create_object(PID_HUMAN_BRAIN,0,0);
-       
+
       move_to(New_Brain,16515,0);
       Reply(mstr(151)+mstr(152));
    end

@@ -77,7 +77,7 @@ procedure Node001 begin
       NOption(221,Node002,004);
    else
       NOption(220,Node999,004);
-      
+
    NOption(202,Node999,004);
 end
 
@@ -88,7 +88,7 @@ procedure Node002 begin
    else
       NOption(224,Node999,004);
    NOption(202,Node999,004);
-   
+
 end
 
 procedure Node003 begin

@@ -177,10 +177,10 @@ procedure talk_p_proc begin
          gSay_End;
          end_dialogue;
       end
-      
+
       set_global_var(CARAVAN_GVAR,REDDING_CARAVAN_NONE);
       set_global_var(GVAR_STANWELL_PAYOUT,1);   //moved down by killap
-      
+
    end else
        float_msg(self_obj,mstr(123),FLOAT_COLOR_NORMAL); //added by killap
 end

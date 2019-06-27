@@ -156,8 +156,8 @@ procedure talk_p_proc begin
    if (callGuards) then begin
       callGuards := 0;
       call doCallGuards;
-   end   
-   // end added   
+   end
+   // end added
 
 end
 
@@ -242,13 +242,13 @@ procedure Node001 begin
    end
    NOption(107, NodeHack, 4);
    NOption(108, Node999, 4);
-end 
+end
 
 
 procedure Node008a begin
    unset_san_fran_flag(SF_EMP_ROOM_PHY);
    call Node008;
-end 
+end
 
 procedure Node56 begin
    if (shi_whirly(SH_WH_GIVEN)) then
@@ -263,7 +263,7 @@ procedure Node002 begin
    NOption(111, Node007, 4);
    NOption(112, Node008a, 4);
    NOption(108, Node999, 4);
-end 
+end
 //end
 
 
@@ -294,17 +294,17 @@ procedure NodePlans begin
    plans:=create_object(WHIRLY_PLANS_PID,0,0);
    add_obj_to_inven( dude_obj, plans );
    //end added
-   
+
    //set_local_var(LVAR_downloaded_plans, 1);
-   
+
    //add_obj_to_inven(dude_obj, create_object(WHIRLY_PLANS_PID, self_tile, elevation(dude_obj))); //killap's fix: changed to dude_obj - commented out and using new code above
-   call Node010;                                                                               
+   call Node010;
 end
 
 procedure Node005 begin
    Reply(118);
    if ((elron_whirly(EL_WH_STEALSHI) or san_fran_flag(SF_BROTHER_PLANS))) then
-      NOption(119, NodePlans, 4);                                                         
+      NOption(119, NodePlans, 4);
    NOption(120, Node002, 4);
 end
 

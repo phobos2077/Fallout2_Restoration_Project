@@ -132,7 +132,7 @@ procedure Node039;
          end else begin                                                                            \
             the_pistol := 0;                                                                       \
          end
-         
+
 #define self_family                       family_wright //added by killap
 
 variable the_pistol;

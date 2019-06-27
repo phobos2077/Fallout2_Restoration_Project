@@ -218,7 +218,7 @@ end
 procedure Node006 begin
    set_global_var(GVAR_ABBEY_PART, 1);
    give_pid_qty(dude_obj,229,1)
-   
+
    Reply(604);
    GOption(605,Node999,4);
 end
@@ -242,7 +242,7 @@ procedure Node009 begin
 end
 
 procedure Node010 begin
-   
+
    set_global_var(GVAR_ABBEY_PART, 1);
    give_pid_qty(dude_obj,229,1)
 

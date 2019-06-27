@@ -323,7 +323,7 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-      
+
    //added by killap
    variable obj;
    variable max;
@@ -341,7 +341,7 @@ procedure critter_p_proc begin
          call StartSequence;
       end
    end
-   
+
    //added by killap
 
    call checkTestObj;
@@ -388,9 +388,9 @@ procedure critter_p_proc begin
          end
       end
    end
-   
+
    //end added
-   
+
 end
 
 /* Whenever the critter takes damage of any type, this procedure will be called. Things
@@ -432,7 +432,7 @@ procedure talk_p_proc begin
    CheckKarma;
 
    GetReaction;
-   
+
    //added by killap
    if (local_var(LVAR_Challenge)) then begin
       set_local_var(LVAR_Hostile,1);
@@ -536,7 +536,7 @@ procedure destroy_p_proc begin
 
 /* Set global_variable for Enemy status*/
    set_san_fran_flag(SF_DRAGON_DEAD);
-   
+
    if (local_var(LVAR_Challenge) == 1) then begin
       //added by killap
       if (global_var(GVAR_SAN_FRAN_LOPAN_KDRAGON_QST) == 0) then begin
@@ -556,7 +556,7 @@ procedure destroy_p_proc begin
    end else begin
       inc_good_critter
    end
-end 
+end
 
 /* Look_at_p_proc gets called any time that the player passes the cursor over any object.
    This should only hold the most cursory of glances for the player. */
@@ -859,7 +859,7 @@ procedure Node027 begin
    if (global_var(GVAR_SAN_FRAN_LOPAN_KDRAGON_QST) == 1) then
       set_global_var(GVAR_SAN_FRAN_LOPAN_KDRAGON_QST, 3); //set to failure
    //end added
-   
+
    inc_general_rep(REP_BOUNS_KILL_LOPAN_ON_MISSION);
    set_local_var(LVAR_State, STATE_DONE);
    COMPLETE_DRAGON_KLOPAN_QUEST;
@@ -873,7 +873,7 @@ procedure Node028 begin
    if (global_var(GVAR_SAN_FRAN_LOPAN_KDRAGON_QST) == 1) then
       set_global_var(GVAR_SAN_FRAN_LOPAN_KDRAGON_QST, 3); //set to failure
    //end added
-   
+
    //inc_general_rep(REP_BOUNS_KILL_LOPAN_ON_MISSION);
    inc_general_rep(REP_BOUNS_KILL_LOPAN); //edit by killap
    set_local_var(LVAR_State, STATE_DONE);
@@ -1278,11 +1278,11 @@ procedure removeVaultBoxerAppearance begin
    set_global_var(GVAR_TMP_GLOBAL_VAR,0);
    if (dude_is_male) then begin
       if ((get_sfall_global_int("HApStyle")) == LONG_HAIR) then begin
-         remove_armor(dude_obj)   
+         remove_armor(dude_obj)
          destroy_object(obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_LONG_HAIR));
          refresh_pc_art;
       end else if ((get_sfall_global_int("HApStyle")) == BALD_HAIR) then begin
-         remove_armor(dude_obj)       
+         remove_armor(dude_obj)
          destroy_object(obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_BALD));
          refresh_pc_art;
       end else if ((get_sfall_global_int("HApStyle")) == REG_HAIR) then begin

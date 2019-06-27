@@ -142,7 +142,7 @@ procedure destroy_p_proc begin
 
 /* Increment the aligned critter counter*/
    inc_good_critter
-   
+
    //added by killap - expansion
    if not(rnd_enc_flag(HOMESTEAD_FAIL)) then
       set_rnd_enc_flag(HOMESTEAD_FAIL);

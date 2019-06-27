@@ -59,7 +59,7 @@ procedure map_enter_p_proc begin
    if (global_var(GVAR_LOAD_MAP_INDEX) == 12) then begin
       override_map_start_hex( 24502, 0, 0 );
    end
-   
+
    Enclave_Lighting;
    set_global_var(GVAR_LOAD_MAP_INDEX,0);
 end

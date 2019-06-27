@@ -234,10 +234,10 @@ end
 
 procedure talk_p_proc begin
    script_overrides;
-   
+
    //added by killap
-   if ((hostile)) then begin 
-      self_attack_dude;  
+   if ((hostile)) then begin
+      self_attack_dude;
    //end added
    end else if (passed_out) then begin
       debug_msg("passed_out");

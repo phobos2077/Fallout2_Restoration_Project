@@ -49,9 +49,9 @@ end
 #define read_book                      lvar_bit(LVAR_Flags, read_book_bit)
 #define set_read_book                  if (read_book == false) then begin                          \
                                        end                                                          \
-                                       set_lvar_bit_on(LVAR_Flags, read_book_bit);                  
-        
-                                                                              
+                                       set_lvar_bit_on(LVAR_Flags, read_book_bit);
+
+
 procedure map_enter_p_proc begin
 
 

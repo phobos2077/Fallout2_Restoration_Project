@@ -7,7 +7,7 @@
 
 /* Include Files */
 #include "..\headers\define.h"
-#include "..\headers\tribe02.H" 
+#include "..\headers\tribe02.H"
 #define NAME                    SCRIPT_TRIBEC9
 
 #define TOWN_REP_VAR            GVAR_TOWN_REP_PRIMITIVE_TRIBE
@@ -149,7 +149,7 @@ end
 
 procedure destroy_p_proc begin
    WARRIOR_obj := -1;
-   
+
    if (global_var(GVAR_MISSING_WARRIOR) < 4) then
       set_global_var(GVAR_MISSING_WARRIOR,2); //evil outcome - (failure)
 end
@@ -170,13 +170,13 @@ procedure critter_p_proc begin
    if ( (REP_ENEMY_PRIMITIVE_TRIBE) and (self_can_see_dude) ) then begin
        attack(dude_obj);
    end else begin
-   
+
       if ( (self_tile != 22727) and (local_var(LVAR_Move_To_Exit) == 1) ) then begin
          anim_move_to_point_rate(22727, 1)
-      end else if ( (self_tile == 22727) and (local_var(LVAR_Move_To_Exit) == 1) ) then begin 
+      end else if ( (self_tile == 22727) and (local_var(LVAR_Move_To_Exit) == 1) ) then begin
          set_local_var(LVAR_Move_To_Exit,2);
       end
-   
+
    end
 end
 
@@ -199,20 +199,20 @@ procedure map_enter_p_proc begin
       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
       if (local_var(LVAR_Do_Once) == 0) then begin
          set_local_var(LVAR_Do_Once,1);
-      
+
          critter_injure(self_obj,DAM_CRIP_LEG_RIGHT);
          critter_heal(self_obj,-((get_critter_stat(self_obj,STAT_max_hp))-1));
-        
+
          set_local_var(LVAR_Wounded_In_Cave,1);
-           
+
          reg_anim_clear( self_obj );
          reg_anim_begin();
             reg_anim_animate( self_obj,ANIM_fall_back_sf,-1);
          reg_anim_end();
          critter_injure( self_obj,DAM_KNOCKED_DOWN);
       end
-   end  
-      
+   end
+
    if (cur_map_index == MAP_PRIMITIVE_TRIBE1) then begin
       if (global_var(GVAR_MISSING_WARRIOR) == 4) then begin
          move_to(self_obj, 18517, 1);
@@ -220,9 +220,9 @@ procedure map_enter_p_proc begin
          reg_anim_begin();
             reg_anim_animate(self_obj,ANIM_fall_back_sf,ANIMATE_FORWARD);
          reg_anim_end();
-         
+
          animate_rotation(3);
-         
+
          set_global_var(GVAR_MISSING_WARRIOR,5);
          set_local_var(LVAR_Time,game_time);
       end else if ( ((game_time - local_var(LVAR_Time)) >= 2*ONE_GAME_DAY) and ( (global_var(GVAR_MISSING_WARRIOR) == 5) or (global_var(GVAR_MISSING_WARRIOR) == 6) ) ) then begin
@@ -231,16 +231,16 @@ procedure map_enter_p_proc begin
          reg_anim_begin();
             reg_anim_animate(self_obj,ANIM_stand,ANIMATE_FORWARD);
          reg_anim_end();
-         
+
          move_to(self_obj, 21890, 1);
-         
+
          animate_rotation(3);
       end
    end
-   
+
    if( (global_var(GVAR_MISSING_WARRIOR) >= 5) and (cur_map_index == MAP_PRIMITIVE_TRIBE2) ) then
       destroy_object(self_obj);
-   
+
 end
 
 
@@ -352,7 +352,7 @@ procedure Node009 begin
    game_time_advance(ONE_GAME_MINUTE * 15);
    Reply(219);
    NOption(220,Node010,004);
-   
+
 end
 
 procedure Node010 begin
@@ -361,7 +361,7 @@ procedure Node010 begin
    game_time_advance(ONE_GAME_MINUTE*15);
    Reply(221);
    NOption(222,Node990,004);
-   
+
 end
 
 procedure Node011 begin
@@ -379,7 +379,7 @@ procedure Node990 begin
    //reg_anim_begin();
       anim(self_obj, ANIM_stand, 2);
 	//reg_anim_end();
-	
+
 	set_local_var(LVAR_Move_To_Exit,1);
 	call Node991;
 end

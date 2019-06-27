@@ -5,7 +5,7 @@
         Description: Opis
 
         Log:
-           
+
 
            Created:
 
@@ -42,7 +42,7 @@ procedure map_enter_p_proc begin
          set_san_fran_flag(SF_SHI_ENEMY);
          set_map_var(MVAR_Attack_Player,1);
       end
-      
+
       if (global_var(GVAR_SAN_FRAN_SUB) < SHI_SUB_HAS_PASSWORD) then begin
          set_sub_flag(SHI_SUB_ALONE);
          set_map_var(MVAR_Torpedo_Permission,1);
@@ -50,7 +50,7 @@ procedure map_enter_p_proc begin
          display_msg(mstr(101));
       end
       give_xp(500);
-      
+
    end
    set_light_level(60);
    set_global_var(GVAR_LOAD_MAP_INDEX,0);
@@ -72,7 +72,7 @@ procedure map_update_p_proc begin
       set_light_level(55);
    end
 end
- 
+
 procedure map_exit_p_proc begin
    if (map_var(MVAR_Explosive_Timer) == 1) then begin
       display_msg(mstr(102));

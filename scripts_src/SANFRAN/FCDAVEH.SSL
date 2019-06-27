@@ -250,7 +250,7 @@ procedure Node999a begin
    set_san_fran_flag(SF_ELRON_DRIVE_FORMAT);
    COMP_QUEST(REP_BONUS_SAN_FRAN_FORMAT_ELRON, REP_HERO_SAN_FRAN_ELRON_FORMAT, 0)
    call Node999;
-end 
+end
 //end added
 
 // Not lines are allowed to be added below here
@@ -371,7 +371,7 @@ procedure Node011b begin
       call Node011;
    end else begin
       call Node024;
-   end 
+   end
 end
 
 procedure Node011c begin
@@ -587,7 +587,7 @@ procedure Node024 begin
       NOption(143, Node011b, 4);
    if (san_fran_flag(SF_GAS_ELRONS) and (tanker_flag(TANK_KNOWN) and not tanker_flag(TANK_FUEL))) then
       NOption(144, Node011c, 4);
-   NOption(145, Node999a, 4); 
+   NOption(145, Node999a, 4);
 end
 //end added
 

@@ -157,9 +157,9 @@ end
 
 procedure map_enter_p_proc begin
    CHECK_LEVEL
-   
+
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_PEASANT);
-   
+
    if (global_var(GVAR_DEN_ORPHANAGE) == 7) then begin
       if (map_var(MVAR_Johnny_Move) == 1) then begin
          set_map_var(MVAR_Johnny_Move,2);

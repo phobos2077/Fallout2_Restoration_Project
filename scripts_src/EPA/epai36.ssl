@@ -78,7 +78,7 @@ procedure use_p_proc begin
    end
 end
 
-procedure Node999 begin 
+procedure Node999 begin
 
 end
 

@@ -2,7 +2,7 @@
 
 /*
         Name: GIWELL
-        Location: Gecko   
+        Location: Gecko
         Description: Well will radiate you if Gecko plant not fixed
 
         Log:
@@ -44,7 +44,7 @@ procedure description_p_proc begin
    else
       display_msg(mstr(101));
 end
- 
+
 procedure use_p_proc begin
    if (global_var(GVAR_VAULT_PLANT_STATUS) < PLANT_REPAIRED) then begin
       script_overrides;

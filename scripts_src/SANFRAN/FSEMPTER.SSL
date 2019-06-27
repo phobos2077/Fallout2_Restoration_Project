@@ -479,12 +479,12 @@ end
 procedure Node012 begin
    set_san_fran_flag(SF_SHI_ENEMY);
    set_san_fran_flag(SF_EMPEROR_FORMATTED);
-   
+
    //added by killap
    if (global_var(GVAR_SAN_FRAN_KILL_OZ9_QST) == 1) then
       set_global_var(GVAR_SAN_FRAN_KILL_OZ9_QST, 3); //set to failed - killap
    //end added
-   
+
    callGuards := 1;
 
    Reply(167);
@@ -599,7 +599,7 @@ procedure NodeCopy begin
    plans:=create_object(WHIRLY_PLANS_PID,0,0);
    add_obj_to_inven( dude_obj, plans );
    //end added
-   
+
    //add_obj_to_inven(self_obj, create_object(WHIRLY_PLANS_PID, self_tile, elevation(self_obj)));
    call Node022;
 end
@@ -723,7 +723,7 @@ procedure Node039 begin
    NOption(311, Node032, 4);
    display_msg(mstr(320));
    give_xp(1000);
-   
+
    if (global_var(GVAR_SAN_FRAN_SUB) < SHI_SUB_WITH_CREW) then
       set_sub_flag(SHI_SUB_WITH_CREW);
 end

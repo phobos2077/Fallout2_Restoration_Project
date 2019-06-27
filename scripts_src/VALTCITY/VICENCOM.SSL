@@ -329,30 +329,30 @@ end
 procedure Node009a begin
    variable elc_rest;
    //variable elc_rest2;
-   
+
    gfade_out(600);
    gfade_in(600);
-   
+
    if( local_var( LVAR_Gave_Bonus ) == 0 ) then begin
       set_local_var( LVAR_Gave_Bonus, 1 );
       script_overrides;
-      
+
       //elc_rest2:=get_critter_stat(dude_obj,STAT_dmg_resist_electrical );
       //elc_rest:=get_critter_stat(dude_obj,STAT_dmg_resist_electrical ) + 5;
-      
-      //WARNING! this will not compile unless you use Timeslip's modified compile.exe file. 
-      //In addition, you must use his ddraw files and enable extended scripting or this script will crash in the game 
+
+      //WARNING! this will not compile unless you use Timeslip's modified compile.exe file.
+      //In addition, you must use his ddraw files and enable extended scripting or this script will crash in the game
       elc_rest := get_pc_extra_stat(STAT_dmg_resist_electrical) + 5;
       set_pc_extra_stat(STAT_dmg_resist_electrical, elc_rest); //added by killap
       //set_critter_stat(dude_obj,STAT_dmg_resist_electrical,elc_rest); - comment out by killap
-      
+
       critter_dmg( dude_obj, get_critter_stat(dude_obj,STAT_current_hp) - 1, ( DMG_electrical BWOR DMG_NOANIMATE ) );
 
    end
-   
+
    Reply(185);
    NLowOption(186,Node006b);
-  
+
 end
 
 procedure Node010 begin
@@ -594,7 +594,7 @@ procedure Node033a begin
       call Node033;
    else
       call Node021;
-      
+
 end
 
 procedure Node033b begin
@@ -604,7 +604,7 @@ procedure Node033b begin
       call Node033;
    else
       call Node006a;
-      
+
 end
 
 procedure Node033 begin
@@ -614,7 +614,7 @@ procedure Node033 begin
       Reply(300);
    else
       Reply(301);
-      
+
    NOption(302,Node034,004);
 end
 
@@ -625,14 +625,14 @@ procedure Node034 begin
 end
 
 procedure Node035 begin
-   
+
    if ( local_var(LVAR_Gave_Classified_Entry_XP) == 0 ) then begin
       set_local_var(LVAR_Gave_Classified_Entry_XP,1);
       set_global_var(GVAR_VAULT_EXPERIMENTS,1);
       give_xp(800);
       display_msg(mstr(308));
    end
-   
+
    Reply(305);
    NOption(306,Node021,004);
    NOption(307,Node006a,004);

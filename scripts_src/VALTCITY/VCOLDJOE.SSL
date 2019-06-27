@@ -115,7 +115,7 @@ procedure map_enter_p_proc begin
    Only_Once:=0;
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_OUTSIDER);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
-   
+
    //added by killap - expansion pack
    if (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_GET_GUNS) then
       set_obj_visibility(self_obj,1); //invisible
@@ -126,7 +126,7 @@ procedure map_enter_p_proc begin
       end
    end
    //end
-   
+
 end
 
 
@@ -292,7 +292,7 @@ procedure Node006 begin
 
    gfade_out(600);
    gfade_in(600);
-  
+
    Reply(115);
 
    NOption(116,Node008,004);
@@ -303,7 +303,7 @@ procedure Node007 begin
 
    //hmm ok, but wait - expansion - killap
    //if (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) then
-      NOption(146,Node014,004); 
+      NOption(146,Node014,004);
    //else
       NOption(118,Node999,006);
 end
@@ -359,7 +359,7 @@ procedure Node014 begin
       NOption(150,Node019,004);
    else
       NOption(135,Node015,004);
-      
+
 end
 procedure Node015 begin
    set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_JOE_SPOKE);
@@ -389,14 +389,14 @@ end
 procedure Node018 begin
    //set_global_var(GVAR_VAULT_VILLAGE_MOLERAT_ORIGIN_KNOWN,GAVE_INFO);
    set_mole_rat_origin_info;
-   
+
    Reply(144);
 
    if (local_var(LVAR_Know_Real_Name)) then
       NOption(145,Node999,004);
    else
       NOption(148,Node999,004);
-    //CHECK THIS AREA - killap -8/4/07 
+    //CHECK THIS AREA - killap -8/4/07
     //need to make a var here so that this can be used with mcclure. At the moment
     //you can always say to mcclure that you know what is going on.
     //also shouldn't be called Ian if you don't acutally know that...
@@ -419,7 +419,7 @@ end
 procedure Node020 begin
    Reply(157);
    if (local_var(LVAR_Know_Real_Name)) then
-      NOption(200,Node022,004);   
+      NOption(200,Node022,004);
    NOption(158,Node999,004);
    NOption(159,Node017,004);
 end
@@ -427,7 +427,7 @@ end
 procedure Node021 begin
    Reply(154);
    if (local_var(LVAR_Know_Real_Name)) then
-      NOption(200,Node022,004);   
+      NOption(200,Node022,004);
    NOption(155,Node999,004);
    NOption(156,Node017,004);
 end

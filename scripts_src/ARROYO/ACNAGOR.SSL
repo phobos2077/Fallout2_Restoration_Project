@@ -209,7 +209,7 @@ procedure talk_p_proc begin
        gSay_End;
        end_dialogue;
    end
-   
+
    else if (dude_iq < 4) then begin //moved here by killap
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
@@ -217,7 +217,7 @@ procedure talk_p_proc begin
        gSay_End;
        end_dialogue;
    end
- 
+
    else if (global_var(GVAR_ARROYO_DOG) == DOG_RUN_OFF) then begin
        floater(131);
    end

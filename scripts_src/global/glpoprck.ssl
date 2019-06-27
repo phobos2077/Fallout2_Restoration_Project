@@ -1,6 +1,6 @@
 procedure start;
 
-#include "..\headers\scripts.h" 
+#include "..\headers\scripts.h"
 
 variable took_rocks;
 variable took_soda;
@@ -21,7 +21,7 @@ procedure start begin
 	        set_global_var(692,3);
          took_rocks:=1;
       end
-   
+
       if (global_var(692) == 2) then begin
          if ((took_rocks) == 1) then
             set_global_var(692,3);
@@ -43,9 +43,9 @@ procedure start begin
          end else if ((game_time >= warning_time) and (gave_warning2 == 1)) then begin
             explosion(tile_num(dude_obj), elevation(dude_obj), 999999);
          end
-         
+
       end
     end
-	
+
 	end
 end

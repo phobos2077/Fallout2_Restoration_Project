@@ -149,7 +149,7 @@ procedure map_enter_p_proc begin
    else
       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
    //end edits
-   
+
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
    if (is_loading_game == FALSE) then begin
       call checkLoadConditions;
@@ -270,7 +270,7 @@ end
 procedure look_at_p_proc begin
    script_overrides;
    //if (local_var(LVAR_Herebefore) == 0) then
-   if (cur_map_index == MAP_NCR_DOWNTOWN) then 
+   if (cur_map_index == MAP_NCR_DOWNTOWN) then
       display_msg(mstr(100));
    else
       display_msg(mstr(101));
@@ -329,7 +329,7 @@ procedure Node003 begin
    set_cattle_drive(CATTLE_ON1);
    //Don't forget to do raider stuff
    Reply(110);
-   
+
    if (cattle_drive(CATTLE_ON) and not cattle_drive(CATTLE_FINISHED)) then begin //moved from talk_p_pro to here - killap
       //Don't forget to do raider stuff
       set_caravan_start(CARAVAN_NCR);
@@ -343,7 +343,7 @@ procedure Node003 begin
       set_caravan_end(CARAVAN_REDDING);
       load_map(MAP_BH_RND_DESERT, 7);
    end
-   
+
    ENDOPTION;
 end
 

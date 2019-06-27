@@ -129,7 +129,7 @@ procedure destroy_p_proc begin
    end else if (cur_map_index == MAP_RANGER_SAFE_HOUSE3) then begin
       //no need to do anything
    end
-   
+
    inc_evil_critter
 end
 

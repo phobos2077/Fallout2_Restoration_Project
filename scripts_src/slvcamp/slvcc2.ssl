@@ -136,26 +136,26 @@ end
 procedure destroy_p_proc begin
    inc_evil_critter
    set_map_var(MVAR_Slaver_Count, ((map_var(MVAR_Slaver_Count)) - 1));
-   
+
    if (map_var(MVAR_Slaver_Count) == 0) then begin
       set_global_var(GVAR_WIPED_OUT_SLAVER_CAMP,1);
       display_msg(message_str(SCRIPT_SLVCM1, 200));
    end
-   
+
    if (local_var(LVAR_Home_Tile) == 17721) then begin
       PENGUARD_obj := 0;
    end else if (local_var(LVAR_Home_Tile) == 16921) then begin
       PENGUARD2_obj := 0;
    end
-   
+
 end
 
 procedure critter_p_proc begin
    if (self_can_see_dude) then begin
       if ( (metzger_dead) or (hostile) or (local_var(LVAR_Hostile) == 2) or (global_var(GVAR_NCR_PLAYER_RANGER)) or (map_var(MVAR_Attack_Slavers) == 1) or (local_var(LVAR_Warned) == 2) ) then begin
-         
+
          if (local_var(LVAR_Warned) == 2) then begin
-            
+
             float_msg(self_obj, mstr(600), FLOAT_MSG_RED);
             //floater(600);
             set_local_var(LVAR_Hostile,1);
@@ -187,13 +187,13 @@ procedure map_enter_p_proc begin
    if (map_first_run) then begin
       set_local_var(LVAR_Home_Tile, self_tile);
    end
-   
+
    if (local_var(LVAR_Home_Tile) == 17721) then begin
       PENGUARD_obj := self_obj;
    end else if (local_var(LVAR_Home_Tile) == 16921) then begin
       PENGUARD2_obj := self_obj;
    end
-   
+
    critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_SLAVER_CAMP_SLAVERS);
 end
 
@@ -273,7 +273,7 @@ procedure Node003 begin
          NOption(402,Node006,004);
       NOption(403,Node007,004);
 end
-   
+
 procedure Node004 begin
      Reply(406);
      if (is_success(roll_vs_skill(dude_obj, SKILL_CONVERSANT, -20))) then

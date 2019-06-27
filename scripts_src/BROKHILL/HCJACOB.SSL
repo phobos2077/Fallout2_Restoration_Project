@@ -227,7 +227,7 @@ end
 procedure talk_p_proc begin
    GetReaction;
    ReactToLevel; //added by killap
-   
+
    From_WTG := 1;
    From_13 := 0;
 
@@ -235,7 +235,7 @@ procedure talk_p_proc begin
    if ( not((dude_iq == 2)) or not((dude_iq == 3)) ) then
        gdialog_set_barter_mod(-20);
    //end added by killap
-   
+
    move_inven_to_temp_box
    move_inven_from_box
 

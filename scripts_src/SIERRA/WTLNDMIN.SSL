@@ -148,7 +148,7 @@ procedure use_skill_on_p_proc begin
                    display_msg(message_str(SCRIPT_GENERIC,102));
                else
                    display_msg(obj_name(source_obj)+message_str(SCRIPT_GENERIC,105));
-               
+
                if (local_var(LVAR_Gave_Exp) == 0) then begin
                    set_local_var(LVAR_Gave_Exp,1);
                    give_xp(TRAP_EXP);
@@ -161,7 +161,7 @@ procedure use_skill_on_p_proc begin
                    display_msg(message_str(SCRIPT_GENERIC,104));
                else
                    display_msg(obj_name(source_obj)+message_str(SCRIPT_GENERIC,107));
-               
+
                //for some reason this code segment causes issues - killap
                /*if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE)) then begin
                    debug_msg("Destroying Visible Trap");

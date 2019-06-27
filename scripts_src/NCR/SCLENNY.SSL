@@ -91,7 +91,7 @@ procedure use_obj_on_p_proc begin
       //added by killap
       if (not (map_var(MVAR_Lenny_Dead == 1))) then begin
          call destroy_p_proc;
-      end 
+      end
       //end added
    end
 end
@@ -130,7 +130,7 @@ procedure map_update_p_proc begin
    //lenny_obj := self_obj;
    if (not (map_var(MVAR_Lenny_Dead == 1))) then begin
       lenny_obj := self_obj;
-   end 
+   end
 end
 /* Whenever the critter takes damage of any type, this procedure will be called. Things
    like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */

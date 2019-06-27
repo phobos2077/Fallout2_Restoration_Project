@@ -165,7 +165,7 @@ procedure damage_p_proc begin
    end
 
    //added turrent settings by killap
-   
+
    if (cur_map_index == MAP_ENCLAVE_BARRACKS) then begin
        set_global_var(GVAR_ENCLAVE_ENEMY_GUARD,1);
        set_global_var(GVAR_ENCLAVE_TURRET_GUARD,TURRET_ALERT);

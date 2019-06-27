@@ -158,7 +158,7 @@ procedure map_enter_p_proc begin
    Only_Once:=0;
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_WESTIN);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
-   
+
    //added by killap - RP
    if (get_westin_flag(WESTIN_HEART_PILLS_DEATH)) then begin
       move_to(self_obj,DEATH_TILE,self_elevation);
@@ -238,7 +238,7 @@ procedure destroy_p_proc begin
 
 /* Increment the aligned critter counter*/
    inc_good_critter
-   
+
 //added by killap - kill Bishop quest now gets crossed off if you double cross Westin and kill him like Bishop wanted
    if (global_var(GVAR_NCR_ELMBISHOP_QST) == 1) then
       set_global_var(GVAR_NCR_ELMBISHOP_QST, 3);
@@ -248,8 +248,8 @@ procedure destroy_p_proc begin
    if (local_var(LVAR_Hostile) > 0) then
       set_westin_flag(WESTIN_FAIL);
    set_westin_flag(WESTIN_DEAD);
-  
-  
+
+
    // added by killap - fail the brahmin quest if it's active and Westin is killed
    if (global_var(GVAR_NCR_BRAHMIN_QST) == 1) then begin
      set_global_var(GVAR_NCR_BRAHMIN_QST, 2);
@@ -496,7 +496,7 @@ end
 
 procedure Node014 begin
    Reply(149);
-   
+
    NLowOption(106, Node004); //added by killap
    NOption(150, Node012a, 4);
    NOption(151, Node999, 4);

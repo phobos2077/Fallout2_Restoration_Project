@@ -334,7 +334,7 @@ procedure timed_event_p_proc begin
       if (series == 1) then begin
             series := 2;
             floater(40001);
-            add_timer_event(self_obj,game_ticks(5),2);   
+            add_timer_event(self_obj,game_ticks(5),2);
       end else if (series == 2) then begin
             series := 3;
             float_msg(Chad_Ptr, mstr(40002), FLOAT_MSG_NORMAL);
@@ -364,15 +364,15 @@ end
    Movement to attacking the player on sight can be placed in here.*/
 procedure critter_p_proc begin
    //added by killap
-   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_MARCUS)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_MARCUS))) then begin 
+   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_MARCUS)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_MARCUS))) then begin
       set_map_var(MVAR_Kitty_Drug, 0);
       waiting := 1;
       if (get_critter_stat(self_obj, STAT_st) < 10) then begin
          use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
       end
-   end 
+   end
    //end added
-   
+
    if( Perform_Critter_Float == 1 ) then begin
       Perform_Critter_Float := 0;
       // Float an appropriate message based on where we are.
@@ -442,7 +442,7 @@ procedure talk_p_proc begin
    GetReaction;
 
    ReactToLevel; //added by killap
-   
+
    find_party_background;
 
    if (local_var(LVAR_Personal_Enemy) == 1) then begin
@@ -504,7 +504,7 @@ procedure talk_p_proc begin
        gSay_End;
        end_dialogue;
    end
-   
+
    //comment out by killap
    /*if( Perform_Party_Add == 1 ) then begin
       Perform_Party_Add := 0;
@@ -530,7 +530,7 @@ procedure destroy_p_proc begin
    set_global_var( GVAR_MARCUS_DEAD, 1 );
 /* Increment the aligned critter counter*/
    inc_good_critter
-   
+
    set_global_var(GVAR_ENDGAME_MOVIE_MARCUS,0);
 
    //added by killap - RP
@@ -540,7 +540,7 @@ procedure destroy_p_proc begin
       armor := create_object(PID_MUTANT_ARMOR,0,0);
       add_obj_to_inven(self_obj,armor);
    end
-   
+
 /* Set global_variable for Enemy status*/
 end
 
@@ -642,7 +642,7 @@ procedure Node001 begin
       else
          NOption(110,Node018,004);
    end
-   
+
    NOption(111,Node023,004);
    NOption(112,Node001a,004);
    NOption(113,Node999,004);
@@ -878,7 +878,7 @@ procedure Node023 begin
          ( global_var(GVAR_BH_JAIL) == JAIL_REJECTED ) or
          ( global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_ACCEPTED ) or
          ( global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_REJECTED ) ) ) then*/
-         
+
    if( ( local_var( LVAR_Turned_In_Conspiracy ) == 0 ) and
      ( ( ( global_var(GVAR_BH_JAIL) >= JAIL_REJECTED ) and
        ( global_var(GVAR_BH_JAIL) < JAIL_DOUBLECROSS ) ) or
@@ -982,7 +982,7 @@ procedure Node029a begin
    gfade_in(600);
    series := 1;
    add_timer_event(self_obj,game_ticks(2),2);
-   
+
 end
 
 procedure Node029b begin
@@ -993,12 +993,12 @@ procedure Node029b begin
    give_xp(1500);
    inc_general_rep(5);
    inc_global_var_amt(GVAR_TOWN_REP_BROKEN_HILLS,5);
-   
+
    gfade_out(600);
    call Put_Chad_In_Jail;
    gfade_in(600);
    floater(40000);
-   
+
 end
 
 procedure Node030 begin
@@ -1260,7 +1260,7 @@ procedure Node115 begin
    //else if( global_var(GVAR_BH_CHAD) == CHAD_CONFIRMED_BROKENHILLS ) then
    //   NOption(193,Node029,004);
 
-      
+
    NOption(501,Node001,004);
    NOption(502,Node999,004);
 end
@@ -1376,7 +1376,7 @@ procedure Node1008 begin
    Reply(185);
    if (obj_is_carrying_obj_pid(self_obj, PID_MUTANT_ARMOR)) then begin
       NOption(10008, Node1009, 004);
-   end   
+   end
    party_member_def_gear_options;
 end
 procedure Node1009 begin
@@ -1399,7 +1399,7 @@ procedure Node1009 begin
    end else begin
       Reply(20000);
    end
-   
+
    marcus_party_member_options;
 end
 procedure Node1010 begin
@@ -1585,7 +1585,7 @@ procedure Node2020 begin
    inc_general_rep(5);
    inc_global_var_amt(GVAR_TOWN_REP_BROKEN_HILLS,5);
    floater(40000);
-   
+
    Reply(201);
    NOption(202,Node999,004);
 end
@@ -1600,7 +1600,7 @@ procedure Node2021 begin
    inc_global_var_amt(GVAR_TOWN_REP_BROKEN_HILLS,5);
    gfade_in(600);
    floater(40000);
-   
+
    Reply(201);
    NOption(202,Node999,004);
 end
@@ -1608,10 +1608,10 @@ end
 procedure Put_Chad_In_Jail begin
    variable door;
    if( global_var( GVAR_CHAD_DEAD ) == 0 ) then begin
-      
+
       if (obj_is_carrying_obj_pid(dude_obj,PID_BRIEFCASE)) then
          remove_pid_qty(dude_obj, PID_BRIEFCASE, 1)
-      
+
       //critter_attempt_placement( Chad_Ptr, 10093, 0 );
       critter_attempt_placement( Chad_Ptr, 12897, 0 );
       set_obj_visibility( Chad_Ptr, false );

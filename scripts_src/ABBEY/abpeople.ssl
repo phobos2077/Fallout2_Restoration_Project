@@ -168,7 +168,7 @@ begin
       call Node001;
    end else if (Fallout2_enclave_destroyed) then begin
       call Node002;
-   end else 
+   end else
       call Node003;
 end
 
@@ -196,14 +196,14 @@ end
 
 procedure Node999 begin
 end
- 
+
 procedure pickup_p_proc
 begin
 if (source_obj == dude_obj) then begin
  float_msg(self_obj, mstr(200), FLOAT_MSG_RED);
   end
   end
- 
+
 procedure critter_p_proc begin
 
    if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or ((local_var(LVAR_Hostile) == 2)or(local_var(LVAR_Personal_Enemy) == 1)) and (obj_can_see_obj(self_obj,dude_obj))) then begin

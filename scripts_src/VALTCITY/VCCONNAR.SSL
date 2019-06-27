@@ -193,9 +193,9 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   
+
    if (cur_map_index == MAP_VAULTCITY_DOWNTOWN) then begin
-  
+
       //added in case connar visiblity setting is not properly set upon map_enter. No idea why this problem happens... - killap
       if ( (global_var(GVAR_VAULT_SERVANT) == SERVANT_FINISHED_VIOLENT) or (((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) and (((global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) > 0)) or (global_var(GVAR_QUEST_VAULT_SERVANT) > 0) and (global_var(GVAR_VAULT_SERVANT) != SERVANT_FINISHED_DIPLOMATIC) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS))) )  then begin
          if not(self_visible) then
@@ -205,15 +205,15 @@ procedure critter_p_proc begin
             set_obj_visibility(self_obj,1); // go invis
       end
       //end
-   
+
    end else begin
-   
+
       /*if (global_var(GVAR_VAULT_VILLAGE) == VILLAGE_DELIVERED_GUNS) then begin
          if (self_is_armed == false) then begin
             arm_obj(self_obj, PID_SHOTGUN, 1, 0, 1)
          end
       end*/
-   
+
       if (((local_var(LVAR_Hostile) == 2) or (global_var(GVAR_ENEMY_VAULT_VILLAGE))) and (obj_can_see_obj(self_obj,dude_obj))) then begin
          set_local_var(LVAR_Hostile,1);
          attack(dude_obj);
@@ -224,7 +224,7 @@ procedure critter_p_proc begin
          call Node001;
          //dialogue_system_enter;
       end
-      
+
    end
 
 end
@@ -276,10 +276,10 @@ procedure talk_p_proc begin
 
    GetReaction;
    set_local_var(LVAR_From_Node_11,0);
-   
+
    if (map_var(0) == 1) then
      set_local_var(LVAR_Herebefore, 1);
-    
+
    if (cur_map_index == MAP_VAULTCITY_DOWNTOWN) then
    begin
      if (town_known(AREA_VAULT_VILLAGE) == MARK_STATE_VISITED) then begin
@@ -304,7 +304,7 @@ procedure talk_p_proc begin
    //    set_local_var(LVAR_Initiated_Talk,2);
    //    call Node001;
    //end
-      
+
    if (global_var(GVAR_VAULT_VILLAGE) == VILLAGE_SCREWED) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
@@ -312,7 +312,7 @@ procedure talk_p_proc begin
        gSay_End;
        end_dialogue;
    end else
-   
+
    if (local_var(LVAR_Herebefore) == 0) then begin
        set_local_var(LVAR_Herebefore,1);
        set_map_var(0, 1);
@@ -536,7 +536,7 @@ begin
       if ( (global_var(GVAR_MCCLURE_KNOWN) >= MCCLURE_KNOWN) and (has_skill(dude_obj,SKILL_CONVERSANT) > 80) ) then
          NOption(203,Node034,004);
    end
-   
+
    set_local_var(LVAR_From_Node_11,1);
 end
 
@@ -662,9 +662,9 @@ procedure Node016 begin
    end else begin
       call Node020;
    end
-   
-      
-   
+
+
+
 end
 
 /*
@@ -746,7 +746,7 @@ end
 procedure Node023
 begin
   gsay_reply(SCRIPT_VCCONNAR, 155);
-  
+
   if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_JOE_SPOKE) and (local_var(LVAR_From_Node_11) != 1) ) then
      giq_option(4, SCRIPT_VCCONNAR, 600, Node038, 50);
   if (local_var(LVAR_Gave_Amulet) != 1) then
@@ -877,7 +877,7 @@ procedure Node033 begin
   variable LVar1 := 0;
   variable LVar2 := 0;
   variable LVar3 := 0;
-  
+
   set_map_var(MVAR_Building_Time,game_time); //edit by killap
   LVar2 := obj_carrying_pid_obj(dude_obj, PID_SHOTGUN);
   LVar3 := obj_carrying_pid_obj(dude_obj, PID_ASSAULT_RIFLE);
@@ -903,7 +903,7 @@ end
 
 procedure Node035 begin
    Reply(300);
-   
+
    //if (global_var(GVAR_MCCLURE_KNOWN) >= MCCLURE_KNOWN) then
    giq_option(4, SCRIPT_VCCONNAR, 154, Node023, 50);
    //if (global_var(GVAR_VAULT_SERVANT) == SERVANT_BRAIN_AGREEMENT) then

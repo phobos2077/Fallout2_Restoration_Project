@@ -4,7 +4,7 @@
 
 #include "..\headers\define.h"
 #include "..\headers\updatmap.h"
-#include "..\headers\tribe02.H" 
+#include "..\headers\tribe02.H"
 
 #define NAME                    SCRIPT_TRIBEM2          //Script name from scripts.h
 
@@ -30,12 +30,12 @@ end
 procedure map_enter_p_proc
 begin
    variable Critter;
-      
+
    if (map_first_run) then begin
          display_msg(mstr(100));
-         
+
          Critter:=create_object_sid(PID_TOUGH_GOLDEN_GECKO,13295,1,SCRIPT_TRIBEC10);
-     
+
          Critter:=create_object_sid(PID_MALE_PRIMITIVE_HUNTER,13493,1,SCRIPT_TRIBEC9);
    end
 
@@ -50,7 +50,7 @@ begin
        set_map_var(MVAR_Restock_Time, (random(6,8) * ONE_GAME_DAY) + game_time);
        call Make_Fish;
    end
-   
+
    if( elevation( dude_obj ) == 0 ) then
       Lighting;
    else

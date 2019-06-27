@@ -155,7 +155,7 @@ procedure timed_event_p_proc begin
          if (Miria_In_Party) then begin
             if (Is_Crippled(self_obj)) then
                floater(2000);
-            else if (get_critter_stat(self_obj, STAT_current_rad)) then 
+            else if (get_critter_stat(self_obj, STAT_current_rad)) then
                floater(2001);
             else if (get_poison(self_obj)) then
                floater(2002);
@@ -203,7 +203,7 @@ procedure map_update_p_proc begin
    if (waiting == 1) then begin
       waiting := 0;
    end
-   //end added  
+   //end added
 end
 
 procedure map_enter_p_proc begin
@@ -220,22 +220,22 @@ procedure map_enter_p_proc begin
          critter_attempt_placement(self_obj, local_var(LVAR_Home_Tile), dude_elevation);
       end
    end
-   
+
    //added by killap
    add_timer_event(self_obj, random(25, 40), 900);
 end
 
 procedure critter_p_proc begin
    //added by killap
-   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_MIRIA)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_MIRIA))) then begin 
+   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_MIRIA)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_MIRIA))) then begin
       set_map_var(MVAR_Kitty_Drug, 0);
       waiting := 1;
       if (get_critter_stat(self_obj, STAT_st) < 10) then begin
          use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
       end
-   end 
+   end
    //end added
-   
+
    if (Miria_In_Party) then begin
       if (dude_enemy_modoc == false) then begin
          if (waiting != 1) then begin //check added by killap - needed for "hacky fix" for kitty drug... :(
@@ -288,7 +288,7 @@ procedure critter_p_proc begin
       if (self_can_see_dude) then begin
 //         if (stage_time_ready) then begin  //comment out by killap
             if (get_sub_stage == rape_stage_help) then begin
-               gfade_in(1);   //added by killap 
+               gfade_in(1);   //added by killap
                floater_afraid(250 + (10*dude_is_female) + (20*grisham_dead)); // Seraph's Fix: added (20*grisham_dead)
                set_next_stage_time(quick_stage_time)
                set_sub_stage(rape_stage_confront)

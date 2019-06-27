@@ -114,7 +114,7 @@ procedure talk_p_proc begin
    CheckKarma;
    GetReaction;
    ReactToLevel; //added by killap
-   
+
    // setup bartering values before going into dialog
    if (enclave_destroyed) then begin
       gdialog_set_barter_mod(-50); //killap's fix: was 50
@@ -154,7 +154,7 @@ procedure Node998 begin
    set_hostile;
 end
 procedure Node997 begin
-   
+
    //added by killap
    if (enclave_destroyed) then begin
       gdialog_mod_barter(-50);

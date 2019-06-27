@@ -98,7 +98,7 @@ end
 
 procedure map_enter_p_proc begin
    gang_member_map_enter
-   
+
    debug_msg("tyler count: " + global_var(GVAR_DEN_GANG_1_COUNT));
    debug_msg("lara count: " + global_var(GVAR_DEN_GANG_2_COUNT));
 end

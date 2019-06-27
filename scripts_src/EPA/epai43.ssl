@@ -54,7 +54,7 @@ end
 procedure drop_p_proc begin
 
 end
- 
+
 procedure use_p_proc begin
    if (global_var(GVAR_TEST_SOLAR_SCORCHER) == 0) then begin
       script_overrides;
@@ -62,5 +62,5 @@ procedure use_p_proc begin
    end else if (local_var(LVAR_First_Open) == 0) then begin
       display_msg(mstr(201));
       set_local_var(LVAR_First_Open,1);
-   end 
+   end
 end

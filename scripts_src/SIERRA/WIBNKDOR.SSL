@@ -277,7 +277,7 @@ end
 
 procedure use_skill_on_p_proc begin
    variable Skill_Used;
-   
+
    Skill_Used:=action_being_used;
 
    if (Skill_Used == SKILL_LOCKPICK) then begin

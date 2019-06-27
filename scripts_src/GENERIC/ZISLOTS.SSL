@@ -242,7 +242,7 @@ variable obj_near_machine := 0;
       dialogue_system_enter;
    end
    //end edit
-   
+
    /*if (obj_near_machine == 0) then begin
       dialogue_system_enter;
    end else begin
@@ -533,7 +533,7 @@ procedure Node003 begin
    if ((dude_caps < low_bet) and (won_jackpot == false)) then begin
       slot_reply(2175);
       //added by killap - expansion pack
-      if (global_var(GVAR_TOASTER_SLOTMACHINES) == 1) then          
+      if (global_var(GVAR_TOASTER_SLOTMACHINES) == 1) then
          slot_option(5000, Node020, 001);
       //end added
       slot_option(2176,Node999,001);
@@ -633,9 +633,9 @@ end
 
 //added by killap - expansion pack
 procedure Node020 begin
-   item_caps_adjust(dude_obj, machine_starting_caps);                                         
+   item_caps_adjust(dude_obj, machine_starting_caps);
    set_local_var(LVAR_Caps_Restocked_Time, game_time + restock_time);
-   set_local_var(LVAR_Caps, slot_tube_size - machine_starting_caps); 
+   set_local_var(LVAR_Caps, slot_tube_size - machine_starting_caps);
    slot_reply(5001);
    slot_option(5002,Node999,001);
 end

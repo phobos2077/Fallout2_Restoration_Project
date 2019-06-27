@@ -397,7 +397,7 @@ procedure Node001 begin
    Reply(103);
    NOption(104, Node002, 1);
    NLowOption(105, Node004);
-   NOption(106, Node004, 4); 
+   NOption(106, Node004, 4);
    NOption(107, Node006, 4);
    NOption(108, Node007, 4);
    if ( (not badger_flag(0)) and (san_fran_flag(SF_FUEL_COMP_KNOWN) or elron_whirly(EL_WH_STEALSHI) or shi_whirly(SH_WH_STEALELE) or san_fran_flag(SF_BROTHER_PLANS)) ) then //added san_fran_flag(SF_BROTHER_PLANS) - killap

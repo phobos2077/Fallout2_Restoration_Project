@@ -10,9 +10,9 @@
         Description:
 
         Log: The old NIPriGrv.SSL file didn't seem to work right, so I just started
-            over from scratch. I used ZIGenGrv.SSL as a basic outline, trimmed away 
-            the trap and karma-related code, added in a few lines of code from the 
-            old NIPriGrv.SSL file, and then added a couple lines of my own to complete 
+            over from scratch. I used ZIGenGrv.SSL as a basic outline, trimmed away
+            the trap and karma-related code, added in a few lines of code from the
+            old NIPriGrv.SSL file, and then added a couple lines of my own to complete
             it. You need 8 or more perception to get SAD added to your map.
 
 

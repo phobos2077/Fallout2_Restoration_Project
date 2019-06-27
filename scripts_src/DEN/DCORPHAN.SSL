@@ -333,14 +333,14 @@ procedure Attempted_Theft begin
          debug_msg("Orphan Stole "+item+" NCR Brahma Bucks.");
       end
    end
-   
+
    //new code by killap - 2 lines below are commented out by killap as well
    reg_anim_clear(self_obj);
    reg_anim_begin();
       reg_anim_animate(self_obj, ANIM_magic_hands_middle, rotation_to_tile(self_tile,dude_tile));
    reg_anim_end();
    //end added
-   
+
    //anim(self_obj, ANIM_magic_hands_middle, rotation_to_tile(self_tile,dude_tile));
    //animate_stand;
    set_local_var(LVAR_Time_Last_Steal,game_time + steal_again_time);

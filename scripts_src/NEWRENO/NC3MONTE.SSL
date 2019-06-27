@@ -183,7 +183,7 @@ procedure pickup_p_proc begin
    end
 end
 
-procedure talk_p_proc begin   
+procedure talk_p_proc begin
    start_gdialog(NAME,self_obj,4,-1,-1);
    gSay_Start;
       if (local_var(LVAR_NO_MONEY) == 1) then
@@ -194,7 +194,7 @@ procedure talk_p_proc begin
          call Node012;
    gSay_End;
    end_dialogue;
-   
+
    prev_node := 0;
 end
 
@@ -224,7 +224,7 @@ procedure Node990 begin
 end
 
 procedure Node991 begin
-   
+
    info_price := 750;
 
    if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-20))) then begin
@@ -254,7 +254,7 @@ end
 procedure Node992 begin
 
    info_price := 500;
-      
+
    if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-30))) then begin
       if (prev_node == 23) then
          call Node029;
@@ -281,7 +281,7 @@ end
 procedure Node993 begin
 
    info_price := 250;
-   
+
    if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-40))) then begin
       if (prev_node == 23) then
          call Node029;
@@ -332,8 +332,8 @@ procedure Node001a begin
       else
          floater(231);
    end
-   
-   nr_add_timer_event_rand(self_obj, 15, 30, float_param);   
+
+   nr_add_timer_event_rand(self_obj, 15, 30, float_param);
 end
 
 procedure Node001 begin
@@ -342,11 +342,11 @@ procedure Node001 begin
    end else
    if (local_var(LVAR_NO_MONEY) == 1) then begin
          floater(random(200,203));
-   end else begin  
+   end else begin
       if ( (obj_is_carrying_obj_pid(self_obj, PID_DECK_OF_CARDS)) or (obj_is_carrying_obj_pid(self_obj, PID_MARKED_DECK_OF_CARDS)) )  then begin
          if (dude_is_male) then
             floater(random(220,228));
-         else 
+         else
             floater(random(227,232));
       end else
          floater(random(215,216));
@@ -369,12 +369,12 @@ procedure Node002 begin
       NOption(246,Node003,004);
       NOption(247,Node005a,004);  //play game
    end
-   
+
    //NOption(241,Node003,-003); //you are a cheater
    NOption(242,Node005a,-003); //play game
    NOption(243,Node999,-003);
    NOption(244,Node999,-003);
-    
+
    //NOption(245,Node999,004); //you are a cheater
    //NOption(249,Node999,004);
    NOption(391,Node019,004);  //info!!!
@@ -430,7 +430,7 @@ procedure Node006 begin //sees no cheating
    NOption(264,Node007,004);
    NOption(265,Node007,004);
    NOption(266,Node007,004);
-   
+
    NOption(267,Node007,-003);
    NOption(268,Node007,-003);
    NOption(269,Node007,-003);
@@ -438,7 +438,7 @@ end
 
 procedure Node007 begin //player lost
    tmp1 := random(1,4);
-   
+
    if (tmp1 == 1) then
       suit := mstr(600);
    else if (tmp1 == 2) then
@@ -447,9 +447,9 @@ procedure Node007 begin //player lost
       suit := mstr(602);
    else if (tmp1 == 4) then
       suit := mstr(603);
-   
+
    tmp2 := random(2,10);
-   
+
    if (tmp2 == 2) then
       rank := mstr(604);
    else if (tmp2 == 3) then
@@ -468,9 +468,9 @@ procedure Node007 begin //player lost
       rank := mstr(611);
    else if (tmp2 == 10) then
       rank := mstr(612);
-   
+
    Reply(mstr(280) + rank + mstr(613) + suit + ".)" + " " + mstr(281+dude_is_female) + " " + mstr(283));
-   
+
    NOption(285,Node005a,-003);
    NOption(286,Node999,-003);
    if (prev_node == 8) then begin
@@ -483,19 +483,19 @@ end
 
 procedure Node008 begin //sees cheating
    Reply(mstr(300) + " " + mstr(301 + dude_is_female));
-   
+
    BOption(307,Node009,004);  //you CHEATER!
    NOption(308,Node009,004); //the one in your sleeve
-   
+
    BOption(303,Node009,-003);  //you CHEATER!
    NOption(304,Node007,-003);
    NOption(305,Node007,-003);
    NOption(306,Node007,-003);
-   
+
    NOption(309,Node007,004);
    NOption(310,Node007,004);
    NOption(311,Node007,004);
-   
+
    prev_node :=8;
 end
 
@@ -537,7 +537,7 @@ procedure Node013 begin
    if (dude_caps >= 100) then
       NOption(543,Node993,004);
    NOption(545,Node999,004);
-   
+
    prev_node := 13;
 end
 
@@ -555,9 +555,9 @@ procedure Node015 begin
    item_caps_adjust(dude_obj, 40);
    //item_caps_adjust(self_obj, -40);
    set_local_var(LVAR_MONEY,((local_var(LVAR_MONEY)) - 40));
-   
+
    Reply(mstr(375) + " " + mstr(376 + dude_is_female) + " " + mstr(378));
-   
+
    NOption(379,Node005a,-003); //again
    NOption(380,Node999,-003); //end
    NOption(381,Node005a,004); //again
@@ -575,19 +575,19 @@ end
 
 procedure Node016 begin
    Reply(mstr(385) + " " + mstr(386 + dude_is_female) + " " + mstr(388));
-   
+
    NOption(389,Node999,-003);
-   NOption(391,Node017,004); 
+   NOption(391,Node017,004);
    NOption(392,Node999,004);
-   
+
    set_local_var(LVAR_NO_MONEY,1);
 end
 
 procedure Node017 begin //INFO - paying debt
    info_price := 1000;
-   
+
    Reply(404);
-   
+
    if ((get_mystery_flag(MYSTERY_STATE_ASSIGNED)) and (know_scott == false) and (local_var(LVAR_WRIGHT_ASKED) != 1)) then
       NOption(405,Node020,004); //wright
    if ((get_track_lloyd(track_lloyd_assigned)) and (local_var(LVAR_LLYOD_ASKED) != 1)) then
@@ -607,9 +607,9 @@ end
 
 procedure Node019 begin //INFO
    info_price := 1000;
-   
+
    Reply(465);
-   
+
    if ((get_mystery_flag(MYSTERY_STATE_ASSIGNED)) and (know_scott == false) and (local_var(LVAR_WRIGHT_ASKED) != 1)) then
       NOption(466,Node023,004); //wright
    if ((get_track_lloyd(track_lloyd_assigned)) and (local_var(LVAR_LLYOD_ASKED) != 1)) then
@@ -650,10 +650,10 @@ procedure Node023 begin //wright
    NOption(482,Node027,004);
    NOption(483,Node019,004);
    NOption(484,Node999,004);
-   
+
    if (local_var(LVAR_NODE23_COUNT) < 2) then
      inc_local_var(LVAR_NODE23_COUNT);
-     
+
    prev_node := 23;
 
 end
@@ -666,12 +666,12 @@ procedure Node024 begin //llyod
    NOption(505,Node993,004);
    NOption(506,Node019,004);
    NOption(507,Node999,004);
-   
+
    if (local_var(LVAR_NODE24_COUNT) < 1) then
      inc_local_var(LVAR_NODE24_COUNT);
-     
+
    prev_node := 24;
-   
+
 end
 
 procedure Node025 begin //missing car
@@ -682,12 +682,12 @@ procedure Node025 begin //missing car
    NOption(525,Node993,004);
    NOption(526,Node019,004);
    NOption(527,Node999,004);
-   
+
    if (local_var(LVAR_NODE25_COUNT) < 1) then
      inc_local_var(LVAR_NODE25_COUNT);
-     
+
    prev_node := 25;
-      
+
 end
 
 procedure Node026 begin //other info
@@ -697,7 +697,7 @@ procedure Node026 begin //other info
    NOption(543,Node993,004);
    NOption(544,Node019,004);
    NOption(545,Node999,004);
-   
+
    prev_node := 26;
 end
 

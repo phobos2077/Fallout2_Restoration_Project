@@ -144,7 +144,7 @@ procedure destroy_p_proc begin
    if not(rnd_enc_flag(HOMESTEAD_FAIL)) then
       set_rnd_enc_flag(HOMESTEAD_FAIL);
    //end added
-   
+
 /* Set global_variable for Enemy status*/
 end
 

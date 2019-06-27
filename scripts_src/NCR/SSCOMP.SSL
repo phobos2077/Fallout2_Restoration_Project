@@ -188,7 +188,7 @@ procedure use_skill_on_p_proc begin
          end
       end else call use_fail;
    end
-end 
+end
 //end
 
 /**********************************************************************************

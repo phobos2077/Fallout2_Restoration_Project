@@ -347,7 +347,7 @@ procedure Node006
 begin
   gsay_reply(NAME, 250);
   giq_option(4, NAME, 251, Node012, 50);
-  
+
 end
 
 procedure Node007

@@ -426,7 +426,7 @@ end
 procedure Node003 begin
    Reply(mstr(225 + (know_tully == false)) + mstr(227));
    set_know_tully;
-   
+
    //added by killap - expansion pack
    if (global_var(GVAR_ABBEY_TULLY) == 3) then
       NOption(2060, Node069, 004);
@@ -436,8 +436,8 @@ procedure Node003 begin
    end
    if ( (local_var(LVAR_Said_58) != 0) and (local_var(LVAR_Said_60) == 0) ) then
       NOption(2050, Node060, 004);
-   //end added   
-   
+   //end added
+
    NOption(228, Node990, -003);
    NOption(229, Node999, -003);
    NOption(230 + dude_is_female, Node990, 004);
@@ -1005,7 +1005,7 @@ end
 
 procedure Node061 begin
    Reply(2011);
-   
+
    if ( (global_var(GVAR_ABBEY_TULLY) < 2) ) then
       NOption(2012, Node062, 004);
    else if (global_var(GVAR_ABBEY_BOOZE) < 2) then
@@ -1075,7 +1075,7 @@ end
 
 procedure Node066 begin
    variable tmp;
-      
+
    set_global_var(GVAR_ABBEY_BOOZE,4);
    display_msg(mstr(3001));
    give_xp(500);
@@ -1119,7 +1119,7 @@ procedure Node069 begin
    NOption(2063, Node999, 004);
    if (obj_is_carrying_obj_pid(dude_obj,PID_ABBEY_BOOZE)) then
       NOption(2064, Node065, 004);
-      
+
    Node_69 := 1;
 end
 
@@ -1127,7 +1127,7 @@ procedure Node900 begin
    set_global_var(GVAR_ABBEY_BOOZE,2);
    //set global
    call Node999;
-end   
+end
 
 procedure Node901 begin
    set_global_var(GVAR_ABBEY_BOOZE,2);
@@ -1142,7 +1142,7 @@ end
 
 procedure Node903 begin
    gfade_out(600);
-   move_to(self_obj,passed_out_tile,elevation(self_obj));     
+   move_to(self_obj,passed_out_tile,elevation(self_obj));
    reg_anim_clear(self_obj);
    reg_anim_begin();
    reg_anim_animate(self_obj,ANIM_fall_front,-1);

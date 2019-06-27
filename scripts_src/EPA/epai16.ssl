@@ -44,7 +44,7 @@ procedure use_obj_on_p_proc begin
       script_overrides;
       set_local_var(LVAR_Uses, local_var(LVAR_Uses) + 1);
    end
-   
+
    if (local_var(LVAR_Uses) == 10) then begin
       display_msg(mstr(100));
       script_overrides;

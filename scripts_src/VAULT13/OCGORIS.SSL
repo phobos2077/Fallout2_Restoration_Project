@@ -209,7 +209,7 @@ procedure timed_event_p_proc begin
          if (Goris_In_Party) then begin
             if (Is_Crippled(self_obj)) then
                floater(2000);
-            else if (get_critter_stat(self_obj, STAT_current_rad)) then 
+            else if (get_critter_stat(self_obj, STAT_current_rad)) then
                floater(2001);
             else if (get_poison(self_obj)) then
                floater(2002);
@@ -340,7 +340,7 @@ procedure talk_p_proc begin
    GetReaction;
 
    ReactToLevel; //added by killap
-   
+
    find_party_background; //added by killap
 
    if (lvar_bit(LVAR_State, STATE_PACK_TROUBLE) and not lvar_bit(LVAR_State, STATE_PACK_TROUBLE_TALK)) then begin
@@ -825,7 +825,7 @@ end
 
 procedure Node021 begin
    //Reply(204);
-   Reply(mstr(204) + " " + dude_name + mstr(216)); // edit by killap 
+   Reply(mstr(204) + " " + dude_name + mstr(216)); // edit by killap
    NLowOption(205, Node022); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
    NOption(206, Node022, 4);
 end
@@ -988,7 +988,7 @@ end
 
 procedure Node026 begin
    Reply(1161);
-   
+
    set_lvar_bit_on(LVAR_State, STATE_PACK_TROUBLE_TALK); //added by killap
    NOption(1162, Node014, 4);
    NOption(1163, Node999, 4);

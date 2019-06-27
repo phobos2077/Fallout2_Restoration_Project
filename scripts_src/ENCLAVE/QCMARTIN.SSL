@@ -371,7 +371,7 @@ end
 
 procedure Node016 begin
    Reply(170);
-   
+
    GOption(171,Node013,004);
 end
 
@@ -408,6 +408,6 @@ procedure Node020 begin
        NOption(182,Node014,004);
    BOption(183,Node012,004);
    NOption(184,Node003,004);
-end 
+end
 
 //xxxxxxxxxxxxxxxxxxxx

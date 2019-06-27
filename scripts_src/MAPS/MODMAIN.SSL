@@ -60,21 +60,21 @@ variable slaughter_tile;
 variable laddie; //added by killap
    debug_msg("start: map_enter_p_proc for MODOC");
    debug_msg("global_var(GVAR_LOAD_MAP_INDEX) == " + global_var(GVAR_LOAD_MAP_INDEX));
-   
-   
+
+
    //added by killap - prevent car from disappearing if the car runs out of gas while on the town circle
    if ((metarule(30, 0) == 21) and (cur_map_index != MAP_CAR_DESERT) and (car_out_of_fuel)) then begin
       set_global_var(GVAR_CAR_PLACED_TILE, 0);
       Create_Car(CAR_MODOC_HEX,CAR_MODOC_ELEV)
       if (tile_contains_pid_obj(CAR_MODOC_HEX, CAR_MODOC_ELEV, PID_DRIVABLE_CAR) != 0) then begin
          Create_Trunk(CAR_MODOC_HEX,CAR_MODOC_ELEV)
-      end 
-   end else 
+      end
+   end else
       Check_Create_Car(CAR_MODOC_HEX, CAR_MODOC_ELEV)
    //end added
-   
+
    //Check_Create_Car(CAR_MODOC_HEX, CAR_MODOC_ELEV)
-   
+
    set_global_var(GVAR_LOAD_MAP_INDEX, 0);
    if (jonny_arriving_at_home) then begin
       override_map_start_hex(15121,0,5);
@@ -139,7 +139,7 @@ end
 procedure map_exit_p_proc begin
    check_set_clear_props
    off_jonny_arriving_at_home;
-   
+
    call clear_items_on_map;
 end
 
@@ -149,12 +149,12 @@ end
 
 procedure clear_items_on_map begin
 variable i := 1;   //just a counter
-   
-   while (i < 600) do begin  //Items pids start from 1 to 5xx  
+
+   while (i < 600) do begin  //Items pids start from 1 to 5xx
       if (tile_contains_obj_pid(1,0,i)) then
          destroy_object(tile_contains_pid_obj(1,0,i));
       else
          i := (i + 1);
    end
-   
+
 end

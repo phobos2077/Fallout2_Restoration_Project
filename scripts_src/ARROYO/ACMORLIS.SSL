@@ -131,7 +131,7 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   
+
    //added by killap
    if (not(obj_is_carrying_obj_pid(self_obj,PID_FLINT)) and (local_var(LVAR_Stole_Flint) == 0)) then begin
       set_local_var(LVAR_Stole_Flint,1);
@@ -139,7 +139,7 @@ procedure critter_p_proc begin
       set_local_var(LVAR_Stole_Flint, 0);
    end
    //end added
-   
+
    if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
@@ -469,7 +469,7 @@ begin
    variable item2;
    variable JunkIt;
    set_local_var(LVAR_Gave_Flint, 1);
-   
+
     if (obj_is_carrying_obj_pid(dude_obj, PID_HEALING_POWDER) > 2) then begin
       //remove healing powders
       item:=obj_carrying_pid_obj(dude_obj,PID_HEALING_POWDER);
@@ -519,7 +519,7 @@ end
             Reply(300); //added check if she is no longer carrying the flint.
          else
             Reply(302);
-            
+
          NOption(115,Node999,004);
    end
 end*/
@@ -542,7 +542,7 @@ end*/
          set_local_var(LVAR_Stole_Flint,0);
       end
       //end added
-      
+
       set_local_var(LVAR_Gave_Flint,1);
 
       if (obj_is_carrying_obj_pid(self_obj,PID_FLINT)) then begin
@@ -553,10 +553,10 @@ end*/
          else
             Reply(302);
       end
-         
+
       NOption(115,Node999,004);
    end
-   else 
+   else
       call Node008;  //added by killap: no more tricking Morlis that you have powder when you really dropped it.
 end*/
 
@@ -674,12 +674,12 @@ end
            item:=obj_carrying_pid_obj(self_obj,PID_FLINT);
            rm_obj_from_inven(self_obj,item);
            add_obj_to_inven(dude_obj,item);
-           
+
            if (local_var(LVAR_Gave_Flint) == 0) then begin
                set_local_var(LVAR_Gave_Flint,1);
                give_xp(EXP_TALK_FLINT);
            end
-           
+
            Reply(154);
        end else begin
            Reply(303); //added check if she is no longer carrying the flint.

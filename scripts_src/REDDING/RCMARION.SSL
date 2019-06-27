@@ -229,10 +229,10 @@ procedure talk_p_proc begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
            set_local_var(LVAR_Said_3,1);//added by killap
-           call Node002; 
+           call Node002;
        gSay_End;
        end_dialogue;
-       
+
    end
 
    else if ((global_var(GVAR_FROG_MORTON) == FROG_DEAD) and (local_var(LVAR_Gave_Reward) == 3)) then begin //3 and not 0
@@ -290,7 +290,7 @@ procedure talk_p_proc begin
        gSay_End;
        end_dialogue;
    end
-   
+
 // Begin Seraph's Code
    else if (global_var(GVAR_BAR_BRAWL) == BRAWL_TALKED_BOTH) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
@@ -408,7 +408,7 @@ procedure talk_p_proc begin
        gSay_End;
        end_dialogue;
    end
-  
+
    else begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
@@ -426,20 +426,20 @@ procedure destroy_p_proc begin
 /* Increment the aligned critter counter*/
    inc_good_critter
    set_global_var(GVAR_ENEMY_REDDING,1);
-   
+
    //added by killap - expansion
    if (global_var(GVAR_FROG_MORTON) > 0) then
       set_global_var(GVAR_FROG_MORTON,4); //failure
    if (global_var(GVAR_REDDING_WHORE_CUT) > 0) then
       set_global_var(GVAR_REDDING_WHORE_CUT,5); //failure
    if (global_var(GVAR_BAR_BRAWL) > 0) then
-      set_global_var(GVAR_BAR_BRAWL,10); //failure   
+      set_global_var(GVAR_BAR_BRAWL,10); //failure
    if (global_var(GVAR_BAR_BRAWL) > 0) then
-      set_global_var(GVAR_BAR_BRAWL,10); //failure   
+      set_global_var(GVAR_BAR_BRAWL,10); //failure
    if (global_var(GVAR_WIDOW_ROONEY) > 0) then
-      set_global_var(GVAR_WIDOW_ROONEY,5); //failure         
+      set_global_var(GVAR_WIDOW_ROONEY,5); //failure
    //end added
-   
+
 /* Set global_variable for Enemy status*/
 end
 
@@ -527,11 +527,11 @@ procedure Node002 begin
       end
       else
          Reply(114);
-         
+
       NOption(117,Node999,004);
    end else begin
    //end added by killap
-   
+
       if (local_var(LVAR_Said_2) == 0) then begin
          inc_local_var(LVAR_Said_2);
          Reply(108);
@@ -543,7 +543,7 @@ procedure Node002 begin
          NOption(110,Node008,004);
          BOption(111,Node020,004);
       end
-  
+
       NOption(112,Node999,004);
    end
 end
@@ -718,7 +718,7 @@ procedure Node020 begin
    BOption(177,Node998,004);
    NOption(178,Node010,004);
    NOption(179,Node021,004);
-   
+
    prev_node := 20; //added by killap
 end
 
@@ -846,7 +846,7 @@ procedure Node031 begin
       inc_local_var(LVAR_Gave_Reward);
       item_caps_adjust(dude_obj,100);
    end
-//end killap's code   
+//end killap's code
    Reply(216);
 
    GOption(217,Node047,004);
@@ -955,7 +955,7 @@ procedure Node040 begin
    if (local_var(LVAR_Gave_Reward) == 2) then begin
       inc_local_var(LVAR_Gave_Reward); //only needed to inc the value
    end
-//end killap's code   
+//end killap's code
    Reply(243);
 
    BOption(244,Node020,004);

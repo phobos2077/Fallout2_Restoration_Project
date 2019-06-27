@@ -312,7 +312,7 @@ procedure Node001 begin
          //NOption(105, Node003, 4);
          NOption(105, Node320, 4); //edit by killap
       end
-   
+
       if (armor_flag_any or local_var(LVAR_Armor_Known)) then begin
          if (not local_var(LVAR_Upgrade_Flag)) then
             NOption(106, Node320, 4);
@@ -426,7 +426,7 @@ procedure Node009 begin
       Reply(136);
    else
       Reply(184);
-      
+
    inc_local_var(LVAR_Upgrade_Flag); //moved by killap from Node019
    NOption(137, Node001, 4);
    NOption(138, Node999, 4);
@@ -503,7 +503,7 @@ procedure Node019 begin
 //   inc_local_var(LVAR_Upgrade_Flag); //fix by killap - moved to Node009
    //added by killap
    if (armor_flag(ARMOR_START)) then
-      set_armor_flag(ARMOR_GOTTEN); 
+      set_armor_flag(ARMOR_GOTTEN);
    //end added
    add_obj_to_inven(dude_obj, create_object(PID_HARDENED_POWER_ARMOR, 0, 0));
    set_local_var(LVAR_Timer, 0);

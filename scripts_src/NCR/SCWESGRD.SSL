@@ -171,7 +171,7 @@ end
 
 //added by killap
 procedure map_update_p_proc begin
-   i_westin_guard_obj := self_obj; 
+   i_westin_guard_obj := self_obj;
 end
 //end added
 

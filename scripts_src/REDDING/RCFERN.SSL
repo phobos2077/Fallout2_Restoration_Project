@@ -176,7 +176,7 @@ procedure talk_p_proc begin
          gSay_End;
          end_dialogue;
       end
-   
+
       set_global_var(CARAVAN_GVAR,REDDING_CARAVAN_NONE);
       set_global_var(GVAR_WADE_PAYOUT,1); //moved down by killap
    end else
@@ -304,7 +304,7 @@ procedure Node008a begin
        call Node002;
    else if ((caravan_guards_left < (caravan_total_guards/4)) or //edit by killap was > in both checks
             (caravan_carts_left < ((caravan_total_carts*4)/10))) then
-       call Node004;       
+       call Node004;
    else if ((caravan_guards_left < (caravan_total_guards/2)) or //edit by killap was > in both checks
             (caravan_carts_left < ((caravan_total_carts*6)/10))) then
        call Node003;

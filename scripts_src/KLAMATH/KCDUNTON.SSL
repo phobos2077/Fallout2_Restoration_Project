@@ -264,12 +264,12 @@ procedure map_enter_p_proc begin
       call rustle_status;
       call should_i_be_here;
    end
-   
+
    //added by killap - expansion (remove Duntons when accused of rustling)
    if (global_var(GVAR_KLAMATH_FIND_RUSTLERS) == FIND_RUSTLERS_SUCCESS) then
       destroy_object(self_obj);
    //end
-   
+
 end
 
 procedure rustle_status begin
@@ -593,7 +593,7 @@ procedure talk_p_proc begin
       end_dialogue;
    end
 
-   else if (global_var(GVAR_RUSTLE_FAIL) == 1) then begin               
+   else if (global_var(GVAR_RUSTLE_FAIL) == 1) then begin
          start_gdialog(NAME,self_obj,4,-1,-1);
          gSay_Start;
          call Node007;
@@ -1180,12 +1180,12 @@ procedure Node003 begin
       set_local_var(LVAR_talk_bout_work,1);
       NOption(135,Node006,004);
    end
-   
+
    //added by killap - expansion pack
    if ( (obj_is_carrying_obj_pid(dude_obj, 285 ) > 0) and (global_var(GVAR_KLAMATH_FIND_RUSTLERS) == FIND_RUSTLERS_ACCEPT) ) then
       NOption(800,Node026,004);
    //end added
-   
+
    NOption(136,Node011,004);
    NOption(137,Node020,004);
    NOption(138,Node999,004);
@@ -1634,20 +1634,20 @@ procedure Node901
 begin
    if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
       Reply(706);
-      
+
       NOption(708,Node902,004);
    end
    else begin
       Reply(705);
-      
+
       BOption(708,Node998,004);
-   end 
+   end
 end
- 
+
 procedure Node902
 begin
    display_msg(mstr(707));
-   
+
    if ( (global_var(GVAR_RUSTLE_ACCEPT) == 1) or (area == PASTURE) ) then
       set_global_var(GVAR_RUSTLE_FAIL, 1);
    set_global_var(GVAR_SCARE_DUNTONS, 1);

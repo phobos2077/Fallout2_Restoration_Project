@@ -177,11 +177,11 @@ procedure talk_p_proc begin
 
    GetReaction;
    //added by killap
-   
+
    if ( global_var( GVAR_GECKO_FIND_WOODY ) == WOODY_REWARDED ) or ( global_var( GVAR_GECKO_FIND_WOODY ) == WOODY_FOUND ) then
        gdialog_set_barter_mod(-50);
    //end added by killap
-   
+
    move_inven_to_temp_box
    move_inven_from_box
 
@@ -354,7 +354,7 @@ procedure Node006 begin
 end
 
 procedure Node006a begin
-   
+
    if ( global_var( GVAR_GECKO_FIND_WOODY ) == WOODY_REWARDED ) or ( global_var( GVAR_GECKO_FIND_WOODY ) == WOODY_FOUND ) then
       gdialog_mod_barter(-50);
    else

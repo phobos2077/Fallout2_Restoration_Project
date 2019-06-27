@@ -189,14 +189,14 @@ procedure talk_two_p_proc begin
    end
 end
 
- 
+
 procedure combat_p_proc
 begin
    if (global_var(GVAR_ENEMY_PRIMITIVE_TRIBE)==1) then begin
       attack(dude_obj);
    end
 end
- 
+
 procedure destroy_p_proc
 begin
    inc_good_critter
@@ -215,11 +215,11 @@ begin
          attack(dude_obj);
       end
    end
-   
+
    if ( ((global_var(GVAR_MERCHANT_MEETING) > 1) or (global_var(GVAR_TRIBE_WEAPONS) == 2) or (global_var(GVAR_TRIBE_GHOST) == 3) or (global_var(GVAR_SULIK_SISTER) >= 3) ) and (local_var(LVAR_Herebefore) != 3) ) then begin
       set_local_var(LVAR_Herebefore,3);
    end
-  
+
 end
 
 procedure Node998 begin
@@ -244,7 +244,7 @@ begin
    NOption(101,Node002,004);
 	//giq_option(4, 1311, 102, Node999, 50);
 	NOption(102,Node999,004);
-	
+
 	NLowOption(103,Node002);
 	NLowOption(104,Node999);
 end

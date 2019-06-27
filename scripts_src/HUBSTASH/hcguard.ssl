@@ -151,7 +151,7 @@ procedure map_enter_p_proc begin
       guard1b_obj := self_obj;
    else if (self_tile == 23128) then
       guard1c_obj := self_obj;
-      
+
    critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_HUBOLOGIST_STASH);
 end
 

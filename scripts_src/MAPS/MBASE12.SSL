@@ -46,7 +46,7 @@ procedure map_enter_p_proc begin
        display_mstr(100);
    end
    //end added
-   
+
    base_lighting;
 end
 

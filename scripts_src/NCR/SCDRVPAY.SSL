@@ -264,9 +264,9 @@ procedure Node006 begin
    number := caravan_brahmin_left;
 
    debug_msg("SCDRVPAY: caravan_brahmin_left: " + caravan_brahmin_left);
-   
+
    //added by killap
-   if (cattle_drive(CATTLE_FAIL)) then begin 
+   if (cattle_drive(CATTLE_FAIL)) then begin
       set_cattle_drive(CATTLE_ABANDON);
    //end added
    end else if (number == 0) then begin

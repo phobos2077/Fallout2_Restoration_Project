@@ -116,6 +116,6 @@ procedure map_enter_p_proc begin
    if (global_var(GVAR_QUEST_RAT_GOD) == RAT_GOD_SUCCESS) then begin
       destroy_object(self_obj);
    end
-   
+
    //add_timer_event(self_obj,game_ticks(random(1,5)),0);
 end

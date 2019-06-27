@@ -436,7 +436,7 @@ end
 
 procedure map_enter_p_proc begin
    i_cell_door_obj := self_obj; //added by killap
-   
+
 /* Set up the door state when the player first enters the map */
    if (local_var(LVAR_Set_Door_Status) == 0) then begin
        set_local_var(LVAR_Set_Door_Status,1);

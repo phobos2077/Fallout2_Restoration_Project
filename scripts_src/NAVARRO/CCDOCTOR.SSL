@@ -376,7 +376,7 @@ end
 procedure Node013 begin
    if (global_var(GVAR_NAVARRO_XARN) < NAVARRO_XARN_FINISHED) then
       set_global_var(GVAR_NAVARRO_XARN, NAVARRO_XARN_KNOW_ABOUT);
-   
+
    set_map_var(MVAR_Exterminate,1);
    Reply(152);
 

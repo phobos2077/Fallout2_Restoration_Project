@@ -183,7 +183,7 @@ end
 //added by killap
 procedure map_update_p_proc begin
    if (i_lao_merchant <= 0) then
-      i_lao_merchant := self_obj; 
+      i_lao_merchant := self_obj;
 end
 //end added
 
@@ -533,7 +533,7 @@ end
 
 procedure Node025 begin
    Reply(230);
-   
+
    if (has_skill(dude_obj, SKILL_CONVERSANT) > 90) then
       NOption(231, Node026, 4);
    NOption(232, Node027, 4);
@@ -563,14 +563,14 @@ end
 
 procedure Node052 begin
    item_caps_adjust(dude_obj, -2000);
-   
+
    Reply(270);
    NOption(271, Node042, 4);
 end
 
 procedure Node029 begin
    item_caps_adjust(dude_obj, -1500);
-   
+
    Reply(285);
    NOption(286, Node030, 4);
 end
@@ -669,7 +669,7 @@ end
 
 procedure Node047 begin
    Reply(450);
-   
+
    if (dude_caps >= 10000) then
       NOption(451, Node048, 4);
    if (dude_caps >= 5000) then
@@ -682,7 +682,7 @@ procedure Node048 begin
 
    Reply(460);
    NOption(461, Node999, 4);
-   
+
    if (global_var(GVAR_SAN_FRAN_SUB) < SHI_SUB_HAS_PASSWORD) then
       set_sub_flag(SHI_SUB_HAS_PASSWORD);
 end

@@ -101,8 +101,8 @@ procedure damage_p_proc begin
    end else begin
       script_overrides;
    end
-   
-   
+
+
 
 end
 

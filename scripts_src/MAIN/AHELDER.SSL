@@ -137,7 +137,7 @@ end
 //added by killap -- done to prevent the Elder from escaping her cell at the Enclave
 procedure combat_p_proc begin
    if (cur_map_index != MAP_ARROYO_VILLAGE) then begin
-      if (combat_is_initialized) then begin 
+      if (combat_is_initialized) then begin
          script_overrides;
          reg_anim_clear(self_obj);
       end
@@ -201,7 +201,7 @@ procedure talk_p_proc begin
    GetReaction;
 
    ReactToLevel; //added by killap
-      
+
    set_global_var(GVAR_TALKED_TO_ELDER,1);
 
 // in the Village

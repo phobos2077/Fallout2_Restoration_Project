@@ -243,7 +243,7 @@ procedure talk_p_proc begin
       //if (not map_var(MVAR_Force_Fields_Lower)) then
       //   set_map_var(MVAR_Force_Fields_Lower, 1);
       //edit by killap
-      if (map_var(MVAR_Force_Fields_Lower) == 1) then  
+      if (map_var(MVAR_Force_Fields_Lower) == 1) then
          set_map_var(MVAR_Force_Fields_Lower, 0);
       //end edit
       call Node039;

@@ -68,7 +68,7 @@ procedure use_p_proc begin
    script_overrides;
    if (source_obj == dude_obj) then //added by killap
       display_msg(mstr(100));
-end 
+end
 //end modified
 
 /*procedure map_update_p_proc begin

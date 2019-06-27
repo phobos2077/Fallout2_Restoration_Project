@@ -254,7 +254,7 @@ procedure destroy_p_proc begin
 /* Set global_variable for Enemy status*/
    set_san_fran_flag(SF_OZ9_DEAD);
    set_struggle_flag(STRUG_OZ9DEAD);
-   
+
    //added by killap
    if (global_var(GVAR_SAN_FRAN_ELRON_GAS_QST) == 1) then
       set_global_var(GVAR_SAN_FRAN_ELRON_GAS_QST, 3); //set to failed - killap
@@ -440,7 +440,7 @@ procedure Node013 begin
       end
       set_local_var(LVAR_SHIP_FUEL,1);
    end
-//end killap's code  
+//end killap's code
    Reply(144);
    NLowOption(145, Node999);
 end

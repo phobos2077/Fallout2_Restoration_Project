@@ -178,7 +178,7 @@ procedure Node2022;
 
 #define cassidy_party_member_options    \
            NOption(9999, Node1101, 004); \
-           party_member_default_options  
+           party_member_default_options
 
 /* Local variables which do not need to be saved between map changes. */
 variable Only_Once:=0;
@@ -240,13 +240,13 @@ procedure map_update_p_proc begin
          end
       end
    end
-   
+
    //added by killap - needed for "hacky fix" for kitty drug... :(
    if (waiting == 1) then begin
       waiting := 0;
    end
    //end added
-   
+
 end
 
 procedure timed_event_p_proc begin
@@ -292,15 +292,15 @@ end
    Movement to attacking the player on sight can be placed in here.*/
 procedure critter_p_proc begin
    //added by killap
-   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_JOHN_MACRAE)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_JOHN_MACRAE))) then begin 
+   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_JOHN_MACRAE)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_JOHN_MACRAE))) then begin
       set_map_var(MVAR_Kitty_Drug, 0);
       waiting := 1;
       if (get_critter_stat(self_obj, STAT_st) < 10) then begin
          use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
       end
-   end 
+   end
    //end added
-   
+
    if( Perform_Critter_Float == 1 ) then begin
       Perform_Critter_Float := 0;
       // Float an appropriate message based on where we are.
@@ -367,11 +367,11 @@ procedure use_obj_on_p_proc begin
       set_local_var(LVAR_Used_Heart_Pills,1);
       floater(30000);
    end
-   
+
    else if (obj_pid(obj_being_used_with) == PID_CIGARETTE) then begin
       script_overrides;
       floater(30100);
-   end   
+   end
    //end
 
    else if( (obj_pid(obj_being_used_with) == PID_STIMPAK) or (obj_pid(obj_being_used_with) == PID_SUPER_STIMPAK) ) then
@@ -418,7 +418,7 @@ procedure talk_p_proc begin
    GetReaction;
 
    find_party_background;
-   
+
    if ( ( MacRae_Ptr != 0 ) or ( party_is_waiting ) ) then begin
        start_gdialog(NAME,self_obj,4,HEAD_CASSIDY,PartyMemberBackground);
        //start_gdialog(NAME,self_obj,4,-1,-1);
@@ -436,7 +436,7 @@ procedure talk_p_proc begin
        end_dialogue;
    end
    set_local_var( LVAR_Herebefore, 1 );
-   
+
    //comment out by killap
    /*if( Perform_Party_Add == 1 ) then begin
       Perform_Party_Add := 0;
@@ -452,12 +452,12 @@ procedure talk_p_proc begin
       add_timer_event( self_obj, game_ticks( random(40, 50) ), 1);
    end*/
    //end comment out by killap
-   
-     //begin B-team mod  
+
+     //begin B-team mod
      loc2:= critter_inven_obj(self_obj, 2);
      if (loc2 == 0) then begin
          loc2 := critter_inven_obj(self_obj, 1);
-     end  
+     end
      if (critter_inven_obj(self_obj, 0) != loc1) then begin
        if (critter_inven_obj(self_obj, 0) == 0) then
          metarule3(107, self_obj, FID_NMCANA, 0);
@@ -724,7 +724,7 @@ procedure Node017a begin
 
    // Set up Out of Business sign.
    create_east_out_of_business( 19284, 0 );
-   
+
    call Node019; //added by killap
 end
 
@@ -851,7 +851,7 @@ procedure Node1100 begin
       BOption(3100, Node999, 001);
       NOption(3200, Node999, 001);
    end*/
-   
+
 end
 
 // Cassidy dialog
@@ -939,7 +939,7 @@ end
 procedure Node1108 begin
    set_local_var( LVAR_Cassidy_Knows_Plan, 1 );
    Reply(294);
-   
+
    // edit by killap
    if (f2_flag_any >= f2_state_tribe_kidnapped) then
       NOption(297, Node1109, 001);

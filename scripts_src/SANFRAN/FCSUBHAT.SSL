@@ -120,7 +120,7 @@ end
 procedure use_skill_on_p_proc begin
    variable Skill_Used;
    Skill_Used:=action_being_used;
-   
+
    if (Skill_Used == SKILL_LOCKPICK) then begin
       script_overrides;
       Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Lock_Bonus);
@@ -144,9 +144,9 @@ end
 
 procedure use_obj_on_p_proc begin
    variable Tool;
-   
+
    Tool:=obj_pid(obj_being_used_with);
-   
+
    if (Tool == PID_LOCKPICKS) then begin
      script_overrides;
      Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Lockpick_Bonus);

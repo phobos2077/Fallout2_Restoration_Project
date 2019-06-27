@@ -241,12 +241,12 @@ procedure destroy_p_proc begin
    inc_evil_critter
    set_exit_grids(0,MAP_SAN_FRAN_DOCK,0,13908,2);
    call Endgame_Info;
-   
 
-   
+
+
       door:=tile_contains_pid_obj(ENCLAVE_DOOR_TILE2,elevation(self_obj),ENCLAVE_DOOR_PID2);
       obj_unlock(door);
-   
+
 
    if ((global_var(GVAR_ENCLAVE_FRANK_DEAD) == 0) and (violence_filter_setting >= VLNCLVL_NORMAL)) then begin
 //       obj_open(door);
@@ -333,7 +333,7 @@ procedure Node004 begin
    BOption(117,Node998,004);
    NOption(118,Node005,004); //edit by killap - was GOption, Node998
    BOption(135,Node998,004);
-end 
+end
 
 procedure Node005 begin
    Reply(119);
@@ -431,7 +431,7 @@ procedure Endgame_Info begin
        //added by killap
        else
            set_global_var(GVAR_ENDGAME_MOVIE_GECKO,5);
-       //end added by killap   
+       //end added by killap
    end
 
 // Redding Endgame
@@ -514,7 +514,7 @@ procedure Endgame_Info begin
             if ((global_var(GVAR_SAN_FRAN_VERTI_ELE_QST) == 2) or (global_var(GVAR_SAN_FRAN_VERTI_STEAL_SHI_QST) == 2)) then
                set_global_var(GVAR_ENDGAME_MOVIE_SAN_FRAN_ELRON,2);
             else
-               set_global_var(GVAR_ENDGAME_MOVIE_SAN_FRAN_ELRON,3); 
+               set_global_var(GVAR_ENDGAME_MOVIE_SAN_FRAN_ELRON,3);
          end
       end
       //end killap code

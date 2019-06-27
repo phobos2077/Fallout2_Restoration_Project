@@ -125,7 +125,7 @@ end
 //added by killap
 procedure map_update_p_proc begin
    if (self_tile == CARLSON_GATE_GUARD_CAPTAIN_TILE) then
-      imCaptain := 1;    
+      imCaptain := 1;
 end
 //end added
 
@@ -149,7 +149,7 @@ procedure critter_p_proc begin
 
    if (imCaptain) then
       call checkGateAttack;
-      
+
    //added by killap
    if ( (imCaptain) and (merk_visible) ) then begin
       if (tile_distance(tile_num(merk_obj), 19513) < 6) then begin

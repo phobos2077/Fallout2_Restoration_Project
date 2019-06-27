@@ -70,7 +70,7 @@ procedure critter_p_proc begin
    if ( ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or (hostile) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
       attack(dude_obj);
    end
-   
+
    if ( (global_var(GVAR_ABBEY_PUMP) >= PUMP_FIXED) and (local_var(LVAR_End_Sequence) !=1) ) then begin
       add_timer_event(self_obj,game_ticks(6),1);
       set_local_var(LVAR_End_Sequence,1);

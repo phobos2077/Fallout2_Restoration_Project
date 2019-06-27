@@ -132,7 +132,7 @@ procedure map_enter_p_proc begin
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_DOCTOR);
    if (andV15Status(V15_KILLED_SQUATTERS)) then
       set_local_var(LVAR_Hostile, 1);
-   
+
    //added by killap - expansion
    if ( (global_var(GVAR_V15_DOC_FREE) >= 2) and (cur_map_index == MAP_VAULT_15) ) then
       destroy_object(self_obj);
@@ -195,7 +195,7 @@ procedure talk_p_proc begin
    //added by killap - expansion
    end else if (global_var(GVAR_V15_DOC_FREE) == 1) then begin
       floater(210);
-   end else if ( ((global_var(GVAR_V15_DOC_FREE) == 2) and (dude_is_stupid)) or (global_var(GVAR_V15_DOC_FREE) == 3)) then begin   
+   end else if ( ((global_var(GVAR_V15_DOC_FREE) == 2) and (dude_is_stupid)) or (global_var(GVAR_V15_DOC_FREE) == 3)) then begin
       floater(random(250,251));
    end else if (global_var(GVAR_V15_DOC_FREE) == 2) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
@@ -212,7 +212,7 @@ procedure talk_p_proc begin
        end_dialogue;
    end
    set_local_var(LVAR_Herebefore, 1);
-   
+
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like
@@ -268,13 +268,13 @@ end
 
 procedure Node001 begin
    Reply(103);
-   
+
    // added by killap - expansion
    if ( (global_var(GVAR_V15_KILL_DARION) >= 2) and (global_var(GVAR_V15_DOC_FREE) == 0) ) then begin
       NOption(200, Node013, 4);
       NLowOption(201, Node013);
    end
-   
+
    if (dude_cur_hits < dude_max_hits) then
       NLowOption(104, Node002);
    if (dude_is_poisoned or dude_is_irradiated) then
@@ -445,7 +445,7 @@ procedure Node013 begin
    Reply(202);
    NLowOption(204, Node014);
    NOption(203, Node014, 4);
-   
+
 end
 
 procedure Node014 begin
@@ -453,7 +453,7 @@ procedure Node014 begin
    Reply(205);
    NLowOption(207, Node999);
    NOption(206, Node999, 4);
-   
+
    set_global_var(GVAR_V15_DOC_FREE,1);
 end
 

@@ -42,7 +42,7 @@ begin
       item2:=obj_carrying_pid_obj(dude_obj,PID_RADIO_DYNAMITE);
       rm_obj_from_inven(dude_obj, item2);
     end
-    
+
     add_timer_event(self_obj, 1, 1);
     call check_p_proc;
   end
@@ -71,10 +71,10 @@ procedure use_p_proc begin
       item:=obj_carrying_pid_obj(dude_obj,PID_ACTIVE_RADIO_DYNAMITE);
       rm_obj_from_inven(dude_obj, item);
       //destroy_object(self_obj);
-      //art_change_fid_num(self_obj,117440558); 
+      //art_change_fid_num(self_obj,117440558);
    end
-   
-   
+
+
 end
 
 procedure pickup_p_proc

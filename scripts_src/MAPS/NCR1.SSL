@@ -102,7 +102,7 @@ procedure map_enter_p_proc begin
    end
 
    Lighting;
-   
+
    if ((global_var(GVAR_STANWELL_PAYOUT) == 0) and (global_var(GVAR_STANWELL_STATUS) == 1) and (map_var(MVAR_Made_Payoff) == 0)) then begin
        inc_map_var(MVAR_Made_Payoff);
        Critter:=create_object_sid(PID_AGILE_GUARD_MALE,0,0,SCRIPT_RCNORD);

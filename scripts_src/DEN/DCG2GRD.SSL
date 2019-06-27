@@ -119,12 +119,12 @@ procedure map_enter_p_proc begin
    gang_member_map_enter
 
    //added by killap - expansion
-   if (cur_map_index == MAP_DEN_ENTRANCE) then begin 
+   if (cur_map_index == MAP_DEN_ENTRANCE) then begin
       if (gangwar(state_gangwar_in_fight)) then begin
          set_obj_visibility(self_obj, true);
       end else begin
          set_obj_visibility(self_obj, false);
-      end    
+      end
    end else if (cur_map_index == MAP_DEN_BUSINESS and at_party_fight) then begin
       set_obj_visibility(self_obj, true);
    end else begin
@@ -132,7 +132,7 @@ procedure map_enter_p_proc begin
          set_obj_visibility(self_obj, false);
       end else begin
          set_obj_visibility(self_obj, true);
-      end   
+      end
    end
 
    //added by killap
@@ -146,10 +146,10 @@ procedure map_enter_p_proc begin
 
    if ( (cur_map_index == MAP_DEN_RESIDENTIAL) and (gangwar(state_gangwar_2won)) ) then
       destroy_object(self_obj);
-      
+
    debug_msg("tyler count" + global_var(GVAR_DEN_GANG_1_COUNT));
    debug_msg("lara count" + global_var(GVAR_DEN_GANG_2_COUNT));
-   
+
 end
 
 procedure map_exit_p_proc begin
@@ -161,14 +161,14 @@ end
 
 procedure critter_p_proc begin
    gang_critter_p_proc
-   
+
    //added by killap - expansion
    if (gangwar(state_gangwar_2won)) then begin
       if (self_team == TEAM_PLAYER) then begin
          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_GANG_2);
       end
    end
-   
+
    if (lara_dead) then begin
       if (cur_map_index == MAP_DEN_BUSINESS) then begin
          if (gangwar(state_gangwar_in_fight)) then begin
@@ -185,7 +185,7 @@ procedure critter_p_proc begin
          end
       end
    end
-   
+
    if ( (gangwar(state_gangwar_2won)) and (cur_map_index == MAP_DEN_RESIDENTIAL) ) then begin
       if (lara_dead == false) then begin
          if (returned_to_church) then begin
@@ -201,7 +201,7 @@ procedure critter_p_proc begin
       end
    end
    //end added
-   
+
 end
 
 procedure damage_p_proc begin

@@ -238,7 +238,7 @@ procedure destroy_p_proc begin
    if (global_var(GVAR_SPECIAL_ENCOUNTER_HOLY2) == 0) then
       set_global_var(GVAR_SPECIAL_ENCOUNTER_HOLY2,1); //so you no longer encounter them a second time despite you killing them
    //end added
-   
+
 /* Increment the aligned critter counter*/
    inc_good_critter
 

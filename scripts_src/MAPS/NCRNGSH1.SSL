@@ -5,7 +5,7 @@
         Description: Opis
 
         Log:
-           
+
 
            Created:
 
@@ -37,7 +37,7 @@ end
 procedure map_enter_p_proc begin
    variable Critter;
    variable item;
-   
+
    if (map_first_run) then
       display_msg(mstr(100));
 
@@ -65,7 +65,7 @@ procedure map_enter_p_proc begin
       add_obj_to_inven(Critter,item);
       item:=create_object(PID_STIMPAK,0,0);
       add_obj_to_inven(Critter,item);
-            
+
       if (tile_contains_pid_obj(18890,dude_elevation,PID_MALE_NCR_RANGER) and (not(has_rep_slaver)) ) then begin
          //do nothing
       end else begin
@@ -83,19 +83,19 @@ procedure map_enter_p_proc begin
       Create_Car(CAR_RND_DESERT6_HEX,CAR_RANDOM_DESERT_ELEV)
       if (tile_contains_pid_obj(CAR_RND_DESERT6_HEX, CAR_RANDOM_DESERT_ELEV, PID_DRIVABLE_CAR) != 0) then begin
          Create_Trunk(CAR_RND_DESERT6_HEX,CAR_RANDOM_DESERT_ELEV)
-      end 
-   end else 
+      end
+   end else
       Check_Create_Car(CAR_RND_DESERT6_HEX, CAR_RANDOM_DESERT_ELEV)
    //end added
-   
+
    Lighting;
-   
+
 end
 
 procedure map_update_p_proc begin
    //display_msg("num of rangers: " + map_var(MVAR_SH1_RANGERS));
    Lighting;
 end
- 
+
 procedure map_exit_p_proc begin
 end

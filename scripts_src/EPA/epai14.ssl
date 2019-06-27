@@ -23,7 +23,7 @@ procedure look_at_p_proc;
 procedure use_skill_on_p_proc;
 procedure use_p_proc;
 
-#define FLASHING  ( (self_tile == 16901) or (self_tile == 16893) or (self_tile == 23889) or (self_tile == 23897) ) 
+#define FLASHING  ( (self_tile == 16901) or (self_tile == 16893) or (self_tile == 23889) or (self_tile == 23897) )
 #define BROKEN_GENERATOR_HEX  (16901)
 
 procedure destroy_p_proc;
@@ -41,13 +41,13 @@ procedure map_enter_p_proc begin
       reg_anim_animate_forever(self_obj, ANIM_stand);
       reg_anim_end();
    end
-      
+
    add_timer_event(self_obj, 1, 1);
 
    if ( (self_tile == BROKEN_GENERATOR_HEX) and (global_var(GVAR_EPALIGHTING_GEN) < 4) ) then begin
       add_timer_event(self_obj, game_ticks(random(5, 10)), 3);
    end
-      
+
 end
 
 procedure map_update_p_proc begin
@@ -86,7 +86,7 @@ begin
    variable LVar1 := 0;
    variable LVar2 := 0;
    variable generator := 0;
-   
+
    LVar2 := obj_carrying_pid_obj(dude_obj, PID_PUMP_PARTS);
    LVar1 := obj_pid(obj_being_used_with);
    if (global_var(GVAR_EPALIGHTING_GEN) == 3) then begin

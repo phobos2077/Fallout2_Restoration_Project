@@ -50,7 +50,7 @@ procedure map_enter_p_proc begin
    Create_Car(CAR_CAR_OUTTA_GAS_HEX,CAR_CAR_OUTTA_GAS_ELEV)
    if (tile_contains_pid_obj(CAR_CAR_OUTTA_GAS_HEX, CAR_CAR_OUTTA_GAS_ELEV, PID_DRIVABLE_CAR) != 0) then begin
       Create_Trunk(CAR_CAR_OUTTA_GAS_HEX,CAR_CAR_OUTTA_GAS_ELEV)
-   end 
+   end
 
    Lighting;
 

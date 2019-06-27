@@ -123,15 +123,15 @@ end
 procedure use_obj_on_p_proc begin
    variable Tool;
    variable modifier := 0;
-   
+
    Tool:=obj_pid(obj_being_used_with);
 
    if ( ((Tool == PID_MULTI_TOOL) or (Tool == PID_SUPER_TOOL_KIT)) and (map_var(FIELD_STATUS) != FIELD_DESTROYED) ) then begin //added super_tool_kit - killap
        script_overrides;
-       
+
        if (Tool == PID_SUPER_TOOL_KIT) then
          modifier := 20;
-       
+
        if (skill_success(source_obj,SKILL_REPAIR,(TOOL_BONUS + modifier))) then begin //edit by killap: was SKILL_SCIENCE
            if (map_var(FIELD_STATUS) == FIELD_ENABLED) then begin
                set_map_var(FIELD_STATUS,FIELD_DISABLED);

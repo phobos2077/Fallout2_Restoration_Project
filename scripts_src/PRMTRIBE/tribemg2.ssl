@@ -75,7 +75,7 @@ procedure critter_p_proc begin
    if ( (map_var(MVAR_Attack_Player) == 1) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
        attack(dude_obj);
    end
-   
+
 end
 
 procedure timed_event_p_proc begin

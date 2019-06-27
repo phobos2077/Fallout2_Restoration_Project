@@ -7,10 +7,10 @@
 
 /* Include Files */
 #include "..\headers\define.h"
-#include "..\headers\ABBEY.H" 
+#include "..\headers\ABBEY.H"
 
 #define NAME                    SCRIPT_ABMATT
-#define TOWN_REP_VAR            GVAR_TOWN_REP_ABBEY 
+#define TOWN_REP_VAR            GVAR_TOWN_REP_ABBEY
 #define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_BLUE)
 
 #include "..\headers\command.h"
@@ -96,7 +96,7 @@ procedure critter_p_proc begin
          add_timer_event(self_obj,game_ticks(0),speech);
       end
    end
-   
+
    if ( ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or (hostile) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
       attack(dude_obj);
    end
@@ -184,8 +184,8 @@ end
 **************************************************************************************/
 
 procedure talk_p_proc begin
-   
-   
+
+
    start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
            if (local_var(LVAR_Herebefore) == 0) then
@@ -275,12 +275,12 @@ procedure preach begin
       add_timer_event(self_obj,game_ticks(6),speech);
    end else if (line == 6) then begin
       rm_fixed_timer_event(self_obj, speech);
-      floater(205); 
+      floater(205);
       line := 7;
-      add_timer_event(self_obj,game_ticks(6),speech);  
+      add_timer_event(self_obj,game_ticks(6),speech);
    end else if (line == 7) then begin
       rm_fixed_timer_event(self_obj, speech);
-      floater(206);   
+      floater(206);
       line := 8;
       add_timer_event(self_obj,game_ticks(9),speech);
    end else if (line == 8) then begin
@@ -300,7 +300,7 @@ procedure preach begin
      add_timer_event(self_obj,game_ticks(6),speech);
    end else if (line == 11)  then begin
       rm_fixed_timer_event(self_obj, speech);
-      floater(210);   
+      floater(210);
       line := 12;
       add_timer_event(self_obj,game_ticks(6),speech);
    end else if (line == 12) then begin

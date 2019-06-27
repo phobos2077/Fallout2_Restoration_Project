@@ -165,37 +165,37 @@ procedure timed_event_p_proc begin
    if (fixed_param == CHECK_REPAIR) then begin
       if (repair_bot1 > 0 or repair_bot2 > 0 or repair_bot3 > 0) then begin
          if ( (map_var(MVAR_Repair_Request1) > REPAIR_NONE) or (map_var(MVAR_Repair_Request2) > REPAIR_NONE) or (map_var(MVAR_Repair_Request3) > REPAIR_NONE) or
-            (map_var(MVAR_Repair_Request4) > REPAIR_NONE) or (map_var(MVAR_Repair_Request5) > REPAIR_NONE) or (map_var(MVAR_Repair_Request6) > REPAIR_NONE) or 
+            (map_var(MVAR_Repair_Request4) > REPAIR_NONE) or (map_var(MVAR_Repair_Request5) > REPAIR_NONE) or (map_var(MVAR_Repair_Request6) > REPAIR_NONE) or
             (map_var(MVAR_Repair_Request7) > REPAIR_NONE) or (map_var(MVAR_Repair_Request8) > REPAIR_NONE) or (map_var(MVAR_Repair_Request9) > REPAIR_NONE) or
             (map_var(MVAR_Repair_Request10) > REPAIR_NONE) or (map_var(MVAR_Repair_Request11) > REPAIR_NONE) or (map_var(MVAR_Repair_Request12) > REPAIR_NONE) ) then begin
 
             if ( (self_elevation == 0 and (map_var(MVAR_Security_Level_1) == 1)) or (self_elevation == 1 and (map_var(MVAR_Security_Level_2) == 1)) or (self_elevation == 2 and ((map_var(MVAR_Security_Level_3) == 1) or (global_var(GVAR_SIERRA_BASE_ENEMY) == 1))) ) then begin
 
 
-               if ((self_elevation == 0 and ((elevation(repair_bot1) == 0 or elevation(repair_bot2) == 0  or elevation(repair_bot3) == 0)) and 
+               if ((self_elevation == 0 and ((elevation(repair_bot1) == 0 or elevation(repair_bot2) == 0  or elevation(repair_bot3) == 0)) and
                ((tile_in_box(tile_num(repair_bot1), 19326, 19319, 21119, 21126)) or
                (tile_in_box(tile_num(repair_bot2), 19326, 19319, 21119, 21126)) or
                (tile_in_box(tile_num(repair_bot3), 19326, 19319, 21119, 21126)))) or
-   
+
                ((self_elevation == 2) and ((elevation(repair_bot1) == 2 or elevation(repair_bot2) == 2  or elevation(repair_bot3) == 2)) and
                ((tile_in_box(tile_num(repair_bot1), 20143, 20137, 21937, 21944)) or
                (tile_in_box(tile_num(repair_bot2), 20143, 20137, 21937, 21944)) or
                (tile_in_box(tile_num(repair_bot3), 20143, 20137, 21937, 21944)))) or
-   
+
                ((((elevation(repair_bot1) == 1 and self_elevation == 1) or (elevation(repair_bot2) == 1 and self_elevation == 1) or (elevation(repair_bot2) == 1 and self_elevation == 1)) and map_var(MVAR_Security_Level_2) == 1) or ((tile_distance(tile_num(self_obj),tile_num(repair_bot1)) < 5 and obj_is_visible_flag(repair_bot1) and elevation(repair_bot1) == self_elevation) or (tile_distance(tile_num(self_obj),tile_num(repair_bot2)) < 5 and obj_is_visible_flag(repair_bot2) and elevation(repair_bot2) == self_elevation) or (tile_distance(tile_num(self_obj),tile_num(repair_bot3)) < 5 and obj_is_visible_flag(repair_bot3) and elevation(repair_bot3) == self_elevation)))) then begin
                   obj_unlock(self_obj);
-                  //set_local_var(LVAR_Locked, STATE_INACTIVE);      
+                  //set_local_var(LVAR_Locked, STATE_INACTIVE);
                end else begin
                   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
                      obj_lock(self_obj);
-                     //set_local_var(LVAR_Locked, STATE_ACTIVE);         
+                     //set_local_var(LVAR_Locked, STATE_ACTIVE);
                   end
                end
             end
          end else begin
             if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
                obj_lock(self_obj);
-               //set_local_var(LVAR_Locked, STATE_ACTIVE);         
+               //set_local_var(LVAR_Locked, STATE_ACTIVE);
             end
          end
          add_timer_event(self_obj, 1, CHECK_REPAIR);
@@ -499,7 +499,7 @@ procedure map_enter_p_proc begin
    else begin
        obj_unlock(self_obj);
    end
-   
+
    add_timer_event(self_obj, 1, CHECK_REPAIR); //added by killap
 end
 
@@ -1517,7 +1517,7 @@ procedure Check_Repair(variable Cur_Var) begin
        end else begin
          if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
             obj_lock(self_obj);
-            set_local_var(LVAR_Locked, STATE_ACTIVE);         
+            set_local_var(LVAR_Locked, STATE_ACTIVE);
          end
        end
    //end

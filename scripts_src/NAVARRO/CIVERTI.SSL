@@ -130,7 +130,7 @@ procedure Node006 begin
       NOption(216,Node999,001);
    else
       NOption(215,Node999,004);
-   
+
    set_map_var(MVAR_Verti_Satellite_Alignment,1);
 end
 
@@ -148,7 +148,7 @@ end
 
 procedure Node009 begin
    Reply(240);
-   
+
    if (dude_is_stupid) then
       NOption(mstr(243) + dude_name + mstr(244),Node990,001);
    else

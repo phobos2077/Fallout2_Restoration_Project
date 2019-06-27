@@ -98,7 +98,7 @@ end
 procedure timed_event_p_proc begin
    if (combat_is_initialized) then begin
       add_timer_event(self_obj,game_ticks(5),5);
-   end else if (not((game_time_hour >= 1900) or (game_time_hour < 600))) then begin 
+   end else if (not((game_time_hour >= 1900) or (game_time_hour < 600))) then begin
       if (global_var(GVAR_ABBEY_PUMP) < PUMP_FIXED) then begin
          if (fixed_param == install_part) then begin
             if(step == 0) then begin
@@ -231,7 +231,7 @@ procedure critter_p_proc begin
    if ( ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or (hostile) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
       attack(dude_obj);
    end
-   
+
    else if ( (global_var(GVAR_ABBEY_PUMP) >= PUMP_FIXED) and (local_var(LVAR_End_Sequence) !=1 ) ) then begin
       rm_fixed_timer_event(self_obj, fixed_param);
       set_local_var(LVAR_End_Sequence,1);
@@ -383,7 +383,7 @@ end
 procedure Node004 begin
    Reply(302);
    NOption(303,Node006,4);
-   
+
    From_Node := 4;
 end
 
@@ -395,7 +395,7 @@ procedure Node005 begin
      NOption(307,Node006,4);
    else
      NOption(308,Node006,4);
-     
+
    From_Node := 5;
 end
 
@@ -404,7 +404,7 @@ procedure Node006 begin
       Reply(304);
    else if (From_Node == 5) then
       Reply(309);
-      
+
    NOption(311,Node999,4);
 end
 

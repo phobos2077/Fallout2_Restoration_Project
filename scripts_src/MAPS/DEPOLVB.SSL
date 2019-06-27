@@ -154,14 +154,14 @@ procedure CountDown begin
    level_three:=TIMER_LEVEL_2-total_time;
    level_two:=TIMER_LEVEL_3-total_time;
    level_one:=TIMER_LEVEL_4-total_time;*/
-   
+
    //edit by killap
    level_four:=TIMER_LEVEL_1-total_time;
    level_three:=TIMER_LEVEL_1-total_time;
    level_two:=TIMER_LEVEL_1-total_time;
    level_one:=TIMER_LEVEL_1-total_time;
    //end edit
-   
+
    if (global_var(GVAR_SIERRA_BASE_CONTAMINATION_TIMER) != 0) then begin
        display_msg(mstr(100));
    end
@@ -178,7 +178,7 @@ procedure CountDown begin
        display_msg(mstr(102));
        display_msg(mstr(103));
    end
-   
+
    else if (total_time < TIMER_LEVEL_3) then begin
        minute:=level_three/ONE_GAME_MINUTE;
        second:=(level_three % ONE_GAME_MINUTE)/ONE_GAME_SECOND;

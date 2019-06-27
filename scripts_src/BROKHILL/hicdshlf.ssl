@@ -42,7 +42,7 @@ procedure Node999;
 procedure start begin
 end
 
-procedure pickup_p_proc begin 
+procedure pickup_p_proc begin
    if (local_var(LVAR_Do_Once) == 0 ) then begin
       if ( (global_var(GVAR_CHAD_DEAD) == 1) or (map_var(MVAR_House_Encounter) == 2) ) then begin
          script_overrides;
@@ -123,8 +123,8 @@ procedure drop_p_proc
 begin
 
 end
- 
+
 procedure use_p_proc
 begin
- 
+
 end

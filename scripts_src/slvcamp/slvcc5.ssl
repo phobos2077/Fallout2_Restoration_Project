@@ -150,12 +150,12 @@ end
 procedure destroy_p_proc begin
    inc_evil_critter
    set_map_var(MVAR_Slaver_Count, ((map_var(MVAR_Slaver_Count)) - 1));
-   
+
    if (map_var(MVAR_Slaver_Count) == 0) then begin
       set_global_var(GVAR_WIPED_OUT_SLAVER_CAMP,1);
       display_msg(message_str(SCRIPT_SLVCM1, 200));
    end
-   
+
    GUARD_obj := 0;
 end
 
@@ -165,7 +165,7 @@ end
 
 procedure map_enter_p_proc begin
    GUARD_obj := self_obj;
-   
+
    if (map_first_run) then begin
       set_local_var(LVAR_Home_Tile, self_tile);
    end

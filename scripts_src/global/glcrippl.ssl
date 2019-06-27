@@ -19,7 +19,7 @@ begin
          only_once := 1;
       end
    end
-   else begin   
+   else begin
       if only_once == 1 then begin
          hide_iface_tag(5);
          only_once := 0;
@@ -32,7 +32,7 @@ begin
          only_once2 := 1;
       end
    end
-   else begin   
+   else begin
       if only_once2 == 1 then begin
          hide_iface_tag(6);
          only_once2 := 0;

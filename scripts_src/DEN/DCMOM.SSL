@@ -227,7 +227,7 @@ procedure Node001 begin
    Reply(200 + herebefore);
    NOption(mstr(202) + dude_name + ".", Node002, 001); //added . - killap
    NOption(203, Node999, 001);
-   
+
    set_herebefore; //added by killap
 end
 
@@ -330,7 +330,7 @@ procedure Node013 begin
       NOption(410, Node008, 004);
    end
    NOption(411, Node009, 004);
-   
+
    //added by killap - expansion pack
    if (global_var(GVAR_DEN_ORPHANAGE) == 1) then
       NOption(800, Node026, 004);
@@ -341,7 +341,7 @@ procedure Node013 begin
    else if (global_var(GVAR_DEN_ORPHANAGE) == 5) then
       NOption(821, Node030, 004);
    //end added - expansion
-   
+
    NOption(g_mstr(376),Node999,004); //edit by killap
 
    set_herebefore; //added by killap
@@ -449,7 +449,7 @@ procedure Node030 begin
       Reply(1822);
    else
       Reply(823);
-      
+
    NOption(824, Node992, 004);
 end
 
@@ -459,7 +459,7 @@ end
 
 procedure Node992 begin
    display_msg(mstr(850));
-      
+
    if (global_var(GVAR_DEN_ORPHANAGE) == 3) then begin
       give_xp(500);
    end else if (global_var(GVAR_DEN_ORPHANAGE) == 4) then begin
@@ -467,7 +467,7 @@ procedure Node992 begin
    end else begin
       give_xp(1000);
    end
-      
+
    set_global_var(GVAR_DEN_ORPHANAGE,6);
    set_ate_at_moms;
    dude_eat_food(large_meal);
@@ -476,7 +476,7 @@ procedure Node992 begin
       critter_heal(dude_obj, random(2, 8));
    gfade_in(ONE_GAME_SECOND);
    inc_global_var_amt(GVAR_TOWN_REP_THE_DEN,5);
-   set_global_var(GVAR_DEN_ORPHANAGE_BUILD_TIME,game_time); 
+   set_global_var(GVAR_DEN_ORPHANAGE_BUILD_TIME,game_time);
 end
 
 //end added by killap - expansion pack

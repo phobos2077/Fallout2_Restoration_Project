@@ -170,7 +170,7 @@ procedure map_update_p_proc begin
       if (global_var(GVAR_NCR_BRAHMIN_QST) == 1) then begin
         set_global_var(GVAR_NCR_BRAHMIN_QST, 2);
         set_felix_seed(FELIX_CRITTERS_DONE);
-      end        
+      end
     end
   end
 end
@@ -431,7 +431,7 @@ procedure Node008 begin
    end else begin
       Reply(127);
    end
-   
+
    if (not V13KNOWN) then
       NLowOption(128, Node011);
    NOption(129, Node011, 4);
@@ -440,7 +440,7 @@ procedure Node008 begin
    if (ncr_global_state(NCR_SALBOB_REF_DOCTOR)) then
       NOption(131, Node010, 4);
    NOption(132, Node016, 4);
-   
+
    // added by killap - RP
    if not(get_westin_flag(WESTIN_DEAD)) then begin
      if (local_var(LVAR_Pill_Inquiry) == 1) then
@@ -449,7 +449,7 @@ procedure Node008 begin
        NOption(311, Node036, 4);
    end
    // end added
-      
+
    if (ncr_rangers_known) then
       NOption(133, Node017, 4);
 
@@ -515,7 +515,7 @@ end
 
 procedure Node015 begin
    Reply(155);
-   
+
    NLowOption(147, Node008); //added by killap
    NLowOption(120, Node999); //added by killap
    NOption(156, Node008, 4);
@@ -725,7 +725,7 @@ procedure check_pills begin
             set_local_var(LVAR_Stealing_Pills,STEALING_SUCCESS);
         end else begin
           set_local_var(LVAR_Stealing_Pills,0);
-        end     
+        end
       end
    end
    return 1;

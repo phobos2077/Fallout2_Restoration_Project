@@ -146,7 +146,7 @@ procedure Node019;
                                            (5 * (local_var(LVAR_Repaired) == repair_success)) +   /*changed from 0*/     \
                                            (10 * (local_var(LVAR_Repaired) == repair_critical_success))) /*changed from == machine_repair_bonus*/
 #define get_slot_penalty                  ((slot_penalty + (win_payoff * jackpot_penalty)) + machine_repair_bonus) /*added bonus-killap*/
-#define slot_roll                         (roll_vs_skill(dude_obj, SKILL_GAMBLING, get_slot_penalty)) 
+#define slot_roll                         (roll_vs_skill(dude_obj, SKILL_GAMBLING, get_slot_penalty))
 
 #define slot_floater(x)                   float_msg(self_obj, message_str(NAME,x), FLOAT_COLOR_SFX)
 #define slot_floater_rand(x,y)            slot_floater(random(x,y))
@@ -171,8 +171,8 @@ procedure Node019;
 //                                            set_global_var(GVAR_NEW_RENO_MCGEE_SEED, mcgee_state_jackpot); /*added by killap*/  \
 //                                          end                                                                     \
 //                                          debug_msg("\nSlot money remaining == "+local_var(LVAR_Caps));
-//end comment out by killap                                       
-                                         
+//end comment out by killap
+
 #define block_play_check                  (won_jackpot) or (dude_caps < low_bet)
 
 
@@ -190,7 +190,7 @@ procedure Node019;
                                           debug_msg("\nSlot money remaining == "+local_var(LVAR_Caps));
 //end killap code
 
-//((slot_tube_size <= 0) or 
+//((slot_tube_size <= 0) or
 
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
@@ -279,9 +279,9 @@ procedure use_obj_on_p_proc begin
    variable Tool;
    variable the_roll;
    variable item;
-   
+
    script_overrides;
-   
+
    if (mcgee_playing_slots) then begin
          display_mstr(321);
    end else if ((mcgee_jackpot) or (mcgee_jackpot_settled)) then begin
@@ -290,13 +290,13 @@ procedure use_obj_on_p_proc begin
          display_mstr(323);
    end else begin
          Tool:=obj_pid(obj_being_used_with);
-         
+
          if ( Tool == PID_MULTI_TOOL) then begin
             the_roll:=roll_vs_skill(dude_obj,SKILL_REPAIR,-20);
          end else if ( Tool == PID_SUPER_TOOL_KIT ) then begin
             the_roll:=roll_vs_skill(dude_obj,SKILL_REPAIR,-10);
          end
-         
+
          if (not(is_success(the_roll))) then begin //killap's fix: added (not(
             if (is_critical(the_roll)) then begin
                display_mstr(324);
@@ -324,7 +324,7 @@ variable the_roll;
    if (not(mcgee_jackpot_settled)) then
       set_mcgee_played_machine
    //end killap code
-   
+
    if ((action_being_used == SKILL_GAMBLING) and (dude_has_gambling_skills)) then begin
       script_overrides;
       display_mstr(320);
@@ -371,16 +371,16 @@ end
 procedure Node997 begin
  variable the_roll1;
  variable penalty;
- 
+
  penalty := ( ((-145 * (dude_luck < 9)) + (75 * (dude_luck >= 8))) + (machine_repair_bonus) + (coin_mult*10) );
- 
+
  debug_msg("machine bonus" + machine_repair_bonus);
  debug_msg("total penalty" + penalty);
  the_roll1 := (roll_vs_skill(dude_obj, SKILL_GAMBLING, penalty));
- 
+
  if (is_success(the_roll1)) then begin
    win_payoff := 500;
-   call Node002; 
+   call Node002;
  end else begin
    win_payoff := 0;
    call Node002;
@@ -642,7 +642,7 @@ variable temp;
    //added by killap
    if (won_jackpot) then
       win_payoff := 500;
-   //end added by killap  
+   //end added by killap
    do_slot_payoff(win_payoff)
 
    slot_reply(temp);

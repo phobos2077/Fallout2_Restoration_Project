@@ -257,7 +257,7 @@ procedure map_enter_p_proc begin
       //NEVER SET AI FOR NPC's
       //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PARTY_LENNY_DEFENSIVE);
    end
-   
+
    //added by killap
    add_timer_event(self_obj, random(25, 40), 900);
 end
@@ -290,13 +290,13 @@ procedure map_update_p_proc begin
          end
       end
    end
-   
+
    //added by killap - needed for "hacky fix" for kitty drug... :(
    if (waiting == 1) then begin
       waiting := 0;
    end
-   //end added  
-   
+   //end added
+
 end
 
 //added by killap - expansion
@@ -306,7 +306,7 @@ procedure use_obj_on_p_proc begin
       display_msg(g_mstr(20000));
    end
 
-   if ( (obj_pid(obj_being_used_with) == PID_GAMMA_GULP_BEER) or (obj_pid(obj_being_used_with) == PID_ROENTGEN_RUM) or (obj_pid(obj_being_used_with) == PID_ROT_GUT) ) then begin 
+   if ( (obj_pid(obj_being_used_with) == PID_GAMMA_GULP_BEER) or (obj_pid(obj_being_used_with) == PID_ROENTGEN_RUM) or (obj_pid(obj_being_used_with) == PID_ROT_GUT) ) then begin
       if (local_var(LVAR_Time_To_Glow) == 0) then begin
          set_local_var(LVAR_Time_To_Glow,1);
          float_msg(self_obj, mstr(5100),FLOAT_COLOR_SICK);
@@ -329,24 +329,24 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   
+
    //added by killap
-   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_LENNY)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_LENNY))) then begin 
+   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_LENNY)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_LENNY))) then begin
       set_map_var(MVAR_Kitty_Drug, 0);
       waiting := 1;
       if (get_critter_stat(self_obj, STAT_st) < 10) then begin
          use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
       end
-   end 
+   end
    //end added
-   
+
    //added by killap - expansion
    if (local_var(LVAR_Time_To_Glow) == 1) then begin
       obj_set_light_level(self_obj,100,3);
       set_local_var(LVAR_Time_To_Glow,2);
    end
    //end added
-   
+
    if ( ((local_var(LVAR_Hostile) == 2) or
          ( (cur_town == AREA_GECKO) and (global_var(GVAR_ENEMY_GECKO)) ) or //edit by killap - added ( (cur_town == AREA_GECKO) and (global_var(GVAR_ENEMY_GECKO)) )
          (local_var(LVAR_Personal_Enemy) == 1)) and
@@ -681,7 +681,7 @@ procedure timed_event_p_proc begin
          if (Lenny_In_Party) then begin
             if (Is_Crippled(self_obj)) then
                floater(5000);
-            else if (get_critter_stat(self_obj, STAT_current_rad)) then 
+            else if (get_critter_stat(self_obj, STAT_current_rad)) then
                floater(5001);
             else if (get_poison(self_obj)) then
                floater(5002);
@@ -821,7 +821,7 @@ procedure PartyFree begin
       end
    end
    //end added
-   
+
    if (k > 1) then
       Heal_Cost:=60;
    gfade_out(600);
@@ -844,7 +844,7 @@ procedure Node922 begin
    if (local_var(LVAR_GECKO_DESCENDANT_KNOWN) == 0) then begin
       call PayDude;
    end
-   
+
    prev_node := 922;
 end
 
@@ -1585,7 +1585,7 @@ procedure Node1000 begin
    if ((get_westin_flag(WESTIN_DRUGS_KNOWN) or (MacRae_In_Party)) and local_var(LVAR_Heart_Health_Talk) == 0) then
       NOption(6000,Node077,004);
    if ((obj_is_carrying_obj_pid(dude_obj,PID_HEART_PILLS)) and not(get_westin_flag(WESTIN_LENNY_TALKED))) then
-      NOption(6001,Node081,004);   
+      NOption(6001,Node081,004);
 
 end
 

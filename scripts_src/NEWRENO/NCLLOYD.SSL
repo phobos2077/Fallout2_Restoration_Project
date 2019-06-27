@@ -176,7 +176,7 @@ procedure map_exit_p_proc begin
       destroy_object(self_obj);
    end
    //end added by killap
-   
+
    else if ((lloyd_run) or (lloyd_dead) or (lloyd_in_golgatha)) then begin
       if (lloyd_dead == false) then begin
          set_lloyd_took_money;
@@ -233,8 +233,8 @@ procedure map_update_p_proc begin
          prev_node :=0;
       end
    end
-   
-   
+
+
    if (init_golgatha) then begin
       if (Lloyd_In_Party) then begin
          set_self_abandon_party;
@@ -256,11 +256,11 @@ procedure critter_p_proc begin
       end
    end
    //end added by killap
-   
+
    if (remove_lloyd) then begin
       gfade_in(0);
       debug_msg("remove_lloyd in critter_p_proc");
-      
+
       if ((dude_strength) < (self_strength)) then begin
          if ( (local_var(LVAR_Attack) == 1) and not((hostile)) ) then begin
             floater(1054);
@@ -286,7 +286,7 @@ procedure critter_p_proc begin
 
       //if (self_visible) then begin
             //check_set_obj_visiblility(self_obj, true);
-       
+
       //end
       //destroy_object(self_obj);
    end else if ((lloyd_in_golgatha) and (bomb_lloyd)) then begin
@@ -333,7 +333,7 @@ procedure talk_p_proc begin
       floater(1052);
    end
    //end added by killap
-   
+
    //added by killap
    if ((hostile)) then begin
       //added check since his script crashes if he cannot see you when he is mad - killap
@@ -406,11 +406,11 @@ procedure Node981 begin
    else if (get_escape(escape_none)) then
       set_escape(escape_threaten);
    //end added
-   
+
    going_to_golgatha := true;
 end
 procedure Node979 begin
-   if ((dude_strength > 5) or (dude_wearing_power_armor) or (dude_wearing_combat_armor) or (true_party_size > 0) or (has_trait(TRAIT_TRAIT, dude_obj, TRAIT_bruiser)) or (has_trait(TRAIT_OBJECT , dude_obj, TRAIT_kamikaze)) or (has_rep_berserker)) then begin //was (has_trait(TRAIT_OBJECT, dude_obj, TRAIT_bruiser)) - killap 
+   if ((dude_strength > 5) or (dude_wearing_power_armor) or (dude_wearing_combat_armor) or (true_party_size > 0) or (has_trait(TRAIT_TRAIT, dude_obj, TRAIT_bruiser)) or (has_trait(TRAIT_OBJECT , dude_obj, TRAIT_kamikaze)) or (has_rep_berserker)) then begin //was (has_trait(TRAIT_OBJECT, dude_obj, TRAIT_bruiser)) - killap
       call Node006;
    end else begin
       call Node005;
@@ -424,7 +424,7 @@ procedure Node978 begin
    call Node007;
 end
 procedure Node977 begin
-   if ((dude_strength > 5) or (dude_wearing_power_armor) or (dude_wearing_combat_armor) or (true_party_size > 0) or (has_trait(TRAIT_TRAIT, dude_obj, TRAIT_bruiser)) or (has_trait(TRAIT_OBJECT , dude_obj, TRAIT_kamikaze)) or (has_rep_berserker)) then begin //was (has_trait(TRAIT_OBJECT, dude_obj, TRAIT_bruiser)) - killap 
+   if ((dude_strength > 5) or (dude_wearing_power_armor) or (dude_wearing_combat_armor) or (true_party_size > 0) or (has_trait(TRAIT_TRAIT, dude_obj, TRAIT_bruiser)) or (has_trait(TRAIT_OBJECT , dude_obj, TRAIT_kamikaze)) or (has_rep_berserker)) then begin //was (has_trait(TRAIT_OBJECT, dude_obj, TRAIT_bruiser)) - killap
       call Node008;
    end else begin
       call Node007;
@@ -467,7 +467,7 @@ procedure Node972 begin
       set_remove_lloyd;
       floater(1051);
    //anim_move_to_point_rate(map_exit_tile, 5) //test
-      
+
 end
 procedure Node971 begin
    set_escape(escape_follow);
@@ -536,7 +536,7 @@ procedure Node947 begin
 //   set_lloyd_traps; - comment out by killap
    //critter_attempt_placement(dude_obj, under_grave_tile_dude, 1);
    move_to(dude_obj, under_grave_tile_dude, 1);
-   
+
    //added by killap
    set_remove_lloyd;
    prev_node := 947;

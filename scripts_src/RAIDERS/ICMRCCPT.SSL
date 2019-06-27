@@ -72,7 +72,7 @@ procedure map_enter_p_proc begin
       else
          set_local_var(LVAR_Leave_Time,(ONE_GAME_DAY*2));
    end
-   
+
    if (map_var(MVAR_Scout_Left)) then begin
       if ((game_time - map_var(MVAR_Raiders_Leave_Time)) >= (local_var(LVAR_Leave_Time))) then
          destroy_object(self_obj);

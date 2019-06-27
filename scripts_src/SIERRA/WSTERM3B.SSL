@@ -121,7 +121,7 @@ procedure talk_p_proc begin
            call Node003;
        gSay_End;
        end_dialogue;
-   end 
+   end
 
    else if (map_var(MVAR_Skynet_Defeat) == 1) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
@@ -269,7 +269,7 @@ procedure Node011 begin
    end
 
    Reply(mstr(153));
-   
+
    NOption(161,Node999,004); //added by killap
 end
 

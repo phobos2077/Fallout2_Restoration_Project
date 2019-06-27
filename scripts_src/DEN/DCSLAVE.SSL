@@ -306,7 +306,7 @@ procedure Node014 begin
    Reply(471 + slave_is_nomad);
    GOption(473, Node999, 004);
    GOption(474, Node999, 004);
-   
+
    NLowOption(476, Node999, 004);
 end
 //end added

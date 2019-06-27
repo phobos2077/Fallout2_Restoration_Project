@@ -145,9 +145,9 @@ procedure map_enter_p_proc begin
    Only_Once:=0;
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_GECKO);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
-   
+
    //added by killap
-   if (not (is_loading_game)) then begin 
+   if (not (is_loading_game)) then begin
       if (night) then
          move_to(self_obj, HOME_TILE, self_elevation);
       else begin
@@ -158,7 +158,7 @@ procedure map_enter_p_proc begin
       end
    end
    //end added
-      
+
 end
 
 
@@ -208,7 +208,7 @@ procedure critter_p_proc begin
       end
    end
    //end added
-   
+
    if ( ((global_var(GVAR_GECKO_MELTDOWN) == 1) or (global_var(GVAR_ENEMY_GECKO))) and (obj_can_see_obj(self_obj,dude_obj))) then begin //edit by killap - added (global_var(GVAR_ENEMY_GECKO))
       set_local_var(LVAR_Hostile,1);
       attack(dude_obj);
@@ -251,7 +251,7 @@ visit_04_before:=0; //according to Matts doc these need to be
 visit_14_before:=0; //reset aat the beginning of each conversation
 
    GetReaction;
-   
+
    call checkarea;
    // CHANGE -nbk (Aldo doesn't care if your an enemy of the either side in Klamath)
    //             -he just wants a drink
@@ -308,7 +308,7 @@ procedure description_p_proc begin
       display_msg(mstr(101));
    else
       display_msg(mstr(102));
-   
+
 end
 
 procedure use_skill_on_p_proc begin
@@ -317,12 +317,12 @@ end
 procedure checkarea begin
    here:=tile_num(self_obj);
    area:=UNKNOWN;
-   
+
    //modifed by killap
    if (tile_distance(here,HOME_TILE) < 5) then area:=HOUSE;//these distances should be small
    else if (tile_distance(here,SHOP_TILE) < 12) then area:=SHOP;//so the duntons wont block doorways
    //end modified
-   
+
    //if (tile_distance(here,17926) < 5) then area:=HOUSE;//these distances should be small
    //else if (tile_distance(here,18100) < 4) then area:=SHOP;//so the duntons wont block doorways
 end
@@ -380,9 +380,9 @@ procedure Node001 begin
    else if (k == 3) then floater(112);
    else if (k == 4) then floater(113);
    else if (k == 5) then floater(114);*/
-   
+
    float_msg(self_obj, message_str(NAME,random(110,114)),FLOAT_MSG_NORMAL); //edit by killap
-   
+
 end
 
 procedure Node01a begin
@@ -392,9 +392,9 @@ procedure Node01a begin
    else if (k == 3) then NMessage(112);
    else if (k == 4) then NMessage(113);
    else if (k == 5) then NMessage(114);*/
-   
+
    NMessage(random(110,114)); //edit by killap
-   
+
 end
 
 procedure Node002 begin

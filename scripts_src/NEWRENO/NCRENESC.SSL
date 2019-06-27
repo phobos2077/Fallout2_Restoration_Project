@@ -341,7 +341,7 @@ procedure Node999 begin
 end
 procedure Node996 begin
    // barter
-   
+
    if (get_tribute(tribute_collected)) then begin
       gdialog_mod_barter(-50);
    //added by killap
@@ -351,7 +351,7 @@ procedure Node996 begin
    end else begin
       gdialog_barter;
    end
-   
+
    call return_node;
 end
 procedure Node995 begin
@@ -783,7 +783,7 @@ procedure Node041 begin
       NOption(672, Node993, 004);
       NOption(673, Node992, 004);
    end else begin
-      
+
       NOption(687, Node996, 004);
       NOption(688, Node042, 004);
       NOption(689, Node999, 004);
@@ -806,7 +806,7 @@ procedure Node042 begin
       else if (local_var(LVAR_Pills_Discussion) == 2) then
          NOption(6031,Node085,005);
    end
-   //end added   
+   //end added
 
    if ((get_mystery_flag(MYSTERY_STATE_ASSIGNED)) and (know_scott == false)) then begin
       BOption(706,Node050,004);
@@ -1025,14 +1025,14 @@ procedure Node064 begin
 end
 procedure Node065 begin
    return_node := "Node065";
-   
+
    set_tribute(tribute_collected);
 
    Reply(940);
    NOption(941, Node996, 004);
    NOption(454, Node042, 004);
    NOption(943, Node999, 004);
-   
+
 end
 procedure Node066 begin
    return_node := "Node066";

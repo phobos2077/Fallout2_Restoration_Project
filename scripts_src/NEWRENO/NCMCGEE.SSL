@@ -89,7 +89,7 @@ procedure Node024;
                                              set_local_var(LVAR_Warning, true);        \
                                           end
 
-#define payoff_mcgee(x)                   if (x >= 500) then begin                                          \ 
+#define payoff_mcgee(x)                   if (x >= 500) then begin                                          \
                                              inc_general_rep(REP_BONUS_NEW_RENO_MCGEE_JACKPOT_FULL);    /*swapped -killap*/    \
                                           end else begin                                                    \
                                              inc_general_rep(REP_BONUS_NEW_RENO_MCGEE_JACKPOT_HALF);   /*swapped -killap*/     \
@@ -102,7 +102,7 @@ procedure Node024;
                                           end else begin                                                                \
                                              Reply(x);                                                                  \
                                           end
-#define option_w_rifle_check(x,y)         BOption(x+(obj_is_carrying_obj_pid(self_obj, PID_HUNTING_RIFLE)), Node998, y); 
+#define option_w_rifle_check(x,y)         BOption(x+(obj_is_carrying_obj_pid(self_obj, PID_HUNTING_RIFLE)), Node998, y);
 
 
 import variable mcGeeSlotMachineOBJ;

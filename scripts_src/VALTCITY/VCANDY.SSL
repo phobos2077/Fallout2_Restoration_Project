@@ -516,13 +516,13 @@ procedure Node003 begin
    NLowOption(138, Node003a);
    NLowOption(139, Node999);
 //begin killap comment out
-/*   If_Party_Has_Injured then begin 
+/*   If_Party_Has_Injured then begin
       if(party_size == 2) then
          NOption(140, Node001a, 004);
       else if(party_size > 2) then
          NOption(141, Node008, 004);
    end*/
-//   NOption(142, Node010, 004); //if you are getting healed why the heck ask where you are? 
+//   NOption(142, Node010, 004); //if you are getting healed why the heck ask where you are?
 //end killap comment out
       NOption(340, Node014, 004); //added by killap
    if (global_var(GVAR_IMPLANTS_KNOWN) == 1) then
@@ -801,32 +801,32 @@ procedure Node009 begin
          critter_heal(Dogmeat_Ptr,Injured_How_Much(Dogmeat_Ptr));
          critter_uninjure(Dogmeat_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
       end
-   end   
+   end
    if (K9_In_Party) then begin
       if (Is_Injured(K9_Ptr) or Is_Crippled(K9_Ptr)) then begin
          critter_heal(K9_Ptr,Injured_How_Much(K9_Ptr));
          critter_uninjure(K9_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
       end
-   end      
+   end
    if (Kitsune_In_Party) then begin
       if (Is_Injured(Kitsune_Ptr) or Is_Crippled(Kitsune_Ptr)) then begin
          critter_heal(Kitsune_Ptr,Injured_How_Much(Kitsune_Ptr));
          critter_uninjure(Kitsune_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
       end
-   end   
+   end
    if (Dex_In_Party) then begin
       if (Is_Injured(Dex_Ptr) or Is_Crippled(Dex_Ptr)) then begin
          critter_heal(Dex_Ptr,Injured_How_Much(Dex_Ptr));
          critter_uninjure(Dex_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
       end
-   end   
+   end
    if (Cat_Jules_In_Party) then begin
       if (Is_Injured(Cat_Jules_Ptr) or Is_Crippled(Cat_Jules_Ptr)) then begin
          critter_heal(Cat_Jules_Ptr,Injured_How_Much(Cat_Jules_Ptr));
          critter_uninjure(Cat_Jules_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
       end
    end
-   //end added   
+   //end added
 
    Reply(182);
 
@@ -1394,7 +1394,7 @@ procedure Node031a begin
    gfade_in(600);
 
    Reply(318);
-   
+
    NLowOption(351, Node999);
    NLowOption(352, Node999);
 end

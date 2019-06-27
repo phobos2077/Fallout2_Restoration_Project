@@ -1,6 +1,6 @@
 procedure start;
 
-#include "..\headers\scripts.h" 
+#include "..\headers\scripts.h"
 
 variable do_once;
 variable count;
@@ -41,7 +41,7 @@ procedure start begin
             display_msg(message_str(SCRIPT_OBJ_DUDE,802));
             if not(has_trait(2, dude_obj, 11)) then
                hide_iface_tag(4);
-        end 
+        end
       end
    end
 end

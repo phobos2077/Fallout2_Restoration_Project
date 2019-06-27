@@ -7,7 +7,7 @@
 
 /* Include Files */
 #include "..\headers\define.h"
-#include "..\headers\ABBEY.H" 
+#include "..\headers\ABBEY.H"
 
 #define NAME                    SCRIPT_ABPETSON
 #define TOWN_REP_VAR            GVAR_TOWN_REP_ABBEY
@@ -174,7 +174,7 @@ procedure talk_p_proc begin
           gSay_Start;
               if (local_var(LVAR_Herebefore) == 0) then
                   call Node001;
-              else 
+              else
                   call Node002;
           gSay_End;
       end_dialogue;
@@ -202,7 +202,7 @@ procedure Node001 begin
 
    Reply(200);
    NOption(202,Node003,4);
-   NOption(203,Node006,4);   
+   NOption(203,Node006,4);
    if ((global_var(GVAR_ABBEY_GRAVES) == 1) and (map_var(MVAR_Crops_Stolen) == 0)) then
       NOption(204,Node007,4);
    NOption(205,Node999,4);
@@ -216,7 +216,7 @@ procedure Node002 begin
    end else begin
       Reply(201);
    end
-   
+
    NOption(401,Node003,4);
    NOption(402,Node006,4);
    if ((global_var(GVAR_ABBEY_GRAVES) == 1) and (map_var(MVAR_Crops_Stolen) == 0)) then
@@ -236,7 +236,7 @@ procedure Node004 begin
    Reply(302);
    NOption(304,Node005,4);
    NOption(303,Node999,4);
-   set_map_var(MVAR_Caravan_Info,1); 
+   set_map_var(MVAR_Caravan_Info,1);
 end
 
 procedure Node005 begin

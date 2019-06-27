@@ -56,18 +56,18 @@ end
 
 procedure map_enter_p_proc begin
    variable fan := 0;
-   
+
    reg_anim_begin();
    reg_anim_animate_forever(self_obj, ANIM_stand);
    reg_anim_end();
-   
+
    add_timer_event(self_obj, 1, 1);
-   
+
    if (map_first_run) then begin
       fan := tile_contains_pid_obj(tile_num(self_obj),self_elevation,33556632);
       set_obj_visibility( fan, true ); //invis
    end
-      
+
 end
 
 procedure map_update_p_proc begin
@@ -93,7 +93,7 @@ end
 procedure use_obj_on_p_proc begin
    variable Tool;
    variable fan := 0;
-   
+
    Tool:=obj_pid(obj_being_used_with);
 
    if ( (self_tile == MIDDLE_FAN) and (Tool == PID_PLANK) ) then begin
@@ -105,5 +105,5 @@ procedure use_obj_on_p_proc begin
       gfade_in(ONE_GAME_SECOND);
       destroy_object(self_obj);
    end
-   
+
 end

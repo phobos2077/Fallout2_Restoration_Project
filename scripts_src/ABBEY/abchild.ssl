@@ -62,7 +62,7 @@ begin
   end
   add_timer_event(self_obj,game_ticks(random(3,5)),2);
  end
- 
+
  if (fixed_param == 1) and
     (not combat_is_initialized) and
     (self_can_see_dude) and
@@ -94,7 +94,7 @@ begin
    add_timer_event(self_obj, random(5,10)*ONE_GAME_SECOND, 1);
    add_timer_event(self_obj,game_ticks(random(3,5)),2);
  end
- 
+
 end
 
 procedure pickup_p_proc

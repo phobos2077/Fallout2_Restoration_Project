@@ -229,15 +229,15 @@ procedure destroy_p_proc begin
    obj := obj_carrying_pid_obj(self_obj, PID_PLASMA_RIFLE);
    if (obj) then
       destroy_object(obj);
-      
+
    //added by killap
    if (global_var(GVAR_SPECIAL_ENCOUNTER_HOLY2) == 0) then
       set_global_var(GVAR_SPECIAL_ENCOUNTER_HOLY2,1); //so you no longer encounter them a second time despite you killing them
    //end added
-   
+
 /* Increment the aligned critter counter*/
    inc_good_critter
-   
+
 
 /* Set global_variable for Enemy status*/
    i_bedemir_obj := -1;

@@ -186,7 +186,7 @@ procedure talk_p_proc begin
    GetReaction;
 
    ReactToLevel; //added by killap
-   
+
    if (doWalking == 0) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
@@ -310,9 +310,9 @@ procedure Node006 begin
       set_global_var(GVAR_NCR_TANDI_WORK, 1);
       Reply(124);
    end
-   
+
    NOption(125, Node001, 4);
-   
+
    if (good_critter_reaction) then //added by killap
       NOption(133, Node999, 4);  //added by killap
    else  //added by killap

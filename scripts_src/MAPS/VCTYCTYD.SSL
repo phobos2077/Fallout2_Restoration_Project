@@ -63,15 +63,15 @@ procedure map_enter_p_proc begin
    end else begin
       debug_msg("sorry, can't place the car, the game's loading");
    end*/
-   
+
    //added by killap - prevent car from disappearing if the car runs out of gas while on the town circle
    if ((metarule(30, 0) == 21) and (cur_map_index != MAP_CAR_DESERT) and (car_out_of_fuel)) then begin
       set_global_var(GVAR_CAR_PLACED_TILE, 0);
       Create_Car(CAR_VAULT_CITY_HEX,CAR_VAULT_CITY_ELEV)
       if (tile_contains_pid_obj(CAR_VAULT_CITY_HEX, CAR_VAULT_CITY_ELEV, PID_DRIVABLE_CAR) != 0) then begin
          Create_Trunk(CAR_VAULT_CITY_HEX,CAR_VAULT_CITY_ELEV)
-      end 
-   end else 
+      end
+   end else
       Check_Create_Car(CAR_VAULT_CITY_HEX, CAR_VAULT_CITY_ELEV)
    //end added
 

@@ -118,7 +118,7 @@ procedure start begin
          DO_KILL_SELF
       end
    end
-end 
+end
 
 procedure push_p_proc begin
 end

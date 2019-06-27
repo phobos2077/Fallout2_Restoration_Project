@@ -121,12 +121,12 @@ import variable comedian_obj; //added by killap - expansion pack
 #define player_do_dance_walk17         (2300)
 #define player_danced                  (2400)
 
-#define casino_name                 (900 + local_var(LVAR_Family))   
+#define casino_name                 (900 + local_var(LVAR_Family))
 
 #define bishop_casino               2
 #define mordino_casino              3
-        
-                                    
+
+
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -191,7 +191,7 @@ procedure timed_event_p_proc begin
             add_timer_event(self_obj,game_ticks(1),player_do_dance_walk_tmp);
          end else begin
             add_timer_event(self_obj,game_ticks(1),player_do_dance_walk2);
-         end  
+         end
       end else if (fixed_param == player_do_dance_walk2) then begin
          reg_anim_clear(Critter);
          reg_anim_begin();
@@ -372,22 +372,22 @@ procedure map_enter_p_proc begin
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_);
    */
-   
+
    /* // added by killap - expansion
-   if ( (self_family == family_salvatore and salvatore_dead and warned_attack) or 
+   if ( (self_family == family_salvatore and salvatore_dead and warned_attack) or
        (self_family == family_bishop and bishop_dead and warned_attack) or
        (self_family == family_mordino and big_jesus_dead and lil_jesus_dead and warned_attack) ) then begin
          destroy_object(self_obj);
          return;
    end
    // end added */
-      
+
    if (map_first_run) then
       set_local_var(LVAR_Home_Tile,self_tile);
-      
+
    get_and_set_family(temp_family);
    set_local_var(LVAR_Family, temp_family);
-   
+
    nr_add_timer_event_rand(self_obj, 5, 30, float_param);
    nr_add_timer_event_rand(self_obj, 10, 40, wander_param);
 
@@ -424,7 +424,7 @@ end
 
 procedure talk_p_proc begin
    /*//added by killap - expansion
-   if ( (self_family == family_salvatore and salvatore_dead and warned_attack) or 
+   if ( (self_family == family_salvatore and salvatore_dead and warned_attack) or
        (self_family == family_bishop and bishop_dead and warned_attack) or
        (self_family == family_mordino and big_jesus_dead and lil_jesus_dead and warned_attack) ) then begin
          float_msg(self_obj, message_str(SCRIPT_DCGAMBLE,200), FLOAT_COLOR_NORMAL);
@@ -473,8 +473,8 @@ end
 
 #define is_insert_message(x)  ((x == 215) or (x == 216) or (x == 220) or (x == 221) or      \
                                (x == 225) or (x == 226) or (x == 230) or (x == 231) or      \
-                               (x == 306)) 
-                           
+                               (x == 306))
+
 procedure floater_rand_with_check_cust(variable x, variable y,  variable the_patch) begin
 variable the_msg;
    the_msg := random(x, y);
@@ -483,7 +483,7 @@ variable the_msg;
          the_msg := "" + dude_name + mstr(the_msg);
       end else
          the_msg := "" + mstr(the_msg) + the_patch + mstr(the_msg+1000);
-         
+
       float_msg(self_obj, the_msg, FLOAT_COLOR_NORMAL);
    end else
       floater(the_msg);
@@ -558,7 +558,7 @@ procedure Node014 begin
    end else begin
          Reply(341 - dude_is_male - (2*dude_has_important_rep));
    end
-   
+
    NOption(342,Node015,-003);
    NOption(343,Node999,-003);
    NOption(344,Node019,004); //who are you?
@@ -610,14 +610,14 @@ end
 
 procedure Node901 begin //comic skill check
    gfade_in(600);
-   
+
    if ((dude_charisma > 7) or (has_skill(dude_obj,SKILL_CONVERSANT) > 75) or (dude_smooth_talker)) then
       tell_funny := 1;
    else
       tell_funny := 0;
-      
+
    add_timer_event(self_obj,2,player_tell_joke);
-   
+
 end
 
 procedure Node018 begin //I have some questions
@@ -657,7 +657,7 @@ end
 procedure Node020 begin //what casino is this?
    variable tmp;
    tmp := random(1335,1336);
-   
+
    Reply("" + mstr(tmp) + mstr(905 -(self_family == bishop_casino)) + mstr(tmp + 1000));
    NOption(1337,Node019,004);
    NOption(1338,Node021,004);
@@ -691,7 +691,7 @@ procedure Node023 begin //McGee
    NOption(1367,Node023b,004);
    NOption(1368,Node018,004);
    NOption(1369,Node999,004);
-   
+
    set_mcgee_known;
 end
 
@@ -744,7 +744,7 @@ procedure Node027 begin //Comic
 end
 
 procedure NodeGoodJokes begin
-   
+
    tell_funny := 1;
    tmp := random(1000,1004);
    if (tmp == 1003) then begin
@@ -753,13 +753,13 @@ procedure NodeGoodJokes begin
    else begin
       add_timer_event(self_obj,game_ticks(8),player_told_joke);
    end
-   
+
    float_msg(dude_obj, message_str(NAME,tmp), 8);
 end
 
 procedure NodeBadJokes begin
    gfade_in(600);
-   
+
    tell_funny := 0;
    tmp := random(1500,1504);
    if (tmp == 1502 or tmp == 1503 or tmp == 1504) then begin
@@ -768,7 +768,7 @@ procedure NodeBadJokes begin
    else begin
       add_timer_event(self_obj,game_ticks(7),player_told_joke);
    end
-   
+
    float_msg(dude_obj, message_str(NAME,tmp), tmp);
 end
 
@@ -795,13 +795,13 @@ end
 procedure Node030 begin //Did dance
    variable tmp_msg;
    variable has_ball_gag := 0;
-   
+
    if (random(1,2)) then
       tmp_msg := mstr(520);
    else
       tmp_msg := mstr(521);
-     
-    
+
+
    if ( ((random(1,4) == 1) and (obj_is_carrying_obj_pid(dude_obj, PID_BALL_GAG) > 0 )) and (wore_leather) ) then begin
       tmp_msg += mstr(446);
       tmp_msg += mstr(447);
@@ -812,9 +812,9 @@ procedure Node030 begin //Did dance
          tmp_msg += mstr(447);
          has_ball_gag := 1;
    end
-   
+
    tmp_msg += mstr(523);
-   
+
    Reply(tmp_msg);
    NOption(522,Node999,004);
    set_local_var(LVAR_Work,game_time);

@@ -56,7 +56,7 @@ end
 
 procedure look_at_p_proc begin
  script_overrides;
- display_msg(mstr(100)); 
+ display_msg(mstr(100));
 end
 
 procedure description_p_proc begin
@@ -167,7 +167,7 @@ procedure Node013 begin
 
    Reply(281);
    NOption(266,Node003,004);
-   
+
 end
 
 procedure Node014 begin //tank 1
@@ -188,9 +188,9 @@ procedure Node016 begin
    add_mult_objs_to_inven(dude_obj,seeds,5);
    set_local_var(LVAR_Tank_One_Empty,1);
 
-   Reply(280);   
+   Reply(280);
    NOption(266,Node003,004);
-   
+
 end
 
 procedure Node017 begin
@@ -198,7 +198,7 @@ procedure Node017 begin
    disk:=create_object(PID_EPA_BOTANY_HOLODISK,0,0);
    add_mult_objs_to_inven(dude_obj,disk,1);
    set_global_var(GVAR_ABBEY_KNOWLEDGE_EPA,2);
-   
+
    Reply(290);
    NOption(291,Node001,004);
 end

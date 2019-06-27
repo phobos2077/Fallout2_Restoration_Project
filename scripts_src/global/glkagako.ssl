@@ -1,7 +1,7 @@
 procedure start;
 
-#include "..\headers\sfall.h" 
-#include "..\headers\CRITRPID.H" 
+#include "..\headers\sfall.h"
+#include "..\headers\CRITRPID.H"
 #include "..\headers\animcomd.h"
 
 procedure start begin
@@ -13,7 +13,7 @@ procedure start begin
    variable attacker_special_effect_flags:=0;
    variable weapon:=0;
    variable body_part:=0;
-      
+
    if (game_loaded) then begin
       register_hook(HOOK_COMBATDAMAGE);
    end else begin
@@ -25,13 +25,13 @@ procedure start begin
       attacker_special_effect_flags:=get_sfall_arg;
       weapon:=get_sfall_arg;
       body_part:=get_sfall_arg;
-      if ((obj_pid(target) == PID_KAGA) or (obj_pid(target) == PID_KAGA2) or 
+      if ((obj_pid(target) == PID_KAGA) or (obj_pid(target) == PID_KAGA2) or
           (obj_pid(target) == PID_KAGA3) or (obj_pid(target) == PID_KAGA4)) then begin
          set_sfall_return(damage_to_target);
          set_sfall_return(damage_to_attacker);
          if (target_special_effect_flags == 2049) then
             target_special_effect_flags := 2051;
-         set_sfall_return(target_special_effect_flags bwand (-2)); 
-      end 
+         set_sfall_return(target_special_effect_flags bwand (-2));
+      end
    end
 end

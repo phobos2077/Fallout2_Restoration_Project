@@ -134,7 +134,7 @@ end
    stored which affects player interactions. */
 procedure talk_p_proc begin
    variable background; // added by killap - RP
-   
+
    GetReaction;
 
    //added by killap - RP
@@ -143,7 +143,7 @@ procedure talk_p_proc begin
    else
       background := BACKGROUND_WASTELAND;
    //end added
-   
+
    //added by killap
    if (local_var(LVAR_Gave_Pass) == 1) then begin
       call Node013;

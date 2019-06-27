@@ -198,10 +198,10 @@ end
 procedure destroy_p_proc begin
 /* Increment the aligned critter counter*/
    inc_evil_critter
-   
+
    if (self_obj == door_guard) then
       door_guard := 0;
-   
+
    if (self_elevation == 1) then
       set_map_var(MVAR_Failed_Creature_Count,map_var(MVAR_Failed_Creature_Count)-1);
 
@@ -303,7 +303,7 @@ end
 
 procedure Node990 begin
    set_map_var(MVAR_Met_Sheng,1);
-   
+
    anim(creature_4, ANIMATE_ROTATION, 2);
    anim(creature_5, ANIMATE_ROTATION, 2);
    anim(creature_6, ANIMATE_ROTATION, 2);
@@ -312,13 +312,13 @@ procedure Node990 begin
    move_to(creature_4,19495,0);
    move_to(creature_5,19094,0);
    move_to(creature_6,19093,0);
-   
+
    // To get all followers to the same hex
    // as the player, we need to move the player
    // first to another level of the map.
    // If not, then the followers will run
    // to where the player is rather than "teleport"
-   
+
    move_to(dude_obj,19693,2);
    move_to(dude_obj,19693,0);
 end

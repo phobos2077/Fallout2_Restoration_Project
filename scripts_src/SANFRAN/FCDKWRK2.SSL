@@ -196,7 +196,7 @@ procedure talk_p_proc begin
       gSay_End;
       end_dialogue;
    end
-   
+
    if (kill_self) then
       critter_dmg(self_obj, 1000, DMG_normal_dam);
 

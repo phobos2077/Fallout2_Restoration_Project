@@ -171,7 +171,7 @@ procedure talk_p_proc begin
    GetReaction;
 
    ReactToLevel; //added by killap
-   
+
    if (i_do_jack_surr) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
@@ -299,8 +299,8 @@ procedure Node005 begin
       Reply(123);
    else
       Reply(124);
-   
-   
+
+
    if ( ( (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)) ) or (not ((bad_critter_reaction or has_rep_childkiller or has_rep_berserker or global_var(TOWN_REP_VAR) < 0))) ) then begin //edit by killap - added ((has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
       NOption(125, Node016, 4);
    end

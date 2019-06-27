@@ -438,7 +438,7 @@ procedure Node003 begin
       if (Sulik_In_Party) then begin
          NOption(238, set_sell_sulik, 004);
       end
-      
+
       //added by killap - expansion
       if (Dex_In_Party) then begin
          NOption(241, set_sell_dex, 004);
@@ -450,7 +450,7 @@ procedure Node003 begin
          NOption(243, set_sell_kitsune, 004);
       end
       //end added
-      
+
    end else begin
       debug_msg("true_party_size == " + true_party_size);
       Reply(231 + (true_party_size == 0));
@@ -589,7 +589,7 @@ procedure Node013 begin
       party_price := amt_cost_barter(self_obj, dude_obj, 600); // Seraph Fix: Swapped self_obj and dude_obj
       Reply(mstr(365) + party_price + mstr(1365));
    end
-   
+
    //added by killap - expansion
    else if (party_being_sold == Dex_Ptr) then begin
       party_price := amt_cost_barter(self_obj, dude_obj, 600); // Seraph Fix: Swapped self_obj and dude_obj
@@ -602,7 +602,7 @@ procedure Node013 begin
       Reply(mstr(360) + party_price + mstr(1360));
    end
    //end added
-   
+
    if (true_party_size > 1) then begin
       NOption(366, Node003, 004);
    end

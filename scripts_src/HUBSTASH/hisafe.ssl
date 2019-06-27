@@ -5,7 +5,7 @@
         Description: Opis
 
         Log:
-           
+
 
            Created:
 
@@ -95,7 +95,7 @@ procedure description_p_proc begin
       display_msg(mstr(101));
    else
       display_msg(mstr(102));
-      
+
 end
 
 procedure use_p_proc
@@ -136,9 +136,9 @@ end
 
 procedure unlock_safe begin
    script_overrides;
-   
+
    game_time_advance(ONE_GAME_MINUTE);
-   
+
    if (is_success(Locks_Roll)) then begin
        //obj_unlock(self_obj);
        set_local_var(LVAR_Lock_State,UNLOCKED);
@@ -166,23 +166,23 @@ procedure unlock_safe begin
            display_msg(mstr(172));
        end
    end
-   
+
 end
 
 
 procedure use_skill_on_p_proc begin
    variable Skill_Used;
-   
+
    script_overrides;
    Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Lock_Bonus);
-   
+
    if (obj_is_visible_flag(guard2_obj)) then begin
       object_tamper := 1;
       call Tamper_Proc;
    end
    else begin
       Skill_Used:=action_being_used;
-   
+
       if (Skill_Used == SKILL_LOCKPICK) then begin
          if (local_var(LVAR_Lock_State) == LOCKED) then begin
            call unlock_safe;
@@ -192,20 +192,20 @@ procedure use_skill_on_p_proc begin
          end
       end
    end
-end    
+end
 
 
 procedure use_obj_on_p_proc begin
    variable Tool;
    script_overrides;
-   
+
    if (obj_is_visible_flag(guard2_obj)) then begin
       object_tamper := 1;
       call Tamper_Proc;
    end else begin
-   
+
    Tool:=obj_pid(obj_being_used_with);
-   
+
    if (LOCK_STATUS == STATE_ELECTRIC_LOCK) then begin
        if (Tool == PID_ELECTRONIC_LOCKPICKS) then begin
            script_overrides;

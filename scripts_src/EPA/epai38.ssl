@@ -77,9 +77,9 @@ procedure destroy_p_proc begin
 
 end
 
- 
+
 procedure use_p_proc begin
- 
+
 end
 
 procedure use_skill_on_p_proc begin
@@ -105,7 +105,7 @@ procedure use_skill_on_p_proc begin
             else
                 display_msg(obj_name(source_obj)+mstr(212));
         end
-      
+
         if (local_var(LVAR_Gave_Exp) == 0) then begin
             set_local_var(LVAR_Gave_Exp,1);
             give_xp(70);
