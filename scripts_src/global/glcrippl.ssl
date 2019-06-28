@@ -1,41 +1,45 @@
-// By Darek
+#define iface_tag_player_crippled 5
+#define iface_tag_npc_crippled 6
 
-procedure start;
-variable unhealthy_members;
-variable only_once;
-variable only_once2;
+procedure is_crippled(variable who) begin
+   if (critter_state(who) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) then return true;
+   return false;
+end
 
-procedure start
-begin
+procedure start begin
+   variable npc_crippled := false;
+   variable who;
+
    if (game_loaded) then begin
-      hide_iface_tag(5);
-      hide_iface_tag(6);
-      set_global_script_repeat(60);
+      hide_iface_tag(iface_tag_player_crippled);
+      hide_iface_tag(iface_tag_npc_crippled);
+      set_global_script_repeat(120); // todo: drop this and use hooks?
    end
-   // player is crippled
-   if (critter_state(dude_obj) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) then begin
-      if only_once == 0 then begin
-         show_iface_tag(5);
-         only_once := 1;
+
+   // player crippled
+   if is_crippled(dude_obj) and not is_iface_tag_active(iface_tag_player_crippled) then begin
+      show_iface_tag(iface_tag_player_crippled);
+   end
+   // player healed
+   if not is_crippled(dude_obj) and is_iface_tag_active(iface_tag_player_crippled) then begin
+      hide_iface_tag(iface_tag_player_crippled);
+   end
+
+   // check all npcs
+   npc_crippled := false;
+   foreach who in party_member_list(0) begin
+      if is_crippled(who) then begin
+         npc_crippled := true;
+         break;
       end
    end
-   else begin
-      if only_once == 1 then begin
-         hide_iface_tag(5);
-         only_once := 0;
-      end
+   // npc crippled
+   if npc_crippled and not is_iface_tag_active(iface_tag_npc_crippled) then begin
+      show_iface_tag(iface_tag_npc_crippled);
    end
-   // companion is crippled
-   if ((critter_state(party_member_obj(16777278 )) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777376)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777377)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777305)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777313)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777323)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777352)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777368)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777379)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777380)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777381)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777295)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777558)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777687)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777718)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777719)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777720)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777595)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777596)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777597)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) or (critter_state(party_member_obj(16777600)) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64))) then begin
-      if only_once2 == 0 then begin
-         show_iface_tag(6);
-         only_once2 := 1;
-      end
+   // npc healthy
+   if not npc_crippled and is_iface_tag_active(iface_tag_npc_crippled) then begin
+      hide_iface_tag(iface_tag_npc_crippled);
    end
-   else begin
-      if only_once2 == 1 then begin
-         hide_iface_tag(6);
-         only_once2 := 0;
-      end
-   end
+
 end
