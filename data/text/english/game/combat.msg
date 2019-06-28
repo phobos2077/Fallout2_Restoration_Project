@@ -710,7 +710,7 @@
 # series 5100 - women
 #
 {5100}{}{. That really hurts}
-{5101}{}{. A serious wound is inflicted}
+{5101}{}{. That inflicted some serious pain}
 {5102}{}{ with no armor}
 {5103}{}{. The damaging attack knocks her unconscious}
 {5104}{}{. The blow knocks her to the ground}
