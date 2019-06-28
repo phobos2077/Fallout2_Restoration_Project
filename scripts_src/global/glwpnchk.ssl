@@ -17,9 +17,8 @@ procedure start begin
    variable body_part:=0;
    variable num_hits:=0;
 
-   if (game_loaded) then begin
+   if game_loaded and global_var(GVAR_TEST_SOLAR_SCORCHER) == 1 then begin // only register when we have the quest
       register_hook(HOOK_COMBATDAMAGE);
-      //display_msg("hooking");
    end else begin
       target:=get_sfall_arg;
       attacker:=get_sfall_arg;
@@ -29,12 +28,22 @@ procedure start begin
       attacker_special_effect_flags:=get_sfall_arg;
       weapon:=get_sfall_arg;
       body_part:=get_sfall_arg;
-      //display_msg("weapon_pid: " + obj_pid(weapon));
       num_hits += 1;
-      if (((cur_map_index != MAP_EPA_SUBLEVELS_1) and (cur_map_index != MAP_EPA_SUBLEVELS_2) and (cur_map_index != MAP_EPA_SECRET)) or ((cur_map_index == MAP_EPA) and ((elevation(dude_obj) != 1) or (elevation(dude_obj) != 2)))) then begin
-         if ( (global_var(GVAR_TEST_SOLAR_SCORCHER) == 1) and (obj_pid(weapon) == PID_SOLAR_SCORCHER) and (num_hits >= 1) ) then begin
+      if (weapon) then begin // todo: I'm sure this long ass condition can be simplified. I just don't understand what it really does
+         if (  (      cur_map_index != MAP_EPA_SUBLEVELS_1
+                  and cur_map_index != MAP_EPA_SUBLEVELS_2
+                  and cur_map_index != MAP_EPA_SECRET
+               )
+               or
+               (       cur_map_index == MAP_EPA
+                  and ((elevation(dude_obj) != 1) or (elevation(dude_obj) != 2))
+               )
+            )
+         then begin
+            if ( (global_var(GVAR_TEST_SOLAR_SCORCHER) == 1) and (obj_pid(weapon) == PID_SOLAR_SCORCHER) and (num_hits >= 1) ) then begin
                set_global_var(GVAR_TEST_SOLAR_SCORCHER,2);
                //display_msg("GVAR_TEST_SOLAR_SCORCHER: " + (global_var(GVAR_TEST_SOLAR_SCORCHER)));
+            end
          end
       end
    end
