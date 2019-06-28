@@ -66,7 +66,7 @@
 
 # 10. BF: Done with run - Average
 {320}{}{Not bad.}
-{321}{}{Hope we got enough. I need to replenish my jet supply.}
+{321}{}{Hope we got enough. I need to replenish my Jet supply.}
 {322}{}{Let's go.}
 {323}{}{I've seen better, but money's money.}
 {324}{}{Metzger should be fine with these.}

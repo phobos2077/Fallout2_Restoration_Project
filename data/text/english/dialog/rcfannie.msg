@@ -112,7 +112,7 @@
 {185}{}{I don't know how you can stand it, but then I guess you don't. Stand, that is. Goodbye.}
 # Begin Seraph's Code
 {186}{}{[Fannie looks like a great weight has been lifted from her shoulders] Hey, it's you! Lou told
- me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need fer jet since
+ me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need fer Jet since
  then. (She kisses you on the cheek) I don't know how I can ever thank you...well, I do know *one* way.
  Whenever you're in the mood, just come on by; free of charge. (wink)}
 {187}{}{I'll keep that in mind. Thanks, Fannie.}

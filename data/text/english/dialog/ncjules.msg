@@ -254,7 +254,7 @@
 
 # 31. MAKER? (29)
 {660}{}{Yeah… (Leans in.) ...see, the Mordinos got themselves a lil' gold mine by the name o' Myron. Hit the jackpot with him…see,
- he MADE jet.}
+ he MADE Jet.}
 {662}{}{Enough about the Mordinos and the families for now. Tell me about this Myron…}
 
 # 32. DISTRIBUTION? (29)
@@ -264,7 +264,7 @@
 
 # 33. REDDING? (32)
 {685}{}{Not much TO say. Mining town northwest o' here. Word is, Mordino wants to get some influence there, get some of
- that Redding GOLD they dig up. So he ships them jet, they ship back gold, everybody happy.}
+ that Redding GOLD they dig up. So he ships them Jet, they ship back gold, everybody happy.}
 
 # 34.  TELL ME ABOUT SALVATORES (25)
 {695}{}{Quiet bunch. They're led by Louis Salvatore, an original gangster gettin' on in years. Their territory's on the West Side;

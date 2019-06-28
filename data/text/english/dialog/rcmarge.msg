@@ -107,7 +107,7 @@
 {181}{}{What about the other rumors?}
 {182}{}{I guess that's all I need to know for now. Goodbye.}
 {183}{}{Well, Dan and his Morningstar boys favor those mobsters from New Reno. I guess that Redding'll be
- one big jet addict slum before too long.}
+ one big Jet addict slum before too long.}
 {184}{}{Not really my concern. Tell me about something else.}
 {185}{}{Oh well. Goodbye.}
 {186}{}{In a town this size, everyone knows more than they want to about everyone else. So how about it?}

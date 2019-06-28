@@ -9,7 +9,7 @@
 
 # 2. 1st Time, Self Initiated (From 2-WTG)
 {210}{}{What the fuck do you want? This is the Slaver's Guild, not some safe
- house for you fucking jet heads.}
+ house for you fucking jetheads.}
 {211}{}{What the hell do you want, you ugly bitch? This is the Slaver's
  Guild, not some fucking whorehouse.}
 {212}{}{What the hell do you want, bitch? This is the Slaver's Guild, not some

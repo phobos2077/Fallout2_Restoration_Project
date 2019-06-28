@@ -460,7 +460,7 @@
 {1035}{myn143a}{"Can I make drugs?" I'm Myron. Whaddya need?}
 {1036}{myn143b}{Hey, can't get enough, huh? Whaddya need?}
 {1037}{}{An antidote for radscorpion venom.}
-{1038}{}{Some jet.}
+{1038}{}{Some Jet.}
 {1039}{}{Some stimpacks.}
 {1040}{}{Can you make super stimpacks?}
 {1041}{}{Nothing. I had some other questions…}

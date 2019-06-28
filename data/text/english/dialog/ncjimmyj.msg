@@ -57,7 +57,7 @@
  saying? It's just my way…the Jimmy J way.}
 {281}{}{Me no see frig-in Jet you lie to }
 {5281}{}{ you lie to }
-{6281}{}{ about jet?}
+{6281}{}{ about Jet?}
 {282}{}{ME GO LET ME G--}
 {283}{}{Hey, the, uh, "Jimmy J way" sounds great and all, and that's why I had some quest--}
 {284}{}{No, I don't think so -}

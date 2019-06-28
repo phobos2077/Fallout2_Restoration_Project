@@ -41,7 +41,7 @@
 {140}{}{Are you that stupid? You think I'm just gonna hire anybody? You work for me, you got to prove you're good for something.}
 {141}{}{How about I just shoot Lenny, there? He deserves it.}
 {142}{}{Prove like how?}
-{143}{}{You know anybody who'd like some jet, maybe?}
+{143}{}{You know anybody who'd like some Jet, maybe?}
 {144}{}{Listen, I'm} #258
 {145}{}{Right. Like I got to prove myself to you. Forget you, slugwort.}
 {146}{}{It was that goddamn Doofus, wasn't it? That little junkie talks too much for his own good. Tell you what - you cap him for me -- call it a favor -- and then we'll talk.}

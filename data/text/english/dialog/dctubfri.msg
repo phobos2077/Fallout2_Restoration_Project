@@ -1,8 +1,8 @@
 # LOOKS
 {100}{}{You see a druggie.}
 
-{110}{}{You see a jet whore.}
-{111}{}{You see one of Tubby's jet whores.}
+{110}{}{You see a Jet whore.}
+{111}{}{You see one of Tubby's Jet whores.}
 
 # EXAMINES
 {150}{}{He seems to be a friend of Tubby's.}

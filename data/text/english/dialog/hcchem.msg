@@ -14,7 +14,7 @@
 {111}{}{Yellow. This will make Orange.}
 {112}{}{Clear. This will make Red.}
 {113}{}{Drink it.}
-{114}{}{Blue. This, you know, will make jet, an addictive amphetamine-like drug… if you get the correct
+{114}{}{Blue. This, you know, will make Jet, an addictive amphetamine-like drug… if you get the correct
  dosages.}
 {115}{}{Yellow. Your scientific mind realizes this will, if successfully mixed, make hydrochloric acid.}
 {116}{}{Clear. Your trained eye knows that this will make a powerful vitamin… but only if you measure
@@ -25,7 +25,7 @@
 {119}{}{Red. This will make Purple.}
 {120}{}{Yellow. This will make Green.}
 {121}{}{Clear. This will make Blue.}
-{122}{}{Red. This, you know, will make jet, an addictive amphetamine-like drug… if you get the correct
+{122}{}{Red. This, you know, will make Jet, an addictive amphetamine-like drug… if you get the correct
  dosages.}
 {123}{}{Yellow. Before you mix it, you calculate the solution in your head. You know that it will make
  nitroglycerine, an explosive.}
@@ -81,7 +81,7 @@
 {161}{}{Drink it.}
 {162}{}{Save it. It might be useful.}
 
-{163}{}{Ahh, sweet success. You've manufactured jet. You could be very popular in New Reno with this.
+{163}{}{Ahh, sweet success. You've manufactured Jet. You could be very popular in New Reno with this.
  What are you going to do with it?}
 {164}{}{Drink it.}
 {165}{}{Save it to use on some unsuspecting sap.}

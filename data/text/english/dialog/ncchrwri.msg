@@ -132,7 +132,7 @@
 {402}{}{Hmmmmm. Thanks. }
 
 # 20. WHAT ABOUT RICHARD? (6, 8, 9, 10, 12)
-{410}{}{Richard? We found him dead in one of the gutters like one of those jet crashers. Near as we can figure,
+{410}{}{Richard? We found him dead in one of the gutters like one of those Jet crashers. Near as we can figure,
  someone pumped him with drugs until he was dead.}
 {411}{}{'Someone' gave him too much? How do you know he didn't overdose because HE took too much?}
 {412}{}{Who do you figure might have done it?}

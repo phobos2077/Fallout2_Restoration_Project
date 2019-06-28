@@ -112,7 +112,7 @@
 {211}{}{The F.E.V. toxin will only attack humans, leaving everything else alive. Better still, within a month all the mutants will be dead and the F.E.V. toxin will die out as soon as it runs out of hosts.}
 {212}{}{There can't be enough verti-birds here to spread the toxin all over the globe.}
 {213}{}{I'm going to make you a host to some high-energy projectiles. Say your prayers.}
-{214}{}{You're right, there aren't. But we don't need them. We have a release system that will spray the F.E.V. toxin straight from the vats to the outside atmosphere. The jet stream will take care of the rest. Global saturation within two weeks.}
+{214}{}{You're right, there aren't. But we don't need them. We have a release system that will spray the F.E.V. toxin straight from the vats to the outside atmosphere. The Jet stream will take care of the rest. Global saturation within two weeks.}
 {215}{}{Two weeks?}
 {216}{}{Yes, two weeks for the virus to spread, another month or so for it to run its course and then the United States will be ready for recolonization by real humans. Our species will have been saved.}
 {217}{}{You really think you're doing the right thing don't you?}

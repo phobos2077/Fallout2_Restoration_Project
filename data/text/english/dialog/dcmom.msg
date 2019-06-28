@@ -179,7 +179,7 @@
  right, but it's a harsh world we live in, and we all do what we have to in order to make it through the day.}
 {802}{}{There's gotta be something we can do about this. From what I hear, you seem to be the only person around that
  actually gives a damn about those kids.}
-{803}{}{Why of course I do. Children are our future. They don't *have* to grow up to be jet heads, thugs, and whores like
+{803}{}{Why of course I do. Children are our future. They don't *have* to grow up to be jetheads, thugs, and whores like
  most of their deadbeat parents. Why, with an education and some love and care, these kids could grow into the kind of
  decent folk that we so desperately need in this world. I've tried establishing an orphanage for them, but sadly, that
  didn't pan out.}

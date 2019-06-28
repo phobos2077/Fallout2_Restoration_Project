@@ -204,7 +204,7 @@
 {254}{prs46b}{Some of the members of your tribe are showing some extremely interesting changes. If the danger to true humanity weren't so great I would think about studying them. But (sighs) that's not to be.}
 {255}{}{Not to be? Why not?}
 
-{256}{prs47}{Oh, but that's one of the advantages of the F.E.V. virus. We can release it right here and the jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
+{256}{prs47}{Oh, but that's one of the advantages of the F.E.V. virus. We can release it right here and the Jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
 {257}{}{OK. Then why did you have to kidnap my villagers and the people from Vault 13?}
 
 {258}{prs48}{Test subjects. Your villagers are all descended from vault stock and we had to make sure that the F.E.V. toxin was still effective. The subjects from Vault 13 test that and an inoculation against the FEV.}

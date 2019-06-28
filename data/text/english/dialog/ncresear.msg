@@ -40,7 +40,7 @@
 {243}{}{Any more word when new slaves will be delivered, Myron, sir?}
 {244}{}{Myron, sir, we moved three slaves from the control group into the test group because of those respiratory failures we had last week.}
 {245}{}{Myron, bad news, sir. We had to shoot one slave for trying to escape. What a waste.}
-{246}{}{Myron, this new hallucinogen you've developed is promising, but it is not as addictive as jet…}
+{246}{}{Myron, this new hallucinogen you've developed is promising, but it is not as addictive as Jet…}
 
 # 4. INTRO (WTG)
 {250}{}{(The bald woman doesn't even look up from her clipboard.) Yes?}

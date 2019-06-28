@@ -247,7 +247,7 @@
 
 # 34. OH, WHAT DOES BISHOP'S DAUGHTER SAY IN THE CONFESSIONAL? (18)
 {630}{}{Oooh, sweeeet little Angela? Little HELLION more like it! Girl's got too mucha deevil in her britches. Always
- floozying around, banging her father's help n' pumping herself fulla jet…}
+ floozying around, banging her father's help n' pumping herself fulla Jet…}
 {631}{}{Uh, banging her father's help? Did she say who?}
 {632}{}{Jet?}
 {633}{}{This sounds like a great family. What else can you tell me about the Bishops?}

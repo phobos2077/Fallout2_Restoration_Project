@@ -1,4 +1,4 @@
-{100}{}{You see a short man with jet-black hair and a nice smile.}
+{100}{}{You see a short man with Jet-black hair and a nice smile.}
 {101}{}{You see Ascorti, Redding's Mayor.}
 {102}{}{You see a well-dressed man with a greasy look to him.}
 {103}{}{Keep on movin', pal.}
@@ -217,7 +217,7 @@
  are up, and our exports are down. Bad for business all the way around.}
 {272}{}{Everyone's getting too high on Jet to work effectively. We aren't making but a tenth of our
  regular gold shipments, and we've jacked the price way up on that. This can't last.}
-{273}{}{Seems like everyone got a bad batch of jet. All of the regular Jet Jockeys are going through
+{273}{}{Seems like everyone got a bad batch of Jet. All of the regular Jet Jockeys are going through
  some kind of massive detox. I guess something didn't agree with 'em. I don't know what all happened but
  I think it'll turn out for the better.}
 {274}{}{Things are almost back to normal. Everyone who was sick on Jet has just about sworn it off. Our

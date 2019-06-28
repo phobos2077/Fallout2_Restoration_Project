@@ -44,7 +44,7 @@
 {210}{}{It sounds like you're not too fond of your dad. Mind if I ask why?}
 {211}{}{You little brat, what gives you the right to talk about your dad like that?}
 {220}{}{Cause my dad's not very nice. He leaves me home alone all the time, and when he *is* home, he's always drunk or
- he says he's flying on jet, which is a lie 'cause I never see him fly anywhere. Sometimes, he brings a
+ he says he's flying on Jet, which is a lie 'cause I never see him fly anywhere. Sometimes, he brings a
  girlfriend home -- he's got lots of girlfriends -- and he makes me go outside for awhile, even if its the middle of the night
  and it's cold or raining.}
 {221}{}{That's-}

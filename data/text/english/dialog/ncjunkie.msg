@@ -316,7 +316,7 @@
 {577}{}{You want some of this?! Huh?}
 {578}{}{::Glares at you past chem-hazed eyes::}
 
-# use jet on junkie dialog
+# use Jet on junkie dialog
 {600}{}{Nice...}
 {601}{}{Mmmm...}
 {602}{}{You're a pal.}
@@ -326,4 +326,4 @@
 
 # endings for middle insertion dialogs
 {796}{}{! KICK ASS!! WHAT'S NEXT, BABY, WHAT'S NEXT?!!!}
-{871}{}{ family? Can you set me up with some jet?}
+{871}{}{ family? Can you set me up with some Jet?}

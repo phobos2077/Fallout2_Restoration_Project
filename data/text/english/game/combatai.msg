@@ -5385,7 +5385,7 @@
 {70300}{}{A cat's got to look after himself!}
 {70301}{}{Screw it, you're not worth it.}
 {70302}{}{Fuck this, I'm outta' here.}
-{70303}{}{Gotta jet while I've still got a life to spare.}
+{70303}{}{Gotta Jet while I've still got a life to spare.}
 {70304}{}{You won this time, monkey!}
 #
 # moving in to attack

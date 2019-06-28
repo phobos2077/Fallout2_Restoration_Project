@@ -440,7 +440,7 @@
 #mentats
 {3040}{}{Hopefully this doesn't turn me into an idiot once it wears off.}
 
-#jet
+#Jet
 {3050}{}{Habits are spiders first, threads last.}
 {3051}{}{The sword is mightier than the sky.}
 {3052}{}{Eye for tooth, tooth for all.}

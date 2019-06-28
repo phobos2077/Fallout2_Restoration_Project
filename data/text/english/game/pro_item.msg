@@ -809,7 +809,7 @@
 {41500}{}{Spectacles}
 {41501}{}{A set of spectacles for eye correction.}
 {41600}{}{Empty Jet Canister}
-{41601}{}{This empty jet canister was found in Richard Wright's room. It still has traces of Jet inside.}
+{41601}{}{This empty Jet canister was found in Richard Wright's room. It still has traces of Jet inside.}
 {41700}{}{Oxygen Tank}
 {41701}{}{This is the oxygen tank for Salvatore's breathing apparatus.}
 {41800}{}{Poison Tank}

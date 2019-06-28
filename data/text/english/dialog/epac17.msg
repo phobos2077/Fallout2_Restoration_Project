@@ -48,7 +48,7 @@
 {240}{}{Drugs? Dozens! Over the years I've created mentats, buffout, stimpaks, medical kits of varying strengths, psychos and many others that you wouldn't understand. I don't do that anymore, though. I created the Mr. Chemmie! robot to do that for me. It's in the main complex. If you have the intelligence and scientific skills you say you have, then feel free to use it to make any drugs you want.}
 {241}{}{What special drugs have you created?}
 {242}{}{Where can I find Mr. Chemmie!?}
-{243}{}{Thanks. Say, have you ever heard of jet?}
+{243}{}{Thanks. Say, have you ever heard of Jet?}
 {250}{}{Yes, I've created many creatures whilst I've been at the EPA. If you're an exploring type, then you may have come across some of them in the wastes. Centaurs?  Floaters? The "Aliens"? They roam freely now in the wastes. I've just retained a few here and in the main base for future reference.}
 {251}{}{Just a minute. Are you telling me that all those creatures out there, those things that are plaguing the wasteland and killing innocents were created by you?!}
 {252}{}{Whoa, note to self: Do not anger the Doctor. Goodbye.}
