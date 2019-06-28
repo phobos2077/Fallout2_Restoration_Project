@@ -227,11 +227,15 @@ end
 
 procedure critter_p_proc begin
    //added by killap
-   if ((cur_map_index == MAP_NEW_RENO_1) and (self_obj == party_member_obj(PID_MIRIA)) and (map_var(MVAR_Kitty_Drug) == party_member_obj(PID_MIRIA))) then begin
-      set_map_var(MVAR_Kitty_Drug, 0);
-      waiting := 1;
-      if (get_critter_stat(self_obj, STAT_st) < 10) then begin
-         use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
+   if cur_map_index == MAP_NEW_RENO_1 then begin
+      if self_obj == party_member_obj(PID_MIRIA)
+         and map_var(MVAR_Kitty_Drug) == party_member_obj(PID_MIRIA)
+      then begin
+         set_map_var(MVAR_Kitty_Drug, 0);
+         waiting := 1;
+         if get_critter_stat(self_obj, STAT_st) < 10 then begin
+            use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
+         end
       end
    end
    //end added
