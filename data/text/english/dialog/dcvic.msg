@@ -183,7 +183,7 @@
 {840}{}{Ed's over at Vault City. He's a Brahmin Dealer. He was just one of my many suppliers. Vault City's not too far from here.}
 
 # Additions to Node 13
-{845}{}{I told you, it's over here. [Vic points to a location on your PIPBoy2000.]}
+{845}{}{I told you, it's over here. [Vic points to a location on your Pip-Boy 2000.]}
 
 {900}{}{You learned about Vic being a trader.}
 

@@ -25,7 +25,7 @@
 {213}{}{When 90% of the world is scorched to a crispy brown, I'd say it's hard to declare a clear winner.
  I mean, there wasn't much left worth winning.}
 {214}{}{What... what date is it? What year? Is it still 2077?}
-{215}{}{Hell, no. [You show her the date on your Pip Boy's calendar.]}
+{215}{}{Hell, no. [You show her the date on your Pip-Boy's calendar.]}
 {216}{}{[She stares at the flickering screen, frozen in time like she never left the tank.]}
 {217}{}{Are you alright?}
 {218}{}{My God. I don't believe it. I was in that thing for over a century?!}

@@ -224,7 +224,7 @@
 {1131}{}{I'm on my way, Mr. Skynet. Thanks for everything. Goodbye.}
 {1132}{}{Well, I think YOU should go there Skybrain, and stay there. I'm outta here. Freak.}
 
-{1135}{}{Here. (He shows you on your PipBoy). You should go there now.}
+{1135}{}{Here. (He shows you on your Pip-Boy). You should go there now.}
 
 {1138}{}{The Abbey is a place of solitude.}
 {1139}{}{Be careful out there.}

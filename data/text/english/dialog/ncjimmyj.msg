@@ -224,7 +224,7 @@
 {550}{}{They got him stationed at this place called the "Stables," to the North, outside city limits. I only been there
  once - they never let me past the gates, and I WORK for the Family.}
 {551}{}{Come on, there must be some way I could see him.}
-{554}{}{The Stables, huh? Outside of town to the North…(I'll just record that on the Pip Boy real quick here)…thanks for the
+{554}{}{The Stables, huh? Outside of town to the North…(I'll just record that on the Pip-Boy real quick here)…thanks for the
  lowdown, Jimmy.}
 
 # 28. HOW COULD I GET TO SEE MYRON? NO (27)

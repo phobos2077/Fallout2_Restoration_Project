@@ -396,6 +396,6 @@
 {913}{}{Good, but next time do me a favor and don't waste my time unless you've got actual business to discuss.}
 {914}{}{Premium price, huh? Now you're talking my kinda language. We usually handle sales here, but I suppose an exception could be made,
  as long as you're serious. I'll tell you how to get there, but you better keep it to your fucking self. I swear, if you turn out to be a
- spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pipboy.]}
+ spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pip-Boy.]}
 {915}{}{Got it. Let me ask you something else.}
 {916}{}{Thanks. I'll be on my way now. Bye.}

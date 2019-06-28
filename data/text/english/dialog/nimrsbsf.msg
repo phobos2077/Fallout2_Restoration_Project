@@ -30,7 +30,7 @@
 {000}{}{Leave the safe alone.}
 
 # 4.  OPEN COMPARTMENT (3)
-{230}{}{(You pry up a small panel on the bottom of the safe. You don't think you would have found it if Mrs. Bishop hadn't told you about it. Inside is an odd-looking pip boy attachment.)}
+{230}{}{(You pry up a small panel on the bottom of the safe. You don't think you would have found it if Mrs. Bishop hadn't told you about it. Inside is an odd-looking Pip-Boy attachment.)}
 {000}{}{Take it, then loot the rest of the safe.}
 
 # 5.  CLICKING (2, 5, 6, 8)

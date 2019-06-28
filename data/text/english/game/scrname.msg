@@ -1162,7 +1162,7 @@
 {1244}{}{Jane}                          # RCJane.int      ; Redding Jackpot Jane
 {1245}{}{}                              # VTAloMrk.int    ; Spatial Script for Allocation Computer VCity
 {1246}{}{Map Script}                    # Cave7.int       ; Fake Vault 13 map
-{1247}{}{Dermal Pip Boy}                # niDermal.int    ; New Reno Dermal Pip Boy
+{1247}{}{Dermal Pip-Boy}                # niDermal.int    ; New Reno Dermal Pip-Boy
 {1248}{}{Pooch}                         # ncEldDog.int    ; New Reno Eldridge Dogs
 {1249}{}{Rattray}                       # RCRatray.int    ; Rattray, Doc Johnson's assistant
 {1250}{}{Spouse}                        # HCHusWif.int    ; Mutant Husband/Wife Broken Hills
@@ -1219,7 +1219,7 @@
 {1301}{}{Generator}                     # kcGnratr.int    ; Generator player repairs in toxic caves
 {1302}{}{Door}                          # kcLvatr.int     ; Elevator door in toxic caves
 {1303}{}{Door}                          # SIVDor.int      ; Vortis Slave Door
-{1304}{}{Medical Pip Boy}               # niMedica.int    ; New Reno "Doctor Skill" Upgrade
+{1304}{}{Medical Pip-Boy}               # niMedica.int    ; New Reno "Doctor Skill" Upgrade
 {1305}{}{Locker}                        # niPrstLk.int    ; New Reno Prostitute"Locker"
 {1306}{}{Locker}                        # niBigJLk.int    ; New Reno Big Jesus "Locker"
 {1307}{}{Locker}                        # niMor1Lk.int    ; New Reno Mordino No Lock/No Ignore "Locker"

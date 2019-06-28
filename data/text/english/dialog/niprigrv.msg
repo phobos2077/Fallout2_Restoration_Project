@@ -3,7 +3,7 @@
 {101}{}{An old man's body lies in a sturdy wooden coffin, and it looks like someone cut his throat.}
 
 {150}{}{While searching Pritchard's body, you pull off his boots and notice one of the heels is loose. Prying
- it off, you find a wrinkled map that leads to something called "SAD." You enter the map into your PipBoy.}
+ it off, you find a wrinkled map that leads to something called "SAD." You enter the map into your Pip-Boy.}
 
 {200}{}{The headstone reads: "Here lies Sam Pritchard: He talked too much so we gave him a second mouth."}
 

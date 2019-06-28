@@ -10,7 +10,7 @@
 {4}{}{Quick load game successfully loaded.}
 {5}{}{Quick save game successfully saved.}
 {6}{}{Demo time limit exceeded.}
-{7}{}{Pipboy not available in combat!}
+{7}{}{Pip-Boy not available in combat!}
 {8}{}{Error saving screenshot.}
 {9}{}{INTRO}
 {10}{}{NEW GAME}
@@ -76,7 +76,7 @@
 #
 # from pipboy.c -- Fallout 2
 #
-{7000}{}{You aren't wearing the pipboy!}
+{7000}{}{You aren't wearing the Pip-Boy!}
 
 #
 # from anim.c -- Fallout 2

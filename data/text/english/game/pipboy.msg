@@ -1,9 +1,9 @@
 #
 # ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 #
-# Text labels and messages used in PIPBOY.C
+# Text labels and messages used in pipboy.c
 #
-# (These MUST match "text message" enumeration on the top of PIPBOY.C)
+# (These MUST match "text message" enumeration on the top of pipboy.c)
 #
 # ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
@@ -88,7 +88,7 @@
 # Movie archive titles
 # Order must match the list (see gmovie.h)
 #
-{500}{}{InterPlay Logo}               # Not shown in Pipboy
+{500}{}{InterPlay Logo}               # Not shown in Pip-Boy
 {501}{}{Intro}
 {502}{}{Elder Speech}
 {503}{}{Vault Suit Recovery}
@@ -116,7 +116,7 @@
 {603}{}{Archives}
 {604}{}{Alarm Clock}
 {605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
-{606}{}{Welcome to the Rob Co Pipboy 2000.}
+{606}{}{Welcome to the Rob Co Pip-Boy 2000.}
 {607}{}{So long.}
 {608}{}{Wake up.}
 

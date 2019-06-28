@@ -277,7 +277,7 @@
 {432}{}{My ass is going to fall off, Myron keeps it up.}
 {433}{}{Damn Temperance Union came around again...}
 {434}{}{::Whistles::}
-{435}{}{I guarantee I'm better than that Pip Boy attachment you've been using.}
+{435}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
 {436}{}{Want me to tighten your screws, slaver?}
 {437}{}{I'd rather be with Avellone.}
 {438}{}{I wish Nick Kesting was here. We could talk for hours!}
@@ -476,7 +476,7 @@
 {625}{}{Damn Temperance Union came around again...}
 {626}{}{::Whistles::}
 {627}{}{Biting is extra.}
-{628}{}{I guarantee I'm better than that Pip Boy attachment you've been using.}
+{628}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
 {629}{}{Want me to tighten your screws?}
 {630}{}{I'd rather be with Avellone.}
 {631}{}{I wish Nick Kesting was here. We could talk for hours!}
@@ -641,7 +641,7 @@
 {788}{}{Damn Temperance Union came around again...}
 {789}{}{::Whistles::}
 {790}{}{Biting is extra.}
-{791}{}{I guarantee I'm better than that Pip Boy attachment you've been using.}
+{791}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
 {792}{}{Want me to tighten your screws?}
 {793}{}{I'd rather be with Avellone.}
 {794}{}{I wish Nick Kesting was here. We could talk for hours!}
@@ -888,7 +888,7 @@
 {1021}{}{You make my Geiger counter tick.}
 {1022}{}{::Whistles::}
 {1023}{}{Biting is extra.}
-{1024}{}{I guarantee I'm better than that Pip Boy attachment you've been using.}
+{1024}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
 {1025}{}{Want me to tighten your screws?}
 {1026}{}{I'd rather be with Avellone.}
 {1027}{}{I wish Nick Kesting was here. We could talk for hours!}
@@ -1065,7 +1065,7 @@
 {1196}{}{You make my Geiger counter tick.}
 {1197}{}{::Whistles::}
 {1198}{}{Biting is extra.}
-{1199}{}{I guarantee I'm better than that Pip Boy attachment you've been using.}
+{1199}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
 {1200}{}{Want me to tighten your screws?}
 {1201}{}{I'd rather be with Avellone.}
 {1202}{}{I wish Nick Kesting was here. We could talk for hours!}
@@ -1240,7 +1240,7 @@
 {1369}{}{You make my Geiger counter tick.}
 {1370}{}{::Whistles::}
 {1371}{}{Biting is extra.}
-{1372}{}{I guarantee I'm better than that Pip Boy attachment you've been using.}
+{1372}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
 {1373}{}{Want me to tighten your screws?}
 {1374}{}{I'd rather be with Avellone.}
 {1375}{}{I wish Nick Kesting was here. We could talk for hours!}

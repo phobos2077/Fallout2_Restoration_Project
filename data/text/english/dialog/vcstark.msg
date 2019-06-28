@@ -209,8 +209,8 @@
 {305}{}{I could do some recon for you if you're short-handed.}
 {306}{}{Forget it. I had some other questions...}
 {307}{}{Never mind then. Goodbye.}
-{308}{}{No, you'd need a Pip Boy to get the job done right, and I can't spare one right now.}
-{309}{}{I already got a Pip Boy. It's old...and cranky...and seems to have wires and buttons yanked out everywhere...but it works.}
+{308}{}{No, you'd need a Pip-Boy to get the job done right, and I can't spare one right now.}
+{309}{}{I already got a Pip-Boy. It's old...and cranky...and seems to have wires and buttons yanked out everywhere...but it works.}
 {310}{}{Well, all right. I had some other questions...}
 {311}{}{Never mind then. Goodbye.}
 {312}{}{Yeah? Has it got a Northern California world map installed?}
@@ -229,7 +229,7 @@
 {325}{}{I'll take the job. I had some questions first, though...}
 {326}{}{No thanks. Maybe some other time.}
 {327}{}{That so? Heh. Well... all right then.}
-{328}{}{Good job. Download the information into my Pip Boy, and I'll log it into the patrol computers.}
+{328}{}{Good job. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
 {329}{}{All right...}
 {330}{}{This intelligence looks good. Well done. Here's your payment... three hundred dollars.}
 {331}{}{All right then...you got any more work for me?}
@@ -248,13 +248,13 @@
 {343}{}{No thanks. I had some other questions, though...}
 {344}{}{I don't think I want this job. Maybe some other time.}
 {345}{}{That so? Heh.}
-{346}{}{All right then. Download the information into my Pip Boy, and I'll log it into the patrol computers.}
+{346}{}{All right then. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
 {347}{}{All right.}
 {348}{}{This intelligence looks good. Well done. Here's payment for your services, five hundred dollars... plus, you might find this useful.}
 {349}{}{What is it?}
-{350}{}{It's a Vault-Tec Motion sensor. We were going to strip it for parts, since it's too old for our Pip Boys, but it looks like it's compatible with your model.}
+{350}{}{It's a Vault-Tec Motion sensor. We were going to strip it for parts, since it's too old for our Pip-Boys, but it looks like it's compatible with your model.}
 {351}{}{How does it work?}
-{352}{}{Keep it in your hand and it IDs hostiles in your immediate area when you use it. Or you can call up the Pip Boy automap as normal, then just click the "scanner" button and they're lit up like a neon sign.}
+{352}{}{Keep it in your hand and it IDs hostiles in your immediate area when you use it. Or you can call up the Pip-Boy automap as normal, then just click the "scanner" button and they're lit up like a neon sign.}
 {353}{}{Thanks, this could be useful. Say, can I ask you some other questions?}
 {354}{}{Much appreciated. I'll go try it out.}
 {355}{}{Hello... Captain. Did you want something?}

@@ -441,7 +441,7 @@
 {2003}{}{Alright, if I'm interpreting your drunken ramblings correctly, then it sounds like you came from some sort of monastery, where you did a
  lot of drinking with some guy named Samuel. Father, if you could point out its location on my map, then maybe I could go meet your friend and try
  some of this hooch you're so fond of.}
-{2004}{}{(You pull out your PipBoy and hold it out for Father Tully to point out the location. He first points at the ocean, then at a random
+{2004}{}{(You pull out your Pip-Boy and hold it out for Father Tully to point out the location. He first points at the ocean, then at a random
  mountain range to the south. After almost poking his eye out, he finally settles his finger on the northeast corner of the map.) Yep, there'z
  the Abbey. That seemz bout right.}
 {2005}{}{I appreciate it, Father. I have some other questions though.}

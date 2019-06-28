@@ -547,12 +547,12 @@
 {741}{}{And?}
 
 # 155. EDUCATION: VAULT CITY (161)
-{745}{}{They had memory enhancers for the Pip Boys there. Had dictionaries
+{745}{}{They had memory enhancers for the Pip-Boys there. Had dictionaries
  and encyclopedias stored on them. Took one of the lingual enhancers when I left, though I don't know why.}
 {746}{}{Where is this enhancer?}
 
 # 156. SORT OF (155)
-{750}{}{*Yawn*... (Curls up.) It's in my safe. Not much use without a Pip Boy, though.
+{750}{}{*Yawn*... (Curls up.) It's in my safe. Not much use without a Pip-Boy, though.
  Don't know why I still keep it.}
 {751}{}{Can I have it?}
 {752}{}{Hmmmnn. I had some other questions...}
@@ -588,7 +588,7 @@
 
 # 162. SORT OF (157)
 {810}{}{Just attach the headgear, place the optic sensor over your right eye, then connect
- the other end... hmpphh... (Rolls over.) ..to the Pip Boy. You'll feel a slight rush,
+ the other end... hmpphh... (Rolls over.) ..to the Pip-Boy. You'll feel a slight rush,
  some nausea, then your head will feel...clearer.}
 
 # 163. PROOF? (137)

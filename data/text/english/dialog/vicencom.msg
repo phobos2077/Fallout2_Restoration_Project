@@ -73,8 +73,8 @@
 {172}{}{Search archives for any mention of the Garden of Eden Creation Kit.}
 {173}{}{Insert Gecko power plant disk into the computer.}
 {174}{}{Pry open the computer and look for a voice recognition module.}
-{175}{}{Insert the Pip Boy into the slot you noticed before.}
-{176}{}{Insert the Pip Boy into the slot you noticed before.}
+{175}{}{Insert the Pip-Boy into the slot you noticed before.}
+{176}{}{Insert the Pip-Boy into the slot you noticed before.}
 {177}{}{Log off the terminal.}
 {178}{}{The metal box does not answer.}
 {179}{}{Try and pry open the box so the woman can get out.}
@@ -91,48 +91,48 @@
  computer.}
 {188}{}{Replace the panel and look through the computer archives.}
 {189}{}{It was worth a shot. Better go look somewhere else.}
-{190}{}{As you replace the panel, however, you suddenly notice a small picture of the Pip Boy located
- beneath the terminal. Next to the picture is a slot that looks about the size of your Pip Boy.}
-{191}{}{Insert your Pip Boy into the empty slot.}
+{190}{}{As you replace the panel, however, you suddenly notice a small picture of the Pip-Boy located
+ beneath the terminal. Next to the picture is a slot that looks about the size of your Pip-Boy.}
+{191}{}{Insert your Pip-Boy into the empty slot.}
 {192}{}{Leave the terminal.}
 {193}{}{As you are about to shamble off, you see the smiling little person from your small blinky Pip
  Boy under the metal box! He's pointing to an empty space next to him. Maybe he wants to talk to your
- Pip Boy little person.}
-{194}{}{As you are about to turn away, you suddenly notice a small picture of the Pip Boy located
- beneath the terminal. Next to the picture is a slot that looks about the size of your Pip Boy.}
-{195}{}{Shove your Pip Boy person hand-held thingee into the slot so they can talk.}
-{196}{}{Insert your Pip Boy into the empty slot.}
+ Pip-Boy little person.}
+{194}{}{As you are about to turn away, you suddenly notice a small picture of the Pip-Boy located
+ beneath the terminal. Next to the picture is a slot that looks about the size of your Pip-Boy.}
+{195}{}{Shove your Pip-Boy person hand-held thingee into the slot so they can talk.}
+{196}{}{Insert your Pip-Boy into the empty slot.}
 {197}{}{Leave the terminal.}
 {198}{}{Boy! The two seem to have a LOT to talk about! They talk in funny words that sound like
- grinding, beeping, and mantis-chirping. Eventually, there is a beep, and your Pip Boy slides out.}
-{199}{}{Take your Pip Boy and leave.}
-{200}{}{A small window opens on the terminal screen with a smiling Pip Boy next to it. As you watch, the
- Pip Boy starts whistling silently and tapping his feet. A red light is flashing beside the computer slot.}
+ grinding, beeping, and mantis-chirping. Eventually, there is a beep, and your Pip-Boy slides out.}
+{199}{}{Take your Pip-Boy and leave.}
+{200}{}{A small window opens on the terminal screen with a smiling Pip-Boy next to it. As you watch, the
+ Pip-Boy starts whistling silently and tapping his feet. A red light is flashing beside the computer slot.}
 {201}{}{Wait...}
 {202}{}{Cancel the procedure and log off terminal.}
-{203}{}{An unhealthy grinding noise comes from the Pip Boy slot. The Pip Boy continues to whistle
+{203}{}{An unhealthy grinding noise comes from the Pip-Boy slot. The Pip-Boy continues to whistle
  silently and tap his feet.}
 {204}{}{Wait...}
 {205}{}{Cancel the procedure and log off terminal.}
-{206}{}{The Pip Boy suddenly stops and frowns. An exclamation mark appears above his head, and he
+{206}{}{The Pip-Boy suddenly stops and frowns. An exclamation mark appears above his head, and he
  starts wagging his finger at you. }
 {207}{}{Give the little bastard the finger right back!}
 {208}{}{Try and determine what's wrong.}
 {209}{}{Cancel the procedure and log off terminal.}
-{210}{}{A small display beneath the Pip Boy states that your last scheduled maintenance was 50.352 years
+{210}{}{A small display beneath the Pip-Boy states that your last scheduled maintenance was 50.352 years
  ago. The archives are corrupted and need to be "re-formatted." Do you wish to proceed?}
 {211}{}{Uh…sure.}
 {212}{}{Wha…no! No way! }
 {213}{}{Cancel the procedure and log off terminal.}
-{214}{}{Initialization procedure beginning... Reformatting Pip Boy...}
+{214}{}{Initialization procedure beginning... Reformatting Pip-Boy...}
 {215}{}{}
 {216}{}{Wait...}
 {217}{}{Cancel the procedure and log off terminal.}
 {218}{}{Initialization procedure beginning...}
-{219}{}{                             Reformatting Pip Boy...}
-{220}{}{Hey! Give me my goddamn Pip Boy back!}
+{219}{}{                             Reformatting Pip-Boy...}
+{220}{}{Hey! Give me my goddamn Pip-Boy back!}
 {221}{}{Cancel! Cancel! }
-{222}{}{Northern California Geographical Archive is being copied into Pip Boy database. }
+{222}{}{Northern California Geographical Archive is being copied into Pip-Boy database. }
 {223}{}{Copying archive... Broken Hills... Gecko... New California Republic... New Reno... Redding... Vault City... Download complete.}
 {224}{}{Continue to search the archives for more information.}
 {225}{}{Log off the terminal.}
@@ -148,7 +148,7 @@
 {233}{}{Log off the terminal.}
 {234}{}{The archives list only two vaults: Vault 8 (this Vault) and Vault 15, located far to the south.
  Oddly enough, there is no mention of Vault 13.}
-{235}{}{You enter Vault 15's location into your Pip Boy.}
+{235}{}{You enter Vault 15's location into your Pip-Boy.}
 {236}{}{Continue to search the archives for more information.}
 {237}{}{Log off the terminal.}
 {238}{}{According to the archives, there is no GECK currently in stock at Vault City's Amenities Office.
@@ -164,16 +164,16 @@
  another Vault. The other Vault most likely received Vault 8's second GECK.}
 {245}{}{Return to the main menu.}
 {246}{}{Log off the terminal.}
-{247}{}{A small window opens on the terminal screen with a smiling Pip Boy next to it. As you watch, the
- Pip Boy looks right at you, winks, then gives you a thumbs up. A red light is flashing beside the
+{247}{}{A small window opens on the terminal screen with a smiling Pip-Boy next to it. As you watch, the
+ Pip-Boy looks right at you, winks, then gives you a thumbs up. A red light is flashing beside the
  computer slot.}
-{248}{}{Give the Pip Boy a thumbs up.}
-{249}{}{Give the Pip Boy the finger.}
-{250}{}{Fallout 2 Development Information is being entered into Pip Boy database. Copying file...
+{248}{}{Give the Pip-Boy a thumbs up.}
+{249}{}{Give the Pip-Boy the finger.}
+{250}{}{Fallout 2 Development Information is being entered into Pip-Boy database. Copying file...
  Vault City Development Credits... Download complete.}
 {251}{}{Thank you.}
 {252}{}{This time-waster better be worth some extra skill points, or I'm going to be pissed off.}
-{253}{}{The Pip Boy on the screen waves good-bye, and then the screen turns black. The terminal has shut
+{253}{}{The Pip-Boy on the screen waves good-bye, and then the screen turns black. The terminal has shut
  down.}
 {254}{}{[Leave.]}
 {255}{}{Yeah, you better run, you little shit.}

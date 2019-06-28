@@ -41,7 +41,7 @@
 {200}{}{[The Hubologist Church appears to be hugely wealthy. The standard approach is to ask a new recruit to donate all
  his or her worldly possessions to the Church as a sign of good faith. When someone isn't asked to do this, apparently
  it means the Hubologists aren't intending to deal fairly. They have a huge cache of loot stashed somewhere in the desert.
- After a bit hacking and mathematical calculations, you determine the coordinates of the stash. You mark them down in your PipBoy.]}
+ After a bit hacking and mathematical calculations, you determine the coordinates of the stash. You mark them down in your Pip-Boy.]}
  
 {201}{}{[The Hubologist Church appears to be hugely wealthy. The standard approach is to ask a new recruit to donate all
  his or her worldly possessions to the Church as a sign of good faith. When someone isn't asked to do this, apparently
