@@ -135,7 +135,7 @@
  can't test it without some endorphin blockers, though.}
 {210}{}{Never mind. I had something else I wanted to ask you...}
 {211}{}{Nothing. I have to be going.}
-{212}{}{We don't have endorphin blockers here, but I could program the Autodoc to manufacture some.
+{212}{}{We don't have endorphin blockers here, but I could program the Auto-Doc to manufacture some.
  Would you care to explain to me your theory?}
 {213}{}{Well, you see Jet's chemical addiction is probably the hardest thing to shake, so I was thinking
  that if we introduced endorphin blockers into the body we could...}
@@ -206,7 +206,7 @@
  rest of the Outworlders.}
 {269}{}{Very well. Here is your first payment. I hope you choke on it.}
 {270}{}{It's been a pleasure, Doctor. You'll be seeing me again real soon.}
-{271}{}{You better watch your mouth, or you'll be the next patient in that Autodoc. Understand?}
+{271}{}{You better watch your mouth, or you'll be the next patient in that Auto-Doc. Understand?}
 {272}{}{This is NOT something to be joking about; this is a very serious matter. I will pay a thousand
  dollars for the Jet, your silence... and no more questions. Do you want the job?}
 {273}{}{Well, what do you know? I have a sample of Jet right here.}
@@ -234,7 +234,7 @@
 {294}{}{About that Jet you wanted... I think the other Citizens might like to know about it, too.}
 {295}{}{Nothing today. Good day, Doctor.}
 {296}{}{Certainly. I'm sorry... it's been some time since I actually had to administer them. Most
- Citizens received theirs many, many years ago. Let me prep the Autodoc for the procedure...}
+ Citizens received theirs many, many years ago. Let me prep the Auto-Doc for the procedure...}
 {297}{}{All right.}
 {298}{}{All finished. A word of caution: This vaccination doesn't make you immune to poison and
  radiation, but it does bolster your natural resistance.}
@@ -258,9 +258,9 @@
 {316}{}{Hold on... I've been irradiated. I need you to cure it.}
 {317}{}{That's all I want to hear. See you soon, Doc.}
 {318}{}{I see. First, I'll need to check your vital signs... lean back and we'll hook you up to the
- Autodoc here...}
+ Auto-Doc here...}
 {320}{}{Hmmmm. It seems that during the start-up procedure, an operator priority override has caused the
- Autodoc to accidentally inject you with Sodium Tri-Ethylene.}
+ Auto-Doc to accidentally inject you with Sodium Tri-Ethylene.}
 {321}{}{What? What's that mean?}
 {322}{}{It means you have less than ten seconds to live. Your stupidity is really quite staggering.
  Blackmail someone, then put your life in their hands? Simply amazing. Goodbye... and good riddance.}
@@ -315,7 +315,7 @@
 {356}{}{Thanks. I'll go look for them.}
 {357}{}{Of course, Captain. Let me see what I can do for you and your friends.}
 {358}{}{Of course, Captain. Let me see what I can do for you and your friend.}
-{359}{}{I just need to check your vital signs first... lean back and we'll hook you up to the Autodoc
+{359}{}{I just need to check your vital signs first... lean back and we'll hook you up to the Auto-Doc
  here...}
 {361}{}{My, your mutant friend had a great deal of bullets and shrapnel lodged in his body. It's a
  wonder he didn't have lead poisoning. I finally managed to get it all out. Here it all is.}
@@ -337,7 +337,7 @@
 {377}{}{Do you know anything about dermal implants?}
 {378}{}{Never mind. I had some other questions...}
 {379}{}{Nothing. Thanks, Doctor.}
-{380}{}{Very well. Just let me check your vital signs... lean back and we'll hook you up to the Autodoc
+{380}{}{Very well. Just let me check your vital signs... lean back and we'll hook you up to the Auto-Doc
  here...}
 {382}{}{That should fix you up nicely. How do you feel?}
 {383}{}{Great. Say, can you heal my friend, too?}
@@ -345,7 +345,7 @@
 {385}{}{Do you know anything about dermal implants?}
 {386}{}{Much better, thanks. I had some other questions...}
 {387}{}{Great. Thanks, Doctor.}
-{388}{}{Very well. Just let me check your vital signs... lean back and we'll hook you up to the Autodoc
+{388}{}{Very well. Just let me check your vital signs... lean back and we'll hook you up to the Auto-Doc
  here...}
 {390}{}{That should fix you up nicely. How do you feel?}
 {391}{}{Much better, thanks. Say, before I get poisoned or irradiated again, during that tour you gave

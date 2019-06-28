@@ -519,7 +519,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
  in the courtyard for that.}
 {550}{}{Well, you might want to know that the Doctor asked me to smuggle some illegal drugs into the city.}
 {551}{}{Oh. Look, I had some other questions...}
-{552}{}{Yeah, for those that can pay... and that's assuming they come out of the Autodoc in one piece.}
+{552}{}{Yeah, for those that can pay... and that's assuming they come out of the Auto-Doc in one piece.}
 {553}{}{All right, never mind then. Goodbye.}
 {554}{}{My apologies, First Citizen. Good day.}
 {555}{lyn086}{I believe it is time you left. I suggest you make your stay in Vault City a short one.}

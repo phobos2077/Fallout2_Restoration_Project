@@ -1516,9 +1516,9 @@
 {1598}{}{}                              # nscody.int      ; Spatial script for Cody's death
 {1599}{}{Locker}                        # eplkr.int       ; Script controlling the lockers holding the NPC's belongings (EPA)
 {1600}{}{Map Script}                    # easter.int      ; RP Easter Egg Map Script
-{1601}{}{Modder}            		# eastereg.int    ; Script for all those who helped make the RP possible
-{1602}{}{Smoking}            		# zismoke.int     ; Script used by cigs/weed
-{1603}{}{Peeing}            		# peeing.int      ; Script for player peeing
+{1601}{}{Modder}                        # eastereg.int    ; Script for all those who helped make the RP possible
+{1602}{}{Smoking}                       # zismoke.int     ; Script used by cigs/weed
+{1603}{}{Peeing}                        # peeing.int      ; Script for player peeing
 {1604}{}{Map Script}                    # abbasem.int     ; Abbey Basement
 {1605}{}{Map Script}                    # abundgr.int     ; Abbey Underground
 {1606}{}{Merchant}                      # tribemer.int    ; Roy the merchant
@@ -1527,7 +1527,7 @@
 {1609}{}{Merchant Map}                  # merchant.int     ; Map Script to Primitive Tribe Merchant Encounter
 {1610}{}{computer}                      # epai35.int      ; EPA museum computer
 {1611}{}{computer}                      # epai36.int      ; EPA petting zoo computer
-{1612}{}{auto-doc}                      # epai37.int      ; EPA Character Modification Machine
+{1612}{}{Auto-Doc}                      # epai37.int      ; EPA Character Modification Machine
 {1613}{}{Brother Jason}                 # abjason.int     ; Angry monk at Abbey
 {1614}{}{Todd}                          # viltodd.int     ; Little Todd - Vault Village
 {1615}{}{Robert Baron}                  # vibaron.int     ; Robert Baron - Vault Village caravan provider

@@ -116,10 +116,10 @@
 {210}{}{Alcohol Raised hit points II}
 {211}{}{Alcohol Lowered hit points}
 {212}{}{Alcohol Lowered hit points II}
-{213}{}{Autodoc Raised hit points}
-{214}{}{Autodoc Raised hit points II}
-{215}{}{Autodoc Lowered hit points}
-{216}{}{Autodoc Lowered hit points II}
+{213}{}{Auto-Doc Raised hit points}
+{214}{}{Auto-Doc Raised hit points II}
+{215}{}{Auto-Doc Lowered hit points}
+{216}{}{Auto-Doc Lowered hit points II}
 {217}{}{Expert Excrement Expeditor}
 {218}{}{Weapon Enhanced Knockout}
 {219}{}{Jinxed}
@@ -241,10 +241,10 @@
 {1210}{}{Your hit points have been enhanced a little more by repeated drunkeness.}  # Alcohol Enhanced hit points II
 {1211}{}{Your hit points have been lowered slightly by repeated drunkeness.}  # Alcohol Lowered hit points
 {1212}{}{Your hit points have been lowered slightly by repeated drunkeness.}  # Alcohol Lowered hit points II
-{1213}{}{Your hit points have been enhanced a little by repeated use of the autodoc.}  # Autodoc Enhanced hit points !!! Seraph's Fix: changed 1209 to 1213
-{1214}{}{Your hit points have been enhanced a little more by repeated use of the autodoc.}  # Autodoc Enhanced hit points II !!! Seraph's Fix: changed 1210 to 1214
-{1215}{}{Your hit points have been lowered slightly by repeated use of the autodoc.}  # Autodoc Lowered hit points !!! Seraph's Fix: changed 1211 to 1215
-{1216}{}{Your hit points have been lowered slightly by repeated use of the autodoc.}  # Autodoc Lowered hit points II !!! Seraph's Fix: changed 1212 to 1216
+{1213}{}{Your hit points have been enhanced a little by repeated use of the Auto-Doc.}  # Auto-Doc Enhanced hit points !!! Seraph's Fix: changed 1209 to 1213
+{1214}{}{Your hit points have been enhanced a little more by repeated use of the Auto-Doc.}  # Auto-Doc Enhanced hit points II !!! Seraph's Fix: changed 1210 to 1214
+{1215}{}{Your hit points have been lowered slightly by repeated use of the Auto-Doc.}  # Auto-Doc Lowered hit points !!! Seraph's Fix: changed 1211 to 1215
+{1216}{}{Your hit points have been lowered slightly by repeated use of the Auto-Doc.}  # Auto-Doc Lowered hit points II !!! Seraph's Fix: changed 1212 to 1216
 {1217}{}{You can sling bull with the best of them.}
 {1218}{}{Weapon Enhanced Knockout}
 {1219}{}{The good thing is that everyone around you has more critical failures in combat. The bad thing is that you do too!}

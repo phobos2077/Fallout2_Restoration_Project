@@ -27,7 +27,7 @@
 {126}{}{Last time I drink the damned water in this town, that's fer sure.}
 {127}{}{Surprised I still ain't glowing...}
 {128}{}{Damn Rad-Away gives me the runs...}
-{129}{}{Thanks, stranger. I appreciate your help... I couldn't afford the Autodoc.}
+{129}{}{Thanks, stranger. I appreciate your help... I couldn't afford the Auto-Doc.}
 {130}{}{Wish I could reward you, but I ain't even got two caps to rub together.}
 {131}{}{Last time I drink the damned water in this town, that's fer sure.}
 {132}{}{Surprised I still ain't glowing...}
