@@ -361,7 +361,7 @@ end
 procedure Node006 begin
    sex_partner := dude_obj;
    if (bad_sex) then begin
-      Reply(530);
+      Reply(540);
       off_bad_sex;
    end else begin
       Reply(174);
