@@ -49,12 +49,8 @@ procedure map_enter_p_proc begin
      fadein(500);
    end
 //Added by Chris Holland
-   //added by killap - expansion (came on verti)
-   else if (global_var(GVAR_LOAD_MAP_INDEX) == 11) then begin
-     override_map_start_hex(20294,1,3);
-     set_obj_visibility(dude_obj, 0);
-     fadein(500);
-   end else if (global_var(GVAR_LOAD_MAP_INDEX) == 12) then begin
+   //added by killap - expansion: vertibird pad
+   end else if (global_var(GVAR_LOAD_MAP_INDEX) == 12) then begin // todo: find and define this magic constant
      override_map_start_hex(21307,1,0);
    end
    //end added
