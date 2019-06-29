@@ -959,6 +959,7 @@ variable removed_qty;
 // is_sex_god is temporary for when the player gets the sex perk ***
 #define is_sex_god               ((global_var(GVAR_PLAYER_SEX_LEVEL)>=100) or (dude_has_porn_star_rep))
 #define have_sex_time_obj(x)     (((get_critter_stat(x,STAT_en)) * random(4,8)) * ONE_GAME_MINUTE)
+#define have_quickie_time_obj(x) (((get_critter_stat(x,STAT_en)) * random(2,4)) * ONE_GAME_MINUTE)
 #define have_sex_time            have_sex_time_obj(dude_obj)
 #define advance_sex_time         game_time_advance(have_sex_time)
 // these are to be compared to sex_rating

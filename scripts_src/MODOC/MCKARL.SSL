@@ -574,8 +574,9 @@ procedure Node044 begin
    NOption(245,Node045,001);
 end
 procedure Node045 begin
-variable karl_money;
+   variable karl_money;
    up_sex_status; //added by killap
+   game_time_advance(have_quickie_time_obj(dude_obj));
    karl_money := self_caps;
    if (karl_money > 0) then begin
       if (karl_money >= 1000) then begin
