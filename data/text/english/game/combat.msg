@@ -669,7 +669,7 @@
 # 5000 series - men (including generics)
 #
 {5000}{}{. That really hurts}
-{5001}{}{. That inflicted some serious pain}
+{5001}{}{. Serious pain is inflicted.}
 {5002}{}{ with no armor defenses}
 {5003}{}{. The damaging attack knocks him unconscious}
 {5004}{}{. The blow knocks him to the ground}
@@ -710,7 +710,7 @@
 # series 5100 - women
 #
 {5100}{}{. That really hurts}
-{5101}{}{. That inflicted some serious pain}
+{5101}{}{. Serious pain is inflicted}
 {5102}{}{ with no armor}
 {5103}{}{. The damaging attack knocks her unconscious}
 {5104}{}{. The blow knocks her to the ground}
