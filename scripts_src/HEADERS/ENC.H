@@ -39,4 +39,29 @@ variable Enclave_Second;
 
 #define check_poisoning         if (global_var(GVAR_ENCLAVE_ALARM) == ALARM_TOXIN) then display_msg(g_mstr(1013))
 
+
+// Closes and locks all blasts doors in the final fight. If Granite has joined, doesn't close the door between him and Frank.
+procedure final_fight_lock_doors begin
+    // door_pid > tile
+    variable always_close, granite_close, pid, tile, door;
+    always_close := {
+        33556007: 22701, // down the stairs / to verti pad
+        33556008: 19266 // between Granite and exit_grid
+    };
+    granite_close := {33556008: 19280}; // between Frank and Granite
+
+    foreach (pid: tile in always_close) begin
+        door := tile_contains_pid_obj(tile, elevation(self_obj), pid);
+        obj_close(door);
+        obj_lock(door);
+    end
+    if GVAR_ENCLAVE_GRANITE_JOINED != 1 then begin
+        foreach (pid: tile in granite_close) begin
+            door := tile_contains_pid_obj(tile, elevation(self_obj), pid);
+            obj_close(door);
+            obj_lock(door);
+        end
+    end
+end
+
 #endif // ENC_H

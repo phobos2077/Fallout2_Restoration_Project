@@ -33,6 +33,7 @@
 #define NAME                    SCRIPT_QITURTRM
 
 #include "..\headers\command.h"
+#include "..\headers\enc.h"
 
 #define Science_Skill           (has_skill(dude_obj,SKILL_SCIENCE))
 #define CompOption(x,y)         NOption(x,y,Needed_IQ)
@@ -478,7 +479,7 @@ procedure Node022 begin
    set_global_var(GVAR_ENCLAVE_TURRET_HELP_PLAYER,1);
 
    Reply(240);
-
+   call final_fight_lock_doors;
    CompOption(241,NodeEnd);
 end
 

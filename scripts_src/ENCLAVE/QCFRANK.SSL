@@ -35,12 +35,10 @@
 #include "..\headers\ModReact.h"
 #include "..\headers\NewReno.h"
 #include "..\headers\v13.h"
+#include "..\headers\enc.h"
 
 
-#define ENCLAVE_DOOR_PID1       (33556008)
 #define ENCLAVE_DOOR_PID2       (33556007)
-//#define ENCLAVE_DOOR_TILE1      (19280)
-#define ENCLAVE_DOOR_TILE1      (22701)
 #define ENCLAVE_DOOR_TILE2      (16719)
 
 #define BOSS_LEGS_PID           (33556234)
@@ -169,7 +167,7 @@ procedure damage_p_proc begin
    if (source_obj == dude_obj) then begin
        set_local_var(LVAR_Personal_Enemy,1);
    end
-
+   call final_fight_lock_doors;
 end
 
 /* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
@@ -205,18 +203,14 @@ procedure talk_p_proc begin
    end
 
    else if (dude_iq < 4) then begin
-       inc_local_var(LVAR_Talked_Before);
-       door:=tile_contains_pid_obj(ENCLAVE_DOOR_TILE1,elevation(self_obj),ENCLAVE_DOOR_PID1);
-       obj_close(door);
-       obj_lock(door);
+      inc_local_var(LVAR_Talked_Before);
+       call final_fight_lock_doors;
        call Node001;
        set_local_var(LVAR_Hostile,2);
    end
    else begin
        inc_local_var(LVAR_Talked_Before);
-       door:=tile_contains_pid_obj(ENCLAVE_DOOR_TILE1,elevation(self_obj),ENCLAVE_DOOR_PID1);
-       obj_close(door);
-       obj_lock(door);
+       call final_fight_lock_doors;
        start_gdialog(NAME,self_obj,4,HEAD_BOSS,BACKGROUND_BOSS);
        gSay_Start;
            call Node003;
