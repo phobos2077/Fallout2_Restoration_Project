@@ -3,3 +3,4 @@ compile.exe*
 !SRC/!COMPILED
 data/art
 data/proto
+*.int
