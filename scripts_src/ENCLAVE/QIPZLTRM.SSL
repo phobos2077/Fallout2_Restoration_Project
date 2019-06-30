@@ -27,6 +27,7 @@
 */
 #include "..\headers\define.h"
 #include "..\headers\enctrp.h"
+#include "..\headers\sfall\sfall.h"
 
 #define NAME                    SCRIPT_QIPZLTRM
 
@@ -959,64 +960,8 @@ procedure Egg_Conversant begin
 end
 
 procedure Zark_Party begin
-   if (Vic_In_Party) then begin
-       if (In_Trap_Room(Vic_Ptr)) then
-           critter_dmg(Vic_Ptr,random(DMG_LOW,DMG_HIGH),DMG_electrical);
-   end
-
-   if (Myron_In_Party) then begin
-       if (In_Trap_Room(Myron_Ptr)) then
-           critter_dmg(Myron_Ptr,random(DMG_LOW,DMG_HIGH),DMG_electrical);
-   end
-
-   if (Marcus_In_Party) then begin
-       if (In_Trap_Room(Marcus_Ptr)) then
-           critter_dmg(Marcus_Ptr,random(DMG_LOW,DMG_HIGH),DMG_electrical);
-   end
-
-   if (MacRae_In_Party) then begin
-       if (In_Trap_Room(MacRae_Ptr)) then
-           critter_dmg(MacRae_Ptr,random(DMG_LOW,DMG_HIGH),DMG_electrical);
-   end
-
-   if (Sulik_In_Party) then begin
-       if (In_Trap_Room(Sulik_Ptr)) then
-           critter_dmg(Sulik_Ptr,random(DMG_LOW,DMG_HIGH),DMG_electrical);
-   end
-
-   if (Lenny_In_Party) then begin
-       if (In_Trap_Room(Vic_Ptr)) then
-           critter_dmg(Lenny_Ptr,random(DMG_LOW,DMG_HIGH),DMG_electrical);
-   end
-
-   if (Cyberdog_In_Party) then begin
-       if (In_Trap_Room(Vic_Ptr)) then
-           critter_dmg(Cyberdog_Ptr,random(DMG_LOW,DMG_HIGH),DMG_electrical);
-   end
-
-   if (Doc_In_Party) then begin
-       if (In_Trap_Room(Doc_Ptr)) then
-           critter_dmg(Doc_Ptr,random(DMG_LOW,DMG_HIGH),DMG_electrical);
-   end
-
-   if (Goris_In_Party) then begin
-       if (In_Trap_Room(Goris_Ptr)) then
-           critter_dmg(Goris_Ptr,random(DMG_LOW,DMG_HIGH),DMG_electrical);
-   end
-
-   if (Davin_In_Party) then begin
-       if (In_Trap_Room(Davin_Ptr)) then
-           critter_dmg(Davin_Ptr,random(DMG_LOW,DMG_HIGH),DMG_electrical);
-   end
-
-   if (Miria_In_Party) then begin
-       if (In_Trap_Room(Miria_Ptr)) then
-           critter_dmg(Miria_Ptr,random(DMG_LOW,DMG_HIGH),DMG_electrical);
-   end
-
-   if (Robobrain_In_Party) then begin
-       if (In_Trap_Room(Robobrain_Ptr)) then
-           critter_dmg(Robobrain_Ptr,random(DMG_LOW,DMG_HIGH),DMG_electrical);
-   end
-
+    variable who;
+    foreach who in party_member_list_critters begin
+        if In_Trap_Room(who) and who != dude_obj then critter_dmg(who, random(DMG_LOW,DMG_HIGH),DMG_electrical);
+    end
 end
