@@ -47,7 +47,6 @@ procedure map_enter_p_proc begin
    if (global_var(GVAR_LOAD_MAP_INDEX) == 10) then begin
      set_obj_visibility(dude_obj, 0);
      fadein(500);
-   end
 //Added by Chris Holland
    //added by killap - expansion: vertibird pad
    end else if (global_var(GVAR_LOAD_MAP_INDEX) == 12) then begin // todo: find and define this magic constant
@@ -60,4 +59,6 @@ end
 
 procedure map_update_p_proc begin
    Lighting;
+   check_countdown
+   check_poisoning;
 end
