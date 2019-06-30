@@ -1,6 +1,6 @@
 procedure start;
 
-#include "..\headers\sfall.h"
+#include "..\headers\sfall\sfall.h"
 #include "..\headers\define.h"
 
 procedure start begin

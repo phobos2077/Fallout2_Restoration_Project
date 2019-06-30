@@ -17,7 +17,7 @@
 #include "..\headers\NewReno.h"
 #include "..\headers\v13.h"
 #include "..\headers\NEWR1.h" //added by killap
-#include "..\headers\sfall.h"
+#include "..\headers\sfall\sfall.h"
 
 #define LVAR_Last_Digest_Time    (0)
 
