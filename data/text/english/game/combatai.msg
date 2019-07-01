@@ -3760,8 +3760,8 @@
 #                     42800 Miria
 #                     43200 Laddie
 #                     43600 Cyberdog
-#                     44000 Robo-Brain (Idiot/Chimp) **
-#                     44400 Robo-Brain (Human/Cybernetic) **
+#                     44000 Robobrain (Idiot/Chimp) **
+#                     44400 Robobrain (Human/Cybernetic) **
 #                     44800 Goris **
 #
 ###############################################################
@@ -4822,7 +4822,7 @@
 {42177}{}{Zoiks!}
 #
 ############################################
-# 44000 Robo-Brain (Idiot/Chimp)
+# 44000 Robobrain (Idiot/Chimp)
 ############################################
 #
 # target hit in head
@@ -4866,7 +4866,7 @@
 #The chimpanzee and abnormal brain will not attack
 #
 ############################################
-# 44400 Robo-Brain (Human/Cybernetic)
+# 44400 Robobrain (Human/Cybernetic)
 ############################################
 #
 # target hit in Brain Casing

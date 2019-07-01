@@ -134,7 +134,7 @@
 {399}{}{"Bone Nose" here, if you catch my drift. Heh heh.}
 {400}{}{Cassidy here. I think it's been a while.}
 {401}{}{Vic. "Trader" Vic.}
-{402}{}{Can one of your girls read the dictionary to Robo Brain? It stimulates his brain center.}
+{402}{}{Can one of your girls read the dictionary to Robobrain? It stimulates his brain center.}
 {403}{}{Doc's looking to take a "temperature" or two.}
 {404}{}{Davin here could use…a lot…more experience.}
 {405}{}{Miria wants to take a walk on the wild side.}

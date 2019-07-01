@@ -393,7 +393,7 @@
 {37600}{}{Vic - Stage 4}
 {37700}{}{Vic - Stage 5}
 {37800}{}{Vic - Stage 6}
-{37900}{}{RoboBrain - Chimp}
+{37900}{}{Robobrain - Chimp}
 {38000}{}{Robobrain - Abnormal}
 {38100}{}{Robobrain - Human}
 {38200}{}{Giant Ant}

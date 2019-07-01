@@ -2787,8 +2787,8 @@
 #                     42800 Miria
 #                     43200 Laddie
 #                     43600 Cyberdog
-#                     44000 Robo-Brain (Idiot/Chimp) *
-#                     44400 Robo-Brain (Human/Cybernetic) *
+#                     44000 Robobrain (Idiot/Chimp) *
+#                     44400 Robobrain (Human/Cybernetic) *
 #                     44800 Goris **
 #
 ####################################################################################
