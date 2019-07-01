@@ -791,6 +791,7 @@ end
 
 procedure Node046a begin
    gfade_out(600);
+   game_time_advance( ONE_GAME_HOUR * 4);
    set_local_var( LVAR_Phyllis_Date, DATE_HAD );
    display_msg( mstr(296) );
    give_xp( EXP_PHYLLIS_DATE );
