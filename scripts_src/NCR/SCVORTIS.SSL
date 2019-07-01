@@ -292,7 +292,9 @@ procedure talk_p_proc begin
       debug_msg("VORTIS: warp out set");
       warpPlayerOut := 0;
       node1count := 0;
+      fdin;
       move_to(dude_obj, VOR_ESCORT_OUT_TILE, 0);
+      fdout;
    end
 end
 

@@ -850,7 +850,8 @@
 
 #define fadeout(X) gfade_out(X)
 #define fadein(X)  gfade_in(X)
-
+#define fdout gfade_out(1) //time param is not used anyway
+#define fdin  gfade_in(1)
 
 /* Time Information  (in Ticks) */
 
