@@ -328,11 +328,11 @@ procedure Node989 begin
    end else if (Robobrain_Ptr != 0) then begin
       sex_partner_obj := Robobrain_Ptr;
       call Node031;
+   //added by killap - expansion
    end else if (Robobrain_Human_Ptr != 0) then begin
       sex_partner_obj := Robobrain_Human_Ptr;
       call Node015;
    end
-   //added by killap - expansion
    else if (Dex_Ptr != 0) then begin
       sex_partner_obj := Dex_Ptr;
       call Node015;
@@ -345,12 +345,6 @@ procedure Node989 begin
    end
    //end added
 end
-
-#define sex_blow_job                   (700)
-#define sex_sex                        (701)
-#define sex_talk                       (702)
-#define sex_strange_sex                (703)
-
 procedure Node988 begin
    gfade_out(ONE_GAME_SECOND);
       set_no_whore_floats;
@@ -360,33 +354,26 @@ procedure Node988 begin
       end
       if (sex_type == sex_blow_job) then begin
          game_time_advance(have_sex_time / 2);
-         //use_obj_on_obj(create_object(PID_KITTY_SEX_DRUG_STRENGTH,0,0), sex_partner_obj);
-         set_map_var(MVAR_Kitty_Drug,DRUG_STRENGTH); //added by killap
+         call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_STRENGTH);
       end else if (sex_type == sex_talk) then begin
          game_time_advance(ONE_GAME_HOUR * 3);
          set_speech_bonus_given;
          display_mstr(710);
-         //use_obj_on_obj(create_object(PID_KITTY_SEX_DRUG_INTELLIGENCE,0,0), sex_partner_obj);
-         set_map_var(MVAR_Kitty_Drug,DRUG_INTELLIGENCE); //added by killap
-      //end else if (sex_type == sex_strange_sex) then begin
-      end else if (sex_type == sex_sex) then begin //edit by killap
+         call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_INTELLIGENCE);
+      end else if (sex_type == sex_strange_sex) then begin
          game_time_advance(have_sex_time * 2);
-         //use_obj_on_obj(create_object(PID_KITTY_SEX_DRUG_STRENGTH,0,0), sex_partner_obj);
-         set_map_var(MVAR_Kitty_Drug,DRUG_STRENGTH); //added by killap
+         call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_STRENGTH);
       end else begin
          game_time_advance(have_sex_time_obj(sex_partner_obj));
          if (sex_partner_obj != dude_obj) then begin
-            //use_obj_on_obj(create_object(PID_KITTY_SEX_DRUG_STRENGTH,0,0), sex_partner_obj);
-            set_map_var(MVAR_Kitty_Drug,sex_partner_obj); //added by killap
+            call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_STRENGTH);
          end else begin
-            //use_obj_on_obj(create_object(PID_KITTY_SEX_DRUG_AGILITY,0,0), sex_partner_obj);
-            set_map_var(MVAR_Kitty_Drug,DRUG_AGILITY); //added by killap
+            call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_AGILITY);
          end
       end
       if (sex_partner_obj == dude_obj) then begin
-         if (sex_type != sex_talk and sex_type != sex_blow_job) then begin//added by killap
+         if (sex_type != sex_talk) then
             up_sex_status;
-         end
       end
       //added by killap - RP
       if (sex_partner_obj == Dex_Ptr) then begin
@@ -467,12 +454,10 @@ end
 
 procedure Node977 begin
    gfade_out(ONE_GAME_SECOND);
-      if (sex_type != sex_talk and sex_type != sex_blow_job) then begin//added by killap
-        up_sex_status;
-      end
-      game_time_advance(ONE_GAME_HOUR * 12);
-      nr_add_timer_event(self_obj, 1, kitty_sex_param);
-      set_date(DATE_DONE); //added by killap - RP
+   up_sex_status;
+   game_time_advance(ONE_GAME_HOUR * 12);
+   nr_add_timer_event(self_obj, 1, kitty_sex_param);
+   set_date(DATE_DONE); //added by killap - RP
    gfade_in(ONE_GAME_SECOND);
 end
 procedure Node976 begin
