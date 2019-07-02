@@ -187,7 +187,7 @@ end
 
 procedure talk_p_proc begin
    script_overrides;
-   if (cry) then begin
+   if (cry or jonny_none) then begin
       floater_rand(150, 152);
    end else if (jonny_at_home) then begin
       if (jonny_sad_laddie_died) then begin
