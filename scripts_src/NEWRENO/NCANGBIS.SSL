@@ -324,10 +324,10 @@ procedure Node986 begin
    set_angela_rejected
 end
 procedure Node985 begin
-   use_obj_on_obj(create_object(PID_JET,0,0), dude_obj);
    call Node105;
 end
 procedure Node984 begin
+   call create_and_use_itempid_on(dude_obj, PID_JET);
    gfade_out(ONE_GAME_SECOND);
       set_angela_banged
       if (obj_is_carrying_obj_pid(dude_obj, PID_BLUE_CONDOM) > 0) then begin
