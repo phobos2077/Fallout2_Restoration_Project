@@ -17,7 +17,6 @@
 
 #define MVAR_Made_Car                            (0)
 #define MVAR_Monte_Attacked                      (1)
-#define MVAR_Kitty_Drug                          (2)
 
 #define DRUG_STRENGTH							 (1)
 #define DRUG_INTELLIGENCE					     (2)

@@ -238,7 +238,6 @@ variable visit_14_before:=0;
 variable from6:=0;
 variable Heal_Cost;
 variable prev_node; //added by killap
-variable waiting := 0; //added by killap
 
 procedure start begin
 end
@@ -291,12 +290,6 @@ procedure map_update_p_proc begin
       end
    end
 
-   //added by killap - needed for "hacky fix" for kitty drug... :(
-   if (waiting == 1) then begin
-      waiting := 0;
-   end
-   //end added
-
 end
 
 //added by killap - expansion
@@ -329,20 +322,6 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-
-   //added by killap
-   if cur_map_index == MAP_NEW_RENO_1 then begin
-      if self_obj == party_member_obj(PID_LENNY)
-         and map_var(MVAR_Kitty_Drug) == party_member_obj(PID_LENNY)
-      then begin
-         set_map_var(MVAR_Kitty_Drug, 0);
-         waiting := 1;
-         if get_critter_stat(self_obj, STAT_st) < 10 then begin
-            use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
-         end
-      end
-   end
-   //end added
 
    //added by killap - expansion
    if (local_var(LVAR_Time_To_Glow) == 1) then begin
@@ -392,9 +371,7 @@ procedure critter_p_proc begin
          debug_msg("LENNY: Causing trouble in Gecko");
       end
       else if (party_is_waiting == false) then begin
-         if (waiting != 1) then begin //check added by killap - needed for "hacky fix" for kitty drug... :(
-            party_member_follow_dude
-         end
+         party_member_follow_dude
       end
    end
    else if ((cur_town == AREA_GECKO) and (REP_ENEMY_GECKO)) then begin

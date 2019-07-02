@@ -127,7 +127,6 @@ procedure Kill_The_Party;
 
 /* Local variables which do not need to be saved between map changes. */
 variable Only_Once:=0;
-variable waiting := 0; //added by killap
 
 procedure start begin
 end
@@ -172,10 +171,6 @@ procedure map_update_p_proc begin
       end
       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
    end
-
-   if (waiting == 1) then begin
-      waiting := 0;
-   end
 end
 
 
@@ -187,20 +182,6 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-
-   //added by killap
-   if cur_map_index == MAP_NEW_RENO_1 then begin
-      if self_obj == party_member_obj(PID_BRAINBOT)
-         and map_var(MVAR_Kitty_Drug) == party_member_obj(PID_BRAINBOT)
-      then begin
-         set_map_var(MVAR_Kitty_Drug, 0);
-         waiting := 1;
-         if get_critter_stat(self_obj, STAT_st) < 10 then begin
-            use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
-         end
-      end
-   end
-   //end added
 
    if ((cur_map_index == MAP_SIERRA_BATTLE) and (global_var(GVAR_SIERRA_BASE_ENEMY) == 1) and (local_var(LVAR_Hostile) == 0)) then begin
        if (local_var(LVAR_Freed) == 0) then begin
@@ -228,13 +209,11 @@ procedure critter_p_proc begin
    end
    //end added
 
-   if (waiting != 1) then begin //check added by killap - needed for "hacky fix" for kitty drug... :(
-      if ((local_var(LVAR_In_Party) == 1) and (not(party_no_follow))) then begin
-          if (tile_distance_objs(self_obj,dude_obj) > (2*FOLLOW_DISTANCE_MEDIUM)) then
-              animate_run_to_tile(tile_num_in_direction(tile_num(dude_obj),random(0,5),FOLLOW_DISTANCE_CLOSE));
-          else if (tile_distance_objs(self_obj,dude_obj) > FOLLOW_DISTANCE_MEDIUM) then
-              animate_run_to_tile(tile_num_in_direction(tile_num(dude_obj),random(0,5),FOLLOW_DISTANCE_MEDIUM));
-      end
+   if ((local_var(LVAR_In_Party) == 1) and (not(party_no_follow))) then begin
+      if (tile_distance_objs(self_obj,dude_obj) > (2*FOLLOW_DISTANCE_MEDIUM)) then
+         animate_run_to_tile(tile_num_in_direction(tile_num(dude_obj),random(0,5),FOLLOW_DISTANCE_CLOSE));
+      else if (tile_distance_objs(self_obj,dude_obj) > FOLLOW_DISTANCE_MEDIUM) then
+         animate_run_to_tile(tile_num_in_direction(tile_num(dude_obj),random(0,5),FOLLOW_DISTANCE_MEDIUM));
    end
 
 end

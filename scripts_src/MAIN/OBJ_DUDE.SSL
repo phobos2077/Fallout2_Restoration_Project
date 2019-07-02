@@ -313,40 +313,6 @@ end
 
 
 procedure critter_p_proc begin
-   if cur_map_index == MAP_NEW_RENO_1 then begin
-      if map_var(MVAR_Kitty_Drug) > 0 and map_var(MVAR_Kitty_Drug) < 4 then begin
-         if (did_stats_check == 0) then begin
-            if (map_var(MVAR_Kitty_Drug) == 1) then begin
-               stats_check := (get_critter_stat(self_obj, STAT_st));
-            end else begin
-               if (map_var(MVAR_Kitty_Drug) == 2) then begin
-                  stats_check := (get_critter_stat(self_obj, STAT_iq));
-               end else begin
-                  stats_check := (get_critter_stat(self_obj, STAT_ag));
-               end
-            end
-            did_stats_check := 1;
-         end else begin
-            if ((stats_check != 10) and (stats_check == get_critter_stat(self_obj, STAT_st)) and (map_var(MVAR_Kitty_Drug) == 1)) then begin
-               use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
-            end else begin
-               if ((stats_check != 10) and (stats_check == get_critter_stat(self_obj, STAT_iq)) and (map_var(MVAR_Kitty_Drug) == 2)) then begin
-                  use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_INTELLIGENCE, 0, 0, -1), self_obj);
-               end else begin
-                  if ((stats_check != 10) and (stats_check == get_critter_stat(self_obj, STAT_ag)) and (map_var(MVAR_Kitty_Drug) == 3)) then begin
-                     use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_AGILITY, 0, 0, -1), self_obj);
-                  end else begin
-                     set_map_var(MVAR_Kitty_Drug, 0);
-                     did_stats_check := 0;
-                     stats_check := 0;
-                  end
-               end
-            end
-         end
-      end
-   end
-   //end added
-
    if (global_var(GVAR_DUDE_START_SEQ_1) != 0) then begin
       if (game_time > global_var(GVAR_DUDE_START_SEQ_1) and not v13_status(FLG_GRUTHAR_DEAD) and cur_map_index != MAP_VAULT_13 and (global_var(GVAR_SCHREBER_DEAD) < 1)) then begin
  // Seraph's Code: "added global_var(GVAR_SCHREBER_DEAD) < 1"

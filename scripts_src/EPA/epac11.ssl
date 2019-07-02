@@ -108,7 +108,6 @@ variable Only_Once := 0;
 variable Perform_Critter_Float := 0;
 variable Delete_Self := 0;
 variable chamber := 0;
-variable waiting := 0;
 
 #define CATJULES_HIB_HEX         (17096)
 #define CATJULES_LOCKER_HEX      (15700)
@@ -124,18 +123,6 @@ procedure push_p_proc begin
 end
 
 procedure critter_p_proc begin
-   if cur_map_index == MAP_NEW_RENO_1 then begin
-      if self_obj == party_member_obj(PID_CAT_JULES)
-         and map_var(MVAR_Kitty_Drug) == party_member_obj(PID_CAT_JULES)
-      then begin
-         set_map_var(MVAR_Kitty_Drug, 0);
-         waiting := 1;
-         if get_critter_stat(self_obj, STAT_st) < 10 then begin
-            use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
-         end
-      end
-   end
-
    if( Perform_Critter_Float == 1 ) then begin
       Perform_Critter_Float := 0;
       // Float an appropriate message based on where we are.
@@ -153,9 +140,7 @@ procedure critter_p_proc begin
       call talk_p_proc;
    end else if (Cat_Jules_In_Party) then begin
       if (party_is_waiting == false) then begin
-         if (waiting != 1) then begin //check added by killap - needed for "hacky fix" for kitty drug... :(
-            party_member_follow_dude
-         end
+         party_member_follow_dude
       end
    end
 
@@ -228,13 +213,6 @@ procedure map_update_p_proc begin
          end
       end
    end
-
-   //added by killap - needed for "hacky fix" for kitty drug... :(
-   if (waiting == 1) then begin
-      waiting := 0;
-   end
-   //end added
-
 end
 
 procedure kill_p_proc begin

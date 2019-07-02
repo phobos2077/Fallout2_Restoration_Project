@@ -95,7 +95,6 @@ variable gun;
 // End Seraph's Code */
 import variable modoc_jo_obj;
 import variable ghost_farm_slag_obj;
-variable waiting := 0; //added by killap
 
 procedure start begin
 end
@@ -195,34 +194,12 @@ procedure map_update_p_proc begin
          end
       end
    end
-
-   //added by killap - needed for "hacky fix" for kitty drug... :(
-   if (waiting == 1) then begin
-      waiting := 0;
-   end
-   //end added
 end
 
 procedure critter_p_proc begin
-   //added by killap
-   if cur_map_index == MAP_NEW_RENO_1 then begin
-      if self_obj == party_member_obj(PID_DAVIN)
-         and map_var(MVAR_Kitty_Drug) == party_member_obj(PID_DAVIN)
-      then begin
-         set_map_var(MVAR_Kitty_Drug, 0);
-         waiting := 1;
-         if get_critter_stat(self_obj, STAT_st) < 10 then begin
-            use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
-         end
-      end
-   end
-   //end added
-
    if (Davin_In_Party) then begin
       if (dude_enemy_modoc == false) then begin
-         if (waiting != 1) then begin //check added by killap - needed for "hacky fix" for kitty drug... :(
-            party_member_follow_dude
-         end
+         party_member_follow_dude
       end else begin
          set_self_abandon_party;
       end

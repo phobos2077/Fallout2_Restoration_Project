@@ -382,7 +382,6 @@ variable prev_node;
 variable current_node;
 variable temp_qty;
 import variable new_reno_myron_obj;
-variable waiting := 0; //added by killap
 
 /* Local variables which do not need to be saved between map changes. */
 
@@ -495,13 +494,6 @@ procedure map_update_p_proc begin
          end
       end
    end
-
-   //added by killap - needed for "hacky fix" for kitty drug... :(
-   if (waiting == 1) then begin
-      waiting := 0;
-   end
-   //end added
-
 end
 
 procedure map_enter_p_proc begin
@@ -529,20 +521,6 @@ procedure critter_p_proc begin
    variable tmp2;
    variable tmp;
 
-   //added by killap
-   if cur_map_index == MAP_NEW_RENO_1 then begin
-      if self_obj == party_member_obj(PID_MYRON)
-         and map_var(MVAR_Kitty_Drug) == party_member_obj(PID_MYRON)
-      then begin
-         set_map_var(MVAR_Kitty_Drug, 0);
-         waiting := 1;
-         if get_critter_stat(self_obj, STAT_st) < 10 then begin
-            use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
-         end
-      end
-   end
-   //end added
-
    //added by killap - not tested, but most likely required when Myron goes up a level
    //and changes protos.
    if (expand_carry_limit) then begin
@@ -557,9 +535,7 @@ procedure critter_p_proc begin
 
    if (Myron_In_Party) then begin
       if (myron_paused == false) then begin
-         if (waiting != 1) then begin //check added by killap - needed for "hacky fix" for kitty drug... :(
-            party_member_follow_dude
-         end
+         party_member_follow_dude
       end
    end else if (self_can_see_dude) then begin
       if (hostile) then begin

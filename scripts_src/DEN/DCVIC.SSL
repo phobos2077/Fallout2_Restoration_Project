@@ -161,7 +161,6 @@ import variable vic_door_obj; //added by killap
 #define TIMER_ENSURE_ANIM     555 //added by killap
 
 variable did_node12:=0;
-variable waiting := 0; //added by killap
 
 procedure start begin
 end
@@ -300,13 +299,6 @@ procedure map_update_p_proc begin
          end
       end
    end
-
-   //added by killap - needed for "hacky fix" for kitty drug... :(
-   if (waiting == 1) then begin
-      waiting := 0;
-   end
-   //end added
-
 end
 
 procedure push_p_proc begin
@@ -318,20 +310,6 @@ procedure push_p_proc begin
 end
 
 procedure critter_p_proc begin
-   //added by killap
-   if cur_map_index == MAP_NEW_RENO_1 then begin
-      if self_obj == party_member_obj(PID_VIC)
-         and map_var(MVAR_Kitty_Drug) == party_member_obj(PID_VIC)
-      then begin
-         set_map_var(MVAR_Kitty_Drug, 0);
-         waiting := 1;
-         if get_critter_stat(self_obj, STAT_st) < 10 then begin
-            use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
-         end
-      end
-   end
-   //end added
-
    //move by killap - would never be run if player was near Vic
    if (has_joined_party == false) then begin
       /*if (vic_free) then begin
@@ -350,9 +328,7 @@ procedure critter_p_proc begin
    end else
    //end move
    if ((Vic_In_Party) and (party_is_waiting == false)) then begin
-      if (waiting != 1) then begin //check added by killap - needed for "hacky fix" for kitty drug... :(
-         party_member_follow_dude
-      end
+      party_member_follow_dude
    end else if (self_can_see_dude) then begin
       if ( local_var(LVAR_Hostile) == 2 ) then begin
          self_attack_dude;

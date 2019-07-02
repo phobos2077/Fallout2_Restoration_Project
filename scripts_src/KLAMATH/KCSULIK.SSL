@@ -249,7 +249,6 @@ variable Only_Once:=0;
 variable luk_check;
 variable k;
 variable From_86 := 0;
-variable waiting := 0; //added by killap
 
 variable a := 0;
 variable b := 0;
@@ -314,12 +313,6 @@ procedure map_update_p_proc begin
       end
    end
 
-   //added by killap - needed for "hacky fix" for kitty drug... :(
-   if (waiting == 1) then begin
-      waiting := 0;
-   end
-   //end added
-
 end
 
 //added by killap - RP
@@ -340,20 +333,6 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-
-   //added by killap
-   if cur_map_index == MAP_NEW_RENO_1 then begin
-      if self_obj == party_member_obj(PID_SULIK)
-         and map_var(MVAR_Kitty_Drug) == party_member_obj(PID_SULIK)
-      then begin
-         set_map_var(MVAR_Kitty_Drug, 0);
-         waiting := 1;
-         if get_critter_stat(self_obj, STAT_st) < 10 then begin
-            use_obj_on_obj(create_object_sid(PID_KITTY_SEX_DRUG_STRENGTH, 0, 0, -1), self_obj);
-         end
-      end
-   end
-   //end added
 
    if ( ((local_var(LVAR_Hostile) == 2) or
          (local_var(LVAR_Personal_Enemy) == 1)) and
@@ -383,9 +362,7 @@ procedure critter_p_proc begin
          debug_msg("SULIK: Causing trouble in Klamath");
       end
       else if (party_is_waiting == false) then begin
-         if (waiting != 1) then begin //check added by killap - needed for "hacky fix" for kitty drug... :(
-            party_member_follow_dude
-         end
+         party_member_follow_dude
       end
    end
    else if ((cur_town == AREA_KLAMATH) and (REP_ENEMY_KLAMATH)) then begin
