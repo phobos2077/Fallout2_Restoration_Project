@@ -980,7 +980,7 @@ variable removed_qty;
 #define self_sex_rating          obj_sex_rating(self_obj)
 #define up_sex_status_amt(x)     inc_global_var_amt(GVAR_PLAYER_SEX_LEVEL, dude_sex_rating * x);   \
                                  inc_global_var_amt(GVAR_SEX_COUNTER, x);                          \
-                                 if (global_var(GVAR_SEX_COUNTER) >= 9) then begin                 \
+                                 if (global_var(GVAR_SEX_COUNTER) >= 10) then begin                \
                                     set_global_var(GVAR_GIGALO, 1);                                \
                                  end                                                               \
                                  if (dude_sex_rating >= sex_rating_great) then begin               \
