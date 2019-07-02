@@ -979,6 +979,7 @@ variable removed_qty;
 #define dude_sex_rating          obj_sex_rating(dude_obj)
 #define self_sex_rating          obj_sex_rating(self_obj)
 #define up_sex_status_amt(x)     inc_global_var_amt(GVAR_PLAYER_SEX_LEVEL, dude_sex_rating * x);   \
+                                 inc_global_var_amt(GVAR_SEX_COUNTER, x);                          \
                                  if (global_var(GVAR_SEX_COUNTER) >= 9) then begin                 \
                                     set_global_var(GVAR_GIGALO, 1);                                \
                                  end                                                               \
@@ -986,8 +987,8 @@ variable removed_qty;
                                     set_global_var(GVAR_SEXPERT, 1);                               \
                                  end                                                               \
                                  if (global_var(GVAR_DUDE_VIRGIN) == 1) then                       \
-                                    set_global_var(GVAR_DUDE_VIRGIN,0);                            \
-                                    inc_global_var_amt(GVAR_SEX_COUNTER, x)
+                                    set_global_var(GVAR_DUDE_VIRGIN,0);
+
 #define up_sex_status            up_sex_status_amt(1)
 #define do_default_sex           advance_sex_time;    \
                                  up_sex_status
