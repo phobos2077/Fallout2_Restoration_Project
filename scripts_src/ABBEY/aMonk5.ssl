@@ -191,7 +191,7 @@ end
 
 procedure Node005
 begin
- if (global_var(GVAR_ABBEY_BEAST) >= 4) then
+ if (global_var(GVAR_ABBEY_BEAST) >= 3) then
    Reply(550);
  else
    Reply(414);
