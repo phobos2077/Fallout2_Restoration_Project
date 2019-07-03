@@ -987,7 +987,7 @@ variable removed_qty;
                                     set_global_var(GVAR_SEXPERT, 1);                               \
                                  end                                                               \
                                  if (global_var(GVAR_DUDE_VIRGIN) == 1) then                       \
-                                    set_global_var(GVAR_DUDE_VIRGIN,0);
+                                    set_global_var(GVAR_DUDE_VIRGIN,0)
 
 #define up_sex_status            up_sex_status_amt(1)
 #define do_default_sex           advance_sex_time;    \
