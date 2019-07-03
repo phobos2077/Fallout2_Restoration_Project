@@ -107,8 +107,9 @@ end
 
 procedure combat_p_proc begin
 
-   if ( (self_cur_hits <= (self_max_hits / 3)) and (is_critter_prone(self_obj)) ) then begin
+   if ( (self_cur_hits <= (self_max_hits / 3)) or (is_critter_prone(self_obj)) ) then begin
       set_global_var(GVAR_NCR_BEAT_HOSS, 1);
+      call surrender;
    end
 
 end
@@ -174,6 +175,11 @@ procedure damage_p_proc begin
    the player for his evil acts. */
    if (source_obj == dude_obj) then begin
        set_local_var(LVAR_Personal_Enemy,1);
+   end
+
+   if (self_cur_hits <= (self_max_hits / 3)) then begin
+      set_global_var(GVAR_NCR_BEAT_HOSS, 1);
+      call surrender;
    end
 
 end
