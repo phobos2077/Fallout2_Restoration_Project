@@ -109,7 +109,7 @@
 
 {930}{}{Hoooooowl!}
 
-{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase by 5%.}
+{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase.}
 
 {951}{}{The fighting molerat goes in for the death blow.}
 {952}{}{The match is over.}
