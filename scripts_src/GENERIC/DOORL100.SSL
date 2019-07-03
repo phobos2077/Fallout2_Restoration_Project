@@ -29,6 +29,7 @@
 //    NOTE: use door_mstr() to get the generic door messages
 #define DOOR_NAME                    SCRIPT_DOOR
 #include "..\headers\command.h"
+#include "..\headers\doors.h"
 
 /* Defines and Macros */
 
@@ -1173,21 +1174,7 @@ procedure Disarm_Traps begin
        call Damage_Critter;
    end
 
-   else begin
-       if (local_var(LVAR_Found_Trap) == 0) then begin
-           if (source_obj == dude_obj) then begin
-               display_msg(door_mstr(195));
-           end
-
-           else begin
-               display_msg(obj_name(source_obj)+door_mstr(200));
-           end
-       end
-
-       else begin
-           display_msg(obj_name(source_obj)+door_mstr(202));
-       end
-   end
+   else call trap_search_result(LVAR_Found_Trap, source_obj);
 end
 
 

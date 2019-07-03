@@ -27,6 +27,7 @@
 
 #include "..\headers\command.h"
 #include "..\headers\Modoc.h"
+#include "..\headers\doors.h"
 
 /* Defines and Macros */
 
@@ -1240,21 +1241,7 @@ procedure Disarm_Traps begin
        call Damage_Critter;
    end
 
-   else begin
-       if (local_var(LVAR_Found_Trap) == 0) then begin
-           if (source_obj == dude_obj) then begin
-               display_msg(mstr(195));
-           end
-
-           else begin
-               display_msg(obj_name(source_obj)+mstr(200));
-           end
-       end
-
-       else begin
-           display_msg(obj_name(source_obj)+mstr(202));
-       end
-   end
+   else call trap_search_result(LVAR_Found_Trap, source_obj);
 end
 
 
