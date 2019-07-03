@@ -1014,4 +1014,7 @@ end
 //add this to the fids (artfid) when using obj_art_fid
 #define NPC_ARTFID_WEAPON_OFFSET	4096
 
+//late includes go here
+#include "..\headers\party2.h"
+
 #endif // DEFINE_H

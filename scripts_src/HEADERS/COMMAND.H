@@ -1250,4 +1250,11 @@ procedure create_and_use_itempid_on(variable target, variable itempid) begin
    set_self(0);
 end
 
+procedure is_human(variable who) begin
+   variable type;
+   type := critter_kill_type(who);
+   if type == KILL_TYPE_men_kills or type == KILL_TYPE_women_kills or type == KILL_TYPE_children_kills then return true;
+   return false;
+end
+
 #endif // COMMAND_H

@@ -316,35 +316,32 @@ procedure Node006a begin
 
    inc_local_var(LVAR_Drinks_Undertaker);
 
-   item:=create_object(PID_BEER,0,0);
-   add_obj_to_inven(dude_obj,item);
+   foreach who in party_member_list_critters begin
+      if is_human(who) then call create_and_use_itempid_on(who, PID_BEER);
+   end
 
-   item_caps_adjust(self_obj,20);
-   item_caps_adjust(dude_obj,-50);
+   item_caps_adjust(self_obj, 50);
+   item_caps_adjust(dude_obj, -50);
 
    call Node013;
 end
 
 procedure Node007 begin
    variable temp;
-
-   temp:=5*party_size_humans;
-
-   Reply(mstr(133)+temp+".");
-
-   NOption(134,Node007a,004);
-   NOption(135,Node002,004);
+   temp := 5 * (party_size_humans + 1); //include dude
+   Reply(mstr(133) + temp + ".");
+   NOption(134, Node007a, 004);
+   NOption(135, Node002, 004);
 end
 
 procedure Node007a begin
-   variable item;
-
-   item_caps_adjust(self_obj,3);
-   item_caps_adjust(dude_obj,-5*party_size);
-
-   item:=create_object(PID_BEER,0,0);
-   add_obj_to_inven(dude_obj,item);
-
+   variable item, price, who;
+   price := 5 * (party_size_humans + 1);
+   item_caps_adjust(self_obj, price);
+   item_caps_adjust(dude_obj, (0 - price));
+   foreach who in party_member_list_critters begin
+      if is_human(who) then call create_and_use_itempid_on(who, PID_BEER);
+   end
    call Node013;
 end
 
