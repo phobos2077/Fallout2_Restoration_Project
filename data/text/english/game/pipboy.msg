@@ -423,8 +423,8 @@
 {10026}{}{Mission Statement 2077}
 {10027}{}{Due to trained personnel shortage, Sierra Army Depot is }
 {10028}{}{to be modified into an automated defense base. All }
-{10029}{}{personnel are to be relocated to neighboring installations or }
-{10030}{}{sent to the front line. }
+{10029}{}{personnel are to be relocated to neighboring}
+{10030}{}{installations or sent to the front line.}
 {10031}{}{**END-DISK**}
 
 # Sierra Base GNN Transscript
@@ -1119,8 +1119,8 @@
 {20010}{}{mainland has been instrumental in advancing our research.}
 {20011}{}{**END-PAR**}
 {20012}{}{We've discovered that the F.E.V. virus was not originally}
-{20013}{}{designed to be used as an agent for the creation of super-}
-{20014}{}{soldiers. Initially, it appears, the F.E.V. was }
+{20013}{}{designed to be used as an agent for the creation of}
+{20014}{}{super-soldiers. Initially, it appears, the F.E.V. was }
 {20015}{}{designed as a virulent toxin. Only later was the F.E.V.}
 {20016}{}{virus manipulated in an attempt to create super-soldiers.}
 {20017}{}{**END-PAR**}
