@@ -1,0 +1,2 @@
+1:You have died.
+2:Your quest to find the Garden of Eden and return it to your village has failed.

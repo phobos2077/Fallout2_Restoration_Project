@@ -1,0 +1,563 @@
+;
+; Fallout 2 team quotes
+;
+; Begun 10/22/97
+;
+; The fonts used to display this file are the reverse of the
+; credits.txt file.  In other words, the font used to display
+; titles in credits.txt (the lines with the '@') is the font
+; used to display these quotes.  Putting an '@' at the start of
+; a line in this file will use the font used to display the
+; names in the credits.txt file (currently 104).
+;
+; Max line length with the current font (103) is about 63.
+; Anything longer than that won't be displayed, as it won't fit
+; on the screen.
+;
+; All lines are automatically centered on the display.
+;
+; See top of credits.txt for additional info.
+;
+@Quotes from the Fallout 2 team:
+(Press ESC if you don't want to see some raw language)
+
+
+
+Wanna see my tool?
+- Nick
+
+I saw where you stuck it.
+- Scotty
+
+I ain't never had nothing that big.
+- T. Ray
+
+Do you want to touch and feel the real thing?
+- Courtney
+
+Most people don't have a 22 inch hole.
+- Tim
+
+I am not going to do the prostitute today.
+- Tim
+
+I can't help it!  There are two holes down here
+and it won't fit in one of them!
+- Scotty
+
+Can you keep track of how many times you have sex in the engine?
+- Chris A.
+
+There's nothing wrong with Barney...I can't believe I just said that!
+- Chris T.
+
+If you want, I'll go whip out my 19-inch.
+- Jesse
+
+I stick lots of things in my mouth I probably shouldn't.
+- Scotty
+
+I'm beginning to feel that marketing people are the bane of the
+universe.  I used to think it was lawyers.
+- Anonymous
+
+It didn't strike me as odd that you were making duck noises.  It
+struck me as odd that I *didn't* find it odd that you were making
+duck noises.
+- Fred H.
+
+
+I haven't touched it all morning!
+- Tom F.
+Then you're gonna get spanked!
+- Fred H.
+
+
+Let me guess, you need a kleenex again?
+- Rob H.
+
+That thing has an unpleasantness about it that is not readily apparent.
+Bring in the others...I wish to taste of their unsavoriness as well.
+- Matt N.
+
+Yes, I am a loser.
+- Scotty
+
+I'm sorry, my computer is going to be "meowing" for the next
+five minutes.
+- Jesse
+
+How did I do that?  I made it bigger!
+- Nick
+
+I'm kinda anal about this...  I'm anal about everything...
+I'M ANAL MAN!!
+- Scotty
+
+There's a big difference between Thanksgiving and Burger King.
+- Mark H.
+
+It's a good idea not to do anything wrong.
+- Scotty
+
+I got a sheep.  What can I do with a sheep?
+- Scotty
+
+I think Chris A. has sex...stuff.
+- Rob H.
+
+Jesse flashes people every day...
+- Rob H.
+
+Scotty, you're better than a random fractal.
+- Anonymous
+
+I LOVE sheep!
+- Greg B.
+
+I stick other things in my mouth as well...
+- Feargus
+
+
+I'm not really interested in going...unless we're gonna do a
+lot of penetration.
+- Dave
+Yeah, you should see the tape...
+- Fred
+
+
+Sleeping is *way* better than moving.
+- Nick
+
+You look up SUCK and you'll see my name, address and previous
+convictions.
+- John D.
+
+*I* think it's worth a dollar for 3 days of day-dreaming.
+- Fred
+
+We have to put the whores in, so the player has someone to
+wake up next to, if they don't sleep with Jenny.
+- Matt
+
+Are there any scripts you can have sex with?
+- Tom
+
+I was aiming it at his crotch and it kept going off.
+- Jesse
+
+I'll never get away from that, nor from the panties.
+- Nick
+
+I can't get Jenny to talk after having sex with her.
+- Nick
+
+Well, I can always cut his nose off and look...
+- Jesse
+
+I...I...I have no one to be bitter against.
+- Nick
+
+I hearby establish that Wednesday is cock day.
+- Feargus
+
+Man, are *you* white.
+- T-Ray
+
+I got 2 kisses and some other things.
+- Fred H.
+
+I'd rather see that than a WonderBra (tm) convention.
+- Tom
+
+Size doesn't matter to me.
+- Rob H.
+
+Please create on me.
+- Matt N.
+
+I had Darren tonight, and I wanted to make sure that if
+anything went wrong I could bring it back.
+- Scotty
+
+If you want to see Godzilla's penis, go into Tom F.'s
+office.
+- John D.
+
+Everytime you touch that keyboard, it's like you're
+touching me.
+- Chris A.
+
+Gary's here, but he's not around.
+- Scotty
+
+Well, that's just what he said.  I don't know if that's
+the case, since he's English and not to be trusted.  Of
+course, *I* am English.
+- Feargus
+
+I meant "snatch" in the sense of "to pilfer."
+- Chris A.
+
+Jesse's more of an expert on how drugs work.
+- Nick
+
+I have no idea where I am going to stuff them.
+- Feargus
+
+I'm not hungry, but I should eat because I don't have
+any food at home.
+- Nick
+
+What is your obsession with Dilbert and nudity?
+- Evan C.
+
+User error!  User Error!  I proved you don't know how
+to use a stapler!  Now stay away from my tape
+dispenser.
+- Scotty
+
+Ow!  Not my hairy arm!
+- Scotty
+
+You put the 'b' in subtle.
+- Colin
+
+Because it's my ass.  You *all* share my ass!
+- Feargus
+
+I'm sunburned so bad it's not even funny, and I just
+touched myself!
+- John D.
+
+Did you see Tom with the sheep last night?  He was a
+God!  I never saw anyone handle sheep so well.
+- Jesse
+
+Nick is tough and wiry...like bad jerky.
+- Chris A.
+
+What is it about a product cycle that makes me want
+to cry?
+- Chris A.
+
+You want him 'puppetized'?
+- Rob H.
+
+That almost looks like my tickle-tickle wiggle-wiggle
+thing.
+- Jeremey B.
+
+I don't have time for your diction.
+- Chris A.
+
+Keep singing, Nick...Jess...Who *are* you?
+- Gary
+
+Cancer, stay away from my penis!
+- Tom F.
+
+I blame your grandparents for even having your
+parents.
+- Tom F.
+
+I feel a lot better about the project when I'm in
+denial.
+- Scotty
+
+How am I going to get my head out of there?
+- Scotty
+
+Hatch: An advanced formula for pain.
+- Scotty
+
+I was pretty good with sheep from the beginning.
+- Dave
+
+I couldn't find my ferret this morning, that's why
+I was late.
+- Gary
+
+Scotty -- He's our dongle.
+- Chris A.
+
+Why is yours so much bigger than mine?  Oh, it's
+zoomed in.
+- Jesse
+
+Clothes I can do without!
+- Zeb
+
+What is the deal with the homing, exploding
+brahmin?
+- Greg B.
+
+Here's your scissors.  Take them before I stab
+Colin with them.
+- Tom F.
+
+See, I even censor myself!
+-Feargus
+
+Like I said last night, it has nothing to do
+with being limber.
+- Fred H.
+
+I don't need to see dismembered naked women.
+Well...never mind.
+- Greg B.
+
+I'm doing the president tonight.
+- Fred H.
+
+I'm slow...'cause I don't know what I'm doing!
+- Gary P.
+
+I can come by and slap it in for you...
+- Eric Pribish
+
+At the first sign of trouble I'm going to run
+for cover like a little girl.
+- Fred H.
+
+If it has the right data, then it will just
+automatically work!
+- Jesse R.
+
+I'm going to show you what it's like to be
+stabbed in the eye and die.
+- Nick K.
+
+I love the way you tighten when you laugh.
+- Matt N.
+
+Do you just pump it to shoot?
+- Dave H.
+
+My brain was removed completely intact.
+- Dave H.
+
+Dan has a martian that's much cleaner.
+- Nick K.
+
+Explain to me how eating a gallon of
+boogers is a philosophical question.
+- John D.
+
+Is it possible to make drugs have
+*serious* side-effects?
+- Nick K.
+
+
+I don't see this as a problem.  The rats
+go "squee".
+- Matt N.
+The cows go "moo", the dogs go "arf, arf".
+- Chris J. (The REAL one)
+
+
+I was amazed at how small I could get it.
+- Scotty
+It's still the biggest one we got.  We
+might be able to handle it.
+- Fred
+
+Nick's right, sleeping *is* way better
+than moving.
+- Jesse R.
+
+Ooooh, can I choke the dragon?
+- Dave H.
+
+I'd like to pop her with a sunbolt.
+- Dave H.
+
+Did you get your little thingy to do it?
+- Feargus
+
+
+Would you like half a glass of Demo?
+- Scotty
+They're talking about juicing Mark's cat.
+That can't be good.
+- Jesse R.
+
+
+I seem to be doing better as a woman.
+- Chad A.
+
+Yeah, *I'll* make it sore.
+- Scotty
+
+Don't give Sulik flares, cause he'll
+chuck them like the President's seed.
+- Dany M.
+
+I was whacking Big Jesus, and I have
+something to show you.
+- Chris A.
+
+I'll talk to Chad, he's married Sulik
+many times.
+- Nick K.
+
+We're not dealing with rocket scientists
+here.  We're dealing with computer game
+players.
+- Chris A.
+
+I say we delete it all and start over.
+- Chris H.
+
+I can't imitate Nick's voice.  I'm too
+manly.
+- Rodney S.
+
+I think that goes beyond the normal
+attraction most men have for sticky notes.
+- Greg B.
+
+I'm going to go fuck Rob Right now.  He
+deserves it.
+No, you don't understand, he helped me so
+much there.  He did the trunk thing.
+- Dan S.
+
+I'm going to flash them first, then I will
+use the wand.
+- Dave H.
+
+
+Uh-oh.  They're making squirrel noises
+again.
+- Feargus
+
+What is the sound a naked squirrel makes?
+- Dan S.
+
+
+You wouldn't give me a happy face for
+Gecko, so I gave myself one.
+- Nick K.
+
+I hate that when you people stab me in
+the eye with a fork.
+- Fred H.
+
+I like to look.  It's fascinating to me.
+- Dave H.
+
+I wanna be a queen.
+- Doug A.
+
+Yeah, that's why the bounty hunters
+turned into fruit tables, too.
+- Jesse R.
+
+Your dad sure has a sweet ass.
+- Tom F.
+
+Go outside, there's a rat on the street.
+It's a cheat rat.
+- Tom F.
+
+Excuse while I squeek a bit until we get
+warmed up.
+- Dan S.
+
+Go now or forever hold Ed's penis.
+- Tom F.
+
+The first time I tried it, I was on my
+back all day.
+- Chris H.
+
+We are going to be on display like
+cattle.
+- Dave H.
+
+Not only can I do art, but I'm a
+professional stripper on the side.
+- Scotty
+
+I'm hungry 'cause I'm a pig.
+- Fred H.
+
+I'm kinda bummed I'm not in the quote
+file.
+- Captain Victory
+
+Have you seen my crack?  It's right there.
+It's huge.
+- Dave H.
+
+Even if this code was working right, it would
+still be broken.
+- Chris H.
+
+I'm never going to mention bodily functions again.
+- Matt N.
+
+Still missing two balls?
+- Dave H.
+
+I just saw a brahmin poop!
+- Ed H.
+
+I'm a marsupial by night.
+- Tom F.
+I need to inspect your pouch.
+- Matt N.
+
+Rat soccer; games QA plays.
+- Jesse R.
+
+Yeah, well don't believe everything you read in
+the design docs.
+- Chris A.
+
+He was walking around and all of a sudden he
+was nude.
+- Jesse R.
+
+Do you mind if I piss in your wastebasket?
+- Greg B.
+
+Now you're absolutely sure there's no sex
+going on here, right?
+- Chris A.
+
+Get your fingers out of my box!
+- Jeremy B.
+
+Let me stick this in and then I'll show it to
+you.
+- Scotty
+
+Oops, the orgy has been broken up.
+- Tom F.
+
+The closer we get to shipping, the more like
+Jim Morrison you get.
+- Gary P.
+
+Yes, I agree, the frog *does* look more
+sophisticated with only one pineapple.
+- Jesse R.
+
+Could you look at the cowardly brahmin AI
+packet when you get the chance?  It's
+fighting back with me.
+- Tom F.
+
+Have you played with explosives yet today,
+Greg?
+- Dennis P.
+
+I feel like one of those fish that has the
+leeches all over it.
+-Scotty
+
+Why is yours in such good condition?  Is it
+'cause you never use it?
+- Jesse R.
