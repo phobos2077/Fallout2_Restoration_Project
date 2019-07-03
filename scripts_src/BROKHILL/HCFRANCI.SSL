@@ -411,7 +411,7 @@ procedure destroy_p_proc begin
 
 /* Increment the aligned critter counter*/
    inc_good_critter
-
+   set_global_var(GVAR_BH_MIGHTY_MAN, MIGHTY_MAN_WON); //cross out the wrestling quest
 /* Set global_variable for Enemy status*/
 end
 
@@ -789,6 +789,7 @@ procedure Node027a begin
    give_xp( EXP_CONFRONTED_FRANCIS );
    set_global_var( GVAR_TOWN_REP_BROKEN_HILLS, (global_var(GVAR_TOWN_REP_BROKEN_HILLS) + REP_TOWN_CONFRONTED_FRANCIS ) );
    Francis_Leaves := 1;
+   set_global_var(GVAR_BH_MIGHTY_MAN, MIGHTY_MAN_WON); //cross out the wrestling quest
 end
 
 //xxxxxxxxxxxxxxxxxxxx
