@@ -75,7 +75,7 @@
 {197}{}{No, sorry. I have to go now.}
 
 # 12.
-{198}{}{Hey, I got some jet. It’s great stuff and brand new from Reno. Want some?}
+{198}{}{Hey, I got some Jet. It’s great stuff and brand new from Reno. Want some?}
 {199}{}{No way!}
 {200}{}{How much?}
 {201}{}{No, I want information.}
@@ -145,7 +145,7 @@
 {243}{}{OK, thanks. Bye.}
 
 # 22.
-{244}{}{For you, I will sell jet for $500.}
+{244}{}{For you, I will sell Jet for $500.}
 {245}{}{No, thanks. Bye.}
 {246}{}{No, thanks, but I would like to ask you something.}
 {247}{}{That’s too much!}
@@ -169,7 +169,7 @@
 
 # 25
 {257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
- with another new chem! Nothing can beat jet!}
+ with another new chem! Nothing can beat Jet!}
 {258}{}{No, you moron.}
 {259}{}{No, it’s a place. Can I ask something else?}
 {260}{}{Yes, a wonderful chem.}

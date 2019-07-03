@@ -116,7 +116,7 @@
 {603}{}{Archives}
 {604}{}{Alarm Clock}
 {605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
-{606}{}{Welcome to the Rob Co Pip-Boy 2000.}
+{606}{}{Welcome to the RobCo Pip-Boy 2000.}
 {607}{}{So long.}
 {608}{}{Wake up.}
 

@@ -92,6 +92,6 @@
 
 # 12. MELEE MENU (7)
 {301}{}{Give him your cattle prod. Uh... after making sure that he grabs it hilt first.}
-{302}{}{Your Beat Co. "Bigger Frigger" Power Fist.}
+{302}{}{Your BeatCo "Bigger Frigger" Power Fist.}
 
 {400}{}{Me kill Al. Me better get outta here}

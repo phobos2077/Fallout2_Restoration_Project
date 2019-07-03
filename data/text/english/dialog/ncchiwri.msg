@@ -139,7 +139,7 @@
 {402}{}{Hmmmmm. Thanks. }
 
 # 20. WHAT ABOUT RICHARD? (6, 8, 9, 10, 12)
-{410}{}{Rich? Aw, you know, he was found like one of those jet crashers, dead in one of the gutters. Near as we can
+{410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
  figure, someone pumped him with chems until he was dead.}
 {411}{}{'Someone' gave him too much? How do you know he didn't overdose because he took too much?}
 {412}{}{Who do you figure might have done it?}

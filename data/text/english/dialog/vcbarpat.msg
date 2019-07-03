@@ -40,7 +40,7 @@
 {139}{}{Don't drink the water around here. It makes geiger counters tick.}
 {140}{}{Whenever those Citizens walk by, they don't make eye contact or say hello.}
 {141}{}{Vault City may not love us, but at least they protect us.}
-{142}{}{Watch out for that Autodoc. It cures you...most of the time. Just don't press your luck.}
+{142}{}{Watch out for that Auto-Doc. It cures you...most of the time. Just don't press your luck.}
 {143}{}{Ed, the brahmin dealer, had to raise his prices again to meet the monthly guard payment.}
 {144}{}{That Skeev let me slip some hootch into town for a percentage. }
 {145}{}{Been on the road for the past week. Came from NCR, way down south.}

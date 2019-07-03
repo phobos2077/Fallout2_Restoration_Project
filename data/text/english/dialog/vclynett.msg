@@ -515,7 +515,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {546}{}{Uh...sure. Sorry. I had some other questions...}
 {547}{}{Crystal clear. I'll just be going now.}
 {548}{}{My apologies, First Citizen. Good day.}
-{549}{lyn085}{Of COURSE he only treats Citizens. He has no time to treat Outsiders... we have an Auto Doc
+{549}{lyn085}{Of COURSE he only treats Citizens. He has no time to treat Outsiders... we have an Auto-Doc
  in the courtyard for that.}
 {550}{}{Well, you might want to know that the Doctor asked me to smuggle some illegal drugs into the city.}
 {551}{}{Oh. Look, I had some other questions...}
