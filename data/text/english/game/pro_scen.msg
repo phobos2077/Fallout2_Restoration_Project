@@ -2604,12 +2604,12 @@
 {169400}{}{Shadow}
 {169500}{}{Shadow}
 {169600}{}{Shadow}
-{169700}{}{Crashed Vertibird}
-{169800}{}{Crashed Vertibird}
-{169900}{}{Crashed Vertibird}
-{170000}{}{Crashed Vertibird}
-{170100}{}{Crashed Vertibird}
-{170200}{}{Crashed Vertibird}
+{169700}{}{Strange machine, crashed}
+{169800}{}{Strange machine, crashed}
+{169900}{}{Strange machine, crashed}
+{170000}{}{Strange machine, crashed}
+{170100}{}{Strange machine, crashed}
+{170200}{}{Strange machine, crashed}
 {170300}{}{Shadow}
 {170400}{}{Shadow}
 {170500}{}{Shadow}
