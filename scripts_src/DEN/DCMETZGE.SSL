@@ -711,6 +711,7 @@ procedure Node024 begin
 end
 procedure Node025 begin
    item_caps_adjust(dude_obj, -party_price);
+   item_caps_adjust(self_obj, party_price);
    set_global_var(GVAR_DEN_SEE_VIC, state_see_vic_okay);
    set_vic_free;
    Reply(510);
