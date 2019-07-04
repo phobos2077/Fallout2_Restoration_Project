@@ -197,6 +197,9 @@ procedure Node036;
 #define LVAR_warned_dude                (10)
 #define LVAR_Weapon_Check               (11) //added by killap
 
+// duntons like bad boys
+#define duntons_like    ((TOWN_REPUTATION < 5) or has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+
 //following should be changed to mapvars
 //even herebefore,hostile and personal_enemy might be changed to mapvar
 //#define LVAR_11_before                  (7)
@@ -423,7 +426,6 @@ procedure checktile begin
    if (tile_distance(here,17926) < 5) then tile:=GOLDENGECKO;//these distances should be small
    else if (tile_distance(here,18100) < 4) then tile:=SHOP;//so the duntons wont block doorways
 end
-
 
 procedure checkarea begin
 //need to check what map they are on also
@@ -1167,7 +1169,7 @@ procedure Node003 begin
    if (from_18) then
       Reply(132);
    else begin
-      if (TOWN_REPUTATION < 5 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+      if duntons_like then
          Reply(130);
       else
          Reply(131);
@@ -1215,7 +1217,7 @@ procedure Node006 begin
    else if (global_var(GVAR_RUSTLE_OVER) == 1) then
       call Node06b;
    else begin
-      if (TOWN_REPUTATION > 5 or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then  //killap's fix: changed from 4 and added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+      if not(duntons_like) then
          call Node06c;
       else
          call Node06d;
@@ -1224,7 +1226,7 @@ end
 
 procedure Node06a begin
    Reply(160);
-   if ( (TOWN_REPUTATION > 4 or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) and (area == PASTURE) ) then // added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if ((not duntons_like) and (area == PASTURE)) then
       NOption(531,Node999,004);
    if (area != PASTURE) then
       NOption(166,Node003,004);
@@ -1383,7 +1385,7 @@ procedure Node015 begin
       Reply(260);
    else begin
       if (get_critter_stat(dude_obj,STAT_st) < 5) then begin
-         if (TOWN_REPUTATION > 4 or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // edit by killap - added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+         if not duntons_like then
             Reply(261);
          else begin
             if (who_am_i == 1) then
@@ -1394,13 +1396,13 @@ procedure Node015 begin
       end
       else begin
          if (who_am_i == 1) then begin
-            if (TOWN_REPUTATION > 4 or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // edit by killap - added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+            if not duntons_like then
                Reply(264);
             else
                Reply(266);
          end
          else begin
-            if (TOWN_REPUTATION > 4 or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // edit by killap - added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+            if not duntons_like then
                Reply(265);
             else
                Reply(267);
@@ -1513,14 +1515,18 @@ procedure Node023 begin
 end
 
 procedure Node024 begin
-   if (global_var(GVAR_RUSTLE_REFUSE) == 1) then
-     Reply(370);
-   else
-     Reply(371);
-
-   NOption(372,Node006,004);
-   NOption(373,Node941,004);
-   if ((obj_is_carrying_obj_pid(dude_obj, 285 ) > 0) and (global_var(GVAR_KLAMATH_FIND_RUSTLERS) == FIND_RUSTLERS_ACCEPT)) then //killap's fix: based off of carrying and not map PID_BUG_PARTS
+   if duntons_like then begin
+      if (global_var(GVAR_RUSTLE_REFUSE) == 1) then
+         Reply(370);
+      else
+         Reply(371);
+      NOption(372,Node006,004);
+      NOption(373,Node941,004);
+   end else begin
+      Reply(530);
+   end
+   NOption(392,Node999,004);
+   if ((obj_is_carrying_obj_pid(dude_obj, PID_RADSCORPION_PARTS ) > 0) and (global_var(GVAR_KLAMATH_FIND_RUSTLERS) == FIND_RUSTLERS_ACCEPT)) then //killap's fix: based off of carrying and not map PID_BUG_PARTS
       NOption(374,Node026,004);
 end
 
