@@ -294,13 +294,9 @@ end
 
 procedure Node005a begin
    variable item;
-
-   item_caps_adjust(self_obj,2);
-   item_caps_adjust(dude_obj,-5);
-
-   item:=create_object(PID_BEER,0,0);
-   add_obj_to_inven(dude_obj,item);
-
+   item_caps_adjust(self_obj, 5);
+   item_caps_adjust(dude_obj, -5);
+   create_and_use_itempid_on(who, PID_BEER);
    call Node013;
 end
 
@@ -338,7 +334,7 @@ procedure Node007a begin
    variable item, price, who;
    price := 5 * (party_size_humans + 1);
    item_caps_adjust(self_obj, price);
-   item_caps_adjust(dude_obj, (0 - price));
+   item_caps_adjust(dude_obj, -price);
    foreach who in party_member_list_critters begin
       if is_human(who) then call create_and_use_itempid_on(who, PID_BEER);
    end
@@ -422,11 +418,7 @@ procedure Node016 begin
 end
 
 procedure Node016a begin
-   variable item;
-
-   item:=create_object(PID_BEER,0,0);
-   add_obj_to_inven(dude_obj,item);
-
+   create_and_use_itempid_on(dude_obj, PID_BEER);
    call Node017;
 end
 
